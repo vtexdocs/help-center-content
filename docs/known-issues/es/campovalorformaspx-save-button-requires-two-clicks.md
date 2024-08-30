@@ -3,8 +3,8 @@ title: 'El botón de guardar de CampoValorForm.aspx requiere dos clics'
 id: G0YtmOpdB4nNdw8w87ZNz
 status: PUBLISHED
 createdAt: 2022-02-16T13:28:52.922Z
-updatedAt: 2022-11-25T21:45:10.712Z
-publishedAt: 2022-11-25T21:45:10.712Z
+updatedAt: 2024-02-16T20:26:25.672Z
+publishedAt: 2024-02-16T20:26:25.672Z
 firstPublishedAt: 2022-02-16T13:28:53.505Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-boton-de-guardar-de-campovalorformaspx-requiere-dos-clics
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 525616
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

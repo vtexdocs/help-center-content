@@ -3,7 +3,7 @@ title: 'Proteção contra ataques em transações'
 id: 62oQBmi7UZlYlgb0Ha1hZ3
 status: DRAFT
 createdAt: 2021-10-25T19:02:59.690Z
-updatedAt: 2021-12-10T13:52:07.652Z
+updatedAt: 2024-03-01T15:58:16.139Z
 publishedAt: 
 firstPublishedAt: 
 contentType: tutorial
@@ -15,14 +15,13 @@ legacySlug: protecao-contra-ataques-em-transacoes
 subcategory: 
 ---
 
-## Proteção contra ataques em transações
+# Proteção contra ataques em transações
 
 A proteção contra ataques envolvendo transações é uma das soluções que a VTEX oferece para reduzir o risco de operações fraudulentas. Esta proteção é ativada automaticamente quando detectamos uma taxa muito alta de negação de autorizações de transações (acima de 90%) dentro de um curto período de tempo (15 minutos).
 
 Na primeira versão, ao ser ativada, a proteção consistirá em aplicar uma alteração no fluxo de pagamento da compra. Este procedimento não causará um aumento no tempo do pedido ou na diminuição da conversão da loja. Uma vez que o pedido esteja fechado, o consumidor receberá a mensagem de pagamento aprovado (ou reprovado) posteriormente via mensagem eletrônica (email ou SMS).
 
-<div class = "alert alert-info"> A proteção não impede totalmente que a loja sofra ataques de cartões, mas reduz de forma considerável o número desses eventos. Desta forma, as transações tornam-se mais seguras.
-</div>
+>ℹ️ A proteção não impede totalmente que a loja sofra ataques de cartões, mas reduz de forma considerável o número desses eventos. Desta forma, as transações tornam-se mais seguras.
 
 ### Como habilitar a proteção contra ataques em transações?
 
@@ -42,8 +41,7 @@ Para habilitar a proteção, confira o passo a passo:
 
 ### Como desabilitar a proteção contra ataques em transações?
 
-<div class = "alert alert-danger"> Desabilitar a proteção contra ataques em transações aumenta o risco para o lojista de fraude por teste de cartão (operação efetuada por um fraudador utilizando um grande número de dados de cartões para realizar transações fraudulentas). Em caso de ataques que possam prejudicar um ou mais sistemas internos da VTEX, a plataforma poderá reabilitar compulsoriamente a proteção contra ataques, e o lojista será informado desta operação.
-</div>
+>❗ Desabilitar a proteção contra ataques em transações aumenta o risco para o lojista de fraude por teste de cartão (operação efetuada por um fraudador utilizando um grande número de dados de cartões para realizar transações fraudulentas). Em caso de ataques que possam prejudicar um ou mais sistemas internos da VTEX, a plataforma poderá reabilitar compulsoriamente a proteção contra ataques, e o lojista será informado desta operação.
 
 Para desabilitar a proteção, confira o passo a passo:
 
@@ -77,6 +75,7 @@ Para acessar estas informações, confira o passo a passo:
 ![tela-ameaça-neutralizada1](https://images.ctfassets.net/alneenqid6w5/68JvVENRbcGGOcBFXno54/fe85365340965f6d7927f2d6525d27a2/tela-amea__a-neutralizada1.png)
 
 ### Artigos relacionados
+
 - [O que é antifraude?](https://help.vtex.com/pt/tutorial/o-que-e-antifraude)
 - [Como configurar o antifraude](https://help.vtex.com/pt/tutorial/como-configurar-antifraude)
 - [Visão geral de Pagamentos](https://help.vtex.com/pt/tutorial/pci-gateway-visao-geral)

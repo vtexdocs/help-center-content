@@ -18,9 +18,7 @@ internalReference: 320044
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Después de cambiar (actualizar o eliminar) algunos anexos de artículos en el catálogo de productos, si ya tiene algún carro/formulario de pedido que hace referencia a artículos con el anexo específico, el formulario de pedido ya no se puede cargar.

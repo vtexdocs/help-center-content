@@ -3,8 +3,8 @@ title: 'How My Account works'
 id: 2BQ3GiqhqGJTXsWVuio3Xh
 status: PUBLISHED
 createdAt: 2019-04-11T21:14:26.117Z
-updatedAt: 2023-04-24T23:39:56.581Z
-publishedAt: 2023-04-24T23:39:56.581Z
+updatedAt: 2023-12-21T14:09:42.863Z
+publishedAt: 2023-12-21T14:09:42.863Z
 firstPublishedAt: 2019-05-21T19:48:15.019Z
 contentType: tutorial
 productTeam: Identity
@@ -26,9 +26,7 @@ In [basic settings](#basic-settings), you can configure which sections will appe
 - [Subscriptions](#subscriptions)
 - [Authentication](#authentication)
 
-<div class = "alert alert-info">
-To learn about <b>My Account</b> customization, see our developer documentation <a href="https://developers.vtex.com/docs/guides/vtex-my-account">My Account - StoreV2 version</a>. Be aware that VTEX does not offer support for <b>My Account</b> when customized.
-</div>
+>ℹ️ To learn about **My Account** customization, see our developer documentation [My Account - StoreV2 version](https://developers.vtex.com/docs/guides/vtex-my-account). Be aware that VTEX does not offer support for **My Account** when customized.
 
 ## Profile
 
@@ -77,6 +75,8 @@ The `Add address` button allows customers to include new addresses besides the o
 
 ## Orders
 
+>ℹ️ In [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), customers can only access their orders from the last two years.
+
 This section displays a list of all orders placed by the customer in your store. The list is sorted by creation date and displays details such as order date, total price of the order, order ID, status, and items purchased.
 
 ![orders EN](https://images.ctfassets.net/alneenqid6w5/1VTgMxrq3WI02LZt21wuw6/29e797af3e99000a06d906bf5e3ae0d1/orders_EN.png)
@@ -115,7 +115,12 @@ The `More options` button allows customers to change their order information, su
 
 ## Credit cards
 
-In the **Credit cards** section, the customer has autonomy to manage credit cards in their account. They can include and edit the credit card data saved at checkout. To add new cards, follow the steps below:
+In the **Credit cards** section, the customer has autonomy to manage the credit cards related to his account through the following actions:
+
+- Add new cards
+- Remove cards with an expired expiration date
+
+To add new cards, follow the steps below:
 
 1. Open **My Account** in the store.
 2. Click the **Credit cards** tab.
@@ -167,9 +172,7 @@ To change an existing password, follow the instructions below:
 4. Click on `SAVE PASSWORD`.
 ![My Authentication change password EN](https://images.ctfassets.net/alneenqid6w5/7qyiWDAjdSBEjppq6Ti94c/4a055c06066c293502ffb9652d220c93/My_Authentication_change_password_EN.png)
 
-<div class="alert alert-info">
-If you have forgotten your password, you cannot recover it using the option for resetting passwords. To recover your password, you must log out of your current session, try to log in using your email address and password, and click on <strong>I forgot my password</strong>.
-</div>
+>ℹ️ If you have forgotten your password, you cannot recover it using the option for resetting passwords. To recover your password, you must log out of your current session, try to log in using your email address and password, and click on **I forgot my password**.
 
 ### Session management
 

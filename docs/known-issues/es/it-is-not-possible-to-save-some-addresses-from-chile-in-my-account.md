@@ -1,5 +1,5 @@
 ---
-title: 'No es posible guardar algunas direcciones de Chile en "Mi cuenta"'
+title: "No es posible guardar algunas direcciones de Chile en 'Mi cuenta'"
 id: 6DLPSH4eJY0Hbgtc5iGh21
 status: PUBLISHED
 createdAt: 2022-02-24T14:51:08.104Z
@@ -18,9 +18,7 @@ internalReference: 386030
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Hay un caso de algunas direcciones que no se pueden guardar en la página de la sección Mi Cuenta en las cuentas de Chile.

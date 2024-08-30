@@ -28,7 +28,7 @@ Uma alternativa para os passos acima é acessar o painel de configuração de ma
 
 Substitua STORENAME pelo accountName da sua loja.
 
-![Multiplus1](//images.contentful.com/alneenqid6w5/2NxVrnsnZCOuQOqEOIusOq/d5cd381241a842c29e81763ea6f8f506/Multiplus1.png)
+![Multiplus1](https://images.contentful.com/alneenqid6w5/2NxVrnsnZCOuQOqEOIusOq/d5cd381241a842c29e81763ea6f8f506/Multiplus1.png)
 
 Após clicar em **Integrar**, será aberto um formulário com alguns campos a serem preenchidos. Atente-se aos campos obrigatórios: são aqueles em que aparece um “\*” ao lado da caixa de texto.
 
@@ -41,7 +41,7 @@ Após clicar em **Integrar**, será aberto um formulário com alguns campos a se
 - **Código Parceiro que será utilizado na Multiplus**: Este código deve conter de 1 a 30 dígitos, de sua escolha. Para habilitar suas vendas você deverá informar esse código à Multiplus após realizar a configuração no Bridge. Caso você altere esse código, o novo também deverá ser informado à Multiplus, que modo que seja feita a atualização. Caso isso não ocorra, a loja ficará impedida de realizar vendas;
 - **E-mails para a criação do Afiliado**: Depois que a configuração for salva, a integração criará o Afiliado na VTEX e inserirá essa informação no cadastro.
 
-![Multiplus2](//images.contentful.com/alneenqid6w5/4lTWbmFiGcOoIkUK8KSIAm/501d2f8e79300fc814d08ac600d7b0be/Multiplus2.png)
+![Multiplus2](https://images.contentful.com/alneenqid6w5/4lTWbmFiGcOoIkUK8KSIAm/501d2f8e79300fc814d08ac600d7b0be/Multiplus2.png)
 
 
 Após as informações estarem preenchidas, clique em **Salvar** e espere a mensagem de sucesso aparecer.

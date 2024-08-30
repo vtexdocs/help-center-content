@@ -62,7 +62,5 @@ Tópicos:
 Insira abaixo seu [nome de conta](https://help.vtex.com/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC#) VTEX para acessar a documentação.
 <iframe src="https://help.vtex.com/insertaccountname?id=1ayXEtqawI9yuxFXutiITh" title="Insira seu nome de conta e clique no botão." frameBorder="0" width="400" height="50"></iframe>
 
-<div class="alert alert-warning">
-  Se está tendo dificuldades para acessar o conteúdo dos FAQs, tente instalar a versão mais recente do aplicativo <code>vtex.admin-docs</code> usando a <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference">CLI da VTEX</a> e repetir o processo.
-</div>
+>⚠️ Se está tendo dificuldades para acessar o conteúdo dos FAQs, tente instalar a versão mais recente do aplicativo `vtex.admin-docs` usando a [CLI da VTEX](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference) e repetir o processo.
 

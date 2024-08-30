@@ -1,10 +1,10 @@
 ---
-title: "Error "can't create search criteria! error: filter already exists:"brandId"" when creating a promotion excluding more than 1 brand."
+title: "Error 'can't create search criteria! error: filter already exists: 'brandId' when creating a promotion excluding more than 1 brand"
 id: 6s6cvYpImIBEH0SLqE3J2U
 status: PUBLISHED
 createdAt: 2022-09-22T15:53:15.001Z
-updatedAt: 2022-11-25T22:11:53.363Z
-publishedAt: 2022-11-25T22:11:53.363Z
+updatedAt: 2024-02-16T20:23:47.779Z
+publishedAt: 2024-02-16T20:23:47.779Z
 firstPublishedAt: 2022-09-22T15:53:16.277Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: error-cant-create-search-criteria-error-filter-already-existsbrandid-when-creating-a-promotion-excluding-more-than-1-brand
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 663698
 ---
 

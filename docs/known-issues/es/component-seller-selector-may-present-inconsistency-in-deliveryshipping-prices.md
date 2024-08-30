@@ -3,8 +3,8 @@ title: 'El selector de vendedores de componentes puede presentar incoherencias e
 id: 2agLvjXgT76ngdu3YsA6uh
 status: PUBLISHED
 createdAt: 2022-09-14T22:26:22.177Z
-updatedAt: 2022-11-25T22:13:07.124Z
-publishedAt: 2022-11-25T22:13:07.124Z
+updatedAt: 2024-02-16T20:28:08.976Z
+publishedAt: 2024-02-16T20:28:08.976Z
 firstPublishedAt: 2022-09-14T22:26:22.762Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: el-selector-de-vendedores-de-componentes-puede-presentar-incoherencias-en-los-precios-de-entregaenvio
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 658452
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El componente Selector de Vendedor presenta incoherencias en los precios de entrega/envío en función del importe del pedido.

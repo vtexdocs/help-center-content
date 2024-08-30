@@ -3,8 +3,8 @@ title: 'Regra de Divergência de valores'
 id: 6RlFLhD1rIRRshl83KnCjW
 status: PUBLISHED
 createdAt: 2021-12-25T20:10:25.853Z
-updatedAt: 2023-03-29T21:53:14.071Z
-publishedAt: 2023-03-29T21:53:14.071Z
+updatedAt: 2024-03-22T15:11:31.300Z
+publishedAt: 2024-03-22T15:11:31.300Z
 firstPublishedAt: 2021-12-25T21:05:20.600Z
 contentType: tutorial
 productTeam: Channels
@@ -19,9 +19,7 @@ Quando um seller vende em um marketplace, por vezes há uma diferença entre o p
 
 Para otimizar o processamento de pedidos com erro de diferença de preço, existe o fluxo de Autorização de pedidos, no qual o seller pode [configurar uma regra de Divergência de valores](https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe). No Admin VTEX, acesse **Configurações da loja > Pedidos > Autorização de pedidos**, ou digite **Autorização de pedidos** na barra de busca no topo da página.
 
-<div class="alert alert-warning">
-Uma vez que o seller cria a regra de Divergência de valores, ela passa a valer para todos os marketplaces.
-</div>
+>⚠️ Uma vez que o seller cria a regra de Divergência de valores, ela passa a valer para todos os marketplaces.
 
 A regra de Divergência de valores é composta de uma ou mais regras de autorização de pedidos. Cada regra de autorização corresponde a um intervalo percentual do preço do pedido, e pode variar de 0% a 100%. É necessário associar uma entre três ações a cada regra de autorização:
 
@@ -29,13 +27,11 @@ A regra de Divergência de valores é composta de uma ou mais regras de autoriza
 - **Negar automaticamente:** pedidos com diferença de preço até a porcentagem definida são automaticamente recusados e não são integrados.
 - **Criar uma tarefa no VTEX DO para aprovação:** para diferenças de preço dentro do intervalo configurado, o pedido é integrado, mas fica pendente de [autorização manual](https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#autorizar-pedidos-manualmente) por parte de um usuário habilitado.
 
-![print_1_PT](https://drive.google.com/uc?export=download&id=1GqQINM-uP0UnRrKZ7CxAqrkWEy-1tXkK)
+![price_divergence_rules_PT](https://images.ctfassets.net/alneenqid6w5/3eUHS2dcIUY5KiDshLpurc/f3858b3abbc1be86fd281ba357198e3f/price_divergence_rules_PT.png)
 
 Quando a [configuração de uma regra de Divergência de valores](https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe) não foi feita, pedidos com erro de divergência de preço são aprovados automaticamente. Isso vale para marketplaces VTEX, marketplaces externos e conectores certificados (parceiros), mas não para [conectores nativos](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex).
 
-<div class="alert alert-warning">
-Quando um seller está integrado a um conector nativo, como o Mercado Livre ou a B2W, mas não configurou uma regra de Divergência de valores, pedidos com erro por diferença de preço ficam pendentes até a criação da regra. É possível acompanhá-los no seu Admin VTEX, em <b>Marketplace > Conexões > Pedidos</b>.
-</div>
+>⚠️ Quando um seller está integrado a um conector nativo, como o Mercado Livre ou a B2W, mas não configurou uma regra de Divergência de valores, pedidos com erro por diferença de preço ficam pendentes até a criação da regra. É possível acompanhá-los no seu Admin VTEX, em **Marketplace > Conexões > Pedidos**.
 
 Após a criação da regra de Divergência de valores, pedidos de integrações com conectores nativos que apresentem diferença de preço passam a ser exibidos na página [Todos os pedidos](https://help.vtex.com/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi).
 
@@ -51,9 +47,7 @@ Para criar uma regra de Divergência de valores, o usuário precisa ter o perfil
 
 Você pode acompanhar pedidos integrados a partir da regra de Divergência de valores no Admin VTEX, em **Pedidos > [Todos os pedidos](https://help.vtex.com/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi)**.
 
-<div class = "alert alert-info">
-É importante acompanhar regularmente os pedidos no módulo <b>Pedidos</b> Caso exijam aprovação manual, os pedidos permanecem pendentes até que um usuário habilitado conceda a autorização necessária.
-</div>
+>ℹ️ É importante acompanhar regularmente os pedidos no módulo **Pedidos** Caso exijam aprovação manual, os pedidos permanecem pendentes até que um usuário habilitado conceda a autorização necessária.
 
 ### Saiba mais
 

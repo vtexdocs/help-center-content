@@ -15,9 +15,7 @@ legacySlug: searching-for-orders-in-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-<div class="alert alert-info">
-<strong>Warning:</strong> you may search in ranges of up to <b>6 months</b>.
-</div>
+>ℹ️ **Warning:** you may search in ranges of up to **6 months**.
 
 The Orders Management search bar enables you to find orders in a variety of ways. Just type in the desired term and press __Enter__ to check the results. It can also be used together with filters, whenever you need to [filter orders in Orders management](/en/tutorial/filtering-orders-in-oms).
 

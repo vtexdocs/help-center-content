@@ -1,10 +1,10 @@
 ---
 title: 'Catalog Overview'
 id: FFrumKPYFpvIWKRXfhQYp
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-03-28T17:25:52.296Z
-updatedAt: 2023-03-28T17:31:02.205Z
-publishedAt: 2023-03-28T17:31:02.205Z
+updatedAt: 2024-03-14T16:38:37.477Z
+publishedAt: 
 firstPublishedAt: 2023-03-28T17:31:02.205Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -23,8 +23,6 @@ The **Catalog** menu contains the features related to the product assortment of 
 -	**Specifications:** product properties that define the specific characteristics of the variations.  
 
 The **Catalog** menu in your redesigned Admin brings together the pages where you manage your ecommerce catalog, pricing, and inventory.
-
-![visao-geral-produto-EN](https://images.ctfassets.net/alneenqid6w5/6hg7IQ4sv6sphRtywSsDMQ/be0aec115746ca9494e44e3f120983ed/image.png)
 
 Check out the menu’s different sections and pages below.
 

@@ -3,8 +3,8 @@ title: 'Los enlaces de paginación en los resultados de la búsqueda no funciona
 id: 1w6h5MwZthKMM8rvqXZtQi
 status: PUBLISHED
 createdAt: 2022-11-02T14:01:35.650Z
-updatedAt: 2022-11-25T21:41:59.731Z
-publishedAt: 2022-11-25T21:41:59.731Z
+updatedAt: 2024-02-16T20:26:50.585Z
+publishedAt: 2024-02-16T20:26:50.585Z
 firstPublishedAt: 2022-11-02T14:01:36.502Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: los-enlaces-de-paginacion-en-los-resultados-de-la-busqueda-no-funcionan-en-las-paginas-de-la-lista-de-regalos
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 481330
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Los enlaces de paginación en `SearchResult` no funcionan en `Giftlist`.

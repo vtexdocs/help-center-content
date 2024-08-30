@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugPT: customizando-o-layout-do-instore
 ---
 
-<div class="alert alert-danger">
-A customização do layout do inStore, explicada neste artigo, envolve e alteração do arquivo CSS <code>checkout-instore-custom.css</code>. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos.
-</div>
+>❗ A customização do layout do inStore, explicada neste artigo, envolve e alteração do arquivo CSS `checkout-instore-custom.css`. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos.
 
 Por meio do painel administrativo da VTEX, a loja tem acesso ao arquivo CSS editável que define os estilos do aplicativo do inStore. Portanto, é possível customizar esses estilos.
 

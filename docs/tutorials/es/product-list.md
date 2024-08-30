@@ -3,8 +3,8 @@ title: 'Seller Portal: Productos'
 id: 49vxWqoaWRZC4atwLz6cMg
 status: PUBLISHED
 createdAt: 2021-04-12T15:21:30.529Z
-updatedAt: 2023-03-24T14:24:33.863Z
-publishedAt: 2023-03-24T14:24:33.863Z
+updatedAt: 2023-11-22T13:59:30.669Z
+publishedAt: 2023-11-22T13:59:30.669Z
 firstPublishedAt: 2021-04-12T18:21:27.025Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -29,6 +29,8 @@ Desde la lista de productos puede llevar a cabo varias acciones:
 ## Crear un nuevo producto
 
 Al hacer clic en el botón **CREAR PRODUCTO**, se abrirá la página para registrar un nuevo producto en el catálogo. Consulte el artículo [Cómo crear un producto](https://help.vtex.com/es/tutorial/como-crear-un-producto-beta--671zAWe0B9eCikzDu7kB1G) para obtener información sobre cómo realizar este procedimiento.
+
+>⚠️ El límite para cada cuenta en el Seller Portal es de 100 mil productos. Para obtener más información, póngase en contacto con <a href="https://support.vtex.com/hc/pt-br/requests">nuestro equipo de soporte.
 
 ## Buscar productos
 

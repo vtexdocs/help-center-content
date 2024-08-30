@@ -3,8 +3,8 @@ title: 'Configuring a payment condition'
 id: 6bzGxlz4inf8sKmvZ1c7i3
 status: PUBLISHED
 createdAt: 2019-11-26T17:47:27.426Z
-updatedAt: 2023-03-21T20:02:36.184Z
-publishedAt: 2023-03-21T20:02:36.184Z
+updatedAt: 2024-03-13T21:42:43.233Z
+publishedAt: 2024-03-13T21:42:43.233Z
 firstPublishedAt: 2019-11-26T20:43:48.321Z
 contentType: trackArticle
 productTeam: Financial
@@ -27,17 +27,18 @@ Payment conditions are rules that must be followed by a person who wants to buy 
 That said, we can move on to configuring the payment conditions.
 
 ## General Settings
-To configure a payment condition, you must first add an affiliation, as explained in the [Gateway Affiliations](https://help.vtex.com/en/tutorial/registering-gateway-affiliations--tutorials_444) document.
 
-What does not change from one payment method to another is the need to:
-- Define a name for the rule according to what it represents, to help you identify it.
-- Activate it.
-- Define by which gateway affiliation this condition will be processed.
-- Define if you will use [anti-fraud](https://help.vtex.com/en/tutorial/how-to-configure-the-anti-fraud--tutorials_446) or not.
+To set up a payment condition, you first need to register a payment provider, as described in [Register payment and anti-fraud providers](https://help.vtex.com/en/tutorial/registering-gateway-affiliations--tutorials_444).
 
-In addition, it is possible to define whether the payment will be a prepayment in full or in installments, with or without interest and [special conditions](https://help.vtex.com/en/tutorial/condicoes-especiais--tutorials_456?locale=en "special conditions").
+Regardless of the payment condition to be chosen, the following actions must always be carried out:
+- Define the name of the rule according to what it represents, to help identify it;
+- Activate it;
+- Define which payment provider this condition will be processed by;
+- Define whether or not you will use [anti-fraud](https://help.vtex.com/en/tutorial/como-configurar-antifraude--tutorials_446).
 
-Since the payment method that allows all of these settings is **Credit Card**, follow the steps below for each of these settings.
+Furthermore, for some payment conditions it may be necessary to define whether payment will be made in cash or in installments, with or without interest and [special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+
+As the __Credit Card__ is a payment method that allows you to apply all these features, see below how to configure it:
 
 ## Prepayment in full
 
@@ -51,9 +52,9 @@ That done, follow the instructions:
 4. Choose a credit card brand.
 5. Name the rule in the **Rule Name** field.
 6. Activate the condition in the **Status** field.
-7. In the **Process with affiliation** field, choose the affiliation you configured.
+7. In the **Process with provider** field, choose the previously configured provider.
 8. In the **Prepaid in full or in installments?** field, select the **Prepaid in full** option.
-9. Click on the **Save** button.
+9. Click **Save**.
 
 ## In installments
 
@@ -69,11 +70,11 @@ It is noteworthy that the field **Billing** will only be taken into account for 
 4. Choose a credit card brand.
 5. Name the rule in the **Rule Name** field.
 6. Activate the condition in the **Status** field;
-7. In the **Process with affiliation** field, choose the affiliation you configured.
+7. In the **Process with provider** field, choose the previously configured provider.
 8. In the **Prepaid in full or in installments?** field, select the **In installments** option.
 9. Configure the number of sequential or individual installments in the **Total installments** field.
 10. Define a minimum installment to be applied according to the value of each product.
-11. Click on the **Save** button.
+11. Click **Save**.
 
 ### With interest 
 
@@ -85,7 +86,7 @@ If you decide to configure a payment method that accepts installments with inter
 4. Choose a credit card brand.
 5. Name the rule in the **Rule Name** field.
 6. Activate the condition in the **Status** field.
-7. In the **Process with affiliation** field, choose the affiliation you configured.
+7. In the **Process with provider** field, choose the previously configured provider.
 8. In the **Prepaid in full or in installments?** field, select the **In installments** option.
 9. Configure the number of sequential or individual installments in the **Total installments** field.
 10. Define a minimum installment to be applied according to the value of each product.
@@ -93,19 +94,15 @@ If you decide to configure a payment method that accepts installments with inter
 12. Click on the **Set installment rate** button.
 13. Enter the amount of interest you want to apply to each installment.
 14. Click on **Compound interest applied. Change** to choose between compound or simple interest.
-15. Click on the **Save** button.
+15. Click **Save**.
 
 ### Automatic Installment
 The Automatic Installment option allows you to configure the details of the installments directly in the payment provider (outside the VTEX environment).
-To enable this option, select “Yes” in the **Use external installments** field during the [affiliation setup](https://help.vtex.com/en/tutorial/afiliacoes-de-gateway--tutorials_444) step.
+To enable this option, select “Yes” in the **Use external installments** field during the [provider setup](https://help.vtex.com/en/tutorial/afiliacoes-de-gateway--tutorials_444) step.
 
 ![automaticinstallment](https://images.ctfassets.net/alneenqid6w5/3ErHSFlSGyUwbLzJWaUlXw/965203e926177f608618ed0048411de6/parcelamentoautomaticous.JPG)
 
-<div class="alert alert-warning">
-  Currently, only the MercadoPagoV1 affiliation allows the automatic installment function.
-</div>
-
-After enabling automatic installment payment on the affiliation, follow these steps:
+After enabling automatic installment payment on the provider, follow these steps:
 
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
 2. Click on **Payment Conditions**.
@@ -113,9 +110,9 @@ After enabling automatic installment payment on the affiliation, follow these st
 4. Choose a credit card brand.
 5. Name the rule in the **Rule Name** field.
 6. Activate the condition in the **Status** field.
-7. In the **Process with affiliation** field, choose the affiliation you configured.
+7. In the **Process with provider** field, choose the previously configured provider.
 8. If you want to use an anti-fraud system, select the option **Use anti-fraud**.
 9. Select an anti-fraud option. 
 10. In the **Prepaid in full or in installments?** field, select the **Automatic** option.
-11. Click on the **Save** button.
+11. Click **Save**.
 

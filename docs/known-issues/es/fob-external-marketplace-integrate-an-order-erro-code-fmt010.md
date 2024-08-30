@@ -1,10 +1,10 @@
 ---
-title: 'El mercado externo FOB integra un pedido (código Erro: "FMT010")'
+title: "El mercado externo FOB integra un pedido (código Erro: 'FMT010')"
 id: 3qzV4zJRkPIwQnAZuK5dWu
 status: PUBLISHED
 createdAt: 2022-02-25T16:33:49.641Z
-updatedAt: 2022-11-25T22:00:10.646Z
-publishedAt: 2022-11-25T22:00:10.646Z
+updatedAt: 2024-02-16T20:26:31.795Z
+publishedAt: 2024-02-16T20:26:31.795Z
 firstPublishedAt: 2022-02-25T16:33:50.398Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: el-mercado-externo-fob-integra-un-pedido-codigo-erro-fmt010
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 532377
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El mercado externo (socio) al tratar de integrar los pedidos FOB están recibiendo el error:

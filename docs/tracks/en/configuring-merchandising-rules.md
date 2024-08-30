@@ -3,8 +3,8 @@ title: 'Creating merchandising rules - Manual Editor'
 id: 2FpbarYzsnbg7aZZn3TGF8
 status: PUBLISHED
 createdAt: 2020-04-14T14:10:24.518Z
-updatedAt: 2023-04-03T22:07:36.546Z
-publishedAt: 2023-04-03T22:07:36.546Z
+updatedAt: 2024-01-29T16:58:41.850Z
+publishedAt: 2024-01-29T16:58:41.850Z
 firstPublishedAt: 2020-04-15T00:39:30.807Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -23,8 +23,8 @@ Follow the steps below to configure a [merchandising rule](https://help.vtex.com
    * **Rule name**: Name of the merchandising rule. Example: Promote product A when searching for a chocolate cookie.
    * **Start date (optional)**: Set a date from which the merchandising rule will apply. The date follows the UTC-0 time zone.
    * **End date (optional)**: Set a date on which the merchandising rule will no longer apply to store searches. The date follows the UTC-0 time zone.
-   * **Locales:** Languages to which the merchandising rule will apply.
-5. Click **Manual Editor**. For more information about each editor, go to [Types of editing](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#types-of-editing).
+   * **Apply to locales:** Languages to which the merchandising rule will apply. The field is only available for stores using [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+5. Click on **Manual editor**. For more information on each editor, see [Types of editing](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#types-of-editing).
 6. Click `Next`.
 7. If necessary, you can change what you have already filled in about the new merchandising rule in the [General Information](#general-information) section.
 8. Define the [Trigger rules](#trigger-rules), the set of conditions that determine when the merchandising rule will be applied.
@@ -32,9 +32,9 @@ Follow the steps below to configure a [merchandising rule](https://help.vtex.com
    Add one or more conditions to apply the desired customization effect in this step. To learn how to add a condition, see [Merchandising rule conditions](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
 10. Click `Save`.
 
-<div class="alert alert-info">
-  <p>After saving, the changes to merchandising rules will take an average of two minutes to be updated.</p>
-</div>
+>ℹ️ After saving, the changes to merchandising rules will take an average of two minutes to be updated.
+
+## Example
 
 Imagine the following example: You want to promote Beautyx products during the 4th of July week. When the customer searches for "soap" or "shampoo", the search should promote the brand's products, so the configuration should be:
 
@@ -72,18 +72,12 @@ Imagine the following example: You want to promote Beautyx products during the 4
 
 * **Remove**: Deletes the selected conditions from the result, so it removes products that would be displayed in the search results.
 
-  <div class="alert alert-info">
-  <p><strong>Add</strong> and <strong>Remove</strong> are compatible with other sorting types, not based on the configured relevance. So, suppose you add or remove a product using a merchandising rule, and the customer sorts the search results by price. In that case, the products will be sorted by price, and the products displayed will follow the merchandising rule.</p>
-  </div>
+  >ℹ️ **Add** and **Remove** are compatible with other sorting types, not based on the configured relevance. So, suppose you add or remove a product using a merchandising rule, and the customer sorts the search results by price. In that case, the products will be sorted by price, and the products displayed will follow the merchandising rule.
 
 * **Promote**: Highlights selected conditions in the result, giving more relevance to a product normally displayed in the search results. The order of the conditions affects the priority in which they are displayed. Besides, a product added to this field is only promoted in one result.
 
 * **Demote**: Hides the selected conditions in the result. This allows you to deprioritize a product normally displayed in the search results.
 
-  <div class="alert alert-info">
-  <p><strong>Promote</strong> and <strong>Demote</strong> only work when your customers sort the search results by relevance. If they sort it by price, the products will be sorted strictly by price, and the merchandising rule will not be applied.</p>
-  </div>
+  >ℹ️ **Promote** and **Demote** only work when your customers sort the search results by relevance. If they sort it by price, the products will be sorted strictly by price, and the merchandising rule will not be applied.
 
-  <div class="alert alert-warning">
-  <p>Do not set conditions that will affect the same products in the <strong>Promote</strong> and <strong>Demote</strong> sections, since these are opposite effects. This misconfiguration negatively influences the feature's behavior and does not produce the desired results.</p>
-  </div>
+  >⚠️ Do not set conditions that will affect the same products in the **Promote** and **Demote** sections, since these are opposite effects. This misconfiguration negatively influences the feature's behavior and does not produce the desired results.

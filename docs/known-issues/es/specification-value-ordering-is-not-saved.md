@@ -18,9 +18,7 @@ internalReference: 584182
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 No es posible cambiar el orden de los valores de las especificaciones para las cuentas con un gran volumen de valores. Cuando se cambia el orden de algún valor, la página se recarga y el cambio no se guarda

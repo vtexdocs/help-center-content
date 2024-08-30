@@ -3,8 +3,8 @@ title: 'Seller Portal: primeros pasos del seller'
 id: 6w1vBdRH2uuBGmUqgNQjwK
 status: PUBLISHED
 createdAt: 2021-01-26T15:08:22.524Z
-updatedAt: 2023-03-02T21:29:12.945Z
-publishedAt: 2023-03-02T21:29:12.945Z
+updatedAt: 2024-05-30T22:41:41.434Z
+publishedAt: 2024-05-30T22:41:41.434Z
 firstPublishedAt: 2021-09-15T20:50:27.452Z
 contentType: tutorial
 productTeam: Channels
@@ -52,6 +52,8 @@ Conozca algunos detalles sobre el lanzamiento de la versión Beta de Seller Port
 - Gestionar el surtido de productos del propio seller  
 
 ## Configurar su tienda
+
+>⚠️ El límite para cada cuenta en el Seller Portal es de 100 mil productos. Para obtener más información, póngase en contacto con <a href="https://support.vtex.com/hc/pt-br/requests">nuestro equipo de soporte.
 
 Para comenzar a vender sus productos en el marketplace, se debe configurar su tienda en el Seller Portal. Este artículo explica el flujo completo de esa configuración inicial, e indica otra documentación más detallada sobre los pasos a seguir. La configuración básica de Seller Portal incluye los pasos a continuación.
 
@@ -131,9 +133,18 @@ Anuncio es el nombre que le damos a un producto o variación de un seller, que h
 ### 7. Pedidos
 En el momento en que el cliente final de la tienda presiona el botón *Pagar*, se genera un pedido en VTEX. Esto significa que ahora usted podrá realizar el seguimiento del flujo del pedido en el módulo de Gestión de pedidos dentro del panel de administración de su tienda. Es decir, puede conocer los detalles de cada paso del progreso del pedido. Para acceder al módulo de pedidos, navegue por la barra lateral haciendo clic en  Pedidos > Todos los pedidos / Transacciones. Conozca más leyendo nuestro artículo:
 
-- [Como funcionan pedidos en VTEX](https://help.vtex.com/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE)
+- [Como funcionan pedidos en VTEX](https://help.vtex.com/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE)  
 
-### 8. Supervisar Gestión de anuncios
+### 8. Crear y gestionar promociones.
+
+La página **Promociones** en el Seller Portal permite a los retaillers y marketplaces crear promociones y administrar una lista completa de promociones registradas, simplificando la administración de promociones.
+
+Para aprender más, lea los siguientes artículos:
+
+- [Seller Portal: Promociones](https://help.vtex.com/es/tutorial/seller-portal-promocoes--73LL7Ja0P4JbD77AH0jHwu)  
+- [Seller portal: crear una promoción](https://help.vtex.com/es/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI)  
+
+### 9. Supervisar Gestión de anuncios
 
 El módulo «Gestión de anuncios» permite a los sellers supervisar el envío de anuncios a todos los canales integrados con la tienda y su sincronización. La página principal posee dos componentes que muestran, en tiempo real, el status de los anuncios y sus actualizaciones a partir de los datos procedentes del marketplace y de otros módulos VTEX.  Es donde los sellers pueden dar seguimiento a todas las interacciones de tipo Catálogo, Precio o Stock en sus anuncios para identificar errores durante el envío y sincronización de los anuncios.
 
@@ -192,6 +203,4 @@ No habrá necesidad de configurar estos módulos manualmente a través de Seller
 
 Para integrar con su ERP, lea nuestra [guía de integración con ERP](https://developers.vtex.com/docs/guides/erp-integration-guide). 
 
-<div class="alert alert-info">  
-  <p>Para generar las claves de acceso necesarias para integrarse con su ERP, haga clic en el <strong>avatar de su perfil</strong>, marcado con la inicial de su correo electrónico y vaya a <strong>Configuración de la cuenta> Claves de aplicación</strong>.</p>
-</div>
+>ℹ️ Para generar las claves de acceso necesarias para integrarse con su ERP, haga clic en el **avatar de su perfil**, marcado con la inicial de su correo electrónico y vaya a **Configuración de la cuenta> Claves de aplicación**.

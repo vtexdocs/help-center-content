@@ -1,10 +1,10 @@
 ---
 title: 'Gestão de recebíveis'
 id: 4zO5DEg07BSqHsmlBrCgvr
-status: PUBLISHED
+status: DRAFT
 createdAt: 2020-05-28T18:01:47.594Z
-updatedAt: 2023-03-14T22:07:36.630Z
-publishedAt: 2023-03-14T22:07:36.630Z
+updatedAt: 2023-10-05T14:14:03.274Z
+publishedAt: 
 firstPublishedAt: 2020-05-29T17:50:17.208Z
 contentType: trackArticle
 productTeam: Financial
@@ -53,6 +53,4 @@ Isso significa que, caso o lojista queira receber o valor total de uma compra as
 
 Assim, o lojista tem a possibilidade de gerenciar melhor seu fluxo de caixa em momentos de queda de receita, por exemplo.
 
-<div class="alert alert-warning">
-  O limite máximo que o lojista pode receber em uma única transferência é de R$ 50.000,00 (cinquenta mil reais). Caso seja necessário retirar um valor maior que este limite, duas ou mais transferências devem ser realizadas.
-  </div>
+>⚠️ O limite máximo que o lojista pode receber em uma única transferência é de R$ 50.000,00 (cinquenta mil reais). Caso seja necessário retirar um valor maior que este limite, duas ou mais transferências devem ser realizadas.

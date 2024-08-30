@@ -3,8 +3,8 @@ title: 'Change Order through the UI does not take into account the calculation o
 id: 3rvsDyCggYirvH7WT9rBVZ
 status: PUBLISHED
 createdAt: 2022-03-15T20:25:17.217Z
-updatedAt: 2022-11-25T22:03:48.329Z
-publishedAt: 2022-11-25T22:03:48.329Z
+updatedAt: 2024-02-16T20:23:38.705Z
+publishedAt: 2024-02-16T20:23:38.705Z
 firstPublishedAt: 2022-03-15T20:25:17.513Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: change-order-through-the-ui-does-not-take-into-account-the-calculation-of-promotions-take-3-pay-2
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 472882
 ---
 

@@ -15,9 +15,7 @@ legacySlug: pontos-de-retirada-para-pedidos-de-assinatura-beta
 subcategory: 3RmFd9bgAeRAVGeBd7XDUr
 ---
 
-<div class="alert alert-info">
-  <p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 Um ponto de retirada é um local físico onde o cliente tem a opção de retirar o seu pedido, em vez de recebê-lo em casa. Um cenário para essa funcionalidade é a retirada em loja física, por exemplo.
 
@@ -28,9 +26,7 @@ Veja abaixo o que é necessário para habilitar essa funcionalidade.
 - [Requisitos](#requisitos)
 - [Escolher pontos de retirada](#escolher-pontos-de-retirada)
 
-<div class="alert alert-info">
-  <p>A funcionalidade de pontos de retirada está disponível apenas para as contas que já têm acesso ao <b>Checkout V6</b>.</p>
-</div>
+>ℹ️ A funcionalidade de pontos de retirada está disponível apenas para as contas que já têm acesso ao **Checkout V6**.
 
 ## Requisitos
 

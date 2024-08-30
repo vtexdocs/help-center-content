@@ -44,9 +44,7 @@ Once you have an API Key, proceed as follows:
 
 ![Geolocalizacao 1 EN](https://images.ctfassets.net/alneenqid6w5/6pPXB9VKz6aQIA8YUWyyKk/ae4f7acd4ed20feac7edf6d27960c902/Geolocalizacao_1_EN.png)
 
-<div class="alert alert-info">
-In some countries, Google Maps does not provide high quality mapping. Therefore it is possible that some addresses will be written wrongly, or Google may indicate an incorrect address. In these cases, you must correct the address on the map itself.
-  </div>
+>ℹ️ In some countries, Google Maps does not provide high quality mapping. Therefore it is possible that some addresses will be written wrongly, or Google may indicate an incorrect address. In these cases, you must correct the address on the map itself.
 
 ### Setting up the polygon
 

@@ -17,9 +17,7 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 Customers can request to exchange or return items from an order. The **Return items** feature allows you to remove items from an order in order to return them.
 
-<div class = "alert alert-info">
-See the article <a href="https://help.vtex.com/en/tutorial/como-devolver-itens-do-pedido-beta--2bSNWwD0g8fcUmuupLao9i">How to return items from an order (Beta)</a> and learn how to use this feature in Admin V4.
-</div>
+>ℹ️ See the article [How to return items from an order (Beta)](https://help.vtex.com/en/tutorial/como-devolver-itens-do-pedido-beta--2bSNWwD0g8fcUmuupLao9i) and learn how to use this feature in Admin V4.
 
 To return order items, follow the steps below:
 
@@ -35,12 +33,13 @@ To return order items, follow the steps below:
 
 ![Returning order items](https://drive.google.com/uc?export=download&id=1T8YBwjDEQh3sGnpAybVkpuYqKjPy8zjQ)
 
-<div class="alert alert-warning">
-Please note that:
-<ul>
-<li>Returning a SKU in the Orders management module does not update its available inventory quantity. The store must update the number of items in <a href="https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139">Inventory management</a>.</li>
-<li>The number of the return invoice must be different from the sales invoice. </li>
-<li>Once the order is returned, the platform notifies the payment system to <a href="https://help.vtex.com/en/tutorial/como-funciona-estorno-quando-ha-devolucao-do-item">refund</a> the order.</li>
-<li>You can only return orders that contain at least one invoice on the platform.</li>
-</ul>
-</div>
+>⚠️ Please note that:
+>
+> *Returning a SKU in the Orders management module does not update its available inventory quantity. The store must update the number of items in [Inventory management](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+>
+> *The number of the return invoice must be different from the sales invoice.
+>
+> *Once the order is returned, the platform notifies the payment system to [refund](https://help.vtex.com/en/tutorial/como-funciona-estorno-quando-ha-devolucao-do-item) the order.
+>
+> *You can only return orders that contain at least one invoice on the platform.
+> 

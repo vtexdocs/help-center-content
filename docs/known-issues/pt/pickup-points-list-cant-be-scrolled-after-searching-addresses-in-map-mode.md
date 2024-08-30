@@ -3,8 +3,8 @@ title: 'A lista de pontos de coleta não pode ser rolada depois de procurar ende
 id: 3e0JgNoWSQ0GAw8kurGrIR
 status: PUBLISHED
 createdAt: 2022-08-11T18:35:48.300Z
-updatedAt: 2022-11-25T21:50:52.987Z
-publishedAt: 2022-11-25T21:50:52.987Z
+updatedAt: 2024-07-01T18:48:32.968Z
+publishedAt: 2024-07-01T18:48:32.968Z
 firstPublishedAt: 2022-08-11T18:35:48.775Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-lista-de-pontos-de-coleta-nao-pode-ser-rolada-depois-de-procurar-enderecos-no-modo-de-mapa
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 624646
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao pesquisar um ponto de coleta no carrinho ou checkout enquanto em um layout estreito/resposta ao retrato (largura inferior a 1024px) usando a visualização do mapa, os resultados serão apresentados no modo lista em vez do próprio mapa, e esta lista não funcionará (o usuário não pode rolar a lista para baixo).

@@ -3,8 +3,8 @@ title: 'Order cancellation requested by the customer'
 id: 3wEI6DUNtecooG2Ki4Akqo
 status: PUBLISHED
 createdAt: 2019-01-24T21:42:57.276Z
-updatedAt: 2023-04-28T00:40:54.949Z
-publishedAt: 2023-04-28T00:40:54.949Z
+updatedAt: 2024-04-01T15:51:58.098Z
+publishedAt: 2024-04-01T15:51:58.098Z
 firstPublishedAt: 2019-01-24T21:42:57.707Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -17,9 +17,9 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 Customers may request to cancel their order for various reasons. They can [cancel an order automatically](https://help.vtex.com/en/tutorial/order-cancellation-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo#cancellation-within-the-grace-period) within the **grace period for cancellation**, or after that period upon the [retailer cancellation approval](https://help.vtex.com/en/tutorial/order-cancellation-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo#cancellation-approved-by-the-retailer). 
 
-<div class="alert alert-danger">
-Once an order is canceled, it is no longer possible to change its status.
-</div>
+>❗ Once an order is canceled, it is no longer possible to change its status.
+
+>⚠️ Orders with [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 ## Cancellation within the grace period
 
@@ -27,9 +27,7 @@ When the customer requests to cancel an order during the [grace period](https://
 
 * Customers must request the cancellation in __My Orders__, by clicking `Request order cancellation`.
 
-<div class = "alert alert-info">
-When the customer requests the order's cancellation within the grace period, the notification of this action is sent only to the <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">Sponsor user</a> (admin master) of the account.
-</div>
+>ℹ️ When the customer requests the order's cancellation within the grace period, the notification of this action is sent only to the [Sponsor user](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) (admin master) of the account.
 
 ## Cancellation approved by the retailer
 
@@ -42,9 +40,7 @@ The retailer must approve or reject the cancellation request. If the retailer do
 
 Even if the retailer uses the [VTEX DO](https://help.vtex.com/en/tutorial/vtex-do--7KMbRL4OslN8DTX9oiuCiu) to deny the cancellation requested by the customer, the retailer must proceed with the order's [billing](https://help.vtex.com/en/tutorial/faturar-um-pedido--7p1h852V5t54KyscpgxE2v), which is what makes the order follow its flow.
 
-<div class="alert alert-warning">
-If the <a href="https://help.vtex.com/en/tutorial/order-replacement--2IK9mwQjBKseQmE8K8saO8#enabling-the-feature">Order replacement</a> feature is enabled, customers will be able to change or cancel orders at any time, including after the grace period for cancellation.
-</div>
+>⚠️ If the [Order replacement](https://help.vtex.com/en/tutorial/order-replacement--2IK9mwQjBKseQmE8K8saO8#enabling-the-feature) feature is enabled, customers will be able to change or cancel orders at any time, including after the grace period for cancellation.
 
 ## Cancellation reason
 

@@ -62,16 +62,16 @@ Além disso, não é possível fazer a substituição nos seguintes status de pe
 
 Com essa funcionalidade, os usuários da sua loja ganham uma página de Meus Pedidos redesenhada, com opções de alteração e cancelamento:
 
-![meu pedidos1 PT](//images.contentful.com/alneenqid6w5/3HQW2z7EfmokwYcWWCae8C/f0b0a251aecf8b2e140ad9a1ec2ee3c9/meu_pedidos1_PT.png)
+![meu pedidos1 PT](https://images.contentful.com/alneenqid6w5/3HQW2z7EfmokwYcWWCae8C/f0b0a251aecf8b2e140ad9a1ec2ee3c9/meu_pedidos1_PT.png)
 
 ![meus pedidos3 PT](https://images.ctfassets.net/alneenqid6w5/Np1Rhp4HIsQ6ocyOcqG4i/291263f717dd3da2ef8a027b5a1534e6/meus_pedidos3_PT.png)
 
 Ao selecionar **Alterar pedido**, o cliente é levado para uma tela onde escolhe qual informação gostaria de substituir:
 
-![meus pedidos2 PT](//images.contentful.com/alneenqid6w5/3H4kcxj1Fm0Y0MkmouU2Sq/244d2ca249c117c42ecc7af26b5bfb4d/meus_pedidos2_PT.png)
+![meus pedidos2 PT](https://images.contentful.com/alneenqid6w5/3H4kcxj1Fm0Y0MkmouU2Sq/244d2ca249c117c42ecc7af26b5bfb4d/meus_pedidos2_PT.png)
 
 Para concluir a alteração, ele é levado para o carrinho e o Checkout, onde pode alterar endereço, tipo de frete, forma de pagamento e SKU.
 
-<div class="alert alert-warning">É necessário fechar a compra para concluir o processo, mas <strong>o cliente nunca é cobrado duas vezes</strong>. Em alguns casos o pagamento anterior será reaproveitado; quando isso não for possível, a cobrança anterior no cartão de crédito será automaticamente estornada.</div>
+>⚠️ É necessário fechar a compra para concluir o processo, mas **o cliente nunca é cobrado duas vezes**. Em alguns casos o pagamento anterior será reaproveitado; quando isso não for possível, a cobrança anterior no cartão de crédito será automaticamente estornada.
 
 A reutilização de pagamento só pode ser usada se o valor do pedido novo for igual ao do pedido original. Além disso, se o pagamento expira em até 2 dias, ele não pode ser reutilizado.

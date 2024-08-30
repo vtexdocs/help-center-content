@@ -20,9 +20,7 @@ This stage initiates the go-live as these steps need to be carefully scheduled b
 
 To connect the domain to the store, you must [register the domain in Account Management](https://help.vtex.com/en/tutorial/configurando-dominios-no-license-manager).
 
-<div class="alert alert-warning">
-After registering your domain, you have seven days to complete the go-live. Otherwise, you must go back to the registration and save it again.
-</div>
+>⚠️ After registering your domain, you have seven days to complete the go-live. Otherwise, you must go back to the registration and save it again.
 
 ## Requesting IO pointing
 
@@ -30,9 +28,7 @@ If your storefront is powered by [CMS IO](https://help.vtex.com/en/tracks/cms--2
 
 After you receive the internal pointing confirmation, you must do the [common DNS pointing](https://help.vtex.com/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#setting-up-dns-pointing) within 5 days. Otherwise the internal pointing will be deleted and you will need to redo the request.
 
-<div class = "alert alert-info">
-Learn more at <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live">Go live with Store Framework</a> or <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io">Migration from legacy CMS to Store Framework</a>.
-</div>
+>ℹ️ Learn more at [Go live with Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live) or [Migration from legacy CMS to Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
 
 ## Requesting special pointing
 

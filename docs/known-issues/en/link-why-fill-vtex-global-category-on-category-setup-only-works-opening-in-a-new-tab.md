@@ -1,10 +1,10 @@
 ---
-title: 'Link "Why fill VTEX Global Category?" on category setup only works opening in a new tab'
+title: "Link 'Why fill VTEX Global Category?' on category setup only works opening in a new tab"
 id: 3u7aq2otUovQbO98lzjbus
 status: PUBLISHED
 createdAt: 2022-03-16T17:59:14.355Z
-updatedAt: 2022-12-20T16:36:51.563Z
-publishedAt: 2022-12-20T16:36:51.563Z
+updatedAt: 2024-02-16T20:23:34.672Z
+publishedAt: 2024-02-16T20:23:34.672Z
 firstPublishedAt: 2022-03-16T17:59:14.784Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: link-why-fill-vtex-global-category-on-category-setup-only-works-opening-in-a-new-tab
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 544034
 ---
 

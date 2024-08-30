@@ -3,8 +3,8 @@ title: 'Configurar carrito abandonado'
 id: tutorials_740
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:05.882Z
-updatedAt: 2023-04-28T14:50:21.362Z
-publishedAt: 2023-04-28T14:50:21.362Z
+updatedAt: 2024-06-24T14:49:04.124Z
+publishedAt: 2024-06-24T14:49:04.124Z
 firstPublishedAt: 2017-04-27T23:03:41.572Z
 contentType: tutorial
 productTeam: Shopping
@@ -42,9 +42,7 @@ Puede crear su propio template de email personalizado o utilizar la opción de e
 
 ![template xhtml](https://images.ctfassets.net/alneenqid6w5/44IZ7N3din2EELL15z5FeQ/5e4164dc9abd8f5139d7934cae41e44c/Template_XHTML.PNG)
 
-<div class="alert alert-warning">
-Recomendamos que lo realicen profesionales familiarizados con el módulo CMS, que ya hayan realizado la configuración de otros templates de página y expositor.
-</div>
+>⚠️ Recomendamos que lo realicen profesionales familiarizados con el módulo CMS, que ya hayan realizado la configuración de otros templates de página y expositor.
 
 1. En el Admin VTEX, accede a __Storefront > Layout__, o escribe __Envío por geolocalización__ en la barra de búsqueda en la parte superior de la página.
 2. En __CMS > HTML Templates__, haga clic en el icono `CEM-Abandoned-Cart`.
@@ -65,9 +63,7 @@ Una vez que se haya creado el nuevo template de email o se hayan utilizado los d
 7. En __Html__, ingrese la información del template de email creado o predeterminado.
 8. Haga clic `Save`. 
 
-<div class = "alert alert-info">
-El campo JSON Data no debe completarse ni sus datos deben usarse en el template de email. Solo contiene información para permitir una vista previa del formato en el que se verán los datos en el email.
-</div>
+>ℹ️ El campo JSON Data no debe completarse ni sus datos deben usarse en el template de email. Solo contiene información para permitir una vista previa del formato en el que se verán los datos en el email.
 
 ![New template - message center](https://images.ctfassets.net/alneenqid6w5/7nX1YnaZoesV51yG24Z3ls/68a8a4f2f7ad9f9911598b3aab475817/Novo_template.PNG)
 
@@ -95,8 +91,7 @@ El filtro "Checkout" establece una de las condiciones para que se dispare el tri
 
 Además, tenemos incluso los filtros "Carrito" y "Último carrito". Por mucho que ambos sean semejantes, los comportamientos son diferentes. El "Carrito" se refiere a los últimos productos que el cliente agregó en el carrito de compras propiamente dicho. El "Último carrito" consiste en el registro de fecha y hora en que se creó el carrito.
 
-<div class="alert alert-warning">Para que se realice el disparo de trigger, los tres filtros deben, obligatoriamente, rellenarse de acuerdo con el siguiente ejemplo. 
-</div>
+>⚠️ Para que se realice el disparo de trigger, los tres filtros deben, obligatoriamente, rellenarse de acuerdo con el siguiente ejemplo.
 
 <blockquote><ui>1. En el Admin VTEX, accede <b>Configuración de la tienda</b> > <b>Storefront</b> > <b>Master Data.</b></ui>
 
@@ -128,9 +123,7 @@ Además, tenemos incluso los filtros "Carrito" y "Último carrito". Por mucho qu
 
 ![Filter master data 2](https://images.ctfassets.net/alneenqid6w5/6aME0zp72kjwJiulRdoRNl/d6c7e5d4e84c5d2b8b870de4ee0db4bc/Filter_Master_Data.PNG)
 
-<div class="alert alert-warning">
-  Además de los filtros indicados anteriormente, se recomienda insertar otro filtro en el siguiente formato: <code>Receives newsletter? - Equal to - True</code>. Esto garantiza el cumplimiento de los <a href="https://help.vtex.com/es/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM">derechos de los titulares de datos</a>, ya que solo los clientes suscritos al boletín recibirán correos electrónicos de carritos abandonados. La suscripción al boletín de su tienda se puede realizar en el momento de la compra o en la sección <a href="https://help.vtex.com/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#profile">Mi Cuenta</a> de su tienda.
-</div>
+>⚠️ Además de los filtros indicados anteriormente, se recomienda insertar otro filtro en el siguiente formato: `Receives newsletter? - Equal to - True`. Esto garantiza el cumplimiento de los [derechos de los titulares de datos](https://help.vtex.com/es/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM), ya que solo los clientes suscritos al boletín recibirán correos electrónicos de carritos abandonados. La suscripción al boletín de su tienda se puede realizar en el momento de la compra o en la sección [Mi Cuenta](https://help.vtex.com/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#profile) de su tienda.
 
 <blockquote><ui> 10. Haga clic en pestaña <b>Schedule</b> (Programación) y seleccione si desea enviar el correo electrónico en una fecha específica o en una fecha dinámica.</ui>
 
@@ -142,8 +135,7 @@ Además, tenemos incluso los filtros "Carrito" y "Último carrito". Por mucho qu
 
 <blockquote><blockquote><ui>b. En <b>Recipient</b> (Destinatario), para realizar una prueba del sistema, ingrese su email y haga clic en <b>Add Static email</b> (Añadir email estático).</ui>
 
-<div class="alert alert-warning">Una vez que haya completado las otras configuraciones a continuación y haya verificado que recibió el mensaje de carrito abandonado en su email, regrese a este paso, seleccione la opción <strong>CL</strong>: <strong>Email</strong>, haga clic en <strong>Add Dynamic email</strong> (Añadir email dinámico), y luego en <strong>Save</strong>.
-</div>
+>⚠️ Una vez que haya completado las otras configuraciones a continuación y haya verificado que recibió el mensaje de carrito abandonado en su email, regrese a este paso, seleccione la opción **CL**: **Email**, haga clic en **Add Dynamic email** (Añadir email dinámico), y luego en **Save**.
 
 <blockquote><blockquote><ui>c. En <b>Email body format</b> (Formato del cuerpo del email), seleccione <b>Html</b>.</ui>
 
@@ -159,8 +151,7 @@ Además, tenemos incluso los filtros "Carrito" y "Último carrito". Por mucho qu
 
   ![PastasCarrinhoAbandonado](https://images.ctfassets.net/alneenqid6w5/4DSsVaeDvWmaaw2iwySCOy/b579eb818e0bcda140dba0ae96ecc90f/PastasCarrinhoAbandonado.png)
 
-<div class="alert alert-warning">Esta URL debe ser la final de la tienda, y no la URL con vtexcommercestable.
-</div>
+>⚠️ Esta URL debe ser la final de la tienda, y no la URL con vtexcommercestable.
 
 <blockquote><blockquote><ui>i. En <b>Add utm_source to all links whose value is</b>, rellene con "CEM", para facilitar la identificación de compras por el carrito abandonado.</ui>
 
@@ -168,8 +159,7 @@ Además, tenemos incluso los filtros "Carrito" y "Último carrito". Por mucho qu
 
 <blockquote><blockquote><ui>k. Haga clic en el botón <b>Save</b>.</ui>
 
-<div class="alert alert-warning">La sesión de una página expira en 30 minutos. Solamente después de ese tiempo consideramos la programación del disparo de trigger de Carrito Abandonado. Es decir, el tiempo a ser considerado es el tiempo de la sesión + la programación de trigger. 
-</div>
+>⚠️ La sesión de una página expira en 30 minutos. Solamente después de ese tiempo consideramos la programación del disparo de trigger de Carrito Abandonado. Es decir, el tiempo a ser considerado es el tiempo de la sesión + la programación de trigger.
 
 ![If positive tab](https://images.ctfassets.net/alneenqid6w5/2GDAJ2St3ayiKjcWoONDRc/d863f83956f876035351cd222a0482ad/If_positive_Tab.PNG)
 

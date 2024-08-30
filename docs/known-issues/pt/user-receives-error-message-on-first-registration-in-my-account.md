@@ -18,9 +18,7 @@ internalReference: 619909
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando um novo usuário se registra em **Minha conta***, a página executa duas solicitações, uma enviando os dados e a outra consultando o `ide do usuário` desse usuário, mas nesta segunda solicitação o retorno é 404 não encontrado, e a página exibe uma mensagem de erro para o usuário.

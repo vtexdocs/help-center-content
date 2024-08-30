@@ -3,8 +3,8 @@ title: 'La vista previa de los envíos no utiliza el nombre del ANS para su visu
 id: 6v7vh0CSUfpiF04brZ0bgb
 status: PUBLISHED
 createdAt: 2022-05-06T20:46:38.910Z
-updatedAt: 2022-11-25T21:52:23.344Z
-publishedAt: 2022-11-25T21:52:23.344Z
+updatedAt: 2024-02-16T20:25:44.430Z
+publishedAt: 2024-02-16T20:25:44.430Z
 firstPublishedAt: 2022-05-06T20:46:39.731Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-vista-previa-de-los-envios-no-utiliza-el-nombre-del-ans-para-su-visualizacion-en-la-interfaz-de-usuario
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 574651
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

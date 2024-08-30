@@ -18,9 +18,7 @@ internalReference: 320044
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Após alterar (atualizar ou apagar) alguns itens anexos no catálogo de produtos, se você já tiver algum carrinho/forma de pedido que se refere a itens com anexo específico, o orderForm não pode mais ser carregado.

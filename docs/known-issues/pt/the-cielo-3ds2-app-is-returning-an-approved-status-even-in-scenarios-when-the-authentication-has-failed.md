@@ -1,5 +1,5 @@
 ---
-title: 'O aplicativo Cielo 3DS2 está retornando o status "aprovado" mesmo em cenários em que a autenticação falhou.'
+title: "O aplicativo Cielo 3DS2 está retornando o status 'aprovado' mesmo em cenários em que a autenticação falhou."
 id: 58hSiWFhn6sHQofJAUoHqv
 status: PUBLISHED
 createdAt: 2023-05-05T14:48:56.148Z
@@ -18,9 +18,7 @@ internalReference: 820060
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Hoje, nosso aplicativo cielo-authentication-app v1.2.1 está retornando um status "aprovado" na etapa final do fluxo ao chamar a etapa de autorização que avalia se a autenticação falhou ou não. No entanto, o aplicativo só aciona a etapa de falha quando há um erro lançado nessa etapa. Como resultado, mesmo que o status seja "failed" na etapa anterior, mas não haja nenhum erro lançado na etapa /authorize atual, o status ainda é considerado "approved" (aprovado), o que nos permite fazer uma solicitação ao adquirente. Esse não é o comportamento esperado, pois deveríamos estar negando a autorização de pagamento e alterando a transação para "autorização negada" nesse cenário.

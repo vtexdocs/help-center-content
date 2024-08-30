@@ -1,5 +1,5 @@
 ---
-title: 'Inventario y envío: comprenda lo que cambió en la pestaña "Paneles".'
+title: "Inventario y envío: comprenda lo que cambió en la pestaña 'Paneles'."
 id: 1YNfaeNG206XKI2UbGBRSl
 status: CHANGED
 createdAt: 2020-05-05T18:56:51.879Z

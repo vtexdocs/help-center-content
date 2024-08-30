@@ -33,21 +33,17 @@ O primeiro passo para migrar seus anúncios do Mercado Livre é configurar a int
 
 Durante a etapa [Cadastro do conector Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), você deverá preencher o campo `ID da Política comercial` com o número 0. Dessa forma, os anúncios que serão migrados da planilha não serão duplicados pela plataforma do Mercado Livre.
 
-<div class="alert alert-danger">
-Caso utilize o ID de uma política comercial existente, a integração criará novos anúncios no Mercado Livre e seu catálogo será duplicado. A única forma de resolver esse problema será desativando manualmente os anúncios criados em duplicidade no painel do Mercado Livre.
-</div>
+>❗ Caso utilize o ID de uma política comercial existente, a integração criará novos anúncios no Mercado Livre e seu catálogo será duplicado. A única forma de resolver esse problema será desativando manualmente os anúncios criados em duplicidade no painel do Mercado Livre.
 
 ## 2. Fazer download da planilha de migração
 
 Nessa etapa você precisará fazer a equivalência entre seus anúncios no Mercado Livre e os SKUs da sua loja. O envio dessas informações é feito por meio da planilha de migração.
 
-Primeiro, faça download da [Planilha de migração](//assets.ctfassets.net/alneenqid6w5/4tgBiQQeiAQGyys4OAuIGc/1bf6f64f485de43d2329db270c1303de/Planilha_de_Migrac__a__o_de_Anu__ncios_-_Mercado_Livre_BR.xlsx) e utilize o arquivo como modelo para preenchimento. Esta é a planilha que será preenchida e enviada para o Mercado Livre.
+Primeiro, faça download da [Planilha de migração](https://assets.ctfassets.net/alneenqid6w5/4tgBiQQeiAQGyys4OAuIGc/1bf6f64f485de43d2329db270c1303de/Planilha_de_Migrac__a__o_de_Anu__ncios_-_Mercado_Livre_BR.xlsx) e utilize o arquivo como modelo para preenchimento. Esta é a planilha que será preenchida e enviada para o Mercado Livre.
 
 O produto cadastrado na VTEX só poderá ser mapeado com um anúncio no Mercado Livre. No caso de [anúncios dos tipos Clássico e Premium](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/2MR2USqcvDGaoAkGNdCfGi), por serem configurações separadas, o mesmo produto pode estar anunciado em ambos tipos de anúncios.
 
-<div class="alert alert-warning">
-A integração entre a VTEX e o Mercado Livre permite associar um SKU cadastrado na VTEX a um único anúncio no Mercado Livre por vez. Por isso, é necessário separar os tipos de anúncios do tipo Clássico e os do tipo Premium quando for preencher a planilha de migração. 
-</div>
+>⚠️ A integração entre a VTEX e o Mercado Livre permite associar um SKU cadastrado na VTEX a um único anúncio no Mercado Livre por vez. Por isso, é necessário separar os tipos de anúncios do tipo Clássico e os do tipo Premium quando for preencher a planilha de migração.
 
 ## 3. Preencher a planilha de migração dos anúncios
 

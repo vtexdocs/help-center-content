@@ -3,8 +3,8 @@ title: 'Cómo funciona Mi Cuenta'
 id: 2BQ3GiqhqGJTXsWVuio3Xh
 status: PUBLISHED
 createdAt: 2019-04-11T21:14:26.117Z
-updatedAt: 2023-04-24T23:39:56.581Z
-publishedAt: 2023-04-24T23:39:56.581Z
+updatedAt: 2023-12-21T14:09:42.863Z
+publishedAt: 2023-12-21T14:09:42.863Z
 firstPublishedAt: 2019-05-21T19:48:15.019Z
 contentType: tutorial
 productTeam: Identity
@@ -26,9 +26,7 @@ Es posible configurar qué pestañas aparecen para el consumidor en las [configu
 - [Suscripciones](#subscripciones)
 - [Autenticación](#autenticacion)
 
-<div class = "alert alert-info">
-Para saper sobre cómo personalizar la funcionalidad <b>Mi cuenta</b>, consulte la documentación para desarrolladores <a href="https://developers.vtex.com/docs/guides/vtex-my-account">My Account - StoreV2 version</a>. Es importante señalar que VTEX no presta soporte a <b>Mi cuenta</b> que es personalizada.
-</div>
+>ℹ️ Para saper sobre cómo personalizar la funcionalidad **Mi cuenta**, consulte la documentación para desarrolladores [My Account - StoreV2 version](https://developers.vtex.com/docs/guides/vtex-my-account). Es importante señalar que VTEX no presta soporte a **Mi cuenta** que es personalizada.
 
 ## Perfil
 
@@ -77,6 +75,8 @@ El botón `Añadir dirección` permite incluir direcciones diferentes a las que 
 
 ## Pedidos
 
+>ℹ️ En [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
+
 Esta pestaña proporciona una lista completa de los pedidos realizados por un cliente en su tienda. La lista se ordena por fecha de creación y muestra detalles como la fecha del pedido, el valor total de la compra, el ID del pedido, el _status_ y los ítems comprados.
 
 ![orders ES](https://images.ctfassets.net/alneenqid6w5/1VTgMxrq3WI02LZt21wuw6/c6d01d4becb2a0f1173e34a82f83cb90/orders_ES.png)
@@ -116,7 +116,12 @@ Este botón permite que el cliente modifique la información del pedido, como di
 
 ## Tarjetas de crédito
 
-En la pestaña **Tarjetas de crédito**, el cliente tiene autonomía para gestionar las tarjetas de crédito relacionadas con su cuenta.  Es posible incluir y editar los datos de las tarjetas de crédito que ya se registraron en el _checkout_. Para agregar nuevas tarjetas, sigue los pasos a continuación:
+En la pestaña **Tarjetas de crédito**, el cliente tiene autonomía para administrar las tarjetas de crédito relacionadas con su cuenta a través de las siguientes acciones:
+
+- Agregar nuevas tarjetas
+- Eliminar tarjetas con fecha de vencimiento alcanzada
+
+Para agregar nuevas tarjetas, sigue los pasos a continuación:
 
 1. Abre **Mi cuenta** (My Account) en la tienda.
 2. Haz clic en la sección **Tarjetas de crédito**.
@@ -168,9 +173,7 @@ Para cambiar la contraseña actual:
 4. Haga clic en el botón `GUARDAR CONTRASEÑA` para completar el cambio de contraseña.  
 ![My Authentication change password ES](https://images.ctfassets.net/alneenqid6w5/7qyiWDAjdSBEjppq6Ti94c/55e5cdfbb4f5daeb591eadbbccf82183/My_Authentication_change_password_ES.png)
 
-<div class="alert alert-info">
-Si ha olvidado su contraseña, no podrá recuperarla a través del componente de gestión de contraseña. Para ello, debe cerrar la sesión actual, hacer un intento de inicio de sesión con el email y la contraseña, y hacer clic en el link <strong>Olvidé mi contraseña</strong>.
-</div>
+>ℹ️ Si ha olvidado su contraseña, no podrá recuperarla a través del componente de gestión de contraseña. Para ello, debe cerrar la sesión actual, hacer un intento de inicio de sesión con el email y la contraseña, y hacer clic en el link **Olvidé mi contraseña**.
 
 ### Gestión de sesiones 
 

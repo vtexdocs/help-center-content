@@ -15,14 +15,10 @@ legacySlug: gestionar-capacidad-de-entrega-beta
 subcategory: 
 ---
 
-<div class="alert alert-warning">
-Esta funcionalidad está en etapa Beta, lo que significa que estamos trabajando para mejorarla. En caso de dudas, contacte a  <a href="https://support.vtex.com/hc/pt-br/requests">nuestro Soporte</a>.
-</div>
+>⚠️ Esta funcionalidad está en etapa Beta, lo que significa que estamos trabajando para mejorarla. En caso de dudas, contacte a  [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests).
 
 Puede hacer un seguimiento de la disponibilidad de las ventanas de entrega y de la cantidad de ítems/pedidos que aún pueden atenderse en cada ventana de entrega a través de la página Capacidad de entrega.
-<div class="alert alert-warning">
- Para gestionar su capacidad de entrega, debe tener transportadoras previamente registradas y la capacidad de entrega previamente configurada. Lea [Registrar política de envío](link) y [Entrega programada](link) para saber cómo realizar este registro y configuración.
-</div>
+>⚠️ Para gestionar su capacidad de entrega, debe tener transportadoras previamente registradas y la capacidad de entrega previamente configurada. Lea [Registrar política de envío](link) y [Entrega programada](link) para saber cómo realizar este registro y configuración.
 
 La gestión de la capacidad de entrega se realiza desde el menú **Inventario y Envío > Capacidad de entrega** en el Admin.
 
@@ -37,7 +33,5 @@ Una vez que haya seleccionado la política de envío y la fecha que se mostrará
 *   **Disponible:** cuántos ítems/pedidos están disponibles para programarse (cantidad de capacidad menos reservado) 
 *   **Status:** puede ser visible o no visible, dependiendo de si la ventana de entrega todavía está disponible. Si todavía está disponible, la ventana tendrá el status visible para sus clientes. 
 
-<div class="alert alert-info">
-Puede hacer clic en EDITAR POLÍTICA DE ENVÍO para ser redirigido a la pantalla de edición de la política de envío seleccionada en el filtro Política de envío.
-</div>
+>ℹ️ Puede hacer clic en EDITAR POLÍTICA DE ENVÍO para ser redirigido a la pantalla de edición de la política de envío seleccionada en el filtro Política de envío.
 

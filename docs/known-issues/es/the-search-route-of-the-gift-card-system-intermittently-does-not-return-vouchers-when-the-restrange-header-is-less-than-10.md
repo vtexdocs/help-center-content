@@ -18,9 +18,7 @@ internalReference: 770337
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En un escenario donde el cliente tiene vales de fidelidad y llega a la caja, se espera que la ruta /_search devuelva todos los vales vinculados a ese usuario. Sin embargo, la caja pasa la cabecera con REST-range = 0-9. En algunas cuentas, este rango no es suficiente y la API devuelve una matriz vacía. Cuando simulamos la llamada directamente a la API con un rango superior a 10, podemos recuperar al menos un vale.

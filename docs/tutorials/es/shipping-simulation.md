@@ -3,8 +3,8 @@ title: 'Simulador de envío'
 id: tutorials_144
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:36.879Z
-updatedAt: 2023-03-29T19:24:17.032Z
-publishedAt: 2023-03-29T19:24:17.032Z
+updatedAt: 2024-06-18T19:48:13.737Z
+publishedAt: 2024-06-18T19:48:13.737Z
 firstPublishedAt: 2017-04-27T23:00:45.450Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -22,14 +22,14 @@ El simulador también se puede utilizar para validar la configuración de la  **
 * **Disponibilidad de un ítem:** el simulador verifica si el ítem cuenta con _stock_ y si se puede realizar su entrega (si hay transportadoras registradas para esa región, por ejemplo). Si uno de los dos criterios no se cumple, el simulador entiende que el ítem no está disponible.
 * **Disponibilidad de Sellers White Label:** el simulador selecciona al franquiciado más cercano a la dirección de entrega (la configuración logística es calculada a través del ambiente del _Seller White Label_, y no por la Main Account).
 
-<div class="alert alert-warning"> 
-Puede haber una divergencia entre el precio final indicado por el simulador y el precio real en su tienda, ya que la simulación no considera:
-<ul>
-<li>Promociones aplicadas a esos ítems.</li>
-<li>Descuentos de flete configurados a través de promociones.</li>
-<li>El plazo de entrega total que se muestra en el resultado de la simulación no contempla el campo <b>Fecha de previsión de llegada (Preventa)</b>  <a href="https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY">del registro del ítem.</li></a>
-</ul>
-</div>
+>⚠️ Puede haber una divergencia entre el precio final indicado por el simulador y el precio real en su tienda, ya que la simulación no considera:
+>
+> *Promociones aplicadas a esos ítems.
+>
+> *Descuentos de flete configurados a través de promociones.
+>
+> *El plazo de entrega total que se muestra en el resultado de la simulación no contempla el campo **Fecha de previsión de llegada (Preventa)**  [del registro del ítem.](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY)
+> 
 
 ## Simular el envío
 
@@ -41,7 +41,7 @@ Puede haber una divergencia entre el precio final indicado por el simulador y el
  6. Seleccione la `cantidad` del SKU.  
  7. Determine el `Precio`. Este campo es abierto y opcional. 	  
 
- > El simulador no tiene en cuenta el precio registrado en el módulo Catálogo. Por lo tanto, el costo indicado por el simulador no considera ninguna promoción vigente para aquellos SKUs, y puede indicar un costo diferente del valor real en su tienda. Sugerimos que ingrese manualmente el valor exacto del SKU con las promociones aplicadas, para que el simulador devuelva un cálculo preciso.*
+ > El simulador no tiene en cuenta el precio registrado en el módulo Catálogo. Por lo tanto, el costo indicado por el simulador no considera ninguna promoción vigente para aquellos SKUs, y tampoco considera acréscimos de flete en el carrito, se los hay. Eso puede resultar en un costo diferente del valor real del producto en su tienda. Sugerimos que ingrese manualmente el valor exacto del SKU con las promociones aplicadas, para que el simulador devuelva un cálculo preciso.
 
  8. Haga clic en el ícono `+` para agregar más de un producto en la simulación. 
 Si lo desea, puede seleccionar la casilla `Simular ítems individualmente`.  
@@ -54,13 +54,11 @@ Si lo desea, puede seleccionar la casilla `Simular ítems individualmente`.
 
  10. Haga clic en el botón `Simular Envío`.  
 
-<div class = "alert alert-info">
-En el resultado de la simulación, las medidas del ítem aparecen en centímetros y gramos, pero el valor real considerado en el Checkout son las unidades de medida registradas en los <a href="https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">campos de registro del producto</a> y SKU.
-</div>
+>ℹ️ En el resultado de la simulación, las medidas del ítem aparecen en centímetros y gramos, pero el valor real considerado en el Checkout son las unidades de medida registradas en los [campos de registro del producto](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) y SKU.
 
 ## Detalles de la simulación
 
-La simulación de flete indica todas las posibilidades de envío y la disponibilidad de los ítems incluidos en la simulación y describe los [detalles de entrega de un pedido](https://help.vtex.com/es/tutorial/ver-detalhes-de-entrega-de-um-pedido?locale=pt), el valor del flete y el tiempo de entrega tomando en cuenta las particularidades que se indican a continuación.
+La simulación de flete indica todas las posibilidades de envío y la disponibilidad de los ítems incluidos en la simulación y describe los [detalles de entrega de un pedido](https://help.vtex.com/es/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl), el valor del flete y el tiempo de entrega tomando en cuenta las particularidades que se indican a continuación.
 
 * **Transportadoras desconsideradas**: al realizar la simulación, algunas transportadoras pueden estar indisponibles porque no cumplen los criterios de la [ Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) (vea 
 [transportadoras desconsideradas](#transportadoras-desconsideradas) para más información)

@@ -3,8 +3,8 @@ title: 'Changing the order of payment methods at checkout'
 id: frequentlyAskedQuestions_490
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:54.205Z
-updatedAt: 2022-04-25T15:09:37.985Z
-publishedAt: 2022-04-25T15:09:37.985Z
+updatedAt: 2023-10-31T17:27:08.660Z
+publishedAt: 2023-10-31T17:27:08.660Z
 firstPublishedAt: 2019-01-24T22:12:00.925Z
 contentType: tutorial
 productTeam: Shopping
@@ -19,9 +19,7 @@ There are to ways to change the display order of your store’s payment methods 
 - Through Admin.
 - Through JavaScript customizations.
 
-<div class="alert alert-warning">
-<strong>Note:</strong> for security and performance reasons, <strong>we do not recommend</strong> that you alter the checkout JavaScript archives. VTEX does not take responsibility for any problems caused after the alteration of this code. 
-</div>
+>⚠️ **Note:** for security and performance reasons, **we do not recommend** that you alter the checkout JavaScript archives. VTEX does not take responsibility for any problems caused after the alteration of this code.
 
 ## How Sorting Works
 

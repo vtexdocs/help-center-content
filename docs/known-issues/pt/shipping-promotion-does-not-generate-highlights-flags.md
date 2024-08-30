@@ -18,9 +18,7 @@ internalReference: 527111
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Porcentagens de remessa, remessa máxima, remessa gratuita e promoções de presentes não estão gerando destaque / bandeiras nos PDPs e PLPs.

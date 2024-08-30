@@ -1,5 +1,5 @@
 ---
-title: 'Produtos da "lista de produtos" que têm um duplicado de "itemAcmercadoria" quando a quantidade é aumentada'
+title: "Produtos da 'lista de produtos' que têm um duplicado de 'itemAcmercadoria' quando a quantidade é aumentada"
 id: 4QybxJRoj7wLNvN7NG2FLA
 status: PUBLISHED
 createdAt: 2022-01-24T21:19:51.135Z
@@ -18,9 +18,7 @@ internalReference: 337069
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se uma loja utiliza o componente de lista de produtos da Estrutura de Loja, utilizado no minicartão, os itens do carrinho podem ser duplicados ao aumentar a quantidade de um item que tem um anexo (itemAttachment).

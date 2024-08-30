@@ -18,9 +18,7 @@ internalReference: 709180
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Pedidos inválidos para a API "place order" retornam uma mensagem de erro errada, informando "Invalid id for item" em vez de apontar quais informações estão erradas.

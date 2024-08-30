@@ -3,8 +3,8 @@ title: 'Como funciona una Política Comercial'
 id: 6Xef8PZiFm40kg2STrMkMV
 status: PUBLISHED
 createdAt: 2021-05-25T20:05:42.155Z
-updatedAt: 2022-12-08T14:39:11.093Z
-publishedAt: 2022-12-08T14:39:11.093Z
+updatedAt: 2024-06-20T22:52:38.544Z
+publishedAt: 2024-06-20T22:52:38.544Z
 firstPublishedAt: 2021-05-25T20:17:12.408Z
 contentType: tutorial
 productTeam: Others
@@ -33,7 +33,9 @@ Vea cómo se relacionan las diferentes configuraciones de VTEX con las política
 
 Para [contratar políticas comerciales adicionales](https://help.vtex.com/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), póngase en contacto con nuestro equipo de Growth Operations en Soporte, seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
 
-La contratación de políticas comerciales adicionales para integración con un [conector nativo](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex), un [conector certificado (partner)](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-certificado-partner) u otras tiendas VTEX está exenta de la cuota mensual.
+La contratación de políticas comerciales adicionales para integración con un [conector certificado](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-certificado-partner) u otras tiendas VTEX está exenta de la cuota mensual.
+
+<div class=alert alert-warning> Si se aplica la misma política comercial a un conector certificado y a un conector asociado, no hay exención de tarifas.</div>
 
 ## Catálogo
 Al [registrar productos](https://help.vtex.com/es/tutorial/cadastrando-produtos--tutorials_2567) en el catálogo, puede restringir su disponibilidad para determinadas políticas comerciales. De este modo, el catálogo se segmenta en función de las diferentes estrategias de negocio. Las estrategias pueden incluir la segmentación de productos por región, para un marketplace o para tipos específicos de clientes, como los empleados. Vea más información sobre la configuración del [catálogo](https://help.vtex.com/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ).
@@ -57,9 +59,7 @@ Puede limitar el acceso a la tienda a públicos específicos, como en un sitio B
 
 ## Gestión de la cuenta
 
-<div class="alert alert-warning">
-Para los clientes que tienen muchas subcuentas o con operaciones en tiendas físicas que permiten la recogida en la tienda o con el envío desde la tienda, la creación de múltiples políticas comerciales no es la mejor solución. Sugerimos abrir nuevos <a href="https://help.vtex.com/es/tutorial/o-que-e-store-name">nombres de tienda</a> para cada una de las tiendas que operan dentro de una <a href="https://help.vtex.com/es/tutorial/o-que-e-account-name">cuenta</a>. 
-</div>
+>⚠️ Para los clientes que tienen muchas subcuentas o con operaciones en tiendas físicas que permiten la recogida en la tienda o con el envío desde la tienda, la creación de múltiples políticas comerciales no es la mejor solución. Sugerimos abrir nuevos [nombres de tienda](https://help.vtex.com/es/tutorial/o-que-e-store-name) para cada una de las tiendas que operan dentro de una [cuenta](https://help.vtex.com/es/tutorial/o-que-e-account-name).
 
 Demasiadas políticas comerciales en un entorno VTEX hace que el proceso de indexación de los productos en la vitrina y la simulación del envío en el checkout sean más lentos, lo que puede afectar la conversión de los pedidos. Al segmentar el catálogo con múltiples políticas comerciales en lugar de crear nombres de tiendas con su propio stock, la tienda también puede perder oportunidades de venta y mejores condiciones de entrega al restringir la oferta de productos. Vea más información sobre [cómo crear un nombre de tienda](https://help.vtex.com/es/tutorial/como-criar-um-store-name).
 

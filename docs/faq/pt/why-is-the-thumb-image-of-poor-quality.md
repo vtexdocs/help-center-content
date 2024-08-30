@@ -1,5 +1,5 @@
 ---
-title: 'Por que a imagem "thumb" está em baixa qualidade?'
+title: "Por que a imagem 'thumb' está em baixa qualidade?"
 id: 4T5kL7MK5a8Y4AC8SO0yKG
 status: PUBLISHED
 createdAt: 2017-05-09T14:00:47.862Z

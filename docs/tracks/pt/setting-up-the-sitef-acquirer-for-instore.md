@@ -14,21 +14,15 @@ trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugPT: configurar-o-adquirente-sitef-para-o-instore
 ---
 
-<div class="alert alert-warning">
-É importante ressaltar que a integração com a SiTef é uma solução homologada, mas ainda não testada em larga escala.
-</div>
+>⚠️ É importante ressaltar que a integração com a SiTef é uma solução homologada, mas ainda não testada em larga escala.
 
 Para permitir transações por meio de máquinas de cartão usando o inStore, você precisa de um adquirente ou sub-adquirente que processe seus pagamentos.
 
 A __SiTef__ é um sub-adquirente homologado pelo inStore no Brasil.
 
-<div class="alert alert-warning">
-Se você deseja usar o SiTef em um país diferente ou se deseja usar outro adquirente que atualmente não é certificado, precisará criar a integração com o aplicativo desse adquirente. Para fazer isso, consulte o artigo <a href="https://help.vtex.com/pt/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod">Integrar o inStore a um novo adquirente de pagamento</a>.
-</div>
+>⚠️ Se você deseja usar o SiTef em um país diferente ou se deseja usar outro adquirente que atualmente não é certificado, precisará criar a integração com o aplicativo desse adquirente. Para fazer isso, consulte o artigo [Integrar o inStore a um novo adquirente de pagamento](https://help.vtex.com/pt/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod).
 
-<div class="alert alert-info">
-Atualmente, a SiTef é suportada por sistemas <b>Android</b> e <b>iOS</b>, com máquinas de cartão Ingenico ou qualquer outra máquina certificada pela SiTef.
-</div>
+>ℹ️ Atualmente, a SiTef é suportada por sistemas **Android** e **iOS**, com máquinas de cartão Ingenico ou qualquer outra máquina certificada pela SiTef.
 
 Antes de instalar o aplicativo da SiTef, certifique-se de que você concluiu a etapa anterior da configuração do módulo de Pagamentos.
 
@@ -55,15 +49,17 @@ A GSURF é uma empresa que oferece um servidor SiTef via VPN. Isso facilita muit
 
 Ao configurar o conector SiTef, disponível no VTEX Payments, você precisará especificar `GSURF.SSL` como o protocolo para o aplicativo VTEX SiTef enviar transações ao servidor remoto.
 
-<div class="alert alert-warning">
-<strong>Importante:</strong>: ao usar o GSURF como um protocolo, verifique se sua rede permite os seguintes acessos:<br>
-<b>Liberações de firewall (somente tráfego de saída):</b>
-<ol>
-<li><b>Intervalo de IPs:</b> 187.103.176.0/20 189.85.171.160/28 18.231.194.64/26</li>
-<li><b>Portas:</b> UDP-443; TCP-443; TCP-55844; TCP-55845</li>
-<li><b>DNS LOCAL: </b> UDP-53 (resolução de nomes em gsurfnet.com)</li>
-</ol>
-</div>
+>⚠️ **Importante:**: ao usar o GSURF como um protocolo, verifique se sua rede permite os seguintes acessos:
+>
+> 
+> **Liberações de firewall (somente tráfego de saída):**
+>
+> **Intervalo de IPs:** 187.103.176.0/20 189.85.171.160/28 18.231.194.64/26
+>
+> **Portas:** UDP-443; TCP-443; TCP-55844; TCP-55845
+>
+> **DNS LOCAL: ** UDP-53 (resolução de nomes em gsurfnet.com)
+> 
 
 ### Servidor local
 

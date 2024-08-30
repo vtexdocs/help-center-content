@@ -3,8 +3,8 @@ title: 'Habilitar inicio de sesión por autenticación de dos factores'
 id: 4Ae1fcQi12g8u4SkQKCqWQ
 status: PUBLISHED
 createdAt: 2017-11-09T00:46:29.023Z
-updatedAt: 2023-02-08T14:28:53.895Z
-publishedAt: 2023-02-08T14:28:53.895Z
+updatedAt: 2024-03-12T17:52:28.500Z
+publishedAt: 2024-03-12T17:52:28.500Z
 firstPublishedAt: 2017-11-09T13:09:54.237Z
 contentType: tutorial
 productTeam: Identity
@@ -17,15 +17,19 @@ subcategory: 4sY1T2qdFehvVmC0tL5xW3
 
 La autenticación de dos fatores (2FA) es un método de verificación que aumenta en gran medida la seguridad del inicio de sesión de su tienda. 
 
-![ES- LoginAdmin](https://images.ctfassets.net/alneenqid6w5/3elCQzyG1TLdPwoFjgkW6u/6472c560259c581f731f9d55ffa1d4c8/ES-_LoginAdmin.png)
-
 Esto porque, en el inicio de sesión, el sistema además de exigir el email y la contraseña exige una clave de acceso (en el caso de VTEX, esta puede ser un código enviado por SMS o generado por aplicación).
 
 Como esa clave se genera durante el inicio de sesión y tiene una validez corta, se vuelve casi imposible que alguien acceda a su tienda utilizando sus datos sin autorización. Sin 2FA, si alguien tiene su email y contraseña puede tener un acceso amplio a la cuenta de su tienda.
 
-<div class="alert alert-danger">
-Desde el <strong>16 de noviembre de 2017</strong>, la autenticación de dos factores (2FA) se volvió <strong>obligatoria para todos los emails</strong> en el Admin de VTEX.<br><br>Sin 2FA, usted <b>no podrá iniciar sesión</b> utilizando email y contraseña.<br><br>Ese requisito obligatorio no aplica para los otros métodos de inicio de sesión (como Google, Facebook y token).
-</div>
+>❗ Desde el **16 de noviembre de 2017**, la autenticación de dos factores (2FA) se volvió **obligatoria para todos los emails** en el Admin de VTEX.
+>
+> 
+>
+> Sin 2FA, usted **no podrá iniciar sesión** utilizando email y contraseña.
+>
+> 
+>
+> Ese requisito obligatorio no aplica para los otros métodos de inicio de sesión (como Google, Facebook y token).
 
 ## Cómo habilitar 2FA
 
@@ -38,13 +42,9 @@ Existen dos opciones de autenticación, a través de:
 
 ![2FA - Select - ES](https://images.ctfassets.net/alneenqid6w5/3WRZKKU8LuW00UkeoUoIEY/e608a2a64a982983619918e515bbdb73/2FA_-_Select_-_ES.png)
 
-<div class="alert alert-danger">
-Recomendamos enfáticamente que <strong>elija la opción de autenticación por aplicación</strong>, toda vez que en la autenticación por SMS usted depende de que no haya fallas en el servicio de su operador de telefonía. A través de la aplicación, la clave de acceso siempre estará disponible cuando sea necesaria.
-</div>
+>❗ Recomendamos enfáticamente que **elija la opción de autenticación por aplicación**, toda vez que en la autenticación por SMS usted depende de que no haya fallas en el servicio de su operador de telefonía. A través de la aplicación, la clave de acceso siempre estará disponible cuando sea necesaria.
 
-<div class="alert alert-danger">
-Si configuró 2FA por SMS y el código está tardando en llegar, posiblemente este problema se deba a su operador de telefonía. Habilite 2FA por aplicación como se explica a continuación.  
-</div>
+>❗ Si configuró 2FA por SMS y el código está tardando en llegar, posiblemente este problema se deba a su operador de telefonía. Habilite 2FA por aplicación como se explica a continuación.
 
 ### Habilitar 2FA por aplicación
 
@@ -63,9 +63,7 @@ Para utilizar una clave generada a través de la aplicación de autenticación:
 
 ![2FA - App Insert Code - ES](https://images.ctfassets.net/alneenqid6w5/NUKFyLNA9fWsBewD445Uy/5327fb40f54e16cd1f63abf16f7da89d/2FA_-_App_Insert_Code_-_ES.png)
 
-<div class="alert alert-info">
-Si usted realiza el inicio de sesión utilizando email y contraseña en el mismo computador, se solicitará la clave de acceso <strong> cada 3 días</strong>. Cuando eso suceda, basta con consultar el código en la aplicación.
-</div>
+>ℹ️ Si usted realiza el inicio de sesión utilizando email y contraseña en el mismo computador, se solicitará la clave de acceso ** cada 3 días**. Cuando eso suceda, basta con consultar el código en la aplicación.
 
 ### Habilitar 2FA por SMS
 
@@ -79,9 +77,7 @@ Para utilizar una clave enviada a través de mensaje de texto:
 
 ![2FA - SMS Insert Code - ES](https://images.ctfassets.net/alneenqid6w5/6KbuUvMFupmJEMN6kTOZ4E/dfcce0514f879ab5a2121d13579c82cb/2FA_-_SMS_Insert_Code_-_ES.png)
 
-<div class="alert alert-warning">
-No podemos garantizar que su operador de telefonía entregue la clave de acceso siempre que sea necesario. En caso de que el mensaje de texto de VTEX no llegue, intente reenviar el código o <a href="#habilitar-o-2fa-por-aplicativo">habilitar 2FA a través de la aplicación</a>.
-</div>
+>⚠️ No podemos garantizar que su operador de telefonía entregue la clave de acceso siempre que sea necesario. En caso de que el mensaje de texto de VTEX no llegue, intente reenviar el código o [habilitar 2FA a través de la aplicación](#habilitar-o-2fa-por-aplicativo).
 
 ### 2FA para operadores de televenta
 

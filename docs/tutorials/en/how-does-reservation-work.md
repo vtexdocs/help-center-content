@@ -3,8 +3,8 @@ title: 'How the reservation works'
 id: tutorials_92
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:56.753Z
-updatedAt: 2023-04-28T22:58:58.294Z
-publishedAt: 2023-04-28T22:58:58.294Z
+updatedAt: 2023-10-18T17:20:21.911Z
+publishedAt: 2023-10-18T17:20:21.911Z
 firstPublishedAt: 2017-04-27T23:00:42.751Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -17,10 +17,8 @@ subcategory: 3PQwnyOcNyYgawy06oe6gE
 
 Reservation is a VTEX solution that prevents the same item from being sold more than once. After a purchase is completed, the purchased item is subtracted from the available inventory and its status is changed to **Reserved**.
 
-<div class = "alert alert-info">
-On the VTEX platform, warehouse refers to the physical location where items are stored. To identify at which warehouse items will be picked up by the carriers, you must add the warehouses to the platform. To learn more, please refer to the article <a href="https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb">Warehouses.</a>
-<p>Inventory is a list of the items your store has in stock. You can add and track the available items in your store on the Inventory management page. To learn more, please refer to the article <a href="https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139">Inventory management</a>.
-</div>
+>ℹ️ On the VTEX platform, warehouse refers to the physical location where items are stored. To identify at which warehouse items will be picked up by the carriers, you must add the warehouses to the platform. To learn more, please refer to the article [Warehouses.](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb)
+> <p>Inventory is a list of the items your store has in stock. You can add and track the available items in your store on the Inventory management page. To learn more, please refer to the article [Inventory management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139).
 
 After an item is sold, it goes through the following statuses in your store's inventory:
 
@@ -31,9 +29,7 @@ After an item is sold, it goes through the following statuses in your store's in
 
 You can track the reservation status in the VTEX Admin, [as described at the end of this article](https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92#how-to-track-reservation-status).
 
-<div class="alert alert-warning">
-Adding products to the cart does not generate a reservation or priority. The Authorized reservation status is only displayed after the order is placed by the customer.
-</div>
+>⚠️ Adding products to the cart does not generate a reservation or priority. The Authorized reservation status is only displayed after the order is placed by the customer.
 
 ## Authorized reservation
 
@@ -43,15 +39,13 @@ The item remains with this status for a certain time, and if payment is not conf
 
 _Payment expiration period + inventory reservation period_
 
-- **Payment expiration period:** the time period (in days) in which the payment must be made. You can configure this period in the **[Payments](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB)** module for payments with boleto (Brazilian offline payment method) or [notes payable](https://help.vtex.com/en/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ#promissory-setup). For other payment methods, such as credit card and wallet, no time limit for payment expiration can be specified. The payment flow starts right after checkout, and the payment can be approved or denied in different time periods, depending on the selected payment method.
+- **Payment expiration period:** the time period (in days) in which the payment must be made. You can configure this period in the **[Payments](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB)** module for payments with boleto (Brazilian offline payment method) or [notes payable](https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable--5pW7avTwtyQcMu4uiW8quQ#notes-payable-setup). For other payment methods, such as credit card and wallet, no time limit for payment expiration can be specified. The payment flow starts right after checkout, and the payment can be approved or denied in different time periods, depending on the selected payment method.
 - **Inventory reservation period:** is set automatically, following the rules below.
     - **four calendar days:** when the payment is due on a Sunday, Monday or Tuesday.
     - **five calendar days:** when the payment is due on a Wednesday, Thursday or Friday.
     - **six calendar days:** when the payment is due on a Saturday.
 
-<div class="alert alert-danger">
-Incomplete orders have a fixed reservation period of 11 calendar days. To learn more, please refer to the article <a href="https://help.vtex.com/en/tutorial/understanding-incomplete-orders--tutorials_294">How incomplete orders work.</a>
-</div>
+>❗ Incomplete orders have a fixed reservation period of 11 calendar days. To learn more, please refer to the article [How incomplete orders work.](https://help.vtex.com/en/tutorial/understanding-incomplete-orders--tutorials_294)
 
 For an external marketplace, if the reservation period is sent by the `lockTTL` field, the reservation will not be calculated by VTEX platform but determined by the period in the field. This can be done using the [Place order](https://developers.vtex.com/docs/api-reference/checkout-api#put-/api/checkout/pub/orders) endpoint.
 
@@ -85,9 +79,7 @@ A store's inventory holds three units of an item. A customer makes a purchase, a
 
 When the retailer or the ERP updates the quantity of that item in the inventory, removing the sold quantity (updating it to two units), the platform updates the quantity of available items. Thus, this may be interpreted as a removal from inventory. Consequently, only two units of the item remain in the platform's inventory and no reserved units.
 
-<div class="alert alert-danger">
-By confirming the order handling, the seller takes responsibility for reserving the order items. From that moment on, if there are any updates in the inventory, the VTEX platform dismisses these SKUs' reservation. Therefore, we recommended updating the SKU inventory for a specific order only after the order has been invoiced. By doing so, you avoid inventory discrepancies in the <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integration with your store's backoffice</a>.
-</div>
+>❗ By confirming the order handling, the seller takes responsibility for reserving the order items. From that moment on, if there are any updates in the inventory, the VTEX platform dismisses these SKUs' reservation. Therefore, we recommended updating the SKU inventory for a specific order only after the order has been invoiced. By doing so, you avoid inventory discrepancies in the [integration with your store's backoffice](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).
 
 ## How to track reservation status
 
@@ -98,8 +90,6 @@ By confirming the order handling, the seller takes responsibility for reserving 
 
 As explained above, removal from inventory is a consequence of the retailer updating the inventory. Therefore, it is not possible to view this status on the platform. It is only possible to view the number of items available for sale and the movement of items in the [Inventory Management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139) page.
 
-<div class = "alert alert-info">
-All the statuses described here are internal and exclusive to VTEX for item sales control.
-<p>The reservation status is a consequence of the order status. Some changes depend on buyers' actions, and others depend on manual or ERP updates.
-</div>
+>ℹ️ All the statuses described here are internal and exclusive to VTEX for item sales control.
+> <p>The reservation status is a consequence of the order status. Some changes depend on buyers' actions, and others depend on manual or ERP updates.
 

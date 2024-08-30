@@ -33,9 +33,7 @@ For example, if your lowest receivable is R$ 10, this is the minimum amount you 
 
 ![antecipaçãoEN](https://images.ctfassets.net/alneenqid6w5/655LHSr6GS2RpCvCKYfAup/bade73d74e819b410247130a7662df03/image.png_h_250)
 
-<div class="alert alert-info">
-<strong>Warning</strong>: receivables in dispute or expected for the next business day cannot be anticipated.
-</div>
+>ℹ️ **Warning**: receivables in dispute or expected for the next business day cannot be anticipated.
 
 Check out the step by step to request the anticipation:
 

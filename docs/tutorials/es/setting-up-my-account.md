@@ -3,8 +3,8 @@ title: 'Configuración de My Account'
 id: 23Ayv5D6b86UBnYfoXqZL1
 status: PUBLISHED
 createdAt: 2019-02-19T21:35:31.855Z
-updatedAt: 2021-05-24T18:07:48.662Z
-publishedAt: 2021-05-24T18:07:48.662Z
+updatedAt: 2023-12-21T14:12:18.587Z
+publishedAt: 2023-12-21T14:12:18.587Z
 firstPublishedAt: 2019-02-19T21:37:25.249Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,8 @@ locale: es
 legacySlug: configuración-de-my-account
 subcategory: 1RWR7qSyaREbD5RfgCjdYG
 ---
+
+>ℹ️ En [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
 
 El nuevo [My Account](https://help.vtex.com/es/tutorial/como-funciona-el-my-account--2BQ3GiqhqGJTXsWVuio3Xh) ya está instalado en todas las cuentas VTEX en un <strong>ambiente de prueba</strong>, permitiendo ajustes en la nueva página sin impactos en la experiencia de usuario.
 
@@ -27,6 +29,4 @@ Para realizar las personalizaciones en la página, es necesario:
 2. Autenticarse a través de las opciones __Recibir código de acceso por e-mail__ o __Entrar con e-mail y contraseña__
 3. Ingrese a la sección __Mi cuenta__, ubicada en la esquina superior izquierda de la pantalla al lado de __Mi carrito__
 
-<div class="alert alert-info">
-Para las tiendas creadas a partir del 15 de mayo de 2019, no se requiere ningún ajuste de personalización, ya que el nuevo My Account ya se ha instalado nativamente en la plataforma.
-</div>
+>ℹ️ Para las tiendas creadas a partir del 15 de mayo de 2019, no se requiere ningún ajuste de personalización, ya que el nuevo My Account ya se ha instalado nativamente en la plataforma.

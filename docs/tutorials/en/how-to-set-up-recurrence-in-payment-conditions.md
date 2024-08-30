@@ -3,8 +3,8 @@ title: 'How to set up recurrence in payment conditions '
 id: 6EGuoAytLqU2CqUuaI2GUW
 status: PUBLISHED
 createdAt: 2017-06-29T20:56:04.718Z
-updatedAt: 2023-03-30T15:57:59.484Z
-publishedAt: 2023-03-30T15:57:59.484Z
+updatedAt: 2024-01-09T19:47:20.977Z
+publishedAt: 2024-01-09T19:47:20.977Z
 firstPublishedAt: 2017-07-03T15:16:40.562Z
 contentType: tutorial
 productTeam: Financial
@@ -27,7 +27,7 @@ After this, it is possible to set the special conditions and, finally, the recur
 3. Click on the payment condition created;
 4. Click on **Add special condition**;
 5. Select the option **Expiration Date**;
-6. We will set the day range for the validity of the payment condition in **Only for these period**;
-7. Under the period, we will see the field **Recurrency**. There we can select **Every day** or (Disabling the option "All days") we can select the **weekdays** we want; ee can also set up a time to start and a time to finish;
+6. We will set the day range for the validity of the payment condition in **Only for this period**;
+7. Under the period, we will see the field **Recurrence**. There we can select **Every day** or (Disabling the option "All days") we can select the **weekdays** we want; ee can also set up a time to start and a time to finish;
 8. If we want to add another **Recurrency**, click on button `+`;
 

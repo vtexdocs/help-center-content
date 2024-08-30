@@ -24,7 +24,5 @@ Whenever you access a safe webpage, that is, an Internet page that is protected 
 
 Purchasing an SSL certificate (which used to be supplied by Digicert) is no longer required. Certificates are now issued through Let’s Encrypt, and their development is now under VTEX's responsibility, [at the moment of the store’s GoLive](https://help.vtex.com/en/tutorial/configuring-dns-pointing-to-vtex--tutorials_4280).
 
-<div class="alert alert-warning">
-Please note that VTEX generates an SSL certificate for your store and ensures its automatic renewal. Therefore, we do not recommend installing any other certificates. However, if you need to install another certificate, please make the request with our [support](https://help.vtex.com/en/support).
-</div>
+>⚠️ Please note that VTEX generates an SSL certificate for your store and ensures its automatic renewal. Therefore, we do not recommend installing any other certificates. However, if you need to install another certificate, please make the request with our [support](https://help.vtex.com/en/support).
 

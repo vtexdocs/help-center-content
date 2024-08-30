@@ -15,13 +15,11 @@ legacySlug: search-parameters
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning">
-  <strong>Warning</strong>: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
-</div>
+>⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
 
 When making a search on VTEX, there are different possibilities of urls. The urls of Departments and Categories are made up as follows:
 
-![](//images.contentful.com/alneenqid6w5/1MhPmB1yxKS426UCsASUsY/eeaf45262ccde7b0a50ee6ef6b787afb/arvore_categoria.png)
+![](https://images.contentful.com/alneenqid6w5/1MhPmB1yxKS426UCsASUsY/eeaf45262ccde7b0a50ee6ef6b787afb/arvore_categoria.png)
 
 In the categories tree above, the links are as follows:
 
@@ -35,7 +33,7 @@ www.store.com/artes-e-entretenimento/festas-e-comemoracoes/artigos-para-festas
 
 The url will always be made up with the term entered in the search field:
 
-![](//images.contentful.com/alneenqid6w5/tJYda31CZUUOCii0EcwmE/89481a9321a61fb50fd5463217d6760d/campo_busca.png)
+![](https://images.contentful.com/alneenqid6w5/tJYda31CZUUOCii0EcwmE/89481a9321a61fb50fd5463217d6760d/campo_busca.png)
 
 www.loja.com.br/cama
 
@@ -49,13 +47,13 @@ Where:
 
 **C:\[DepartmentId/CategoryId/SubcategoryId\]**: Shows products of a specific category, according to the IDs informeds for the department, category and subcategory. This code appears next to category names on **Cadastro de Produtos -> Categoria**:
 
-![](//images.contentful.com/alneenqid6w5/44i8Rue6hiMmMs64wiks86/8f31981e162596d825190865cefd121e/id_categoria1.png)
+![](https://images.contentful.com/alneenqid6w5/44i8Rue6hiMmMs64wiks86/8f31981e162596d825190865cefd121e/id_categoria1.png)
 
 **NOTE: The category ID can also be found on your editing page, at the end of the url.**
 
 **B:\[IdMarca\]: **Shows products of a specific brand, according to the ID informed. This code is shown at the end of the URL, on the page used for changing the brand, in **Cadastro de Produtos &gt; Marca**:
 
-![](//images.contentful.com/alneenqid6w5/2CuMf8UzCIkiYyMKUiIOcy/9c354e12e064bdb7f310611f7fc0ee41/id_marca.png)
+![](https://images.contentful.com/alneenqid6w5/2CuMf8UzCIkiYyMKUiIOcy/9c354e12e064bdb7f310611f7fc0ee41/id_marca.png)
 
 <div class = "alert alert-warning" >
   <p><b>Warning:</b> there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.</p>
@@ -63,11 +61,11 @@ Where:
 
 **H:\[IdColeção\]**: Shows products of a specific collection, according to the ID informed. This code is informed in collection editing, in **Configurações &gt; Portal &gt; Portal folder &gt; Coleções subfolder:**
 
-![](//images.contentful.com/alneenqid6w5/2vqAbADq0cUQO224YoOQAQ/7eef524621cbf80d9c37b37c9cc4099e/id_colecao.png)
+![](https://images.contentful.com/alneenqid6w5/2vqAbADq0cUQO224YoOQAQ/7eef524621cbf80d9c37b37c9cc4099e/id_colecao.png)
 
 **spec\_fct\_\[IdCampoProduto/Sku\]:\[ValorBuscado\]: **Shows products whose product/sku field value, with the indicated ID, is equal to the value informed. This code can be found on the page used for changing a product/sku field, at the end of the url:
 
-![](//images.contentful.com/alneenqid6w5/7noRXDnenuSU4ugc8mmoSg/7a85e4ab97b87c00d4306c57c2462ecc/id_campo-560x386.png)
+![](https://images.contentful.com/alneenqid6w5/7noRXDnenuSU4ugc8mmoSg/7a85e4ab97b87c00d4306c57c2462ecc/id_campo-560x386.png)
 
 See below an example of use of this field:
 
@@ -80,9 +78,7 @@ In the example above, all products whose **Voltagem**(ID **1**) field is **110v*
 The parameters above can be matched in many ways. However, notice that the search order will be according to the order of the parameters informed. In other words, when you use a category parameter followed by a brand parameter, for example, the category will be searched first and, among the results found, a second search will be made for the brand.
 
 ### Default 2
-<div class="alert alert-info">
-  For stores hosted in VTEX IO, Default 2 should be used as standard.
-  </div>
+>ℹ️ For stores hosted in VTEX IO, Default 2 should be used as standard.
 
 URL: www.loja.com.br/**\[NomeCategoria\]**/**\[NomeMarca\]**/**\[IdColeção\]**/**\[ValorBuscado\]**?map=**c,b,productClusterIds,specificationFilter_\[IdCampoProduto/Sku\]**
 

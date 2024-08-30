@@ -15,15 +15,11 @@ legacySlug: managing-delivery-capacity-beta
 subcategory: 
 ---
 
-<div class="alert alert-warning">
-This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href="https://support.vtex.com/hc/pt-br/requests">our Support</a>.
-</div>
+>⚠️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://support.vtex.com/hc/pt-br/requests).
 
 You can track the availability of delivery windows and the number of items/orders that can still be placed in each delivery window on the Delivery capacity page.
 
-<div class="alert alert-warning">
-To manage your delivery capacity, you must previously configure your shipping policies and enable scheduled deliveries. To learn how to do that, check out the articles[ Shipping policy](link) and [Scheduled delivery](link).
-</div>
+>⚠️ To manage your delivery capacity, you must previously configure your shipping policies and enable scheduled deliveries. To learn how to do that, check out the articles[ Shipping policy](link) and [Scheduled delivery](link).
 In the Admin, go to **Inventory & shipping > Delivery capacity**.
 
 The Delivery capacity page displays a list of your store's delivery windows. The list is based on the shipping policy selected in the Shipping policy filter and the time frame specified in the Date filter.
@@ -37,6 +33,4 @@ Once you have selected a shipping policy and a date, you will see the delivery w
 *   **Available**: number of items/orders that can still be scheduled (the total capacity minus the booked items).
 *   **Status**: classified as visible or not visible, depending on the availability of the delivery window. The delivery window will be shown as visible for your customers if its capacity hasn’t been reached yet.
 *   
-<div class="alert alert-info">
-By clicking on EDIT SHIPPING POLICY, you’ll be redirected to the shipping policy page selected in the Shipping policy filter, where you can edit it.
-</div>
+>ℹ️ By clicking on EDIT SHIPPING POLICY, you’ll be redirected to the shipping policy page selected in the Shipping policy filter, where you can edit it.

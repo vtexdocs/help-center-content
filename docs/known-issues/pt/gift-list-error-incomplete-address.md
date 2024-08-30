@@ -18,9 +18,7 @@ internalReference: 313576
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Algumas Listas de Presentes são mostradas em vermelho com a mensagem "endereço incompleto". Ao clicar na URL da lista de presentes, eles a redirecionam para a seguinte mensagem de erro: `.myvtex.com/giftlist?GiftListAddressFail_ID``.

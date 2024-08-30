@@ -19,25 +19,20 @@ Data entity is a representation of a set of information about a given concept. E
 
 For example, imagine the system that controls a library. This system controls books than can be borrowed by customers. So, we can notice that these 3 concepts (book, customer, borrowing) are entities that include information about each one of them. Thus, “data entity” is a set of information about a given concept.
 
-![exemploBiblioteca](//images.contentful.com/alneenqid6w5/4WFfw93mlykqGCMSyAKcW2/27a0fd02aba4dd22df42a00fd506b75e/new-infographic.png)
+![exemploBiblioteca](https://images.contentful.com/alneenqid6w5/4WFfw93mlykqGCMSyAKcW2/27a0fd02aba4dd22df42a00fd506b75e/new-infographic.png)
 
 Considering these concepts, it is possible to set up several data control scenarios in the Master Data. By default, the following data entities are considered: Customer, Address, Stores etc. You may create as many data entities as you wish in order to develop a customized environment according to the needs of your store.
 
-<div class="alert alert-warning">
-This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use.
- <ul>
-<li>
-<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-Master Data version characteristics
- </a>
-</li>
-<li>
-<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-Master Data v2
-</a>
-</li>
-</ul>
-</div>
+>⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use.
+>
+> *<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
+> Master Data version characteristics
+>  </a>
+>
+> *<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
+> Master Data v2
+> </a>
+> 
 
 ## Understanding the types
 

@@ -19,7 +19,5 @@ A VTEX anuncia sua nova integração com a Amazon. Agora nossos clientes já pod
 
 Num primeiro momento, a integração estará disponível para as categorias Eletrônicos, Livros e Games. Para saber mais detalhes sobre a integração, veja nosso [tutorial](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP "tutorial").
 
-<div class="alert alert-warning">
-Esta integração está disponível para Brasil e Estados Unidos.
-</div>
+>⚠️ Esta integração está disponível para Brasil e Estados Unidos.
 

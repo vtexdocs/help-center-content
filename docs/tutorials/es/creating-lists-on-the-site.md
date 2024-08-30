@@ -27,11 +27,11 @@ Abajo va un ejemplo de cómo aparece el link, cuando su tienda sea creada y aún
 
 El link “Minha Lista” hace disponibles tres opciones: Buscar uma lista, Criar uma nova lista y Gerenciar minhas listas. Entienda las particularidades de cada una de ellas:
 
-![](//images.contentful.com/alneenqid6w5/3lEYA5uyJGSuMkMGqOmi0c/55f5091aa3eeff82db785b283518b3f3/Como_criar_lista_no_site_1.jpg)
+![](https://images.contentful.com/alneenqid6w5/3lEYA5uyJGSuMkMGqOmi0c/55f5091aa3eeff82db785b283518b3f3/Como_criar_lista_no_site_1.jpg)
 
 ## **Buscar una Lista**
 
-![](//images.contentful.com/alneenqid6w5/IP0hyIHPEse28MIKKYwwQ/ee54d32cf1cefcf6c92912c2ebb007af/Como_criar_lista_no_site_2.gif)
+![](https://images.contentful.com/alneenqid6w5/IP0hyIHPEse28MIKKYwwQ/ee54d32cf1cefcf6c92912c2ebb007af/Como_criar_lista_no_site_2.gif)
 
 Para buscar una lista en el sitio, haga clic en el link “Minha lista” y rellene uno de los campos disponibles para filtro, conforme a los de abajo. Esa página puede variar de acuerdo a la personalización que se haga en el sitio, la que puede, por ejemplo, limitarse a usar sólo los campos “Nome”, “Sobrenome” y “Data do Evento”.
 

@@ -3,8 +3,8 @@ title: 'El campo del nombre del producto en el XML devuelve el nombre del produc
 id: 7sNNzBe5pLn7oigDgoCKjv
 status: PUBLISHED
 createdAt: 2022-09-19T19:06:55.572Z
-updatedAt: 2022-11-25T21:43:35.947Z
-publishedAt: 2022-11-25T21:43:35.947Z
+updatedAt: 2024-02-16T20:23:45.927Z
+publishedAt: 2024-02-16T20:23:45.927Z
 firstPublishedAt: 2022-09-19T19:06:56.137Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-campo-del-nombre-del-producto-en-el-xml-devuelve-el-nombre-del-producto-el-nombre-del-sku-cuando-el-producto-solo-tiene-un-sku
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 661089
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

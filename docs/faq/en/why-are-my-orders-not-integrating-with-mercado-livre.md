@@ -21,7 +21,7 @@ In order to do this, the first step is accessing the integration registration:
 1. Access the __Marketplace__ module
 2. Click on __Integration__
 3. Look for the Mercado Livre __panel__
-4. Click on the __gears__ icon <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/3GKATZh3AUzyZ2LzqvXZSg/f1db9ae88c6bcf0ed632df42133213d4/gear.png" />
+4. Click on the __gears__ icon <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3GKATZh3AUzyZ2LzqvXZSg/f1db9ae88c6bcf0ed632df42133213d4/gear.png" />
 5. Click on __Edit config_
 
 From there onwards, you'll need to redo the integration process.

@@ -17,15 +17,16 @@ subcategory: 2u48reCb68K48EAcm86ccM
 
 En VTEX, se puede [importar productos y SKU de forma masiva a través de una plantilla](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#plantilla). Para entender el significado de cada uno de los campos, vea a continuación una descripción completa de la lista de campos de Producto y SKU que aparecen en la plantilla.
 
-<div class="alert alert-danger">
-  <p>Al rellenar <b>CaptionLink</b>, <b>DepartamentName</b>, <b>CategoryName</b> y <b>Brand</b>, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX.  Consulta la lista de palabras reservadas a continuación.
-  <ul>
-<li><code>a</code></li>
-<li><code>meta</code></li>
-<li><code>api</code></li>
-<li><code>admin</code></li>
-</ul></p>
-</div>
+>❗ Al rellenar **CaptionLink**, **DepartamentName**, **CategoryName** y **Brand**, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX.  Consulta la lista de palabras reservadas a continuación.
+>
+> *`a`
+>
+> *`meta`
+>
+> *`api`
+>
+> *`admin`
+> 
 
 __SkuId:__ número único de identificación del SKU. Si este campo ya está rellenado, no puede modificarlo. Para agregar un nuevo SKU, deje la columna vacía.
 

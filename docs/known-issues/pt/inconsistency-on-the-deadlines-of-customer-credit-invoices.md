@@ -18,9 +18,7 @@ internalReference: 331279
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os pedidos feitos utilizando Crédito ao Cliente como forma de pagamento geram faturas de apenas uma única parcela devido a 60 dias. Se você verificar a conta no módulo de Crédito ao Cliente, diz que a fatura foi gerada sem problemas. No entanto, olhando através da API é possível notar que dentro do campo customData os prazos (datas de vencimento) são enviados com valores diferentes. Isto impacta a integração com outros sistemas que organizam o cumprimento.

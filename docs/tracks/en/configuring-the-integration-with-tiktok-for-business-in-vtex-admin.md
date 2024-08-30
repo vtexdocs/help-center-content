@@ -42,9 +42,7 @@ In this part of the form, you need to fill in information that will be used to i
 
 * **Trade policy:** a field to select the trade policy to be associated with a catalog integrated with TikTok. Currently, the integration only accepts trade policies with BRL as currency. See the [Sending product data to TikTok](#sending-product-data-to-tiktok) section for more information.
 
-<div class="alert alert-warning">
-<p>Do not change the affiliate configuration created automatically through this integration. Any future manual changes to the affiliate's configuration in <strong>Orders management > Settings > Affiliates</strong> may cause the integration to stop working.</p>
-</div>
+>⚠️ Do not change the affiliate configuration created automatically through this integration. Any future manual changes to the affiliate's configuration in **Orders management > Settings > Affiliates** may cause the integration to stop working.
 
 ### Company data
 
@@ -76,9 +74,7 @@ After completing the integration configuration form, you need to connect your Ti
 
 ## 3. Configuring TikTok for Business
 
-<div class="alert alert-warning">
-<p>We recommend disabling the extensions that block ads in your browser to avoid errors in the following steps.</p>
-</div>
+>⚠️ We recommend disabling the extensions that block ads in your browser to avoid errors in the following steps.
 
 On the **Set Up TikTok for Business page**, as illustrated below, please follow the configuration instructions described next.
 
@@ -105,9 +101,7 @@ When you complete this setting, you will be redirected back to **Marketplace > T
 
 ### Sending product data to TikTok
 
-<div class="alert alert-warning">
-  <p>TikTok only syncs products that comply with the platform's advertising policies. Read <a href="https://ads.tiktok.com/help/article?aid=9550&lang=pt">TikTok Advertising Policies</a> for more information.</p>
-</div>
+>⚠️ TikTok only syncs products that comply with the platform's advertising policies. Read [TikTok Advertising Policies](https://ads.tiktok.com/help/article?aid=9550&lang=pt) for more information.
 
 Once the integration is configured, sending products to TikTok will be an automatic process. The following data will be submitted:
 

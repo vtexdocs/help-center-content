@@ -42,9 +42,7 @@ Nesta parte do formulário, você precisa preencher informações que servirão 
 * **ID do Afiliado:** identificador do novo [afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) que você deseja criar para a integração. O ID do afiliado precisa conter apenas 3 consoantes e não pode estar associado a um afiliado já existente. Sugerimos utilizar `TKT` para identificar o TikTok com facilidade. É importante verificar em **Gerenciamento de pedidos > Configurações > Afiliados** se o ID não está em uso. O afiliado será criado automaticamente ao concluir a configuração. 
 * **Política Comercial:** campo para selecionar a [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será associada à integração do catálogo com o TikTok. Atualmente, a integração aceita apenas políticas comerciais com BRL como moeda. Confira a seção [Envio de dados dos produtos para o TikTok](#envio-de-dados-dos-produtos-para-o-tiktok) para mais informações.
 
-<div class="alert alert-warning">
-  <p>Não altere as configurações do afiliado criado automaticamente por essa integração. Qualquer alteração manual futura na configuração do afiliado em <strong>Gerenciamento de pedidos > Configurações > Afiliados</strong> pode fazer com que a integração pare de funcionar.</p>
-</div>
+>⚠️ Não altere as configurações do afiliado criado automaticamente por essa integração. Qualquer alteração manual futura na configuração do afiliado em **Gerenciamento de pedidos > Configurações > Afiliados** pode fazer com que a integração pare de funcionar.
 
 ### Dados da Empresa
 
@@ -105,13 +103,11 @@ Na página **Set up TikTok For Business** (Configurar o TikTok For Business), il
 
 Ao concluir essa configuração, você será conduzido novamente para **Marketplace > TikTok** no Admin VTEX, onde poderá [gerenciar a integração](https://help.vtex.com/pt/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd/24SfBYkRkKMaetgjLDKgaP). Para algumas versões do Admin VTEX, a página se encontra em **Aplicativos > Meus Aplicativos > TikTok**. Após a configuração ter sido concluída com sucesso, qualquer usuário logado no Admin VTEX poderá acessar essa área de gerenciamento do TikTok. 
 
-![tiktok-config-3](//downloads.ctfassets.net/alneenqid6w5/4gryDGvlRXWO50awLjcpBx/6f225b366777870d8eed7dd33f90614a/tiktok-config-3.gif)
+![tiktok-config-3](https://downloads.ctfassets.net/alneenqid6w5/4gryDGvlRXWO50awLjcpBx/6f225b366777870d8eed7dd33f90614a/tiktok-config-3.gif)
 
 ### Envio de dados dos produtos para o TikTok
 
-<div class="alert alert-warning">
-  <p>O TikTok sincroniza apenas produtos que estão de acordo com as políticas de publicidade da plataforma. Leia as <a href="https://ads.tiktok.com/help/article?aid=9550&lang=pt">Políticas de Anúncios do TikTok</a> para mais informações.</p>
-</div>
+>⚠️ O TikTok sincroniza apenas produtos que estão de acordo com as políticas de publicidade da plataforma. Leia as [Políticas de Anúncios do TikTok](https://ads.tiktok.com/help/article?aid=9550&lang=pt) para mais informações.
 
 Com a integração configurada, o envio de produtos para o TikTok é um processo automático. Os dados enviados são:
 

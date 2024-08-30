@@ -18,9 +18,7 @@ internalReference: 515480
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El cambio de disponibilidad de un vendedor en una póliza comercial no está siendo reconocido correctamente en el catálogo. Esto puede causar dos escenarios: un producto de un vendedor no seleccionado pasa a estar disponible o un producto de un vendedor seleccionado pasa a no estar disponible

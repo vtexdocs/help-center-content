@@ -3,8 +3,8 @@ title: 'Preencher campos de cadastro de SKU'
 id: 21DDItuEQc6mseiW8EakcY
 status: PUBLISHED
 createdAt: 2017-09-22T00:20:45.920Z
-updatedAt: 2022-12-19T18:03:03.864Z
-publishedAt: 2022-12-19T18:03:03.864Z
+updatedAt: 2023-07-14T20:59:40.541Z
+publishedAt: 2023-07-14T20:59:40.541Z
 firstPublishedAt: 2017-09-22T00:40:16.232Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,15 +15,13 @@ legacySlug: campos-de-cadastro-de-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class="alert alert-warning">
-  <p>Existe um limite de 50 SKUs por produto. Para solicitar que o limite seja ampliado, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>
+>⚠️ Existe um limite de 50 SKUs por produto. Para solicitar que o limite seja ampliado, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
 
 Para entender o significado de cada campo do cadastro de SKU, veja a descrição completa dos itens relacionados na página.
 
 __Nome do produto:__ já aparece preenchido com o nome do produto ao qual o SKU irá pertencer.
 
-__Nome:__ deve conter o nome do SKU, ou seja, a variação do produto, que já foi cadastrado anteriormente. Produto - Geladeira, SKU -110 volts.
+__Nome:__ deve conter o nome do SKU, ou seja, a variação do produto, que já foi cadastrado anteriormente. Exemplo: Produto - Geladeira, SKU - 110 volts. O nome do SKU é limitado a 200 caracteres.
 
 __Valor para Fidelidade:__ crédito que o cliente recebe ao concluir uma compra de 1 unidade de um determinado SKU. Ao colocar “1,00” neste campo, o cliente ganha um crédito de R$ 1,00 no site.
 
@@ -33,9 +31,7 @@ __Código de Referência:__ código de referência único criado para ajudar na 
 
 __Peso para Frete:__ calculado para frete. Deve ser cadastrado com valor maior do que zero para o funcionamento correto do <a href="https://help.vtex.com/pt/tutorial/como-e-feito-o-rateio-de-frete--frequentlyAskedQuestions_155">rateio de frete</a>.
 
-<div class = "alert alert-info">
-<p>O módulo de <strong>Envio/Estoque e Entrega</strong> não leva em consideração unidades de medida nos campos abaixo. Basta ser consistente com o que é cadastrado nos <a href="https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">campos de cadastro do produto</a> e do SKU.</p>
-</div>
+>ℹ️ O módulo de **Envio/Estoque e Entrega** não leva em consideração unidades de medida nos campos abaixo. Basta ser consistente com o que é cadastrado nos [campos de cadastro do produto](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) e do SKU.
 
 __Altura para Frete:__ calculada para frete.
 
@@ -77,9 +73,7 @@ Após o preenchimento dos campos, clique em `Salvar`. Para dar continuidade ao c
 
 ## Imagens
 
-<div class="alert alert-info">
-  <p>A imagem de SKU apresenta o tamanho limite de 3200 x 3200 pixels.</p>
-</div>
+>ℹ️ A imagem de SKU apresenta o tamanho limite de 3200 x 3200 pixels.
 
 Como cadastrar uma nova imagem:
 
@@ -131,6 +125,4 @@ Após o preenchimento dos campos necessários, basta clicar em Salvar, na aba SK
 - [Preencher campos de cadastro do Produto](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke)
 - [Preencher campos da Planilha de Importação](/pt/tutorial/preencher-campos-da-planilha-de-importacao--4nYhx63Q5yokQWaMguaIgI)
 
-<div class="alert alert-danger">
-Para garantir que itens adicionados ao estoque fiquem disponíveis para venda na loja, o <a href="https://help.vtex.com/pt/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW"> ID do SKU </a> não deve conter <b>o número zero à esquerda</b>. O sistema não reconhece, por exemplo, IDs no formato <code>01</code>, <code>02</code>, <code>021</code>, pois é esperado o formato  <code>1</code>, <code>2</code>, <code>21</code>.
-</div>
+>❗ Para garantir que itens adicionados ao estoque fiquem disponíveis para venda na loja, o [ ID do SKU ](https://help.vtex.com/pt/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW) não deve conter **o número zero à esquerda**. O sistema não reconhece, por exemplo, IDs no formato `01`, `02`, `021`, pois é esperado o formato  `1`, `2`, `21`.

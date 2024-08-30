@@ -18,9 +18,7 @@ internalReference: 627261
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A alteração do endereço pode alterar as opções de remessa de um item e, naturalmente, pode remover a seleção da janela de entrega para entregas programadas, se as opções forem diferentes.

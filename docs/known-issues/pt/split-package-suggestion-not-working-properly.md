@@ -18,9 +18,7 @@ internalReference: 656810
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A sugestão do pacote dividido não está funcionando corretamente, quando você termina a compra a IU sugere os pacotes divididos em casos de docas diferentes ou tamanhos diferentes e estratégias de embarque diferentes.

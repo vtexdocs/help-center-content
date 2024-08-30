@@ -3,8 +3,8 @@ title: 'El flujo de revisión de direcciones está eliminando la información es
 id: 416pFRk6KsWIfgPr8pzWii
 status: PUBLISHED
 createdAt: 2022-08-11T18:33:49.548Z
-updatedAt: 2022-11-25T21:50:56.733Z
-publishedAt: 2022-11-25T21:50:56.733Z
+updatedAt: 2024-02-16T20:23:20.195Z
+publishedAt: 2024-02-16T20:23:20.195Z
 firstPublishedAt: 2022-08-11T18:33:50.049Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-flujo-de-revision-de-direcciones-esta-eliminando-la-informacion-esencial-de-la-direccion
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 618756
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La validación de la dirección en el modo de geolocalización (dirección insertada a través de Google Maps) está eliminando información esencial, como la calle y el número, de las direcciones válidas, afectando al flujo de compra.

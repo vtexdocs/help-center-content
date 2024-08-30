@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'El módulo Suscripciones es una solución de VTEX para pedidos recurrentes en su tienda, y está en constante evolución'
 ---
 
-<div class="alert alert-info">
-  <p>La actualización solo afectará a las tiendas que poseen el módulo Suscripciones. Para las tiendas que no tienen esta funcionalidad, nada cambiará.</p>
-</div>
+>ℹ️ La actualización solo afectará a las tiendas que poseen el módulo Suscripciones. Para las tiendas que no tienen esta funcionalidad, nada cambiará.
 
 El módulo Suscripciones es una solución de VTEX para pedidos recurrentes en su tienda, y está en constante evolución. Mejoramos el módulo para agilizar el desempeño del sistema y entregar nuevas funcionalidades que mejoran la experiencia del consumidor de su tienda. Este artículo detalla todos los cambios del módulo y lo que se necesita realizar en su tienda. 
 
@@ -77,6 +75,4 @@ El cálculo de la próxima fecha del pedido por suscripción cambió. Esta alter
 Recordamos que, si su tienda no utiliza nuestras APIs en integraciones, no se necesita realizar ninguna adaptación, la evolución será implementada de forma automática por el sistema de VTEX. 
 Para los administradores de tiendas o partners que utilizan nuestra API de Suscripciones, cabe señalar que todas las anteriores rutas de la API de Suscripciones se sustituirán por nuevas, para reflejar la evolución del módulo. Todo el proceso de migración será apoyado por el equipo de VTEX, garantizando una transición sin problemas al nuevo módulo. Vea nuestra [guía de integración con el nuevo módulo de Suscripciones](https://developers.vtex.com/vtex-developer-docs/docs/subscriptions-v3-migration-guide).
 
-<div class="alert alert-info">
-  Solicita la nueva interfaz de Suscripciones a nuestro <a href="https://help.vtex.com/es/tutorial/abrir-tickets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM">soporte</a>. La tienda debe contar con la instalación de Search of Biggy (<a href="https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG">Intelligent Search</a>) para activar la nueva interfaz.
-  </div>
+>ℹ️ Solicita la nueva interfaz de Suscripciones a nuestro [soporte](https://help.vtex.com/es/tutorial/abrir-tickets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM). La tienda debe contar con la instalación de Search of Biggy ([Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)) para activar la nueva interfaz.

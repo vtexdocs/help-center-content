@@ -28,6 +28,4 @@ A continuación, compruebe el paso a paso para realizar esta operación:
 
 A continuación, compruebe la bandeja de entrada del correo electrónico seleccionado. Si la operación ha funcionado, el usuario ha recibido un email con un link para descargar la planilla completa.
 
-<div class="alert alert-warning">
-Esto sólo funciona adecuadamente en casos de hasta 10 mil productos. Si el valor requerido es mayor que ese límite, el sistema no envía la planilla al correo electrónico. Utilice los filtros para refinar su búsqueda.
-</div>
+>⚠️ Esto sólo funciona adecuadamente en casos de hasta 10 mil productos. Si el valor requerido es mayor que ese límite, el sistema no envía la planilla al correo electrónico. Utilice los filtros para refinar su búsqueda.

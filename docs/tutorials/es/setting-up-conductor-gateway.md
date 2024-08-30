@@ -1,10 +1,10 @@
 ---
 title: 'Configurar gateway Conductor'
 id: Q5Ezi95TSEyE2GCQSs8ak
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-05-02T17:09:15.090Z
-updatedAt: 2023-03-29T00:55:20.862Z
-publishedAt: 2023-03-29T00:55:20.862Z
+updatedAt: 2024-03-18T18:11:12.675Z
+publishedAt: 
 firstPublishedAt: 2018-05-02T18:38:56.879Z
 contentType: tutorial
 productTeam: Financial
@@ -15,14 +15,15 @@ legacySlug: configurar-gateway-conductor
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+>❗ Esta integración de pago ya no se puede configurar en la plataforma debido al [proceso de descontinuación de los proveedores legados](https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14) y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.
+
 Conductor es un [gateway de pagos](/es/tutorial/que-es-un-gateway-de-pagos) con certificación [PCI](/es/faq/que-es-el-pci-ssc) que actúa desde hace más de 20 años con el procesamiento de pagos. En VTEX, se puede configurar para procesar pagos realizados con __tarjetas de crédito con bandera propia__.
 
 Para habilitar al Conductor en su tienda, siga los pasos abajo:
 
-## Configurar la afiliación de gateway Conductor
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. En la pestaña __Afiliaciones__, haga clic en el botón __+__.
-3. Haga clic en el conector __Conductor__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __Conductor__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. En el campo __External Service Url__, configure la URL externa que va a estar asociada a `/pvt/payments?an={AccoutName}`.
 5. Rellene los campos de registro con los datos proporcionados por Conductor (campos _appKey_ y _appToken_).
 6. En __Implements Installments Service__, elija si desea utilizar servicios externos de parcelación o el que está configurado en el portal. Si elige la opción _yes_, el sistema utilizará la URL configurada en el campo __Installments Service Url__.

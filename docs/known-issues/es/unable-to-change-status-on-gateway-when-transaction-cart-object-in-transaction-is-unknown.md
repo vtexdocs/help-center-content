@@ -1,5 +1,5 @@
 ---
-title: 'No se puede cambiar el estado en la pasarela cuando el objeto de carro de la transacción en /transacción es "desconocido".'
+title: "No se puede cambiar el estado en la pasarela cuando el objeto de carro de la transacción en /transacción es 'desconocido'."
 id: 3gWqk1T2xP3eRYZtXZLX3b
 status: PUBLISHED
 createdAt: 2023-03-23T14:27:16.116Z
@@ -18,9 +18,7 @@ internalReference: 776837
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Para cancelar o modificar un pedido en escenarios divididos, nuestra pasarela requiere un objeto de carrito. Sin embargo, si el proceso de pago a través de OMS envía un objeto de carrito nulo/desconocido, nuestra pasarela no puede procesar estas operaciones, lo que provoca un error de análisis de la biblioteca Newtonsoft utilizada en la pasarela.

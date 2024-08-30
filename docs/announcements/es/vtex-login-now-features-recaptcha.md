@@ -19,12 +19,12 @@ El acceso de VTEX a través de email y contraseña ahora cuenta con reCAPTCHA, q
 
 Usamos Invisible reCAPTCHA, una tecnología de Google que determina cuándo es necesario confirmar si el intento de acceso está siendo realizado por un robot o un humano.
 
-![reCAPTCHA](//images.contentful.com/alneenqid6w5/2obeayJZP6k8q8a6W68sQI/08bbf823714965fd207961a792a94f9f/reCAPTCHA.png)
+![reCAPTCHA](https://images.contentful.com/alneenqid6w5/2obeayJZP6k8q8a6W68sQI/08bbf823714965fd207961a792a94f9f/reCAPTCHA.png)
 
 Esto significa que la solicitud de confirmación puede o no aparecer, dependiendo de varios factores.
 
 Con este cambio, VTEX deja de impedir el acceso de un usuario después de 3 intentos incorrectos, ya que la seguridad queda garantizada por el reCAPTCHA.
 
-<div class="alert alert-info">Actualmente, usamos reCAPTCHA solo en el flujo de login del admin.</div>
+>ℹ️ Actualmente, usamos reCAPTCHA solo en el flujo de login del admin.
 
-<div class="alert alert-warning">Debido a este cambio, <a href="https://help.vtex.com/es/announcements/integrations-with-vtex-apis-now-need-token-authentication--7AdnXDH7AkYmuEUmmis8Es">ya no se permite el uso de e-mail y contraseña para las integraciones</a>.</div>
+>⚠️ Debido a este cambio, [ya no se permite el uso de e-mail y contraseña para las integraciones](https://help.vtex.com/es/announcements/integrations-with-vtex-apis-now-need-token-authentication--7AdnXDH7AkYmuEUmmis8Es).

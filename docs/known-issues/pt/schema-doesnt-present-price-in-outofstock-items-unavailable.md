@@ -24,7 +24,7 @@ Produtos indisponíveis ( outOfstock ) não possuem a informação de preço no 
 
 - Pegue um item sem estoque que esteja sendo exibido no site como indisponível
 - Veja no Schema que ele estará impresso como  outOfstock e não exibe o preço.
-![schema  outOfstock ](//images.contentful.com/alneenqid6w5/6PgCuzUXXGo0iC6UeAMUA6/4390b013aaf5d3083ffef407180cd484/ItemTypes-duplicidade.png)
+![schema  outOfstock ](https://images.contentful.com/alneenqid6w5/6PgCuzUXXGo0iC6UeAMUA6/4390b013aaf5d3083ffef407180cd484/ItemTypes-duplicidade.png)
 
 
 

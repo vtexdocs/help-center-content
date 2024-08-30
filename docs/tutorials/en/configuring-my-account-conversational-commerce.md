@@ -1,10 +1,10 @@
 ---
 title: 'Configuring My Account (Conversational Commerce)'
 id: 42bnIdyC2c5dwz9KKT0UKc
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-03-07T19:10:12.107Z
-updatedAt: 2023-03-07T20:00:20.806Z
-publishedAt: 2023-03-07T20:00:20.806Z
+updatedAt: 2024-01-05T16:28:41.167Z
+publishedAt: 
 firstPublishedAt: 2023-03-07T19:58:45.529Z
 contentType: tutorial
 productTeam: Shopping

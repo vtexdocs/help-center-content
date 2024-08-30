@@ -21,20 +21,20 @@ Ela já está disponível no ambiente beta (`sualoja.vtexcommercebeta.com.br`) p
 
 Veja abaixo uma lista com as classes disponíveis para customização.
 
-<div class="alert alert-warning">
-Customizações de interface <strong>não são oficialmente suportadas pela VTEX</strong>.
-<br />
-<br /> 
-Estas classes e configurações podem ser alteradas ou removidas em futuras atualizações. Como boa prática, recomendamos tratar erros de javascript para que seu código de customização não quebre caso uma classe seja removida no futuro.
-</div>
+>⚠️ Customizações de interface **não são oficialmente suportadas pela VTEX**.
+>
+>
+> 
+>
+>
+>  
+> Estas classes e configurações podem ser alteradas ou removidas em futuras atualizações. Como boa prática, recomendamos tratar erros de javascript para que seu código de customização não quebre caso uma classe seja removida no futuro.
 
-<div class="alert alert-info">
-Caso você já possua um arquivo de customização para a antiga versão do My Orders, recomendamos que coloque a nova customização em um arquivo separado.
-</div>
+>ℹ️ Caso você já possua um arquivo de customização para a antiga versão do My Orders, recomendamos que coloque a nova customização em um arquivo separado.
 
 ### Lista de pedidos
 
-![Página de lista de pedidos com classes para customização destacadas sobre ela](//images.contentful.com/alneenqid6w5/1P5JMzt3jGIAKIOmC4ka4e/d7511d7273f4a957acc6f7e1322a81e6/my-orders-doc-1.png) 
+![Página de lista de pedidos com classes para customização destacadas sobre ela](https://images.contentful.com/alneenqid6w5/1P5JMzt3jGIAKIOmC4ka4e/d7511d7273f4a957acc6f7e1322a81e6/my-orders-doc-1.png) 
 
 CSS:
 ```
@@ -49,7 +49,7 @@ CSS:
 
 ### Detalhe do pedido
 
-![Página de detalhe do pedido com classes para customização destacadas sobre ela](//images.contentful.com/alneenqid6w5/5szHUT7x9CAOseYGkcEskS/e8a846072846d20648c65a1cd00059c4/my-orders-doc-2.png)
+![Página de detalhe do pedido com classes para customização destacadas sobre ela](https://images.contentful.com/alneenqid6w5/5szHUT7x9CAOseYGkcEskS/e8a846072846d20648c65a1cd00059c4/my-orders-doc-2.png)
 
 CSS:
 ```
@@ -59,7 +59,7 @@ CSS:
 
 ### Cancelamento de pedido
 
-![Página de cancelamento do pedido com classes para customização destacadas sobre ela](//images.contentful.com/alneenqid6w5/5mUVzR5n7aMScoSs4auem4/05bfeea119bb4fc42afe448c66c9674f/my-orders-doc-3.png)
+![Página de cancelamento do pedido com classes para customização destacadas sobre ela](https://images.contentful.com/alneenqid6w5/5mUVzR5n7aMScoSs4auem4/05bfeea119bb4fc42afe448c66c9674f/my-orders-doc-3.png)
 
 CSS:
 ```

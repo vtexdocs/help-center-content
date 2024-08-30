@@ -17,7 +17,7 @@ subcategory: 14V5ezEX0cewOMg0o0cYM6
 
 Na página Autenticação, é possível escolher quais formas de login você deseja oferecer aos compradores e operadores da sua loja VTEX. Esta página está disponível em _Configurações da conta_ > _Autenticação_.
 
-![Página de autenticação](//images.contentful.com/alneenqid6w5/6cbXmuu9GiTfuYnIsuFKQp/986b144c0704f780d774f8f3790ba8e6/Tela_de_Autentica____o_PT.png)
+![Página de autenticação](https://images.contentful.com/alneenqid6w5/6cbXmuu9GiTfuYnIsuFKQp/986b144c0704f780d774f8f3790ba8e6/Tela_de_Autentica____o_PT.png)
 
 ## Formas de login
 
@@ -35,9 +35,7 @@ Atualmente, há quatro formas disponíveis de fazer login:
 | Facebook         | Pode ser habilitada | Não está disponível    |
 | Google           | Pode ser habilitada | É selecionável         |
 
-<div class="alert alert-info">
-Pelo menos uma das quatro formas de login deve estar habilitada para a loja virtual
-</div>
+>ℹ️ Pelo menos uma das quatro formas de login deve estar habilitada para a loja virtual
 
 ## Loja virtual
 

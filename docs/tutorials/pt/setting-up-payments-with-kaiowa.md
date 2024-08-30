@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Kaiowa'
 id: 1QfsSpAF0CHQFVd9qSGcA5
 status: PUBLISHED
 createdAt: 2023-04-06T18:20:04.972Z
-updatedAt: 2023-04-06T18:26:07.966Z
-publishedAt: 2023-04-06T18:26:07.966Z
+updatedAt: 2024-01-23T17:58:45.045Z
+publishedAt: 2024-01-23T17:58:45.045Z
 firstPublishedAt: 2023-04-06T18:26:07.966Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-kaiowa
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Kaiowa. Por meio deste conector, sua loja pode realizar vendas pela Kaiowa.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Kaiowa. Por meio deste provedor, sua loja pode realizar vendas pela Kaiowa.
 
-Para configurar a afiliação Kaiowa, siga os passos abaixo:
+Para configurar Kaiowa, siga os passos abaixo:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __Kaiowa__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Kaiowa__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta Kaiowa.
 5. Caso seja exibida uma mensagem de alerta indicando a necessidade de instalação do app, clique no botão `Instalar app` e siga as instruções de instalação.
 6. Clique em `Salvar`.

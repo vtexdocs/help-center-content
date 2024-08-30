@@ -3,8 +3,8 @@ title: 'Pagination links on Search Results not working on Giftlist Pages'
 id: 1w6h5MwZthKMM8rvqXZtQi
 status: PUBLISHED
 createdAt: 2022-11-02T14:01:35.650Z
-updatedAt: 2022-11-25T21:41:59.731Z
-publishedAt: 2022-11-25T21:41:59.731Z
+updatedAt: 2024-02-16T20:26:50.585Z
+publishedAt: 2024-02-16T20:26:50.585Z
 firstPublishedAt: 2022-11-02T14:01:36.502Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: pagination-links-on-search-results-not-working-on-giftlist-pages
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 481330
 ---
 

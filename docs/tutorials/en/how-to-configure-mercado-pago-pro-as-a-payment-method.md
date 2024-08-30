@@ -45,7 +45,5 @@ On the right side of the screen, you can configure [special payment conditions](
 
 However, this step is optional. You can click directly on the __blue button “Save”__ to finish the payment method configuration.
 
-<div class="alert alert-warning">
-Remember that new payment conditions can take up to 10 minutes to be displayed in  SmartCheckout.
-</div>
+>⚠️ Remember that new payment conditions can take up to 10 minutes to be displayed in  SmartCheckout.
 

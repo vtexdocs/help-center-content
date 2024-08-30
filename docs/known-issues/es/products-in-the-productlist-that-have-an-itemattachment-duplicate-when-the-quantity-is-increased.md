@@ -1,5 +1,5 @@
 ---
-title: 'Los productos de la "lista de productos" que tienen un "itemAttachment" se duplican cuando se aumenta la cantidad'
+title: "Los productos de la 'lista de productos' que tienen un 'itemAttachment' se duplican cuando se aumenta la cantidad"
 id: 4QybxJRoj7wLNvN7NG2FLA
 status: PUBLISHED
 createdAt: 2022-01-24T21:19:51.135Z
@@ -18,9 +18,7 @@ internalReference: 337069
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si una tienda utiliza el componente de lista de productos de Store Framework, utilizado en el minicart, los artículos del carrito pueden duplicarse al aumentar la cantidad de un artículo que tiene un adjunto (itemAttachment).

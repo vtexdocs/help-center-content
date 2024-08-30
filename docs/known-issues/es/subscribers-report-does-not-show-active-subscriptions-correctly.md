@@ -3,8 +3,8 @@ title: 'El informe de suscriptores no muestra correctamente las suscripciones ac
 id: 4sqvm1v4CbCJLQ3HBBVTmp
 status: PUBLISHED
 createdAt: 2022-05-27T19:44:57.301Z
-updatedAt: 2022-11-25T22:02:30.682Z
-publishedAt: 2022-11-25T22:02:30.682Z
+updatedAt: 2024-07-01T18:48:23.947Z
+publishedAt: 2024-07-01T18:48:23.947Z
 firstPublishedAt: 2022-05-27T19:44:57.688Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-informe-de-suscriptores-no-muestra-correctamente-las-suscripciones-activas
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 587556
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando exportamos el informe de suscriptores, la información de las columnas `TotalSubscriptions` y `TotalSubscriptionsActives` son divergentes en comparación con la información mostrada en el tablero.

@@ -15,6 +15,4 @@ legacySlug: guia-de-integracion-para-marketplaces-marketplace-non-vtex-old
 subcategory: 
 ---
 
-<div class="alert alert-info">     
-  Contenido en construcción
-</div>
+>ℹ️ Contenido en construcción

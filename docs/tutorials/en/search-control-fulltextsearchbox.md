@@ -15,13 +15,11 @@ legacySlug: search-control-fulltextsearchbox
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-warning">
-  <strong>Warning</strong>: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
-</div>
+>⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
 
 The `<vtex.cmc:fullTextSearchBox />` control is responsible for generating the search box. Besides the search filed, the control renders a combo for restricting a search in one department. Below we have an example of the control with no application of css:
 
-![](//images.contentful.com/alneenqid6w5/4tvtNt1u0Mw8sgmwyAaOuW/2375499b868cfe4c24b3425fa0f33a8c/controle-busca-cru.png)
+![](https://images.contentful.com/alneenqid6w5/4tvtNt1u0Mw8sgmwyAaOuW/2375499b868cfe4c24b3425fa0f33a8c/controle-busca-cru.png)
 
 Search is a functionality that must be available on all the pages of a store. That is why it is suggested inserting the control inside a [subtemplate](/hc/pt-br/articles/204868718 "subtemplate"). The search control is used within the sub-template of the store header.
 
@@ -75,9 +73,9 @@ The autocomplete functionality is already provided for in this control, and it i
 
 Examples of how the control can be customized:
 
-![](//images.contentful.com/alneenqid6w5/BMzmz8NA0o4SQqUO8ow4Y/5c6d179a8fca8a3efaf981c05203c061/controle-busca-autocomplete-560x318.png)
+![](https://images.contentful.com/alneenqid6w5/BMzmz8NA0o4SQqUO8ow4Y/5c6d179a8fca8a3efaf981c05203c061/controle-busca-autocomplete-560x318.png)
 
-![](//images.contentful.com/alneenqid6w5/5TiDgTywScWuAcC24wmeIu/58acad8f8151f8803251679453627968/controle-busca-exemplo-560x43.png)
+![](https://images.contentful.com/alneenqid6w5/5TiDgTywScWuAcC24wmeIu/58acad8f8151f8803251679453627968/controle-busca-exemplo-560x43.png)
 
-![](//images.contentful.com/alneenqid6w5/2X2lkCGHdSIaok08yYKCYO/6bef8f3e0c0b11313479226c0174e093/controle-busca-exemplo1.png)
+![](https://images.contentful.com/alneenqid6w5/2X2lkCGHdSIaok08yYKCYO/6bef8f3e0c0b11313479226c0174e093/controle-busca-exemplo1.png)
 

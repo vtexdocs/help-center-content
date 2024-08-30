@@ -3,8 +3,8 @@ title: 'Send the item price, with tax shown separately, to the Gateway or the ER
 id: 77O1rBSLHqW8eWWsE6IEii
 status: PUBLISHED
 createdAt: 2017-08-14T15:30:39.027Z
-updatedAt: 2019-12-31T15:21:46.929Z
-publishedAt: 2019-12-31T15:21:46.929Z
+updatedAt: 2024-04-17T14:38:57.929Z
+publishedAt: 2024-04-17T14:38:57.929Z
 firstPublishedAt: 2017-08-16T17:43:33.301Z
 contentType: tutorial
 productTeam: Others
@@ -34,7 +34,7 @@ To show the price including charges in the store window, use the attribute `$pro
 
 Then to create a JS and add the amount of tax in the store window, you can also use the control `$product.Tax` (It shows the charges registered for the product).
 
-[See documentation on controls here](/en/tutorial/shelf-template-controls)
+[See documentation on controls here](https://developers.vtex.com/docs/guides/shelf-template-controls)
 
 __Attention__: On the product page you have to enter a JavaScript to add the values.
 

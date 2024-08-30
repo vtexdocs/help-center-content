@@ -1,10 +1,10 @@
 ---
 title: 'Página de detalhes da localidade (Beta)'
 id: 3se4QBRYsNCwC8Wo56J6zG
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-05-09T16:24:38.315Z
-updatedAt: 2023-05-10T00:53:18.368Z
-publishedAt: 2023-05-10T00:53:18.368Z
+updatedAt: 2023-11-10T14:44:21.843Z
+publishedAt: 
 firstPublishedAt: 2023-05-09T20:47:55.824Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,9 +15,7 @@ legacySlug: pagina-de-detalhes-da-localidade
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
 
 No [módulo Localidades](https://help.vtex.com/pt/tutorial/modulo-localidades--2thSYLMAS8KAd8V4XuBLSy) do seu Admin VTEX, em **Envio > Localidades**, ao clicar sobre uma localidade você é direcionado para sua página de detalhes, como a imagem a seguir:
 
@@ -39,9 +37,7 @@ Você acompanha em tempo real quanto da capacidade de cada dia foi utilizada e p
 
 Também é possível [aumentar a capacidade operacional](#aumentar-capacidade-operacional) da localidade pela página de detalhes.
 
-<div class = "alert alert-info">
-Para ver todas as ações que você pode realizar com localidades, veja o artigo <a href="https://help.vtex.com/pt/tutorial/modulo-localidades--2thSYLMAS8KAd8V4XuBLSy">Módulo Localidades</a>.
-</div>
+>ℹ️ Para ver todas as ações que você pode realizar com localidades, veja o artigo [Módulo Localidades](https://help.vtex.com/pt/tutorial/modulo-localidades--2thSYLMAS8KAd8V4XuBLSy).
 
 ## Ver histórico
 

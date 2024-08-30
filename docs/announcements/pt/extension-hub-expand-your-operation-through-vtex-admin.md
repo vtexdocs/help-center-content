@@ -3,8 +3,8 @@ title: 'Hub de Extensões: Estenda a sua operação pelo Admin VTEX'
 id: 4FYJCHTttMa0znV1mdHW9w
 status: PUBLISHED
 createdAt: 2023-05-31T22:15:06.695Z
-updatedAt: 2023-06-04T22:02:53.542Z
-publishedAt: 2023-06-04T22:02:53.542Z
+updatedAt: 2023-08-02T14:37:08.083Z
+publishedAt: 2023-08-02T14:37:08.083Z
 contentType: updates
 productTeam: Apps
 author: 4ubliktPJIsvyl1hq91RdK
@@ -31,9 +31,7 @@ Com o Hub de Extensões, toda a experiência de navegação e compra de apps aco
 
 Os preços na **App Store** aparecem em reais (BRL) para lojas no Brasil e em dólares (USD) para lojas em outros países. Os pagamentos pela aquisição, assinatura e utilização de apps são processados automaticamente e os valores correspondentes são adicionados à sua [fatura VTEX](https://help.vtex.com/pt/tutorial/visao-geral-faturas--6UxfCl4fw4GmyQwoUuIcQs) na sua moeda local, eliminando a necessidade de pagamento por cartão de crédito. Caso a sua operação não esteja localizada no Brasil e a sua fatura esteja em uma moeda diferente de USD, faremos a conversão do valor em USD para a sua moeda local.
 
-<div class = "alert alert-info">
-O <a href="http://apps.vtex.com/">site da App Store</a> continuará existindo apenas para visualização de apps de forma pública. Não será mais possível fazer a compra de apps pelo site. As compras podem ser feitas apenas no Admin VTEX.
-</div>
+>ℹ️ O [site da App Store](http://apps.vtex.com/) continuará existindo apenas para visualização de apps de forma pública. Não será mais possível fazer a compra de apps pelo site. As compras podem ser feitas apenas no Admin VTEX.
 
 ### Parceiros
 
@@ -60,3 +58,5 @@ Além disso, renovamos a experiência de compra de apps na **App Store**. Com po
 Por fim, nosso objetivo é estreitar o relacionamento entre os lojistas e parceiros VTEX. Assim, lojistas que desejam implementar soluções únicas para suas lojas, agora podem encontrar e contatar diretamente parceiros e desenvolvedores pelo **Parceiros** no Admin VTEX.
 
 Para mais informações, veja a nossa [documentação do Extensions Hub](https://help.vtex.com/pt/tracks/hub-de-extensoes--AW7klkYMh557y5IUOgzco).
+
+_\*Edição em 02/08/2023: A página **Parceiros** será disponibilizada futuramente. Ainda não há uma previsão de quando esta página estará disponível._

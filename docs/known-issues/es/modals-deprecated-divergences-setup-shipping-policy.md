@@ -3,8 +3,8 @@ title: 'Configuración de las divergencias de los modales obsoletos - Política 
 id: TYWgIv5xOTUBWdC63FbK5
 status: PUBLISHED
 createdAt: 2022-05-18T18:20:55.870Z
-updatedAt: 2022-11-25T21:59:19.021Z
-publishedAt: 2022-11-25T21:59:19.021Z
+updatedAt: 2024-02-16T20:27:05.367Z
+publishedAt: 2024-02-16T20:27:05.367Z
 firstPublishedAt: 2022-05-18T18:20:56.247Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: configuracion-de-las-divergencias-de-los-modales-obsoletos-politica-de-envios
 locale: es
-kiStatus: Scheduled
+kiStatus: No Fix
 internalReference: 445866
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Hay un escenario con respecto a los modales usados y obsoletos que no coinciden.

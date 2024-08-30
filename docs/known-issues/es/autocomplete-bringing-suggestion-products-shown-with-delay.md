@@ -3,8 +3,8 @@ title: 'Autocompletar trayendo productos de sugerencia mostrados con retraso'
 id: 26ydVkjgikjeBq8Jxuh0Vr
 status: PUBLISHED
 createdAt: 2022-07-12T12:21:25.537Z
-updatedAt: 2023-02-08T13:50:52.209Z
-publishedAt: 2023-02-08T13:50:52.209Z
+updatedAt: 2024-07-01T18:48:28.298Z
+publishedAt: 2024-07-01T18:48:28.298Z
 firstPublishedAt: 2022-07-12T12:21:26.029Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: autocompletar-trayendo-productos-de-sugerencia-mostrados-con-retraso
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 615616
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

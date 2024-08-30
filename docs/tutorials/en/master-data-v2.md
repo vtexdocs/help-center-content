@@ -15,8 +15,7 @@ legacySlug: master-data-v2
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---
 
-<div class="alert alert-warning">
-<strong>Attention:</strong> This version isn't compliant with data entities of old version. It's possible to use this configuration only to new data entities.</div>
+>⚠️ **Attention:** This version isn't compliant with data entities of old version. It's possible to use this configuration only to new data entities.
 
 ## Introduction
 
@@ -25,10 +24,10 @@ This document will guide you to save, validate and get documents at VTEX Master 
 It's not necessary to create a JSON Schema to save documents. You can save to any data entity if the content is a valid JSON.
 
 The JSON Schema indicates how to validate and index. A data entity may or may not have multiple JSON Schemas.
-![master-data-data-entity-schemas](//images.contentful.com/alneenqid6w5/5Ms8eS24xOsGWcEGY0WKwu/724d0585090ee2d3bf6fc47dad7a3859/master-data-data-entity-schemas.jpg)
+![master-data-data-entity-schemas](https://images.contentful.com/alneenqid6w5/5Ms8eS24xOsGWcEGY0WKwu/724d0585090ee2d3bf6fc47dad7a3859/master-data-data-entity-schemas.jpg)
 
 A document could be compliant with none or multiple schemas.
-![master-data-documents-compliant](//images.contentful.com/alneenqid6w5/7m7NMV5Hc4Wq8aKeGeWiAY/29301b6873e1549c244d56e15cf4caf7/master-data-documents-compliant.jpg)
+![master-data-documents-compliant](https://images.contentful.com/alneenqid6w5/7m7NMV5Hc4Wq8aKeGeWiAY/29301b6873e1549c244d56e15cf4caf7/master-data-documents-compliant.jpg)
 
 This means that JSON Schema is a format of documents in data entities.
 

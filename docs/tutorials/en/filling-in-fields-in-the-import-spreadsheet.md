@@ -17,15 +17,16 @@ subcategory: 2u48reCb68K48EAcm86ccM
 
 On the VTEX platform, you can [import products and SKUs in bulk using a spreadsheet](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#planilha). To better understand the meaning of each field in the spreadsheet, see the complete description of the Product and SKU related fields in Excel.
 
-<div class="alert alert-danger">
-  <p>When filling in <b>CaptionLink</b>, <b>DepartmentName</b>, <b>CategoryName</b> and <b>Brand</b>, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
-  <ul>
-<li><code>a</code></li>
-<li><code>meta</code></li>
-<li><code>api</code></li>
-<li><code>admin</code></li>
-</ul></p>
-</div>
+>❗ When filling in **CaptionLink**, **DepartmentName**, **CategoryName** and **Brand**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
+>
+> *`a`
+>
+> *`meta`
+>
+> *`api`
+>
+> *`admin`
+> 
 
 **SkuId:** the unique identifier number of the SKU. If this field is already filled in, you cannot change it. To add a new SKU, leave the column empty.
 

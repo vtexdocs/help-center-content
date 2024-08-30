@@ -3,8 +3,8 @@ title: '[Magalu] Sku que se integra con las especificaciones de otro marketplace
 id: 4AYsfMTB2HVmp2PnOG2plY
 status: PUBLISHED
 createdAt: 2022-10-31T19:29:16.911Z
-updatedAt: 2022-12-02T18:30:12.315Z
-publishedAt: 2022-12-02T18:30:12.315Z
+updatedAt: 2024-03-19T20:33:58.929Z
+publishedAt: 2024-03-19T20:33:58.929Z
 firstPublishedAt: 2022-10-31T19:29:18.080Z
 contentType: knownIssue
 productTeam: Connections
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: magalu-sku-que-se-integra-con-las-especificaciones-de-otro-marketplace
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 689151
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunos skus se están integrando con especificaciones de otro Marketplace.

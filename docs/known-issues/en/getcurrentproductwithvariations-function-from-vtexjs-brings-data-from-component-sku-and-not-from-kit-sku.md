@@ -3,8 +3,8 @@ title: 'getCurrentProductWithVariations function from VTEX.js brings data from C
 id: 1m1bMbNXZVpQo9bQG1iSjn
 status: PUBLISHED
 createdAt: 2022-03-16T16:35:51.214Z
-updatedAt: 2022-11-25T22:10:09.849Z
-publishedAt: 2022-11-25T22:10:09.849Z
+updatedAt: 2024-02-16T20:24:03.691Z
+publishedAt: 2024-02-16T20:24:03.691Z
 firstPublishedAt: 2022-03-16T16:35:51.652Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: getcurrentproductwithvariations-function-from-vtexjs-brings-data-from-component-sku-and-not-from-kit-sku
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 324416
 ---
 

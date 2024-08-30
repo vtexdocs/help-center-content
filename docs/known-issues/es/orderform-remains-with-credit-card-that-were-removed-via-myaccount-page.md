@@ -18,9 +18,7 @@ internalReference: 276823
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La eliminación de una tarjeta de crédito a través de la página de mi cuenta no actualiza el orderForm, que mantendría una tarjeta de crédito que ya no existe.

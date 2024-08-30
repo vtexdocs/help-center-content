@@ -21,15 +21,15 @@ Para criar uma consulta, é necessário que [seja realizado um filtro na listage
 
 Após filtrar, _clique no botão **Salvar Consulta** -> dê um nome para a consulta -> clique no botão **Salvar**_.
 
-![image00(3)](//images.contentful.com/alneenqid6w5/Cj2YVA2pZ64Sscy0O2MA0/6698a619ebf6041e828b61ef657ceb89/image003.png)
+![image00(3)](https://images.contentful.com/alneenqid6w5/Cj2YVA2pZ64Sscy0O2MA0/6698a619ebf6041e828b61ef657ceb89/image003.png)
 
 Então, para que a consulta apareça como uma opção de visualização na listagem, basta recarregar a aplicação, na aba **Aplicações**. Clicando no botão **Recarregar aplicações**.
 
-![image02(2)](//images.contentful.com/alneenqid6w5/23qCsgXVSYQYmsS6Ya6eAs/99c65c0009dd7f9e75c1ba4a2cea50cc/image022.png)
+![image02(2)](https://images.contentful.com/alneenqid6w5/23qCsgXVSYQYmsS6Ya6eAs/99c65c0009dd7f9e75c1ba4a2cea50cc/image022.png)
 
 Além disso, é possível ver todas as consultas salvas clicando sobre o botão **Consultas**, na listagem do formulário.
 
-![consulta3](//images.contentful.com/alneenqid6w5/4h0zjZuAc8W8eUaqImo2qg/b1c06c13603d398d1f83bef9f7deb19b/image012.png)
+![consulta3](https://images.contentful.com/alneenqid6w5/4h0zjZuAc8W8eUaqImo2qg/b1c06c13603d398d1f83bef9f7deb19b/image012.png)
 
 Também é interessante configurar um formulário para que ele sempre traga a listagem com o filtro da consulta. Para isso, siga o passo a passo:
 
@@ -40,4 +40,4 @@ Também é interessante configurar um formulário para que ele sempre traga a l
 5. Na opção **Consulta Padrão**, selecione a consulta personalizada que deseja exibir sempre que clicar no formulário.
 6. Clique no botão **Salvar**.
 
-![consulta5](//images.contentful.com/alneenqid6w5/66y0WU112osUwkwuyMquMW/a9143a8ca1aa05bc49cc69d1dd102002/image032.png)
+![consulta5](https://images.contentful.com/alneenqid6w5/66y0WU112osUwkwuyMquMW/a9143a8ca1aa05bc49cc69d1dd102002/image032.png)

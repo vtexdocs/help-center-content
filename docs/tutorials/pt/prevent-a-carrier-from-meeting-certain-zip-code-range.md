@@ -3,8 +3,8 @@ title: 'Como impedir que uma transportadora atenda determinada faixa de CEP?'
 id: 6GEYG5p9E4MOEy2qmY4uGa
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:39.807Z
-updatedAt: 2023-03-29T14:15:58.885Z
-publishedAt: 2023-03-29T14:15:58.885Z
+updatedAt: 2024-03-01T01:07:45.930Z
+publishedAt: 2024-03-01T01:07:45.930Z
 firstPublishedAt: 2019-01-24T22:03:33.994Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -33,3 +33,5 @@ Para isso, siga estes passos:
 4. Cada uma dessas linhas deve ser transformada em duas, de modo que o CEP 45920-000 seja ignorado. Portanto, você passaria a ter: `ZipCodeStart` = __37900-001__ e `ZipCodeEnd` = __45919-999__ / `ZipCodeStart` = __45920-001__ e `ZipCodeEnd` = __97904-999__.  
 
 Com isso, a planilha passaria a "pular" o CEP 45920-000. E consequentemente ele deixaria de ser considerado como opção de endereço atendido por essa transportadora.
+
+>ℹ️ Os exemplos de código postal deste artigo são referentes ao Brasil, cada país tem o seu próprio formato de código postal.

@@ -3,8 +3,8 @@ title: 'Filtro da categoria UI Legacy Collection selecionando produtos erroneame
 id: 1IlioZpOSQf5t4TWqZreiS
 status: PUBLISHED
 createdAt: 2022-10-31T20:42:26.100Z
-updatedAt: 2022-12-20T16:37:12.340Z
-publishedAt: 2022-12-20T16:37:12.340Z
+updatedAt: 2024-02-16T20:28:22.357Z
+publishedAt: 2024-02-16T20:28:22.357Z
 firstPublishedAt: 2022-10-31T20:42:26.591Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: filtro-da-categoria-ui-legacy-collection-selecionando-produtos-erroneamente-para-a-colecao
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 590934
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Eventualmente, dependendo do número de produtos que temos dentro de uma categoria, se selecionarmos os filtros da categoria na IU de coleção legada, ela poderá devolver produtos que não pertencem a estas categorias.

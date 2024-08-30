@@ -3,8 +3,8 @@ title: 'Locale Switcher no funciona en el entorno myvtex'
 id: 1ZB56egPjPbTaUUnws5juK
 status: PUBLISHED
 createdAt: 2023-03-27T12:26:31.974Z
-updatedAt: 2023-03-27T14:55:12.486Z
-publishedAt: 2023-03-27T14:55:12.486Z
+updatedAt: 2024-02-02T21:03:39.535Z
+publishedAt: 2024-02-02T21:03:39.535Z
 firstPublishedAt: 2023-03-27T12:26:32.649Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -18,9 +18,7 @@ internalReference: 778306
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Locale Switcher no funciona en el entorno myvtex sin configurar explícitamente el espacio de trabajo/entorno, pero no hay impacto en el sitio web. Este comportamiento afecta a la navegación sólo en myvtex y gestión de contenidos para diferentes idiomas.

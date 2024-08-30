@@ -3,8 +3,8 @@ title: 'What is Deposit Slip'
 id: 5zcak00O9G2KqoysQggus6
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:35.451Z
-updatedAt: 2019-12-31T15:25:20.325Z
-publishedAt: 2019-12-31T15:25:20.325Z
+updatedAt: 2024-03-18T13:03:11.449Z
+publishedAt: 2024-03-18T13:03:11.449Z
 firstPublishedAt: 2019-01-24T22:10:45.867Z
 contentType: tutorial
 productTeam: Financial
@@ -23,6 +23,13 @@ To pay with Deposit Slip, the user must choose this payment condition at the che
 To make the purchase effective, the user must go to one of the accredited places and pay the value of the document. This payment can be made in cash or with credit cards.
 
 ## How to accept deposit slips in your store
-Your VTEX store can accept payments with Deposit Slip, as long as it operates in Mexico and is registered in Citibanamex. This Mexican bank has integration with our platform and can be configured in your store.
 
-To learn how to configure the Banamex connector (responsible for communicating with Citibanamex), visit [this Help article](/en/tutorial/setting-up-banamex-gateway).
+To check the providers that carry out transactions with Ficha Depósito and configure them in your store, follow the steps below:
+
+1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
+2. On the __Payment Conditions__ tab, click the `+` button.
+3. Click __FichaDeposito__.
+4. Activate the condition in the __Status__ field.
+5. Select the available provider options and make the necessary settings for each of them.
+6. Click `Save`.
+

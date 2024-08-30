@@ -3,8 +3,8 @@ title: 'Registrar especificaciones o campos de SKU'
 id: tutorials_119
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:08.662Z
-updatedAt: 2023-03-29T17:31:34.699Z
-publishedAt: 2023-03-29T17:31:34.699Z
+updatedAt: 2023-11-30T12:05:25.945Z
+publishedAt: 2023-11-30T12:05:25.945Z
 firstPublishedAt: 2017-04-27T23:00:44.181Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: criando-campo-de-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-La especificación de SKU es un campo en el registro del SKU en el cual se ingresan las características específicas para cada variación de un producto.
+La especificación de SKU es un campo obligatorio en el registro del SKU en el cual se ingresan las características específicas para cada variación de un producto.
 
 En VTEX, una especificación siempre forma parte de un [grupo de especificaciones](https://help.vtex.com/es/tutorial/criando-grupo-de-categoria--tutorials_246) que está asociado a una [categoría](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Es precisamente por esto que, para crear una especificación (campo) del SKU, debe existir, al menos, el registro de una categoría y de un grupo de especificaciones.
 
@@ -33,9 +33,7 @@ En este artículo, explicamos cómo funciona la herencia de especificaciones que
         * [Registro del SKU](#registro-del-sku)
         * [Plantilla](#plantilla)
 
-<div class = "alert alert-info">
-  <p>Para crear una especificación de SKU con la <strong>API Catálogo</strong>, sigue la guía para desarrolladores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a> (Cómo crear una especificación).</p>
-</div>
+>ℹ️ Para crear una especificación de SKU con la **API Catálogo**, sigue la guía para desarrolladores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification) (Cómo crear una especificación).
 
 ## Herencia de especificaciones de SKU
 
@@ -55,9 +53,7 @@ En las secciones a continuación, podrás ver el paso a paso completo.
 
 ### Crear un campo de SKU
 
-<div class = "alert alert-warning">
-  <p>Una vez creados, los campos del SKU no pueden borrarse. Si se inactiva un campo, todos los SKU que están en la categoría quedarán inactivos hasta que el campo vuelva a reactivarse. Una de las causas por las que el SKU no aparece en el sitio web puede ser que no se haya rellenado una especificación en el registro, ya que esto deja al SKU inactivo.</p>
-</div>
+>⚠️ Una vez creados, los campos del SKU no pueden borrarse. Si se inactiva un campo, todos los SKU que están en la categoría quedarán inactivos hasta que el campo vuelva a reactivarse. Una de las causas por las que el SKU no aparece en el sitio web puede ser que no se haya rellenado una especificación en el registro, ya que esto deja al SKU inactivo.
 
 Para crear un campo del SKU, sigue las instrucciones a continuación:
 
@@ -65,9 +61,7 @@ Para crear un campo del SKU, sigue las instrucciones a continuación:
 2. Haz clic en **Categorías**.
 3. Haz clic en la categoría asociada al grupo de especificaciones en el que deseas crear un campo del SKU.
 
-  <div class = "alert alert-warning">
-    <p>Verás que, al crear un campo en un nivel de categoría superior, la especificación aparecerá en todos los niveles de categoría inferiores.</p>
-  </div>
+  >⚠️ Verás que, al crear un campo en un nivel de categoría superior, la especificación aparecerá en todos los niveles de categoría inferiores.
 
 3. Haz clic en `Acciones` <i class="fas fa-angle-down"></i>.
 4. Haz clic en `Campo (SKU)`.
@@ -138,9 +132,7 @@ Los **valores** de los campos del SKU variarán según el tipo de campo elegido:
 
 ![sku-spec-2](https://images.ctfassets.net/alneenqid6w5/5MwO6aTSuIzCbxlrnzjTHQ/157aeb729b88c61a3341697b60008c7c/es-sku-spec-2.gif)
 
-<div class = "alert alert-info">
-  <p>Si estás registrando los primeros valores de un campo, deberás regresar al formulario de ese campo específico y seleccionar la opción <strong>Activo</strong>.</p>
-</div>
+>ℹ️ Si estás registrando los primeros valores de un campo, deberás regresar al formulario de ese campo específico y seleccionar la opción **Activo**.
 
 #### Obtener o editar valores registrados
 

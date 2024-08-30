@@ -1,5 +1,5 @@
 ---
-title: '"ObterTotalDePontos" function does not work inside the Automatic Field'
+title: "'ObterTotalDePontos' function does not work inside the Automatic Field"
 id: 1iHy0tOPoUEIyGsYoq2Sqm
 status: PUBLISHED
 createdAt: 2018-12-10T18:08:19.476Z

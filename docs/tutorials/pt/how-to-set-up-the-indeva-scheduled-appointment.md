@@ -33,9 +33,7 @@ O fluxo de agendamento percorrido pelo cliente se inicia na escolha da loja fís
 
 ![indeva1](https://images.ctfassets.net/alneenqid6w5/3QXzMhoJN1qYZZ6c8mlfcB/4cf28e34420ac49bfcaa6f78a9b2951a/indeva1.png)
 
-<div class="alert alert-info">
-É possível também fornecer ao cliente um link que conduz diretamente ao formulário de uma loja física específica. Basta adicionar o ID da loja ao final da URL. Dessa forma, o vendedor pode compartilhar o link de sua loja – por exemplo, por meio de um QR Code ou nas mídias sociais.
-</div>
+>ℹ️ É possível também fornecer ao cliente um link que conduz diretamente ao formulário de uma loja física específica. Basta adicionar o ID da loja ao final da URL. Dessa forma, o vendedor pode compartilhar o link de sua loja – por exemplo, por meio de um QR Code ou nas mídias sociais.
 
 Ao clicar na loja desejada, o cliente é levado ao formulário. Ali, ele encontra informações sobre a loja (que devem ser definidas na etapa de implementação), além dos campos para inserir as informações sobre a visita:
 

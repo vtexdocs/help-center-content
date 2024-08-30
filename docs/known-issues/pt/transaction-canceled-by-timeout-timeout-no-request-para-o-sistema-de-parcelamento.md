@@ -1,5 +1,5 @@
 ---
-title: 'Transação cancelada por tempo limite: "Timeout sem pedido para o Sistema de Parcelamento".'
+title: "Transação cancelada por tempo limite: 'Timeout sem pedido para o Sistema de Parcelamento'."
 id: 68L2ka1QJ3yEHTsId1arF7
 status: PUBLISHED
 createdAt: 2022-03-02T12:15:17.495Z
@@ -18,9 +18,7 @@ internalReference: 533844
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

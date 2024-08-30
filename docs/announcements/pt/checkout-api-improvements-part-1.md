@@ -19,9 +19,7 @@ Nosso time de desenvolvimento está constantemente melhorando a performance das 
 
 Com a comunicação destas melhorias, queremos permitir que você já comece o processo de atualização das integrações e customizações da sua loja, pensando nas novas soluções oferecidas pelo nosso sistema.
 
-<div class="alert alert-warning">
-  O layout atual da API do Checkout continua funcionando normalmente. Ainda assim, é muito importante que a implementação das melhorias descritas abaixo seja feita desde já. Ainda não há previsão para o lançamento da nova major da API do Checkout. No entanto, nesta próxima versão, os pontos descontinuados que estão descritos abaixo não irão mais funcionar.
-</div>
+>⚠️ O layout atual da API do Checkout continua funcionando normalmente. Ainda assim, é muito importante que a implementação das melhorias descritas abaixo seja feita desde já. Ainda não há previsão para o lançamento da nova major da API do Checkout. No entanto, nesta próxima versão, os pontos descontinuados que estão descritos abaixo não irão mais funcionar.
 
 ## Endereço no carrinho e no pedido
 

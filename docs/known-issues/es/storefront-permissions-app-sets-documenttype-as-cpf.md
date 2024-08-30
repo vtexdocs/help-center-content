@@ -1,5 +1,5 @@
 ---
-title: 'La aplicación Storefront permissions establece "documentType" como "cpf"'
+title: "La aplicación Storefront permissions establece 'documentType' como 'cpf'"
 id: 1vd0gFWrP50UZacQ0QBKP8
 status: PUBLISHED
 createdAt: 2023-04-27T15:19:53.064Z
@@ -18,9 +18,7 @@ internalReference: 798330
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La aplicación de permisos de la tienda siempre establece el campo "clientProfileData.documentType" como "cpf" en el orderForm. Esto puede causar que la transacción sea denegada por el proveedor.

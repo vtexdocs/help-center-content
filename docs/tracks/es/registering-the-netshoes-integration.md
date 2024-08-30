@@ -3,8 +3,8 @@ title: 'Registro de la integración de Netshoes'
 id: 7o8Vt25LJmAUuMmSWSmWes
 status: PUBLISHED
 createdAt: 2018-09-24T20:27:48.984Z
-updatedAt: 2023-01-05T20:12:16.965Z
-publishedAt: 2023-01-05T20:12:16.965Z
+updatedAt: 2024-07-02T19:19:00.338Z
+publishedAt: 2024-07-02T19:19:00.338Z
 firstPublishedAt: 2018-09-27T15:02:23.717Z
 contentType: trackArticle
 productTeam: Channels

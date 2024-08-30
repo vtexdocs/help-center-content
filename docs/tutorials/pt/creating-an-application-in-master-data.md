@@ -3,44 +3,46 @@ title: 'Criar aplicação no Master Data'
 id: tutorials_1115
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:27.067Z
-updatedAt: 2023-03-28T23:26:06.249Z
-publishedAt: 2023-03-28T23:26:06.249Z
+updatedAt: 2024-06-25T20:45:29.002Z
+publishedAt: 2024-06-25T20:45:29.002Z
 firstPublishedAt: 2017-04-27T23:03:43.159Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_3
-slug: criando-aplicacao-no-master-data
+slug: criar-aplicacao-no-master-data
 locale: pt
 legacySlug: criando-aplicacao-no-master-data
 subcategory: 2AThnkEZAYbk4G4EIs53rL
 ---
 
-Aplicação é um agrupador de formulários. Ela tem a função de organizar, dividir e estabelecer acessos refinados por área. Ou seja, é criada uma aplicação e são criados formulários dentro desta aplicação, assim, facilitando a organização dos dados conforme necessidade. Exemplo: Aplicação Atendimento, formulários Cliente e Ticket.
+Uma aplicação é um agrupador de formulários que organiza, divide e estabelece acessos refinados por área no Master Data. Ao criar uma aplicação, você pode incluir vários formulários dentro dela, facilitando a organização dos dados conforme necessário. Por exemplo: na Aplicação "Atendimento", você pode ter os formulários "Cliente" e "Ticket".
 
-## Como criar a aplicação
+## Criar aplicação
 
-1. En el Admin VTEX, accede **Configuración de la tienda** > **Storefront** > **Master Data**.
-2. Clique na aba **Aplicações**.
-3. Clique no botão **Criar Aplicação**.
-4. Preencha o nome da **Aplicação**.
-5. Preencha o campo **Criar Cópia De** caso queira copiar os formulários de outra aplicação.
-6. Clique no botão **Salvar**.
-7. Ao carregar a página de aplicações, clique no botão **Recarregar Aplicações**.
+Siga as instruções abaixo para criar uma nova aplicação:
 
-<video class="wp-video-shortcode" id="video-1115-2" width="840" height="411" preload="metadata" controls="controls"><source type="video/mp4" src="//assets.contentful.com/alneenqid6w5/7Ibn7u8xVYAUigYkaIQQYI/aa2ca7d7ad7abdc8e30b7f2a7f855da7/CriandoAplicacao.mp4?_=2" />[//assets.contentful.com/alneenqid6w5/7Ibn7u8xVYAUigYkaIQQYI/aa2ca7d7ad7abdc8e30b7f2a7f855da7/CriandoAplicacao.mp4](//assets.contentful.com/alneenqid6w5/7Ibn7u8xVYAUigYkaIQQYI/aa2ca7d7ad7abdc8e30b7f2a7f855da7/CriandoAplicacao.mp4 "//assets.contentful.com/alneenqid6w5/7Ibn7u8xVYAUigYkaIQQYI/aa2ca7d7ad7abdc8e30b7f2a7f855da7/CriandoAplicacao.mp4")</video>
+1. No Admin VTEX, acesse **Configurações da loja** > **Storefront** > **Master Data**.
+2. Clique no botão `Criar aplicações`.
+4. Preencha o **Nome** da aplicação.
+5.Selecione uma opção no campo **Criar cópia de** caso deseje copiar os formulários de outra aplicação.
+6. Clique no botão `Salvar`.
 
-## Como editar a aplicação
+## Editar aplicação
 
-1. Acesse o módulo **Master Data**;
-2. Clique na aba **Aplicações**;
-3. Na Aplicação desejada, clique no ícone de engrenagem;
-4. Edite a aplicação;
-5. Clique em **Salvar**.
+Siga as instruções abaixo para alterar uma aplicação:
 
-## Como excluir a aplicação
+1. No Admin VTEX, acesse **Configurações da loja** > **Storefront** > **Master Data**.
+3. Na aplicação desejada, clique no ícone de engrenagem <i class="fas fa-cog"></i>.
+4. Edite a aplicação.
+5. Clique em `Salvar`.
 
-1. Acesse o módulo **Master Data**;
-2. Clique na aba **Aplicações**;
-3. Na Aplicação desejada, clique no ícone de engrenagem;
-4. Clique na opção **Aplicações**;
-5. Na Aplicação desejada, clique no botão **Excluir**, em vermelho.
+## Excluir aplicação
+
+Siga as instruções abaixo para deletar uma aplicação:
+
+1. No Admin VTEX, acesse **Configurações da loja** > **Storefront** > **Master Data**.
+2. Na aplicação desejada, clique no ícone de engrenagem <i class="fas fa-cog"></i>.
+4. Clique em **Aplicações**.
+5. Na linha da aplicação desejada, clique no botão de exclusão ⛔.
+6. Clique em `OK`.
+

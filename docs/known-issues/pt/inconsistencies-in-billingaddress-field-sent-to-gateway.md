@@ -18,9 +18,7 @@ internalReference: 291688
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O gateway usa o endereço errado em cenários de compra recorrentes quando já existe um cartão salvo no perfil do usuário.

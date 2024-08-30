@@ -1,10 +1,10 @@
 ---
 title: 'Abrir chamados para o suporte financeiro da VTEX'
 id: 1ad3TguXzCSKq4yuYSK80c
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-04-04T13:58:56.872Z
-updatedAt: 2020-11-27T19:40:27.285Z
-publishedAt: 2020-03-09T18:09:31.386Z
+updatedAt: 2024-07-29T22:02:21.897Z
+publishedAt: 2024-07-29T22:02:21.897Z
 firstPublishedAt: 2018-04-04T19:53:34.588Z
 contentType: tutorial
 productTeam: Billing
@@ -40,6 +40,7 @@ Para abrir um chamado, basta clicar no botão __Enviar uma solicitação__.
 Você será levado para o formulário de abertura de chamado, onde deve preencher:
 - Seu nome.
 - A conta VTEX à qual se refere o chamado (o formulário carrega uma lista com as contas às quais você tem acesso. Se não tiver acesso a nenhuma conta VTEX, você não consegue abrir chamados).
+- CNPJ.
 - Que sua dúvida é Financeira.
 - O assunto.
 - A descrição da pergunta ou do problema.
@@ -56,17 +57,11 @@ Essa classificação é importante para que o time de suporte priorize os chamad
 
 *Se o nível indicado não se aplicar ao cenário da solicitação, o agente pode modificá-lo.*
 
-<div class="alert alert-info">
-<strong>Normal:</strong> perguntas em geral.
-</div>
+>ℹ️ **Normal:** perguntas em geral.
 
-<div class = "alert alert-warning">
-<strong>Alto:</strong> documentações importantes estão inviabilizando o processo.
-</div>
+>⚠️ **Alto:** documentações importantes estão inviabilizando o processo.
 
-<div class="alert alert-danger">
-<strong>Urgente:</strong> Admin bloqueado, ameaçando o lucro dos seus negócios.
-</div>
+>❗ **Urgente:** Admin bloqueado, ameaçando o lucro dos seus negócios.
 
 ## Interagindo no chamado
 

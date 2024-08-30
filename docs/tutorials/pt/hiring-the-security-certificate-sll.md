@@ -23,7 +23,5 @@ Sempre que você acessa uma página segura, isto é, protegida por um certificad
 
 Não é mais necessário solicitar a compra do certificado SSL (antes fornecido pela Digicert). O certificado agora é emitido via Let’s Encrypt e sua criação passou a ser responsabilidade da VTEX, a qual é feita [momento do _GoLive_ da loja](https://help.vtex.com/pt/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
 
-<div class="alert alert-warning">
-Note que a VTEX gera um certificado SSL para a sua loja e garante sua renovação automática. Por isso, não recomendamos a instalação de outros certificados. No entanto, caso seja necessário instalar outro certificado, faça a solicitação com nosso [suporte](https://help.vtex.com/pt/support).
-</div>
+>⚠️ Note que a VTEX gera um certificado SSL para a sua loja e garante sua renovação automática. Por isso, não recomendamos a instalação de outros certificados. No entanto, caso seja necessário instalar outro certificado, faça a solicitação com nosso [suporte](https://help.vtex.com/pt/support).
 

@@ -31,13 +31,13 @@ Más abajo se comparten ejemplos de donde encontrar las informaciones más comun
 
 En este evento vemos que VTEX comenzó el proceso de autorización con el gateway de pagos y este respondió que podemos comenzar la operación:
 
-![transaccion-autorizando](//images.contentful.com/alneenqid6w5/5t9nrVLHG0ImUq6KoG0kWS/cb760295e335e209642495a72f8a6c3a/transaccion-autorizando.png)
+![transaccion-autorizando](https://images.contentful.com/alneenqid6w5/5t9nrVLHG0ImUq6KoG0kWS/cb760295e335e209642495a72f8a6c3a/transaccion-autorizando.png)
 
 ## Transacción autorizada y aprobada
 
 Después de la solicitación de autorización, el gateway de pagos nos autorizará/preautorizará la transacción en caso de flujo exitoso. Con la autorización del gateway, la transacción será _aprobada_ para continuar con el flujo del pedido:
 
-![transaccion-autorizada-aprobada](//images.contentful.com/alneenqid6w5/2czvz4AZkECkCoC2CCmOME/92b9272bc3cf7302b3f51a69010591bf/transaccion-autorizada-aprobada.png)
+![transaccion-autorizada-aprobada](https://images.contentful.com/alneenqid6w5/2czvz4AZkECkCoC2CCmOME/92b9272bc3cf7302b3f51a69010591bf/transaccion-autorizada-aprobada.png)
 
 En caso que no ocurra la autorización por algún problema fuera del flujo, el log del será detallado en el timeline, según las informaciones devueltas por el gateway de pagos.
 
@@ -45,7 +45,7 @@ En caso que no ocurra la autorización por algún problema fuera del flujo, el l
 
 En el flujo del pedido, existe la posibilidad de enviar el pago a un antifraude (integrado directamente a VTEX) para aplicarle un análisis de riesgo. Luego de haber solicitado un análisis, el pedido contará con un estado que indique el inicio del análisis y la devolución del antifraude, junto con el resultado:
 
-![transaccion-antifraude](//images.contentful.com/alneenqid6w5/3MjNaFOEJyiumaUyO2owSa/84130c11335612c4d982c016cc160616/transaccion-antifraude.png)
+![transaccion-antifraude](https://images.contentful.com/alneenqid6w5/3MjNaFOEJyiumaUyO2owSa/84130c11335612c4d982c016cc160616/transaccion-antifraude.png)
 
 En caso que no ocurra el análisis por algún problema fuera del flujo, el log del será detallado en el timeline, según las informaciones devueltas por el gateway de pagos.
 
@@ -55,11 +55,11 @@ Cuando se utiliza la modalidad de Preautorización de las transacciones, luego d
 
 Cuando se inicie el proceso de captura, se verá el evento _Settlement_, que indica que la captura fue solicitada al gateway de pagos:
 
-![transaccion-captura-solicitud](//images.contentful.com/alneenqid6w5/4ZnegfgNcA4MQsgMuQaAsE/478d66d4b763730762637cc75a1aaea4/transaccion-captura-solicitud.png)
+![transaccion-captura-solicitud](https://images.contentful.com/alneenqid6w5/4ZnegfgNcA4MQsgMuQaAsE/478d66d4b763730762637cc75a1aaea4/transaccion-captura-solicitud.png)
 
 Mientras se haya iniciado con éxito la captura, se verá el evento _Settling_. Y al finalizar la captura, se indicará el evento _Settled_:
 
-![transaccion-captura-iniciada-capturada](//images.contentful.com/alneenqid6w5/2Z2fPSYG5WK0YqSCuWGAQi/42f03171a702ada307bd85b21614757f/transaccion-captura-iniciada-capturada.png)
+![transaccion-captura-iniciada-capturada](https://images.contentful.com/alneenqid6w5/2Z2fPSYG5WK0YqSCuWGAQi/42f03171a702ada307bd85b21614757f/transaccion-captura-iniciada-capturada.png)
 
 En caso que no ocurra la captura por algún problema fuera del flujo, el log del será detallado en el timeline, según las informaciones devueltas por el gateway de pagos.
 
@@ -67,7 +67,7 @@ En caso que no ocurra la captura por algún problema fuera del flujo, el log del
 
 Al finalizar la transacción, VTEX indicará como muestra la siguiente imagen:
 
-![transaccion-finalizada](//images.contentful.com/alneenqid6w5/68PjN2ChyMWqYQ4Owm8Yk6/0a440ea3cf6e5190b7b03e72d6a7e7e8/transaccion-finalizada.png)
+![transaccion-finalizada](https://images.contentful.com/alneenqid6w5/68PjN2ChyMWqYQ4Owm8Yk6/0a440ea3cf6e5190b7b03e72d6a7e7e8/transaccion-finalizada.png)
 
 ## Transacción programada para captura automática
 

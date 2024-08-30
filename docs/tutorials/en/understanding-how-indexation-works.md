@@ -3,8 +3,8 @@ title: 'How indexing works'
 id: tutorials_256
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:43.688Z
-updatedAt: 2023-03-29T19:50:49.722Z
-publishedAt: 2023-03-29T19:50:49.722Z
+updatedAt: 2024-03-04T16:39:16.578Z
+publishedAt: 2024-03-04T16:39:16.578Z
 firstPublishedAt: 2017-04-27T23:03:11.322Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -14,6 +14,11 @@ locale: en
 legacySlug: understanding-how-indexation-works
 subcategory: pwxWmUu7T222QyuGogs68
 ---
+
+>⚠️ This tutorial is valid only for stores using [Legacy CMS Portal](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) search.
+>
+> If your store uses [Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), check <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH">Indexing History
+> </a> to follow the indexing process.
 
 Indexing is a process that prepares the general SKU data, such as catalogue data, prices and inventory, and updates the information to serve as a basis for searches and for setting up the site's product display shelves.
 

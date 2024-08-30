@@ -70,9 +70,7 @@ After adding the images, you must add the SKU specifications. The next step on t
 9. Click on `Apply and close`.
 10. Lastly, click on `Save`, which you will find scrolling down the page.
 
-<div class="alert alert-danger">
-Before saving the configurations, make sure that all SKU mandatory information is filled out. Otherwise, the SKU will not be linked to the product.
-</div>
+>❗ Before saving the configurations, make sure that all SKU mandatory information is filled out. Otherwise, the SKU will not be linked to the product.
 
 ## Spreadsheet
 

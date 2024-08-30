@@ -1,5 +1,5 @@
 ---
-title: 'O aplicativo de permissões do Storefront define "documentType" como "cpf"'
+title: "O aplicativo de permissões do Storefront define 'documentType' como 'cpf'"
 id: 1vd0gFWrP50UZacQ0QBKP8
 status: PUBLISHED
 createdAt: 2023-04-27T15:19:53.064Z
@@ -18,9 +18,7 @@ internalReference: 798330
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O aplicativo de permissões do storefront sempre define o campo "clientProfileData.documentType" como "cpf" no formulário de pedido. Isso pode fazer com que a transação seja negada pelo provedor.

@@ -41,7 +41,7 @@ Una vez activada la app, no es necesario iniciar sesión para empezar a navegar 
 
 ## Agregar código de vendedor
 
-Después de seleccionar los productos, haga clic en el botón <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/3N22EOkpKDTgr32mkN9ei5/6cb4627d028e3ffe0aa29c607ce6c90b/image10.png" /> para agregar su código de vendedor. Siga las instrucciones de la tienda al rellenar, pues cada tienda puede elegir diferentes formas de identificar a los vendedores y añadir descuentos a su carrito.
+Después de seleccionar los productos, haga clic en el botón <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3N22EOkpKDTgr32mkN9ei5/6cb4627d028e3ffe0aa29c607ce6c90b/image10.png" /> para agregar su código de vendedor. Siga las instrucciones de la tienda al rellenar, pues cada tienda puede elegir diferentes formas de identificar a los vendedores y añadir descuentos a su carrito.
 
 ![shareable-cart-addcode](https://images.ctfassets.net/alneenqid6w5/1ORhQKfIfTsXZhPR40d3FQ/f751f96f3800e2c7f7ec91bae80257b0/shareable-cart-addcode.gif)
 
@@ -63,7 +63,7 @@ Después de agregar su código de vendedor, haga clic en el botón correspondien
 
 Para compartir el carrito por WhatsApp:
 
-1. Haga clic en el botón <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/34fTsrnmu0yZKKAU2Kq9iR/a9e805534e6bc81434026357529be8a3/image11.png" />
+1. Haga clic en el botón <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/34fTsrnmu0yZKKAU2Kq9iR/a9e805534e6bc81434026357529be8a3/image11.png" />
 2. Digite el **número de teléfono del cliente** y haga clic en OK.
 3. (Opcional) Personalice el mensaje en WhatsApp.
 4. Envíe el mensaje por WhatsApp.
@@ -74,7 +74,7 @@ Para compartir el carrito por WhatsApp:
 
 Para compartir el carrito por Facebook Messenger:
 
-1. Haga clic en el botón <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/513wjcWdQzEydkFpsdm2Kb/e6ffef11d724e6fc1b66bf00504c81bb/image1.png" />
+1. Haga clic en el botón <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/513wjcWdQzEydkFpsdm2Kb/e6ffef11d724e6fc1b66bf00504c81bb/image1.png" />
 2. Digite el **nombre del perfil del cliente** en Facebook Messenger.
 3. Personalice el mensaje en Facebook Messenger.
 4. Envíe el mensaje por Facebook Messenger.
@@ -88,7 +88,7 @@ No es posible compartir carritos en Messenger para perfiles desconocidos. Si el 
 
 Para compartir el carrito por SMS: 
 
-1. Haga clic en el botón <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/aYyWKNKx0Fb4sSNT5yNJQ/34f7516d18c2f6efcb6c62c70ba8c04b/image7.png" />
+1. Haga clic en el botón <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/aYyWKNKx0Fb4sSNT5yNJQ/34f7516d18c2f6efcb6c62c70ba8c04b/image7.png" />
 2. Digite el **número de teléfono del cliente** y haga clic en OK.
 3. (Opcional) Personalice el mensaje en su aplicación de SMS.
 4. Envíe el mensaje por su aplicación de SMS.
@@ -97,7 +97,7 @@ Para compartir el carrito por SMS:
 
 Para compartir el carrito por Enlace: 
 
-1. Haga clic en el botón <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/2GZp3YTXtUkh5KvG9BTFx6/0921f73c5c553a90ddd39056ab918202/image15.png" />
+1. Haga clic en el botón <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2GZp3YTXtUkh5KvG9BTFx6/0921f73c5c553a90ddd39056ab918202/image15.png" />
 2. Copie el enlace destacado en **Enlace para compartir**.
 3. (Opcional) Escriba un mensaje personalizado con el enlace. 
 4. Envíe el enlace al cliente en su canal de contacto.
@@ -106,7 +106,7 @@ Para compartir el carrito por Enlace:
 
 Para compartir el carrito por Gmail:
 
-1. Haga clic en el botón <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/1rQ6MAeLHDZZ4vnX2p3Gyq/17bcbb4ebb94ac94a34dffb6c3515663/image14.png" />
+1. Haga clic en el botón <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/1rQ6MAeLHDZZ4vnX2p3Gyq/17bcbb4ebb94ac94a34dffb6c3515663/image14.png" />
 2. Digite la **dirección de correo electrónico del cliente** y haga clic en OK.
 3. (Opcional) Personalice el mensaje en Gmail.
 4. Envíe el mensaje por Gmail.
@@ -117,7 +117,7 @@ Para compartir el carrito por Gmail:
 
 Para compartir el carrito por Correo Electrónico:
 
-1. Haga clic en el botón <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/1B5ehv90NAceay9z6PPr7R/70fd43fed7c4aaec4e5a902c01255072/image8.png" />
+1. Haga clic en el botón <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/1B5ehv90NAceay9z6PPr7R/70fd43fed7c4aaec4e5a902c01255072/image8.png" />
 2. Digite la **dirección de correo electrónico del cliente** y haga clic en OK.
 3. (Opcional) Personalice el mensaje en su aplicación de correo electrónico.
 4. Envíe el mensaje por su aplicación de correo electrónico.
@@ -126,7 +126,7 @@ Para compartir el carrito por Correo Electrónico:
 
 ## Limpiar carrito
 
-Después de terminar la atención de un cliente, haga clic en el botón <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/2fM6iuMfYNkTWlPA1vaSFM/c5c7c03611d846d609907d272b66684b/image5.png"/> para limpiar su carrito y escoger nuevos productos para otro cliente.
+Después de terminar la atención de un cliente, haga clic en el botón <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2fM6iuMfYNkTWlPA1vaSFM/c5c7c03611d846d609907d272b66684b/image5.png"/> para limpiar su carrito y escoger nuevos productos para otro cliente.
 
 <div class="alert alert-info" role="alert"><strong>¡Cada vendedor puede trabajar con varios clientes!</strong> Recomendamos guardar los enlaces ya compartidos en una plantilla o en un cuaderno de notas. De esta manera, mantiene sus carritos organizados y podrá hacer cambios cuando lo solicite un cliente.</div>
 

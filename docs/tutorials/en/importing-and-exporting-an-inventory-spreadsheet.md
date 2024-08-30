@@ -3,8 +3,8 @@ title: 'Importing and exporting an inventory spreadsheet'
 id: tutorials_2034
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:43.488Z
-updatedAt: 2023-03-29T14:51:46.368Z
-publishedAt: 2023-03-29T14:51:46.368Z
+updatedAt: 2023-07-24T15:03:49.647Z
+publishedAt: 2023-07-24T15:03:49.647Z
 firstPublishedAt: 2017-04-27T23:03:50.695Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -31,7 +31,7 @@ If you have more than one existing inventory, this same action also allows you t
 
 1. In the VTEX Admin, go to **Shipping > Shipping Strategy**, or type *Shipping Strategy* in the search bar at the top of the page.    
 2. Click on **Warehouses** tab.  
-3. Click on `more_vert` button next to *Create warehouse*.  
+3. Click on :` button next to *Create warehouse*.  
 4. Click on the **Import items** option.  
 5. Choose a file from your computer and drag it into the box.  
 6. Click on **Import**. 
@@ -68,6 +68,4 @@ Check the meaning of each of the inventory spreadsheet fields.
 - **LockIds** (text): Booking identification code.  
 - **DispatchedReservations** (number): number of SKU items that have already moved beyond the `Item received for processing` status and whose booking is no longer valid. 
 - 
-<div class = "alert alert-info">
-  To include an item with infinite stock, you must fill in the <b>TotalQuantity</b> field with the value <code>1000000</code> and change the <b>UnlimitedQuantity</b> field to <code>True</code>.
-</div>
+>ℹ️ To include an item with infinite stock, you must fill in the **TotalQuantity** field with the value `1000000` and change the **UnlimitedQuantity** field to `True`.

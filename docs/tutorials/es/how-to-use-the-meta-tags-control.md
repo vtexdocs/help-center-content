@@ -3,8 +3,8 @@ title: 'Cómo utilizar el control de meta tags'
 id: 2OPiSPubgcEqIikAWsCouk
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:38.270Z
-updatedAt: 2023-03-29T17:49:39.799Z
-publishedAt: 2023-03-29T17:49:39.799Z
+updatedAt: 2023-10-17T14:24:54.898Z
+publishedAt: 2023-10-17T14:24:54.898Z
 firstPublishedAt: 2019-01-24T22:06:45.424Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -54,6 +54,4 @@ A continuación puede observar un ejemplo de meta tags insertadas por el control
 <link rel="canonical" href="http://lojadobreno.vtexcommercestable.com.br/escalada">
 ```
 
-<div class="alert alert-info">
-Si usted no desea usar la tag canonical (&lt;link rel="canonical"&gt;), puede inhabilitarla a través de un <a href="http://help.vtex.com/es/faq/control-para-deshabilitar-la-tag-canonical">control específico para eso</a>.
-</div>
+>ℹ️ Si usted no desea usar la tag canonical (&lt;link rel="canonical"&gt;), puede inhabilitarla a través de un [control específico para eso](https://developers.vtex.com/docs/guides/control-to-disable-the-canonical-tag).

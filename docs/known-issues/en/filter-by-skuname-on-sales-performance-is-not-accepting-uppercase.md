@@ -3,8 +3,8 @@ title: ' Filter by SkuName on Sales Performance is not accepting uppercase.'
 id: 3FCDeEn8xmEvOXKgBxqyL5
 status: PUBLISHED
 createdAt: 2022-08-16T18:06:02.919Z
-updatedAt: 2022-11-30T19:08:14.148Z
-publishedAt: 2022-11-30T19:08:14.148Z
+updatedAt: 2024-02-16T20:24:21.760Z
+publishedAt: 2024-02-16T20:24:21.760Z
 firstPublishedAt: 2022-08-16T18:06:03.474Z
 contentType: knownIssue
 productTeam: Analytics
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: filter-by-skuname-on-sales-performance-is-not-accepting-uppercase
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 639219
 ---
 

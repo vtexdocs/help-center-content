@@ -3,8 +3,8 @@ title: 'Checkout allows proceeding to payment form without shipping address on t
 id: 3k9zxMq6Pl9WBnIz5Hy6Xf
 status: PUBLISHED
 createdAt: 2022-11-18T18:42:08.326Z
-updatedAt: 2022-11-25T23:17:39.653Z
-publishedAt: 2022-11-25T23:17:39.653Z
+updatedAt: 2024-02-16T20:27:39.990Z
+publishedAt: 2024-02-16T20:27:39.990Z
 firstPublishedAt: 2022-11-18T18:42:08.914Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-allows-proceeding-to-payment-form-without-shipping-address-on-the-ui-only
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 699317
 ---
 

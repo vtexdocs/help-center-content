@@ -3,8 +3,8 @@ title: 'Configurar Google Analytics 4 em loja VTEX'
 id: G2P0rmSrEiqCcmUMyUUwG
 status: PUBLISHED
 createdAt: 2017-07-30T22:53:46.285Z
-updatedAt: 2023-05-03T16:21:13.207Z
-publishedAt: 2023-05-03T16:21:13.207Z
+updatedAt: 2023-07-17T13:35:10.259Z
+publishedAt: 2023-07-17T13:35:10.259Z
 firstPublishedAt: 2017-07-30T23:24:21.394Z
 contentType: tutorial
 productTeam: Others
@@ -20,9 +20,7 @@ O [Google Analytics 4 (GA4)](https://support.google.com/analytics/answer/1008968
 1. [Configurar Google Analytics 4](#configurar-google-analytics-4)
 2. [Configurar Google Tag Manager](#configurar-google-tag-manager)
 
-<div class="alert alert-info">
-A partir de 1º de julho de 2023, o Google Analytics 4 vai substituir o Universal Analytics, versão anterior da ferramenta. Portanto, é necessário seguir este tutorial para adaptar a sua loja. Confira detalhes sobre a mudança <a href="https://support.google.com/analytics/answer/11583528">neste comunicado do Google</a>.
-</div>
+>ℹ️ A partir de 1º de julho de 2023, o Google Analytics 4 vai substituir o Universal Analytics, versão anterior da ferramenta. Portanto, é necessário seguir este tutorial para adaptar a sua loja. Confira detalhes sobre a mudança [neste comunicado do Google](https://support.google.com/analytics/answer/11583528).
 
 ## Configurar Google Analytics 4
 
@@ -36,5 +34,5 @@ Em ambos os casos, armazene o código de identificação da propriedade no Googl
 
 Feitas as configurações necessárias na sua conta Google Analytics, será preciso alterar as configurações do Google Tag Manager para detectar os eventos da sua loja. Para isso, siga os passos descritos em [Configurar o Google Tag Manager](https://help.vtex.com/pt/tutorial/integracao-com-o-google-tag-manager).
 
-Se a sua loja utiliza [VTEX IO](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), além da configuração, será necessário configurar uma nova versão do app Google Tag Manager. Para mais informações, acesse [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
+Se a sua loja utiliza [VTEX IO - Store Framework](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), além da configuração, será necessário configurar uma nova versão do app Google Tag Manager. Para mais informações, acesse [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
 

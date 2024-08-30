@@ -1,5 +1,5 @@
 ---
-title: 'Delay in processing the shipping policy (locked in "processing" status)'
+title: "Delay in processing the shipping policy (locked in 'processing' status)"
 id: 5wl2TdIbyQeCF8eoo5oYKl
 status: PUBLISHED
 createdAt: 2022-05-17T17:26:58.778Z

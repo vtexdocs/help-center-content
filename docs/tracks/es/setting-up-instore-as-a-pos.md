@@ -22,9 +22,7 @@ En primer lugar, consideremos los requisitos previos que su tienda necesita. Con
 
 ## Implementar inStore como TPV
 
-<div class="alert alert-info">
-Aunque es posible implementar inStore como TPV de otras formas, en este artículo explicaremos cómo hacerlo utilizando las features de Cuenta Franquicia y Seller White Label. Esto se debe a que esta es la arquitectura más recomendada por VTEX para este tipo de proyecto.
-</div>
+>ℹ️ Aunque es posible implementar inStore como TPV de otras formas, en este artículo explicaremos cómo hacerlo utilizando las features de Cuenta Franquicia y Seller White Label. Esto se debe a que esta es la arquitectura más recomendada por VTEX para este tipo de proyecto.
 
 Estos son los pasos para implementar inStore como TPV:
 

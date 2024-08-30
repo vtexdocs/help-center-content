@@ -3,8 +3,8 @@ title: 'SkuServicoForm.aspx not listing Value Tables at first for a Value type'
 id: 2QrjRVvJXiWmRXTYf8DrMK
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:32.216Z
-updatedAt: 2022-11-25T21:50:15.511Z
-publishedAt: 2022-11-25T21:50:15.511Z
+updatedAt: 2024-02-16T20:27:50.659Z
+publishedAt: 2024-02-16T20:27:50.659Z
 firstPublishedAt: 2022-06-28T16:55:32.529Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: skuservicoformaspx-not-listing-value-tables-at-first-for-a-value-type
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 335819
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: 'Promotions for specific scenarios'
 id: jOu9b69mKbrTDfSJYAawy
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-01-22T13:55:51.326Z
-updatedAt: 2020-11-27T19:40:32.581Z
-publishedAt: 2020-07-29T22:53:59.120Z
+updatedAt: 2023-10-23T17:08:04.859Z
+publishedAt: 2023-10-23T17:08:04.859Z
 firstPublishedAt: 2020-01-22T15:01:20.187Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -25,10 +25,7 @@ In order to meet these scenarios, we offer the following types of promotions:
 - Progressive Discount
 - Buy One Get One
 
-<div class="alert alert-info">
-The configuration screens for any of the promotions mentioned above follow the same main sections as those explained in the Regular Promotion article. The options in these sections repeat themselves throughout the promotions, with the exception of some specific configurations regarding which conditions to apply the promotion to. Therefore, this article will focus on these specific configurations.
-</div>
-
+>ℹ️ The configuration screens for any of the promotions mentioned above follow the same main sections as those explained in the Regular Promotion article. The options in these sections repeat themselves throughout the promotions, with the exception of some specific configurations regarding which conditions to apply the promotion to. Therefore, this article will focus on these specific configurations.
 
 ### Buy Together - Bundle
 
@@ -44,21 +41,19 @@ Two examples of this type of promotion would be "Buy a pair of pants and get 10%
 
 To understand the Buy Together promotion in more detail, read our article on <a href="https://help.vtex.com/en/tutorial/buy-together--tutorials_323">Creating a Buy Together Promotion</a>.
 
-
 ### More for Less
 
 The More for Less promotion is used to grant a discount when the customer adds several units of the same product to the cart. A classic example of this promotion would be "Buy 4 pay for 3".
 
 In the configuration of the More for Less promotion, the store must define which collections or SKUs it will apply to. Then, it must choose the minimum number of items in the cart for it to apply and the number of items that get a discount.
 
-![Leva Mais por menos - EN](https://images.ctfassets.net/alneenqid6w5/4JpSv0S2g7BkBpOVMoAKJ5/d50e206d9af27de3cdea385257dd2145/Screenshot_2020-06-24_https_lojadobreno_myvtex_com_5_.png)
+![More less](https://images.ctfassets.net/alneenqid6w5/5LQErZWrN4WyX8ZuIBEMPM/823b88ebf22ca83427e4c9c809d31d2e/More_less.png)
 
 For example:
 - For every `3` products, the customer will get `1` `free` product.
 - For every `5` products, the customer will get `2` products with a `30%` `discount`.
 
 To understand the More for Less promotion in more detail, read the article <a href="https://help.vtex.com/en/tutorial/creating-more-for-less-promotion--tutorials_325">Creating More for Less promotion</a>.
-
 
 ### Progressive Discount
 
@@ -88,13 +83,11 @@ To understand the Buy One Get One promotion in more detail, read our article on 
 
 This setting determines how many items in the cart will be affected by a promotion. 
 
-<div class="alert alert-warning">
-It is important to note that such restrictions are only <strong>valid for regular promotions with percentage discounts</strong>.
-</div>
+>⚠️ It is important to note that such restrictions are only **valid for regular promotions with percentage discounts**.
 
 After filling in all the [regular promotion fields](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327) with the percentage discount, you can __set a maximum number of items affected per cart__ by checking the box for this option, found in the __restrictions__ section.
 
-![Limitação carrinho EN](https://images.ctfassets.net/alneenqid6w5/11eLuOcoCYcYOCrauDEzze/6bafe932057178894773c6ca3f9cf01c/image__13_.png)
+![Limite itens - EN](https://images.ctfassets.net/alneenqid6w5/1W6ZYterIepCud41XJr4UQ/98c764ea9fd40bd809d3b7bf55c7a313/Limite_itens_-_EN.png)
 
 By default, the __unlimited__ selection is active, applying the promotion to all items in the cart, as illustrated in the diagram below:  
 

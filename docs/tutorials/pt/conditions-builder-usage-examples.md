@@ -25,9 +25,8 @@ UTM (Marketing tag) é uma informação que diz respeito a origem do tráfego do
 
 ![utm_source_port](https://images.ctfassets.net/alneenqid6w5/1X8rOnz0wwOgMWKE2IccGe/97a3907728c129ec075f425c9e221230/utm_source_port.png)  
 
-<div class="alert alert-warning"><strong>Nota: </strong>
-É possível que sua loja utilize customização e por isso as informações de UTM contidas na URL não estão sendo passadas para o nosso sistema. Caso use customização de Javascript, leia o artigo <a href="https://help.vtex.com/pt/faq/por-que-as-utms-nao-estao-sendo-aplicadas-ao-carrinho">Por que as utms não estão sendo aplicadas ao carrinho</a>
-</div>
+>⚠️ **Nota: **
+> É possível que sua loja utilize customização e por isso as informações de UTM contidas na URL não estão sendo passadas para o nosso sistema. Caso use customização de Javascript, leia o artigo [Por que as utms não estão sendo aplicadas ao carrinho](https://help.vtex.com/pt/faq/por-que-as-utms-nao-estao-sendo-aplicadas-ao-carrinho)
 
 ### utm_source
 

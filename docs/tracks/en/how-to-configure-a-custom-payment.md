@@ -3,8 +3,8 @@ title: 'How to configure a custom payment'
 id: 1wWt35dRwEboRs1nrSx7G0
 status: PUBLISHED
 createdAt: 2019-11-12T14:02:06.237Z
-updatedAt: 2023-03-21T19:57:00.742Z
-publishedAt: 2023-03-21T19:57:00.742Z
+updatedAt: 2023-10-18T14:41:42.080Z
+publishedAt: 2023-10-18T14:41:42.080Z
 firstPublishedAt: 2019-11-25T15:33:37.696Z
 contentType: trackArticle
 productTeam: Financial
@@ -18,8 +18,8 @@ The custom payment is an alternative to the standard options offered by Payments
 
 These payment methods are separated into three categories, and each category allows five configurations.
 
-## Promissory notes
-A promissory note is a promise of payment that needs manual approval of the seller to perform the transaction. It is often used to provide payment through money.
+## Notes Payable
+A Note Payable is a promise of payment that needs manual approval of the seller to perform the transaction. It is often used to provide payment through money.
 
 ## Store Cards (Own Brand)
 It allows the use of a store's credit card with its own brand.

@@ -18,9 +18,7 @@ internalReference: 763955
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En un marketplace, cuando hay un vendedor configurado con un Código de País diferente, el servicio de cumplimiento tendrá en cuenta el Código de País del vendedor al realizar el pedido. Puede generar un error si el Código de país del vendedor define campos obligatorios diferentes a los del marketplace.

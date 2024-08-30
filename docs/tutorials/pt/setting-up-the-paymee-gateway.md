@@ -3,8 +3,8 @@ title: 'Configurar o gateway PayMee'
 id: 3fsilRdrBS6GOAy622soWy
 status: PUBLISHED
 createdAt: 2018-02-28T21:29:08.666Z
-updatedAt: 2019-12-31T15:20:50.800Z
-publishedAt: 2019-12-31T15:20:50.800Z
+updatedAt: 2024-03-14T17:02:16.884Z
+publishedAt: 2024-03-14T17:02:16.884Z
 firstPublishedAt: 2018-03-01T21:53:29.140Z
 contentType: tutorial
 productTeam: Financial
@@ -15,26 +15,19 @@ legacySlug: configurar-o-gateway-paymee
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível configurar o gateway de pagamentos PayMee. Com este conector, sua loja pode receber pagamentos por transferência bancária ou dinheiro.
+Na VTEX, é possível realizar a integração com o provedor de pagamento PayMee. Por meio deste provedor, sua loja pode realizar vendas por PayMee e PIX.
 
-Para realizar as configurações, siga os passos abaixo:
+Para configurar PayMee, siga os passos abaixo:
 
-## Configurar afiliação de gateway PayMee
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __PayMee__ na barra de busca e clique sobre o nome do provedor.
+4. Em __Autorização do provedor__, preencha os campos __Chave de aplicação__ e __Token de aplicação__ com as informações da sua conta PayMee.
+5. Caso deseje modificar o nome de identificação a ser exibido para o provedor PayMee na tela do Admin VTEX, insira a informação no campo __Nome__ em __Informações básicas__.
+6. Clique em `Salvar`.
 
-1. Acesse __Pagamentos__.
-2. Clique em __Configurações__.
-3. Na aba __Afiliações de Gateways__, clique no botão __+__.
-4. Clique no conector __PayMee__.
-5. Preencha os campos de __Application Key__ e __Application Token__ com os dados fornecidos pela PayMee.
-6. Clique em __Salvar__.
+Para configurar os métodos de pagamento a serem processados pela PayMee, acesse [Configurar condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento).
 
-## Configurar condição de pagamento PayMee
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
 
-1. Já dentro das __Configurações__ em Pagamentos, clique na aba __Condições de pagamento__.
-2. Clique no botão __+__.
-3. Clique no meio de pagamento __PayMee__.
-4. Clique no botão __Status__, para ativar esta condição de pagamento.
-5. Caso deseje, marque a caixa __Usar Antifraude__ para ativar o antifraude básico.
-6. Clique em __Salvar__.
-
-__Pronto!__ Agora será exibida no checkout a opção de pagamento através do __PayMee__.
+Depois de seguir os passos indicados, PayMee pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

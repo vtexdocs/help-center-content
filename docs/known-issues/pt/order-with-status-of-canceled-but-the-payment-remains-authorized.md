@@ -1,36 +1,32 @@
 ---
-title: 'Pedido com status de cancelado mas o pagamento continua autorizado'
+title: 'Pedido com status de cancelado, mas o pagamento continua autorizado'
 id: 19WmIjIbAQmJ19AOC4q56N
 status: PUBLISHED
 createdAt: 2022-05-11T12:49:23.081Z
-updatedAt: 2022-11-25T21:51:23.997Z
-publishedAt: 2022-11-25T21:51:23.997Z
+updatedAt: 2024-06-28T17:45:57.362Z
+publishedAt: 2024-06-28T17:45:57.362Z
 firstPublishedAt: 2022-05-11T12:49:23.599Z
 contentType: knownIssue
-productTeam: Checkout
+productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
-tag: Checkout
+tag: Order Management
 slug: pedido-com-status-de-cancelado-mas-o-pagamento-continua-autorizado
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 420019
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
-Em alguns casos em que o pedido é incompleto ou cancelado quando há qualquer falha de comunicação com o Gateway, o pagamento permanece autorizado e/ou aprovado, não entrando no fluxo de cancelamento e o valor pago não é automaticamente reembolsado. Além disso, e-mails transacionais podem ser enviados acidentalmente, o que também permite o pagamento de boletos bancários, uma vez que a URL irá com ele.
-
-
+Em alguns casos em que o pedido é incompleto ou cancelado quando há alguma falha de comunicação com o Gateway, o pagamento permanece autorizado e/ou aprovado, não entrando no fluxo de cancelamento e o valor pago não é reembolsado automaticamente. Além disso, e-mails transacionais podem ser enviados acidentalmente, o que também permite o pagamento de boletos bancários, pois a URL irá junto.
 
 ## Simulação
 
 
-Não há como simular. Mas temos alguns casos em que isto já aconteceu antes.
+Não há como simular. Mas temos alguns casos em que isso aconteceu antes.
 
 
 

@@ -3,8 +3,8 @@ title: 'Configuring payment special conditions'
 id: tutorials_456
 status: PUBLISHED
 createdAt: 2017-04-27T22:03:58.783Z
-updatedAt: 2023-02-24T20:54:02.331Z
-publishedAt: 2023-02-24T20:54:02.331Z
+updatedAt: 2023-07-27T16:59:12.708Z
+publishedAt: 2023-07-27T16:59:12.708Z
 firstPublishedAt: 2017-04-27T23:03:26.753Z
 contentType: tutorial
 productTeam: Financial
@@ -20,10 +20,6 @@ Special conditions are part of the configuration of payment conditions which all
 To identify the special conditions applicable to each payment method, in the VTEX Admin, access  __Payments > Settings > Payment Conditions__, select the desired payment method and check the options as shown in the illustration below.
 
 ![special payment conditions](https://images.ctfassets.net/alneenqid6w5/1DllASa2BBHO7VjL1krOqD/5f674ce32524424a33df81b671e04e5c/Special_payment_conditions.png)
-
-<div class = "alert alert-info">
-  <p>The special conditions of the payment rules apply only to the number of installments. The payment method remains the same.</p>
-</div>
 
 ## Commercial condition
 
@@ -140,9 +136,7 @@ Suppose that you want to offer a special payment condition to customers paying b
 
 In this case, you must select the issuing bank which responsible for this card followed by the name of your store in the __Co-brand__ field.
 
-<div class="alert alert-warning">
-Be aware that by default, the info as to whether or not a card has co-brand is <strong>not</strong> added in the VTEX database. Therefore, if you store wants to segment a payment condition according to cards, you need to send a ticket with the co-brand card list to the VTEX support team.
-</div>
+>⚠️ Be aware that by default, the info as to whether or not a card has co-brand is **not** added in the VTEX database. Therefore, if you store wants to segment a payment condition according to cards, you need to send a ticket with the co-brand card list to the VTEX support team.
 
 ## Period
 
@@ -164,6 +158,4 @@ How to configure the payment condition period:
 
 Suppose that your store usually offers a payment with in to 6x, without interest, but wants to use the end-of-year sales to offer payment in up to 12x, without interest. In this case, follow the steps above, and add the period of the payment condition. Its application can cease on January 1st of the following year, for example.
 
-<div class = "alert alert-warning">
-  <p>Payment conditions have a cache of up to 10 minutes it Smart Checkout. Thus, any change in Payment Conditions in the <strong>Payments</strong> module can take up to 10 minutes to start operating in Smart Checkout.</p>
-</div>
+>⚠️ Payment conditions have a cache of up to 10 minutes it Smart Checkout. Thus, any change in Payment Conditions in the **Payments** module can take up to 10 minutes to start operating in Smart Checkout.

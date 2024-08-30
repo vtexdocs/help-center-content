@@ -18,9 +18,7 @@ internalReference: 419729
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La cuenta no ha podido cargar la página de la aplicación de colecciones, la petición `api/catalog_system/pvt/collection/search/?an=&page=1&pageSize=10&orderByAsc=false` ha devuelto 500, debido al tiempo de espera:

@@ -3,8 +3,8 @@ title: 'Corrigir erro de redirecionamento no PagSeguro'
 id: 5b1lVDQ9HUKQs4Wy24uWq2
 status: PUBLISHED
 createdAt: 2018-02-15T16:07:47.669Z
-updatedAt: 2019-12-31T14:23:59.281Z
-publishedAt: 2019-12-31T14:23:59.281Z
+updatedAt: 2024-02-16T12:41:04.461Z
+publishedAt: 2024-02-16T12:41:04.461Z
 firstPublishedAt: 2018-02-15T17:26:16.189Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
@@ -14,24 +14,24 @@ locale: pt
 legacySlug: corrigir-erro-de-redirecionamento-no-pagseguro
 ---
 
+>❗ Essa integração de pagamento não pode ser mais configurada na plataforma devido ao [processo de remoção de provedores legados](https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14) e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.
+
 Caso você esteja encontrando __problemas de redirecionamento__ utilizando o Pagseguro, é provável que o *redirect* do PagSeguro esteja configurado de forma errada.
 
 Para corrigir o problema, há duas opções: Configurar o PagSeguro *com redirect* da forma correta ou configurar o PagSeguro *sem redirect*. 
 
 ## Configurar o PagSeguro *com redirect*
 
-### Configurar Afiliação de Gateway PagSeguro
+### Configurar Gateway PagSeguro
 
-1. Acesse a seção de __Pagamentos__.
-2. Clique no botão __Configurações__.
-3. Clique na aba __Afiliações de Gateways__.
-4. Clique no botão __+__ no canto superior direito da tela.
-5. Clique na afiliação __PagSeguro__.
-6. Preencha os campos __email__ e __token__ com as informações fornecidas pelo PagSeguro.
-7. Siga a orientação __Configuração do redirecionamento__ descrita no painel de configuração.
-8. Clique em __Salvar__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __PagSeguro__ na barra de busca e clique sobre o nome do provedor.
+4. Preencha os campos __email__ e __token__ com as informações fornecidas pelo PagSeguro.
+5. Siga a orientação __Configuração do redirecionamento__ descrita no painel de configuração.
+6. Clique em `Salvar`.
 
-### Configurar Condição de Pagamento PagSeguro
+### Configurar condição de pagamento PagSeguro
 
 1. Depois de configurar corretamente a Afiliação de Gateway no passo anterior, clique na aba __Condições de Pagamento__.
 2. Clique no botão __+__ no canto superior direito da tela.
@@ -43,7 +43,7 @@ Para corrigir o problema, há duas opções: Configurar o PagSeguro *com redirec
 
 ## Configurar o PagSeguro *sem redirect*
 
-### Configurar afiliação de gateway PagSeguro sem redirect
+### Configurar gateway PagSeguro sem redirect
 
 1. Acesse a seção de __Pagamentos__.
 2. Clique no botão __Configurações__.

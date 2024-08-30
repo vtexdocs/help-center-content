@@ -34,6 +34,4 @@ If your store has __an external marketplace integration__ (and you want to use t
 
 If your store is integrated with __VTEX's certified marketplaces__ (using the Bridge module), the flag will be activated automatically. You'll only need to fulfill the instructions described on items `2` and `3`.
 
-<div class="alert alert-info">
-Remember that order integrations need to be done using the <a href="https://developers.vtex.com/reference/orders#getorder">Get Order</a> and <a href="https://developers.vtex.com/reference/feed-v2-deprecated#getfeedorderstatus">Get Feed Order Status</a> APIs.
-</div>
+>ℹ️ Remember that order integrations need to be done using the [Get Order](https://developers.vtex.com/reference/orders#getorder) and [Get Feed Order Status](https://developers.vtex.com/reference/feed-v2-deprecated#getfeedorderstatus) APIs.

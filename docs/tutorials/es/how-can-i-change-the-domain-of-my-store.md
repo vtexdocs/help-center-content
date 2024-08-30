@@ -17,9 +17,7 @@ subcategory: yMp6sKDiJEi66CGAIQ4ma
 
 El cambio de domínios es el cambio de la dirección de la tienda. Por ejemplo, si la tienda VTEX tiene el domínio **_mitienda.com_** y desea cambiar para **_nuestratienda.com_**, debe seguir los pasos de ese tutorial.
 
-<div class="alert alert-warning">
-Sugerimos NO borrar el HOST creado anteriormente, mientras que la nueva configuración no está propagada (Tiempo promedio de propagación: 15 minutos).
-</div>
+>⚠️ Sugerimos NO borrar el HOST creado anteriormente, mientras que la nueva configuración no está propagada (Tiempo promedio de propagación: 15 minutos).
 
 La plataforma VTEX está lista para cambios de domínio sin impactos negativos. Sólo es necesario seguir los pasos abajo:
 

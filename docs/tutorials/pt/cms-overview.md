@@ -1,10 +1,10 @@
 ---
 title: 'CMS - Visão Geral'
 id: 2X1xWJi9WmtNylxmggn3ts
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-03-29T18:36:32.910Z
-updatedAt: 2023-03-29T19:34:13.250Z
-publishedAt: 2023-03-29T19:34:13.250Z
+updatedAt: 2023-07-18T18:36:27.273Z
+publishedAt: 
 firstPublishedAt: 2023-03-29T18:38:26.442Z
 contentType: tutorial
 productTeam: Others

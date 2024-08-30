@@ -3,8 +3,8 @@ title: 'Mensajes automáticos MELI Mercado Livre - Mensajes'
 id: 6WZy5RNesYJtJOaBAFnbkW
 status: PUBLISHED
 createdAt: 2023-05-04T11:22:21.762Z
-updatedAt: 2023-05-08T18:33:14.421Z
-publishedAt: 2023-05-08T18:33:14.421Z
+updatedAt: 2024-01-30T10:48:09.504Z
+publishedAt: 2024-01-30T10:48:09.504Z
 firstPublishedAt: 2023-05-04T11:22:22.366Z
 contentType: knownIssue
 productTeam: Connections
@@ -18,13 +18,11 @@ internalReference: 615164
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 
-Actualmente nuestra APP MELI para enviar mensajes automáticos a MELI está teniendo algunos problemas con el modo logístico ME2.
+Actualmente nuestra APP MELI para enviar mensajes automáticos a MELI está teniendo algunos problemas al utilizar los mensajes de plantilla.
 
 
 ##
@@ -33,7 +31,7 @@ Actualmente nuestra APP MELI para enviar mensajes automáticos a MELI está teni
 
 
 
-Los mensajes automáticos en VTEX admin para el modo logístico ME2, no serán enviados al vendedor.
+Los mensajes automáticos en VTEX admin a veces no se envían a MELI..
 
 
 

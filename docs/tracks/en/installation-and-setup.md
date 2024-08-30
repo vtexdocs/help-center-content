@@ -55,7 +55,7 @@ You can find the information needed to fill out the **Lengow Account**, **Lengow
 <table width="100%">
   <tr>
    <td>
-    <img src="https:https://images.ctfassets.net/alneenqid6w5/5RhkmJ5MSU7IAqKeaeIHOt/1a047d143644b5ede26e54ff0248d609/image10.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow Account ID" title="Lengow Account ID">
+    <img src="https://images.ctfassets.net/alneenqid6w5/5RhkmJ5MSU7IAqKeaeIHOt/1a047d143644b5ede26e54ff0248d609/image10.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow Account ID" title="Lengow Account ID">
    </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ You can find the information needed to fill out the **Lengow Account**, **Lengow
 <table width="100%">
   <tr>
    <td>
-    <img src="https:https://images.ctfassets.net/alneenqid6w5/4VSUTXCPjvJrDztQPuTHa7/114b813e20818cd9058ea47295f74f0c/image13.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow API KEY / Secret" title="Lengow API KEY / Secret">
+    <img src="https://images.ctfassets.net/alneenqid6w5/4VSUTXCPjvJrDztQPuTHa7/114b813e20818cd9058ea47295f74f0c/image13.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow API KEY / Secret" title="Lengow API KEY / Secret">
    </td>
   </tr>
   <tr>

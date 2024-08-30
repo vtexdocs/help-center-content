@@ -22,9 +22,7 @@ Entonces es por ella que necesitamos empezar.
 
 ## ¿Qué es un árbol de categorías?
 
-<div class="alert alert-info">
-El árbol de categorías es el conjunto de categorías de su sitio, <strong>distribuidas según relaciones de jerarquía</strong>.
-</div>
+>ℹ️ El árbol de categorías es el conjunto de categorías de su sitio, **distribuidas según relaciones de jerarquía**.
 
 ## Ejemplo
 
@@ -38,21 +36,17 @@ Al principio del proyecto, antes de que cualquier producto sea insertado en la p
 
 Este, por lo tanto, podría ser el diseño inicial del árbol de categorías de su tienda:
 
-![ArbolCategorias](//images.contentful.com/alneenqid6w5/5PafF9e7i84ik0KGG6gAe8/e5b88d15993ef729b6f55c3b73b3ba93/ArbolCategorias.png)
+![ArbolCategorias](https://images.contentful.com/alneenqid6w5/5PafF9e7i84ik0KGG6gAe8/e5b88d15993ef729b6f55c3b73b3ba93/ArbolCategorias.png)
 
 __OBS__: la nomenclatura __Departamento / Categoría / Subcategoría__ es solamente una manera de ver su árbol, y que puede o no facilitar su trabajo. La plataforma no requiere este o cualquier otro patrón de nomenclatura. Para VTEX, los niveles que se crean para la distribución de sus productos sólo se toman como niveles de categoría.
 
 Pero atención:
 
-<div class = "alert alert-warning">
-Recomendamos que se creen <strong>como máximo 3 niveles de categoría</strong>. Más niveles pueden hacer que la operación de su catálogo sea demasiado compleja.
-</div>
+>⚠️ Recomendamos que se creen **como máximo 3 niveles de categoría**. Más niveles pueden hacer que la operación de su catálogo sea demasiado compleja.
 
 Dos puntos fundamentales:
 
 - ¿Quién planea la distribución de las categorías de su sitio? __Usted! Esta planificación debe reflejar los objetivos de su negocio.__
 - ¿Cuándo debe definirse la distribución de las categorías? __Antes que las categorías se insertan en la plataforma.__
 
-<div class = "alert alert-warning">
-Es muy importante que su equipo defina la composición del árbol de categorías <strong>antes</strong> de montarla en la plataforma. Después de que usted comienza a insertar productos, necesitar mover las categorías puede convertirse en un problema de estructuración complejo.
-</div>
+>⚠️ Es muy importante que su equipo defina la composición del árbol de categorías **antes** de montarla en la plataforma. Después de que usted comienza a insertar productos, necesitar mover las categorías puede convertirse en un problema de estructuración complejo.

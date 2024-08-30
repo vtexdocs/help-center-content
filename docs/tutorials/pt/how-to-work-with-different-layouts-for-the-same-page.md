@@ -15,9 +15,7 @@ legacySlug: como-trabalhar-com-diferentes-layouts-para-uma-mesma-pagina
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-warning">
-  <p><b>Atenção:</b> existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.</p>
-</div>
+>⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.
 
 Na página __Storefront__ > __Layout__, um layout padrão é aplicado para todas as páginas de mesmo tipo existentes dentro de cada pasta de um website, como por exemplo _Produto_.
 
@@ -50,8 +48,6 @@ Ocorre que as condições ofertadas não estarão presentes em qualquer página:
 
 Sendo assim, não é possível, por exemplo, condicionar produtos específicos a layouts diferentes através de uma coleção. Nesse cenário é necessário cadastrá-los com a condição de produto.
 
-<div class="alert alert-info">
-De acordo com as condições configuradas, existe uma ordem de prioridade estabelecida para a aplicabilidade do template. A ordenação é, caso exista, template de produto, de categoria e, por último, de marca. Dessa forma, um template condicionado para determinado produto se sobrepõe aquele condicionado à categoria na qual este produto está contido e assim sucessivamente. 
-</div>
+>ℹ️ De acordo com as condições configuradas, existe uma ordem de prioridade estabelecida para a aplicabilidade do template. A ordenação é, caso exista, template de produto, de categoria e, por último, de marca. Dessa forma, um template condicionado para determinado produto se sobrepõe aquele condicionado à categoria na qual este produto está contido e assim sucessivamente.
 
 Em caso de dúvidas nessa configuração, recomendamos que use o "lid": [Teste de Layout](/pt/faq/como-validar-um-layout-antes-de-ir-para-producao)

@@ -3,8 +3,8 @@ title: 'Regla de Divergencia de precios'
 id: 6RlFLhD1rIRRshl83KnCjW
 status: PUBLISHED
 createdAt: 2021-12-25T20:10:25.853Z
-updatedAt: 2023-03-29T21:53:14.071Z
-publishedAt: 2023-03-29T21:53:14.071Z
+updatedAt: 2024-03-22T15:11:31.300Z
+publishedAt: 2024-03-22T15:11:31.300Z
 firstPublishedAt: 2021-12-25T21:05:20.600Z
 contentType: tutorial
 productTeam: Channels
@@ -19,9 +19,7 @@ Cuando un _seller_ vende en un _marketplace_, a veces hay una diferencia entre e
 
 Para optimizar el procesamiento de los pedidos con errores de diferencia de precios, existe el flujo de Autorización de pedidos, en el que el _seller_ puede [configurar una regla de Divergencia de precios](https://help.vtex.com/es/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe). En el Admin VTEX, accede a **Configuración de la tienda > Pedidos > Autorización de pedidos**, o escribe **Autorización de pedidos** en la barra de búsqueda en la parte superior de la página.
 
-<div class="alert alert-warning">
-Una vez que el seller ha creado la regla de Divergencia de precios, esta se aplica a todos los marketplaces.
-</div>
+>⚠️ Una vez que el seller ha creado la regla de Divergencia de precios, esta se aplica a todos los marketplaces.
 
 La regla de Divergencia de precios se compone de una o varias reglas de autorización de pedidos. Cada regla de autorización corresponde a un rango porcentual del precio del pedido y puede variar del 0% al 100%. Se debe asociar una de las tres acciones a cada regla de autorización:
 
@@ -29,13 +27,11 @@ La regla de Divergencia de precios se compone de una o varias reglas de autoriza
 - **Negar automáticamente:** los pedidos con una diferencia de precio dentro del rango definido se rechazan automáticamente y no se integran.
 - **Crear una tarea en VTEX DO para aprobación:** para diferencias de precio dentro del rango configurado, el pedido se integra pero queda pendiente de [autorización manual](https://help.vtex.com/es/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#autorizar-pedidos-manualmente) por parte de un usuario autorizado.
 
-![print_1_ES](https://drive.google.com/uc?export=download&id=1Ix_a3t24wvio_7BrSuxbzCC92J24iQZb)
+![price_divergence_rules_ES](https://images.ctfassets.net/alneenqid6w5/3eUHS2dcIUY5KiDshLpurc/8563ada94d5218580e946f92f1f7b210/price_divergence_rules_ES.png)
 
 Cuando no se ha [configurado la regla de Divergencia de precios](https://help.vtex.com/es/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe), los pedidos con errores de divergencia de precios se aprueban automáticamente. Esto se aplica a los _marketplaces_ VTEX, a los _marketplaces_ externos y a los conectores certificados (_partners_), pero no a los [conectores nativos](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex).
 
-<div class="alert alert-warning">
-Cuando un seller está integrado con un conector nativo, como Mercado Libre, pero no ha configurado una regla de Divergencia de precios, los pedidos con error por diferencia de valores quedan pendientes hasta que se cree la regla. Puedes seguirlos en tu Admin VTEX, en <b>Marketplace > Conexiones > Pedidos</b>.
-</div>
+>⚠️ Cuando un seller está integrado con un conector nativo, como Mercado Libre, pero no ha configurado una regla de Divergencia de precios, los pedidos con error por diferencia de valores quedan pendientes hasta que se cree la regla. Puedes seguirlos en tu Admin VTEX, en **Marketplace > Conexiones > Pedidos**.
 
 Tras la creación de la regla de Divergencia de precios, los pedidos de integraciones con conectores nativos que presentan una diferencia de valores se mostrarán en la página [Todos los pedidos](https://help.vtex.com/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi).
 
@@ -51,9 +47,7 @@ Para crear una regla de Divergencia de precios, el usuario debe tener el rol Adm
 
 Puedes hacer el seguimiento de los pedidos integrados a partir de la regla de Divergencia de precios en el Admin VTEX, en **Pedidos > [Todos los pedidos](https://help.vtex.com/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi)**.
 
-<div class = "alert alert-info">
-Es importante hacer un seguimiento periódico de los pedidos en la Gestión de pedidos. Si requieren aprobación manual, los pedidos quedan pendientes hasta que un usuario habilitado conceda la autorización necesaria.
-</div>
+>ℹ️ Es importante hacer un seguimiento periódico de los pedidos en la Gestión de pedidos. Si requieren aprobación manual, los pedidos quedan pendientes hasta que un usuario habilitado conceda la autorización necesaria.
 
 ### Más información
 

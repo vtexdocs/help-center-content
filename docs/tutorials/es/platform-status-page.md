@@ -21,9 +21,7 @@ Los eventos son reportados por nuestro equipo siempre que nuestro sistema autom�
 
 A continuación, encontrarás información detallada sobre los elementos de la página de status de la plataforma VTEX.
 
-<div class = "alert alert-info">
-La página de status se desarrolla con la herramienta Atlassian Statuspage.
-</div>
+>ℹ️ La página de status se desarrolla con la herramienta Atlassian Statuspage.
 
 ## Notificaciones
 

@@ -1,10 +1,10 @@
 ---
 title: 'Como transformar o site da minha loja em um PWA'
 id: 3i8VmYeToAUGKgo2kKK6I2
-status: PUBLISHED
+status: CHANGED
 createdAt: 2018-03-19T18:20:25.794Z
-updatedAt: 2023-03-29T13:18:46.962Z
-publishedAt: 2023-03-29T13:18:46.962Z
+updatedAt: 2024-05-07T14:04:52.042Z
+publishedAt: 2023-07-10T14:28:55.813Z
 firstPublishedAt: 2018-03-20T14:54:55.189Z
 contentType: tutorial
 productTeam: Others
@@ -23,9 +23,7 @@ PWA é a abreviação em inglês de Progressive Web App - um conjunto de técnic
 
 Se você já tem um site ou uma aplicação web, pode implementar aos poucos as características que definem um PWA, como notificações, cache de arquivos, execução em modo off-line e outras possibilidades que fazem o usuário se sentir em um aplicativo nativo.
 
-<div class="alert alert-warning">
-A plataforma VTEX <strong>não</strong> possui features nativas para transformar sua loja em PWA. Ela apenas oferece as condições para que essa implementação seja feita. Lojas desenvolvidas com o VTEX IO Store Framework possue este recurso nativamente.
-</div>
+>⚠️ A plataforma VTEX **não** possui features nativas para transformar sua loja em PWA. Ela apenas oferece as condições para que essa implementação seja feita. Lojas desenvolvidas com o VTEX IO Store Framework possuem este recurso nativamente.
 
 ## O Google define com exatidão o que é esperado de um PWA:
 
@@ -66,7 +64,7 @@ __Para criar o JSON, siga o passo a passo abaixo:__
 
 __Seu arquivo deve ser importado no index.html, assim:__
 
-`<link rel="manifest" href="/files/manifest.json">`
+`<link rel="manifest" href="/arquivos/manifest.json">`
 
 Depois disso, sua aplicação web poderá abrir um splash screen exatamente igual aos apps nativos.
 
@@ -83,7 +81,7 @@ __Para criar o script, siga o passo a passo abaixo:__
 6.  Programe a funcionalidade.
 7.  Para finalizar, clique em __Salvar__.
 
-Apesar de o arquivo se encontrar em `/files/service-worker.js`, ele recebe o header `Service-Worker-Allowed` com valor `/`, o que permite interceptar requests da raiz do site.
+Apesar de o arquivo se encontrar em `/arquivos/service-worker.js`, ele recebe o header `Service-Worker-Allowed` com valor `/`, o que permite interceptar requests da raiz do site.
 
 ### Terceiro passo
 A forma fácil de saber se você está no caminho certo na construção do seu PWA é usar alguma ferramenta de inspeção, como o Lighthouse do Google.

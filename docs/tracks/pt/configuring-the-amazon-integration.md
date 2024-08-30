@@ -3,8 +3,8 @@ title: 'Configurar a integração da Amazon'
 id: 5J9CWPIbYQdAegJJWGsxan
 status: PUBLISHED
 createdAt: 2019-02-28T23:11:28.346Z
-updatedAt: 2022-02-03T23:25:36.883Z
-publishedAt: 2022-02-03T23:25:36.883Z
+updatedAt: 2023-09-22T20:17:01.064Z
+publishedAt: 2023-09-22T20:17:01.064Z
 firstPublishedAt: 2019-02-28T23:12:37.347Z
 contentType: trackArticle
 productTeam: Channels
@@ -17,9 +17,8 @@ trackSlugPT: integracao-com-a-amazon
 Uma vez terminadas as etapas de preparo da sua loja na VTEX e na Amazon, é necessário configurar de fato a integração entre ambas. A configuração da integração é feita no Admin da VTEX. Para configurar, siga as instruções abaixo.
 
 1.	Acesse o Admin da VTEX. 
-2.	No módulo *MARKETPLACE*, Clique em **Integrações**.
-3.	Acesse o item **Configurações**.
-4.	No box da Amazon, clique em `Integrar`.
+2.	Clique em __Marketplace > Conexões > Marketplaces e Integrações__.
+4.	No box da Amazon, clique em `Conectar`.
 5.	Preencha os campos da tela descritos logo abaixo e, em seguida, clique no botão `Salvar Configuração` (campos marcados com o símbolo * são obrigatórios).
 
 - **Id do Afiliado*:**  código identificador para criação de um [afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não, vogais não são aceitas. Sugestão: MZN. A configuração do conector cria automaticamente o afiliado.
@@ -34,9 +33,7 @@ Uma vez terminadas as etapas de preparo da sua loja na VTEX e na Amazon, é nece
 - __Não enviar preço para a Amazon:__ a Amazon dá a possibilidade de usar o próprio sistema deles para parametrização de preços nos produtos. Para utilizar este serviço, marque a opção *ON* para que a integração não envie os preços da VTEX. Pois, se os preços forem enviados via integração, eles irão sobrescrever os preços do sistema da Amazon.
 - **Enviar KIT*:** ao escolher *Não*, SKUs [cadastrados como kit](https://help.vtex.com/pt/tutorial/cadastrando-kit--tutorials_215) não são enviados para a Amazon. Ao habilitar *Sim*, todos os itens da sua política comercial são enviados para o marketplace, inclusive SKUs cadastrados como kit. Mudanças na configuração do conector podem ser feitas a qualquer momento, sem que isso afete SKUs que já tenham sido enviados. Por exemplo, se você mudasse sua configuração de *Sim* para *Não*, SKUs enviados anteriormente para a Amazon não seriam removidos nem sofreriam qualquer alteração.
 
-<div class="alert alert-info">
-Com a opção <i>Não</i> ativada, tentativas de envio para a Amazon de SKUs cadastrados como kit resultarão no seguinte aviso: “o conector está configurado para não enviar SKUs do tipo Kit”. Esta mensagem pode ser visualizada no Admin VTEX, no módulo <b>MARKETPLACE > Integrações > Produtos</b>, ao se clicar sobre o SKU.
-</div>
+>ℹ️ Com a opção <i>Não</i> ativada, tentativas de envio para a Amazon de SKUs cadastrados como kit resultarão no seguinte aviso: “o conector está configurado para não enviar SKUs do tipo Kit”. Esta mensagem pode ser visualizada no Admin VTEX, no módulo **MARKETPLACE > Integrações > Produtos**, ao se clicar sobre o SKU.
 
 - **Notificar por e-mail se ocorrer um erro em um pedido:** preencher com o e-mail do responsável técnico. Caso ocorra algum erro na integração do pedido, será enviada uma mensagem para o e-mail cadastrado.
 

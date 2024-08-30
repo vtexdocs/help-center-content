@@ -26,7 +26,7 @@ Para isso, em **Configurações** acesse o menu de opções de **Condições de 
 
 Selecione Visa Electron para criar a condição de pagamento:
 
-![Visa Debito 3](//images.contentful.com/alneenqid6w5/7iNwRHWjewEqqYAas0kGw/ae76ec6f4a0361dbb2c8e0b41db85cd2/VD3.png)
+![Visa Debito 3](https://images.contentful.com/alneenqid6w5/7iNwRHWjewEqqYAas0kGw/ae76ec6f4a0361dbb2c8e0b41db85cd2/VD3.png)
 
 ### Configurar condição de pagamento
 

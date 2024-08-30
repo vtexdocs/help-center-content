@@ -1,10 +1,10 @@
 ---
 title: 'Cadastrar Coleções (Beta)'
 id: yJBHqNMViOAnnnq4fyOye
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-08-17T20:29:25.500Z
-updatedAt: 2023-03-29T14:50:46.438Z
-publishedAt: 2023-03-29T14:50:46.438Z
+updatedAt: 2024-03-04T20:48:30.215Z
+publishedAt: 2024-02-22T12:15:26.041Z
 firstPublishedAt: 2020-08-27T15:16:59.673Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,10 +15,9 @@ legacySlug: cadastrar-colecoes-beta
 subcategory: 3aExYJkji3NIu9Ks8bxbWx
 ---
 
-<div class = "alert alert-info">
-  <p>Existem duas formas de configurar coleções: por meio do <b>Portal CMS Legado</b> ou utilizando o módulo de <b>Coleções (Beta)</b>. Este artigo refere-se à configuração de coleções por meio do módulo de <b>Coleções (Beta)</b>.</p>
-  <p>Essa funcionalidade está em estágio Beta e disponível para ambientes a partir do Admin v3. Em caso de dúvidas <a href="https://support.vtex.com/hc/pt-br/requests">entre em contato com nosso Suporte</a>.</p>
-</div>
+>ℹ️ Existem duas formas de configurar coleções: por meio do **Portal CMS Legado** ou utilizando o módulo de **Coleções (Beta)**. Este artigo refere-se à configuração de coleções por meio do módulo de **Coleções (Beta)**.
+>
+> Essa funcionalidade está em estágio Beta e disponível para ambientes a partir do Admin v3. Em caso de dúvidas [entre em contato com nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 O módulo de __Coleções (Beta)__ permite criar e gerenciar coleções de forma prática e rápida.
 
@@ -47,9 +46,7 @@ Siga o passo a passo abaixo para cadastrar uma nova coleção:
 5. Clique em `Criar` para atualizar as informações preenchidas no formulário.
 6. Em seguida, [selecione os produtos](https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#selecao-de-produtos) que farão parte da coleção.
 
-<div class = "alert alert-info">
-  <p>É importante ressaltar que as coleções criadas neste módulo não são automaticamente alteradas. Coleções automáticas - feitas por seleção de filtros - não são possíveis de configurar no módulo.</p>
-</div>
+>ℹ️ É importante ressaltar que as coleções criadas neste módulo não são automaticamente alteradas. Coleções automáticas - feitas por seleção de filtros - não são possíveis de configurar no módulo.
 
 ### Campos de cadastro de coleção
 
@@ -106,13 +103,13 @@ Caso você deseje realizar uma inclusão massiva, aplique pelo menos um dos filt
 
 ![Coleções Adicionar Todos - PT](https://images.ctfassets.net/alneenqid6w5/7Bo9F9fU4sGW4FqBTBquD8/20fa966d9f2bb7339ad12140fc722d2b/Screenshot_22.png)
 
-<div class = "alert alert-danger">
-  <p>Não adicione massivamente uma quantidade acima de 150 mil produtos. Isso pode comprometer a indexação do Catálogo e o funcionamento da sua loja.</p>
-</div>
+>❗ Não adicione massivamente uma quantidade acima de 100 mil produtos. Isso pode comprometer a indexação do Catálogo e o funcionamento da sua loja.
 
 #### Por planilha
 
-Você também pode adicionar os itens em uma coleção por planilha. 
+Você também pode adicionar os itens em uma coleção por planilha.
+
+>ℹ️ O limite máximo para importação e exportação é de 10 mil SKUs por operação.
 
 Para isso, siga os passos a seguir:
 
@@ -123,9 +120,7 @@ Para isso, siga os passos a seguir:
   5. Depois de preencher a planilha, salve as alterações e importe o documento no Admin. Você pode soltar o arquivo na área indicada ou clicar em **Escolha um arquivo**. São aceitos arquivos em formato CSV ou XML. Em caso de um arquivo CSV, use `,` para delimitar os campos.
   6. Para finalizar, clique em `Importar`.
 
-<div class = "alert alert-warning">
-  <p>A planilha pode conter até 10 mil linhas. Porém, em lojas com um catálogo extenso, recomendamos incluir no máximo 50 linhas por vez para garantir o funcionamento correto da importação.</p>
-</div>
+>⚠️ A planilha pode conter até 10 mil linhas. Porém, em lojas com um catálogo extenso, recomendamos incluir no máximo 50 linhas por vez para garantir o funcionamento correto da importação.
 
 ### Remoção de produtos
 
@@ -143,9 +138,7 @@ Caso você deseje realizar uma remoção massiva, aplique um dos filtros e cliqu
 
 Você também pode clicar no botão <i class="far fa-check-circle" title = "check em círculo"></i> (**Produtos nesta coleção**) na barra superior e depois selecionar `Remover Todos`.
 
-<div class = "alert alert-danger">
-  <p>Não remova massivamente uma quantidade acima de 150 mil produtos. Isso pode comprometer a indexação do Catálogo e o funcionamento da sua loja.</p>
-</div>
+>❗ Não remova massivamente uma quantidade acima de 150 mil produtos. Isso pode comprometer a indexação do Catálogo e o funcionamento da sua loja.
 
 #### Por planilha
 
@@ -166,9 +159,7 @@ Para alterar a ordem da sua coleção, siga os passos abaixo:
 
   a. Clique no ícone <i class="fas fa-grip-vertical" title="arrastar vertical"></i>, arraste o item e solte para a posição desejada.
 
-  <div class = "alert alert-info">
-    <p>Não é possível utilizar essa opção caso um filtro esteja ativo.</p>
-  </div>
+  >ℹ️ Não é possível utilizar essa opção caso um filtro esteja ativo.
 
   b. Selecione a caixa dos produtos que deseja alterar e clique em `Mover de Posição`. Indique o número da nova posição e, para finalizar, clique em `Mover`. Aqui é possível reordenar massivamente os itens da lista.
 

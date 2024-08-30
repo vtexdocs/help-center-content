@@ -15,6 +15,4 @@ legacySlug: autenticando-com-usuario-e-senha-na-interface-rest-2
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---
 
-<div class="alert alert-info">
-Este artigo foi descontinuado. Para se autenticar e integrar com as APIs da VTEX, acesse nosso artigo <a href="http://help.vtex.com/pt/tutorial/chaves-de-aplicacao">Chaves de aplicação</a>.
-</div>
+>ℹ️ Este artigo foi descontinuado. Para se autenticar e integrar com as APIs da VTEX, acesse nosso artigo [Chaves de aplicação](http://help.vtex.com/pt/tutorial/chaves-de-aplicacao).

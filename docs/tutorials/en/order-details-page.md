@@ -3,8 +3,8 @@ title: 'Order details page'
 id: 2Y75n54Cc9VizrlG1N6ZNl
 status: PUBLISHED
 createdAt: 2020-12-28T15:51:29.428Z
-updatedAt: 2023-03-23T19:27:38.026Z
-publishedAt: 2023-03-23T19:27:38.026Z
+updatedAt: 2023-12-21T14:06:02.509Z
+publishedAt: 2023-12-21T14:06:02.509Z
 firstPublishedAt: 2020-12-28T19:33:51.059Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,9 +15,18 @@ legacySlug: order-details-page-beta
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
+>ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+
 The order details page allows you to view all the information of an order and manage it in a single place. To access it, in the VTEX Admin, go to **Orders > [All orders](https://help.vtex.com/en/tutorial/lista-de-pedidos-beta--2QTduKHAJMFIZ3BAsi6Pi)**, and click the desired order.
 
-On this page, you can:
+You can also search for orders from any page in the VTEX Admin using the global search bar at the top bar. By default, the search is configured as `Pages`. To search for an order, click on the bar, select `Orders`, and use one of the following criteria:
+
+- Order ID
+- Customer name
+- Customer email
+- Customer document
+
+On the order details page, you can:
 
 * Check in which stage of the order flow the order is (order status).
 * View the entire change history of the order.
@@ -33,9 +42,7 @@ The order details page is divided into blocks that group information or features
 
 To learn more about order flow and status, please check out the article [Order flow and status](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 
-<div class = "alert alert-info">
-You will find below a list of all possible sections for the <b>Order details page</b>, but please note that only the sections that apply to the order in question will be visible.
-</div>
+>ℹ️ You will find below a list of all possible sections for the **Order details page**, but please note that only the sections that apply to the order in question will be visible.
 
 ## Top bar
 
@@ -65,9 +72,7 @@ General order information is displayed at the top of the page, just below the to
   - Contact details (mobile number and email)  
 * **Delivery/Pickup:** address details and recipient name for shipping by carrier or for pickup by customer.  
 
-<div class = "alert alert-info">
-Click on the <i class="fas fa-chevron-right"></i> icon to enlarge the block.
-</div>
+>ℹ️ Click on the <i class="fas fa-chevron-right"></i> icon to enlarge the block.
 
 ### Order status
 

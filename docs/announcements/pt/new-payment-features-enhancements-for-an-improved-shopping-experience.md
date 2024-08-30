@@ -3,8 +3,8 @@ title: 'Novas funcionalidades de Pagamentos: melhorias para uma experiência de 
 id: 3b5C6DabaGrWsS9Jahs75D
 status: PUBLISHED
 createdAt: 2023-05-29T14:05:55.900Z
-updatedAt: 2023-05-29T14:10:59.814Z
-publishedAt: 2023-05-29T14:10:59.814Z
+updatedAt: 2024-04-04T19:35:42.974Z
+publishedAt: 2024-04-04T19:35:42.974Z
 contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
@@ -26,5 +26,5 @@ Com o objetivo de aprimorar a experiência de compra dos clientes, apresentamos 
 
 ## O que precisa ser feito?
 
-Nenhuma ação é necessária para, já que as atualizações serão aplicadas automaticamente em todas as lojas VTEX. 
+Nenhuma ação é necessária, já que as atualizações serão aplicadas automaticamente em todas as lojas VTEX. 
 

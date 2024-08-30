@@ -35,6 +35,6 @@ Se deberá seleccionar la afiliación deseada para transaccionar los pagos, acti
 ### Visualizando las tarjetas de débito en Checkout
 Luego de finalizar la configuración del plan de pagos de Visa Débito, se verá una nueva pestaña en el Checkout, llamada Tarjeta de Débito. Dicha pestaña contendrá la opción de Visa Débito para ser elegida por el cliente y pagar online.
 
-![Visa Debito 5](//images.contentful.com/alneenqid6w5/4M77qvnjhuWs8OA4goc4Ko/c58df4158183914589390e364cb0d7ed/Visa_Debito_5.png)
+![Visa Debito 5](https://images.contentful.com/alneenqid6w5/4M77qvnjhuWs8OA4goc4Ko/c58df4158183914589390e364cb0d7ed/Visa_Debito_5.png)
 
 **Importante**: El cliente debe contar con un gateway de pagos que permita transaccionar con tarjetas de débito y estar integrado con VTEX.

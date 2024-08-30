@@ -3,8 +3,8 @@ title: 'Alterar preço de SKU'
 id: tutorials_95
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:48.759Z
-updatedAt: 2023-03-30T16:36:10.950Z
-publishedAt: 2023-03-30T16:36:10.950Z
+updatedAt: 2024-01-05T17:59:41.793Z
+publishedAt: 2024-01-05T17:59:41.793Z
 firstPublishedAt: 2017-04-27T23:00:42.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -41,8 +41,8 @@ Essa atualização normalmente é feita quando precisa ser feito um rápido ajus
 
 Esses campos representam as informações que são alteradas em qualquer uma das três maneiras mencionadas. A diferença é que manualmente, quem está preenchendo enxerga esse formulário, via importação por planilha estão dispostos em colunas e via integração são campos na estrutura de request em formato JSon.
 
-- **ID:** código do SKU que acessou
-- **Sku:** nome do SKU
+- **ID:** código do SKU que acessou.
+- **Sku:** nome do SKU.
 - **Parceiro (utm\_source):** Campo opcional. Trata-se de um parâmetro para condicionar uma precificação diferenciada, a partir do uso no site da utm source que for cadastrada aqui.
 - **Audiência de campanha (utm\_campaign):** Campo opcional. Trata-se de um parâmetro para condicionar uma precificação diferenciada, a partir do uso no site da utm campaign que for cadastrada aqui, a qual também pode ser usada em links de mail marketing.
 - **Audiência de campanha interna (utmi\_cp):** Campo opcional. Trata-se de um parâmetro para condicionar uma precificação diferenciada, a partir do uso no site da utm source que for cadastrada aqui. Normalmente usada para funcionários da loja, quando é o caso de ter condições de compra diferenciada.
@@ -66,36 +66,33 @@ Essa ferramenta normalmente é usada para atualização de preços em massa, que
 
 Depois que o e-mail chegar e fizer o download, altere somente aqueles SKUs que realmente precisarão serem atualizados, os demais pode excluir da planilha, assim a importação levará menos tempo e evitará reindexação desnecessária dos produtos que não foram alterados. É importante ressaltar que o formato aceito pela plataforma para importar a planilha é o .xls. Levando em consideração que não fechou a página do Admin, continue com os passos abaixo:
 
-1. Selecione a aba **Importar**
-2. Clique em **Selecionar arquivo**
-3. Busque pelo arquivo que salvou em sua máquina com os preços alterados;
-4. Selecione o arquivo e clique em **Abrir**
-5. Preencha em **Email para notificação** o seu e-mail, para ser notificado quanto a possíveis erros na importação (preenchimento, formato da planilha, etc);
+1. Selecione a aba **Importar**.
+2. Clique em **Selecionar arquivo**.
+3. Busque pelo arquivo que salvou em sua máquina com os preços alterados.
+4. Selecione o arquivo e clique em **Abrir**.
+5. Preencha em **Email para notificação** o seu e-mail, para ser notificado quanto a possíveis erros na importação (preenchimento, formato da planilha, etc).
 6. Clique no botão **Importar**.
-7. Colunas da planilha de importação
+7. Colunas da planilha de importação.
 
 Essas são as colunas da planilha que chega no e-mail do usuário, quando faz a exportação conforme mencionado no passo a passo acima. Abaixo está escrito exatamente como está na planilha. A obrigatoriedade de preenchimento de cada coluna, segue o mesmo padrão dos campos do formulário descrito no referido tópico acima.
 
-- **StockKeepingUnitId:** ID do SKU;
-- **Source: **utm\_source;
-- **Price:** preço de venda do produto;
-- **Id:** ID do preço. Não altere esse valor, caso contrário o sistema criará uma nova linha na tabela de preço e ficarão dois preços cadastrados para o SKU;
-- **StoreId:** ID da política comercial onde o preço será aplicado. Caso tenha dúvida de qual é o código de identificação de alguma política, acesse o módulo Catalog > Marketplace > Política Comercial. Verifique o número que aparece na coluna **Id - Nome**. Esse é o código que deverá ser usado aqui;
-- **Medium (Desconsiderar):** Campo descontinuado;
-- **Campaign:** utm\_campaign;
-- **InternalCampaign:** utmi\_cp;
-- **DateFrom: **data do início da vigência do preço. Preencher no formato dd/mm/aaaa;
-- **DateTo: **data do fim da vigência do preço. Preencher no formato dd/mm/aaaa;
-- **ListPrice: **preço de, também conhecido como preço de lista. É aquele que aparece tachado (ex: `De: R$ 10,00`) no site;
-- **RefId (Não alterável): **código de referência de produto, conforme cadastro do produto. Não alterar esse valor;
-- **Ean13Default (Não alterável):** EAN do produto, conforme cadastro do produto. Não alterar esse valor;
-- **BrandName (Não alterável):** marca do produto, conforme cadastro do produto. Não alterar esse valor;
-- **StockKeepingUnitName (Não alterável):** nome do SKU, conforme cadastro do produto. Não alterar esse valor;
+- **StockKeepingUnitId:** ID do SKU.
+- **Source: **utm\_source.
+- **Price:** preço de venda do produto.
+- **Id:** ID do preço. Não altere esse valor, caso contrário o sistema criará uma nova linha na tabela de preço e ficarão dois preços cadastrados para o SKU.
+- **StoreId:** ID da política comercial onde o preço será aplicado. Caso tenha dúvida de qual é o código de identificação de alguma política, acesse o módulo Catalog > Marketplace > Política Comercial. Verifique o número que aparece na coluna **Id - Nome**. Esse é o código que deverá ser usado aqui.
+- **Medium (Desconsiderar):** Campo descontinuado.
+- **Campaign:** utm\_campaign.
+- **InternalCampaign:** utmi\_cp.
+- **DateFrom: **data do início da vigência do preço. Preencher no formato dd/mm/aaaa.
+- **DateTo: **data do fim da vigência do preço. Preencher no formato dd/mm/aaaa.
+- **ListPrice: **preço de, também conhecido como preço de lista. É aquele que aparece tachado (ex: `De: R$ 10,00`) no site.
+- **RefId (Não alterável): **código de referência de produto, conforme cadastro do produto. Não alterar esse valor.
+- **Ean13Default (Não alterável):** EAN do produto, conforme cadastro do produto. Não alterar esse valor.
+- **BrandName (Não alterável):** marca do produto, conforme cadastro do produto. Não alterar esse valor.
+- **StockKeepingUnitName (Não alterável):** nome do SKU, conforme cadastro do produto. Não alterar esse valor.
 - **SellerId:** ID do seller dono do produto. Somente virá preenchido caso sua loja seja marketplace de outra loja.
 
 ## Por integração com ERP
 
-Normalmente é configurada no momento que a sua loja está sendo implantada e, deve ser seguido o manual de integração junto à sua equipe técnica, para evitar integrações inconsistentes ou qualquer problema que possa prejudicar a informação que alimentará a plataforma. A atualização de preço é feito via REST, através de método POST com body no padrão JSON.
-
-Veja a documentação da API em nossos Developer Docs:
-https://developers.vtex.com/reference/pricing-api-overview#listorders
+Normalmente é configurada no momento que a sua loja está sendo implantada e, deve ser seguido o manual de integração junto à sua equipe técnica, para evitar integrações inconsistentes ou qualquer problema que possa prejudicar a informação que alimentará a plataforma. A atualização de preço é feito via API, para obter informações, acesse [Pricing API](https://developers.vtex.com/docs/api-reference/pricing-api#overview).

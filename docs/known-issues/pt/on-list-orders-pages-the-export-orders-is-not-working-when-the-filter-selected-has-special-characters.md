@@ -18,9 +18,7 @@ internalReference: 662821
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A nova IU tem uma limitação para exportar alguns pedidos uma vez que o filtro selecionado tem no nome um exemplo de caráter especial ("&" e "á" ou "ú") acontece porque mesmo a nova IU pode filtrar os pedidos que ela chama de antiga rota OMS para exportar os pedidos.

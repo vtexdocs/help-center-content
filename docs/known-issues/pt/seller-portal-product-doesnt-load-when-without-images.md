@@ -18,9 +18,7 @@ internalReference: 800480
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Para contas do portal do vendedor, se você tiver um produto sem imagens para cada sku, a interface do usuário do produto não será carregada corretamente.

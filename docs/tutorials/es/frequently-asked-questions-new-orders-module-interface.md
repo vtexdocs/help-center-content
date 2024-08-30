@@ -32,9 +32,7 @@ En la imagen a continuación, puedes ver la correspondencia de secciones y campo
 
 El filtro de seis meses fue sustituido por la búsqueda sin límite de fecha que devuelve los pedidos relacionados con el criterio utilizado, independientemente de la fecha de creación del pedido. Por ejemplo, puedes acceder al historial de compras completo de un cliente utilizando su nombre, email o documento. Aprende más en el artículo [Filtrar pedidos en Todos los pedidos](https://help.vtex.com/es/tutorial/como-filtrar-pedidos--tutorials_192).
 
-<div class = "alert alert-info">
-La búsqueda en todos los pedidos no puede asociarse a otros filtros, por lo que al remover el límite de fechas de búsqueda, los demás filtros se inactivan. Sin embargo, puedes combinar filtros y seleccionar el periodo personalizado de seis meses.
-</div>
+>ℹ️ La búsqueda en todos los pedidos no puede asociarse a otros filtros, por lo que al remover el límite de fechas de búsqueda, los demás filtros se inactivan. Sin embargo, puedes combinar filtros y seleccionar el periodo personalizado de seis meses.
 
 Para buscar en todos los pedidos, ingresa el término deseado en la casilla de búsqueda. Se mostrará la opción <i class="fas fa-toggle-off"></i> `Remover límite de fechas`. Solo tienes que activarla para iniciar la búsqueda.
 

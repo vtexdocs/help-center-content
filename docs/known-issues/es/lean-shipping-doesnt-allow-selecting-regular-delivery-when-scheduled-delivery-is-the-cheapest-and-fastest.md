@@ -18,9 +18,7 @@ internalReference: 842018
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En carros donde hay una entrega programada y una entrega regular, y Lean Shipping está activado; si la opción más barata y rápida es la entrega programada, la UI mostrará el toggle normalmente, pero al deseleccionar, no pasará nada, y la entrega programada seguirá seleccionada.

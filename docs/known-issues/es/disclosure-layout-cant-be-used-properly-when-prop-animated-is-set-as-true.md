@@ -3,8 +3,8 @@ title: 'Disclosure Layout no se puede utilizar correctamente cuando prop animado
 id: 14QweVpzLO8TsyI68H79ZG
 status: PUBLISHED
 createdAt: 2022-04-19T19:53:22.409Z
-updatedAt: 2022-11-25T22:13:15.022Z
-publishedAt: 2022-11-25T22:13:15.022Z
+updatedAt: 2024-07-01T18:48:05.329Z
+publishedAt: 2024-07-01T18:48:05.329Z
 firstPublishedAt: 2022-04-19T19:53:23.090Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: disclosure-layout-no-se-puede-utilizar-correctamente-cuando-prop-animado-se-establece-como-verdadero
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 417947
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Hay un problema en el diseño de divulgación que sólo activa el bloque para mostrar, pero no se cierra. Esto es causado por la animación de la prop, que no está funcionando correctamente cuando se establece en el diseño de divulgación y no permite ocultar el elemento después de la apertura.

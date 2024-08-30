@@ -23,7 +23,7 @@ Integrations between VTEX sellers and [native connectors](https://help.vtex.com/
 
 Orders whose price difference is greater than the values configured in the integration are not automatically sent to the OMS. This causes orders to remain on “error” status in the `Orders` section, in the *INTEGRATIONS* module of the Admin, waiting to be manually approved.
 
-![divergenciadepreçosEN-01](//images.contentful.com/alneenqid6w5/4mjfgTHC1DrhmprHMU4akp/7085908f63fefc87357e95f6bb363dd9/divergenciadepre__osEN-01.gif)
+![divergenciadepreçosEN-01](https://images.contentful.com/alneenqid6w5/4mjfgTHC1DrhmprHMU4akp/7085908f63fefc87357e95f6bb363dd9/divergenciadepre__osEN-01.gif)
 
 To send orders with price divergence to the OMS, we have created the price divergence rule (Beta). According to this rule, all orders that diverge in price are sent to the OMS and must be manually approved by the individual in charge — the person whose email address is listed under *Account management > Accounts*. You can add more than one email address.
 
@@ -33,7 +33,7 @@ You can manage and manually approve orders via OMS or [VTEX DO](https://help.vte
 
 The default configuration in a price divergence rule is to `automatically deny` orders that present a divergence percentage from 0% to 30%. But you can change this configuration or even create new rules.
 
-<div class="alert alert-info">If you have a price divergence rule (Beta) configured, you no longer need to configure the Price Divergence field in the marketplace integration. If the Price Divergence field has already been configured in your integration, it will no longer be valid.</div>
+>ℹ️ If you have a price divergence rule (Beta) configured, you no longer need to configure the Price Divergence field in the marketplace integration. If the Price Divergence field has already been configured in your integration, it will no longer be valid.
 
 ## Configuring the price divergence rule (Beta)
 
@@ -44,7 +44,7 @@ You can configure the price divergence rule by:
 
 ### Creating rules
 
-![barra regradivergenciaEN](//images.contentful.com/alneenqid6w5/DqcEZulHBr5XuNbF8LWDn/3aa409e8d104ed4beb73a5dd33886d97/barra_regradivergenciaEN.JPG)
+![barra regradivergenciaEN](https://images.contentful.com/alneenqid6w5/DqcEZulHBr5XuNbF8LWDn/3aa409e8d104ed4beb73a5dd33886d97/barra_regradivergenciaEN.JPG)
 
 To create a rule, follow the steps below:
 
@@ -57,7 +57,7 @@ To create a rule, follow the steps below:
    * The system automatically configures a rule with a percentage of divergence between 0% and 30%, corresponding to the light blue bar.
 6. hoose one of the following options for the authorization rule: `Automatically authorize`, `Automatically deny`, or `Create a VTEX DO task to approve`.
 7. To increase or decrease the divergence percentage, click on the bar and drag its extremities considering the symbols "<" (less than) and ">" (greater than).
-8. To create the second rule, click on the icon <img class="shadow-4" src="https://https://images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" /> and repeat steps 6 and 7.
+8. To create the second rule, click on the icon <img class="shadow-4" src="https:////images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" /> and repeat steps 6 and 7.
 9. Click on `Save rules`.
 
 During the process of creating rules, you will see the following tabs:
@@ -76,7 +76,7 @@ To edit existing rules, follow the steps below:
 5. Edit the rule you want by changing the percentage bar.
 6. Then click on `Save rules`.
 
-![divergenciadepreçosEN-02](//images.contentful.com/alneenqid6w5/19JIIISSI8aKitR5Alvzfy/9f0135552d26f4353df30374a361c6a6/divergenciadepre__osEN-02.gif)
+![divergenciadepreçosEN-02](https://images.contentful.com/alneenqid6w5/19JIIISSI8aKitR5Alvzfy/9f0135552d26f4353df30374a361c6a6/divergenciadepre__osEN-02.gif)
 
 ## Order authorization
 
@@ -84,10 +84,8 @@ You can approve orders with the status `Waiting for manual authorization` by:
 - [Manually authorizing orders in the OMS](#manually-authorizing-orders-in-the-oms)
 - [Authorizing orders via VTEX DO](#authorizing-orders-via-vtex-do)
 
-<div class="alert alert-warning">
-You must have permission from the account owner to authorize requests, otherwise, the following message will be displayed: 
-“You do not have authorization rules yet. Then all cases of divergences are automatically denied.”
-</div>
+>⚠️ You must have permission from the account owner to authorize requests, otherwise, the following message will be displayed: 
+> “You do not have authorization rules yet. Then all cases of divergences are automatically denied.”
 
 ### Manually authorizing orders in the OMS
 
@@ -99,7 +97,7 @@ To authorize orders manually, follow the steps below:
 4. Select the order with the status `Waiting for manual authorization` that you want to approve. 
 5. Click on `Approve order`.
 
-![divergenciadepreçosEN-03](//images.contentful.com/alneenqid6w5/5HVasmtuyHSGDmVAlPnl8T/3f1e507a2f00ca82e1ebc43dcdc5809c/divergenciadepre__osEN-03.gif)
+![divergenciadepreçosEN-03](https://images.contentful.com/alneenqid6w5/5HVasmtuyHSGDmVAlPnl8T/3f1e507a2f00ca82e1ebc43dcdc5809c/divergenciadepre__osEN-03.gif)
 
 ### Authorizing orders via VTEX DO
 
@@ -113,4 +111,4 @@ To authorize orders manually, follow the steps below:
 6. Click on `Close`.
 7. Click on `Authorize`.
 
-![divergenciadepreçosEN-04](//images.contentful.com/alneenqid6w5/4Hy0li6MdpqLRQiDqkQOyi/055b6a1120bc50793625319db6aa30d4/divergenciadepre__osEN-04.gif)
+![divergenciadepreçosEN-04](https://images.contentful.com/alneenqid6w5/4Hy0li6MdpqLRQiDqkQOyi/055b6a1120bc50793625319db6aa30d4/divergenciadepre__osEN-04.gif)

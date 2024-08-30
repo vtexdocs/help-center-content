@@ -1,5 +1,5 @@
 ---
-title: 'Campo "Url Logo" no campo "Update Seller Request not Updating".'
+title: "Campo 'Url Logo' no campo 'Update Seller Request not Updating'."
 id: 1WmNl3RgesWAUL8rjitJV1
 status: PUBLISHED
 createdAt: 2022-01-21T15:18:15.945Z
@@ -18,9 +18,7 @@ internalReference: 271480
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Tentar atualizar o campo "UrlLogo" na rota /api/catalog_system/pvt/seller não está refletindo nenhuma mudança.

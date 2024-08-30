@@ -18,13 +18,9 @@ Nuestro equipo de desarrollo está constantemente mejorando el rendimiento de nu
 
 En este artículo se enumeran todas las partes de la API V2 de Checkout que probablemente no van a estar en el próximo release.
 
-<div class="alert alert-warning">
-Este artículo va a estar en permanente actualización hasta el lanzamiento de la API V3 del Checkout. Sin embargo, usted necesita estar atento a los cambios no descritos aquí y que se pueden implementar en la V3.
-</div>
+>⚠️ Este artículo va a estar en permanente actualización hasta el lanzamiento de la API V3 del Checkout. Sin embargo, usted necesita estar atento a los cambios no descritos aquí y que se pueden implementar en la V3.
 
-<div class="alert alert-warning">
-El objetivo de este artículo es permitir que usted ya empiece el proceso de actualización de las integraciones y personalizaciones de su tienda, pensando en las nuevas soluciones ofrecidas por el sistema. Por eso, le recomendamos que esté atento y no deje para realizar los cambios de última hora.
-</div>
+>⚠️ El objetivo de este artículo es permitir que usted ya empiece el proceso de actualización de las integraciones y personalizaciones de su tienda, pensando en las nuevas soluciones ofrecidas por el sistema. Por eso, le recomendamos que esté atento y no deje para realizar los cambios de última hora.
 
 
 ## Dirección en el carrito y en el pedido

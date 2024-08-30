@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'Ahora, usted puede subir una planilla XLS con todos los puntos de recogida que desea ofrecer en su tienda.'
 ---
 
-Usted no necesita más registrar puntos de recogida uno a uno. Ahora, el administrador le permite subir una planilla XLS [(como la de este ejemplo)](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls) con todos los puntos de recogida que desea ofrecer en su tienda.
+Usted no necesita más registrar puntos de recogida uno a uno. Ahora, el administrador le permite subir una planilla XLS [(como la de este ejemplo)](https://assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls) con todos los puntos de recogida que desea ofrecer en su tienda.
 
 
 ## Más agilidad en sus configuraciones de logística

@@ -3,8 +3,8 @@ title: 'Ver detalles del pedido'
 id: 204AjAQseJe8RLUi8GAhiC
 status: PUBLISHED
 createdAt: 2019-11-14T15:12:10.952Z
-updatedAt: 2023-03-29T15:17:48.189Z
-publishedAt: 2023-03-29T15:17:48.189Z
+updatedAt: 2023-11-08T14:56:01.508Z
+publishedAt: 2023-11-08T14:56:01.508Z
 firstPublishedAt: 2019-11-18T12:20:18.851Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -22,9 +22,16 @@ Además, la búsqueda ofrece un filtro muy flexible, que explicaremos en detalle
 
 Para comprender la lista de pedidos en detalle, consulte el artículo [Visión general de la lista de pedidos](https://help.vtex.com/es/tutorial/listado-de-pedidos--tutorials_200)
 
+Además de buscar pedidos en **Pedidos > Todos los pedidos**, puede buscar pedidos desde cualquier página del Admin VTEX utilizando la barra de búsqueda global en la parte superior de la página. Por defecto, la búsqueda está configurada en `Páginas`. Para buscar un pedido, haga clic en la barra, seleccione la opción `Pedidos` y utilice cualquiera de los siguientes criterios:
+
+- ID del pedido
+- Nombre del cliente
+- Email del cliente
+- Documento del cliente
+
 ## Ver los detalles de un pedido
 
-Hacer clic en un pedido lleva a la pantalla __detalles del pedido__, donde puede revisar un rango de información del pedido y realizar algunas acciones, tales como:
+Hacer clic en un pedido lleva a la pantalla [detalles del pedido](https://help.vtex.com/es/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), donde puede revisar un rango de información del pedido y realizar algunas acciones, tales como:
 - Volver a enviar el último correo electrónico al cliente.
 - Cancelar manualmente el pedido.
 - Facturar los artículos del pedido.
@@ -42,9 +49,7 @@ En la plataforma VTEX también hay una funcionalidad para unificar la comunicaci
 
 Todos los datos del cliente se ingresan en el momento del cierre del pedido y no se pueden cambiar aquí. Para ver y administrar estos datos, usted puede acceder al Master Data.]
 
-<div class="alert alert-info">
-Si su tienda solo actúa como seller de un pedido, no se mostrará el correo electrónico del cliente. Entendemos que la relación del cliente es con el marketplace, por lo que no es recomendable compartir sus datos con el seller sin consentimiento previo.
-  </div>
+>ℹ️ Si su tienda solo actúa como seller de un pedido, no se mostrará el correo electrónico del cliente. Entendemos que la relación del cliente es con el marketplace, por lo que no es recomendable compartir sus datos con el seller sin consentimiento previo.
 
 ### Valor total
 

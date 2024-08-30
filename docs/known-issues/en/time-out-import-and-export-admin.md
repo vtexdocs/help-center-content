@@ -3,8 +3,8 @@ title: 'Time Out - Import and Export Admin'
 id: 5sPtDgOXtiGcYMvZL7aCf8
 status: PUBLISHED
 createdAt: 2022-03-10T12:36:57.023Z
-updatedAt: 2022-11-25T21:46:35.375Z
-publishedAt: 2022-11-25T21:46:35.375Z
+updatedAt: 2024-01-19T15:24:38.444Z
+publishedAt: 2024-01-19T15:24:38.444Z
 firstPublishedAt: 2022-03-10T12:36:57.461Z
 contentType: knownIssue
 productTeam: Catalog
@@ -23,6 +23,7 @@ For some accounts with lots of products, the import and export admin does not lo
 
 
 
+##
 
 ## Simulation
 
@@ -31,6 +32,7 @@ Go to `/admin/Site/Relatorio_Skus.aspx `
 
 
 
+##
 
 ## Workaround
 

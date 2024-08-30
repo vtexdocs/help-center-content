@@ -3,8 +3,8 @@ title: '[Falha em criar variações de produtos'
 id: 5IKAkqtm8eejg2IhzrCgSz
 status: PUBLISHED
 createdAt: 2022-10-25T16:29:19.572Z
-updatedAt: 2023-02-07T12:56:37.721Z
-publishedAt: 2023-02-07T12:56:37.721Z
+updatedAt: 2024-02-16T20:24:45.182Z
+publishedAt: 2024-02-16T20:24:45.182Z
 firstPublishedAt: 2022-10-25T16:29:20.906Z
 contentType: knownIssue
 productTeam: Connections
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: falha-em-criar-variacoes-de-produtos
 locale: pt
-kiStatus: Fixed
+kiStatus: No Fix
 internalReference: 685160
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

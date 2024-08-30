@@ -1,10 +1,10 @@
 ---
-title: ' XML - Símbolo de moeda em campo "Parcelamento"'
+title: " XML - Símbolo de moeda em campo 'Parcelamento'"
 id: 4s7hBA1MAUgeEC2Q4K8gKM
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-06-26T15:22:31.980Z
-updatedAt: 2022-12-22T20:48:49.927Z
-publishedAt: 2022-12-22T20:48:49.927Z
+updatedAt: 2024-02-02T20:08:19.240Z
+publishedAt: 
 firstPublishedAt: 2017-06-26T23:18:58.653Z
 contentType: knownIssue
 productTeam: Marketing & Merchandising
@@ -22,7 +22,8 @@ Ao configurar uma moeda em um XML, a mesma se aplica a todos os campos, exceto o
 
 O campo **Parcelamento** sempre mostra a moeda "R$", independentemente do fato de que a moeda configurada seja diferente.
 
-![Parcelamento](//files.slack.com/files-pri/T02BCPD0X-F5WHSHM5E/image.png)
+![Parcelamento](https://github.com/vtexdocs/devportal/assets/77292838/7a6323e9-da76-4645-a13a-fcd1202efe52)
+
 
 ## Simulação
 

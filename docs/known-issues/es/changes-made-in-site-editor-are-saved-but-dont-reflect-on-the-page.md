@@ -18,9 +18,7 @@ internalReference: 786145
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando creas una nueva página en Pages y luego cambias su ruta a algo diferente, el routeId no cambia. Así que cuando cree otra página con la misma ruta que la primera, el routeId seguirá siendo el mismo. Y entonces el editor del sitio tendrá problemas para guardar el contenido de estas dos páginas debido al conflicto en sus rutas.

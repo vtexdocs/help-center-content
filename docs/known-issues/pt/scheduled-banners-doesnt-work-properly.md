@@ -18,9 +18,7 @@ internalReference: 400194
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao programar um banner no CMS, ele não funciona como pretendido e muitas vezes o banner cai ou não mostra todas as informações nele contidas.

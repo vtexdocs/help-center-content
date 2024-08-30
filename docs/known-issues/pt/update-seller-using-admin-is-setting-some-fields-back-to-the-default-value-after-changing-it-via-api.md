@@ -3,8 +3,8 @@ title: 'Atualizar vendedor usando Admin está definindo alguns campos de volta p
 id: 2gtqnZmCW59OKoqRpU3UaQ
 status: PUBLISHED
 createdAt: 2022-06-30T12:21:23.852Z
-updatedAt: 2022-11-25T22:00:35.980Z
-publishedAt: 2022-11-25T22:00:35.980Z
+updatedAt: 2024-02-16T20:28:26.435Z
+publishedAt: 2024-02-16T20:28:26.435Z
 firstPublishedAt: 2022-06-30T12:21:24.538Z
 contentType: knownIssue
 productTeam: Marketplace
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: atualizar-vendedor-usando-admin-esta-definindo-alguns-campos-de-volta-para-o-valor-padrao-depois-de-modificalo-via-api
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 608120
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

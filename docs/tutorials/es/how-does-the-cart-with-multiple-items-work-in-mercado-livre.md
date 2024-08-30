@@ -31,6 +31,4 @@ Usted puede encontrar los dos IDs a través del informe enviado desde el panel d
 
 ![mercalo-livre-pedido-id-es](https://images.ctfassets.net/alneenqid6w5/5JOUHJijbIVncRSfvx5lnC/6cceef1724619d4cd8d332d0e5aad89b/mercalo-livre-pedido-id-es.png)
 
-<div class="alert alert-warning">
-Esta lógica de funcionamiento se aplica a todos los tipos de entrega, con excepción de aquellos que incluyen pickup points. En estos casos, la plataforma sigue utilizando el identificador antiguo.
-</div>
+>⚠️ Esta lógica de funcionamiento se aplica a todos los tipos de entrega, con excepción de aquellos que incluyen pickup points. En estos casos, la plataforma sigue utilizando el identificador antiguo.

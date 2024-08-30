@@ -3,8 +3,8 @@ title: 'Precio fijo que se crea en la política comercial 1 al guardar los preci
 id: 3Xbh5GVn0jm2yhaOiRg3Le
 status: PUBLISHED
 createdAt: 2022-11-28T12:41:07.808Z
-updatedAt: 2022-11-28T12:41:08.426Z
-publishedAt: 2022-11-28T12:41:08.426Z
+updatedAt: 2024-02-16T20:24:01.848Z
+publishedAt: 2024-02-16T20:24:01.848Z
 firstPublishedAt: 2022-11-28T12:41:08.426Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: precio-fijo-que-se-crea-en-la-politica-comercial-1-al-guardar-los-precios-de-los-paquetes
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 705869
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

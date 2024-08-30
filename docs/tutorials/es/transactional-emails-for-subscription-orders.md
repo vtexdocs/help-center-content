@@ -3,8 +3,8 @@ title: 'Correos Electrónicos Transaccionales para Pedidos de Suscripción'
 id: 2NYHqHMRqZ43Cn6s84ZCB5
 status: PUBLISHED
 createdAt: 2020-02-11T15:13:38.504Z
-updatedAt: 2021-11-30T18:14:37.654Z
-publishedAt: 2021-11-30T18:14:37.654Z
+updatedAt: 2023-12-21T14:14:10.536Z
+publishedAt: 2023-12-21T14:14:10.536Z
 firstPublishedAt: 2020-02-17T21:15:14.903Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -27,6 +27,8 @@ Para acceder a los correos electrónicos transaccionales de los pedidos de Suscr
 También puede crear su propia plantilla de correo electrónico. Entienda mejor cómo [configurar las plantillas de correo electrónico transaccionales en la plataforma VTEX.](https://help.vtex.com/es/tutorial/como-funciona-el-message-center/)
 
 ## Cómo su cliente acompaña sus pedidos de suscripción
+
+>ℹ️ En [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
 
 Cada acción, que ocurre dentro del flujo de pedidos de Suscripción, contiene un gatillo que dispara un correo electrónico notificando a su cliente.  Una vez activada la suscripción, el cliente recibirá correos electrónicos con detalles del status de cada pedido de suscripción cada vez que realice una acción. 
 

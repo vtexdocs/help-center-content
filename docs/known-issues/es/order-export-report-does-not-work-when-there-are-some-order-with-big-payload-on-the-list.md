@@ -18,9 +18,7 @@ internalReference: 832429
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La exportación de pedidos no funciona correctamente porque la tarea de exportar se cancela cuando hay un pedido en la lista con una gran carga útil, por ejemplo en el caso de un pedido con más de 500 elementos en json.

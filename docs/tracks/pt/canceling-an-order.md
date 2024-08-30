@@ -3,8 +3,8 @@ title: 'Cancelar pedido'
 id: 4ts2ItvjYo8wm5gg76miS3
 status: PUBLISHED
 createdAt: 2019-11-18T11:50:32.691Z
-updatedAt: 2023-03-22T23:28:21.211Z
-publishedAt: 2023-03-22T23:28:21.211Z
+updatedAt: 2024-04-01T18:04:36.603Z
+publishedAt: 2024-04-01T18:04:36.603Z
 firstPublishedAt: 2019-11-18T12:20:50.741Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -19,9 +19,9 @@ trackSlugPT: pedidos
 - Por API.
 - Por solicitação do próprio cliente.
 
-<div class="alert alert-warning">
-Uma vez que o pedido seja cancelado, não é possível alterar o seu status. Pedidos com status <b>Faturado</b> não podem ser cancelados.
-</div>
+>⚠️ Uma vez que o pedido seja cancelado, não é possível alterar o seu status. Pedidos com status **Faturado** não podem ser cancelados.
+
+>ℹ️ Não é possível [cancelar pedidos](https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 ## Cancelamento pelo módulo Pedidos
 

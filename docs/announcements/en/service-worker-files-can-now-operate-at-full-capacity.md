@@ -19,9 +19,9 @@ __Service Worker__ files now can intercept requests from all parts of your store
 
 The upgrade in the __Service Worker__ permissions broadens the possibilities for your store, like turning it into a PWA (Progressive Web App). This solution allows users to access a certain website like they would do in a smartphone app, but without the inconvenience of having to download it. The only requirement is saving the website in the home screen. And you don't even have to be connected to the internet to browse through it's content.
 
-<div class="alert alert-warning">
-<strong>Warning:</strong><br>
-VTEX's platform <strong>doesn't have</strong> a feature to turn your store into a PWA. It only offers the conditions to enable the implementation.
-</div>
+>⚠️ **Warning:**
+>
+> 
+> VTEX's platform **doesn't have** a feature to turn your store into a PWA. It only offers the conditions to enable the implementation.
 
 Read this [VTEX Help article](/en/tutorial/how-to-install-a-service-worker) to learn how to install a __Service Worker__ file in your store.

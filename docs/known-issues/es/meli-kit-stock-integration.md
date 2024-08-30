@@ -18,9 +18,7 @@ internalReference: 489220
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Necesitamos investigar y solucionar el problema al enviar el balance de stock a MELI cuando el artículo es un KIT. Envíe el saldo de existencias del KIT en lugar de las existencias de la SKU.

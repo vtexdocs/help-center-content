@@ -15,6 +15,4 @@ legacySlug: lista-da-vez
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---
 
-<div class="alert alert-warning">
-  <p>This content is only available in Portuguese.</p>
-</div>  
+>⚠️ This content is only available in Portuguese.  

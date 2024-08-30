@@ -3,8 +3,8 @@ title: 'Contas a Pagar - Brasil'
 id: tutorials_660
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:25.003Z
-updatedAt: 2023-01-24T21:41:37.901Z
-publishedAt: 2023-01-24T21:41:37.901Z
+updatedAt: 2024-02-23T15:08:20.685Z
+publishedAt: 2024-02-23T15:08:20.685Z
 firstPublishedAt: 2017-04-27T23:03:40.609Z
 contentType: tutorial
 productTeam: Billing
@@ -17,9 +17,7 @@ subcategory: 22TaEgFhwE6a6CG2KASYkC
 
 Para garantir a conformidade dos pagamentos dos fornecedores, esse artigo contém informações referentes aos procedimentos de contas a pagar das empresas VTEX Brasil.
 
-<div class="alert alert-info">
-Os documentos e informações que não estiverem adequados à política da VTEX serão devolvidos para as devidas providências de adequação.
-</div>
+>ℹ️ Os documentos e informações que não estiverem adequados à política da VTEX serão devolvidos para as devidas providências de adequação.
 
 - Não são aceitas notas fiscais emitidas e recebidas após o dia 20 de cada mês. O solicitante deve garantir que o fornecedor cancele a cobrança e reemita na data entre dia 1 até dia 20 do mês seguinte.  
 - Os pagamentos são realizados até o dia 26 de cada mês.    

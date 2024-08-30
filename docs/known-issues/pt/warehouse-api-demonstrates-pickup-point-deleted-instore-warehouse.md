@@ -18,9 +18,7 @@ internalReference: 573017
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando você apaga um ponto de coleta ligado a um depósito (inStore warehouse), o ponto de coleta permanece ligado ao depósito se você o consultar via API.

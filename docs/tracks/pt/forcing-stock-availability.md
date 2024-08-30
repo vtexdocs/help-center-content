@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugPT: forcar-disponibilidade-de-estoque
 ---
 
-<div class="alert alert-danger">
-A configuração para forçar disponibilidade de estoque, explicada neste artigo, envolve e alteração do arquivo <code>checkout-instore-custom.js</code>. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos.
-</div>
+>❗ A configuração para forçar disponibilidade de estoque, explicada neste artigo, envolve e alteração do arquivo `checkout-instore-custom.js`. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos.
 
 Por padrão, se um SKU tem estoque zerado no catálogo da loja, não é possível realizar uma venda desse SKU com o inStore.
 
@@ -34,6 +32,4 @@ window.INSTORE_CONFIG = {
 }
 ```
 
-<div class="alert alert-danger">
-Não remova nenhuma das outras propriedades presentes no objeto <code>window.INSTORE_CONFIG</code>, para evitar a quebra de outras funcionalidades.
-</div>
+>❗ Não remova nenhuma das outras propriedades presentes no objeto `window.INSTORE_CONFIG`, para evitar a quebra de outras funcionalidades.

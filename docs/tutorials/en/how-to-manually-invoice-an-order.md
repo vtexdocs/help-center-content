@@ -3,8 +3,8 @@ title: 'How to invoice an order'
 id: 7p1h852V5t54KyscpgxE2v
 status: PUBLISHED
 createdAt: 2020-12-28T20:50:42.445Z
-updatedAt: 2023-05-31T14:44:54.458Z
-publishedAt: 2023-05-31T14:44:54.458Z
+updatedAt: 2024-04-01T17:55:58.671Z
+publishedAt: 2024-04-01T17:55:58.671Z
 firstPublishedAt: 2020-12-28T21:01:55.107Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -21,12 +21,10 @@ It is also on this page that the store can manually add and check the [order inv
 
 To invoice the order on the VTEX platform, you need to add the items' invoice to the **Orders** module. You must invoice the order so that the invoice is available to the customer and the [order flow](https://help.vtex.com/en/tutorial/order-flow-on-the-oms--tutorials_196) is complete. The invoice can be sent:
 
-* Via [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice) 
+* Via [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
 * Via VTEX Admin.
 
-<div class = "alert alert-info">
-You can change the <a href="https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE">carrier</a> associated with the order when invoicing it. To do so, in the <b>Order Tracking</b> section, click <i>Carrier</i> and select the desired option.
-</div>
+>ℹ️ You can change the [carrier](https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) associated with the order when invoicing it. To do so, in the **Order Tracking** section, click <i>Carrier</i> and select the desired option.
 
 To send the invoice via VTEX Admin, follow the steps below:
 
@@ -68,3 +66,4 @@ After the order is `Invoiced`, go to the **Invoice** section to check the invoic
 
 For [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), when [changing or removing items from an order](https://help.vtex.com/en/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), the order total will be updated after invoicing and will correspond to what is captured by the VTEX payment gateway.
 
+Orders with [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).

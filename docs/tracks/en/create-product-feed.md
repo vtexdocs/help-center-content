@@ -28,7 +28,7 @@ To make product updates available to Lengow, you must [configure an XML feed](ht
 
 - **File Name:** `lengow.xml`
 - **Collection:** `Lengow` (or another name you chose)
-- **Show Unavailable SKUs:** <img src="https:https://images.ctfassets.net/alneenqid6w5/3tqaZgkyGMFRCdDIpQoU4v/ae419a4f9ff8c73c32964bcc8d3391f9/image3.png"/> (enabled)
+- **Show Unavailable SKUs:** <img src="https://images.ctfassets.net/alneenqid6w5/3tqaZgkyGMFRCdDIpQoU4v/ae419a4f9ff8c73c32964bcc8d3391f9/image3.png"/> (enabled)
 
 The feed itself should then be filled in as seen in the image below:
 

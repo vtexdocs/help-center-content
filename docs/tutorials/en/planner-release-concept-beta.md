@@ -15,9 +15,7 @@ legacySlug: planner-release-concept-beta
 subcategory: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
-<div class="alert alert-info">
-  <p>The <strong>Releases</strong> is in beta version, which means we are working to improve it. This feature is only available for stores using <a href="https://www.faststore.dev/">FastStore</a>.</p>
-</div>
+>ℹ️ The **Releases** is in beta version, which means we are working to improve it. This feature is only available for stores using [FastStore](https://www.faststore.dev/).
 
 Managing an ecommerce operation requires the retailer to perform a series of store updates to the store, which are often interconnected. For example, carrying out an advertising campaign in which different storefront elements need to be configured.
 
@@ -30,9 +28,7 @@ A release means a change or a group of changes that can be published together. T
 * Greater control when testing and reviewing modifications prior to their publication.
 * Ease in scheduling or deleting groups of modifications.
 
-<div class="alert alert-warning">
-  <p>In the beta version, releases must be <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">CMS</a>-related, because other VTEX platform modules are not yet included. To use the <strong>Releases</strong>, you must configure the CMS as described in <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.</p>
-</div>
+>⚠️ In the beta version, releases must be [CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 The feature can be accessed through the VTEX Admin **Releases** navigation menu, where you'll find the following pages:
 

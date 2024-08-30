@@ -17,9 +17,7 @@ subcategory:
 
 Na VTEX, agora é possível oferecer o gateway [Spin Pay](https://spinpay.com.br/) para processar os pagamentos na sua loja. Com essa solução, você poderá receber via [PIX](https://help.vtex.com/pt/tutorial/pix-faq--3lx7zCU2lQroTEBCYKYbo3) e principais carteiras digitais disponíveis hoje no mercado.
 
-<div class="alert alert-warning">
-  Para utilizar o Spin Pay, na VTEX, é preciso que você tenha uma <b>Application Key (App Key)</b> e uma <b>Application Token (App Token)</b>. Esses dados são obtidos somente após a aprovação do seu cadastro pela Spin Pay e assinatura do contrato ou aceite do termo de adesão. Caso seu cadastro já tenha sido aprovado e o contrato assinado, siga as etapas a seguir.
-   </div>
+>⚠️ Para utilizar o Spin Pay, na VTEX, é preciso que você tenha uma **Application Key (App Key)** e uma **Application Token (App Token)**. Esses dados são obtidos somente após a aprovação do seu cadastro pela Spin Pay e assinatura do contrato ou aceite do termo de adesão. Caso seu cadastro já tenha sido aprovado e o contrato assinado, siga as etapas a seguir.
 
 Siga as etapas abaixo para configurar o Spin Pay na sua loja:
 
@@ -49,9 +47,7 @@ Com o gateway instalado em sua loja, é preciso configurar a [condição de paga
 9. Em __Usar Antifraude__, se você tiver uma solução contratada, habilite o campo e selecione a opção desejada.
 10. Clique em __Salvar__.
 
-<div class="alert alert-warning">
-  O Spin Pay é uma solução brasileira para pagamento instantâneo onde o débito acontece diretamente na conta do consumidor. Por este motivo, não é possível oferecer parcelamento.
-   </div>
+>⚠️ O Spin Pay é uma solução brasileira para pagamento instantâneo onde o débito acontece diretamente na conta do consumidor. Por este motivo, não é possível oferecer parcelamento.
 
 Com todas as etapas concluídas, o Spin Pay estará habilitado para processar os pagamentos em sua loja.
 

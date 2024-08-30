@@ -3,8 +3,8 @@ title: 'Omnichannel'
 id: 2LGAiUnHES1enjHsfi8fI3
 status: PUBLISHED
 createdAt: 2020-06-30T20:38:48.297Z
-updatedAt: 2023-05-31T14:45:20.583Z
-publishedAt: 2023-05-31T14:45:20.583Z
+updatedAt: 2023-07-26T18:50:02.780Z
+publishedAt: 2023-07-26T18:50:02.780Z
 firstPublishedAt: 2020-06-30T20:45:00.959Z
 contentType: trackArticle
 productTeam: Shopping
@@ -18,11 +18,11 @@ A evolução do varejo online trouxe uma série de melhorias à experiência do 
 
 ![32. Unified Commerce 101 - 2](https://images.ctfassets.net/alneenqid6w5/hZLcXdCI6EXa4lR4cNShc/1bb91baac796afbdedb890b1c6362e90/32._Unified_Commerce_101_-_2.png)
 
-Em uma arquitetura __multicanal__, cada canal se comunica de forma independente com a loja, seja o e-comerce, as lojas físicas, o SAC, as mídias sociais etc. Quando um cliente interage com um desses canais, a loja não tem conhecimento algum sobre quem é esse cliente.
+Em uma arquitetura __multicanal__, cada canal se comunica de forma independente com a loja, seja o ecomerce, as lojas físicas, o SAC, as mídias sociais etc. Quando um cliente interage com um desses canais, a loja não tem conhecimento algum sobre quem é esse cliente.
 
 Já em uma arquitetura __omnichannel__, os dados do cliente são compartilhados entre os canais da loja. Isso significa que, quando o cliente que já interagiu com a loja interage por um novo canal, a loja tem conhecimento sobre quem é esse cliente, qual é o histórico de pedidos dele, o perfil de compras etc.
 
-No omnichannel, entretanto, os pedidos ainda são processados de forma isolada. Embora haja compartilhamento de dados, os pedidos que acontecem no e-commerce vivem apenas no e-commerce, os que acontecem na loja física vivem apenas na loja física e assim por diante. Um pedido feito em um canal não pode ser concluído em outro, por exemplo.
+No omnichannel, entretanto, os pedidos ainda são processados de forma isolada. Embora haja compartilhamento de dados, os pedidos que acontecem no ecommerce vivem apenas no ecommerce, os que acontecem na loja física vivem apenas na loja física e assim por diante. Um pedido feito em um canal não pode ser concluído em outro, por exemplo.
 
 O __Comércio Unificado__ resolve esse problema.
 
@@ -33,7 +33,7 @@ O Comércio Unificado é uma evolução do omnichannel: além do compartilhament
 Veja abaixo alguns dos cenários possibilitados pelo Comércio Unificado:
 - __Prateleira Infinita__: cliente compra em um canal (em uma loja física, por exemplo) e recebe a partir do estoque de outra loja ou do Centro de Distribuição principal.
 - __Transação com carrinho misto__: cliente compra em uma loja física, retira um dos produtos na hora e recebe o outro em casa a partir de outro estoque.
-- __Retirada em loja__: cliente compra no e-commerce e retira os produtos em uma loja física.
+- __Retirada em loja__: cliente compra no ecommerce e retira os produtos em uma loja física.
 
 Na VTEX, estes e diversos outros cenários são possíveis porque o catálogo da marca fica acessível a todos os canais e o Sistema de Gestão de Pedidos faz a orquestração de todos os pedidos, sejam eles feitos online ou offline.
 

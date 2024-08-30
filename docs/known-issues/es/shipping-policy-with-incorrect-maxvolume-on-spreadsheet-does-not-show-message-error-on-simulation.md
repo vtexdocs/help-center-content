@@ -3,8 +3,8 @@ title: 'La política de envío con un MaxVolume incorrecto en la hoja de cálcul
 id: 7zIbmadcOfI3oHmkm8LmkY
 status: PUBLISHED
 createdAt: 2022-05-18T18:19:04.901Z
-updatedAt: 2022-11-25T21:59:49.182Z
-publishedAt: 2022-11-25T21:59:49.182Z
+updatedAt: 2024-02-16T20:25:21.794Z
+publishedAt: 2024-02-16T20:25:21.794Z
 firstPublishedAt: 2022-05-18T18:19:05.868Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: la-politica-de-envio-con-un-maxvolume-incorrecto-en-la-hoja-de-calculo-no-muestra-el-error-del-mensaje-en-la-simulacion
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 380471
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando la política de envío tiene el MaxVolume en la hoja de cálculo no hay ningún mensaje de error con respecto a esto en la simulación.

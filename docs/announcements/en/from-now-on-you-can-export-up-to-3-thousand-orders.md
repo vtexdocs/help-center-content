@@ -23,6 +23,4 @@ To ensure the best experience possible, we've been recommending the 3.000 orders
 ## How to export more than 3.000 orders
 You can still export more than 3.000 orders. To do so, you must use our orders management (formerly known as OMS) APIs: [Get Order](https://developers.vtex.com/reference/orders#getorder) and [Get Feed Order Status](https://developers.vtex.com/reference/feed-v3#getfeedorderstatus1).
 
-<div class="alert alert-warning">
-<strong>But remember:</strong> For it to work, it's necessary to <strong>create a date/hour range that includes up to 3.000 orders</strong>. After defining a range that respects this limit, you'll be able to make as many requests to the API as you want.
-</div>
+>⚠️ **But remember:** For it to work, it's necessary to **create a date/hour range that includes up to 3.000 orders**. After defining a range that respects this limit, you'll be able to make as many requests to the API as you want.

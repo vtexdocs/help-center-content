@@ -33,15 +33,11 @@ Exemplo:
 
 - **URL do carrinho compartilhado**: `https://www.{nomedaloja}.com/checkout/?orderFormId=31155bb8fd6944c99829c171aa8ed5c4#/cart`
 
-<div class="alert alert-warning">
-Ao montar a URL do carrinho compartilhado, garanta que a querystring <b>?orderFormId=...</b> seja posicionada entre <b>/checkout/</b> e <b>#/cart</b>.
-</div>
+>⚠️ Ao montar a URL do carrinho compartilhado, garanta que a querystring **?orderFormId=...** seja posicionada entre **/checkout/** e **#/cart**.
 
 Para obter acesso a informações de identificação de carrinhos, confira a [Checkout API](https://developers.vtex.com/vtex-rest-api/reference/checkout-api-overview).
 
-<div class="alert alert-info">
-A utilização da funcionalidade do carrinho abandonado é opcional, não gerando impacto para lojas que não fizerem o seu uso.
-</div>
+>ℹ️ A utilização da funcionalidade do carrinho abandonado é opcional, não gerando impacto para lojas que não fizerem o seu uso.
 
 ## Segurança das informações
 
@@ -54,6 +50,4 @@ Para saber mais sobre proteção de dados, acesse [Segurança do SmartCheckout](
 Quando novos parâmetros são inseridos em uma URL, como por exemplo a `querystring`, o rastreamento de páginas pode ser alterado, impactando avaliações realizadas por sistemas como o funil de conversão do Google Analytics. Para utilizar serviço de rastreamento de páginas com parâmetros adicionais, veja as regras atualizadas em 
 [como configurar funil de vendas no Google Analytics](https://help.vtex.com/pt/faq/configurar-funil-de-vendas-no-google-analytics).
 
-<div class="alert alert-info">
-Caso utilize outro sistema de rastreamento de página em sua loja, verifique a documentação interna deste sistema.
-</div>
+>ℹ️ Caso utilize outro sistema de rastreamento de página em sua loja, verifique a documentação interna deste sistema.

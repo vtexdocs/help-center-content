@@ -18,9 +18,7 @@ internalReference: 768954
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao tentar adicionar uma nova identificação de fornecedor pela primeira vez em uma conta, em vez de adicionar um novo fornecedor, o atual fornecedor nativo (VtexGiftCard) é atualizado.

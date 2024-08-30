@@ -1,5 +1,5 @@
 ---
-title: 'A conta principal está sendo selecionada como "Merchant.Name" no ambiente da sub-conta'
+title: "A conta principal está sendo selecionada como 'Merchant.Name' no ambiente da sub-conta"
 id: 51coXFBM2wtrJukH3oRESy
 status: PUBLISHED
 createdAt: 2023-03-29T20:54:19.877Z
@@ -18,9 +18,7 @@ internalReference: 780767
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando uma subconta está processando transações, o órgão solicitante está enviando o imóvel "nome do comerciante" com o nome da conta principal. Em alguns casos, devido a este comportamento, o conector não pode autorizar as transações do lado deles, causando a perda das ordens.

@@ -3,8 +3,8 @@ title: 'Configurar pagamento com a Dock'
 id: 3Y0tLnXjBcG9qxHwAHGbHn
 status: PUBLISHED
 createdAt: 2022-07-19T19:58:56.608Z
-updatedAt: 2023-03-26T21:25:49.936Z
-publishedAt: 2023-03-26T21:25:49.936Z
+updatedAt: 2024-01-23T18:08:45.414Z
+publishedAt: 2024-01-23T18:08:45.414Z
 firstPublishedAt: 2022-07-19T20:12:07.212Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-a-dock
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Dock. Por meio deste conector, sua loja pode realizar vendas por meio do cartão de crédito, débito e private labels.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Dock. Por meio deste provedor, sua loja pode realizar vendas por meio do cartão de crédito, débito e private labels.
 
-Para configurar a afiliação Dock, siga os passos abaixo:
+Para configurar Dock, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __DOCK__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __DOCK__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta Dock.
 5. Em __Captura Automática de Pagamento__, selecione uma das opções disponíveis:
 

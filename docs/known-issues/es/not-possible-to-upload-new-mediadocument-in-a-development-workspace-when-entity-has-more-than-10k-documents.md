@@ -3,8 +3,8 @@ title: 'No es posible cargar nuevos medios/documentos en un espacio de trabajo d
 id: zhDX1xoXAifH9tYroXCFn
 status: PUBLISHED
 createdAt: 2023-04-24T20:01:04.211Z
-updatedAt: 2023-05-08T18:00:19.246Z
-publishedAt: 2023-05-08T18:00:19.246Z
+updatedAt: 2024-06-28T16:07:27.058Z
+publishedAt: 2024-06-28T16:07:27.058Z
 firstPublishedAt: 2023-04-24T20:01:04.779Z
 contentType: knownIssue
 productTeam: CMS
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: no-es-posible-cargar-nuevos-mediosdocumentos-en-un-espacio-de-trabajo-de-desarrollo-cuando-la-entidad-tiene-mas-de-10k-documentos
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 795940
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

@@ -43,9 +43,7 @@ Siga o passo a passo abaixo para cadastrar uma Doca na sua loja:
 -   _Tempo de Custo_: tempo que será adicionado ao cálculo da entrega por conta da etapa desta doca. 
 >_Ex.:_  tempo de custo do estoque (2 dias) + tempo de custo da doca (3 dias) + tempo de custo da transportadora (1 dia) = entrega será realizada em 6 dias.
 
-<div class="alert alert-info">
-<strong>Atenção</strong>: o prazo de uma doca independe de uma transportadora funcionar - ou não - em finais de semanas e feriados. O tempo de entrega sempre será a soma do tempo do estoque, da transportadora e da doca.  
-</div>
+>ℹ️ **Atenção**: o prazo de uma doca independe de uma transportadora funcionar - ou não - em finais de semanas e feriados. O tempo de entrega sempre será a soma do tempo do estoque, da transportadora e da doca.
 
 -   _Overhead de tempo de custo_: valor que será usado para a escolha da doca mais vantajosa em determinada entrega. Este valor não é adicionado ao cálculo de tempo de entrega.
 >_Ex.:_  as docas A e B têm tempo de custo de 3 dias, mas a doca A tem overhead de 1 dia, enquanto a doca B tem overhead de 2 dias. Neste caso, a doca A será escolhida.
@@ -58,9 +56,7 @@ Siga o passo a passo abaixo para cadastrar uma Doca na sua loja:
 
 ## API REST
 
-<div class="alert alert-warning">
-As autenticações para as chamadas de API REST do módulo de Estoque & Entrega devem ser feitas via AppKey e AppToken. Para entender mais, acesse nosso artigo sobre <a href="https://help.vtex.com/pt/tutorial/criar-appkey-e-apptoken-para-autenticar-integracoes--43tQeyQJgAKGEuCqQKAOI2">como gerar um Appkey e um AppToken para autenticar suas integrações</a>
-</div>
+>⚠️ As autenticações para as chamadas de API REST do módulo de Estoque & Entrega devem ser feitas via AppKey e AppToken. Para entender mais, acesse nosso artigo sobre [como gerar um Appkey e um AppToken para autenticar suas integrações](https://help.vtex.com/pt/tutorial/criar-appkey-e-apptoken-para-autenticar-integracoes--43tQeyQJgAKGEuCqQKAOI2)
 
 Para cadastrar uma **Doca** por API, você precisa enviar um __POST__ para o seguinte endpoint:
 

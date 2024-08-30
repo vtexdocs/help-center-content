@@ -19,4 +19,4 @@ Recomendamos limitar compras a um meio de pagamento [por política comercial](/p
 
 Outra forma, talvez mais simples, é customizar o Checkout, de forma que o CSS omita os meios de pagamentos quando houver a utm correspondente.
 
-<div class="alert alert-danger">Mas vale lembrar que a VTEX não recomenda customizações no Checkout, uma vez que o SmartCheckout foi feito para maximizar a eficiência no fluxo de fechamento de compra.</div>
+>❗ Mas vale lembrar que a VTEX não recomenda customizações no Checkout, uma vez que o SmartCheckout foi feito para maximizar a eficiência no fluxo de fechamento de compra.

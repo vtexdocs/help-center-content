@@ -130,4 +130,4 @@ em até{{#hasSubStr shippingEstimate 'bd'}}
 ```
 
 **Resultado**:
-![](//images.contentful.com/alneenqid6w5/5cRmcM2692G60Ok6gSAWmo/f7196556f5360f632dbccf47f837b5b9/3.1.jpg)
+![](https://images.contentful.com/alneenqid6w5/5cRmcM2692G60Ok6gSAWmo/f7196556f5360f632dbccf47f837b5b9/3.1.jpg)

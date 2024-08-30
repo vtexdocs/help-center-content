@@ -3,8 +3,8 @@ title: 'Pedido sin suscripción Creado y sin correo electrónico de Nuevos Pedid
 id: 747TGL3sy1mmM1LnVkEjuO
 status: PUBLISHED
 createdAt: 2022-02-21T20:54:35.174Z
-updatedAt: 2022-11-25T22:03:15.831Z
-publishedAt: 2022-11-25T22:03:15.831Z
+updatedAt: 2024-02-16T20:23:42.061Z
+publishedAt: 2024-02-16T20:23:42.061Z
 firstPublishedAt: 2022-05-18T18:43:19.767Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: pedido-sin-suscripcion-creado-y-sin-correo-electronico-de-nuevos-pedidos-en-casos-relacionados-con-el-metodo-de-pago-utilizando-conectores-como-payment-app-o-redirect
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 529143
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Para los pedidos con método de pago que utilizan conectores como la aplicación de pago o la redirección no hay ningún GatewayCallback para Checkout que sea responsable de crear la suscripción y enviar un correo electrónico de nuevo pedido.

@@ -3,8 +3,8 @@ title: 'What is an affiliate'
 id: 4bN3e1YarSEammk2yOeMc0
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:48.620Z
-updatedAt: 2022-10-05T18:24:46.905Z
-publishedAt: 2022-10-05T18:24:46.905Z
+updatedAt: 2024-05-23T16:09:45.545Z
+publishedAt: 2024-05-23T16:09:45.545Z
 firstPublishedAt: 2019-01-24T22:01:57.938Z
 contentType: tutorial
 productTeam: Channels
@@ -15,9 +15,7 @@ legacySlug: what-is-affiliate
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-<div class="alert alert-info"> 
-Affiliates in VTEX are different from the <a href="https://en.wikipedia.org/wiki/Affiliate_marketing">usual definition</a>. Read below to learn more. 
-</div>
+>ℹ️ Affiliates in VTEX are different from the [usual definition](https://en.wikipedia.org/wiki/Affiliate_marketing). Read below to learn more.
 
 [Configuring an affiliate](https://help.vtex.com/en/tutorial/como-configurar-afiliado) will only be necessary when the store acts as a seller in a marketplace.
 

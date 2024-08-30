@@ -30,7 +30,7 @@ Este guía le ayudará a usted a personalizar la configuración de su tienda par
 
 Al abrirse la aplicación por primera vez, ella pregunta cuál es el nombre de la tienda que será usada. Conforme a la pantalla a continuación, basta digitar el nombre de su tienda para tener cargadas para el app las configuraciónes.
 
-![instore-identificacao-loja](//images.contentful.com/alneenqid6w5/20IMJOo5Kc8Kw4OqicCQyc/8a76ed7d6c16d6b269518d430998ec44/instore-identificacao-loja.png)
+![instore-identificacao-loja](https://images.contentful.com/alneenqid6w5/20IMJOo5Kc8Kw4OqicCQyc/8a76ed7d6c16d6b269518d430998ec44/instore-identificacao-loja.png)
 
 ### Cómo registrar una tienda física
 
@@ -40,14 +40,14 @@ Para gestionar su registro de tiendas físicas basta acceder a su Masterdata. Cu
 
 *Si usted no encuentra esa aplicación, significa que su ambiento no fue todavía correctamente configurado. Para tanto, recomendamos el tutorial de configuración de ambiente para uso del inStore.*
 
-![masterdata-home-loja](//images.contentful.com/alneenqid6w5/2uBujqshwgCUkKkeEKWaEU/121417a9d25e998c8bb7a29f85ab1830/masterdata-home-loja.png)
+![masterdata-home-loja](https://images.contentful.com/alneenqid6w5/2uBujqshwgCUkKkeEKWaEU/121417a9d25e998c8bb7a29f85ab1830/masterdata-home-loja.png)
 
 Cuando usted haga clic en listar, va a aparecer una lista de tiendas registradas, como muestra la imagen a continuación. Haga clic en "Nuevo" para registrar una nueva tienda.
 
-![cadastrar-loja](//images.contentful.com/alneenqid6w5/2UxKo2u6CsEagsIYuo8Emy/8c922392c6f0b9373f497575af2cefaf/cadastrar-loja.png)
+![cadastrar-loja](https://images.contentful.com/alneenqid6w5/2UxKo2u6CsEagsIYuo8Emy/8c922392c6f0b9373f497575af2cefaf/cadastrar-loja.png)
 
 Rellene los datos de la tienda en el formulario y después haga clic en "salvar".
 
-![cadastrar-loja-formulario](//images.contentful.com/alneenqid6w5/3t3edGHxuo8WoYqkeYmIou/98d23008f916793e6cab618e33905dc2/cadastrar-loja-formulario.png)
+![cadastrar-loja-formulario](https://images.contentful.com/alneenqid6w5/3t3edGHxuo8WoYqkeYmIou/98d23008f916793e6cab618e33905dc2/cadastrar-loja-formulario.png)
 
 Ya está. ¡Su tienda está registrada! 😃 ¡Ahora usted puede continuar registrando a los vendedores! Vea [aquí](/es/tutorial/como-registrar-vendedores-en-el-vtex-instore) cómo hacerlo.

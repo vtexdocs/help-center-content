@@ -14,9 +14,7 @@ trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup
 ---
 
-<div class="alert alert-info">
-Warning: This documentation is being updated to reflect the concept change from Pannels to <a href="https://help.vtex.com/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">shipping strategy</a>.
-</div>
+>ℹ️ Warning: This documentation is being updated to reflect the concept change from Pannels to [shipping strategy](https://help.vtex.com/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl).
 
 
 To set up the inStore with __Delivery at Home__, that is, to consider the inventory of your physical store, you need to do two things:

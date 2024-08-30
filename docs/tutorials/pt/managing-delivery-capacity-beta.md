@@ -15,15 +15,11 @@ legacySlug: gerenciar-capacidade-de-entrega-beta
 subcategory: 
 ---
 
-<div class="alert alert-warning">
-Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
-</div>
+>⚠️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 Você pode acompanhar a disponibilidade de janelas de entrega e a quantidade de itens/pedidos que ainda podem ser realizados em cada janela de entrega através da página de Capacidade de entrega.
 
-<div class="alert alert-warning">
-Para gerenciar sua capacidade de entrega você precisa ter políticas de envio previamente cadastradas, entrega agendada habilitada e capacidade de entrega previamente configurada. Leia [Política de envio](colocarlink) e [Entrega agendada](colocarlink) para saber como realizar este cadastro e configuração.
-</div>
+>⚠️ Para gerenciar sua capacidade de entrega você precisa ter políticas de envio previamente cadastradas, entrega agendada habilitada e capacidade de entrega previamente configurada. Leia [Política de envio](colocarlink) e [Entrega agendada](colocarlink) para saber como realizar este cadastro e configuração.
 O gerenciamento da capacidade de entrega é feito no menu **Estoque & Entrega > Capacidade de entrega** no Admin. 
 
 Ao clicar em Capacidade de entrega, você verá uma página que contém uma lista das janelas de entrega da sua loja. A lista apresentada se refere à política de envio selecionada no filtro Política de envio e ao período selecionado no filtro Data.
@@ -37,6 +33,4 @@ Uma vez selecionada a política de envio e a data a serem apresentadas na lista,
 *   **Disponível**: quantos itens/pedidos ainda estão disponíveis para agendamento (a quantidade de capacidade menos reservado)
 *   **Status**: pode ser visível ou não visível, dependendo da janela de entrega ainda está disponível. A janela ficará com status visível para seus clientes se ela ainda estiver disponível.
 
-<div class="alert alert-info">
-Você pode clicar em EDITAR POLÍTICA DE ENVIO para ser redirecionado à tela de edição da política de envio selecionada no filtro Política de envio.
-</div>
+>ℹ️ Você pode clicar em EDITAR POLÍTICA DE ENVIO para ser redirecionado à tela de edição da política de envio selecionada no filtro Política de envio.

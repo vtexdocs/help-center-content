@@ -24,9 +24,7 @@ Além disso, o preenchimento correto da planilha depende de duas regras. São el
 - Cada coluna da planilha deve conter ou um número ou um texto;
 - A atualização da quantidade de SKUs deve ser feita na coluna __TotalQuantity__. 
 
-<div class="alert alert-warning">
-<strong>Atenção</strong>: caso estas indicações não sejam respeitadas, o sistema pode não aceitar a importação da planilha ou o número de itens a venda pode ficar incorreto.
-</div>
+>⚠️ **Atenção**: caso estas indicações não sejam respeitadas, o sistema pode não aceitar a importação da planilha ou o número de itens a venda pode ficar incorreto.
 
 A seguir, confira o significado de cada campo da planilha de estoque.
 

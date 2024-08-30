@@ -18,9 +18,7 @@ internalReference: 332033
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Los clientes no pueden eliminar las plantillas en el CMS heredado.

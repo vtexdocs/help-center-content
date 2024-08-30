@@ -39,7 +39,5 @@ Para registrar sus productos por plantilla, recomendamos que los registre junto 
 ## API
 Utilice la llamada [Create Product](https://developers.vtex.com/vtex-rest-api/reference/post-product) para crear un nuevo producto por medio de la API del Catálogo.
 
-<div class="alert alert-info">
-Si su producto no aparece en el sitio web de su tienda después del registro, consulte el artículo <a href="https://help.vtex.com/es/faq/por-que-el-producto-no-aparece-en-el-sitio--frequentlyAskedQuestions_382">¿Por qué el producto no aparece en el sitio?</a> para entender cómo resolver este problema.
-</div>
+>ℹ️ Si su producto no aparece en el sitio web de su tienda después del registro, consulte el artículo [¿Por qué el producto no aparece en el sitio?](https://help.vtex.com/es/faq/por-que-el-producto-no-aparece-en-el-sitio--frequentlyAskedQuestions_382) para entender cómo resolver este problema.
 

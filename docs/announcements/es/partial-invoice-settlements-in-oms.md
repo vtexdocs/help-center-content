@@ -19,9 +19,7 @@ Si gestionas pedidos en el OMS, el sistema de gestión de pedidos de VTEX, debes
 
 Desarrollamos una mejora en el OMS que hará que las facturas parciales emitidas en los pedidos también disparen liquidaciones parciales en la transacción. El valor total del pedido se actualizará luego de emitir la factura y se corresponderá con la información obtenida a través del _gateway_ de pagos de VTEX. 
 
-<div class = "alert alert-info">
-La funcionalidad de facturas parciales está disponible para toda la base de clientes VTEX, pero la liquidación parcial en el gateway se encuentra en la versión Beta. Además, para que las facturas parciales disparen liquidaciones parciales en la transacció, es necesario utilizar un conector que utilice el <a href="https://help.vtex.com/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m">Payment Provider Protocol</a>. Los conectores legados no admiten la funcionalidad.
-</div>
+>ℹ️ La funcionalidad de facturas parciales está disponible para toda la base de clientes VTEX, pero la liquidación parcial en el gateway se encuentra en la versión Beta. Además, para que las facturas parciales disparen liquidaciones parciales en la transacció, es necesario utilizar un conector que utilice el [Payment Provider Protocol](https://help.vtex.com/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Los conectores legados no admiten la funcionalidad.
 
 ## ¿Qué cambió?
 

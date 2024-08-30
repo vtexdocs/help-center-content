@@ -79,12 +79,11 @@ The integration sends the catalogue prices/net prices along with the final price
 
 e.g. 1: sale with a 10% discount applied to a specific category
 e.g. 2: SKU “X” has a value of 10,00 BRL in the commercial policy used in CNova/Via Varejo and has a fixed price of 15,00 BRL for this same policy. The integration will send the 15,00 BRL value.
-<div class="alert alert-warning">
-Note: since payment is handled in the marketplace, it also determines the payment rules. As a consequence, we are unable to send prices that are differentiated according to the payment method. 
-<br />
-<em>e.g.: if installment payment are configured with interest rates in VTEX, the sent price would continue to be whichever one the fulfillment simulation gives.</em>
-
-</div>
+>⚠️ Note: since payment is handled in the marketplace, it also determines the payment rules. As a consequence, we are unable to send prices that are differentiated according to the payment method. 
+>
+>
+> 
+> *e.g.: if installment payment are configured with interest rates in VTEX, the sent price would continue to be whichever one the fulfillment simulation gives.*
 
 
 ## 4. Benefits
@@ -109,15 +108,19 @@ When placing an order in the marketplace, several factors may influence it, such
 #### Delivery:
 
 There are two factors that would influence the delivery in this integration: Shipping Cost and Shipping Time. The sum of these two will be the Total Delivery Time. 
-<div class="alert alert-info">
-e.g.:
-<br />
-Standard Shipping = 3 days
-<br />
-Latency Time = 2 days
-<br />
-Total Delivery Time = 5 days
-</div>
+>ℹ️ e.g.:
+>
+>
+> 
+> Standard Shipping = 3 days
+>
+>
+> 
+> Latency Time = 2 days
+>
+>
+> 
+> Total Delivery Time = 5 days
 
 - __Shipping__
 
@@ -128,47 +131,79 @@ The shopkeeper also has the possibility to register a contingency table in CNova
 
 The shipment lead time is based on the sum of the ‘Latency Time’ field in Stock together with the ‘Latency Time’ from Doca, and we send the same prep time massively for all products.
 
-<div class="alert alert-info">
-e.g.:
-<br />
-<strong>Stock A</strong>
-<br />
-- Doca 1: Latency Time = 3 days
-<br />
-<strong>Stock B</strong>
-<br />
-- Doca 1: : Latency Time = 5 days
-<br />
-<br />
-<strong>Doca 1:</strong>
-<br />
-- : Latency Time = 2 days
-<br />
-<br />
-An order with a Shipping Time = 3 days, would amount to a different Total Delivery Time depending on where the product is shipped from.
-<br />
-<br />
-<strong>Forwarding from stock A:</strong>
-<br />
-- Prep Time = 3 + 2 (doca 1) = 5 days
-<br />
-- Shipping Time = 3 days
-<br />
-- Total delivery time = 8 days
-<br />
-<strong> Forwarding from stock B:</strong>
-<br />
-- Prep Time = 5 + 2 (doca 1) = 7 days
-<br />
-- Shipping Time = 3 days
-<br />
-- Total delivery time = 10 days
-</div>
+>ℹ️ e.g.:
+>
+>
+> 
+> **Stock A**
+>
+>
+> 
+> - Doca 1: Latency Time = 3 days
+>
+>
+> 
+> **Stock B**
+>
+>
+> 
+> - Doca 1: : Latency Time = 5 days
+>
+>
+> 
+>
+>
+> 
+> **Doca 1:**
+>
+>
+> 
+> - : Latency Time = 2 days
+>
+>
+> 
+>
+>
+> 
+> An order with a Shipping Time = 3 days, would amount to a different Total Delivery Time depending on where the product is shipped from.
+>
+>
+> 
+>
+>
+> 
+> **Forwarding from stock A:**
+>
+>
+> 
+> - Prep Time = 3 + 2 (doca 1) = 5 days
+>
+>
+> 
+> - Shipping Time = 3 days
+>
+>
+> 
+> - Total delivery time = 8 days
+>
+>
+> 
+> ** Forwarding from stock B:**
+>
+>
+> 
+> - Prep Time = 5 + 2 (doca 1) = 7 days
+>
+>
+> 
+> - Shipping Time = 3 days
+>
+>
+> 
+> - Total delivery time = 10 days
 
 
-<div class="alert alert-warning">
-Note: in case of using the contingency table to calculate shipping, CNova does not consult with VTEX. This way, the only factor to be taken into consideration for <strong>Total Delivery Time</strong>, would be the <strong>Shipping</strong> provided by them, not considering the <strong>Prep Time</strong>. Caution should be exercised with this, since it can give rise to divergences in the <strong>Total Delivery Time</strong>. 
-</div>
+>⚠️ Note: in case of using the contingency table to calculate shipping, CNova does not consult with VTEX. This way, the only factor to be taken into consideration for **Total Delivery Time**, would be the **Shipping** provided by them, not considering the **Prep Time**. Caution should be exercised with this, since it can give rise to divergences in the **Total Delivery Time**.
 
 #### Price and availability:
 

@@ -18,9 +18,7 @@ internalReference: 545331
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Incluso con los registros de transacciones que informan de que se ha realizado el contracargo, se ha producido un error en la entidad adquirente.

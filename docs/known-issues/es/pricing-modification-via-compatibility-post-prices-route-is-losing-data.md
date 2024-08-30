@@ -18,9 +18,7 @@ internalReference: 487698
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Hemos identificado un problema en la ruta de los precios de los puestos de compatibilidad cuando se envían demasiadas solicitudes en una ventana pequeña no estamos utilizando el precio más actualizado

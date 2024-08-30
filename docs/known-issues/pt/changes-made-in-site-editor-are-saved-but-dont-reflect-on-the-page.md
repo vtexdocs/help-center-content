@@ -18,9 +18,7 @@ internalReference: 786145
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando você cria uma nova página em Páginas e depois muda seu caminho para algo diferente, a rotaId não muda. Portanto, quando você cria outra página com o mesmo caminho que a primeira, a rotaId permanecerá a mesma. E então o editor do site terá problemas para salvar o conteúdo destas duas páginas devido a conflitos em suas rotas.

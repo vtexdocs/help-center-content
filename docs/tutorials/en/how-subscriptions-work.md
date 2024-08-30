@@ -3,8 +3,8 @@ title: 'How subscriptions work'
 id: frequentlyAskedQuestions_4453
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.886Z
-updatedAt: 2023-02-15T23:42:14.386Z
-publishedAt: 2023-02-15T23:42:14.386Z
+updatedAt: 2024-07-24T17:36:44.989Z
+publishedAt: 2024-07-24T17:36:44.989Z
 firstPublishedAt: 2019-01-24T22:14:56.290Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -17,13 +17,15 @@ subcategory: 1rA9wuuskW3PpjvMrhatAM
 
 The **Subscription System** is an app developed by VTEX to facilitate recurring sales. It works as an automatic scheduler, making a purchase at the frequency requested by the customer. 
 
-Your customers indicate how often they want to repeat the purchase of a specific SKU, and the system resubmits the order. This purchase is made automatically every scheduled period, with the same configuration as the original order.
+Your customers indicate how often they want to repeat the purchase of a specific SKU, and the system resubmits the order. This purchase is made automatically every scheduled period, with the same configuration as the original order. Subscription is a simple solution to save your customer's time and to add a scheduled sales flow to your store.
 
-For VTEX, a subscription consists of an SKU list that is linked to a specific purchase configuration. All management operations are based on the Subscription entity, which contains all the necessary information to generate a recurring order. The diagram below illustrates the subscription concept:
+For VTEX, a subscription consists of an SKU list that is linked to a specific purchase configuration. All management operations are based on the Subscription entity, which contains all the necessary information to generate a recurring order, such as:
 
-![img8 subscriptions EN](https://images.ctfassets.net/alneenqid6w5/1tNo9gQza7gWuDXZPRxQRO/33a97511d0c48f954b9de33bcad8fa40/img8_subscriptions_EN.png)
-
-Subscription is a simple solution to save your customer's time and to add a scheduled sales flow to your store.
+- User profile
+- Address
+- Payment method
+- Frequency
+- Subscription order start date
 
 ## How your customer generates an order with a subscription
 
@@ -43,9 +45,11 @@ To do that, go to the **My Account** page on your store's website, access the **
 
 ## How your customers view and manage their subscriptions
 
+>ℹ️ In [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), customers can only access their orders from the last two years.
+
 A list of all the customer’s subscriptions, containing their details and statuses, will be displayed in the **Subscriptions** section, on the **My Account** page. Your customer will also receive a confirmation of the subscription and the generated order by email.  
 
-You will communicate with your customers about their subscriptions through the **Message Center** module. Please read our article about **[Transactional emails for subscription orders](https://help.vtex.com/en/tutorial/e-mails-transacionais-para-pedidos-de-assinatura--2NYHqHMRqZ43Cn6s84ZCB5). 
+You will communicate with your customers about their subscriptions through the **Message Center** module. Please read our article about [Transactional emails for subscription orders](https://help.vtex.com/en/tutorial/e-mails-transacionais-para-pedidos-de-assinatura--2NYHqHMRqZ43Cn6s84ZCB5). 
 
 ### Subscription details
 
@@ -105,3 +109,5 @@ Yes, the price charged for the subscription is based on the price configured for
 
 12. **What time are subscription orders generated?**
 Subscription orders are created between 6:00 and 7:00 am in Brazil zone (GMT-3).
+
+13. **Does the functionality Subscriptions work with Seller Portal?** No, Subscriptions does not work with [Seller Portal](https://help.vtex.com/en/tutorial/how-to-set-up-your-store-on-seller-portal).

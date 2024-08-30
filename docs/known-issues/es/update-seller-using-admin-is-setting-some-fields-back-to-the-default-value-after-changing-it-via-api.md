@@ -3,8 +3,8 @@ title: 'La actualización del vendedor a través de Admin está devolviendo algu
 id: 2gtqnZmCW59OKoqRpU3UaQ
 status: PUBLISHED
 createdAt: 2022-06-30T12:21:23.852Z
-updatedAt: 2022-11-25T22:00:35.980Z
-publishedAt: 2022-11-25T22:00:35.980Z
+updatedAt: 2024-02-16T20:28:26.435Z
+publishedAt: 2024-02-16T20:28:26.435Z
 firstPublishedAt: 2022-06-30T12:21:24.538Z
 contentType: knownIssue
 productTeam: Marketplace
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: la-actualizacion-del-vendedor-a-traves-de-admin-esta-devolviendo-algunos-campos-al-valor-por-defecto-despues-de-cambiarlo-a-traves-de-la-api
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 608120
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

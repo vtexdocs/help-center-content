@@ -32,14 +32,10 @@ Ver más detalles en [Cómo visualizar detalle del pedido](/es/tutorial/como-vis
 ## Obtener la IP por API
 Para obtener la IP por integración, se podrá consultar la API Get Order mediante el orderID.
 
-<div class="alert alert-info">
-<a href="https://developers.vtex.com/reference/orders#getorder">Ver documentación de API OMS</a>
-</div>
+>ℹ️ [Ver documentación de API OMS](https://developers.vtex.com/reference/orders#getorder)
 
 Una vez obtenido el Json de la Orden, se podrá obtener el transactionId y consultar la API **Get Transaction Details** mediante el ID de la transacción.
 
-<div class="alert alert-info">
-<a href="https://developers.vtex.com/reference/transaction-process#transactiondetails">Ver documentación de API Transaction</a>
-</div>
+>ℹ️ [Ver documentación de API Transaction](https://developers.vtex.com/reference/transaction-process#transactiondetails)
 
 Finalmente, de esta última llamada se podrá consultar el campo `ipAddress`.

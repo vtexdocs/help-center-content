@@ -3,8 +3,8 @@ title: 'La función getCurrentProductWithVariations de VTEX.js trae los datos de
 id: 1m1bMbNXZVpQo9bQG1iSjn
 status: PUBLISHED
 createdAt: 2022-03-16T16:35:51.214Z
-updatedAt: 2022-11-25T22:10:09.849Z
-publishedAt: 2022-11-25T22:10:09.849Z
+updatedAt: 2024-02-16T20:24:03.691Z
+publishedAt: 2024-02-16T20:24:03.691Z
 firstPublishedAt: 2022-03-16T16:35:51.652Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-funcion-getcurrentproductwithvariations-de-vtexjs-trae-los-datos-del-sku-del-componente-y-no-del-sku-del-kit
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 324416
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La función `getCurrentProductWithVariations` de VTEX.js trae los datos del SKU del componente en lugar del SKU del KIT.

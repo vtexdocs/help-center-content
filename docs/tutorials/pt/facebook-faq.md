@@ -53,7 +53,7 @@ Esse processo é indicado quando a integração está com algum problema de aute
 
 #### Excluir o App de integração da VTEX no Facebook
 1. Acesse o Facebook usando sua conta vinculada à VTEX.
-2. No canto direito superior da tela, **clique no botão** <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/7bplP3pn7Pu5gpfYKGHUjQ/688fda65e48070afcf18f57e396c2b22/sua_conta_fb.JPG" />
+2. No canto direito superior da tela, **clique no botão** <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/7bplP3pn7Pu5gpfYKGHUjQ/688fda65e48070afcf18f57e396c2b22/sua_conta_fb.JPG" />
 3. Selecione a opção **Configurações e privacidade**, em seguida clique em **Configurações**.
 4. Clique em **Integrações comerciais**.
 5. Selecione a opção **VTEX Integration** e clique em **Remover**.
@@ -62,7 +62,7 @@ Esse processo é indicado quando a integração está com algum problema de aute
 1. Acesse a página do [Facebook Business Manager](https://business.facebook.com/).
 2. Selecione a opção **Configurações**. 
 3. Clique em **Configurações do Negócio**.
-4. Selecione o catálogo da VTEX que deseja excluir e clique na lixeira <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/6zFRTeiTa9xkTlafUVBIcK/d2c5a40219dbee8084d22f76d0b88109/excluir_fb.JPG" />
+4. Selecione o catálogo da VTEX que deseja excluir e clique na lixeira <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6zFRTeiTa9xkTlafUVBIcK/d2c5a40219dbee8084d22f76d0b88109/excluir_fb.JPG" />
 5. Clique em **Confirmar**.
 
 #### Excluir a configuração de integração do Facebook na VTEX

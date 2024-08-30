@@ -15,9 +15,7 @@ legacySlug: category-variations-and-attributes-mapping
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class = "alert alert-info">
-The Mercado Livre plataform is available only in spanish and portuguese, so the related terms in the article below do not have a translation.   
-  </div>
+>ℹ️ The Mercado Livre plataform is available only in spanish and portuguese, so the related terms in the article below do not have a translation.
 
 After making the initial settings for integration with Mercado Livre, we are now going to categorize and send product variations and attributes to the marketplace. You will send this information through the __upload of the mapping spreadsheet__, which contains a correspondence table.
 
@@ -25,7 +23,7 @@ With this feature, you can categorize your products in Mercado Livre and also cr
 
 The mapping will only be done once for each category. This means that once you have done the mapping, new products will be integrated directly into the correct category (and their variations and attributes).
 
-- [Download here](//assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx) the __Mercado Livre Mapping Spreadsheet__ in the format `.xlsx`.
+- [Download here](https://assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx) the __Mercado Livre Mapping Spreadsheet__ in the format `.xlsx`.
 
 The same spreadsheet will be used in the three steps described below (categorization, variations and attributes). Follow the step by step, filling in the fields of the mapping spreadsheet as follows.
 
@@ -34,7 +32,7 @@ The same spreadsheet will be used in the three steps described below (categoriza
 Here we will do the correspondence between your categories in VTEX with those used by Mercado Livre.
 
 1. __CategoryId:__ it is the category ID in VTEX. You can find it next to the name of each category as you expand the categories tree.
-2. __MeliCategoryId:__ it is the category ID in Mercado Livre. [Click here](//assets.ctfassets.net/alneenqid6w5/4IGh23L6buEm8s8IWYwISS/f8f1e862f39f8f0052b1b60a696aadd6/MercadoLivre_CategoriasFixas.xlsx) to download the worksheet where these values are available. If you prefer, access this [Mercado Livre API](https://api.mercadolibre.com/sites/MLB/categories) to query the categories, which are always updated there.
+2. __MeliCategoryId:__ it is the category ID in Mercado Livre. [Click here](https://assets.ctfassets.net/alneenqid6w5/4IGh23L6buEm8s8IWYwISS/f8f1e862f39f8f0052b1b60a696aadd6/MercadoLivre_CategoriasFixas.xlsx) to download the worksheet where these values are available. If you prefer, access this [Mercado Livre API](https://api.mercadolibre.com/sites/MLB/categories) to query the categories, which are always updated there.
 
 >_`Ex:` you have the following tree in __VTEX __:_
 
@@ -64,7 +62,7 @@ In Mercado Livre, there are two types of variation: the __mandatory__ ones and t
 
 - Mandatory Variations
 
-If your product is a `Footwear`, `Clothing`, `Bag`, `Belt` or `Home Appliance`, __you will need to map the required variations__. Their name must follow exactly the values accepted by the marketplace. [Download here](//assets.ctfassets.net/alneenqid6w5/5nLnBUVonS8qgWqqeck4MQ/d338d66ed72d2183802c546e88ce1f3e/Planilha_de_Variac__o__es_do_Mercado_Livre.xlsx) the __Mercado Livre Variations Spreadsheet__ to check the accepted values according to each type of product.
+If your product is a `Footwear`, `Clothing`, `Bag`, `Belt` or `Home Appliance`, __you will need to map the required variations__. Their name must follow exactly the values accepted by the marketplace. [Download here](https://assets.ctfassets.net/alneenqid6w5/5nLnBUVonS8qgWqqeck4MQ/d338d66ed72d2183802c546e88ce1f3e/Planilha_de_Variac__o__es_do_Mercado_Livre.xlsx) the __Mercado Livre Variations Spreadsheet__ to check the accepted values according to each type of product.
 
 - Customizable Variations
 
@@ -92,14 +90,11 @@ Given this information, continue completing the spreadsheet by following the gui
 5. __MeliValue:__ in this column you must fill values accepted by Mercado Livre, corresponding to the values used in the `VtexValue` field. In the Mercado Livre Variation Spreadsheet, go to the tab corresponding to __your country__ and look for the accepted values for each specification you filled in the `MeliEspc` column.
 <br/>_`Ex:` If you filled in `MeliEspc` with "Size" and `VtexValue` with "Small", you will see that Mercado Livre accepted value is "S"._
 
-<div class="alert alert-warning">
-<strong>Note:</strong> Once an ad is first created, <strong>it's no longer possible to change its variations</strong>. If you want to make adjustments such as changing the color, for example, it will be necessary to finish the ad in Mercado Livre and then redo the spreadsheet mapping.</div>
+>⚠️ **Note:** Once an ad is first created, **it's no longer possible to change its variations**. If you want to make adjustments such as changing the color, for example, it will be necessary to finish the ad in Mercado Livre and then redo the spreadsheet mapping.
 
-<div class="alert alert-warning">
-<strong>Note 2:</strong> Mercado Livre <strong>does not allow you to use different prices</strong> for each variation of an ad. For example, a shirt can not cost R$ 40 for size "S" and R$ 50 for size "M".</div>
+>⚠️ **Note 2:** Mercado Livre **does not allow you to use different prices** for each variation of an ad. For example, a shirt can not cost R$ 40 for size "S" and R$ 50 for size "M".
 
-<div class="alert alert-warning">
-<strong>Note 3:</strong> If the SKU does not have a certain specification (such as color, for example), you will need to register it in VTEX before completing the integration process. We recommend adding the missing attribute as a <strong>product </strong> specification. Therefore, this information will not be displayed on the website.</div>
+>⚠️ **Note 3:** If the SKU does not have a certain specification (such as color, for example), you will need to register it in VTEX before completing the integration process. We recommend adding the missing attribute as a **product ** specification. Therefore, this information will not be displayed on the website.
 
 ## Attributes
 
@@ -211,8 +206,6 @@ After filling out the spreadsheet, access __Integrations__ from the Admin menu:
 
 After the upload is completed, the integration automatically sends all products from the categories used in the spreadsheet to Mercado Livre.
 
-<div class="alert alert-warning">
-<strong>Note:</strong> products will only be sent to Mercado Livre if integration authentication has already been performed. If you have not already done so, go to the next step of the tutorial.
-</div>
+>⚠️ **Note:** products will only be sent to Mercado Livre if integration authentication has already been performed. If you have not already done so, go to the next step of the tutorial.
 
 You have completed the fifth step of the integration. Now we are moving to the last step, where we will authorize Mercado Livre integration in VTEX panel.

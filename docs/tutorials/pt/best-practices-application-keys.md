@@ -1,9 +1,9 @@
 ---
 title: 'Boas práticas na utilização de chaves de aplicação'
 id: 7b6nD1VMHa49aI5brlOvJm
-status: PUBLISHED
+status: CHANGED
 createdAt: 2022-10-04T21:36:57.185Z
-updatedAt: 2022-10-04T21:41:08.638Z
+updatedAt: 2024-03-19T14:22:43.610Z
 publishedAt: 2022-10-04T21:41:08.638Z
 firstPublishedAt: 2022-10-04T21:41:08.638Z
 contentType: tutorial
@@ -17,11 +17,10 @@ subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 
 A VTEX dispõe de diversas APIs para que clientes e parceiros possam desenvolver integrações altamente personalizáveis ​​com a plataforma.  [Chaves de aplicação](https://help.vtex.com/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) são usadas para fornecer acesso seguro a dados consumidos por integrações, sem expor sua conta a usuários ou aplicativos não autorizados.
 
-<div class = "alert alert-info">
-Este tipo de credencial é utilizado para autenticação de identidade via API.
-</div>
+>ℹ️ Este tipo de credencial é utilizado para autenticação de identidade via API.
 
 O manuseio inadequado de [chaves de aplicação](https://help.vtex.com/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) pode gerar vazamentos e, consequentemente, situações de acesso indevido. Conheça abaixo boas práticas que recomendamos para o gerenciamento destas credenciais, as quais você pode implementar para aumentar a segurança da sua loja.
+
 ## Rotacione chaves periodicamente
 
 É aconselhável que você desative chaves antigas e crie novas ao longo do tempo. Assim você garante que suas [chaves de aplicação](https://help.vtex.com/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) tenham duração determinada.

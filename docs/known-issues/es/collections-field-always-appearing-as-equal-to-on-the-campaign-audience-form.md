@@ -1,10 +1,10 @@
 ---
-title: 'El campo de las colecciones siempre aparece como "Igual a" en el formulario de audiencia de la campaña'
+title: "El campo de las colecciones siempre aparece como 'Igual a' en el formulario de audiencia de la campaña"
 id: 2NPEh7LZkrpO0gf802I7HZ
 status: PUBLISHED
 createdAt: 2022-11-11T21:18:53.386Z
-updatedAt: 2022-11-25T22:11:31.863Z
-publishedAt: 2022-11-25T22:11:31.863Z
+updatedAt: 2024-02-16T20:27:37.566Z
+publishedAt: 2024-02-16T20:27:37.566Z
 firstPublishedAt: 2022-11-11T21:18:54.385Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: el-campo-de-las-colecciones-siempre-aparece-como-igual-a-en-el-formulario-de-audiencia-de-la-campana
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 697168
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

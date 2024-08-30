@@ -3,8 +3,8 @@ title: ' El filtro por SkuName en Sales Performance no acepta mayúsculas.'
 id: 3FCDeEn8xmEvOXKgBxqyL5
 status: PUBLISHED
 createdAt: 2022-08-16T18:06:02.919Z
-updatedAt: 2022-11-30T19:08:14.148Z
-publishedAt: 2022-11-30T19:08:14.148Z
+updatedAt: 2024-02-16T20:24:21.760Z
+publishedAt: 2024-02-16T20:24:21.760Z
 firstPublishedAt: 2022-08-16T18:06:03.474Z
 contentType: knownIssue
 productTeam: Analytics
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: el-filtro-por-skuname-en-sales-performance-no-acepta-mayusculas
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 639219
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En el tablero de rendimiento de ventas el filtro por un término no está aceptando letras mayúsculas en el SkuName.

@@ -3,8 +3,8 @@ title: 'Skus recebidos: As aprovações de associação não adicionam o canal d
 id: 5ob4jquCm8l84MhX6285h8
 status: PUBLISHED
 createdAt: 2022-04-18T17:15:41.091Z
-updatedAt: 2023-05-09T19:06:08.893Z
-publishedAt: 2023-05-09T19:06:08.893Z
+updatedAt: 2024-02-16T20:25:58.313Z
+publishedAt: 2024-02-16T20:25:58.313Z
 firstPublishedAt: 2022-04-18T17:15:41.436Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: skus-recebidos-as-aprovacoes-de-associacao-nao-adicionam-o-canal-de-vendas-disponivel-do-vendedor-no-produto-quando-o-sku-e-vendido-por-mais-de-um-vendedor
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 562472
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Um produto vendido por outro vendedor no catálogo do marketplace está disponível para ser vendido no canal de vendas desse vendedor.

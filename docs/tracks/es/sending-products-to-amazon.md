@@ -1,10 +1,10 @@
 ---
-title: 'Envío de productos a Amazon'
+title: 'Envío y mapeo de categorías de productos a Amazon'
 id: 5xklf2wSdeztQh4iy5kJvD
 status: PUBLISHED
 createdAt: 2019-02-28T23:12:40.204Z
-updatedAt: 2023-03-16T19:46:44.241Z
-publishedAt: 2023-03-16T19:46:44.241Z
+updatedAt: 2023-10-18T19:47:04.829Z
+publishedAt: 2023-10-18T19:47:04.829Z
 firstPublishedAt: 2019-02-28T23:13:35.624Z
 contentType: trackArticle
 productTeam: Channels
@@ -14,7 +14,53 @@ trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugES: integracion-de-amazon
 ---
 
-Una vez que haya realizado las configuraciones descritas en los pasos anteriores, podrá enviar sus productos al catálogo de Amazon. Para agilizar el proceso de catalogación de sus productos en Amazon y permitir que puedan estar disponibles para la venta en menos tiempo, tendrá que realizar el mapeo entre las características de los productos de su tienda VTEX y las características de los mismos productos en su tienda Amazon. Para realizar el mapeo, necesitarás:  
+Una vez realizada la configuración inicial de integración, ya puedes enviar los productos al catálogo de Amazon. Para habilitar el proceso de catalogación de los productos en Amazon y permitir que estén disponibles para la venta en menos tiempo, el seller debe realizar el mapeo entre las características de los productos de su tienda VTEX y las características de esos mismos productos en su tienda Amazon.  
+
+Para enviar sus productos a Amazon, el seller debe mapear las [categorías](https://help.vtex.com/es/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) y los [atributos del producto](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP).
+
+>ℹ️ Los productos deben tener el [stock](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) y los [precios](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviarlos a Amazon.
+
+## Mapear categorías  
+
+El proceso de mapeo se puede realizar a través del [Admin VTEX](#mapeo-via-admin-vtex-(beta)), o mediante una [plantilla](#mapeo-mediante-plantilla). Consulta a continuación los detalles de cada caso.  
+
+>❗ Atención: si realizas el mapeo de una categoría a través del Admin VTEX, y anteriormente habías realizado el mapeo de esa misma categoría mediante una plantilla, se sobreescribirá el mapeo de la plantilla y no podrá recuperarse.
+
+### Mapeo vía Admin VTEX (beta)  
+
+Para acceder a la página de mapeo de Amazon, ve a **Marketplace > Marketplaces e integraciones > Amazon > Realizar mapeo.**  
+Se mostrará una lista de categorías disponibles para tu tienda VTEX. El mapeo de categorías permite una correspondencia entre las categorías de tu tienda y las de Amazon. De esta forma, los productos enviados figurarán en la categoría equivalente en el marketplace.  
+
+En la página de mapeo, puedes utilizar la barra de búsqueda para buscar la categoría por nombre o también puedes encontrarla en la sección **Categorías** de la tienda que muestra una lista de las categorías de tu tienda VTEX.  
+
+La lista de categorías de tu tienda VTEX incluye el status del mapeo a través de los íconos:  
+
+| **Ícono** | **Status** | **Descripción** |
+|:---:|:---:|:---:|
+| ![mapeado mapper](https://images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/069480d9eeb7b6108d5f6ec3d7ad1d78/mapeado_mapper.jpg) | **Mapeada** | Indica que el mapeo de categorías está completo. |
+| ![mapeamentoincompleto mapper](https://images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/695f33c0eba4012f7e585ca1785ec17f/mapeamentoincompleto_mapper.jpg) | **Mapeo incompleto** | La categoría está parcialmente mapeada, por lo que es necesario ingresar sus atributos obligatorios (señalados con un asterisco) para realizar el mapeo. |
+| ![erromapeamento mapper](https://images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/7036253cccb4415d9759867b28ff1695/erromapeamento_mapper.jpg) | **Error al realizar el mapeo** | El error de mapeo ocurre cuando el marketplace elimina o cambia la categoría del producto. Para resolver este problema, solo hay que rehacer el mapeo de categorías. |
+|![incompleto mapper](https://images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/3eaea439ecfdbb54eaa8fefec12247ae/incompleto_mapper.jpg) | **No mapeada** | Indica que no se realizó el mapeo de la categoría. |  
+
+Para realizar el mapeo de categorías:  
+
+1. En el Admin VTEX, accede al módulo **Marketplace > Marketplaces e integraciones > Amazon > Realizar mapeo.**
+2. Selecciona la categoría que deseas mapear.
+3. Selecciona la categoría de Amazon correspondiente al producto que deseas enviar.
+4. Haz la correspondencia de los atributos en la ventana lateral, como se muestra en la imagen a continuación:
+
+![Atributos del mapeador de Amazon](https://downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/9dbef07f676b7bf29ef81bfda39d9bda/mapper_amazon_atributos.gif)
+
+5. Haz clic en el botón `Guardar cambios`.
+
+>❗ Los campos marcados con un asterisco (`*`) son obligatorios.
+>
+>
+> Al ingresar un atributo pueden activarse nuevos campos obligatorios que solo serán visibles en la página **Marketplace > Conexiones > Productos,** después de guardar el mapeo.</br>
+
+### Mapeo mediante plantilla 
+
+El seller deberá seguir los pasos a continuación para realizar el mapeo a partir de una plantilla:
 
 1. [Descargar el modelo de la plantilla de categorías generales de Amazon](#1-plantilla-de-categorias-generales-de-amazon)
 2. [Descargar el modelo de la plantilla de atributos de Amazon](#2-plantilla-de-atributos-de-amazon)
@@ -23,13 +69,13 @@ Una vez que haya realizado las configuraciones descritas en los pasos anteriores
 5. [Rellenar la plantilla de mapeo](#5-como-rellenar-la-plantilla-de-mapeo)
 6. [Cargar la plantilla de mapeo](#6-cargar-la-plantilla-de-mapeo)
 
-## 1. Plantilla de categorías generales de Amazon
+#### 1. Plantilla de categorías generales de Amazon
 
 Amazon utiliza la [categoría global](https://help.vtex.com/pt/tutorial/configurando-a-categoria-global--tutorials_188) registrada en VTEX para mapear los productos, por lo que es importante que la equivalencia entre la categoría global de VTEX y las categorías generales en Amazon se haga correctamente.
 
 Para conocer las categorías aceptadas por Amazon es necesario descargar la [Plantilla de categorías generales de Amazon](https://drive.google.com/uc?export=download&id=1GC5Guic4k_8C2ZnEGQUoDqT2cdJzp-Ti). Esta plantilla se utilizará solo para consulta.
 
-## 2. Plantilla de atributos de Amazon
+#### 2. Plantilla de atributos de Amazon
 
 Amazon tiene valores de referencia para determinadas características de productos que se deben tomar en cuenta en el mapeo de los productos.
 
@@ -37,14 +83,14 @@ Para saber qué atributos acepta Amazon según cada columna de la plantilla de m
 
 En esta plantilla, cada pestaña corresponde a una subcategoría global en Amazon. Al hacer clic en una pestaña, la plantilla muestra en cada columna las subcategorías presentes dentro de la categoría global seleccionada.
 
-## 3. Preconfiguraciones en el Catálogo
+#### 3. Preconfiguraciones en el Catálogo
 
 Antes de mapear los productos en su tienda, debe configurar los siguientes [campos del producto](https://help.vtex.com/es/tutorial/criando-um-campo-de-produto--tutorials_106) que desea enviar a Amazon:
 
 - [Categoría Global](#categoria-global)
 - [EAN](#ean)
 
-### Categoría global
+###### Categoría global
 
 Para identificar sus productos y relacionarlos con el catálogo de Amazon, la integración utiliza las [categorías globales](https://help.vtex.com/es/tutorial/configurando-a-categoria-global--tutorials_188) de VTEX. Durante el proceso de mapeo, el sistema hace la correspondencia de cada categoría global de VTEX con las [categorías generales](#plantilla-de-categorías-generales-de-amazon) de Amazon. De este modo, dirigimos los productos a las categorías correctas y con los atributos de producto necesarios.
 
@@ -52,7 +98,7 @@ Por lo tanto, es obligatorio tener todos los productos de su catálogo clasifica
 
 Cuando configure la categoría global en VTEX, tenga en cuenta las categorías globales de Amazon, ya que esta información se utilizará al [rellenar la plantilla de mapeo de Amazon](#5-como-rellenar-la-plantilla-de-mapeo).
 
-#### Configuración de la Categoría global 
+##### Configuración de la Categoría global 
 
 Para configurar la categoría global en su entorno VTEX según las categorías globales en Amazon, siga los pasos a continuación:
 
@@ -66,24 +112,24 @@ Para configurar la categoría global en su entorno VTEX según las categorías g
 8. Rellene el campo [Categoria Global](https://help.vtex.com/es/tutorial/configurando-a-categoria-global) con el nombre de la categoría encontrada en el paso 3.
 9. Haga clic en `Guardar cambios`.
 
-#### Ejemplo de cómo consultar las plantillas 
+##### Ejemplo de cómo consultar las plantillas 
 
 En la Plantilla de atributos de Amazon, utilizaremos la categoría **Health**, centrada en los productos de salud:
-![categoriageral01](//images.contentful.com/alneenqid6w5/154htyPg3K3IZ6Wxej3kek/a446c9815c249dda3084aa1773b76b3a/categoriageral01.JPG)
+![categoriageral01](https://images.contentful.com/alneenqid6w5/154htyPg3K3IZ6Wxej3kek/a446c9815c249dda3084aa1773b76b3a/categoriageral01.JPG)
 
 En la Plantilla de categorías generales de Amazon, filtre la columna «I» Cat-Amazon-Geral, haciendo clic en **Filtro > Health > OK**.
-![categoriageral02](//images.contentful.com/alneenqid6w5/2PTS1fxztRjYHaAicwVH7W/f44b94c30ca7401ec08a19c467ee8912/categoriageral02.JPG)
+![categoriageral02](https://images.contentful.com/alneenqid6w5/2PTS1fxztRjYHaAicwVH7W/f44b94c30ca7401ec08a19c467ee8912/categoriageral02.JPG)
 
 Siguiendo el ejemplo anterior, filtre las columnas B, C y D, haciendo clic en **Salud y Belleza > Cuidado personal > Masaje y relajación**.
-![categoriageral03](//images.contentful.com/alneenqid6w5/1p0cIHz7bp8HHuzud1H4zE/e79bf00cbe09f7b1fb155730cfc401f8/categoriageral03.JPG)
+![categoriageral03](https://images.contentful.com/alneenqid6w5/1p0cIHz7bp8HHuzud1H4zE/e79bf00cbe09f7b1fb155730cfc401f8/categoriageral03.JPG)
 
 Ahora que ha encontrado la categoría general de Amazon, vuelva al Admin para [configurar la categoría global de VTEX](https://help.vtex.com/es/tutorial/configurando-a-categoria-global--tutorials_188) según la categoría general de Amazon.
 
-### EAN
+#### EAN
 
 Como el catálogo de Amazon es único, se requiere que los productos enviados tengan [EAN](https://sellercentral.amazon.com.br/learn/courses?ref_=su_course_accordion&moduleId=71d0b122-4e43-4547-a05a-04517e8f41a2&courseId=959bc7cb-2866-499c-b24a-8d3f6def1306&modLanguage=Portuguese&videoPlayer=youtube), para poder mostrar los productos de todos los sellers en la vitrina y en el checkout. Por lo tanto, asegúrese de que sus productos tienen EAN válidos registrados antes de configurar la integración.
 
-#### Exención del EAN
+##### Exención del EAN
 
 Sin embargo, hay situaciones en las que [Amazon exime al administrador de la tienda de enviar el EAN](https://sellercentral.amazon.com.br/gp/help/200426310). En este caso, la exención debe configurarse tanto en Amazon como en VTEX. 
 
@@ -113,13 +159,13 @@ Si vende productos de una marca o de fabricación propia, Amazon debe aprobarla 
 
 Si quiere vender un producto que está asociado a otro propietario (creación de un nuevo ASIN, el código creado por Amazon para identificar sus productos), es importante estar atento al proceso de [Liberación del producto a la marca](https://sellercentral.amazon.com/gp/help/help.html/?itemID=G201844590&ref_=xx_G201844590_a_r0_cont_sgsearch).
 
-## 4. Plantilla de mapeo
+#### 4. Plantilla de mapeo
 
 En este paso tendrá que categorizar las variaciones y atributos de los productos y enviarlos al marketplace. Esta información se envía mediante la plantilla de mapeo, que establece la equivalencia entre las categorías, las variaciones y los atributos de su tienda y los estándares adoptados por Amazon.
 
 Descargue la [Plantilla de mapeo de Amazon.xlsx](https://assets.ctfassets.net/alneenqid6w5/4mNcXF4yS3160xUGgCZVQC/caf8cfc88b316bc9878000264e16e30b/Planilha_modelo.xlsx) y utilice el archivo descargado como modelo para rellenar. Esta es la plantilla que se rellenará y posteriormente se enviará a Amazon.
 
-## 5. Cómo rellenar la plantilla de mapeo
+#### 5. Cómo rellenar la plantilla de mapeo
 
 La plantilla contiene las siguientes columnas:
 
@@ -133,9 +179,7 @@ La plantilla contiene las siguientes columnas:
 | F | VTEXValue | Nombre del valor utilizado en el campo SKU en VTEX |
 | G | AmazonValue | Nombre de los valores aceptados por Amazon |
 
-<div class="alert alert-info">
-La plantilla de mapeo de Amazon es case sensitive, es decir, distingue mayúsculas de minúsculas.
-</div>
+>ℹ️ La plantilla de mapeo de Amazon es case sensitive, es decir, distingue mayúsculas de minúsculas.
 
 Para cada producto, siga los pasos a continuación.
 
@@ -152,11 +196,9 @@ Para cada producto, siga los pasos a continuación.
 6. Rellene la columna **VTEXValue** con los valores del atributo del producto en VTEX
 7. Rellene la columna **AmazonValue** con los valores del atributo aceptados por Amazon. Para ver los valores aceptados por Amazon, ve a la [plantilla de atributos obligatorios de Amazon](#2-plantilla-de-atributos-de-amazon) y busca la pestaña `VALORES VÁLIDOS`.
 
-<div class="alert alert-warning">
-En algunos casos, los valores de <b>VariationTheme</b> pueden ser similares. Hay categorías en las que el <b>VariationTheme</b> puede ser: <i>SizeColor</i>, <i>Color</i> e <i>Size</i>, mientras en otras categorías puede ser: <i>ColorSize</i>, <i>Color</i> e <i>Size</i>. La diferencia está en el orden. En <i>SizeColor</i>, as casillas en la página del producto se ordenarán por tamaño y color, mientras que en <i>ColorSize</i> se ordenarán por color y tamaño. Tenga en cuenta los valores válidos de cada categoría que se va a mapear. 
-</div>
+>⚠️ En algunos casos, los valores de **VariationTheme** pueden ser similares. Hay categorías en las que el **VariationTheme** puede ser: <i>SizeColor</i>, <i>Color</i> e <i>Size</i>, mientras en otras categorías puede ser: <i>ColorSize</i>, <i>Color</i> e <i>Size</i>. La diferencia está en el orden. En <i>SizeColor</i>, as casillas en la página del producto se ordenarán por tamaño y color, mientras que en <i>ColorSize</i> se ordenarán por color y tamaño. Tenga en cuenta los valores válidos de cada categoría que se va a mapear.
 
-### Ejemplo de cómo rellenar la plantilla
+##### Ejemplo de cómo rellenar la plantilla
 
 | CategoryID | VariationTheme | Type | VTEXSpecification | AmazonSpecification | VTEXValue | AmazonValue |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
@@ -164,7 +206,7 @@ En algunos casos, los valores de <b>VariationTheme</b> pueden ser similares. Hay
 | 212 | SizeColor | Variation | Tamaño | Size | M | M |
 | 212 | SizeColor | Variation | Tamaño | Size | G | L |
 
-## 6. Cargar la plantilla de mapeo
+#### 6. Cargar la plantilla de mapeo
 
 Después de rellenar la plantilla, accede a Integraciones en el menú del Admin:  
 
@@ -176,18 +218,4 @@ Después de rellenar la plantilla, accede a Integraciones en el menú del Admin:
 6. Seleccione la plantilla con los datos y haga clic en `Subir archivo`.
 
 Si no se ha producido ningún error en el envío, los productos se enviarán a Amazon con sus respectivos atributos.  
-
-## 7. Correspondencia automática  
-
-Cada vez que un [SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) que tiene un [EAN](https://sellercentral.amazon.com.br/learn/courses?ref_=su_course_accordion&moduleId=71d0b122-4e43-4547-a05a-04517e8f41a2&courseId=959bc7cb-2866-499c-b24a-8d3f6def1306&modLanguage=Portuguese&videoPlayer=youtube) registrado se envía a Amazon, el marketplace realiza un proceso de correspondencia, que unifica los anuncios de un mismo producto utilizando el EAN.  
-
-El EAN registrado en VTEX se utiliza para establecer la equivalencia con los [ASIN](https://associados.amazon.com.br/resource-center/asin-amazon?ac-ms-src=rc-home-card) (Amazon Standard Identification Number) correspondientes de Amazon. La correspondencia se realiza automáticamente, sin embargo, pueden ocurrir errores.  
-<div class="alert alert-info">
-Se recomienda que el seller revise todos los productos que tengan el status Procesado con advertencia. Los productos que no tengan el EAN y ASIN correspondientes, se tendrán que enviar de nuevo.  
-</div>
-
-Para filtrar los productos que no se hayan procesado correctamente, sigue los pasos a continuación:
-
-1. En el Admin VTEX, accede a __Marketplace > Integraciones > Productos.__  
-2. Filtra los productos que tienen el valor Amazon en el campo Afiliado y Aviso en el campo __Status__. Verás los productos que no se procesaron con EAN y ASIN equivalentes y podrás enviarlos de nuevo.
 

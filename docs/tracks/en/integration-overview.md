@@ -16,9 +16,7 @@ trackSlugEN: facebook-integration
 
 This guide explains how to integrate with Facebook using the connector developed by VTEX. Integration through native connectors should be your default selection, as it implies more efficiency and security.
 
-<div class="alert alert-danger">
-It is possible to <a href="https://help.vtex.com/en/tutorial/configurando-xml--tutorials_242">set up the integration with an XML file</a>. However, it is not advisable to perform the integration simultaneously by an XML file and the native connector, as this causes conflicts and divergence in the information.
-</div>
+>❗ It is possible to [set up the integration with an XML file](https://help.vtex.com/en/tutorial/configurando-xml--tutorials_242). However, it is not advisable to perform the integration simultaneously by an XML file and the native connector, as this causes conflicts and divergence in the information.
 
 Before you proceed with the integration, you must have created:
 
@@ -35,8 +33,6 @@ The next steps to integrate your VTEX store with Facebook are:
 
 After these steps have been completed, the integration is finished. However, the product attributes will not have been sent.
 
-<div class="alert alert-info">
-If you want to send your product attributes to Facebook, you need to do a template mapping of categories and attributes. This mapping is optional. However, if you choose to do it, you must follow all the steps described above. Otherwise, errors can occur in the integration.
-</div>
+>ℹ️ If you want to send your product attributes to Facebook, you need to do a template mapping of categories and attributes. This mapping is optional. However, if you choose to do it, you must follow all the steps described above. Otherwise, errors can occur in the integration.
 
 The steps required to perform category and attribute mapping are described in more detail in the article [Sending products to Facebook](https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/41qzoa7TWIYTyIhABHdgzI).

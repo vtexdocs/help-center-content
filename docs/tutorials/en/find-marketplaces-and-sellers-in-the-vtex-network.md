@@ -1,10 +1,10 @@
 ---
 title: 'Marketplace Network: find marketplaces and sellers in the VTEX network'
 id: 2bzC7tXlVgLEEjxo4ixcAM
-status: PUBLISHED
+status: DRAFT
 createdAt: 2020-09-14T22:21:50.677Z
-updatedAt: 2022-04-07T14:44:29.576Z
-publishedAt: 2022-04-07T14:44:29.576Z
+updatedAt: 2023-07-19T21:34:02.498Z
+publishedAt: 
 firstPublishedAt: 2020-09-14T23:03:21.356Z
 contentType: tutorial
 productTeam: Apps
@@ -38,9 +38,7 @@ To contact a member:
 4. Fill the **Send a message** field.    
 5. Click the __Send__ button.     
 
-<div class="alert alert-info">
-The potential business partner will receive an email with the information you entered. If both parties are interested, the person in charge of the seller or marketplace may contact you and negotiate a marketplace and seller agreement.
-</div>
+>ℹ️ The potential business partner will receive an email with the information you entered. If both parties are interested, the person in charge of the seller or marketplace may contact you and negotiate a marketplace and seller agreement.
 
 ## Store Profile
 ![Network profile EN](https://images.ctfassets.net/alneenqid6w5/0F1E1mqf6hD5FLzVGqBA7/17a2b46b39a8fc853755fc91e974b904/Marketplace_store_profile_EN.gif)

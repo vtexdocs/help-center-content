@@ -18,9 +18,7 @@ internalReference: 740084
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Nuestro conector heredado ERedeRest realiza una cancelación a través de una petición al proveedor y espera un statusCode=359 que significa que la cancelación se ha realizado correctamente. Cualquier otro código significa para nuestra pasarela que el estado es indefinido aunque, en algunos casos, significa que la solicitud de reembolso/cancelación también fue exitosa, por lo tanto, nos lleva a reintentar la cancelación sin embargo nos quedamos atascados en este paso ya que la cancelación ya se ha completado en el lado del proveedor.

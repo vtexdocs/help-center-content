@@ -3,8 +3,8 @@ title: 'Marketplaces and Integrations'
 id: 5AcBO1t29nhq7rBHas9b6V
 status: PUBLISHED
 createdAt: 2023-04-18T13:51:54.217Z
-updatedAt: 2023-05-04T18:59:04.105Z
-publishedAt: 2023-05-04T18:59:04.105Z
+updatedAt: 2024-02-19T20:19:40.774Z
+publishedAt: 2024-02-19T20:19:40.774Z
 firstPublishedAt: 2023-05-03T17:09:07.242Z
 contentType: tutorial
 productTeam: Channels
@@ -24,10 +24,8 @@ Among the marketplaces available, there are VTEX marketplaces and external marke
 | **VTEX** | These are the profiles of VTEX clients that chose to make their environment available for sellers to sell products. |
 | **External** | Marketplaces that are not VTEX clients and did the integration, whether certified or partner. |  
 
-<div class="alert alert-info">
-Note that <b>Marketplaces and Integrations</b> is a tool that fosters contact between potential partners, yet it is not a mandatory step in becoming a VTEX marketplace.  
-If you want to act as a VTEX marketplace, read the <a href="https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex">Marketplace strategies at VTEX</a>.  
-</div>
+>ℹ️ Note that **Marketplaces and Integrations** is a tool that fosters contact between potential partners, yet it is not a mandatory step in becoming a VTEX marketplace.  
+> If you want to act as a VTEX marketplace, read the [Marketplace strategies at VTEX](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex).
 
 ## Looking for marketplaces  
 
@@ -124,4 +122,4 @@ See the list of tutorials available for marketplace integration:
 - [Farmácias App](https://help.vtex.com/pt/tutorial/integrando-com-farmacias-app--tutorials_6271)    
 - [Shopee](https://help.vtex.com/pt/tutorial/integracao-com-a-shopee-beta--5OV9idUY6fHu3P8grnCnqj)  
 - [Wish ](https://help.vtex.com/pt/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4) 
-- [Conecta Lá](https://help.vtex.com/pt/tutorial/integracao-com-conecta-la--403fvPYdv2f6VeP0na3awP)  
+

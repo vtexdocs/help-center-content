@@ -18,9 +18,7 @@ internalReference: 524073
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En un mercado con una relación multinivel (MOI), cuando se selecciona un punto de recogida, el mercado devuelve un error de comunicación con el vendedor, impidiendo el uso de puntos de recogida en el mercado junto con esos vendedores.

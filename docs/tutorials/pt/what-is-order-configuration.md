@@ -34,6 +34,4 @@ Por API, você deve associar uma [tabela de preços](https://help.vtex.com/pt/tr
 
 Caso o usuário configure um cenário que não apresente nenhuma tabela de preços associada, será usada uma tabela de preços default.
 
-<div class = "alert alert-info">
-  <p>É importante destacar que o usuário precisa estar logado para usar o Order Configuration e, assim, visualizar os diferentes preços baseado na sua configuração</p>
-</div>
+>ℹ️ É importante destacar que o usuário precisa estar logado para usar o Order Configuration e, assim, visualizar os diferentes preços baseado na sua configuração

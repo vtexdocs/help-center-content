@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugEN: forcing-stock-availability
 ---
 
-<div class="alert alert-danger">
-The configuration to force stock availability, explained in this article, involves changing the <code>checkout-instore-custom.js</code> file. This operation should only be performed by people with programming experience. Incorrect changes to this file can cause critical errors.
-</div>
+>❗ The configuration to force stock availability, explained in this article, involves changing the `checkout-instore-custom.js` file. This operation should only be performed by people with programming experience. Incorrect changes to this file can cause critical errors.
 
 By default, if an SKU has zero stock in the store catalog, it is not possible to sell that SKU with inStore.
 
@@ -34,6 +32,4 @@ window.INSTORE_CONFIG = {
 }
 ```
 
-<div class="alert alert-danger">
-Do not remove any of the other properties present in the <code>window.INSTORE_CONFIG</code> object, to avoid breaking other functionalities.
-</div>
+>❗ Do not remove any of the other properties present in the `window.INSTORE_CONFIG` object, to avoid breaking other functionalities.

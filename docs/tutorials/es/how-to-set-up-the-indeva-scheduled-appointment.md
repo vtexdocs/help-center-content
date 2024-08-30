@@ -21,9 +21,7 @@ A través de esta funcionalidad, su marca permite a sus clientes programar visit
 
 Este artículo explica cómo funciona esta funcionalidad y muestra el paso a paso para implementarla.
 
-<div class="alert alert-info">
-Su tienda no necesita tener una cuenta VTEX para usar la funcionalidad Atención Programada de Indeva.
-</div>
+>ℹ️ Su tienda no necesita tener una cuenta VTEX para usar la funcionalidad Atención Programada de Indeva.
 
 ## Formulario de programación
 
@@ -33,9 +31,7 @@ El flujo de la programación que recorre el cliente comienza en la elección de 
 
 ![indeva1](https://images.ctfassets.net/alneenqid6w5/3QXzMhoJN1qYZZ6c8mlfcB/4cf28e34420ac49bfcaa6f78a9b2951a/indeva1.png)
 
-<div class="alert alert-info">
-También es posible proporcionar al cliente un enlace que conduce directamente al formulario de una tienda física específica. Simplemente agregue el ID de la tienda al final de la URL. Con eso, el vendedor puede compartir el enlace de su tienda, por ejemplo, a través de un código QR o en los medios sociales.
-</div>
+>ℹ️ También es posible proporcionar al cliente un enlace que conduce directamente al formulario de una tienda física específica. Simplemente agregue el ID de la tienda al final de la URL. Con eso, el vendedor puede compartir el enlace de su tienda, por ejemplo, a través de un código QR o en los medios sociales.
 
 Al hacer clic en la tienda deseada, el cliente es conducido al formulario. Allí, encuentra información sobre la tienda (que debe definirse en la etapa de implementación), además de los campos para ingresar la información sobre la visita:
 
@@ -50,9 +46,7 @@ Finalmente, el cliente simplemente hace clic en Programar horario. Con eso, esta
 
 ![indeva2](https://images.ctfassets.net/alneenqid6w5/sD5kRl2jv7QxksElwMibF/5aa5ec8582c10891ee90bfcf556144aa/indeva2.png)
 
-<div class="alert alert-warning">
-Por el momento, la confirmación de la programación debe ser realizada de forma manual por la tienda. El cliente no recibirá ningún mensaje automático.
-</div>
+>⚠️ Por el momento, la confirmación de la programación debe ser realizada de forma manual por la tienda. El cliente no recibirá ningún mensaje automático.
 
 ## Aplicación de los vendedores
 
@@ -66,9 +60,7 @@ Si desea entrar en contacto con el cliente a partir de esa pantalla, el vendedor
 
 ![indeva4](https://images.ctfassets.net/alneenqid6w5/6xnGRcIBINTYj7n9HDnTJ4/97e54074b046a5295936d66bd17761fe/indeva4.png)
 
-<div class="alert alert-info">
-La aplicación puede ser instalada en diversos dispositivos de la misma tienda, pero recomendamos que su equipo utilice una app por tienda, y no por vendedor.
-</div>
+>ℹ️ La aplicación puede ser instalada en diversos dispositivos de la misma tienda, pero recomendamos que su equipo utilice una app por tienda, y no por vendedor.
 
 ## Implementación
 
@@ -85,15 +77,11 @@ Es allí donde debe definir la información que aparecerá en el formulario de p
 - Tiempo mínimo de anticipación para cada programación
 - Horarios de atención de la tienda
 
-<div class="alert alert-info">
-Cada tienda física debe ser registrada y configurada individualmente.
-</div>
+>ℹ️ Cada tienda física debe ser registrada y configurada individualmente.
 
 ### Implementación del formulario en la tienda en línea
 
-<div class="alert alert-info">
-Esta orientación está dirigida a tiendas que usan la plataforma VTEX. En otras plataformas, el método de implementación del formulario será diferente.
-</div>
+>ℹ️ Esta orientación está dirigida a tiendas que usan la plataforma VTEX. En otras plataformas, el método de implementación del formulario será diferente.
 
 Para insertar el iframe con el formulario en su tienda VTEX, debe crear una nueva página que contenga este iframe.
 

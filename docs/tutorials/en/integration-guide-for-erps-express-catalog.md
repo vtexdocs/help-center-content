@@ -15,7 +15,7 @@ legacySlug: integration-guide-for-erps-express-catalog
 subcategory: 5fKgQZhrCw88ACy6Su6GUc
 ---
 
-<div class="alert alert-warning">This article is part of the <a href="https://help.vtex.com/tutorial/integration-guide-for-erps--3VuOwNLmb624ImooEIIkmO">ERP Integration Guide</a>.</div>
+>⚠️ This article is part of the [ERP Integration Guide](https://help.vtex.com/tutorial/integration-guide-for-erps--3VuOwNLmb624ImooEIIkmO).
 
 This document is intended to assist on the catalog, price and inventory integration of the ERP for a store hosted in VTEX, in a fast way.
 
@@ -32,7 +32,7 @@ After the variations and the store marketing structure be defined, the next step
 
 _Flow:_
 
-![image (4)](//images.contentful.com/alneenqid6w5/10TgLjH21wY0c8Q4Ok0Muw/1118844559962f711d34b953f11ebfaf/Component__16_.png)
+![image (4)](https://images.contentful.com/alneenqid6w5/10TgLjH21wY0c8Q4Ok0Muw/1118844559962f711d34b953f11ebfaf/Component__16_.png)
 
 ### Product
 

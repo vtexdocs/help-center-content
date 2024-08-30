@@ -17,9 +17,7 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 O Moip é um [subadquirente](/pt/tutorial/o-que-e-um-subadquirente) que oferece uma integração única para conectar sua loja a todas as partes envolvidas no fluxo de pagamento oferecendo proteção contra fraudes e uma solução de [checkout transparente](/pt/tutorial/o-que-e-checkout-transparente) (sem redirecionamentos).
 
-<div class="alert alert-warning">
-As informações deste artigo são apenas referências de configuração para lojistas que já estejam utilizando o subadquirente Moip. Para novas afiliações, recomendamos a utilização do subadquirente <a href="https://help.vtex.com/pt/tutorial/configurar-o-subadquirente-moipv2--4BipUcTxQ7cq2BiYzUDmEH">MoipV2</a>.
-  </div>
+>⚠️ As informações deste artigo são apenas referências de configuração para lojistas que já estejam utilizando o subadquirente Moip. Para novas afiliações, recomendamos a utilização do subadquirente [MoipV2](https://help.vtex.com/pt/tutorial/configurar-o-subadquirente-moipv2--4BipUcTxQ7cq2BiYzUDmEH).
 
 Para configurar o Moip, siga os passos abaixo:
 
@@ -38,9 +36,7 @@ Para configurar o Moip, siga os passos abaixo:
   6. Clique em <b>Salvar</b>.
   </ui><br><br>
 
-<div class="alert alert-warning">
-O MOIP não processa transações quando produtos com valor "$0,00" estão no carrinho.  Por exemplo: Se um <a href="https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm?&utm_source=autocomplete">anexo</a> de embalagem de presente for criado, o valor do item vai ser $ 0,00, o que impossibilita o processamento do pagamento.
-  </div>
+>⚠️ O MOIP não processa transações quando produtos com valor "$0,00" estão no carrinho.  Por exemplo: Se um [anexo](https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm?&utm_source=autocomplete) de embalagem de presente for criado, o valor do item vai ser $ 0,00, o que impossibilita o processamento do pagamento.
 
 ## Configurar condição de pagamento
 

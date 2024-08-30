@@ -25,7 +25,7 @@ El ID de la forma de pago que se configurará a Interés Simple se obtiene del s
 - Ingresar a la Forma de Pago que se desea configurar para que utilice Interés Simple
 - Copiar el último parámetro de la URL, que indica el ID de esa Forma de Pago (ver imagen)
 
-![Interes Simple - Obtener ID Transaccion](//images.contentful.com/alneenqid6w5/19PugiXjNssA6c48WoqoSC/808db9360d3dbb5dd12466882ce3e852/interes-simple-id-transaccion.png)
+![Interes Simple - Obtener ID Transaccion](https://images.contentful.com/alneenqid6w5/19PugiXjNssA6c48WoqoSC/808db9360d3dbb5dd12466882ce3e852/interes-simple-id-transaccion.png)
 
 ## Configurar el tipo de interés mediante la API
 
@@ -41,6 +41,4 @@ El response que devolvió la llamada "GET Rule by ID" anterior, será el request
 
 https://developers.vtex.com/reference/configuration-1#putrulebyid
 
-<div class="alert alert-danger">
-IMPORTANTE: Actualmente, solo se logra modificar la forma de pago mediante API. En caso de necesitar modificar la forma de pago desde la interfáz de usuario, se deberá repetir el proceso de configuración por API, ya que al Guardar los cambios, se irá a tomar valor vacío por defecto.
-</div>
+>❗ IMPORTANTE: Actualmente, solo se logra modificar la forma de pago mediante API. En caso de necesitar modificar la forma de pago desde la interfáz de usuario, se deberá repetir el proceso de configuración por API, ya que al Guardar los cambios, se irá a tomar valor vacío por defecto.

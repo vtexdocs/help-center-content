@@ -3,8 +3,8 @@ title: 'Configurar pago con BoletoFlex'
 id: 3ikLbJGXMI6bkAm6YiglOx
 status: PUBLISHED
 createdAt: 2022-01-10T17:36:39.512Z
-updatedAt: 2023-03-22T19:10:38.069Z
-publishedAt: 2023-03-22T19:10:38.069Z
+updatedAt: 2024-01-23T15:50:34.329Z
+publishedAt: 2024-01-23T15:50:34.329Z
 firstPublishedAt: 2022-01-10T20:19:23.317Z
 contentType: tutorial
 productTeam: Financial
@@ -18,9 +18,10 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 BoletoFlex es un medio de pago donde los usuarios pueden pagar sus compras en cuotas utilizando el boleto, con tasas de interés predeterminadas y sin necesidad de utilizar una tarjeta de crédito.
 
 ## Configurar afiliación de gateway BoletoFlex
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. En la pestana __Afiliaciones de Gateway__, haga clic en el botón __+__.
-3. Haga clic en el conector __BoletoFlex__.
+
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __BoletoFlex__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. Rellene los campos de registro __Application Key__ y __Application Token__ con los datos proporcionados por BoletoFlex.
 5. Haga clic en __Guardar__.
 

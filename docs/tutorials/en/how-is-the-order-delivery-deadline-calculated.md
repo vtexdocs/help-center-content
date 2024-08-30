@@ -3,8 +3,8 @@ title: 'How is the order delivery deadline calculated?'
 id: 1TOuKCIjGQmqOqQkEqCg82
 status: PUBLISHED
 createdAt: 2018-01-12T12:56:52.805Z
-updatedAt: 2023-03-29T14:09:06.429Z
-publishedAt: 2023-03-29T14:09:06.429Z
+updatedAt: 2023-09-23T00:34:19.034Z
+publishedAt: 2023-09-23T00:34:19.034Z
 firstPublishedAt: 2018-01-12T14:42:26.502Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,27 +15,22 @@ legacySlug: how-is-the-order-delivery-deadline-calculated
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-The deadline for delivering an order takes into account the "cost periods" defined for the five stages of the logistics route:
-- Stock.
-- Dock.
-- Carrier.
-- Holidays.
-- Cut-off times.
+The shipping time calculation for an order takes into account the following aspects:
 
-That is, for each of these steps you can define a detention time - and the delivery time that your customer will see at the checkout is the sum of these cost times.
+- [Lead time](https://help.vtex.com/en/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B)
+- [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
+- [Dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
+- [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)
 
-![deliveryCostTimes](//images.contentful.com/alneenqid6w5/hA6N4VPj440AEqEecIUck/0a6784f0c3d6f6d88b65547762600a7d/deliveryCostTimes.png)
+![lead_time_image_total_time_EN](https://images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/8a3f64f6c30a7a513bb98d0c97b355a3/lead_time_image_total_time_EN.png)
 
-The detention time for the __stock__ and __dock__ are defined in the setting screens of each of these steps, in **Shipping > Shipping Strategy.**
+You configure e time frame for each one of them and what your customer sees at checkout is a shipping time calculated adding those configurationn.
 
-![entrega1.en](https://images.ctfassets.net/alneenqid6w5/39bRRLzf4nv4V0EpDe71cQ/ae7546c90db3697294b9fc499a80dd81/entrega1.en.png) 
+The __carriers__ shipping time is defined in the [freight table](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127), which has to be associated to your shipping strategy through a [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140).
 
-![entrega2.en](https://images.ctfassets.net/alneenqid6w5/23DgHkimiBcH2alWZEQyYI/b9b78b5cbddaa2efa0a218122ab818ad/entrega2.en.png)
+To configure shipping policies, warehouses an docks, go to your VTEX Admin, in **Shipping > Shipping Strategy**. In this page, there a tab for each. If you want to configure lead time, go to **Catalog > Inventory Management**.
 
-The detention cost of the __carrier__ is defined in the freight table, sent to VTEX through the carrier configuration screen, also in the **Shipping Strategy > Shipping policy** tab.
+### Know more
 
-![entrega3.en](https://images.ctfassets.net/alneenqid6w5/lFStGX80SPEuAWnVwt2eK/ca241929a087956172dedc1097559871/entrega3.en.png)
-
-### Go further
-
-Through freight simulation, you can check how the delivery time for a specific order has been calculated. Understand how in the article [Checking how an order delivery deadline was calculated](/en/tutorial/checking-how-an-order-delivery-deadline-was-calculated).
+- [Shipping Simulator](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)
+- [Checking how an order delivery deadline was calculated](https://help.vtex.com/en/tutorial/verificar-como-o-prazo-de-entrega-de-um-pedido-foi-calculado).

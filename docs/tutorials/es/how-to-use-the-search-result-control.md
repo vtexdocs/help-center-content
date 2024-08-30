@@ -17,9 +17,7 @@ subcategory: 2g6LxtasS4iSeGEqeYUuGW
 
 El control `<vtex.cmc:searchResult/>` renderiza una vitrina con los productos devueltos por una búsqueda del usuario.
 
-<div class="alert alert-info">
-Este control funciona <b>sólo en páginas con contexto de búsqueda</b>, o sea, páginas donde los resultados mostrados fueron traídos por una búsqueda del usuario.
-</div>
+>ℹ️ Este control funciona **sólo en páginas con contexto de búsqueda**, o sea, páginas donde los resultados mostrados fueron traídos por una búsqueda del usuario.
 
 Cuando el usuario realiza una búsqueda en la tienda, el sistema de VTEX intenta traer resultados de acuerdo con un orden de prioridad de filtros. Entienda la búsqueda en el artículo [Cómo funciona la búsqueda de VTEX](/es/tutorial/como-funciona-la-busqueda-de-vtex).
 

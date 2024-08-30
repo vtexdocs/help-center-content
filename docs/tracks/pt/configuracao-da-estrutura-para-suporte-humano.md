@@ -1,10 +1,10 @@
 ---
 title: 'Configuração da estrutura para Atendimento Humano'
 id: SxhYiiqUJYiQX4CIWxmVE
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-08-23T15:25:37.553Z
-updatedAt: 2023-04-27T15:32:38.909Z
-publishedAt: 2023-04-27T15:32:38.909Z
+updatedAt: 2024-01-05T17:14:19.560Z
+publishedAt: 
 firstPublishedAt: 2022-08-23T17:47:18.082Z
 contentType: trackArticle
 productTeam: Shopping
@@ -21,9 +21,7 @@ Há duas opções de parceiros pré-integrados com o Conversational Commerce VTE
 * [Zenvia](#integracao-zenvia)
 * [Zendesk](#integracao-zendesk)
 
-<div class="alert alert-info">
-<p>Converse com o time de desenvolvimento da VTEX caso deseje integrar com outras plataformas.</p>
-</div>
+>ℹ️ Converse com o time de desenvolvimento da VTEX caso deseje integrar com outras plataformas.
 
 ## Integração Zenvia
 

@@ -18,9 +18,7 @@ internalReference: 465652
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O usuário não pode acessar o sistema Master Data/CRM via autenticação SAML

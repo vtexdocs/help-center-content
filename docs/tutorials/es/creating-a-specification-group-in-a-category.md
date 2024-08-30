@@ -24,9 +24,7 @@ En este artículo, te explicamos cómo funciona la herencia de especificaciones 
 * [Herencia de especificaciones](#herencia-de-especificaciones)
 * [Paso a paso en el Admin VTEX](#paso-a-paso-en-el-admin-vtex)
 
-<div class = "alert alert-info">
-  <p>Para crear un grupo de especificaciones con la <strong>API Catálogo</strong>, sigue la guía para desarrolladores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a> (Cómo crear una especificación).</p>
-</div>
+>ℹ️ Para crear un grupo de especificaciones con la **API Catálogo**, sigue la guía para desarrolladores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification) (Cómo crear una especificación).
 
 ## Herencia de especificaciones
 

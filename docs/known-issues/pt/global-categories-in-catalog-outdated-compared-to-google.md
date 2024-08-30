@@ -3,8 +3,8 @@ title: 'Categorias globais em catálogo desatualizadas em comparação com o Goo
 id: 4vH5NRdMsuZmOohdHFn16H
 status: PUBLISHED
 createdAt: 2023-02-14T19:42:08.121Z
-updatedAt: 2023-02-14T19:42:08.712Z
-publishedAt: 2023-02-14T19:42:08.712Z
+updatedAt: 2024-07-01T18:48:52.824Z
+publishedAt: 2024-07-01T18:48:52.824Z
 firstPublishedAt: 2023-02-14T19:42:08.712Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: categorias-globais-em-catalogo-desatualizadas-em-comparacao-com-o-google
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 754062
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O Google atualizou recentemente suas categorias de taxonomia, chamadas de categoria global na VTEX. Entretanto, comparando as categorias descritas no arquivo do Google e dentro do catálogo VTEX, você pode ver que nossa referência está desatualizada.

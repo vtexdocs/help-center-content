@@ -18,9 +18,7 @@ internalReference: 823218
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o marketplace tem muitos vendedores e usa as planilhas de mapeamento para a maioria deles, a UI de mapeamento de catálogo pode ser muito pesada e, cada vez que o comerciante tenta acessá-la, leva muito tempo para carregar.

@@ -3,8 +3,8 @@ title: 'Configurar gateway vcmais'
 id: 28nAmwnfxWSoQEIO8EYYaI
 status: PUBLISHED
 createdAt: 2018-04-17T21:48:38.248Z
-updatedAt: 2023-03-29T00:43:23.712Z
-publishedAt: 2023-03-29T00:43:23.712Z
+updatedAt: 2023-10-18T12:07:58.261Z
+publishedAt: 2023-10-18T12:07:58.261Z
 firstPublishedAt: 2018-04-18T21:26:18.172Z
 contentType: tutorial
 productTeam: Financial

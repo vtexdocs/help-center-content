@@ -18,9 +18,7 @@ internalReference: 697107
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As transações estão ficando presas no estágio "Analyzing Risk" porque o campo `documentType` é nulo.

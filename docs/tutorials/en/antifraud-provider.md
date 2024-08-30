@@ -142,9 +142,7 @@ These keys should be made available by you and will serve to identify the store 
 ## Cardholder Document Configuration
 During payment transactions analysis, some anti-fraud providers may choose not to use additional information such as the cardholder’s personal identification. In these cases, the merchant has the autonomy to decide whether or not to request this document from his customer during the checkout procedure.
 
-<div class="alert alert-warning">
-  The configuration option <b>Cardholder document field</b> will only be available to the merchant if the anti-fraud provider declares in its <a href="https://developers.vtex.com/vtex-rest-api/reference/manifest">manifest</a>, the cardholder document field (<code>cardholderDocument</code>) as <code>optional</code>. Learn more at <a href="https://developers.vtex.com/vtex-rest-api/docs/cardholder-document-configuration">Cardholder Document Configuration</a>.
-  </div>
+>⚠️ The configuration option **Cardholder document field** will only be available to the merchant if the anti-fraud provider declares in its [manifest](https://developers.vtex.com/vtex-rest-api/reference/manifest), the cardholder document field (`cardholderDocument`) as `optional`. Learn more at [Cardholder Document Configuration](https://developers.vtex.com/vtex-rest-api/docs/cardholder-document-configuration).
 
 To set up the cardholder document field, follow the steps below:
 

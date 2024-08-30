@@ -1,10 +1,10 @@
 ---
-title: 'Cómo escribir un ticket completo para Soporte VTEX'
+title: 'Buenas prácticas para abrir un ticket con el soporte VTEX'
 id: 6u4ehk6F0ksuDgYuCbFDRX
 status: PUBLISHED
 createdAt: 2023-03-23T22:00:24.560Z
-updatedAt: 2023-03-24T18:24:48.580Z
-publishedAt: 2023-03-24T18:24:48.580Z
+updatedAt: 2024-04-22T23:02:06.481Z
+publishedAt: 2024-04-22T23:02:06.481Z
 firstPublishedAt: 2023-03-23T22:57:50.828Z
 contentType: tutorial
 productTeam: Others
@@ -23,12 +23,53 @@ Recuerda que mientras más contexto los especialistas tengan, más rápido podr�
 
 Este artículo es una guía para que los clientes y partners abran los tickets con información pertinente para agilizar el proceso de investigación de nuestros especialistas. Se divide en las siguientes secciones:
 
-- [Guías generales](#guias-generales)
-- [Información pertinente por escenario](#informacion-pertinente-por-escenario)
+- [Antes de abrir un ticket](#antes-de-abrir-un-ticket)
+- [Rellenar un ticket](#rellenar-un-ticket)
 
-## Guías generales
+Para aprender a abrir un ticket en VTEX, consulta el artículo [Abrir tickets para el soporte VTEX](https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
-Para rellenar un ticket de forma completa, se deben seguir algunas guías:
+## Antes de abrir un ticket
+
+Antes de abrir un ticket, verifica si el problema está relacionado con las personalizaciones de la tienda. Si el origen del problema es una personalización, debes ponerte en contacto con el equipo responsable de la misma. De lo contrario, abre un ticket con el equipo de soporte de VTEX.
+
+### Carrito y Checkout y Tiendas en CMS
+
+Es importante comprobar que el problema se produce sin personalizaciones activas en la tienda. Para realizar esta prueba, desactiva las personalizaciones (JS y CSS) e intenta reproducir el error según se explica en el artículo [Cómo bloquear personalizaciones para investigar problemas en el frontend de la tienda](https://help.vtex.com/es/faq/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja--5c1a4bvVK8rAvKLczhkCnY). Si el error continúa, ponte en contacto con [nuestro equipo de soporte](https://help.vtex.com/es/support).
+
+### Store Framework
+Para comprobar si el problema está asociado a IO, sigue los pasos a a continuación:
+
+1.	Abre la línea de comandos e inicia sesión en tu tienda utilizando VTEX IO CLI.
+2. Accede a un workspace de desarrollo ejecutando el siguiente comando:
+    ```
+    vtex use {workspace}
+    ```
+3.	Si tu tienda tiene un tema de Store Framework instalado, desinstálalo utilizando el siguiente comando:
+    ```
+    vtex uninstall {tema}
+    ```
+    >ℹ️ Puedes comprobar si hay algún tema instalado utilizando el comando `vtex list`, que muestra una lista de todas las aplicaciones instaladas en la tienda.
+4.	Clona el tema predeterminado de Store Framework en tu computadora.
+5.	En la línea de comandos, accede a la carpeta del tema predeterminado.
+6.	Ejecuta el comando:
+
+    ```
+    vtex link
+    ```
+
+    >⚠️ Si tu tienda no tiene la aplicación Reviews and Ratings instalada, puede aparecer un error al intentar establecer el vínculo. Para evitar este problema, remueve esta aplicación de la lista de `peer dependencies` del archivo `manifest.json` del tema predeterminado.
+
+7.	Accede al storefront de tu workspace mediante la URL:
+    ```
+    https://{workspace}--{nombreDeLaCuenta}.myvtex.com
+    ```
+8.	Intenta reproducir el error.
+
+Si el error no se produce después del bloqueo de los archivos o en el tema predeterminado de Store Framework, el error está asociado a las personalizaciones del sitio web. Para solucionarlo, debes ponerte en contacto con el equipo responsable del frontend de tu tienda.
+
+## Rellenar un ticket
+
+Para rellenar un ticket de forma completa, sigue estas guías:  
 
 | Información | Guías |
 | ----------- | ----------- |
@@ -37,9 +78,12 @@ Para rellenar un ticket de forma completa, se deben seguir algunas guías:
 | Escenario esperado | Proporciona los detalles del escenario esperado, en comparación con lo que está ocurriendo. |
 | Pruebas y validaciones | Si ya intentaste solucionar el problema, detalla las acciones que ya hayas realizado, qué documentación consultaste y los resultados. |
 | Alcance del ticket | <p> - No abordes más de un problema en un mismo ticket. </p> <p> - No crees más de un ticket para el mismo problema. </p> |
-| Prioridad | Comprueba la prioridad correcta según la naturaleza del problema para que se aplique el SLA correcto. |
+| Prioridad | 
+Comprueba la [prioridad](https://help.vtex.com/es/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9#prioridade-de-chamados) según la naturaleza del problema. Lea mas en [¿Como funciona el soporte de VTEX?](https://help.vtex.com/es/faq/como-funciona-el-soporte-de-vtex--3kACEfni4m8Yxa1vnf2ebe?&utm_source=autocomplete)|
+ | Información pertinente sobre el producto | 
+Consulta la siguiente tabla para ver la información pertinente dependiendo del producto en el que se produzca el error.
 
-## Información pertinente por escenario
+### Información pertinente sobre el producto
 
 Hay varios escenarios que pueden dar lugar a la apertura de un ticket. En esta sección, se enumeran los escenarios más comunes y la información básica necesaria para abrir un ticket en cada uno.
 

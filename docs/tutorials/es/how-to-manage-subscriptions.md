@@ -3,8 +3,8 @@ title: 'Cómo Gestionar Suscripciones '
 id: 6Jk50FPbv6iuz1OsFypv8x
 status: PUBLISHED
 createdAt: 2020-02-05T14:18:54.781Z
-updatedAt: 2022-12-05T16:48:31.127Z
-publishedAt: 2022-12-05T16:48:31.127Z
+updatedAt: 2023-12-21T14:08:39.725Z
+publishedAt: 2023-12-21T14:08:39.725Z
 firstPublishedAt: 2020-02-11T14:56:17.333Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -38,6 +38,8 @@ La sección de **Suscripciones Únicas** permite:
 ![ES Dashboard Assinatura única](https://images.ctfassets.net/alneenqid6w5/3BEDDrOsEARRJ1XfuwABDd/ecc8168966e3379654269a2d47b405c0/ES_Dashboard_Assinatura___nica.png)
 
 ### Pedidos de Suscripción
+
+>ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 La sección **Pedidos de Suscripción** permite: 
 

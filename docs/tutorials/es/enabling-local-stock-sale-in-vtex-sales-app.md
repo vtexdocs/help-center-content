@@ -25,9 +25,7 @@ Venta de inventario local permite al vendedor de una tienda física realizar ven
 6. [Conectar la cuenta franquicia a la tienda física](#conectar-la-cuenta-franquicia-a-la-tienda-fisica)
 7. [Integrar el punto de ventas](#integrar-el-punto-de-ventas)
 
-<div class="alert alert-info">
-<p>Venta de inventario local solo puede configurarse en tiendas que ya utilicen Sales App. Para más información sobre cómo solicitar y configurar Sales App, consulta <a href="https://help.vtex.com/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc">Sales App - Primeros pasos y configuración</a>.</p>
-</div>
+>ℹ️ Venta de inventario local solo puede configurarse en tiendas que ya utilicen Sales App. Para más información sobre cómo solicitar y configurar Sales App, consulta [Sales App - Primeros pasos y configuración](https://help.vtex.com/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc).
 
 ## Crear una cuenta franquicia
 
@@ -64,9 +62,7 @@ Si todos tus productos se muestran sin cantidad, tendrás que agregar las cantid
 
 Puedes [habilitar la venta de un ítem sin stock](#habilitar-la-venta-de-un-item-sin-stock-opcional) si quieres asegurarte de que el ítem esté siempre disponible para los clientes en la tienda.
 
-<div class="alert alert-info">
-<p>Si has creado dos almacenes diferentes, uno para la tienda online y otro para Sales App, es importante gestionar correctamente la cantidad de ítems de cada uno.</p>
-</div>
+>ℹ️ Si has creado dos almacenes diferentes, uno para la tienda online y otro para Sales App, es importante gestionar correctamente la cantidad de ítems de cada uno.
 
 ## Conectar la cuenta franquicia a la tienda física
 
@@ -79,9 +75,7 @@ Deberás seleccionar un vendedor de la tienda en la que quieras probar Venta en 
 
 ![instore-pdp-es](https://images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/b2feab0b2eb3c3893ed654801743e5cd/image.png)
 
-<div class="alert alert-info">
-<p>Si has habilitado el stock infinito, el número mostrado será superior a 1 millón de ítems y no cambiará cuando se complete una venta.</p>
-</div>
+>ℹ️ Si has habilitado el stock infinito, el número mostrado será superior a 1 millón de ítems y no cambiará cuando se complete una venta.
 
 ### Habilitar la venta de un ítem sin stock (opcional)
 

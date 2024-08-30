@@ -1,10 +1,10 @@
 ---
 title: '¿Qué es el comercio conversacional de VTEX?'
 id: 1NwwADrU70v3roPUV7dWxI
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-08-23T14:47:50.242Z
-updatedAt: 2023-04-18T15:02:45.235Z
-publishedAt: 2023-04-18T15:02:45.235Z
+updatedAt: 2024-01-05T17:13:58.076Z
+publishedAt: 
 firstPublishedAt: 2022-08-23T17:46:55.444Z
 contentType: trackArticle
 productTeam: Shopping
@@ -20,9 +20,7 @@ Con esta solución, es posible comprar utilizando una lista de compras, ideal pa
 
 Para el uso de este servicio, Message-to-Order ya está preintegrado con las plataformas de mercado Zenvia (producto Zenvia Chat) y Zendesk. Si las tiendas no utilizan estas plataformas o no desean ofrecer servicio al cliente humano, existe la posibilidad de redirigir a los clientes a los canales de atención estándar a través de un mensaje personalizado.
 
-<div class="alert alert-info">
-Message-to-Order es un producto en fase inicial con alcance reducido (alfa). Por lo tanto, el perfil del cliente y los mercados cubiertos aún se limitan a Brasil y LATAM y solo está disponible un conjunto limitado de funciones.
-</div>
+>ℹ️ Message-to-Order es un producto en fase inicial con alcance reducido (alfa). Por lo tanto, el perfil del cliente y los mercados cubiertos aún se limitan a Brasil y LATAM y solo está disponible un conjunto limitado de funciones.
 
 Para agregar Conversational Commerce VTEX a tu tienda se requieren las siguientes configuraciones:
 

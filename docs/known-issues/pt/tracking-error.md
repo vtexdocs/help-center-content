@@ -18,9 +18,7 @@ internalReference: 514557
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O vendedor faturou alguns pedidos, mas as informações de rastreamento não foram enviadas à B2W.

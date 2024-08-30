@@ -3,8 +3,8 @@ title: 'Impressão de resumo do pedido'
 id: 5UeqJA3sHp5goJacvHwPoS
 status: PUBLISHED
 createdAt: 2021-08-05T14:40:53.752Z
-updatedAt: 2023-05-31T15:23:48.750Z
-publishedAt: 2023-05-31T15:23:48.750Z
+updatedAt: 2023-07-26T19:01:33.402Z
+publishedAt: 2023-07-26T19:01:33.402Z
 firstPublishedAt: 2021-08-05T14:47:18.680Z
 contentType: trackArticle
 productTeam: Shopping
@@ -38,9 +38,7 @@ Para fazer o pareamento com uma impressora, é necessário cumprir os pré-requi
 * Caso não tenha o VTEX Sales App em seu computador, instalar o aplicativo a partir do nosso guia de [Instalação](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/2rPSJ8519UCCZo5uEBkqxh).
 * Obter um par de credenciais (AppKey e AppToken) com as devidas permissões de acesso. Leia o artigo [Chaves de aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) para mais informações.
 
-<div class="alert alert-info">
-<p>Nós recomendamos que o perfil de acesso relacionado a essas credenciais seja o <strong>VTEX Sales App Sales Person</strong>. Porém, um perfil com acesso a outros módulos do Admin, como o <strong>Admin Super</strong>, também pode ser utilizado.</p>
-</div>
+>ℹ️ Nós recomendamos que o perfil de acesso relacionado a essas credenciais seja o **VTEX Sales App Sales Person**. Porém, um perfil com acesso a outros módulos do Admin, como o **Admin Super**, também pode ser utilizado.
 
 ### Passo a passo
 

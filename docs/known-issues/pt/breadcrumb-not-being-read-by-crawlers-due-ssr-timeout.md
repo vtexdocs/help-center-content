@@ -18,9 +18,7 @@ internalReference: 460999
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao carregar pela primeira vez o pão ralado, os dados da lista de categorias estão ficando mais rápidos do que os da árvore de categorias enviada pela consulta de facetas, isto está causando um comportamento inesperado no tempo de carga do pão ralado, porque a lista de categorias traz também categorias similares de produtos similares e não tem todas as informações necessárias para a json+ld.

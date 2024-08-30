@@ -3,8 +3,8 @@ title: 'Product Name Field on XML returns Product Name + Sku Name when the produ
 id: 7sNNzBe5pLn7oigDgoCKjv
 status: PUBLISHED
 createdAt: 2022-09-19T19:06:55.572Z
-updatedAt: 2022-11-25T21:43:35.947Z
-publishedAt: 2022-11-25T21:43:35.947Z
+updatedAt: 2024-02-16T20:23:45.927Z
+publishedAt: 2024-02-16T20:23:45.927Z
 firstPublishedAt: 2022-09-19T19:06:56.137Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: product-name-field-on-xml-returns-product-name-sku-name-when-the-product-has-only-1-sku
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 661089
 ---
 

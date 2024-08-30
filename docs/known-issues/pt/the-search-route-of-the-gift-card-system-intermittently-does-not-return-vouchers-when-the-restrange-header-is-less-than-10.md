@@ -18,9 +18,7 @@ internalReference: 770337
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em um cenário onde o cliente tem comprovantes de fidelidade e chega à caixa, espera-se que a rota /_search devolva todos os comprovantes vinculados a esse usuário. Entretanto, o checkout passa o cabeçalho com a faixa de REST = 0-9. Em algumas contas, esta faixa não é suficiente e a API retorna uma matriz vazia. Quando simulamos a chamada diretamente à API com um intervalo maior que 10, podemos recuperar pelo menos um comprovante.

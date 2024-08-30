@@ -1,10 +1,10 @@
 ---
 title: 'Criar ponto de retirada de contingência para garanti-lo como opção no checkout '
 id: 3mowqWEfjyM2g6WoWgE0Ao
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-04-01T16:02:02.437Z
-updatedAt: 2020-06-20T04:56:48.306Z
-publishedAt: 2020-06-14T22:20:33.622Z
+updatedAt: 2023-08-01T21:35:48.449Z
+publishedAt: 2023-08-01T21:35:48.449Z
 firstPublishedAt: 2019-01-25T17:26:19.150Z
 contentType: tutorial
 productTeam: Shopping
@@ -21,15 +21,20 @@ Se seu cliente final compra um produto em qualquer dos seus canais (online ou lo
 
 No entanto, você pode preferir que essa loja funcione como ponto de retirada __mesmo se ela não tiver estoque__. Para isso, sua logística precisa garantir que o produto chegará a essa loja a partir de outro estoque - por exemplo, a partir do estoque do e-commerce. Neste caso, você precisa ter uma política de envio no e-commerce em que esteja configurado o ponto de retirada da loja física.
 
-![contingency pickup](https://images.ctfassets.net/alneenqid6w5/7sxWH5eDPpCmNlEPfHiZF1/7a10b60e1273d58d9c2ca7610a9ba888/contingency_pickup.png)
+![Criar ponto de retirada de contingência para garanti-lo como opção no checkout](https://images.ctfassets.net/alneenqid6w5/38phAuzqPzQoBPy8811K3K/53b839763aa9f25178d599d78eb73203/diagrama-como-criar-um-ponto-de_contigencia-pt.jpg)
 
 ## Como implementar um ponto de retirada de contingência
 
-Siga estes passos para implementar um estoque de contingência:
-- No painel administrativo do e-commerce ou da loja que você deseja usar como fallback - ou seja, a loja de cujo estoque sairão os produtos para abastecer o ponto de retirada -, configure um novo ponto de retirada com as informações da loja física desejada.
-- Ainda no e-commerce ou na loja de fallback, crie uma nova política de envio. Essa política de envio precisa ter exatamente o __mesmo tipo de entrega__ já configurado na logística de retirada que você utiliza na loja física onde os produtos serão retirados.
-- Associe o novo ponto de retirada criado a essa política de envio.
+Para implementar um ponto de retirada de contingência, é necessário configurar os seguintes passos:
 
-<div class="alert alert-info">
-Com isso, você terá duas rotas logísticas com o mesmo pickup point: uma delas, com estoque local da loja física; a outra com o estoque de outro canal (e-commerce ou outra loja física). Quando um cliente escolher esse ponto de retirada no checkout, as duas rotas vão competir. Sempre que houver estoque local, seu SLA será mais vantajoso e por isso ele vencerá. Quando não houver estoque local, o pedido vai cair na rota que você configurou a partir deste artigo.
-</div>
+1. No Admin VTEX, [cadastre um novo ponto de retirada](https://help.vtex.com/pt/tutorial/cadastro-de-pontos-de-retirada--2R5ClQiwe4KoSQgsuiOw4E) na loja, que possua o estoque de onde sairão os produtos, para abastecer esse ponto de retirada.
+2. [Crie uma nova política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio), cujo o tipo de envio tenha o mesmo nome do tipo de envio já configurado na polítca utilizado na loja física, onde os produtos serão retirados.
+3. Associe esta nova política ao ponto de retirada recém-criado.
+
+Dessa forma, você terá duas rotas de logística de entrega: uma logística com o estoque da loja física, e uma logística diferente com o estoque de outra loja.
+
+Quando o cliente escolher esse ponto de retirada no checkout, o sistema irá proceder da seguinte forma:
+
+- Se houver estoque local, o prazo de entrega será mais currto. Nesse caso, será selecionado o ponto de retirada principal.
+- Caso não haja estoque local, a rota logística configurada como contingência será selecionada.
+

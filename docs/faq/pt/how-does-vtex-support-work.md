@@ -3,8 +3,8 @@ title: 'Como funciona o suporte da VTEX?'
 id: 3kACEfni4m8Yxa1vnf2ebe
 status: PUBLISHED
 createdAt: 2019-03-10T19:06:12.818Z
-updatedAt: 2022-12-23T15:50:55.141Z
-publishedAt: 2022-12-23T15:50:55.141Z
+updatedAt: 2024-01-08T19:15:40.782Z
+publishedAt: 2024-01-08T19:15:40.782Z
 firstPublishedAt: 2019-03-10T19:08:36.723Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
@@ -15,6 +15,8 @@ legacySlug: planos-de-suporte
 ---
 
 Na VTEX, compartilhamos a responsabilidade pelo sucesso dos nossos clientes. Nossos planos de suporte permitem que você receba o nível adequado de atenção e expertise para fazer o melhor uso da plataforma e desenvolver o seu negócio. Com isso, você pode mitigar os riscos da sua operação digital e manter seus custos operacionais sob controle. 
+
+>ℹ️ É necessário [habilitar a autorização de suporte](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) no [License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) para que o usuário tenha acesso ao Suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.
 
 ## Suporte	
 
@@ -32,11 +34,11 @@ Enquanto seu ticket não é solucionado, você pode acompanhar o status dele pel
 
 Para melhor atender clientes globais em diferentes países, nosso time de Customer Excellence funciona de forma independente por região. Cada região tem autonomia para definir a organização e disponibilidade do seu time, o nível de serviço (SLA de atendimento) e os recursos adicionais de suporte:
 
-- América Latina (LATAM, ex. Brasil)
+- América Latina (LATAM)
 - Ásia-Pacífico (APAC)
 - [Brasil](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9)
 - [Estados Unidos (EUA)](/en/faq/vtex-support-united-states--Bm45YFp68QRe1Z5r2oa07)
-- Europa, Oriente Médio e África (EMEA)
+- [Europa, Oriente Médio e África (EMEA)](https://help.vtex.com/faq/suporte-vtex-emea--5ePu2qkCfmE0IEKDFKg53F)
 
 ### Pesquisa de Satisfação
 
@@ -48,13 +50,9 @@ Para acessá-la, vá até o menu __Configurações da Conta__ e clique em __Pesq
 
 ### Monitoramento em tempo real
 
-Prezamos pela transparência quanto à integridade dos nossos sistemas. Por isso, sempre que houver um problema crítico que afete vendas das lojas ou impacte o funcionamento da plataforma, faremos a comunicação proativa com clientes e parceiros por meio de três canais:
-
-- O painel [Healthcheck](http://healthcheck.vtex.com/) apresenta módulos responsáveis pelo monitoramento de cada serviço da VTEX em tempo real. Exibimos um indicador do funcionamento de cada módulo e o horário da última atualização, alertando quando algum recurso estiver indisponível ou com funcionamento degradado. 
+Prezamos pela transparência quanto à integridade dos nossos sistemas. Por isso, sempre que houver um problema crítico que afete vendas das lojas ou impacte o funcionamento da plataforma, faremos a comunicação proativa com clientes e parceiros por meio dos canais a seguir:
 
 - A página de [Status](https://status.vtex.com/) exibe uma linha do tempo com o histórico recente de incidentes do sistema. Nesse histórico, detalhamos as informações de cada incidente: o que aconteceu, quais módulos foram afetados, a sequência de ações até sua resolução e um resumo do ocorrido ao final.
-
-- A página de [Releases](https://releases.vtex.com/) exibe uma linha do tempo, detalhada por módulo e versão, de todas atualizações feitas nos ambientes stable e beta.
 
 Tomaremos todas as providências cabíveis para resolver a situação o quanto antes e garantir o cumprimento do nosso [SLA](https://help.vtex.com/pt/tutorial/o-que-e-o-sla-de-operacao-da-plataforma--2cIFrsY5S8usk84OU4QOKm?locale=pt) previsto em contrato.
 
@@ -70,10 +68,7 @@ Neste [portal para desenvolvedores](https://developers.vtex.com), você encontra
 
 No painel administrativo temos nosso canal de comunicação de atualizações no produto, em que publicamos comunicados sempre que alguma funcionalidade nova é lançada ou alguma ação é necessária para evitar uma interrupção de serviço. Estes comunicados também estão disponíveis na seção de [Novidades](https://help.vtex.com/pt/announcements) do Help Center.
 
-Atualizações técnicas, voltadas para desenvolvedores e parceiros, são publicadas na seção de [Release Notes](https://developers.vtex.com/changelog) do Developer Portal. Isso inclui atualizações nas APIs, novos guias de desenvolvimento e comunicados sobre o VTEX IO.
+Atualizações técnicas, voltadas para desenvolvedores e parceiros, são publicadas na seção de [Release Notes](https://developers.vtex.com/updates/release-notes) do Developer Portal. Isso inclui atualizações nas APIs, novos guias de desenvolvimento e comunicados sobre o VTEX IO.
 
 Lançamentos que tenham uma relevância maior para o mercado, como novos produtos, novos recursos de grande impacto para produtos existentes e atualizações da empresa são divulgados no [Blog](https://vtex.com/pt-br/category/produto/) e na newsletter mensal do produto.
 
-## Serviços adicionais sob demanda
-
-Para as situações em que nossos clientes precisam de um auxílio maior para projetos mais complexos, oferecemos serviços de consultoria de projetos. Caso haja interesse, seu Customer Success Manager poderá orientá-lo sobre as alternativas disponíveis e fazer o direcionamento interno da demanda para os times responsáveis.

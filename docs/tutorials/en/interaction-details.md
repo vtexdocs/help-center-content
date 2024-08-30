@@ -1,10 +1,10 @@
 ---
 title: 'Offer Management: interaction details'
 id: 5qC6XPkyUsYPd0dqKHQNlf
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-03-17T01:16:13.273Z
-updatedAt: 2023-03-31T04:45:50.134Z
-publishedAt: 2023-03-31T04:45:50.134Z
+updatedAt: 2024-06-20T21:43:33.011Z
+publishedAt: 
 firstPublishedAt: 2021-03-17T01:20:58.901Z
 contentType: tutorial
 productTeam: Channels
@@ -12,8 +12,12 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slug: interaction-details
 locale: en
 legacySlug: interaction-details
-subcategory: 2zVauFUkYn8vgS0y0MfWeK
+subcategory: 
 ---
+
+>ℹ️ To evolve your experience in synchronizing and updating offers, the VTEX team is developing a new functionality that will replace the current module **Offer Management**. As a result, the module will not receive new updates or maintenance.
+> For connectors and marketplaces already integrated into the module, please contact the development team by email [taissa.araujo@vtex.com.br](taissa.araujo@vtex.com.br).
+> For connectors interested in starting the integration, we ask you to wait for the release of the new module, as soon as it is available we will announce it to all customers through the [Developer Portal's release notes section](https://developers.vtex.com/updates/release-notes) and [VTEX Help Center announcements page](https://help.vtex.com/pt/en/announcements).  
 
 The **Interaction details** page in the [Offer Management](https://help.vtex.com/en/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE) module allows sellers to view all interactions of an offer regarding its sending and syncing processes in a comprehensive manner. Interaction details will be available for ten days after registration.
 
@@ -28,9 +32,7 @@ On the **Interaction details** page, you will see the following sections:
 - [Interaction result](#interaction-result)      
 - [Timeline](#timeline)
 
-<div class = "alert alert-info">
-In <b>Offer Management</b> , you can track offers using <a href="https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Libre</a> (Classic and Premium), <a href="https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm">Netshoes</a> and VTEX marketplaces. For connectors to integrate via API, see <a href="https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors">Offer Management Integration Guide</a>.
-</div>
+>ℹ️ In **Offer Management** , you can track offers using [Mercado Libre](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic and Premium), [Netshoes](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) and VTEX marketplaces. For connectors to integrate via API, see [Offer Management Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
 
 ## Header
 ![Interaction details PT cabeçalho](https://images.ctfassets.net/alneenqid6w5/7zEocS2MW5dSRzZaaqNDUc/d28534c5926b61794e3b16ac91636f86/Interaction_details_EN_cabe__alho.jpg)

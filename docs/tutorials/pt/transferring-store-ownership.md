@@ -51,7 +51,7 @@ Com isso, a transferência de propriedade será concluída, e não será mais po
 
 O usuário Titular é responsável por ações importantes de manutenção e autorização, e erros cometidos por este perfil de acesso podem ter consequências drásticas. Portanto, é essencial acompanhar as mudanças relacionadas a este perfil de acesso. Para monitorar e auditar as transferências de propriedade da conta, você pode acessar o histórico de atividades clicando no botão **Histórico de Atividades** na página Gerenciamento de Titular.
 
-![Histórico de Atividades](//images.contentful.com/alneenqid6w5/6iXw7ib1Wsq4BiyR4Dgp8C/5b10117478c78e73f605cebebeeba43d/Activity_Log_pt.gif)
+![Histórico de Atividades](https://images.contentful.com/alneenqid6w5/6iXw7ib1Wsq4BiyR4Dgp8C/5b10117478c78e73f605cebebeeba43d/Activity_Log_pt.gif)
 
 Todos os eventos relacionados à transferência de propriedade da conta são registrados no histórico de atividades com a data em que ocorreram e o usuário associado ao evento.
 

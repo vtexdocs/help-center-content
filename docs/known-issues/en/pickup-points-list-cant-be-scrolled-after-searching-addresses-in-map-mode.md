@@ -3,8 +3,8 @@ title: "Pickup points list can't be scrolled after searching addresses in map mo
 id: 3e0JgNoWSQ0GAw8kurGrIR
 status: PUBLISHED
 createdAt: 2022-08-11T18:35:48.300Z
-updatedAt: 2022-11-25T21:50:52.987Z
-publishedAt: 2022-11-25T21:50:52.987Z
+updatedAt: 2024-07-01T18:48:32.968Z
+publishedAt: 2024-07-01T18:48:32.968Z
 firstPublishedAt: 2022-08-11T18:35:48.775Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pickup-points-list-cant-be-scrolled-after-searching-addresses-in-map-mode
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 624646
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: '[Meli] Erro de integração do SKU "A cadeia de entrada não estava em um formato correto".'
+title: "[Meli] Erro de integração do SKU 'A cadeia de entrada não estava em um formato correto'."
 id: 2NCm4vLyb1juIuIGMaB048
 status: PUBLISHED
 createdAt: 2022-09-27T21:05:39.320Z
@@ -18,9 +18,7 @@ internalReference: 664010
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Alguns skus estão tendo um erro na integração" "A cadeia de entrada não estava em um formato correto" "A cadeia de entrada não estava em um formato correto

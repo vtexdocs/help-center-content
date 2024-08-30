@@ -3,8 +3,8 @@ title: 'Creating and editing a page template'
 id: frequentlyAskedQuestions_1850
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:59.664Z
-updatedAt: 2023-03-27T14:56:34.174Z
-publishedAt: 2023-03-27T14:56:34.174Z
+updatedAt: 2023-11-01T20:27:09.646Z
+publishedAt: 2023-11-01T20:27:09.646Z
 firstPublishedAt: 2019-01-24T22:03:09.865Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -16,7 +16,7 @@ subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial valid only for CMS Portal Legado stores.
+Tutorial valid only for Legacy CMS Portal stores.
 </div>
 
 The page template is a model designed to define an HTML structure for displaying page content.
@@ -36,16 +36,18 @@ Check out the walk-through:
 3. Click on __HTML Templates __.
 4. Just below, click on __New template__.
 5. Fill in the __Template Name__ field.
-<div class="alert alert-danger">
-  <p>When filling in the <b>Template Name</b>, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
-  <ul>
-<li><code>a</code></li>
-<li><code>meta</code></li>
-<li><code>api</code></li>
-<li><code>admin</code></li>
-<li><code>app</code></li>
-</ul></p>
-</div>
+>❗ When filling in the **Template Name**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
+>
+> *`a`
+>
+> *`meta`
+>
+> *`api`
+>
+> *`admin`
+>
+> *`app`
+> 
 6. Then fill in the __Template XHTML__ box with your template code. 
 ![4 1](https://images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
 7. Click on the __Save Template__ button.

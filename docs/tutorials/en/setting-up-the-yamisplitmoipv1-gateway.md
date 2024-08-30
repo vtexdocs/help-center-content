@@ -3,8 +3,8 @@ title: 'Setting up the YamiSplitMoipV1 gateway'
 id: 5qrjr9yukwsk4oaMMAisSK
 status: PUBLISHED
 createdAt: 2018-02-28T16:56:41.540Z
-updatedAt: 2023-03-29T00:48:49.159Z
-publishedAt: 2023-03-29T00:48:49.159Z
+updatedAt: 2024-03-12T21:02:38.695Z
+publishedAt: 2024-03-12T21:02:38.695Z
 firstPublishedAt: 2018-02-28T21:48:56.044Z
 contentType: tutorial
 productTeam: Financial
@@ -15,17 +15,19 @@ legacySlug: setting-up-the-yamisplitmoipv1-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-YamiSplitMoipV1 is a dedicated gateway that extends Moip functionality. With it, it's possible to make payment splits in the marketplaces (which allows the user to make a single payment, even buying products from different sellers) using the sub-acquirer.
+At VTEX, it is possible to integrate with the payment provider YamiSplitMoipV1. Through this provider, your store can make sales with credit cards and bank slips.
 
-## Setting up the gateway affiliation YamiSplitMoipV1
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. On the __Gateway Affiliations__ tab, click the __+__ button.
-3. Click the __YamiSplitMoipV1__ Connector.
-4. Fill in the _Application Key_ and _Application Token_ fields with your __Moip__ account information.
-5. Click __Save__.
+To configure YamiSplitMoipV1, follow the steps below:
 
-## Setting up the payment condition
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __YamiSplitMoipV1__ in the search bar and click on the name of the provider.
+4. In __Provider Authorization__, fill in the __App Key__ and __App token__ fields with data provided by Moip.
+5. If you wish to modify the identification name to be displayed for the YamiSplitMoipV1 provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
+6. Click `Save`.
 
-After following the steps above, YamiSplitMoipV1 will be configured in your store. Thus, while you are registering a payment condition to be used in a marketplace, it will be available in the __Process with affiliation__ field. 
+To configure the payment methods to be processed by YamiSplitMoipV1, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 
-To learn how to set payment conditions, visit [this Help article](/en/tutorial/how-to-configure-payment-conditions).
+To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
+
+After following the indicated steps, YamiSplitMoipV1 may take up to 10 minutes to appear at your store's checkout as a payment option.

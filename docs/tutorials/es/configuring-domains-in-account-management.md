@@ -17,15 +17,13 @@ subcategory: yMp6sKDiJEi66CGAIQ4ma
 
 La configuración de dominios es necesaria para que la URL accedida sea correctamente direccionada a una tienda VTEX. A continuación puede aprender cómo [registrar un nuevo dominio](#registrar-nuevo-dominio) o [cambiar el dominio de una tienda activa](#cambiar-dominio-de-tienda).
 
-<div class="alert alert-danger">
-En caso de que su operación tenga más de una cuenta o subcuentas VTEX, no intercambie dominios entre ellas. Esto provocará errores en diferentes aspectos de tu tienda.
-</div>
+>❗ En caso de que su operación tenga más de una cuenta o subcuentas VTEX, no intercambie dominios entre ellas. Esto provocará errores en diferentes aspectos de tu tienda.
 
-<div class="alert alert-warning">
-Si agregas más de un dominio como host de tu tienda, todos ellos mostrarán el mismo contenido. Sin embargo, recomendamos registrar solo un dominio y utilizar redirecciones para los demás. Obtenga más información sobre redirecciones:
-<ul><li><a href=”https://help.vtex.com/es/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ”>Redirección de otras direcciones</a></li>
-  <li><a href=”https://help.vtex.com/es/tutorial/configurando-acesso-sem-www--tutorials_4278”>Configurar acceso sin www</a></li></ul> 
-</div>
+>⚠️ Si agregas más de un dominio como host de tu tienda, todos ellos mostrarán el mismo contenido. Sin embargo, recomendamos registrar solo un dominio y utilizar redirecciones para los demás. Obtenga más información sobre redirecciones:
+>
+> *<a href=”https://help.vtex.com/es/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ”>Redirección de otras direcciones</a>
+>
+> * <a href=”https://help.vtex.com/es/tutorial/configurando-acesso-sem-www--tutorials_4278”>Configurar acceso sin www</a>
 
 ## Subdominio
 
@@ -35,9 +33,7 @@ Todo dominio registrado de esta forma debe contener un subdominio, que puede ser
 - `www.mitienda.com` - Dominio válido.
 - `tienda.mimarca.com` - Dominio válido.
 
-<div class = "alert alert-info">
-  Obtenga más información sobre como <a href="https://help.vtex.com/es/tutorial/configuring-access-without-www--tutorials_4278">configurar acceso sin www</a>.
-</div>
+>ℹ️ Obtenga más información sobre como [configurar acceso sin www](https://help.vtex.com/es/tutorial/configuring-access-without-www--tutorials_4278).
 
 ## Registrar nuevo dominio
 

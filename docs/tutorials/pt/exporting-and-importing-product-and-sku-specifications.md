@@ -3,8 +3,8 @@ title: 'Exportar e importar especificações de produto e de SKU'
 id: tutorials_274
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:43.787Z
-updatedAt: 2023-03-29T15:30:59.932Z
-publishedAt: 2023-03-29T15:30:59.932Z
+updatedAt: 2024-02-21T20:34:56.013Z
+publishedAt: 2024-02-21T20:34:56.013Z
 firstPublishedAt: 2017-04-27T23:03:12.428Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -19,15 +19,13 @@ Após a definição da árvore de categorias e o cadastro de [especificações d
 
 Neste artigo, explicamos como funciona a exportação e importação de planilhas com as especificações de produto e de SKU no Admin VTEX.
 
-<div class = "alert alert-info">
-  <p>Para exportar e importar especificações utilizando a <strong>Catalog API</strong>, siga o guia para desenvolvedores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a>.</p>
-</div>
+>ℹ️ Para exportar e importar especificações utilizando a **Catalog API**, siga o guia para desenvolvedores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification).
 
 ## Exportar especificações de produto ou de SKU
 
 Veja a seguir como exportar a planilha com as especificações de produto ou de SKU:
 
-1.No Admin VTEX, acesse __Catálogo__, ou digite __Catálogo__ na barra de busca no topo da página.
+1. No Admin VTEX, acesse __Catálogo__, ou digite __Catálogo__ na barra de busca no topo da página.
 2. Clique em __Importação e exportação__.
 3. Clique na aba __Especificações de produto__ ou __Especificações de SKU__, dependendo da sua necessidade.
     ![skuexport.pt](https://images.ctfassets.net/alneenqid6w5/2GmGsYDBCUlq01JyLJF6q/63708fe7dece1cf9ec100eeaf0851674/skuexport.pt.png)
@@ -39,6 +37,8 @@ Veja a seguir como exportar a planilha com as especificações de produto ou de 
 
 ![skuexport2.pt](https://images.ctfassets.net/alneenqid6w5/32z4zfvN7GeKcfZsuVQsGA/cac3411fabd0a1d32cb85b4592d0a4dd/skuexport2.pt.png)
 
+>ℹ️ A planilha exportada ficará disponível por uma semana no seu email. Caso exceda esse prazo, siga o passo a passo de exportação novamente para gerar uma nova planilha.
+
 ## Importar especificações de produto ou de SKU
 
 Para a importação das especificações, é recomendável a utilização de uma planilha exportada do sistema, pois a mesma apresenta os requisitos necessários para a importação, além de conter dados de referência que poderão auxiliar no preenchimento.
@@ -47,9 +47,7 @@ Na planilha de importação, a única coluna a ser preenchida é a `ValorEspecif
 
 A estrutura da planilha apresenta uma linha para cada campo do produto ou SKU, ou seja, o mesmo produto ou SKU será apresentado diversas vezes de acordo com os campos existentes em sua categoria.
 
-<div class="alert alert-warning">
-  <p>Na planilha exportada, a coluna referente a "ValorEspecificacao" é "NomeCampoValor (Não alterável)". Ao preencher o campo, a grafia das características deve ser exata. Letras maiúsculas e minúsculas fazem diferença nesse caso.</p>
-  </div>
+>⚠️ Na planilha exportada, a coluna referente a "ValorEspecificacao" é "NomeCampoValor (Não alterável)". Ao preencher o campo, a grafia das características deve ser exata. Letras maiúsculas e minúsculas fazem diferença nesse caso.
 
 Siga os passos abaixo para importar a planilha:
 

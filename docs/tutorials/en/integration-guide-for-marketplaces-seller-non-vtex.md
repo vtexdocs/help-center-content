@@ -1,10 +1,10 @@
 ---
 title: 'Integration guide for marketplaces - Seller non VTEX'
 id: yMji0ow0rQuYgQsg26Kus
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-10-14T21:55:39.633Z
-updatedAt: 2021-08-10T18:51:48.080Z
-publishedAt: 2021-08-10T18:51:48.080Z
+updatedAt: 2023-08-18T19:03:38.625Z
+publishedAt: 
 firstPublishedAt: 2017-10-14T22:00:36.965Z
 contentType: tutorial
 productTeam: Channels
@@ -15,9 +15,7 @@ legacySlug: integration-guide-for-marketplaces-seller-non-vtex
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-<div class="alert alert-warning">
-Check out the updated version of this <a href="https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-connector">marketplace integration guide</a> in our Developer Portal. 
-</div> 
+>⚠️ Check out the updated version of this [marketplace integration guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-connector) in our Developer Portal. 
 
 ## Seller non VTEX Selling in Marketplace Hosted on VTEX
 

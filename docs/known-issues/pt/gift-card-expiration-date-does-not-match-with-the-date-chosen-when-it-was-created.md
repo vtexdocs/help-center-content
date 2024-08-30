@@ -3,8 +3,8 @@ title: 'A data de vencimento do cartão-presente não coincide com a data escolh
 id: 57GeuSubkdDkQNwzL3nmup
 status: PUBLISHED
 createdAt: 2022-03-27T14:08:35.577Z
-updatedAt: 2022-11-25T22:07:21.976Z
-publishedAt: 2022-11-25T22:07:21.976Z
+updatedAt: 2024-07-01T18:48:00.399Z
+publishedAt: 2024-07-01T18:48:00.399Z
 firstPublishedAt: 2022-03-27T14:08:36.056Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-data-de-vencimento-do-cartaopresente-nao-coincide-com-a-data-escolhida-quando-ele-foi-criado
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 378436
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os clientes estão recebendo um erro ao tentarem pagar com Cartões-Presente quando a data da compra coincide com a data de expiração.

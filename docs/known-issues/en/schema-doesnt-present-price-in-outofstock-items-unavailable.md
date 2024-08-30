@@ -24,7 +24,7 @@ Unavailable products (outOfstock) do not have price information in Schema.
 
 - Take an item with no stock being displayed on the website as unavailable;
 - See in Schema that it will be displayed as outOfstock and will not show the price.
-![schema  outOfstock ](//images.contentful.com/alneenqid6w5/6PgCuzUXXGo0iC6UeAMUA6/4390b013aaf5d3083ffef407180cd484/ItemTypes-duplicidade.png)
+![schema  outOfstock ](https://images.contentful.com/alneenqid6w5/6PgCuzUXXGo0iC6UeAMUA6/4390b013aaf5d3083ffef407180cd484/ItemTypes-duplicidade.png)
 
 ## Workaround
 

@@ -18,9 +18,7 @@ internalReference: 393958
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando los usuarios aplican una tarjeta de regalo y luego van a utilizar "Pagar con dos tarjetas" para pagar la diferencia, la pantalla salta y simplemente escoge un valor diferente al elegido.

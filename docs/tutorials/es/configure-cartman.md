@@ -3,8 +3,8 @@ title: 'Configurar Cartman'
 id: 1ACMTStZYkMqB0lTgwg451
 status: PUBLISHED
 createdAt: 2019-09-03T15:02:48.303Z
-updatedAt: 2022-06-15T23:16:07.805Z
-publishedAt: 2022-06-15T23:16:07.805Z
+updatedAt: 2024-03-13T18:18:17.017Z
+publishedAt: 2024-03-13T18:18:17.017Z
 firstPublishedAt: 2019-09-09T18:28:20.208Z
 contentType: tutorial
 productTeam: Shopping
@@ -25,17 +25,16 @@ Para dominios oficiales de la tienda (`www.{sutienda}.com`), debe activar [activ
 
 Este artículo cubrirá los siguientes temas:
 
-- [Activar Cartman manualmente](configurar-cartman#activar-cartman-manualmente)
-- [Funciones Cartman](configurar-cartman#funciones-cartman)
-  - [Obtener información sobre los ítems en el carrito](configurar-cartman#obtener-informacion-sobre-los-items-en-el-carrito)
-  - [Agregar ítems específicos al carrito](configurar-cartman#agregar-items-especificos-al-carrito)
-  - [Agregar ítems aleatorios al carrito](configurar-cartman#agregar-items-aleatorios-al-carrito)
-  - [Establecer datos de marketing](configurar-cartman#establecer-datos-de-marketing)
-- [Deshabilitar Cartman](configurar-cartman#deshabilitar-cartman) 
+- [Activar Cartman manualmente](#activar-cartman-manualmente)
+- [Funciones Cartman](#funciones-cartman)
+  - [Simulador de promociones](#simulador-de-promociones)
+  - [Obtener información sobre los ítems en el carrito](#obtener-informacion-sobre-los-items-en-el-carrito)
+  - [Agregar ítems específicos al carrito](#agregar-items-especificos-al-carrito)
+  - [Agregar ítems aleatorios al carrito](#agregar-items-aleatorios-al-carrito)
+  - [Establecer datos de marketing](#establecer-datos-de-marketing)
+- [Deshabilitar Cartman](#deshabilitar-cartman) 
 
-<div class="alert alert-warning">
-  Solo el comerciante tiene acceso a <b>Cartman</b>. Sus funciones no están disponibles para el uso de los usuarios en una tienda.
-</div>
+>⚠️ Solo el comerciante tiene acceso a **Cartman**. Sus funciones no están disponibles para el uso de los usuarios en una tienda.
 
 ## Activar Cartman manualmente
 
@@ -43,9 +42,15 @@ Para activar Cartman manualmente, siga los pasos a continuación:
 
 1. Acceda a cualquier página de Checkout de su tienda (`https://{accountname}.myvtex.com/checkout/`).
 2. Inserte la query string `?cartman=on` al final de la URL (`https://accountname.myvtex.com/checkout?cartman=on`).
-3. En la esquina inferior derecha de la pantalla, haga clic en el botón <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> para acceder a Cartman.
+3. En la esquina inferior derecha de la pantalla, haga clic en el botón <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> para acceder a Cartman.
 
 ## Funciones Cartman
+
+### Simulador de promociones
+
+Al acceder al **Simulador de promociones**, puedes ver las promociones creadas en tu tienda que se aplicaron al carrito y por qué se activaron. También puedes probar aplicar promociones antes de activarlas, incluyendo promociones inactivas y programadas.
+
+Para más información sobre esta herramienta, consulta el artículo [Simulador de promociones](https://help.vtex.com/es/tutorial/simulador-de-promociones-beta--4zc8SNqjqeIJ0ZRMhjlnvy).
 
 ### Obtener información sobre los ítems en el carrito
 
@@ -96,10 +101,8 @@ Para obtener más información sobre UTMs y UTMIs, vaya a [Qué son utm_source, 
 Cartman se puede desactivar en cualquier momento según lo requiera el lojista. Para deshabilitarlo, siga los pasos a continuación:
 
 1. Acceda a cualquier página de Checkout de su tienda   (`https://{accountname}.myvtex.com/checkout/`).
-2. En la esquina inferior derecha de la pantalla, haga clic en el botón <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
+2. En la esquina inferior derecha de la pantalla, haga clic en el botón <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
 3. En la parte inferior del menú de Cartman, haz clic en `Deshabilitar Cartman`.
 
-<div class="alert alert-info">
-  Si desea reactivar <b>Cartman</b>, vuelva a agregar la query string <code>?cartman=on</code> en una de las páginas de pago de su tienda. De esta forma, el icono azul volverá a estar disponible en la esquina inferior derecha de la página.
-</div>
+>ℹ️ Si desea reactivar **Cartman**, vuelva a agregar la query string `?cartman=on` en una de las páginas de pago de su tienda. De esta forma, el icono azul volverá a estar disponible en la esquina inferior derecha de la página.
 

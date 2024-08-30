@@ -1,5 +1,5 @@
 ---
-title: '[B2W] Pedido con error "Parameter count mismatch'
+title: "[B2W] Pedido con error 'Parameter count mismatch"
 id: 6XhzSJrrHaEt85QseRdC3k
 status: PUBLISHED
 createdAt: 2023-03-22T19:32:10.011Z
@@ -18,9 +18,7 @@ internalReference: 776361
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunas órdenes de Skyhub no se están integrando en la plataforma, debido al error `"Parameter count mismatch"`, cuando la orden no se crea en OMS (VTEX)

@@ -3,8 +3,8 @@ title: 'Checkout incorretamente enviando detalhes do item para a transação'
 id: YxjZNKuIxkKQioS7lkmu8
 status: PUBLISHED
 createdAt: 2022-03-04T15:08:55.326Z
-updatedAt: 2022-11-25T21:52:34.380Z
-publishedAt: 2022-11-25T21:52:34.380Z
+updatedAt: 2024-02-16T20:28:39.301Z
+publishedAt: 2024-02-16T20:28:39.301Z
 firstPublishedAt: 2022-03-04T15:08:55.710Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-incorretamente-enviando-detalhes-do-item-para-a-transacao
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 535859
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

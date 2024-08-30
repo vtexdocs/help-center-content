@@ -15,9 +15,7 @@ legacySlug: creando-colecciones-de-productos
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning">
-  <p>Existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo <a href="https://help.vtex.com/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye">Colecciones Beta</a>. Este artículo se refiere a <a href = "https://help.vtex.com/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.</p>
-</div>
+>⚠️ Existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo [Colecciones Beta](https://help.vtex.com/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye). Este artículo se refiere a <a href = "https://help.vtex.com/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.
 
 Para crear una colección, siga las siguientes instrucciones:
 
@@ -65,9 +63,7 @@ Para crear un grupo con productos de una o más marcas, basta con seleccionar la
 
 Para crear una colección de productos que aún no fueron lanzados, selecciones &#8220;Pré-venda&#8221; en &#8220;Outras Opções&#8221;. El sistema considerará todos los productos con fecha posterior a la actual, como definido en el campo “Data de lançamento no mercado” (registro de producto). O en cambio, puede configurar la colección para considerar productos lanzados recientemente. Para ello, seleccione la opción &#8220;Lançamento&#8221;. El sistema considerará todos los productos con la fecha definida en el campo “Data de lançamento no mercado” (registro de producto) dentro del intervalo de 30 días anteriores al actual. Vea en el ejemplo abajo que es posible seleccionar uno u otro campo. En caso que quiera que ambos escenarios sean contemplados, cree dos colecciones y configure cada una con la respectiva opción.
 
-<div class="alert alert-warning">
-Estas opcciones son un <em>complemento</ em> a la elección de los productos. Es importante resaltar que estas flags sólo funcionarán si usted ha elegido para la colección alguna categoría, marca o combinación de SKUs. Estas flags se utilizan junto con la selección de categorías, marcas o SKUs para la colección.
-</div>
+>⚠️ Estas opcciones son un <em>complemento</ em> a la elección de los productos. Es importante resaltar que estas flags sólo funcionarán si usted ha elegido para la colección alguna categoría, marca o combinación de SKUs. Estas flags se utilizan junto con la selección de categorías, marcas o SKUs para la colección.
 
 ### Incluir SKUs específicos en un grupo
 
@@ -79,7 +75,7 @@ Al contrario de la versión anterior, en la que la inclusión de productos espec
 
 Pese a que los filtros de grupos son muy prácticos para crear agrupamientos de productos en forma automática, es posible que ellos no atiendan sus necesidades en situaciones específicas. Para resolver eso, es posible importar un listado con los SKUs que formarán parte del grupo y consecuentemente, de la colección. El módulo de colecciones acepta archivos en los formatos planilla de Excel (.xls) o CSV (.csv). En el caso de archivos en formato Excel, todos los IDs de los SKUs deben estar dispuestos en la primera columna, sin encabezado, como ejemplifica la figura abajo:
 
-![](//images.contentful.com/alneenqid6w5/6t9b1mIYmsSewCEu8yOagi/c0f73dc7b921e0f7cc65cea1ae572b7b/Importar_lista_de_skus.jpg)
+![](https://images.contentful.com/alneenqid6w5/6t9b1mIYmsSewCEu8yOagi/c0f73dc7b921e0f7cc65cea1ae572b7b/Importar_lista_de_skus.jpg)
 
 Después que el sistema importa la planilla, los SKUs se presentan de la siguiente forma: ![Importar_lista_de_skus](https://images.ctfassets.net/alneenqid6w5/opkyzS2xKCMecIU0c04Iu/ac8b3e545d02267630712b00b3e532f9/Importar_lista_de_skus.gif)
 
@@ -93,7 +89,7 @@ Para evitar que un administrador tenga que excluir manualmente diversos SKUs, un
 
 ![Excluir_lista_de_skus](https://images.ctfassets.net/alneenqid6w5/7fkP3OAKk0Kq0SYM8aAw6M/37026d5804485392c3dac490adad7b40/Excluir_lista_de_skus.gif)
 
-Obtenga un modelo de archivo para importación tanto para inclusión como para exclusión de ítems en la colección [aquí](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "aquí").
+Obtenga un modelo de archivo para importación tanto para inclusión como para exclusión de ítems en la colección [aquí](https://assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "aquí").
 
 ## Búsqueda de coleciones
 

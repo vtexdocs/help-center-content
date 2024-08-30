@@ -3,8 +3,8 @@ title: 'Enviar pedido al status a Preparar la Entrega'
 id: tutorials_198
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:17.090Z
-updatedAt: 2023-03-31T14:47:04.890Z
-publishedAt: 2023-03-31T14:47:04.890Z
+updatedAt: 2023-06-15T13:32:59.728Z
+publishedAt: 2023-06-15T13:32:59.728Z
 firstPublishedAt: 2017-04-27T23:02:47.756Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -21,9 +21,11 @@ La baja en la reserva no ocurre automáticamente, esto debe ser controlado por s
 
 A continuación se indican las posibles maneras de actualizar este status.
 
-## Por integración
+## Por integración y API
 
 Las integraciones automatizan este proceso. Ocurren cuando otros sistemas consultan los pedidos de VTEX para seguir con el flujo de envío. Esta integración se puede hacer a través de API REST, según nuestro [guía de integración de ERPs](https://developers.vtex.com/docs/erp-integration-set-up-order-processing).
+
+Después de hacerlo, puedes usar la API [Start handling order](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/start-handling).
 
 ## Por el Admin VTEX
 
@@ -38,6 +40,4 @@ Si la tienda no tiene ERP o algún sistema que integre los pedidos, usted puede 
     - <a class="far fa-check-square"></a> Entiendo las consecuencias de esta acción en el flujo del pedido.
 5. Haga clic en `Proceder com el status`.
 
-<div class="alert alert-warning">
-Al iniciar el preparo de um pedido manualmente, el pedido no se puede integrar al ERP posteriormente.
-</div>
+>⚠️ Al iniciar el preparo de um pedido manualmente, el pedido no se puede integrar al ERP posteriormente.

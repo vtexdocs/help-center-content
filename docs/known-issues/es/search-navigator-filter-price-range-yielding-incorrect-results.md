@@ -3,8 +3,8 @@ title: 'El filtro del Navegador de Búsqueda + Rango de Precios produce resultad
 id: 6s4vJr6DVPLU9JlxIPWqhx
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:53.208Z
-updatedAt: 2022-11-25T22:10:01.089Z
-publishedAt: 2022-11-25T22:10:01.089Z
+updatedAt: 2024-02-16T20:24:11.551Z
+publishedAt: 2024-02-16T20:24:11.551Z
 firstPublishedAt: 2022-06-28T16:55:53.927Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: el-filtro-del-navegador-de-busqueda-rango-de-precios-produce-resultados-incorrectos
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 504992
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, cuando se utiliza el filtro de marca del Navegador de búsqueda junto con un rango de precios en un VTEX Business Edition, se pueden mostrar productos fuera de la marca filtrada.

@@ -1,10 +1,10 @@
 ---
-title: 'La API de inserción/actualización de productos permite "\n" en el campo textLink.'
+title: "La API de inserción/actualización de productos permite '\n' en el campo textLink."
 id: 5TfUw5tTxBEu9HkL3ypBKw
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:53.325Z
-updatedAt: 2022-11-25T21:44:48.430Z
-publishedAt: 2022-11-25T21:44:48.430Z
+updatedAt: 2024-02-16T20:28:55.474Z
+publishedAt: 2024-02-16T20:28:55.474Z
 firstPublishedAt: 2022-06-28T16:55:54.138Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-api-de-insercionactualizacion-de-productos-permite-n-en-el-campo-textlink
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 486459
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, las APIs para la inserción o actualización de productos del catálogo permiten el carácter "\n" en el textLink

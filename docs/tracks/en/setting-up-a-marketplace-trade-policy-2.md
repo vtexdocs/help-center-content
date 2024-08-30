@@ -38,8 +38,7 @@ In order to define the product catalog that will be sent to the marketplace, the
 4. Check the __Sales Policies__ flag for the chosen sales policies.
 5. Click __Save__.
 
-<div class="alert alert-danger"> VTEX does not recommend performing product catalog management for marketplace through collections. This mechanism brings many complexities in the organization. We recommend managing it through the Sales Policies flag instead.
-</div>
+>❗ VTEX does not recommend performing product catalog management for marketplace through collections. This mechanism brings many complexities in the organization. We recommend managing it through the Sales Policies flag instead.
 
 ## Defining the logistics
 

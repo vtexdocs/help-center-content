@@ -3,8 +3,8 @@ title: 'Flujo y status de pedidos'
 id: tutorials_196
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:33.518Z
-updatedAt: 2023-02-28T16:04:19.511Z
-publishedAt: 2023-02-28T16:04:19.511Z
+updatedAt: 2024-04-01T15:37:30.788Z
+publishedAt: 2024-04-01T15:37:30.788Z
 firstPublishedAt: 2017-04-27T23:02:47.616Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -22,9 +22,7 @@ Este artículo contiene la siguiente información:
 - Una [tabla con todos los status mostrados en el Admin y las APIs](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196#tabla-de-status-de-los-pedidos).
 - Los [casos en que se produce la cancelación de un pedido](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196#cancelacion-del-pedido).
 
-<div class = "alert alert-info">
-Para saber cómo seguir el flujo de un pedido, consulta el artículo <a href="https://help.vtex.com/es/tutorial/acompanhamento-de-pedidos--et0Ei7F3bjcrEmVAR2kKS">Seguimiento de pedidos</a>.
-</div>
+>ℹ️ Para saber cómo seguir el flujo de un pedido, consulta el artículo [Seguimiento de pedidos](https://help.vtex.com/es/tutorial/acompanhamento-de-pedidos--et0Ei7F3bjcrEmVAR2kKS).
 
 ## Tipos de flujo
 
@@ -34,9 +32,7 @@ Hay cuatro tipos de flujo de pedidos en VTEX:
 - **[Flujo completo](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196#flujo-completo):** es el flujo de pedidos realizados en la tienda responsable de la venta y envío del pedido. En este caso, la tienda actúa como _seller_ y _marketplace_ simultáneamente.
 - **[Flujo de cadena](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196#flujo-de-cadena)**: es el flujo de pedidos visto por la tienda que media la venta entre el _marketplace_ y el _seller_. Este flujo es similar al de _marketplace_, sin embargo, el proceso de pago se realiza solo en el _marketplace_ y no en la tienda que actúa como cadena. Este flujo se ve en escenarios de venta de [Multilevel Omnichannel Inventory](https://help.vtex.com/es/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4).
 
-<div class="alert alert-warning">
-Para los casos de pedidos incompletos, consulta el artículo <a href="https://help.vtex.com/es/tutorial/entendendo-os-pedidos-incompletos--tutorials_294">Cómo funcionan los pedidos incompletos</a> para entender las razones de este flujo y de su cancelación.
-</div>
+>⚠️ Para los casos de pedidos incompletos, consulta el artículo [Cómo funcionan los pedidos incompletos](https://help.vtex.com/es/tutorial/entendendo-os-pedidos-incompletos--tutorials_294) para entender las razones de este flujo y de su cancelación.
 
 ### Flujo de marketplace
 
@@ -64,35 +60,28 @@ Este es el flujo del pedido visto por la tienda responsable de enviar los produc
 1. Cuando el _seller_ recibe el pedido, el status inicial es `Pedido aceptado`.
 2. Después de que el seller recibe el pedido, el status cambia automáticamente a `Esperando autorización para fufillment`. Este es un status de espera para que el marketplace indique que obtuvo la confirmación del pago del pedido.
 
-  <div class="alert alert-danger">
-La plataforma permite adelantar manualmente el status <i>Esperando autorización para fufillment</i> al hacer clic en <i>Autorizar fulfillment</i>. Sin embargo, si el seller adelanta el status manualmente no significa que el marketplace haya liberado el pedido para preparación, lo que puede implicar discrepancias en la información. Utiliza el cambio manual con precaución. Recomendamos su uso solo cuando se tiene la autorización del marketplace para el envío del pedido.
-</div>
+  >❗ La plataforma permite adelantar manualmente el status <i>Esperando autorización para fufillment</i> al hacer clic en <i>Autorizar fulfillment</i>. Sin embargo, si el seller adelanta el status manualmente no significa que el marketplace haya liberado el pedido para preparación, lo que puede implicar discrepancias en la información. Utiliza el cambio manual con precaución. Recomendamos su uso solo cuando se tiene la autorización del marketplace para el envío del pedido.
 
 3. El status cambia automáticamente a `Periodo de cancelación`. El pedido permanecerá en esta etapa hasta que haya transcurrido el [tiempo de espera para cancelar configurado](https://help.vtex.com/es/tutorial/configuracoes-gerais/#pedidos). 
 
-  <div class = "alert alert-info">
-El Periodo de cancelación existe para que el cliente pueda cancelar la compra sin la aprobación de la tienda en un determinado periodo de tiempo previamente configurado. Después de este periodo, la tienda debe autorizar la solicitud de cancelación del cliente.
-</div>
+  >ℹ️ El Periodo de cancelación existe para que el cliente pueda cancelar la compra sin la aprobación de la tienda en un determinado periodo de tiempo previamente configurado. Después de este periodo, la tienda debe autorizar la solicitud de cancelación del cliente.
 
 4. En esta etapa hay dos posibilidades:
     * **Pedido no cancelado:** si la ventana de cancelación vence y el cliente no solicita la cancelación de la compra, el status pasa a `Listo para preparación`. Este status indica al _seller_ que el pedido ya debe ser preparado para el envío.
     * **Pedido cancelado:** si el cliente solicita la cancelación del pedido durante el tiempo de espera para cancelar, en vez de pasar a la preparación, pasará a la cancelación y el status cambiará a `Cancelando`. 
 5. El pedido permanecerá en el status `Listo para preparación` hasta que el _seller_ confirme. Esta confirmación significa que el _seller_ inició la preparación del pedido, que puede realizarse manualmente mediante el Admin o por integración con el ERP utilizando el request [Start handling order](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/start-handling).
 
-  <div class="alert alert-danger">
-Al confirmar el inicio de la preparación, el seller asume la responsabilidad de la reserva de los ítems del pedido. A partir de ese momento, si hay alguna actualización en el stock, la plataforma VTEX desestima la reserva de estos SKU. Por lo tanto, actualiza el stock para los SKU de un pedido determinado únicamente al facturarlo. De este modo, se evitan las divergencias de stock que dependen de la interacción con la <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integración backoffice</a> de tu tienda.
-</div>
+  >❗ Al confirmar el inicio de la preparación, el seller asume la responsabilidad de la reserva de los ítems del pedido. A partir de ese momento, si hay alguna actualización en el stock, la plataforma VTEX desestima la reserva de estos SKU. Por lo tanto, actualiza el stock para los SKU de un pedido determinado únicamente al facturarlo. De este modo, se evitan las divergencias de stock que dependen de la interacción con la [integración backoffice](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) de tu tienda.
 
 6. Una vez iniciada la preparación, es momento de facturar el pedido. La plataforma espera a que se incluya la factura, el status del pedido puede estar en `Verificando factura` si hay un error. Consulta [los casos más comunes](https://help.vtex.com/es/tutorial/por-que-o-pedido-esta-no-status-verificando-fatura--5VJjxRjeH6SimiG0Wkk2gm) para que el pedido se quede en este status. Es importante recordar que si el pedido se factura parcialmente, puede volver al status `Pago aprobado` hasta que el administrador de la tienda incluya las facturas que sumadas corresponden al valor total del pedido.
 7. El último status del flujo es `Facturado`. Después de eso, el seller debe completar el envío del pedido.
 
-<div class="alert alert-danger">
-Ten en cuenta que:
-  <ul>
-    <li>La <b>cancelación del pedido</b> puede iniciarse en varias etapas del flujo del pedido, ya sea por parte del cliente o de la tienda. En este caso, después de solicitar la cancelación, el proceso se realiza de forma automática, incluyendo el reembolso del valor pagado al cliente. La cancelación finaliza cuando el pedido cambia al status <i>Cancelado</i></li>.
-    <li>Los sellers tienen la autonomía de forzar manualmente el cambio del pedido durante el status <i>Esperando autorización para fufillment</i>. Esto significa realizar la entrega sin que el marketplace haya confirmado la liberación y sin recibir el pago del pedido. En caso de cambio manual, es obligación del seller comprobar que el pedido está en condiciones de ser preparado, incluyendo si el pago ha sido confirmado.</li>
-    </ul>
-</div>
+>❗ Ten en cuenta que:
+>
+> * La **cancelación del pedido** puede iniciarse en varias etapas del flujo del pedido, ya sea por parte del cliente o de la tienda. En este caso, después de solicitar la cancelación, el proceso se realiza de forma automática, incluyendo el reembolso del valor pagado al cliente. La cancelación finaliza cuando el pedido cambia al status <i>Cancelado</i>.
+>
+> * Los sellers tienen la autonomía de forzar manualmente el cambio del pedido durante el status <i>Esperando autorización para fufillment</i>. Esto significa realizar la entrega sin que el marketplace haya confirmado la liberación y sin recibir el pago del pedido. En caso de cambio manual, es obligación del seller comprobar que el pedido está en condiciones de ser preparado, incluyendo si el pago ha sido confirmado.
+>     
 
 ### Flujo completo
 
@@ -109,9 +98,7 @@ El flujo completo del pedido es visto por la tienda que realiza la venta y el en
     *  De forma manual, en el Admin, haciendo clic en la flecha que se encuentra encima del status `Iniciar preparación`.
     * A través de la [API con un ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide), por ejemplo, utilizando la ruta [Start handling order.](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/start-handling)
 
-  <div class="alert alert-danger">
-Al confirmar el inicio de la preparación, el seller asume la responsabilidad de la reserva de los ítems del pedido. A partir de ese momento, si hay alguna actualización en el stock, la plataforma VTEX desestima la reserva de estos SKUs. Por lo tanto, actualiza el stock para los SKUs de un pedido determinado únicamente al facturarlo. De este modo, se evitan las divergencias de stock que dependen de la interacción con la <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integración backoffice</a> de tu tienda.
-</div>
+  >❗ Al confirmar el inicio de la preparación, el seller asume la responsabilidad de la reserva de los ítems del pedido. A partir de ese momento, si hay alguna actualización en el stock, la plataforma VTEX desestima la reserva de estos SKUs. Por lo tanto, actualiza el stock para los SKUs de un pedido determinado únicamente al facturarlo. De este modo, se evitan las divergencias de stock que dependen de la interacción con la [integración backoffice](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) de tu tienda.
 
 5. Una vez iniciada la preparación, el status del pedido cambia a `Preparando envío` y la próxima etapa es facturar el pedido. El sistema espera la factura en el status `Verificando factura`. Se debe [incluir la factura](https://help.vtex.com/es/tutorial/como-inserir-a-nota-fiscal) que corresponde al valor total del pedido. 
 6. Después de incluir las facturas, el status del pedido cambia a `Facturado`, el último status del flujo, y la tienda debe completar el envío del pedido.
@@ -126,17 +113,15 @@ La cancelación de un pedido se inicia en varios escenarios. Para cada tipo de c
 - **[Solicitud de cancelación por parte del cliente](https://help.vtex.com/es/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo):** el cliente realiza la cancelación durante el periodo de cancelación o solicita la cancelación a la tienda. Cuando la cancelación ocurre dentro del periodo de cancelación, los ítems del pedido no se reservan. Pero, si la cancelación se produce después de la preparación del pedido (después del status `Iniciar preparación`), los ítems han sido reservados.
 - **[Cancelación por parte de la tienda](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4ts2ItvjYo8wm5gg76miS3):** el _seller_ o _marketplace_ renunció a la venta y canceló el pedido.
 
-Cuando se solicita la cancelación de un pedido, la plataforma procesa automáticamente la cancelación del pedido. El reembolso del pago al cliente depende de la etapa en la que se encuentre el pago y del medio de pago utilizado. 
+Cuando se solicita la cancelación de un pedido, la plataforma procesa automáticamente la cancelación del pedido. El reembolso del pago al cliente depende de la etapa en la que se encuentre el pago y del medio de pago utilizado.
 
-<div class = "alert alert-info">
-Ve más información sobre la cancelación y el reembolso en los artículos <a href="https://help.vtex.com/pt/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente">¿Por qué se cobró en la factura del cliente mi pedido cancelado?</a> y <a href="https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#reembolsocancelamento">Reembolso o cancelación</a>.
-</div>
+No es posible [cancelar](https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186) pedidos [parcialmente facturados](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+
+>ℹ️ Ve más información sobre la cancelación y el reembolso en los artículos [¿Por qué se cobró en la factura del cliente mi pedido cancelado?](https://help.vtex.com/pt/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente) y [Reembolso o cancelación](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#reembolsocancelamento).
 
 Mientras se realiza el proceso de cancelación, el status permanece en `Cancelando`. Una vez completada la cancelación, el status del pedido cambia a `Cancelado`. 
 
-<div class="alert alert-danger">
-Ten en cuenta que cuando la cancelación se realiza antes de que la tienda inicie la preparación del pedido (status <i>Preparando envío</i>), los ítems tienen la <a href="https://help.vtex.com/es/tutorial/how-does-reservation-work--tutorials_92">reserva cancelada</a> en el stock. Sin embargo, si la cancelación se realiza después de este status, los ítems ya tienen la <a href="https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconocida">reserva reconocida</a> en el stock y la tienda debe actualizar la cantidad de ítems del stock para que se cancele la reserva de los SKUs de un pedido cancelado (que fueron reservados). 
-</div>
+>❗ Ten en cuenta que cuando la cancelación se realiza antes de que la tienda inicie la preparación del pedido (status <i>Preparando envío</i>), los ítems tienen la [reserva cancelada](https://help.vtex.com/es/tutorial/how-does-reservation-work--tutorials_92) en el stock. Sin embargo, si la cancelación se realiza después de este status, los ítems ya tienen la [reserva reconocida](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconocida) en el stock y la tienda debe actualizar la cantidad de ítems del stock para que se cancele la reserva de los SKUs de un pedido cancelado (que fueron reservados).
 
 Para saber más sobre la cancelación de pedidos, consulta el artículo [¿Por qué un pedido fue cancelado?](https://help.vtex.com/es/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493).
 
@@ -162,9 +147,7 @@ A continuación se muestra la tabla con los status de los pedidos. La informaci�
 - **Visto por:** en qué flujo es visible el status (_marketplace_, _seller_, cadena y completo).
 - **Significado:** significado del status detallado.   
 
-<div class="alert alert-warning">
-Ten en cuenta que los status del flujo de pedido completo (flujo visto por las tiendas responsables de la venta y envío de los pedidos) coincide con los status del marketplace y seller. Algunos status pueden ser vistos a través de API, pero no son visibles en el flujo del pedido que se ve en el Admin en «Todos los pedidos».
-</div>
+>⚠️ Ten en cuenta que los status del flujo de pedido completo (flujo visto por las tiendas responsables de la venta y envío de los pedidos) coincide con los status del marketplace y seller. Algunos status pueden ser vistos a través de API, pero no son visibles en el flujo del pedido que se ve en el Admin en «Todos los pedidos».
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -294,7 +277,7 @@ Ten en cuenta que los status del flujo de pedido completo (flujo visto por las t
     <td class="tg-zr06"><span style="font-weight:400">Autorizar fulfillment</span></td>
     <td class="tg-zr06"><span style="font-weight:400">authorize-fulfillment</span></td>
     <td class="tg-1547"><span style="font-style:italic">Seller</span><span style="font-weight:400">, flujo completo</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Proceso interno de liberación a preparación. Aquí se realiza la</span> <a href="https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada"><span style="font-weight:400;color:#F71963;background-color:transparent">confirmación de la reserva</span></a><span style="font-weight:400">.</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">Proceso interno de liberación a preparación. Aquí se realiza la</span> <a href="https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada"><span style="font-weight:400;color:#F71963;background-color:transparent">confirmación de la reserva</span></a><span style="font-weight:400">. Cuando el marketplace no autoriza al seller el fulfillment del pedido dentro de 30 días, la plataforma cancela el pedido automáticamente.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Periodo de cancelación</span></td>
@@ -379,7 +362,5 @@ Ten en cuenta que los status del flujo de pedido completo (flujo visto por las t
 
 <br></br>
 
-<div class = "alert alert-info">
-Los status marcados con asteriscos (*) en la tabla no permiten cambio o cancelación, ya que están bajo la acción de la plataforma.
-</div>
+>ℹ️ Los status marcados con asteriscos (*) en la tabla no permiten cambio o cancelación, ya que están bajo la acción de la plataforma.
 

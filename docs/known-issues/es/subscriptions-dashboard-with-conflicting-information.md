@@ -3,8 +3,8 @@ title: 'Cuadro de mandos de las suscripciones con información contradictoria'
 id: WvoqrD7xvaAJ6NVOLpU1G
 status: PUBLISHED
 createdAt: 2022-05-27T20:01:11.189Z
-updatedAt: 2022-11-25T22:02:26.699Z
-publishedAt: 2022-11-25T22:02:26.699Z
+updatedAt: 2024-02-16T20:28:30.718Z
+publishedAt: 2024-02-16T20:28:30.718Z
 firstPublishedAt: 2022-05-27T20:01:11.715Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: cuadro-de-mandos-de-las-suscripciones-con-informacion-contradictoria
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 587579
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

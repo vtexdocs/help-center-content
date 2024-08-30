@@ -17,9 +17,7 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 Este artigo tem como objetivo listar os valores compatíveis de status nos diversos sistemas internos e externos à VTEX.
 
-<div class="alert alert-warning">
-Caso válido para quando o pedido tem apenas uma transação.
-</div>
+>⚠️ Caso válido para quando o pedido tem apenas uma transação.
 
 <table style="width: 619px;" border="1" cellspacing="0" cellpadding="0"><tbody><tr style="height: 56px;"><td style="width: 113px; height: 56px;" valign="top"><p align="center"><b>Gerenciamento de Pedidos</b></td><td style="width: 113px; height: 56px;" valign="top"><p align="center"><b>Meus Pedidos</b>
 </td><td style="width: 126px; height: 56px;" valign="top"><p align="center"><b>Pagamentos</b></td><td style="width: 79px; height: 56px;" valign="top"><p align="center"><b>API Rest</b></td><td style="width: 113px; height: 56px;" valign="top"><p align="center"><b>WebService</b></td></tr><tr style="height: 82px;"><td style="width: 113px; height: 82px;" valign="top"><p align="center">Processando

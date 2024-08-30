@@ -77,7 +77,7 @@ Trae siempre el nombre y el apellido del cliente que efectuó la compra, aunque 
 
 Expone cuántos productos diferentes existen en el pedido (sin considerar la cantidad comprada de cada ítem). Al pasar el ratón es posible ver cuáles fueron los productos comprados.
 
-![oms produtos do pedido](//images.contentful.com/alneenqid6w5/4fTIEf2ywwc2U2IuwSkg8U/82b81b00387db8959cf18ae392e5e1f0/oms-produtos-do-pedido.png)
+![oms produtos do pedido](https://images.contentful.com/alneenqid6w5/4fTIEf2ywwc2U2IuwSkg8U/82b81b00387db8959cf18ae392e5e1f0/oms-produtos-do-pedido.png)
 
 ## Valor
 

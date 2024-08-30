@@ -17,9 +17,7 @@ subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 
 Si usted pagó por boleto bancario, la compensación deberá ocurrir en hasta 48 horas hábiles después del pago. Pero quédese tranquilo, generalmente la compensación ocurre antes de este plazo y la liberación de su ambiente se realiza automáticamente después de la confirmación del pago.
 
-<div class="alert alert-warning">
-Si el título no se actualiza en 48 horas, abra un llamado, vía ticket, y envíe la comprobación de pago para que podamos entender lo ocurrido.
-</div>
+>⚠️ Si el título no se actualiza en 48 horas, abra un llamado, vía ticket, y envíe la comprobación de pago para que podamos entender lo ocurrido.
 
 ### Artículos relacionados
 

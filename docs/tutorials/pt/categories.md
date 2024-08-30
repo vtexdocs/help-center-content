@@ -57,7 +57,7 @@ Para localizar uma categoria, você deve digitar o nome da categoria na barra de
 ## Navegar pela árvore de categorias
 A página de categorias apresenta os níveis mais externos das categorias. Clique no ícone <i class="fas fa-angle-right"></i> para acessar as subcategorias, como demonstrado abaixo.
 
-![arvore-categoria-PT](//images.contentful.com/alneenqid6w5/4bcSzxVEs4GAn1INLdjP8E/a3cacb293c5c5ce3ded311ab85468a04/arvore-categoria-PT.gif)
+![arvore-categoria-PT](https://images.contentful.com/alneenqid6w5/4bcSzxVEs4GAn1INLdjP8E/a3cacb293c5c5ce3ded311ab85468a04/arvore-categoria-PT.gif)
 
 Para visualizar as informações do cadastro de uma categoria, clique no nome dela.
 

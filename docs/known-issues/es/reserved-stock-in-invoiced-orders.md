@@ -1,10 +1,10 @@
 ---
 title: 'Stock reservado en pedidos facturados'
 id: TfDOKEybi6eSAEoCEEAqg
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-06-13T18:43:58.606Z
-updatedAt: 2022-12-22T14:51:09.663Z
-publishedAt: 2022-12-22T14:51:09.663Z
+updatedAt: 2023-10-17T15:29:19.908Z
+publishedAt: 
 firstPublishedAt: 2017-06-14T00:07:07.051Z
 contentType: knownIssue
 productTeam: Post-purchase
@@ -24,7 +24,7 @@ Esto ocurre cuando el pedido está en el estado `Pronto para Manuseio` status (L
 
 Ejemplo con el flujo del pedido:
 
-![2017-06-13 182850](//images.contentful.com/alneenqid6w5/5Skd8YsCcMIicCcEGyoqwG/1a1a839dc36cdb9f818240b68817de3e/2017-06-13_182850.jpg)
+![2017-06-13 182850](https://images.contentful.com/alneenqid6w5/5Skd8YsCcMIicCcEGyoqwG/1a1a839dc36cdb9f818240b68817de3e/2017-06-13_182850.jpg)
 
 En el paso circulado del flujo del pedido, el producto se factura sin el reconocimiento de la reserva.
 

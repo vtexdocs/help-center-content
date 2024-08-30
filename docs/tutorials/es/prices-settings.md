@@ -3,8 +3,8 @@ title: 'Configuración de precios'
 id: 3hbBtCzNUBrj8GaWgCtSWN
 status: PUBLISHED
 createdAt: 2020-10-14T18:43:49.750Z
-updatedAt: 2023-03-29T20:45:21.665Z
-publishedAt: 2023-03-29T20:45:21.665Z
+updatedAt: 2023-08-21T17:13:42.982Z
+publishedAt: 2023-08-21T17:13:42.982Z
 firstPublishedAt: 2020-10-22T19:38:48.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: configuracion-de-precios
 subcategory: 3O1NvPgBPqE0qU88MSQaie
 ---
 
-La página _Configuración de la tienda > Productos > Configuración__ en el Admin VTEX le permite cambiar la configuración general de los precios de forma rápida y sencilla.
+La página **Configuración de la tienda > Productos > Configuración de precios** en el Admin VTEX le permite cambiar la configuración general de los precios de forma rápida y sencilla.
 
 Usted puede definir el markup estándar y el límite de variación de precio de su tienda. También puede heredar los precios de la cuenta padre y sobrescribir los precios de sellers con los de su cuenta. 
 
@@ -35,6 +35,4 @@ Consulte los ajustes disponibles a continuación:
 
 - **Sobrescribir precios de sellers:**  esta opción sobrescribe todos los precios de sellers con los de la cuenta actual.
 
-  <div class = "alert alert-info">
-    <p>La configuración <b>Sobrescribir precios de sellers</b> no está disponible para sellers White label.</p>
-  </div>
+  >ℹ️ La configuración **Sobrescribir precios de sellers** no está disponible para sellers White label.

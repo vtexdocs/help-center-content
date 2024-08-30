@@ -39,13 +39,13 @@ Para dar flexibilidade é possível ainda incluir subtemplates e inúmeros outro
 
 Agora um exemplo real. Quero identificar qual página é essa que estou navegando:
 
-![Captura-de-Tela-2017-03-01-às-2.49.14-PM-768x445](//images.contentful.com/alneenqid6w5/56TdUPaA48yyoKIUA08uuE/0a1b652077800bd371e41e68c7739f45/Captura-de-Tela-2017-03-01-a__s-2.49.14-PM-768x445.png)
+![Captura-de-Tela-2017-03-01-às-2.49.14-PM-768x445](https://images.contentful.com/alneenqid6w5/56TdUPaA48yyoKIUA08uuE/0a1b652077800bd371e41e68c7739f45/Captura-de-Tela-2017-03-01-a__s-2.49.14-PM-768x445.png)
 
 O próprio domínio muitas vezes já me ajuda a identificar, mas algumas lojas podem customizar isso o que pode dificultar esse trabalho. No caso estou na dúvida se é uma pagina de __Departamento__ ou __Categoria__, talvez possa inclusive ser uma customização de prateleira.
 
 O melhor caminho é conferindo no Código Fonte da página (Ctrl + U). Lojas VTEX vão possuir um indicativo de qual diretório pertence a página.
 
-![Captura-de-Tela-2017-03-01-às-2.51.06-PM-768x89](//images.contentful.com/alneenqid6w5/uIxNOdyuY02GqegWMGGcC/2171322309535c4b93ff9b36132d8be3/Captura-de-Tela-2017-03-01-a__s-2.51.06-PM-768x89.png)
+![Captura-de-Tela-2017-03-01-às-2.51.06-PM-768x89](https://images.contentful.com/alneenqid6w5/uIxNOdyuY02GqegWMGGcC/2171322309535c4b93ff9b36132d8be3/Captura-de-Tela-2017-03-01-a__s-2.51.06-PM-768x89.png)
 
 No exemplo acima: `<!-- CommerceContext.Current.VirtualFolder.Name: @categoria@ -->`
 Agora que sabemos que é uma página de categoria, precisamos identificar qual template está ativo para Categoria. Para isso basta repetir o processo aplicado no exemplo anterior.

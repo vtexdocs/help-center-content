@@ -18,9 +18,7 @@ internalReference: 373603
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os clientes guatemaltecos informaram que o formulário de endereço para faturamento está desatualizado. A causa principal é algumas mudanças locais de zona. A atualização já foi implementada no endereço de embarque e precisa ser feita também no endereço de faturamento.

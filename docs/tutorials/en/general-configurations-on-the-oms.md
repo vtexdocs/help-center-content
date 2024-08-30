@@ -3,8 +3,8 @@ title: 'Orders General Configuration'
 id: tutorials_194
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:49.644Z
-updatedAt: 2023-03-29T16:11:56.900Z
-publishedAt: 2023-03-29T16:11:56.900Z
+updatedAt: 2024-07-02T19:07:22.178Z
+publishedAt: 2024-07-02T19:07:22.178Z
 firstPublishedAt: 2017-04-27T23:00:47.468Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -33,7 +33,7 @@ This configuration is a flag that enables or disables the requirement for a user
 
 - **Minimum number of items in cart**. Default: 1 item – this will prevent the customer from closing the purchase without having at least the same value in quantity of items as that defined in this field.
 - **Number of decimal digits to be considered**. Default: 2 decimal places – this means that the product prices are illustrated according to the number of decimal places defined. There will be no rounding of amounts. At the checkout, the value of the decimal places – if they have been cut off – will be included for closing the purchase.
-- **Minimum total value in cart**. Default: R$0.10 – as with the minimum quantity of items in the cart, this will prevent the customer from closing the purchase without having at least the same amount in products as that defined in this field.
+- **Minimum total value in cart**. Default: R$0.10 – as with the minimum quantity of items in the cart, this will prevent the customer from closing the purchase without having at least the same amount in products as that defined in this field. The minimum cart value also includes taxes and shipping costs. It is the final value of the order that is being calculated.
 
 ## Orders
 

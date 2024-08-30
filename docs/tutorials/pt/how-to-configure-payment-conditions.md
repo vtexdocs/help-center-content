@@ -1,10 +1,10 @@
 ---
 title: 'Configurar condições de pagamento'
 id: tutorials_455
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T22:04:07.105Z
-updatedAt: 2023-03-21T21:01:23.792Z
-publishedAt: 2023-03-21T21:01:12.557Z
+updatedAt: 2023-10-18T17:17:55.702Z
+publishedAt: 2023-10-18T17:17:55.702Z
 firstPublishedAt: 2017-04-27T23:03:26.687Z
 contentType: tutorial
 productTeam: Financial
@@ -30,9 +30,7 @@ Uma vez definido a sua afiliação de gateway, para qualquer uma das condições
 
 Além disso, existe a possibilidade de definir se o pagamento será: à vista ou em parcelas, com ou sem juros, ou com [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
 
-<div class="alert alert-warning">
-Quaisquer alterações nas condições de pagamento podem demorar até 10 minutos para aparecerem no checkout da sua loja.
-</div>
+>⚠️ Quaisquer alterações nas condições de pagamento podem demorar até 10 minutos para aparecerem no checkout da sua loja.
 
 Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condição de pagamento.
 
@@ -50,9 +48,7 @@ Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condiç
 8. No campo __À vista ou parcelado?__, selecione __À vista__.
 9. Clique em __Salvar__.
 
-<div class="alert alert-info">
-No Passo 5. você pode escolher outros métodos de pagamento como cartões de débito, cobranded, private, promissórias, boletos, PIX, entre outros.
-</div>
+>ℹ️ No Passo 5. você pode escolher outros métodos de pagamento como cartões de débito, cobranded, private, promissórias, boletos, PIX, entre outros.
 
 ### Parcelado sem juros
 
@@ -97,9 +93,7 @@ No Passo 5. você pode escolher outros métodos de pagamento como cartões de d�
 
 Em alguns países, os juros das compras parceladas são cobrados diretamente pela instituição financeira. Para estes casos, é possível ativar o botão __Juros Externo__. Este botão preenche com `null` o valor dos juros no JSON enviado para o conector. O valor `null` indica que os juros serão cobrados posteriormente pela instituição financeira. Para ativar esta funcionalidade, clique no botão de __Juros Externo__ na configuração do parcelado com juros.
 
-<div class="alert alert-info">
-Atenção: a funcionalidade de juros externos é válida apenas para algumas afiliações de gateway (verifique se esta opção está disponível no momento de cadastrar a afiliação desejada). Os pedidos realizados por afiliações que não suportam esta funcionalidade serão cancelados no sistema.
-</div>
+>ℹ️ Atenção: a funcionalidade de juros externos é válida apenas para algumas afiliações de gateway (verifique se esta opção está disponível no momento de cadastrar a afiliação desejada). Os pedidos realizados por afiliações que não suportam esta funcionalidade serão cancelados no sistema.
 
 ## Remover condição de pagamento
 

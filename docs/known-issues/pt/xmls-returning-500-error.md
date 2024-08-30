@@ -1,16 +1,16 @@
 ---
-title: 'erro de retorno de 500 XMLs'
+title: 'XMLs que retornam erro 500'
 id: 6L48cBRaKQmjAOnNza3aNA
 status: PUBLISHED
 createdAt: 2022-06-07T17:53:45.884Z
-updatedAt: 2022-11-25T22:10:40.212Z
-publishedAt: 2022-11-25T22:10:40.212Z
+updatedAt: 2024-05-23T18:54:18.843Z
+publishedAt: 2024-05-23T18:54:18.843Z
 firstPublishedAt: 2022-06-07T17:53:46.260Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: erro-de-retorno-de-500-xmls
+slug: xmls-que-retornam-erro-500
 locale: pt
 kiStatus: Backlog
 internalReference: 268042
@@ -18,19 +18,17 @@ internalReference: 268042
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
-Eventualmente, o XML pode retornar um erro de 500, ele acontece principalmente em grandes arquivos XML.
-
+Eventualmente, o XML pode retornar um erro 500, o que acontece principalmente em arquivos XML grandes.
 
 
 ## Simulação
 
 
-Tente carregar um grande arquivo XML.
+Tente carregar um arquivo XML grande.
+
 
 
 
@@ -38,6 +36,10 @@ Tente carregar um grande arquivo XML.
 
 
 
-- Tente recarregar o XML geralmente resolve o problema;
+- Tentar recarregar o XML geralmente resolve o problema;
 - Use mais de um XML.
+
+
+
+
 

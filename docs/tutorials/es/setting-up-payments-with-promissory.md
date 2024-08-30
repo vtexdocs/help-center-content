@@ -25,9 +25,7 @@ En VTEX, su tienda puede recibir pagos a través de pagarés. Para habilitar est
 
 Para configurar una afiliación de gateway, acceda a [Registrar afiliaciones de gateway](https://help.vtex.com/es/tutorial/afiliacoes-de-gateway--tutorials_444#).
 
-<div class="alert alert-warning">
-Verifique que la afiliación de gateway deseada admita el procesamiento de pagos de pagarés.
-</div>
+>⚠️ Verifique que la afiliación de gateway deseada admita el procesamiento de pagos de pagarés.
 
 ## Configurar Pagaré
 

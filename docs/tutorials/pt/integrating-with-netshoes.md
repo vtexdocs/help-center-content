@@ -44,17 +44,13 @@ A Netshoes é um dos maiores marketplaces de artigos esportivos e está disponí
 - __Mapeamento de Tipo de Entrega (SLA) -> Normal:__ aqui deve ser inserido o [tipo de transportadora](/pt/tutorial/como-funciona-o-tipo-de-entrega) que você deseja usar para entrega __normal__.
 _`Ex:` imagine que você usa o Correios (PAC) como transportadora e seu Tipo de transportadora no painel de transportadoras da VTEX se chama "Comum". Então, você deve escrever no campo o nome __Comum__. Lembre-se que a palavra deve ser exatamente igual à cadastrada na seção de Estoque & entrega._
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> se o campo for deixado em branco, a integração usará a transportadora <strong>mais barata disponível</strong> no momento de integrar o pedido.
-</div>
+>⚠️ **OBS:** se o campo for deixado em branco, a integração usará a transportadora **mais barata disponível** no momento de integrar o pedido.
 
 - __Mapeamento de Tipo de Entrega (SLA) -> Expressa:__ o [tipo de transportadora](/pt/tutorial/como-funciona-o-tipo-de-entrega) que você deseja usar para entrega __expressa__.
 - 
 _`Ex:` imagine que você usa a transportadora XPTO, que entrega mais rápido, mas é mais cara. Seu Tipo de transportadora no painel de transportadoras da VTEX se chama "Entrega Rápida". Então, você deve escrever no campo o nome __Entrega Rápida__. Lembre-se que a palavra deve ser exatamente igual à cadastrada na seção de Estoque & entrega._
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> se o campo for deixado em branco, a integração usará a transportadora <strong>mais barata disponível<strong> no momento de integrar o pedido.
-</div>
+>⚠️ **OBS:** se o campo for deixado em branco, a integração usará a transportadora <strong>mais barata disponível<strong> no momento de integrar o pedido.
 
 _Legenda:_<br />
 `*` Campos obrigatórios.<br />
@@ -86,11 +82,9 @@ A implementação dessa API permite que a Netshoes consulte, em tempo real, pre�
 
 `http://{accountName}.vtexcommercestable.com.br/api/netshoesintegration/freight`
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> se os Mapeamentos de Entrega não estiverem feitos, não haverá retorno de informações de entrega e frete para essa API.</div> 
+>⚠️ **OBS:** se os Mapeamentos de Entrega não estiverem feitos, não haverá retorno de informações de entrega e frete para essa API. 
 
-<div class="alert alert-warning">
-<strong>OBS 2:</strong> para que a consulta da API seja feita com sucesso, o ID da transportadora e o ID da doca na VTEX deve ser um valor que contenha somente números.</div>
+>⚠️ **OBS 2:** para que a consulta da API seja feita com sucesso, o ID da transportadora e o ID da doca na VTEX deve ser um valor que contenha somente números.
 
 Esse é o _segundo passo_ da integração. Para concluir o processo, é necessário realizar o envio das especificações dos seus produtos à Netshoes.
 
@@ -111,9 +105,7 @@ O mapeamento deve ser feito sempre que um produto for enviado pela primeira vez 
 
 Siga o passo a passo abaixo, fazendo o de/para na __Planilha de Mapeamento__ entre o que está cadastrado no seu produto na VTEX e os valores especificados de acordo com a __Planilha de Consulta__ da Netshoes.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> qualquer valor usado que não esteja na Planilha de Consulta vai ocasionar em um erro de integração.
-</div>
+>⚠️ **OBS:** qualquer valor usado que não esteja na Planilha de Consulta vai ocasionar em um erro de integração.
 
 1. __ID do SKU:__ é o ID do SKU na VTEX. Esse é o Id do SKU que você deseja enviar para a Netshoes.
 
@@ -126,8 +118,7 @@ Siga o passo a passo abaixo, fazendo o de/para na __Planilha de Mapeamento__ ent
 4. __Marca:__ preencha com o valor correspondente à Marca do Produto na VTEX. 
 <br/>_`Ex:` você está mapeando uma camisa da Nike. De acordo com a Planilha de Consulta, a coluna __Marca__ deve ser preenchida com o valor `Nike`._
 <br/>
-<div class="alert alert-warning">
-<strong>OBS:</strong> se a marca que você tem em seus produtos não está na Planilha de Consulta, entre em contato com a Netshoes solicitando a inclusão dela no sistema. Assim que eles confirmarem o cadastro, você poderá usar a marca no mapeamento. Caso eles não tenham cadastrado ainda, o produto vai sofrer um erro de integração.</div>
+>⚠️ **OBS:** se a marca que você tem em seus produtos não está na Planilha de Consulta, entre em contato com a Netshoes solicitando a inclusão dela no sistema. Assim que eles confirmarem o cadastro, você poderá usar a marca no mapeamento. Caso eles não tenham cadastrado ainda, o produto vai sofrer um erro de integração.
 
 5. __Cor__: preencha com o valor da Cor do SKU.
 <br/>_`Ex:` você está mapeando um short azul e branco. De acordo com a Planilha de Consulta, a coluna __Cor__ deve ser preenchida com o valor `Azul+Branco`._

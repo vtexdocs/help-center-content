@@ -55,9 +55,7 @@ Os pedidos recorrentes estão disponíveis em valores que podem ser:
 
 Ao adicionar um produto habilitado para recorrência no checkout, o cliente seleciona a frequência dos itens que deseja receber recorrentemente e fecha o pedido normalmente, selecionando o meio de pagamento **Cartão de Crédito**.
 
-<div class="alert alert-warning">
-A recorrência apenas será ativada quando o meio de pagamento for Cartão de Crédito.
-</div>
+>⚠️ A recorrência apenas será ativada quando o meio de pagamento for Cartão de Crédito.
 
 Depois do período de tempo escolhido, o sistema automaticamente gera o pedido. Após a aprovação do pagamento, a recorrência será ativada.
 

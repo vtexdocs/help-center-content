@@ -3,8 +3,8 @@ title: 'La emisora no notifica todos los cambios de stock al módulo de búsqued
 id: XLozPnuonjPImtZa8bWAz
 status: PUBLISHED
 createdAt: 2022-10-24T12:26:59.536Z
-updatedAt: 2023-03-29T13:40:37.657Z
-publishedAt: 2023-03-29T13:40:37.657Z
+updatedAt: 2023-07-05T17:37:16.708Z
+publishedAt: 2023-07-05T17:37:16.708Z
 firstPublishedAt: 2022-10-24T12:27:00.490Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -18,9 +18,7 @@ internalReference: 683345
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

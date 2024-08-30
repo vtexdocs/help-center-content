@@ -35,9 +35,7 @@ There are currently four ways of logging in to a VTEX store:
 | Facebook     | Can be enabled | Not available    |
 | Google       | Can be enabled | Selectable       |
 
-<div class="alert alert-info">
-At least one of the four login methods must be enabled on the Webstore tab.
-</div>
+>ℹ️ At least one of the four login methods must be enabled on the Webstore tab.
 
 ## Online store
 

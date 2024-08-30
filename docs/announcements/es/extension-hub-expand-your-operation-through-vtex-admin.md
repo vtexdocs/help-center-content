@@ -3,8 +3,8 @@ title: 'Hub de extensiones: amplía tu operación a través del Admin VTEX'
 id: 4FYJCHTttMa0znV1mdHW9w
 status: PUBLISHED
 createdAt: 2023-05-31T22:15:06.695Z
-updatedAt: 2023-06-04T22:02:53.542Z
-publishedAt: 2023-06-04T22:02:53.542Z
+updatedAt: 2023-08-02T14:37:08.083Z
+publishedAt: 2023-08-02T14:37:08.083Z
 contentType: updates
 productTeam: Apps
 author: 4ubliktPJIsvyl1hq91RdK
@@ -31,9 +31,7 @@ Con el Hub de extensiones, toda la experiencia de navegación y compra de aplica
 
 Los precios en la **App Store** se mostrarán en dólares estadounidenses (USD), a menos que tu tienda esté en Brasil, en cuyo caso los precios serán en reales (BRL). Los pagos por compra, suscripción y uso de la aplicación se procesan automáticamente y los importes correspondientes se añaden a tu [factura VTEX](https://help.vtex.com/es/tutorial/vision-general-facturacion--6UxfCl4fw4GmyQwoUuIcQs) en tu moneda local, eliminando la necesidad de pago con tarjeta de crédito. Si tu operación no está ubicada en Brasil y tu factura está en una moneda distinta de USD, convertiremos el importe en USD a tu moneda local.
 
-<div class = "alert alert-info">
-El <a href="http://apps.vtex.com/">sitio web de la App Store</a> seguirá existiendo, pero solo para la visualización de aplicaciones de forma pública. Ya no será posible comprar aplicaciones a través del sitio web, dado que las compras solo pueden realizarse en el Admin VTEX.
-</div>
+>ℹ️ El [sitio web de la App Store](http://apps.vtex.com/) seguirá existiendo, pero solo para la visualización de aplicaciones de forma pública. Ya no será posible comprar aplicaciones a través del sitio web, dado que las compras solo pueden realizarse en el Admin VTEX.
 
 ### Partners
 
@@ -60,3 +58,5 @@ Además, renovamos la experiencia de compra de aplicaciones en la **App Store**.
 Por último, nuestro objetivo es reforzar la relación entre los administradores de las tiendas y los partners de VTEX. Así, los administradores de las tiendas que deseen implementar soluciones únicas en sus negocios, pueden ahora encontrar y contactar directamente con partners y desarrolladores a través de la nueva sección, **Partners**, en el Admin VTEX.
 
 Para obtener más información, consulta nuestra [documentación sobre el Hub de extensiones](https://help.vtex.com/es/tracks/hub-de-extensiones--AW7klkYMh557y5IUOgzco).
+
+_\*Información actualizada el 2 de agosto de 2023: la página **Partners** estará disponible en el futuro. Sin embargo, todavía no hay una fecha prevista para su lanzamiento._

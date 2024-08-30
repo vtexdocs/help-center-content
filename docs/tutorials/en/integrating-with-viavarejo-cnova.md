@@ -39,9 +39,7 @@ This article aims to guide you through the process of registering the integratio
 
 &bull; __Name of the Product Specification field containing your Description__: If you want to use a different description than the one already registered in VTEX catalog, you have the option of [creating a product field](/en/tutorial/creating-a-product-field) with type _Long Text_. By filling in this field, the integration will prioritize the submission of the description contained in it (rather than the original description of the product).
 
-<div class="alert alert-danger">
-<strong>Note:</strong> Look at the settings in the creation of this new field so that new information created does <strong>not</strong> appear on your site.
-</div>
+>❗ **Note:** Look at the settings in the creation of this new field so that new information created does **not** appear on your site.
 
 &bull; __Price Divergence Rate*:__ this is the acceptance rate of the difference in value of an order. Any order that has a difference between the selling price in the marketplace and the price determined by the seller [will be compared to this value](/en/faq/why-was-the-order-closed-with-the-wrong-price). If the divergence, in percent, is less than the value defined in this field, the order will be correctly integrated. Otherwise, the order will not be integrated and you will be able to view it in the [orders tab (within the integrations section in the Admin)](/en/tutorial/checking-integrations-in-bridge).
 

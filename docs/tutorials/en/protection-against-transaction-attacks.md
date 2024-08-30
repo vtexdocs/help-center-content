@@ -3,7 +3,7 @@ title: 'Protection against transaction attacks'
 id: 62oQBmi7UZlYlgb0Ha1hZ3
 status: DRAFT
 createdAt: 2021-10-25T19:02:59.690Z
-updatedAt: 2021-12-10T13:52:07.652Z
+updatedAt: 2024-03-01T15:58:16.139Z
 publishedAt: 
 firstPublishedAt: 
 contentType: tutorial
@@ -21,8 +21,7 @@ Protection against transaction attacks is one of the solutions offered by VTEX t
 
 In its first version, when activated, the protection will consist of applying a change to the payment flow of the purchase. This will not result in an increase in order time or a decrease in store conversion. Once the order is placed, the consumer will receive an electronic message (email or SMS) informing whether the payment has been approved or rejected.
 
-<div class = "alert alert-info"> The protection does not completely prevent the store from suffering card attacks, but it considerably reduces the number of such events. In this way, transactions become more secure.
-</div>
+>ℹ️ The protection does not completely prevent the store from suffering card attacks, but it considerably reduces the number of such events. In this way, transactions become more secure.
 
 ### How to enable protection against transaction attacks?
 
@@ -42,8 +41,7 @@ To enable the protection, please follow the instructions below:
 
 ### How to disable protection against transaction attacks?
 
-<div class = "alert alert-danger"> Disabling the protection against transaction attacks increases the risk of card testing fraud (operation performed by a fraudster using a large number of card data to make fraudulent transactions). In case of attacks that may harm one or more of VTEX's internal systems, the platform may compulsorily reactivate the protection against attacks, and the retailer will be informed of this operation.
-</div>
+>❗ Disabling the protection against transaction attacks increases the risk of card testing fraud (operation performed by a fraudster using a large number of card data to make fraudulent transactions). In case of attacks that may harm one or more of VTEX's internal systems, the platform may compulsorily reactivate the protection against attacks, and the retailer will be informed of this operation.
 
 To disable the protection, please follow the instructions below:
 

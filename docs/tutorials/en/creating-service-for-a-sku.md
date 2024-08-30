@@ -3,8 +3,8 @@ title: 'Creating service for a SKU'
 id: tutorials_252
 status: PUBLISHED
 createdAt: 2017-04-27T22:12:00.282Z
-updatedAt: 2023-05-04T13:15:14.224Z
-publishedAt: 2023-05-04T13:15:14.224Z
+updatedAt: 2024-03-04T22:36:04.117Z
+publishedAt: 2024-03-04T22:36:04.117Z
 firstPublishedAt: 2017-04-27T23:03:11.914Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -40,17 +40,10 @@ To register a service type, please follow the steps below:
 In this section you must enter a name for your service type and configure its behavior according to the options below.
 
 - **Name:** name of the service type.
-- **Displays on product:** option to display the service type on the product page.
-- **Displays in cart:** option to display the service type in the cart.
-- **Displays on service:** option to display the service type on the service page.
 - **Gift card:** option to display the service type on the gift card.
 - **Mandatory service:** option to make the service type mandatory.
 - **Status** option to enable or disable the service type.
-- **Attachments:** selected attachments that will be added to the service type. The attachment is used to add customized information to the service. To learn more, read our article What is an Attachment?.
-
-<div class = "alert alert-warning">
-  <p>To display the service on the product page, you must enable the option <b>Displays on product</b> and add the control <code><vtex.cmc:stockKeepingUnitService/></code> to the product page in the CMS. For more information, read our article <a href ="https://help.vtex.com/en/tutorial/what-are-controls--6e2qsk9zu8IQuyEysKweag" >What are controls?</a>.</p> 
-</div>
+- **Attachments:** selected attachments that will be added to the service type. The attachment is used to add customized information to the service. To learn more, read our article [What is an Attachment?](https://help.vtex.com/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm).
 
 ## Creating a service value and associating it with a service type
 After registering the service type, you must assign a value to it. To register the value of a service type, please follow the steps below:
@@ -82,9 +75,7 @@ To link a service to a SKU, please follow the steps below:
 5. Click on `Export`.
 6. Save the exported template to your computer in CSV format.
 7. Fill in the [template fields](#template-fields). Keep the file in CSV format when saving changes.
-<div class = "alert alert-warning">
-  <p>The size of the template file cannot exceed 4Mb (4096KB).</p>
-</div>
+>⚠️ The size of the template file cannot exceed 4Mb (4096KB).
 8. Click on the bar next to the `Select` button, as shown below.
   ![Anexos - EN](https://images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/6d834bfa0595150d8c6a5b69c6088e23/sku-services.png)
 9. Select the updated CSV template.
@@ -93,9 +84,7 @@ To link a service to a SKU, please follow the steps below:
 ### Template fields
 Use the template carefully, always making sure that the information is correctly filled in. In order to avoid errors, all fields in the template must be filled in.
 
-<div class="alert alert-warning">
-  <p>When filling the spreadsheet, do not change or delete the column headings in row 1. Fill in the desired values in the rows after the column headings for the import to work correctly.</p>
-</div>  
+>⚠️ When filling the spreadsheet, do not change or delete the column headings in row 1. Fill in the desired values in the rows after the column headings for the import to work correctly.  
 
 - **Nome Serviço:** name of the service.
 - **Texto Serviço:** text that will be displayed along with the service.
@@ -112,7 +101,5 @@ Use the template carefully, always making sure that the information is correctly
 - **Custo:** the cost of the service to the store.
 - **Ativo:** status of the service. Enter `1` to keep the service active and `0` to keep it inactive.
 
-<div class = "alert alert-warning">
-  <p>Adding a new template will not replace the services already linked to the SKU. To unlink a service, use the endpoint <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU service</a>.</p>
-</div>
+>⚠️ Adding a new template will not replace the services already linked to the SKU. To unlink a service, use the endpoint <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU service</a>.
 

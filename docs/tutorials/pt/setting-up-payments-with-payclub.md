@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagamentos com PayClub'
 id: 3C3bDia3Tyq48MOuMomcUW
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-03T13:12:17.337Z
-updatedAt: 2023-03-28T00:07:06.076Z
-publishedAt: 2023-03-28T00:07:06.076Z
+updatedAt: 2024-03-18T19:14:09.539Z
+publishedAt: 
 firstPublishedAt: 2018-04-03T15:07:32.416Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: pt
 legacySlug: configurar-pagamentos-com-payclub
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+>❗ Essa integração de pagamento não pode ser mais configurada na plataforma devido ao [processo de remoção de provedores legados](https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14) e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.
 
 Você pode configurar o [subadquirente](/pt/tutorial/o-que-e-um-subadquirente) PayClub para receber pagamentos na sua loja. Nesta modalidade, seu cliente escolhe o __meio de pagamento__ PayClub e realiza a autenticação no ambiente externo da solução de pagamentos.
 

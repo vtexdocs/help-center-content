@@ -3,8 +3,8 @@ title: 'stockkeepingunit catalog API allows invalid commercial condition values'
 id: 1ONAspL4Wj9fdu2tYcX4Ur
 status: PUBLISHED
 createdAt: 2023-03-10T20:44:01.459Z
-updatedAt: 2023-03-10T20:44:02.006Z
-publishedAt: 2023-03-10T20:44:02.006Z
+updatedAt: 2024-07-01T18:48:57.278Z
+publishedAt: 2024-07-01T18:48:57.278Z
 firstPublishedAt: 2023-03-10T20:44:02.006Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: stockkeepingunit-catalog-api-allows-invalid-commercial-condition-values
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 769053
 ---
 

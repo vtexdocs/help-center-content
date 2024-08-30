@@ -18,9 +18,7 @@ internalReference: 841704
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando usarmos mais de uma localidade na conta, a tradução será feita com base no idioma ao qual a localidade se refere e se usarmos mais de uma localidade na conta, a tradução será feita com base no idioma ao qual a localidade se refere.

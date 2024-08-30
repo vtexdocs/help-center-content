@@ -18,9 +18,7 @@ internalReference: 367339
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao chegar à caixa com mais de 20 itens, os itens mostrados no resumo de compras (lista de itens do topo direito) podem ser duplicados. Os totalizadores e até mesmo o API estão corretos. O cenário não acontece na lista principal de itens (etapa do carrinho de compras).

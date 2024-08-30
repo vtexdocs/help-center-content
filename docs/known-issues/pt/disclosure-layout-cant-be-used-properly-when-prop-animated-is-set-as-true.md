@@ -3,8 +3,8 @@ title: 'O layout de divulgação não pode ser usado corretamente quando a anima
 id: 14QweVpzLO8TsyI68H79ZG
 status: PUBLISHED
 createdAt: 2022-04-19T19:53:22.409Z
-updatedAt: 2022-11-25T22:13:15.022Z
-publishedAt: 2022-11-25T22:13:15.022Z
+updatedAt: 2024-07-01T18:48:05.329Z
+publishedAt: 2024-07-01T18:48:05.329Z
 firstPublishedAt: 2022-04-19T19:53:23.090Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-layout-de-divulgacao-nao-pode-ser-usado-corretamente-quando-a-animacao-de-propulsao-e-definida-como-verdadeira
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 417947
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Há um problema no layout de divulgação que só está desencadeando o bloco a ser mostrado, mas não está fechando. Isto é causado pelo propulsor animado, que não está funcionando corretamente quando definido no layout de divulgação e não permite esconder o elemento após a abertura.

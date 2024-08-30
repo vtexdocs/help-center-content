@@ -1,10 +1,10 @@
 ---
 title: 'Shipping Options (Beta)'
 id: 7gsdck3519Z3VPqzwFFHJL
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-05-27T15:35:44.505Z
-updatedAt: 2023-03-21T17:44:07.634Z
-publishedAt: 2023-03-21T17:44:07.634Z
+updatedAt: 2023-08-14T17:28:57.629Z
+publishedAt: 
 firstPublishedAt: 2022-05-31T18:53:28.695Z
 contentType: tutorial
 productTeam: Others
@@ -15,9 +15,7 @@ legacySlug: delivery-options-beta
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-<p>Esta funcionalidad se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarla. Si tienes alguna duda, ponte en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.</p>
-</div>
+>ℹ️ Esta funcionalidad se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarla. Si tienes alguna duda, ponte en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.
 
 **Opciones de envío** es la funcionalidad que permite a los administradores de la tienda crear, editar y gestionar las opciones de envío desde un mismo lugar y garantizar mayor simplicidad y eficiencia en la gestión de su operación. El término «envío» es la forma general de referirse a la entrega o recogida de un pedido. Al configurar cada opción de envío, el administrador de la tienda determina:
 
@@ -35,9 +33,7 @@ Sin embargo, el objetivo de las **Opciones de envío** no es sustituir las [pol�
 
 Con las **Opciones de envío**, se separa lo que se cobra a los consumidores por el envío del pedido y el costo de envío para el administrador de la tienda, ya que se pueden configurar diferentes reglas de precios para la tarifa de envío.
 
-<div class = "alert alert-info">
-Para que la selección de las transportadoras para el envío se realice correctamente, se debe ingresar en las plantillas de envío el costo real que las transportadoras cobran por realizar el envío.
-</div>
+>ℹ️ Para que la selección de las transportadoras para el envío se realice correctamente, se debe ingresar en las plantillas de envío el costo real que las transportadoras cobran por realizar el envío.
 
 La funcionalidad **Opciones de envío** permite al administrador de la tienda configurar la tarifa de envío a partir de:
 
@@ -59,9 +55,7 @@ En cada opción de envío, el administrador de la tienda registra un SLA (_Servi
 
 El algoritmo de la plataforma VTEX, [Order Allocation Algorithm](https://help.vtex.com/es/tutorial/order-allocation-algorithm-beta--1zLCAyEdnVe3EsE9Kz88xA), analiza las combinaciones de tiendas y centros de distribución que dan servicio a cada una de las opciones de envío y busca seleccionar las que tienen el menor costo de envío. En el ejemplo, el resultado es una combinación del menor costo de envío el mismo día y otra combinación del menor costo de envío en hasta 5 días laborales.
 
-<div class = "alert alert-info">
-Con las <b>Opciones de envío</b>, existe la garantía de que siempre se presentará al consumidor una opción de envío disponible para la ubicación, lo que antes no ocurría. La única excepción es si no hay un seller ni política de envío que cumpla las condiciones de una opción de envío. En este caso, no se mostrará ninguna opción de envío al consumidor en el checkout.
-</div>
+>ℹ️ Con las **Opciones de envío**, existe la garantía de que siempre se presentará al consumidor una opción de envío disponible para la ubicación, lo que antes no ocurría. La única excepción es si no hay un seller ni política de envío que cumpla las condiciones de una opción de envío. En este caso, no se mostrará ninguna opción de envío al consumidor en el checkout.
 
 ## Acciones y configuración
 

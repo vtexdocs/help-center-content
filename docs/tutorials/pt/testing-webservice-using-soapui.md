@@ -15,11 +15,13 @@ legacySlug: testando-webservice-com-soapui
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---
 
-<div class="alert alert-danger"><p>Atenção: somente os métodos SOAP pertinentes ao <strong>catálogo</strong> são válidos.</p>
-<p><strong>Todos os outros métodos do Web Service serão descontinuados no dia 28/02/2017.</strong></p>
-<p>Use as APIs REST equivalentes, disponíveis em nosso <a href="//help.vtex.com/developer-docs/">Developer Docs</a>.</p></div>
+>❗ Atenção: somente os métodos SOAP pertinentes ao **catálogo** são válidos.
+>
+> **Todos os outros métodos do Web Service serão descontinuados no dia 28/02/2017.**
+>
+> Use as APIs REST equivalentes, disponíveis em nosso [Developer Docs](//help.vtex.com/developer-docs/).
 
-<div class="alert alert-warning">As configurações documentadas neste artigo são realizadas em um ambiente fora da VTEX, portanto podem ser descontinuadas sem prévio aviso.</div>
+>⚠️ As configurações documentadas neste artigo são realizadas em um ambiente fora da VTEX, portanto podem ser descontinuadas sem prévio aviso.
 
 SoapUI é uma ferramenta que pode ser utilizada para simular conexão e execução de métodos de um determinado webservice, sem ter a necessidade de fazer isso apenas via programação.
 
@@ -33,7 +35,7 @@ O passo a passo de utilização é o seguinte:
 
 Substitua o valor {NOMEDALOJA} pelo nome de sua loja.
 
-![](//images.contentful.com/alneenqid6w5/WMZnCJCLg2WGSIesMOMKu/efed51a5c0e151d1ac1f7902600e522a/1.png)
+![](https://images.contentful.com/alneenqid6w5/WMZnCJCLg2WGSIesMOMKu/efed51a5c0e151d1ac1f7902600e522a/1.png)
 
 Efetue o login com os dados do Web Service desejado. Após efetuar o login, você visualizará todos os métodos existentes no [manual do Web Service](/pt/tutorial/manual-das-classes-e-metodos-usados-no-webservice/).
 
@@ -42,8 +44,10 @@ Efetue o login com os dados do Web Service desejado. Após efetuar o login, voc�
 3. Localize o botão **Auth** e repita a autenticação antes de executar o método;
 4. Execute o método.
 
-![](//images.contentful.com/alneenqid6w5/3TBC8YgtvyQ6sMQAyQACOg/5e14a72feaa3bf0d00a8b245d56788d1/2.png)
+![](https://images.contentful.com/alneenqid6w5/3TBC8YgtvyQ6sMQAyQACOg/5e14a72feaa3bf0d00a8b245d56788d1/2.png)
 
-<div class="alert alert-danger"><p>Atenção: somente os métodos SOAP pertinentes ao <strong>catálogo</strong> são válidos.</p>
-<p><strong>Todos os outros métodos estão descontinuados.</strong></p>
-<p>Use as APIs REST equivalentes, disponíveis em nosso <a href="//help.vtex.com/developer-docs/">Developer Docs</a>.</p></div>
+>❗ Atenção: somente os métodos SOAP pertinentes ao **catálogo** são válidos.
+>
+> **Todos os outros métodos estão descontinuados.**
+>
+> Use as APIs REST equivalentes, disponíveis em nosso [Developer Docs](//help.vtex.com/developer-docs/).

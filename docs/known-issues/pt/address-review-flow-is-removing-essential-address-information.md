@@ -3,8 +3,8 @@ title: 'O fluxo de revisão de endereço está removendo informações essenciai
 id: 416pFRk6KsWIfgPr8pzWii
 status: PUBLISHED
 createdAt: 2022-08-11T18:33:49.548Z
-updatedAt: 2022-11-25T21:50:56.733Z
-publishedAt: 2022-11-25T21:50:56.733Z
+updatedAt: 2024-02-16T20:23:20.195Z
+publishedAt: 2024-02-16T20:23:20.195Z
 firstPublishedAt: 2022-08-11T18:33:50.049Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-fluxo-de-revisao-de-endereco-esta-removendo-informacoes-essenciais-de-endereco
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 618756
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A validação do endereço no modo de geolocalização (endereço inserido via Google Maps) está removendo informações essenciais, como a rua e o número, de endereços válidos, afetando o fluxo de compras.

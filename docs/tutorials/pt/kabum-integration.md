@@ -61,9 +61,7 @@ Para configurar uma nova chave, siga os passos abaixo:
 
 Aguarde a chave porque ela será utilizada na etapa [Envio de informações para o KaBuM!](#envio-de-informacoes-para-o-kabum)
 
-<div class="alert alert-warning">
-A chave de acesso gerada só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em um local seguro.
-</div>
+>⚠️ A chave de acesso gerada só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em um local seguro.
 
 ### Criar afiliado
 
@@ -85,9 +83,7 @@ O [afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk
 
 ## Envio de informações para o KaBuM!
 
-<div class = "alert alert-info">
-O processo de onboarding com conectores certificados é responsabilidade dos próprios parceiros.
-</div>
+>ℹ️ O processo de onboarding com conectores certificados é responsabilidade dos próprios parceiros.
 
 Após concluir as configurações na plataforma VTEX, para dar prosseguimento a integração com o KaBuM!, você precisará possuir uma **chave de API da KaBuM!**. Caso não possua, saiba como obtê-la lendo o artigo da KaBuM! [Geração de chave de API](https://kabum.movidesk.com/kb/article/269610/geracao-de-chave-de-api).
 

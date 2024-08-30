@@ -1,9 +1,9 @@
 ---
 title: 'Configuración de la cuenta de Amazon'
 id: 43L0dpbjLBz6tcim1BbTzf
-status: PUBLISHED
+status: CHANGED
 createdAt: 2019-02-28T23:01:18.628Z
-updatedAt: 2023-03-08T20:38:03.932Z
+updatedAt: 2023-11-09T22:36:18.079Z
 publishedAt: 2023-03-08T20:38:03.932Z
 firstPublishedAt: 2019-02-28T23:02:20.905Z
 contentType: trackArticle
@@ -33,6 +33,4 @@ Tras crear tu cuenta de seller, deberás autorizas VTEX en tu cuenta de Amazon S
 
 Tras realizar la autorización, serás redirigido al Admin VTEX y se completará este paso de la integración.  
 
-<div class="alert alert-info">
-Si tiene alguna duda sobre este paso, consulte la <a href="https://sellercentral.amazon.com/learn/courses?ref_=su_course_accordion&moduleId=1f61fcd3[…]-ed90359ff166&modLanguage=Portuguese&videoPlayer=youtube">documentación de Seller Central Amazon.</a>
-</div>
+>ℹ️ Si tiene alguna duda sobre este paso, consulte la [documentación de Seller Central Amazon.](https://sellercentral.amazon.com/learn/courses?ref_=su_course_accordion&moduleId=1f61fcd3[…]-ed90359ff166&modLanguage=Portuguese&videoPlayer=youtube)

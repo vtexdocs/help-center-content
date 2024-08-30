@@ -18,9 +18,7 @@ internalReference: 446938
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Não é possível concluir compras onde o mercado está aplicando promoções a itens de vendedores que estão sob comportamento multinível. O cliente verá uma mensagem de erro genérica.

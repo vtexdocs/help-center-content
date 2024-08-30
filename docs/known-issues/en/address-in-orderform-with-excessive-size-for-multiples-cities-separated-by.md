@@ -1,5 +1,5 @@
 ---
-title: 'Address in orderForm with excessive size for multiples cities separated by "::"'
+title: "Address in orderForm with excessive size for multiples cities separated by '::'"
 id: 7E6x4O56SxcSeU2qv09GBt
 status: PUBLISHED
 createdAt: 2023-01-06T11:52:36.229Z

@@ -18,9 +18,7 @@ internalReference: 756629
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o preço do item vendido _minus_ descontos de mercado tem um valor negativo, ele não pode ser aplicado ao item (eles não podem ter um preço negativo), então será considerado como zero e mexerá com outros cálculos. Isso acontece quando o mercado está usando o recurso de substituição do preço do vendedor, gerando valores maiores do que a própria conta do vendedor, e depois combinando com uma promoção.

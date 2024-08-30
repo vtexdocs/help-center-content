@@ -57,6 +57,4 @@ If you find any errors while performing operational tests in the Beta environmen
 
 After verifying the store settings, run the test in Beta environment again.
 
-<div class="alert alert-warning">
-After February 13, 2023, stores that do not have the appropriate settings could be unable to operate the Checkout correctly.
-</div>
+>⚠️ After February 13, 2023, stores that do not have the appropriate settings could be unable to operate the Checkout correctly.

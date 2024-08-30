@@ -18,9 +18,7 @@ internalReference: 670424
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o usuário escolhe pagar com dois cartões, então muda o método de pagamento e volta a pagar com dois cartões, a mensagem "_Error inesperado"_ aparecerá na caixa de opção de pagamento._ _ _

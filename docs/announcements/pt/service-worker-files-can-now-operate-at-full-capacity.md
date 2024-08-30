@@ -19,9 +19,9 @@ O __Service Worker__ agora pode interceptar todos os requests da sua loja VTEX. 
 
 Na prática, a atualização das permissões do __Service Worker__ amplia as possibilidades da sua loja, sendo a maior delas poder operar como PWA (Progressive Web App). Essa solução permite que o usuário acesse um site como faz com um aplicativo, mas sem precisar baixar nada. Ele só precisa salvar o site na tela de início do smartphone para navegar, sem nem precisar estar conectado à internet para ver o conteúdo.
 
-<div class="alert alert-warning">
-<strong>Atenção:</strong><br>
-A plataforma VTEX <strong>não</strong> possui features nativas para transformar sua loja em PWA. Ela apenas oferece as condições para que essa implementação seja feita.
-</div>
+>⚠️ **Atenção:**
+>
+> 
+> A plataforma VTEX **não** possui features nativas para transformar sua loja em PWA. Ela apenas oferece as condições para que essa implementação seja feita.
 
 Para saber como instalar o __Service Worker__ na sua loja, leia [este artigo do Help](/pt/tutorial/como-instalar-um-service-worker).

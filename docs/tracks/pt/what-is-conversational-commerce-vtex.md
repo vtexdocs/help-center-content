@@ -1,10 +1,10 @@
 ---
 title: 'O que é Conversational Commerce VTEX?'
 id: 1NwwADrU70v3roPUV7dWxI
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-08-23T14:47:50.242Z
-updatedAt: 2023-04-18T15:02:45.235Z
-publishedAt: 2023-04-18T15:02:45.235Z
+updatedAt: 2024-01-05T17:13:58.076Z
+publishedAt: 
 firstPublishedAt: 2022-08-23T17:46:55.444Z
 contentType: trackArticle
 productTeam: Shopping
@@ -22,9 +22,7 @@ Para utilização do suporte humano, o Message-to-Order já está pré integrado
 
 ![chatbot-PT](https://images.ctfassets.net/alneenqid6w5/5w2PKYYmrGDYuiP0t4jQXU/2e05dae6dd79cd1352cade3533624f68/Captura_de_Tela_2022-07-28_a__s_11.13.08.png)
 
-<div class="alert alert-info">
-O Message-to-Order é um produto em fase de início de operação com escopo reduzido (Alpha). Portanto o perfil de cliente e mercados que abrange ainda é limitado a BR e LATAM e às capacidades disponibilizadas pelo cliente nesse estágio.
-</div>
+>ℹ️ O Message-to-Order é um produto em fase de início de operação com escopo reduzido (Alpha). Portanto o perfil de cliente e mercados que abrange ainda é limitado a BR e LATAM e às capacidades disponibilizadas pelo cliente nesse estágio.
 
 Para adicionar o Conversational Commerce VTEX à sua loja, são necessárias duas configurações:
 

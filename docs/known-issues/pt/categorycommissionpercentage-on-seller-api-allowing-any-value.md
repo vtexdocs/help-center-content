@@ -18,9 +18,7 @@ internalReference: 382680
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 No PUT Seller API, a categoria de propriedadeCommissionPercentage aceita qualquer tipo de entrada, por exemplo, entradas de texto. Isto pode até quebrar o processo de indexação para produtos que possuem SKUs nos quais este vendedor está incluído.

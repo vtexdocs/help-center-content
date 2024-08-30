@@ -28,8 +28,8 @@ Para identificar qual é o erro, siga os passos abaixo:
 5. Ainda no developer tools, clique na opção __All__.!![f12pt](https://images.ctfassets.net/alneenqid6w5/29nyZivZywIyM8m4aE6Omu/f595c009eb3e8f7559bee5ebc3444c16/f12pt.png)  
 6. Clique no botão __Aceitar__ do módulo Sugestões.  
 7. Você verá uma lista das chamadas ativadas pelo botão Aceitar.  
-8. Se uma delas estiver em vermelho e com status `400`, como na imagem abaixo, clique nessa chamada.![erroSuggestion3](//images.contentful.com/alneenqid6w5/3aObfkI9zqSOaUmGqu8MMU/0532f37ce192de8b36672b7e633ab99c/erroSuggestion3.png)  
-9. Você verá em seguida a descrição do erro que ocasionou a falha no processamento da sugestão do SKU.![erroSuggestion4](//images.contentful.com/alneenqid6w5/4yN8mswXdYoKO6wcsyO0eW/2de11f133c3ee911c1e712d7b1188711/erroSuggestion4.png)  
+8. Se uma delas estiver em vermelho e com status `400`, como na imagem abaixo, clique nessa chamada.![erroSuggestion3](https://images.contentful.com/alneenqid6w5/3aObfkI9zqSOaUmGqu8MMU/0532f37ce192de8b36672b7e633ab99c/erroSuggestion3.png)  
+9. Você verá em seguida a descrição do erro que ocasionou a falha no processamento da sugestão do SKU.![erroSuggestion4](https://images.contentful.com/alneenqid6w5/4yN8mswXdYoKO6wcsyO0eW/2de11f133c3ee911c1e712d7b1188711/erroSuggestion4.png)  
 
 Para resolver o problema, o seller deve resolver o erro apontado nessa descrição.
 

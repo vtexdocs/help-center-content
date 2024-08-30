@@ -21,9 +21,7 @@ Os eventos são reportados pela nossa equipe sempre que nosso sistema automátic
 
 Abaixo, você encontra detalhes sobre os elementos da página de status da plataforma VTEX.
 
-<div class = "alert alert-info">
-A página de status é feita com <a href="https://www.atlassian.com/software/statuspage">Atlassian Statuspage</a>.
-</div>
+>ℹ️ A página de status é feita com [Atlassian Statuspage](https://www.atlassian.com/software/statuspage).
 
 ## Notificações
 

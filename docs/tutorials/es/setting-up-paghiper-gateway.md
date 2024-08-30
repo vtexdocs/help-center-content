@@ -1,10 +1,10 @@
 ---
 title: 'Configurar gateway PagHiper'
 id: I3KXAIIJG0oyyg4A4MykE
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-09T22:06:11.621Z
-updatedAt: 2023-03-29T01:13:11.291Z
-publishedAt: 2023-03-29T01:13:11.291Z
+updatedAt: 2024-03-18T19:04:40.079Z
+publishedAt: 
 firstPublishedAt: 2018-04-09T22:43:35.309Z
 contentType: tutorial
 productTeam: Financial
@@ -15,14 +15,15 @@ legacySlug: configurar-gateway-paghiper
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+>❗ Esta integración de pago ya no se puede configurar en la plataforma debido al [proceso de descontinuación de los proveedores legados](https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14) y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.
+
 PagHiper es un [gateway](/es/tutorial/que-es-un-gateway-de-pagos) que se dedica al procesamiento de compras realizadas por boletos bancarios.
 
 Para configurar PagHiper, siga los pasos abajo:
 
-## Configurar la afiliación de gateway Paghiper
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. En la pestaña __Afiliaciones__, haga clic en el botón __+__.
-3. Haga clic en el conector __PagHiper__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __PagHiper__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. En el campo __External Service Url__, usted debe configurar la URL externa que va a estar asociada a `/pvt/payments?an={AccountName}`.
 5. Rellene los campos de registro con los datos proporcionados por PagHiper (campos _appKey_ y _appToken_).
 6. En __Implements Installments Service__, usted debe elegir si desea utilizar servicios externos de parcelación o el que está configurado en el portal. Si elige la opción _yes_, el sistema utilizará la URL configurada en el campo __Installments Service Url__.

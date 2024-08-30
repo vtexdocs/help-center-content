@@ -1,5 +1,5 @@
 ---
-title: '[Pedido FOB integrado com entrega "Convencional".'
+title: "[Pedido FOB integrado com entrega 'Convencional'."
 id: 74uM19UXEopXguM6m0JbOL
 status: PUBLISHED
 createdAt: 2022-12-23T12:40:05.775Z
@@ -18,9 +18,7 @@ internalReference: 721951
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Precisamos rever o fluxo e entender porque pedidos como "Magalu Entregas/FOB" estão sendo integrados com "selectedSla = "Convencional", por exemplo.

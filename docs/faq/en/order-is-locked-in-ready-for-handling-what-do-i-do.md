@@ -1,5 +1,5 @@
 ---
-title: 'Order is locked in "Ready for Handling". What do I do?'
+title: "Order is locked in 'Ready for Handling'. What do I do?"
 id: frequentlyAskedQuestions_771
 status: PUBLISHED
 createdAt: 2017-04-27T22:27:37.057Z
@@ -25,10 +25,8 @@ When the ERP queries and enters this order in your base, it has to inform VTEX t
 
 > To do so, click on the arrow symbol on top of the **Start handling** box in the order flow diagram below.
 
-![ProntoParaManuseio](//images.contentful.com/alneenqid6w5/5VSeCrxvSogcI46mgkYkm8/84ea107934684ada917d6a8163aeae34/ProntoParaManuseio.png)
+![ProntoParaManuseio](https://images.contentful.com/alneenqid6w5/5VSeCrxvSogcI46mgkYkm8/84ea107934684ada917d6a8163aeae34/ProntoParaManuseio.png)
 
 > You must have a [OMS - Full access role](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access "Perfis de acesso - OMS Full access") in order to perform this action.
 
-<div class="alert alert-warning">
-<p>If the order is moved manually from the <b>Start handling</b> status, it will not be possible to move the order down to the ERP afterwards.</p>
-</div>
+>⚠️ If the order is moved manually from the **Start handling** status, it will not be possible to move the order down to the ERP afterwards.

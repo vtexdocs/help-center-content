@@ -28,7 +28,7 @@ On the upper right-hand corner, click on the e-mail (the same that you used for 
 
 The key that appears on the screen is the information that you will need to register the integration in the VTEX Bridge module.
 
-![Carrefour1](//images.contentful.com/alneenqid6w5/3J1VMlsGsMswagSeG2y0EK/d054fac671b13f5dca7f627aa5121c97/Carrefour1.png)
+![Carrefour1](https://images.contentful.com/alneenqid6w5/3J1VMlsGsMswagSeG2y0EK/d054fac671b13f5dca7f627aa5121c97/Carrefour1.png)
 
 ### Configuring integration in Bridge
 
@@ -50,9 +50,7 @@ The following options will appear:
 - **Mapeamento de SLA de tipo Econômica:** Here you must enter [type of carrier](/en/tutorial/how-does-the-type-of-delivery-work) VTEX that you want to use for `Economical` delivery.
 - **Mapeamento de SLA de tipo Agendada:** Here you must enter [type of carrier](/en/tutorial/how-does-the-type-of-delivery-work) VTEX that you want to use for `Scheduled` delivery.
 
-<div class="alert alert-warning">
-Warning: you must fill at least one of the SLA mapping fields. If none of them is filled, it will not be possible to simulate freight at VTEX and, consequently, the orders made at Carrefour will not be integrated. Also, it will not be possible to save the integration record without any of the fields being filled.
-</div>
+>⚠️ Warning: you must fill at least one of the SLA mapping fields. If none of them is filled, it will not be possible to simulate freight at VTEX and, consequently, the orders made at Carrefour will not be integrated. Also, it will not be possible to save the integration record without any of the fields being filled.
 
 After completing the setup of this screen, click on the **Salvar Configuração** button. 
 

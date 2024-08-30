@@ -1,10 +1,10 @@
 ---
 title: 'Configurar gateway PagBrasil'
 id: 2vzj6MkFRuKm4KQAOOmWaa
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-10T12:40:34.957Z
-updatedAt: 2023-03-29T01:00:48.970Z
-publishedAt: 2023-03-29T01:00:48.970Z
+updatedAt: 2024-03-18T19:02:31.069Z
+publishedAt: 
 firstPublishedAt: 2018-04-10T12:50:24.707Z
 contentType: tutorial
 productTeam: Financial
@@ -15,14 +15,15 @@ legacySlug: configurar-gateway-pagbrasil
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+>❗ Esta integración de pago ya no se puede configurar en la plataforma debido al [proceso de descontinuación de los proveedores legados](https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14) y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.
+
 PagBrasil es un gateway de pagos especializada en medios de pago brasileños, principalmente tarjetas de crédito y débito, transferencias en línea y boletos bancarios.
 
 Para configurar PagBrasil, siga los pasos abajo:
 
-## Configurar la afiliación de gateway PagBrasil
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. En la pestaña __Afiliaciones__, haga clic en el botón __+__.
-3. Haga clic en el conector __PagBrasil__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __PagBrasil__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. En el campo __External Service Url__ ("URL de servicio externo"), configure la URL externa que va a estar asociada a `/pvt/payments?an={AccountName}`.
 5. Rellene los campos de registro con los datos proporcionados por PagBrasil (campos _appKey_ y _appToken_).
 6. En __Implements Installments Service__ ("Servicio de implementacion de cuotas"), usted debe elegir si desea utilizar servicios externos de parcelación o lo que está configurado en el portal. Si elige la opción _yes_, el sistema utilizará la URL configurada en el campo __Installments Service Url__ ("URL de servicio para cuotas").

@@ -63,17 +63,13 @@ Cada coluna da lista de planos de assinaturas exibe uma informação sobre o pla
     * **Ativo**: significa que o plano está disponível para utilização dos clientes ao criar novas assinaturas com produtos associados.
     * **Inativo**: significa que o plano não está disponível para uso ao criar novas assinaturas, mesmo que tenha produtos associados.
 
-<div class="alert alert-info">
-<p>Planos inativos são desabilitados somente para novas compras. Caso existam clientes que já haviam criado assinaturas enquanto o plano estava ativo, o plano vai continuar criando pedidos nas frequências estabelecidas durante os próximos ciclos desses clientes mesmo após ser inativado.</p>
-</div>
+>ℹ️ Planos inativos são desabilitados somente para novas compras. Caso existam clientes que já haviam criado assinaturas enquanto o plano estava ativo, o plano vai continuar criando pedidos nas frequências estabelecidas durante os próximos ciclos desses clientes mesmo após ser inativado.
 
 * **Botão** <i class="fas fa-ellipsis-v"></i>: ao clicar neste botão, você pode optar pelas ações a seguir.
     * **Editar**: abre a página de editar o plano de assinatura.
     * **Deletar**: possibilita excluir o plano definitivamente. Antes de deletar, aparece uma tela de confirmação desta opção. Após clicar em `Deletar plano` para confirmar a escolha, essa ação **não** pode ser desfeita.
 
-<div class="alert alert-warning">
-<p>Quando um plano é deletado, os clientes que já compraram nas frequências desse plano <strong>não</strong> terão seus pedidos gerados a partir do próximo ciclo de assinatura. Para impedir o uso ao criar novas assinaturas, mas manter os próximos pedidos dos clientes que já criaram assinaturas no plano em questão, você precisa optar por inativar o plano em vez de deletá-lo.</p>
-</div>
+>⚠️ Quando um plano é deletado, os clientes que já compraram nas frequências desse plano **não** terão seus pedidos gerados a partir do próximo ciclo de assinatura. Para impedir o uso ao criar novas assinaturas, mas manter os próximos pedidos dos clientes que já criaram assinaturas no plano em questão, você precisa optar por inativar o plano em vez de deletá-lo.
 
 ## Mostrar linhas
 

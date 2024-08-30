@@ -3,8 +3,8 @@ title: 'Moeda incorreta no formulário de pagamento'
 id: 636reFJs0MeHQJO0NlQV7Z
 status: PUBLISHED
 createdAt: 2022-03-13T21:29:33.920Z
-updatedAt: 2022-11-25T22:05:48.750Z
-publishedAt: 2022-11-25T22:05:48.750Z
+updatedAt: 2024-02-16T20:27:07.481Z
+publishedAt: 2024-02-16T20:27:07.481Z
 firstPublishedAt: 2022-03-13T21:29:34.493Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: moeda-incorreta-no-formulario-de-pagamento
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 449286
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

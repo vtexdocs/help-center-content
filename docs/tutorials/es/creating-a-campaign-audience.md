@@ -3,8 +3,8 @@ title: 'Crear audiencias de campaña'
 id: 6cnuDZJzIkIeocewAQQK4K
 status: PUBLISHED
 createdAt: 2018-12-02T18:34:21.663Z
-updatedAt: 2023-03-31T13:38:38.613Z
-publishedAt: 2023-03-31T13:38:38.613Z
+updatedAt: 2023-10-31T19:23:55.713Z
+publishedAt: 2023-10-31T19:23:55.713Z
 firstPublishedAt: 2018-12-03T16:51:36.457Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -26,9 +26,7 @@ Para crear una nueva audiencia de campaña, sigue los pasos a continuación:
 5. Rellena los campos de la sección [Crear nuevo público-objetivo](#crear-nuevo-publico-objetivo).
 6. Haz clic en `Guardar`.
 
-<div class="alert alert-warning">
-  <p>Luego de crear una audiencia de campaña, debes asociarla a una promoción de campaña para que entre en efecto. Sigue los pasos indicados en la guía <a href="https://help.vtex.com/es/tutorial/promocion-de-campanha--1ChYXhK2AQGuS6wAqS8Ume">Crear una promoción de campaña</a>.</p>
-</div>
+>⚠️ Luego de crear una audiencia de campaña, debes asociarla a una promoción de campaña para que entre en efecto. Sigue los pasos indicados en la guía [Crear una promoción de campaña](https://help.vtex.com/es/tutorial/promocion-de-campanha--1ChYXhK2AQGuS6wAqS8Ume).
 
 ## Datos generales
 
@@ -45,10 +43,9 @@ Al crear una nueva audiencia de campaña, debes completar la información en la 
     * **Fecha de término:** fecha de finalización de la programación de la audiencia de campaña a partir de la cual la audiencia de campaña será válida.
     * **Hora de término:** horario de finalización de la programación de la audiencia de campaña a partir de la cual la audiencia de campaña será válida.
 
-<div class="alert alert-warning">
-  <p>Para programar una audiencia de campaña, debes completar una <strong>Fecha de inicio</strong> o una <strong>Hora de inicio</strong> posterior a la fecha u hora actual.</p>
-<p>La zona horaria que toma en cuenta el sistema es la misma que la del dispositivo del usuario que creó la audiencia de campaña. No se realizan ajustes en caso de que haya zonas horarias diferentes.</p>
-</div>
+>⚠️ Para programar una audiencia de campaña, debes completar una **Fecha de inicio** o una **Hora de inicio** posterior a la fecha u hora actual.
+>
+> La zona horaria que toma en cuenta el sistema es la misma que la del dispositivo del usuario que creó la audiencia de campaña. No se realizan ajustes en caso de que haya zonas horarias diferentes.
 
 ## Crear nuevo público-objetivo
 
@@ -91,7 +88,6 @@ Ejemplo: en la imagen a continuación, los ítems cuya marca es **Nike** forman 
 
 * **Valor mínimo del pedido:** valor mínimo que debe tener el total de los ítems en el carrito del cliente. Este total incluye la suma de los precios de los productos en el carrito que cumplen con los criterios de la audiencia de campaña.
 * **Valor máximo del pedido:** valor máximo que puede tener el total de los ítems en el carrito del cliente. Este total incluye la suma de los precios de los productos en el carrito que cumplen con los criterios de la audiencia de campaña.
-* **Uso de histórico a la promoción:** permite que se tenga en cuenta el historial de compras del cliente al momento de evaluar si este forma parte del público-objetivo o no. En caso de seleccionar esta opción, deberás elegir el periodo del historial que se considerará. Puedes agregar fechas específicas o contar días a partir de la fecha actual.
 * **Valor del ítem entre __ y __:** precio mínimo y máximo que puede tener cada ítem en el carrito. La audiencia de campaña se activará si el valor del ítem cumple con el intervalo de valores completados.
 * **Restricción de promoción por BIN:** la audiencia de campaña se activará si el _Número de Identificación Bancaria_ (BIN) de la tarjeta de crédito está entre los caracteres rellenados. El BIN corresponde a los 6 u 8 primeros números de una tarjeta y sirve para identificar al banco y al emisor de la tarjeta.
 * **Marketing Tags:** campo usado para restringir la activación de la audiencia de campaña si la compra la realiza el [módulo de Suscripciones de VTEX](https://help.vtex.com/es/tutorial/como-funciona-suscripciones--frequentlyAskedQuestions_4453).
@@ -103,9 +99,7 @@ Ejemplo: en la imagen a continuación, los ítems cuya marca es **Nike** forman 
 * **El código postal de entrega debe Incluir / Excluir de __ hasta __:** permite incluir o excluir intervalos de códigos postales para el envío de los pedidos. La audiencia de campaña se activará si el código postal cumple con la regla configurada en el público-objetivo.
 * **Afiliados:** permite seleccionar [afiliados](https://help.vtex.com/es/tutorial/que-es-afiliado--4bN3e1YarSEammk2yOeMc0) a partir de una lista. La audiencia de campaña se activará si la compra se realiza en un _marketplace_ de los afiliados seleccionados.
 
-  <div class="alert alert-warning">
-    <p>La opción <strong>Afiliados</strong> solo se aplica si el afiliado es una tienda VTEX.</p>
-  </div>
+  >⚠️ La opción **Afiliados** solo se aplica si el afiliado es una tienda VTEX.
 
 * **utm_source:** permite seleccionar la [utm_source](https://help.vtex.com/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) deseada o crear una nueva para vincularla a la audiencia de campaña. La audiencia de campaña se activará si el cliente navega con la utm_source correspondiente a cualquiera de los valores registrados. Cabe destacar que el cliente puede ingresar solo una utm_source en el _checkout_.
 * **utm_campaign:** permite seleccionar la [utm_campaign](https://help.vtex.com/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) deseada o crear una nueva para vincularla a la audiencia de campaña. El descuento se aplicará si la navegación se realiza con la utm_campaign con el valor registrado.
@@ -113,9 +107,7 @@ Ejemplo: en la imagen a continuación, los ítems cuya marca es **Nike** forman 
 * **Aplique el descuento solo cuando el cliente seleccione uno de los transportistas anteriores:** la audiencia de campaña se activará solo después que el cliente seleccione la forma de envío del pedido.
 * **Medio de pago:** permite seleccionar los medios de pago que se incluirán en el público-objetivo. La audiencia de campaña se activará si la forma de pago elegida por el cliente es la misma que la registrada.
 
-<div class="alert alert-warning">
-  <p>Las audiencias de campañas definidas por <strong>Medio de pago</strong> o<strong> Número máximo de cuotas</strong> no aplican a los pedidos que se pagan con dos tarjetas o con tarjetas de regalo.</p>
-</div>
+>⚠️ Las audiencias de campañas definidas por **Medio de pago** o** Número máximo de cuotas** no aplican a los pedidos que se pagan con dos tarjetas o con tarjetas de regalo.
 
 ## Más información
 

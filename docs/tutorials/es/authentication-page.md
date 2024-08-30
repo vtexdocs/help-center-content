@@ -35,9 +35,7 @@ Actualmente, hay cuatro formas de iniciar sesión:
 | Facebook                  | Se puede activar | No disponible           |
 | Google                    | Se puede activar | Se puede seleccionar    |
 
-<div class="alert alert-info">
-Al menos una de las cuatro formas de inicio de sesión debe estar habilitada para la tienda virtual.
-</div>
+>ℹ️ Al menos una de las cuatro formas de inicio de sesión debe estar habilitada para la tienda virtual.
 
 ## Tienda virtual
 

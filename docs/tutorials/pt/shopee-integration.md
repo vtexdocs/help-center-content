@@ -3,8 +3,8 @@ title: 'Integração com a Shopee '
 id: 5OV9idUY6fHu3P8grnCnqj
 status: PUBLISHED
 createdAt: 2022-09-05T19:33:02.717Z
-updatedAt: 2022-12-08T20:41:49.398Z
-publishedAt: 2022-12-08T20:41:49.398Z
+updatedAt: 2024-04-17T16:10:43.661Z
+publishedAt: 2024-04-17T16:10:43.661Z
 firstPublishedAt: 2022-09-06T01:42:40.106Z
 contentType: tutorial
 productTeam: Channels
@@ -14,10 +14,6 @@ locale: pt
 legacySlug: integracao-com-a-shopee-beta
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
-
-<div class = "alert alert-info">
-Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>. A integração com a Shopee está disponível apenas para lojas no Brasil.
-</div>
 
 A [Shopee](https://shopee.com.br/) é uma plataforma de ecommerce que funciona como marketplace. A plataforma conta com um grande catálogo de produtos que podem ser consultados pelo site oficial ou pelo aplicativo, além de mais de 43 milhões de usuários cadastrados.
 
@@ -37,9 +33,7 @@ Depois de criar sua conta na Shopee, você estará apto(a) para realizar as segu
 - [Gerenciar produtos](#gerenciar-produtos)
 - [Gerenciamento de pedidos da Shopee na plataforma VTEX](#gerenciamento-de-pedidos-da-shopee-na-plataforma-vtex)
 
-<div class = "alert alert-info">
-A integração com a Shopee não consegue integrar pedidos de produtos cujo os anúncios já existem na Shopee. A partir da ativação da integração, os pedidos que serão fechados na Shopee, serão integrados na VTEX.
-</div>
+>ℹ️ A integração com a Shopee não consegue integrar pedidos de produtos cujo os anúncios já existem na Shopee. A partir da ativação da integração, os pedidos que serão fechados na Shopee, serão integrados na VTEX.
 
 ## Configurar política comercial para Shopee
 
@@ -56,9 +50,7 @@ Só será necessário [configurar uma política comercial para marketplace](http
 
 Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta psolicitar via ticket em nosso [Suporte](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
 
-<div class = "alert alert-info">
-A integração com a Shopee não é um <a href="https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro">conector certificado (parceiro)</a> da VTEX, fazendo que a contratação de política comercial adicional não seja isenta de taxas.
-</div>
+>ℹ️ A integração com a Shopee não é um [conector certificado (parceiro)](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) da VTEX, fazendo que a contratação de política comercial adicional não seja isenta de taxas.
 
 ## Definir Doca e Estoque
 
@@ -88,9 +80,11 @@ Depois de ter feito as pré-configurações da sua loja VTEX, você poderá inst
 
 No final da instalação, o app estará disponível no seu Admin VTEX.
 
+>ℹ️ O acesso ao aplicativo da Shopee pode ser realizado seguindo as instruções acima ou através do caminho **Admin VTEX > Marketplace > Marketplaces e integrações.**
+
 ## Configurações Shopee
 
-Depois de instalar o aplicativo, é necessário configurá-lo no Admin VTEX. Acesse *MARKETPLACE > Shopee > Configurações*.
+Depois de instalar o aplicativo, é necessário configurá-lo no Admin VTEX. Acesse **Apps > Shopee > Configurações,** ou digite **Shopee** na barra de busca do Admin.
 
 A página **Configurações Shopee** possui duas abas:
 
@@ -186,74 +180,53 @@ Para enviar os seus produtos para a Shopee, você deverá:
 1. [Mapear as categorias dos produtos.](#mapear-categorias)
 2. [Mapear os atributos dos produtos.](#mapear-atributos)
 
-<div class = "alert alert-info">
-Seus produtos precisam ter o <a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Estoque</a> e <a href="https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">Preço</a> configurados antes de enviá-los ao marketplace.
-</div>
+>ℹ️ Seus produtos precisam ter o [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [Preço](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviá-los ao marketplace.
 
 ### Mapear categorias
 
-Para acessar a página de mapeamento, você deverá acessar no Admin *MARKETPLACE > Shopee > Mapeamento de categorias*.
+Para acessar a página de mapeamento, você deverá acessar no Admin VTEX em **Apps > Shopee > Mapear Categorias.**
 
 Você será direcionado a página de mapeamento da Shopee e a página apresentará uma lista com as categorias da sua loja VTEX. O mapeamento das categorias permite que exista uma correspondência entre as categorias da sua loja e as categorias da Shopee. Dessa forma, os produtos enviados serão exibidos na categoria equivalente no marketplace.
 
 Na página de mapeamento, existe uma barra de busca que permite buscar a categoria por nome. Além disso, a seção **Categorias da loja** exibe lista das categorias da sua loja VTEX. 
 
+>ℹ️ A Shopee exige uma especificação para diferenciar um SKU do outro. Caso não haja especificação mapeada em seu produto, a integração utilizará o nome do SKU para criar essa especificação.
+
 A lista de categorias da sua loja VTEX inclui o status de seu  mapeamento  por meio dos ícones:
 
 | **Ícone** | **Status** | **Descrição** |
 | ---------- | ---------- | ---------- | 
-| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado**| Indica que o mapeamento da categoria foi concluído. | 
-| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/6v4eFsWHVy8F5VIqTVLQD9/e63d945d60a958a37246f57d919eede8/mapeamentoincompleto_mapper.JPG" /> | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. | 
-| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto.  Para solucionar esse problema basta refazer o mapeamento da categoria. | 
-| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **Não mapeado** | Indica que a categoria não foi mapeada. |
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado**| Indica que o mapeamento da categoria foi concluído. | 
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6v4eFsWHVy8F5VIqTVLQD9/e63d945d60a958a37246f57d919eede8/mapeamentoincompleto_mapper.JPG" /> | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. | 
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto.  Para solucionar esse problema basta refazer o mapeamento da categoria. | 
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **Não mapeado** | Indica que a categoria não foi mapeada. |
 
-Ainda na página de mapeamento, existem as seções **Categoria do marketplace** e **Mapeamento de Atributos**, ambos com uma opção de menu de seleção, onde ao clicar sobre a seta, aparecem novos campos e informações.
-
-Para realizar o mapeamento de categorias:
-
-1. Acesse o Admin VTEX.
-2. Em *MARKETPLACE*, selecione a opção **Shopee**.
-3. Clique em `Mapeamento de categorias`.
-> Uma nova janela será aberta com a página de mapeamento.
-4. Na seção **Categorias da loja**, escolha a categoria que deseja mapear. 
-5. Selecione na seção **Categoria do marketplace** a categoria correspondente no marketplace do produto que você deseja enviar.
-
-Para finalizar o mapeamento da categoria, siga as instruções abaixo a partir do passo 4 para finalizar.
+Ainda na página de mapeamento, existem as seções, **Categoria do marketplace** e **[Mapeamento de Atributos](#mapear-atributos)**, ambos com uma opção de menu de seleção, onde ao clicar sobre a seta, aparecem novos campos e informações.
 
 ### Mapear atributos
 
-O mapeamento dos atributos permite que exista uma correspondência entre o padrão da sua loja VTEX e o padrão utilizado pela Shopee. Cada categoria possui seus atributos obrigatórios pelo marketplace e é necessário preenchê-los para que o mapeamento seja concluído. 
+O mapeamento dos atributos permite que exista uma correspondência entre o padrão da sua loja VTEX e o padrão utilizado pela Shopee. Cada categoria possui seus atributos obrigatórios pelo marketplace e é necessário preenchê-los para que o mapeamento seja concluído.
 
-Os campos não mapeados não impedem que o mapeamento ocorra, porém quanto mais atributos enviados para a Shopee seu produto tiver, melhor rankeado ele será no marketplace.
+Os campos não mapeados não impedem que o mapeamento ocorra, porém, quanto mais atributos enviados para a Shopee seu produto tiver, melhor rankeado ele será no marketplace.
 
-<div class = "alert alert-info">
-A Shopee exige uma especificação para diferenciar um SKU do outro. Caso não haja especificação mapeada em seu produto, a integração utilizará o nome do SKU para criar essa especificação.
-</div>
+>⚠️ A descrição dos produtos precisa ter, no mínimo, 100 caracteres. Além disso, a Shopee não aceita produtos com menos de 100 gramas, assim como não é possível enviar produtos com dimensões inválidas. Exemplo: Altura = 0 cm , Largura = 0,000001 cm. Em caso de dúvida, acesse o artigo [Dimensões e pesos permitidos para enviar pacotes da Shopee](https://seller.shopee.com.br/edu/article/3305/dimensoes-e-pesos-permitidos-para-enviar-pacotes-na-shopee).
 
-<div class="alert alert-warning">
-A Shopee só aceita marcas já registradas no seu catálogo de produtos. Quando não houver uma marca cadastrada no produto ou a marca cadastrada no produto não corresponder aos nomes aceitos pelo marketplace, ele será categorizado na Shopee como <code>NoBrand</code>.
-</div>
+Para realizar o mapeamento de categorias e atributos no Admin VTEX vá em **Apps > Shopee > Mapeamento de categorias** e siga os passos abaixo:
 
-Para mapear os atributos, siga os passos abaixo:
-
-1. Acesse o Admin VTEX.
-2. No módulo MARKETPLACE, selecione a opção **Shopee**.
-3. Clique em `Mapeamento de categorias`.
-> Uma nova janela será aberta com a interface de mapeamento.
-4. Na seção **Mapeamento de Atributos**, preencha os campos com os atributos que deseja mapear (o asterisco indica preenchimento obrigatório).
-5. Caso tenha preenchido os atributos *Cor* ou *Tamanho*, na coluna **Valores de Atributo** clique na `Cor equivalente` ou `Tamanho equivalente` e selecione a opção de valor correspondente.
-6. Se desejar personalizar um atributo, clique no botão `Adicionar valor personalizado` e crie um nome para o valor do atributo personalizado.
-7. Clique em `Salvar Alterações`.
+1. Na seção __Categorias da loja__, escolha a categoria que deseja mapear.
+2. Na seção __Categoria do marketplace,__ selecione a categoria correspondente no marketplace do produto que você deseja enviar.
+3. Preencha os campos dos atributos que deseja mapear (o asterisco indica preenchimento obrigatório).
+4. Caso tenha preenchido os atributos **Cor** ou **Tamanho**, na coluna **Valores de Atributo** clique na Cor equivalente ou Tamanho equivalente e selecione a opção de valor correspondente.
+5. Se desejar personalizar um atributo, clique no botão Adicionar valor personalizado e crie um nome para o valor do atributo personalizado.
+6. Clique em `Salvar Alterações`.
 
 Ao finalizar o mapeamento de categorias e atributos corretamente, o status da categoria mudará para **Mapeado**.
 
-<div class="alert alert-warning">
-A descrição dos produtos precisa ter, no mínimo, 100 caracteres. Além disso, a Shopee não aceita produtos com menos de 100 gramas, assim como não é possível enviar produtos com dimensões inválidas. Exemplo: Altura = 0 cm , Largura = 0,000001 cm. Em caso de dúvida, acesse o artigo <a href="https://seller.shopee.com.br/edu/article/3305/dimensoes-e-pesos-permitidos-para-enviar-pacotes-na-shopee">Dimensões e pesos permitidos para enviar pacotes da Shopee</a>.
-</div>
+>⚠️ A Shopee só aceita marcas já registradas no seu catálogo de produtos. Quando não houver uma marca cadastrada no produto ou a marca cadastrada no produto não corresponder aos nomes aceitos pelo marketplace, ele será categorizado na Shopee como `NoBrand`.
 
 ## Gerenciar produtos
 
-Para acessar a página de gerenciamento, você deverá acessar no Admin *MARKETPLACE > Shopee > Gerenciar produtos*. 
+Para acessar a página de gerenciamento, você deverá acessar no Admin **Apps > Shopee > Gerenciar produtos**. 
 
 Você será direcionado a página de gerenciamento de produtos da Shopee e a página apresentará uma lista com os produtos da sua loja VTEX. O gerenciamento de produtos permite inserir políticas comerciais diretamente em produtos do catálogo VTEX antes de serem importados para a plataforma da Shopee. 
 
@@ -271,8 +244,7 @@ A interface está dividida em três seções, são elas:
 
 Para enviar seus produtos para a Shoope, siga os passos a seguir:
 
-1. Acesse no Admin VTEX.
-2. Em *MARKETPLACE*, selecione a opção **Shopee**.
+1.Acesse no **Admin VTEX > Apps > Shopee.**
 3. Clique em **Gerenciar Produtos**.
 4. Selecione o produto que deseja importar.
 5. Clique em `Importar produto`.
@@ -283,8 +255,7 @@ Ao finalizar a importação, o processo de envio de produtos pode demorar um pou
 
 Para excluir seus produtos da Shoope, siga os passos a seguir:
 
-1. Acesse no Admin VTEX.
-2. Em *MARKETPLACE*, selecione a opção **Shopee**.
+1. Acesse no **Admin VTEX > Apps > Shopee**.
 3. Clique em **Gerenciar Produtos**.
 4. Selecione o produto que deseja excluir.
 5. Clique em `Remover produto`.
@@ -295,11 +266,11 @@ A lista de status da sincronização das categorias da sua loja VTEX que foram i
 
 | **Ícone** | **Status** | **Descrição** |
 | ---------- | ---------- | ---------- | 
-| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Processed**| Indica que o mapeamento da categoria foi concluído. | 
-| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/2sMPoDbIM0AzJrnpHTCaGB/6ad0cfe1b76db6fe18339ea6f3194feb/status_erro_importacaoshopee.JPG" /> | **Erro** | Indica que a importação da categoria não foi concluída. O motivo do erro será informado para que a correção possa ser realizada. |
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Processed**| Indica que o mapeamento da categoria foi concluído. | 
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2sMPoDbIM0AzJrnpHTCaGB/6ad0cfe1b76db6fe18339ea6f3194feb/status_erro_importacaoshopee.JPG" /> | **Erro** | Indica que a importação da categoria não foi concluída. O motivo do erro será informado para que a correção possa ser realizada. |
 
 ## Gerenciamento de pedidos da Shopee na plataforma VTEX
 
 O pedido da Shopee só é criado na VTEX quando o [status do pedido](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#tabela-de-status-de-pedidos) é `Pagamento Aprovado`. Entretanto, a integração já reserva o estoque do produto antes do pagamento. Quando o pagamento é confirmado, a reserva é cancelada e o pedido é criado na VTEX.
 
-Para liberar as etiquetas de envio, a Shopee exige que seja feito o faturamento do pedido e a emissão da Nota fiscal do produto. Para isso, você pode utilizar seu [ERP](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification) ou [inserir a nota fiscal no pedido](https://help.vtex.com/pt/tutorial/como-inserir-a-nota-fiscal--tutorials_193), enviando o campo `invoiceKey (Chave da Nota Fiscal)` preenchido com a chave de acesso da NF-e.
+Para liberar as etiquetas de envio, a Shopee exige que seja feito o faturamento do pedido e a emissão da Nota fiscal do produto. Para isso, você pode utilizar seu [ERP](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification) ou [inserir a nota fiscal no pedido](https://help.vtex.com/pt/tutorial/como-inserir-a-nota-fiscal--tutorials_193), enviando o campo `invoiceKey (Chave da Nota Fiscal)` preenchido com a chave de acesso da NF-e e o preenchimento obrigatório do campo `embeddedInvoice` com o XML da nota fiscal.

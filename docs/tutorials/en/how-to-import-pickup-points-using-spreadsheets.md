@@ -17,11 +17,9 @@ subcategory: 1c5Btie9ou2Gg2iUo0ggqM
 
 Pickup points are a very important aspect of any [omnichannel](/en/announcement/shift-your-business-with-vtexs-omnichannel-experience) strategy.
 
-You can [setup pickup points one by one](/en/tutorial/registering-pickup-points) or in bulk, through an XLS spreadsheet [(like this example file)](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). By choosing to upload an XLS file, you can register all your pickup points at once (as long as it doesn't exceed 10 MB).
+You can [setup pickup points one by one](/en/tutorial/registering-pickup-points) or in bulk, through an XLS spreadsheet [(like this example file)](https://assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). By choosing to upload an XLS file, you can register all your pickup points at once (as long as it doesn't exceed 10 MB).
 
-<div class="alert alert-info">
-A <strong>10 MB</strong> XLS file allows you to register an average <strong>50.000 pickup points</strong>. If you have more pickup points to import, you'll need to split them into different spreadsheets and upload them separately.
-</div>
+>ℹ️ A **10 MB** XLS file allows you to register an average **50.000 pickup points**. If you have more pickup points to import, you'll need to split them into different spreadsheets and upload them separately.
 
 
 
@@ -29,7 +27,7 @@ A <strong>10 MB</strong> XLS file allows you to register an average <strong>50.0
 1. Click on __Inventory & shipping__, on the __Orders__ section of the sidebar.
 2. On the options that open up, click on __Pickup points__.
 3. Click on the __Upload an XLS__ link, located on the top-right corner of the page. ![Upload XLS](https://images.ctfassets.net/alneenqid6w5/4rUkTvzcqso46aGcsOYwMc/e8cf57f6c1ee560062dc8c1bfd7767ba/Upload_XLS.png)
-4. A modal window will appear, allowing you to upload your `.xls` extension file or to download the [example spreadsheet](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Remember that it comes with lines filled with example values, so you must replace them with your pickup points' actual data. ![modal (EN)](https://images.ctfassets.net/alneenqid6w5/52EN8SmteU0kQK4U0YKy8a/1129dc87228d86800e06b455d5ccddf2/modal__EN_.png)
+4. A modal window will appear, allowing you to upload your `.xls` extension file or to download the [example spreadsheet](https://assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Remember that it comes with lines filled with example values, so you must replace them with your pickup points' actual data. ![modal (EN)](https://images.ctfassets.net/alneenqid6w5/52EN8SmteU0kQK4U0YKy8a/1129dc87228d86800e06b455d5ccddf2/modal__EN_.png)
 5. With all set, your new pickup points will be available to your clients.
 
 

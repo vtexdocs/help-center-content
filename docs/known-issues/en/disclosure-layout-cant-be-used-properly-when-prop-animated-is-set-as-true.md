@@ -3,8 +3,8 @@ title: "Disclosure Layout can't be used properly when prop animated is set as tr
 id: 14QweVpzLO8TsyI68H79ZG
 status: PUBLISHED
 createdAt: 2022-04-19T19:53:22.409Z
-updatedAt: 2022-11-25T22:13:15.022Z
-publishedAt: 2022-11-25T22:13:15.022Z
+updatedAt: 2024-07-01T18:48:05.329Z
+publishedAt: 2024-07-01T18:48:05.329Z
 firstPublishedAt: 2022-04-19T19:53:23.090Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: disclosure-layout-cant-be-used-properly-when-prop-animated-is-set-as-true
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 417947
 ---
 

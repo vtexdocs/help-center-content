@@ -1,10 +1,10 @@
 ---
 title: 'Filtros de qualidade dos anúncios'
 id: 4xm0gi8leCyxHj8YdgHSJH
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-02-27T12:15:26.682Z
-updatedAt: 2023-05-30T21:12:51.762Z
-publishedAt: 2023-02-28T13:45:44.808Z
+updatedAt: 2024-06-20T21:38:38.621Z
+publishedAt: 2024-06-20T21:38:38.621Z
 firstPublishedAt: 2023-02-27T19:32:00.584Z
 contentType: tutorial
 productTeam: Channels
@@ -12,7 +12,7 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slug: filtros-de-qualidade-dos-anuncios
 locale: pt
 legacySlug: filtros-de-qualidade-dos-anuncios
-subcategory: 4hU8QWlzhxWg711Kz7Gmib
+subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
 Marketplaces precisam revisar e aprovar anúncios enviados por sellers para que os produtos sejam adicionados ao catálogo. No Admin VTEX esse [processo de catalogação](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) é feito por meio da página SKUs Recebidos. 
@@ -58,9 +58,7 @@ Não é possível desativar as "Default requirements", e estão à mostra na pá
 * Ref ID possui quantidade de caracteres máximo de 50
 * EAN possui quantidade de caracteres máximo de 50
 
-<div class="alert alert-info">
-  É possível configurar a auto aprovação de anúncios pelo VTEX Matcher por meio de chamadas de API REST <a href="https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig">Save Account's Approval Settings</a>. São critérios diferentes dos disponíveis para visualização na página de Filtros de qualidade dos anúncios e se aplicam à aprovação automática de anúncios de determinados sellers.
-  </div>
+>ℹ️ É possível configurar a auto aprovação de anúncios pelo VTEX Matcher por meio de chamadas de API REST [Save Account's Approval Settings](https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig). São critérios diferentes dos disponíveis para visualização na página de Filtros de qualidade dos anúncios e se aplicam à aprovação automática de anúncios de determinados sellers.
 
 ## Criar grupos de requisitos 
 Crie grupo de requisitos para definir as regras aplicadas a sellers, categorias ou marketplaces. Os grupos de requisitos aplicam regras aos campos listados a seguir. Saiba mais sobre a definição de cada Tipo de requisito.
@@ -81,9 +79,7 @@ Crie grupo de requisitos para definir as regras aplicadas a sellers, categorias 
 
 É possível criar requisitos obrigatórios e/ou opcionais. Saiba mais sobre as implicações de cada requisito em [Catalogar anúncios com requisitos](#catalogar-anuncios-com-requisitos). 
 
-<div class="alert alert-info">
-Note que cada grupo de requisito só comporta um valor. Portanto, para adicionar mais de um valor é necessário criar outro grupo de requisito. Por exemplo, se o marketplace quiser adicionar as palavras "Blusas" e "Camisas" como requisitos obrigatórios para o campo Marca do seller, é necessário criar um grupo de requisito para "Blusas" e outro para "Camisas".
-  </div>
+>ℹ️ Note que cada grupo de requisito só comporta um valor. Portanto, para adicionar mais de um valor é necessário criar outro grupo de requisito. Por exemplo, se o marketplace quiser adicionar as palavras "Blusas" e "Camisas" como requisitos obrigatórios para o campo Marca do seller, é necessário criar um grupo de requisito para "Blusas" e outro para "Camisas".
 
 Para criar um novo grupo de requisitos:
 

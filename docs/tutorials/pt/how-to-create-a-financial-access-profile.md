@@ -45,7 +45,7 @@ Agora o perfil de acesso financeiro está criado e disponível para associação
 3. Clique na aba **Usuários**.
 4. Selecione o usuário que deseja associar.
 5. Agora, escolha o **perfil de acesso Financeiro**.
-6. Clique no botão <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/2jZogtT8WT3XVmv5U6yXh/2dc70b446b9aad1b27840e64b2cf15ce/bot__o_adicionar.png" /> ao lado do perfil selecionado para adicionar.
+6. Clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2jZogtT8WT3XVmv5U6yXh/2dc70b446b9aad1b27840e64b2cf15ce/bot__o_adicionar.png" /> ao lado do perfil selecionado para adicionar.
 7. Para finalizar, clique em **Salvar**.
 
 ![gif usuário](https://images.ctfassets.net/alneenqid6w5/3HH5kuEBHEwYktRfC6aepQ/411e4398d285ac628f5691cb517638f8/gif_usu__rio.gif)

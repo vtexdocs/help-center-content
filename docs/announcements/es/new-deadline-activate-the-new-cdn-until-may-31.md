@@ -45,9 +45,7 @@ Después de activar HTTPS, debe:
 
 Si el dominio de su tienda apunta a algo que contenga `vtexcommerce.com.br` o `hodor.vtex.com`, eso significa que todavía usa el CNAME antiguo. La actualización es necesaria porque sólo será posible tener contenido en el dominio `{hostname}.cdn.vtex.com`.
 
-<div class="alert alert-warning">
-Después de <strong>31 de mayo</strong>, todos los CNAME antiguos dejarán de entregar las tiendas. Si usted está usando un CNAME antiguo, <strong>su tienda ya no funcionará</strong>.
-</div>
+>⚠️ Después de **31 de mayo**, todos los CNAME antiguos dejarán de entregar las tiendas. Si usted está usando un CNAME antiguo, **su tienda ya no funcionará**.
 
 Después de activar HTTPS y actualizar al nuevo CNAME de VTEX, necesitará solicitar la activación del nuevo CDN. Si esto no se realiza hasta __31 de mayo__, la activación se realizará de manera automática. Por eso, es fundamental que usted realice todas las acciones ya comunicadas anteriormente y reforzadas en este anuncio. Así, usted evita problemas en la tienda que podrían ser evitados.
 

@@ -1,10 +1,10 @@
 ---
-title: 'GET Product by Refid Devuelve "Null" cuando no se encuentra'
+title: "GET Product by Refid Devuelve 'Null' cuando no se encuentra"
 id: 6yiM9gJT5DB77pZSBNfGZ3
 status: PUBLISHED
 createdAt: 2023-05-16T19:35:46.743Z
-updatedAt: 2023-05-16T19:35:47.468Z
-publishedAt: 2023-05-16T19:35:47.468Z
+updatedAt: 2024-07-01T18:49:03.498Z
+publishedAt: 2024-07-01T18:49:03.498Z
 firstPublishedAt: 2023-05-16T19:35:47.468Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: get-product-by-refid-devuelve-null-cuando-no-se-encuentra
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 826702
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La ruta get product by refid (/catalog_system/pvt/products/productgetbyrefid) devuelve un null en lugar de una simple respuesta 404 cuando no se encuentra un id válido en el catálogo de una tienda determinada.

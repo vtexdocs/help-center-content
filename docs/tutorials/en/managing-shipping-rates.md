@@ -22,9 +22,7 @@ Your store's [shipping rates](https://help.vtex.com/en/tutorial/tarifas-de-envio
 * [Edit shipping rates](#editing-shipping-rates).
 * [Delete shipping rates](#deleting-shipping-rates).
 
-<div class="alert alert-info">
-If you need to update or add multiple shipping rates, we recommend using the shipping rate template instead of the <b>Shipping rates</b> module. If you want to check out how shipping rates are added and displayed to the end customer, use the <b><a href="https://help.vtex.com/en/tutorial/simulacao-de-frete--tutorials_144">Shipping simulator</a></b> module.
-</div>
+>ℹ️ If you need to update or add multiple shipping rates, we recommend using the shipping rate template instead of the **Shipping rates** module. If you want to check out how shipping rates are added and displayed to the end customer, use the **[Shipping simulator](https://help.vtex.com/en/tutorial/simulacao-de-frete--tutorials_144)** module.
 
 ## Adding shipping rates
 

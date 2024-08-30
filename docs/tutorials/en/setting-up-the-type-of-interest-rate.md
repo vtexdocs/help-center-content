@@ -41,6 +41,4 @@ The reply that the "GET Rule by ID" call returns will be the request of the ther
 
 https://developers.vtex.com/reference/configuration-1#putrulebyid
 
-<div class="alert alert-danger">
-IMPORTANT: At present, the only way to change a payment method is through API. Should it be necessary to change the payment method by using the user interface, the setup process through API would have to be repeated, since when saving the changes, the value will be considered empty by default.
-</div>
+>❗ IMPORTANT: At present, the only way to change a payment method is through API. Should it be necessary to change the payment method by using the user interface, the setup process through API would have to be repeated, since when saving the changes, the value will be considered empty by default.

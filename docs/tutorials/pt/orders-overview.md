@@ -3,8 +3,8 @@ title: 'Visão Geral Pedidos'
 id: tutorials_201
 status: PUBLISHED
 createdAt: 2017-04-27T22:13:42.525Z
-updatedAt: 2023-04-26T14:51:44.363Z
-publishedAt: 2023-04-26T14:51:44.363Z
+updatedAt: 2023-12-21T14:01:20.828Z
+publishedAt: 2023-12-21T14:01:20.828Z
 firstPublishedAt: 2017-04-27T23:03:03.051Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -28,6 +28,15 @@ A seção inclui as seguintes páginas:
 - [Detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl)  
 - [Transações](https://help.vtex.com/pt/tutorial/how-to-view-transactions-on-pci-gateway--tutorials_461) 
 - [Conciliação Bancária](https://help.vtex.com/pt/tutorial/bank-reconciliations--tutorials_453) 
+
+Além de pesquisar pedidos em **Pedidos > Todos os pedidos**, você pode buscar pedidos a partir de qualquer página no Admin VTEX usando a barra de busca global no topo da página. Por padrão, a busca está configurada para `Páginas`. Para buscar um pedido, clique sobre a barra, selecione a opção `Pedidos` e utilize algum dos seguintes critérios:
+
+- ID do pedido
+- Nome do cliente
+- Email do cliente
+- Documento do cliente 
+
+>ℹ️ É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo [Minha Conta](https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 ## Assinaturas
 

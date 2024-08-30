@@ -3,8 +3,8 @@ title: 'El precio del resultado de búsqueda es diferente de la página de produ
 id: 1108Xha3zw6ZvVUINfY7HR
 status: PUBLISHED
 createdAt: 2022-11-22T14:26:20.489Z
-updatedAt: 2022-11-22T14:42:50.738Z
-publishedAt: 2022-11-22T14:42:50.738Z
+updatedAt: 2024-06-04T12:45:41.670Z
+publishedAt: 2024-06-04T12:45:41.670Z
 firstPublishedAt: 2022-11-22T14:42:50.738Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -12,7 +12,7 @@ author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: el-precio-del-resultado-de-busqueda-es-diferente-de-la-pagina-de-producto
 locale: es
 legacySlug: el-precio-del-resultado-de-busqueda-es-diferente-de-la-pagina-de-producto
-subcategory: 4tkE7m5rJisNuhJisIxWHD
+subcategory: 23NGhMgqA1eCYad7kzRFGu
 ---
 
 Durante la [actualización de precio de un SKU](https://help.vtex.com/es/tutorial/alteracao-de-preco-de-sku--tutorials_95), puede que el precio del resultado de búsqueda diverja del precio o stock de la página de producto si la tienda utiliza [Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).

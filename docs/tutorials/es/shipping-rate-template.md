@@ -3,8 +3,8 @@ title: 'Plantilla de flete'
 id: tutorials_127
 status: PUBLISHED
 createdAt: 2019-02-22T19:36:18.509Z
-updatedAt: 2023-03-29T18:18:59.537Z
-publishedAt: 2023-03-29T18:18:59.537Z
+updatedAt: 2023-10-10T13:26:19.271Z
+publishedAt: 2023-10-10T13:26:19.271Z
 firstPublishedAt: 2019-02-22T19:36:22.375Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -24,9 +24,7 @@ Para registrar los precios de envío a través de la plantilla de flete es neces
 1. [Completar los campos de la plantilla](#completar-los-campos-de-la-plantilla)
 2. [Enviar el archivo por el Admin VTEX](#enviar-el-archivo-por-el-admin-vtex)
 
-<div class="alert alert-info"> 
-También hay una forma de registrar los precios de envío a través del módulo Tarifas de envío. Recomendamos que utilice la <a href="https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127">plantilla de flete</a> cuando se incluyan múltiples rangos de código postal, y utilizar Tarifas de envío para administrar los precios de los fletes registrados y para registrar cada rango de código postal individualmente. 
-</div>
+>ℹ️ También hay una forma de registrar los precios de envío a través del módulo Tarifas de envío. Recomendamos que utilice la [plantilla de flete](https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127) cuando se incluyan múltiples rangos de código postal, y utilizar Tarifas de envío para administrar los precios de los fletes registrados y para registrar cada rango de código postal individualmente.
 
 ## Completar los campos de la plantilla
 
@@ -122,7 +120,7 @@ Vea la siguiente tabla para entender cada campo en detalle.
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PricePercent</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> <a href="https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV"> Adicional de precio</a>, calculado según el precio del carrito, expresado en número decimal. Para rellenar la tabla, utilice el valor en porcentaje (por ejemplo, para un 10% adicional, complete la tabla con el número 10).
+            <td class="t-body pa5" style="min-width: 15rem;"> <a href="https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV"> Adicional de precio</a>, calculado según el precio de los productos en el carrito y expresado en número decimal. Para rellenar la tabla, utilice el valor en porcentaje. Por ejemplo, para un 10% adicional, complete la tabla con el número 10.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;"> Utilice este campo en los casos en que haya un costo adicional en el precio de la entrega. Los <a href="https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV"> adicionales de flete </a> se suman al valor fijo.
             </td>
@@ -175,17 +173,11 @@ Vea la siguiente tabla para entender cada campo en detalle.
 </tbody>
 </table>
 
-<div class="alert alert-info"> 
-Para facilitar el uso de los términos en nuestra documentación utilizamos «peso» en vez de «masa». 
-</div>  
+>ℹ️ Para facilitar el uso de los términos en nuestra documentación utilizamos «peso» en vez de «masa».  
 
 Vea el siguiente ejemplo de cómo rellenar los campos, teniendo en cuenta el formato aceptado en cada columna. 
 
 ![modelo_planilhanumerica](https://images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
-
-### Plantilla para Correios
-
-Si desea ofrecer la entrega por correo en Brasil, puede generar una plantilla automática con el estándar de VTEX. Acceda al integrador Correios, y genere la plantilla a través de la herramienta ofrecida por XP Agência en el link [XP planilhas](http://planilha.xpagencia.com.br/).
 
 ## Enviar el archivo por el Admin VTEX
 
@@ -200,13 +192,9 @@ El envío de la plantilla se realiza en el registro o en la edición de la _Pol�
 
   ![upload tarifas envioES](https://images.ctfassets.net/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/b788e6926bffa8aa5a70db06ca1ccba7/upload_tarifas_envioES.png)
 
-<div class="alert alert-warning">
-Para registrar una <b>nueva</b> Política de envío se debe completar otros campos además de la plantilla de flete.  Aprenda cómo crear, editar y completar todos los campos necesarios en el artículo <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">Política de envío</a>.
-</div>
+>⚠️ Para registrar una **nueva** Política de envío se debe completar otros campos además de la plantilla de flete.  Aprenda cómo crear, editar y completar todos los campos necesarios en el artículo [Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
 
-<div class="alert alert-danger">
-Cada pestaña de la plantilla no debe superar las 65 536 filas. Se pueden crear varias pestañas en la misma plantilla, respetando el límite de filas. No hay un límite en el número de pestañas dentro del archivo. Sin embargo, el archivo no puede superar los 10MB. En caso de que sea necesario, comprima el archivo en formato <b>.zip</b>. Si esto no es suficiente, divídalo en dos archivos y registre otra política de envío para cargar el segundo archivo creado. 
-</div>
+>❗ Cada pestaña de la plantilla no debe superar las 65 536 filas. Se pueden crear varias pestañas en la misma plantilla, respetando el límite de filas. No hay un límite en el número de pestañas dentro del archivo. Sin embargo, el archivo no puede superar los 10MB. En caso de que sea necesario, comprima el archivo en formato **.zip**. Si esto no es suficiente, divídalo en dos archivos y registre otra política de envío para cargar el segundo archivo creado.
 
 Si hay algún problema al completar los campos del archivo enviado, recibirá un <i>_email</i>_ para informarle del error. Asegúrese de revisar si la plantilla se completó correctamente antes de hacer un nuevo intento de envío.
 

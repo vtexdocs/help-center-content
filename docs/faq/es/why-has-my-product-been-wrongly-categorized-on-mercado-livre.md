@@ -20,7 +20,7 @@ Esta definición de la categoría de destino se realiza sobre la base del __nomb
 
 Sin embargo, hay casos en que esta configuración automática no asocia el producto a la categoría correcta. Para corregir este escenario, es necesario realizar el cambio directamente en el panel del Mercado Libre o seguir el camino detallado abajo:
 
-1. [Descargue esta hoja de trabajo](//assets.ctfassets.net/alneenqid6w5/3rSztadiHm2wucS4cQ0O4o/2dba1cfc3a3687ec0510215ed040c25d/Mercado_Libre_-__Recategorizacion.xlsx) y rellene sus respectivas columnas.
+1. [Descargue esta hoja de trabajo](https://assets.ctfassets.net/alneenqid6w5/3rSztadiHm2wucS4cQ0O4o/2dba1cfc3a3687ec0510215ed040c25d/Mercado_Libre_-__Recategorizacion.xlsx) y rellene sus respectivas columnas.
 2. __ID de anuncio:__ se debe rellenar con el ID de su anuncio en Mercado Libre, sacando el guión que separa el sufijo del número.
 _`Ex:` el ID se puede encontrar en la URL del anuncio. En el siguiente enlace por ejemplo, el ID sería "MLA713224614"._
 https://articulo.mercadolibre.com.ar/MLA-713224614-cafetera-de-filtro-electrolux-cmb31-jarra-de-vidrio-_JM
@@ -39,6 +39,4 @@ Al finalizar la planilla, envía al asesor de tu cuenta __en Mercado Libre__ par
 
 En caso de que usted __no__ tenga un asesor de cuenta en Mercado Libre, sólo será posible cambiar las categorías de los anuncios a través del MyML (frente del MELI) y sólo en casos de productos que __no__ tengan ninguna venta.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> vale resaltar que este proceso no tiene ninguna relación con la VTEX y debe ser intermediado directamente en el Mercado Libre.
-</div>
+>⚠️ **OBS:** vale resaltar que este proceso no tiene ninguna relación con la VTEX y debe ser intermediado directamente en el Mercado Libre.

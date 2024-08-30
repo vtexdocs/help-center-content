@@ -3,8 +3,8 @@ title: 'My Cards UI allow customers to save credit cards without number field fi
 id: 7Ab61xaPRXqxA7VYEnFu8J
 status: PUBLISHED
 createdAt: 2022-02-10T12:34:15.351Z
-updatedAt: 2022-11-25T22:07:26.657Z
-publishedAt: 2022-11-25T22:07:26.657Z
+updatedAt: 2024-02-16T20:26:23.845Z
+publishedAt: 2024-02-16T20:26:23.845Z
 firstPublishedAt: 2022-02-10T12:34:15.869Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: my-cards-ui-allow-customers-to-save-credit-cards-without-number-field-filled-in-the-address-information
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 521542
 ---
 

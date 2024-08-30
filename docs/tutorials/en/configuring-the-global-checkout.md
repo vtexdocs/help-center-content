@@ -58,9 +58,7 @@ Let us assume that you intend to make a delivery for a customer located in Engla
 1. [Create a new carrier](/en/tutorial/registering-a-carrier/).
 2. For the new carrier, create a shipping worksheet with the column “Country” using the 3-digit ISO code of the country.
 
-<div class="alert alert-info">
-The value of the column “Country” must be the 3-digit ISO code of the countries. In order to check the codes, we recommend the website<a href="https://countrycode.org/">https://countrycode.org/</a>.
-</div>
+>ℹ️ The value of the column “Country” must be the 3-digit ISO code of the countries. In order to check the codes, we recommend the website[https://countrycode.org/](https://countrycode.org/).
 
 After having defined the delivery settings for the countries intended, a new field will be shown on the delivery form of your checkout allowing the user to choose the desired international delivery option. 
 

@@ -17,8 +17,6 @@ subcategory: 6uIlQ5imochc5LFi3dzCSv
 
 O VTEX Payment aceita como formas de pagamento boleto bancário, cartão de crédito e cartão de débito, sendo este último apenas em casos de integração com o [inStore](https://help.vtex.com/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb) - solução Omnichannel da VTEX.
 
-<div class="alert alert-danger">
-<strong>Atenção</strong>: em casos de integração com o inStore, o VTEX Payment só é suportado em devices <strong>Android</strong>. Até o momento, o VTEX Payment <strong>não</strong> funciona com a integração entre inStore e Windows.  
-</div>
+>❗ **Atenção**: em casos de integração com o inStore, o VTEX Payment só é suportado em devices **Android**. Até o momento, o VTEX Payment **não** funciona com a integração entre inStore e Windows.
 
 Quanto ao cartão de crédito, a plataforma aceita as seguintes bandeiras: Visa, Master Card, Elo, American Express, Banes Card, Hipercard, JCB, Aura, Hiper. Além disso, os pagamentos podem ser parcelados em até 12 vezes.

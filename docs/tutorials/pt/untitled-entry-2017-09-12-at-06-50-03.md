@@ -142,7 +142,7 @@ Para fazer login na conta da loja, entre no terminal e digite:
 
 O terminal vai solicitar o Account, ou seja, o nome da conta da loja.
 
-![vtex login](//images.contentful.com/alneenqid6w5/rs5YFeBAtiYG4KuwcOe8Y/91406e5bfbcbad8ce3efbb56b5a31848/vtex__login.png)
+![vtex login](https://images.contentful.com/alneenqid6w5/rs5YFeBAtiYG4KuwcOe8Y/91406e5bfbcbad8ce3efbb56b5a31848/vtex__login.png)
 
 Após inserir o Account, digite a senha, se necessário, e pronto. Você fez login na sua conta!
 
@@ -172,7 +172,7 @@ Para voltar ao workspace master, o procedimento é o mesmo:
 
 `vtex use master`
 
-![use master](//images.contentful.com/alneenqid6w5/4SK7JvVupO0sOoGE2As4Yc/e578222b656c74a3b082a6b498a3f04e/use_master.png)
+![use master](https://images.contentful.com/alneenqid6w5/4SK7JvVupO0sOoGE2As4Yc/e578222b656c74a3b082a6b498a3f04e/use_master.png)
 
 ---
 
@@ -213,7 +213,7 @@ Para confirmar que deu tudo certo, entre no browser e acesse a seguinte URL:
 
 Se a tela abaixo está sendo exibida, sua app está linkada.
 
-![Indexjs](//images.contentful.com/alneenqid6w5/6x1Vx9RVKgUCsKscmEqSky/df5c3183c374710d2017b87d63fefff6/Indexjs.png)
+![Indexjs](https://images.contentful.com/alneenqid6w5/6x1Vx9RVKgUCsKscmEqSky/df5c3183c374710d2017b87d63fefff6/Indexjs.png)
 
 Entre no arquivo `Index.js` e altere alguma coisa. Salve e veja a mudança no browser!
 

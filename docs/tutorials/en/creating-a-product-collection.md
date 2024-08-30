@@ -65,9 +65,7 @@ To create a product group with one of more brands, just select the brand desired
 
 To create a collection of products that have not yet been launched, select &#8220;Pré-venda&#8221; in &#8220;Outras Opções&#8221;. The system will consider all products with date beyond the current date, as defined in the field “Data de lançamento no mercado” (product register). Or, you can configure the collection to take into account recently launched products, by selection the &#8220;Lançamento&#8221; option. The system will consider all products with the date defined in the “Data de lançamento no mercado” (product register) field within the interval of 30 days prior to present day. See in the example below that it is possible to select one or other field. If you want both scenarios to be taken into account, create two collections and configure each of them with the respective collection.
 
-<div class="alert alert-warning">
-These flags are a <em>complement</em> to the choice of products. It is important to note that these flags will only work if you have chosen any category, brand, or combination of SKUs for the collection. These flags are to be used in conjunction with the selection of categories, brands or SKUs for the collection.
-</div>
+>⚠️ These flags are a *complement* to the choice of products. It is important to note that these flags will only work if you have chosen any category, brand, or combination of SKUs for the collection. These flags are to be used in conjunction with the selection of categories, brands or SKUs for the collection.
 
 ### Including specific SKUs in a group
 
@@ -79,7 +77,7 @@ Unlike the previous version, where specific products were included using the Pro
 
 Although group filters are very practical for automatically creating product groupings, there is a possibility that they might not meet your requirements in specific situations. To get around this, you can import a list of the SKUs that will comprise the group and, consequently, the collection. The Collections module accepts files in the Excel spreadsheet (.xls) or CSV (.csv) formats. In the case of Excel files, all SKU IDs must be arranged in the first column, with no header, as shown in the figure below:
 
-![](//images.contentful.com/alneenqid6w5/6t9b1mIYmsSewCEu8yOagi/c0f73dc7b921e0f7cc65cea1ae572b7b/Importar_lista_de_skus.jpg)
+![](https://images.contentful.com/alneenqid6w5/6t9b1mIYmsSewCEu8yOagi/c0f73dc7b921e0f7cc65cea1ae572b7b/Importar_lista_de_skus.jpg)
 
 After the spreadsheet has been imported by the system, the SKUs are displayed in the following manner:
 
@@ -95,7 +93,7 @@ So the Administrator won't have to manually exclude several SKUs one by one, it 
 
 ![Excluir_lista_de_skus](https://images.ctfassets.net/alneenqid6w5/7fkP3OAKk0Kq0SYM8aAw6M/37026d5804485392c3dac490adad7b40/Excluir_lista_de_skus.gif)
 
-Obtain a model of a file for importation, both for including and excluding items from the collection [here](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "here").
+Obtain a model of a file for importation, both for including and excluding items from the collection [here](https://assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "here").
 
 ## Searching collections
 

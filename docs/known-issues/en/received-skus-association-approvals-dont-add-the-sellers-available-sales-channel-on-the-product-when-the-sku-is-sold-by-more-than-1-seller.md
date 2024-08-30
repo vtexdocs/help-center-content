@@ -3,8 +3,8 @@ title: "Received Skus: Association approvals don't add the seller's available sa
 id: 5ob4jquCm8l84MhX6285h8
 status: PUBLISHED
 createdAt: 2022-04-18T17:15:41.091Z
-updatedAt: 2023-05-09T19:06:08.893Z
-publishedAt: 2023-05-09T19:06:08.893Z
+updatedAt: 2024-02-16T20:25:58.313Z
+publishedAt: 2024-02-16T20:25:58.313Z
 firstPublishedAt: 2022-04-18T17:15:41.436Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: received-skus-association-approvals-dont-add-the-sellers-available-sales-channel-on-the-product-when-the-sku-is-sold-by-more-than-1-seller
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 562472
 ---
 

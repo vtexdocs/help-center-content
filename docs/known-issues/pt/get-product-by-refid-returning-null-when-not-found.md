@@ -1,10 +1,10 @@
 ---
-title: 'GET Product by Refid retorna "Null" quando não é encontrado'
+title: "GET Product by Refid retorna 'Null' quando não é encontrado"
 id: 6yiM9gJT5DB77pZSBNfGZ3
 status: PUBLISHED
 createdAt: 2023-05-16T19:35:46.743Z
-updatedAt: 2023-05-16T19:35:47.468Z
-publishedAt: 2023-05-16T19:35:47.468Z
+updatedAt: 2024-07-01T18:49:03.498Z
+publishedAt: 2024-07-01T18:49:03.498Z
 firstPublishedAt: 2023-05-16T19:35:47.468Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: get-product-by-refid-retorna-null-quando-nao-e-encontrado
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 826702
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A rota get product by refid (/catalog_system/pvt/products/productgetbyrefid) está retornando um valor nulo em vez de uma simples resposta 404 quando não encontra um ID válido em um determinado catálogo da loja

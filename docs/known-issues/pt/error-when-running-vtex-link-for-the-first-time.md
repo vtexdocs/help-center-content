@@ -36,8 +36,6 @@ A mensagem de autorização de erro pode mudar de `node` para `react` de acordo 
 1. Preencha o [formulário](https://suportevtex1.typeform.com/to/SxXknn)
 2. Acesse o módulo de Gerenciamento da conta e garanta que o seu perfil tem as permissões de "VTEX IO Admin"
 
-<div class="alert alert-info">
-O preenchimento do formulário não garante o acesso à Whitelist de Node + GraphQL e Extensibilty. 
-</div>
+>ℹ️ O preenchimento do formulário não garante o acesso à Whitelist de Node + GraphQL e Extensibilty.
 
 

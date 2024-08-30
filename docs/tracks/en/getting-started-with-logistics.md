@@ -19,16 +19,16 @@ The **Inventory & shipping** module is where you set up the logistics of your VT
 
 This article is the first in a series of five articles for getting started with logistics in your store. The series contains essential information to help you understand logistics in VTEX stores and how settings are structured on the platform.
 
-<div class="alert alert-danger">
-Before setting up your store logistics, please configure the following:
-<body>
-<ol>
-<li><a href="https://help.vtex.com/en/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE">Trade policy</li></a>
-<li><a href="https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR">Catalog</li></a>
-<li><a href="https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu">Prices</li></a>
-  </ol>
-  </body>
-</div>
+>❗ Before setting up your store logistics, please configure the following:
+> <body>
+>
+> [Trade policy](https://help.vtex.com/en/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
+>
+> [Catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR)
+>
+> [Prices](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
+>
+> </body>
 
 This walkthrough brings together the following articles:
 
@@ -38,11 +38,10 @@ This walkthrough brings together the following articles:
 * [Shipping costs and simulation](https://help.vtex.com/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/3by48jFhzpZEseYFpH9uVt): Explains how to set up shipping costs and use the shipping rate simulation tool.
 * [Scheduled deliveries and delivery capacity](https://help.vtex.com/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/5TuyqHRCCwYMaDv4r8rZdo): Explains how to make scheduled deliveries available to customers and manage the delivery capacity of such deliveries. 
 
-<div class = "alert alert-info">If you have already made the first steps in the <b>Inventory & shipping</b> module, check out this complementary content:
-The article <a href="https://help.vtex.com/en/tutorial/logistics--53udnvI5eBy8DKo8FOjMoP">Logistics</a>, for quick access to information on the <b>Inventory & shipping</b> sections. 
-Our <a href="https://help.vtex.com/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby">Logistics Glossary</a>, in which you can find the definitions of logistics terms used at VTEX.
-The logistics settings available via <a href="https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview">API</a>. 
-</div>
+>ℹ️ If you have already made the first steps in the **Inventory & shipping** module, check out this complementary content:
+> The article [Logistics](https://help.vtex.com/en/tutorial/logistics--53udnvI5eBy8DKo8FOjMoP), for quick access to information on the **Inventory & shipping** sections. 
+> Our [Logistics Glossary](https://help.vtex.com/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby), in which you can find the definitions of logistics terms used at VTEX.
+> The logistics settings available via [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
 
 Basically, the **Inventory & shipping** module is divided into the following sections:
 
@@ -58,8 +57,7 @@ Basically, the **Inventory & shipping** module is divided into the following sec
 
 ![estoque e entregaEN](https://images.ctfassets.net/alneenqid6w5/21rlEVE55jPh2hYBKTn99U/8286563b415555a4ab5e56cb8e6e290c/estoque_e_entregaEN.png)
 
-<div class = "alert alert-info"> Clients using <a href="https://vtex.com/us-en/">VTEX Shipping Network</a> can access this feature in the Inventory & shipping module.
-</div>
+>ℹ️ Clients using [VTEX Shipping Network](https://vtex.com/us-en/) can access this feature in the Inventory & shipping module.
 
 Check out the following articles of this series to learn the order you should configure these sections and how the platform interprets these settings.
 

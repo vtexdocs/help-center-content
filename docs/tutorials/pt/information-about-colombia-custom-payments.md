@@ -1,10 +1,10 @@
 ---
 title: 'Informações dos pagamentos customizados da Colômbia'
 id: 3tcvqc6LBSKOqMWCumwyaq
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-01-24T20:45:36.914Z
-updatedAt: 2019-12-31T15:22:34.694Z
-publishedAt: 2019-12-31T15:22:34.694Z
+updatedAt: 2024-03-19T12:16:11.844Z
+publishedAt: 
 firstPublishedAt: 2019-01-24T22:11:29.228Z
 contentType: tutorial
 productTeam: Financial

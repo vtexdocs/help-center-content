@@ -18,9 +18,7 @@ internalReference: 492861
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Incapaz de exportar mais de 65.536 linhas em CMS Builder (.xls limite de linha)

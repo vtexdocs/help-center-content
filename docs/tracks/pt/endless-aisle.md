@@ -3,8 +3,8 @@ title: 'Prateleira Infinita'
 id: 40KMlmGI5tN0r0KPCDWgGn
 status: PUBLISHED
 createdAt: 2020-06-30T21:32:21.143Z
-updatedAt: 2023-05-31T15:34:48.839Z
-publishedAt: 2023-05-31T15:34:48.839Z
+updatedAt: 2023-07-26T18:46:19.274Z
+publishedAt: 2023-07-26T18:46:19.274Z
 firstPublishedAt: 2020-06-30T21:36:39.077Z
 contentType: trackArticle
 productTeam: Shopping

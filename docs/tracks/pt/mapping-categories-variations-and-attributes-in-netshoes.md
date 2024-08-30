@@ -26,9 +26,7 @@ O mapeamento deve ser feito sempre que um produto for enviado pela primeira vez 
 ### Preenchendo a Planilha de Mapeamento
 
 Os campos da **Planilha de Mapeamento** estão detalhados abaixo. Preencha-os de forma a realizar a correspondência _de/para_ entre os valores cadastrados na VTEX e os valores especificados na **Planilha de Consulta** da Netshoes.
-<div class="alert alert-danger">
-<strong>O uso de valores que não aparecem na Planilha de Consulta vai ocasionar um erro na integração.</strong> O preenchimento da Planilha de Mapeamento deve respeitar letras maiúsculas e minúsculas conforme elas aparecem na Planilha de Consulta.
-</div>
+>❗ **O uso de valores que não aparecem na Planilha de Consulta vai ocasionar um erro na integração.** O preenchimento da Planilha de Mapeamento deve respeitar letras maiúsculas e minúsculas conforme elas aparecem na Planilha de Consulta.
 
 *   **ID do SKU:** número de identificação do SKU. Se necessário, consulte [Descobrir o ID de um SKU](https://help.vtex.com/pt/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW).
 
@@ -40,9 +38,7 @@ Os campos da **Planilha de Mapeamento** estão detalhados abaixo. Preencha-os de
 
 *   **Marca:** nome da empresa associada comercialmente ao produto.
 <br/>Exemplo: você está mapeando uma camisa da Nike. De acordo com a Planilha de Consulta, a coluna Marca deve ser preenchida com o valor _Nike_.
-<div class="alert alert-danger">
-Se a marca do seu produto não aparece na Planilha de Consulta, <strong>entre em contato com a Netshoes solicitando a inclusão da marca no sistema.</strong> Somente quando a Netshoes confirmar esse cadastro é que você poderá mapear a marca do produto. Caso contrário, haverá um erro na integração.
-</div>
+>❗ Se a marca do seu produto não aparece na Planilha de Consulta, **entre em contato com a Netshoes solicitando a inclusão da marca no sistema.** Somente quando a Netshoes confirmar esse cadastro é que você poderá mapear a marca do produto. Caso contrário, haverá um erro na integração.
 
 *   **Cor**: valor da coloração do seu produto.
 <br/>Exemplo: você está mapeando um short azul e branco. De acordo com a Planilha de Consulta, a coluna Cor deve ser preenchida com o valor _Azul+Branco._
@@ -58,9 +54,7 @@ Se a marca do seu produto não aparece na Planilha de Consulta, <strong>entre em
 
 *   **Departamento BS**: valor solicitado pela Netshoes para catalogar seus produtos mais rapidamente, utilizando o processo que eles chamam de Fast Lane. Os valores para preenchimento deste campo estão na coluna Atributos da Planilha de Consulta.
 <br/>Exemplo: você está mapeando bijuterias. De acordo com a Planilha de Consulta, a coluna Departamento BS deve ser preenchida com o valor _Acessórios._
-<div class="alert alert-info">
-Em geral, o valor Departamento BS se encontra ao final dos Atributos de um Departamento.
-</div>
+>ℹ️ Em geral, o valor Departamento BS se encontra ao final dos Atributos de um Departamento.
 
 ### Outras Especificações
 
@@ -79,9 +73,7 @@ Depois de preencher a planilha, acesse __Integrações__ no menu do Admin:
 3. Em seguida, clique em __Upload de Mapeamento__.
 4. Escolha a planilha com os dados e clique em __Enviar Arquivo__.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> caso a planilha tenha mais de 10 MB, será necessário separar o conteúdo da planilha em planihas menores de modo a reduzir o tamanho do arquivo.
-</div>
+>⚠️ **OBS:** caso a planilha tenha mais de 10 MB, será necessário separar o conteúdo da planilha em planihas menores de modo a reduzir o tamanho do arquivo.
 
 Com o upload concluído, a integração envia automaticamente todos os produtos da planilha para a Netshoes.
 

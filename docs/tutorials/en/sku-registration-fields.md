@@ -3,8 +3,8 @@ title: 'Filling in SKU registration fields'
 id: 21DDItuEQc6mseiW8EakcY
 status: PUBLISHED
 createdAt: 2017-09-22T00:20:45.920Z
-updatedAt: 2022-12-19T18:03:03.864Z
-publishedAt: 2022-12-19T18:03:03.864Z
+updatedAt: 2023-07-14T20:59:40.541Z
+publishedAt: 2023-07-14T20:59:40.541Z
 firstPublishedAt: 2017-09-22T00:40:16.232Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,15 +15,13 @@ legacySlug: sku-registration-fields
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class="alert alert-warning">
-  <p>There is a limit of 50 SKUs per product. To request an extension of the limit, please contact <a href= "https://support.vtex.com/hc/pt-br/requests">our Support</a>.</p>
-</div>
+>⚠️ There is a limit of 50 SKUs per product. To request an extension of the limit, please contact <a href= "https://support.vtex.com/hc/pt-br/requests">our Support</a>.
 
 For more information on each field, read their complete description below.
 
 __Product Name:__ This field is already filled in with the SKU product name.
 
-__Name:__ The SKU name, that is, the variation of the previously added product. Product - Fridge, SKU - 110V.
+__Name:__ The SKU name, that is, the variation of the previously added product. Example: Product - Fridge, SKU - 110V. The SKU name is limited to 200 characters.
 
 __Loyalty Value:__ Credit that the customer receives upon completing a purchase of 1 (one) specific SKU unit. If you enter "1" in this field, this means that the customer will get U$ 1 credit on the website.
 
@@ -33,9 +31,7 @@ __Reference Code:__ Unique reference code used internally for organizational pur
 
 __Shipping Weight:__ Shipping weight, which must have a value greater than zero to make the <a href="https://help.vtex.com/en/tutorial/how-proportional-shipping-costs-are-calculated--frequentlyAskedQuestions_155">proportional shipping cost</a> work properly.
 
-<div class = "alert alert-info">
-The <b>Inventory & Shipping/Shipping</b> module does not take units of measure into account in the fields below. It is only necessary to be consistent with what is registered in the SKU and in the <a href="https://help.vtex.com/en/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">product registration fields</a>.
-</div>
+>ℹ️ The **Inventory & Shipping/Shipping** module does not take units of measure into account in the fields below. It is only necessary to be consistent with what is registered in the SKU and in the [product registration fields](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke).
 
 __Shipping Height:__ Shipping height.
 
@@ -131,7 +127,5 @@ After filling out the required fields, click on Save on the SKU tab.
 - [Filling in product registration fields](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke)
 - [Filling in Import Spreadsheet fields](/en/tutorial/preencher-campos-da-planilha-de-importacao--4nYhx63Q5yokQWaMguaIgI)
 
-<div class="alert alert-danger">
- To ensure the items added to the inventory will be available for sale on the store, the <a href="https://help.vtex.com/en/tutorial/how-to-find-an-sku-id--4VQZsYeb3igGK2YowuEYWW">SKU ID</a> cannot contain <b>a leading zero</b>. For instance, the system does not read IDs with a <code>01</code>, <code>02</code>, <code>021</code> format because the expected format is <code>1</code>, <code>2</code>, <code>21</code>.
-</div>
+>❗ To ensure the items added to the inventory will be available for sale on the store, the [SKU ID](https://help.vtex.com/en/tutorial/how-to-find-an-sku-id--4VQZsYeb3igGK2YowuEYWW) cannot contain **a leading zero**. For instance, the system does not read IDs with a `01`, `02`, `021` format because the expected format is `1`, `2`, `21`.
 

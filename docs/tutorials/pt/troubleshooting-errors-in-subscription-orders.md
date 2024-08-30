@@ -3,8 +3,8 @@ title: 'Como solucionar erros em pedidos de assinaturas'
 id: uLL8AYBGdtAmbbdL5gRCf
 status: PUBLISHED
 createdAt: 2020-02-05T14:32:49.763Z
-updatedAt: 2022-12-05T17:09:40.639Z
-publishedAt: 2022-12-05T17:09:40.639Z
+updatedAt: 2023-12-21T14:07:42.772Z
+publishedAt: 2023-12-21T14:07:42.772Z
 firstPublishedAt: 2020-02-11T15:00:00.666Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,8 @@ locale: pt
 legacySlug: como-solucionar-pedidos-de-assinatura-com-erros
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
+
+>ℹ️ É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo [Minha Conta](https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 É possível identificar e gerenciar erros em pedidos de assinaturas através do módulo de **Assinaturas** > **Dashboards** > **Pedidos de Assinatura** no Admin.
 

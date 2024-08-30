@@ -3,8 +3,8 @@ title: 'Preços - Visão Geral'
 id: 3N9xYhnampRQOrfaTAOxNu
 status: PUBLISHED
 createdAt: 2019-07-09T19:26:54.473Z
-updatedAt: 2023-03-29T19:18:12.146Z
-publishedAt: 2023-03-29T19:18:12.146Z
+updatedAt: 2023-08-21T17:16:35.856Z
+publishedAt: 2023-08-21T17:16:35.856Z
 firstPublishedAt: 2019-07-11T21:35:16.813Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -20,4 +20,4 @@ O Pricing possui diversas funcionalidades que permitem o uso de diferentes estra
 
 **Lista de preços** - Nesta seção, você deve cadastrar os preços dos seus produtos. É nesta área que você pode consultar e inserir os preços dos SKUs para cada **tabela de preço** existente em sua loja.
 
-**Regras de preço** - Esta seção permite a criação de regras para as tabelas de preço da sua loja. As regras de preço são como funções que modificam os preços base cadastrados na área de Lista de preços.
+**Regras de preços** - Esta seção permite a criação de regras para as tabelas de preço da sua loja. As regras de preço são como funções que modificam os preços base cadastrados na área de Lista de preços.

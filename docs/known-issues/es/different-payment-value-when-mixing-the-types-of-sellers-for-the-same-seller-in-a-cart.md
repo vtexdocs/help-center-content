@@ -18,9 +18,7 @@ internalReference: 821741
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En los casos en los que un vendedor actúe como vendedor de marca blanca y como vendedor habitual para distintos artículos del mismo carrito, el importe del pago será con el valor del envío duplicado.

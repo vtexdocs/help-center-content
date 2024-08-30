@@ -18,9 +18,7 @@ internalReference: 439856
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As páginas de coleção acessadas através de map=productClusterNames mostram o nome da coleção sem acentos no componente de busca-titulo.

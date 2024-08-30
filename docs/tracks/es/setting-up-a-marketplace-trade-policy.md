@@ -41,9 +41,7 @@ Para definir el catálogo de productos que será enviado al marketplace, el admi
 6. Marque el flag __Tiendas__ para las políticas comerciales elegidas.
 7. Haga clic en __Guardar__.
 
-<div class="alert alert-danger">
-VTEX no recomienda realizar la gestión de catálogo de productos para marketplace a través de colecciones. Este mecanismo genera muchas complejidades en la organización, siendo recomendada la gestión a través del flag tiendas.
-</div>
+>❗ VTEX no recomienda realizar la gestión de catálogo de productos para marketplace a través de colecciones. Este mecanismo genera muchas complejidades en la organización, siendo recomendada la gestión a través del flag tiendas.
 
 ## Definiendo la logística
 

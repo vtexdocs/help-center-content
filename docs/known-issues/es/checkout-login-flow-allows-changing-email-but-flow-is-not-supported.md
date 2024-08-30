@@ -18,9 +18,7 @@ internalReference: 258447
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando en el checkout con un email informado y datos enmascarados, será necesario iniciar sesión si el comprador quiere cambiar alguna información. En el cuadro de inicio de sesión que se abrirá, el correo electrónico ya se rellenará con el contexto del carrito, pero la interfaz permite modificar el correo electrónico "sugerido".

@@ -15,9 +15,7 @@ legacySlug: aplicativo-amazon-multi-channel-fulfillment-mcf
 subcategory: 1P1vFnzQ4TQJsBRDoPVKUI
 ---
 
-<div class="alert alert-info">
-Esse aplicativo está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
-</div>
+>ℹ️ Esse aplicativo está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
 
 O aplicativo Amazon Multi-Channel Fulfillment (MCF) possibilita a integração do seu negócio com o programa homônimo. Com a integração, clientes VTEX podem usar a rede de logística da Amazon em suas próprias lojas. Assim, os itens de venda ficam armazenados nos centros de distribuição Amazon, e após cada venda no seu ecommerce, a plataforma VTEX envia os dados do pedido para que a Amazon separe, embale e envie aos destinatários.
 
@@ -35,11 +33,9 @@ Antes de instalar, é preciso:
 * Conferir se os produtos da sua loja atendem às [políticas de restrições da Amazon](https://sellercentral.amazon.com/gp/help/external/200164330).
 * Garantir que sua loja está localizada nos países onde o MCF está disponível. Países como Estados Unidos, Austrália, México, Alemanha e Canadá já possuem o MCF da Amazon. Confira a lista atualizada de países [nesta página da Amazon](https://sell.amazon.com/fulfillment-by-amazon/fba-multi-channel.html).
 
-<div class="alert alert-danger">
-Ao instalar o aplicativo, a plataforma VTEX trata a integração como uma loja externa Amazon e utiliza a integração do tipo marketplace com a Amazon.
-<p>A instalação do aplicativo deve ser feita em todas as contas VTEX em que se deseja utilizar a funcionalidade. 
-<p>Recomendamos utilizar o Checkout V6.
-</div>
+>❗ Ao instalar o aplicativo, a plataforma VTEX trata a integração como uma loja externa Amazon e utiliza a integração do tipo marketplace com a Amazon.
+> <p>A instalação do aplicativo deve ser feita em todas as contas VTEX em que se deseja utilizar a funcionalidade. 
+> <p>Recomendamos utilizar o Checkout V6.
 
 ## Instalação, configuração e acesso:
 
@@ -83,10 +79,8 @@ Para realizar essa configuração, acesse o Admin e siga os passos abaixo.
 
 Nos passos 8 e 10, a chave que deve ser preenchida é a chave de geolocalização Google. Confira [como gerar uma chave no guia de desenvolvedores do Google.](https://developers.google.com/maps/documentation/geocoding/overview) 
 
-<div class="alert alert-info">
-Se tiver dúvidas sobre a chave de geolocalização Google, confira detalhadamente como essa configuração é utilizada pela plataforma VTEX nos artigos <a href="https://help.vtex.com/pt/tutorial/geolocalizacao-no-checkout--tutorials_4345">Configurar geolocalização no checkout</a>
-  e <a href="https://help.vtex.com/pt/tutorial/gerenciar-geolocalizacao--tutorials_138">Cadastrar geolocalização</a>.
-</div>
+>ℹ️ Se tiver dúvidas sobre a chave de geolocalização Google, confira detalhadamente como essa configuração é utilizada pela plataforma VTEX nos artigos [Configurar geolocalização no checkout](https://help.vtex.com/pt/tutorial/geolocalizacao-no-checkout--tutorials_4345)
+>   e [Cadastrar geolocalização](https://help.vtex.com/pt/tutorial/gerenciar-geolocalizacao--tutorials_138).
 
 ### Instalação do aplicativo
 
@@ -107,9 +101,7 @@ Para instalar o aplicativo, acesse a App Store VTEX:
     * **ERP Hook URL:** Endereço do ERP que incluirá as notas fiscais dos pedidos (para o caso em que o campo **Automatic Invoice** estiver como Deactivate).
     * **Amazon Marketplace:** país em que você irá utilizar o Amazon MCF.
 
-<div class="alert alert-warning">
-As configurações feitas no campo Automatic Invoice serão aplicadas a todos os pedidos.
-</div>
+>⚠️ As configurações feitas no campo Automatic Invoice serão aplicadas a todos os pedidos.
 
 ![MCF](https://images.ctfassets.net/alneenqid6w5/1fPmofbBRr6kge5qzfHvXV/7e61a4ea7adc5595f583f55dd644b99d/Amazon_MCF_PT.PNG)
 

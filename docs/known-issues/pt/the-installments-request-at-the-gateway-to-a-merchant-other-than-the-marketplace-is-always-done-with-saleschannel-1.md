@@ -3,8 +3,8 @@ title: 'A solicitação de parcelas na porta de entrada de um comerciante que n�
 id: Xo2YO6ZM9Jj0ONZjXrrrJ
 status: PUBLISHED
 createdAt: 2022-03-27T21:08:39.176Z
-updatedAt: 2022-11-25T22:05:55.885Z
-publishedAt: 2022-11-25T22:05:55.885Z
+updatedAt: 2024-02-16T20:29:17.920Z
+publishedAt: 2024-02-16T20:29:17.920Z
 firstPublishedAt: 2022-03-27T21:08:39.738Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-solicitacao-de-parcelas-na-porta-de-entrada-de-um-comerciante-que-nao-o-mercado-e-sempre-feita-com-canal-de-vendas-1
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 391197
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os pedidos para obter parcelas externas na porta de entrada de um comerciante que não seja o mercado são sempre feitos com canal de vendas = 1.

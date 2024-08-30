@@ -3,8 +3,8 @@ title: 'Managing Customer Credit accounts'
 id: 4eknoeqaj6EGC20amsm6Gc
 status: PUBLISHED
 createdAt: 2018-11-06T21:15:25.330Z
-updatedAt: 2023-05-12T12:21:21.583Z
-publishedAt: 2023-05-12T12:21:21.583Z
+updatedAt: 2024-02-27T19:44:55.522Z
+publishedAt: 2024-02-27T19:44:55.522Z
 firstPublishedAt: 2018-11-07T17:10:45.883Z
 contentType: trackArticle
 productTeam: Financial
@@ -14,97 +14,62 @@ trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugEN: customer-credit-getting-started
 ---
 
-The Account Details screen shows everything you need to know about an account and its settings.
+Through the accounts screen in the VTEX Admin (__Apps > Customer Credit > Accounts__), you can access information from all accounts registered in the Customer Credit app in your store. 
 
-## Credit limit
+When clicking on the name of a specific account, the __Account Details__ screen will display the following data:
 
-The credit limit indicates the maximum value of outstanding invoices that a client can have at any given time. Establishing it is required, and the account’s super Admin can change this value as many times as he/she wants.
+- [Holder Information](#holder)
+- [Credit Status](#status)
+- [Invoices issued](#invoices)
+- [Usage statement](#statements)
+- [Additional Holders](#additional-holders)
+- [Account closure](#account-closure)
+<br>
+<br>
+![Account_EN](https://images.ctfassets.net/alneenqid6w5/3Wu6HcL5NbC5XS5YdiF3Dx/a9f3a550884255677d837466ec63cf3c/Contas_EN.png)
 
-Also, remember that changes to the credit limit are updated in the system within minutes.
+## Holder
 
-## Invoices 
+It presents information about the account status (active, inactive), identification code, registered document and email of the holder, account opening dates and last data update.
 
-Invoices are documents generated when customers conclude purchases using Customer Credit as a payment method.
+## Status
 
-In cases of installment purchases, the number of invoices is the same as the number of installments. For example, if the customer has chosen to pay the order in 10 installments, the system will generate 10 invoices related to that same order.
+Displays the amount of credit available for the customer to use for purchases and the total amount to be paid (in invoices) for purchases already made using Customer Credit as a means of payment.
 
-Regardless of the payment method, all invoices in the system can be viewed and managed through the Admin and, like the accounts, can also be exported and edited in bulk.
+>⚠️ When the customer makes a purchase using Customer Credit, but the order has not yet been billed (invoice issued), the **Reserved Credit** field is also displayed on this screen containing information on the order value.
 
-### Invoice status
-Invoices have four possible statuses:
+## Manage
 
-- Open;
-- Paid;
-- Overdue;
-- Canceled.
+Indicates the maximum amount of credit granted to the customer and the tolerance to be used in purchases. These values ​​can be edited at any time.
 
-When an invoice is created, its status is "open" and, depending on actions taken in the Admin or API calls, it can transition to “paid” or “canceled”.
+## Invoices
 
-#### Invoice settlement
-The store controls the way in which invoices will be settled.
+List containing the following information about all invoices issued in purchases made by the customer:
 
-One of the invoice settlement options is to generate a payment link. In this case, once it is configured, the customer will see a "Pay" button next to the invoice on the My Credits screen, which will redirect him to the payment link.
+- Due date
+- Comments (specific message for a invoice)
+- Order ID
+- Invoice amount
+- Invoice status (Open, Paid, Canceled, Expired)
 
-In addition, payment links can be added via CSV file through the Admin or via API.
+## Statements
 
-After receiving payment for an invoice, mark it as paid on our system. This can be done in three ways: individually, in bulk or via API.
+Displays a report of all payment and invoice transactions carried out for the customer during a selected period.
 
-#### Individual settlement
-Settling an invoice through Admin is simple:
+## Additional Holders
 
-1. Access the __Admin__;
-2. Click on the __Customer Credit__ module;
-3. Then click on the __Invoices__ section;
-4. Select the __invoice__ you want to edit;
-5. Click on the __"Mark as paid"__ button.
+The __Additional Holders__ functionality allows the customer to share credits available for purchases with other people registered in the account.
 
-This way, the invoice status will change to “paid”.
+To register a new dependent, follow the steps below:
 
-#### Bulk settlement
-If your account has a lot of outstanding invoices, it is not feasible to change each status individually.
+1. Within the customer account, under __Additional Holders__, click `NEW`.
+2. Enter the email of the person to be added as a dependent on the customer's account.
+3. Click `CONFIRM`.
 
-For that, you can use the bulk settlement feature, a process very similar to the accounts bulk update. The principle is the same: importing a CSV file with the new data to the Admin.
+From this moment on, the customer and their dependent will be able to share the amount in __Available credit__ to make their purchases through Customer Credit.
 
-In this case, you must change the values in the status column from "open" to "paid" and save the changes.
+## Account closure
 
-Then follow the step by step below:
+If you wish to close the customer's account, in the __Others__ section, click on `CLOSE ACCOUNT`.
 
-1. Access the __Admin__;
-2. Click on the __Customer Credit__ module;
-3. Click on the __Invoices__ section;
-4. Then click on the __“Bulk update”__ button;
-5. Click on the __“Choose file”__ button;
-6. Select the desired __CSV file__.
-
-Wait for the spreadsheet to be uploaded and the invoices will be settled all at once.
-
-#### Settlement via API
-To settle an invoice through an API, you can use the `PUT Change Invoice` [endpoint](https://developers.vtex.com/docs/api-reference/customer-credit-api#put-/api/creditcontrol/accounts/-creditAccountId-/invoices/-invoiceId- "endpoint"). This API can also be used to change the invoice’s status.
-
-Fill in the body with the following information:
-
-```json
-{
-"status": "string [Opened | Cancelled | Paid] (optional)", "observation": "string (optional)",
-"paymentLink": "string (URL) (optional)"
-}
-```
-
-For more details, check out our [technical documentation on Customer Credit](https://developers.vtex.com/docs/guides/customer-credit-api-overview "technical documentation on Customer Credit").
-
-## Additional dependents
-According to your business rules, you can share the account’s credit limit with other users.
-
-This functionality allows you to add new dependents to an account. They will share the available credit to pay for purchases on SmartCheckout.
-
-To add new dependents to an account, follow the step by step below:
-
-1. Access the __Admin__;
-2. Click on the __Customer Credit__ module;
-3. Then click on the __Accounts__ section;
-4. Select the __account__ you want to edit;
-5. At the bottom of the page, click on the __“New”__ button;
-6. Fill in the blank field with the new dependent’s __email__;
-7. Click on the __Confirm__ button.
-
-The newly added dependent will then appear in the box of additional dependents for that account.
+>⚠️ A closed Customer Credit account cannot be reopened again and invoice, statement and additional dependent data will be deleted. However, after completing the account closure, if you wish, you can [open a new account](https://help.vtex.com/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU#creating-accounts-individually) for the customer using the same email as the closed account.

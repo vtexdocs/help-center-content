@@ -1,5 +1,5 @@
 ---
-title: 'Ordem de assinatura geradora de erro ""O mesmo item não pode ter mais de um SLA selecionado"".'
+title: "Ordem de assinatura geradora de erro ''O mesmo item não pode ter mais de um SLA selecionado''."
 id: 2aBMa8ncalkqSm2s868i1q
 status: PUBLISHED
 createdAt: 2022-09-29T13:31:57.984Z
@@ -18,9 +18,7 @@ internalReference: 658185
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em cenários de pedidos de assinatura onde o mesmo item de compra acaba sendo dividido em entradas diferentes, como a compra de 10 unidades do mesmo item sendo apresentada como 7 unidades (A) e 3 unidades (B), o fluxo de execução do ciclo de assinatura pode eventualmente escolher métodos de entrega diferentes entre o item A e B, mesmo que sejam a mesma SKU.

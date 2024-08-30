@@ -1,10 +1,10 @@
 ---
 title: 'Offer Management module'
 id: 7MRb9S78aBdZjFGpbuffpE
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-03-17T00:44:49.452Z
-updatedAt: 2023-03-31T04:39:55.235Z
-publishedAt: 2023-03-31T04:39:55.235Z
+updatedAt: 2024-06-20T21:34:27.585Z
+publishedAt: 
 firstPublishedAt: 2021-03-17T01:05:49.343Z
 contentType: tutorial
 productTeam: Channels
@@ -14,6 +14,10 @@ locale: en
 legacySlug: offers-listing
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
+
+>ℹ️ To evolve your experience in synchronizing and updating offers, the VTEX team is developing a new functionality that will replace the current module **Offer Management**. As a result, the module will not receive new updates or maintenance.
+> For connectors and marketplaces already integrated into the module, please contact the development team by email [taissa.araujo@vtex.com.br](taissa.araujo@vtex.com.br).
+> For connectors interested in starting the integration, we ask you to wait for the release of the new module, as soon as it is available we will announce it to all customers through the [Developer Portal's release notes section](https://developers.vtex.com/updates/release-notes) and [VTEX Help Center announcements page](https://help.vtex.com/pt/en/announcements).  
 
 The **Offer Management** module allows sellers to track the sending and syncing of their offers on all sales channels integrated with the store. On the VTEX platform, an offer is a SKU from a seller that has been sent to a sales channel and whose price and inventory information have been configured.
 
@@ -93,9 +97,7 @@ You can click on a column name to sort the offers in ascending or descending ord
 
 To export the offer list in XLSX format, click the <i class="fa-solid fa-arrow-down-to-line"></i> down arrow icon at the top of the interface. The file will be sent to the email of the logged-in user. The export time depends on the volume of offers exported and on the processing circumstances of the VTEX platform.
 
-<div class = "alert alert-info">
-The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
-</div>
+>ℹ️ The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
 
 ## Consulting discarded offers
 

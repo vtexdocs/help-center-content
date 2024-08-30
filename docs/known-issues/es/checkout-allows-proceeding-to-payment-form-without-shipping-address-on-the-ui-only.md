@@ -3,8 +3,8 @@ title: 'El pago permite pasar al formulario de pago sin la dirección de envío 
 id: 3k9zxMq6Pl9WBnIz5Hy6Xf
 status: PUBLISHED
 createdAt: 2022-11-18T18:42:08.326Z
-updatedAt: 2022-11-25T23:17:39.653Z
-publishedAt: 2022-11-25T23:17:39.653Z
+updatedAt: 2024-02-16T20:27:39.990Z
+publishedAt: 2024-02-16T20:27:39.990Z
 firstPublishedAt: 2022-11-18T18:42:08.914Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-pago-permite-pasar-al-formulario-de-pago-sin-la-direccion-de-envio-en-la-interfaz-de-usuario-solamente
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 699317
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En un carro con SLA sólo para la entrega y el usuario introduce un código postal correcto, el checkout permite al usuario continuar, sin embargo, si el usuario vuelve a la página del carro de nuevo y cambia a la opción de recogida y luego hace clic para continuar a la parte de pago, luego vuelve al carro de nuevo, cambia de nuevo a la opción de entrega y continúa de nuevo, esta vez, el usuario va al formulario de pago. Además, hay un mensaje en la parte de la dirección de envío que dice que el componente está "esperando a que se rellenen los datos".

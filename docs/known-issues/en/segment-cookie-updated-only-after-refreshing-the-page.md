@@ -3,8 +3,8 @@ title: 'Segment Cookie updated only after refreshing the page'
 id: 3QBmp4D2tvIAxEzEy2LpNf
 status: PUBLISHED
 createdAt: 2022-11-01T16:33:05.698Z
-updatedAt: 2023-03-08T20:36:59.962Z
-publishedAt: 2023-03-08T20:36:59.962Z
+updatedAt: 2024-01-10T17:18:13.115Z
+publishedAt: 2024-01-10T17:18:13.115Z
 firstPublishedAt: 2022-11-01T16:33:06.403Z
 contentType: knownIssue
 productTeam: Store Framework

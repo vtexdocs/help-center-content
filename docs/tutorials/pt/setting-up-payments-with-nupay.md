@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Nubank (NuPay)'
 id: 4nVjWfJw7PwraBHCoS45tc
 status: PUBLISHED
 createdAt: 2022-07-19T17:39:57.710Z
-updatedAt: 2023-03-26T21:17:16.116Z
-publishedAt: 2023-03-26T21:17:16.116Z
+updatedAt: 2024-01-23T19:13:04.800Z
+publishedAt: 2024-01-23T19:13:04.800Z
 firstPublishedAt: 2022-07-19T18:24:09.993Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-nupay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o gateway Nubank (NuPay). Com este conector, sua loja pode realizar vendas parceladas por meio do Nubank.
+Na VTEX, é possível realizar a integração com o gateway Nubank (NuPay). Por meio desta integração, sua loja pode realizar vendas parceladas por meio do Nubank.
 
-Para configurar a afiliação Nubank, siga os passos abaixo:
+Para configurar Nubank, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __Nubank__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Nubank__ na barra de busca e clique sobre o nome do provedor.
 4. Clique no botão __Instalar app__ e siga as instruções de instalação.
 5. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta Nubank.
 6. Clique em `Salvar`.

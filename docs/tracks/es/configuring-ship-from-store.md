@@ -3,8 +3,8 @@ title: 'Ship From Store'
 id: 50GAmxxFsJoLWqcnMysWdl
 status: PUBLISHED
 createdAt: 2020-06-30T21:36:43.926Z
-updatedAt: 2023-05-31T14:45:10.189Z
-publishedAt: 2023-05-31T14:45:10.189Z
+updatedAt: 2023-07-26T18:44:48.356Z
+publishedAt: 2023-07-26T18:44:48.356Z
 firstPublishedAt: 2020-06-30T21:45:36.187Z
 contentType: trackArticle
 productTeam: Shopping
@@ -24,13 +24,11 @@ Considere este ejemplo: un cliente que se encuentra en su casa hace un pedido en
 
 ## Prerrequisitos
 
-En primer lugar, consideremos los requisitos previos que su tienda necesita para asegurarse de comenzar a implementar una estrategia de Ship From Store. Consulte nuestro artículo sobre [Requisitos previos para utilizar inStore](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Requisitos previos para utilizar inStore").
+En primer lugar, consideremos los requisitos previos que su tienda necesita para asegurarse de comenzar a implementar una estrategia de Ship From Store. Consulte nuestro artículo sobre [Requisitos previos para utilizar VTEX Sales App](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Requisitos previos para utilizar VTEX Sales App").
 
 ## Cómo implementar el Ship From Store
 
-<div class="alert alert-info">
-Aunque es posible implementar el Ship From Store de otras maneras, en este artículo explicaremos cómo hacerlo utilizando las features de cuenta franquicia Seller White Label. Esto se debe a que esta es la arquitectura más recomendada por VTEX para este tipo de proyecto.
-</div>
+>ℹ️ Aunque es posible implementar el Ship From Store de otras maneras, en este artículo explicaremos cómo hacerlo utilizando las features de cuenta franquicia Seller White Label. Esto se debe a que esta es la arquitectura más recomendada por VTEX para este tipo de proyecto.
 
 Estos son los pasos para implementar el __Ship From Store__:
 

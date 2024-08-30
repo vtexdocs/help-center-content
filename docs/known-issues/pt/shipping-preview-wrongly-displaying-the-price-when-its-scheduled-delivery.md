@@ -1,40 +1,34 @@
 ---
-title: 'Pré-visualização de embarque exibindo erroneamente o preço quando a entrega é programada'
+title: 'A visualização do frete está exibindo erroneamente o preço quando a entrega está programada'
 id: 1348f4mDxoxAT7pTKBxm29
 status: PUBLISHED
 createdAt: 2023-01-31T19:16:25.118Z
-updatedAt: 2023-02-01T20:32:44.535Z
-publishedAt: 2023-02-01T20:32:44.535Z
+updatedAt: 2024-03-27T15:40:02.745Z
+publishedAt: 2024-03-27T15:40:02.745Z
 firstPublishedAt: 2023-01-31T19:16:25.874Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: previsualizacao-de-embarque-exibindo-erroneamente-o-preco-quando-a-entrega-e-programada
+slug: a-visualizacao-do-frete-esta-exibindo-erroneamente-o-preco-quando-a-entrega-esta-programada
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 532487
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
-O preço de entrega exibido na visualização de remessa (carrinho) está incorreto quando os itens são entregues programados e todos esses itens saem no mesmo SLA. Mesmo com a API devolvendo o valor correto, a IU não reflete esta informação e exibe o valor incorreto.
-
-
-##
+O preço de entrega exibido no shipping-preview (carrinho) está incorreto quando os itens têm entrega programada e todos esses itens saem no mesmo SLA. Mesmo com a API retornando o valor correto, a interface do usuário não reflete essa informação e exibe o valor incorreto.
 
 ## Simulação
 
 
-Adicione dois ou mais itens no carrinho com entrega programada, a IU mostrará um valor diferente do que a devolução API
+Se você adicionar dois ou mais itens ao carrinho com entrega programada, a interface do usuário mostrará um valor diferente do valor retornado pela API
 
 
-##
 
 ## Workaround
 

@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugEN: enabling-order-filter-by-salesperson
 ---
 
-<div class="alert alert-danger">
-Changing the filter settings, as explained in this article, involves editing the <code>checkout-instore-custom.js</code> file. This operation should only be performed by people with programming experience. Incorrect changes to this file may cause critical errors.
-</div>
+>❗ Changing the filter settings, as explained in this article, involves editing the `checkout-instore-custom.js` file. This operation should only be performed by people with programming experience. Incorrect changes to this file may cause critical errors.
 
 In inStore, you can see the list of all orders completed in a store. However, it sometimes makes sense for a salesperson to see only the orders they have personally completed. To enable this option, it is necessary to edit the file `checkout-instore-custom.js`.
 
@@ -33,8 +31,6 @@ window.INSTORE_CONFIG = {
 
 With that, the app filters orders to display only those made by the salesperson currently logged in inStore.
 
-<div class="alert alert-danger">
-Do not remove any of the other properties present in the <code>window.INSTORE_CONFIG</code> object, to avoid breaking other functionalities.
-</div>
+>❗ Do not remove any of the other properties present in the `window.INSTORE_CONFIG` object, to avoid breaking other functionalities.
 
 After reloading the datain the inStore app, by clicking on the __Reset app local data__ button, the seller will see only the orders closed by him or her.

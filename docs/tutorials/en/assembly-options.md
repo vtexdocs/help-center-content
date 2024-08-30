@@ -3,8 +3,8 @@ title: 'Assembly Options'
 id: 5x5FhNr4f5RUGDEGWzV1nH
 status: PUBLISHED
 createdAt: 2021-10-25T20:22:43.094Z
-updatedAt: 2023-03-29T17:55:49.763Z
-publishedAt: 2023-03-29T17:55:49.763Z
+updatedAt: 2024-06-06T19:38:13.881Z
+publishedAt: 2024-06-06T19:38:13.881Z
 firstPublishedAt: 2021-10-25T21:39:46.746Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,9 +15,7 @@ legacySlug: assembly-options-en
 subcategory: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-<div class="alert alert-warning">
-  <p>This feature is only available for stores developed using <a href="https://vtex.com/us-en/store-framework/">VTEX IO</a>. Before proceeding, you need to <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer">install and configure Product Customizer</a> in your store. </p>
-</div>
+>⚠️ This feature is only available for stores developed using [VTEX IO](https://vtex.com/us-en/store-framework/). Before proceeding, you need to [install and configure Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) in your store.
 
 An assembly option is an [attachment](https://help.vtex.com/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) for complex scenarios, such as product customization, in which you need to manage different product combinations, quantity, additional items, costs, and product inventory management.
 
@@ -33,9 +31,7 @@ This article will explain how to start using Assembly Options in your store.
 
 There are two ways to implement Assembly Options: using the [Assembly Options app](#app-assembly-options) or the native Catalog [Custom Product Attributes](#custom-product-attributes) interface.
 
-<div class="alert alert-warning">
-  <p>If you implement Assembly Options in a <a href="https://help.vtex.com/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w">seller account</a>, the product customization options will be displayed to your customers at checkout. If you want the options to be displayed on the product page, you need to install the app in a <a href="https://help.vtex.com/en/tutorial/what-is-a-marketplace--680lLJTnmEAmekcC0MIea8">marketplace account</a>.</p>
-</div>
+>⚠️ If you implement Assembly Options in a [seller account](https://help.vtex.com/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w), the product customization options will be displayed to your customers at checkout. If you want the options to be displayed on the product page, you need to install the app in a [marketplace account](https://help.vtex.com/en/tutorial/what-is-a-marketplace--680lLJTnmEAmekcC0MIea8).
 
 ### Assembly Options App
 

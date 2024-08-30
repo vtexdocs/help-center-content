@@ -1,10 +1,10 @@
 ---
 title: 'Activating the new VTEX CDN'
 id: 400JfRm4VGgsKgqgOw4WWA
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-10-02T23:12:05.096Z
-updatedAt: 2019-12-31T15:25:39.216Z
-publishedAt: 2019-12-31T15:25:39.216Z
+updatedAt: 2023-08-09T20:43:20.267Z
+publishedAt: 
 firstPublishedAt: 2017-10-03T02:09:58.361Z
 contentType: tutorial
 productTeam: Reliability
@@ -15,9 +15,7 @@ legacySlug: activating-new-vtex-cdn
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-<div class="alert alert-warning">
-With a commitment of constant evolution of our product, VTEX is making available to its stores a new CDN (Content Delivery Network). In this new model, <strong>all pages of the website will be delivered through this new specialized CDN</strong>, not being limited to static files.
-</div>
+>⚠️ With a commitment of constant evolution of our product, VTEX is making available to its stores a new CDN (Content Delivery Network). In this new model, **all pages of the website will be delivered through this new specialized CDN**, not being limited to static files.
 
 A Content Delivery Network focus on security, low latency and high transfer speed, working with the best technologies for this goal, including being geographically close to the client that access the virtual store.
 
@@ -36,9 +34,7 @@ Once the requirements of this article have been fulfilled, [this form](https://d
 
 ### Enable HTTPS throughout the site
 
-<div class="alert alert-info">
-One of the requirements for the new CDN is that the site be fully available on HTTPS.
-</div>
+>ℹ️ One of the requirements for the new CDN is that the site be fully available on HTTPS.
 
 That's because, with the new CDN, any HTTP page will be automatically redirected to HTTPS. But first it is important to set up your store in VTEX so that it accepts the traffic in this protocol. Otherwise, it will be redirected back to HTTP - creating a redirect loop, which will break the navigation of these pages.
 
@@ -94,9 +90,7 @@ Old pointings use addresses like:
 
 Regardless of what is the case of your store, you should upgrade to the new standard.
 
-<div class="alert alert-danger">
-<strong>Important:</strong> the old CNAME<strong> must be removed</ strong>. Having two entries in your DNS is likely to cause problems. Only the new CNAME entry should be kept.
-</div>
+>❗ **Important:** the old CNAME<strong> must be removed</ strong>. Having two entries in your DNS is likely to cause problems. Only the new CNAME entry should be kept.
 
 Do not forget to request the final activation filling the [form](https://docs.google.com/forms/d/e/1FAIpQLSdI2FBXGmlSOXEtWxrYfVveln7xOJcmYotqrKfgFgmHn771Fg/viewform).The store will only work with CNAME and HTTPS, but its completion helps us activate CDN in advance for your store, so you can enjoy the new features.
 

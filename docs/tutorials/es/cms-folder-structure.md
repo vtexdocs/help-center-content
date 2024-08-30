@@ -33,13 +33,11 @@ Estas son las carpetas que toda tienda necesita tener en el CMS para garantizar 
 
 A continuación, vea estas carpetas básicas en el CMS:
 
-![pastasObrigatorias](//images.contentful.com/alneenqid6w5/2yLeJGvd48WcA6egy2kSSC/43e22907371f954df25d5fd7e5dd116b/pastasObrigatorias.png)
+![pastasObrigatorias](https://images.contentful.com/alneenqid6w5/2yLeJGvd48WcA6egy2kSSC/43e22907371f954df25d5fd7e5dd116b/pastasObrigatorias.png)
 
 Estas carpetas vienen de forma predeterminada en el ambiente de todas las tiendas VTEX.
 
-<div class="alert alert-danger">
-  <p>Los nombres de las carpetas obligatorias no deben modificarse. Esto puede comprometer el funcionamiento normal de la tienda e impedir que se realicen las compras.</p>
-</div>
+>❗ Los nombres de las carpetas obligatorias no deben modificarse. Esto puede comprometer el funcionamiento normal de la tienda e impedir que se realicen las compras.
 
 Como las carpetas se refieren a páginas dinámicas, sus nombres no aparecen en la navegación del cliente. Es decir, el hecho de que la edición de los nombres sea vetada no afecta el texto final de sus URLs ni, por lo tanto, la internacionalización de su sitio web.
 
@@ -55,9 +53,8 @@ Estas son:
 
 Para estas dos carpetas, lo que importa es el control o placeholder que lee su contenido. Sus nombres se pueden editar libremente.
 
-<div class="alert alert-warning">>
-Como son carpetas privadas, <code>/account</code> y <code>/account/orders</code> <b>deben requerir autenticación</b>. Ver <a href="http://help.vtex.com/es/tutorial/exigir-autenticacion-en-paginas-de-la-tienda">en este artículo</a> cómo asegurarse de que están configuradas para solicitar autenticación del usuario.
-</div>
+>⚠️ >
+> Como son carpetas privadas, `/account` y `/account/orders` **deben requerir autenticación**. Ver [en este artículo](http://help.vtex.com/es/tutorial/exigir-autenticacion-en-paginas-de-la-tienda) cómo asegurarse de que están configuradas para solicitar autenticación del usuario.
 
 ## Carpetas útiles
 

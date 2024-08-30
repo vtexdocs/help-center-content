@@ -18,9 +18,7 @@ internalReference: 331188
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 Em alguns casos, o valor total da encomenda difere da soma do valor total dos produtos (adicionando também o custo de envio e possíveis descontos, se existirem). Isto acontece porque o valor apresentado para os artigos faz parte do "preço de venda", uma informação da orderForm de encomenda que perde precisão devido a razões de arredondamento.
 

@@ -3,8 +3,8 @@ title: 'Setting up payments with Yuno'
 id: h7PS0vDJJokqI9axZPNzE
 status: PUBLISHED
 createdAt: 2023-04-14T12:42:43.736Z
-updatedAt: 2023-04-14T13:21:45.782Z
-publishedAt: 2023-04-14T13:21:45.782Z
+updatedAt: 2024-01-23T21:56:16.050Z
+publishedAt: 2024-01-23T21:56:16.050Z
 firstPublishedAt: 2023-04-14T13:21:45.782Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: setting-up-payments-with-yuno
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Yuno payment provider. With this connector, your store can make sales through credit cards, bank invoice and promissories.
+At VTEX, it is possible to integrate with the Yuno payment provider. With this provider, your store can make sales through credit cards, bank invoice and notes payable.
 
-To configure Yuno affiliation, follow the steps below:
+To configure Yuno, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payments > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Gateway affiliations__ tab, click on the `+` button.
-3. Click on the __Yuno__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __Yuno__ in the search bar and click on the name of the provider.
 4. Fill in the __Application Key__, __Application Token__ and __Account ID__ fields with data provided by your account Yuno.
 5. In __Auto Capture__, select whether the payment capture will be automatic after authorization.
 6. In __Delay To Capture (in days) Default 1 day, max 7 days__, fill in the period (in days) in which the payment capture must wait to be carried out. The default value is 1 day and the maximum is 7 days.

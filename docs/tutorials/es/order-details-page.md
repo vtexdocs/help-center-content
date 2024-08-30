@@ -3,8 +3,8 @@ title: 'Página de detalles del pedido'
 id: 2Y75n54Cc9VizrlG1N6ZNl
 status: PUBLISHED
 createdAt: 2020-12-28T15:51:29.428Z
-updatedAt: 2023-03-23T19:27:38.026Z
-publishedAt: 2023-03-23T19:27:38.026Z
+updatedAt: 2023-12-21T14:06:02.509Z
+publishedAt: 2023-12-21T14:06:02.509Z
 firstPublishedAt: 2020-12-28T19:33:51.059Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,9 +15,18 @@ legacySlug: pagina-de-detalles-del-pedido-beta
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
+>ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+
 La página **Detalles del pedido** permite ver toda la información sobre un pedido y gestionarlo en un solo lugar. Para ver la página, haz clic en **Pedidos > [Todos los pedidos](https://help.vtex.com/es/tutorial/todos-los-pedidos--2QTduKHAJMFIZ3BAsi6Pi)** y selecciona un pedido de la lista.
 
-En esta página puedes:
+Puedes también buscar pedidos desde cualquier página del Admin VTEX utilizando la barra de búsqueda global en la parte superior de la página. Por defecto, la búsqueda está configurada en `Páginas`. Para buscar un pedido, haga clic en la barra, seleccione la opción `Pedidos` y utilice cualquiera de los siguientes criterios:
+
+- ID del pedido
+- Nombre del cliente
+- Email del cliente
+- Documento del cliente
+
+En la página de detalles del pedido, puedes:
 
 * Consultar en qué etapa del flujo de pedidos se encuentra el pedido (status del pedido).
 * Acceder a todo el historial de cambios del pedido.
@@ -33,9 +42,7 @@ La página **Detalles del pedido** está dividida en bloques que agrupan informa
 
 Para más información sobre el status y el flujo del pedido, consulta el artículo [Flujo y status de pedidos](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 
-<div class = "alert alert-info">
-A continuación, se detallan todas las secciones posibles de la página <b>Detalles del pedido</b>, pero ten en cuenta que solo serán visibles las secciones que se aplican al pedido en cuestión.
-</div>
+>ℹ️ A continuación, se detallan todas las secciones posibles de la página **Detalles del pedido**, pero ten en cuenta que solo serán visibles las secciones que se aplican al pedido en cuestión.
 
 ## Barra superior
 
@@ -65,9 +72,7 @@ La información general del pedido se muestra en la parte superior de la página
   - Contacto (celular e email)    
 * **Entrega/Recogida:** datos del domicilio y del destinatario para realizar el envío a través de una transportadora o para que el cliente recoja el pedido de la tienda.    
 
-<div class = "alert alert-info">
-Haz clic en el ícono <i class="fas fa-chevron-right"></i> para ampliar el bloque.
-</div>
+>ℹ️ Haz clic en el ícono <i class="fas fa-chevron-right"></i> para ampliar el bloque.
 
 ### Status del pedido
 

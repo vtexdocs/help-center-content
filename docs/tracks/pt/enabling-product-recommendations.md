@@ -56,6 +56,4 @@ window.INSTORE_CONFIG = {
 
 Salve o arquivo com a alteração, depois abra o menu do aplicativo inStore e atualize os dados, clicando no botão __Restaurar dados__. Feito isso, os vendedores não verão mais recomendações de produto.
 
-<div class="alert alert-danger">
-Não remova nenhuma das outras propriedades presentes no objeto <code>window.INSTORE_CONFIG</code>, para evitar a quebra de outras funcionalidades.
-</div>
+>❗ Não remova nenhuma das outras propriedades presentes no objeto `window.INSTORE_CONFIG`, para evitar a quebra de outras funcionalidades.

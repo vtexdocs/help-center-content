@@ -3,8 +3,8 @@ title: 'Atributo de integração da Amazônia Número de itens'
 id: 75Afw210mMY9h6dbk3AV8V
 status: PUBLISHED
 createdAt: 2022-04-07T12:18:04.361Z
-updatedAt: 2022-11-25T21:56:13.168Z
-publishedAt: 2022-11-25T21:56:13.168Z
+updatedAt: 2024-02-16T20:25:56.485Z
+publishedAt: 2024-02-16T20:25:56.485Z
 firstPublishedAt: 2022-04-07T12:18:05.650Z
 contentType: knownIssue
 productTeam: Connections
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: atributo-de-integracao-da-amazonia-numero-de-itens
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 557788
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

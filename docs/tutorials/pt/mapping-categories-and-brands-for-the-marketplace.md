@@ -53,9 +53,7 @@ Para preencher a planilha:
 4. Salve o __arquivo XLS__ da planilha.  
 5. Em *Mapear categorias*, envie a planilha atualizada pelo botão __Atualizar mapeamento de categorias__.   
 
-<div class="alert alert-info">
-Caso o programa utilizado para abrir a planilha utilize o padrão de separadores “;”, deve-se substituí-los para “,” antes de enviar o arquivo.
-</div>
+>ℹ️ Caso o programa utilizado para abrir a planilha utilize o padrão de separadores “;”, deve-se substituí-los para “,” antes de enviar o arquivo.
 
 ### Exemplo
 Neste exemplo, baixamos a planilha atual que veio com os seguintes valores em cada coluna:
@@ -74,9 +72,7 @@ Faremos o mapeamento das categorias do seller, buscando a melhor correspondênci
 | [3] Feminino\| <br>[28] Jeans                       | Jeans / Shorts            |                                    |
 | [3] Feminino\| <br>[28] Jeans                       | Jeans / Bermudas          |                                    |
 
-<div class="alert alert-info">
-Note que mais de uma categoria no catálogo do seller se encaixou na mesma categoria do marketplace (Feminino / Jeans). Nesse caso, duplique a linha correspondente em <b>Marketplace categories</b>, e cole os valores de <i>Unmapped categories</i> sent by seller em cada linha duplicada. 
-</div>
+>ℹ️ Note que mais de uma categoria no catálogo do seller se encaixou na mesma categoria do marketplace (Feminino / Jeans). Nesse caso, duplique a linha correspondente em **Marketplace categories**, e cole os valores de <i>Unmapped categories</i> sent by seller em cada linha duplicada.
 
 ## Mapeamento de marcas
 Depois que o seller completar o [envio de produtos para o Marketplace](https://help.vtex.com/pt/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), é necessário que o marketplace faça o mapeamento de marcas. A correspondência entre marcas do marketplace e as marcas do seller é feita através de uma planilha.
@@ -96,9 +92,7 @@ Você pode baixar o modelo atualizado da planilha no botão **Baixar tabela atua
 4. Salve o __arquivo XLS__ da planilha.    
 5. Em *Mapear marca*s, envie a planilha atualizada pelo botão __Atualizar mapeamento de marcas__.     
 
-<div class="alert alert-info">
-Caso o programa utilizado para abrir a planilha utilize o padrão de separadores “;”, deve-se substituí-los para “,” antes de importar o arquivo.
-</div>
+>ℹ️ Caso o programa utilizado para abrir a planilha utilize o padrão de separadores “;”, deve-se substituí-los para “,” antes de importar o arquivo.
 
 ### Exemplo
 Neste exemplo, baixamos a planilha atual que veio com os seguintes valores em cada coluna:

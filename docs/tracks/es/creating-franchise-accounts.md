@@ -24,9 +24,7 @@ Al crear cuentas franquicia, cada una de tus tiendas físicas tendrá un Admin V
 
 Tus cuentas franquicia funcionarán como [Sellers White Label](https://help.vtex.com/es/tutorial/que-son-cuenta-franquicia-y-seller-white-label--5orlGHyDHGAYciQ64oEgKa#que-es-un-seller-white-label). Esto significa que cuando se realiza un pedido por cualquier canal, ya sea VTEX Sales App o ecommerce, el sistema buscará entre todos los sellers aquel que pueda entregar con el mejor [SLA](https://help.vtex.com/es/tutorial/que-es-el-sla-de-operacion-de-la-plataforma--2cIFrsY5S8usk84OU4QOKm).
 
-<div class="alert alert-warning">
-  <p>Cada seller debe tener un nro. de registro de persona jurídica diferente para que los pagos de los pedidos funcionen correctamente.</p>
-</div>
+>⚠️ Cada seller debe tener un nro. de registro de persona jurídica diferente para que los pagos de los pedidos funcionen correctamente.
 
 La logística de cada una de las cuentas franquicia se puede gestionar en un Admin VTEX separado. Para acceder, introduce la URL `(nombre-de-la-cuenta-franquicia).myvtex.com/admin`.
 

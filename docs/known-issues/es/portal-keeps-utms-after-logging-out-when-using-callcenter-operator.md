@@ -3,8 +3,8 @@ title: "El portal mantiene las UTM's después de cerrar la sesión cuando se uti
 id: 4dogeU7iMoTXBWwv5DyR8u
 status: PUBLISHED
 createdAt: 2022-03-18T19:04:54.519Z
-updatedAt: 2022-11-25T22:10:46.942Z
-publishedAt: 2022-11-25T22:10:46.942Z
+updatedAt: 2024-02-16T20:27:34.500Z
+publishedAt: 2024-02-16T20:27:34.500Z
 firstPublishedAt: 2022-03-18T19:04:55.239Z
 contentType: knownIssue
 productTeam: Portal
@@ -18,9 +18,7 @@ internalReference: 534838
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El portal mantiene las UTM's después de cerrar la sesión cuando se utiliza Callcenter Operator.

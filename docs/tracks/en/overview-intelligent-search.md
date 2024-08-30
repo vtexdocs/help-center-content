@@ -1,10 +1,10 @@
 ---
 title: 'Intelligent Search'
 id: 3qgT47zY08biLP3d5os3DG
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-03-05T14:47:05.068Z
-updatedAt: 2023-04-13T22:52:19.619Z
-publishedAt: 2023-04-13T22:52:19.619Z
+updatedAt: 2023-08-22T17:03:02.484Z
+publishedAt: 2023-08-22T17:01:21.074Z
 firstPublishedAt: 2020-03-05T19:53:38.701Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -14,6 +14,10 @@ trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
 ---
 
+<div class="alert alert-info" role="alert"><p>
+This app is only available for stores developed using VTEX IO. Before proceeding, you need to install and configure Intelligent Search in your store.</p>
+</div>
+
 Intelligent Search is an intelligent search platform for digital commerce. It is a native VTEX platform search solution, which helps the customer throughout their shopping journey, regardless of the channel (website, mobile app, conversational, etc.).
 
 It simply and intuitively displays relevant results based on the catalog from the user's first interaction with the store through the search bar, browsing categories, or even through the window displays.
@@ -21,9 +25,8 @@ It simply and intuitively displays relevant results based on the catalog from th
 The tool also offers features such as autocomplete, displaying search and product suggestions based on the shopper's context, and filters that help when searching for the desired product.
 
 In addition, Intelligent Search uses historical click and order data to dynamically improve search and handles misspellings, plural/singular, and gender errors. Finally, its configuration makes it possible to improve the customer experience and meet the merchant's business needs.
-<div class="alert alert-info" role="alert"><p>
-This app is only available for stores developed using VTEX IO. Before proceeding, you need to install and configure Intelligent Search in your store</p>
-</div>
+
+VTEX Intelligent Search supports the following languages: Arabic, Armenian, Basque, Bengali, Brazilian Portuguese, Bulgarian, Catalan, Chinese, Czech, Danish, Dutch, Estonian, Finnish, French, Galician, German, Greek, Hindi, Hungarian, Indonesian, Irish, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Sorani, Spanish, Swedish, Thai, Turkish, and Urdu.
 
 In the articles listed below, you will find an overview of each Intelligent Search feature.
 

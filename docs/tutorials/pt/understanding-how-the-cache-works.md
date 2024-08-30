@@ -73,7 +73,7 @@ Ao clicar no request, o primeiro ao recarregar a página, localize, entre os hea
 
 Se o valor for `MISS`, significa que o conteúdo exibido não é um conteúdo cacheado e foi retornado diretamente do servidor. Mais uma informação relevante que pode ser identificada nos headers dos **requests** é a data em que o cache foi criado. Essa informação está disponível na propriedade `X-vtex-processed-at`.
 
-[]![](//images.contentful.com/alneenqid6w5/5GPSsb4UWA28QS4soyguSI/8772946997cc979ddf9c2297f2ca8bb6/cache.png)
+[]![](https://images.contentful.com/alneenqid6w5/5GPSsb4UWA28QS4soyguSI/8772946997cc979ddf9c2297f2ca8bb6/cache.png)
 
 Apesar de arquivos JavaScript e CSS também terem a duração de cache estabelecida, como esses tipos de arquivo são utilizados na formatação dos layouts e, por isso, em alguns casos, precisam ter sua atualização mais ágil, o portal possui uma inteligência que identifica alterações em seus conteúdos, rompendo com a camada de cache. 
 

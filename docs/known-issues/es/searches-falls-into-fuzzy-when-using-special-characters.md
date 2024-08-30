@@ -18,9 +18,7 @@ internalReference: 382382
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se buscan términos con caracteres especiales, como comas (`,`), apóstrofes (`'`), hashtags (`#`) y dos puntos (`:`), se desencadena un retroceso y se difumina, haciendo que los resultados de la búsqueda tengan un aspecto extraño.

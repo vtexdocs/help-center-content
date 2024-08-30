@@ -32,6 +32,4 @@ You can find both IDs through the report generated on the integration's panel on
 ![mercalo-livre-pedido-id-en](https://images.ctfassets.net/alneenqid6w5/5CZg21BumbrNw5QjimjuGt/67fefe0993b7ca80eb365428f389fd4d/mercalo-livre-pedido-id.png)
 
 
-<div class="alert alert-warning">
-This logic of operation applies to all types of delivery, except those that include pickup points. In such, the platform continues to use the old ID.
-</div>
+>⚠️ This logic of operation applies to all types of delivery, except those that include pickup points. In such, the platform continues to use the old ID.

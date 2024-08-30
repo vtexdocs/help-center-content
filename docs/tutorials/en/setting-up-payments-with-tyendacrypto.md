@@ -3,8 +3,8 @@ title: 'Setting up payments with TiendaCrypto'
 id: 7qC52v2j7q7B0YUtLnW2I9
 status: PUBLISHED
 createdAt: 2023-05-26T18:19:21.462Z
-updatedAt: 2023-05-26T22:40:14.439Z
-publishedAt: 2023-05-26T22:40:14.439Z
+updatedAt: 2024-01-24T13:32:40.359Z
+publishedAt: 2024-01-24T13:32:40.359Z
 firstPublishedAt: 2023-05-26T18:43:41.573Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: setting-up-payments-with-tyendacrypto
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the TiendaCrypto payment provider. With this connector, your store can make sales through cryptocurrencies.
+At VTEX, it is possible to integrate with the TiendaCrypto payment provider. With this provider, your store can make sales through cryptocurrencies.
 
-To configure TiendaCrypto affiliation, follow the steps below:
+To configure TiendaCrypto, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payments > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Gateway affiliations__ tab, click on the `+` button.
-3. Click on the __TiendaCrypto__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __TiendaCrypto__ in the search bar and click on the name of the provider.
 4. Click on __Authorize__. You will be redirected to the TiendaCrypto environment.
 5. In the __Payment settlement__ field, select one of the available options:
 

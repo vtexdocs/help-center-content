@@ -15,9 +15,7 @@ legacySlug: estructura-de-la-pagina-del-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-<div class = "alert alert-info">
-Sobre la nueva interfaz del Order Management System (OMS), ver el artículo <a href="https://help.vtex.com/es/tutorial/order-list-beta--2QTduKHAJMFIZ3BAsi6Pi">Lista de Pedidos (Beta)</a>.
-</div>
+>ℹ️ Sobre la nueva interfaz del Order Management System (OMS), ver el artículo [Lista de Pedidos (Beta)](https://help.vtex.com/es/tutorial/order-list-beta--2QTduKHAJMFIZ3BAsi6Pi).
 
 Para entender mejor el __Gestión de Pedidos__, vea el descriptivo de cada área del módulo responsable por la visualización y gestión de los pedidos de su tienda.
 
@@ -33,9 +31,7 @@ La barra no muestra la posición exacta de las tiendas que están en las 5 prime
 
 Para todos los datos de variaciones de pedidos, y también para los números de evolución en el ranking, el color verde indica un resultado positivo; azul, neutro; y rojo, negativo.
 
-<div class="alert alert-warning">
-Importante: si la comparación de pedidos se realiza en base a 0 pedidos en el pasado, la variación es de 0%.
-</div>
+>⚠️ Importante: si la comparación de pedidos se realiza en base a 0 pedidos en el pasado, la variación es de 0%.
 
 ![barra-status-oms es](https://images.ctfassets.net/alneenqid6w5/6fv6Fd07ra6KMOwS0ecgUm/02d1b532b5fb183d420ced0ecbb6d235/barra_de_status.png)
 

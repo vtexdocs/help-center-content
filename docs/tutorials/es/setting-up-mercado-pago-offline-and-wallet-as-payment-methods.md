@@ -41,9 +41,7 @@ Para configurar Mercado Pago Offline, siga estos pasos:
   <br>
   <li>Haga clic en el botón <b>Status</b> para activar la regra.</li>
 <br>
-<div class="alert alert-info">
-  No es necesario seleccionar el campo <strong>Proceso com la afiliación</strong>, ya que el subadquirente MercadoPagoV2 ya está configurado como afiliación por defecto para MercadoPagoOff.
-</div>
+>ℹ️ No es necesario seleccionar el campo **Proceso com la afiliación**, ya que el subadquirente MercadoPagoV2 ya está configurado como afiliación por defecto para MercadoPagoOff.
 <br>
   <li>Si opta por utilizar la función antifraude, habilite la opción <b>Usando Antifraude</b> y elija una de las opciones antifraude disponibles.</li>
   <br>

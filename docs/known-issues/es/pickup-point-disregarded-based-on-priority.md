@@ -3,8 +3,8 @@ title: 'Puntos de recogida descartados según la prioridad'
 id: 3bbsm8TELPBa0DpFtnlAGz
 status: PUBLISHED
 createdAt: 2021-09-29T14:38:08.930Z
-updatedAt: 2022-12-22T20:41:01.800Z
-publishedAt: 2022-12-22T20:41:01.800Z
+updatedAt: 2024-06-14T16:56:59.120Z
+publishedAt: 2024-06-14T16:56:59.120Z
 firstPublishedAt: 2021-09-29T14:49:34.443Z
 contentType: knownIssue
 productTeam: Post-purchase
@@ -13,7 +13,7 @@ tag: Logistics
 slug: puntos-de-recogida-descartados-segun-la-prioridad
 locale: es
 kiStatus: Backlog
-internalReference: 
+internalReference: 380545
 ---
 
 ## Sumario

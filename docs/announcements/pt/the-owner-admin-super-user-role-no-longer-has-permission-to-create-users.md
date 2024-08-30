@@ -59,9 +59,7 @@ Caso deseje que algum usuário da sua loja possa realizar as ações associadas 
 
 Chaves de aplicação com o perfil de acesso **Owner (Admin Super)** não receberão o perfil **User Administrator - RESTRICTED** automaticamente. Portanto, caso deseje que alguma chave de aplicação possa realizar as ações associadas ao recurso **Save user** citadas acima, você deverá garantir que esta chave tenha o perfil de acesso **User Administrator - RESTRICTED** ou criar um [perfil de acesso customizado](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-perfis) que inclua o recurso **Save user**.
 
-<div class="alert alert-warning">
-Note que, com as mudanças descritas acima, chaves de aplicação não têm mais o recurso <b>Save user</b>, então um usuário com este recurso deverá concedê-lo, caso seja necessário.
-</div>
+>⚠️ Note que, com as mudanças descritas acima, chaves de aplicação não têm mais o recurso **Save user**, então um usuário com este recurso deverá concedê-lo, caso seja necessário.
 
 ## Como proteger as chaves da sua loja?
 

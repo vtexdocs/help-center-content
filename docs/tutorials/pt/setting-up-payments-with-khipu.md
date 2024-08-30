@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Khipu'
 id: RcHQjURWDXa0doL15DiUj
 status: PUBLISHED
 createdAt: 2023-03-24T19:34:06.675Z
-updatedAt: 2023-03-30T14:08:54.819Z
-publishedAt: 2023-03-30T14:08:54.819Z
+updatedAt: 2024-01-24T17:53:53.676Z
+publishedAt: 2024-01-24T17:53:53.676Z
 firstPublishedAt: 2023-03-30T14:08:54.819Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-khipu
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Khipu. Com este conector, sua loja pode realizar vendas por meio de promissórias.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Khipu. Por meio deste provedor, sua loja pode realizar vendas por meio de promissórias.
 
-Para configurar a afiliação Khipu, siga os passos abaixo:
+Para configurar Khipu, siga os passos abaixo:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __Khipu__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Khipu__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta Khipu.
 5. Em __Captura Automática de Pagamento__, selecione uma das opções disponíveis:
 
@@ -49,5 +49,5 @@ Caso ainda não tenha configurado a promissória como método de pagamento em ou
 6. Se desejar, você também pode configurar [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
 7. Clique em `Salvar`.
 
-Depois de seguir os passos indicados, o conector Khipu pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 
+Depois de seguir os passos indicados, Khipu pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 
 

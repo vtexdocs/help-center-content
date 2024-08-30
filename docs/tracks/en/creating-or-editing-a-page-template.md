@@ -32,15 +32,16 @@ Check out the walk-through:
 4. Click on __HTML Templates __.
 5. Just below, click on __New template__.
 6. Fill in the __Template Name__ field.
-<div class="alert alert-danger">
-  <p>When filling in the <b>Template Name</b>, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
-  <ul>
-<li><code>a</code></li>
-<li><code>meta</code></li>
-<li><code>api</code></li>
-<li><code>admin</code></li>
-</ul></p>
-</div>
+>❗ When filling in the **Template Name**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
+>
+> *`a`
+>
+> *`meta`
+>
+> *`api`
+>
+> *`admin`
+> 
 7. Then fill in the __Template XHTML__ box with your template code. 
 ![4 1](https://images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
 9. Click on the __Save Template__ button.

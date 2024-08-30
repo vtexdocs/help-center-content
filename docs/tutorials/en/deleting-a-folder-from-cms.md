@@ -26,14 +26,16 @@ To delete a CMS folder, follow the steps below:
 3. Click the website that contains the folder you want to delete and then click the root folder (/).
 4. In the line corresponding to the folder you want to delete, click __delete__.
 
-![erroDeletarPasta2](//images.contentful.com/alneenqid6w5/5LV3bGobResaCycAs4e4oS/0644cad6454dd3d6c0beb1eb8afc1da8/erroDeletarPasta2.png)
+![erroDeletarPasta2](https://images.contentful.com/alneenqid6w5/5LV3bGobResaCycAs4e4oS/0644cad6454dd3d6c0beb1eb8afc1da8/erroDeletarPasta2.png)
 
-<div class = "alert alert-danger">
-Some folders are required. Your store will not function properly without them. Others are important, so it's not a good idea to delete them.<br><br>Understand this theme deeper by reading the article <a href="http://help.vtex.com/en/tutorial/cms-folder-structure">CMS folder structure</a>.
-</div>
+>❗ Some folders are required. Your store will not function properly without them. Others are important, so it's not a good idea to delete them.
+>
+> 
+>
+> Understand this theme deeper by reading the article [CMS folder structure](http://help.vtex.com/en/tutorial/cms-folder-structure).
 
 If a folder contains other folders, you must delete all internal folders before deleting the more external one. Otherwise, the system will return the error "Object reference not set to an instance of an object", as in the image below.
 
-![erroDeletarPasta](//images.contentful.com/alneenqid6w5/6g2MBbZJUQUQM2YQQ88MQE/9159df93c82fc1e89199aaf1922a5044/erroDeletarPasta.png)
+![erroDeletarPasta](https://images.contentful.com/alneenqid6w5/6g2MBbZJUQUQM2YQQ88MQE/9159df93c82fc1e89199aaf1922a5044/erroDeletarPasta.png)
 
 For example, if you want to delete folder A, and within it are folders A1 and A2, first delete folders A1 and A2, and then delete folder A.

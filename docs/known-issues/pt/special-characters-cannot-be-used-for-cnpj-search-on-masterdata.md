@@ -3,8 +3,8 @@ title: 'Caracteres especiais não podem ser usados para busca CNPJ em MasterData
 id: 4sgob00QXkGYPC3TjSpQeN
 status: PUBLISHED
 createdAt: 2022-06-21T15:35:26.675Z
-updatedAt: 2022-11-25T22:13:02.870Z
-publishedAt: 2022-11-25T22:13:02.870Z
+updatedAt: 2023-08-07T13:52:30.392Z
+publishedAt: 2023-08-07T13:52:30.392Z
 firstPublishedAt: 2022-06-21T15:35:27.341Z
 contentType: knownIssue
 productTeam: Storage
@@ -18,9 +18,7 @@ internalReference: 602054
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os tipos de campo CNPJ e CPF são utilizados entre várias partes da VTEX e são campos essenciais presentes também na entidade MasterData CL.

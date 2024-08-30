@@ -23,7 +23,7 @@ Os templates são as mensagens em si. As mensagens estão categorizadas conforme
 
 Entenda as informações que cada _card_ do template traz:
 
-![message center - card templates](//images.contentful.com/alneenqid6w5/4Npky1GjAs2OsoQ6oG6a8/c001d59b1eeca31d0342e52d79c58a3f/message-center-card-templates.png)
+![message center - card templates](https://images.contentful.com/alneenqid6w5/4Npky1GjAs2OsoQ6oG6a8/c001d59b1eeca31d0342e52d79c58a3f/message-center-card-templates.png)
 
 - Nome do template, para identificação interna (não se trata do assunto do e-mail enviado).
 - Aplicação/módulo ao qual ele pertence (em verde).
@@ -41,7 +41,7 @@ Depois de entender o básico sobre os templates, você já pode ver como editá-
 
 O remetente é quem envia a mensagem, mas neste caso trazendo também o cadastro do nome e e-mail que será exibido ao cliente, e configurações do servidor de envio (SMTP).
 
-![message center - card remetentes](//images.contentful.com/alneenqid6w5/4Vx2zuCo3YmowCmMe6IAuQ/9d9442495a9218586ed7cc85c76f6189/message-center-card-remetentes.png)
+![message center - card remetentes](https://images.contentful.com/alneenqid6w5/4Vx2zuCo3YmowCmMe6IAuQ/9d9442495a9218586ed7cc85c76f6189/message-center-card-remetentes.png)
 
 - Nome do remetente, para identificação interna.
 - Tipo de servidor SMTP, que pode ser da VTEX ou da própria loja.

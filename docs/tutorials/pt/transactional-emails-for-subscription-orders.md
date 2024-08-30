@@ -3,8 +3,8 @@ title: 'E-mails Transacionais para pedidos de Assinatura'
 id: 2NYHqHMRqZ43Cn6s84ZCB5
 status: PUBLISHED
 createdAt: 2020-02-11T15:13:38.504Z
-updatedAt: 2021-11-30T18:14:37.654Z
-publishedAt: 2021-11-30T18:14:37.654Z
+updatedAt: 2023-12-21T14:14:10.536Z
+publishedAt: 2023-12-21T14:14:10.536Z
 firstPublishedAt: 2020-02-17T21:15:14.903Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -27,6 +27,8 @@ Para acessar os e-mails transacionais para pedidos de Assinatura, confira o pass
 Também é possível criar seu próprio template de e-mail. Entenda melhor como [configurar os templates de e-mails transacionais na plataforma VTEX.](https://help.vtex.com/pt/tutorial/conhecendo-o-message-center/)
 
 ## Como seu cliente acompanha seus Pedidos de Assinatura
+
+>ℹ️ Em [Minha Conta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
 
 Cada ação, ocorrida dentro do fluxo de pedidos de Assinatura, contém um gatilho que dispara um e-mail notificando o seu cliente. Após a ativação da Assinatura, seu cliente receberá e-mails com detalhes do estado de cada pedido da assinatura toda vez que realizar uma ação. 
 

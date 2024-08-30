@@ -3,8 +3,8 @@ title: 'Transações com o conector TNSPay sendo negadas por erro: Cartão não 
 id: 2jZefzH8LYqPJxkmylmyA0
 status: PUBLISHED
 createdAt: 2022-03-14T13:21:56.187Z
-updatedAt: 2023-04-10T16:10:48.998Z
-publishedAt: 2023-04-10T16:10:48.998Z
+updatedAt: 2024-02-16T20:24:33.195Z
+publishedAt: 2024-02-16T20:24:33.195Z
 firstPublishedAt: 2022-03-14T13:21:56.952Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transacoes-com-o-conector-tnspay-sendo-negadas-por-erro-cartao-nao-proibido-em-3ds
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 541687
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O padrão é que eles são cancelados e enviamos dois Pedidos de Autorização 3D, e você ainda não recebeu a resposta do Pedido de Autorização.

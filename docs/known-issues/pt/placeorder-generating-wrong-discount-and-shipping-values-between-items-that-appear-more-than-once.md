@@ -18,9 +18,7 @@ internalReference: 732529
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o pedido de criação do pedido declara o mesmo item mais de uma vez, exigido para declarar preços diferentes ou valores de desconto entre as múltiplas unidades do item, o serviço de checkout somará todas as quantidades em um único item e aplicará apenas as condições do primeiro item em todos eles. Isso gerará um preço/desconto total errado e até mesmo o envio.

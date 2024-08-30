@@ -3,8 +3,8 @@ title: 'Printing an order summary'
 id: 5UeqJA3sHp5goJacvHwPoS
 status: PUBLISHED
 createdAt: 2021-08-05T14:40:53.752Z
-updatedAt: 2023-05-31T15:23:48.750Z
-publishedAt: 2023-05-31T15:23:48.750Z
+updatedAt: 2023-07-26T19:01:33.402Z
+publishedAt: 2023-07-26T19:01:33.402Z
 firstPublishedAt: 2021-08-05T14:47:18.680Z
 contentType: trackArticle
 productTeam: Shopping
@@ -38,9 +38,7 @@ To pair VTEX Sales App with a printer, the following prerequisites must be met:
 * Having VTEX Sales App installed on your computer. If you do not have it, you must install the app by following our [Installation](https://help.vtex.com/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr/2rPSJ8519UCCZo5uEBkqxh) guide.
 * Obtaining a pair of credentials (AppKey and AppToken) with the corresponding access permissions. For more information, please refer to the article [Application keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet).
 
-<div class="alert alert-info">
-<p>We recommend that the access profile associated with these credentials be the <strong>VTEX Sales App Sales Person</strong>. However, you can also use a profile with access to other Admin modules, such as <strong>Super Admin</strong>.</p>
-</div>
+>ℹ️ We recommend that the access profile associated with these credentials be the **VTEX Sales App Sales Person**. However, you can also use a profile with access to other Admin modules, such as **Super Admin**.
 
 ### Step-by-step instructions
 

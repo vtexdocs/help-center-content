@@ -1,10 +1,10 @@
 ---
 title: 'Visión General Catálogo'
 id: FFrumKPYFpvIWKRXfhQYp
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-03-28T17:25:52.296Z
-updatedAt: 2023-03-28T17:31:02.205Z
-publishedAt: 2023-03-28T17:31:02.205Z
+updatedAt: 2024-03-14T16:38:37.477Z
+publishedAt: 
 firstPublishedAt: 2023-03-28T17:31:02.205Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -23,8 +23,6 @@ El menú **Catálogo** contiene las funcionalidades relativas al surtido de prod
 - **Especificaciones:** propiedades registradas en un producto para definir las características específicas de las variaciones.  
 
 El menú **Catálogo** de tu Admin actualizado reúne las páginas donde gestionas tu catálogo, los precios y el stock de tu *ecommerce*.
-
-![visao-geral-produto-ES](https://images.ctfassets.net/alneenqid6w5/6hg7IQ4sv6sphRtywSsDMQ/ad397a99b3db19ea9187ef5667577a26/image.png)
 
 A continuación, encontrarás más detalles sobre las diferentes secciones y páginas de este menú.
 

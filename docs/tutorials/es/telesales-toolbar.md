@@ -3,8 +3,8 @@ title: 'Barra de herramientas de televentas'
 id: tutorials_5500
 status: PUBLISHED
 createdAt: 2017-04-27T21:48:31.368Z
-updatedAt: 2023-03-29T19:50:13.858Z
-publishedAt: 2023-03-29T19:50:13.858Z
+updatedAt: 2023-12-07T15:29:46.537Z
+publishedAt: 2023-12-07T15:29:46.537Z
 firstPublishedAt: 2017-04-27T23:11:19.311Z
 contentType: tutorial
 productTeam: Shopping
@@ -29,9 +29,7 @@ Para habilitar la barra de herramientas de televentas, el administrador de la ti
 
 Para saber cómo personalizar la apariencia de la barra de herramientas en el módulo CMS, consulte el artículo [Personalizar la barra de herramientas de televentas](https://help.vtex.com/es/tutorial/customizar-a-toolbar-de-televendas--1XEz1zqO3KyIuwC4asUsOg).
 
-<div class="alert alert-warning">
-<p>Para las tiendas desarrolladas en <a href="https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io">VTEX IO</a>, se necesita configurar la aplicación <strong>VTEX Telemarketing</strong> para habilitar y personalizar la barra de herramientas de televentas. Para saber más sobre este proceso, acceda a la guía <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-telemarketing">VTEX Telemarketing</a>.</p>
-</div>
+>⚠️ Para las tiendas desarrolladas en [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), se necesita configurar la aplicación **VTEX Telemarketing** para habilitar y personalizar la barra de herramientas de televentas. Para saber más sobre este proceso, acceda a la guía [VTEX Telemarketing](https://developers.vtex.com/vtex-developer-docs/docs/vtex-telemarketing).
 
 ## Entrar como cliente
 
@@ -57,7 +55,8 @@ Al hacer clic en el nombre del cliente, el operador puede ver la siguiente infor
 
 ## Artículos relacionados
 
-*   [Roles de usuario - televentas](https://help.vtex.com/es/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227)
+*   [Roles de usuario predefinidos - Call center operator](https://help.vtex.com/es/tutorial/roles-de-usuario-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator)
+*   [Crear usuario de televentas](https://help.vtex.com/es/tutorial/como-creo-un-usuario-de-televentas--frequentlyAskedQuestions_4227)
 *   [Personalizar la barra de herramientas de televentas](https://help.vtex.com/es/tutorial/customizar-a-toolbar-de-televendas--1XEz1zqO3KyIuwC4asUsOg)
 *   [Pedidos](https://help.vtex.com/es/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#pedidos)
 *   [Funcionalidades de televentas](https://help.vtex.com/es/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS)

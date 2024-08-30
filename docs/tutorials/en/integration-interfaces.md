@@ -19,7 +19,7 @@ Integration with an ERP system enables control of your inventory regarding order
 
 On the VTEX system, you will be able to integrate your ERP through several interfaces: __API REST__ (JSON language) and __WebService__ (SOAP – XML language) – which is already out of use.
 
-![ERP-VTEX-Integration](//images.contentful.com/alneenqid6w5/2wnH4XIbPmqqkCIKGMywo/aacb3904d7c7af2dbee7a182459d9203/ERP-VTEX-Integration.png)
+![ERP-VTEX-Integration](https://images.contentful.com/alneenqid6w5/2wnH4XIbPmqqkCIKGMywo/aacb3904d7c7af2dbee7a182459d9203/ERP-VTEX-Integration.png)
 
 In addition to ERP, for the transmission to occur, there must be a system in place to support the communication between ERP and VTEX. This system is named as “__Integrator__”. In general, ERP develops its own integrator, but it may also be developed by the store itself, or by an agency contracted by the store.
 
@@ -46,9 +46,7 @@ See below the documentation required to help start integration through the API R
 
 ### Web Service
 
-<div class="alert alert-warning">
-The use of the VTEX Web Service in integration processes should be avoided as much as possible.
-</div>
+>⚠️ The use of the VTEX Web Service in integration processes should be avoided as much as possible.
 
 Except for the Catalog (Categories, Brands, Products and SKUs), whose API REST is being developed, all other VTEX modules have well defined and high performance API RESTs.
 

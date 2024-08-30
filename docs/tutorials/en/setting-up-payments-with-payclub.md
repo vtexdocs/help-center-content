@@ -1,10 +1,10 @@
 ---
 title: 'Setting up payments with PayClub'
 id: 3C3bDia3Tyq48MOuMomcUW
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-03T13:12:17.337Z
-updatedAt: 2023-03-28T00:07:06.076Z
-publishedAt: 2023-03-28T00:07:06.076Z
+updatedAt: 2024-03-18T19:14:09.539Z
+publishedAt: 
 firstPublishedAt: 2018-04-03T15:07:32.416Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: en
 legacySlug: setting-up-payments-with-payclub
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+>❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
 
 You can configure PayClub [sub-acquirer](/en/tutorial/what-is-a-sub-acquirer) to receive payments at your store. With it, your client chooses the __payment method__ PayClub and performs the authentication in the external environment of the payment solution.
 

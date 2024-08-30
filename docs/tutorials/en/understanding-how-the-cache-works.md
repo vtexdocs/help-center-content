@@ -71,7 +71,7 @@ When you click on the request, upon the first page reload, find among the header
 
 If the value is “MISS”, it means that the content is not cached but was returned directly by the server. Another important detail that can be found from the **request** headers is the date when the cache was created. This is shown in the property `X-vtex-processed-at`.
 
-![](//images.contentful.com/alneenqid6w5/5GPSsb4UWA28QS4soyguSI/8772946997cc979ddf9c2297f2ca8bb6/cache.png)
+![](https://images.contentful.com/alneenqid6w5/5GPSsb4UWA28QS4soyguSI/8772946997cc979ddf9c2297f2ca8bb6/cache.png)
 
 JavaScript and CSS files also have a fixed cache duration, but as they are used in formatting layouts and thus sometimes need to work more quickly, the portal is able to identify changes in their content, and break through the cache layer. 
 

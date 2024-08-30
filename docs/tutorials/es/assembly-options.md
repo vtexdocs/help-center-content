@@ -3,8 +3,8 @@ title: 'Assembly Options'
 id: 5x5FhNr4f5RUGDEGWzV1nH
 status: PUBLISHED
 createdAt: 2021-10-25T20:22:43.094Z
-updatedAt: 2023-03-29T17:55:49.763Z
-publishedAt: 2023-03-29T17:55:49.763Z
+updatedAt: 2024-06-06T19:38:13.881Z
+publishedAt: 2024-06-06T19:38:13.881Z
 firstPublishedAt: 2021-10-25T21:39:46.746Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,9 +15,7 @@ legacySlug: assembly-options-es
 subcategory: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-<div class="alert alert-warning">
-  <p>Esta funcionalidad solo está disponible para las tiendas desarrolladas con <a href="https://vtex.com/es-es/store-framework/">VTEX IO</a>. Antes de seguir, debes <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer">instalar y configurar el Product Customizer</a> en tu tienda.</p>
-</div>
+>⚠️ Esta funcionalidad solo está disponible para las tiendas desarrolladas con [VTEX IO](https://vtex.com/es-es/store-framework/). Antes de seguir, debes [instalar y configurar el Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) en tu tienda.
 
 Una assembly option es un [anexo](https://help.vtex.com/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm) para escenarios complejos, como la personalización de productos en las que es necesario controlar diferentes combinaciones de productos, la cantidad, ítems adicionales, costes y la gestión de stock.
 
@@ -33,9 +31,7 @@ En este artículo, explicamos cómo empezar a utilizar las opciones de ensamblaj
 
 Hay dos formas de implementar las opciones de ensamblaje: utilizando la [aplicación Assembly Options](#aplicacion-assembly-options) o la interfaz nativa de [Campos personalizados](#campos-personalizados) del __Catálogo__.
 
-<div class="alert alert-warning">
-  <p>Al implementar las opciones de ensamblaje en una <a href="https://help.vtex.com/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w">cuenta de seller</a>, las opciones de personalización del producto se mostrarán a los clientes de tu tienda en el checkout. Para que las opciones se muestren en la página del producto, debes implementar la funcionalidad en una <a href="https://help.vtex.com/es/tutorial/que-es-un-marketplace--680lLJTnmEAmekcC0MIea8">cuenta de marketplace</a>.</p>
-</div>
+>⚠️ Al implementar las opciones de ensamblaje en una [cuenta de seller](https://help.vtex.com/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w), las opciones de personalización del producto se mostrarán a los clientes de tu tienda en el checkout. Para que las opciones se muestren en la página del producto, debes implementar la funcionalidad en una [cuenta de marketplace](https://help.vtex.com/es/tutorial/que-es-un-marketplace--680lLJTnmEAmekcC0MIea8).
 
 ### Aplicación Assembly Options
 

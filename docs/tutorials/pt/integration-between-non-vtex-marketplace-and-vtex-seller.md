@@ -15,9 +15,7 @@ legacySlug: integracao-entre-marketplace-nao-vtex-e-seller-vtex-acoes-referentes
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-<div class="alert alert-warning">
-Confira a versão atualizada desse <a href="https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide">guia de integração com marketplace</a> em nosso Developer Portal. 
-</div> 
+>⚠️ Confira a versão atualizada desse [guia de integração com marketplace](https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide) em nosso Developer Portal. 
 
 O passo final para integrar um Marketplace não VTEX a um Seller VTEX é permitir a comunicação com o Seller sobre __pedidos__ feitos no Marketplace.
 
@@ -478,9 +476,13 @@ Endpoint: `https://{AccountName}.vtexcommercestable.com.br/api/fulfillment/pvt/o
 
 ## Marketplace Services Endpoint
 
-<div class="alert alert-info">
-  O <strong>Marketplace Services Endpoint</strong> é um endpoint que deve ser criado pelo Marketplace, com o objetivo de receber três informações diferentes enviadas pelo Seller:<br>- Nota Fiscal<br>- Código de rastreamento da transportadora (se houver)<br>- Solicitação de cancelamento (se acontecer)
-</div>
+>ℹ️ O **Marketplace Services Endpoint** é um endpoint que deve ser criado pelo Marketplace, com o objetivo de receber três informações diferentes enviadas pelo Seller:
+>
+> - Nota Fiscal
+>
+> - Código de rastreamento da transportadora (se houver)
+>
+> - Solicitação de cancelamento (se acontecer)
 
 Para os três próximos passos da integração, o Marketplace precisa:
 1. Implementar esse endpoint do seu lado, preparando-o para receber um payload como o do exemplo abaixo.
@@ -565,9 +567,7 @@ O Seller envia o código e a URL de rastreamento para o __Marketplace Services E
 
 Para receber o código de rastreamento, o endpoint final esperado deve ser: `https://{marketplaceServicesEndpoint}/pvt/orders/{marketplaceOrderId}/invoice`
 
-<div class="alert alert-info">
-Embora a rota para recebimento do código de rastreamento seja a mesma onde o Marketplace recebe a Nota Fiscal (<code>.../invoice</code>), esses dois processos acontecem em duas etapas. Ou seja, numa primeira chamada o Seller envia os dados da Nota Fiscal; e numa segunda chamada envia os dados de rastreamento.
-</div>
+>ℹ️ Embora a rota para recebimento do código de rastreamento seja a mesma onde o Marketplace recebe a Nota Fiscal (`.../invoice`), esses dois processos acontecem em duas etapas. Ou seja, numa primeira chamada o Seller envia os dados da Nota Fiscal; e numa segunda chamada envia os dados de rastreamento.
 
 ## 6) Receber solicitação de cancelamento - Seller chama endpoint do Marketplace (Marketplace Services Endpoint)
 

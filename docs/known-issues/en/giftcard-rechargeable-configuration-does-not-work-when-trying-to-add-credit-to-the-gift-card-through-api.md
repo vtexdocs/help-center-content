@@ -3,8 +3,8 @@ title: 'Giftcard Rechargeable configuration does not work when trying to add cre
 id: 3MXPd85Km51KpO4FNPqlDf
 status: PUBLISHED
 createdAt: 2022-05-23T14:21:10.608Z
-updatedAt: 2022-11-25T22:05:59.003Z
-publishedAt: 2022-11-25T22:05:59.003Z
+updatedAt: 2024-02-16T20:25:54.496Z
+publishedAt: 2024-02-16T20:25:54.496Z
 firstPublishedAt: 2022-05-23T14:21:11.126Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: giftcard-rechargeable-configuration-does-not-work-when-trying-to-add-credit-to-the-gift-card-through-api
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 583669
 ---
 

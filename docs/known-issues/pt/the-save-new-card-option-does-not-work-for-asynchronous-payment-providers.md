@@ -1,50 +1,44 @@
 ---
-title: 'A opção "Salvar novo cartão" não funciona para provedores assíncronos de pagamento'
+title: "A opção 'Salvar novo cartão' não funciona para provedores de pagamento assíncronos"
 id: 3B4gVSNrSeCc8EBXwk5sAu
 status: PUBLISHED
 createdAt: 2022-03-11T17:54:35.664Z
-updatedAt: 2022-11-25T22:06:23.711Z
-publishedAt: 2022-11-25T22:06:23.711Z
+updatedAt: 2024-04-29T17:58:58.889Z
+publishedAt: 2024-04-29T17:58:58.889Z
 firstPublishedAt: 2022-03-11T17:54:36.273Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: a-opcao-salvar-novo-cartao-nao-funciona-para-provedores-assincronos-de-pagamento
+slug: a-opcao-salvar-novo-cartao-nao-funciona-para-provedores-de-pagamento-assincronos
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 308892
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
-Quando o cliente tenta adicionar um novo cartão na seção Minha conta das lojas cujas afiliações não retornam uma resposta síncrona, o sistema retornará _um erro ocorrido ao tentar registrar o cartão_ e uma cobrança indevida de R$1,50 poderá ser gerada.
+Quando o cliente tenta adicionar um novo cartão na seção Minha conta de lojas cujas afiliações não retornam uma resposta síncrona, o sistema retorna _ocorreu um erro ao tentar registrar o cartão_ e uma cobrança indevida de R$ 1,50 pode ser gerada.
 
-Este erro ocorre porque Meus Cartões esperam por uma resposta síncrona dos compradores de cartões de crédito e a maioria deles não retorna uma resposta imediata.
-
-
+Esse erro ocorre porque a My Cards aguarda uma resposta síncrona das adquirentes de cartão de crédito e a maioria delas não retorna uma resposta imediata.
 
 ## Simulação
 
 
 
-1. Ir para a VTEX **Admin.**
+1. Acesse o VTEX **Admin.**
 2. Configure o adquirente Mundi.
-3. Configurar um método de pagamento com cartão de crédito - como Mastercard, Visa, American Express, etc. - para ser processado pelo adquirente.
-4. Ir para a home page de sua loja.
-5. Faça o login digitando seu endereço de e-mail e senha.
-6. Clique em **Minha conta***.
-7. Vá para a seção **Cartões de crédito***.
-8. Clique em **Adicionar novo cartão**.
-9. Preencha todos os campos e clique em **Salvar novo cartão***.
-10. Este processo devolverá um erro e o cliente será cobrado o valor de R$ 1,50, que pode ou não ser devolvido automaticamente mais tarde.
-
-
+3. Configure um método de pagamento com cartão de crédito - como Mastercard, Visa, American Express, etc. - a ser processado pelo adquirente.
+4. Vá para a página inicial de sua loja.
+5. Faça login inserindo seu endereço de e-mail e senha.
+6. Clique em **My account**.
+7. Vá para a seção **Cartões de crédito**.
+8. Clique em **Add new card**.
+9. Preencha todos os campos e clique em **Salvar novo cartão**.
+10. Esse processo retornará um erro e será cobrado do cliente o valor de R$ 1,50, que poderá ou não ser devolvido automaticamente mais tarde
 
 ## Workaround
 

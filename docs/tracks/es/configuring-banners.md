@@ -3,8 +3,8 @@ title: 'Configurar Banners'
 id: 4ViKEivLJtJsvpaW0aqIQ5
 status: PUBLISHED
 createdAt: 2019-11-27T16:34:24.404Z
-updatedAt: 2023-03-30T21:35:08.898Z
-publishedAt: 2023-03-30T21:35:08.898Z
+updatedAt: 2024-01-30T21:59:49.330Z
+publishedAt: 2024-01-30T21:59:49.330Z
 firstPublishedAt: 2020-03-05T19:58:30.009Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -24,9 +24,7 @@ Para configurar un banner, sigue estos pasos:
 
 Después de configurar el banner, debes agregarlo a una página de tu tienda. Para ello, sigue los pasos del artículo [Banner](https://developers.vtex.com/vtex-developer-docs/docs/vtex-search-banner).
 
-<div class="alert alert-info">
-<p> Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo <a href="https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracion-multidioma-beta--2WahlTESLXIJ9XBdQMdTYO#banners">VTEX Intelligent Search: configuración Multidioma (Beta)</a>para saber más.</p>
-</div>
+>ℹ️ Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo [VTEX Intelligent Search: configuración Multidioma (Beta)](https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracion-multidioma-beta--2WahlTESLXIJ9XBdQMdTYO#banners)para saber más.
 
 ![banner-form-es](https://images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/ae3e6e5ffd311ad1c25e3cd7104bc874/image.png)
 
@@ -51,6 +49,7 @@ Para registrar el banner, debes rellenar los siguientes campos:
 * **Hora de inicio:** hora en la que el banner comenzará a estar disponible.
 * **Fecha de fin:** fecha en la que el banner dejará de estar disponible. Esto permite al administrador programar futuras campañas, lo que facilita su control.
 * **Hora de fin:** hora en la que el banner dejará de estar disponible.
+* **Idiomas:** idiomas en los que se aplicará el banner. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
 
 ### Reglas de activación
 

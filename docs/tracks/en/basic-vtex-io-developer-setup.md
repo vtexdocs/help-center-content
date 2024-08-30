@@ -40,9 +40,7 @@ When you are logged in, you can use the `vtex whoami` command to find out which 
 
 ![Command Line](https://images.ctfassets.net/alneenqid6w5/31AVvcWcRpL1CoKdUyARyu/9ea4d722d8955bb580a76402507e4013/Command_Line.svg)
 
-<div class="alert alert-info">
-PROTIP: You can configure your terminal to display your current account and workspace automatically. The easiest way to do it is to use our <a href="https://github.com/vtex/dotfiles">dotfiles</a>, which automatically configure <a href="https://fishshell.com/">Fish Shell</a> and add a <a href="https://github.com/vtex/dotfiles/blob/master/fish/functions/fish_prompt.fish">prompt function</a> for you.
-</div>
+>ℹ️ PROTIP: You can configure your terminal to display your current account and workspace automatically. The easiest way to do it is to use our [dotfiles](https://github.com/vtex/dotfiles), which automatically configure [Fish Shell](https://fishshell.com/) and add a [prompt function](https://github.com/vtex/dotfiles/blob/master/fish/functions/fish_prompt.fish) for you.
 
 ## Workspaces: your isolated development environment
 
@@ -66,9 +64,7 @@ $ vtex use yourname
 
 This switches your toolbelt to a workspace called `yourname`, and creates it if it doesn’t exist. 
 
-<div class="alert alert-info">
-TIP: You can switch to <em>and reset</em> a workspace to master in a single command with the <code>-r</code> flag. This is useful if you want to start fresh from <code>master</code>.
-</div>
+>ℹ️ TIP: You can switch to *and reset* a workspace to master in a single command with the `-r` flag. This is useful if you want to start fresh from `master`.
 
 Workspaces can be named arbitrarily, but we find it’s usually convenient to name it after yourself when you want to develop something in your own environment.
 

@@ -3,8 +3,8 @@ title: 'Amazon integration stock reservations for KITS'
 id: 6ZEvHuGCOEcuQTya1oDOyu
 status: PUBLISHED
 createdAt: 2023-05-22T14:28:54.846Z
-updatedAt: 2023-05-22T14:28:55.337Z
-publishedAt: 2023-05-22T14:28:55.337Z
+updatedAt: 2023-09-27T14:37:26.343Z
+publishedAt: 2023-09-27T14:37:26.343Z
 firstPublishedAt: 2023-05-22T14:28:55.337Z
 contentType: knownIssue
 productTeam: Connections
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: amazon-integration-stock-reservations-for-kits
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 829583
 ---
 

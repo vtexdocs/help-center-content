@@ -3,8 +3,8 @@ title: 'Omnichannel'
 id: 2LGAiUnHES1enjHsfi8fI3
 status: PUBLISHED
 createdAt: 2020-06-30T20:38:48.297Z
-updatedAt: 2023-05-31T14:45:20.583Z
-publishedAt: 2023-05-31T14:45:20.583Z
+updatedAt: 2023-07-26T18:50:02.780Z
+publishedAt: 2023-07-26T18:50:02.780Z
 firstPublishedAt: 2020-06-30T20:45:00.959Z
 contentType: trackArticle
 productTeam: Shopping
@@ -22,7 +22,7 @@ En una arquitectura __multicanal__, cada canal se comunica independientemente co
 
 En una arquitectura __omnichannel__, los datos del cliente se comparten entre los canales de la tienda. Esto significa que cuando el cliente que ya ha interactuado con la tienda interactúa a través de un nuevo canal, la tienda sabe quién es ese cliente, cuál es su historial de pedidos, su perfil de compra, etc.
 
-En el omnichannel, sin embargo, los pedidos aún se procesan de forma aislada. Aunque hay intercambio de datos, los pedidos que tienen lugar en el e-commerce viven solamente en el e-commerce, los que tienen lugar en la tienda física viven solamente en la tienda física, y así sucesivamente. Un pedido realizado en un canal no se puede completar en otro, por ejemplo.
+En el omnichannel, sin embargo, los pedidos aún se procesan de forma aislada. Aunque hay intercambio de datos, los pedidos que tienen lugar en el ecommerce viven solamente en el ecommerce, los que tienen lugar en la tienda física viven solamente en la tienda física, y así sucesivamente. Un pedido realizado en un canal no se puede completar en otro, por ejemplo.
 
 El __Comercio Unificado__ resuleve ese problema.
 
@@ -33,7 +33,7 @@ El Comercio Unificado es una evolución del omnichannel: además del intercambio
 A continuación se presentan algunos de los escenarios posibles gracias al Comercio Unificado:
 - __Pasillo Infinito__: el cliente compra en un canal (en una tienda física, por ejemplo) y recibe del stock de otra tienda o del Centro de Distribución principal.
 - __Transacción con carrito mixto__: el cliente compra en una tienda física, retira uno de los productos en el acto y recibe el otro en casa desde otro stock.
-- __Retirada en tienda__: el cliente compra en el e-commerce y retira los productos en una tienda física.
+- __Retirada en tienda__: el cliente compra en el ecommerce y retira los productos en una tienda física.
 
 En VTEX, estos y varios otros escenarios son posibles porque el catálogo es accesible para todos los canales y el Sistema de Gestión de Pedidos organiza todos los pedidos, ya sea online o offline.
 

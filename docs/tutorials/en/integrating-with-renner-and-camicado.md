@@ -1,10 +1,10 @@
 ---
 title: 'Integrating with Renner and Camicado'
 id: 5qf2wloosKlmIB8o2AitnT
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-07-02T19:25:31.689Z
-updatedAt: 2022-12-15T20:40:16.364Z
-publishedAt: 2022-12-15T20:38:45.121Z
+updatedAt: 2023-08-25T18:50:55.909Z
+publishedAt: 2023-08-25T18:50:55.909Z
 firstPublishedAt: 2021-07-02T21:07:36.096Z
 contentType: tutorial
 productTeam: Channels

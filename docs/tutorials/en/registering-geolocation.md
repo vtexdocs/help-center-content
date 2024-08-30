@@ -3,8 +3,8 @@ title: 'Registering geolocation'
 id: tutorials_138
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:36.462Z
-updatedAt: 2023-03-29T13:25:16.724Z
-publishedAt: 2023-03-29T13:25:16.724Z
+updatedAt: 2023-08-25T14:52:20.340Z
+publishedAt: 2023-08-25T14:52:20.340Z
 firstPublishedAt: 2017-04-27T23:00:44.871Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -32,6 +32,8 @@ Access the [Generate your polygons with geojson.io](http://geojson.io/#map=2/20.
 
 This JSON will be used to add the polygon to the platform, that will translate that language to understand which Zip Codes are included in your area.
 
+>❗ When generating a polygon, it is not possible to delimit overlapping areas, meaning it is not possible to overlap geographic coordinates.
+
 ## How to add a polygon
 
 When adding a polygon, name it in a way it can be identified later on the freight spreadsheet, enabling consultation by Zip Code.
@@ -56,8 +58,7 @@ Example:
 
 Done! Now just use this same ID in the freight spreadsheet, at the **PolygonName** column. 
 
-<div class="alert alert-warning">It's important to pay attention to the filling, because this time the carrier will not use the <strong>ZipCodeStart</strong> and <strong>ZipCodeStart</strong> columns, which should be left blank.
-</div>
+>⚠️ It's important to pay attention to the filling, because this time the carrier will not use the **ZipCodeStart** and **ZipCodeStart** columns, which should be left blank.
 
 On the [Checkout tab](https://help.vtex.com/en/tutorial/geolocalizacao-no-checkout/) at **Store Settings > Storefront > Checkout**, the API Key field must be filled in with the same key that was used to enable geolocation.
 
@@ -82,5 +83,4 @@ If you need to change some delivery area of a polygon that already exists, you c
 
 Here the process is even simpler, because you don't need to change any information on the freight spreadsheet, since the system performs the search by ID.
 
-<div class = "alert alert-warning"> If the carrier and freight worksheet were created before registering the Polygon, we recommend that you edit the carrier that has a link with this Polygon to update the relationship. With this after Creating or Modifying a Polygon, open the carrier and click Save, just to raise awareness of an update.
-</div>
+>⚠️ If the carrier and freight worksheet were created before registering the Polygon, we recommend that you edit the carrier that has a link with this Polygon to update the relationship. With this after Creating or Modifying a Polygon, open the carrier and click Save, just to raise awareness of an update.

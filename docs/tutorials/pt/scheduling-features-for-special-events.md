@@ -59,9 +59,7 @@ Assim como na promoção, o agendamento de taxas é feito durante a sua criaçã
 
 O agendamento de conteúdo pelo Site Editor pode ser feito tanto pela [criação](https://help.vtex.com/pt/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#criando-conteudo) quanto pela [edição](https://help.vtex.com/pt/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#editando-conteudo) de bloco. 
 
-<div class="alert alert-warning">
-  <p>O agendamento de conteúdo está disponível apenas para lojas desenvolvidas usando <a href="https://vtex.com/br-pt/store-framework/">VTEX IO</a>.</p>
-</div>
+>⚠️ O agendamento de conteúdo está disponível apenas para lojas desenvolvidas usando [VTEX IO](https://vtex.com/br-pt/store-framework/).
 
 Para agendar um conteúdo da sua loja, siga os passos abaixo:
 

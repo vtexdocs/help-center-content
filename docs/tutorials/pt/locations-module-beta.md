@@ -15,9 +15,7 @@ legacySlug: modulo-localidades
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 As localidades são pontos físicos envolvidos no processo de [fulfillment](https://help.vtex.com/pt/tutorial/fulfillment-logistics-vtex--53udnvI5eBy8DKo8FOjMoP) de pedidos e englobam etapas como coleta, empacotamento, emissão de faturas, entre outros. Alguns exemplos de localidades são lojas físicas e centros de distribuição.
 
@@ -82,9 +80,7 @@ Para realizar a primeira etapa de **Configurações básicas**, siga os passos a
 4. Em **Identificação**, determine o nome da localidade sendo criada. Este nome é visível somente no seu Admin VTEX.
 5. Em **Seller**, selecione um seller para associar à localidade. O seller é quem possui os produtos sendo vendidos.
 
-  <div class="alert alert-warning">
-Cada localidade pode ser associada a um único seller.
-</div>
+  >⚠️ Cada localidade pode ser associada a um único seller.
 
 6. Em **Endereço**, defina o local físico onde se situa a localidade.
 7. Clique no botão `Próximo`.
@@ -97,18 +93,14 @@ Para realizar esta etapa, siga os passos abaixo:
 
 1. Em **Gostaria de configurar uma capacidade?**, clique em umas das alternativas:</br><p><ul><li><b>Configurar:</b> a localidade tem um limite na capacidade de receber pedidos e, caso este limite seja atingido, novos pedidos podem ser alocados em outras localidades. Isso aumenta a eficiência da sua operação e aumenta as chances de cumprir as promessas de envio feitas aos clientes.</li><li><b>Manter ilimitada:</b> a localidade mantém a capacidade irrestrita de receber novos pedidos. Como não é possível determinar um limite máximo, a localidade pode receber mais pedidos do que é capaz de dar vazão no tempo de envio prometido, o que pode causar um atraso nos envios e consequente frustração de clientes.</li></ul></p>
 
-  <div class = "alert alert-info">
-Por padrão, as localidades são criadas sendo ilimitadas. Se você não deseja configurar a capacidade, você terá concluído a criação da nova localidade. Se você deseja configurá-la, prossiga com o passo a passo.
-</div>
+  >ℹ️ Por padrão, as localidades são criadas sendo ilimitadas. Se você não deseja configurar a capacidade, você terá concluído a criação da nova localidade. Se você deseja configurá-la, prossiga com o passo a passo.
 
 2. Em **Unidade da capacidade operacional**, escolha se a capacidade operacional será definida pelo número de _pedidos_ ou de _itens_. O número de itens considera os itens de todos os pedidos feitos no dia.
 3. Em **Capacidade**, determine qual a quantidade limite para os dias da semana. O sistema não restringe um valor máximo.
 4. Em **Regra**, escolha o que deve acontecer quando uma localidade atinge a capacidade máxima do dia:<br><p><ul><li><b>Continuar recebendo pedidos consumindo a capacidade dos dias seguintes:</b> a localidade continua válida para novos pedidos e eles são alocados na capacidade dos próximos dias. A promessa de envio dos novos pedidos será ajustada, mas não é possível configurar esse período em horas, por exemplo, porque ele vai corresponder automaticamente ao número de dias seguintes no qual for alocado.</li></ul></p>
   <p><ul><ul><li>Se você escolher esta opção, determine qual o <i>número de dias</i> seguintes para alocar os pedidos que ultrapassarem a capacidade do dia atual.</li></ul></ul></p>
 
-  <div class = "alert alert-info">
-Por exemplo, uma loja vende chocolates e sua capacidade operacional hoje foi 100% consumida. A loja continua recebendo novos pedidos, mas eles serão preparados só amanhã, porque o time não consegue preparar mais pedidos do que já previstos para hoje. No checkout, as promessas de envio de novos pedidos agora aparecem com um dia a mais de prazo, pois os pedidos serão preparados amanhã. Se a capacidade de amanhã for consumida ainda hoje, os novos pedidos serão alocados para depois de amanhã e preparados dali a dois dias, porque a loja configurou três dias para <b>Continuar recebendo pedidos consumindo a capacidade dos próximos dias</b>. Veja mais no artigo <a href="https://help.vtex.com/pt/tutorial/pagina-de-detalhes-da-localidade--3se4QBRYsNCwC8Wo56J6zG">Página de detalhes da localidade</a>.
-</div>
+  >ℹ️ Por exemplo, uma loja vende chocolates e sua capacidade operacional hoje foi 100% consumida. A loja continua recebendo novos pedidos, mas eles serão preparados só amanhã, porque o time não consegue preparar mais pedidos do que já previstos para hoje. No checkout, as promessas de envio de novos pedidos agora aparecem com um dia a mais de prazo, pois os pedidos serão preparados amanhã. Se a capacidade de amanhã for consumida ainda hoje, os novos pedidos serão alocados para depois de amanhã e preparados dali a dois dias, porque a loja configurou três dias para **Continuar recebendo pedidos consumindo a capacidade dos próximos dias**. Veja mais no artigo [Página de detalhes da localidade](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-da-localidade--3se4QBRYsNCwC8Wo56J6zG).
 
   <ul><li><b>Desativar esta localidade até o final do dia:</b> uma vez que atinja o limite da sua capacidade, a localidade deixa de ser válida para novos pedidos no dia, sendo que estes pedidos são recebidos por outras localidades.</li></ul>
 5. Clique em `Salvar alterações`. 
@@ -148,9 +140,7 @@ Para editar a capacidade operacional de várias localidades, realize o passo a p
 
 Utilizando a barra de busca, você pode usar o nome da localidade para encontrá-la.
 
-<div class = "alert alert-info">
-É possível associar a busca com o <a href="https://help.vtex.com/pt/tutorial/modulo-localidades--2thSYLMAS8KAd8V4XuBLSy#filtrar-localidades">filtro por status</a>. Caso os resultados da sua busca retornem vazios, observe se não há um filtro ativo.
-</div>
+>ℹ️ É possível associar a busca com o [filtro por status](https://help.vtex.com/pt/tutorial/modulo-localidades--2thSYLMAS8KAd8V4XuBLSy#filtrar-localidades). Caso os resultados da sua busca retornem vazios, observe se não há um filtro ativo.
 
 ### Filtrar localidades
 
@@ -180,9 +170,7 @@ Para ativar ou pausar várias localidades, realize os seguintes passos:
 
 A ação de excluir uma localidade é permanente e não pode ser desfeita. 
 
-<div class="alert alert-warning">
-Quando uma localidade é excluída, isso não tem efeito sobre o seller ao qual ela estava associada. Ou seja, o seller continua recebendo pedidos normalmente.
-</div>
+>⚠️ Quando uma localidade é excluída, isso não tem efeito sobre o seller ao qual ela estava associada. Ou seja, o seller continua recebendo pedidos normalmente.
 
 Você pode realizar esta ação de forma individual ou massiva. Para excluir uma única localidade, siga os passos abaixo:
 
@@ -208,6 +196,4 @@ Para definir a melhor estratégia para o seu modelo de negócios e escolher se o
 * **Localidade atingiu** <i class="fas fa-exclamation-triangle"></i> **limite máximo:** uma localidade com o alerta 100% da capacidade consumida deixa de receber novos pedidos naquele dia. Porém, no dia seguinte, a capacidade de localidade é liberada e ela automaticamente recebe novos pedidos.
     > _Exemplo:_ na véspera do Natal, uma loja atingiu o limite máximo da sua capacidade do dia e a equipe não conseguiria preparar mais pedidos, portanto não valeria [aumentar a capacidade](#editar-capacidade-operacional). No dia seguinte, a equipe conseguiria preparar novos pedidos, portanto seria estratégico não editar a localidade, pois no dia seguinte ela automaticamente tem sua capacidade liberada e volta a receber novos pedidos.
 
-<div class = "alert alert-info">
-Quando você pausa uma localidade configurada com a regra <b>Continuar recebendo pedidos consumindo a capacidade dos próximos dias</b>, novos pedidos não são recebidos e, portanto, não podem ser alocados nos dias seguintes. Porém, localidades com essa configuração que ultrapassaram a capacidade do dia tem novos pedidos automaticamente alocados nos dias seguintes, inclusive com a promessa de envio aos clientes ajustada.
-</div>
+>ℹ️ Quando você pausa uma localidade configurada com a regra **Continuar recebendo pedidos consumindo a capacidade dos próximos dias**, novos pedidos não são recebidos e, portanto, não podem ser alocados nos dias seguintes. Porém, localidades com essa configuração que ultrapassaram a capacidade do dia tem novos pedidos automaticamente alocados nos dias seguintes, inclusive com a promessa de envio aos clientes ajustada.

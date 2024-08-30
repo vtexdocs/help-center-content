@@ -1,10 +1,10 @@
 ---
 title: 'Associação de SKU à Política Comercial'
 id: 1qFAiybogHCStRO65sy4vb
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-03-30T17:18:09.088Z
-updatedAt: 2023-03-29T18:27:48.036Z
-publishedAt: 2021-08-04T18:13:54.928Z
+updatedAt: 2024-05-31T22:32:04.940Z
+publishedAt: 2024-05-31T22:32:04.940Z
 firstPublishedAt: 2021-03-30T17:34:49.644Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -28,5 +28,9 @@ Na página de configuração de cada SKU existe a opção de associar apenas aqu
 5. No formulário, localize o campo **Políticas Comerciais**.
 6. Marque a caixa de seleção correspondente à Política Comercial desejada.
 7. No final da página, clique no botão `Salvar` para registrar as alterações.
+
+<div class="alert alert-warning" role="alert">
+  <p>Se nenhuma política comercial específica for selecionada na configuração do SKU, todas as políticas comerciais terão acesso ao SKU.</p>
+</div>
 
 Toda alteração realizada em um SKU leva um tempo até ser totalmente processada, inclusive associações a Políticas Comerciais. Confira mais detalhes no artigo [Como funciona a indexação](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256).

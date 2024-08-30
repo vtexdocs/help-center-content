@@ -1,5 +1,5 @@
 ---
-title: 'Inventory & shipping: see what has changed in the "Dashboard" tab'
+title: "Inventory & shipping: see what has changed in the 'Dashboard' tab"
 id: 1YNfaeNG206XKI2UbGBRSl
 status: CHANGED
 createdAt: 2020-05-05T18:56:51.879Z

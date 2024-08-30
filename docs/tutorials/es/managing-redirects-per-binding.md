@@ -3,8 +3,8 @@ title: 'Gestionar redirecciones según el binding'
 id: 67GAK2TCQgjvmtPXxAqREb
 status: PUBLISHED
 createdAt: 2021-04-20T15:03:54.330Z
-updatedAt: 2023-03-24T22:20:43.304Z
-publishedAt: 2023-03-24T22:20:43.304Z
+updatedAt: 2023-09-04T12:42:32.729Z
+publishedAt: 2023-09-04T12:42:32.729Z
 firstPublishedAt: 2021-05-05T18:11:25.521Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -20,6 +20,10 @@ Las redirecciones son una herramienta para reenviar tanto a los usuarios como a 
 Las tiendas que tienen varios dominios suelen solicitar gestionar la redirección según el [*binding*](https://help.vtex.com/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) debido a la complejidad que presentan las varias URL disponibles. 
 
 Con esto en mente, VTEX le permite gestionar sus redirecciones de URL de acuerdo con el *binding* de la tienda a través de la interfaz del Admin.
+
+<div class="alert alert-warning" role="alert">
+Para crear, editar o eliminar redirecciones, el usuario del Admin VTEX debe tener un rol de acceso con el <a href="https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso de License Manager</a> <strong>CMS Settings</strong>. Puedes asignar al usuario un rol de acceso con el recurso siguiendo las instrucciones del artículo <a href="https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512#editando-usuarios">Gestionar usuarios</a>, o crear un nuevo rol de acceso que incluya dicho recurso consultando las instrucciones del artículo <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol">Roles</a>.
+</div>
 
 En el Admin VTEX:
 
@@ -50,17 +54,13 @@ En la pestaña Redirecciones del módulo Páginas:
 
 ![es-remover-redirect](https://images.ctfassets.net/alneenqid6w5/5khhDBT5o6ESJjwlaFClr5/a6d978fecd07eba1007ea1b28d2675b6/remover-redirect.png)
 
-<div class="alert alert-warning">
-Puede ocurrir un error al intentar hacer clic en las redirecciones que tienen cadenas de query. El equipo de producto de VTEX está al tanto de este comportamiento inesperado y está trabajando en la corrección. Si no puede hacer clic en la redirección que desea eliminar, puede utilizar la hoja de cálculo para eliminarla mientras arreglamos el error. 
-</div>
+>⚠️ Puede ocurrir un error al intentar hacer clic en las redirecciones que tienen cadenas de query. El equipo de producto de VTEX está al tanto de este comportamiento inesperado y está trabajando en la corrección. Si no puede hacer clic en la redirección que desea eliminar, puede utilizar la hoja de cálculo para eliminarla mientras arreglamos el error.
 
 ## Importar y exportar redirecciones
 
 Para gestionar las redirecciones de su tienda en masa, puede importar y exportar la plantilla de redirecciones. 
 
-<div class="alert alert-warning">
-Las entradas de la plantilla se crearán o eliminarán obligatoriamente en la lista de las redirecciones de la tienda. No es posible crear <i>y</i> eliminar redirecciones con la misma plantilla. Antes de rellenar y cargar la plantilla al Admin, defina cuál es el objetivo final de esta acción.
-</div>
+>⚠️ Las entradas de la plantilla se crearán o eliminarán obligatoriamente en la lista de las redirecciones de la tienda. No es posible crear <i>y</i> eliminar redirecciones con la misma plantilla. Antes de rellenar y cargar la plantilla al Admin, defina cuál es el objetivo final de esta acción.
 
 En la pestaña Redirecciones del módulo Páginas:
 
@@ -81,9 +81,7 @@ En la pestaña Redirecciones del módulo Páginas:
 
   ![es-redirect-planilha](https://images.ctfassets.net/alneenqid6w5/4jcHxndX1LyV74UdFJgWNV/7efcfc5207e0972a2b31a4be847b7000/planilha-redirect.png)
 
-  <div class="alert alert-warning">
-Al seleccionar la opción <code>Guardar</code>, creará todas las redirecciones enumeradas en la plantilla, mientras que seleccionar la opción <code>Eliminar</code> las eliminará todas de la base de datos de su tienda.
-</div>
+  >⚠️ Al seleccionar la opción `Guardar`, creará todas las redirecciones enumeradas en la plantilla, mientras que seleccionar la opción `Eliminar` las eliminará todas de la base de datos de su tienda.
 
 6. Cargue la plantilla desde sus archivos locales.
 7. Haga clic en el botón `Importar archivo`.

@@ -3,8 +3,8 @@ title: 'VTEX Pick and Pack: Fulfillment'
 id: 1zGUEItEEVsal6cuBEBNcA
 status: PUBLISHED
 createdAt: 2023-04-10T15:43:59.687Z
-updatedAt: 2023-04-20T15:41:30.789Z
-publishedAt: 2023-04-20T15:41:30.789Z
+updatedAt: 2023-08-31T19:52:23.529Z
+publishedAt: 2023-08-31T19:52:23.529Z
 firstPublishedAt: 2023-04-10T17:57:34.714Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,6 +15,8 @@ legacySlug: vtex-pick-and-pack-fulfillment
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
+>ℹ️ If you are interested in implementing for your business, fill out our [form](https://vtex.com/us-en/contact/) and indicate the name of the desired product in the `Comments` section.
+
 [VTEX Pick and Pack](https://help.vtex.com/en/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) is a solution to streamline stores’ fulfillment processes by optimizing orders’ picking and packing, and the last-mile delivery. The solution is composed of the [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) and **VTEX Pick and Pack Fulfillment** features, and appears in your VTEX Admin in **Apps**.
 
 The **VTEX Pick and Pack Fulfillment** module is related to the order handling process and has the following sections:
@@ -24,9 +26,7 @@ The **VTEX Pick and Pack Fulfillment** module is related to the order handling p
 * [Settings](#settings)
 * [Users](#users)
 
-<div class="alert alert-danger">
-<b>VTEX Pick and Pack</b> is not an invoicing system. After picking and packing, the order must be invoiced and updated as <code>Invoiced</code> in the OMS, so that <b>VTEX Fulfillment</b> can end the picking and packing flow and proceed to shipping.
-</div>
+>❗ **VTEX Pick and Pack** is not an invoicing system. After picking and packing, the order must be invoiced and updated as `Invoiced` in the OMS, so that **VTEX Fulfillment** can end the picking and packing flow and proceed to shipping.
 
 ## Picking and Packing
 
@@ -151,9 +151,7 @@ In the details page, you can do the actions below. The actions available on the 
 * [Add shipping service](#add-shipping-service)
 * [Track order](#track-order)
 
-<div class="alert alert-danger">
-Although the actions above can be performed by <a href="https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users">users</a> with access to the Admin, typically the actions with an <b>*</b> (asterisk) should be executed only by pickers using their mobile devices, without any access to the store's Admin.
-</div>
+>❗ Although the actions above can be performed by [users](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users) with access to the Admin, typically the actions with an ***** (asterisk) should be executed only by pickers using their mobile devices, without any access to the store's Admin.
 
 #### Picking
 
@@ -292,9 +290,8 @@ To create a new package, follow the steps below:
 
 You can add a single product to a package or all products at once. After all products are packed, click `Close Packages`. Once you close packages, you are no longer able to add items or make any kind of change.
 
-<div class="alert alert-danger">
-<p><b>VTEX Pick and Pack</b> is not an invoicing system. Once the order gets to <code>Ready for invoicing</code> status, it must be invoiced and updated as <code>Invoiced</code> in OMS. Only after that, <b>VTEX Fulfillment</b> will end the picking and packing flow and proceed to shipping.</p><p>If the order is invoiced in a status different from <code>Ready for invoicing</code>, the system will consider it an external fulfillment and change the order status to <code>Idle</code>, unabling <b>VTEX Pick and Pack</b> to process it.</p>
-</div>
+>❗ **VTEX Pick and Pack** is not an invoicing system. Once the order gets to `Ready for invoicing` status, it must be invoiced and updated as `Invoiced` in OMS. Only after that, **VTEX Fulfillment** will end the picking and packing flow and proceed to shipping.
+> If the order is invoiced in a status different from `Ready for invoicing`, the system will consider it an external fulfillment and change the order status to `Idle`, unabling **VTEX Pick and Pack** to process it.
 
 #### Print receipt and voucher
 
@@ -334,9 +331,7 @@ In **VTEX Pick and Pack**, the **Insights** page provides data and analytics abo
 * [Picking and Packing](#insights-picking-and-packing)
 * [Operation](#insights-operation)
 
-<div class="alert alert-warning">
-To be able to access <b>Insights</b>, you need to have a VTEX Fulfillment Admin user profile, that is different from <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">roles</a>. For more information, see the <a href="https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users">Users</a> section.
-</div>
+>⚠️ To be able to access **Insights**, you need to have a VTEX Fulfillment Admin user profile, that is different from [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). For more information, see the [Users](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users) section.
 
 ### Insights: Picking and Packing
 
@@ -352,9 +347,7 @@ You can combine multiple filters to filter the information you want to see in th
 * City
 * Seller
 
-<div class = "alert alert-info">
-The filter <b>Seller</b> is visible only for the account that operates as a marketplace. <a href="https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa">White label sellers</a> do not have that filter option in <b>Insights</b>.
-</div>
+>ℹ️ The filter **Seller** is visible only for the account that operates as a marketplace. [White label sellers](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) do not have that filter option in **Insights**.
 
 Besides the **Total orders** chart, there is a sequence of charts where you obtain data about _Payment methods_ and orders that were:
 
@@ -373,9 +366,7 @@ Below **Total orders**, you will find a chart about the number of orders and uni
 
 In the tab **Operation**, you will see the Picking and Packing **Order flow**, a chart with the total amount of orders distributed per day in the last seven days. The darker the blue, the more orders, the lighter the blue, the less.
 
-<div class = "alert alert-info">
-The Picking and Packing <b>Order flow</b> chart is calculated taking into account all orders of the last 7 days, and distributes them in hours, going from 0 to 23. Even if you change the period to 15 days, for example, the chart will remain fixed considering 7 days.
-</div>
+>ℹ️ The Picking and Packing **Order flow** chart is calculated taking into account all orders of the last 7 days, and distributes them in hours, going from 0 to 23. Even if you change the period to 15 days, for example, the chart will remain fixed considering 7 days.
 
 Below the **Order flow**, there is another chart with orders data filtered by picker. You will see information about:
 
@@ -406,9 +397,7 @@ In order to configure **VTEX Pick and Pack** for your store, in your Admin, go t
 * [Printing](#printing-settings)
 * [Webhooks](#webhooks-settings)
 
-<div class="alert alert-warning">
-To be able to access <b>Settings</b>, you need to be a <a href="https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users">VTEX Fulfillment admin user</a> or a customer service user.
-</div>
+>⚠️ To be able to access **Settings**, you need to be a [VTEX Fulfillment admin user](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users) or a customer service user.
 
 ### General settings
 
@@ -468,9 +457,7 @@ To create a package, do the following:
 2. Fill in the name that will identify the package.
 3. Fill in with the package’s measures: height, width and length, using numbers only. 
 
-  <div class = "alert alert-info">
-The measurement unit is the one configured in the tab General, in <b>Units of measure</b>.
-</div>
+  >ℹ️ The measurement unit is the one configured in the tab General, in **Units of measure**.
 
 4. Click `Add`.
 
@@ -515,9 +502,7 @@ Once you are done with the printing settings, click `Save`.
 
 In this tab, you can configure a webhook to be notified about orders’ status changes and to get information about a given order. 
 
-<div class = "alert alert-info">
-For more information, see our VTEX <a href="https://developers.vtex.com/docs/guides/vtex-pick-and-pack-get-order-status-and-information-api">Pick and Pack documentation</a> for developers.
-</div>
+>ℹ️ For more information, see our VTEX [Pick and Pack documentation](https://developers.vtex.com/docs/guides/vtex-pick-and-pack-get-order-status-and-information-api) for developers.
 
 ## Users
 
@@ -568,9 +553,7 @@ To create a new _picker_, follow the steps below:
     * **Stores:** Select the environment the picker will be associated with. Each environment can have multiple [white label sellers](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) associated with it.
     * **Categories:** Select up to four categories related to the products the picker will collect.
 
-  <div class = "alert alert-info">
-The categories related to the picker optimize the algorithm when determining which picker will get the order. However, it is not a limitation, any picker can be assigned to tasks from all categories.
-</div>
+  >ℹ️ The categories related to the picker optimize the algorithm when determining which picker will get the order. However, it is not a limitation, any picker can be assigned to tasks from all categories.
 
 4. Click `Save user`.
 
@@ -622,9 +605,7 @@ To generate an Api-Key, follow the steps below:
 4. Click `Generate`.
 5. Save the Api-Key in a safe place.
 
-  <div class="alert alert-danger">
-You only see the Api-Key once, you will not be able to access this information again, so make sure it is in a safe place.
-</div>
+  >❗ You only see the Api-Key once, you will not be able to access this information again, so make sure it is in a safe place.
 
 6. Enter the password.
 7. Click `Save`.

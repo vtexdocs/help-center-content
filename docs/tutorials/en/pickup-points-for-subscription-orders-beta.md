@@ -15,9 +15,7 @@ legacySlug: pickup-points-for-subscription-orders-beta
 subcategory: 3RmFd9bgAeRAVGeBd7XDUr
 ---
 
-<div class="alert alert-info">
-  <p>This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href="https://support.vtex.com/hc/pt-br/requests">our Support</a>.</p>
-</div>
+>ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://support.vtex.com/hc/pt-br/requests).
 
 A pickup point is a physical location where customers can pick up their orders, instead of having them delivered to their homes. A common usage scenario for this feature is the in-store pickup, for example.
 
@@ -28,9 +26,7 @@ Check out how to enable this feature:
 - [Requirements](#requirements)
 - [Choosing pickup points](#choosing-pickup-points)
 
-<div class="alert alert-info">
-  <p>The pickup points feature is available in beta only for accounts using the <b>Checkout V6</b>.</p>
-</div>
+>ℹ️ The pickup points feature is available in beta only for accounts using the **Checkout V6**.
 
 ## Requirements
 

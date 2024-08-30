@@ -15,6 +15,4 @@ announcementImageID: ''
 announcementSynopsisES: ' Nueva funcionalidad VTEX Log para la impresión de etiquetas y la notificación al transportista.'
 ---
 
-<div class="alert alert-warning">
-Este contenido no está disponible en este idioma, ya que la nueva funcionalidad solo está disponible para las tiendas de Brasil que utilizan la solución VTEX Shipping Network.
-</div>
+>⚠️ Este contenido no está disponible en este idioma, ya que la nueva funcionalidad solo está disponible para las tiendas de Brasil que utilizan la solución VTEX Shipping Network.

@@ -30,9 +30,7 @@ Here are the steps:
 
 Before pointing a domain to VTEX, you must ensure that the below-mentioned requirements are met.
 
-<div class="alert alert-warning">
-If you are migrating your store from <strong>Loja Integrada</strong> to VTEX, contact our support before pointing the DNS. The Loja Integrada domain must be enabled to be used in the VTEX store.
-</div>
+>⚠️ If you are migrating your store from **Loja Integrada** to VTEX, contact our support before pointing the DNS. The Loja Integrada domain must be enabled to be used in the VTEX store.
 
 ### Registering a domain on VTEX
 
@@ -48,15 +46,11 @@ VTEX uses two CDN providers in the stores: **Cloudfront** and **Azion**. Your st
 
 So, if you have the store domain registered on the **Cloudfront** or **Azion** platform, delete it before pointing the DNS to VTEX.
 
-<div class="alert alert-warning">
-If you are unable to delete your store's domain registration on the <strong>Cloudfront</strong> or <strong>Azion</strong> platforms, please contact <a href="https://help.vtex.com/en/support">VTEX support</a> to explain the situation. VTEX will help you ensure your store is running smoothly at go-live.
-</div>
+>⚠️ If you are unable to delete your store's domain registration on the **Cloudfront** or **Azion** platforms, please contact [VTEX support](https://help.vtex.com/en/support) to explain the situation. VTEX will help you ensure your store is running smoothly at go-live.
 
 ## Configuring CAA records
 
-<div class="alert alert-warning">
-You will only need to configure CAA records, as described in this section if there is a CAA record in your DNS server. Otherwise, proceed to the next section of this guide.
-</div>
+>⚠️ You will only need to configure CAA records, as described in this section if there is a CAA record in your DNS server. Otherwise, proceed to the next section of this guide.
 
 CAA records indicate which certificate authorities (CAs) are entitled to generate and renew certificates to confirm your domain identity. Proper configuration of these records is necessary to generate [SSL certificates](https://help.vtex.com/en/tutorial/certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar--tutorials_1308) and use the VTEX CDN.
 
@@ -70,22 +64,18 @@ This means that the **Let's Encrypt** certificate authority can issue certificat
 
 Although not recommended, another alternative would be not including CAA records in your DNS server, indicating that all certificate authorities are authorized to issue and renew certificates for your domain.
 
-<div class="alert alert-info">
-These types of entries may not be available in the interface of your DNS manager, but you can usually manage them by calling the support of the specific tool.
-</div>
+>ℹ️ These types of entries may not be available in the interface of your DNS manager, but you can usually manage them by calling the support of the specific tool.
 
 To easily create/verify your CAA records, you can use [CAA Record Helper by SSLMate](https://sslmate.com/caa/). The [DiG](https://www.hostinger.com/tutorials/how-to-use-the-dig-command-in-linux/) program can also help you verify your records with the `dig domain.com CAA` command – a `SERVFAIL` status can indicate non-compliance of your DNS server.
 
-<div class = "alert alert-info">
-Learn more:
-<p>
-<ul>
-<li><a href="https://sslmate.com/caa/">CAA Record Helper by SSLMate</a></li>
-<li><a href="https://letsencrypt.org/docs/caa/">Let's Encrypt: Certificate Authority Authorization (CAA)</a></li>
-<li><a href="https://sslmate.com/caa/about">SSL Mate: About CAA</a></li>
-</ul>
-</p>
-</div>
+>ℹ️ Learn more:
+>
+> *[CAA Record Helper by SSLMate](https://sslmate.com/caa/)
+>
+> *[Let's Encrypt: Certificate Authority Authorization (CAA)](https://letsencrypt.org/docs/caa/)
+>
+> *[SSL Mate: About CAA](https://sslmate.com/caa/about)
+> 
 
 ## Pointing the DNS
 
@@ -101,9 +91,7 @@ If your storefront is powered by [CMS IO](https://help.vtex.com/en/tracks/cms--2
 
 After you receive the internal pointing confirmation, you must do the [common DNS pointing](#common-dns-pointing) within 5 days. Otherwise the internal pointing will be deleted and you will need to redo the request.
 
-<div class = "alert alert-info">
-Learn more at <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live">Go live with Store Framework</a> or <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io">Migration from legacy CMS to Store Framework</a>.
-</div>
+>ℹ️ Learn more at [Go live with Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live) or [Migration from legacy CMS to Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
 
 ### Common DNS pointing
 
@@ -132,9 +120,7 @@ The certificate is generated through [Let's Encrypt](https://letsencrypt.org/) a
 
 ---
 
-<div class="alert alert-info">
-DNS pointing propagation takes 24-48 hours to occur completely, which means that the configured address may not be accessible to all people right after configuration.
-</div>
+>ℹ️ DNS pointing propagation takes 24-48 hours to occur completely, which means that the configured address may not be accessible to all people right after configuration.
 
 The above instructions deal exclusively with pointing a primary domain to your VTEX store. It's important that if your store has other domains, they are redirected to a single primary domain.
 

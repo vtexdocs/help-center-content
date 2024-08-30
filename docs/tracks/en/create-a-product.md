@@ -16,13 +16,9 @@ trackSlugEN: vtex-getting-started
 
 Before anything else, it's important to understand the difference between SKU and product. This difference concerns the VTEX platform, but also the way most of e-commerce operations treat these concepts.
 
-<div class="alert alert-info">
-<strong>SKU:</strong> the smallest possible unit of items sold in the store. Stock and price, for example, are SKU properties.
-</div>
+>ℹ️ **SKU:** the smallest possible unit of items sold in the store. Stock and price, for example, are SKU properties.
 
-<div class="alert alert-info">
-<strong>Product:</strong> SKUs aggregator.
-</div>
+>ℹ️ **Product:** SKUs aggregator.
 
 See the following examples:
 
@@ -34,9 +30,7 @@ See the following examples:
 In the shop window, the customer will see only the product __Jeans__, not three separate SKUs: "Jeans S", "Jeans M" and "Jeans L".
 The management of your inventory sees each of the SKUs that make up this product separately. So it can know, for example, that you have 50 Jeans M in stock, but only 2 Jeans L.
 
-<div class="alert alert-info">
-<strong>Atention</strong>: Whenever you create an SKU, you need to create the product first.
-</div>
+>ℹ️ **Atention**: Whenever you create an SKU, you need to create the product first.
 
 Let's see how to create the product.
 

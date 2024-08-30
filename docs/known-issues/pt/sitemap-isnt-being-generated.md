@@ -18,9 +18,7 @@ internalReference: 827104
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Há dois cenários em que o mapa do site não está sendo gerado:

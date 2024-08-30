@@ -3,8 +3,8 @@ title: 'Configurar el gateway Openpay'
 id: 5vGj3UIFCU4GFFqVBlYKW2
 status: PUBLISHED
 createdAt: 2021-07-06T17:31:51.598Z
-updatedAt: 2021-07-06T18:01:16.234Z
-publishedAt: 2021-07-06T18:01:16.234Z
+updatedAt: 2024-01-25T18:44:58.747Z
+publishedAt: 2024-01-25T18:44:58.747Z
 firstPublishedAt: 2021-07-06T17:54:12.638Z
 contentType: tutorial
 productTeam: Financial
@@ -17,15 +17,13 @@ subcategory:
 
 [Openpay](https://www.openpay.mx/) es un procesador de pagos en línea que permite recibir pagos realizados con tarjetas de crédito, efectivo y transferencias bancarias.
 
-<div class="alert alert-warning">
-  Antes de realizar la configuración, debe haber creado y verificado una cuenta de Openpay. Si aún no se ha registrado, <a href="https://sandbox-dashboard.openpay.mx/login/register?isCandidateForNewStyles=false">haga clic aquí</a> y cree su cuenta.
-  </div>
+>⚠️ Antes de realizar la configuración, debe haber creado y verificado una cuenta de Openpay. Si aún no se ha registrado, [haga clic aquí](https://sandbox-dashboard.openpay.mx/login/register?isCandidateForNewStyles=false) y cree su cuenta.
 
 Para configurar Openpay, necesitará:
 
 1. [Configurar Google Tag Manager](#configurar-google-tag-manager)
 2. [Configurar Openpay](#configurar-openpay)
-3. [Asociar una condición de pago a Openpay](#asociar-una-condicion-de-pago)
+3. [Configurar condiciones de pago](#configurar-condiciones-de-pago)
 
 ## Configurar Google Tag Manager
 
@@ -35,19 +33,20 @@ Al terminar, continúe con el siguiente paso de configuración de Openpay en el 
 
 ## Configurar Openpay 
 
-Después de crear y activar el tag en Google Tag Manager, debe instalar el conector de Openpay en su tienda. Siga los pasos a continuación:
+Después de crear y activar el tag en Google Tag Manager, debe instalar el proveedor de Openpay en su tienda. Siga los pasos a continuación:
 
-1. Acceda al __Admin__ de VTEX.
-2. En el módulo __Pagos__, haga clic en __Configuración__.
-3. En __Afiliaciones__, haga clic en el botón verde «__+__».
-4. Busque y haga clic en __Openpay__.
-5. En __Nombre de la afiliación__, ingrese __Openpay__.
-6. Rellene los campos __Application Key__ y __Application Token__. [Haga clic aquí](https://www.openpay.mx/en/docs/vtex.html) para acceder a la documentación de Openpay y ver las instrucciones que explican cómo obtener esta información.
-7. Haga clic en __Salvar__ para guardar los cambios.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __Openpay__ en la barra de búsqueda y haga clic en el nombre del proveedor.
+4. En __Nombre de la afiliación__, ingrese __Openpay__.
+5.  Rellene los campos __Application Key__ y __Application Token__. [Haga clic aquí](https://www.openpay.mx/en/docs/vtex.html) para acceder a la documentación de Openpay y ver las instrucciones que explican cómo obtener esta información.
+6.  Haga clic en `Salvar`.
 
-## Asociar una condición de pago
+## Configurar condiciones de pago
 
-Después de completar todos los pasos, la configuración de Openpay estará lista.
+Para configurar los métodos de pago a procesar por Openpay, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Si desea asociarlo a una condición de pago compatible con Openpay, siga el artículo [Configurar condiciones de pago](https://help.vtex.com/es/tutorial/condicoes-de-pagamento).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+
+Después de seguir los pasos indicados, Openpay puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.
 

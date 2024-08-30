@@ -24,7 +24,7 @@ El ID de la forma de pago que se configurará a Interés Simple se obtiene del s
 - Ingresar a la Forma de Pago que se desea configurar para que utilice Interés Simple
 - Copiar el último parámetro de la URL, que indica el ID de esa Forma de Pago (ver imagen)
 
-![Interes Simple - Obtener ID Transaccion](//images.contentful.com/alneenqid6w5/19PugiXjNssA6c48WoqoSC/808db9360d3dbb5dd12466882ce3e852/interes-simple-id-transaccion.png)
+![Interes Simple - Obtener ID Transaccion](https://images.contentful.com/alneenqid6w5/19PugiXjNssA6c48WoqoSC/808db9360d3dbb5dd12466882ce3e852/interes-simple-id-transaccion.png)
 
 ## Configurar el tipo de interés mediante la API
 
@@ -38,4 +38,4 @@ https://documenter.getpostman.com/view/322855/pci/Hs3y#56ae3651-0086-7cbc-faec-5
 El response que devolvió la llamada "GET Rule by ID" anterior, será el request de la siguiente llamada "POST Rule by ID", para grabar la nueva configuración, en donde se deberá modificar únicamente el valor "interestRateMethod": 1:
 https://documenter.getpostman.com/view/322855/pci/Hs3y#80db2e68-0913-668b-36ea-b484a839d9ab
 
-<div class="alert alert-danger">IMPORTANTE: Actualmente, solo se logra modificar la forma de pago mediante API. En caso de necesitar modificar la forma de pago desde la interfáz de usuario, se deberá repetir el proceso de configuración por API, ya que al Guardar los cambios, se irá a tomar valor vacío por defecto.</div>
+>❗ IMPORTANTE: Actualmente, solo se logra modificar la forma de pago mediante API. En caso de necesitar modificar la forma de pago desde la interfáz de usuario, se deberá repetir el proceso de configuración por API, ya que al Guardar los cambios, se irá a tomar valor vacío por defecto.

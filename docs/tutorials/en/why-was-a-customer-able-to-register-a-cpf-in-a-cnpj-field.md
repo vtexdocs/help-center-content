@@ -1,10 +1,10 @@
 ---
 title: 'Why was a customer able to register a CPF in a CNPJ field?'
 id: K6zJn8JFOKk5ON1XFB6ZJ
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-10-17T19:22:31.749Z
-updatedAt: 2023-03-28T22:55:52.032Z
-publishedAt: 2023-03-28T22:55:52.032Z
+updatedAt: 2024-07-11T19:21:58.380Z
+publishedAt: 
 firstPublishedAt: 2022-10-17T19:43:17.176Z
 contentType: tutorial
 productTeam: Master Data
@@ -17,21 +17,16 @@ subcategory: 42hDtnYXHw5ExG6l19RP1l
 
 This scenario usually happens because of an inconsistency in the user's registration fields. To verify it, we need to access this customer's data in your store's __Profile System__.
 
-<div class="alert alert-warning">
-This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use.
- <ul>
-<li>
-<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-Master Data version characteristics
- </a>
-</li>
-<li>
-<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-Master Data v2
-</a>
-</li>
-</ul>
-</div>
+>⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use.
+>
+> *<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
+> Master Data version characteristics
+>  </a>
+>
+> *<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
+> Master Data v2
+> </a>
+> 
 
 Follow the steps below to validate the information:
 

@@ -3,8 +3,8 @@ title: 'Setting up payments with VirtusPayV2'
 id: 1tbcLRNIB5Bz0oWl8LnayB
 status: PUBLISHED
 createdAt: 2023-03-27T12:14:53.392Z
-updatedAt: 2023-03-27T12:56:49.578Z
-publishedAt: 2023-03-27T12:56:49.578Z
+updatedAt: 2024-01-23T21:52:05.259Z
+publishedAt: 2024-01-23T21:52:05.259Z
 firstPublishedAt: 2023-03-27T12:56:49.578Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: setting-up-payments-with-virtuspayv2
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the VirtusPayV2 payment provider. With this connector, your store can make sales through VirtusPay and VirtusPay Transparente.
+At VTEX, it is possible to integrate with the VirtusPayV2 payment provider. With this provider, your store can make sales through VirtusPay and VirtusPay Transparente.
 
-To configure VirtusPayV2 affiliation, follow the steps below:
+To configure VirtusPayV2, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payments > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Gateway affiliations__ tab, click on the `+` button.
-3. Click on the __VirtusPayV2__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __VirtusPayV2__ in the search bar and click on the name of the provider.
 4. Fill in the __Application Key__ and __Application Token__ fields with data provided by your account VirtusPay.
 5. If an alert message appears indicating the need to install the app, click on the `Install app` button and follow the installation instructions.
 6. Click on `Save`.

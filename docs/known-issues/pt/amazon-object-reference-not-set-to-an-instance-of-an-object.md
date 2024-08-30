@@ -1,5 +1,5 @@
 ---
-title: '[AMAZON] Referência de objeto não definida para uma instância de um objeto"'
+title: "[AMAZON] Referência de objeto não definida para uma instância de um objeto'"
 id: 7xWXzfztp7b9I8KeBSzgST
 status: PUBLISHED
 createdAt: 2022-03-10T18:00:38.681Z
@@ -18,9 +18,7 @@ internalReference: 482173
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

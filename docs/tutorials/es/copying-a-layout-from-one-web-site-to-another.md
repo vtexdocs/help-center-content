@@ -31,4 +31,4 @@ El sistema le preguntará a qué web site desea copiar el layout.
 
 Seleccione el web site y haga clic en __Copiar Layout__.
 
-![copyLayout2](//images.contentful.com/alneenqid6w5/1KPGgtczwMmKEeQKOM44yk/3e74ac50ac9a0fbe89f0de3fbd4a4d7a/copyLayout2.png)
+![copyLayout2](https://images.contentful.com/alneenqid6w5/1KPGgtczwMmKEeQKOM44yk/3e74ac50ac9a0fbe89f0de3fbd4a4d7a/copyLayout2.png)

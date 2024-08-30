@@ -1,10 +1,10 @@
 ---
 title: 'Marketplace Network: encuentre marketplaces y sellers en el ecosistema VTEX'
 id: 2bzC7tXlVgLEEjxo4ixcAM
-status: PUBLISHED
+status: DRAFT
 createdAt: 2020-09-14T22:21:50.677Z
-updatedAt: 2022-04-07T14:44:29.576Z
-publishedAt: 2022-04-07T14:44:29.576Z
+updatedAt: 2023-07-19T21:34:02.498Z
+publishedAt: 
 firstPublishedAt: 2020-09-14T23:03:21.356Z
 contentType: tutorial
 productTeam: Apps
@@ -38,9 +38,7 @@ Para entrar en contacto:
 4. Rellene el campo __Contactar al seller__.    
 5. Haga clic en el botón __Enviar__.     
 
-<div class="alert alert-info">
-El potencial partner comercial recibirá un email con la información ingresada. Si el interés es mutuo, este podrá ponerse en contacto e iniciar una negociación de los términos del acuerdo entre marketplace y seller.
-</div>
+>ℹ️ El potencial partner comercial recibirá un email con la información ingresada. Si el interés es mutuo, este podrá ponerse en contacto e iniciar una negociación de los términos del acuerdo entre marketplace y seller.
 
 ## Perfil de la tienda
 ![Network profile ES](https://images.ctfassets.net/alneenqid6w5/0F1E1mqf6hD5FLzVGqBA7/ae9aa04caa553c344ab6e5f958469e68/Marketplace_store_profile_ES.gif)

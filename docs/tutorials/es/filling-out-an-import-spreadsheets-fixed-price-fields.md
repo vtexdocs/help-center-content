@@ -35,4 +35,4 @@ Los siguientes campos son opcionales en la plantilla, se exportan solo para exhi
 - **Ref ID (View Only):** código de referencia único utilizado para facilitar la organización del catálogo de productos. Este id generalmente es creado por los sistemas internos de la tienda.
 - **EAN (View Only):** código de identificación único del SKU (código de barras).
 
-<div class="alert alert-warning">Plantillas de precios utilizadas para importación tienen un límite de tamaño de 1 MB. Si su plantilla actual excede este límite, le recomendamos dividirla en varios archivos, <strong>asegurándose de que los precios que se refieren al mismo SKU se mantengan juntos en la misma plantilla</strong>.</div>
+>⚠️ Plantillas de precios utilizadas para importación tienen un límite de tamaño de 1 MB. Si su plantilla actual excede este límite, le recomendamos dividirla en varios archivos, **asegurándose de que los precios que se refieren al mismo SKU se mantengan juntos en la misma plantilla**.

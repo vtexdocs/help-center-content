@@ -1,10 +1,10 @@
 ---
 title: 'Configurar PayPal Plus (PayPal Transparente)'
 id: 2akxq3I92k8A4kymIYOiWy
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-02-20T20:15:36.950Z
-updatedAt: 2023-03-29T01:12:02.453Z
-publishedAt: 2023-03-29T01:12:02.453Z
+updatedAt: 2024-03-18T20:30:56.156Z
+publishedAt: 
 firstPublishedAt: 2018-02-20T22:56:13.192Z
 contentType: tutorial
 productTeam: Financial
@@ -15,38 +15,44 @@ legacySlug: configurar-paypal-plus-paypal-transparente
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En el gateway de VTEX, usted puede configurar el subadquirente PayPal Plus, el checkout transparente de PayPal. En esta modalidad, basta con que el cliente introduzca la información de __tarjeta de crédito__ y finalice la compra normalmente. El pago se realiza directamente en su sitio, sin redirigir a sus clientes.
+>❗ Esta integración de pago ya no se puede configurar en la plataforma debido al [proceso de descontinuación de los proveedores legados](https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14) y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.
+
+En el gateway de VTEX, usted puede configurar el subadquirente PayPal Plus, el checkout transparente de PayPal. En esta modalidad, basta con que el cliente introduzca la información de tarjeta de crédito y finalice la compra normalmente. El pago se realiza directamente en su sitio, sin redirigir a sus clientes.
 
 Para realizar la configuración, siga los pasos abajo:
 
-## Configurar la afiliación de gateway PayPal Plus
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __PayPalPlus__ en la barra de búsqueda y haga clic en el nombre del proveedor.
+4. Si desea modificar el nombre de identificación que se mostrará para el proveedor iugu en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información general__.
+5. En __Control de pago__, seleccione si desea activar PayPal Plus en un entorno de prueba haciendo clic en __Activar modo de prueba__.
+6. Rellena los siguientes campos según los datos proporcionados por PayPal:
+    - Em __ID do cliente__ insira o _clientId_.
+    - Em __Secret__ insira o _secret_.
+    - Em __Nombre do usuario__ insira o _userName_.
+    - Em __Contraseña__ insira o _password_.
+    - Em __Firma__ insira o _signature_.
 
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. En la pestaña __Afiliaciones__, haga clic en el botón __+__.
-3. Haga clic en el conector __PayPalPlus__.
+<blockquote><ui>  7. En <b>Guardar tarjetas</b>, seleccione <b>Sí</b> para que el cliente pueda seleccionar la opción de guardar la tarjeta al finalizar la compra. Si no desea habilitar esta opción, seleccione <b>No</b>.</ui>
 
-Rellene los campos de registro con los datos proporcionados por PayPal, como abajo.
-- El *clientId* debe insertarse en el campo __ID de cliente__.
-- El *secret* debe insertarse en el campo __Secret__.
-- El *userName* debe insertarse en el campo __Nombre de usuario__.
-- La *password* debe insertarse en el campo __Contraseña__.
-- La *signature* debe insertarse en el campo __Firma__.
+<blockquote><ui>  8. En <b>Moneda</b>, elija la moneda de la transacción.</ui>
 
-Después, siga estos pasos:
-1. En el campo __Recordar tarjetas__, seleccione __Sí__ para que el cliente pueda elegir la opción de guardar la tarjeta en el momento del checkout. Si no desea habilitar esta opción, seleccione __No__.
-2. En __Moneda__, elija la moneda de la transacción.
-3. En __Lugar de la transacción__, seleccione la ubicación de la transacción.
-4. Haga clic en __Guardar__.
+<blockquote><ui>  9. En <b>Lugar de la transacción</b>, seleccione el país de la transacción.</ui>
+
+<blockquote><ui>  10. En <b>Activar API de riesgo (STC)</b>, seleccione la opción según su configuración de PayPal.</ui>
+
+<blockquote><ui>  11. Haga clic en <b>Guardar</b>.</ui>
 
 ## Configurar la condición de pago PayPal Plus
 
-1. Dentro de los __Ajustes__ del módulo Pagos, haga clic en la pestaña __Planes de pago__.
-2. Haga clic en el botón __+__.
-3. Haga clic en el medio de pago __PayPalPlus__.
-4. Haga clic en el botón __Status__ para activar esta condición de pago.
-5. Si lo desea, marque la casilla __Usando Antifraude__ para activar el antifraude básico.
-6. Como el pago con PayPal Plus es un pago con tarjeta de crédito, usted puede elegir [configurar la condición de pago en efectivo o parcelado](/es/tutorial/condiciones-de-pago).
-7. Si lo desea, también puede configurar [condiciones especiales de pago](/es/tutorial/condiciones-especiales).
-8. Después de realizar la configuración, haga clic en __Guardar__.
+1. En el Admin de VTEX, acceda a __Configuración de la Tienda > Pago > Configuración__, o escriba __Configuración__ en la barra de búsqueda en la parte superior de la página.
+2. En la pestaña __Condiciones de pago__, haga clic en el botón `+`.
+3. Haga clic en __PayPalPlus__.
+4. Complete el campo __Nombre de la condición__ con un nombre de su elección para identificación.
+5. Active la condición en el campo __Status__.
+6. Seleccione si desea utilizar un sistema antifraude seleccionando la opción __Utilizar antifraude__.
+7. Indique si los pagos con tarjeta de crédito deben realizarse [al contado o en cuotas (con y sin intereses)](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455).
+8. Si lo deseas, también puedes configurar [condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
+9. Haga clic en `Guardar`.
 
-Listo! Ahora aparecerá en el checkout la opción de pago por __tarjeta de crédito__ utilizando [PayPal como subadquirente](/es/tutorial/que-es-un-subadquirente).
+Después de seguir los pasos indicados, PayPal Plus puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

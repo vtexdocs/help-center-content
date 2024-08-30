@@ -16,9 +16,7 @@ trackSlugEN: catalog-101
 
 There are three ways of adding product specifications: via Admin, spreadsheet, or API.
 
-<div class="alert alert-warning">
-<p>In VTEX, specifications follow a logic of "inheritance", that is, when creating a specification at a higher category level, the specification will be presented at all category levels below it. Therefore, if you need to create a product or SKU specification that applies to only one category, it should be created at that category's level.</p>
-</div>
+>⚠️ In VTEX, specifications follow a logic of "inheritance", that is, when creating a specification at a higher category level, the specification will be presented at all category levels below it. Therefore, if you need to create a product or SKU specification that applies to only one category, it should be created at that category's level.
 
 Follow the steps highlighted below to add specifications:
 

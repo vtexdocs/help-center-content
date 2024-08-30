@@ -3,8 +3,8 @@ title: 'Lista de Promoções'
 id: 4yB7nNdliiFxBTXE19GCIi
 status: PUBLISHED
 createdAt: 2022-05-05T13:39:53.273Z
-updatedAt: 2023-03-02T15:34:23.200Z
-publishedAt: 2023-03-02T15:34:23.200Z
+updatedAt: 2023-07-24T13:34:09.177Z
+publishedAt: 2023-07-24T13:34:09.177Z
 firstPublishedAt: 2022-05-05T13:52:17.590Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -106,7 +106,7 @@ Selecione os filtros desejados e clique em `Aplicar` para filtrar as promoções
 
 Ao clicar no ícone <i class="fas fa-ellipsis-v"></i> de uma promoção, você pode realizar as seguintes ações:
 
-- <i class="far fa-times-circle"></i> __Editar:__ editar a promoção.
+- <i class="fas fa-pencil-alt"></i> __Editar:__ editar a promoção.
 - <i class="far fa-check-circle"></i> __Ativar:__ ativar a promoção.
 - <i class="far fa-clone"></i> __Duplicar:__ criar uma cópia da promoção.
 - <i class="fas fa-archive"></i> __Arquivar:__ arquivar a promoção. A promoção será movida automaticamente para a página *[Promoções arquivadas](#promocoes-arquivadas)*.

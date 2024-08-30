@@ -18,9 +18,7 @@ internalReference: 391569
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O aplicativo Clustered Payment Conditions App está causando problemas de sincronização das regras de pagamento e resulta no desaparecimento do método de pagamento do checkout. o recurso está em Beta Fechada e não foi instalado em novas contas. Mais detalhes na página **Enable Clustered Payment Conditions em sua loja***.

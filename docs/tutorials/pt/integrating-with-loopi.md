@@ -36,9 +36,7 @@ Feito isso, o próximo passo é informar à Loopi os seguintes dados:
 
 É a partir do fornecimento destes dados que a Loopi realiza determinadas configurações no próprio ambiente. Você receberá um email da Loopi confirmando que as configurações foram concluídas, além de ser informado sobre credenciais e próximos passos relacionados ao ambiente do parceiro.
 
-<div class="alert alert-danger">
-Se as informações mencionadas não forem concedidas à Loopi, os produtos não serão cadastrados em etapas posteriores.
-</div>
+>❗ Se as informações mencionadas não forem concedidas à Loopi, os produtos não serão cadastrados em etapas posteriores.
 
 ## Visão geral da integração
 
@@ -58,9 +56,7 @@ Para configurar a integração e ser capaz de cadastrar e mapear corretamente se
 - [Status de pedidos na Loopi](https://help.vtex.com/pt/tutorial/integracao-com-loopi--2wmap3hWksLxJ0IYe7nYFP#status-de-pedidos-na-loopi)
 - [Operação logística na Loopi](https://help.vtex.com/pt/tutorial/integracao-com-loopi--2wmap3hWksLxJ0IYe7nYFP#operacao-logistica-na-loopi)
 
-<div class = "alert alert-info">
-Para anunciar e vender na Loopi é necessário estar em conformidade com os <a href="https://loopi.shop/termos-de-uso">termos e condições legais do marketplace</a>.
-</div>
+>ℹ️ Para anunciar e vender na Loopi é necessário estar em conformidade com os [termos e condições legais do marketplace](https://loopi.shop/termos-de-uso).
 
 ### Cadastramento de produtos na Loopi
 
@@ -70,9 +66,7 @@ A seguir, algumas considerações importantes sobre condições para o cadastro 
 - **Regra de preço:** não são aceitos preços diferentes para variações de tamanho de um mesmo produto, ou seja, SKUs com tamanhos diferentes devem ter o mesmo preço. Por exemplo, não é aceito o cadastro de um produto com um preço para uma camiseta tamanho P, e outro preço para o produto no tamanho M. 
 - **Fotos:** todo produto deve ter uma imagem cadastrada no seu Admin VTEX.
 
-<div class="alert alert-danger">
-O descumprimento de qualquer das exigências mencionadas impossibilita o cadastramento do produto.
-</div>
+>❗ O descumprimento de qualquer das exigências mencionadas impossibilita o cadastramento do produto.
 
 ### Agrupamento de produtos na Loopi
 
@@ -106,9 +100,7 @@ A desativação de produtos e SKUs no marketplace pode ser feita pela exclusão 
 
 Na Loopi, a desativação do último SKU de um produto ocasiona automaticamente a exclusão daquele produto da base de dados. Porém, quando existem notificações de criação de SKUs para um produto desativado, esse produto é automaticamente reativado na Loopi.
 
-<div class="alert alert-warning">
-Só é possível atualizar produtos e SKUs na base de dados da Loopi quando a configuração de um SKU está marcada como <i>ativa</i>.
-</div>
+>⚠️ Só é possível atualizar produtos e SKUs na base de dados da Loopi quando a configuração de um SKU está marcada como <i>ativa</i>.
 
 ### Status de pedidos na Loopi
 
@@ -133,9 +125,7 @@ O consumidor é notificado sobre todas as mudanças de _status_ de pedidos. As n
 
 O cálculo de frete e o prazo de entrega dos pedidos é fechado no ambiente da Loopi, no momento da compra. As configurações logísticas serão aquelas que você escolher na Estratégia de Envio definida para a integração. Essa configuração será feita adiante, como parte da etapa de configurações no seu Admin VTEX.
 
-<div class = "alert alert-info">
-O fullfilment, ou seja, a responsabilidade da entrega do pedido ao cliente, é responsabilidade da loja VTEX.
-</div>
+>ℹ️ O fullfilment, ou seja, a responsabilidade da entrega do pedido ao cliente, é responsabilidade da loja VTEX.
 
 ## Configurações na plataforma VTEX
 
@@ -153,9 +143,7 @@ A [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-poli
 
 Caso seja do seu interesse ter configurações específicas para vender na Loopi, você pode [configurar uma política comercial para marketplace](https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace/). Não existe cobrança para a contratação de políticas comerciais adicionais para integrar lojas VTEX com conectores nativos, conectores certificados ou outras lojas VTEX. Saiba mais em [Estratégias de marketplace na VTEX](https://help.vtex.com/pt/tutorial/integrando-com-marketplace--tutorials_402).
 
-<div class="alert alert-warning">
-Os produtos que você deseja enviar para a Loopi devem estar <a href="https://help.vtex.com/pt/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb">associados à política comercial</a> definida. Caso contrário, eles não serão integrados.
-</div>
+>⚠️ Os produtos que você deseja enviar para a Loopi devem estar [associados à política comercial](https://help.vtex.com/pt/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb) definida. Caso contrário, eles não serão integrados.
 
 ### Definir estratégia de envio
 
@@ -199,9 +187,7 @@ Para prosseguir com a integração, siga os passos abaixo:
 
 Por padrão, não é necessário se ocupar dos campos **ID do afiliado** e **Endpoint de notificação**, que são gerados de forma automática e aparecem desabilitados para edição. No entanto, caso deseje editar o **ID do afiliado**, clique sobre o ícone <i class="fas fa-cog"></i> engrenagem. Isso fará com que você seja redirecionado para a página de edição de códigos de identificação de [afiliados](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0).
 
-<div class="alert alert-danger">
-Conforme mencionado na etapa <a href="https://help.vtex.com/pt/tutorial/integracao-com-loopi--2wmap3hWksLxJ0IYe7nYFP#antes-de-comecar">Antes de começar</a>, para realizar a ativação da integração é necessário já ter concedido à Loopi alguns dados. É a partir disso que o parceiro realiza configurações que possibilitam a integração com a plataforma VTEX.
-</div>
+>❗ Conforme mencionado na etapa [Antes de começar](https://help.vtex.com/pt/tutorial/integracao-com-loopi--2wmap3hWksLxJ0IYe7nYFP#antes-de-comecar), para realizar a ativação da integração é necessário já ter concedido à Loopi alguns dados. É a partir disso que o parceiro realiza configurações que possibilitam a integração com a plataforma VTEX.
 
 ### Mapear categorias, especificações e atributos
 
@@ -246,9 +232,7 @@ Dentro do mapeamento de um atributo, seja ele _cor_ ou _tamanho_, existe o campo
 
 Para ter certeza de que todas as categorias da sua loja VTEX foram mapeadas corretamente na Loopi, você deve ser capaz de visualizar no _Loopi Mapper_ o ícone de _mapeamento completo_ ao longo de toda a lista de categorias da sua loja VTEX.
 
-<div class = "alert alert-info">
-Em seu canal no Youtube, a Loopi disponibiliza o <a href="https://www.youtube.com/watch?v=ryfqmh8qpo4">vídeo Mapeamento de categorias</a>, no qual apresenta um exemplo de item de moda sendo mapeado.
-</div>
+>ℹ️ Em seu canal no Youtube, a Loopi disponibiliza o [vídeo Mapeamento de categorias](https://www.youtube.com/watch?v=ryfqmh8qpo4), no qual apresenta um exemplo de item de moda sendo mapeado.
 
 #### Mapeamento de especificações
 
@@ -260,9 +244,7 @@ Após realizar o mapeamento de categorias, variações e atributos dos seus prod
 
 Após a realização da carga inicial, a integração da sua loja VTEX com o marketplace estará concluída.
 
-<div class = "alert alert-info">
-Em caso de dúvidas, entre em contato com a Loopi pelo email <i>contato@loopi.shop</i>.
-</div>
+>ℹ️ Em caso de dúvidas, entre em contato com a Loopi pelo email <i>contato@loopi.shop</i>.
 
 <br></br>
 ### Saiba mais

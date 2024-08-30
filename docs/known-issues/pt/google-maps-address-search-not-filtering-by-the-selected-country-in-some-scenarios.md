@@ -18,9 +18,7 @@ internalReference: 727408
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As pesquisas de endereços do Google Maps para países sem regras internas específicas não são filtradas para retornar somente este país selecionado.

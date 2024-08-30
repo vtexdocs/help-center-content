@@ -28,10 +28,10 @@ You can place a test order in the store and then check in **Orders Management** 
 
 Example: Imagine an order in which free shipping has been applied, but you don't know the reason. By clicking on an order in **Orders Management**, you would find the name of the promotion registered in the **Sales and Marketing** or **Promotions and Partnerships** section.
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/1LpXT5YXqbsjb02eAQUsfg/708046486a825d2d2ec3c40ec20a9da2/detalhes-oms-en.png" alt="order-details" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/1LpXT5YXqbsjb02eAQUsfg/708046486a825d2d2ec3c40ec20a9da2/detalhes-oms-en.png" alt="order-details" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
 </em></figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/2mriJhUbQbqrrUSbp7tjaC/6acf4788ee8432dbfb24d7d790197022/detalhes-neworders-en.png" alt="order-details-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/2mriJhUbQbqrrUSbp7tjaC/6acf4788ee8432dbfb24d7d790197022/detalhes-neworders-en.png" alt="order-details-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
  (Beta)</em></figcaption></figure>
 
 If no promotion is listed, it indicates that the free shipping is not caused by a promotion, i.e. the shipping calculation in the **Inventory & shipping** module has resulted in zero. In this case, you have to use the **Shipping Simulator** to understand why shipping had zero value.
@@ -46,9 +46,7 @@ However, if more than one promotion is applied, what appears will be the sum of 
 
 ## orderForm
 
-<div class = "alert alert-warning">
-  <p>To conduct the investigation documented in this section, you must use Google Chrome. Because it is a tool external to VTEX, it can be updated without prior notice.</p>
-</div>
+>⚠️ To conduct the investigation documented in this section, you must use Google Chrome. Because it is a tool external to VTEX, it can be updated without prior notice.
 
 On the cart page, you can check the `orderForm`, which is a file in JSON format with all the information corresponding to the order being created.
 
@@ -58,7 +56,7 @@ Follow the step-by-step instructions to find the `orderForm` and identify the pr
 2. Click on `Network`.
 3. Check the **Preserve log** option.
 4. Reload the page.
-5. After loading, press `Ctrl+F` to perform the search in the **Developer Tools**. Type `orderForm` in the search bar. ![order-form](//images.contentful.com/alneenqid6w5/jtqrcUjDAAqoMUGiYM4qE/94803953c1577a7954ba09f163738e0e/order-form.png)
+5. After loading, press `Ctrl+F` to perform the search in the **Developer Tools**. Type `orderForm` in the search bar. ![order-form](https://images.contentful.com/alneenqid6w5/jtqrcUjDAAqoMUGiYM4qE/94803953c1577a7954ba09f163738e0e/order-form.png)
 6. Click on the `orderForm` line. A new window will open next to it.
 7. Click on `Preview`.
 8. Search for `ratesAndBenefitsData` and click on the item.

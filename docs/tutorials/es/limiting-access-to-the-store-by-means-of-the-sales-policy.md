@@ -19,21 +19,16 @@ La limitación en el acceso a una tienda puede ser implementado por diversas raz
 
 Este escenario se puede cumplir mediante el uso de Master Data v1 y la política comercial utilizada en la tienda.
 
-<div class="alert alert-warning">
-Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso.
- <ul>
-<li>
-<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-Características de las versiones de Master Data
- </a>
-</li>
-<li>
-<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-Master Data v2
- </a>
-</li>
-</ul>
-</div>
+>⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso.
+>
+> *<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
+> Características de las versiones de Master Data
+>  </a>
+>
+> *<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
+> Master Data v2
+>  </a>
+> 
 
 ## Creación de cluster de clientes
 

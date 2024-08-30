@@ -17,9 +17,7 @@ subcategory: 7yiFRk9TGfMNeyhT83UljP
 
 IN PROGRESS...
 
-<div class="alert alert-info">
-Registering Holidays is solely linked to the delivery scheduling functionality which is only available for VTEX Tracking users with system integration.
-</div>
+>ℹ️ Registering Holidays is solely linked to the delivery scheduling functionality which is only available for VTEX Tracking users with system integration.
 
 Customers receive a communication via email or SMS containing the scheduled delivery date for their order. If the customer knows that they will not be available to receive their package at the given time, they can reschedule delivery for another date and delivery window.
 

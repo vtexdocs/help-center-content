@@ -3,8 +3,8 @@ title: 'Implementación de la categoría de Amazon'
 id: 5drX2V0avfk1X2llMyTlK1
 status: PUBLISHED
 createdAt: 2022-03-25T11:33:04.920Z
-updatedAt: 2022-12-02T18:00:24.056Z
-publishedAt: 2022-12-02T18:00:24.056Z
+updatedAt: 2024-02-16T20:24:37.027Z
+publishedAt: 2024-02-16T20:24:37.027Z
 firstPublishedAt: 2022-03-25T11:33:15.226Z
 contentType: knownIssue
 productTeam: Connections
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: implementacion-de-la-categoria-de-amazon
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 549924
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

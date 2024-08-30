@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos de Centauro con error "Pedido sin el campo: "paquetes'
+title: "Pedidos de Centauro con error 'Pedido sin el campo: 'paquetes"
 id: 1HMhinuVlggWwQZPuNchiX
 status: PUBLISHED
 createdAt: 2022-06-24T13:10:45.752Z
@@ -18,9 +18,7 @@ internalReference: 604422
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

@@ -28,15 +28,13 @@ Estas variables son propiedades de JSON que aparecen en el campo __JSON Data__ y
 
 ### Ejemplo
 
-<div class="alert alert-warning">
-Los ejemplos de JSON Data sólo aparecerán en los templates cuando usted termine la acción deseada en su tienda. Si no ha transacionado un pedido, una recurrencia o cualquier otra acción, el JSON Data aparecerá en blanco.
-</div>
+>⚠️ Los ejemplos de JSON Data sólo aparecerán en los templates cuando usted termine la acción deseada en su tienda. Si no ha transacionado un pedido, una recurrencia o cualquier otra acción, el JSON Data aparecerá en blanco.
 
 Digamos que usted desea insertar el nombre del transportista en el e-mail de pedido enviado.
 
 Para ello, entre en la plantilla de pedido enviado y, en el campo __JSON Data__, busque la propiedad `courier`.
 
-![templateCourierMCEspanhol](//images.contentful.com/alneenqid6w5/5bUVtrYTugUiqKimU6COEK/d73394e8e6f37fe56ea7ec6718c7edf6/templateCourierMCEspanhol.png)
+![templateCourierMCEspanhol](https://images.contentful.com/alneenqid6w5/5bUVtrYTugUiqKimU6COEK/d73394e8e6f37fe56ea7ec6718c7edf6/templateCourierMCEspanhol.png)
 
 El valor llenado para esta propiedad es sólo un ejemplo, pero puede utilizarlo en el campo __HTML__ para que, cuando se envía el e-mail, el cliente vea el transportista de hecho responsable de la entrega del pedido.
 
@@ -44,7 +42,7 @@ Tenga en cuenta que la propiedad `courier` está dentro del objeto `package`. Po
 
 `{{package.courier}}`
 
-![courier3](//images.contentful.com/alneenqid6w5/2yzopAVuU46I2UICEQ0y2S/69e4a43fa202c90cb9996f4a3eea19aa/courier3.png)
+![courier3](https://images.contentful.com/alneenqid6w5/2yzopAVuU46I2UICEQ0y2S/69e4a43fa202c90cb9996f4a3eea19aa/courier3.png)
 
 Vea que el valor de ejemplo ("Transportadora Teste Courier S.A.") se ha insertado en la pantalla de vista previa, debajo de los campos __HTML__ y __JSON Data__.
 

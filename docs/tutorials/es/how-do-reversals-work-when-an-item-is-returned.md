@@ -3,8 +3,8 @@ title: 'Funcionamiento del extorno cuando se devuelve un ítem'
 id: frequentlyAskedQuestions_298
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.904Z
-updatedAt: 2021-08-12T18:29:59.905Z
-publishedAt: 2021-08-12T18:29:59.905Z
+updatedAt: 2024-02-28T17:25:13.906Z
+publishedAt: 2024-02-28T17:25:13.906Z
 firstPublishedAt: 2019-01-24T21:55:16.859Z
 contentType: tutorial
 productTeam: Financial

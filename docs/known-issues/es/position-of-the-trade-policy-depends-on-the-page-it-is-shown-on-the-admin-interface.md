@@ -1,5 +1,5 @@
 ---
-title: ' La "posición" de la política comercial depende de la página en la que se muestra en la interfaz de administración'
+title: " La 'posición' de la política comercial depende de la página en la que se muestra en la interfaz de administración"
 id: 3kcSD7J5uuHYGdhBcg1lMa
 status: PUBLISHED
 createdAt: 2022-10-31T20:28:08.565Z
@@ -18,9 +18,7 @@ internalReference: 286470
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Un cliente con más de 20 políticas comerciales acaba teniendo más de una política comercial por posición. Esto es crítico porque las configuraciones vinculantes se basan en el número de posición, por lo que sólo debería haber una política comercial por posición.

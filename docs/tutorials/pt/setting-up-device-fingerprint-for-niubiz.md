@@ -19,9 +19,7 @@ __Device Fingerprint__ é um identificador que atua no processamento de um pagam
 
 Por meio da coleta de dados não sensíveis, o Device Fingerprint identifica e analisa o nível de segurança do dispositivo utilizado para realizar a transação, bem como as transações que anteriormente foram realizadas com este mesmo dispositivo.
 
-<div class="alert alert-info">
-Cada loja deve ter somente um Device Fingerprint cadastrado. Verifique se você já efetuou o cadastro do Device Fingerprint em outro conector, antes de continuar os passos abaixo.
-</div>
+>ℹ️ Cada loja deve ter somente um Device Fingerprint cadastrado. Verifique se você já efetuou o cadastro do Device Fingerprint em outro conector, antes de continuar os passos abaixo.
 
 Neste artigo, explicaremos como associar o recurso Device Fingerprint à afiliação Niubiz. 
 
@@ -29,9 +27,7 @@ Para isso, é necessário gerar um identificador via [Google Tag Manager](https:
 
 ### Crie o identificador
 
-<div class="alert alert-info">
-As instruções dessa etapa do artigo são realizadas em um ambiente externo. Desse modo, podem estar desatualizadas.
-</div>
+>ℹ️ As instruções dessa etapa do artigo são realizadas em um ambiente externo. Desse modo, podem estar desatualizadas.
 
 Antes de qualquer coisa, você precisa criar o identificador.
 
@@ -104,9 +100,7 @@ Dito isso, confira as instruções:
 
 Desse modo, o Google Tag Manager criará o identificador. 
 
-<div class="alert alert-warning">
-Anote o ID em um local que você não o perca.
-</div>
+>⚠️ Anote o ID em um local que você não o perca.
 
 ## Configuração no Admin VTEX
 

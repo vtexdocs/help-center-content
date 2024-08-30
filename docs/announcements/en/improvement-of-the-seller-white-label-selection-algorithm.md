@@ -27,9 +27,7 @@ The seller selection algorithm was updated to ensure the maximum possible covera
 
 Also, for selecting sellers that offer a pickup option, the algorithm will always prioritize distance to the reference location over price and pickup time criteria.
 
-<div class="alert alert-warning">
-Note: The algorithm update applies to White Label Seller, and it includes <a href="https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa">Franchise Accounts</a>. The seller selection algorithm is applied when the client checks the delivery options. That means that it is applied in the delivery preview in the cart or in the delivery and pickup stage at checkout.
-</div>
+>⚠️ Note: The algorithm update applies to White Label Seller, and it includes [Franchise Accounts](https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa). The seller selection algorithm is applied when the client checks the delivery options. That means that it is applied in the delivery preview in the cart or in the delivery and pickup stage at checkout.
 
 ## Why did we make this change?
 

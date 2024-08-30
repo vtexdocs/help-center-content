@@ -18,9 +18,7 @@ internalReference: 367136
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, esta funcionalidade pode levar a inconsistências no banco de dados da sua árvore de categorias, dependendo do tipo de movimento. Esta funcionalidade não é, portanto, recomendada até que possa ser remediada.

@@ -3,8 +3,8 @@ title: 'Cadastrar um anexo'
 id: 7zHMUpuoQE4cAskqEUWScU
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.901Z
-updatedAt: 2023-03-29T15:07:58.328Z
-publishedAt: 2023-03-29T15:07:58.328Z
+updatedAt: 2023-11-16T17:23:31.034Z
+publishedAt: 2023-11-16T17:23:31.034Z
 firstPublishedAt: 2019-01-24T22:06:25.639Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -39,9 +39,7 @@ Após realizar o cadastro inicial do anexo, você precisa adicionar as chaves e 
 3. Clique em `Inserir Novo`. Você pode cadastrar outras chaves repetindo esse processo, se desejar.
 4. Para finalizar, clique em `Salvar`.
 
-<div class="alert alert-warning">
-<p>É obrigatório preencher o campo <strong>Máximo de Caracteres</strong>. Caso esse campo não seja preenchido, o anexo não vai aparecer para o seu cliente como uma opção de seleção no carrinho.</p>
-</div>
+>⚠️ É obrigatório preencher o campo **Máximo de Caracteres**. Caso esse campo não seja preenchido, o anexo não vai aparecer para o seu cliente como uma opção de seleção no carrinho.
 
 ## Associar o anexo a um SKU
 
@@ -56,6 +54,4 @@ Após criar o anexo de SKU e configurar as chaves e os valores permitidos, você
 
 Você também pode associar um anexo ao SKU utilizando a [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuattachment), se desejar.
 
-<div class="alert alert-warning">
-<p>A VTEX não controla o estoque de um anexo. Essa função é do Marketplace ou do Seller.</p>
-</div>
+>⚠️ A VTEX não controla o estoque de um anexo. Essa função é do Marketplace ou do Seller.

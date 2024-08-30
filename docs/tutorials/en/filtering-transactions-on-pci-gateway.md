@@ -3,8 +3,8 @@ title: 'Filtering transactions on Orders section'
 id: 6LUq65FqUgIKkKEeWa4IwC
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:42.313Z
-updatedAt: 2023-03-26T21:29:36.950Z
-publishedAt: 2023-03-26T21:29:36.950Z
+updatedAt: 2023-10-18T16:58:56.709Z
+publishedAt: 2023-10-18T16:58:56.709Z
 firstPublishedAt: 2019-01-24T21:38:42.695Z
 contentType: tutorial
 productTeam: Financial
@@ -87,7 +87,7 @@ Some examples of payment methods are:
 
 - Visa
 - Bank slip
-- Promissory
+- Notes Payable
 - Mercado Pago
 - Pay Pal
 

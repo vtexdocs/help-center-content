@@ -3,8 +3,8 @@ title: 'Propriedades Booleanas de Vídeo/Áudio HTML não validadas no CMS Legac
 id: 2WjsLZ7vw0KO023rGQd77L
 status: PUBLISHED
 createdAt: 2022-03-16T19:27:06.599Z
-updatedAt: 2022-11-25T22:10:23.568Z
-publishedAt: 2022-11-25T22:10:23.568Z
+updatedAt: 2024-02-16T20:28:59.288Z
+publishedAt: 2024-02-16T20:28:59.288Z
 firstPublishedAt: 2022-03-16T19:27:07.097Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: propriedades-booleanas-de-videoaudio-html-nao-validadas-no-cms-legacy
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 491898
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

@@ -41,9 +41,7 @@ A solução é composta por:
 - **Last Mile:** os operadores da loja podem gerenciar e instruir os entregadores sobre a coleta e entrega dos pedidos. Isso inclui a otimização de rotas e comprovação de coleta e entrega. Além disso, sua loja pode se integrar facilmente a transportadoras externas ou a um sistema TMS. E ainda, é possível acompanhar o status de seus pedidos em tempo real via URL. 
 - **Aplicativos móveis:** aplicativos para dispositivos móveis desenvolvidos exclusivamente para que os separadores e entregadores possam realizar suas tarefas sem precisar acessar o Admin da loja. Atualmente, os aplicativos estão disponíveis apenas para Android.  
 
-<div class="alert alert-danger"> 
-O <b>VTEX Pick and Pack</b> não é um sistema de faturamento e, por isso, os pedidos devem ser faturados através do OMS da VTEX. Saiba mais em <a href="https://help.vtex.com/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT">Faturar um pedido</a>.
-</div>
+>❗ O **VTEX Pick and Pack** não é um sistema de faturamento e, por isso, os pedidos devem ser faturados através do OMS da VTEX. Saiba mais em [Faturar um pedido](https://help.vtex.com/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT).
 
 ## Por que fizemos essa mudança?
 

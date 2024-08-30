@@ -3,8 +3,8 @@ title: 'Erros de integração de estoque com o Carrefour'
 id: 4oDrYCkrIvWETCW34I2CKF
 status: PUBLISHED
 createdAt: 2021-10-25T22:15:47.447Z
-updatedAt: 2023-03-29T14:40:33.949Z
-publishedAt: 2023-03-29T14:40:33.949Z
+updatedAt: 2024-06-17T15:05:00.226Z
+publishedAt: 2024-06-17T15:05:00.226Z
 firstPublishedAt: 2021-10-25T22:30:07.082Z
 contentType: tutorial
 productTeam: Channels
@@ -27,7 +27,7 @@ Seguem abaixo as mensagens mais comuns de erros de integração de estoque com o
 
 `Produto ainda não foi catalogado no Carrefour. Para reprocessar essa oferta, aguarde a confirmação do Carrefour de que o produto foi catalogado. Para mais detalhes verifique o portal do carrefour.`
 
-O tempo que o Carrefour leva para catalogar novos produtos não pode ser estimado com precisão, e pode levar desde horas a dias, dependendo de processos do marketplace. O estoque de uma loja VTEX só pode ser integrado ao Carrefour após essa catalogação, portanto, é necessário aguardar até que esse processo seja concluído. Uma vez que o produto tenha sido catalogado no Carrefour, a plataforma VTEX automaticamente processa o erro, neste caso não sendo necessário fazer o reprocessamento manual. Para acompanhar a situação junto ao Carrefour, entre em contato pelo [Portal Fornecedor](https://fornecedor.carrefour.com.br/login/).
+O tempo que o Carrefour leva para catalogar novos produtos não pode ser estimado com precisão, e pode levar desde horas a dias, dependendo de processos do marketplace. O estoque de uma loja VTEX só pode ser integrado ao Carrefour após essa catalogação, portanto, é necessário aguardar até que esse processo seja concluído. Uma vez que o produto tenha sido catalogado no Carrefour, a plataforma VTEX automaticamente processa o erro, neste caso não sendo necessário fazer o reprocessamento manual. Para acompanhar a situação junto ao Carrefour, entre em contato pelo [Portal Fornecedor](https://portalfornecedorcarrefour.qa.aevee.com.br/login).
 
 ____
 
@@ -35,7 +35,7 @@ ____
 
 `"status":401,"message":"Unauthorized"`
 
-Este erro indica a perda da autorização da sua integração com o Carrefour, ou seja, trata-se de um problema relacionado ao _token_, também chamado de _ShopKey_. Para o Carrefour, problemas de _token_ podem ocorrer por diferentes motivos, como prazo de validade expirado, ou suspeita de ameaça à segurança, por exemplo. Neste caso, é necessário entrar em contato com o Carrefour para validar o _token_, por meio do [Portal Fornecedor](https://fornecedor.carrefour.com.br/login/). Após essa validação, corrija as configurações do [cadastro do conector da integração](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/2AhqcmRN1mseCsGuGIe6GK). No seu Admin VTEX, vá em **MARKETPLACE > Conexões > Integrações**. No _card_ do Carrefour, clique sobre o ícone <i class="fas fa-cog"></i> engrenagem, e escolha a opção **Editar configuração**. Preencha o campo _ShopKey_ com o novo _token_ e clique em **Salvar configuração**.
+Este erro indica a perda da autorização da sua integração com o Carrefour, ou seja, trata-se de um problema relacionado ao _token_, também chamado de _ShopKey_. Para o Carrefour, problemas de _token_ podem ocorrer por diferentes motivos, como prazo de validade expirado, ou suspeita de ameaça à segurança, por exemplo. Neste caso, é necessário entrar em contato com o Carrefour para validar o _token_, por meio do [Portal Fornecedor](https://portalfornecedorcarrefour.qa.aevee.com.br/login). Após essa validação, corrija as configurações do [cadastro do conector da integração](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/2AhqcmRN1mseCsGuGIe6GK). No seu Admin VTEX, vá em **MARKETPLACE > Conexões > Integrações**. No _card_ do Carrefour, clique sobre o ícone <i class="fas fa-cog"></i> engrenagem, e escolha a opção **Editar configuração**. Preencha o campo _ShopKey_ com o novo _token_ e clique em **Salvar configuração**.
 
 <br></br>
 ### Saiba mais

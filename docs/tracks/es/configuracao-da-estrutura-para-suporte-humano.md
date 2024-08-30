@@ -1,10 +1,10 @@
 ---
 title: 'Configuración de la estructura para Servicio al cliente humano'
 id: SxhYiiqUJYiQX4CIWxmVE
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-08-23T15:25:37.553Z
-updatedAt: 2023-04-27T15:32:38.909Z
-publishedAt: 2023-04-27T15:32:38.909Z
+updatedAt: 2024-01-05T17:14:19.560Z
+publishedAt: 
 firstPublishedAt: 2022-08-23T17:47:18.082Z
 contentType: trackArticle
 productTeam: Shopping
@@ -21,9 +21,7 @@ Hay dos opciones de _partners_ preintegrados con el comercio conversacional de V
 * [Zenvia](#integracion-zenvia)
 * [Zendesk](#integracion-zendesk)
 
-<div class="alert alert-info">
-<p>Comunícate con el equipo de desarrollo de VTEX si deseas hacer una integración con otras plataformas.</p>
-</div>
+>ℹ️ Comunícate con el equipo de desarrollo de VTEX si deseas hacer una integración con otras plataformas.
 
 ## Integración Zenvia
 

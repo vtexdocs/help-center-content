@@ -18,9 +18,7 @@ internalReference: 644563
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando uma promoção é restrita a uma quantidade específica de parcelas de cartão de crédito (por exemplo, "10% em dinheiro"), o valor descontado é aplicado mesmo para parcelas fora da faixa limitada, onde o objeto "parcelamentoOptions" do OrderForm API retornará valores errados.

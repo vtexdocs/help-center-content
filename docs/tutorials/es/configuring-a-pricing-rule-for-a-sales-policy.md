@@ -3,8 +3,8 @@ title: 'Configurar regla de precio para política comercial'
 id: 5LQMLwcUcEGCWK6SMI6cEM
 status: PUBLISHED
 createdAt: 2018-03-19T17:49:25.791Z
-updatedAt: 2023-03-29T20:00:47.266Z
-publishedAt: 2023-03-29T20:00:47.266Z
+updatedAt: 2023-08-21T17:23:00.178Z
+publishedAt: 2023-08-21T17:23:00.178Z
 firstPublishedAt: 2018-03-19T18:26:04.279Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,9 +15,7 @@ legacySlug: configurar-regla-de-precio-para-politica-comercial
 subcategory: wUepkh8pzimEywO8oGUIc
 ---
 
-<div class="alert alert-info">
-Este artículo hace referencia a la versión más reciente de pricing de VTEX. Si su tienda aún no está en esta nueva versión, usted puede solicitar la migración poniéndose en contacto con nuestro equipo de atención.
-</div>
+>ℹ️ Este artículo hace referencia a la versión más reciente de pricing de VTEX. Si su tienda aún no está en esta nueva versión, usted puede solicitar la migración poniéndose en contacto con nuestro equipo de atención.
 
 Una __regla de precio__ es un conjunto de condiciones que determinan los precios para una cierta política comercial.
 
@@ -25,7 +23,7 @@ Por estándar, el __precio base__ registrado para un producto se aplica a todas 
 
 Para crear una regla de precio específica para una política comercial, siga estos pasos:
 
-1. En el Admin VTEX, accede a *Precios > Reglas de precios* , o escribe *Reglas de precios* en la barra de búsqueda en la parte superior de la página.
+1. En el Admin VTEX, accede a **Precios > Reglas de precios** , o escribe **Reglas de precios** en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en `Nueva regla`.
 3. En el campo __Política comercial__, elija la política comercial deseada.
 4. Seleccione si la regla se aplicará a __todos los productos__ de esta política o __solo en las marcas y categorías elegidas__.

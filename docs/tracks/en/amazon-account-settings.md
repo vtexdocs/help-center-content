@@ -1,9 +1,9 @@
 ---
 title: 'Amazon account settings'
 id: 43L0dpbjLBz6tcim1BbTzf
-status: PUBLISHED
+status: CHANGED
 createdAt: 2019-02-28T23:01:18.628Z
-updatedAt: 2023-03-08T20:38:03.932Z
+updatedAt: 2023-11-09T22:36:18.079Z
 publishedAt: 2023-03-08T20:38:03.932Z
 firstPublishedAt: 2019-02-28T23:02:20.905Z
 contentType: trackArticle
@@ -32,6 +32,4 @@ After creating your seller account, you will need to authorize VTEX in your Amaz
 
 After completing the authorization, you will be redirected to the VTEX Admin, and the integration step will be completed.  
 
-<div class="alert alert-info">
-If you have questions about this, please <a href="https://sellercentral.amazon.com/learn/courses?ref_=su_course_accordion&moduleId=1f61fcd3[…]-ed90359ff166&modLanguage=Portuguese&videoPlayer=youtube">refer to Amazon Seller Central documentation.</a>
-</div>
+>ℹ️ If you have questions about this, please [refer to Amazon Seller Central documentation.](https://sellercentral.amazon.com/learn/courses?ref_=su_course_accordion&moduleId=1f61fcd3[…]-ed90359ff166&modLanguage=Portuguese&videoPlayer=youtube)

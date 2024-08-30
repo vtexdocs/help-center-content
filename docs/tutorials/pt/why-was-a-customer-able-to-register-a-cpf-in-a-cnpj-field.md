@@ -1,10 +1,10 @@
 ---
 title: 'Por que um cliente conseguiu cadastrar um CPF num campo de CNPJ?'
 id: K6zJn8JFOKk5ON1XFB6ZJ
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-10-17T19:22:31.749Z
-updatedAt: 2023-03-28T22:55:52.032Z
-publishedAt: 2023-03-28T22:55:52.032Z
+updatedAt: 2024-07-11T19:21:58.380Z
+publishedAt: 
 firstPublishedAt: 2022-10-17T19:43:17.176Z
 contentType: tutorial
 productTeam: Master Data
@@ -17,21 +17,16 @@ subcategory: 42hDtnYXHw5ExG6l19RP1l
 
 Este cenário costuma ocorrer por conta de uma inconsistência nos campos de cadastro do usuário. Para verificarmos o cenário, precisamos acessar os dados deste cliente no __Profile System__ da sua loja.
 
-<div class="alert alert-warning">
-Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
-<ul>
-<li>
-<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-Características das versões do Master Data
-</a>
-</li>
-<li>
-<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-Master Data v2
-</a>
-</li>
-</ul>
-</div>
+>⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
+>
+> *<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
+> Características das versões do Master Data
+> </a>
+>
+> *<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
+> Master Data v2
+> </a>
+> 
 
 Siga os passos abaixo para validar as informações:
 

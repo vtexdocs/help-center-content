@@ -18,9 +18,7 @@ internalReference: 452392
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando un cliente introduce un cardNumber de 12 dígitos, a pesar de que este número de dígitos no es válido, lo enviamos varias veces a la entidad adquirente aún sabiendo que no lo aprobará ya que el cardNumber no está en el patrón: [0-9]{13,19}. El resultado es un pedido atascado durante varios días hasta ser cancelado.

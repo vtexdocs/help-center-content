@@ -3,8 +3,8 @@ title: 'Exportar y importar especificaciones de producto y SKU'
 id: tutorials_274
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:43.787Z
-updatedAt: 2023-03-29T15:30:59.932Z
-publishedAt: 2023-03-29T15:30:59.932Z
+updatedAt: 2024-02-21T20:34:56.013Z
+publishedAt: 2024-02-21T20:34:56.013Z
 firstPublishedAt: 2017-04-27T23:03:12.428Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -21,9 +21,7 @@ En este artículo, explicamos cómo funciona la exportación e importación de p
 
 Para exportar e importar especificaciones mediante la API del catálogo, siga la guía para desarrolladores Cómo crear una especificación.
 
-<div class = "alert alert-info">
-  <p>Para exportar e importar especificaciones mediante la <strong>Catalog API</strong>, siga la guía para desarrolladores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a> (Cómo crear una especificación).</p>
-</div>
+>ℹ️ Para exportar e importar especificaciones mediante la **Catalog API**, siga la guía para desarrolladores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification) (Cómo crear una especificación).
 
 ## Exportar especificaciones de producto o SKU
 
@@ -41,6 +39,8 @@ Vea a continuación cómo exportar la plantilla con las especificaciones del pro
 
 ![skuexport2.es](https://images.ctfassets.net/alneenqid6w5/6aQThG8rLVv6c48ZAO1in4/eeb2118c25334f4b18d485b2c2127cd5/skuexport2.es.png)
 
+>ℹ️ La hoja de plantilla exportada estará disponible en tu email durante una semana. Si supera este periodo, vuelva a seguir la exportación paso a paso para generar una nueva hoja de plantilla.
+
 ## Importar especificaciones de producto o SKU
 
 Para importar las especificaciones se recomienda utilizar una planilla exportada del sistema, ya que ésta presenta los requisitos necesarios para la importación, además de contener datos de referencia que podrán auxiliar en el rellenado.
@@ -49,9 +49,7 @@ En la planilla de importación, la única columna que debe rellenarse es la de �
 
 La estructura de la plantilla presenta una línea para cada campo de producto o de SKU, o sea, el mismo producto o SKU será presentado diversas veces de acuerdo a los campos existentes en su categoría.
 
-<div class="alert alert-warning">
-  <p>En plantilla exportada, la columna que hace referencia a "ValueSpecification" es "NameFieldValue (Não alterável)". Al rellenar el campo, la ortografía de las características debe ser exacta. Las mayúsculas y las minúsculas marcan la diferencia en este caso.</p>
-  </div>
+>⚠️ En plantilla exportada, la columna que hace referencia a "ValueSpecification" es "NameFieldValue (Não alterável)". Al rellenar el campo, la ortografía de las características debe ser exacta. Las mayúsculas y las minúsculas marcan la diferencia en este caso.
 
 Siga los pasos a continuación para importar la plantilla:
 

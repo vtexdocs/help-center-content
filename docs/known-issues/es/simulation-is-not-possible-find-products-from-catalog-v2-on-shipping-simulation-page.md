@@ -3,8 +3,8 @@ title: 'Simulación No es posible encontrar Productos del Catálogo V2 en la Pá
 id: 7jZBMAZHNilokDdbCxWzSs
 status: PUBLISHED
 createdAt: 2022-05-18T18:26:09.456Z
-updatedAt: 2022-11-25T21:59:14.900Z
-publishedAt: 2022-11-25T21:59:14.900Z
+updatedAt: 2024-02-16T20:28:57.548Z
+publishedAt: 2024-02-16T20:28:57.548Z
 firstPublishedAt: 2022-05-18T18:26:10.048Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: simulacion-no-es-posible-encontrar-productos-del-catalogo-v2-en-la-pagina-de-simulacion-de-envio
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 488362
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Hay un problema al utilizar el autocompletado para encontrar productos en el módulo de simulación de productos del catálogo V2.

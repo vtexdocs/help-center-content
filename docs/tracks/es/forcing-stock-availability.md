@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugES: forzar-disponibilidad-de-stock
 ---
 
-<div class="alert alert-danger">
-La configuración para forzar la disponibilidad de stock, explicada en este artículo, implica cambiar el archivo <code>checkout-instore-custom.js</code>. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en este archivo pueden causar errores críticos.
-</div>
+>❗ La configuración para forzar la disponibilidad de stock, explicada en este artículo, implica cambiar el archivo `checkout-instore-custom.js`. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en este archivo pueden causar errores críticos.
 
 Por defecto, si un SKU no tiene stock en el catálogo de la tienda, no es posible vender ese SKU con inStore.
 
@@ -34,6 +32,4 @@ window.INSTORE_CONFIG = {
 }
 ```
 
-<div class="alert alert-danger">
-No elimine ninguna de las otras propiedades presentes en el objeto <code>window.INSTORE_CONFIG</code>, para evitar romper otras funciones.
-</div>
+>❗ No elimine ninguna de las otras propiedades presentes en el objeto `window.INSTORE_CONFIG`, para evitar romper otras funciones.

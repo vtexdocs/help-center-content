@@ -1,5 +1,5 @@
 ---
-title: '¿Por qué el pedido se encuentra en el status "Verificando fatura"?'
+title: "¿Por qué el pedido se encuentra en el status 'Verificando fatura'?"
 id: 5VJjxRjeH6SimiG0Wkk2gm
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:44.680Z

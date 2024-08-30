@@ -3,8 +3,8 @@ title: 'Configurar pagamento com BluePay'
 id: 26gzpfmEiwgpE8yhkaFS16
 status: PUBLISHED
 createdAt: 2023-04-03T14:55:51.576Z
-updatedAt: 2023-04-03T15:04:37.336Z
-publishedAt: 2023-04-03T15:04:37.336Z
+updatedAt: 2024-07-24T13:29:26.700Z
+publishedAt: 2024-07-24T13:29:26.700Z
 firstPublishedAt: 2023-04-03T15:04:37.336Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-bluepay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento BluePay. Por meio deste conector, sua loja pode realizar vendas pelo PIX.
+Na VTEX, é possível realizar a integração com o provedor de pagamento BluePay. Por meio deste provedor, sua loja pode realizar vendas pelo PIX.
 
-Para configurar a afiliação BluePay, siga os passos abaixo:
+Para configurar BluePay, siga os passos abaixo:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __BluePay__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __BluePay__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta BluePay.
 5. Caso seja exibida uma mensagem de alerta indicando a necessidade de instalação do app, clique no botão `Instalar app` e siga as instruções de instalação.
 6. Clique em `Salvar`.

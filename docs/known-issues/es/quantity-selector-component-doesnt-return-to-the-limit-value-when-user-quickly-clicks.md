@@ -3,8 +3,8 @@ title: 'El componente selector de cantidad no vuelve al valor límite cuando el 
 id: 4QRAzY1A0UD8hOUEkxAawz
 status: PUBLISHED
 createdAt: 2022-09-16T16:27:15.880Z
-updatedAt: 2022-11-25T22:13:30.254Z
-publishedAt: 2022-11-25T22:13:30.254Z
+updatedAt: 2024-02-16T20:28:10.783Z
+publishedAt: 2024-02-16T20:28:10.783Z
 firstPublishedAt: 2022-09-16T16:27:16.745Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: el-componente-selector-de-cantidad-no-vuelve-al-valor-limite-cuando-el-usuario-hace-clic-rapidamente
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 659909
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Básicamente, hay una función que recibe el estado actualizado del valor que está siendo controlado en la pantalla por el usuario (es un useState). Esta función se utiliza en todo el componente para manejar las actualizaciones del estado de la cantidad. Para que este estado se actualice automáticamente cuando el usuario supere la cantidad devuelta en el contexto, relacionada con la disponibilidad del artículo, se pasa dentro de un useEffect.

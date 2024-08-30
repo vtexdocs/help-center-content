@@ -20,7 +20,7 @@ Abaixo você encontrar informações sobre como você efetua a configuração do
 
 1. Para executar este procedimento você deve abrir o administrador da sua loja VTEX e a tela de configuração do adaptador. Sugerimos fazer isto em duas abas separadas do seu navegador preferido.
 2. No administrador da VTEX (`https://{suaconta}.myvtex.com.br/admin`), clique em **Gerenciamento de contas** e, em seguida, em **Contas**.
-![imagem-adaptador3](//images.contentful.com/alneenqid6w5/16pH131NlS4xUtpmPbXbTN/b2392494bf4b077eb3642b810617a06e/image.png)
+![imagem-adaptador3](https://images.contentful.com/alneenqid6w5/16pH131NlS4xUtpmPbXbTN/b2392494bf4b077eb3642b810617a06e/image.png)
 3. Digite o nome da sua conta na barra de pesquisa e pressione o botão `Enter`.
 4. Clique no nome da sua conta. Você será redirecionado para a página **Editar conta**.
 5. Na seção **Segurança**, clique em `Gerar appKey e appToken`.
@@ -28,25 +28,21 @@ Abaixo você encontrar informações sobre como você efetua a configuração do
 7. Clique em `Gerar novos tokens`.
 8. Por uma questão de segurança, é mostrado apenas uma vez. Copie esse token e salve-o em um local seguro para usá-los na tela de configuração do adaptador.
 9. Na tela do adaptador, você deve colocar os valores copiados nos respectivos campos.
-![imagem-adaptador-4](//images.contentful.com/alneenqid6w5/6R4NOb4hNQFozSlj2zQ90u/8b4b1c2730e7776bc5075826921c0054/image.png)
+![imagem-adaptador-4](https://images.contentful.com/alneenqid6w5/6R4NOb4hNQFozSlj2zQ90u/8b4b1c2730e7776bc5075826921c0054/image.png)
 10. Preencha o email para receber notificações do adapter. Este email será utilizado para lembrete de senha.
 11. Preencha o campo  app-Key com o valor configurado no ambiente VTEX.
 12. Preencha o campo appToken com o valor gerado no ambiente VTEX.
 13. Por fim, clique no botão `SALVAR`. Aguarde o adaptador fazer a validação das configurações junto ao ambiente da VTEX. 
-<div class="alert alert-info">
-<p>Em caso de falha, você deve revisar as configurações inseridas em cada um dos campos. é importante garantir que não existem espaços (Antes e depois) dos valores contidos nas caixas.</p>
-</div>
+>ℹ️ Em caso de falha, você deve revisar as configurações inseridas em cada um dos campos. é importante garantir que não existem espaços (Antes e depois) dos valores contidos nas caixas.
 14. Após a confirmação de sucesso na autenticação, você já pode fechar a tela.
 
 ## Procedimento para configurar campos de controle da integração com ERP
 
 Você deve criar os campos da tabela abaixo dentro do MasterData.
 
-![imagem-adaptador-5](//images.contentful.com/alneenqid6w5/5X8ejWR6ag2C9yv16v8Rjy/ef95d8b91860e8a3b1c170e067f15030/image.png)
+![imagem-adaptador-5](https://images.contentful.com/alneenqid6w5/5X8ejWR6ag2C9yv16v8Rjy/ef95d8b91860e8a3b1c170e067f15030/image.png)
 
-<div class="alert alert-warning">
-<p>Você deve criar estes campos antes de executar as operações de migração de dados da Ciashop para VTEX.</p>
-</div>
+>⚠️ Você deve criar estes campos antes de executar as operações de migração de dados da Ciashop para VTEX.
 
 Você deve criar os campos acima individualmente, para isso siga os passos a seguir:
 
@@ -74,9 +70,7 @@ Para colocar o campo criado dentro do fórmulário de clientes, você deve segui
 7. Arraste o campo da lista **Campos disponíveis** para coluna **Campos da coluna 2**.
 8. No canto inferior direito da tela, clique no botão `Salvar`.
 
-<div class="alert alert-warning">
-<p>Caso estes passos não sejam executados, não será possível enviar os clientes criados na VTEX para o ERP.</p>
-</div>
+>⚠️ Caso estes passos não sejam executados, não será possível enviar os clientes criados na VTEX para o ERP.
 
 ## Configurar campos customizados
 
@@ -100,6 +94,6 @@ Para trabalhar com integração de campos customizados de produto, você deve cr
 ## Configurar os métodos de pagamento corretamente na VTEX
 
 1. No administrador da loja, dentro de condições de pagamento, usada durante a criação dos métodos de pagamento no ambiente VTEX, você deve selecionar o o campo abaixo para inserir o nome do meio de pagamento.
-![imagem-adaptador-6](//images.contentful.com/alneenqid6w5/1iQe6XtH6bIrayKoHR8xdl/8fda5767c04aef042f432b25a5152ce0/image.png)
+![imagem-adaptador-6](https://images.contentful.com/alneenqid6w5/1iQe6XtH6bIrayKoHR8xdl/8fda5767c04aef042f432b25a5152ce0/image.png)
 2. Você deve escolher uma dos valores da lista abaixo, contidos na coluna **Nome da Regra** e colocá-lo no campo sinalizado acima, de acordo com o método de pagamento que está configurando. Exemplo: se você estiver configurando o Boleto Bancário Bradesco, então deve colocar o nome Bradesco Registrado.
-![lista-da-regra-metodo-pagamento-adaptador](//images.contentful.com/alneenqid6w5/6xtIude1FzuhGd6eTtLXBX/648098004b0be3ef24890ed10310e4a7/lista-da-regra-metodo-pagamento.png)
+![lista-da-regra-metodo-pagamento-adaptador](https://images.contentful.com/alneenqid6w5/6xtIude1FzuhGd6eTtLXBX/648098004b0be3ef24890ed10310e4a7/lista-da-regra-metodo-pagamento.png)

@@ -1,16 +1,16 @@
 ---
 title: 'Configurar la integración de los puntos de recogida '
 id: 52C1lm8gMovN8v68s6v89d
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-08-12T18:12:20.076Z
-updatedAt: 2021-09-08T17:52:30.570Z
-publishedAt: 2021-09-08T17:52:30.570Z
+updatedAt: 2024-03-11T22:19:05.610Z
+publishedAt: 
 firstPublishedAt: 2021-08-19T15:16:01.224Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-la-integracion-de-los-puntos-de-recogida
 locale: es
-trackId: 2YfvI3Jxe0CGIKoWIGQEIq
+trackId: 
 trackSlugES: configurar-integracion-con-mercado-libre
 ---
 
@@ -20,11 +20,9 @@ En este artículo, explicaremos cómo crear puntos de recogida en Mercado Libre,
 
 Cuando los pedidos que utilizan la opción de recogida en la tienda llegan a VTEX, se asignan a la cuenta franquicia que posee el punto de recogida elegido por el cliente y se modifica el stock del punto de recogida.
 
-![configurar pontosderetirada01 ES](//images.contentful.com/alneenqid6w5/39DuF7GI3SC432EtzjWlwn/6361d5707ff1139a6dfed63d1c48380c/configurar_pontosderetirada01_ES.JPG)
+![configurar pontosderetirada01 ES](https://images.contentful.com/alneenqid6w5/39DuF7GI3SC432EtzjWlwn/6361d5707ff1139a6dfed63d1c48380c/configurar_pontosderetirada01_ES.JPG)
 
-<div class="alert alert-info">
-Antes de crear los puntos de recogida, debe solicitar a Mercado Livre la activación de la modalidad “Recogida en la tienda”. Para eso, contacte a su asesor comercial de Mercado Libre o abra un ticket para el equipo de <a href="https://developers.mercadolivre.com.br/en_us/support/">Soporte.</a>
-</div>
+>ℹ️ Antes de crear los puntos de recogida, debe solicitar a Mercado Livre la activación de la modalidad “Recogida en la tienda”. Para eso, contacte a su asesor comercial de Mercado Libre o abra un ticket para el equipo de [Soporte.](https://developers.mercadolivre.com.br/en_us/support/)
 
 Para criar os pontos de retirada, você vai precisar:
 
@@ -58,12 +56,12 @@ Para ativar os pontos de retirada nas contas franquias:
 1. Acceda al Admin VTEX.
 2. En el módulo MARKETPLACE, seleccione **Integraciones**.
 3. Luego, haga clic en `Configuración`.
-4. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+4. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 5. Elija la opción `Editar configuración`.
 6. En el campo **Activar integración de los puntos de recogida de las cuentas franquicia**, haga clic en la opción `Sí`.
 7. Haga clic en `Guardar configuración`.
 
-![Home (3)](//images.contentful.com/alneenqid6w5/57X4xTb1GhL1nJbUyHMZJ7/a46c76f83a00f9dda9569b364beddd04/Home__3_.gif)
+![Home (3)](https://images.contentful.com/alneenqid6w5/57X4xTb1GhL1nJbUyHMZJ7/a46c76f83a00f9dda9569b364beddd04/Home__3_.gif)
 
 ## Confirmar el envío del punto de recogida  
 
@@ -75,13 +73,13 @@ Para comprobar si el punto de recogida se envió a Mercado Libre:
 
 En la lista de puntos de recogida enviados, podrá ver cuáles se enviaron con éxito y cuáles tienen un error de configuración.
 
-![Home (4)](//images.contentful.com/alneenqid6w5/4qygOb8Eo7uCPJc3oVuFfW/2277aac1274797ac269d1259b2035f23/Home__4_.gif)
+![Home (4)](https://images.contentful.com/alneenqid6w5/4qygOb8Eo7uCPJc3oVuFfW/2277aac1274797ac269d1259b2035f23/Home__4_.gif)
 
 En Mercado Libre no hay una pantalla para visualizar si un determinado punto de recogida ha sido vinculado. Recomendamos que elija un anuncio en Mercado Libre que esté asociado al punto de recogida y que realice una compra de prueba, eligiendo la opción «Punto de recogida» en el checkout. A continuación, compruebe si el punto de recogida realmente está disponible en la lista que Mercado Libre muestra en el checkout.
 
 ## Confirmar la asociación del punto de recogida y el anuncio  
 
-![configurar pontosderetirada02 ES](//images.contentful.com/alneenqid6w5/4X8ectjkvXMtxZygafunJ1/ee4121a438cbbecc712f2e2ca9849f69/configurar_pontosderetirada02_ES.JPG)
+![configurar pontosderetirada02 ES](https://images.contentful.com/alneenqid6w5/4X8ectjkvXMtxZygafunJ1/ee4121a438cbbecc712f2e2ca9849f69/configurar_pontosderetirada02_ES.JPG)
 
 Para confirmar si el punto de recogida se asoció correctamente con el anuncio de Mercado Libre, debe verificar qué puntos de recogida están sincronizados con cada SKU y sus respectivos stocks. Realice los siguientes pasos:
 
@@ -93,4 +91,4 @@ Para confirmar si el punto de recogida se asoció correctamente con el anuncio d
 
 Si no se produjo ningún error, el SKU encontrado se sincronizará con los puntos de recogida, y sus respectivos stocks se mostrarán en la lista.
 
-![Home (5)](//images.contentful.com/alneenqid6w5/4k1x9ZQWKFwuxm8sbCod25/de93e9b7e9645ee73b55f013b828a529/Home__5_.gif)
+![Home (5)](https://images.contentful.com/alneenqid6w5/4k1x9ZQWKFwuxm8sbCod25/de93e9b7e9645ee73b55f013b828a529/Home__5_.gif)

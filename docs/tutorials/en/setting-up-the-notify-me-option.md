@@ -15,9 +15,7 @@ legacySlug: set-up-the-notify-me
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-<div class="alert alert-warning">
-<p>This article explains how to set up the <strong>Notify me</strong> feature in stores that use <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Legacy CMS Portal</a>. For stores using <a href="https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io">VTEX IO</a>, the setup follows the steps described in the <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify">Availability Notify</a> guide.</p>
-</div>
+>⚠️ This article explains how to set up the **Notify me** feature in stores that use [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). For stores using [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), the setup follows the steps described in the [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify) guide.
 
 When a product is out of [stock](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139), the retailer may choose to make the **Notify me** feature available to the customer. This feature allows interested customers to be notified by email when the item is available again.
 

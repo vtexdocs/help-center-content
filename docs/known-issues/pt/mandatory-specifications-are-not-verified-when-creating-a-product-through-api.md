@@ -18,9 +18,7 @@ internalReference: 522293
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os produtos com especificações obrigatórias não devem estar ativos se pelo menos uma dessas especificações não for preenchida ou verificada.

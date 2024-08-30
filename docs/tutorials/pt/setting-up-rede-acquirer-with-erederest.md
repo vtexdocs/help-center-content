@@ -1,10 +1,10 @@
 ---
 title: 'Configurar adquirente Rede com o ERedeRest'
 id: 5TD6Ap9kiIUSiAMUsgYmcY
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-12T15:47:44.783Z
-updatedAt: 2023-03-29T01:11:21.243Z
-publishedAt: 2023-03-29T01:11:21.243Z
+updatedAt: 2024-03-18T18:22:35.227Z
+publishedAt: 
 firstPublishedAt: 2018-04-13T15:41:42.879Z
 contentType: tutorial
 productTeam: Financial
@@ -15,11 +15,11 @@ legacySlug: configurar-adquirente-rede-com-o-erederest
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+>❗ Essa integração de pagamento não pode ser mais configurada na plataforma devido ao [processo de remoção de provedores legados](https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14) e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.
+
 Na VTEX, você pode fazer a integração com o [adquirente](/pt/tutorial/o-que-e-um-adquirente) Rede usando o conector ERedeREST. Esse conector traz uma série de melhorias, entre elas o suporte a meios de pagamento com pré-autorização (__Visa__, __Mastercard__, __American Express__, __Diners__, __Hipercard__, __JCB__ e __Credz__).
 
-<div class="alert alert-warning">
-A bandeira <strong>Elo</strong> ainda não oferece suporte para pré-autorização. 
-</div>
+>⚠️ A bandeira **Elo** ainda não oferece suporte para pré-autorização.
 
 Outra característica importante do conector ERedeREST é que você também pode configurá-lo para aceitar pagamentos com [__Apple Pay__](/pt/tutorial/configurar-pagamentos-com-apple-pay), a carteira digital da Apple.
 

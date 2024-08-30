@@ -1,10 +1,10 @@
 ---
-title: ' "Visited product" feature does not work properly'
+title: " 'Visited product' feature does not work properly"
 id: 5AiCVwLkGToEgtLkZVPe5i
 status: PUBLISHED
 createdAt: 2022-11-25T18:45:15.389Z
-updatedAt: 2022-11-30T19:05:56.190Z
-publishedAt: 2022-11-30T19:05:56.190Z
+updatedAt: 2024-02-16T20:27:41.835Z
+publishedAt: 2024-02-16T20:27:41.835Z
 firstPublishedAt: 2022-11-25T18:45:15.854Z
 contentType: knownIssue
 productTeam: Analytics
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: visited-product-feature-does-not-work-properly
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 701169
 ---
 

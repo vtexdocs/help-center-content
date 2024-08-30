@@ -20,9 +20,7 @@ Essas condições, por sua vez, são baseadas nos dados que o [Master Data](http
 
 Desse modo, as regras de prazo e parcelamento serão aplicadas ao(s) consumidor(es) que se encaixarem na condição - ou condições. 
 
-<div class="alert alert-danger">
-<strong>Atenção</strong>: só é permitido criar cinco clusters de clientes por condição de pagamento.
-</div>  
+>❗ **Atenção**: só é permitido criar cinco clusters de clientes por condição de pagamento.  
 
 Para configurá-las, escolha uma propriedade e, em seguida, selecione os parâmetros para criar um cluster.
 

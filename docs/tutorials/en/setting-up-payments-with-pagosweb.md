@@ -1,10 +1,10 @@
 ---
 title: 'Setting up payments with PagosWEB'
 id: 2qKIeEPUBKqEGo2OyikyQw
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-05T15:48:50.151Z
-updatedAt: 2023-03-29T01:06:09.900Z
-publishedAt: 2023-03-29T01:06:09.900Z
+updatedAt: 2024-03-18T19:12:24.950Z
+publishedAt: 
 firstPublishedAt: 2018-04-05T22:01:49.141Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: en
 legacySlug: setting-up-payments-with-pagosweb
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+>❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
 
 You can set up PagosWEB to receive payments in your store. With it, your customer chooses PaymentsWEB __payment method__ to make the purchase.
 

@@ -3,8 +3,8 @@ title: 'Envio de produtos para o Facebook'
 id: 41qzoa7TWIYTyIhABHdgzI
 status: PUBLISHED
 createdAt: 2021-02-08T19:45:07.202Z
-updatedAt: 2021-07-09T22:04:10.786Z
-publishedAt: 2021-07-09T22:04:10.786Z
+updatedAt: 2024-01-22T15:03:37.861Z
+publishedAt: 2024-01-22T15:03:37.861Z
 firstPublishedAt: 2021-02-08T20:10:14.152Z
 contentType: trackArticle
 productTeam: Channels
@@ -32,9 +32,7 @@ Caso você queira enviar atributos de produtos para o Facebook, existe uma etapa
 
 A etapa adicional é a realização de um mapeamento das especificações dos produtos. O mapeamento é o que faz a correspondência entre os atributos cadastrados na sua loja VTEX e os padrões adotados pelo Facebook.
 
-<div class="alert alert-warning">
-O mapeamento de atributos por planilha é opcional,  mas se você escolher realizá-lo, ele deve ser feito seguindo todos os passos descritos no artigo. Caso contrário, podem ocorrer erros na integração.
-</div>
+>⚠️ O mapeamento de atributos por planilha é opcional,  mas se você escolher realizá-lo, ele deve ser feito seguindo todos os passos descritos no artigo. Caso contrário, podem ocorrer erros na integração.
 
 ## Envio de atributos para o Facebook
 
@@ -54,9 +52,7 @@ O primeiro passo para realizar o mapeamento é fazer o download do arquivo [Plan
 
 O segundo passo para o mapeamento é preencher o arquivo baixado. Trata-se de uma planilha, constituída de uma única aba, na qual é possível identificar cinco colunas.
 
-<div class="alert alert-info">
-A planilha de mapeamento do Facebook é <i>case sensitive</i>, ou seja, é sensível para o uso de letras maiúsculas e minúsculas.
-</div>
+>ℹ️ A planilha de mapeamento do Facebook é <i>case sensitive</i>, ou seja, é sensível para o uso de letras maiúsculas e minúsculas.
 
 - **Primeira coluna, _ID Category_:** deve ser preenchida com o número de identificação da categoria do produto na plataforma VTEX. Você encontra o ID de uma categoria no Admin, no módulo _Produtos > Catálogo > Categorias_. O ID da categoria é o número à esquerda do nome da categoria.
 - **Segunda coluna, _VTEX attribute name_:** deve conter o nome do atributo cadastrado na VTEX.
@@ -65,9 +61,7 @@ A planilha de mapeamento do Facebook é <i>case sensitive</i>, ou seja, é sens�
 - **Terceira coluna, _Facebook attribute name:_** deve ser preenchida com o termo correspondente utilizado pelo Facebook para um atributo.
 > Exemplo: a correspondência no Facebook para o atributo _Cor_ é _color_.
 
-  <div class="alert alert-info">
-Para saber os nomes de atributos e valores de referência, consulte a documentação do Facebook <a href="https://developers.facebook.com/docs/commerce-platform/catalog/fields?locale=pt_BR#universal-basic-attributes">Universal Basic Attributes</a>. Se não houver correspondência para um atributo ou valor, preencha a coluna Facebook attribute name com o mesmo termo utilizado na VTEX.
-</div>
+  >ℹ️ Para saber os nomes de atributos e valores de referência, consulte a documentação do Facebook [Universal Basic Attributes](https://developers.facebook.com/docs/commerce-platform/catalog/fields?locale=pt_BR#universal-basic-attributes). Se não houver correspondência para um atributo ou valor, preencha a coluna Facebook attribute name com o mesmo termo utilizado na VTEX.
 
 - **Quarta coluna, _VTEX attribute value_:** deve ser preenchida com os valores dos seus atributos na VTEX.
 > Exemplo: digamos que na sua loja VTEX, para o atributo _Gênero_ exista o valor _Feminino._ Portanto, você deve preencher a coluna _VTEX attribute value_ com a palavra _Feminino_.
@@ -89,12 +83,12 @@ Veja um exemplo de planilha preenchida:
 O terceiro e último passo para concluir o mapeamento é fazer o upload da planilha preenchida. Esta ação é realizada no Admin, através dos seguintes passos:
 
 1. Acesse o Admin.
-2. No módulo _MARKETPLACE_, clique em `Integrações`.
-3. Selecione a opção `Configurações`.
-4. No card do Facebook, clique na <i class="fas fa-cog"></i>
-5. Escolha a opção `Upload de mapeamento`.
-6. Clique em `Escolher um arquivo`.
-7. Selecione a planilha de mapeamento preenchida.
-8. Clique em `Enviar arquivo`.
+2. No módulo Marketplace, clique em Marketplace e integrações.
+4. Procure Facebook na barra de busca.
+5. Clique em `Editar`
+6. Escolha a opção `Mapeamento de categorias`.
+7. Clique em `Escolher um arquivo`.
+8. Selecione a planilha de mapeamento preenchida.
+9. Clique em `Enviar arquivo`.
 
 Feito isso, você terá concluído o mapeamento de categorias e atributos dos seus produtos. O tempo para isso se refletir no Facebook vai depender da extensão do seu catálogo.

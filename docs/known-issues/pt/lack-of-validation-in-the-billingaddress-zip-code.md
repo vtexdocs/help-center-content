@@ -18,9 +18,7 @@ internalReference: 375481
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 É possível preencher e completar a compra preenchendo o código postal "faturamento/endereço" com caracteres não-numéricos

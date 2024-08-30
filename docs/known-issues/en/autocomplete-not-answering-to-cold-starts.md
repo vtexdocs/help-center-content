@@ -3,8 +3,8 @@ title: 'Autocomplete not answering to cold starts'
 id: 2lgYjT8lmFIvLV3vKOXKmt
 status: PUBLISHED
 createdAt: 2022-02-23T22:01:05.141Z
-updatedAt: 2022-11-25T21:58:01.186Z
-publishedAt: 2022-11-25T21:58:01.186Z
+updatedAt: 2024-03-14T18:48:50.406Z
+publishedAt: 2024-03-14T18:48:50.406Z
 firstPublishedAt: 2022-02-23T22:01:05.666Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: autocomplete-not-answering-to-cold-starts
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 418573
 ---
 
@@ -23,6 +23,7 @@ Intelligent Search feature known as **autocomplete** is not working for some new
 
 
 
+##
 
 ## Simulation
 
@@ -30,9 +31,13 @@ Intelligent Search feature known as **autocomplete** is not working for some new
 N/A.
 
 
+##
 
 ## Workaround
 
 
 Currently there's no workaround for this Known Issue, but autocomplete itself is working properly and will keep learning based on user experience, which means that a while after go-live it will work just fine for new accounts.
+
+
+
 

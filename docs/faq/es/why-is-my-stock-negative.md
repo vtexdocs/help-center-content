@@ -3,8 +3,8 @@ title: '¿Por qué mi inventario está negativo?'
 id: frequentlyAskedQuestions_159
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:51.880Z
-updatedAt: 2023-03-22T20:34:48.834Z
-publishedAt: 2023-03-22T20:34:48.834Z
+updatedAt: 2024-04-18T14:18:13.634Z
+publishedAt: 2024-04-18T14:18:13.634Z
 firstPublishedAt: 2017-04-27T23:01:42.612Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
@@ -38,6 +38,4 @@ Para ajustar este escenario, el stock del elemento se debe actualizar con la can
 4. En la columna __Actualizar recuento__, rellene el valor indicado en la descripción anterior.
 5. Haga clic en __Guardar__.
 
-<div class="alert alert-warning">
-Cuando dos o más stocks utilizan la misma <a href="https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV">política comercial</a> y uno de estos stocks tiene una cantidad negativa de unidades, el SKU pasa a no estar disponible para la venta, aunque haya una cantidad disponible en uno de los stocks.  
-</div>
+>⚠️ Cuando dos o más stocks utilizan la misma [política comercial](https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) y uno de estos stocks tiene una cantidad negativa de unidades, el SKU pasa a no estar disponible para la venta, aunque haya una cantidad disponible en uno de los stocks.

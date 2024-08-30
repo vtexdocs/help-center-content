@@ -30,10 +30,9 @@ This article explains the main means of investigating, in the VTEX Admin, what a
 * [Logistics](#logistics)
 * [CMS](#cms)
 
-<div class="alert alert-info">
-<p>After adjusting any of the product and SKU details or after changing the Logistics settings, you must wait for the product to be indexed. You can check the indexing status in the <a href="https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256">indexing queue</a> in <strong>Catalog > Reports > Product indexing</strong>.</p>
-<p>When the indexing is finished, try accessing the product page from an anonymous tab to view the updated page version avoiding cache issues.</p>
-</div>
+>ℹ️ After adjusting any of the product and SKU details or after changing the Logistics settings, you must wait for the product to be indexed. You can check the indexing status in the [indexing queue](https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256) in **Catalog > Reports > Product indexing**.
+>
+> When the indexing is finished, try accessing the product page from an anonymous tab to view the updated page version avoiding cache issues.
 
 ## Catalog
 
@@ -58,10 +57,9 @@ To check the product settings, you must follow the steps below.
     * **Brand:** Check the brand associated with the product and make sure it is active.
     * **Category:** Check the category associated with the product and make sure it is active.
 
-   <div class="alert alert-warning">
-      <p>When adding a new product, you must associate it with a brand and a category that are active before it can be activated for the first time. However, once a product has been added and is active, deactivating the category and brand will not deactivate it completely.</p>
-      <p>Products with inactive categories and brands become invisible in the store, which means they are not displayed in the search results and do not have their own pages. To make them unavailable, you must reset their quantity in stock to zero.</p>
-   </div>
+   >⚠️ When adding a new product, you must associate it with a brand and a category that are active before it can be activated for the first time. However, once a product has been added and is active, deactivating the category and brand will not deactivate it completely.
+>
+> Products with inactive categories and brands become invisible in the store, which means they are not displayed in the search results and do not have their own pages. To make them unavailable, you must reset their quantity in stock to zero.
 
     * **Trade policies:** Check if the product is associated with a [trade policy](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV). If it's not, use the selection box to choose the trade policy with which you want to associate it.
     * **Market launch date:** Check if the date for the product launch on market is correct. If the date is set in the future, the product will only be displayed on the website at the mentioned date.
@@ -71,9 +69,9 @@ To check the product settings, you must follow the steps below.
     * If the product contains specifications, check the **Specifications** tab to see if they are filled in.
 3. After each change, click `Save`.
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/nGAGYNdVtTFdAPjW1mi5f/080a8fbd5815fe8059b449a23c01b944/02-campos-produto-en.png" alt="02-campos-produto-en" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Fields you must check on the product information page.</em></figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/nGAGYNdVtTFdAPjW1mi5f/080a8fbd5815fe8059b449a23c01b944/02-campos-produto-en.png" alt="02-campos-produto-en" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Fields you must check on the product information page.</em></figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/6UXDapFf9bvtnCSoHQBwZC/4870d3860fc73faed98f2237aa85cca9/03-aba-especificacoes-en.png" alt="03-aba-especificacoes-en" style="margin-bottom: 20px;"> <figcaption align = "center"><em><strong>Specifications</strong> tab</em></figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/6UXDapFf9bvtnCSoHQBwZC/4870d3860fc73faed98f2237aa85cca9/03-aba-especificacoes-en.png" alt="03-aba-especificacoes-en" style="margin-bottom: 20px;"> <figcaption align = "center"><em><strong>Specifications</strong> tab</em></figcaption></figure>
 
 ### SKUs
 
@@ -107,7 +105,7 @@ On the SKUs page, in **Products > Catalog > Products and SKUs**, follow the inst
 8. Check if the SKU contains at least one image. If it does not, the SKU will not be activated — follow the next step to correct this problem.
 9. Click `Insert` to upload a new image. If you prefer, click `Associate existing images`  to include an image already used for another SKU.
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/3StXGBCMW8ZExshcEhfF9m/ebc572e69e7dc83a5de491a83c4233ac/08-aba-imagens-en.png" alt="08-aba-imagens-es" style="margin-bottom: 20px;"> <figcaption align = "center"><em><strong>Images</strong> tab</em></figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/3StXGBCMW8ZExshcEhfF9m/ebc572e69e7dc83a5de491a83c4233ac/08-aba-imagens-en.png" alt="08-aba-imagens-es" style="margin-bottom: 20px;"> <figcaption align = "center"><em><strong>Images</strong> tab</em></figcaption></figure>
 
 ![09-sku-imagens-en](https://images.ctfassets.net/alneenqid6w5/1JJflflW0ACgVn05sRv29x/f58814d66052faf18d3bc44e68eb83cc/09-sku-imagens-en.PNG)
 
@@ -131,10 +129,9 @@ An active SKU without errors will appear in the index, similar to the one illust
 
 ![11-indexed-info-code-active](https://images.ctfassets.net/alneenqid6w5/3Sd3Ta5gzKo0LY9dMHmCqp/9e9c99cc4c9408c6dfbaddd4feaaaa84/11-indexed-info-code-active.png)
 
-<div class="alert alert-info">
-<p>If no reason is given for the product’s unavailability and if you do not find any issues in the product/SKUs, reindexing the product may solve the problem.</p>
-<p>To do this, you can edit one of the fields within the product or SKUs information page and save the changes. This will force a reindexing.</p>
-</div>
+>ℹ️ If no reason is given for the product’s unavailability and if you do not find any issues in the product/SKUs, reindexing the product may solve the problem.
+>
+> To do this, you can edit one of the fields within the product or SKUs information page and save the changes. This will force a reindexing.
 
 ## Prices
 
@@ -177,9 +174,7 @@ The **Shipping simulator** allows you to check if the item exists in the invento
 
 ![13-simular-frete-pt](https://images.ctfassets.net/alneenqid6w5/rJE0n5ZijrAerIWzzf2Gy/0fbc4b15077d4ea265c82c0a70f5f064/13-simular-frete-en.PNG)
 
-<div class="alert alert-info">
-<p>To investigate a specific item, you must perform the simulation using a <strong>zip code</strong> included in all the <a href="https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140">trade policies</a>. If you find out the item is not available for that zip code, it means it will not be available for any other one.</p>
-</div>
+>ℹ️ To investigate a specific item, you must perform the simulation using a **zip code** included in all the [trade policies](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140). If you find out the item is not available for that zip code, it means it will not be available for any other one.
 
 The simulation result shows whether the product is available for delivery at the provided address and which are the best shipping options. For example, if there are not enough available items in stock, the simulator will display the following message:
 
@@ -212,9 +207,7 @@ For more information, please read the [Inventory management](https://help.vtex.c
 
 If your product is still not visible on the website even after checking all the **Catalog**, **Prices** and **Logistics** settings, you must check your store [CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC). See below to learn how to investigate if your store's [binding](https://help.vtex.com/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) is correct and check the specific settings for [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) and [VTEX IO](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2).
 
-<div class="alert alert-warning">
-<p>To perform the CMS investigation described below, you must ask your store's developer team for support.</p>
-</div>
+>⚠️ To perform the CMS investigation described below, you must ask your store's developer team for support.
 
 ## Binding
 

@@ -15,9 +15,7 @@ legacySlug: registering-a-products-base-price
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---
 
-<div class="alert alert-info">
-This article refers to the latest version of VTEX Pricing. If your store is not yet in this new version, you can request the migration by contacting our support team.
-</div>
+>ℹ️ This article refers to the latest version of VTEX Pricing. If your store is not yet in this new version, you can request the migration by contacting our support team.
 
 The __base price__ is the basic selling price of a product. It comprises the __cost price__ and the __markup__ wanted in the sale of the product.
 
@@ -30,9 +28,7 @@ To set the base price, follow the steps below:
 - In the __Markup__ field, fill in the profit margin to be obtained by selling this SKU.
 - The base price will be calculated according to the data provided in the previous steps.
 
-<div class="alert alert-info">
-If the SKU has a list price, you can add this information by clicking <strong>+ Set list price</strong>.
-</div>
+>ℹ️ If the SKU has a list price, you can add this information by clicking **+ Set list price**.
 
 ## Related articles
 

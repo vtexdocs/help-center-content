@@ -3,8 +3,8 @@ title: 'Como é calculado o prazo de entrega do pedido'
 id: 1TOuKCIjGQmqOqQkEqCg82
 status: PUBLISHED
 createdAt: 2018-01-12T12:56:52.805Z
-updatedAt: 2023-03-29T14:09:06.429Z
-publishedAt: 2023-03-29T14:09:06.429Z
+updatedAt: 2023-09-23T00:34:19.034Z
+publishedAt: 2023-09-23T00:34:19.034Z
 firstPublishedAt: 2018-01-12T14:42:26.502Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,27 +15,22 @@ legacySlug: como-e-calculado-o-prazo-de-entrega-do-pedido
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-O prazo de entrega de um pedido leva em consideração os __tempos de custo__ definidos para as cinco etapas da rota de logística:
-- Estoque.
-- Doca.
-- Transportadora.
-- Feriados.
-- Horários de corte.
+O prazo de envio de um pedido leva em consideração os seguintes aspectos da logística:
 
-Ou seja, para cada uma dessas etapas você pode definir um tempo de custo - e o prazo de entrega que o seu cliente verá no checkout é a soma desses tempos de custo.
+- [Lead time](https://help.vtex.com/pt/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B)
+- [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
+- [Doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
+- [Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140)
 
-![deliveryCostTimes](//images.contentful.com/alneenqid6w5/hA6N4VPj440AEqEecIUck/0a6784f0c3d6f6d88b65547762600a7d/deliveryCostTimes.png)
+![lead_time_image_total_time_PT](https://images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/7aae98aad97be4947233c9ef489f266a/lead_time_image_total_time_PT.png)
 
-Os tempos de custo do __estoque__ e da __doca__ são definidos nas telas de configuração de cada uma dessas etapas, em **Envio > Estratégia de envio > Política de envio.**
+Você define um período para essas etapas e o prazo de envio que o seu cliente vê no checkout é uma soma desses períodos. 
 
-![calculoPrazoEntrega1](//images.contentful.com/alneenqid6w5/4QgQlroxxCK4iu6YoU2uIQ/a2df01bdbe2449e924a6380b5a39a19b/calculoPrazoEntrega1.png) 
+O tempo de envio da __transportadora__ é definido pela [tabela de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127), que precisa ser associada a sua estratégia de envio por meio de uma [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140).
 
-![calculoPrazoEntrega2](//images.contentful.com/alneenqid6w5/6xAiBHXxwA2cMIaaK4AKm2/bfff8d81b7363121cc84de1149cfd587/calculoPrazoEntrega2.png)
+As configurações de política de envio, estoque e doca podem ser feitas pelo seu Admin VTEX, em **Envio > Estratégia de envio**, em abas diferentes. Já a configuração opcional do lead time pode ser realizada em **Catálogo > Gerenciamento de inventário**.
 
-O tempo de custo da __transportadora__ é definido na tabela de frete, enviada à VTEX por meio da tela de configuração da transportadora, também na página Estratégia de envio.
+### Saiba mais
 
-![calculoPrazoEntrega3](//images.contentful.com/alneenqid6w5/2bL9Gw0AeswGAeKSqYCYw4/57c492eb08239d61e463839a768101ad/calculoPrazoEntrega3.png)
-
-### Para saber mais
-
-Por meio da simulação de frete, você pode verificar como o prazo de entrega de um pedido específico foi calculado. Entenda como no artigo [Verificar como o prazo de entrega de um pedido foi calculado](/pt/tutorial/verificar-como-o-prazo-de-entrega-de-um-pedido-foi-calculado).
+- [Simulador de envio](https://help.vtex.com/pt/tutorial/simulador-de-envio--tutorials_144)
+- [Verificar como o prazo de entrega de um pedido foi calculado](https://help.vtex.com/pt/tutorial/verificar-como-o-prazo-de-entrega-de-um-pedido-foi-calculado).

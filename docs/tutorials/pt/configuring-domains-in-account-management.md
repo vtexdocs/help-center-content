@@ -17,15 +17,13 @@ subcategory: yMp6sKDiJEi66CGAIQ4ma
 
 A configuração de domínios é necessária para que o endereço acessado seja corretamente direcionado a uma loja na VTEX. Abaixo você pode ver como [cadastrar um novo domínio](#cadastrar-um-novo-dominio) ou [mudar o domínio de uma loja ativa](#mudar-o-dominio-da-loja).
 
-<div class="alert alert-danger">
-Caso a sua operação possua mais de uma conta VTEX ou subcontas, não troque o domínio de uma conta para outra. Isso provocará falhas em diversos aspectos da sua loja.
-</div>
+>❗ Caso a sua operação possua mais de uma conta VTEX ou subcontas, não troque o domínio de uma conta para outra. Isso provocará falhas em diversos aspectos da sua loja.
 
-<div class="alert alert-warning">
-Se você adicionar mais de um domínio como host da sua loja, todos exibirão o mesmo conteúdo. No entanto, para atingir este objetivo recomendamos que cadastre apenas um domínio e use redirecionamentos para os outros. Saiba mais sobre redirecionamentos:
-<ul><li><a href=”https://help.vtex.com/pt/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ”>Redirecionamento de outros endereços</a></li>
-<li><a href=”https://help.vtex.com/pt/tutorial/configurando-acesso-sem-www--tutorials_4278”>Configurar acesso sem www</a></li></ul> 
-</div>
+>⚠️ Se você adicionar mais de um domínio como host da sua loja, todos exibirão o mesmo conteúdo. No entanto, para atingir este objetivo recomendamos que cadastre apenas um domínio e use redirecionamentos para os outros. Saiba mais sobre redirecionamentos:
+>
+> *<a href=”https://help.vtex.com/pt/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ”>Redirecionamento de outros endereços</a>
+>
+> *<a href=”https://help.vtex.com/pt/tutorial/configurando-acesso-sem-www--tutorials_4278”>Configurar acesso sem www</a>
 
 ## Subdomínio
 
@@ -35,9 +33,7 @@ Qualquer domínio registrado desta forma precisa conter subdomínio, que pode ou
 - `www.minhaloja.com` - Domínio válido.
 - `loja.minhamarca.com` - Domínio válido.
 
-<div class = "alert alert-info">
-  Saiba mais sobre como <a href="https://help.vtex.com/pt/tutorial/configuring-access-without-www--tutorials_4278">configurar acesso sem www</a>.
-</div>
+>ℹ️ Saiba mais sobre como [configurar acesso sem www](https://help.vtex.com/pt/tutorial/configuring-access-without-www--tutorials_4278).
 
 ## Cadastrar um novo domínio
 

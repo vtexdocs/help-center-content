@@ -1,16 +1,16 @@
 ---
-title: 'Time Out - Administración de importaciones y exportaciones'
+title: 'Time Out - Importar y Exportar Admin'
 id: 5sPtDgOXtiGcYMvZL7aCf8
 status: PUBLISHED
 createdAt: 2022-03-10T12:36:57.023Z
-updatedAt: 2022-11-25T21:46:35.375Z
-publishedAt: 2022-11-25T21:46:35.375Z
+updatedAt: 2024-01-19T15:24:38.444Z
+publishedAt: 2024-01-19T15:24:38.444Z
 firstPublishedAt: 2022-03-10T12:36:57.461Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: time-out-administracion-de-importaciones-y-exportaciones
+slug: time-out-importar-y-exportar-admin
 locale: es
 kiStatus: Backlog
 internalReference: 424902
@@ -18,20 +18,19 @@ internalReference: 424902
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
-En algunas cuentas con muchos productos, el administrador de importación y exportación no se carga, generando un tiempo de espera
+Para algunas cuentas con muchos productos, el administrador de importación y exportación no se carga, generando un tiempo de espera
 
 
 
+##
 
 ## Simulación
 
 
-Vaya a `/admin/Site/Relatorio_Skus.aspx `
+Vaya a `/admin/Site/Relatorio_Skus.aspx `.
 
 
 
@@ -39,5 +38,5 @@ Vaya a `/admin/Site/Relatorio_Skus.aspx `
 ## Workaround
 
 
-Recargar la página unas cuantas veces después del error podría cargar el admin.
+Recargar la página varias veces después del error puede cargar el admin.
 

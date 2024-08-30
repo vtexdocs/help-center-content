@@ -3,8 +3,8 @@ title: 'Registrar Regla de Precio'
 id: 7fyZaYe1IGzL0qVC28tOBO
 status: PUBLISHED
 createdAt: 2019-07-04T13:53:15.461Z
-updatedAt: 2023-03-29T18:50:59.023Z
-publishedAt: 2023-03-29T18:50:59.023Z
+updatedAt: 2023-08-21T17:10:07.115Z
+publishedAt: 2023-08-21T17:10:07.115Z
 firstPublishedAt: 2019-07-17T19:42:10.960Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -23,7 +23,7 @@ Siga el procedimiento a continuación para registrar la regla de precio de su ti
 
 ## Admin
 
-1. En el Admin VTEX, accede a *Precios > Reglas de precios* , o escribe *Reglas de precios* en la barra de búsqueda en la parte superior de la página.
+1. En el Admin VTEX, accede a **Precios > Reglas de precios** , o escribe **Reglas de precios** en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en el botón verde **Nueva Regla**.
 3. En el primer paso, **¿Cuáles son los datos generales de esta regla?**, seleccione en el *dropdown* una tabla de precios. 
 4. En el segundo paso, **¿En cuáles ítems esta regla se aplicará?**, seleccione si la regla se va a *Aplicar en todos los productos* o *Apenas en categorías y marcas escogidas*. Si se selecciona la segunda opción, debe escoger las **Categorías** y/o **Marcas** deseadas. 
@@ -35,9 +35,7 @@ Siga el procedimiento a continuación para registrar la regla de precio de su ti
 
 ## API REST
 
-<div class="alert alert-warning">
-Las autenticaciones para las llamadas de API REST del módulo de Precios deben realizarse a través de AppKey y AppToken. Para entender más, acceda a nuestro artículo sobre <a href="https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication">cómo generar un Appkey y un AppToken para autenticar sus integraciones</a>
-</div>
+>⚠️ Las autenticaciones para las llamadas de API REST del módulo de Precios deben realizarse a través de AppKey y AppToken. Para entender más, acceda a nuestro artículo sobre [cómo generar un Appkey y un AppToken para autenticar sus integraciones](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication)
 
 Para registrar una **regla de precio**, debe enviar un __POST__ para el siguiente endpoint:
 

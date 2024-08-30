@@ -40,7 +40,5 @@ Para utilizar la capacidad de entrega, es necesario configurar una política de 
 
 Para saber cómo configurar la capacidad de entrega para sus entregas programadas, lea [Capacidad de Entrega](https://help.vtex.com/es/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz).
 
-<div class="alert alert-info">
-Esta funcionalidad está en fase Beta y solo está disponible para los ambientes Admin v3.
-</div>
+>ℹ️ Esta funcionalidad está en fase Beta y solo está disponible para los ambientes Admin v3.
 

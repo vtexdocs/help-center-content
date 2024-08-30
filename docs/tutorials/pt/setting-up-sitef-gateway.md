@@ -1,10 +1,10 @@
 ---
 title: 'Configurar gateway Sitef'
 id: 1y3gqmbb6wgwscW8yeccAc
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-03-05T17:07:51.846Z
-updatedAt: 2023-03-29T01:01:36.029Z
-publishedAt: 2023-03-29T01:01:36.029Z
+updatedAt: 2024-03-18T20:02:31.580Z
+publishedAt: 
 firstPublishedAt: 2018-03-05T17:35:10.870Z
 contentType: tutorial
 productTeam: Financial
@@ -15,17 +15,17 @@ legacySlug: configurar-gateway-sitef
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível configurar o gateway __Sitef__. Caso queira receber pagamentos pela Sitef, siga os passos abaixo:
+>❗ Essa integração de pagamento não pode ser mais configurada na plataforma devido ao [processo de remoção de provedores legados](https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14) e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.
 
-## Configurar afiliação de gateway Sitef
+Na VTEX, é possível configurar o gateway Sitef. Para configurá-lo, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão __+__.
-3. Clique no conector __Sitef__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Sitef__ na barra de busca e clique sobre o nome do provedor.
 4. No campo __Id da Loja__, preencha com os dados do seu MerchantId na Sitef.
 5. Em __Chave de Acesso__, preencha com o MerchantKey fornecido pela Sitef.
 6. No campo __Captura de segurança antecipada__, escolha em quanto tempo deve ser realizada a captura do valor após a aprovação da transação.
-7. Clique em __Salvar__.
+7. Clique em `Salvar`.
 
 ## Configurar condição de pagamento
 

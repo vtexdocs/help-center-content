@@ -16,17 +16,13 @@ trackSlugES: condiciones-de-pago-clusterizadas
 
 Como hemos mencionado, Clustered Payment Conditions determina que una condición de pago se aplicará a uno o más consumidores.
 
-<div class="alert alert-warning">
-La clusterización de clientes se puede aplicar en condiciones de pago que se han configurado previamente.
-
-Esto significa que usted puede editar condiciones de pago ya existentes y aplicar condiciones de clusterización a esas reglas.
-</div>  
+>⚠️ La clusterización de clientes se puede aplicar en condiciones de pago que se han configurado previamente.
+>
+> Esto significa que usted puede editar condiciones de pago ya existentes y aplicar condiciones de clusterización a esas reglas.  
 
 Aquí explicaremos cómo configurar una condición especial de pago a partir de clústeres.
 
-<div class="alert alert-danger">
-<strong>Atención</strong>: solo se permite crear cinco clústeres de clientes por condición de pago.
-</div>
+>❗ **Atención**: solo se permite crear cinco clústeres de clientes por condición de pago.
 
 ## Crear una nueva condición de pago
 

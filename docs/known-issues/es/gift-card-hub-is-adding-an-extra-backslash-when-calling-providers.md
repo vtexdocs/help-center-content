@@ -1,10 +1,10 @@
 ---
-title: 'Gift Card hub está añadiendo una barra invertida extra ("/") al llamar a los proveedores.'
+title: "Gift Card hub está añadiendo una barra invertida extra ('/') al llamar a los proveedores."
 id: 2ZstMKKGUbrdXGuhS2Rr1f
 status: PUBLISHED
 createdAt: 2022-09-30T21:07:47.856Z
-updatedAt: 2022-11-25T22:04:08.181Z
-publishedAt: 2022-11-25T22:04:08.181Z
+updatedAt: 2024-02-16T20:24:58.109Z
+publishedAt: 2024-02-16T20:24:58.109Z
 firstPublishedAt: 2022-09-30T21:07:48.985Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: gift-card-hub-esta-anadiendo-una-barra-invertida-extra-al-llamar-a-los-proveedores
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 669575
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Nuestra API del hub de tarjetas de regalo está añadiendo una barra invertida extra a la solicitud cuando se llama a los proveedores. Esto se debe a la forma en que convertimos la serviceUrl y la concatenamos con la URL proporcionada por el conector.

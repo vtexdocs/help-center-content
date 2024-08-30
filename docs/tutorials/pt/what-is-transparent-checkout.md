@@ -1,10 +1,10 @@
 ---
 title: 'O que é checkout transparente?'
 id: 2Y4ECegUmcYUggmck2GOwe
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-02-27T18:58:12.252Z
-updatedAt: 2020-11-27T19:39:49.137Z
-publishedAt: 2020-05-31T14:34:28.895Z
+updatedAt: 2023-07-20T18:06:08.385Z
+publishedAt: 2023-07-20T18:06:08.385Z
 firstPublishedAt: 2018-02-27T20:40:08.480Z
 contentType: tutorial
 productTeam: Shopping

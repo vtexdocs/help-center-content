@@ -28,15 +28,11 @@ Para iniciar una búsqueda en Audit, selecciona la pestaña **Eventos de Auditor
 
 Puedes elegir una fecha predefinida para la búsqueda utilizando el botón **Fecha seleccionada**. Para seleccionar el periodo exacto en el que debe realizarse la búsqueda, haz clic en el botón **Usar fechas personalizadas.**
 
-<div class="alert alert-warning">
-Solo se almacenan los registros de los últimos 3 meses.
-</div>
+>⚠️ Solo se almacenan los registros de los últimos 3 meses.
 
 Es posible añadir más filtros para realizar la búsqueda de eventos con mayor precisión. Para ello, haz clic en **Añadir filtro.** Selecciona el parámetro de filtrado (_Acción_, _Detalles del evento_ o _Autor_) y con qué valor debe compararse. 
 
-<div class="alert alert-info">
-Los resultados de la búsqueda corresponden exactamente al contenido escrito en el tema del filtro. Para evitar resultados inesperados, asegúrate de que no se han introducido espacios adicionales en los términos de búsqueda.
-</div>
+>ℹ️ Los resultados de la búsqueda corresponden exactamente al contenido escrito en el tema del filtro. Para evitar resultados inesperados, asegúrate de que no se han introducido espacios adicionales en los términos de búsqueda.
 
 Ten en cuenta que es posible añadir más de un filtro, incluso con el mismo tema. En este caso, se buscarán los eventos que correspondan a cualquiera de los valores introducidos. 
 
@@ -48,13 +44,9 @@ Tras seleccionar la aplicación, la fecha y los demás filtros de búsqueda, haz
 
 Observa que cada búsqueda que realizas se guarda en la pestaña **Últimas búsquedas.** Para volver a realizar una búsqueda, haz clic en esta pestaña y luego en el botón <img src="https://images.ctfassets.net/alneenqid6w5/4gWsOnbLMOUeWh0r5YRDz/9b7148d995c03ca84b39473f266b46a9/refresh.png" width="15"> correspondiente a la búsqueda que deseas volver a hacer.
 
-<div class="alert alert-warning">
-Solo se registran 50 búsquedas en este panel. Si quieres guardar una búsqueda por tiempo indefinido, realízala y añádela a los favoritos de tu navegador.
-</div>
+>⚠️ Solo se registran 50 búsquedas en este panel. Si quieres guardar una búsqueda por tiempo indefinido, realízala y añádela a los favoritos de tu navegador.
 
-<div class = "alert alert-info">
-Revisa la <a href="https://help.vtex.com/es/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ">lista completa de eventos de Audit</a>.
-</div>
+>ℹ️ Revisa la [lista completa de eventos de Audit](https://help.vtex.com/es/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 
 ## Ejemplos de filtros de búsqueda 
 
@@ -83,7 +75,5 @@ Revisa la <a href="https://help.vtex.com/es/tutorial/events-available-in-audit--
 
 Para ver más ejemplos de filtros que se pueden utilizar, haz clic en la pestaña **Guía.** 
 
-<div class = "alert alert-info">
-En la aplicación Audit, los <a href="https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">recursos del License Manager</a> son identificados por las respectivas claves.
-</div>
+>ℹ️ En la aplicación Audit, los [recursos del License Manager](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) son identificados por las respectivas claves.
 

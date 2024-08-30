@@ -33,9 +33,7 @@ Por ejemplo, si el menor valor que puede recibir es R$10, ese es el valor mínim
 
 ![antecipação](https://images.ctfassets.net/alneenqid6w5/2DQKbFjERNOa8wLmFq3nr9/ae2cced48c5774ced4415db9ab9756b6/image.png_h_250_h_250)
 
-<div class="alert alert-info">
-<strong>Atención</strong>: las cuentas por cobrar en disputa o programadas para el siguiente día hábil no pueden ser anticipadas.
-</div>
+>ℹ️ **Atención**: las cuentas por cobrar en disputa o programadas para el siguiente día hábil no pueden ser anticipadas.
 
 Por lo tanto, verifique el procedimiento para solicitar el anticipo:
 

@@ -15,16 +15,14 @@ legacySlug: simulador-de-promocoes
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
-<div class="alert alert-info">
-<p>Este módulo está en versión beta, lo que significa que estamos trabajando para mejorarlo. Si tiene alguna duda, póngase en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.</p>
-</div>
+>ℹ️ Este módulo está en versión beta, lo que significa que estamos trabajando para mejorarlo. Si tiene alguna duda, póngase en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.
 
 El **Simulador de promociones** te permite ver las promociones aplicadas a tu carrito y sus condiciones. Con varias posibilidades de configuración de las promociones, es importante tener visibilidad sobre la [competencia](https://help.vtex.com/es/tutorial/entendiendo-la-competencia-de-las-promociones-2--tutorials_2270) y la [acumulación](https://help.vtex.com/es/tutorial/entendiendo-la-competencia-de-las-promociones-2--tutorials_2270#acumulacion) de las promociones durante la compra y las causas de la activación de las promociones.
 
 Para utilizar esta funcionalidad, primero debes [configurar Cartman](https://help.vtex.com/es/tutorial/configurar-cartman--1ACMTStZYkMqB0lTgwg451), una herramienta que simula, comparte e investiga los carritos. Con Cartman configurado, sigue los pasos a continuación para acceder al **Simulador de Promociones**.
 
 1. Añade a tu carrito los productos incluidos en las promociones de la tienda.
-2. En el carrito, haz clic en el botón <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> para abrir Cartman.
+2. En el carrito, haz clic en el botón <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> para abrir Cartman.
 3. Haz clic en la opción `Ver detalles de la promoción`.
 4. Esta ventana muestra las promociones aplicadas al carrito. Para más detalles, haz clic en <i class="fas fa-search"></i>`Ver detalles`.
 ![cartman-analisador-promoção-ES](https://images.ctfassets.net/alneenqid6w5/43LSTCKfLxf0Buvbc3mNpQ/f4cd037dc329105e0dd0cc2a08bfb75c/Screen_Shot_2022-03-07_at_11.14.14.png)

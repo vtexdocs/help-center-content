@@ -3,8 +3,8 @@ title: 'O espaço na identificação do armazém faz com que os pedidos logísti
 id: M8SsnABs2HgYsUvNnjCFx
 status: PUBLISHED
 createdAt: 2022-09-20T21:51:05.157Z
-updatedAt: 2023-01-05T19:34:07.126Z
-publishedAt: 2023-01-05T19:34:07.126Z
+updatedAt: 2024-02-16T20:24:53.145Z
+publishedAt: 2024-02-16T20:24:53.145Z
 firstPublishedAt: 2022-09-20T21:51:05.702Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: o-espaco-na-identificacao-do-armazem-faz-com-que-os-pedidos-logisticos-internos-falhem
 locale: pt
-kiStatus: Fixed
+kiStatus: No Fix
 internalReference: 654370
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A IU de logística permite que um usuário crie um depósito registrando uma identificação com espaço e isto afeta diretamente as solicitações feitas a este depósito e pode causar falhas na atualização do estoque.

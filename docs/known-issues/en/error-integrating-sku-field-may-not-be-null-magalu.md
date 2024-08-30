@@ -1,5 +1,5 @@
 ---
-title: 'Error integrating sku "Field may not be null" - Magalu'
+title: "Error integrating sku 'Field may not be null' - Magalu"
 id: 3SYlRr6XVrl7T3Uw646MkE
 status: PUBLISHED
 createdAt: 2022-08-19T21:01:40.357Z

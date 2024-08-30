@@ -26,9 +26,7 @@ La creación de un tipo de lista es la configuración de qué listas tendrá el 
 
 Después de crear los tipos de listas, será posible que los clientes efectivamente creen sus listas en el sitio.
 
-<div class="alert alert-warning">
-  <p>No se puede eliminar una lista después de que se ha generado.</p>
-</div>
+>⚠️ No se puede eliminar una lista después de que se ha generado.
 
 ## Campos del formulario
 

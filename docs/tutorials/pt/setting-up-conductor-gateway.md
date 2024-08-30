@@ -1,10 +1,10 @@
 ---
 title: 'Configurar gateway Conductor'
 id: Q5Ezi95TSEyE2GCQSs8ak
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-05-02T17:09:15.090Z
-updatedAt: 2023-03-29T00:55:20.862Z
-publishedAt: 2023-03-29T00:55:20.862Z
+updatedAt: 2024-03-18T18:11:12.675Z
+publishedAt: 
 firstPublishedAt: 2018-05-02T18:38:56.879Z
 contentType: tutorial
 productTeam: Financial
@@ -15,14 +15,15 @@ legacySlug: configurar-gateway-conductor
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+>❗ Essa integração de pagamento não pode ser mais configurada na plataforma devido ao [processo de remoção de provedores legados](https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14) e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.
+
 A Conductor é um [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) com certificação [PCI](/pt/faq/o-que-e-o-pci-ssc) que atua há mais de 20 anos com o processamento de pagamentos. Na VTEX, ela pode ser configurada para processar pagamentos realizados com __cartões de crédito com bandeira própria__.
 
 Para habilitar a Conductor na sua loja, siga os passos abaixo:
 
-## Configurar afiliação de gateway Conductor
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão __+__.
-3. Clique no conector __Conductor__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Conductor__ na barra de busca e clique sobre o nome do provedor.
 4. No campo __External Service Url__, configure a url externa que vai estar associada a `/pvt/payments?an={AccoutName}`.
 5. Preencha os campos de cadastro com os dados fornecidos pela Conductor (campos _appKey_ e _appToken_).
 6. Em __Implements Installments Service__, escolha se deseja usar serviços externos de parcelamento ou o que está configurado no portal. Se escolher a opção _yes_, o sistema vai utilizar a url configurada no campo __Installments Service Url__.

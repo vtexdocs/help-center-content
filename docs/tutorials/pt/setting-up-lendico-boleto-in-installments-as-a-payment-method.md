@@ -1,10 +1,10 @@
 ---
 title: 'Configurar boleto parcelado Provu (Lendico) como meio de pagamento'
 id: 1pRpPlkppLDEc1TVXTgrcu
-status: PUBLISHED
+status: DRAFT
 createdAt: 2020-12-02T10:58:09.076Z
-updatedAt: 2023-03-26T21:47:26.770Z
-publishedAt: 2023-03-26T21:47:26.770Z
+updatedAt: 2024-07-23T18:06:34.554Z
+publishedAt: 
 firstPublishedAt: 2020-12-02T12:54:57.731Z
 contentType: tutorial
 productTeam: Financial
@@ -36,6 +36,7 @@ Mas antes de prosseguirmos, lembre-se que a maioria das instruções a seguir se
 Caso você não tenha familiaridade com essa parte do Admin, recomendamos a leitura da nossa [track de primeiros passos](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG "track de primeiros passos") desse módulo.
 
 ### 1. Criação de chaves de acesso
+
 A Provu precisa ter acesso à sua loja para ter acesso às notas fiscais dos seus pedidos. Mais especificamente, ao módulo de Gerenciamento de Pedidos para, assim, pode realizar os processos legais e de auditoria.   
 
 Essas chaves de acesso são conhecidas como AppKey e AppToken e o  passo a passo para criá-las é descrito no [artigo sobre autenticação do Developer Portal](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication "artigo sobre autenticação no Developer Portal").
@@ -44,26 +45,22 @@ Quando tiver as chaves em mãos, entre em contato novamente com a Provu e inform
 
 Por fim, a Provu lhe informará as suas credenciais - Key e Token -, necessárias para cadastrar finalizar o cadastro da afiliação.
 
-<div class="alert alert-danger">
-Guarde as credenciais da Provu em lugar seguro, em que não irá perdê-las. Os valores da Key e do Token são imprescindíveis para o cadastro da afiliação. 
-</div>
+>❗ Guarde as credenciais da Provu em lugar seguro, em que não irá perdê-las. Os valores da Key e do Token são imprescindíveis para o cadastro da afiliação.
 
 ### 2. Cadastro da afiliação
+
 A partir de agora, todos as etapas serão realizadas no módulo de Pagamentos do Admin. 
 
 Com as credenciais da Provu em mãos, prossiga com as instruções a seguir:
-1. 
-2. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-3. Clique na aba __Afiliações de Gateway__.
-4. Ao lado da barra de busca, clique no __botão verde “+”__.
-5. Na seção “Outros”, clique na opção __"Lendico"__.
-6. Preencha o campo __Nome da Afiliação__.
-7. Logo abaixo, clique no botão __"Live/Produção"__ para ativar a afiliação.
-<div class="alert alert-warning">
-Confira se a área ao redor do botão mudou a cor para verde. Isso indica que a afiliação será ativada ao final da configuração. 
-</div>
-11. Do lado direito da tela, preencha os campos __Aplication Key__ e __Aplication Token__ com os respectivos dados fornecidos pela própria Lendico.
-12. Finalize clicando no botão azul __"Salvar"__.
+
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Lendico__ na barra de busca e clique sobre o nome do provedor.
+4. Preencha o campo __Nome da Afiliação__.
+5. Logo abaixo, clique no botão __Live/Produção__ para ativar a afiliação.
+>⚠️ Confira se a área ao redor do botão mudou a cor para verde. Isso indica que a afiliação será ativada ao final da configuração.
+6. Do lado direito da tela, preencha os campos __Aplication Key__ e __Aplication Token__ com os respectivos dados fornecidos pela própria Lendico.
+7. Clique em __Salvar__.
 
 Desse modo, a afiliação Lendico estará habilitada para processar os pagamentos realizados com o boleto parcelado.  
 

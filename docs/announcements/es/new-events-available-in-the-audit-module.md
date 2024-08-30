@@ -228,9 +228,7 @@ VTEX agregó los siguientes eventos a la [lista de eventos disponibles en Audit]
   </tr>
 </table>
 
-<div class = "alert alert-info">
-Consulta la <a href="https://help.vtex.com/es/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ">lista completa de eventos disponibles en Audit</a>.
-</div>
+>ℹ️ Consulta la [lista completa de eventos disponibles en Audit](https://help.vtex.com/es/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 
 ## ¿Qué se necesita hacer?
 

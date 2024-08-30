@@ -3,8 +3,8 @@ title: 'Cadastrar especificações ou campos de SKU'
 id: tutorials_119
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:08.662Z
-updatedAt: 2023-03-29T17:31:34.699Z
-publishedAt: 2023-03-29T17:31:34.699Z
+updatedAt: 2023-11-30T12:05:25.945Z
+publishedAt: 2023-11-30T12:05:25.945Z
 firstPublishedAt: 2017-04-27T23:00:44.181Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: criando-campo-de-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-A especificação de SKU é um campo no cadastro de SKU onde se inserem as características específicas de cada variação do produto.
+A especificação de SKU é um campo obrigatório no cadastro de SKU onde se inserem as características específicas de cada variação do produto.
 
 Na VTEX, uma especificação sempre faz parte de um [grupo de especificações](https://help.vtex.com/pt/tutorial/criando-grupo-de-categoria), que é associado a uma [categoria](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Por isso, para criar uma especificação (campo) de SKU, é necessário ter cadastrado previamente pelo menos uma categoria e um grupo de especificações.
 
@@ -33,9 +33,7 @@ Neste artigo, explicamos como funciona a herança das especificações que você
         * [Cadastro do SKU](#cadastro-do-sku)
         * [Planilha](#planilha)
 
-<div class = "alert alert-info">
-  <p>Para criar uma especificação de SKU utilizando a <strong>Catalog API</strong>, siga o guia para desenvolvedores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a>.</p>
-</div>
+>ℹ️ Para criar uma especificação de SKU utilizando a **Catalog API**, siga o guia para desenvolvedores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification).
 
 ## Herança de especificações de SKU
 
@@ -55,9 +53,7 @@ Veja o passo a passo completo nas seções a seguir.
 
 ### Criar um campo de SKU
 
-<div class = "alert alert-warning">
-  <p>Uma vez criados, campos de SKU não podem ser apagados. Se você tornar o campo inativo, todos os SKUs que estão na categoria ficarão inativos, até que o campo fique ativo novamente. Não preencher uma especificação no cadastro do SKU pode ser uma das causas para que o SKU não apareça no site, pois ele fica inativo.</p>
-</div>
+>⚠️ Uma vez criados, campos de SKU não podem ser apagados. Se você tornar o campo inativo, todos os SKUs que estão na categoria ficarão inativos, até que o campo fique ativo novamente. Não preencher uma especificação no cadastro do SKU pode ser uma das causas para que o SKU não apareça no site, pois ele fica inativo.
 
 Para criar um campo de SKU, siga as instruções abaixo:
 
@@ -65,9 +61,7 @@ Para criar um campo de SKU, siga as instruções abaixo:
 2. Clique em **Categorias**.
 3. Clique na categoria associada ao grupo de especificações em que você deseja criar um campo de SKU.
 
-    <div class = "alert alert-warning">
-      <p>Observe que ao criar um campo em um nível de categoria mais alto, a especificação será apresentada em todos os níveis de categoria abaixo dela.</p>
-    </div>
+    >⚠️ Observe que ao criar um campo em um nível de categoria mais alto, a especificação será apresentada em todos os níveis de categoria abaixo dela.
 
 3. Clique em `Ações` <i class="fas fa-angle-down"></i>.
 4. Clique em `Campo (SKU)`.
@@ -138,9 +132,7 @@ Os **Valores** dos campos de SKU irão variar de acordo com o tipo do campo esco
 
 ![sku-spec-2](https://images.ctfassets.net/alneenqid6w5/5MwO6aTSuIzCbxlrnzjTHQ/066317aa51dbd5521e83f85d9923782f/pt-sku-spec-2.gif)
 
-<div class = "alert alert-info">
-  <p>Caso esteja cadastrando os primeiros valores de um campo, é necessário voltar no formulário daquele campo específico e marcar a opção <strong>Ativo</strong>.</p>
-</div>
+>ℹ️ Caso esteja cadastrando os primeiros valores de um campo, é necessário voltar no formulário daquele campo específico e marcar a opção **Ativo**.
 
 #### Acessar ou editar valores cadastrados
 

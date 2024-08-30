@@ -15,9 +15,11 @@ legacySlug: depara-dos-meios-de-pagamentos-no-webservice
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---
 
-<div class="alert alert-danger"><p>Atenção: somente os métodos SOAP pertinentes ao <strong>catálogo</strong> são válidos.</p>
-<p><strong>Todos os outros métodos estão descontinuados.</strong></p>
-<p>Use as APIs REST equivalentes, disponíveis em nosso <a href="//help.vtex.com/developer-docs/">Developer Docs</a>.</p></div>
+>❗ Atenção: somente os métodos SOAP pertinentes ao **catálogo** são válidos.
+>
+> **Todos os outros métodos estão descontinuados.**
+>
+> Use as APIs REST equivalentes, disponíveis em nosso [Developer Docs](//help.vtex.com/developer-docs/).
 
 O Web Service de pagamentos utiliza alguns códigos para cada uma das formas de pagamentos disponíveis na área do PCI Gateway. Esse código de cada pagamento é fixo e não depende do integrador.
 

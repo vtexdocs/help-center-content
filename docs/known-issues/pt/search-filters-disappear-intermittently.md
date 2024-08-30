@@ -18,9 +18,7 @@ internalReference: 734221
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em alguns cenários, quando o usuário clica no botão para limpar os filtros selecionados na página de busca, os mesmos filtros param de renderizar e são exibidos na tela.

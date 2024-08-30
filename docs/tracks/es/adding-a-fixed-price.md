@@ -1,10 +1,10 @@
 ---
 title: 'Registrar precio fijo'
 id: 3g39iXkQza4AW7C7L814mj
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-07-04T13:53:38.630Z
-updatedAt: 2023-03-29T21:16:34.391Z
-publishedAt: 2023-03-29T18:18:57.294Z
+updatedAt: 2024-05-15T16:01:59.100Z
+publishedAt: 2024-05-15T16:01:59.100Z
 firstPublishedAt: 2019-07-17T19:46:38.452Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -54,7 +54,7 @@ Para eliminar un precio fijo existente, sigue los pasos que se indican a continu
 5. Haz clic en el botón `Eliminar`.
 
 ## Pricing API
-Para registrar un precio fijo mediante API, utiliza el endpoint [Create or update base or fixed prices](https://developers.vtex.com/vtex-rest-api/reference/prices-and-fixed-prices#createupdatepriceorfixedprice) de la Pricing API.
+Para registrar un precio fijo mediante API, utiliza el endpoint [Create or update base or fixed prices](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-) de la Pricing API.
 
 ### Más información
 * [Programar precio](https://help.vtex.com/es/tutorial/programar-precio--4vVha6TGzYkguWuMOqCcCk)

@@ -3,8 +3,8 @@ title: 'Gestión de anuncios: moderación y calidad de los anuncios en Mercado L
 id: xSbPzA41jiWPAorlBCEA4
 status: PUBLISHED
 createdAt: 2022-10-24T16:38:07.914Z
-updatedAt: 2022-10-24T17:03:57.020Z
-publishedAt: 2022-10-24T17:03:57.020Z
+updatedAt: 2024-06-20T21:41:34.703Z
+publishedAt: 2024-06-20T21:41:34.703Z
 firstPublishedAt: 2022-10-24T17:03:57.020Z
 contentType: tutorial
 productTeam: Channels

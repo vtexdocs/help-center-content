@@ -3,8 +3,8 @@ title: 'A configuração do Giftcard Recarregável não funciona quando se tenta
 id: 3MXPd85Km51KpO4FNPqlDf
 status: PUBLISHED
 createdAt: 2022-05-23T14:21:10.608Z
-updatedAt: 2022-11-25T22:05:59.003Z
-publishedAt: 2022-11-25T22:05:59.003Z
+updatedAt: 2024-02-16T20:25:54.496Z
+publishedAt: 2024-02-16T20:25:54.496Z
 firstPublishedAt: 2022-05-23T14:21:11.126Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-configuracao-do-giftcard-recarregavel-nao-funciona-quando-se-tenta-adicionar-credito-ao-cartao-presente-atraves-de-api
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 583669
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao criar um cartão-presente, configuramos se ele é recarregável ou não. Entretanto, o impedimento de adicionar crédito a um cartão-presente não recarregável acontece apenas através da IU, através da API é possível adicionar crédito mesmo que o cartão-presente não seja recarregável.

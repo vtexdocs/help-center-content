@@ -34,15 +34,11 @@ To make a product available on presale, follow the steps below.
 5. Fill in the [remaining product fields](https://help.vtex.com/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke)
 6. Click `Save and add a new SKU`.
 7. On the SKU creation page, fill in the **Coming soon expected on** field with the date when the product will be available for delivery by the store in the `dd/mm/yyyy` format.
-<div class="alert alert-info">
-  <p>You need to consider both the launch date and the shipping cost to determine the arrival date: <code>final delivery time = delivery SLA + supply batch delivery time frame</code></p>  
-</div>
+>ℹ️ You need to consider both the launch date and the shipping cost to determine the arrival date: `final delivery time = delivery SLA + supply batch delivery time frame`
 8. Fill in the [remaining SKU fields](https://help.vtex.com/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY).
 9. Click `Save` to finish.
 
-<div class="alert alert-info">
-  <p>The presale item order should only be invoiced on or after the launch date, that is, when the product will be actually available in the inventory.</p>  
-</div>
+>ℹ️ The presale item order should only be invoiced on or after the launch date, that is, when the product will be actually available in the inventory.
 
 ## Scheduling prices
 To schedule your store's fixed prices for the presale of a product, follow the steps described in the article [Scheduling prices](https://help.vtex.com/en/tutorial/scheduling-prices--4vVha6TGzYkguWuMOqCcCk).  

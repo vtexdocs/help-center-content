@@ -1,10 +1,10 @@
 ---
-title: 'Enlace de texto creado con " " en Marketplace tras las aprobaciones - Reoccurrence'
+title: "Enlace de texto creado con ' ' en Marketplace tras las aprobaciones - Reoccurrence"
 id: 2afynQ9MwaHPMPWyhx80Tp
 status: PUBLISHED
 createdAt: 2023-04-24T19:36:10.185Z
-updatedAt: 2023-05-08T17:47:01.002Z
-publishedAt: 2023-05-08T17:47:01.002Z
+updatedAt: 2023-07-13T15:25:43.450Z
+publishedAt: 2023-07-13T15:25:43.450Z
 firstPublishedAt: 2023-04-24T19:36:10.701Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: enlace-de-texto-creado-con-en-marketplace-tras-las-aprobaciones-reoccurrence
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 795900
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En algunos escenarios, al aprobar un producto en un Marketplace, en la aplicación de SKUs Recibidos, la petición falla al introducir los datos en el catálogo y al reintentar, los campos textlink rellenan los caracteres "-" con " ", cambiando el comportamiento deseado.
@@ -29,13 +27,9 @@ La SKU se devuelve para su aprobación en el módulo de SKUs Recibidas, pero no 
 
 
 
-
-
 ##
 
 ## Simulación
-
-
 
 
 1) Suele ocurrir con un error genérico de skus recibidos al intentar aprobar (esto no ocurre en todos los casos).
@@ -48,10 +42,11 @@ La SKU se devuelve para su aprobación en el módulo de SKUs Recibidas, pero no 
 
 
 
-
-
 ## Workaround
 
 
 Actualizar manualmente/API los enlaces de texto del producto en este escenario.
+
+
+
 

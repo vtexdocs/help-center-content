@@ -3,8 +3,8 @@ title: 'VTEX Pick and Pack: Last Mile'
 id: HN7WKV0xoq2ssVjsJlfzr
 status: PUBLISHED
 createdAt: 2023-04-10T16:01:14.613Z
-updatedAt: 2023-04-20T15:46:42.209Z
-publishedAt: 2023-04-20T15:46:42.209Z
+updatedAt: 2023-08-25T15:52:19.799Z
+publishedAt: 2023-08-25T15:52:19.799Z
 firstPublishedAt: 2023-04-10T16:35:43.623Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -16,3 +16,6 @@ subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
 <div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
+
+>ℹ️ Si tienes interés en implementarla en tu negocio, rellena nuestro [formulario](https://vtex.com/co-es/contacto/) indicando en el campo `Comentarios` el nombre del producto deseado.
+

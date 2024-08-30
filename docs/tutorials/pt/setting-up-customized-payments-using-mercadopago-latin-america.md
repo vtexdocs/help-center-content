@@ -15,9 +15,7 @@ legacySlug: configurar-pagamentos-customizados-usando-mercadopago-latam
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning">
-Este artigo trata de configurações aplicáveis em lojas que atuam nos seguintes países da América Latina: <strong>Argentina</strong>, <strong>Chile</strong>, <strong>Colômbia</strong> e <strong>Uruguai</strong>.
-</div>
+>⚠️ Este artigo trata de configurações aplicáveis em lojas que atuam nos seguintes países da América Latina: **Argentina**, **Chile**, **Colômbia** e **Uruguai**.
 
 Você pode usar o Mercado Pago para oferecer pagamentos customizados (usando cartões de crédito locais) na sua loja. Para isso, você precisa primeiro cadastrar a afiliação de gateway [MercadoPagoV1](/pt/tutorial/configurar-o-subadquirente-mercadopagov1). Depois, basta seguir as etapas abaixo:
 

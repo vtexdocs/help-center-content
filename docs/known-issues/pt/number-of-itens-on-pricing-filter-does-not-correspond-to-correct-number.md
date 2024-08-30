@@ -3,8 +3,8 @@ title: 'O número de itens no filtro de preços não corresponde ao número corr
 id: 1FyjpY1K6JfAQ0gRIuXyuO
 status: PUBLISHED
 createdAt: 2022-03-16T19:37:02.943Z
-updatedAt: 2022-11-25T22:12:33.361Z
-publishedAt: 2022-11-25T22:12:33.361Z
+updatedAt: 2024-02-16T20:24:00.118Z
+publishedAt: 2024-02-16T20:24:00.118Z
 firstPublishedAt: 2022-03-16T19:37:03.370Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: o-numero-de-itens-no-filtro-de-precos-nao-corresponde-ao-numero-correto
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 371405
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Na IU de Preços, somos capazes de filtrar por marca ou categoria. Depois de fazer um filtro, a IU retorna apenas os produtos no filtro, mas o total de itens retornados no menu é na verdade o total sem nenhum filtro, e os dados mostrados são filtrados como esperado.

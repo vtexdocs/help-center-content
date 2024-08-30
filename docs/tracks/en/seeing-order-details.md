@@ -3,8 +3,8 @@ title: 'Seeing order details'
 id: 204AjAQseJe8RLUi8GAhiC
 status: PUBLISHED
 createdAt: 2019-11-14T15:12:10.952Z
-updatedAt: 2023-03-29T15:17:48.189Z
-publishedAt: 2023-03-29T15:17:48.189Z
+updatedAt: 2023-11-08T14:56:01.508Z
+publishedAt: 2023-11-08T14:56:01.508Z
 firstPublishedAt: 2019-11-18T12:20:18.851Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -20,11 +20,18 @@ In the default view of this screen, all store orders are listed starting from th
 
 In addition, the search offers a very flexible filter, which we will explain in detail in the [next article](https://help.vtex.com/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/3cjk655ZzDGICH4rVfgu7O).
 
-To further explore the order list, see the [Order List Overview article](https://help.vtex.com/en/tutorial/orders-list--tutorials_200)
+To further explore the order list, see the [Order List Overview article](https://help.vtex.com/en/tutorial/orders-list--tutorials_200).
+
+Besides searching for orders in **Orders > All Orders**, you can search for orders from any page in the VTEX Admin using the global search bar at the top bar. By default, the search is configured as `Pages`. To search for an order, click on the bar, select `Orders`, and use one of the following criteria:
+
+- Order ID
+- Customer name
+- Customer email
+- Customer document
 
 ## Viewing the Details of an Order
 
-Clicking on an order takes you to the __order details__ screen, where you can review a range of order information and perform some actions, such as:
+Clicking on an order takes you to the [order details](https://help.vtex.com/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) screen, where you can review a range of order information and perform some actions, such as:
 - Resend the last email to the customer.
 - Manually cancel the order.
 - Invoice the order items.
@@ -42,9 +49,7 @@ In VTEX platform there is also a feature to unify all email communication with t
 
 All customer data is entered at the time of closing the order and cannot be changed here. To view and manage this data, you can access Master Data.
 
-<div class="alert alert-info">
-If your store only acts as a seller of an order, the customer's email will not be displayed. We understand that the customer's relationship is with the marketplace, so it is not advisable to share your data with the seller without prior consent.
-  </div>
+>ℹ️ If your store only acts as a seller of an order, the customer's email will not be displayed. We understand that the customer's relationship is with the marketplace, so it is not advisable to share your data with the seller without prior consent.
 
 ### Total Value
 

@@ -3,8 +3,8 @@ title: 'How trade policies work'
 id: 6Xef8PZiFm40kg2STrMkMV
 status: PUBLISHED
 createdAt: 2021-05-25T20:05:42.155Z
-updatedAt: 2022-12-08T14:39:11.093Z
-publishedAt: 2022-12-08T14:39:11.093Z
+updatedAt: 2024-06-20T22:52:38.544Z
+publishedAt: 2024-06-20T22:52:38.544Z
 firstPublishedAt: 2021-05-25T20:17:12.408Z
 contentType: tutorial
 productTeam: Others
@@ -33,7 +33,10 @@ See how different VTEX configurations relate to trade policies:
 
 To [request additional trade policies](https://help.vtex.com/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), contact our Growth Operations team through Support by selecting **Commercial** and `Create a trade policy`.
 
-Additional trade policies to integrate with [native connectors](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex), [certified connectors (partners)](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-connector-partner), or other VTEX stores are free of charge.
+Additional trade policies to integrate with [certified connectors](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-connector-partner), or other VTEX stores are free of charge.
+
+<div class=alert alert-warning>
+If the same trade policy is applied to a certified connector and a partner connector, there is no fee exemption.</div>
 
 ## Catalog
 You can restrict which products are available for certain trade policies when [adding new products](https://help.vtex.com/en/tutorial/cadastrando-produtos--tutorials_2567) to the catalog. In doing so, the catalog will be segmented according to different business strategies. These strategies can have products segmented by region, marketplace, or specific types of customers, such as employees. Learn more about how to configure your [catalog](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ).
@@ -57,9 +60,7 @@ You can limit access to the store to specific audiences, for example, a B2B site
 
 ## Account management
 
-<div class="alert alert-warning">
-If you have many sub-accounts, or physical store operations that offer in-store pickup or ship from store, creating multiple trade policies is not the best solution. We suggest creating new <a href="https://help.vtex.com/en/tutorial/o-que-e-store-name">store names</a> for each store within an <a href="https://help.vtex.com/en/tutorial/o-que-e-account-name">account</a>. 
-</div>
+>⚠️ If you have many sub-accounts, or physical store operations that offer in-store pickup or ship from store, creating multiple trade policies is not the best solution. We suggest creating new [store names](https://help.vtex.com/en/tutorial/o-que-e-store-name) for each store within an [account](https://help.vtex.com/en/tutorial/o-que-e-account-name).
 
 Having too many trade policies in a VTEX environment slows down the process of indexing products and displaying them on your website, as well as simulating shipping rates at checkout, which might affect your order conversion rates. By segmenting the catalog based on multiple trade policies instead of creating store names with separate inventories, the store restricts its product offer, which leads to lost sales opportunities and worse delivery conditions. Learn more about [how to create a store name](https://help.vtex.com/en/tutorial/como-criar-um-store-name).
 

@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugPT: alterar-o-idioma-do-instore
 ---
 
-<div class="alert alert-danger">
-A alteração de idioma explicada neste artigo envolve e alteração do arquivo JavaScript <code>checkout-instore-custom.js</code>. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos.
-</div>
+>❗ A alteração de idioma explicada neste artigo envolve e alteração do arquivo JavaScript `checkout-instore-custom.js`. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos.
 
 Atualmente, é possível usar o inStore em __português__, __inglês__ ou __espanhol__.
 

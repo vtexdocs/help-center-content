@@ -3,8 +3,8 @@ title: '¿Qué es una cuenta franquicia?'
 id: kWQC6RkFSCUFGgY5gSjdl
 status: PUBLISHED
 createdAt: 2021-10-13T20:38:07.014Z
-updatedAt: 2023-05-31T15:20:29.177Z
-publishedAt: 2023-05-31T15:20:29.177Z
+updatedAt: 2024-05-24T16:38:26.710Z
+publishedAt: 2024-05-24T16:38:26.710Z
 firstPublishedAt: 2021-10-13T20:57:01.457Z
 contentType: tutorial
 productTeam: Shopping
@@ -46,14 +46,13 @@ Cada cuenta franquicia opera automáticamente como un _Seller White Label_ de la
 
 Los clientes finales no eligen ni tienen visibilidad de la existencia de los _Sellers White Label_ en ningún momento del proceso. En esta lógica, la relación de los consumidores es con la marca (cuenta principal) y no con cada tienda física (cuenta franquicia).
 
-<div class="alert alert-info">
-<p>Aunque todas las cuentas franquicia operan como <em>Sellers White Label</em> de la cuenta principal, estos conceptos no significan lo mismo. La cuenta franquicia es un tipo de cuenta, mientras que ser <em>White Label</em> es una propiedad del <em>seller</em>.
-<ul>
-<li><strong>Cuenta</strong>: puede ser del tipo franquicia o puede ser una cuenta normal.</li>
-<li><strong><em>Seller</em></strong>: puede ser del tipo <em>White Label </em>o puede ser del tipo no <em>White Label.</em></li>
-</ul>
-Como estos conceptos son independientes, <strong>eventualmente</strong> es posible que una cuenta franquicia opere como seller no White Label de un marketplace que no es la cuenta principal.</p>
-</div>
+>ℹ️ Aunque todas las cuentas franquicia operan como *Sellers White Label* de la cuenta principal, estos conceptos no significan lo mismo. La cuenta franquicia es un tipo de cuenta, mientras que ser *White Label* es una propiedad del *seller*.
+>
+> ***Cuenta**: puede ser del tipo franquicia o puede ser una cuenta normal.
+>
+> ****Seller***: puede ser del tipo *White Label *o puede ser del tipo no *White Label.*
+>
+> Como estos conceptos son independientes, **eventualmente** es posible que una cuenta franquicia opere como seller no White Label de un marketplace que no es la cuenta principal.
 
 ## Configuración de la cuenta franquicia
 
@@ -70,6 +69,11 @@ Para que la cuenta franquicia utilice los precios configurados en la cuenta prin
 #### Configurar precios propios de la cuenta franquicia
 
 Para configurar precios propios de la cuenta franquicia, es necesario quitar la marca de la casilla **Heredar precios de la cuenta padre** en la Configuración del módulo de **Precios** de la cuenta franquicia, como se describe en [este artículo](https://help.vtex.com/es/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN). Además, es necesario configurar los precios deseados en el [módulo de Precios](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) o mediante la [API de Pricing](https://developers.vtex.com/vtex-rest-api/reference/pricing-api-overview).
+
+Para garantizar una experiencia de compra uniforme, es importante [configurar la regionalización](https://help.vtex.com/pt/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw?&utm_source=autocomplete) cuando cada cuenta franquicia tiene precios diferentes.
+La adopción de la regionalización posibilita solicitar el código postal del cliente antes de que este inicie la navegación, lo que a su vez permite mostrar los productos y precios correspondientes a la cuenta franquicia antes de continuar al checkout.
+Si la regionalización no está activa, puede haber casos en los que el consumidor vea un determinado valor de producto al navegar por la tienda, pero al llegar al checkout e ingresar el código postal se determine que la cuenta franquicia que debe atender el pedido es otra y, por lo tanto, el precio sea diferente.
+Esto ocurre porque el catálogo de menor precio es priorizado durante la navegación por la tienda. Sin embargo, en el checkout, si la cuenta franquicia de menor precio no tiene stock disponible, se seleccionará el catálogo de otro seller que tenga stock del producto disponible y se actualizará el precio al valor utilizado por dicho seller.
 
 ### Pagos
 
@@ -91,9 +95,7 @@ VTEX ofrece soluciones de _split_ de pagos que pueden hacer que la distribución
 
 Existen varios tipos de configuración posibles para los precios y medios de pago relacionados con las cuentas franquicia en VTEX, que se indican a continuación. Puedes elegir la forma de uso que mejor se adecue a tu negocio.
 
-<div class="alert alert-warning">
-<p>Si deseas implementar inStore en tus tiendas físicas, no te recomendamos que configures medios de pago propios para las cuentas franquicia. Lo ideal es que las cuentas franquicia utilicen los medios de pago de la cuenta principal, para evitar conflictos de pago.</p>
-</div>
+>⚠️ Si deseas implementar la aplicación VTEX Sales App, es necesario que las tiendas físicas utilicen los medios de pago de la cuenta principal.
 
 ## Solicitar la creación de una cuenta franquicia
 

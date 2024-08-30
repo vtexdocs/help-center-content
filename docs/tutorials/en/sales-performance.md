@@ -3,8 +3,8 @@ title: 'Sales Performance'
 id: 3DMube0sEsK9vPcRYGas72
 status: PUBLISHED
 createdAt: 2021-10-19T12:49:42.165Z
-updatedAt: 2022-12-20T14:05:11.128Z
-publishedAt: 2022-12-20T14:05:11.128Z
+updatedAt: 2023-11-09T19:56:56.074Z
+publishedAt: 2023-11-09T19:56:56.074Z
 firstPublishedAt: 2021-10-19T12:55:27.227Z
 contentType: tutorial
 productTeam: Others
@@ -36,7 +36,7 @@ To ensure that you have access to the latest updated data as well as to all of y
 
 These groups are also processed by different systems, which may cause a difference between the data of the OMS and Sales Performance. Although, we do aim for a maximum of 5% divergence.
 
-The revenue metric may differ from the average ticket metric recorded in the OMS and Sales Performance, for example. This is because Sales Performance considers an order's item values, while OMS also considers discounts, freight, fees, and promotions applied to the order, which may increase or decrease its final total.
+>⚠️ The revenue metric may differ from the average ticket metric recorded in the OMS and Sales Performance, for example. This is because Sales Performance considers an order's item values, while OMS also considers discounts, freight, fees, and promotions applied to the order, which may increase or decrease its final total.
 
 ## Period
 
@@ -210,9 +210,7 @@ The list represents the metrics and filters applied to the chart in table format
   - __Absolute__: view in absolute numbers the increase or decrease of the metrics between one period and another.   
   - __Representative__: view the percentage of representativeness of an item within a metric.  
 
-<div class="alert alert-info">
-Note that the metrics <em>Average ticket</em> and <em>Items per order</em> do not have Percent or Representative views available, as these metrics are calculated by dividing others, and the sum of all the parts of each of them does not equal the Total.
-</div>
+>ℹ️ Note that the metrics *Average ticket* and *Items per order* do not have Percent or Representative views available, as these metrics are calculated by dividing others, and the sum of all the parts of each of them does not equal the Total.
 
 ### Exporting data
 

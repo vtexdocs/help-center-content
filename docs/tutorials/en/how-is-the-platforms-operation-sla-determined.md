@@ -3,8 +3,8 @@ title: 'How is the platform’s operation SLA determined?'
 id: frequentlyAskedQuestions_662
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:57.436Z
-updatedAt: 2019-12-31T17:00:45.718Z
-publishedAt: 2019-12-31T17:00:45.718Z
+updatedAt: 2024-03-11T22:38:31.694Z
+publishedAt: 2024-03-11T22:38:31.694Z
 firstPublishedAt: 2019-01-24T22:11:03.028Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,26 +15,24 @@ legacySlug: how-is-the-platforms-operation-sla-determined
 subcategory: 5PYkoNDZyo2G80yiiqG2YW
 ---
 
-In addition to the deadlines, you must identify what we consider to be a violation of the SLA. That is, what will really be considered as unavailability time.
+Any minute of interruption can be costly, both for the stores and for VTEX. Therefore, we try to be as transparent as possible regarding the health of our platform. We provide the [VTEX Status] page (http://status.vtex.com), where we record all incidents that have impacted our SLA.
 
-Since our trade model is based on store returns, it is quite clear for the VTEX team that an interruption of 1 minute costs a lot for both the stores and VTEX itself. Accordingly, we try to be as transparent as possible regarding the health of our platform. See the [status page](http://status.vtex.com "status page") for a description of all incidents that impacted our SLA. Such events are accounted for as follows:
+To determine SLA violations, i.e. to account for platform downtime, we consider the following events:
 
-### Events accounted for
+- Interruptions in the online store that significantly affect the number of orders placed, for example: store outage, slow access, checkout failure.
+- Interruptions lasting at least 10 minutes.
 
-- Interruptions in the virtual stores that may significantly impact the number of orders made. E.g.: store outage, slow access, checkout failure.
-- We account for interruptions with duration of no less than 10 minutes.
+>⚠️ We do not count scheduled maintenance as downtime.
 
-### Events not accounted for
+### Checking VTEX status
 
-- Scheduled maintenance.
-- Interruption of administrative module services.
+To identify unstable scenarios, we recommend checking the [VTEX Status](https://status.vtex.com) page if you suspect that the platform is unavailable. The status is updated when the incident has passed the 10-minute mark, with the following information:
 
-### Checking the status
+- __Investigating/Identified__: The team is investigating the incident and carrying out the necessary actions to restore the service.
+- __Monitoring__: The incident has been resolved and the service stabilized. The environment is being monitored.
+- __Resolved__: Case closed, with total SLA interruption time recorded. In most cases, the total interruption time is the sum of the incident's downtime.
 
-To facilitate the identification of such scenarios, we always recommend checking the status when there is a suspicion that the tool is not available. When the incident surpasses 10 minutes, the status is updated with the following information:
+## Learn more
 
-- __Investigating/Identifying__: the incident is being investigated by the team. The team is taking the actions required to restore services.
-- __Monitoring__: The incident was resolved, and the service was restored. The environment is being monitored.
-- __Resolved__: Case closed. Total outage time has been recorded. In most cases, the SLA is the sum of the unavailability time for all incidents.
+- [VTEX status page](https://help.vtex.com/en/tutorial/vtex-status-page--gPhqDn9IQ3c67wbJEX3JJ)
 
-![](//images.contentful.com/alneenqid6w5/2Le8koNu7YUoICaquSSuuY/134a3f2ca7cee4614a09c96397573dd9/Screen_Shot_2016-04-22_at_16.28.39.png)

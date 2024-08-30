@@ -43,9 +43,7 @@ La puntuación final determina el status del producto, desde *Aprobado, Negado* 
 ## Catalogación
 En la siguiente tabla se puede ver cómo cada puntuación genera un status y una acción correspondiente.
 
-<div class="alert alert-info">
-La puntuación máxima de VTEX Matcher para la catalogación automática es 95. Las puntuaciones superiores a 95 requieren catalogación manual.
-</div>
+>ℹ️ La puntuación máxima de VTEX Matcher para la catalogación automática es 95. Las puntuaciones superiores a 95 requieren catalogación manual.
 
 | Puntuación           | Status    | Escenario                                                                                                                                                        | Acción                                                                                                                                                                                                                                                                                                                    |
 |----------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

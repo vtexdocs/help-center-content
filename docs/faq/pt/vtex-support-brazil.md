@@ -3,8 +3,8 @@ title: 'Suporte VTEX - Brasil'
 id: 5q861sTw1n7H2BENOu7ls9
 status: PUBLISHED
 createdAt: 2021-03-02T00:59:46.352Z
-updatedAt: 2022-12-23T15:47:00.476Z
-publishedAt: 2022-12-23T15:47:00.476Z
+updatedAt: 2024-05-23T16:25:31.311Z
+publishedAt: 2024-05-23T16:25:31.311Z
 firstPublishedAt: 2021-03-02T01:09:50.358Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
@@ -15,6 +15,8 @@ legacySlug: suporte-vtex-brasil
 ---
 
 Este artigo apresenta a disponibilidade, SLA e recursos de suporte adicionais disponíveis para clientes atendidos por nossos escritórios no **Brasil**. Para uma perspectiva mais ampla de nossos recursos de suporte global, consulte: [Como funciona o suporte VTEX?](https://help.vtex.com/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe)
+
+>ℹ️ Se a equipe de Suporte identificar que um chamado foi aberto incorretamente, será recomendado o recurso mais apropriado a ser utilizado, e essa avaliação poderá ser feita em qualquer momento durante o processo de resolução.
 
 ## Disponibilidade e SLA de atendimento
 
@@ -70,7 +72,7 @@ Nosso acordo de nível de serviço (SLA de atendimento) para o tempo de primeira
 
 Note que nosso cálculo do tempo de primeira resposta é baseado em horas úteis. Os critérios de prioridade de chamados são definidos na seção a seguir.
 
-<div class="alert alert-warning">A <a href="#prioridade-de-chamados">prioridade de um chamado</a> poderá ser alterada a qualquer momento, caso nosso time avalie que um chamado foi aberto com prioridade incompatível com as descrições da tabela acima.</div>
+>⚠️ A [prioridade de um chamado](#prioridade-de-chamados) poderá ser alterada a qualquer momento, caso nosso time avalie que um chamado foi aberto com prioridade incompatível com as descrições da tabela acima.
 
 ## Prioridade de chamados
 

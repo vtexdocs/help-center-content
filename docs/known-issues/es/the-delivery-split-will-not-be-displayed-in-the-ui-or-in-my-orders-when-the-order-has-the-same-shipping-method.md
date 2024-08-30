@@ -1,5 +1,5 @@
 ---
-title: 'La división de la entrega no se mostrará en la interfaz de usuario ni en Mis pedidos cuando el pedido tenga el mismo "Método de envío".'
+title: "La división de la entrega no se mostrará en la interfaz de usuario ni en Mis pedidos cuando el pedido tenga el mismo 'Método de envío'."
 id: 2VnPyguau8KjpWx09C2vOW
 status: PUBLISHED
 createdAt: 2022-03-15T20:24:32.693Z
@@ -18,9 +18,7 @@ internalReference: 495352
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La sugerencia de dividir paquetes no está funcionando correctamente, cuando se finaliza la compra la interfaz de usuario sugiere la división de paquetes en casos de diferentes muelles o diferentes tamaños y diferentes estrategias de envío.

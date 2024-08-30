@@ -3,8 +3,8 @@ title: 'Preencher campos de cadastro de Categoria'
 id: 5Z7RrvW41yumyQCmk2iqoG
 status: PUBLISHED
 createdAt: 2017-09-20T14:44:06.897Z
-updatedAt: 2022-08-01T18:47:26.486Z
-publishedAt: 2022-08-01T18:47:26.486Z
+updatedAt: 2024-01-04T14:40:33.174Z
+publishedAt: 2024-01-04T14:40:33.174Z
 firstPublishedAt: 2017-09-20T14:58:27.420Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -19,15 +19,16 @@ Para entender melhor o significado de cada campo do cadastro de categoria, veja 
 
 - __Nome:__ relacionado ao departamento ou categoria que estiver cadastrando. Use palavras simples e evite outros idiomas ou escrita complexa. Esse campo é importante para SEO e deve respeitar o limite de 150 caracteres.
 
-  <div class="alert alert-danger">
-    <p>Ao preencher o <b>Nome</b> da categoria, evite utilizar as seguintes palavras reservadas, pois isso pode prejudicar o desempenho da sua loja e interferir no funcionamento de páginas definidas no Admin VTEX. Veja a lista de palavras reservadas abaixo.
-    <ul>
-      <li><code>a</code></li>
-      <li><code>meta</code></li>
-      <li><code>api</code></li>
-      <li><code>admin</code></li>
-    </ul></p>
-  </div>
+  >❗ Ao preencher o **Nome** da categoria, evite utilizar as seguintes palavras reservadas, pois isso pode prejudicar o desempenho da sua loja e interferir no funcionamento de páginas definidas no Admin VTEX. Veja a lista de palavras reservadas abaixo.
+>
+> * `a`
+>
+> * `meta`
+>
+> * `api`
+>
+> * `admin`
+>     
 
 - __Palavras Substitutas:__ sinônimos de termos relacionados ao nome dado para seu departamento ou categoria. "Televisão", por exemplo, pode ter como palavra substituta, "TV" ou "Tevê".  Esse campo é importante para tornar suas buscas mais abrangentes e deve respeitar o limite de 200 caracteres.
 - __Título da Página da Categoria (Tag Title):__ texto que fica na aba do navegador e corresponde ao título da página da categoria, importante para motores de busca (SEO). Este campo suporta apenas texto simples e não pode conter tags HTML.

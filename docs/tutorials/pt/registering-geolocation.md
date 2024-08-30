@@ -3,8 +3,8 @@ title: 'Cadastrar geolocalização'
 id: tutorials_138
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:36.462Z
-updatedAt: 2023-03-29T13:25:16.724Z
-publishedAt: 2023-03-29T13:25:16.724Z
+updatedAt: 2023-08-25T14:52:20.340Z
+publishedAt: 2023-08-25T14:52:20.340Z
 firstPublishedAt: 2017-04-27T23:00:44.871Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -32,6 +32,8 @@ Acessando o link [Gere seus polígonos com geojson.io](http://geojson.io/#map=2/
 
 Esse JSON será usado para adicionar o polígono na plataforma, que entenderá a partir dessa linguagem quais códigos postais estão inclusos nessa área.
 
+>❗ Na configuração de um polígono, não é possível delimitar áreas sobrepostas, ou seja, não é possível sobrepor coordenadas geográficas.
+
 ### Como adicionar um polígono
 
 Ao adicionar um polígono, é preciso nomeá-lo, de modo que ele seja identificado na planilha de frete, para que depois possa ser consultado por meio do código postal.
@@ -56,8 +58,7 @@ Exemplo:
 
 Pronto, agora é só usar esse mesmo ID para preencher a coluna **PolygonName** da [planilha de frete](http://help.vtex.com/tutorial/como-montar-a-planilha-de-frete/).
 
-<div class="alert alert-warning">É importante atentar para o fato de que, no caso de você usar geolocalização, preenchendo portanto a coluna <b>PolygonName</b> da planilha de frete, a transportadora em questão não usará as colunas <b>ZipCodeStart</b> e <b>ZipCodeEnd</b>, que deverão ser preenchidas com 0.
-</div>
+>⚠️ É importante atentar para o fato de que, no caso de você usar geolocalização, preenchendo portanto a coluna **PolygonName** da planilha de frete, a transportadora em questão não usará as colunas **ZipCodeStart** e **ZipCodeEnd**, que deverão ser preenchidas com 0.
 
    Lembre-se também que para que a geolocalização funcione, deve estar preenchido o campo API Key em **Configurações da loja > Storefront > Checkout**, [na aba Checkout](https://help.vtex.com/pt/tutorial/geolocalizacao-no-checkout/), com a mesma chave que utilizou para habilitar a geolocalização.
 
@@ -82,6 +83,4 @@ Caso precise alterar algum local de entrega de um polígono já existente, é p
 
 Depois disso, não será necessário alterar nenhuma informação na planilha de frete, visto que o ID do polígono continua o mesmo, e é por meio dele que o sistema faz a consulta.
 
-<div class="alert alert-warning">
-  Caso a transportadora e planilha de frete tenham sido criadas antes de cadastrar o Polígono, recomendamos que seja editada a transportadora que tem vínculo com esse Polígono, para atualizar o relacionamento. Com isso após a Criação ou Alteração de um Poligono, abra a transportadora e clique em Salvar, somente para sensibilizar uma atualização.
-</div>
+>⚠️ Caso a transportadora e planilha de frete tenham sido criadas antes de cadastrar o Polígono, recomendamos que seja editada a transportadora que tem vínculo com esse Polígono, para atualizar o relacionamento. Com isso após a Criação ou Alteração de um Poligono, abra a transportadora e clique em Salvar, somente para sensibilizar uma atualização.

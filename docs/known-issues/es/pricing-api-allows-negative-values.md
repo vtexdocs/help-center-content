@@ -18,9 +18,7 @@ internalReference: 774548
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, la API de precio PUT permite la entrada de valores negativos a través de la carga útil de la API PUT, si establece el margen y el precio base en valores negativos, establecerá el producto como no disponible.

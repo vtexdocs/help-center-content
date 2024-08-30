@@ -1,5 +1,5 @@
 ---
-title: 'Precios restringidos a un valor máximo de "Int32" en las APIs de pago'
+title: "Precios restringidos a un valor máximo de 'Int32' en las APIs de pago"
 id: 5mzOjCUYs7vXUkttbsK0za
 status: PUBLISHED
 createdAt: 2022-04-25T17:28:05.159Z
@@ -18,9 +18,7 @@ internalReference: 566142
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Las API REST de Checkout no admiten precios superiores a un valor "Int32". Por lo tanto, la aplicación de un "precio manual" se limitará al número "2.147.483.647" (número en decimales).

@@ -21,9 +21,9 @@ De fato, estamos fazendo essa mudança justamente porque, com a evolução da pl
 
 Eliminando a promoção Preço Máximo por Item, melhoramos a performance do módulo de promoções e o gerenciamento das lojas.
 
-<div class="alert alert-warning">Até o dia 20 de novembro, a promoção Preço Máximo por Item continua existindo. Porém, o número máximo de itens permitido passa a ser <b>100</b>. Anteriormente o máximo permitido era 500.</div>
+>⚠️ Até o dia 20 de novembro, a promoção Preço Máximo por Item continua existindo. Porém, o número máximo de itens permitido passa a ser **100**. Anteriormente o máximo permitido era 500.
 
-<div class="alert alert-danger">Se você usa alguma promoção Preço Máximo por Item, leia este texto até o final e adapte o método em sua loja. Caso contrário, os SKUs em questão deixarão de ser impactados por essa estratégia de negócio.</div>
+>❗ Se você usa alguma promoção Preço Máximo por Item, leia este texto até o final e adapte o método em sua loja. Caso contrário, os SKUs em questão deixarão de ser impactados por essa estratégia de negócio.
 
 ## Alternativas
 
@@ -33,7 +33,7 @@ Você tem duas maneiras pelas quais pode alcançar o mesmo efeito da promoção 
 
 Você pode configurar uma [Promoção Regular](/pt/tutorial/promocao-regular) com o tipo de desconto __Preço Máximo por Item__.
 
-![PrecoMaximo](//images.contentful.com/alneenqid6w5/1lv90zHrOIk0mwqcumEGkE/6e3b7b7cf7a678c003ad0497b2b2629f/PrecoMaximo.png)
+![PrecoMaximo](https://images.contentful.com/alneenqid6w5/1lv90zHrOIk0mwqcumEGkE/6e3b7b7cf7a678c003ad0497b2b2629f/PrecoMaximo.png)
 
 Trata-se de um cenário até melhor que o anterior, uma vez que o lojista tem mais opções de agrupamento, por exemplo, por categoria de produto.
 

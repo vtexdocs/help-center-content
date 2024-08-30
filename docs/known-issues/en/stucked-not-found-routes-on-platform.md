@@ -3,8 +3,8 @@ title: 'Stucked not found routes on platform'
 id: iAGlRJtK1KMBGxH2tAsrX
 status: PUBLISHED
 createdAt: 2023-04-19T15:54:48.241Z
-updatedAt: 2023-04-19T16:00:28.874Z
-publishedAt: 2023-04-19T16:00:28.874Z
+updatedAt: 2023-06-28T15:56:47.493Z
+publishedAt: 2023-06-28T15:56:47.493Z
 firstPublishedAt: 2023-04-19T15:54:48.788Z
 contentType: knownIssue
 productTeam: Store Framework

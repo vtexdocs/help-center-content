@@ -3,8 +3,8 @@ title: 'Configurar pagos con AdyenV3'
 id: 7xAz67E2Eg63LWCQNjVdwv
 status: PUBLISHED
 createdAt: 2023-05-08T20:00:38.610Z
-updatedAt: 2023-05-31T19:42:52.614Z
-publishedAt: 2023-05-31T19:42:52.614Z
+updatedAt: 2024-06-25T21:10:30.984Z
+publishedAt: 2024-06-25T21:10:30.984Z
 firstPublishedAt: 2023-05-11T20:32:21.638Z
 contentType: tutorial
 productTeam: Financial
@@ -22,13 +22,9 @@ Para utilizar la afiliación AdyenV3, debes:
 - [Configurar el entorno Adyen](#configurar-el-entorno-adyen)
 - [Configurar el conector AdyenV3 en VTEX](#configurar-el-conector-adyenv3-en-vtex)
 
-<div class="alert alert-warning">
-La configuración realizada en un entorno externo a VTEX puede interrumpirse o modificarse sin previo aviso. Consulta tu cuenta Adyen para obtener información actualizada.
-</div>
+>⚠️ La configuración realizada en un entorno externo a VTEX puede interrumpirse o modificarse sin previo aviso. Consulta tu cuenta Adyen para obtener información actualizada.
 
-<div class="alert alert-info">
-Para utilizar la afiliación AdyenV3 a través de <a href="https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf">Sales App</a> en tus tiendas físicas (puntos de ventas), ve a <a href="https://help.vtex.com/es/tutorial/configurar-pagos-con-adyenv3-en-vtex-sales-app--24yO6KloBn6DN6CbprHtgt">Configurar pago con AdyenV3 en Sales App</a>.
-</div>
+>ℹ️ Para utilizar la afiliación AdyenV3 a través de [Sales App](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) en tus tiendas físicas (puntos de ventas), ve a [Configurar pago con AdyenV3 en Sales App](https://help.vtex.com/es/tutorial/configurar-pagos-con-adyenv3-en-vtex-sales-app--24yO6KloBn6DN6CbprHtgt).
 
 ## Configurar el entorno Adyen
 
@@ -39,25 +35,23 @@ Para habilitar el acceso de VTEX en el entorno Adyen, sigue los pasos a continua
 ### Obtener las credenciales Company y Merchant Account 
 
 1. Accede a tu [Área de Cliente](https://ca-test.adyen.com/) en Adyen.
-2. En la barra lateral izquierda, copia y guarda la información descrita antes de **Company**. Esta es tu Company Account.
+2. En la barra lateral izquierda, copia y guarda la información descrita antes de __Company__. Esta es tu Company Account.
 3. En la lista de abajo, busca el nombre de la Merchant Account a utilizar (resaltada en blanco). Copia y guarda esta información.
 
 ![Adyenv3_1](https://images.ctfassets.net/alneenqid6w5/4BHwn5SIUl6AuiiEjreluk/a7404c85f6fda7f7ccbae66070d0db0d/Adyenv3_1.PNG)
 
 ### Obtener la Live URL
 
-1. En la barra lateral, accede a **Developers > API URLs**.
-2. Haz clic en `Copy` en el campo **Prefix** y anota la información guardada en un lugar seguro.
+1. En la barra lateral, accede a __Developers > API URLs__.
+2. Haz clic en `Copy` en el campo __Prefix__ y anota la información guardada en un lugar seguro.
 
 ### Obtener la API Key y la Client Key
 
-<div class="alert alert-warning">
-La información a continuación supone que la API Key y la Client Key se han generado previamente en el entorno de Adyen. En caso de que necesites crearlas, consulta la documentación de <a href="https://docs.adyen.com/">Adyen</a>.
-</div>
+>⚠️ La información a continuación supone que la API Key y la Client Key se han generado previamente en el entorno de Adyen. En caso de que necesites crearlas, consulta la documentación de [Adyen](https://docs.adyen.com/).
 
-1. Haz clic en **Developers** en la barra lateral y luego en **API credentials**.
+1. Haz clic en __Developers__ en la barra lateral y luego en __API credentials__.
 2. Selecciona tu credencial API.
-3. En **Server Settings > Authentication**, selecciona **API key**. 
+3. En __Server Settings > Authentication__, selecciona __API key__. 
 
 ![Adyenv3_2](https://images.ctfassets.net/alneenqid6w5/5y5TAeZmhsKrn2nZTJexIw/bfbe2587739f39fa70c4e1f08e86bd71/Adyenv3_2.PNG)
 
@@ -75,11 +69,11 @@ La configuración del webhook es necesaria para que Adyen envíe actualizaciones
 
 Configura el webhook según los pasos a continuación:
 
-1. En tu [Área de Cliente](https://ca-test.adyen.com/) en Adyen, accede a **Developers > Webhooks**.
+1. En tu [Área de Cliente](https://ca-test.adyen.com/) en Adyen, accede a __Developers > Webhooks__.
 2. Haz clic en el botón azul `+ Webhook`.
-3. Selecciona la opción **Standard Webhook** haciendo clic en el botón **Add**.
-4. En **General > Description**,  agrega una descripción para el nuevo webhook. Ejemplo: "Webhook Adyen Connector Provider v3".
-5. En **General > Server configuration > URL**, introduce la URL de tu cuenta VTEX. Ejemplo: https://{{account}}.myvtex.com/_v3/api/webhook/notification.
+3. Selecciona la opción __Standard Webhook__ haciendo clic en el botón __Add__.
+4. En __General > Description__, agrega una descripción para el nuevo webhook. Ejemplo: "Webhook Adyen Connector Provider v3".
+5. En __General > Server configuration > URL__ introduce la URL de tu cuenta VTEX. Ejemplo: https://{{account}}.myvtex.com/_v3/api/webhook/notification.
 
 ![Adyenv3_4](https://images.ctfassets.net/alneenqid6w5/1gAXlQfBoEUm5qnfSsHJkl/c18036816afbfe9ed8434d1211679879/Adyenv3_4.PNG)
 
@@ -95,31 +89,37 @@ Configura el webhook según los pasos a continuación:
 
 ![Adyenv3_7](https://images.ctfassets.net/alneenqid6w5/dEbiVnYj1Ic4eYgkSNolQ/79bba40bd6820d29de275e3cab19f22e/Adyenv3_7.PNG)
 
-<div class="alert alert-info">
-Si tienes varias tiendas, es necesario configurar el webhook para cada una de ellas.
-</div>
+>ℹ️ Si tienes varias tiendas, es necesario configurar el webhook para cada una de ellas.
 
 ## Configurar el conector AdyenV3 en VTEX
 
-1. En el Admin VTEX, ve a **Configuración de la tienda > Pagos > Configuración**, o ingresa **Configuración** na barra de busca no topo da página.
-2. En la pestaña **Afiliações de Gateways**, haz clic en el botón `+`.
-3. Haz clic en el conector **AdyenV3**.
-4. Rellena los siguientes campos con tus datos de Adyen:
-    - **Application Key**: el nombre de tu Adyen Merchant Account (paso 3 de la sección [Obtener las credenciales Company y Merchant Account](#obtener-las-credenciales-company-y-merchant-account).
-    - **Application Token**: API Key (paso 4 de la sección [Obtener la API Key y la Client Key](#obtener-la-api-key-y-la-client-key)).
-    - **Live URL prefix**: URL prefix (paso 2 de la sección [Obtener la Live URL](#obtener-la-live-url)).
-    - **Company account**: el nombre de tu Company Account (paso 2 de la sección [Obtener las credenciales Company y Merchant Account](#obtener-las-credenciales-company-y-merchant-account)).
-    - **Live POS URL**: no es necesario rellenar este campo (solo aplicable a Sales App). 
-    - **Client key**: Client key (paso 6 de la sección [Obtener la API Key y la Client Key](#obtener-la-api-key-y-la-client-key)).
-
-<blockquote><ui> 5. Si aparece un mensaje de alerta indicando la necesidad de instalar la aplicación, haz clic en el botón <b>Instalar aplicación</b> y sigue las instrucciones para hacerlo.</ui>
-
-<blockquote><ui> 6. Haz clic en <b>Guardar</b>.</ui>
-
-![Adyenv3_8](https://images.ctfassets.net/alneenqid6w5/6VHaDn8IejGCUoatLIyUtk/bb93a701e80a942064818a54ac401714/Adyenv3_8.PNG)
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __AdyenV3__ en la barra de búsqueda y haga clic en el nombre del proveedor.
+4. En __Clave de aplicación__, complete el nombre de Merchant Account (paso 3 de la sección [Obtener las credenciales Company y Merchant Account](#obtener-las-credenciales-company-y-merchant-account).
+5. En __Token de aplicación__, ingrese el API Key (paso 4 de la sección [Obtener la API Key y la Client Key](#obtener-la-api-key-y-la-client-key)).
+6. Si desea modificar el nombre de identificación que se mostrará para el proveedor AdyenV3 en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información general__.
+7. En __Control de pago__, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en __Activar modo de prueba__.  
+8. En __Live URL prefix__, complete el URL prefix (paso 2 de la sección [Obtener la Live URL](#obtener-la-live-url)).
+9. En __Company account__, introduzca el nombre de tu Company Account (paso 2 de la sección [Obtener las credenciales Company y Merchant Account](#obtener-las-credenciales-company-y-merchant-account)).
+10. En __Live POS URL__, no es necesario rellenar este campo (solo aplicable a Sales App).
+11. En __Client key__, complete el Client key (paso 6 de la sección [Obtener la API Key y la Client Key](#obtener-la-api-key-y-la-client-key)). 
+12. Haga clic en `Guardar`.
 
 Para configurar los medios de pago que procesará AdyenV3, accede a [Condiciones de pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455). Si deseas realizar ventas a través de Sales App, ve a [Configurar pagos con AdyenV3 en Sales App](https://help.vtex.com/es/tutorial/configurar-pagos-con-adyenv3-en-vtex-sales-app--24yO6KloBn6DN6CbprHtgt).
 
 Para establecer condiciones especiales en los medios de pago, ve a [Configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condicoes-especiais--tutorials_456).
+
+## Configura la tarjeta de crédito
+
+Si desea procesar pagos con tarjeta de crédito en su tienda utilizando AdyenV3, además de realizar las configuraciones anteriores descritas en este artículo, debe abrir un ticket en [Soporte VTEX](https://help.vtex.com/es/support), con la siguiente solicitud "Provider review - Add Endpoint SecureProxy - AdyenV3".  
+
+En el ticket también deberás enviar la URL que será autorizada por Adyen para realizar la transacción con tarjeta de crédito en tu tienda. El formato de la URL debe ser `https://{live URL prefix}-checkout-live.adyenpayments.com`, donde la información "{live URL prefix}" debe ser la misma que la ingresada por usted en las configuraciones de Adyen en el VTEX Admin .  
+
+>⚠️ La dirección URL completa debe escribirse únicamente en letras minúsculas, incluso si el "Live URL prefix" configurado en el VTEX Admin tiene algunas letras mayúsculas.  
+
+## Configurar el pago con Apple Pay en Adyen (opcional) 
+
+Para procesar pagos con Apple Pay en Adyen, primero debes realizar configuraciones para habilitar tu tienda en el entorno de Apple Pay. Obtenga más información en [Setting up Merchant ID in Apple Pay](https://developers.vtex.com/docs/guides/setting-up-merchant-id-in-apple-pay). 
 
 Tras seguir los pasos indicados, el conector AdyenV3 puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como opción de pago.

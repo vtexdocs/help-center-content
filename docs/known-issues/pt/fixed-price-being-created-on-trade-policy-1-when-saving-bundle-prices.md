@@ -3,8 +3,8 @@ title: 'Preço fixo sendo criado na política comercial 1 ao economizar preços 
 id: 3Xbh5GVn0jm2yhaOiRg3Le
 status: PUBLISHED
 createdAt: 2022-11-28T12:41:07.808Z
-updatedAt: 2022-11-28T12:41:08.426Z
-publishedAt: 2022-11-28T12:41:08.426Z
+updatedAt: 2024-02-16T20:24:01.848Z
+publishedAt: 2024-02-16T20:24:01.848Z
 firstPublishedAt: 2022-11-28T12:41:08.426Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: preco-fixo-sendo-criado-na-politica-comercial-1-ao-economizar-precos-de-pacote
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 705869
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

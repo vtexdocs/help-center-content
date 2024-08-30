@@ -3,8 +3,8 @@ title: 'Configuring Tuna gateway affiliation'
 id: 5Db0j4pE76ma9pUvYuAhfF
 status: PUBLISHED
 createdAt: 2021-07-07T14:47:34.162Z
-updatedAt: 2023-03-26T21:51:52.610Z
-publishedAt: 2023-03-26T21:51:52.610Z
+updatedAt: 2024-01-23T21:47:01.684Z
+publishedAt: 2024-01-23T21:47:01.684Z
 firstPublishedAt: 2021-07-07T14:57:45.358Z
 contentType: tutorial
 productTeam: Financial
@@ -15,17 +15,15 @@ legacySlug: configuring-tuna-gateway-affiliation
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, you can configure your store with the Tuna gateway affiliation to receive payments through: bank invoice, debit and credit cards, PIX and Bitcoin.
+At VTEX, you can configure your store with the Tuna gateway to receive payments through: bank invoice, debit and credit cards, PIX and Bitcoin.
 
-<div class="alert alert-warning">
-  You can integrate your store with Tuna via <b>Application Key</b> and <b>Application Token.</b> To receive this information, you need to create your account first. To do so, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScWk5fsmkIfGaW2Z6qhdGH-JJ5iU6Fv5TGghUR1Pod5dY5Z2Q/viewform">this form</a> and wait to be contacted by Tuna with more details.
-  </div>
+>⚠️ You can integrate your store with Tuna via **Application Key** and **Application Token.** To receive this information, you need to create your account first. To do so, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScWk5fsmkIfGaW2Z6qhdGH-JJ5iU6Fv5TGghUR1Pod5dY5Z2Q/viewform) and wait to be contacted by Tuna with more details.
 
 Once you have created your account and obtained the __Application Key__ and __Application Token__, follow the steps below to configure Tuna in your store:
 
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. In the __Gateway affiliations__ tab, click on the __+__ button.
-3. Click on the __Tuna__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __Tuna__ in the search bar and click on the name of the provider.
 4. Fill in the __Application Key__ and __Application Token__ fields with data provided by Tuna.
 5. In __Payment capture__, select one of the following options:
 

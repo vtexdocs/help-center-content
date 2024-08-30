@@ -23,7 +23,7 @@ The design is the same for accesses made from desktops, smartphones, tablets or 
 
 The design of the mobile version, as well as its whole programming, are only intended for mobile devices, being a second application. In other words, there is one application for usual browsers, and another one for mobile browsers. Upon accessing the store, the device will be identified and the specific programming will be redirected.
 
-![Main mobile and desktop screen resolutions currently used](//images.contentful.com/alneenqid6w5/4tOHOVzZO8w6a0mUAuqSk6/770a9f0ff450163bd3e30f32e8e56cd6/RESOLUTION.jpg)
+![Main mobile and desktop screen resolutions currently used](https://images.contentful.com/alneenqid6w5/4tOHOVzZO8w6a0mUAuqSk6/770a9f0ff450163bd3e30f32e8e56cd6/RESOLUTION.jpg)
 
 Main mobile and desktop screen resolutions currently in use (there can be variations according to the device used):
 

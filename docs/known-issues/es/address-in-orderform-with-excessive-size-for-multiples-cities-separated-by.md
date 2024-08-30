@@ -1,5 +1,5 @@
 ---
-title: 'Dirección en orderForm con tamaño excesivo para múltiples ciudades separadas por "::"'
+title: "Dirección en orderForm con tamaño excesivo para múltiples ciudades separadas por '::'"
 id: 7E6x4O56SxcSeU2qv09GBt
 status: PUBLISHED
 createdAt: 2023-01-06T11:52:36.229Z
@@ -18,9 +18,7 @@ internalReference: 287854
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 En algunos casos, la API de Checkout utiliza "::" como separador cuando hay varias posibilidades de ciudades desde el servicio de código postal, provocando un error por tamaño excesivo en el campo dirección, afectando a la realización del pedido. Este comportamiento ocurre porque la API tiene un autocompletado para la dirección
 

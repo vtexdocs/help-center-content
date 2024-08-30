@@ -25,7 +25,5 @@ To search through your old orders, follow the steps below:
 6. Choose a starting date/hour and an end date/hour
 7. Click on __Confirm__
 
-<div class="alert alert-info">
-Remember that the search by period is <strong>limited to a six months interval </strong>. As such, if you want to, for example, search for orders from 2017, the time interval chosen in <strong>step 6</strong> must comprise a period of 6 month. Example: Start date = 01/01/2017 e End Date = 30/06/2017.
-</div>
+>ℹ️ Remember that the search by period is **limited to a six months interval **. As such, if you want to, for example, search for orders from 2017, the time interval chosen in **step 6** must comprise a period of 6 month. Example: Start date = 01/01/2017 e End Date = 30/06/2017.
 

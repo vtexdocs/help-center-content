@@ -1,36 +1,35 @@
 ---
-title: 'Pedido con estado de anulado pero el pago sigue autorizado'
+title: 'Pedido con estado cancelado pero el pago sigue autorizado'
 id: 19WmIjIbAQmJ19AOC4q56N
 status: PUBLISHED
 createdAt: 2022-05-11T12:49:23.081Z
-updatedAt: 2022-11-25T21:51:23.997Z
-publishedAt: 2022-11-25T21:51:23.997Z
+updatedAt: 2024-06-28T17:45:57.362Z
+publishedAt: 2024-06-28T17:45:57.362Z
 firstPublishedAt: 2022-05-11T12:49:23.599Z
 contentType: knownIssue
-productTeam: Checkout
+productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
-tag: Checkout
-slug: pedido-con-estado-de-anulado-pero-el-pago-sigue-autorizado
+tag: Order Management
+slug: pedido-con-estado-cancelado-pero-el-pago-sigue-autorizado
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 420019
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
-En algunos casos en los que el pedido está incompleto o se cancela cuando hay algún fallo de comunicación con la Pasarela, el pago permanece autorizado y/o aprobado, no entrando en el flujo de cancelación y no se devuelve automáticamente el importe pagado. Además, los correos electrónicos transaccionales pueden ser enviados accidentalmente, lo que también permite el pago de recibos bancarios, ya que la URL irá con él.
+En algunos casos en los que el pedido queda incompleto o anulado al producirse algún fallo de comunicación con la Pasarela, el pago queda autorizado y/o aprobado, no entrando en el flujo de anulación y no devolviéndose automáticamente el importe pagado. Además, se pueden enviar accidentalmente correos electrónicos transaccionales, que también permiten el pago de recibos bancarios, ya que la URL irá con él.
 
 
+##
 
 ## Simulación
 
 
-No hay forma de simularlo. Pero tenemos algunos casos en los que esto ha ocurrido antes.
+No hay manera de simular. Pero tenemos algunos casos que esto sucedió antes.
 
 
 

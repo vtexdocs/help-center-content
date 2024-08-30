@@ -3,8 +3,8 @@ title: 'Configurar o Cartman'
 id: 1ACMTStZYkMqB0lTgwg451
 status: PUBLISHED
 createdAt: 2019-09-03T15:02:48.303Z
-updatedAt: 2022-06-15T23:16:07.805Z
-publishedAt: 2022-06-15T23:16:07.805Z
+updatedAt: 2024-03-13T18:18:17.017Z
+publishedAt: 2024-03-13T18:18:17.017Z
 firstPublishedAt: 2019-09-09T18:28:20.208Z
 contentType: tutorial
 productTeam: Shopping
@@ -27,15 +27,14 @@ Neste artigo serão abordados os seguintes tópicos:
 
 - [Ativar o Cartman manualmente](#ativar-o-cartman-manualmente)
 - [Funções do Cartman](#funcoes-do-cartman)
+  - [Simulador de promoções](#simulador-de-promocoes)
   - [Obter informações dos items no carrinho](#obter-as-informacoes-dos-items-no-carrinho)
   - [Adicionar itens específicos no carrinho](#adicionar-itens-especificos-no-carrinho)
   - [Adicionar itens aleatórios no carrinho](#adicionar-itens-aleatorios-no-carrinho)
   - [Definir dados de marketing](#definir-dados-de-marketing)
 - [Desativar o Cartman](#desativar-o-cartman) 
 
-<div class="alert alert-warning">
-  Somente o lojista tem acesso ao <b>Cartman</b>. Suas funcionalidades não estão disponíveis para utilização dos usuários em uma loja.
-</div>
+>⚠️ Somente o lojista tem acesso ao **Cartman**. Suas funcionalidades não estão disponíveis para utilização dos usuários em uma loja.
 
 ## Ativar o Cartman manualmente
 
@@ -43,9 +42,15 @@ Para ativar o Cartman manualmente, siga os passos abaixo:
 
 1. Acesse uma página de Checkout da sua loja (`https://{accountname}.myvtex.com/checkout/`).
 2. Insira a query string `?cartman=on` no final da URL (`https://accountname.myvtex.com/checkout?cartman=on`).
-3. No canto inferior direito da tela, clique no botão <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> para acessar o Cartman.
+3. No canto inferior direito da tela, clique no botão <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> para acessar o Cartman.
 
 ## Funções do Cartman
+
+### Simulador de promoções
+
+Ao acessar o **Simulador de Promoções**, você pode visualizar as promoções criadas na sua loja que foram aplicadas no carrinho de compras e os motivos para sua ativação. Também é possível testar a aplicação de promoções antes de ativá-las, incluindo promoções agendadas e inativas.
+
+Para saber usar essa ferramenta, leia o guia [Simulador de Promoções](https://help.vtex.com/pt/tutorial/simulador-de-promocoes-beta--4zc8SNqjqeIJ0ZRMhjlnvy).
 
 ### Obter as informações dos items no carrinho
 
@@ -96,10 +101,8 @@ Para saber mais sobre UTMs e UTMIs , acesse [O que são utm_source, utm_campaign
 O Cartman pode ser desativado a qualquer momento, conforme a necessidade do lojista. Para desativá-lo, siga os passos abaixo:
 
 1. Acesse uma página de Checkout da sua loja (`https://{accountname}.myvtex.com/checkout/`).
-2. No canto inferior direito da tela, clique no botão <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
+2. No canto inferior direito da tela, clique no botão <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
 3. Na parte inferior do menu do Cartman, clique em `Desativar o Cartman`.
 
-<div class="alert alert-info">
-  Caso deseje reativar o <b>Cartman</b>, adicione novamente a query string <code>?cartman=on</code> em uma das páginas do Checkout de sua loja. Desta forma, o ícone azul estará novamente disponível no canto inferior direito da página.
-</div>
+>ℹ️ Caso deseje reativar o **Cartman**, adicione novamente a query string `?cartman=on` em uma das páginas do Checkout de sua loja. Desta forma, o ícone azul estará novamente disponível no canto inferior direito da página.
 

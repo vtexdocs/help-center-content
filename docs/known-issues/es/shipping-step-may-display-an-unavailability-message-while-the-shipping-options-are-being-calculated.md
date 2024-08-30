@@ -18,9 +18,7 @@ internalReference: 650038
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Un usuario que tiene guardada la dirección en su perfil, al llegar al paso de dirección donde se muestra la selección de envío, al seleccionar otra opción se muestra erróneamente un aviso de "La entrega no está disponible para esta dirección", puede aparecer rápidamente debido a la carga de información, puede ocurrir según la demora en esta búsqueda dependiendo de la complejidad de la tienda.

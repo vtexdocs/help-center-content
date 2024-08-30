@@ -3,8 +3,8 @@ title: 'Importar dados de clientes'
 id: 2zWYVOyj0sISYQmeUwCsI0
 status: PUBLISHED
 createdAt: 2017-06-22T20:55:49.745Z
-updatedAt: 2022-10-17T20:32:21.800Z
-publishedAt: 2022-10-17T20:32:21.800Z
+updatedAt: 2023-10-09T20:34:05.165Z
+publishedAt: 2023-10-09T20:34:05.165Z
 firstPublishedAt: 2017-06-27T14:40:29.106Z
 contentType: tutorial
 productTeam: Master Data
@@ -17,27 +17,26 @@ subcategory: 42hDtnYXHw5ExG6l19RP1l
 
 A importação de dados de clientes deve ser feita no Master Data. Para o envio de dados, use o artigo [Importando dados no Master Data](/pt/tutorial/importando-dados-no-master-data).
 
-<div class="alert alert-danger">
-<p>Este artigo se refere aos campos do Master Data v1 especificamente para as lojas do <strong>Brasil</strong>.</p>
-<p>Você também pode conferir o guia sobre como <a href="https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2">importar dados de clientes programaticamente com a API do Master Data v2</a>.</p>
-</div>
+>❗ Este artigo se refere aos campos do Master Data v1 especificamente para as lojas do **Brasil**.
+>
+> Você também pode conferir o guia sobre como [importar dados de clientes programaticamente com a API do Master Data v2](https://developers.vtex.com/docs/guides/import-customer-data).
 
 O checkout trabalha com os dados das entidades CL (cliente) e AD (endereço).
 
 Mas é importante notar que, para que o checkout já traga os dados do cliente no carrinho com base no e-mail, chave primária do Master Data, é fundamental garantir que todos os dados a seguir estejam corretamente cadastrados na plataforma.
 
-Dito isso, as tabelas a seguir representam os dados o formatos necessários para a importação.
+Dito isso, as tabelas a seguir representam os dados e os formatos necessários para a importação.
 
 ### Cliente
 
 | Nome do campo | Descrição | Formato |
 |---------------|-----------|---------|
-| firstName | nome | texto |
-| lastName | sobrenome | texto |
-| email | e-mail do cliente | email |
-| documentType | Tipo do documento | para Brasil deve ser "cpf" |
-| document | Documento (CPF) | 11 dígitos, sem máscara |
-| homePhone | Telefone | no formato "+5511999999999", sendo +55 para o país e sucedido   pelo telefone com DDD |
+| firstName | Nome do cliente | Texto |
+| lastName | Sobrenome | Texto |
+| email | Email do cliente | Email |
+| documentType | Tipo do documento | Para clientes do Brasil, deve ser "cpf". |
+| document | Documento (CPF, no caso do Brasil) | 11 dígitos, sem máscara. |
+| homePhone | Telefone | No formato "+5511999999999", sendo +55 para o país e sucedido pelo telefone com DDD. |
 
 O campo `id` é gerado pelo sistema logo após a importação, e será usado como `userId` na importação do endereço.
 
@@ -47,11 +46,11 @@ Se o cliente for **pessoa jurídica**, `document` e `documentType` deixam de ser
 
 | Nome do campo | Descrição | Formato |
 |---------------|-----------|---------|
-| isCorporate | define se o cliente é pessoa jurídica | deve ser "true" |
-| corporateName | razão social | texto |
-| tradeName | nome fantasia | texto |
-| stateRegistration | inscrição estadual | deve ser "Isento" ou texto/alfanumérico |
-| corporateDocument | CNPJ | 14 dígitos, sem máscara |
+| isCorporate | Define se o cliente é pessoa jurídica | Deve ser "true". |
+| corporateName | Razão social | Texto |
+| tradeName | Nome fantasia | Texto |
+| stateRegistration | Inscrição estadual | Deve ser "Isento" ou texto, valor alfanumérico. |
+| corporateDocument | CNPJ | 14 dígitos, sem máscara. |
 
 ### Endereço
 
@@ -59,20 +58,20 @@ Se o cliente for **pessoa jurídica**, `document` e `documentType` deixam de ser
 
 | Nome do campo | Descrição | Formato |
 |---------------|-----------|---------|
-| id | ID do endereço | em branco |
-| userId | ID do cliente | campo `id`, gerado após importação de clientes |
-| addressName | nome do endereço | texto/alfanumérico |
-| addressType | tipo do endereço | deve ser "residential" ou "commercial" |
-| country | país | "BRA" para Brasil |
-| state | estado (UF) | duas letras |
-| city | cidade | texto |
-| neighborhood | bairro | texto |
+| id | ID do endereço | Em branco |
+| userId | ID do cliente | Campo `id`, gerado após importação de clientes |
+| addressName | Nome do endereço | Texto/alfanumérico |
+| addressType | Tipo do endereço | Deve ser "residential" ou "commercial" |
+| country | Código do país | "BRA" para Brasil |
+| state | Estado (UF) | Duas letras |
+| city | Cidade | Texto |
+| neighborhood | Bairro | texto |
 | postalCode | CEP | 8 ou 9 dígitos, com hífen |
-| street | endereço | texto |
-| number | número | alfanumérico |
-| complement | Complemento e referência | texto |
-| reference | campo não usado | em branco |
-| receiverName | destinatário | texto |
+| street | Endereço | Texto |
+| number | Número | alfanumérico |
+| complement | Complemento e referência | Texto |
+| reference | Campo deprecado | Em branco |
+| receiverName | Destinatário | Texto |
 
 ---
 

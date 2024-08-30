@@ -3,8 +3,8 @@ title: 'Kit Weight can be Overritten by API/Webservice'
 id: Dlrs4qgHsnwIHxqqV0Rmg
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:40.711Z
-updatedAt: 2022-11-25T21:43:12.999Z
-publishedAt: 2022-11-25T21:43:12.999Z
+updatedAt: 2024-02-16T20:29:08.522Z
+publishedAt: 2024-02-16T20:29:08.522Z
 firstPublishedAt: 2022-06-28T16:55:40.971Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: kit-weight-can-be-overritten-by-apiwebservice
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 429993
 ---
 

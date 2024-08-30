@@ -1,10 +1,10 @@
 ---
 title: '¿Cómo direccionar duda financiera a VTEX?'
 id: 5h8wQ6AqIEKYcU2mASqGEU
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-01-24T20:45:46.689Z
-updatedAt: 2020-03-09T17:25:45.988Z
-publishedAt: 2020-03-09T17:25:45.988Z
+updatedAt: 2024-07-29T22:06:40.466Z
+publishedAt: 
 firstPublishedAt: 2019-01-24T21:58:53.151Z
 contentType: tutorial
 productTeam: Billing

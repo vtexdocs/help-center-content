@@ -3,8 +3,8 @@ title: 'Visión General Marketplace'
 id: 40Zd0z9h2RXsM9uMUp3kEb
 status: PUBLISHED
 createdAt: 2023-03-31T19:13:35.911Z
-updatedAt: 2023-03-31T19:18:29.348Z
-publishedAt: 2023-03-31T19:18:29.348Z
+updatedAt: 2023-09-13T22:33:02.149Z
+publishedAt: 2023-09-13T22:33:02.149Z
 firstPublishedAt: 2023-03-31T19:18:29.348Z
 contentType: tutorial
 productTeam: Channels
@@ -20,8 +20,6 @@ Un _marketplace_ es una plataforma virtual a través de la cual diferentes vende
 [VTEX promueve la colaboración digital](https://vtex.com/br-pt/marketplace/) en diferentes escenarios. Puedes vender tus productos en _marketplaces_ y también vender productos de otros _sellers_ en tu ambiente, operando como _marketplace_. Aprende más sobre las diferentes [estrategias de marketplace en VTEX](https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402).
 
 Hemos agrupado todas las funcionalidades relacionadas con estas operaciones en el menú __Marketplace__ del Admin v4. 
-
-![Admin v4 marketplace menu ES](https://images.ctfassets.net/alneenqid6w5/5y304Ab4DxbE2GRKVihDjJ/388a33ea9aa96d9c3df4cb457342caec/Admin_v4_marketplace_menu_ES.jpg)
 
 A continuación, encontrarás más detalles sobre las diferentes secciones y páginas de este menú.
 

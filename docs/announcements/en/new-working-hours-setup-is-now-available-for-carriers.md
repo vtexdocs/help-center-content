@@ -33,10 +33,6 @@ To set up the carrier working hours, follow the steps below:
 ## Next steps
 Soon, we'll enable the definition of more time ranges per day. That way, stores that close during lunch hours, for example, will be able to register those periods too. See the article [Setting up carrier's business hour](https://help.vtex.com/en/tutorial/configurar-horario-de-funcionamento-para-transportadoras--2oGpbInIgdxSWUi3TZjdCS).
 
-<div class="alert alert-info">
-The default setup comes with all days selected, and working hours from 00:00 to 23:59 (local time).
-</div>
+>ℹ️ The default setup comes with all days selected, and working hours from 00:00 to 23:59 (local time).
 
-<div class="alert alert-warning">
-While using the Carrier business hours option, you won't be able to use cut-off times. That means that you need to choose the option that best suits your store's needs.
-</div>
+>⚠️ While using the Carrier business hours option, you won't be able to use cut-off times. That means that you need to choose the option that best suits your store's needs.

@@ -3,8 +3,8 @@ title: 'Importar datos en el Master Data'
 id: tutorials_1135
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:12.437Z
-updatedAt: 2023-03-28T23:29:25.337Z
-publishedAt: 2023-03-28T23:29:25.337Z
+updatedAt: 2023-06-15T19:48:45.566Z
+publishedAt: 2023-06-15T19:48:45.566Z
 firstPublishedAt: 2017-04-27T23:03:43.488Z
 contentType: tutorial
 productTeam: Master Data
@@ -30,23 +30,19 @@ La mejor manera de obtener la planilla de importación es [realizando la exporta
 
 Deje el valor de la columna id vacío y será creado un nuevo registro.
 
-<div class="alert alert-warning">
-Al ingresar los datos en la plantilla, asegúrate de que el formato de los valores de las celdas coincida con el formato esperado por la columna correspondiente. Ejemplos de formatos son número, texto o fecha.
-</div>
+>⚠️ Al ingresar los datos en la plantilla, asegúrate de que el formato de los valores de las celdas coincida con el formato esperado por la columna correspondiente. Ejemplos de formatos son número, texto o fecha.
 
 ## Cómo subir la planilla
 
 Tras la exportación y edición de la planilla exportada, es hora de realizar la importación de los datos. Para ello, siga los puntos a continuación para realizar esta operación:
 
-<div class="alert alert-warning">
-Mantenga el mismo formato de la planilla (xls) para realizar la importación con éxito.
-</div>
+>⚠️ Mantenga el mismo formato de la planilla (xls) para realizar la importación con éxito.
 
-1. En el Admin VTEX, accede **Configuración de la tienda** > **Storefront** > **Master Data**.
-2. Haga clic en la pestaña **Aplicações**.
-3. Haga clic en el botón **Modo de Importação**.
+1. En el Admin VTEX, accede **Configuración de la tienda** > **Storefront** > **Master Data.**
+2. Haga clic en la pestaña **Aplicações.**
+3. Haga clic en el botón **Importar.**
 4. Seleccione la entidad de datos que desea insertar o actualizar registros (Aquí, usted debe insertar la entidad de datos del formulario donde están los registros que desea insertar o actualizar).
 5. Elija el archivo.
 6. Haga clic en el botón **Importar** en la esquina inferior de la pantalla.
 
-[![Importando](//images.contentful.com/alneenqid6w5/3xkB2DzbqoeIsk2Qice8sM/71d3c7d0379e03a8641180ccbe97dc77/Importando-1.gif)
+[![Importando](https://images.contentful.com/alneenqid6w5/3xkB2DzbqoeIsk2Qice8sM/71d3c7d0379e03a8641180ccbe97dc77/Importando-1.gif)

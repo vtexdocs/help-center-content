@@ -3,8 +3,8 @@ title: 'Configurar promoción con destaque / flag'
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
-updatedAt: 2023-03-31T19:22:08.848Z
-publishedAt: 2023-03-31T19:22:08.848Z
+updatedAt: 2024-07-29T18:59:29.549Z
+publishedAt: 2024-07-29T18:59:29.549Z
 firstPublishedAt: 2017-04-27T23:03:51.539Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,9 +15,13 @@ legacySlug: configurando-promocion-con-destaque-flag
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
+<div class="alert alert-warning" role="alert">
+Tutorial válido solo para tiendas CMS Portal Legado.
+</div>
+
 El destaque en la promoción es un aviso que puede ser colocado en los estantes y en las páginas de los productos, informando que el producto es elegible para una promoción. Un ejemplo muy común es una imagen debajo de la imagen del producto indicando flete gratis.
 
-![ExemploPromocaoDestaque2](//images.contentful.com/alneenqid6w5/jS31HBOW3YWsIYyUOE8o/3d0c108c84b2a7c5e6ae2d4254425e4b/ExemploPromocaoDestaque2.png)
+![ExemploPromocaoDestaque2](https://images.contentful.com/alneenqid6w5/jS31HBOW3YWsIYyUOE8o/3d0c108c84b2a7c5e6ae2d4254425e4b/ExemploPromocaoDestaque2.png)
 
 No todas las promociones son elegibles para tener destaque. Esta posibilidad está disponible para los siguientes tipos:
 - Porcentaje
@@ -64,7 +68,7 @@ Esta configuración consiste en la edición de la plantilla de la página utiliz
 
 ![Layout com check - PT](https://images.ctfassets.net/alneenqid6w5/4GmSglkpk78c4M5hDZEgZX/ab47d3105213471fe370be0b11afcfab/image.png)
 
-![Template](//images.contentful.com/alneenqid6w5/2OzzBkU2YwsgCGeICsgIcg/61aaf502c787cb4f0468ab8cee821072/Template.png)
+![Template](https://images.contentful.com/alneenqid6w5/2OzzBkU2YwsgCGeICsgIcg/61aaf502c787cb4f0468ab8cee821072/Template.png)
 
 11. Vuelva al menú lateral y haga clic en la carpeta **HTML Templates**.
 12. Haga clic en la plantilla encontrada en @producto@.

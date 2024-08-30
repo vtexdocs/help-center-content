@@ -3,8 +3,8 @@ title: 'Como funciona a Minha Conta'
 id: 2BQ3GiqhqGJTXsWVuio3Xh
 status: PUBLISHED
 createdAt: 2019-04-11T21:14:26.117Z
-updatedAt: 2023-04-24T23:39:56.581Z
-publishedAt: 2023-04-24T23:39:56.581Z
+updatedAt: 2023-12-21T14:09:42.863Z
+publishedAt: 2023-12-21T14:09:42.863Z
 firstPublishedAt: 2019-05-21T19:48:15.019Z
 contentType: tutorial
 productTeam: Identity
@@ -26,15 +26,13 @@ A página __Minha Conta__ (__My Account__) oferece autonomia aos seus clientes p
 - [Assinaturas](#assinaturas)
 - [Autenticação](#autenticacao)
 
-<div class = "alert alert-info">
-Para saber sobre a customização da funcionalidade <b>Minha conta</b>, veja a documentação para desenvolvedores <a href="https://developers.vtex.com/docs/guides/vtex-my-account">My Account - StoreV2 version</a>. É importante ressaltar que a VTEX não presta suporte a <b>Minha Conta</b> quando customizada.
-</div>
+>ℹ️ Para saber sobre a customização da funcionalidade **Minha conta**, veja a documentação para desenvolvedores [My Account - StoreV2 version](https://developers.vtex.com/docs/guides/vtex-my-account). É importante ressaltar que a VTEX não presta suporte a **Minha Conta** quando customizada.
 
 ## Dados pessoais
 
 Nesta aba, o cliente pode gerenciar seus dados pessoais cadastrados na loja. É possível [editar as informações do perfil](#editar), [definir uma nova senha](#senha) e [escolher se deseja receber emails com promoções](#newsletter).
 
-![profile PT](//images.contentful.com/alneenqid6w5/6LUXeCU09v8EOyMXntPggz/beab12f450f93773234132305ec3f5b0/profile_PT.png)
+![profile PT](https://images.contentful.com/alneenqid6w5/6LUXeCU09v8EOyMXntPggz/beab12f450f93773234132305ec3f5b0/profile_PT.png)
 
 ### Editar
 
@@ -77,9 +75,11 @@ O botão `Adicionar endereço` permite incluir endereços diferentes daqueles j�
 
 ## Pedidos
 
+>ℹ️ Em [Minha Conta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
+
 Essa aba traz a listagem completa dos pedidos realizados pelo cliente na sua loja. A lista é ordenada por data de criação e exibe detalhes como data do pedido, valor total da compra, ID do pedido, status e itens adquiridos.
 
-![orders PT](//images.contentful.com/alneenqid6w5/1VTgMxrq3WI02LZt21wuw6/6f7d63f0581419353f76bc20429cd339/orders_PT.png)
+![orders PT](https://images.contentful.com/alneenqid6w5/1VTgMxrq3WI02LZt21wuw6/6f7d63f0581419353f76bc20429cd339/orders_PT.png)
 
 A aba **Pedidos** permite que o cliente acompanhe o andamento do pedido e realize solicitações como cancelamento e alteração.Veja abaixo todas as opções disponíveis.
 
@@ -104,7 +104,7 @@ Ao clicar em um pedido da listagem, o cliente poderá visualizar todos os detalh
 
 O cliente também pode [Pedir novamente](#pedir-novamente) a partir desta página. Ao clicar em `Mais opções`, são exibidas as funcionalidades de [Alterar pedido](#alterar-pedido) (caso esteja ativada e o pedido esteja no status `Preparando Entrega`) e [Solicitar cancelamento](#solicitar-cancelamento).
 
-![order details PT](//images.contentful.com/alneenqid6w5/JQbiFPVtCl1Q8F6PaM0A0/a86b441fbf95065f7654fbcbb4e68523/order_details_PT.png)
+![order details PT](https://images.contentful.com/alneenqid6w5/JQbiFPVtCl1Q8F6PaM0A0/a86b441fbf95065f7654fbcbb4e68523/order_details_PT.png)
 
 #### Alterar pedido
 
@@ -116,7 +116,12 @@ Esse botão permite ao cliente mudar informações do pedido, como endereço, fo
 
 ## Cartões
 
-Na aba **Cartões**, o cliente tem autonomia para gerenciar os cartões de crédito relacionados à sua conta.  É possível incluir e editar os dados dos cartões de crédito já registrados no checkout. Para adicionar novos cartões, siga os passos abaixo:
+Na aba **Cartões**, o cliente tem autonomia para gerenciar os cartões de crédito relacionados à sua conta por meio das seguintes ações:
+
+- Inclusão de novos cartões
+- Remoção de cartões com data de vencimento expirada
+
+Para adicionar novos cartões, siga os passos abaixo:
 
 1. Abra a **Minha Conta** na loja.
 2. Clique na aba **Cartões**.
@@ -126,7 +131,7 @@ Na aba **Cartões**, o cliente tem autonomia para gerenciar os cartões de créd
 6. Resolva o desafio do reCaptcha.
 7. Ocorrerá um processo de validação do cartão automaticamente. Se não houver nenhum problema, você será redirecionado para a lista de cartões e o novo cartão irá aparecer na lista.
 
-![Card ReCaptcha](//images.contentful.com/alneenqid6w5/2xGRuG3f5S56POV684Q2Y3/01beb926fb436c05a10b74f7678b954c/Card_ReCaptcha_EN.gif)
+![Card ReCaptcha](https://images.contentful.com/alneenqid6w5/2xGRuG3f5S56POV684Q2Y3/01beb926fb436c05a10b74f7678b954c/Card_ReCaptcha_EN.gif)
 
 Contudo, existem limitações que precisam ser consideradas pelas lojas que utilizam a autenticação [3DS](https://help.vtex.com/pt/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) (V1 ou V2) em suas adquirentes:
 
@@ -168,9 +173,7 @@ Para mudar a senha atual:
 4. Clique no botão `SALVAR SENHA` para concluir a mudança de senha.  
 ![My Authentication change password PT](https://images.ctfassets.net/alneenqid6w5/7qyiWDAjdSBEjppq6Ti94c/94f7323e8d97d28a4d5dac042c5c620b/My_Authentication_change_password_PT.png)
 
-<div class="alert alert-info">
-Caso você tenha esquecido a senha, não é possível recuperá-la pelo componente de gerenciamento de senha. Para isso você deve sair da sessão atual, fazer uma tentativa de login usando email e senha, e clicar no link <strong>Esqueci minha senha</strong>.
-</div>
+>ℹ️ Caso você tenha esquecido a senha, não é possível recuperá-la pelo componente de gerenciamento de senha. Para isso você deve sair da sessão atual, fazer uma tentativa de login usando email e senha, e clicar no link **Esqueci minha senha**.
 
 ### Gerenciamento de sessões
 

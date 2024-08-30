@@ -1,5 +1,5 @@
 ---
-title: '"Invalid header signature" error when trying to import freight spreadsheet'
+title: "'Invalid header signature' error when trying to import freight spreadsheet"
 id: qruKcwf7zwwOcGWA6mkgK
 status: PUBLISHED
 createdAt: 2018-10-02T16:01:21.654Z
@@ -20,7 +20,5 @@ This error occurs when the freight spreadsheet is imported with the __.xlsx__ ex
 
 To solve the problem, it is necessary to adjust the freight spreadsheet to the __.xls__ extension and [import the freight spreadsheet](http://help.vtex.com/en/tutorial/importing-the-shipping-spreadsheet) again.
 
-<div class="alert alert-warning">
-In case the spreadsheet is over 10 MB, you’ll need to compact it in .zip format. The .zip archive should have less than 10 MB. Otherwise, the upload won’t work.
-</div>
+>⚠️ In case the spreadsheet is over 10 MB, you’ll need to compact it in .zip format. The .zip archive should have less than 10 MB. Otherwise, the upload won’t work.
 

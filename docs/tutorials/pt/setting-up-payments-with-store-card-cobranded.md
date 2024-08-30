@@ -3,8 +3,8 @@ title: 'Configurar pagamentos com Cartões de Loja (co-branded)'
 id: jrkLK41IjuquUmyKUi86Q
 status: PUBLISHED
 createdAt: 2018-06-25T15:48:13.031Z
-updatedAt: 2023-03-22T19:19:30.029Z
-publishedAt: 2023-03-22T19:19:30.029Z
+updatedAt: 2023-09-22T21:25:38.666Z
+publishedAt: 2023-09-22T21:25:38.666Z
 firstPublishedAt: 2018-06-27T20:17:05.882Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -26,17 +26,20 @@ A primeira estapa de configuração será a de criação do pagamento customizad
 4. Em __Nome__, preencha o nome do cartão.
 5. Em __Descrição__, escreva o texto que vai dar mais detalhes sobre a condição de pagamento.
 6. Em __Bandeira do cartão__, escolha a bandeira à qual o cartão da sua loja está vinculado. Atualmente, as bandeiras possíveis são: American Express, Cabal, Diners, Elo, Mastercard e Visa.
-7. Em __Faixas de Bin{min}-{max},{min}-{max},{bin1},{bin2} (opcional)__, informe os códigos BIN dos cartões para que eles sejam validados pelo sistema. Você pode inserir uma faixa de BINs (inserindo o primeiro e o último código da sequência, separados por hífen) ou várias (separando cada faixa por vírgula e sem espaços). Se preferir, você pode usar o validador do cartão co-branded, preenchendo os valores `100000-999999`.
-8. No campo __Código de Pagamento em Adquirente (opcional)__, indique o código para ser enviado e processado pelo adquirente contratado por você.
-9. Em __Ativar split de pagamento__, caso opte por utilizar essa opção, quando a venda envolver lojas de marketplace, os valores serão divididos entre os sellers e o marketplace.
-10. Clique em __Salvar__.
+7. Em __Intervalos de BIN (opcional)__, você pode informar uma faixa de BINs (inserindo o primeiro e o último código da sequência, separados por hífen) ou várias (separando cada faixa por vírgula e sem espaços).
+
+>⚠️ Quando o cliente inserir um número bin fora da faixa especificada neste campo, a seguinte mensagem será exibida "Confira o número do seu cartão. Não conseguimos confirmar se o número digitado está correto". Caso não haja erro no número digitado, ele poderá clicar em "SIM, O NÚMERO ESTÁ CORRETO" para continuar a finalização do pedido.
+
+<blockquote><ui>8. No campo <b>Código de Pagamento em Adquirente (opcional)</b>, indique o código para ser enviado e processado pelo adquirente contratado por você.</ui>
+
+<blockquote><ui>9. Em <b>Ativar divisão de pagamento</b>, caso opte por utilizar essa opção, quando a venda envolver lojas de marketplace, os valores serão divididos entre os sellers e o marketplace.</ui>
+
+<ui>10. Clique em <b>Salvar</b>.</ui>
 
 ## Configurar condição de pagamento
 Após configurar o cartão, será necessária a configuração da condição de pagamento.
 
-<div class="alert alert-warning">
-  Caso o conector a ser escolhido (no <b>Passo 8.</b>) ainda não estiver cadastrado em sua loja, será exibida a mensagem “(Configurar)” após o nome do conector. Nesta situação, escolha outro conector disponível ou realize o seu cadastro. Para saber mais, acesse <a href="https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#">Cadastrar afiliações de gateway</a>.
-</div>
+>⚠️ Caso o conector a ser escolhido (no **Passo 8.**) ainda não estiver cadastrado em sua loja, será exibida a mensagem “(Configurar)” após o nome do conector. Nesta situação, escolha outro conector disponível ou realize o seu cadastro. Para saber mais, acesse [Cadastrar afiliações de gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão __“+”__.

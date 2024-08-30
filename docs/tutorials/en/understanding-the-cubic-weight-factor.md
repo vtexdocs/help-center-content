@@ -3,8 +3,8 @@ title: 'Calculating the Cubic Weight Factor'
 id: tutorials_128
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:52.970Z
-updatedAt: 2022-11-08T19:15:57.550Z
-publishedAt: 2022-11-08T19:15:57.550Z
+updatedAt: 2023-12-19T17:17:26.713Z
+publishedAt: 2023-12-19T17:17:26.713Z
 firstPublishedAt: 2017-04-27T23:00:44.419Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -23,8 +23,8 @@ Cubage is the relationship between the volume and weight of the goods, which is 
 
 The function of cubage in transport is to avoid filling the entire physical space of the vehicle without using all its capacity in terms of weight or vice versa. Thus, the concept is linked to the ability to complete the loading of a vehicle using its entire volume available for load and weight or tonnage capacity.
 
-- __Real weight:__ is the one indicated on the scale.
-- __Cubed Weight:__ is the calculation that determines the actual space occupied by the package on the vehicle.
+- __Minimum weight:__ is the one indicated on the scale.
+- __Cubic Weight:__ is the calculation that determines the actual space occupied by the package on the vehicle.
 
 ## Cubic Factor
 
@@ -32,33 +32,31 @@ Is the resulting coefficient of the relationship between weight and volume that 
 
 ## Calculation
 
-The calculation of the cubed weight is performed by multiplying Length x Width x Height, and dividing the result by the cubic factor provided by the carrier.
+The calculation of the cubic weight is performed by multiplying Length x Width x Height, and dividing the result by the cubic factor provided by the carrier.
+
+>⚠️ When calculating the cubic weight factor, VTEX platform does not consider measurement units, and the numbers generated are absolute. Therefore, the measurement units you consider for the calculation will be those of the final result. Notice that the your measurement unit must be the same one used by the carrier.
 
 Check out the following example:
 
-![](//images.contentful.com/alneenqid6w5/3KZDUQlPBYEY8mSwqQgW6k/15cef41598f4fc1359f482cddbcca756/pesocubado.jpg)
+![example_cubic_weight_en](https://images.contentful.com/alneenqid6w5/3KZDUQlPBYEY8mSwqQgW6k/15cef41598f4fc1359f482cddbcca756/pesocubado.jpg)
 
 - __Package size:__ `50cm x 15cm x 60cm`
-- __Actual package weight:__ `9kg`
+- __Minimum weight:__ `9kg`
 - __Cubic factor:__ `6.000`
-- __Cubed Weight__: `50cm * 60cm * 15cm / 6.000= 7,5kg`
+- __Cubic weight__: `50cm * 60cm * 15cm / 6.000= 7,5kg`
 
-By comparing the real weight to the cubed weight of the package, the carrier will charge for the actual weight, because it is larger than the cubed weight.
+By comparing the minimum weight to the cubic weight of the package, the carrier will charge for the minimum weight, because it is larger than the cubic weight.
 
 However, the calculation above is merely illustrative. For the carrier, the value registered as cubic factor will be multiplied to the result of `Length x Width x Height`. Which means the calculation is `Length x Width x Height x Cubic Factor`.
 
-That is, if the value offered by your carrier is `6,000`, you must perform the division by 1000. Example: `1.000 / 6.000 = 0,167`.
+That is, if the value offered by your carrier is `6,000`, you must perform the division by 1000. Example: `1000g/6000 cm³ = 0,167`.
 
-When registering a carrier, this is the value you must fill out the __Cubic Weight Factor__ field with:
+This is the value you must fill out the **Cubic weight factor** field in your [shipping policy](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
 
-![Cubic Weight](//images.contentful.com/alneenqid6w5/1hQDHg79Z8QaGCiIc0wekq/1d1eef7297b59f508ce508e0b926961f/Cubic_Weight.png)
+![cubic_weight_EN](https://images.ctfassets.net/alneenqid6w5/44WaAckgByWYgyYGXtEoOj/dc63a437a83448eaafd90e0fb545879e/cubic_weight_EN.png)
 
 Therefore, the final calculation will be:
 
 - __Package size:__ `50cm x 60cm x 15cm`
-- __Actual package weight:__ `9kg`
-- __Cubed Weight:__ `50cm x 60cm x 15cm x 0,167= 7,515kg`
-
-<div class="alert alert-info">
-  <p>Check with your carrier if the unit of measure is in grams, which is the unit used by VTEX.</p>
-</div>
+- __Minimum weight:__ `9kg`
+- __Cubic weight:__ `50cm x 60cm x 15cm x 0,167= 7,515kg`

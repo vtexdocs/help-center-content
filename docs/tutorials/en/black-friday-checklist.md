@@ -15,4 +15,4 @@ legacySlug: checklist-black-friday
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---
 
-<div class="alert alert-warning">Content under translation</div>
+>⚠️ Content under translation

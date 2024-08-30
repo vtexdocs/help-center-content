@@ -3,8 +3,8 @@ title: 'Create a cluster of customers'
 id: frequentlyAskedQuestions_1724
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:58.065Z
-updatedAt: 2022-10-17T21:24:38.123Z
-publishedAt: 2022-10-17T21:24:38.123Z
+updatedAt: 2024-05-24T19:15:04.156Z
+publishedAt: 2024-05-24T19:15:04.156Z
 firstPublishedAt: 2019-01-24T22:05:41.666Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -17,21 +17,16 @@ subcategory: 42hDtnYXHw5ExG6l19RP1l
 
 Creating a cluster of customers is the same as segmenting them. These two approaches give the storeowner a better idea of the customer’s profile, and enable you to be more proactive in dealing with this user.
 
-<div class="alert alert-warning">
-This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use.
- <ul>
-<li>
-<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-Master Data version characteristics
- </a>
-</li>
-<li>
-<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-Master Data v2
-</a>
-</li>
-</ul>
-</div>
+>⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use.
+>
+> *<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
+> Master Data version characteristics
+>  </a>
+>
+> *<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
+> Master Data v2
+> </a>
+> 
 
 These details, once obtained, are very useful for the company’s marketing and advertising. Each store can define its own clusters and the rules for a customer to be included in each of them.
 
@@ -44,6 +39,6 @@ So technically, a cluster in CRM is nothing more than a field.
 
 To populate this field you can use an [import worksheet](https://help.vtex.com/en/tutorial/importing-data-into-master-data--tutorials_1135 "How to import data into Master Data") or an API, or you can do it manually using the Customer form in CRM. Everything depends on the store’s strategy for clusterizing its customers.
 
-## Go further
+## Learn more
 
-[Learn how to create a promotion for a cluster](/en/tutorial/creating-promotions-for-a-cluster-of-customers)
+- [Learn how to create a promotion for a cluster](/en/tutorial/creating-promotions-for-a-cluster-of-customers)

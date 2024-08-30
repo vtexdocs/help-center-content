@@ -3,8 +3,8 @@ title: 'Como funciona a indexação'
 id: tutorials_256
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:43.688Z
-updatedAt: 2023-03-29T19:50:49.722Z
-publishedAt: 2023-03-29T19:50:49.722Z
+updatedAt: 2024-03-04T16:39:16.578Z
+publishedAt: 2024-03-04T16:39:16.578Z
 firstPublishedAt: 2017-04-27T23:03:11.322Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -14,6 +14,10 @@ locale: pt
 legacySlug: entendendo-o-funcionamento-da-indexacao
 subcategory: pwxWmUu7T222QyuGogs68
 ---
+
+>⚠️ Tutorial válido apenas para lojas que utilizam a busca do [CMS Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
+>
+> Se a sua loja utiliza o [Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), consulte a página [Histórico da Indexação](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH) para acompanhar o processo de indexação.
 
 A indexação é um processo que prepara os dados gerais do SKU, tais como dados de catálogo, de preço e de estoque e atualiza as informações para servir de base para pesquisas e montagens das prateleiras do site.
 
@@ -27,7 +31,7 @@ Toda vez que há alguma alteração como as listadas abaixo em um produto, a rei
 
 Uma vez que o produto esteja marcado para reindexar, ele fica com o status _indexação pendente_ na listagem de produtos do Admin VTEX. O indexador coloca esses produtos em uma fila, com um tempo de espera de 2 minutos, para que sejam processados. Após os 2 minutos, o produto fica disponível para o consumo da indexação. Nesse processo, todos os módulos da VTEX são consultados, atualizando preço e disponibilidade para cada política comercial. O tempo médio até a finalização desse processo é de 4 minutos.
 
-![](//images.contentful.com/alneenqid6w5/YdTfy83vaMCSCoUwUGsay/b5636eeb2cbf51ed0a5211c28f921ad5/Diagrama_sem_t_tulo__1_.png)
+![](https://images.contentful.com/alneenqid6w5/YdTfy83vaMCSCoUwUGsay/b5636eeb2cbf51ed0a5211c28f921ad5/Diagrama_sem_t_tulo__1_.png)
 
 ## Relatório de Indexação
 
@@ -42,7 +46,7 @@ Nele, são divididos os produtos em cada passo do processo de indexação e em p
 - **Total Indexado**, **Ainda não enfileirado** e **Total na Fila**: dizem respeito aos estágios do produto dentro do processo &#8211; Ainda não enfileirado são os produtos que foram alterados em menos de 2 minutos e Total na fila são aqueles que já entraram no processo de indexação, após esses 2 minutos.
 - **Na fila recentemente**, **Na fila entre 1 e 4 horas**, **Na fila de 4 a 8 horas** e **Na fila há mais de 8 horas**: são os períodos em que os produtos estão no processo de indexação.
 
-![RelatorioIndexação](//images.contentful.com/alneenqid6w5/6Y212qGxIAU4KWuWw8Uou2/306e536e7b5196abf04513915550a9f6/RelatorioIndexa_C3_A7_C3_A3o.png)
+![RelatorioIndexação](https://images.contentful.com/alneenqid6w5/6Y212qGxIAU4KWuWw8Uou2/306e536e7b5196abf04513915550a9f6/RelatorioIndexa_C3_A7_C3_A3o.png)
 
 O relatório de indexação exibe o tempo que o último item levou para ser reindexado no lado superior direito do relatório, conforme imagem acima. 
 

@@ -3,8 +3,8 @@ title: '¿Qué es VTEX Sales App?'
 id: 7fnnVlG3Kv1Tay9iagc5yf
 status: PUBLISHED
 createdAt: 2020-06-28T13:07:24.773Z
-updatedAt: 2023-05-31T15:45:55.825Z
-publishedAt: 2023-05-31T15:45:55.825Z
+updatedAt: 2024-05-13T18:03:19.146Z
+publishedAt: 2024-05-13T18:03:19.146Z
 firstPublishedAt: 2020-06-28T13:12:31.221Z
 contentType: trackArticle
 productTeam: Shopping
@@ -24,19 +24,12 @@ Con esto, usted será capaz de implementar una estrategia de pasillo infinito, q
 
 - Evitar la falta de stock y nunca perder una venta.
 - Tener visibilidad en tiempo real de su stock.
-- Beneficiarse de una búsqueda inteligente y consulta de ítems.
+- Beneficiarse de una búsqueda inteligente y consulta de ítems, cuando se instala la Búsqueda [Inteligente Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)en el sitio web.
 - Crear transacciones de carrito mixto.
-
-En cuanto al fulfillment de su operación, VTEX Sales App lo ayudará a:
-
-- Atraer mayor tráfico de clientes y aumentar sus ventas.
-- Tener un flujo eficiente en la preparación de pedidos.
-- Garantizar que sus productos estén siempre disponibles, con opciones de envío más inteligentes.
-- Reducir el tiempo de fulfillment y el costo con Smart Routing.
 
 Por último, con VTEX Sales App, el proceso de compra se hace más rápido, tanto al añadir productos al carrito como durante el pago y la confirmación.
 
-El proceso de checkout ya no necesita hacerse en un mostrador fijo. Se puede comenzar y terminar la venta en cualquier lugar de la tienda, lo que reduce las colas y hace que la experiencia del cliente sea más ágil.
+El proceso de pago ya no necesita realizarse desde un lugar físico y fijo. Se puede comenzar y terminar la venta en cualquier lugar de la tienda, lo que reduce las colas y hace que la experiencia del cliente sea más ágil.
 
 Sus vendedores tendrán una visión de 360º del consumidor y podrán crear experiencias de compra memorables y sin fricciones.
 

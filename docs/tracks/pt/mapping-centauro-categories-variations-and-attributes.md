@@ -26,9 +26,7 @@ O objetivo da planilha de mapeamento é indicar para a integração a correspond
 
 O mapeamento só precisa ser feito uma vez para cada categoria. Novos produtos criados dentro de categorias previamente mapeadas serão integrados corretamente, com suas respectivas.
 
-<div class="alert alert-info">
-A planilha de mapeamento é case sensitive, ou seja, é sensível para o uso de letras maiúsculas e minúsculas.
-</div>
+>ℹ️ A planilha de mapeamento é case sensitive, ou seja, é sensível para o uso de letras maiúsculas e minúsculas.
 
 ## Categorização
 

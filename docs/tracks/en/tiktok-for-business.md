@@ -14,9 +14,7 @@ trackId: 1r0yJSO11nrer1YVu3WTFd
 trackSlugEN: tiktok-integration
 ---
 
-<div class="alert alert-danger">
-  <p>The integration with TikTok is available only for stores in <strong>Brazil</strong>.</p>
-</div>
+>❗ The integration with TikTok is available only for stores in **Brazil**.
 
 [TikTok](https://www.tiktok.com/) is an entertainment platform for creating and sharing short videos that offers marketing tools for businesses. One of the key tools available in this context is TikTok Ads Manager, which contains advanced features for launching campaigns and managing advertising on TikTok.
 

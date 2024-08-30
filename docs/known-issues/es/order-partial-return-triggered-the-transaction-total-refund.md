@@ -1,10 +1,10 @@
 ---
 title: 'La devolución parcial del pedido provocó el reembolso total de la transacción'
 id: 5cPpyvV4t6swxDPrEmuzrn
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-04-04T21:20:39.334Z
-updatedAt: 2022-11-25T22:03:29.435Z
-publishedAt: 2022-11-25T22:03:29.435Z
+updatedAt: 2024-05-28T19:09:23.158Z
+publishedAt: 
 firstPublishedAt: 2022-04-04T21:20:40.180Z
 contentType: knownIssue
 productTeam: Order Management
@@ -18,9 +18,7 @@ internalReference: 377044
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

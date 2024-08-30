@@ -31,9 +31,7 @@ Follow the steps below to add a price table in your store:
 
 ## API REST
 
-<div class="alert alert-warning">
-Authentications for Prices module's API REST calls should be done using AppKey and AppToken. For more info, read our article on <a href="https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication">how to generate an AppKey and AppToken to authenticate integrations</a>
-</div>
+>⚠️ Authentications for Prices module's API REST calls should be done using AppKey and AppToken. For more info, read our article on [how to generate an AppKey and AppToken to authenticate integrations](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication)
 
 To add a **price table**, you need to send a __PUT__ to the following endpoint:
 

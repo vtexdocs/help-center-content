@@ -3,8 +3,8 @@ title: 'Error en el mensaje de error de la compra'
 id: 7jCEQoDRPvNwYCJmAt78im
 status: PUBLISHED
 createdAt: 2022-03-25T14:46:49.548Z
-updatedAt: 2022-11-25T22:07:18.470Z
-publishedAt: 2022-11-25T22:07:18.470Z
+updatedAt: 2024-02-16T20:27:24.748Z
+publishedAt: 2024-02-16T20:27:24.748Z
 firstPublishedAt: 2022-03-25T15:30:16.292Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: error-en-el-mensaje-de-error-de-la-compra
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 409895
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se produce un error en el flujo de pago de afiliación de MercadoPagov2 en la página de pago, los detalles del mensaje se muestran sin formato para acentos y caracteres especiales.

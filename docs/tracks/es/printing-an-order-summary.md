@@ -3,8 +3,8 @@ title: 'Impresión del resumen del pedido'
 id: 5UeqJA3sHp5goJacvHwPoS
 status: PUBLISHED
 createdAt: 2021-08-05T14:40:53.752Z
-updatedAt: 2023-05-31T15:23:48.750Z
-publishedAt: 2023-05-31T15:23:48.750Z
+updatedAt: 2023-07-26T19:01:33.402Z
+publishedAt: 2023-07-26T19:01:33.402Z
 firstPublishedAt: 2021-08-05T14:47:18.680Z
 contentType: trackArticle
 productTeam: Shopping
@@ -16,7 +16,7 @@ trackSlugES: instore-utilizando-la-aplicación
 
 Al finalizar un pedido utilizando VTEX Sales App, es posible imprimir un resumen del mismo si esta personalización está habilitada y si hay un dispositivo de impresión correctamente configurado.
 
-Para ello, el vendedor puede hacer clic en el botón `Imprimir pedido` en la pantalla del pedido finalizado, como se ilustra a continuación. Otra opción es configurar inStore para que imprima el resumen del pedido automáticamente en cuanto se finalice el pedido.
+Para ello, el vendedor puede hacer clic en el botón `Imprimir pedido` en la pantalla del pedido finalizado, como se ilustra a continuación. Otra opción es configurar VTEX Sales App para que imprima el resumen del pedido automáticamente en cuanto se finalice el pedido.
 
 ![15. Configurar impressão de resumo do pedido - 1 - ES](https://images.ctfassets.net/alneenqid6w5/I5tu0upqIMUVTCxTHFfmL/5a3aabdd6ad7b66958a744955fbfa979/print-order-es.png)
 
@@ -32,15 +32,13 @@ A continuación, debes configurar una impresora conectada a VTEX Sales App para 
 
 ### Requisitos previos
 
-Para emparejar inStore con una impresora, deben cumplirse los siguientes requisitos previos:
+Para emparejar VTEX Sales App con una impresora, deben cumplirse los siguientes requisitos previos:
 
 * Utilizar un computador con sistema operativo Windows 7 o superior.
 * Si no tienes VTEX Sales App en tu computador, instala la aplicación siguiendo nuestra guía de [Instalación](https://help.vtex.com/es/tracks/instore-usando-el-app--4BYzQIwyOHvnmnCYQgLzdr/2rPSJ8519UCCZo5uEBkqxh).
 * Obtener un par de credenciales (AppKey y AppToken) con los permisos de acceso correspondientes. Lee el artículo [Claves de aplicación](https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) para obtener más información.
 
-<div class="alert alert-info">
-<p>Recomendamos que el perfil de acceso relacionado con estas credenciales sea el <strong>VTEX Sales App Sales Person</strong>. Sin embargo, también se puede utilizar un perfil con acceso a otros módulos del Admin, como <strong>Admin Super</strong>.</p>
-</div>
+>ℹ️ Recomendamos que el perfil de acceso relacionado con estas credenciales sea el **VTEX Sales App Sales Person**. Sin embargo, también se puede utilizar un perfil con acceso a otros módulos del Admin, como **Admin Super**.
 
 ### Paso a paso
 

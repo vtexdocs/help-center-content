@@ -3,12 +3,12 @@ title: 'Configuring a VTEX marketplace'
 id: 7splyp5MqIyt2Iyz5jsNzb
 status: PUBLISHED
 createdAt: 2022-01-26T21:27:16.808Z
-updatedAt: 2023-04-17T22:04:41.917Z
-publishedAt: 2023-04-17T22:04:41.917Z
+updatedAt: 2024-05-23T15:18:17.648Z
+publishedAt: 2024-05-23T15:18:17.648Z
 firstPublishedAt: 2022-01-26T23:06:58.565Z
 contentType: tutorial
 productTeam: Channels
-author: 0QBQws7rk0t5Mnu8fgfUv
+author: 2p7evLfTcDrhc5qtrzbLWD
 slug: configuring-vtex-marketplace
 locale: en
 legacySlug: setting-up-vtex-marketplace
@@ -73,7 +73,7 @@ You can define whether the seller’s store will be visible in your marketplace 
 - **Identifiable seller:** the seller is visible on your marketplace storefront and the consumer can choose them from the buy box during the shopping experience.  
 - **Unidentifiable seller (white label):** [white label sellers](https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label) are franchise accounts on VTEX. They are not displayed in the storefront during the shopping experience and are automatically selected by the checkout system to fulfill the order.  
 
-If you would like to add a white label seller, this model must be covered by your contract with VTEX. If you need to make changes to your contract, please contact our Support. Every franchise account is created as a white label seller. It is not possible to change the seller type after its creation. Learn more in [Adding sellers](https://help.vtex.com/en/tutorial/adding-a-seller--tutorials_392). 
+If you would like to add a white label seller, this model must be covered by your contract with VTEX. Once the VTEX business representative assigned to your marketplace has adjusted the contract, submit a request to add a franchise account by following the instructions in [Requesting the creation of a franchise account](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl#request-the-creation-of-a-franchise-account). Every franchise account is created as a white label seller. It is not possible to change the seller type after its creation. Learn more in [Adding sellers](https://help.vtex.com/en/tutorial/adding-a-seller--tutorials_392). 
 
 ### Location
 
@@ -83,9 +83,7 @@ A marketplace can obtain the user’s location information in the storefront and
 
 Even when VTEX Session does not have access to the consumer’s location, you still need to target an assortment of seller products in the shopping experience. In this scenario, the seller selection algorithm indicates [comprehensive sellers](https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI) that are able to deliver orders in all regions served by your marketplace.
 
-<div class="alert alert-info">
-The Region feature is only adapted for stores using VTEX IO, and it is not valid for the Legacy CMS Portal. 
-</div>
+>ℹ️ The Region feature is only adapted for stores using VTEX IO, and it is not valid for the Legacy CMS Portal.
 
 ## Configuring the storefront
 

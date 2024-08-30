@@ -1,16 +1,16 @@
 ---
-title: 'Konduto AF não pode completar um pedido quando falta a contaId.'
+title: 'O Konduto AF não pode concluir uma solicitação quando o accountId está ausente.'
 id: CGHZoCfr01ATsbtiLU9ym
 status: PUBLISHED
 createdAt: 2022-03-03T22:09:57.638Z
-updatedAt: 2022-11-25T22:05:52.845Z
-publishedAt: 2022-11-25T22:05:52.845Z
+updatedAt: 2023-06-20T17:54:26.840Z
+publishedAt: 2023-06-20T17:54:26.840Z
 firstPublishedAt: 2022-03-03T22:09:58.094Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: konduto-af-nao-pode-completar-um-pedido-quando-falta-a-contaid
+slug: o-konduto-af-nao-pode-concluir-uma-solicitacao-quando-o-accountid-esta-ausente
 locale: pt
 kiStatus: Backlog
 internalReference: 496298
@@ -18,27 +18,28 @@ internalReference: 496298
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
+Há um problema para aprovar algumas transações relacionadas ao sistema antifraude da Konduto. Esse problema ocorre quando o sistema não consegue fazer a solicitação necessária devido à ausência do accountId, que é necessário para recuperar as informações de pagamento do banco de dados da conta. Você pode verificar isso examinando a rota "/payment", onde encontrará o nó "usedAccountId" com um valor de "False" nesses casos.
 
-Algumas transações não podem ser concluídas porque a Konduto antifraude não faz o pedido apropriado porque falta a conta utilizada para obter informações de pagamento na tabela de banco de dados da conta. Isto pode ser validado observando a rota de pagamento onde o nó "useAccountId" é falso neste caso.
+**{**"name": "usedAccountId", "value": "False "**}**
 
-**{**"nome": "usedAccountId", "valor": "Falso "**}****
-
-
+Além disso, esse problema é comumente observado quando um usuário remove seu próprio cartão da página MyAccount imediatamente após fazer um pedido.
 
 ## Simulação
 
 
-Este erro não pode ser reproduzido neste momento, ele ocorre de forma intermitente.
+Siga a etapa mencionada anteriormente, que envolve a exclusão de um cartão imediatamente após a realização de um pedido utilizando o Konduto Antifraud.
 
 
 
 ## Workaround
 
 
-Não há nenhuma solução disponível.
+N/A
+
+
+
+
 

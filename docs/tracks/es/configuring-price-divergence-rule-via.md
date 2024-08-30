@@ -3,8 +3,8 @@ title: 'Configurar regla de Divergencia de precios'
 id: 6MeJhODLMCnYwUCe18QjzP
 status: PUBLISHED
 createdAt: 2022-01-05T16:01:03.231Z
-updatedAt: 2022-01-05T16:04:18.518Z
-publishedAt: 2022-01-05T16:04:18.518Z
+updatedAt: 2023-11-30T21:12:36.109Z
+publishedAt: 2023-11-30T21:12:36.109Z
 firstPublishedAt: 2022-01-05T16:04:18.518Z
 contentType: trackArticle
 productTeam: Channels
@@ -20,8 +20,6 @@ En el Admin VTEX, en **PEDIDOS > Gestión de pedidos > Autorización de pedidos*
 
 La regla de Divergencia de precios se compone de una o varias reglas de autorización de pedidos, cada una de las cuales corresponde a un intervalo porcentual del precio del pedido. Las reglas de autorización se pueden configurar para negar automáticamente, autorizar automáticamente o exigir la autorización manual del pedido.
 
-<div class="alert alert-warning">
-Después de que hayas configurado la regla de Divergencia de valores, esta se aplicará a todos los marketplaces en los que actúes como seller. Estos pueden ser marketplaces VTEX, marketplaces externos, <a href= "https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-certificado-partner">conectores certificados (partners)</a>, o otros <a href= "https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex">conectores nativos</a> además de Via.
-</div> 
+>⚠️ Después de que hayas configurado la regla de Divergencia de valores, esta se aplicará a todos los marketplaces en los que actúes como seller. Estos pueden ser marketplaces VTEX, marketplaces externos, <a href= "https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-certificado-partner">conectores certificados (partners)</a>, o otros <a href= "https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex">conectores nativos</a> además de Via. 
 
 Se recomienda configurar la regla de Divergencia de precios antes de avanzar al siguiente paso de configuración de la integración con Via. Si no se cumple esta recomendación la integración se realiza, pero los pedidos con divergencia de valores se retienen hasta que se crie la regla de Divergencia de precios. Puedes seguirlos en tu Admin VTEX, en **MARKETPLACE > Integraciones > Pedidos**.

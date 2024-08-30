@@ -24,8 +24,5 @@ Para buscar sus pedidos antiguos, siga los pasos a continuación:
 6. Escoja una fecha/hora inicial y una fecha/hora final. 
 7. Haga clic en el botón __Confirme__.
 
-<div class="alert alert-info">
-
-Recuerde que la búsqueda por periodo es <strong>limitada a un intervalo de 6 meses</strong>. Así, si usted desea, por ejemplo, buscar pedidos del año de 2017, el intervalo de tiempo escogido en el <strong>paso 6</strong> debe ser un periodo de 6 meses. Ejemplo: Fecha Inicial = 01/01/2017 y Fecha Final = 30/06/2017.
-</div>
+>ℹ️ Recuerde que la búsqueda por periodo es **limitada a un intervalo de 6 meses**. Así, si usted desea, por ejemplo, buscar pedidos del año de 2017, el intervalo de tiempo escogido en el **paso 6** debe ser un periodo de 6 meses. Ejemplo: Fecha Inicial = 01/01/2017 y Fecha Final = 30/06/2017.
 

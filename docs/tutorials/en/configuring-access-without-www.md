@@ -31,9 +31,7 @@ Your main domain needs to contain a subdomain, that may or may not be `www`. See
 - `store.mybrand.com` - Valid main domain.
 - `mystore.com` - Not a valid main domain because it does not have a subdomain, but can be redirected.
 
-<div class = "alert alert-info">
-  Learn how to <a href="https://help.vtex.com/pt/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450">configure your store's main domain</a>.
-</div>
+>ℹ️ Learn how to [configure your store's main domain](https://help.vtex.com/pt/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
 
 This redirection can be done in many ways. Although being quite technical and dependent on other factors, the most popular one is using `htaccess` on the server.
 
@@ -41,9 +39,7 @@ You can also use DNS redirection, as provided by several services, including dom
 
 To perform a DNS redirection in a simple manner, there are instructions below on how to use the [redirect.center](http://redirect.center/) service.
 
-<div class="alert alert-warning">
-Note that Direcionar is not a VTEX service and does not work with HTTPS. There are other similar services, but VTEX does not recommend any specific one. VTEX is not responsible for problems caused by external redirect services.
-</div>
+>⚠️ Note that Direcionar is not a VTEX service and does not work with HTTPS. There are other similar services, but VTEX does not recommend any specific one. VTEX is not responsible for problems caused by external redirect services.
 
 See this other article to learn how to [configure redirection from other addresses](https://help.vtex.com/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ).
 

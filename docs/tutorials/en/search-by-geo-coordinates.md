@@ -15,8 +15,7 @@ legacySlug: search-by-geo-coordinates
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---
 
-<div class="alert alert-warning">
-<strong>Attention:</strong> This is a BETA version.</div>
+>⚠️ **Attention:** This is a BETA version.
 
 ### Setting up JSON Schema
 

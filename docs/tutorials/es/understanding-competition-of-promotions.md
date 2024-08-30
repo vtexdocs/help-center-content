@@ -84,8 +84,7 @@ Por lo tanto, la secuencia de aplicación es:
 
 ![promocao3 ES](https://images.ctfassets.net/alneenqid6w5/1CAcjiuVQECwqcoA288Aey/251351f394db394a008ccdd699e47c6f/promocao3_ES.png)
 
-<div class="alert alert-warning">
-Los pedidos de origen <a href="https://help.vtex.com/es/tutorial/configurar-promocao-para-marketplace--tutorials_406">Marketplace</a> ((proporcionados por la tienda) y Fulfillment (entregados por la tienda) no permiten la acumulación de promociones, ya que el uso de las mismas en marketplaces VTEX o externos se limita a algunos tipos específicos.</div> 
+>⚠️ Los pedidos de origen [Marketplace](https://help.vtex.com/es/tutorial/configurar-promocao-para-marketplace--tutorials_406) ((proporcionados por la tienda) y Fulfillment (entregados por la tienda) no permiten la acumulación de promociones, ya que el uso de las mismas en marketplaces VTEX o externos se limita a algunos tipos específicos. 
 
 ## Estrategia de competencia entre promociones
 
@@ -100,8 +99,7 @@ Consulta a continuación las dos estrategias de competencia de promociones:
 - [Competencia por escenario](#competencia-por-escenario)
 - [Competencia por ítem](#competencia-por-item)
 
-<div class="alert alert-info">
-De manera predeterminada, todas las cuentas siguen la estrategia de competencia por escenario. Si el modelo de competencia por ítem se adapta mejor a las necesidades de tu negocio, <a href="https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM">abre un ticket</a> con nuestro equipo de soporte y solicita el cambio.</div>
+>ℹ️ De manera predeterminada, todas las cuentas siguen la estrategia de competencia por escenario. Si el modelo de competencia por ítem se adapta mejor a las necesidades de tu negocio, [abre un ticket](https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) con nuestro equipo de soporte y solicita el cambio.
 
 ### Competencia por escenario
 

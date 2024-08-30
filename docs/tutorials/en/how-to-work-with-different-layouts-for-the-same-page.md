@@ -50,9 +50,7 @@ It happens that the offered conditions are not present on any page:
 
 Hence, it is not possible to asign conditions to specific product or to different layouts through a collection. You would need to register these together with the product condition.
 
-<div class="alert alert-info">
-According to the chosen conditions, an order of priority is established for the applicability of the template. The order first follows, if available, product template, category and, finally, brand. Thus, a template conditioned for a given product layout overlaps the template conditioned for the category in which this product is contained and so on.
-</div>
+>ℹ️ According to the chosen conditions, an order of priority is established for the applicability of the template. The order first follows, if available, product template, category and, finally, brand. Thus, a template conditioned for a given product layout overlaps the template conditioned for the category in which this product is contained and so on.
 
 In case of doubt with this set up, we recommend using the lid: [Layout Test](/en/faq/validating-a-layout-before-moving-it-to-production)
 

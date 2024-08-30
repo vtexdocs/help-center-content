@@ -16,9 +16,7 @@ trackSlugES: catalogo-101
 
 Hay tres maneras de registrar sus especificaciones de SKU: a través del admin, por plantilla o por ERP.
 
-<div class="alert alert-warning">
-<p>En VTEX, las especificaciones siguen una lógica de "herencia", es decir, cuando se crea una especificación en un nivel de categoría superior, la especificación se presentará en todos los niveles de categoría inferiores. Por lo tanto, si es necesario crear una especificación de producto o SKU que se aplique a una sola categoría, debe crearse en ese nivel de categoría.</p>
-</div>
+>⚠️ En VTEX, las especificaciones siguen una lógica de "herencia", es decir, cuando se crea una especificación en un nivel de categoría superior, la especificación se presentará en todos los niveles de categoría inferiores. Por lo tanto, si es necesario crear una especificación de producto o SKU que se aplique a una sola categoría, debe crearse en ese nivel de categoría.
 
 Siga el siguiente procedimiento para registrar las especificaciones:
 

@@ -1,10 +1,10 @@
 ---
 title: 'Configurar el gateway Braspag'
 id: 7tQmfLMvtYEsWoaaAaeKSC
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-02-27T18:21:37.603Z
-updatedAt: 2023-03-29T01:03:06.303Z
-publishedAt: 2023-03-29T01:03:06.303Z
+updatedAt: 2023-09-19T14:26:39.079Z
+publishedAt: 
 firstPublishedAt: 2018-02-27T18:52:38.519Z
 contentType: tutorial
 productTeam: Financial

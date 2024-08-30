@@ -1,10 +1,10 @@
 ---
 title: 'Configuring Cielo acquirer'
 id: 3avjZ7q65WcM02K8K0eeWu
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-05-02T19:02:05.427Z
-updatedAt: 2023-03-21T18:55:28.551Z
-publishedAt: 2023-03-21T18:55:28.551Z
+updatedAt: 2023-09-19T14:27:20.410Z
+publishedAt: 
 firstPublishedAt: 2018-05-02T19:49:35.201Z
 contentType: tutorial
 productTeam: Financial
@@ -40,9 +40,7 @@ To configure Cielo, follow the steps below.
     - __BpmpiAuthNotifyOnly:__ Choose whether the card transaction will be submitted in "notification only" mode. This option is only valid for Mastercard cards. In this mode, the authentication process will not be triggered, but the data will be submitted to the card company.
     - __BpmpiAuthSuppresschallenge:__ Choose whether the challenge must be suppressed when it exists. If a transaction is authorized after ignoring the challenge, the liability rests with the merchant.
 
-<div class="alert alert-warning">
-<strong>Warning</strong>: For the 3DS2 flow to work correctly, you need to install the payment app cielo-authentication-app.
-</div>
+>⚠️ **Warning**: For the 3DS2 flow to work correctly, you need to install the payment app cielo-authentication-app.
 
 11. In __Early capture__, select how soon the capture must take place (after transaction approval and anti-fraud analysis). You can also disable this option.
 12. Click on __Save__.

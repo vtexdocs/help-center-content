@@ -18,9 +18,7 @@ internalReference: 694254
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La búsqueda de gestión de inventario no se comporta como se espera en las cuentas del portal del vendedor. Esto ocurre porque este tipo de cuentas utilizan una versión diferente del catálogo.

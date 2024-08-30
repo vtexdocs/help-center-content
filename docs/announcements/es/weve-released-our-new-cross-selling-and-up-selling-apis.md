@@ -3,8 +3,8 @@ title: 'Lanzamos nuestras nuevas API de Cross-selling y Up-selling'
 id: 37Lc6sI2owMCiUamocgAcc
 status: PUBLISHED
 createdAt: 2017-12-04T18:54:28.850Z
-updatedAt: 2020-05-11T19:43:09.938Z
-publishedAt: 2020-05-11T19:43:09.938Z
+updatedAt: 2024-01-04T15:05:24.804Z
+publishedAt: 2024-01-04T15:05:24.804Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
@@ -73,6 +73,6 @@ Esta API devolverá los productos que también se han registrado como __sugerenc
 
 ## Saber más
 
-Para obtener más información sobre las llamadas, acceda a nuestra [documentación de APIs](https://developers.vtex.com/reference/crossselling#productsearchwhosawalsosaw).
+Para obtener más información sobre las llamadas, acceda a nuestra [documentación de APIs](https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/crossselling/whosawalsosaw/-productId-?endpoint=get-/api/catalog_system/pub/products/crossselling/whosawalsosaw/-productId-).
 
 Para más informaciones sobre las modalidades de Cross-selling y Up-Selling descritas arriba, acceda al [artículo del VTEX Help](/es/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos)

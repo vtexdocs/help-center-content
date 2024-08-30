@@ -3,8 +3,8 @@ title: 'How to create and edit transactional email templates'
 id: 335JZKUYgvYlGOJgvJYxRO
 status: PUBLISHED
 createdAt: 2020-01-10T13:13:48.069Z
-updatedAt: 2021-02-11T13:19:34.511Z
-publishedAt: 2021-02-11T13:19:34.511Z
+updatedAt: 2024-06-11T19:54:28.554Z
+publishedAt: 2024-06-11T19:54:28.554Z
 firstPublishedAt: 2020-01-13T14:38:32.506Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -23,15 +23,15 @@ To edit a transactional email template, follow the steps below.
 3. Change the e-mail title and the recipient (values bounded by double braces are variable; in the next article we will learn how to handle them). You can add recipients on Carbon Copy (`CC`) and Blind Carbon Copy (`CCO`).  
 4. Check the box __Use default sender__ to use the registered email address as default, as explained in the previous article on this track.
 
+>ℹ️ The list of templates is available in the article [Order transactional email templates](https://help.vtex.com/en/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my).
+
 In the __HTML__ field you will find the template's HTML code. You can edit the code in the field itself or copy it to an editor of your choice, edit it and then paste it back into the template field.
 
 The __preview__ rendered by this code is shown in the box below the HTML field. You can choose between three different screen sizes to test code responsiveness.
 
 The __JSON Data__ field shows a JSON object *example* that contains information regarding the subject of the email. This object's braces can be used as variables in the template's HTML code. We will learn how to do this in the next article.
 
-<div class="alert alert-warning">
-Warning: To customize the email layout, you must enter <strong>inline CSS code</strong>. <u>Don't</u> insert CSS into the head of the template, because emails don't handle it well.
-</div>
+>⚠️ Warning: To customize the email layout, you must enter **inline CSS code**. <u>Don't</u> insert CSS into the head of the template, because emails don't handle it well.
 
 At the end, click on the __Save__ button.
 

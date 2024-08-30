@@ -3,8 +3,8 @@ title: 'Gestionar tiendas físicas en VTEX Sales App'
 id: 5PSjRstg7UU4lOm0s8aqKN
 status: PUBLISHED
 createdAt: 2020-06-29T13:30:51.354Z
-updatedAt: 2023-05-31T15:07:31.507Z
-publishedAt: 2023-05-31T15:07:31.507Z
+updatedAt: 2023-07-26T18:59:24.074Z
+publishedAt: 2023-07-26T18:59:24.074Z
 firstPublishedAt: 2020-06-29T14:22:11.121Z
 contentType: trackArticle
 productTeam: Shopping
@@ -16,7 +16,7 @@ trackSlugES: instore-primeros-pasos-y-configuracion
 
 Después de realizar las [configuraciones básicas de inStore en el Admin](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), puede añadir otras tiendas físicas al sistema o gestionar tiendas ya registrados.
 
-**Tienda física** es una de las páginas de **Configuración de la tienda** del Admin VTEX que muestra una lista de tiendas físicas registradas en la aplicación [inStore](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). En ella, puedes gestionar la información de todas las tiendas físicas de la cuenta.
+**Tienda física** es una de las páginas de **Configuración de la tienda** del Admin VTEX que muestra una lista de tiendas físicas registradas en la aplicación [VTEX Sales App](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). En ella, puedes gestionar la información de todas las tiendas físicas de la cuenta.
 
 Esta página te permite realizar las siguientes acciones: 
 
@@ -74,9 +74,7 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 * **Política comercial:** [política comercial](https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será aplicada na loja física. Campo obrigatório.
 * **Punto de recogida:** [punto de recogida](https://help.vtex.com/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R) registrado para esta tienda física, donde los clientes recogen sus pedidos.
 
-<div class ="alert alert-info">
-<p>Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.</p> 
-</div>
+>ℹ️ Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.
 
 ## Buscar tienda física
 

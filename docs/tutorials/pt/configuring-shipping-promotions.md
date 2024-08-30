@@ -40,7 +40,7 @@ Abaixo explicamos alguns cenários que podem ser configurados na plataforma da V
 Caso você habilite a opção **Aplicar o desconto somente no frete mais barato**, o desconto do frete será aplicado somente no menor valor estimado para o frete. Esta opção já aparece habilitada por padrão, mas você pode desabilitá-la caso prefira configurar a promoção conforme o [Cenário 3](#cenario-3) ou o [Cenário 4](#cenario-4).
 
 #### Configuração
-![Aplicar o desconto somente no frete mais barato - PT](//images.contentful.com/alneenqid6w5/2Y0g5Ta6h4VL6uMRQouzjC/94aab036bb00a8162c934780cdfcb1c9/image.png)
+![Aplicar o desconto somente no frete mais barato - PT](https://images.contentful.com/alneenqid6w5/2Y0g5Ta6h4VL6uMRQouzjC/94aab036bb00a8162c934780cdfcb1c9/image.png)
 
 #### Resultado
 ![saggincaso1.2](https://images.ctfassets.net/alneenqid6w5/5YS2Iva3GwayZPPA3pqMmf/1b1f4d05ad16378b993a748e4923e12d/saggincaso1.2.png)

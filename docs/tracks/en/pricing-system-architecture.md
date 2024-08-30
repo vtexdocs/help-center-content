@@ -3,8 +3,8 @@ title: 'Pricing system architecture'
 id: 7GptzvlPDVM11ojEjywIQx
 status: PUBLISHED
 createdAt: 2019-07-04T13:51:00.418Z
-updatedAt: 2022-07-27T20:39:31.113Z
-publishedAt: 2022-07-27T20:39:31.113Z
+updatedAt: 2024-04-22T19:20:30.485Z
+publishedAt: 2024-04-22T19:20:30.485Z
 firstPublishedAt: 2019-07-17T19:40:40.258Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -63,7 +63,7 @@ The pricing module takes these 4 criteria into account when calculating a price 
 To check an SKU's sales price for a specific price table, you can query the **computed price value** in the **Price List** section in admin. In the example below, we can see that the computed price for **SKU 14** in **trade policy table 1** is equal to **334,62**:
 ![computed-price-en](https://images.ctfassets.net/alneenqid6w5/4LtPPVFSSHGOZAENhHeRyZ/56a5705d20dff8ebe13d8fdfa181a330/computed-price-en.png)
 
-You can also check an SKU's computed price in a price table by **making an API request**. To achieve this, you'll need to send a **GET** to the [Get Computed Price by price table or trade policy](https://developers.vtex.com/vtex-rest-api/reference/getcomputedpricebypricetable) call.
+You can also check an SKU's computed price in a price table by **making an API request**. To achieve this, you'll need to send a **GET** to the [Get Computed Price by price table or trade policy](https://developers.vtex.com/docs/api-reference/pricing-api#get-/pricing/prices/-itemId-/computed/-priceTableId-) call.
 
 This request returns an SKU's `sellingPrice` from price table `1`. **This is the information that *Pricing* shows as *the SKU's selling price***. 
 

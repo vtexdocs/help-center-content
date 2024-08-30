@@ -3,8 +3,8 @@ title: 'Corregir error de redireccionamiento en PagSeguro'
 id: 5b1lVDQ9HUKQs4Wy24uWq2
 status: PUBLISHED
 createdAt: 2018-02-15T16:07:47.669Z
-updatedAt: 2019-12-31T14:23:59.281Z
-publishedAt: 2019-12-31T14:23:59.281Z
+updatedAt: 2024-02-16T12:41:04.461Z
+publishedAt: 2024-02-16T12:41:04.461Z
 firstPublishedAt: 2018-02-15T17:26:16.189Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: es
 legacySlug: corregir-error-de-redirecionamento-en-pagseguro
 ---
 
+>❗ Esta integración de pago ya no se puede configurar en la plataforma debido al [proceso de descontinuación de los proveedores legados](https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14) y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.
+
 Si usted está encontrando __problemas de redireccionamiento__ utilizando Pagseguro, es probable que el *redirect* de PagSeguro esté configurado de forma incorrecta.
 
 Para corregir el problema, hay dos opciones: Configurar el PagSeguro *con redirect* de la forma correcta o configurar PagSeguro *sin redirect*.
@@ -22,16 +24,12 @@ Para corregir el problema, hay dos opciones: Configurar el PagSeguro *con redire
 
 ### Configurar Afiliación de Gateway PagSeguro
 
-1. Acceda la sección de __Pagos__.
-2. Haga clic en el botón __Configuración__.
-3. Haga clic en la pestaña __Afiliaciones__.
-4. Haga clic en el botón __+__ en la esquina superior derecha de la pantalla.
-5. Haga clic en la afiliación __PagSeguro__.
-6. Rellene los campos __email__ y __token__ con la información proporcionada por PagSeguro.
-
-En su cuenta de PagSeguro, debe activar "Redirigir con código de transacción" (Mi cuenta > Integraciones > Página de redireccionamiento). El nombre del parámetro solicitado debe ser `psTransactionId`.
-
-Después, haga clic en __Guardar__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __PagSeguro__ en la barra de búsqueda y haga clic en el nombre del proveedor.
+4. Rellene los campos __email__ y __token__ con la información proporcionada por PagSeguro.
+5. Siga la guía __Configuração do redirecionamento__ descrita en el panel de configuración.
+6. Haga clic en `Guardar`.
 
 ### Configurar Condición de Pago PagSeguro
 

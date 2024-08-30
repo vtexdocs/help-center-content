@@ -20,14 +20,14 @@ Depois que a sua árvore de categorias estiver definida, você já pode inserir 
 
 Na VTEX, o cadastro de categorias é feito no módulo __Catalog__.
 
-1. No menu da topbar do seu admin, clique em __Catalog__ (se você já não estiver lá).![Catalog](//images.contentful.com/alneenqid6w5/48wP1cDIw0EwoeOUY8OGWI/8874d5f10e57364c7d78852d5b48aed4/catalog.png)
-2. Nas opções da aba __Cadastro de Produtos__, clique em __Categoria__.![Categoria](//images.contentful.com/alneenqid6w5/2w0IBMGwik0AGauGA4Eu0G/260db5fed8cca932f10b194a05a5f9c1/Categoria.png)
+1. No menu da topbar do seu admin, clique em __Catalog__ (se você já não estiver lá).![Catalog](https://images.contentful.com/alneenqid6w5/48wP1cDIw0EwoeOUY8OGWI/8874d5f10e57364c7d78852d5b48aed4/catalog.png)
+2. Nas opções da aba __Cadastro de Produtos__, clique em __Categoria__.![Categoria](https://images.contentful.com/alneenqid6w5/2w0IBMGwik0AGauGA4Eu0G/260db5fed8cca932f10b194a05a5f9c1/Categoria.png)
 
 No lado esquerdo da tela, você vê o nível mais alto de categorias, que por padrão tem o nome __Categorias__. É dentro dele que vamos distribuir as categorias da sua árvore.
 Clique nele e siga os passos abaixo:
 
-1. Clique no botão __ações__ que aparece à direita da sua tela.![acoes](//images.contentful.com/alneenqid6w5/lIbUp2QFuSckgmwsSGigE/41351e98a797a11deeb60d7bf7b0cac5/acoes.png)
-2. Clique na opção __Incluir__.![incluir](//images.contentful.com/alneenqid6w5/3DGlwjNNpmsW80AYS6CM4Q/3ccf2d1d74bb18e7ebd234977b1137ec/incluir.png)
+1. Clique no botão __ações__ que aparece à direita da sua tela.![acoes](https://images.contentful.com/alneenqid6w5/lIbUp2QFuSckgmwsSGigE/41351e98a797a11deeb60d7bf7b0cac5/acoes.png)
+2. Clique na opção __Incluir__.![incluir](https://images.contentful.com/alneenqid6w5/3DGlwjNNpmsW80AYS6CM4Q/3ccf2d1d74bb18e7ebd234977b1137ec/incluir.png)
 
 Você pode ver a lista completa dos campos de cadastro de categoria [neste artigo](/pt/tutorial/campos-de-cadastro-de-categoria).
 Mas aqui vamos nos ater apenas a alguns campos.

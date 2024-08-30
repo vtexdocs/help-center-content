@@ -3,8 +3,8 @@ title: 'Configurar gateway PagarMeV2'
 id: 5TugxXNMOs0Ocyg4uqussM
 status: PUBLISHED
 createdAt: 2018-04-10T18:50:48.932Z
-updatedAt: 2023-03-26T21:04:07.182Z
-publishedAt: 2023-03-26T21:04:07.182Z
+updatedAt: 2024-01-23T19:19:58.174Z
+publishedAt: 2024-01-23T19:19:58.174Z
 firstPublishedAt: 2018-04-11T21:51:25.333Z
 contentType: tutorial
 productTeam: Financial
@@ -15,16 +15,18 @@ legacySlug: configurar-gateway-pagarmev2
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-O PagarMeV2 é a versão mais recente do conector do [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) Pagar.me. Para configurá-la, siga os passos abaixo:
+Na VTEX, é possível processar pagamentos com o provedor PagarMe por meio das integrações V2 e V3.
 
-## Configurar afiliação de gateway PagarMeV2
+>⚠️ Caso deseje configurar a versão V3 da Pagarme em sua loja, acesse [Configurar pagamento com PagarMeV3](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-pagarmev3--5PMavdamrVijwIrHas9ndE).
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Em __Afiliações de gateway__, clique no botão verde “__+__”.
-3. Busque e clique em __PagarMeV2__.
+Para configurar a PagarMeV2, siga os passos abaixo:
+
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __PagarMeV2__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos indicados com as seguintes informações:<br><br>
 <ul>
-<li><b>Application Key</b> e <b>Application Token</b>: insira as informações que foram fornecidas pela Pagar.me.</li>
+<li><b>Chave de aplicação</b> e <b>Token de aplicação</b>: insira as informações que foram fornecidas pela Pagar.me.</li>
 <li><b>Captura automática de pagamento</b>: selecione uma das seguintes opções:<br><br>
     <ul>
     	<li><b>Use O Comportamento Recomendado Pelo Processador de Pagamentos</b>: a captura não é automática, mas agendada de acordo com o prazo especificado pela adquirente que, além de indicar se o pagamento foi autorizado, pode especificar ou recomendar um número de dias para a captura no momento da resposta à autorização do pagamento (este é o comportamento padrão da plataforma).</li>

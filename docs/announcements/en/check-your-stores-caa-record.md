@@ -17,9 +17,7 @@ announcementSynopsisEN: 'We recommend you to update your CAA record on your DNS 
 
 With __Black Friday__ just around the corner, we recommend you to update the CAA records of your DNS management system until __November 9__. This is an action required to generate and update the SSL certificates, necessary to use VTEX's CDN.
 
-<div class="alert alert-warning">
-<strong>Attention:</strong> Depending on your DNS management system, this kind of entry may not be available. However, sometimes those services offer the possibility of managing the CAA records through their support channel.
-</div>
+>⚠️ **Attention:** Depending on your DNS management system, this kind of entry may not be available. However, sometimes those services offer the possibility of managing the CAA records through their support channel.
 
 ## What you need to do
 Check on your DNS management setup (or ask someone responsible for managing your store's domains) if the following records are set up like the examples below:
@@ -33,9 +31,7 @@ Check on your DNS management setup (or ask someone responsible for managing your
 ## What's the impact?
 Setting up the new CAA records will only allow the __Digicert__, __Comodo__, __Globalsign__, and __Let's encrypt__ entities to generate and renew certificates for your domain. __These certificates are actually requirements for your store to use VTEX's CDN and achieve superior performance.__ If you don't update the CAA records, your store will experience performance issues and will have a slower loading speed.
 
-<div class="alert alert-info">
-Stores that don't have CAA records set up <strong>don't need to do anything</strong> and <strong>won't have impacts</strong>.
-</div>
+>ℹ️ Stores that don't have CAA records set up **don't need to do anything** and **won't have impacts**.
 
 
 ## Useful resources

@@ -1,36 +1,38 @@
 ---
-title: 'When a component of the kit look is out of stock, the kit is shown as sold out on searching'
-id: 56QpnBz2ayEAe00L9ojSI0
-status: DRAFT
-createdAt: 2022-01-21T18:06:21.645Z
-updatedAt: 2022-03-16T16:22:00.845Z
-publishedAt: 
-firstPublishedAt: 
+title: 'Cuando un componente de kit look no tiene stock, el kit aparece agotado en la búsqueda'
+id: 5PRtTKk1HyGkKciOussWEI
+status: PUBLISHED
+createdAt: 2017-03-29T23:44:56.615Z
+updatedAt: 2022-12-22T20:43:08.857Z
+publishedAt: 2022-12-22T20:43:08.857Z
+firstPublishedAt: 2017-03-29T23:46:36.720Z
 contentType: knownIssue
-productTeam: Portal
+productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
-tag: Portal
-slug: when-a-component-of-the-kit-look-is-out-of-stock-the-kit-is-shown-as-sold-out-on-searching
+tag: Catalog
+slug: cuando-un-componente-de-kit-look-no-tiene-stock-el-kit-aparece-agotado-en-la-busqueda
 locale: es
 kiStatus: Backlog
-internalReference: 342720
+internalReference: 
 ---
 
 ## Sumario
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en Inglês.</p>
-</div>
+Cuando un componente de un kit look se queda sin stock, todo el kit se exhibe como agotado en la búsqueda.
 
 ## Simulación
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en Inglês.</p>
-</div>
+<!--- Conta original era automacaoqa, removemos por conta de EDU-2582 --->
+
+Kit Look: `https://lojateste.vtexcommercebeta.com.br/admin/site/ProdutoForm.aspx?id=2000205`
+
+Componente no disponible: `https://lojateste.vtexcommercebeta.com.br/admin/site/SkuForm.aspx?IdSku=2000362`
+
+Exhibición correcta en la página de producto: `https://lojateste.vtexcommercebeta.com.br/admin/site/SkuForm.aspx?IdSku=2000362`
+
+Exhibición incorrecta en la búsqueda: `https://lojateste.vtexcommercebeta.com.br/kits`
 
 ## Workaround
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en Inglês.</p>
-</div>
+Solo utiliza el Kit Look si es posible asegurar que todos los componentes poseen stock.
 

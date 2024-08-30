@@ -1,5 +1,5 @@
 ---
-title: 'Erro "object reference not set to an instance of an object" ao tentar importar planilha de frete'
+title: "Erro 'object reference not set to an instance of an object' ao tentar importar planilha de frete"
 id: 51E8sNlQu40w0QWWg6mqGE
 status: PUBLISHED
 createdAt: 2018-10-01T16:23:51.945Z
@@ -20,9 +20,7 @@ Este erro ocorre quando algum __título das colunas da planilha de frete__ não 
 
 Para resolver o problema, é necessário ajustar o título da coluna para o nome correto e fazer novamente o upload da planilha.
 
-<div class="alert alert-warning">
-Caso a planilha tenha mais de 10 MB, será necessário compactá-la no formato .zip. Este arquivo .zip deverá ter menos de 10 MB. Caso contrário, o upload não irá funcionar.
-</div>
+>⚠️ Caso a planilha tenha mais de 10 MB, será necessário compactá-la no formato .zip. Este arquivo .zip deverá ter menos de 10 MB. Caso contrário, o upload não irá funcionar.
 
 ## Obter o nome correto dos títulos das colunas
 

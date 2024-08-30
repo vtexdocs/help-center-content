@@ -3,8 +3,8 @@ title: 'Por que a transportadora calculou frete para um peso menor do que o mín
 id: frequentlyAskedQuestions_164
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:17.904Z
-updatedAt: 2019-12-31T14:25:25.374Z
-publishedAt: 2019-12-31T14:25:25.374Z
+updatedAt: 2023-12-19T16:53:24.136Z
+publishedAt: 2023-12-19T16:53:24.136Z
 firstPublishedAt: 2017-04-27T23:01:43.295Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
@@ -14,7 +14,7 @@ locale: pt
 legacySlug: por-que-minha-transportadora-calculou-frete-para-um-peso-menor-do-que-o-minimo-configurado
 ---
 
-O cálculo do frete sempre considera dois parâmetros, o peso e o volume do produto. A prioridade de cálculo é sempre para o peso real ou cubado &#8211; o maior entre eles. Porém, caso peso do produto seja menor do que o mínimo cadastrado para a transportadora, será considerado o volume.
+O cálculo do frete sempre considera dois parâmetros, o peso e o volume do produto. A prioridade de cálculo é sempre para o peso mínimo ou cubado &#8211; o maior entre eles. Porém, caso peso do produto seja menor do que o mínimo cadastrado para a transportadora, será considerado o volume.
 
 ## Exemplos
 

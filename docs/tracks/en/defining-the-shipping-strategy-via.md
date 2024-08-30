@@ -3,8 +3,8 @@ title: 'Defining the shipping strategy'
 id: 69cLhDK7PGOqgSs2EyqMke
 status: PUBLISHED
 createdAt: 2018-09-24T19:51:55.267Z
-updatedAt: 2022-01-18T22:08:54.766Z
-publishedAt: 2022-01-18T22:08:54.766Z
+updatedAt: 2023-11-30T21:11:02.106Z
+publishedAt: 2023-11-30T21:11:02.106Z
 firstPublishedAt: 2018-09-27T22:13:49.998Z
 contentType: trackArticle
 productTeam: Channels

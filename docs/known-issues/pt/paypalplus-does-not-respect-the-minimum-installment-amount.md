@@ -3,8 +3,8 @@ title: 'O PayPalPlus não respeita o valor mínimo da parcela'
 id: 1IGzNPtXaaUsPkaq0qRgfK
 status: PUBLISHED
 createdAt: 2022-03-26T23:00:59.044Z
-updatedAt: 2022-11-25T22:06:43.067Z
-publishedAt: 2022-11-25T22:06:43.067Z
+updatedAt: 2024-02-16T20:25:30.693Z
+publishedAt: 2024-02-16T20:25:30.693Z
 firstPublishedAt: 2022-03-26T23:00:59.445Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-paypalplus-nao-respeita-o-valor-minimo-da-parcela
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 370271
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Mesmo com o valor mínimo da parcela configurado no prazo de pagamento PayPalPlus, exibimos parcelas no checkout que não respeitam esta configuração

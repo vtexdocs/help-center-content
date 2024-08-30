@@ -1,5 +1,5 @@
 ---
-title: '[Ordem com erro de "Parâmetro de desajuste de contagem".'
+title: "[Ordem com erro de 'Parâmetro de desajuste de contagem'."
 id: 6XhzSJrrHaEt85QseRdC3k
 status: PUBLISHED
 createdAt: 2023-03-22T19:32:10.011Z
@@ -18,9 +18,7 @@ internalReference: 776361
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Algumas ordens da Skyhub não estão sendo integradas na plataforma, devido ao erro "Parameter count mismatch", onde a ordem não é criada em OMS (VTEX)

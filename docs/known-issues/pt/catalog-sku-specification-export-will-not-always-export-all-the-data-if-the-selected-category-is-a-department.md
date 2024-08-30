@@ -18,9 +18,7 @@ internalReference: 465445
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A exportação de especificações de SKU do catálogo nem sempre exportará todos os dados se for selecionado o departamento e não a subcategoria mais interna.

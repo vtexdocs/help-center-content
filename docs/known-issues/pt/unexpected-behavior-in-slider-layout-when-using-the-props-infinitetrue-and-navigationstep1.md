@@ -18,9 +18,7 @@ internalReference: 462895
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Um comportamento inesperado ocorre quando se utiliza o vtex.slider-layout, se estes dois prumos forem colocados juntos:

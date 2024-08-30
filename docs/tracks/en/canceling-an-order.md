@@ -3,8 +3,8 @@ title: 'Canceling an order'
 id: 4ts2ItvjYo8wm5gg76miS3
 status: PUBLISHED
 createdAt: 2019-11-18T11:50:32.691Z
-updatedAt: 2023-03-22T23:28:21.211Z
-publishedAt: 2023-03-22T23:28:21.211Z
+updatedAt: 2024-04-01T18:04:36.603Z
+publishedAt: 2024-04-01T18:04:36.603Z
 firstPublishedAt: 2019-11-18T12:20:50.741Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -19,11 +19,11 @@ You can cancel an order with VTEX in three different ways:
 - Through API.
 - Following the customer's request.
 
-<div class="alert alert-warning">
-Once an order is canceled, you cannot change its status. Orders that have <b>invoiced</b> status can not be cancelled.
-</div>
+>⚠️ Once an order is canceled, you cannot change its status. Orders that have **invoiced** status can not be canceled.
 
-## Cancellation through **Orders** module
+>ℹ️ Orders with [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+
+## Cancellation through Orders module
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
 2. Click the desired order.

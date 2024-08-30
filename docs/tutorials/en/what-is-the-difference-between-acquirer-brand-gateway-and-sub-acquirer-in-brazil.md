@@ -1,10 +1,10 @@
 ---
 title: 'What is the role of financial agents in the payment flow of an application in Brazil?'
 id: 1dyPJ3gQCCO4ea2o6OMgCi
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-10-11T19:08:49.654Z
-updatedAt: 2020-11-27T19:40:35.496Z
-publishedAt: 2019-12-31T15:27:52.279Z
+updatedAt: 2024-03-18T18:55:40.724Z
+publishedAt: 2024-03-18T18:55:40.724Z
 firstPublishedAt: 2017-10-11T19:34:43.203Z
 contentType: tutorial
 productTeam: Financial
@@ -21,7 +21,7 @@ In this article, we will clarify the concepts of acquirer, sub-aquirer, gateway,
 
 ## Gateway
 
-A gateway (also called payment gateway) is a __system that transmits data from purchases made in your store at checkout__ to companies such as Braspag e Mundipagg.
+A gateway (also called payment gateway) is a __system that transmits data from purchases made in your store at checkout__.
 
 As the first player in the flow, it's responsible for sending this information to acquirers, card brands and [issuing banks](https://help.vtex.com/en/tutorial/what-is-the-issuing-bank?locale=en "What is the Issuing Bank?") then obtain a response about the continuation of the process or its cancellation. In other words, the gateway sends data and receives responses so that you know whether or not a particular purchase should be confirmed, showing whether the payment was approved or not. 
 
@@ -30,7 +30,6 @@ As an intermediary between an e-commerce and its payment method used, the gatewa
 By activating the [connectors](https://help.vtex.com/en/tutorial/what-is-the-connector?locale=en "What is the connector?") and registering [gateway affiliations](https://help.vtex.com/en/tutorial/registering-gateway-affiliations?locale=en "Registering gateway affiliations"), your client's shopping data can be sent to acquirers or other gateways and thus move on through the approval flow in financial institutions. 
 
 VTEX platform has its own [PCI](https://help.vtex.com/en/tutorial/what-is-the-pci-ssc?locale=en "What is the PCI SSC") certified gateway, which means that data from any payment made in your store is protected according to the highest security standards.
-
 
 ## Acquirer
 
@@ -45,7 +44,7 @@ When everything is in order and a purchase is authorized by the other players wi
 ## Sub-acquirer
 
 A sub-acquirer is a company that processes payments and transmits the generated data to the other players involved in the [payment flow](https://help.vtex.com/en/tutorial/credit-card-basic-payment-flow "Credit Card - Basic payment flow"). Its role is similar to that of an acquirer, but it doesn't completely replace it due to the lack of autonomy to perform all the funcilnatilies of an acquirer. 
- 
+
 A sub-acquirer can therefore __be understood as a kind of intermediary player between acquirer and store__. Some examples of sub-acquirers are: PagSeguro e Paypal.
 
 The main advantages of a sub-acquirer are its low implementation cost , own anti-fraud system and ease of integration which makes this a very attractive solution for small stores. On the other hand,  the choice of using the sub-acquirer may jeopardize the retailer's profits because of the high rates charged for each transaction (greater than the acquirers). 
@@ -60,23 +59,18 @@ These brands keep a close relationship with the acquirers to guarantee the accep
 
 In the [credit card payment flow](https://help.vtex.com/en/tutorial/credit-card-basic-payment-flow "Credit Card - Basic payment flow"), the brand receives the information of the purchase made in your store from the acquirer. It then validates the conditions (such as the number of installments) and sends the data to the issuing bank, which verifies that the buyer has sufficient limit available. Hence, the card brand serves  to both regulate the use of the card and as a bridge between the acquirer and the consumer's bank.
 
-
 ## Issuing Bank
 
 The issuing bank is the financial institution responsible for the payment method, be it by bank slip, debit or credit card. It is the one who, when receiving the data of a purchase made in your store, will either authorize the sale or not (depending on the  available credit limit or available monetary resources in the user's account). If everything is OK, the bank collects the value.
 
 This concept is important because it allows you to set up [special conditions](https://help.vtex.com/en/tutorial/special-conditions?locale=en "Configuring payment special conditions") for payments made through specific banks. In addition, for registered payment tickets, each bank has its own form of issuance. In addition, in order to implement this configuration, you need to know how the chosen issuing bank process is and follow the instructions in [this article](https://help.vtex.com/en/tutorial/how-do-i-configure-registered-payment-ticket?locale=en "Configuring a registered bank slip"). Some examples of Issuing Banks are: Itau, Santander, Bradesco e Citibank.
 
-
 ## Anti-fraud
 
 Anti-fraud is a system specialized in analyzing the purchases made on websites, in order to identify fraudulent transactions.
- 
+
 It collects data about the behavior of users and compares them with suspicious patterns to then approve or deny the order. The anti-fraud therefore adds an extra layer of security to your store.
- 
+
 At VTEX, the payment operator first approves the purchase and then the anti-fraud assesses the order. If everything goes OK, it follows its normal flow. Some examples of anti-fraud are: ClearSale and Konduto. 
 
----
-
-It is important to emphasize that each business depends on specific factors that influence the decision of which modality to use. There are several variables that can determine the choice of a payment method and what your financial flow will be. It is critical, therefore, to keep the actual needs and purposes of the retailer and desired project in mind.
-
+>ℹ️ It is important to emphasize that each business depends on specific factors that influence the decision of which modality to use. There are several variables that can determine the choice of a payment method and what your financial flow will be. It is critical, therefore, to keep the actual needs and purposes of the retailer and desired project in mind.

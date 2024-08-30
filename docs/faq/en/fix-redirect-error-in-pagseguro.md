@@ -3,8 +3,8 @@ title: 'Fix redirect error in PagSeguro'
 id: 5b1lVDQ9HUKQs4Wy24uWq2
 status: PUBLISHED
 createdAt: 2018-02-15T16:07:47.669Z
-updatedAt: 2019-12-31T14:23:59.281Z
-publishedAt: 2019-12-31T14:23:59.281Z
+updatedAt: 2024-02-16T12:41:04.461Z
+publishedAt: 2024-02-16T12:41:04.461Z
 firstPublishedAt: 2018-02-15T17:26:16.189Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: en
 legacySlug: fix-redirect-error-in-pagseguro
 ---
 
+>❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
+
 If you are having "redirect problems" using PagSeguro, it's likely that PagSeguro's *redirect* is configured incorrectly.
 
 To fix the problem, there are two options: Set the PagSeguro *with redirect* in the correct way or configure the PagSeguro *without redirect*.
@@ -22,16 +24,12 @@ To fix the problem, there are two options: Set the PagSeguro *with redirect* in 
 
 ### Configuring Gateway Affiliation PagSeguro
 
-1. Access the __Payments__ section.
-2. Click the __Settings__ button.
-3. Click on the tab __Gateway Affiliations__.
-4. Click the __+__ button in the upper right corner of the screen.
-5. Click the __PagSeguro__ affiliation.
-6. Fill in the __email__ and __token__ fields with the information provided by PagSeguro.
-
-In your PagSeguro account, you must activate "Redirect with transaction code" (My Account > Integrations > Redirection Page). The requested parameter name must be `psTransactionId`.
-
-After that, click __Save__.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __PagSeguro__ in the search bar and click on the name of the provider.
+4. Fill in the __email__ and __token__ fields with the information provided by PagSeguro.
+5. Follow the  __Configuração do redirecionamento__ guidance outlined in the configuration panel.
+6. Click `Save`.
 
 ### Setting up PagSeguro Payment Condition
 

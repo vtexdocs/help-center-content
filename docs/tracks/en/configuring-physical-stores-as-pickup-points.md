@@ -3,8 +3,8 @@ title: 'Physical stores as pickup points'
 id: 4hXfgqXxS1lwAfnxgja3xW
 status: PUBLISHED
 createdAt: 2021-08-23T17:04:37.282Z
-updatedAt: 2023-05-31T14:45:23.483Z
-publishedAt: 2023-05-31T14:45:23.483Z
+updatedAt: 2023-07-26T18:51:23.201Z
+publishedAt: 2023-07-26T18:51:23.201Z
 firstPublishedAt: 2021-08-23T17:12:50.884Z
 contentType: trackArticle
 productTeam: Shopping

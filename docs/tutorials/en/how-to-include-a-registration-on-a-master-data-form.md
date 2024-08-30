@@ -17,21 +17,16 @@ subcategory: 42hDtnYXHw5ExG6l19RP1l
 
 To include a registration, just access the Master Data module and choose the application you wish to view.
 
-<div class="alert alert-warning">
-This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use.
- <ul>
-<li>
-<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-Master Data version characteristics
- </a>
-</li>
-<li>
-<a href=”https://developers.vtex.com/vtex-rest-api/docs/getting-started-1”>
-Master Data v2
-</a>
-</li>
-</ul>
-</div>
+>⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use.
+>
+> *<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
+> Master Data version characteristics
+>  </a>
+>
+> *<a href=”https://developers.vtex.com/vtex-rest-api/docs/getting-started-1”>
+> Master Data v2
+> </a>
+> 
 
 Let us say, for example, that you want to edit the information of a customer of your store.
 

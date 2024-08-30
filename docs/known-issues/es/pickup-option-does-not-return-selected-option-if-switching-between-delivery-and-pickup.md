@@ -18,9 +18,7 @@ internalReference: 588394
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el comprador selecciona una tienda para la recogida, cambia a la entrega y añade una nueva dirección no disponible para la entrega cuando vuelve para la recogida, vuelve a aparecer seleccionada otra tienda. Si alternamos entre entrega y recogida, a veces la tienda seleccionada aparece inicialmente intercalada con otra tienda.

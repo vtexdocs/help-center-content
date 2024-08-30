@@ -26,9 +26,7 @@ En este paso, se debe configurar qué tienda utilizará el app y para cuál URL 
 1. En la opción `Tienda`, seleccione el sub-account que deberá utilizarse para el app;
 2. En la opción `URL`, seleccione la URL correspondiente al sitio web de la cuenta que haya elegido en el paso anterior.
 
-<div class="alert alert-warning">
-<strong>OBS:</ strong> asegúrese de que la URL elegida es la correcta, ya que las opciones mostrarán cualquier URL que esté registrada en <a href="https://help.vtex.com/es/tutorial/configurando-dominios-no-license-manager?locale=es">sus dominios</a>. <strong>Generalmente la URL usada es que la tiene WWW</strong>.
-</div>
+>⚠️ **OBS:</ strong> asegúrese de que la URL elegida es la correcta, ya que las opciones mostrarán cualquier URL que esté registrada en [sus dominios](https://help.vtex.com/es/tutorial/configurando-dominios-no-license-manager?locale=es). <strong>Generalmente la URL usada es que la tiene WWW**.
 
 ## Definiendo la cuenta en Google Merchant Center
 
@@ -42,9 +40,7 @@ Al seleccionar __"Crear nueva"__, es muy importante enseguida [acceder al GMC](h
 
 - __Asociar existente:__ el app utilizará la cuenta que ya posee en el GMC. Al  momento de iniciar sesión, debe utilizar exactamente el mismo correo electrónico que utiliza en el GMC que desea asociar.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> la URL configurada en el GMC debe ser <strong>exactamente la misma</strong> que fue elegida anteriormente. Inclusive, tomando en cuenta el protocolo (http o https).
-</div>
+>⚠️ **OBS:** la URL configurada en el GMC debe ser **exactamente la misma** que fue elegida anteriormente. Inclusive, tomando en cuenta el protocolo (http o https).
 
 Al seleccionar __"Asociar a un GMC existente"__, luego será necesario definir si la integración de productos con Google se hará a través de VTEX o a través de alguna sincronización externa que usted ya realice.
 
@@ -82,8 +78,6 @@ Aquí VTEX Shopping Ads crea una nueva cuenta en Google Ads. Al seleccionar esta
 
 En ambos casos, después que el usuario seleccione una opción que se adapte mejor a la realidad de su negocio, VTEX Shopping Ads lo dirigirá a una página de *loading* para completar el proceso de configuración.
 
-<div class="alert alert-danger">
-El usuario no puede salir de la página de <em>loading</em> hasta que se completen todas las configuraciones. De lo contrario, la integración no se realizará.
-</div>
+>❗ El usuario no puede salir de la página de *loading* hasta que se completen todas las configuraciones. De lo contrario, la integración no se realizará.
 
 *__¡Listo!__ Después que VTEX Shopping Ads termine este loading, puede comenzar a usarlo y crear una campaña. ¡Vea en el siguiente paso!*

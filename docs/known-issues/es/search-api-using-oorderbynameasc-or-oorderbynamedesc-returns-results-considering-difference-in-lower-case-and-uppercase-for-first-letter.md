@@ -18,9 +18,7 @@ internalReference: 305247
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La API de búsqueda utilizando O=OrderByNameASC o O=OrderByNameDESC devuelve los resultados teniendo en cuenta la diferencia entre minúsculas y mayúsculas de la primera letra

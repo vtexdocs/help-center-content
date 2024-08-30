@@ -1,5 +1,5 @@
 ---
-title: 'Empower your customers with the new "Reviews and Ratings" app'
+title: "Empower your customers with the new 'Reviews and Ratings' app"
 id: 3hIYH0F9hNa1058hGWtb6b
 status: PUBLISHED
 createdAt: 2020-12-07T18:49:04.152Z

@@ -3,8 +3,8 @@ title: 'La validación de la API de actualización y creación de archivos adjun
 id: 1NAwwi7C65xM2G61uaTLrB
 status: PUBLISHED
 createdAt: 2023-02-09T16:10:03.814Z
-updatedAt: 2023-02-09T16:10:04.449Z
-publishedAt: 2023-02-09T16:10:04.449Z
+updatedAt: 2024-07-01T18:48:48.654Z
+publishedAt: 2024-07-01T18:48:48.654Z
 firstPublishedAt: 2023-02-09T16:10:04.449Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-validacion-de-la-api-de-actualizacion-y-creacion-de-archivos-adjuntos-en-el-campo-domainvalues-no-funciona
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 751091
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 A través de la interfaz de usuario (directamente en VTEX admin) es posible crear un archivo adjunto sin el campo **Valores permitidos** lleno:

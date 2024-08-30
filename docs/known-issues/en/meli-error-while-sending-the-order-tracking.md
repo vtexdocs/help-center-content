@@ -3,8 +3,8 @@ title: 'MELI error while sending the order tracking'
 id: 4wdzb5xjelAkFnbuRCFXAt
 status: PUBLISHED
 createdAt: 2023-03-06T10:06:58.255Z
-updatedAt: 2023-03-06T10:06:59.162Z
-publishedAt: 2023-03-06T10:06:59.162Z
+updatedAt: 2023-10-20T17:28:38.314Z
+publishedAt: 2023-10-20T17:28:38.314Z
 firstPublishedAt: 2023-03-06T10:06:59.162Z
 contentType: knownIssue
 productTeam: Connections
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: meli-error-while-sending-the-order-tracking
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 764885
 ---
 

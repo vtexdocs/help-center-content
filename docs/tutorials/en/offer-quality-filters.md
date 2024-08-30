@@ -1,10 +1,10 @@
 ---
 title: 'Offer Quality Filters'
 id: 4xm0gi8leCyxHj8YdgHSJH
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-02-27T12:15:26.682Z
-updatedAt: 2023-05-30T21:12:51.762Z
-publishedAt: 2023-02-28T13:45:44.808Z
+updatedAt: 2024-06-20T21:38:38.621Z
+publishedAt: 2024-06-20T21:38:38.621Z
 firstPublishedAt: 2023-02-27T19:32:00.584Z
 contentType: tutorial
 productTeam: Channels
@@ -12,7 +12,7 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slug: offer-quality-filters
 locale: en
 legacySlug: offer-quality-filters
-subcategory: 4hU8QWlzhxWg711Kz7Gmib
+subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
 [Marketplaces](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace) need to review and approve offers submitted by sellers to add products to the catalog. In the VTEX Admin, this [cataloging process](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) is done through the Received SKUs page.
@@ -59,9 +59,7 @@ To view the rules that are already active by default, on the Offer quality filte
 - Ref ID has a maximum character limit of 50. 
 - EAN has a maximum character limit of 50. 
 
-<div class="alert alert-info">
-You can configure VTEX Matcher's auto-approval of offers via <a href="https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig">Save Account's Approval Settings</a> REST API calls. These are different criteria than the ones available on the Offer Quality filters page and apply to the automatic approval of offers from specific sellers.
-</div>
+>ℹ️ You can configure VTEX Matcher's auto-approval of offers via [Save Account's Approval Settings](https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig) REST API calls. These are different criteria than the ones available on the Offer Quality filters page and apply to the automatic approval of offers from specific sellers.
 
 ## Creating requirement groups
 
@@ -83,9 +81,7 @@ Create requirement groups to set rules that apply to sellers, categories, or mar
 
 You can create mandatory and/or optional requirements. Learn more about the implications of each requirement in [Cataloging offers with requirements](#cataloging-offers-with-requirements).
 
-<div class="alert alert-info">
-Notice that each requirement group holds only one value. Therefore, you need to create another requirement group to add more than one value. For example, if the marketplace wants to add the words "Shirts" and "T-shirts" as mandatory requirements for the Seller brand field, you need to create a requirement group for "Shirts" and another one for "T-shirts".
-</div>
+>ℹ️ Notice that each requirement group holds only one value. Therefore, you need to create another requirement group to add more than one value. For example, if the marketplace wants to add the words "Shirts" and "T-shirts" as mandatory requirements for the Seller brand field, you need to create a requirement group for "Shirts" and another one for "T-shirts".
 
 Follow the steps below to create a new requirement group:
 

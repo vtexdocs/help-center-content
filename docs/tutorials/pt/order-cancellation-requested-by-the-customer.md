@@ -3,8 +3,8 @@ title: 'Cancelamento de pedido solicitado pelo cliente'
 id: 3wEI6DUNtecooG2Ki4Akqo
 status: PUBLISHED
 createdAt: 2019-01-24T21:42:57.276Z
-updatedAt: 2023-04-28T00:40:54.949Z
-publishedAt: 2023-04-28T00:40:54.949Z
+updatedAt: 2024-04-01T15:51:58.098Z
+publishedAt: 2024-04-01T15:51:58.098Z
 firstPublishedAt: 2019-01-24T21:42:57.707Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -17,9 +17,9 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 Existem cenários em que os clientes podem solicitar o cancelamento de um pedido. Pode ser o [cancelamento automático no período](https://help.vtex.com/pt/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo#cancelamento-no-prazo-de-carencia) de **carência para cancelamento,** ou, depois desse período, o [cancelamento aprovado pelo lojista](https://help.vtex.com/pt/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo#cancelamento-aprovado-pelo-lojista).
 
-<div class="alert alert-danger">
-Uma vez que o pedido é cancelado, não é mais possível alterar o status do pedido.
-</div>
+>❗ Uma vez que o pedido é cancelado, não é mais possível alterar o status do pedido.
+
+>⚠️ Não é possível [cancelar pedidos](https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 ## Cancelamento no prazo de carência
 
@@ -27,9 +27,7 @@ Ocorre quando o cliente solicita cancelamento no [tempo carência](https://help.
 
 * Essa ação é feita pelo cliente em __Meus pedidos__, ao clicar em `Solicitar cancelamento do pedido`.
 
-<div class = "alert alert-info">
-Quando o cliente solicita o cancelamento do pedido durante o prazo de carência, a notificação desta ação é enviada somente para o usuário com <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">perfil de acesso</a> de Titular da conta (usuário master).
-</div>
+>ℹ️ Quando o cliente solicita o cancelamento do pedido durante o prazo de carência, a notificação desta ação é enviada somente para o usuário com [perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) de Titular da conta (usuário master).
 
 ## Cancelamento aprovado pelo lojista
 
@@ -42,9 +40,7 @@ O lojista deve aprovar ou rejeitar o pedido de cancelamento. Se o lojista não a
 
 Mesmo se o cancelamento solicitado pelo cliente for negado pelo lojista utilizando o [VTEX DO](https://help.vtex.com/pt/tutorial/vtex-do--7KMbRL4OslN8DTX9oiuCiu), é necessário que o lojista prossiga com o [faturamento](https://help.vtex.com/pt/tutorial/faturar-um-pedido--7p1h852V5t54KyscpgxE2v) do pedido, sendo isso que realmente faz o pedido seguir o seu fluxo.
 
-<div class="alert alert-warning">
-Se a funcionalidade <a href="https://help.vtex.com/pt/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8#ativacao-da-funcionalidade">Substituição de Pedidos</a> estiver ativada, os pedidos poderão ser alterados ou cancelados a qualquer momento, inclusive após o período de carência para cancelamento.
-</div>
+>⚠️ Se a funcionalidade [Substituição de Pedidos](https://help.vtex.com/pt/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8#ativacao-da-funcionalidade) estiver ativada, os pedidos poderão ser alterados ou cancelados a qualquer momento, inclusive após o período de carência para cancelamento.
 
 ## Motivo do cancelamento
 

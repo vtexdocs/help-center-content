@@ -18,9 +18,7 @@ internalReference: 566393
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o idioma do sistema operacional é o espanhol (Peru), a exportação dos valores dos anexos da SKU gera uma planilha com as colunas "Valor" e "Custo" incorretamente preenchidas

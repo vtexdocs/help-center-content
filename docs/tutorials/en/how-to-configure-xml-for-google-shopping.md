@@ -15,13 +15,9 @@ legacySlug: how-to-configure-xml-for-google-shopping
 subcategory: 2OCA7SVfWoMSiAi0GEGwKo
 ---
 
-<div class = "alert alert-info">
-  <p>We have developed a new type of integration with Google Shopping via API, which allows real-time tracking. Learn more at <a href="https://help.vtex.com/en/tracks/integrating-with-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/2kGKxwD9HKJvTLDTikQ4zG">Integrating with Google Shopping</a>.</p>
-</div>
+>ℹ️ We have developed a new type of integration with Google Shopping via API, which allows real-time tracking. Learn more at [Integrating with Google Shopping](https://help.vtex.com/en/tracks/integrating-with-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/2kGKxwD9HKJvTLDTikQ4zG).
 
-<div class = "alert alert-warning">
-  <p>This article refers to the May 22, 2013 Google Shopping spec template. Google modifies and updates this template without previous warning. Always check if our explanation remains up-to-date according to the <a href="https://support.google.com/merchants/answer/188494?hl=en-US">Google Shopping documentation</a>.</p>
-</div>
+>⚠️ This article refers to the May 22, 2013 Google Shopping spec template. Google modifies and updates this template without previous warning. Always check if our explanation remains up-to-date according to the [Google Shopping documentation](https://support.google.com/merchants/answer/188494?hl=en-US).
 
 You can set up Google Shopping via VTEX Admin by following the steps below:
 
@@ -37,8 +33,6 @@ You can set up Google Shopping via VTEX Admin by following the steps below:
   The URL to access the XML will be generated automatically.
 9. Save this XML to a .txt file and send the file to Google.
 
-![](//images.contentful.com/alneenqid6w5/3boyluRWTYA4C0s4qkSG2I/28be460a5f8a6340f0b389fe5000b27c/2.png)
+![](https://images.contentful.com/alneenqid6w5/3boyluRWTYA4C0s4qkSG2I/28be460a5f8a6340f0b389fe5000b27c/2.png)
 
-<div class = "alert alert-warning">
-  <p>If the option <strong>Show unavailable SKUs</strong> is unchecked, out-of-stock products or SKUs will not be shown in the XML. Inactive products also do not appear in the XML.</p>
-</div>
+>⚠️ If the option **Show unavailable SKUs** is unchecked, out-of-stock products or SKUs will not be shown in the XML. Inactive products also do not appear in the XML.

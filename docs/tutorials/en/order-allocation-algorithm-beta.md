@@ -1,10 +1,10 @@
 ---
 title: 'Order Allocation Algorithm (Beta)'
 id: 1zLCAyEdnVe3EsE9Kz88xA
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-07-12T23:39:25.008Z
-updatedAt: 2023-03-21T17:27:34.101Z
-publishedAt: 2023-03-21T17:27:34.101Z
+updatedAt: 2023-08-14T17:29:11.705Z
+publishedAt: 
 firstPublishedAt: 2022-07-12T23:51:23.186Z
 contentType: tutorial
 productTeam: Others
@@ -15,9 +15,7 @@ legacySlug: order-allocation-algorithm-beta
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-<p>This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.</p>
-</div>
+>ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.
 
 **Order Allocation Algorithm** is the VTEX platform algorithm that aims to select the seller that will ship orders at the lowest cost given by their configured [carrier's shipping rate templates](https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE).
 
@@ -33,9 +31,7 @@ The **Order Allocation Algorithm** works differently for pickup and delivery shi
 | 6. For each applicable shipping option, the algorithm calculates the rate that will be displayed to the consumer at checkout according to the pricing rule set in the shipping option. | 6. The algorithm calculates the rate that will be displayed to the consumer at checkout, according to the pricing rule configured in the shipping option. |
 | 7. At checkout, the shipping options selected are displayed to the consumer, with the estimated time and delivery cost. | 7. At checkout, all the pickup points that cover the items in the cart are displayed to the consumer. |
 
-<div class = "alert alert-info">
-The priority criterion of the <a href="https://help.vtex.com/en/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa">current algorithm</a> is to find the lowest package split of the order. The <b>Order Allocation Algorithm</b> main criterion is to seek the lowest shipping cost for the retailer.
-</div>
+>ℹ️ The priority criterion of the [current algorithm](https://help.vtex.com/en/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) is to find the lowest package split of the order. The **Order Allocation Algorithm** main criterion is to seek the lowest shipping cost for the retailer.
 
 The next sections give details on how the algorithm works and are divided in:
 
@@ -76,8 +72,6 @@ When analyzing fulfillment point combinations, the algorithm considers:
 
 Through the shipping policy, the **Order Allocation Algorithm** simulates the combinations of fulfillment points seeking to meet the order at the lowest cost to the retailer. The process is done by querying the [shipping rate template](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127) and analyzing the [carrier](https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) costs.
 
-<div class = "alert alert-info">
-In the <a href="https://help.vtex.com/en/tutorial/selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa">current algorithm</a>, the retailer often sets up the <a href="https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127">shipping rate template</a> with the values they want to display to the customer at checkout rather than the real carrier cost. With the Order Allocation Algorithm, the retailer does not need to consider how the cost in the shipping rate template reflects on the shopping experience, as the <a href="https://help.vtex.com/en/tutorial/shipping-options-beta--7gsdck3519Z3VPqzwFFHJL">shipping option</a> configuration determines it. In addition, the Order Allocation Algorithm becomes more accurate by referencing the real carrier cost.
-</div>
+>ℹ️ In the [current algorithm](https://help.vtex.com/en/tutorial/selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa), the retailer often sets up the [shipping rate template](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127) with the values they want to display to the customer at checkout rather than the real carrier cost. With the Order Allocation Algorithm, the retailer does not need to consider how the cost in the shipping rate template reflects on the shopping experience, as the [shipping option](https://help.vtex.com/en/tutorial/shipping-options-beta--7gsdck3519Z3VPqzwFFHJL) configuration determines it. In addition, the Order Allocation Algorithm becomes more accurate by referencing the real carrier cost.
 
 After analyzing the possible simulations, the **Order Allocation Algorithm** determines for each shipping option possible fulfillment point combinations. At checkout, the customer gets all the shipping options with at least one valid combination of fulfillment points available for the order.

@@ -19,9 +19,7 @@ Our development team is constantly striving towards improving API performance, b
 
 By updating you on the latest developments, we suggest that you already start the process of updating your store's integrations and customizations, with an eye on the latest solutions offered by our system. 
 
-<div class="alert alert-warning">
-The layout of the current Checkout API continues to function normally, however, it is imperative to start implementing the improvements described below. Even though no official launch date for the new Checkout API has been set yet, we can confirm that the features described below will be discontinued.
-</div>
+>⚠️ The layout of the current Checkout API continues to function normally, however, it is imperative to start implementing the improvements described below. Even though no official launch date for the new Checkout API has been set yet, we can confirm that the features described below will be discontinued.
 
 ## Cart and order address
 

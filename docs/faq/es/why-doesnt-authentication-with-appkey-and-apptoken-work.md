@@ -24,9 +24,7 @@ Cada par de appKey y appToken, cuando se crea, no está vinculado a un perfil de
 
 Uno de los motivos de error en la autenticación puede ser la falta de asociación de las claves creadas a un perfil de acceso. Otro posible error es la vinculación del appKey y appToken a un perfil que, aunque esté registrado, no tiene acceso para ejercer determinada acción en la plataforma.
 
-<div class="alert alert-info">
-Apenas el <a href="https://help.vtex.com/es/tutorial/que-es-el-usuario-master--3oPr7YuIkEYqUGmEqIMSEy">usuario Titular</a> tiene permiso para manipular las claves; es decir, crear la appKey y el appToken usados en integraciones con la tienda.
-</div>
+>ℹ️ Apenas el [usuario Titular](https://help.vtex.com/es/tutorial/que-es-el-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) tiene permiso para manipular las claves; es decir, crear la appKey y el appToken usados en integraciones con la tienda.
 
 ## Error de digitación
 
@@ -34,7 +32,5 @@ Ambas claves deben ser rellenadas en sus respectivos campos, sin espacio y mante
 
 Puede verificar posibles errores de digitación en los campos en el módulo __Gestión de cuenta__, en __[Usuarios__](https://help.vtex.com/es/tutorial/administrar-usuarios--tutorials_512)__. 
 
-<div class="alert alert-warning">
-El appToken se muestra al usuario apenas en el momento de su creación, no pudiendo recuperarse posteriormente.
-</div>
+>⚠️ El appToken se muestra al usuario apenas en el momento de su creación, no pudiendo recuperarse posteriormente.
 

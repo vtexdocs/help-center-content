@@ -3,8 +3,8 @@ title: 'Componente cajón no funciona cuando se implementa en el producto-resume
 id: 75145kfQE8swAef57Yr4Aj
 status: PUBLISHED
 createdAt: 2023-05-29T13:22:57.856Z
-updatedAt: 2023-05-29T13:22:58.422Z
-publishedAt: 2023-05-29T13:22:58.422Z
+updatedAt: 2024-02-19T18:51:53.024Z
+publishedAt: 2024-02-19T18:51:53.024Z
 firstPublishedAt: 2023-05-29T13:22:58.422Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -18,9 +18,7 @@ internalReference: 833338
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el componente "drawer" se implementa en "product-summary", hace que la página se recargue después de la página 3 en iOS, y puede que se muestre un mensaje de error.

@@ -3,8 +3,8 @@ title: 'Promotion List'
 id: 4yB7nNdliiFxBTXE19GCIi
 status: PUBLISHED
 createdAt: 2022-05-05T13:39:53.273Z
-updatedAt: 2023-03-02T15:34:23.200Z
-publishedAt: 2023-03-02T15:34:23.200Z
+updatedAt: 2023-07-24T13:34:09.177Z
+publishedAt: 2023-07-24T13:34:09.177Z
 firstPublishedAt: 2022-05-05T13:52:17.590Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

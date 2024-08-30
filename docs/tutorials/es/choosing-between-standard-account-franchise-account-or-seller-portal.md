@@ -3,8 +3,8 @@ title: 'Elegir entre cuenta estándar, cuenta franquicia o Seller Portal'
 id: 4S90HzzhMyZESsHqrnUs78
 status: PUBLISHED
 createdAt: 2022-04-20T14:15:50.164Z
-updatedAt: 2022-06-22T21:39:18.954Z
-publishedAt: 2022-06-22T21:39:18.954Z
+updatedAt: 2023-11-22T14:09:05.122Z
+publishedAt: 2023-11-22T14:09:05.122Z
 firstPublishedAt: 2022-04-27T21:42:35.010Z
 contentType: tutorial
 productTeam: Channels
@@ -23,15 +23,15 @@ En VTEX, existen tres tipos de cuenta, y cada una permite actuar con un perfil d
 - **Cuenta franquicia:** en el momento en que se crea, se asocia a una cuenta estándar, de la cual hereda el catálogo. La [cuenta franquicia](https://help.vtex.com/es/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) puede configurar su propia logística, pagos y precios, y tiene los módulos de la plataforma VTEX en forma parcial, además de un [seller white label](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa).
 - **Seller Portal:** el [Seller Portal](https://help.vtex.com/es/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) es una edición de la plataforma VTEX que les permite a los _sellers_ conectarse y vender productos en _marketplaces_ del ecosistema VTEX, independientemente de si el _seller_ ya tiene una cuenta en VTEX o no. El Seller Portal brinda acceso parcial a los módulos de la plataforma, y el _seller_ puede ser normal o [white label](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa).
 
+>⚠️ El límite para cada cuenta en el Seller Portal es de 100 mil productos. Para obtener más información, póngase en contacto con <a href="https://support.vtex.com/hc/pt-br/requests">nuestro equipo de soporte.
+
 La tabla que figura a continuación muestra los principales escenarios de uso de cada tipo de cuenta:
 
 | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
 | ---------- | ---------- | ---------- |
 | Se sugiere usar el [Seller Portal](https://help.vtex.com/es/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) cuando el marketplace VTEX quiere conectarse a un seller externo que no tiene una cuenta en VTEX. Esta funcionalidad permite [compartir productos](https://help.vtex.com/es/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) del marketplace VTEX con el seller, lo cual disminuye las discrepancias y simplifica la gestión de la operación. Cada entorno del Seller Portal que se crea integra al seller con un único marketplace VTEX. | Se sugiere la cuenta estándar para las tiendas que quieren realizar su operación de ecommerce de manera completa, mediante el uso de estrategias de [comercio unificado](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). La cuenta estándar puede funcionar como seller VTEX, marketplace VTEX y conectarse con varios marketplaces y [conectores nativos](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex). | La cuenta franquicia es estratégica para las operaciones que desean expandir sus ventas con la integración de tiendas físicas, ya que existe la posibilidad de heredar el catálogo de una cuenta estándar. Los franquiciados y representantes de la marca son quienes suelen adoptar la cuenta franquicia. |
 
-<div class = "alert alert-info">
-El modelo y los objetivos de tu negocio definirán cuál es tu mejor opción para operar en el ecosistema VTEX. Obtén más información en <a href="https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402">Estrategias de marketplace en VTEX</a>.
-</div>
+>ℹ️ El modelo y los objetivos de tu negocio definirán cuál es tu mejor opción para operar en el ecosistema VTEX. Obtén más información en [Estrategias de marketplace en VTEX](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402).
 
 A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la cuenta estándar y la cuenta franquicia se relacionan con los módulos y las funcionalidades de la plataforma VTEX:
 
@@ -61,7 +61,7 @@ A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la
 | **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
 |---------- | ---------- | ---------- | ---------- |
 | Heredar precio de otra cuenta | Cuando el _marketplace_ VTEX [invita](https://help.vtex.com/es/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A) al _seller_ al Seller Portal a través de la opción [Seller White Label](https://help.vtex.com/es/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa), los productos del _seller_ heredan los precios del _marketplace_. Sin embargo, el _seller_ puede editar los precios. | La cuenta estándar no hereda precios de otra cuenta. Es necesario registrarlos en su propio entorno. | La cuenta franquicia puede heredar precios de la cuenta principal. |
-| El _marketplace_ VTEX puede sobreescribir precios del _seller_ | No, el _marketplace_ VTEX solo puede definir reglas comerciales para el _seller_. | Sí. | No, el _marketplace_ VTEX solo puede definir reglas comerciales para la cuenta franquicia. |
+| El _marketplace_ VTEX puede sobreescribir precios del _seller_ | Si el seller creado a través de una invitación es un seller común, su precio puede sobreescribirse, lo que no es posible si se trata de un seller white label. | Sí. | No, el _marketplace_ VTEX solo puede definir reglas comerciales para la cuenta franquicia. |
 | Tiene [Manual Pricing](https://help.vtex.com/es/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS#ingresar-precio-manual) | Sí. | Sí. | Sí. |
 
 ## Promociones

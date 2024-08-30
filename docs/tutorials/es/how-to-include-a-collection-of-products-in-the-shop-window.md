@@ -15,9 +15,7 @@ legacySlug: como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-warning">
-  <p><b>Atención:</b> existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a <a href = "https://help.vtex.com/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.</p>
-</div>
+>⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a <a href = "https://help.vtex.com/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.
 
 Las vitrinas se usan en el destaque de productos en diversas páginas. Se pueden usar también para recomendaciones, en la página del producto.
 
@@ -72,7 +70,7 @@ Después de la configuración, marque **Active Content** y agregue a la lista de
 
 En el ejemplo abajo tenemos una vitrina estándar, sin condiciones de exhibición y otra exclusiva para las visitas originadas de las audiencias de campañas patrocinadas de Google (utm_source=**google**/utm_medium=**cpc**):
 
-![coleção9](https://images.ctfassets.net/alneenqid6w5/5IoPfaWgUwUsGUuCAmYS6q/ded32f70db90ffb4f3fffd740b35381b/cole____o9.png)![](//images.contentful.com/alneenqid6w5/28YV17bwwUyca6YyMo2Ckk/6d3d464c50b000d4a88c4132881d6236/exemplo_cpc-560x269.png)
+![coleção9](https://images.ctfassets.net/alneenqid6w5/5IoPfaWgUwUsGUuCAmYS6q/ded32f70db90ffb4f3fffd740b35381b/cole____o9.png)![](https://images.contentful.com/alneenqid6w5/28YV17bwwUyca6YyMo2Ckk/6d3d464c50b000d4a88c4132881d6236/exemplo_cpc-560x269.png)
 
 En el escenario arriba, si el cliente tiene origen en la audiencia de campaña patrocinada se exhibirán en la vitrina **Lançamentos**, ubicada en la Home, los productos que corresponden al resultado de una búsqueda por la Marca de ID 200000, en caso contrario, se exhibirán los productos de la colección de ID 8.
 

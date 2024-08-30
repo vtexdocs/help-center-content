@@ -1,5 +1,5 @@
 ---
-title: 'Insertar imágenes en el email de "Avisame"'
+title: "Insertar imágenes en el email de 'Avisame'"
 id: 3soCXGcE3XBPsnPhxJh2DY
 status: PUBLISHED
 createdAt: 2019-02-21T19:52:16.679Z
@@ -32,7 +32,7 @@ A continuación, explicamos cómo realizar esta configuración:
 5. Acceda a la caja de __HTML__.      
 6. Introduzca el código de las imágenes que desea insertar.  
 
-  ![Let me know - ES](https:https://images.ctfassets.net/alneenqid6w5/57IqVpUH7SZKkH8sRtlfSf/382e43e26ff37191c644e03babfd02cd/57IqVpUH7SZKkH8sRtlfSf_Imagem_Message_Center_ES.jpg)
+  ![Let me know - ES](https://images.ctfassets.net/alneenqid6w5/57IqVpUH7SZKkH8sRtlfSf/382e43e26ff37191c644e03babfd02cd/57IqVpUH7SZKkH8sRtlfSf_Imagem_Message_Center_ES.jpg)
 
 7. Haga clic en `Guardar`.  
 

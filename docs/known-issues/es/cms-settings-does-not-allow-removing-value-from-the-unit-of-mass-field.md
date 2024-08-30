@@ -3,8 +3,8 @@ title: 'La configuración del CMS no permite eliminar el valor del campo Unidad 
 id: QVmSN1VuGQUiklZDkarEI
 status: PUBLISHED
 createdAt: 2022-03-11T13:49:28.490Z
-updatedAt: 2022-11-25T22:11:28.148Z
-publishedAt: 2022-11-25T22:11:28.148Z
+updatedAt: 2024-02-16T20:28:41.042Z
+publishedAt: 2024-02-16T20:28:41.042Z
 firstPublishedAt: 2022-03-11T13:49:28.850Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-configuracion-del-cms-no-permite-eliminar-el-valor-del-campo-unidad-de-masa
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 540756
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, cuando se introduce un valor en el campo Unidad de masa en los ajustes del CMS, el sistema no permite eliminar el valor por UI

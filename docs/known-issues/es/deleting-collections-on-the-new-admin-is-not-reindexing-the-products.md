@@ -18,9 +18,7 @@ internalReference: 490740
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, si tiene una colección creada por completo en la administración de Colecciones nuevas/antiguas (CMS), al eliminarla a través de la interfaz de usuario no se reindexan los productos que contiene, por lo que no se eliminan efectivamente de la colección.

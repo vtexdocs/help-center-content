@@ -1,10 +1,10 @@
 ---
 title: 'Creating Collections (Beta)'
 id: yJBHqNMViOAnnnq4fyOye
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-08-17T20:29:25.500Z
-updatedAt: 2023-03-29T14:50:46.438Z
-publishedAt: 2023-03-29T14:50:46.438Z
+updatedAt: 2024-03-04T20:48:30.215Z
+publishedAt: 2024-02-22T12:15:26.041Z
 firstPublishedAt: 2020-08-27T15:16:59.673Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -47,9 +47,7 @@ Follow the step by step below to add a new collection:
 5. Click on `Create` to update the information filled in the form.
 6. Then, [select the products](https://help.vtex.com/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#products-selection) that will be part of the collection.
 
-<div class = "alert alert-info">
-  <p>Note that the collections created in this module are not automatically changed. Automatic collections - made by applying filters - cannot be configured in the module.</p>
-</div>
+>ℹ️ Note that the collections created in this module are not automatically changed. Automatic collections - made by applying filters - cannot be configured in the module.
 
 ### Collection data fields
 
@@ -111,6 +109,8 @@ If you want to add in bulk, apply one of the filters and click on the `Add All` 
 </div>
 
 #### By spreadsheet
+
+>ℹ️ The maximum limit for import and export is 10,000 SKUs per operation.
 
 You can also add items to a collection using a spreadsheet by following the steps below:
 

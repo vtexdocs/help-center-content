@@ -1,10 +1,10 @@
 ---
 title: 'Setting up payments with Koin'
 id: 415vLlrVSUgeYYwycCaGiQ
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-24T19:48:39.401Z
-updatedAt: 2023-03-29T00:51:56.272Z
-publishedAt: 2023-03-29T00:51:56.272Z
+updatedAt: 2024-03-18T18:30:25.798Z
+publishedAt: 
 firstPublishedAt: 2018-04-24T21:17:23.835Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,8 @@ locale: en
 legacySlug: setting-up-payments-with-koin
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+>❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
 
 You can set up Koin to receive payments at your store. Through it, your customer chooses the Koin Post-pay payment method to make the purchase.
 

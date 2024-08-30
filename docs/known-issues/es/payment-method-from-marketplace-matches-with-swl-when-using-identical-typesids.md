@@ -3,8 +3,8 @@ title: 'El método de pago de Marketplace coincide con el de SWL cuando se utili
 id: 4AHyl5z7ySagx6Myx0KqM7
 status: PUBLISHED
 createdAt: 2022-03-15T22:06:35.540Z
-updatedAt: 2022-11-25T22:12:10.257Z
-publishedAt: 2022-11-25T22:12:10.257Z
+updatedAt: 2024-02-16T20:29:19.824Z
+publishedAt: 2024-02-16T20:29:19.824Z
 firstPublishedAt: 2022-03-15T22:06:36.030Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: el-metodo-de-pago-de-marketplace-coincide-con-el-de-swl-cuando-se-utilizan-tipos-identicosids
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 402140
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, la configuración del método de pago, en el producto de las promociones, no está previsto que se transmita a través de la solicitud/respuesta de cumplimiento.

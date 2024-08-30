@@ -3,8 +3,8 @@ title: 'Konduto AF no puede completar una solicitud cuando falta el accountId.'
 id: CGHZoCfr01ATsbtiLU9ym
 status: PUBLISHED
 createdAt: 2022-03-03T22:09:57.638Z
-updatedAt: 2022-11-25T22:05:52.845Z
-publishedAt: 2022-11-25T22:05:52.845Z
+updatedAt: 2023-06-20T17:54:26.840Z
+publishedAt: 2023-06-20T17:54:26.840Z
 firstPublishedAt: 2022-03-03T22:09:58.094Z
 contentType: knownIssue
 productTeam: Payments
@@ -18,27 +18,30 @@ internalReference: 496298
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
-
-Algunas transacciones no pueden ser terminadas porque el antifraude de Konduto no hace la solicitud adecuada porque falta el accountId utilizado para obtener la información de pago de la tabla de la base de datos de cuentas. Esto se puede validar mirando la ruta /payment donde el nodo "usedAccountId" es falso en este caso.
+Existe un problema para aprobar algunas transacciones que está relacionado con el sistema antifraude Konduto. Este problema surge cuando el sistema no puede realizar la petición necesaria debido a la ausencia del accountId, que es necesario para recuperar la información del pago de la base de datos de cuentas. Puede comprobarlo examinando la ruta "/payment", donde encontrará el nodo "usedAccountId" con valor "False" en estos casos.
 
 **{**"name": "usedAccountId", "value": "False "**}**
+
+Además, este problema suele observarse cuando un usuario elimina su propia tarjeta de la página MiCuenta inmediatamente después de realizar un pedido.
 
 
 
 ## Simulación
 
 
-Este error no se puede reproducir en este momento, se produce de forma intermitente.
+Siga el paso anterior, que consiste en eliminar una tarjeta inmediatamente después de realizar un pedido utilizando Konduto Antifraude.
 
 
 
 ## Workaround
 
 
-No hay ninguna solución disponible.
+N/A
+
+
+
+
 

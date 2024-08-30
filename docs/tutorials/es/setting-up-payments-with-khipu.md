@@ -3,8 +3,8 @@ title: 'Configurar pago con Khipu'
 id: RcHQjURWDXa0doL15DiUj
 status: PUBLISHED
 createdAt: 2023-03-24T19:34:06.675Z
-updatedAt: 2023-03-30T14:08:54.819Z
-publishedAt: 2023-03-30T14:08:54.819Z
+updatedAt: 2024-01-24T17:53:53.676Z
+publishedAt: 2024-01-24T17:53:53.676Z
 firstPublishedAt: 2023-03-30T14:08:54.819Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pago-con-khipu
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible la integración con el proveedor de pagos Khipu. Con este conector, tu tienda puede realizar ventas a través de pagarés.
+En VTEX es posible la integración con el proveedor de pagos Khipu. Con este proveedor, tu tienda puede realizar ventas a través de pagarés.
 
-Para configurar la afiliación Khipu, siga los pasos a continuación:
+Para configurar Khipu, siga los pasos a continuación:
 
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. En la pestana __Afiliaciones de Gateway__, haga clic en el botón `+`.
-3. Haga clic en el conector __Khipu__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __Khipu__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. Rellene los campos de registro __Application Key__ y __Application Token__ con los datos proporcionados por Khipu. 
 5. En __Captura automática de pago__, seleccione una de las opciones disponibles:
 

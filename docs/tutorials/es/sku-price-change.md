@@ -3,8 +3,8 @@ title: 'Alterar precio de SKU'
 id: tutorials_95
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:48.759Z
-updatedAt: 2023-03-30T16:36:10.950Z
-publishedAt: 2023-03-30T16:36:10.950Z
+updatedAt: 2024-01-05T17:59:41.793Z
+publishedAt: 2024-01-05T17:59:41.793Z
 firstPublishedAt: 2017-04-27T23:00:42.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -45,8 +45,8 @@ Esas casillas representan las informaciones que son alteradas en cualquier una d
 
 La diferencia es que, manualmente, quien rellena visualiza ese formulario, vía importación por plantilla están dispuestos en columnas y vía integración son casillas en la estructura de request en formato JSon.
 
-- **ID:** código del SKU que accedió
-- **Sku:** nombre del SKU
+- **ID:** código del SKU que accedió.
+- **Sku:** nombre del SKU.
 - **Aliado (utm_source):** Casilla opcional. Se trata de un parámetro para condicionar una colocación de precio diferenciada, a partir del uso en el sitio web de la utm source que se catastre aquí.
 - **Audiencia de Campaña (utm_campaign):** Casilla opcional. Se trata de un parámetro para condicionar una colocación de precio diferenciada, a partir del uso en el sitio web de la utm campaign que se catastre aquí, la cual también puede ser utilizada en enlaces de mail marketing.
 - **Audiencia de Campaña interna (utmi_cp):** Casilla opcional. Se trata de un parámetro para condicionar una colocación de precio diferenciada, a partir del uso en el sitio web de la utm source que se catastre aquí. Utilizada usualmente para empleados de la tienda, cuando es el caso de tener condiciones de compra diferenciada.
@@ -68,7 +68,7 @@ Se utiliza esa herramienta usualmente para actualización de precios en masa, qu
 5. Después en el enlace __Exportar/importar valores__.
 6. Seleccione la pestaña __Exportar__ y haga clic en el botón __Exportar para Excel__. 
 7. El sistema procesará la solicitación internamente y, cuando esté listo, enviará para el correo electrónico que digite en la casilla __E-mail para notificação__. Por defecto, viene rellenado con el correo electrónico del usuario que accedió el Admin.
-8. Este paso es importante, pues garantiza que el formato de su plantilla sea el correcto y minimiza problemas en el momento de la importación;
+8. Este paso es importante, pues garantiza que el formato de su plantilla sea el correcto y minimiza problemas en el momento de la importación.
 
 Después que llegue el correo electrónico y haga la descarga, altere solamente aquellos SKUs que realmente necesitarán de actualización, los demás pueden ser excluidos de la plantilla, así la importación llevará menos tiempo y evitará reindexación desnecesaria de los productos que no se modificaron. Es importante destacar que el formato aceptado por la plataforma para importar la plantilla es el .xls. Teniendo en cuenta que no cerró la página del admin, siga los pasos abajo:
 
@@ -83,26 +83,23 @@ Después que llegue el correo electrónico y haga la descarga, altere solamente 
 
 Esas son las columnas de la plantilla que llega en el correo electrónico del usuario, cuando hace la exportación conforme mencionado en el paso a paso más arriba. Abajo está escrito exactamente como está en la plantilla. La obligatoriedad de relleno de cada columna sigue el mismo estándar de las casillas del formulario descrito en el referido tópico más arriba.
 
-- **StockKeepingUnitId:** id del SKU;
-- **Source:** utm\_source;
-- **Price:** precio de venta del producto;
-- **Id:** id del precio. No altere ese valor, sino el sistema creará una nueva línea en el cuadro de precio y quedarán dos precios catastrados para el SKU;
-- **StoreId:** id de la política comercial donde se aplicará el precio. Caso tenga duda de cuál es el código de identificación de alguna política, acceda el módulo de E-Commerce &gt; Marketplace &gt; Política Comercial. Verifique el número que aparece en la columna “Id &#8211; Nombre”, ese es el código que deberá utilizar aquí;
-- **Medium (Desconsiderar):** Casilla descontinuada;
-- **Campaign:** utm\_campaign;
-- **InternalCampaign:** utmi\_cp;
+- **StockKeepingUnitId:** id del SKU.
+- **Source:** utm\_source.
+- **Price:** precio de venta del producto.
+- **Id:** id del precio. No altere ese valor, sino el sistema creará una nueva línea en el cuadro de precio y quedarán dos precios catastrados para el SKU.
+- **StoreId:** id de la política comercial donde se aplicará el precio. Caso tenga duda de cuál es el código de identificación de alguna política, acceda el módulo de E-Commerce &gt; Marketplace &gt; Política Comercial. Verifique el número que aparece en la columna “Id &#8211; Nombre”, ese es el código que deberá utilizar aquí.
+- **Medium (Desconsiderar):** Casilla descontinuada.
+- **Campaign:** utm\_campaign.
+- **InternalCampaign:** utmi\_cp.
 - **DateFrom:** fecha del inicio de la vigencia del precio. Rellenar en el formato dd/mm/aaaa.
 - **DateTo:** fecha del final de la vigencia del precio. Rellenar en el formato dd/mm/aaaa.
-- **ListPrice:** precio de, también conocido como precio de lista. Es aquél que aparece tachado (ej.: De: R$ 10,00) en el sitio web;
-- **RefId (No alterable):** código de referencia de producto, conforme catastro del producto. No alterar ese valor;
-- **Ean13Default (No alterable):** ean del producto, conforme catastro del producto. No alterar ese valor;
-- **BrandName (No alterable):** marca del producto, conforme catastro del producto. No alterar ese valor;
-- **StockKeepingUnitName (No alterable):** nombre del SKU, conforme catastro del producto. No alterar ese valor;
+- **ListPrice:** precio de, también conocido como precio de lista. Es aquél que aparece tachado (ej.: De: R$ 10,00) en el sitio web.
+- **RefId (No alterable):** código de referencia de producto, conforme catastro del producto. No alterar ese valor.
+- **Ean13Default (No alterable):** ean del producto, conforme catastro del producto. No alterar ese valor.
+- **BrandName (No alterable):** marca del producto, conforme catastro del producto. No alterar ese valor.
+- **StockKeepingUnitName (No alterable):** nombre del SKU, conforme catastro del producto. No alterar ese valor.
 - **SellerId:** id del seller dueño del producto. Solamente vendrá rellenado caso su tienda sea marketplace de otra tienda.
 
 ## A través de la integración con ERP
 
-Se la configura normalmente en el momento de la puesta en marcha de su tienda y se debe seguir el manual de integración junto a su equipo técnico, para evitar integraciones inconsistentes o cualquier problema que pueda perjudicar la información que alimentará la plataforma. Tiene lugar la actualización de precio vía REST, a través del método POST con body en el estándar JSon.
-
-Lea la documentación de la API en nuestros Developer Docs:
-https://developers.vtex.com/reference/pricing-api-overview#listorders
+Se la configura normalmente en el momento de la puesta en marcha de su tienda y se debe seguir el manual de integración junto a su equipo técnico, para evitar integraciones inconsistentes o cualquier problema que pueda perjudicar la información que alimentará la plataforma. La actualización de precios se realiza vía API, para información acceder [API de precios](https://developers.vtex.com/docs/api-reference/pricing-api#overview).

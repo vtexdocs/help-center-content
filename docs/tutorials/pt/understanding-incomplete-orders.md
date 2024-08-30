@@ -23,9 +23,7 @@ Além disso, todos os pedidos incompletos não têm Workflow e esse é um compor
 
 Como um pedido incompleto foi interrompido, ativar um Workflow para uma situação inativa não seria funcional.
 
-<div class="alert alert-danger"> 
-É recomendado que caso haja um Pedido Incompleto, o pedido seja refeito na loja. Pedidos incompletos são utilizados apenas para registro, e a plataforma não faz novas requisições para um pedido incompleto. Assim, se um pedido está incompleto e o cliente quer dar continuidade ao pedido, ele precisa criar um novo pedido com os mesmos itens. 
-</div>
+>❗ É recomendado que caso haja um Pedido Incompleto, o pedido seja refeito na loja. Pedidos incompletos são utilizados apenas para registro, e a plataforma não faz novas requisições para um pedido incompleto. Assim, se um pedido está incompleto e o cliente quer dar continuidade ao pedido, ele precisa criar um novo pedido com os mesmos itens.
 
 Desse modo, processo segue como de costume.
 

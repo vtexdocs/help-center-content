@@ -1,10 +1,10 @@
 ---
 title: '¿Cuál es el papel de los agentes financieros en el flujo de pago de un pedido en Brasil?'
 id: 1dyPJ3gQCCO4ea2o6OMgCi
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-10-11T19:08:49.654Z
-updatedAt: 2020-11-27T19:40:35.496Z
-publishedAt: 2019-12-31T15:27:52.279Z
+updatedAt: 2024-03-18T18:55:40.724Z
+publishedAt: 2024-03-18T18:55:40.724Z
 firstPublishedAt: 2017-10-11T19:34:43.203Z
 contentType: tutorial
 productTeam: Financial
@@ -21,7 +21,7 @@ En este artículo, aclararemos los conceptos de adquirente, subadquirente, gatew
 
 ## Gateway
 
-Un gateway (también llamado gateway de pago) es un __sistema que efectúa la transmisión de los datos de las compras realizadas en su tienda en el momento del checkout__, como las empresas Braspag y Mundipagg.
+Un gateway (también llamado gateway de pago) es un __sistema que efectúa la transmisión de los datos de las compras realizadas en su tienda en el momento del checkout__.
 
 Como primer player del flujo, es responsable de enviar la información del pago recibida en el checkout a los adquirentes, banderas y [bancos emisores](https://help.vtex.com/es/tutorial/que-es-banco-emissor--7aVIVGwgtU4SWuqowSQksg) para, entonces, obtener una respuesta sobre la continuación del flujo de compra o de su cancelación. En otras palabras, el gateway envía los datos de pago y recibe respuestas para que usted sepa si una determinada compra debe o no ser confirmada, es decir, si el pago ha sido aprobado o no. 
 
@@ -29,17 +29,16 @@ Como agentes intermediarios entre un  e-commerce y sus medios de pago, los gatew
 
 Activando los [conectores](https://help.vtex.com/es/tutorial/que-es-el-conector--3lze0Cu0bmyC6u2o2iaeEA "¿Qué es el conector?") y registrando [afiliaciones de  gateway](https://help.vtex.com/es/tutorial/afiliaciones-de-gateway--tutorials_444 " Registrar afiliaciones de gateway"), los datos de las compras de sus clientes podrán ser enviados a los adquirentes u otros gateways y, así, seguir el flujo de aprobación en las instituciones financieras.
 
-
 La plataforma VTEX tiene un gateway propio con certificación [PCI](https://help.vtex.com/es/tutorial/que-es-el-pci-ssc--4jo3Vkox3amSO2w4qIWa0E "Qué es el PCI SSC"), lo que significa que los datos de todos los pagos realizados en su tienda están protegidos de acuerdo con los más altos estándares de seguridad.
 
 ## Adquirente
 
 Un adquirente (también llamado de acreditador) __es una empresa especializada en procesar pagos__. A través de su red de socios acreditados (o red de adquirencia), permite que una tienda ofrezca diversas condiciones de pago a sus clientes.
- 
+
 El adquirente recibe la información del pago, la procesa y la transmite a la [bandera](https://help.vtex.com/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito?locale=es "¿Qué es una bandera de tarjeta de crédito?") (cuando el medio de pago es tarjeta de crédito) y al [banco emisor](https://help.vtex.com/es/tutorial/que-es-el-banco-emisor?locale=es "¿Qué es el Banco Emisor?"). Son ejemplos de adquirente empresas como: Rede, Cielo, Elavon, GetNet y Stone. 
- 
+
 Para que su tienda VTEX pueda recibir pagos, usted necesita habilitar su comunicación con un adquirente. Esto se realiza a través de un [gateway](https://help.vtex.com/es/tutorial/que-es-un-gateway-de-pagos?locale=es "¿Qué es un gateway de pagos?"), que debe configurarse para procesar las [condiciones de pago deseadas](https://help.vtex.com/es/tutorial/condiciones-de-pago?locale=es "Configurar condiciones de pago"). Así, las compras pueden seguir el flujo de aprobación normalmente.
- 
+
 Cuando todo está en orden y una compra es autorizada por los otros players, el adquirente es responsable de transferir los valores (cobrados del cliente por el banco emisor) a la cuenta de su tienda.
 
 ## Subadquirente
@@ -57,23 +56,20 @@ Banderas son empresas responsables de definir las reglas de negocio para compras
 Las banderas mantienen una relación cercana con los adquirentes para garantizar la aceptación de sus tarjetas de crédito en los establecimientos. Así, estas promueven su uso y amplían la base de usuarios.
 
 En el [flujo de pago por tarjeta de crédito](https://help.vtex.com/es/tutorial/tarjeta-de-credito-flujo-basico-de-un-pago "Tarjeta de crédito - Flujo básico de un pago"), la bandera recibe del adquirente la información de la compra realizada en su tienda. Entonces, valida las condiciones (como el número de cuotas) y envía los datos al [banco emisor](https://help.vtex.com/es/tutorial/que-es-el-banco-emisor?locale=es "¿Qué es el Banco Emisor?"), que comprueba si el comprador tiene límite disponible. De esta forma, la bandera sirve tanto para regular el uso de la tarjeta como para servir de puente entre la adquirente y el banco del consumidor. 
- 
 
 ## Banco Emisor
 
 El Banco Emisor es la institución financiera responsable de los medios de pago, ya sean boletos bancarios, tarjetas de débito o de crédito. Es este quien, al recibir los datos de una compra hecha en su tienda, va a autorizar o no la venta (dependiendo del límite de crédito o del dinero disponible en la cuenta del usuario). Con todo correcto, el banco efectúa el cobro del valor
- 
-Este concepto es importante porque le permite configurar [condiciones especiales](https://help.vtex.com/es/tutorial/condiciones-especiales?locale=es "Configurar condiciones especiales de pago") para pagos realizados a través de bancos específicos. Además, en el caso de los boletos registrados, cada banco tiene su propia forma de emisión. Y, para hacer esta configuración, usted necesita saber cómo es el proceso del banco emisor elegido y seguir las instrucciones de [este artículo](https://help.vtex.com/es/tutorial/como-configurar-boleto-registrado?locale=es "Configurar boleto registrado"). Son ejemplos de Bancos Emisores: Itaú, Santander, Bradesco y Citibank.
 
+Este concepto es importante porque le permite configurar [condiciones especiales](https://help.vtex.com/es/tutorial/condiciones-especiales?locale=es "Configurar condiciones especiales de pago") para pagos realizados a través de bancos específicos. Además, en el caso de los boletos registrados, cada banco tiene su propia forma de emisión. Y, para hacer esta configuración, usted necesita saber cómo es el proceso del banco emisor elegido y seguir las instrucciones de [este artículo](https://help.vtex.com/es/tutorial/como-configurar-boleto-registrado?locale=es "Configurar boleto registrado"). Son ejemplos de Bancos Emisores: Itaú, Santander, Bradesco y Citibank.
 
 ## Antifraude
 
 El antifraude es un sistema especializado en analizar las compras realizadas en los sitios web, con el objetivo de identificar operaciones fraudulentas.
- 
+
 Recolecta datos sobre el comportamiento de los usuarios y los compara con patrones sospechosos para aprobar o no el pedido. Así pues, el antifraude añade una capa más de seguridad para su tienda.
- 
+
 En VTEX, primero el operador del pago aprueba la compra y, a continuación, el antifraude evalúa el pedido. Con todo en orden, el sistema sigue su flujo normal. Son ejemplos de antifraude: ClearSale y Konduto. 
 
----
+>ℹ️ Es importante resaltar que cada negocio depende de factores específicos que influencian en la decisión sobre qué modalidad usar. Son varias las variables que pueden determinar la elección del medio de pago y cuál será su flujo financiero. Es fundamental, por lo tanto, tener en mente las necesidades y los propósitos reales del comerciante y del proyecto deseado.
 
-Es importante resaltar que cada negocio depende de factores específicos que influencian en la decisión sobre qué modalidad usar. Son varias las variables que pueden determinar la elección del medio de pago y cuál será su flujo financiero. Es fundamental, por lo tanto, tener en mente las necesidades y los propósitos reales del comerciante y del proyecto deseado.

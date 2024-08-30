@@ -1,10 +1,10 @@
 ---
 title: 'Integração com Renner e Camicado'
 id: 5qf2wloosKlmIB8o2AitnT
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-07-02T19:25:31.689Z
-updatedAt: 2022-12-15T20:40:16.364Z
-publishedAt: 2022-12-15T20:38:45.121Z
+updatedAt: 2023-08-25T18:50:55.909Z
+publishedAt: 2023-08-25T18:50:55.909Z
 firstPublishedAt: 2021-07-02T21:07:36.096Z
 contentType: tutorial
 productTeam: Channels
@@ -19,9 +19,7 @@ A [Renner](https://www.lojasrenner.com.br/) é uma marca do segmento fashion, e 
 
 Tanto a Renner quanto a Camicado firmaram uma parceria com a VTEX e se tornaram [conectores certificados](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro), também chamados de parceiros. Este artigo orienta como configurar a integração com a Renner ou a Camicado.
 
-<div class="alert alert-info">
-Caso seja do seu interesse integrar sua loja VTEX tanto com a Renner quanto com a Camicado, você deverá realizar uma integração para cada um dos parceiros.
-</div>
+>ℹ️ Caso seja do seu interesse integrar sua loja VTEX tanto com a Renner quanto com a Camicado, você deverá realizar uma integração para cada um dos parceiros.
 
 Cada marketplace possui um método de cadastro:
 
@@ -38,7 +36,7 @@ Feito isso, você pode dar continuidade às etapas da integração, sendo que pa
 Para integrar com a Renner ou a Camicado, é necessário realizar as seguintes etapas:
 
 - [Definir política comercial](#definir-politica-comercial)
-- [Criar novo _access key_ e _secret_](#criar-novo-access-key-e-secret)
+- [Criar novo _AppKey_ e _AppToken_](#criar-novo-AppKey-e-AppToken)
 - [Criar ID do afiliado](#criar-id-do-afiliado)
 
 ### Definir política comercial
@@ -47,30 +45,28 @@ A [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-poli
 
 Caso seja do seu interesse ter configurações específicas para vender na Renner ou na Camicado, você pode [configurar uma política comercial para marketplace](https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace/). Não existe cobrança para a contratação de políticas comerciais adicionais para integrar sua loja VTEX com conectores nativos, conectores certificados, tais como a Renner e a Camicado, ou outras lojas VTEX.
 
-### Criar novo access key e secret
+### Criar novo AppKey e AppToken
 
-A chave de integração, chamada de _access key_, é o que possibilita o fluxo de envio e atualização de informações entre sua loja VTEX e a Renner e Camicado. Somente o [usuário Titular da conta (_owner_)](https://help.vtex.com/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?&utm_source=autocomplete) tem permissão para [criar um _access key_ e _secret_](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication), e a opção só é visível no Admin para este usuário. 
+A chave de integração, chamada de _access key_, é o que possibilita o fluxo de envio e atualização de informações entre sua loja VTEX e a Renner e Camicado. Somente o [usuário Titular da conta (_owner_)](https://help.vtex.com/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?&utm_source=autocomplete) tem permissão para [criar um *AppKey e AppToken*](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication), e a opção só é visível no Admin para este usuário. 
 
-Se você for integrar com os dois parceiros, Renner e Camicado, será necessário criar um _access key_ e _secret_ para cada um deles. Para configurar uma nova chave, siga os passos abaixo:
+Se você for integrar com os dois parceiros, Renner e Camicado, será necessário criar um *AppKey e AppToken* para cada um deles. Para configurar uma nova chave, siga os passos abaixo:
 
-1. No Admin, no módulo _CONFIGURAÇÕES DA CONTA_, clique em `Gerenciamento da Conta`.
-2. Clique em `Conta`.
-3. Em _Segurança_, clique em `Gerar access key e secret`.
-4. Preencha com um nome para o novo _access key_ e clique em `Gerar novos secrets`.
+1. No Admin, no módulo __Configurações da conta__, clique em `Chaves de aplicação`. 
+2. Clique no botão `Gerenciar minhas chaves`.  
+3. Clique no botão `Gerar chave`.  
+4. Preencha o campo __Rótulo__ com um nome para o novo *AppKey*.  
+5. Clique em `Adicionar perfis` e selecione os perfis desejados.  
+6. Clique em `Gerar`.  
 
-<div class="alert alert-danger">
-O <i>secret</i> gerado, também chamado de <i>appToken</i>, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
-</div>
+>❗ O <i>secret</i> gerado, também chamado de <i>appToken</i>, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
 
 ### Criar ID do afiliado
 
 O [afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) é o identificador de uma loja VTEX em um marketplace, sendo necessário que o seller tenha um ID do afiliado diferente para cada marketplace onde venda seus produtos. Isso significa que, para integrar com a Renner ou a Camicado, é preciso [configurar um afiliado](https://help.vtex.com/pt/tutorial/como-configurar-afiliado--tutorials_187) exclusivo. Para criar um novo ID do afiliado, siga os passos abaixo:
 
-1. No Admin, no módulo _PEDIDOS_, clique em `Gerenciamento de pedidos`.
-2. Clique em `Configurações`.
-3. No topo da página, selecione a opção `Afiliados`.
-4. Clique em `+Novo afiliado`.
-5. Preencha os campos da tela, descritos abaixo, e em seguida clique em `Salvar`.
+1. No Admin VTEX, acesse __Configurações da loja > Pedidos > Configurações__, ou digite Pedidos na barra de busca no topo da página e e selecione *Configurações da loja / Pedidos*.  
+2. Na aba __Afiliados__, Clique em `+Novo afiliado`.  
+3. Preencha os campos da tela, descritos abaixo, e em seguida clique em `Salvar`.  
 
    - **Nome:** designação do novo afiliado.
    - **ID:** código identificador do afiliado, deve ser composto de três consoantes, sejam elas repetidas ou não. Vogais não são aceitas. A sugestão é usar RNN para a Renner, e CMD para a Camicado.
@@ -116,15 +112,13 @@ A exigência é de que você informe no mínimo o contato de um responsável por
 Alguns dos dados a serem enviados são encontrados no seu Admin, são eles:
 
 - **Nome da conta:** identificador da sua empresa no sistema da VTEX. Para encontrá-lo, acesse o Admin no módulo _CONFIGURAÇÕES DA CONTA > Gerenciamento da conta > Conta > Dados da empresa_.
-- **Dados de autenticação do sistema:** _token_ e _appKey_ definidos na etapa [Criar novo access key e secret](#criar-novo-access-key-e-secret).
+- **Dados de autenticação do sistema:** _token_ e _appKey_ definidos na etapa [Criar novo AppKey e AppToken](#criar-novo-AppKey-e-AppToken).
 - **ID do afiliado:** identificador configurado na etapa [Criar ID do afiliado](#criar-id-do-afiliado).
 - **Política comercial:** número da política comercial determinada na etapa [Definir política comercial](#definir-politica-comercial).
 - **ID do Seller:** se você estiver integrando a partir da sua conta principal, o valor a ser informado é o número 1. Caso sua loja possua contas franquia e você esteja realizando a integração a partir de uma delas, é necessário enviar o ID do Seller dessa conta. Para encontrá-lo, acesse o Admin no módulo _MARKETPLACE > Sellers > Gerenciamento > ID do Seller_.
 
 Uma vez que você tenha reunido esses dados, você deverá enviá-los para o contato informado pela Renner ou pela Camicado, e a integração será concluída pelo parceiro. Vale ressaltar que o processo de _onboarding_ com conectores certificados é responsabilidade dos próprios parceiros.
 
-<div class="alert alert-info">
-A Camicado disponibiliza documentação sobre a integração. Para consultá-la, faça o <a href="https://drive.google.com/uc?export=download&id=10IHQLiaRImT5pcJ45hNZ01G3pUSgwxry">download do Tutorial de Auxílio ao parceiro.pdf</a>.
-</div>
+>ℹ️ A Camicado disponibiliza documentação sobre a integração. Para consultá-la, faça o [download do Tutorial de Auxílio ao parceiro.pdf](https://drive.google.com/uc?export=download&id=10IHQLiaRImT5pcJ45hNZ01G3pUSgwxry).
 
 Caso você tenha dúvidas sobre a integração com a Renner, você pode utilizar o [formulário de suporte Renner](https://atendimento.lojasrenner.com.br/hc/pt-br/requests/new?ticket_form_id=360004738294). Se as dúvidas forem relativas à Camicado, entre em contato pelo email _suporte_marketplace@camicado.com.br_.

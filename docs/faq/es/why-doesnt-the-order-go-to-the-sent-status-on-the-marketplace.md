@@ -1,5 +1,5 @@
 ---
-title: '¿Por qué el pedido no cambia para el estado "Enviado" en el marketplace?'
+title: "¿Por qué el pedido no cambia para el estado 'Enviado' en el marketplace?"
 id: frequentlyAskedQuestions_719
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:07.933Z

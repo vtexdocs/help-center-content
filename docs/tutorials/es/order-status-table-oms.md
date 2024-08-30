@@ -17,9 +17,7 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 Este artículo tiene como objetivo enumerar los valores de estado compatibles en los diversos sistemas internos y externos a VTEX.
 
-<div class = "alert alert-warning">
-Caso válido para cuando el pedido tiene solo una transacción.
-</div>
+>⚠️ Caso válido para cuando el pedido tiene solo una transacción.
 
 <table style="width: 619px;" border="1" cellspacing="0" cellpadding="0"><tbody><tr style="height: 56px;"><td style="width: 113px; height: 56px;" valign="top"><p align="center"><b>Gestión de Pedidos</b>
 </td><td style="width: 113px; height: 56px;" valign="top"><p align="center"><b>Mis Ordenes</b>

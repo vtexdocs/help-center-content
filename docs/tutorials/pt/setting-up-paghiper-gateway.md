@@ -1,10 +1,10 @@
 ---
 title: 'Configurar gateway PagHiper'
 id: I3KXAIIJG0oyyg4A4MykE
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-09T22:06:11.621Z
-updatedAt: 2023-03-29T01:13:11.291Z
-publishedAt: 2023-03-29T01:13:11.291Z
+updatedAt: 2024-03-18T19:04:40.079Z
+publishedAt: 
 firstPublishedAt: 2018-04-09T22:43:35.309Z
 contentType: tutorial
 productTeam: Financial
@@ -15,14 +15,15 @@ legacySlug: configurar-gateway-paghiper
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+>❗ Essa integração de pagamento não pode ser mais configurada na plataforma devido ao [processo de remoção de provedores legados](https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14) e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.
+
 A PagHiper é um [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) especializado no processamento de compras realizadas por boletos bancários.
 
 Para configurar a PagHiper, siga os passos abaixo:
 
-## Configurar afiliação de gateway PagHiper
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão __+__.
-3. Clique no conector __PagHiper__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __PagHiper__ na barra de busca e clique sobre o nome do provedor.
 4. No campo __External Service Url__, você deve configurar a url externa que vai estar associada à `/pvt/payments?an={AccountName}`.
 5. Preencha os campos de cadastro com os dados fornecidos pela PagHiper (campos _appKey_ e _appToken_).
 6. Em __Implements Installments Service__, você deve escolher se deseja usar serviços externos de parcelamento ou o que está configurado no portal. Se escolher a opção _yes_, o sistema vai utilizar a URL configurada no campo __Installments Service Url__.

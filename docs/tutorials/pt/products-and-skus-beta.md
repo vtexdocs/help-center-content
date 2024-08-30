@@ -3,8 +3,8 @@ title: 'Produtos e SKUs (Beta)'
 id: 2ig7TmROlirWirZjFWZ3By
 status: PUBLISHED
 createdAt: 2022-11-30T17:55:25.970Z
-updatedAt: 2023-05-09T22:11:41.664Z
-publishedAt: 2023-05-09T22:11:41.664Z
+updatedAt: 2023-07-11T15:12:54.179Z
+publishedAt: 2023-07-11T15:12:54.179Z
 firstPublishedAt: 2022-11-30T19:04:31.183Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,17 +15,13 @@ legacySlug: produtos-e-skus-beta
 subcategory: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-<div class = "alert alert-info">
-  <p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href = "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href = "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
 
 A página **Produtos e SKUs** possibilita visualizar e gerenciar a lista completa de produtos cadastrados na sua loja, incluindo informações sobre SKUs, data da última atualização e status. Para acessá-la, entre no menu **Catálogo > Produtos e SKUs**.
 
-![produtos-skus-pt](https://images.ctfassets.net/alneenqid6w5/1XLBRg7olhbAUmgkD6kb7K/46b067813ff58d78ebccde46c37b8079/produtos-skus-pt.PNG)
+![products-skus-pt](https://images.ctfassets.net/alneenqid6w5/3Euar7pKsXKgqIfz1MwOOa/42eb4310fbe66a016176c54adb447ad9/products-skus-pt.png)
 
-<div class="alert alert-info">
-  <p>Esta página está disponível somente para lojas que estão operando com o <a href="https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa">Novo Admin VTEX</a>. Para acessar esta página e fazer parte de uma nova experiência, participe do <a href="https://content.vtex.com/participe-do-programa-beta-pt/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta">programa Beta</a> do Novo Admin VTEX.</p>
-</div>
+>ℹ️ Esta página está disponível somente para lojas que estão operando com o [Novo Admin VTEX](https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para acessar esta página e fazer parte de uma nova experiência, participe do [programa Beta](https://content.vtex.com/participe-do-programa-beta-pt/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta) do Novo Admin VTEX.
 
 A página permite que você realize as seguintes ações:
 
@@ -42,10 +38,8 @@ A partir da lista de produtos, você pode visualizar as seguintes informações:
 
 | **Coluna** | **Descrição** |
 |----|----|
-| **Nome** | Nome que identifica o produto, definido na etapa de criação do produto. Abaixo do nome, a página exibe a ID, ou seja, o código identificador único do produto. |
-| **SKUs** | Exibe a opção `Mostrar SKUs` e, entre parênteses, a quantidade de SKUs cadastrados para o produto. Para mais detalhes sobre essa opção, leia a seção [Visualizar lista de SKUs](#visualizar-lista-de-skus). <br/><br/> Para deixar de visualizar os SKUs referentes a um produto, clique no botão `Ocultar SKUs`. |
+| **Nome** | Nome que identifica o produto, definido na etapa de criação. Abaixo do nome, a página exibe a ID, ou seja, o código identificador único do produto. <br/><br/> Ao lado do nome, cada linha exibe uma seta <i class="fas fa-chevron-right"></i> para [visualizar a lista de SKUs](#visualizar-lista-de-skus) associados ao produto, um ícone de [status do produto](#acompanhar-status-de-produtos) e a imagem cadastrada para o produto. |
 | **Última atualização** | Data da [indexação](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) mais recente do produto. Para visualizar detalhes sobre esse processo, confira a seção [Ver informações de indexação](#ver-informacoes-de-indexacao). |
-| **Status** | Situação atual do produto. Confira os status possíveis na seção [Acompanhar status de produtos](#acompanhar-status-de-produtos).|
 
 ## Criar produto
 
@@ -65,7 +59,7 @@ Para localizar um produto específico, você pode digitar um dos seguintes dados
 
 Em seguida, clique no critério que você deseja utilizar para a busca, conforme ilustrado na imagem a seguir:
 
-![facelift-product-search-pt](https://images.ctfassets.net/alneenqid6w5/PCBjrNpVcVr5Z4x3RdTgW/83ece197b90922dac3fcad64b312294e/facelift-product-search-pt.gif)
+![products-skus-search-pt](https://images.ctfassets.net/alneenqid6w5/3XkJPsJihm6flcVxPksPPO/7a04a740e895558318b88b2b00dd6949/search-pt.gif)
 
 A lista de produtos exibida será atualizada de acordo com sua busca. 
 
@@ -85,9 +79,7 @@ A lista de produtos pode ser filtrada conforme a sua necessidade. Você pode uti
 
 Selecione os filtros desejados e clique em `Aplicar` para filtrar os produtos. Para cancelar a seleção, clique em `Limpar`.
 
-<div class="alert alert-warning">
-  <p>Não é possível filtrar produtos por <a href="https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w">seller</a> ou por data da pré-venda nesta versão do Catálogo.</p>
-</div>
+>⚠️ Não é possível filtrar produtos por [seller](https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) ou por data da pré-venda nesta versão do Catálogo.
 
 ## Acompanhar status de produtos
 
@@ -103,9 +95,9 @@ Para visualizar o status dos SKUs de um produto, leia a seção [Visualizar list
 
 ## Visualizar lista de SKUs
 
-Ao clicar em `Ver SKUs` na linha de um produto da lista, a plataforma exibe uma lista com todos os SKUs cadastrados para aquele produto.
+Ao clicar na seta <i class="fas fa-chevron-right"></i> na linha de um produto da lista, a plataforma exibe uma lista com todos os SKUs cadastrados para aquele produto.
 
-![sku-quick-actions-pt](https://images.ctfassets.net/alneenqid6w5/71pxP9DeCFZ9UrQdl67r9X/b75ddd51b11d3e3d9ab199be1a011f84/sku-quick-actions-pt.gif)
+![sku-actions-pt](https://images.ctfassets.net/alneenqid6w5/wv1FevJRrT0GwvKvvNb2W/dfbd3240bd021d0c91ca42f80a36ddd4/sku-actions-pt.gif)
 
 Na lista de SKUs, é possível identificar as informações a seguir:
 
@@ -118,6 +110,8 @@ Na lista de SKUs, é possível identificar as informações a seguir:
 * **Nome:** nome do SKU.
 * <svg xmlns="http://www.w3.org/2000/svg" width="1.25rem" height="1.25rem" fill="currentColor" viewBox="0 0 256 256" class=" admin-ui-c-dnTJPl"><rect width="16rem" height="16rem" fill="none"></rect><path d="M224,177.32117V78.67873a8,8,0,0,0-4.07791-6.9726l-88-49.5a8,8,0,0,0-7.84418,0l-88,49.5A8,8,0,0,0,32,78.67873v98.64244a8,8,0,0,0,4.07791,6.97261l88,49.5a8,8,0,0,0,7.84418,0l88-49.5A8,8,0,0,0,224,177.32117Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"></path><polyline points="222.897 74.626 128.949 128 33.108 74.617" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"></polyline><line x1="128.94915" y1="127.99996" x2="128.01036" y2="234.82127" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"></line></svg> &nbsp; <strong>Editar inventário:</strong> conduz para a tela de gerenciamento de inventário no Admin VTEX, para alterar a quantidade do SKU disponível para a venda em estoque. Confira o artigo [Gerenciar inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) para mais informações.
 * <svg xmlns="http://www.w3.org/2000/svg" width="1.25rem" height="1.25rem" fill="currentColor" viewBox="0 0 256 256" class=" admin-ui-c-dnTJPl"><rect width="16rem" height="16rem" fill="none"></rect><line x1="128" y1="72" x2="128" y2="88" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"></line><line x1="128" y1="168" x2="128" y2="184" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"></line><circle cx="128" cy="128" r="96" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"></circle><path d="M104,168h36a20,20,0,0,0,0-40H116a20,20,0,0,1,0-40h36" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"></path></svg> &nbsp;<strong>Editar preços:</strong> conduz para a **Lista de preços** no Admin VTEX, para alterar os preços cadastrados para o SKU.
+* <i class="far fa-clone"></i> __Copiar código do SKU:__ copia o ID do SKU para a área de transferência.
+* <i class="far fa-eye"></i> __Ativar__ / <i class="far fa-eye-slash"></i> __Desativar:__ torna o SKU ativo ou inativo na loja.
 
 ## Editar produtos
 

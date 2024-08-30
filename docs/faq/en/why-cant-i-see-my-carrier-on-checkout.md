@@ -3,8 +3,8 @@ title: "Why can't I see my carrier on checkout?"
 id: frequentlyAskedQuestions_165
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:09.470Z
-updatedAt: 2023-03-20T20:32:20.572Z
-publishedAt: 2023-03-20T20:32:20.572Z
+updatedAt: 2023-08-25T15:13:42.026Z
+publishedAt: 2023-08-25T15:13:42.026Z
 firstPublishedAt: 2017-04-27T23:01:43.444Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
@@ -25,6 +25,8 @@ It's worth pointing out that before reading this article, you must ensure that a
 Carriers should be grouped into categories upon registration, including the [type of delivery](https://help.vtex.com/en/tutorial/como-funciona-o-tipo-de-entrega/) associated with each carrier. During checkout, the _delivery types_ are displayed rather than the name of each carrier. 
 
 Checkout will always highlight the cheapest/fastest carrier from the options of the same type of delivery. Thus, a carrier will not appear at checkout when another of the same type has a better cost/delivery option registered. 
+
+>⚠️ When there is a tie between carriers, the tiebreaker criterion is to have the lowest shipping cost.
 
 ### Solution
 
@@ -76,6 +78,4 @@ To improve the customer's shopping experience, the**Optimization of shipping opt
 
 Disable the function [Optimization of delivery options at Checkout](https://help.vtex.com/en/tutorial/optimization-of-shipping-options-at-checkout--6DeGO9eBSFWe4XkoS0SxAB) in your store.
 
-<div class="alert alert-warning">
-By disabling this function in Admin VTEX, all available shipping options will be displayed in the Checkout process. However, if the <a href="https://help.vtex.com/en/tutorial/order-split-and-delivery-split--jQvzA6QgSd51e2p6bthoV#">Multiple Deliveries</a> functionality is enabled in the store and there are different delivery options between the selected items in the cart, the <b>Optimized Delivery Options</b> will continue to be displayed. That is, delivery optimization will be needed to handle multiple packages (items with different delivery options).
-</div>
+>⚠️ By disabling this function in Admin VTEX, all available shipping options will be displayed in the Checkout process. However, if the [Multiple Deliveries](https://help.vtex.com/en/tutorial/order-split-and-delivery-split--jQvzA6QgSd51e2p6bthoV#) functionality is enabled in the store and there are different delivery options between the selected items in the cart, the **Optimized Delivery Options** will continue to be displayed. That is, delivery optimization will be needed to handle multiple packages (items with different delivery options).

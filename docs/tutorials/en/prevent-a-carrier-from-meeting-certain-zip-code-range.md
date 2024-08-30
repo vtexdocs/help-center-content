@@ -3,8 +3,8 @@ title: 'How to prevent a carrier from meeting a certain ZIP code range?'
 id: 6GEYG5p9E4MOEy2qmY4uGa
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:39.807Z
-updatedAt: 2023-03-29T14:15:58.885Z
-publishedAt: 2023-03-29T14:15:58.885Z
+updatedAt: 2024-03-01T01:07:45.930Z
+publishedAt: 2024-03-01T01:07:45.930Z
 firstPublishedAt: 2019-01-24T22:03:33.994Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -31,5 +31,6 @@ To do so, you would follow these steps:
 2. Download the shipping spreadsheet on **Shipping Rates**.    
 3. Open the spreadsheet and look for the lines corresponding to the zip code range where the code to be disregarded is located, ie: `ZipCodeStart` = __37900-001__ and `ZipCodeEnd` = __97904-999__.  
 4. Each of these lines must be turned into two, so that the zip code 45920-000 is ignored. So you would have: `ZipCodeStart` = __37900-001__ and `ZipCodeEnd` = __45919-999__ / `ZipCodeStart` = __45920-001__ and `ZipCodeEnd` = __97904-999__.  
-
 With this, the spreadsheet would "jump" the zip code 45920-000. And consequently it would no longer be considered as an address served by that carrier.
+
+>ℹ️ The postal code examples in this article refer to Brazil, each country has its own postal code format.

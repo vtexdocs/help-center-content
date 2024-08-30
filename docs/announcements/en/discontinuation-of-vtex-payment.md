@@ -15,6 +15,4 @@ announcementImageID: ''
 announcementSynopsisEN: 'Discontinuation of VTEX Payment'
 ---
 
-<div class="alert alert-warning">
-This content is not available for this language because VTEX Payment is only available for Brazilian stores.
-</div>
+>⚠️ This content is not available for this language because VTEX Payment is only available for Brazilian stores.

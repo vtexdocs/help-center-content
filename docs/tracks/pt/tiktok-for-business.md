@@ -14,9 +14,7 @@ trackId: 1r0yJSO11nrer1YVu3WTFd
 trackSlugPT: integracao-com-o-tiktok
 ---
 
-<div class="alert alert-danger">
-  <p>A integração com o TikTok está disponível apenas para lojas no <strong>Brasil</strong>.</p>
-</div>
+>❗ A integração com o TikTok está disponível apenas para lojas no **Brasil**.
 
 O [TikTok](https://www.tiktok.com/pt-BR/) é uma plataforma de entretenimento para criar e compartilhar vídeos curtos que oferece ferramentas de marketing para empresas. Uma das principais ferramentas disponíveis nesse contexto é o TikTok Ads Manager, que contém recursos avançados para lançar campanhas e gerenciar publicidade no TikTok.
 

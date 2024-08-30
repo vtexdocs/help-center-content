@@ -1,10 +1,10 @@
 ---
 title: 'Setting up PayZen gateway'
 id: 3v3n5eQvxem8MQOCkugk24
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-03-13T19:39:04.093Z
-updatedAt: 2023-03-29T00:56:10.654Z
-publishedAt: 2023-03-29T00:56:10.654Z
+updatedAt: 2024-03-18T19:50:54.475Z
+publishedAt: 
 firstPublishedAt: 2018-03-13T22:27:11.198Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: en
 legacySlug: setting-up-payzen-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+>❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
 
 With VTEX, you can set up [PayZen gateway](/en/tutorial/what-is-a-payment-gateway) in your store. Easily integrated, it follows the security standards defined by [Payments](/en/faq/what-is-the-pci-ssc).
 

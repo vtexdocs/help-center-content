@@ -3,8 +3,8 @@ title: 'Los roles de usuario de CatalogV2 no se aplican'
 id: 3cDaOuqpAJyCL5JOMzD5nL
 status: PUBLISHED
 createdAt: 2022-02-25T12:18:17.776Z
-updatedAt: 2022-11-25T21:55:04.311Z
-publishedAt: 2022-11-25T21:55:04.311Z
+updatedAt: 2024-02-16T20:26:53.078Z
+publishedAt: 2024-02-16T20:26:53.078Z
 firstPublishedAt: 2022-02-25T12:18:18.632Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: los-roles-de-usuario-de-catalogv2-no-se-aplican
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 489297
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 Actualmente, la interfaz de usuario de la aplicación CatalogV2 no aplica correctamente los permisos de control de acceso cuando un usuario utiliza la interfaz para crear, leer o actualizar productos.
 

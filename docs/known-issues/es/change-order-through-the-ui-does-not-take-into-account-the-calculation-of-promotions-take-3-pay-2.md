@@ -3,8 +3,8 @@ title: 'La orden de cambio a través de la UI no tiene en cuenta el cálculo de 
 id: 3rvsDyCggYirvH7WT9rBVZ
 status: PUBLISHED
 createdAt: 2022-03-15T20:25:17.217Z
-updatedAt: 2022-11-25T22:03:48.329Z
-publishedAt: 2022-11-25T22:03:48.329Z
+updatedAt: 2024-02-16T20:23:38.705Z
+publishedAt: 2024-02-16T20:23:38.705Z
 firstPublishedAt: 2022-03-15T20:25:17.513Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: la-orden-de-cambio-a-traves-de-la-ui-no-tiene-en-cuenta-el-calculo-de-las-promociones-toma-3-paga-2
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 472882
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En los pedidos con la promoción "Más por menos", es posible modificar el pedido y eliminar uno o varios artículos en la interfaz de usuario, pero el descuento sigue aplicándose.

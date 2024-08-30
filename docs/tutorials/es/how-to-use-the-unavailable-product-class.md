@@ -29,7 +29,7 @@ __Caso un SKU con determinada especificación no esté disponible en stock, la t
 
 En el ejemplo siguiente, los tamaños P y G del producto no están disponibles.
 
-![classeIndisponivel](//images.contentful.com/alneenqid6w5/6dTacclHvqeaMwws8kqU8K/2d0d79d95dc521626eb1ba5c1c056da2/classeIndisponivel.png)
+![classeIndisponivel](https://images.contentful.com/alneenqid6w5/6dTacclHvqeaMwws8kqU8K/2d0d79d95dc521626eb1ba5c1c056da2/classeIndisponivel.png)
 
 ## Incluir la clase de producto no disponible
 
@@ -43,9 +43,8 @@ Usted puede personalizar su archivo CSS para que esta clase muestre, por ejemplo
 
 ## Determinar amqué especificación se asignará la clase
 
-<div class="alert alert-warning">>
-La clase de producto sólo se asigna a la especificación que aparece por último en la lista de especificaciones de SKU en el módulo Catalog.
-</div>
+>⚠️ >
+> La clase de producto sólo se asigna a la especificación que aparece por último en la lista de especificaciones de SKU en el módulo Catalog.
 
 Por ejemplo, en el caso del SKU, solo la especificación `Tamanho` recibirá la clase de indisponibilidad.
 

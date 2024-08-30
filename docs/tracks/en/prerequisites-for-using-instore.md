@@ -3,8 +3,8 @@ title: 'Prerequisites for using VTEX Sales App'
 id: 1wtAanSRA3g2316dw7bw8u
 status: PUBLISHED
 createdAt: 2020-06-28T13:28:33.600Z
-updatedAt: 2023-05-31T15:30:38.223Z
-publishedAt: 2023-05-31T15:30:38.223Z
+updatedAt: 2024-06-27T16:50:09.189Z
+publishedAt: 2024-06-27T16:50:09.189Z
 firstPublishedAt: 2020-06-28T13:41:36.817Z
 contentType: trackArticle
 productTeam: Shopping
@@ -29,15 +29,12 @@ To maintain the equipment and the smooth running of your operation, it is import
 
 ### Tablets, smartphones and computers
 
-The VTEX Sales App app works on tablets and smartphones using **Android 6.0** (or newer) and **iOS 9** (or newer) operating systems.
+We recommend using devices updated to the latest operating system version or at least to one of the following:
 
-Some examples of devices that can be used:
+* Three most recent versions of iOS, or
+* Four most recent versions of Android.
 
-* Samsung Galaxy Tab A Note
-* Motorola G4
-* Samsung S8
-
-We recommend that the devices used to access VTEX Sales App have 4G chips for internet access. This way, your store will continue to function normally even if there are problems with the Wi-Fi network.
+When accessing VTEX Sales App, the devices must use 4G chips for internet connection. This ensures your store will operate seamlessly, even in the event of Wi-Fi connection issues.
 
 VTEX Sales App also works on computers that use the **Windows** operating system, provided that the following minimum requirements are met:
 
@@ -85,6 +82,16 @@ To print electronic invoices and credit card receipts, you will need a non-fisca
 ## Partners
 
 VTEX has several partners who enable the operation of physical stores. Each partner has a specific role in ensuring that the entire sales process works safely.
+
+Among these partners are:
+
+- Integration with POS:
+    - Jitterbit
+    - Neomode
+Payment Integration:
+    - Pagarme
+    - Adyen
+    - Cielo
 
 VTEX has a standard contract with these partners to facilitate the implementation of your products, but you must better terms directly with them.
 

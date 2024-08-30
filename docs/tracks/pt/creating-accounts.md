@@ -1,10 +1,10 @@
 ---
-title: 'Criar contas no Customer Credit'
+title: 'Criando contas no Customer Credit'
 id: 7FHLd0cmxqqGeEUuc8uioU
 status: PUBLISHED
 createdAt: 2018-11-06T20:24:28.924Z
-updatedAt: 2023-05-12T12:20:09.076Z
-publishedAt: 2023-05-12T12:20:09.076Z
+updatedAt: 2024-02-08T19:08:32.443Z
+publishedAt: 2024-02-08T19:08:32.443Z
 firstPublishedAt: 2018-11-06T21:15:02.053Z
 contentType: trackArticle
 productTeam: Financial
@@ -14,103 +14,76 @@ trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugPT: customer-credit-como-comecar
 ---
 
-O próximo passo é criar as contas dos clientes que você deseja oferecer crédito na sua loja. 
+O próximo passo é criar contas para os clientes que você deseja oferecer crédito em sua loja. As contas podem ser criadas de três diferentes formas:
 
-Há três formas de criá-las:
+- [Conta individual (Admin VTEX)](#criar-contas-individualmente)
+- [Múltiplas contas em massa (Admin VTEX)](#criar-multiplas-contas-importacao-em-massa)
+- [Conta individual (Customer Credit API)](#criar-conta-via-api)
 
-- Via Admin; 
-- Pelo recurso importação em massa;  
-- Via API.
-
-<div class="alert alert-info">
-<strong>Atenção</strong>: as contas do Customer Credit não são integradas à base de clientes cadastradas nas entidades do Master Data. As contas devem ser criadas na própria app antes ou depois do usuário ter fechado compras na loja.
-</div>
+>ℹ️ As contas criadas na app do Customer Credit não tem relação ou compartilham dados com a base de clientes cadastrada nas [entidades do Master Data](https://help.vtex.com/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#entidades-de-dados) da loja. Para que um cliente possa utilizar o Customer Credit como meio de pagamento, a sua conta deve ser cadastrada pelo lojista na app mesmo que o cliente já possua uma conta na loja.
 
 ## Criar contas individualmente
 
-Caso o usuário prefira, é possível criar várias contas manualmente por meio do Admin.
+Para cadastrar um novo cliente no Customer Credit, siga os passos abaixo:
 
-Confira o passo a passo:
+1. No Admin VTEX, acesse __Aplicativos > Customer Credit > Contas__, ou digite __Contas__ na barra de busca no topo da página.
+2. Na tela de __Contas__, clique no botão `NOVO`.
+3. Em __Identificação__, selecione o __Tipo de documento__ e preencha os campos __Documento__ e __Email__ com as informações do cliente que deseja cadastrar.
+4. Em __Crédito__, insira em os valores de __Limite de crédito (BRL)__ e da __Tolerância__ que deseja disponibilizar ao cliente.
+5. Clique em `Confirmar`.
 
-1. Acesse o __Admin__;
-2. Clique no módulo __Customer Credit__;
-3. Em seguida, clique em __Contas__;
-4. Do lado direito da tela, clique no botão azul __“Novo”__;
-5. Selecione o __tipo de documento__ que identificará a conta;
-6. Digite o número do documento no campo __Documento__;
-7. Preencha o campo __Email__;
-8. Defina o __limite crédito__ disponível para a conta;
-9. Clique no botão azul __“Confirmar”__.
+>⚠️ O preenchimento do campo **Email** é obrigatório, pois a plataforma VTEX utiliza essa informação apra realizar a autenticação de acesso do cliente aos limites de crédito da sua conta. Para mais informações sobre proteção de dados, acesse [Segurança do SmartCheckout](https://help.vtex.com/pt/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB).
 
-O preenchimento do campo email no formulário é obrigatório, pois por meio do email (chave de acesso único ao sistema da VTEX), é possível autenticar o acesso do cliente aos limites de crédito de uma conta. Para saber mais sobre proteção de dados, acesse [Segurança do SmartCheckout](https://help.vtex.com/pt/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB). 
+A partir deste momento, a nova conta criada será exibida na tela de __Contas__.
 
-Desse modo, a nova conta será exibida na página inicial da seção “Contas”.
+![CC_criar_conta_1_PT](https://images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/d260357ee6bb9151e7dfc99d8fc72e90/CC_criar_conta_1_PT.JPG)
 
-## Criar contas com a importação em massa
+## Criar múltiplas contas (importação em massa)
 
-Para criação de contas em massa, o usuário pode usar o recurso importação de arquivo CSV (Comma Separated Value) - um formato de planilha. 
+Para criar múltiplas contas ao mesmo tempo (em massa) no Customer Credit, você pode utilizar uma planilha modelo no formato CSV (Comma Separated Value) contendo as informações de cada cliente. Siga os passos abaixo para criar múltiplas contas:
 
-Essa funcionalidade é muito útil visto que possibilita a importação de milhares de contas para o sistema de uma só vez.
+1. No Admin VTEX, acesse __Aplicativos > Customer Credit > Contas__, ou digite __Contas__ na barra de busca no topo da página.
+2. Na tela de __Contas__, clique no botão `IMPORTAR`.
+3. Em __Deseja criar ou atualizar contas?__, selecione a opção __Criar__ e clique em `CONTINUAR`.
+4. Clique em `BAIXAR MODELO`. Um modelo de planilha no formato .csv será enviado para o seu dispositivo (computador, celular ou tablet).
+5. Preencha em cada linha:
+<br>
+<ul>
+  <li>Colunas <b>Email</b>, <b>Document</b> e <b>Document Type</b>:  informações dos clientes.</li>
+  <li>Colunas <b>Credit limit</b> e <b>Tolerance rate</b>: valores disponibilizados para cada cliente. O <b>Tolerance rate</b> deve ser inserido em formato decimal, por exemplo, uma tolerância de 5% deve ser indicada como 0.05.</li>
+</ul>
 
-1. Acesse o __Admin__;
-2. Clique no módulo __Customer Credit__;
-3. Em seguida, clique em __Contas__;
-4. Do lado do botão __“Novo”__, clique na opção __Importar__;
-5. No box que aparecer na tela, selecione a opção __Criar__;
-6. Clique no botão azul __"Continuar"__;
-7. Em seguida, clique na opção __Baixar modelo__.
+![CC_criar_conta_2_ALL](https://images.ctfassets.net/alneenqid6w5/2KwguLYrq4sasC46xAIUfV/9b504a53cbf5796f78fafc77c5125e22/CC_criar_conta_2_ALL.JPG)
 
-Desse modo, você receberá seu computador um modelo de planilha em formato CSV. Você pode encontrá-lo na pasta *Downloads*.
+<blockquote><ui>6. Salve a planilha .csv.</ui>
 
-O próximo passo é preencher as colunas listadas no documento com as informações referentes a cada uma das contas que você deseja criar.
+<blockquote><ui>7. Retorne à tela de <b>Contas</b> e clique novamente no botão <b>IMPORTAR</b>.</ui>
 
-Ao todo, a tabela conta com 13 colunas que podem ser preenchidas. Entretanto, a única obrigatória é a de e-mail, informação utilizada pelo sistema VTEX para identificar o usuário no SmartCheckout.
+<blockquote><ui>8. Em <b>Deseja criar ou atualizar contas?</b>, selecione a opção <b>Atualizar</b> e clique em <b>CONTINUAR</b>.</ui>
 
-Quando você terminar de preencher a tabela e salvar todas as edições feitas, prossiga com o passo a passo:
+<blockquote><ui>9. Insira ou selecione a planilha .csv no espaço <b>Solte aqui seu CSV ou escolha ou arquivo</b>.</ui>
 
-1. Retorne a seção __Contas__ no Admin;
-2. Novamente, clique na opção __Importar__;
-3. Dessa vez, selecione a opção __Atualizar__ no box;
-4. Clique no botão azul __"Continuar"__;
-5. Insira a planilha no espaço __“Solte aqui seu CSV ou escolha ou arquivo”__;
-6. Clique no botão __“Importar arquivo”__.
+<blockquote><ui>10. Clique no botão <b>IMPORTAR ARQUIVO</b>.</ui>
 
-Pronto! Assim, suas contas serão criadas e apresentadas na página inicial da seção Contas.
+A partir deste momento, as novas contas criadas via a planilha .csv estarão disponíveis na tela de __Contas__.
 
-Em contexto de criar novas contas, você pode conferir todo o histórico de importação. Para isso, basta clicar em “Histórico de importação” na página principal da seção Contas. 
+>⚠️ Também é possível rastrear processos anteriores de criação de múltiplas contas, identificando se as contas foram criadas de forma correta. Para verificar estas informações, clique em **Histórico de Importação** na tela de **Contas**.  
 
-Desse modo, também é possível checar se as importações foram feitas da forma correta. Caso contrário, as correções necessárias serão indicadas na interface. 
+### Atualizar múltiplas contas (importação em massa)
 
-### Atualizar Contas por meio da importação em massa
+Para atualizar informações, tais como, documento, tipo de documento, email, limite de crédito e tolerância, em múltiplas contas ao mesmo tempo,você pode também pode utilizar a funcionalidade de importação em massa.  
 
-Além disso, você também pode atualizar os dados - e-mail, limite de crédito, documento, document type, status e tolerância - de todas as suas contas de uma só vez por meio do recurso de importação em massa.
+O procedimento é semelhante ao de [criar múltiplas contas](#criar-multiplas-contas-importacao-em-massa). Entretanto, você já deve ter a planilha .csv baixada e preenchida em seu dispositivo (computador, celular ou tablet). Siga os passos abaixo para atualizar as informações dos clientes:  
 
-O processo é semelhante ao de criar contas. Entretanto, aqui considera-se que você já tem o modelo do arquivo CSV baixado na sua máquina.
+1. No Admin VTEX, acesse __Aplicativos > Customer Credit > Contas__, ou digite __Contas__ na barra de busca no topo da página.
+2. Na tela de __Contas__, clique no botão `IMPORTAR`.
+3. Em __Deseja criar ou atualizar contas?__, selecione a opção __Atualizar__ e clique em `CONTINUAR`.
+4. Insira ou selecione a planilha .csv no espaço __Solte aqui seu CSV ou escolha ou arquivo__.
+5. Clique no botão __IMPORTAR ARQUIVO__.
+6. Após a planilha ser carregada no Admin, verifique na tela de __Contas__ se as informações foram atualizadas corretamente nas contas de cada cliente.   
 
-Confira o passo a passo:
+## Criar conta via API
 
-1. Acesse o __Admin__;
-2. Clique no módulo __Customer Credit__;
-3. Em seguida, clique em __Contas__;
-4. Do lado do botão “Novo”, clique na opção __Importar__;
-5. No box que aparecer na tela, selecione a opção __Atualizar__;
-6. Clique no botão azul __"Continuar"__;
-7. Em seguida, insira o arquivo CSV atualizado na *Drop Zone*;
-8. Clique no botão __“Importar Arquivo”__.
+Você também pode criar contas para seus clientes no Customer Credit por meio do endpoint [POST - Open an account](https://developers.vtex.com/docs/api-reference/customer-credit-api#post-/api/creditcontrol/accounts).
 
-Por fim, espere o *upload* completo da planilha. 
-
-## Criar contas por API
-
-Outra alternativa é criar contas por meio de APIs com o [endpoint](https://developers.vtex.com/docs/api-reference/customer-credit-api#put-/api/creditcontrol/accounts/-accountId- "endpoint") `POST Open or Change Account`.
-
-Preencha o body com as seguintes informações:
-
-    {
-      "id": "id",
-      "creditLimit": "number",
-      "document": "CPF or CNPJ or Other",
-      "email": "email"
-    }
-
-Para mais detalhes, veja a nossa [documentação técnica sobre as APIs de Customer Credit](https://developers.vtex.com/docs/guides/customer-credit-api-overview "documentação técnica sobre as APIs de Customer Credit.").
+Para mais informações sobre os endpoints da API de Customer Credit , acesse [Customer Credit API - Overview](https://developers.vtex.com/docs/api-reference/customer-credit-api#overview).  

@@ -3,8 +3,8 @@ title: 'As promoções por ordem de pagamento não aparecem na página do produt
 id: HZ5IoCFFOhuxU0jQWkMPp
 status: PUBLISHED
 createdAt: 2019-08-13T20:45:50.232Z
-updatedAt: 2023-03-31T15:44:56.958Z
-publishedAt: 2023-03-31T15:44:56.958Z
+updatedAt: 2024-07-01T18:48:59.282Z
+publishedAt: 2024-07-01T18:48:59.282Z
 firstPublishedAt: 2019-08-13T21:10:58.244Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: as-promocoes-por-ordem-de-pagamento-nao-aparecem-na-pagina-do-produto
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 781523
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A página do produto mostra o preço do SKU apenas com algumas promoções, que não inclui as condições específicas para as formas de pagamento nem o número de parcelas. Estas só são aplicadas durante o checkout, após o usuário ter optado explicitamente pelo uso de uma determinada condição de pagamento.

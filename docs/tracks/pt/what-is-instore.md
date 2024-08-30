@@ -3,8 +3,8 @@ title: 'O que é o VTEX Sales App?'
 id: 7fnnVlG3Kv1Tay9iagc5yf
 status: PUBLISHED
 createdAt: 2020-06-28T13:07:24.773Z
-updatedAt: 2023-05-31T15:45:55.825Z
-publishedAt: 2023-05-31T15:45:55.825Z
+updatedAt: 2024-05-13T18:03:19.146Z
+publishedAt: 2024-05-13T18:03:19.146Z
 firstPublishedAt: 2020-06-28T13:12:31.221Z
 contentType: trackArticle
 productTeam: Shopping
@@ -24,19 +24,12 @@ Você poderá implementar uma estratégia de Prateleira Infinita, que te ajudar�
 
 - Evitar falta de estoque e nunca perder vendas.
 - Ter visibilidade em tempo real do seu estoque. 
-- Beneficiar-se de busca inteligente.
+- Beneficiar-se de busca inteligente, quando instalado o [Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) no site. 
 - Estruturar transações de carrinho misto.
-
-Em relação ao fullfilment, o VTEX Sales App vai te ajudar a:
-
-- Atrair movimento e aumentar as vendas.
-- Ter um fluxo de trabalho eficiente para separação de pedidos (picking).
-- Garantir a disponibilidade dos seus produtos por meio de opções de entrega inteligentes.
-- Diminuir custos e tempo de fullfilment com o Smart Routing.
 
 Assim, o processo de compra se torna mais rápido, tanto ao adicionar produtos ao carrinho quanto o pagamento e a confirmação. 
 
-O processo de checkout não precisa mais ser feito de uma mesa. É possível iniciar e finalizar vendas em qualquer lugar da loja, o que reduz filas e torna a experiência do cliente mais agradável. 
+O processo de checkout não precisa mais ser feito de um local físico e fixo. É possível iniciar e finalizar vendas em qualquer lugar da loja, o que reduz filas e torna a experiência do cliente mais agradável. 
 
 Seus vendedores terão uma visão 360º do cliente e poderão criar experiências de compra memoráveis e sem atritos.
 

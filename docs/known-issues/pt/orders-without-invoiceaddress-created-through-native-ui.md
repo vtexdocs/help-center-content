@@ -1,56 +1,56 @@
 ---
-title: 'Pedidos sem invocaçãoEndereço criado através da IU nativa'
+title: 'Pedidos sem invoiceAddress criados por meio da UI nativa'
 id: 1XjNZhcTJ5rZJP4w3kJtcW
 status: PUBLISHED
 createdAt: 2022-01-24T20:21:07.893Z
-updatedAt: 2022-11-25T21:52:06.721Z
-publishedAt: 2022-11-25T21:52:06.721Z
+updatedAt: 2023-12-19T21:34:15.743Z
+publishedAt: 2023-12-19T21:34:15.743Z
 firstPublishedAt: 2022-06-27T19:49:05.878Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: pedidos-sem-invocacaoendereco-criado-atraves-da-iu-nativa
+slug: pedidos-sem-invoiceaddress-criados-por-meio-da-ui-nativa
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 306140
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
-Em alguns casos ainda é possível criar pedidos sem "invoiceAddress" através da UI de checkout.
-O endereço da fatura deve ser obrigatório na IU de todas as lojas que têm a funcionalidade habilitada.
-
-
+Em alguns casos, ainda é possível criar pedidos sem o `invoiceAddress` por meio da interface de checkout.
+O endereço da fatura deve ser obrigatório na interface do usuário de todas as lojas que tenham a funcionalidade ativada.
 
 ## Simulação
 
 
-Até agora, os passos conhecidos para reproduzir o cenário são:
+Até o momento, as etapas conhecidas para reproduzir o cenário são:
 
 
-1. Acessar a loja sem estar logado/identificado
+1. Acessar a loja sem estar conectado/identificado
 2. Colocar um produto no carrinho
-3. No carrinho, clique em Fechar ordem
-4. Na tela de e-mail coloque um e-mail de um comprador existente - o usuário provavelmente será direcionado para a etapa de pagamento
-5. Clique para editar a etapa de entrega e selecione "retirada".
-6. Não preencher o endereço da nota
-7. Clique para editar "Dados pessoais".
-8. Você será solicitado a fazer o login.
-9. Após o login, na etapa de edição de "Dados Pessoais" o botão aparecerá para ir direto para o pagamento, mesmo se o endereço da fatura não for preenchido.
+3. No carrinho, clique em Fechar pedido
+4. Na tela de e-mail, coloque um e-mail de um comprador existente - o usuário provavelmente será direcionado para a etapa de pagamento
+5. Clique para editar a etapa de entrega e selecione "withdrawal" (retirada)
+6. Não preencha o endereço da nota
+7. Clique para editar "Personal Data" (Dados pessoais)
+8. Você será solicitado a fazer login.
+9. Após o login, na etapa de edição de "Personal Data", aparecerá o botão para ir direto ao pagamento, mesmo que o endereço da fatura não esteja preenchido.
 
-Além do acima mencionado, o comportamento pode ser observado quando o usuário está na etapa de envio e ao recarregar a página, eles são automaticamente levados ao pagamento sem preencher os dados da Fatura.
-Outro cenário que induz o comportamento é a troca entre a lista de endereços previamente registrados e um novo endereço, o que permite ao usuário proceder ao pagamento sem preencher o código postal (de um novo endereço).
+Além dos casos acima, o comportamento pode ser observado quando o usuário está na etapa de envio e, ao recarregar a página, é levado automaticamente para o pagamento sem preencher os dados da fatura.
+Outro cenário que induz o comportamento é alternar entre a lista de endereços registrados anteriormente e um novo endereço, o que permite que o usuário prossiga para o pagamento sem preencher o CEP (de um novo endereço).
 
 
 
 ## Workaround
 
 
-Não há nenhuma solução conhecida para evitar o cenário de raiz.
+Não há nenhuma solução alternativa conhecida para evitar o cenário raiz.
+
+
+
+
 

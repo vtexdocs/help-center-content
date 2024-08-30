@@ -1,5 +1,5 @@
 ---
-title: 'No se puede crear el elemento personalizado "Productos relacionados".'
+title: "No se puede crear el elemento personalizado 'Productos relacionados'."
 id: 4Ca3b0mfpe20K7wSaImSQj
 status: PUBLISHED
 createdAt: 2022-01-21T14:44:26.429Z
@@ -18,9 +18,7 @@ internalReference: 326899
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 No se puede crear el elemento personalizado "Produtos Relacionados" en el CMS

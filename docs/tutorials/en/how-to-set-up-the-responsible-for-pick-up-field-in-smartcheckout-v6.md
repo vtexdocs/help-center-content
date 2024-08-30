@@ -1,10 +1,10 @@
 ---
-title: 'How to set up the "Responsible for pick up" field in SmartCheckout™ V6'
+title: "How to set up the 'Responsible for pick up' field in SmartCheckout™ V6"
 id: 2GsFnXUJxSOYEE6U2c4Syw
 status: PUBLISHED
 createdAt: 2018-11-09T12:18:14.596Z
-updatedAt: 2023-03-23T19:34:48.154Z
-publishedAt: 2023-03-23T19:34:48.154Z
+updatedAt: 2023-07-27T17:07:55.563Z
+publishedAt: 2023-07-27T17:07:55.563Z
 firstPublishedAt: 2018-11-26T14:43:00.552Z
 contentType: tutorial
 productTeam: Shopping
@@ -15,15 +15,11 @@ legacySlug: how-to-set-up-the-responsible-for-pick-up-field-in-smartcheckout-v6
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-<div class="alert alert-info">
-The <strong>Responsible for Pick Up</strong> field is only available for the <strong>SmartCheckout™ V6</strong>, version compatible with the Pick Up Points feature.
-</div>
+>ℹ️ The **Responsible for Pick Up** field is only available for the **SmartCheckout™ V6**, version compatible with the Pick Up Points feature.
 
 The [pick up points](/tutorial/configurar-pontos-de-retirada-pickup-points?locale=en) give your customers one more option: instead of waiting for delivery, they can choose to go to a determined point and collect the item in person. By default, this action is linked to the user who made the purchase. However, you can enable the `Responsible for pick up` field at your store checkout so that your customer can appoint someone else to pick up the product.
 
-<div class="alert alert-warning">
-If you have the <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-checkout-ui-settings">Checkout UI Settings</a> app installed on your store, the CSS code described in the procedure below must only be entered via the app. Scripts inserted via the Admin interface (<b>Code > Files</b>) are not reproduced in stores that have the application installed.
-</div>
+>⚠️ If you have the [Checkout UI Settings](https://developers.vtex.com/vtex-developer-docs/docs/vtex-checkout-ui-settings) app installed on your store, the CSS code described in the procedure below must only be entered via the app. Scripts inserted via the VTEX Admin interface (**Code > Files**) are not reproduced in stores that have the application installed.
 
 To set this field up (which is disabled by default), follow the steps below:
 
@@ -36,7 +32,7 @@ To set this field up (which is disabled by default), follow the steps below:
 
 ```
 .vtex-omnishipping-1-x-container.shp-pickup-receiver{
-    display: block;
+    display: block; !import;
 }
 ```
 

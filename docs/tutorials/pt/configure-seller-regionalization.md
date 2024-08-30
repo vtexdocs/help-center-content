@@ -3,8 +3,8 @@ title: 'Configurar a regionalização de sellers'
 id: 32t6wLpQCEnumoh8TjT5fw
 status: PUBLISHED
 createdAt: 2022-08-26T13:58:10.648Z
-updatedAt: 2022-08-26T18:34:14.924Z
-publishedAt: 2022-08-26T18:34:14.924Z
+updatedAt: 2023-07-17T12:11:40.614Z
+publishedAt: 2023-07-17T12:11:40.614Z
 firstPublishedAt: 2022-08-26T18:34:14.924Z
 contentType: tutorial
 productTeam: Shopping
@@ -41,8 +41,6 @@ Com a utilização do **Region**, caso o cliente realize o login na loja ainda d
 Para ativar o **Region** em sua loja, é necessário realizar os seguintes passos:
 
 1. [Configurar preço e disponibilidade de SKUs por Region](https://help.vtex.com/pt/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc#)
-2. [Habilitar a funcionalidade Region](https://developers.vtex.com/vtex-rest-api/docs/how-to-configure-region-feature-sku)
+2. [Habilitar a funcionalidade Region](https://developers.vtex.com/docs/guides/enable-the-region-for-skus)
 
-<div class="alert alert-info">
-  Atualmente, o <b>Region</b> está disponível para utilização em todas as lojas VTEX na versão v2. Saiba mais em <a href="https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release">Region v2<a/>.
-</div>
+>ℹ️ Atualmente, o **Region** está disponível para utilização em todas as lojas VTEX na versão v2. Saiba mais em <a href="https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release">Region v2<a/>.

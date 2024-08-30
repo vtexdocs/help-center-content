@@ -18,9 +18,7 @@ internalReference: 842018
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Nos carrinhos em que há uma entrega programada e uma entrega normal, e o Lean Shipping está ativado, se a opção mais barata e mais rápida for a entrega programada, a interface do usuário mostrará a alternância normalmente, mas ao desmarcar, nada acontecerá e a entrega programada ainda será selecionada.

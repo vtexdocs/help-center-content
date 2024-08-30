@@ -3,8 +3,8 @@ title: 'Qual a diferença entre produto e SKU?'
 id: 5yhABFDOpyiUcicce2W4CM
 status: PUBLISHED
 createdAt: 2018-01-26T17:49:48.383Z
-updatedAt: 2022-06-08T15:45:08.032Z
-publishedAt: 2022-06-08T15:45:08.032Z
+updatedAt: 2023-07-17T13:15:51.969Z
+publishedAt: 2023-07-17T13:15:51.969Z
 firstPublishedAt: 2018-01-26T18:00:17.827Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -27,6 +27,4 @@ Estruturalmente, primeiro você define as informações do produto para, depois,
 
 ## Artigos relacionados
 
-- [Cadastrar um produto](/pt/tutorial/cadastrando-produto)
-
-- [Cadastrar um SKU](/pt/tutorial/cadastrando-sku)
+- [Cadastrar um produto](https://help.vtex.com/pt/tutorial/cadastrando-produtos--tutorials_2567)

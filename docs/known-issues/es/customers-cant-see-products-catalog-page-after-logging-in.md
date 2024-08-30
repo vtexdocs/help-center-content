@@ -18,19 +18,13 @@ internalReference: 550112
 
 ## Sumario
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en Inglês.</p>
-</div>
+>⚠️ Este contenido sólo está disponible en Inglês.
 
 ## Simulación
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en Inglês.</p>
-</div>
+>⚠️ Este contenido sólo está disponible en Inglês.
 
 ## Workaround
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en Inglês.</p>
-</div>
+>⚠️ Este contenido sólo está disponible en Inglês.
 

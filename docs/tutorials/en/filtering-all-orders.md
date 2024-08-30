@@ -3,8 +3,8 @@ title: 'Filtering orders on All Orders'
 id: tutorials_192
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:05.494Z
-updatedAt: 2023-05-31T14:45:05.491Z
-publishedAt: 2023-05-31T14:45:05.491Z
+updatedAt: 2023-12-21T14:06:54.896Z
+publishedAt: 2023-12-21T14:06:54.896Z
 firstPublishedAt: 2017-04-27T23:00:47.449Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,8 @@ locale: en
 legacySlug: filtering-orders-in-oms, filtering-orders-on-the-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
+
+>ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 In the **Orders** module, the **All Orders** page allows you to access your store's orders, search and filter them, as shown in the image below:
 
@@ -25,6 +27,13 @@ This article explains how to use these resources, and it is divided into:
 - [Filters](#filters)
 - [Filter by Status](#filter-by-status)
 - [Created](#created)
+
+Besides searching for orders in **Orders > All Orders**, you can search for orders from any page in the VTEX Admin using the global search bar at the top bar. By default, the search is configured as `Pages`. To search for an order, click on the bar, select `Orders`, and use one of the following criteria:
+
+- Order ID
+- Customer name
+- Customer email
+- Customer document
 
 ## Search bar
 
@@ -38,9 +47,7 @@ To search using the search bar, type in the desired term and press the `enter` k
 
 [Sequence](https://help.vtex.com/en/tutorial/cuidados-ao-definir-a-numeracao-de-pedido--VAKKptfcaOxFxM8gfPobu) is a six-digit string displayed in your VTEX Admin right after the order ID. For example, in order `1268540501456-01 (501456)`, the order ID is `1268540501456`, the `-01` indicates that a seller will handle fulfillment, and the sequence is `501456`. 
 
-<div class = "alert alert-info">
-In addition to the list above, it is possible to activate other search criteria, as you will see in the <a href="https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192#filters-other">Other</a> section.
-</div>
+>ℹ️ In addition to the list above, it is possible to activate other search criteria, as you will see in the [Other](https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192#filters-other) section.
 
 By default, the **All orders** page has the orders created **Today** filter activated. To search by other dates, use the filters available under [Filters: Date](#filters-date) or [Created](#created).
 
@@ -54,9 +61,7 @@ Enter the desired term in the search bar to search on All orders. This will make
 
 ![search_bar_without_time_limit_EN](https://images.ctfassets.net/alneenqid6w5/2ii9VFh5uRpG4Ad0nwIIN0/c861b2b825068d861850bce56660aa30/search_bar_without_time_limit_EN.png)
 
-<div class="alert alert-danger">
-The search on All orders cannot be combined with other filters. So, once you remove the date limit from the search, any active filters become inactive. If the search term is removed or the <i class="fas fa-toggle-off"></i> <b>Remove date limit</b> is disabled, the previously configured filters become active again.
-</div>
+>❗ The search on All orders cannot be combined with other filters. So, once you remove the date limit from the search, any active filters become inactive. If the search term is removed or the <i class="fas fa-toggle-off"></i> **Remove date limit** is disabled, the previously configured filters become active again.
 
 ### Search by combining filters
 
@@ -81,9 +86,7 @@ When you click `Filters`, a modal is displayed with the following options:
 
 Select the desired option and click 'Apply' to apply a filter to the search. To remove applied filters, click **Clear Filters > Apply**.
 
-<div class = "alert alert-info">
-By default, the <i class="fas fa-toggle-on"></i> <b>My time zone: GMT-3</b> option appears enabled for all filters. When disabled, the time zone reference changes to GMT-0 and, if re-enabled, becomes the time zone adopted by the user's browser.
-</div>
+>ℹ️ By default, the <i class="fas fa-toggle-on"></i> **My time zone: GMT-3** option appears enabled for all filters. When disabled, the time zone reference changes to GMT-0 and, if re-enabled, becomes the time zone adopted by the user's browser.
 
 If there is no match for the filter combination used in the search, the search won't provide any results.
 
@@ -190,9 +193,7 @@ On the **Orders > All Orders** page, there is the `Filter by Status` <i class="f
 
 When clicking `Filter by Status` <i class="fas fa-angle-down"></i>, your store's [order status](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196) options are displayed. For example, if among all your orders, there are no canceled ones, this option will not be visible. 
 
-<div class = "alert alert-info">
-For more status filter options, go to the section <a href="https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192#filters-status">Filters: Status</a>. If you want to check all existing order status, read the article <a href="https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196">Order flow and status</a>.
-</div>
+>ℹ️ For more status filter options, go to the section [Filters: Status](https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192#filters-status). If you want to check all existing order status, read the article [Order flow and status](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 
 ## Created
 
@@ -208,8 +209,6 @@ This filter has the **Today** date enabled by default, but by clicking it, the f
 * Current month
 * Last 30 days
 
-<div class = "alert alert-info">
-By default, the <i class="fas fa-toggle-on"></i> <b>My time zone: GMT-3</b> option is enabled. When disabled, the time zone reference changes to GMT-0 and, if re-enabled, becomes the time zone used in the user's browser.
-</div>
+>ℹ️ By default, the <i class="fas fa-toggle-on"></i> **My time zone: GMT-3** option is enabled. When disabled, the time zone reference changes to GMT-0 and, if re-enabled, becomes the time zone used in the user's browser.
 
 For more date and period filter options, visit the [Filters: Date](#filters-date) section. 

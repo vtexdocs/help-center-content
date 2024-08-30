@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pago con PayPal'
 id: 4p3sD9u1moq2Aya2oc684w
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-02-21T17:15:53.516Z
-updatedAt: 2023-03-21T20:46:52.481Z
-publishedAt: 2023-03-21T20:46:52.481Z
+updatedAt: 2024-03-18T20:29:36.504Z
+publishedAt: 
 firstPublishedAt: 2018-02-21T17:54:19.079Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: es
 legacySlug: configurar-pago-con-paypal
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+>❗ Esta integración de pago ya no se puede configurar en la plataforma debido al [proceso de descontinuación de los proveedores legados](https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14) y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.
 
 En el gateway de VTEX, usted puede configurar el subadquirente de PayPal para recibir sus pagos. En esta modalidad, su cliente elige el pago de PayPal y realiza su autenticación en el ambiente de PayPal.
 

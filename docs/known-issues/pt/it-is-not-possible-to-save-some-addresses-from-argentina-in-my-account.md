@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível salvar alguns endereços da Argentina em "Minha Conta".'
+title: "Não é possível salvar alguns endereços da Argentina em 'Minha Conta'."
 id: 6kWZsPNLSDYgmJPDsQOO2w
 status: PUBLISHED
 createdAt: 2022-05-05T14:57:01.624Z
@@ -18,9 +18,7 @@ internalReference: 385410
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

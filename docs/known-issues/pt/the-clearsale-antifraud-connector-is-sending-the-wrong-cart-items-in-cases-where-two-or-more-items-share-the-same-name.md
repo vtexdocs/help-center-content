@@ -18,9 +18,7 @@ internalReference: 799396
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O conector antifraude do ClearSale usa o nome do item como uma condição ao percorrer o mini carrinho enviado pelo checkout. Nos casos em que dois ou mais itens compartilham o mesmo nome, mesmo que tenham SKUs diferentes, apenas um desses itens é enviado ao sistema antifraude. O valor da transação para os itens restantes é enviado como frete.

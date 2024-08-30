@@ -87,9 +87,7 @@ Clicando no botão <i class="fas fa-ellipsis-v"></i> na linha do seller, as segu
 - __Detalhes do seller:__ redireciona para a página de Detalhes do Seller, para visualizar ou editar informações.  
 - __Pedidos:__ redireciona para a página Todos os Pedidos, no OMS da VTEX, já filtrando pelos pedidos daquele seller.  
 
-<div class="alert alert-info">
-  Note que a lista está ordenada por ordem alfabética. Para visualizar os dados de todos os sellers, navegue entre as páginas de resultados, clicando nas setas  <i class="fas fa-angle-left"></i> e  <i class="fas fa-angle-right"></i> ao final da página. Utilize os filtros e a busca para refinar os resultados.
-  </div>
+>ℹ️ Note que a lista está ordenada por ordem alfabética. Para visualizar os dados de todos os sellers, navegue entre as páginas de resultados, clicando nas setas  <i class="fas fa-angle-left"></i> e  <i class="fas fa-angle-right"></i> ao final da página. Utilize os filtros e a busca para refinar os resultados.
 
   ### Seller identificável e não identificável (white label)
 

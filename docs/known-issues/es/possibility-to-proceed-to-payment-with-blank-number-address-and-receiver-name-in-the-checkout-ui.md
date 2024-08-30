@@ -18,9 +18,7 @@ internalReference: 554052
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al llegar al paso de dirección de la UI de compra, el usuario puede completar el número de dirección y el nombre del destinatario con un espacio en blanco y recibir la confirmación de validación, incluso poder pasar al siguiente paso de pago. Incluso sabiendo que no puede terminar la compra con éxito, es una mala usabilidad.

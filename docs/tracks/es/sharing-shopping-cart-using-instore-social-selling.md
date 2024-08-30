@@ -3,8 +3,8 @@ title: 'Compartir el carrito utilizando VTEX Sales App Social Selling'
 id: 6deiffo22iKkY27PkfstXy
 status: PUBLISHED
 createdAt: 2021-08-05T14:57:10.773Z
-updatedAt: 2023-05-31T15:22:18.271Z
-publishedAt: 2023-05-31T15:22:18.271Z
+updatedAt: 2023-07-26T19:00:02.450Z
+publishedAt: 2023-07-26T19:00:02.450Z
 firstPublishedAt: 2021-08-05T15:08:06.961Z
 contentType: trackArticle
 productTeam: Shopping
@@ -41,9 +41,7 @@ Vea el paso a paso que se muestra a continuación.
 
 El vendedor puede enviar el mismo enlace a varios clientes, tantas veces como lo desee. Cada vez que una persona acceda a este enlace, se generará un nuevo carrito de compra, exactamente igual al creado en VTEX Sales App. Cada carrito al que se accede también está asociado a la cuenta del vendedor y, si existe, al código del vendedor.
 
-<div class="alert alert-info">
-<p>Si el código de vendedor está activado, se le pide que lo rellene antes de compartir el carrito. Para obtener más información sobre el código de vendedor, visite la guía <a href="https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/Rby973h1l9tEM4C1YrzwZ">Personalización de VTEX Sales App</a> y la guía para desarrolladores <a href="https://developers.vtex.com/vtex-rest-api/docs/sales-rep-code">Enable the Sales Rep Code</a>.</p>
-</div>
+>ℹ️ Si el código de vendedor está activado, se le pide que lo rellene antes de compartir el carrito. Para obtener más información sobre el código de vendedor, visite la guía [Personalización de VTEX Sales App](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/Rby973h1l9tEM4C1YrzwZ) y la guía para desarrolladores [Enable the Sales Rep Code](https://developers.vtex.com/vtex-rest-api/docs/sales-rep-code).
 
 ## Link de pago
 

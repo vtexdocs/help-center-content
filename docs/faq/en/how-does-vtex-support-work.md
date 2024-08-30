@@ -3,8 +3,8 @@ title: 'How does VTEX support work?'
 id: 3kACEfni4m8Yxa1vnf2ebe
 status: PUBLISHED
 createdAt: 2019-03-10T19:06:12.818Z
-updatedAt: 2022-12-23T15:50:55.141Z
-publishedAt: 2022-12-23T15:50:55.141Z
+updatedAt: 2024-01-08T19:15:40.782Z
+publishedAt: 2024-01-08T19:15:40.782Z
 firstPublishedAt: 2019-03-10T19:08:36.723Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
@@ -35,7 +35,7 @@ To better serve global customers in different countries, our Customer Excellence
 - Asia-Pacific (APAC)
 - [Brazil](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9)
 - [United States (USA)](/en/faq/vtex-support-united-states--Bm45YFp68QRe1Z5r2oa07)
-- Europe, Middle East and Africa (EMEA)
+- [Europe, Middle East and Africa (EMEA)](https://help.vtex.com/en/faq/vtex-support-emea--5ePu2qkCfmE0IEKDFKg53F?&utm_source=autocomplete)
 - Latin America (LATAM, ex. Brasil)
 
 ### Satisfaction Survey
@@ -48,15 +48,11 @@ To access it, go to **Account settings** and click on **Satisfaction survey**.
 
 ### Real-time Monitoring
 
-We value transparency regarding the integrity of our systems. Thus, whenever there is a critical problem that can affect store sales or the functioning of the platform, we will establish a proactive communication with clients and partners through the following three channels:  
-
-- The [Healthcheck](http://healthcheck.vtex.com/) dashboard shows modules responsible for monitoring each VTEX service in real time. We display a functioning indicator for each module and the time it was last updated, warning when a resource is unavailable or not functioning properly. 
+We value transparency regarding the integrity of our systems. Thus, whenever there is a critical problem that can affect store sales or the functioning of the platform, we will establish a proactive communication with clients and partners through the following channels:  
 
 - The [Status](https://status.vtex.com/) page displays a timeline with the recent system incidents history. Detailed information on each incident is available, such as what happened, which modules were affected, the sequence of actions taken towards solving the problem, and in the end, a summary of the issue. 
 
-- The [Releases](https://releases.vtex.com/) page displays a timeline, detailed per module and version, with all updates made in stable and beta environments. 
-
-We will take all necessary measures to solve any issue as soon as possible and fulfill our [SLA](https://help.vtex.com/en/tutorial/o-que-e-o-sla-de-operacao-da-plataforma--2cIFrsY5S8usk84OU4QOKm?locale=pt) under contract.
+We will take all necessary measures to solve any issue as soon as possible and fulfill our [SLA](https://help.vtex.com/en/tutorial/o-que-e-o-sla-de-operacao-da-plataforma--2cIFrsY5S8usk84OU4QOKm) under contract.
 
 ### Help Center
 
@@ -70,10 +66,7 @@ The [developer portal](https://developers.vtex.com) contains all the documentati
 
 Our admin panel contains a product update communications channel, which highlights our latest functionalities and releases, in addition to any necessary action to avoid downtime. These announcements are also available in the Help Center [News](https://help.vtex.com/en/announcements) section. 
 
-Technical updates focused on developers and partners, including APIs updates, new development guides and VTEX IO announcements, are published in the Developer Portal [Release Notes](https://developers.vtex.com/changelog) section.  
+Technical updates focused on developers and partners, including APIs updates, new development guides and VTEX IO announcements, are published in the Developer Portal [Release Notes](https://developers.vtex.com/updates/release-notes) section.  
 
 Releases that are highly relevant to the market, such as new products, impactful new resources for existing products and company updates, are published on the [Blog](https://vtex.com/pt-br/category/produto/) and in the product's monthly newsletter.  
 
-## Additional services on demand
-
-For situations in which our clients need greater support for more complex projects, we offer project consulting services. If you are interested, your Customer Success Manager can guide you through all the available options and forward this request internally to the responsible teams.

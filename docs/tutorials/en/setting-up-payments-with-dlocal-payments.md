@@ -3,8 +3,8 @@ title: 'Setting up payments with DLocal Payments'
 id: 50DpZAd6td8oJaAIzHfQB5
 status: PUBLISHED
 createdAt: 2023-04-03T13:40:15.432Z
-updatedAt: 2023-04-03T14:03:12.910Z
-publishedAt: 2023-04-03T14:03:12.910Z
+updatedAt: 2024-01-23T18:09:56.316Z
+publishedAt: 2024-01-23T18:09:56.316Z
 firstPublishedAt: 2023-04-03T14:03:12.910Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: setting-up-payments-with-dlocal-payments
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the DLocal Payments payment provider. With this connector, your store can make sales through credit, debit cards and bank invoice.
+At VTEX, it is possible to integrate with the DLocal Payments payment provider. With this provider, your store can make sales through credit, debit cards and bank invoice.
 
-To configure DLocal Payments affiliation, follow the steps below:
+To configure DLocal Payments, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payments > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Gateway affiliations__ tab, click on the `+` button.
-3. Click on the __DLocalPayments__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __DLocalPayments__ in the search bar and click on the name of the provider.
 4. Fill in the __Application Key__ and __Application Token__ fields with data provided by DLocal Payments.
 5. In the __Payment settlement__ field, select one of the available options:
 

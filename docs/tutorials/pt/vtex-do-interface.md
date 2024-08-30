@@ -3,8 +3,8 @@ title: 'VTEX DO'
 id: 7KMbRL4OslN8DTX9oiuCiu
 status: PUBLISHED
 createdAt: 2022-04-04T21:12:30.592Z
-updatedAt: 2023-03-29T14:50:36.206Z
-publishedAt: 2023-03-29T14:50:36.206Z
+updatedAt: 2023-11-06T14:21:27.706Z
+publishedAt: 2023-11-06T14:21:27.706Z
 firstPublishedAt: 2022-04-04T21:58:08.236Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -19,9 +19,7 @@ O VTEX DO é um gerenciador de tarefas criadas automaticamente pelo Admin VTEX, 
 
 ![VTEX Do overview PT](https://images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/76b1688496144fe90a8fc65f94a62bef/VTEX_Do_overview_PT.gif)
 
-<div class = "alert alert-info">
-Somente usuários com o recurso <a href = "https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> cadastrado em seu <a href = "https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">perfil de acesso</a> podem realizar tarefas pelo VTEX DO. 
-</div>
+>ℹ️ Somente usuários com o perfil de acesso <a href = "https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> podem realizar tarefas pelo VTEX DO.
 
 As tarefas estão listadas em duas abas:
 

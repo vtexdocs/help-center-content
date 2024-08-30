@@ -49,9 +49,7 @@ When the payment is settled, the system will send information about recipients a
 
 No. Split payments support the change seller feature only when made with one or two credit cards. This is because most of the payment providers settle the value immediately for payment methods such as “boleto” (popular Brazilian off-line payment method) or debit card. Therefore, we cannot offer a time window to change sellers in this case. 
 
-<div class="alert alert-warning">
-  If you make an attempt to change sellers with payment methods other than credit card, you will receive the following API call error message: "Error when updating additional data for transaction = 722726D8B04C4AAFB1EC945076FD2913. Payout split was already done".
-  </div>
+>⚠️ If you make an attempt to change sellers with payment methods other than credit card, you will receive the following API call error message: "Error when updating additional data for transaction = 722726D8B04C4AAFB1EC945076FD2913. Payout split was already done".
 
 ### Is it possible to partially or fully refund an order?
 
@@ -78,9 +76,7 @@ However, it was necessary to change the seller. After the change, the order was 
 
 On the Partner02 dashboard, you can see a discount of BRL 0.28 identified as "Coinshop Discount". Although the price advertised by the seller Partner02 was BRL 0.30, it will receive only BRL 0.02.
 
-<div class="alert alert-info">
-  It is worth mentioning that in this case, it was possible to change sellers because the total cost difference was no more than BRL 0.30. If the difference was higher than BRL 0.31, it would not be possible to change sellers.
-  </div>
+>ℹ️ It is worth mentioning that in this case, it was possible to change sellers because the total cost difference was no more than BRL 0.30. If the difference was higher than BRL 0.31, it would not be possible to change sellers.
 
 After the order invoicing, the system settled BRL 5.02 and performed the split payment.
 

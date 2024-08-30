@@ -3,8 +3,8 @@ title: 'What to do when receiving an error message during shipping simulation'
 id: 3bkJwe0Yj6qEkuYKUWwKwK
 status: PUBLISHED
 createdAt: 2017-05-09T14:03:03.097Z
-updatedAt: 2021-03-22T20:46:27.291Z
-publishedAt: 2021-03-22T20:46:27.291Z
+updatedAt: 2023-10-10T16:20:54.988Z
+publishedAt: 2023-10-10T16:20:54.988Z
 firstPublishedAt: 2017-05-09T14:06:10.341Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
@@ -18,7 +18,7 @@ What to do when a shipping simulation does not show the expected result?
 
 Here, we will provide a step-by-step description about how to check the Logistics settings.
 
-Before we start, please remember that the [Shipping Simulation](/en/tutorial/freight-simulation/) will return the result of the [Shipping Calculation](https://developers.vtex.com/reference/logistics-api-overview) API. We recommend always using APIs. If you don’t have access, ask your store administrator and check the role associated with your user.
+Before we start, please remember that the [Shipping Simulation](/en/tutorial/freight-simulation/) will return the result of the [Shipping Calculation](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping/calculate) API. We recommend always using APIs. If you don’t have access, ask your store administrator and check the role associated with your user.
 
 To illustrate this article, let’s consider a scenario where the __X-Box__ product is not being delivered to Postal Code 22451-451 for sales policy 1. The error message is as follows: "_It was not possible to generate the cart. See details below_".
 
@@ -26,7 +26,7 @@ Some factors may influence a simulation; so, we recommend that you always start 
 
 Then, we must check Logistics as a whole, that is, which X-Box inventory and which carrier are associated with Sales Policy 1. This information is contained in the Warehouse Dock.
 
-This would also be very simple if you use the API. Through the query [Shipping Calculation](https://developers.vtex.com/reference/logistics-api-overview) it is easy to identify the carrier’s ID and, thus, to go backwards. 
+This would also be very simple if you use the API. Through the query [Shipping Calculation](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping/calculate) it is easy to identify the carrier’s ID and, thus, to go backwards. 
 
 But how can you correct that?
 

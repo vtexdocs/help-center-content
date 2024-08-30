@@ -1,5 +1,5 @@
 ---
-title: 'Cambiamos la implementación del "Precio Máximo por Artículo"'
+title: "Cambiamos la implementación del 'Precio Máximo por Artículo'"
 id: 2snrUcdlt2C8QIq2yqaUww
 status: DRAFT
 createdAt: 2017-10-30T19:12:11.257Z
@@ -21,9 +21,9 @@ De hecho, estamos haciendo este cambio justamente porque, con la evolución de l
 
 Eliminando la promoción Precio Máximo por Artículo, mejoramos el rendimiento del módulo de promociones y la gestión de las tiendas.
 
-<div class="alert alert-warning">Hasta el día 20 de noviembre, la promoción Precio máximo por Artículo sigue existiendo. Sin embargo, el número máximo de elementos permitidos pasa a ser <b>100</b>. Anteriormente el máximo permitido era 500.</div>
+>⚠️ Hasta el día 20 de noviembre, la promoción Precio máximo por Artículo sigue existiendo. Sin embargo, el número máximo de elementos permitidos pasa a ser **100**. Anteriormente el máximo permitido era 500.
 
-<div class="alert alert-danger">Si usted utiliza alguna promoción Precio Máximo por Artículo, lea este texto hasta el final y adapte el método en su tienda. En caso contrario, los SKUs en cuestión dejarán de ser impactados por esta estrategia de negocio.</div>
+>❗ Si usted utiliza alguna promoción Precio Máximo por Artículo, lea este texto hasta el final y adapte el método en su tienda. En caso contrario, los SKUs en cuestión dejarán de ser impactados por esta estrategia de negocio.
 
 ## Alternativas
 
@@ -33,7 +33,7 @@ Usted tiene dos maneras por las cuales puede alcanzar el mismo efecto de la prom
 
 Usted puede configurar una [Promoción Regular](/es/tutorial/registro-promocion-regular) con el tipo de descuento __Precio Máximo por Artículo__.
 
-![PrecoMaximoEN](//images.contentful.com/alneenqid6w5/ZqS2JBJtEkgusUu4qOsEE/ab84f34757924220efe4d44250d499a5/PrecoMaximoEN.png)
+![PrecoMaximoEN](https://images.contentful.com/alneenqid6w5/ZqS2JBJtEkgusUu4qOsEE/ab84f34757924220efe4d44250d499a5/PrecoMaximoEN.png)
 
 Se trata de un escenario incluso mejor que el anterior, ya que el comerciante tiene más opciones de agrupación, por ejemplo, por categoría de producto.
 

@@ -3,8 +3,8 @@ title: 'Busca Filtro Navigator + Faixa de preço que produz resultados incorreto
 id: 6s4vJr6DVPLU9JlxIPWqhx
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:53.208Z
-updatedAt: 2022-11-25T22:10:01.089Z
-publishedAt: 2022-11-25T22:10:01.089Z
+updatedAt: 2024-02-16T20:24:11.551Z
+publishedAt: 2024-02-16T20:24:11.551Z
 firstPublishedAt: 2022-06-28T16:55:53.927Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: busca-filtro-navigator-faixa-de-preco-que-produz-resultados-incorretos
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 504992
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, ao utilizar o filtro de busca da marca Navigator juntamente com uma faixa de preço em uma edição comercial da VTEX, produtos fora da marca filtrada podem ser mostrados.

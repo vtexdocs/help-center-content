@@ -18,9 +18,7 @@ internalReference: 664419
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 A veces, al intentar abrir una especificación de producto o sku en el administrador de categorías, la página no se carga correctamente y se actualiza de nuevo a la página inicial del árbol de categorías.

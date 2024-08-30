@@ -3,8 +3,8 @@ title: 'Configuring Synonyms'
 id: 3ExbC3QKNF4zH7Gs8jD1cL
 status: PUBLISHED
 createdAt: 2019-11-29T12:04:33.557Z
-updatedAt: 2023-03-30T19:19:37.658Z
-publishedAt: 2023-03-30T19:19:37.658Z
+updatedAt: 2024-01-30T22:46:15.605Z
+publishedAt: 2024-01-30T22:46:15.605Z
 firstPublishedAt: 2020-03-05T19:56:02.826Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -13,6 +13,8 @@ locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
 ---
+
+>ℹ️ We recommend using [Synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) instead of [Substitute Words](https://help.vtex.com/en/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete) to associate words with products, as synonyms allow you to manage terms per product in a more scalable way. Contact our [Support team](https://support.vtex.com/hc/pt-br/requests) for more information.
 
 There are two ways to set up synonyms in VTEX Admin: [individually](#creating-synonyms-individually) or by [importing a spreadsheet in CSV format](#importing-csv-spreadsheet). If you need to register synonyms in bulk, we recommend using the spreadsheet. See the instructions for each configuration form in the following sections.
 
@@ -32,20 +34,32 @@ Follow the step-by-step procedure to configure synonyms individually in the VTEX
 4. Fill in the fields that correspond to the synonym:
    - __Type:__ defines the type of synonym. Check [Types of synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#types-of-synonyms) for more information.
    - __Terms:__ words or expressions to be defined as synonyms. You must press `Enter` after each term to insert another term.
+   - **Locales:** Languages to which the synonym will apply. The field is only available for stores using [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
    - __Status:__ defines whether the synonym will be active or inactive.
 5. To finish, click on `Save`.
 
 Changes can take up to two hours to take effect.
 
-<div class="alert alert-info">
-<p> This feature is available on VTEX Intelligent Search Multilanguage. Read our article <a href="https://help.vtex.com/en/tutorial/vtex-intelligent-search-multilanguage-settings-beta--2WahlTESLXIJ9XBdQMdTYO#synonyms">VTEX Intelligent Search: Multilanguage settings (Beta)</a>to learn more.</p>
-</div>
+>ℹ️ This feature is available on VTEX Intelligent Search Multilanguage. Read our article [VTEX Intelligent Search: Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-multilanguage-settings-beta--2WahlTESLXIJ9XBdQMdTYO#synonyms)to learn more.
 
 ## Importing CSV spreadsheet
 
-In case there are many synonyms to be added, you can make a .csv file and import it in the Admin. The file must contain the following format, according to the [types of synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#types-of-synonyms) chosen:
+In case there are many synonyms to be added, you can make a .csv file and import it in the Admin.
 
- - __Unidirectional:__ `{terms separated by comma};{expanded terms separated by comma};{status}`
+To import the file, follow the steps below:
+
+1. Create a CSV file in the format described on [Synonyms spreadsheet template](#synonyms-spreadsheet-template).
+2. In the VTEX Admin, go to __Storefront__, or type __Storefront__ in the search bar at the top of the page.
+3. Under **Intelligent Search**, click **Synonyms**. 
+4. Click on <i class="fas fa-download"></i> `Import`.
+5. Drag the CSV file into the bounded area or click on `choose a file` to select the file on your device.
+6. Click on `Import`.
+
+### Synonyms spreadsheet template
+
+The file must contain the following format, according to the [types of synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#types-of-synonyms) chosen:
+
+ - __Unidirectional:__ `{terms separated by comma};{equivalent term};{status}`
 
    __Examples:__
 
@@ -59,8 +73,19 @@ In case there are many synonyms to be added, you can make a .csv file and import
     - `tv,television,television set;true`: When searching for any of these terms, the products containing any of them will be returned.
     - `monitor,screen,display;true`: When searching for any of these terms, the products containing any of them will be returned.
 
-To import the file, follow the steps below:
+#### Multilanguage stores (Beta)
 
-1. In the VTEX Admin, go to __Storefront__, or type __Storefront__ in the search bar at the top of the page.
-2. Under **Intelligent Search**, click **Synonyms**. 
-3. Click on `Import`.
+Stores using  [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO) must follow the template below to import synonyms for specific locales.
+
+- __Unidirectional__: `{terms separated by comma};{equivalent term};{status};{locales separated by comma}`
+
+   __Example:__
+   - `smartphone;iPhone;true;en-GB`: When searching for smartphone in the English language store (`locale en-GB`), the website will return results for `iphone`. However, when searching for `iphone`, the website will not return results for `smartphone`.
+
+- __Bidirectional__: `{terms separated by comma};{status};{locales separated by comma}`
+
+    __Example:__
+    - `tv,smart tv;true;en-GB`: When searching for one of these terms in the store in English (`locale en-GB`), the search results will return any product that contains one of these terms.
+
+>⚠️ If the imported .csv file does not have the `locale`, the synonym will be valid for all languages available in the store.
+

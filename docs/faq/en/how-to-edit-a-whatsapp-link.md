@@ -14,6 +14,4 @@ locale: en
 legacySlug: how-to-edit-a-whatsapp-link
 ---
 
-<div class="alert alert-warning">
-  <p>This content is only available in Portuguese.</p>
-</div>
+>⚠️ This content is only available in Portuguese.

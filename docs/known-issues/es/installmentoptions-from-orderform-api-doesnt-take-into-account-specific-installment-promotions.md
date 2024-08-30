@@ -18,9 +18,7 @@ internalReference: 644563
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando una promoción está restringida a una cantidad específica de cuotas de la tarjeta de crédito (por ejemplo, "10% en efectivo"), el importe descontado se aplica incluso a las cuotas fuera del rango limitado, donde el objeto "installmentOptions" de la API de orderForm devolverá valores erróneos.

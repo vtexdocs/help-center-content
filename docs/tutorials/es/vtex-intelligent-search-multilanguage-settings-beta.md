@@ -3,8 +3,8 @@ title: 'VTEX Intelligent Search: configuración Multidioma (Beta)'
 id: 2WahlTESLXIJ9XBdQMdTYO
 status: PUBLISHED
 createdAt: 2021-03-09T22:44:16.513Z
-updatedAt: 2023-03-30T17:45:54.079Z
-publishedAt: 2023-03-30T17:45:54.079Z
+updatedAt: 2023-07-26T19:15:24.855Z
+publishedAt: 2023-07-26T19:15:24.855Z
 firstPublishedAt: 2021-03-10T21:13:35.816Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,23 +15,15 @@ legacySlug: vtex-intelligent-search-configuracion-multidioma-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-<div class="alert alert-info">
-<p>Esta funcionalidad está en etapa Beta, lo que significa que estamos trabajando para mejorarla. En caso de dudas, contacte a <a href="https://support.vtex.com/hc/pt-br/requests">nuestro Soporte</a>.</p>
-</div>
+>ℹ️ Esta funcionalidad está en etapa Beta, lo que significa que estamos trabajando para mejorarla. En caso de dudas, contacte a [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests).
 
 [VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) es una aplicación de búsqueda inteligente para ecommerce que está disponible para tiendas desarrolladas con [VTEX IO](https://vtex.com/es-es/store-framework/). Para instalar y configurar VTEX Intelligent Search en su tienda, [lea nuestro artículo Search](https://developers.vtex.com/vtex-developer-docs/docs/vtex-search). La herramienta muestra sugerencias de búsqueda y productos que pueden ser del interés del usuario, además corrige errores de ortografía e identifica palabras que no están en el registro del producto.
 
 VTEX Intelligent Search Multidioma expande las funcionalidades de [Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) y ofrece una experiencia de búsqueda multidioma, ideal para las tiendas que realizan operaciones en diversos países. Este recurso facilita la adaptación de la tienda a múltiples idiomas y garantiza la búsqueda en todos los idiomas registrados.
 
-<div class="alert alert-info">
-<p> En caso de que desee expandir su ecommerce a otro idioma, contacte a <a href="https://support.vtex.com/hc/pt-br/requests">nuestro Soporte</a> para que el equipo de VTEX realice las configuraciones necesarias.</p>
-</div>
+>ℹ️ En caso de que desee expandir su ecommerce a otro idioma, contacte a [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests) para que el equipo de VTEX realice las configuraciones necesarias.
 
-Cuando tiene VTEX Intelligent Search Multidioma instalada, la información del Catálogo de su tienda es traducida por la aplicación [Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization), si la misma está registrada como términos traducibles de los siguientes campos: Nombre, Marca (solo si hay una traducción registrada por el administrador de la tienda), Descripción, Categorías, CategoryTrees, metadata, metadataKeyword, Especificaciones, SKU {name}.
-
-<div class="alert alert-warning">
-<p> Si un término no tiene una traducción registrada en Messages, es traducido por un servicio automático. Por eso, es importante <a href="https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization">registrar la traducción de todos los campos</a> para evitar efectos no deseados, como las traducciones literales que no reflejen la lengua que se utiliza en una región determinada. Si el término correcto no está registrado, el nombre de un producto como «whole milk», por ejemplo, corre el riesgo de ser traducido automáticamente como «leche entera» en lugar de «leche integral».</p>
-</div>
+Cuando tiene VTEX Intelligent Search Multidioma instalada, la información del Catálogo de su tienda es traducida por la aplicación [Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization). Para eso, es importante registrar la traducción de los siguientes campos: Nombre, Marca (solo si hay una traducción registrada por el administrador de la tienda), Descripción, Categorías, CategoryTrees, metadata, metadataKeyword, Especificaciones, SKU {name}. Lea la guía para desarrolladores [Traducción del contenido del catálogo](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization) para obtener más información.
 
 A través de [Multi-Tenant API](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-multi-language-stores), VTEX Intelligent Search Multidioma obtiene todos los lugares y respectivos idiomas (ej.: pt-br, en-GB) registrados en la tienda. Cada lugar posee una URL propia.
 
@@ -54,9 +46,7 @@ Para saber más sobre los campos, lea nuestro artículo sobre [cómo configurar 
 ### Sinónimos
 Hay dos formas de configurar Sinónimos en una tienda multidioma en el Admin: completar un formulario o importar un archivo .csv.
 
-<div class="alert alert-warning">
-<p> Las configuraciones creadas o alteradas en <b>Sinónimos</b> pueden tardar hasta 2 horas en aplicarse en la tienda.</p>
-</div>
+>⚠️ Las configuraciones creadas o alteradas en **Sinónimos** pueden tardar hasta 2 horas en aplicarse en la tienda.
 
 #### Crear Sinónimos vía formulario
 Cuando tiene VTEX Intelligent Search Multidioma instalada,  la página de edición o creación de Sinónimos — que se accede en el Admin VTEX en __Storefront__ > __Intelligent Search__ > __Sinónimos__ — exhibe el campo adicional __Regiones__, que permite elegir los idiomas a los que se aplicará los sinónimos registrados, como se muestra en la siguiente imagen. Haga clic en los idiomas deseados para seleccionarlos.  
@@ -75,9 +65,7 @@ En caso de que prefiera importar Sinónimos para idiomas específicos mediante a
 - __Bidireccional__: `<Términos separados por coma>;<status>;<locales separados por coma>`.
     - Ejemplo: `tv,smart tv;true;en-GB`: al buscar cualquiera de estos términos en la tienda en el idioma inglés (`locale en-GB`), se mostrará cualquier producto que contenga uno de esos términos en los resultados de búsqueda.
 
-<div class="alert alert-warning">
-<p> Si el archivo .csv importado no contiene la columna `locale`, el sinónimo será válido para todos los idiomas disponibles en la tienda. </p>
-</div>
+>⚠️ Si el archivo .csv importado no contiene la columna `locale`, el sinónimo será válido para todos los idiomas disponibles en la tienda.
 
 Para saber más sobre la importación de una plantilla de Sinónimos, lea nuestro artículo sobre [cómo configurar Sinónimos en VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL).
 

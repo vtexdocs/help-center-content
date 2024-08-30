@@ -18,55 +18,13 @@ internalReference:
 
 ## Sumario
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en Inglês.</p>
-</div>
+>⚠️ Este contenido sólo está disponible en Inglês.
 
 ## Simulación
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en Inglês.</p>
-</div>
+>⚠️ Este contenido sólo está disponible en Inglês.
 
 ## Workaround
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en Inglês.</p>
-</div>
-
-e de fecha de lanzamiento en el pasado reciente. Está presente en el siguiente componente de la interfaz de usuario:
-
- ![](https://vtexhelp.zendesk.com/attachments/token/pFLlcE3tDbGcA0bgmlAhPNccB/?name=image.png)
-
-Sin embargo, al combinar esta funcionalidad con la exportación de hojas, este filtro se ignora, trayendo todos los productos dentro de la colección.
-
-
-
-
-
-
-## Simulación
-
-
-1 - Vaya al módulo de nuevas colecciones y elija una colección
-
-2 - En el listado principal de la colección, utilice el filtro "Recién lanzado", tenga en cuenta que necesita tener al menos 1 producto con el valor "Fecha de lanzamiento" establecido en el rango filtrado. Este valor puede establecerse en la página de configuración del producto.
-
-3 - Un valor determinado de productos "Recién lanzados" será filtrado y listado en la UI.
-
-4 - Seleccione la función "Exportar".
-
-5 - Exporte una hoja de SKU para esta colección
-
-6 - Compruebe el número de registros exportados, será la cantidad total de productos de la colección, no los Recién Salidos.
-
-
-
-
-
-
-## Workaround
-
-
-Utilice filtros alternativos para su exportación.
+>⚠️ Este contenido sólo está disponible en Inglês.
 

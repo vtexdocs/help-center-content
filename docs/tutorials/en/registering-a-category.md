@@ -3,8 +3,8 @@ title: 'Registering a category'
 id: tutorials_206
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:39.383Z
-updatedAt: 2023-03-29T17:45:06.786Z
-publishedAt: 2023-03-29T17:45:06.786Z
+updatedAt: 2023-11-29T19:10:35.853Z
+publishedAt: 2023-11-29T19:10:35.853Z
 firstPublishedAt: 2017-04-27T23:00:46.516Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,9 +15,7 @@ legacySlug: registering-a-category
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-<div class = "alert alert-info">
-On the VTEX platform, Department, Category, and Subcategory structure is not predefined. It varies according to the structure of your store, and it is not mandatory to create these 3 hierarchical levels.
-</div>
+>ℹ️ On the VTEX platform, Department, Category, and Subcategory structure is not predefined. It varies according to the structure of your store, and it is not mandatory to create these 3 hierarchical levels.
 
 The registration of a category happens inside the __Catalog__ on VTEX Admin.
 
@@ -38,4 +36,4 @@ Follow the instructions below to create a category:
 - [Fill in category registration fields](/en/tutorial/category-registration-fields)
 - [Cleaning store's data base](/en/tutorial/understanding-how-to-maintain-a-database)
 - [Registering a product](/en/tutorial/registering-a-product)
-- [Registering an SKU](/en/tutorial/registering-sku)
+- [Registering an SKU](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)

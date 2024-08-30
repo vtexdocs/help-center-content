@@ -1,10 +1,10 @@
 ---
-title: 'Textlink created with " " on Marketplace upon approvals - Reoccurence'
+title: "Textlink created with ' ' on Marketplace upon approvals - Reoccurence"
 id: 2afynQ9MwaHPMPWyhx80Tp
 status: PUBLISHED
 createdAt: 2023-04-24T19:36:10.185Z
-updatedAt: 2023-05-08T17:47:01.002Z
-publishedAt: 2023-05-08T17:47:01.002Z
+updatedAt: 2023-07-13T15:25:43.450Z
+publishedAt: 2023-07-13T15:25:43.450Z
 firstPublishedAt: 2023-04-24T19:36:10.701Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: textlink-created-with-on-marketplace-upon-approvals-reoccurence
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 795900
 ---
 
@@ -25,13 +25,9 @@ The SKU is sent back for approval on the Received Skus module, but it isn't poss
 
 
 
-
-
 ##
 
 ## Simulation
-
-
 
 
 1) It usually occurs with an received skus generic error upon attempting to approve (this doest not happen for every case).
@@ -43,12 +39,13 @@ The SKU is sent back for approval on the Received Skus module, but it isn't poss
 4) Attempting to approve it once again will display an error.
 
 
-
-
 ##
 
 ## Workaround
 
 
 Manually/API updating the textlinks of the product under this scenario.
+
+
+
 

@@ -1,10 +1,10 @@
 ---
 title: 'Configurar Seller White Label como Ponto de Retirada (Pickup Point)'
 id: 6fSUE2O0taaoKieAaiuc4e
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-09-04T14:22:05.290Z
-updatedAt: 2023-03-29T18:58:34.411Z
-publishedAt: 2023-03-29T18:58:34.411Z
+updatedAt: 2023-07-26T21:33:59.946Z
+publishedAt: 
 firstPublishedAt: 2018-09-05T20:38:04.270Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -23,9 +23,7 @@ Conforme explicado no artigo [Definições de Conta Franquia e Seller White Labe
 
 Desta maneira, o ponto de retirada configurado na Conta Franquia servirá para atender às entregas dos pedidos realizados na Conta Principal. Neste cenário, a Conta Franquia atua como __Seller White Label__ da Conta Principal.
 
-<div class="alert alert-danger">
-As configurações devem ser feitas na conta do Seller White Label. Os itens só ficarão disponíveis para retirada no checkout do cliente final se o SKU estiver disponível no estoque da conta principal e da conta do Seller White Label.
-</div>
+>❗ As configurações devem ser feitas na conta do Seller White Label. Os itens só ficarão disponíveis para retirada no checkout do cliente final se o SKU estiver disponível no estoque da conta principal e da conta do Seller White Label.
 
 ## Configurações iniciais 
 
@@ -34,7 +32,7 @@ Para configurar um seller white label como ponto de retirada, é preciso cadastr
 - [Ponto de Retirada](https://help.vtex.com/pt/tutorial/creating-pickup-points--2R5ClQiwe4KoSQgsuiOw4E): com o endereço do seller white label.    
 - [Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140): para exibir o Ponto de Retirada no checkout, é necessário configurar uma política de envio e vincular um ponto de retirada cadastrado.   
 - [Doca](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW): agora, você deve configurar uma Doca e vincular a transportadora cadastrada com o ponto de retirada. 
-- [Estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137#cadastrar-estoque): você deve configurar um Estoque e vincular a política de envio cadastrada com o ponto de retirada.     
+- [Estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137#cadastrar-estoque): você deve configurar um Estoque e vincular a política de envio cadastrada com o ponto de retirada.
 
 ## Preencher quantidade em estoque
 
@@ -47,6 +45,8 @@ Para saber em detalhes como preencher os  campos da planilha, acesse nosso artig
 ## Validar configuração
 
 Se a configuração do ponto de retirada tiver sido feita corretamente na Conta Franquia, os SKUs com __estoque disponível e preço__ poderão ser vendidos na Conta Principal, onde a Conta Franquia vai atuar como um __Seller White Label__ e a Conta Principal funcionará como um __Marketplace__.
+
+>⚠️ Certifique-se de que o seller white label está ativo. Para isso, acesse o Admin VTEX, em **Marketplace > Sellers > Gerenciamento**, e na linha do seller e coluna <i>Status</i>, clique em `Ativo`.
 
 ### Seller White Label/Conta Franquia
 

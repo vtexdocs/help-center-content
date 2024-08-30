@@ -3,8 +3,8 @@ title: 'O componente seletor de quantidade não retorna ao valor limite quando o
 id: 4QRAzY1A0UD8hOUEkxAawz
 status: PUBLISHED
 createdAt: 2022-09-16T16:27:15.880Z
-updatedAt: 2022-11-25T22:13:30.254Z
-publishedAt: 2022-11-25T22:13:30.254Z
+updatedAt: 2024-02-16T20:28:10.783Z
+publishedAt: 2024-02-16T20:28:10.783Z
 firstPublishedAt: 2022-09-16T16:27:16.745Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-componente-seletor-de-quantidade-nao-retorna-ao-valor-limite-quando-o-usuario-clica-rapidamente
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 659909
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Basicamente, existe uma função que recebe o estado atualizado do valor sendo controlado na tela pelo usuário (é um estado de uso). Esta função é usada em todo o componente para lidar com atualizações de estado de quantidade. Para que este estado seja atualizado automaticamente quando o usuário excede a quantidade retornada no contexto, relacionado à disponibilidade do item, ele é passado dentro de um useEffect.

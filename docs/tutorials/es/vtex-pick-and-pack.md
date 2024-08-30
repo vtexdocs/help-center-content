@@ -3,8 +3,8 @@ title: 'VTEX Pick and Pack'
 id: 1OOops3WrUyz7e0bnhkfXU
 status: PUBLISHED
 createdAt: 2023-04-10T15:22:56.572Z
-updatedAt: 2023-04-20T00:55:31.302Z
-publishedAt: 2023-04-20T00:55:31.302Z
+updatedAt: 2023-08-25T15:48:44.351Z
+publishedAt: 2023-08-25T15:48:44.351Z
 firstPublishedAt: 2023-04-10T15:42:38.221Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,8 @@ locale: es
 legacySlug: vtex-pick-and-pack
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
+
+>ℹ️ Si tienes interés en implementarla en tu negocio, rellena nuestro [formulario](https://vtex.com/co-es/contacto/) indicando en el campo `Comentarios` el nombre del producto deseado.
 
 **VTEX Pick and Pack** es la solución que permite a los comerciantes gestionar la recolección, el empaquetado y la entrega de pedidos desde tiendas físicas y almacenes a las direcciones de los clientes o [puntos de recogida](https://help.vtex.com/es/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). Toda la gestión se realiza en un único lugar, lo que proporciona visibilidad y control a los comerciantes durante todo el proceso de fulfillment.
 
@@ -38,7 +40,5 @@ Con **VTEX Pick and Pack**, los comerciantes también pueden obtener datos y an�
 - **[Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr):** aplicación del Admin que permite al operador de la tienda dar instrucciones a los entregadores sobre la recogida y entrega de pedidos en la dirección de los clientes o en los puntos de recogida. Incluye la optimización de rutas y la prueba de recogida y entrega, lo que significa que el entregador puede cargar una firma del cliente, una foto o un comentario que confirme que se ha realizado la entrega.
 - **Aplicaciones móviles:** aplicaciones para dispositivos móviles destinadas exclusivamente a los entregadores, para que puedan realizar sus actividades sin necesidad de acceder al Admin de la tienda.
 
-<div class = "alert alert-info">
-Las aplicaciones <b>Fufillment</b> y <b>Last Mile</b> para entregadores solo están disponibles para dispositivos Android.
-</div>
+>ℹ️ Las aplicaciones **Fufillment** y **Last Mile** para entregadores solo están disponibles para dispositivos Android.
 

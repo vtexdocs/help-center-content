@@ -1,10 +1,10 @@
 ---
-title: 'Time Out - Administração de Importação e Exportação'
+title: 'Time Out - Administração de importação e exportação'
 id: 5sPtDgOXtiGcYMvZL7aCf8
 status: PUBLISHED
 createdAt: 2022-03-10T12:36:57.023Z
-updatedAt: 2022-11-25T21:46:35.375Z
-publishedAt: 2022-11-25T21:46:35.375Z
+updatedAt: 2024-01-19T15:24:38.444Z
+publishedAt: 2024-01-19T15:24:38.444Z
 firstPublishedAt: 2022-03-10T12:36:57.461Z
 contentType: knownIssue
 productTeam: Catalog
@@ -18,20 +18,16 @@ internalReference: 424902
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
-Para algumas contas com muitos produtos, a administração de importação e exportação não carrega, gerando um time out
-
-
+Para algumas contas com muitos produtos, o administrador de importação e exportação não é carregado, gerando um tempo limite
 
 
 ## Simulação
 
 
-Ir para `/admin/Site/Relatorio_Skus.aspx `
+Vá para `/admin/Site/Relatorio_Skus.aspx `
 
 
 

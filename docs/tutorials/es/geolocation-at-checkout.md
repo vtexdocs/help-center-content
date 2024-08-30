@@ -44,9 +44,7 @@ Cuando tengas la API, siga los pasos adelante:
 
 ![Geolocalizacao 1 ES](https://images.ctfassets.net/alneenqid6w5/3XL4C5B5SM48uGaeocUiw4/22560c9c40cc587cb7fa0884e48fcd5f/Geolocalizacao_1_ES.png)
 
-<div class="alert alert-info">
-En algunos paises, el Google Maps no hace un mapping de buena calidad, lo que hace con que las direcciones queden mal escritas o incorrectas. En estes casos, la dirección debe ser alterada directamente en el mapa.
-  </div>
+>ℹ️ En algunos paises, el Google Maps no hace un mapping de buena calidad, lo que hace con que las direcciones queden mal escritas o incorrectas. En estes casos, la dirección debe ser alterada directamente en el mapa.
 
 ### Configurando el poligono
 

@@ -3,8 +3,8 @@ title: 'Configurar pagamento com ETpay'
 id: 1vYO022oVj4MdVKP5fCMNx
 status: PUBLISHED
 createdAt: 2022-10-18T17:45:32.139Z
-updatedAt: 2023-03-21T20:54:12.646Z
-publishedAt: 2023-03-21T20:54:12.646Z
+updatedAt: 2024-01-24T17:24:23.326Z
+publishedAt: 2024-01-24T17:24:23.326Z
 firstPublishedAt: 2022-10-18T17:56:29.587Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-etpay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o gateway ETpay. Com este conector, sua loja pode realizar vendas por meio da ETpay.
+Na VTEX, é possível realizar a integração com o gateway ETpay. Por meio deste provedor, sua loja pode realizar vendas por meio da ETpay.
 
-Para configurar a afiliação ETpay, siga os passos abaixo:
+Para configurar ETpay, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __EtPayment__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __EtPayment__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta ETpay.
 5. Clique em `Salvar`.
 
@@ -33,5 +33,5 @@ Para configurar a afiliação ETpay, siga os passos abaixo:
 4. Ative a condição no campo __Status__.
 5. Clique em `Salvar`.
 
-Depois de seguir os passos indicados, o conector ETpay pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 
+Depois de seguir os passos indicados, ETpay pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 
 

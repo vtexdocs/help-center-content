@@ -3,8 +3,8 @@ title: 'Actualizar el nombre del usuario en la sección de inicio de sesión'
 id: 2jshd2ApTq7hKNLbQiCWdS
 status: PUBLISHED
 createdAt: 2022-03-14T17:20:40.732Z
-updatedAt: 2022-11-25T21:57:07.628Z
-publishedAt: 2022-11-25T21:57:07.628Z
+updatedAt: 2024-02-16T20:26:07.889Z
+publishedAt: 2024-02-16T20:26:07.889Z
 firstPublishedAt: 2022-03-14T17:20:42.505Z
 contentType: knownIssue
 productTeam: Identity
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: actualizar-el-nombre-del-usuario-en-la-seccion-de-inicio-de-sesion
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 542029
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualizar el nombre del usuario en la sección de inicio de sesión

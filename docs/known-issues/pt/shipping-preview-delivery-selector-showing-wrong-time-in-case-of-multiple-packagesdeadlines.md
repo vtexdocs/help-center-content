@@ -18,9 +18,7 @@ internalReference: 264441
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se o carrinho tiver vários pacotes com diferentes prazos de entrega, o seletor de entrega de Previsão de Entrega exibe apenas um dos termos, dando informações incorretas.

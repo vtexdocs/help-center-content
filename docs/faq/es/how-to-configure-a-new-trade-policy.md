@@ -24,6 +24,4 @@ Digamos, por ejemplo, que usted tiene una subtienda específica para el B2B, y q
 
 Para contractar políticas comerciales adicionales es necesario contactar nuestra area de Sales Operations por el email: __sales-operations@vtex.com__.
 
-<div class="alert alert-warning">
-La contratación de políticas comerciales para integración con marketplaces certificados u otras tiendas VTEX és libre de tasas mensuales.
-</div>
+>⚠️ La contratación de políticas comerciales para integración con marketplaces certificados u otras tiendas VTEX és libre de tasas mensuales.

@@ -3,8 +3,8 @@ title: 'What is VTEX Sales App?'
 id: 7fnnVlG3Kv1Tay9iagc5yf
 status: PUBLISHED
 createdAt: 2020-06-28T13:07:24.773Z
-updatedAt: 2023-05-31T15:45:55.825Z
-publishedAt: 2023-05-31T15:45:55.825Z
+updatedAt: 2024-05-13T18:03:19.146Z
+publishedAt: 2024-05-13T18:03:19.146Z
 firstPublishedAt: 2020-06-28T13:12:31.221Z
 contentType: trackArticle
 productTeam: Shopping
@@ -24,19 +24,12 @@ With that, you’ll be able to implement an Endless Aisle strategy, which helps 
 
 - Avoid stockout and never miss a sale.
 - Have real-time visibility of your inventory.
-- Benefit from an intelligent search and items lookup.
+- Benefit from an intelligent search and items lookup, when [Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) is installed on the website. .
 - Build mixed cart transactions.
-
-On the fulfillment side of your operation, VTEX Sales App will help you to:
-
-- Attract foot traffic and increase sales.
-- Have an efficient order picking workflow.
-- Guarantee your products are always available, with wiser shipping options.
-- Lower fulfillment time and cost with Smart Routing.
 
 Finally, with VTEX Sales App, the purchasing process becomes faster, both while adding products to the cart and during payment and confirmation.
 
-The checkout process no longer needs to be done at a fixed desk. Starting and finishing sales can be done anywhere in the store, which reduces queues and makes the customer experience smoother.
+The checkout process no longer needs to be done from a physical and fixed location. Starting and finishing sales can be done anywhere in the store, which reduces queues and makes the customer experience smoother.
 
 Your sales associates will have a 360º view of the consumer and will be able to create memorable and frictionless shopping experiences.
 

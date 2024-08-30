@@ -1,10 +1,10 @@
 ---
 title: 'How to set up the connector to accept payments with Adyen at VTEX'
 id: tutorials_2337
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-04-27T21:55:10.101Z
-updatedAt: 2023-03-24T14:56:13.138Z
-publishedAt: 2023-03-24T14:56:13.138Z
+updatedAt: 2024-03-18T17:52:42.714Z
+publishedAt: 
 firstPublishedAt: 2017-04-27T23:03:52.166Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,9 @@ legacySlug: how-to-configure-the-adyen-gateway-on-vtex
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning">The configurations documented in this article are performed in an environment external to VTEX and, therefore, may be discontinued without prior notice.</div>
+>❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
+
+>⚠️ The configurations documented in this article are performed in an environment external to VTEX and, therefore, may be discontinued without prior notice.
 
 If Adyen is your chosen affiliate, follow the necessary configuration in the step-by-step below for a seamless communication between Adyen and VTEX. 
 
@@ -98,9 +100,9 @@ If you intend Adyen's platform to manually revise the anti-fraud analysis of imp
 
 ## VTEX Configuration
 
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. Access the **Gateway Affiliations** tab.
-3. Click on **Adyen**.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __Adyen__ in the search bar and click on the name of the provider.
 4. Fill out the form fields with the data obtained from Adyen and click on **Save**:
 
 - **Username** - Adyen username (**Adyen's configuration** 5th step)

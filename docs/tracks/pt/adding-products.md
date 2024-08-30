@@ -40,6 +40,4 @@ Para cadastrar seus produtos por planilha, recomendamos que você cadastre ao me
 
 Para cadastrar um produto por API, use a chamada [Create Product](https://developers.vtex.com/vtex-rest-api/reference/post-product).
 
-<div class="alert alert-info">
-Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo <a href="https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">Por que o produto não aparece no site?</a> para entender como resolver esse problema.
-</div>
+>ℹ️ Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo [Por que o produto não aparece no site?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) para entender como resolver esse problema.

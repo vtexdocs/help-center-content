@@ -1,10 +1,10 @@
 ---
 title: 'Configurar gateway Place2Pay'
 id: 2NmmnLpUPY0A8aMi0oyiQq
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-03-07T21:45:23.671Z
-updatedAt: 2023-03-29T01:09:24.503Z
-publishedAt: 2023-03-29T01:09:24.503Z
+updatedAt: 2024-03-18T19:53:38.738Z
+publishedAt: 
 firstPublishedAt: 2018-03-07T22:13:43.326Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: es
 legacySlug: configurar-gateway-place2pay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+>❗ Esta integración de pago ya no se puede configurar en la plataforma debido al [proceso de descontinuación de los proveedores legados](https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14) y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.
 
 Place2Pay es la versión con redirect del gateway PlaceToPay, que ofrece soluciones para grandes y pequeñas tiendas.
 

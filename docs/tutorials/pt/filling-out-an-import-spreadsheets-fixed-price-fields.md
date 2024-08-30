@@ -35,4 +35,8 @@ Os próximos campos são opcionais na planilha, exportados somente para exibiç�
 - **Ref ID (View Only):** código de referência único utilizado para facilitar a organização do catálogo de produtos. Esse ID geralmente é criado pelos sistemas internos da loja.
 - **EAN (View Only):** código de identificação único do SKU (código de barras).
 
-<div class="alert alert-warning">Planilhas de preços usadas para importação têm um limite de tamanho de 1 MB. <br/><br/>Se sua planilha atual excede este limite, recomendamos dividí-la em vários arquivos, <strong>certificando-se que os preços que se referem ao mesmo SKU sejam mantidos juntos na mesma planilha</strong>.</div>
+>⚠️ Planilhas de preços usadas para importação têm um limite de tamanho de 1 MB. 
+>
+> 
+>
+> Se sua planilha atual excede este limite, recomendamos dividí-la em vários arquivos, **certificando-se que os preços que se referem ao mesmo SKU sejam mantidos juntos na mesma planilha**.

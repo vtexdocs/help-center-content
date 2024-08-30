@@ -30,9 +30,7 @@ Veja as etapas:
 
 Antes de apontar um domínio à VTEX, é necessário garantir o cumprimento dos requisitos citados abaixo.
 
-<div class="alert alert-warning">
-Se você estiver migrando a sua loja da <strong>Loja Integrada</strong> para a VTEX, contate o nosso suporte antes de apontar o DNS. É necessário liberar o domínio da Loja Integrada para que ele seja usado na loja VTEX.
-</div>
+>⚠️ Se você estiver migrando a sua loja da **Loja Integrada** para a VTEX, contate o nosso suporte antes de apontar o DNS. É necessário liberar o domínio da Loja Integrada para que ele seja usado na loja VTEX.
 
 ### Cadastro de domínio na VTEX
 
@@ -48,15 +46,11 @@ A VTEX usa dois provedores de CDN nas lojas: **Cloudfront** e **Azion**. É impo
 
 Portanto, se você tem o domínio da loja registrado na plataforma da **Cloudfront** ou **Azion**, remova este registro antes de realizar o apontamento de DNS para a VTEX.
 
-<div class="alert alert-warning">
-Se não for possível remover o registro do domínio da sua loja nas plataformas <strong>Cloudfront</strong> ou <strong>Azion</strong> entre em contato com o <a href="https://help.vtex.com/pt/support">suporte VTEX</a> explicando a situação. Dessa forma, o time da VTEX irá te auxiliar para garantir o bom funcionamento da loja no Go live.
-</div>
+>⚠️ Se não for possível remover o registro do domínio da sua loja nas plataformas **Cloudfront** ou **Azion** entre em contato com o [suporte VTEX](https://help.vtex.com/pt/support) explicando a situação. Dessa forma, o time da VTEX irá te auxiliar para garantir o bom funcionamento da loja no Go live.
 
 ## Configurar registros CAA
 
-<div class="alert alert-warning">
-A configuração de registros de CAA como descrita nesta seção só é necessária caso haja registro de CAA no seu servidor de DNS. Caso contrário, siga para o próximo tópico deste guia.
-</div>
+>⚠️ A configuração de registros de CAA como descrita nesta seção só é necessária caso haja registro de CAA no seu servidor de DNS. Caso contrário, siga para o próximo tópico deste guia.
 
 Registros CAA indicam quais autoridades certificadoras (CAs) estão autorizadas a gerar e renovar certificados que atestam a identidade do seu domínio. A configuração adequada desses registros é necessária para que seja possível gerar os [certificados SSL](https://help.vtex.com/pt/tutorial/certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar--tutorials_1308) e usar a CDN da VTEX.
 
@@ -70,22 +64,18 @@ Isso significa que a autoridade certificadora **Let’s Encrypt** pode emitir ce
 
 Outra alternativa, embora não recomendada, seria não incluir registros CAA no seu servidor DNS - isso sinalizaria que todas autoridades certificadoras estariam autorizadas a emitir e renovar certificados para o seu domínio.
 
-<div class="alert alert-info">
-Esses tipos de entrada podem não estar disponíveis na interface do seu gerenciador de DNS, mas muitas vezes é possível gerenciá-los através de chamados no suporte da ferramenta específica.
-</div>
+>ℹ️ Esses tipos de entrada podem não estar disponíveis na interface do seu gerenciador de DNS, mas muitas vezes é possível gerenciá-los através de chamados no suporte da ferramenta específica.
 
 Para facilitar o trabalho de criar/verificar seus registros CAA, você pode usar o [CAA Record Helper by SSLMate](https://sslmate.com/caa/). O programa [DiG](https://www.hostinger.com/tutorials/how-to-use-the-dig-command-in-linux/) também pode ajudar na verificação dos registros, através do comando `dig domain.com CAA` - um status `SERVFAIL` pode indicar não-conformidade do seu servidor DNS.
 
-<div class = "alert alert-info">
-Saiba mais:
-<p>
-<ul>
-<li><a href="https://sslmate.com/caa/">CAA Record Helper by SSLMate</a></li>
-<li><a href="https://letsencrypt.org/docs/caa/">Let's Encrypt: Certificate Authority Authorization (CAA)</a></li>
-<li><a href="https://sslmate.com/caa/about">SSL Mate: About CAA</a></li>
-</ul>
-</p>
-</div>
+>ℹ️ Saiba mais:
+>
+> *[CAA Record Helper by SSLMate](https://sslmate.com/caa/)
+>
+> *[Let's Encrypt: Certificate Authority Authorization (CAA)](https://letsencrypt.org/docs/caa/)
+>
+> *[SSL Mate: About CAA](https://sslmate.com/caa/about)
+> 
 
 ## Apontamento de DNS
 
@@ -101,9 +91,7 @@ Se sua frente de loja é feita com [CMS IO](https://help.vtex.com/pt/tracks/cms-
 
 Após receber a confirmação do apontamento interno, você deverá realizar o [apontamento comum de DNS](#apontamento-comum-de-dns) em até cinco dias. Do contrário o apontamento interno será excluído e você precisará refazer esta solicitação.
 
-<div class = "alert alert-info">
-Saiba mais sobre <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live">Go live com Store Framework</a> ou <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io">Migração do CMS legado para Store Framework</a>.
-</div>
+>ℹ️ Saiba mais sobre [Go live com Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live) ou [Migração do CMS legado para Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
 
 ### Apontamento comum de DNS
 
@@ -114,9 +102,7 @@ Na zona de DNS do seu domínio, você deve criar uma entrada do tipo CNAME no su
 
 Note que o `{domínio}` indicado acima deve ser o mesmo que você [cadastrou na VTEX](#cadastro-de-dominio-na-vtex).
 
-<div class="alert alert-warning">
-Caso você utilize a Cloudflare como zona de DNS, pode ser necessário desabilitar o proxy de DNS e, consequentemente, desativar os serviços de CDN e WAF da Cloudflare. Mais informações podem ser encontradas no artigo <a href="https://help.vtex.com/pt/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb">Como desabilitar o proxy no Cloudflare</a>.
-</div>
+>⚠️ Caso você utilize a Cloudflare como zona de DNS, pode ser necessário desabilitar o proxy de DNS e, consequentemente, desativar os serviços de CDN e WAF da Cloudflare. Mais informações podem ser encontradas no artigo [Como desabilitar o proxy no Cloudflare](https://help.vtex.com/pt/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb).
 
 Alguns exemplos:
 
@@ -147,9 +133,7 @@ Endereço da loja: www.loja.minhaempresa.com.br
 
 Atente-se que o início do domínio ("loja", "www", "www.loja" ou qualquer outro) e a terminação (".com", ".com.br", ".com.ar" ou qualquer outro) fazem parte do `{hostname}`, e devem estar no CNAME de destino.
 
-<div class="alert alert-danger">
-Não pode haver nenhum apontamento tipo A coexistindo com o CNAME descrito acima. A coexistência destes dois apontamentos pode causar problemas no Go Live da sua loja. Mantenha apenas o apontamento CNAME descrito acima.
-</div>
+>❗ Não pode haver nenhum apontamento tipo A coexistindo com o CNAME descrito acima. A coexistência destes dois apontamentos pode causar problemas no Go Live da sua loja. Mantenha apenas o apontamento CNAME descrito acima.
 
 ## Gerar certificado SSL
 
@@ -165,9 +149,7 @@ O certificado é gerado por meio da [Let's Encrypt](https://letsencrypt.org/) e 
 
 ---
 
-<div class="alert alert-info">
-A propagação do apontamento de DNS demora de 24 a 48 horas para ocorrer completamente, o que significa que o endereço configurado pode não estar acessível a todas as pessoas logo após a configuração.
-</div>
+>ℹ️ A propagação do apontamento de DNS demora de 24 a 48 horas para ocorrer completamente, o que significa que o endereço configurado pode não estar acessível a todas as pessoas logo após a configuração.
 
 As instruções acima tratam apenas do apontamento de um domínio principal à sua loja na VTEX. É importante que, caso sua loja tenha outros domínios, eles sejam redirecionados a um único domínio principal. 
 

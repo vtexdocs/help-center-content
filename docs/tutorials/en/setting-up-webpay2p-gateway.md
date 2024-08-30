@@ -3,8 +3,8 @@ title: 'Setting up WebPay2P gateway'
 id: 34Bn1nOoVO6iesWAgSEQQA
 status: PUBLISHED
 createdAt: 2018-04-02T19:30:48.720Z
-updatedAt: 2021-07-07T17:45:55.414Z
-publishedAt: 2021-07-07T17:45:55.414Z
+updatedAt: 2024-03-07T13:50:16.754Z
+publishedAt: 2024-03-07T13:50:16.754Z
 firstPublishedAt: 2018-04-02T19:46:03.221Z
 contentType: tutorial
 productTeam: Financial

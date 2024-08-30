@@ -18,9 +18,7 @@ internalReference: 740084
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Nosso conector legado ERedeRest executa um cancelamento através de uma solicitação ao fornecedor e espera um statusCode=359, o que significa que o cancelamento foi bem sucedido. Qualquer outro código significa para nosso gateway que o status é indefinido mesmo que, em alguns casos, isso significa que o pedido de reembolso/cancelamento também foi bem sucedido, o que nos levou a tentar novamente o cancelamento, porém ficando presos nesta etapa, uma vez que o cancelamento já foi concluído do lado do provedor.

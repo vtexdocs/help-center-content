@@ -18,9 +18,7 @@ internalReference: 685650
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El botón "ver más" en la lista de puntos de recogida puede no aparecer, ocultando algunas opciones que se presentan en el mapa.

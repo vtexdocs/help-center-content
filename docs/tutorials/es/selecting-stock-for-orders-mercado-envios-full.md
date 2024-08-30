@@ -27,7 +27,7 @@ Cuando el stock esté registrado, realice los siguientes pasos:
 2. En el módulo **Inventario y envío**, haga clic en **Estrategia de envío**.
 3. En **Estrategia de envío**, seleccione la pestaña **Almacenes** y copie el ID del stock que desea utilizar. 
 4. Luego, vaya al módulo **Marketplace**, seleccione la opción **Integraciones** y haga clic en **Configuración**.
-5. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" /> y seleccione la opción **Editar configuración**.
+5. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" /> y seleccione la opción **Editar configuración**.
 6. Ingrese el ID del stock seleccionado en el campo **Almacén Mercado Full**.
 7. Para finalizar, haga clic en **Guardar Configuración**.
 

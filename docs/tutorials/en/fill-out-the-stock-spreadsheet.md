@@ -24,9 +24,7 @@ In addition, correctly filling out the spreadsheet depends on two rules, as foll
 - Each spreadsheet column must either contain a number or a text;
 - Updating the quantity of SKUs must be done through the __TotalQuantity__ column.
 
-<div class="alert alert-info">
-  <strong>Notice</strong>: If these rules are not followed, the system will either not accept importing the spreadsheet altogether or the item quantity available for sale may be incorrectly displayed.
-</div>
+>ℹ️ **Notice**: If these rules are not followed, the system will either not accept importing the spreadsheet altogether or the item quantity available for sale may be incorrectly displayed.
 
 Please refer to each inventory spreadsheet field's meaning below.
 

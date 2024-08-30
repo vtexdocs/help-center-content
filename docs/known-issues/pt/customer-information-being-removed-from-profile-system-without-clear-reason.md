@@ -18,9 +18,7 @@ internalReference: 469823
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Às vezes recebemos relatórios onde as informações do cliente foram removidas das entidades CL e AD da Master Data, que podem ser gerenciadas de várias maneiras - uso direto da Master Data pela própria loja (UI, API, importação/exportação de dados) e outras integrações internas da plataforma, como o serviço CHK através do Sistema de Perfil.

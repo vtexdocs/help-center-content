@@ -3,8 +3,8 @@ title: 'Configurar pagamento com DLocal Payments'
 id: 50DpZAd6td8oJaAIzHfQB5
 status: PUBLISHED
 createdAt: 2023-04-03T13:40:15.432Z
-updatedAt: 2023-04-03T14:03:12.910Z
-publishedAt: 2023-04-03T14:03:12.910Z
+updatedAt: 2024-01-23T18:09:56.316Z
+publishedAt: 2024-01-23T18:09:56.316Z
 firstPublishedAt: 2023-04-03T14:03:12.910Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-dlocal-payments
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento DLocal Payments. Com este conector, sua loja pode realizar vendas por meio de cartões de crédito, débito e boletos bancários.
+Na VTEX, é possível realizar a integração com o provedor de pagamento DLocal Payments. Por meio deste provedor, sua loja pode realizar vendas por meio de cartões de crédito, débito e boletos bancários.
 
-Para configurar a afiliação DLocal Payments, siga os passos abaixo:
+Para configurar DLocal Payments, siga os passos abaixo:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __DLocalPayments__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __DLocalPayments__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta DLocal Payments.
 5. Em __Captura Automática de Pagamento__, selecione uma das opções disponíveis:
 

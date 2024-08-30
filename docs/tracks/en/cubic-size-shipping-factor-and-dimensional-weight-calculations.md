@@ -44,8 +44,6 @@ Example:
 
 For the example above, when comparing the package's net weight with its DIM weight, the carrier will charge for the real weight, since it's more than the DIM weight.
 
-<div class="alert alert-warning">
-Check your carrier's measurement unit, to see whether it's in grams and centimeters or pounds and inches. 
-</div>
+>⚠️ Check your carrier's measurement unit, to see whether it's in grams and centimeters or pounds and inches.
 
 When adding your carrier, this is the value that you need to fill into the Shipping Factor field. 

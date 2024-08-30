@@ -35,7 +35,5 @@ Esta actualización es automática, no se requiere ninguna acción.
 
 Si utilizas estos datos en tu tienda (para indicar que un producto tiene pocas unidades en _stock_, por ejemplo) debes contactar con [nuestro equipo de soporte](https://support.vtex.com/hc/es-419/requests) para seguir mostrando esta información.
 
-<div class="alert alert-warning">
-  <p>Es importante señalar que, si la tienda decide mostrar la cantidad de productos en stock, esta información será pública y se podrá acceder a ella mediante <a href="https://github.com/vtex-apps/search-graphql">VTEX Search GraphQL</a>.</p>
-</div>
+>⚠️ Es importante señalar que, si la tienda decide mostrar la cantidad de productos en stock, esta información será pública y se podrá acceder a ella mediante [VTEX Search GraphQL](https://github.com/vtex-apps/search-graphql).
 

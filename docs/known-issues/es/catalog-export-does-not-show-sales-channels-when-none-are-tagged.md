@@ -1,5 +1,5 @@
 ---
-title: 'La exportación de catálogos no muestra los canales de venta cuando se marca "ninguno".'
+title: "La exportación de catálogos no muestra los canales de venta cuando se marca 'ninguno'."
 id: 10Bozz8ai3fAvu1m9Ex2Gk
 status: PUBLISHED
 createdAt: 2022-12-23T13:38:32.114Z
@@ -18,9 +18,7 @@ internalReference: 722001
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, los canales de venta que se comprueban en la interfaz de usuario del producto tienen una lógica de "si no se marca ninguno, todos están disponibles".

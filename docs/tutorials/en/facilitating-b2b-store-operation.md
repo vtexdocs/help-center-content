@@ -1,9 +1,9 @@
 ---
 title: 'Facilitating B2B store operation'
 id: 8t1f9FYBsSCopHHVujKWR
-status: PUBLISHED
+status: CHANGED
 createdAt: 2021-03-30T14:29:12.548Z
-updatedAt: 2021-05-20T18:17:16.108Z
+updatedAt: 2024-05-10T10:59:55.549Z
 publishedAt: 2021-05-20T18:17:16.108Z
 firstPublishedAt: 2021-03-30T19:54:13.259Z
 contentType: tutorial
@@ -12,7 +12,7 @@ author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: facilitating-b2b-store-operation
 locale: en
 legacySlug: facilitating-b2b-store-operation
-subcategory: 5N5GjDrKSycIQMeoS7CLtj
+subcategory: 2LrbEY7MFeKqmdfYLBCnfi
 ---
 
 You can facilitate the operation of your store by installing applications to solve business issues related to store usability, sales, and after-sales.

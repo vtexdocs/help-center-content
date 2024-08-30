@@ -3,8 +3,8 @@ title: 'Shipping strategy'
 id: 58vLBDbjYVQzJ6rRc5QNz3
 status: PUBLISHED
 createdAt: 2021-07-15T17:04:23.563Z
-updatedAt: 2021-09-23T22:21:40.782Z
-publishedAt: 2021-09-23T22:21:40.782Z
+updatedAt: 2024-01-31T15:00:05.216Z
+publishedAt: 2024-01-31T15:00:05.216Z
 firstPublishedAt: 2021-07-15T17:27:37.590Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -17,7 +17,7 @@ subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 
 The shipping strategy refers to the relationship between inventory, loading dock and shipping policy. The way they communicate will define the structure combination for shipping your customers’ orders. 
 
-![EstrategiaEnvio_EN](https://images.ctfassets.net/alneenqid6w5/91iqVknOpCjUKO1XQaYvq/950f5a0342bba5b62dcd0bee100e8a71/Frame_2__3_.svg)
+![shipping_strategy_EN](https://images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/9f3db7829e85f1c910daf1b81bacd127/shipping_strategy_EN.png)
 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
    <tr class="bb b--muted-3">
@@ -29,7 +29,7 @@ The shipping strategy refers to the relationship between inventory, loading dock
     </tr>
     <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
-                <b><a href="https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj">Loading dock;</a></b>
+                <b><a href="https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj">Loading dock</a></b>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Where goods are loaded onto trucks to be delivered or distributed. Operates as a product storage area.
             </td>
@@ -43,14 +43,12 @@ The shipping strategy refers to the relationship between inventory, loading dock
     </tr>
 </table>
 
-<div class="alert alert-warning">
-For the logistics system to work as expected, we suggest that you configure it in the following order:
-<body>
-<ol>
-<li><a href="https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV">Trade policy;</a></li>
-  <li><a href="https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140">Shipping policy;</a></li>
-<li><a href="https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj">Loading dock;</a></li>
-  <li><a href="https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Warehouse.</li></a>
-</ol>
-</body>
-</div>
+## Initial logistics settings
+
+You can configure initial settings through the VTEX Admin or via API. If you are starting to configure your shipping strategy, we recommend the following order:
+
+| **Topic** | **Configuration via VTEX Admin** | **Configuration via API** |
+| :--- | :--- | :--- |
+| 1. [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) | [Creating a shipping policy](https://help.vtex.com/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
+| 2. [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) | [Managing warehouses](https://help.vtex.com/en/tutorial/gerenciar-estoque--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
+| 3. [Loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) | [Managing loading docks](https://help.vtex.com/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |

@@ -15,9 +15,7 @@ legacySlug: adicionar-ou-editar-um-mapeamento-de-url-manualmente
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class="alert alert-warning">
-<p>Este tutorial é para lojas no CMS Portal legado. Para outras lojas, você faz essa configuração através de <a href="https://help.vtex.com/pt/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc">Páginas</a>. Acesse a documentação <a href="https://help.vtex.com/pt/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV">Gerenciando redirecionamentos de URL</a> para mais informações.</p>
-</div>
+>⚠️ Este tutorial é para lojas no CMS Portal legado. Para outras lojas, você faz essa configuração através de [Páginas](https://help.vtex.com/pt/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc). Acesse a documentação [Gerenciando redirecionamentos de URL](https://help.vtex.com/pt/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV) para mais informações.
 
 Os mapeamentos de URLs são utilizados para redirecionar URLs específicas para outras. Esse recurso é muito útil quando a loja já possui URLs indexadas em buscadores e pretende redirecioná-las para outras mais atrativas, mantendo o SEO e evitando erros de indexação.
 
@@ -46,9 +44,7 @@ Existem duas formas de adicionar e alterar um Mapeamento de URL:
 - **End date:** data e hora em que o mapeamento deixará de ser considerado.
 - **Active:** opção se o mapeamento está ativo ou inativo.
 
-<div class="alert alert-info"> 
-  <p>Para criar um mapeamento para home (diretório raiz) preencha o campo <b>URL Para</b> com uma barra <code>/</code>.</p>
-</div>
+>ℹ️ Para criar um mapeamento para home (diretório raiz) preencha o campo **URL Para** com uma barra `/`.
 
 ## Importação por Planilha
 
@@ -58,7 +54,7 @@ Existem duas formas de adicionar e alterar um Mapeamento de URL:
 4. Clique no botão `Import` para realizar a importação da planilha.
 
 5. Baixe a planilha modelo ilustrada abaixo utilizando o botão `Clique aqui`.
-![exemplo-planilha](//images.contentful.com/alneenqid6w5/2Z63gJkADcR2gveT3lncQb/9bbd790becd99acb7b647537eb71c6a9/Screenshot_5.png)
+![exemplo-planilha](https://images.contentful.com/alneenqid6w5/2Z63gJkADcR2gveT3lncQb/9bbd790becd99acb7b647537eb71c6a9/Screenshot_5.png)
 6. Preencha os [campos da planilha](#campos-da-planilha).
 7. Depois de preencher a planilha, clique no botão `Localizar` na tela de importação.
 8. Selecione o arquivo que será importado de seu computador. O arquivo deve ter extensão `.xls` formato `Excel 97-2003 Workbook`.

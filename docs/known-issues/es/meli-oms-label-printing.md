@@ -18,9 +18,7 @@ internalReference: 546542
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Estamos teniendo algunos problemas al hacer clic directamente dentro del botón "etiqueta de entrega", para los pedidos de Mercado Livre dentro de OMS.

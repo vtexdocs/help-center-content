@@ -62,9 +62,7 @@ Para baixar um app para a sua conta:
 
 Após realizar estes passos, o app estará disponível na sua conta e será instalado na loja que estiver utilizando no momento.
 
-<div class="alert alert-warning">
-Antes de baixar um app, recomendamos ver os termos e condições do fornecedor e os termos da VTEX pelos links disponíveis abaixo do botão <b>Baixar App</b>.
-</div>
+>⚠️ Antes de baixar um app, recomendamos ver os termos e condições do fornecedor e os termos da VTEX pelos links disponíveis abaixo do botão **Baixar App**.
 
 O custo de um app pode ser uma das seguintes formas:
 

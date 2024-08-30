@@ -17,9 +17,7 @@ subcategory: 6XAvmMxp7yyY06ewYMuggs
 
 With SmartCheckout, the customer's information is automatically filled in at Checkout, and you are only required to enter your store's email. This function reduces the purchase time as customers do not need to re-enter their data for each purchase made at the same store.
 
-<div class="alert alert-info">
-For SmartCheckout to reuse the information at Checkout, the customer must have already made a previous purchase or must have created a profile in the store.
-</div>
+>ℹ️ For SmartCheckout to reuse the information at Checkout, the customer must have already made a previous purchase or must have created a profile in the store.
 
 ## Customer information
 
@@ -42,9 +40,7 @@ The information previously entered in the [Master Data](https://help.vtex.com/en
    - street
    - receiverName
 
-<div class = "alert alert-warning">
-If one or more fields have not been properly filled in in the Master Data, SmartCheckout will not automatically populate the customer information fields at Checkout. In this case, customers will have to fill in their identification data manually for each purchase. 
-</div>
+>⚠️ If one or more fields have not been properly filled in in the Master Data, SmartCheckout will not automatically populate the customer information fields at Checkout. In this case, customers will have to fill in their identification data manually for each purchase.
 
 ## Purchasing with SmartCheckout
 
@@ -55,19 +51,16 @@ At checkout, the customer's information is automatically filled in as follows:
 3. SmartCheckout verifies whether the email address belongs to a store customer or not. 
 4. After the email is verified, the customer’s identification fields are automatically filled in with the data from the Master Data at Checkout.
 
-<div class = "alert alert-warning">
-To protect customer data, personal information will be shown only partially on the checkout page (part of the data is hidden using the <a href="https://help.vtex.com/en/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E#">PCI-DSS</a> payment security standard). This procedure allows the customers to identify whether their current data is correct and, if needed, to also select different addresses for delivery.
-</div>
+>⚠️ To protect customer data, personal information will be shown only partially on the checkout page (part of the data is hidden using the [PCI-DSS](https://help.vtex.com/en/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E#) payment security standard). This procedure allows the customers to identify whether their current data is correct and, if needed, to also select different addresses for delivery.
 <ul>
 5. The customer chooses the delivery and payment methods, and completes the purchase order.
 </ul>
-<div class = "alert alert-warning">
-If payment with a credit or debit card is chosen, the following additional security criteria will apply:
-  <ul>
-    <li>The CVV (Card Verification Value) will be requested for final validation and completion of the purchase order.</li>
-    <li>The customer won't be able to pay with a debit or credit card if the address is different from the one stored on the profile.</li>
-   </ul>
-</div>
+>⚠️ If payment with a credit or debit card is chosen, the following additional security criteria will apply:
+>
+> * The CVV (Card Verification Value) will be requested for final validation and completion of the purchase order.
+>
+> * The customer won't be able to pay with a debit or credit card if the address is different from the one stored on the profile.
+>    
 
 Changes to the stored data, such as address or phone number, will only be allowed once the customer is [authenticated in the store](https://help.vtex.com/en/tutorial/como-meu-cliente-pode-fazer-login-na-minha-loja--3FCNpwbpZe0U4auiI4CC0C#). 
 

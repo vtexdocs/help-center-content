@@ -1,10 +1,10 @@
 ---
-title: '[B2W] "B2W direct" order (FOB) integrating with carrier'
+title: "[B2W] 'B2W direct' order (FOB) integrating with carrier"
 id: 20nA7vm1RFMhv7yhaJ43GG
 status: PUBLISHED
 createdAt: 2022-12-12T18:14:19.975Z
-updatedAt: 2022-12-12T18:14:20.451Z
-publishedAt: 2022-12-12T18:14:20.451Z
+updatedAt: 2024-02-16T20:27:21.732Z
+publishedAt: 2024-02-16T20:27:21.732Z
 firstPublishedAt: 2022-12-12T18:14:20.451Z
 contentType: knownIssue
 productTeam: Connections
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: b2w-b2w-direct-order-fob-integrating-with-carrier
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 714879
 ---
 

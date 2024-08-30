@@ -18,9 +18,7 @@ internalReference: 593906
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, la redirección mediante parámetros genera un error a pesar de que el administrador de URL Bilder dice que es posible utilizar parámetros.

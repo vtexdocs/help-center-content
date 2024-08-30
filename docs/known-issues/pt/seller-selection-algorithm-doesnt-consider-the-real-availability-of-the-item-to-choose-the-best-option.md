@@ -18,9 +18,7 @@ internalReference: 360097
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O algoritmo de seleção do vendedor considera o estoque dos itens a fim de selecionar o melhor vendedor de whitelabel para um determinado contexto.

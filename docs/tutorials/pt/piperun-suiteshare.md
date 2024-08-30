@@ -31,9 +31,7 @@ Com a Piperun podemos ter duas integrações diferentes: **Integração estáti
 
 ## Integração Dinâmica
 
-<div class="alert alert-warning">
-  <p>Na integração dinâmica, você envia os leads para um pipeline e estágio específico do seu funil e atribui a um usuário da sua conta PipeRun.</p>
-</div>
+>⚠️ Na integração dinâmica, você envia os leads para um pipeline e estágio específico do seu funil e atribui a um usuário da sua conta PipeRun.
 
 ![Piperun - Suiteshare_2](https://images.ctfassets.net/alneenqid6w5/5K6w6Kf2Y47ISe5j8umeIv/9a6b1f91d8d69ec27f1f85d799754af0/Piperun_-_Suiteshare_2.png)
 
@@ -57,9 +55,7 @@ Clique no botão **Salvar**.
 
 ## Integração Estática 
 
-<div class="alert alert-warning">
-  <p>Na integração estática, você envia os leads para um estágio específico do seu funil sem atribuir a nenhum usuário automaticamente.</p>
-</div>
+>⚠️ Na integração estática, você envia os leads para um estágio específico do seu funil sem atribuir a nenhum usuário automaticamente.
 
 ![Piperun - Suiteshare_7](https://images.ctfassets.net/alneenqid6w5/3adHKF0lGdefcI8eYzs3me/06cf495e6609100c1f06b944d80febff/Piperun_-_Suiteshare_7.png)
 
@@ -87,9 +83,7 @@ Copie a Hash fornecida pela Piperun. 
 
 ![Piperun - Suiteshare_13](https://images.ctfassets.net/alneenqid6w5/4ZKN2T0Y2GHgzM3fw4ltEN/a251d7d53b4c8a4a8f57a06ec2835008/Piperun_-_Suiteshare_13.png)
 
-<div class="alert alert-danger">
-  <p>Para copiar a Hash, é necessário clicar com o botão direito do mouse e selecione a opção copiar.</p>
-</div>
+>❗ Para copiar a Hash, é necessário clicar com o botão direito do mouse e selecione a opção copiar.
 
 Você ainda pode definir opcionais para esse lead, por exemplo: de onde ele veio, ou tags para sua identificação. 
 

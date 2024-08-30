@@ -3,8 +3,8 @@ title: 'La alerta para llenar la selección de entrega programada aparece sólo 
 id: f668KUV24RqlpUvDvoIEm
 status: PUBLISHED
 createdAt: 2022-04-25T14:49:29.983Z
-updatedAt: 2022-11-25T21:51:08.681Z
-publishedAt: 2022-11-25T21:51:08.681Z
+updatedAt: 2024-02-16T20:26:02.010Z
+publishedAt: 2024-02-16T20:26:02.010Z
 firstPublishedAt: 2022-04-25T14:49:30.465Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-alerta-para-llenar-la-seleccion-de-entrega-programada-aparece-solo-una-vez
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 565982
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

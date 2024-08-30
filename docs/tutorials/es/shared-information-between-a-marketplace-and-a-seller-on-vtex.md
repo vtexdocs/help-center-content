@@ -3,8 +3,8 @@ title: 'Información compartida entre el marketplace y el seller en VTEX'
 id: 3o7WGiBtfnKKZ3Ddug26k3
 status: PUBLISHED
 createdAt: 2022-04-07T13:32:06.199Z
-updatedAt: 2023-04-17T21:51:10.740Z
-publishedAt: 2023-04-17T21:51:10.740Z
+updatedAt: 2023-10-31T19:54:13.803Z
+publishedAt: 2023-10-31T19:54:13.803Z
 firstPublishedAt: 2022-04-07T14:23:25.578Z
 contentType: tutorial
 productTeam: Channels
@@ -23,9 +23,7 @@ Un _marketplace_ hospedado en la plataforma VTEX y un _seller_, ya sea un _selle
 - [Marketplace y seller conectados](#marketplace-y-seller-conectados)
 - [Intercambio de emails de clientes](#intercambio-de-emails-de-clientes)
 
-<div class = "alert alert-info">
-Si quieres empezar a vender tus productos en otros <i>marketplaces</i>, usa <a href="https://help.vtex.com/es/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM">Marketplaces e integraciones</a>. Esta funcionalidad facilita la identificación y el contacto entre <i>marketplaces</i> y <i>sellers</i> que operan en el ecosistema VTEX.
-</div>
+>ℹ️ Si quieres empezar a vender tus productos en otros <i>marketplaces</i>, usa [Marketplaces e integraciones](https://help.vtex.com/es/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM). Esta funcionalidad facilita la identificación y el contacto entre <i>marketplaces</i> y <i>sellers</i> que operan en el ecosistema VTEX.
 
 ## Conectar marketplace y seller
 
@@ -43,9 +41,7 @@ Además, para [agregar al seller](https://help.vtex.com/es/tutorial/configurando
 
 El _marketplace_ VTEX se puede integrar tanto con un _seller_ VTEX como con un _seller_ externo, ya sea a través del Admin VTEX o de una API. En ambos casos, los datos que compartirán el _marketplace_ y el _seller_ serán los mismos.
 
-<div class = "alert alert-info">
-Para obtener más información sobre cómo conectar un marketplace VTEX con un seller VTEX o con un seller externo a través del Admin VTEX, consulta el artículo <a href="https://help.vtex.com/es/tutorial/configurando-seller">Agregar seller</a>. Para realizar la integración a través de una API, usa la llamada <a href="https://developers.vtex.com/vtex-rest-api/reference/upsertsellerrequest">Configure Seller Account</a>. Si se trata de un seller externo, consulta la <a href="https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide">guía de integración con un <i>seller</i> externo</a>.
-</div>
+>ℹ️ Para obtener más información sobre cómo conectar un marketplace VTEX con un seller VTEX o con un seller externo a través del Admin VTEX, consulta el artículo [Agregar seller](https://help.vtex.com/es/tutorial/configurando-seller). Para realizar la integración a través de una API, usa la llamada [Configure Seller Account](https://developers.vtex.com/docs/api-reference/marketplace-apis#post-/seller-register/pvt/sellers). Si se trata de un seller externo, consulta la [guía de integración con un <i>seller</i> externo](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide).
 
 ### Conectar un marketplace VTEX con un seller VTEX
 
@@ -75,18 +71,16 @@ Si el _seller_ es externo, es decir, no está hospedado en el entorno VTEX, se d
 
 Una vez que el _marketplace_ VTEX y el _seller_ VTEX o el _seller_ externo están conectados,  el _marketplace_ puede acceder a la información guardada sobre el _seller_ a través del Admin VTEX en **MARKETPLACE > Gestión**.
 
-A través de la API, se puede usar la llamada [Get Seller data by ID](https://developers.vtex.com/vtex-rest-api/reference/getretrieveseller) para consultar la información que brinda el _seller_, ya sea que se trate de un _seller_ VTEX o externo.
+A través de la API, se puede usar la llamada [Get Seller data by ID](https://developers.vtex.com/docs/api-reference/marketplace-apis#get-/seller-register/pvt/sellers/-sellerId-) para consultar la información que brinda el _seller_, ya sea que se trate de un _seller_ VTEX o externo.
 
 ## Intercambio de emails de clientes
 
 El _marketplace_ puede otorgar al _seller_ un acceso parcial a los emails de su base de clientes para que esos emails se utilicen en las consultas sobre las condiciones comerciales de los ítems y en la creación de pedidos. Esta configuración no está predeterminada y la información se administra mediante API, a través del campo `TrustPolicy`, usando las siguientes llamadas:
 
-- [Configure Seller Account](https://developers.vtex.com/vtex-rest-api/reference/upsertsellerrequest): permite configurar la cuenta del _seller_, ya sea un _seller_ VTEX o externo.
-- [Update Seller by Seller ID](https://developers.vtex.com/vtex-rest-api/reference/updateseller): permite actualizar los datos del _seller_, ya sea un _seller_ VTEX o externo.
+- [Configure Seller Account](https://developers.vtex.com/docs/api-reference/marketplace-apis#post-/seller-register/pvt/sellers): permite configurar la cuenta del _seller_, ya sea un _seller_ VTEX o externo.
+- [Update Seller by Seller ID](https://developers.vtex.com/docs/api-reference/marketplace-apis#patch-/seller-register/pvt/sellers/-sellerId-): permite actualizar los datos del _seller_, ya sea un _seller_ VTEX o externo.
 
-<div class = "alert alert-info">
-En los pedidos que se realizan a través del <i>marketplace</i>, el <i>seller</i> no puede ver el email del cliente. El cliente establece una relación con el <i>marketplace</i> y, por lo tanto, se necesitaría su consentimiento para compartir sus datos.
-</div>
+>ℹ️ En los pedidos que se realizan a través del <i>marketplace</i>, el <i>seller</i> no puede ver el email del cliente. El cliente establece una relación con el <i>marketplace</i> y, por lo tanto, se necesitaría su consentimiento para compartir sus datos.
 
 ### Más información
 

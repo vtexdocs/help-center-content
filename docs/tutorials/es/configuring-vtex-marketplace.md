@@ -3,12 +3,12 @@ title: 'Configurar marketplaces VTEX'
 id: 7splyp5MqIyt2Iyz5jsNzb
 status: PUBLISHED
 createdAt: 2022-01-26T21:27:16.808Z
-updatedAt: 2023-04-17T22:04:41.917Z
-publishedAt: 2023-04-17T22:04:41.917Z
+updatedAt: 2024-05-23T15:18:17.648Z
+publishedAt: 2024-05-23T15:18:17.648Z
 firstPublishedAt: 2022-01-26T23:06:58.565Z
 contentType: tutorial
 productTeam: Channels
-author: 0QBQws7rk0t5Mnu8fgfUv
+author: 2p7evLfTcDrhc5qtrzbLWD
 slug: configurar-marketplaces-vtex
 locale: es
 legacySlug: configuraciones-para-marketplace-vtex
@@ -73,7 +73,7 @@ Puedes definir si la tienda del _seller_ será visible en la experiencia de comp
 - **_Seller_ identificable:** el _seller_ es visible en el _storefront_ de tu _marketplace,_ y es elegido por el consumidor durante la experiencia de compra en _buy box_.  
 - **_Seller_ no identificable (_white label_):** los _[sellers white label](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label)_ son cuentas franquicia en VTEX, ocultas en la experiencia de compra, y seleccionadas automáticamente por el sistema del _checkout_ para el _fulfillment_.  
 
-Para agregar un _seller_ no identificable (_seller white label_), es necesario tener este modelo previsto en el contrato con VTEX. Una vez acordado un contrato con el representante de ventas de VTEX responsable de tu _marketplace_, solicita la adición de una cuenta franquicia por email a `sales-ops-br@vtex.com.br`. Todas las cuentas franquicia se crean como un _seller white label_, y no es posible cambiar el tipo de _seller_ después de su creación. Obtén más información en [Agregar sellers](https://help.vtex.com/es/tutorial/adding-a-seller--tutorials_392).
+Para agregar un _seller_ no identificable (_seller white label_), es necesario tener este modelo previsto en el contrato con VTEX. Una vez acordado un contrato con el representante de ventas de VTEX responsable de tu _marketplace_, envía una solicitud para agregar una cuenta franquicia siguiendo las instrucciones presentes en el siguiente artículo: [Solicitar la creación de una cuenta franquicia](https://help.vtex.com/es/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl#solicitar-criacao-de-conta-franquia). Todas las cuentas franquicia se crean como un _seller white label_, y no es posible cambiar el tipo de _seller_ después de su creación. Obtén más información en [Agregar sellers](https://help.vtex.com/es/tutorial/adding-a-seller--tutorials_392).
 
 ### Ubicación
 
@@ -83,9 +83,7 @@ Un _marketplace_ puede obtener la información de ubicación del usuario en el _
 
 Incluso cuando VTEX Session no tiene acceso a la ubicación del consumidor, sigue siendo necesario orientar un surtido de productos de los _sellers_ en la experiencia de compra. En este caso, el algoritmo de selección de _sellers_ indica [sellers de extensa cobertura](https://help.vtex.com/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI) que pueden entregar pedidos en todas las regiones atendidas por tu _marketplace_.
 
-<div class="alert alert-info">
-La funcionalidad Region solo está adaptada a las tiendas que utilizan VTEX IO, y no es válida para el Portal CMS Legado. 
-</div>
+>ℹ️ La funcionalidad Region solo está adaptada a las tiendas que utilizan VTEX IO, y no es válida para el Portal CMS Legado.
 
 ## Configurar storefront
 

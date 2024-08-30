@@ -3,8 +3,8 @@ title: 'Restablecer la configuración de la aplicación de autenticación de dos
 id: 4ftaOCZono1MiQia2hxbTy
 status: PUBLISHED
 createdAt: 2023-02-08T13:55:25.623Z
-updatedAt: 2023-02-08T14:26:33.141Z
-publishedAt: 2023-02-08T14:26:33.141Z
+updatedAt: 2024-03-12T18:52:44.442Z
+publishedAt: 2024-03-12T18:52:44.442Z
 firstPublishedAt: 2023-02-08T14:26:33.141Z
 contentType: tutorial
 productTeam: Identity
@@ -17,11 +17,11 @@ subcategory: 4sY1T2qdFehvVmC0tL5xW3
 
 Si ya has [activado el inicio de sesión mediante autenticación de dos factores](https://help.vtex.com/pt/tutorial/enabling-2-factor-authentication-login--4Ae1fcQi12g8u4SkQKCqWQ), pero cometiste algún error durante la configuración o perdiste el acceso a tu aplicación de autenticación de dos factores, es posible que no puedas acceder a tu cuenta VTEX.
 
+## Retomar el acceso al VTEX Admin
+
 Para recuperar el acceso a tu cuenta, sigue estos pasos:
-1. Accede a esta dirección para ver la página de inicio de sesión de tu cuenta:
-```
-https://{nombreDeCuenta}.myvtex.com/admin
-```
+
+1. Accede al VTEX Admin para ver la página de inicio de sesión de tu cuenta.
 2. Rellena tu dirección de email.
 3. Haz clic en `Continuar`.
 4. Haz clic en **Olvidé mi contraseña**.
@@ -32,12 +32,13 @@ https://{nombreDeCuenta}.myvtex.com/admin
 
 Una vez que hayas recuperado el acceso a tu cuenta como se ha descrito anteriormente, puedes restablecer la aplicación de verificación en dos pasos como sigue:
 
-1. Accede a la página de configuración de verificación en dos pasos de tu cuenta en esta dirección:
-```
-https://{nombreDeCuenta}.myvtex.com/admin/myuser/twostepverification
-```
-2. Haz clic en **Configurar** en la sección **Aplicación Google Authenticator**.
-3. Si no tienes la aplicación Google Authenticator instalada, instálala en tu dispositivo móvil.
-4. Escanea el código QR utilizando la aplicación Google Authenticator.
-5. Ingresa el código que aparece en el campo indicado en la página.
-
+1. En la barra superior del Admin VTEX, haz clic en el avatar de tu perfil que tiene la inicial de tu email.
+2. Haz clic en **Configuración del usuario**.
+3. En la sección **Autenticación**, haz clic en **Verificación en 2 pasos**.
+4. Seleccione **App Google Authenticator**.
+5. Haz clic en `Configurar` o en `Modificar' si ya tienes configurada una aplicación de autenticación.
+6. Si no dispone de la aplicación __Google Authenticator__ ([App Store](https://itunes.apple.com/mx/app/google-authenticator/id388497605?mt=8) / [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)), instálela en su dispositivo móvil.
+7. Escanea el código QR utilizando la aplicación Google Authenticator.
+8. Haz clic en `Siguiente`.
+9. Ingresa el código que aparece en el campo indicado en la página.
+10. Haz clic en `Confirmar`.

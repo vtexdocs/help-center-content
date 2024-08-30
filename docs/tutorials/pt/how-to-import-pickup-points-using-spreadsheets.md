@@ -17,18 +17,16 @@ subcategory: 1c5Btie9ou2Gg2iUo0ggqM
 
 Os pontos de retirada, também conhecidos como pickup points, são parte importante de qualquer estratégia [omnichannel](/pt/announcement/mude-seu-negocio-com-a-experiencia-omnichannel-vtex).
 
-Você pode [configurar pontos de retirada um a um](/pt/tutorial/configurar-pontos-de-retirada-pickup-points) ou fazer isso através da importação de uma planilha XLS [(como a deste exemplo)](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Usando um arquivo XLS, você cadastra todos os pickup points de uma única vez (desde que ele não ultrapasse 10 MB).
+Você pode [configurar pontos de retirada um a um](/pt/tutorial/configurar-pontos-de-retirada-pickup-points) ou fazer isso através da importação de uma planilha XLS [(como a deste exemplo)](https://assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Usando um arquivo XLS, você cadastra todos os pickup points de uma única vez (desde que ele não ultrapasse 10 MB).
 
-<div class="alert alert-info">
-Um arquivo XLS de <strong>10 MB</strong> permite o cadastro de, aproximadamente, <strong>50 mil</strong> pontos de retirada. Para importar um número maior, é necessário dividi-los em mais de uma planilha e fazer um upload de cada vez.
-</div>
+>ℹ️ Um arquivo XLS de **10 MB** permite o cadastro de, aproximadamente, **50 mil** pontos de retirada. Para importar um número maior, é necessário dividi-los em mais de uma planilha e fazer um upload de cada vez.
 
 
 ## Como fazer o upload da planilha
 1. No menu lateral, clique em __Estoque & entrega__, na seção __Pedidos__.
 2. Nas opções que se abrem, clique em __Pontos de retirada__.
 3. Clique em __Subir um XLS__, localizado no canto superior direito da página. ![Subir XLS](https://images.ctfassets.net/alneenqid6w5/405kNpYa3mg6iSaS0UgQmq/4f544dfad6e5e7b95e63c5420c8884fe/Subir_XLS.png)
-4. Um modal vai surgir, permitindo que você envie seu arquivo (com extensão `.xls`) ou baixe a [planilha de exemplo](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Lembre-se de que ela vem com valores de exemplo preenchidos, que devem ser deletados e substituídos pelos dados dos seus próprios pontos de retirada. ![modal (PT)](https://images.ctfassets.net/alneenqid6w5/20X1H7Xla4WsqoG24UssK2/12a46b5171a72837f5ad6fb46287aae5/modal__PT_.png)
+4. Um modal vai surgir, permitindo que você envie seu arquivo (com extensão `.xls`) ou baixe a [planilha de exemplo](https://assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Lembre-se de que ela vem com valores de exemplo preenchidos, que devem ser deletados e substituídos pelos dados dos seus próprios pontos de retirada. ![modal (PT)](https://images.ctfassets.net/alneenqid6w5/20X1H7Xla4WsqoG24UssK2/12a46b5171a72837f5ad6fb46287aae5/modal__PT_.png)
 5. Com tudo certo, os novos pontos de retirada vão estar configurados e disponíveis para seus clientes.
 
 

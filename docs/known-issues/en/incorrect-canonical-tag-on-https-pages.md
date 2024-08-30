@@ -25,7 +25,7 @@ Upon activating a specific HTTPS folder, the _canonical_ HTML tag continues to r
 1. Activate HTTPS in a single folder of the site ([guide](https://help.vtex.com/tutorial/--frequentlyAskedQuestions_4378));
 2. Check the _canonical_ tag in the rendered HTML.
 
-![image](//images.contentful.com/alneenqid6w5/5B2i3p2lva8OO0I4geI8Qw/7321c0d4c0a2f8d20a7940ace91bcbff/image.png)
+![image](https://images.contentful.com/alneenqid6w5/5B2i3p2lva8OO0I4geI8Qw/7321c0d4c0a2f8d20a7940ace91bcbff/image.png)
 
 ## Workaround
 

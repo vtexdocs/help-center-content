@@ -1,10 +1,10 @@
 ---
 title: 'Reserved stock in invoiced orders'
 id: TfDOKEybi6eSAEoCEEAqg
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-06-13T18:43:58.606Z
-updatedAt: 2022-12-22T14:51:09.663Z
-publishedAt: 2022-12-22T14:51:09.663Z
+updatedAt: 2023-10-17T15:29:19.908Z
+publishedAt: 
 firstPublishedAt: 2017-06-14T00:07:07.051Z
 contentType: knownIssue
 productTeam: Post-purchase
@@ -24,7 +24,7 @@ This happens when the order is in the `Pronto para Manuseio` status (Ready for H
 
 Example with order flow:
 
-![2017-06-13 182850](//images.contentful.com/alneenqid6w5/5Skd8YsCcMIicCcEGyoqwG/1a1a839dc36cdb9f818240b68817de3e/2017-06-13_182850.jpg)
+![2017-06-13 182850](https://images.contentful.com/alneenqid6w5/5Skd8YsCcMIicCcEGyoqwG/1a1a839dc36cdb9f818240b68817de3e/2017-06-13_182850.jpg)
 
 In the circulated step of the order flow, the product is invoiced without acknowledgment of the reservation.
 

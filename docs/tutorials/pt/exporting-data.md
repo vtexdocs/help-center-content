@@ -3,8 +3,8 @@ title: 'Exportar dados do Master Data v1'
 id: tutorials_1125
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:19.601Z
-updatedAt: 2023-03-28T23:31:33.420Z
-publishedAt: 2023-03-28T23:31:33.420Z
+updatedAt: 2024-06-20T15:09:14.414Z
+publishedAt: 2024-06-20T15:09:14.414Z
 firstPublishedAt: 2017-04-27T23:03:43.216Z
 contentType: tutorial
 productTeam: Master Data
@@ -17,23 +17,21 @@ subcategory: 2AThnkEZAYbk4G4EIs53rL
 
 A exportação de dados em massa de registros no Master Data v1 pode ser feita tanto por API quanto por planilha. Este documento tem como objetivo demonstrar o passo a passo necessário para a exportação de dados por planilha.
 
-<div class="alert alert-warning">
-A operação de exportar dados do Master Data não é instantânea, e o tempo de execução dela depende da quantidade de dados no Master Data. Por isso, em lojas com muitos dados e com uma alta frequência de atualização, o arquivo exportado pode ficar desatualizado em relação aos novos dados. Caso isso ocorra, a solução deve ser exportar os dados novamente, de preferência quando não há muitas atualizações ocorrendo (por exemplo, fora do horário comercial ou em fins de semana).
-</div>
+>⚠️ A operação de exportar dados do Master Data não é instantânea, e o tempo de execução dela depende da quantidade de dados no Master Data. Por isso, em lojas com muitos dados e com uma alta frequência de atualização, o arquivo exportado pode ficar desatualizado em relação aos novos dados. Caso isso ocorra, a solução deve ser exportar os dados novamente, de preferência quando não há muitas atualizações ocorrendo (por exemplo, fora do horário comercial ou em fins de semana).
 
-## Como exportar
+## Exportar relatório com dados do Master Data v1
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Storefront** > **Master Data.**
-2. Clique na aba **Aplicações**.
-3. Clique em visualizar (ícone da direita) no formulário desejado.
-![visualizar button master data](https://images.ctfassets.net/alneenqid6w5/2x1xCx4tEeV6eMPy4VRFpE/0e59f11450a93765e037da555f8d6c09/visualizar_button_export_data.png)
-4. Isso irá carregar a listagem do formulário selecionado.
-5. Clique no botão **Exportar XLS.**
+Siga as instruções abaixo para exportar um relatório com dados de registros de um formulário no Master Data v1.
+
+1. No Admin VTEX, acesse **Configurações da loja** > **Storefront** > **Master Data**.
+2. Certifique-se de que você está na aba **Aplicações**.
+3. Clique no ícone de lista <i class="fas fa-bars"></i> ao lado do formulário desejado.
+4. Clique no botão `Exportar .xls`.
 6. Selecione os campos que deseja receber no relatório.
 7. Preencha o e-mail para o qual deseja enviar o relatório (o campo virá preenchido automaticamente com o e-mail do usuário logado, mas pode ser alterado).
-8. Clique no botão **Exportar.**
+8. Clique no botão `Exportar`.
 
-## Dados exportados de clientes
+## Dados exportados de Clientes
 
 Veja abaixo a lista de campos de dados exportados de clientes da aba **Clientes** no Profile System (CRM) do Master Data v1.
 
@@ -72,4 +70,4 @@ Veja abaixo a lista de campos de dados exportados de clientes da aba **Clientes*
 | rclastcartvalue       | Valor do último carrinho	       | Script de Navegação       |
 | carttag       | Lista dos últimos IDs dos SKUs do Carrinho	       | Script de Navegação       |
 
-Lembrando que estes são os campos que vêm por default no formulário **Cliente**. Caso a loja tenha personalizado a entidade Cliente, podem haver outros campos criados.
+Lembrando que estes são os campos que vêm por padrão no formulário **Cliente**. Caso a loja tenha personalizado a entidade __Cliente__, podem haver outros campos criados.

@@ -15,9 +15,7 @@ legacySlug: configuracao-de-precos-beta
 subcategory: 2XTQ6yFYeU5bGHK8Qq3f4I
 ---
 
-<div class = "alert alert-info">
-  <p>Essa funcionalidade está em estágio Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href = "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>
+>ℹ️ Essa funcionalidade está em estágio Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href = "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
 
 Esta nova seção de Configuração de Preços (Beta) permite criar e gerenciar regras para tabelas de preços e alterar configurações gerais de forma prática e rápida. 
 
@@ -39,9 +37,7 @@ Nesta seção, você pode definir o markup padrão e o limite de variação de p
 
 - **Sobrescrever preços de sellers:** essa opção sobrescreve todos os preços de sellers com os da conta atual.
 
-<div class = "alert alert-info">
-  <p>A configuração <b>Sobrescrever preços de sellers</b> não é disponível para sellers white label.</p>
-</div>
+>ℹ️ A configuração **Sobrescrever preços de sellers** não é disponível para sellers white label.
 
 ## Regras para tabelas de preço
 

@@ -3,8 +3,8 @@ title: 'Propiedad blockClass de infoCard no funciona'
 id: LTEEWCaZx2unBWSEJFDw6
 status: PUBLISHED
 createdAt: 2023-01-31T19:02:03.835Z
-updatedAt: 2023-01-31T19:02:04.299Z
-publishedAt: 2023-01-31T19:02:04.299Z
+updatedAt: 2024-07-01T18:48:42.227Z
+publishedAt: 2024-07-01T18:48:42.227Z
 firstPublishedAt: 2023-01-31T19:02:04.299Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: propiedad-blockclass-de-infocard-no-funciona
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 743730
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

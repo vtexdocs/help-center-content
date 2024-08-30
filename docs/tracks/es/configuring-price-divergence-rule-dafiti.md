@@ -3,8 +3,8 @@ title: 'Configurar regla de Divergencia de precios'
 id: 4rGMP9mEVOKCZCM71yzxnj
 status: PUBLISHED
 createdAt: 2022-01-05T16:09:05.484Z
-updatedAt: 2022-01-05T16:18:18.655Z
-publishedAt: 2022-01-05T16:18:18.655Z
+updatedAt: 2023-08-11T18:26:09.918Z
+publishedAt: 2023-08-11T18:26:09.918Z
 firstPublishedAt: 2022-01-05T16:11:57.454Z
 contentType: trackArticle
 productTeam: Channels
@@ -20,8 +20,6 @@ En el Admin VTEX, en **PEDIDOS > Gestión de pedidos > Autorización de pedidos*
 
 La regla de Divergencia de precios se compone de una o varias reglas de autorización de pedidos, cada una de las cuales corresponde a un intervalo porcentual del precio del pedido. Las reglas de autorización se pueden configurar para negar automáticamente, autorizar automáticamente o exigir la autorización manual del pedido.
 
-<div class="alert alert-warning">
-Después de que hayas configurado la regla de Divergencia de valores, esta se aplicará a todos los marketplaces en los que actúes como seller. Estos pueden ser marketplaces VTEX, marketplaces externos, <a href= "https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-certificado-partner">conectores certificados (partners)</a>, o otros <a href= "https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex">conectores nativos</a> además de Dafiti.
-</div> 
+>⚠️ Después de que hayas configurado la regla de Divergencia de valores, esta se aplicará a todos los marketplaces en los que actúes como seller. Estos pueden ser marketplaces VTEX, marketplaces externos, <a href= "https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-certificado-partner">conectores certificados (partners)</a>, o otros <a href= "https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex">conectores nativos</a> además de Dafiti. 
 
 Se recomienda configurar la regla de Divergencia de precios antes de avanzar al siguiente paso de configuración de la integración con Dafiti. Si no se cumple esta recomendación la integración se realiza, pero los pedidos con divergencia de valores se retienen hasta que se crie la regla de Divergencia de precios. Puedes seguirlos en tu Admin VTEX, en **MARKETPLACE > Integraciones > Pedidos**.

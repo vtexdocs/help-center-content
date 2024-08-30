@@ -1,10 +1,10 @@
 ---
 title: 'Opening tickets to VTEX financial support'
 id: 1ad3TguXzCSKq4yuYSK80c
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-04-04T13:58:56.872Z
-updatedAt: 2020-11-27T19:40:27.285Z
-publishedAt: 2020-03-09T18:09:31.386Z
+updatedAt: 2024-07-29T22:02:21.897Z
+publishedAt: 2024-07-29T22:02:21.897Z
 firstPublishedAt: 2018-04-04T19:53:34.588Z
 contentType: tutorial
 productTeam: Billing
@@ -40,6 +40,7 @@ To open a ticket, simply click the __Send a request__ red button.
 You will be taken to the ticket opening form, where you must fill in:
 - Your name.
 - The VTEX account to which the ticket refers (the form loads a list of the accounts to which you have access. If you do not have access to any VTEX accounts, you can not open tickets).
+- Your business registration number (i.e. EIN in the USA).
 - That your question is Financial.
 - The subject.
 - The question or problem.
@@ -56,17 +57,11 @@ This classification is important for the support team to prioritize the most urg
 
 *If the indicated level does not apply to the scenario, the agent can modify it.*
 
-<div class = "alert alert-info">
-<strong>Normal:</strong> general questions.
-</div>
+>ℹ️ **Normal:** general questions.
 
-<div class = "alert alert-warning">
-<strong>High:</strong> important documentation is making the process unfeasible.
-</div>
+>⚠️ **High:** important documentation is making the process unfeasible.
 
-<div class = "alert alert-danger">
-<strong>Urgent:</strong> Admin blocked, threatening the profit of their business.
-</div>
+>❗ **Urgent:** Admin blocked, threatening the profit of their business.
 
 ## Interacting with the support
 

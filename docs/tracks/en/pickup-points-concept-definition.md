@@ -16,9 +16,7 @@ trackSlugEN: logistics-101
 
 A pickup point is a physical place from where customers can retrieve their packages by themselves. It is an optional step that closes the logistics route. 
 
-<div class="alert alert-info">
-The functionality of pickup points is only available to accounts that already use <b>Checkout V6</b>.
-</div>
+>ℹ️ The functionality of pickup points is only available to accounts that already use **Checkout V6**.
 
 
 ## Relationship with the carrier

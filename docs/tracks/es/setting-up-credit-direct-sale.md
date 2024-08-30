@@ -3,8 +3,8 @@ title: 'Configuración de venta directa - Crédito'
 id: 5rSTgGeCqEN7c9LmFbfqA
 status: PUBLISHED
 createdAt: 2021-09-27T20:09:51.763Z
-updatedAt: 2023-05-31T14:45:21.350Z
-publishedAt: 2023-05-31T14:45:21.350Z
+updatedAt: 2023-07-19T19:35:38.275Z
+publishedAt: 2023-07-19T19:35:38.275Z
 firstPublishedAt: 2021-09-27T20:35:59.233Z
 contentType: trackArticle
 productTeam: Shopping

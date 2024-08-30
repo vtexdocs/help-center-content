@@ -3,8 +3,8 @@ title: 'Ship From Store'
 id: 50GAmxxFsJoLWqcnMysWdl
 status: PUBLISHED
 createdAt: 2020-06-30T21:36:43.926Z
-updatedAt: 2023-05-31T14:45:10.189Z
-publishedAt: 2023-05-31T14:45:10.189Z
+updatedAt: 2023-07-26T18:44:48.356Z
+publishedAt: 2023-07-26T18:44:48.356Z
 firstPublishedAt: 2020-06-30T21:45:36.187Z
 contentType: trackArticle
 productTeam: Shopping
@@ -20,7 +20,7 @@ The **Ship From Store** strategy allows a customer who wants to receive the prod
 
 This type of logistics helps your operation to reduce costs and shipping time. Instead of having only the main warehouses - usually away from the central areas of cities - you now have a more capillary delivery network.
 
-Consider this example: a customer who is at homeplaces an order on the e-commerce and wants to receive the products at home. Let's say you have a physical store in their neighborhood, 500 meters from the customer's home. If the store has the products they ordered in their local inventory, the Shipping From Store strategy allows these products to be shipped to the customer from that store - at a lower cost for you and with a better delivery time for the customer.
+Consider this example: a customer who is at homeplaces an order on the ecommerce and wants to receive the products at home. Let's say you have a physical store in their neighborhood, 500 meters from the customer's home. If the store has the products they ordered in their local inventory, the Shipping From Store strategy allows these products to be shipped to the customer from that store - at a lower cost for you and with a better delivery time for the customer.
 
 ## Prerequisites
 
@@ -28,9 +28,7 @@ First of all, you must consider the prerequisites that your store needs to ensur
 
 ## How to implement Ship From Store
 
-<div class="alert alert-info">
-Although it is possible to implement Ship From Store in other ways, in this article we will explain how to do it using the Franchise Account and Seller White Label features. This is the architecture most recommended by VTEX for this type of project.
-</div>
+>ℹ️ Although it is possible to implement Ship From Store in other ways, in this article we will explain how to do it using the Franchise Account and Seller White Label features. This is the architecture most recommended by VTEX for this type of project.
 
 These are the steps to implement __Ship From Store__:
 

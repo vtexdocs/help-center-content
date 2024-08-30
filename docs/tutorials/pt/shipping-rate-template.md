@@ -3,8 +3,8 @@ title: 'Planilha de frete'
 id: tutorials_127
 status: PUBLISHED
 createdAt: 2019-02-22T19:36:18.509Z
-updatedAt: 2023-03-29T18:18:59.537Z
-publishedAt: 2023-03-29T18:18:59.537Z
+updatedAt: 2023-10-10T13:26:19.271Z
+publishedAt: 2023-10-10T13:26:19.271Z
 firstPublishedAt: 2019-02-22T19:36:22.375Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -24,9 +24,7 @@ Para cadastrar preços de envio pela planilha de frete é necessário:
 1. [Preencher os campos da planilha](#preencher-os-campos-da-planilha)
 2. [Enviar o arquivo pelo Admin VTEX](#enviar-o-arquivo-pelo-admin-vtex)
 
-<div class="alert alert-info"> 
-Há também como cadastrar preços de envio pelo módulo <a href="https://help.vtex.com/pt/tutorial/gerenciar-valores-de-frete--tutorials_141">Tarifas de Envio</a>. Recomendamos utilizar a <a href="https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127">Planilha de frete</a> ao incluir vários intervalos de código postal, e utilizar Tarifas de Envio para gerenciar os preços de frete já cadastrados e para cadastrar cada intervalo de código postal individualmente.
-</div>
+>ℹ️ Há também como cadastrar preços de envio pelo módulo [Tarifas de Envio](https://help.vtex.com/pt/tutorial/gerenciar-valores-de-frete--tutorials_141). Recomendamos utilizar a [Planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127) ao incluir vários intervalos de código postal, e utilizar Tarifas de Envio para gerenciar os preços de frete já cadastrados e para cadastrar cada intervalo de código postal individualmente.
 
 ## Preencher os campos da planilha
 
@@ -121,7 +119,7 @@ Confira a tabela a seguir para entender cada campo detalhadamente.
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PricePercent</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">Adicional por preço,</a> calculado de acordo com o preço do carrinho, em número decimal. Para o preenchimento da tabela utilize o valor em porcentagem (por exemplo para um adicional de 10% preencha a tabela com 10).
+            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">Adicional por preço,</a> calculado em número decimal de acordo com o preço dos produtos no carrinho. Para o preenchimento da tabela, utilize o valor em porcentagem. Por exemplo: para um adicional de 10% preencha a tabela com 10.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;"> Utilize o campo nos casos em que exista um adicional de preço para a entrega. Os <a href="https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">adicionais de frete</a> são somados ao valor fixo.
             </td>
@@ -175,17 +173,11 @@ Confira a tabela a seguir para entender cada campo detalhadamente.
 </tbody>
 </table>
 
-<div class="alert alert-info"> 
-Para fins de usabilidade de termos, utilizamos em nossa documentação o termo "peso" ao invés de "massa". 
-</div>
+>ℹ️ Para fins de usabilidade de termos, utilizamos em nossa documentação o termo "peso" ao invés de "massa".
 
 Veja abaixo um exemplo de preenchimento dos campos, considerando o formato aceito em cada coluna. 
 
 ![modelo_planilhanumerica](https://images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
-
-### Planilha para os Correios
-
-Caso queira disponibilizar a entrega pelos Correios, é possível gerar uma planilha automática no padrão VTEX. Acesse o integrador Correios, e gere a planilha pela ferramenta oferecida pela XP Agência no link [XP planilhas](http://planilha.xpagencia.com.br/).
 
 ## Enviar o arquivo pelo Admin VTEX
 
@@ -200,13 +192,9 @@ O envio da planilha é feito no cadastro ou na edição de **Política de Envio.
 
 ![upload tarifas envioPT]   (//images.contentful.com/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/f5814cef893c4f139a8497ec1985cbb2/upload_tarifas_envioPT.png)
 
-<div class="alert alert-warning"> 
-Para cadastrar uma <b>nova</b> Política de Envio, é preciso preencher outros campos além da Planilha de frete. Entenda como criar, editar e preencher todos os campos necessários no artigo <a href="https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140">Política de Envio</a>.
-</div>
+>⚠️ Para cadastrar uma **nova** Política de Envio, é preciso preencher outros campos além da Planilha de frete. Entenda como criar, editar e preencher todos os campos necessários no artigo [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140).
 
-<div class="alert alert-danger"> 
-Cada aba dentro da planilha não pode ultrapassar 65.536 linhas. É possível criar várias abas na mesma planilha, respeitando o limite de linhas. Não há limite de abas dentro do arquivo, no entanto o arquivo total não pode exceder 10Mb. Se preciso, compacte o arquivo em formato <b>.zip</b>. Se ainda não for suficiente, divida em dois arquivos e cadastre outra política de envio para fazer upload do segundo arquivo criado. 
-</div>
+>❗ Cada aba dentro da planilha não pode ultrapassar 65.536 linhas. É possível criar várias abas na mesma planilha, respeitando o limite de linhas. Não há limite de abas dentro do arquivo, no entanto o arquivo total não pode exceder 10Mb. Se preciso, compacte o arquivo em formato **.zip**. Se ainda não for suficiente, divida em dois arquivos e cadastre outra política de envio para fazer upload do segundo arquivo criado.
 
 Caso exista algum problema no preenchimento dos campos do arquivo enviado, você receberá um email informando o erro. Não esqueça de verificar o preenchimento correto antes de realizar uma nova tentativa de envio.
 

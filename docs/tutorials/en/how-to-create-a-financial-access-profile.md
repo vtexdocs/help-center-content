@@ -44,7 +44,7 @@ To associate a user with the Finance role you’ve created, follow the steps bel
 3. Click on the **Users** tab.
 4. Select the user you want to associate with the role.
 5. Choose the **Financial role**.
-6. Click on the <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/2jZogtT8WT3XVmv5U6yXh/2dc70b446b9aad1b27840e64b2cf15ce/bot__o_adicionar.png" /> button, next to the role, to add it.
+6. Click on the <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2jZogtT8WT3XVmv5U6yXh/2dc70b446b9aad1b27840e64b2cf15ce/bot__o_adicionar.png" /> button, next to the role, to add it.
 7. Click on **Save**.
 
 ![gif usuárioEN](https://images.ctfassets.net/alneenqid6w5/4UkPeH2Sfsp2KiSvozclnk/ef5a0fe13d88461cc9057e75cce09151/gif_usu__rioEN.gif)

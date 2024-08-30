@@ -18,9 +18,7 @@ internalReference: 523984
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En el orden de la lista un filtro por promoción, cuando hay un espacio extra en blanco en el nombre de la promoción en el json no está coincidiendo.

@@ -1,5 +1,5 @@
 ---
-title: '[Ordens que estão em "Aguardando Autorização para Despacho" na VTEX, mas que ainda estão "gastando_de-pagamento" na Dafiti.'
+title: "[Ordens que estão em 'Aguardando Autorização para Despacho' na VTEX, mas que ainda estão 'gastando_de-pagamento' na Dafiti."
 id: 6XbDr2QRAtk0bVAeywagjq
 status: PUBLISHED
 createdAt: 2022-12-20T13:14:31.368Z
@@ -18,9 +18,7 @@ internalReference: 719606
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ordens que estão em `"Aguardando Autorização para Despachar" `na VTEX, mas que ainda estão `"pagando_dependendo" `na Dafiti.

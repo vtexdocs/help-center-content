@@ -3,8 +3,8 @@ title: 'Las vacaciones no se muestran en la lista después de utilizar la API pa
 id: WqzSTP6oFwk4MbGaO5mIU
 status: PUBLISHED
 createdAt: 2022-05-02T22:26:55.630Z
-updatedAt: 2022-11-25T22:00:07.142Z
-publishedAt: 2022-11-25T22:00:07.142Z
+updatedAt: 2024-02-16T20:28:28.551Z
+publishedAt: 2024-02-16T20:28:28.551Z
 firstPublishedAt: 2022-05-02T22:26:56.888Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: las-vacaciones-no-se-muestran-en-la-lista-despues-de-utilizar-la-api-para-crear-put
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 571040
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 

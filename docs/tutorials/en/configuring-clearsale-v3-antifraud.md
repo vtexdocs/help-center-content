@@ -1,10 +1,10 @@
 ---
 title: 'Configuring ClearSale v3 antifraud'
 id: 2pPORygesIqQOa6cIG6agg
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-10-30T14:10:20.822Z
-updatedAt: 2021-12-15T21:23:21.984Z
-publishedAt: 2021-12-15T21:23:21.984Z
+updatedAt: 2024-04-24T18:52:20.944Z
+publishedAt: 2024-04-24T18:49:44.223Z
 firstPublishedAt: 2017-10-30T14:26:53.089Z
 contentType: tutorial
 productTeam: Financial
@@ -15,23 +15,33 @@ legacySlug: configuring-clearsale-v3-antifraud
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-To enable ClearSale v3 anti-fraud solution, you must [add the gateway affiliation](https://help.vtex.com/en/tutorial/registering-gateway-affiliations--tutorials_444) in the Payments section by choosing the **ClearSaleV3** option. The ClearSale v3 affiliation configuration contains the following fields:
+At VTEX, it is possible to integrate with ClearSaleV3 [anti-fraud](https://help.vtex.com/en/tutorial/how-to-configure-the-anti-fraud--tutorials_446). Through this system, it is possible to increase the level of security in payment transactions carried out in your store using risk analyzes that identify possible fraud.
+Para configurar o ClearSaleV3, siga os passos abaixo:
 
-- **Login**: Login.
-- **Password**: Password.
-- **Custom SLA in minutes (optional):** The time ClearSale will have to process the fraud analysis.
-- **Product (optional):** Numeric value corresponding to the ID of the product purchased from ClearSale.
-- **Transaction currency:** The currency used in the transaction.
-- **Observation (optional):** Text that will be sent to ClearSale as a remark.
-- **Send authenticated transactions?** Has the options **Yes** and **No**. Authenticated transactions are those where all payments have been password authenticated in the 3DSecure program.
+To configure ClearSaleV3, follow the steps below:
 
-<div class = "alert alert-info">
-The ClearSale documentation on <a href="https://api.clearsale.com.br/docs/finger-print" target="_blank">FingerPrint</a> explains the script below in greater detail.
-</div>
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __ClearSaleV3__ in the search bar and click on the name of the provider.
+4. If you wish to modify the identification name to be displayed for the PagoEfectivoV2 provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
+5. In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
+6. Fill in the information below according to your ClearSale settings:
+<br>
+<ul>
+<br>
+  <li><b>Login</b>: Login.</li>
+  <li><b>Password</b>: Password.</li>
+  <li><b>Custom SLA in minutes (optional)</b>: Period in which ClearSale will have to process the fraud analysis.</li>
+  <li><b>Product (optional)</b>: Numeric value. Corresponds to the product ID contracted on ClearSale.</li>
+  <li><b>Transaction currency</b>: Currency in which the transaction is carried out.</li>
+  <li><b>Observation (optional)</b>: Text that will be sent to ClearSale as a remark.</li>
+  <li><b>Send authenticated transactions?</b>: Indicates whether payment transactions must be authenticated with a password in the 3DSecure program.</li>
+</ul>
+7. Click `Save`.
 
-<div class="alert alert-warning">
-If you want to set up the <strong>ClearSale T</strong> anti-fraud, just follow <a href="http://help.vtex.com/en/tutorial/how-to-configure-the-anti-fraud">these instructions</a>.
-</div>
+>ℹ️ If you have a mobile application that uses VTEX APIs at checkout, it is necessary to implement fingerprint data collection to be sent to Clearsale, according to the platform used by the application. Find out more at [Clearsale Behavior Analytics](https://api.clearsale.com.br/docs/behavior-analytics" target="_blank).
+>
+> With the SDK implementation, it is necessary to collect the <span class="bg-muted-4">sessionId</span> value and send it in the <span class="bg-muted-4">deviceFingerprint</span> via [API when creating the payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments).
 
 ## Creating a Google Tag Manager tag
 
@@ -63,9 +73,9 @@ Configuring ClearSale v3 anti-fraud solution requires creating a tag in Google T
 10. Click on the __Create Tag__ button, enter a name for this tag and save.
 11. In the top right corner, click on __Publish__.
 
-![Pasted image at 2017 10 20 01 11 PM](//images.contentful.com/alneenqid6w5/2kdI4xh9IYwKI2mSiU20yW/b850c070cc8de2ec09e690ffe6cc9c15/Pasted_image_at_2017_10_20_01_11_PM.png)
+![Pasted image at 2017 10 20 01 11 PM](https://images.contentful.com/alneenqid6w5/2kdI4xh9IYwKI2mSiU20yW/b850c070cc8de2ec09e690ffe6cc9c15/Pasted_image_at_2017_10_20_01_11_PM.png)
 
-<div class="alert alert-info"> See the <a href="https://api.clearsale.com.br/docs/finger-print" target="_blank"> FingerPrint documentation</a> on ClearSale for more information on the above script. </div>
+>ℹ️ See the [ FingerPrint documentation](https://api.clearsale.com.br/docs/finger-print" target="_blank) on ClearSale for more information on the above script.
 
 ## CustomSLA field details
 
@@ -83,6 +93,4 @@ The `shippingEstimate` field can be obtained from the `shippingData.logisticsInf
 
 The `deliverySlaInMinutes` value is the conversion of `shippingEstimate` into minutes. If the unit is `m` (minutes), the value will be the same. If the unit is `h` (hours), the value is multiplied by 60, and if the unit is `d` (calendar days) or `bd` (working days), the value is multiplied by 1440. For example, three calendar days or `3d` is represented as `4320`. The `deliverySlaInMinutes` field is used in each item of the `minicart` in the request body of the <a href="https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifraudpreanalysisdata" target="_blank">Send Antifraud Pre-Analysis Data</a> and <a href="https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifrauddata" target="_blank">Send Antifraud Data</a> endpoints.
 
-<div class="alert alert-info">
-Although the time conversion in calendar days (<code>d</code>) and working days (<code>bd</code>) to minutes is the same in the <code>deliverySlaInMinutes</code> field, the delivery date may be different depending on the calendar (when there are weekends and holidays within the delivery window).
-</div>
+>ℹ️ Although the time conversion in calendar days (`d`) and working days (`bd`) to minutes is the same in the `deliverySlaInMinutes` field, the delivery date may be different depending on the calendar (when there are weekends and holidays within the delivery window).

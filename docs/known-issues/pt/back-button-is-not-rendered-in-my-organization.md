@@ -1,5 +1,5 @@
 ---
-title: 'O botão "Voltar" não é renderizado em Minha organização'
+title: "O botão 'Voltar' não é renderizado em Minha organização"
 id: xzd2JVKP6jcTN0dGWwISB
 status: PUBLISHED
 createdAt: 2023-04-25T21:26:35.401Z
@@ -18,9 +18,7 @@ internalReference: 797003
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O botão "Voltar" não é renderizado em Minha organização em celulares, impedindo que o comprador acesse outras opções em Minha conta.

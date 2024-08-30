@@ -3,8 +3,8 @@ title: 'Configurar logística para Mercado Libre'
 id: 4551ZlEQI8qmiSWieigoKy
 status: PUBLISHED
 createdAt: 2018-08-13T12:53:57.008Z
-updatedAt: 2023-03-28T13:36:16.191Z
-publishedAt: 2023-03-28T13:36:16.191Z
+updatedAt: 2024-07-23T22:07:18.063Z
+publishedAt: 2024-07-23T22:07:18.063Z
 firstPublishedAt: 2018-08-13T14:27:58.483Z
 contentType: trackArticle
 productTeam: Channels
@@ -23,7 +23,9 @@ Las modalidades de envío son dos:
 - [Mercado Envíos 1 (ME1)](#mercado-envios-1-me1)
 - [Mercado Envíos (ME2)](#mercado-envios-2-me2)
 
-## Mercado Envios 1 (ME1)
+>⚠️ Debes tener un SLA configurado en VTEX independientemente de la modalidad de envío que utilizas en tu tienda. Si no se configura la modalidad, los pedidos realizados en Mercado Libre no se integrará a la plataforma VTEX.
+
+## Mercado Envíos 1 (ME1)
 
 La modalidad de envío ME1 está pensada para productos que pesen más de 30 kg o midan más de 200 cm en total, sumando altura, anchura y longitud, o cuando uno de los lados del producto supere los 70 cm.
 
@@ -67,11 +69,9 @@ Algunos tipos de logística tienen la obligación de enviar una factura o config
 - [Flex](#flex)
 - [Mercado Envíos Full](#mercado-envios-full)
 
-### Drop Off
+>ℹ️ Para segmentar qué tipo de envío utiliza la tienda, es necesario crear un [<i>atributo de producto</i>](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) con el nombre `meli_shipping_mode`, donde estará completado si es ME1 o ME2.
 
-<div class="alert alert-info">
-La modalidad Drop Off es la única que no ofrece la posibilidad de que el cliente recoja el pedido en los puntos de recogida.
-</div>
+### Drop Off
 
 Siempre que usted se inicia como vendedor en Mercado Libre, comienza con el *Drop Off*, este tipo de logística es utilizado por todos los clientes que están comenzando a vender en Mercado Libre.
 
@@ -105,13 +105,17 @@ En el tipo *[Flex](https://envios.mercadolibre.com.ar/mercado-envios-flex)*, el 
 
 Todos los ajustes se realizan dentro de la plataforma de Mercado Libre.
 
-<div class="alert alert-info">Esta modalidad solo está disponible para los pedidos realizados en la misma ciudad que el seller.</div>
+>ℹ️ Esta modalidad solo está disponible para los pedidos realizados en la misma ciudad que el seller.
 
 ### Mercado Envios Full
 
 [Mercado Envíos Full](https://envios.mercadolibre.com.ar/mercado-envios-full) es un servicio ofrecido por Mercado Libre en el que el almacenaje y el envío de los productos al consumidor final está bajo la responsabilidad del Mercado Libre. Cada vez que se completa una venta, los productos comprados se separan, embalan y envían en un plazo de 24 horas.
 
 Puede integrar este servicio a su tienda a través del [registro de un stock](https://help.vtex.com/es/tutorial/gerenciar-estoque) destinado exclusivamente para Mercado Envíos Full. Esa integración permite hacer seguimiento al nivel del stock, ya que la cantidad de productos se actualiza automáticamente a medida que se realizan las ventas mediante Mercado Libre Full.
+
+>❗ Si el vendedor elige el modelo logístico **Mercado Envíos Full**, es necesario seguir el siguiente orden de configuración: [Configurar modelo de envío](#configurando-el-modelo-de-envio) 
+>
+> [Configurar Mercado Envíos Full](#configurar-mercado-envios-full)</br>
 
 #### Configurando Mercado Envíos Full
 
@@ -120,12 +124,19 @@ Para configurar, realice los siguientes pasos:
 1. En el Admin VTEX, accede a **Envío > Estrategia de Envío > Almacenes**, o escribe *Estrategia de Envío* en la barra de búsqueda en la parte superior de la página, y haz clic en *Almacenes*.  
 2. [Registra](https://help.vtex.com/es/tutorial/gerenciar-estoque) un stock.   
 3. Seleccione la pestaña **Almacenes** y copie el ID del stock que desea utilizar.  
-4. Accede a **Marketplace > Conexiones > Integraciones**, o escribe *Integraciones* en la barra de búsqueda en la parte superior de la página.  
-5. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />  y seleccione la opción `Editar configuración`.  
+4. Accede en **Marketplace > Marketplace e Integraciones.**
+3. Haz clic en la integracion con Mercado Libre y seleccione la opción `Editar configuración`.  
 6. Ingrese el ID del stock seleccionado en el campo **Almacén Mercado Full**.  
 7. Para finalizar, haga clic en `Guardar Configuración`.  
 
-#### Cómo consultar las facturas de Mercado Libre mediante API
+## Configurando el modelo de envío
+Después de definir qué modelo de envío se utilizará para la integración de tu tienda con Mercado Libre, es necesario configurar en la integración si se utilizará el ME1 o el ME2. Para esto, debes seguir los siguientes pasos, **crear un campo personalizable de producto** y **llenarlo**.  
+
+Para crear un campo de producto, sigue las instrucciones del tutorial [Registrar especificaciones o campos de producto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
+
+>⚠️ El nombre del campo creado debe ser "meli_shipping_mode" y el valor del campo debe ser completado como "me1" o "me2". Si el nombre del campo o el valor es diferente, la integración no reconocerá el atributo.
+
+## Cómo consultar las facturas de Mercado Libre mediante API
 
 Las facturas de los pedidos de [Mercado Envíos Full](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-full) emitidas por Mercado Libre pueden consultarse mediante nuestras llamadas de API. Para consultar la factura emitida por Mercado Libre para el pedido, debes utilizar la llamada de API [Get Order](https://developers.vtex.com/vtex-rest-api/reference/orders#getorder). 
 

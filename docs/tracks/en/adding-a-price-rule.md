@@ -3,8 +3,8 @@ title: 'Adding a price rule'
 id: 7fyZaYe1IGzL0qVC28tOBO
 status: PUBLISHED
 createdAt: 2019-07-04T13:53:15.461Z
-updatedAt: 2023-03-29T18:50:59.023Z
-publishedAt: 2023-03-29T18:50:59.023Z
+updatedAt: 2023-08-21T17:10:07.115Z
+publishedAt: 2023-08-21T17:10:07.115Z
 firstPublishedAt: 2019-07-17T19:42:10.960Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -23,7 +23,7 @@ Follow the steps below to add a price rule to your store:
 
 ## Admin
 
-1. In the VTEX Admin, go to *Prices > Price rules*, or type *Price rules* in the search bar at the top of the page.
+1. In the VTEX Admin, go to **Prices > Price rules**, or type **Price rules** in the search bar at the top of the page.
 2. Click on the green **New Rule** button.
 3. In the first step, **What is the general data of this rule?**, select a trade policy from the *dropdown menu*.
 4. In the second step, **What items will this rule apply to?**, choose whether the rule will apply to *all products* or *only to chosen categories and brands*. If you select the second option, you should also choose the **Categories** and/or desired **Brands**.
@@ -35,9 +35,7 @@ Follow the steps below to add a price rule to your store:
 
 ## API REST
 
-<div class="alert alert-warning">
-Authentications for Prices module's API REST calls should be done using AppKey and AppToken. For more info, read our article on <a href="https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication">how to generate an AppKey and AppToken to authenticate integrations</a>
-</div>
+>⚠️ Authentications for Prices module's API REST calls should be done using AppKey and AppToken. For more info, read our article on [how to generate an AppKey and AppToken to authenticate integrations](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication)
 
 To add a **price rule**, you need to send a __POST__ to the following endpoint:
 

@@ -3,8 +3,8 @@ title: 'Não é possível fazer upload de novas mídias/documentos em um espaço
 id: zhDX1xoXAifH9tYroXCFn
 status: PUBLISHED
 createdAt: 2023-04-24T20:01:04.211Z
-updatedAt: 2023-05-08T18:00:19.246Z
-publishedAt: 2023-05-08T18:00:19.246Z
+updatedAt: 2024-06-28T16:07:27.058Z
+publishedAt: 2024-06-28T16:07:27.058Z
 firstPublishedAt: 2023-04-24T20:01:04.779Z
 contentType: knownIssue
 productTeam: CMS
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: nao-e-possivel-fazer-upload-de-novas-midiasdocumentos-em-um-espaco-de-trabalho-de-desenvolvimento-quando-a-entidade-tem-mais-de-10-mil-documentos
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 795940
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

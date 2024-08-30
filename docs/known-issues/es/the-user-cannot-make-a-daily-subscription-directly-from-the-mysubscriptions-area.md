@@ -3,8 +3,8 @@ title: 'El usuario no puede realizar una suscripción diaria directamente desde 
 id: QJrZvOmlRusACgS2iGRyT
 status: PUBLISHED
 createdAt: 2022-05-18T18:37:18.099Z
-updatedAt: 2022-11-25T22:02:05.580Z
-publishedAt: 2022-11-25T22:02:05.580Z
+updatedAt: 2024-02-16T20:27:15.017Z
+publishedAt: 2024-02-16T20:27:15.017Z
 firstPublishedAt: 2022-05-18T18:37:18.579Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-usuario-no-puede-realizar-una-suscripcion-diaria-directamente-desde-el-area-de-mis-suscripciones
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 430650
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El usuario que ha iniciado la sesión no puede realizar una suscripción diaria directamente desde la pestaña Suscripción de Mi Cuenta. El botón parece no responder y no aparece ningún mensaje de error. Parece que otras frecuencias, como las suscripciones mensuales o anuales, funcionan normalmente.

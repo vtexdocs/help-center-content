@@ -1,10 +1,10 @@
 ---
-title: 'The "Save new card" option does not work for asynchronous Payment Providers'
+title: "The 'Save new card' option does not work for asynchronous Payment Providers"
 id: 3B4gVSNrSeCc8EBXwk5sAu
 status: PUBLISHED
 createdAt: 2022-03-11T17:54:35.664Z
-updatedAt: 2022-11-25T22:06:23.711Z
-publishedAt: 2022-11-25T22:06:23.711Z
+updatedAt: 2024-04-29T17:58:58.889Z
+publishedAt: 2024-04-29T17:58:58.889Z
 firstPublishedAt: 2022-03-11T17:54:36.273Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: the-save-new-card-option-does-not-work-for-asynchronous-payment-providers
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 308892
 ---
 
@@ -24,6 +24,7 @@ When the customer tries to add a new card in the My account section of stores wh
 This error occurs because My Cards wait for a synchronous answer from credit card acquirers and most of them doesn't return an immediate response.
 
 
+##
 
 ## Simulation
 
@@ -41,6 +42,7 @@ This error occurs because My Cards wait for a synchronous answer from credit car
 10. This process will return an error and the customer will be charged the amount R$ 1,50, which may or may not be automatically returned later.
 
 
+##
 
 ## Workaround
 

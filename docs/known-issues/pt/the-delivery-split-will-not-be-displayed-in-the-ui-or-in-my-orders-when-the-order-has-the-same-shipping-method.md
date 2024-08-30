@@ -1,5 +1,5 @@
 ---
-title: 'O Split de Entrega não será exibido na IU ou em Meus Pedidos, quando o pedido tiver o mesmo "Método de Envio".'
+title: "O Split de Entrega não será exibido na IU ou em Meus Pedidos, quando o pedido tiver o mesmo 'Método de Envio'."
 id: 2VnPyguau8KjpWx09C2vOW
 status: PUBLISHED
 createdAt: 2022-03-15T20:24:32.693Z
@@ -18,9 +18,7 @@ internalReference: 495352
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A sugestão do pacote dividido não está funcionando corretamente, quando você termina a compra a IU sugere os pacotes divididos em casos de docas diferentes ou tamanhos diferentes e estratégias de embarque diferentes.

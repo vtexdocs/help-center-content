@@ -1,5 +1,5 @@
 ---
-title: "Automatic field doesn't calculate the field correctly when set to "Calculate during the first hour of the day""
+title: "Automatic field doesn't calculate the field correctly when set to 'Calculate during the first hour of the day'"
 id: 6DieNCI6paEUeg06cKsCYI
 status: PUBLISHED
 createdAt: 2018-12-17T18:37:45.246Z

@@ -18,9 +18,7 @@ internalReference: 336533
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al descargar la aplicación de Crédito Cliente e insertar el nombre de la cuenta en el campo de la derecha, se devuelve el mensaje: _no se ha podido encontrar la tienda indicada_. este es un problema intermitente un No se ha podido identificar el escenario específico que hace que aparezca este error.

@@ -1,5 +1,5 @@
 ---
-title: '"Maximum Price per Item" implementation has changed'
+title: "'Maximum Price per Item' implementation has changed"
 id: 2snrUcdlt2C8QIq2yqaUww
 status: DRAFT
 createdAt: 2017-10-30T19:12:11.257Z
@@ -21,9 +21,9 @@ Actually, we are making this change precisely because, with the development of t
 
 By eliminating the Maximum Price per Item promotion, we are improving the performance of the promotions module as well as the store management.
 
-<div class="alert alert-warning">Until November 20, the Maximum Price per Item promotion continues to exist. However, the maximum number of items allowed becomes <b>100</b>. Previously the maximum allowed was 500.</div>
+>⚠️ Until November 20, the Maximum Price per Item promotion continues to exist. However, the maximum number of items allowed becomes **100**. Previously the maximum allowed was 500.
 
-<div class="alert alert-danger">If you use any Maximum Price per Item promotion, read this announcement through the end and adapt the method in your store. Otherwise, the SKUs concerned will no longer be impacted by this business strategy.</div>
+>❗ If you use any Maximum Price per Item promotion, read this announcement through the end and adapt the method in your store. Otherwise, the SKUs concerned will no longer be impacted by this business strategy.
 
 ## Alternatives
 
@@ -33,7 +33,7 @@ There are two possible ways to achieve the same effect of the Maximum Price per 
 
 You can set up a [Regular Promotion](/en/tutorial/regular-promotion) with the __Maximum Price per Item__ discount.
 
-![PrecoMaximoEN](//images.contentful.com/alneenqid6w5/ZqS2JBJtEkgusUu4qOsEE/ab84f34757924220efe4d44250d499a5/PrecoMaximoEN.png)
+![PrecoMaximoEN](https://images.contentful.com/alneenqid6w5/ZqS2JBJtEkgusUu4qOsEE/ab84f34757924220efe4d44250d499a5/PrecoMaximoEN.png)
 
 This is a better scenario than the previous one, since retailers have more options for grouping, for example, by product category.
 

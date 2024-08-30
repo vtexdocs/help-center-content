@@ -3,8 +3,8 @@ title: 'Os preços dos serviços não são atualizados quando adicionados aos it
 id: 5hJ7TbHzX4zFbdNWqPnMRQ
 status: PUBLISHED
 createdAt: 2023-05-09T14:27:37.283Z
-updatedAt: 2023-05-09T14:27:37.766Z
-publishedAt: 2023-05-09T14:27:37.766Z
+updatedAt: 2023-06-23T18:37:32.624Z
+publishedAt: 2023-06-23T18:37:32.624Z
 firstPublishedAt: 2023-05-09T14:27:37.766Z
 contentType: knownIssue
 productTeam: Checkout
@@ -18,9 +18,7 @@ internalReference: 822107
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os preços dos serviços não são atualizados se tiverem sido adicionados a um item antes da alteração do preço do serviço no administrador. Isso fará com que o pedido seja criado com um preço desatualizado.

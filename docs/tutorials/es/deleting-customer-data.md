@@ -33,17 +33,13 @@ Si tu tienda almacena la información de los clientes en otras entidades de dato
 
 2. Utiliza el request [Delete document](https://developers.vtex.com/vtex-rest-api/reference/deletedocument-1)
 
-<div class="alert alert-danger">
-No realices este proceso para las entidades <b>CL</b> y <b>AD</b>. 
-</div>
+>❗ No realices este proceso para las entidades **CL** y **AD**.
 
 ## Pedir eliminación vía soporte
 
 Deberás solicitar la extensión de la eliminación de los datos personales de tus clientes en los sistemas de VTEX mediante la apertura de un ticket en nuestro [Soporte VTEX](https://help.vtex.com/es/support).
 
-<div class="alert alert-warning">
-Solicita la eliminación de los datos de una sola cuenta, es decir, se podrá eliminar el email de un solo comprador por ticket. Si incluyes más de un email, el ticket se rechazará. 
-</div>
+>⚠️ Solicita la eliminación de los datos de una sola cuenta, es decir, se podrá eliminar el email de un solo comprador por ticket. Si incluyes más de un email, el ticket se rechazará.
 
 Para solicitar la eliminación de los datos personales de clientes, sigue los pasos a continuación:
 

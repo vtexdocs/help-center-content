@@ -20,9 +20,7 @@ Entre outros cenários, um dos pontos mais importantes em um evento massivo como
 ## Agendar hora por API
 Uma das opções para agendar preços por hora é fazer isso por API de preços:
 
-<div class="alert alert-info">
-<a href="https://developers.vtex.com/reference/pricing-api-overview">Ver documentação de APIs</a>
-</div>
+>ℹ️ [Ver documentação de APIs](https://developers.vtex.com/reference/pricing-api-overview)
 
 O backend da VTEX utiliza o horário UTC, o que, por exemplo, na Argentina é GTM-3. Se você quiser agendar um preço x hora por meio de API e quiser que os preços comecem às 00h00 e terminem às 10h00, deve enviar 03h00 a mais das que efetivamente deseja configurar. Ou seja, se a validade do preço comece à 00h00, deve-se enviar 03h00, e se quiser que termine às 10h00, deve-se enviar 13h00:
 

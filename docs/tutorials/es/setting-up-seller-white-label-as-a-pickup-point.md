@@ -1,10 +1,10 @@
 ---
 title: 'Configurar Seller White Label como punto de recogida (Pickup Point)'
 id: 6fSUE2O0taaoKieAaiuc4e
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-09-04T14:22:05.290Z
-updatedAt: 2023-03-29T18:58:34.411Z
-publishedAt: 2023-03-29T18:58:34.411Z
+updatedAt: 2023-07-26T21:33:59.946Z
+publishedAt: 
 firstPublishedAt: 2018-09-05T20:38:04.270Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -23,11 +23,10 @@ Como se explica en el artículo [Definiciones de Cuenta Franquicia y Seller Whit
 
 De esta manera, el punto de recogida configurado en la Cuenta Franquicia __servirá para atender las entregas de los pedidos realizados en la Cuenta Principal__. En este escenario, la Cuenta Franquicia actúa como __Seller White Label__ de la cuenta principal.
 
-<div class="alert alert-danger">
-Las configuraciones se deben realizar en la cuenta del seller White Label. Los ítems estarán disponibles para la recogida en el checkout del cliente final  solamente si el SKU está disponible en el stock de la cuenta principal y de la cuenta del seller White Label.
-</div>
+>❗ Las configuraciones se deben realizar en la cuenta del seller White Label. Los ítems estarán disponibles para la recogida en el checkout del cliente final  solamente si el SKU está disponible en el stock de la cuenta principal y de la cuenta del seller White Label.
 
 ## Configuración inicial
+
 Para configurar Seller White Label como punto de recogida, es necesario crear en el Admin VTEX:
 
 - [Pickup point](https://help.vtex.com/es/tutorial/creating-pickup-points--2R5ClQiwe4KoSQgsuiOw4E): con la dirección del seller white label.    
@@ -46,6 +45,8 @@ Para saber en detalle cómo llenar los campos de la plantilla, ingrese a nuestro
 ## Validar configuración
 
 Si la configuración del punto de recogida se ha efectuado correctamente en la Cuenta Franquicia, los SKUs con __stock disponible y precio__ podrán venderse en la Cuenta Principal, donde la Cuenta Franquicia actuará como un __Seller White Label__ y la Cuenta Principal funcionará como un __Marketplace__.
+
+>⚠️ Asegúrese de que el seller white label esté activo. Acceda a el Admin VTEX, en **Marketplace > Sellers > Gestión de sellers**, y en la línea del seller y la columna <i>Status</i>, haga clic en `Activo`.
 
 ### Seller White Label/Cuenta Franquicia
 

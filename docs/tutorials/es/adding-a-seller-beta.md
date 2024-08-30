@@ -19,9 +19,7 @@ subcategory: 2xWRgEIlR2ookieEmm4KQu
 
 Para agregar un seller no identificable, también conocido como [seller white label](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa), es necesario tener este modelo previsto en el contrato con VTEX. Una vez acordado un contrato con el representante de ventas de VTEX responsable de tu _marketplace_, solicita la [adición de una cuenta franquicia](https://help.vtex.com/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) por medio de nuestro Soporte. Todas las cuentas franquicias se crean como un _seller white label_, y no es posible cambiar el tipo de _seller_ después de su creación. 
 
-<div class="alert alert-info">
-Si quieres encontrar nuevos partners para vender en tu marketplace, utiliza Marketplace Network que facilita la identificación y contacto entre marketplaces y sellers que operan en el ecosistema VTEX, además de conectores certificados (partners).
-</div> 
+>ℹ️ Si quieres encontrar nuevos partners para vender en tu marketplace, utiliza Marketplace Network que facilita la identificación y contacto entre marketplaces y sellers que operan en el ecosistema VTEX, además de conectores certificados (partners). 
 
 1. En tu Admin VTEX, accede a _MARKETPLACE > Sellers > Gestión_.  
 2. Haz clic en `Agregar seller`.  
@@ -65,9 +63,7 @@ Si quieres encontrar nuevos partners para vender en tu marketplace, utiliza Mark
 - **Cambios y devoluciones:** descripción de la política de cambios y devoluciones previamente acordada entre el _marketplace_ y el _seller_.
 - **Política de privacidad y seguridad:** descripción de la política de seguridad previamente acordada entre el _marketplace_ y el _seller_.
 
-<div class="alert alert-info">
-Con la nueva versión de la página, lanzada el 2022, eliminamos el campo Endpoint del Catálogo porque ya no es necesario para la integración con un nuevo seller. Si es necesario, aún es posible gestionar el campo a través de la API.
-</div>
+>ℹ️ Con la nueva versión de la página, lanzada el 2022, eliminamos el campo Endpoint del Catálogo porque ya no es necesario para la integración con un nuevo seller. Si es necesario, aún es posible gestionar el campo a través de la API.
 
 Después de rellenar los campos y hacer clic en **Guardar**, el _seller_ será agregado al _marketplace_. Para completar la configuración de tu tienda como _marketplace_ también debes [mapear las marcas, categorías y especificaciones del seller](https://help.vtex.com/es/tutorial/mapeando-categorias-e-marcas-para-marketplace/) y [aprobar los anuncios recibidos](https://help.vtex.com/es/tutorial/sugerindo-e-aprovando-skus/).
 

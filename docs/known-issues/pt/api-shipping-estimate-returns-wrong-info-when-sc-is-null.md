@@ -3,8 +3,8 @@ title: 'API Shipping Estimate devolve informações erradas quando SC é nulo'
 id: 6bxlw1nQ27JGbiOmNbgyn2
 status: PUBLISHED
 createdAt: 2022-04-01T23:33:47.015Z
-updatedAt: 2022-11-25T21:59:23.170Z
-publishedAt: 2022-11-25T21:59:23.170Z
+updatedAt: 2024-07-01T18:48:14.728Z
+publishedAt: 2024-07-01T18:48:14.728Z
 firstPublishedAt: 2022-05-18T18:27:53.441Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: api-shipping-estimate-devolve-informacoes-erradas-quando-sc-e-nulo
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 554948
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

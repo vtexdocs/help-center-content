@@ -15,9 +15,7 @@ legacySlug: mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class="alert alert-info">
-Se você enviará seus produtos para o Mercado Livre pela primeira vez, recomendamos usar a <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA">nova interface de Mapeamento de Categorias.</a>
-</div>
+>ℹ️ Se você enviará seus produtos para o Mercado Livre pela primeira vez, recomendamos usar a [nova interface de Mapeamento de Categorias.](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA)
 
 Depois de fazer as [configurações iniciais para a integração com o Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw), é preciso categorizar e enviar as variações e atributos dos produtos e enviá-las para o marketplace. O envio dessas informações é feito por meio do upload da planilha de mapeamento, que faz a equivalência entre as categorias, variações e atributos da sua loja e os padrões adotados pelo Mercado Livre.
 
@@ -176,7 +174,7 @@ Ao concluir as etapas de preenchimento da planilha de mapeamento, você deve seg
 1. Acesse o Admin.
 2. No módulo Marketplace, clique em Integrações.
 3. Selecione a opção Configurações.
-4. Na integração Mercado Livre, clique na engrenagem<img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+4. Na integração Mercado Livre, clique na engrenagem<img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 5. Escolha a opção **Upload do mapeamento**.
 6. Selecione a opção **Escolher um arquivo**.
 7. Agora, selecione a planilha de mapeamento de categorias, atributos e variações do Mercado Livre.
@@ -184,6 +182,4 @@ Ao concluir as etapas de preenchimento da planilha de mapeamento, você deve seg
 
 Com o upload concluído, a integração envia automaticamente todos os produtos das categorias usadas na planilha para o Mercado Livre.
 
-<div class="alert alert-warning">
-Caso, após subir uma planilha, você tente fazer upload de outra, saiba que a planilha nova irá substituir a antiga. Por isso, recomendamos fazer upload da nova planilha, contendo os dados antigos e os novos.
-</div>
+>⚠️ Caso, após subir uma planilha, você tente fazer upload de outra, saiba que a planilha nova irá substituir a antiga. Por isso, recomendamos fazer upload da nova planilha, contendo os dados antigos e os novos.

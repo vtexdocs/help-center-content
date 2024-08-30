@@ -18,9 +18,7 @@ internalReference: 525127
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 Quando você muda o pedido de produtos ou campos de SKUs em uma categoria diferente da principal, após clicar no botão de ordenação as mudanças não são salvas e os campos alterados não aparecem após a página ser recarregada.
 

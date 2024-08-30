@@ -25,7 +25,7 @@ Note que, apesar de estar em um iframe, ainda é possível aplicar CSS normalmen
 
 Em exemplo prático, para ocultar a opção "Pagar usando dois cartões", deve ser usado apenas `.ChangeNumberOfPayments {display: none}`.
 
-![2017-06-22 162341](//images.contentful.com/alneenqid6w5/5Un86ot46Qg0kwKoUkSioG/fb3cc25e273d68ab27a3ccd2b254eea6/2017-06-22_162341.jpg)
+![2017-06-22 162341](https://images.contentful.com/alneenqid6w5/5Un86ot46Qg0kwKoUkSioG/fb3cc25e273d68ab27a3ccd2b254eea6/2017-06-22_162341.jpg)
 
 ### Nova opção de cálculo de frete por geocoordenada
 
@@ -55,9 +55,7 @@ Você pode usar os arquivos `checkout5-custom.js` e `orderplaced2-custom.js` p
 4. No menu __Arquivos__, localizado no lado direito da página, clique naqueles em que desejar realizar ajustes no código.
 5. Clique no botão `Salvar`.
 
-<div class="alert alert-warning">
-  Customizar arquivos de Javascript pode danificar seu Checkout. A VTEX <b>não recomenda</b> customizações e não se responsabiliza por qualquer dano causado por esse código.
-</div>
+>⚠️ Customizar arquivos de Javascript pode danificar seu Checkout. A VTEX **não recomenda** customizações e não se responsabiliza por qualquer dano causado por esse código.
 
 __IMPORTANTE:__ não use esses arquivos para inserir tags de marketing e integrações. Se precisar delas, faça isso pelo Google Tag Manager.
 

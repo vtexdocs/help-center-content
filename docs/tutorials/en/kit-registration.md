@@ -3,8 +3,8 @@ title: 'Kit registration'
 id: tutorials_215
 status: PUBLISHED
 createdAt: 2017-04-27T22:13:50.843Z
-updatedAt: 2023-03-29T14:48:43.077Z
-publishedAt: 2023-03-29T14:48:43.077Z
+updatedAt: 2024-05-06T14:40:12.311Z
+publishedAt: 2024-05-06T14:40:12.311Z
 firstPublishedAt: 2017-04-27T23:02:48.663Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -62,11 +62,7 @@ The weight of the kit will be made up by the sum of the weight of its components
 
 ## Inventory
 
-The kit’s inventory will always be the inventory of its components. In other words, it is not possible to enter inventory merely in the kit, but rather in each and every independent component, in order to update the kit’s inventory. 
-
-This information can be easily previewed in __Inventory &amp; shipping &gt; Inventory__:
-
-![05-manage inventory by kit EN](https://images.ctfassets.net/alneenqid6w5/TIr2YphaMMW2WO8wKma8W/9c561bfa69de4943eea8efe9480a369b/05-manage_inventory_by_kit_EN.gif)
+The kit’s [inventory](https://help.vtex.com/en/tutorial/inventory-management--tutorials_139) will always be the inventory of its components. In other words, it is not possible to enter inventory merely in the kit, but rather in each and every independent component, in order to update the kit’s inventory. You can access this information in your VTEX Admin in **Catalog > Inventory > Inventory Management**.
 
 Since the SKUs that make up the kit must be sold together, the kit overall inventory will be equal to the SKU which has less inventory items. This is as such due to the fact that when a component is out of stock, the kit cannot be purchased.
 
@@ -74,9 +70,7 @@ Example: A kit has two components. Consider Component 1 has 30 units in stock, w
 
 Kit components can be in different stocks, as long as they are shipped from the same dock. If they do not leave through the same dock, the entire kit becomes unavailable. 
 
-<div class="alert alert-info">
-<p>This is not applicable to the look kit, since it may be sold with the components that are still in stock, without the need for all the components to be in stock.</p>
-</div>
+>ℹ️ This is not applicable to the look kit, since it may be sold with the components that are still in stock, without the need for all the components to be in stock.
 
 ## Price
 

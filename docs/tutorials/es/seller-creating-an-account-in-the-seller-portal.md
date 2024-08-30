@@ -35,9 +35,7 @@ El proceso de creación de una cuenta en el Seller Portal comienza con una [invi
 - [Crear una cuenta para_ sellers_ VTEX](#conectar-la-cuenta-vtex-con-el-marketplace): tienda hospedada en la plataforma VTEX.  
 - [Crear una cuenta para _sellers_ externos](#crear-una-cuenta-para-sellers-externos): tienda hospedada en otra plataforma de ecommerce o que aún no está hospedada en ninguna plataforma.  
 
-<div class="alert alert-info">
-El enlace para crear la cuenta enviado al seller es válido durante 7 días. Después de hacer clic en el enlace, el seller tiene seis horas para completar el formulario de registro. Si no es posible completar el registro dentro de este periodo, debes pedir al marketplace que envíe la invitación de nuevo.
-</div>
+>ℹ️ El enlace para crear la cuenta enviado al seller es válido durante 7 días. Después de hacer clic en el enlace, el seller tiene seis horas para completar el formulario de registro. Si no es posible completar el registro dentro de este periodo, debes pedir al marketplace que envíe la invitación de nuevo.
 
 ### Conectar la cuenta VTEX con el _marketplace_
 

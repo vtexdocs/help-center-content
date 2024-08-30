@@ -1,5 +1,5 @@
 ---
-title: '"Quantas vezes seu benefício será aplicado em sua loja" Salvando Incorretamente na Interface do Formulário de Promoção'
+title: "'Quantas vezes seu benefício será aplicado em sua loja' Salvando Incorretamente na Interface do Formulário de Promoção"
 id: 6vT0rYIry3cGx1nG5BPkmx
 status: PUBLISHED
 createdAt: 2022-06-28T19:23:30.074Z
@@ -18,9 +18,7 @@ internalReference: 268304
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

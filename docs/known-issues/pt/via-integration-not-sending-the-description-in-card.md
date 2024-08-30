@@ -3,8 +3,8 @@ title: 'A Via Integration não está enviando a descrição no cartão'
 id: Da5jnqoSO8an64jy29VhM
 status: PUBLISHED
 createdAt: 2023-05-16T16:47:19.803Z
-updatedAt: 2023-05-18T18:03:54.502Z
-publishedAt: 2023-05-18T18:03:54.502Z
+updatedAt: 2023-06-19T12:30:03.552Z
+publishedAt: 2023-06-19T12:30:03.552Z
 firstPublishedAt: 2023-05-16T16:47:20.416Z
 contentType: knownIssue
 productTeam: Connections
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: a-via-integration-nao-esta-enviando-a-descricao-no-cartao
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 826488
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

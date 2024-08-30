@@ -3,8 +3,8 @@ title: 'Configure Cartman'
 id: 1ACMTStZYkMqB0lTgwg451
 status: PUBLISHED
 createdAt: 2019-09-03T15:02:48.303Z
-updatedAt: 2022-06-15T23:16:07.805Z
-publishedAt: 2022-06-15T23:16:07.805Z
+updatedAt: 2024-03-13T18:18:17.017Z
+publishedAt: 2024-03-13T18:18:17.017Z
 firstPublishedAt: 2019-09-09T18:28:20.208Z
 contentType: tutorial
 productTeam: Shopping
@@ -25,17 +25,16 @@ For official store domains (`www.{yourstore}.com`), you need to [manually activa
 
 This article will cover the following topics:
 
-- [Manually activate Cartman](configure-cartman#activate-cartman-manually)
-- [Cartman features](configure-cartman#cartman-features)
-  - [Get information about items in cart](configure-cartman#get-information-about-items-in-cart)
-  - [Add specific items to cart](configure-cartman#add-specific-items-to-cart)
-  - [Add random items to cart](configure-cartman#add-random-items-to-cart)
-  - [Define marketing data](configure-cartman#define-marketing-data)
-- [Disable Cartman](configure-cartman#disable-cartman) 
+- [Manually activate Cartman](#activate-cartman-manually)
+- [Cartman features](#cartman-features)
+  - [Promotion Simulator](#promotion-simulator) 
+  - [Get information about items in cart](#get-information-about-items-in-cart)
+  - [Add specific items to cart](#add-specific-items-to-cart)
+  - [Add random items to cart](#add-random-items-to-cart)
+  - [Define marketing data](#define-marketing-data)
+- [Disable Cartman](#disable-cartman) 
 
-<div class="alert alert-warning">
-  Only the merchant has access to <b>Cartman</b>. Its features are not available for use by users in a store.
-</div>
+>⚠️ Only the merchant has access to **Cartman**. Its features are not available for use by users in a store.
 
 ## Activate Cartman manually
 
@@ -43,9 +42,15 @@ To activate Cartman manually, follow the steps below:
 
 1. Access any of your store's Checkout pages (`https://{accountname}.myvtex.com/checkout/`).
 2. Insira a query string `?cartman=on` no final da URL  (`https://accountname.myvtex.com/checkout?cartman=on`).
-3. In the lower right corner of the screen, click the button <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> to access Cartman.
+3. In the lower right corner of the screen, click the button <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> to access Cartman.
 
 ## Cartman features
+
+### Promotion Simulator
+
+Under **Promotion Simulator**, you can view any promotions created in your store that were applied to the cart, as well as what triggered those promotions. You can also test applying promotions before activating them, including scheduled and inactive promotions.
+
+To learn more about this tool, check the [Promotion Simulator](https://help.vtex.com/en/tutorial/promotion-simulator-beta--4zc8SNqjqeIJ0ZRMhjlnvy) guide.
 
 ### Get information about items in cart
 
@@ -96,10 +101,8 @@ To learn more about UTMs and UTMIs, go to [What are utm_source, utm_campaign, an
 Cartman can be deactivated at any time as required by the merchant. To disable it, follow the steps below:
 
 1. Access any of your store's Checkout pages (`https://{accountname}.myvtex.com/checkout/`).
-2. In the lower right corner of the screen, click the button  <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
+2. In the lower right corner of the screen, click the button  <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
 3. At the bottom of Cartman's menu, click  `Disable Cartman`.
 
-<div class="alert alert-info">
-  If you want to reactivate <b>Cartman</b>, re-add the query string <code>?cartman=on</code> in one of your store's Checkout pages. In this way, the blue icon will be available again in the lower right corner of the page.
-</div>
+>ℹ️ If you want to reactivate **Cartman**, re-add the query string `?cartman=on` in one of your store's Checkout pages. In this way, the blue icon will be available again in the lower right corner of the page.
 

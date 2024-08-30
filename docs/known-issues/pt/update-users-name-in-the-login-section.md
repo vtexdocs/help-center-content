@@ -3,8 +3,8 @@ title: 'Atualizar o nome do usuário na seção de login'
 id: 2jshd2ApTq7hKNLbQiCWdS
 status: PUBLISHED
 createdAt: 2022-03-14T17:20:40.732Z
-updatedAt: 2022-11-25T21:57:07.628Z
-publishedAt: 2022-11-25T21:57:07.628Z
+updatedAt: 2024-02-16T20:26:07.889Z
+publishedAt: 2024-02-16T20:26:07.889Z
 firstPublishedAt: 2022-03-14T17:20:42.505Z
 contentType: knownIssue
 productTeam: Identity
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: atualizar-o-nome-do-usuario-na-secao-de-login
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 542029
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualizar o nome do usuário na seção de login

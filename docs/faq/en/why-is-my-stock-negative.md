@@ -3,8 +3,8 @@ title: 'Why is my inventory negative?'
 id: frequentlyAskedQuestions_159
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:51.880Z
-updatedAt: 2023-03-22T20:34:48.834Z
-publishedAt: 2023-03-22T20:34:48.834Z
+updatedAt: 2024-04-18T14:18:13.634Z
+publishedAt: 2024-04-18T14:18:13.634Z
 firstPublishedAt: 2017-04-27T23:01:42.612Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
@@ -36,6 +36,4 @@ To adjust it, the item stock must be updated with the quantity of physical items
 4. In the __Update Count__ column, fill in the value indicated in the description above.
 5. Click __Save__.
 
-<div class="alert alert-warning">
-When two or more warehouses use the same <a href="https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV">trade policy</a>, and there is a negative number of items in stock for a given SKU in one of these warehouses, the SKU becomes unavailable for sale, even though the  <a href="https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139">inventory</a> quantity is positive in another warehouse.
-</div>
+>⚠️ When two or more warehouses use the same [trade policy](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV), and there is a negative number of items in stock for a given SKU in one of these warehouses, the SKU becomes unavailable for sale, even though the  [inventory](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139) quantity is positive in another warehouse.

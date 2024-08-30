@@ -3,8 +3,8 @@ title: 'Alerta para preencher a seleção de entrega programada aparece apenas u
 id: f668KUV24RqlpUvDvoIEm
 status: PUBLISHED
 createdAt: 2022-04-25T14:49:29.983Z
-updatedAt: 2022-11-25T21:51:08.681Z
-publishedAt: 2022-11-25T21:51:08.681Z
+updatedAt: 2024-02-16T20:26:02.010Z
+publishedAt: 2024-02-16T20:26:02.010Z
 firstPublishedAt: 2022-04-25T14:49:30.465Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: alerta-para-preencher-a-selecao-de-entrega-programada-aparece-apenas-uma-vez
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 565982
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

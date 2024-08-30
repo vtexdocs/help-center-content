@@ -19,18 +19,16 @@ A doca é parte do sistema logístico e geralmente funciona como ponto intermedi
 
 Na VTEX, a doca é um intermediador entre o armazenamento de itens e a entrega dos pedidos do seu negócio. É pela doca que ocorre a integração das partes necessárias para a logística da sua loja: [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb),  [Política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) e [Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140).
 
-![Doca PT](//images.contentful.com/alneenqid6w5/4SyPLXtyDFTNbilUXZMsiM/b26625a316028e55b1f15c0c7e3433ee/Doca_PT.svg)
+![Doca PT](https://images.contentful.com/alneenqid6w5/4SyPLXtyDFTNbilUXZMsiM/b26625a316028e55b1f15c0c7e3433ee/Doca_PT.svg)
 
-<div class = "alert alert-info">
-O Estoque é o espaço físico de armazenamento das mercadorias vendidas pela loja; a Política comercial é a configuração das estratégias de venda da loja; e a Política de envio é um conjunto de regras que definem as opções e condições de frete.
-A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:
-<body>
-<ol>
-<li><a href="https://help.vtex.com/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE">Política comercial</a>;</li>
-<li><a href="https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140">Política de envio</a>;</li>
-<li>Doca;</li>
-<li><a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Estoque</a>.</li>
-</div>
+>ℹ️ O Estoque é o espaço físico de armazenamento das mercadorias vendidas pela loja; a Política comercial é a configuração das estratégias de venda da loja; e a Política de envio é um conjunto de regras que definem as opções e condições de frete.
+> A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:
+> <body>
+> <ol>
+> <li>[Política comercial](https://help.vtex.com/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE);</li>
+> <li>[Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140);</li>
+> <li>Doca;</li>
+> <li>[Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).</li>
 
 ## Casos de uso
 

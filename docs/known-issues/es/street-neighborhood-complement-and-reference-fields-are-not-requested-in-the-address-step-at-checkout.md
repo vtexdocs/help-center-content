@@ -18,9 +18,7 @@ internalReference: 563507
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando la dirección se introduce a través de la API de código postal y estos datos se actualizan en el shippingData antes de llegar a la caja. Si nuestra API postal no devuelve todos los datos completos, por ejemplo, calle, barrio, etc. faltarán en shippingData. El problema es que cuando el cliente utiliza el componente de geolocalización en su checkout, no realiza la validación de estos campos que faltan, dejando que el usuario vaya al paso de pago sin rellenar los datos que no están completos.

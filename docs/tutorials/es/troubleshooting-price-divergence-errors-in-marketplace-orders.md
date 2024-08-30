@@ -23,9 +23,7 @@ Cuando el precio establecido por un seller es diferente del precio ofrecido por 
 
 Para activar el flujo de autorización de pedidos para conectores nativos, debe [configurar una regla de Divergencia de precios](https://help.vtex.com/es/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe). Solo los usuarios con el rol de acceso OMS Full o Admin Super (Owner) pueden hacer esto.
 
-<div class = "alert alert-info">
-Una vez que haya <a href="https://help.vtex.com/es/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe">configurado la regla de Divergencia de precios</a>, se aplicará a todos los mercados en los que sea seller.
-</div>
+>ℹ️ Una vez que haya [configurado la regla de Divergencia de precios](https://help.vtex.com/es/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe), se aplicará a todos los mercados en los que sea seller.
 
 Para los VTEX marketplaces, los marketplaces externos y los conectores certificados (partners), siempre que no se haya creado la regla de Divergencia de precios, los pedidos con error de divergencia de valores se aprueban automáticamente.
 

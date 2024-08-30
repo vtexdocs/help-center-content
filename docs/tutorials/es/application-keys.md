@@ -3,134 +3,158 @@ title: 'Claves de aplicación'
 id: 2iffYzlvvz4BDMr6WGUtet
 status: PUBLISHED
 createdAt: 2021-08-19T17:45:31.084Z
-updatedAt: 2022-11-25T18:39:48.683Z
-publishedAt: 2022-11-25T18:39:48.683Z
+updatedAt: 2023-10-17T20:17:39.441Z
+publishedAt: 2023-10-17T20:17:39.441Z
 firstPublishedAt: 2021-08-19T18:08:07.096Z
 contentType: tutorial
 productTeam: Identity
-author: 56yU9Wz6mLwmzo82TjgAHy
+author: 1malnhMX0vPThsaJaZMYm2
 slug: claves-de-aplicacion
 locale: es
 legacySlug: claves-de-aplicacion
 subcategory: 5GYFjiMQg0qIKpnnQY2qjh
 ---
 
-Cada integración por API utilizada para conectar su cuenta VTEX con sistemas externos requerirá la creación de una clave de aplicación (también conocida en inglés como _application key_ o _app key_). Estas credenciales de [autenticación](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication) se utilizan para dar acceso seguro a los datos que desea compartir con estas integraciones, sin exponer su cuenta a usuarios o aplicaciones no autorizados. 
+Cada integración por API utilizada para conectar tu cuenta VTEX con sistemas externos requerirá la creación de una clave de aplicación (_application key_ o _app key_).
 
-En la página de **Claves de aplicación** puede gestionar las claves de aplicación [internas](#claves-de-aplicacion-internas) y [externas](#claves-de-aplicacion-externas) que tienen acceso a su cuenta, incluyendo:
-
-- [Generar claves de aplicación en su cuenta](#generar-claves-de-aplicacion-en-su-cuenta)
-- [Gestionar los permisos de las claves de aplicación](#gestionar-los-permisos-de-las-claves-de-aplicacion)
-- [Activar o desactivar las claves de aplicación](#activar-o-desactivar-claves-de-aplicacion)
-- [Exportar claves de aplicación con acceso a su cuenta](#exportar-claves-de-aplicacion-con-acceso-a-su-cuenta)
-
-Para acceder a esta página, vaya a _Configuración de la cuenta > Gestión de la cuenta > Claves de aplicación_.
-
-<div class = "alert alert-info">
-  Vea este artículo sobre <a href="https://help.vtex.com/es/tutorial/best-practices-application-keys--7b6nD1VMHa49aI5brlOvJm">Buenas prácticas para el uso de claves de aplicación</a>.
-</div>
+Estas credenciales de [autenticación](https://developers.vtex.com/docs/guides/authentication) se utilizan para dar acceso seguro a los datos que deseas compartir con las integraciones, sin exponer tu cuenta a aplicaciones o usuarios no autorizados.
 
 ## Tipos de claves de aplicación
 
+Existen dos tipos de claves de aplicación: [internas](#claves-de-aplicacion-internas) o [externas](#claves-de-aplicacion-externas). Esta definición depende de la cuenta que crea, gestiona y utiliza la credencial.
+
 ### Claves de aplicación internas
 
-Las claves de aplicación internas son credenciales generadas en su cuenta VTEX y gestionadas por ella. Esto significa que debe tener acceso a todos los pares de claves y tokens de aplicación, que son los equivalentes a los nombres de usuario y las contraseñas para las integraciones por API.
+Las claves de aplicación internas son credenciales generadas y gestionadas en tu cuenta VTEX. Esto significa que debes tener acceso a todos los pares de claves y tokens de aplicación (el equivalente a los nombres de usuario y las contraseñas para las integraciones de API).
 
 ### Claves de aplicación externas
 
-Las claves de aplicación externas son credenciales generadas en otras cuentas VTEX y gestionadas por ellas. Al añadir [perfiles de acceso](https://help.vtex.com/es/tutorial/perfiles-de-acceso--7HKK5Uau2H6wxE1rH5oRbc) a las claves de aplicación (el equivalente a los nombres de usuario) proporcionadas por terceros, puede permitirles acceder a recursos específicos de su cuenta.
+Las claves de aplicación externas son credenciales generadas y administradas por otras cuentas VTEX. Al agregar [roles](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) a las claves de aplicación (el equivalente a los nombres de usuario) proporcionadas por terceros, tienes la opción de permitir que accedan a recursos específicos de tu cuenta.
 
-## Generar claves de aplicación en su cuenta
+## Gestionar claves de aplicación
 
-Para crear claves de aplicación en su cuenta, vaya a _Configuración de la cuenta > Gestión de la cuenta > Claves de aplicación_ y haga clic en el botón **Administrar mis claves**. Esto le llevará a la página **Mis claves**, donde podrá encontrar todas las [claves de aplicación internas](#claves-de-aplicacion-internas).
+>⚠️ Se requiere un [rol](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) con el recurso [](https://help.vtex.com/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **Save user** para gestionar usuarios y claves de aplicación. El rol predeterminado para este fin es [User Administrator - RESTRICTED](https://help.vtex.com/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted), pero también es posible [crear un rol personalizado](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol) con este recurso.
 
-![My Keys](//images.contentful.com/alneenqid6w5/1pSqVIzYaiCJO3RkJUoXZQ/1c98224b6f50673c4567f21e22de4978/image3.png)
+En la página **Claves de aplicación** puedes gestionar las claves de aplicación [internas](#claves-de-aplicacion-internas) y [externas](#claves-de-aplicacion-externas) que tienen acceso a tu cuenta, incluyendo:
 
-Vea a continuación los campos que se muestran en la página **Mis claves**:
+- [Generar claves de aplicación internas](#generar-claves-de-aplicacion-internas)
+- [Agregar claves de aplicación externas](#agregar-claves-de-aplicacion-externas)
+- [Gestionar permisos de las claves de aplicación](#gestionar-permisos-de-claves-de-aplicación)
+- [Activar o desactivar claves de aplicación](#activar-o-desactivar-claves-de-aplicacion)
+- [Exportar claves de aplicación con acceso a tu cuenta](#exportar-claves-de-aplicación-con-acceso-a-tu-cuenta)
 
-- **Etiqueta:** campo de texto que describe el propósito de la clave de aplicación.
-- **Clave:** campo de texto que contiene el identificador único de la clave de aplicación.
-- **Status:** campo booleano que indica si la clave de aplicación está activa o inactiva.
+Para acceder a esta página, en la barra superior del Admin VTEX, haz clic en el **avatar de tu perfil** (marcado con la inicial de tu email) y luego en **Configuración de la cuenta** > **Claves de aplicación**.
 
-Dado que las claves de aplicación permiten que sistemas externos accedan a su cuenta, su creación está restringida a los usuarios con el recurso `License Manager / Services access control / Save user` incluidos en sus [perfiles de acceso](https://help.vtex.com/es/tutorial/perfiles-de-acceso--7HKK5Uau2H6wxE1rH5oRbc).
+>ℹ️ Consulta este artículo para saber más sobre [buenas prácticas para el uso de claves de aplicación.](https://help.vtex.com/es/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm)
 
-Para generar una nueva clave de aplicación, siga los pasos a continuación:
+## Generar claves de aplicación internas
 
-1. Haga clic en el botón **⊕ Generar clave**.
-2. (Opcional) Rellene la **Etiqueta** con una descripción del propósito de la clave de aplicación. Este campo es inmutable y solo se puede definir cuando se está generando la clave de aplicación. Si se deja en blanco, el campo se rellenará con el valor del campo **Clave** de la clave de aplicación generada.
-3. (Opcional) Haga clic en el botón **+ Agregar perfiles** para [gestionar los permisos de la clave de aplicación](#gestionar-los-permissos-de-las-claves-de-aplicacion).
-4. Haga clic en el botón **Generar**.
-5. Haga clic en el botón <img src="https://images.contentful.com/alneenqid6w5/3OX5lRYiaSEtQUDXoYJD32/6628b57d4ec1651bcb184ab31c4acd72/image1.png" alt="copy-button"/> para copiar el **token de aplicación** _Este secreto solo se mostrará una vez. Guárdelo en un lugar seguro._
+Como las claves de aplicación permiten que sistemas externos accedan a tu cuenta, solo pueden ser creadas por usuarios con el recurso `License Manager / Services access control / Save user` en sus [roles](https://help.vtex.com/es/tutorial/roles-de-acceso--7HKK5Uau2H6wxE1rH5oRbc).
 
-<div class="alert alert-warning">Proteja sus pares de claves y tokens de aplicación como lo haría con otras credenciales, como nombres de usuario y contraseñas. Si sospecha que una clave de aplicación está comprometida, desactive inmediatamente la clave en su cuenta. Para saber más detalles, consulte la sección <a href="#activar-o-desactivar-claves-de-aplicacion">Activar o desactivar las claves de aplicación</a> deste articulo.</div>
+Para crear claves de aplicación internas en tu cuenta sigue los pasos a continuación:
+
+1. Para acceder a esta página, en la barra superior del Admin VTEX, haz clic en el **avatar de tu perfil** (marcado con la inicial de tu email) y luego en **Configuración de la cuenta** > **Claves de aplicación**.
+2. Haz clic en el botón `Administrar mis claves`.
+
+    Se te redirigirá a la página **Mis claves**, ilustrada a continuación,  donde podrás consultar todas las [claves de aplicación internas](#claves-de-aplicacion-internas).
+
+    ![Mis Claves](https://images.ctfassets.net/alneenqid6w5/1pSqVIzYaiCJO3RkJUoXZQ/68300cda392cc27ff02bc50af0bc2b7e/mis-claves-es.png)
+
+    Estos son los campos visibles en la página **Mis claves**:
+
+    - **Etiqueta:** texto que describe la finalidad de la clave de aplicación.
+    - **Clave:** identificador único para la clave de aplicación.
+    - **Status:** status actual de la clave de aplicación, que puede ser activa o inactiva.
+
+3. Haz clic en el botón `+ Generar nueva`.
+2. (Opcional) Rellena la **Etiqueta** con una descripción de la finalidad de la clave de aplicación. Este campo es inmutable y solo puede definirse durante la creación de la clave de aplicación. Si se deja en blanco, el campo se rellenará automáticamente con el valor del campo **Clave** de la clave de aplicación generada.
+3. (Opcional) Haz clic en `+ Agregar roles` para [gestionar los permisos de la clave de aplicación](#gestionar-permisos-de-las-claves-de-aplicacion).
+4. Haz clic en el botón `Agregar rol`.
+5. Haz clic en <img src="https://images.contentful.com/alneenqid6w5/3OX5lRYiaSEtQUDXoYJD32/6628b57d4ec1651bcb184ab31c4acd72/image1.png" alt="copy-button"/> para copiar el **Token de aplicación**. _Este secreto se mostrará una vez.  Guárdalo en un lugar seguro._
+
+>⚠️ Protege tus pares de claves y tokens de aplicación como lo harías con otras credenciales, como nombres de usuario y contraseñas. Si sospechas que una clave de aplicación está comprometida, debes desactivarla inmediatamente en tu cuenta. Para más detalles, consulta la sección [Activar o desactivar claves de aplicación](#ativar-ou-desativar-chaves-de-aplicacao) de este artículo.
+
+## Agregar claves de aplicación externas
+
+Para agregar claves de aplicación de terceros sigue los pasos a continuación:
+
+1. Para acceder a esta página, en la barra superior del Admin VTEX, haz clic en el **avatar de tu perfil** (marcado con la inicial de tu email) y luego en **Configuración de la cuenta** > **Claves de aplicación**.
+2. Haz clic en el botón `+ Agregar clave de app externa`.
+3. Rellena el campo \{b\>Clave\<b\} con la clave de aplicación proporcionada por la aplicación externa.
+4. Haz clic en `+ Agregar roles` para [gestionar los permisos de la clave de aplicación](#gestionar-permisos-de-las-claves-de-aplicacion). Agrega roles para otorgarles el acceso a los recursos que desees.
+5. Haz clic en `Guardar`.
 
 ## Gestionar los permisos de las claves de aplicación
 
-Para que una clave de aplicación pueda realizar con éxito solicitudes de API a su cuenta, debe estar activa y tener [perfiles de acceso](https://help.vtex.com/es/tutorial/perfiles-de-acceso--7HKK5Uau2H6wxE1rH5oRbc) que especifiquen los recursos de la cuenta a los que puede acceder.
+Para que una clave de aplicación pueda realizar requests de API a tu cuenta, debe estar activa y tener [roles](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) que especifiquen los recursos de la cuenta a los que puede acceder. 
 
-<div class="alert alert-danger">
-<b>¡Atención!</b> El uso sin restricciones de perfiles de acceso muy permisivos aumenta el riesgo de ataques en las tiendas por la fuga de credenciales de acceso.
-</div>
+>❗ El uso sin restricciones de roles muy permisivos aumenta el riesgo de ataques en las tiendas al filtrarse las credenciales de inicio de sesión.
 
-Las claves de aplicación se crean, por defecto, sin permiso para acceder a ningún recurso de la cuenta. 
+Las claves de aplicación se crean, de manera predeterminada, sin permisos para acceder a ningún recurso de la cuenta.
 
-Hay tres caminos diferentes para llegar a la página donde se pueden editar los perfiles de acceso de una clave de aplicación:
+Hay tres maneras de llegar a la página donde se pueden editar los roles de una clave de aplicación:
 
-- Utilizar el botón **+ Agregar perfiles** al [generar claves de aplicación](#generar-claves-de-aplicacion-en-su-cuenta) en su cuenta.
-- Utilizar el botón **⊕ Agregar** en la página **Claves de aplicación**.
-- Utilizar el botón **፧** y seleccionar la opción **Editar** en las páginas **Claves de aplicación** o **Mis claves**.
+- Haciendo clic en el botón `+ Agregar roles` para [generar claves de aplicación](#generar-claves-de-aplicacion-en-tu-cuenta) en tu cuenta.
+- Haciendo clic en el botón `+Agregar clave de app externa` en la página **Claves de aplicación**.
+- Haciendo clic en el botón `፧` y seleccionando la opción **Editar** en las páginas **Claves de aplicación** o **Mis claves**.
 
-Al editar una clave de aplicación, puede:
+Al editar una clave de aplicación, puedes: 
 
-- Agregar perfiles de acceso haciendo clic en el botón **+ Agregar perfiles**, seleccionando uno o más perfiles de acceso y haciendo clic en el botón **Agregar perfiles**. 
-- Eliminar perfiles de acceso utilizando las casillas para seleccionarlos y haciendo clic en el botón **Eliminar perfiles**.
-- Guarde los cambios haciendo clic en el botón **Guardar**.
+- Agregar roles de acceso haciendo clic en el botón `+ Agregar roles`, seleccionando uno o más roles y haciendo clic el botón `Agregar roles`. 
+- Eliminar roles de acceso marcando las casillas de selección y haciendo clic en el botón `Eliminar roles`.
+- Guardar los cambios haciendo clic en el botón `Guardar`.
 
-Después de haber añadido perfiles de acceso a una clave de aplicación, esta aparecerá en la página **Claves de aplicación**.
+Tras agregar los roles de acceso a una clave de aplicación, esta aparecerá en la página **Claves de aplicación**.
 
-![Application Keys](//images.contentful.com/alneenqid6w5/2wGtLJjEnzTf1VJmkFcRhm/da66ebc249dd18cbc709d872ce78719c/image2.png)
+![Claves de aplicación](https://images.ctfassets.net/alneenqid6w5/2wGtLJjEnzTf1VJmkFcRhm/931a3bd780840b11e47bf7d2a84ff718/claves-es.png)
 
-Vea a continuación los campos que se muestran en la página  **Claves de aplicación**:
+Consulta a continuación los campos visibles en la página **Claves de aplicación**:
 
-- **Clave:** campo de texto que contiene el identificador único de la clave de aplicación.
-- **Cuenta:** campo de texto que indica la cuenta VTEX que gestiona la clave de aplicación.
-- **Status:** campo booleano que indica si la clave de aplicación está activa o inactiva.
+- **Clave:** identificador único para la clave de la aplicación.
+- **Cuenta:** cuenta VTEX responsable de gestionar la clave de aplicación.
+- **Status:** status actual de la clave de aplicación, que puede ser activa o inactiva.
 
-<div class="alert alert-info">Tenga en cuenta que el campo <strong>Etiqueta</strong> no se muestra en la página <strong>Claves de aplicación</strong>. Para ver la descripción del objetivo de una clave de aplicación interna, utilice el valor de la <strong>Clave</strong> para encontrarla en la página <strong>Mis claves</strong>. No es posible añadir etiquetas a claves de aplicación externas.</div>
+>ℹ️ Observa que el campo **Etiqueta** no se muestra en la página **Claves de aplicación**. Para ver la descripción de la finalidad de una clave de aplicación interna, utiliza el valor de la**Clave** para encontrarla en la página **Mis claves**. No es posible agregar etiquetas a claves de aplicación externas.
 
-## Activar o desactivar claves de aplicación
+## Activar y desactivar claves de aplicación
 
-Si una clave de aplicación que tiene acceso a su cuenta se ve comprometida, debe cancelar inmediatamente dicho acceso. Si se equivoca, puede volver a activarla para restablecer la integración afectada. La forma de hacerlo va a depender del [tipo de clave de aplicación](#tipos-de-claves-de-aplicacion).
+Si una clave de aplicación que tiene acceso a tu cuenta se ve comprometida, debes cancelar su acceso inmediatamente. Si cometes un error puedes volver a activarla para restablecer la integración afectada. La forma de hacerlo dependerá del [tipo de clave de aplicación](#tipos-de-clave-de-aplicacion).
 
-<div class="alert alert-warning">Solo debe volver a habilitar una clave de aplicación si está seguro de que no ha sido comprometida. Cualquier usuario con el token de aplicación asociado recuperará el acceso privilegiado a su cuenta.</div>
+>⚠️ Vuelve a activar una clave de aplicación solamente si estás seguro de que no ha sido comprometida. Cualquier usuario con el token de aplicación asociado recuperará el acceso privilegiado a tu cuenta.
 
-Para desactivar una clave de aplicación interna, siga los pasos a continuación:
+### Desactivar clave de aplicación interna
 
-1. Vaya a _Configuración de la cuenta > Gestión de la cuenta > Claves de aplicación_.
-2. Haga clic en el botón **Administrar mis claves**.
-3. Busque la clave de aplicación que desea desactivar en la lista y haga clic en el botón **፧**.
-4. Seleccione la opción **Desactivar**.
+Para desactivar una clave de aplicación interna sigue los pasos a continuación: 
 
-Para desactivar una clave de aplicación externa, siga los pasos a continuación:
+1. En la barra superior del Admin VTEX, haz clic en el **avatar de tu perfil**, con la inicial de tu email, y luego en **Configuración de la cuenta** > **Claves de aplicación**.
+2. Haz clic en el botón `Administrar mis claves`.
+3. En la lista, busca la clave de aplicación que deseas desactivar y haz clic en el botón `፧`.
+4. Haga clic en la opción **Desactivar**.
 
-1. Vaya a _Configuración de la cuenta > Gestión de la cuenta > Claves de aplicación_.
-2. Busque la clave de aplicación que desea desactivar en la lista y haga clic en el botón **፧**.
-3. Seleccione la opción **Eliminar**.
+### Desactivar clave de aplicación externa
 
-Para volver a activar claves de aplicación internas que se han desactivado previamente, siga los pasos a continuación:
+Para desactivar una clave de aplicación externa sigue los pasos a continuación: 
 
-1. Vaya a _Configuración de la cuenta > Gestión de la cuenta > Claves de aplicación_.
-2. Haga clic en el botón **Administrar mis claves**.
-3. Busque la clave de aplicación que desea desactivar en la lista y haga clic en el botón **፧**.
-4. Seleccione la opción **Activar**.
+1. Para acceder a esta página, en la barra superior del Admin VTEX, haz clic en el **avatar de tu perfil** (marcado con la inicial de tu email) y luego en **Configuración de la cuenta** > **Claves de aplicación**.
+2. En la lista, busca la clave de aplicación que deseas desactivar y haz clic en el botón `፧`.
+3. Haz clic en la opción **Desactivar**.
 
-Para volver a activar claves de aplicación externas que se han desactivado previamente, siga los pasos a continuación:
+### Activar clave de aplicación interna
 
-1. Vaya a _Configuración de la cuenta > Gestión de la cuenta > Claves de aplicación_.
-2. Haga clic en el botón **⊕ Adicionar**.
-3. Rellene el campo **Clave** con la clave de aplicación proporcionada por el tercero.
-4. Añada perfiles de acceso para permitirles el acceso a los recursos que desee.
+Para reactivar claves de aplicación internas que se habían desactivado previamente sigue los pasos a continuación:
 
-## Exportar claves de aplicación con acceso a su cuenta
+1. Para acceder a esta página, en la barra superior del Admin VTEX, haz clic en el **avatar de tu perfil** (marcado con la inicial de tu email) y luego en **Configuración de la cuenta** > **Claves de aplicación**.
+2. Haz clic en el botón `Administrar mis claves`.
+3. En la lista, busca la clave de aplicación que deseas reactivar y haz clic en el botón `፧`.
+4. Haz clic en la opción **Activar**.
 
-Si es necesario para una auditoría de seguridad, puede exportar un archivo CSV que contenga los valores de la **Clave** para todas las claves de aplicación internas y externas que actualmente tienen acceso a su cuenta, es decir, que tienen perfiles de acceso asociados. Para exportar las claves, vaya a _Configuración de la cuenta > Gestión de la cuenta > Claves de aplicación_ y haga clic en el botón <span style="display: inline-block;"><img src="//images.contentful.com/alneenqid6w5/25JqGWNUZPZattDX6ORXX6/742e99e17042024b9cae641564909171/image4.png" alt="export-button"/> <strong>Exportar</strong></span>.
+### Activar clave de aplicación externa
+
+Para reactivar las claves de aplicación externas que se hayan desactivado previamente, deberás repetir las instrucciones descritas en [agregar claves de aplicación externas](#agregar-claves-de-aplicacion-externas).
+
+## Exportar claves de aplicación con acceso a tu cuenta
+
+Si es necesario para una auditoría de seguridad, puedes exportar un archivo CSV que contenga los valores **Clave** de todas las claves de aplicación internas y externas que actualmente tienen acceso a tu cuenta, es decir, con roles asociados a la misma.
+
+Para exportar las claves, accede a _Configuración de la cuenta > Claves de aplicación > <span style="display: inline-block;"><img src="//images.contentful.com/alneenqid6w5/25JqGWNUZPZattDX6ORXX6/742e99e17042024b9cae641564909171/image4.png" alt="export-button"/> <strong>Exportar</strong></span>.
+

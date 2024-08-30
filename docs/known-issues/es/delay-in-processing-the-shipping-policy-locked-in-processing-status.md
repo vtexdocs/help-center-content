@@ -1,5 +1,5 @@
 ---
-title: 'Retraso en la tramitación de la póliza de envío (bloqueada en estado de "tramitación")'
+title: "Retraso en la tramitación de la póliza de envío (bloqueada en estado de 'tramitación')"
 id: 5wl2TdIbyQeCF8eoo5oYKl
 status: PUBLISHED
 createdAt: 2022-05-17T17:26:58.778Z
@@ -18,9 +18,7 @@ internalReference: 396914
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al cargar una hoja de cálculo y luego hacer clic en "guardar cambios" en las configuraciones de la política de envío, la hoja de cálculo debe ser procesada por nuestro módulo de logística. El tiempo de procesamiento puede variar en función del tamaño del archivo, pero suele tardar unos minutos. En algunos casos, el tiempo de procesamiento puede durar hasta un par de horas o incluso días, y el estado permanece bloqueado en "procesamiento".

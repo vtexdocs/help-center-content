@@ -3,8 +3,8 @@ title: 'Buenas prácticas para el uso de imágenes en el Catálogo'
 id: 738K2yfq5U86kUI2k4AQIk
 status: PUBLISHED
 createdAt: 2018-01-30T14:45:53.934Z
-updatedAt: 2022-07-07T15:32:57.069Z
-publishedAt: 2022-07-07T15:32:57.069Z
+updatedAt: 2024-01-23T15:54:22.159Z
+publishedAt: 2024-01-23T15:54:22.159Z
 firstPublishedAt: 2018-01-31T18:36:10.087Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

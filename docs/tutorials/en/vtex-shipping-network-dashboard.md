@@ -3,8 +3,8 @@ title: 'VTEX Shipping Network: Dashboard'
 id: 51e8tx1IehiN4ZtURRWU92
 status: PUBLISHED
 createdAt: 2020-04-06T20:01:00.909Z
-updatedAt: 2023-06-09T12:56:22.175Z
-publishedAt: 2023-06-09T12:56:22.175Z
+updatedAt: 2024-02-29T19:20:49.152Z
+publishedAt: 2024-02-29T19:20:49.152Z
 firstPublishedAt: 2020-04-16T21:37:18.831Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,9 +15,7 @@ legacySlug: vtex-log-dashboard
 subcategory: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
-<div class="alert alert-warning">
-Attention: This feature is in Open Beta stage.
-</div>
+>⚠️ Attention: This feature is in Open Beta stage.
 
 VTEX Shipping Network uses order tracking data directly from carriers, keeping you and your customer up to date on the status of each delivery. **VTEX Shipping Network dashboards** manage the data obtained from VTEX Shipping Network, so that you can extract intelligent information for your logistics management. 
 
@@ -48,8 +46,8 @@ This tab is used to monitor and supervise the financial result of your Logistics
 | **Overall Projected Cost**        | It is, regardless of VTEX Shipping Network, the sum of the shipping values estimated by the Inventory & Shipping module for all orders. It includes arrows that indicate the percentage of cost growth or decrease. The cost reduction on that (down arrow) card is a positive measure for a store's results.                                                                                                                                 |
 | **VTEX Shipping Network Projected Cost**     | Sum of the shipping values estimated for all orders by the Inventory & Shipping, filtering only by VTEX Shipping Network carriers. It includes arrows that indicate the percentage of cost growth or decrease. The cost reduction on this (down arrow) card is a positive measure for a store's results.
                                                                                                             |
-| **Cost Issued via CTE**        | Cost that came from CONEMB for all these orders. VTEX receives this information through the CONEMB files, which are sent by the carriers. This file shows in detail how much the carrier has spent, and the order invoice number. It includes arrows that indicate the percentage of cost growth or decrease. The cost reduction on this (down arrow) card is a positive measure for a store's results.                                                                                           |
-| **Indicated cost difference** | Difference between the projected cost and the cost issued via CTE. CTE is the file received from the VTEX Shipping Network carriers, which shows in detail how much the carrier has spent, and the order invoice number. It includes arrows that indicate the percentage of cost growth or decrease. The increase in the cost difference on this card is a positive measure for a store's results.                                          |
+
+* We are improving the **Cost Issued via CTE** and the **Indicated cost difference**, and they are currently unavailable.
 
 ## Performance
 
@@ -83,9 +81,9 @@ All VTEX Shipping Network carriers have a verified badge. You can see the pink b
 
 If a carrier’s performance is not displayed on the platform, it means the tracking data has not been integrated with VTEX Shipping Network.
 
-To calculate the performance of carriers that are not VTEX Shipping Network, sellers must send their data through a tracking API provided by the VTEX Shipping Network solution.
+To calculate the performance of carriers that are not VTEX Shipping Network, sellers must send their data through a tracking API provided by the VTEX Shipping Network solution. In such cases, note that the panel data may be inaccurate because there is no validation of delivery being carried out within the indicated deadline.
 
-To learn more about how to perform this integration, see the[ VTEX Shipping Network overview](https://developers.vtex.com/vtex-rest-api/reference/vtex-log-api-overview) in our API documentation.
+To learn more about how to perform this integration, see the[ VTEX Shipping Network overview](https://developers.vtex.com/docs/api-reference/vtex-shipping-network-api) in our API documentation.
 
 ### Exporting reports
 

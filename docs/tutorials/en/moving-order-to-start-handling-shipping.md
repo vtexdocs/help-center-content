@@ -3,8 +3,8 @@ title: 'Moving order to Handling Shipping'
 id: tutorials_198
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:17.090Z
-updatedAt: 2023-03-31T14:47:04.890Z
-publishedAt: 2023-03-31T14:47:04.890Z
+updatedAt: 2023-06-15T13:32:59.728Z
+publishedAt: 2023-06-15T13:32:59.728Z
 firstPublishedAt: 2017-04-27T23:02:47.756Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -21,9 +21,11 @@ The reservation clearing does not happen automatically. It should be controlled 
 
 See below for possible ways to update this status.
 
-## Through integration
+## Through integration and API
 
 Integrations automate this process. They happen when other systems consult VTEX order to track the shipment flow. This integration can be done via API REST, according to our [ERP integration guide](https://developers.vtex.com/docs/erp-integration-set-up-order-processing).
+
+Once that is done, you will be able to call the API [Start handling order](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/start-handling).
 
 ## Through VTEX Admin
 
@@ -38,6 +40,4 @@ If the store doesn't have an ERP or some system that integrates the orders, it's
     - <a class="far fa-check-square"></a> I understand the consequences of this action in the order flow.
 5. Click `Proceed with status`.
 
-<div class="alert alert-warning">
-When you manually start an order handling, the order can not be integrated with the ERP later on.
-</div>
+>⚠️ When you manually start an order handling, the order can not be integrated with the ERP later on.

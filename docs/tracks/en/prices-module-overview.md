@@ -3,8 +3,8 @@ title: 'Pricing - Overview'
 id: 3N9xYhnampRQOrfaTAOxNu
 status: PUBLISHED
 createdAt: 2019-07-09T19:26:54.473Z
-updatedAt: 2023-03-29T19:18:12.146Z
-publishedAt: 2023-03-29T19:18:12.146Z
+updatedAt: 2023-08-21T17:16:35.856Z
+publishedAt: 2023-08-21T17:16:35.856Z
 firstPublishedAt: 2019-07-11T21:35:16.813Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising

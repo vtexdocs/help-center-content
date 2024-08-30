@@ -14,9 +14,7 @@ trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugES: logistica-101
 ---
 
-<div class="alert alert-info">
-Aviso: Esta documentación está siendo actualizada con el fin de reflejar el cambio del concepto de Paneles a <a href="https://help.vtex.com/es/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">Estrategia de Envío</a>.
-</div>
+>ℹ️ Aviso: Esta documentación está siendo actualizada con el fin de reflejar el cambio del concepto de Paneles a [Estrategia de Envío](https://help.vtex.com/es/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl).
 
 El módulo __Inventario y Envío__ es el servicio responsable de la *logística* de su tienda. Es en este sistema donde usted registrará los datos de las __rutas logísticas__ que realizan la entrega de sus pedidos. Además, es en este módulo que debe hacer la __gestión de inventario__, registrar los __precios de flete__ y el __plazo__ para cada tipo de entrega.
 

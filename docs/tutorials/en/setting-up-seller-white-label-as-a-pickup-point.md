@@ -1,10 +1,10 @@
 ---
 title: 'Setting up Seller White Label as a Pickup Point'
 id: 6fSUE2O0taaoKieAaiuc4e
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-09-04T14:22:05.290Z
-updatedAt: 2023-03-29T18:58:34.411Z
-publishedAt: 2023-03-29T18:58:34.411Z
+updatedAt: 2023-07-26T21:33:59.946Z
+publishedAt: 
 firstPublishedAt: 2018-09-05T20:38:04.270Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -23,9 +23,7 @@ As explained in the article [Definition of Franchise Account and Seller White La
 
 This way, the pickup point configured in the Franchise Account __ will be used to fulfill the deliveries of the orders placed in the Main Account__. In this scenario, the Franchise Account acts as the __Seller White Label__ of the Main Account.
 
-<div class="alert alert-danger">
-Settings must be made in the White Label Seller account. Items will only be available for pickup at the end customer checkout if the SKU is available in stock in both the master account and the White Label Seller account.
-</div>
+>❗ Settings must be made in the White Label Seller account. Items will only be available for pickup at the end customer checkout if the SKU is available in stock in both the master account and the White Label Seller account.
 
 ## Initial setup
 
@@ -47,6 +45,8 @@ To know more about filling out the spreadsheet fields, access our article [Fill 
 ## Validate the configuration
 
 If the pickup point configuration has been correctly made in the Franchise Account, SKUs with __stock available and price__ may be sold on the Main Account, where the Franchise Account will act as a __Seller White Label__ and the Main Account will function as a __Marketplace__.
+
+>⚠️ Make sure your franchise seller is active. In your VTEX Admin, go to **Marketplace > Sellers > Management**, and in the seller row in column <i>Status</i>, click `Active`.
 
 ### Seller White Label/Franchise Account
 

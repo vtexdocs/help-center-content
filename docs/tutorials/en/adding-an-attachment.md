@@ -3,15 +3,15 @@ title: 'Adding an attachment'
 id: 7zHMUpuoQE4cAskqEUWScU
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.901Z
-updatedAt: 2023-03-29T15:07:58.328Z
-publishedAt: 2023-03-29T15:07:58.328Z
+updatedAt: 2023-11-16T17:23:31.034Z
+publishedAt: 2023-11-16T17:23:31.034Z
 firstPublishedAt: 2019-01-24T22:06:25.639Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: adding-an-attachment
 locale: en
-legacySlug: adding-an-attachment
+legacySlug: registering-an-attachment
 subcategory: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
@@ -39,9 +39,7 @@ After adding the attachment, you need to add the keys and **permitted values** r
 3. Click `Add New`. You can add other keys by repeating this process.
 4. Click on `Save`.
 
-<div class="alert alert-warning">
-  <p>The <strong>Maximum Number of Characters</strong> field is required. If you do not fill it in, the attachment will not be displayed to your customer as a selection option in the cart.</p>
-</div>
+>⚠️ The **Maximum Number of Characters** field is required. If you do not fill it in, the attachment will not be displayed to your customer as a selection option in the cart.
 
 ## Associating the attachment with a SKU
 
@@ -56,6 +54,4 @@ After creating the SKU attachment and configuring its keys and permitted values,
 
 You can also associate an attachment to an SKU by using the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuattachment).
 
-<div class="alert alert-warning">
-  <p>VTEX does not control the inventory of the attachment. This is the responsibility of the Marketplace or the Seller.</p>
-</div>
+>⚠️ VTEX does not control the inventory of the attachment. This is the responsibility of the Marketplace or the Seller.

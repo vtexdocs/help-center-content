@@ -86,9 +86,9 @@ Quando um cliente faz um pedido elegível para receber crédito fidelidade, voc�
 
 Na seção **Promoções e parcerias**, aparece o nome da promoção aplicada ao pedido:
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/1LpXT5YXqbsjb02eAQUsfg/9b4ede20a2b910d2a4c2b117a4e0b7ec/detalhes-oms-pt__1_.png" alt="detalhes-do-pedido" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Detalhes do pedido</em></figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/1LpXT5YXqbsjb02eAQUsfg/9b4ede20a2b910d2a4c2b117a4e0b7ec/detalhes-oms-pt__1_.png" alt="detalhes-do-pedido" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Detalhes do pedido</em></figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/2mriJhUbQbqrrUSbp7tjaC/b9de1a7d07c48b49026ec6d3adba4d20/detalhes-neworders-pt__1_.png" alt="detalhes-do-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Detalhes do pedido (Beta)</em></figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/2mriJhUbQbqrrUSbp7tjaC/b9de1a7d07c48b49026ec6d3adba4d20/detalhes-neworders-pt__1_.png" alt="detalhes-do-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Detalhes do pedido (Beta)</em></figcaption></figure>
 
 Na seção __Fluxo do pedido__, é possível verificar o valor fidelidade concedido:
 

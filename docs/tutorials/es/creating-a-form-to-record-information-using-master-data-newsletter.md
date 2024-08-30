@@ -30,6 +30,6 @@ Luego de haber realizado las configuraciones anteriores, es necesario incluir en
  
 En este enlace podrán encontrar un ejemplo de un HTML y JS que sirve de guía para la implementación en el CMS.
  
-[Código de ejemplo](//assets.contentful.com/alneenqid6w5/xC0HA56uzIO8Ueca2c02g/eb126bee0a1618dff60da75c997a85e2/newsletterMasterData.rar).
+[Código de ejemplo](https://assets.contentful.com/alneenqid6w5/xC0HA56uzIO8Ueca2c02g/eb126bee0a1618dff60da75c997a85e2/newsletterMasterData.rar).
  
 IMPORTANTE: Este plugin fue desarrollado para ayudar a desarrollar un formulario básico usando Master Data (MD). VTEX NO ofrece soporte a esa extensión y su código es abierto, pudiendo sufrir modificaciones y adaptaciones.

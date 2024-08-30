@@ -18,10 +18,8 @@ subcategory:
 __iDEAL__ is an online payment method available only to customers in The Netherlands which allows consumers to make payments directly in their own bank. 
 In this tutorial, you will go through the steps to configure it in your store through an integration with [Adyen](https://help.vtex.com/en/tutorial/how-to-configure-the-adyen-gateway-on-vtex--tutorials_2337).
 
-<div class="alert alert-danger">
-  <b>Adyen</b> is currently the only partner that supports payments made with iDEAL. This means you need to get in touch with Adyen to check whether iDEAL is applicable for your location. 
-If so, consult the article <a href="https://help.vtex.com/en/tutorial/how-to-configure-the-adyen-gateway-on-vtex--tutorials_2337?&utm_source=autocomplete">How to set up the Adyen gateway on VTEX</a> and configure the affiliation in your store.
-  </div>
+>❗ **Adyen** is currently the only partner that supports payments made with iDEAL. This means you need to get in touch with Adyen to check whether iDEAL is applicable for your location. 
+> If so, consult the article [How to set up the Adyen gateway on VTEX](https://help.vtex.com/en/tutorial/how-to-configure-the-adyen-gateway-on-vtex--tutorials_2337?&utm_source=autocomplete) and configure the affiliation in your store.
 
 1. Access the VTEX __Admin__.
 2. Click on __Payments__ > __Settings__.

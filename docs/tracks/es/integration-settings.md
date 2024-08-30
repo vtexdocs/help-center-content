@@ -1,10 +1,10 @@
 ---
-title: 'Configuraciones de integración'
+title: 'Integraciónes'
 id: 6wKQgKmu2FT6084BJT7z5V
 status: PUBLISHED
 createdAt: 2020-04-14T13:28:52.687Z
-updatedAt: 2020-04-20T20:15:39.952Z
-publishedAt: 2020-04-20T20:15:39.952Z
+updatedAt: 2024-01-24T19:12:30.626Z
+publishedAt: 2024-01-24T19:12:30.626Z
 firstPublishedAt: 2020-04-14T23:53:14.582Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -14,9 +14,16 @@ trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugES: vtex-intelligent-search
 ---
 
-Configuración de integración es la funcionalidad responsable de la indexación inicial del Catálogo con VTEX Intelligent Search. Después de instalar la aplicación, este será el primer paso para integrarla con el Catálogo.
+ En el Admin VTEX, la página **Configuración de la tienda** > **Intelligent Search** > **Integraciones** es responsable de la indexación inicial del catálogo con VTEX Intelligent Search. Luego de instalar la aplicación, la indexación constituye el primer paso para realizar la integración con el catálogo.
 
-La herramienta consiste en un texto que informa sobre el proceso de indexación y un botón de inicio. Al pulsar el botón, se inicia la indexación y se muestra un enlace para la pantalla __Status de indexación__.
+Sigue las instrucciones a continuación para iniciar el proceso de integración:
 
+1. En el Admin de VTEX, accede a **Configuración de la tienda**, o ingresa **Configuración de la tienda** en la barra de búsqueda en la parte superior de la página.
+2. En **Intelligent Search**, haz clic en **Integraciones**.
+4. Haz clic en `Iniciar la integración`.
 
-![config-int-ES](https://images.ctfassets.net/alneenqid6w5/4vmQOeaMNzZVr4gxFmwRZ0/94a0f0244cf92adc18845db15ed09be1/config-int-ES.png)
+Se dará inicio al proceso de indexación. Una vez completado, se mostrará la siguiente pantalla:
+
+![integracoes-es](https://images.ctfassets.net/alneenqid6w5/3biSEYFprYPdnhQpgfpGhV/0e53cf7952ac60b089bbcb5f6441640e/integracoes-es.PNG)
+
+No es necesario repetir este proceso. Una vez iniciada la integración, puedes realizar un seguimiento del status de indexación en la página [Historial de indexación](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).

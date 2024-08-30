@@ -18,9 +18,7 @@ internalReference: 542264
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ativar somente o produto por API faz com que o produto permaneça ativo para o PDP e checkout

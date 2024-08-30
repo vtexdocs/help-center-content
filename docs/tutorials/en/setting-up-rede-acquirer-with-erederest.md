@@ -1,10 +1,10 @@
 ---
 title: 'Setting up Rede acquirer with ERedeRest'
 id: 5TD6Ap9kiIUSiAMUsgYmcY
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-12T15:47:44.783Z
-updatedAt: 2023-03-29T01:11:21.243Z
-publishedAt: 2023-03-29T01:11:21.243Z
+updatedAt: 2024-03-18T18:22:35.227Z
+publishedAt: 
 firstPublishedAt: 2018-04-13T15:41:42.879Z
 contentType: tutorial
 productTeam: Financial
@@ -15,11 +15,11 @@ legacySlug: setting-up-rede-acquirer-with-erederest
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+>❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
+
 In VTEX, you can integrate with the [acquirer](/en/tutorial/what-is-an-acquirer) Rede using the ERedeREST connector. This connector brings a number of enhancements, including pre-authorization support (__Visa__, __Mastercard__, __American Express__, __Diners__, __Hipercard__, __JCB__ and __Credz__).
 
-<div class="alert alert-warning">
-The <strong>Elo</strong> brand does not yet support pre-authorization.
-</div>
+>⚠️ The **Elo** brand does not yet support pre-authorization.
 
 Another important feature of the ERedeREST connector is that you can also configure it to accept payments with [__Apple Pay __](/en/tutorial/setting-up-payments-with-apple-pay).
 

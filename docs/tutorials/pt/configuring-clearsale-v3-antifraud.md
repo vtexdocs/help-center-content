@@ -1,10 +1,10 @@
 ---
 title: 'Configurar antifraude ClearSale v3'
 id: 2pPORygesIqQOa6cIG6agg
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-10-30T14:10:20.822Z
-updatedAt: 2021-12-15T21:23:21.984Z
-publishedAt: 2021-12-15T21:23:21.984Z
+updatedAt: 2024-04-24T18:52:20.944Z
+publishedAt: 2024-04-24T18:49:44.223Z
 firstPublishedAt: 2017-10-30T14:26:53.089Z
 contentType: tutorial
 productTeam: Financial
@@ -15,23 +15,32 @@ legacySlug: configurar-antifraude-clearsale-v3
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Para habilitar a afiliação do antifraude ClearSale v3, você precisa [adicionar a afiliação de gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444) na seção de Pagamentos, escolhendo a opção **ClearSaleV3**. A configuração da afiliação do antifraude ClearSale v3 contém os seguintes campos:
+Na VTEX, é possível realizar a integração com o [antifraude](http://help.vtex.com/pt/tutorial/como-configurar-antifraude) ClearSaleV3. Por meio deste sistema, é possível aumentar o nível de segurança em transações de pagamento realizadas em sua loja utilizando análises de risco que identificam possíveis fraudes.
 
-- **Login:** Login.
-- **Password:** Senha.
-- **Custom SLA em minutos (opcional):** O tempo que o ClearSale terá para processar a análise de fraude.
-- **Produto (opcional):** Valor numérico. Correspondente ao ID do produto contratado na ClearSale.
-- **Transaction currency**: Moeda.
-- **Observation (opcional):** Texto para enviar à ClearSale como observação.
-- **Enviar transações autenticadas?**: Possui as opções **Sim** e **Não**.  Transações autenticadas são aquelas onde todos os pagamentos foram autenticados com senha no programa 3DSecure.
+Para configurar o ClearSaleV3, siga os passos abaixo:
 
-<div class="alert alert-info">
-A documentação da ClearSale sobre <a href="https://api.clearsale.com.br/docs/finger-print" target="_blank">FingerPrint</a> explica o script abaixo em detalhes.
-</div>
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __ClearSaleV3__ na barra de busca e clique sobre o nome do provedor.
+4. Caso deseje modificar o nome de identificação a ser exibido para o antifraude ClearSaleV3 na tela do Admin VTEX, insira a informação no campo __Nome__ em __Informações básicas__.
+5. Em __Controle de pagamento__, selecione se deseja ativar o provedor em ambiente de teste clicando em __Ativar modo de teste__.
+6. Preencha as informações abaixo conforme suas configurações no ClearSale:
+<br>
+<ul>
+<br>
+  <li><b>Login</b>: login.</li>
+  <li><b>Password</b>: senha.</li>
+  <li><b>SLA personalizado em minutos (opcional)</b>: período em que o ClearSale terá para processar a análise de fraude.</li>
+  <li><b>Produto (opcional)</b>: valor numérico. Correspondente ao ID do produto contratado na ClearSale.</li>
+  <li><b>Transaction currency</b>: moeda na qual a transação é realizada.</li>
+  <li><b>Observation (opcional)</b>: texto para enviar ao ClearSale como observação.</li>
+  <li><b>Enviar transações autenticadas?</b>: indica se as transações de pagamento devem ser autenticadas com senha no programa 3DSecure.</li>
+</ul>
+7. Clique em `Salvar`.
 
-<div class="alert alert-warning">
-Se você deseja configurar o antifraude <strong>ClearSale T</strong>, basta seguir <a href="http://help.vtex.com/pt/tutorial/como-configurar-antifraude">este passo a passo</a>.
-</div>
+>ℹ️ Caso possua uma aplicação mobile que utilize as APIs da VTEX na finalização da compra é necessário realizar a implementação da coleta de dados do fingerprint a serem enviados para Clearsale, de acordo com a plataforma utilizada pelo aplicativo. Saiba mais em [Clearsale Behavior Analytics](https://api.clearsale.com.br/docs/behavior-analytics" target="_blank).
+>
+> Com a implementação do SDK é necessário coletar o valor de <span class="bg-muted-4">sessionId</span> e enviá-lo no campo <span class="bg-muted-4">deviceFingerprint</span> via [API na criação do pagamento](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments).
 
 ## Criando a tag do Google Tag Manager
 
@@ -63,7 +72,7 @@ A configuração do antifraude ClearSale v3 exige a criação de uma tag no Goog
 10. Clique no botão __Criar Tag__, insira um nome para esta tag e salve.
 11. No canto superior direito, clique em __Publicar__.
 
-![Pasted image at 2017 10 20 01 11 PM](//images.contentful.com/alneenqid6w5/2kdI4xh9IYwKI2mSiU20yW/b850c070cc8de2ec09e690ffe6cc9c15/Pasted_image_at_2017_10_20_01_11_PM.png)
+![Pasted image at 2017 10 20 01 11 PM](https://images.contentful.com/alneenqid6w5/2kdI4xh9IYwKI2mSiU20yW/b850c070cc8de2ec09e690ffe6cc9c15/Pasted_image_at_2017_10_20_01_11_PM.png)
 
 ## Detalhes do campo customSLA
 
@@ -81,6 +90,4 @@ O `shippingEstimate` pode ser obtido nos itens de `shippingData.logisticsInfo[]`
 
 O valor de `deliverySlaInMinutes` é a conversão de `shippingEstimate` em minutos. Se a unidade for `m` (minutos) será o mesmo valor, se a unidade for `h` (horas) o valor é multiplicado por 60 e se a unidade for `d` (dias corridos) ou `bd` (dias úteis) o valor é multiplicado por 1440. Por exemplo, três dias corridos ou `3d` é representado como `4320`. O `deliverySlaInMinutes` é utilizado em cada item do `minicart` no request body dos endpoints <a href="https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifraudpreanalysisdata" target="_blank">Send Antifraud Pre-Analysis Data</a> e <a href="https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifrauddata" target="_blank">Send Antifraud Data</a>.
 
-<div class="alert alert-info">
-Apesar de a conversão do tempo em dias corridos (<code>d</code>) e dias úteis (<code>bd</code>) para minutos  ser a mesma no campo <code>deliverySlaInMinutes</code>, a data da entrega pode divergir dependendo do calendário (quando há finais de semana e feriados dentro do período de entrega).
-</div>
+>ℹ️ Apesar de a conversão do tempo em dias corridos (`d`) e dias úteis (`bd`) para minutos  ser a mesma no campo `deliverySlaInMinutes`, a data da entrega pode divergir dependendo do calendário (quando há finais de semana e feriados dentro do período de entrega).

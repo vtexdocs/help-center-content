@@ -15,9 +15,7 @@ legacySlug: configurar-merchant-id-en-apple-pay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning">
-Este proceso será más sencillo cuando Apple valide las integraciones con la plataforma VTEX. Este artículo se actualizará para satisfacer al nuevo escenario.
-</div>
+>⚠️ Este proceso será más sencillo cuando Apple valide las integraciones con la plataforma VTEX. Este artículo se actualizará para satisfacer al nuevo escenario.
 
 Para que su tienda reciba pagos con __Apple Pay__, necesitará configurar el __Merchant ID__ en su cuenta de desarrollador en Apple (`developer.apple.com`). 
 
@@ -94,9 +92,7 @@ Primero, debe validar cada una de las URL deseadas. Una vez que este paso se com
 
 Finalmente, es necesario importar este archivo al sistema de VTEX a través de Postman - herramienta de gestión de [APIs](https://help.vtex.com/es/tutorial/introduccion-a-las-apis-vtex--3SjAqQ0BeUqu2ge8AiIkmW "APIs").
 
-<div class = "alert alert-warning">
-<strong>Importante:</strong> solo puede hacerse esta validación de un dominio a la vez. Esto significa que si su tienda usa 10 dominios diferentes, el proceso tendrá que repetirse 10 veces.
-</div>
+>⚠️ **Importante:** solo puede hacerse esta validación de un dominio a la vez. Esto significa que si su tienda usa 10 dominios diferentes, el proceso tendrá que repetirse 10 veces.
 
 Verifique las instrucciones:
 
@@ -133,9 +129,7 @@ Ahora, debe generar un certificado del Merchant ID, que se utilizará cada vez q
 
 Para completar la acción, deberá crear una contraseña para proteger los datos exportados.
 
-<div class="alert alert-info">
-Atención: Recomendamos que la contraseña sea fácil de recordar, ya que se ingresará en el campo Apple Merchant Password en el momento de la configuración de la afiliación de gateway en VTEX.
-</div>
+>ℹ️ Atención: Recomendamos que la contraseña sea fácil de recordar, ya que se ingresará en el campo Apple Merchant Password en el momento de la configuración de la afiliación de gateway en VTEX.
 
 1. Acceda al módulo __Certificates, Identifiers & Profilers__.
 2. En el menú del lado izquierdo, haga clic en __Identifiers__.

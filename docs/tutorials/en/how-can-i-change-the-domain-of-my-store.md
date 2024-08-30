@@ -17,9 +17,7 @@ subcategory: yMp6sKDiJEi66CGAIQ4ma
 
 Changing the domain corresponds to changing the name of the site. In other words, if a VTEX store, for example, owns the domain **_mystore.com_** and it intends to change it to **_newdomain.com_**, the store must follow this tutorial.
 
-<div class="alert alert-warning">
-You should NOT delete the previously set up HOST, while the new setting is not propagated (Average propagation time: 15 minutes).
-</div>
+>⚠️ You should NOT delete the previously set up HOST, while the new setting is not propagated (Average propagation time: 15 minutes).
 
 The VTEX platform is prepared to support domain changes without adverse impacts. To do so, just follow the steps below:
 

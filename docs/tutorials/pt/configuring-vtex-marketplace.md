@@ -3,12 +3,12 @@ title: 'Configurar marketplace VTEX'
 id: 7splyp5MqIyt2Iyz5jsNzb
 status: PUBLISHED
 createdAt: 2022-01-26T21:27:16.808Z
-updatedAt: 2023-04-17T22:04:41.917Z
-publishedAt: 2023-04-17T22:04:41.917Z
+updatedAt: 2024-05-23T15:18:17.648Z
+publishedAt: 2024-05-23T15:18:17.648Z
 firstPublishedAt: 2022-01-26T23:06:58.565Z
 contentType: tutorial
 productTeam: Channels
-author: 0QBQws7rk0t5Mnu8fgfUv
+author: 2p7evLfTcDrhc5qtrzbLWD
 slug: configurar-marketplace-vtex
 locale: pt
 legacySlug: configurar-marketplace-vtex
@@ -47,9 +47,7 @@ Para adicionar sellers ao seu marketplace pelo Admin VTEX, siga as instruções 
 
 O [Seller Portal](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) é uma edição da plataforma VTEX que permite que sellers se conectem e vendam seus produtos em marketplaces. Marketplaces hospedados na VTEX podem convidar sellers que já têm uma conta VTEX para se conectarem por meio do Seller Portal. Também é possível convidar sellers hospedados em outras plataformas ou aqueles que ainda não estão hospedados em nenhuma plataforma para criar uma conta no Seller Portal de forma rápida e sem atritos.
 
-<div class="alert alert-info">
-Para ativar o Seller Portal para seus sellers, é necessário que o marketplace solicite essa funcionalidade entrando em contato com o CSM da sua conta na VTEX.
-</div>
+>ℹ️ Para ativar o Seller Portal para seus sellers, é necessário que o marketplace solicite essa funcionalidade entrando em contato com o CSM da sua conta na VTEX.
 
 Uma vez contratado o uso do Seller Portal, para adicionar sellers a uma conta de Seller Portal, siga as instruções em [Convite de Sellers](https://help.vtex.com/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A).
 
@@ -75,7 +73,7 @@ Sellers diferentes podem ser exibidos durante a experiência de compra no seu ma
 - **Seller identificável:** o seller é visível no *storefront* do seu marketplace e escolhido pelo consumidor durante a experiência de compra no buy box.  
 - **Seller não identificável (white label):** [sellers white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label) são contas franquia na VTEX, ocultos na experiência de compra e selecionados automaticamente pelo sistema do checkout para o fulfillment.  
 
-Para adicionar um seller não identificável (white label), é necessário ter esse modelo previsto no contrato com a VTEX. Uma vez ajustado o contrato com o representante comercial da VTEX responsável pelo seu marketplace, solicite a adição de uma conta franquia seguindo as instruções em [O que são conta franquia e seller white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-uma-conta-franquia). Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação. Saiba mais em [Adicionar sellers](https://help.vtex.com/pt/tutorial/adding-a-seller--tutorials_392). 
+Para adicionar um seller não identificável (white label), é necessário ter esse modelo previsto no contrato com a VTEX. solicite a adição de uma conta franquia seguindo as instruções em [Solicitar criação de conta franquia](https://help.vtex.com/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl#solicitar-criacao-de-conta-franquia). Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação. Saiba mais em [Adicionar sellers](https://help.vtex.com/pt/tutorial/adding-a-seller--tutorials_392). 
 
 ### Localização
 
@@ -85,9 +83,7 @@ Um marketplace pode obter a informação da localização do usuário na vitrine
 
 Quando o VTEX Session não tem acesso à localização do consumidor, ainda é preciso apontar um sortimento de produtos de sellers na experiência de compra. Nesse cenário, o algoritmo de seleção de sellers indica [sellers abrangentes](https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), que são capazes de entregar pedidos em todas as regiões atendidas pelo seu marketplace.
 
-<div class="alert alert-info">
-A funcionalidade Region está adaptada apenas para lojas que utilizam o VTEX IO, e não é válida para o Portal CMS Legado. 
-</div>
+>ℹ️ A funcionalidade Region está adaptada apenas para lojas que utilizam o VTEX IO, e não é válida para o Portal CMS Legado.
 
 ## Configurar storefront
 

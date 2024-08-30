@@ -3,8 +3,8 @@ title: 'Extensions Hub: Expand your operation through the VTEX Admin'
 id: 4FYJCHTttMa0znV1mdHW9w
 status: PUBLISHED
 createdAt: 2023-05-31T22:15:06.695Z
-updatedAt: 2023-06-04T22:02:53.542Z
-publishedAt: 2023-06-04T22:02:53.542Z
+updatedAt: 2023-08-02T14:37:08.083Z
+publishedAt: 2023-08-02T14:37:08.083Z
 contentType: updates
 productTeam: Apps
 author: 4ubliktPJIsvyl1hq91RdK
@@ -31,9 +31,7 @@ With Extensions Hub, the entire navigation and app purchasing experience happens
 
 The **App Store** displays prices in US dollars (USD) for stores all over the world, and in Brazilian reais (BRL) for stores in Brazil. Payments for app purchases, subscriptions, and usage are processed automatically, and the corresponding amounts are added to your [VTEX invoice](https://help.vtex.com/en/tutorial/billing-overview--6UxfCl4fw4GmyQwoUuIcQs) in your local currency, eliminating the need for credit card payment. If your operation is located outside Brazil and your invoice is in a currency other than USD, we will convert the USD amount to your local currency.
 
-<div class = "alert alert-info">
-The <a href="http://apps.vtex.com/">App Store website</a> will still exist for viewing apps in a public way, but it will no longer support app purchases. Purchases can only be made through the VTEX Admin.
-</div>
+>ℹ️ The [App Store website](http://apps.vtex.com/) will still exist for viewing apps in a public way, but it will no longer support app purchases. Purchases can only be made through the VTEX Admin.
 
 ### Partners
 
@@ -59,4 +57,6 @@ Additionally, we have redesigned the app shopping experience in the **App Store*
 
 Finally, our goal is to strengthen the relationship between merchants and VTEX partners. Thus, merchants who want to implement unique store solutions can now directly find and contact partners and developers through the **Partners** page in the VTEX Admin.
 
-Learn more in our [Extensions Hub documentation](https://help.vtex.com/es/tracks/extensions-hub--AW7klkYMh557y5IUOgzco).
+Learn more in our [Extensions Hub documentation](https://help.vtex.com/en/tracks/extensions-hub--AW7klkYMh557y5IUOgzco).
+
+_\*Updated on August 2, 2023: The **Partners** page will be available later. There is no expected date when this page will be available._

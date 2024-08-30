@@ -1,10 +1,10 @@
 ---
 title: 'Setting up sub-acquirer Stelo'
 id: 3gHWiaK9wQg08wOsoysciQ
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-03-02T17:43:45.957Z
-updatedAt: 2023-03-29T01:10:18.026Z
-publishedAt: 2023-03-29T01:10:18.026Z
+updatedAt: 2024-03-18T20:16:43.458Z
+publishedAt: 
 firstPublishedAt: 2018-03-02T20:17:14.474Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: en
 legacySlug: setting-up-sub-acquirer-stelo
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+>❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
 
 Stelo is a [sub-acquirer](/en/tutorial/what-is-a-sub-acquirer) that facilitates the integration of payment methods into your store.
 

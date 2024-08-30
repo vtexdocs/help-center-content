@@ -18,9 +18,7 @@ internalReference: 545331
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Mesmo com os registros das transações informando que o estorno foi feito, ocorreu um erro no adquirente.

@@ -1,10 +1,10 @@
 ---
 title: 'Funcionalidades de televendas'
 id: UqhiccIRIK2KD0OqkzJaS
-status: PUBLISHED
+status: CHANGED
 createdAt: 2021-05-13T18:26:51.189Z
-updatedAt: 2023-03-07T00:19:05.776Z
-publishedAt: 2023-03-07T00:19:05.776Z
+updatedAt: 2023-12-20T16:58:46.983Z
+publishedAt: 2023-10-18T17:09:06.185Z
 firstPublishedAt: 2021-05-17T12:07:02.897Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -36,9 +36,7 @@ A Toolbar de televendas é uma barra superior exibida no site da loja para usuá
 
 Para saber como utilizar esse recurso, confira o tutorial [Toolbar de Televendas](https://help.vtex.com/pt/tutorial/usando-e-customizando-toolbar-de-televendas--tutorials_5500).
 
-<div class = "alert alert-info">
-Um caso de uso do televendas é  importar pedidos de outras plataformas para o módulo Pedidos da VTEX. Para isso, você pode associar uma <a href="https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE">política comercial</a> específica com o pagamento por <a href="https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ">promissória</a> (método de pagamento aprovado imediatamente e manualmente pelo próprio operador).
-</div> 
+>ℹ️ Um caso de uso do televendas é  importar pedidos de outras plataformas para o módulo Pedidos da VTEX. Para isso, você pode associar uma [política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) específica com o pagamento por [promissória](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ) (método de pagamento aprovado imediatamente e manualmente pelo próprio operador). 
 
 ### Minha Conta
 

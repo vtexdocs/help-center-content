@@ -52,11 +52,11 @@ Se o envio for realizado com sucesso, você já poderá encontrar os produtos no
 
 Caso o mapeamento tenha sido feito corretamente, todas as variações serão exibidas em um único anúncio.
 
-<div class="alert alert-info">
-Ex.: 
-<br />
-<strong>Anúncio</strong> = Forno Elétrico (produto) | 110V, 220V (variações/skus)
-</div>
+>ℹ️ Ex.: 
+>
+>
+> 
+> **Anúncio** = Forno Elétrico (produto) | 110V, 220V (variações/skus)
 
 ### Atualizações de produto
 
@@ -80,9 +80,7 @@ No caso de haver alguma especificação cadastrada apenas no lado da Magazine Lu
 
 Os estoques são enviados pela primeira vez junto com o primeiro envio de produtos. A partir daí, os estoques dos anúncios na Magazine Luiza são atualizados automaticamente, SKU por SKU, sempre que há alguma alteração de estoque na VTEX. A atualização demora apenas alguns segundos para refletir no marketplace, mas os logs de estoque podem demorar alguns minutos para aparecer no Admin da VTEX. 
 
-<div class="alert alert-info">
-Para acessar os logs, clique na seção <strong>Integrações</strong> do menu lateral do Admin. Uma lista de opções vai se abrir e, então, você deve clicar na opção <strong>Estoque</strong>. 
-</div>
+>ℹ️ Para acessar os logs, clique na seção **Integrações** do menu lateral do Admin. Uma lista de opções vai se abrir e, então, você deve clicar na opção **Estoque**.
 
 
 
@@ -92,21 +90,19 @@ Os preços são enviados pela primeira vez junto com o primeiro envio de produto
 
 Para cada SKU, a integração envia apenas o preço final, baseado no retorno da simulação de fulfillment. Normalmente, o preço enviado é sempre o que foi determinado pela política comercial associada à integração. No entanto, __Promoções__ e __Preços fixos__ podem influenciar o preço final.
 
-<div class="alert alert-info">
-<strong>Exemplo 1:</strong>
-<br />
-Uma promoção que ofereça 10% de desconto para uma determinada categoria.
-</div>
+>ℹ️ **Exemplo 1:**
+>
+>
+> 
+> Uma promoção que ofereça 10% de desconto para uma determinada categoria.
 
-<div class="alert alert-info">
-<strong>Exemplo 2:</strong>
-<br />
-Na política comercial usada na Magazine Luiza, um SKU tem preço de R$ 10 e um preço fixo de R$ 15. O valor que a integração envia para o marketplace é R$ 15.
-</div>
+>ℹ️ **Exemplo 2:**
+>
+>
+> 
+> Na política comercial usada na Magazine Luiza, um SKU tem preço de R$ 10 e um preço fixo de R$ 15. O valor que a integração envia para o marketplace é R$ 15.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> a integração não envia preços de acordo com a forma de pagamento. Isso significa que, mesmo se estiver configurada a incidência de juros para pagamentos parcelados, o preço enviado para a Magazine Luiza vai continuar sendo o que foi retornado pela simulação de fulfillment.
-</div>
+>⚠️ **OBS:** a integração não envia preços de acordo com a forma de pagamento. Isso significa que, mesmo se estiver configurada a incidência de juros para pagamentos parcelados, o preço enviado para a Magazine Luiza vai continuar sendo o que foi retornado pela simulação de fulfillment.
 
 
 ## 4. Promoções

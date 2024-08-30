@@ -15,9 +15,7 @@ legacySlug: how-to-create-a-subscription-attachment
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
 
- <div class="alert alert-info">
-  <p>If you have the <strong>Subscriptions Beta</strong> module, the recommended process to create a subscription plan is directly through the <strong>Subscriptions</strong> module. Read the article <a href="https://help.vtex.com/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC">Creating a subscription plan (Beta)</a> for more information.</p>
-</div>
+ >ℹ️ If you have the **Subscriptions Beta** module, the recommended process to create a subscription plan is directly through the **Subscriptions** module. Read the article [Creating a subscription plan (Beta)](https://help.vtex.com/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) for more information.
 
 The SKU Attachment is responsible for indicating that the subscription functionality is active for that SKU, and also what will the available frequency be.
 
@@ -41,9 +39,7 @@ To create a SKU attachment, follow the steps below.
     * `vtex.subscription.test`
 5. Leave the **Attachment required** box unchecked.
 
- <div class="alert alert-warning">
-  <p>Make sure the <strong>Attachment required</strong> box is unchecked. If the attachment is marked as required, the <strong>Subscription</strong> system will attempt to send a recurring order for an item that already has a required attachment, causing an error in the system. In case you misconfigure this option, uncheck the required attachment field and ask your customer to try again.</p>
-</div>
+ >⚠️ Make sure the **Attachment required** box is unchecked. If the attachment is marked as required, the **Subscription** system will attempt to send a recurring order for an item that already has a required attachment, causing an error in the system. In case you misconfigure this option, uncheck the required attachment field and ask your customer to try again.
 
 6. In the **Status** field, check the **Enable/Disable attachment** box and click on `Save`.
 
@@ -77,9 +73,7 @@ Follow the step-by-step instructions below to configure available frequencies an
 
         ![EN Assinatura Exemplo Valores month](https://images.ctfassets.net/alneenqid6w5/15AueDNpKyx3yBVjP0q7tY/415def684e81619e96155a1fb390a4f4/EN_Assinatura_Exemplo_Valores_month.png)
 
-<div class="alert alert-info">
-  <p>If the <strong>Permitted Values</strong> field is left blank, the date of the subscription cycle will be the same day of the week (if the frequency is weekly) or the same day of the month (if the frequency is monthly) as the original order.</p>
-</div>
+>ℹ️ If the **Permitted Values** field is left blank, the date of the subscription cycle will be the same day of the week (if the frequency is weekly) or the same day of the month (if the frequency is monthly) as the original order.
 
 ### Associating the attachment with an SKU
 

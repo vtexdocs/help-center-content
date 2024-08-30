@@ -3,8 +3,8 @@ title: 'Configurar pago con Dock'
 id: 3Y0tLnXjBcG9qxHwAHGbHn
 status: PUBLISHED
 createdAt: 2022-07-19T19:58:56.608Z
-updatedAt: 2023-03-26T21:25:49.936Z
-publishedAt: 2023-03-26T21:25:49.936Z
+updatedAt: 2024-01-23T18:08:45.414Z
+publishedAt: 2024-01-23T18:08:45.414Z
 firstPublishedAt: 2022-07-19T20:12:07.212Z
 contentType: tutorial
 productTeam: Financial

@@ -17,9 +17,7 @@ announcementSynopsisPT: 'Usuários verão apenas os itens do menu lateral que t�
 
 Os [perfis de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) permitem que as lojas concedam aos usuários acesso apenas a uma seleção de recursos em nossa plataforma. Embora esse recurso fosse suficiente para proteger a integridade e a segurança dos dados da sua conta, qualquer usuário podia ver os itens do menu lateral para seções restritas do Admin. Essas seções não estão mais visíveis. Agora, os usuários conseguem ver apenas os itens liberados para seu perfil de acesso.
 
-<div class="alert alert-info">
-Essa modificação tem baixo impacto nas operações da loja, uma vez que se trata de uma reorganização do menu de navegação à esquerda, e não de alterações nos perfis de acesso individuais.  Além disso, nenhuma configuração anterior será perdida; se seus usuários já tiverem perfis de acesso e permissões predefinidas, estes serão mantidos.
-</div>
+>ℹ️ Essa modificação tem baixo impacto nas operações da loja, uma vez que se trata de uma reorganização do menu de navegação à esquerda, e não de alterações nos perfis de acesso individuais.  Além disso, nenhuma configuração anterior será perdida; se seus usuários já tiverem perfis de acesso e permissões predefinidas, estes serão mantidos.
 
 ## O que mudou?
 Antes, os usuários podiam ver todos os itens do menu lateral do Admin, incluindo seções que eles não tinham permissão para acessar. Por exemplo, um usuário com o [perfil de acesso de operador de call center](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#call-center-operator) não tem acesso ao Master Data, mas essa opção estaria visível em seu menu lateral.

@@ -3,8 +3,8 @@ title: 'Configurar pagamento com SIBS'
 id: sNLPtJlAMnDpq40CCPKNo
 status: PUBLISHED
 createdAt: 2023-04-06T18:57:27.591Z
-updatedAt: 2023-04-06T19:07:28.327Z
-publishedAt: 2023-04-06T19:07:28.327Z
+updatedAt: 2024-01-25T19:05:01.739Z
+publishedAt: 2024-01-25T19:05:01.739Z
 firstPublishedAt: 2023-04-06T19:07:28.327Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-sibs
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento SIBS. Com este conector, sua loja pode realizar vendas por meio de cartão de crédito SIBS, Promissórias, MBWay e MultiBanco.
+Na VTEX, é possível realizar a integração com o provedor de pagamento SIBS. Por meio deste provedor, sua loja pode realizar vendas por meio de cartão de crédito SIBS, Promissórias, MBWay e MultiBanco.
 
-Para configurar a afiliação SIBS, siga os passos abaixo:
+Para configurar SIBS, siga os passos abaixo:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __SIBS__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __SIBS__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta SIBS.
 5. Em __Captura Automática de Pagamento__, selecione uma das opções disponíveis:
 
@@ -38,5 +38,5 @@ Para configurar os métodos de pagamento a serem processados pela SIBS, acesse [
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
 
-Depois de seguir os passos indicados, o conector SIBS pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 
+Depois de seguir os passos indicados, SIBS pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 
 

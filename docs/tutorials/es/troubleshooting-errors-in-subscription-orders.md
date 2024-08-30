@@ -3,8 +3,8 @@ title: 'Cómo solucionar errores en pedidos de suscripción'
 id: uLL8AYBGdtAmbbdL5gRCf
 status: PUBLISHED
 createdAt: 2020-02-05T14:32:49.763Z
-updatedAt: 2022-12-05T17:09:40.639Z
-publishedAt: 2022-12-05T17:09:40.639Z
+updatedAt: 2023-12-21T14:07:42.772Z
+publishedAt: 2023-12-21T14:07:42.772Z
 firstPublishedAt: 2020-02-11T15:00:00.666Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,8 @@ locale: es
 legacySlug: como-resolver-pedidos-de-suscripcion-con-errores
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
+
+>ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 Es posible identificar y gestionar errores en pedidos de suscripción a través del módulo **Suscripciones** > **Dashboards** > **Pedidos de suscripción** en el Admin.
 

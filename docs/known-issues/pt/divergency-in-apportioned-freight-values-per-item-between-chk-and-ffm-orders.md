@@ -18,9 +18,7 @@ internalReference: 321111
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em alguns casos, os valores de remessa repartidos por item entre o mercado (lado do checkout) e o vendedor (lado do cumprimento) os pedidos podem ser divergentes.

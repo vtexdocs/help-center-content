@@ -3,8 +3,8 @@ title: 'Configurar o Google Tag Manager'
 id: frequentlyAskedQuestions_616
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:56.745Z
-updatedAt: 2023-05-12T15:09:43.299Z
-publishedAt: 2023-05-12T15:09:43.299Z
+updatedAt: 2023-07-17T13:33:10.627Z
+publishedAt: 2023-07-17T13:33:10.627Z
 firstPublishedAt: 2019-01-24T22:13:48.493Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,9 +15,7 @@ legacySlug: integracao-com-o-google-tag-manager
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-<div class="alert alert-warning">
-Se sua loja é desenvolvida com base no <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">VTEX IO</a>, para fazer a integração funcionar em todas as páginas é necessário também instalar o aplicativo do pixel do Google Tag Manager. Veja como fazer isso na <a href="https://developers.vtex.com/vtex-developer-docs/docs/google-tag-manager">documentação sobre a app</a>.
-</div>
+>⚠️ Se sua loja é desenvolvida com base no [Store framework](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), para fazer a integração funcionar em todas as páginas é necessário também instalar o aplicativo do pixel do Google Tag Manager. Veja como fazer isso na [documentação sobre a app](https://developers.vtex.com/vtex-developer-docs/docs/google-tag-manager).
 
 O Google Tag Manager é um sistema de gerenciamento de tags criado pelo Google para gerenciar tags JavaScript e HTML usadas para tracking e analytics de sites da web.
 
@@ -53,13 +51,11 @@ Depois, você deve configurar o código de identificação da loja no Tag Manage
 
 Para verificar eventos (acionadores) e variáveis disponíveis nas páginas, que serão usados nas tags, você pode utilizar o modo de visualização do Google Tag Manager. Consulte a [documentação do Google Tag Manager](https://support.google.com/tagmanager/answer/6107056?hl=pt-BR) para mais detalhes.
 
-<div class="alert alert-info">
-É possível usar o *pixel app* do Facebook junto ao Google Tag Manager da sua loja para acompanhar e otimizar os resultados das suas campanhas de marketing na rede social. Aprenda o passo a passo <a href="https://www.facebook.com/business/help/1021909254506499">na documentação do Facebook</a>.
-</div>
+>ℹ️ É possível usar o *pixel app* do Facebook junto ao Google Tag Manager da sua loja para acompanhar e otimizar os resultados das suas campanhas de marketing na rede social. Aprenda o passo a passo [na documentação do Facebook](https://www.facebook.com/business/help/1021909254506499).
 
 ## VTEX IO: instalar pixel app do Google Tag Manager
 
-Se a sua loja utiliza [VTEX IO](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), além da configuração, será necessário instalar uma nova versão do app Google Tag Manager. Para mais informações, acesse [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
+Se a sua loja utiliza [VTEX IO - Store Framework](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), além da configuração, será necessário instalar uma nova versão do app Google Tag Manager. Para mais informações, acesse [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
 
 Esta etapa não é necessária para lojas que utilizam [CMS - Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
 

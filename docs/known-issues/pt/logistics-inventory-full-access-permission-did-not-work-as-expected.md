@@ -1,5 +1,5 @@
 ---
-title: 'A permissão de "acesso total ao inventário logístico" não funcionou como esperado'
+title: "A permissão de 'acesso total ao inventário logístico' não funcionou como esperado"
 id: 6F11U5C6cULOeJ3Jo5AgAc
 status: PUBLISHED
 createdAt: 2022-04-27T14:16:03.358Z
@@ -18,9 +18,7 @@ internalReference: 482353
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 

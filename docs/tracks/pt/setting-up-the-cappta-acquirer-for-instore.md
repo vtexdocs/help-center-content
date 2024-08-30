@@ -18,17 +18,14 @@ Para permitir transações por meio de máquinas de cartão usando o inStore, vo
 
 A __Cappta__ é um sub-adquirente homologado pelo inStore no Brasil.
 
-<div class="alert alert-warning">
-Se você deseja usar a Cappta em um país diferente ou se deseja usar outro adquirente que não está homologado atualmente, precisará criar a integração com o aplicativo desse adquirente. Para fazer isso, consulte o artigo <a href="https://help.vtex.com/pt/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod"> Integrar o inStore a um novo adquirente de pagamento</a>.
-</div>
+>⚠️ Se você deseja usar a Cappta em um país diferente ou se deseja usar outro adquirente que não está homologado atualmente, precisará criar a integração com o aplicativo desse adquirente. Para fazer isso, consulte o artigo [ Integrar o inStore a um novo adquirente de pagamento](https://help.vtex.com/pt/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod).
 
-<div class="alert alert-info">
-Atualmente, a Cappta é suportada pelas seguintes plataformas e dispositivos:
-<ol>
-<li>Windows 8 ou superior, com máquina de cartão Ingenico USB</li>
-<li>Android</li>
-</ol>
-</div>
+>ℹ️ Atualmente, a Cappta é suportada pelas seguintes plataformas e dispositivos:
+>
+> Windows 8 ou superior, com máquina de cartão Ingenico USB
+>
+> Android
+> 
 
 Antes de instalar o aplicativo da Cappta, verifique se você concluiu a etapa anterior de configuração do módulo de Pagamentos. Se tiver concluído essa etapa, siga os passos abaixo para instalar e configurar o adquirente Cappta para o inStore.
 
@@ -49,9 +46,7 @@ Atualmente, a integração funciona para sistemas Android e Windows. Se você es
 - **Android**: o fluxo de configuração do aplicativo é igual a qualquer outro aplicativo instalado em um smartphone ou tablet. Abra o aplicativo e inserir as informações de acesso (CNPJ, POS, Senha). Se você não souber essas informações, entre em contato com a Cappta.
 - **Windows**: Para configurar, execute o arquivo .exe e preencher as informações de acesso (CNPJ, POS, Senha). Se você não souber essas informações, entre em contato com a Cappta.
 
-<div class="alert alert-warning">
-Você deve se certificar de que a opção <strong>web checkout</strong> esteja ativada na sua conta Cappta.
-</div>
+>⚠️ Você deve se certificar de que a opção **web checkout** esteja ativada na sua conta Cappta.
 
 ## Parear a máquina de cartões
 

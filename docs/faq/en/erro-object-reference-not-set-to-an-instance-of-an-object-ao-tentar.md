@@ -1,5 +1,5 @@
 ---
-title: 'Error "object reference not set to an instance of an object" when uploading a freight spreadsheet'
+title: "Error 'object reference not set to an instance of an object' when uploading a freight spreadsheet"
 id: 51E8sNlQu40w0QWWg6mqGE
 status: PUBLISHED
 createdAt: 2018-10-01T16:23:51.945Z
@@ -20,9 +20,7 @@ This error occurs when a __column title of the freight spreadsheet__ is written 
 
 To solve the problem, it is necessary to adjust the title of the column to the correct name and upload the spreadsheet again.
 
-<div class="alert alert-warning">
-In case the spreadsheet is over 10 MB, you’ll need to compact it in .zip format. The .zip archive should have less than 10 MB. Otherwise, the upload won’t work.
-</div>
+>⚠️ In case the spreadsheet is over 10 MB, you’ll need to compact it in .zip format. The .zip archive should have less than 10 MB. Otherwise, the upload won’t work.
 
 ## Obtain the correct names of the column titles
 

@@ -38,7 +38,5 @@ A partir de 31 de maio, a versão beta da **Estratégia de envio** está dispon�
 
 Se após o teste você desejar voltar à versão antiga, no menu <i class="fas fa-ellipsis-v"></i> do canto superior da página, clique em `Voltar à versão anterior` e comente sobre o motivo. O retorno à experiência antiga será automático.
 
-<div class="alert alert-warning">
-A partir de 26 de julho, as novas interfaces de <b>Estratégia de envio</b> serão o padrão para todas as lojas VTEX.
-</div>
+>⚠️ A partir de 26 de julho, as novas interfaces de **Estratégia de envio** serão o padrão para todas as lojas VTEX.
 

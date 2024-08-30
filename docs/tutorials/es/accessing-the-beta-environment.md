@@ -1,10 +1,10 @@
 ---
-title: 'Acceder al ambiente beta por el dominio myvtex.com'
+title: 'Accede al entorno beta a través del dominio myvtex.com'
 id: 3BHM289568gcSwk2O80Asu
-status: PUBLISHED
+status: CHANGED
 createdAt: 2018-07-26T18:09:29.968Z
-updatedAt: 2019-12-31T15:26:39.674Z
-publishedAt: 2019-12-31T15:26:39.674Z
+updatedAt: 2024-03-13T12:00:57.622Z
+publishedAt: 2024-03-12T19:18:51.136Z
 firstPublishedAt: 2018-07-26T18:43:10.906Z
 contentType: tutorial
 productTeam: Reliability
@@ -15,26 +15,32 @@ legacySlug: acceder-al-ambiente-beta
 subcategory: Se4oi5LroIII2Ei0uGAoE
 ---
 
-En VTEX, todas las tiendas tienen un ambiente beta.
+En VTEX, todas las tiendas disponen de un entorno beta. En este entorno, los usuarios de la plataforma, ya sean retailers, desarrolladores u otras personas con acceso, pueden llevar a cabo pruebas para validar nuevas configuraciones o versiones de aplicaciones/servicios antes de implementar cambios en el entorno donde los clientes realizan sus compras, conocido como entorno de producción (stable).
 
-Este ambiente es un lugar de prueba para que el usuario de la plataforma pueda validar cambios en una tienda antes de promover los cambios al ambiente principal.
+>ℹ️ El entorno beta es una reproducción exacta del entorno de producción (stable), que incluye todos los datos y configuraciones de la tienda.
 
-## Cómo funciona el ambiente beta
+De esta manera, **cualquier modificación de datos en el entorno beta afecta a los datos en el entorno stable**.
 
-El ambiente beta funciona como un ambiente de prueba para diferentes versiones de aplicaciones/servicios de VTEX en su tienda. Es un ambiente que reproduce toda la información del ambiente principal (`stable`). Así, los datos de la tienda son los mismos, tanto en beta y en stable. De esta forma, __el cambio de datos en el ambiente beta afecta a los datos en el ambiente stable__.
+## Accede al entorno beta
 
-## Acceder al ambiente beta
+Para acceder al entorno beta de tu tienda debes habilitar la cookie <code>vtex-commerce-env</code>siguiendo estos pasos:
 
-El acceso al ambiente beta se encuentra al final del menú lateral del Admin. Sólo hay que hacer clic en `Usar beta` para acceder al ambiente de prueba.
+<ol start="1">
+  <li>En el Admin VTEX, accede a la pantalla DevTools en tu navegador presionando la tecla <code>F12</code> o haciendo clic derecho y seleccionando la opción <b>Inspeccionar</b>.
+.</li>
+  <li>En la barra superior de la pantalla accede a la pestaña <b>Aplicación</b>, y en la barra lateral izquierda, en Cookies, haz clic en la URL de tu tienda.
 
-![politica-comercial-es](https://images.ctfassets.net/alneenqid6w5/6opF8h3ijmqoIkam4ugAim/d194277f2d7e26fc52fc967a866b7e4a/usar-beta-es.png)
+</li>
+  <li>En la tabla, ingresa la siguiente información en las celdas de la última fila:
+</li>
+  <ul>
+<li>Nombre: <code>vtex-commerce-env</code></li>
+<li>Valor: <code>beta</code>
+</li>
+</ul>
+<img src="https://images.ctfassets.net/alneenqid6w5/3g8wintA1heJbzdV8J0s45/8eb6f5917e2d9d8a134b81231dc42728/Ambiente_beta_.png" alt="beta">
+<li>Actualiza la página presionando <code>F5</code> o la tecla de actualización de tu navegador. Una vez que a página se haya cargado, el Admin de la tienda ya estará en el entorno beta.
+</li>
+</ol>
 
-<div class="alert alert-info">
-Para volver al ambiente principal, haga clic en <code>Usar stable</code>, también ubicado al final del menú lateral del Admin.
-</div>
-
-## Comprobar cambios en el ambiente beta
- 
-Para acceder a su tienda en modo beta y comprobar cómo los cambios realizados afectaron a su store front, basta con hacer clic en el botón `VISITE LA TIENDA` después de haber realizado el acceso al ambiente beta descrito en el paso anterior.
-
-![visite-a-loja-beta-es](https://images.ctfassets.net/alneenqid6w5/7H26DYk6Oc0moGgckKu2gE/a44101d0044c62582c6af8c364157958/visite-a-loja-beta-es.png)
+>ℹ️ Para restaurar la tienda a su entorno principal, accede nuevamente a la pantalla DevTools de tu navegador y elimina la cookie vtex-commerce-env. Actualiza la página una vez más para volver al entorno de producción **stable**.

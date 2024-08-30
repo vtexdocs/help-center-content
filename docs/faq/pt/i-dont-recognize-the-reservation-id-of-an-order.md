@@ -3,8 +3,8 @@ title: 'Não reconheço o ID de reserva de um pedido. O que pode ter acontecido?
 id: tja793G4XAWI2K8uIC4uW
 status: PUBLISHED
 createdAt: 2018-03-05T21:07:36.301Z
-updatedAt: 2023-03-22T20:28:58.311Z
-publishedAt: 2023-03-22T20:28:58.311Z
+updatedAt: 2024-02-05T18:01:17.750Z
+publishedAt: 2024-02-05T18:01:17.750Z
 firstPublishedAt: 2018-03-05T22:28:55.349Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
@@ -18,5 +18,4 @@ Isso pode estar acontecendo porque o pedido que você está visualizando ainda n
 
 Neste caso, você pode entrar em contato com seu marketplace ou esperar mais um pouco para verificar se as informações do pedido são atualizadas. Pois para não ter entrado na ferramenta de Integrações, o pedido pode ter sido cancelado ou até mesmo não ter sido criado.
 
-Se preferir, você pode verificar as informações referentes à reserva do seu pedido via [API](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/inventory/reservations).
-
+Se preferir, você pode verificar as informações referentes à reserva do seu pedido via Logistics API, usando o endpoint [List reservation by ID](https://developers.vtex.com/docs/api-reference/logistics-api?endpoint=get-/api/logistics/pvt/inventory/reservations/-reservationId-).

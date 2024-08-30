@@ -3,8 +3,8 @@ title: 'Llenar campos de registro de categoría'
 id: 5Z7RrvW41yumyQCmk2iqoG
 status: PUBLISHED
 createdAt: 2017-09-20T14:44:06.897Z
-updatedAt: 2022-08-01T18:47:26.486Z
-publishedAt: 2022-08-01T18:47:26.486Z
+updatedAt: 2024-01-04T14:40:33.174Z
+publishedAt: 2024-01-04T14:40:33.174Z
 firstPublishedAt: 2017-09-20T14:58:27.420Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -19,15 +19,16 @@ Para entender mejor el significado de cada campo del registro de categoría, vea
 
 - __Nombre:__ nombre que quiere dar al departamento o categoría. Utilice palabras sencillas y evite otros idiomas o escritura compleja. Este campo es importante para SEO y debe respetar el límite de 150 caracteres.
 
-  <div class="alert alert-danger">
-    <p>Al rellenar el <b>Nombre</b> de la categoría, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX. Consulta la lista de palabras reservadas a continuación.
-    <ul>
-      <li><code>a</code></li>
-                  <li><code>meta</code></li>
-            <li><code>api</code></li>
-      <li><code>admin</code></li>
-    </ul></p>
-  </div>
+  >❗ Al rellenar el **Nombre** de la categoría, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX. Consulta la lista de palabras reservadas a continuación.
+>
+> * `a`
+>
+> * `meta`
+>
+> * `api`
+>
+> * `admin`
+>     
 
 - __Palabras sustitutas:__ sinónimos o términos relacionados al nombre dado para su departamento o categoría. "Televisión", por ejemplo, puede tener "TV" como palabra sustituta. Este campo es importante para hacer sus búsquedas más amplias y debe respetar el límite de 200 caracteres.
 - __Título de la Página de la categoría (Tag Title):__ texto que queda en la pestaña del navegador y corresponde al título de la página de la categoría, importante para los motores de búsqueda y SEO. Este campo sólo admite texto plano y no puede contener etiquetas HTML.

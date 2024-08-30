@@ -17,9 +17,7 @@ subcategory: 2g6LxtasS4iSeGEqeYUuGW
 
 The `<vtex.cmc:searchResult/>` control renders a shop window with the products returned by a search made by the user.
 
-<div class="alert alert-info">
-This control works only on pages with search context, ie pages where the displayed results were brought by a search made by the user.
-</div>
+>ℹ️ This control works only on pages with search context, ie pages where the displayed results were brought by a search made by the user.
 
 When the user performs a search in the store, VTEX system tries to bring results according to a priority order of filters. Understand the search in the article [How VTEX search works](/en/tutorial/how-does-vtex-search-work).
 

@@ -1,10 +1,10 @@
 ---
 title: 'Estoque reservado em pedidos faturados'
 id: TfDOKEybi6eSAEoCEEAqg
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-06-13T18:43:58.606Z
-updatedAt: 2022-12-22T14:51:09.663Z
-publishedAt: 2022-12-22T14:51:09.663Z
+updatedAt: 2023-10-17T15:29:19.908Z
+publishedAt: 
 firstPublishedAt: 2017-06-14T00:07:07.051Z
 contentType: knownIssue
 productTeam: Post-purchase
@@ -24,7 +24,7 @@ Isso acontece quando o pedido está no status `Pronto para manuseio` e o cliente
 
 Exemplo com o fluxo do pedido:
 
-![2017-06-13 182850](//images.contentful.com/alneenqid6w5/5Skd8YsCcMIicCcEGyoqwG/1a1a839dc36cdb9f818240b68817de3e/2017-06-13_182850.jpg)
+![2017-06-13 182850](https://images.contentful.com/alneenqid6w5/5Skd8YsCcMIicCcEGyoqwG/1a1a839dc36cdb9f818240b68817de3e/2017-06-13_182850.jpg)
 
 Na etapa circulada do fluxo do pedido, o produto é faturado sem o reconhecimento da reserva.
 

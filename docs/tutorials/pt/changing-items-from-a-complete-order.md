@@ -3,8 +3,8 @@ title: 'Alteração de itens de um pedido finalizado'
 id: tutorials_190
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:22.411Z
-updatedAt: 2023-05-03T14:22:00.584Z
-publishedAt: 2023-05-03T14:22:00.584Z
+updatedAt: 2024-04-01T17:40:33.284Z
+publishedAt: 2024-04-01T17:40:33.284Z
 firstPublishedAt: 2017-04-27T23:00:47.264Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -22,10 +22,8 @@ Há duas formas de realizar a alteração de um pedido:
 * [Admin VTEX:](#como-alterar) é possível se o status do pedido estiver como `Preparando entrega`.
 * [API de alteração de pedidos:](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/changes) é possível, além de alterar itens, criar descontos e mudar o preço do pedido. A alteração só é possível se o status do pedido na API de pedidos for `handling` ou `waiting-for-fulfillment`.
 
-<div class="alert alert-warning">
-Após a alteração, o cliente recebe uma notificação por email caso o template <code>Change of information</code> (<a href="https://help.vtex.com/pt/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my">
-template de emails transacionais referentes ao pedido</a>) esteja habilitado na Central de Mensagens. O cliente recebe as mensagens com as informações que foram preenchidas no formulário de alteração de itens.
-</div>
+>⚠️ Após a alteração, o cliente recebe uma notificação por email caso o template `Change of information` (<a href="https://help.vtex.com/pt/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my">
+> template de emails transacionais referentes ao pedido</a>) esteja habilitado na Central de Mensagens. O cliente recebe as mensagens com as informações que foram preenchidas no formulário de alteração de itens.
 
 ## Cuidados e limitações
 
@@ -40,6 +38,7 @@ Antes de realizar as alterações no pedido, fique atento às restrições da fu
 * É preciso que o [adquirente](https://help.vtex.com/pt/tutorial/o-que-e-um-adquirente--7N1oRTG8dGmOiIugC0cs4E) aceite o novo valor da operação para que a alteração ocorra.
 * O acréscimo de valores só é permitido se pedido foi pago por [Promissória de Crédito](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ), [dinheiro](https://help.vtex.com/pt/tutorial/como-configurar-pagamento-customizado--tutorials_451) ou [controle de crédito](https://help.vtex.com/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0). Além disso, o [adquirente ](https://help.vtex.com/pt/tutorial/o-que-e-um-adquirente--7N1oRTG8dGmOiIugC0cs4E)deve permitir a operação sem o uso de CVV e duas operações de cobrança em um mesmo pedido.
 * A [reserva](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92)dos itens no inventário não é automática. É preciso atualizar manualmente a quantidade de itens que ainda estão disponíveis no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+* Não é possível [cancelar pedidos](https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível alterar o pedido.
 * Não é possível alterar um pedido com a transação finalizada. Para alterações no valor do pedido com desconto, por exemplo, o OMS leva em considera que ainda é possível alterar o valor da transação se o status mostrado em Detalhes da transação é diferente de `Finished`, mesmo se o valor já tenha sido liquidado.  
 * Não é possível fazer alterações em pedidos vindos de [marketplaces integrados com a VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) (tanto conectores nativos ou conectores de parceiros).
 * É possível alterar apenas pedidos que foram para manuseio, no status *Preparando entrega*.
@@ -73,6 +72,4 @@ Ao alterar ou remover itens de um pedido, o valor total do pedido é alterado. N
 
 O valor total do pedido será atualizado após a inserção da nota fiscal, e corresponde ao que é captado pelo gateway de pagamentos da VTEX. Caso um item seja devolvido, o sistema de Pagamentos da VTEX fará o estorno automaticamente ao cliente.
 
-<div class = "alert alert-info">
-A funcionalidade faturas parciais está disponível para toda a base de clientes VTEX, mas a liquidação parcial no gateway está em fase Beta. Além disso, para que as faturas parciais inseridas nos pedidos disparem liquidações parciais na transação, é necessário usar um conector que utiliza o <a href="https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m">Payment Provider Protocol</a>. Conectores legados não possuem suporte à funcionalidade.
-</div>
+>ℹ️ A funcionalidade faturas parciais está disponível para toda a base de clientes VTEX, mas a liquidação parcial no gateway está em fase Beta. Além disso, para que as faturas parciais inseridas nos pedidos disparem liquidações parciais na transação, é necessário usar um conector que utiliza o [Payment Provider Protocol](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Conectores legados não possuem suporte à funcionalidade.

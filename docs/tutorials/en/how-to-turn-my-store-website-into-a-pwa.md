@@ -1,10 +1,10 @@
 ---
 title: "How to turn my store's website into a PWA"
 id: 3i8VmYeToAUGKgo2kKK6I2
-status: PUBLISHED
+status: CHANGED
 createdAt: 2018-03-19T18:20:25.794Z
-updatedAt: 2023-03-29T13:18:46.962Z
-publishedAt: 2023-03-29T13:18:46.962Z
+updatedAt: 2024-05-07T14:04:52.042Z
+publishedAt: 2023-07-10T14:28:55.813Z
 firstPublishedAt: 2018-03-20T14:54:55.189Z
 contentType: tutorial
 productTeam: Others
@@ -23,9 +23,7 @@ PWA is the English abbreviation for Progressive Web App - a set of techniques us
 
 If you already have a website or web application, you can slowly implement the features that define a PWA, such as notifications, file caching, offline execution, and other features that make the user feel in a native application.
 
-<div class="alert alert-warning">
-VTEX <strong>platform</strong> does not have native features to turn your store into a PWA. It only provides the conditions for this implementation to be made. This resource is available natively for stores that were developed using VTEX IO Store Framework .
-</div>
+>⚠️ VTEX **platform** does not have native features to turn your store into a PWA. It only provides the conditions for this implementation to be made. This resource is available natively for stores that were developed using VTEX IO Store Framework .
 
 ## Google defines exactly what is expected from a PWA:
 
@@ -66,7 +64,7 @@ __To create the JSON, follow the step-by-step below:__
 
 __Your file should be imported into index.html, like this: __
 
-`<link rel="manifest" href="/files/manifest.json">`
+`<link rel="manifest" href="/arquivos/manifest.json">`
 
 After that, your web application could open a screen just like native apps.
 
@@ -84,7 +82,7 @@ __To create the script, follow the step-by-step below:__
 6. Program the functionality.
 7. To finish, click on __Save__
 
-Although the file is in `/files/service-worker.js`, it receives the `Service-Worker-Allowed` header with `/` value, which allows you to intercept requests from the site's root.
+Although the file is in `/arquivos/service-worker.js`, it receives the `Service-Worker-Allowed` header with `/` value, which allows you to intercept requests from the site's root.
 
 ### Third step
 

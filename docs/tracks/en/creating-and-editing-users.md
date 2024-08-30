@@ -3,8 +3,8 @@ title: 'Creating and editing users'
 id: 5enE0a0glnI0coEj7rRHBA
 status: PUBLISHED
 createdAt: 2019-11-22T15:16:38.307Z
-updatedAt: 2022-08-24T14:23:48.018Z
-publishedAt: 2022-08-24T14:23:48.018Z
+updatedAt: 2024-06-17T15:10:57.072Z
+publishedAt: 2024-06-17T15:10:57.072Z
 firstPublishedAt: 2020-01-13T14:33:11.563Z
 contentType: trackArticle
 productTeam: Identity
@@ -23,7 +23,7 @@ This is where we register the users that can access the administrative environme
 1. In the Account Management module, click on the **Users** tab.
 2. Click on the **New User** button.
 3. Enter the **Email** and **Full name**.
-4. Add or create the [roles](https://help.vtex.com/tutorial/configuring-access-profiles--tutorials_526) you want.
+4. Add or create the [roles](https://help.vtex.com/en/tutorial/gerenciando-usuarios--tutorials_512) you want.
 5. Click on the **Save** button.
 
 The user will receive an email confirming the registration, with a link to create a password.
@@ -46,6 +46,4 @@ You cannot change the email. To do this, it is necessary to make a new registrat
 2. Select the desired user and click on the **trash can** icon in the Actions column.
 3. Click on **confirm**.
 
-<div class="alert alert-info">
-Although integration tokens de integração are listed as users, they cannot be excluded. To disable them, navigate to <em>Account settings > Account management > Account</em> in your Admin panel and uncheck the <strong>Token Status</strong> field.
-</div>
+>ℹ️ Although integration tokens de integração are listed as users, they cannot be excluded. To disable them, navigate to *Account settings > Account management > Account* in your Admin panel and uncheck the **Token Status** field.

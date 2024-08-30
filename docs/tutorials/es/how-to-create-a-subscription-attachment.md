@@ -15,9 +15,7 @@ legacySlug: como-crear-un-anexo-de-suscripcion
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
 
- <div class="alert alert-info">
-  <p>Si utiliza el módulo de <strong>Suscripciones Beta</strong>, la forma más recomendable de crear un plan de suscripción es directamente en el módulo de <strong>Suscripciones</strong>. Lea el artículo <a href="https://help.vtex.com/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC">Cómo crear un plan de suscripción (Beta)</a> para obtener más información.</p>
-</div>
+ >ℹ️ Si utiliza el módulo de **Suscripciones Beta**, la forma más recomendable de crear un plan de suscripción es directamente en el módulo de **Suscripciones**. Lea el artículo [Cómo crear un plan de suscripción (Beta)](https://help.vtex.com/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) para obtener más información.
 
 El **Anexo de SKU** indica que la funcionalidad de Suscripción está activa para ese SKU y también cuál será la frecuencia disponible. 
 
@@ -41,9 +39,7 @@ Para crear un anexo de SKU, siga los pasos a continuación.
     * `vtex.subscription.prueba`
 5. Deje la casilla de selección **Anexo obligatorio** sin marcar.
 
-<div class="alert alert-warning">
-  <p>El campo <strong>Anexo obligatorio</strong> no se debe marcar. Si el anexo se marca como obligatorio, el sistema de <strong>Suscripciones</strong> intentará enviar un pedido de suscripción para un ítem que ya tiene un anexo obligatorio, lo que generará un error en el sistema. Si esto ocurre por equivocación, quite la marca de la casilla <strong>Anexo obligatorio</strong> y solicite al cliente de su tienda que intente realizar el pedido nuevamente.</p>
-</div>
+>⚠️ El campo **Anexo obligatorio** no se debe marcar. Si el anexo se marca como obligatorio, el sistema de **Suscripciones** intentará enviar un pedido de suscripción para un ítem que ya tiene un anexo obligatorio, lo que generará un error en el sistema. Si esto ocurre por equivocación, quite la marca de la casilla **Anexo obligatorio** y solicite al cliente de su tienda que intente realizar el pedido nuevamente.
 
 6. En **Status**, marque la casilla **Activa/Desactiva el anexo**, y haga clic en `Salvar` para guardar los cambios.
 
@@ -77,9 +73,7 @@ Siga las instrucciones a continuación para configurar la frecuencia y fechas de
 
         ![ES Assinatura Exemplo Valores month](https://images.ctfassets.net/alneenqid6w5/5tbntKlv4WeYUXQtM8EMGz/84d58a31d1b449fdbdfad60fae5dec0d/ES_Assinatura_Exemplo_Valores_month.png)
 
-<div class="alert alert-info">
-  <p>Si no se introduce ningún valor en el campo <strong>Valores permitidos</strong>, la fecha del ciclo de suscripción será el mismo día de la semana (si la frecuencia es semanal) o día del mes (si la frecuencia es mensual) del pedido original.</p>
-</div>
+>ℹ️ Si no se introduce ningún valor en el campo **Valores permitidos**, la fecha del ciclo de suscripción será el mismo día de la semana (si la frecuencia es semanal) o día del mes (si la frecuencia es mensual) del pedido original.
 
 ### Asociar el anexo a un SKU
 

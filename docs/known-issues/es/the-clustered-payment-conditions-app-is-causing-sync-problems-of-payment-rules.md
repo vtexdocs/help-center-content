@@ -18,9 +18,7 @@ internalReference: 391569
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La aplicación de condiciones de pago agrupadas está causando problemas de sincronización de las reglas de pago y hace que el método de pago desaparezca de la caja. la función está en Beta cerrada y no se ha instalado en las cuentas nuevas. Más detalles en la página **Habilitar condiciones de pago agrupadas en su tienda**.

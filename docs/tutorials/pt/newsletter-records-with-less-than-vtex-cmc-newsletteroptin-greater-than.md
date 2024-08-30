@@ -1,10 +1,10 @@
 ---
 title: 'Registros de Newsletter com controle <vtex.cmc:newsletterOptIn/>'
 id: xqKrRRHBscEI8O6UKi8eE
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-06-07T18:35:59.237Z
-updatedAt: 2023-03-31T11:24:39.916Z
-publishedAt: 2023-03-31T11:24:39.916Z
+updatedAt: 2023-12-08T18:44:28.114Z
+publishedAt: 
 firstPublishedAt: 2019-01-25T17:16:54.823Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

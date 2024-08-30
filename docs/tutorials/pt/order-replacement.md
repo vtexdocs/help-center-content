@@ -3,8 +3,8 @@ title: 'Substituição de pedidos'
 id: 2IK9mwQjBKseQmE8K8saO8
 status: PUBLISHED
 createdAt: 2018-02-20T19:29:21.502Z
-updatedAt: 2023-03-29T15:54:02.723Z
-publishedAt: 2023-03-29T15:54:02.723Z
+updatedAt: 2024-07-08T14:22:27.104Z
+publishedAt: 2024-07-08T14:22:27.104Z
 firstPublishedAt: 2018-02-20T20:24:08.083Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -19,9 +19,7 @@ subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 
 A [Alteração de itens](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190) é diferente da substituição de pedidos. Na substituição de pedido o cliente solicita as mudanças no pedido, e na alteração de itens a loja modifica o pedido.
 
-<div class="alert alert-danger">
-A funcionalidade está disponível para todas as lojas, no entanto, é preciso ativá-la para que seus clientes possam utilizá-la. 
-</div>
+>❗ A funcionalidade está disponível para todas as lojas, no entanto, é preciso ativá-la para que seus clientes possam utilizá-la.
 
 Neste artigo é possível consultar:
 
@@ -31,13 +29,11 @@ Neste artigo é possível consultar:
 
 ## Ativação da funcionalidade
 
-<div class="alert alert-danger">
-Se a Substituição de pedidos for ativada em lojas que têm customização na página Meus Pedidos, é preciso recriar a customização. A funcionalidade substitui a versão antiga da página (que está customizada) por uma página nova não customizada. Para esses casos, recomendamos que, antes de ativar a funcionalidade na sua loja, utilize um <a href="https://help.vtex.com/pt/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu">ambiente beta</a> e valide a ativação com customização.
-</div>
+>❗ Se a Substituição de pedidos for ativada em lojas que têm customização na página Meus Pedidos, é preciso recriar a customização. A funcionalidade substitui a versão antiga da página (que está customizada) por uma página nova não customizada. Para esses casos, recomendamos que, antes de ativar a funcionalidade na sua loja, utilize um [ambiente beta](https://help.vtex.com/pt/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu) e valide a ativação com customização.
 
 Para ativar a funcionalidade, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Configurações da loja > Pedidos > Configurações**, ou digite *Envio* na barra de busca no topo da página e selecione **Configurações da loja / Envio**.
+1. No Admin VTEX, acesse **Configurações da loja > Pedidos > Configurações**, ou digite *Pedidos* na barra de busca no topo da página e selecione **Configurações da loja / Pedidos**.
 2. Na aba **Gerais**, ao final da página, selecione o <a class="far fa-check-square"></a> em **Substituição do pedido**, ao lado de _Permitir que os clientes façam alterações em pedidos_.
 3. Clique em `Salvar`.
 
@@ -61,7 +57,7 @@ Os dados que podem ser alterados com a substituição de pedidos são:
 Não é possível realizar substituição de pedidos nos casos de:
 
 * [Pedidos incompletos](https://help.vtex.com/pt/tutorial/entendendo-os-pedidos-incompletos--tutorials_294): quando o pedido não está com todas as informações completas para ser finalizado na plataforma.
-* Transação compartilhada: pedidos com mais de um seller e pagamento realizado para o marketplace.
+* Transação compartilhada: pedidos com um seller ou mais e pagamento realizado para o marketplace.
 * Pedidos já modificados pela loja.
 * Pedidos com os seguintes status:
     * Verificando nota fiscal
@@ -83,8 +79,6 @@ Com a funcionalidade ativada, os clientes da sua loja têm acesso a uma nova pá
 
 Depois de clicar em `Alterar pedido` , o cliente é levado ao carrinho de compras e depois para o checkout, onde é possível realizar as alterações desejadas (endereço, tipo de entrega, forma de pagamento e SKU). O processo só é concluído quando a compra é finalizada. O cliente não é cobrado duas vezes pelo mesmo pedido.
 
-<div class="alert alert-warning">
-O aproveitamento do pagamento (utilizar o pagamento efetuado anteriormente) só pode ser usado se o valor do pedido novo for igual ao do pedido original. Se o pagamento anterior por cartão de crédito não for aproveitado, a cobrança anterior é automaticamente estornada.
-<p>Para formas de pagamento que expiram em até 2 dias (como boleto), o pagamento não pode ser reutilizado.
-</div>
+>⚠️ O aproveitamento do pagamento (utilizar o pagamento efetuado anteriormente) só pode ser usado se o valor do pedido novo for igual ao do pedido original. Se o pagamento anterior por cartão de crédito não for aproveitado, a cobrança anterior é automaticamente estornada.
+> <p>Para formas de pagamento que expiram em até 2 dias (como boleto), o pagamento não pode ser reutilizado.
 

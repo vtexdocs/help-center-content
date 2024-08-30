@@ -17,9 +17,7 @@ announcementSynopsisES: 'Usuarios solo verán los ítems del menú de la barra l
 
 Los [perfiles de acceso](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) permiten a las tiendas conceder y limitar el acceso de los usuarios a un subconjunto determinado de recursos en la plataforma. Aunque esto era suficiente para proteger la integridad y seguridad de su cuenta, los usuarios sí podían ver los ítems del menú de las secciones restringidas del Admin. Ahora las secciones no son visibles de manera que los usuarios solo ven los ítems a los que tienen acceso. 
 
-<div class="alert alert-info">
-Esta acción tiene bajo impacto en las operaciones de la tienda, dado que es una reorganización de la barra de navegación de la izquierda y no supone cambios a los perfiles de usuarios individuales.  Además, no se perderá ninguna configuración predefinida: si sus usuarios ya tenían perfiles y permisos predefinidos, no sufrirán ningún cambio.
-</div>
+>ℹ️ Esta acción tiene bajo impacto en las operaciones de la tienda, dado que es una reorganización de la barra de navegación de la izquierda y no supone cambios a los perfiles de usuarios individuales.  Además, no se perderá ninguna configuración predefinida: si sus usuarios ya tenían perfiles y permisos predefinidos, no sufrirán ningún cambio.
 
 ## ¿Qué cambió?
 

@@ -1,10 +1,10 @@
 ---
-title: 'Button "Cancel" inside the MyCards page not translated to Spanish'
+title: "Button 'Cancel' inside the MyCards page not translated to Spanish"
 id: 5wIEEoF7gTLYlWnANxDZ7h
 status: PUBLISHED
 createdAt: 2022-02-24T13:18:00.062Z
-updatedAt: 2022-11-25T22:07:29.627Z
-publishedAt: 2022-11-25T22:07:29.627Z
+updatedAt: 2024-02-16T20:25:05.684Z
+publishedAt: 2024-02-16T20:25:05.684Z
 firstPublishedAt: 2022-02-24T13:18:00.593Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: button-cancel-inside-the-mycards-page-not-translated-to-spanish
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 431200
 ---
 

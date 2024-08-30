@@ -3,8 +3,8 @@ title: 'O checkout permite proceder ao formulário de pagamento sem endereço de
 id: 3k9zxMq6Pl9WBnIz5Hy6Xf
 status: PUBLISHED
 createdAt: 2022-11-18T18:42:08.326Z
-updatedAt: 2022-11-25T23:17:39.653Z
-publishedAt: 2022-11-25T23:17:39.653Z
+updatedAt: 2024-02-16T20:27:39.990Z
+publishedAt: 2024-02-16T20:27:39.990Z
 firstPublishedAt: 2022-11-18T18:42:08.914Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-checkout-permite-proceder-ao-formulario-de-pagamento-sem-endereco-de-remessa-somente-na-iu
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 699317
 ---
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em um carrinho com SLA somente para entrega e o usuário digita um código postal correto, o checkout permite ao usuário prosseguir, no entanto, se o usuário retornar à página do carrinho novamente e mudar para a opção de retirada, então clique para continuar para a parte de pagamento, depois volte ao carrinho novamente, mude novamente para a opção de entrega e continue novamente, desta vez, o usuário vai para o formulário de pagamento. Além disso, há uma mensagem na parte do endereço de entrega dizendo que o componente está "esperando os dados para ser preenchido".

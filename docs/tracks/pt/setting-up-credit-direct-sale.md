@@ -3,8 +3,8 @@ title: 'Configurar Venda Direta - Crédito'
 id: 5rSTgGeCqEN7c9LmFbfqA
 status: PUBLISHED
 createdAt: 2021-09-27T20:09:51.763Z
-updatedAt: 2023-05-31T14:45:21.350Z
-publishedAt: 2023-05-31T14:45:21.350Z
+updatedAt: 2023-07-19T19:35:38.275Z
+publishedAt: 2023-07-19T19:35:38.275Z
 firstPublishedAt: 2021-09-27T20:35:59.233Z
 contentType: trackArticle
 productTeam: Shopping
@@ -24,6 +24,4 @@ Se você deseja receber pagamentos por cartão de crédito no VTEX Sales App, si
 6. Opcionalmente, você pode configurar condições especiais de pagamento clicando em `Adicionar condição especial`. Leia o artigo [Configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456) para mais informações.
 7. Clique em `Salvar`.
 
-<div class="alert alert-info">
-<p>Além das configurações acima, é necessário seguir o guia <strong><a href="https://help.vtex.com/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1">Definir meios de pagamento exibidos no VTEX Sales App</a></strong> para que as opções de pagamento sejam exibidas corretamente no aplicativo.</p>
-</div>
+>ℹ️ Além das configurações acima, é necessário seguir o guia **[Definir meios de pagamento exibidos no VTEX Sales App](https://help.vtex.com/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** para que as opções de pagamento sejam exibidas corretamente no aplicativo.

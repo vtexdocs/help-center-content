@@ -15,9 +15,7 @@ legacySlug: affiliates-program-app
 subcategory: 6GWaAkVqXQYN79ilMgUsPr
 ---
 
-<div class = "alert alert-info">
-The <b>Affiliates Program</b> is an app that is only supported by <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">VTEX IO</a> stores and is not available for stores that use <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Legacy Portal CMS</a> or <a href="https://www.faststore.dev/tutorials/cms/0#vtex-headless-cms">Headless CMS</a>. Please visit the Affiliates Program app developer guide to install and configure the app on your VTEX store. 
-</div>
+>ℹ️ The **Affiliates Program** is an app that is only supported by [VTEX IO](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) stores and is not available for stores that use [Legacy Portal CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) or [Headless CMS](https://www.faststore.dev/tutorials/cms/0#vtex-headless-cms). Please visit the Affiliates Program app developer guide to install and configure the app on your VTEX store.
 
 In the **Affiliates Program** app, an affiliate is someone who partners with your VTEX store to promote sales in exchange for a commission. The term is, therefore, different from the [usual concept of an affiliate at VTEX](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). 
 
@@ -48,9 +46,7 @@ The **affiliate profile page** is an interface where the affiliate can track and
 
 The **registration page** allows those who are interested in becoming affiliates to fill in their information to apply for VTEX store registration. 
 
-<div class = "alert alert-info">
-The affiliate pages are customizable. Learn more in the <a href="https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app">Affiliates Program app</a> developer's guide.
-</div>
+>ℹ️ The affiliate pages are customizable. Learn more in the [Affiliates Program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app) developer's guide.
 
 ### VTEX Admin pages
 
@@ -86,9 +82,7 @@ Click the `Add Affiliate` button to create a new affiliate, fill in the fields d
 
 Enter any of the following information in the search bar to search for an affiliate: _Affiliate ID, Name, Store Name, Email_, or _Phone_.
 
-<div class="alert alert-warning">
-In the <b>Affiliates Program app</b>, not only is the term affiliate different from the <a href="https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0">usual VTEX affiliate concept</a>, but the <code>Affiliate ID</code> does not correspond to the default code. In the app, the <code>Affiliate ID</code> is an alphanumeric code automatically generated when you create a new affiliate.
-</div>
+>⚠️ In the **Affiliates Program app**, not only is the term affiliate different from the [usual VTEX affiliate concept](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), but the `Affiliate ID` does not correspond to the default code. In the app, the `Affiliate ID` is an alphanumeric code automatically generated when you create a new affiliate.
 
 ### Filtering affiliates
 
@@ -131,9 +125,7 @@ At the top of the page, you see the following metrics about orders placed throug
 - **Order Total:** Sum of the order values, calculated from the item prices without shipping costs.
 - **Order Total Commission:**  Sum of the amounts of affiliate commissions on orders.
 
-<div class = "alert alert-info">
-To track an order flow, click the <code>Order ID</code>. This will redirect you to the VTEX Admin under <b>Orders > All Orders</b>.
-</div>
+>ℹ️ To track an order flow, click the `Order ID`. This will redirect you to the VTEX Admin under **Orders > All Orders**.
 
 ### Searching for orders
 
@@ -150,9 +142,7 @@ You can filter the order search by the following criteria:
 
 The **Affiliates Program app** allows you to export a list with a CSV extension of your affiliate orders. 
 
-<div class="alert alert-warning">
-To enable the list export function, you must first set up email templates described in the <a href="https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#email-templates">Affiliates Program app</a> developer's guide.
-</div>
+>⚠️ To enable the list export function, you must first set up email templates described in the [Affiliates Program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#email-templates) developer's guide.
 
 After configuration, click **Export** on the **Order Management** page to export the list. The following confirmation message will be displayed:
 
@@ -201,9 +191,7 @@ To export a SKU commission spreadsheet with a CSV extension, at the top of the *
 
 The file will be sent to the email address of the [user](https://help.vtex.com/en/tutorial/gerenciando-usuarios--tutorials_512) who is currently logged in.
 
-<div class = "alert alert-info">
-The exported content refers to the list SKU commissions at the time of export. Only the selected SKU commissions will be exported if a filter is active.
-</div>
+>ℹ️ The exported content refers to the list SKU commissions at the time of export. Only the selected SKU commissions will be exported if a filter is active.
 
 ### Importing commissions
 
@@ -219,9 +207,7 @@ Check if the following message is displayed:
 
 The name of the submitted fileadded file name will appear next to the `Last Import` field.
 
-<div class = "alert alert-info">
-You can identify the import information and the user by hovering over the <code>?</code> symbol next to <code>Last Import</code>.
-</div>
+>ℹ️ You can identify the import information and the user by hovering over the `?` symbol next to `Last Import`.
 
 ### Downloading the last import
 

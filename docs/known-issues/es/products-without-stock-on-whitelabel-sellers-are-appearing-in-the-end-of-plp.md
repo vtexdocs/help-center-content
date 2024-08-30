@@ -3,8 +3,8 @@ title: 'Los productos sin stock en los vendedores de marca blanca aparecen en el
 id: 5WCKWky2gKGTZyp9ydnFnL
 status: PUBLISHED
 createdAt: 2022-04-20T15:52:50.807Z
-updatedAt: 2022-11-25T21:57:51.904Z
-publishedAt: 2022-11-25T21:57:51.904Z
+updatedAt: 2024-07-01T18:48:10.012Z
+publishedAt: 2024-07-01T18:48:10.012Z
 firstPublishedAt: 2022-04-20T15:52:51.421Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -12,15 +12,13 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: los-productos-sin-stock-en-los-vendedores-de-marca-blanca-aparecen-en-el-final-de-la-plp
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 495741
 ---
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Los productos que no tienen stock en los vendedores de WL aparecen al final del PLP.

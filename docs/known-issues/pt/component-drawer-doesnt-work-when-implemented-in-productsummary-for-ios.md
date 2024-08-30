@@ -3,8 +3,8 @@ title: 'A gaveta de componentes não funciona quando implementada no resumo do p
 id: 75145kfQE8swAef57Yr4Aj
 status: PUBLISHED
 createdAt: 2023-05-29T13:22:57.856Z
-updatedAt: 2023-05-29T13:22:58.422Z
-publishedAt: 2023-05-29T13:22:58.422Z
+updatedAt: 2024-02-19T18:51:53.024Z
+publishedAt: 2024-02-19T18:51:53.024Z
 firstPublishedAt: 2023-05-29T13:22:58.422Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -18,9 +18,7 @@ internalReference: 833338
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o componente "drawer" (gaveta) é implementado em "product-summary" (resumo do produto), ele faz com que a página seja recarregada após a página 3 no iOS, e uma mensagem de erro pode ser exibida.

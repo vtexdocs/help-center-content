@@ -18,9 +18,7 @@ internalReference: 575219
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Alguns pedidos de vendedores nativos (incluindo o "vendedor 1") foram relatados como não devolvendo alguns detalhes sobre o objeto SLA de envio, como o "transitTime" ou mesmo "deliveryIds". Mas as informações estão disponíveis no pedido de cumprimento (do lado do vendedor).

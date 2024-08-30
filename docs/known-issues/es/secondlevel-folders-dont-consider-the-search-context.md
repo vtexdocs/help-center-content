@@ -1,5 +1,5 @@
 ---
-title: 'Las carpetas de segundo nivel no consideran el "contexto de búsqueda"'
+title: "Las carpetas de segundo nivel no consideran el 'contexto de búsqueda'"
 id: 6WvlorgpBEeIuKk2mprMXm
 status: PUBLISHED
 createdAt: 2019-02-17T19:55:07.529Z
@@ -18,9 +18,7 @@ internalReference:
 
 ## Sumario
 
-<div class = "alert alert-warning">
-  <strong>Atención</strong>: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
-</div>
+>⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
 
 Las carpetas de segundo nivel no están considerando el "contexto de búsqueda" que se ha registrado para ella. El _slug_ del segundo nivel de la dirección URL está actuando como un filtro de la primera carpeta (según su contexto).
 

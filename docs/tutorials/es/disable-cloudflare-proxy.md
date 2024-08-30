@@ -25,7 +25,5 @@ Para desactivar el proxy de CloudFlare (y, en consecuencia, deshabilite los serv
 
 Observa que si el proxy está activado, el ícono será de color naranja con el texto __*Proxied*__. De lo contrario, el ícono se mostrará en gris con el texto __*DNS Only*__.
 
-<div class="alert alert-info">
-Si deseas utilizar el CDN y el WAF de Cloudflare, puedes insertar un proxy inverso frente a los servicios de VTEX. Ten en cuenta que esta configuración no se recomienda, ya que VTEX ya ofrece servicios de CDN y WAF en su propio servicio de borde. Las fallas de CDN externos no implican fallas en los sistemas de VTEX. No tenemos ninguna responsabilidad sobre los CDN de terceros. 
-</div>
+>ℹ️ Si deseas utilizar el CDN y el WAF de Cloudflare, puedes insertar un proxy inverso frente a los servicios de VTEX. Ten en cuenta que esta configuración no se recomienda, ya que VTEX ya ofrece servicios de CDN y WAF en su propio servicio de borde. Las fallas de CDN externos no implican fallas en los sistemas de VTEX. No tenemos ninguna responsabilidad sobre los CDN de terceros.
 

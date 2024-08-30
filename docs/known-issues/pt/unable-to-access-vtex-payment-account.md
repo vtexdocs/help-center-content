@@ -18,9 +18,7 @@ internalReference: 550244
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Uma mensagem de erro é exibida quando se tenta acessar o módulo de pagamento VTEX

@@ -3,8 +3,8 @@ title: 'Importar e exportar planilha de estoque'
 id: tutorials_2034
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:43.488Z
-updatedAt: 2023-03-29T14:51:46.368Z
-publishedAt: 2023-03-29T14:51:46.368Z
+updatedAt: 2023-07-24T15:03:49.647Z
+publishedAt: 2023-07-24T15:03:49.647Z
 firstPublishedAt: 2017-04-27T23:03:50.695Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -68,6 +68,4 @@ A seguir, confira o significado de cada campo da planilha de estoque.
 - **LockIds** (texto): Código identificador da reserva.  
 - **DispatchedReservations** (número): número de itens do SKU que já passaram do status `Pronto para manuseio`, ou seja, cujas reservas já caíram.  
 
-<div class = "alert alert-info">
-  Para incluir um item com estoque infinito, é preciso preencher o campo <b>TotalQuantity</b> com o valor <code>1000000</code> e alterar o campo <b>UnlimitedQuantity</b> para <code>True</code>. 
-</div>
+>ℹ️ Para incluir um item com estoque infinito, é preciso preencher o campo **TotalQuantity** com o valor `1000000` e alterar o campo **UnlimitedQuantity** para `True`.

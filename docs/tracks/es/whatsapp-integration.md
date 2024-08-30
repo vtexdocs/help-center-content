@@ -1,10 +1,10 @@
 ---
 title: 'Integración con WhatsApp'
 id: 33sM0SVrwffWhAhAgiGrZb
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-08-23T15:11:28.551Z
-updatedAt: 2023-04-25T20:26:48.598Z
-publishedAt: 2023-04-25T20:26:48.598Z
+updatedAt: 2024-01-05T17:14:09.083Z
+publishedAt: 
 firstPublishedAt: 2022-08-23T17:47:05.529Z
 contentType: trackArticle
 productTeam: Shopping
@@ -45,7 +45,7 @@ Además de enviar esta información, el administrador debe autorizar los siguien
 También recomendamos [verificar tu tienda con Meta](https://www.facebook.com/business/help/1095661473946872?id=180505742745347). Esta etapa es opcional para la integración, pero es obligatoria si:
 
 * Deseas iniciar conversaciones, como avisar a los clientes del seguimiento de sus productos a través de WhatsApp.
-* Deseas que tu cuenta comercial sea [oficial](https://developers.facebook.com/micro_site/url/?click_from_context_menu=true&country=BR&destination=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fwhatsapp%2Foverview%2Fbusiness-accounts%2F%3Ftranslation%23official-business-account&event_type=click&last_nav_impression_id=0txQ0CoZfJfxi7cez&max_percent_page_viewed=44&max_viewport_height_px=869&max_viewport_width_px=1794&orig_http_referrer=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fwhatsapp%2Foverview%2Fbusiness-accounts%2F%3Ftranslation&orig_request_uri=https%3A%2F%2Fdevelopers.facebook.com%2Fajax%2Fdocs%2Fnav%2F%3Ftranslation%26path1%3Dwhatsapp%26path2%3Doverview%26path3%3Dbusiness-accounts&region=latam&scrolled=true&session_id=2nAsnwfEzmFrzLZoM&site=developers), es decir, que permita mostrar el nombre de tu tienda en vez del número de teléfono en la lista junto con el sello <img src="https://images.ctfassets.net/alneenqid6w5/4DNjQiVYTI24Wjt3t9CRfG/8e1ec0ab6bb167b4ff0de2547243354f/101835379_284952909300321_643050663994982400_n.png" alt="selo oficial whatsapp" width="25"/>.
+* Deseas que tu cuenta comercial sea [oficial](https://developers.facebook.com/micro_site/url/?click_from_context_menu=true&country=BR&destination=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fwhatsapp%2Foverview%2Fbusiness-accounts%2F%3Ftranslation%23official-business-account&event_type=click&last_nav_impression_id=0txQ0CoZfJfxi7cez&max_percent_page_viewed=44&max_viewport_height_px=869&max_viewport_width_px=1794&orig_http_referrer=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fwhatsapp%2Foverview%2Fbusiness-accounts%2F%3Ftranslation&orig_request_uri=https%3A%2F%2Fdevelopers.facebook.com%2Fajax%2Fdocs%2Fnav%2F%3Ftranslation%26path1%3Dwhatsapp%26path2%3Doverview%26path3%3Dbusiness-accounts&region=latam&scrolled=true&session_id=2nAsnwfEzmFrzLZoM&site=developers), es decir, que permita mostrar el nombre de tu tienda en vez del número de teléfono en la lista junto con el sello <img src="//images.ctfassets.net/alneenqid6w5/4DNjQiVYTI24Wjt3t9CRfG/8e1ec0ab6bb167b4ff0de2547243354f/101835379_284952909300321_643050663994982400_n.png" alt="selo oficial whatsapp" width="25"/>.
 
 ## Creación por parte del cliente en el Admin VTEX
 

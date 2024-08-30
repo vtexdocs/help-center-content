@@ -3,8 +3,8 @@ title: 'Crear servicio para un SKU'
 id: tutorials_252
 status: PUBLISHED
 createdAt: 2017-04-27T22:12:00.282Z
-updatedAt: 2023-05-04T13:15:14.224Z
-publishedAt: 2023-05-04T13:15:14.224Z
+updatedAt: 2024-03-04T22:36:04.117Z
+publishedAt: 2024-03-04T22:36:04.117Z
 firstPublishedAt: 2017-04-27T23:03:11.914Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -40,17 +40,10 @@ Para registrar un tipo de servicio, sigue los pasos a continuación:
 En esta sección debes registrar un nombre para tu tipo de servicio y configurar su comportamiento de acuerdo con las opciones que se indican a continuación.
 
 - **Nombre:** es el nombre del tipo de servicio.
-- **Exhibe en el producto:** opción para mostrar el tipo de servicio en la página del producto.
-- **Exhibe en el carrito:** opción para mostrar el tipo de servicio en el carrito.
-- **Exhibe en el servicio:** opción para mostrar el tipo de servicio en la página de servicios.
 - **Tarjeta de regalo:** opción para mostrar el tipo de servicio en la tarjeta de regalo.
 - **Servicio obligatorio:** opción que hace que el tipo de servicio sea obligatorio.
 - **Status:** opción que activa o desactiva el tipo de servicio.
-- **Anexos:** selección de los anexos que se añadirán al tipo de servicio. El anexo se utiliza para añadir una información personalizada al servicio. Para saber más, lee nuestro artículo ¿Qué es un Anexo?.
-
-<div class = "alert alert-warning">
-  <p>Para mostrar el servicio en la página del producto, debes activar la opción <b>Exhibe en el produto</b> y añadir el control <code><vtex.cmc:stockKeepingUnitService/></code> a la página del producto en el CMS. Para más información, lee nuestro artículo <a href ="https://help.vtex.com/es/tutorial/que-son-controles--6e2qsk9zu8IQuyEysKweag" >¿Qué son los controles?</a>.</p> 
-</div>
+- **Anexos:** selección de los anexos que se añadirán al tipo de servicio. El anexo se utiliza para añadir una información personalizada al servicio. Para saber más, lee nuestro artículo [¿Qué es un Anexo?](https://help.vtex.com/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm).
 
 ## Crear un valor de servicio y asociarlo a un tipo de servicio
 Después de registrar el tipo de servicio, debes asignarle un valor. Para registrar el valor de un tipo de servicio, sigue los pasos a continuación:
@@ -82,9 +75,7 @@ Para vincular un servicio a un SKU, sigue los pasos a continuación:
 5. Haz clic en `Exportar`.
 6. Guarda la plantilla en formato CSV que se exportará en su ordenador.
 7. Rellena los [campos de la plantilla](#campos-de-la-plantilla). Mantén el formato CSV del archivo al guardar los cambios.
-<div class = "alert alert-warning">
-  <p>El tamaño del archivo de la plantilla no debe superar los 4Mb (4096KB).</p>
-</div>
+>⚠️ El tamaño del archivo de la plantilla no debe superar los 4Mb (4096KB).
 8. Haz clic en la barra que se encuentra junto al botón `Select`, que se muestra a continuación.
   ![Anexos - ES](https://images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/844c4cb0282e3b4e32c9b494906b0597/sku-services-ES.png)
 9. Selecciona la plantilla CSV actualizada.
@@ -93,9 +84,7 @@ Para vincular un servicio a un SKU, sigue los pasos a continuación:
 ### Campos de la plantilla
 Maneja la plantilla con cuidado, comprobando siempre que la información está correctamente rellenada. Todos los campos de la plantilla deben rellenarse para evitar errores.
 
-<div class="alert alert-warning">
-  <p>Al rellenar la plantilla, no cambie ni elimine los títulos de las columnas en la línea 1. Rellene los valores deseados en las líneas posteriores a los títulos de las columnas para que la importación funcione correctamente.</p>
-</div>  
+>⚠️ Al rellenar la plantilla, no cambie ni elimine los títulos de las columnas en la línea 1. Rellene los valores deseados en las líneas posteriores a los títulos de las columnas para que la importación funcione correctamente.  
 
 - **Nome Serviço:** es el nombre del servicio.
 - **Texto Serviço:** es el texto que se mostrará junto con el servicio.
@@ -112,6 +101,4 @@ Maneja la plantilla con cuidado, comprobando siempre que la información está c
 - **Custo:** es el costo del servicio para la tienda.
 - **Ativo:** es el status del servicio. Introduce `1` para mantener el servicio activo y `0` para mantenerlo inactivo.
 
-<div class = "alert alert-warning">
-  <p>Añadir una nueva plantilla no sustituirá los servicios ya vinculados al SKU. Para desvincular un servicio, utiliza el <i>endpoint</i> <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU Service</a>.</p>
-</div>
+>⚠️ Añadir una nueva plantilla no sustituirá los servicios ya vinculados al SKU. Para desvincular un servicio, utiliza el <i>endpoint</i> <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU Service</a>.

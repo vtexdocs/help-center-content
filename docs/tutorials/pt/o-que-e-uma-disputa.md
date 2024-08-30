@@ -27,9 +27,7 @@ Geralmente, isso acontece quando:
 
 Desse modo, existem duas possibilidades para o resultado de uma disputa: ou o lojista ganha a disputa e fica com o dinheiro da compra ou perde e ocorre o chargeback. 
 
-<div class="alert alert-info">
-<strong>Atenção</strong>: o chargeback é um tipo de estorno típico do cenário de e-commerce. Aqui, compras feitas por meio de cartão de crédito são canceladas ou estornadas quando o titular do cartão ganha a disputa.
-</div>
+>ℹ️ **Atenção**: o chargeback é um tipo de estorno típico do cenário de e-commerce. Aqui, compras feitas por meio de cartão de crédito são canceladas ou estornadas quando o titular do cartão ganha a disputa.
 
 Nesse cenário, o VTEX Payment fica responsável por:
 

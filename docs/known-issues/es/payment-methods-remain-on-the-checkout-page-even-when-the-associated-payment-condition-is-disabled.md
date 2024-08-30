@@ -18,9 +18,7 @@ internalReference: 649237
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunos métodos de pago permanecen en la página de pago incluso cuando la condición de pago asociada está desactivada durante más de 10 minutos. Este es un problema intermitente y no hay pruebas sobre cómo reproducir este comportamiento

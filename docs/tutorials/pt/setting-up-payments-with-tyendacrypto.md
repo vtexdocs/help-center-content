@@ -3,8 +3,8 @@ title: 'Configurar pagamento com TiendaCrypto'
 id: 7qC52v2j7q7B0YUtLnW2I9
 status: PUBLISHED
 createdAt: 2023-05-26T18:19:21.462Z
-updatedAt: 2023-05-26T22:40:14.439Z
-publishedAt: 2023-05-26T22:40:14.439Z
+updatedAt: 2024-01-24T13:32:40.359Z
+publishedAt: 2024-01-24T13:32:40.359Z
 firstPublishedAt: 2023-05-26T18:43:41.573Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-tyendacrypto
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento TiendaCrypto. Com este conector, sua loja pode realizar vendas por meio do criptomoedas.
+Na VTEX, é possível realizar a integração com o provedor de pagamento TiendaCrypto. Por meio deste provedor, sua loja pode realizar vendas por meio do criptomoedas.
 
-Para configurar a afiliação TiendaCrypto, siga os passos abaixo:
+Para configurar TiendaCrypto, siga os passos abaixo:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __TiendaCrypto__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __TiendaCrypto__ na barra de busca e clique sobre o nome do provedor.
 4. Clique em __Autorizar__. Você será redirecionado para o ambiente do TiendaCrypto.
 5. Em __Captura Automática de Pagamento__, selecione uma das opções disponíveis:
 

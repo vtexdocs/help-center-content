@@ -3,8 +3,8 @@ title: 'Como configurar Assinaturas na sua loja'
 id: 1FA9dfE7vJqxBna9Nft5Sj
 status: PUBLISHED
 createdAt: 2019-01-31T16:00:03.228Z
-updatedAt: 2023-04-11T00:33:27.310Z
-publishedAt: 2023-04-11T00:33:27.310Z
+updatedAt: 2024-07-09T14:27:30.778Z
+publishedAt: 2024-07-09T14:27:30.778Z
 firstPublishedAt: 2019-01-31T16:01:57.927Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,9 +15,7 @@ legacySlug: como-configurar-assinatura-v2
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-<div class = "alert alert-info">
-A instalação do módulo Assinaturas é feita por meio de solicitação ao <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
-</div>
+>ℹ️ A instalação do módulo Assinaturas é feita por meio de solicitação ao [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 O sistema de __Assinaturas__ é um aplicativo desenvolvido pela VTEX para facilitar as vendas recorrentes. Funciona como um agendador automático, repetindo um pedido na frequência desejada pelo cliente da sua loja.
 
@@ -34,9 +32,7 @@ Para ativar a funcionalidade será necessário:
 
 ## 1. Instalar o app de Assinaturas
 
-<div class="alert alert-warning">
-No momento, a instalação do módulo Assinaturas é feita somente por solicitação ao <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
-</div>
+>⚠️ No momento, a instalação do módulo Assinaturas é feita somente por solicitação ao [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 Para instalar o app gratuito de Assinaturas na [VTEX App Store](https://apps.vtex.com/), siga os passos abaixo:
 
@@ -63,11 +59,9 @@ Atualmente, os seguintes meios de pagamento estão habilitados para pedidos de a
 * **Boleto Bancário**
 * **Cartão de Crédito**
 
-<div class="alert alert-info">
-  <p>Para disponibilizar a opção de pagamento <strong>Cartão de Crédito</strong>, entre em contato com o adquirente da sua loja e certifique-se que ele aceita transações de compras recorrentes oriundas de cartões tokenizados (sem CVV). O sistema de <strong>Assinaturas</strong> utilizará os mesmos dados do cartão da primeira compra para realizar os pedidos seguintes da assinatura, garantindo a segurança de todo o processo.</p>
-</div>
+>ℹ️ Para disponibilizar a opção de pagamento **Cartão de Crédito**, entre em contato com o adquirente da sua loja e certifique-se que ele aceita transações de compras recorrentes oriundas de cartões tokenizados (sem CVV). O sistema de **Assinaturas** utilizará os mesmos dados do cartão da primeira compra para realizar os pedidos seguintes da assinatura, garantindo a segurança de todo o processo.
 
-Para habilitar esse tipo de transação no conector, o gestor da loja deverá solicitar ao adquirente a liberação para transacionar pagamentos recorrentes. Confira o nosso artigo sobre [como configurar um gateway de pagamento na sua loja](https://help.vtex.com/pt/tutorial/pci-gateway-visao-geral/).
+Para habilitar esse tipo de transação no conector, o gestor da loja deverá solicitar ao adquirente a liberação para transacionar pagamentos recorrentes. Confira o nosso artigo sobre [Cadastrar afiliações de gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444).
 
 ## 3. Criar um plano de assinatura
 
@@ -79,9 +73,7 @@ Existe uma outra opção para criar um plano de assinatura, que consiste em cria
 
 Existe uma série de recursos relacionados a assinaturas, disponíveis no módulo de **Perfis de Acesso** da sua loja. São esses recursos que permitem o acesso dos usuários do seu Admin VTEX a determinadas funcionalidades, para operarem o módulo de Assinaturas. Para saber mais sobre perfis de acesso, confira o nosso [artigo](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
 
-<div class="alert alert-warning">
-<p>Se o usuário não tiver as permissões necessárias para acessar os dados das telas de <strong>Assinaturas</strong>, o sistema exibe um alerta informando que ele não tem essas permissões, e o usuário não consegue ver os dados.</p>
-</div>
+>⚠️ Se o usuário não tiver as permissões necessárias para acessar os dados das telas de **Assinaturas**, o sistema exibe um alerta informando que ele não tem essas permissões, e o usuário não consegue ver os dados.
 
 Veja a tabela abaixo para saber quais são os recursos relacionados ao módulo de Assinaturas.
 
@@ -94,11 +86,11 @@ Veja a tabela abaixo para saber quais são os recursos relacionados ao módulo d
 
 Para configurar os Perfis de acesso de Assinatura, siga as instruções abaixo.
 
-1. No módulo **Configurações da Conta**, acesse a aba **Perfis de Acesso**.
-2. Clique no botão `Novo Perfil`.  
-3. Preencha o **Nome do Perfil**.
-4. Em **Produtos e Recursos** selecione **OMS**.
-5. Marque as caixas dos **recursos de Assinatura** que deseja adicionar.
+1. No módulo **Configurações da conta**, acesse **Perfis de acesso**.
+2. Clique no botão `Novo perfil`.  
+3. Preencha o **Nome do perfil**.
+4. Em **Produtos e recursos** selecione `Subscriptions`.
+5. Marque as caixas dos recursos que deseja adicionar.
 6. Clique em `Salvar`. 
 
 Agora que as Assinaturas já estão configuradas em sua loja, acesse nosso artigo para conferir como [gerenciar assinaturas](https://help.vtex.com/pt/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x).

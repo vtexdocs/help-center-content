@@ -3,8 +3,8 @@ title: 'Configurar pagamentos com Mercado Pago'
 id: 2FPdhTma6QywUmwEcEUGoS
 status: PUBLISHED
 createdAt: 2018-03-08T21:11:28.158Z
-updatedAt: 2023-03-23T16:02:38.696Z
-publishedAt: 2023-03-23T16:02:38.696Z
+updatedAt: 2024-01-23T11:46:52.226Z
+publishedAt: 2024-01-23T11:46:52.226Z
 firstPublishedAt: 2018-03-08T22:43:32.092Z
 contentType: tutorial
 productTeam: Financial
@@ -23,10 +23,11 @@ Além de um subadquirente para processar transações realizadas com diversas co
 
 Abaixo estão as configurações para o conector __Mercado Pago__.
 
-## Configurar afiliação de gateway MercadoPago
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão __+__.
-3. Clique no conector __MercadoPago__.
+## Configurar gateway MercadoPago
+
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __MercadoPago__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos de cadastro com as credenciais fornecidas pelo MercadoPago (campos _Client id_ e _Client secret_). Lembrando que elas não devem começar com __APP\_USR__.
 5. No campo __País__, selecione o país da sua loja.
 6. Em __Time Zone__, indique a região que define seu horário local.
@@ -38,9 +39,7 @@ Abaixo estão as configurações para o conector __Mercado Pago__.
 12. No campo __Tipo de estorno__, escolha entre o processo automático ou a solicitação manual (neste caso, o MercadoPago vai enviar um e-mail avisando do estorno pendente).
 13. Clique em __Salvar__.  
 
-<div class="alert alert-warning">
-O passo indicado no item <strong>11</strong> é realizado em ambiente externo à VTEX. Portanto, o processo indicado pode ser atualizado sem aviso prévio. 
-</div>
+>⚠️ O passo indicado no item **11** é realizado em ambiente externo à VTEX. Portanto, o processo indicado pode ser atualizado sem aviso prévio.
 
 ## Configurar condição de pagamento MercadoPago
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações > Condições de pagamento**, ou digite **Configurações** na barra de busca no topo da página.

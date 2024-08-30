@@ -1,10 +1,10 @@
 ---
 title: 'Tracking your sales analytics'
 id: 5QtyTR0jFy9gDnr4EYCjdq
-status: PUBLISHED
+status: DRAFT
 createdAt: 2020-09-10T13:32:39.637Z
-updatedAt: 2020-09-11T00:16:35.791Z
-publishedAt: 2020-09-11T00:16:35.791Z
+updatedAt: 2023-10-18T15:24:34.576Z
+publishedAt: 
 firstPublishedAt: 2020-09-10T17:37:50.007Z
 contentType: tutorial
 productTeam: Management
@@ -27,7 +27,7 @@ The table below describes the key metrics available in Insights. All metrics ref
 | Revenue        | Total amount determined by approved applications |
 | Average Ticket | Average revenue per order |
 
-<div class="alert alert-warning">We do not have access to session and conversion data concerning purchase flows made outside of VTEX stores. Therefore, orders placed in marketplaces are not included in Insights metrics.</div>
+>⚠️ We do not have access to session and conversion data concerning purchase flows made outside of VTEX stores. Therefore, orders placed in marketplaces are not included in Insights metrics.
 
 ## Getting to know the interface
 
@@ -36,7 +36,7 @@ The Insights interface displays the sales metrics of your store in three dashboa
 <table width="100%">
   <tr>
    <td>
-    <img src="https:https://images.ctfassets.net/alneenqid6w5/2f8tj5XokKtnZOvjfgmFVf/ee8427085b56a71a78e7271156a149eb/Insights_-_Conhecendo_a_interface__2_.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Conhecendo a interface" title="Insights - Conhecendo a interface">
+    <img src="https://images.ctfassets.net/alneenqid6w5/2f8tj5XokKtnZOvjfgmFVf/ee8427085b56a71a78e7271156a149eb/Insights_-_Conhecendo_a_interface__2_.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Conhecendo a interface" title="Insights - Conhecendo a interface">
    </td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ This dashboard allows you to compare the value of the consolidated metrics betwe
 <table width="100%">
   <tr>
    <td>
-    <img src="https:https://images.ctfassets.net/alneenqid6w5/5lKQrdbytYWAaMV3tHnOi4/ad7df2bffda20bafbd679491334828ab/Insights_-_Visa__o_Geral__2_.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Visão Geral" title="Insights - Visão Geral">
+    <img src="https://images.ctfassets.net/alneenqid6w5/5lKQrdbytYWAaMV3tHnOi4/ad7df2bffda20bafbd679491334828ab/Insights_-_Visa__o_Geral__2_.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Visão Geral" title="Insights - Visão Geral">
    </td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ This dashboard allows you to trace the evolution of the metrics throughout the d
 <table width="100%">
   <tr>
    <td>
-    <img src="https:https://images.ctfassets.net/alneenqid6w5/L43eNghJLlakmOFcGmKiM/dea01625e5f1adeb73d9e5949a6986ce/Insights_-_Detalhes__2_.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Detalhes 1" title="Insights - Detalhes 1">
+    <img src="https://images.ctfassets.net/alneenqid6w5/L43eNghJLlakmOFcGmKiM/dea01625e5f1adeb73d9e5949a6986ce/Insights_-_Detalhes__2_.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Detalhes 1" title="Insights - Detalhes 1">
    </td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ This dashboard allows you to trace the evolution of the metrics throughout the d
 <table width="100%">
   <tr>
    <td>
-    <img src="https:https://images.ctfassets.net/alneenqid6w5/1TExoNJjCZInwh3LGQrkzO/00a419a264cca2d9fbe7a50d26bd2dbf/image15.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Detalhes 2" title="Insights - Detalhes 2">
+    <img src="https://images.ctfassets.net/alneenqid6w5/1TExoNJjCZInwh3LGQrkzO/00a419a264cca2d9fbe7a50d26bd2dbf/image15.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Detalhes 2" title="Insights - Detalhes 2">
    </td>
   </tr>
   <tr>
@@ -115,7 +115,7 @@ This dashboard allows you to trace the volume of sessions in the intermediate st
 <table width="100%">
   <tr>
    <td>
-    <img src="https:https://images.ctfassets.net/alneenqid6w5/4DdN3hdCz7CdoukLu3H0Ea/bfac11a598fd989f1b0370d12566dbb3/Insights_-_Funil_de_conversa__o__2_.png?h=250" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Funil de conversão" title="Insights - Funil de conversão">
+    <img src="https://images.ctfassets.net/alneenqid6w5/4DdN3hdCz7CdoukLu3H0Ea/bfac11a598fd989f1b0370d12566dbb3/Insights_-_Funil_de_conversa__o__2_.png?h=250" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Funil de conversão" title="Insights - Funil de conversão">
    </td>
   </tr>
   <tr>

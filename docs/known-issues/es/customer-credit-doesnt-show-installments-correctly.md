@@ -18,9 +18,7 @@ internalReference: 501730
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 El crédito del cliente no muestra los diferentes valores entre reglas con el mismo número de cuotas y diferentes periodos. Para entender mejor este problema, debemos observar el comportamiento de la pasarela y del Crédito Cliente:
 
