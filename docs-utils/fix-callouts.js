@@ -1,11 +1,11 @@
-const fs = require('fs');
+const fs = require('fs').promises;
 const path = require('path');
 
 // The root folder to process
 const rootFolder = 'docs';
 
 // Maximum number of files to process simultaneously
-const MAX_CONCURRENT_FILES = 100; // Adjust this based on your system's limit
+const MAX_CONCURRENT_FILES = 100;
 
 // Array to keep track of currently processing files
 let activeFiles = 0;
@@ -65,58 +65,59 @@ function convertCallout(htmlCallout) {
     return markdownCallout;
 }
 
-// Function to process each markdown file
-function processFile(filePath) {
+// Function to process each Markdown file
+async function processFile(filePath) {
     activeFiles++;
-    
-    fs.readFile(filePath, 'utf8', (err, data) => {
-        if (err) throw err;
-
+    try {
+        const data = await fs.readFile(filePath, 'utf8');
         // Replace HTML structures with corresponding markdown symbols
         const newData = data
-            .replace(/<div\s+class\s*=\s*"alert alert-info">(.*?)<\/div>/gs, (match, p1) => `>ℹ️ ${convertCallout(p1)}`)
-            .replace(/<div\s+class\s*=\s*"alert alert-warning">(.*?)<\/div>/gs, (match, p1) => `>⚠️ ${convertCallout(p1)}`)
-            .replace(/<div\s+class\s*=\s*"alert alert-danger">(.*?)<\/div>/gs, (match, p1) => `>❗ ${convertCallout(p1)}`);
+            .replace(/<div\s+[^>]*class\s*=\s*"alert alert-info"[^>]*>(.*?)<\/div>/gs, (match, p1) => `>ℹ️ ${convertCallout(p1)}`)
+            .replace(/<div\s+[^>]*class\s*=\s*"alert alert-warning"[^>]*>(.*?)<\/div>/gs, (match, p1) => `>⚠️ ${convertCallout(p1)}`)
+            .replace(/<div\s+[^>]*class\s*=\s*"alert alert-danger"[^>]*>(.*?)<\/div>/gs, (match, p1) => `>❗ ${convertCallout(p1)}`);
 
-        // Write the modified content back to the file
-        fs.writeFile(filePath, newData, 'utf8', (err) => {
-            if (err) throw err;
-            console.log(`Processed file: ${filePath}`);
-            activeFiles--;
-
-            // Process the next file in the queue if available
-            if (fileQueue.length > 0) {
-                const nextFile = fileQueue.shift();
-                processFile(nextFile);
-            }
-        });
-    });
+        await fs.writeFile(filePath, newData, 'utf8');
+    } catch (err) {
+        console.error(`Error processing file: ${filePath}`, err);
+    } finally {
+        activeFiles--;
+        if (fileQueue.length > 0) {
+            const nextFile = fileQueue.shift();
+            processFile(nextFile);
+        }
+    }
 }
 
 // Recursive function to process all markdown files in the directory
-function processDirectory(directory) {
-    fs.readdir(directory, (err, files) => {
-        if (err) throw err;
-
-        files.forEach(file => {
+async function processDirectory(directory) {
+    try {
+        const files = await fs.readdir(directory);
+        for (const file of files) {
             const filePath = path.join(directory, file);
-            fs.stat(filePath, (err, stats) => {
-                if (err) throw err;
+            const stats = await fs.stat(filePath);
 
-                if (stats.isDirectory()) {
-                    // Recursively process subdirectories
-                    processDirectory(filePath);
-                } else if (path.extname(file) === '.md') {
-                    if (activeFiles < MAX_CONCURRENT_FILES) {
-                        processFile(filePath);
-                    } else {
-                        fileQueue.push(filePath);
-                    }
+            if (stats.isDirectory()) {
+                await processDirectory(filePath);
+            } else if (path.extname(file) === '.md') {
+                if (activeFiles < MAX_CONCURRENT_FILES) {
+                    processFile(filePath);
+                } else {
+                    fileQueue.push(filePath);
                 }
-            });
-        });
-    });
+            }
+        }
+    } catch (err) {
+        console.error(`Error processing directory: ${directory}`, err);
+    }
 }
 
-// Start processing from the root folder
-processDirectory(rootFolder);
+async function fixCallouts() {
+    console.log("Fixing callouts...");
+    await processDirectory(rootFolder);
+    while (activeFiles > 0 || fileQueue.length > 0) {
+        await new Promise(resolve => setTimeout(resolve, 100));
+    }
+    console.log("Finished fixing callouts in markdown files.");
+}
+
+module.exports = { fixCallouts };
