@@ -1,11 +1,12 @@
 ---
-title: "Template conversão para markdown"
-slug: "template-conversao-markdown"
+title: Template conversão para markdown
+slug: template-conversao-markdown
 hidden: false
-createdAt: "2024-08-21T00:00:00.623Z"
+createdAt: 2024-08-21T00:00:00.623Z
 updatedAt: ""
 ---
-# Conversão de conteúdo em markdown e tradução automática no GitHub
+
+# Conversão de conteúdo em markdown e tradução automática para GitHub
 
 Este artigo teste foi criados para os seguintes propósitos:
 
