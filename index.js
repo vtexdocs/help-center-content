@@ -1,4 +1,8 @@
 // retrieve entries from contentful
+const fs = require('fs');
+const path = require('path');
+const docsFolderPath = path.join(__dirname, 'docs');
+
 const contentful = require("contentful-management");
 require('dotenv').config();
 
@@ -26,6 +30,40 @@ let contentTypes = {
   businessGuides: [], // deprecated
   unknownContentTypes: [],
 };
+
+// Function to delete all markdown files in the 'docs' folder and its subfolders
+function deleteMarkdownFiles(folderPath) {
+  fs.readdir(folderPath, (err, files) => {
+    if (err) {
+      console.error(`Error reading folder: ${folderPath}`, err);
+      return;
+    }
+
+    files.forEach(file => {
+      const filePath = path.join(folderPath, file);
+      fs.stat(filePath, (err, stats) => {
+        if (err) {
+          console.error(`Error stating file: ${filePath}`, err);
+          return;
+        }
+
+        if (stats.isDirectory()) {
+          // Recursively delete markdown files in subfolders
+          deleteMarkdownFiles(filePath);
+        } else if (file.endsWith('.md')) {
+          // Delete the markdown file
+          fs.unlink(filePath, err => {
+            if (err) {
+              console.error(`Error deleting file: ${filePath}`, err);
+            } else {
+              console.log(`Deleted: ${filePath}`);
+            }
+          });
+        }
+      });
+    });
+  });
+}
 
 async function getEntries() {
   try {
@@ -611,4 +649,5 @@ ${textPT}
   }
 }
 
+deleteMarkdownFiles(docsFolderPath);
 getEntries();
