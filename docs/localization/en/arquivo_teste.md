@@ -1,14 +1,14 @@
 ---
-title: Template conversão para markdown
-slug: template-conversao-markdown
+title: Markdown conversion template
+slug: conversion-markdown-template
 hidden: false
 createdAt: 2024-08-21T00:00:00.623Z
 updatedAt: ""
 ---
 
-# Conversão de conteúdo em markdown e tradução automática para GitHub
+# Markdown content conversion and automatic translation in GitHub
 
-Este artigo teste foi criados para os seguintes propósitos:
+This article was created for the following purposes:
 
 - Validar apps script de conversão de conteúdos na linguagem markdown e,
 - Simular os passos necessários para publicar um arquivo.md após ter sido traduzido automaticamente no GitHub.

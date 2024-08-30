@@ -1,12 +1,12 @@
 ---
-title: Template conversão para markdown
+title: Template conversão para markdown em espanhol
 slug: template-conversao-markdown
 hidden: false
 createdAt: 2024-08-21T00:00:00.623Z
 updatedAt: ""
 ---
 
-# Conversão de conteúdo em markdown e tradução automática para GitHub
+# Conversion del conteúdo em markdown e tradução automática no GitHub
 
 Este artigo teste foi criados para os seguintes propósitos:
 
