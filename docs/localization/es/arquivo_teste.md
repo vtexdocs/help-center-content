@@ -11,4 +11,7 @@ updatedAt: ""
 Este artigo teste foi criados para os seguintes propósitos:
 
 - Validar apps script de conversão de conteúdos na linguagem markdown e,
+
 - Simular os passos necessários para publicar um arquivo.md após ter sido traduzido automaticamente no GitHub.
+
+- Nuevo parágrafo (...).
