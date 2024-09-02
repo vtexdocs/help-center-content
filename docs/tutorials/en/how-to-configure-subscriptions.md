@@ -15,9 +15,7 @@ legacySlug: how-to-configure-subscription-v2
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-<div class = "alert alert-info">
-To install the Subscriptions module, please contact <a href="https://support.vtex.com/hc/en-us/requests">our Support</a>.
-</div>
+>ℹ️ To install the Subscriptions module, please contact [our Support](https://support.vtex.com/hc/en-us/requests).
 
 The **Subscriptions** system is an app developed by VTEX to facilitate recurring sales. It works as an automatic scheduler, repeating orders according to the frequency chosen by your customer.
 
@@ -34,9 +32,7 @@ To activate this feature, you will need to:
 
 ## 1. Install the Subscriptions app
 
-<div class="alert alert-warning">
-Currently, the installation of the Subscriptions module is done only by <a href="https://support.vtex.com/hc/en-us/requests">our Support</a>.
-</div>
+>⚠️ Currently, the installation of the Subscriptions module is done only by [our Support](https://support.vtex.com/hc/en-us/requests).
 
 To install the free Subscriptions app from the [VTEX App Store](https://apps.vtex.com/), follow the steps below:
 
@@ -63,9 +59,7 @@ Currently, the following payment methods are enabled for subscription orders:
 * **Boleto (popular Brazilian off-line payment method)**
 * **Credit card**
 
-<div class="alert alert-info">
-  <p>To make the <strong>Credit card</strong> payment option available, contact your store's acquirer and make sure they accept recurring purchase transactions coming from tokenized cards (no CVV). The <strong>Subscriptions</strong> system will use the same card data from the first purchase to place subsequent subscription orders, ensuring the security of the entire process.</p>
-</div>
+>ℹ️ To make the **Credit card** payment option available, contact your store's acquirer and make sure they accept recurring purchase transactions coming from tokenized cards (no CVV). The **Subscriptions** system will use the same card data from the first purchase to place subsequent subscription orders, ensuring the security of the entire process.
 
 To enable this type of transaction in the connector, the store manager must ask the acquirer for permission to process recurring payments. Check out our article [Registering gateway affiliations](https://help.vtex.com/en/tutorial/registering-gateway-affiliations--tutorials_444).
 
@@ -79,9 +73,7 @@ There is another option to create a subscription plan, which involves manually c
 
 There are a number of subscription-related features available in the **Roles** module of your store. These features allow your VTEX Admin users to access certain features in order to operate the Subscriptions module. To learn more about roles, please read this [article](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role).
 
-<div class="alert alert-warning">
-  <p>If the user does not have the permissions required to access the data on the <strong>Subscriptions</strong> pages, the system will display a warning stating that they do not have those permissions, and the user will be unable to view the data.</p>
-</div>
+>⚠️ If the user does not have the permissions required to access the data on the **Subscriptions** pages, the system will display a warning stating that they do not have those permissions, and the user will be unable to view the data.
 
 See the table below for features related to the Subscriptions module.
 

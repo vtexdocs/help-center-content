@@ -102,9 +102,7 @@ Another possible reason for this error is related to the locale set for the acco
 
 Open a ticket with the [VTEX Support](https://help.vtex.com/en/support) team to investigate the issue further. To avoid scenarios where you lose content stored in Site Editor when changing your Store Theme app peer dependencies and need to perform a major update, follow the steps in the guide Migrating CMS settings after a major theme update.
 
-<div class="alert alert-warning">
-  <p> In cases where you lose content in Site Editor, the content can only be restored if the loss is related to the known issue of Intermittent Site Editor content loss. For this issue, open a ticket with <a href="https://help.vtex.com/pt/support">VTEX Support</a> with <code>urgent</code> priority. </p>
-</div>
+>⚠️ In cases where you lose content in Site Editor, the content can only be restored if the loss is related to the known issue of Intermittent Site Editor content loss. For this issue, open a ticket with [VTEX Support](https://help.vtex.com/pt/support) with `urgent` priority.
 
 ## I am still experiencing issues with Site Editor 
 

@@ -18,9 +18,7 @@ internalReference: 605568
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se configura una única condición de pago con una única opción de pago a plazos o múltiples condiciones de pago en las que sólo hay disponible una opción de pago a plazos para un carro específico, esta opción de pago a plazos no se muestra en el proceso de pago. Aunque aparece correctamente en `paymentData`, no es visible para el usuario. En su lugar, sólo se muestra la opción de pagar el valor total. Sin embargo, cuando se completa la transacción, el pago se procesa con la opción de pago a plazos correcta.

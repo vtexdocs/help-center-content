@@ -18,9 +18,7 @@ internalReference: 1088656
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Fastsore utiliza la búsqueda inteligente para cargar el PDP, pero no utiliza el regionID para cargarlo en tiendas regionalizadas. Esto lleva a problemas con la disponibilidad de los artículos. Además, utilizamos la propiedad `hideUnavailableItems=true` en la consulta para cargar el PDP. Esto puede provocar incoherencias entre el PLP (que está regionalizado) y el PDP.

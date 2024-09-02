@@ -33,9 +33,7 @@ After configuring the property, follow the instructions below.
 6. Fill in the field with the cluster you would like to link to the promotion. [See below for more information on how to fill in this field.](#filling-in-the-customer-cluster-field) You can add more than one cluster by clicking on the `+` button.
 7. Click on `Save`.
 
-<div class="alert alert-info">
-<p>You can enter a maximum of 50 clusters in the <strong>Customer cluster</strong> option.</p>
-</div>
+>ℹ️ You can enter a maximum of 50 clusters in the **Customer cluster** option.
 
 ## Filling in the Customer cluster field
 
@@ -60,9 +58,7 @@ You could also configure `employee=false`, where only `employee` entries with th
 
 Given a field of type **[Varchar](https://help.vtex.com/en/tutorial/criando-entidade-de-dados--tutorials_1265)**, we could configure `employee="yes"` so that only customers with the value `"yes"` in the field receive the promotion.
 
-<div class="alert alert-warning">
-  <p>For fields of type <strong>Varchar</strong>, the value entered in the <strong>Customer cluster</strong> section of the promotion is case-sensitive. This means that if you fill in the option <strong>Customer cluster</strong> in a way that differs from the one determined for the field in the Master Data, the promotion will not be applied.</p>
-</div>
+>⚠️ For fields of type **Varchar**, the value entered in the **Customer cluster** section of the promotion is case-sensitive. This means that if you fill in the option **Customer cluster** in a way that differs from the one determined for the field in the Master Data, the promotion will not be applied.
 
 Therefore, considering the above example of a field of type **Varchar** with the values `"yes"` and `"no"`, the entry in the promotion must be `employee="yes"`. When entering, for example, `employee="Yes"` in the promotion, the customer cluster will not receive the promotion.
 

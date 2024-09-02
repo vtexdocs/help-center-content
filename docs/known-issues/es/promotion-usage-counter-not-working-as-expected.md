@@ -18,9 +18,7 @@ internalReference: 1090367
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El contador de uso de promociones no está funcionando como se esperaba, lo que provoca una pérdida de control sobre el número de veces que se aplica una promoción. El problema surge porque el sistema de Checkout se encarga de notificar el uso de una promoción, mientras que el sistema de gestión de pedidos se encarga de informar de la cancelación, lo que debería disminuir el contador de uso. Sin embargo, estos sistemas envían notificaciones diferentes, provocando un mal funcionamiento del contador y creando más pedidos con la promoción aplicada de los previstos.

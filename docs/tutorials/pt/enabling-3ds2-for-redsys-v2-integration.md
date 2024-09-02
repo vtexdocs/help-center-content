@@ -15,7 +15,7 @@ legacySlug: adicionar-suporte-a-3ds2-na-integracao-com-a-redsys-v2
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-danger">Essa integração de pagamento não pode ser mais configurada na plataforma devido ao <a href="https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14">processo de remoção de provedores legados</a> e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.</div>
+>❗ Essa integração de pagamento não pode ser mais configurada na plataforma devido ao [processo de remoção de provedores legados](https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14) e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.
 
 Agora, a funcionalidade 3DS2 também está disponível para pagamentos realizados via cartão de crédito e processados pelo gateway de pagamentos [Redsýs](https://help.vtex.com/pt/tutorial/configurar-gateway-redsys--7xRnMyzZS0kQoIG2ISagY8).
 
@@ -23,9 +23,7 @@ Agora, a funcionalidade 3DS2 também está disponível para pagamentos realizado
 
 Para mais detalhes, acesse o artigo [Fluxo de autenticação 3DS2: aceite pagamentos on-line de forma mais segura](https://help.vtex.com/pt/announcements/fluxo-de-autenticacao-3ds2-aceite-pagamentos-on-line-de-forma-mais-segura--6UdTjjVU1AcEQ2aE3Ftxsl).
 
-<div class="alert alert-danger">
-Antes de configurar o 3DS2, é importante garantir que a Redsýs já esteja configurada em sua loja e que a parceria comercial firmada esteja habilitada para a utilização do 3DS2.
-  </div>
+>❗ Antes de configurar o 3DS2, é importante garantir que a Redsýs já esteja configurada em sua loja e que a parceria comercial firmada esteja habilitada para a utilização do 3DS2.
 
 Neste tutorial, explicaremos como realizar essa integração por meio do Admin da VTEX via painel administrativo. 
 

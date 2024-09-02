@@ -34,9 +34,7 @@ Para buscar, haz clic en la barra de búsqueda, selecciona la opción `Pedidos` 
 
 Al hacer clic en un resultado, se te redirigirá a la [página de detalles](https://help.vtex.com/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) del pedido. Además, los últimos 10 pedidos buscados se registran como historial de búsquedas recientes para mayor facilidad de acceso. El registro de búsqueda se almacena a nivel de [usuario](https://help.vtex.com/es/tutorial/gerenciando-usuarios--tutorials_512) y no se comparte entre diferentes usuarios.
 
-<div class = "alert alert-info">
-Para acceder a los pedidos a través de la búsqueda global del Admin VTEX, el <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">rol</a> del usuario debe estar asociado al recurso <b>View order</b> (clave OMSViewier) del <i>Order Management System</i> (OMS).
-</div>
+>ℹ️ Para acceder a los pedidos a través de la búsqueda global del Admin VTEX, el [rol](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) del usuario debe estar asociado al recurso **View order** (clave OMSViewier) del <i>Order Management System</i> (OMS).
 
 ## ¿Por qué realizamos este cambio?
 

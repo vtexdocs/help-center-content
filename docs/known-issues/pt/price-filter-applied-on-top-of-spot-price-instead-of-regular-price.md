@@ -18,9 +18,7 @@ internalReference: 982664
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os filtros de preço são aplicados sobre o valor "spotPrice", que é o preço para condições especiais de pagamento, em vez do preço normal do item.

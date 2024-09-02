@@ -18,9 +18,7 @@ internalReference: 491195
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o pagamento é um cartão presente e ocorre um erro durante o processo de colocação do pedido e o pedido permanece incompleto, então o GC não é reembolsado após a transação ser cancelada.

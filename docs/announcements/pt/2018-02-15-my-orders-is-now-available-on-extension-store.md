@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisPT: 'A partir de 5 de junho,  o uso da extensão para a página "Meus pedidos" será obrigatório para todas as lojas.'
 ---
 
-<div class="alert alert-info">
-Conforme anunciado aqui, o <strong>My Orders</strong> já é obrigatório para todas as lojas. Desde <strong>6 de junho</strong>, ele já vem instalado por default e não está mais visível na App Store.
-</div>
+>ℹ️ Conforme anunciado aqui, o **My Orders** já é obrigatório para todas as lojas. Desde **6 de junho**, ele já vem instalado por default e não está mais visível na App Store.
 
 Já está disponível na __App Store__ da VTEX o __My Orders__, uma extensão que traz uma série de melhorias para a página "Meus Pedidos". Por todas as vantagens que oferece (incluindo facilidade de customização e ganhos de performance da página), seu uso vai passar a ser obrigatório a partir de __5 de junho__.
 
@@ -25,7 +23,7 @@ Entre as novidades da nova extensão estão o suporte para visualização de ane
 
 Outra característica importante é que agora os dados dos pedidos vêm da API do OMS. Uma mudança que deixa o status do pedido muito mais preciso.
 
-<div class="alert alert-warning">
-<strong>Atenção</strong><br>
-Recomendamos que você instale o <strong>My Orders</strong> na sua loja o quanto antes, principalmente se você já tiver alguma customização na página "Meus Pedidos". Dessa forma, você vai poder testar todas as possibilidades da nova extensão e evitar quebras quando ela se tornar obrigatória.
-</div>
+>⚠️ **Atenção**
+>
+> 
+> Recomendamos que você instale o **My Orders** na sua loja o quanto antes, principalmente se você já tiver alguma customização na página "Meus Pedidos". Dessa forma, você vai poder testar todas as possibilidades da nova extensão e evitar quebras quando ela se tornar obrigatória.

@@ -40,7 +40,5 @@ To use the delivery capacity feature, you need to set up a shipping policy to en
 
 To learn how to configure it for your scheduled deliveries, read the article [Delivery Capacity](https://help.vtex.com/en/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz).
 
-<div class="alert alert-info">
-This functionality is in Beta and is currently available only in v3 Admin environments.
-</div>
+>ℹ️ This functionality is in Beta and is currently available only in v3 Admin environments.
 

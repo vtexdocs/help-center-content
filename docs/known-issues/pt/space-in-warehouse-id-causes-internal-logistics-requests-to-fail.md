@@ -18,9 +18,7 @@ internalReference: 654370
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A IU de logística permite que um usuário crie um depósito registrando uma identificação com espaço e isto afeta diretamente as solicitações feitas a este depósito e pode causar falhas na atualização do estoque.

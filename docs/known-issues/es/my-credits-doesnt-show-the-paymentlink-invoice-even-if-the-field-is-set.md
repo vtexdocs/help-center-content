@@ -18,9 +18,7 @@ internalReference: 546267
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El enlace del campo paymentLink no se está mostrando en la página de Mis Créditos, dentro de MiCuenta, a pesar de que ha sido configurado y está disponible en la página de Facturas de Crédito de Cliente, dentro de la Administración.

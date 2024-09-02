@@ -18,9 +18,7 @@ internalReference: 852966
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O comportamento da API ao tentar atualizar um documento que contém um símbolo em um campo do tipo string, como `"name": "Product1 14€"`, retornará o erro 504 Gateway timeout e não atualizará o documento.

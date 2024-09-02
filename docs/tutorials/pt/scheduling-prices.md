@@ -48,9 +48,7 @@ Para realizar o agendamento pelo Admin, siga os passos abaixo.
 - **Data Fim:** data de fim do agendamento do preço fixo. Será a partir dessa data que o preço fixo não será mais válido.
 - **Hora Fim:** hora de fim do agendamento do preço fixo. Será a partir dessa hora que o preço fixo não será mais válido.
 
-<div class="alert alert-info">
-  <p>No agendamento feito pelo Admin, o fuso-horário considerado será o utilizado pelo computador do usuário.</p>
-</div>
+>ℹ️ No agendamento feito pelo Admin, o fuso-horário considerado será o utilizado pelo computador do usuário.
 
 ## Agendamento por importação de planilha de preços fixos
 

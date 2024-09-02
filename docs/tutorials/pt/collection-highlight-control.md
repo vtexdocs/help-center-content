@@ -15,9 +15,7 @@ legacySlug: controle-de-destaque-de-colecao
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-warning">
-  <p> existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do Portal CMS Legado.</a>.</p>
-</div>
+>⚠️ existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do Portal CMS Legado.</a>.
 
 O controle `<vtex.cmc:HightLight/>` (para páginas de produto) ou `$product.HightLight` (para prateleiras) renderiza um elemento HTML com uma classe específica no contexto dos produtos que fizerem parte de uma coleção marcada com a flag __Highlight__.
 
@@ -38,6 +36,4 @@ Você pode, então, customizar o CSS para definir de que maneira a classe `flag 
 
 Este recurso pode ser usado, por exemplo, para fazer com que os produtos de uma coleção chamada "Lançamento" apareçam sempre com uma flag destacando que eles são novidade na loja. Ao adicionar o controle no template da página de categoria, por exemplo, todo produto da coleção Lançamento exibido em uma página de categoria aparecerá com esse destaque.
 
-<div class="alert alert-warning">
-Lembre-se que, se a página for de produto, o controle que deve ser usado é o <code>&lt;vtex.cmc:HightLight/&gt;</code>. Já se for uma página de vitrine, você deve usar o <code>$product.HightLight</code>.
-</div>
+>⚠️ Lembre-se que, se a página for de produto, o controle que deve ser usado é o `&lt;vtex.cmc:HightLight/&gt;`. Já se for uma página de vitrine, você deve usar o `$product.HightLight`.

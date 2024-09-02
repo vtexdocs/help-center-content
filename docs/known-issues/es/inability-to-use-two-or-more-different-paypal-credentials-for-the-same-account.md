@@ -18,9 +18,7 @@ internalReference: 459704
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el usuario registra dos afiliaciones diferentes en la misma cuenta utilizando PayPalPlus, la plataforma no actualiza la caché para cuando se produce un cambio en una regla de pago, es decir, sólo es posible utilizar una credencial por cuenta.

@@ -18,9 +18,7 @@ internalReference: 719606
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ordens que estão em `"Aguardando Autorização para Despachar" `na VTEX, mas que ainda estão `"pagando_dependendo" `na Dafiti.

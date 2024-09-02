@@ -18,9 +18,7 @@ internalReference: 769053
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, la API de mantenimiento de existencias https://catalog.vtexcommercestable.com.br/api/catalog/pvt/stockkeepingunit/{skuid} no realiza ninguna comprobación para el campo "CommercialConditionId".

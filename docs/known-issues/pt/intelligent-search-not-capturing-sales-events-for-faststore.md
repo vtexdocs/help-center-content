@@ -18,9 +18,7 @@ internalReference: 1045163
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O Intelligent Search não está capturando eventos de pedidos concluídos para lojas que usam o FastStore. Esses eventos compõem os critérios de relevância e a classificação de produtos por vendas.

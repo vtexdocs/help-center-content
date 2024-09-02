@@ -57,7 +57,5 @@ Caso encontre algum erro durante a realização dos testes operacionais no ambie
 
 Após verificar as configurações da loja, execute novamente o teste em ambiente Beta.
 
-<div class="alert alert-warning">
-A partir de 13 de Fevereiro de 2023, as lojas que não estiverem devidamente configuradas poderão não conseguir operar o Checkout corretamente.
-</div>
+>⚠️ A partir de 13 de Fevereiro de 2023, as lojas que não estiverem devidamente configuradas poderão não conseguir operar o Checkout corretamente.
 

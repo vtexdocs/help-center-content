@@ -35,8 +35,6 @@ No action is needed. The change will be automatically implemented.
 
 If you use this data in your store (to indicate that a product is running out of stock, for example) you need to contact [our Support](https://support.vtex.com/hc/en-us/requests) to keep displaying this information.
 
-<div class="alert alert-warning">
-<p>Please note that if the store decides to display the number of products in stock, this information will be public and can be accessed using <a href="https://github.com/vtex-apps/search-graphql">VTEX Search GraphQL</a>.</p>
-</div>
+>⚠️ Please note that if the store decides to display the number of products in stock, this information will be public and can be accessed using [VTEX Search GraphQL](https://github.com/vtex-apps/search-graphql).
 </div>
 

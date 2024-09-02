@@ -18,9 +18,7 @@ internalReference: 1074856
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os anexos das opções de montagem perdem a vinculação quando dois itens são adicionados ao carrinho de diferentes vendedores de marca branca (um dos vendedores pode ser o vendedor 1), e ambos têm os mesmos anexos registrados nas opções de montagem.

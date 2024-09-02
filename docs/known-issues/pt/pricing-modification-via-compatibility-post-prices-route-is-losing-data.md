@@ -18,9 +18,7 @@ internalReference: 487698
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Identificamos um problema na rota de preços pós-compatibilidade quando enviamos muitos pedidos em uma pequena janela não estamos usando o preço mais atualizado

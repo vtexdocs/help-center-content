@@ -45,7 +45,5 @@ Con la respuesta del banco emisor, se realiza el flujo inverso y el **Gateway de
 
 <br/>
 
-<div class="alert alert-info">
-Es posible incluir el Antifraude en este flujo. En este caso, el antifraude recibe la información del gateway de que el pago fue  preautorizado por el banco emisor. Con la información recibida del gateway, el antifraude envía una respuesta de aprobación o denegación del pago. Si el antifraude no lo aprueba, el pago se cancela. Si el pago es aprobado, el pedido puede continuar su flujo normal.
-</div>
+>ℹ️ Es posible incluir el Antifraude en este flujo. En este caso, el antifraude recibe la información del gateway de que el pago fue  preautorizado por el banco emisor. Con la información recibida del gateway, el antifraude envía una respuesta de aprobación o denegación del pago. Si el antifraude no lo aprueba, el pago se cancela. Si el pago es aprobado, el pedido puede continuar su flujo normal.
 

@@ -18,9 +18,7 @@ internalReference: 1083333
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, cuando se crea una especificación, se establece como un SKU o tipo de producto y esto no debe ser cambiado después de su creación.

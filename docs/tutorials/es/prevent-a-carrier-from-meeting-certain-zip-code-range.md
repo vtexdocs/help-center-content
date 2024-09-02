@@ -34,6 +34,4 @@ Para ello, siga estos pasos:
 
 Con ello, la planilla de flete pasaría a "saltar" el código postal 45920-000. Por lo tanto, ya no se consideraría como una opción de dirección atendida por ese transportista.
 
-<div class = "alert alert-info">
-Los ejemplos de códigos postales de este artículo se refieren a Brasil, cada país tiene su propio formato de código postal.
-</div>
+>ℹ️ Los ejemplos de códigos postales de este artículo se refieren a Brasil, cada país tiene su propio formato de código postal.

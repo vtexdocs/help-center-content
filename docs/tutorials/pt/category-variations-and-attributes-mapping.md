@@ -88,14 +88,11 @@ Dadas essas informações, continue o preenchimento da planilha seguindo as orie
 5. __MeliValue:__ nessa coluna você deve preencher valores aceitos pelo Mercado Livre, correspondentes aos valores usados no campo `VtexValue`. Na Planilha de Variações do Mercado Livre, acesse a aba corresponde ao __seu país__ e busque pelos valores aceitos para cada especificação que você preencheu na coluna `MeliEspc`.
 <br/>_`Ex:` se você preencheu o `MeliEspc` com Tamanho e o `VtexValue` com "Pequeno", verá que o valor aceito pelo Mercado Livre é "P"._
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> depois que um anúncio é criado pela primeira vez, <strong>não é mais possível alterar suas variações</strong>. Caso queira fazer ajustes como mudar a cor, por exemplo, será necessário finalizar o anúncio no Mercado Livre e depois refazer o mapeamento da planilha.</div>
+>⚠️ **OBS:** depois que um anúncio é criado pela primeira vez, **não é mais possível alterar suas variações**. Caso queira fazer ajustes como mudar a cor, por exemplo, será necessário finalizar o anúncio no Mercado Livre e depois refazer o mapeamento da planilha.
 
-<div class="alert alert-warning">
-<strong>OBS 2:</strong> o Mercado Livre <strong>não permite usar preços diferentes</strong> para cada variação de um anúncio. Por exemplo, uma camisa não pode custar $ 40 para o tamanho "P" e $ 50 para o tamanho "M".</div> 
+>⚠️ **OBS 2:** o Mercado Livre **não permite usar preços diferentes** para cada variação de um anúncio. Por exemplo, uma camisa não pode custar $ 40 para o tamanho "P" e $ 50 para o tamanho "M". 
 
-<div class="alert alert-warning">
-<strong>OBS 3:</strong> caso o SKU não tenha uma certa especificação (como cor, por exemplo), você vai precisar cadastrá-la na VTEX antes de completar o processo de integração. Recomendamos que você adicione o atributo que falta como uma especificação de <strong>produto</strong>. Assim, essa informação não será exibida no site.</div>
+>⚠️ **OBS 3:** caso o SKU não tenha uma certa especificação (como cor, por exemplo), você vai precisar cadastrá-la na VTEX antes de completar o processo de integração. Recomendamos que você adicione o atributo que falta como uma especificação de **produto**. Assim, essa informação não será exibida no site.
 
 ## Atributos
 
@@ -203,6 +200,4 @@ Depois de preencher a planilha, acesse __Integrações__ no menu do Admin:
 
 Com o upload concluído, a integração envia automaticamente todos os produtos das categorias usadas na planilha para o Mercado Livre.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> os produtos só serão enviados ao Mercado Livre caso a autenticação da integração já tenha sido realizada. Se você ainda não fez isso, siga o passo a passo <a href="https://help.vtex.com/pt/tutorial/integrando-com-mercado-livre#autorizar-integracao-no-painel-da-vtex">neste artigo</a>.
-</div>
+>⚠️ **OBS:** os produtos só serão enviados ao Mercado Livre caso a autenticação da integração já tenha sido realizada. Se você ainda não fez isso, siga o passo a passo [neste artigo](https://help.vtex.com/pt/tutorial/integrando-com-mercado-livre#autorizar-integracao-no-painel-da-vtex).

@@ -38,9 +38,7 @@ In the **Action** column, all Headless CMS events also display the following inf
 * **VARIANT_ID:** unique identifier of the content version.
 * **WORKSPACE**: workspace where the action occurred.
 
-<div class="alert alert-info">
-  <p>Check the complete <a href="https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ">list of events available in Audit</a>.</p>
-</div>
+>ℹ️ Check the complete [list of events available in Audit](https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 
 ## What needs to be done?
 No action is required. The change in Audit is already active for all accounts, recording the [list of events](#what-has-changed) mentioned above.

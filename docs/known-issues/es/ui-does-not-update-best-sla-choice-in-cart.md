@@ -18,9 +18,7 @@ internalReference: 550201
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando tenemos dos SKUs en el carrito cuyo SLAID de los artículos tiene una intersección, este es el SLA que se ofrecerá en el carrito con leanShipping activo;

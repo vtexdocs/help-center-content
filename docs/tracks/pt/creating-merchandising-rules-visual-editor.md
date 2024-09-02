@@ -40,9 +40,7 @@ Para configurar uma [regra de merchandising](https://help.vtex.com/pt/tracks/vte
     Saiba mais sobre essas ações nos itens **IV, V, VI, VIII, IX** e **XI** da seção [Ações disponíveis no Editor visual](#acoes-disponiveis-no-editor-visual]).
 9. Clique em `Salvar`.
 
-<div class="alert alert-info">
-  <p>Após salvar, as alterações de regras de merchandising levam em média dois minutos para serem atualizadas.</p>
-</div>
+>ℹ️ Após salvar, as alterações de regras de merchandising levam em média dois minutos para serem atualizadas.
 
 ## Ações disponíveis no Editor visual
 

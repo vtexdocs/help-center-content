@@ -18,9 +18,7 @@ internalReference: 1050068
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se a mesma opção de montagem for adicionada a produtos diferentes, o FastStore os mesclará em um único item de linha.

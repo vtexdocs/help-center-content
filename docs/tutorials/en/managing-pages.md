@@ -34,9 +34,7 @@ In **Headless CMS**, you can manage all the URL routes and page templates for yo
 To create and manage a page, follow these steps:
 
 1. In your VTEX Admin, access **Headless CMS**.
-<div class="alert alert-warning">
-  Make sure you are in the correct project. If not, go to the <b>Project</b> menu in the upper left corner, select the name of the project where you want to create the page, and continue to step 2.
-</div>
+>⚠️ Make sure you are in the correct project. If not, go to the **Project** menu in the upper left corner, select the name of the project where you want to create the page, and continue to step 2.
 2. Click `Create document` and select the desired page type. 
 
 3. Under `Untitled`, name the page.

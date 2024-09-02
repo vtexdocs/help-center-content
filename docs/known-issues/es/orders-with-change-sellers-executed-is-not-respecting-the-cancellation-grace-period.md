@@ -18,9 +18,7 @@ internalReference: 656815
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Los pedidos con cambio de vendedor, tienen el respectivo pedido en el primer vendedor cancelado y se creará un nuevo pedido en el segundo vendedor. Si incluso el nuevo pedido está fuera del período de gracia de cancelación, el usuario todavía puede cancelar el pedido.

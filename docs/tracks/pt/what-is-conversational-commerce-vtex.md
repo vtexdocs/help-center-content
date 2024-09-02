@@ -22,9 +22,7 @@ Para utilização do suporte humano, o Message-to-Order já está pré integrado
 
 ![chatbot-PT](https://images.ctfassets.net/alneenqid6w5/5w2PKYYmrGDYuiP0t4jQXU/2e05dae6dd79cd1352cade3533624f68/Captura_de_Tela_2022-07-28_a__s_11.13.08.png)
 
-<div class="alert alert-info">
-O Message-to-Order é um produto em fase de início de operação com escopo reduzido (Alpha). Portanto o perfil de cliente e mercados que abrange ainda é limitado a BR e LATAM e às capacidades disponibilizadas pelo cliente nesse estágio.
-</div>
+>ℹ️ O Message-to-Order é um produto em fase de início de operação com escopo reduzido (Alpha). Portanto o perfil de cliente e mercados que abrange ainda é limitado a BR e LATAM e às capacidades disponibilizadas pelo cliente nesse estágio.
 
 Para adicionar o Conversational Commerce VTEX à sua loja, são necessárias duas configurações:
 

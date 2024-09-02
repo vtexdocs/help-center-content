@@ -58,9 +58,7 @@ Não é possível desativar as "Default requirements", e estão à mostra na pá
 * Ref ID possui quantidade de caracteres máximo de 50
 * EAN possui quantidade de caracteres máximo de 50
 
-<div class="alert alert-info">
-  É possível configurar a auto aprovação de anúncios pelo VTEX Matcher por meio de chamadas de API REST <a href="https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig">Save Account's Approval Settings</a>. São critérios diferentes dos disponíveis para visualização na página de Filtros de qualidade dos anúncios e se aplicam à aprovação automática de anúncios de determinados sellers.
-  </div>
+>ℹ️ É possível configurar a auto aprovação de anúncios pelo VTEX Matcher por meio de chamadas de API REST [Save Account's Approval Settings](https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig). São critérios diferentes dos disponíveis para visualização na página de Filtros de qualidade dos anúncios e se aplicam à aprovação automática de anúncios de determinados sellers.
 
 ## Criar grupos de requisitos 
 Crie grupo de requisitos para definir as regras aplicadas a sellers, categorias ou marketplaces. Os grupos de requisitos aplicam regras aos campos listados a seguir. Saiba mais sobre a definição de cada Tipo de requisito.
@@ -81,9 +79,7 @@ Crie grupo de requisitos para definir as regras aplicadas a sellers, categorias 
 
 É possível criar requisitos obrigatórios e/ou opcionais. Saiba mais sobre as implicações de cada requisito em [Catalogar anúncios com requisitos](#catalogar-anuncios-com-requisitos). 
 
-<div class="alert alert-info">
-Note que cada grupo de requisito só comporta um valor. Portanto, para adicionar mais de um valor é necessário criar outro grupo de requisito. Por exemplo, se o marketplace quiser adicionar as palavras "Blusas" e "Camisas" como requisitos obrigatórios para o campo Marca do seller, é necessário criar um grupo de requisito para "Blusas" e outro para "Camisas".
-  </div>
+>ℹ️ Note que cada grupo de requisito só comporta um valor. Portanto, para adicionar mais de um valor é necessário criar outro grupo de requisito. Por exemplo, se o marketplace quiser adicionar as palavras "Blusas" e "Camisas" como requisitos obrigatórios para o campo Marca do seller, é necessário criar um grupo de requisito para "Blusas" e outro para "Camisas".
 
 Para criar um novo grupo de requisitos:
 

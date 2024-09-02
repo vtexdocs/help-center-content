@@ -33,9 +33,7 @@ Por exemplo, caso o seu menor recebível seja de R$10, esse é o valor mínimo q
 
 ![image](https://images.ctfassets.net/alneenqid6w5/oWY3RyEekfyjuBEjI27m3/18aba6b309f1acb3f945100927d25ead/image.png)
 
-<div class="alert alert-info">
-<strong>Atenção</strong>: recebíveis em disputa ou previstos para o próximo dia útil não podem ser antecipados.
-</div>
+>ℹ️ **Atenção**: recebíveis em disputa ou previstos para o próximo dia útil não podem ser antecipados.
 
 Desse modo, confira o passo a passo para solicitar a antecipação:
 

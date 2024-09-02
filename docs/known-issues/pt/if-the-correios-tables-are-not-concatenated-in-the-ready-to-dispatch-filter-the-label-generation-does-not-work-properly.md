@@ -18,9 +18,7 @@ internalReference: 517449
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A falta de agrupamento nas tabelas dos Correios dificulta o uso do filtro Ready to dispatch assim como pode levar a algum erro, e selecionar a tabela errada.

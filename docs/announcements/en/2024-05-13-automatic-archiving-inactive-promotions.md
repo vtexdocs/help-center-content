@@ -31,9 +31,7 @@ We have implemented the following improvements to the promotion management exper
 
 **Feature optimization:** We've improved the loading time and performance of the promotions list.
 
-<div class = "alert alert-info">
-To view the promotions that have been automatically archived, go to VTEX Admin <b>Promotions > Promotions</b>, or type <b>Promotions</b> in the search bar at the top of the page. In the top right corner, click <i class="fas fa-ellipsis-v" aria-hidden="true"></i>, and then click Applied Promotions.
-</div>
+>ℹ️ To view the promotions that have been automatically archived, go to VTEX Admin **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page. In the top right corner, click <i class="fas fa-ellipsis-v" aria-hidden="true"></i>, and then click Applied Promotions.
 
 ## What needs to be done?
 

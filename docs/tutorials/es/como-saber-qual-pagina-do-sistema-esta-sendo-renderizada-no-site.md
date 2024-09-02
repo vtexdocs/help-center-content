@@ -31,8 +31,6 @@ A continuación se muestra la relación entre la carpeta en el CMS y el código 
 
 ![CommerceContext](https://images.contentful.com/alneenqid6w5/6diTrNVvl6OuwGKmoICSA0/4e958baa7ab163bcf06ac5963795feff/CommerceContext.png)
 
-<div class="alert alert-info">
-Esta línea de código está siempre comentada. Por lo tanto, tiene función sólo informativa. Es decir, no realiza ninguna acción.
-</div>
+>ℹ️ Esta línea de código está siempre comentada. Por lo tanto, tiene función sólo informativa. Es decir, no realiza ninguna acción.
 
 Esta información es útil, por ejemplo, para saber qué carpeta la búsqueda por cierto término está retornando en su tienda.

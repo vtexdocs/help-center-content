@@ -18,9 +18,7 @@ internalReference: 987467
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando uma conta altera as opções de parcelamento de um produto, apesar de o produto estar corretamente indexado, as opções de parcelamento não são atualizadas no PLP ou no PDP (às vezes em ambos).

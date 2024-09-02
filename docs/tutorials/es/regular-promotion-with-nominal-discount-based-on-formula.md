@@ -48,17 +48,13 @@ Puedes hacer una multiplicación para calcular el porcentaje de descuento desead
 
 Para priorizar un cálculo antes que otro, escribe entre paréntesis el cálculo que se debe realizar primero`()`. Por ejemplo: si una tienda quiere aplicar un descuento del 40% sobre el valor total más el envío, la fórmula debe ser `(total + freight) * 0.4`.
 
-<div class="alert alert-info">
-  <p>Usa siempre el punto (<code>.</code>) como separador decimal.</p>
-</div>
+>ℹ️ Usa siempre el punto (`.`) como separador decimal.
 
 ## Funciones
 
 Si quieres, puedes usar la función `min` para [limitar el valor del descuento](#limitar-el-valor-del-descuento) o la función `max` para [priorizar el mayor descuento posible](#priorizar-el-mayor-descuento-posible). Sigue leyendo para obtener más detalles sobre estas posibilidades.
 
-<div class="alert alert-info">
-<p>Al usar las funciones, debes incluir un espacio entre la función y los paréntesis de apertura. Por ejemplo: <code>min (total * 0.2,  10)</code>.</p>
-</div>
+>ℹ️ Al usar las funciones, debes incluir un espacio entre la función y los paréntesis de apertura. Por ejemplo: `min (total * 0.2,  10)`.
 
 ### Limitar el valor del descuento
 

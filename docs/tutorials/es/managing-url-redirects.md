@@ -46,7 +46,5 @@ Algunos editores, como Google Sheets, exportan los archivos CSV con la coma (<co
 
 Si deseas exportar tus redirecciones, haz clic en <i class="fas fa-download"></i> `Exportar` y se descargarán a tu computadora.
 
-<div class="alert alert-info">
-No se puede crear redirecciones con rutas predefinidas como “home” "/", "login", "account", etc. Recomendamos la creación manual según las instrucciones descritas anteriormente.
-</div>
+>ℹ️ No se puede crear redirecciones con rutas predefinidas como “home” "/", "login", "account", etc. Recomendamos la creación manual según las instrucciones descritas anteriormente.
 

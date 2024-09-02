@@ -18,9 +18,7 @@ internalReference: 1089066
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, al configurar un impuesto nominal junto con promociones de regalo en el mismo artículo, el módulo de promociones, al comunicarse con la aplicación de pago, podría generar un redondeo diferente del valor del impuesto

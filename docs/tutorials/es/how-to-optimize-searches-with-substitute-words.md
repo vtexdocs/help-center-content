@@ -15,25 +15,19 @@ legacySlug: optimizar-las-busquedas-con-palabras-sustitutas
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning">
-No recomendamos el uso de <a href="https://help.vtex.com/es/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu">Palabras sustitutas</a> cuando se utilice Intelligent search. Para asociar palabras con productos es preferible emplear <a href="https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZ">Sinónimos</a>, ya que permiten gestionar los términos por producto de una forma más escalable. Para más información, ponte en contacto con <a href="https://support.vtex.com/hc/es/requests">nuestro equipo de soporte</a>.
-</div>
+>⚠️ No recomendamos el uso de [Palabras sustitutas](https://help.vtex.com/es/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu) cuando se utilice Intelligent search. Para asociar palabras con productos es preferible emplear [Sinónimos](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZ), ya que permiten gestionar los términos por producto de una forma más escalable. Para más información, ponte en contacto con [nuestro equipo de soporte](https://support.vtex.com/hc/es/requests).
 
 ## Cómo funciona el buscador
 El buscador de VTEX posee un algoritmo inteligente que, a partir del término buscado, identifica cuál es el mejor resultado para presentarle al usuario, o sea, se le presenta siempre el resultado que generará más conversión de venta.
 
-<div class="alert alert-info">
-Ver más detalles de <a href="https://help.vtex.com/es/tutorial/como-funciona-la-busqueda-de-vtex--tutorials_542">como funciona la búsqueda</a> en VTEX.
-</div>
+>ℹ️ Ver más detalles de [como funciona la búsqueda](https://help.vtex.com/es/tutorial/como-funciona-la-busqueda-de-vtex--tutorials_542) en VTEX.
 
 ## Que utilidad tiene una palabra sustituta
 Si el sistema de búsqueda no identifica Landing Page, Marca o Departamento de acuerdo al término buscado, aplica una búsqueda por Palabra Sustituta (palabra clave). 
 
 Pese a tener un peso bajo para la puntuación del indexador, la utilización de palabras sustitutas es un recurso extremadamente importante, ya que hace posible alcanzar a usuarios que realizan búsquedas por términos con errores gramaticales (spagetti), redacción fonética (espagueti) o palabras mal escritas por accidentes al teclearlas (spaguetto), pero con la misma semántica que la palabra original (spaguetti).
 
-<div class="alert alert-info">
-Un recurso muy utilizado para agilizar las búsquedas del equipo interno es colocar el RefId/EAN como Palabra Sustituta en el producto. De este modo, se pueden hacer búsquedas más veloces, con resultados únicos y encontrar ágilmente el producto buscado.
-</div>
+>ℹ️ Un recurso muy utilizado para agilizar las búsquedas del equipo interno es colocar el RefId/EAN como Palabra Sustituta en el producto. De este modo, se pueden hacer búsquedas más veloces, con resultados únicos y encontrar ágilmente el producto buscado.
 
 ## Cómo cargo una palabra sustituta
 

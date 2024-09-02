@@ -18,9 +18,7 @@ internalReference: 1004883
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Algumas transações podem não corresponder ao estado real quando você as abre (problema de indexação).

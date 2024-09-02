@@ -18,9 +18,7 @@ internalReference: 971948
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As alterações feitas usando a página de estilos da interface do usuário do administrador não estão sendo salvas corretamente no momento e nem sempre são aplicadas ao site.

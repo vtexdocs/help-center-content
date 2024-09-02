@@ -22,10 +22,12 @@ Available for everyone since October 2017 the new CDN will be mandatory __starti
 __Important:__ The main requirement to use the new CDN is __enabling HTTPS in your whole website__. You must pay special attention to HTTP requests, that should turn into the HTTPS protocol in order to work under the new CDN. See how to [enable HTTPS throughout your website](/en/tutorial/enable-https-throughout-the-site) and pay attention to the requirements for this migration.
 
 So, remember:
-<div class="alert alert-warning">
-You have until <b>april 20th</b> to:<br>
-- Enable HTTPS in your whole website.<br>
-- Activate VTEX's new CDN.
-</div>
+>⚠️ You have until **april 20th** to:
+>
+> 
+> - Enable HTTPS in your whole website.
+>
+> 
+> - Activate VTEX's new CDN.
 
 After this, __crashes may occur__ in the stores that haven't completed the process, from broken layouts to your store going completely *offline* . We recommend you to enable HTTPS and activate the new CDN in this period, so your customers will enjoy the best e-commerce experience.

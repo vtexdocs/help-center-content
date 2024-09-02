@@ -18,9 +18,7 @@ internalReference: 319750
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El sistema no funciona con más de una afiliación de pago de prórroga

@@ -18,9 +18,7 @@ internalReference: 780767
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando una subcuenta está procesando transacciones, el cuerpo de la solicitud está enviando la propiedad "merchantName" con el nombre de la cuenta principal. En algunos casos, debido a este comportamiento, el conector no puede autorizar las transacciones por su parte, provocando la pérdida de pedidos.

@@ -17,15 +17,13 @@ subcategory: t5ai1r0dN7J4U1IYLbHmG
 
 O [VTEX Tracking ](https://help.vtex.com/pt/tutorial/vtex-tracking-overview--1uDRquVudbPuoK05MtbZGh) é uma solução para rastreio de entregas. A plataforma permite acompanhar e gerenciar cada entrega da sua loja. Para que as informações necessárias para realização das entregas dos pedidos estejam disponíveis na plataforma VTEX Tracking é preciso realizar uma integração de pedidos. Dessa forma, os pedidos e serviços ficam disponíveis para criação de rotas no VTEX Tracking.
 
-<div class="alert alert-warning">
-Para importar pedidos, é necessário cumprir os requisitos abaixo:
-<body>
-<ol>
-<li>Os pedidos precisam estar faturados.</li>
-<li>Nos casos em que o pedido é roteirizado externamente (fora do VTEX Tracking), a roteirização precisa ser feita antes da importação.</i>
-</ol>
-</body>
-</div>
+>⚠️ Para importar pedidos, é necessário cumprir os requisitos abaixo:
+> <body>
+>
+> Os pedidos precisam estar faturados.
+> <li>Nos casos em que o pedido é roteirizado externamente (fora do VTEX Tracking), a roteirização precisa ser feita antes da importação.</i>
+>
+> </body>
 
 Há dois cenários de integração:
 

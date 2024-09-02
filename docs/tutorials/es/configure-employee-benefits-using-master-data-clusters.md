@@ -17,21 +17,16 @@ subcategory: 42hDtnYXHw5ExG6l19RP1l
 
 En VTEX, se puede aplicar una promoción o descuento a un grupo de clientes. Este grupo de clientes se puede definir por las propiedades que tienen en común.
 
-<div class="alert alert-warning">
-Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso.
- <ul>
-<li>
-<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-Características de las versiones de Master Data
- </a>
-</li>
-<li>
-<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-Master Data v2
- </a>
-</li>
-</ul>
-</div>
+>⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso.
+>
+> *<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
+> Características de las versiones de Master Data
+>  </a>
+>
+> *<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
+> Master Data v2
+>  </a>
+> 
 
 Este artículo muestra cómo configurar una promoción para los empleados. Se considera que los empleados son un grupo de clientes, por lo que se identifican mediante clústeres de Master Data.
 

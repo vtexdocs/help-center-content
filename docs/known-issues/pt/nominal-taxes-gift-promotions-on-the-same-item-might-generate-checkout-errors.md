@@ -18,9 +18,7 @@ internalReference: 1089066
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, ao configurar um imposto nominal junto com promoções de presentes no mesmo item, o módulo de promoções, ao se comunicar com o aplicativo de checkout, pode gerar um arredondamento diferente do valor do imposto

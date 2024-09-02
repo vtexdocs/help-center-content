@@ -22,9 +22,7 @@ These variables are JSON properties in the __JSON Data__ field and can be used i
 
 ### Example
 
-<div class="alert alert-warning">
-JSON Data examples will only appear in templates when you complete the desired action in your store. If you have not transacted an order, recurrence or any other action, JSON Data will appear blank.
-</div>
+>⚠️ JSON Data examples will only appear in templates when you complete the desired action in your store. If you have not transacted an order, recurrence or any other action, JSON Data will appear blank.
 
 Let's say you want to enter the carrier's name in the order sent email.
 

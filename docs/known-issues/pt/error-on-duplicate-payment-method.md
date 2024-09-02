@@ -18,9 +18,7 @@ internalReference: 929428
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao duplicar um método de pagamento que não possui parcelas, o operador recebe a seguinte mensagem na tela: "O sistema de pagamento atual não permite opções de parcelamento". Isso acontece porque, quando o corpo da solicitação de criação na nova regra é criado, alguns campos são inseridos por padrão, incluindo installmentOptions, mas esse campo não existe para pagamentos à vista, como débito e boleto.

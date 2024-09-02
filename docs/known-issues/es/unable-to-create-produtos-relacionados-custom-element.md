@@ -18,9 +18,7 @@ internalReference: 326899
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 No se puede crear el elemento personalizado "Produtos Relacionados" en el CMS

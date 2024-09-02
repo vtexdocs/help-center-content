@@ -18,9 +18,7 @@ internalReference: 315485
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As promoções e os impostos restritos por métodos de envio não funcionam para os vendedores Whitelabel. Eles não serão aplicados na solicitação de simulação (usada para o carrinho e o checkout) porque a solicitação do marketplace não especifica o `selectedSla` e, portanto, seus valores não serão apresentados ao usuário.

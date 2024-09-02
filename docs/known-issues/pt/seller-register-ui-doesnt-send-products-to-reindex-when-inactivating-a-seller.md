@@ -18,9 +18,7 @@ internalReference: 915970
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao usar a nova interface de usuário de experiência do vendedor, /admin/sellers, a ação de inativar um vendedor deve reindexar seus produtos relacionados para que possam ser removidos dos mercados associados, o que não está acontecendo atualmente.

@@ -18,9 +18,7 @@ internalReference: 890658
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Remover a validação under_review no fluxo Update SKU porque quando o vendedor aplica as ações para corrigir os casos de moderação e estes estão relacionados com o catálogo, não estamos enviando essas alterações para o MELI e, finalmente, os anúncios MELI continuam sendo moderados.

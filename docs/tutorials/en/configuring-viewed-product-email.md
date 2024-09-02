@@ -15,9 +15,7 @@ legacySlug: configuring-product-visited
 subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-<div class="alert alert-warning">
-  <p>This tutorial is only applicable to Legacy CMS Portal stores.</p>
-</div>
+>⚠️ This tutorial is only applicable to Legacy CMS Portal stores.
 
 The viewed product email is an automatic message sent to customers who have accessed a product page on the site but have not placed an order. The purpose of sending this  email is to recover the sale and offer other products.
 
@@ -29,9 +27,7 @@ You can configure this type of email trigger using Master Data. To do this, foll
 4. [Creating a folder structure](#creating-a-folder-structure)
 5. [Configuring the email trigger](#configuring-the-email-trigger)
 
-<div class="alert alert-warning">
-  <p>Your store must have a high flow of visits and orders for this feature to work properly since shelves are created based on browsing data for a specific product.</p>
-</div>
+>⚠️ Your store must have a high flow of visits and orders for this feature to work properly since shelves are created based on browsing data for a specific product.
 
 ## Setting a minimum trigger range
 

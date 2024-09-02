@@ -54,9 +54,7 @@ After creating the product specification, your product will be available for FBA
 
 ### 2. Defining a shipping strategy for FBA Onsite orders  
 
-<div class="alert alert-info">
-You need to ensure that the <a href=https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV>trade policy</a> you choose is specifically for Amazon to guarantee that another integration will not use the inventory you create. 
-</div>   
+>ℹ️ You need to ensure that the <a href=https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV>trade policy</a> you choose is specifically for Amazon to guarantee that another integration will not use the inventory you create.   
 
 To proceed with the configuration, it is necessary to determine a [shipping strategy](https://help.vtex.com/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) exclusively for FBA Onsite orders, that is, to specify the delivery operation of your products.  
 

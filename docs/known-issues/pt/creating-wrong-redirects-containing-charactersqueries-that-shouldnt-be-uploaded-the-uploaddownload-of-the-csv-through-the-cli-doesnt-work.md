@@ -18,9 +18,7 @@ internalReference: 971936
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Após criar redirecionamentos incorretos contendo caracteres que não devem ser carregados, ou seja, #, consultas ou redirecionamentos que devem ser criados no nível do servidor, o upload/download em massa do csv por meio da CLI não funciona mais: #, consultas ou redirecionamentos que devem ser criados no nível do servidor, o upload/download em massa do csv por meio da CLI não funciona mais.

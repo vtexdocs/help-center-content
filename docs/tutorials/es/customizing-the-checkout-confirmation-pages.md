@@ -40,7 +40,7 @@ Es importante recordar que los templates para personalización son los mismos pa
 
 ### Personalización de estilos
 
-<div class="alert alert-warning">Todas estas formas de personalización se pueden cambiar en el futuro. Al usarlas, usted entiende que su tienda debe seguir las actualizaciones de la plataforma para que su personalización siga funcionando correctamente.</div>
+>⚠️ Todas estas formas de personalización se pueden cambiar en el futuro. Al usarlas, usted entiende que su tienda debe seguir las actualizaciones de la plataforma para que su personalización siga funcionando correctamente.
 
 También se puede editar la interfaz del Checkout Confirmation mediante clases CSS. Sus estilos se deben agregar en una tag `<style>` en uno de los templates HTML cargadas en la página.
 

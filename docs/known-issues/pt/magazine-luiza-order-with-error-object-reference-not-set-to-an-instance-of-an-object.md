@@ -18,9 +18,7 @@ internalReference: 777298
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Algumas ordens não foram criadas em OMS+Bridge e no log mostra erro: "Referência de objeto não definida para uma instância de um objeto".

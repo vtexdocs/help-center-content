@@ -15,6 +15,4 @@ legacySlug: autenticandose-con-usuario-y-contrasena-en-la-interfaz-rest
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---
 
-<div class="alert alert-info">
-Este artículo ha sido descontinuado. Para autenticarse e integrarse con las APIs de VTEX, accede a nuestro artículo <a href="http://help.vtex.com/es/tutorial/claves-de-aplicacion">Claves de aplicación</a>.
-</div>
+>ℹ️ Este artículo ha sido descontinuado. Para autenticarse e integrarse con las APIs de VTEX, accede a nuestro artículo [Claves de aplicación](http://help.vtex.com/es/tutorial/claves-de-aplicacion).

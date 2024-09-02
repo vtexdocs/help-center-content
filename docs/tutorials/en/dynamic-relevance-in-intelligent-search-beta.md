@@ -15,10 +15,9 @@ legacySlug: dynamic-relevance-in-intelligent-search-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-<div class="alert alert-info">
-  <p>This feature is in closed beta, which means that only specific customers can access it now. If you want to implement it in the future, please contact <a href="https://support.vtex.com/hc/pt-br/requests">our support</a>.</p>
-  <p>For selected customers, the functionality is available for free use in the VTEX Admin during its Beta period, or until decided by VTEX. Extra fees may apply in the future.</p>
-</div>
+>ℹ️ This feature is in closed beta, which means that only specific customers can access it now. If you want to implement it in the future, please contact [our support](https://support.vtex.com/hc/pt-br/requests).
+>
+> For selected customers, the functionality is available for free use in the VTEX Admin during its Beta period, or until decided by VTEX. Extra fees may apply in the future.
 
 Relevance is the feature that defines the ranking of products in search results. This configuration allows you to set weights and prioritize certain criteria, such as popularity, release date, and participation in promotions. Intelligent Search determines the relevance of each product by combining weights and priorities defined by each merchant.
 
@@ -29,9 +28,7 @@ In Intelligent Search, you can configure your search relevance in two ways:
 
 Only one of these is applied to your store at a time, and you can [change the relevance type configured](#changing-relevance-type). If you change the relevance from manual to dynamic, all the manual rules you have set will remain saved.
 
-<div class = "alert alert-info">
-Manual relevance is the store default setting.
-</div>
+>ℹ️ Manual relevance is the store default setting.
 
 ## Manual relevance
 
@@ -66,9 +63,7 @@ To enable dynamic relevance, follow these steps:
 
 To change the relevance type, follow the steps below:
 
-<div class = "alert alert-warning">
-We do not recommend constantly changing the relevance type used by your store. The system needs a week to settle.
-</div>
+>⚠️ We do not recommend constantly changing the relevance type used by your store. The system needs a week to settle.
 
 1. In the VTEX Admin, go to **Storefront > Intelligent Search > Relevance Rules** or type **Relevance Rules** in the search bar at the top of the page.
 2. Click `Change`.

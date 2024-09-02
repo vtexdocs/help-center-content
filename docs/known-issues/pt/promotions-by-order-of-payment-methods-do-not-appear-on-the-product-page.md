@@ -18,9 +18,7 @@ internalReference: 781523
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A página do produto mostra o preço do SKU apenas com algumas promoções, que não inclui as condições específicas para as formas de pagamento nem o número de parcelas. Estas só são aplicadas durante o checkout, após o usuário ter optado explicitamente pelo uso de uma determinada condição de pagamento.

@@ -18,9 +18,7 @@ internalReference: 938379
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As mensagens de erro de cupom no Minicart não aparecerão na primeira vez que você tentar um cupom, mesmo que ele não exista.

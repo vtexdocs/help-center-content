@@ -18,9 +18,7 @@ internalReference: 701169
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O gatilho do produto visitado, que utiliza os dados capturados por Request Capture, é configurado com o filtro "checkout" definido como "nulo". Entretanto, a Request Capture precisa passar pelo checkout para capturar os dados do usuário e de navegação e preenchê-los nos Dados Mestres. Como resultado, o gatilho não funciona corretamente porque o RC não pode preencher os dados antes do checkout.

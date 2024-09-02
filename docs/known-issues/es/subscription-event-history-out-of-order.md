@@ -18,9 +18,7 @@ internalReference: 872697
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, el Historial de suscripciones en el área Mi suscripción , no muestra los eventos en un orden predefinido, por lo que puede mostrar los eventos en orden no cronológico;

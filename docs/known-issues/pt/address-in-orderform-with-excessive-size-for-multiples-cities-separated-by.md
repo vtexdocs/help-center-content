@@ -18,9 +18,7 @@ internalReference: 287854
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em alguns casos, o Checkout API usa "::" como separador quando há várias possibilidades de cidades do serviço de CEP, causando um erro sobre o tamanho excessivo no endereço de campo, impactando a colocação do pedido. Este comportamento acontece porque a API tem um autocompletar para endereço

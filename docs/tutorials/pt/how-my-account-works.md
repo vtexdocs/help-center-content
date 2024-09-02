@@ -26,9 +26,7 @@ A página __Minha Conta__ (__My Account__) oferece autonomia aos seus clientes p
 - [Assinaturas](#assinaturas)
 - [Autenticação](#autenticacao)
 
-<div class = "alert alert-info">
-Para saber sobre a customização da funcionalidade <b>Minha conta</b>, veja a documentação para desenvolvedores <a href="https://developers.vtex.com/docs/guides/vtex-my-account">My Account - StoreV2 version</a>. É importante ressaltar que a VTEX não presta suporte a <b>Minha Conta</b> quando customizada.
-</div>
+>ℹ️ Para saber sobre a customização da funcionalidade **Minha conta**, veja a documentação para desenvolvedores [My Account - StoreV2 version](https://developers.vtex.com/docs/guides/vtex-my-account). É importante ressaltar que a VTEX não presta suporte a **Minha Conta** quando customizada.
 
 ## Dados pessoais
 
@@ -77,9 +75,7 @@ O botão `Adicionar endereço` permite incluir endereços diferentes daqueles j�
 
 ## Pedidos
 
-<div class = "alert alert-info">
-Em <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>, os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
-</div>
+>ℹ️ Em [Minha Conta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
 
 Essa aba traz a listagem completa dos pedidos realizados pelo cliente na sua loja. A lista é ordenada por data de criação e exibe detalhes como data do pedido, valor total da compra, ID do pedido, status e itens adquiridos.
 
@@ -177,9 +173,7 @@ Para mudar a senha atual:
 4. Clique no botão `SALVAR SENHA` para concluir a mudança de senha.  
 ![My Authentication change password PT](https://images.ctfassets.net/alneenqid6w5/7qyiWDAjdSBEjppq6Ti94c/94f7323e8d97d28a4d5dac042c5c620b/My_Authentication_change_password_PT.png)
 
-<div class="alert alert-info">
-Caso você tenha esquecido a senha, não é possível recuperá-la pelo componente de gerenciamento de senha. Para isso você deve sair da sessão atual, fazer uma tentativa de login usando email e senha, e clicar no link <strong>Esqueci minha senha</strong>.
-</div>
+>ℹ️ Caso você tenha esquecido a senha, não é possível recuperá-la pelo componente de gerenciamento de senha. Para isso você deve sair da sessão atual, fazer uma tentativa de login usando email e senha, e clicar no link **Esqueci minha senha**.
 
 ### Gerenciamento de sessões
 

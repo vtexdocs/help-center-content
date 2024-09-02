@@ -25,9 +25,7 @@ Los conceptos de [marketplace y seller](https://help.vtex.com/es/tutorial/estrat
 - __Marketplace__ es el ambiente donde se cierra el pedido, es decir, donde el cliente realiza el proceso de pago.
 - __Seller__ es el propietario del SKU. Por lo tanto, es responsable del fulfillment, es decir, de entregar el producto al cliente.
 
-<div class="alert alert-info">
-Cuando la tienda vende productos en su propio ambiente y realiza sus propias entregas es Marketplace y Seller al mismo tiempo.
-</div>
+>ℹ️ Cuando la tienda vende productos en su propio ambiente y realiza sus propias entregas es Marketplace y Seller al mismo tiempo.
 
 Es importante comprender estos conceptos porque el flujo de pedidos en el Marketplace es diferente del flujo en el Seller.
 
@@ -71,14 +69,13 @@ Una vez que el pago ha sido aprobado, el pedido pasa a `Pago Aprobado` y luego a
 
 Es decir, en este caso, los pasos de pago y entrega son responsabilidad de la tienda.
 
-<div class="alert alert-info">
-Cada pedido se completa solo en uno de dos estados posibles:<br>
-<ul>
-  <li>Facturado</li>
-  <li>Cancelado</li>
-</ul>
-</div>
+>ℹ️ Cada pedido se completa solo en uno de dos estados posibles:
+>
+> 
+>
+> * Facturado
+>
+> * Cancelado
+> 
 
-<div class="alert alert-info">
-Para comprender el status de cada pedido con más detalle, consulte nuestra tabla con todos los status en <a href="https://help.vtex.com/es/tutorial/fluxo-de-pedido--tutorials_196#entiendo-los-estados">Entendiendo los status</a>.
-</div>
+>ℹ️ Para comprender el status de cada pedido con más detalle, consulte nuestra tabla con todos los status en [Entendiendo los status](https://help.vtex.com/es/tutorial/fluxo-de-pedido--tutorials_196#entiendo-los-estados).

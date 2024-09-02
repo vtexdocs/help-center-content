@@ -47,11 +47,7 @@ Sigue los pasos a continuación para facturar el pedido (total o parcialmente) o
 5. Rellena los campos.
 6. Haz clic en `Guardar factura`.
 
-<div class = "alert alert-info">
-Puedes consultar las instrucciones para el envío de facturas vía Admin VTEX en el artículo <a href="https://help.vtex.com/es/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v">Cómo facturar un pedido</a>. Si deseas facturar el pedido vía API, utiliza el endpoint <a href="https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice">Order invoice notification</a>. 
-</div>
+>ℹ️ Puedes consultar las instrucciones para el envío de facturas vía Admin VTEX en el artículo [Cómo facturar un pedido](https://help.vtex.com/es/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v). Si deseas facturar el pedido vía API, utiliza el endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
 
-<div class = "alert alert-info">
-Si es necesario realizar ajustes en el pedido, puedes <a href="https://help.vtex.com/es/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw">modificarlo a través del Admin VTEX</a>.
-</div>
+>ℹ️ Si es necesario realizar ajustes en el pedido, puedes [modificarlo a través del Admin VTEX](https://help.vtex.com/es/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw).
 

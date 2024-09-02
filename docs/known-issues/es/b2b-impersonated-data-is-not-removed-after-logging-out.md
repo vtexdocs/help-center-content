@@ -18,9 +18,7 @@ internalReference: 1067969
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El cierre de sesión después de hacerse pasar por un usuario en B2B Suite no elimina los permisos de la tienda de la sesión.

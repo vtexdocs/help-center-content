@@ -18,9 +18,7 @@ internalReference: 623376
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando apagamos ou perdemos o acesso ao usuário vinculado a uma regra de aprovação de ordem, esta ordem não pode ser reprocessada para que um novo usuário possa aprovar a ordem e com isso a ordem permanece pendente de aprovação.

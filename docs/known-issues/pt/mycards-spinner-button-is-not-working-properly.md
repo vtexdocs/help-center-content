@@ -18,9 +18,7 @@ internalReference: 780667
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Após clicar no botão "Salvar cartão novo", os usuários esperam ver algum feedback indicando que algo está sendo processado. Infelizmente, falta a experiência atual, já que o botão não exibe a animação "spinner" esperada. Isto pode ser frustrante para os usuários e diminuir a experiência geral do usuário.

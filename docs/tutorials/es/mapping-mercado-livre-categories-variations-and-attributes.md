@@ -15,9 +15,7 @@ legacySlug: mapeo-de-categorias-variaciones-y-atributos-de-mercado-libre
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class="alert alert-info">
-Si va a enviar sus productos a Mercado Libre por primera vez, le recomendamos que utilice la <a href="https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA">nueva documentación de Mapeo de categorías.</a>
-</div>
+>ℹ️ Si va a enviar sus productos a Mercado Libre por primera vez, le recomendamos que utilice la [nueva documentación de Mapeo de categorías.](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA)
 
 Después de realizar la [configuración inicial para la integración con Mercado Libre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw), es necesario categorizar las variaciones y los atributos de los productos y enviarlos al marketplace. El envío de esta información se realiza mediante la **carga de la plantilla de mapeo**, que hace la correspondencia entre las categorías, variaciones y atributos de su tienda con los estándares adoptados por Mercado Libre.
 
@@ -83,9 +81,9 @@ El nombre de estas debe estar exactamente de acuerdo con los valores aceptados p
 
 Son variaciones adicionales que se pueden crear de acuerdo con su necesidad. Solo se puede tener una variación personalizable por producto. El nombre de la variación y sus valores son de libre elección.  
 
-<div class="alert alert-info">Mercado Libre no permite usar precios diferentes para cada variación de un anuncio, los precios de los SKUs tienen que ser rigurosamente los mismos. Para modificar el precio de su producto, acceda en el Admin a Productos > Precios > Lista de precios.</div>
+>ℹ️ Mercado Libre no permite usar precios diferentes para cada variación de un anuncio, los precios de los SKUs tienen que ser rigurosamente los mismos. Para modificar el precio de su producto, acceda en el Admin a Productos > Precios > Lista de precios.
 
-<div class="alert alert-info">En caso de que el SKU no tenga una especificación (color, por ejemplo), será necesario <a href="https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin">registrarla en VTEX</a> antes de completar el proceso de integración. Se recomienda agregar el atributo que falta como una especificación de producto. </div>
+>ℹ️ En caso de que el SKU no tenga una especificación (color, por ejemplo), será necesario [registrarla en VTEX](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) antes de completar el proceso de integración. Se recomienda agregar el atributo que falta como una especificación de producto.
 
 ## Atributos
 
@@ -97,7 +95,7 @@ Para descubrir las especificaciones de su producto en Mercado Libre, copie la UR
 
 http://portal.vtexcommercestable.com.br/api/meliintegration/category/{CategoryId}/attributes
 
-<div class="alert alert-info">Si está mapeando la categoría “Camisetas” (MLB31447), usted notará que se pueden registrar varios atributos, entre ellos “Género” que solo acepta los valores “Masculino”, “Femenino”, “Niñas”, “Niños”, “Bebés”, “Sin género”. Cualquier valor que sea diferente no será aceptado por Mercado Libre. También tome en cuenta que se pueden registrar atributos con valores que tienen <strong>Texto libre</strong>, es decir, en los que se puede ingresar cualquier valor para los atributos.</div>
+>ℹ️ Si está mapeando la categoría “Camisetas” (MLB31447), usted notará que se pueden registrar varios atributos, entre ellos “Género” que solo acepta los valores “Masculino”, “Femenino”, “Niñas”, “Niños”, “Bebés”, “Sin género”. Cualquier valor que sea diferente no será aceptado por Mercado Libre. También tome en cuenta que se pueden registrar atributos con valores que tienen **Texto libre**, es decir, en los que se puede ingresar cualquier valor para los atributos.
 
 ## Ingresando las variaciones y atributos en la plantilla de mapeo 
 
@@ -180,5 +178,4 @@ Al concluir las etapas para rellenar la plantilla de mapeo, usted debe seguir lo
 
 Después de finalizar la carga, la integración envía a Mercado Libre todos los productos de las categorías utilizadas en la plantilla de forma automática. 
 
-<div class="alert alert-warning">
-Si después de cargar una plantilla usted desea cargar otra, debe saber que la nueva plantilla reemplazará a la antigua. Por eso, recomendamos que la nueva plantilla que cargue contenga los datos antiguos y nuevos. </div>
+>⚠️ Si después de cargar una plantilla usted desea cargar otra, debe saber que la nueva plantilla reemplazará a la antigua. Por eso, recomendamos que la nueva plantilla que cargue contenga los datos antiguos y nuevos.

@@ -18,9 +18,7 @@ internalReference: 937615
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando um comprador tiver um perfil completo e a loja estiver configurada para usar um endereço de fatura para retirada, a interface do usuário avançará para o pagamento com um endereço de fatura incompleto.

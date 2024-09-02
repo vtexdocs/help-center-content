@@ -19,9 +19,7 @@ Quando um seller vende em um marketplace, por vezes há uma diferença entre o p
 
 Para otimizar o processamento de pedidos com erro de diferença de preço, existe o fluxo de Autorização de pedidos, no qual o seller pode [configurar uma regra de Divergência de valores](https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe). No Admin VTEX, acesse **Configurações da loja > Pedidos > Autorização de pedidos**, ou digite **Autorização de pedidos** na barra de busca no topo da página.
 
-<div class="alert alert-warning">
-Uma vez que o seller cria a regra de Divergência de valores, ela passa a valer para todos os marketplaces.
-</div>
+>⚠️ Uma vez que o seller cria a regra de Divergência de valores, ela passa a valer para todos os marketplaces.
 
 A regra de Divergência de valores é composta de uma ou mais regras de autorização de pedidos. Cada regra de autorização corresponde a um intervalo percentual do preço do pedido, e pode variar de 0% a 100%. É necessário associar uma entre três ações a cada regra de autorização:
 
@@ -33,9 +31,7 @@ A regra de Divergência de valores é composta de uma ou mais regras de autoriza
 
 Quando a [configuração de uma regra de Divergência de valores](https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe) não foi feita, pedidos com erro de divergência de preço são aprovados automaticamente. Isso vale para marketplaces VTEX, marketplaces externos e conectores certificados (parceiros), mas não para [conectores nativos](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex).
 
-<div class="alert alert-warning">
-Quando um seller está integrado a um conector nativo, como o Mercado Livre ou a B2W, mas não configurou uma regra de Divergência de valores, pedidos com erro por diferença de preço ficam pendentes até a criação da regra. É possível acompanhá-los no seu Admin VTEX, em <b>Marketplace > Conexões > Pedidos</b>.
-</div>
+>⚠️ Quando um seller está integrado a um conector nativo, como o Mercado Livre ou a B2W, mas não configurou uma regra de Divergência de valores, pedidos com erro por diferença de preço ficam pendentes até a criação da regra. É possível acompanhá-los no seu Admin VTEX, em **Marketplace > Conexões > Pedidos**.
 
 Após a criação da regra de Divergência de valores, pedidos de integrações com conectores nativos que apresentem diferença de preço passam a ser exibidos na página [Todos os pedidos](https://help.vtex.com/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi).
 
@@ -51,9 +47,7 @@ Para criar uma regra de Divergência de valores, o usuário precisa ter o perfil
 
 Você pode acompanhar pedidos integrados a partir da regra de Divergência de valores no Admin VTEX, em **Pedidos > [Todos os pedidos](https://help.vtex.com/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi)**.
 
-<div class = "alert alert-info">
-É importante acompanhar regularmente os pedidos no módulo <b>Pedidos</b> Caso exijam aprovação manual, os pedidos permanecem pendentes até que um usuário habilitado conceda a autorização necessária.
-</div>
+>ℹ️ É importante acompanhar regularmente os pedidos no módulo **Pedidos** Caso exijam aprovação manual, os pedidos permanecem pendentes até que um usuário habilitado conceda a autorização necessária.
 
 ### Saiba mais
 

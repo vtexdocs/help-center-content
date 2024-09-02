@@ -52,9 +52,7 @@ Check out our articles for an overview of each menu in your VTEX Admin to learn 
 - [User Settings](https://help.vtex.com/en/v4/docs/visao-geral-configuracoes-usuario--1qYAvOTZBVYMosJ7tQm3Ry)  
 - [Billing](https://help.vtex.com/en/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC)  
 
-<div class="alert alert-info">
-You can also use the search bar at the top of the VTEX Admin to find specific pages from the side menu. 
-</div>
+>ℹ️ You can also use the search bar at the top of the VTEX Admin to find specific pages from the side menu.
 
 ### Information Center
 
@@ -91,9 +89,7 @@ Feedback type (select one or more options):
 
 **A screenshot will help us better understand your feedback (optional):** Optional field to add screenshots or documents that can help us understand your feedback in more detail.
 
-<div class = "alert alert-info">
-This feedback process should not be used to create a ticket or technical support request at VTEX.
-</div>
+>ℹ️ This feedback process should not be used to create a ticket or technical support request at VTEX.
 
 ### User and Account Settings
 

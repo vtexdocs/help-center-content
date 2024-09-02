@@ -18,9 +18,7 @@ internalReference: 1066548
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al intentar cargar un archivo con más de 200 redirecciones, el frente entra en un bucle y lee esas redirecciones tres veces. Esto puede llevar a más redirecciones en el mensaje de error en pantalla o en el modal de carga. Las redirecciones no se están duplicando, pero las estamos leyendo más de una vez.

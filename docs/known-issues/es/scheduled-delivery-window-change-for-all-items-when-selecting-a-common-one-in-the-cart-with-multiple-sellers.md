@@ -18,9 +18,7 @@ internalReference: 1089806
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando dos artículos de diferentes vendedores con entrega programada están en un carro, sus ventanas de entrega pueden solaparse. Si la fecha seleccionada para el primer artículo es anterior al periodo solapado, la interfaz de pago tendrá en cuenta la fecha del segundo artículo. Por ejemplo:

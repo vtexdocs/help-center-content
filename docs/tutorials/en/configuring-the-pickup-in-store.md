@@ -15,9 +15,7 @@ legacySlug: configuring-the-pickup-in-store
 subcategory: 1c5Btie9ou2Gg2iUo0ggqM
 ---
 
-<div class="alert alert-danger">
-This article is obsolete. To set up the pickup point correctly, go to the article <a href="https://help.vtex.com/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E">Registering Pickup Points</a>
-</div>
+>❗ This article is obsolete. To set up the pickup point correctly, go to the article [Registering Pickup Points](https://help.vtex.com/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E)
 
 
 The store pickup configuration enables the customer to opt not to receive the product at home, but to collect it at a store. The following steps show how to give the customer the option of selecting a store for pickup at checkout, during the purchase flow. The configuration is made on 3 different modules of the platform, as described below.

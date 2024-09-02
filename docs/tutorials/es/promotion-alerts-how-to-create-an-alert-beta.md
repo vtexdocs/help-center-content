@@ -15,9 +15,7 @@ legacySlug: alerta-de-promociones-como-crear-una-alerta-beta
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
-<div class = "alert alert-info">
-Este módulo está en fase beta. Esto significa que estamos trabajando para mejorarlo. Si tienes alguna duda, por favor ponte en contacto con nuestro <a href="https://support.vtex.com/hc/pt-br/requests">equipo de soporte</a>.
-</div>
+>ℹ️ Este módulo está en fase beta. Esto significa que estamos trabajando para mejorarlo. Si tienes alguna duda, por favor ponte en contacto con nuestro [equipo de soporte](https://support.vtex.com/hc/pt-br/requests).
 
 Crear promociones es una buena estrategia para atraer a más compradores a tu sitio de ecommerce. Al configurarlas, es muy importante tener cuidado de que los descuentos aplicados tengan los efectos esperados, ya que los errores al registrar promociones pueden causar pérdidas de ingresos.
 

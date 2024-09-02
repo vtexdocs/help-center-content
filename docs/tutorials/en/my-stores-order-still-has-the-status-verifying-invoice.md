@@ -47,11 +47,7 @@ To invoice the order (fully or partially) or edit the invoice data via the VTEX 
 5. Complete the fields.
 6. Click `Save Invoice`.
 
-<div class = "alert alert-info">
-You can find detailed instructions on how to submit an invoice via the VTEX Admin in <a href="https://help.vtex.com/en/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v">How to invoice an order</a>. If you want to invoice the order via API, use the <a href="https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice">Order invoice notification</a> endpoint.
-</div>
+>ℹ️ You can find detailed instructions on how to submit an invoice via the VTEX Admin in [How to invoice an order](https://help.vtex.com/en/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v). If you want to invoice the order via API, use the [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice) endpoint.
 
-<div class = "alert alert-info">
-If the order needs to be adjusted, you can <a href="https://help.vtex.com/en/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw">change the order via the VTEX Admin</a>.
-</div>
+>ℹ️ If the order needs to be adjusted, you can [change the order via the VTEX Admin](https://help.vtex.com/en/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw).
 

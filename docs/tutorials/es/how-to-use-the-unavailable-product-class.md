@@ -43,9 +43,8 @@ Usted puede personalizar su archivo CSS para que esta clase muestre, por ejemplo
 
 ## Determinar amqué especificación se asignará la clase
 
-<div class="alert alert-warning">>
-La clase de producto sólo se asigna a la especificación que aparece por último en la lista de especificaciones de SKU en el módulo Catalog.
-</div>
+>⚠️ >
+> La clase de producto sólo se asigna a la especificación que aparece por último en la lista de especificaciones de SKU en el módulo Catalog.
 
 Por ejemplo, en el caso del SKU, solo la especificación `Tamanho` recibirá la clase de indisponibilidad.
 

@@ -18,9 +18,7 @@ internalReference: 793457
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Devido à falta de notificações e a problemas de cache, algumas rotas são armazenadas em cache como não encontradas no vbase e no rewriter pelo store-indexer, afetando a experiência quando essas rotas estão disponíveis novamente, sendo necessário enviar uma nova indexação e novas notificações ou aguardar o tempo do store-indexer para acionar a nova indexação novamente

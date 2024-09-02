@@ -15,9 +15,7 @@ legacySlug: promotions-beta
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
-<div class="alert alert-danger">
-<p>This feature will be discontinued on May 16, 2022. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.</p>
-</div>
+>❗ This feature will be discontinued on May 16, 2022. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.
 
 The VTEX platform allows you to optimally and practically add different promotion types suited for different scenarios. Through a centralized interface for managing promotions, your store can offer more benefits focused on customer attraction and retention.
 
@@ -98,9 +96,7 @@ This effect generates a total discount on the value of the product that is defin
 - __SKUs__: option that allows you to select the SKU of the giveaway.
 - __Maximum quantity per purchase__: allows you to choose the maximum number of giveaways per order.
 
-<div class="alert alert-warning">
-  <p>You must add prices for all <b>giveaway products</b>, even though they are given for free.</p>
-</div>
+>⚠️ You must add prices for all **giveaway products**, even though they are given for free.
 
 #### Shipping
 - __Discount type__
@@ -126,9 +122,7 @@ This effect generates a total discount on the value of the product that is defin
   - __UTM source__.
   - __ZIP code range__.
 
-<div class="alert alert-info">
-<p>If you want to link an <a href= "https://help.vtex.com/en/tutorial/como-criar-cupom--tutorials_319?&utm_source=autocomplete">existing coupon</a> to the new promotion, you must select UTM Campaign and UTM Source and inform the coupon codes. </p>
-</div>
+>ℹ️ If you want to link an <a href= "https://help.vtex.com/en/tutorial/como-criar-cupom--tutorials_319?&utm_source=autocomplete">existing coupon</a> to the new promotion, you must select UTM Campaign and UTM Source and inform the coupon codes.
 
 ### Coupons
 If you want to create a new coupon linked to the promotion, click on __NEW COUPON__ and fill in the following fields:
@@ -141,15 +135,11 @@ By clicking on __Advanced Settings__, you can also configure an additional field
 
 - __Limit use__: limits the number of times the coupon can be used.
 
-<div class="alert alert-warning">
-<p>To save this new coupon, click on the <b>OK</b> button. If you close the <b>NEW COUPON</b> window without saving the changes, the coupon will not be created.</p>
-</div>
+>⚠️ To save this new coupon, click on the **OK** button. If you close the **NEW COUPON** window without saving the changes, the coupon will not be created.
 
 When you create a new coupon for the new promotion, the coupon will also be displayed in the __Coupons__ tab of the __Promotions & Taxes__ module. In addition, your UTM Source and/or UTM Campaign conditions will be automatically linked to the new promotion in the __Specific customers__ filter.
 
-<div class="alert alert-warning">
-<p>If you change the UTM Source and UTM Campaign conditions in the <b>Specific customers</b> filter settings <b>after</b> creating the coupon, it will be deleted.</p>
-</div>
+>⚠️ If you change the UTM Source and UTM Campaign conditions in the **Specific customers** filter settings **after** creating the coupon, it will be deleted.
 
 ### Restrictions
 - __Limit use in the store__: limits the number of times the promotion can be used in the store.

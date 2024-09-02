@@ -15,9 +15,7 @@ legacySlug: configurar-inicio-de-sesion-con-apple-id-beta
 subcategory: 5uXA9a0laSLMkfbv6jQRDS
 ---
 
-<div class="alert alert-info">
-  <p>Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si estás interesado en implementarla en el futuro, ponte en contacto con <a href="https://help.vtex.com/es/support">nuestro Soporte</a>.</p>
-</div>
+>ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si estás interesado en implementarla en el futuro, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support).
 
 En VTEX, no es necesario crear una cuenta o iniciar sesión para realizar una compra. Sin embargo, si el cliente desea editar los datos informados durante la primera compra, debe comprobar que el email en cuestión le pertenece.
 
@@ -72,9 +70,7 @@ Ahora que todo está listo, puedes probar la configuración. Recomendamos que re
 4. Completa la autenticación de dos factores, si se te solicita.
 5. Escoge si deseas compartir tu email con la aplicación u [Ocultar mi correo](https://support.apple.com/es-mx/HT210425) y haz clic en `Continuar`. Recomendamos compartir el email, ya que hay [limitaciones](#limitaciones) respecto al email oculto en VTEX.
 
-<div class="alert alert-info">
-  <p>La opción de compartir u ocultar el email solo aparece la primera vez que se accede a la tienda con el Apple ID. Después, solo es necesario hacer clic en <code>Continuar</code>. Para redefinir la opción de compartir el email, accede a la <a href="https://appleid.apple.com/mx/">página de administración de Apple ID</a>, revoca la autorización de la tienda y vuelve a iniciar sesión.</p>
-</div>
+>ℹ️ La opción de compartir u ocultar el email solo aparece la primera vez que se accede a la tienda con el Apple ID. Después, solo es necesario hacer clic en `Continuar`. Para redefinir la opción de compartir el email, accede a la [página de administración de Apple ID](https://appleid.apple.com/mx/), revoca la autorización de la tienda y vuelve a iniciar sesión.
 
 Luego de eso, estarás autenticado en la tienda.
 

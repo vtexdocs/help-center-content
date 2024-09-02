@@ -21,9 +21,7 @@ En esta sección, se mostrará la lista de usuarios con sus respectivos __Nombre
 
 ![Lista Usuários User Management ES](https://images.ctfassets.net/alneenqid6w5/1IjRv0l2rDBrSWtHj82CDm/e5e96de76d8d66202887bd3339e0f01d/Lista_Usu__rios_User_Management_ES.png)
 
-<div class="alert alert-warning">
-Cualquier usuario que desee gestionar usuarios o claves de aplicación debe tener un perfil que contenga el <a href="https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso</a> <b>Save User</b>. Puedes utilizar, por ejemplo, el perfil predeterminado <a href="https://help.vtex.com/es/tutorial/roles-de-usuario-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted">User Administrator - RESTRICTED</a>.
-</div>
+>⚠️ Cualquier usuario que desee gestionar usuarios o claves de aplicación debe tener un perfil que contenga el [recurso](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) **Save User**. Puedes utilizar, por ejemplo, el perfil predeterminado [User Administrator - RESTRICTED](https://help.vtex.com/es/tutorial/roles-de-usuario-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted).
 
 ## Creando un nuevo usuario
 

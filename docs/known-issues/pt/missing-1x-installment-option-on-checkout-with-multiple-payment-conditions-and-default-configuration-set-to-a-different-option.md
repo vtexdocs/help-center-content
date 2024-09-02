@@ -18,9 +18,7 @@ internalReference: 709971
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando há mais de uma condição de pagamento configurada para um sistema de pagamento e uma condição de pagamento diferente daquela com a opção de parcelamento em 1x está configurada como padrão, a opção de parcelamento em 1x não aparece na página de checkout. Nesses casos, apenas a opção de parcelamento em 1x é removida do checkout.

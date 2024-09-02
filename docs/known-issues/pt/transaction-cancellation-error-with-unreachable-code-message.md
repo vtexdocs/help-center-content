@@ -18,9 +18,7 @@ internalReference: 998435
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O cancelamento de uma transação completa pode falhar ao retornar a mensagem `Código inacessível` (visível apenas por meio da API).

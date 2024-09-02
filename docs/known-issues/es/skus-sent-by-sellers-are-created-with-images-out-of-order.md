@@ -18,9 +18,7 @@ internalReference: 648349
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el sku es enviado por un vendedor y aprobado en el módulo de Skus Recibidos, las imágenes del nuevo sku en el catálogo del marketplace están fuera del pedido enviado por el vendedor.

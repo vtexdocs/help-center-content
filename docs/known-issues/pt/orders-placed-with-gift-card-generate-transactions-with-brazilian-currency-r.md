@@ -18,9 +18,7 @@ internalReference: 1083379
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os pagamentos com Gift Card não são criados com um `currencyCode`, como consequência, as transações serão criadas com o padrão R$ (Real brasileiro), o que não acontece quando outro método de pagamento está presente (por exemplo, Gift Card + Cartão de crédito).

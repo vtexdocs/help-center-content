@@ -22,9 +22,7 @@ Para iniciar la configuración de la integración, realiza los siguientes pasos:
 2. Por estándar, los campos sobre la **región y la moneda**, así como la **URL** de tu tienda VTEX, estarán rellenados. Revisa la información y realiza cambios si es necesario.
 3. Mantén activada la opción _Habilitar la integración de Píxel_, a menos que tengas una implementación personalizada de Facebook Pixel. 
 
-  <div class = "alert alert-info">
-Independientemente de que tengas instalada la <a href= "https://apps.vtex.com/vtex-facebook-pixel/p">aplicación de Facebook Pixel</a>, se recomienda que la opción <b>Habilitar la integración de Píxel</b> permanezca activada. La excepción es cuando ya utilizas Google Tag Manager. Obtén más información en <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D/434Z1iWnaa0zbOMDyr6oi#pixel-de-facebook">Píxel de Facebook </a>.
-</div>
+  >ℹ️ Independientemente de que tengas instalada la <a href= "https://apps.vtex.com/vtex-facebook-pixel/p">aplicación de Facebook Pixel</a>, se recomienda que la opción **Habilitar la integración de Píxel** permanezca activada. La excepción es cuando ya utilizas Google Tag Manager. Obtén más información en <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D/434Z1iWnaa0zbOMDyr6oi#pixel-de-facebook">Píxel de Facebook </a>.
 
 4. Haz clic en `CONTINUAR CON FACEBOOK`.
 5. En la siguiente pantalla, se te pedirá tu cuenta de Facebook. Rellena tus datos y haz clic en `Entrar`. Si tienes configurada la [integración con Facebook](https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc), tus datos ya estarán guardados.
@@ -33,9 +31,7 @@ Independientemente de que tengas instalada la <a href= "https://apps.vtex.com/vt
 8. A continuación, haz clic en `Continuar`.
 9. Elige qué permisos deben concederse a VTEX en la integración.
 
-  <div class="alert alert-danger">
-Para que la integración funcione correctamente, se recomienda conceder todos los permisos indicados. Por estándar, aparecen como habilitados.
-</div>
+  >❗ Para que la integración funcione correctamente, se recomienda conceder todos los permisos indicados. Por estándar, aparecen como habilitados.
 
 10. Haz clic en `Siguiente`.
 11. En la ventana abierta, aparecerá una confirmación de que la integración se ha realizado. Haz clic en `Listo`.

@@ -29,9 +29,7 @@ El primer paso de configuración será la creación del pago personalizado  __ta
 6. En __Red de la tarjeta__, escoja la franquicia a la cual la tarjeta de su tienda está vinculada. Actualmente, las franquicias posibles son: American Express, Cabal, Diners, Elo, Mastercard y Visa.
 7. En __Rangos de Bin (opcional)__, puedes ingresar un rango de BIN (ingresando el primer y último código de la secuencia, separados por un guión) o varios (separando cada rango por una coma y sin espacios).
 
-<div class="alert alert-warning">
-  Cuando el cliente ingresa un número de contenedor fuera del rango especificado en este campo, se mostrará el siguiente mensaje "Verifique los dígitos impresos en su tarjeta. No pudimos confirmar si el número de la tarjeta es correcto". Si no hay ningún error en el número ingresado, podrán hacer clic en "SÍ, EL NÚMERO DE LA TARJETA ES CORRECTO" para continuar completando el pedido.
-</div>
+>⚠️ Cuando el cliente ingresa un número de contenedor fuera del rango especificado en este campo, se mostrará el siguiente mensaje "Verifique los dígitos impresos en su tarjeta. No pudimos confirmar si el número de la tarjeta es correcto". Si no hay ningún error en el número ingresado, podrán hacer clic en "SÍ, EL NÚMERO DE LA TARJETA ES CORRECTO" para continuar completando el pedido.
 
 <blockquote><ui>8. En el campo <b>Código de pago del adquiriente (opcional)</b>, indique el código a ser enviado y procesado por el adquiriente contratado por usted.</ui>
 
@@ -42,9 +40,7 @@ El primer paso de configuración será la creación del pago personalizado  __ta
 ## Configurar condición de pago
 Después de configurar la tarjeta, deberá configurar la condición de pago.
 
-<div class="alert alert-warning">
-  Si el conector para ser elegido (en el <b>Paso 8.</b>)no está registrado en su tienda, se mostrará el mensage "(Configurar)" después del nombre del conector. En esta situación, elija otro conector disponible o regístrelo. Para obtener más información, acceda <a href="https://help.vtex.com/es/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#">Registrar afiliaciones de gateway</a>.
-</div>
+>⚠️ Si el conector para ser elegido (en el **Paso 8.**)no está registrado en su tienda, se mostrará el mensage "(Configurar)" después del nombre del conector. En esta situación, elija otro conector disponible o regístrelo. Para obtener más información, acceda [Registrar afiliaciones de gateway](https://help.vtex.com/es/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
 
 1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
 2. En la pestaña __Condiciones de pago__, haga clic en el botón __“+”__.

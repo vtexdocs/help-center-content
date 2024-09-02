@@ -17,9 +17,7 @@ subcategory: 1wvyJwJhKgewxGeAGCVmM6
 
 The **Redirects** feature directs customers to another page, either internal or external to the store. This redirection is done in the search area of your storefront, using terms or filters selected by the customer. This way, one of the advantages of the Redirects feature is to contemplate communication scenarios that are not covered by the store's catalog search, such as redirecting a search for a brand to its promotional page.
 
-<div class="alert alert-warning">
-<p>This feature is available in VTEX Intelligent Search: Multilanguage. To learn more, please refer to our article VTEX Intelligent Search: Multilanguage settings (Beta).</p>
-</div>
+>⚠️ This feature is available in VTEX Intelligent Search: Multilanguage. To learn more, please refer to our article VTEX Intelligent Search: Multilanguage settings (Beta).
 
 ## How redirects work
 

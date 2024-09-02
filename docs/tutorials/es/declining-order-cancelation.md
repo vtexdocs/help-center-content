@@ -23,13 +23,9 @@ En el flujo de pedidos hay un [periodo de cancelación](https://help.vtex.com/es
 
 Para contenido para desarrolladores, consulte [Order canceling improvements](https://developers.vtex.com/docs/guides/order-canceling-improvements).
 
-<div class = "alert alert-info">
-En este artículo, los términos marketplace y seller se refieren a <a href="https://help.vtex.com/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace">marketplace VTEX</a> y <a href="https://help.vtex.com/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-seller">seller VTEX</a>. La funcionalidad de denegar solicitudes de cancelación de pedidos no está disponible para sellers o marketplaces externos.
-</div>
+>ℹ️ En este artículo, los términos marketplace y seller se refieren a [marketplace VTEX](https://help.vtex.com/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace) y [seller VTEX](https://help.vtex.com/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-seller). La funcionalidad de denegar solicitudes de cancelación de pedidos no está disponible para sellers o marketplaces externos.
 
-<div class = "alert alert-warning">
-No es posible <a href="https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186">cancelar</a> pedidos <a href="https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">parcialmente facturados</a>. Si el cliente desea sustituir o remover ítems del pedido, es posible <a href="https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">modificar el pedido</a>.
-</div>
+>⚠️ No es posible [cancelar](https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186) pedidos [parcialmente facturados](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 ## Diagrama de denegación de cancelación de pedidos
 
@@ -44,13 +40,12 @@ La descripción de cada paso es la siguiente:
 3. Si el pedido se encuentra dentro del periodo de cancelación, se cancelará automáticamente, siendo este el comportamiento predeterminado de la plataforma. Los próximos pasos reflejan lo que ocurre cuando el periodo de cancelación ha terminado.
 4. El seller recibe la **Solicitud de cancelación** del pedido y decide si la acepta o no. Los próximos pasos informan lo que ocurre cuando el seller decide no cancelar el pedido.
 
-  <div class="alert alert-danger">
-Para denegar una solicitud de cancelación, el status del pedido para marketplace y seller deben ser los siguientes:
-<ul>
-<li><b>Status del marketplace:</b> esperando decisión del seller.</li>
-<li><b>Status del seller:</b> cancelación solicitada.</li>
-</ul>
-</div>
+  >❗ Para denegar una solicitud de cancelación, el status del pedido para marketplace y seller deben ser los siguientes:
+>
+> ***Status del marketplace:** esperando decisión del seller.
+>
+> ***Status del seller:** cancelación solicitada.
+> 
 
 5. El seller deniega la solicitud de cancelación del pedido y se lo notifica al marketplace.
 6. Una vez que el marketplace recibe la respuesta del seller, el pedido continúa su progresión en el flujo de pedidos.
@@ -61,9 +56,7 @@ La solicitud de cancelación de un pedido puede realizarse por el marketplace o 
 
 Después, el [status del pedido](https://help.vtex.com/es/tutorial/order-flow-and-status--tutorials_196) se mostrará de la siguiente manera: `cancelación solicitada` para el marketplace y `esperando decisión del seller` para el seller, hasta que este tome una decisión, ya sea para aceptar o denegar la solicitud.
 
-<div class="alert alert-warning">
-Si en el plazo de 30 días el seller no toma ninguna acción respecto a la solicitud de cancelación del pedido, el pedido será cancelado automáticamente por la plataforma VTEX.
-</div>
+>⚠️ Si en el plazo de 30 días el seller no toma ninguna acción respecto a la solicitud de cancelación del pedido, el pedido será cancelado automáticamente por la plataforma VTEX.
 
 Para denegar una solicitud de cancelación del pedido a través del Admin VTEX, sigue los pasos que se indican a continuación:
 
@@ -77,9 +70,7 @@ Para denegar una solicitud de cancelación del pedido a través del Admin VTEX, 
 
   ![deny cancel request reason](https://images.ctfassets.net/alneenqid6w5/1okkX2L4JdZ57qcdZ758O4/fae33faa395d0aa0c51b2cd645bbf2f8/deny_cancel_request_reason_ES.png)
 
-  <div class="alert alert-warning">
-Atención: el cliente puede recibir el mensaje que ingreses en este campo a través de <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi cuenta</a> o a través del marketplace.
-</div>
+  >⚠️ Atención: el cliente puede recibir el mensaje que ingreses en este campo a través de [Mi cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh) o a través del marketplace.
 
 5. Haz clic en `Denegar`.
 

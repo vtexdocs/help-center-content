@@ -25,6 +25,4 @@ Mas fique tranquilo: essa migração não vai impactar sua rotina diária, já q
 
 Você pode sair na frente e acessar o __novo Admin__ usando a url `https://{AccountName}.myvtex.com/admin`, substituindo _{AccountName}_ pelo account name da sua loja.
 
-<div class="alert alert-warning">
-Os módulos de legado (Catálogo, Master Data e CMS) continuam sendo direcionados para seus ambientes externos.
-</div>
+>⚠️ Os módulos de legado (Catálogo, Master Data e CMS) continuam sendo direcionados para seus ambientes externos.

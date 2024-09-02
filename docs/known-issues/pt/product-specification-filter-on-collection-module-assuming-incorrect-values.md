@@ -18,9 +18,7 @@ internalReference: 926593
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 No módulo Collection, o filtro Product Specifications (Especificações do produto) não está funcionando corretamente quando a especificação tem o tipo "Text" (Texto) e "Large Text" (Texto grande). Quando esse tipo de especificação é selecionado, uma caixa de texto é aberta para inserir os valores possíveis separados por vírgula, tabulação ou enter. Entretanto, ao digitar apenas um caractere, o sistema o assume como um valor mesmo sem separar os termos.

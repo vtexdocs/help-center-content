@@ -18,9 +18,7 @@ internalReference: 627537
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Los informes de búsqueda inteligente muestran los términos consultados por Google Bot. Se espera que esto sea filtrado.

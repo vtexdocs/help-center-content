@@ -18,9 +18,7 @@ internalReference: 542029
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualizar el nombre del usuario en la sección de inicio de sesión

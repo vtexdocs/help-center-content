@@ -18,9 +18,7 @@ internalReference: 1081437
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A exportação de tabelas de preços está falhando devido à limitação da API do Catalog. Esse problema ocorre quando o sistema excede os limites de taxa do serviço Catalog durante o processo de exportação, impedindo a recuperação dos preços dos produtos após a busca inicial da SKU.

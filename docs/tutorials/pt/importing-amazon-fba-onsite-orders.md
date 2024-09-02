@@ -52,9 +52,7 @@ Após criar a especificação de produto, seu produto estará ativo para os pedi
 
 ### 2. Definir Estratégia de Envio para Pedidos FBA Onsite
 
-<div class="alert alert-info">
-É importante assegurar que a <a href=”https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV”>política comercial</a> utilizada é específica para a Amazon. Dessa forma, você garante que o estoque criado não será utilizado por outra integração.
-</div>  
+>ℹ️ É importante assegurar que a <a href=”https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV”>política comercial</a> utilizada é específica para a Amazon. Dessa forma, você garante que o estoque criado não será utilizado por outra integração.  
 
 Para dar continuidade à configuração, é preciso determinar uma [Estratégia de Envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) exclusiva para o FBA Onsite, ou seja, informar qual será a operação de entrega de seus produtos.  
 

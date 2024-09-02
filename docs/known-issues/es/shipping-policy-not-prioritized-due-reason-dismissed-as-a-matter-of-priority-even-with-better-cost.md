@@ -18,9 +18,7 @@ internalReference: 379685
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el cliente establece un coste desde el almacén hasta el muelle en la tarifa de envío, puede afectar a la selección de la política de envío. Esto puede ocurrir porque el coste del muelle no se incluye en la priorización de las pólizas de envío. Por lo tanto, se puede priorizar una política de envío que sea más cara para el consumidor, ya que el cálculo del valor del flete no tuvo en cuenta el coste del muelle.

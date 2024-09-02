@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'Los productos de la categoría Celulares y Smartphones en MeLi tendrán un nuevo atributo obligatorio'
 ---
 
-<div class = "alert alert-info">
-Atributo necesario únicamente para los clientes integrados en Brasil.
-</div>
+>ℹ️ Atributo necesario únicamente para los clientes integrados en Brasil.
 
 Cuando una tienda VTEX integrada con Mercado Libre quiere [enviar sus productos](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA) al catálogo del marketplace, debe mapear las categorías y atributos de estos productos.
 

@@ -17,9 +17,7 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 En VTEX, es posible realizar la integración con el adquirente Rede. Configurando el conector __ERedev2__, su tienda podrá aceptar pagos con tarjetas de las principales redes.
 
-<div class="alert alert-info">
-<strong>Atención</strong>: actualmente, Rede cuenta con una versión más actualizada de su conector. Para saber más detalles de cómo configurar este adquirente, consulte el artículo sobre [ERedeREST](https://help.vtex.com/es/tutorial/configurar-adquirente-rede-con-erederest?locale=es "ERedeREST").
-</div>
+>ℹ️ **Atención**: actualmente, Rede cuenta con una versión más actualizada de su conector. Para saber más detalles de cómo configurar este adquirente, consulte el artículo sobre [ERedeREST](https://help.vtex.com/es/tutorial/configurar-adquirente-rede-con-erederest?locale=es "ERedeREST").
 
 Para configurar Rede, realice los siguientes pasos:
 

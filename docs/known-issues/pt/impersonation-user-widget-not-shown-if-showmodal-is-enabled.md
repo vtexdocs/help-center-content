@@ -18,9 +18,7 @@ internalReference: 1043039
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Após a representação de outro e-mail, espera-se que seja exibido um botão "Stop Impersonation", mas quando o `showModal` está ativado, ele não é exibido.

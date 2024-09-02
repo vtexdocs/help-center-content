@@ -18,9 +18,7 @@ internalReference: 771045
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando um pedido é gerado via boleto com a Braspag e nos dados de endereço, se tiver mais de 40 caracteres, os dados de endereço estão sendo cortados. Você precisará fazer uma melhoria mudando o limite de caracteres do campo de endereço de 40 caracteres para 60.

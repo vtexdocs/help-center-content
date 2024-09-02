@@ -75,16 +75,16 @@ Depois de baixar o modelo é preciso preencher os campos com as informações do
 * **Romaneio:** número do romaneio ou nome para a rota estruturada. Este campo será relevante caso a funcionalidade de romaneio esteja ativada pelo embarcador. É importante ressaltar que se essa funcionalidade estiver ativada, é possível criar rotas com datas futuras, sendo possível atribuir o portador no momento da criação. Também é possível atribuir a rota a um portador posteriormente. Para ativar essa funcionalidade entre em contato com o [suporte](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM). 
 * **Peso:** peso do pacote. Utilize quilogramas (Kg) como unidade de medida.
 
-<div class="alert alert-danger">
-Cuidados com o preenchimento da planilha:
- <body>
-<ul>
-  <li>Se algum campo não for utilizado deixe-o em branco.</li>
-  <li>Não altere os rótulos das colunas da planilha modelo.</li>
-  <li>Caso os campos estejam preenchidos de forma errada o serviço não será criado.</li>
-   </ul>
-  </body>
-</div>
+>❗ Cuidados com o preenchimento da planilha:
+>  <body>
+>
+> * Se algum campo não for utilizado deixe-o em branco.
+>
+> * Não altere os rótulos das colunas da planilha modelo.
+>
+> * Caso os campos estejam preenchidos de forma errada o serviço não será criado.
+>
+> </body>
 
 ![menu importação de serviços](https://images.ctfassets.net/alneenqid6w5/6VXBtxVKQvnNvqEwCI09dZ/15a4abddec959d9efdd9ae97f4116b97/importacao_servi__os.png)
 

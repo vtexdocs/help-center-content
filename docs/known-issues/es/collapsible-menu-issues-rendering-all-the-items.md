@@ -18,9 +18,7 @@ internalReference: 542091
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 A veces, cuando se utiliza un submenú plegable que tiene muchos elementos, el tamaño del menú puede fallar y con ello no mostrar todos los elementos dentro. Esto sucede debido a un valor calculado que define la altura del menú.

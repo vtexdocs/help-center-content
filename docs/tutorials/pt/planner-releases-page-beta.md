@@ -15,9 +15,7 @@ legacySlug: planner-pagina-lancamentos-beta
 subcategory: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
-<div class="alert alert-info">
-  <p>O <strong>Lançamentos</strong> está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam <a href="https://www.faststore.dev/">FastStore</a>.</p>
-</div>
+>ℹ️ O **Lançamentos** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam [FastStore](https://www.faststore.dev/).
 
 O módulo **Lançamentos** permite que você [gerencie seus lançamentos](https://help.vtex.com/pt/tutorial/planner-acoes-em-lancamentos-beta--1zsomdifPEQkdV6RW93JyW) de forma a coordenar a criação, planejamento e publicação das modificações na sua loja.
 
@@ -27,9 +25,7 @@ Na página **Lançamentos**, todos os lançamentos que existem são apresentados
 
 A ordenação dos lançamentos agendados é feita com base na data de publicação: quanto mais longínquo no futuro é um lançamento primeiro ele aparece na listagem, e quanto mais distante no passado, por último ele aparece.
 
-<div class="alert alert-warning">
-  <p>Na fase beta, os lançamentos precisam estar relacionados ao <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">CMS</a>, pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o <strong>Lançamentos</strong>, é necessário configurar o CMS conforme descrito em <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.</p>
-</div>
+>⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## Visualização em lista
 

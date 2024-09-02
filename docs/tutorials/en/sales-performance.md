@@ -36,9 +36,7 @@ To ensure that you have access to the latest updated data as well as to all of y
 
 These groups are also processed by different systems, which may cause a difference between the data of the OMS and Sales Performance. Although, we do aim for a maximum of 5% divergence.
 
-<div class ="alert alert-warning">
-The revenue metric may differ from the average ticket metric recorded in the OMS and Sales Performance, for example. This is because Sales Performance considers an order's item values, while OMS also considers discounts, freight, fees, and promotions applied to the order, which may increase or decrease its final total.
-</div>
+>⚠️ The revenue metric may differ from the average ticket metric recorded in the OMS and Sales Performance, for example. This is because Sales Performance considers an order's item values, while OMS also considers discounts, freight, fees, and promotions applied to the order, which may increase or decrease its final total.
 
 ## Period
 
@@ -212,9 +210,7 @@ The list represents the metrics and filters applied to the chart in table format
   - __Absolute__: view in absolute numbers the increase or decrease of the metrics between one period and another.   
   - __Representative__: view the percentage of representativeness of an item within a metric.  
 
-<div class="alert alert-info">
-Note that the metrics <em>Average ticket</em> and <em>Items per order</em> do not have Percent or Representative views available, as these metrics are calculated by dividing others, and the sum of all the parts of each of them does not equal the Total.
-</div>
+>ℹ️ Note that the metrics *Average ticket* and *Items per order* do not have Percent or Representative views available, as these metrics are calculated by dividing others, and the sum of all the parts of each of them does not equal the Total.
 
 ### Exporting data
 

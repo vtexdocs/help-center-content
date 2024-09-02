@@ -18,9 +18,7 @@ internalReference: 841704
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si utilizamos más de una configuración regional en la cuenta, la traducción se realizará en función del idioma al que se refiera la configuración regional, y si utilizamos más de una configuración regional en la cuenta, la traducción se realizará en función del idioma al que se refiera la configuración regional.

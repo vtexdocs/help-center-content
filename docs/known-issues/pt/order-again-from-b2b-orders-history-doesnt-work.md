@@ -18,9 +18,7 @@ internalReference: 819920
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao usar o aplicativo B2B Orders History, a funcionalidade Order Again não funciona.

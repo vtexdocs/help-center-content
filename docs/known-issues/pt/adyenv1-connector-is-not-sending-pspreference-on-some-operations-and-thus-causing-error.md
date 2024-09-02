@@ -18,9 +18,7 @@ internalReference: 758411
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 Em algumas operações, o conector nativo da AdyenV1 não está enviando o código `pspsReference` para a Adyen. Como esse campo é obrigatório para essa integração, recebemos uma resposta de erro quando ele está ausente.
 

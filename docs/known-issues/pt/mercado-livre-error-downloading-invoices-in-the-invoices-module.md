@@ -18,9 +18,7 @@ internalReference: 1087545
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Erro ao baixar faturas no módulo "Faturas" do Mercado Livre

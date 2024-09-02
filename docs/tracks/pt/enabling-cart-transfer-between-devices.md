@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugPT: habilitar-transferencia-de-carrinho-entre-dispositivos
 ---
 
-<div class="alert alert-danger">
-A ativação de Transferência de carrinho, explicada neste artigo, envolve e alteração do arquivo JavaScript <code>checkout-instore-custom.js</code>. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos.
-</div>
+>❗ A ativação de Transferência de carrinho, explicada neste artigo, envolve e alteração do arquivo JavaScript `checkout-instore-custom.js`. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos.
 
 A funcionalidade de __Transferência de carrinho__ do inStore permite que uma compra iniciada em um dispositivo possa ser finalizada em qualquer outro dispositivo presente no fluxo da compra, sem a necessidade de re-bipar os produtos.
 

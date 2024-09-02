@@ -15,7 +15,7 @@ legacySlug: configurar-gateway-mundipagg-fraud-prevention
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
+>❗ Esta integración de pago ya no se puede configurar en la plataforma debido al [proceso de descontinuación de los proveedores legados](https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14) y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.
 
 Mundipagg ofrece una versión de su [gateway](/es/tutorial/que-es-un-gateway-de-pagos) con la funcionalidad de antifraude. El Mundipagg Fraud Prevention trae aún más seguridad para el procesamiento de compras hechas con boletos, transferencias bancarias y las principales banderas de tarjetas de crédito.
 
@@ -36,9 +36,7 @@ Para configurar Mundipagg Fraud Prevention, siga los pasos abajo:
 13. En __Usa Antifraude__, informe si su tienda tiene la funcionalidad antifraude contratada con Mundipagg.
 14. Haga clic en __Guardar__.
 
-<div class="alert alert-info">
-Los pasos indicados en <strong>8</strong>, <strong>9</strong>, <strong>11</strong> y <strong>12</strong> se deben completar si usted desea ofrecer boletos bancarios como condición de pago en su tienda.
-</div>
+>ℹ️ Los pasos indicados en **8**, **9**, **11** y **12** se deben completar si usted desea ofrecer boletos bancarios como condición de pago en su tienda.
 
 ## Configurar la condición de pago
 Después de seguir los pasos indicados arriba, Mundipagg Fraud Prevention estará configurado en su tienda. Por lo tanto, cuando se registre una condición de pago, estará disponible en el campo __Procesar con la afiliación__ (siempre que el medio de pago sea compatible con Mundipagg Fraud Prevention). Para saber cómo definir condiciones de pago, acceda a [este artículo del Help](/es/tutorial/condiciones-de-pago).

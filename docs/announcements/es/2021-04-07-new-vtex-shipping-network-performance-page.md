@@ -41,7 +41,4 @@ Este proceso de actualización se realizará de forma nativa. No se requiere nin
 
 Para comprender mejor cómo funciona el desempeño de VTEX Shipping Network, lea el artículo[ Seguimiento de desempeño de transportadora](https://help.vtex.com/es/tutorial/painel-vtex-log--51e8tx1IehiN4ZtURRWU92?&utm_source=autocomplete).
 
-<div class="alert alert-info">
-
-Por el momento, VTEX Shipping Network solo está disponible para Brasil. Para obtener más información sobre VTEX Shipping Network, lea el artículo  <a href="https://vtex.com/br-pt/log/">Conozca VTEX Shipping Network, la solución para entregas de VTEX</a>.
-</div>
+>ℹ️ Por el momento, VTEX Shipping Network solo está disponible para Brasil. Para obtener más información sobre VTEX Shipping Network, lea el artículo  [Conozca VTEX Shipping Network, la solución para entregas de VTEX](https://vtex.com/br-pt/log/).

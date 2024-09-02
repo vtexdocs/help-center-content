@@ -18,9 +18,7 @@ internalReference: 276250
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o cliente tenta modificar as configurações feitas para pagamentos personalizados que já têm uma regra de pagamento associada, as mudanças não são refletidas no checkout.

@@ -47,9 +47,7 @@ Las demás páginas del Admin serán rediseñadas a lo largo de 2022.
 
 No se ha eliminado ninguna página del Admin VTEX, pero sí hemos reorganizado el menú de navegación para que se ajuste mejor a las páginas más visitadas y refleje las prioridades de tu operación. Aprende más sobre nuestra [navegación mejorada](https://help.vtex.com/es/v4/docs/admin-v4-start-here--3hVvfesyGq1RXkfzzh8o4k#Enhanced%20Navigation).
 
-<div class="alert alert-info">
-Puedes utilizar la barra de búsqueda en la parte superior del Admin VTEX para buscar páginas específicas. Las páginas que no son parte de nuestra edición estándar del Admin VTEX se pueden encontrar al acceder a Apps > Apps instaladas.  
-</div>
+>ℹ️ Puedes utilizar la barra de búsqueda en la parte superior del Admin VTEX para buscar páginas específicas. Las páginas que no son parte de nuestra edición estándar del Admin VTEX se pueden encontrar al acceder a Apps > Apps instaladas.
 
 Además de reorganizar el orden de las páginas, también hemos cambiado algunas de las etiquetas en el menú de navegación para que sean más uniformes y estén alineadas con las funcionalidades VTEX. Las tablas a continuación muestran los cambios de los nombres de secciones y páginas.
 

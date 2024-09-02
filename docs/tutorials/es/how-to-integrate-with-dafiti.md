@@ -62,9 +62,7 @@ El mapeo debe realizarse siempre que un producto se envíe por primera vez a Daf
 
 Siga el paso a paso siguiente, haciendo el de/para en la __Planilla de Mapeo__ entre el que está registrado en su producto en VTEX y los valores especificados de acuerdo con la __Planilla de Consulta__ de Dafiti.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> cualquier valor utilizado que no esté en la Planilla de Consulta ocasionará un error de integración.
-</div>
+>⚠️ **OBS:** cualquier valor utilizado que no esté en la Planilla de Consulta ocasionará un error de integración.
 
 1. __SKU:__ es el ID de SKU en VTEX. Este es el ID de SKU que desea enviar a Dafiti.
 
@@ -85,10 +83,11 @@ Siga el paso a paso siguiente, haciendo el de/para en la __Planilla de Mapeo__ e
 7. __Modelo:__ rellene el valor del modelo de su SKU. Este campo es libre para ser llenado de la manera que encuentre más adecuada.
 <br/>_`Ex:` usted está mapeando pantalones de chándal. El común es llenar la columna __Modelo__ con el valor `Chándal`._
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> en la integración brasileña, Dafiti exige que el nombre de los productos registrados sigan el siguiente estándar: <strong>Tipo de Producto + Marca + Modelo + Color.</strong>
-<br/>
-Por lo tanto, siempre que encuentre valores para estos cuatro campos en VTEX, crearemos el nuevo nombre de producto automáticamente. Si alguno de los campos no está presente, le enviaremos el nombre original del producto.</div>
+>⚠️ **OBS:** en la integración brasileña, Dafiti exige que el nombre de los productos registrados sigan el siguiente estándar: **Tipo de Producto + Marca + Modelo + Color.**
+>
+>
+> 
+> Por lo tanto, siempre que encuentre valores para estos cuatro campos en VTEX, crearemos el nuevo nombre de producto automáticamente. Si alguno de los campos no está presente, le enviaremos el nombre original del producto.
 
 
 ## Envío de imágenes
@@ -104,17 +103,14 @@ Para hacer esto, siga este paso a paso:
 
 Puede enviar hasta __ocho imágenes__. De esta forma, agregue nuevas columnas siguiendo el estándar: `Image_2`, `Image_3`, ...,` Image_8`.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> recuerde siempre de utilizar <code>http</code> o <code>https</code> al principio de las URL, de lo contrario, habrá error al intentar cargar la hoja de cálculo en VTEX.</div>
+>⚠️ **OBS:** recuerde siempre de utilizar `http` o `https` al principio de las URL, de lo contrario, habrá error al intentar cargar la hoja de cálculo en VTEX.
 
 ## Envío de la marca del producto
 
 La integración enviará la marca que está registrada en su producto en catálogo de VTEX.
 <br/>_`Ex:` usted está enviando una camisa de Adidas, la integración enviará como marca `Adidas` también._
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> similar a lo que sucede con categoría y especificaciones, Dafiti posee marcas mapeadas en su plataforma. En este caso, si alguno de sus productos tiene una marca que no está registrada en Dafiti, el mismo sufrirá un error de integración. Si esto ocurre, póngase en contacto con Dafiti para solicitar el registro de su marca en su sistema.
-</div>
+>⚠️ **OBS:** similar a lo que sucede con categoría y especificaciones, Dafiti posee marcas mapeadas en su plataforma. En este caso, si alguno de sus productos tiene una marca que no está registrada en Dafiti, el mismo sufrirá un error de integración. Si esto ocurre, póngase en contacto con Dafiti para solicitar el registro de su marca en su sistema.
 
 ## Haciendo el upload
 

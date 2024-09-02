@@ -18,9 +18,7 @@ internalReference: 1010392
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Tratar con una cantidad masiva de redirecciones puede romper la página de la interfaz de usuario. Si tiene muchas redirecciones o necesita borrar una gran cantidad de redirecciones esto puede llevar a un error en el que la página de la interfaz de usuario se carga para siempre y nunca devuelve la información de las redirecciones. Creemos que esto puede ocurrir porque cuando borramos una gran cantidad de redirecciones las primeras páginas de la consulta `listRedirects` están en blanco y la interfaz de usuario buscará estas primeras páginas para cargar las primeras redirecciones y nunca las encontrará.

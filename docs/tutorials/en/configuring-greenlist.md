@@ -35,9 +35,7 @@ Whether or not the antifraud approves, once the service has been consulted the s
 
 __A Greenlist is a list of customers previously approved by the store owner according to certain criteria.__ Once these customers have made a certain number of purchases on your site, always giving the same details (such as email address and credit card number) they are marked as trustworthy. Then the next time they make a purchase on your site, their orders do not go through the antifraud, and your store saves the fee it would have to pay for this service.
 
-<div class="alert alert-warning">
-The more signature data you ask for, the stricter will be your rules, and the fewer customers will be added to the Greenlist.
-</div>
+>⚠️ The more signature data you ask for, the stricter will be your rules, and the fewer customers will be added to the Greenlist.
 
 ## Configuring the Greenlist
 

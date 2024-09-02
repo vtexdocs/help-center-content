@@ -18,9 +18,7 @@ internalReference: 906518
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao usar Opções de montagem, se o item for adicionado novamente ao carrinho, ele aparecerá duas vezes e o Serviço de impostos considerará apenas o preço do item que está primeiro no carrinho, causando divergência de valores de impostos ao fazer um pedido.

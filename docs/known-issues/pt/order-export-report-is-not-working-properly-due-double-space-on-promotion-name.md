@@ -18,9 +18,7 @@ internalReference: 786216
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O sistema de relatório de pedidos atualmente não consegue criar um arquivo a partir de filtros de promoção que contêm espaços duplos em seus nomes. Ao tentar criar o relatório, o sistema gera um erro e a exportação não é realizada, resultando na mensagem "_Exportação concluída. 0 pedidos foram enviados para seu e-mail"_.

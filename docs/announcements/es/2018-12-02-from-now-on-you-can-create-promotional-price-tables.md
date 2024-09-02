@@ -37,12 +37,8 @@ Si aún no tiene una tabla de precios o si desea crear una nueva, el artículo [
 
 Completando los pasos arriba, su tabla de precios promocionales va a estar activa y lista para ser aplicada. Pero recuerde que la promoción tarda __10 minutos__ hasta que sea visible y empieza a reflejarse en los pedidos en la tienda.
 
-<div class="alert alert-info">
-Hay algunas características específicas de esta promoción que deben tenerse en cuenta en el momento de la creación y utilización:</br>
-<strong>1-</strong> El precio configurado en la tabla de precios se aplicará sólo si el valor es menor que el configurado en la política comercial utilizada por el sitio. <em>Ejemplo:</em> el ítem que posee un precio de $ 199,00 sólo tendrá el valor de la tabla aplicado si este último es menor que $ 199,00.</br>
-<strong>2-</strong> Las promociones de tablas de precios compiten entre sí y con las demás promociones configuradas que manipulan precios. Es decir, si hay más de una promoción de tabla de precios configurada y al menos una promoción de descuento porcentual, nominal, o fórmula (activas y elegibles al carrito en cuestión), el precio más bajo entre ellas es el que se aplicará.
-</div>
+>ℹ️ Hay algunas características específicas de esta promoción que deben tenerse en cuenta en el momento de la creación y utilización:</br>
+> **1-** El precio configurado en la tabla de precios se aplicará sólo si el valor es menor que el configurado en la política comercial utilizada por el sitio. *Ejemplo:* el ítem que posee un precio de $ 199,00 sólo tendrá el valor de la tabla aplicado si este último es menor que $ 199,00.</br>
+> **2-** Las promociones de tablas de precios compiten entre sí y con las demás promociones configuradas que manipulan precios. Es decir, si hay más de una promoción de tabla de precios configurada y al menos una promoción de descuento porcentual, nominal, o fórmula (activas y elegibles al carrito en cuestión), el precio más bajo entre ellas es el que se aplicará.
 
-<div class="alert alert-warning">
-Sólo se puede configurar <strong>una tabla de precios por promoción</strong>. Y, hoy, <strong>hay un límite de hasta 5 promociones de tablas de precios simultáneas</strong> para cada tienda.
-</div>
+>⚠️ Sólo se puede configurar **una tabla de precios por promoción**. Y, hoy, **hay un límite de hasta 5 promociones de tablas de precios simultáneas** para cada tienda.

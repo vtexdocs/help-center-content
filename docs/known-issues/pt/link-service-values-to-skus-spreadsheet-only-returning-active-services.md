@@ -18,9 +18,7 @@ internalReference: 886486
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao exportar valores de serviços de uma categoria específica no admin, o resultado está trazendo apenas os serviços ativos. Não permitindo que o comerciante ative serviços anteriormente inativos por planilha.

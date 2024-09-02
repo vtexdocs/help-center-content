@@ -18,9 +18,7 @@ internalReference: 925049
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se uma conta tiver a opção "UseSessionRegionAtCheckout" configurada, ao adicionar um item e o formulário de pedido não tiver "shippingData", o vendedor não será definido, mostrando preços e disponibilidade diferentes.

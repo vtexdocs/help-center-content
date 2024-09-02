@@ -73,11 +73,12 @@ Once disconnected, your integration with TikTok stops completely: TikTok Pixel a
 
 However, VTEX does not delete existing products from TikTok, which means they will continue to appear on TikTok. To delete them from TikTok, you need to manually delete the products in [TikTok Catalog Manager](https://ads.tiktok.com/help/article?aid=10001005).
 
-<div class="alert alert-warning">
-<p>If an error message appears when disconnecting TikTok from your VTEX store, follow the steps below to ensure that the integration has been correctly disabled.</p>
-<ol><li>Go to the <a href="https://ads.tiktok.com/ac/page/authorizations">Authorizations</a> page in TikTok Ads Manager.</li>
-  <li>Find the <strong>VTEX</strong> option.</li>
-  <li>Click <code>Remove</code>.</li></ol>
-</div>
+>⚠️ If an error message appears when disconnecting TikTok from your VTEX store, follow the steps below to ensure that the integration has been correctly disabled.
+>
+> Go to the [Authorizations](https://ads.tiktok.com/ac/page/authorizations) page in TikTok Ads Manager.
+>
+> 2. Find the **VTEX** option.
+>
+> 3. Click `Remove`.
 
 After disconnecting, it is possible to reactivate the integration at any time by repeating the steps described in [Configuring the integration with TikTok for Business](https://help.vtex.com/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC).

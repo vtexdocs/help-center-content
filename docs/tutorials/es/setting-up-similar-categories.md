@@ -19,9 +19,7 @@ En VTEX Admin, puede registrar Categorías Similares a nivel de [producto](#cate
 
 ## Categoría Similar en el Producto
 
-<div class="alert alert-warning">
-  <p>Esta configuración sólo es compatible con las tiendas que utilizan el <a href="https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS - Portal Legado</a>.</p>
-</div>
+>⚠️ Esta configuración sólo es compatible con las tiendas que utilizan el [CMS - Portal Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
 
 En el Producto, el ajuste de categoría similar hace que el producto se muestre en la página de la categoría registrada como similar, además de en su categoría original.
 

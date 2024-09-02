@@ -15,12 +15,10 @@ legacySlug: lista-de-anuncios
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
-<div class="alert alert-info">
-Para evolucionar su experiencia al sincronizar y actualizar anuncios, el equipo de VTEX está desarrollando una nueva funcionalidad que sustituirá el módulo de <b>Gestión de anuncios</b>.
-Por este motivo, Gestión de anuncios no recibirá más actualizaciones ni mantenimiento.
-Para conectores y marketplaces que ya se integraron con el módulo, comuníquese con nuestro equipo de desarrollo por email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
-Para los conectores interesados en comenzar la integración, les pedimos que esperen el lanzamiento del nuevo módulo, tan pronto como esté disponible, notificaremos a todos los clientes a través del <a href="https://developers.vtex.com/updates/release-notes">Developer Portal</a> y el <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center</a>.
- </div>  
+>ℹ️ Para evolucionar su experiencia al sincronizar y actualizar anuncios, el equipo de VTEX está desarrollando una nueva funcionalidad que sustituirá el módulo de **Gestión de anuncios**.
+> Por este motivo, Gestión de anuncios no recibirá más actualizaciones ni mantenimiento.
+> Para conectores y marketplaces que ya se integraron con el módulo, comuníquese con nuestro equipo de desarrollo por email [taissa.araujo@vtex.com.br](taissa.araujo@vtex.com.br).
+> Para los conectores interesados en comenzar la integración, les pedimos que esperen el lanzamiento del nuevo módulo, tan pronto como esté disponible, notificaremos a todos los clientes a través del [Developer Portal](https://developers.vtex.com/updates/release-notes) y el [VTEX Help Center](https://help.vtex.com/pt/en/announcements).  
 
 El módulo **Gestión de anuncios** permite a los _sellers_ hacer el seguimiento del envío y la sincronización de los anuncios de las integraciones con los canales de venta. En VTEX, un anuncio es un SKU cuyo precio y stock fueron configurados por un _seller_ y que fue enviado a un canal de ventas.
 
@@ -100,9 +98,7 @@ Puedes hacer clic sobre los nombres de las columnas para ordenar los anuncios de
 
 Para exportar la lista de anuncios en formato XLSX, haz clic sobre el ícono <i class="fa-solid fa-arrow-down-to-line"></i> flecha hacia abajo, ubicado en la parte superior de la interfaz. El archivo se enviará al email del usuario registrado. El tiempo que tarde la exportación dependerá de la cantidad de anuncios de la lista exportada y de cuestiones de procesamiento de la plataforma VTEX.
 
-<div class = "alert alert-info">
-El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.
-</div>
+>ℹ️ El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.
 
 ## Consultar los anuncios no disponibles
 

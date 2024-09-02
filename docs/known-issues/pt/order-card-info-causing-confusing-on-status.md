@@ -18,9 +18,7 @@ internalReference: 619778
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Pedidos sobre o status Manuseio na nova visão UI, tem um ditado de informação de cartão (Pedido faturado), e é confuso para o cliente.

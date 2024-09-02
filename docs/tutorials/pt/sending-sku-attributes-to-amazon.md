@@ -23,13 +23,9 @@ O mapeamento só será feito uma vez para cada categoria. Desta forma, mesmo já
 
 2. Preencha os campos da planilha de mapeamento de acordo com as indicações abaixo:
 
-<div class="alert alert-danger">
-OBS: se <strong>nenhum</strong> dos atributos da sua categoria for exigido obrigatoriamente pela Amazon, então <strong>não é necessário fazer o mapeamento</strong>. Basta reindexar seus produtos para que eles sejam enviados diretamente pela integração.
-</div>
+>❗ OBS: se **nenhum** dos atributos da sua categoria for exigido obrigatoriamente pela Amazon, então **não é necessário fazer o mapeamento**. Basta reindexar seus produtos para que eles sejam enviados diretamente pela integração.
 
-<div class="alert alert-danger">
-Atenção: caso as colunas não forem nomeadas <strong>tal qual</strong> a forma que é ilustrada na imagem, as SKUs <strong>não</strong> serão enviadas corretamente para a Amazon. Qualquer <strong>pequeno erro de digitação</strong> pode afetar o processo. 
-</div>
+>❗ Atenção: caso as colunas não forem nomeadas **tal qual** a forma que é ilustrada na imagem, as SKUs **não** serão enviadas corretamente para a Amazon. Qualquer **pequeno erro de digitação** pode afetar o processo.
 
 1. __ID categoria:__ é o ID da categoria na VTEX. Você consegue encontrá-lo ao lado do nome de cada categoria ao expandir a árvore.
 2. __VariationTheme:__ é a maneira que o SKU varia no marketplace. Você deve preencher com os Variations Themes que se adequam à categoria de seus produtos e respectivos PTDs.
@@ -51,9 +47,7 @@ Planilha de exemplo usando a categoria Clothing & Accessories:
 
 ![Amazon Mapeamento ](https://images.ctfassets.net/alneenqid6w5/5p6RrFb0T6my86cCOmW0c8/a5e93f7732929c9d9ea4cc0dd855b9a1/Amazon_Mapeamento.png)
 
-<div class="alert alert-danger">
-Lembre-se que estes valores devem estar de acordo com os valores aceitos pela Amazon. Consulte os termos aceitos e faça o De/Para entre o que está cadastrado no seu campo de SKU na VTEX e os valores permitidos na Amazon.
-</div>
+>❗ Lembre-se que estes valores devem estar de acordo com os valores aceitos pela Amazon. Consulte os termos aceitos e faça o De/Para entre o que está cadastrado no seu campo de SKU na VTEX e os valores permitidos na Amazon.
 
 Após preencher a planilha, acesse __Integrações__ no menu do Admin:
 

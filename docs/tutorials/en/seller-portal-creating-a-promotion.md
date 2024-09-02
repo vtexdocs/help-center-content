@@ -27,9 +27,7 @@ To create a new promotion as a seller in the Seller Portal, follow the steps bel
 
 Then, the promotion will be activated and applied to your store.
 
-<div class = "alert alert-info">
-When multiple promotions apply to the same cart items, the Promotions module applies the one offering the highest discount to benefit the customer.
-</div> 
+>ℹ️ When multiple promotions apply to the same cart items, the Promotions module applies the one offering the highest discount to benefit the customer. 
 
 ## Promotion fields
 

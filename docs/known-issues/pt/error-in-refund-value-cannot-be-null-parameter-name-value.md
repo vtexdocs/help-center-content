@@ -18,9 +18,7 @@ internalReference: 1049494
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao tentar reembolsar uma transação, pode ocorrer um erro 500 com a mensagem:

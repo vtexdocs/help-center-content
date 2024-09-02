@@ -18,9 +18,7 @@ internalReference: 920970
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Los valores permitidos del adjunto no se actualizan si se añadió a un artículo antes de cambiar sus valores en el admin. Esto provocará un error en el carrito con el mensaje "Imposible comunicarse con el vendedor".

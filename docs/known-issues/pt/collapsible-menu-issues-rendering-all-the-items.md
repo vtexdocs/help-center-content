@@ -18,9 +18,7 @@ internalReference: 542091
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Às vezes, ao usar um submenu dobrável que tem muitos itens do tamanho do menu pode travar e com ele não exibir todos os itens dentro. Isto acontece devido a um valor calculado que define a altura do menu.

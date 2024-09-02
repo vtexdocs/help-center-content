@@ -15,9 +15,7 @@ legacySlug: parametros-de-busca
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning">
-  <strong>Atenção</strong>: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
-</div>
+>⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
 
 Ao realizar buscas na VTEX, existem algumas possibilidades de URLs. Temos as URLs de Departamentos e Categorias, que são formadas da seguinte maneira:
 
@@ -59,9 +57,7 @@ OBS: O ID da categoria também pode ser encontrado em sua página de edição, a
 
 ![](https://images.contentful.com/alneenqid6w5/2CuMf8UzCIkiYyMKUiIOcy/9c354e12e064bdb7f310611f7fc0ee41/id_marca.png)
 
-<div class = "alert alert-warning">
-  <p><b>Atenção:</b> existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.</p>
-</div>
+>⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.
 
 **H:\[IdColeção\]**: Retorna produtos de uma determinada coleção, de acordo com o ID informado. Este código é informado na edição da coleção, em **Configurações &gt; Portal &gt; Pasta Portal &gt; Subpasta Coleções:**
 
@@ -83,9 +79,7 @@ Os parâmetros acima podem ser combinados de diversas formas, porém, vale ressa
 
 ## Padrão 2
 
-<div class="alert alert-info">
-  Para lojas hospedadas no VTEX IO, o padrão 2 é o modelo indicado.
-  </div>
+>ℹ️ Para lojas hospedadas no VTEX IO, o padrão 2 é o modelo indicado.
 
 URL: www.loja.com.br/**\[NomeCategoria\]**/**\[NomeMarca\]**/**\[IdColeção\]**/**\[ValorBuscado\]?map=c,b,productClusterIds,specificationFilter_\[IdCampoProduto/Sku\]**
 

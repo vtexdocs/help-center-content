@@ -37,9 +37,7 @@ Se necessário, o inStore pode enviar informações adicionais. Exemplo com o su
 - `administrativePassword`: string - senha padrão. Por exemplo, `cappta`.
 - `cnpj`: string.
 
-<div class="alert alert-info">
-Para criar qualquer configuração extra, você precisa enviar para a equipe do inStore (instoredevs@vtex.com.br) os extras que a app precisa para concluir a transação. Assim, criaremos um formulário no módulo de Pagamentos para que o cliente possa configurar seu adquirente.
-</div>
+>ℹ️ Para criar qualquer configuração extra, você precisa enviar para a equipe do inStore (instoredevs@vtex.com.br) os extras que a app precisa para concluir a transação. Assim, criaremos um formulário no módulo de Pagamentos para que o cliente possa configurar seu adquirente.
 
 ## URI de envio e URI de resposta para cada ação
 
@@ -124,9 +122,7 @@ URI final que a app de pagamento receberá para executar a ação de reembolso c
 super-acquirer://payment-reversal?acquirerAuthorizationCode=86273634-3a05-4f0a-a430-f55ed3f21eab&acquirerId=954090369&transactionId=1093019039&paymentId=1093019888&acquirerTid=1093019888&administrativeCode=11010103033&autoConfirm=True&sellerName=instoreqa&scheme=instore&urlCallback=instore://payment-reversal
 ```
 
-<div class="alert alert-warning">
-<strong>OBSERVAÇÃO:</strong> Nem todos os parâmetros serão utilizados por todos os adquirentes/apps de pagamento. Exemplo: <code>transactionId</code>. Este parâmetro é o ID de uma transação na VTEX que identifica todos os pagamentos de um pedido completo no PCI Gateway da VTEX. Uma transação pode conter vários pagamentos, como quando um pedido é pago com vários cartões de crédito ou débito.
-</div>
+>⚠️ **OBSERVAÇÃO:** Nem todos os parâmetros serão utilizados por todos os adquirentes/apps de pagamento. Exemplo: `transactionId`. Este parâmetro é o ID de uma transação na VTEX que identifica todos os pagamentos de um pedido completo no PCI Gateway da VTEX. Uma transação pode conter vários pagamentos, como quando um pedido é pago com vários cartões de crédito ou débito.
 
 ## Exemplos de URI de resposta para cada ação
 
@@ -185,9 +181,7 @@ Para que a integração funcione, é preciso que o cliente configure no módulo 
 
 A integração do AppLinking não inclui outras dependências, uma vez que a comunicação entre o aplicativo inStore e o aplicativo de pagamento acontece com URIs específicas contendo todos os parâmetros de configuração e pagamento necessários para a ação.
 
-<div class="alert alert-warning">
-No Android, toda comunicação deve acontecer com uma nova <code>Intent</code>. Isso significa que você não deve enviar a resposta como um retorno de chamada da <code>Intent</code> inicial. Em vez disso, você deve enviar um novo <code>Intent</code> ao aplicativo inStore com a resposta do anterior.
-</div>
+>⚠️ No Android, toda comunicação deve acontecer com uma nova `Intent`. Isso significa que você não deve enviar a resposta como um retorno de chamada da `Intent` inicial. Em vez disso, você deve enviar um novo `Intent` ao aplicativo inStore com a resposta do anterior.
 
 Para configurar o conector do InStore, você deve seguir os passos abaixo:
 

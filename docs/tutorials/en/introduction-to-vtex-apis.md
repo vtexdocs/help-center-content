@@ -121,8 +121,6 @@ On the right side of these indications, Postman displays one Sample Request for 
  
 Some APIs also have a Sample Response, which is an example of a response to that request.
  
-<div class="alert alert-warning">
-All content that appears between braces (**{{conteúdo}}**) is a variable, and you must replace it by the correct data before making the request. This is the case, for example, of your store's name, the environment wanted, and the values of AppKey and AppToken.
-</div>
+>⚠️ All content that appears between braces (**{{conteúdo}}**) is a variable, and you must replace it by the correct data before making the request. This is the case, for example, of your store's name, the environment wanted, and the values of AppKey and AppToken.
 
 Check how to create your appKey and appToken in article [Creating appKeys and appTokens to authenticate integrations](/en/tutorial/creating-appkeys-and-apptokens-to-authenticate-integrations).

@@ -18,9 +18,7 @@ internalReference: 778611
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se o checkout do cliente enviar dados do usuário sem validação adequada, como um número de telefone com menos de três dígitos, estes dados são passados para o gateway como está, o que pode causar erros inesperados durante o processamento. Por exemplo, nosso analisador pode acionar uma exceção e cancelar a transação.

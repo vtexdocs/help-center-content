@@ -18,9 +18,7 @@ internalReference: 891162
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el vendedor actualiza la comisión del vendedor en la interfaz de usuario de gestión de vendedores, los skus vinculados relacionados con este vendedor no se indexan automáticamente.

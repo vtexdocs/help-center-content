@@ -18,9 +18,7 @@ internalReference: 865926
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A ordem cancelada no marketplace não atualizou o status na VTEX

@@ -18,9 +18,7 @@ internalReference: 953862
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao importar uma planilha de produtos para uma coleção, o usuário pode optar por selecionar os produtos por "skuId", "productId", "skuRefId" ou "productRefId".

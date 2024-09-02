@@ -43,9 +43,7 @@ Algunos pasos son esenciales para iniciar la configuración.
 
 Después de la configuración, la integración envía todos los productos asociados a la poítica comercial determinada para Walmart.
 
-<div class="alert alert-warning">
-<strong>Importante:</strong> Walmart no acepta código HTML en los campos de descripción del producto y campos de especificación.
-</div>
+>⚠️ **Importante:** Walmart no acepta código HTML en los campos de descripción del producto y campos de especificación.
 
 
 ## Flujo de la integración
@@ -66,6 +64,4 @@ El __fluxo de pedidos__ y __consulta de envío__ está restringido a Walmart, qu
 2 - [Autenticar la integración](/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones)
 Después de realizar todos estos pasos, tendrá que autenticar la integración con Walmart. Para que esto suceda, sólo tiene que enviar el appKey a ellos (ver cómo [generar el appKey para la autenticación de las integraciones](/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones)). Si tiene alguna duda sobre el proceso, póngase en contacto con el equipo de Walmart.
 
-<div class="alert alert-warning">
-Recuerde que el appKey debe estar asociado al perfil de acceso <strong>IntegrationProfile - Fulfillment</strong>. Es el que tiene los permisos necesarios para realizar el proceso de integración con el marketplace.
-</div>
+>⚠️ Recuerde que el appKey debe estar asociado al perfil de acceso **IntegrationProfile - Fulfillment**. Es el que tiene los permisos necesarios para realizar el proceso de integración con el marketplace.

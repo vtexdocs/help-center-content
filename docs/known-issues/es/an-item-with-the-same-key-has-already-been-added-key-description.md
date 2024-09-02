@@ -18,9 +18,7 @@ internalReference: 1084015
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, la aplicación de ventas puede encontrarse con un problema a la hora de cargar correctamente las páginas de los productos en los que el campo de producto "descripción" también tiene registrada la propia palabra "descripción".

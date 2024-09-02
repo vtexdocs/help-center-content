@@ -18,9 +18,7 @@ internalReference: 1052895
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando una cuenta tiene un público de campaña y se hace coincidir con un usuario logueado, el checkout utiliza la información registrada en la sesión, que sólo tiene el id de la campaña. En `marketingTags`, debería tener el nombre de la campaña, pero es `null` ya que no hay información disponible en la sesión.

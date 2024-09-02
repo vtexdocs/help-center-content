@@ -18,8 +18,6 @@ Al contratar a VTEX, la tienda recibe un account, es decir, la cuenta de la tien
 
 Para desarrollar apps con VTEX IO, es necesario antes que nada tener acceso al account de una tienda. 
 
-<div class="alert alert-info">
-Toda aplicación creada con VTEX IO se desarrolla en el contexto de una cuenta VTEX.
-</div>
+>ℹ️ Toda aplicación creada con VTEX IO se desarrolla en el contexto de una cuenta VTEX.
 
 Si usted todavía no tiene acceso a ninguna cuenta y necesita crear una, póngase en contacto con el equipo comercial de VTEX y después lea el artículo sobre cómo [enlazar su account name a un website](/es/tutorial/vincular-un-account-name-a-un-website-binding).

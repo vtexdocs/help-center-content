@@ -29,13 +29,9 @@ The way you configure working hours will influence the delivery time calculation
 1. In the [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140), in the **Business Hours** section, click the `Shipping Window` card.
 2. If you wish to activate the option `Accept purchases outside working hours`, enable the toggle switch. Otherwise, leave it deactivated.
 
-  <div class="alert alert-danger">
-To authorize the carrier to receive orders on weekends, this toggle must be marked as <code>Active</code>. Even if Saturdays and Sundays are configured as valid windows, activating the toggle is mandatory to authorize the carrier to receive orders outside business hours.
-</div>
+  >❗ To authorize the carrier to receive orders on weekends, this toggle must be marked as `Active`. Even if Saturdays and Sundays are configured as valid windows, activating the toggle is mandatory to authorize the carrier to receive orders outside business hours.
 
-  <div class = "alert alert-info">
-When this option is enabled, the order <a href="https://help.vtex.com/en/tutorial/how-shipping-calculation-works--tutorials_116">shipping calculation</a> is influenced, and the period from order placement to the carrier's business time is added to the total shipping time.
-</div>
+  >ℹ️ When this option is enabled, the order [shipping calculation](https://help.vtex.com/en/tutorial/how-shipping-calculation-works--tutorials_116) is influenced, and the period from order placement to the carrier's business time is added to the total shipping time.
 
 3. Select the `Day of the week`, as well as the `Start time` and `End time` for shipping items to customers.
     * **Day of the week**: days on which carriers make deliveries.

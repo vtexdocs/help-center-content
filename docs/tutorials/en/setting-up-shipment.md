@@ -17,9 +17,7 @@ subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 
 This configuration is widely used when a large volume of orders ends up generating a considerable logistic demand, so it's possible for a package to wait during the preparation time of another package, so they may be sent in a group, by the same transporter, to a final destination.
 
-<div class="alert alert-warning">
-The shipping groups are raised by the sum of the time cost from inventory to warehouse dock and the detention time of the dock itself.
-</div>
+>⚠️ The shipping groups are raised by the sum of the time cost from inventory to warehouse dock and the detention time of the dock itself.
 
 In the image below we see a __6 days__ shipment configuration. Each box represents the cost in days of a package, considering only the __stock and the dock cost.__
 

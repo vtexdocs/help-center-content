@@ -40,6 +40,4 @@ We recommend that you add products and SKUs together when using a spreadsheet. Y
 
 To add a new product via API use the [Create Product](https://developers.vtex.com/vtex-rest-api/reference/post-product) request. 
 
-<div class="alert alert-info">
-If your product does not appear on your store's website after you have created it, check out the article <a href="https://help.vtex.com/pt/faq/why-is-the-product-not-shown-on-the-website--frequentlyAskedQuestions_382">Why is the product not shown on the website?</a> to understand how to solve this problem.
-</div>
+>ℹ️ If your product does not appear on your store's website after you have created it, check out the article [Why is the product not shown on the website?](https://help.vtex.com/pt/faq/why-is-the-product-not-shown-on-the-website--frequentlyAskedQuestions_382) to understand how to solve this problem.

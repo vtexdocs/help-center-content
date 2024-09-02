@@ -18,9 +18,7 @@ internalReference: 496298
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Existe un problema para aprobar algunas transacciones que está relacionado con el sistema antifraude Konduto. Este problema surge cuando el sistema no puede realizar la petición necesaria debido a la ausencia del accountId, que es necesario para recuperar la información del pago de la base de datos de cuentas. Puede comprobarlo examinando la ruta "/payment", donde encontrará el nodo "usedAccountId" con valor "False" en estos casos.

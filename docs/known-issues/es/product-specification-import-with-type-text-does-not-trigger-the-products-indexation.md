@@ -18,9 +18,7 @@ internalReference: 998658
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al importar especificaciones de producto, los tipos con valores pre-registrados (como Checkbox o Radio) activan la indexación del producto, pero cuando el tipo es "Texto" no ocurre lo mismo.

@@ -18,9 +18,7 @@ internalReference: 309820
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O botão de compra permanece ativo mesmo com crédito insuficiente no crédito do cliente.

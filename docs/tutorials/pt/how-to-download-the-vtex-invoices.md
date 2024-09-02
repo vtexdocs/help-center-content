@@ -65,7 +65,7 @@ Para fazer o download de seu boleto, siga os passos abaixo:
 6. Clique em **Efetuar Pagamento**.
 7. Será gerado um boleto, e multa e juros serão incluídos automaticamente. 
 
-<div class="alert alert-info"> No Brasil, uma fatura roxa pode indicar que está atrasada mas com um novo boleto gerado para uma data próxima. Nesse caso, a fatura continuará em atraso até a quitação do pagamento. Caso não seja efetuado o pagamento do novo boleto, a fatura voltará a cor vermelha.</div>
+>ℹ️ No Brasil, uma fatura roxa pode indicar que está atrasada mas com um novo boleto gerado para uma data próxima. Nesse caso, a fatura continuará em atraso até a quitação do pagamento. Caso não seja efetuado o pagamento do novo boleto, a fatura voltará a cor vermelha.
 
 ![baixar boletos pt](https://images.ctfassets.net/alneenqid6w5/3gRniiqHrpZZHNTsQC8Gfm/21d45f702de76ea5c866b61a3c80be8f/baixar_boletos_pt.gif)
 

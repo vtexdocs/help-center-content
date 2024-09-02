@@ -69,9 +69,7 @@ La sección **General** muestra los campos que debes completar con la informaci�
     * **Número de cupones:** permite definir la cantidad de códigos que se generarán a partir del prefijo definido en **Código del cupón**. La cantidad máxima es de 1000.
     * **Exportar cupones:** botón que permite exportar los códigos del cupón múltiple. Esta opción está disponible solo cuando se editan cupones ya existentes.
 
-<div class="alert alert-warning">
-<p>Se debe definir al menos una de las UTM, es decir que es obligatorio rellenar la <strong>Fuente UTM</strong> o la <strong>Campaña UTM</strong>. También se pueden rellenar ambos campos.</p>
-</div>
+>⚠️ Se debe definir al menos una de las UTM, es decir que es obligatorio rellenar la **Fuente UTM** o la **Campaña UTM**. También se pueden rellenar ambos campos.
 
 ### Restricciones
 
@@ -81,9 +79,7 @@ En esta sección del formulario, puedes configurar las siguientes restricciones 
 
   Al mantener desactivada esta opción, el cupón podrá usarse ilimitadamente.
 
-  <div class="alert alert-warning">
-<p>En caso de que se cancele un pedido con un cupón de uso limitado, se recalculará el límite. Esto significa que los pedidos con status <strong>Cancelado</strong> no cuentan en el límite de veces que se podrá usar el cupón.</p>
-  </div>
+  >⚠️ En caso de que se cancele un pedido con un cupón de uso limitado, se recalculará el límite. Esto significa que los pedidos con status **Cancelado** no cuentan en el límite de veces que se podrá usar el cupón.
 
 ## Cupones existentes
 

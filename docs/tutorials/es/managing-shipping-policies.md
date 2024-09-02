@@ -52,9 +52,7 @@ La información de la lista se describe en la siguiente tabla:
 
 La caja de búsqueda que tiene el ícono de lupa <i class="fas fa-search"></i> te permite buscar políticas de envío por nombre. Ingresar un carácter en la barra de búsqueda activa la búsqueda inmediatamente. Para limpiar la búsqueda, haz clic en el ícono de cerrar <i class="far fa-times-circle"></i>.
 
-<div class = "alert alert-info">
-Si la búsqueda no devuelve ningún resultado, comprueba la ortografía del término o si hay algún filtro seleccionado.
-</div>
+>ℹ️ Si la búsqueda no devuelve ningún resultado, comprueba la ortografía del término o si hay algún filtro seleccionado.
 
 ## Filtrar políticas de envío
 
@@ -103,9 +101,7 @@ Para activar o desactivar una política de envío, sigue estos pasos:
 
 Para eliminar una política de envío, sigue estos pasos:
 
-<div class="alert alert-danger">
-La acción de eliminar una política de envío es permanente y no se puede deshacer.
-</div>
+>❗ La acción de eliminar una política de envío es permanente y no se puede deshacer.
 
 1. En el Admin VTEX, accede a **Envío > Estrategia de envío** o ingresa **Estrategia de envío** en la barra de búsqueda en la parte superior de la página.
 2. En la pestaña **Políticas de envío**, en la fila correspondiente al política deseada, haz clic en el ícono de menú <i class="fas fa-ellipsis-v"></i>. Puedes [buscar](#buscar-politicas-de-envio) o [filtrar](#filtrar-politicas-de-envio) políticas.

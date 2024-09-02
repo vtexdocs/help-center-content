@@ -17,9 +17,7 @@ subcategory:
 
 Nethone is an anti-fraud solution that identifies specific aspects of user behavior and minimizes the risk of fraud in your store's transactions by using artificial intelligence and machine learning.
 
-<div class="alert alert-warning">
-  You can integrate your store with Nethone via <b>Application Key (App Key)</b> and <b>Application Token (App Token)</b>. You will find this information in the plugin package that Nethone will send you after you sign the contract. If you have any questions, please contact the Nethone support team. 
-  </div>
+>⚠️ You can integrate your store with Nethone via **Application Key (App Key)** and **Application Token (App Token)**. You will find this information in the plugin package that Nethone will send you after you sign the contract. If you have any questions, please contact the Nethone support team.
 
 To set up Nethone in your store, you will need to:
 
@@ -72,9 +70,7 @@ The next step for configuring the Nethone affiliation is integrating with Google
 
 ## Configuring Google Tag Manager
 
-<div class="alert alert-warning">
-The configurations documented below are to be performed on a system external to VTEX and may be discontinued without notice.
-  </div>
+>⚠️ The configurations documented below are to be performed on a system external to VTEX and may be discontinued without notice.
 
 Once you have configured your account ID number at checkout, follow the instructions below to track purchase attempts made in your store.
 

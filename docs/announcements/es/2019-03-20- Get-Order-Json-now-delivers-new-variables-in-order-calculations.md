@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'Ahora disponible informaciónes detalladas sobre el cálculo del envio de lo pedido'
 ---
 
-<div class="alert alert-warning">
-Por motivos técnicos, el lanzamiento de esta funcionalidad fue aplazado por tiempo indeterminado.
-</div>
+>⚠️ Por motivos técnicos, el lanzamiento de esta funcionalidad fue aplazado por tiempo indeterminado.
 
 A partir del 1 de abril de 2019, el JSON de pedidos devolverá un nuevo objeto llamado `alternativeTotals`. Se mostrará en los totalizadores que quedan dentro del array de `totals`, para las consultas realizadas por la API de Get Order.
 

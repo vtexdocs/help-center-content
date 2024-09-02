@@ -18,9 +18,7 @@ internalReference: 829955
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 No seletor de pontos de retirada, digitar um endereço e pressionar Enter/Return não exibirá as lojas mais próximas. O comprador sempre precisa digitar o endereço e selecionar uma opção na lista.

@@ -18,9 +18,7 @@ internalReference: 1081841
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A promoção de frete grátis com um valor mínimo ou máximo de pedido está considerando incorretamente o valor do item por unidade em vez do valor total do item, levando a inconsistências na aplicação da promoção.

@@ -17,9 +17,7 @@ subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 
 Cuando, durante una experiencia de compra, el consumidor ingresa su ubicación en el _checkout_, la plataforma VTEX analiza cuáles son las [estrategias de envío](https://help.vtex.com/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) que mejor se adaptan al pedido y ofrece al consumidor las opciones disponibles.
 
-<div class = "alert alert-info">
-En la etapa de la vitrina del flujo de compra, y cuando el consumidor aún no ingresó su domicilio, los productos que aparecen son los de <i>sellers</i> con la funcionalidad <a href="https://help.vtex.com/es/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc">Región</a> configurada o los <a href="https://help.vtex.com/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">sellers de extensa cobertura</a>, es decir, <i>sellers</i> que pueden enviar pedidos a todas las regiones cubiertas por la operación del <i>marketplace</i>.
-</div>
+>ℹ️ En la etapa de la vitrina del flujo de compra, y cuando el consumidor aún no ingresó su domicilio, los productos que aparecen son los de <i>sellers</i> con la funcionalidad [Región](https://help.vtex.com/es/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc) configurada o los [sellers de extensa cobertura](https://help.vtex.com/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), es decir, <i>sellers</i> que pueden enviar pedidos a todas las regiones cubiertas por la operación del <i>marketplace</i>.
 
 Este artículo brinda un panorama general sobre cómo se calcula el envío y se divide en tres secciones:
 
@@ -34,9 +32,7 @@ Para completar el pedido, la tienda configura combinaciones de logística y, par
 - **Entrega:** el consumidor recibe el pedido en el domicilio informado.
 - **Recogida:** el consumidor retira el pedido en un [punto de recogida](https://help.vtex.com/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R).
 
-<div class = "alert alert-info">
-Los tipos de envío «entrega» y «recogida» siguen los mismos criterios de selección. El envío tipo «recogida» tiene un criterio adicional que mencionaremos más adelante.
-</div>
+>ℹ️ Los tipos de envío «entrega» y «recogida» siguen los mismos criterios de selección. El envío tipo «recogida» tiene un criterio adicional que mencionaremos más adelante.
 
 Para su selección, las combinaciones de logística siguen los criterios y el orden de aplicación que se indica a continuación:
 
@@ -47,14 +43,13 @@ Para su selección, las combinaciones de logística siguen los criterios y el or
 </li>
 </ul>
 <br>
-  <div class="alert alert-warning">
-Si se debe enviar un <a href="https://help.vtex.com/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28">kit</a>, hay dos condiciones:  
-  <ul>
-    <li>Los componentes del kit deben tener el mismo<a href="https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj">muelle de carga</a>.</li>
-    <li>Los componentes del kit deben estar disponibles en el <a href="https://help.vtex.com/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6">stock</a>.</li>
-  </ul>
-Para más información, consulta el artículo <a href="https://help.vtex.com/es/tutorial/como-e-calculado-o-frete-do-kit--frequentlyAskedQuestions_154">Cómo se calcula el envío de un kit</a>.
-</div>
+  >⚠️ Si se debe enviar un [kit](https://help.vtex.com/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28), hay dos condiciones:  
+>
+> * Los componentes del kit deben tener el mismo[muelle de carga](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj).
+>
+> * Los componentes del kit deben estar disponibles en el [stock](https://help.vtex.com/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6).
+>
+> Para más información, consulta el artículo [Cómo se calcula el envío de un kit](https://help.vtex.com/es/tutorial/como-e-calculado-o-frete-do-kit--frequentlyAskedQuestions_154).
 
 2. **Prioridad del stock:** las rutas de logística seleccionadas anteriormente se organizan considerando al [stock](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) como criterio de prioridad. Cuantos menos SKU del pedido haya en stock, más prioridad tendrá la ruta de logística en la selección para evitar que se retenga stock con pocos ítems. A partir de esto, se crea una lista de rutas de logística ordenadas de mayor a menor prioridad, es decir, el ítem con más prioridad ocupa el primer lugar y el ítem con menos prioridad ocupa el último lugar.
 3. **Agrupamiento de paquetes:** la plataforma VTEX calcula la separación de los ítems del pedido en paquetes con el fin de estimar las divisiones de paquetes y [grupos de envíos](https://help.vtex.com/es/tutorial/como-funciona-a-remessa--tutorials_118).
@@ -66,9 +61,7 @@ Para más información, consulta el artículo <a href="https://help.vtex.com/es/
   <li><a href="https://help.vtex.com/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro">Muelles de carga prioritarios</a></li>
 </ul>
 <br>
-  <div class = "alert alert-info">
-Cuando hay un empate entre dos muelles de carga, el criterio de desempate es el <i><a href="https://help.vtex.com/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW">overhead</a></i> o sobrecarga, es decir, el valor en días para elegir el muelle que es más beneficioso para un determinado envío. Cuanto menor sea el overhead o sobrecarga, más posibilidades habrá de que se elija ese muelle. Cabe mencionar que el overhead o sobrecarga no se tiene en cuenta al momento de calcular el tiempo de envío.
-</div>
+  >ℹ️ Cuando hay un empate entre dos muelles de carga, el criterio de desempate es el <i>[overhead](https://help.vtex.com/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)</i> o sobrecarga, es decir, el valor en días para elegir el muelle que es más beneficioso para un determinado envío. Cuanto menor sea el overhead o sobrecarga, más posibilidades habrá de que se elija ese muelle. Cabe mencionar que el overhead o sobrecarga no se tiene en cuenta al momento de calcular el tiempo de envío.
 
 5. **Etapa exclusiva para el envío del tipo «recogida»:** existe un paso adicional en la selección para analizar los [puntos de recogida](https://help.vtex.com/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R). La plataforma VTEX crea una lista con los puntos de recogida posibles utilizando el criterio de menor distancia entre el punto de recogida y la ubicación del consumidor.
 
@@ -97,9 +90,7 @@ Se utilizan los siguientes campos y parámetros para calcular el SLA:
 
 Se puede obtener una estimación del tiempo de envío a través del [Simulador de envío](https://help.vtex.com/es/tutorial/simulador-de-envio--tutorials_144), ya que la simulación tiene en cuenta las configuraciones de las [estrategias de envío](https://help.vtex.com/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) de la tienda VTEX.
 
-<div class = "alert alert-info">
-El resultado obtenido con el <a href="https://help.vtex.com/es/tutorial/simulador-de-envio--tutorials_144">Simulador de envío</a> es solo un aproximado, ya que recién en el checkout se conocen los factores determinantes, por ejemplo, la disponibilidad de la transportadora en el horario de la compra, el tiempo de confirmación del pago y el resultado de la <a href="https://help.vtex.com/es/tutorial/selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa">selección de sellers white label</a>.
-</div>
+>ℹ️ El resultado obtenido con el [Simulador de envío](https://help.vtex.com/es/tutorial/simulador-de-envio--tutorials_144) es solo un aproximado, ya que recién en el checkout se conocen los factores determinantes, por ejemplo, la disponibilidad de la transportadora en el horario de la compra, el tiempo de confirmación del pago y el resultado de la [selección de sellers white label](https://help.vtex.com/es/tutorial/selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa).
 
 ## Más información	
 

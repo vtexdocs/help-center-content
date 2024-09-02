@@ -17,9 +17,7 @@ subcategory: 27t6x0lngvjI3bnUg5AgEO
 
 En la página Multimedia puedes gestionar los archivos multimedia de tu tienda, tales como imágenes y videos. Para las imágenes puedes cargar y organizar archivos de hasta 5 MB en los siguientes formatos: `png`, `jpg`, `gif`, `svg` y `webp`, mientras que para los videos puedes agregar una URL del proveedor de videos hospedado externamente como YouTube o Vimeo.
 
-<div class="alert alert-warning">
-Para cargar, los archivos deben tener una extensión en minúsculas, por ejemplo, <code>store.png</code>, y el límite de tamaño de archivo para cargar en Multimedia es de <b>5 MB</b>.
-</div>
+>⚠️ Para cargar, los archivos deben tener una extensión en minúsculas, por ejemplo, `store.png`, y el límite de tamaño de archivo para cargar en Multimedia es de **5 MB**.
 
 ![Multimedia Visión general](https://images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/4b7fca26bb4f3b1f72d3a6fff9eca887/es-multimedia-overview.png)
 
@@ -39,9 +37,7 @@ Hay tres formas de acceder al módulo Multimedia:
 
 - **Headless CMS**: en el Admin VTEX, accede a **Storefront > Headless CMS** y elige una de las páginas creadas, como una página de producto. De las secciones disponibles, selecciona una en la que puedas agregar una imagen, como por ejemplo, [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero). Haz clic en el componente de imagen Hero y se abrirá un panel de Multimedia.
 
-<div class="alert alert-warning">
-Ten en cuenta que la sección debe utilizar la <a href="https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections#step-3-adding-sections-to-the-headless-cms">media-gallery</a> para beneficiarse de Multimedia. Para proyectos de <a href="https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore">FastStore</a>, las secciones que utilizan el widget media-gallery son <a href="https://developers.vtex.com/docs/guides/faststore/organisms-navbar">Navbar</a> y <a href="https://developers.vtex.com/docs/guides/faststore/organisms-hero">Hero</a>.
-</div>
+>⚠️ Ten en cuenta que la sección debe utilizar la [media-gallery](https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections#step-3-adding-sections-to-the-headless-cms) para beneficiarse de Multimedia. Para proyectos de [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), las secciones que utilizan el widget media-gallery son [Navbar](https://developers.vtex.com/docs/guides/faststore/organisms-navbar) y [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero).
 
 En la siguiente imagen se muestra una visión general de la interfaz de Multimedia y las acciones disponibles para gestionar tus archivos multimedia:
 
@@ -64,15 +60,11 @@ En Multimedia puedes cargar imágenes en los siguientes formatos: `png`, `jpg`, 
 
 1. En la página o panel de **Multimedia**, haz clic en `Agregar nuevo` y luego en `Imagen`.
 
-<div class="alert alert-warning">
-  <p>En el panel de Multimedia de Headless CMS y en Site Editor, puedes arrastrar y soltar imágenes.</p>
-</div>
+>⚠️ En el panel de Multimedia de Headless CMS y en Site Editor, puedes arrastrar y soltar imágenes.
 
 2. Elige en tu dispositivo la imagen que deseas agregar y haz clic en `Abrir`.
 
-<div class="alert alert-warning">
-Recuerda que en Multimedia se admiten los siguientes formatos: <code>png</code>, <code>jpg</code>, <code>gif</code>, <code>svg</code>, y <code>webp</code>, en minúsculas y con un límite de tamaño de archivo de 5 MB.
-</div>
+>⚠️ Recuerda que en Multimedia se admiten los siguientes formatos: `png`, `jpg`, `gif`, `svg`, y `webp`, en minúsculas y con un límite de tamaño de archivo de 5 MB.
 
 3. Una vez cargada la imagen, aparecerá un mensaje de éxito. 
 
@@ -85,9 +77,7 @@ Ahora, puedes realizar otras operaciones haciendo clic en `Más acciones` (tres 
 | **Descargar** | Descarga la imagen en tu computadora. |
 | **Eliminar** |	Elimina la imagen del repositorio. |
 
-<div class="alert alert-warning">
-Si eliminas la imagen solo se borrará del repositorio de Multimedia. Si agregaste la imagen a un componente Hero, por ejemplo, seguirá utilizándose en ese componente, pero no podrá utilizarse en otros.
-</div>
+>⚠️ Si eliminas la imagen solo se borrará del repositorio de Multimedia. Si agregaste la imagen a un componente Hero, por ejemplo, seguirá utilizándose en ese componente, pero no podrá utilizarse en otros.
 
 ### Agregar videos
 Además de imágenes, Multimedia te permite almacenar videos que puedes utilizar en tu sitio web para crear un atractivo visual para los usuarios que naveguen por la tienda.

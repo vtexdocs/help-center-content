@@ -18,9 +18,7 @@ internalReference: 391549
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Usando as condições especiais no método de pagamento para filtrar o emissor está fazendo com que o caixa exiba um erro "Banco emissor não é aceito". O problema é intermitente e foi notado pela primeira vez ao utilizar o cartão de Co-branded de Pagamento Personalizado, mas também aconteceu no Método de Pagamento com Cartão de Crédito.

@@ -18,9 +18,7 @@ internalReference: 888042
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O evento pageView está sendo exibido duplicado no dataLayer quando em páginas de pesquisa personalizadas

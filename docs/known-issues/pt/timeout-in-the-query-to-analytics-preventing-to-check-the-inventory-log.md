@@ -18,9 +18,7 @@ internalReference: 984482
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O registro de atualização na interface do usuário do inventário às vezes retorna o erro: A solicitação falhou com o código de status 500 para algumas SKUs específicas, devido a um tempo limite na consulta ao Analytics (onde os dados são armazenados), e nenhum registro para a SKU será mostrado na interface do usuário.

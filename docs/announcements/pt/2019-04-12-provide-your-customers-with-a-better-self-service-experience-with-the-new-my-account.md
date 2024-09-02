@@ -38,9 +38,7 @@ Atualmente, todas as lojas VTEX já têm o novo aplicativo instalado em um ambie
 
 Por acrescentar novos elementos visuais, __o novo My Account demanda a revisão da página junto à agência responsável pela sua customização__. 
 
-<div class="alert alert-danger">
-<strong>A VTEX irá migrar massivamente o novo My Account no dia 03 de julho de 2019.</strong> Portanto, é importante revisar as customizações da página desde já.
-</div>
+>❗ **A VTEX irá migrar massivamente o novo My Account no dia 03 de julho de 2019.** Portanto, é importante revisar as customizações da página desde já.
 
 Para saber mais sobre o novo My Account, acesse os nossos artigos sobre sua __[configuração](https://help.vtex.com/pt/tutorial/configurar-o-my-account--23Ayv5D6b86UBnYfoXqZL1)__ e __[funcionamento](https://help.vtex.com/pt/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh)__. 
 

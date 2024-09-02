@@ -18,9 +18,7 @@ internalReference: 919199
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O relatório de imagem SKU, /admin/Site/ProdutoImagemExportacao.aspx, para nomes de contas que começam com "h", "t" ou "p", como "testaccount", mostrará um caractere ausente na planilha de exportação para a linha imageURL.

@@ -19,9 +19,7 @@ En este artículo, se explicará cómo configurar el recurso del tiempo máximo 
 
 Antes de comenzar con el procedimiento, es importante aclarar la diferencia entre la __liquidación por facturación__, la __liquidación automática__ y la __liquidación anticipada__, tres conceptos presentes en el mercado de pagos. En algunos conectores de pagos de plataforma, estos términos se conocen como __captura por facturación__, __captura anticipada__ y __captura automática__.
 
-<div class="alert alert-warning">
-La siguiente información es válida para los pagos con tarjeta de crédito.
-</div>
+>⚠️ La siguiente información es válida para los pagos con tarjeta de crédito.
 
 ## liquidación por facturación
 La liquidación por facturación es una de las etapas del [flujo de la transacción](https://help.vtex.com/es/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ# "flujo de la transacción"), el proceso interno de VTEX que ocurre después de que un cliente realiza el pago de un pedido. Es decir, el cliente no participa en esta dinámica.
@@ -42,9 +40,7 @@ Cuando el proceso de autorización inicia, el sistema espera un tiempo máximo, 
 
 El administrador de la tienda y el adquirente establecen el límite de tiempo para que se active la liquidación automática.
 
-<div class="alert alert-info">
-Generalmente, el tiempo máximo predeterminado para que la liquidación ocurra es de cuatro días. Sin embargo, esto <strong>no</strong> es una regla. Cada adquirente puede definir el tiempo que considere más apropiado.
-</div>
+>ℹ️ Generalmente, el tiempo máximo predeterminado para que la liquidación ocurra es de cuatro días. Sin embargo, esto **no** es una regla. Cada adquirente puede definir el tiempo que considere más apropiado.
 
 Para configurar esta liquidación, siga los pasos a continuación:
 

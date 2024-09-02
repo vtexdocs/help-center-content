@@ -18,9 +18,7 @@ internalReference: 1041920
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando um produto não está disponível, seu PDP ainda pode ser devolvido.

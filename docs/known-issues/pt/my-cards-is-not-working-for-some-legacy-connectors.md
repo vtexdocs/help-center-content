@@ -18,9 +18,7 @@ internalReference: 373636
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao tentar salvar um cartão de crédito em My Cards dentro da sessão My Account ** sem ter feito qualquer compra com esse cartão antes** ocorrerá um erro ao tentar salvar o cartão com um conector legado interno.

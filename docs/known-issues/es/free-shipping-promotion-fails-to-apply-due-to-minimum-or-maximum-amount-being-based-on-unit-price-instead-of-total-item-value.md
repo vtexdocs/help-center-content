@@ -18,9 +18,7 @@ internalReference: 1081841
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La promoción de envío gratuito con un importe de pedido mínimo o máximo está considerando incorrectamente el valor del artículo por unidad en lugar del valor total del artículo, lo que provoca incoherencias en la aplicación de la promoción.

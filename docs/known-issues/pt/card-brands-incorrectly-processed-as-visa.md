@@ -18,9 +18,7 @@ internalReference: 1024823
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Alguns cartões de crédito podem ser processados como Visa quando, na verdade, são de outra marca.

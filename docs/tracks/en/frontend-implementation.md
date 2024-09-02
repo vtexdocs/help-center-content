@@ -24,9 +24,7 @@ This article helps you choose the right technology for building your storefront 
 
 The frontend implementation is a stage focused on defining the technologies to implement based on the business needs related to the storefront.
 
-<div class = "alert alert-info">
-The frontend can be implemented by the company's internal development team or our <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners">implementation partners </a>.<a href="https://help.vtex.com/en/tutorial/managing-users--tutorials_512">Users</a> with access to the VTEX Admin can view our partner list through the <a href="https://partnernetwork.myvtex.com/Parceiros">Partner Portal</a>.
-</div>
+>ℹ️ The frontend can be implemented by the company's internal development team or our [implementation partners ](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners).[Users](https://help.vtex.com/en/tutorial/managing-users--tutorials_512) with access to the VTEX Admin can view our partner list through the [Partner Portal](https://partnernetwork.myvtex.com/Parceiros).
 
 ## Before you begin
 
@@ -39,17 +37,13 @@ Before implementing the frontend, you should configure the following steps in yo
 | Configuring catalog | The team configures the product[ catalog](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog), category tree, and related information, such as descriptions, images, and prices, to populate and test the store, including features such as product listing pages (PLP), search features, product details pages (PDP), and checkout.<br><br>Not having a catalog can result in incomplete testing and data integration problems, which delays implementation.<br><br>Learn more in the [VTEX modules I](https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) article. |
 | Defining the apps needed to operate the store | The team defines the native and third-party apps needed to operate the store.<br><br>For stores that will be built using [Store Framework](#store-framework), there is a list of native and third-party apps.<br><br>Learn more in the [VTEX IO apps](https://developers.vtex.com/docs/vtex-io-apps) article. |
 
-<div class = "alert alert-info">
-The <a href="#development-stages">development stage</a> can run in parallel with other <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">backend integrations</a> and <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7">module configuration</a> steps, such as setting up payment methods and logistics. This will depend on the type of <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl">architecture and planning</a> chosen for the VTEX store, and the <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners">implementing agency</a> or <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8">VTEX Support</a> should monitor these processes.
-</div>
+>ℹ️ The [development stage](#development-stages) can run in parallel with other [backend integrations](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) and [module configuration](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) steps, such as setting up payment methods and logistics. This will depend on the type of [architecture and planning](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) chosen for the VTEX store, and the [implementing agency](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners) or [VTEX Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) should monitor these processes.
 
 ## Frontend development technologies on VTEX
 
 VTEX has three different technologies for storefront development: [FastStore](#faststore), [Store Framework](#store-framework) and [CMS Portal Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). Legacy CMS Portal was VTEX's first technology for building storefronts, based on HTML, CSS, and JavaScript, and all development and code editing for this technology is done via the VTEX Admin.
 
-<div class="alert alert-warning">
-Although some stores still use it, the <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS Portal Legado</a> is a legacy technology and is no longer available to new stores starting with VTEX.
-</div>
+>⚠️ Although some stores still use it, the [CMS Portal Legado](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) is a legacy technology and is no longer available to new stores starting with VTEX.
 
 The following sections are about the main characteristics and features of FastStore and Store Framework.
 
@@ -122,9 +116,7 @@ For B2B stores, Store Framework is a good choice, as it provides the [B2B Suite]
 
 FastStore is an evolving alternative focused on store performance. This solution offers a fast loading experience, crucial for keeping store visitors engaged and reducing cart abandonment rates. For simpler use cases with a focus on performance, FastStore cab be the recommended technology.
 
-<div class = "alert alert-info">
-The <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8">VTEX support</a> team can help you choose between one of the available storefront technologies.
-</div>
+>ℹ️ The [VTEX support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) team can help you choose between one of the available storefront technologies.
 
 The table below compares the two technologies based on their main features:
 
@@ -217,9 +209,7 @@ Before launching the store into production and [going live](https://help.vtex.co
 - [FastStore MVP requirements](#faststore-mvp-requirements)
 - [Store Framework MVP requirements](#store-framework-mvp-requirements)
 
-<div class = "alert alert-info">
-The following recommendations are for basic storefront setup. Other settings may be required depending on the <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl">architecture chosen</a> for your store's operation.
-</div>
+>ℹ️ The following recommendations are for basic storefront setup. Other settings may be required depending on the [architecture chosen](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) for your store's operation.
 
 ### Developing using FastStore
 

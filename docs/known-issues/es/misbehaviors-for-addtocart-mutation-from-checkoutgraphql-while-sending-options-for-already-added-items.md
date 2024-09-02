@@ -18,9 +18,7 @@ internalReference: 452053
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 Al utilizar la mutación "_addToCart"_ del "_checkout-graphql"_ en un carrito en el que ya se ha añadido un determinado artículo sin "_options_", al intentar incluirlo de nuevo, esta vez con "_options_", no funcionará correctamente. La mutación no registrará las "_opciones_" enviadas y además devolverá un error si están relacionadas con la información de "_suscripción_".
 

@@ -18,9 +18,7 @@ internalReference: 915970
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al utilizar la nueva interfaz de usuario de experiencia del vendedor, /admin/sellers, la acción de desactivar un vendedor debería reindexar sus productos relacionados para que puedan eliminarse de los mercados asociados, lo que no ocurre actualmente.

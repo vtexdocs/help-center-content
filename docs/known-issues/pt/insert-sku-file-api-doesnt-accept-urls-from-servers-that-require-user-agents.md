@@ -18,9 +18,7 @@ internalReference: 1069222
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Um **agente de usuário** é uma sequência de texto que um navegador da Web ou outro cliente envia a um servidor da Web em um cabeçalho de solicitação HTTP para se identificar. Essa cadeia contém informações sobre o tipo de navegador, o sistema operacional e, às vezes, detalhes adicionais, como a versão do navegador e o mecanismo de renderização usado.

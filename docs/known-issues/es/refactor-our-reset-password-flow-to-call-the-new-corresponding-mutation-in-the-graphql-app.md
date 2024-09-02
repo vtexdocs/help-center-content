@@ -18,9 +18,7 @@ internalReference: 577825
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El usuario no puede iniciar sesión después de cambiar la contraseña temporal y es dirigido a la pantalla para solicitar el acceso

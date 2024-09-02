@@ -63,9 +63,7 @@ Sigue las instrucciones a continuación para personalizar el proceso de checkout
 <li>Al activar <code>Mostrar el botón Crear una cotización</code>, se agregará el botón <code>Crear una cotización</code>  en el checkout, lo que permite crear un presupuesto utilizando el contenido actual del carrito.</li>
 </ol>
 
-<div class = "alert alert-info">
-Solo se debe activar el botón <code>Crear una cotización</code> si tu tienda tiene instalada la aplicación B2B Quotes & Carts. Para más información consulta  <a href="https://developers.vtex.com/docs/apps/vtex.b2b-quotes">B2B Quotes & Carts</a>.
-</div>
+>ℹ️ Solo se debe activar el botón `Crear una cotización` si tu tienda tiene instalada la aplicación B2B Quotes & Carts. Para más información consulta  [B2B Quotes & Carts](https://developers.vtex.com/docs/apps/vtex.b2b-quotes).
 
 <ol start="4">
 <li>Haz clic en <code>Guardar</code>.</li>

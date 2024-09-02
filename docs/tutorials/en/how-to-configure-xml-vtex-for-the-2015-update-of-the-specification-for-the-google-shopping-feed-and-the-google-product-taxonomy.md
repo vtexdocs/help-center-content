@@ -15,7 +15,7 @@ legacySlug:
 subcategory: 
 ---
 
-<div class="alert alert-warning">Google Shopping integration through XML is an <strong>outdated method</strong> and is no longer recommended. See [here](http://help.vtex.com/en/tutorial/new-google-shopping-api-integration) how the new Google Shopping integration through API works.</div>
+>⚠️ Google Shopping integration through XML is an **outdated method** and is no longer recommended. See [here](http://help.vtex.com/en/tutorial/new-google-shopping-api-integration) how the new Google Shopping integration through API works.
 
 According to the [2015 Update of the Specification for the Google Shopping feed and the Google](https://support.google.com/merchants/answer/6231410?hl=pt-BR "2015 Update of the Specification for the Google Shopping feed and the Google")[product Taxonomy](https://support.google.com/merchants/answer/6231410?hl=pt-BR " product Taxonomy"), we have included new fields in our XML creation form: Category separator, Global Category and product specifications.
 

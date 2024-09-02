@@ -16,9 +16,7 @@ trackSlugEN: instore-using-the-app
 
 VTEX Sales App's [endless aisle](https://help.vtex.com/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) feature allows sales associates to search for products beyond the inventory of the current store and add them to the cart. To search for a product, click the magnifying glass icon <i class="fas fa-search"></i>, and a search bar will be displayed at the top of the store's homepage.  Enter the product name, reference code, SKU ID, or EAN.
 
-<div class = "alert alert-info">
-This feature uses the browser's cache to optimize searches in scenarios with slow internet connections.
-</div>
+>ℹ️ This feature uses the browser's cache to optimize searches in scenarios with slow internet connections.
 
 ![Barra busca - EN](https://images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/31aeb140714a23b6e5d0f958e90dcea2/Tela_1_barra_busca.gif)
 

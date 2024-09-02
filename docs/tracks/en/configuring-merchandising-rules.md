@@ -32,9 +32,7 @@ Follow the steps below to configure a [merchandising rule](https://help.vtex.com
    Add one or more conditions to apply the desired customization effect in this step. To learn how to add a condition, see [Merchandising rule conditions](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
 10. Click `Save`.
 
-<div class="alert alert-info">
-  <p>After saving, the changes to merchandising rules will take an average of two minutes to be updated.</p>
-</div>
+>ℹ️ After saving, the changes to merchandising rules will take an average of two minutes to be updated.
 
 ## Example
 
@@ -74,18 +72,12 @@ Imagine the following example: You want to promote Beautyx products during the 4
 
 * **Remove**: Deletes the selected conditions from the result, so it removes products that would be displayed in the search results.
 
-  <div class="alert alert-info">
-  <p><strong>Add</strong> and <strong>Remove</strong> are compatible with other sorting types, not based on the configured relevance. So, suppose you add or remove a product using a merchandising rule, and the customer sorts the search results by price. In that case, the products will be sorted by price, and the products displayed will follow the merchandising rule.</p>
-  </div>
+  >ℹ️ **Add** and **Remove** are compatible with other sorting types, not based on the configured relevance. So, suppose you add or remove a product using a merchandising rule, and the customer sorts the search results by price. In that case, the products will be sorted by price, and the products displayed will follow the merchandising rule.
 
 * **Promote**: Highlights selected conditions in the result, giving more relevance to a product normally displayed in the search results. The order of the conditions affects the priority in which they are displayed. Besides, a product added to this field is only promoted in one result.
 
 * **Demote**: Hides the selected conditions in the result. This allows you to deprioritize a product normally displayed in the search results.
 
-  <div class="alert alert-info">
-  <p><strong>Promote</strong> and <strong>Demote</strong> only work when your customers sort the search results by relevance. If they sort it by price, the products will be sorted strictly by price, and the merchandising rule will not be applied.</p>
-  </div>
+  >ℹ️ **Promote** and **Demote** only work when your customers sort the search results by relevance. If they sort it by price, the products will be sorted strictly by price, and the merchandising rule will not be applied.
 
-  <div class="alert alert-warning">
-  <p>Do not set conditions that will affect the same products in the <strong>Promote</strong> and <strong>Demote</strong> sections, since these are opposite effects. This misconfiguration negatively influences the feature's behavior and does not produce the desired results.</p>
-  </div>
+  >⚠️ Do not set conditions that will affect the same products in the **Promote** and **Demote** sections, since these are opposite effects. This misconfiguration negatively influences the feature's behavior and does not produce the desired results.

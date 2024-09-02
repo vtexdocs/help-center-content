@@ -17,13 +17,9 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 Hay situaciones en las que los clientes pueden solicitar la cancelación de un pedido. Puede ser la [cancelación automática dentro de la ventana](https://help.vtex.com/es/tutorial/cancelacion-de-pedido-solicitada-por-el-cliente--3wEI6DUNtecooG2Ki4Akqo#cancelacion-en-la-ventana-de-cancelacion) de **cancelación** o, después de ese periodo, la cancelación [aprobada por el administrador de la tienda](https://help.vtex.com/es/tutorial/cancelacion-de-pedido-solicitada-por-el-cliente--3wEI6DUNtecooG2Ki4Akqo#cancelacion-aprobada-por-el-administrador-de-la-tienda). 
 
-<div class="alert alert-danger">
-Después que se cancela el pedido, no se le puede cambiar el status.
-</div>
+>❗ Después que se cancela el pedido, no se le puede cambiar el status.
 
-<div class = "alert alert-warning">
-No es posible <a href="https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186">cancelar</a> pedidos <a href="https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">parcialmente facturados</a>. Si el cliente desea sustituir o remover ítems del pedido, es posible <a href="https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">modificar el pedido</a>.
-</div>
+>⚠️ No es posible [cancelar](https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186) pedidos [parcialmente facturados](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 ## Cancelación en la ventana de cancelación
 
@@ -31,9 +27,7 @@ Cuando el cliente solicita la cancelación durante la [ventana de cancelación](
 
 * Esta acción la realiza el cliente en __Mis pedidos__, al hacer clic en `Solicitar cancelación del pedido`.
 
-<div class = "alert alert-info">
-Cuando el cliente solicita la cancelación del pedido durante la ventana de cancelación, la notificación de esta acción se envía únicamente al usuario con <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">perfil de acceso</a> de Titular de la cuenta (usuario master).
-</div>
+>ℹ️ Cuando el cliente solicita la cancelación del pedido durante la ventana de cancelación, la notificación de esta acción se envía únicamente al usuario con [perfil de acceso](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) de Titular de la cuenta (usuario master).
 
 ## Cancelación aprobada por el administrador de la tienda
 
@@ -46,9 +40,7 @@ El administrador de la tienda debe aprobar o denegar la cancelación. Si el admi
 
 Incluso si el cancelamiento solicitado por el cliente es negado por el administrador de la tienda utilizando [VTEX DO](https://help.vtex.com/es/tutorial/vtex-do--7KMbRL4OslN8DTX9oiuCiu), es necesario que el administrador proceda con la [facturación](https://help.vtex.com/es/tutorial/faturar-um-pedido--7p1h852V5t54KyscpgxE2v) del pedido, ya que esto es lo que hace que el pedido siga su curso.
 
-<div class="alert alert-warning">
-Si la funcionalidad <a href="https://help.vtex.com/es/tutorial/cambio-de-pedido--2IK9mwQjBKseQmE8K8saO8#como-activar-la-funcionalidad">Cambio de pedido</a> está activada, los pedidos pueden ser modificados o cancelados en cualquier momento, incluso después de la ventana de cancelación.
-</div>
+>⚠️ Si la funcionalidad [Cambio de pedido](https://help.vtex.com/es/tutorial/cambio-de-pedido--2IK9mwQjBKseQmE8K8saO8#como-activar-la-funcionalidad) está activada, los pedidos pueden ser modificados o cancelados en cualquier momento, incluso después de la ventana de cancelación.
 
 ## Motivo de la cancelación
 

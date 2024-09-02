@@ -18,9 +18,7 @@ internalReference: 657186
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em certos casos envolvendo kits, a política de embarque pode não estar disponível, isto pode acontecer devido à lógica usada para os cálculos que envolvem o peso.

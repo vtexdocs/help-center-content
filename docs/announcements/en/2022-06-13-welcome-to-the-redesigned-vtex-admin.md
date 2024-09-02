@@ -47,9 +47,7 @@ The other pages present in your Admin experience will be redesigned throughout 2
 
 No page has been removed from the VTEX Admin, but we have reorganized the navigation menu, to better match the most accessed pages and reflect your operation's priorities. Learn more about our [Enhanced Navigation](https://help.vtex.com/en/v4/docs/admin-v4-start-here--3hVvfesyGq1RXkfzzh8o4k#Enhanced%20Navigation).
 
-<div class="alert alert-info">
-You can use the search bar at the top bar of your VTEX Admin to search for specific pages. Pages that are not a part of our standard edition of the VTEX Admin can also be found by accessing Apps > Installed Apps.  
- </div>
+>ℹ️ You can use the search bar at the top bar of your VTEX Admin to search for specific pages. Pages that are not a part of our standard edition of the VTEX Admin can also be found by accessing Apps > Installed Apps.
 
 Besides reorganizing the order of pages, we have also changed some of the labels in the navigation menu, so they are more consistent and aligned with VTEX functionalities. The tables below list changes in section and page names.
 

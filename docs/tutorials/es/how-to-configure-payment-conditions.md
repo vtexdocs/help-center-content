@@ -30,9 +30,7 @@ Una vez que hayas definido tu afiliación de gateway, para elegir cualquiera de 
 
 Además, hay la posibilidad de definir si el pago será a vista o en cuotas, con o sin intereses y las condiciones especiales.
 
-<div class="alert alert-warning">
- Cualquier cambio en las condiciones de pago puede llevar hasta 10 minutos en aparecer en el checkout de su tienda.
-</div>
+>⚠️ Cualquier cambio en las condiciones de pago puede llevar hasta 10 minutos en aparecer en el checkout de su tienda.
 
 En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de condición de pago.
 
@@ -50,9 +48,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 8. En el campo “A vista o en cuotas?”, seleccione A vista.
 9. Haga clic en __Guardar__.
 
-<div class="alert alert-info">
-En el Paso 5. puede elegir otros métodos de pago como tarjetas de débito, cobranded, privado, pagarés, boletos, PIX, entre otros.
-</div>
+>ℹ️ En el Paso 5. puede elegir otros métodos de pago como tarjetas de débito, cobranded, privado, pagarés, boletos, PIX, entre otros.
 
 ### En cuotas sin interés
 
@@ -97,9 +93,7 @@ En el Paso 5. puede elegir otros métodos de pago como tarjetas de débito, cobr
 
 En algunos países, los intereses de las compras parceladas son cobrados directamente por la institución financiera. Para estos casos, es posible activar el botón __Intereses externos__. Este botón rellena con `null` el valor de los intereses en el JSON enviado al conector. Este valor `null` indica que los intereses serán cobrados posteriormente por la institución financiera. Para activar esta feature, basta hacer clic en el botón de __Intereses Externos__ en la configuración del pago en cuotas con interés.
 
-<div class="alert alert-info">
-  Atención: la funcionalidad de interés externo solo es válida para algunas afiliaciones de gateway (asegúrese de que esta opción esté disponible al registrar la afiliación deseada). Los pedidos realizados por afiliaciones que no soporten esta funcionalidad serán cancelados en el sistema.
-</div>
+>ℹ️ Atención: la funcionalidad de interés externo solo es válida para algunas afiliaciones de gateway (asegúrese de que esta opción esté disponible al registrar la afiliación deseada). Los pedidos realizados por afiliaciones que no soporten esta funcionalidad serán cancelados en el sistema.
 
 ## Remover condición de pago
 

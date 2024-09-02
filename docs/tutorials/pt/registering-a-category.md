@@ -15,9 +15,7 @@ legacySlug: cadastrando-categoria
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-<div class="alert alert-info">
-Na plataforma VTEX, a estrutura Departamento, Categoria e Subcategoria não é pré-definida. Ela varia de acordo com a estrutura da sua loja, não sendo obrigatória a criação desses 3 níveis hierárquicos.
-</div>
+>ℹ️ Na plataforma VTEX, a estrutura Departamento, Categoria e Subcategoria não é pré-definida. Ela varia de acordo com a estrutura da sua loja, não sendo obrigatória a criação desses 3 níveis hierárquicos.
 
 O cadastro de uma categoria acontece no __Catálogo__, no Admin VTEX.
 

@@ -42,7 +42,5 @@ The complete credit card payment flow at VTEX is shown in the following scheme:
 
 Upon the issuing bank's response, the reverse flow is performed and the **Payment Gateway** receives information whether the payment has been approved or denied.
 
-<div class="alert alert-info">
-It is possible to include Anti-fraud in this flow. In this case, the anti-fraud receives from the gateway the information that the payment has been pre-authorized by the issuing bank. With the information received from the gateway, the anti-fraud sends a payment approval or denial response. If the anti-fraud denies, the payment is canceled. If the payment is approved, the order can proceed its normal flow.
-</div>
+>ℹ️ It is possible to include Anti-fraud in this flow. In this case, the anti-fraud receives from the gateway the information that the payment has been pre-authorized by the issuing bank. With the information received from the gateway, the anti-fraud sends a payment approval or denial response. If the anti-fraud denies, the payment is canceled. If the payment is approved, the order can proceed its normal flow.
 

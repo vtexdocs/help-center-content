@@ -15,9 +15,7 @@ legacySlug: como-configurar-a-retirada-na-loja-pickup-store
 subcategory: 1c5Btie9ou2Gg2iUo0ggqM
 ---
 
-<div class="alert alert-danger">
-Este artigo está obsoleto. Para configurar corretamente o ponto de retirada, acesse o artigo <a href="https://help.vtex.com/pt/tutorial/configurar-pontos-de-retirada-pickup-points">Configurar Pontos de Retirada (Pickup Points)</a>
-</div>
+>❗ Este artigo está obsoleto. Para configurar corretamente o ponto de retirada, acesse o artigo [Configurar Pontos de Retirada (Pickup Points)](https://help.vtex.com/pt/tutorial/configurar-pontos-de-retirada-pickup-points)
 
 A configuração de retirada na loja possibilita ao cliente a escolha de não receber o produto em casa, e sim, ir buscá-lo em uma loja. Com os passos abaixo, é possível dar ao cliente a opção da escolha da loja que deseja retirar sua compra no checkout, durante o fluxo de compra. A configuração é realizada em 3 módulos diferentes da plataforma, descritos abaixo.
 

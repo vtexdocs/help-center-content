@@ -16,9 +16,7 @@ trackSlugEN: next-steps-after-the-go-live
 
 Add-on products are solutions offered by VTEX to meet the specific business needs. They can be purchased separately through a subscription agreement.
 
-<div class="alert alert-warning">
-  <p>To implement the solutions below, contact our<a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ"> VTEX Sales Support</a>.</p>
-</div>
+>⚠️ To implement the solutions below, contact our[ VTEX Sales Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
 
 ## VTEX Ad Network
 
@@ -81,9 +79,7 @@ To watch an app demo or schedule a custom service with an expert, go to the[ VTE
 
 ## VTEX Shipping Network
 
-<div class="alert alert-warning">
-  <p>VTEX Shipping Network and VTEX Shipping Network Correios solutions are exclusive to Brazil.</p>
-</div>
+>⚠️ VTEX Shipping Network and VTEX Shipping Network Correios solutions are exclusive to Brazil.
 
 Explore options for shipping products to all regions of Brazil with [VTEX Shipping Network](https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) and **VTEX Shipping Network Correios**.
 
@@ -129,6 +125,4 @@ The main advantages of this feature are:
 
 - **Increased conversion rates and sales:** The feature encourages customers to return to the payment page to complete their purchase, thereby increasing sales and conversion rates for retailers.
 
-<div class = "alert alert-info">
-WhatsApp AI Campaigns is only available for stores using <a href="https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework">Store Framework</a> that don't have Checkout customizations.
-</div>
+>ℹ️ WhatsApp AI Campaigns is only available for stores using [Store Framework](https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework) that don't have Checkout customizations.

@@ -18,9 +18,7 @@ internalReference: 939877
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As ofertas enviadas pelos vendedores podem eventualmente ir para a guia Revisão do Skus Recebido do Marketplace, dependendo se foram aprovadas ou não nas regras de Qualidade da Oferta.

@@ -15,17 +15,13 @@ legacySlug: exibindo-anuncios-do-vtex-ad-network-na-sua-loja-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
-<div class = "alert alert-info">
-<p>O VTEX Ad Network está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o <a href="https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Suporte Comercial</a>. Se ainda não é cliente, mas tem interesse nesta solução, preencha o <a href="https://vtex.com/br-pt/contato/">formulário de contato</a>.</p>
-</div>
+>ℹ️ O VTEX Ad Network está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
 Com [VTEX Ad Network (Beta)](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur), lojas VTEX podem disponibilizar espaço publicitário para que marcas promovam seus produtos na sua loja. Desta forma, a VTEX selecionará anúncios de produtos que já compõem o seu catálogo e sua loja receberá um valor por cada clique em anúncios na sua frente de loja.
 
 Para aderir ao VTEX Ad Network e exibir anúncios na sua loja, basta instalar o aplicativo VTEX Ad Network para lojas.
 
-<div class="alert alert-warning">
-Por ora, lojas VTEX podem disponibilizar inventário de anúncios apenas em frentes de loja que utilizam <a href="https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a>.
-</div>
+>⚠️ Por ora, lojas VTEX podem disponibilizar inventário de anúncios apenas em frentes de loja que utilizam [Store Framework](https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework).
 
 ## Acompanhar resultados
 

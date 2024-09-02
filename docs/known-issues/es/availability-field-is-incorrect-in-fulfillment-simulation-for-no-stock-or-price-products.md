@@ -18,9 +18,7 @@ internalReference: 773537
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando un producto está agotado o no tiene precio, la simulación de cumplimiento informa incorrectamente del campo "disponibilidad" como "disponible".

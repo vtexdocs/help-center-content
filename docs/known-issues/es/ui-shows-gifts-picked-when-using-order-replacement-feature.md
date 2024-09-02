@@ -18,9 +18,7 @@ internalReference: 909137
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al utilizar la función de sustitución de pedidos, la interfaz de usuario de la caja muestra "¡Regalos seleccionados!" aunque no haya ninguna promoción de regalos configurada.

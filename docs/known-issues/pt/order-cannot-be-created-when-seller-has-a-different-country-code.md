@@ -18,9 +18,7 @@ internalReference: 763955
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em um mercado, quando há um vendedor configurado com um Código de País diferente, o serviço de atendimento considerará o Código de País do vendedor ao fazer o pedido. Isso pode gerar um erro se o Código de País do vendedor definir campos obrigatórios diferentes dos do mercado.

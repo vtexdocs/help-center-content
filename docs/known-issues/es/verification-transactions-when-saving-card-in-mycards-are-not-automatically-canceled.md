@@ -18,9 +18,7 @@ internalReference: 347084
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se guarda una tarjeta en el módulo MyCards, se genera una transacción de verificación por un monto de R$ 1,50 que, después de seguir el flujo de autorización y aprobación, debe ser cancelada automáticamente. Esta transacción tiene el objetivo de validar que la tarjeta guardada es auténtica y que realiza las transacciones sin problemas.

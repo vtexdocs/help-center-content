@@ -15,9 +15,7 @@ legacySlug: modulo-localidades
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class = "alert alert-info">
-Esta funcionalidad se encuentra en la versión beta, por lo tanto, estamos trabajando para mejorarla. Si deseas utilizar la <b>Capacidad operativa (Beta)</b>, completa el <a href="https://docs.google.com/forms/d/e/1FAIpQLScgmHPJEnVfd1EK9znevW-bcdxL2WVqzNZdrwri9auKayZDJA/viewform">formulario de contacto</a>. El requisito para usar la funcionalidad es tener <a href="https://help.vtex.com/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl">cuentas franquicia</a> asociadas a la <a href="https://help.vtex.com/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-cuenta-vtex">cuenta principal</a>.
-</div>
+>ℹ️ Esta funcionalidad se encuentra en la versión beta, por lo tanto, estamos trabajando para mejorarla. Si deseas utilizar la **Capacidad operativa (Beta)**, completa el [formulario de contacto](https://docs.google.com/forms/d/e/1FAIpQLScgmHPJEnVfd1EK9znevW-bcdxL2WVqzNZdrwri9auKayZDJA/viewform). El requisito para usar la funcionalidad es tener [cuentas franquicia](https://help.vtex.com/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) asociadas a la [cuenta principal](https://help.vtex.com/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-cuenta-vtex).
 
 La página **Capacidad operativa** permite gestionar la capacidad de los sellers para recibir y preparar pedidos de la tienda, lo que te permite optimizar tu red logística. Puedes monitorear la distribución de pedidos entre los sellers y realizar [acciones](https://help.vtex.com/es/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#acciones-en-la-pagina-de-detalles-del-seller) para mejorarla.
 
@@ -31,9 +29,7 @@ Al acceder a **Envío > Capacidad operativa** en el Admin VTEX, verás una pági
 
 ![operational_capacity_image1_ES](https://images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/defaa51c729689fdd70aa1e00e018d40/operational_capacity_image1_ES.png)
 
-<div class="alert alert-warning">
-Los sellers que aparecen en la interfaz son los sellers de tu operación, configurados previamente por nuestro equipo. Para agregar un nuevo seller, ponte en contacto con <a href="https://help.vtex.com/es/support">nuestro soporte</a>.
-</div>
+>⚠️ Los sellers que aparecen en la interfaz son los sellers de tu operación, configurados previamente por nuestro equipo. Para agregar un nuevo seller, ponte en contacto con [nuestro soporte](https://help.vtex.com/es/support).
 
 El gráfico muestra los siguientes datos:
 
@@ -65,9 +61,7 @@ En la página **Envío > Capacidad operativa** del Admin VTEX, puedes realizar l
 
 En la barra de búsqueda puedes escribir el nombre de un seller para encontrarlo.
 
-<div class = "alert alert-info">
-Puedes asociar la búsqueda de sellers con el <a href="https://help.vtex.com/es/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#filtrar-sellers">filtro de status</a>. Si no se devuelve ningún resultado, comprueba que no haya ningún filtro activo.
-</div>
+>ℹ️ Puedes asociar la búsqueda de sellers con el [filtro de status](https://help.vtex.com/es/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#filtrar-sellers). Si no se devuelve ningún resultado, comprueba que no haya ningún filtro activo.
 
 ### Filtrar sellers
 
@@ -99,9 +93,7 @@ La capacidad operativa del seller puede medirse por número de pedidos o ítems 
     - **Cantidad de ítems:** la capacidad del seller se medirá por número de ítems del pedido.
 5. Haz clic en `Guardar cambios`.
 
-<div class="alert alert-warning">
-La plataforma tiene algunas restricciones con respecto a <a href="https://help.vtex.com/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">sellers de extensa cobertura</a>. La sección <a href="https://help.vtex.com/es/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#capacidad-operativa-de-sellers-de-extensa-cobertura">Capacidad operativa de sellers de extensa cobertura</a> contiene más información.
-</div>
+>⚠️ La plataforma tiene algunas restricciones con respecto a [sellers de extensa cobertura](https://help.vtex.com/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). La sección [Capacidad operativa de sellers de extensa cobertura](https://help.vtex.com/es/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#capacidad-operativa-de-sellers-de-extensa-cobertura) contiene más información.
 
 ## Acciones en la página de detalles del seller
 
@@ -119,9 +111,7 @@ En la esquina superior derecha de la página de detalles del seller, hay un bot�
 - **Activar:** habilita el botón de alternancia para que el status esté `Activo` y haz clic en `Activar`.
 - **Desactivar:** inhabilita el botón de alternancia para que el status esté `Pausado` y haz clic en `Pausar`.
 
-<div class="alert alert-warning">
-La plataforma tiene algunas restricciones en relación con <a href="https://help.vtex.com/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">sellers de extensa cobertura</a>. La sección <a href="https://help.vtex.com/es/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#capacidad-operativa-de-sellers-de-extensa-cobertura">Capacidad operativa de sellers de extensa cobertura</a> contiene más información.
-</div>
+>⚠️ La plataforma tiene algunas restricciones en relación con [sellers de extensa cobertura](https://help.vtex.com/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). La sección [Capacidad operativa de sellers de extensa cobertura](https://help.vtex.com/es/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#capacidad-operativa-de-sellers-de-extensa-cobertura) contiene más información.
 
 ### Monitorear la capacidad utilizada
 

@@ -18,9 +18,7 @@ internalReference: 1053010
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O problema é que o gateway ignorou o valor `delayToAutoSettleAfterAntifraud`.

@@ -17,7 +17,7 @@ subcategory: 1VvCpaa8NCA6a0MK6W6oWg
 
 Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas do [Suporte VTEX](https://help.vtex.com/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Os especialistas estão preparados para proporcionar a melhor experiência possível para a solução dos chamados. Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets.
 
-<div class="alert alert-info">É necessário <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">habilitar a autorização de suporte</a> no <a href="https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3">License Manager</a> para que o usuário tenha acesso ao Suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.</div>
+>ℹ️ É necessário [habilitar a autorização de suporte](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) no [License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) para que o usuário tenha acesso ao Suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.
 
 Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA) e recursos disponíveis para clientes no Brasil, leia o artigo [Suporte VTEX - Brasil](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
 

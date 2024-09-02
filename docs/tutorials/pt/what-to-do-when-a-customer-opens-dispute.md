@@ -19,9 +19,7 @@ No momento em que uma disputa é aberta, o lojista é notificado pelo email do O
 
 Vale ressaltar que o lojista tem um prazo de sete dias corridos para responder o email com todos os anexos.
 
-<div class="alert alert-danger">
-<strong>Atenção:</strong> caso a documentação não seja enviada no prazo estipulado ou esteja incorreta e não seja corrigida, o lojista perderá a disputa.
-</div>
+>❗ **Atenção:** caso a documentação não seja enviada no prazo estipulado ou esteja incorreta e não seja corrigida, o lojista perderá a disputa.
 
 Para se abrir uma disputa, o lojista deve enviar um email com o assunto Defesa Disputa - [Nome da Account VTEX] - ID da Autorização, para os emails  **enviochargeback@ssf.zoop.com.br**  e **payment@vtex.com.br**. O email deve conter os seguintes documentos:
 

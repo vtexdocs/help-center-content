@@ -34,9 +34,7 @@ Es el coeficiente resultante de la relación entre peso y volumen más adecuada 
 
 El cálculo del peso volumétrico se realiza efectuando la multiplicación de la Longitud x Anchura X Altura y división por el factor volumétrico proporcionado por la trasportadora.
 
-<div class="alert alert-warning">
-Al calcular el factor de peso volumétrico, la plataforma VTEX no utiliza unidades de medida y los números generados son absolutos. Por lo tanto, los números y medidas que tengas en cuenta serán los del resultado final. Vale la pena señalar que la unidad de medida utilizada en su cálculo debe ser la misma utilizada por la transportadora.
-</div>
+>⚠️ Al calcular el factor de peso volumétrico, la plataforma VTEX no utiliza unidades de medida y los números generados son absolutos. Por lo tanto, los números y medidas que tengas en cuenta serán los del resultado final. Vale la pena señalar que la unidad de medida utilizada en su cálculo debe ser la misma utilizada por la transportadora.
 
 Vea el ejemplo siguiente:
 

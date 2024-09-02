@@ -39,9 +39,7 @@ Para entrar em contato:
 4. Preencha o campo **Envie uma mensagem**.  
 5. Clique no botão __Enviar__.   
 
-<div class="alert alert-info">
-O potencial parceiro comercial receberá um e-mail com as informações preenchidas. Caso o interesse seja mútuo, o encarregado pelo seller ou marketplace poderá entrar em contato e negociar os termos do acordo entre marketplace e seller.
-</div>
+>ℹ️ O potencial parceiro comercial receberá um e-mail com as informações preenchidas. Caso o interesse seja mútuo, o encarregado pelo seller ou marketplace poderá entrar em contato e negociar os termos do acordo entre marketplace e seller.
 
 ## Perfil da loja
 ![Network profile PT](https://images.ctfassets.net/alneenqid6w5/0F1E1mqf6hD5FLzVGqBA7/3566eb996b94604d3449fa0ae773cf27/Marketplace_store_profile_PT.gif)
@@ -56,9 +54,7 @@ O potencial parceiro comercial receberá um e-mail com as informações preenchi
 8. Clique em __Aceitar__.  
 9. Clique em __Criar perfil__.   
 
-<div class="alert alert-warning">
-É necessário ativar o perfil de seller ou marketplace para receber mensagens e entrar em contato com outros parceiros. 
-</div>
+>⚠️ É necessário ativar o perfil de seller ou marketplace para receber mensagens e entrar em contato com outros parceiros.
 
 ### Informações da loja
 - __Logo__: imagem do logo da sua loja, com tamanho máximo de 500kB, que identificará sua loja no Marketplace Network.   

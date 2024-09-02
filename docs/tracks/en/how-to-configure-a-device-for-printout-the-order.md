@@ -38,9 +38,7 @@ configureDeviceEnabled: true,
       }
 }``
 
-<div class="alert alert-info">
-  <strong>NOTE</strong>: There is an option to automatically print the order summary once the order is completed. The configuration is very simple, just add the <strong><i>printPageAutomatically</i></strong> property with the value <strong><i>true</i></strong> inside the <strong><i>printingConfig</i></strong> object.
-   </div>
+>ℹ️ **NOTE**: There is an option to automatically print the order summary once the order is completed. The configuration is very simple, just add the **<i>printPageAutomatically</i>** property with the value **<i>true</i>** inside the **<i>printingConfig</i>** object.
    
 Do not delete any of the other properties present in this object. The result should be something like:
 
@@ -55,9 +53,7 @@ printPageAutomatically: true
 
 ## Configure printer device in inStore
 
-<div class="alert alert-warning">
-  <strong>IMPORTANT</strong>: For the configuration of the printer within inStore, it is necessary to have the <strong><i>AppKey</i></strong> and the <strong><i>AppToken</i></strong> with permissions of at least one profile as <i>“InStore Salesperson (inStore Sales Person)”</i>. It is worth clarifying that an <i>“Owner (Admin Super)”</i> profile can be used.
-  </div>
+>⚠️ **IMPORTANT**: For the configuration of the printer within inStore, it is necessary to have the **<i>AppKey</i>** and the **<i>AppToken</i>** with permissions of at least one profile as <i>“InStore Salesperson (inStore Sales Person)”</i>. It is worth clarifying that an <i>“Owner (Admin Super)”</i> profile can be used.
 
   1. Connect the printer to the computer where inStore is installed (to download the inStore you can go to [http://instore.vtex.com/download]). It must be a computer with Windows operating system (Windows 7 or higher are compatible).
   2. Open inStore application and enter the store in which you want to configure the printer.

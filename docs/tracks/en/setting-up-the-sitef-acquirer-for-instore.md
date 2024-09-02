@@ -14,21 +14,15 @@ trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: setting-up-the-sitef-acquirer-for-instore
 ---
 
-<div class="alert alert-warning">
-It is important to stress that the SiTef integration is a certified solution, but has not yet been tested on a large scale.
-</div>
+>⚠️ It is important to stress that the SiTef integration is a certified solution, but has not yet been tested on a large scale.
 
 To allow transactions through card machines using inStore, you need an acquirer or sub-acquirer that will process your payments.
 
 __SiTef__ is an inStore certified sub-acquirer in Brazil.
 
-<div class="alert alert-warning">
-If you want to use SiTef in a different country or if you want to use another acquirer that is not currently certified, you will need to build the integration with that acquirer’s application. To do so, refer to the article <a href="https://help.vtex.com/en/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod">Integrating inStore to a new payment acquirer</a>.
-</div>
+>⚠️ If you want to use SiTef in a different country or if you want to use another acquirer that is not currently certified, you will need to build the integration with that acquirer’s application. To do so, refer to the article [Integrating inStore to a new payment acquirer](https://help.vtex.com/en/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod).
 
-<div class="alert alert-info">
-SiTef is currently supported by <b>Android</b> and <b>iOS</b> systems, with Ingenico card machines or any other machine that is certified by SiTef.
-</div>
+>ℹ️ SiTef is currently supported by **Android** and **iOS** systems, with Ingenico card machines or any other machine that is certified by SiTef.
 
 Before installing SiTef’s application, make sure you have completed the previous step of setting up the Payments module.
 

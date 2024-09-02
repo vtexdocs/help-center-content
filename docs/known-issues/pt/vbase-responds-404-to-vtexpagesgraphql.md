@@ -18,9 +18,7 @@ internalReference: 822031
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O VBase está respondendo 404 para o aplicativo vtex.pages-graphql instalado na conta, por algum motivo, o aplicativo não está sendo encontrado e, como consequência, o comprador será afetado por não conseguir acessar um produto ou uma página específica na loja. Esse erro 404 é armazenado em cache por 2 horas, portanto, o problema normalmente é interrompido após o término do cache. O problema é intermitente e ainda não conseguimos descobrir o motivo pelo qual ele está ocorrendo.

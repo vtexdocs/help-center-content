@@ -18,9 +18,7 @@ internalReference: 795997
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, nuestro sistema de tarjetas regalo no incluye una comprobación para verificar si una tarjeta regalo está activa antes de añadir o eliminar créditos. Aunque esta ruta solo afecta a la realización de transacciones con tarjetas regalo, es la única forma de hacerlo, por lo que se espera que se realice alguna validación.

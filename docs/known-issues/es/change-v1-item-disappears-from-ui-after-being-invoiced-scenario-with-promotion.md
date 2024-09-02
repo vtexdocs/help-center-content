@@ -18,9 +18,7 @@ internalReference: 1080187
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Hemos identificado un escenario en Change V1 en el que, tras aplicar una promoción de "compre 2 y obtenga un descuento en la segunda unidad", cuando facturamos uno de los artículos y el segundo se elimina a través de Change V1, la información sobre el producto que se facturó desaparece de la interfaz de usuario de pedidos, quedando únicamente la información sobre el artículo que se eliminó en Change V1.

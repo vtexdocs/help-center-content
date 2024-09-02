@@ -18,9 +18,7 @@ internalReference: 966450
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 B2B Organizations Detail UI sólo muestra 100 primeros vendedores; la UI no tiene paginación, lo que hace imposible seleccionar un vendedor si no está en la primera página.

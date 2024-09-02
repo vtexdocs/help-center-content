@@ -18,9 +18,7 @@ internalReference: 956264
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o relatório "Notifique-me" não tiver SKUs, a tentativa de exportá-lo gerará um arquivo corrompido para o Excel

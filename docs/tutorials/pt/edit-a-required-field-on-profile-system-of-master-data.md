@@ -17,21 +17,16 @@ subcategory: 42hDtnYXHw5ExG6l19RP1l
 
 O Master Data é um módulo da plataforma VTEX usado para armazenar e organizar documentos. Descubra como tornar obrigatório um campo de formulário no Master Data nas instruções abaixo.
 
-<div class="alert alert-warning">
-Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
-<ul>
-<li>
-<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-Características das versões do Master Data
-</a>
-</li>
-<li>
-<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-Master Data v2
-</a>
-</li>
-</ul>
-</div>
+>⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
+>
+> *<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
+> Características das versões do Master Data
+> </a>
+>
+> *<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
+> Master Data v2
+> </a>
+> 
 
 Para selecionar um campo de preenchimento que deseja tornar obrigatório, siga os passos abaixo:
 

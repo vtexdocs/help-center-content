@@ -18,9 +18,7 @@ internalReference: 455218
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En algunos escenarios es posible que aunque la función LeanShipping esté desactivada en la configuración, el sistema aún considere necesario agrupar las opciones de envío, y con ello no desactivará leanShipping, esto se debe a que la regla utilizada por el sistema para definir el uso o no de leanShipping distinta a la configuración está activada o desactivada y existen los mismos o diferentes ANS disponibles para los artículos del carrito;

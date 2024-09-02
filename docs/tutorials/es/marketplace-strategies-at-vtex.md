@@ -34,9 +34,7 @@ La selección de productos enviados a un marketplace se define al elegir [la pol
 
 La [contratación de políticas comerciales adicionales](https://help.vtex.com/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) se realiza a través de la apertura de un ticket en nuestro servicio de soporte, seleccionando la opción __Comercial__ y el tipo de solicitud “Creación de política comercial”. Se cobra una tarifa mensual por cada política comercial adicional, independientemente de si se utiliza para la integración con marketplaces certificados, partners, externos o VTEX.  
 
-<div class="alert alert-info">
-Los pedidos aprobados en los marketplaces están sujetos a las mismas <a href="https://help.vtex.com/es/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt">normas contractuales</a> de pedidos realizados a través de otros canales.  
-</div>
+>ℹ️ Los pedidos aprobados en los marketplaces están sujetos a las mismas [normas contractuales](https://help.vtex.com/es/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt) de pedidos realizados a través de otros canales.
 
 A continuación, abordaremos los siguientes escenarios:  
 
@@ -100,10 +98,8 @@ En VTEX, puedes vender en otros canales en las siguientes situaciones:
 - [Integrado con un marketplace partner](#integrado-con-un-marketplace-partner)
 - [Como seller VTEX](#como-seller-vtex)  
 
-<div class="alert alert-info">
-Una tienda VTEX puede actuar simultáneamente como <a href="#vender-en-un-marketplace">seller VTEX</a> y <a href="#actuar-como-marketplace">marketplace VTEX</a>.
-La plataforma VTEX tiene diferentes funcionalidades de fulfillment que se pueden combinar para escenarios como el dropshipping, es decir, cuando el seller recibe y envía el pedido del cliente a un tercero que estará a cargo del fulfillment. La solución logística más adecuada para el seller dependerá de la arquitectura y su modelo de negocio, y puede realizarse a través de la <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integración de Back office (ERP/PIM/WMS)</a>.
-</div>
+>ℹ️ Una tienda VTEX puede actuar simultáneamente como [seller VTEX](#vender-en-un-marketplace) y [marketplace VTEX](#actuar-como-marketplace).
+> La plataforma VTEX tiene diferentes funcionalidades de fulfillment que se pueden combinar para escenarios como el dropshipping, es decir, cuando el seller recibe y envía el pedido del cliente a un tercero que estará a cargo del fulfillment. La solución logística más adecuada para el seller dependerá de la arquitectura y su modelo de negocio, y puede realizarse a través de la [integración de Back office (ERP/PIM/WMS)](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).
 
 ### Integrado con un marketplace externo
 
@@ -113,9 +109,7 @@ En caso de que tu tienda desee vender en un marketplace que no tiene conexión c
 
 Los marketplaces certificados son aquellos cuya integración ha sido desarrollada por el equipo de desarrolladores de VTEX. Con la política comercial adicional contratada para este tipo de integración, estás exento de la tarifa mensual si hay pedidos asociados a dicha política a través del marketplace certificado. En este caso, solo pagarás la comisión por pedidos (take rate).  
 
-<div class="alert alert-warning">
-Las políticas comerciales adicionales contratadas para la integración con marketplaces certificados que también se utilicen en la integración con otros tipos de marketplaces estarán sujetas al cobro de la tarifa mensual.
-</div>
+>⚠️ Las políticas comerciales adicionales contratadas para la integración con marketplaces certificados que también se utilicen en la integración con otros tipos de marketplaces estarán sujetas al cobro de la tarifa mensual.
 
 Actualmente, la plataforma VTEX cuenta con los siguientes marketplaces certificados:  
 
@@ -168,9 +162,7 @@ Consulta a continuación los marketplaces partners disponibles en el catálogo d
 - Fast Shop  
 - Hubplus  
 
-<div class="alert alert-info">
-Aunque Facebook, Google Shopping, Google Shopping Ads y TikTok no son marketplaces, ofrecen una experiencia similar de envío de productos desde las tiendas VTEX.
-</div>
+>ℹ️ Aunque Facebook, Google Shopping, Google Shopping Ads y TikTok no son marketplaces, ofrecen una experiencia similar de envío de productos desde las tiendas VTEX.
 
 ### Como seller VTEX
 
@@ -182,6 +174,4 @@ La configuración de la [integración entre tiendas VTEX](https://help.vtex.com/
 
 [Seller Portal](https://help.vtex.com/es/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) es una edición de la plataforma VTEX destinada a que los sellers se conecten y vendan sus productos en marketplaces alojados en VTEX. A través de este portal, los sellers acceden a todas las funcionalidades esenciales para la operación del ecommerce en grandes vitrinas, aportando visibilidad y conversión de ventas.  
 
-<div class="alert alert-info">
-En VTEX, es posible actuar como un <a href="https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa">seller white label</a>, un seller no identificado por el consumidor en la experiencia de compra. Este tipo de seller es el estándar para las <a href="https://help.vtex.com/es/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl">cuentas franquicia</a>, por ejemplo, y puede ser estratégico para determinados modelos de negocio. Para más información, consulta el artículo <a href="https://help.vtex.com/es/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78">Elegir entre cuenta estándar, cuenta franquicia o Seller Portal</a>.
-</div>
+>ℹ️ En VTEX, es posible actuar como un [seller white label](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa), un seller no identificado por el consumidor en la experiencia de compra. Este tipo de seller es el estándar para las [cuentas franquicia](https://help.vtex.com/es/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl), por ejemplo, y puede ser estratégico para determinados modelos de negocio. Para más información, consulta el artículo [Elegir entre cuenta estándar, cuenta franquicia o Seller Portal](https://help.vtex.com/es/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78).

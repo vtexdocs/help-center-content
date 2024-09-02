@@ -18,9 +18,7 @@ internalReference: 582070
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al interactuar con un orderForm en la situación específica en la que los datos del cliente se importaron automáticamente después de iniciar sesión, se eliminarán sus datos del orderForm incluso para los "superusuarios", identificados por sus appKeys.

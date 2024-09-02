@@ -18,9 +18,7 @@ internalReference: 965484
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando uma promoção de assinatura é definida no módulo de assinatura, o comerciante tem a possibilidade de escolher a frequência com que essa promoção será aplicada à assinatura.

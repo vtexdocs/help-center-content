@@ -18,9 +18,7 @@ internalReference: 360564
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Estamos teniendo problemas en algunos casos en los que el flujo de trabajo de seguimiento para Amazon no está funcionando.

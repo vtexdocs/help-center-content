@@ -18,9 +18,7 @@ internalReference: 602054
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Los tipos de campo CNPJ y CPF se utilizan entre varias partes de VTEX y son campos esenciales presentes también en la entidad MasterData CL.

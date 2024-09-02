@@ -15,9 +15,7 @@ legacySlug: como-alterar-pedidos-beta
 subcategory: 3LQ1Tl0u4frEOd45BkjFAm
 ---
 
-<div class="alert alert-info">
-Essa funcionalidade está em fase beta, o que significa que estamos trabalhando para aprimorá-la. Se você deseja utilizar a <b>Alterar pedido (Beta)</b>, entre em contato com <a href="https://help.vtex.com/pt/support">nosso Suporte</a> e informe o(s) <a href="https://help.vtex.com/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name(s)</a> nos quais deseja ativá-la.
-</div>
+>ℹ️ Essa funcionalidade está em fase beta, o que significa que estamos trabalhando para aprimorá-la. Se você deseja utilizar a **Alterar pedido (Beta)**, entre em contato com [nosso Suporte](https://help.vtex.com/pt/support) e informe o(s) [account name(s)](https://help.vtex.com/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) nos quais deseja ativá-la.
 
 A funcionalidade [Alterar pedido (beta)](https://help.vtex.com/pt/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ) permite que você edite um pedido de diversas formas, seja a mudança motivada pela vontade do cliente, indisponibilidade de produtos ou outros motivos. 
 
@@ -28,9 +26,7 @@ Este artigo apresenta de quais maneiras o pedido pode ser alterado e como realiz
 - [Aspectos comuns](#aspectos-comuns)
 - [Erros de processamento](#erros-de-processamento)
 
-<div class="alert alert-warning">
-Para saber sobre as <a href="https://help.vtex.com/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#caracteristicas-gerais">características gerais</a> em cenários de alteração de pedidos, incluindo reserva, atualização de inventário e contas franquia, ou para entender questões de <a href="https://help.vtex.com/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#mudancas-de-preco">preço, pagamento e fatura</a>, veja o artigo <a href="https://help.vtex.com/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ">Como funciona a Alterar pedido (Beta)</a>.
-</div>
+>⚠️ Para saber sobre as [características gerais](https://help.vtex.com/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#caracteristicas-gerais) em cenários de alteração de pedidos, incluindo reserva, atualização de inventário e contas franquia, ou para entender questões de [preço, pagamento e fatura](https://help.vtex.com/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#mudancas-de-preco), veja o artigo [Como funciona a Alterar pedido (Beta)](https://help.vtex.com/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ).
 
 ## Requisitos
 
@@ -81,9 +77,7 @@ Uma vez na página de detalhes do pedido, você pode realizar as seguintes alter
 * [Substituir itens](#substituir-itens)
 * [Alterar peso](#alterar-peso)
 
-<div class = "alert alert-info">
-É possível realizar uma única alteração no pedido ou combinar várias de uma só vez. Não existe um limite para quantas vezes um pedido pode ser alterado. Para mais informações, veja o artigo <a href="https://help.vtex.com/pt/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ">Como funciona a Alterar pedido (Beta)</a>.
-</div>
+>ℹ️ É possível realizar uma única alteração no pedido ou combinar várias de uma só vez. Não existe um limite para quantas vezes um pedido pode ser alterado. Para mais informações, veja o artigo [Como funciona a Alterar pedido (Beta)](https://help.vtex.com/pt/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ).
 
 ### Adicionar itens
 

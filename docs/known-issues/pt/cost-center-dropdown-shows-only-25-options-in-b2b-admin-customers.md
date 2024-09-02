@@ -18,9 +18,7 @@ internalReference: 921115
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao registrar um novo cliente usando o B2B Admin Customers, o menu suspenso do centro de custo mostra apenas 25 opções.

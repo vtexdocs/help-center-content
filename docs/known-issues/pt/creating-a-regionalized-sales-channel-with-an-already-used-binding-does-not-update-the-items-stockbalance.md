@@ -18,9 +18,7 @@ internalReference: 1005112
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Para contas regionalizadas, o sistema de índice filtra, pelos canais de vendas regionalizados, o saldo de estoque que deve aparecer, para não mostrar vínculos de vendas que não são regionalizados.

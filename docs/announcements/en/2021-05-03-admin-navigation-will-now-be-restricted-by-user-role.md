@@ -17,9 +17,7 @@ announcementSynopsisEN: 'Users will only see the sidebar menu items they’re al
 
 [Roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) allow stores to grant users access only to a selection of resources on our platform. While this was enough to protect your account's data integrity and security, users could still see the sidebar menu items for restricted sections of the admin. These sections are no longer visible, so that users will only be able to see the items they are allowed to access. 
 
-<div class="alert alert-info">
-This action has a low impact on store’s operations, since it involves a reorganization of the left navigation, and not changes in individual user roles.  Also, no predefined settings will be lost: if your users already had pre-defined roles and permissions, they will remain the same.
-</div>
+>ℹ️ This action has a low impact on store’s operations, since it involves a reorganization of the left navigation, and not changes in individual user roles.  Also, no predefined settings will be lost: if your users already had pre-defined roles and permissions, they will remain the same.
 
 ## What has changed?
 

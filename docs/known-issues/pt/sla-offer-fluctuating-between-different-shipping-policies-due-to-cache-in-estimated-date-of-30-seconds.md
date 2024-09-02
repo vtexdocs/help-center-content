@@ -18,9 +18,7 @@ internalReference: 1036916
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A simulação de logística pode oscilar entre a oferta de SLAs se o cliente tiver políticas de remessa com o mesmo preço, tempo de entrega, SlaType, custo de doca e configuração de armazém, mas prioridade de doca diferente.

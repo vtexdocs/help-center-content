@@ -25,9 +25,7 @@ Local stock sale allows the sales associate in a physical store to complete sale
 6. [Link the franchise account to the physical store](#linking-the-franchise-account-to-the-physical-store)
 7. [Integrate the point of sale](#integrating-the-point-of-sale)
 
-<div class="alert alert-info">
-<p>Local stock sale can only be set up for stores that use Sales App. Learn how to request and configure Sales App in our <a href="https://help.vtex.com/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc">Sales App - Getting started and setting up</a> documentation.</p>
-</div>
+>ℹ️ Local stock sale can only be set up for stores that use Sales App. Learn how to request and configure Sales App in our [Sales App - Getting started and setting up](https://help.vtex.com/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) documentation.
 
 ## Creating a franchise account
 
@@ -64,9 +62,7 @@ If all your products are listed without quantity, you will need to add the quant
 
 You need to [enabling selling an out-of-stock item](#enabling-selling-an-out-of-stock-item-optional) if you want to ensure the item on hand will always be available for customers in the store.
 
-<div class="alert alert-info">
-<p>If you created two different warehouses, one for the ecommerce website and one for Sales App, it is important to manage stock quantity correctly for each.</p>
-</div>
+>ℹ️ If you created two different warehouses, one for the ecommerce website and one for Sales App, it is important to manage stock quantity correctly for each.
 
 ## Linking the franchise account to the physical store
 
@@ -79,9 +75,7 @@ You will need to select a sales associate from the store where you want to test 
 
 ![instore-pdp-en](https://images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/064cb3f0b499da4533cacdbea0fee4eb/image.png)
 
-<div class="alert alert-info">
-<p>If you enabled Infinite inventory, the item quantity will display as a number greater than one million, which can't be changed when a sale is completed.</p>
-</div>
+>ℹ️ If you enabled Infinite inventory, the item quantity will display as a number greater than one million, which can't be changed when a sale is completed.
 
 ## Enabling selling an out-of-stock item (optional)
 

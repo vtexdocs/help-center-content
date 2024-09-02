@@ -70,6 +70,6 @@ Al seleccionar **Alterar pedido**, el cliente es llevado a una pantalla en la qu
 
 Para concluir la modificación, él es llevado al carrito y el Checkout, donde puede modificar dirección, tipo de flete, forma de pago y SKU.
 
-<div class="alert alert-warning">Es necesario cerrar la compra para concluir el proceso, pero <strong>el cliente jamás es cobrado dos veces</strong>. En algunos casos se reaprovechará el pago anterior; cuando esto no sea posible, la cobranza anterior en la tarjeta de crédito será automáticamente estornada.</div>
+>⚠️ Es necesario cerrar la compra para concluir el proceso, pero **el cliente jamás es cobrado dos veces**. En algunos casos se reaprovechará el pago anterior; cuando esto no sea posible, la cobranza anterior en la tarjeta de crédito será automáticamente estornada.
 
 La reutilización de pago sólo puede utilizarse si el valor del pedido nuevo es igual al del pedido original. Además, si el pago expira en hasta 2 días, no puede reutilizarse.

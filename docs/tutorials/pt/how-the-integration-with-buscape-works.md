@@ -53,23 +53,27 @@ Se o envio for realizado com sucesso, você já poderá encontrar os produtos no
 
 Caso o mapeamento tenha sido feito corretamente, todas as variações serão exibidas em um único anúncio.
 
-<div class="alert alert-info">
-Ex.: 
-<br />
-<strong>Anúncio</strong> = Camisa Azul (produto) | P, M, G (variações/skus)
-</div>
+>ℹ️ Ex.: 
+>
+>
+> 
+> **Anúncio** = Camisa Azul (produto) | P, M, G (variações/skus)
 
 Se o mapeamento __não__ for feito, as diferentes variações do mesmo produto serão exibidas em anúncios separados.
 
-<div class="alert alert-info">
-Ex.: 
-<br />
-<strong>Anúncio 1</strong> = Camisa Azul P  
-<br />
-<strong>Anúncio 2</strong> = Camisa Azul M 
-<br />
-<strong>Anúncio 3</strong> = Camisa Azul G 
-</div>
+>ℹ️ Ex.: 
+>
+>
+> 
+> **Anúncio 1** = Camisa Azul P  
+>
+>
+> 
+> **Anúncio 2** = Camisa Azul M 
+>
+>
+> 
+> **Anúncio 3** = Camisa Azul G
 
 ### Atualizações de produto
 
@@ -92,9 +96,7 @@ Com tudo certo, os produtos enviados ao Buscapé podem ter os seguintes status:
 
 Os estoques são enviados pela primeira vez junto com o primeiro envio de produtos. A partir daí, os estoques dos anúncios no Buscapé são atualizados automaticamente, SKU por SKU, sempre que há alguma alteração de estoque na VTEX. A atualização demora apenas alguns segundos para refletir no marketplace, mas os logs de estoque podem demorar alguns minutos para aparecer no Admin da VTEX. 
 
-<div class="alert alert-info">
-Para acessar os logs, clique na seção <strong>Integrações</strong> do menu lateral do Admin. Uma lista de opções vai se abrir e, então, você deve clicar na opção <strong>Estoque</strong>. 
-</div>
+>ℹ️ Para acessar os logs, clique na seção **Integrações** do menu lateral do Admin. Uma lista de opções vai se abrir e, então, você deve clicar na opção **Estoque**.
 
 ## 3. Preço
 
@@ -104,21 +106,19 @@ No entanto, o sistema __não__ notifica os afiliados quando chega a data final d
 
 Para cada SKU, a integração envia apenas o preço final, baseado no retorno da simulação de fulfillment. Normalmente, o preço enviado é sempre o que foi determinado pela política comercial associada à integração. No entanto, __Promoções__ e __Preços fixos__ podem influenciar o preço final.
 
-<div class="alert alert-info">
-<strong>Exemplo 1:</strong>
-<br />
-Uma promoção que ofereça 10% de desconto para uma determinada categoria.
-</div>
+>ℹ️ **Exemplo 1:**
+>
+>
+> 
+> Uma promoção que ofereça 10% de desconto para uma determinada categoria.
 
-<div class="alert alert-info">
-<strong>Exemplo 2:</strong>
-<br />
-Na política comercial usada no Buscapé, um SKU tem preço de R$ 10 e um preço fixo de R$ 15. O valor que a integração envia para o marketplace é R$ 15.
-</div>
+>ℹ️ **Exemplo 2:**
+>
+>
+> 
+> Na política comercial usada no Buscapé, um SKU tem preço de R$ 10 e um preço fixo de R$ 15. O valor que a integração envia para o marketplace é R$ 15.
 
-<div class="alert alert-warning">
-<strong>Atenção:</strong> a integração não envia preços de acordo com a forma de pagamento. Isso significa que, mesmo se estiver configurada a incidência de juros para pagamentos parcelados, o preço enviado para o Buscapé vai continuar sendo o que foi retornado pela simulação de fulfillment.
-</div>
+>⚠️ **Atenção:** a integração não envia preços de acordo com a forma de pagamento. Isso significa que, mesmo se estiver configurada a incidência de juros para pagamentos parcelados, o preço enviado para o Buscapé vai continuar sendo o que foi retornado pela simulação de fulfillment.
 
 ## 4. Promoções
 

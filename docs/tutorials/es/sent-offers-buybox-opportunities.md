@@ -15,12 +15,10 @@ legacySlug: anuncios-enviados-oportunidades-de
 subcategory: 
 ---
 
-<div class="alert alert-info">
-Para evolucionar su experiencia al sincronizar y actualizar anuncios, el equipo de VTEX está desarrollando una nueva funcionalidad que sustituirá el módulo de <b>Gestión de anuncios</b>.
-Por este motivo, Gestión de anuncios no recibirá más actualizaciones ni mantenimiento.
-Para conectores y marketplaces que ya se integraron con el módulo, comuníquese con nuestro equipo de desarrollo por email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
-Para los conectores interesados en comenzar la integración, les pedimos que esperen el lanzamiento del nuevo módulo, tan pronto como esté disponible, notificaremos a todos los clientes a través del <a href="https://developers.vtex.com/updates/release-notes">Developer Portal</a> y el <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center</a>.
- </div>  
+>ℹ️ Para evolucionar su experiencia al sincronizar y actualizar anuncios, el equipo de VTEX está desarrollando una nueva funcionalidad que sustituirá el módulo de **Gestión de anuncios**.
+> Por este motivo, Gestión de anuncios no recibirá más actualizaciones ni mantenimiento.
+> Para conectores y marketplaces que ya se integraron con el módulo, comuníquese con nuestro equipo de desarrollo por email [taissa.araujo@vtex.com.br](taissa.araujo@vtex.com.br).
+> Para los conectores interesados en comenzar la integración, les pedimos que esperen el lanzamiento del nuevo módulo, tan pronto como esté disponible, notificaremos a todos los clientes a través del [Developer Portal](https://developers.vtex.com/updates/release-notes) y el [VTEX Help Center](https://help.vtex.com/pt/en/announcements).  
 
 Un Anuncio es un SKU cuyo precio y stock fueron configurados por un seller y que fue enviado a diferentes canales de venta. El módulo [Gestión de anuncios](https://help.vtex.com/es/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE) del Admin VTEX permite a los sellers supervisar el envío y la sincronización de sus productos a los marketplaces y también brinda oportunidades para obtener más ventas con sus anuncios. 
 
@@ -30,9 +28,7 @@ Un ejemplo de oportunidad es la función de Catálogo MeLi de Mercado Libre. Lo 
 
 Las *Oportunidades* acompañan la presencia de un anuncio en las diferentes páginas del módulo **Gestión de anuncios**, como se muestra en las imágenes de la sección siguiente.
 
-<div class = "alert alert-info">
-<b>Gestión de anuncios</b> permite hacer un seguimiento de los anuncios con <a href="https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Libre Classic</a>, <a href="https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Libre Premium</a>, <a href="https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm">Netshoes</a> y <a href="https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex">marketplaces VTEX</a>. Para los conectores que desean integrarse a través de API, existe la <a href="https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors">Guía de integración de Gestión de anuncios</a>.
-</div>
+>ℹ️ **Gestión de anuncios** permite hacer un seguimiento de los anuncios con [Mercado Libre Classic](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Mercado Libre Premium](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Netshoes](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) y [marketplaces VTEX](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex). Para los conectores que desean integrarse a través de API, existe la [Guía de integración de Gestión de anuncios](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
 
 ## Lista de anuncios
 
@@ -65,9 +61,7 @@ Siga los pasos a continuación para añadir su anuncio a la Catálogo MeLi:
 4. En la página **Oportunidad del anuncio**, evalúe si su anuncio es compatible con el anuncio que ya está en el *marketplace*. Si son compatibles, haga clic en `Agregar a lo Catálogo MeLi`. 
 5. Haga clic en `Agregar`. 
 
-<div class="alert alert-warning">
-Esta acción no se puede deshacer, así que debe asegurarse de que los anuncios sean compatibles. Si un anuncio no es compatible con el producto que ya está presente en el marketplace, no lo añada a lo Catálogo MeLi. Añadir anuncios que no son parte del producto puede perjudicar su reputación como seller en el marketplace. 
-</div>
+>⚠️ Esta acción no se puede deshacer, así que debe asegurarse de que los anuncios sean compatibles. Si un anuncio no es compatible con el producto que ya está presente en el marketplace, no lo añada a lo Catálogo MeLi. Añadir anuncios que no son parte del producto puede perjudicar su reputación como seller en el marketplace.
 
 Para que su anuncio esté bien posicionado en lo Catálogo MeLi, finalice los ajustes indicados en la sección de este artículo [Ganando y perdiendo en la Buybox](#ganando-y-perdiendo-en-la-buybox).
 

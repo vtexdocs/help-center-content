@@ -46,7 +46,5 @@ Para descubrir el ID de un SKU por la URL de registro de SKU, siga los pasos aba
 4. Observe la dirección URL de la página cargada. Usted verá una URL con el siguiente formato: `https://{accountName}.myvtex.com/admin/Site/SkuForm.aspx?IdSku={number}`
  El ID del SKU será el número mostrado en lugar de `{number}`.
 
-<div class="alert alert-danger">
- Para garantizar que los ítems agregados al stock estén disponibles para venta en la tienda, el <a href="url">ID del SKU</a> no debe contener <b>el número cero a la izquierda</b>. Por ejemplo, el sistema no reconoce ID con el formato <code>01</code>, <code>02</code> , <code>021</code>, ya que espera el formato <code>1</code>, <code>2</code>, <code>21</code>.
-</div>
+>❗ Para garantizar que los ítems agregados al stock estén disponibles para venta en la tienda, el [ID del SKU](url) no debe contener **el número cero a la izquierda**. Por ejemplo, el sistema no reconoce ID con el formato `01`, `02` , `021`, ya que espera el formato `1`, `2`, `21`.
 

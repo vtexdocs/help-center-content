@@ -18,9 +18,7 @@ internalReference: 1078804
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al registrar una regla con una opción de pago a plazos, ésta no aparece en el checkout.

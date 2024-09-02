@@ -18,9 +18,7 @@ internalReference: 482256
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A interface do usuário não funciona corretamente em um carrinho com mais de um item com uma divisão de entrega em que um dos itens está disponível para retirada e os outros apenas para entrega programada.

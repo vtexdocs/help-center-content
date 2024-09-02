@@ -18,9 +18,7 @@ internalReference: 488362
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Há um problema ao usar o módulo de Simulação de Produtos do Catálogo V2 para encontrar Produtos no módulo de Simulação.

@@ -18,9 +18,7 @@ internalReference: 547844
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Las cuentas con muchos productos pueden perder el tiempo en la pantalla del informe del índice

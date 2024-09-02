@@ -18,9 +18,7 @@ internalReference: 449763
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao executar uma limpeza completa (https://{AccountName}.myvtex.com/admin/Site/fullcleanup.aspx) no catálogo, a emissora não envia a notificação de atualização para o indexador de Busca Inteligente, e os dados do produto podem ficar desatualizados, causando discrepâncias entre o conteúdo PDP e PLP.

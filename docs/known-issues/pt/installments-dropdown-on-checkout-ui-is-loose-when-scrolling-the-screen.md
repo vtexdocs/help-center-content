@@ -18,9 +18,7 @@ internalReference: 540257
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao abrir a caixa de pagamento e rolar outra página de checkout, pode-se ver que a caixa de pagamento sai e está solta na tela de checkout.

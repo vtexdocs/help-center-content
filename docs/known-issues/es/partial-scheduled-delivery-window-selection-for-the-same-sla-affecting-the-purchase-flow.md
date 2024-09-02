@@ -18,9 +18,7 @@ internalReference: 627261
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El cambio de dirección puede modificar las opciones de envío de un artículo y, naturalmente, puede eliminar la selección de la ventana de entrega para las entregas programadas si las opciones son diferentes.

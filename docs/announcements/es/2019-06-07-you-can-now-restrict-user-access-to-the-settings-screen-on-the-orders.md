@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'Posibilidad de limitar perfiles de acceso a la pantalla Confiuración'
 ---
 
-<div class="alert alert-warning">
-A partir del 25 de junio de 2019, el usuario que no tenga acceso vinculado al perfil con el producto <code>Checkout</code> no tendrá permiso para editar la pantalla **Configuración** del modulo Gestión de pedidos.
-</div>
+>⚠️ A partir del 25 de junio de 2019, el usuario que no tenga acceso vinculado al perfil con el producto `Checkout` no tendrá permiso para editar la pantalla **Configuración** del modulo Gestión de pedidos.
 
 Con el fin de garantizar una mayor seguridad, creamos la posibilidad de limitar perfiles de acceso en la pantalla **Configuración**, permitiendo que solo algunos usuarios editen las informaciones.
 

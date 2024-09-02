@@ -25,9 +25,7 @@ The main advantages of this feature are:
 
 - **Increased conversion rates and sales:** The feature encourages customers to return to the payment page to complete their purchase, thereby increasing sales and conversion rates for retailers.
 
-<div class = "alert alert-info">
-WhatsApp AI Campaigns is only available for stores using <a href="https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework">Store Framework</a> that don't have Checkout customizations.
-</div>
+>ℹ️ WhatsApp AI Campaigns is only available for stores using [Store Framework](https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework) that don't have Checkout customizations.
 
 ## Activating WhatsApp AI Campaigns
 
@@ -55,9 +53,7 @@ To install the Connectly app, follow the steps below:
 
 To configure a new WhatsApp number, you need to have admin access to your Facebook profile. Follow these steps to configure a new number and link it:
 
-<div class = "alert alert-info">
-We recommend creating a new phone number exclusively for linking to WhatsApp Business. This helps to avoid losing access to numbers previously used for other purposes.
-</div>
+>ℹ️ We recommend creating a new phone number exclusively for linking to WhatsApp Business. This helps to avoid losing access to numbers previously used for other purposes.
 
 <ol start="1">
   <li>In the VTEX Admin, go to <strong>Promotions &gt; WhatsApp Campaigns &gt; Overview</strong>, or type <strong>WhatsApp Campaigns Overview</strong> in the search bar at the top of the page.</li>
@@ -86,9 +82,7 @@ We recommend creating a new phone number exclusively for linking to WhatsApp Bus
   <li>Paste the phone number you copied in the previous step, select the option <strong>SMS</strong>, and click <code>Send Code</code>.</li>
 </ol>
 
-<div class="alert alert-warning">
-  The number generated may be American, but if your Facebook page is verified, your customers will see your company name. If it is not verified, we recommend following the <a href="https://www.facebook.com/business/help/2058515294227817?id=180505742745347">verification process with Meta</a>.
-</div>
+>⚠️ The number generated may be American, but if your Facebook page is verified, your customers will see your company name. If it is not verified, we recommend following the [verification process with Meta](https://www.facebook.com/business/help/2058515294227817?id=180505742745347).
 
 <ol start="13">
   <li>Copy the verification code displayed in the VTEX Admin.</li>
@@ -106,11 +100,7 @@ We recommend creating a new phone number exclusively for linking to WhatsApp Bus
   <li>Click <code>Complete</code>.</li>
 </ol>
 
-<div class="alert alert-warning">
-Once an abandoned checkout recovery campaign has been activated, it can take up to 48 hours for analytics metrics to start being displayed.
-</div>
+>⚠️ Once an abandoned checkout recovery campaign has been activated, it can take up to 48 hours for analytics metrics to start being displayed.
 
-<div class = "alert alert-info">
-Learn more about <a href="https://help.vtex.com/en/tutorial/gerenciamento-e-detalhes-do-whatsapp-ai-campaigns--q9JqDErMqGV4zvsYqkD4s">WhatsApp AI Campaigns management and details</a>.
-</div>
+>ℹ️ Learn more about [WhatsApp AI Campaigns management and details](https://help.vtex.com/en/tutorial/gerenciamento-e-detalhes-do-whatsapp-ai-campaigns--q9JqDErMqGV4zvsYqkD4s).
 

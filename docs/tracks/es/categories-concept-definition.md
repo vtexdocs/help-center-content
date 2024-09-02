@@ -20,9 +20,7 @@ Los tres principales niveles de categorías se denominan __Departamento__, __Cat
 
 En las categorías que debe configurar las Especificaciones (o Campos), que son las propiedades que usted puede agregar a sus productos y SKUs. Más adelante, veremos con detalles la relación entre categorías, productos, SKUs y especificaciones. 
 
-<div class="alert alert-info">
-Atención: sugerimos que el árbol de categorías de su tienda tenga como máximo tres niveles jerárquicos. Esto facilita la navegación del cliente por su tienda.
-</div>
+>ℹ️ Atención: sugerimos que el árbol de categorías de su tienda tenga como máximo tres niveles jerárquicos. Esto facilita la navegación del cliente por su tienda.
 
 ## Departamento 
 
@@ -34,9 +32,7 @@ Es el nivel más amplio dentro del árbol de categorías. Dentro del departament
 
 El segundo nivel del árbol de categorías se denomina __Categoría__. Este nivel está por debajo del __Departamento__ y por encima de la __Subcategoría__.
 
-<div class="alert alert-info"> 
-Normalmente, el término "categoría" se utiliza para referirse a un concepto genérico de segmentación. En VTEX, el término "Categoría" también se utiliza para referirse al segundo nivel jerárquico de un árbol de categorías.
-</div> 
+>ℹ️ Normalmente, el término "categoría" se utiliza para referirse a un concepto genérico de segmentación. En VTEX, el término "Categoría" también se utiliza para referirse al segundo nivel jerárquico de un árbol de categorías. 
 
 ## Subcategoría
 

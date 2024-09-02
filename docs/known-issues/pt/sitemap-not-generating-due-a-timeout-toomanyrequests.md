@@ -18,9 +18,7 @@ internalReference: 1077009
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao gerar um novo mapa do site para uma loja com um grande número de produtos (isso normalmente acontece com lojas que têm cerca de 100 mil produtos), o aplicativo `vtex.store-sitemap` pode receber um erro de tooManyRequests.

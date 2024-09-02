@@ -18,9 +18,7 @@ internalReference: 902539
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O conector da PayU não trata os dados de endereço recebidos do checkout e os envia ao provedor como estão, sem nenhuma modificação. No entanto, a documentação do provedor afirma que esses dados não devem exceder 40 caracteres.

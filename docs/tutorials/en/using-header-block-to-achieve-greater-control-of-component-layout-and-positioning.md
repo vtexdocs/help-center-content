@@ -15,9 +15,7 @@ legacySlug: using-header-block-to-achieve-greater-control-of-component-layout-an
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---
 
-<div class="alert alert-info">
-This tutorial assumes you have read <a href="https://help.vtex.com/tutorial/understanding-storebuilder-and-stylesbuilder--16r1nkCNqZI29V00JgmAlE">Understanding Storesbuilder and Stylesbuilder</a> and <a href="https://help.vtex.com/tracks/build-a-store-using-vtex-io--5qJr8BIQXAKec9CpBWrTNv">build a store using VTEX IO</a>
-</div>
+>ℹ️ This tutorial assumes you have read [Understanding Storesbuilder and Stylesbuilder](https://help.vtex.com/tutorial/understanding-storebuilder-and-stylesbuilder--16r1nkCNqZI29V00JgmAlE) and [build a store using VTEX IO](https://help.vtex.com/tracks/build-a-store-using-vtex-io--5qJr8BIQXAKec9CpBWrTNv)
 
 Previously, the developer could only remove or include components, and then IO would determine where to position the components inside the blocks.
 

@@ -18,9 +18,7 @@ internalReference: 1085241
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Há um problema no módulo de impostos em que a opção "Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente" não permanece marcada na interface do usuário, embora esteja corretamente definida via API.

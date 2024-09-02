@@ -18,9 +18,7 @@ internalReference: 402134
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al guardar el evento de la lista de regalos con fecha 31/12/2021, se registra en la interfaz de usuario 30/12/2021, pero es 31/12/2021 en la exportación (la fecha correcta)

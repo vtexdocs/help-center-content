@@ -18,9 +18,7 @@ Message-to-Order is a Conversational Commerce solution by VTEX that allows custo
 
 To leverage human support, Message-to-Order is already pre-integrated with Zenvia (Zenvia Chat product) and Zendesk marketplace platforms. Customers without these platforms or those who won't offer human support can be redirected to the brand's standard support channels via customized messages.
 
-<div class="alert alert-info">
-Message-to-Order is still in its early stages of operation (alpha phase), and therefore, its scope is limited.  Currently, its customer base and markets are limited to Brazil and Latin America, and only a limited set of features are available.
-</div>
+>ℹ️ Message-to-Order is still in its early stages of operation (alpha phase), and therefore, its scope is limited.  Currently, its customer base and markets are limited to Brazil and Latin America, and only a limited set of features are available.
 
 To add VTEX Conversational Commerce to your store, you must configure it in two steps:
 

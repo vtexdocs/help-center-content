@@ -62,8 +62,6 @@ The features installed automatically with the app integration also offer several
 
 To integrate your VTEX store with FBE, just follow the steps in the [Facebook Business Extension integration guide](https://help.vtex.com/en/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D).
 
-<div class="alert alert-warning">
-Even if you have already configured the <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Facebook Integration</a>, we recommend you to integrate your store with the <i>Facebook Business Extension and Conversions API</i> app. This will give you access to improved services and new features.
-</div>
+>⚠️ Even if you have already configured the <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Facebook Integration</a>, we recommend you to integrate your store with the <i>Facebook Business Extension and Conversions API</i> app. This will give you access to improved services and new features.
 
 It is worth noting that the two integrations do not interfere with each other. Once the integration with the _Facebook Business Extension and Conversions API_ app is complete, your store will have access to all the services provided by Facebook Business Extension.

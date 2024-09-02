@@ -39,9 +39,7 @@ Este artigo tem por objetivo orientar o cadastro da integração com a Via Varej
 
 &bull; __Nome do campo de Especificação de Produto que contém sua Descrição__: caso deseje usar uma descrição diferente da que já está cadastrada no catálogo da VTEX, você tem a opção de [criar um campo de produto](/pt/tutorial/criando-um-campo-de-produto) de tipo _Texto Grande_. Preenchendo esse campo, a integração vai priorizar o envio da descrição contida nele (ao invés da descrição original do produto).
 
-<div class="alert alert-danger">
-<strong>OBS:</strong> atente-se às configurações na criação desse novo campo para que as novas informações criadas <strong>não</strong> sejam exibidas no seu site.
-</div>
+>❗ **OBS:** atente-se às configurações na criação desse novo campo para que as novas informações criadas **não** sejam exibidas no seu site.
 
 &bull; __Taxa de Divergência de Preço*:__ é a taxa de aceitação da diferença de valor de um pedido. Qualquer pedido que possua uma diferença entre o preço de venda no marketplace e o preço determinado pelo seller [será comparado com esse valor](/pt/faq/por-que-o-pedido-foi-fechado-com-um-preco-errado). Se a divergência, em percentual, for menor que o valor definido nesse campo, o pedido será integrado normalmente. Caso contrário, o pedido não será integrado e você poderá visualizá-lo na [aba de pedidos (dentro da seção de integrações no Admin)](/pt/tutorial/verificando-integracao-no-bridge).
 

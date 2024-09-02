@@ -18,9 +18,7 @@ internalReference: 667328
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, quando a data de início de uma coleta programada é atingida, o processo de reindexação dos produtos nela contidos não é acionado, ou seja, a programação da data de início não funciona como um todo. Como conseqüência, os produtos não são indexados na coleção na data configurada.

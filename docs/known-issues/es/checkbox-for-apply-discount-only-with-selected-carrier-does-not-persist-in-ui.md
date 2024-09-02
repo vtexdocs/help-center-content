@@ -18,9 +18,7 @@ internalReference: 1085241
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Hay un problema en el módulo de impuestos donde la opción "Aplicar el descuento sólo cuando uno de los transportistas anteriores es seleccionado por el cliente" no permanece marcada en la interfaz de usuario, a pesar de que se establece correctamente a través de la API.

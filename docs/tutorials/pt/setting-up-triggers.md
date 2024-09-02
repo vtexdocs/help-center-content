@@ -15,9 +15,7 @@ legacySlug: configurar-triggers
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---
 
-<div class="alert alert-info">
-Esse artigo se refere ao Master Data v2. Se você quiser utilizar o Master Data v1, veja os passos <a href="https://help.vtex.com/pt/tutorial/criando-trigger-no-master-data--tutorials_1270">deste artigo</a>.
-</div>
+>ℹ️ Esse artigo se refere ao Master Data v2. Se você quiser utilizar o Master Data v1, veja os passos [deste artigo](https://help.vtex.com/pt/tutorial/criando-trigger-no-master-data--tutorials_1270).
 
 Um trigger do Master Data é uma ação executada após uma inserção ou uma atualização. 
 

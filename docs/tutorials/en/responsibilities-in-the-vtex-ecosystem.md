@@ -162,9 +162,7 @@ Even so, there may be strategic partner stores for your business that operate ou
 
 For merchants operating in this scenario, it's important to understand the responsibilities of each player involved in the operation, as detailed below.
 
-<div class="alert alert-warning">
-  <p>The following sections consider a store already integrated with an external marketplace via an external connector. Learn how to integrate your VTEX Catalog with an external connector for the first time, go to the <a href="https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Catalog Integration</a> guide.</p>
-</div>
+>⚠️ The following sections consider a store already integrated with an external marketplace via an external connector. Learn how to integrate your VTEX Catalog with an external connector for the first time, go to the [Catalog Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word) guide.
 
 ### Updating or sending new products and SKUs
 

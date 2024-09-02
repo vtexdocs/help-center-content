@@ -18,9 +18,7 @@ internalReference: 982965
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Hemos identificado que no es posible reemplazar un SKU en el pedido si el Canal de Ventas (SC), igual a 1, no está disponible para la cuenta.

@@ -18,17 +18,13 @@ Feitas as configurações iniciais da integração, é possível enviar os produ
 
 Para enviar os seus produtos para a Amazon, o seller deverá mapear as [categorias](https://help.vtex.com/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) e os [atributos dos produtos](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP).  
 
-<div class="alert alert-info">
-Seus produtos precisam ter o <a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Estoque</a> e <a href="https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">Preço</a> configurados antes de enviá-los à Amazon.
-</div>  
+>ℹ️ Seus produtos precisam ter o [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [Preço](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviá-los à Amazon.  
 
 ## Mapear Categorias  
 
 O processo de mapeamento pode ser realizado via Admin VTEX, ou via planilha, veja abaixo como executar em cada caso.  
 
-<div class="alert alert-danger">
-Ao realizar o mapeamento de uma categoria via Admin VTEX, o mapeamento daquela categoria realizado via planilha anteriormente, será sobrescrito e não poderá ser recuperado.
-</div>
+>❗ Ao realizar o mapeamento de uma categoria via Admin VTEX, o mapeamento daquela categoria realizado via planilha anteriormente, será sobrescrito e não poderá ser recuperado.
 
 ### Mapeamento via Admin VTEX (BETA)  
 
@@ -58,10 +54,8 @@ Para realizar o mapeamento de categorias:
 
 5. Clique no botão __`Salvar Alterações`__.  
 
-<div class="alert alert-danger">
-Os campos sinalizados com o asterisco (<code>*</code>) são obrigatórios.  
-O preenchimento de um atributo pode desencadear novos campos obrigatórios que só ficarão visíveis na página <strong> Marketplace> Conexões> Produtos, </strong> após salvar o mapeamento.
-</div>  
+>❗ Os campos sinalizados com o asterisco (`*`) são obrigatórios.  
+> O preenchimento de um atributo pode desencadear novos campos obrigatórios que só ficarão visíveis na página ** Marketplace> Conexões> Produtos, ** após salvar o mapeamento.  
 
 ### Mapeamento via Planilha  
 
@@ -183,9 +177,7 @@ A planilha possui as seguintes colunas:
 | F | VTEXValue | Nome do valor usado no campo SKU na VTEX |
 | G | AmazonValue | Nome dos valores aceitos pela Amazon |
 
-<div class="alert alert-info">
-A planilha de mapeamento da Amazon é case sensitive, ou seja, é sensível para o uso de letras maiúsculas e minúsculas.
-</div>
+>ℹ️ A planilha de mapeamento da Amazon é case sensitive, ou seja, é sensível para o uso de letras maiúsculas e minúsculas.
 
 Para cada produto, siga os passos a seguir:  
 
@@ -202,9 +194,7 @@ Para cada produto, siga os passos a seguir:
 6. Preencha a coluna **VTEXValue** com os valores do atributo do produto na VTEX.
 7. Preencha a coluna **AmazonValue** com os valores aceitos pela Amazon. Para visualizar os valores aceitos pela Amazon, acesse a [Planilha de atributos obrigatórios da Amazon](#2-planilha-de-atributos-obrigatorios-da-amazon) e busque pela aba `VALORES VÁLIDOS`
 
-<div class="alert alert-warning">
-Em alguns casos, os valores de <strong>VariationTheme</strong> podem ser parecidos. Há categorias em que o <strong>VariationTheme</strong> pode ser: <em>SizeColor</em>, <em>Color</em> e <em>Size</em>, enquanto há outras categorias em que pode ser: <em>ColorSize</em>, <em>Color</em> e <em>Size</em>. A diferença está na ordem, em <em>SizeColor</em>, as caixas de seleção na página do produto estarão ordenadas por tamanho e cor, enquanto em <em>ColorSize</em> estarão ordenadas por cor e tamanho. Esteja atento aos valores válidos de cada categoria que será mapeada. 
-</div>
+>⚠️ Em alguns casos, os valores de **VariationTheme** podem ser parecidos. Há categorias em que o **VariationTheme** pode ser: *SizeColor*, *Color* e *Size*, enquanto há outras categorias em que pode ser: *ColorSize*, *Color* e *Size*. A diferença está na ordem, em *SizeColor*, as caixas de seleção na página do produto estarão ordenadas por tamanho e cor, enquanto em *ColorSize* estarão ordenadas por cor e tamanho. Esteja atento aos valores válidos de cada categoria que será mapeada.
 
 ##### Exemplo de preenchimento 
 

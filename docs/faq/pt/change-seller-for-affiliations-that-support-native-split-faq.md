@@ -51,9 +51,7 @@ Quando o pagamento é liquidado, as informações sobre recebedores e valores s�
 
 Não. Pagamentos com split suportam change seller apenas quando foram realizados com um ou dois cartões de crédito. Isso acontece porque, na maior parte dos provedores de pagamento, meios como o boleto ou cartão de débito têm o valor capturado imediatamente. Sendo assim, não conseguimos oferecer uma janela de tempo para a realização do change seller.
 
-<div class="alert alert-warning">
-  Em casos de tentativa de change seller com meios de pagamento que não seja cartão de crédito, você receberá a seguinte mensagem de erro na chamada da API: "Error when updating additional data for transaction = 722726D8B04C4AAFB1EC945076FD2913. Payout split was already done"
-  </div>
+>⚠️ Em casos de tentativa de change seller com meios de pagamento que não seja cartão de crédito, você receberá a seguinte mensagem de erro na chamada da API: "Error when updating additional data for transaction = 722726D8B04C4AAFB1EC945076FD2913. Payout split was already done"
 
 ### Será possível realizar reembolsos parciais ou totais dos pedidos?
 
@@ -81,9 +79,7 @@ Foi necessário realizar o change seller e, após a mudança, o pedido foi desig
 
 Na tela do seller __Parceiro02__ podemos notar um decréscimo de R$0,28 com a identificação "Desconto de Coinshop" (apesar do preço para o seller Parceiro02 ser de R$ 0,30, o valor pago a ele foi de apenas R$ 0,02)
 
-<div class="alert alert-info">
-  Vale ressaltar que nesse caso o change seller foi possível pois a diferença era inferior a R$0,30, caso fosse de R$0,31 ou mais o change seller não aconteceria.
-  </div>
+>ℹ️ Vale ressaltar que nesse caso o change seller foi possível pois a diferença era inferior a R$0,30, caso fosse de R$0,31 ou mais o change seller não aconteceria.
 
 Após o faturamento do pedido, o valor de R$5,02 foi liquidado e a divisão do pagamento, efetivado.
 
@@ -111,9 +107,7 @@ Com relação à distribuição desses recebíveis com o seller, a divisão seri
 | Marketplace Coinshop     | Comissão x Valor do produto = 10%(0,60)       | 0,06 (apenas ilustrativo)       |
 | Seller Japacoin     | Total do pedido - Comissão = 0,60-0,06      | 0,54 (apenas ilustrativo)       |
 
-<div class="alert alert-info">
-Vale relembrar que em casos onde o preço do novo seller é inferior ao preço do seller original, não existirá uma trava de segurança de R$0,30
-  </div>
+>ℹ️ Vale relembrar que em casos onde o preço do novo seller é inferior ao preço do seller original, não existirá uma trava de segurança de R$0,30
 
 Sendo assim, apesar do preço para o seller Japacoin ser de R$ 0,04, o valor dividido foi de R$ 0,60.
 

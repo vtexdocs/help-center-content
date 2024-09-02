@@ -18,9 +18,7 @@ internalReference: 948071
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 A veces puedes hacer cambios en el Editor de Sitios y esos cambios se reflejan en el entorno myvtex, pero cuando intentas actualizar el dominio final, esos cambios no se reflejan. Esto ocurre normalmente cuando el componente que intentas cambiar tiene más de una versión. El front sigue utilizando la versión inactiva del componente mientras que el myvtex está utilizando la versión activa. La única forma de solucionar esto es borrando la versión inactiva del componente.

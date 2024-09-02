@@ -39,9 +39,7 @@ Similarly, if you filter for __Glass Cups__ in the __Jars__ category, you will n
 
 ## Similar Category within a category
 
-<div class="alert alert-warning">
-  <p>This setting is only compatible with stores using <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Legacy CMS Portal</a>.</p>
-</div>
+>⚠️ This setting is only compatible with stores using [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
 
 When editing a category, you can set up its like category. When you complete this kind of configuration at category level, the navigation menu will display a link to the similar category at the original category level.
 

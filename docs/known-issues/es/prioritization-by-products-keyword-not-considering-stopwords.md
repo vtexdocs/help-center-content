@@ -18,9 +18,7 @@ internalReference: 1041743
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Los productos pueden ser priorizados en los resultados de búsqueda por su "palabra clave", una palabra del nombre del producto establecida como relevante por un algoritmo. Las palabras clave son términos de búsqueda filtrados de los términos originales porque no son significativos para la búsqueda.

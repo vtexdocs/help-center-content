@@ -50,9 +50,7 @@ Existem três formas de enviar a descrição do seu produto para o Mercado Livre
 - Criar uma especificação de produto
 - Criar template na Central de Mensagens (opcional)
 
-<div class = "alert alert-info">
-Leia o artigo do Mercado Livre <a href="https://www.mercadolivre.com.br/ajuda/completar_informacao_dos_seus_produtos_3147">“Como descrever os seus produtos”</a> para dicas de como descrever seus produtos.
-</div>
+>ℹ️ Leia o artigo do Mercado Livre [“Como descrever os seus produtos”](https://www.mercadolivre.com.br/ajuda/completar_informacao_dos_seus_produtos_3147) para dicas de como descrever seus produtos.
 
 #### Preencher o campo Descrição do produto
 
@@ -147,7 +145,7 @@ Pela regra do Mercado Livre, não é possível reenviar informações dos produt
 
 Caso o produto não tenha sido vendido ainda, será possível fazer alterações. Se a alteração for no valor da variação/atributo, essa mudança deve ser realizada na [página de mapeamento](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA). Se a alteração for no valor da especificação do produto, leia nosso artigo [Cadastrar especificações de produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin).
 
-<div class="alert alert-warning">Após excluir um produto, não é possível recuperar a relevância do seu anúncio.</div>
+>⚠️ Após excluir um produto, não é possível recuperar a relevância do seu anúncio.
 
 ### Por que meu produto foi categorizado de forma errada no Mercado Livre?
 

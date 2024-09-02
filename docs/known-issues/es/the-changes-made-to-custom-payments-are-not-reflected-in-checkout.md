@@ -18,9 +18,7 @@ internalReference: 276250
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el cliente intenta modificar la configuración realizada para los pagos personalizados que ya tienen una regla de pago asociada, los cambios no se reflejan en el pago.

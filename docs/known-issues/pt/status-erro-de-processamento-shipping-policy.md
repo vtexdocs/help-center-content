@@ -18,9 +18,7 @@ internalReference: 445793
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Há um cenário relativo ao status da Política de Embarque após a criação/atualização dos valores de frete API. O status ainda pendente como "Erro no processamento" em caso de criação sem planilha de cálculo.

@@ -52,9 +52,7 @@ Activating this option allows a purchase to be completed even if its value excee
 
 For example, for an account created with a credit limit of $1,000.00 and a tolerance of 10%, the customer will be able to place an order with a maximum value of $1,100.00 using Customer Credit as a payment method. If the customer wishes to use the credit to pay for an order worth $1,250.00, the system will not allow the purchase to be completed.
 
-<div class="alert alert-warning">
-Tolerance values are configured in decimal numbers, with 0 representing 0% and 1 representing 100%. Example: to use a tolerance of 5%, the value to be configured is 0.05.
-</div>
+>⚠️ Tolerance values are configured in decimal numbers, with 0 representing 0% and 1 representing 100%. Example: to use a tolerance of 5%, the value to be configured is 0.05.
 
 ![CC_Configuration_2_EN](https://images.ctfassets.net/alneenqid6w5/3kjEQ2OblMKqwumNWSFnSt/42de816c9685f31074c0637dcbd6c5f1/CC_Configuration_2_EN.JPG)
 
@@ -76,9 +74,7 @@ The customer can access this page on your store's website at __My account > My C
 
 This configuration allows you to insert instructions related to payment in the invoices issued by Customer Credit. To edit the message to be displayed in the invoice, enter the information in the test box and click `Update`.
 
-<div class="alert alert-warning">
-The message registered in this configuration will be replicated on all invoices issued for all Customer Credit accounts. It is not possible to configure a unique message for each specific customer or invoice.
-</div>
+>⚠️ The message registered in this configuration will be replicated on all invoices issued for all Customer Credit accounts. It is not possible to configure a unique message for each specific customer or invoice.
 
 ![CC_Configuration_5_EN](https://images.ctfassets.net/alneenqid6w5/6UkZi827KKQqH8Yk1mmPKj/cdf9331ac0d8e46d6537c8f265bc621b/CC_Configuration_5_EN.JPG)
 
@@ -109,6 +105,4 @@ To create payment conditions for Customer Credit invoices, follow the steps belo
 
 <blockquote><ui>8. Click <b>Save</b>.</ui>
 
-<div class="alert alert-warning">
-It is not possible to set an interest rate for a payment condition created with just a single installment. 
-</div>
+>⚠️ It is not possible to set an interest rate for a payment condition created with just a single installment.

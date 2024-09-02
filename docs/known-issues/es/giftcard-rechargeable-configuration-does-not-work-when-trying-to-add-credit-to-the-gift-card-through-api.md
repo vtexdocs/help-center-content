@@ -18,9 +18,7 @@ internalReference: 583669
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al crear una tarjeta regalo, configuramos si es recargable o no. Sin embargo, el impedimento de añadir crédito a una tarjeta regalo no recargable ocurre sólo a través de la UI, a través de la API es posible añadir crédito aunque la tarjeta regalo no sea recargable.

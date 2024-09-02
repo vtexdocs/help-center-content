@@ -23,11 +23,9 @@ Para refletir uma promoção corretamente no Sales App:
 - Insira um campo chamado `salesAppHighlight` com o valor `true` na seção de **informações adicionais** para destacar a promoção na imagem do produto.
 - Insira na seção **informações adicionais** um campo com o nome `salesAppDisplayName`. Como valor, adicione o texto que irá sobrescrever o nome padrão da promoção exibido na página de busca. Por exemplo, “Frete grátis”.
 
-<div class="alert alert-info">
-    Caso deseje que a promoção seja exclusiva para o Sales App, é necessário configurar a 
-    <a href="https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV">política comercial</a> 
-    específica para o Sales App.
-</div>
+>ℹ️ Caso deseje que a promoção seja exclusiva para o Sales App, é necessário configurar a 
+>     [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) 
+>     específica para o Sales App.
 
 Quando um produto tem múltiplas promoções associadas a ele, o vendedor de uma loja física pode visualizar todas as opções clicando na *tag* da promoção exibida nos resultados de busca.
 

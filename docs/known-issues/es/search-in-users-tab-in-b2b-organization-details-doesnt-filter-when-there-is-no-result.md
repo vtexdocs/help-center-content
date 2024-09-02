@@ -18,9 +18,7 @@ internalReference: 1079002
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al buscar en la pestaña Usuarios en Detalles de la Organización B2B con un término que no tiene resultado, no se filtra nada y se muestran todos los usuarios en el resultado.

@@ -18,9 +18,7 @@ internalReference: 1057254
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La propiedad "facets" almacenada en el Segmento/Sesión para un contexto de navegación funciona para limitar los resultados de búsqueda a filtros predefinidos. Por ejemplo, es utilizada por "Organizaciones B2B" para restringir lo que un usuario puede ver en la tienda.

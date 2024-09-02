@@ -72,9 +72,7 @@ Let's take a look at an example manifest file and all its properties:
 
 The store-theme init also created two different folders, named after the builders defined on the manifest: __store/__ and __styles/__. These will be processed by their respective builders in order to have the desired effects on your store.
 
-<div class="alert alert-info">
-Aside: Note that the <code>store-theme</code> depends on the <code>vtex.store</code> <a href="https://github.com/vtex-apps/store">app</a>. This app declares the basic configurations in order to have a functioning store, such as interfaces, routes, store settings, and more. You can think of it as part of the VTEX Store Framework. This app comes pre-installed with every VTEX account and cannot be uninstalled.
-</div>
+>ℹ️ Aside: Note that the `store-theme` depends on the `vtex.store` [app](https://github.com/vtex-apps/store). This app declares the basic configurations in order to have a functioning store, such as interfaces, routes, store settings, and more. You can think of it as part of the VTEX Store Framework. This app comes pre-installed with every VTEX account and cannot be uninstalled.
 
 We will start editing these files soon. First, let's link this app and see it working.
 
@@ -88,9 +86,7 @@ Run `vtex link`  and watch your template app be compiled and published to the ac
 
 ![vtex-link](https://images.ctfassets.net/alneenqid6w5/1peFxCLM0kF9JvC8AmPeFi/9cef3e4e5e5877a744c15ca3f6e8db18/vtex-link.svg)
 
-<div class="alert alert-info">
-Remember: run <code>vtex whoami</code> to make sure you are in the correct account and in a test workspace, otherwise <code>VTEX Toolbelt</code> will complain about linking directly to master.
-</div>
+>ℹ️ Remember: run `vtex whoami` to make sure you are in the correct account and in a test workspace, otherwise `VTEX Toolbelt` will complain about linking directly to master.
 
 ## Visiting our newly generated store
 

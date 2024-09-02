@@ -18,9 +18,7 @@ internalReference: 587394
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando la tienda configura el campo "cantidad máxima de una misma SKU en el carrito" y se trata de un pedido procedente de un marketplace, si la cantidad de artículos del pedido es mayor que la configurada en el admin, está permitiendo que los pedidos se integren, no respetando la cantidad máxima de skus configurados.

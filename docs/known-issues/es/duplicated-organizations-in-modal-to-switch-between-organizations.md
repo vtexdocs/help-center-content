@@ -18,9 +18,7 @@ internalReference: 986868
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando un usuario tiene muchas organizaciones registradas y utiliza el modal para cambiar entre organizaciones, algunas organizaciones se mostrarán duplicadas en la lista.

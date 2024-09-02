@@ -45,8 +45,7 @@ Para atribuir sellers à uma determinada organização compradora, siga os passo
 A partir deste momento, sempre que a organização realizar uma busca na plataforma VTEX, serão exibidos apenas os produtos dos sellers atribuídos a ela.
 </ol>
 
-<div class="alert alert-warning">
-Organizações compradoras que não criem atribuições de sellers poderão acessar informações e realizar compras de todos os sellers disponíveis no marketplace.</div>
+>⚠️ Organizações compradoras que não criem atribuições de sellers poderão acessar informações e realizar compras de todos os sellers disponíveis no marketplace.
 
 Para mais informações sobre como integrar um novo seller, acesse [Adicionar seller](https://help.vtex.com/pt/tutorial/adicionar-seller--tutorials_392).
 

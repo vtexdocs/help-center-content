@@ -23,9 +23,7 @@ Sigue estos pasos para realizar el mapeo:
 3. [Rellenar la plantilla de mapeo](#3-rellenar-la-plantilla-de-mapeo)
 4. [Cargar la plantilla de mapeo](#4-cargar-la-plantilla-de-mapeo)
 
-<div class="alert alert-warning">
-Para registrar un producto en VTEX, es obligatorio vincular el producto a una marca. Sin embargo, para evitar problemas con el envío de los productos, debes <a href="https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke"> rellenar los nombres de las marcas aceptadas por Dafiti</a> en el campo <strong>Marca</strong> del producto que enviarás. Consulta el <a href="https://www.dafiti.com.co/marcas/">glosario de marcas</a> de Dafiti para conocer las marcas aceptadas.
-</div>
+>⚠️ Para registrar un producto en VTEX, es obligatorio vincular el producto a una marca. Sin embargo, para evitar problemas con el envío de los productos, debes [ rellenar los nombres de las marcas aceptadas por Dafiti](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) en el campo **Marca** del producto que enviarás. Consulta el [glosario de marcas](https://www.dafiti.com.co/marcas/) de Dafiti para conocer las marcas aceptadas.
 
 ## 1. Descargar la plantilla de consulta de Dafiti
 
@@ -55,9 +53,7 @@ El modelo de la plantilla de mapeo proporcionado se divide en tres pestañas:
 | **Attributenames** | Ejecuta la equivalencia entre el nombre del campo de la especificación en VTEX y el nombre de la variación/atributo en Dafiti. |
 | **Attributevalues** | Ejecuta la equivalencia entre los valores del campo de la especificación en VTEX y los valores de la variación/atributo en Dafiti. |
 
-<div class="alert alert-info">
-La plantilla de mapeo de Dafiti es case sensitive, es decir, distingue mayúsculas de minúsculas. Ten esto en cuenta al momento de rellenar la plantilla.
-</div>
+>ℹ️ La plantilla de mapeo de Dafiti es case sensitive, es decir, distingue mayúsculas de minúsculas. Ten esto en cuenta al momento de rellenar la plantilla.
 
 ### Categories
 
@@ -66,9 +62,7 @@ La pestaña *Categories* de la plantilla de mapeo tiene dos columnas para rellen
 - **VTEXCategoryId:** ID de la categoría en VTEX. El ID de la categoría se encuentra al lado del nombre de la categoría al navegar por el árbol de categorías en el Admin VTEX, en *Productos > Catálogo > Categorías*.
 - **DafitiCategoryId:**  ID de la categoría en Dafiti. Debes buscar la mejor equivalencia posible del producto que estás mapeando en la plantilla de consulta de Dafiti.
 
-<div class = "alert alert-info">
-Puedes mapear una categoría de VTEX en varias categorías de Dafiti. Para hacerlo, debes separar los ID en la columna de Dafiti con comas. En ese caso, todos los productos de esa categoría en VTEX se relacionarán con las categorías seleccionadas en Dafiti.
-</div>
+>ℹ️ Puedes mapear una categoría de VTEX en varias categorías de Dafiti. Para hacerlo, debes separar los ID en la columna de Dafiti con comas. En ese caso, todos los productos de esa categoría en VTEX se relacionarán con las categorías seleccionadas en Dafiti.
 
 ### Attributenames
 
@@ -139,6 +133,4 @@ Después de rellenar la plantilla de mapeo de Dafiti, debes cargarla en el Admin
 
 Si no se ha producido ningún error en el envío, los productos se enviarán a Dafiti con sus respectivos atributos.
 
-<div class="alert alert-info">
-  La integración entre VTEX y Dafiti redimensiona automáticamente las fotos de los productos si son mayores que el tamaño solicitado por Dafiti (1000x1000).
-  </div>
+>ℹ️ La integración entre VTEX y Dafiti redimensiona automáticamente las fotos de los productos si son mayores que el tamaño solicitado por Dafiti (1000x1000).

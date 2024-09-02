@@ -18,9 +18,7 @@ internalReference: 954108
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En un carro con al menos tres productos, donde los pedidos de artículos son: El 1º es para recogida programada 1, el 2º para recogida programada 2 (vendedor diferente), y el 3º es para recogida programada 1, la UI no mostrará las ventanas de entrega para seleccionar la fecha/hora de la 2ª recogida. Esto sucede porque la API agrupará el 1er artículo y el 3er artículo ya que es el mismo SLA.

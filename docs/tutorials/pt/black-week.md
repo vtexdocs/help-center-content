@@ -17,9 +17,7 @@ subcategory: QPnz120TdtLcXSh65c4Gs
 
 # Black Week (Beta)
 
-<div class="alert alert-warning">
-O painel Black Week é uma página temporária, e só estará disponível durante a Black Week dos dias 21 a 27 de novembro de 2022, exclusivamente para clientes no Brasil.
-</div>
+>⚠️ O painel Black Week é uma página temporária, e só estará disponível durante a Black Week dos dias 21 a 27 de novembro de 2022, exclusivamente para clientes no Brasil.
 
 A black week é uma das semanas mais importantes para a VTEX e para nossos clientes, dado que uma parte considerável da receita do varejo vem das estratégias de promoção durante esse período. A tomada rápida de decisões e análise em tempo real dos resultados são essenciai para o sucesso da black week. 
 
@@ -63,9 +61,7 @@ Os gráficos da página incluem as seguintes métricas:
 
 Não captamos dados de navegação para storefronts que não são VTEX, ou de sellers que somente anunciam produtos em marketplaces externos. Por isso os tipos de gráficos presentes na Black Week podem variar, dependendo se captamos dados de navegação da sua loja ou não.
 
-<div class="alert alert-info">
-  É possível que exista uma diferença de até 3% entre o número de pedidos no OMS e na página Black Week, já que o painel é em tempo real.  
-  </div>
+>ℹ️ É possível que exista uma diferença de até 3% entre o número de pedidos no OMS e na página Black Week, já que o painel é em tempo real.
 
 ### Selecionar anos
 

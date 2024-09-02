@@ -125,9 +125,7 @@ To view incidents from a specific day, hover over the date. To access the page w
 
 ![statuspage-8](https://images.ctfassets.net/alneenqid6w5/2aRBMeTVELfszcFQFpXyUJ/8ca30c0cd6d89aaca8d92dc21af7274e/statuspage-8.png)
 
-<div class="alert alert-warning">
-  <p>If the scheduled maintenance lasts longer than a day, only the start date will be selected in the calendar. You must open the <a href="#scheduled-maintenance-logs"> maintenance log</a> to see the start and end dates.</p>
-</div>
+>⚠️ If the scheduled maintenance lasts longer than a day, only the start date will be selected in the calendar. You must open the [ maintenance log](#scheduled-maintenance-logs) to see the start and end dates.
 
 Below, we detail the information available in the [incident log](#incident-logs) and the [scheduled maintenance log](#scheduled-maintenance-logs).
 

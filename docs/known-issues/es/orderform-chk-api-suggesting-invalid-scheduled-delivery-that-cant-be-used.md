@@ -18,9 +18,7 @@ internalReference: 298665
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando un carrito/pedido tiene varios artículos con entrega programada del mismo vendedor, las opciones programadas con el mismo ID (consideradas el mismo método de envío) necesitan tener las mismas ventanas de entrega entre ellas. Si no hay intersección, el método de envío será descartado para algunos artículos.

@@ -14,9 +14,7 @@ locale: pt
 legacySlug: por-que-o-buscador-da-vtex-ignora-alguns-termos-buscados
 ---
 
-<div class = "alert alert-warning">
-  A VTEX oferece duas opções de busca: a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search, acesse <a href = "https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">O que é VTEX Intelligent Search?</a>.
-</div>
+>⚠️ A VTEX oferece duas opções de busca: a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search, acesse <a href = "https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">O que é VTEX Intelligent Search?</a>.
 
 O artigo [Como funciona a busca da VTEX?](https://help.vtex.com/pt/tutorial/como-funciona-a-busca-da-vtex) demonstra as principais regras que o algoritmo do buscador utiliza para exibir e priorizar os produtos a partir de um termo buscado.
 
@@ -31,9 +29,7 @@ O buscador da VTEX, então, possui uma lista de palavras bloqueadas (não import
 
 Veja a seguir a lista completa de termos bloqueados na busca.
 
-<div class = "alert alert-warning">
-Atualmente a lista de termos bloqueados contém somente termos em português.
-</div>
+>⚠️ Atualmente a lista de termos bloqueados contém somente termos em português.
 
 ```
 a

@@ -18,9 +18,7 @@ internalReference: 481878
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Depois de inserir o código postal uma vez na visualização do envio e optar por colá-lo novamente, às vezes ocorre de fazer uma solicitação nula para a API do código postal.

@@ -18,9 +18,7 @@ internalReference: 495352
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La sugerencia de dividir paquetes no está funcionando correctamente, cuando se finaliza la compra la interfaz de usuario sugiere la división de paquetes en casos de diferentes muelles o diferentes tamaños y diferentes estrategias de envío.

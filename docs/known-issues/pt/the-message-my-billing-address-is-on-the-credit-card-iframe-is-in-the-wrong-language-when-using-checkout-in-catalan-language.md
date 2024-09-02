@@ -18,9 +18,7 @@ internalReference: 481181
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A mensagem "Meu endereço de cobrança é ..." no iFrame do cartão de crédito está no idioma errado ao usar o checkout no idioma catalão.

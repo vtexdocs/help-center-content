@@ -18,9 +18,7 @@ internalReference: 669048
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Incluso con datos disponibles (documentos), la información no se devuelve como se esperaba.

@@ -18,9 +18,7 @@ internalReference: 910125
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando temos um bloco de layout de controle deslizante com a propriedade `navigationStep` definida como 1 e `itemsPerPage` diferente de 1, o último ponto fica vazio e não é possível excluí-lo.

@@ -18,9 +18,7 @@ internalReference: 546844
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando há uma promoção com destaque habilitado e o produto, que está incluído nesta promoção, está dentro de uma lista, como uma prateleira, o crachá que informa a promoção não é exibido.

@@ -15,9 +15,7 @@ legacySlug: reglas-de-autorizacion-en-divergencia-de-valores-para-sellers
 subcategory: 4ZBiXqnPntLbsijZ0djFcD
 ---
 
-<div class="alert alert-info">
-  <p>Esta funcionalidad está en versión Beta, lo que significa que estamos trabajando para mejorarla. Si tiene alguna pregunta, póngase en contacto con <a href="https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.</p>
-</div>
+>ℹ️ Esta funcionalidad está en versión Beta, lo que significa que estamos trabajando para mejorarla. Si tiene alguna pregunta, póngase en contacto con [nuestro Soporte](https://support.vtex.com/hc/es-419/requests).
 
 Las integraciones entre los sellers VTEX y los [conectores nativos](https://help.vtex.com/es/tutorial/integrando-com-marketplace--tutorials_402#integrado-con-un-conector-nativo-vtex) pueden presentar divergencias en los precios configurados en VTEX y lo que se exhibe en el estante del marketplace. Esto puede generar errores en el OMS.
 
@@ -33,9 +31,7 @@ Los pedidos se deben gestionar y aprobar manualmente a través del OMS o por [VT
 
 Una regla se configura automáticamente con el porcentaje de divergencia de 0% a 30% para `Negar automáticamente` los pedidos en su Admin VTEX. Además, se puede alterar o inclusive crear más de una regla al realizar la configuración.
 
-<div class="alert alert-info">
-Una vez que haya configurado el mecanismo de regla de autorización (Beta), ya no tendrá que configurar el campo Divergencia de valores en la integración del marketplace. Si ya configuró el campo en la integración, la configuración realizada ya no será válida.
-</div>
+>ℹ️ Una vez que haya configurado el mecanismo de regla de autorización (Beta), ya no tendrá que configurar el campo Divergencia de valores en la integración del marketplace. Si ya configuró el campo en la integración, la configuración realizada ya no será válida.
 
 ## Configuración de una regla de autorización (Beta)
 
@@ -86,10 +82,8 @@ Hay dos formas de autorizar los pedidos que tienen el status `Esperando autoriza
 - [Autorizar manualmente en el OMS](#autorizacion-manual-en-el-oms)
 - [Autorizar por VTEX DO](#autorizacion-por-vtex-do)
 
-<div class="alert alert-warning">
-Debe tener permiso del propietario de la cuenta para autorizar los pedidos, de lo contrario aparecerá el siguiente mensaje en la pantalla: 
-«Usted aún no posee reglas de autorización. Por lo tanto, todos los casos de divergencia son negados automáticamente».
-</div>
+>⚠️ Debe tener permiso del propietario de la cuenta para autorizar los pedidos, de lo contrario aparecerá el siguiente mensaje en la pantalla: 
+> «Usted aún no posee reglas de autorización. Por lo tanto, todos los casos de divergencia son negados automáticamente».
 
 ### Autorización manual en el OMS
 

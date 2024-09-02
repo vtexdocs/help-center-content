@@ -18,9 +18,7 @@ internalReference: 897109
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A interface de usuário do checkout mostra a entrega gratuita quando o usuário muda o método de entrega de envio normal para entrega programada. O problema ocorre somente na caixa de entrega e quando a conta tem o recurso LeanShipping configurado. Embora a interface do usuário mostre o frete grátis, os valores totais da compra são exibidos e cobrados corretamente.

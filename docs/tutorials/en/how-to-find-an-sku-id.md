@@ -46,6 +46,4 @@ To find out the SKU ID through the SKU registration URL, follow the steps below:
 4. Check the URL of the loaded page. You will see a URL with the following format: `https://{accountName}.myvtex.com/admin/Site/SkuForm.aspx?IdSku={number}`
  The SKU ID will be the number displayed in the place of `{number}`.
 
-<div class="alert alert-danger">
- To ensure the items added to the inventory will be available for sale on the store, the <a href="https://help.vtex.com/en/tutorial/how-to-find-an-sku-id--4VQZsYeb3igGK2YowuEYWW">SKU ID</a> cannot contain <b>a leading zero</b>. For instance, the system does not read IDs with a <code>01</code>, <code>02</code>, <code>021</code> format because the expected format is <code>1</code>, <code>2</code>, <code>21</code>.
-</div>
+>❗ To ensure the items added to the inventory will be available for sale on the store, the [SKU ID](https://help.vtex.com/en/tutorial/how-to-find-an-sku-id--4VQZsYeb3igGK2YowuEYWW) cannot contain **a leading zero**. For instance, the system does not read IDs with a `01`, `02`, `021` format because the expected format is `1`, `2`, `21`.

@@ -18,9 +18,7 @@ internalReference: 1075366
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, a categoria global de produtos não está carregando corretamente os dados se o usuário estiver acessando usando o navegador Google Chrome por meio da versão v126.0.6478.182

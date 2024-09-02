@@ -18,9 +18,7 @@ internalReference: 1053609
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Um comprador pode pesquisar diferentes pontos de coleta em diferentes códigos postais. Ao usar o envio enxuto, depois de adicionar um código postal com pontos de coleta disponíveis e mudar para um código postal sem pontos de coleta, a etapa de envio é bloqueada com a mensagem "Algo deu errado".

@@ -23,9 +23,7 @@ Com o fim de aplicar um preço diferenciado a produtos pelo XML, é preciso asso
   3. Aqui, você deve checar se os campos relacionados ao preço do SKU (Menor Preço do Produto, Maior Preço do Produto, Preço Original do SKU, Preço Atual do SKU e Preço Atual do SKU + Taxas) estão preenchidos. Pelo menos um dos campos deve ser preenchido para a operação funcionar corretamente.
   4. Preencha o campo **Tabelas de Preços** com o nome da tabela de preços desejada. Em seguida, clique na caixa de seleção referente à tag na coluna **Exibe Conteúdo**. É necessário que a tabela de preços selecionada tenha preços fixos cadastrados. Caso contrário, a configuração não será realizada.
 ![PT-tabela de precos](https://images.ctfassets.net/alneenqid6w5/3WM4imKTVz2bpddr5MO1X1/b3741b0744059913db5a9eda668f7d0f/PT-tabela_de_precos.png)
-<div class="alert alert-warning">
-  <p>Uma vez que a tabela de preços seja incluída no XML, todos os campos de preço serão sobrescritos.</p>
-</div>
+>⚠️ Uma vez que a tabela de preços seja incluída no XML, todos os campos de preço serão sobrescritos.
   5. Clique em `Salvar`.
 
 Assim, a plataforma vai associar os valores da tabela de preços com os produtos cadastrados na coleção do arquivo XML.

@@ -18,9 +18,7 @@ internalReference: 431200
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Para contas espanholas podemos ver o botão "cancelar" na página MyCards, mas deve ter escrito "cancelar", já que o site está em espanhol. Os outros botões e mensagens já estão em espanhol.

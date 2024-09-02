@@ -91,6 +91,4 @@ Para acessar a página **Promoções arquivadas**, clique no ícone <i class="fa
 
 Você poderá desarquivar ou duplicar as promoções arquivadas clicando no ícone <i class="fas fa-ellipsis-v"></i>. 
 
-<div class="alert alert-info">
-  <p>Ao desarquivar uma promoção, seu status mudará para <code>Pausada</code>.</p>
-  </div>
+>ℹ️ Ao desarquivar uma promoção, seu status mudará para `Pausada`.

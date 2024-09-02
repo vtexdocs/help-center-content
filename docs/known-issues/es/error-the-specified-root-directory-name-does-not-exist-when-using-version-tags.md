@@ -18,9 +18,7 @@ internalReference: 1083941
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al utilizar etiquetas de versionado en sus proyectos Faststore, los despliegues pueden fallar debido al error

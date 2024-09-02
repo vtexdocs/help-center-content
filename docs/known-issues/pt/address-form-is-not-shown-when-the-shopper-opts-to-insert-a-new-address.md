@@ -18,9 +18,7 @@ internalReference: 1061637
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Às vezes, quando um comprador identificado tenta adicionar um novo endereço na etapa de envio do checkout, uma mensagem solicitando autenticação é solicitada, mas o formulário de endereço não é exibido e não pode ser preenchido.

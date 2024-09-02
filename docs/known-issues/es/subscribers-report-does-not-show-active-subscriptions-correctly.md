@@ -18,9 +18,7 @@ internalReference: 587556
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando exportamos el informe de suscriptores, la información de las columnas `TotalSubscriptions` y `TotalSubscriptionsActives` son divergentes en comparación con la información mostrada en el tablero.

@@ -18,17 +18,13 @@ Una vez realizada la configuración inicial de integración, ya puedes enviar lo
 
 Para enviar sus productos a Amazon, el seller debe mapear las [categorías](https://help.vtex.com/es/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) y los [atributos del producto](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP).
 
-<div class="alert alert-info">
-Los productos deben tener el <a href="https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">stock</a> y los <a href="https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">precios</a> configurados antes de enviarlos a Amazon.
-</div>
+>ℹ️ Los productos deben tener el [stock](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) y los [precios](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviarlos a Amazon.
 
 ## Mapear categorías  
 
 El proceso de mapeo se puede realizar a través del [Admin VTEX](#mapeo-via-admin-vtex-(beta)), o mediante una [plantilla](#mapeo-mediante-plantilla). Consulta a continuación los detalles de cada caso.  
 
-<div class="alert alert-danger">
-Atención: si realizas el mapeo de una categoría a través del Admin VTEX, y anteriormente habías realizado el mapeo de esa misma categoría mediante una plantilla, se sobreescribirá el mapeo de la plantilla y no podrá recuperarse.
-</div>
+>❗ Atención: si realizas el mapeo de una categoría a través del Admin VTEX, y anteriormente habías realizado el mapeo de esa misma categoría mediante una plantilla, se sobreescribirá el mapeo de la plantilla y no podrá recuperarse.
 
 ### Mapeo vía Admin VTEX (beta)  
 
@@ -57,10 +53,10 @@ Para realizar el mapeo de categorías:
 
 5. Haz clic en el botón `Guardar cambios`.
 
-<div class="alert alert-danger">
-Los campos marcados con un asterisco (<code>*</code>) son obligatorios.
-<br>Al ingresar un atributo pueden activarse nuevos campos obligatorios que solo serán visibles en la página <b>Marketplace > Conexiones > Productos,</b> después de guardar el mapeo.</br>
-</div>
+>❗ Los campos marcados con un asterisco (`*`) son obligatorios.
+>
+>
+> Al ingresar un atributo pueden activarse nuevos campos obligatorios que solo serán visibles en la página **Marketplace > Conexiones > Productos,** después de guardar el mapeo.</br>
 
 ### Mapeo mediante plantilla 
 
@@ -183,9 +179,7 @@ La plantilla contiene las siguientes columnas:
 | F | VTEXValue | Nombre del valor utilizado en el campo SKU en VTEX |
 | G | AmazonValue | Nombre de los valores aceptados por Amazon |
 
-<div class="alert alert-info">
-La plantilla de mapeo de Amazon es case sensitive, es decir, distingue mayúsculas de minúsculas.
-</div>
+>ℹ️ La plantilla de mapeo de Amazon es case sensitive, es decir, distingue mayúsculas de minúsculas.
 
 Para cada producto, siga los pasos a continuación.
 
@@ -202,9 +196,7 @@ Para cada producto, siga los pasos a continuación.
 6. Rellene la columna **VTEXValue** con los valores del atributo del producto en VTEX
 7. Rellene la columna **AmazonValue** con los valores del atributo aceptados por Amazon. Para ver los valores aceptados por Amazon, ve a la [plantilla de atributos obligatorios de Amazon](#2-plantilla-de-atributos-de-amazon) y busca la pestaña `VALORES VÁLIDOS`.
 
-<div class="alert alert-warning">
-En algunos casos, los valores de <b>VariationTheme</b> pueden ser similares. Hay categorías en las que el <b>VariationTheme</b> puede ser: <i>SizeColor</i>, <i>Color</i> e <i>Size</i>, mientras en otras categorías puede ser: <i>ColorSize</i>, <i>Color</i> e <i>Size</i>. La diferencia está en el orden. En <i>SizeColor</i>, as casillas en la página del producto se ordenarán por tamaño y color, mientras que en <i>ColorSize</i> se ordenarán por color y tamaño. Tenga en cuenta los valores válidos de cada categoría que se va a mapear. 
-</div>
+>⚠️ En algunos casos, los valores de **VariationTheme** pueden ser similares. Hay categorías en las que el **VariationTheme** puede ser: <i>SizeColor</i>, <i>Color</i> e <i>Size</i>, mientras en otras categorías puede ser: <i>ColorSize</i>, <i>Color</i> e <i>Size</i>. La diferencia está en el orden. En <i>SizeColor</i>, as casillas en la página del producto se ordenarán por tamaño y color, mientras que en <i>ColorSize</i> se ordenarán por color y tamaño. Tenga en cuenta los valores válidos de cada categoría que se va a mapear.
 
 ##### Ejemplo de cómo rellenar la plantilla
 

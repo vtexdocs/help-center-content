@@ -15,15 +15,11 @@ legacySlug: abrindo-chamados-para-o-suporte-vtex-beta
 subcategory: 2z8Y3gMXH2piEmAVDs1fSf
 ---
 
-<div class="alert alert-info">
-A nova tela de abertura de tickets está em fase beta, o que significa que estamos trabalhando para aprimorá-la. Ela está disponível apenas para algumas contas.
-</div>
+>ℹ️ A nova tela de abertura de tickets está em fase beta, o que significa que estamos trabalhando para aprimorá-la. Ela está disponível apenas para algumas contas.
 
 Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas do [Suporte VTEX](https://help.vtex.com/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Os especialistas estão preparados para proporcionar a melhor experiência possível para a solução dos chamados. Para contatá-los, você deve abrir um chamado por meio do sistema de tickets.
 
-<div class="alert alert-warning">
-Para abrir tickets no suporte VTEX você deve ter um <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#">perfil de acesso</a> com o <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">recurso</a> <code>Open Support Ticket</code>. Esta configuração é válida apenas para contas no Brasil.
-</div>
+>⚠️ Para abrir tickets no suporte VTEX você deve ter um [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#) com o [recurso](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) `Open Support Ticket`. Esta configuração é válida apenas para contas no Brasil.
 
 Este artigo explica como clientes devem abrir e acompanhar o status de chamados no suporte VTEX. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA) e recursos disponíveis para clientes no Brasil, leia o artigo [Suporte VTEX - Brasil](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
 Para abrir um ticket, você deverá seguir três etapas. Nas seções abaixo você encontra mais detalhes sobre cada uma delas. 
@@ -32,9 +28,7 @@ Para abrir um ticket, você deverá seguir três etapas. Nas seções abaixo voc
 2. [VTEX IA Suporte Bot](#2-vtex-ia-suporte-bot)
 3. [O que você precisa](#3-o-que-voce-precisa-?)
 
-<div class = "alert alert-info">
-Para saber como você pode acompanhar o andamento de seus tickets abertos, confira <a href="[https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#4-acompanhar-status-dos-chamados](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#4-acompanhar-status-dos-chamados)">Acompanhar status dos chamados</a>
-</div>
+>ℹ️ Para saber como você pode acompanhar o andamento de seus tickets abertos, confira [Acompanhar status dos chamados]([https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#4-acompanhar-status-dos-chamados](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#4-acompanhar-status-dos-chamados))
 
 ## 1. Identifique-se
 

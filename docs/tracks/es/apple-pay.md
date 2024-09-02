@@ -19,9 +19,7 @@ Sus clientes pueden comprar con Apple Pay, la [cartera digital](https://help.vte
 - Tener cuenta en `developer.apple.com`.
 - Tener contrato con un proveedor que procese pagos con Apple Pay.
 
-<div class="alert alert-warning">
-  Actualmente, Apple Pay solo funciona en los sistemas operativos MacOs e IOS, y en el navegador Safari. Para obtener más información, vaya a <a href="https://support.apple.com/es-es/HT208531">Dispositivos compatibles con Apple Pay</a>.
-</div>
+>⚠️ Actualmente, Apple Pay solo funciona en los sistemas operativos MacOs e IOS, y en el navegador Safari. Para obtener más información, vaya a [Dispositivos compatibles con Apple Pay](https://support.apple.com/es-es/HT208531).
 
 ## Configurar proveedor de pago
 

@@ -18,9 +18,7 @@ internalReference: 1016582
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al configurar 'ignoreProfileData' a través de la API Ignorar datos de perfil en el pago, si el comprador tiene un perfil completo pero no ha iniciado sesión, los datos se cargarán vacíos en la interfaz de usuario.

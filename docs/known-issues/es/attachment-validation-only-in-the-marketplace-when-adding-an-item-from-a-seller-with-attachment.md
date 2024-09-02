@@ -18,9 +18,7 @@ internalReference: 957343
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Añadir un artículo de un vendedor con un archivo adjunto en la misma solicitud de API, la validación de archivos adjuntos se produce sólo en el mercado.

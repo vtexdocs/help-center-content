@@ -18,9 +18,7 @@ internalReference: 932126
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao adicionar imagens por meio do Site Editor, a mensagem "`Algo deu errado. Tente novamente.`" pode ocorrer ocasionalmente.

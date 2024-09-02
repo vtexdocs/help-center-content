@@ -17,7 +17,7 @@ announcementSynopsisEN: "For accounts in Brazil, it's now required the Open Supp
 
 Now, for Brazil accounts to contact VTEX Support, the  **Open Support Ticket** resource of the **VTEX - Support** product must be enabled in their role. A user with the *User Administrator - Restricted* role must configure this permission in [License Manager](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
 
-<div class="alert alert-info">Admin users with the <strong> Owner (Admin Super) </strong> role are automatically associated with the <em> Open Support Ticket</em> resource.</div> 
+>ℹ️ Admin users with the ** Owner (Admin Super) ** role are automatically associated with the * Open Support Ticket* resource. 
 
 ## What has changed?
 

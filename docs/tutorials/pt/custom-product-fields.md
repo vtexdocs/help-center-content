@@ -42,9 +42,7 @@ Para criar um campo de produto, siga os passos abaixo:
 5. Clique em **Campo (Produto).**  
 6. Clique em **Novo Campo.**  
 7. Preencha as informações referentes ao campo que está sendo criado:  
-<div class="alert alert-warning">
-O nome do campo deve ser preenchido exatamente como um dos nomes apresentados na tabela da seção <a href="#campos-customizaveis">Campos customizáveis</a>.
-</div>  
+>⚠️ O nome do campo deve ser preenchido exatamente como um dos nomes apresentados na tabela da seção [Campos customizáveis](#campos-customizaveis).  
 
   **Nome:** nome da especificação (campo) de produto.  
   **Texto:** descrição sobre o campo.  

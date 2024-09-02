@@ -20,9 +20,7 @@ Your customers can shop using Apple Pay, the [digital wallet](/en/faq/what-is-an
 - Have an account in `developer.apple.com`.
 - Hire a gateway that processes payments with Apple Pay.
 
-<div class="alert alert-warning">
-  Apple Pay currently only works on MacOs, IOS operating systems, and the Safari browser. For more information, go to <a href="https://support.apple.com/en-gb/HT208531">Devices compatible with Apple Pay</a>.
-</div>
+>⚠️ Apple Pay currently only works on MacOs, IOS operating systems, and the Safari browser. For more information, go to [Devices compatible with Apple Pay](https://support.apple.com/en-gb/HT208531).
 
 ## Setting up the payment provider
 
@@ -30,9 +28,7 @@ Firstly, you need to configure a provider in your store's Admin that processes t
 
 To check all the provider options available for this payment method, access the list as described in Step 5 of the section [Set up payment with Apple Pay](#setting-up-payment-with-apple-pay).
 
-<div class="alert alert-warning">
-  Before starting to configure the provider, you must <a href="register your Merchant ID with Apple Pay">register your Merchant ID with Apple Pay</a>.
-</div>
+>⚠️ Before starting to configure the provider, you must [register your Merchant ID with Apple Pay](register your Merchant ID with Apple Pay).
 
 ## Setting up payment with Apple Pay
 

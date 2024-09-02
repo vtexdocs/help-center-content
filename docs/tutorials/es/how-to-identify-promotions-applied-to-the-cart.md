@@ -44,9 +44,7 @@ Sin embargo, si se aplicó más de una promoción, aparecerá solo la sumatoria 
 
 ## orderForm
 
-<div class = "alert alert-warning">
-  <p>Para realizar la investigación que se muestra en esta sección, deberás usar Google Chrome. Como se trata de una herramienta externa a VTEX, puede actualizarse sin previo aviso.</p>
-</div>
+>⚠️ Para realizar la investigación que se muestra en esta sección, deberás usar Google Chrome. Como se trata de una herramienta externa a VTEX, puede actualizarse sin previo aviso.
 
 En la página del carrito, puedes verificar el `orderForm`, un archivo en formato JSON con toda la información correspondiente al pedido que se está creando.
 

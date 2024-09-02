@@ -15,9 +15,7 @@ legacySlug: order-listing-beta
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-<div class = "alert alert-info">
-You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
-</div>
+>ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 The **All Orders** page allows retailers to track their store's orders and extract information for intelligent business management. To access the page, go to your VTEX Admin menu and click **Orders > All Orders**. On this page, you can:
 

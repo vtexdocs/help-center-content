@@ -47,8 +47,6 @@ To ensure a promotion is applied correctly in a marketplace, select the desired 
   <li>Click <code>Save</code>.</li>
 </ol>
 
-<div class = "alert alert-info">
-Make sure you haven't created any additional promotion filters, such as payment methods, cluster filters, or cart limitations.
-</div>
+>ℹ️ Make sure you haven't created any additional promotion filters, such as payment methods, cluster filters, or cart limitations.
 
 Learn more in [Configuring promotions for marketplaces](https://help.vtex.com/en/tutorial/configurando-promocao-para-marketplace/).

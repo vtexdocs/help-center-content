@@ -25,9 +25,7 @@ Com a inserção da nota fiscal com o valor completo do pedido, o mesmo passará
 
 Também é possível a inserção da nota fiscal parcial, quando são necessárias várias notas fiscais para atingir o valor total da compra. 
 
-<div class="alert alert-info">
-  <p>Somente após atingir o valor total do pedido o status será alterado para <strong>Faturado</strong>.</p>
-</div>
+>ℹ️ Somente após atingir o valor total do pedido o status será alterado para **Faturado**.
 
 A nota fiscal demanda atenção nos seguintes pontos:
 
@@ -39,6 +37,4 @@ Quando a URL e o código de rastreio estão inseridos, a cada atualização do s
 
 O **Conversation Tracker** depende da inserção de algum valor nesses campos. Caso não tenha um número de rastreamento, basta inserir um valor qualquer para ativar o sistema de notificação.
 
-<div class="alert alert-danger">
-É possível inserir mais de uma nota fiscal no pedido, no entanto a soma total dos valores das notas deve coincidir com o valor total do pedido.
-</div>
+>❗ É possível inserir mais de uma nota fiscal no pedido, no entanto a soma total dos valores das notas deve coincidir com o valor total do pedido.

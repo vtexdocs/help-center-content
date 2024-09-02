@@ -18,9 +18,7 @@ internalReference: 1078027
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando un índice, que puede contener varias cuentas, supera el límite de campos, los nuevos documentos no se indexan, lo que provoca problemas de búsqueda y recuperación.

@@ -18,9 +18,7 @@ internalReference: 798330
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O aplicativo de permissões do storefront sempre define o campo "clientProfileData.documentType" como "cpf" no formulário de pedido. Isso pode fazer com que a transação seja negada pelo provedor.

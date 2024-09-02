@@ -18,9 +18,7 @@ internalReference: 379685
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o cliente estabelece um custo do armazém até o cais na taxa de embarque, isso pode afetar a seleção da política de embarque. Isto pode acontecer porque o custo da doca não está incluído na priorização das políticas de embarque. Portanto, uma política de embarque mais cara para o consumidor pode ser priorizada, já que o cálculo do valor do frete não levou em consideração o custo do cais.

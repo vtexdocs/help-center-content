@@ -17,9 +17,7 @@ subcategory: 63DHe3VQEEE6Uuua8gIs2M
 
 Each VTEX account has a single Sponsor user – the only one who is granted full access to every section in the Admin, including critical maintenance and authorization actions.
 
-<div class = "alert alert-warning">
-The Sponsor user is not the same as the <b>Owner (Admin Super)</b>. The <b>Owner (Admin Super)</b> is a License Manager role that defines the permissions of a user in your store. It can even be assigned to multiple users.
-</div>
+>⚠️ The Sponsor user is not the same as the **Owner (Admin Super)**. The **Owner (Admin Super)** is a License Manager role that defines the permissions of a user in your store. It can even be assigned to multiple users.
 
 The Sponsor management page allows you to identify the current Sponsor user, transfer store ownership and view the activity log associated with Sponsor user actions. To access this page, navigate to **Account settings** > **Account management** > **Account**, scroll down to the Contact section and click `Sponsor management`.
 
@@ -43,6 +41,4 @@ Only the Sponsor user can perform these critical maintenance and authorization a
 
 In addition, when VTEX needs to communicate store-sensitive information, such as changes in roles, such communication is done directly and exclusively with the Sponsor user.
 
-<div class="alert alert-info">
-The creation of <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet">authentication credentials</a> (appKey/appToken) for API integrations is no longer restricted to the Sponsor user. See this <a href="https://help.vtex.com/en/announcements/changes-in-the-name-and-restricted-actions-available-to-the-master-user">announcement</a> for more details about this change.
-</div>
+>ℹ️ The creation of [authentication credentials](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) (appKey/appToken) for API integrations is no longer restricted to the Sponsor user. See this [announcement](https://help.vtex.com/en/announcements/changes-in-the-name-and-restricted-actions-available-to-the-master-user) for more details about this change.

@@ -19,9 +19,7 @@ A relationship between entities is a reference between documents that belong to 
 
 For example, assume your store has a **Customer** entity and a **Wishlist** entity. If you want each customer to be able to create multiple wishlists, you must create a field in the **Wishlist** entity to link each one of them to a customer. 
 
-<div class="alert alert-info">
-<p>Master Data has a few predefined relationships by default, such as Customer (CL) and Address (AD).</p>
-</div>
+>ℹ️ Master Data has a few predefined relationships by default, such as Customer (CL) and Address (AD).
 
 ## Creating a relationship between data entities
 

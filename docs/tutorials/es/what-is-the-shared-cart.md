@@ -33,15 +33,11 @@ Ejemplo:
 
 - **URL del carrito compartido**: `https://www.{nombredelatienda}.com/checkout/?orderFormId=31155bb8fd6944c99829c171aa8ed5c4#/cart`
 
-<div class="alert alert-warning">
-Al ensamblar la URL del carrito compartido, verifique que la querystring <b>?orderFormId=...</b> posicionarse entre <b>/checkout/</b> y <b>#/cart</b>.
-</div>
+>⚠️ Al ensamblar la URL del carrito compartido, verifique que la querystring **?orderFormId=...** posicionarse entre **/checkout/** y **#/cart**.
 
 Para obtener acceso a la información de identificación del carrito, acceda [Checkout API](https://developers.vtex.com/vtex-rest-api/reference/checkout-api-overview).
 
-<div class="alert alert-info">
-El uso de la funcionalidad de carrito abandonado es opcional, no generando impacto para las tiendas que no la utilizan.
-</div>
+>ℹ️ El uso de la funcionalidad de carrito abandonado es opcional, no generando impacto para las tiendas que no la utilizan.
 
 ## Seguridad de información
 
@@ -54,6 +50,4 @@ Para saber más sobre protección de datos, visite [Seguridad de SmartCheckout](
 Cuando se insertan nuevos parámetros en una URL, como una `querystring`, el seguimiento de la página puede cambiar, lo que afecta las evaluaciones realizadas por sistemas como el embudo de conversión de Google Analytics. Para utilizar el servicio de seguimiento de páginas con parámetros adicionales, consulte las reglas actualizadas en 
 [Configurar embudo de ventas en Google Analytics](https://help.vtex.com/es/tutorial/configurar-funil-de-vendas-no-google-analytics).
 
-<div class="alert alert-info">
-Si utiliza otro sistema de seguimiento de páginas en su tienda, consulte la documentación interna de ese sistema.
-</div>
+>ℹ️ Si utiliza otro sistema de seguimiento de páginas en su tienda, consulte la documentación interna de ese sistema.

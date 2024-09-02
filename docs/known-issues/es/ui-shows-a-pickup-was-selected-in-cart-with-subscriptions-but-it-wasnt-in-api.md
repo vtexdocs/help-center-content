@@ -18,9 +18,7 @@ internalReference: 996976
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Las opciones de recogida se ofrecen a los compradores en un carro con un artículo con una suscripción. Cuando se selecciona una de las opciones de recogida, el proceso de pago cambia automáticamente a entrega, pero la interfaz de usuario sigue mostrando que se ha seleccionado la opción de recogida.

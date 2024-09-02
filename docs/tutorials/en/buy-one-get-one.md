@@ -63,9 +63,7 @@ In this section, you can determine to which sellers the promotion will apply. Yo
 
 For the promotion to be valid for all sellers, leave the field blank.
 
-<div class = "alert alert-warning">
-  <p>It is not possible to select a white label seller. There are two ways to include a white label seller in the promotion:</p><ol>1. Restrict sellers to the main store. This will add all white label sellers in your store to the promotion.</ol><ol>2. Leave the field blank.  In this way, all sellers will be included in the promotion.</ol>
-</div>
+>⚠️ It is not possible to select a white label seller. There are two ways to include a white label seller in the promotion:1. Restrict sellers to the main store. This will add all white label sellers in your store to the promotion.2. Leave the field blank.  In this way, all sellers will be included in the promotion.
 
 ![Restrict this promotion to seller products](https://images.ctfassets.net/alneenqid6w5/3Up0CJMzHHY9rZO0LLRXuw/32b26e784595d4551700c022fc539598/Restrict_this_promotion_to_seller_products.png)
 
@@ -90,13 +88,9 @@ In this section, you can define the collections, SKUs, and minimum quantity for 
 - **SKUs:** Allows you to enter the SKU name or ID to which the discount will apply. You can import a list of SKUs that must be saved in a text file (**.txt**), with each ID listed on a different row.
 - **Minimum quantity:** Allows you to define the minimum quantity of products that must be added to the cart for the discount to be applied. This is a required field.
 
-<div class = "alert alert-warning">
-<p>The promotion will not be created if the Collections or SKUs fields are not completed.<p>
-</div>
+>⚠️ <p>The promotion will not be created if the Collections or SKUs fields are not completed.<p>
 
-<div class = "alert alert-warning">
-<p>A Buy One Get One promotion can be created with a maximum of 100 different SKUs at the same time.<p>
-</div>
+>⚠️ <p>A Buy One Get One promotion can be created with a maximum of 100 different SKUs at the same time.<p>
 
 ![Buy One Get One](https://images.ctfassets.net/alneenqid6w5/27rGDqH0dMTcgA8m7cWs27/c521b34d5694bf3712f5450f32839a91/Buy_One_Get_One.png)
 

@@ -20,9 +20,7 @@ Este erro ocorre quando algum __título das colunas da planilha de frete__ não 
 
 Para resolver o problema, é necessário ajustar o título da coluna para o nome correto e fazer novamente o upload da planilha.
 
-<div class="alert alert-warning">
-Caso a planilha tenha mais de 10 MB, será necessário compactá-la no formato .zip. Este arquivo .zip deverá ter menos de 10 MB. Caso contrário, o upload não irá funcionar.
-</div>
+>⚠️ Caso a planilha tenha mais de 10 MB, será necessário compactá-la no formato .zip. Este arquivo .zip deverá ter menos de 10 MB. Caso contrário, o upload não irá funcionar.
 
 ## Obter o nome correto dos títulos das colunas
 

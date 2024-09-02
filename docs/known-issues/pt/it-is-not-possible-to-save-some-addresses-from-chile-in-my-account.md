@@ -18,9 +18,7 @@ internalReference: 386030
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Há um caso de alguns endereços que não são possíveis de serem salvos na página da seção Minha Conta nas contas do Chile.

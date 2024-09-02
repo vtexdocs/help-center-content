@@ -18,9 +18,7 @@ internalReference: 585249
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o usuário logado chega à fase de envio, com o endereço já pré-selecionado e com o SLA disponível para aquele local, ao editar seu endereço com exatamente as mesmas informações preenchidas anteriormente, a UI informa que não há entrega disponível. Mesmo a resposta API sendo que existe sim SLA disponível (já que é o mesmo endereço).

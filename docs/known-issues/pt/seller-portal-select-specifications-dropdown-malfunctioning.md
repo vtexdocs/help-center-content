@@ -18,9 +18,7 @@ internalReference: 711303
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, a caixa de seleção de especificação de produto da página accountname.myvtex.com/admin/products/new/ tem um comportamento defeituoso quando se tenta selecionar um valor para uma especificação de produto.

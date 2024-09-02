@@ -18,9 +18,7 @@ internalReference: 866933
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O canal de vendas configurado nas configurações de organizações B2B não é salvo nos detalhes da organização.

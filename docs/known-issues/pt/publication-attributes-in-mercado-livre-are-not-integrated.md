@@ -32,7 +32,5 @@ Não é reproduzível, uma vez que a configuração do Mercado Livre na VTEX Bri
 
 Também é possível carregar os atributos manualmente no Mercado Livre.
 
-<div class="alert alert-info">
-Este problema já foi solucionado pela nossa equipe. <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA">Saiba mais.</a>
-</div>
+>ℹ️ Este problema já foi solucionado pela nossa equipe. [Saiba mais.](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA)
 

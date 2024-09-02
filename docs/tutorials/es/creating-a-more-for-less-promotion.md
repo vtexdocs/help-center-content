@@ -62,9 +62,7 @@ En esta sección se pueden definir los sellers a los que se aplicará la promoci
 
 Para que la promoción sea válida para todos los sellers, deja la selección sin marcar.
 
-<div class = "alert alert-warning">
-  <p>No es posible seleccionar directamente un <i>seller white label</i>. Hay dos opciones para incluir un <i>seller white label</i> en la promoción: </p><ol>1. Restringir los <i>sellers</i> a la tienda principal. Esta restricción agrega todos los <i>sellers white label</i> de tu tienda a la promoción.</ol><ol>2. Dejar la selección sin marcar para incluir todos los <i>sellers</i>. En este caso, todos los tipos de <i>sellers, white label</i> y otros, se agregan a la promoción.</ol>
-</div>
+>⚠️ No es posible seleccionar directamente un <i>seller white label</i>. Hay dos opciones para incluir un <i>seller white label</i> en la promoción:1. Restringir los <i>sellers</i> a la tienda principal. Esta restricción agrega todos los <i>sellers white label</i> de tu tienda a la promoción.2. Dejar la selección sin marcar para incluir todos los <i>sellers</i>. En este caso, todos los tipos de <i>sellers, white label</i> y otros, se agregan a la promoción.
 
 ![Restringir - ES](https://images.ctfassets.net/alneenqid6w5/7KJhtOylpPsj0g5Q1lF2T0/709b4d87b04c6bcdb845f948e27f46ed/Restringir_-_ES.png)
 
@@ -89,9 +87,7 @@ En esta sección se definen los productos, la cantidad y el descuento que serán
     - **SKUs:** nombres o ID de los SKU a los que se aplicará el descuento. Puedes importar una lista de SKU haciendo clic en el botón `Selecciona un archivo .txt`. El archivo de texto (.txt) debe tener cada ID de SKU en una línea diferente. También puedes descargar la lista de SKU agregada al campo haciendo clic en el botón `Descargar lista de SKU`.
 - **Colecciones:** selección de las colecciones que se incluirán en la promoción. La promoción solo se aplicará a los productos que figuren en las colecciones registradas en este campo. Solo tienes que introducir el nombre de la colección de productos en la que deseas ofrecer este tipo de descuento. Es posible seleccionar más de una colección.
 
-<div class = "alert alert-info">
-  <p>Si no se especifican los productos por colección o SKU, la plataforma no permitirá la creación de la promoción.</p>
-</div>
+>ℹ️ Si no se especifican los productos por colección o SKU, la plataforma no permitirá la creación de la promoción.
 
 - **Y lleva**  `número` **de estos productos:** la cantidad de unidades del producto que recibirá el descuento configurado. Campo obligatorio.
     - **Con un descuento de:**  el cliente se llevará la cantidad seleccionada de productos con un descuento porcentual definido en el campo.
@@ -130,9 +126,7 @@ En esta sección se proporciona información detallada sobre las condiciones que
 - **Crear un nuevo cupón con los UTM anteriores:** crea un cupón a partir de los UTM registrados para que el cliente tenga acceso a esta promoción solo con el código del cupón.
 - **Medio de pago:** permite elegir si la promoción se aplicará a uno o varios de los medios de pago seleccionados.
 
- <div class = "alert alert-info">
-  <p> El máximo predeterminado de medios de pago registrados por promoción es 20, aunque es posible crear una personalización para incluir hasta 100 medios de pago. Si necesitas utilizar más de 20, ponte en contacto con <a href="https://support.vtex.com/hc/es-419/requests">nuestro equipo de soporte</a>.</p>
- </div>
+ >ℹ️ El máximo predeterminado de medios de pago registrados por promoción es 20, aunque es posible crear una personalización para incluir hasta 100 medios de pago. Si necesitas utilizar más de 20, ponte en contacto con [nuestro equipo de soporte](https://support.vtex.com/hc/es-419/requests).
 
  ![Condições de promoção - ES](https://images.ctfassets.net/alneenqid6w5/1mPsbqBbsHGXaSKeoFL1vY/13714c02ac6369e9274f4045af6b208b/Condi__es_de_promo__o_-_ES.png)
 

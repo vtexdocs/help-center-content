@@ -18,9 +18,7 @@ internalReference: 1072285
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao chamar um reembolso (em transações com divisão de pagamento), o erro abaixo pode ocorrer com valores divergentes:

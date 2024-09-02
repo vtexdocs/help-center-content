@@ -18,9 +18,7 @@ internalReference: 1037067
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando un rol tiene el permiso "Puede añadir envío" en la Configuración de Pago B2B y un comprador tiene direcciones registradas en el Sistema de Perfiles, al hacer clic en "Entregar en otra dirección" en el paso de envío y hacer clic en "Volver a la lista de direcciones" se muestran las direcciones del Sistema de Perfiles.

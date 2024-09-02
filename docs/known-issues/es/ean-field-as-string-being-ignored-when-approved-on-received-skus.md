@@ -18,9 +18,7 @@ internalReference: 897301
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El vendedor envía el sku con todos los campos declarados en este artículo (https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#put-/suggestions/-sellerId-/-sellerSkuId-) para que el marketplace lo apruebe en el módulo Skus Recibidos.

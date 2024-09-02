@@ -24,9 +24,7 @@ A continuación, vea lo que se requiere para habilitar esta funcionalidad.
 - [Requisitos](#requisitos)
 - [Eligir puntos de recogida](#eligir-puntos-de-recogida)
 
-<div class="alert alert-info">
-  <p>La funcionalidad de puntos de recogida solo está disponible para las cuentas que ya tienen acceso a <a href="https://help.vtex.com/es/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH">Checkout V6</a>.</p>
-</div>
+>ℹ️ La funcionalidad de puntos de recogida solo está disponible para las cuentas que ya tienen acceso a [Checkout V6](https://help.vtex.com/es/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH).
 
 ## Requisitos
 

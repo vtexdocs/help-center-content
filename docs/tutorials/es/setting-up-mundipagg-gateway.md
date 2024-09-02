@@ -15,7 +15,7 @@ legacySlug: configurar-gateway-mundipagg
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
+>❗ Esta integración de pago ya no se puede configurar en la plataforma debido al [proceso de descontinuación de los proveedores legados](https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14) y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.
 
 Mundipagg es un [gateway](/es/tutorial/que-es-un-gateway-de-pagos) que procesa pagos hechos con boletos, transferencias bancarias y las principales banderas de tarjetas de crédito.
 
@@ -35,9 +35,7 @@ Para configurar Mundipagg, siga estos pasos:
 12. En el campo __Captura de seguridad anticipada__, escoja en cuánto tiempo desea que la captura se realice (después de la aprobación de la transacción y del análisis del antifraude). También es posible desactivar esta función.
 13. Haga clic en __Guardar__.
 
-<div class="alert alert-info">
-Los pasos <strong>8</strong>, <strong>9</strong>, <strong>11</strong> y <strong>12</strong> se deben cumprir si desea ofrecer boletos bancarios como condición de pago en su tienda.
-</div>
+>ℹ️ Los pasos **8**, **9**, **11** y **12** se deben cumprir si desea ofrecer boletos bancarios como condición de pago en su tienda.
 
 ## Configurar la condición de pago
 Después de seguir los pasos indicados arriba, Mundipagg estará configurada en su tienda. Por lo tanto, cuando se registre una condición de pago, estará disponible en el campo __Procesar con la afiliación__ (siempre que el medio de pago sea compatible con Mundipagg). Para saber cómo definir condiciones de pago, acceda a [este artículo del Help](/es/tutorial/condiciones-de-pago).

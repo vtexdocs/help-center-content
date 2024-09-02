@@ -18,9 +18,7 @@ internalReference: 1050068
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si la misma opción de montaje se añade a diferentes productos FastStore los fusionará en una única partida.

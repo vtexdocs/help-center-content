@@ -18,9 +18,7 @@ internalReference: 1077568
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em um carrinho com pelo menos três produtos, onde os pedidos de itens são: O primeiro é para a retirada 1, o segundo para a retirada 2 (vendedor diferente) e o terceiro é para a retirada 1, a interface do usuário não permitirá uma seleção de SLA para o segundo item.

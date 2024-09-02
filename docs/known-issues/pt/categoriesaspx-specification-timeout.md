@@ -18,9 +18,7 @@ internalReference: 433664
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Não há limite para o registro dos campos de especificação, o que pode gerar timeouts na administração do catálogo.

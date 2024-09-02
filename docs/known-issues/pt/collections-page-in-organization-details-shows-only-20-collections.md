@@ -18,9 +18,7 @@ internalReference: 891511
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A página Coleções em Detalhes da organização mostra apenas 20 coleções, mesmo depois de alterar a quantidade de linhas na parte inferior da página.

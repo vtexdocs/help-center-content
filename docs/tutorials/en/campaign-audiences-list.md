@@ -31,9 +31,7 @@ On this page, you can perform the following actions:
 
 To create a Campaign audience, in *Promotions > Campaign audience*, you must click the `New Campaign Audience` button and follow the steps described in the article [Creating a Campaign Audience](https://help.vtex.com/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K).
 
-<div class="alert alert-warning">
-  <p>To activate the newly created campaign audience, you must associate it to a <a href="https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume">Campaign promotion</a>.</p>
-</div>
+>⚠️ To activate the newly created campaign audience, you must associate it to a [Campaign promotion](https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume).
 
 ### Viewing campaign audiences
 

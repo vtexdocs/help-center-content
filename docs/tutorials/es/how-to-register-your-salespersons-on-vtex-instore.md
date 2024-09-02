@@ -15,6 +15,4 @@ legacySlug: como-registrar-vendedores-en-el-vtex-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
-<div class="alert alert-info">
-Este artículo ha sido descontinuado. <a href="https://help.vtex.com/es/tracks/instore-setup?step=2">Haga clic aquí</a> para acceder a nuestro tutorial con el paso a paso para registrar vendedores en inStore.
-</div>
+>ℹ️ Este artículo ha sido descontinuado. [Haga clic aquí](https://help.vtex.com/es/tracks/instore-setup?step=2) para acceder a nuestro tutorial con el paso a paso para registrar vendedores en inStore.

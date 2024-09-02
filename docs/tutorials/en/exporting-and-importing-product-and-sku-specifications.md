@@ -19,9 +19,7 @@ After defining the category tree and registering [product specifications and SKU
 
 In this article, we explain how to export and import spreadsheets with product and SKU specifications in VTEX Admin.
 
-<div class = "alert alert-info">
-  <p>To export and import specifications using the <strong>Catalog API</strong>, follow the developer guide <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a>.</p>
-</div>
+>ℹ️ To export and import specifications using the **Catalog API**, follow the developer guide [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification).
 
 ## Exporting product or SKU specifications
 
@@ -37,9 +35,7 @@ In this article, we explain how to export and import spreadsheets with product a
 
 ![skuexport2.en](https://images.ctfassets.net/alneenqid6w5/6oBhxWWjktsofR8XGRzl3E/87e1859f2f3ece16f3c0e1c527a392ee/skuexport2.en.png)
 
-<div class = "alert alert-info">
-  <p>The exported spreadsheet will be available in your email for one week. If you exceed this period, follow the export step-by-step again to generate a new spreadsheet.</p>
-</div>
+>ℹ️ The exported spreadsheet will be available in your email for one week. If you exceed this period, follow the export step-by-step again to generate a new spreadsheet.
 
 ## Importing product or SKU specifications
 
@@ -49,9 +45,7 @@ In the import worksheet, the only column you have to complete is “ValorEspecif
 
 The structure of the spreadsheet presents one row for each product field or SKU, i.e., the same product or SKU will be presented several times according to the existing fields in its category.
 
-<div class="alert alert-warning">
-  <p>In the exported spreadsheet, the column for "ValorEspecificacao" is "NomeCampoValor (Not Changeable)". When filling the field, the spelling of the characteristics must be exact. Uppercase and lowercase letters make a difference in this case.</p>
-  </div>
+>⚠️ In the exported spreadsheet, the column for "ValorEspecificacao" is "NomeCampoValor (Not Changeable)". When filling the field, the spelling of the characteristics must be exact. Uppercase and lowercase letters make a difference in this case.
 
 Follow the steps below to import the spreadsheet:
 

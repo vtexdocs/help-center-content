@@ -18,9 +18,7 @@ internalReference: 408868
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunas cuentas del Portal del Vendedor no pueden exportar el "precio base".

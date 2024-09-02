@@ -18,9 +18,7 @@ internalReference: 286470
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Um cliente com mais de 20 políticas comerciais acaba tendo mais de uma política comercial por posição. Isto é crítico porque as configurações vinculadas dependem do número da posição, portanto, deve haver apenas uma política comercial por posição.

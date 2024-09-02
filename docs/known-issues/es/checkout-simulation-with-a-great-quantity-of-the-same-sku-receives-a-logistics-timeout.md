@@ -18,9 +18,7 @@ internalReference: 330775
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Tenemos un error en el servicio de Logística cuando intentamos simular una compra con miles de unidades del mismo SKU. Ese error se produce porque la solicitud para dividir el paquete tarda demasiado.

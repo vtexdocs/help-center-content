@@ -18,9 +18,7 @@ internalReference: 1037067
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando uma função tem a permissão "Pode adicionar envio" nas configurações de checkout B2B e um comprador tem endereços registrados no sistema de perfil, clicar em "Entregar em outro endereço" na etapa de envio e clicar em "Voltar à lista de endereços" mostra os endereços do sistema de perfil.

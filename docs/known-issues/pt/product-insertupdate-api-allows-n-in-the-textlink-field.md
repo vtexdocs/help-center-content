@@ -18,9 +18,7 @@ internalReference: 486459
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, as APIs para a inserção ou atualização de produtos do Catálogo permitem o caractere "\n" no textoLink

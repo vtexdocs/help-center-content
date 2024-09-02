@@ -14,6 +14,4 @@ trackId: AW7klkYMh557y5IUOgzco
 trackSlugEN: extensions-hub
 ---
 
-<div class="alert alert-warning">
-Content is not available yet.
-</div>
+>⚠️ Content is not available yet.

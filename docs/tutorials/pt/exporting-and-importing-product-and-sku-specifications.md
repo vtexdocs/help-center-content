@@ -19,9 +19,7 @@ Após a definição da árvore de categorias e o cadastro de [especificações d
 
 Neste artigo, explicamos como funciona a exportação e importação de planilhas com as especificações de produto e de SKU no Admin VTEX.
 
-<div class = "alert alert-info">
-  <p>Para exportar e importar especificações utilizando a <strong>Catalog API</strong>, siga o guia para desenvolvedores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a>.</p>
-</div>
+>ℹ️ Para exportar e importar especificações utilizando a **Catalog API**, siga o guia para desenvolvedores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification).
 
 ## Exportar especificações de produto ou de SKU
 
@@ -39,9 +37,7 @@ Veja a seguir como exportar a planilha com as especificações de produto ou de 
 
 ![skuexport2.pt](https://images.ctfassets.net/alneenqid6w5/32z4zfvN7GeKcfZsuVQsGA/cac3411fabd0a1d32cb85b4592d0a4dd/skuexport2.pt.png)
 
-<div class = "alert alert-info">
-  <p>A planilha exportada ficará disponível por uma semana no seu email. Caso exceda esse prazo, siga o passo a passo de exportação novamente para gerar uma nova planilha.</p>
-</div>
+>ℹ️ A planilha exportada ficará disponível por uma semana no seu email. Caso exceda esse prazo, siga o passo a passo de exportação novamente para gerar uma nova planilha.
 
 ## Importar especificações de produto ou de SKU
 
@@ -51,9 +47,7 @@ Na planilha de importação, a única coluna a ser preenchida é a `ValorEspecif
 
 A estrutura da planilha apresenta uma linha para cada campo do produto ou SKU, ou seja, o mesmo produto ou SKU será apresentado diversas vezes de acordo com os campos existentes em sua categoria.
 
-<div class="alert alert-warning">
-  <p>Na planilha exportada, a coluna referente a "ValorEspecificacao" é "NomeCampoValor (Não alterável)". Ao preencher o campo, a grafia das características deve ser exata. Letras maiúsculas e minúsculas fazem diferença nesse caso.</p>
-  </div>
+>⚠️ Na planilha exportada, a coluna referente a "ValorEspecificacao" é "NomeCampoValor (Não alterável)". Ao preencher o campo, a grafia das características deve ser exata. Letras maiúsculas e minúsculas fazem diferença nesse caso.
 
 Siga os passos abaixo para importar a planilha:
 

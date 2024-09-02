@@ -15,9 +15,7 @@ legacySlug: creando-colecciones-de-productos
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning">
-  <p>Existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo <a href="https://help.vtex.com/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye">Colecciones Beta</a>. Este artículo se refiere a <a href = "https://help.vtex.com/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.</p>
-</div>
+>⚠️ Existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo [Colecciones Beta](https://help.vtex.com/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye). Este artículo se refiere a <a href = "https://help.vtex.com/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.
 
 Para crear una colección, siga las siguientes instrucciones:
 
@@ -65,9 +63,7 @@ Para crear un grupo con productos de una o más marcas, basta con seleccionar la
 
 Para crear una colección de productos que aún no fueron lanzados, selecciones &#8220;Pré-venda&#8221; en &#8220;Outras Opções&#8221;. El sistema considerará todos los productos con fecha posterior a la actual, como definido en el campo “Data de lançamento no mercado” (registro de producto). O en cambio, puede configurar la colección para considerar productos lanzados recientemente. Para ello, seleccione la opción &#8220;Lançamento&#8221;. El sistema considerará todos los productos con la fecha definida en el campo “Data de lançamento no mercado” (registro de producto) dentro del intervalo de 30 días anteriores al actual. Vea en el ejemplo abajo que es posible seleccionar uno u otro campo. En caso que quiera que ambos escenarios sean contemplados, cree dos colecciones y configure cada una con la respectiva opción.
 
-<div class="alert alert-warning">
-Estas opcciones son un <em>complemento</ em> a la elección de los productos. Es importante resaltar que estas flags sólo funcionarán si usted ha elegido para la colección alguna categoría, marca o combinación de SKUs. Estas flags se utilizan junto con la selección de categorías, marcas o SKUs para la colección.
-</div>
+>⚠️ Estas opcciones son un <em>complemento</ em> a la elección de los productos. Es importante resaltar que estas flags sólo funcionarán si usted ha elegido para la colección alguna categoría, marca o combinación de SKUs. Estas flags se utilizan junto con la selección de categorías, marcas o SKUs para la colección.
 
 ### Incluir SKUs específicos en un grupo
 

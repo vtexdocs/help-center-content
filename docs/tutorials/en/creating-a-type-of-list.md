@@ -26,9 +26,7 @@ Creating a type of list is configuring the lists to appear on the site. For exam
 
 After creating the types of list, clients can add their lists to the site.
 
-<div class="alert alert-warning">
-  <p>It is not possible to delete a list once it has been created.</p>
-</div>
+>⚠️ It is not possible to delete a list once it has been created.
 
 ## Form fields
 

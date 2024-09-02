@@ -18,9 +18,7 @@ internalReference: 1085895
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Las tablas de precios no forman parte del flujo de indexación de productos y no están disponibles para el servicio de búsqueda a nivel de índice. Esto crea la limitación de que la búsqueda no puede ordenar y filtrar productos basándose en las tablas de precios. Los productos se ordenan exclusivamente por el precio de la política comercial.

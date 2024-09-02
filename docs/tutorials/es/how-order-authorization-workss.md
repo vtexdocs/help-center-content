@@ -47,7 +47,5 @@ Al ser notificado, el usuario entonces deberá:
  
 Los demás pedidos, clasificados en los rangos de variación de precio cuyas reglas son automatizadas, serán procesados por el sistema automáticamente.
  
-<div class="alert alert-warning">
-No siendo posible configurar la Autorización de pedidos para aprobaciones en cadena o jerárquicas, los pedidos deben ser aprobados por un usuario apenas.
-</div>
+>⚠️ No siendo posible configurar la Autorización de pedidos para aprobaciones en cadena o jerárquicas, los pedidos deben ser aprobados por un usuario apenas.
 

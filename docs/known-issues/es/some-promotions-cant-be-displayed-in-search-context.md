@@ -18,9 +18,7 @@ internalReference: 475289
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunos tipos de promociones no se recuperan en el contexto de ProductSummaryProvider, y por lo tanto sus insignias no son renderizadas por el componente vtex.product-highlights.

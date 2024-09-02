@@ -18,9 +18,7 @@ internalReference: 699317
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En un carro con SLA sólo para la entrega y el usuario introduce un código postal correcto, el checkout permite al usuario continuar, sin embargo, si el usuario vuelve a la página del carro de nuevo y cambia a la opción de recogida y luego hace clic para continuar a la parte de pago, luego vuelve al carro de nuevo, cambia de nuevo a la opción de entrega y continúa de nuevo, esta vez, el usuario va al formulario de pago. Además, hay un mensaje en la parte de la dirección de envío que dice que el componente está "esperando a que se rellenen los datos".

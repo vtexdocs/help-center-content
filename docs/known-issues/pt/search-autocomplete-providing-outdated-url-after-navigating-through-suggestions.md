@@ -18,9 +18,7 @@ internalReference: 968604
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 No componente "barra de pesquisa" com "autocomplete-result-list.v2", passar o mouse sobre as sugestões de pesquisa também altera os produtos sugeridos, bem como o texto de "ver todos os {n} produtos" para mencionar a pesquisa selecionada, mas o hiperlink de "ver todos" segue o termo de pesquisa original em vez do selecionado.

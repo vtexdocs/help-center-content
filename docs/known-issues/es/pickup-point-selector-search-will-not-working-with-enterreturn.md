@@ -18,9 +18,7 @@ internalReference: 829955
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En el selector de puntos de recogida, si se escribe una dirección y se pulsa Intro/Retorno, no aparecerán las tiendas más cercanas. El comprador siempre tiene que escribir la dirección y seleccionar una opción de la lista.

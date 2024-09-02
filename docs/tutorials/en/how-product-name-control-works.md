@@ -19,9 +19,7 @@ The `<vtex.cmc:productName/>` control renders the product name as registered in 
 
 Therefore, it works only on product pages.
 
-<div class="alert alert-info">
-The name rendered by this control is that of the <b>product</b>, not the SKU.
-</div>
+>ℹ️ The name rendered by this control is that of the **product**, not the SKU.
 
 This is an example of the HTML code rendered by the Product Name control.
 

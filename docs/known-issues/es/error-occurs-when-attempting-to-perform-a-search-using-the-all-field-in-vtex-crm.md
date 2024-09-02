@@ -18,9 +18,7 @@ internalReference: 925679
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Este caso ocurre con entidades que contienen un gran número de campos y millones de registros en una entidad. El problema surge debido a que el buscador utiliza el campo "Todos", que envía peticiones individuales para cada campo consultable de la entidad y multiplica la carga de peticiones para cada documento.

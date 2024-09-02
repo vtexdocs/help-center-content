@@ -18,9 +18,7 @@ internalReference: 1073080
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao usar um desconto do tipo "mais por menos" junto com outra promoção que usa o "máximo de itens por carrinho" para o mesmo item, ambos se acumulando, um desconto incorreto é concedido, excedendo a configuração inicialmente configurada.

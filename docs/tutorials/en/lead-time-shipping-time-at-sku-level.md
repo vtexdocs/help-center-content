@@ -27,9 +27,7 @@ This article covers the following:
 - [Configuring lead time:](#configuring-lead-time) How to configure lead time through the VTEX Admin.
 - [Configuring lead time calculation in calendar days:](#configuring-lead-time-calculation-in-calendar-days-optional) Optional step for the lead time calculation to be in calendar days, not business days (default).
 
-<div class = "alert alert-info">
-To configure lead time via API, see <a href="https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-">Update inventory by SKU and warehouse</a>.
-</div>
+>ℹ️ To configure lead time via API, see [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 ## Total shipping time
 
@@ -83,13 +81,9 @@ To configure the lead time for a SKU, follow the steps below:
   ![lead_time_inventory_management_EN](https://images.ctfassets.net/alneenqid6w5/mfWUVzj7tgHMQxJTnVjGX/34a3c9f845038312b1b3cdb273102562/lead_time_inventory_management_EN.png)
 4. Click `Save` at the bottom of the page.
 
-<div class = "alert alert-info">
-In the VTEX Admin, lead time is always configured in days, but you can configure it in hours, minutes, and seconds using the endpoints <a href="https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-">Update inventory by SKU and warehouse</a> and <a href="https://developers.vtex.com/docs/api-reference/logistics-api#patch-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-/lead-time">Update inventory lead time by SKU and warehouse</a>.
-</div>
+>ℹ️ In the VTEX Admin, lead time is always configured in days, but you can configure it in hours, minutes, and seconds using the endpoints [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-) and [Update inventory lead time by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#patch-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-/lead-time).
 
-<div class="alert alert-warning">
-Lead time only works with positive values since you can add shipping time but not decrease it. Using negative values could lead to unexpected behaviors.
-</div>
+>⚠️ Lead time only works with positive values since you can add shipping time but not decrease it. Using negative values could lead to unexpected behaviors.
 
 ## Configuring lead time calculation in calendar days (optional)
 

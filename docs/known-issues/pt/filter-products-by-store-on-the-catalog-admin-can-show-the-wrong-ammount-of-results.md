@@ -18,9 +18,7 @@ internalReference: 756461
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Filtrar produtos por "Loja" no Catálogo Admin pode mostrar a quantidade errada de resultados

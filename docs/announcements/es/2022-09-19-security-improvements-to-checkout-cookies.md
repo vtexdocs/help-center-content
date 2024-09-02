@@ -57,6 +57,4 @@ Si encuentra algún error al realizar pruebas operativas en un ambiente Beta, ve
 
 Después de verificar la configuración de la tienda, vuelva a ejecutar la prueba en ambiente Beta.
 
-<div class="alert alert-warning">
-A partir del 13 de Febrero de 2023, es posible que las tiendas que no estén configuradas correctamente no puedan operar Checkout correctamente.
-</div>
+>⚠️ A partir del 13 de Febrero de 2023, es posible que las tiendas que no estén configuradas correctamente no puedan operar Checkout correctamente.

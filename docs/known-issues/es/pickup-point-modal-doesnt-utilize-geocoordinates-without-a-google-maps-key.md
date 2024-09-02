@@ -18,9 +18,7 @@ internalReference: 1041462
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al insertar un código postal en el modal del selector de punto de recogida, se activa una solicitud para obtener los ANS disponibles para esa ubicación. Si la cuenta no tiene una clave de API de Google Maps definida en su configuración de Pago, esta solicitud no incluirá información de geoCoordenadas. Esto puede provocar que no se muestren los puntos de recogida dentro de un rango válido, como aquellos cuyas tablas de carga se basan en polígonos.

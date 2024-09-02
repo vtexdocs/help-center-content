@@ -18,9 +18,7 @@ internalReference: 426275
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El precio mostrado por el bloque vtex.product-price diverge debido a los redondeos de la multiplicación de unidades.

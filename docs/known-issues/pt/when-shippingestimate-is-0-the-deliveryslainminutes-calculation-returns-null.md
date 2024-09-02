@@ -18,9 +18,7 @@ internalReference: 514835
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 No fluxo de checkout `deliverySlaInMinutes` delivery checkout juntamente com os detalhes da transação para o gateway, estes dados são calculados com base na `shippingEstimate` entregue pela logística, porém quando este valor entregue pela logística é = 0 a resposta de checkout para `deliverySlaInMinutes` é 0 zero, quando o correto seria 0; porém isto acaba afetando diretamente o fluxo desenvolvido pelo gateway para a anti-fraude;

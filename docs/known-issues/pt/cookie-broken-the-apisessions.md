@@ -18,9 +18,7 @@ internalReference: 779014
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando há um script que gera um cookie para rastrear os usuários e seu cookie interrompe a chamada para /api/sessions, por exemplo, porque ele tem um caractere especial no cookie de valor. Então, precisamos descartar esses cookies malformados do nosso lado e manter todos os outros, para que isso não afete o comportamento.

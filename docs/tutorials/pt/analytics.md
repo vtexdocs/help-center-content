@@ -24,9 +24,7 @@ Siga os passos abaixo para acessar a página:
 1. No Admin VTEX, acesse **Storefront**, ou digite **Storefront** na barra de busca no topo da página.
 2. Em __Intelligent Search__, clique em __Analytics__. 
 
-<div class = "alert alert-info">
-<p>A página de <strong>Analytics</strong> é nativa no VTEX Intelligent Search. Não é possível desabilitá-la no Admin.</p>
-</div>
+>ℹ️ A página de **Analytics** é nativa no VTEX Intelligent Search. Não é possível desabilitá-la no Admin.
 
 ## Dados
 
@@ -41,9 +39,7 @@ Os dados que compõem o relatório são atualizados a cada quatro horas e contê
 * **Pedidos**: quantidades de pedidos realizados a partir da busca. Para calcular essa métrica, consideramos que a busca gera um pedido sempre que, após buscar por um termo, o cliente clica em algum produto que aparece nos resultados e depois compra um produto qualquer (não necessariamente o que ele clicou).
 * **Vendas**: valor total de receitas geradas por pedidos realizados a partir da busca. O cálculo segue a mesma lógica da métrica de **Pedidos**, a diferença é que o resultado reflete as receitas em vez da quantidade de pedidos.
 
-<div class="alert alert-info">
-  <p>Os dados exibidos no relatório são limitados aos 10 mil termos mais pesquisados. Caso deseje os dados completos da busca da sua loja, é necessário <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#exportacao">exportar o relatório</a>.</p>
-</div>
+>ℹ️ Os dados exibidos no relatório são limitados aos 10 mil termos mais pesquisados. Caso deseje os dados completos da busca da sua loja, é necessário [exportar o relatório](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#exportacao).
 
 Quando você optar por [exportar um relatório](#exportacao), existe também a possibilidade de gerá-lo **Com métricas de funil**. Caso essa opção seja selecionada, quatro novas colunas serão adicionadas ao arquivo:
 
@@ -74,9 +70,7 @@ Para exportar um relatório no formato CSV, você deve seguir os passos abaixo.
 5. Espere o arquivo estar disponível para download. Sair desta página não interrompe o processo.
 6. Clique em `Baixar`.
 
-<div class = "alert alert-info">
-<p>O arquivo permanece disponível para download por 48 horas.</p>
-</div>
+>ℹ️ O arquivo permanece disponível para download por 48 horas.
 
 O relatório CSV baixado apresenta duas tabelas. A primeira tabela, ilustrada abaixo, contém informações sobre termos pesquisados e as métricas de funil (da coluna **ProductsClick** até a coluna **ProductsSold**), caso essa opção tenha sido selecionada.
 

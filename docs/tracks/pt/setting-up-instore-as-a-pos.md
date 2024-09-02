@@ -22,9 +22,7 @@ Antes de mais nada, verifique os pré-requisitos que sua loja precisa garantir. 
 
 ## Implementar o inStore como PDV
 
-<div class="alert alert-info">
-Embora seja possível implementar o inStore como PDV de outras maneiras, neste artigo vamos explicar como fazê-lo usando as features de Contra-franquia e Seller White Label. Isto porque essa é a arquitetura mais recomendada pela VTEX para esse tipo de solução.
-</div>
+>ℹ️ Embora seja possível implementar o inStore como PDV de outras maneiras, neste artigo vamos explicar como fazê-lo usando as features de Contra-franquia e Seller White Label. Isto porque essa é a arquitetura mais recomendada pela VTEX para esse tipo de solução.
 
 Estes são os passos para implementar o inStore como PDV:
 

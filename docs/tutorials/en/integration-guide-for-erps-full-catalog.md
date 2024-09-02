@@ -15,7 +15,7 @@ legacySlug: integration-guide-for-erps-full-catalog
 subcategory: 5fKgQZhrCw88ACy6Su6GUc
 ---
 
-<div class="alert alert-warning">This article is part of the <a href="https://help.vtex.com/tutorial/integration-guide-for-erps--3VuOwNLmb624ImooEIIkmO">ERP Integration Guide</a>.</div>
+>⚠️ This article is part of the [ERP Integration Guide](https://help.vtex.com/tutorial/integration-guide-for-erps--3VuOwNLmb624ImooEIIkmO).
 
 This document is intended to assist on the catalog integration (department, category, brand, images, fields, field values, SKUs activation) of the ERP for a store hosted in VTEX. In this type of integration most of the store's management is ERP.
 

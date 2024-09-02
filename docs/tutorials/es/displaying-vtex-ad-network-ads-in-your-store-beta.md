@@ -15,17 +15,13 @@ legacySlug: mostrar-anuncios-de-vtex-ad-network-en-tu-tienda-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
-<div class = "alert alert-info">
-<p>VTEX Ad Network se encuentra en fase beta, lo que significa que estamos trabajando para mejorarlo. Si ya eres cliente de VTEX y deseas adoptar esta funcionalidad para tu negocio, por favor, póngate en contacto con el <a href="https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Soporte Comercial</a>. Si aún no es cliente pero estás interesado(a) en esta solución, por favor, completa el <a href="https://vtex.com/co-es/contacto/">formulario de contacto</a>.</p>
-</div>
+>ℹ️ VTEX Ad Network se encuentra en fase beta, lo que significa que estamos trabajando para mejorarlo. Si ya eres cliente de VTEX y deseas adoptar esta funcionalidad para tu negocio, por favor, póngate en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Si aún no es cliente pero estás interesado(a) en esta solución, por favor, completa el [formulario de contacto](https://vtex.com/co-es/contacto/).
 
 [VTEX Ad Network (Beta)](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur) les permite a los retailers VTEX disponibilizar espacio publicitario para que las marcas promocionen productos en tu tienda. VTEX seleccionará anuncios de productos que ya sean parte de tu catálogo y tu tienda recibirá una comisión por cada clic en los anuncios de tu storefront.
 
 Para unirte a VTEX Ad Network y publicar anuncios en tu tienda, solo tienes que instalar la aplicación VTEX Ad Network para retailers.
 
-<div class="alert alert-warning">
-Por el momento, los retailers VTEX solo pueden disponibilizar inventario de anuncios en storefronts creados con <a href="https://help.vtex.com/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a>.
-</div>
+>⚠️ Por el momento, los retailers VTEX solo pueden disponibilizar inventario de anuncios en storefronts creados con [Store Framework](https://help.vtex.com/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework).
 
 ## Seguimiento de los resultados
 

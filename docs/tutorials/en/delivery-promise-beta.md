@@ -15,9 +15,7 @@ legacySlug: delivery-promise-beta
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://help.vtex.com/en/support">our Support</a>.
-</div>
+>ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://help.vtex.com/en/support">our Support</a>.
 
 **Delivery Promise (Beta)** is VTEX's new solution that allows customers to view only the products they can buy in their shopping experience, considering both the product availability and valid shipping methods for their delivery address.
 
@@ -25,9 +23,7 @@ With **Delivery Promise (Beta)**, your store can make a “delivery promise” t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l8HU2qVpsBg" title="VTEX Vision Spring &#39;24: Delivery Promises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="alert alert-danger">
-Currently, <b>Delivery Promise (Beta)</b> does not yet allow you to filter the product listing page by shipping time. To learn more about filters, see the <a href="#available-features">Available features</a> section.
-</div>
+>❗ Currently, **Delivery Promise (Beta)** does not yet allow you to filter the product listing page by shipping time. To learn more about filters, see the [Available features](#available-features) section.
 
 The content is organized as follows:
 
@@ -52,9 +48,7 @@ At this stage, **Delivery Promise (Beta)** allows your store's customers to filt
 * Shipping or pickup.
 * Pickup point of their choice.
 
-<div class = "alert alert-info">
-The filters mentioned above are native components of Intelligent Search. If you want to develop custom components for your store, please contact your development team or an <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners">implementation partner</a>.
-</div>
+>ℹ️ The filters mentioned above are native components of Intelligent Search. If you want to develop custom components for your store, please contact your development team or an [implementation partner](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners).
 
 ## Advantages
 
@@ -111,9 +105,7 @@ The merchant must ensure that the following product aspects are correctly config
 * Product count in the [inventory](https://help.vtex.com/en/tutorial/gerenciar-inventario--tutorials_139) for sales, unlimited inventory, or the option to display the product when sold out is activated.
 * [CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) templates for the store frontend.
 
-<div class = "alert alert-info">
-For more information, see the article <a href="https://help.vtex.com/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">Why is the product not visible on the website?</a>.
-</div>
+>ℹ️ For more information, see the article [Why is the product not visible on the website?](https://help.vtex.com/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
 
 ### 2. Does Delivery Promise (Beta) guarantee that all my products will be displayed on the product listing page?
 

@@ -22,9 +22,7 @@ A través de Google Shopping, puede mostrar al consumidor algunos de los atribut
 
 El conector de Google Shopping de la plataforma VTEX le permite hacer uso de este servicio de manera sencilla y eficiente. Solo tiene que completar los pasos de configuración descritos a continuación.
 
-<div class="alert alert-info">
-Para que la integración funcione correctamente, familiarícese con las <a href="https://support.google.com/google-ads/answer/6149970?hl=es-419">Políticas de anuncios de Shopping</a> y conozca cuáles son las condiciones requeridas por Google.
-</div>
+>ℹ️ Para que la integración funcione correctamente, familiarícese con las [Políticas de anuncios de Shopping](https://support.google.com/google-ads/answer/6149970?hl=es-419) y conozca cuáles son las condiciones requeridas por Google.
 
 | **SEPA MÁS** |
 | ---------- |

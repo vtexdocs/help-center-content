@@ -49,9 +49,7 @@ Ejemplo: un cliente desea buscar el término `bola`. Siguiendo la configuración
 * `bora` (cambiar 1 carácter)
 * `obla` (intercambiar 2 caracteres que estén uno al lado del otro)
 
-<div class ="alert alert-info">
-	<p>El <em>fuzzy</em> no considera los espacios en blanco. Esto quiere decir que, por ejemplo, <code>base ball</code> no se corregiría a <code>baseball</code>. Recomendamos usar <a href="https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV">sinónimos</a> en estos casos.</p>
-</div>
+>ℹ️ El *fuzzy* no considera los espacios en blanco. Esto quiere decir que, por ejemplo, `base ball` no se corregiría a `baseball`. Recomendamos usar [sinónimos](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) en estos casos.
 
 ### Resultado mínimo
 
@@ -62,9 +60,7 @@ En las búsquedas que contienen varios términos, se aplica la siguiente lógica
 Si no se devuelve la cantidad mínima de resultados con la autocorrección inicial, la búsqueda comienza a incluir resultados más amplios que contengan cualquiera de los términos buscados. Por ejemplo, cuando un usuario busca “zapatilla nike” pero el catálogo no tiene ningún producto con ese nombre, la búsqueda puede mostrar como resultado un producto que contenga solo “zapatilla” en el nombre.
 Si la búsqueda más amplia no devuelve la cantidad de resultados mínima, se repetirá la autocorrección nuevamente en cada uno de los términos.
 
-<div class= "alert alert-warning">
-<p>Las búsquedas que contienen varios términos son más eficientes cuando el cliente ordena los resultados por relevancia, ya que pueden devolver un número mayor de resultados más allá del contexto de búsqueda inicial. En el orden por relevancia también pueden priorizarse ítems relacionados con cada término. Por otro lado, cuando se aplican otros criterios, como precio o más vendidos, el orden de los resultados depende de los valores numéricos y no necesariamente prioriza ítems que contienen más palabras.</p>
-</div>
+>⚠️ Las búsquedas que contienen varios términos son más eficientes cuando el cliente ordena los resultados por relevancia, ya que pueden devolver un número mayor de resultados más allá del contexto de búsqueda inicial. En el orden por relevancia también pueden priorizarse ítems relacionados con cada término. Por otro lado, cuando se aplican otros criterios, como precio o más vendidos, el orden de los resultados depende de los valores numéricos y no necesariamente prioriza ítems que contienen más palabras.
 
 ### Límite de paginación
 
@@ -88,9 +84,7 @@ Ejemplo: se configuró que la especificación “color” se puede buscar y el p
 
 Se puede encontrar un producto realizando una búsqueda por caracteres especiales (`-` y `/`).
 
-<div class="alert alert-warning">
-	<p>La selección de los campos de búsqueda afecta las posibilidades de las <a href="https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0">reglas de merchandising</a>, ya que solo se pueden utilizar los campos que permiten búsquedas para configurar reglas. Por ejemplo, al definir solo el campo <code>SKUID</code> para búsquedas, no se podrá promover un <code>ProductID</code> o un <code>ProductRefID</code> utilizando reglas de merchandising.</p>
-</div>
+>⚠️ La selección de los campos de búsqueda afecta las posibilidades de las [reglas de merchandising](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0), ya que solo se pueden utilizar los campos que permiten búsquedas para configurar reglas. Por ejemplo, al definir solo el campo `SKUID` para búsquedas, no se podrá promover un `ProductID` o un `ProductRefID` utilizando reglas de merchandising.
 
 ### Definición y orden de los campos de filtro
 
@@ -104,9 +98,7 @@ Ejemplo: un administrador de la tienda configuró que el criterio “promoción�
 
 Para obtener más información sobre cómo personalizar el orden de los resultados de acuerdo con las necesidades de tu tienda, consulta el artículo [Configuración de relevancia](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
 
-<div class="alert alert-info">
-	<p>Al utilizar Intelligent Search, hay dos opciones que definirán el orden de tus colecciones. Si utilizas el comando <code>map=productClusterIds</code>, estás definiendo que el orden de tus colecciones será el predefinido por el administrador de la tienda, con su propio criterio de relevancia. Si eliges utilizar <code>productClusterNames</code>, estás definiendo que quieres que tus colecciones sigan los estándares de relevancia de Intelligent Search.</p>
-</div>
+>ℹ️ Al utilizar Intelligent Search, hay dos opciones que definirán el orden de tus colecciones. Si utilizas el comando `map=productClusterIds`, estás definiendo que el orden de tus colecciones será el predefinido por el administrador de la tienda, con su propio criterio de relevancia. Si eliges utilizar `productClusterNames`, estás definiendo que quieres que tus colecciones sigan los estándares de relevancia de Intelligent Search.
 
 ## Formas alternativas de búsqueda
 

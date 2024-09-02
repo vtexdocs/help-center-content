@@ -18,9 +18,7 @@ internalReference: 350780
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A implementação do Google Analytics do Checkout está disparando o evento de pageview uma vez por rastejador, mesmo que o rastejador não tenha a intenção de rastrear as informações de pageview.

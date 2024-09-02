@@ -47,9 +47,7 @@ A ausência do produto em um resultado de busca pode ser atribuída ao preenchim
 
 <blockquote><ui>1. No Admin VTEX, acesse <b>Catálogo > Todos os produtos</b>.</ui>
 
-<blockquote><ui><div class ="alert alert-warning">
-  Lojas que utilizam a página <b>Produtos e SKUS (Beta)</b>, devem verificar os campos de cadastro do produto acessando <b>Catálogo > Produtos e SKUS</b> no Admin VTEX. Saiba mais em <a href="https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By">Produtos e SKUS (Beta)</a>.
-</div></blockquote>
+<blockquote><ui>>⚠️ Lojas que utilizam a página **Produtos e SKUS (Beta)**, devem verificar os campos de cadastro do produto acessando **Catálogo > Produtos e SKUS** no Admin VTEX. Saiba mais em [Produtos e SKUS (Beta)](https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).</blockquote>
 
 <blockquote><ui>2. Localize o produto desejado e clique em <b>EDITAR</b>.</ui>
 
@@ -63,9 +61,7 @@ A ausência do produto em um resultado de busca pode ser atribuída ao preenchim
 
 <blockquote><ui>7. Acesse o site da loja, digite o termo desejado e verifique se os produtos exibidos no resultado da busca são iguais aos produtos disponíveis na página <b>Explicação da busca</b> do Intelligent Search (<b>Storefront > Intelligent Search > Explicação da busca</b>).</ui>
 
-<blockquote><ui><div class ="alert alert-warning">
-  Se o termo de busca estiver presente no nome ou descrição do produto, mas o produto for de uma marca diferente do termo especificado na busca, prossiga com as demais etapas para solucionar o problema.
-</div></blockquote>
+<blockquote><ui>>⚠️ Se o termo de busca estiver presente no nome ou descrição do produto, mas o produto for de uma marca diferente do termo especificado na busca, prossiga com as demais etapas para solucionar o problema.</blockquote>
 
 ### Modificação do filtro da busca no Rewriter
 
@@ -123,9 +119,7 @@ internal {
 }
 ```
 
-<blockquote><ui><div class ="alert alert-warning">
-  O valor <i>ft</i> (full text) ao invés de <i>b</i> (brand) no parâmetro <i>map</i> indica que produtos em que o termo <i>Pendleton</i> esteja presente no nome ou na descrição também passarão a ser exibidos na busca.
-</div></blockquote>
+<blockquote><ui>>⚠️ O valor <i>ft</i> (full text) ao invés de <i>b</i> (brand) no parâmetro <i>map</i> indica que produtos em que o termo <i>Pendleton</i> esteja presente no nome ou na descrição também passarão a ser exibidos na busca.</blockquote>
 
 <blockquote><ui>7. Clique na seta do GraphiQL IDE (ao lado de <b>GraphiQL</b>) para realizar a atualização do filtro de busca. O novo padrão de filtro de busca para o termo será confirmada pela exibição da seguinte mensagem no campo de resultados do GraphiQL IDE.</ui>
 
@@ -154,8 +148,7 @@ internal {
 
 <blockquote><ui>8. Acesse o site da loja, digite o termo desejado e verifique se os produtos exibidos no resultado da busca são iguais aos produtos disponíveis na página <b>Explicação da busca</b> do Intelligent Search (<b>Storefront > Intelligent Search > Explicação da busca</b>).</ui>
 
-<blockquote><ui><div class ="alert alert-warning">
-  Se o termo de busca estiver relacionado a uma marca que não existe mais em seu site, será necessário remover a rota interna de busca dentro do app Rewriter conforme descrito na solução abaixo.</div></blockquote>
+<blockquote><ui>>⚠️ Se o termo de busca estiver relacionado a uma marca que não existe mais em seu site, será necessário remover a rota interna de busca dentro do app Rewriter conforme descrito na solução abaixo.</blockquote>
 
 ### Remoção da rota interna de busca no Rewriter
 

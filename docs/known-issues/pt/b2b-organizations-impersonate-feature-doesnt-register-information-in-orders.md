@@ -18,9 +18,7 @@ internalReference: 1056736
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As organizações B2B têm um recurso nativo para se passar por outros membros da organização ou do centro de custo.

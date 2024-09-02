@@ -52,9 +52,7 @@ Confira nossos artigos sobre a visão geral de cada menu do seu Admin VTEX, para
 - [Configurações de usuário](https://help.vtex.com/pt/v4/docs/visao-geral-configuracoes-usuario--1qYAvOTZBVYMosJ7tQm3Ry)
 - [Faturas](https://help.vtex.com/pt/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC)
 
-<div class="alert alert-info">
-Também é possível utilizar a barra de busca na parte superior do Admin VTEX para encontrar páginas específicas no menu lateral. 
-</div>
+>ℹ️ Também é possível utilizar a barra de busca na parte superior do Admin VTEX para encontrar páginas específicas no menu lateral.
 
 ### Central de Informações
 
@@ -92,9 +90,7 @@ Tipo de feedback (selecione um ou mais campos):
 
 **Uma captura de tela nos ajudará a entender melhor seu feedback (opcional):** campo opcional para adicionar capturas de tela ou documentos que possam nos auxiliar na compreensão do seu feedback.
 
-<div class = "alert alert-info">
-Este processo de envio de feedback não deve ser utilizado para criar um ticket ou solicitação de suporte técnico na VTEX.
-</div>
+>ℹ️ Este processo de envio de feedback não deve ser utilizado para criar um ticket ou solicitação de suporte técnico na VTEX.
 
 ### Configurações da conta e do usuário
 

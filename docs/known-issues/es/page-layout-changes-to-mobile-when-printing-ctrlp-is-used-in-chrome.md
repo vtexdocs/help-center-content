@@ -18,9 +18,7 @@ internalReference: 454680
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 El diseño de la página cambia a la versión móvil cuando se activa la impresión (CTRL+P) dos veces en Google Chrome Desktop.
 

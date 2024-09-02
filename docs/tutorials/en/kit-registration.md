@@ -70,9 +70,7 @@ Example: A kit has two components. Consider Component 1 has 30 units in stock, w
 
 Kit components can be in different stocks, as long as they are shipped from the same dock. If they do not leave through the same dock, the entire kit becomes unavailable. 
 
-<div class="alert alert-info">
-<p>This is not applicable to the look kit, since it may be sold with the components that are still in stock, without the need for all the components to be in stock.</p>
-</div>
+>ℹ️ This is not applicable to the look kit, since it may be sold with the components that are still in stock, without the need for all the components to be in stock.
 
 ## Price
 

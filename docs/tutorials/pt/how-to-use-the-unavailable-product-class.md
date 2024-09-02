@@ -43,9 +43,7 @@ Você pode customizar seu arquivo CSS para que essa classe exiba, por exemplo, o
 
 ## Determinar a qual especificação será atribuída a classe
 
-<div class="alert alert-warning">
-A classe de produto indisponível apenas é atribuída à especificação que aparece <b>por último</b> na lista de especificações do SKU, no módulo Catalog.
-</div>
+>⚠️ A classe de produto indisponível apenas é atribuída à especificação que aparece **por último** na lista de especificações do SKU, no módulo Catalog.
 
 Por exemplo, se a especificação `Tamanho` aparecer por último, ela receberá a classe de indisponibilidade.
 

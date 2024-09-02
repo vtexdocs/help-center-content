@@ -17,9 +17,7 @@ subcategory: 22TaEgFhwE6a6CG2KASYkC
 
 Para garantir a conformidade dos pagamentos dos fornecedores, esse artigo contém informações referentes aos procedimentos de contas a pagar das empresas VTEX Brasil.
 
-<div class="alert alert-info">
-Os documentos e informações que não estiverem adequados à política da VTEX serão devolvidos para as devidas providências de adequação.
-</div>
+>ℹ️ Os documentos e informações que não estiverem adequados à política da VTEX serão devolvidos para as devidas providências de adequação.
 
 - Não são aceitas notas fiscais emitidas e recebidas após o dia 20 de cada mês. O solicitante deve garantir que o fornecedor cancele a cobrança e reemita na data entre dia 1 até dia 20 do mês seguinte.  
 - Os pagamentos são realizados até o dia 26 de cada mês.    

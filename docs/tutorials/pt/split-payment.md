@@ -15,9 +15,7 @@ legacySlug: split-de-pagamento
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning">
-Esta é uma solução para pagamentos em contextos de marketplace.
-</div>
+>⚠️ Esta é uma solução para pagamentos em contextos de marketplace.
 
 Para garantir que nossos clientes de [marketplace](https://help.vtex.com/pt/tutorial/o-que-e-um-marketplace--680lLJTnmEAmekcC0MIea8) dividam o pagamento entre todos os [sellers](https://help.vtex.com/pt/tutorial/what-is-a-seller) automaticamente, estabeleçam uma comissão baseada em um percentual fixo e permaneçam atuando conforme as regulamentações em vigor, a VTEX oferece o __Split de pagamentos__.
 
@@ -26,9 +24,7 @@ Veja a seguir dois exemplos de cenários de aplicação de split de pagamentos o
 1. Quando o marketplace é responsável por processar o pagamento da compra, a VTEX divide automaticamente esse pagamento para que cada beneficiário receba a sua parte diretamente na própria conta bancária, realizando assim o [Split de recebíveis](https://help.vtex.com/pt/tutorial/split-payment#split-de-recebiveis).
 2. Quando o carrinho envolve sellers que são responsáveis por processar o seu próprio meio de pagamento (sem depender do marketplace), a VTEX cria diferentes transações de pagamento para o Marketplace e os sellers, efetuando o [Split de transação](https://help.vtex.com/pt/tutorial/split-payment#split-de-transacao).
 
-<div class="alert alert-warning">
-A distribuição dos valores de uma compra sempre é realizada conforme os acordos de percentual de comissão pré-definidos entre o marketplace e os sellers.
-</div>
+>⚠️ A distribuição dos valores de uma compra sempre é realizada conforme os acordos de percentual de comissão pré-definidos entre o marketplace e os sellers.
 
 Confira abaixo mais detalhes sobre cada um dos modelos de split de pagamentos:
 

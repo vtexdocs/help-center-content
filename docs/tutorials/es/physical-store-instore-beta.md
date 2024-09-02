@@ -15,9 +15,7 @@ legacySlug: tienda-fisica-instore-beta
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---
 
-<div class ="alert alert-info">
-<p>Esta funcionalidad se encuentra en etapa Beta, lo que significa que estamos trabajando para mejorarla. En caso de duda, póngase en contacto con <a href="https://support.vtex.com/hc/pt-br/requests">nuestro Soporte</a>.</p>
-</div>
+>ℹ️ Esta funcionalidad se encuentra en etapa Beta, lo que significa que estamos trabajando para mejorarla. En caso de duda, póngase en contacto con [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests).
 
 **Tienda física** es una de las páginas de **Configuración de la tienda** del Admin VTEX que muestra una lista de tiendas físicas registradas en la aplicación [inStore](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). En ella, puedes gestionar la información de todas las tiendas físicas de la cuenta.
 
@@ -77,9 +75,7 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 * **Política comercial:** [política comercial](https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será aplicada na loja física. Campo obrigatório.
 * **Punto de recogida:** [punto de recogida](https://help.vtex.com/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R) registrado para esta tienda física, donde los clientes recogen sus pedidos.
 
-<div class ="alert alert-info">
-<p>Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.</p> 
-</div>
+>ℹ️ Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.
 
 ## Buscar tienda
 

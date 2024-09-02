@@ -18,9 +18,7 @@ internalReference: 416638
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunas especificaciones tienen un uso interno o escenarios que necesitan ser ocultados, pero la tienda necesita esa especificación para propósitos de la búsqueda, como usarlo para Reglas de Mercadeo.

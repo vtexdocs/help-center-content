@@ -18,9 +18,8 @@ subcategory: oMrzcOMVbBpH0reeMFHFg
 O conjunto de dados de navegação opera com duas tabelas principais: `pageviews` e `sessions`. Uma `pageview` refere-se a cada nova página acessada pelo usuário durante a navegação na loja, enquanto uma `session` é definida como o conjunto de todos os `pageviews` realizados por um usuário em uma única visita.  
 Cada `session` permanece ativa até que não ocorra uma nova `pageview` por um período de 30 minutos.  
 
-<div class="alert alert-warning">
-O conjunto de dados de navegação não captura todos os tipos de eventos que ocorrem durante a navegação.</br>
-Ex: cliques específicos, eventos especiais e interações com o mini carrinho.</br></div>
+>⚠️ O conjunto de dados de navegação não captura todos os tipos de eventos que ocorrem durante a navegação.</br>
+> Ex: cliques específicos, eventos especiais e interações com o mini carrinho.</br>
 
 - [Características dos dados de navegação](#caracteristicas-dos-dados-de-navegacao)
 - [Tabela sessions](#tabela_sessions)
@@ -37,10 +36,8 @@ Ex: cliques específicos, eventos especiais e interações com o mini carrinho.<
 | Histórico | Os dados são mantidos por dois anos, a partir de 2022 para clientes que já utilizam a plataforma VTEX. |
 | Menor intervalo de atualização possível | Uma hora. |  
 
-<div class="alert alert-warning">
-  O <i>script</i> em um site não é capaz de capturar dados de sessões que se originam em marketplaces, aplicativos ou implementações <i>headless</i>, nas quais não gerenciamos o <i>frontend</i>. Além disso, personalizações realizadas no <i>frontend</i> da loja podem interferir ou mesmo inativar o <i>script</i> levando à falta de registro de algumas sessões, ou taxa de conversão observada no dashboard.</br>
-Para minimizar o impacto no desempenho da loja, o <i>script</i> é configurado para ser o último elemento a carregar na página, o que significa que sessões muito breves podem não ser capturadas.</br>
-</div>
+>⚠️ O <i>script</i> em um site não é capaz de capturar dados de sessões que se originam em marketplaces, aplicativos ou implementações <i>headless</i>, nas quais não gerenciamos o <i>frontend</i>. Além disso, personalizações realizadas no <i>frontend</i> da loja podem interferir ou mesmo inativar o <i>script</i> levando à falta de registro de algumas sessões, ou taxa de conversão observada no dashboard.</br>
+> Para minimizar o impacto no desempenho da loja, o <i>script</i> é configurado para ser o último elemento a carregar na página, o que significa que sessões muito breves podem não ser capturadas.</br>
 
 ## Tabela sessions
 

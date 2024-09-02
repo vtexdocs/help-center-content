@@ -17,9 +17,7 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 O [Pix](https://vtex.com/pt-br/blog/produto/pix-no-e-commerce/ "Pix") é um meio de pagamento eletrônico específico do Brasil. Por meio dele, é possível o envio e o recebimento instantâneo de pagamentos entre diferentes bancos e instituições financeiras, 24h por dia, sete dias por semana.
 
-<div class="alert alert-warning">
-O Pix <strong>não é</strong> um meio de pagamento suportado por clientes marketplace que realizem split de transação.
-</div>
+>⚠️ O Pix **não é** um meio de pagamento suportado por clientes marketplace que realizem split de transação.
 
 Para maiores informações sobre o PIX, acesse o [PIX FAQ](https://help.vtex.com/pt/tutorial/pix-faq--3lx7zCU2lQroTEBCYKYbo3 "o FAQ sobre as principais dúvidas relacionadas ao Pix"). 
 
@@ -27,9 +25,7 @@ Para maiores informações sobre o PIX, acesse o [PIX FAQ](https://help.vtex.com
 
 Para receber pagamentos por meio do PIX na VTEX, você precisa ter cadastrado um provedor capaz de processar este meio de pagamento e realizar a configuração descrita abaixo:
 
-<div class="alert alert-warning">
-  Caso o conector a ser escolhido (no <b>Passo 8.</b>) ainda não estiver cadastrado em sua loja, será exibida a mensagem “(Configurar)” após o nome do conector. Nesta situação, escolha outro conector disponível ou realize o seu cadastro. Para saber mais, acesse <a href="https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#">Cadastrar provedores de pagamento e antifraude</a>.
-</div>
+>⚠️ Caso o conector a ser escolhido (no **Passo 8.**) ainda não estiver cadastrado em sua loja, será exibida a mensagem “(Configurar)” após o nome do conector. Nesta situação, escolha outro conector disponível ou realize o seu cadastro. Para saber mais, acesse [Cadastrar provedores de pagamento e antifraude](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Na aba __Condições de pagamento__, clique no botão __+__.

@@ -18,9 +18,7 @@ internalReference: 583669
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao criar um cartão-presente, configuramos se ele é recarregável ou não. Entretanto, o impedimento de adicionar crédito a um cartão-presente não recarregável acontece apenas através da IU, através da API é possível adicionar crédito mesmo que o cartão-presente não seja recarregável.

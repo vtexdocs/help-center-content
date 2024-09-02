@@ -18,9 +18,7 @@ internalReference: 268042
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Eventualmente, o XML pode retornar um erro 500, o que acontece principalmente em arquivos XML grandes.

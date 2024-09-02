@@ -18,9 +18,7 @@ internalReference: 383911
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Às vezes, as bandeiras de promoção e os descontos são exibidos no PLP e no PLP após a data de expiração da promoção. Isso acontece porque a promoção não aciona a indexação do produto, resultando na exibição incorreta do desconto.

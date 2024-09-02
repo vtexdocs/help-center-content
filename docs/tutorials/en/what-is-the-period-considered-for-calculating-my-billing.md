@@ -22,6 +22,4 @@ So, the period considered is always from the first to the last day of a given mo
 ## Example 
 An invoice is issued on 03/01, referring to "February". It will take into account all orders that got the __approved__ status in the period between 02/01 and 02/28.
 
-<div class="alert alert-warning">
-If you're charged before your store goes live, note that it relates to the <strong>monthly fee</strong> of your environment maintenance. This value is charged because even though the store is not in production it is already consuming VTEX structure.
-</div>
+>⚠️ If you're charged before your store goes live, note that it relates to the **monthly fee** of your environment maintenance. This value is charged because even though the store is not in production it is already consuming VTEX structure.

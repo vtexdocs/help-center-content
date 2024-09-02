@@ -18,9 +18,7 @@ internalReference: 909137
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao usar o recurso de substituição de pedidos, a interface do usuário do checkout mostra "Presentes escolhidos!" mesmo que não haja nenhuma promoção de presentes configurada.

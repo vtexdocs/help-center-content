@@ -18,9 +18,7 @@ internalReference: 1079981
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os pedidos criados com entrega programada para o mesmo dia em que foram feitos retornam `items.deliverySlaInMinutes: null` dentro do objeto do carrinho.

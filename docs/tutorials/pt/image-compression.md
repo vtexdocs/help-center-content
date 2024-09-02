@@ -32,9 +32,7 @@ Fazemos uma conversão automática para o formato [WebP](https://developers.goog
 
 O uso do WebP pode gerar um ganho de 1 a 2 segundos no tempo de carregamento das páginas, variando conforme o layout. Confira a seguir como funciona a otimização de imagens em cada formato.
 
-<div class="alert alert-info">
-  <p>Navegadores que ainda não são <a href="https://developers.google.com/speed/webp/faq?hl=pt-br#which_web_browsers_natively_support_webp">compatíveis com o formato WebP</a> e serviços como integrações e marketplaces sempre recebem imagens não convertidas, em qualquer formato. Arquivos no formato GIF não passam pela conversão para WebP.</p>
-</div>
+>ℹ️ Navegadores que ainda não são [compatíveis com o formato WebP](https://developers.google.com/speed/webp/faq?hl=pt-br#which_web_browsers_natively_support_webp) e serviços como integrações e marketplaces sempre recebem imagens não convertidas, em qualquer formato. Arquivos no formato GIF não passam pela conversão para WebP.
 
 ## PNG
 

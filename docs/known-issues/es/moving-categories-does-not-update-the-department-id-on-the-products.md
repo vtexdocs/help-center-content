@@ -18,9 +18,7 @@ internalReference: 316694
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Mover categorías en el árbol de categorías, por ejemplo mover un departamento a otra categoría no actualiza el ID del departamento en los Productos.

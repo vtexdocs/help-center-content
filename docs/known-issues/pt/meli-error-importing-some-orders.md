@@ -18,9 +18,7 @@ internalReference: 664351
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 identificamos que estamos fazendo a divisão por tipo de listagem, portanto, quando tentamos a divisão, e é Fulfillment, não estamos deixando que isso aconteça.

@@ -15,11 +15,13 @@ legacySlug: testing-webservice-using-soapui
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---
 
-<div class="alert alert-danger"><p>Attention: Only SOAP methods related to the <strong>catalog</strong> are valid.</p>
-<p><strong> All the other Web Service methods will be deprecated as of 02/28/2017.</strong></p>
-<p>Use the equivalent REST APIs, available in our <a href="//help.vtex.com/developer-docs/">Developer Docs</a>.</p></div>
+>❗ Attention: Only SOAP methods related to the **catalog** are valid.
+>
+> ** All the other Web Service methods will be deprecated as of 02/28/2017.**
+>
+> Use the equivalent REST APIs, available in our [Developer Docs](//help.vtex.com/developer-docs/).
 
-<div class="alert alert-warning">The configurations documented in this article take place in an environment external to VTEX, therefore they may be discontinued without prior notice.</div>
+>⚠️ The configurations documented in this article take place in an environment external to VTEX, therefore they may be discontinued without prior notice.
 
 SoapUI is a tool that can be used to simulate the connection and execution of methods of a given webservice without having to do this using programming alone.
 
@@ -44,6 +46,8 @@ Log in using the data of the webservice desired. After logging in, you will view
 3. Locate the button **Auth** and repeat the authentication before executing the method;
 4. Execute the method.
 
-<div class="alert alert-danger"><p>Atenção: only the SOAP methods relevent to the <strong>catalog</strong> are valid.</p>
-<p><strong>All other methods are deprecated.</strong></p>
-<p>Use the equivalent REST APIs avilable in our <a href="//help.vtex.com/developer-docs/">Developer Docs</a>.</p></div>
+>❗ Atenção: only the SOAP methods relevent to the **catalog** are valid.
+>
+> **All other methods are deprecated.**
+>
+> Use the equivalent REST APIs avilable in our [Developer Docs](//help.vtex.com/developer-docs/).

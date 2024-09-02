@@ -19,9 +19,7 @@ subcategory:
 
 Para acceder a esta sección, haz clic en tu **avatar de perfil**, que se puede identificar por la primera letra de tu dirección de email, y luego haz clic en **Facturación**. Selecciona la pestaña que deseas visitar, como **Contratos, Facturas, Datos de registro y Contactos de facturación**.
 
-<div class="alert alert-info">            
-Solo los usuarios con perfil de acceso <a href="https://help.vtex.com/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance">Finance</a>, <a href="https://help.vtex.com/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access">Finance Full Access</a> o con recursos de <a href="https://help.vtex.com/es/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy">Billing</a> vinculadas a su Perfil de acceso tendrán acceso a esta sección del VTEX Admin.         
-</div>            
+>ℹ️ Solo los usuarios con perfil de acceso [Finance](https://help.vtex.com/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance), [Finance Full Access](https://help.vtex.com/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access) o con recursos de [Billing](https://help.vtex.com/es/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy) vinculadas a su Perfil de acceso tendrán acceso a esta sección del VTEX Admin.            
 
 ![Admin v4 Faturas menu ES](https://images.ctfassets.net/alneenqid6w5/6EzhdPvM8Foexk2GJUZ3KA/369081b189fa73fa6f87aa849e21ec58/Admin_v4_Faturas_menu_ES.jpg)
 

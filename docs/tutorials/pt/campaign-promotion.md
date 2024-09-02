@@ -26,9 +26,7 @@ Antes de criar uma promoção de campanha, você precisa criar uma audiência de
 
 Exemplo: se você configurar uma [audiência de campanha](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K) cujo público alvo é de clientes que colocam o produto A no carrinho, na promoção de campanha você pode configurar que esse público vai receber um desconto sobre o produto B.
 
-<div class="alert alert-info">
-  <p>Audiências de campanha e suas promoções são válidas apenas para a conta principal da loja. Contas de sellers não apresentam essa opção. Caso sejam criadas em uma conta de sellers, a audiência de campanha ou a promoção de campanha não serão ativadas.</p>
-</div>
+>ℹ️ Audiências de campanha e suas promoções são válidas apenas para a conta principal da loja. Contas de sellers não apresentam essa opção. Caso sejam criadas em uma conta de sellers, a audiência de campanha ou a promoção de campanha não serão ativadas.
 
 Uma vez definida a [audiência de campanha](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K), acesse o Admin e siga os passos abaixo para criar uma promoção de campanha.
 
@@ -74,9 +72,7 @@ Veja abaixo a descrição de todos os campos que você precisa preencher para cr
   - **Frete grátis**: desconto total sobre o valor do frete.
   - **Brinde**: desconto total sobre o valor do produto definido como brinde. Você pode selecionar um ou mais SKUs como brinde ou mais de uma unidade do mesmo SKU. Para definir mais de um brinde, selecione a opção **Ativar multiplicador de brindes** e defina a quantidade desejada. Saiba mais sobre essa opção neste [artigo](https://help.vtex.com/pt/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK#).
 
-  <div class = "alert alert-info">
-  <p>O produto <b>Brinde</b> também precisa ter um preço cadastrado, mesmo sendo dado de graça ao cliente.</p>
- </div>
+  >ℹ️ O produto **Brinde** também precisa ter um preço cadastrado, mesmo sendo dado de graça ao cliente.
 
   - **Desconto nominal baseado em fórmula**: desconto é calculado com a soma dos preços de produtos (total), com o frete (freight) e com o percentual de desconto desejado. É importante destacar que o frete implementado na fórmula será o menor disponível para o pedido, independente da seleção do cliente. O separador decimal deve ser sempre o ponto. Exemplo: o desconto será de 30% do valor do produto + valor do frete. Logo, a fórmula deve ser preenchida da seguinte maneira: `((total + freight) * 0.3)`.
   - **Valor fidelidade nominal**: crédito que será adicionado no programa de fidelidade da loja. 
@@ -103,9 +99,7 @@ Nesta seção, é possível definir para quais sellers a promoção será aplica
 
 Para que a promoção seja válida para todos os sellers, deixe a seleção vazia.
 
-<div class = "alert alert-warning">
-  <p><b>Atenção:</b> não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:</p><ol>1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.</ol><ol>2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.</ol>
-</div>
+>⚠️ **Atenção:** não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.
 
 #### Política Comercial
 
@@ -136,9 +130,7 @@ Veja um exemplo de preenchimento abaixo. Nesse caso, participam da promoção to
 
 Nos campos **Produtos** e **SKUs**, existe a opção de fazer o upload de um arquivo **.txt** com um ID de produto ou de SKU por linha, em vez de selecionar um produto ou um SKU de cada vez. Para isso, você precisa clicar em **Escolher arquivo** e selecionar o arquivo **.txt** desejado.
 
-<div class="alert alert-warning">
-  <p>Se você selecionar <b>Aplicar aos seguintes produtos</b> e não preencher nenhum dos critérios de seleção, a promoção não será cadastrada e a mensagem <b>Defina os produtos elegíveis ou aplique a todos os produtos</b> será exibida. Nesse caso, você deve retornar e preencher os critérios de seleção ou optar por <b>Aplicar a todos os produtos</b>.</p>
-</div>
+>⚠️ Se você selecionar **Aplicar aos seguintes produtos** e não preencher nenhum dos critérios de seleção, a promoção não será cadastrada e a mensagem **Defina os produtos elegíveis ou aplique a todos os produtos** será exibida. Nesse caso, você deve retornar e preencher os critérios de seleção ou optar por **Aplicar a todos os produtos**.
 
 Para serem válidos na promoção, os produtos precisam atender a todas as condições cadastradas nesta seção.
 

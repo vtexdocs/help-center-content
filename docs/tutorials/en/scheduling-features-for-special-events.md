@@ -59,9 +59,7 @@ As with the promotion, you can schedule a tax while you are creating it. To sche
 
 Content scheduling via Site Editor can be done either while [creating](https://help.vtex.com/en/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#creating-content) or [editing](https://help.vtex.com/en/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#editing-content) a block. 
 
-<div class="alert alert-warning">
-  <p>Content scheduling is only available for stores developed with <a href="https://vtex.com/us-en/store-framework/">VTEX IO</a>.</p>
-</div>
+>⚠️ Content scheduling is only available for stores developed with [VTEX IO](https://vtex.com/us-en/store-framework/).
 
 To schedule content, follow the steps below:
 

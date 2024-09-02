@@ -18,9 +18,7 @@ internalReference: 1046372
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao tentar configurar regras de validação de matriz no CMS Headless, como itens de matriz mínimos e máximos, os erros de validação não são mostrados ao usuário e é possível salvar o esquema sem passar pela validação.

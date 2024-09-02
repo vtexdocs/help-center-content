@@ -16,15 +16,11 @@ trackSlugES: instore-primeros-pasos-y-configuracion
 
 VTEX Sales App es uno de los principales productos de VTEX para las operaciones de [comercio unificado](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). Es una aplicación que permite a tu tienda ofrecer una verdadera experiencia <i>omnichannel</i>, integrando perfectamente tus canales <i>online</i> y físicos y poniendo a tus clientes en el centro del negocio.
 
-<div class="alert alert-info">
-<p>Comprueba que tu tienda cumple todos los <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u">requisitos para utilizar VTEX Sales App</a> antes de empezar a configurarla.</p>
-</div>
+>ℹ️ Comprueba que tu tienda cumple todos los [requisitos para utilizar VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u) antes de empezar a configurarla.
 
 Para utilizar VTEX Sales App, debes seguir los pasos descritos a continuación en tu cuenta principal.
 
-<div class="alert alert-warning">
-<p> No es necesario instalar o configurar VTEX Sales App en las cuentas franquicia que representan tiendas físicas. Solo debes realizar el procedimiento descrito en este artículo en la cuenta principal de la marca.</p>
-</div>
+>⚠️ No es necesario instalar o configurar VTEX Sales App en las cuentas franquicia que representan tiendas físicas. Solo debes realizar el procedimiento descrito en este artículo en la cuenta principal de la marca.
 
 ## Instalar VTEX Sales App
 
@@ -68,9 +64,7 @@ Si decides `Saltar este paso`, se creará una tienda ficticia con fines de prueb
 
 Es necesario registrar un email y un nombre que se utilizarán como credenciales de inicio de sesión del vendedor. Haz clic en `Confirmar`.
 
-<div class="alert alert-warning">
-<p>El email registrado en esta página <strong>no</strong> puede ser un email ya en uso en el Admin de la plataforma VTEX. Utiliza los emails de vendedores que no tienen acceso al Admin.</p>
-</div>
+>⚠️ El email registrado en esta página **no** puede ser un email ya en uso en el Admin de la plataforma VTEX. Utiliza los emails de vendedores que no tienen acceso al Admin.
 
 En esta etapa, debes registrar solo a uno de tus vendedores. Después de realizar la configuración básica, puedes [añadir otros vendedores](https://help.vtex.com/pt/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
 

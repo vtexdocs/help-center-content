@@ -35,9 +35,7 @@ En el screenshot de las métricas arriba, podemos ver la siguiente información:
 - Y el mismo día de la semana pasada, también hasta las 20h50, hubo 1856 pedidos;
 - Finalmene, en relación a un año atrás, hubo un incremento expresivo en el número de pedidos: el mismo día del año pasado, hasta la misma hora, fueron 1425 pedidos, contra los 2464 de este año.
 
-<div class="alert alert-info">
-El cálculo de pedidos realizados en el <b>año pasado</b> se hace restando 52 semanas del día actual. De esta forma, se mantiene el día de la semana. Por ejemplo: el día 24/noviembre/2017 se comparará con el día 25/noviembre/2016, donde ambas fechas son el viernes.
-</div>
+>ℹ️ El cálculo de pedidos realizados en el **año pasado** se hace restando 52 semanas del día actual. De esta forma, se mantiene el día de la semana. Por ejemplo: el día 24/noviembre/2017 se comparará con el día 25/noviembre/2016, donde ambas fechas son el viernes.
 
 El ranking ubicado en la esquina derecha de la barra con esos datos muestra la posición de la tienda entre todas las tiendas VTEX, con la métrica al lado indicando la evolución entre ayer y hoy.
 

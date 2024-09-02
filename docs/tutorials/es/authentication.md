@@ -35,13 +35,9 @@ Es necesario configurar el método de autenticación que se ofrecerá en cada co
 | Google | El usuario inicia sesión utilizando su cuenta de Google. Consulta la guía [Configurar inicio de sesión con Facebook y Google](https://help.vtex.com/es/tutorial/configurar-login-com-facebook-e-google--tutorials_513) para más detalles. | Se puede activar | Se puede activar |
 | Integración con otros proveedores de identidad | El usuario puede iniciar sesión utilizando su cuenta de otros proveedores de identidad externos a partir de una integración. Consulta la guía para desarrolladores [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide) para obtener más detalles. | Se puede activar utilizando el protocolo OAuth.  Consulta la guía para desarrolladores [Webstore (OAuth 2.0)](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2) para obtener más detalles. | Se puede activar utilizando o protocolo SAML. Consulta la guía para desarrolladores [Admin (SAML 2.0)](https://developers.vtex.com/docs/guides/login-integration-guide-admin-saml2) para obtener más detalles. |
 
-<div class="alert alert-info">
-  <p>Al menos una de las opciones de inicio de sesión de la tabla anterior debe estar activa en la tienda virtual.</p>
-</div>
+>ℹ️ Al menos una de las opciones de inicio de sesión de la tabla anterior debe estar activa en la tienda virtual.
 
-<div class="alert alert-warning">
-  <p>Para acceder al Admin VTEX es necesario tener un <a href="https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512">usuario</a> administrativo registrado. Los <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">roles</a> relacionados con el usuario y los permisos propios de dicho rol determinan los <a href="https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3">recursos</a> que ese usuario puede utilizar en el Admin.</p>
-</div>
+>⚠️ Para acceder al Admin VTEX es necesario tener un [usuario](https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512) administrativo registrado. Los [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) relacionados con el usuario y los permisos propios de dicho rol determinan los [recursos](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) que ese usuario puede utilizar en el Admin.
 
 ### Activar formas de inicio de sesión
 

@@ -26,9 +26,7 @@ Siga os passos abaixo para criar uma nova audiência de campanha:
 5. Preencha os campos descritos na seção [Criar novo público-alvo](#criar-novo-publico-alvo).
 6. Clique em `Salvar`.
 
-<div class="alert alert-warning">
-  <p>Após criar uma audiência de campanha, é preciso associá-la a uma promoção de campanha para ter efeito. Siga os passos indicados no guia <a href="https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume">Criar promoção de campanha</a>.</p>
-</div>
+>⚠️ Após criar uma audiência de campanha, é preciso associá-la a uma promoção de campanha para ter efeito. Siga os passos indicados no guia [Criar promoção de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume).
 
 ## Dados gerais
 
@@ -45,10 +43,9 @@ Ao criar uma nova audiência de campanha, em **Quais os dados gerais desta audi�
     * **Data Fim:** data de fim do agendamento da audiência de campanha, a partir da qual a audiência de campanha será válida.
     * **Hora Fim:** horário de fim do agendamento da audiência de campanha, a partir do qual audiência de campanha será válida.
 
-<div class="alert alert-warning">
-<p>Para agendar uma audiência de campanha, você precisa inserir <strong>Data Início</strong> ou <strong>Hora Início</strong> posteriores à data ou horário atual.</p>
-<p>O fuso horário considerado pelo sistema é o mesmo do dispositivo do usuário que criou a audiência de campanha – não há ajuste em relação a fusos horários diferentes.</p>
-</div>
+>⚠️ Para agendar uma audiência de campanha, você precisa inserir **Data Início** ou **Hora Início** posteriores à data ou horário atual.
+>
+> O fuso horário considerado pelo sistema é o mesmo do dispositivo do usuário que criou a audiência de campanha – não há ajuste em relação a fusos horários diferentes.
 
 ## Criar novo público-alvo
 
@@ -102,9 +99,7 @@ Exemplo: participam do público-alvo os itens cuja marca é __Nike__, conforme i
 * **O CEP de entrega deve Incluir / Excluir de __ até __:** permite incluir ou excluir intervalos de CEPs para envio de pedidos. A audiência de campanha será ativada caso o CEP atenda à regra configurada no público-alvo.
 * **Afiliados:** permite selecionar [afiliados](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) a partir de uma lista. A audiência de campanha será ativada se a compra for realizada em um marketplace dos afiliados selecionados.
 
-  <div class="alert alert-warning">
-    <p>A opção <strong>Afiliados</strong> se aplica somente se o afiliado for uma loja VTEX.</p>
-  </div>
+  >⚠️ A opção **Afiliados** se aplica somente se o afiliado for uma loja VTEX.
 
 * **utm_source:** permite selecionar a [utm_source](https://help.vtex.com/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium--2wTz7QJ8KUG6skGAoAQuii) desejada ou criar uma nova para vincular à audiência de campanha. A audiência de campanha será ativada caso a navegação do cliente seja realizada com a utm_source correspondente a qualquer um dos valores cadastrados. É importante destacar que o cliente pode inserir apenas uma utm_source no checkout.
 * **utm_campaign:** permite selecionar a [utm_campaign](https://help.vtex.com/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium--2wTz7QJ8KUG6skGAoAQuii) desejada ou criar uma nova para vincular à audiência de campanha. O desconto será concedido caso a navegação seja realizada com a utm_campaign com o valor cadastrado.
@@ -112,9 +107,7 @@ Exemplo: participam do público-alvo os itens cuja marca é __Nike__, conforme i
 * **Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente:** a audiência de campanha será ativada somente após o cliente selecionar a forma de envio do pedido.
 * **Meio de pagamento:** permite selecionar os meios de pagamento que serão incluídos no público-alvo. A audiência de campanha será ativada se a forma de pagamento escolhida pelo cliente for a mesma cadastrada. 
 
-  <div class="alert alert-warning">
-    <p>Audiências de campanhas definidas por <strong>Meio de pagamento</strong> ou<strong> Número máximo de parcelas</strong> não atendem a pedidos pagos com dois cartões ou vale-compras.</p>
-  </div>
+  >⚠️ Audiências de campanhas definidas por **Meio de pagamento** ou** Número máximo de parcelas** não atendem a pedidos pagos com dois cartões ou vale-compras.
 
 ## Saiba mais
 

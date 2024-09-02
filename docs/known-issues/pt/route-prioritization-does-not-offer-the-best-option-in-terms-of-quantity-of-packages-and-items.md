@@ -18,9 +18,7 @@ internalReference: 927747
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Na logística, o primeiro critério de desempate quando o sistema está escolhendo a rota (armazém + doca + política de remessa) está relacionado ao número de pacotes necessários para essa rota específica; menos pacotes significa que a rota deve ser melhor.

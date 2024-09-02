@@ -18,9 +18,7 @@ internalReference: 1053609
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Un comprador puede buscar diferentes puntos de recogida en diferentes códigos postales. Al utilizar lean shipping, después de añadir un código postal con puntos de recogida disponibles y cambiar a un código postal sin puntos de recogida, el paso de envío se bloquea con el mensaje "Algo ha ido mal".

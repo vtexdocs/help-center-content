@@ -17,9 +17,7 @@ subcategory:
 
 # FAQ - Seguridad (contenido restringido)
 
-<div class="alert alert-danger">
-  <p>No compartas las respuestas de estas preguntas frecuentes con usuarios que no tengan acceso al Admin VTEX.</p>
-</div>
+>❗ No compartas las respuestas de estas preguntas frecuentes con usuarios que no tengan acceso al Admin VTEX.
 
 Para asistir con las evaluaciones de riesgos de los clientes, VTEX proporciona páginas de preguntas frecuentes con respuestas a las principales preguntas sobre la estructura y seguridad de la plataforma. Este contenido solo está disponible para los usuarios con acceso al Admin VTEX. Las preguntas y respuestas públicas están disponibles en Preguntas frecuentes - Seguridad en VTEX Help Center.
 

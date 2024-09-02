@@ -18,9 +18,7 @@ internalReference: 432587
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O valor "Total devido" em uma conta de Crédito ao Cliente não está mostrando o valor total, mas sim o valor total na paginação atual da IU

@@ -48,9 +48,7 @@ Esses campos foram retirados dos cadastros dos conectores e a seguinte mensagem 
 
 > Atenção: pedidos com diferença de preço entre o marketplace e a VTEX só serão integrados mediante a [configuração de uma regra de Divergência de valores](https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe).
 
-<div class = "alert alert-info">
-Ao integrar pela primeira vez com um conector nativo, é aconselhável que o seller crie a regra de Divergência de valores antes de configurar a integração. Descumprir a recomendação não impede que a integração seja concluída.
-</div>
+>ℹ️ Ao integrar pela primeira vez com um conector nativo, é aconselhável que o seller crie a regra de Divergência de valores antes de configurar a integração. Descumprir a recomendação não impede que a integração seja concluída.
 
 Para o seller que integrar pela primeira vez com um conector nativo e não criar a regra de Divergência de valores, pedidos com erro de divergência de preço ficarão pendentes no Admin VTEX, em **MARKETPLACE > Integrações > Pedidos**. A mensagem do erro na interface é a seguinte:
 
@@ -79,8 +77,6 @@ Uma vez que você configure a regra de Divergência de valores, ela passa a vale
 
 Para marketplaces VTEX, marketplaces externos e conectores certificados (parceiros), enquanto a regra de Divergência de valores não for criada, pedidos com erro de divergência de preço são aprovados automaticamente.
 
-<div class="alert alert-warning">
-Para <a href= "https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex">conectores nativos</a>, enquanto o seller não <a href= "https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe">configura a regra de Divergência de valores</a>, pedidos com divergência de preço ficam retidos. É possível acompanhá-los no Admin VTEX, em <b>MARKETPLACE > Integrações > Pedidos</b>.
-</div>
+>⚠️ Para <a href= "https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex">conectores nativos</a>, enquanto o seller não <a href= "https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe">configura a regra de Divergência de valores</a>, pedidos com divergência de preço ficam retidos. É possível acompanhá-los no Admin VTEX, em **MARKETPLACE > Integrações > Pedidos**.
 
 Se você não quiser que conectores nativos obedeçam à Regra de Divergência de valores, é possível manter o fluxo anterior. Neste caso, [entre em contato com o time de suporte da VTEX](https://support.vtex.com/hc/pt-br/requests).

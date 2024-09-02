@@ -18,9 +18,7 @@ internalReference: 766454
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando la cuenta tiene configurado "paymentSystemToCheckFirstInstallment" en orderForm Configuration, el cálculo de pago enviará dos peticiones al módulo de promociones. Si hay artículos divididos en el carrito (por ejemplo, promoción Más por Menos), la primera petición enviará los artículos correctamente, pero la segunda enviará los artículos divididos en función de la aplicación de la promoción.

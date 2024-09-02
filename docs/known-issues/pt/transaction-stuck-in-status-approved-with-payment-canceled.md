@@ -18,9 +18,7 @@ internalReference: 1046365
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A transação ficou presa no status aprovado, mesmo que o pagamento tenha sido cancelado.

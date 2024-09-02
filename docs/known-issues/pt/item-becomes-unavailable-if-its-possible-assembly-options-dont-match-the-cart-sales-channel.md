@@ -18,9 +18,7 @@ internalReference: 1083848
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se um item tiver qualquer opção de montagem possível que não esteja disponível para o canal de vendas usado no carrinho, o item se tornará indisponível.

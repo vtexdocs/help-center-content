@@ -50,9 +50,7 @@ The following options will appear:
 - **Mapeamento de SLA de tipo Econômica:** Here you must enter [type of carrier](/en/tutorial/how-does-the-type-of-delivery-work) VTEX that you want to use for `Economical` delivery.
 - **Mapeamento de SLA de tipo Agendada:** Here you must enter [type of carrier](/en/tutorial/how-does-the-type-of-delivery-work) VTEX that you want to use for `Scheduled` delivery.
 
-<div class="alert alert-warning">
-Warning: you must fill at least one of the SLA mapping fields. If none of them is filled, it will not be possible to simulate freight at VTEX and, consequently, the orders made at Carrefour will not be integrated. Also, it will not be possible to save the integration record without any of the fields being filled.
-</div>
+>⚠️ Warning: you must fill at least one of the SLA mapping fields. If none of them is filled, it will not be possible to simulate freight at VTEX and, consequently, the orders made at Carrefour will not be integrated. Also, it will not be possible to save the integration record without any of the fields being filled.
 
 After completing the setup of this screen, click on the **Salvar Configuração** button. 
 

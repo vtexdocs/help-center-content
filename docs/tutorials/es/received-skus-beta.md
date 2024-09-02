@@ -56,9 +56,7 @@ Para consultar todas las especificaciones de un producto, haz clic en el nombre 
 
 En la pestaña **Problemas** están disponibles todos los anuncios que aún no se aprobaron debido a problemas que requieren corrección por parte del seller. Los filtros, acciones y campos de identificación disponibles en la pestaña **[Pendientes](#pendientes)** son similares a los de la pestaña Problemas.  
 
-<div class="alert alert-info">
-La acción de solicitar corrección no está disponible en la pestaña <b>Problemas.</b>
-</div>  
+>ℹ️ La acción de solicitar corrección no está disponible en la pestaña **Problemas.**  
 
 Para identificar el problema de un anuncio solo hay que hacer clic en el nombre del producto deseado. Se mostrará una nueva ventana con la información del producto, el mensaje de error y el revisor del anuncio.  
 
@@ -86,9 +84,7 @@ Cada fila de la lista representa un producto con la siguiente información:
 - **Seller:** nombre del seller que envió el anuncio.  
 - **Fecha de envío:** muestra la fecha en que se envió el anuncio al marketplace.  
 
-<div class="alert alert-info">
-Los anuncios aquí listados están siendo evaluados por Matcher y por Offer Quality o autoApprove, en caso de que se hayan configurado. Tras la evaluación, el anuncio puede pasar a las pestañas <b>Pendientes, Problemas, Aprobados o Bloqueados</b>, dependiendo del cumplimiento de los requisitos establecidos.
-</div>  
+>ℹ️ Los anuncios aquí listados están siendo evaluados por Matcher y por Offer Quality o autoApprove, en caso de que se hayan configurado. Tras la evaluación, el anuncio puede pasar a las pestañas **Pendientes, Problemas, Aprobados o Bloqueados**, dependiendo del cumplimiento de los requisitos establecidos.  
 
 ### Bloqueados
 
@@ -127,16 +123,12 @@ En este caso, los ítems se ordenarán de forma ascendente o descendente al hace
 
 Todos los SKU que se muestran en la lista ya están disponibles para catalogación. No obstante, se recomienda realizar el [mapeo de categorías y marcas](https://help.vtex.com/es/tutorial/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta--6NU8LwR6i0tTb8nk30bnbE) antes de este paso para agilizar el proceso de catalogación.  
 
-<div class="alert alert-warning">
-Los anuncios de la pestaña Pendientes permanecen disponibles solamente durante 30 días. Pasado este periodo, expiran automáticamente y el seller tendrá que volver a enviarlos.
-</div>  
+>⚠️ Los anuncios de la pestaña Pendientes permanecen disponibles solamente durante 30 días. Pasado este periodo, expiran automáticamente y el seller tendrá que volver a enviarlos.  
 
 ### Opciones de catalogación  
 
 Para catalogar un anuncio, accede a la página **SKUs recibidos** en el Admin VTEX haciendo clic en **Marketplace > SKUs recibidos** o ingresando **SKUs recibidos** en la barra de búsqueda del Admin.   
-<div class="alert alert-info">
-Todos los anuncios de la pestaña Pendientes se pueden catalogar individualmente o en masa.
-</div>  
+>ℹ️ Todos los anuncios de la pestaña Pendientes se pueden catalogar individualmente o en masa.  
 
 Las acciones disponibles para la catalogación son:  
 
@@ -149,9 +141,7 @@ Crea un nuevo SKU en el catálogo, lo que a su vez crea un nuevo producto. Recom
 3. Completa los campos **Categoría** y **Marca** para cada producto. Si el mapeo ya se ha realizado previamente, estos campos ya estarán completados.  
 4. Haz clic en `Aprobar`.  
 
-<div class="alert alert-info">
-Esta acción puede realizarse en las pestañas <b>Pendientes</b> y <b>Problemas</b>.
-</div>  
+>ℹ️ Esta acción puede realizarse en las pestañas **Pendientes** y **Problemas**.  
 
 ![skus-recibidos-crear-nuevo-producto-es](https://images.ctfassets.net/alneenqid6w5/4H2vmekbrtbXQXUVrwVoSF/4b686bea24c2df091c8739ecc398a645/skus-recibidos-crear-nuevo-producto-es.png)
 
@@ -172,9 +162,7 @@ Imagina el siguiente escenario: el marketplace ya tiene el SKU Camisa blanca en 
 
 Al crear una nueva asociación, las nuevas tallas se agrupan con las demás que ya estaban previamente registradas. Por lo tanto, el producto estará disponible en las tallas XS, S, M, L y XL.  
 
-<div class="alert alert-info">
-Esta acción puede realizarse en las pestañas <b>Pendientes</b> y <b>Problemas</b>.
-</div>  
+>ℹ️ Esta acción puede realizarse en las pestañas **Pendientes** y **Problemas**.  
 
 #### Asociar a un SKU existente  
 
@@ -210,9 +198,7 @@ Esta acción bloquea los anuncios seleccionados, impidiendo su reprocesamiento a
 
 Cuando el marketplace bloquea un SKU, significa que la próxima vez que el seller envíe sus productos, aquellos que hayan sido bloqueados ya no serán incluidos entre los enviados. Es posible desbloquear un SKU a través de la API REST, si el marketplace desea volver a recibirlo como sugerencia del seller. Para más información sobre la aprobación de SKU, consulta nuestra documentación [Send SKU Suggestion](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#put-/suggestions/-sellerId-/-sellerSkuId-).  
 
-<div class="alert alert-info">
-Esta acción puede realizarse en las pestañas <b>Pendientes</b> y <b>Problemas</b>. Los anuncios bloqueados se mostrarán en la pestaña <b>Bloqueados</b>.
-</div>  
+>ℹ️ Esta acción puede realizarse en las pestañas **Pendientes** y **Problemas**. Los anuncios bloqueados se mostrarán en la pestaña **Bloqueados**.  
 
 #### Rechazar para corrección  
 
@@ -225,9 +211,7 @@ Rechaza el anuncio y envía al seller una solicitud para corregir la informació
 
 ![skus-recibidos-rechazar-para-correccion-es](https://images.ctfassets.net/alneenqid6w5/62XmAvuM9luOqmLCwLpW2A/bc526e9f64a729781f5ebebcd6a62ee0/skus-recibidos-rechazar-para-correccion-es.png)  
 
-<div class="alert alert-info">
-Esta acción puede realizarse en la pestaña <b>Pendientes</b>. Los anuncios que necesitan corrección se mostrarán en la pestaña <b>Problemas</b>.
-</div>    
+>ℹ️ Esta acción puede realizarse en la pestaña **Pendientes**. Los anuncios que necesitan corrección se mostrarán en la pestaña **Problemas**.    
 
 #### Aprobación automática
 

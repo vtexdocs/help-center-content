@@ -15,9 +15,7 @@ legacySlug: vtex-pick-and-pack-mobile
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-<div class = "alert alert-info">
-<p>Si ya es cliente de VTEX y desea adoptar esta funcionalidad para su negocio, por favor, póngase en contacto con el <a href="https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Soporte Comercial</a>. Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el <a href="https://vtex.com/co-es/contacto/">formulario de contacto</a>.</p>
-</div>
+>ℹ️ Si ya es cliente de VTEX y desea adoptar esta funcionalidad para su negocio, por favor, póngase en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
 
 La aplicación móvil de [VTEX Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) ayuda al alistador (profesional responsable de seleccionar y empacar los ítems en la instalación) en la preparación de los pedidos, desde el alistamiento de los ítems hasta el envío. Esto hace que el flujo de alistamiento y envío de los pedidos de la tienda sea más organizado y fluido.
 
@@ -48,9 +46,7 @@ Al seleccionar esta hoja de trabajo para su preparación, la aplicación indicar
 
 A continuación, la aplicación dará soporte para el empaque de cada pedido con sus respectivos ítems.
 
-<div class="alert alert-warning">
-Las hojas de trabajo solo se aplican a las etapas de alistamiento y empaque de los pedidos. Los envíos de cada pedido deben realizarse por separado.
-</div>
+>⚠️ Las hojas de trabajo solo se aplican a las etapas de alistamiento y empaque de los pedidos. Los envíos de cada pedido deben realizarse por separado.
 
 ## Crear hoja de trabajo
 
@@ -116,9 +112,7 @@ Una vez alistados, los productos aparecen en la pestaña __Resumen__.
 
 Hay situaciones en las que puede ser necesario rechazar productos debido a la configuración de la tienda y a la disponibilidad de ítems en stock. 
 
-<div class="alert alert-warning">
-La opción Rechazar ítems puede no estar disponible. En caso de duda, ponte en contacto con la gerencia de la tienda.
-</div>
+>⚠️ La opción Rechazar ítems puede no estar disponible. En caso de duda, ponte en contacto con la gerencia de la tienda.
 
 Para rechazar un producto de la hoja de trabajo sigue los pasos que se indican a continuación:
 
@@ -134,17 +128,13 @@ Para descartar todos los productos de la hoja de trabajo de una sola vez, sigue 
 2. Haz clic en la opción **Listo para empaque.** 
 3. Haz clic en **Descartar todos los ítems disponibles.**
 
-<div class="alert alert-danger">
-Si se descartan todos los ítems de un pedido, el pedido se completará automáticamente.
-</div>
+>❗ Si se descartan todos los ítems de un pedido, el pedido se completará automáticamente.
 
 ## Reemplazar ítems
 
 Otra opción para ítems no disponibles es sustituirlos por otros, dependiendo de la configuración de la tienda y de la disponibilidad de los ítems en stock.
 
-<div class="alert alert-warning">
-La opción Rechazar ítems puede no estar disponible. En caso de duda, ponte en contacto con la gerencia de la tienda.
-</div>
+>⚠️ La opción Rechazar ítems puede no estar disponible. En caso de duda, ponte en contacto con la gerencia de la tienda.
 
 Para reemplazar ítems de la hoja de trabajo sigue los pasos que se indican a continuación:
 
@@ -178,9 +168,7 @@ Sigue los pasos que se indican a continuación para empacar ítems:
 
 1. En __Empaque__, haz clic en el pedido que deseas empacar. 
 2. Haz clic en el botón <i class="fas fa-plus"></i> del producto que deseas agregar al paquete o haz clic en <i class="fas fa-box"></i> para agregar todos los productos a la vez.
-<div class="alert alert-warning">
-Si optas por empacar todos los ítems del pedido, los productos que aún no se hayan empacado se registrarán en un único nuevo empaque.
-</div>
+>⚠️ Si optas por empacar todos los ítems del pedido, los productos que aún no se hayan empacado se registrarán en un único nuevo empaque.
 5. Selecciona un tipo de paquete ya registrado o agrega uno nuevo haciendo clic en `+ Crear paquete`. 
 6. Selecciona el tipo de paquete que deseas agregar.
 7. Selecciona cuántas unidades del producto deseas agregar a ese paquete.
@@ -204,9 +192,7 @@ A continuación, se finalizará el pedido en la aplicación. Dependiendo de la c
 
 La fase de envío permite crear servicios de envío para los pedidos alistados y empacados.
 
-<div class="alert alert-warning">
-El envío es una etapa opcional de la aplicación, dependiendo de tu operación y de la configuración realizada por el administrador de la tienda.
-</div>
+>⚠️ El envío es una etapa opcional de la aplicación, dependiendo de tu operación y de la configuración realizada por el administrador de la tienda.
 
 Para enviar paquetes desde la aplicación Pick and Pack, sigue los pasos que se indican a continuación:
 

@@ -18,9 +18,7 @@ internalReference: 554052
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao chegar à etapa de endereço de caixa, o usuário é capaz de completar o número do endereço e o nome do receptor com um espaço em branco e receber a confirmação de validação, incluindo a possibilidade de ir para a próxima etapa de pagamento. Mesmo sabendo que não pode concluir a compra com sucesso, é uma má usabilidade.

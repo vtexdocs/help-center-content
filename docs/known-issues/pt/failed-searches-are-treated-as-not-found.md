@@ -18,9 +18,7 @@ internalReference: 1088047
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando realizamos uma pesquisa que falha, a página de resposta é "não encontrado" em vez de "algo deu errado, tente novamente". Isso dá ao usuário a ideia errada de que os resultados não existem, em vez de um erro momentâneo no resultado da pesquisa.

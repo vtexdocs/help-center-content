@@ -30,6 +30,4 @@ Sua solicitação irá para uma fila, que pode ser acompanhada pelo OMS. Quando 
 
 Para obter a informação dos seus produtos mais vendidos, após baixar a planilha, você deve fazer a conta entre as colunas __AH (Quantity_SKU)__, que diz a quantidade do SKU que foi vendida, e a coluna __AI (ID_SKU)__, que se refere o SKU em questão. 
 
-<div class="alert alert-danger">
-As exportações podem ser feitas dentro de uma faixa de tempo de 31 dias.
-</div>
+>❗ As exportações podem ser feitas dentro de uma faixa de tempo de 31 dias.

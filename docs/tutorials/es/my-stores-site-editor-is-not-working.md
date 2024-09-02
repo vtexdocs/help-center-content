@@ -99,9 +99,7 @@ Otra posible causa de este error está relacionada con la configuración de la r
 
 Abre un ticket con el [soporte VTEX](https://help.vtex.com/es/support) para investigar el problema más a fondo. Para evitar situaciones en las que pierdas contenido almacenado en Site Editor al cambiar las dependencias entre pares de la aplicación Store Theme y sea necesario realizar una actualización importante, sigue los pasos de la guía Migrating CMS settings after a major theme update.
 
-<div class="alert alert-warning">
-  <p> En casos en los que se pierde contenido almacenado en Site Editor, este solo se puede restaurar si dicha pérdida está relacionada con el problema conocido como pérdida intermitente de contenido en Site Editor. Para resolverlo, abre un ticket con el <a href="https://help.vtex.com/es/support">soporte VTEX</a> con prioridad <code>urgente</code></p>
-</div>
+>⚠️ En casos en los que se pierde contenido almacenado en Site Editor, este solo se puede restaurar si dicha pérdida está relacionada con el problema conocido como pérdida intermitente de contenido en Site Editor. Para resolverlo, abre un ticket con el [soporte VTEX](https://help.vtex.com/es/support) con prioridad `urgente`
 
 ## Continúo experimentando problemas con Site Editor 
 

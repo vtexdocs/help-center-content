@@ -70,9 +70,7 @@ Exemplo: um kit possui dois componentes. Considere que o componente 1 possui 30 
 
 Os componentes do kit podem estar em estoques diferentes, contanto que eles sejam enviados a partir da mesma doca. Se não saírem pela mesma doca, o kit inteiro se torna indisponível. 
 
-<div class="alert alert-info">
-<p>Este cenário não acontece com um kit look, pois o kit look pode ser vendido com os componentes que restaram no inventário, sem a necessidade de se ter todos os componentes do kit no inventário.</p>
-</div>
+>ℹ️ Este cenário não acontece com um kit look, pois o kit look pode ser vendido com os componentes que restaram no inventário, sem a necessidade de se ter todos os componentes do kit no inventário.
 
 ## Preço
 

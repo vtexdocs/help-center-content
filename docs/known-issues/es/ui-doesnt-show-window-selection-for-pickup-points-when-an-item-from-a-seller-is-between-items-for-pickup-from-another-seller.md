@@ -18,9 +18,7 @@ internalReference: 1077568
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En un carro con al menos tres productos, donde los pedidos de artículos son: El 1º es para recogida 1, el 2º para recogida 2 (vendedor diferente), y el 3º es para recogida 1, la IU no permitirá una selección de ANS para el 2º artículo.

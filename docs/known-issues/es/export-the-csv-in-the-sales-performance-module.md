@@ -18,9 +18,7 @@ internalReference: 823878
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Estamos teniendo problemas al intentar exportar el CSV en el módulo de rendimiento de ventas.

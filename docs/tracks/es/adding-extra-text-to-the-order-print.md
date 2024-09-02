@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugES: agregar-texto-adicional-a-la-impresion-del-pedido
 ---
 
-<div class="alert alert-danger">
-Para agregar texto adicional a la impresión del pedido, como explicado en este artículo, es necesario cambiar el archivo JavaScript <code>checkout-instore-custom.js</code>. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en este archivo pueden causar errores críticos.
-</div>
+>❗ Para agregar texto adicional a la impresión del pedido, como explicado en este artículo, es necesario cambiar el archivo JavaScript `checkout-instore-custom.js`. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en este archivo pueden causar errores críticos.
 
 Por defecto, la impresión del resumen del pedido no contiene ningún texto personalizado. Si desea agregar texto adicional a la impresión del pedido, es necesario editar el archivo `checkout-instore-custom.js`.
 
@@ -28,9 +26,7 @@ window.INSTORE_CONFIG = {
 }
 ```
 
-<div class="alert alert-danger">
-No elimine ninguna de las otras propiedades presentes en el objeto <code>window.INSTORE_CONFIG</code>, para evitar romper otras funciones.
-</div>
+>❗ No elimine ninguna de las otras propiedades presentes en el objeto `window.INSTORE_CONFIG`, para evitar romper otras funciones.
 
 Después de volver a cargar inStore, cada vez que un vendedor imprima un pedido, ese texto aparecerá en la impresión.
 

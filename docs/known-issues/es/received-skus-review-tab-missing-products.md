@@ -18,9 +18,7 @@ internalReference: 939877
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Las ofertas enviadas por los vendedores pueden eventualmente ir a la pestaña de Revisión de los Skus Recibidos del Marketplace dependiendo si pasaron o no las reglas de Calidad de la Oferta.

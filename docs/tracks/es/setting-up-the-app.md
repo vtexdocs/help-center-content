@@ -52,9 +52,7 @@ Activar esta opción permite completar una compra incluso si su valor excede el 
 
 Por ejemplo, para una cuenta creada con un límite de crédito de $1.000,00 y una tolerancia del 10%, el cliente podrá realizar un pedido con un valor máximo de $1.100,00 utilizando Customer Credit como método de pago. Si el cliente desea utilizar el crédito para pagar un pedido por valor de $1.250,00, el sistema no permitirá completar la compra.
 
-<div class="alert alert-warning">
-Los valores de tolerancia se configuran en números decimales, donde 0 representa el 0% y 1 representa el 100%. Ejemplo: para utilizar una tolerancia del 5%, el valor a configurar es 0,05.
-</div>
+>⚠️ Los valores de tolerancia se configuran en números decimales, donde 0 representa el 0% y 1 representa el 100%. Ejemplo: para utilizar una tolerancia del 5%, el valor a configurar es 0,05.
 
 ![CC_Configuracion_2_ES](https://images.ctfassets.net/alneenqid6w5/3kjEQ2OblMKqwumNWSFnSt/c87641a0ebdb835abfb632fcc2ebff90/CC_Configuracion_2_ES.JPG)
 
@@ -76,9 +74,7 @@ El cliente puede acceder a esta página en el sitio web de su tienda en __Mi Cue
 
 Esta configuración permite insertar instrucciones relacionadas con el pago en las facturas emitidas por Customer Credit. Para editar el mensaje que se mostrará en la factura, ingrese la información en el cuadro de texto y haga clic en `Actualizar`.
 
-<div class="alert alert-warning">
-El mensaje registrado en esta configuración se replicará en todos las facturas emitidas para todas las cuentas de clientes de Customer Credit. No es posible configurar un mensaje único para cada cliente o factura específica.
-</div>
+>⚠️ El mensaje registrado en esta configuración se replicará en todos las facturas emitidas para todas las cuentas de clientes de Customer Credit. No es posible configurar un mensaje único para cada cliente o factura específica.
 
 ![CC_Configuracion_5_ES](https://images.ctfassets.net/alneenqid6w5/6UkZi827KKQqH8Yk1mmPKj/791355858bde3d7fa86eaa8b142b56e9/CC_Configuracion_5_ES.JPG)
 
@@ -109,6 +105,4 @@ Para crear condiciones de pago para títulos de Customer Credit, siga los pasos 
 
 <blockquote><ui>8. Clic en <b>Guardar</b>.</ui>
 
-<div class="alert alert-warning">
-No es posible establecer una tasa de interés para una condición de pago creada con una sola cuota. 
-</div>
+>⚠️ No es posible establecer una tasa de interés para una condición de pago creada con una sola cuota.

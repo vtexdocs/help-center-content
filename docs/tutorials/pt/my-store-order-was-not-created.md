@@ -43,9 +43,7 @@ As soluções abaixo são voltadas para o gerenciamento de inventário via Admin
 * **Atualizar a contagem do inventário:** na linha correspondente ao SKU e estoque desejados, digite o número de itens disponíveis para venda na coluna Atualizar contagem e clique em `Salvar`. Este número não pode ser negativo, caso contrário o [estoque será negativo](https://help.vtex.com/pt/faq/why-is-my-stock-negative--frequentlyAskedQuestions_159).
 * **Configurar o estoque infinito:** na linha correspondente ao SKU e estoque desejados, na coluna Estoque infinito, clique no botão de ativação e depois em `Salvar`. Quando essa configuração é ativada, o item passa a ser considerado sempre disponível para vendas e a loja nunca fica sem estoque dele.
 
-<div class = "alert alert-info">
-Para configurar os produtos sem estoque a serem exibidos no seu storefront, acesse <b>Catálogo > Todos os produtos</b> no Admin VTEX e, na página de configuração do produto, na aba <b>Produto</b>, marque a opção <b>Sim</b> no campo <i>Mostrar produto esgotado</i>.
-</div>
+>ℹ️ Para configurar os produtos sem estoque a serem exibidos no seu storefront, acesse **Catálogo > Todos os produtos** no Admin VTEX e, na página de configuração do produto, na aba **Produto**, marque a opção **Sim** no campo <i>Mostrar produto esgotado</i>.
 
 ### Revisar integração XML
 
@@ -58,7 +56,5 @@ Quando o produto não tem estoque e a integração não está configurada para e
 3. Na aba `Editar XML`, na opção **Exibir SKUs indisponíveis**, marque a caixa de seleção `Exibir SKUs fora de estoque (esgotados) entre os resultados`.
 4. Clique em `Salvar`. 
 
-<div class="alert alert-warning">
-Podem ocorrer erros ao tentar faturar um pedido com informações XML incorretas ou faltantes.
-</div>
+>⚠️ Podem ocorrer erros ao tentar faturar um pedido com informações XML incorretas ou faltantes.
 

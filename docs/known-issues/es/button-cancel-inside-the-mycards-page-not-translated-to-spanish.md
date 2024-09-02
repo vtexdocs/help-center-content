@@ -18,9 +18,7 @@ internalReference: 431200
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Para las cuentas españolas podemos ver el botón "cancelar" en la página de MyCards pero debería tener escrito "cancelar", ya que el sitio web está en español. Los demás botones y el mensaje ya están en español.

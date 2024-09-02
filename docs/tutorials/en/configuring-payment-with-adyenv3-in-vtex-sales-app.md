@@ -17,9 +17,7 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 At VTEX, it is possible to integrate with the payment provider Adyen. Through this connector, your store can offer payment transactions in physical stores (VTEX Sales App), using points of sale (POS). For more information access [What is VTEX Sales App?](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
-<div class="alert alert-info">
-To use the AdyenV3 affiliation in your store through other online sales channels (except VTEX Sales App), visit <a href="https://help.vtex.com/en/tutorial/configuring-payment-with-adyenv3--7xAz67E2Eg63LWCQNjVdwv">Configuring payment with AdyenV3</a>.
-</div>
+>ℹ️ To use the AdyenV3 affiliation in your store through other online sales channels (except VTEX Sales App), visit [Configuring payment with AdyenV3](https://help.vtex.com/en/tutorial/configuring-payment-with-adyenv3--7xAz67E2Eg63LWCQNjVdwv).
 
 To use the AdyenV3 affiliation in the VTEX Sales App, you need to:
 
@@ -28,9 +26,7 @@ To use the AdyenV3 affiliation in the VTEX Sales App, you need to:
 - [Configure AdyenV3 Connector (VTEX Sales App) on VTEX](#configuring-adyenv3-connector-vtex-sales-app-on-vtex)
 - [Configure payment condition](#configuring-payment-condition)
 
-<div class="alert alert-warning">
-Settings configured in an environment external to VTEX may be discontinued or modified without prior notice. Please check your Adyen account for the latest information.
-</div>
+>⚠️ Settings configured in an environment external to VTEX may be discontinued or modified without prior notice. Please check your Adyen account for the latest information.
 
 ## Configuring point of sale (POS)
 
@@ -100,9 +96,7 @@ Follow the steps below to configure a webhook:
 
 ![Adyenv3_7](https://images.ctfassets.net/alneenqid6w5/dEbiVnYj1Ic4eYgkSNolQ/79bba40bd6820d29de275e3cab19f22e/Adyenv3_7.PNG)
 
-<div class="alert alert-info">
-If you have several stores, you need to configure a webhook for each of them.
-</div>
+>ℹ️ If you have several stores, you need to configure a webhook for each of them.
 
 ## Configuring AdyenV3 Connector (VTEX Sales App) on VTEX
 

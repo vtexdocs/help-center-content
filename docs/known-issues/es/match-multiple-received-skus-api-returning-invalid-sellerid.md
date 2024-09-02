@@ -18,9 +18,7 @@ internalReference: 506660
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La API Match Multiple Received SKUs (doc: https://developers.vtex.com/vtex-rest-api/reference/match-received-skus#matchmultiple) está devolviendo el mensaje de error "Invalid sellerId" para cualquier intento de aprobación de nuevos productos, incluso si el vendedor está correctamente activo en el marketplace.

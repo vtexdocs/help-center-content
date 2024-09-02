@@ -18,9 +18,7 @@ internalReference: 623376
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando eliminamos o perdemos el acceso al usuario vinculado a una regla de aprobación de pedidos, este pedido no puede ser reprocesado para que un nuevo usuario pueda aprobar el pedido y con ello el pedido queda pendiente de aprobación.

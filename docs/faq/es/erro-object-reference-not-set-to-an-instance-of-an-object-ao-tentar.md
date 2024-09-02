@@ -20,10 +20,8 @@ Este error ocurre cuando algún __título de las columnas de las plantillas de f
 
 Para resolver el problema, es necesario ajustar el título de la columna con el nombre correcto y hacer nuevamente el upload de la plantilla. 
 
-<div class="alert alert-warning">
-Si la plantilla tiene más de 10 MB, será necesario comprimirla en el formato .zip. Este archivo .zip deberá tener menos de 10 MB.
-De lo contrario, el upload no funcionará. 
-</div>
+>⚠️ Si la plantilla tiene más de 10 MB, será necesario comprimirla en el formato .zip. Este archivo .zip deberá tener menos de 10 MB.
+> De lo contrario, el upload no funcionará.
 
 ## Obtener el nombre correcto de los títulos de las columnas 
 

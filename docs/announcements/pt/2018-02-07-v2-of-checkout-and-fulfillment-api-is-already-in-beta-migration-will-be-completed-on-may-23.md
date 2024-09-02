@@ -15,21 +15,19 @@ announcementImageID: ''
 announcementSynopsisPT: 'A V2 traz uma série de melhorias em relação à versão anterior e remove alguns campos e rotas que já estavam obsoletos.'
 ---
 
-<div class="alert alert-danger">
-A migração para a v2 da API de Checkout e Fulfillment já foi finalizada em <strong>23/05/2018</strong>
-</div>
+>❗ A migração para a v2 da API de Checkout e Fulfillment já foi finalizada em **23/05/2018**
 
-<div class="alert alert-warning">
-O prazo foi alterado de <strong>21/05</strong> para <strong>23/05</strong> (2 dias) devido à necessidade de testes complementares.
-</div>
+>⚠️ O prazo foi alterado de **21/05** para **23/05** (2 dias) devido à necessidade de testes complementares.
 
 Já está em beta a Versão 2 da API de Checkout e Fulfillment. E, a partir de __23 de maio__, ela será aplicada para todas as lojas. A V2 traz uma série de melhorias em relação à versão anterior e remove alguns campos e rotas que já estavam obsoletos. 
 
-<div class="alert alert-warning">
-<strong>Atenção</strong><br>
-Recomendamos que você faça todos os testes para avaliar os impactos e adaptar suas integrações e customizações antes do prazo final.<br> 
-Assim, quando realizarmos a migração para a nova versão da API, sua loja vai ter uma transição tranquila.
-</div>
+>⚠️ **Atenção**
+>
+> 
+> Recomendamos que você faça todos os testes para avaliar os impactos e adaptar suas integrações e customizações antes do prazo final.
+>
+>  
+> Assim, quando realizarmos a migração para a nova versão da API, sua loja vai ter uma transição tranquila.
 
 Confira abaixo tudo o que muda com a nova versão da API de Checkout e Fulfillment (e o que está em beta ou em stable):
 

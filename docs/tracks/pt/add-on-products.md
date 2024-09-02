@@ -16,9 +16,7 @@ trackSlugPT: proximos-passos-apos-o-go-live
 
 Produtos Add-on são soluções oferecidas pela VTEX para atender demandas específicas de um negócio e que podem ser adquiridas separadamente por meio de um contrato de assinatura.
 
-<div class="alert alert-warning">
-  <p>Para implementar as soluções abaixo, é necessário entrar em contato com o nosso <a href="https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Suporte Comercial VTEX</a>.</p> 
-</div>
+>⚠️ Para implementar as soluções abaixo, é necessário entrar em contato com o nosso [Suporte Comercial VTEX](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
 
 ## VTEX Ad Network
 
@@ -84,9 +82,7 @@ O **VTEX Shipping Network** proporciona a possibilidade de conectar transportado
 
 Para mais informações, é preciso acessar a página sobre [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
 
-<div class="alert alert-warning">
-  <p>As soluções <strong>VTEX Shipping Network</strong> e <strong>VTEX Shipping Network Correios</strong> são exclusivas para operações no Brasil.</p>
-</div>
+>⚠️ As soluções **VTEX Shipping Network** e **VTEX Shipping Network Correios** são exclusivas para operações no Brasil.
 
 ## VTEX Shipping Network Correios
 
@@ -123,6 +119,4 @@ Os principais benefícios dessa funcionalidade são:
 - **Melhoria na experiência do cliente:** É possível personalizar mensagens para aumentar a relevância e fortalecer a relação com a marca.
 - **Aumento nas taxas de conversão e vendas:** incentiva que os clientes retornem à página de pagamento para finalizar sua compra, aumentando desta forma as vendas e taxas de conversão para lojistas.
 
-<div class = "alert alert-info">
-O WhatsApp AI Campaigns está disponível  apenas para lojas que utilizam <a href="https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework">Store Framework</a> que não tenham customizações no Checkout.
-</div>
+>ℹ️ O WhatsApp AI Campaigns está disponível  apenas para lojas que utilizam [Store Framework](https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework) que não tenham customizações no Checkout.

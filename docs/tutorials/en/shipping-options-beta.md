@@ -15,9 +15,7 @@ legacySlug: delivery-options-beta
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-<p>This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.</p>
-</div>
+>ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.
 
 The **shipping options** feature allows the retailer to create, edit, and manage the order shipping options in a single place, ensuring more simplicity and efficiency in managing your operation. The term "shipping" is the general way to indicate the order's delivery or pickup. In each shipping option configuration, the retailer determines:
 
@@ -35,9 +33,7 @@ The purpose of **Shipping Options**, however, is not to replace [shipping polici
 
 The **Shipping Options** distinguish between what the consumer is charged for shipping the order and the shipping cost for the retailer, as it is possible to set up different pricing rules for the shipping rate.
 
-<div class = "alert alert-info">
-The shipping costs that the carriers charge must be in the shipping rate template so that the suitable carrier can be chosen.
-</div>
+>ℹ️ The shipping costs that the carriers charge must be in the shipping rate template so that the suitable carrier can be chosen.
 
 The **Shipping Options** allow the retailer to configure the shipping rate based on:
 
@@ -59,9 +55,7 @@ In each shipping option, the retailer sets an SLA (_Service Level Agreement_), a
 
 The VTEX [Order Allocation Algorithm](https://help.vtex.com/en/tutorial/order-allocation-algorithm-beta--1zLCAyEdnVe3EsE9Kz88xA) analyzes the store and distribution center combinations that serve each shipping option and seeks the ones with the lowest shipping cost. In the example, the result is a combination of lowest-cost same-day shipping and another combination of lowest-cost shipping within 5 business days.
 
-<div class = "alert alert-info">
-The <b>Shipping options</b> ensure that the consumer will always have a shipping option available for their location, which wasn't the case before. The only exception is if there is no seller and no shipping policy that meets the conditions for a shipping option. In this case, no shipping option will appear for the consumer at checkout.
-</div>
+>ℹ️ The **Shipping options** ensure that the consumer will always have a shipping option available for their location, which wasn't the case before. The only exception is if there is no seller and no shipping policy that meets the conditions for a shipping option. In this case, no shipping option will appear for the consumer at checkout.
 
 ## Actions and configuration
 

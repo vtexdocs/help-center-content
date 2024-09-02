@@ -18,9 +18,7 @@ internalReference: 618388
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Pedidos com KIT, em NEW_UI o KIT ID está sendo exibido, onde deve mostrar o SKU ID.

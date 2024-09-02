@@ -23,9 +23,7 @@ Antes de prosseguirmos, vamos esclarecer alguns conceitos relacionados a essa di
 ## MDR
 Ao processar uma transação, o adquirente retira um percentual do valor total da compra para si. Essa taxa é a MDR - sigla em inglês para Merchant Discount Rate. 
 
-<div class="alert alert-info">
-A MDR é aplicada em todas as transações processadas pela adquirente. 
-</div>
+>ℹ️ A MDR é aplicada em todas as transações processadas pela adquirente.
 
 No caso do split, tanto marketplace quanto seller(s) podem ser os responsáveis pelo pagamento dessa taxa. Também existe a possibilidade dos dois recebedores se encarregarem do pagamento. 
 

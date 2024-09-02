@@ -15,9 +15,7 @@ legacySlug: cadastro-de-produtos-beta
 subcategory: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-<div class = "alert alert-info">
-  <p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Se quiser migrar a sua loja para a nova página, entre em contato com o <a href = "[https://support.vtex.com/hc/pt-br/requests](https://support.vtex.com/hc/pt-br/requests)">suporte VTEX</a>.</p>
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Se quiser migrar a sua loja para a nova página, entre em contato com o <a href = "[https://support.vtex.com/hc/pt-br/requests](https://support.vtex.com/hc/pt-br/requests)">suporte VTEX</a>.
 
 Para cadastrar um produto no Admin VTEX, é necessário preencher informações dos formulários de Produtos e SKUs. Com a nova experiência de cadastro de produtos e SKUs, você pode fazer isso seguindo os passos abaixo:
 
@@ -48,9 +46,7 @@ Nesta página, você preencherá as informações necessárias para o cadastro d
 - **Título da página:** é o texto que fica na aba do navegador e corresponde ao título da página do produto. Este campo é importante para SEO.
 - **Meta descrição:** Preencha com uma breve descrição da categoria. É recomendável não ultrapassar 150 caracteres para que os mecanismos de busca possam mostrá-lo de forma correta nas páginas de resultado.
 
-<div class = "alert alert-info">
-Ao preencher as informações do SEO, uma prévia do conteúdo será exibida com a pré-visualização.
-</div>
+>ℹ️ Ao preencher as informações do SEO, uma prévia do conteúdo será exibida com a pré-visualização.
 
 ## Operação e logística
 
@@ -71,6 +67,4 @@ Veja como criar as [especificações do seu produto](https://help.vtex.com/pt/tu
 
 Se você tiver criado algum campo de produto obrigatório, o produto só poderá ser ativado após o preenchimento desta especificação.
 
-<div class="alert alert-info">
-Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo <a href="https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">Por que o produto não aparece no site?</a> para entender como resolver esse problema.
-</div>
+>ℹ️ Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo [Por que o produto não aparece no site?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) para entender como resolver esse problema.

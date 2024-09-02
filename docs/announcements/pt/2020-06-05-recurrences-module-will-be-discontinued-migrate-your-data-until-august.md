@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisPT: 'Todas as lojas que ainda a utilizam o módulo Recorrência devem migrar para o módulo Assinaturas até 03 de agosto de 2020'
 ---
 
-<div class="alert alert-info">
-A descontinuação só afetará lojas que ainda possuem o módulo Recorrência. Para lojas que já estão utilizando o módulo Assinaturas, ou que não possuíam essa funcionalidade, nada mudará. 
-</div>
+>ℹ️ A descontinuação só afetará lojas que ainda possuem o módulo Recorrência. Para lojas que já estão utilizando o módulo Assinaturas, ou que não possuíam essa funcionalidade, nada mudará.
 
 O módulo *Recorrência* é uma versão anterior do atual módulo *Assinaturas*. Essa versão será descontinuada, e todas as lojas que ainda a utilizam devem migrar para o módulo *Assinaturas até **03 de agosto de 2020**. 
 

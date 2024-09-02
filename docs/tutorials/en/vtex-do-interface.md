@@ -19,9 +19,7 @@ VTEX DO manages tasks automatically created by the VTEX Admin that require manua
 
 ![VTEX Do overview EN](https://images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/0b341bae7a9f462483ddefb3ad044e14/VTEX_Do_overview_EN.gif)
 
-<div class = "alert alert-info">
-Only users with the <a href = "https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> role can perform tasks through VTEX DO.
-</div>
+>ℹ️ Only users with the <a href = "https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> role can perform tasks through VTEX DO.
 
 The tasks are listed in two tabs:
 

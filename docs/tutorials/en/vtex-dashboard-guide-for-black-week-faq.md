@@ -47,9 +47,9 @@ To configure the reference filter, follow these steps:
 3. Set a date.  
 4. Click `Apply`.  
 
-<div class="alert alert-warning">
-A useful comparison during Black Week is with the same date last year. In the reference filter, select a date between November 21, 2022 and November 27, 2022, ideally the same days of the week. <br>This option is available for clients who were already using the VTEX platform during that period last year.</br>
-</div>
+>⚠️ A useful comparison during Black Week is with the same date last year. In the reference filter, select a date between November 21, 2022 and November 27, 2022, ideally the same days of the week. 
+>
+> This option is available for clients who were already using the VTEX platform during that period last year.</br>
 
 ![reference-en](https://images.ctfassets.net/alneenqid6w5/1ba2BbD9ANCJfHj5o4jwQC/2d4ca5424f4c45e4e8104f37ca11186d/reference-en.png)
 
@@ -73,9 +73,7 @@ To view the best-selling products, in the **Metrics** section click the <i class
 
 ![best-selling-en](https://images.ctfassets.net/alneenqid6w5/1sooXuFeV0NyhByWoLegHb/61ac987b15602d8dfd633019a448fa04/best-selling-en.png)
 
-<div class="alert alert-warning">
-For analyzing or monitoring longer periods, we recommend using our Sales Performance dashboard, which will be explained in the next question.
-  </div>
+>⚠️ For analyzing or monitoring longer periods, we recommend using our Sales Performance dashboard, which will be explained in the next question.
 
 ## How can I track my ecommerce data beyond today?  
 
@@ -141,9 +139,9 @@ There are several reasons why metrics in the real-time Overview might differ fro
 
 To see the data from all stores, use the Sales Performance page, which shows aggregated data with an approximate refresh rate of 90 minutes.  
 
-<div class="alert alert-danger">
-  If your operation uses more than one currency, the <b>Overview dashboard</b> will sum your orders in the currency that is most used in your sales. <br>To make a comparison with the <b>Orders</b> page, you need to sum the order total from all your currencies.</br>
-  </div>
+>❗ If your operation uses more than one currency, the **Overview dashboard** will sum your orders in the currency that is most used in your sales. 
+>
+> To make a comparison with the **Orders** page, you need to sum the order total from all your currencies.</br>
 
 ![all-orders-en](https://images.ctfassets.net/alneenqid6w5/4tG8VMrSZU45ZRsDHifGPV/70d18cf6c4a5489b7073a610f3dcbe13/all-orders-en.png)  
 

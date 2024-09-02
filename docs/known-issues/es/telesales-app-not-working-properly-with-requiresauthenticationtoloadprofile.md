@@ -18,9 +18,7 @@ internalReference: 797651
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se utiliza el flag RequiresAuthenticationToLoadProfile de las APIs de checkout con una app de televenta para suplantar usuarios, no se está lanzando ningún tipo de feedback al usuario si la suplantación se ha realizado con éxito y provoca algunas inconsistencias en el flujo

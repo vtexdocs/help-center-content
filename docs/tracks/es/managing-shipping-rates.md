@@ -37,9 +37,7 @@ Después de que la tienda cierra el contrato con una trasportadora, normalmente 
 - **Country**: País donde se realizará la entrega. Debe completarse con el  [código ISO de 3 dígitos del país](https://countrycode.org/).
 - **MinimumValueInsurance**: Es un adicional de flete con valor absoluto, que será comparado con el valor registrado en PricePercent y multiplicado por el valor del carrito. El valor mayor será el que se agregue al flete. Siempre se agregará al flete apenas uno de los dos. Ver más en [¿Para qué sirve el campo Minimum Value Insurance?](/pt/faq/para-que-serve-o-campo-na-tabela-de-frete-minimum-value-insurance).
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> Si la plantilla tiene más de 10 MB, deberá comprimirla en un formato <fuerte>.zip</strong>. Este archivo.zip también debe tener menos de 10 MB para que la carga funcione. Si el archivo sigue excediendo el límite, recomendamos dividir la plantilla entre más de una transportadora.
-</div>
+>⚠️ **OBS:** Si la plantilla tiene más de 10 MB, deberá comprimirla en un formato <fuerte>.zip</strong>. Este archivo.zip también debe tener menos de 10 MB para que la carga funcione. Si el archivo sigue excediendo el límite, recomendamos dividir la plantilla entre más de una transportadora.
 
 ## Gestionar las tarifas de envío fuera de la plantilla
 

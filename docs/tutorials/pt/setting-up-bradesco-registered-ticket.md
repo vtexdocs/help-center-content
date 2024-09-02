@@ -15,13 +15,11 @@ legacySlug: configurar-boleto-registrado-bradesco
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-danger">Essa integração de pagamento não pode ser mais configurada na plataforma devido ao <a href="https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14">processo de remoção de provedores legados</a> e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.</div>
+>❗ Essa integração de pagamento não pode ser mais configurada na plataforma devido ao [processo de remoção de provedores legados](https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14) e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.
 
 Para configurar o boleto registrado do Bradesco, é necessário utilizar o conector do __Bradesco Registrado__ e configurar a condição de pagamento de boleto bancário. Desta forma, os boletos emitidos serão registrados pelo Bradesco.
 
-<div class="alert alert-info">
-Atenção: antes de configurar o meio de pagamento no Admin VTEX, é preciso cadastrar a URL de notificação no <a href="https://meiosdepagamentobradesco.com.br/gl/login.jsp"> Internet Banking Bradesco</a>. Para isso, basta inserir o valor https://meiosdepagamentobradesco.com.br/notification no campo em questão.
-</div>
+>ℹ️ Atenção: antes de configurar o meio de pagamento no Admin VTEX, é preciso cadastrar a URL de notificação no [ Internet Banking Bradesco](https://meiosdepagamentobradesco.com.br/gl/login.jsp). Para isso, basta inserir o valor https://meiosdepagamentobradesco.com.br/notification no campo em questão.
 
 Para realizar a configuração, siga os passos abaixo:
 

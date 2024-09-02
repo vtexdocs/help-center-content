@@ -15,9 +15,7 @@ legacySlug: promocoes-beta
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
-<div class="alert alert-danger">
-<p>Esta funcionalidade será descontinuada no dia 16 de maio de 2022. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>
+>❗ Esta funcionalidade será descontinuada no dia 16 de maio de 2022. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
 
 A plataforma VTEX disponibiliza uma forma otimizada e prática de cadastrar diversos tipos de promoção que se adequam a diferentes cenários. Por meio de uma interface centralizada para gerenciamento de promoções, sua loja pode oferecer mais benefícios focados na atração e fidelização de clientes.
 
@@ -99,9 +97,7 @@ Este efeito gera um desconto total sobre o valor do produto definido como brinde
 - __SKUs__: opção que permite selecionar o SKU que será o brinde da compra.
 - __Quantidade máxima por compra__: opção que permite selecionar a quantidade máxima de brindes que uma compra pode receber.
 
-<div class="alert alert-warning">
-<p>O produto <b>Brinde</b> também precisa ter um preço cadastrado, mesmo que seja dado de graça ao cliente.</p>
-</div>
+>⚠️ O produto **Brinde** também precisa ter um preço cadastrado, mesmo que seja dado de graça ao cliente.
 
 #### Frete
 
@@ -130,9 +126,7 @@ Este efeito gera um desconto total sobre o valor do produto definido como brinde
   - __UTM Source.__
   - __Faixa de código postal.__
 
-<div class="alert alert-info">
-<p>Caso você queira vincular um <a href= "https://help.vtex.com/pt/tutorial/como-criar-cupom--tutorials_319?&utm_source=autocomplete">cupom já existente</a> à nova promoção, é necessário selecionar as opções de UTM Campaign e UTM Source e informar os códigos do cupom.</p>
-</div>
+>ℹ️ Caso você queira vincular um <a href= "https://help.vtex.com/pt/tutorial/como-criar-cupom--tutorials_319?&utm_source=autocomplete">cupom já existente</a> à nova promoção, é necessário selecionar as opções de UTM Campaign e UTM Source e informar os códigos do cupom.
 
 ### Cupons
 Caso você queira criar um novo cupom associado à promoção, clique em __NOVO CUPOM__ e preencha os campos a seguir:
@@ -145,15 +139,11 @@ Ao clicar em __Opções Avançadas__, existe a possibilidade de configurar um ca
 
 - __Limitar uso__: opção que limita a quantidade de vezes que o cupom pode ser utilizado.
 
-<div class="alert alert-warning">
-<p>Para salvar o novo cupom, é necessário clicar no botão <b>OK</b>. Se a janela for fechada sem essa confirmação, o cupom não será criado.</p>
-</div>
+>⚠️ Para salvar o novo cupom, é necessário clicar no botão **OK**. Se a janela for fechada sem essa confirmação, o cupom não será criado.
 
 Ao criar um novo cupom para a nova promoção, ele passará a ser exibido também na aba __Cupom__ do módulo __Promoções e Taxas__. Além disso, suas condições de UTM Source e/ou UTM Campaign serão vinculadas automaticamente à promoção nova no filtro __Clientes Específicos__.
 
-<div class="alert alert-warning">
-<p>Se as condições de UTM Source e UTM Campaign forem alteradas na configuração do filtro <b>Clientes Específicos</b> após a criação do cupom por esse fluxo, o cupom será excluído.</p>
-</div>
+>⚠️ Se as condições de UTM Source e UTM Campaign forem alteradas na configuração do filtro **Clientes Específicos** após a criação do cupom por esse fluxo, o cupom será excluído.
 
 ### Restrições
 - __Limitar uso na sua loja__: limita a quantidade de vezes que a promoção pode ser aplicada na loja.

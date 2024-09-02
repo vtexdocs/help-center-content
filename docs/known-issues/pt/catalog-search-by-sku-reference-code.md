@@ -18,9 +18,7 @@ internalReference: 1082930
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Erro ao pesquisar usando "código de referência sku"

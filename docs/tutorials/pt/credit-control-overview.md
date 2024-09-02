@@ -15,10 +15,8 @@ legacySlug: credit-control-visao-geral
 subcategory: 7EWKfPIGfmI0G8iMYK8Aiy
 ---
 
-<div class="alert alert-warning">
-<strong>ATENÇÃO:</strong> o Credit Control foi descontinuado em <strong>dezembro de 2018</strong>. Agora, para sua loja oferecer crédito como meio de pagamento direto no checkout, é necessário <a href="https://help.vtex.com/pt/tutorial/customer-credit-visao-geral">utilizar o Customer Credit</a>.</br>
-Para saber como configurá-lo na sua loja, siga os passos descritos <a href="https://help.vtex.com/pt/tracks/customer-credit-como-comecar">aqui</a>. 
-</div>
+>⚠️ **ATENÇÃO:** o Credit Control foi descontinuado em **dezembro de 2018**. Agora, para sua loja oferecer crédito como meio de pagamento direto no checkout, é necessário [utilizar o Customer Credit](https://help.vtex.com/pt/tutorial/customer-credit-visao-geral).</br>
+> Para saber como configurá-lo na sua loja, siga os passos descritos [aqui](https://help.vtex.com/pt/tracks/customer-credit-como-comecar).
 
 
 ## O que é

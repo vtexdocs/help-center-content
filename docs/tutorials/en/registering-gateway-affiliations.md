@@ -36,13 +36,9 @@ To add a new payment or antifraud provider to your store, follow the steps below
 5. If a warning message is displayed indicating that you need to install the app, click the __Install App__ button and follow the installation instructions. This message is only displayed for some gateway provider types. 
 6. Click `Save`.
 
-<div class = "alert alert-info">
-  <p>If there are other fields to be completed besides App key and App token (Step 6), the gateway provider must be configured according to the specific tutorial. For more information, see the <a href="https://help.vtex.com/en/subcategory/payment-settings--3tDGibM2tqMyqIyukqmmMw">Payment Settings</a> subsection.</p>
-</div>
+>ℹ️ If there are other fields to be completed besides App key and App token (Step 6), the gateway provider must be configured according to the specific tutorial. For more information, see the [Payment Settings](https://help.vtex.com/en/subcategory/payment-settings--3tDGibM2tqMyqIyukqmmMw) subsection.
 
-<div class = "alert alert-danger">
-The credentials used to complete the App key and Appn token fields must be supplied by the payment provider to identify the store. <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet">Credentials generated in the Admin</a> starting with <code>vtexappkey-</code> should be used.
-</div>
+>❗ The credentials used to complete the App key and Appn token fields must be supplied by the payment provider to identify the store. [Credentials generated in the Admin](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) starting with `vtexappkey-` should be used.
 
 To configure the payment methods that will be processed by your chosen payment provider, read [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455).
 
@@ -76,8 +72,7 @@ To select the providers using filters, go to the provider management page and ap
 
 ![interface_provedor_EN_6](https://images.ctfassets.net/alneenqid6w5/36BloW94uLYLN7qGFO1HeP/bb0b07f72dac4a7b01f5e94aa388899c/artigo_interface_provedor_EN_6.JPG)
 
-<div class = "alert alert-danger">
-To clear the applied filters and see all the providers in the store again, click the <code>Clear All</code> button.</div>
+>❗ To clear the applied filters and see all the providers in the store again, click the `Clear All` button.
 
 ## Editing provider settings
 
@@ -90,6 +85,5 @@ To edit the settings of existing payment or antifraud providers in the store, fo
 
 ![interface_provedor_EN_7](https://images.ctfassets.net/alneenqid6w5/49bqIpjzfjB6VGrjwMiYEK/6dffc24a68b01dd43309f119907ed1d0/artigo_interface_provedor_EN_7.JPG)
 
-<div class = "alert alert-danger">
-Before changing the provider's settings, such as authorization details, processing mode, or refund type, ensure the new information entered will not affect your store's performance.</div>
+>❗ Before changing the provider's settings, such as authorization details, processing mode, or refund type, ensure the new information entered will not affect your store's performance.
 

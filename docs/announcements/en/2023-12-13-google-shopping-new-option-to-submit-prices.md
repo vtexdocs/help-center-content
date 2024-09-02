@@ -23,9 +23,7 @@ Previously, merchants could see the **Consider discount for boleto payment in th
 - __Submit base price (for discount prices):__ Only displays products with a [list price](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#list-price).
 - __Apply discount to submitted price:__ Google Shopping will display the VTEX store's products with the associated discount and payment method.
 
-<div class = "alert alert-warning">
-  The <b>Apply discount to submitted price</b> setting is only available for VTEX stores in Brazil.
-</div>
+>⚠️ The **Apply discount to submitted price** setting is only available for VTEX stores in Brazil.
 
 ![envio-de-precos-google-en](https://images.ctfassets.net/alneenqid6w5/5ZZihnxaawRM55WkmZ8YJA/419f9830910ef18e14deec1eef56f5aa/envio-de-precos-google-en.png)  
 

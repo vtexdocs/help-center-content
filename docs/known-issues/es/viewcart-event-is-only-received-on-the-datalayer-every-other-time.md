@@ -18,9 +18,7 @@ internalReference: 1048306
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El evento view_cart sólo se recibe en el dataLayer cada dos por tres.

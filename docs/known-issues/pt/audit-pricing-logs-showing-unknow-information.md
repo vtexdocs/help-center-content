@@ -18,9 +18,7 @@ internalReference: 856420
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Algumas ações do usuário relacionadas a modificações de preço estão sendo registradas no módulo de auditoria como "desconhecidas".

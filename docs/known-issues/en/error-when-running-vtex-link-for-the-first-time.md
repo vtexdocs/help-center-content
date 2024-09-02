@@ -36,7 +36,5 @@ The error authorization message can change from `node`to `react` according to th
 1. Fill out this [form](https://suportevtex1.typeform.com/to/SxXknn) 
 2. Access your Account Management module and make sure that your profile has VTEX IO Admin permissions.
 
-<div class="alert alert-info">
-Filling out the form does not guarantee Node + GraphQL and Extensibility Whitelist access.
-</div>
+>ℹ️ Filling out the form does not guarantee Node + GraphQL and Extensibility Whitelist access.
 

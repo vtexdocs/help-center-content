@@ -50,17 +50,13 @@ In VTEX Admin:
 
 ![en-remove-redirect](https://images.ctfassets.net/alneenqid6w5/4Ki1noxgrPgStT4wZGbrCk/7de9c0c5b3a4b9c734657c96ae20cccf/remove-redirect.png)
 
-<div class="alert alert-warning">
-A bug may be found when trying to click on redirects with query strings. The VTEX product team is already aware of this unexpected behavior and working on the fix. If you cannot click on the desired redirect to delete it, opt to do it through the spreadsheet while the issue is not resolved. 
-</div>
+>⚠️ A bug may be found when trying to click on redirects with query strings. The VTEX product team is already aware of this unexpected behavior and working on the fix. If you cannot click on the desired redirect to delete it, opt to do it through the spreadsheet while the issue is not resolved.
 
 ## Importing and exporting redirects
 
 To manage your store's redirects in bulk, you can import and export a redirect spreadsheet. 
 
-<div class="alert alert-warning">
-The spreadsheet's inputs will be mandatorily created or deleted from the store's redirect list — it is not possible to create <i>and</i> delete redirects using the same spreadsheet. Before filling out and uploading yours to the admin, keep in mind your final goal with it.
-</div>
+>⚠️ The spreadsheet's inputs will be mandatorily created or deleted from the store's redirect list — it is not possible to create <i>and</i> delete redirects using the same spreadsheet. Before filling out and uploading yours to the admin, keep in mind your final goal with it.
 
 1. Click on the `Import` button and then on `Download Template`. Click on the `Export` button if you aim to download and modify the pre-saved redirect list. 
 2. Open the spreadsheet template once the download is done and fill out the cells in the suitable columns according to the table below:
@@ -79,9 +75,7 @@ The spreadsheet's inputs will be mandatorily created or deleted from the store's
 
   ![en-redirect-planilha](https://images.ctfassets.net/alneenqid6w5/1LA0kpUcu5NhfUgWWhkjea/b83ae63b44fa2367877b00daf47467c7/redirect-planilha.png)
 
-  <div class="alert alert-warning">
-By clicking on the <code>Save</code> button, you will create all the redirects listed in your spreadsheet, whereas clicking on the <code>Delete</code> button will remove all of them from your store's redirect database.
-</div>
+  >⚠️ By clicking on the `Save` button, you will create all the redirects listed in your spreadsheet, whereas clicking on the `Delete` button will remove all of them from your store's redirect database.
 
 6. Upload the spreadsheet from your local files.
 7. Click on the `Import file` button.

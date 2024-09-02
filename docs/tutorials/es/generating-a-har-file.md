@@ -21,12 +21,9 @@ Una feature útil para esto es el log de requests generado por la herramienta de
 
 A través de él usted puede generar un __archivo HAR__, que contiene información detallada sobre cada request. Después, basta con enviarlo a nuestro equipo de soporte.
 
-<div class="alert alert-warning">
-El archivo HAR contiene información sensible sobre su tienda. Compartalo sólo con el equipo de soporte VTEX.
-</div>
+>⚠️ El archivo HAR contiene información sensible sobre su tienda. Compartalo sólo con el equipo de soporte VTEX.
 
-<div class="alert alert-warning"> Abajo tenemos el procedimiento para generar el  archivo HAR por <strong>Google Chrome</strong>, que es el modo que nosotros más recomendamos. Si desea hacer el proceso por medio de otros navegadores, como Mozilla Firefox o Microsoft Edge, verifique el procedimiento correcto <a href="https://support.zendesk.com/hc/pt-br/articles/204410413-Gera%25C3%25A7%25C3%25A3o-de-um-arquivo-HAR-para-resolu%25C3%25A7%25C3%25B5es-de-problemas#h_51858a69-ed0e-45a6-a25d-c9b8ba32ae32"> en este enlace /a>.
-</div>
+>⚠️ Abajo tenemos el procedimiento para generar el  archivo HAR por **Google Chrome**, que es el modo que nosotros más recomendamos. Si desea hacer el proceso por medio de otros navegadores, como Mozilla Firefox o Microsoft Edge, verifique el procedimiento correcto <a href="https://support.zendesk.com/hc/pt-br/articles/204410413-Gera%25C3%25A7%25C3%25A3o-de-um-arquivo-HAR-para-resolu%25C3%25A7%25C3%25B5es-de-problemas#h_51858a69-ed0e-45a6-a25d-c9b8ba32ae32"> en este enlace /a>.
 
 ### Cómo generar el archivo HAR en Google Chrome
 

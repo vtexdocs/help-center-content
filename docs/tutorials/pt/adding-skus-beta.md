@@ -15,9 +15,7 @@ legacySlug: cadastro-de-skus-beta
 subcategory: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-<div class = "alert alert-info">
-  <p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Se quiser migrar a sua loja para a nova página, entre em contato com o <a href = "[https://support.vtex.com/hc/pt-br/requests](https://support.vtex.com/hc/pt-br/requests)">suporte VTEX</a>.</p>
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Se quiser migrar a sua loja para a nova página, entre em contato com o <a href = "[https://support.vtex.com/hc/pt-br/requests](https://support.vtex.com/hc/pt-br/requests)">suporte VTEX</a>.
 
 Após cadastrar um produto no Admin VTEX, você deve preencher informações sobre os SKUs relacionados. Com a nova experiência de cadastro de produtos e SKUs, você pode fazer isso seguindo os passos abaixo:
 
@@ -46,9 +44,7 @@ Veja abaixo as informações que devem ser preenchidas para cada seção do form
 
 Nesta seção, você pode adicionar imagens ao SKU. Ao clicar em **Adicionar imagens,** você poderá selecionar imagens do seu computador ou adicionar links.
 
-<div class="alert alert-info">
-  Considere o limite de 3.200 x 3.200 pixels para as imagens do seu SKU.
-</div>
+>ℹ️ Considere o limite de 3.200 x 3.200 pixels para as imagens do seu SKU.
 
 ## Pesos e dimensões
 

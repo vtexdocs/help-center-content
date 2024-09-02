@@ -25,9 +25,7 @@ Two steps are required:
 
 ## Enable the device configuration option
 
-<div class="alert alert-danger">
-Enabling the device configuration option is done through a change to the JavaScript file <code>checkout-instore-custom.js</code>. This operation should only be performed by people with programming experience. Incorrect changes to this file can cause critical errors.
-</div>
+>❗ Enabling the device configuration option is done through a change to the JavaScript file `checkout-instore-custom.js`. This operation should only be performed by people with programming experience. Incorrect changes to this file can cause critical errors.
 
 First, open the file `checkout-instore-custom.js`, available in the Admin of your VTEX account (if you do not know how to access this file, check out the tutorial [How to customize inStore](https://help.vtex.com/en/tracks/instore-customizacoes--1z9kBm12oBPyVNDo1ivVc2)).
 
@@ -44,17 +42,13 @@ window.INSTORE_CONFIG = {
 }
 ```
 
-<div class="alert alert-danger">
-Do not remove any of the other properties present in the <code>window.INSTORE_CONFIG</code> object, to avoid breaking other functionality.
-</div>
+>❗ Do not remove any of the other properties present in the `window.INSTORE_CONFIG` object, to avoid breaking other functionality.
 
 This change will make the __Configure device__ option appear in the inStore main menu, as shown in the image below. It is through this option that you will configure the printer.
 
 ![15. Configurar impressão de resumo do pedido - 2](https://images.ctfassets.net/alneenqid6w5/KxD08Gfiwa8mj6y6KzaKu/7fab9110af8d1337f5646252b8c9387c/15._Configurar_impress__o_de_resumo_do_pedido_-_2.png)
 
-<div class="alert alert-info">
-<strong>Note:</strong> There is an option to automatically print the order summary as soon as the order is completed. To enable it, add the <code>printPageAutomatically</code> property with the value <code>true</code> inside the <code>printingConfig</code> object. See below how the code would look like in this case.
-</div>
+>ℹ️ **Note:** There is an option to automatically print the order summary as soon as the order is completed. To enable it, add the `printPageAutomatically` property with the value `true` inside the `printingConfig` object. See below how the code would look like in this case.
 
 ```json
 window.INSTORE_CONFIG = { 
@@ -66,17 +60,13 @@ window.INSTORE_CONFIG = {
 }
 ```
 
-<div class="alert alert-danger">
-Again, do not remove any of the other properties present in the <code>window.INSTORE_CONFIG</code> object, to avoid breaking other functionality.
-</div>
+>❗ Again, do not remove any of the other properties present in the `window.INSTORE_CONFIG` object, to avoid breaking other functionality.
 
 ## Configure the printer device in inStore
 
 Now let's see how to set up a printer connected to the inStore to print order summaries.
 
-<div class="alert alert-warning">
-First of all, to connect a printer to the inStore system, it is necessary to have a pair of VTEX credentials (AppKey and AppToken) with the appropriate access permissions. We recommend that the role linked to these credentials is <code>inStore Sales Person</code>. However, a profile with more powers, such as Admin Super, can also be used.
-</div>
+>⚠️ First of all, to connect a printer to the inStore system, it is necessary to have a pair of VTEX credentials (AppKey and AppToken) with the appropriate access permissions. We recommend that the role linked to these credentials is `inStore Sales Person`. However, a profile with more powers, such as Admin Super, can also be used.
 
 With AppKey and AppToken in hand, follow the steps below:
 

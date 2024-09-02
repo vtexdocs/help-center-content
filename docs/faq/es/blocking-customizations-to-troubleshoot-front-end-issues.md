@@ -14,9 +14,7 @@ locale: es
 legacySlug: como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja, como-bloquear-personalizaciones-para-investigar-problemas-en-el-front-end-de-la-tienda
 ---
 
-<div class="alert alert-warning">
-Tutorial válido solo para tiendas CMS Portal Legado.
-</div>
+>⚠️ Tutorial válido solo para tiendas CMS Portal Legado.
 
 En este artículo, aprenderá a bloquear las personalizaciones de front-end para detectar si el problema es la información que VTEX entrega de forma nativa o si es la personalización de la página.
 

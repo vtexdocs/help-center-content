@@ -33,6 +33,4 @@ Você será levado para a tela de cadastro de SKU.
 
 Todos os campos disponíveis nessa tela estão listados no artigo [Campos de cadastro de SKU](/pt/tutorial/campos-de-cadastro-de-sku).
 
-<div class="alert alert-info">
-Às vezes um produto não tem variações que justifiquem a criação de mais de um SKU para ele. Nesse caso, não há nenhum problema em criar um SKU com o mesmo nome do produto. Apenas lembre-se que você sempre precisa criar <strong>pelo menos um SKU para cada produto</strong>.
-</div>
+>ℹ️ Às vezes um produto não tem variações que justifiquem a criação de mais de um SKU para ele. Nesse caso, não há nenhum problema em criar um SKU com o mesmo nome do produto. Apenas lembre-se que você sempre precisa criar **pelo menos um SKU para cada produto**.

@@ -26,9 +26,7 @@ No momento de cadastro de uma transportadora, é preciso incluir o [método de e
 
 O checkout exibe sempre a transportadora mais rápida/barata entre as opções de um mesmo métodos de envio. Assim, uma transportadora não aparece no checkout quando outra do mesmo tipo tem menor prazo/custo cadastrado.
 
-<div class="alert alert-warning">
-O critério de desempate na concorrência entre transportadoras é a priorização do menor custo de envio.
-</div>
+>⚠️ O critério de desempate na concorrência entre transportadoras é a priorização do menor custo de envio.
 
 ### Solução
 
@@ -78,7 +76,5 @@ Para melhorar a experiência de compra do cliente, a funcionalidade **Otimizaç�
 
 Desabilitar a função [Otimização das opções de entrega no Checkout](https://help.vtex.com/pt/tutorial/otimizacao-das-opcoes-de-entrega-no-checkout--6DeGO9eBSFWe4XkoS0SxAB) em sua loja. 
 
-<div class="alert alert-warning">
-Ao desabilitar esta função no Admin VTEX, todas as opções disponíveis de entrega serão exibidas no processo do Checkout. Entretanto, caso a funcionalidade de <a href="https://help.vtex.com/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#">múltiplas entregas</a> esteja habilitada na loja e existam opções de entrega diferentes entre os itens selecionados no carrinho, as <b>Opções de entrega otimizadas</b> continuarão a ser exibidas. Ou seja, a otimização de entrega será necessária para lidar com os múltiplos pacotes (itens com diferentes opções de entrega).
-</div>
+>⚠️ Ao desabilitar esta função no Admin VTEX, todas as opções disponíveis de entrega serão exibidas no processo do Checkout. Entretanto, caso a funcionalidade de [múltiplas entregas](https://help.vtex.com/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#) esteja habilitada na loja e existam opções de entrega diferentes entre os itens selecionados no carrinho, as **Opções de entrega otimizadas** continuarão a ser exibidas. Ou seja, a otimização de entrega será necessária para lidar com os múltiplos pacotes (itens com diferentes opções de entrega).
 

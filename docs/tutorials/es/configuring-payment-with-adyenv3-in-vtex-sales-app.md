@@ -17,9 +17,7 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 En VTEX, es posible integrarse con el proveedor de pago Adyen. A través de este conector, su tienda puede ofrecer transacciones de pago en tiendas físicas (VTEX Sales App), utilizando puntos de venta (POS). Para más información acceda [¿Qué es VTEX Sales App?](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
-<div class="alert alert-info">
-Para utilizar la afiliación AdyenV3 en su tienda a través de otros canales de venta en línea (excepto VTEX Sales App), visite <a href="https://help.vtex.com/es/tutorial/configurar-pagos-con-adyenv3--7xAz67E2Eg63LWCQNjVdwv">Configurar pagos con AdyenV3</a>.
-</div>
+>ℹ️ Para utilizar la afiliación AdyenV3 en su tienda a través de otros canales de venta en línea (excepto VTEX Sales App), visite [Configurar pagos con AdyenV3](https://help.vtex.com/es/tutorial/configurar-pagos-con-adyenv3--7xAz67E2Eg63LWCQNjVdwv).
 
 Para utilizar la afiliación AdyenV3 en la VTEX Sales App, es necesario:
 
@@ -28,9 +26,7 @@ Para utilizar la afiliación AdyenV3 en la VTEX Sales App, es necesario:
 - [Configurar el conector AdyenV3 (VTEX Sales App) en VTEX](#configurar-el-conector-adyenv3-vtex-sales-app-en-vtex)
 - [Configurar condición de pago](#configurar-condicion-de-pago)
 
-<div class="alert alert-warning">
-La configuración realizada en un entorno externo a VTEX puede interrumpirse o modificarse sin previo aviso. Consulta tu cuenta Adyen para obtener información actualizada.
-</div>
+>⚠️ La configuración realizada en un entorno externo a VTEX puede interrumpirse o modificarse sin previo aviso. Consulta tu cuenta Adyen para obtener información actualizada.
 
 ## Configurar punto de venda (POS)
 
@@ -100,9 +96,7 @@ Configura el webhook según los pasos a continuación:
 
 ![Adyenv3_7](https://images.ctfassets.net/alneenqid6w5/dEbiVnYj1Ic4eYgkSNolQ/79bba40bd6820d29de275e3cab19f22e/Adyenv3_7.PNG)
 
-<div class="alert alert-info">
-Si tienes varias tiendas, es necesario configurar el webhook para cada una de ellas.
-</div>
+>ℹ️ Si tienes varias tiendas, es necesario configurar el webhook para cada una de ellas.
 
 ## Configurar el conector AdyenV3 (VTEX Sales App) en VTEX
 

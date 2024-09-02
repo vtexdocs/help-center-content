@@ -18,9 +18,7 @@ internalReference: 932126
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al añadir imágenes a través del Editor de Sitios, el mensaje "`Algo salió mal. Por favor inténtelo de nuevo.`" puede ocurrir ocasionalmente.

@@ -15,9 +15,7 @@ legacySlug: informes-para-anunciantes-en-vtex-ad-network-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
-<div class="alert alert-info">
-  <p>VTEX Ad Network está en fase beta, lo que significa que estamos trabajando para mejorarla. Si ya eres cliente de VTEX y deseas adoptar esta funcionalidad en tu empresa, ponte en contacto con el equipo de <a href="https://help.vtex.com/es/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">soporte comercial</a>. Si aún no eres cliente, pero te interesa esta solución, rellena el <a href="https://vtex.com/mx-es/contacto/">formulario de contacto</a>.</p>
-</div>
+>ℹ️ VTEX Ad Network está en fase beta, lo que significa que estamos trabajando para mejorarla. Si ya eres cliente de VTEX y deseas adoptar esta funcionalidad en tu empresa, ponte en contacto con el equipo de [soporte comercial](https://help.vtex.com/es/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Si aún no eres cliente, pero te interesa esta solución, rellena el [formulario de contacto](https://vtex.com/mx-es/contacto/).
 
 [VTEX Ad Network (Beta)](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur) te permite anunciar productos de tu marca en storefronts de retailers VTEX que tengan tu producto en su catálogo.
 

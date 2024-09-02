@@ -18,9 +18,7 @@ internalReference: 595434
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al seleccionar cualquier imagen en la PDP de un producto, si se pasa de esta PDP directamente a otra PDP, la posición de la imagen no se borrará - si estaba viendo la tercera imagen, verá directamente la tercera imagen en la nueva PDP.

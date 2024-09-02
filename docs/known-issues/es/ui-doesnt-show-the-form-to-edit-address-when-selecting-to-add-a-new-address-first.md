@@ -18,9 +18,7 @@ internalReference: 747772
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La interfaz de usuario no muestra el formulario correcto para editar la dirección seleccionada en el paso Envío cuando se selecciona añadir primero una nueva dirección.

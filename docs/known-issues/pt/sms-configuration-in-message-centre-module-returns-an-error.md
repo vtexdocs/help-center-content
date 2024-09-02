@@ -22,9 +22,7 @@ Ao configurar o envio de SMS pelo módulo de Central de mensagens, a UI devolve 
 
 ## Simulação
 
-<div class="alert alert-info">
-É necessario ter a APP da movile instalada para simular o erro.
-</div>
+>ℹ️ É necessario ter a APP da movile instalada para simular o erro.
  
  1. Entrar no modulo de Central de mensagens; 
  2. Selecionar a opção MOVILE SMS;

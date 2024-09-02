@@ -18,9 +18,7 @@ internalReference: 382175
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O campo Country em invoiceData pode ser nulo se for enviado via API ou se houver um endereço de fatura no Profile System com o país como nulo, portanto, os pedidos serão criados com dados incompletos em invoiceData.

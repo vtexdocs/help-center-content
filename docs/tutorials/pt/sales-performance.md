@@ -35,9 +35,7 @@ Para garantir que você tenha acesso tanto aos últimos dados atualizados e tamb
 
 Esses grupos também são processados por sistemas diferentes, o que pode causar uma diferença entre dados do OMS e do Performance de Vendas, apesar de buscarmos apresentar no máximo 5% de divergência. 
 
-<div class ="alert alert-warning">
-É provável que existam diferenças entre as métricas de receita e ticket médio registradas no OMS e no Performance de Vendas, por exemplo. Isso ocorre porque o Performance de Vendas considera o valor dos itens, enquanto o OMS também considera os descontos, frete, taxas e promoções sobre o pedido - o que pode aumentar ou diminuir seu valor final. 
-</div>
+>⚠️ É provável que existam diferenças entre as métricas de receita e ticket médio registradas no OMS e no Performance de Vendas, por exemplo. Isso ocorre porque o Performance de Vendas considera o valor dos itens, enquanto o OMS também considera os descontos, frete, taxas e promoções sobre o pedido - o que pode aumentar ou diminuir seu valor final.
 
 ## Período
 
@@ -212,9 +210,7 @@ A lista representa as métricas e filtros aplicados no gráfico em formato de ta
   - __Absoluto:__ visualize em números absolutos o aumento ou diminuição das métricas da lista, entre um período e outro. 
   - __Representativo:__ visualize o percentual de representatividade de um item dentro de uma métrica.
 
-<div class="alert alert-info">
-Note que as métricas <em>Ticket médio</em> e <em>Itens por pedido</em> não terão visualização Percentual ou Representativa disponíveis, já que são métricas calculadas dividindo outras, e a soma de todas as partes de cada uma não é igual ao Total.
-</div>
+>ℹ️ Note que as métricas *Ticket médio* e *Itens por pedido* não terão visualização Percentual ou Representativa disponíveis, já que são métricas calculadas dividindo outras, e a soma de todas as partes de cada uma não é igual ao Total.
 
 ### Exportar dados
 

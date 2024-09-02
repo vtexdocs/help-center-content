@@ -15,9 +15,7 @@ legacySlug: agregar-skus-beta
 subcategory: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-<div class = "alert alert-info">
-  <p>Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si desea migrar su tienda a la nueva página, ponte en contacto con <a href = "[https://support.vtex.com/hc/es/requests](https://support.vtex.com/hc/pt-br/requests)">soporte de VTEX</a>.</p>
-</div>
+>ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si desea migrar su tienda a la nueva página, ponte en contacto con <a href = "[https://support.vtex.com/hc/es/requests](https://support.vtex.com/hc/pt-br/requests)">soporte de VTEX</a>.
 
 Después de agregar un producto en el Admin VTEX, debes rellenar la información sobre los SKU asociados. Sigue los pasos a continuación para acceder a la nueva experiencia de agregar productos y SKUs:
 
@@ -46,9 +44,7 @@ Consulta a continuación la información que debes rellenar en cada sección del
 
 En esta sección puedes añadir imágenes al SKU. Al hacer clic en **Agregar imágenes,** puedes seleccionar imágenes de tu computador o agregar links.
 
-<div class="alert alert-info">
-  Las imágenes del SKU no pueden superar los 3.200 x 3.200 píxeles.
-</div>
+>ℹ️ Las imágenes del SKU no pueden superar los 3.200 x 3.200 píxeles.
 
 ## Pesos y dimensiones
 

@@ -18,9 +18,7 @@ internalReference: 1085500
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, ao adicionar uma restrição de promoção que tem uma regra de catálogo (ou seja, categorias, skus, marcas, coleções, ...) e esse conjunto contém o componente de um SKU, mas não o kit em si, a intenção do usuário, originalmente, é dar esse desconto apenas quando o componente for comprado separadamente.

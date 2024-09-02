@@ -20,21 +20,15 @@ Uma das possibilidades de customização do inStore é alterar o campo de [Obser
 
 Uma vez habilitada, essa customização exibe o campo `Vendor` no topo da página e adiciona uma etapa ao fluxo de compra. Agora, antes do Shipping, o vendedor precisa obrigatoriamente identificar a venda com o seu código.
 
-<div class="alert alert-danger">
-<strong>Atenção</strong>: neste caso, não é possível finalizar uma venda sem preencher o campo <code>Vendor</code> com código do vendedor.
-</div>
+>❗ **Atenção**: neste caso, não é possível finalizar uma venda sem preencher o campo `Vendor` com código do vendedor.
 
 ## Editando o arquivo Javascript
 
 Para habilitar o código do vendedor, é preciso fazer uma alteração no código JavaScript `checkout-instore-custom.js` salvo no painel administrativo da VTEX.
 
-<div class="alert alert-warning">
-É <strong>expressamente recomendável</strong> que o responsável pela modificação no código seja uma pessoa com <strong>experiência em programação</strong>. 
-</div>  
+>⚠️ É **expressamente recomendável** que o responsável pela modificação no código seja uma pessoa com **experiência em programação**.  
 
-<div class="alert alert-info">
-O código do vendedor é habilitado <strong>apenas</strong> por JavaScript.
-</div>
+>ℹ️ O código do vendedor é habilitado **apenas** por JavaScript.
 
 Primeiro, faça as configurações descritas no artigo [Habilitar campo de observação na tela do pedido](https://help.vtex.com/pt/tracks/instore-customizacoes--1z9kBm12oBPyVNDo1ivVc2/8Aj21R8bll0tdrxHWjVOs).
 
@@ -56,9 +50,7 @@ window.INSTORE_CONFIG = {
 }
 ```
 
-<div class="alert alert-danger">
-Não remova nenhuma das outras propriedades do objeto <code>window.INSTORE_CONFIG</code>. Caso contrário, outras funcionalidades da sua loja podem ser quebradas. Além disso, lembre-se que o código acima é apenas uma possibilidade de configuração. 
-</div>
+>❗ Não remova nenhuma das outras propriedades do objeto `window.INSTORE_CONFIG`. Caso contrário, outras funcionalidades da sua loja podem ser quebradas. Além disso, lembre-se que o código acima é apenas uma possibilidade de configuração.
 
 Cada responsável deve preencher as propriedades do objeto `window.INSTORE_CONFIG_` de acordo com o funcionamento esperado da customização para a sua loja. 
 

@@ -18,9 +18,7 @@ internalReference: 887949
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando un nuevo usuario introduce un nuevo correo electrónico en el paso de correo electrónico y pasa a la página siguiente, en el componente de datos del cliente, el correo electrónico no se rellena automáticamente.

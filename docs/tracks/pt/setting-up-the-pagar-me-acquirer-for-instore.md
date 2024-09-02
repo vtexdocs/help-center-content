@@ -18,13 +18,9 @@ Para permitir transações por meio de máquinas de cartão usando o inStore, vo
 
 __Pagar.me__ é um sub-adquirente homologado pelo inStore no Brasil.
 
-<div class="alert alert-warning">
-Se você deseja usar o Pagar.me em um país diferente ou se deseja usar outro adquirente que atualmente não é certificado, precisará criar a integração com o aplicativo desse adquirente. Para fazer isso, consulte o artigo <a href="https://help.vtex.com/pt/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod">Integrar o inStore a um novo adquirente de pagamento</a>.
-</div>
+>⚠️ Se você deseja usar o Pagar.me em um país diferente ou se deseja usar outro adquirente que atualmente não é certificado, precisará criar a integração com o aplicativo desse adquirente. Para fazer isso, consulte o artigo [Integrar o inStore a um novo adquirente de pagamento](https://help.vtex.com/pt/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod).
 
-<div class="alert alert-info">
-Atualmente, o Pagar.me é suportado apenas por sistemas <b>Android</b>, com máquinas de cartão <b>Gertec MOBIPIN</b>.
-</div>
+>ℹ️ Atualmente, o Pagar.me é suportado apenas por sistemas **Android**, com máquinas de cartão **Gertec MOBIPIN**.
 
 Antes de instalar o aplicativo do Pagar.me, verifique se você concluiu a etapa anterior da configuração do módulo de Pagamentos. Se tiver concluído, siga as etapas abaixo para instalar e configurar o adquirente Pagar.me para o inStore.
 

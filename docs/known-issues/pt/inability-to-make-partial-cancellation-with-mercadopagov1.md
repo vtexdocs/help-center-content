@@ -18,9 +18,7 @@ internalReference: 286738
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o cancelamento parcial é feito em um pagamento de débito, o portal não fez um pedido ao Mercado Pago e, consequentemente, o pedido de captura não é feito porque o status nos fez entender que o pagamento já foi capturado, o que significa que o dinheiro do cliente não é reembolsado

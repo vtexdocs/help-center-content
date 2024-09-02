@@ -25,6 +25,4 @@ Previously, benefits with payment system conditions were only applied to the mai
 
 In the current scenario, benefits now consider the payment system condition by trade policy. That means that a benefit with payment system filter can be applied to more than one trade policy. With this improvement, the retailer has more flexibility to configure his benefits.
 
-<div class="alert alert-danger">
-It is important to note that this feature <strong>is not valid</strong> for third party trade policies.
-</div>
+>❗ It is important to note that this feature **is not valid** for third party trade policies.

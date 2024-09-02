@@ -18,9 +18,7 @@ internalReference: 467419
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Durante a etapa de checkout, na etapa de preenchimento dos dados de envio, ao clicar na opção "Entregar em outro endereço", se nenhum endereço for adicionado e o comprador voltar à lista de endereços (usando o botão "voltar ao catálogo de endereços"), o botão "Ir para o pagamento" desaparecerá.

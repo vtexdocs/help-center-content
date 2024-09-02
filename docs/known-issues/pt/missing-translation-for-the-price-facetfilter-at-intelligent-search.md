@@ -18,9 +18,7 @@ internalReference: 974840
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O Intelligent Search não aplica a tradução ao nome do filtro/faceta "price" para idiomas adicionais quando consultado via REST API.

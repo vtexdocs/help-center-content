@@ -18,9 +18,7 @@ internalReference: 585906
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, el mensaje de retorno del informe de importación de inventario está en _pt-BR_. Por lo tanto, cuando la importación está terminada, el correo electrónico lanzado a través de la plantilla "`relatorio-de-importacao-de-estoque`" tiene la información en _pt-BR_, sin considerar la configuración regional de la tienda.

@@ -15,9 +15,7 @@ legacySlug: criando-colecao-de-produtos
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning">
-  <p>Existem duas formas de configurar coleções, por meio do Portal CMS Legado ou utilizando o módulo de <a href="https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye">Coleções Beta</a>. Este artigo refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do Portal CMS Legado</a>.</p>
-</div>
+>⚠️ Existem duas formas de configurar coleções, por meio do Portal CMS Legado ou utilizando o módulo de [Coleções Beta](https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye). Este artigo refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do Portal CMS Legado</a>.
 
 Para criar uma coleção, siga as instruções abaixo:
 
@@ -76,9 +74,7 @@ Para criar uma coleção de produtos que ainda não foram lançados ou que foram
 
 Não é possível selecionar os dois campos (**Pré-venda** e **Lançamento**) na mesma coleção. Caso queira que ambas os cenários sejam contemplados, crie duas coleções e configure cada uma com a respectiva opção.
 
-<div class="alert alert-warning">
-<p>Os campos <strong>Pré-venda</strong> e <strong>Lançamento</strong> só funcionam se você tiver selecionado no grupo alguma categoria, marca ou combinação de SKUs.</p>
-</div>
+>⚠️ Os campos **Pré-venda** e **Lançamento** só funcionam se você tiver selecionado no grupo alguma categoria, marca ou combinação de SKUs.
 
 ### Incluir SKUs específicos em um grupo
 
@@ -109,9 +105,7 @@ Depois que a planilha for importada pelo sistema, os SKUs são apresentados da s
 
 SKUs que estiverem inativos não terão seus IDs importados mesmo que estejam incluídos na planilha.
 
-<div class="alert alert-warning">
-<p>Ao selecionar mais de um tipo de grupo, apenas os produtos na interseção desses dois conjuntos estarão na coleção. Por exemplo, se você selecionar categoria AA e marca BB, apenas os produtos que forem dessa categoria e dessa marca estarão na coleção. Os produtos da categoria AA de outra marca não estarão na coleção, assim como produtos da marca BB de outras categorias não estarão na coleção.</p>
-</div>
+>⚠️ Ao selecionar mais de um tipo de grupo, apenas os produtos na interseção desses dois conjuntos estarão na coleção. Por exemplo, se você selecionar categoria AA e marca BB, apenas os produtos que forem dessa categoria e dessa marca estarão na coleção. Os produtos da categoria AA de outra marca não estarão na coleção, assim como produtos da marca BB de outras categorias não estarão na coleção.
 
 ### Excluir múltiplos SKUs de uma coleção
 

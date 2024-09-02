@@ -18,9 +18,7 @@ internalReference: 605517
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O pacote tem um valor diferente do valor total do pedido sem valor de envio. Isso acontece por causa dos descontos que não têm divisão adequada com quantidade de itens do pedido.

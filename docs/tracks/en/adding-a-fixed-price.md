@@ -63,9 +63,7 @@ To delete an existing fixed price, follow the steps below.
 4. Click on the fixed price.
 5. Click on the `Remove`.
 
-<div class = "alert alert-info">
-It is not possible to perform bulk deletion of fixed prices using the spreadsheet. The deletion must be done manually, following the steps above, or via the API <a href="https://developers.vtex.com/docs/api-reference/pricing-api#delete-/pricing/prices/-itemId-/fixed/-priceTableId-">Delete fixed prices on a price table or trade policy
-</div>
+>ℹ️ It is not possible to perform bulk deletion of fixed prices using the spreadsheet. The deletion must be done manually, following the steps above, or via the API <a href="https://developers.vtex.com/docs/api-reference/pricing-api#delete-/pricing/prices/-itemId-/fixed/-priceTableId-">Delete fixed prices on a price table or trade policy
 
 ## Pricing API
 

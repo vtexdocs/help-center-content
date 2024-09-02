@@ -22,9 +22,7 @@ So that's where we need to get started.
 
 # What is a category tree?
 
-<div class="alert alert-info">
-The category tree is the set of categories for your site, <strong>distributed according to hierarchy relationships</strong>.
-</div>
+>ℹ️ The category tree is the set of categories for your site, **distributed according to hierarchy relationships**.
 
 ## Example
 
@@ -44,15 +42,11 @@ __Note__: The names __Department__, __Category__ and __Subcategory__ are just a 
 
 But attention:
 
-<div class="alert alert-info">
-We recommend creating <strong>a maximum of 3 category levels</strong>. More levels can make your catalog operation too complex.
-</div>
+>ℹ️ We recommend creating **a maximum of 3 category levels**. More levels can make your catalog operation too complex.
 
 Two key points:
 
 - Who plans the distribution of the categories of your site? __You! This planning should reflect the goals of your business.__
 - When should the distribution of the categories be defined? __Before any category is actually created in the site.__
 
-<div class="alert alert-warning">
-It's very important that your team define the composition of the <strong>category tree before</strong> you create it on the platform. Once you start inserting products, having to move categories may become quite a headache.
-</div>
+>⚠️ It's very important that your team define the composition of the **category tree before** you create it on the platform. Once you start inserting products, having to move categories may become quite a headache.

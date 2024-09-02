@@ -19,9 +19,7 @@ Una relación entre entidades es una referencia entre documentos que pertenecen 
 
 Por ejemplo, tu tienda tiene una entidad **Cliente** y otra **Lista de compras**, y deseas que cada cliente pueda tener varias listas de compras. Para hacerlo, es necesario crear un campo en la entidad **Lista de compras** e informar a qué cliente pertenece. 
 
-<div class="alert alert-info">
-<p>Master Data ya cuenta con algunas relaciones predeterminadas, como Cliente (CL) y Dirección (AD).</p>
-</div>
+>ℹ️ Master Data ya cuenta con algunas relaciones predeterminadas, como Cliente (CL) y Dirección (AD).
 
 ## Crear relación entre entidades de datos
 

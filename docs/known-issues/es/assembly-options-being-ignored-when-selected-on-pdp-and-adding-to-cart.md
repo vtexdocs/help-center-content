@@ -18,9 +18,7 @@ internalReference: 743529
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En un PDP de opciones de montaje, cuando el usuario selecciona diferentes cantidades para un mismo artículo y va al carro de la Caja la selección es ignorada y las cantidades se reinician a la cantidad inicial. Pero si el usuario aumenta, para **todos** los artículos, en 1 cantidad al menos se persiste la selección.

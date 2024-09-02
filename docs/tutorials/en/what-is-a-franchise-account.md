@@ -46,14 +46,13 @@ Each franchise account automatically operates as a White Label Seller of the mai
 
 End customers do not choose or acknowledge the existence of White Label Sellers at any point in the process. In this logic, the consumers have a relationship with the brand (main account) and not with the physical stores (franchise accounts).
 
-<div class="alert alert-info">
-<p>Although all franchise accounts operate as White Label Sellers of the main account, these concepts do not mean the same thing. The franchise account is a type of account, while being White Label is a property of the seller.
-<ul>
-<li><strong>Account</strong>: can be a franchise account or a regular account.</li>
-<li><strong>Seller</strong>: can be of White Label type or non-White Label type.</li>
-</ul>
-As these concepts are independent, it is <strong>eventually</strong> possible that a franchise account operates as a non-White Label Seller of a marketplace other than the main account.</p>
-</div>
+>ℹ️ Although all franchise accounts operate as White Label Sellers of the main account, these concepts do not mean the same thing. The franchise account is a type of account, while being White Label is a property of the seller.
+>
+> ***Account**: can be a franchise account or a regular account.
+>
+> ***Seller**: can be of White Label type or non-White Label type.
+>
+> As these concepts are independent, it is **eventually** possible that a franchise account operates as a non-White Label Seller of a marketplace other than the main account.
 
 ## Franchise account configuration
 
@@ -96,9 +95,7 @@ Once you have [changed this configuration](#configuring-payment-methods-specific
 
 VTEX offers split payment solutions that can make the distribution of receivables to sellers automatic. For more information, please refer to the article about [Split payment](https://help.vtex.com/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx).
 
-<div class="alert alert-warning">
-<p>If you wish to implement the VTEX Sales App, it is necessary for physical stores to use the payment methods from the main account.</p>
-</div>
+>⚠️ If you wish to implement the VTEX Sales App, it is necessary for physical stores to use the payment methods from the main account.
 
 ## Request the creation of a franchise account
 

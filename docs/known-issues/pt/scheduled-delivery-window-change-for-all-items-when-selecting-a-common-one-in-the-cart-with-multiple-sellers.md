@@ -18,9 +18,7 @@ internalReference: 1089806
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando dois itens de vendedores diferentes com entrega programada estão em um carrinho, suas janelas de entrega podem se sobrepor. Se a data selecionada para o primeiro item for anterior ao período sobreposto, a interface do usuário do checkout considerará a data do segundo item. Por exemplo:

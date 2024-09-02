@@ -15,9 +15,7 @@ legacySlug: que-es-afiliado
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-<div class="alert alert-info"> 
-Los afiliados en VTEX son diferente de la <a href="https://es.wikipedia.org/wiki/Marketing_de_afiliaci%C3%B3n"> definición habitual</a>. Lea a continuación para obtener más información.
-</div>
+>ℹ️ Los afiliados en VTEX son diferente de la [ definición habitual](https://es.wikipedia.org/wiki/Marketing_de_afiliaci%C3%B3n). Lea a continuación para obtener más información.
 
 [Configurar un afiliado](https://help.vtex.com/es/tutorial/como-configurar-afiliado) solo será necesario en los casos en que la tienda actúe como seller en un marketplace.
 

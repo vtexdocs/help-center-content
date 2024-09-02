@@ -28,8 +28,6 @@ Other important changes:
 - New data layer information to be used along with Google Enhanced Ecommerce.
 - Customizations are now avaiable for the `checkout5-custom.js` and `orderplaced2-custom.js` files, wich edits the checkout and the finished order screen, repectively.
 
-<div class="alert alert-warning">
-Remember: VTEX <strong>doesn't recommend</strong> the customization of JavaScript files, because this can damage your checkout. We don't take responsibility for any problems originated from the editing of this code.
-</div>
+>⚠️ Remember: VTEX **doesn't recommend** the customization of JavaScript files, because this can damage your checkout. We don't take responsibility for any problems originated from the editing of this code.
 
 To know everything about the SmartCheckout™'s new version, take a look at [this VTEX Help article](/en/tutorial/migrating-to-the-new-version-of-smart-checkout).

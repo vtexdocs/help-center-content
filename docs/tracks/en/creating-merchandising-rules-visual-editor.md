@@ -43,9 +43,7 @@ To configure a VTEX Intelligent Search [merchandising rule](https://help.vtex.co
       Learn more about these actions in items **IV, V, VI, VIII, IX**, and **XI** of the [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section.
 9.	Click `Save`.
 
-<div class="alert alert-info">
-  <p>After saving, the changes to merchandising rules will take an average of two minutes to be updated.</p>
-</div>
+>ℹ️ After saving, the changes to merchandising rules will take an average of two minutes to be updated.
 
 ## Actions available in the Visual Editor
 

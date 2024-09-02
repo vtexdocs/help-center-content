@@ -47,9 +47,7 @@ To do this dynamically, I can change the text of the `topbarSaudacao` key to the
 
 That is, I'm using the variables `preposicaonomeloja2` and `nomeloja`.
 
-<div class="alert alert-warning">
-When using variables to compose a text, replace the <code>#</code> symbol with <code>@</code>. That is, <b>#variable#</b> becomes <b>@variable@</b>.
-</div>
+>⚠️ When using variables to compose a text, replace the `#` symbol with `@`. That is, **#variable#** becomes **@variable@**.
 
 ![textos-importantes en](https://images.ctfassets.net/alneenqid6w5/3ck7V4j6wgygm0qE2ia2m8/ec2d596e8fbee37f53d38568d797a401/textos_importantes_en.png)
 ![exemplos-textos-importantes en](https://images.ctfassets.net/alneenqid6w5/3qJmU7aPIcUowc6SkaYoSS/4c7d666cf29ef651c19ee837c9f42a75/3_en.png)

@@ -15,15 +15,11 @@ legacySlug: pedidos-para-entrega
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---
 
-<div class="alert alert-info">
-  <p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>  
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).  
 
 **Pedidos para entrega** é uma página que permite gerenciar os pedidos que serão preparados na loja para envio ou coleta pelo cliente. Ela apresenta a quantidade de pedidos em cada categoria, além de alertas para pedidos atrasados ou com pendências.
 
-<div class="alert alert-info">
-  <p>Essa funcionalidade está disponível apenas para o aplicativo do VTEX Sales App.</p>
-</div>
+>ℹ️ Essa funcionalidade está disponível apenas para o aplicativo do VTEX Sales App.
 
 **Pedidos para entrega** permite que os vendedores acompanhem as etapas dos pedidos, por meio de informações de pedido e entrega dentro de cada categoria.
 

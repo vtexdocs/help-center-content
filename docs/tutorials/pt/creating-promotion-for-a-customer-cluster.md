@@ -33,11 +33,7 @@ Com a propriedade definida, siga as instruções abaixo.
 6. Preencha o campo com o cluster que deseja relacionar à promoção — [veja abaixo mais informações sobre como preencher este campo](#como-preencher-o-campo-cluster-de-clientes). Você pode adicionar mais de um cluster, clicando no botão `+`.
 7. Clique no botão `Salvar`.
 
-<div class="alert alert-info">
-<p>
-Você pode inserir no máximo 50 clusters na opção <strong>Cluster de clientes</strong>. 
-</p>
-</div>
+>ℹ️ Você pode inserir no máximo 50 clusters na opção **Cluster de clientes**.
 
 ## Como preencher o campo Cluster de clientes
 
@@ -48,11 +44,7 @@ Existem dois critérios possíveis para a seleção de um cluster para a promoç
 
 Perceba que, em ambas opções, `{nomedapropriedade}` deve ser alterado pelo nome do campo na entidade de dados e `{"valor"}` deve ser substituído pelo valor definido no Master Data.
 
-<div class="alert alert-info">
-<p>
-O uso das aspas duplas varia <a href="https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos">de acordo com o tipo de campo</a> criado no Master Data.
-</p>
-</div>
+>ℹ️ O uso das aspas duplas varia [de acordo com o tipo de campo](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos) criado no Master Data.
 
 ### Função de igualdade
 
@@ -68,11 +60,7 @@ Dessa forma, você poderia configurar também `funcionario=false`, em que apenas
 
 Considerando um campo do tipo **[Varchar](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)**, poderíamos configurar `funcionario="sim"` para que apenas clientes com valor `"sim"` no campo recebessem a promoção.
 
-<div class="alert alert-warning">
-<p>
-Para campos do tipo <strong>Varchar</strong>, o valor informado na seção <strong>Cluster de clientes </strong>da promoção diferencia caracteres minúsculos e maiúsculos. Isso quer dizer que, ao preencher a opção <strong>Cluster de clientes</strong> de forma diferente daquela definida para o campo no Master Data, a promoção não será aplicada.
-</p>
-</div>
+>⚠️ Para campos do tipo **Varchar**, o valor informado na seção **Cluster de clientes **da promoção diferencia caracteres minúsculos e maiúsculos. Isso quer dizer que, ao preencher a opção **Cluster de clientes** de forma diferente daquela definida para o campo no Master Data, a promoção não será aplicada.
 
 Portanto, considerando o exemplo acima de um campo tipo **Varchar** com os valores cadastrados `"sim"` e `"não"`, o cadastro na promoção obrigatoriamente será `funcionario="sim"`. Ao cadastrar na promoção o termo `funcionario="Sim"`, por exemplo, o cluster de clientes desejado não receberá a promoção.
 

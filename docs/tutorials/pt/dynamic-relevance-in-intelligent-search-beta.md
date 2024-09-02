@@ -15,10 +15,9 @@ legacySlug: relevancia-dinamica-no-intelligent-search-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-<div class="alert alert-info">
-  <p>Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-  <p>Para os clientes selecionados, a funcionalidade está disponível para uso gratuito no Admin VTEX durante seu período Beta, ou até decidido pela VTEX. É possível que taxas extras se apliquem futuramente.</p>
-</div>
+>ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+>
+> Para os clientes selecionados, a funcionalidade está disponível para uso gratuito no Admin VTEX durante seu período Beta, ou até decidido pela VTEX. É possível que taxas extras se apliquem futuramente.
 
 O Intelligent Search é uma solução de busca da plataforma VTEX. Ele apresenta resultados relevantes com base no catálogo desde a primeira interação do usuário com a loja, seja por meio da barra de busca, navegando pelas categorias, ou mesmo pelas vitrines de produtos. 
 
@@ -31,9 +30,7 @@ No Intelligent Search, existem duas formas de configurar a relevância da sua bu
 
 Apenas uma delas é aplicada à sua loja por vez e você pode [alterar o tipo de relevância](#alterar-o-tipo-de-relevancia) configurado na sua loja. Caso você altere a relevância manual para dinâmica, todas as regras manuais já cadastradas continuam salvas.
 
-<div class = "alert alert-info">
-A relevância manual é configurada como padrão da loja.
-</div>
+>ℹ️ A relevância manual é configurada como padrão da loja.
 
 ## Manual 
 
@@ -68,9 +65,7 @@ Para ativar a relevância dinâmica, siga os seguintes passos:
 
 Para alterar o tipo de relevância, siga os passos abaixo:
 
-<div class = "alert alert-warning">
-Não recomendamos a troca constante do tipo de relevância utilizado pela sua loja. O sistema precisa de uma semana para se estabelecer.
-</div>
+>⚠️ Não recomendamos a troca constante do tipo de relevância utilizado pela sua loja. O sistema precisa de uma semana para se estabelecer.
 
 1. No Admin VTEX, acesse **Storefront > Intelligent Search > Regras de relevância**  ou digite **Regras de relevância** na barra de busca no topo da página.
 2. Clique em `Alterar` .

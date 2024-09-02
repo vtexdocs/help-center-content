@@ -16,9 +16,7 @@ trackSlugPT: vtex-getting-started
 
 Qualquer SKU da sua loja precisa de um preço para ser exibido ao cliente final.
 
-<div class="alert alert-warning">
-Mesmo um SKU que será oferecido como brinde precisa ter um preço cadastrado.
-</div>
+>⚠️ Mesmo um SKU que será oferecido como brinde precisa ter um preço cadastrado.
 
 Para cadastrar o preço, siga os passos abaixo.
 1. No módulo __Catalog__, passe o mouse sobre __Cadastro de Produtos__, vá até __Produtos e SKUs__ e clique na opção __Cadastro de Produtos e SKUs__.

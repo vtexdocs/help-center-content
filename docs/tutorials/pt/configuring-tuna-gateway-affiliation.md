@@ -17,9 +17,7 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 Na VTEX, você pode configurar a sua loja com o gateway Tuna para receber pagamentos por meio de: boleto, cartões de débito, crédito, PIX e Bitcoin.
 
-<div class="alert alert-warning">
-  A integração da sua loja com a Tuna é feita por meio de uma <b>Application Key</b> e <b>Application Token.</b> Os dados de acesso para obter essas informações e permitir as configurações na VTEX serão enviados após a criação da sua conta. Para isso, preencha <a href="https://docs.google.com/forms/d/e/1FAIpQLScWk5fsmkIfGaW2Z6qhdGH-JJ5iU6Fv5TGghUR1Pod5dY5Z2Q/viewform">este formulário</a> e aguarde o retorno da Tuna com mais detalhes.
-  </div>
+>⚠️ A integração da sua loja com a Tuna é feita por meio de uma **Application Key** e **Application Token.** Os dados de acesso para obter essas informações e permitir as configurações na VTEX serão enviados após a criação da sua conta. Para isso, preencha [este formulário](https://docs.google.com/forms/d/e/1FAIpQLScWk5fsmkIfGaW2Z6qhdGH-JJ5iU6Fv5TGghUR1Pod5dY5Z2Q/viewform) e aguarde o retorno da Tuna com mais detalhes.
 
 Após ter criado sua conta e obtido as __Application Key__ e __Token__, siga as etapas abaixo para configurar a Tuna na sua loja:
 

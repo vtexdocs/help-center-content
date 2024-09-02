@@ -18,9 +18,7 @@ internalReference: 377684
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando há uma conta e uma subconta com o mesmo sufixo, estamos tendo problemas para armazenar as Condições de Pagamento sempre que há mudanças nelas.

@@ -22,9 +22,7 @@ Como o SmartCheckout permite fechar uma compra apenas com o e-mail e com o CVV d
 
 Ou seja, caso o cliente finalize a compra apenas com o e-mail e o CVV do cartão de crédito e a autorização da operadora não ocorra em até 3 vezes seguidas, é mostrada a tela de login para que o cliente continue tentando comprar. Essa contagem volta ao início quando o cliente fizer o login e finalizar sua compra com sucesso.
 
-<div class="alert alert-warning">
-A solicitação de uma nova autenticação ao cliente está únicamente relacionada ao limite estabelecido de 3 tentativas de compra sem sucesso com o mesmo cartão. Isso quer dizer que, <strong>independentemente do intervalo de tempo entre cada tentativa, a autenticação será solicitada quando o cliente tentar pela terceira vez finalizar uma compra sem sucesso.</strong>
-</div>
+>⚠️ A solicitação de uma nova autenticação ao cliente está únicamente relacionada ao limite estabelecido de 3 tentativas de compra sem sucesso com o mesmo cartão. Isso quer dizer que, **independentemente do intervalo de tempo entre cada tentativa, a autenticação será solicitada quando o cliente tentar pela terceira vez finalizar uma compra sem sucesso.**
 
 Essa medida visa à segurança dos dados dos clientes contra ataques e tentativas de fraudes.
 

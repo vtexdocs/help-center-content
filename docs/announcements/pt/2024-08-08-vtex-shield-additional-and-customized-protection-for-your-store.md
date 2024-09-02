@@ -41,9 +41,7 @@ Com configurações personalizáveis, o WAF se adapta às necessidades específi
 
 O Data Protection Plus oferece uma arquitetura avançada de proteção de dados, com uma camada extra de segurança para informações pessoais ou sensíveis. Para mais detalhes, acesse o conjunto de guias da categoria [Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) no Developer Portal.
 
-<div class="alert alert-info">
-  <p>No momento, essa funcionalidade está disponível apenas em algumas regiões. Em caso de dúvidas, entre em contato com o <a href="https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Suporte Comercial</a>.</p>
-</div>
+>ℹ️ No momento, essa funcionalidade está disponível apenas em algumas regiões. Em caso de dúvidas, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
 
 ## Como obter acesso?
 

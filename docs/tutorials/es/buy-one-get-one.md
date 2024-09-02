@@ -65,9 +65,7 @@ En esta sección se pueden definir los sellers a los que se aplicará la promoci
 
 Para que la promoción sea válida para todos los sellers, deja la selección sin marcar.
 
-<div class = "alert alert-warning">
-  <p>No es posible seleccionar directamente un <i>seller white label</i>. Para incluir a un <i>seller white label</i> en la promoción, tiene dos opciones:</p><ol>1. Restringir los <i>sellers</i> a la tienda principal. Esta restricción agrega todos los <i>sellers white label</i> de su tienda a la promoción.</ol><ol>2. Dejar la selección sin marcar para incluir a todos los <i>sellers</i>. Aquí, todos los tipos de <i>sellers, white label</i> o no, se agregarán a la promoción.</ol>
-</div>
+>⚠️ No es posible seleccionar directamente un <i>seller white label</i>. Para incluir a un <i>seller white label</i> en la promoción, tiene dos opciones:1. Restringir los <i>sellers</i> a la tienda principal. Esta restricción agrega todos los <i>sellers white label</i> de su tienda a la promoción.2. Dejar la selección sin marcar para incluir a todos los <i>sellers</i>. Aquí, todos los tipos de <i>sellers, white label</i> o no, se agregarán a la promoción.
 
 ![Restringir esta promoción a los productos de los sellers](https://images.ctfassets.net/alneenqid6w5/3Up0CJMzHHY9rZO0LLRXuw/2b00df355cb9670e4a5b799e5c9482e7/Restringir_esta_promoci_n_a_los_productos_de_los_sellers.png)
 
@@ -91,13 +89,9 @@ En esta sección se definen las colecciones, SKU y cantidad mínima que deben re
 - **SKUs:** permite seleccionar el nombre o ID de los SKU sobre los que deseas aplicar el descuento. También puedes importar una lista de SKU, que debe guardarse en un archivo de texto (**.txt**) con cada ID descrito en una fila diferente.
 - **Cantidad mínima:** permite definir la cantidad mínima de productos que deben agregarse al carrito para que se conceda el descuento. Es un campo obligatorio.
 
-<div class = "alert alert-warning">
- <p>La promoción no se creará si no se rellenan los campos Colecciones o SKUs.<p>
-</div>
+>⚠️ <p>La promoción no se creará si no se rellenan los campos Colecciones o SKUs.<p>
 
-<div class = "alert alert-warning">
- <p>Se puede crear una promoción Compra uno y lleva uno gratis con un máximo de 100 SKU diferentes al mismo tiempo.<p>
-</div>
+>⚠️ <p>Se puede crear una promoción Compra uno y lleva uno gratis con un máximo de 100 SKU diferentes al mismo tiempo.<p>
 
 ![Compra uno y lleva uno gratis](https://images.ctfassets.net/alneenqid6w5/27rGDqH0dMTcgA8m7cWs27/c37f45ddde8ac8ddab99cae1500a951d/Compra_uno_y_lleva_uno_gratis.png)
 

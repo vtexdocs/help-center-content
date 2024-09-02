@@ -18,9 +18,7 @@ internalReference: 950933
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, la importación/exportación de catálogos corta nuestros caracteres especiales ț y ș al exportar datos.

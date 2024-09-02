@@ -22,10 +22,8 @@ Há duas formas de realizar a alteração de um pedido:
 * [Admin VTEX:](#como-alterar) é possível se o status do pedido estiver como `Preparando entrega`.
 * [API de alteração de pedidos:](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/changes) é possível, além de alterar itens, criar descontos e mudar o preço do pedido. A alteração só é possível se o status do pedido na API de pedidos for `handling` ou `waiting-for-fulfillment`.
 
-<div class="alert alert-warning">
-Após a alteração, o cliente recebe uma notificação por email caso o template <code>Change of information</code> (<a href="https://help.vtex.com/pt/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my">
-template de emails transacionais referentes ao pedido</a>) esteja habilitado na Central de Mensagens. O cliente recebe as mensagens com as informações que foram preenchidas no formulário de alteração de itens.
-</div>
+>⚠️ Após a alteração, o cliente recebe uma notificação por email caso o template `Change of information` (<a href="https://help.vtex.com/pt/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my">
+> template de emails transacionais referentes ao pedido</a>) esteja habilitado na Central de Mensagens. O cliente recebe as mensagens com as informações que foram preenchidas no formulário de alteração de itens.
 
 ## Cuidados e limitações
 
@@ -74,6 +72,4 @@ Ao alterar ou remover itens de um pedido, o valor total do pedido é alterado. N
 
 O valor total do pedido será atualizado após a inserção da nota fiscal, e corresponde ao que é captado pelo gateway de pagamentos da VTEX. Caso um item seja devolvido, o sistema de Pagamentos da VTEX fará o estorno automaticamente ao cliente.
 
-<div class = "alert alert-info">
-A funcionalidade faturas parciais está disponível para toda a base de clientes VTEX, mas a liquidação parcial no gateway está em fase Beta. Além disso, para que as faturas parciais inseridas nos pedidos disparem liquidações parciais na transação, é necessário usar um conector que utiliza o <a href="https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m">Payment Provider Protocol</a>. Conectores legados não possuem suporte à funcionalidade.
-</div>
+>ℹ️ A funcionalidade faturas parciais está disponível para toda a base de clientes VTEX, mas a liquidação parcial no gateway está em fase Beta. Além disso, para que as faturas parciais inseridas nos pedidos disparem liquidações parciais na transação, é necessário usar um conector que utiliza o [Payment Provider Protocol](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Conectores legados não possuem suporte à funcionalidade.

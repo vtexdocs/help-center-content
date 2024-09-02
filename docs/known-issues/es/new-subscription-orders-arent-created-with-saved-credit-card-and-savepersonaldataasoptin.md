@@ -18,9 +18,7 @@ internalReference: 1087876
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 No se pueden crear nuevos pedidos con suscripciones utilizando una tarjeta de crédito guardada cuando "savePersonalDataAsOptIn" está activo en la configuración de orderForm.

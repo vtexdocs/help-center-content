@@ -15,9 +15,7 @@ legacySlug: como-se-maneja-la-entrega-programada
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-<div class="alert alert-info">
-Atención: Esa documentación está en proceso de actualizarse para reflejar los cambios del término Paneles a <a href="https://help.vtex.com/es/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">estratégia de envío</a>.
-</div>  
+>ℹ️ Atención: Esa documentación está en proceso de actualizarse para reflejar los cambios del término Paneles a [estratégia de envío](https://help.vtex.com/es/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl).  
 
 La entrega programada es un tipo de entrega que permite definir períodos de entrega personalizados, pudiendo definir plazos y precios específicos, y también permitir que el cliente elija el período que desea recibir su pedido. 
 

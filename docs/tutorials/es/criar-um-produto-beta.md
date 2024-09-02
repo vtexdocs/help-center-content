@@ -15,8 +15,7 @@ legacySlug: criar-um-produto-beta
 subcategory: 
 ---
 
-<div class="alert alert-info">
-Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda ponte en contacto con <a href="https://support.vtex.com/hc/es/requests">nuestro equipo de soporte</a>.</div>
+>ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda ponte en contacto con [nuestro equipo de soporte](https://support.vtex.com/hc/es/requests).
 
 La página **Agregar producto(Beta)** permite crear y editar [productos](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) y sus correspondientes SKU en el Admin VTEX. Para agregar un nuevo producto sigue los pasos a continuación: 
 
@@ -33,7 +32,7 @@ La página **Agregar producto(Beta)** permite crear y editar [productos](https:/
 
 Una vez hecho esto, el producto se activará y estará disponible en tu tienda.
 
-<div class="alert alert-info">Si tras crear el producto no se muestra en el sitio web de tu tienda, consulta el artículo <a href="https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">¿Por qué el producto no aparece en el sitio web?</a>, para saber cómo solucionar este problema.</div>
+>ℹ️ Si tras crear el producto no se muestra en el sitio web de tu tienda, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382), para saber cómo solucionar este problema.
 
 ## Producto
 
@@ -117,8 +116,7 @@ En la pestaña Atributos se mostrarán los grupos de especificaciones con las es
 
 En esta pestaña, registrarás los [SKUs](https://help.vtex.com/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA#) que estarán vinculados al producto que creaste anteriormente. 
 
-<div class="alert alert-info">
-El producto debe tener al menos un SKU activo para estar disponible en tu tienda. Es necesario adjuntar una imagen al SKU para activarlo.</div>
+>ℹ️ El producto debe tener al menos un SKU activo para estar disponible en tu tienda. Es necesario adjuntar una imagen al SKU para activarlo.
 
 ## Especificaciones
 Aquí se mostrarán las especificaciones anteriormente creadas para los SKU. Si creaste algún campo de SKU obligatorio, el SKU solo podrá activarse una vez que se haya rellenado esa especificación. 

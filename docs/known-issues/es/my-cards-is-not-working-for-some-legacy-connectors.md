@@ -18,9 +18,7 @@ internalReference: 373636
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al intentar guardar una tarjeta de crédito en Mis Tarjetas dentro de la sesión de Mi Cuenta **sin haber realizado ninguna compra con esa tarjeta anteriormente** se produce un error al intentar guardar la tarjeta con un conector interno heredado.

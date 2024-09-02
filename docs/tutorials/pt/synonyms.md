@@ -40,9 +40,7 @@ Saiba mais sobre o cadastro de sinônimos em [Criar sinônimos](https://help.vte
 
 ## Boas práticas
 
-<div class="alert alert-danger">
-  <p>Não utilize as <a href="https://help.vtex.com/pt/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu">Palavras Substitutas</a> do cadastro de produtos e SKUs no Catálogo com o Intelligent Search. Utilize apenas a funcionalidade de sinônimos, pois ela possibilita uma gestão mais escalável de termos por produto.</p>
-</div>
+>❗ Não utilize as [Palavras Substitutas](https://help.vtex.com/pt/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu) do cadastro de produtos e SKUs no Catálogo com o Intelligent Search. Utilize apenas a funcionalidade de sinônimos, pois ela possibilita uma gestão mais escalável de termos por produto.
 
 ### Ordenação dos resultados
 
@@ -70,9 +68,7 @@ Veja a seguir alguns exemplos de configurações de sinônimos:
 | `calça ⇄ calças` | Bidirecional | ❌ Configuração redundante. O Intelligent Search corrige automaticamente casos como esse. |
 | `calça de jeans ⇄ calça jeans` | Bidirecional | ❌ Configuração redundante. O Intelligent Search corrige automaticamente casos como esse. |
 
-<div class="alert alert-info">
-  <p>A funcionalidade de <a href="https://help.vtex.com/pt/tutorial/sinonimos-inteligentes--1rR47Kk96UgFYwh8dkDG7i">Sinônimos Inteligentes</a> gera recomendações de termos para cadastro de sinônimos, além da configuração manual. Caso tenha interesse em implementá-la, entre em contato com nosso <a href="https://support.vtex.com/hc/pt-br/requests">Suporte</a>. É possível que taxas extras se apliquem futuramente.</p>
-</div>
+>ℹ️ A funcionalidade de [Sinônimos Inteligentes](https://help.vtex.com/pt/tutorial/sinonimos-inteligentes--1rR47Kk96UgFYwh8dkDG7i) gera recomendações de termos para cadastro de sinônimos, além da configuração manual. Caso tenha interesse em implementá-la, entre em contato com nosso [Suporte](https://support.vtex.com/hc/pt-br/requests). É possível que taxas extras se apliquem futuramente.
 
 ## Saiba mais
 

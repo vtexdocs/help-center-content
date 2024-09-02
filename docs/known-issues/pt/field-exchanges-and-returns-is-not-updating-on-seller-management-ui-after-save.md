@@ -18,9 +18,7 @@ internalReference: 689886
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Depois de salvar o campo "Trocas e devoluções" na interface do usuário, as informações são atualizadas pela primeira vez, mas se tentarmos sair da área de gerenciamento ou atualizar a página, as informações serão perdidas.

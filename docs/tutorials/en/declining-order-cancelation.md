@@ -23,13 +23,9 @@ The order flow has a [cancellation window](https://help.vtex.com/en/tutorial/ord
 
 For developer’s content, see [Order canceling improvements](https://developers.vtex.com/docs/guides/order-canceling-improvements).
 
-<div class = "alert alert-info">
-In this article, the terms marketplace and seller refer to <a href="https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace">VTEX marketplace</a> and <a href="https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace">VTEX seller</a>. The decline cancellation request feature is not available for external sellers and marketplaces.
-</div>
+>ℹ️ In this article, the terms marketplace and seller refer to [VTEX marketplace](https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace) and [VTEX seller](https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace). The decline cancellation request feature is not available for external sellers and marketplaces.
 
-<div class = "alert alert-warning">
-Orders with <a href="https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">partial invoices</a> cannot be <a href="https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186">canceled</a>. If the customer wants to replace or remove items from the order, it is possible to <a href="https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">change the order</a>.
-</div>
+>⚠️ Orders with [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 ## Order cancellation declined diagram
 
@@ -44,13 +40,12 @@ The description of each step is the following:
 3. If the order is within the cancellation window, the order is automatically canceled, which is the platform’s default behavior. The next steps apply after the cancellation window is over.
 4. The seller receives the cancel order request and decides whether to accept it. The next steps apply when the seller decides not to cancel the order.
 
-  <div class="alert alert-danger">
-To decline an order cancellation request, the order status in the marketplace and seller must be the following:
-<ul>
-<li><b>Marketplace status:</b> waiting for seller decision.</li>
-<li><b>Seller status:</b> cancellation requested.</li>
-</ul>
-</div>
+  >❗ To decline an order cancellation request, the order status in the marketplace and seller must be the following:
+>
+> ***Marketplace status:** waiting for seller decision.
+>
+> ***Seller status:** cancellation requested.
+> 
 
 5. The seller declines the order cancellation and notifies the marketplace.
 6. After the marketplace receives the declined request, the order moves on in the order workflow.
@@ -61,9 +56,7 @@ The request to cancel an order can be made by the marketplace, or by the custome
 
 After that, the order will remain in the [order status](https://help.vtex.com/en/tutorial/order-flow-and-status--tutorials_196) `cancellation requested` for the marketplace and `waiting for seller decision` for the seller until the seller takes action, and accepts or declines the request.
 
-<div class="alert alert-warning">
-If within 30 days the seller takes no action regarding a cancellation order request, the order is automatically canceled by the VTEX platform.
-</div>
+>⚠️ If within 30 days the seller takes no action regarding a cancellation order request, the order is automatically canceled by the VTEX platform.
 
 To decline an order cancellation request via the VTEX Admin, follow the steps below:
 
@@ -77,9 +70,7 @@ To decline an order cancellation request via the VTEX Admin, follow the steps be
 
   ![deny_cancel_request_reason_EN](https://images.ctfassets.net/alneenqid6w5/5UUueX5kuj7OkBCHVhe0oL/022f068cefdd1e6588560d5bcba94ea3/deny_cancel_request_reason_EN.png)
 
-  <div class="alert alert-warning">
-Keep in mind that the message written in this field can be displayed to the customer via <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>, or sent by the marketplace.
-</div>
+  >⚠️ Keep in mind that the message written in this field can be displayed to the customer via [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), or sent by the marketplace.
 
 5. Click `Decline Request`.
 

@@ -18,9 +18,7 @@ internalReference: 774155
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando há um pacote dividido para entrega programada, o preço de um dos pacotes pode estar incorreto na IU, mas os preços estarão corretos na API.

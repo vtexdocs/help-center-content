@@ -64,7 +64,7 @@ To download your "boleto", follow the steps below:
 6. Click on **Pay this Invoice**.
 7. A new "boleto" will be generated; and penalties and taxes will be included automatically when required. 
 
-<div class="alert alert-info">In Brazil, a purple invoice can indicate that it is overdue but that a new "boleto" with an upcoming due date has already been issued. In such cases, the invoice will continue as overdue until it's paid. If no payment is made, the invoice color will switch to red again.</div>
+>ℹ️ In Brazil, a purple invoice can indicate that it is overdue but that a new "boleto" with an upcoming due date has already been issued. In such cases, the invoice will continue as overdue until it's paid. If no payment is made, the invoice color will switch to red again.
 
 ![baixar boletos en](https://images.ctfassets.net/alneenqid6w5/4NxkYNfPImdKOMzCkuUAmp/4e545d21ada8b602c02ea337ff209d40/baixar_boletos_en.gif)
 

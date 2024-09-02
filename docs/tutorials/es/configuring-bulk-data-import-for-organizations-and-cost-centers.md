@@ -17,9 +17,7 @@ subcategory: 6bSdupUQgvuXjBL9Igawxl
 
 La importación de datos en masa simplifica el proceso de actualización y mantenimiento de información para organizaciones compradoras y sus usuarios (miembros) y centros de costo.
 
-<div class="alert alert-warning">
-Antes de configurar la funcionalidad de importación en masa, necesitas tener la aplicación <a href="https://developers.vtex.com/docs/apps/vtex.b2b-suite">B2B Suite</a> instalada en tu tienda.
-</div>
+>⚠️ Antes de configurar la funcionalidad de importación en masa, necesitas tener la aplicación [B2B Suite](https://developers.vtex.com/docs/apps/vtex.b2b-suite) instalada en tu tienda.
 
 Para importar los datos en masa a la plataforma VTEX, sigue los pasos a continuación:
 
@@ -27,17 +25,13 @@ Para importar los datos en masa a la plataforma VTEX, sigue los pasos a continua
 
 2.	En la pestaña Organizaciones, haz clic en **Nuevo** y luego en Importar en masa. Haz clic en el botón Cargar y selecciona tu archivo **XLSX**, o arrastra y suelta el archivo a la área punteada. El tamaño del archivo importado debe ser menor que 50 MB.
 
-<div class = "alert alert-info">
-Puedes bajar un archivo de plantilla haciendo clic en VTEX file template en la parte inferior de la ventana de importación y rellenar los datos.
-</div>
+>ℹ️ Puedes bajar un archivo de plantilla haciendo clic en VTEX file template en la parte inferior de la ventana de importación y rellenar los datos.
 
 <ol start="3">
 	<li>Después de que la plataforma realice la verificación del archivo de importación y no encuentre errores, haz clic en Importar.</li>
 </ol>
 
-<div class = "alert alert-info">
-  Si la plataforma detecta algún error, consulta la sección <b>Errores de importación</b>.
-</div>
+>ℹ️ Si la plataforma detecta algún error, consulta la sección **Errores de importación**.
 
 <ol start="4">
 	<li>Una vez finalizado el proceso de importación, puedes hacer clic en Ver detalles de la importación para acceder al informe de importación.</li>
@@ -57,9 +51,7 @@ Para ver los detalles de los problemas encontrados, sigue los pasos a continuaci
 
 3. Después de corregir los errores, puedes reiniciar el proceso de importación cargando el archivo corregido nuevamente.
 
-<div class = "alert alert-info">
-Asegúrate de que el archivo que cargues solo contenga las correcciones de los errores previamente identificados para garantizar que la importación se realice correctamente.
-</div>
+>ℹ️ Asegúrate de que el archivo que cargues solo contenga las correcciones de los errores previamente identificados para garantizar que la importación se realice correctamente.
 
 ![Bulk import - ES](https://images.ctfassets.net/alneenqid6w5/xXZgwvWu4ngsY9D9hjQsO/2cdc7eb8e0710fff44a55b1a2619c58b/Bulk_import_vers_o_error-gif-ES.gif)
 

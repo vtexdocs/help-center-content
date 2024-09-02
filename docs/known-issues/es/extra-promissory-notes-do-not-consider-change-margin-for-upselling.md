@@ -18,9 +18,7 @@ internalReference: 525987
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El valor máximo para la venta adicional sólo se calcula para los pagarés por defecto, cuando se añaden otros adicionales, nuestra pasarela no considera el campo de rango de margen cambiante en el cálculo

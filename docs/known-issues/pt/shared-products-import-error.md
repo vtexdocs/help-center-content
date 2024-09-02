@@ -18,9 +18,7 @@ internalReference: 647962
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, temos um erro em alguns casos em que o caminho da categoria contém "/" e os produtos não podem ser importados para produtos compartilhados

@@ -17,8 +17,7 @@ subcategory: 4uqMnZjwBO04uWgCom8QiA
 
 Every VTEX API integration needs to authenticate through appKey and appToken.
 
-<div class="alert alert-warning">Only the <b>Master user</b> of the store has permission to deal with tokens. The Master user is the one whose email is in the <b>Contact</b> section of the Accounts screen, in Account management.
-</div>
+>⚠️ Only the **Master user** of the store has permission to deal with tokens. The Master user is the one whose email is in the **Contact** section of the Accounts screen, in Account management.
 
 To create these keys, follow these steps:
 
@@ -30,8 +29,7 @@ To create these keys, follow these steps:
 6. Click on __Generate new Tokens__.
 7. The token is in the field that is shown next. For a matter of safety, __it is shown only once__. Copy this token and save it in a safe place.
 
-<div class="alert alert-warning"><strong>Attention</strong>: every appKey and appToken pair, once is created, is born without link to an access profile. So, after creating it, you should link it to the correspondent access profile.
-</div>
+>⚠️ **Attention**: every appKey and appToken pair, once is created, is born without link to an access profile. So, after creating it, you should link it to the correspondent access profile.
 
 For that, follow these steps:
 

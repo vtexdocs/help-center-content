@@ -15,8 +15,7 @@ legacySlug: master-data-v2
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---
 
-<div class="alert alert-warning">
-<strong>Atención:</strong> Esta versión no es compatible con las entidades de datos de la versión anterior. Se puede utilizar esta configuración sólo para nuevas entidades de datos.</div>
+>⚠️ **Atención:** Esta versión no es compatible con las entidades de datos de la versión anterior. Se puede utilizar esta configuración sólo para nuevas entidades de datos.
 
 ## Introducción
 

@@ -15,9 +15,7 @@ legacySlug: vtex-ad-network-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
-<div class = "alert alert-info">
-<p>VTEX Ad Network is in beta, which means that we are working to improve it. If you are already a VTEX customer and wish to adopt this functionality for your business, please contact <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Commercial Support</a>. If you are not yet a customer but are interested in this solution, please fill out the <a href="https://vtex.com/us-en/contact/">contact form</a>.</p>
-</div>
+>ℹ️ VTEX Ad Network is in beta, which means that we are working to improve it. If you are already a VTEX customer and wish to adopt this functionality for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). If you are not yet a customer but are interested in this solution, please fill out the [contact form](https://vtex.com/us-en/contact/).
 
 **VTEX Ad Network** connects VTEX stores with brands interested in advertising their products. This connection allows advertisers and merchants to boost their business:
 
@@ -72,8 +70,7 @@ This prioritization process consists of three stages:
 
 The bid amount is set once the ads displayed on the page have been defined. The winning bid will be the final amount of the second-highest bid plus $0.01 USD.
 
-<div class="alert alert-warning">
-Ads may not be selected through the prioritization process if the promoted products do not fit the customer behavior, store coverage, or available budget.</div>
+>⚠️ Ads may not be selected through the prioritization process if the promoted products do not fit the customer behavior, store coverage, or available budget.
 
 ### Quality score
 
@@ -108,9 +105,7 @@ See below how you can join **VTEX Ad Network** as a [merchant](#merchants) that 
 
 ### Merchants
 
-<div class="alert alert-warning">
-Currently, only stores developed with <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a> can offer ad space.
-</div>
+>⚠️ Currently, only stores developed with [Store Framework](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework) can offer ad space.
 
 To make ad space available in your store, you need to contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) to request the installation of the __VTEX Ad Network app for merchants__ in your VTEX account.
 

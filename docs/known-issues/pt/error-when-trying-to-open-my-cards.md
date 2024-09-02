@@ -18,9 +18,7 @@ internalReference: 370706
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Alguns usuários específicos estão recebendo a seguinte mensagem de erro ao fazer o login em Meus Cartões:

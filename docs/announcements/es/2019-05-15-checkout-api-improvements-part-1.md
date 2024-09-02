@@ -19,9 +19,7 @@ Nuestro equipo de desarrollo está constantemente mejorando la performance de nu
 
 Con la comunicación de estas mejoras, queremos permitir que usted ya empiece el proceso de actualización de las integraciones y personalizaciones de su tienda, pensando en las nuevas soluciones ofrecidas por nuestro sistema.
 
-<div class="alert alert-warning">
-El layout actual de la API del Checkout sigue funcionando con normalidad. Sin embargo, es muy importante que la implementación de las mejoras descritas a continuación sea hecha desde ahora. Todavía no hay previsión para el lanzamiento de la nueva mayor de la API del Checkout. Sin embargo, en esta próxima versión, los puntos descontinuados que se describen a continuación ya no funcionarán.
-</div>
+>⚠️ El layout actual de la API del Checkout sigue funcionando con normalidad. Sin embargo, es muy importante que la implementación de las mejoras descritas a continuación sea hecha desde ahora. Todavía no hay previsión para el lanzamiento de la nueva mayor de la API del Checkout. Sin embargo, en esta próxima versión, los puntos descontinuados que se describen a continuación ya no funcionarán.
 
 ## Dirección en el carrito y en el pedido
 

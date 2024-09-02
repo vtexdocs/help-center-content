@@ -21,9 +21,7 @@ Now you don't have to depend on external integrations to sell on Magazine Luiza.
 ## How was the process
 Our integration with Magazine Luiza became available in October 2018, but only for stores that weren't connected to the marketplace yet. In early December,  we started the migration process of stores that were operating with external integrations.  It all went down smoothly, with no action required on client side.
 
-<div class="alert alert-info">
-Magazine Luiza's integration occurs through  Integra Commerce's system, which intermediates the information sent by VTEX and repasses them to the marketplace.
-</div>
+>ℹ️ Magazine Luiza's integration occurs through  Integra Commerce's system, which intermediates the information sent by VTEX and repasses them to the marketplace.
 
 
 ## Complete, stable, and with our team's full support

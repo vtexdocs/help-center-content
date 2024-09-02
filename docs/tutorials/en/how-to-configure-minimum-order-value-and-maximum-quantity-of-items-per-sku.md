@@ -32,9 +32,7 @@ In B2B operations, there is a need to maintain relationships with buyers who req
 
 ![Minimum Order Value - EN](https://images.ctfassets.net/alneenqid6w5/6bJ49E109ewRg9VUoP16rP/871fa991d270c1e64c12f0cdf3c5a4ab/Minimum_Order_Value_-_EN.png)
 
-<div class="alert alert-warning">
-The customer is allowed to assemble a cart with a value less than that specified in the "Minimum total amount in cart" rule. However, at the time of closing the purchase, only orders that are equal to or greater than the specified amount will be completed.
-</div>
+>⚠️ The customer is allowed to assemble a cart with a value less than that specified in the "Minimum total amount in cart" rule. However, at the time of closing the purchase, only orders that are equal to or greater than the specified amount will be completed.
 
 ## Setting a maximum number of items of the same SKU per cart
 
@@ -44,9 +42,7 @@ The customer is allowed to assemble a cart with a value less than that specified
 
 ![Max quantity of the same SKU in cart](https://images.ctfassets.net/alneenqid6w5/Tb4rS7FposwzygY5HlEpr/0a8cf8d7955ae90cea6332cafb6990ed/Quantidade_Maxima_de_um_mesmo_SKU_no_carrinho_EN.png)
 
-<div class="alert alert-warning">
-There are no limits on the maximum number of <b>same SKU</b> items per cart. The only restriction refers to the maximum number of items from <b>different SKUs</b>, which must be a maximum of 300 items per cart.
-</div>
+>⚠️ There are no limits on the maximum number of **same SKU** items per cart. The only restriction refers to the maximum number of items from **different SKUs**, which must be a maximum of 300 items per cart.
 
 If you want to use actions that prevent the user from exceeding the specified values even during the purchase flow (for example, create a cart button lock when the maximum amount of items is reached), it will be necessary to create a customization in the front-end of the store.
 

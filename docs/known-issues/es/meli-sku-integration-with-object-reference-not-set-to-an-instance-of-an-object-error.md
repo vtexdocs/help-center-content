@@ -18,9 +18,7 @@ internalReference: 657515
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunos skus en el Mercado Livre están registrando error: "Referencia de objeto no establecida a una instancia de un objeto".

@@ -17,9 +17,7 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 Neste artigo, explicaremos como habilitar o vale alimentação Alelo como um meio de pagamento no Checkout.
 
-<div class="alert alert-info">
-<strong>Atenção</strong>: o vale alimentação Alelo é um meio de pagamento aceito apenas entre clientes brasileiros.
-</div>
+>ℹ️ **Atenção**: o vale alimentação Alelo é um meio de pagamento aceito apenas entre clientes brasileiros.
 
 Atualmente, na VTEX, a Cielo é a adquirente que aceita a Alelo como meio de pagamento. Logo, o primeiro passo é habilitar essa adquirente como afiliação de gateway na sua loja. Você pode conferir o tutorial completo de como realizar essa configuração [aqui](https://help.vtex.com/pt/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu?locale=pt "aqui"). 
 
@@ -41,6 +39,4 @@ Agora, acompanhe as instruções:
 8. Do lado direito da tela, defina as __condições especiais__ de pagamento.
 9. Clique no botão azul __“Salvar”__ para finalizar.
 
-<div class="alert alert-info">
-<strong>Atenção</strong>: lembre-se que as condições especiais de pagamento demoram cerca de 10 minutos para serem aplicadas no Checkout.
-</div> 
+>ℹ️ **Atenção**: lembre-se que as condições especiais de pagamento demoram cerca de 10 minutos para serem aplicadas no Checkout. 

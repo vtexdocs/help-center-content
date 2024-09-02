@@ -17,9 +17,7 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 La página [Todos los pedidos](https://help.vtex.com/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi), permite hacer seguimiento de los pedidos de la tienda, y la página de [detalles del pedido](https://help.vtex.com/es/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) permite ver toda la información sobre un pedido y gestionarlo en un solo lugar. Puedes comprobar en qué etapa se encuentra el pedido y sus interacciones; acceder a los datos del cliente, de la entrega y del pago; hacer un seguimiento de la entrega; y enviar [emails](https://help.vtex.com/es/tutorial/como-funciona-el-message-center--tutorials_84) al cliente.
 
-<div class = "alert alert-info">
-Para saber más, consulta el artículo <a href="https://help.vtex.com/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi">Todos los pedidos</a>. Para ver cuáles son los status del flujo de pedidos, consulta el artículo <a href="https://help.vtex.com/es/tutorial/flujo-de-pedido-en-el-oms--tutorials_196">Flujo y status de pedidos</a>.
-</div>
+>ℹ️ Para saber más, consulta el artículo [Todos los pedidos](https://help.vtex.com/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi). Para ver cuáles son los status del flujo de pedidos, consulta el artículo [Flujo y status de pedidos](https://help.vtex.com/es/tutorial/flujo-de-pedido-en-el-oms--tutorials_196).
 
 Para hacer el seguimiento de un pedido, sigue los pasos a continuación:
 

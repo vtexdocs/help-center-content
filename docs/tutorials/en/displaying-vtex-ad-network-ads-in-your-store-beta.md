@@ -15,17 +15,13 @@ legacySlug: displaying-vtex-ad-network-ads-in-your-store-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
-<div class = "alert alert-info">
-<p>VTEX Ad Network is in beta, which means that we are working to improve. If you are already a VTEX customer and wish to adopt this functionality for your business, please contact <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Commercial Support</a>. If you are not yet a customer but are interested in this solution, please fill out the <a href="https://vtex.com/us-en/contact/">contact form</a>.</p>
-</div>
+>ℹ️ VTEX Ad Network is in beta, which means that we are working to improve. If you are already a VTEX customer and wish to adopt this functionality for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). If you are not yet a customer but are interested in this solution, please fill out the [contact form](https://vtex.com/us-en/contact/).
 
 With [VTEX Ad Network (Beta)](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur), VTEX stores can offer ad space in their stores for brands to promote products. VTEX will select ads for products already in your catalog, and your store will receive a fee for each ad click in your store.
 
 To become a part of the VTEX Ad Network and start displaying ads in your store, install the VTEX Ad Network for stores app.
 
-<div class="alert alert-warning">
-Currently, VTEX stores can only offer ad space on stores using <a href="https://help.vtex.com/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a>.
-</div>
+>⚠️ Currently, VTEX stores can only offer ad space on stores using [Store Framework](https://help.vtex.com/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework).
 
 ## Monitoring results
 

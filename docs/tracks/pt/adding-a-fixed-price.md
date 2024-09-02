@@ -61,9 +61,7 @@ Para excluir um preço fixo existente, siga os passos abaixo.
 3. Clique no preço fixo cadastrado.
 4. Clique em `Remover`.
 
-<div class = "alert alert-info">
-Não é possível fazer exclusão em massa de preços fixos pela planilha. A exclusão deve ser feita manualmente, seguindo os passos acima, ou via API <a href="https://developers.vtex.com/docs/api-reference/pricing-api#delete-/pricing/prices/-itemId-/fixed/-priceTableId-">Delete fixed prices on a price table or trade policy</a>.
-</div>
+>ℹ️ Não é possível fazer exclusão em massa de preços fixos pela planilha. A exclusão deve ser feita manualmente, seguindo os passos acima, ou via API [Delete fixed prices on a price table or trade policy](https://developers.vtex.com/docs/api-reference/pricing-api#delete-/pricing/prices/-itemId-/fixed/-priceTableId-).
 
 ## Pricing API
 

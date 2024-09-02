@@ -25,9 +25,7 @@ For a better understanding of how to fill the [table of base prices](https://hel
 
 - **List Price**: The list price functions as a SKU's former price assumed to be on sale. It's also known as the "original price" and can be shown in your store's window display. This field is optional when registering a price. 
 
-<div class="alert alert-info">
-<p>In <b>Cost Price</b>, <b>Base Price</b> and <b>List Price</b>, you can insert decimal values separated by dot. Example: <code>4.95</code>.</p>
-</div>
+>ℹ️ In **Cost Price**, **Base Price** and **List Price**, you can insert decimal values separated by dot. Example: `4.95`.
 
 The next spreadsheet fields are optional, used only to make SKU identification easier. To view these fields in the spreadsheet, you'll need to select the *include metadata in exported tables* export option.
 

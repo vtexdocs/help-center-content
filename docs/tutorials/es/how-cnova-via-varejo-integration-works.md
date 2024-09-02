@@ -83,11 +83,11 @@ _`Ej.1:` promoción del 10% de descuento para una categoría determinada_.
 
 _`Ej.2:` SKU X está R$ 10,00 en la política comercial usada en CNova/Via Varejo y tiene un precio fijo de R$ 15,00 para esta misma política. La integración enviará R$ 15,00.
 
-<div class="alert alert-warning">
-OBS: como la forma de pago se hace en el marketplace, las reglas de pago son determinadas por este. Por eso, no conseguimos enviar precios diferenciales en función de la forma de pago.
-<br />
-<em>Ej.: si en VTEX existen intereses configurados para pagos en cuotas, el precio enviado continuará siendo lo que la simulación de fulfillment devuelve.</em>
-</div>
+>⚠️ OBS: como la forma de pago se hace en el marketplace, las reglas de pago son determinadas por este. Por eso, no conseguimos enviar precios diferenciales en función de la forma de pago.
+>
+>
+> 
+> *Ej.: si en VTEX existen intereses configurados para pagos en cuotas, el precio enviado continuará siendo lo que la simulación de fulfillment devuelve.*
 
 ## 4. Promociones
 
@@ -112,15 +112,19 @@ Cuando se hace un pedido en el marketplace hay algunos puntos que influyen en su
 
 En esta integración existen dos puntos que influenciarán en la entrega: __Cálculo del Flete__ y el __Tiempo de Preparación de Envío__. La suma de los dos será el __Tiempo de Entrega Total__.
 
-<div class="alert alert-info">
-Ej.:
-<br />
-Flete Normal = 3 días.
-<br />
-Tiempo de Costo = 2 días.
-<br />
-Tiempo Total de Entrega = 5 días.
-</div>
+>ℹ️ Ej.:
+>
+>
+> 
+> Flete Normal = 3 días.
+>
+>
+> 
+> Tiempo de Costo = 2 días.
+>
+>
+> 
+> Tiempo Total de Entrega = 5 días.
 
 - __Flete__
 
@@ -132,46 +136,78 @@ El comerciante tiene también la posibilidad de registrar en CNova/Via Varejo un
 
 El tiempo de preparación de envío se basa en la suma del campo `Tiempo de Costo` en el Stock con el `Tiempo de Costo` en el Muelle. Y nosotros enviamos el mismo tiempo de preparación de forma masiva para todos los productos.
 
-<div class="alert alert-info">
-Ej.:
-<br />
-<strong>Stock A</strong>
-<br />
-- Muelle 1: Tiempo de Costo = 3 días.
-<br />
-<strong>Stock B</strong>
-<br />
-- Muelle 1: Tiempo de Costo = 5 días.
-<br />
-<br />
-<strong>Muelle 1:</strong>
-<br />
-- Tiempo de Costo = 2 días.
- <br />
-<br />
-Un pedido con Tiempo de Flete = 3 días, se quedará con un Tiempo Total de Entrega diferente dependiendo de dónde salga el producto.
-<br />
-<br />
-<strong>Saliendo del Muelle A:</strong>
-<br />
-- Tiempo de preparación = 3 + 2 (muelle 1) = 5 días.
-<br />
-- Tiempo de flete = 3 días.
-<br />
-- Tiempo total de entrega = 8 días.
-<br />
-<strong>Saliendo del Muelle B:</strong>
-<br />
-- Tiempo de preparación = 5 + 2 (muelle 1) = 7 días
-<br />
-- Tiempo de flete = 3 días.
-<br />
-- Tiempo total de entrega = 10 días.
-</div>
+>ℹ️ Ej.:
+>
+>
+> 
+> **Stock A**
+>
+>
+> 
+> - Muelle 1: Tiempo de Costo = 3 días.
+>
+>
+> 
+> **Stock B**
+>
+>
+> 
+> - Muelle 1: Tiempo de Costo = 5 días.
+>
+>
+> 
+>
+>
+> 
+> **Muelle 1:**
+>
+>
+> 
+> - Tiempo de Costo = 2 días.
+>
+>
+> 
+>
+>
+> 
+> Un pedido con Tiempo de Flete = 3 días, se quedará con un Tiempo Total de Entrega diferente dependiendo de dónde salga el producto.
+>
+>
+> 
+>
+>
+> 
+> **Saliendo del Muelle A:**
+>
+>
+> 
+> - Tiempo de preparación = 3 + 2 (muelle 1) = 5 días.
+>
+>
+> 
+> - Tiempo de flete = 3 días.
+>
+>
+> 
+> - Tiempo total de entrega = 8 días.
+>
+>
+> 
+> **Saliendo del Muelle B:**
+>
+>
+> 
+> - Tiempo de preparación = 5 + 2 (muelle 1) = 7 días
+>
+>
+> 
+> - Tiempo de flete = 3 días.
+>
+>
+> 
+> - Tiempo total de entrega = 10 días.
 
-<div class="alert alert-warning">
-OBS: en caso de utilizar la tabla de contingencia para hacer el cálculo del flete, CNova no consulta a VTEX. De esta forma, el único factor que se tendrá en cuenta para el <strong>Tiempo Total de Entrega</strong>, será el <strong>Flete</strong> proporcionado por ellos, ignorando el <strong>Tiempo de Preparación</strong>. Se debe tener cuidado con esto, pues puede generar divergencias en el <strong>Tiempo Total de Entrega</strong>.
-</div>
+>⚠️ OBS: en caso de utilizar la tabla de contingencia para hacer el cálculo del flete, CNova no consulta a VTEX. De esta forma, el único factor que se tendrá en cuenta para el **Tiempo Total de Entrega**, será el **Flete** proporcionado por ellos, ignorando el **Tiempo de Preparación**. Se debe tener cuidado con esto, pues puede generar divergencias en el **Tiempo Total de Entrega**.
 
 #### Precio y disponibilidad:
 

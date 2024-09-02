@@ -15,9 +15,7 @@ legacySlug: integration-between-non-vtex-marketplace-and-vtex-seller
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-<div class="alert alert-warning">
-Check out the updated version of this <a href="https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide">marketplace integration guide</a> in our Developer Portal. 
-</div> 
+>⚠️ Check out the updated version of this [marketplace integration guide](https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide) in our Developer Portal. 
 
 The final step in integrating a non-VTEX Marketplace with a VTEX Seller is to allow communication with the Seller about __orders__ placed on the Marketplace.
 
@@ -478,9 +476,13 @@ Endpoint: `https://{AccountName}.vtexcommercestable.com.br/api/fulfillment/pvt/o
 
 ## Marketplace Services Endpoint
 
-<div class="alert alert-info">
-  The <strong>Marketplace Services Endpoint</strong> is an endpoint that must be created by the Marketplace, with the objective of receiving 3 different bits of information sent by the Seller:<br>- Invoice<br>- Carrier tracking code (if any)<br>- Cancellation request (when it occurs)
-</div>
+>ℹ️ The **Marketplace Services Endpoint** is an endpoint that must be created by the Marketplace, with the objective of receiving 3 different bits of information sent by the Seller:
+>
+> - Invoice
+>
+> - Carrier tracking code (if any)
+>
+> - Cancellation request (when it occurs)
 
 For the next 3 integration steps, the Marketplace needs to:
 1. Implement this endpoint on your side, preparing it to receive a payload as in the example shown below.
@@ -565,9 +567,7 @@ The Seller sends the tracking code and URL to __Marketplace Services Endpoint__ 
 
 To receive the tracking code, the final endpoint must be as: `https://{marketplaceServicesEndpoint}/pvt/orders/{marketplaceOrderId}/invoice`
 
-<div class="alert alert-info">
-Even though the route to receive the tracking code is the same as the one used by the Marketplace to receive the invoice (<code>.../invoice</code>), these two processes take place in two distinct steps: a first call in which the Seller sends the invoice data; followed by a second containing the tracking information.
-</div>
+>ℹ️ Even though the route to receive the tracking code is the same as the one used by the Marketplace to receive the invoice (`.../invoice`), these two processes take place in two distinct steps: a first call in which the Seller sends the invoice data; followed by a second containing the tracking information.
 
 ## 6) Receive cancellation request - Seller calls Marketplace endpoint (Marketplace Services Endpoint)
 

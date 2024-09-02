@@ -37,9 +37,7 @@ Para crear una tag de control personalizado, basta hacer clic en __Add__, regist
 
 ![cms-custom-elements EN / ES](https://images.ctfassets.net/alneenqid6w5/6pGE6dFRJuawKcMWce0Gem/87bbe6dfb66e75a8402b4be8935eeb18/custom_elements_EN_E_ES.png)
 
-<div class="alert alert-warning">
-  <p><b>Atención:</b> no cree un control del tipo HTML con un elemento <code>title</code>. Esto puede interferir con el buen funcionamiento de su tienda.</p>
-</div>
+>⚠️ **Atención:** no cree un control del tipo HTML con un elemento `title`. Esto puede interferir con el buen funcionamiento de su tienda.
 
 ## Aplicando un control personalizado a un template de página
 

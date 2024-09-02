@@ -23,9 +23,7 @@ Neste artigo, explicamos como funciona a herança de especificações e o cadast
 - [Herança de especificações](#heranca-de-especificacoes)
 - [Passo a passo no Admin VTEX](#passo-a-passo-no-admin-vtex)
 
-<div class = "alert alert-info">
-  <p>Para criar um grupo de especificações utilizando a <strong>Catalog API</strong>, siga o guia para desenvolvedores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a>.</p>
-</div>
+>ℹ️ Para criar um grupo de especificações utilizando a **Catalog API**, siga o guia para desenvolvedores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification).
 
 ## Herança de especificações
 

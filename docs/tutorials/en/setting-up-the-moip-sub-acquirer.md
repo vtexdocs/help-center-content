@@ -17,9 +17,7 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 Moip is a [sub-acquirer](/en/tutorial/what-is-a-sub-acquirer) that provides a single integration to connect your store with all parties involved in the payment flow. as well as protection against fraud and a [transparent checkout solution](/en/tutorial/what-is-transparent-checkout) with no redirects.
 
-<div class="alert alert-warning">
-The information in this article are just configuration references for merchants who are already using the Moip sub-acquirer. For new affiliations, we recommend using the sub-acquirer <a href="https://help.vtex.com/en/tutorial/configurar-o-subadquirente-moipv2--4BipUcTxQ7cq2BiYzUDmEH">MoipV2</a>.
-  </div>
+>⚠️ The information in this article are just configuration references for merchants who are already using the Moip sub-acquirer. For new affiliations, we recommend using the sub-acquirer [MoipV2](https://help.vtex.com/en/tutorial/configurar-o-subadquirente-moipv2--4BipUcTxQ7cq2BiYzUDmEH).
 
 To configure Moip in your store, follow the steps below:
 
@@ -40,9 +38,7 @@ To configure Moip in your store, follow the steps below:
   6. Click on <b>Save</b>
   </ui><br><br>
 
-<div class="alert alert-warning">
-Moip does not process transactions if there are products costing "US$0" in the shopping cart.  For example, suppose you create a gift wrap product as an <a href="https://help.vtex.com/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm?&utm_source=autocomplete">attachment</a>. In this case, this item’s price will be US$0, preventing the payment from being processed.
-  </div>
+>⚠️ Moip does not process transactions if there are products costing "US$0" in the shopping cart.  For example, suppose you create a gift wrap product as an [attachment](https://help.vtex.com/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm?&utm_source=autocomplete). In this case, this item’s price will be US$0, preventing the payment from being processed.
 
 ## Setting up the payment condition
 

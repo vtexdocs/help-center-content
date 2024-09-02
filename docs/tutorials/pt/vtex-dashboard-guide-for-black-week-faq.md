@@ -47,9 +47,9 @@ Para configurar a referência, siga os passos a seguir:
 4. Defina uma data.  
 5. Clique em **`Aplicar`**.  
 
-<div class="alert alert-warning">
-Uma comparação útil durante a Black Week é com a mesma data do ano anterior. No ajuste de referência, defina preferencialmente uma data entre 21/11/2022 e 27/11/2022, idealmente, os mesmos dias da semana. <br>Esta opção está disponível para clientes que utilizavam a plataforma VTEX nesse período no ano passado.</br>
-</div>
+>⚠️ Uma comparação útil durante a Black Week é com a mesma data do ano anterior. No ajuste de referência, defina preferencialmente uma data entre 21/11/2022 e 27/11/2022, idealmente, os mesmos dias da semana. 
+>
+> Esta opção está disponível para clientes que utilizavam a plataforma VTEX nesse período no ano passado.</br>
 
 ![referencia-pt](https://images.ctfassets.net/alneenqid6w5/1ba2BbD9ANCJfHj5o4jwQC/c92d901550424a6ce3e095a28fd1f8db/referencia-pt.png)
 
@@ -72,9 +72,7 @@ Para visualizar os produtos mais vendidos, no quadro de **Métricas,** clique no
 
 ![mais-vendidos-pt](https://images.ctfassets.net/alneenqid6w5/1sooXuFeV0NyhByWoLegHb/9c99acbbf617a57ef431bfec05873aa9/mais-vendidos-pt.png)
 
-<div class="alert alert-info">
-Para análises ou acompanhamentos de períodos maiores, recomendamos o uso do nosso dashboard de performance de vendas, que será detalhado na próxima pergunta.
-  </div>
+>ℹ️ Para análises ou acompanhamentos de períodos maiores, recomendamos o uso do nosso dashboard de performance de vendas, que será detalhado na próxima pergunta.
 
 ## Como acompanhar meus dados de ecommerce além do dia de hoje?
 
@@ -139,9 +137,9 @@ Há alguns motivos que podem levar a diferenças entre as métricas da Visão ge
 
 Para ver as métricas combinadas de todas as lojas,acesse o dashboard **Performance de vendas,** que apresenta dados agregados com uma taxa de atualização de aproximadamente 90 minutos. 
 
-<div class="alert alert-danger">
-  No <b>dashboard Visão geral em tempo real,</b> ecommercess que operam com mais de uma moeda têm seus pedidos somados somente na moeda mais utilizada em suas vendas.<br>Para comparar com a tela de <b>Pedidos,</b> você deve somar o total de pedidos de todas as suas moedas.</br>
-</div>  
+>❗ No **dashboard Visão geral em tempo real,** ecommercess que operam com mais de uma moeda têm seus pedidos somados somente na moeda mais utilizada em suas vendas.
+>
+> Para comparar com a tela de **Pedidos,** você deve somar o total de pedidos de todas as suas moedas.</br>  
 
 ![todos-os-pedidos-pt](https://images.ctfassets.net/alneenqid6w5/4tG8VMrSZU45ZRsDHifGPV/9891a93c18c0a1858c4d96340e17ac21/todos-os-pedidos-pt.png)
 

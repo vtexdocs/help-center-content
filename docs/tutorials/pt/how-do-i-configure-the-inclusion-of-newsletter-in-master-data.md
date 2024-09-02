@@ -19,9 +19,7 @@ Captação de newsletter é um formulário que pode ser inserido em qualquer pá
 
 Esse artigo tem com objetivo auxiliar na configuração para a captação dos e-mails de clientes interessados em receber newsletter pelo Master Data.
 
-<div class="alert alert-warning">
-O controle vtex.cmc:newsletterOptIn está descontinuado e não deve mais ser usado.
-</div>
+>⚠️ O controle vtex.cmc:newsletterOptIn está descontinuado e não deve mais ser usado.
 
 Esta opção de configuração pelo Master Data oferece a comodidade de tratar os dados de todos os clientes pelo mesmo local, visto que todos os clientes cadastrado na loja já estão no Master Data. Ou seja, é o local próprio para a manutenção e ações relacionadas aos clientes e manter todos os cadastros em um só lugar é facilitar o dia a dia.
 

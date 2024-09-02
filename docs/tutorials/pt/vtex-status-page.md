@@ -125,9 +125,7 @@ Para visualizar as ocorrências de um dia específico, passe o mouse sobre a dat
 
 ![statuspage-8](https://images.ctfassets.net/alneenqid6w5/2aRBMeTVELfszcFQFpXyUJ/36a4d394c1fb447958eec18ceaa849d3/statuspage-8.png)
 
-<div class="alert alert-warning">
-  <p>Se a manutenção agendada durar um período maior que um dia, somente a data de início estará marcada no calendário. É necessário abrir o <a href="#registro-de-manutencao-agendada">registro da manutenção</a> para ver a data de início e a data de fim.</p>
-</div>
+>⚠️ Se a manutenção agendada durar um período maior que um dia, somente a data de início estará marcada no calendário. É necessário abrir o [registro da manutenção](#registro-de-manutencao-agendada) para ver a data de início e a data de fim.
 
 A seguir, detalhamos as informações disponíveis no [registro de incidente](#registro-de-incidente) e no [registro de manutenção agendada](#registro-de-manutencao-agendada).
 

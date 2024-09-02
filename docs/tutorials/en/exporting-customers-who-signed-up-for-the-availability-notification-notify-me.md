@@ -15,9 +15,7 @@ legacySlug: exporting-clients-registered-in-the-availability-notification
 subcategory: 5yDQmr18K4GgQAeGwq8USa
 ---
 
-<div class="alert alert-warning">
-<p>This article applies only to the <strong>Notify me</strong> feature in stores that use <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Legacy CMS Portal</a>. For stores using <a href="https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io">VTEX IO</a>, it is necessary to follow the instructions on the <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify">Availability Notify</a> guide.</p>
-</div>
+>⚠️ This article applies only to the **Notify me** feature in stores that use [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). For stores using [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), it is necessary to follow the instructions on the [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify) guide.
 
 To export the data of customers who registered on the availability notification option ([Notify me](https://help.vtex.com/en/tutorial/setting-up-the-notify-me-option--2VqVifQuf6Co2KG048Yu6e)), follow the steps below:
 

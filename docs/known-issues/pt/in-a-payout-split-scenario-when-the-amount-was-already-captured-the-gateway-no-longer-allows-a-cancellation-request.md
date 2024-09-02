@@ -18,9 +18,7 @@ internalReference: 742046
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Para um cenário dividido, quando o usuário faz um pedido de mudança ou mesmo um simples cancelamento após o pagamento já ter sido capturado, o gateway não permite mais receber um novo UpdateAdditionalData.

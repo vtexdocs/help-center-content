@@ -58,9 +58,7 @@ If you want any user in your store to be able to perform the actions associated 
 ### Application Keys
 Application keys with the **Owner (Admin Super)** role will not automatically be granted the **User Administrator - RESTRICTED** role.  Therefore, if you want any application key to be able to perform the actions associated with the above **Save user** feature, make sure that this key has the **User Administrator - RESTRICTED** role or create a [custom role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-perfis) that includes the **Save user** resource.
 
-<div class="alert alert-warning">
-Note that with the changes described above, application keys no longer have the <b>Save user</b> resource, so a user with access to this feature must grant it, if needed.
-</div>
+>⚠️ Note that with the changes described above, application keys no longer have the **Save user** resource, so a user with access to this feature must grant it, if needed.
 
 ## How to protect your store app keys?
 

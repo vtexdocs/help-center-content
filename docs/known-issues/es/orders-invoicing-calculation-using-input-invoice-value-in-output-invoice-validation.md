@@ -18,9 +18,7 @@ internalReference: 930491
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Durante el proceso de envío de facturas, es posible que el usuario envíe facturas de salida y de entrada, pero si en un pedido se realizan dos facturas parciales, una de salida y otra de entrada, el sistema suma estos valores para validar si el pedido puede recibir una nueva factura, imposibilitando que los pedidos cuyo artículo fue facturado y luego devuelto no tengan facturado su valor total.

@@ -81,7 +81,5 @@ O Google faz com que os produtos enviados expirem automaticamente após 30 dias 
 #### Tamanho do título
 O limite é de 150  caracteres, mas os anúncios do Google só exibem 70 caracteres de qualquer maneira ([entenda mais aqui](https://support.google.com/merchants/answer/6098378?hl=pt)). A integração envia até 150 caracteres que é composto por Título do Produto + Título do SKU.
 
-<div class="alert alert-warning">
-<strong>Atenção:</strong> A integração por XML não foi descontinuada, porém se a integração for feita por XML e pelo módulo de Integrações (API) os produtos aparecerão duplicados. 
-</div>
+>⚠️ **Atenção:** A integração por XML não foi descontinuada, porém se a integração for feita por XML e pelo módulo de Integrações (API) os produtos aparecerão duplicados.
 

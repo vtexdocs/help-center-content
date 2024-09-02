@@ -23,9 +23,7 @@ Anteriormente, no cadastro da [integração com o Google Shopping](https://help.
 - **Enviar preço-base (para preços com desconto):** apresentará somente os produtos cadastrados com [preço lista](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista).  
 - **Aplicar desconto no preço enviado:** apresentará no Google Shopping os produtos da loja VTEX com o desconto e o meio de pagamento cadastrados.  
 
-<div class = "alert alert-warning">
-  A configuração <b>Aplicar desconto no preço enviado</b> está disponível somente para lojas VTEX Brasil.
-</div>
+>⚠️ A configuração **Aplicar desconto no preço enviado** está disponível somente para lojas VTEX Brasil.
 
 ![envio-de-precos-google-pt](https://images.ctfassets.net/alneenqid6w5/5ZZihnxaawRM55WkmZ8YJA/309246aab10954d984d851b58442a4ef/envio-de-precos-google-pt.png)
 

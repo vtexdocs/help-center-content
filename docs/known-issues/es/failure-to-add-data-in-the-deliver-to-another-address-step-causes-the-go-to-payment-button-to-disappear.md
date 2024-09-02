@@ -18,9 +18,7 @@ internalReference: 467419
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Durante la etapa de pago, en el paso de rellenar los datos de envío, pulsando sobre la opción "Entregar en otra dirección", si no se añade ninguna dirección y el comprador vuelve a la lista de direcciones (utilizando el botón "volver a la libreta de direcciones") el botón "Ir al pago" desaparece.

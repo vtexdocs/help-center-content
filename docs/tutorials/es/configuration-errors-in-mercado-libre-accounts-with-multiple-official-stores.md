@@ -15,9 +15,7 @@ legacySlug: error-de-configuracion-en-cuentas-de-mercado-libre-con-multiples-tie
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class="alert alert-info">
-En caso de que tenga tiendas oficiales en Mercado Libre, esta documentación puede ser relevante. Mercado Libre tiene sus propios parámetros de certificación para que los sellers sean tiendas oficiales. Si desea obtener más información, contacte a su asesor de Mercado Libre.
-</div>
+>ℹ️ En caso de que tenga tiendas oficiales en Mercado Libre, esta documentación puede ser relevante. Mercado Libre tiene sus propios parámetros de certificación para que los sellers sean tiendas oficiales. Si desea obtener más información, contacte a su asesor de Mercado Libre.
 
 El [seller](https://help.vtex.com/es/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) integra sus [subaccounts](https://help.vtex.com/es/tutorial/o-que-e-store-name--3gh9mTNeMgs6Qe44e8IqQK?&utm_source=autocomplete) con las [tiendas oficiales](https://www.mercadolibre.com.ar/tiendas-oficiales) del usuario de [Mercado Libre](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd), esto puede producir un error en la importación de productos desde la integración con dicha plataforma.
 

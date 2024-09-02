@@ -18,9 +18,7 @@ Google Pay™ is a digital payments service that allows users not to share their
 
 The Google Pay API Terms of Service apply whenever the Google Pay service is offered by a merchant. To read the terms, please see [Google Pay API Terms of Service](https://payments.developers.google.com/terms/sellertos).
 
-<div class="alert alert-warning">
-<p>Google Pay is not available for Checkout V5 or earlier versions of Checkout.</p>
-</div>
+>⚠️ Google Pay is not available for Checkout V5 or earlier versions of Checkout.
 
 ## Enabling Google Pay
 
@@ -29,30 +27,22 @@ To enable Google Pay, follow the steps below.
 1. In the VTEX Admin, go to **Store Settings > Payments > Wallets** or type **Wallets** in the search bar at the top of the page.
 2. Select **Activate** to include the Google Pay extension.
 
-<div class = "alert alert-info">
-<p>The card brands supported by the Google Pay extension are the ones configured in the payment conditions.</p>
-</div>
+>ℹ️ The card brands supported by the Google Pay extension are the ones configured in the payment conditions.
 
 ![google-pay-checkout-en](https://images.ctfassets.net/alneenqid6w5/5EjOagjPXAeIAAN0Fpzkdq/2857562e61a935524807632c23be2e91/Screenshot_2024-08-01_at_14.21.39.png)
 
 Google Pay will then be available in your VTEX store's checkout as a new payment method. It may take around 10 minutes to be implemented.
 
-<div class = "alert alert-warning">
-<p>For now, Google Pay does not support subscriptions.</p>
-</div>
+>⚠️ For now, Google Pay does not support subscriptions.
 
 To use Google Pay, you must meet the following requirements:
 
 * Having at least one active [payment condition](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) configured for credit or debit cards with an [acquirer](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#adquirente), establishing which acquirer will process the wallet payment.
 * Using [VTEX Checkout](https://help.vtex.com/en/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) in your store.
 
-<div class = "alert alert-warning">
-<p>For stores that have the <a href="https://help.vtex.com/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa">3DS</a> authentication flow configured and supported by the acquirer, payment with Google Pay will follow the card native flow and will use 3DS as well. For more information on how to configure the authentication flow, please refer to <a href="https://help.vtex.com/pt/tutorial/configurar-fluxo-de-autenticacao-3ds-2--58XMn5LOA6fwrSkoDoAsg2">Setting up 3DS 2 authentication flow</a>.</p>
-</div>
+>⚠️ For stores that have the [3DS](https://help.vtex.com/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) authentication flow configured and supported by the acquirer, payment with Google Pay will follow the card native flow and will use 3DS as well. For more information on how to configure the authentication flow, please refer to [Setting up 3DS 2 authentication flow](https://help.vtex.com/pt/tutorial/configurar-fluxo-de-autenticacao-3ds-2--58XMn5LOA6fwrSkoDoAsg2).
 
-<div class="alert alert-info">
-<p>You can also set up Google Pay to be processed with Adyen or Stripe. To do this, access the <b>Payment Conditions</b> screen in Admin, click on <b>Google Pay</b> and select the desired option.</p>
-</div>
+>ℹ️ You can also set up Google Pay to be processed with Adyen or Stripe. To do this, access the **Payment Conditions** screen in Admin, click on **Google Pay** and select the desired option.
 
 ## Viewing transactions completed with Google Pay
 
@@ -64,9 +54,7 @@ After accessing the desired transaction, click on `+ Information` to verify the 
 
 ![Google Pay Transaction_2](https://images.ctfassets.net/alneenqid6w5/6nLdqOG38LEUbmSKth5FRP/a565b60f7ca5f541c836553140261985/Google_Pay_Transaction2_EN.png)
 
-<div class="alert alert-warning">
-  <p>It is also possible to identify transactions made with Google Pay through the <b>All Orders</b> page in Admin. You just need to select the desired search period, <a href="https://help.vtex.com/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/6rVCf9KLn1jgTaxS0xuByu">export the orders</a> in a report in .csv and locate the Google Pay information in the "payment origin" field.</p>
-</div>
+>⚠️ It is also possible to identify transactions made with Google Pay through the **All Orders** page in Admin. You just need to select the desired search period, [export the orders](https://help.vtex.com/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/6rVCf9KLn1jgTaxS0xuByu) in a report in .csv and locate the Google Pay information in the "payment origin" field.
 
 ## Adding Google Pay information to the purchase template
 
@@ -79,9 +67,7 @@ To add the information that the order was placed with a Google Pay card to the e
 
 After this change, whenever there is any mention of the last four digits of the card in these email templates, the "(Google Pay)" information will be added for payments made with a digital wallet.
 
-<div class = "alert alert-info">
-<p>For stores provisioned as of March 2023, the templates will already be updated with the information for payments made with Google Pay.</p>
-</div>
+>ℹ️ For stores provisioned as of March 2023, the templates will already be updated with the information for payments made with Google Pay.
 
 ## FAQ
 

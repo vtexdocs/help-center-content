@@ -18,9 +18,7 @@ internalReference: 1088047
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando realizamos una búsqueda que falla, la página de respuesta es no encontrado en lugar de un "algo salió mal, por favor inténtelo de nuevo". Esto da al usuario la idea errónea de que los resultados no existen en lugar de un error momentáneo en el resultado de la búsqueda.

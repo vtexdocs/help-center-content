@@ -18,9 +18,7 @@ internalReference: 1077069
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se você acessar o módulo de páginas do CMS e tentar criar uma página manualmente por meio do administrador, poderá alterar seu título com êxito. Mas se você criar uma página usando o tema da loja e tentar alterar o título por meio do tema ou do administrador, isso não será possível.

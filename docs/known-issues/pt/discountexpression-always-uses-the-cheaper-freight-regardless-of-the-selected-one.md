@@ -18,9 +18,7 @@ internalReference: 1075053
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A `DiscountExpression`, que é um desconto baseado em uma fórmula definida nas configurações da promoção, sempre usa a opção de frete mais barata, independentemente do método de envio selecionado pelo cliente. Isso resulta em discrepâncias entre o desconto concedido e o desconto esperado com base no método de envio selecionado.

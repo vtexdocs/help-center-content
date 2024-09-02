@@ -18,9 +18,7 @@ internalReference: 1083848
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si un artículo tiene alguna opción de montaje posible que no está disponible para el canal de ventas utilizado en el carrito, el artículo deja de estar disponible.

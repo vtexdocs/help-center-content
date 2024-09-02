@@ -21,9 +21,9 @@ De hecho, estamos haciendo este cambio justamente porque, con la evolución de l
 
 Eliminando la promoción Precio Máximo por Artículo, mejoramos el rendimiento del módulo de promociones y la gestión de las tiendas.
 
-<div class="alert alert-warning">Hasta el día 20 de noviembre, la promoción Precio máximo por Artículo sigue existiendo. Sin embargo, el número máximo de elementos permitidos pasa a ser <b>100</b>. Anteriormente el máximo permitido era 500.</div>
+>⚠️ Hasta el día 20 de noviembre, la promoción Precio máximo por Artículo sigue existiendo. Sin embargo, el número máximo de elementos permitidos pasa a ser **100**. Anteriormente el máximo permitido era 500.
 
-<div class="alert alert-danger">Si usted utiliza alguna promoción Precio Máximo por Artículo, lea este texto hasta el final y adapte el método en su tienda. En caso contrario, los SKUs en cuestión dejarán de ser impactados por esta estrategia de negocio.</div>
+>❗ Si usted utiliza alguna promoción Precio Máximo por Artículo, lea este texto hasta el final y adapte el método en su tienda. En caso contrario, los SKUs en cuestión dejarán de ser impactados por esta estrategia de negocio.
 
 ## Alternativas
 

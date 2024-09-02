@@ -18,9 +18,7 @@ internalReference: 497335
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 Impossível alterar as palavras-chave de uma categoria com muitos produtos, já que um timeout é retornado no processo, seja por admin ou por API
 

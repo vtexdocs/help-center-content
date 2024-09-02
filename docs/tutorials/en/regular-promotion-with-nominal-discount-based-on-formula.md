@@ -49,17 +49,13 @@ You can do a multiplication to calculate the desired discount percentage using [
 
 To indicate the order in which calculations should be done, write the calculation which comes first between parenthesis `()`. For example: If a store wants to apply a 40% discount on the total price of the order plus the shipping cost, the formula must be `(total + freight) * 0.4`.
 
-<div class="alert alert-info">
-  <p>You must always use the dot (<code>.</code>) as a decimal separator.</p>
-</div>
+>ℹ️ You must always use the dot (`.`) as a decimal separator.
 
 ## Functions
 
 If you want to [limit the discount](#limiting-the-discount), you can use the `min` function. Use the `max` function if you want to [prioritize the highest discount possible](#prioritizing-the-highest-discount-possible). Read on for more details about these functions.
 
-<div class="alert alert-info">
-<p>When using functions, there must be a space between the function and the opening parenthesis. For example: <code>min (total * 0.2, 10)</code>.</p>
-</div>
+>ℹ️ When using functions, there must be a space between the function and the opening parenthesis. For example: `min (total * 0.2, 10)`.
 
 ### Limiting the discount
 

@@ -19,9 +19,7 @@ Las metas de **Google Analytics** sirven para ayudarle a evaluar si se cumplen l
 
 Con el embudo de ventas configurado, es posible acompañar y analizar los pasos del cliente hasta la finalización de un pedido. Para configurar el embudo de ventas vamos a tener en cuenta que el proceso de compra se inicia en la pantalla de su producto y pasa por el carrito de compras, checkout (datos personales, entrega, pago) y llega hasta la meta, que es la página de pedido confirmado.
 
-<div class="alert alert-info">
-Para facilitar, toda la configuración que se muestra en este artículo se puede <a href="https://support.google.com/analytics/answer/1032415?hl=es" target="_blank">importar directamente a Google Analytics</a> con <a href="https://analytics.google.com/analytics/web/template?uid=tTp2GkIJRiGodszJbq8RsA" target="_blank">esta plantilla</a>.
-</div>
+>ℹ️ Para facilitar, toda la configuración que se muestra en este artículo se puede [importar directamente a Google Analytics](https://support.google.com/analytics/answer/1032415?hl=es" target="_blank) con [esta plantilla](https://analytics.google.com/analytics/web/template?uid=tTp2GkIJRiGodszJbq8RsA" target="_blank).
 
 Para la configuración manual o la edición de una meta existente, el primer paso es acceder a Analytics y hacer clic en el botón __Administrador__ en la esquina inferior izquierda. A continuación, vaya a la opción __Metas__, de la columna "Vista".
 
@@ -62,30 +60,35 @@ Ahora sólo hay que guardar la meta y esperar el tiempo que el sistema tarda en 
 
 Para ver su embudo, consulte los informes de Analytics y acceda al menú __Conversiones__ y a la opción __Metas__.
 
-<div class="alert alert-warning">
-<p>Si tienes una tienda en varios idiomas con idiomas como <a href="https://support.google.com/webmasters/answer/182192?hl=es#locale-specific-urls">subdirectorios con gTLD</a> debes reemplazar cada <a href="https://support.google.com/analytics/answer/1034376?hl=es&ref_topic=1034375">símbolo de intercalación</a> (<code>^</code>) con una <a href="https://support.google.com/analytics/answer/1034324?hl=es">regex</a> que coincide con los diferentes subdirectorios. Por ejemplo, si su sitio web está disponible en:</p>
-  <ul>
-    <li><strong>Italiano: </strong><code>example.com/it</code></li>
-    <li><strong>Español: </strong><code>example.com/es</code></li>
-    <li><strong>Francés: </strong><code>example.com/fr</code></li>
-  </ul>
-  <p>Tendrías que cambiar su destino:</p>
-  <ul>
-<li><strong>De: </strong><code>^/checkout/orderPlaced</code></li> 
-<li><strong>Para: </strong><code>^/(it|es|fr)/checkout/orderPlaced</code></li>
-  </ul>
-  <p>Esto también debe hacerse para cada paso del embudo.</p>
-</div>
+>⚠️ Si tienes una tienda en varios idiomas con idiomas como [subdirectorios con gTLD](https://support.google.com/webmasters/answer/182192?hl=es#locale-specific-urls) debes reemplazar cada [símbolo de intercalación](https://support.google.com/analytics/answer/1034376?hl=es&ref_topic=1034375) (`^`) con una [regex](https://support.google.com/analytics/answer/1034324?hl=es) que coincide con los diferentes subdirectorios. Por ejemplo, si su sitio web está disponible en:
+>
+> * **Italiano: **`example.com/it`
+>
+> * **Español: **`example.com/es`
+>
+> * **Francés: **`example.com/fr`
+>
+> Tendrías que cambiar su destino:
+>
+> ***De: **`^/checkout/orderPlaced` 
+>
+> ***Para: **`^/(it|es|fr)/checkout/orderPlaced`
+>
+> Esto también debe hacerse para cada paso del embudo.
 
-<div class="alert alert-warning">
-<p>La configuración de embudo de este artículo ha sido actualizada para acompañar la nueva versión de <a href="http://help.vtex.com/es/tutorial/que-es-el-carrito-compartido">carrito compartido del SmartCheckout</a>.</p>
-<p>Para efectos de comparación, abajo tenemos la configuración antigua:</p>
-<ol>
-<li>Producto: <code>/p($|\?)</code> (no obligatorio)</li>
-<li>Carrito: <code>^/checkout/(#/cart)?$</code></li>
-<li>Identificación: <code>^/checkout/#/email</code></li>
-<li>Fatos Personales: <code>^/checkout/#/profile</code></li>
-<li>Envío: <code>^/checkout/#/shipping</code></li>
-<li>Pago: <code>^/checkout/#/payment</code></li>
-</ol>
-</div>
+>⚠️ La configuración de embudo de este artículo ha sido actualizada para acompañar la nueva versión de [carrito compartido del SmartCheckout](http://help.vtex.com/es/tutorial/que-es-el-carrito-compartido).
+>
+> Para efectos de comparación, abajo tenemos la configuración antigua:
+>
+> Producto: `/p($|\?)` (no obligatorio)
+>
+> Carrito: `^/checkout/(#/cart)?$`
+>
+> Identificación: `^/checkout/#/email`
+>
+> Fatos Personales: `^/checkout/#/profile`
+>
+> Envío: `^/checkout/#/shipping`
+>
+> Pago: `^/checkout/#/payment`
+> 

@@ -18,9 +18,7 @@ internalReference: 1075106
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A interface do usuário da lista de catálogos redesenhada fornece alguns filtros:

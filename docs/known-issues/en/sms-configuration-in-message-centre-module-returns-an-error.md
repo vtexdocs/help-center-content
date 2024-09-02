@@ -22,9 +22,7 @@ When configuring SMS sending in the message centre module, the UI returns an err
 
 ## Simulation
 
-<div class="alert alert-info">
-You need to have the movile APP installed in order to simulate the error.
-</div>
+>ℹ️ You need to have the movile APP installed in order to simulate the error.
 
 1. Access the message centre module
 2. Select the MOVILE SMS option

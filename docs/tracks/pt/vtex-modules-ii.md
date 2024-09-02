@@ -28,9 +28,7 @@ O módulo de [Pagamentos](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm
 
 Para processar e receber os pagamentos das compras realizadas em uma loja VTEX, é preciso contratar os serviços de um ou mais provedores de pagamento. Este contrato é realizado diretamente entre o lojista e o respectivo provedor, não havendo mediação ou participação da VTEX. Para verificar quais provedores estão disponíveis na VTEX em cada país, basta acessar a [Lista de provedores de pagamento](https://help.vtex.com/pt/tutorial/lista-de-provedores-de-pagamento-por-pais--2im3BEGXxSAcRuxEaIHPvp).
 
-<div class="alert alert-warning">
-É recomendável utilizar mais de um provedor de pagamento na loja para prover uma boa experiência ao cliente por meio diversos tipos de meios e condições de pagamento, e ao mesmo tempo, operar com diferentes taxas e custos, melhorando o desempenho do negócio.
-</div>
+>⚠️ É recomendável utilizar mais de um provedor de pagamento na loja para prover uma boa experiência ao cliente por meio diversos tipos de meios e condições de pagamento, e ao mesmo tempo, operar com diferentes taxas e custos, melhorando o desempenho do negócio.
 
 As configurações de pagamento descritas nesta trilha podem ser realizadas a qualquer momento durante o processo de onboarding. Entretanto, para que a loja possa realizar qualquer tipo de transação de pagamento, é necessário que os módulos de [Catálogo](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo), [Preços](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos) e [Logística](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica) tenham sido previamente configurados.
 
@@ -76,9 +74,7 @@ Os provedores de pagamento precisam ser habilitados em uma loja de modo que tran
 2. Selecionar o provedor desejado, clicando no respectivo link da tabela.
 3. Acessar o Admin VTEX para configurar o provedor conforme as instruções descritas no respectivo artigo de configuração.
 
-<div class = "alert alert-info">
-Os artigos de configuração de provedores também podem ser acessados ao digitar o nome do provedor desejado na barra de busca do <a href="https://help.vtex.com/pt/">Help Center</a>.
-</div>
+>ℹ️ Os artigos de configuração de provedores também podem ser acessados ao digitar o nome do provedor desejado na barra de busca do [Help Center](https://help.vtex.com/pt/).
 
 #### Definindo meios e condições de pagamento
 
@@ -192,9 +188,7 @@ Para localizar o registro de uma compra no Admin VTEX, além de poder [filtrar p
 - Email do cliente
 - Documento do cliente 
 
-<div class="alert alert-warning">
-Só é possível acessar informações de pedidos criados nos últimos dois anos, sendo o mesmo período válido para os clientes acessarem seus pedidos pelo <a href="">Minha Conta</a>.
-</div>
+>⚠️ Só é possível acessar informações de pedidos criados nos últimos dois anos, sendo o mesmo período válido para os clientes acessarem seus pedidos pelo [Minha Conta]().
 
 #### Emails transacionais
 
@@ -260,9 +254,7 @@ Mais informações em [Otimização das opções de entrega no Checkout](https:/
 
 Funcionalidade que permite envio de e-mails aos clientes para recordá-los sobre a conclusão da compra de um carrinho que tenha sido criado anteriormente, mas não finalizado.
 
-<div class = "alert alert-info">
-Configurar o carrinho abandonado durante o Onboarding, permitirá que todos os carrinhos que ainda serão criados, possam ser encaminhados para avaliação do cliente ou finalizados.
-</div>
+>ℹ️ Configurar o carrinho abandonado durante o Onboarding, permitirá que todos os carrinhos que ainda serão criados, possam ser encaminhados para avaliação do cliente ou finalizados.
 
 Mais informações em [Configurar carrinho abandonado](https://help.vtex.com/pt/tutorial/configurar-carrinho-abandonado--tutorials_740).
 
@@ -270,9 +262,7 @@ Mais informações em [Configurar carrinho abandonado](https://help.vtex.com/pt/
 
 Na plataforma VTEX, as lojas têm a possibilidade de ajustar manualmente o preço de um item (SKU) presente no carrinho do Checkout. Esta funcionalidade pode ser usada para aplicar descontos especiais, corrigir erros de preço, criar ofertas personalizadas, resolver reclamações relacionadas a preços ou ajustar custos de envio.
 
-<div class="alert alert-warning">
-Apenas usuários com <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">perfis de acesso</a> e permissões devidamente registrados no Admin VTEX podem realizar esta modificação.
-</div>
+>⚠️ Apenas usuários com [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) e permissões devidamente registrados no Admin VTEX podem realizar esta modificação.
 
 Mais informações em [Modificar o preço de um item no carrinho de compras](https://help.vtex.com/pt/tutorial/modificar-o-preco-de-um-item-no-carrinho-de-compras--7Cd37aCAmtL1qmoZJJvjNf).
 

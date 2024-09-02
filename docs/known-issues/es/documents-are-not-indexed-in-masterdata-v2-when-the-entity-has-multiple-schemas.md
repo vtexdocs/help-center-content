@@ -18,9 +18,7 @@ internalReference: 1077981
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando una entidad masterdata v2 tiene muchos esquemas, sufre problemas de indexación y algunos documentos no son devueltos en la búsqueda.

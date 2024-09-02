@@ -28,9 +28,7 @@ En primer lugar, consideremos los requisitos previos que su tienda necesita para
 
 ## Cómo implementar el Ship From Store
 
-<div class="alert alert-info">
-Aunque es posible implementar el Ship From Store de otras maneras, en este artículo explicaremos cómo hacerlo utilizando las features de cuenta franquicia Seller White Label. Esto se debe a que esta es la arquitectura más recomendada por VTEX para este tipo de proyecto.
-</div>
+>ℹ️ Aunque es posible implementar el Ship From Store de otras maneras, en este artículo explicaremos cómo hacerlo utilizando las features de cuenta franquicia Seller White Label. Esto se debe a que esta es la arquitectura más recomendada por VTEX para este tipo de proyecto.
 
 Estos son los pasos para implementar el __Ship From Store__:
 

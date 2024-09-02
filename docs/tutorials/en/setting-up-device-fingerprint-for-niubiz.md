@@ -19,9 +19,7 @@ __Device Fingerprint__ is an identifier that acts in payment processing to impro
 
 By collecting non-sensitive data, Device Fingerprint identifies and analyzes the security level of the device used to perform a given transaction. It also analyzes transactions previously performed with that device.
 
-<div class="alert alert-info">
-Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before proceeding with the steps below.
-</div>
+>ℹ️ Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before proceeding with the steps below.
 
 This article will explain how to associate the Device Fingerprint feature with the Niubiz affiliation.  
 
@@ -29,9 +27,7 @@ This requires generating an identifier using [Google Tag Manager](https://market
 
 ## Creating the identifier
 
-<div class="alert alert-info">
-This step may be outdated as it is performed in an external environment.
-</div>          
+>ℹ️ This step may be outdated as it is performed in an external environment.          
 
 First, you need to create the identifier.
 
@@ -104,9 +100,7 @@ Follow these instructions:
 
 Google Tag Manager will then create the identifier. 
 
-<div class="alert alert-warning">
-Please write down the ID in a place you can easily find it.
-</div>
+>⚠️ Please write down the ID in a place you can easily find it.
 
 ##  Configuration in the VTEX Admin
 

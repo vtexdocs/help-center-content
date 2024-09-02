@@ -63,9 +63,7 @@ Com isso, não será possível inserir um nome que já tenha sido cadastrado em 
 
 No exemplo acima, como já existe um registro com o **Nome** igual a **Maria**, não é possível cadastrar outro com o mesmo valor.
 
-<div class="alert alert-warning">
-  <p>Use a opção <strong>Valores Únicos</strong> com cautela. Se um valor que você deseja permitir se repetir for configurado como único, o sistema bloqueará a inserção de registros duplicados, impedindo seu cadastro.</p>
-</div>
+>⚠️ Use a opção **Valores Únicos** com cautela. Se um valor que você deseja permitir se repetir for configurado como único, o sistema bloqueará a inserção de registros duplicados, impedindo seu cadastro.
 
 #### Vários campos no índice
 
@@ -81,6 +79,4 @@ Nesse caso, o valor do **Nome** pode se repetir ou o valor do **Documento** pode
 
 No exemplo acima, já existe um registro com o **Nome** igual a **Maria**. É possível incluir outro registro com o mesmo **Nome**, desde que o valor do **Documento** seja diferente.
 
-<div class="alert alert-warning">
-  <p>Se a mesma combinação de valores se repetir, o registro não será salvo. Utilize a opção <strong>Valores únicos</strong> somente quando não existir a possibilidade de um conjunto de valores se repetir em registros diferentes.</p>
-</div>
+>⚠️ Se a mesma combinação de valores se repetir, o registro não será salvo. Utilize a opção **Valores únicos** somente quando não existir a possibilidade de um conjunto de valores se repetir em registros diferentes.

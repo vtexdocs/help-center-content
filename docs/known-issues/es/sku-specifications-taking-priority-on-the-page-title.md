@@ -18,9 +18,7 @@ internalReference: 1089440
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Se espera que el título de la página se base en los últimos o iniciales filtros. Los filtros de las especificaciones SKU siempre se establecen como el último de la miga de pan, que tiene lugar como el título de la página.

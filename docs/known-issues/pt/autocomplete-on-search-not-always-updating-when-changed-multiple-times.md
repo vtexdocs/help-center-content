@@ -18,9 +18,7 @@ internalReference: 793275
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao pesquisar qualquer termo sem clicar em enter, o autocompletar traz resultados de produtos que contêm esse termo.

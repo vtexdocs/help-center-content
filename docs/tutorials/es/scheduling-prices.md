@@ -48,9 +48,7 @@ Para hacer la programación por el Admin, siga los pasos a continuación.
 - **Fecha de término:** indica el día a partir del cual el precio fijo dejará de ser válido. 
 - **Hora de término:** indica la hora a partir de la cual el precio fijo dejará de ser válido. 
 
-<div class="alert alert-info">
-  <p>En la programación realizada a través del Admin, la zona horaria considerada será la utilizada por el computador del usuario.</p>
-</div>
+>ℹ️ En la programación realizada a través del Admin, la zona horaria considerada será la utilizada por el computador del usuario.
 
 ## Programación mediante la importación de una plantilla de precios fijos
 

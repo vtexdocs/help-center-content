@@ -15,9 +15,7 @@ legacySlug: anunciar-con-vtex-ad-network-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
-<div class = "alert alert-info">
-<p>VTEX Ad Network se encuentra en fase beta, lo que significa que estamos trabajando para mejorarlo. Si ya eres cliente de VTEX y deseas adoptar esta funcionalidad para tu negocio, por favor, póngate en contacto con el <a href="https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Soporte Comercial</a>. Si aún no es cliente pero estás interesado(a) en esta solución, por favor, completa el <a href="https://vtex.com/co-es/contacto/">formulario de contacto</a>.</p>
-</div>
+>ℹ️ VTEX Ad Network se encuentra en fase beta, lo que significa que estamos trabajando para mejorarlo. Si ya eres cliente de VTEX y deseas adoptar esta funcionalidad para tu negocio, por favor, póngate en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Si aún no es cliente pero estás interesado(a) en esta solución, por favor, completa el [formulario de contacto](https://vtex.com/co-es/contacto/).
 
 [VTEX Ad Network (Beta)](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur) te permite anunciar productos de tu marca en storefronts de retailers VTEX que tengan tu producto en su catálogo.
 
@@ -31,21 +29,17 @@ Si ya eres un anunciante de **VTEX Ad Network**, en este artículo puedes ver de
 - [Monitorear campañas](#monitorear-campanas)
 - [Ver más detalles por campaña y producto](#ver-mas-detalles-por-campana-y-producto)
 
-<div class="alert alert-info">
-<p>Ad Network proporciona registros de los cambios realizados en las campañas en el <a
-href="https://help.vtex.com/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA">
-Audit</a>. Para más detalles, consulte la <a
-href="https://help.vtex.com/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ#ad-network">
-lista de los eventos disponibles en Audit</a>.</p>
-</div>
+>ℹ️ Ad Network proporciona registros de los cambios realizados en las campañas en el <a
+> href="https://help.vtex.com/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA">
+> Audit</a>. Para más detalles, consulte la <a
+> href="https://help.vtex.com/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ#ad-network">
+> lista de los eventos disponibles en Audit</a>.
 
 ## Crear campaña
 
 Para crear una [campaña de VTEX Ad Network](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campanas), sigue los pasos a continuación:
 
-<div class = "alert alert-info">
-Actualmente, VTEX cuenta con un único formato de anuncio: resultados de búsqueda. Consulta más información sobre este <a href="https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#formato-de-anuncio">formato de anuncio</a>.
-</div>
+>ℹ️ Actualmente, VTEX cuenta con un único formato de anuncio: resultados de búsqueda. Consulta más información sobre este [formato de anuncio](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#formato-de-anuncio).
 
 1. En el Admin VTEX, accede a __Storefront > Ad Network > Campañas__.
 2. Haz clic en `Crear campaña`.
@@ -59,9 +53,7 @@ Actualmente, VTEX cuenta con un único formato de anuncio: resultados de búsque
 
 7. En la sección **Presupuesto, oferta y cronograma**, haz clic en el botón de editar <i class="fas fa-pencil-alt"></i>.
 8. Define los valores de las ofertas para cada producto. Puedes definir cada valor individualmente.
-	<div class="alert alert-info">
-	La oferta de un producto es el costo por clic (CPC), el valor gastado cuando un usuario hace clic en el anuncio. Más información sobre <a href="https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campanas">campañas</a> y cómo funciona la <a href="https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#priorizacion-de-anuncios">subasta</a>.
-	</div>
+	>ℹ️ La oferta de un producto es el costo por clic (CPC), el valor gastado cuando un usuario hace clic en el anuncio. Más información sobre [campañas](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campanas) y cómo funciona la [subasta](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#priorizacion-de-anuncios).
 9. Haz clic en `Siguiente`.
 10. Define el presupuesto diario de la campaña.
 11. Define la duración de la campaña seleccionando la fecha de fin.
@@ -131,9 +123,7 @@ A continuación, se muestra una tabla con la información de cada campaña:
 - **Presupuesto:** presupuesto total.
 - **Presupuesto restante:** presupuesto que aún está disponible.
 
-<div class = "alert alert-info">
-Consulta más información sobre <a href="https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#ventana-de-atribucion">atribución de ventas a anuncios</a>.
-</div>
+>ℹ️ Consulta más información sobre [atribución de ventas a anuncios](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#ventana-de-atribucion).
 
 Puedes filtrar los datos de la tabla utilizando las siguientes opciones:
 
@@ -163,7 +153,5 @@ Debajo de los datos agregados, se muestra una tabla con la información del dese
 - **ROAS:** retorno de inversión publicitaria.
 - **Presupuesto restante:** presupuesto que aún está disponible actualmente.
 
-<div class = "alert alert-info">
-Consulta más información sobre <a href="https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#ventana-de-atribucion">atribución de ventas a anuncios</a>.
-</div>
+>ℹ️ Consulta más información sobre [atribución de ventas a anuncios](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#ventana-de-atribucion).
 

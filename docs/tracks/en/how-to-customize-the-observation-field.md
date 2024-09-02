@@ -33,9 +33,7 @@ window.LOCALE_MESSAGES = {
 };
 ```
 
-<div class="alert alert-danger">
-To avoid rendering other functionalities useless, it is imperative that you do not delete any of the already existing <code>window.INSTORE_CONFIG</code> properties.
-</div>
+>❗ To avoid rendering other functionalities useless, it is imperative that you do not delete any of the already existing `window.INSTORE_CONFIG` properties.
 
 If you need to apply a mask or validation logic to data inserted in this field, you can do so by including an event listener function to the `checkout-instore-custom.js` archive. This `note.visible` function is triggered when the modal dialog window is open, thereby returning your logic.
 

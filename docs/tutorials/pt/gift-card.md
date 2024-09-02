@@ -32,9 +32,7 @@ Para criar um novo vale-presente, confira o passo a passo:
   <br>
   <li>Clique no botão azul <b>Criar vale</b>.</li>  
   <br>
-<div class = "alert alert-info">
-  <p>Na tela de criação do vale, o campo <b>Vale-presente</b> é automaticamente preenchido pelo sistema VTEX com o código ID do novo vale. Esse é o código a ser inserido pelo cliente na tela do checkout para aplicar o vale-presente no carrinho e reduzir o valor de pagamento do pedido.</p>
-</div>
+>ℹ️ Na tela de criação do vale, o campo **Vale-presente** é automaticamente preenchido pelo sistema VTEX com o código ID do novo vale. Esse é o código a ser inserido pelo cliente na tela do checkout para aplicar o vale-presente no carrinho e reduzir o valor de pagamento do pedido.
 <br>
   <li>Preencha os demais campos apresentados conforme as orientações abaixo:</li>
   <br>
@@ -46,13 +44,9 @@ Para criar um novo vale-presente, confira o passo a passo:
   <li><b>Coleção</b>: determina a coleção de produtos que define os itens em que o vale poderá ser aplicado.</li>
 </ul><br>
 
-<div class="alert alert-warning">
-<strong>Atenção</strong>: o preenchimento dos campos “Valor” e “Data de expiração” é <strong>obrigatório</strong>. Caso o contrário, o vale-presente não será salvo.
-</div>
+>⚠️ **Atenção**: o preenchimento dos campos “Valor” e “Data de expiração” é **obrigatório**. Caso o contrário, o vale-presente não será salvo.
 
-<div class="alert alert-danger">
-A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
-</div>
+>❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank).
 
 Depois de preencher os campos corretamente, o usuário poderá assinalar até três opções de configuração: 
 <ul>
@@ -62,9 +56,7 @@ Depois de preencher os campos corretamente, o usuário poderá assinalar até tr
 <br>
   <li>Por fim, clique no botão <b>Salvar</b>.</li>
 <br>
-<div class="alert alert-info">
-Não há limite para a criação de vales, porém apenas 8000 vales podem ser exportados por vez.
-</div>
+>ℹ️ Não há limite para a criação de vales, porém apenas 8000 vales podem ser exportados por vez.
 
 </ol>
 
@@ -85,13 +77,9 @@ Para criar mais de um vale-presente ao mesmo tempo (um lote), confira o passo a 
   <li><b>Data de expiração</b>: trata-se da data de vigência da utilização de todos os vales do lote.</li>
   <li><b>Coleção</b>: determina a coleção de produtos que define os itens em que os vales poderão ser aplicados.</li>
   <br>
-  <div class="alert alert-warning">
-<strong>Atenção</strong>: o preenchimento dos campos “Quantidade de vales-presente”, “Valor” e “Data de Validade” é <strong>obrigatório</strong>. Caso o contrário, os vales-presente não serão salvos.
-</div>
+  >⚠️ **Atenção**: o preenchimento dos campos “Quantidade de vales-presente”, “Valor” e “Data de Validade” é **obrigatório**. Caso o contrário, os vales-presente não serão salvos.
 <br>
-  <div class="alert alert-danger">
-A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
-</div>
+  >❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank).
 <br>
   <li><b>Recarregável</b>: enquanto estes vales estiverem disponíveis, seus saldos poderão ser alterados.</li>
   <li><b>Reutilizável</b>: será possível realizar novas compras com estes vales até que seus valores sejam totalmente utilizados.</li>
@@ -102,9 +90,7 @@ Uma nova tela irá aparecer confirmando que foram gerados o número de vales-pre
 <br>
   <li>Por fim, clique no botão <b>Voltar</b>.</li>
 <br>
-<div class="alert alert-info">
-Não há limite para a criação de vales, porém apenas 8000 vales podem ser exportados por vez.
-</div>
+>ℹ️ Não há limite para a criação de vales, porém apenas 8000 vales podem ser exportados por vez.
 </ol>
 
 ## Como configurar o Vale-presente como meio de pagamento

@@ -18,9 +18,7 @@ internalReference: 396914
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao carregar uma planilha e depois clicar em "salvar mudanças" nas configurações da política de expedição, a planilha precisa ser processada por nosso módulo de Logística. O tempo de processamento pode variar de acordo com o tamanho do arquivo, mas normalmente leva alguns minutos. Em alguns casos, o tempo de processamento pode levar até algumas horas ou até dias, e o status permanece bloqueado no "processamento".

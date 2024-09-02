@@ -15,9 +15,7 @@ legacySlug: security-monitor
 subcategory: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-<div class="alert alert-info">
-  <p>This feature is part of <a href="https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh">VTEX Shield</a>. If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Commercial Support</a>. Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our <a href="https://vtex.com/br-pt/contato/">contact form</a>.</p>
-</div>
+>ℹ️ This feature is part of [VTEX Shield](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/br-pt/contato/).
 
 Security Monitor is a dashboard that helps merchants identify and manage potential risks in their environment in real time. The tool identifies configuration risks and the behavior of admin users, then notifies merchants via email, enabling them to take preventive action against security vulnerabilities.
 

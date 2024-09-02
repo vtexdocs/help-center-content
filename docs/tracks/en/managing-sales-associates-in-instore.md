@@ -40,9 +40,7 @@ You can add a sales associate by following the steps below:
 
 After being added, the sales associate will receive a confirmation email and be redirected to the sales associate's login option in Sales App.
 
-<div class ="alert alert-warning">
-<p>Sales associates registered in Sales App cannot access the VTEX Admin. If a sales associate tries to log in to Admin, their registration will be deleted.</p>
-</div>
+>⚠️ Sales associates registered in Sales App cannot access the VTEX Admin. If a sales associate tries to log in to Admin, their registration will be deleted.
 
 ### Sales associate fields
 
@@ -57,9 +55,7 @@ After being added, the sales associate will receive a confirmation email and be 
 
 * **Store:** the [franchise account](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate will be registered. Mandatory field.
 
-<div class ="alert alert-info">
-<p>Changes can take up to 15 minutes to be processed and applied to Sales App.</p> 
-</div>
+>ℹ️ Changes can take up to 15 minutes to be processed and applied to Sales App.
 
 ## Searching for a sales associate
 

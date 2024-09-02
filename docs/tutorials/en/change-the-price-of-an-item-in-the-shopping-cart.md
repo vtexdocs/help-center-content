@@ -20,10 +20,8 @@ At VTEX, stores can manually set the price of an item (SKU) available in the Che
 - **Access Profile**: Owner (Admin Super) or Call Center Operator (Telesales) 
 - **Permission**: Shopping Cart Full Access
 
-<div class="alert alert-warning">
-The steps below must be performed on the <i>myvtex</i> domain of each store
- ({accountName}.myvtex.com.br).
-</div>
+>⚠️ The steps below must be performed on the <i>myvtex</i> domain of each store
+>  ({accountName}.myvtex.com.br).
 
 ## Changing the item price
 
@@ -44,7 +42,5 @@ The operational security of this functionality is based on controlling the acces
 
 After the order is closed, the manual price entered needs to be approved by the store administrator or a user with permission in the [Order Authorization system](https://help.vtex.com/en/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn).
 
-<div class = "alert alert-info">
-Once the manual price value has been validated, the order follows the normal invoicing flow.
-</div>
+>ℹ️ Once the manual price value has been validated, the order follows the normal invoicing flow.
 

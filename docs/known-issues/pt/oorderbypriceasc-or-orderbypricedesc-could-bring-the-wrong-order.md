@@ -18,9 +18,7 @@ internalReference: 582861
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 **O=OrderByPriceASC** (ou **OrderByPriceDESC**) pode usar a política errada para pedir preços. Além disso, como o preço indexado tem apenas uma casa decimal, a segunda casa decimal do preço não será considerada.

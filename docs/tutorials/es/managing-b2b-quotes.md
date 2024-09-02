@@ -113,9 +113,7 @@ Para crear una cotización o carrito guardado, es necesario tener el [permiso Cr
    </li>
    <li>Ingresa una observación en el campo <strong>Agregar observación</strong>, si es necesario.</li>
 </ol>
-<div class = "alert alert-info">
-   Las observaciones aquí añadidas serán visibles como parte del Historial de actualizaciones de la cotización o carrito guardado y podrán ser vistas por los vendedores u otros miembros de tu organización y centro de costos. Por ejemplo, si un usuario quiere solicitar un descuento específico al vendedor de la tienda B2B, puede incluir esta solicitud como observación.
-</div>
+>ℹ️ Las observaciones aquí añadidas serán visibles como parte del Historial de actualizaciones de la cotización o carrito guardado y podrán ser vistas por los vendedores u otros miembros de tu organización y centro de costos. Por ejemplo, si un usuario quiere solicitar un descuento específico al vendedor de la tienda B2B, puede incluir esta solicitud como observación.
 <ol start="8">
    <li>
       Haz clic en una de las siguientes opciones:
@@ -180,8 +178,6 @@ Los usuarios con [permiso](#permisos-de-acceso) para realizar **Pedidos** desde 
 
 Para utilizar la cotización, haz clic en `Usar cotización` en la página de información de la cotización. Se te redirigirá al checkout con el contenido de la cotización o del carrito guardado, que se agregará automáticamente a tu carrito actual. Se eliminarán todos los ítems que estuvieran previamente en el carrito.
 
-<div class="alert alert-warning">
-Si la aplicación Configuración de <a href="https://help.vtex.com/es/tutorial/b2b-checkout-settings--u7wG1SjmeCqXCSF2UsVok">checkout B2B</a> está instalada, el checkout se bloqueará hasta que realices el pedido. Esto significa que no podrás modificar las cantidades de los productos ni agregar o remover nuevos productos. Si no hay suficientes ítems en stock para satisfacer la cantidad especificada en la cotización o carrito guardado, el sistema ajustará automáticamente la cantidad. Si un producto no está disponible, el checkout te permitirá removerlo del carrito.
-</div>
+>⚠️ Si la aplicación Configuración de [checkout B2B](https://help.vtex.com/es/tutorial/b2b-checkout-settings--u7wG1SjmeCqXCSF2UsVok) está instalada, el checkout se bloqueará hasta que realices el pedido. Esto significa que no podrás modificar las cantidades de los productos ni agregar o remover nuevos productos. Si no hay suficientes ítems en stock para satisfacer la cantidad especificada en la cotización o carrito guardado, el sistema ajustará automáticamente la cantidad. Si un producto no está disponible, el checkout te permitirá removerlo del carrito.
 
 Una vez realizado el pedido, el status de la cotización o carrito guardado cambiará automáticamente a **Realizada**, impidiendo que pueda ser utilizado posteriormente.

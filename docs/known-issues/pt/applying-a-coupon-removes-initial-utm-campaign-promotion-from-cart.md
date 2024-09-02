@@ -18,9 +18,7 @@ internalReference: 1088010
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Há um bug em que a aplicação de um cupom aciona um conflito com uma promoção associada a uma `utm_campaign`. Quando uma promoção é ativada por uma `utm_campaign` específica e um cupom (que também tem sua própria configuração de `utm_campaign`) é adicionado, o cupom remove a promoção inicial. Apesar de a `utm_campaign` inicial permanecer no `orderForm`, a promoção inicial não é mais aplicada. A segunda promoção é acionada pelo cupom, não pelo UTM.

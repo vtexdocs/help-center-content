@@ -18,9 +18,7 @@ internalReference: 393958
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando os usuários aplicam um cartão presente e depois vão usar "Pague com Dois Cartões" para pagar a diferença, a tela salta e apenas escolhe um valor diferente daquele escolhido

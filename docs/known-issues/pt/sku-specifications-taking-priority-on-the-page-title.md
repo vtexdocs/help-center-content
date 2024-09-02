@@ -18,9 +18,7 @@ internalReference: 1089440
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Espera-se que o título da página seja baseado nos últimos filtros ou nos filtros iniciais. Os filtros das especificações de SKU são sempre definidos como o último do breadcrumb, que ocorre como o título da página.

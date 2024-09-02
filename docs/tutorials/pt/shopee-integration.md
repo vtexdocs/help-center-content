@@ -33,9 +33,7 @@ Depois de criar sua conta na Shopee, você estará apto(a) para realizar as segu
 - [Gerenciar produtos](#gerenciar-produtos)
 - [Gerenciamento de pedidos da Shopee na plataforma VTEX](#gerenciamento-de-pedidos-da-shopee-na-plataforma-vtex)
 
-<div class = "alert alert-info">
-A integração com a Shopee não consegue integrar pedidos de produtos cujo os anúncios já existem na Shopee. A partir da ativação da integração, os pedidos que serão fechados na Shopee, serão integrados na VTEX.
-</div>
+>ℹ️ A integração com a Shopee não consegue integrar pedidos de produtos cujo os anúncios já existem na Shopee. A partir da ativação da integração, os pedidos que serão fechados na Shopee, serão integrados na VTEX.
 
 ## Configurar política comercial para Shopee
 
@@ -52,9 +50,7 @@ Só será necessário [configurar uma política comercial para marketplace](http
 
 Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta psolicitar via ticket em nosso [Suporte](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
 
-<div class = "alert alert-info">
-A integração com a Shopee não é um <a href="https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro">conector certificado (parceiro)</a> da VTEX, fazendo que a contratação de política comercial adicional não seja isenta de taxas.
-</div>
+>ℹ️ A integração com a Shopee não é um [conector certificado (parceiro)](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) da VTEX, fazendo que a contratação de política comercial adicional não seja isenta de taxas.
 
 ## Definir Doca e Estoque
 
@@ -84,9 +80,7 @@ Depois de ter feito as pré-configurações da sua loja VTEX, você poderá inst
 
 No final da instalação, o app estará disponível no seu Admin VTEX.
 
-<div class="alert alert-info">
-O acesso ao aplicativo da Shopee pode ser realizado seguindo as instruções acima ou através do caminho <b>Admin VTEX > Marketplace > Marketplaces e integrações.</b>
-</div>
+>ℹ️ O acesso ao aplicativo da Shopee pode ser realizado seguindo as instruções acima ou através do caminho **Admin VTEX > Marketplace > Marketplaces e integrações.**
 
 ## Configurações Shopee
 
@@ -186,9 +180,7 @@ Para enviar os seus produtos para a Shopee, você deverá:
 1. [Mapear as categorias dos produtos.](#mapear-categorias)
 2. [Mapear os atributos dos produtos.](#mapear-atributos)
 
-<div class = "alert alert-info">
-Seus produtos precisam ter o <a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Estoque</a> e <a href="https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">Preço</a> configurados antes de enviá-los ao marketplace.
-</div>
+>ℹ️ Seus produtos precisam ter o [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [Preço](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviá-los ao marketplace.
 
 ### Mapear categorias
 
@@ -198,9 +190,7 @@ Você será direcionado a página de mapeamento da Shopee e a página apresentar
 
 Na página de mapeamento, existe uma barra de busca que permite buscar a categoria por nome. Além disso, a seção **Categorias da loja** exibe lista das categorias da sua loja VTEX. 
 
-<div class="alert alert-info">
-  A Shopee exige uma especificação para diferenciar um SKU do outro. Caso não haja especificação mapeada em seu produto, a integração utilizará o nome do SKU para criar essa especificação.
-  </div>
+>ℹ️ A Shopee exige uma especificação para diferenciar um SKU do outro. Caso não haja especificação mapeada em seu produto, a integração utilizará o nome do SKU para criar essa especificação.
 
 A lista de categorias da sua loja VTEX inclui o status de seu  mapeamento  por meio dos ícones:
 
@@ -219,9 +209,7 @@ O mapeamento dos atributos permite que exista uma correspondência entre o padr�
 
 Os campos não mapeados não impedem que o mapeamento ocorra, porém, quanto mais atributos enviados para a Shopee seu produto tiver, melhor rankeado ele será no marketplace.
 
-<div class="alert alert-warning">
-A descrição dos produtos precisa ter, no mínimo, 100 caracteres. Além disso, a Shopee não aceita produtos com menos de 100 gramas, assim como não é possível enviar produtos com dimensões inválidas. Exemplo: Altura = 0 cm , Largura = 0,000001 cm. Em caso de dúvida, acesse o artigo <a href="https://seller.shopee.com.br/edu/article/3305/dimensoes-e-pesos-permitidos-para-enviar-pacotes-na-shopee">Dimensões e pesos permitidos para enviar pacotes da Shopee</a>.
-</div>
+>⚠️ A descrição dos produtos precisa ter, no mínimo, 100 caracteres. Além disso, a Shopee não aceita produtos com menos de 100 gramas, assim como não é possível enviar produtos com dimensões inválidas. Exemplo: Altura = 0 cm , Largura = 0,000001 cm. Em caso de dúvida, acesse o artigo [Dimensões e pesos permitidos para enviar pacotes da Shopee](https://seller.shopee.com.br/edu/article/3305/dimensoes-e-pesos-permitidos-para-enviar-pacotes-na-shopee).
 
 Para realizar o mapeamento de categorias e atributos no Admin VTEX vá em **Apps > Shopee > Mapeamento de categorias** e siga os passos abaixo:
 
@@ -234,9 +222,7 @@ Para realizar o mapeamento de categorias e atributos no Admin VTEX vá em **Apps
 
 Ao finalizar o mapeamento de categorias e atributos corretamente, o status da categoria mudará para **Mapeado**.
 
-<div class="alert alert-warning">
-A Shopee só aceita marcas já registradas no seu catálogo de produtos. Quando não houver uma marca cadastrada no produto ou a marca cadastrada no produto não corresponder aos nomes aceitos pelo marketplace, ele será categorizado na Shopee como `NoBrand`.
-</div>
+>⚠️ A Shopee só aceita marcas já registradas no seu catálogo de produtos. Quando não houver uma marca cadastrada no produto ou a marca cadastrada no produto não corresponder aos nomes aceitos pelo marketplace, ele será categorizado na Shopee como `NoBrand`.
 
 ## Gerenciar produtos
 

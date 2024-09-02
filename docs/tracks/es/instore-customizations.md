@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugES: instore-personalizaciones
 ---
 
-<div class="alert alert-danger">
-La mayoría de las personalizaciones de inStore implican cambiar el archivo JavaScript <code>checkout-instore-custom.js</code>. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en este archivo pueden causar errores críticos.
-</div>
+>❗ La mayoría de las personalizaciones de inStore implican cambiar el archivo JavaScript `checkout-instore-custom.js`. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en este archivo pueden causar errores críticos.
 
 ## Acceso al archivo de personalización del inStore
 
@@ -50,9 +48,7 @@ Para realizar cualquier cambio, simplemente agregue o modifique las líneas de c
 
 ![20. inStore Customizations - 3 - ES.png?h=250](https://images.ctfassets.net/alneenqid6w5/7xWS4qln2lhLN1CgM9VwOy/69495b399f32730531e0b8eb553d6d94/20._inStore_Customizations_-_3_-_ES.png_h_250)
 
-<div class="alert alert-warning">
-Siga siempre las instrucciones de personalización en esta documentación y realice solo los cambios como se indica aquí.
-</div>
+>⚠️ Siga siempre las instrucciones de personalización en esta documentación y realice solo los cambios como se indica aquí.
 
 ## Personalizaciones en la tienda
 

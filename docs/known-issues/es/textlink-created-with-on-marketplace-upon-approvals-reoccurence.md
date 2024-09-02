@@ -18,9 +18,7 @@ internalReference: 795900
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En algunos escenarios, al aprobar un producto en un Marketplace, en la aplicación de SKUs Recibidos, la petición falla al introducir los datos en el catálogo y al reintentar, los campos textlink rellenan los caracteres "-" con " ", cambiando el comportamiento deseado.

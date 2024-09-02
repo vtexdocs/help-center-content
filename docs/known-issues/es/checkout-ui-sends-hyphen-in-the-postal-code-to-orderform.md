@@ -18,9 +18,7 @@ internalReference: 937692
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Checkout UI envía un guión para el código postal a orderForm, causando problemas al calcular los ANS cuando un país tiene 7 dígitos + el guión. Esto sucede porque el módulo de Logística considera el guión como un dígito y dependiendo de cómo se registraron las tarifas de envío en la política de envío.

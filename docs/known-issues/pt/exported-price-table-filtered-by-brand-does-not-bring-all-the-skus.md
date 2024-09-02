@@ -18,9 +18,7 @@ internalReference: 594075
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao exportar a tabela de preços filtrada pela Marca para obter um resultado mais específico, a planilha está ficando incompleta para o cliente.

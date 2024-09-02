@@ -18,9 +18,7 @@ internalReference: 861920
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando um modelo é definido como condicional, não é possível fazer alterações nele por meio do editor do site.

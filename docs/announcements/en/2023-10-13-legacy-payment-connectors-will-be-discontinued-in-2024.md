@@ -19,9 +19,7 @@ To integrate payment methods to the VTEX platform, payment providers can create 
 
 ## What has changed?
 
-<div class="alert alert-danger">
-These changes will not affect Black Friday 2023. They will only be implemented in the first quarter of 2024.
-</div>
+>❗ These changes will not affect Black Friday 2023. They will only be implemented in the first quarter of 2024.
 
 VTEX is initiating the discontinuation of these legacy connectors, which will happen gradually:
 
@@ -109,9 +107,7 @@ If you are a payment provider managing one or more [connectors being discontinue
 
 In this case, we recommend that you submit your new connector for approval by February 10, 2024, so that stores have time to reconfigure their payment connections before discontinuation. Learn more about the [approval process for new payment connectors](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation).
 
-<div class="alert alert-danger">
-VTEX cannot guarantee that your new payment connector will be available to VTEX merchants before the official discontinuation if you submit it for approval after this date.
-</div>
+>❗ VTEX cannot guarantee that your new payment connector will be available to VTEX merchants before the official discontinuation if you submit it for approval after this date.
 
 If you have any questions about this process or would like to align joint communication with merchants, please contact your VTEX Partner Manager.
 

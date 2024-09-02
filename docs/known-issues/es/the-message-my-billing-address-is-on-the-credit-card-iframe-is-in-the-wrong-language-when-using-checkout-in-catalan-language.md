@@ -18,9 +18,7 @@ internalReference: 481181
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El mensaje "Mi dirección de facturación es ..." en el iFrame de la tarjeta de crédito está en un idioma incorrecto cuando se utiliza el checkout en catalán.

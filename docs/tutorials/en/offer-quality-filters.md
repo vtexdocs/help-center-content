@@ -59,9 +59,7 @@ To view the rules that are already active by default, on the Offer quality filte
 - Ref ID has a maximum character limit of 50. 
 - EAN has a maximum character limit of 50. 
 
-<div class="alert alert-info">
-You can configure VTEX Matcher's auto-approval of offers via <a href="https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig">Save Account's Approval Settings</a> REST API calls. These are different criteria than the ones available on the Offer Quality filters page and apply to the automatic approval of offers from specific sellers.
-</div>
+>ℹ️ You can configure VTEX Matcher's auto-approval of offers via [Save Account's Approval Settings](https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig) REST API calls. These are different criteria than the ones available on the Offer Quality filters page and apply to the automatic approval of offers from specific sellers.
 
 ## Creating requirement groups
 
@@ -83,9 +81,7 @@ Create requirement groups to set rules that apply to sellers, categories, or mar
 
 You can create mandatory and/or optional requirements. Learn more about the implications of each requirement in [Cataloging offers with requirements](#cataloging-offers-with-requirements).
 
-<div class="alert alert-info">
-Notice that each requirement group holds only one value. Therefore, you need to create another requirement group to add more than one value. For example, if the marketplace wants to add the words "Shirts" and "T-shirts" as mandatory requirements for the Seller brand field, you need to create a requirement group for "Shirts" and another one for "T-shirts".
-</div>
+>ℹ️ Notice that each requirement group holds only one value. Therefore, you need to create another requirement group to add more than one value. For example, if the marketplace wants to add the words "Shirts" and "T-shirts" as mandatory requirements for the Seller brand field, you need to create a requirement group for "Shirts" and another one for "T-shirts".
 
 Follow the steps below to create a new requirement group:
 

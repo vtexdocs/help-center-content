@@ -18,9 +18,7 @@ internalReference: 787367
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O conector DecidirV1 antigo utiliza um método interno para calcular os campos `CSPTGRANDTOTALAMOUNT` e `CSITTOTALAMOUNT`, que é o produto entre o valor e a quantidade do produto. Esta abordagem resulta em uma cadeia com duas casas decimais. Consequentemente, quando o preço do produto contém mais de duas casas decimais, o valor do campo `CSPTGRANDTOTALAMOUNT` diverge, pois é o próprio valor do pagamento.

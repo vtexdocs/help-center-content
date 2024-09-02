@@ -52,9 +52,7 @@ The information displayed on this page is described in the table below:
 
 In the search box with the magnifying glass icon <i class="fas fa-search"></i>, you can search for shipping policies by name. Typing a character into the search bar immediately initiates the search. To clear the search, click the close icon <i class="far fa-times-circle"></i>.
 
-<div class = "alert alert-info">
-If the search does not return any results, check the spelling used in the search and if a filter has been selected.
-</div>
+>ℹ️ If the search does not return any results, check the spelling used in the search and if a filter has been selected.
 
 ## Filtering shipping policies
 
@@ -103,9 +101,7 @@ To activate or deactivate a shipping policy, follow the steps below:
 
 To delete a shipping policy, follow the steps below:
 
-<div class="alert alert-danger">
-Deleting a shipping policy is permanent and cannot be undone.
-</div>
+>❗ Deleting a shipping policy is permanent and cannot be undone.
 
 1. In the VTEX Admin, go to **Shipping > Shipping Strategy** or type **Shipping Strategy** in the search bar at the top of the page.
 2. In the **Shipping Policies** tab, in the row for the shipping policy you want, click the menu icon <i class="fas fa-ellipsis-v"></i>. You can [search](#searching-for-shipping-policies) for policies or [filter by](#filtering-shipping-policies) certain criteria.

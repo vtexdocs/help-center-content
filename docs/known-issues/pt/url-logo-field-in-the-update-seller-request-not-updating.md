@@ -18,9 +18,7 @@ internalReference: 271480
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Tentar atualizar o campo "UrlLogo" na rota /api/catalog_system/pvt/seller não está refletindo nenhuma mudança.

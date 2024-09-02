@@ -16,9 +16,7 @@ trackSlugES: vtex-getting-started
 
 Todo SKU necesita al menos una imagen para que aparezca en la tienda.
 
-<div class="alert alert-warning">
-Si ninguna imagen está asociada a un SKU, no se activará.
-</div>
+>⚠️ Si ninguna imagen está asociada a un SKU, no se activará.
 
 Por lo tanto, después de terminar de llenar la configuración de su nuevo SKU y hacer clic en __Guardar__, usted será llevado a la pantalla de registro de imagen, donde se muestra el mensaje siguiente.
 

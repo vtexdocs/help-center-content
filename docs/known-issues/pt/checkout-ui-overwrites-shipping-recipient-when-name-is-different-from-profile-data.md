@@ -18,9 +18,7 @@ internalReference: 822670
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se um comprador tiver um perfil completo em que o nome e o sobrenome sejam diferentes do destinatário da remessa, quando o perfil for preenchido automaticamente no checkout, a interface do usuário substituirá o destinatário da remessa pelo valor do nome e do sobrenome combinados.

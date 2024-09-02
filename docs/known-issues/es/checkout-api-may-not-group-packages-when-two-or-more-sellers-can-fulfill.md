@@ -18,9 +18,7 @@ internalReference: 802156
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando dos o más vendedores pueden completar un carro con más de un artículo, es posible que la API de pago no agrupe los paquetes seleccionando vendedores diferentes para cada producto. Esto aumenta el valor del envío para el comprador.

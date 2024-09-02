@@ -18,9 +18,7 @@ internalReference: 971948
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Los cambios que se realizan utilizando la página de estilos de la interfaz de usuario de administración no se están guardando correctamente y no siempre se aplicarán a la página web.

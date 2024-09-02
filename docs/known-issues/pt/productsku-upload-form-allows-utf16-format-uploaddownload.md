@@ -18,9 +18,7 @@ internalReference: 493402
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, se um usuário tentar carregar uma lista SKU para o formulário de promoção regular utilizando um arquivo .txt, se o arquivo carregado estiver no formato de codificação UTF-16, então será o arquivo carregado posteriormente.

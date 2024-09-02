@@ -18,9 +18,7 @@ internalReference: 785324
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 A veces, cuando cargamos una categoría o colección, ya sea por view-part o desde la propia página de la colección/categoría, se muestra un error SWW en toda la página.

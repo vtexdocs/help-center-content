@@ -18,9 +18,7 @@ internalReference: 1066571
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se utilizan componentes de Store Framework para añadir artículos a un carrito mientras se ha iniciado sesión como operador de un centro de llamadas y no se suplanta la identidad de ningún cliente, el correo electrónico del operador se rellena en el archivo adjunto clientProfileData del orderForm.

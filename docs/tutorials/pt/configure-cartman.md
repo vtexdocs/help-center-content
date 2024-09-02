@@ -34,9 +34,7 @@ Neste artigo serão abordados os seguintes tópicos:
   - [Definir dados de marketing](#definir-dados-de-marketing)
 - [Desativar o Cartman](#desativar-o-cartman) 
 
-<div class="alert alert-warning">
-  Somente o lojista tem acesso ao <b>Cartman</b>. Suas funcionalidades não estão disponíveis para utilização dos usuários em uma loja.
-</div>
+>⚠️ Somente o lojista tem acesso ao **Cartman**. Suas funcionalidades não estão disponíveis para utilização dos usuários em uma loja.
 
 ## Ativar o Cartman manualmente
 
@@ -106,7 +104,5 @@ O Cartman pode ser desativado a qualquer momento, conforme a necessidade do loji
 2. No canto inferior direito da tela, clique no botão <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
 3. Na parte inferior do menu do Cartman, clique em `Desativar o Cartman`.
 
-<div class="alert alert-info">
-  Caso deseje reativar o <b>Cartman</b>, adicione novamente a query string <code>?cartman=on</code> em uma das páginas do Checkout de sua loja. Desta forma, o ícone azul estará novamente disponível no canto inferior direito da página.
-</div>
+>ℹ️ Caso deseje reativar o **Cartman**, adicione novamente a query string `?cartman=on` em uma das páginas do Checkout de sua loja. Desta forma, o ícone azul estará novamente disponível no canto inferior direito da página.
 

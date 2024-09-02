@@ -18,9 +18,7 @@ internalReference: 457047
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se criarmos um redirecionamento com alguns caracteres especiais, por exemplo `/televisão`, ele não funcionará, receberemos o seguinte erro:

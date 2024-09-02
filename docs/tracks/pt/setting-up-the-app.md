@@ -52,9 +52,7 @@ Ativar esta opção permite que uma compra seja concluída mesmo que o seu valor
 
 Por exemplo, para uma conta criada com o limite de crédito de R$ 1.000,00 e tolerância de 10%, o cliente poderá realizar um pedido no valor máximo de R$ 1.100,00 utilizando o Customer Credit como meio de pagamento. Caso o cliente deseje utilizar o crédito para pagar um pedido no valor de R$ 1.250,00, o sistema não permitirá a conclusão da compra.
 
-<div class="alert alert-warning">
-Os valores de tolerância são configurados em números decimais, sendo 0 a representação de 0% e 1, a representação de 100%. Exemplo: para utilizar uma tolerância de 5%, o valor a ser configurado é de 0.05.
-</div>
+>⚠️ Os valores de tolerância são configurados em números decimais, sendo 0 a representação de 0% e 1, a representação de 100%. Exemplo: para utilizar uma tolerância de 5%, o valor a ser configurado é de 0.05.
 
 ![CC_Configurações_2_PT](https://images.ctfassets.net/alneenqid6w5/3kjEQ2OblMKqwumNWSFnSt/1fde698cc193dda7e6ed82de51f7c19e/CC_Configura__es_2_PT.JPG)
 
@@ -76,9 +74,7 @@ O cliente poderá acessar esta página no site da sua loja em __Minha Conta > Me
 
 Esta configuração permite você possa inserir instruções relacionadas ao pagamento nos títulos que forem emitidos pelo Customer Credit. Para editar a mensagem a ser exibida no título, insira as informações na caixa de texto e clique em `Atualizar`.
 
-<div class="alert alert-warning">
-A mensagem cadastrada nessa configuração será replicada em todos os títulos emitidos para todas as contas de clientes do Customer Credit. Não é possível configurar uma mensagem única para cada cliente ou título específico.
-</div>
+>⚠️ A mensagem cadastrada nessa configuração será replicada em todos os títulos emitidos para todas as contas de clientes do Customer Credit. Não é possível configurar uma mensagem única para cada cliente ou título específico.
 
 ![CC_Configurações_5_PT](https://images.ctfassets.net/alneenqid6w5/6UkZi827KKQqH8Yk1mmPKj/b2c97be162320e8ed8ef2da3729ecedd/CC_Configura__es_5_PT.JPG)
 
@@ -109,6 +105,4 @@ Para criar as condições de pagamento de títulos do Customer Credit, siga os p
 
 <blockquote><ui>8. Clique em <b>Salvar</b>.</ui>
 
-<div class="alert alert-warning">
-Não é possível configurar taxa de juros para uma condição de pagamento criada com apenas uma única parcela. 
-</div>
+>⚠️ Não é possível configurar taxa de juros para uma condição de pagamento criada com apenas uma única parcela.

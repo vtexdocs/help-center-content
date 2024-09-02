@@ -45,9 +45,7 @@ Several steps are essential for us to initiate the configurations.
 
 After the configuration, the integration sends all the products associated with the sales policy determined for Walmart.
 
-<div class="alert alert-warning">
-<strong>Important:</strong> Walmart does not accept HTML code in the product description fields and specification fields.
-</div>
+>⚠️ **Important:** Walmart does not accept HTML code in the product description fields and specification fields.
 
 
 ## Integration Flow
@@ -68,6 +66,4 @@ The __order and shipping flows__ are Walmart's responsibility. VTEX receives que
 2 - [Authenticating your integration](/en/tutorial/creating-appkeys-and-apptokens-to-authenticate-integrations)
 After completing the steps above, you'll need to authenticate the integration with Walmart. All you need to do is send them your appKey (learn how to [generate an appKey for authentications](/en/tutorial/creating-appkeys-and-apptokens-to-authenticate-integrations)). If you have any questions about this process, get in touch with the Walmart support team.
 
-<div class="alert alert-warning">
-Remember that you must associate the appKey to the role <strong>IntegrationProfile - Fulfillment</strong>. It has all the necessary permissions to go through the entire marketplace integration process.
-</div>
+>⚠️ Remember that you must associate the appKey to the role **IntegrationProfile - Fulfillment**. It has all the necessary permissions to go through the entire marketplace integration process.

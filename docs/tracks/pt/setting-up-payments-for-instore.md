@@ -144,10 +144,9 @@ A GSURF é uma empresa que oferece um servidor SiTef via VPN. Isso facilita muit
 
 Ao configurar o conector SiTef, disponível no VTEX Pagamentos, você vai precisar especificar "__GSURF.SSL__" como protocolo para que a app VTEX SiTef envie as transações para o servidor remoto.
 
-<div class="alert alert-danger">
-<strong>IMPORTANTE</strong>: ao utilizar a GSURF como protocolo, certifique-se de que sua rede permite os seguintes acessos:
-<p>
-  <div><strong>Liberações no Firewall (apenas tráfego de saída):</strong></div>
+>❗ **IMPORTANTE**: ao utilizar a GSURF como protocolo, certifique-se de que sua rede permite os seguintes acessos:
+> <p>
+>   <div>**Liberações no Firewall (apenas tráfego de saída):**
   <div><strong>Range de IP’s:</strong> 187.103.176.0/20 189.85.171.160/28 18.231.194.64/26</div>
   <div><strong>Portas:</strong> UDP-443; TCP-443; TCP-55844; TCP-55845</div>
   <div><strong>DNS LOCAL:</strong> UDP-53 (resolução de nomes em gsurfnet.com)</div>

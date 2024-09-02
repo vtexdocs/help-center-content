@@ -18,9 +18,7 @@ internalReference: 388580
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En un escenario de Mercado con división de pagos cuando el mercado no tiene comisión en la transacción, redondear cualquiera de los valores de referencia (buyTotal o totalSellers) puede resultar en una cantidad negativa para el mercado.

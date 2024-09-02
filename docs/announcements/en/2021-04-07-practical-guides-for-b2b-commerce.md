@@ -23,4 +23,4 @@ To help you provide tailor-made ecommerce experiences for your business and reth
 
 This documentation presents the main resources available on the platform for different B2B ecommerce scenarios.
 
-<div class="alert alert-info">This is just the beginning! In the coming months, we will gather all B2B documentation in a <a href="https://help.vtex.com/en/category/b2b--3BQkex089ohYNodLZKKrhi">specific section</a> in the VTEX Help Center.</div>
+>ℹ️ This is just the beginning! In the coming months, we will gather all B2B documentation in a [specific section](https://help.vtex.com/en/category/b2b--3BQkex089ohYNodLZKKrhi) in the VTEX Help Center.

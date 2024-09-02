@@ -18,9 +18,7 @@ internalReference: 911203
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao enviar a solicitação Adicionar perfil de cliente duas vezes e o e-mail tiver um perfil completo, "clientProfileData" fica vazio, mostrando apenas o e-mail.

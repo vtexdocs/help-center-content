@@ -18,9 +18,7 @@ internalReference: 1007953
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Transações incompletas (cliente "Sem nome") podem aparecer na seção Transações com a moeda R$, resultado de um erro de criação (os dados de pagamento não foram enviados), mas os pedidos são criados corretamente na moeda local.

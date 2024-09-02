@@ -18,9 +18,7 @@ internalReference: 667652
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, el campo CultureInfo en el registro de la política comercial tiene una limitación a valores de 10 caracteres, esto hace que valores mayores a este generen un error SWW al guardar la política.

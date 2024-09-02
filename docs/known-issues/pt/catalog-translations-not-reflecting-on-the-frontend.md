@@ -18,9 +18,7 @@ internalReference: 861892
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o comerciante executa uma ação no aplicativo Messages para que alguns dados do produto sejam traduzidos no frontend, essa ação não está sendo refletida de fato.

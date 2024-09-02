@@ -47,8 +47,6 @@ Para garantir que uma promoção seja aplicada corretamente em um marketplace, �
   <li>Clique em <code>Salvar</code>.</li>
 </ol>
 
-<div class = "alert alert-info">
-Verifique se não foi criado nenhum filtro adicional de promoção, como forma de pagamento, filtros de cluster ou limitações no carrinho.
-</div>
+>ℹ️ Verifique se não foi criado nenhum filtro adicional de promoção, como forma de pagamento, filtros de cluster ou limitações no carrinho.
 
 Para mais informações, acesse [Configurar promoção para marketplace](https://help.vtex.com/pt/tutorial/configurando-promocao-para-marketplace/).

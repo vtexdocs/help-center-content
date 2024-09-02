@@ -18,9 +18,7 @@ internalReference: 925049
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si una cuenta tiene configurado el toggle 'UseSessionRegionAtCheckout', al añadir un artículo y el orderForm no tiene 'shippingData', no se configura el vendedor, mostrando precios y disponibilidad diferentes.

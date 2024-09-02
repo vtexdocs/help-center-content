@@ -47,9 +47,9 @@ Para configurar la referencia sigue los pasos a continuación:
 3. Define una fecha.
 4. Haz clic en **`Aplicar`.**  
 
-<div class="alert alert-warning">
-Una comparación valiosa durante la Black Week se realiza al contrastar datos con la misma fecha del año anterior. En la configuración de referencia, se recomienda establecer preferiblemente una fecha entre el 21/11/2022 y el 27/11/2022, preferentemente los mismos días de la semana. <br>Esta opción está dirigida a clientes que utilizaron el Admin VTEX durante ese periodo el año pasado.</br>
-</div>  
+>⚠️ Una comparación valiosa durante la Black Week se realiza al contrastar datos con la misma fecha del año anterior. En la configuración de referencia, se recomienda establecer preferiblemente una fecha entre el 21/11/2022 y el 27/11/2022, preferentemente los mismos días de la semana. 
+>
+> Esta opción está dirigida a clientes que utilizaron el Admin VTEX durante ese periodo el año pasado.</br>  
 
 ![referencia-es](https://images.ctfassets.net/alneenqid6w5/1ba2BbD9ANCJfHj5o4jwQC/4466f9301343f19f0ff79d89f5c44821/referencia-es.png)  
 
@@ -72,9 +72,7 @@ Para consultar los productos más vendidos, en la sección **Métricas**  haz cl
 
 ![mas-vendidos-es](https://images.ctfassets.net/alneenqid6w5/1sooXuFeV0NyhByWoLegHb/22b06efc2dd15dded404a1c4b1f23f2c/mas-vendidos-es.png)   
 
-<div class="alert alert-danger">
-Para análisis o seguimientos de periodos más extensos, recomendamos el uso de nuestro dashboard Desempeño de ventas, que se detalla en la siguiente pregunta.
-</div>
+>❗ Para análisis o seguimientos de periodos más extensos, recomendamos el uso de nuestro dashboard Desempeño de ventas, que se detalla en la siguiente pregunta.
 
 ## ¿Cómo puedo monitorear los datos de mi tienda online más allá del día de hoy?  
 
@@ -139,9 +137,9 @@ Hay varias razones por las cuales las métricas de la Vista general en tiempo re
 
 Para obtener una visión completa de las métricas combinadas de todas las tiendas, te recomendamos acceder al dashboard Desempeño de ventas. Este dashboard ofrece datos agregados con una tasa de actualización de aproximadamente 90 minutos.  
 
-<div class="alert alert-danger">
-Si tu tienda online opera con más de una moneda puedes consultar los pedidos en el <b>dashboard Vista general;</b> el total de los mismos se presentan sumados en la moneda más utilizada en tus ventas. <br>Para comparar con la pantalla <b>Pedidos,</b> debes sumar el total de pedidos en todas las monedas.</br>
-</div>    
+>❗ Si tu tienda online opera con más de una moneda puedes consultar los pedidos en el **dashboard Vista general;** el total de los mismos se presentan sumados en la moneda más utilizada en tus ventas. 
+>
+> Para comparar con la pantalla **Pedidos,** debes sumar el total de pedidos en todas las monedas.</br>    
 
 ![todos-los-pedidos-es](https://images.ctfassets.net/alneenqid6w5/4tG8VMrSZU45ZRsDHifGPV/7207f5239991e648867ab5b201629a8b/todos-los-pedidos-es.png)
 

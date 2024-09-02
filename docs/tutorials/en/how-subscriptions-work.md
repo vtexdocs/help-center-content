@@ -45,9 +45,7 @@ To do that, go to the **My Account** page on your store's website, access the **
 
 ## How your customers view and manage their subscriptions
 
-<div class = "alert alert-info">
-In <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>, customers can only access their orders from the last two years.
-</div>
+>ℹ️ In [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), customers can only access their orders from the last two years.
 
 A list of all the customer’s subscriptions, containing their details and statuses, will be displayed in the **Subscriptions** section, on the **My Account** page. Your customer will also receive a confirmation of the subscription and the generated order by email.  
 

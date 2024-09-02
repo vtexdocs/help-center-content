@@ -18,9 +18,7 @@ internalReference: 980297
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O relatório de análise de pesquisa exportado como CSV pode divergir entre sua versão com métricas de funil e sua versão sem elas.

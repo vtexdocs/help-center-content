@@ -15,9 +15,7 @@ legacySlug: how-to-change-orders-beta
 subcategory: 3LQ1Tl0u4frEOd45BkjFAm
 ---
 
-<div class="alert alert-info">
-This feature is in beta, which means that we are working to improve it. If you wish to use <b>Change order (Beta)</b>, please contact <a href="https://help.vtex.com/en/support">our Support</a> and provide the <a href="https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name(s)</a> in which to activate it.
-</div>
+>ℹ️ This feature is in beta, which means that we are working to improve it. If you wish to use **Change order (Beta)**, please contact [our Support](https://help.vtex.com/en/support) and provide the [account name(s)](https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) in which to activate it.
 
 The [Change order (beta)](https://help.vtex.com/en/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ) feature allows you to edit an order in different ways, either due to customer requests, product unavailability, or other reasons.
 
@@ -28,9 +26,7 @@ This article explains how an order can be changed and how to do so. It comprises
 - [Common aspects](#common-aspects)
 - [Processing errors](#processing-errors)
 
-<div class="alert alert-warning">
-To learn about the <a href="https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#general-characteristics">general characteristics</a> of order change scenarios, including aspects like reservation, inventory update, and franchise accounts, or to understand details related to <a href="https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#price-changes">pricing, payment, and invoicing</a>, read the <a href="https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ">How Change order works (Beta)</a> article.
-</div>
+>⚠️ To learn about the [general characteristics](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#general-characteristics) of order change scenarios, including aspects like reservation, inventory update, and franchise accounts, or to understand details related to [pricing, payment, and invoicing](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#price-changes), read the [How Change order works (Beta)](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ) article.
 
 ## Conditions
 
@@ -81,9 +77,7 @@ On the order details page, you can do the following:
 - [Replace items](#replacing-items)
 - [Change weight](#changing-weight)
 
-<div class = "alert alert-info">
-You can make a single change to the order or combine several at once. There is no limit to how many times an order can be changed. Read the <a href="https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ">How Change order works (Beta)</a> article to learn more.
-</div>
+>ℹ️ You can make a single change to the order or combine several at once. There is no limit to how many times an order can be changed. Read the [How Change order works (Beta)](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ) article to learn more.
 
 ### Adding items
 

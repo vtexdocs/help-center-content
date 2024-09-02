@@ -18,9 +18,7 @@ internalReference: 754062
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O Google atualizou recentemente suas categorias de taxonomia, chamadas de categoria global na VTEX. Entretanto, comparando as categorias descritas no arquivo do Google e dentro do catálogo VTEX, você pode ver que nossa referência está desatualizada.

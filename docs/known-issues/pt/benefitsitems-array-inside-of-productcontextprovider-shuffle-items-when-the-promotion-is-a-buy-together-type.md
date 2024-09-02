@@ -18,9 +18,7 @@ internalReference: 915213
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao examinar a matriz de benefícios dentro do ProductContextProvider no PDP de um produto, podemos ver que nem todos os produtos são retornados e os que são retornados são embaralhados. As duas listas de produtos dentro da promoção estão juntas na mesma matriz. Isso só acontece quando a promoção é do tipo Buy Together.

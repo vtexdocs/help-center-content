@@ -21,10 +21,7 @@ No Admin, você pode criar landing pages personalizadas, como páginas para ofer
 
 1. No Admin VTEX, acesse **Storefront > Páginas**.
 
-<div class="alert alert-warning">
-  <p> Se sua loja tem múltiplas políticas comerciais ou é uma loja internacional, selecione o <a href="https://help.vtex.com/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W">binding</a> correspondente à loja à qual você deseja adicionar uma nova landing page usando o menu suspenso no canto superior direito.
-</p>
-</div>
+>⚠️ Se sua loja tem múltiplas políticas comerciais ou é uma loja internacional, selecione o [binding](https://help.vtex.com/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) correspondente à loja à qual você deseja adicionar uma nova landing page usando o menu suspenso no canto superior direito.
 
 2.Clique em **CRIAR PÁGINA**.
 
@@ -40,21 +37,12 @@ No Admin, você pode criar landing pages personalizadas, como páginas para ofer
 | Descrição | Resumo da nova página que será exibida nas páginas de resultados dos mecanismos de busca. |
 | Palavras-chave | Tópicos que definem o conteúdo da página e ajudam a mostrar a página aos usuários interessados nos resultados dos mecanismos de busca. |
 
-<div class="alert alert-warning">
-<p>Para evitar conflitos e garantir a integridade do sistema, não é permitida a alteração da URL de uma rota já existente. Caso precise modificar uma URL, recomenda-se criar uma nova página com o caminho desejado e desativar a antiga, se necessário.
-</p>
-</div>
+>⚠️ Para evitar conflitos e garantir a integridade do sistema, não é permitida a alteração da URL de uma rota já existente. Caso precise modificar uma URL, recomenda-se criar uma nova página com o caminho desejado e desativar a antiga, se necessário.
 
-<div class = "alert alert-info">
-<p>Os cinco campos acima têm um impacto direto nos acessos à loja e em seu posicionamento nos resultados dos mecanismos de busca. Ao preencher os metadados da página, considere as melhores práticas de SEO.
-</p>
-</div>
+>ℹ️ Os cinco campos acima têm um impacto direto nos acessos à loja e em seu posicionamento nos resultados dos mecanismos de busca. Ao preencher os metadados da página, considere as melhores práticas de SEO.
 
 4.Escolha um modelo para a sua nova landing page no menu **Templates**.
 
-<div class = "alert alert-info">
-  <p>Se você deseja criar um template condicional, clique em <strong>Adicionar template condicional</strong> e preencha os campos de acordo com as condições desejadas. Tenha em mente que o modelo condicional só será exibido quando uma ou todas as condições pré-definidas coincidirem na interface.
-</p>
-</div>
+>ℹ️ Se você deseja criar um template condicional, clique em **Adicionar template condicional** e preencha os campos de acordo com as condições desejadas. Tenha em mente que o modelo condicional só será exibido quando uma ou todas as condições pré-definidas coincidirem na interface.
 
 5.Salve as alterações.

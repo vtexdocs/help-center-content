@@ -30,6 +30,4 @@ Para cadastrar o rastreio na nota fiscal, siga os passos abaixo:
     - Transportadora
 7. Clique em `Salvar nota fiscal`. 
 
-<div class = "alert alert-info">
-No momento de cadastrar o rastreio na nota fiscal, é possível alterar a <a href="https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE">transportadora</a> associada ao pedido. Para isso na etapa de preenchimento do <b>Rastreamento do pedido</b>, clique em <i>Transportadora</i> e selecione a opção desejada.
-</div>
+>ℹ️ No momento de cadastrar o rastreio na nota fiscal, é possível alterar a [transportadora](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) associada ao pedido. Para isso na etapa de preenchimento do **Rastreamento do pedido**, clique em <i>Transportadora</i> e selecione a opção desejada.

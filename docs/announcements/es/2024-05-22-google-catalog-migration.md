@@ -23,9 +23,7 @@ La funcionalidad está dirigida a sellers que anteriormente integraban los produ
 
 El objetivo de esta funcionalidad es permitir al seller la migración de la relevancia de sus anuncios en Google Shopping. Al llevar a cabo la migración con el conector de VTEX, el seller no pierde el historial de relevancia de sus anuncios.
 
-<div class="alert alert-info">
-La migración del catálogo solo mapea y realiza match entre productos del catálogo VTEX con anuncios existentes en Merchant Center de Google Shopping.
-</div>
+>ℹ️ La migración del catálogo solo mapea y realiza match entre productos del catálogo VTEX con anuncios existentes en Merchant Center de Google Shopping.
 
 ## ¿Qué se necesita hacer?
 

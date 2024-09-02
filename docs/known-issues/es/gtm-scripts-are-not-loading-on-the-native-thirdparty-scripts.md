@@ -18,9 +18,7 @@ internalReference: 1086165
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Las tiendas que utilizan Faststore v2 (repositorios que comienzan en `starter.store` y utilizan la aplicación `admin-faststore`) no cargan el script GTM cuando utilizan los scripts nativos de terceros. Esto está relacionado con Partytown.

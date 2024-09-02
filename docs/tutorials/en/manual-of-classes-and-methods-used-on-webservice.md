@@ -19,6 +19,8 @@ The Web Service interface enables access of storeowners in charge to practically
 
 [Download the manual of classes and methods.](//assets.ctfassets.net/alneenqid6w5/4OdeCFbcVQtEgkuWsuuidl/80b79448cf2b327e07b567a8411afaa0/vtex_WebServiceGuide.pdf)
 
-<div class="alert alert-danger"><p>Important: only the SOAP methods relevent to the <strong>catalog</strong> are valid.</p>
-<p><strong>All other methods will be deprecated as of 02/28/2017.</strong></p>
-<p>Use the equivalent REST APIs avilable in our <a href="//help.vtex.com/developer-docs/">Developer Docs</a>.</p></div>
+>❗ Important: only the SOAP methods relevent to the **catalog** are valid.
+>
+> **All other methods will be deprecated as of 02/28/2017.**
+>
+> Use the equivalent REST APIs avilable in our [Developer Docs](//help.vtex.com/developer-docs/).

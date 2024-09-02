@@ -18,9 +18,7 @@ internalReference: 754363
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La API de búsqueda en catálogos, documentada aquí: https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/search/-search- , no acepta términos con caracteres especiales como el apóstrofo ' o las comillas ".

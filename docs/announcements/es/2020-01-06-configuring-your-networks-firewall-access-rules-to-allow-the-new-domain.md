@@ -31,9 +31,7 @@ Póngase en contacto con el equipo de TI de su operación, responsable de las co
 
 Este equipo deberá __revisar las reglas de firewall y ajustarlas, garantizando la liberación del dominio vtexassets.com__.
 
-<div class="alert alert-info">
-Nota: No necesitará hacer ningún ajuste en el front end ya que el dominio <code>vteximg.com.br</code> continuará trabajando para las personalizaciones.
-</div>
+>ℹ️ Nota: No necesitará hacer ningún ajuste en el front end ya que el dominio `vteximg.com.br` continuará trabajando para las personalizaciones.
 
 ## ¿Qué impactos puede sufrir su operación si el ajuste no ocurre?
 

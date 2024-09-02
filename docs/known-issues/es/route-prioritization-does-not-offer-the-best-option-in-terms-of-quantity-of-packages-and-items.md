@@ -18,9 +18,7 @@ internalReference: 927747
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En Logística, el primer criterio de desempate cuando el sistema está eligiendo la ruta (almacén + muelle + política de envío), está relacionado con el número de paquetes necesarios para esta ruta específica, menos paquetes significa que la ruta debería ser mejor.

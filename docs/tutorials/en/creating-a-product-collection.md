@@ -65,9 +65,7 @@ To create a product group with one of more brands, just select the brand desired
 
 To create a collection of products that have not yet been launched, select &#8220;Pré-venda&#8221; in &#8220;Outras Opções&#8221;. The system will consider all products with date beyond the current date, as defined in the field “Data de lançamento no mercado” (product register). Or, you can configure the collection to take into account recently launched products, by selection the &#8220;Lançamento&#8221; option. The system will consider all products with the date defined in the “Data de lançamento no mercado” (product register) field within the interval of 30 days prior to present day. See in the example below that it is possible to select one or other field. If you want both scenarios to be taken into account, create two collections and configure each of them with the respective collection.
 
-<div class="alert alert-warning">
-These flags are a <em>complement</em> to the choice of products. It is important to note that these flags will only work if you have chosen any category, brand, or combination of SKUs for the collection. These flags are to be used in conjunction with the selection of categories, brands or SKUs for the collection.
-</div>
+>⚠️ These flags are a *complement* to the choice of products. It is important to note that these flags will only work if you have chosen any category, brand, or combination of SKUs for the collection. These flags are to be used in conjunction with the selection of categories, brands or SKUs for the collection.
 
 ### Including specific SKUs in a group
 

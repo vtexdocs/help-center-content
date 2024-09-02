@@ -18,9 +18,7 @@ internalReference: 680919
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Devido a uma falha na etapa de criação do fluxo de trabalho, algumas ordens cujo fluxo de criação foi concluído corretamente, podem apresentar o seguinte valor no campo de status: `detail.state.null `e na listagem de ordens não apresentam nenhum valor de status;

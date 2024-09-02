@@ -19,9 +19,7 @@ There are to ways to change the display order of your store’s payment methods 
 - Through Admin.
 - Through JavaScript customizations.
 
-<div class="alert alert-warning">
-<strong>Note:</strong> for security and performance reasons, <strong>we do not recommend</strong> that you alter the checkout JavaScript archives. VTEX does not take responsibility for any problems caused after the alteration of this code. 
-</div>
+>⚠️ **Note:** for security and performance reasons, **we do not recommend** that you alter the checkout JavaScript archives. VTEX does not take responsibility for any problems caused after the alteration of this code.
 
 ## How Sorting Works
 

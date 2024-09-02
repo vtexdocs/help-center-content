@@ -15,9 +15,7 @@ legacySlug: vtex-shield
 subcategory: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-<div class="alert alert-info">
-  <p>If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Commercial Support</a>. Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our <a href="https://vtex.com/us-en/contato/">contact form</a>.</p>
-</div>
+>ℹ️ If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/us-en/contato/).
 
 VTEX Shield offers additional, customizable protection layers for stores that prioritize platform resilience and the security standards guaranteed by VTEX's existing security [certifications and practices](https://vtex.com/us-en/security/security-practices/).
 
@@ -52,9 +50,7 @@ Only stores with VTEX Shield that request this feature can request WAF activatio
 
 ## Data Protection Plus
 
-<div class="alert alert-info">
-  <p>This feature is in closed beta and is only available in some regions. If you have any questions, please contact <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Commercial Support</a>.</p>
-</div>
+>ℹ️ This feature is in closed beta and is only available in some regions. If you have any questions, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
 
 [Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) is a data architecture that offers an additional layer of protection for personal data. In this architecture, all PII (Personally Identifiable Information) data is stored in the [Profile System](https://developers.vtex.com/docs/guides/profile-system), a service developed specifically for processing PII following a [set of rules and processes](https://developers.vtex.com/docs/guides/pii-data-architecture-specifications) appropriate for this purpose. 
 

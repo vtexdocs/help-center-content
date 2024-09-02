@@ -18,9 +18,7 @@ internalReference: 795900
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em alguns cenários, ao aprovar um produto em um Marketplace, no aplicativo Received SKUs, a solicitação falha ao inserir dados no catálogo e, ao tentar novamente, os campos de link de texto preenchem os caracteres "-" com " ", alterando o comportamento desejado.

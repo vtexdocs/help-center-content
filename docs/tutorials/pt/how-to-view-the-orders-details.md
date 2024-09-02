@@ -38,9 +38,7 @@ Na caixa da esquerda, estão concentradas as informações relacionadas ao meio 
 
 Para tansações com cartão de crédito, cada pagamento (podem ser dois cartões) possui um ID gerado pela VTEX. A adquirente também cria uma, chamada Transaction ID (TID). A TID é específica para cada cartão, ou seja, se um pedido é pago com dois cartões, haverá duas transações e, logo, duas TIDs.
 
-<div class="alert alert-warning">
-Em transações que não possuem TID, pode ser interpretado que a adquirente não processou o pagamento, isto é, que não possui TID. Ocasionalmente isso pode gerar um erro, e uma forma rápida de identificá-lo é verificar se existe uma TID.
-</div>
+>⚠️ Em transações que não possuem TID, pode ser interpretado que a adquirente não processou o pagamento, isto é, que não possui TID. Ocasionalmente isso pode gerar um erro, e uma forma rápida de identificá-lo é verificar se existe uma TID.
 
 A parte mais importante dessa tela é o log de interações da transação. Aqui fica registrada toda a comunicação da VTEX com os afiliados cadastrados – antifraude, gateways e adquirentes –, inclusive mensagens de sucesso e erro, com seus respectivos códigos.
 

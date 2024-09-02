@@ -18,9 +18,7 @@ internalReference: 1043003
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En la actualidad, las tiendas que utilizan la búsqueda heredada del Portal pueden enfrentarse, al utilizar varios filtros en su tienda, como filtros de colección en plantillas, a tiempos de espera aleatorios e intermitentes que a menudo se muestran como un error "Algo ha ido mal" para los clientes.

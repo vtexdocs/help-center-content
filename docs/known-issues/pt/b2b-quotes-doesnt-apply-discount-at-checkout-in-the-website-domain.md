@@ -18,9 +18,7 @@ internalReference: 849080
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando uma cotação tem um desconto aplicado por um vendedor, o B2B Quotes não aplica o desconto no checkout no domínio do site.

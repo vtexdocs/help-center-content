@@ -18,6 +18,4 @@ Agora que a condição de pagamento está criada, é preciso criar os filtros qu
 
 Para isso, os desenvolvedores da sua loja precisam customizar um arquivo JavaScript. Leia o guia [Define payment methods displayed on VTEX Sales App](https://developers.vtex.com/docs/guides/define-payment-methods-displayed-on-vtex-sales-app) para mais informações.
 
-<div class="alert alert-danger">
-<p>Para habilitar pagamentos via aplicativo do VTEX Sales App, é necessário fazer alterações em um arquivo JavaScript. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas neste arquivo podem causar erros críticos.</p>
-</div>
+>❗ Para habilitar pagamentos via aplicativo do VTEX Sales App, é necessário fazer alterações em um arquivo JavaScript. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas neste arquivo podem causar erros críticos.

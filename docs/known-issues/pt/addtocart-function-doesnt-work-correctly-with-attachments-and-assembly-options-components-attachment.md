@@ -18,9 +18,7 @@ internalReference: 830495
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A função addToCart não funciona corretamente quando um produto tem opções de montagem e anexos configurados e um dos componentes das opções de montagem também tem anexos. Somente o anexo do componente será adicionado ao carrinho.

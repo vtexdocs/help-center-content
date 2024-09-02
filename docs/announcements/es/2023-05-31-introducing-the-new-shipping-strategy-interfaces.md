@@ -38,7 +38,5 @@ A partir del 31 de mayo, la versión beta de la **Estrategia de envío** está d
 
 Si después de probar el beta deseas volver a la versión anterior, en el menú <i class="fas fa-ellipsis-v"></i> en la parte superior de **Estrategia de envío**, haga clic en `Cambiar a la versión anterior` y comenta el motivo. El regreso será automático.
 
-<div class="alert alert-warning">
-A partir del 26 de julio, las nuevas interfaces de la <b>Estrategia de envío</b> sean el estándar para todas las tiendas VTEX.
-</div>
+>⚠️ A partir del 26 de julio, las nuevas interfaces de la **Estrategia de envío** sean el estándar para todas las tiendas VTEX.
 

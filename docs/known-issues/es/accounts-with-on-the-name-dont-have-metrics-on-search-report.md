@@ -18,9 +18,7 @@ internalReference: 793570
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si el nombre de la cuenta es algo como `mi-cuenta` el informe de búsqueda no recibe datos. Incluso con los eventos correctamente configurados.

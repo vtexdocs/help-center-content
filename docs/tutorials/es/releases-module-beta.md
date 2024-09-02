@@ -15,9 +15,7 @@ legacySlug: modulo-de-lanzamientos-beta
 subcategory: 
 ---
 
-<div class = "alert alert-info">
-El módulo <b>Lanzamientos</b> se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarlo. Esta funcionalidad es válida únicamente para las tiendas que usan FastStore.
-</div>
+>ℹ️ El módulo **Lanzamientos** se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarlo. Esta funcionalidad es válida únicamente para las tiendas que usan FastStore.
 
 La gestión de una operación de _ecommerce_ exige que el _retailer_ haga una serie de actualizaciones y cambios en su tienda que, muchas veces, suelen relacionarse entre sí; por ejemplo, una campaña publicitaria en la cual se deben configurar distintos elementos del _storefront_.
 
@@ -30,9 +28,7 @@ Los principales beneficios para el módulo son:
 - Mayor control al probar y revisar los cambios antes de la publicación.
 - Facilidad para programar o eliminar grupos de cambios.
 
-<div class = "alert alert-info">
-El módulo <b>Lanzamientos</b> debe estar configurado en el CMS para poder usarlo. Obtén más información en <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.
-</div>
+>ℹ️ El módulo **Lanzamientos** debe estar configurado en el CMS para poder usarlo. Obtén más información en [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 Este artículo trata los siguientes temas:
 
@@ -66,9 +62,7 @@ Para crear un lanzamiento, sigue las instrucciones paso a paso a continuación:
 6. Haz clic en `Crear lanzamiento`.
 7. Rellena el campo _Nombre_ con un nombre para el lanzamiento.
 
-  <div class = "alert alert-info">
-En esta etapa, no es obligatorio rellenar los campos <b>Día de publicación</b> y <b>Hora</b>. Esto puede determinarse más adelante, tal como veremos en <a href="https://help.vtex.com/es/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#programar-lanzamientos">Programar lanzamientos</a>.
-</div>
+  >ℹ️ En esta etapa, no es obligatorio rellenar los campos **Día de publicación** y **Hora**. Esto puede determinarse más adelante, tal como veremos en [Programar lanzamientos](https://help.vtex.com/es/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#programar-lanzamientos).
 
 8. Haz clic en `Crear`.
 
@@ -82,9 +76,7 @@ Para crear un lanzamiento, sigue las instrucciones paso a paso a continuación:
 2. Haz clic en el botón `Crear`.
 3. Rellena el campo _Nombre_ con un nombre para el lanzamiento.
 
-  <div class = "alert alert-info">
-En esta etapa, no es obligatorio rellenar los campos Día de publicación y Hora. Esto puede determinarse más adelante, tal como veremos en Programar lanzamientos.
-</div>
+  >ℹ️ En esta etapa, no es obligatorio rellenar los campos Día de publicación y Hora. Esto puede determinarse más adelante, tal como veremos en Programar lanzamientos.
 
 4. Haz clic en `Crear`.
 
@@ -127,9 +119,7 @@ Al crear un lanzamiento, se puede definir o no la fecha de publicación. Existen
 - **Desprogramar:** cancelar la fecha de publicación, lo cual hace que el lanzamiento pase al status `No programado`.
 - **Reprogramar:** definir una fecha nueva para un lanzamiento que ya tenía una fecha determinada.
 
-<div class = "alert alert-info">
-Al programar o reprogramar la publicación de un lanzamiento es posible seleccionar la opción <b>Agregar fecha de finalización</b> para definir un plazo en el que se quitará la publicación del lanzamiento. La fecha de finalización no significa que se <a href="https://help.vtex.com/es/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#e#eliminar-lanzamientos">eliminará el lanzamiento</a>, sino que se archivará y podrá publicarse nuevamente en cualquier momento.
-</div>
+>ℹ️ Al programar o reprogramar la publicación de un lanzamiento es posible seleccionar la opción **Agregar fecha de finalización** para definir un plazo en el que se quitará la publicación del lanzamiento. La fecha de finalización no significa que se [eliminará el lanzamiento](https://help.vtex.com/es/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#e#eliminar-lanzamientos), sino que se archivará y podrá publicarse nuevamente en cualquier momento.
 
 ### Programar
 
@@ -186,9 +176,7 @@ Otra forma de publicar es ingresar en la página de detalles del lanzamiento y s
 
 Sigue estas instrucciones paso a paso para eliminar un lanzamiento:
 
-<div class="alert alert-danger">
-Los lanzamientos eliminados se borran y son irrecuperables. Se mantienen las actualizaciones que formaban parte del lanzamiento, pero deja de existir como grupo.
-</div>
+>❗ Los lanzamientos eliminados se borran y son irrecuperables. Se mantienen las actualizaciones que formaban parte del lanzamiento, pero deja de existir como grupo.
 
 1. En el Admin VTEX, accede a **Configuración de la tienda > Lanzamientos**.
 2. En la línea correspondiente al lanzamiento deseado, haz clic en el ícono de menú <i class="fas fa-ellipsis-v"></i>. 

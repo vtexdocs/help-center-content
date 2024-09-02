@@ -18,9 +18,7 @@ internalReference: 303673
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Mientras se carga la pantalla del carrito, eventualmente, aparece un mensaje de "carrito vacío" delante de los artículos. Este escenario puede ocurrir rápidamente, con algo menos de milisegundos, y volverse imperceptible, o posiblemente más lentamente, durando hasta un segundo o incluso más y generando consultas por parte de las tiendas.

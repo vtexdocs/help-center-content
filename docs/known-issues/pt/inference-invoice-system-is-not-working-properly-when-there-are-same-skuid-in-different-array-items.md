@@ -18,9 +18,7 @@ internalReference: 1008459
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Alguns pedidos têm o mesmo SKUid em uma matriz separada de itens, o que acontece no momento da compra no checkout por diferentes motivos, como desconto a ser aplicado, por exemplo.

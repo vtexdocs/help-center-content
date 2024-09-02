@@ -18,9 +18,7 @@ internalReference: 822107
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os preços dos serviços não são atualizados se tiverem sido adicionados a um item antes da alteração do preço do serviço no administrador. Isso fará com que o pedido seja criado com um preço desatualizado.

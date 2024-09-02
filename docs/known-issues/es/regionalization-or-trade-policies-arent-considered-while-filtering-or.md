@@ -18,9 +18,7 @@ internalReference: 571101
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 Cuando se utiliza la búsqueda inteligente (a través de PLP o incluso de su API) junto con la regionalización (regionId) o la variación de la política comercial, la clasificación y el filtrado de artículos por precio no funcionan correctamente.
 

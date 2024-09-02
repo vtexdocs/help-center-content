@@ -15,9 +15,7 @@ legacySlug: mapeo-de-url-redireccion-301
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class="alert alert-warning">
-<p>Este tutorial es para tiendas en el CMS legado. Para otras tiendas, esta configuración se realiza a través de <a href="https://help.vtex.com/es/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Páginas</a>. Acceda a la documentación <a href="https://help.vtex.com/es/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Gestión de redirecciones de URL</a> para obtener más información.</p>
-</div>
+>⚠️ Este tutorial es para tiendas en el CMS legado. Para otras tiendas, esta configuración se realiza a través de [Páginas](https://help.vtex.com/es/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word). Acceda a la documentación [Gestión de redirecciones de URL](https://help.vtex.com/es/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word) para obtener más información.
 
 Los mapeos de URL se utilizan para redirigir URL específicas a otras URL. Este recurso es muy útil cuando la tienda ya tiene URL indexadas en los buscadores y se quiere redirigirlas a otras más atractivas, manteniendo el SEO y evitando errores de indexación.
 
@@ -45,9 +43,7 @@ Hay dos maneras de añadir y cambiar un Mapeo de URL:
 - **End date:** fecha y hora en que se dejará de considerar el mapeo.
 - **Active:** opción para determinar si el mapeo está activo o inactivo.
 
-<div class="alert alert-info"> 
-  <p>Para crear un mapeo para la home (directorio raíz), rellene el campo <b>Url to</b> con una barra <code>/</code>.</p>
-</div>
+>ℹ️ Para crear un mapeo para la home (directorio raíz), rellene el campo **Url to** con una barra `/`.
 
 ## Importación por plantilla
 

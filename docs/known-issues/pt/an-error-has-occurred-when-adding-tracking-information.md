@@ -18,9 +18,7 @@ internalReference: 409225
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 Ao inserir as informações de rastreamento quando o número da fatura contém espaços, ocorre o seguinte erro (seja via UI ou API) "`An error has occurred`".
 

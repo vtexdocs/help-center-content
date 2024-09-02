@@ -18,9 +18,7 @@ internalReference: 540257
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al abrir el desplegable de cuotas en la página de pago y desplazamiento de otra página de pago, se puede ver que la casilla de cuotas se desprende y queda suelta en la pantalla de pago

@@ -21,9 +21,9 @@ Actually, we are making this change precisely because, with the development of t
 
 By eliminating the Maximum Price per Item promotion, we are improving the performance of the promotions module as well as the store management.
 
-<div class="alert alert-warning">Until November 20, the Maximum Price per Item promotion continues to exist. However, the maximum number of items allowed becomes <b>100</b>. Previously the maximum allowed was 500.</div>
+>⚠️ Until November 20, the Maximum Price per Item promotion continues to exist. However, the maximum number of items allowed becomes **100**. Previously the maximum allowed was 500.
 
-<div class="alert alert-danger">If you use any Maximum Price per Item promotion, read this announcement through the end and adapt the method in your store. Otherwise, the SKUs concerned will no longer be impacted by this business strategy.</div>
+>❗ If you use any Maximum Price per Item promotion, read this announcement through the end and adapt the method in your store. Otherwise, the SKUs concerned will no longer be impacted by this business strategy.
 
 ## Alternatives
 

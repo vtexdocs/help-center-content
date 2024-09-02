@@ -15,10 +15,8 @@ legacySlug: configurar-los-horarios-de-la-transportadora
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-<div class="alert alert-info">
-Aviso: Esta documentación está siendo actualizada con el fin de reflejar el cambio del concepto de Paneles a
-<a href="https://help.vtex.com/es/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">Estrategia de Envío</a>.
-</div> 
+>ℹ️ Aviso: Esta documentación está siendo actualizada con el fin de reflejar el cambio del concepto de Paneles a
+> [Estrategia de Envío](https://help.vtex.com/es/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl). 
 
 Las transportadoras, que en su Admin se denominan Política de Envío, son las empresas responsables de hacer la distribución de los productos vendidos por un comercio electrónico. Es común que una tienda tenga varias transportadoras asociadas. Esto sucede porque el perfil de operación y de flota de las **transportadoras varía según la ruta, el plazo y el tipo de producto** que va a entregar.
 

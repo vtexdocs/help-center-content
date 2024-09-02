@@ -18,9 +18,7 @@ internalReference: 639294
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se intenta agrupar por el método de entrega en el tablero de rendimiento de ventas, aparece un error:

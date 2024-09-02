@@ -18,9 +18,7 @@ internalReference: 313945
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Há um grande volume de erros no processo de criação de um pedido com a mensagem "_O campo do nome do receptor no anexo de envio é inválido_". Parece ser algo relacionado à nossa IU de checkout. Não temos recursos para entender o quanto isso está realmente afetando ou bloqueando as vendas.

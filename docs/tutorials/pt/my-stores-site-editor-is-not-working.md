@@ -101,9 +101,7 @@ Outro possível motivo para esse erro está relacionado ao locale configurado pa
 
 Abra um ticket para o time de [Suporte VTEX](https://help.vtex.com/pt/support) para investigar o problema mais a fundo. Para evitar cenários em que você perde o conteúdo armazenado no Site Editor ao alterar as dependências de pares do aplicativo Store Theme e precisa realizar uma atualização importante, siga os passos no guia Migrating CMS settings after a major theme update.
 
-<div class="alert alert-warning">
-  <p> Nos casos em que o conteúdo armazenado no Site Editor for perdido, ele poderá ser restaurado apenas se a perda estiver relacionada ao problema conhecido de Perda intermitente de conteúdo do Site Editor. Para esse tipo de problema, abra um ticket para o <a href="https://help.vtex.com/pt/support">Suporte VTEX</a> com a prioridade <code>urgente</code>. </p>
-</div>
+>⚠️ Nos casos em que o conteúdo armazenado no Site Editor for perdido, ele poderá ser restaurado apenas se a perda estiver relacionada ao problema conhecido de Perda intermitente de conteúdo do Site Editor. Para esse tipo de problema, abra um ticket para o [Suporte VTEX](https://help.vtex.com/pt/support) com a prioridade `urgente`.
 
 ## Continuo tendo problemas com o Site Editor 
 

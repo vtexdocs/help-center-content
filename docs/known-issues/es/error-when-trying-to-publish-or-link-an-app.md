@@ -18,9 +18,7 @@ internalReference: 1056882
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Nuestro equipo investigó que esto está normalmente asociado con el desarrollo de una aplicación de gran tamaño. Esto ocurre porque el builder hub explota su memoria debido a la gran cantidad de archivos en la app. Los retrasos en la vinculación de la aplicación también pueden estar asociados con este problema.

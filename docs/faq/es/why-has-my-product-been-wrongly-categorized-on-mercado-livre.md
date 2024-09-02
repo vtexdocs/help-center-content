@@ -39,6 +39,4 @@ Al finalizar la planilla, envía al asesor de tu cuenta __en Mercado Libre__ par
 
 En caso de que usted __no__ tenga un asesor de cuenta en Mercado Libre, sólo será posible cambiar las categorías de los anuncios a través del MyML (frente del MELI) y sólo en casos de productos que __no__ tengan ninguna venta.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> vale resaltar que este proceso no tiene ninguna relación con la VTEX y debe ser intermediado directamente en el Mercado Libre.
-</div>
+>⚠️ **OBS:** vale resaltar que este proceso no tiene ninguna relación con la VTEX y debe ser intermediado directamente en el Mercado Libre.

@@ -21,8 +21,7 @@ A proteção contra ataques envolvendo transações é uma das soluções que a 
 
 Na primeira versão, ao ser ativada, a proteção consistirá em aplicar uma alteração no fluxo de pagamento da compra. Este procedimento não causará um aumento no tempo do pedido ou na diminuição da conversão da loja. Uma vez que o pedido esteja fechado, o consumidor receberá a mensagem de pagamento aprovado (ou reprovado) posteriormente via mensagem eletrônica (email ou SMS).
 
-<div class = "alert alert-info"> A proteção não impede totalmente que a loja sofra ataques de cartões, mas reduz de forma considerável o número desses eventos. Desta forma, as transações tornam-se mais seguras.
-</div>
+>ℹ️ A proteção não impede totalmente que a loja sofra ataques de cartões, mas reduz de forma considerável o número desses eventos. Desta forma, as transações tornam-se mais seguras.
 
 ### Como habilitar a proteção contra ataques em transações?
 
@@ -42,8 +41,7 @@ Para habilitar a proteção, confira o passo a passo:
 
 ### Como desabilitar a proteção contra ataques em transações?
 
-<div class = "alert alert-danger"> Desabilitar a proteção contra ataques em transações aumenta o risco para o lojista de fraude por teste de cartão (operação efetuada por um fraudador utilizando um grande número de dados de cartões para realizar transações fraudulentas). Em caso de ataques que possam prejudicar um ou mais sistemas internos da VTEX, a plataforma poderá reabilitar compulsoriamente a proteção contra ataques, e o lojista será informado desta operação.
-</div>
+>❗ Desabilitar a proteção contra ataques em transações aumenta o risco para o lojista de fraude por teste de cartão (operação efetuada por um fraudador utilizando um grande número de dados de cartões para realizar transações fraudulentas). Em caso de ataques que possam prejudicar um ou mais sistemas internos da VTEX, a plataforma poderá reabilitar compulsoriamente a proteção contra ataques, e o lojista será informado desta operação.
 
 Para desabilitar a proteção, confira o passo a passo:
 

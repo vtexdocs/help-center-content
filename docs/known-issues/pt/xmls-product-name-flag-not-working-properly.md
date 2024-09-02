@@ -18,9 +18,7 @@ internalReference: 925965
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao criar um XML, temos duas opções diferentes para definir o nome do produto, nos sinalizadores "Nome do produto" e "Nome do produto + Nome do SKU". No entanto, o sinalizador "Nome do produto" está sendo desconsiderado, e o nome do produto no arquivo segue a regra:

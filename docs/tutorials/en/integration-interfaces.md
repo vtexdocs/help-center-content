@@ -46,9 +46,7 @@ See below the documentation required to help start integration through the API R
 
 ### Web Service
 
-<div class="alert alert-warning">
-The use of the VTEX Web Service in integration processes should be avoided as much as possible.
-</div>
+>⚠️ The use of the VTEX Web Service in integration processes should be avoided as much as possible.
 
 Except for the Catalog (Categories, Brands, Products and SKUs), whose API REST is being developed, all other VTEX modules have well defined and high performance API RESTs.
 

@@ -18,9 +18,7 @@ internalReference: 1041874
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En la interfaz de usuario de gestión de vendedores, elimine o añada una nueva política comercial a un vendedor.

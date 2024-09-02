@@ -18,9 +18,7 @@ internalReference: 945609
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando un usuario tiene la primera organización asignada es inválida con el id de centro de coste incorrecto el login falla sin ningún mensaje.

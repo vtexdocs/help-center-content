@@ -33,9 +33,7 @@ Quando um seller está integrado a um conector nativo, como o Mercado Livre ou a
 
 A [regra de Divergência de valores](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW) é composta de uma ou múltiplas regras de autorização de pedidos, que correspondem a intervalos entre 0% a 100% do preço do pedido. A configuração é feita de forma que cada intervalo é associado a uma ação automática de processamento.
 
-<div class = "alert alert-info">
-Para criar uma regra de Divergência de valores, o usuário precisa ter o <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">perfil de acesso</a> de Admin Super (Owner) ou OMS Full. Garanta a segurança na gestão das suas operações e confira as <a href="https://help.vtex.com/pt/faq/metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja--15YDwC9jGgqWi3rvcDaiGM">melhores práticas de segurança para gestão de usuários</a>.
-</div>
+>ℹ️ Para criar uma regra de Divergência de valores, o usuário precisa ter o [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de Admin Super (Owner) ou OMS Full. Garanta a segurança na gestão das suas operações e confira as [melhores práticas de segurança para gestão de usuários](https://help.vtex.com/pt/faq/metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja--15YDwC9jGgqWi3rvcDaiGM).
 
 Para criar uma regra de Divergência de valores, siga os passos abaixo:
 
@@ -71,9 +69,7 @@ Para criar a **2ª regra**, clique no <i class="fas fa-plus" aria-hidden="true">
 
 Configure a nova regra de autorização e, após definir todas as regras desejadas, clique no botão **SALVAR REGRAS**. Você verá a seguinte mensagem: _Após salvar, você ainda poderá editá-las ou excluí-las quando quiser_. Clique em **OK** para  confirmar. Feito isso, você terá concluído a criação da regra de Divergência de valores.
 
-<div class="alert alert-warning">
-Uma vez que você configure a regra de Divergência de valores, ela passa a valer para todos os marketplaces nos quais você seja seller.
-</div>
+>⚠️ Uma vez que você configure a regra de Divergência de valores, ela passa a valer para todos os marketplaces nos quais você seja seller.
 
 ## Editar regra de Divergência de valores
 
@@ -81,9 +77,7 @@ A edição da regra de Divergência de valores pode ser feita a qualquer momento
 
 Na página de edição de regras, existe a opção de deletar a regra de Divergência de valores, clicando em **EXCLUIR REGRAS**. Isso faz com que todas as regras de autorização configuradas sejam permanentemente deletadas.
 
-<div class = "alert alert-info">
-Caso você exclua a regra de Divergência de valores, essa ação não pode ser desfeita. Para voltar a valer, será necessário configurá-la novamente. Isso se aplica também às regras de autorização que compõem a regra de Divergência de valores.
-</div>
+>ℹ️ Caso você exclua a regra de Divergência de valores, essa ação não pode ser desfeita. Para voltar a valer, será necessário configurá-la novamente. Isso se aplica também às regras de autorização que compõem a regra de Divergência de valores.
 
 Na mesma página, na aba **Todas**, é possível identificar a lista de todas as regras de autorização de pedidos criadas. Para excluir uma regra de autorização, você pode clicar no botão **EXCLUIR REGRA** ao lado da regra que deseja deletar.
 
@@ -95,9 +89,7 @@ Uma vez concluídas as alterações desejadas, clique no botão **SALVAR REGRAS*
 
 Quando uma regra de autorização de pedido é configurada para _Criar uma tarefa no VTEX DO para aprovação_, isso significa que ao menos um usuário foi designado para autorizar manualmente o pedido. O [gerenciamento de pedidos com Divergência de valores](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW#gerenciamento-de-pedidos-com-divergencia-de-valores) é similar ao de outros canais de venda, como loja física ou ecommerce.
 
-<div class="alert alert-warning">
-É importante acompanhar regularmente os pedidos pelo módulo <b>Pedidos</b>, em <b>Pedidos > Todos os pedidos</b>. Caso exijam aprovação manual, os pedidos com erro de divergência de valores permanecem pendentes, aguardando a autorização de um usuário habilitado, definido na criação da regra de autorização. Uma boa prática é ter ao menos dois usuários habilitados a autorizar a aprovação manual.
-</div>
+>⚠️ É importante acompanhar regularmente os pedidos pelo módulo **Pedidos**, em **Pedidos > Todos os pedidos**. Caso exijam aprovação manual, os pedidos com erro de divergência de valores permanecem pendentes, aguardando a autorização de um usuário habilitado, definido na criação da regra de autorização. Uma boa prática é ter ao menos dois usuários habilitados a autorizar a aprovação manual.
 
 Existem duas maneiras de um usuário habilitado autorizar manualmente um pedido com divergência de preço:
 

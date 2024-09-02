@@ -52,9 +52,7 @@ Just enter one of these data in the field and click on the __Confirm__ button.
 
 Alternatively, if you have enabled the Anonymous User feature, it is possible to proceed without identifying the customer. To do this, just click on __Continue without identification__.
 
-<div class="alert alert-info">
-Although it is possible to cater customers without identifying them, we always recommend doing so, as this gives the salesperson a series of contextual information that increases the chances of conversion.
-</div>
+>ℹ️ Although it is possible to cater customers without identifying them, we always recommend doing so, as this gives the salesperson a series of contextual information that increases the chances of conversion.
 
 ## 3. Omnichannel search
 

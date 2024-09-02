@@ -18,9 +18,7 @@ internalReference: 402140
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, a configuração do método de pagamento, no produto promocional, não se destina a ser passada através da solicitação/resposta de cumprimento.

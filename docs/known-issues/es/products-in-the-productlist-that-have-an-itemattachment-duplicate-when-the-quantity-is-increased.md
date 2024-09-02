@@ -18,9 +18,7 @@ internalReference: 337069
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si una tienda utiliza el componente de lista de productos de Store Framework, utilizado en el minicart, los artículos del carrito pueden duplicarse al aumentar la cantidad de un artículo que tiene un adjunto (itemAttachment).

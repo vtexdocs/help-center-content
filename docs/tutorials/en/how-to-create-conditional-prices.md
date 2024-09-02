@@ -15,9 +15,8 @@ legacySlug: creating-conditional-prices
 subcategory: 
 ---
 
-<div class="alert alert-warning"><strong>Note: </strong>
-In order to use Conditional Prices you have to first install the <strong>Conditions Builder</strong> app and create a condition there. (Read the article <a href="http://help.vtex.com/en/tutorial/how-to-use-conditions-builder-app">How to use Conditions Builder App</a>)
-</div>
+>⚠️ **Note: **
+> In order to use Conditional Prices you have to first install the **Conditions Builder** app and create a condition there. (Read the article [How to use Conditions Builder App](http://help.vtex.com/en/tutorial/how-to-use-conditions-builder-app))
 
 
 Conditional prices are managed in the pricing module.

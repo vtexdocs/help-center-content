@@ -18,9 +18,7 @@ internalReference: 930849
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao criar uma promoção de desconto progressivo, o cliente pode definir o acionador por coleção, por uma lista de SKUs ou por ambos.

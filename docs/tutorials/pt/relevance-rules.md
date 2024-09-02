@@ -39,9 +39,7 @@ As informações aplicadas para compor a relevância são:
 
 O conjunto de distribuição de pesos e critérios gera uma pontuação para o produto, o que auxilia no seu posicionamento na ordenação do resultado da pesquisa.
 
-<div class="alert alert-warning">
-  <p>Caso deseje utilizar critérios prioritários, recomendamos adicionar apenas um critério neste campo. Adicionar mais critérios compromete a ordenação do resultado de busca, visto que apenas o primeiro critério será considerado.</p>
-</div>
+>⚠️ Caso deseje utilizar critérios prioritários, recomendamos adicionar apenas um critério neste campo. Adicionar mais critérios compromete a ordenação do resultado de busca, visto que apenas o primeiro critério será considerado.
 
 Dessa forma, é possível adequar o comportamento do resultado de busca a uma estratégia específica.
 

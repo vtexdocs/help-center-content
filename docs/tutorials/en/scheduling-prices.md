@@ -48,9 +48,7 @@ To schedule prices in the Admin, please follow the steps below.
 - **End date:** indicates the date from which the fixed price will no longer be valid.  
 - **End time:** indicates the time from which the fixed price will no longer be valid.  
 
-<div class="alert alert-info">
-  <p>When scheduling prices in the Admin, the time zone considered will be the one used in the user’s computer.</p>
-</div>
+>ℹ️ When scheduling prices in the Admin, the time zone considered will be the one used in the user’s computer.
 
 ## Scheduling prices by importing a fixed price template
 

@@ -18,9 +18,7 @@ internalReference: 868535
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunas funciones del componente de diseño pegajoso no funcionan como se espera cuando se ve a través del navegador Safari

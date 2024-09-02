@@ -18,9 +18,7 @@ internalReference: 550313
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Para reduzir a quantidade de skus exportados na planilha Produto/Skus, o cliente pode utilizar os filtros.

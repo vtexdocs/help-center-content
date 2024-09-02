@@ -18,9 +18,7 @@ internalReference: 1088942
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando tentamos publicar um aplicativo, esse processo pode falhar na primeira tentativa devido a uma inicialização a frio do aplicativo responsável.

@@ -18,9 +18,7 @@ internalReference: 334310
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando você é um usuário que tem um login e vai ao checkout, onde os dados são mascarados, e no formulário de envio, escolhe a opção de entrega para outros endereços, há a possibilidade de ir ao pagamento sem a necessidade de preencher o código postal. Assim, chegando ao processo de pagamento com os dados de entrega vazios na UI.

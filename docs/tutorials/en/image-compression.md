@@ -32,9 +32,7 @@ We automatically convert images to the [WebP](https://developers.google.com/spee
 
 Using WebP can lead to a reduction in page load time by 1 to 2 seconds, depending on the layout. Below is an explanation of how image optimization functions with each format.
 
-<div class="alert alert-info">
-  <p>Browsers not yet <a href="https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp">compatible with the WebP format</a> and services, such as integrations and marketplaces, always receive unconverted images in any format. GIF files are not converted to WebP.</p>
-</div>
+>ℹ️ Browsers not yet [compatible with the WebP format](https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp) and services, such as integrations and marketplaces, always receive unconverted images in any format. GIF files are not converted to WebP.
 
 ## PNG
 

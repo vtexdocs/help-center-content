@@ -51,9 +51,7 @@ For this type of promotion, it is important to keep the following information in
 
 There are differences between the settings available for VTEX marketplaces and external marketplaces. See in the table below the features applicable in each case.
 
-<div class = "alert alert-warning">
-  <p>In the case of external integrations, configurations are unique to each marketplace, and it’s up to them to decide which features they will use.</p>
-</div>
+>⚠️ In the case of external integrations, configurations are unique to each marketplace, and it’s up to them to decide which features they will use.
 
 | Settings  | Description      | Available for VTEX marketplaces? | Available for external marketplaces? |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------ |
@@ -136,6 +134,4 @@ If necessary, you can segment promotions for specific marketplaces. You can obta
 3. In the **Sales Policy** section, select the **Equal to** and **Delivered by me (Other stores)** options.
 4. Click on `Save`.
 
-<div class = "alert alert-warning">
-  <p> Please remember to <a href = "https://help.vtex.com/pt/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802">reindex all products included in the promotion</a> after you’ve created it and at the beginning and end of the promotions. This will ensure that the prices of your products are up to date.</p>
-</div>
+>⚠️ Please remember to <a href = "https://help.vtex.com/pt/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802">reindex all products included in the promotion</a> after you’ve created it and at the beginning and end of the promotions. This will ensure that the prices of your products are up to date.

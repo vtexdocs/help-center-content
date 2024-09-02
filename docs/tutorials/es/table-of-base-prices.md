@@ -25,9 +25,7 @@ Para comprender mejor el significado de cada campo de la [plantilla de registro 
 
 - **List Price**: El precio de lista es un precio que funciona como un precio antiguo de SKU que recibió un descuento. También se conoce como "precio De" y puede mostrarse en la vitrina de su tienda. Este es un campo opcional en el registro de un precio.
 
-<div class="alert alert-info">
-<p>En las columnas <b>Cost Price</b>, <b>Base Price</b> y <b>List Price</b>, puede introducir valores con decimales separados por punto. Ejemplo: <code>4.95</code>.</p>
-</div>
+>ℹ️ En las columnas **Cost Price**, **Base Price** y **List Price**, puede introducir valores con decimales separados por punto. Ejemplo: `4.95`.
 
 Los siguientes campos son opcionales en la plantilla, se exportan solo para exhibición y para facilitar la identificación de un SKU. Para visualizar estos campos en la plantilla, debe seleccionar la opción *Incluir metadatos en las tablas exportadas* en la exportación.
 

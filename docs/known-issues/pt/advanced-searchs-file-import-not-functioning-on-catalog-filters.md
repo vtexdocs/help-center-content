@@ -18,9 +18,7 @@ internalReference: 1086454
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, a pesquisa no catálogo legado tem uma funcionalidade, na guia "Pesquisa avançada", que permite importar um arquivo para criar um filtro de pesquisa.

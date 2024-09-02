@@ -18,9 +18,7 @@ internalReference: 777201
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em um mercado com relacionamento multinível (MOI) de vendedores, quando um carrinho é montado com pelo menos um vendedor usando divisão de transação e outros usando divisão de pagamento, as transações com divisão de pagamento serão duplicadas repetindo os itens de diferentes vendedores. Este cenário não permitirá colocar o pedido, e a mensagem "Desculpe. Não foi possível processar os pagamentos solicitados" será mostrada.

@@ -14,9 +14,7 @@ trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101
 ---
 
-<div class="alert alert-info">
-Warning: This documentation is being updated to reflect the concept change from Pannels to <a href="https://help.vtex.com/en/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">shipping strategy</a>.
-</div>
+>ℹ️ Warning: This documentation is being updated to reflect the concept change from Pannels to [shipping strategy](https://help.vtex.com/en/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl).
 
 The __Inventory and Shipping__ module is the service responsible for your store's *logistics*. This system is used when adding __logistics route__ data that is used when delivering orders. In addition, you must use this module to __manage your inventory__, add __shipping prices__ and __shipping deadlines__ for each delivery type.
 

@@ -18,9 +18,7 @@ internalReference: 522514
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Los enlaces en Mi Cuenta (menú de cabecera) no funcionan si el usuario ya está en la sección Mi Cuenta

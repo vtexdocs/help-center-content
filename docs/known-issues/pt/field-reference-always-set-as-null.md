@@ -18,9 +18,7 @@ internalReference: 797989
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O campo `reference` do endereço do ponto de coleta é sempre definido como nulo, embora esteja registrado na API do ponto de coleta.

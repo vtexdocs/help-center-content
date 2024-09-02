@@ -21,9 +21,7 @@ A diferencia de las políticas comerciales, que también se pueden utilizar para
 
 Por ejemplo, digamos que usted desea que los clientes de Buenos Aires vean un precio diferente del que ven los clientes de Córdoba. En este caso, puede crear dos tablas de precio diferentes, y asociar la primera a los clientes de Buenos Aires, y la segunda a los de Córdoba.
 
-<div class="alert alert-info">
-<p>Se pueden establecer precios fijos o reglas de precios para modificar el precio de un SKU en una tabla de precio.</p>
-</div>
+>ℹ️ Se pueden establecer precios fijos o reglas de precios para modificar el precio de un SKU en una tabla de precio.
 
 Esto permite al comerciante más libertad para tratar con informaciones contextuales de sus clientes.
 
@@ -63,9 +61,7 @@ Otra manera de usar tablas de precio es declarándolas directamente en el formul
 10. En la línea de la entidad cambiada, haga clic en el icono del disco para publicar.
 11. Entonces, en la misma línea de la entidad editada, haga clic en el icono de flechas para reindexar la entidad.
 
-<div class="alert alert-info">
-<p>Cada cliente puede tener un máximo de 5 tablas de precios vinculadas a él. Cuando el cliente tiene más de una tabla de precios vinculada, el sistema seguirá el orden de las tablas de precios registradas para determinar el precio de cada SKU. Si la SKU no tiene un precio configurado en la primera tabla de precios, el sistema buscará a partir de la segunda. Si no hay ningún precio configurado en ninguna tabla vinculada al cliente, el precio aplicado será el precio base.</p>
-</div>
+>ℹ️ Cada cliente puede tener un máximo de 5 tablas de precios vinculadas a él. Cuando el cliente tiene más de una tabla de precios vinculada, el sistema seguirá el orden de las tablas de precios registradas para determinar el precio de cada SKU. Si la SKU no tiene un precio configurado en la primera tabla de precios, el sistema buscará a partir de la segunda. Si no hay ningún precio configurado en ninguna tabla vinculada al cliente, el precio aplicado será el precio base.
 
 Ahora su entidad de __Clientes__ tiene un atributo `priceTables`, que puede ser completado directamente en la UI del Master Data o por API.
 
@@ -85,9 +81,7 @@ Para actualizar el precio fijo en una tabla específica, haga clic en la columna
 
 Para ingresar y actualizar los precios de una tabla específica por API, vea esta [documentación de API](https://developers.vtex.com/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
 
-<div class="alert alert-info">
-<p>La tabla de precios tiene prioridad sobre el precio de la Política Comercial. Eso significa que, si determinada tabla de precios se aplica al contexto de un usuario, el precio definido en este será el usado, aunque ese cliente esté también en el contexto de una política comercial que defina un precio diferente.</p>
-</div>
+>ℹ️ La tabla de precios tiene prioridad sobre el precio de la Política Comercial. Eso significa que, si determinada tabla de precios se aplica al contexto de un usuario, el precio definido en este será el usado, aunque ese cliente esté también en el contexto de una política comercial que defina un precio diferente.
 
 ## Mostrando precios diferentes para usuarios diferentes 
 
@@ -101,6 +95,4 @@ Por ejemplo, estos dos clientes están vinculados a tablas de precios diferentes
 Cuando el cliente Daniel, que está vinculado a la tabla Silver, inicie sesión en la tienda, verá los precios establecidos en dicha tabla. La mochila del ejemplo anterior aparecerá a USD 50.
 En cambio, el cliente Breno, que está vinculado a la tabla Gold, verá los precios definidos en esta otra tabla. Para él, la mochila costará USD 60,50.
 
-<div class="alert alert-warning">
-Recuerde que los precios varían según la sesión. Es decir, el cliente <strong>necesita</strong> ser autenticado para que haya alteración (ya sea a través de token, contraseña, Google o Facebook). Sin la autenticación del usuario, el precio siempre será el estándar. Y atención: el hecho de ingresar el e-mail en el proceso de checkout no es suficiente, ya que en ese proceso él realiza su identificación, pero no la autenticación.
-</div>
+>⚠️ Recuerde que los precios varían según la sesión. Es decir, el cliente **necesita** ser autenticado para que haya alteración (ya sea a través de token, contraseña, Google o Facebook). Sin la autenticación del usuario, el precio siempre será el estándar. Y atención: el hecho de ingresar el e-mail en el proceso de checkout no es suficiente, ya que en ese proceso él realiza su identificación, pero no la autenticación.

@@ -18,9 +18,7 @@ internalReference: 402976
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 En el componente ["vtex.product-list"](https://github.com/vtex-apps/product-list), utilizado en IO/SF Minicart ([vtex.minicart](https://github.com/vtex-apps/minicart) v2) o en "Cart v0" ([vtex.checkout-cart](https://github.com/vtex-apps/checkout-cart)), cuando un carrito tiene el mismo artículo troceado en más de una ocurrencia (por ejemplo cuando se necesita para el prorrateo de descuentos o quizás cuando tiene itemAttachments), para cambiar la cantidad para su segunda ocurrencia se llamará a la API para su primera ocurrencia, por lo que la cantidad sumada para el artículo será incorrecta.
 

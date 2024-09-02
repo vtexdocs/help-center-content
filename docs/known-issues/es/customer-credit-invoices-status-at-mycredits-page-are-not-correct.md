@@ -18,9 +18,7 @@ internalReference: 369457
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El estado de las facturas en la interfaz de MyCredits de las tiendas españolas no se muestra como debería, se muestran los nombres de los componentes en lugar de "cancelado", "vencido", "pagado" o "abierto".

@@ -14,9 +14,7 @@ locale: en
 legacySlug: why-vtex-search-engine-ignores-some-terms
 ---
 
-<div class = "alert alert-warning">
-  <strong>Warning</strong>: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
-</div>
+>⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
 
 The article [How does VTEX search work?](https://help.vtex.com/en/tutorial/how-does-vtex-search-work) illustrates the main rules that the search engine algorithm uses to display and prioritize the products based on a search term.
 
@@ -31,9 +29,7 @@ Thus, the VTEX search engine contains a list of blocked (unimportant) words that
 
 See below the complete list of blocked terms.
 
-<div class = "alert alert-warning">
-Currently, the blocked words list contains only words in portuguese.
-</div>
+>⚠️ Currently, the blocked words list contains only words in portuguese.
 
 ```
 a

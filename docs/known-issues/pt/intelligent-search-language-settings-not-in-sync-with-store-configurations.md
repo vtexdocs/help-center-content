@@ -18,9 +18,7 @@ internalReference: 990343
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O idioma principal da Pesquisa Inteligente não é atualizado automaticamente de acordo com a política comercial e as configurações de vinculação, o que o torna fora de sincronia.

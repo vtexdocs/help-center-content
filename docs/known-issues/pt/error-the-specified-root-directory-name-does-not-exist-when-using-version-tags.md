@@ -18,9 +18,7 @@ internalReference: 1083941
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao usar tags de controle de versão em seus projetos Faststore, as implantações podem falhar devido ao erro

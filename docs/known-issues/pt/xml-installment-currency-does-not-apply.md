@@ -18,9 +18,7 @@ internalReference: 976295
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao configurar uma moeda em um XML, ela se aplica a todos os campos, exceto ao campo "Parcela".

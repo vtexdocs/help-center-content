@@ -23,6 +23,4 @@ Para que el proceso fuera lo más ágil posible, ya veníamos recomendando el l�
 ## Cómo exportar más de 3.000 pedidos
 Usted todavía puede exportar más de 3.000 pedidos. Para ello, utilice las APIs de gestión de pedidos (anteriormente conocido como OMS): [Get Order](https://developers.vtex.com/reference/orders#getorder) y [Get Feed Order Status](https://developers.vtex.com/reference/feed-v3#getfeedorderstatus1).
 
-<div class="alert alert-warning">
-<strong>Pero recuerde:</strong> para funcionar, es necesario que usted <strong>cree un range de fecha/hora que incluya un máximo de 3.000 pedidos</strong>. Con el range definido y el límite respetado, usted podrá llamar al API tantas veces como sea necesario.
-</div>
+>⚠️ **Pero recuerde:** para funcionar, es necesario que usted **cree un range de fecha/hora que incluya un máximo de 3.000 pedidos**. Con el range definido y el límite respetado, usted podrá llamar al API tantas veces como sea necesario.

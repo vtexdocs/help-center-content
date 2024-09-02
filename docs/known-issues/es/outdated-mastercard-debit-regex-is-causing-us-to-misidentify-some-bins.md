@@ -18,9 +18,7 @@ internalReference: 642136
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunos códigos BIN no se identifican correctamente en la caja. La marca de la tarjeta se determina mediante una regex que puede quedar obsoleta, provocando que la marca de la tarjeta no se identifique o se identifique erróneamente.

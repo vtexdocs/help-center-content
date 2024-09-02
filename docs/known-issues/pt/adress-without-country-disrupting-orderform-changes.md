@@ -18,9 +18,7 @@ internalReference: 579814
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se um endereço incompleto sem a informação "país" for inserido em um formulário de pedido, os itens não podem ser acrescentados a ele.

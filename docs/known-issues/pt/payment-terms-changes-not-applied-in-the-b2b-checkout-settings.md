@@ -18,9 +18,7 @@ internalReference: 1019548
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A atualização das condições de pagamento na UI de detalhes da organização para uma organização não se aplica às configurações de checkout B2B.

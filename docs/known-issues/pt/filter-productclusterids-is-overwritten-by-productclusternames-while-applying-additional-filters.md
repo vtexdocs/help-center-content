@@ -18,9 +18,7 @@ internalReference: 899508
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando uma pesquisa é iniciada com o filtro "productClusterIds", a aplicação de qualquer filtro adicional o converterá em "productClusterNames", perdendo a característica de apresentar os itens com a classificação definida manualmente na coleção de produtos.

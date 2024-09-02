@@ -60,9 +60,7 @@ Suponha que você queira que a sua loja entregue para clientes na Inglaterra. Pa
 1. [Crie uma nova transportadora](/pt/tutorial/gerenciar-transportadora/);
 2. Crie, para a nova transportadora, uma planilha de frete com a coluna "Country" com o código ISO de 3 dígitos do país.
 
-<div class="alert alert-info">
-O valor da coluna "Country" deve ser o código ISO de 3 dígitos para países. Para consultar os códigos, recomendamos usar o site <a href="https://countrycode.org/">https://countrycode.org/</a>.
-</div>
+>ℹ️ O valor da coluna "Country" deve ser o código ISO de 3 dígitos para países. Para consultar os códigos, recomendamos usar o site [https://countrycode.org/](https://countrycode.org/).
 
 Após ter configurado as entregas para os países que deseja, um novo campo aparecerá no formulário de entrega no seu checkout permitindo a escolha de entegra internacional. 
 

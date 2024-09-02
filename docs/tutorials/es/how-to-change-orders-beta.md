@@ -15,9 +15,7 @@ legacySlug: como-modificar-pedidos-beta
 subcategory: 3LQ1Tl0u4frEOd45BkjFAm
 ---
 
-<div class="alert alert-info">
-Esta funcionalidad se encuentra en la versión beta, por lo tanto, estamos trabajando para mejorarla. Si deseas utilizar <b>Modificar pedido (Beta)</b>, ponte en contacto con <a href="https://help.vtex.com/es/support">nuestro Soporte</a> e informa el nombre del <a href="https://help.vtex.com/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name(s)</a> en que deseas activarla.
-</div>
+>ℹ️ Esta funcionalidad se encuentra en la versión beta, por lo tanto, estamos trabajando para mejorarla. Si deseas utilizar **Modificar pedido (Beta)**, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support) e informa el nombre del [account name(s)](https://help.vtex.com/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) en que deseas activarla.
 
 La funcionalidad [Modificar pedido (beta)](https://help.vtex.com/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ) brinda la posibilidad de editar un pedido de múltiples maneras, ya sea para atender las preferencias del cliente, abordar la falta de disponibilidad de productos u otras razones. 
 
@@ -28,9 +26,7 @@ Este artículo muestra las formas en que se puede modificar un pedido y describe
 * [Acciones comunes](#acciones-comunes)
 * [Errores de procesamiento](#errores-de-procesamiento)
 
-<div class="alert alert-warning">
-Para conocer las <a href="https://help.vtex.com/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ#caracteristicas-generales">características generales</a> en escenarios de modificación de pedido, incluyendo reserva, actualización de stock y cuentas franquicia, o para comprender cuestiones de <a href="https://help.vtex.com/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ#cambios-de-precio">precio, pago y factura</a>, consulta el artículo <a href="https://help.vtex.com/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ">Cómo funciona Modificar pedido (Beta)</a>.
-</div>
+>⚠️ Para conocer las [características generales](https://help.vtex.com/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ#caracteristicas-generales) en escenarios de modificación de pedido, incluyendo reserva, actualización de stock y cuentas franquicia, o para comprender cuestiones de [precio, pago y factura](https://help.vtex.com/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ#cambios-de-precio), consulta el artículo [Cómo funciona Modificar pedido (Beta)](https://help.vtex.com/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ).
 
 ## Requisitos
 
@@ -81,9 +77,7 @@ Una vez en la página de detalles del pedido, puedes realizar las siguientes mod
 * [Sustituir ítems](#sustituir-items)
 * [Modificar peso](#modificar-peso)
 
-<div class = "alert alert-info">
-Se puede realizar una sola modificación en el pedido o combinar varias a la vez. No hay un límite específico respecto a la cantidad de veces que el pedido puede modificarse. Para obtener más información, consulta el artículo <a href="https://help.vtex.com/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ">Cómo funciona Modificar pedido (beta)</a>.
-</div>
+>ℹ️ Se puede realizar una sola modificación en el pedido o combinar varias a la vez. No hay un límite específico respecto a la cantidad de veces que el pedido puede modificarse. Para obtener más información, consulta el artículo [Cómo funciona Modificar pedido (beta)](https://help.vtex.com/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ).
 
 ### Agregar ítems
 

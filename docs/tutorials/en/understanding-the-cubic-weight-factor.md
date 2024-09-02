@@ -34,9 +34,7 @@ Is the resulting coefficient of the relationship between weight and volume that 
 
 The calculation of the cubic weight is performed by multiplying Length x Width x Height, and dividing the result by the cubic factor provided by the carrier.
 
-<div class="alert alert-warning">
-When calculating the cubic weight factor, VTEX platform does not consider measurement units, and the numbers generated are absolute. Therefore, the measurement units you consider for the calculation will be those of the final result. Notice that the your measurement unit must be the same one used by the carrier.
-</div>
+>⚠️ When calculating the cubic weight factor, VTEX platform does not consider measurement units, and the numbers generated are absolute. Therefore, the measurement units you consider for the calculation will be those of the final result. Notice that the your measurement unit must be the same one used by the carrier.
 
 Check out the following example:
 

@@ -15,9 +15,7 @@ legacySlug: erro-de-configuracao-de-lojas-guarda-chuva
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class="alert alert-info">
-Caso você possua lojas oficiais no Mercado Livre, essa documentação pode ser relevante. O Mercado Livre possui parâmetros próprios para certificar sellers para serem lojas oficiais. Para mais informações, entre em contato com o seu consultor do Mercado Livre.
-</div>
+>ℹ️ Caso você possua lojas oficiais no Mercado Livre, essa documentação pode ser relevante. O Mercado Livre possui parâmetros próprios para certificar sellers para serem lojas oficiais. Para mais informações, entre em contato com o seu consultor do Mercado Livre.
 
 Chamamos de lojas guarda chuva as contas no [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd) que possuem múltiplas [lojas oficiais](https://www.mercadolivre.com.br/lojas-oficiais/catalogo) vinculadas ao mesmo usuário no Mercado Livre. A arquitetura funciona da seguinte forma: o [seller](https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) integra suas [subaccounts](https://help.vtex.com/pt/tutorial/o-que-e-store-name--3gh9mTNeMgs6Qe44e8IqQK?&utm_source=autocomplete) com o Mercado Livre de forma que as lojas oficiais do usuário do Mercado Livre ficam vinculadas às subaccounts do seller.
 

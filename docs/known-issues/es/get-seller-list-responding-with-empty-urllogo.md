@@ -18,9 +18,7 @@ internalReference: 387508
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, la ruta `/api/catalog_system/pvt/seller/list` responde con una propiedad UrlLogo vacía para todos los vendedores, independientemente de que tengan un archivo de logotipo válido o no.

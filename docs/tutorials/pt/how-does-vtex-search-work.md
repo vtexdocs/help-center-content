@@ -17,9 +17,7 @@ subcategory: pwxWmUu7T222QyuGogs68
 
 Este artigo tem o objetivo de descrever o funcionamento do sistema de busca da VTEX.
 
-<div class = "alert alert-warning">
-  A VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
-</div>
+>⚠️ A VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
 
 ## Como o buscador da VTEX prioriza a exibição de produtos
 
@@ -37,9 +35,7 @@ De acordo com o termo buscado, o sistema pode renderizar os resultados abaixo,
 
 Se o termo buscado corresponder exatamente ao nome de uma pasta configurada no CMS (ou seja, a uma landing page), essa pasta será renderizada.
 
-<div class="alert alert-warning">
-  <p>Para uma pasta ser buscável ela deve possuir um layout. Mesmo que a pesquisa seja por uma pasta filha, a pai também requer um layout.</p>
-</div>
+>⚠️ Para uma pasta ser buscável ela deve possuir um layout. Mesmo que a pesquisa seja por uma pasta filha, a pai também requer um layout.
 
 ### 2. Marca
 

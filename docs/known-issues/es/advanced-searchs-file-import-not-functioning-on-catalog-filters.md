@@ -18,9 +18,7 @@ internalReference: 1086454
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, la búsqueda en el catálogo heredado tiene una funcionalidad, en la pestaña "Búsqueda avanzada" que permite importar un archivo para crear un filtro de búsqueda.

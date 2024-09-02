@@ -18,9 +18,7 @@ internalReference: 1020505
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al intentar crear un producto con un formato de imagen establecido como JPG o PNG, el producto se crea con una imagen rota. Este comportamiento no ocurre si el formato se establece como jpg o png (sin capslock).

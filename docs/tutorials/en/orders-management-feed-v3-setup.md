@@ -23,13 +23,9 @@ The Feed v3 allows for feed customization with filters and intervals necessary f
 
 This means that it's possible to define which status will be visible on your store's event feed through the [API Feed Configuration](https://developers.vtex.com/reference/feed-v3#feedconfiguration). The list of possible order statuses can be seen in the article [Order flow in Orders management](https://help.vtex.com/en/tutorial/fluxo-de-pedido/#understanding-the-status).
 
-<div class="alert alert-info">
-If the <code>filter</code> object is not configured in the API, <strong>all</strong> status updates are sent to the feed.
-</div>
+>ℹ️ If the `filter` object is not configured in the API, **all** status updates are sent to the feed.
 
-<div class="alert alert-info"> 
-The AppKey that will be used in the integration must be the same as the one used in the initial setup.
-</div>
+>ℹ️ The AppKey that will be used in the integration must be the same as the one used in the initial setup.
 
 An example of a body is as follows:
 
@@ -52,17 +48,13 @@ The field is defined with a default visibility timeout of 30 seconds, but it can
 
 Your feed's event retention time is defined in seconds in the `MessageRetentionPeriodInSeconds` field. If an event does not receive interactions within the configured time, it will be excluded from the feed queue and its pertaining data will be lost. The maximum time for this field is 345600 seconds (4 days). 
 
-<div class="alert alert-info">
-In order to configure and use Feed v3, a <code>Feed v3 and Hook</code> enabled <a href="https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc?locale=en">role</a> within <strong>OMS</strong> is required.
-</div>
+>ℹ️ In order to configure and use Feed v3, a `Feed v3 and Hook` enabled [role](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc?locale=en) within **OMS** is required.
 
 ## How Feed v3 APIs work
 
 Feed v3 works with two calls: one for readout and the other to inform that an event has already been read and should therefore be excluded.
 
-<div class="alert alert-warning"> 
-Don't forget to configure the Feed before using it!
-</div>
+>⚠️ Don't forget to configure the Feed before using it!
 
 ### Get Feed order status
 
@@ -70,9 +62,7 @@ The [call to read the feed](https://developers.vtex.com/reference/feed-v3#getfee
 
 The `maxLot` parameter indicates the maximum number of events that will be returned with each call. In Feed v3, you may specify __up to 10 events__.
 
-<div class="alert alert-warning">
-Each time a call for a feed readout is made, <strong>all</strong> returned events become invisible in the feed for the time defined in the <code>visibilityTimeoutInSeconds</code> of the Feed Configuration API.
-</div> 
+>⚠️ Each time a call for a feed readout is made, **all** returned events become invisible in the feed for the time defined in the `visibilityTimeoutInSeconds` of the Feed Configuration API. 
 
 ### Confirm item feed order status
 
@@ -82,15 +72,11 @@ After a feed readout, it's time to [commit events](https://developers.vtex.com/r
 
 Each array from the body can have as many `handles` as necessary, making it possible to commit more than one event at a time.
 
-<div class="alert alert-info">
-The <code>visibilityTimeoutInSeconds</code> field displays the time limit to <i>commit</i> an event.
-</div> 
+>ℹ️ The `visibilityTimeoutInSeconds` field displays the time limit to <i>commit</i> an event. 
 
 There are no cases where a feed event should not be committed. Your system should commit all events present in your queue. __Once an event has been committed, it's impossible to recover in the feed using the same appkey.__
 
-<div class="alert alert-warning">
-All possible order statuses (considering filtering, when applicable) must be dealt with during integration to avoid errors. Special attention should be given to <code>Status Null</code>, which may not be identified and ends up being mapped as another status, potentially leading to errors.
-</div> 
+>⚠️ All possible order statuses (considering filtering, when applicable) must be dealt with during integration to avoid errors. Special attention should be given to `Status Null`, which may not be identified and ends up being mapped as another status, potentially leading to errors. 
 
 For more on this, read our article on [how the Orders Management feed works](https://help.vtex.com/en/tutorial/how-the-orders-management-feed-v3-workds--5SzSKee2f666YCoWkm0eQC).
 

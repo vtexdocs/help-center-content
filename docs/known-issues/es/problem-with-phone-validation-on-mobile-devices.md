@@ -18,9 +18,7 @@ internalReference: 964802
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La validación del campo del teléfono en dispositivos móviles no se comporta como es debido. Cuando se alcanza el número esperado de caracteres, la validación marca correctamente el campo con un check. Sin embargo, cuando se añaden caracteres adicionales y luego se eliminan uno a uno, la validación no reconoce que el recuento de caracteres sigue siendo superior al esperado, marcando incorrectamente la entrada como válida. La validación también marca como válidas las entradas con menos caracteres de los esperados.

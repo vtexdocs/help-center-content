@@ -18,9 +18,7 @@ internalReference: 797003
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El botón "Atrás" no se muestra en Mi Organización en los móviles, lo que impide al comprador acceder a otras opciones desde Mi Cuenta.

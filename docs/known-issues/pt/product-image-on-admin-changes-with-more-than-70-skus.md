@@ -18,9 +18,7 @@ internalReference: 1003966
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando um produto tem mais de 70 variações de skus, sua imagem no admin (e somente no admin) é alterada para uma imagem de informações:

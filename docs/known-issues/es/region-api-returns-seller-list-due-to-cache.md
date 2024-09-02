@@ -18,9 +18,7 @@ internalReference: 969692
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se utiliza una estructura de subcuenta con región, si la API Obtener vendedores por región o dirección se utiliza en ambas cuentas para el mismo canal de ventas, y una de ellas no está disponible para ese canal de ventas, devolverá una lista de vendedores debido a la caché.

@@ -23,9 +23,7 @@ Além da funcionalidade nas frentes de loja nativas da plataforma VTEX, lojas im
 
 Agora, a API do Checkout suporta também reCATPCHA com validação baseada em pontuação (equivalente à v3), adequada para apps mobile nativos.
 
-<div class="alert alert-info">
-A VTEX está integrada com o reCAPTCHA enterprise, que oferece duas abordagens de validação: checkbox (equivalente ao reCAPTCHA v2) e baseada em pontuação (equivalente ao reCAPTCHA v3). Confira este artigo sobre o <a href="https://help.vtex.com/pt/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#versoes-do-recaptcha">reCAPTCHA no Checkout da VTEX</a> para aprender qual versão você deve usar dependendo das características da sua loja. Você também pode aprender mais sobre cada método: <a href="https://developers.google.com/recaptcha/docs/display">reCAPTCHA v2</a> ou <a href="https://developers.google.com/recaptcha/docs/v3">reCAPTCHA v3</a> com a documentação fornecida pelo Google.
-</div>
+>ℹ️ A VTEX está integrada com o reCAPTCHA enterprise, que oferece duas abordagens de validação: checkbox (equivalente ao reCAPTCHA v2) e baseada em pontuação (equivalente ao reCAPTCHA v3). Confira este artigo sobre o [reCAPTCHA no Checkout da VTEX](https://help.vtex.com/pt/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#versoes-do-recaptcha) para aprender qual versão você deve usar dependendo das características da sua loja. Você também pode aprender mais sobre cada método: [reCAPTCHA v2](https://developers.google.com/recaptcha/docs/display) ou [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3) com a documentação fornecida pelo Google.
 
 Entretanto, a opção de integração com reCAPTCHA checkbox (equivalente à v2) continua disponível, sendo a opção recomendada caso deseje implementar uma [integração de reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha) que não seja em um app mobile nativo.
 

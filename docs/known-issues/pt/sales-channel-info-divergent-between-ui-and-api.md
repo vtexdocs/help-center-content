@@ -18,9 +18,7 @@ internalReference: 802560
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Às vezes, as informações sobre o canal de vendas podem ser diferentes, dependendo de onde o cliente está verificando.

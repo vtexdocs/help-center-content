@@ -18,9 +18,7 @@ internalReference: 515480
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A mudança de disponibilidade de um vendedor em uma política comercial não está sendo corretamente reconhecida no catálogo. Isto pode causar dois cenários: um produto de um vendedor não selecionado torna-se disponível ou um produto de um vendedor selecionado torna-se indisponível.

@@ -18,9 +18,7 @@ internalReference: 843442
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Este es un rango de precios, es un deslizador y tiene dos selectores (marcadores), uno para el mínimo y otro para el máximo para saber dónde posicionarse en el deslizador.

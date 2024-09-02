@@ -18,9 +18,7 @@ internalReference: 1040772
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando cambiamos la cantidad de un producto en el minicart el evento view_cart se dispara dos veces

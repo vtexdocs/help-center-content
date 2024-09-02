@@ -32,9 +32,7 @@ window.LOCALE_MESSAGES = {
   }
 };
 ```
-<div class="alert alert-danger">
-Não remova nenhuma das outras propriedades presentes no objeto <code>window.INSTORE_CONFIG</code>, para evitar a quebra de outras funcionalidades.
-</div>
+>❗ Não remova nenhuma das outras propriedades presentes no objeto `window.INSTORE_CONFIG`, para evitar a quebra de outras funcionalidades.
 
 Se for necessário aplicar alguma lógica de validação ou máscara para os dados inseridos nesse campo, é possível incluir no arquivo `checkout-instore-custom.js` uma função que escute o evento `note.visible` que é disparado quando o modal é aberto, e então desenvolver sua lógica.
 

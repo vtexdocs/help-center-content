@@ -18,9 +18,7 @@ internalReference: 1020278
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao criar um carrinho a partir de um pedido antigo (botão "Pedir novamente" na tela "Meus pedidos"), as opções de montagem do pedido original não serão mantidas.

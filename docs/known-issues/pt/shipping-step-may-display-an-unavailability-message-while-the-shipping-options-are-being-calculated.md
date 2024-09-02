@@ -18,9 +18,7 @@ internalReference: 650038
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Um usuário que salvou endereço em seu perfil, ao chegar na etapa de endereço onde a seleção de envio é exibida, ao selecionar outra opção um aviso de "Entrega não está disponível para este endereço" é mostrado erroneamente, pode aparecer rapidamente devido ao carregamento de informações, isso pode acontecer de acordo com o atraso nesta busca, dependendo da complexidade da loja.

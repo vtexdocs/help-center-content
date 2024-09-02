@@ -18,9 +18,7 @@ internalReference: 1019548
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La actualización de las condiciones de pago en la interfaz de usuario de detalles de la organización para una organización no se aplica a la configuración de pago B2B.

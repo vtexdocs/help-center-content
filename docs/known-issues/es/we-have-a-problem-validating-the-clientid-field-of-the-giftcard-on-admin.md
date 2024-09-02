@@ -18,9 +18,7 @@ internalReference: 454388
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Tenemos un problema de validación en el campo ClientId en la pantalla de Giftcards. El campo que originalmente se llamaba CPF/CNPJ en portugués, fue traducido al inglés como clientId. Pero, cuando el usuario quiere crear una nueva Giftcard a través de la UI, el campo se formatea automáticamente insertando los caracteres ".", "-" y "/" para que los datos ingresados cumplan con los estándares CPF o CNPJ

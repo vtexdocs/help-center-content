@@ -18,9 +18,7 @@ internalReference: 627719
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A entrada "preço manual" no carrinho é restrita ao trabalho com a precisão decimal de 2 dígitos. Se a loja usar apenas uma ou nenhuma casa decimal, o campo de entrada não funcionará corretamente.

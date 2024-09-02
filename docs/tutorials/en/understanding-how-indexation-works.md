@@ -15,11 +15,10 @@ legacySlug: understanding-how-indexation-works
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class="alert alert-warning">
-<p>This tutorial is valid only for stores using <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Legacy CMS Portal</a> search.</p>
-<p>If your store uses <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG">Intelligent Search</a>, check <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH">Indexing History
-</a> to follow the indexing process.</p>
-</div>
+>⚠️ This tutorial is valid only for stores using [Legacy CMS Portal](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) search.
+>
+> If your store uses [Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), check <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH">Indexing History
+> </a> to follow the indexing process.
 
 Indexing is a process that prepares the general SKU data, such as catalogue data, prices and inventory, and updates the information to serve as a basis for searches and for setting up the site's product display shelves.
 

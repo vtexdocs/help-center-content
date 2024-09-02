@@ -85,7 +85,5 @@ Si lo deseas, también puedes incluir las siguientes funciones en el script:
 - Hacer que las cookies que contengan caracteres especiales expiren automáticamente
 - Activar la recarga de la página mediante la función `window.location.reload()`  
 
-<div class="alert alert-warning">
-  Remover las cookies mediante script no es una solución definitiva. Como se describe en la sección <b>Desactivar cookies con caracteres especiales</b>, es necesario identificar su origen e interrumpir el proceso de envío de cookies con caracteres especiales.
-</div>
+>⚠️ Remover las cookies mediante script no es una solución definitiva. Como se describe en la sección **Desactivar cookies con caracteres especiales**, es necesario identificar su origen e interrumpir el proceso de envío de cookies con caracteres especiales.
 

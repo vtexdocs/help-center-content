@@ -41,8 +41,6 @@ El carro compartido sólo es posible debido a la inclusión de un nuevo parámet
 - Utilice las [API de VTEX](https://github.com/vtex/vtex.js/tree/master/docs/checkout#getorderformexpectedorderformsections) para obtener el identificador del carritto.
 - Personalice la página del carrito para que el enlace pase a contar con el ID.
 
-<div class="alert alert-warning">
-Recordamos que el carrito compartido es opcional y los cambios citados aquí deben hacerse <strong>sólo por las tiendas que desean usar la funcionalidad</strong>.
-</div>
+>⚠️ Recordamos que el carrito compartido es opcional y los cambios citados aquí deben hacerse **sólo por las tiendas que desean usar la funcionalidad**.
 
 Lea el [artículo sobre el carrito compartido](/es/tutorial/que-es-el-carrito-compartido) y conozca mejor la nueva funcionalidad.

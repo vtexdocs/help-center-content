@@ -34,9 +34,7 @@ No **Headless CMS**, você pode gerenciar todas as rotas de URL e modelos de pá
 Para criar e gerenciar uma página, siga estas etapas:
 
 1. No Admin VTEX, acesse **Headless CMS**.
-<div class="alert alert-warning">
-  Certifique-se de estar no projeto correto. Caso contrário, vá até o menu <b>Projeto</b> no canto superior esquerdo, selecione o nome do projeto em que deseja criar a página e continue no passo 2.
-</div>
+>⚠️ Certifique-se de estar no projeto correto. Caso contrário, vá até o menu **Projeto** no canto superior esquerdo, selecione o nome do projeto em que deseja criar a página e continue no passo 2.
 2. Clique em `Criar documento` e selecione o tipo de página desejado. 
 
 3. Em `Untitled`, nomeie a página.

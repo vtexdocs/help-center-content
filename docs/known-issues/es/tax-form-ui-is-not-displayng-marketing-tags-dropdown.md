@@ -18,9 +18,7 @@ internalReference: 1058148
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al guardar impuestos en el módulo de promociones, el valor desplegable para "al menos uno de los siguientes" o "todos los siguientes" no se muestra después de guardar el impuesto. En consecuencia, el usuario no puede averiguar cuál de ellos se está utilizando.

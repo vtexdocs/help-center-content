@@ -18,9 +18,7 @@ internalReference: 995527
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al utilizar el servicio de impuestos, si hay una promoción que divide artículos, por ejemplo, una promoción Más por menos y una promoción de envío gratuito, el envío gratuito no se aplica correctamente para todos los artículos en la solicitud del servicio de impuestos, lo que provoca un cálculo erróneo y evita que el pedido se cree con el mensaje "No se ha podido crear el pedido solicitado. Por favor, inténtelo de nuevo".

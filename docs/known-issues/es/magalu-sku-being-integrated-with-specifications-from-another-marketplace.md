@@ -18,9 +18,7 @@ internalReference: 689151
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunos skus se están integrando con especificaciones de otro Marketplace.

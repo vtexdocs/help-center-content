@@ -18,9 +18,7 @@ internalReference: 1022550
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Um problema de codificação pode afetar as pesquisas com caracteres especiais quando eles são indicados por meio do parâmetro "query", levando a resultados de pesquisa incorretos.

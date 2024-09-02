@@ -18,9 +18,7 @@ internalReference: 986327
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunas cuentas no podrán crear una Tarjeta Regalo por primera vez vía admin, el mensaje de abajo aparecerá en la pantalla:

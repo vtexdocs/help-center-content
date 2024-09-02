@@ -18,9 +18,7 @@ internalReference: 1080187
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Identificamos um cenário na Change V1 em que, depois de aplicar uma promoção "compre 2 e ganhe um desconto na segunda unidade", quando faturamos um dos itens e o segundo é removido por meio da Change V1, as informações sobre o produto que foi faturado desaparecem da UI de pedidos, deixando apenas as informações sobre o item que foi removido na Change V1.

@@ -21,16 +21,16 @@ Ela já está disponível no ambiente beta (`sualoja.vtexcommercebeta.com.br`) p
 
 Veja abaixo uma lista com as classes disponíveis para customização.
 
-<div class="alert alert-warning">
-Customizações de interface <strong>não são oficialmente suportadas pela VTEX</strong>.
-<br />
-<br /> 
-Estas classes e configurações podem ser alteradas ou removidas em futuras atualizações. Como boa prática, recomendamos tratar erros de javascript para que seu código de customização não quebre caso uma classe seja removida no futuro.
-</div>
+>⚠️ Customizações de interface **não são oficialmente suportadas pela VTEX**.
+>
+>
+> 
+>
+>
+>  
+> Estas classes e configurações podem ser alteradas ou removidas em futuras atualizações. Como boa prática, recomendamos tratar erros de javascript para que seu código de customização não quebre caso uma classe seja removida no futuro.
 
-<div class="alert alert-info">
-Caso você já possua um arquivo de customização para a antiga versão do My Orders, recomendamos que coloque a nova customização em um arquivo separado.
-</div>
+>ℹ️ Caso você já possua um arquivo de customização para a antiga versão do My Orders, recomendamos que coloque a nova customização em um arquivo separado.
 
 ### Lista de pedidos
 

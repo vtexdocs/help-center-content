@@ -19,9 +19,7 @@ Para integrar los medios de pago en la plataforma VTEX, los proveedores de pago 
 
 ## ¿Qué va a cambiar?
 
-<div class="alert alert-danger">
-Los cambios descritos en este documento no tendrán ninguna repercusión en el Black Friday 2023,  ya que no se aplicarán hasta el primer trimestre de 2024.
-</div>
+>❗ Los cambios descritos en este documento no tendrán ninguna repercusión en el Black Friday 2023,  ya que no se aplicarán hasta el primer trimestre de 2024.
 
 VTEX está iniciando la descontinuación de estos conectores legados, lo que ocurrirá por etapas:
 
@@ -109,9 +107,7 @@ Si actúas como proveedor de pago responsable de uno o más [conectores que ser�
 
 En este caso, te recomendamos que presentes un nuevo conector para homologación antes del 10 de febrero de 2024 para que las tiendas tengan tiempo de reconfigurar sus conexiones de pago antes de la descontinuación. Aquí puedes consultar más información sobre el [proceso de homologación de nuevos conectores de pago](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation).
 
-<div class="alert alert-danger">
-VTEX no puede garantizar que tu nuevo conector de pago esté disponible para administradores de tiendas VTEX antes de la descontinuación oficial si lo presentas para homologación después de esta fecha.
-</div>
+>❗ VTEX no puede garantizar que tu nuevo conector de pago esté disponible para administradores de tiendas VTEX antes de la descontinuación oficial si lo presentas para homologación después de esta fecha.
 
 Si tienes alguna pregunta sobre este proceso o deseas alinear la información con los administradores de tiendas, ponte en contacto con tu Partner Manager VTEX.
 

@@ -19,9 +19,7 @@ A exportação de pedidos na página [Todos os pedidos](https://help.vtex.com/pt
 
 Cada linha da planilha refere-se a um [SKU](https://help.vtex.com/pt/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u). Se no mesmo pedido existem, por exemplo, 3 SKUs, esse pedido vai ser referenciado em 3 linhas no relatório, cada uma delas com dados referentes a um SKU do pedido.
 
-<div class = "alert alert-info">
-O link do relatório de pedidos fica disponível para download por seis horas.
-</div>
+>ℹ️ O link do relatório de pedidos fica disponível para download por seis horas.
 
 As colunas correspondem a uma informação específica sobre o pedido, conforme descrito abaixo.
 

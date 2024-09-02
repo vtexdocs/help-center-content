@@ -26,9 +26,7 @@ Los principales beneficios de la funcionalidad son:
 
 **Aumento de las tasas de conversión y ventas:** incentiva a los clientes a volver a la página de checkout para finalizar su compra, aumentando así las ventas y las tasas de conversión de los retailers.
 
-<div class = "alert alert-info">
-WhatsApp AI Campaigns solamente está disponible para tiendas que utilizan <a href="https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework">Store Framework</a> y no tienen personalizaciones en Checkout.
-</div>
+>ℹ️ WhatsApp AI Campaigns solamente está disponible para tiendas que utilizan [Store Framework](https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework) y no tienen personalizaciones en Checkout.
 
 ## Activar WhatsApp AI Campaigns
 
@@ -56,9 +54,7 @@ Para instalar la aplicación Connectly sigue los pasos que se indican a continua
 
 Para configurar un nuevo número de WhatsApp necesitarás acceso de administrador a tu perfil de Meta. Sigue las instrucciones para configurar un nuevo número y completar la asociación:
 
-<div class = "alert alert-info">
-Se recomienda crear un nuevo número de teléfono exclusivamente para vincularlo a WhatsApp Business. Esto ayuda a evitar pérdidas de acceso a números utilizados anteriormente para otros fines.
-</div>
+>ℹ️ Se recomienda crear un nuevo número de teléfono exclusivamente para vincularlo a WhatsApp Business. Esto ayuda a evitar pérdidas de acceso a números utilizados anteriormente para otros fines.
 
 <ol start="1">
   <li>En el Admin VTEX, ve a <strong>Promociones &gt; Campañas de WhatsApp &gt; Vista general</strong>, o ingresa <strong>Vista general de Campañas de WhatsApp</strong> en la barra de búsqueda de la parte superior de la página.</li>
@@ -87,9 +83,7 @@ Se recomienda crear un nuevo número de teléfono exclusivamente para vincularlo
   <li>Pega el número de teléfono que has copiado en la etapa anterior y selecciona la opción <strong>SMS</strong>. Haz clic en <code>Continuar</code>.</li>
 </ol>
 
-<div class="alert alert-warning">
-  El número generado puede ser estadounidense, pero si tu página de Meta está verificada, tus clientes verán el nombre de tu empresa. Si no está verificada, recomendamos seguir el <a href="https://www.facebook.com/business/help/2058515294227817?id=180505742745347">proceso de verificación con Meta</a>.
-</div>
+>⚠️ El número generado puede ser estadounidense, pero si tu página de Meta está verificada, tus clientes verán el nombre de tu empresa. Si no está verificada, recomendamos seguir el [proceso de verificación con Meta](https://www.facebook.com/business/help/2058515294227817?id=180505742745347).
 
 <ol start="13">
   <li>Copia el código de verificación que se muestra en el Admin VTEX.</li>
@@ -107,11 +101,7 @@ Se recomienda crear un nuevo número de teléfono exclusivamente para vincularlo
   <li>Haz clic en <code>Finalizar</code>.</li>
 </ol>
 
-<div class="alert alert-warning">
-Una vez que se ha activado una campaña de recuperación de checkout abandonado pueden transcurrir hasta 48 horas para que comiencen a mostrarse las métricas de análisis.
-</div>
+>⚠️ Una vez que se ha activado una campaña de recuperación de checkout abandonado pueden transcurrir hasta 48 horas para que comiencen a mostrarse las métricas de análisis.
 
-<div class = "alert alert-info">
-Aprende más sobre <a href="https://help.vtex.com/es/tutorial/gerenciamento-e-detalhes-do-whatsapp-ai-campaigns--q9JqDErMqGV4zvsYqkD4s">Gestión y detalles de WhatsApp AI Campaigns</a>.
-</div>
+>ℹ️ Aprende más sobre [Gestión y detalles de WhatsApp AI Campaigns](https://help.vtex.com/es/tutorial/gerenciamento-e-detalhes-do-whatsapp-ai-campaigns--q9JqDErMqGV4zvsYqkD4s).
 

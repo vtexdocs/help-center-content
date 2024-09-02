@@ -18,9 +18,7 @@ internalReference: 937692
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A interface do usuário do checkout envia um hífen para o código postal para o formulário de pedido, causando problemas no cálculo de SLAs quando um país tem 7 dígitos + o hífen. Isso acontece porque o módulo Logistics considera o hífen como um dígito e depende de como as taxas de envio foram registradas na política de envio.

@@ -18,9 +18,7 @@ internalReference: 1087876
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Novos pedidos com assinaturas não podem ser criados usando um cartão de crédito salvo quando "savePersonalDataAsOptIn" está ativo na configuração do formulário de pedido.

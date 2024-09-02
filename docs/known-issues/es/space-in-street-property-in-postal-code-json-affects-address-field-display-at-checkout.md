@@ -18,9 +18,7 @@ internalReference: 872935
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al activar el uso de la API de código postal en el formulario de dirección para países que no están en el modelo BR (country, state, city, neighborhood, street), estos países que no tienen todos estos campos rellenados en la API y necesitan poder introducir el resto de datos de dirección en el formulario de dirección en el checkout, el campo street del bloque de dirección no estará disponible si la propiedad street del JSON está con espacio, ya que se entenderá como rellenado y válido, lo que no permite proceder con el pedido.

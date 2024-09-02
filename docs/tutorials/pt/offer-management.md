@@ -15,12 +15,10 @@ legacySlug: listagem-de-anuncios
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
-<div class="alert alert-info">
-Para evoluir sua experiência ao sincronizar e atualizar anúncios, o time da VTEX está desenvolvendo uma nova funcionalidade que irá substituir o atual módulo <b>Gerenciamento de anúncios</b>.
-Por este motivo, o Gerenciamento de anúncios não receberá novas atualizações ou manutenção. 
-Para conectores e marketplaces que já se integraram com o módulo, solicitamos que entre em contato com nosso time de desenvolvimento através do email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
-Para os conectores com interesse em iniciar a integração, solicitamos que aguardem o lançamento do novo módulo, assim que disponível avisaremos a todos os clientes através do <a href="https://developers.vtex.com/updates/release-notes">Developer portal na página de release notes</a> e <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center na página de novidades</a>.
-</div>  
+>ℹ️ Para evoluir sua experiência ao sincronizar e atualizar anúncios, o time da VTEX está desenvolvendo uma nova funcionalidade que irá substituir o atual módulo **Gerenciamento de anúncios**.
+> Por este motivo, o Gerenciamento de anúncios não receberá novas atualizações ou manutenção. 
+> Para conectores e marketplaces que já se integraram com o módulo, solicitamos que entre em contato com nosso time de desenvolvimento através do email [taissa.araujo@vtex.com.br](taissa.araujo@vtex.com.br).
+> Para os conectores com interesse em iniciar a integração, solicitamos que aguardem o lançamento do novo módulo, assim que disponível avisaremos a todos os clientes através do [Developer portal na página de release notes](https://developers.vtex.com/updates/release-notes) e [VTEX Help Center na página de novidades](https://help.vtex.com/pt/en/announcements).  
 
 O módulo **Gerenciamento de anúncios** permite aos sellers acompanhar o envio e a sincronização de anúncios de integrações com canais de venda. Na VTEX, anúncio é um SKU de um seller que teve seu preço e estoque configurados e foi enviado para um canal de venda.
 
@@ -100,9 +98,7 @@ Na lista de anúncios, existem colunas com as seguintes informações:
 
 Para exportar a lista de anúncios em formato XLSX, clique sobre o <i class="fas fa-arrow-to-bottom"></i> ícone seta para baixo, localizado no topo da interface. O arquivo será enviado para o email do usuário logado, sendo que o tempo da exportação vai depender do volume de anúncios da listagem exportada e questões de processamento da plataforma VTEX.
 
-<div class = "alert alert-info">
-O conteúdo exportado é referente ao total de anúncios da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
-</div>
+>ℹ️ O conteúdo exportado é referente ao total de anúncios da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
 
 ## Consultar anúncios indisponíveis
 

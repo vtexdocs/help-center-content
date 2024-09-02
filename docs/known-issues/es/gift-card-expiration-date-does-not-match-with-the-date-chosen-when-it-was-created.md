@@ -18,9 +18,7 @@ internalReference: 378436
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Los clientes están recibiendo un error al intentar pagar con tarjetas regalo cuando la fecha de la compra coincide con la fecha de caducidad.

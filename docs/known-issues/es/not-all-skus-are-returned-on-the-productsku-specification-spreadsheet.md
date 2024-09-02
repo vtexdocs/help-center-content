@@ -18,9 +18,7 @@ internalReference: 649316
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Este comportamiento ocurre cuando una categoría tiene muchas especificaciones y muchos skus. De esta manera, al exportar la hoja de cálculo eventualmente se va a alcanzar el límite de Excel (alrededor de 65k).

@@ -31,6 +31,4 @@ Integrating your blog/website into the store is equal to using a powerful conten
 
 Install the app from the [VTEX App Store](https://apps.vtex.com/vtex-wordpress-integration/p) and follow the instructions in [this documentation](https://developers.vtex.com/vtex-developer-docs/docs/vtex-wordpress-integration) to configure the integration.
 
-<div class="alert alert-info">
-To use this application you need to have a website/blog developed on WordPress.
-</div>
+>ℹ️ To use this application you need to have a website/blog developed on WordPress.

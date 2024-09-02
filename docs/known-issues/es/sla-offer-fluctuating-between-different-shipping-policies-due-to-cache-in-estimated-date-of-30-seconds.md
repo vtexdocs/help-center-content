@@ -18,9 +18,7 @@ internalReference: 1036916
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La simulación logística puede oscilar entre ofrecer SLAs si el cliente tiene políticas de envío con el mismo precio, tiempo de entrega, SlaType, coste de muelle y configuración de almacén, pero diferente prioridad de muelle.

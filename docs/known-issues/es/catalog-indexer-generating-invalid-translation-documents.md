@@ -18,9 +18,7 @@ internalReference: 991494
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al indexar un producto con información traducida se solicitan los mensajes de la aplicación. Se supone que estas solicitudes son menos de 3s y cuando toman más de que la indexación falla y genera un documento de traducción no válida.

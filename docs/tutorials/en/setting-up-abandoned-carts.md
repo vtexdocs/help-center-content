@@ -43,9 +43,7 @@ You can create your own custom email template or use the default template option
 
 ![template xhtml](https://images.ctfassets.net/alneenqid6w5/44IZ7N3din2EELL15z5FeQ/d48bd1624a47451e2314e2296237992f/Template_XHTML.PNG)
 
-<div class="alert alert-warning">
-We recommend that template customization should be performed by professionals with experience in the CMS module, and preferably, who have already configured other page and shelf templates.
-</div>
+>⚠️ We recommend that template customization should be performed by professionals with experience in the CMS module, and preferably, who have already configured other page and shelf templates.
 
 To use a standard template option, follow the steps below:
 
@@ -68,9 +66,7 @@ Once the new email template has been created or the data from the default templa
 7. In __Html__, enter the created or default email template information.
 8. Click on `Save`.
 
-<div class = "alert alert-info">
-The JSON Data field must not be filled or its data used in the email template. It only contains information to allow a preview of the format in which the data will be viewed in the email.
-</div>
+>ℹ️ The JSON Data field must not be filled or its data used in the email template. It only contains information to allow a preview of the format in which the data will be viewed in the email.
 
 ![New template - message center](https://images.ctfassets.net/alneenqid6w5/7nX1YnaZoesV51yG24Z3ls/72c7499b2fdc65ee661c3cb45a387a60/new_template.PNG)
 
@@ -132,9 +128,7 @@ For the trigger to be successfully activated, the filters must be completed foll
 12. Click `Save`.
 13. Create a cart and close the page to test the trigger.
 
-  <div class="alert alert-warning">
-	<p>A page session expires in 30 minutes. Only after this time does Master Data start counting the time scheduled for the Abandoned Cart trigger. Therefore, the time until the email arrives corresponds to the session time (30 minutes) plus the time scheduled in the trigger.</p>
-</div>
+  >⚠️ A page session expires in 30 minutes. Only after this time does Master Data start counting the time scheduled for the Abandoned Cart trigger. Therefore, the time until the email arrives corresponds to the session time (30 minutes) plus the time scheduled in the trigger.
 
 13. Once you have received the abandoned cart message in your email, in the __Recipient__ field (step 12), select the __CL:Email__ option and click `Add Dynamic Email`.
 14. Click `Save`.

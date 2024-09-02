@@ -69,9 +69,7 @@ El proveedor debe enviar el  [AOC](https://www.pcisecuritystandards.org/document
 - __Firma__: documento firmado por el representante de la empresa y por el QSA.
 - __Fecha de vencimiento__: la validez del AOC es de 1 año después de la fecha de firma. No debe reenviarse a VTEX, el AOC emitido hace más de 11 meses, es decir, con menos de 30 días para la fecha de vencimiento.
 
-<div class="alert alert-danger">
-Los documentos SAQ (Self-Assessment Questionnaire) y AOC (Attestation of Compliance for Onsite Assessments – Merchants Version) no se aceptan en el proceso de integración de VTEX.
-</div>
+>❗ Los documentos SAQ (Self-Assessment Questionnaire) y AOC (Attestation of Compliance for Onsite Assessments – Merchants Version) no se aceptan en el proceso de integración de VTEX.
 <br>
 
 #### Proveedores de pagos offline o tarjeta private label (o tarjetas en general), pero que implican soluciones con redirect
@@ -97,11 +95,11 @@ Después de recibir los datos de acceso e implementar el backend, el proveedor d
 
 ![ppp-vtex-store-es](https://images.ctfassets.net/alneenqid6w5/2sZn44SfDSGcUkgouQ2iyu/aa2d1e30c83c7d35c7313c112a5b69d1/image.png)
 
-<div class="alert alert-warning">
-<p>
-Para completar el proceso de homologación, se debe implementar una lógica específica para abordar los requisitos de la prueba. En los requests enviados a Test Suite, utiliza el encabezado adicional <code>X-VTEX-API-Is-TestSuite = true</code> para identificarlos y enmascarar cualquier escenario requerido.<br><br> Toda comunicación con los servidores, ya sea durante el proceso de homologación o en producción, debe llevarse a cabo a través de HTTPS, que utiliza el puerto 443 de forma predeterminada. Es importante recordar que toda comunicación HTTPS debe usar exclusivamente TLS 1.2.
-</p>
-</div> 
+>⚠️ Para completar el proceso de homologación, se debe implementar una lógica específica para abordar los requisitos de la prueba. En los requests enviados a Test Suite, utiliza el encabezado adicional `X-VTEX-API-Is-TestSuite = true` para identificarlos y enmascarar cualquier escenario requerido.
+>
+> 
+>
+>  Toda comunicación con los servidores, ya sea durante el proceso de homologación o en producción, debe llevarse a cabo a través de HTTPS, que utiliza el puerto 443 de forma predeterminada. Es importante recordar que toda comunicación HTTPS debe usar exclusivamente TLS 1.2. 
 
 <!-----
 
@@ -135,11 +133,7 @@ Luego, verás un formulario que tiene tres secciones: Información de servicio, 
 * **URL de servicio:** define la URL del servicio de tu proveedor. Esta URL será la dirección base del protocolo y debe seguir el formato determinado por el proveedor. Por ejemplo, si la URL del servicio es [https://example.com/](https://example.com/), la URL completa del endpoint /payments será [https://example.com/payments](https://example.com/payments).
 * **Clave de aplicación y token de aplicación:** el botón de alternancia con clave de aplicación y token de aplicación te permite escoger si se configuran estos campos o no, lo que puede facilitar las pruebas durante la etapa de desarrollo. Si no se activa esta opción, las credenciales se enviarán en los encabezados como una string vacía.
 
-<div class="alert alert-info">
-  <p>
-El gateway almacena las credenciales de las tiendas configuradas en la afiliación y las envía en los encabezados X-VTEX-API-AppKey y X-VTEX-API-AppToken. La excepción son las integraciones desarrolladas con VTEX IO, en cuyo caso, los encabezados se envían como x-provider-api-appKey y x-provider-api-appToken. Si estás desarrollando usando <a href="https://developers.vtex.com/vtex-rest-api/docs/payments-integration-payment-provider-framework">Payment Provider Framework (IO)</a>, esto lo define la opción usesProviderHeadersName. Consulta los ajustes disponibles <a href="https://developers.vtex.com/vtex-rest-api/docs/payments-integration-payment-provider-framework#available-configurable-options">aquí</a>.
-</p>
-  </div>
+>ℹ️ El gateway almacena las credenciales de las tiendas configuradas en la afiliación y las envía en los encabezados X-VTEX-API-AppKey y X-VTEX-API-AppToken. La excepción son las integraciones desarrolladas con VTEX IO, en cuyo caso, los encabezados se envían como x-provider-api-appKey y x-provider-api-appToken. Si estás desarrollando usando [Payment Provider Framework (IO)](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-payment-provider-framework), esto lo define la opción usesProviderHeadersName. Consulta los ajustes disponibles [aquí](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-payment-provider-framework#available-configurable-options).
 
 #### Medio de pago
 
@@ -162,9 +156,7 @@ Cuando haces clic en el botón `Ejecutar prueba`, Test Suite llama la URL de ser
 * **Flujo de boleto:** en esta prueba, se envía un request[ Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments) a {{ServiceURL}}/payments y se espera una respuesta con status undefined y el campo `bankIssueInvoiceUrl` rellenado con la URL del ticket. Después de 15 segundos, se espera otra respuesta en el mismo formato mediante un POST de la URL enviada en el campo callbackUrl y con el status approved. Con la integración en producción, esta última llamada realizada por callbackUrl se autentica con las claves de entorno del partner: vtex-app-key y vtex-app-token. Para más información sobre el flujo de callback consulta la sección [Autorización del pago](#autorizacion-de-pago).
 * **Flujo de redirección:** esta prueba se divide en dos pasos. Primero, se envía un request [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments) a {{ServiceURL}}/payments y se espera una respuesta con status undefined y el campo redirectUrl rellenado con la URL que se utilizará para redirigir al cliente. Después de 15 segundos, se espera otra respuesta en el mismo formato mediante un POST de la URL enviada en el campo callbackUrl y con el status approved. Con la integración en producción, esta última llamada realizada por callbackUrl se autentica con las claves de entorno del partner: vtex-app-key y vtex-app-token. Para más información sobre el flujo de callback consulta la sección [Autorización del pago](#autorizacion-de-pago). El conector que utilizará redirección no tiene que pasar todas las pruebas de Test Suite, solo la prueba de Redirección.
 
-<div class="alert alert-warning">
-  En el caso de las tarjetas de crédito, las pruebas obligatorias son: Autorizar, Denegado, Cancelar, Aprobado asíncrono y Denegado asíncrono.
-  </div>
+>⚠️ En el caso de las tarjetas de crédito, las pruebas obligatorias son: Autorizar, Denegado, Cancelar, Aprobado asíncrono y Denegado asíncrono.
 
 Para identificar cómo responder a cada una de las pruebas con tarjetas de crédito, utiliza los siguientes números específicos:
 
@@ -192,8 +184,7 @@ Todo comienza con la solicitud de un nuevo pago, después de la creación de un 
 
 ![fluxo-atualizado-ppp](https://images.ctfassets.net/alneenqid6w5/7lQZhSFEff1iaN7t2UVVNE/2890bc7073210c268d7d429d0162c9b7/FLUXO1.png)
 
-<div class="alert alert-info">
-  El período predeterminado de 7 días para reintentos (retries) de pago asíncronos solo se aplica cuando el usuario no especifica un valor en el campo <code>delayToCancel</code> del endpoint <a href="https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments">Create Payment</a> o al enviar la URL de devolución de llamada.</div>
+>ℹ️ El período predeterminado de 7 días para reintentos (retries) de pago asíncronos solo se aplica cuando el usuario no especifica un valor en el campo `delayToCancel` del endpoint [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments) o al enviar la URL de devolución de llamada.
 
 ### Autorización de pago
 En este punto, VTEX llama al endpoint __*/payments*__ y envía un payload con los datos de pago para su proveedor. El proveedor debe procesar estos datos y enviar la respuesta, que debe contener uno de los valores de status: __approved__, __denied__ o __undefined__.
@@ -242,21 +233,15 @@ Vea a continuación, um ejemplo de payload enviada junto con la callback URL:
 {"paymentId":"8B3BA2F4352545A8B1C5A215F356A01C","status":"approved","authorizationId":"184520","nsu":"21705348","tid":"21705348","acquirer":"pagarme","code":"0000","message":"Transação aprovada com sucesso","delayToAutoSettle":1200, "delayToAutoSettleAfterAntifraud":1200, "delayToCancel":86400,"cardBrand":"Mastercard","firstDigits":"534696","lastDigits":"6921","maxValue":16.6}
 ```
 
-<div class="alert alert-info">
-  Los valores de los parámetros enviados en el payload de callback reemplazan los valores originales informados en la llamada de <a href="https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments">Create Payment</a>.  
-</div>
+>ℹ️ Los valores de los parámetros enviados en el payload de callback reemplazan los valores originales informados en la llamada de [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments).
 
-<div class="alert alert-warning">
-  Si los parámetros de tiempo de espera (<i>delayToAutoSettle</i> e <i>delayToAutoSettleAfterAntifraud</i>) no se envían con la URL de devolución de llamada, los valores se establecerán automáticamente en 24 horas.
-</div>
+>⚠️ Si los parámetros de tiempo de espera (<i>delayToAutoSettle</i> e <i>delayToAutoSettleAfterAntifraud</i>) no se envían con la URL de devolución de llamada, los valores se establecerán automáticamente en 24 horas.
 
 Al realizar el request de _callback_, recomendamos que los proveedores de pago utilicen la URL de _callback_ exactamente como la recibieron, lo que garantiza que se incluyan todos los parámetros.
 
 Al llamar a CallbackURL, su proveedor debe enviar en el request los headers *X-VTEX-API-AppKey* y *X-VTEX-API-AppToken*. Más información sobre esto en la [sección de credenciales VTEX](/es/tutorial/payment-provider-protocol#credenciales-vtex).
 
-<div class="alert alert-danger">
-Además de CallbackURL, si el status es <strong>undefined</strong>, VTEX intentará de nuevo llamar al endpoint de la autorización de pago. Si el status devuelto en estas llamadas permanece como <strong>undefined</strong>, las llamadas continuarán por 7 días. Por lo tanto, <strong>es importante que su proveedor esté preparado para recibir la misma autorización de pago varias veces</strong>.
-</div>
+>❗ Además de CallbackURL, si el status es **undefined**, VTEX intentará de nuevo llamar al endpoint de la autorización de pago. Si el status devuelto en estas llamadas permanece como **undefined**, las llamadas continuarán por 7 días. Por lo tanto, **es importante que su proveedor esté preparado para recibir la misma autorización de pago varias veces**.
 
 Una vez que el pago ha sido procesado por su proveedor, de forma directa o asincrónica, movemos la transacción de pago dentro de VTEX al status *autorizado* o *cancelado*, de acuerdo con el status de la respuesta del procesamiento.
 
@@ -280,9 +265,7 @@ Si la transacción de pago está autorizada en VTEX Payments, puede recibir soli
 
 Cuando el proveedor recibe una solicitud de liquidación, debe liquidar el pago y responder con información de liquidación. Si esta llamada falla, hacemos algunas retentaciones, por hasta 1 día.
 
-<div class="alert alert-danger">
-Su proveedor debe estar preparado para recibir la misma llamada de liquidación varias veces.
-</div>
+>❗ Su proveedor debe estar preparado para recibir la misma llamada de liquidación varias veces.
 
 Si la llamada de liquidación funciona bien, movemos la transacción de pago al estado *Finalizado*, y el flujo termina con éxito.
 

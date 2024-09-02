@@ -18,9 +18,7 @@ internalReference: 332740
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 No Checkout v5, em um cenário específico, a página está presa em uma carga infinita, e no console, podemos ver o erro: "Uncaught SyntaxError": Token u inesperado em JSON na posição 0 em JSON.parse (<anónimo>)".

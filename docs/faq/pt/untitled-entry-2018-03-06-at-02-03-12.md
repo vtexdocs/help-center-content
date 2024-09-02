@@ -65,19 +65,13 @@ A estrutura básica do orderForm é esta:
 
 Essa estrutura é constituída de várias __seções__.
 
-<div class="alert alert-info">
-A maioria das chamadas à API do Checkout pede o parâmetro <code>expectedOrderFormSection</code>, que indica exatamente quais seções devem ser retornadas pela API.
-</div>
+>ℹ️ A maioria das chamadas à API do Checkout pede o parâmetro `expectedOrderFormSection`, que indica exatamente quais seções devem ser retornadas pela API.
 
 No menu abaixo você encontra os links para cada uma dessas seções.
 
-<div class="alert alert-info">
-Propriedades que representam valores monetários têm seus valores expressos em <b>centavos</b>. Por exemplo, <code>10390</code> significa <b>R$103,90</b> em lojas brasileiras.
-</div>
+>ℹ️ Propriedades que representam valores monetários têm seus valores expressos em **centavos**. Por exemplo, `10390` significa **R$103,90** em lojas brasileiras.
 
-<div class="alert alert-info">
-Seções que não foram solicitadas à API do Checkout são retornadas com valor <code>null</code>.
-</div>
+>ℹ️ Seções que não foram solicitadas à API do Checkout são retornadas com valor `null`.
 
 ## Seções do OrderForm
 

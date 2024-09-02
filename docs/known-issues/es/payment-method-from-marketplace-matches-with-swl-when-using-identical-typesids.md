@@ -18,9 +18,7 @@ internalReference: 402140
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, la configuración del método de pago, en el producto de las promociones, no está previsto que se transmita a través de la solicitud/respuesta de cumplimiento.

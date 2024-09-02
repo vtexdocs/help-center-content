@@ -18,9 +18,7 @@ internalReference: 851911
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o host de imagens da planilha usa um protocolo de criptografia SSL1.3, aparece um erro ao tentar carregar a planilha:

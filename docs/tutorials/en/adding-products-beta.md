@@ -15,9 +15,7 @@ legacySlug: adding-products-beta
 subcategory: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-<div class = "alert alert-info">
-  <p>This feature is in beta, which means that we are working to improve it. If you wish to migrate your store to the new page,  please contact <a href = "https://support.vtex.com/hc/en/requests">our Support</a>.</p>
-</div>
+>ℹ️ This feature is in beta, which means that we are working to improve it. If you wish to migrate your store to the new page,  please contact <a href = "https://support.vtex.com/hc/en/requests">our Support</a>.
 
 To add a product in the VTEX Admin, you need to complete the Product & SKUs forms. Follow the steps below to access the new experience of adding products and SKUs:
 
@@ -48,9 +46,7 @@ On this page, you will enter the information required to add a product. See belo
 - **Page title:** Text that displays in the browser tab and corresponds to the title of the product page. This field is crucial for SEO.
 - **Meta description:** Enter a brief description of the category. This field should not exceed 150 characters so that search engines can correctly display the full description on the results pages.
 
-<div class = "alert alert-info">
-  When completing the SEO information, a content preview will be displayed.
-</div>
+>ℹ️ When completing the SEO information, a content preview will be displayed.
 
 ## Operation and logistics
 
@@ -71,6 +67,4 @@ Here's how to [create your product specifications](https://help.vtex.com/en/tuto
 
 If you have created any required product fields, the product can only be activated after this specification has been completed.
 
-<div class="alert alert-info">
-If the product is not visible on your store after creating it, read the article <a href="https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">Why is the product not visible on the website?</a> to learn how to solve this problem.
-</div>
+>ℹ️ If the product is not visible on your store after creating it, read the article [Why is the product not visible on the website?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) to learn how to solve this problem.

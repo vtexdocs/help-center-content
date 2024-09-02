@@ -18,9 +18,7 @@ internalReference: 739814
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O filtro de pedidos no editor CMS/Site quando se carrega uma nova imagem não está funcionando corretamente

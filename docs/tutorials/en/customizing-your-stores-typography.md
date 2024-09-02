@@ -18,9 +18,7 @@ subcategory: 5HsDDU48ZP58JHWU3WbCPc
 The typography of your store website is a tool to communicate your brand identity to your clients. 
 In the Admin, you have the flexibility to customize your store’s typography to suit to your business needs.
 
-<div class="alert alert-warning">
-  <p>Keep in mind that changes to your store typography in the <b>Storefront</b> overwrite the typography changes made in your store code. Please contact your development team and make sure the changes will be done in the Storefront or through your store's code.</p>
-</div>
+>⚠️ Keep in mind that changes to your store typography in the **Storefront** overwrite the typography changes made in your store code. Please contact your development team and make sure the changes will be done in the Storefront or through your store's code.
 
 ## Adding custom font families
 
@@ -33,9 +31,7 @@ In the Admin, you have the flexibility to customize your store’s typography to
 
 4. Then, click **Add custom font** and upload the desired font file. In the **Font Family** input field, enter a name for the font.
 
-<div class="alert alert-warning">
-  <p>The font family file must be uploaded in the following file extensions: <i>.ttf</i> or <i>.woff</i>.</p>
-</div>
+>⚠️ The font family file must be uploaded in the following file extensions: <i>.ttf</i> or <i>.woff</i>.
 
 5. Click `Save` to save your changes. 
 

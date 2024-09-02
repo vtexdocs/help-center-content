@@ -15,9 +15,7 @@ legacySlug: horario-de-funcionamento-de-transportadoras-e-entrega-agendada-beta
 subcategory: 32vrn4K2ZscjUaIBe6w5fm
 ---
 
-<div class = "alert alert-info">
-  <p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href = "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href = "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
 
 O módulo *Estoque & Entrega* é onde você faz todo o gerenciamento da logística da sua loja. A aba *Estratégia de Envio* permite que você cadastre sua rota logística, incluindo as **Políticas de Envio** ou transportadoras. Pensando em melhorar a experiência do módulo, atualizamos essa funcionalidade.
 

@@ -19,9 +19,7 @@ O gerenciamento das suas contas é feito no **Gerenciamento da conta**. Dentro d
 
 Na página de cada conta você encontra dados básicos sobre a loja virtual, configurações de domínio e multidomínio, chaves de acesso para APIs, logotipo da empresa e informações de contato.
 
-<div class="alert alert-info">
-Alguns desses dados são úteis somente para a VTEX, e podem não refletir em alteração das informações exibidas na loja.
-</div>
+>ℹ️ Alguns desses dados são úteis somente para a VTEX, e podem não refletir em alteração das informações exibidas na loja.
 
 ## Botão de Ativo/Inativo
 
@@ -54,17 +52,15 @@ Você também pode usar o botão `Configurar outra loja` para [Criar multiloja](
 
 Na seção **Hosts** você deve adicionar o domínio principal da sua loja, que foi [configurado com apontamento de DNS](https://help.vtex.com/pt/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
 
-<div class="alert alert-danger">
-Caso a sua operação possua mais de uma conta VTEX ou subcontas, não troque o domínio de uma conta para outra. Isso provocará falhas em diversos aspectos da sua loja.
-</div>
+>❗ Caso a sua operação possua mais de uma conta VTEX ou subcontas, não troque o domínio de uma conta para outra. Isso provocará falhas em diversos aspectos da sua loja.
 
 Para adicionar um novo host, basta clicar em `Adicionar novo domínio` e inserir o domínio no campo de texto.
 
-<div class="alert alert-warning">
-Se você adicionar mais de um domínio como host da sua loja, todos exibirão o mesmo conteúdo. No entanto, para atingir este objetivo recomendamos que cadastre apenas um domínio e use redirecionamentos para os outros. Saiba mais sobre redirecionamentos:
-<ul><li><a href=”https://help.vtex.com/pt/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ”>Redirecionamento de outros endereços</a></li>
-<li><a href=”https://help.vtex.com/pt/tutorial/configurando-acesso-sem-www--tutorials_4278”>Configurar acesso sem www</a></li></ul> 
-</div>
+>⚠️ Se você adicionar mais de um domínio como host da sua loja, todos exibirão o mesmo conteúdo. No entanto, para atingir este objetivo recomendamos que cadastre apenas um domínio e use redirecionamentos para os outros. Saiba mais sobre redirecionamentos:
+>
+> *<a href=”https://help.vtex.com/pt/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ”>Redirecionamento de outros endereços</a>
+>
+> *<a href=”https://help.vtex.com/pt/tutorial/configurando-acesso-sem-www--tutorials_4278”>Configurar acesso sem www</a>
 
 #### Subdomínios
 
@@ -80,9 +76,7 @@ A parte de **Contatos** é visível somente para o usuário que estiver cadastr
 
 Depois que um usuário preenche e salva **Nome** e **E-mail**, nos campos de contato, um e-mail automático é enviado a ele informando sobre o cadastro e solicitando geração de senha (caso este não possua nenhum acesso ao admin).
 
-<div class="alert alert-info">
-O template deste e-mail automático pode ser alterado na <a href="https://help.vtex.com/pt/tutorial/understanding-the-message-center--tutorials_84">Central de mensagens</a> modificando o template <i>account registration</i>.
-</div>
+>ℹ️ O template deste e-mail automático pode ser alterado na [Central de mensagens](https://help.vtex.com/pt/tutorial/understanding-the-message-center--tutorials_84) modificando o template <i>account registration</i>.
 
 ![cadastro de conta](https://images.ctfassets.net/alneenqid6w5/5tBCNxqBxeWkqOgiIcEaQw/4e044e1f46911db85da4e5ea0a195226/cadastro_de_conta.jpg)
 

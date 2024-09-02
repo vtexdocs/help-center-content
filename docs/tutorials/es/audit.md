@@ -22,9 +22,7 @@ Para acceder a la página de Audit en el Admin VTEX, ve a **Apps > Apps instalad
 * [Consultar eventos en Audit](#consultar-eventos-en-audit)
 * [Verificar las últimas consultas realizadas en Audit](#verificar-las-ultimas-consultas-realizadas-en-audit)
 
-<div class="alert alert-info">
-  <p>Para visualizar los eventos de Audit, debe tener un <a href="https://help.vtex.com/es/tutorial/perfis-de-acceso--7HKK5Uau2H6wxE1rH5oRbc">perfil de acceso</a> asociado al <a href="https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso</a> <em>Insights Metrics</em>.</p>
-</div>
+>ℹ️ Para visualizar los eventos de Audit, debe tener un [perfil de acceso](https://help.vtex.com/es/tutorial/perfis-de-acceso--7HKK5Uau2H6wxE1rH5oRbc) asociado al [recurso](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) *Insights Metrics*.
 
 ![audit-ui-es](https://images.ctfassets.net/alneenqid6w5/5IFUH95vspIgJVYg9CrWMW/7c0a482122fe0605d75492f02b44f20d/audit-ui-es__1_.png)
 
@@ -40,9 +38,7 @@ Para consultar un evento utilizando los filtros disponibles en Audit, sigue esto
 2. En el menú **Aplicación** dentro de la sección **Filtros**, selecciona la aplicación relacionada con la consulta.
 3. En el menú **Fecha**, escoge una de las fechas predefinidas para la consulta. Si prefieres definir el intervalo de fechas exacto, activa la opción de usar una fecha **Personalizada **y selecciona la fecha de **Inicio** y **Fin** para la consulta.
 
-   <div class= "alert alert-info">
-     <p>Solo se almacenan los registros de los últimos tres meses.</p>
-   </div>
+   >ℹ️ Solo se almacenan los registros de los últimos tres meses.
 
 4. Si lo desea, añada un filtro por Acción. Para ello, en el campo situado junto a `Acción debe ser`, escriba el nombre de la acción y pulse `Enter`. Puede introducir más de un valor pulsando `Enter` después de cada selección. Compruebe el nombre de cada acción en [Eventos disponibles en Audit](https://help.vtex.com/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 5. Puedes agregar filtros más específicos para consultar eventos con más precisión haciendo clic en el botón `Agregar filtro`.
@@ -60,9 +56,7 @@ Para consultar un evento utilizando los filtros disponibles en Audit, sigue esto
 
     Consulta la sección [Resultados](#resultados) para entender la presentación de los eventos.
 
-<div class= "alert alert-warning">
-  <p>Los resultados de consulta corresponden exactamente al contenido ingresado en la casilla del filtro. Para evitar resultados inesperados, comprueba que no se hayan ingresado espacios adicionales en los términos de consulta.</p>
-</div>
+>⚠️ Los resultados de consulta corresponden exactamente al contenido ingresado en la casilla del filtro. Para evitar resultados inesperados, comprueba que no se hayan ingresado espacios adicionales en los términos de consulta.
 
 Si lo deseas, puedes compartir la consulta con otro usuario haciendo clic en `Compartir consulta` en la parte superior derecha de la página. El enlace a la búsqueda de Audit se copiará en su portapapeles.
 
@@ -133,7 +127,5 @@ Esta pestaña contiene la siguiente información:
 | Periodo | Fecha de inicio y fin del periodo seleccionado para la consulta. |
 | Rehacer consulta | Botón que permite repetir la consulta. |
 
-<div class= "alert alert-warning">
-  <p>Solo se almacenan 50 consultas en la pestaña <strong>Últimas consultas</strong>. Si deseas guardar consultas por encima de límite, agrégalas a los favoritos de tu navegador.</p>
-</div>
+>⚠️ Solo se almacenan 50 consultas en la pestaña **Últimas consultas**. Si deseas guardar consultas por encima de límite, agrégalas a los favoritos de tu navegador.
 

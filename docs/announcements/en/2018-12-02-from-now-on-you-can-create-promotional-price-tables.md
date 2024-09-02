@@ -35,12 +35,8 @@ In case you still don't have a price table (or wish to create a new one), the [S
 
 After going through all the steps above, your promotional price table will be active and ready to use. Remember that it usually takes __10 minutes__ before a given benefit becomes available on your store.
 
-<div class="alert alert-info">
-The benefits that use price tables have a few characteristics that you must take into consideration while using them:</br>
-<strong>1-</strong> The price on the price table will only be applied if it is lower than the one defined on your store sales policy. <em>For example:</em> Imagine an item sold at $ 199,00. The price table will only alter this value if it was filled with a lower price.</br>
-<strong>2-</strong> Benefits which use price tables concur with each other and with all other benefits which interfere directly on prices. In other words, if there is more than one price table set on your store and, at least, one other active promotion (of the percentage, nominal, or formula types), the lowest value among them will be the one applied.
-</div>
+>ℹ️ The benefits that use price tables have a few characteristics that you must take into consideration while using them:</br>
+> **1-** The price on the price table will only be applied if it is lower than the one defined on your store sales policy. *For example:* Imagine an item sold at $ 199,00. The price table will only alter this value if it was filled with a lower price.</br>
+> **2-** Benefits which use price tables concur with each other and with all other benefits which interfere directly on prices. In other words, if there is more than one price table set on your store and, at least, one other active promotion (of the percentage, nominal, or formula types), the lowest value among them will be the one applied.
 
-<div class="alert alert-warning">
-You can only set a <strong>single price table per benefit</strong>. Also, today we have a limit of <strong>5 simultaneous price tables</strong> for each store.
-</div>
+>⚠️ You can only set a **single price table per benefit**. Also, today we have a limit of **5 simultaneous price tables** for each store.

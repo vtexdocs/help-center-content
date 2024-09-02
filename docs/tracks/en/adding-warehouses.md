@@ -39,9 +39,7 @@ Follow the steps below to add a warehouse to your store:
 
 ## API REST
 
-<div class="alert alert-warning">
-Inventory & Shipping module API REST call authentications must be done with AppKey and AppToken. For more info, access our article on <a href="https://help.vtex.com/en/tutorial/criar-appkey-e-apptoken-para-autenticar-integracoes--43tQeyQJgAKGEuCqQKAOI2">how to create an AppKey and AppToken to authenticate your integrations.</a>
-</div>
+>⚠️ Inventory & Shipping module API REST call authentications must be done with AppKey and AppToken. For more info, access our article on [how to create an AppKey and AppToken to authenticate your integrations.](https://help.vtex.com/en/tutorial/criar-appkey-e-apptoken-para-autenticar-integracoes--43tQeyQJgAKGEuCqQKAOI2)
 
 To add a **warehouse** using API, you'll need to send a __POST__ to the following endpoint:
 

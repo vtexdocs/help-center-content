@@ -16,9 +16,7 @@ trackSlugES: proximos-pasos-tras-el-go-live
 
 Los productos add-on son soluciones que VTEX ofrece para satisfacer demandas específicas de los negocios y que pueden adquirirse por separado mediante un contrato de suscripción.
 
-<div class="alert alert-warning">
-  <p>Para implementar las soluciones a continuación, debes ponerte en contacto con el equipo de<a href="https://help.vtex.com/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ"> soporte comercial de VTEX</a>.</p>
-</div>
+>⚠️ Para implementar las soluciones a continuación, debes ponerte en contacto con el equipo de[ soporte comercial de VTEX](https://help.vtex.com/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
 
 ## VTEX Ad Network
 
@@ -88,9 +86,7 @@ Explora las opciones de envío de productos a todas las regiones de Brasil con [
 
 Para más información, debes acceder a la página de VTEX Shipping Network.
 
-<div class="alert alert-warning">
-  <p>Las soluciones <strong>VTEX Shipping Network</strong> y <strong>VTEX Shipping Network Correios</strong> son exclusivas para las operaciones en Brasil.</p>
-</div>
+>⚠️ Las soluciones **VTEX Shipping Network** y **VTEX Shipping Network Correios** son exclusivas para las operaciones en Brasil.
 
 ## VTEX Shipping Network Correios (solo Brasil)
 
@@ -131,6 +127,4 @@ Los principales beneficios de la funcionalidad son:
 
 **Aumento de las tasas de conversión y ventas:** incentiva a los clientes a volver a la página de checkout para finalizar su compra, aumentando así las ventas y las tasas de conversión de los retailers.
 
-<div class = "alert alert-info">
-WhatsApp AI Campaigns solamente está disponible para tiendas que utilizan <a href="https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework">Store Framework</a> y no tienen personalizaciones en Checkout.
-</div>
+>ℹ️ WhatsApp AI Campaigns solamente está disponible para tiendas que utilizan [Store Framework](https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework) y no tienen personalizaciones en Checkout.

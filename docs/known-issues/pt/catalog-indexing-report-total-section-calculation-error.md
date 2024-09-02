@@ -18,9 +18,7 @@ internalReference: 499450
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, no relatório de indexação do catálogo (RelatorioIndexação.aspx), a seção "Total Indexado" está considerando todos os produtos do catálogo ao atingir 100% da métrica, não subtraindo produtos não indexados se necessário.

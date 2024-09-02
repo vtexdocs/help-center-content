@@ -18,9 +18,7 @@ internalReference: 1045623
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, o sistema de filtro de pedidos não retorna os pedidos com promoções que contenham aspas duplas `"` em seus nomes, o que também se aplica ao nome da SKU.

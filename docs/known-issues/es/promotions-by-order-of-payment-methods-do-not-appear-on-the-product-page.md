@@ -18,9 +18,7 @@ internalReference: 781523
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La página del producto sólo muestra el precio SKU con algunas promociones, que no incluyen las condiciones específicas de los métodos de pago ni el número de plazos. Estos sólo se aplican durante el pago, después de que el usuario haya optado explícitamente por utilizar una determinada condición de pago.

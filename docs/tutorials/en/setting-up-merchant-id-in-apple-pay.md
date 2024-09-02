@@ -15,9 +15,7 @@ legacySlug: setting-up-merchant-id-in-apple-pay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning">
-This process will be simpler as soon as Apple validates integrations with VTEX platform. This article will then be updated to fit the new scenario.
-</div>
+>⚠️ This process will be simpler as soon as Apple validates integrations with VTEX platform. This article will then be updated to fit the new scenario.
 
 In order for your store to begin receiving payments with __Apple Pay__, you will need to set __Merchant ID__ in your Apple developer account (`developer.apple.com`). 
 
@@ -90,9 +88,7 @@ Firstly, you need to validate each of the desired URLs. Once this step is correc
 
 Lastly, you need to import this file to VTEX's system through Postman - an [API](https://help.vtex.com/en/tutorial/introduction-to-vtex-apis--3SjAqQ0BeUqu2ge8AiIkmW "APIs") management tool.
 
-<div class="alert alert-warning">
-<strong>Important:</strong>nThis validation can only be done one domain at a time. This means that if your store uses 10 different domains, the process will have to be repeated 10 times.
-</div>
+>⚠️ **Important:**nThis validation can only be done one domain at a time. This means that if your store uses 10 different domains, the process will have to be repeated 10 times.
 
 Follow these steps:
 
@@ -128,9 +124,7 @@ Lastly, you must generate a Merchant ID certificate, which will be used every ti
 
 To complete the action, you'll need to create a password to protect the exported data.
 
-<div class="alert alert-info">
-Notice: we recommend an easy to remember password, since it will be filled into the Apple Merchant Password field upon configuring the gateway affiliation on VTEX's platform.
-</div>  
+>ℹ️ Notice: we recommend an easy to remember password, since it will be filled into the Apple Merchant Password field upon configuring the gateway affiliation on VTEX's platform.  
 
 1. Access the __Certificate, Identifiers & Profilers__ module;
 2. From the left side menu, choose __Identifiers__;

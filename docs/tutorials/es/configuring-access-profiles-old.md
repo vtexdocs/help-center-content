@@ -34,9 +34,7 @@ Vea algunos perfiles útiles:
 - __Financeiro:__ concede acceso al submódulo Financiero, dentro del License Manager, permitiendo ver boletos y NFs relativos al pago del servicio VTEX.
 - __Webservice:__ permite que el usuario acceda a los métodos del webservice, necesarios para algunas integraciones (en general, con el catálogo).
 
-<div class="alert alert-warning">
-<strong>Atención</strong>: los perfiles de televenta bloquean el acceso al módulo Catalog. Es decir, no pueden acceder al registro de productos, por ejemplo. Si es necesario acceder a este módulo, el usuario debe trabajar con dos logins diferentes.
-</div>
+>⚠️ **Atención**: los perfiles de televenta bloquean el acceso al módulo Catalog. Es decir, no pueden acceder al registro de productos, por ejemplo. Si es necesario acceder a este módulo, el usuario debe trabajar con dos logins diferentes.
 
 ## Creando nuevos perfiles
 

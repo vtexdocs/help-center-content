@@ -17,9 +17,7 @@ subcategory:
 
 A ClearSale Global é uma solução antifraude, disponível __exclusivamente para o mercado internacional__. Através da análise comportamental dos clientes, a solução identifica vulnerabilidades e evita possíveis fraudes nas transações da sua loja.
 
-<div class="alert alert-info">
-Caso você esteja no Brasil e queira utilizar a ClearSale, a VTEX oferece integração com a ClearSale V3, exclusiva para clientes brasileiros. Acesse o tutorial <a href="https://help.vtex.com/pt/tutorial/configurar-antifraude-clearsale-v3--2pPORygesIqQOa6cIG6agg?&utm_source=autocomplete">Configurar antifraude ClearSale v3</a> para realizar a configuração.
-  </div>
+>ℹ️ Caso você esteja no Brasil e queira utilizar a ClearSale, a VTEX oferece integração com a ClearSale V3, exclusiva para clientes brasileiros. Acesse o tutorial [Configurar antifraude ClearSale v3](https://help.vtex.com/pt/tutorial/configurar-antifraude-clearsale-v3--2pPORygesIqQOa6cIG6agg?&utm_source=autocomplete) para realizar a configuração.
 
 Para configurar a __ClearSale Global__, será necessário:
 

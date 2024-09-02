@@ -42,8 +42,6 @@ Una vez hecho esto,  vuelva a la página de configuraciones en el Admin y selecc
 
 Siempre que lo considere necesario, puede probar si el envío de correos electrónicos funciona. Para hacerlo, vaya a la sección Remitentes y haga clic en el botón __Prueba__ del card con el remitente deseado.
 
-<div class="alert alert-warning">
-Atención: cada vez que realice un cambio en el remitente y lo guarde, se enviará un correo electrónico de confirmación de SMTP registrado con éxito a la dirección que ingresó. En todos los casos, es imprescindible hacer clic en el enlace enviado en el correo electrónico para completar la confirmación.
-</div>
+>⚠️ Atención: cada vez que realice un cambio en el remitente y lo guarde, se enviará un correo electrónico de confirmación de SMTP registrado con éxito a la dirección que ingresó. En todos los casos, es imprescindible hacer clic en el enlace enviado en el correo electrónico para completar la confirmación.
   
 

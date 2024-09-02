@@ -34,9 +34,7 @@ The product assortment sent to a marketplace is defined when you choose the [tra
 
 [Additional trade policies can be requested](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) via a ticket to our [Support](https://help.vtex.com/pt/support) team by selecting the Commercial option and the New Trade Policy request type. A monthly fee is charged for each additional trade policy, whether used for integration with certified, partner, external, or VTEX marketplaces.  
 
-<div class="alert alert-info">
- Orders placed through marketplaces are subject to the same <a href="https://help.vtex.com/en/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt">contractual rules</a> as the ones placed through other channels.  
-</div>  
+>ℹ️ Orders placed through marketplaces are subject to the same [contractual rules](https://help.vtex.com/en/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt) as the ones placed through other channels.  
 
 Here are the scenarios we will address next:  
 
@@ -101,10 +99,8 @@ At VTEX, you can sell on other channels in the following situations:
 - [Integrating with partner marketplaces](#integrating-with-partner-marketplaces)  
 - [Operating as a VTEX seller](#operating-as-a-vtex-seller)  
 
-<div class="alert alert-info">
-  A VTEX store can act simultaneously as a <a href="#selling-on-marketplaces">VTEX seller</a> and a <a href="#operating-as-a-vtex-marketplces">VTEX marketplace</a>.  
-The VTEX platform offers different fulfillment features that can be combined for scenarios such as dropshipping, where the seller receives and forwards the customer's order to a third party responsible for the fulfillment. The most fitting <a href="https://help.vtex.com/en/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP">logistics</a> solution for the seller will depend on the architecture and business model and can be implemented through <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">Back office integration (ERP/PIM/WMS)</a>.
-</div>  
+>ℹ️ A VTEX store can act simultaneously as a [VTEX seller](#selling-on-marketplaces) and a [VTEX marketplace](#operating-as-a-vtex-marketplces).  
+> The VTEX platform offers different fulfillment features that can be combined for scenarios such as dropshipping, where the seller receives and forwards the customer's order to a third party responsible for the fulfillment. The most fitting [logistics](https://help.vtex.com/en/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP) solution for the seller will depend on the architecture and business model and can be implemented through [Back office integration (ERP/PIM/WMS)](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).  
 
 ### Integrating with an external marketplace
 
@@ -114,9 +110,7 @@ If you want to sell your products on a marketplace not integrated with VTEX, you
 
 Certified marketplaces are those whose integration has been developed by VTEX's engineering team. For these integrations, the additional trade policy is exempt from the monthly fee when orders are linked to the policy via the certified marketplace. Instead, fees will be based solely on the take rate of the orders.  
 
-<div class="alert alert-warning">
-Additional trade policies requested for integrating with certified marketplaces that are also used for integrating with other marketplace types are subject to a monthly fee.
-</div>  
+>⚠️ Additional trade policies requested for integrating with certified marketplaces that are also used for integrating with other marketplace types are subject to a monthly fee.  
 
 Currently, on the VTEX platform, you can find the following certified marketplaces:  
 
@@ -168,9 +162,7 @@ Below, you will find the partner marketplaces available in the VTEX catalog:
 - Fast Shop  
 - Hubplus  
 
-<div class="alert alert-info">
-Facebook, Google Shopping, Google Shopping Ads, and TikTok are not marketplaces, but they offer a similar experience of sending products from VTEX stores.
-</div>  
+>ℹ️ Facebook, Google Shopping, Google Shopping Ads, and TikTok are not marketplaces, but they offer a similar experience of sending products from VTEX stores.  
 
 ### Operating as a VTEX seller  
 
@@ -182,6 +174,4 @@ Setting up an [integration between VTEX stores](https://help.vtex.com/en/tutoria
 
 The [Seller Portal](https://help.vtex.com/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) is a VTEX platform edition for sellers to connect and sell their products on VTEX marketplaces. The portal allows sellers to access all the key features necessary to operate ecommerce on big storefronts, increasing visibility and sales conversion.  
 
-<div class="alert alert-info">
-At VTEX, it is possible to act as a <a href="https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa">white label seller</a>, a seller unknown to the consumer in his shopping experience. This type of seller is the standard for <a href="https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl">franchise accounts</a>, for example, and can be strategic for certain business models. To learn more, see the article <a href="https://help.vtex.com/en/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78">Choosing between standard account, franchise account, or Seller Portal</a>.
-</div>
+>ℹ️ At VTEX, it is possible to act as a [white label seller](https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa), a seller unknown to the consumer in his shopping experience. This type of seller is the standard for [franchise accounts](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl), for example, and can be strategic for certain business models. To learn more, see the article [Choosing between standard account, franchise account, or Seller Portal](https://help.vtex.com/en/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78).

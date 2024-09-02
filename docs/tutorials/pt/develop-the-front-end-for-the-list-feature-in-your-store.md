@@ -116,15 +116,11 @@ Este código renderiza uma lista com __três links__:
 2. __Criar nova Lista__: Este link leva o cliente para a rota `/giftlist/create`, onde o cliente cria suas listas. Nos próximos passos, vamos explicar como é feita a criação de listas.
 3. __Gerenciar minhas Listas__: Este link leva o cliente para a rota `/giftlist/manage`, onde o cliente pode gerenciar suas listas. Nos próximos passos, vamos explicar como é feito o gerenciamento de listas.
 
-<div class="alert alert-danger">
-Não desmarque a flag <strong>Authentication Required</strong> já selecionada por default nas pastas abaixo. A identificação é necessária para que as listas sejam exibidas para cada usuário específico.
-</div>
+>❗ Não desmarque a flag **Authentication Required** já selecionada por default nas pastas abaixo. A identificação é necessária para que as listas sejam exibidas para cada usuário específico.
 
 ## Editar o template de criação de listas
 
-<div class="alert alert-info">
-Antes de editar este template, é necessário <a href="http://help.vtex.com/pt/tutorial/criando-tipo-de-lista">criar o Tipo de Lista</a> que será oferecido na sua loja. <!--Reescrever o artigo de tipo de lista -->
-</div>
+>ℹ️ Antes de editar este template, é necessário [criar o Tipo de Lista](http://help.vtex.com/pt/tutorial/criando-tipo-de-lista) que será oferecido na sua loja. <!--Reescrever o artigo de tipo de lista -->
 
 O template para criação de listas está localizado na rota `giftlist/create`. O template default desta rota é o `new-GiftList-Create`, localizado na seção `HTML Templates` do seu CMS.
 

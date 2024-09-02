@@ -18,9 +18,7 @@ internalReference: 921115
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al dar de alta un nuevo cliente mediante el Admin Clientes B2B, el desplegable del centro de coste sólo muestra 25 opciones.

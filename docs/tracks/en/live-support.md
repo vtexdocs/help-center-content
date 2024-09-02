@@ -35,9 +35,7 @@ If you choose not to provide it, you need to define an unavailability message in
 ![fuso horário en](https://images.ctfassets.net/alneenqid6w5/6cJ4PNNKSc4LQl7MHuBLNA/867851568c68409ae8242293cb30bdd6/horarios_de_funcionamento_en.png)
 3. Select the days and set the business hours of your live support. You can specify more than one window per weekday.
 
-<div class="alert alert-info">
-In case of bank or regional holidays or other dates when support will be unavailable, indicate the date and time. If the windows repeat yearly, you can select "Yearly recurrence," presetting the configuration for future windows.
-</div>
+>ℹ️ In case of bank or regional holidays or other dates when support will be unavailable, indicate the date and time. If the windows repeat yearly, you can select "Yearly recurrence," presetting the configuration for future windows.
 
 <ol start="4">
   <li>If there are any service exceptions, indicate the unavailability windows.<br><img src="//images.ctfassets.net/alneenqid6w5/2z0LWtsZqBbxpjbf060Hvu/21c42d8dfb5bb4657ee02d5595431f66/image_3_en.png" alt="exceções ou feriados"></li>

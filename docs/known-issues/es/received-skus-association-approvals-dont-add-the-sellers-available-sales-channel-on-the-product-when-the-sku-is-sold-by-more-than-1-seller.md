@@ -18,9 +18,7 @@ internalReference: 562472
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Un producto vendido por otro vendedor en el catálogo del mercado está disponible para ser vendido en el canal de ventas de este vendedor.

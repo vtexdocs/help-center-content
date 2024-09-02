@@ -57,9 +57,7 @@ Ao ser notificado, o usuário deverá:
 
 Os demais pedidos, classificados nas faixas de variação de preço cujas regras não pedem aprovação por usuário, serão aprovados ou negados pelo sistema automaticamente. 
 
-<div class="alert alert-info">
-É possível configurar uma hierarquia de usuários para aprovações de pedidos, isso é, para aprovações em cadeia. Para isso, basta inserir mais de um e-mail em Pessoas autorizadas e escolher a ordenação desejada dos usuários cadastrados.  
-</div>
+>ℹ️ É possível configurar uma hierarquia de usuários para aprovações de pedidos, isso é, para aprovações em cadeia. Para isso, basta inserir mais de um e-mail em Pessoas autorizadas e escolher a ordenação desejada dos usuários cadastrados.
 
 
 

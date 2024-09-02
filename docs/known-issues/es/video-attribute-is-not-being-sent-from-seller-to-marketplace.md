@@ -18,9 +18,7 @@ internalReference: 519412
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Las integraciones VTEX<>VTEX no están pudiendo enviar atributos de vídeo del vendedor al mercado.

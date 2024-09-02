@@ -18,13 +18,9 @@ Para permitir transações por meio de máquinas de cartão usando o inStore, vo
 
 A __Stone__ é um sub-adquirente homologado pelo inStore no Brasil.
 
-<div class="alert alert-info">
-Se você deseja usar a Stone em um país diferente ou se deseja usar outro adquirente que atualmente não é certificado, precisará criar a integração com o aplicativo desse adquirente. Para fazer isso, consulte o artigo <a href="https://help.vtex.com/pt/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod">Integrar o inStore a um novo adquirente de pagamento</a>.
-</div>
+>ℹ️ Se você deseja usar a Stone em um país diferente ou se deseja usar outro adquirente que atualmente não é certificado, precisará criar a integração com o aplicativo desse adquirente. Para fazer isso, consulte o artigo [Integrar o inStore a um novo adquirente de pagamento](https://help.vtex.com/pt/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod).
 
-<div class="alert alert-info">
-Atualmente, a Stone é suportada apenas por sistemas <b>Android</b>, com máquinas de cartão <b>Gertec GPOS700</b>. Para outras máquinas de cartão, a Stone recomenda o uso do <a href="https://help.vtex.com/pt/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy/1obqdkoH82yFWtaMbwcJKx">Pagar.me</a>.
-</div>
+>ℹ️ Atualmente, a Stone é suportada apenas por sistemas **Android**, com máquinas de cartão **Gertec GPOS700**. Para outras máquinas de cartão, a Stone recomenda o uso do [Pagar.me](https://help.vtex.com/pt/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy/1obqdkoH82yFWtaMbwcJKx).
 
 Antes de instalar o aplicativo da Stone, verifique se você concluiu a etapa anterior da configuração do módulo Pagamentos.
 

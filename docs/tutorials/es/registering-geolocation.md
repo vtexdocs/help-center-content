@@ -32,9 +32,7 @@ Accediendo a través del enlace [Genere sus polígonos con geojson.io](http://ge
 
 Usted usará ese JSon para añadir el polígono en la plataforma, que comprenderá a partir de ese lenguaje cuáles códigos postales están incluidos en esa área.
 
-<div class="alert alert-danger">
-En la configuración de un polígono, no es posible delimitar áreas superpuestas, o sea, no es posible superponer coordenadas geográficas.
-</div>
+>❗ En la configuración de un polígono, no es posible delimitar áreas superpuestas, o sea, no es posible superponer coordenadas geográficas.
 
 ## Cómo añadir un Polígono
 
@@ -59,9 +57,7 @@ Un ejemplo de cómo quedaría es:
 
 Después, basta guardar.
 
-<div class = "alert alert-warning">
- Listo, ahora es sólo utilizar ese mismo ID en la plantilla de flete en la columna <b>PolygonName</b>. Es importante atentarse en el llenado, pues ese transportista no utilizará las columnas <b>ZipCodeStart</b> y <b>ZipCodeStart</b>, que deberán quedar en blanco.
-</div>
+>⚠️ Listo, ahora es sólo utilizar ese mismo ID en la plantilla de flete en la columna **PolygonName**. Es importante atentarse en el llenado, pues ese transportista no utilizará las columnas **ZipCodeStart** y **ZipCodeStart**, que deberán quedar en blanco.
 
 En **Configuración de la tienda > Storefront > Checkout**, en la [pestaña Checkout](https://help.vtex.com/es/tutorial/geolocalizacao-no-checkout/), el campo API Key debe rellenarse con la misma clave que se utilizó para activar la geolocalización.
 
@@ -86,6 +82,4 @@ Caso necesite alterar algún lugar de entrega de un polígono que ya existe, ust
 
 Aquí el proceso es todavía más simples, pues no será necesario alterar ninguna información en la plantilla de flete, visto que es a través del ID que el sistema hace la consulta.
 
-<div class = "alert alert-warning"> 
-  En el caso de que el transportista y la hoja de flete hayan sido creados antes de registrar el Polígono, recomendamos que sea editada la compañía que tiene vínculo con ese Polígono, para actualizar la relación. Con esto después de la Creación o Cambio de un Poligono, abra la compañía y haga clic en Guardar, sólo para sensibilizar una actualización.
-</div>
+>⚠️ En el caso de que el transportista y la hoja de flete hayan sido creados antes de registrar el Polígono, recomendamos que sea editada la compañía que tiene vínculo con ese Polígono, para actualizar la relación. Con esto después de la Creación o Cambio de un Poligono, abra la compañía y haga clic en Guardar, sólo para sensibilizar una actualización.

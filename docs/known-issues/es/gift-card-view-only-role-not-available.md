@@ -18,9 +18,7 @@ internalReference: 1074878
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Aunque tenemos los recursos "Visor de Tarjetas de Regalo" y "Ver Tarjetas de Regalo" en el Producto "Tarjeta de Regalo" (Configuración de Cuenta > Roles de Usuario) ambos permiten a los usuarios crear y editar Tarjetas de Regalo.

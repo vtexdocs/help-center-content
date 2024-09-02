@@ -18,9 +18,7 @@ internalReference: 1065954
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando você instala um aplicativo da App Store e acessa suas configurações, você tem a opção "**Uninstall**", que exclui o aplicativo do espaço de trabalho, mas mantém suas configurações, e a opção "**Delete**", que exclui o aplicativo e suas configurações.

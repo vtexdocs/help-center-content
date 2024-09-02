@@ -18,9 +18,7 @@ internalReference: 367276
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Existe la posibilidad de crear un dependiente adicional, cuando se crea una cuenta en Crédito Cliente y al hacerlo, la cuenta dependiente está mostrando un error cuando se accede a MisCréditos (dentro de Mi Cuenta)

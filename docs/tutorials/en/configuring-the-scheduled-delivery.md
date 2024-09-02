@@ -15,9 +15,7 @@ legacySlug: configuring-the-scheduled-delivery
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-<div class="alert alert-info">
-Warning: This documentation is being updated to reflect the concept change from Dashboards to <a href="https://help.vtex.com/en/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">shipping strategy</a>.
-</div>
+>ℹ️ Warning: This documentation is being updated to reflect the concept change from Dashboards to [shipping strategy](https://help.vtex.com/en/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl).
 
 
 The scheduled delivery is a feature that allows you to customize delivery times and to set specific deadlines and prices, as well as enables the customers to choose the period when they wish to receive your order. 

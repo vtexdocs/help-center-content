@@ -15,9 +15,7 @@ legacySlug: integracao-entre-marketplace-nao-vtex-e-sellers-vtex-acoes-referente
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-<div class="alert alert-warning">
-Check out the updated version of this <a href="https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide">marketplace integration guide</a> in our Developer Portal. 
-</div>
+>⚠️ Check out the updated version of this [marketplace integration guide](https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide) in our Developer Portal.
 
 One of the steps in integrating a non-VTEX Marketplace with a VTEX Seller is to allow queries to VTEX __Catalog__ to get information on price, inventory, catalog, and shipping data changes.
 
@@ -293,9 +291,21 @@ The Marketplace should use the __API Fulfillment Simulation__ to get the followi
 
 This call simulates a cart in VTEX Checkout, responding with the most updated version of the data.
 
-<div class="alert alert-warning">
-The Fulfillment Simulation call must be used by the Marketplace whenever it needs to obtain updated price, inventory or shipping data. To offer a real-time integration and, consequently, a fluid buying experience, the Marketplace must obtain this data at every step of the client's journey in the store: :<br>- Window display<br>- Product page<br>- Cart<br>- Checkout<br>- Order Placed<br><br>Hence, you ensure that clients are not caught off-guard by potential SKU changes that the Seller failed to inform the Marketplace about. 
-</div>
+>⚠️ The Fulfillment Simulation call must be used by the Marketplace whenever it needs to obtain updated price, inventory or shipping data. To offer a real-time integration and, consequently, a fluid buying experience, the Marketplace must obtain this data at every step of the client's journey in the store: :
+>
+> - Window display
+>
+> - Product page
+>
+> - Cart
+>
+> - Checkout
+>
+> - Order Placed
+>
+> 
+>
+> Hence, you ensure that clients are not caught off-guard by potential SKU changes that the Seller failed to inform the Marketplace about.
 
 ### REST API call example:
 
@@ -341,9 +351,7 @@ Access a VTEX (*Seller*) store and search for SKU price, inventory and shipping 
 | quantity       | integer       |   Quantity of desired SKU  |  Yes  |
 | seller       | string       |   ID of Seller selling desired SKU. In a fulfillment simulation context, the seller must always be equal to "1" - "seller 1" means that it's the fulfillment itself.  |   Yes   |
 
-<div class="alert alert-warning">
-The simulation to fetch price/availability must be done with only <strong>1 unit</strong> of the specific item. Cart simulations must obviously include all the desired items, so as to guarantee these items' context when bundled in the cart, which becomes especially important for shipping calculations. 
-</div>
+>⚠️ The simulation to fetch price/availability must be done with only **1 unit** of the specific item. Cart simulations must obviously include all the desired items, so as to guarantee these items' context when bundled in the cart, which becomes especially important for shipping calculations.
 
 #### Response body example
 

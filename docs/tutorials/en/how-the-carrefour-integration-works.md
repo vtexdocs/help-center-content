@@ -47,14 +47,12 @@ For products to be displayed in Carrefour, the integration sends the following _
 _Caption:_
 `*` Required fields.<br />
 
-<div class="alert alert-warning">Carrefour does not accept products with variations (more than one SKU).</div>
+>⚠️ Carrefour does not accept products with variations (more than one SKU).
 
 ### Product display
 Since batches of products and offers are sent successfully and validated by Carrefour, all variations/SKUs of the same product are displayed together in the same group.
 
-<div class="alert alert-info">
-Ex: Blue Shirt (product) | S, M, L (variations/SKUs)
-</div>
+>ℹ️ Ex: Blue Shirt (product) | S, M, L (variations/SKUs)
 
 ### Product status
 With all products correctly processed and cataloged by Carrefour, offers can have the following statuses:
@@ -67,9 +65,7 @@ When sent successfully for the first time, the products undergo an internal cata
 
 For example, if the product description is changed, the integration will not update it in the marketplace. To make a change, you will need to contact Carrefour directly.
 
-<div class="alert alert-warning">
-<strong>NOTE:</strong> a product can not be deleted in the Carrefour panel. If this happens, the integration will not be able to send it again.
-</div>
+>⚠️ **NOTE:** a product can not be deleted in the Carrefour panel. If this happens, the integration will not be able to send it again.
 
 ## 2. Inventory
 When a product is sent for the first time, the inventory is sent as well. However, it is discarded by Carrefour, as they only accept inventories for products already cataloged. This policy exists so that the inventory available in the marketplace is always the most up-to-date.
@@ -85,9 +81,7 @@ However, Carrefour does not notify VTEX when everything has been approved. This 
 
 Once products receive the first price load, the upgrade is made SKU by SKU whenever prices undergo any changes inside VTEX. This update is sent in batches every 6 minutes, which means the integration gathers all the updates from your store during 6 minutes and then sends everything at once. If the price update is taking longer than expected, there is probably a lot of information in queue to be updated.
 
-<div class="alert alert-warning">
-Note that for prices with expiration date the system does not notify affiliates when the date expires. Thus, the base price will only be sent at the next price load.
-</div>
+>⚠️ Note that for prices with expiration date the system does not notify affiliates when the date expires. Thus, the base price will only be sent at the next price load.
 
 For each SKU, the integration sends only the final price, based on the response of the fulfillment simulation. In a standard scenario, the price sent will always be determined considering the sales policy associated with the integration. However, there are factors that can influence the final price, such as benefits and fixed prices.
 
@@ -95,11 +89,11 @@ _`Example 1`: A promotion that offers a 10% discount for a certain category._
 
 _`Example 2`: In the sales policy used in Carrefour, an SKU is priced at $ 10 with a fixed price of $ 15. The value that the integration sends to the marketplace is $ 15._
 
-<div class="alert alert-warning">
-<strong>Attention:</strong> As the payment method is given in the marketplace, payment rules are also determined by it. Because of this, the integration can not send differentiated prices according to the payment method.
-<br />
-<em>Ex: If the interest rate for installment payments is configured in VTEX, the price that is sent will still be the one that was returned by the fulfillment simulation.</em>
-</div>
+>⚠️ **Attention:** As the payment method is given in the marketplace, payment rules are also determined by it. Because of this, the integration can not send differentiated prices according to the payment method.
+>
+>
+> 
+> *Ex: If the interest rate for installment payments is configured in VTEX, the price that is sent will still be the one that was returned by the fulfillment simulation.*
 
 ## 4. Benefits
 Unlike a benefit used for your store's website, a marketplace benefit only discounts the value of the product, but without indicating that it is a benefit. That is, the price sent is already modified and there is no benefit tag.
@@ -122,9 +116,7 @@ Order details are directly influenced by factors such as delivery, price and ava
 #### Shipping
 At the time of ordering, Carrefour querries the shipping table registered in VTEX. Our platform returns to them the available shipping options, according to the mapping informed in the integration settings. It's important to keep in mind that the query is only possible if the Shipping API is registered in the Carrefour panel.
 
-<div class="alert alert-warning">
-If none of the fields in the mapping is filled correctly, it will not be possible to simulate shipping in VTEX. With this, orders placed on Carrefour will not be integrated.
-</div>
+>⚠️ If none of the fields in the mapping is filled correctly, it will not be possible to simulate shipping in VTEX. With this, orders placed on Carrefour will not be integrated.
 
 If the Shipping API is not registered, Carrefour will use a __contingency table__ to do the calculation. In this case, Carrefour sends the order information and the integration tries to make a _match_ of the shipping calculated with the carrier that best fits within VTEX (we use the __type__ of carrier as a parameter). If there is no match, there will be an error in the order integration. To solve this, you will need to do the shipping mapping first and then reprocess the order.
 
@@ -149,9 +141,7 @@ During this process, the order may not be integrated for some reason. You can ch
 
 After the integration takes place, orders continue to be treated with the same ID used in Carrefour.
 
-<div class="alert alert-warning">
-Orders with some kind of incident are not integrated. If the incident happens after the order is integrated, a warning will be displayed on the Tracking tab in VTEX Admin.
-</div>
+>⚠️ Orders with some kind of incident are not integrated. If the incident happens after the order is integrated, a warning will be displayed on the Tracking tab in VTEX Admin.
 
 ### 5.3 Order interaction
 Once the order has been successfully integrated, you can interact with it both through VTEX Admin and through the Carrefour admin panel. However, some actions may or may not be applied on both sides.

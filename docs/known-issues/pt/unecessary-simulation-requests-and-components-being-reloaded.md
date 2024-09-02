@@ -18,9 +18,7 @@ internalReference: 648298
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Pedidos múltiplos de simulação podem ser feitos após alterações na ordemFormulário. Isto está relacionado com o cálculo _lean shipping_ para calcular os pacotes de envio.

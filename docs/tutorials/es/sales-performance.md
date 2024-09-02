@@ -35,9 +35,7 @@ Para asegurarte de que tienes acceso tanto a los últimos datos actualizados com
 
 Estos grupos también son procesados por sistemas diferentes, lo que puede provocar una diferencia entre los datos del OMS y los del Desempeño de las Ventas, aunque nuestro objetivo es presentar una divergencia máxima del 3%.
 
-<div class ="alert alert-warning">
-Por ejemplo, puede que haya diferencias entre las métricas de ingresos y ticket promedio registradas en el OMS y Desempeño de Ventas. Esto se debe a que Desempeño de Ventas considera el valor de los ítems, mientras que el OMS también toma en cuenta descuentos, valor de envío, impuestos y promociones en el pedido, lo que puede aumentar o disminuir el valor final.
-</div>
+>⚠️ Por ejemplo, puede que haya diferencias entre las métricas de ingresos y ticket promedio registradas en el OMS y Desempeño de Ventas. Esto se debe a que Desempeño de Ventas considera el valor de los ítems, mientras que el OMS también toma en cuenta descuentos, valor de envío, impuestos y promociones en el pedido, lo que puede aumentar o disminuir el valor final.
 
 ## Periodo
 
@@ -211,9 +209,7 @@ La lista representa las métricas y los filtros aplicados al gráfico en formato
   - __Absoluta__: visualiza en números absolutos el aumento o disminución de las métricas de la lista entre un periodo y otro.   
   - __Representativa__: visualiza el porcentaje de representatividad de un elemento dentro de una métrica.  
 
-<div class="alert alert-info">
-Ten en cuenta que las métricas <i>Ticket promedio</i> y <i>Ítems por pedido</i> no tendrán disponible una vista de Porcentaje o Representativa, ya que son métricas que se calculan dividiendo otras, y la suma de todas las partes de cada una no es igual al Total.
-  </div>
+>ℹ️ Ten en cuenta que las métricas <i>Ticket promedio</i> y <i>Ítems por pedido</i> no tendrán disponible una vista de Porcentaje o Representativa, ya que son métricas que se calculan dividiendo otras, y la suma de todas las partes de cada una no es igual al Total.
 
 ### Exportar datos
 

@@ -22,9 +22,7 @@ Cuando los pedidos que utilizan la opción de recogida en la tienda llegan a VTE
 
 ![configurar pontosderetirada01 ES](https://images.contentful.com/alneenqid6w5/39DuF7GI3SC432EtzjWlwn/6361d5707ff1139a6dfed63d1c48380c/configurar_pontosderetirada01_ES.JPG)
 
-<div class="alert alert-info">
-Antes de crear los puntos de recogida, debe solicitar a Mercado Livre la activación de la modalidad “Recogida en la tienda”. Para eso, contacte a su asesor comercial de Mercado Libre o abra un ticket para el equipo de <a href="https://developers.mercadolivre.com.br/en_us/support/">Soporte.</a>
-</div>
+>ℹ️ Antes de crear los puntos de recogida, debe solicitar a Mercado Livre la activación de la modalidad “Recogida en la tienda”. Para eso, contacte a su asesor comercial de Mercado Libre o abra un ticket para el equipo de [Soporte.](https://developers.mercadolivre.com.br/en_us/support/)
 
 Para criar os pontos de retirada, você vai precisar:
 

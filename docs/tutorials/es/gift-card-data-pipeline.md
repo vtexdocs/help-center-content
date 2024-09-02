@@ -17,9 +17,7 @@ subcategory: oMrzcOMVbBpH0reeMFHFg
 
 El conjunto de datos de las `tarjetas de regalo` incluye información histórica sobre tarjetas de regalo creadas o modificadas. Este conjunto de datos proporciona solo información de las tarjetas creadas nativamente en VTEX, usando la [API de Giftcard](https://developers.vtex.com/docs/api-reference/giftcard-api).
 
-<div class="alert alert-warning"> 
-Las tarjetas de regalo creadas a través de aplicaciones personalizadas o externas no aparecerán en este modelo de datos. 
-</div>
+>⚠️ Las tarjetas de regalo creadas a través de aplicaciones personalizadas o externas no aparecerán en este modelo de datos.
 
 En este artículo puedes consultar la siguiente información:
 

@@ -18,9 +18,7 @@ internalReference: 577825
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O usuário não pode fazer o login após mudar a senha temporária e é direcionado para a tela para solicitar acesso

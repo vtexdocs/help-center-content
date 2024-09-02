@@ -31,9 +31,7 @@ A partir desta página, você pode realizar as seguintes ações:
 
 Para criar uma Audiência de campanha, em *Promoções > Audiências de campanhas*, você precisa clicar no botão `Nova Audiência de campanha` e seguir os passos descritos no artigo [Criar Audiência de campanha](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K).
 
-<div class="alert alert-warning">
-  <p>Após a criação da audiência de campanha, é preciso associá-la a uma <a href="https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume">Promoção de campanha</a> para que ela tenha efeito.</p>
-</div>
+>⚠️ Após a criação da audiência de campanha, é preciso associá-la a uma [Promoção de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume) para que ela tenha efeito.
 
 ### Visualizar audiências de campanha
 

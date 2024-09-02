@@ -18,9 +18,7 @@ internalReference: 784693
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Checkout UI desmarca a opção "Schedule all" na etapa de envio depois de atualizar a página, mesmo que a API ainda esteja selecionada. Este comportamento não tem impacto; o pedido terá a entrega programada selecionada.

@@ -18,9 +18,7 @@ internalReference: 1074168
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em um carrinho com itens para retirada e entrega, a simulação do checkout considera apenas as informações do objeto shippingData.address para a solicitação do serviço de imposto. Por exemplo, considerando que esses endereços são de estados diferentes e que o provedor de impostos considera impostos diferentes para cada estado, um dos itens terá o imposto errado aplicado.

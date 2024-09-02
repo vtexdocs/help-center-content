@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugEN: enabling-the-remarks-field-in-the-order-screen
 ---
 
-<div class="alert alert-danger">
-The customization explained in this article involves changing the JavaScript file <code>checkout-instore-custom.js</code>. This operation should only be performed by people with programming experience. Incorrect changes to this file can cause critical errors.
-</div>
+>❗ The customization explained in this article involves changing the JavaScript file `checkout-instore-custom.js`. This operation should only be performed by people with programming experience. Incorrect changes to this file can cause critical errors.
 
 The inStore app allows the use of a "Remarks" field, where it's possible to store additional information regarding the order.
 
@@ -45,9 +43,7 @@ window.LOCALE_MESSAGES = {
 };
 ```
  
-<div class="alert alert-danger">
-Do not remove any of the other properties present in the <code>window.INSTORE_CONFIG</code> object, to avoid breaking other functionalities.
-</div>
+>❗ Do not remove any of the other properties present in the `window.INSTORE_CONFIG` object, to avoid breaking other functionalities.
                              
 If it's necessary to apply some validation logic or mask to the data entered in this field, you can include in the `checkout-instore-custom.js` file a function that listens to the `note.visible` event, which is triggered when the modal is open, and then develop your logic.
 

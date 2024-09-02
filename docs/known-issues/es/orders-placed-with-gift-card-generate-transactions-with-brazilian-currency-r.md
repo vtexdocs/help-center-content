@@ -18,9 +18,7 @@ internalReference: 1083379
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Los pagos con Tarjeta Regalo no son creados con un `currencyCode`, como consecuencia las transacciones serán creadas con el R$ (Real Brasileño) por defecto, esto no ocurre cuando otro método de pago está presente (ej. Tarjeta Regalo + Tarjeta de Crédito).

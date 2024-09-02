@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'El Feed v1 y v2 del módulo de Gestión de Pedidos'
 ---
 
-<div class="alert alert-warning">
-A partir del 25 de julio de 2019, se descontinuará el Feed v1 y v2 del módulo de Gestión de Pedidos. Esto significa que, después de esta fecha, solo será posible utilizar el Feed v3.
-</div>
+>⚠️ A partir del 25 de julio de 2019, se descontinuará el Feed v1 y v2 del módulo de Gestión de Pedidos. Esto significa que, después de esta fecha, solo será posible utilizar el Feed v3.
 
 ## ¿Por qué VTEX está eliminando las versiones antiguas?
 

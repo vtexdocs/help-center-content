@@ -15,9 +15,7 @@ legacySlug: reports-for-advertisers-on-vtex-ad-network-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
-<div class="alert alert-info">
-  <p>This feature is currently in beta, which means we are working on improving it. If you are already a client and want to adopt VTEX Ad Network for your business, please contact <a href="https://help.vtex.com/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Sales Support</a>. If you are not yet a client but are interested in this solution, please complete the <a href="https://vtex.com/us-en/contato/">contact form</a>.</p>
-</div>
+>ℹ️ This feature is currently in beta, which means we are working on improving it. If you are already a client and want to adopt VTEX Ad Network for your business, please contact [Sales Support](https://help.vtex.com/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). If you are not yet a client but are interested in this solution, please complete the [contact form](https://vtex.com/us-en/contato/).
 
 [VTEX Ad Network (Beta)](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur) allows you to advertise your products on VTEX stores that have them listed in their catalog.  
 

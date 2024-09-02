@@ -24,9 +24,7 @@ Veja abaixo o que é necessário para habilitar essa funcionalidade.
 - [Requisitos](#requisitos)
 - [Escolher pontos de retirada](#escolher-pontos-de-retirada)
 
-<div class="alert alert-info">
-  <p>A funcionalidade de pontos de retirada está disponível apenas para as contas que já têm acesso ao <a href="https://help.vtex.com/pt/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH">Checkout V6</a>.</p>
-</div>
+>ℹ️ A funcionalidade de pontos de retirada está disponível apenas para as contas que já têm acesso ao [Checkout V6](https://help.vtex.com/pt/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH).
 
 ## Requisitos
 

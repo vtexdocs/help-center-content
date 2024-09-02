@@ -44,6 +44,4 @@ We have improved the integration with Amazon to allow VTEX sellers to:
 
 Every seller using the [native](https://help.vtex.com/pt/tutorial/integrando-com-marketplace/) VTEX–Amazon [integration](https://help.vtex.com/pt/tutorial/integrando-com-marketplace/) can benefit from this improvement with no additional cost associated with VTEX. To enable the VTEX Admin feature, you have to register and configure one of the options in Amazon [Seller Central](https://sellercentral.amazon.com/). Then follow the instructions on the [FBA Classic or DBA Order Import](https://help.vtex.com/pt/tutorial/importacao-de-pedidos-amazon-fba-dba) page.
 
-<div class = "alert alert-info">
-The DBA order import feature is available for VTEX stores in Brazil.
-</div>
+>ℹ️ The DBA order import feature is available for VTEX stores in Brazil.

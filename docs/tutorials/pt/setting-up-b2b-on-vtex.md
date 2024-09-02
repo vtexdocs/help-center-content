@@ -21,9 +21,7 @@ Na VTEX, ambientes B2B normalmente são completamente ou parcialmente bloqueados
 
 Veja abaixo as configurações necessárias para criar uma loja B2B, na VTEX.
 
-<div class="alert alert-info">
-<p>Toda loja B2B se preparando para entrar em produção e fazer configuração final de domínio deve contatar <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a> com antecedência e solicitar que a configuração interna seja feita.</p>
-</div>
+>ℹ️ Toda loja B2B se preparando para entrar em produção e fazer configuração final de domínio deve contatar [nosso Suporte](https://support.vtex.com/hc/pt-br/requests) com antecedência e solicitar que a configuração interna seja feita.
 
 ## Pré-requisito
 
@@ -65,9 +63,7 @@ O usuário que ainda não é cadastrado no site precisa ter uma interface para r
 
 Dessa forma, é necessário definir os campos desse pré-cadastro. Normalmente, os B2Bs utilizam informações de cliente (nome, e-mail, telefone, etc) e endereço (rua, bairro, cidade, etc) para esse pré-cadastro. Confira o artigo [Importar dados de clientes](https://help.vtex.com/pt/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar dados de clientes - Brasil") para mais informações sobre os dados necessários.
 
-<div class="alert alert-warning">
-  <p>O campo utilizado como regra condicional na política comercial nunca poderá fazer parte desse formulário, uma vez que o próprio usuário não pode realizar sua própria aprovação, cabendo à loja essa responsabilidade.</p>
-</div>
+>⚠️ O campo utilizado como regra condicional na política comercial nunca poderá fazer parte desse formulário, uma vez que o próprio usuário não pode realizar sua própria aprovação, cabendo à loja essa responsabilidade.
 
 ## 4. Criar formulário de pré-cadastro
 
@@ -79,7 +75,4 @@ As informações submetidas no formulário deverão ser enviadas para o CRM atra
 
 Com tudo configurado e, finalmente, com o B2B em produção, a rotina do lojista dependerá das regras e necessidades de seu negócio. Basicamente, a cada novo cadastro, o lojista deverá avaliar o usuário e aprová-lo ou não na interface do CRM, que pode ser acessada pela URL `http://{nome_da_conta}.vtexcrm.com.br/`.
 
-<div class="alert alert-info">
-  <p>Este artigo descreve as configurações básicas de um B2B, porém, é possível customizar o sistema para essa necessidade de várias formas, inclusive, enviando emails (triggers) a partir de eventos pré-definidos.
-</p>
-</div>
+>ℹ️ Este artigo descreve as configurações básicas de um B2B, porém, é possível customizar o sistema para essa necessidade de várias formas, inclusive, enviando emails (triggers) a partir de eventos pré-definidos.

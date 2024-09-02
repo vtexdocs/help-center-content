@@ -39,9 +39,7 @@ Siga o passo a passo abaixo para cadastrar um estoque na sua loja:
 
 ## API REST
 
-<div class="alert alert-warning">
-As autenticações para as chamadas de API REST do módulo de Estoque & Entrega devem ser feitas via AppKey e AppToken. Para entender mais, acesse nosso artigo sobre <a href="https://help.vtex.com/pt/tutorial/criar-appkey-e-apptoken-para-autenticar-integracoes--43tQeyQJgAKGEuCqQKAOI2">como gerar um Appkey e um AppToken para autenticar suas integrações</a>
-</div>
+>⚠️ As autenticações para as chamadas de API REST do módulo de Estoque & Entrega devem ser feitas via AppKey e AppToken. Para entender mais, acesse nosso artigo sobre [como gerar um Appkey e um AppToken para autenticar suas integrações](https://help.vtex.com/pt/tutorial/criar-appkey-e-apptoken-para-autenticar-integracoes--43tQeyQJgAKGEuCqQKAOI2)
 
 Para cadastrar um **Estoque** por API, você precisa enviar um __POST__ para o seguinte endpoint:
 

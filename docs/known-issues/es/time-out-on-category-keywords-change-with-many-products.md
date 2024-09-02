@@ -18,9 +18,7 @@ internalReference: 497335
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 No se puede cambiar las palabras clave de una categoría con muchos productos, ya que se devuelve un timeout en el proceso, ya sea por el administrador o por la API
 

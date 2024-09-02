@@ -18,9 +18,7 @@ internalReference: 308892
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o cliente tenta adicionar um novo cartão na seção Minha conta de lojas cujas afiliações não retornam uma resposta síncrona, o sistema retorna _ocorreu um erro ao tentar registrar o cartão_ e uma cobrança indevida de R$ 1,50 pode ser gerada.

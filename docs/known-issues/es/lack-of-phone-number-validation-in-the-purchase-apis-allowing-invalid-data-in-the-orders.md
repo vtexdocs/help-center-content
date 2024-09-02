@@ -18,9 +18,7 @@ internalReference: 680500
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La validación de un número de teléfono está restringida al formulario donde se inserta o edita a través de la interfaz en el paso de perfil de compra. Los valores insertados directamente a través de las APIs REST a un orderForm o a un pedido, o que provengan del perfil del cliente (que, a su manera, pueden ser insertados por diferentes vías) no son validados por la plataforma.

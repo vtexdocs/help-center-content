@@ -18,9 +18,7 @@ internalReference: 982830
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Um produto cujo preço de venda é menor do que o preço de tabela será sinalizado como parte de uma promoção para fins de filtragem de pesquisa. Os produtos com algum multiplicador de unidade podem resultar em um cálculo incorreto que pode afetar essa comparação, fazendo com que eles recebam esse sinalizador erroneamente.

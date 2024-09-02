@@ -18,9 +18,7 @@ internalReference: 362165
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O acesso ao módulo de catálogo também dá acesso ao módulo de cartões-presente através da interface de usuário.

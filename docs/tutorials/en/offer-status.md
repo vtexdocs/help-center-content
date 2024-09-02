@@ -108,9 +108,7 @@ You will be redirected to the corresponding page to make the necessary changes.
 
 To export the published offer list in XLSX format, click the down arrow icon at the top of the interface. The file will be sent to the email of the logged-in user. The export time depends on the volume of offers exported and on the processing circumstances of the VTEX platform.
 
-<div class="alert alert-info">
-  The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
-  </div>
+>ℹ️ The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
 
 ## Issues tab
 
@@ -181,9 +179,7 @@ You will be redirected to the corresponding page to make the necessary changes.
 
 To export the issues offer list in XLSX format, click the down arrow icon at the top of the interface. The file will be sent to the email of the logged-in user. The export time depends on the volume of offers exported and on the processing circumstances of the VTEX platform.
 
-<div class="alert alert-info">
-  The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
-  </div>
+>ℹ️ The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
 
 ## Awaiting Completion tab
 
@@ -236,6 +232,4 @@ You will be redirected to the corresponding page to make the necessary changes.
 
 To export the awaiting offer list in XLSX format, click the down arrow icon at the top of the interface. The file will be sent to the email of the logged-in user. The export time depends on the volume of offers exported and on the processing circumstances of the VTEX platform.
 
-<div class="alert alert-info">
-  The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
-  </div>
+>ℹ️ The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.

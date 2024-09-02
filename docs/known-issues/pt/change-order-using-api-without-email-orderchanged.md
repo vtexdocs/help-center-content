@@ -18,9 +18,7 @@ internalReference: 380509
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando a administração de uma conta muda o pedido aplicando descontos no valor e não nos itens usando API o e-mail de Pedido de Mudança não está sendo enviado ao cliente final.

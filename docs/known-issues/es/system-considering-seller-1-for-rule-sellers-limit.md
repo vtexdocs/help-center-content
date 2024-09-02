@@ -18,9 +18,7 @@ internalReference: 564614
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Hoy en día, en un escenario en el que tenemos una cuenta que utiliza una arquitectura en el modelo MOI (marketplace/vendedor multinivel), el sistema considera al vendedor 1 como parte del cálculo para limitar el número de vendedores en el carro que se puede configurar utilizando la clave maxNumberOfWhiteLabelSellers

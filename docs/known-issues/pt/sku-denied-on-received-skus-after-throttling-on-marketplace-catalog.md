@@ -18,9 +18,7 @@ internalReference: 970208
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao aprovar um novo produto em Skus recebidos (automática ou manualmente), o módulo de sugestões se comunica com o catálogo do Marketplace para executar a ação.

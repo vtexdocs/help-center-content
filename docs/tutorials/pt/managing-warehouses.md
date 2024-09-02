@@ -18,9 +18,7 @@ subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 
 O estoque é o espaço físico de armazenamento do ecommerce. Na plataforma VTEX, você pode adicionar itens aos estoques cadastrados na sua loja. Com os itens em estoque, é possível controlar movimentações, disponibilidade e gerenciar o envio dos itens pelas docas e [políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). 
 
-<div class="alert alert-info">
-Para entender melhor como a plataforma VTEX interpreta e define o funcionamento do estoque, consulte o artigo de <a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Estoque</a>.
-</div>
+>ℹ️ Para entender melhor como a plataforma VTEX interpreta e define o funcionamento do estoque, consulte o artigo de [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).
 
 Além disso, é possível cadastrar o estoque, as docas que escoarão os produtos, o tempo que os itens levam para ser transportados do estoque até a doca e o valor cobrado por esse transporte.
 
@@ -31,17 +29,18 @@ Este artigo contém as informações necessárias para:
 * [Editar um estoque existente](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137#editar-estoque).  
 * [Excluir um estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137#excluir-estoque).  
 
-<div class="alert alert-warning">
-A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:
-<body>
-<ol>
-<li><a href="https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV">Política Comercial;</a></li>
-  <li><a href="https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140">Política de Envio;</a></li>
-  <li><a href="https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW">Doca;</a></li>
-<li>Estoque.</li>
-</ol>
-</body>
-</div>
+>⚠️ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:
+> <body>
+>
+> [Política Comercial;](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+>
+> 2. [Política de Envio;](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140)
+>
+> 3. [Doca;](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
+>
+> Estoque.
+>
+> </body>
 
 ## Cadastrar estoque
 
@@ -83,6 +82,4 @@ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do
 3. No card do estoque desejado, selecione o <i class="fas fa-ellipsis-v"></i>.
 4. Selecione a opção `Deletar`.  
 
-<div class="alert alert-warning">
-Para adicionar itens ao estoque, é preciso cadastrar os itens primeiramente no catálogo. Depois de cadastrar os itens pelo <a href="https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR">catálogo</a>, e ter um estoque cadastrado, você deve associar os itens ao seu respectivo estoque pelo <a href="https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139">gerenciamento de inventário</a>.
-</div>
+>⚠️ Para adicionar itens ao estoque, é preciso cadastrar os itens primeiramente no catálogo. Depois de cadastrar os itens pelo [catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR), e ter um estoque cadastrado, você deve associar os itens ao seu respectivo estoque pelo [gerenciamento de inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).

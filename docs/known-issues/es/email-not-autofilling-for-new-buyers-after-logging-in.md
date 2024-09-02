@@ -18,9 +18,7 @@ internalReference: 920634
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando un nuevo comprador inicia sesión y procede al pago, el correo electrónico no se rellena automáticamente, lo que requiere que el cliente vuelva a introducir su correo electrónico. Esto también ocurre utilizando APIs y enviando cabeceras con las cookies del comprador.

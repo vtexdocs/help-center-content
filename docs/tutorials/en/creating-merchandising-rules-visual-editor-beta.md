@@ -15,9 +15,7 @@ legacySlug: creating-merchandising-rules-visual-editor-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-<div class="alert alert-info">
-  <p>This feature is in closed beta, which means that only selected customers can access it for now. If you are interested in implementing it for your business in the future, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support team</a>.</p>
-</div>
+>ℹ️ This feature is in closed beta, which means that only selected customers can access it for now. If you are interested in implementing it for your business in the future, please contact our [Support team](https://support.vtex.com/hc/pt-br/requests).
 
 To configure a VTEX Intelligent Search [merchandising rule](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) using[ Visual Editor](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao), follow the steps below.
 
@@ -48,9 +46,7 @@ To configure a VTEX Intelligent Search [merchandising rule](https://help.vtex.co
       Learn more about these actions in items **IV, V, VI, VIII, IX**, and **XI** of the [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section.
 9.	Click `Save`.
 
-<div class="alert alert-info">
-  <p>After saving, the changes to merchandising rules will take an average of two minutes to be updated.</p>
-</div>
+>ℹ️ After saving, the changes to merchandising rules will take an average of two minutes to be updated.
 
 ## Actions available in the Visual Editor
 

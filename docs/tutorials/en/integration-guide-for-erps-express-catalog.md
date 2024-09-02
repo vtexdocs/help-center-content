@@ -15,7 +15,7 @@ legacySlug: integration-guide-for-erps-express-catalog
 subcategory: 5fKgQZhrCw88ACy6Su6GUc
 ---
 
-<div class="alert alert-warning">This article is part of the <a href="https://help.vtex.com/tutorial/integration-guide-for-erps--3VuOwNLmb624ImooEIIkmO">ERP Integration Guide</a>.</div>
+>⚠️ This article is part of the [ERP Integration Guide](https://help.vtex.com/tutorial/integration-guide-for-erps--3VuOwNLmb624ImooEIIkmO).
 
 This document is intended to assist on the catalog, price and inventory integration of the ERP for a store hosted in VTEX, in a fast way.
 

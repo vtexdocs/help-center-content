@@ -18,9 +18,7 @@ internalReference: 326408
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O botão para excluir produtos no catálogo não está funcionando, ele simplesmente não reconhece nenhum clique do usuário

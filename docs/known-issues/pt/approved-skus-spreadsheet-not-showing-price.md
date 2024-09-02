@@ -18,9 +18,7 @@ internalReference: 552155
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 ao utilizar a opção de exportação na guia Aprovado SKUs Recebido, o arquivo excel não possui dados nos campos Preço de Venda, Moeda e Símbolo de Moeda.

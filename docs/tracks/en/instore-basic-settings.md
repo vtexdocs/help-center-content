@@ -16,15 +16,11 @@ trackSlugEN: instore-first-steps-and-configurations
 
 VTEX Sales App is one of VTEX's main products for [unified commerce](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) operations. It is an app that allows your store to provide a true omnichannel experience, integrating your online and physical channels and placing your customers at the core of the business.
 
-<div class="alert alert-info">
-<p>Before you start using VTEX Sales App, make sure your store meets all the <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u">prerequisites</a>.</p>
-</div>
+>ℹ️ Before you start using VTEX Sales App, make sure your store meets all the [prerequisites](https://help.vtex.com/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u).
 
 To use VTEX Sales App, you must follow the steps below in your main account.
 
-<div class="alert alert-warning">
-<p> It is not necessary to install or configure VTEX Sales App on franchise accounts that represent physical stores. The procedure described in this article must be performed only on the main brand account.</p>
-</div>
+>⚠️ It is not necessary to install or configure VTEX Sales App on franchise accounts that represent physical stores. The procedure described in this article must be performed only on the main brand account.
 
 ## Installing VTEX Sales App
 
@@ -68,9 +64,7 @@ If you choose to `Skip this step`, a fictitious store will be created for testin
 
 You must define an email and a name to be used as a sales associate’s login credentials. When you are ready, click on `Confirm`.
 
-<div class="alert alert-warning">
-<p>The email added in this screen <strong>cannot</strong> be in use on the VTEX platform Admin. Use sales associate emails that do not have Admin access.</p>
-</div>
+>⚠️ The email added in this screen **cannot** be in use on the VTEX platform Admin. Use sales associate emails that do not have Admin access.
 
 In this step, you’ll only add one of your sales associates. After configuring the basic settings, you can [add other sales associates](https://help.vtex.com/pt/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
 

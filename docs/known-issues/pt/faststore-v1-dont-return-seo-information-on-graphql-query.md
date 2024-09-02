@@ -18,9 +18,7 @@ internalReference: 929029
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao acessar o playground do Graphql para executar consultas no Faststore V1, temos uma consulta de produto. A documentação afirma que o campo SEO dessa consulta deve retornar as informações de SEO, mas isso não está acontecendo.

@@ -17,9 +17,7 @@ subcategory:
 
 En VTEX, ahora puede ofrecer el *gateway* [Spin Pay](https://spinpay.com.br/) para procesar los pagos en su tienda. A través de esta solución, podrá recibir pagos vía PIX (método de pago instantáneo en Brasil) y las principales billeteras digitales que actualmente están disponibles en el mercado. 
 
-<div class="alert alert-warning">
-  Para utilizar Spin Pay en VTEX, debe tener una <b>Application Key (App Key)</b> y una <b>Application Token (App Token)</b>. Estos datos únicamente se obtienen después de que Spin Pay aprueba su registro y usted firma el contrato de prestación de servicios. Si su registro ya ha sido aprobado y el contrato firmado, realice los siguientes pasos.
-   </div>
+>⚠️ Para utilizar Spin Pay en VTEX, debe tener una **Application Key (App Key)** y una **Application Token (App Token)**. Estos datos únicamente se obtienen después de que Spin Pay aprueba su registro y usted firma el contrato de prestación de servicios. Si su registro ya ha sido aprobado y el contrato firmado, realice los siguientes pasos.
 
 Realice los siguientes pasos para configurar Spin Pay en su tienda:
 
@@ -49,9 +47,7 @@ Cuando el gateway está instalado en su tienda, debe configurar la [condición d
 9. En __Usando Antifraude__, en caso de que haya contratado una solución, habilite el campo y seleccione la opción deseada.
 10. Haga clic en __Salva__ para guardar las configuraciones.
 
-<div class="alert alert-warning">
-  Spin Pay es una solución brasileña de pago instantáneo en la que el débito se efectúa directamente en la cuenta del consumidor. Por esta razón, no es posible ofrecer pagos en cuotas.
-   </div>
+>⚠️ Spin Pay es una solución brasileña de pago instantáneo en la que el débito se efectúa directamente en la cuenta del consumidor. Por esta razón, no es posible ofrecer pagos en cuotas.
 
 Cuando concluya todos los pasos, Spin Pay estará habilitado para procesar los pagos en su tienda.
 

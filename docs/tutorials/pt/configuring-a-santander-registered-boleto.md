@@ -15,14 +15,17 @@ legacySlug: configurar-boleto-registrado-santander
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-danger">Essa integração de pagamento não pode ser mais configurada na plataforma devido ao <a href="https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14">processo de remoção de provedores legados</a> e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.</div>
+>❗ Essa integração de pagamento não pode ser mais configurada na plataforma devido ao [processo de remoção de provedores legados](https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14) e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.
 
 O boleto bancário é uma das formas de pagamento mais populares no Brasil. Apesar de não apresentar a mesma praticidade dos cartões de crédito, muitos compradores a consideram uma opção mais segura e acessível para adquirir bens de valor elevado. Dessa maneira, disponibilizar o boleto bancário é uma boa opção para aumentar as vendas no e-commerce.
 
 Para utilizar o Boleto Registrado Santander na sua loja, siga as instruções abaixo.
 
-<div class="alert alert-warning">
-A configuração na VTEX só é feita após uma série de etapas exigidas pelo Santander, incluindo a Contratação do serviço e Emissão do certificado digital.<br/><br/>Caso precise de apoio técnico nessas etapas, procure uma agência parceira VTEX ou seu gerente de relacionamento do Santander.</div>
+>⚠️ A configuração na VTEX só é feita após uma série de etapas exigidas pelo Santander, incluindo a Contratação do serviço e Emissão do certificado digital.
+>
+> 
+>
+> Caso precise de apoio técnico nessas etapas, procure uma agência parceira VTEX ou seu gerente de relacionamento do Santander.
 
 ## Contratação do serviço
 Antes de tudo, é preciso [abrir uma Conta Empresarial](https://www.santander.com.br/conta-pessoa-juridica "abrir uma conta empresarial") no Santander e contratar o serviço [Cobrança Registrada Online XML](https://www.santander.com.br/servicos-financeiros/solucoes-de-recebimento/cobrancas "Cobrança Registrada Online XML"), informando que utilizará a integração homologada da VTEX. Guarde os dados fornecidos pelo banco, eles serão necessários para a etapa de configuração.
@@ -32,9 +35,7 @@ Para possibilitar um canal de comunicação segura entre sua loja VTEX e o siste
 
 Após escolher sua certificadora, você deve entrar em contato solicitando um Certificado tipo Client de 2048 bits. Recomendamos que a validade seja de 10 anos, para reduzir a necessidade de atualização das configurações na VTEX. 
 
-<div class="alert alert-info">
-Na maioria dos casos, o certificado usado para emissão de nota fiscal pode ser reaproveitado. Consulte seu gerente de relacionamento do Santander em caso de dúvidas.
-</div>
+>ℹ️ Na maioria dos casos, o certificado usado para emissão de nota fiscal pode ser reaproveitado. Consulte seu gerente de relacionamento do Santander em caso de dúvidas.
 
 Recomendamos o apoio de uma equipe técnica para preparação dos arquivos necessários para emissão e instalação do certificado digital adquirido. Caso seja seu primeiro contato com esses processos, recomendamos a familiarização com os conceitos relacionados à Infraestrutura de Chaves Públicas (ICP) vistos neste site: [Public Key Infrastructure (PKI) Overview](https://www.sslshopper.com/public-key-infrastructure-pki-overview.html "Public Key Infrastructure (PKI) Overview").
 
@@ -43,9 +44,7 @@ Para iniciar o processo de emissão do seu certificado digital, a certificadora 
 
 Sua equipe técnica deve ser capaz de criar este arquivo seguindo os passos deste site: [What is a CSR (Certificate Signing Request)?](https://www.sslshopper.com/what-is-a-csr-certificate-signing-request.html "What is a CSR (Certificate Signing Request)?") O arquivo CSR deve ser enviado para a certificadora.
 
-<div class="alert alert-warning">
-Uma <a href="https://www.ssls.com/knowledgebase/how-can-i-find-the-private-key-for-my-ssl-certificate/">chave privada</a> é criada quando um arquivo CSR é gerado. Guarde esta chave em local seguro, pois ela será necessária para a instalação do certificado.
-</div>
+>⚠️ Uma [chave privada](https://www.ssls.com/knowledgebase/how-can-i-find-the-private-key-for-my-ssl-certificate/) é criada quando um arquivo CSR é gerado. Guarde esta chave em local seguro, pois ela será necessária para a instalação do certificado.
 
 Quando seu certificado digital for emitido, a certificadora enviará o arquivo [CER](https://www.file-extension.info/pt/format/cer "CER") correspondente. O arquivo CER deve ser enviado para o Santander para instalação do seu certificado no ambiente de segurança do banco.
 
@@ -53,9 +52,7 @@ Para a configuração da integração na VTEX, será preciso instalar o certific
 
 Sua equipe técnica deve ser capaz de fazer isso seguindo os passos deste site: [SSL Converter](https://www.sslshopper.com/ssl-converter.html "SSL Converter"). O arquivo PFX e senha do certificado serão usados para a configuração na VTEX. 
 
-<div class="alert alert-warning">
-É altamente recomendável que a geração dos arquivos CSR e PFX seja feita na sua própria máquina usando OpenSSL (MacOS / Linux) ou o Assistente para Exportação de Certificados (Windows) para que você possa manter a segurança da chave privada e senha do certificado.
-</div>
+>⚠️ É altamente recomendável que a geração dos arquivos CSR e PFX seja feita na sua própria máquina usando OpenSSL (MacOS / Linux) ou o Assistente para Exportação de Certificados (Windows) para que você possa manter a segurança da chave privada e senha do certificado.
 
 ## Homologação
 
@@ -95,6 +92,4 @@ Para finalizar a configuração do boleto registrado Santander e disponibilizar 
 
 Se todos passos forem concluídos com sucesso, basta reativar a condição de pagamento para começar a oferecer o boleto registrado Santander como meio de pagamento para seus clientes.
 
-<div class="alert alert-info">
-O serviço do Santander não possui conciliação automática dos boletos emitidos pela VTEX. Por isso, é necessário importar um arquivo de retorno tipo .RET nos formatos CNAB (240/400) para aprovação dos pedidos pagos com boleto.
-</div>
+>ℹ️ O serviço do Santander não possui conciliação automática dos boletos emitidos pela VTEX. Por isso, é necessário importar um arquivo de retorno tipo .RET nos formatos CNAB (240/400) para aprovação dos pedidos pagos com boleto.

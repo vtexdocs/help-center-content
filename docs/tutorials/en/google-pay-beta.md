@@ -15,17 +15,13 @@ legacySlug: google-pay-beta
 subcategory: 3lZEaiSilZPwa3eCUUzwyr
 ---
 
-<div class = "alert alert-info">
-This module is in Beta, which means we are working on improving it. If you have any questions, please contact our <a href="https://help.vtex.com/en/support">Support team.</a>
-</div>
+>ℹ️ This module is in Beta, which means we are working on improving it. If you have any questions, please contact our [Support team.](https://help.vtex.com/en/support)
 
 Google Pay™ is a digital payments service that allows users not to share their actual card information with the store, providing more security and streamlining the checkout step. With Google Pay, users can make payments using credit or debit cards without having to enter any information manually, and Google Pay is also available in various apps, websites and in the Google Wallet. 
 
 The Google Pay API Terms of Service apply whenever the Google Pay service is offered by a merchant. To read the terms, please see [Google Pay API Terms of Service](https://payments.developers.google.com/terms/sellertos).
 
-<div class="alert alert-warning">
-<p>Google Pay is not available for Checkout V5 or earlier versions of Checkout.</p>
-</div>
+>⚠️ Google Pay is not available for Checkout V5 or earlier versions of Checkout.
 
 ## Enabling Google Pay
 
@@ -34,26 +30,20 @@ To enable Google Pay, follow the steps below.
 1. In the VTEX Admin, go to **Store Settings > Payments > Wallets** or type **Wallets** in the search bar at the top of the page.
 2. Select **Activate** to include the Google Pay extension.
 
-<div class = "alert alert-info">
-<p>The issuing banks supported by the Google Pay extension are the ones configured in the payment conditions.</p>
-</div>
+>ℹ️ The issuing banks supported by the Google Pay extension are the ones configured in the payment conditions.
 
 ![google pay - EN](https://images.ctfassets.net/alneenqid6w5/IhdcOpZC0MPaZLYbPUYw1/c1848f1deba2af0d837f96f21eae86a5/image.png)
 
 Google Pay will then be available in your VTEX store's checkout as a new payment method. It may take around 10 minutes to be implemented.
 
-<div class = "alert alert-warning">
-<p>For now, Google Pay does not support subscriptions.</p>
-</div>
+>⚠️ For now, Google Pay does not support subscriptions.
 
 To use Google Pay, you must meet the following requirements:
 
 * Having at least one active [payment condition](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) configured for credit or debit cards with an [acquirer](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#adquirente), establishing which acquirer will process the wallet payment.
 * Using [VTEX Checkout](https://help.vtex.com/en/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) in your store.
 
-<div class = "alert alert-warning">
-<p>For stores that have the <a href="https://help.vtex.com/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa">3DS</a> authentication flow configured and supported by the acquirer, payment with Google Pay will follow the card native flow and will use 3DS as well. For more information on how to configure the authentication flow, please refer to <a href="https://help.vtex.com/pt/tutorial/configurar-fluxo-de-autenticacao-3ds-2--58XMn5LOA6fwrSkoDoAsg2">Setting up 3DS 2 authentication flow</a>.</p>
-</div>
+>⚠️ For stores that have the [3DS](https://help.vtex.com/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) authentication flow configured and supported by the acquirer, payment with Google Pay will follow the card native flow and will use 3DS as well. For more information on how to configure the authentication flow, please refer to [Setting up 3DS 2 authentication flow](https://help.vtex.com/pt/tutorial/configurar-fluxo-de-autenticacao-3ds-2--58XMn5LOA6fwrSkoDoAsg2).
 
 ## Viewing transactions completed with Google Pay
 
@@ -70,9 +60,7 @@ To add the information that the order was placed with a Google Pay card to the e
 
 After this change, whenever there is any mention of the last four digits of the card in these email templates, the "(Google Pay)" information will be added for payments made with a digital wallet.
 
-<div class = "alert alert-info">
-<p>For stores provisioned as of March 2023, the templates will already be updated with the information for payments made with Google Pay.</p>
-</div>
+>ℹ️ For stores provisioned as of March 2023, the templates will already be updated with the information for payments made with Google Pay.
 
 ## FAQ
 

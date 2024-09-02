@@ -18,9 +18,7 @@ internalReference: 561186
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En el carrito, los periodos de suscripción están mal en UI. Pero, si nos fijamos en el orderForm, el período se muestra correctamente.

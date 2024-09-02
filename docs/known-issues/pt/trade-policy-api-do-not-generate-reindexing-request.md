@@ -18,9 +18,7 @@ internalReference: 276511
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Usar a API https://developers.vtex.com/vtex-rest-api/reference/catalog-api-trade-policy para inserir/excluir uma política comercial em um produto ou a API não gera uma solicitação de reindexação.

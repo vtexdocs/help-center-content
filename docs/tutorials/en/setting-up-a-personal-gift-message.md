@@ -50,6 +50,4 @@ You can view the written message on __My Account > My Orders__:
 
 ![](https://images.contentful.com/alneenqid6w5/6h7iGpA880OgaemumSsEiG/10764ef2d3113be498fb24802e5d35c5/mensagem-meus-pedidos.png)
 
-<div class="alert alert-info">
-  <p>After setting up the SKU service, wait for the indexing process for the registration to be effective on the website. Once the service is active, you will be able to test the purchase.</p>
-</div>
+>ℹ️ After setting up the SKU service, wait for the indexing process for the registration to be effective on the website. Once the service is active, you will be able to test the purchase.

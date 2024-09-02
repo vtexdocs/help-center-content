@@ -18,9 +18,7 @@ internalReference: 734221
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En algunos escenarios, cuando el usuario hace clic en el botón para borrar los filtros seleccionados en la página de búsqueda, los mismos filtros dejan de renderizarse y mostrarse en pantalla.

@@ -15,21 +15,15 @@ legacySlug: integrar-com-a-amazon
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class="alert alert-warning"> 
-Esta integração é válida apenas para as categorias <b>Atividades ao Ar Livre<b>, <b>Bagagens</b> <b>Computadores</b>, <b>Câmera e Foto</b>, <b>Casa e Jardim</b>, <b>Computadores</b>, <b>Eletrônicos</b>, <b>Esportes</b>, <b>Jóias</b>, <b>Livros</b>, <b>Materiais de Escritório</b>, <b>Ferragens</b>, <b>Games</b>, <b>Sapatos</b> e <b>Roupas</b>.
-</div>
+>⚠️ Esta integração é válida apenas para as categorias **Atividades ao Ar Livre<b>, <b>Bagagens** **Computadores**, **Câmera e Foto**, **Casa e Jardim**, **Computadores**, **Eletrônicos**, **Esportes**, **Jóias**, **Livros**, **Materiais de Escritório**, **Ferragens**, **Games**, **Sapatos** e **Roupas**.
 
-<div class="alert alert-warning">
-Esta integração está disponível para Brasil, México, Estados Unidos, Canadá e Europa.
-</div>
+>⚠️ Esta integração está disponível para Brasil, México, Estados Unidos, Canadá e Europa.
 
 ## Autorizar a VTEX no painel da Amazon
 
 Para realizar a integração com o Marketplace da Amazon, é necessário que o lojista dê, através da sua conta Amazon Seller Central pelo mercado dos Estados Unidos (_www.amazon.com_), a autorização para VTEX. 
 
-<div class="alert alert-warning">
-No painel da Amazon, sempre verifique se você ainda está conectado ao mercado dos Estados Unidos (www.amazon.com). Caso não esteja, você receberá uma mensagem de erro durante o processo de autorização e será necessária a troca do mercado para EUA(www.amazon.com) novamente.
-</div>
+>⚠️ No painel da Amazon, sempre verifique se você ainda está conectado ao mercado dos Estados Unidos (www.amazon.com). Caso não esteja, você receberá uma mensagem de erro durante o processo de autorização e será necessária a troca do mercado para EUA(www.amazon.com) novamente.
 
 Quando na etapa de cadastro de developer da Amazon, preencha os campos da seguinte forma:
 - Developer’s Name: VTEX  
@@ -47,9 +41,7 @@ Antes de configurar a integração, você deve verificar os seguintes pontos:
 
  - __Tempo de Custo:__ na Amazon existe o campo `fulfillment latency`, que é __usado para configurar o tempo de preparo da entrega de determinado produto__. Para preenche-lo massivamente via integração, é necessário preencher o campo [Tempo de Custo](http://help.vtex.com/pt/tutorial/como-cadastrar-doca) no cadastro da doca associada à política comercial usada para a Amazon. Caso este campo não esteja preenchido, a Amazon usará o valor *default* deles (2 dias).
   
-<div class="alert alert-warning">
-OBS: é importante preencher este campo pois, se a sua loja não estiver perfomando conforme o tempo de preparo configurado, ou seja, atrasando na entrega, a sua conta pode ser bloqueada.
-</div>
+>⚠️ OBS: é importante preencher este campo pois, se a sua loja não estiver perfomando conforme o tempo de preparo configurado, ou seja, atrasando na entrega, a sua conta pode ser bloqueada.
 
 ## Configuração da integração
   

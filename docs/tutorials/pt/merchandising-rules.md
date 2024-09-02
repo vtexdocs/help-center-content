@@ -51,9 +51,7 @@ Considere as recomendações a seguir para utilizar regras de merchandising na s
 * Se muitas regras de merchandising forem criadas, possivelmente a busca orgânica será muito impactada.
 * Tenha cuidado ao utilizar [regras de ativação](https://help.vtex.com/pt/tutorial/criar-regra-de-merchandising-editor-manual--3jrXB1MSvi14ezvKancorc#regras-de-ativacao) globais, pois elas impactam todas as buscas.
 
-<div class="alert alert-warning">
-  <p>Se o resultado de busca não estiver adequado, não recomendamos criar regras de merchandising para corrigi-lo, pois isso pode ser um indício de algum outro problema de configuração. Nesse caso, entre em contato com nosso <a href="https://support.vtex.com/hc/pt-br/requests">Suporte</a>.</p>
-</div>
+>⚠️ Se o resultado de busca não estiver adequado, não recomendamos criar regras de merchandising para corrigi-lo, pois isso pode ser um indício de algum outro problema de configuração. Nesse caso, entre em contato com nosso [Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 ## Saiba mais
 

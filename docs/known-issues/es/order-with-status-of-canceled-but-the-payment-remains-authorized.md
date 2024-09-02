@@ -18,9 +18,7 @@ internalReference: 420019
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En algunos casos en los que el pedido queda incompleto o anulado al producirse algún fallo de comunicación con la Pasarela, el pago queda autorizado y/o aprobado, no entrando en el flujo de anulación y no devolviéndose automáticamente el importe pagado. Además, se pueden enviar accidentalmente correos electrónicos transaccionales, que también permiten el pago de recibos bancarios, ya que la URL irá con él.

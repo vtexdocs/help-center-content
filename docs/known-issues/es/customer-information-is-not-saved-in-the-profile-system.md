@@ -18,9 +18,7 @@ internalReference: 784763
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 A veces, la información de un nuevo cliente no se guarda en el Sistema de Perfiles.

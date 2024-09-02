@@ -35,6 +35,4 @@ After registering the vendor in VTEX admin, he or she will need to log in to you
 To create a password for this vendor, enter your account's __admin__: https://{{AccountName}}.myvtex.com/admin and then follow this article: https://help.vtex.com/en/faq/how-to-retrieve-the-access-password
 __If you try to create the password in the e-commerce website rather than in the admin, inStore login won't work.__
 
-<div class="alert alert-warning">
-<strong>Important</strong>: besides setting up the vendor in VTable, you must create the user in the Admin, linking him or her to the <b>inStore Sales Person</b> access profile.
-</div>
+>⚠️ **Important**: besides setting up the vendor in VTable, you must create the user in the Admin, linking him or her to the **inStore Sales Person** access profile.

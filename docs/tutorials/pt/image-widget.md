@@ -42,13 +42,9 @@ Agora que você sabe como acessar o Image Widget, verifique o que você pode faz
 
 Depois de [acessar Image Widget](#acessando-image-widget) e com ele aberto você consegue adicionar imagens:
 
-<div class="alert alert-warning">
-Ao adicionar novas imagens no modal Image Widget usando um <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace">development workspace</a>, as configurações performadas serão salvas diretamente em master, ou seja, imediatamente refletirão no modal da sua loja.
-</div>
+>⚠️ Ao adicionar novas imagens no modal Image Widget usando um [development workspace](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace), as configurações performadas serão salvas diretamente em master, ou seja, imediatamente refletirão no modal da sua loja.
 <br>
-<div class="alert alert-warning">
-  O tamanho máximo que o Image Widget suporta é 4 MB por arquivo.
-</div>
+>⚠️ O tamanho máximo que o Image Widget suporta é 4 MB por arquivo.
 
 1. Clique em `Adicionar novo.`
 2. Escolha a imagem que deseja adicionar e clique em `Abrir.`
@@ -86,7 +82,5 @@ No bloco que você deseja substituir uma imagem:
 
 Para remover uma imagem do bloco desejado, clique em `Mais ações` na miniatura de uma imagem e selecione __remover__. Após esse procedimento, a imagem não estará mais visível no bloco.
 
-<div class="alert alert-warning">
-  Quando você remove uma imagem, isso não significa que ela seja excluída do repositório. Para isso, verifique a seção <a href="#recursos-dentro-do-image-widget">Recursos dentro do Image Widget</a>.
-</div>
+>⚠️ Quando você remove uma imagem, isso não significa que ela seja excluída do repositório. Para isso, verifique a seção [Recursos dentro do Image Widget](#recursos-dentro-do-image-widget).
 

@@ -18,9 +18,7 @@ internalReference: 1074878
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Embora tenhamos os recursos "Visualizador de cartão-presente" e "Exibir cartões-presente" no produto "GiftCard" (Configurações da conta > Funções do usuário), ambos permitem que os usuários criem e editem cartões-presente.

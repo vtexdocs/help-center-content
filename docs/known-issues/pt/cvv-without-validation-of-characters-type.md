@@ -18,9 +18,7 @@ internalReference: 425204
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 No checkout, pedimos informações de cartão de crédito e permitimos apenas que o cliente digite números no campo Número do Cartão, apenas letras no campo Nome do Proprietário do Cartão. Entretanto, não fazemos uma validação semelhante para o campo CVV, permitindo que o cliente digite letras neste campo

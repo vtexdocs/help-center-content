@@ -15,9 +15,7 @@ legacySlug: vtex-ad-network-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
-<div class = "alert alert-info">
-<p>O VTEX Ad Network está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o <a href="https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Suporte Comercial</a>. Se ainda não é cliente, mas tem interesse nesta solução, preencha o <a href="https://vtex.com/br-pt/contato/">formulário de contato</a>.</p>
-</div>
+>ℹ️ O VTEX Ad Network está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
 O **VTEX Ad Network** conecta lojas VTEX a marcas interessadas em anunciar seus produtos. Com esta conexão, anunciantes e lojas VTEX podem potencializar seu negócio:
 
@@ -72,9 +70,7 @@ Este processo de priorização ocorre em três etapas:
 
 Uma vez determinados os anúncios exibidos na página, determina-se o valor dos lances. O lance vencedor do leilão terá o valor final do segundo maior lance mais R$ 0,01.
 
-<div class="alert alert-danger">
-É possível que nenhum anúncio seja selecionado com o processo de priorização, caso não haja produtos promovidos que se encaixem no contexto de navegação, na cobertura de loja ou que não tenham orçamento disponível.
-</div>
+>❗ É possível que nenhum anúncio seja selecionado com o processo de priorização, caso não haja produtos promovidos que se encaixem no contexto de navegação, na cobertura de loja ou que não tenham orçamento disponível.
 
 ### Índice de qualidade
 
@@ -109,9 +105,7 @@ Confira abaixo como você pode fazer parte do **VTEX Ad Network**, seja como [lo
 
 ### Lojas
 
-<div class="alert alert-warning">
-Por ora, apenas lojas desenvolvidas com <a href="https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a> podem disponibilizar espaço de anúncios.
-</div>
+>⚠️ Por ora, apenas lojas desenvolvidas com [Store Framework](https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework) podem disponibilizar espaço de anúncios.
 
 Para disponibilizar espaço publicitário na sua loja, você precisa entrar em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) para solicitar a instalação do app __VTEX Ad Network para lojas__ na sua conta VTEX.
 

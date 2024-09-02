@@ -21,9 +21,7 @@ Hay dos opciones de _partners_ preintegrados con el comercio conversacional de V
 * [Zenvia](#integracion-zenvia)
 * [Zendesk](#integracion-zendesk)
 
-<div class="alert alert-info">
-<p>Comunícate con el equipo de desarrollo de VTEX si deseas hacer una integración con otras plataformas.</p>
-</div>
+>ℹ️ Comunícate con el equipo de desarrollo de VTEX si deseas hacer una integración con otras plataformas.
 
 ## Integración Zenvia
 

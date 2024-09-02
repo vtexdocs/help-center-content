@@ -28,9 +28,7 @@ También puede crear su propia plantilla de correo electrónico. Entienda mejor 
 
 ## Cómo su cliente acompaña sus pedidos de suscripción
 
-<div class = "alert alert-info">
-En <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>, los clientes solo pueden acceder a los pedidos de los últimos dos años.
-</div>
+>ℹ️ En [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
 
 Cada acción, que ocurre dentro del flujo de pedidos de Suscripción, contiene un gatillo que dispara un correo electrónico notificando a su cliente.  Una vez activada la suscripción, el cliente recibirá correos electrónicos con detalles del status de cada pedido de suscripción cada vez que realice una acción. 
 

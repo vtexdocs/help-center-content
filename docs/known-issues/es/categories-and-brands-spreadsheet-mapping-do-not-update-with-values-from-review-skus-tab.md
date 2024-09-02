@@ -18,9 +18,7 @@ internalReference: 1026699
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando un vendedor envía al marketplace una sku con una categoría o marca que aún no está mapeada en la hoja de cálculo, ésta se actualiza con este nuevo valor en la 3ª columna para poder ser mapeada.

@@ -91,7 +91,5 @@ To go to the **Archived Promotions** page, click the <i class="fas fa-ellipsis-v
 
 You can unarchive or duplicate archived promotions by clicking the <i class="fas fa-ellipsis-v"></i> icon.
 
-<div class="alert alert-info">
-  <p>When you unarchive a promotion, the status will change to <code>Paused</code>.</p>
-  </div>
+>ℹ️ When you unarchive a promotion, the status will change to `Paused`.
 

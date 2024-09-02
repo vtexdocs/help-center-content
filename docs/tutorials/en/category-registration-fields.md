@@ -19,15 +19,16 @@ To better understand the meaning of each category registration field, see the fu
 
 - __Name:__ the name you want to give to the department or category you're registering. Use simple words and avoid other languages or complex writing. This field is important for SEO and must respect the 150 character limit.
 
-  <div class="alert alert-danger">
-    <p>When filling in the category <b>Name</b>, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
-    <ul>
-      <li><code>a</code></li>
-      <li><code>meta</code></li>
-      <li><code>api</code></li>
-      <li><code>admin</code></li>
-    </ul></p>
-  </div>
+  >❗ When filling in the category **Name**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
+>
+> * `a`
+>
+> * `meta`
+>
+> * `api`
+>
+> * `admin`
+>     
 
 - __Similar words:__ synonyms of terms related to the name given to your department or category. "Television", for example, can have as a substitute word like "TV". This field is important to make your searches more comprehensive and must respect the 200 character limit.
 - __Category Page Title (Tag Title):__ text that is displayed in the browser tab and corresponds to the page title of the category. This field is important for SEO search engines. It only supports plain text and cannot contain HTML tags.

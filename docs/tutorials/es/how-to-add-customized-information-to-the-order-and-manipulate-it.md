@@ -32,9 +32,7 @@ Para trabajar con este campo, debe utilizar la API del Checkout de VTEX. Son nec
 
 Antes de rellenar el campo `customData`, es necesario utilizar la llamada [Update orderForm configuration](https://developers.vtex.com/reference/configuration#updateorderformconfiguration) para crear una app. Esta app contendrá los campos personalizados que se rellenarán durante el checkout.
 
-<div class="alert alert-warning">
-La llamada Update orderForm configuration define configuraciones que se aplican a todos los orderForms generados en su cuenta. Es decir, a partir del momento en que añade una app por medio de esta, todos los pedidos de la tienda contendrán los campos adicionales definidos en esta app. Esta llamada solo necesita realizarse una vez para crear una app y sus campos.
-</div>
+>⚠️ La llamada Update orderForm configuration define configuraciones que se aplican a todos los orderForms generados en su cuenta. Es decir, a partir del momento en que añade una app por medio de esta, todos los pedidos de la tienda contendrán los campos adicionales definidos en esta app. Esta llamada solo necesita realizarse una vez para crear una app y sus campos.
 
 Veamos un ejemplo del objeto `app` enviado en el body del request  Update orderForm configuration:
 

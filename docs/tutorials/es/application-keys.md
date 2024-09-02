@@ -33,9 +33,7 @@ Las claves de aplicación externas son credenciales generadas y administradas po
 
 ## Gestionar claves de aplicación
 
-<div class="alert alert-warning">
-  <p>Se requiere un <a href="https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">rol</a> con el recurso <a href="https://help.vtex.com/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3"></a> <strong>Save user</strong> para gestionar usuarios y claves de aplicación. El rol predeterminado para este fin es <a href="https://help.vtex.com/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted">User Administrator - RESTRICTED</a>, pero también es posible <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol">crear un rol personalizado</a> con este recurso.</p>
-</div>
+>⚠️ Se requiere un [rol](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) con el recurso [](https://help.vtex.com/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **Save user** para gestionar usuarios y claves de aplicación. El rol predeterminado para este fin es [User Administrator - RESTRICTED](https://help.vtex.com/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted), pero también es posible [crear un rol personalizado](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol) con este recurso.
 
 En la página **Claves de aplicación** puedes gestionar las claves de aplicación [internas](#claves-de-aplicacion-internas) y [externas](#claves-de-aplicacion-externas) que tienen acceso a tu cuenta, incluyendo:
 
@@ -47,9 +45,7 @@ En la página **Claves de aplicación** puedes gestionar las claves de aplicaci�
 
 Para acceder a esta página, en la barra superior del Admin VTEX, haz clic en el **avatar de tu perfil** (marcado con la inicial de tu email) y luego en **Configuración de la cuenta** > **Claves de aplicación**.
 
-<div class = "alert alert-info">
- <p>Consulta este artículo para saber más sobre <a href="https://help.vtex.com/es/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm">buenas prácticas para el uso de claves de aplicación.</p></a>
-</div>
+>ℹ️ Consulta este artículo para saber más sobre [buenas prácticas para el uso de claves de aplicación.](https://help.vtex.com/es/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm)
 
 ## Generar claves de aplicación internas
 
@@ -76,9 +72,7 @@ Para crear claves de aplicación internas en tu cuenta sigue los pasos a continu
 4. Haz clic en el botón `Agregar rol`.
 5. Haz clic en <img src="https://images.contentful.com/alneenqid6w5/3OX5lRYiaSEtQUDXoYJD32/6628b57d4ec1651bcb184ab31c4acd72/image1.png" alt="copy-button"/> para copiar el **Token de aplicación**. _Este secreto se mostrará una vez.  Guárdalo en un lugar seguro._
 
-<div class="alert alert-warning">
-  <p>Protege tus pares de claves y tokens de aplicación como lo harías con otras credenciales, como nombres de usuario y contraseñas. Si sospechas que una clave de aplicación está comprometida, debes desactivarla inmediatamente en tu cuenta. Para más detalles, consulta la sección <a href="#ativar-ou-desativar-chaves-de-aplicacao">Activar o desactivar claves de aplicación</a> de este artículo.</p>
-</div>
+>⚠️ Protege tus pares de claves y tokens de aplicación como lo harías con otras credenciales, como nombres de usuario y contraseñas. Si sospechas que una clave de aplicación está comprometida, debes desactivarla inmediatamente en tu cuenta. Para más detalles, consulta la sección [Activar o desactivar claves de aplicación](#ativar-ou-desativar-chaves-de-aplicacao) de este artículo.
 
 ## Agregar claves de aplicación externas
 
@@ -94,9 +88,7 @@ Para agregar claves de aplicación de terceros sigue los pasos a continuación:
 
 Para que una clave de aplicación pueda realizar requests de API a tu cuenta, debe estar activa y tener [roles](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) que especifiquen los recursos de la cuenta a los que puede acceder. 
 
-<div class="alert alert-danger">
-<p>El uso sin restricciones de roles muy permisivos aumenta el riesgo de ataques en las tiendas al filtrarse las credenciales de inicio de sesión.</p>
-</div>
+>❗ El uso sin restricciones de roles muy permisivos aumenta el riesgo de ataques en las tiendas al filtrarse las credenciales de inicio de sesión.
 
 Las claves de aplicación se crean, de manera predeterminada, sin permisos para acceder a ningún recurso de la cuenta.
 
@@ -122,17 +114,13 @@ Consulta a continuación los campos visibles en la página **Claves de aplicaci�
 - **Cuenta:** cuenta VTEX responsable de gestionar la clave de aplicación.
 - **Status:** status actual de la clave de aplicación, que puede ser activa o inactiva.
 
-<div class="alert alert-info">
-  <p>Observa que el campo <strong>Etiqueta</strong> no se muestra en la página <strong>Claves de aplicación</strong>. Para ver la descripción de la finalidad de una clave de aplicación interna, utiliza el valor de la<strong>Clave</strong> para encontrarla en la página <strong>Mis claves</strong>. No es posible agregar etiquetas a claves de aplicación externas.</p>
-</div>
+>ℹ️ Observa que el campo **Etiqueta** no se muestra en la página **Claves de aplicación**. Para ver la descripción de la finalidad de una clave de aplicación interna, utiliza el valor de la**Clave** para encontrarla en la página **Mis claves**. No es posible agregar etiquetas a claves de aplicación externas.
 
 ## Activar y desactivar claves de aplicación
 
 Si una clave de aplicación que tiene acceso a tu cuenta se ve comprometida, debes cancelar su acceso inmediatamente. Si cometes un error puedes volver a activarla para restablecer la integración afectada. La forma de hacerlo dependerá del [tipo de clave de aplicación](#tipos-de-clave-de-aplicacion).
 
-<div class="alert alert-warning">
-  <p>Vuelve a activar una clave de aplicación solamente si estás seguro de que no ha sido comprometida. Cualquier usuario con el token de aplicación asociado recuperará el acceso privilegiado a tu cuenta.</p>
-</div>
+>⚠️ Vuelve a activar una clave de aplicación solamente si estás seguro de que no ha sido comprometida. Cualquier usuario con el token de aplicación asociado recuperará el acceso privilegiado a tu cuenta.
 
 ### Desactivar clave de aplicación interna
 

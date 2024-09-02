@@ -18,9 +18,7 @@ internalReference: 587556
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando exportamos o relatório de assinantes, as informações nas colunas "TotalSubscrições" e "TotalSubscriçõesAtivos" são divergentes em comparação com as informações mostradas no painel de controle.

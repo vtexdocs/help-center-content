@@ -15,9 +15,7 @@ legacySlug: simulador-de-promocoes-beta
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-<div class="alert alert-warning">
-  <p>Os usuários devem possuir um <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">perfil de acesso</a> com autorização para acessar o módulo <strong>Promoções </strong>no Admin VTEX para utilizar o <strong>Simulador de promoções</strong>.</p>
-</div>
+>⚠️ Os usuários devem possuir um [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) com autorização para acessar o módulo **Promoções **no Admin VTEX para utilizar o **Simulador de promoções**.
 
 O **Simulador de promoções** é uma ferramenta que permite visualizar as promoções criadas na sua loja VTEX que foram aplicadas no carrinho de compras e os motivos para sua ativação. Também é possível testar a aplicação de promoções antes de ativá-las, incluindo promoções agendadas e inativas.
 
@@ -47,9 +45,7 @@ A interface do **Simulador de promoções** apresenta as seguintes informações
 | **Total** | Preço total que será cobrado pelo produto, considerando descontos da promoção e quantidade de itens. |
 | **Desconto** | Status do desconto no carrinho, que pode ser `Aplicado` ou `Não aplicado`. O status `Aplicado` indica que ao menos uma promoção foi aplicada ao produto. |
 
-<div class="alert alert-info">
-  <p>Envie um feedback sobre sua experiência utilizando o **Simulador de promoções** a partir do botão de megafone <i class="fas fa-megaphone"></i> no canto direito da tela.</p>
-</div>
+>ℹ️ Envie um feedback sobre sua experiência utilizando o **Simulador de promoções** a partir do botão de megafone <i class="fas fa-megaphone"></i> no canto direito da tela.
 
 ### Atualizar simulador
 
@@ -92,9 +88,7 @@ Para fazer uma simulação, siga as instruções abaixo:
 
     Você verá o resultado da simulação a partir das promoções selecionadas. Para visualizar se as promoções testadas foram aplicadas aos itens do carrinho na simulação, observe o status da coluna **Desconto** ou clique no produto.
 
-<div class="alert alert-info">
-  <p>É possível aplicar promoções em produtos que já possuem uma promoção ativa. Apesar do conflito entre elas, o sistema VTEX sempre seleciona a promoção mais benéfica para os clientes da sua loja, considerando o preço total dos itens ou frete.</p>
-</div>
+>ℹ️ É possível aplicar promoções em produtos que já possuem uma promoção ativa. Apesar do conflito entre elas, o sistema VTEX sempre seleciona a promoção mais benéfica para os clientes da sua loja, considerando o preço total dos itens ou frete.
 
 ### Saiba mais
 

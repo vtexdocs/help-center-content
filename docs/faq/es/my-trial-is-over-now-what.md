@@ -14,6 +14,4 @@ locale: es
 legacySlug: mi-prueba-ha-terminado-ahora-que
 ---
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en portugués.</p>
-</div>
+>⚠️ Este contenido sólo está disponible en portugués.

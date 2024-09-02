@@ -32,7 +32,7 @@ For instance, a user with a specific campaign referral link might have a promoti
 
 Besides getting session information for a device navigating in the VTEX infrastructure, Session Manager allows you to store your own custom data in that session. This information is easily recoverable and allows you to avoid doing something like setting a cookie to keep track of a specific information on a user. 
 
-<div class="alert alert-info">Session Manager was also built to allow developers to create their own triggers and processing logic. We are still working on the details of that extensible solution, but in the future you should be able to set up the conditional execution of custom code, based on the presence of specific values for parameters in a user's session data.</div>
+>ℹ️ Session Manager was also built to allow developers to create their own triggers and processing logic. We are still working on the details of that extensible solution, but in the future you should be able to set up the conditional execution of custom code, based on the presence of specific values for parameters in a user's session data.
 
 ## Session data aggregation: create and transform calls
 Strictly speaking, Session Manager is a backend API system that stores and processes session data contained in JSON objects. Each VTEX account has settings that indicate which installed apps have a session dependency and how they intend to process this information. 
@@ -51,7 +51,7 @@ Transforms often trigger other transforms, repeating until no further parameter 
 6. App C was monitoring session parameter Z, so that triggered Transform 3
 7. Transform 3 had no side-effects on parameters monitored by apps, so the cycle ended and the session was saved until other changes are made.
 
-<div class="alert alert-info">Transform calls are made to all apps simultaneously for the sake of performance. That's why App C was affected both by Transform 2 and Transform 3 - it had no way of knowing that the result of Transform 2 on App B would lead to further changes.</div>
+>ℹ️ Transform calls are made to all apps simultaneously for the sake of performance. That's why App C was affected both by Transform 2 and Transform 3 - it had no way of knowing that the result of Transform 2 on App B would lead to further changes.
 
 When a new session is created, a simpler version of this cycle is executed, which we call **create call**. All apps that have set their configuration with `RunOnCreate: true` will be notified to run simultaneously with an empty input. If these apps modify any parameters that are monitored by other apps, that triggers a transform cycle that will run until the input dependency is resolved.
 

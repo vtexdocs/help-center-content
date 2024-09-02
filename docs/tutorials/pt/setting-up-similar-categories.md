@@ -39,9 +39,7 @@ Da mesma maneira, se filtrar por __Jarras de vidro__ na categoria __Jarras__, vo
 
 ## Categoria Similar em outra categoria
 
-<div class="alert alert-warning">
-  <p>Esta configuração é compatível apenas com lojas que utilizam o <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Portal CMS Legado</a>.</p>
-</div>
+>⚠️ Esta configuração é compatível apenas com lojas que utilizam o [Portal CMS Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
 
 Ao editar uma categoria, é possível configurar sua categoria similar. Ao concluir esse tipo de configuração a nível de categoria, o menu de navegação passa a exibir um link para a categoria similar no nível da categoria original.
 

@@ -73,7 +73,5 @@ Ele coleta dados sobre o comportamento dos usuários e os comparam com padrões 
 
 Na VTEX, primeiro a operadora do pagamento aprova a compra e, em seguida, o antifraude avalia o pedido. Com tudo em ordem, ele segue seu fluxo normal. São exemplos de antifraude a ClearSale e a Konduto. 
 
-<div class="alert alert-info">
-É importante ressaltar que cada negócio depende de fatores específicos que influenciam na decisão sobre qual modalidade usar. São diversas as variáveis que podem determinar a escolha do meio de pagamento e qual será o seu fluxo financeiro. É fundamental, portanto, ter em mente as reais necessidades e propósitos do lojista e do projeto desejado.
-</div>
+>ℹ️ É importante ressaltar que cada negócio depende de fatores específicos que influenciam na decisão sobre qual modalidade usar. São diversas as variáveis que podem determinar a escolha do meio de pagamento e qual será o seu fluxo financeiro. É fundamental, portanto, ter em mente as reais necessidades e propósitos do lojista e do projeto desejado.
 

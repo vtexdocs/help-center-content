@@ -35,9 +35,7 @@ Siga el procedimiento a continuación para registrar la regla de precio de su ti
 
 ## API REST
 
-<div class="alert alert-warning">
-Las autenticaciones para las llamadas de API REST del módulo de Precios deben realizarse a través de AppKey y AppToken. Para entender más, acceda a nuestro artículo sobre <a href="https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication">cómo generar un Appkey y un AppToken para autenticar sus integraciones</a>
-</div>
+>⚠️ Las autenticaciones para las llamadas de API REST del módulo de Precios deben realizarse a través de AppKey y AppToken. Para entender más, acceda a nuestro artículo sobre [cómo generar un Appkey y un AppToken para autenticar sus integraciones](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication)
 
 Para registrar una **regla de precio**, debe enviar un __POST__ para el siguiente endpoint:
 

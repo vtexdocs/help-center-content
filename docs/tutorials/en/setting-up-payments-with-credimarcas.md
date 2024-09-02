@@ -39,9 +39,7 @@ To configure Credimarcas provider, follow the steps below:
 
 ## Setting up Notes Payable
 
-<div class="alert alert-warning">
-  <p>If you have not yet configured the Notes Payable as a payment method in other connectors in your store, go to <a href="https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable">Setting up payments with Notes Payable</a>.</p>
-</div>
+>⚠️ If you have not yet configured the Notes Payable as a payment method in other connectors in your store, go to [Setting up payments with Notes Payable](https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable).
 
 To use Credimarcas with notes payable, follow the steps below:
 

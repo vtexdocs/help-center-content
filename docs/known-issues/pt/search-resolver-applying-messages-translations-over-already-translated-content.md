@@ -18,9 +18,7 @@ internalReference: 865918
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O Search Resolver (camada GraphQL para Pesquisa Inteligente) solicita traduções do serviço de Mensagens, mesmo para lojas de um único idioma ou conteúdo já traduzido em uma loja de vários idiomas.

@@ -15,9 +15,7 @@ legacySlug: web-page-performance
 subcategory: QPnz120TdtLcXSh65c4Gs
 ---
 
-<div class = "alert alert-info">
-This page is only available to stores operating with the <a href="https://help.vtex.com/en/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa">New VTEX Admin</a>. To access this page and be part of the new experience, join the New VTEX Admin <a href="https://content.vtex.com/participe-do-programa-beta-en/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta">Beta program</a>.
-  </div>
+>ℹ️ This page is only available to stores operating with the [New VTEX Admin](https://help.vtex.com/en/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). To access this page and be part of the new experience, join the New VTEX Admin [Beta program](https://content.vtex.com/participe-do-programa-beta-en/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta).
 
 [PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) is a tool developed by Google to report on the performance of a page on both mobile and desktop devices, providing suggestions on how its performance may be improved. It uses [Google's Core Web Vitals](https://web.dev/vitals/#core-web-vitals) as metrics to assess online performance. 
 
@@ -46,9 +44,7 @@ Performance metrics can be measured by two types of data:
 
 Note that you should not compare results from the two data types. They are not comparable, since they come from different sources, and serve different purposes. Know more about how each data type can be applied in Google's [How metrics are measured](https://web.dev/user-centric-performance-metrics/#how-metrics-are-measured) documentation.
 
-<div class = "alert alert-info">
-To make sure your website is reaching the recommended target for all metrics, PageSpeed Insights measures the activity of the 75th percentile of page loads, segmented across mobile and desktop devices.
-  </div>
+>ℹ️ To make sure your website is reaching the recommended target for all metrics, PageSpeed Insights measures the activity of the 75th percentile of page loads, segmented across mobile and desktop devices.
 
   ### How to use field and lab data to improve Core Web Vitals
 
@@ -73,9 +69,7 @@ The URL is displayed in a card, along with:
 
 You can browse through the added links and select which one to display on Web Page Performance, and analyze its performance metrics. By clicking on the <i class='fa-solid fa-ellipsis-vertical'></i> menu icon, it is also possible to `Copy URL` and `Visit Page` by clicking on the corresponding buttons on the URL's card.
 
-<div class = "alert alert-info">
-Google's PageSpeed Insights also shows metrics for the whole domain of the URL inserted, in case there is not enough data to show for a specific page. Meanwhile, Web Page Performance indicates data for the URL only, to make your assessment more actionable.
-  </div>
+>ℹ️ Google's PageSpeed Insights also shows metrics for the whole domain of the URL inserted, in case there is not enough data to show for a specific page. Meanwhile, Web Page Performance indicates data for the URL only, to make your assessment more actionable.
 
   ### Which URLs should you track? 
 
@@ -174,9 +168,7 @@ The Performance section of Web Page Performance includes a score which summarize
 * **Needs improvement:** from 50 to 90. The color code is orange.
 * **Poor**: below 50. The color code is red.
 
-<div class = "alert alert-warning">
-Note that performance varies a lot between stores, and is dependent on how your storefront's architecture was built. Complex storefronts, with multiple external scripts and features tend to perform with lower scores. For stores built on VTEX IO, check out <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-debugging-performance-issues">VTEX IO: Debugging Performance Issues</a>. For stores using <a href="https://www.faststore.dev/">FastStore</a>, there is an <a href="https://www.faststore.dev/releases/2022/04/22/webops">automated Lighthouse report for deploy previews</a>.
-</div>
+>⚠️ Note that performance varies a lot between stores, and is dependent on how your storefront's architecture was built. Complex storefronts, with multiple external scripts and features tend to perform with lower scores. For stores built on VTEX IO, check out [VTEX IO: Debugging Performance Issues](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-debugging-performance-issues). For stores using [FastStore](https://www.faststore.dev/), there is an [automated Lighthouse report for deploy previews](https://www.faststore.dev/releases/2022/04/22/webops).
 
 Below the score you will see the individual scores achieved by a list of Web Vitals, along with a color code that indicates its threshold. You can manually update the score, by clicking on the <i class='fa fa-refresh'></i> refresh icon.
 

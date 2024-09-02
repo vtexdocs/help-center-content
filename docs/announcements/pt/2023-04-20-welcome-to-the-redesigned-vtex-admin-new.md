@@ -36,9 +36,7 @@ Embora tenhamos redesenhado o Admin VTEX, as configurações e os dados da sua l
 
 Nenhuma página foi removida do Admin VTEX, mas organizamos o menu de navegação para estar alinhado às páginas mais acessadas e refletir as prioridades da sua operação. Saiba mais sobre a nossa [navegação aprimorada](https://help.vtex.com/pt/tutorial/admin-vtex-comece-aqui--5bBA7QgKuU2wL2Aq11pqAA).
 
-<div class="alert alert-info">
-É possível usar a barra de pesquisa na parte superior do seu Admin VTEX para pesquisar páginas específicas. As páginas que não fazem parte da nossa edição default do Admin VTEX podem ser encontradas em Aplicativos > Apps instalados.  
-</div>
+>ℹ️ É possível usar a barra de pesquisa na parte superior do seu Admin VTEX para pesquisar páginas específicas. As páginas que não fazem parte da nossa edição default do Admin VTEX podem ser encontradas em Aplicativos > Apps instalados.
 
 Além de modificar a organização das páginas, também melhoramos alguns nomes de itens do menu de navegação para ficarem mais consistentes e alinhados com as funcionalidades oferecidas pela VTEX. A tabela abaixo lista as alterações nos nomes das seções.
 

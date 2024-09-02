@@ -18,9 +18,7 @@ internalReference: 904432
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando las cuentas principales y secundarias tienen instalada la aplicación de Crédito a Clientes, la creación de una creditAccount se produce en todas ellas. En este escenario hay casos en los que cerrar la creditAccount no funciona, aparece el siguiente error:

@@ -58,9 +58,7 @@ Los pasos iniciales son esenciales para que las configuraciones se realicen con 
 
 &bull; __Descripción del producto__: Este campo se puede rellenar con *plain/text* o *html*. Las descripciones con HTML no son aceptadas para las tiendas de Brasil y Argentina, siendo obligatoria la elección de la opción *plain/text*. Para estos países, las tags HTML serán ignoradas por el Mercado Libre. Para los demás países, las personalizaciones en HTML todavía se permiten. Ver en la sección __Configuración del Template__ las tags aceptadas por el Mercado Libre.
 
-<div class="alert alert-danger">
-<strong>OBS:</strong> A pesar de existir la opción, las descripciones con HTML <strong>no son más aceptadas</strong> por Mercado Libre, siendo obligatoria la elección de la opción <em>plain/text</em>. En breve discontinuamos esta opción de la interfaz. En la sección <strong>Configuración del Template</strong> las tags aceptadas por el Mercado Libre.
-</div>
+>❗ **OBS:** A pesar de existir la opción, las descripciones con HTML **no son más aceptadas** por Mercado Libre, siendo obligatoria la elección de la opción *plain/text*. En breve discontinuamos esta opción de la interfaz. En la sección **Configuración del Template** las tags aceptadas por el Mercado Libre.
 
 
 &bull; __Associar productos a los pick-up points registrados__: Marque esta flag si desea que sus configuraciones de puntos de retirada sean reflejadas en el Mercado Libre. Es importante recordar que sólo son elegibles para esta flag las configuraciones hechas en la sección [Puntos de Retirada](/es/tutorial/configurar-puntos-de-recogida-pickup-points) del módulo __Logistics__.
@@ -71,9 +69,7 @@ Los pasos iniciales son esenciales para que las configuraciones se realicen con 
 
 &bull; __Taxa de confiabilidade da categorização automática__: la integración da la opción de categorizar automáticamente sus anuncios a través de una __ferramenta del Mercado Libre__. Esta herramienta depende de la información como el nombre del producto y el precio, y, si no puede inferir correctamente, puede categorizar de manera incorrecta su producto. Por lo tanto, será necesario definir una tasa de confiabilidad en la configuración de la integración. Es decir, el producto sólo se integrará si la tasa devuelta por la herramienta de Mercado Libre está por encima de la que ha configurado. Llene con la tarifa que desee.
 
-  <div class="alert alert-danger">
-<strong>OBS:</strong> VTEX <strong>no</strong> recomienda realizar la categorización de manera automática. Indicamos utilizar la asignación de hoja de cálculo que se explica en <a href="http://help.vtex.com/es/tutorial/mapeo-de-categor%C3%ADas-y-variaciones#categorizacion">este artículo</a>.
-  </div>
+  >❗ **OBS:** VTEX **no** recomienda realizar la categorización de manera automática. Indicamos utilizar la asignación de hoja de cálculo que se explica en [este artículo](http://help.vtex.com/es/tutorial/mapeo-de-categor%C3%ADas-y-variaciones#categorizacion).
 
 &bull; __Stock mínimo__: Como la comunicación entre los sistemas de VTEX y del Mercado Libre no actualiza algunas de las informaciones en tiempo real, el stock exhibido en Mercado Libre puede quedar desfasado en relación a la acción real del producto en su tienda. Para que no se produzcan ventas de productos sin stock, usted debe rellenar este campo con un valor mínimo de stock de seguridad. Así, cuando el stock en el Mercado Libre llegue a este valor, el anuncio será pausado para que no suceda la venta de un producto sin stock.
 
@@ -85,25 +81,20 @@ Los pasos iniciales son esenciales para que las configuraciones se realicen con 
   - __Mensagem de envio de tracking__: inserte en este campo el mensaje que desea enviar al cliente __cuando se ha despachado lo pedido__ y la __URL de rastreo está disponible para la consulta__. Es importante destacar que, automáticamente VTEX va insertar en este campo la URL de rastreo justo al lado de su mensaje. Entonces, si la URL no está disponible todavía, recomendamos facturar la pedido sin la URL. Una vez que esté disponible, inserte en el pedido.
 >Ex: "¡Hola! Usted ya puede seguir el estado de su entrega a través de la siguiente URL: http://status.transportadora.com.br/tracking/nº-del-pedido"
 
-  <div class="alert alert-danger">
-OBS: si la URL de rastreo no se rellena en la factura del pedido, este mensaje <strong>no</strong> se enviará.
-  </div>
+  >❗ OBS: si la URL de rastreo no se rellena en la factura del pedido, este mensaje **no** se enviará.
 
   - __Mensagem de pedido entregue__: inserte en este campo el mensaje que desea enviar al cliente cuando el pedido haya sido entregado por el transportista.
 
 &bull; __Atributos omitidos en la plantilla del producto__: Veremos más abajo que, en la configuración de la plantilla para el Mercado Libre, usted puede incluir los atributos del producto que desea que se muestren en el template. La configuración de este campo permite omitir atributos que no desea que aparezcan en la plantilla de Mercado Libre.
 
-<div class="alert alert-warning">>
-Los campos <em>Actualizar descripción del anuncio, el texto para la evaluación automática del comprador y el correo electrónico del afiliado</em> se suspenderán en la UI. Por lo tanto, no es necesario rellenarlos. Las APIs continuarán activas.
-</div>
+>⚠️ >
+> Los campos *Actualizar descripción del anuncio, el texto para la evaluación automática del comprador y el correo electrónico del afiliado* se suspenderán en la UI. Por lo tanto, no es necesario rellenarlos. Las APIs continuarán activas.
 
 
 
 ## Envío de los atributos de los productos para el Mercado Libre
 
-<div class="alert alert-danger">
-Este paso es necesario sólo para las tiendas que venden productos como <strong>ropa, calzado y bolsos</strong>. Si su tienda tiene estos tipos de producto, es necesario hacer el registro de las especificaciones de ellos. Acceda a <a href="https://help.vtex.com/es/tutorial/envio-de-los-atributos-de-ropa-calzado-y-bolsos-para-el-mercado-libre">este artículo</a> para saber cómo hacer este registro. Si su tienda no tiene estos productos, siga directamente a la sección <strong>Configuración del template</strong>
-</div>
+>❗ Este paso es necesario sólo para las tiendas que venden productos como **ropa, calzado y bolsos**. Si su tienda tiene estos tipos de producto, es necesario hacer el registro de las especificaciones de ellos. Acceda a [este artículo](https://help.vtex.com/es/tutorial/envio-de-los-atributos-de-ropa-calzado-y-bolsos-para-el-mercado-libre) para saber cómo hacer este registro. Si su tienda no tiene estos productos, siga directamente a la sección **Configuración del template**
 
 __Listo! __ Usted ha terminado la configuración del *primer paso* de la integración. Ahora vamos a la etapa de __Configuración del Template__.
 
@@ -132,9 +123,7 @@ Si desea incluir todos los atributos y valores de los atributos en la plantilla,
 
 ``{{#each ATRIBUTOS}} {{NOME}} – {{VALOR}} <br> {{/each}}``
 
-<div class="alert alert-info">
-Si desea omitir algún atributo en el template, usted puede hacer esta configuración en el la <strong>configuración de la integración</strong>, rellenando el campo <strong>Atributos omitidos en el template del producto</strong>, como se explica en la sección <strong>Configurar el panel del Mercado Libre en VTEX</strong> del paso anterior.
-</div>
+>ℹ️ Si desea omitir algún atributo en el template, usted puede hacer esta configuración en el la **configuración de la integración**, rellenando el campo **Atributos omitidos en el template del producto**, como se explica en la sección **Configurar el panel del Mercado Libre en VTEX** del paso anterior.
 
 __Muy bien!__ Usted ha terminado el *segundo paso* de la integración! Ahora, vamos a configurar la logística para las entregas de pedidos hechos en Mercado Libre.
 
@@ -178,9 +167,8 @@ En esta modalidad, __hay dos formas de el pedido ser entregado__. Estas formas d
 
 En este escenario, Mercado Libre busca el pedido directamente en los Centros de Distribución de su tienda y hace la entrega al cliente final.
 
-<div class="alert alert-warning">>
-No se recomienda el uso del tipo de entrega <em>Entrega combinada</em>. En pedidos cerrados con este tipo de entrega, como no tenemos la información de la dirección de entrega, el pedido no se integrará con VTEX. Para que un pedido sea integrado correctamente, es necesario que tenga la información de entrega. Por lo tanto, siempre recomendamos utilizar el <strong>Mercado Envíos</strong>.
-</div>
+>⚠️ >
+> No se recomienda el uso del tipo de entrega *Entrega combinada*. En pedidos cerrados con este tipo de entrega, como no tenemos la información de la dirección de entrega, el pedido no se integrará con VTEX. Para que un pedido sea integrado correctamente, es necesario que tenga la información de entrega. Por lo tanto, siempre recomendamos utilizar el **Mercado Envíos**.
 
 
 ### Convivencia Logística
@@ -189,13 +177,9 @@ Con el objetivo de mejorar la experiencia logística con la integración del Mer
 
 _`Ex:` usted vende electrodomésticos. La entrega de artículos grandes, como neveras y cocinas, es hecha por usted (modalidad ME1). Pero usted quiere que Mercado Libre haga la entrega (modo ME2) de elementos más pequeños, como tostadoras, licuadores, mezcladores, etc._
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> sólo tiendas que ya son ME1 pueden tener ME2 también.
-</div>
+>⚠️ **OBS:** sólo tiendas que ya son ME1 pueden tener ME2 también.
 
-<div class="alert alert-warning">
-<strong>OBS2:</strong> para poder usar las dos opciones, primero deberá haber un acuerdo directamente con el asesor comercial de Mercado Libre, ya que esa aún no es una funcionalidad pública.
-</div>
+>⚠️ **OBS2:** para poder usar las dos opciones, primero deberá haber un acuerdo directamente con el asesor comercial de Mercado Libre, ya que esa aún no es una funcionalidad pública.
 
 De esta manera, es necesario segmentar sus productos indicando para la integración cuáles serán asignados a la modalidad ME2. Para ello, siga el paso a paso siguiente:
 
@@ -203,13 +187,15 @@ De esta manera, es necesario segmentar sus productos indicando para la integraci
 2. Esta especificación debe recibir el valor `me2`.
 3. Después de registrar la especificación, debe acceder al registro de cada producto y asignar el valor a la especificación. O lo hace de manera masiva a través [de este tutorial](/es/tutorial/importando-e-exportando-especificacao-de-produto-e-sku).
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> es importante comprobar si la categoría en la que está enviando los productos está apta para usar ME2. Acceda a la siguiente URL en el navegador (sustituyendo la variable entre claves {CategoryId} por el ID de la categoría de Mercado Libre) para comprobar.
-<br></br>
-api.mercadolibre.com/categories/{CategoryId}
-<br></br>
-Puede ver esto en el campo <em>"shipping_modes"</em>. Si el campo tiene el valor "me2", significa que la categoría acepta esta modalidad de entrega.
-</div>
+>⚠️ **OBS:** es importante comprobar si la categoría en la que está enviando los productos está apta para usar ME2. Acceda a la siguiente URL en el navegador (sustituyendo la variable entre claves {CategoryId} por el ID de la categoría de Mercado Libre) para comprobar.
+>
+>
+> </br>
+> api.mercadolibre.com/categories/{CategoryId}
+>
+>
+> </br>
+> Puede ver esto en el campo *"shipping_modes"*. Si el campo tiene el valor "me2", significa que la categoría acepta esta modalidad de entrega.
 
 
 __Listo!__ Usted cumplió el *tercer paso*! Ahora ya tiene la información necesaria para manejar el envío de pedidos realizados en Mercado Libre. Vamos a la última etapa: __Autorizar su integración__.
@@ -226,9 +212,8 @@ Para realizar este paso, accede a [este artículo](/es/tutorial/mapeo-de-categor
 
 Después de realizar las configuraciones anteriores, es necesario autorizar su integración con el Mercado Libre. Siga los pasos abajo:
 
-<div class="alert alert-warning">>
-El Mercado Libre requiere que la autorización sea efectuada por el <strong>usuario Master</strong> de la cuenta en Mercado Libre.
-</div>
+>⚠️ >
+> El Mercado Libre requiere que la autorización sea efectuada por el **usuario Master** de la cuenta en Mercado Libre.
 
 1. En el menu del Admin, haga clic en __Intgraciones__.
 2. Haga clic en __Configuración__.

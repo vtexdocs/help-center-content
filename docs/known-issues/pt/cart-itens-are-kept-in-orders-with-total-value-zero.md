@@ -18,9 +18,7 @@ internalReference: 1054999
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Sempre que um carrinho tiver um valor total de "0", nenhuma transação será criada ao finalizar um pedido.  Ao concluir um pedido por meio da interface do usuário do checkout, não ocorre nenhuma solicitação de processamento de pedido, portanto, os itens e os dados do carrinho são mantidos e o comprador pode criar um pedido com o mesmo carrinho novamente.

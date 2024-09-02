@@ -49,10 +49,8 @@ Feito isso, a integração da sua loja VTEX com o Magalu Marketplace estará con
 
 **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).
 
-<div class = "alert alert-info">
-  O mapeamento de campos customizáveis está disponível apenas para <b>nome do produto</b> e <b>descrição do produto</b>.
-  <p><b>Exemplo de nome para o novo campo:</b> <code>MGZ_ProductName</code> para nome do produto e <code>MGZ_ProductDescription</code> para descrição do produto.</p>
-</div>  
+>ℹ️ O mapeamento de campos customizáveis está disponível apenas para **nome do produto** e **descrição do produto**.
+>   **Exemplo de nome para o novo campo:** `MGZ_ProductName` para nome do produto e `MGZ_ProductDescription` para descrição do produto.  
 
 Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
 
@@ -66,7 +64,5 @@ O preenchimento desse campo deve ser realizado da seguinte maneira:
 2. Preencha o campo PARA com o nome do novo campo.   `MGZ_ProductName` para nome do produto e `MGZ_ProductDescription` para descrição do produto.    
 3. Clique no botão e uma regra de mapeamento será adicionada a sua integração.  
 
-<div class="alert alert-info">
-Cada regra cadastrada mapeia apenas um campo.
-<p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de <code>Título</code> ou <code>Descrição</code> cadastrados no catálogo.
-</div>
+>ℹ️ Cada regra cadastrada mapeia apenas um campo.
+> <p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de `Título` ou `Descrição` cadastrados no catálogo.

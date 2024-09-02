@@ -33,9 +33,7 @@ En este artículo, te explicamos cómo funciona la herencia de las especificacio
         * [Registro de producto](#registro-de-producto)
         * [Plantilla](#plantilla)
 
-<div class = "alert alert-info">
-  <p>Para crear una especificación de producto con la <strong>API Catálogo</strong>, sigue la guía para desarrolladores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a> (Cómo crear una especificación).</p>
-</div>
+>ℹ️ Para crear una especificación de producto con la **API Catálogo**, sigue la guía para desarrolladores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification) (Cómo crear una especificación).
 
 ## Herencia de especificaciones de producto
 
@@ -148,9 +146,7 @@ Sin embargo, para los campos **Combo**, **Radio** y **Checkbox** es necesario re
 
 ![product-spec-2](https://images.ctfassets.net/alneenqid6w5/5F0K7fQTFOf2b7opIrgpP6/35fc1b6e4edc189e4d4195d35f777514/ES_ProdutoGif_2_Alterado.gif)
 
-<div class = "alert alert-info">
-  <p>Si estás registrando los primeros valores de un campo, deberás regresar al formulario de ese campo específico y seleccionar la opción <strong>Activo</strong>.</p>
-</div>
+>ℹ️ Si estás registrando los primeros valores de un campo, deberás regresar al formulario de ese campo específico y seleccionar la opción **Activo**.
 
 #### Obtener o editar valores registrados
 

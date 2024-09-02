@@ -19,9 +19,7 @@ The __Portal__ is used to render __Checkout__ (cart, personal data, address, pay
 
 The __Checkout__ module in the Admin, displays the sites that are registered for your account. Through it, it is also possible to create a new website, edit and configure information about existing websites.
 
-<div class="alert alert-info">
-Each registered site corresponds to a multidomain (if the account has contracted multidomains). For accounts that do not use multidomains, it is not necessary to register more than one site in this module. Learn more at <a href="https://help.vtex.com/en/tutorial/como-criar-multiloja-multidominio--tutorials_510#">Create a multistore/multidomain</a>.
-</div>
+>ℹ️ Each registered site corresponds to a multidomain (if the account has contracted multidomains). For accounts that do not use multidomains, it is not necessary to register more than one site in this module. Learn more at [Create a multistore/multidomain](https://help.vtex.com/en/tutorial/como-criar-multiloja-multidominio--tutorials_510#).
 
 ## Creating a new website
 
@@ -100,9 +98,7 @@ The HTML code filled in the template corresponds to what will appear on the __ch
 
 Of the available templates, the only ones that cannot be changed are __vtex-checkout__ and __vtex-orderPlaced__. These correspond to the native functioning of the platform, rendering the main content of the __checkout__ and __order placed__ pages.
 
-<div class="alert alert-warning">
-Javascripts included directly in any Portal templates will be ignored by the platform. The reason behind this is that only scripts that originated in Google Tag Manager are accepted by <a href="https://help.vtex.com/en/tutorial/smartcheckout-preenchimento-automatico-de-dados-do-cliente--2Nuu3xAFzdhIzJIldAdtan#">SmartCheckout</a>. aTherefore, whenever you need to customize something (or even to insert specific tags) using javascript, do this through <a href="https://help.vtex.com/en/tutorial/integration-with-google-tag-manager--frequentlyAskedQuestions_616#">Google Tag Manager</a>.
-</div>
+>⚠️ Javascripts included directly in any Portal templates will be ignored by the platform. The reason behind this is that only scripts that originated in Google Tag Manager are accepted by [SmartCheckout](https://help.vtex.com/en/tutorial/smartcheckout-preenchimento-automatico-de-dados-do-cliente--2Nuu3xAFzdhIzJIldAdtan#). aTherefore, whenever you need to customize something (or even to insert specific tags) using javascript, do this through [Google Tag Manager](https://help.vtex.com/en/tutorial/integration-with-google-tag-manager--frequentlyAskedQuestions_616#).
 
 ### Examples of how to fill out templates
 

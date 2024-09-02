@@ -91,14 +91,11 @@ Dado esta información, continue completando la planilla siguiendo las instrucci
 5. __MeliValue:__ en esta columna debe rellenar los valores aceptados por  Mercado Libre correspondientes a los valores utilizados en el campo `VtexValue`. En la __Planilla de Atributos de Mercado Libre__, acceda a la pestaña correspondiente a su país y busque los valores aceptados para cada especificación que usted ha llenado en la columna.
 <br/>_`Ex:` si has llenado el `MeliEspc` con "Tamaño" y el `VtexValue` con "Pequeño", ver que el valor aceptado por Mercado Libre_
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> después de que se crea un anuncio por primera vez, ya <strong>no</strong> es posible cambiar sus variaciones. Si desea hacer cualquier modificación en las variaciones del anuncio, como cambiar el color, por ejemplo, será necesario finalizar el anuncio en el Mercado Libre y luego rehacer el mapeo de la planilla.</div>
+>⚠️ **OBS:** después de que se crea un anuncio por primera vez, ya **no** es posible cambiar sus variaciones. Si desea hacer cualquier modificación en las variaciones del anuncio, como cambiar el color, por ejemplo, será necesario finalizar el anuncio en el Mercado Libre y luego rehacer el mapeo de la planilla.
 
-<div class="alert alert-warning">
-<strong>OBS2:</strong> Mercado Libre <strong>no</strong> permite usar precios diferentes para cada variación de un anuncio. Por ejemplo, una camisa no puede costar $ 40 para el tamaño "P" y $ 50 para el tamaño "M".</div>
+>⚠️ **OBS2:** Mercado Libre **no** permite usar precios diferentes para cada variación de un anuncio. Por ejemplo, una camisa no puede costar $ 40 para el tamaño "P" y $ 50 para el tamaño "M".
 
-<div class="alert alert-warning">
-<strong>OBS3:</strong> si el SKU no tiene una determinada especificación (como color, por ejemplo), necesitará registrarla en VTEX antes de completar el proceso de integración. Recomendamos que agregue el atributo que falta como una especificación de <strong>producto</strong>. Por lo tanto, esta información no se mostrará en el sitio.</div>
+>⚠️ **OBS3:** si el SKU no tiene una determinada especificación (como color, por ejemplo), necesitará registrarla en VTEX antes de completar el proceso de integración. Recomendamos que agregue el atributo que falta como una especificación de **producto**. Por lo tanto, esta información no se mostrará en el sitio.
 
 ## Atributos
 

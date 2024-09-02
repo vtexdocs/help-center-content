@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Agora, o canal principal para abrir um chamado é a VTE
 
 A dinâmica do Suporte VTEX passou por transformações com a transição do canal de atendimento. Agora, a [VTEX Community](https://community.vtex.com/) passa a ser o canal principal de suporte na maioria dos casos.
 
-<div class="alert alert-info">Esta mudança é válida apenas para contas no Brasil.</div>
+>ℹ️ Esta mudança é válida apenas para contas no Brasil.
 
 # O que mudou?
 Anteriormente, para obter auxílio do time do suporte VTEX, era necessário abrir um chamado no Suporte. A partir de hoje, a [VTEX Community](https://community.vtex.com/) se torna o canal primário de Suporte.
@@ -35,5 +35,5 @@ A maioria dos casos será tratada através da VTEX Community, porém, ainda exis
 
 Sugerimos também que, antes de publicar uma pergunta, os usuários realizem uma pesquisa na comunidade para verificar se a resposta já está disponível. Caso não encontrem a solução desejada, podem criar um novo tópico para receber ajuda da comunidade.
 
-<div class="alert alert-warning"> VTEX Community é um fórum público e, portanto, não devem ser compartilhadas informações sensíveis, como chaves de aplicação, senhas ou quaisquer outros dados confidenciais. </div>
+>⚠️ VTEX Community é um fórum público e, portanto, não devem ser compartilhadas informações sensíveis, como chaves de aplicação, senhas ou quaisquer outros dados confidenciais.
 

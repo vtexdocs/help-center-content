@@ -45,9 +45,7 @@ After enabling HTTPS, you must:
 
 If your store's domain points to anything that contains `vtexcommerce.com.br` or `hodor.vtex.com`, you're still using the old CNAME. The update is necessary because all content will be hosted in `{hostname}.cdn.vtex.com`.
 
-<div class="alert alert-warning">
-After <strong>May 31st</strong>, the old CNAMEs will stop working. <strong>All stores using them will crash</strong>.
-</div>
+>⚠️ After **May 31st**, the old CNAMEs will stop working. **All stores using them will crash**.
 
 After HTTPS is enabled and your store is updated with VTEX's new CNAME, you'll need to request the activation of the new CDN. If you don't do this until __May 31st__, the activation will be done automatically. That's why it's so important to follow the instructions already given and reinforced in this announcement: it's the only way to avoid future problems with your store. 
 

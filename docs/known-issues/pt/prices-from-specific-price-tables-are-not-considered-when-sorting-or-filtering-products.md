@@ -18,9 +18,7 @@ internalReference: 1085895
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As tabelas de preços não fazem parte do fluxo de indexação do produto e não estão disponíveis para o serviço de pesquisa no nível do índice. Isso cria a limitação de que a pesquisa não pode classificar e filtrar produtos com base nas tabelas de preços. Os produtos são classificados exclusivamente pelo preço da política comercial.

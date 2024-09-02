@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisPT: 'O módulo de Assinaturas é a solução da VTEX para pedidos recorrentes na sua loja, e está em constante evolução.'
 ---
 
-<div class="alert alert-info">
-  <p>A atualização só afetará lojas que possuem o módulo Assinaturas. Para lojas que não possuíam essa funcionalidade, nada mudará.</p>
-</div>
+>ℹ️ A atualização só afetará lojas que possuem o módulo Assinaturas. Para lojas que não possuíam essa funcionalidade, nada mudará.
 
 O módulo de Assinaturas é a solução da VTEX para pedidos recorrentes na sua loja, e está em constante evolução. Aprimoramos o módulo para agilizar o desempenho do sistema e entregar funcionalidades novas que melhoram a experiência do consumidor da sua loja. Este artigo detalha todas as mudanças do módulo e o que precisa ser feito na sua loja.
 
@@ -77,6 +75,4 @@ O cálculo da próxima data do ciclo de assinatura mudou. Essa alteração permi
 Lembramos que se sua loja não utiliza as nossas APIs em integrações, não é preciso fazer nenhuma adaptação, a evolução será implementada automaticamente pelo próprio sistema da VTEX. 
 Para lojistas ou parceiros que consumiam a nossa API de Assinaturas, vale destacar que todas as rotas anteriores da API de Assinaturas serão substituídas pelas novas, para refletir a evolução do módulo. Todo o processo de migração será assistido pelo time VTEX, garantindo uma transição suave ao novo módulo. Confira nosso [guia de integração com o novo módulo de Assinaturas](https://developers.vtex.com/vtex-developer-docs/docs/subscriptions-v3-migration-guide). 
 
-<div class="alert alert-info">
-  Solicite a nova interface de Assinaturas pelo <a href="https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM">suporte</a>. É preciso que a loja esteja de acordo com a instalação do Search of Biggy (<a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG">Intelligent Search</a>) para a ativação da nova interface.
-  </div>
+>ℹ️ Solicite a nova interface de Assinaturas pelo [suporte](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM). É preciso que a loja esteja de acordo com a instalação do Search of Biggy ([Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)) para a ativação da nova interface.

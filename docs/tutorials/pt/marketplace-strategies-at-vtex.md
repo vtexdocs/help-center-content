@@ -34,9 +34,7 @@ O sortimento de produtos enviados para um marketplace é definido na escolha da 
 
 A [contratação de políticas comerciais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) adicionais é realizada via ticket em nosso [suporte](https://help.vtex.com/pt/support), selecionando a opção **Comercial** e o tipo de solicitação Criação de Política Comercial. Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX.
 
-<div class="alert alert-info">
-Pedidos aprovados em marketplaces estão sujeitos às mesmas <a href="https://help.vtex.com/pt/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt">regras contratuais</a> de pedidos efetuados por outros canais.
-</div>
+>ℹ️ Pedidos aprovados em marketplaces estão sujeitos às mesmas [regras contratuais](https://help.vtex.com/pt/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt) de pedidos efetuados por outros canais.
 
 Os próximos cenários abordados neste artigo são:  
 
@@ -109,9 +107,7 @@ Pode ser que sua loja queira vender em um marketplace que não possua conexão c
 
 Marketplaces certificados são aqueles cuja integração foi desenvolvida pelo time de desenvolvedores da VTEX. A política comercial adicional contratada para esse tipo de integração, está isenta da taxa mensal se houver pedidos atrelados à política através do marketplace certificado e pagará apenas o take rate dos pedidos.
 
-<div class="alert alert-warning">
-As políticas comerciais adicionais contratadas para integração com marketplaces certificados que forem utilizadas também em integração com outros tipos de marketplaces, está sujeita à cobrança da taxa mensal.
-</div>  
+>⚠️ As políticas comerciais adicionais contratadas para integração com marketplaces certificados que forem utilizadas também em integração com outros tipos de marketplaces, está sujeita à cobrança da taxa mensal.  
 
 Atualmente, na plataforma VTEX você encontra os seguintes marketplaces certificados:  
 
@@ -165,9 +161,7 @@ Abaixo você encontra os marketplaces parceiros disponíveis no catálogo da VTE
 - Fast Shop  
 - Hubplus  
 
-<div class="alert alert-info">
-O Facebook, Google Shopping, Google Shopping Ads e Tik Tok não são marketplaces, porém oferecerem uma experiência similar de envio de produtos a partir de lojas VTEX.
-</div>
+>ℹ️ O Facebook, Google Shopping, Google Shopping Ads e Tik Tok não são marketplaces, porém oferecerem uma experiência similar de envio de produtos a partir de lojas VTEX.
 
 ### Ser um seller VTEX
 
@@ -179,7 +173,5 @@ A configuração da [integração entre lojas VTEX](https://help.vtex.com/pt/tut
 
 O [Seller Portal](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) é uma edição da plataforma VTEX voltada para sellers se conectarem e venderem seus produtos em marketplaces hospedados na VTEX. Com o portal, sellers acessam todas as funcionalidades essenciais para a operação de ecommerce em grandes vitrines, trazendo visibilidade e conversão de vendas.
 
-<div class="alert alert-info">
-Na VTEX, é possível atuar como <a href="https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa">seller white label</a>, um seller não identificado pelo consumidor na experiência de compra. Este tipo de seller é o padrão para <a href="https://help.vtex.com/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl">contas franquia</a>, por exemplo, e pode ser estratégico para determinados modelos de negócio. Para saber mais, veja o artigo <a href="https://help.vtex.com/pt/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78">Escolher entre conta padrão, conta franquia ou Seller Portal</a>.
-</div>
+>ℹ️ Na VTEX, é possível atuar como [seller white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa), um seller não identificado pelo consumidor na experiência de compra. Este tipo de seller é o padrão para [contas franquia](https://help.vtex.com/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl), por exemplo, e pode ser estratégico para determinados modelos de negócio. Para saber mais, veja o artigo [Escolher entre conta padrão, conta franquia ou Seller Portal](https://help.vtex.com/pt/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78).
 

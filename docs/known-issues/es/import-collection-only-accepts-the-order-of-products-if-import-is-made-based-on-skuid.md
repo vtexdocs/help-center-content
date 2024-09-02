@@ -18,9 +18,7 @@ internalReference: 953862
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al importar una hoja de cálculo de productos a una colección, el usuario puede elegir seleccionar los productos por "skuId", "productId", "skuRefId" o "productRefId".

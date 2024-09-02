@@ -15,9 +15,7 @@ legacySlug: agregar-productos-beta
 subcategory: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-<div class = "alert alert-info">
-  <p>Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si desea migrar su tienda a la nueva página, ponte en contacto con <a href = "[https://support.vtex.com/hc/es/requests](https://support.vtex.com/hc/pt-br/requests)">soporte de VTEX</a>.</p>
-</div>
+>ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si desea migrar su tienda a la nueva página, ponte en contacto con <a href = "[https://support.vtex.com/hc/es/requests](https://support.vtex.com/hc/pt-br/requests)">soporte de VTEX</a>.
 
 Para agregar un producto en el Admin VTEX, debes rellenar la información de los formularios de Productos y SKUs. Sigue los pasos a continuación para acceder a la nueva experiencia de agregar productos y SKUs:
 
@@ -48,9 +46,7 @@ En esta página debes rellenar la información necesaria para agregar un product
 - **Título de la página:** texto que se muestra en la pestaña del navegador y corresponde al título de la página del producto. Este campo es importante para SEO.
 - **Metadescripción:** ingresa una breve descripción de la categoría. Es aconsejable no superar los 150 caracteres para que los motores de búsqueda puedan mostrarla correctamente en las páginas de resultados.
 
-<div class = "alert alert-info">
-  Al rellenar la información de SEO, se mostrará una vista previa del contenido.
-</div>
+>ℹ️ Al rellenar la información de SEO, se mostrará una vista previa del contenido.
 
 ## Operaciones y logística
 
@@ -71,6 +67,4 @@ Consulta este tutorial para aprender a crear [las especificaciones de tu product
 
 Si creaste algún campo de producto que sea obligatorio, el producto solo podrá activarse una vez que se haya rellenado la especificación.
 
-<div class="alert alert-info">
-Si tras crear el producto no se muestra en el sitio web de tu tienda, consulta el artículo <a href="https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">¿Por qué el producto no aparece en el sitio web?</a> para saber cómo solucionar este problema.
-</div>
+>ℹ️ Si tras crear el producto no se muestra en el sitio web de tu tienda, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) para saber cómo solucionar este problema.

@@ -15,9 +15,7 @@ legacySlug: simulador-de-promociones-beta
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-<div class="alert alert-warning">
-  <p>Los usuarios deben tener un <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">rol</a> con permisos para ver el módulo <strong>Promociones</strong> en el Admin VTEX para poder acceder al <strong>Simulador de promociones</strong>.</p>
-</div>
+>⚠️ Los usuarios deben tener un [rol](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) con permisos para ver el módulo **Promociones** en el Admin VTEX para poder acceder al **Simulador de promociones**.
 
 El **Simulador de promociones** es una herramienta que permite ver las promociones creadas en tu tienda VTEX que se aplicaron al carrito y sus condiciones de activación. También puedes probar la aplicación de promociones antes de activarlas, incluyendo promociones inactivas y programadas.
 
@@ -48,9 +46,7 @@ La interfaz del **Simulador de promociones** presenta la siguiente información:
 | **Total** | Precio total que se cobrará por el producto, considerando los descuentos de la promoción y la cantidad de ítems. |
 | **Descuento** | Status del descuento en el carrito, el cual puede ser: `Aplicado` o `No aplicado`. El status `Aplicado` indica que al menos una promoción fue aplicada al producto. |
 
-<div class="alert alert-info">
-  <p>En la esquina derecha de la pantalla, encontrarás un botón de megáfono que te permitirá enviar tu opinión sobre tu experiencia usando el <strong>Simulador de promociones</strong>.</p>
-</div>
+>ℹ️ En la esquina derecha de la pantalla, encontrarás un botón de megáfono que te permitirá enviar tu opinión sobre tu experiencia usando el **Simulador de promociones**.
 
 ### Actualizar el simulador
 
@@ -90,9 +86,7 @@ Para ejecutar una simulación, sigue estos pasos:
 
    Verás el resultado de la simulación a partir de las promociones seleccionadas. Para ver si las promociones probadas se aplicaron a los ítems del carrito en la simulación, fíjate en el status de la columna **Descuento** o haz clic en el producto.
 
-<div class="alert alert-info">
-  <p>Se pueden aplicar promociones en productos que ya tienen una promoción activa. A pesar del conflicto que se genera entre las promociones, el sistema de VTEX siempre elegirá la promoción más beneficiosa para los clientes de tu tienda, tomando en consideración el precio total de los ítems o el envío.</p>
-</div>
+>ℹ️ Se pueden aplicar promociones en productos que ya tienen una promoción activa. A pesar del conflicto que se genera entre las promociones, el sistema de VTEX siempre elegirá la promoción más beneficiosa para los clientes de tu tienda, tomando en consideración el precio total de los ítems o el envío.
 
 ### Más información
 

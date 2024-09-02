@@ -28,9 +28,7 @@ Para configurar los feriados, siga los pasos a continuación:
 4. En __Fecha__, escriba la fecha de inicio del feriado. En __Fecha Final__, escriba la fecha de fin del feriado.
 5. Haga clic en __Guardar__.
 
-<div class="alert alert-warning">
-Los feriados se considerarán apenas para las transportadoras que estén configuradas como "Transportadora	<strong>no entrega</strong> los fines de semana".
-</div>
+>⚠️ Los feriados se considerarán apenas para las transportadoras que estén configuradas como "Transportadora	**no entrega** los fines de semana".
 
 Para que la transportadora sea elegible para la funcionalidad de feriado, siga los pasos que se indican a continuación:
 
@@ -41,9 +39,7 @@ Para que la transportadora sea elegible para la funcionalidad de feriado, siga l
 5. Seleccione la opción __Transportadora no entrega los fines de semana__.
 6. Haga clic en __Guardar__.
 
-<div class="alert alert-info">
-Usted puede establecer con antecedencia los feriados para los próximos años. Por ejemplo, puede crear la Navidad 2019, la Navidad 2020, etc.
-</div>
+>ℹ️ Usted puede establecer con antecedencia los feriados para los próximos años. Por ejemplo, puede crear la Navidad 2019, la Navidad 2020, etc.
 
 ## ¿Cómo se hace el cálculo?
 

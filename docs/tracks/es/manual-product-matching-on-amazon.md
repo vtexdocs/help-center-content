@@ -14,9 +14,7 @@ trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugES: integracion-de-amazon
 ---
 
-<div class = "alert alert-info">
-El flujo documentado en este artículo no es obligatorio. Si optas por mantener la correspondencia automática, VTEX no será responsable de posibles problemas de correspondencia con Amazon.
-</div>
+>ℹ️ El flujo documentado en este artículo no es obligatorio. Si optas por mantener la correspondencia automática, VTEX no será responsable de posibles problemas de correspondencia con Amazon.
 
 Cada vez que se envía a Amazon un [SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) con [EAN](https://sellercentral.amazon.com.br/learn/courses?ref_=su_course_accordion&moduleId=71d0b122-4e43-4547-a05a-04517e8f41a2&courseId=959bc7cb-2866-499c-b24a-8d3f6def1306&modLanguage=Portuguese&videoPlayer=youtube) registrado, el marketplace realiza un proceso llamado correspondencia, que consiste en unificar los anuncios de un mismo producto a través de su EAN.
 

@@ -15,9 +15,7 @@ legacySlug: order-allocation-algorithm-beta
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-<p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
 
 **Order Allocation Algorithm** é o algoritmo da plataforma VTEX que busca selecionar os sellers capazes de enviar os pedidos com os menores custos de [planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127) e de [transportadoras](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) configuradas.
 
@@ -35,9 +33,7 @@ O **Order Allocation Algorithm** funciona de formas diferentes para envio do tip
 
 <br>
 
-<div class = "alert alert-info">
-O critério prioritário do <a href="https://help.vtex.com/pt/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa">algoritmo atual</a> é buscar a menor quebra de pacotes do pedido. O <b>Order Allocation Algorithm</b> tem como critério principal buscar os menores custos de envio para o lojista.
-</div>
+>ℹ️ O critério prioritário do [algoritmo atual](https://help.vtex.com/pt/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) é buscar a menor quebra de pacotes do pedido. O **Order Allocation Algorithm** tem como critério principal buscar os menores custos de envio para o lojista.
 
 As próximas seções apresentam detalhes sobre o funcionamento do algoritmo e estão divididas em:
 
@@ -78,8 +74,6 @@ Ao analisar combinações de fulfillment points, o algoritmo considera:
 
 Por meio da política de envio, o **Order Allocation Algorithm** simula as combinações de fulfillment points buscando os menores custos para o lojista. O processo é feito por meio de consultas a [planilhas de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127) e análise de custos com [transportadoras](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE).
 
-<div class = "alert alert-info">
-No <a href="https://help.vtex.com/pt/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa">algoritmo atual</a>, muitas vezes o lojista configura a <a href="https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127">planilha de frete</a> com os valores que ele deseja apresentar para o consumidor no checkout, e não o custo real com as transportadoras. Com o <b>Order Allocation Algorithm</b>, o lojista não precisa considerar como o custo na planilha de frete se reflete na experiência de compra do consumidor, pois isso passa a ser determinado por configurações nas <a href="https://help.vtex.com/pt/tutorial/shipping-options-beta--7gsdck3519Z3VPqzwFFHJL">opções de envio</a>. Além disso, o <b>Order Allocation Algorithm</b> se torna mais preciso ao ter como referência os custos reais com transportadoras.
-</div>
+>ℹ️ No [algoritmo atual](https://help.vtex.com/pt/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa), muitas vezes o lojista configura a [planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127) com os valores que ele deseja apresentar para o consumidor no checkout, e não o custo real com as transportadoras. Com o **Order Allocation Algorithm**, o lojista não precisa considerar como o custo na planilha de frete se reflete na experiência de compra do consumidor, pois isso passa a ser determinado por configurações nas [opções de envio](https://help.vtex.com/pt/tutorial/shipping-options-beta--7gsdck3519Z3VPqzwFFHJL). Além disso, o **Order Allocation Algorithm** se torna mais preciso ao ter como referência os custos reais com transportadoras.
 
 Após analisar as simulações possíveis, o **Order Allocation Algorithm** determina para cada opção de envio um resultado de combinações de fulfillment points. No checkout, o consumidor é apresentado a todas as opções de envio que possuem pelo menos uma combinação válida de fulfillment points que atendem o pedido.

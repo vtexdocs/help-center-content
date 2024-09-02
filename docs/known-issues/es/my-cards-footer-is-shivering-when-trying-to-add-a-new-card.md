@@ -18,9 +18,7 @@ internalReference: 1012542
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El pie de página de "Mis tarjetas" tiembla en la pantalla al intentar añadir una nueva tarjeta.

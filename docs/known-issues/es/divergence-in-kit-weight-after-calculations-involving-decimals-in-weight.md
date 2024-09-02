@@ -18,9 +18,7 @@ internalReference: 657186
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En ciertos casos de kits, la política de envío puede no estar disponible, esto puede suceder debido a la lógica utilizada para los cálculos que involucran el peso.

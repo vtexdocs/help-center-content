@@ -18,9 +18,7 @@ internalReference: 577103
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En algunos casos, la lista de pedidos muestra un estado diferente del estado actual del pedido (tarjeta).

@@ -18,9 +18,7 @@ internalReference: 384009
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Esto sucede cuando una transacción obtiene el estado 480 que significa "REVISIÓN", y comienza a reintentar hasta que recibe una carga útil nula. Entonces, después de eso, "reprocesamos" la transacción lo que provoca un fallo y la cancelación.

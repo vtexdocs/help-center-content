@@ -24,9 +24,7 @@ Therefore, after an objective and thorough analysis, we have decided to remove t
 
 The Facebook login feature will be removed from all versions of the VTEX admin panel.
 
-<div class="alert alert-info">
-The Facebook login feature will still be available for customers to log in to your VTEX store.
-</div>
+>ℹ️ The Facebook login feature will still be available for customers to log in to your VTEX store.
 
 ## Why are we making this change?
 

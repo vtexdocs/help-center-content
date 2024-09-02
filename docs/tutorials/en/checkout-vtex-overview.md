@@ -37,9 +37,7 @@ Every time a customer changes something in the cart (adds or removes items), or 
 
 ![Checkout overview](https://images.ctfassets.net/alneenqid6w5/6U3DBHywYW2RnlM94QQFg5/1c2b515127000db8b88c3a2cfa5996d0/Checkout_Overview_EN.png)
 
-<div class="alert alert-info">
-If one or more items selected by the customer are eligible for delivery by a <a href="https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#">Seller white label</a>, the seller responsible for delivering the items will be chosen based on shipping simulations, as shown in the right side of the picture. Learn more in <a href="https://help.vtex.com/en/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa#">Selecting white label sellers</a>.
-</div>
+>ℹ️ If one or more items selected by the customer are eligible for delivery by a [Seller white label](https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#), the seller responsible for delivering the items will be chosen based on shipping simulations, as shown in the right side of the picture. Learn more in [Selecting white label sellers](https://help.vtex.com/en/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa#).
 
 ## VTEX Checkout features
 
@@ -55,8 +53,6 @@ Here are some highlights from the main features of the VTEX Checkout module:
 
 The VTEX Checkout module currently runs two versions: **Checkout v5** and **Checkout v6**.
 
-<div class="alert alert-info">
-  <b>Checkout v5</b> is no longer being updated or receiving direct operational support. Therefore, we recommend using <b>Checkout v6</b> for your store.
-</div>
+>ℹ️ **Checkout v5** is no longer being updated or receiving direct operational support. Therefore, we recommend using **Checkout v6** for your store.
 
 For more information about Checkout settings and APIs, please go to [Checkout Overview on Developer Portal](https://developers.vtex.com/vtex-rest-api/docs/checkout-overview).

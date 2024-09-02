@@ -125,8 +125,6 @@ A la derecha de esas indicaciones, el Postman exhibe, para cada API, un Sample R
  
 Para algunas APIs, hay también una Sample Response, que es un ejemplo de respuesta a aquel request.
  
-<div class="alert alert-warning">
-Todo el contenido que aparece entre llaves (**{{contenido}}**) es una variable, y debe ser reemplazado por el dato correcto antes de que se realice el request. Es el caso, por ejemplo, del nombre de su tienda, del ambiente deseado y de los de AppKey y AppToken.
-</div>
+>⚠️ Todo el contenido que aparece entre llaves (**{{contenido}}**) es una variable, y debe ser reemplazado por el dato correcto antes de que se realice el request. Es el caso, por ejemplo, del nombre de su tienda, del ambiente deseado y de los de AppKey y AppToken.
 
 Vea cómo crear su appKey y appToken en el artículo [Crear appKey y appToken para autenticar las integraciones](/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones).

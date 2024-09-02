@@ -20,9 +20,7 @@ The next step is to create accounts for the customers you want to offer credit t
 - [Multiple Accounts (Admin VTEX)](#create-multiple-accounts-bulk-import)
 - [Individual account (Customer Credit API)](#criar-conta-via-api)
 
-<div class="alert alert-info">
-Accounts created in the Customer Credit app have no relationship or share data with the customer base registered in the store's <a href="https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#data-entities">Master Data entities</a>. For a customer to be able to use Customer Credit as a payment method, their account must be registered by the merchant in the app even if the customer already has an account in the store. 
-</div>
+>ℹ️ Accounts created in the Customer Credit app have no relationship or share data with the customer base registered in the store's [Master Data entities](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#data-entities). For a customer to be able to use Customer Credit as a payment method, their account must be registered by the merchant in the app even if the customer already has an account in the store.
 
 ## Create accounts individually
 
@@ -34,9 +32,7 @@ To register a new customer in Customer Credit, follow the steps below:
 4. In __Credit__, enter the __Credit Limit (BRL)__ and __Tolerance__ values that you want to make available to the customer.
 5. Click `Confirm`.
 
-<div class="alert alert-warning">
-Filling in the <b>Email</b> field is mandatory, as the VTEX platform uses this information to authenticate the customer's access to the credit limits of their account. For more information about data protection, visit <a href="https://help.vtex.com/en/tutorial/smartcheckout-security--3SrJuuhrqwePUg1rp1exfB">SmartCheckout Security</a>.
-</div>
+>⚠️ Filling in the **Email** field is mandatory, as the VTEX platform uses this information to authenticate the customer's access to the credit limits of their account. For more information about data protection, visit [SmartCheckout Security](https://help.vtex.com/en/tutorial/smartcheckout-security--3SrJuuhrqwePUg1rp1exfB).
 
 From this moment on, the new account created will be displayed on the __Accounts__ screen.
 
@@ -71,9 +67,7 @@ To create multiple accounts at the same time (in bulk) in Customer Credit, you c
 
 From this moment on, new accounts created via the .csv spreadsheet will be available on the __Accounts__ screen.
 
-<div class="alert alert-warning">
-It is also possible to track previous processes of creating multiple accounts, identifying whether the accounts were created correctly. To check this information, click on <b>Import History</b> on the <b>Accounts</b> screen.
-</div>  
+>⚠️ It is also possible to track previous processes of creating multiple accounts, identifying whether the accounts were created correctly. To check this information, click on **Import History** on the **Accounts** screen.  
 
 ### Update multiple accounts (bulk import)
 

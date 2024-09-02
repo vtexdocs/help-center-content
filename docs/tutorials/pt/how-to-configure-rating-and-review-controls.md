@@ -15,9 +15,7 @@ legacySlug: como-configurar-controle-de-avaliacao-e-resenha
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class="alert alert-danger">
-Este recurso está obsoleto. Sugerimos utilizar serviços de avaliação externos.
-</div>
+>❗ Este recurso está obsoleto. Sugerimos utilizar serviços de avaliação externos.
 
 Esse artigo tem o intuito de ensinar como utilizar os controles de avaliação e resenha.
 

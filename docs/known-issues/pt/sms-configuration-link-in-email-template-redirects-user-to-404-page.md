@@ -18,9 +18,7 @@ internalReference: 1054007
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Na tela de configuração do modelo do sistema do centro de mensagens, há um link que deve levar o usuário à configuração do aplicativo de envio de SMS, mas esse aplicativo não está mais disponível e o link agora retorna 404, exibindo uma tela com a mensagem "`store/not-found-box-title`".

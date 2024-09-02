@@ -18,9 +18,7 @@ internalReference: 1079002
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao pesquisar na guia Usuários em Detalhes da organização B2B com um termo que não tem resultado, nada é filtrado e todos os usuários são mostrados no resultado.

@@ -18,9 +18,7 @@ internalReference: 538706
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 CMS Settings Role no funciona como se esperaba. A veces el usuario no puede acceder al CMS incluso después de ser añadido al rol.

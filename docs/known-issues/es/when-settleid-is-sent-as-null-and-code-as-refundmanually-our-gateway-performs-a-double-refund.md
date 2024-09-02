@@ -18,9 +18,7 @@ internalReference: 615050
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La documentación de la APP indica que cuando el proceso de reembolso no ha funcionado, el proveedor debe responder con un `null` a este campo, y también cuando el reembolso debe realizarse manualmente, el campo de código debe tener el valor "refund-manually".

@@ -18,9 +18,7 @@ internalReference: 931246
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 Las peticiones HTTP de navegación de tienda no respetan la cookie de selección de espacio de trabajo durante la sesión. De hecho, durante una única sesión, un usuario puede recibir respuestas de todos los espacios de trabajo que se estén probando.
 

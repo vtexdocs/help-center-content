@@ -15,9 +15,7 @@ legacySlug: configurar-o-avise-me
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-<div class="alert alert-warning">
-  <p> Este artigo explica como configurar o <strong>Avise-me</strong> em lojas que utilizam o <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS Portal Legado</a>. Em lojas que utilizam <a href="https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io">VTEX IO</a>, a configuração precisa ser feita seguindo os passos do guia <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify">Availability Notify</a>.</p>
-</div>
+>⚠️ Este artigo explica como configurar o **Avise-me** em lojas que utilizam o [CMS Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). Em lojas que utilizam [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), a configuração precisa ser feita seguindo os passos do guia [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify).
 
 Quando um produto está fora de [estoque](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139), o lojista pode optar por disponibilizar para o cliente o **Avise-me**. Essa funcionalidade permite que os clientes interessados sejam notificados por email quando o item voltar a ficar disponível.
 

@@ -22,9 +22,7 @@ Então é por ela que precisamos começar.
 
 ## O que é uma árvore de categorias?
 
-<div class="alert alert-info">
-A árvore de categorias é o conjunto de categorias do seu site, <strong>distribuídas segundo relações de hierarquia</strong>.
-</div>
+>ℹ️ A árvore de categorias é o conjunto de categorias do seu site, **distribuídas segundo relações de hierarquia**.
 
 ## Exemplo
 
@@ -44,15 +42,11 @@ __OBS__: a nomenclatura __Departamento / Categoria / Subcategoria__ é apenas um
 
 Mas atenção:
 
-<div class="alert alert-warning">
-Recomendamos que sejam criados <strong>no máximo 3 níveis de categoria</strong>. Mais níveis podem tornar a operação do seu catálogo muito complexa.
-</div>
+>⚠️ Recomendamos que sejam criados **no máximo 3 níveis de categoria**. Mais níveis podem tornar a operação do seu catálogo muito complexa.
 
 Dois pontos fundamentais:
 
 - Quem planeja a distribuição das categorias do seu site? __Você! Esse planejamento deve refletir os objetivos do seu negócio.__
 - Quando a distribuição das categorias deve ser definida? __Antes que as categorias sejam de fato inseridas no site.__
 
-<div class="alert alert-warning">
-É muito importante que sua equipe defina a composição da árvore de categorias <strong>antes</strong> de montá-la na plataforma. Depois que você começar a inserir produtos, precisar mover categorias pode se tornar uma dor de cabeça.
-</div>
+>⚠️ É muito importante que sua equipe defina a composição da árvore de categorias **antes** de montá-la na plataforma. Depois que você começar a inserir produtos, precisar mover categorias pode se tornar uma dor de cabeça.

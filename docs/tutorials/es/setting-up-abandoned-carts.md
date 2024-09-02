@@ -42,9 +42,7 @@ Puede crear su propio template de email personalizado o utilizar la opción de e
 
 ![template xhtml](https://images.ctfassets.net/alneenqid6w5/44IZ7N3din2EELL15z5FeQ/5e4164dc9abd8f5139d7934cae41e44c/Template_XHTML.PNG)
 
-<div class="alert alert-warning">
-Recomendamos que lo realicen profesionales familiarizados con el módulo CMS, que ya hayan realizado la configuración de otros templates de página y expositor.
-</div>
+>⚠️ Recomendamos que lo realicen profesionales familiarizados con el módulo CMS, que ya hayan realizado la configuración de otros templates de página y expositor.
 
 Para utilizar una opción de modelo estándar, siga los pasos que se indican a continuación:
 
@@ -67,9 +65,7 @@ Una vez que se haya creado el nuevo template de email o se hayan utilizado los d
 7. En __Html__, ingrese la información del template de email creado o predeterminado.
 8. Haga clic `Save`. 
 
-<div class = "alert alert-info">
-El campo JSON Data no debe completarse ni sus datos deben usarse en el template de email. Solo contiene información para permitir una vista previa del formato en el que se verán los datos en el email.
-</div>
+>ℹ️ El campo JSON Data no debe completarse ni sus datos deben usarse en el template de email. Solo contiene información para permitir una vista previa del formato en el que se verán los datos en el email.
 
 ![New template - message center](https://images.ctfassets.net/alneenqid6w5/7nX1YnaZoesV51yG24Z3ls/68a8a4f2f7ad9f9911598b3aab475817/Novo_template.PNG)
 
@@ -131,9 +127,7 @@ Para que la activación del trigger sea posible, es necesario que los filtros es
 13. Haz clic en `Guardar`.
 14. Crea un carrito y cierra la página para probar el trigger.
 
-  <div class="alert alert-warning">
-	<p>La sesión de una página expira en 30 minutos. Es después de este periodo que Master Data inicia el conteo del periodo programado para activar el trigger de carrito abandonado. Por lo tanto, el tiempo hasta que llega el email corresponde al tiempo de sesión (30 minutos) más el periodo programado en el trigger.</p>
-</div>
+  >⚠️ La sesión de una página expira en 30 minutos. Es después de este periodo que Master Data inicia el conteo del periodo programado para activar el trigger de carrito abandonado. Por lo tanto, el tiempo hasta que llega el email corresponde al tiempo de sesión (30 minutos) más el periodo programado en el trigger.
 
 14. Después de que recibas el email de carrito abandonado, en el campo __Destinatario__ (paso 12), selecciona la opción __CL:Email__ y haz clic en `Agregar email dinámico`.
 15. Haz clic en `Guardar`.

@@ -17,9 +17,7 @@ subcategory: pwxWmUu7T222QyuGogs68
 
 Este artículo tiene el objetivo de describir el funcionamiento del sistema de búsqueda de VTEX.
 
-<div class = "alert alert-warning">
-  VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
-</div>
+>⚠️ VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
 
 ## Cómo el buscador de VTEX prioriza la exhibición de productos
 
@@ -38,8 +36,9 @@ De acuerdo con el término buscado, el sistema puede renderizar los siguientes r
 
 Si el término buscado corresponde exactamente al nombre de una carpeta configurada en el CMS (es decir, a una landing page), esa carpeta será renderizada.
 
-<div class="alert alert-warning">
-<b>Atención</b>: para que una carpeta pueda buscarse, esta debe poseer un layout.<br><b>Aunque la búsqueda sea por una carpeta hija, el padre también requiere un layout.</b></div>
+>⚠️ **Atención**: para que una carpeta pueda buscarse, esta debe poseer un layout.
+>
+> **Aunque la búsqueda sea por una carpeta hija, el padre también requiere un layout.**
 
 ### 2. Marca
 

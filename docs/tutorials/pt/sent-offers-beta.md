@@ -33,17 +33,13 @@ Quando um seller configura condições de preço e estoque, ele está preparando
 -   **Com erro:** quando o sistema encontra um problema que previne um anúncio de ser enviado, ou atualizado em um canal. Esse status significa que o anúncio requer correção manual. 
 -   **Indisponível:** quando o anúncio é descartado, por estar inativo ou não incluído na política comercial determinada para o canal.
 
-<div class="alert alert-info">
-Ao clicar em  <code>Ver Lista</code>  você será redirecionado à <a href="https://help.vtex.com/pt/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE">listagem de Anúncios</a>.
-</div>
+>ℹ️ Ao clicar em  `Ver Lista`  você será redirecionado à [listagem de Anúncios](https://help.vtex.com/pt/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE).
 
 ## Canais
 
 Esse componente lista todos os canais integrados, além dos números de anúncios enviados, anúncios em  processamento e anúncios com erro, para cada canal. Por meio da lista, sellers têm maior visibilidade sobre a saúde das suas integrações com canais externos. 
 
-<div class = "alert alert-info">
-A <b>Anúncios enviados</b> permite acompanhar anúncios com o <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Livre Classic</a>, <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Livre Premium</a>, <a href="https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm">Netshoes</a> e <a href="https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-um-marketplace-vtex">marketplaces VTEX</a>.
-</div>
+>ℹ️ A **Anúncios enviados** permite acompanhar anúncios com o [Mercado Livre Classic](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Mercado Livre Premium](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e [marketplaces VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-um-marketplace-vtex).
 
 ## Saiba mais
 

@@ -18,9 +18,7 @@ internalReference: 938124
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Na visualização do envio, ao selecionar a retirada na loja, mas nem todos os itens estão disponíveis para essa retirada, o endereço exibido para envio é o da retirada escolhida, e não é possível alterá-lo. No formulário de pedido, o endereço selecionado para envio está correto.

@@ -18,9 +18,7 @@ internalReference: 718908
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao abrir o módulo Promoções muito rapidamente e várias vezes seguidas, um comportamento incorreto aparece na interface do usuário.

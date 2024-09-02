@@ -15,17 +15,13 @@ legacySlug: produtos-e-skus-beta
 subcategory: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-<div class = "alert alert-info">
-  <p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href = "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href = "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
 
 A página **Produtos e SKUs** possibilita visualizar e gerenciar a lista completa de produtos cadastrados na sua loja, incluindo informações sobre SKUs, data da última atualização e status. Para acessá-la, entre no menu **Catálogo > Produtos e SKUs**.
 
 ![products-skus-pt](https://images.ctfassets.net/alneenqid6w5/3Euar7pKsXKgqIfz1MwOOa/42eb4310fbe66a016176c54adb447ad9/products-skus-pt.png)
 
-<div class="alert alert-info">
-  <p>Esta página está disponível somente para lojas que estão operando com o <a href="https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa">Novo Admin VTEX</a>. Para acessar esta página e fazer parte de uma nova experiência, participe do <a href="https://content.vtex.com/participe-do-programa-beta-pt/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta">programa Beta</a> do Novo Admin VTEX.</p>
-</div>
+>ℹ️ Esta página está disponível somente para lojas que estão operando com o [Novo Admin VTEX](https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para acessar esta página e fazer parte de uma nova experiência, participe do [programa Beta](https://content.vtex.com/participe-do-programa-beta-pt/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta) do Novo Admin VTEX.
 
 A página permite que você realize as seguintes ações:
 
@@ -83,9 +79,7 @@ A lista de produtos pode ser filtrada conforme a sua necessidade. Você pode uti
 
 Selecione os filtros desejados e clique em `Aplicar` para filtrar os produtos. Para cancelar a seleção, clique em `Limpar`.
 
-<div class="alert alert-warning">
-  <p>Não é possível filtrar produtos por <a href="https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w">seller</a> ou por data da pré-venda nesta versão do Catálogo.</p>
-</div>
+>⚠️ Não é possível filtrar produtos por [seller](https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) ou por data da pré-venda nesta versão do Catálogo.
 
 ## Acompanhar status de produtos
 

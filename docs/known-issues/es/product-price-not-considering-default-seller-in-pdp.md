@@ -18,9 +18,7 @@ internalReference: 429888
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al mostrar el precio en PDP, el componente ignora el Vendedor por defecto, considerando el primer vendedor que se registró.

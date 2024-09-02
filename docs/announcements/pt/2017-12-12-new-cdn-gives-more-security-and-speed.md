@@ -26,9 +26,11 @@ Algumas das vantagens de usar uma CDN são:
 
 E com o suporte a HTTP/2 você tem acesso a uma série de outras melhorias. Para entender quais são elas, veja este artigo do Tecnoblog: [Como funciona o HTTP/2 e o que ele muda na sua vida](https://tecnoblog.net/173920/http-2-como-funciona/).
 
-<div class="alert alert-warning">
-<strong>Todas as lojas VTEX devem migrar</strong> para a nova CDN.<br><br>Veja <a href="http://help.vtex.com/pt/tutorial/ativar-nova-cdn-da-vtex">neste artigo</a> como fazer essa migração.
-</div>
+>⚠️ **Todas as lojas VTEX devem migrar** para a nova CDN.
+>
+> 
+>
+> Veja [neste artigo](http://help.vtex.com/pt/tutorial/ativar-nova-cdn-da-vtex) como fazer essa migração.
 
 Não há riscos ou contraindicações para aderir ao novo modelo.
 

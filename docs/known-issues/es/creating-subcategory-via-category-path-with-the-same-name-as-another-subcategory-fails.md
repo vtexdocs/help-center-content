@@ -18,9 +18,7 @@ internalReference: 1087069
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, es posible crear nuevas categorías y/o subcategorías informando de sus nombres a través de la propiedad JSON "CategoryPath" en la API de inserción de productos: https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product

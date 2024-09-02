@@ -18,9 +18,7 @@ internalReference: 442772
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O erro acontece em um cenário específico onde você preenche as informações do cartão, depois muda o método de pagamento para outro (MercadoPago, por exemplo) e depois volta novamente ao método de pagamento com cartão de crédito e depois confirma o pagamento.

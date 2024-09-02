@@ -18,9 +18,7 @@ internalReference: 650714
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Nossa API para listar os pontos de coleta por local está sempre retornando 'nulo' no campo 'informação adicional'. Entretanto, como estes dados normalmente vêm do API de logística, então estes dados estão presentes no pedidoFormulário de pedido ao colocar um pedido na caixa.

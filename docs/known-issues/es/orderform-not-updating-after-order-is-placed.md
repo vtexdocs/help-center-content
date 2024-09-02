@@ -18,9 +18,7 @@ internalReference: 1056870
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Después de realizar un pedido, el orderFormId no se actualiza, lo que provoca que los artículos permanezcan visibles en el carrito. Este problema afecta a las cuentas FastStore

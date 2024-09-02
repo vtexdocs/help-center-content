@@ -38,9 +38,7 @@ Para emparejar VTEX Sales App con una impresora, deben cumplirse los siguientes 
 * Si no tienes VTEX Sales App en tu computador, instala la aplicación siguiendo nuestra guía de [Instalación](https://help.vtex.com/es/tracks/instore-usando-el-app--4BYzQIwyOHvnmnCYQgLzdr/2rPSJ8519UCCZo5uEBkqxh).
 * Obtener un par de credenciales (AppKey y AppToken) con los permisos de acceso correspondientes. Lee el artículo [Claves de aplicación](https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) para obtener más información.
 
-<div class="alert alert-info">
-<p>Recomendamos que el perfil de acceso relacionado con estas credenciales sea el <strong>VTEX Sales App Sales Person</strong>. Sin embargo, también se puede utilizar un perfil con acceso a otros módulos del Admin, como <strong>Admin Super</strong>.</p>
-</div>
+>ℹ️ Recomendamos que el perfil de acceso relacionado con estas credenciales sea el **VTEX Sales App Sales Person**. Sin embargo, también se puede utilizar un perfil con acceso a otros módulos del Admin, como **Admin Super**.
 
 ### Paso a paso
 

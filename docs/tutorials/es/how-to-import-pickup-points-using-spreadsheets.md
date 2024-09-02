@@ -19,9 +19,7 @@ Los puntos de recogida, también conocidos como pickup points, son parte importa
 
 Puede [configurar puntos de recogida uno a uno](/es/tutorial/configurar-puntos-de-recogida-pickup-points) o hacer esto mediante la importación de una planilla XLS [(como la de este ejemplo)](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Usando un archivo XLS, usted registra todos los pickup points de una sola vez (siempre que no supere los 10 MB).
 
-<div class="alert alert-info">
-Un archivo XLS de <strong>10 MB</strong> permite el registro de, aproximadamente, <strong>50 mil</strong> puntos de recogida. Para importar un número mayor, es necesario dividirlos en más de una planilla y hacer un upload a la vez.
-</div>
+>ℹ️ Un archivo XLS de **10 MB** permite el registro de, aproximadamente, **50 mil** puntos de recogida. Para importar un número mayor, es necesario dividirlos en más de una planilla y hacer un upload a la vez.
 
 
 

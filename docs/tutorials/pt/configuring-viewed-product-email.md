@@ -15,9 +15,7 @@ legacySlug: configurando-produto-visitado
 subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-<div class="alert alert-warning">
-  <p>Tutorial válido apenas para lojas CMS Portal Legado.</p>
-</div>
+>⚠️ Tutorial válido apenas para lojas CMS Portal Legado.
 
 O email sobre produto visitado é uma mensagem automática enviada para clientes que visitaram a página de um produto no site mas não finalizaram a compra. O envio do email tem como objetivo a recuperação da venda e a oferta de outros produtos.
 
@@ -29,9 +27,7 @@ O email sobre produto visitado é uma mensagem automática enviada para clientes
 4. [Criar a estrutura de pastas](#criar-a-estrutura-de-pastas)
 5. [Configurar a trigger de disparo do email](#configurar-a-trigger-de-disparo-do-email)
 
-<div class="alert alert-warning">
-  <p>Para esse recurso funcionar de forma adequada, é necessário que sua loja possua um alto fluxo de visitas e compras, uma vez que as prateleiras são geradas relacionando dados de navegação a um produto específico.</p>
-</div>
+>⚠️ Para esse recurso funcionar de forma adequada, é necessário que sua loja possua um alto fluxo de visitas e compras, uma vez que as prateleiras são geradas relacionando dados de navegação a um produto específico.
 
 ## Definir um intervalo mínimo de disparo
 

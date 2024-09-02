@@ -18,9 +18,7 @@ internalReference: 918687
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En el módulo de recogida, al utilizar los filtros para añadir productos, el filtro Especificación de producto no lista los campos registrados en la categoría raíz

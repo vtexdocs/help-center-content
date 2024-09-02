@@ -24,6 +24,4 @@ Let's say, for example, that you have a substore specific for B2B sales and you 
 
 To add more trade policies, you have to get in touch with the Sales Operations area at: __sales-operations@vtex.com__.
 
-<div class="alert alert-warning">
-Adding trade policies that are linked to certified marketplaces or other VTEX stores is free of monthly fees.
-</div>
+>⚠️ Adding trade policies that are linked to certified marketplaces or other VTEX stores is free of monthly fees.

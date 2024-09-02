@@ -18,9 +18,7 @@ internalReference: 754363
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A API de pesquisa de catálogo, documentada aqui: https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/search/-search- , não aceita termos com caracteres especiais como "apóstrofo" ou "aspas".

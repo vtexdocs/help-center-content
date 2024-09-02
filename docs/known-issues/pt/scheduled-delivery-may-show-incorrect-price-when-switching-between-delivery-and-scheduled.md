@@ -18,9 +18,7 @@ internalReference: 770250
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando é configurada uma promoção de valor máximo de remessa, se você começar a mudar entre entrega padrão e entrega programada várias vezes, pode haver um preço de entrega programada diferente na IU

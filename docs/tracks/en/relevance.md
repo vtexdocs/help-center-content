@@ -38,9 +38,7 @@ The information considered for the relevance is:
 
 The set of weights and criteria distribution generates a score for the product, which determines its position in the search result ranking.
 
-<div class="alert alert-warning">
-  <p>IIf you want to use priority criteria, we recommend adding only one criterion in this field. Adding more criteria compromises the ordering or search results, since only the first criterion will be considered.</p>
-</div>
+>⚠️ IIf you want to use priority criteria, we recommend adding only one criterion in this field. Adding more criteria compromises the ordering or search results, since only the first criterion will be considered.
 
 So you can tailor the behavior of the search results to a specific strategy.
 

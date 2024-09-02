@@ -17,9 +17,7 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 En VTEX es posible procesar pagos con el proveedor PagarMe a través de integraciones V2 y V3.
 
-<div class="alert alert-warning">
-Si quieres configurar la versión V3 de Pagarme en tu tienda, accede a <a href="https://help.vtex.com/es/tutorial/configurar-pago-con-pagarmev3--5PMavdamrVijwIrHas9ndE">Configurar pago con PagarMeV3</a>.
-</div>
+>⚠️ Si quieres configurar la versión V3 de Pagarme en tu tienda, accede a [Configurar pago con PagarMeV3](https://help.vtex.com/es/tutorial/configurar-pago-con-pagarmev3--5PMavdamrVijwIrHas9ndE).
 
 Para configurar PagarMeV2, siga los pasos a continuación:
 

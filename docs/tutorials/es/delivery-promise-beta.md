@@ -15,9 +15,7 @@ legacySlug: delivery-promise-beta
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-Esta funcionalidad se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarla. Si tienes alguna duda, ponte en contacto con <a href= "https://help.vtex.com/es/support">nuestro Soporte</a>.
-</div>
+>ℹ️ Esta funcionalidad se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarla. Si tienes alguna duda, ponte en contacto con <a href= "https://help.vtex.com/es/support">nuestro Soporte</a>.
 
 **Delivery Promise (Beta)** es la nueva solución de VTEX para que el cliente, durante la experiencia de compra en tu tienda, vea solo los productos que puede comprar, teniendo en cuenta tanto la disponibilidad de los productos en stock como los tipos de envío válidos para la dirección de entrega.
 
@@ -25,9 +23,7 @@ Con la funcionalidad **Delivery Promise (Beta),** tu tienda puede ofrecer a los 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bqapGY0wo24" title="VTEX Delivery Promise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="alert alert-danger">
-Por el momento, la funcionalidad <b>Delivery Promise (Beta)</b> no permite filtrar la vitrina de la tienda por plazo de envío. Para más información sobre filtros, consulta la sección <a href="#funcionalidades-disponibles">Funcionalidades disponibles</a>.
-</div>
+>❗ Por el momento, la funcionalidad **Delivery Promise (Beta)** no permite filtrar la vitrina de la tienda por plazo de envío. Para más información sobre filtros, consulta la sección [Funcionalidades disponibles](#funcionalidades-disponibles).
 
 El artículo se estructura en las siguientes secciones:
 
@@ -52,9 +48,7 @@ En esta etapa, **Delivery Promise (Beta)** permite a los clientes de tu tienda f
 * Tipo de envío o recogida.
 * Punto de recogida deseado por el cliente.
 
-<div class = "alert alert-info">
-Los filtros mencionados anteriormente son componentes nativos de Intelligent Search. Si deseas desarrollar componentes personalizados para tu tienda, ponte en contacto con tu equipo de desarrollo o con un <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion">partner de implementación</a>.
-</div>
+>ℹ️ Los filtros mencionados anteriormente son componentes nativos de Intelligent Search. Si deseas desarrollar componentes personalizados para tu tienda, ponte en contacto con tu equipo de desarrollo o con un [partner de implementación](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion).
 
 ## Beneficios
 
@@ -111,9 +105,7 @@ El retailer debe verificar que los siguientes aspectos del producto estén corre
 * Recuento del [stock](https://help.vtex.com/es/tutorial/gerenciar-inventario--tutorials_139) del producto para ventas, o stock ilimitado configurado o posibilidad de activar la opción para mostrar el producto cuando esté agotado.
 * Plantillas de [CMS](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) configuradas para el frontend de la tienda.
 
-<div class = "alert alert-info">
-Para más información, consulta <a href="https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">¿Por qué el producto no se muestra en el sitio web?</a>.
-</div>
+>ℹ️ Para más información, consulta [¿Por qué el producto no se muestra en el sitio web?](https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
 
 ### 2. ¿Delivery Promise (Beta) garantiza que todos mis productos se mostrarán en la vitrina?
 

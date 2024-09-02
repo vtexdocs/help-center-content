@@ -18,9 +18,7 @@ internalReference: 298665
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando um carrinho/formulário de pedido tem vários itens com entrega programada do mesmo vendedor, as opções programadas com o mesmo ID (consideradas o mesmo método de envio) precisam ter as mesmas janelas de entrega entre elas. Se não houver interseção, o método de envio será descartado para alguns itens.

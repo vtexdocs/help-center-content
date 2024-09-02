@@ -17,9 +17,7 @@ subcategory: Se4oi5LroIII2Ei0uGAoE
 
 Na VTEX, todas as lojas possuem um ambiente beta. Neste local, o usuário da plataforma (lojista, desenvolvedor ou outra pessoa com acesso) pode realizar testes para validar novas configurações  ou versões de aplicações/serviços antes de promover as mudanças no ambiente em que os clientes realizam as compras, também conhecido como ambiente de produção (stable).
 
-<div class = "alert alert-info">
-O ambiente beta é uma reprodução exata do ambiente de produção (stable), incluindo dados e configurações da loja.
-</div>
+>ℹ️ O ambiente beta é uma reprodução exata do ambiente de produção (stable), incluindo dados e configurações da loja.
 
 Dessa forma, **a alteração de dados no ambiente beta afeta os dados no ambiente stable**.
 
@@ -41,6 +39,4 @@ Para acessar o ambiente beta em sua loja, é necessário habilitar o cookie `vte
 <li>Atualize a página pressionando a tecla <code>F5</code> ou o botão de atualizar do seu navegador. Após o carregamento da página, o Admin da loja já estará em ambiente Beta.</li>
 </ol>
 
-<div class = "alert alert-info">
-Para voltar à loja em seu ambiente principal, acesse novamente a tela Dev. Tools do seu navegador e remova o cookie <code>vtex-commerce-env</code> inserido. Atualize novamente a página para retornar ao ambiente de produção <b>stable</b>.
-</div>
+>ℹ️ Para voltar à loja em seu ambiente principal, acesse novamente a tela Dev. Tools do seu navegador e remova o cookie `vtex-commerce-env` inserido. Atualize novamente a página para retornar ao ambiente de produção **stable**.

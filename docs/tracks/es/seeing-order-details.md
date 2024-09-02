@@ -49,9 +49,7 @@ En la plataforma VTEX también hay una funcionalidad para unificar la comunicaci
 
 Todos los datos del cliente se ingresan en el momento del cierre del pedido y no se pueden cambiar aquí. Para ver y administrar estos datos, usted puede acceder al Master Data.]
 
-<div class="alert alert-info">
-Si su tienda solo actúa como seller de un pedido, no se mostrará el correo electrónico del cliente. Entendemos que la relación del cliente es con el marketplace, por lo que no es recomendable compartir sus datos con el seller sin consentimiento previo.
-  </div>
+>ℹ️ Si su tienda solo actúa como seller de un pedido, no se mostrará el correo electrónico del cliente. Entendemos que la relación del cliente es con el marketplace, por lo que no es recomendable compartir sus datos con el seller sin consentimiento previo.
 
 ### Valor total
 

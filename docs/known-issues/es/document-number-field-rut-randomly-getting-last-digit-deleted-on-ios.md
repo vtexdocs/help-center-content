@@ -18,9 +18,7 @@ internalReference: 921944
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Sólo en Safari/iOS, al rellenar el número de documento y desplazarse por los campos de datos del cliente, el campo número de documento (RUT) tendrá el último dígito borrado.

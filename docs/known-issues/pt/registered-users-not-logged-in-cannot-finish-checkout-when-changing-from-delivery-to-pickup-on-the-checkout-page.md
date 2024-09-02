@@ -18,9 +18,7 @@ internalReference: 870845
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando um usuário registrado (não conectado) inicia o checkout com Entrega como opção de envio e, posteriormente, muda para retirada, ao tentar concluir o checkout, a mensagem de erro "O campo Número no anexo de envio é inválido" será exibida e não permitirá a realização do pedido.

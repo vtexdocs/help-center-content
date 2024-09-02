@@ -31,6 +31,4 @@ Integrar su _blog_/sitio web en la tienda equivale a utilizar una poderosa herra
 
 Instale la aplicación desde la [App Store de VTEX](https://apps.vtex.com/vtex-wordpress-integration/p) y siga las instrucciones de esta [documentación](https://developers.vtex.com/vtex-developer-docs/docs/vtex-wordpress-integration) para configurar la integración.
 
-<div class="alert alert-info">
-Para utilizar esta aplicación es necesario tener un sitio web/blog desarrollado en WordPress.
-</div>
+>ℹ️ Para utilizar esta aplicación es necesario tener un sitio web/blog desarrollado en WordPress.

@@ -64,9 +64,7 @@ Para configurar uma nova chave, siga os passos abaixo:
 5. Clique em Adicionar perfis e selecione os perfis desejados.  
 6. Clique em Gerar.  
 
-<div class="alert alert-danger">
-  O <i>AppToken</i>, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
-</div>
+>❗ O <i>AppToken</i>, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
 
 ### Criar ID do afiliado  
 
@@ -101,7 +99,5 @@ __- Política comercial:__ número da política comercial determinada na etapa [
 
 Uma vez que o seller tenha reunido esses dados, deverá enviá-los para o contato informado pelo time de Marcas Parceiras da AMARO. Desta forma,a integração será concluída pelo marketplace.  
 
-<div class="alert alert-info">
-Após a primeira conexão com o seller center AMARO e verificação inicial do sucesso da integração, o time de Marcas Parceiras AMARO irá orientar o seller a adicionar os demais produtos na política comercial para a etapa final de curadoria e exibição dos itens no amaro.com e aplicativos AMARO.
-</div>
+>ℹ️ Após a primeira conexão com o seller center AMARO e verificação inicial do sucesso da integração, o time de Marcas Parceiras AMARO irá orientar o seller a adicionar os demais produtos na política comercial para a etapa final de curadoria e exibição dos itens no amaro.com e aplicativos AMARO.
 

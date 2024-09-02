@@ -85,6 +85,4 @@ If you want, you can also include the following functions in the script:
 - Automatically expire cookies containing special characters
 - Trigger page reload using the function `window.location.reload()`  
 
-<div class="alert alert-warning">
-  Deleting cookies via script is not a permanent solution. As described in the <b>Disabling cookies with special characters</b> section, you must identify the source and stop sending cookies with special characters.
-</div>
+>⚠️ Deleting cookies via script is not a permanent solution. As described in the **Disabling cookies with special characters** section, you must identify the source and stop sending cookies with special characters.

@@ -18,9 +18,7 @@ internalReference: 1064235
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En nuevos espacios de trabajo o cuentas que nunca cambiaron las configuraciones avanzadas de la Configuración de la Tienda se puede verificar una inconsistencia entre la información en la UI y la bandera aplicada a la cuenta.

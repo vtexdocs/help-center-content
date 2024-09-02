@@ -15,9 +15,7 @@ legacySlug: como-funciona-a-alterar-pedido-beta
 subcategory: 3LQ1Tl0u4frEOd45BkjFAm
 ---
 
-<div class="alert alert-info">
-Essa funcionalidade está em fase beta, o que significa que estamos trabalhando para aprimorá-la. Se você deseja utilizar a <b>Alterar pedido (Beta)</b>, entre em contato com <a href="https://help.vtex.com/pt/support">nosso Suporte</a> e informe o(s) <a href="https://help.vtex.com/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name(s)</a> nos quais deseja ativá-la.
-</div>
+>ℹ️ Essa funcionalidade está em fase beta, o que significa que estamos trabalhando para aprimorá-la. Se você deseja utilizar a **Alterar pedido (Beta)**, entre em contato com [nosso Suporte](https://help.vtex.com/pt/support) e informe o(s) [account name(s)](https://help.vtex.com/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) nos quais deseja ativá-la.
 
 A funcionalidade **Alterar pedido (beta)** permite que você mude um pedido de diversas maneiras, seja a mudança motivada pela vontade do cliente, pela indisponibilidade de produtos ou outros motivos. Os principais tipos de alteração de pedidos são: 
 

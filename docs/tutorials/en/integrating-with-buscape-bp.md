@@ -32,9 +32,7 @@ Several steps are essential for us to initiate the configurations.
 4. Complete the fields as detailed below;
 5. Click on the **Salvar configuração** button. It will only be active if all configurations are correct.
 
-<div class="alert alert-warning">
-Attention! For the trade policy it is necessary at least one bank slip or a credit card to be configured. That is, it is necessary to configure the payment methods for the specific sales channel.
-</div>
+>⚠️ Attention! For the trade policy it is necessary at least one bank slip or a credit card to be configured. That is, it is necessary to configure the payment methods for the specific sales channel.
 
 ### Fields
 

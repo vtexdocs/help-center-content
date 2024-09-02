@@ -18,9 +18,7 @@ internalReference: 486752
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando a transação é reconhecida pelo fornecedor e o status nunca muda de indefinido, a AdyenV2 exige uma pspReferência para cancelar a transação. Este não é um comportamento esperado porque este campo não existe na PPP, assim o cliente fica preso no modal PIX na UI de checkout.

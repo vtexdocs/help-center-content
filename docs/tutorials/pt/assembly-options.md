@@ -15,9 +15,7 @@ legacySlug: assembly-options-pt
 subcategory: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-<div class="alert alert-warning">
-  <p>Esta funcionalidade está disponível apenas para lojas desenvolvidas usando <a href="https://vtex.com/br-pt/store-framework/">VTEX IO</a>. Antes de prosseguir, você deve <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer">instalar e configurar o Product Customizer</a> na sua loja.</p>
-</div>
+>⚠️ Esta funcionalidade está disponível apenas para lojas desenvolvidas usando [VTEX IO](https://vtex.com/br-pt/store-framework/). Antes de prosseguir, você deve [instalar e configurar o Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) na sua loja.
 
 Uma Assembly Option é um [anexo](https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) para cenários complexos, como a customização de produtos, em que é necessário gerenciar diferentes combinações de produtos, quantidade, itens adicionais, custos e estoque.
 
@@ -33,9 +31,7 @@ Neste artigo, explicamos como começar a utilizar Assembly Options na sua loja.
 
 Existem duas formas de implementar Assembly Options: utilizando o [app Assembly Options](#app-assembly-options) ou utilizando a interface nativa de [Campos personalizados](#campos-personalizados) do Catálogo.
 
-<div class="alert alert-warning">
-  <p>Ao implementar Assembly Options em uma <a href="https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w">conta de seller</a>, as opções de customização do produto são exibidas para os clientes da sua loja no checkout. Para que as opções sejam exibidas na página do produto, você precisa implementar a funcionalidade em uma <a href="https://help.vtex.com/pt/tutorial/o-que-e-um-marketplace--680lLJTnmEAmekcC0MIea8">conta de marketplace</a>.</p>
-</div>
+>⚠️ Ao implementar Assembly Options em uma [conta de seller](https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w), as opções de customização do produto são exibidas para os clientes da sua loja no checkout. Para que as opções sejam exibidas na página do produto, você precisa implementar a funcionalidade em uma [conta de marketplace](https://help.vtex.com/pt/tutorial/o-que-e-um-marketplace--680lLJTnmEAmekcC0MIea8).
 
 ### App Assembly Options
 

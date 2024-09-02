@@ -18,9 +18,7 @@ internalReference: 584102
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 há um manuseio incorreto de um dos erros do sistema de cartões-presente da VTEX. Quando o usuário estiver preenchendo o código de resgate do cartão-presente no checkout, se o usuário preencher um código de compra que não existe, ao invés de ser informado que o código é inválido, o seguinte erro será exibido no checkout "_Ocorreu um erro de comunicação com o sistema de cartão-presente_". Mas, na verdade, não há problema de conexão, é apenas que o vale não existe.

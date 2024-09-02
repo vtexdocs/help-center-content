@@ -17,9 +17,7 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 Na VTEX, é possível realizar a integração com o provedor de pagamentos Malga. Por meio deste provedor, sua loja pode realizar vendas por meio do cartões de crédito, PIX e boletos.
 
-<div class="alert alert-info">
-Caso deseje mais informações sobre a integração da Malga na VTEX, acesse a <a href="https://docs.malga.io/sdks/plugins/vtex-connector">documentação externa Malga</a>.
-</div>
+>ℹ️ Caso deseje mais informações sobre a integração da Malga na VTEX, acesse a [documentação externa Malga](https://docs.malga.io/sdks/plugins/vtex-connector).
 
 Para configurar a Malga, siga os passos abaixo:
 
