@@ -1,5 +1,5 @@
 ---
-title: 'As pesquisas com falha são tratadas como "não encontradas"'
+title: "As pesquisas com falha são tratadas como 'não encontradas'"
 id: m4OpfsQdSSxgSbY5ANOs8
 status: PUBLISHED
 createdAt: 2024-08-27T21:28:27.655Z

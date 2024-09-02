@@ -1,5 +1,5 @@
 ---
-title: 'Carrinho com itens exibe a mensagem "carrinho vazio" enquanto a tela ainda está carregando'
+title: "Carrinho com itens exibe a mensagem 'carrinho vazio' enquanto a tela ainda está carregando"
 id: 4oAiVz7fJL9vPkpPFEGyBT
 status: PUBLISHED
 createdAt: 2023-03-09T22:42:06.855Z

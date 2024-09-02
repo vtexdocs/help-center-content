@@ -1,5 +1,5 @@
 ---
-title: 'El pedido de mi tienda presenta el status "Verificando factura"'
+title: "El pedido de mi tienda presenta el status 'Verificando factura'"
 id: 2YY7ILOOd0lEjpiT7SSgag
 status: PUBLISHED
 createdAt: 2024-08-16T18:32:15.867Z

@@ -1,5 +1,5 @@
 ---
-title: 'Los pedidos con un "Error de creación" permanecen atascados en estado "cancelado".'
+title: "Los pedidos con un 'Error de creación' permanecen atascados en estado 'cancelado'."
 id: gP4woBDBX0FsUC6sdMHED
 status: PUBLISHED
 createdAt: 2024-08-29T20:28:41.531Z

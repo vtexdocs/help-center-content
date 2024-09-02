@@ -1,5 +1,5 @@
 ---
-title: 'Las búsquedas fallidas se tratan como "no encontradas".'
+title: "Las búsquedas fallidas se tratan como 'no encontradas'."
 id: m4OpfsQdSSxgSbY5ANOs8
 status: PUBLISHED
 createdAt: 2024-08-27T21:28:27.655Z

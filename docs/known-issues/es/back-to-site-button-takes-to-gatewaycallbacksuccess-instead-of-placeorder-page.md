@@ -1,5 +1,5 @@
 ---
-title: 'El botón "Volver al sitio" lleva a gatewayCallback//Success en lugar de a la página placeOrder'
+title: "El botón 'Volver al sitio' lleva a gatewayCallback//Success en lugar de a la página placeOrder"
 id: 7Hp6yYCblhbhrN3jHHigUC
 status: PUBLISHED
 createdAt: 2023-04-10T15:18:58.986Z

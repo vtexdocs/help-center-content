@@ -1,5 +1,5 @@
 ---
-title: 'La API de inserción/actualización de productos permite "\n" en el campo textLink.'
+title: "La API de inserción/actualización de productos permite '\n' en el campo textLink."
 id: 5TfUw5tTxBEu9HkL3ypBKw
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:53.325Z

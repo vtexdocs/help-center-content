@@ -1,5 +1,5 @@
 ---
-title: 'O usuário apenas com a função "User Administrator - RESTRICTED" não consegue listar os usuários'
+title: "O usuário apenas com a função 'User Administrator - RESTRICTED' não consegue listar os usuários"
 id: ifXUAzgJ1xr8ezhqKpRUI
 status: PUBLISHED
 createdAt: 2023-11-08T18:07:14.508Z

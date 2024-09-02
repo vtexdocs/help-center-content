@@ -1,5 +1,5 @@
 ---
-title: '[Meli] Error sku integration "Input string was not in a correct format"'
+title: "[Meli] Error sku integration 'Input string was not in a correct format'"
 id: 2NCm4vLyb1juIuIGMaB048
 status: PUBLISHED
 createdAt: 2022-09-27T21:05:39.320Z

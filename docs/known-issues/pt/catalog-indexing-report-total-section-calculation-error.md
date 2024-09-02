@@ -1,5 +1,5 @@
 ---
-title: 'Erro de Cálculo da Seção "Total" do Relatório de Indexação do Catálogo '
+title: "Erro de Cálculo da Seção 'Total' do Relatório de Indexação do Catálogo "
 id: 6TJXux104P2c0mruo5vlEn
 status: PUBLISHED
 createdAt: 2022-02-25T11:39:42.098Z

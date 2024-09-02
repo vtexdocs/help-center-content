@@ -1,5 +1,5 @@
 ---
-title: 'Componente de expedición bloqueado en estado "Esperando más información".'
+title: "Componente de expedición bloqueado en estado 'Esperando más información'."
 id: 7HHlJdZvZ31NgsB7lTShAz
 status: PUBLISHED
 createdAt: 2023-03-29T19:26:05.971Z

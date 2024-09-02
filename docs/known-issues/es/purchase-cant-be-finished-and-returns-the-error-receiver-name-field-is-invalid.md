@@ -1,5 +1,5 @@
 ---
-title: 'La compra no se puede finalizar y devuelve el error "el campo del nombre del receptor no es válido"'
+title: "La compra no se puede finalizar y devuelve el error 'el campo del nombre del receptor no es válido'"
 id: 6ALBFvGzD0SiSuttfXPiQo
 status: PUBLISHED
 createdAt: 2022-05-12T14:53:10.287Z

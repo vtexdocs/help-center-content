@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario de la configuración no actualiza el "periodo de caducidad" de las cotizaciones'
+title: "La interfaz de usuario de la configuración no actualiza el 'periodo de caducidad' de las cotizaciones"
 id: 4CmuAYwDn7tcCiR9DQHSFb
 status: PUBLISHED
 createdAt: 2023-08-07T19:42:22.810Z

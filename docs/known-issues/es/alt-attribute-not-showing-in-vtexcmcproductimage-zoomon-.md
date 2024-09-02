@@ -1,5 +1,5 @@
 ---
-title: 'ALT attribute not showing in <vtex.cmc:ProductImage zoom="on" />'
+title: "ALT attribute not showing in <vtex.cmc:ProductImage zoom='on' />"
 id: 4P1Eys9Q2WFddrMLQVDvM9
 status: DRAFT
 createdAt: 2022-02-17T13:08:53.295Z

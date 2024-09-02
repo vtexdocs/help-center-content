@@ -1,5 +1,5 @@
 ---
-title: 'Abas de "Receber | Retirar" são exibidas apenas de acordo com a disponibilidade no CEP buscado'
+title: "Abas de 'Receber | Retirar' são exibidas apenas de acordo com a disponibilidade no CEP buscado"
 id: 5PVGReAvyE0AOcoIq2SeKS
 status: PUBLISHED
 createdAt: 2018-11-21T16:19:00.507Z

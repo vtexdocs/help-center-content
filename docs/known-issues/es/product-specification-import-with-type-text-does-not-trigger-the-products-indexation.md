@@ -1,5 +1,5 @@
 ---
-title: 'La importación de especificaciones de producto con el tipo "texto" no activa la indexación del producto.'
+title: "La importación de especificaciones de producto con el tipo 'texto' no activa la indexación del producto."
 id: 5eQB7LCCyDbVNQBQvWti33
 status: PUBLISHED
 createdAt: 2024-03-12T19:36:58.647Z

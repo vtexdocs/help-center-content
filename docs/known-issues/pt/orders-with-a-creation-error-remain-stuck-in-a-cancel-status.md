@@ -1,5 +1,5 @@
 ---
-title: 'Os pedidos com um "Erro de criação" permanecem presos em um status de "cancelar"'
+title: "Os pedidos com um 'Erro de criação' permanecem presos em um status de 'cancelar'"
 id: gP4woBDBX0FsUC6sdMHED
 status: PUBLISHED
 createdAt: 2024-08-29T20:28:41.531Z

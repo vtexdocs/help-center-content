@@ -1,5 +1,5 @@
 ---
-title: 'A alteração manual de "flagSKU" no URL permite que um tipo de especificação seja alterado indevidamente.'
+title: "A alteração manual de 'flagSKU' no URL permite que um tipo de especificação seja alterado indevidamente."
 id: 1hcfTgeb1sgHV0BVm1DGoP
 status: PUBLISHED
 createdAt: 2024-08-19T14:52:40.859Z

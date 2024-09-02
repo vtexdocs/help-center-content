@@ -1,5 +1,5 @@
 ---
-title: 'When adding a SKU through our "Change Order" functionality, the product name is not displayed in the order and e-mail notification'
+title: "When adding a SKU through our 'Change Order' functionality, the product name is not displayed in the order and e-mail notification"
 id: 35Q3KoOSsUr9n9XEDIk7nk
 status: PUBLISHED
 createdAt: 2022-04-07T14:53:35.829Z

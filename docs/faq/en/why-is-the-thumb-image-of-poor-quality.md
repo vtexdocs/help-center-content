@@ -1,5 +1,5 @@
 ---
-title: 'Why is the "thumb" image of poor quality?'
+title: "Why is the 'thumb' image of poor quality?"
 id: 4T5kL7MK5a8Y4AC8SO0yKG
 status: PUBLISHED
 createdAt: 2017-05-09T14:00:47.862Z

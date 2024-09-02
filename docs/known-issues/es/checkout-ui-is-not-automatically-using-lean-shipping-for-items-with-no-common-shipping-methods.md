@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario de la caja no utiliza automáticamente el "envío reducido" para los artículos sin métodos de envío comunes.'
+title: "La interfaz de usuario de la caja no utiliza automáticamente el 'envío reducido' para los artículos sin métodos de envío comunes."
 id: 2LXp8VCAay7Ic9MBfbtirT
 status: PUBLISHED
 createdAt: 2024-04-02T15:27:23.003Z

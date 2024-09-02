@@ -1,5 +1,5 @@
 ---
-title: 'SKU Insert File API is not responding with the "Text" property.'
+title: "SKU Insert File API is not responding with the 'Text' property."
 id: 2rPsyAkpGNCVIM4yGlcMBw
 status: PUBLISHED
 createdAt: 2024-04-10T14:59:14.341Z

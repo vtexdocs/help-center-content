@@ -1,5 +1,5 @@
 ---
-title: 'O botão "Ir para pagamento" não funciona na divisão da entrega ao alternar entre as opções de Entrega e Coleta'
+title: "O botão 'Ir para pagamento' não funciona na divisão da entrega ao alternar entre as opções de Entrega e Coleta"
 id: 4VDxpsWl6N0SjriaqUtXG9
 status: PUBLISHED
 createdAt: 2023-02-17T18:03:49.526Z

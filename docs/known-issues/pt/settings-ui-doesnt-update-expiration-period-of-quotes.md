@@ -1,5 +1,5 @@
 ---
-title: 'A interface do usuário de configurações não atualiza o "período de expiração" das cotações'
+title: "A interface do usuário de configurações não atualiza o 'período de expiração' das cotações"
 id: 4CmuAYwDn7tcCiR9DQHSFb
 status: PUBLISHED
 createdAt: 2023-08-07T19:42:22.810Z

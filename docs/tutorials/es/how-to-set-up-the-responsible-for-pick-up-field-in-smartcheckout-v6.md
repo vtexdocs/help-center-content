@@ -1,5 +1,5 @@
 ---
-title: 'Cómo configurar el campo "Responsable de la recogida" en SmartCheckout™ V6'
+title: "Cómo configurar el campo 'Responsable de la recogida' en SmartCheckout™ V6"
 id: 2GsFnXUJxSOYEE6U2c4Syw
 status: PUBLISHED
 createdAt: 2018-11-09T12:18:14.596Z

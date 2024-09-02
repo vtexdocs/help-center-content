@@ -1,5 +1,5 @@
 ---
-title: 'A pesquisa de televendas não aceita caracteres especiais além de "@".'
+title: "A pesquisa de televendas não aceita caracteres especiais além de '@'."
 id: 5eTb6KlR07dOP06BGhovoL
 status: PUBLISHED
 createdAt: 2024-07-29T17:21:34.828Z

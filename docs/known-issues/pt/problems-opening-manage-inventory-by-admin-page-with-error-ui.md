@@ -1,5 +1,5 @@
 ---
-title: 'Problemas ao abrir a página "Gerenciar Inventário" por Admin com erro (UI).'
+title: "Problemas ao abrir a página 'Gerenciar Inventário' por Admin com erro (UI)."
 id: 7owutd1w2Fa2JjgDnn3j5q
 status: PUBLISHED
 createdAt: 2022-03-15T20:14:57.926Z

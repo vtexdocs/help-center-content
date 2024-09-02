@@ -1,5 +1,5 @@
 ---
-title: 'The Delivery Split will not be displayed in the UI or in My Orders, when the order has the same "Shipping Method".'
+title: "The Delivery Split will not be displayed in the UI or in My Orders, when the order has the same 'Shipping Method'."
 id: 2VnPyguau8KjpWx09C2vOW
 status: PUBLISHED
 createdAt: 2022-03-15T20:24:32.693Z

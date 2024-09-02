@@ -1,5 +1,5 @@
 ---
-title: 'Filtro "Product Specification" no Collection Module assumindo valores incorretos'
+title: "Filtro 'Product Specification' no Collection Module assumindo valores incorretos"
 id: 2vg3t5kp7j4Ttla53pVjck
 status: PUBLISHED
 createdAt: 2023-10-26T22:22:44.895Z

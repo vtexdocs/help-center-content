@@ -1,5 +1,5 @@
 ---
-title: 'O hub do Gift Card está adicionando uma contrabarra extra ("/") ao ligar para os fornecedores.'
+title: "O hub do Gift Card está adicionando uma contrabarra extra ('/') ao ligar para os fornecedores."
 id: 2ZstMKKGUbrdXGuhS2Rr1f
 status: PUBLISHED
 createdAt: 2022-09-30T21:07:47.856Z

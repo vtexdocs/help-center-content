@@ -1,5 +1,5 @@
 ---
-title: 'Shipping component locked in "Waiting for more information" state'
+title: "Shipping component locked in 'Waiting for more information' state"
 id: 7HHlJdZvZ31NgsB7lTShAz
 status: PUBLISHED
 createdAt: 2023-03-29T19:26:05.971Z

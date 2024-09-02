@@ -1,5 +1,5 @@
 ---
-title: 'Formato incorreto do endereço nos endereços de cobrança "Meus Cartões'
+title: "Formato incorreto do endereço nos endereços de cobrança 'Meus Cartões"
 id: 25QxVtMOazrxugHZqFrhSG
 status: PUBLISHED
 createdAt: 2023-04-17T17:40:24.795Z

@@ -1,5 +1,5 @@
 ---
-title: 'Mensagem "Código postal inválido" na interface do usuário do checkout quando o endereço está em endereços disponíveis com país diferente'
+title: "Mensagem 'Código postal inválido' na interface do usuário do checkout quando o endereço está em endereços disponíveis com país diferente"
 id: 4VggIx4xWPNW6OBIrQ0js4
 status: PUBLISHED
 createdAt: 2024-06-21T17:08:59.860Z

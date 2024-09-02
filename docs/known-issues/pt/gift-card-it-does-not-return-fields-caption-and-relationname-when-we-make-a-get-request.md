@@ -1,5 +1,5 @@
 ---
-title: 'Cartão-presente - Ele não retorna os campos "caption" e "relationName" quando fazemos uma solicitação get.'
+title: "Cartão-presente - Ele não retorna os campos 'caption' e 'relationName' quando fazemos uma solicitação get."
 id: 2nh2Cc3Hc2Zm0b1INtwDep
 status: PUBLISHED
 createdAt: 2023-06-23T19:33:35.774Z

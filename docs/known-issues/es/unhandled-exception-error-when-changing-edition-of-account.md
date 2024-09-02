@@ -1,5 +1,5 @@
 ---
-title: 'Error "Unhandled exception" al cambiar la edición de la cuenta'
+title: "Error 'Unhandled exception' al cambiar la edición de la cuenta"
 id: 1NVjCrlRkadscl8fW9rOdA
 status: PUBLISHED
 createdAt: 2023-09-26T12:45:44.999Z

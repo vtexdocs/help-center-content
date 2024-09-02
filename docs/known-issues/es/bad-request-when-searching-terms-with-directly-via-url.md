@@ -1,5 +1,5 @@
 ---
-title: 'Solicitud incorrecta al buscar términos con "%" directamente a través de la URL'
+title: "Solicitud incorrecta al buscar términos con '%' directamente a través de la URL"
 id: 3gdZ8egQRa4zcNRe2f5CbT
 status: PUBLISHED
 createdAt: 2023-03-21T22:51:46.273Z

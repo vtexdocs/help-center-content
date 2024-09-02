@@ -1,5 +1,5 @@
 ---
-title: 'Actualización del valor del crédito del cliente "Total debido" según la paginación'
+title: "Actualización del valor del crédito del cliente 'Total debido' según la paginación"
 id: 6faMqwY8yHsIdYjkwTgCCQ
 status: PUBLISHED
 createdAt: 2022-03-27T20:52:29.371Z

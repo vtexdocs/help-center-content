@@ -1,5 +1,5 @@
 ---
-title: 'Mensaje "Algo ha ido mal" al acceder a las rutas /a y /p en los almacenes de Portal'
+title: "Mensaje 'Algo ha ido mal' al acceder a las rutas /a y /p en los almacenes de Portal"
 id: 2XGAGH8xpNqjJpAir6DKzz
 status: PUBLISHED
 createdAt: 2023-11-30T16:31:45.428Z

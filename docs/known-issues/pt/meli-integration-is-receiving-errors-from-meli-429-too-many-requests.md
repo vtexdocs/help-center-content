@@ -1,5 +1,5 @@
 ---
-title: 'A integração do MELI está recebendo erros do MELI "429 solicitações demais"'
+title: "A integração do MELI está recebendo erros do MELI '429 solicitações demais'"
 id: 1e4g9nzZFyanywmLbSHq4D
 status: PUBLISHED
 createdAt: 2023-08-03T10:47:41.602Z

@@ -1,5 +1,5 @@
 ---
-title: 'Produtos da "lista de produtos" que têm um duplicado de "itemAcmercadoria" quando a quantidade é aumentada'
+title: "Produtos da 'lista de produtos' que têm um duplicado de 'itemAcmercadoria' quando a quantidade é aumentada"
 id: 4QybxJRoj7wLNvN7NG2FLA
 status: PUBLISHED
 createdAt: 2022-01-24T21:19:51.135Z

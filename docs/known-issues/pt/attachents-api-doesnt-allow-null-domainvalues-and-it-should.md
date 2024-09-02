@@ -1,5 +1,5 @@
 ---
-title: 'A API da Attachents não permite "domainValues" nulos (e deveria)'
+title: "A API da Attachents não permite 'domainValues' nulos (e deveria)"
 id: 7KMb6nh0ulcWdEfz7USbPg
 status: PUBLISHED
 createdAt: 2023-09-11T19:02:51.514Z

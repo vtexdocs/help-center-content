@@ -1,5 +1,5 @@
 ---
-title: 'Las direcciones se muestran en la caja cuando el comprador tiene permiso para "Añadir envío".'
+title: "Las direcciones se muestran en la caja cuando el comprador tiene permiso para 'Añadir envío'."
 id: 2ssiTryGJ6kGoZWxWkGnFF
 status: PUBLISHED
 createdAt: 2024-05-21T22:03:55.172Z

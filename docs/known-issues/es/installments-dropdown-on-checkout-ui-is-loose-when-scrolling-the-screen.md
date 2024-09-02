@@ -1,5 +1,5 @@
 ---
-title: 'El menú desplegable de las cuotas en la interfaz de compra está "suelto" cuando se desplaza la pantalla.'
+title: "El menú desplegable de las cuotas en la interfaz de compra está 'suelto' cuando se desplaza la pantalla."
 id: 0bbx1aDD7qw3DmaeMOebp
 status: PUBLISHED
 createdAt: 2022-03-10T20:07:05.251Z

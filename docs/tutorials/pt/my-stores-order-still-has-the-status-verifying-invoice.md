@@ -1,5 +1,5 @@
 ---
-title: 'O pedido da minha loja está parado no status "Verificando nota fiscal"'
+title: "O pedido da minha loja está parado no status 'Verificando nota fiscal'"
 id: 2YY7ILOOd0lEjpiT7SSgag
 status: PUBLISHED
 createdAt: 2024-08-16T18:32:15.867Z

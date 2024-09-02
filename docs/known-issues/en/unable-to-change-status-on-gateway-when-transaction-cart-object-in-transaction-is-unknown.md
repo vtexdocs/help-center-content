@@ -1,5 +1,5 @@
 ---
-title: 'Unable to change status on gateway when transaction Cart object in /transaction is "unknown".'
+title: "Unable to change status on gateway when transaction Cart object in /transaction is 'unknown'."
 id: 3gWqk1T2xP3eRYZtXZLX3b
 status: PUBLISHED
 createdAt: 2023-03-23T14:27:16.116Z

@@ -1,5 +1,5 @@
 ---
-title: 'Carrinho criado a partir de uma opção "pedir novamente" em Meus pedidos, o e-mail do cliente não está sendo colocado como esperado no formulário de pedido'
+title: "Carrinho criado a partir de uma opção 'pedir novamente' em Meus pedidos, o e-mail do cliente não está sendo colocado como esperado no formulário de pedido"
 id: 6dDhkaIhquOqaDuNkVZuln
 status: PUBLISHED
 createdAt: 2023-12-04T22:41:21.385Z

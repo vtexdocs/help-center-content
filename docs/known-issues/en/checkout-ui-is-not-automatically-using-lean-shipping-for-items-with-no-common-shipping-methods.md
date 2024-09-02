@@ -1,5 +1,5 @@
 ---
-title: 'Checkout UI is not automatically using "lean shipping" for items with no common shipping methods'
+title: "Checkout UI is not automatically using 'lean shipping' for items with no common shipping methods"
 id: 2LXp8VCAay7Ic9MBfbtirT
 status: PUBLISHED
 createdAt: 2024-04-02T15:27:23.003Z

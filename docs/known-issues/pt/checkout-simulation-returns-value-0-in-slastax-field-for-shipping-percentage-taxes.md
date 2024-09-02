@@ -1,5 +1,5 @@
 ---
-title: 'A simulação de checkout retorna o valor 0 no campo "slas.tax" para impostos de porcentagem de frete'
+title: "A simulação de checkout retorna o valor 0 no campo 'slas.tax' para impostos de porcentagem de frete"
 id: 54Mtsj8EKuo0SaQCoWyYzj
 status: PUBLISHED
 createdAt: 2024-04-05T18:55:32.183Z

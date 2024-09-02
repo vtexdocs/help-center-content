@@ -1,5 +1,5 @@
 ---
-title: 'La transacción DecidirV1 fue "reprocesada" después de algunos reintentos de autorización'
+title: "La transacción DecidirV1 fue 'reprocesada' después de algunos reintentos de autorización"
 id: 2fxfg1IlnFUxAjo9E47HPq
 status: PUBLISHED
 createdAt: 2022-03-03T21:19:22.471Z

@@ -1,5 +1,5 @@
 ---
-title: 'API Match Multiple Received SKUs retornando "Invalid sellerId"'
+title: "API Match Multiple Received SKUs retornando 'Invalid sellerId'"
 id: 60aL2Chds0Jo3m6XMkxmnG
 status: PUBLISHED
 createdAt: 2023-10-17T16:26:27.980Z

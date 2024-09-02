@@ -1,5 +1,5 @@
 ---
-title: 'Produtos ausentes na guia "Revisão" da Skus recebida'
+title: "Produtos ausentes na guia 'Revisão' da Skus recebida"
 id: 2UM0JQUZVq5o7NHCjmrg8N
 status: PUBLISHED
 createdAt: 2023-11-23T16:30:51.874Z

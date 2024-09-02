@@ -1,5 +1,5 @@
 ---
-title: 'Error "Algo ha ido mal. Por favor, inténtelo de nuevo" al añadir imágenes a través del Editor de Sitios.'
+title: "Error 'Algo ha ido mal. Por favor, inténtelo de nuevo' al añadir imágenes a través del Editor de Sitios."
 id: r3QVP1kp8HApP83bOi6t9
 status: PUBLISHED
 createdAt: 2023-11-07T22:33:02.296Z

@@ -1,5 +1,5 @@
 ---
-title: 'A caixa de seleção para "Aplicar desconto somente com a operadora selecionada" não persiste na interface do usuário'
+title: "A caixa de seleção para 'Aplicar desconto somente com a operadora selecionada' não persiste na interface do usuário"
 id: 2gcsCgGhE4V1Hbp4ZkNO78
 status: PUBLISHED
 createdAt: 2024-08-21T20:17:29.685Z

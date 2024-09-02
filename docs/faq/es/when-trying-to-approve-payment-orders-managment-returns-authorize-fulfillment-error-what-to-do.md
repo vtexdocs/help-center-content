@@ -1,5 +1,5 @@
 ---
-title: 'Al intentar aprobar el pago, Gestión de Pedidos devuelve el error de "authorize-fulfillment". ¿Que hacer?'
+title: "Al intentar aprobar el pago, Gestión de Pedidos devuelve el error de 'authorize-fulfillment'. ¿Que hacer?"
 id: 1cbaJI69pSMWkugoUkmQ8O
 status: PUBLISHED
 createdAt: 2017-12-21T14:02:07.873Z

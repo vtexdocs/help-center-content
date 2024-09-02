@@ -1,5 +1,5 @@
 ---
-title: 'A pesquisa "Product name contains" (O nome do produto contém) com mais de um termo não funciona na IU reformulada do catálogo'
+title: "A pesquisa 'Product name contains' (O nome do produto contém) com mais de um termo não funciona na IU reformulada do catálogo"
 id: 2kI6ab0kdpLG6m63ETGGqf
 status: PUBLISHED
 createdAt: 2024-06-05T13:38:38.836Z

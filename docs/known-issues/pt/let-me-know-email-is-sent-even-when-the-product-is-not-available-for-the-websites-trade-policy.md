@@ -1,5 +1,5 @@
 ---
-title: 'Email de "Avise-me" é enviado mesmo quando o produto não está disponível para a política comercial do site'
+title: "Email de 'Avise-me' é enviado mesmo quando o produto não está disponível para a política comercial do site"
 id: 577r3i32P5Yv9QIfVR5AYP
 status: PUBLISHED
 createdAt: 2021-02-22T20:44:52.444Z

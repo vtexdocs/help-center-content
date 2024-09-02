@@ -1,5 +1,5 @@
 ---
-title: 'No es posible guardar algunas direcciones de Chile en "Mi cuenta"'
+title: "No es posible guardar algunas direcciones de Chile en 'Mi cuenta'"
 id: 6DLPSH4eJY0Hbgtc5iGh21
 status: PUBLISHED
 createdAt: 2022-02-24T14:51:08.104Z

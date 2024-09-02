@@ -1,5 +1,5 @@
 ---
-title: 'A exportação de imagens de SKU para contas que começam com "h", "t" ou "p" recebe esse corte de caracteres nas linhas de "URL da imagem".'
+title: "A exportação de imagens de SKU para contas que começam com 'h', 't' ou 'p' recebe esse corte de caracteres nas linhas de 'URL da imagem'."
 id: 1IZdnE8IGwkBlbcFhjLrzn
 status: PUBLISHED
 createdAt: 2023-10-13T15:20:49.703Z

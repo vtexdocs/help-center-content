@@ -1,5 +1,5 @@
 ---
-title: 'La simulación de pago devuelve el valor 0 en el campo "slas.tax" para los impuestos del porcentaje de envío.'
+title: "La simulación de pago devuelve el valor 0 en el campo 'slas.tax' para los impuestos del porcentaje de envío."
 id: 54Mtsj8EKuo0SaQCoWyYzj
 status: PUBLISHED
 createdAt: 2024-04-05T18:55:32.183Z

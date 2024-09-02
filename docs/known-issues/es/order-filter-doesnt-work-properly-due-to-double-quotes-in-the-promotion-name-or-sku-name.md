@@ -1,5 +1,5 @@
 ---
-title: 'El filtro de pedidos no funciona correctamente debido a la presencia de comillas dobles (") en el nombre de la promoción o del SKU.'
+title: "El filtro de pedidos no funciona correctamente debido a la presencia de comillas dobles (') en el nombre de la promoción o del SKU."
 id: 4Qm0akQTQXR8sSbkTDiBL7
 status: PUBLISHED
 createdAt: 2024-06-06T15:42:19.747Z

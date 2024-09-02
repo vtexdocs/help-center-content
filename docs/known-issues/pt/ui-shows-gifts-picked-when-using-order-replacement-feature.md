@@ -1,5 +1,5 @@
 ---
-title: 'A interface do usuário mostra "Presentes escolhidos!" ao usar o recurso de substituição de pedidos'
+title: "A interface do usuário mostra 'Presentes escolhidos!' ao usar o recurso de substituição de pedidos"
 id: 4efm7L6hQhad98uYkjzrXO
 status: PUBLISHED
 createdAt: 2023-09-27T20:57:46.944Z

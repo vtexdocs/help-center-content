@@ -1,5 +1,5 @@
 ---
-title: 'Si no se añaden los datos en el paso "entregar en otra dirección", desaparece el botón "ir al pago".'
+title: "Si no se añaden los datos en el paso 'entregar en otra dirección', desaparece el botón 'ir al pago'."
 id: cdZO8gGXDB1JZSj42AnVh
 status: PUBLISHED
 createdAt: 2022-01-24T21:42:52.750Z

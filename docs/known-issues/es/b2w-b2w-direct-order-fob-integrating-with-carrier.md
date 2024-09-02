@@ -1,5 +1,5 @@
 ---
-title: '[B2W] Pedido "B2W directo" (FOB) integrando con transportista'
+title: "[B2W] Pedido 'B2W directo' (FOB) integrando con transportista"
 id: 20nA7vm1RFMhv7yhaJ43GG
 status: PUBLISHED
 createdAt: 2022-12-12T18:14:19.975Z

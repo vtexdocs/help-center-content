@@ -1,5 +1,5 @@
 ---
-title: 'User only with the role "User Administrator - RESTRICTED" is not able to list the users'
+title: "User only with the role 'User Administrator - RESTRICTED' is not able to list the users"
 id: ifXUAzgJ1xr8ezhqKpRUI
 status: PUBLISHED
 createdAt: 2023-11-08T18:07:14.508Z

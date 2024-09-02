@@ -1,5 +1,5 @@
 ---
-title: '"Recurrences" module will be discontinued: migrate your data until August'
+title: "'Recurrences' module will be discontinued: migrate your data until August"
 id: 6FMxXxKZknbKKULVFII4vQ
 status: PUBLISHED
 createdAt: 2020-06-05T16:09:52.370Z

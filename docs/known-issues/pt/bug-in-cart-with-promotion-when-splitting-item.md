@@ -1,5 +1,5 @@
 ---
-title: 'Bug no Carrinho com promoção ao "splitar" item'
+title: "Bug no Carrinho com promoção ao 'splitar' item"
 id: 26EY5QcY4wcGm88okke8SY
 status: PUBLISHED
 createdAt: 2017-05-24T20:20:57.562Z

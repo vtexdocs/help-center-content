@@ -1,5 +1,5 @@
 ---
-title: 'Why is the order in the "Verifying Invoice" status?'
+title: "Why is the order in the 'Verifying Invoice' status?"
 id: 5VJjxRjeH6SimiG0Wkk2gm
 status: DRAFT
 createdAt: 2019-01-24T20:45:44.680Z

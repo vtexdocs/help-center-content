@@ -1,5 +1,5 @@
 ---
-title: 'Por que o pedido não vai para o status "Enviado" no marketplace?'
+title: "Por que o pedido não vai para o status 'Enviado' no marketplace?"
 id: frequentlyAskedQuestions_719
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:07.933Z

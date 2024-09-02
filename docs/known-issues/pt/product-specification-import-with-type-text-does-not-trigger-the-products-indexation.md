@@ -1,5 +1,5 @@
 ---
-title: 'A importação da especificação do produto com o tipo "texto" não aciona a indexação do produto'
+title: "A importação da especificação do produto com o tipo 'texto' não aciona a indexação do produto"
 id: 5eQB7LCCyDbVNQBQvWti33
 status: PUBLISHED
 createdAt: 2024-03-12T19:36:58.647Z

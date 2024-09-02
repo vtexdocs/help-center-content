@@ -1,5 +1,5 @@
 ---
-title: 'Priorização por "palavra-chave" do produto, sem considerar stopwords'
+title: "Priorização por 'palavra-chave' do produto, sem considerar stopwords"
 id: 55S7nFg61dAyCeGQCIw6aK
 status: PUBLISHED
 createdAt: 2024-05-30T22:05:25.328Z

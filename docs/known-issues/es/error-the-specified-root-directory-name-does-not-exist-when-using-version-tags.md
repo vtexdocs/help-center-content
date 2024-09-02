@@ -1,5 +1,5 @@
 ---
-title: 'Error "El directorio raíz especificado "{nombre}" no existe" al utilizar etiquetas de versión.'
+title: "Error 'El directorio raíz especificado '{nombre}' no existe' al utilizar etiquetas de versión."
 id: 5DoqOof6u1UK7tqEz1rTj8
 status: PUBLISHED
 createdAt: 2024-08-20T13:50:43.475Z

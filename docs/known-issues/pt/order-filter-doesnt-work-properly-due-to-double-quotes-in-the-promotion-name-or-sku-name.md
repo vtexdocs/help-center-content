@@ -1,5 +1,5 @@
 ---
-title: 'O filtro de pedidos não funciona corretamente devido a aspas duplas (") no nome da promoção ou no nome da SKU'
+title: "O filtro de pedidos não funciona corretamente devido a aspas duplas (') no nome da promoção ou no nome da SKU"
 id: 4Qm0akQTQXR8sSbkTDiBL7
 status: PUBLISHED
 createdAt: 2024-06-06T15:42:19.747Z

@@ -1,5 +1,5 @@
 ---
-title: 'Error en operaciones de reembolso y captura con Payout Split - "Valor en destinatarios * es diferente al valor de la operación *."'
+title: "Error en operaciones de reembolso y captura con Payout Split - 'Valor en destinatarios * es diferente al valor de la operación *.'"
 id: 3Wo9ltN7Ju0ZqVLAQZcd7m
 status: PUBLISHED
 createdAt: 2023-08-23T13:57:20.424Z

@@ -1,5 +1,5 @@
 ---
-title: 'La API de inserción de archivos de SKU no responde con la propiedad "Texto".'
+title: "La API de inserción de archivos de SKU no responde con la propiedad 'Texto'."
 id: 2rPsyAkpGNCVIM4yGlcMBw
 status: PUBLISHED
 createdAt: 2024-04-10T14:59:14.341Z

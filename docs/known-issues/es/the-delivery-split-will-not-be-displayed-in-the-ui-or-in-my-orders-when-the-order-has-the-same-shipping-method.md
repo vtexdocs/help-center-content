@@ -1,5 +1,5 @@
 ---
-title: 'La división de la entrega no se mostrará en la interfaz de usuario ni en Mis pedidos cuando el pedido tenga el mismo "Método de envío".'
+title: "La división de la entrega no se mostrará en la interfaz de usuario ni en Mis pedidos cuando el pedido tenga el mismo 'Método de envío'."
 id: 2VnPyguau8KjpWx09C2vOW
 status: PUBLISHED
 createdAt: 2022-03-15T20:24:32.693Z

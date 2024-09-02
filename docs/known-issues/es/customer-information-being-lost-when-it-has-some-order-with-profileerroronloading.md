@@ -1,5 +1,5 @@
 ---
-title: 'Se pierde la información del cliente cuando tiene algún pedido con "profileErrorOnLoading"'
+title: "Se pierde la información del cliente cuando tiene algún pedido con 'profileErrorOnLoading'"
 id: 7B0eutLBOCKOun4iwALVpq
 status: PUBLISHED
 createdAt: 2023-06-27T12:51:33.790Z

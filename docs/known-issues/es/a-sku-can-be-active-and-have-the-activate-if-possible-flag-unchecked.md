@@ -1,5 +1,5 @@
 ---
-title: 'Una SKU puede estar activa y tener el indicador "activar si es posible" desmarcado'
+title: "Una SKU puede estar activa y tener el indicador 'activar si es posible' desmarcado"
 id: 5uXQ65flkoEbYeLkNSw4ig
 status: PUBLISHED
 createdAt: 2023-11-07T11:01:20.612Z

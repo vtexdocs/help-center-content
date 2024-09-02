@@ -1,5 +1,5 @@
 ---
-title: 'Las cuentas con "-" en el nombre no tienen métricas en el informe de búsqueda'
+title: "Las cuentas con '-' en el nombre no tienen métricas en el informe de búsqueda"
 id: 71rVz43g0rgIN7Joe4GEj6
 status: PUBLISHED
 createdAt: 2023-04-19T17:35:28.560Z

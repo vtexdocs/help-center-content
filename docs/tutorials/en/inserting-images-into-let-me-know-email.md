@@ -1,5 +1,5 @@
 ---
-title: 'Inserting images into "Let Me Know" email'
+title: "Inserting images into 'Let Me Know' email"
 id: 3soCXGcE3XBPsnPhxJh2DY
 status: PUBLISHED
 createdAt: 2019-02-21T19:52:16.679Z

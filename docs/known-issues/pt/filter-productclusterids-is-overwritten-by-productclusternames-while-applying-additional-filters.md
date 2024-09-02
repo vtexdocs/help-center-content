@@ -1,5 +1,5 @@
 ---
-title: 'O filtro "productClusterIds" é substituído por "productClusterNames" ao aplicar filtros adicionais'
+title: "O filtro 'productClusterIds' é substituído por 'productClusterNames' ao aplicar filtros adicionais"
 id: 3d4BIZQBZgeK3eKwT8B1PZ
 status: PUBLISHED
 createdAt: 2023-09-13T22:42:57.138Z

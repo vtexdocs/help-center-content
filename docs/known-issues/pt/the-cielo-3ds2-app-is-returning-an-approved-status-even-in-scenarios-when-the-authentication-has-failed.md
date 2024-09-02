@@ -1,5 +1,5 @@
 ---
-title: 'O aplicativo Cielo 3DS2 está retornando o status "aprovado" mesmo em cenários em que a autenticação falhou.'
+title: "O aplicativo Cielo 3DS2 está retornando o status 'aprovado' mesmo em cenários em que a autenticação falhou."
 id: 58hSiWFhn6sHQofJAUoHqv
 status: PUBLISHED
 createdAt: 2023-05-05T14:48:56.148Z

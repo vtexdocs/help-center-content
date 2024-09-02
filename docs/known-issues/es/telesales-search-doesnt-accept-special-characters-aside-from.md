@@ -1,5 +1,5 @@
 ---
-title: 'La búsqueda de televentas no acepta caracteres especiales aparte de "@".'
+title: "La búsqueda de televentas no acepta caracteres especiales aparte de '@'."
 id: 5eTb6KlR07dOP06BGhovoL
 status: PUBLISHED
 createdAt: 2024-07-29T17:21:34.828Z

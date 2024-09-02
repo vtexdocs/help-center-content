@@ -1,5 +1,5 @@
 ---
-title: 'Productos con "unitMultiplier" marcados erróneamente como "con promoción" para los filtros de búsqueda'
+title: "Productos con 'unitMultiplier' marcados erróneamente como 'con promoción' para los filtros de búsqueda"
 id: 2rCi8K01DHsNuYsefE7oR2
 status: PUBLISHED
 createdAt: 2024-02-15T22:52:17.434Z

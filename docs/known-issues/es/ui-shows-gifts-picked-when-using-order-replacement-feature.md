@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario muestra "¡Regalos elegidos!" cuando se utiliza la función de sustitución de pedidos.'
+title: "La interfaz de usuario muestra '¡Regalos elegidos!' cuando se utiliza la función de sustitución de pedidos."
 id: 4efm7L6hQhad98uYkjzrXO
 status: PUBLISHED
 createdAt: 2023-09-27T20:57:46.944Z

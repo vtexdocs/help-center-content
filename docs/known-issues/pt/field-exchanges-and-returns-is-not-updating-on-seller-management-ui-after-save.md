@@ -1,5 +1,5 @@
 ---
-title: 'O campo "Exchanges and returns" (Trocas e devoluções) não está sendo atualizado na IU de gerenciamento do vendedor após o salvamento'
+title: "O campo 'Exchanges and returns' (Trocas e devoluções) não está sendo atualizado na IU de gerenciamento do vendedor após o salvamento"
 id: 1z8LrsbGk5B2ejZ1PV9vaB
 status: PUBLISHED
 createdAt: 2022-11-01T17:47:30.359Z

@@ -1,5 +1,5 @@
 ---
-title: 'Checkout Simulation returns value 0 in "slas.tax" field for Shipping Percentage taxes'
+title: "Checkout Simulation returns value 0 in 'slas.tax' field for Shipping Percentage taxes"
 id: 54Mtsj8EKuo0SaQCoWyYzj
 status: PUBLISHED
 createdAt: 2024-04-05T18:55:32.183Z

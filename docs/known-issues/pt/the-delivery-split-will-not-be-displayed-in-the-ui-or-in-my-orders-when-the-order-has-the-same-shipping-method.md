@@ -1,5 +1,5 @@
 ---
-title: 'O Split de Entrega não será exibido na IU ou em Meus Pedidos, quando o pedido tiver o mesmo "Método de Envio".'
+title: "O Split de Entrega não será exibido na IU ou em Meus Pedidos, quando o pedido tiver o mesmo 'Método de Envio'."
 id: 2VnPyguau8KjpWx09C2vOW
 status: PUBLISHED
 createdAt: 2022-03-15T20:24:32.693Z

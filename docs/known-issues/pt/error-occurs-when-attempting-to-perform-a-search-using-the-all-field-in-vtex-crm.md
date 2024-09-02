@@ -1,5 +1,5 @@
 ---
-title: 'Ocorre um erro ao tentar realizar uma pesquisa usando o campo "Todos" no VTEX CRM'
+title: "Ocorre um erro ao tentar realizar uma pesquisa usando o campo 'Todos' no VTEX CRM"
 id: 1OKMTJuUZx6mnDmYW3MBjP
 status: PUBLISHED
 createdAt: 2023-10-25T18:46:48.120Z

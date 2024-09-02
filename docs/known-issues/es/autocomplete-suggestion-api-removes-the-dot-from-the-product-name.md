@@ -1,5 +1,5 @@
 ---
-title: 'La API de sugerencia de autocompletar elimina el punto "." del nombre del producto'
+title: "La API de sugerencia de autocompletar elimina el punto '.' del nombre del producto"
 id: 55185IvERIwGQ3kH6H510O
 status: PUBLISHED
 createdAt: 2024-04-10T13:58:51.138Z

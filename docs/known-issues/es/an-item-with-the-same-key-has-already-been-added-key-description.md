@@ -1,5 +1,5 @@
 ---
-title: '"Ya se ha añadido un artículo con la misma clave. Clave: descripción"'
+title: "'Ya se ha añadido un artículo con la misma clave. Clave: descripción'"
 id: 5eGfoHuVu83bqGvSOvDF5z
 status: PUBLISHED
 createdAt: 2024-08-20T14:40:23.496Z

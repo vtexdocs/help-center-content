@@ -1,5 +1,5 @@
 ---
-title: 'La compra no se puede finalizar y se queda atascada en "el tipo de carga ha cambiado"'
+title: "La compra no se puede finalizar y se queda atascada en 'el tipo de carga ha cambiado'"
 id: mgewQ8QmZ3V3dkc7vdJkV
 status: PUBLISHED
 createdAt: 2023-09-25T13:28:28.121Z

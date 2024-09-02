@@ -1,5 +1,5 @@
 ---
-title: 'Preços restritos ao valor máximo "Int32" na API Change Price'
+title: "Preços restritos ao valor máximo 'Int32' na API Change Price"
 id: 5mzOjCUYs7vXUkttbsK0za
 status: PUBLISHED
 createdAt: 2022-04-25T17:28:05.159Z

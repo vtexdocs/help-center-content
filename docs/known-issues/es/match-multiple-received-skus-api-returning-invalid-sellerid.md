@@ -1,5 +1,5 @@
 ---
-title: 'La API recibe varios SKU y devuelve "Invalid sellerId".'
+title: "La API recibe varios SKU y devuelve 'Invalid sellerId'."
 id: 60aL2Chds0Jo3m6XMkxmnG
 status: PUBLISHED
 createdAt: 2023-10-17T16:26:27.980Z

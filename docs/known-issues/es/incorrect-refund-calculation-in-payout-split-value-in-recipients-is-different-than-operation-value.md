@@ -1,5 +1,5 @@
 ---
-title: 'Cálculo de reembolso incorrecto en Payout Split - "Valor en destinatarios * es diferente al valor de operación *".'
+title: "Cálculo de reembolso incorrecto en Payout Split - 'Valor en destinatarios * es diferente al valor de operación *'."
 id: 7Fxtwnntpmi0DrUD5a603W
 status: PUBLISHED
 createdAt: 2024-07-29T15:07:07.716Z
