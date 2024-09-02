@@ -49,4 +49,4 @@ Mantenha o mesmo formato da planilha (xls) para realizar a importação com suce
 5. Escolha o arquivo.
 6. Clique no botão **Importar** no canto inferior da tela.
 
-![Importando](//images.contentful.com/alneenqid6w5/3xkB2DzbqoeIsk2Qice8sM/71d3c7d0379e03a8641180ccbe97dc77/Importando-1.gif)
+![Importando](https://images.contentful.com/alneenqid6w5/3xkB2DzbqoeIsk2Qice8sM/71d3c7d0379e03a8641180ccbe97dc77/Importando-1.gif)

@@ -21,7 +21,7 @@ subcategory: 2g6LxtasS4iSeGEqeYUuGW
 
 El control `<vtex.cmc:fullTextSearchBox />`es responsable de generar la caja de búsqueda. Además del campo de búsqueda, el control renderiza un combo para restringir una búsqueda en un departamento. Tenemos abajo un ejemplo del control sin ninguna aplicación de css:
 
-![Contról de búsqueda default](//images.contentful.com/alneenqid6w5/4tvtNt1u0Mw8sgmwyAaOuW/2375499b868cfe4c24b3425fa0f33a8c/controle-busca-cru.png)
+![Contról de búsqueda default](https://images.contentful.com/alneenqid6w5/4tvtNt1u0Mw8sgmwyAaOuW/2375499b868cfe4c24b3425fa0f33a8c/controle-busca-cru.png)
 
 La búsqueda es una funcionalidad que debe estar disponible en todas las páginas de una tienda, por eso se sugiere que el control sea insertado dentro de un [subtemplate](http://help.vtex.com/es/tutorial/subtemplates). Normalmente el controle de busca se usa dentro del subtemplate del header de la tienda.
 
@@ -75,9 +75,9 @@ La funcionalidad de autocomplete ya está prevista en este control y sólo se de
 
 Ejemplos de cómo se puede personalizar el control:
 
-![](//images.contentful.com/alneenqid6w5/BMzmz8NA0o4SQqUO8ow4Y/5c6d179a8fca8a3efaf981c05203c061/controle-busca-autocomplete-560x318.png)
+![](https://images.contentful.com/alneenqid6w5/BMzmz8NA0o4SQqUO8ow4Y/5c6d179a8fca8a3efaf981c05203c061/controle-busca-autocomplete-560x318.png)
 
-![](//images.contentful.com/alneenqid6w5/5TiDgTywScWuAcC24wmeIu/58acad8f8151f8803251679453627968/controle-busca-exemplo-560x43.png)
+![](https://images.contentful.com/alneenqid6w5/5TiDgTywScWuAcC24wmeIu/58acad8f8151f8803251679453627968/controle-busca-exemplo-560x43.png)
 
-![](//images.contentful.com/alneenqid6w5/2X2lkCGHdSIaok08yYKCYO/6bef8f3e0c0b11313479226c0174e093/controle-busca-exemplo1.png)
+![](https://images.contentful.com/alneenqid6w5/2X2lkCGHdSIaok08yYKCYO/6bef8f3e0c0b11313479226c0174e093/controle-busca-exemplo1.png)
 

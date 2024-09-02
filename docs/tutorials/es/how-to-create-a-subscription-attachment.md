@@ -71,11 +71,11 @@ Siga las instrucciones a continuación para configurar la frecuencia y fechas de
 
         * **Semanalmente:** los valores posibles para completar este campo son = `0`, `1`, `2`, `3`, `4`, `5` y `6`, que equivalen a los días de la semana. Considere `0` = domingo, `1` = lunes, `2` = martes, y así sucesivamente hasta `6` = sábado. Separe los valores con `,`, según se muestra a continuación.
 
-        ![ES Assinatura Exemplo Valores week](//images.ctfassets.net/alneenqid6w5/1KDaD3iRFBwt7xrikkB8V9/ecfe9cb9da8bb798d410f5d709c8b04d/ES_Assinatura_Exemplo_Valores_week.png)
+        ![ES Assinatura Exemplo Valores week](https://images.ctfassets.net/alneenqid6w5/1KDaD3iRFBwt7xrikkB8V9/ecfe9cb9da8bb798d410f5d709c8b04d/ES_Assinatura_Exemplo_Valores_week.png)
 
         * **Mensualmente:** los valores posibles para rellenar este campo en el _checkout_ son = `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, (...) hasta `28`, que equivalen a los días del mes. Considere `1` = primer día del mes, `2` = segundo día del mes, `3` = tercer día del mes, y así sucesivamente hasta `28` = vigésimo octavo día del mes. Separe los valores con `,`, según se muestra a continuación.
 
-        ![ES Assinatura Exemplo Valores month](//images.ctfassets.net/alneenqid6w5/5tbntKlv4WeYUXQtM8EMGz/84d58a31d1b449fdbdfad60fae5dec0d/ES_Assinatura_Exemplo_Valores_month.png)
+        ![ES Assinatura Exemplo Valores month](https://images.ctfassets.net/alneenqid6w5/5tbntKlv4WeYUXQtM8EMGz/84d58a31d1b449fdbdfad60fae5dec0d/ES_Assinatura_Exemplo_Valores_month.png)
 
 <div class="alert alert-info">
   <p>Si no se introduce ningún valor en el campo <strong>Valores permitidos</strong>, la fecha del ciclo de suscripción será el mismo día de la semana (si la frecuencia es semanal) o día del mes (si la frecuencia es mensual) del pedido original.</p>

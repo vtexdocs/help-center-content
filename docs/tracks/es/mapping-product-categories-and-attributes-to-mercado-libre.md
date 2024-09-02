@@ -57,7 +57,7 @@ Para finalizar el mapeo de la categoría, debes seguir las instrucciones a conti
 
 ## Mapear atributos
 
-![Home (8)](//images.ctfassets.net/alneenqid6w5/1WVspX796PMYQcgOycbhVC/5de9a1c9a262f8556b2eb82b9fd6cf20/Home__8_.gif)
+![Home (8)](https://images.ctfassets.net/alneenqid6w5/1WVspX796PMYQcgOycbhVC/5de9a1c9a262f8556b2eb82b9fd6cf20/Home__8_.gif)
 
 El mapeo de los atributos permite que haya una correspondencia entre el patrón de tu tienda VTEX y el patrón utilizado por Mercado Libre. Cada categoría tiene atributos obligatorios en Mercado Libre y es necesario rellenarlos para que el mapeo pueda completarse. Los campos no mapeados no impiden que se realice el mapeo, sin embargo, mientras más atributos de tu producto se envíen a Mercado Libre, mejor clasificado estará en ese marketplace.
 

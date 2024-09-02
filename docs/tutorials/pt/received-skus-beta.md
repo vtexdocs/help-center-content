@@ -50,7 +50,7 @@ Cada linha da lista representa um produto com as seguintes informações:
 
 Para verificar todas as especificações de um produto, clique sobre o nome do produto desejado e uma nova janela abrirá com todas as informações daquele produto.  
 
-![pendentes-info-produto-PT](//images.ctfassets.net/alneenqid6w5/3QSXyYXqhdAB3R4J3lL749/ea57f537bcad436fad6a45286adc7840/pendentes-info-produto-PT.png)  
+![pendentes-info-produto-PT](https://images.ctfassets.net/alneenqid6w5/3QSXyYXqhdAB3R4J3lL749/ea57f537bcad436fad6a45286adc7840/pendentes-info-produto-PT.png)  
 
 ### Problemas
 
@@ -62,7 +62,7 @@ A ação pedir correção não está disponível na seção <b>Problemas.</b>
 
 Para identificar qual o problema de um anúncio, basta clicar no nome do produto desejado. Uma nova janela será exibida com as informações referentes ao produto, a mensagem de erro e o revisor do anúncio.  
 
-![problemas do produto-PT](//images.ctfassets.net/alneenqid6w5/4yZtOcq16r6SXvai0lWzau/f0a31393e47198a3ff81d0016c2491e9/problemas_do_produto-PT.png)  
+![problemas do produto-PT](https://images.ctfassets.net/alneenqid6w5/4yZtOcq16r6SXvai0lWzau/f0a31393e47198a3ff81d0016c2491e9/problemas_do_produto-PT.png)  
 
 ### Aprovados
 
@@ -121,7 +121,7 @@ Por padrão, os itens com envios mais recentes são os primeiros a serem listado
 
 Nesse caso, os itens serão ordenados de forma crescente ou decrescente ao clicar em **"Preço"** ou **"Estoque"** no cabeçalho.  
 
-![ordenacao-PT](//images.ctfassets.net/alneenqid6w5/3Eur3cPCdSTtZjoGIqeq6o/1f5cbbbae8c8b969fcabcfd531e57d95/ordenacao-PT.png)  
+![ordenacao-PT](https://images.ctfassets.net/alneenqid6w5/3Eur3cPCdSTtZjoGIqeq6o/1f5cbbbae8c8b969fcabcfd531e57d95/ordenacao-PT.png)  
 
 ## Catalogação de itens
 
@@ -150,7 +150,7 @@ Cria um SKU novo no catálogo e, consequentemente, um novo produto. Recomenda-se
   3. Preencha os campos **Categoria** e **Marca** para cada produto. Caso o mapeamento tenha sido realizado previamente, esses campos já estarão preenchidos.  
   4. Clique em `Aprovar`.  
 
-![criar-novos-produtos-PT](//images.ctfassets.net/alneenqid6w5/4H2vmekbrtbXQXUVrwVoSF/07a3e80b2b4143779da1ebfdd29729a7/criar-novos-produtos-PT.png)  
+![criar-novos-produtos-PT](https://images.ctfassets.net/alneenqid6w5/4H2vmekbrtbXQXUVrwVoSF/07a3e80b2b4143779da1ebfdd29729a7/criar-novos-produtos-PT.png)  
 
 <div class="alert alert-info">
 Esta ação pode ser realizada nas seções de anúncios <b>Pendentes</b> e <b>Problemas</b>.
@@ -165,7 +165,7 @@ Cria uma relação entre o produto do seller e um produto que já existe no cat�
   3. Preencha o ID do produto ao qual será associado.  
   4. Clique em `Aprovar`.  
 
-![associar-a-produto-PT](//images.ctfassets.net/alneenqid6w5/2fAWptfykAdJ3UTDSCpNhW/d2130d8af5d5de678c36a6821316c09a/associar-a-produto-PT.png)  
+![associar-a-produto-PT](https://images.ctfassets.net/alneenqid6w5/2fAWptfykAdJ3UTDSCpNhW/d2130d8af5d5de678c36a6821316c09a/associar-a-produto-PT.png)  
 
 **Caso de uso**
 
@@ -186,7 +186,7 @@ Cria uma relação entre o novo SKU do seller e um SKU que já existe no catálo
   3. Preencha o **ID do SKU** a associar para cada SKU que está sendo aprovado.  
   4. Clique em `Aprovar`.  
 
-![associar-a-sku-PT](//images.ctfassets.net/alneenqid6w5/2326FaqSqhPfQ0qeiD8KWE/9a4c3fdb8049f6825fe752baae239b52/associar-a-sku-PT.png)  
+![associar-a-sku-PT](https://images.ctfassets.net/alneenqid6w5/2326FaqSqhPfQ0qeiD8KWE/9a4c3fdb8049f6825fe752baae239b52/associar-a-sku-PT.png)  
 
 **Caso de uso**
 
@@ -207,7 +207,7 @@ Bloqueia os anúncios selecionados e estes não serão mais reprocessados automa
   3. Preencha o campo **Motivo de bloqueio.** O preenchimento é opcional.  
   4. Clique em `Recusar`.  
 
-![recusar-e-bloquear-PT](//images.ctfassets.net/alneenqid6w5/3rfJ5AjzArgvv7thlD3keQ/35b8c59c3b4284047fba1882372c8e88/recusar-e-bloquear-PT.png)  
+![recusar-e-bloquear-PT](https://images.ctfassets.net/alneenqid6w5/3rfJ5AjzArgvv7thlD3keQ/35b8c59c3b4284047fba1882372c8e88/recusar-e-bloquear-PT.png)  
 
 Quando um SKU é bloqueado pelo marketplace, significa que na próxima vez que o seller enviar seus produtos, aqueles que foram bloqueados não estarão mais em meio aos enviados. É possível desbloquear um SKU por API REST, se o marketplace deseja voltar a recebê-lo como sugestão do seller.  
 
@@ -226,7 +226,7 @@ Rejeita o anúncio e envia para o seller a solicitação de correção de inform
   3. Preencha o campo **correções** com a informação a ser corrigida pelo seller.  
   4. Clique em `Recusar`.  
 
-![recusar-e-corrigir-PT](//images.ctfassets.net/alneenqid6w5/62XmAvuM9luOqmLCwLpW2A/e53cdbf195194a408fb05f790f812083/recusar-e-corrigir-PT.png)  
+![recusar-e-corrigir-PT](https://images.ctfassets.net/alneenqid6w5/62XmAvuM9luOqmLCwLpW2A/e53cdbf195194a408fb05f790f812083/recusar-e-corrigir-PT.png)  
 
 <div class="alert alert-info">
 Esta ação pode ser realizada nas seções de anúncios <b>Pendentes</b>. Os anúncios para correção serão exibidos na seção <b>Problemas</b>.

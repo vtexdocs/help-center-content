@@ -34,7 +34,7 @@ If you already have a customization file for the previous version of the My Orde
 
 ### Order list
 
-![Order list with customization classes highlighted on top of the elements](//images.contentful.com/alneenqid6w5/1P5JMzt3jGIAKIOmC4ka4e/d7511d7273f4a957acc6f7e1322a81e6/my-orders-doc-1.png) 
+![Order list with customization classes highlighted on top of the elements](https://images.contentful.com/alneenqid6w5/1P5JMzt3jGIAKIOmC4ka4e/d7511d7273f4a957acc6f7e1322a81e6/my-orders-doc-1.png) 
 
 CSS:
 ```
@@ -69,7 +69,7 @@ CSS:
 
 ### Order detail
 
-![Order details page with customization classes highlighted on top of the elements](//images.contentful.com/alneenqid6w5/5szHUT7x9CAOseYGkcEskS/e8a846072846d20648c65a1cd00059c4/my-orders-doc-2.png)
+![Order details page with customization classes highlighted on top of the elements](https://images.contentful.com/alneenqid6w5/5szHUT7x9CAOseYGkcEskS/e8a846072846d20648c65a1cd00059c4/my-orders-doc-2.png)
 
 CSS:
 ```
@@ -84,7 +84,7 @@ CSS:
 
 ### Order cancellation
 
-![Order cancellation page with customization classes highlighted on top of the elements](//images.contentful.com/alneenqid6w5/5mUVzR5n7aMScoSs4auem4/05bfeea119bb4fc42afe448c66c9674f/my-orders-doc-3.png)
+![Order cancellation page with customization classes highlighted on top of the elements](https://images.contentful.com/alneenqid6w5/5mUVzR5n7aMScoSs4auem4/05bfeea119bb4fc42afe448c66c9674f/my-orders-doc-3.png)
 
 CSS:
 ```

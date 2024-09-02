@@ -79,7 +79,7 @@ To link a service to a SKU, please follow the steps below:
   <p>The size of the template file cannot exceed 4Mb (4096KB).</p>
 </div>
 8. Click on the bar next to the `Select` button, as shown below.
-  ![Anexos - EN](//images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/6d834bfa0595150d8c6a5b69c6088e23/sku-services.png)
+  ![Anexos - EN](https://images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/6d834bfa0595150d8c6a5b69c6088e23/sku-services.png)
 9. Select the updated CSV template.
 10. Click on the button `Link service values to SKU`.
 

@@ -34,7 +34,7 @@ Certifique-se o valor foi inserido seguindo os seguintes passos:
 4. Vá para a sessão __“Quais as condições para a promoção ser válida?”__
 5. Confira quais Clusters estão cadastradas em __“Cluster de clientes”__
 
-![PT - 7GcSb6BuF6JKnmGAggO3uA ](//images.ctfassets.net/alneenqid6w5/wltgxrSqvTKY5QmcZpK6A/6588a08d631b0bee3b52aa885ca34dda/Cluster-promo-PT.png)
+![PT - 7GcSb6BuF6JKnmGAggO3uA ](https://images.ctfassets.net/alneenqid6w5/wltgxrSqvTKY5QmcZpK6A/6588a08d631b0bee3b52aa885ca34dda/Cluster-promo-PT.png)
 
 6. Insira os __novos dados__
 7. Clique em __Salvar__

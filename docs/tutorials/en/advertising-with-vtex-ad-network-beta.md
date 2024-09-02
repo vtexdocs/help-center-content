@@ -110,7 +110,7 @@ You can pause a specific product in your campaign,  which will stop the correspo
 
 On the [VTEX Ad Network](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur) app's home screen, you'll also find details about ongoing campaigns.
 
-![vtex_ad_network_create_campaign_EN](//images.ctfassets.net/alneenqid6w5/3b6zZAI4R3cC9Jd1rGPwtn/353d1cb7a0d73b40594ec358a5ecbffa/vtex_ad_network_create_campaign.png)
+![vtex_ad_network_create_campaign_EN](https://images.ctfassets.net/alneenqid6w5/3b6zZAI4R3cC9Jd1rGPwtn/353d1cb7a0d73b40594ec358a5ecbffa/vtex_ad_network_create_campaign.png)
 
 At the top of the page, you'll find aggregated data:
 

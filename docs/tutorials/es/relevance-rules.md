@@ -24,7 +24,7 @@ Hay dos posibles escenarios de configuración de relevancia:
 - **Criterios de prioridad:** es la forma de forzar que uno o más criterios tengan mayor prioridad entre los demás. En esta situación no hay pesos, porque todos los productos que tienen esta característica se presentarán primero en el resultado de la búsqueda.
 - **Composición de criterios:** es la forma de distribuir los pesos de cada opción, que van de 0 a 10. Aquí no hay un orden entre los criterios, serán los pesos los que definan la relevancia.
 
-![criterios-es](//images.ctfassets.net/alneenqid6w5/2okH4XcNScAzf6PJIlOKqs/0b54c302ffac20ed831392a3c7d5135d/criterios-es.png)
+![criterios-es](https://images.ctfassets.net/alneenqid6w5/2okH4XcNScAzf6PJIlOKqs/0b54c302ffac20ed831392a3c7d5135d/criterios-es.png)
 
 La información aplicada para establecer la relevancia es:
 
@@ -110,5 +110,5 @@ Para cambiar la configuración de Reglas de relevancia, sigue los pasos a contin
 
    Si deseas cambiar la posición de un criterio de **Composición de criterios** a **Criterios de prioridad**, solo tienes que arrastrarlo por el ícono <i class="fas fa-grip-vertical"></i> a la parte superior según se muestra aquí. Ten en cuenta que cuando el criterio cambia a criterio de prioridad, no se le puede cambiar el peso.
 
-   ![criterios-prioritarios-es](//images.ctfassets.net/alneenqid6w5/c6CNsiZOSl7WnmP7k8Ffa/1bdaef8e82e1e1801a439a45acb2e4e3/criterios-prioritarios-es.gif)
+   ![criterios-prioritarios-es](https://images.ctfassets.net/alneenqid6w5/c6CNsiZOSl7WnmP7k8Ffa/1bdaef8e82e1e1801a439a45acb2e4e3/criterios-prioritarios-es.gif)
 5. Para terminar, haz clic en  `Guardar`.

@@ -28,26 +28,26 @@ Ver estos campos es muy simple. Una vez registrado en el Admin de su tienda, só
 
 1. En la _sidebar_ del Admin, haga clic en __Master Data__;
 
-  ![Carrinho Abandonado - 1 - ES](//images.ctfassets.net/alneenqid6w5/4GdZSkwtm9f76BIVFnC65D/76369f4dd2d1483fe5e4d3a501bc9d53/4GdZSkwtm9f76BIVFnC65D_Masterdata_ES.jpg)
+  ![Carrinho Abandonado - 1 - ES](https://images.ctfassets.net/alneenqid6w5/4GdZSkwtm9f76BIVFnC65D/76369f4dd2d1483fe5e4d3a501bc9d53/4GdZSkwtm9f76BIVFnC65D_Masterdata_ES.jpg)
 
 2. Haga clic en el icono de configuración (engranaje) del __Profile System__.
 
-  ![Carrinho Abandonado - 2 - ES](//images.ctfassets.net/alneenqid6w5/2lT6TyHXyqprOVrVWKcrXL/6515d98ac1ca841647e50989854ca0cf/2lT6TyHXyqprOVrVWKcrXL_Masterdata.jpg)
+  ![Carrinho Abandonado - 2 - ES](https://images.ctfassets.net/alneenqid6w5/2lT6TyHXyqprOVrVWKcrXL/6515d98ac1ca841647e50989854ca0cf/2lT6TyHXyqprOVrVWKcrXL_Masterdata.jpg)
 
 3. Asegúrese de que está en la pestaña __Aplicaciones__.
 
-  ![Carrinho Abandonado - 3 - ES](//images.ctfassets.net/alneenqid6w5/7uNmvjaX9n2fEyS6qrqBs5/32716ff3964171724751aebc9536efca/7uNmvjaX9n2fEyS6qrqBs5_Masterdata.jpg)
+  ![Carrinho Abandonado - 3 - ES](https://images.ctfassets.net/alneenqid6w5/7uNmvjaX9n2fEyS6qrqBs5/32716ff3964171724751aebc9536efca/7uNmvjaX9n2fEyS6qrqBs5_Masterdata.jpg)
 
 4. Acceda a Editar (Lápiz) en la categoría __Clientes__.
 
-  ![Carrinho Abandonado - 4 - ES](//images.ctfassets.net/alneenqid6w5/3ea3rmBM3CGMla7fngViDb/87cb6addecfe6afd4f4135ca89e02df8/3ea3rmBM3CGMla7fngViDb_Masterdata.jpg)
+  ![Carrinho Abandonado - 4 - ES](https://images.ctfassets.net/alneenqid6w5/3ea3rmBM3CGMla7fngViDb/87cb6addecfe6afd4f4135ca89e02df8/3ea3rmBM3CGMla7fngViDb_Masterdata.jpg)
 
 5. Seleccione __"Último carrito"__ y __"Carrito"__ entre las opciones de __Campos de Listados__;
 
-  ![Carrinho Abandonado - 5 - ES](//images.ctfassets.net/alneenqid6w5/1jjfpJH15yyTILbKIJqVaH/786f5d9a8362fd704daa2b8a88596ad0/1jjfpJH15yyTILbKIJqVaH_Masterdata_PT.jpg)
+  ![Carrinho Abandonado - 5 - ES](https://images.ctfassets.net/alneenqid6w5/1jjfpJH15yyTILbKIJqVaH/786f5d9a8362fd704daa2b8a88596ad0/1jjfpJH15yyTILbKIJqVaH_Masterdata_PT.jpg)
 
 6. Haga clic en __Guardar__.
 
-  ![Carrinho Abandonado - 6 - ES](//images.ctfassets.net/alneenqid6w5/5NUGVb2W2Jq98vbJgF1UcN/40b0c1cc04474521d0f89ac54e9ab961/5NUGVb2W2Jq98vbJgF1UcN_Masterdata.jpg)
+  ![Carrinho Abandonado - 6 - ES](https://images.ctfassets.net/alneenqid6w5/5NUGVb2W2Jq98vbJgF1UcN/40b0c1cc04474521d0f89ac54e9ab961/5NUGVb2W2Jq98vbJgF1UcN_Masterdata.jpg)
 
 Con eso, usted ya podrá ver los parámetros de los carritos abandonados de sus clientes.

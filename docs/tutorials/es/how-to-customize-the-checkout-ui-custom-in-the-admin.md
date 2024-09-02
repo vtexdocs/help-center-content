@@ -63,25 +63,25 @@ En esta pestaña puedes configurar los siguientes ajustes:
 
 La pestaña Colores facilita la personalización de los colores del checkout de tu tienda, lo que incluye la modificación de los colores del fondo, de los botones o del texto, por ejemplo. Esta estandarización garantiza una armonía visual consistente.
 
-![Colores](//images.ctfassets.net/alneenqid6w5/4H44wWoSRkxqorAvMIIdtG/a6ded356e1627c5cc91465aaca09c047/Colores_-_ES.png)
+![Colores](https://images.ctfassets.net/alneenqid6w5/4H44wWoSRkxqorAvMIIdtG/a6ded356e1627c5cc91465aaca09c047/Colores_-_ES.png)
 
 ## JavaScript
 
 La pestaña JavaScript agrega un nivel adicional de personalización de la interfaz al posibilitar la inserción de scripts.
 
-![Java - ES](//images.ctfassets.net/alneenqid6w5/2Uz2vqftUh4RvMsMwuO6OR/828e33a5b4a8a02130e3c63de6588dfe/Java_-_ES.png)
+![Java - ES](https://images.ctfassets.net/alneenqid6w5/2Uz2vqftUh4RvMsMwuO6OR/828e33a5b4a8a02130e3c63de6588dfe/Java_-_ES.png)
 
 ## CSS
 
 La pestaña CSS permite ajustar el aspecto visual de la tienda mediante la inclusión de código CSS.
 
-![CSS - ES](//images.ctfassets.net/alneenqid6w5/70CMxJWujBZ9qK4bCseGeH/415c6d4c0d23401f7293a94b585da15c/CSS_-_ES.png)
+![CSS - ES](https://images.ctfassets.net/alneenqid6w5/70CMxJWujBZ9qK4bCseGeH/415c6d4c0d23401f7293a94b585da15c/CSS_-_ES.png)
 
 ## Historial
 
 Permite ver y restaurar las personalizaciones creadas y publicadas anteriormente.
 
-![Histórico - ES](//images.ctfassets.net/alneenqid6w5/6C0VthFtBjKP4S3aSS2BaX/5f06f5a14093fa8f112e0fc08b3f686a/Hist_rico_-_ES.png)
+![Histórico - ES](https://images.ctfassets.net/alneenqid6w5/6C0VthFtBjKP4S3aSS2BaX/5f06f5a14093fa8f112e0fc08b3f686a/Hist_rico_-_ES.png)
 
 Para asegurarte de que la configuración se aplique correctamente, solo tienes que configurar los ajustes necesarios y hacer clic en el botón `Publicar`.
 

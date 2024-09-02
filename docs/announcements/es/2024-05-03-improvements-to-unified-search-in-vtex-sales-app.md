@@ -33,7 +33,7 @@ Los cambios optimizan la experiencia de búsqueda y compra:
 
 - **Optimización para conexiones lentas:** gracias al uso de la caché del navegador, la búsqueda solo devolverá nueva información cuando sea necesario, garantizando una respuesta rápida aun cuando la conexión de internet esté lenta.
 
-![Mobile - ES](//images.ctfassets.net/alneenqid6w5/2wdRQcrdDW1OKapj13T6Lq/095d38f345e181216351f7560a65d914/mobile__1_.gif)
+![Mobile - ES](https://images.ctfassets.net/alneenqid6w5/2wdRQcrdDW1OKapj13T6Lq/095d38f345e181216351f7560a65d914/mobile__1_.gif)
 
 ## ¿Por qué realizamos este cambio?
 

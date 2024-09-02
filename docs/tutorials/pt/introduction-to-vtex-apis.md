@@ -62,7 +62,7 @@ Nela devem ser incluídos:
  
 No Postman, a URL deve ser inserida no campo destacado abaixo:
 
-![APIs1](//images.contentful.com/alneenqid6w5/f53Sv9BCZqK4EI0sYmW8A/63e512b825d47daa2f685ae5bb9df553/APIs1.png)
+![APIs1](https://images.contentful.com/alneenqid6w5/f53Sv9BCZqK4EI0sYmW8A/63e512b825d47daa2f685ae5bb9df553/APIs1.png)
 
 ****
 
@@ -80,7 +80,7 @@ Mas você não precisa deduzir isso sozinho. Ao disponibilizar uma API, a VTEX i
  
 No Postman, o método é selecionado à esquerda do campo de URL.
 
-![APIs2](//images.contentful.com/alneenqid6w5/wDClzNRJDiCE6OKecOAs4/8545dbce3bc2ee546b8cf497750360b5/APIs2.png)
+![APIs2](https://images.contentful.com/alneenqid6w5/wDClzNRJDiCE6OKecOAs4/8545dbce3bc2ee546b8cf497750360b5/APIs2.png)
 
 ****
 
@@ -92,7 +92,7 @@ Quando um novo usuário é criado para a sua loja, atribui-se a ele determinado 
  
 No postman, a AppKey e o AppToken devem ser inseridos na aba **Headers**. No primeiro header, insira `X-VTEX-API-AppKey` e então sua AppKey. Na segunda linha, insira `X-VTEX-API-AppToken` e então seu AppToken. Para saber como gerar sua AppKey e seu ApToken, leia o artigo [Criar appKey e appToken para autenticar integrações](/pt/tutorial/criar-appkey-e-apptoken-para-autenticar-integracoes).
 
-![APIs3](//images.contentful.com/alneenqid6w5/4z9W9DYJEcYa2WGIoSceEE/166d8adc70a8176af1a7fb04e5cdbb65/APIs3.png)
+![APIs3](https://images.contentful.com/alneenqid6w5/4z9W9DYJEcYa2WGIoSceEE/166d8adc70a8176af1a7fb04e5cdbb65/APIs3.png)
 
 ****
 
@@ -110,11 +110,11 @@ As APIs da VTEX estão disponíveis em nosso Help Center, na seção [Developer 
  
 Elas ficam divididas por módulo ou funcionalidade. Entrando em um destes, você encontra as APIs correspondentes, cada uma delas acompanhada da indicação do método correto, URL e Headers. Algumas APIs têm também o código que deve ser passado no Body.
  
-![APIs4](//images.contentful.com/alneenqid6w5/1JZCBHsm6UGS2EwuGqoGm4/a61e000b81acd2f06a1021f70c12e31b/APIs4.png)
+![APIs4](https://images.contentful.com/alneenqid6w5/1JZCBHsm6UGS2EwuGqoGm4/a61e000b81acd2f06a1021f70c12e31b/APIs4.png)
  
 À direita dessas indicações, o Postman exibe, para cada API, um Sample Request. De acordo com a linguagem escolhida na caixa de seleção acima dele, o Sample Request mostra como seria a aplicação da requisição no código.
 
-![sample request](//images.ctfassets.net/alneenqid6w5/3wK9xsMZmwca8IeygiYOyO/fc875afab27a1abb9c812ec62e511ec9/sample_request.png)
+![sample request](https://images.ctfassets.net/alneenqid6w5/3wK9xsMZmwca8IeygiYOyO/fc875afab27a1abb9c812ec62e511ec9/sample_request.png)
  
 Para algumas APIs, há também uma Sample Response, que é um exemplo de resposta àquele request.
 

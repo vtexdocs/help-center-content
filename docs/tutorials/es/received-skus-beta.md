@@ -33,7 +33,7 @@ La página SKUs recibidos se organiza en pestañas correspondientes a los distin
 
 Dentro de cada pestaña, además de visualizar la lista de SKU, es posible filtrar anuncios, revisar las especificaciones de cada uno y verificar el porcentaje de SKUs recibidos que se encuentran en ese status específico.  
 
-![skus-recibidos-pestanas-es](//images.ctfassets.net/alneenqid6w5/4jNrRvJsZgja1LuSz204P1/3757c1f533031f535b2c233eb55f3d08/skus-recibidos-pestanas-es.png)
+![skus-recibidos-pestanas-es](https://images.ctfassets.net/alneenqid6w5/4jNrRvJsZgja1LuSz204P1/3757c1f533031f535b2c233eb55f3d08/skus-recibidos-pestanas-es.png)
 
 ### Pendientes
 
@@ -50,7 +50,7 @@ Cada fila de la lista representa un producto con la siguiente información:
 
 Para consultar todas las especificaciones de un producto, haz clic en el nombre del producto deseado y se abrirá una nueva ventana con toda la información.  
 
-![skus-recibidos-analisis-es](//images.ctfassets.net/alneenqid6w5/3QSXyYXqhdAB3R4J3lL749/d789b0d0ad6be43a7eb75ee0b6a0c637/skus-recibidos-analisis-es.png)
+![skus-recibidos-analisis-es](https://images.ctfassets.net/alneenqid6w5/3QSXyYXqhdAB3R4J3lL749/d789b0d0ad6be43a7eb75ee0b6a0c637/skus-recibidos-analisis-es.png)
 
 ### Problemas
 
@@ -62,7 +62,7 @@ La acción de solicitar corrección no está disponible en la pestaña <b>Proble
 
 Para identificar el problema de un anuncio solo hay que hacer clic en el nombre del producto deseado. Se mostrará una nueva ventana con la información del producto, el mensaje de error y el revisor del anuncio.  
 
-![skus-recibidos-problemas-analisis-es](//images.ctfassets.net/alneenqid6w5/4yZtOcq16r6SXvai0lWzau/9209d4817cfdb057283cb12a6bdb99a6/skus-recibidos-problemas-analisis-es.png)
+![skus-recibidos-problemas-analisis-es](https://images.ctfassets.net/alneenqid6w5/4yZtOcq16r6SXvai0lWzau/9209d4817cfdb057283cb12a6bdb99a6/skus-recibidos-problemas-analisis-es.png)
 
 ### Aprobados
 
@@ -121,7 +121,7 @@ De manera predeterminada, los ítems más recientemente agregados se muestran pr
 
 En este caso, los ítems se ordenarán de forma ascendente o descendente al hacer clic en **Precio** o **Stock.**  
 
-![skus-recibidos-ord-es](//images.ctfassets.net/alneenqid6w5/3Eur3cPCdSTtZjoGIqeq6o/a44da25a3176f26b0ab2e318ef171375/skus-recibidos-ord-es.png)
+![skus-recibidos-ord-es](https://images.ctfassets.net/alneenqid6w5/3Eur3cPCdSTtZjoGIqeq6o/a44da25a3176f26b0ab2e318ef171375/skus-recibidos-ord-es.png)
 
 ## Catalogación de ítems  
 
@@ -153,7 +153,7 @@ Crea un nuevo SKU en el catálogo, lo que a su vez crea un nuevo producto. Recom
 Esta acción puede realizarse en las pestañas <b>Pendientes</b> y <b>Problemas</b>.
 </div>  
 
-![skus-recibidos-crear-nuevo-producto-es](//images.ctfassets.net/alneenqid6w5/4H2vmekbrtbXQXUVrwVoSF/4b686bea24c2df091c8739ecc398a645/skus-recibidos-crear-nuevo-producto-es.png)
+![skus-recibidos-crear-nuevo-producto-es](https://images.ctfassets.net/alneenqid6w5/4H2vmekbrtbXQXUVrwVoSF/4b686bea24c2df091c8739ecc398a645/skus-recibidos-crear-nuevo-producto-es.png)
 
 #### Asociar a un producto existente  
 
@@ -164,7 +164,7 @@ Crea una relación entre el producto del seller y un producto que ya existe en e
 3. Ingresa el ID del producto al que se asociará.  
 4. Haz clic en `Aprobar`.
 
-![skus-recibidos-vincular-al-producto-es](//images.ctfassets.net/alneenqid6w5/2fAWptfykAdJ3UTDSCpNhW/7bf8dee7e2b09fa4c36aefa485a461c8/skus-recibidos-vincular-al-producto-es.png)   
+![skus-recibidos-vincular-al-producto-es](https://images.ctfassets.net/alneenqid6w5/2fAWptfykAdJ3UTDSCpNhW/7bf8dee7e2b09fa4c36aefa485a461c8/skus-recibidos-vincular-al-producto-es.png)   
 
 **Caso de uso**  
 
@@ -185,7 +185,7 @@ Crea una relación entre el SKU del seller y un SKU que ya existe en el catálog
 3. Ingresa el **ID del SKU** que se asociará a cada SKU que se está aprobando.  
 4. Haz clic en `Aprobar`.  
 
-![skus-recibidos-vincular-al-sku-es](//images.ctfassets.net/alneenqid6w5/2326FaqSqhPfQ0qeiD8KWE/5d8fc3e9ba0d93b2c2f9186d73f4f69b/skus-recibidos-vincular-al-sku-es.png)  
+![skus-recibidos-vincular-al-sku-es](https://images.ctfassets.net/alneenqid6w5/2326FaqSqhPfQ0qeiD8KWE/5d8fc3e9ba0d93b2c2f9186d73f4f69b/skus-recibidos-vincular-al-sku-es.png)  
 
 **Caso de uso**  
 
@@ -206,7 +206,7 @@ Esta acción bloquea los anuncios seleccionados, impidiendo su reprocesamiento a
 3. Rellena el campo **Motivo del bloqueo** (opcional). O preenchimento é opcional.  
 4. Haz clic en `Rechazar`.  
 
-![skus-recibidos-rechazar-y-bloquear-es](//images.ctfassets.net/alneenqid6w5/3rfJ5AjzArgvv7thlD3keQ/bb22e0cfd4ff98513d5da66696b2e5d5/skus-recibidos-rechazar-y-bloquear-es.png)
+![skus-recibidos-rechazar-y-bloquear-es](https://images.ctfassets.net/alneenqid6w5/3rfJ5AjzArgvv7thlD3keQ/bb22e0cfd4ff98513d5da66696b2e5d5/skus-recibidos-rechazar-y-bloquear-es.png)
 
 Cuando el marketplace bloquea un SKU, significa que la próxima vez que el seller envíe sus productos, aquellos que hayan sido bloqueados ya no serán incluidos entre los enviados. Es posible desbloquear un SKU a través de la API REST, si el marketplace desea volver a recibirlo como sugerencia del seller. Para más información sobre la aprobación de SKU, consulta nuestra documentación [Send SKU Suggestion](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#put-/suggestions/-sellerId-/-sellerSkuId-).  
 
@@ -223,7 +223,7 @@ Rechaza el anuncio y envía al seller una solicitud para corregir la informació
 3. Completa el campo **Correcciones** con la información que el seller debe corregir.  
 4. Haz clic en `Rechazar`.  
 
-![skus-recibidos-rechazar-para-correccion-es](//images.ctfassets.net/alneenqid6w5/62XmAvuM9luOqmLCwLpW2A/bc526e9f64a729781f5ebebcd6a62ee0/skus-recibidos-rechazar-para-correccion-es.png)  
+![skus-recibidos-rechazar-para-correccion-es](https://images.ctfassets.net/alneenqid6w5/62XmAvuM9luOqmLCwLpW2A/bc526e9f64a729781f5ebebcd6a62ee0/skus-recibidos-rechazar-para-correccion-es.png)  
 
 <div class="alert alert-info">
 Esta acción puede realizarse en la pestaña <b>Pendientes</b>. Los anuncios que necesitan corrección se mostrarán en la pestaña <b>Problemas</b>.

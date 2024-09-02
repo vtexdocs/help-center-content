@@ -38,7 +38,7 @@ Depois de realizar as configurações, é necessário fazer a indexação de tod
 1. Com o [usuário titular](https://help.vtex.com/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?locale=pt), acesse o link `{nomedaloja}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
 2. Clique no botão __Reindexar Base__.
 
-[![ReindexarBase](//images.contentful.com/alneenqid6w5/7Eg8CAclRSSqaSS8cqI66S/44944a80535a465fc449c44b8066b557/ReindexarBase.png)](//images.contentful.com/alneenqid6w5/7Eg8CAclRSSqaSS8cqI66S/44944a80535a465fc449c44b8066b557/ReindexarBase.png "![ReindexarBase](//images.contentful.com/alneenqid6w5/7Eg8CAclRSSqaSS8cqI66S/44944a80535a465fc449c44b8066b557/ReindexarBase.png)")
+[![ReindexarBase](https://images.contentful.com/alneenqid6w5/7Eg8CAclRSSqaSS8cqI66S/44944a80535a465fc449c44b8066b557/ReindexarBase.png)](https://images.contentful.com/alneenqid6w5/7Eg8CAclRSSqaSS8cqI66S/44944a80535a465fc449c44b8066b557/ReindexarBase.png "![ReindexarBase](https://images.contentful.com/alneenqid6w5/7Eg8CAclRSSqaSS8cqI66S/44944a80535a465fc449c44b8066b557/ReindexarBase.png)")
 
 Perceba que, na URL, é preciso alterar o termo `{nomedaloja}` para o nome de sua loja.
 

@@ -25,7 +25,7 @@ La aplicación está disponible en [VTEX App Store](https://apps.vtex.com/ "VTEX
 - Permite moderar las calificaciones: apruebe las calificaciones de los productos antes de que estén disponibles en la página de producto.
 - Permite que usted configure su tienda para habilitar las calificaciones anónimas.
 
-![Reviews and Ratings - Printscreen](//images.ctfassets.net/alneenqid6w5/2WZ7g7iF3goyERWcguegBV/6b79887b72f793cd2f600e8a1505de8a/Screen_Shot_2020-12-07_at_15.52.05.png)
+![Reviews and Ratings - Printscreen](https://images.ctfassets.net/alneenqid6w5/2WZ7g7iF3goyERWcguegBV/6b79887b72f793cd2f600e8a1505de8a/Screen_Shot_2020-12-07_at_15.52.05.png)
 
 ## ¿Cuáles son los beneficios?
 - Permite que su consumidor compre con más confianza y asertividad basándose en las calificaciones de otros usuarios.

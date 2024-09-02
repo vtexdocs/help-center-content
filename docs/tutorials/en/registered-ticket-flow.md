@@ -23,7 +23,7 @@ Here's how the basic flow of a registered ticket payment works. The flow is divi
  
 ## Ticket Issue
 
-![processo-boleto-registrado-en ex 2](//images.ctfassets.net/alneenqid6w5/3QIX0MyLCgqcmcsGgEAwsU/e7530c4c911dd93a995425db4a9e5fff/paint_bank_en_2.png)
+![processo-boleto-registrado-en ex 2](https://images.ctfassets.net/alneenqid6w5/3QIX0MyLCgqcmcsGgEAwsU/e7530c4c911dd93a995425db4a9e5fff/paint_bank_en_2.png)
 
 1. Your __e-commerce__ informs the __Gateway__ that an order will be paid via registered ticket.
 2. The gateway contacts the __Bank__ to register the ticket.
@@ -35,7 +35,7 @@ At this time, the ticket has not yet been paid by the customer.
 
 ## Ticket Payment and Bank Reconciliation
 
-![processo-boleto-registrado-en ex 1](//images.ctfassets.net/alneenqid6w5/1c6VvblROiioeMmacWkuii/37a83bad6931c6ae6a8fa89a5b773127/paint_bank_en.png)
+![processo-boleto-registrado-en ex 1](https://images.ctfassets.net/alneenqid6w5/1c6VvblROiioeMmacWkuii/37a83bad6931c6ae6a8fa89a5b773127/paint_bank_en.png)
 
 1. the __Client__ pays the ticket directly to the __Bank__.
 2. The bank sends the [bank reconciliation](/en/tutorial/bank-reconciliations) files to the __Gateway__ with information on the tickets payment status.

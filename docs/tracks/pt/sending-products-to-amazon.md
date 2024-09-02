@@ -42,10 +42,10 @@ A lista de categorias da sua loja VTEX inclui o status de seu mapeamento por mei
 
 | **Ícone** | **Status** | **Descrição** |
 |:---:|:---:|:---:|
-| ![mapeado mapper](//images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/43ace44c1e31c69157dc8ad5ec12529d/mapeado_mapper.jpg) | **Mapeado** | Indica que o mapeamento da categoria foi concluído. |
-| ![mapeamentoincompleto mapper](//images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/3cc09ec0f77d42f3277dd90e2f3167f9/mapeamentoincompleto_mapper.jpg) | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. |
-| ![erromapeamento mapper](//images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/136543f594ca05eec7be6bfc545cd10f/erromapeamento_mapper.jpg) | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto. Para solucionar esse problema basta refazer o mapeamento da categoria. |
-| ![não mapeado mapper](//images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/79bf968ab2d73471ee6e96b41b6a75d9/incompleto_mapper.jpg) | **Não mapeado** | Indica que a categoria não foi mapeada. |  
+| ![mapeado mapper](https://images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/43ace44c1e31c69157dc8ad5ec12529d/mapeado_mapper.jpg) | **Mapeado** | Indica que o mapeamento da categoria foi concluído. |
+| ![mapeamentoincompleto mapper](https://images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/3cc09ec0f77d42f3277dd90e2f3167f9/mapeamentoincompleto_mapper.jpg) | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. |
+| ![erromapeamento mapper](https://images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/136543f594ca05eec7be6bfc545cd10f/erromapeamento_mapper.jpg) | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto. Para solucionar esse problema basta refazer o mapeamento da categoria. |
+| ![não mapeado mapper](https://images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/79bf968ab2d73471ee6e96b41b6a75d9/incompleto_mapper.jpg) | **Não mapeado** | Indica que a categoria não foi mapeada. |  
 
 Para realizar o mapeamento de categorias:  
 
@@ -120,13 +120,13 @@ Para configurar a categoria global no seu ambiente VTEX, a partir das categorias
 #### Exemplo de consulta das planilhas 
 
 Na Planilha de atributos obrigatórios da Amazon, iremos utilizar a categoria **Health** focando em produtos para saúde:
-![categoriageral01](//images.contentful.com/alneenqid6w5/154htyPg3K3IZ6Wxej3kek/a446c9815c249dda3084aa1773b76b3a/categoriageral01.JPG)
+![categoriageral01](https://images.contentful.com/alneenqid6w5/154htyPg3K3IZ6Wxej3kek/a446c9815c249dda3084aa1773b76b3a/categoriageral01.JPG)
 
 Na Planilha de categorias gerais da Amazon, filtre a coluna “I” Cat-Amazon-Geral, clicando em **Filtro > Health > OK**.
-![categoriageral02](//images.contentful.com/alneenqid6w5/2PTS1fxztRjYHaAicwVH7W/f44b94c30ca7401ec08a19c467ee8912/categoriageral02.JPG)
+![categoriageral02](https://images.contentful.com/alneenqid6w5/2PTS1fxztRjYHaAicwVH7W/f44b94c30ca7401ec08a19c467ee8912/categoriageral02.JPG)
 
 Seguindo o exemplo anterior, filtre as colunas B, C e D da árvore de **Saúde e beleza> Cuidados pessoais > Massagem e relaxamento**.
-![categoriageral03](//images.contentful.com/alneenqid6w5/1p0cIHz7bp8HHuzud1H4zE/e79bf00cbe09f7b1fb155730cfc401f8/categoriageral03.JPG)
+![categoriageral03](https://images.contentful.com/alneenqid6w5/1p0cIHz7bp8HHuzud1H4zE/e79bf00cbe09f7b1fb155730cfc401f8/categoriageral03.JPG)
 
 Agora que você encontrou a categoria geral da Amazon, volte ao Admin para [configurar a categoria global](https://help.vtex.com/pt/tutorial/configurando-a-categoria-global--tutorials_188) da VTEX de acordo com a categoria geral da Amazon.
 

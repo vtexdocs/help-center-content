@@ -27,7 +27,7 @@ Selecione `store-theme` e confirme que você gostaria de fazer o download do pro
 
 Você receberá informações importantes sobre o aplicativo, como o vendor, o nome, o título e a descrição do aplicativo. Use o __account name__ da loja que você está desenvolvendo como o __vendor__. Isso é importante para que posteriormente você consiga publicar corretamente essa app nesta conta. Para usar os valores padrão, basta pressionar Enter.
 
-![store-theme](//images.ctfassets.net/alneenqid6w5/6FEPaKbOMqkndELmvd0u6z/f47d4a3a04b5cf270372b5dbc72940a9/store-theme.svg)
+![store-theme](https://images.ctfassets.net/alneenqid6w5/6FEPaKbOMqkndELmvd0u6z/f47d4a3a04b5cf270372b5dbc72940a9/store-theme.svg)
 
 ## Entendendo a estrutura da app
 
@@ -87,7 +87,7 @@ Durante um "link", todas as alterações feitas no seu código são automaticame
 
 Execute o `vtex link` e veja seu aplicativo de exemplo ser compilado e publicado na conta e no workspace que você acabou de criar.
 
-![vtex-link](//images.ctfassets.net/alneenqid6w5/1peFxCLM0kF9JvC8AmPeFi/9cef3e4e5e5877a744c15ca3f6e8db18/vtex-link.svg)
+![vtex-link](https://images.ctfassets.net/alneenqid6w5/1peFxCLM0kF9JvC8AmPeFi/9cef3e4e5e5877a744c15ca3f6e8db18/vtex-link.svg)
 
 <div class="alerta alerta-info">
 Lembre-se: execute <code>vtex whoami</code> para ter certeza de que você está na conta certa e em um workspace de teste. Caso contrário, o <code>VTEX Toolbelt</code> irá reclamar do link direto com o master.
@@ -105,4 +105,4 @@ O `{{account}}.myvtex.com` é o seu domínio privado destinado a testar novos wo
 
 Parabéns por linkar sua primeira app no VTEX IO!
 
-![dreamstore](//images.ctfassets.net/alneenqid6w5/7G77GAWEmdysNJ2JBYaAI8/6b2bc7f47f994242c8a853e84e3f0b67/dreamstore.svg)
+![dreamstore](https://images.ctfassets.net/alneenqid6w5/7G77GAWEmdysNJ2JBYaAI8/6b2bc7f47f994242c8a853e84e3f0b67/dreamstore.svg)

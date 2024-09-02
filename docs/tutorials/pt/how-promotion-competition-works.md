@@ -82,7 +82,7 @@ Todavia, elas incidem no valor já descontado pela promoção que ganhou a conco
 
 Logo, a sequência de aplicação é:
 
-![promocao3 PT](//images.ctfassets.net/alneenqid6w5/1LKDzbLkhua8Gk284SEwsk/997fdac9b6380c68a729bf4d48e20af8/promocao3_PT.png)
+![promocao3 PT](https://images.ctfassets.net/alneenqid6w5/1LKDzbLkhua8Gk284SEwsk/997fdac9b6380c68a729bf4d48e20af8/promocao3_PT.png)
 
 <div class="alert alert-warning">
 Pedidos de origem <a href="https://help.vtex.com/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406">Marketplace</a> e Fulfillment não reconhecem acúmulo de promoção, uma vez que o uso de promoções em Marketplaces VTEX ou externos é restrito a alguns tipos específicos.</div>

@@ -19,7 +19,7 @@ On the [VTEX Status](https://status.vtex.com/) page, you can monitor the platfor
 
 Our team reports events whenever our automatic monitoring system identifies an instability in the platform modules. Scheduled maintenance is also reported in detail on this page.
 
-![statuspage-1](//images.ctfassets.net/alneenqid6w5/qECQAjnWxwGH47wzXDv6c/d8aea2fa393bfb699b6ea71b9b59d7a9/statuspage-1.png)
+![statuspage-1](https://images.ctfassets.net/alneenqid6w5/qECQAjnWxwGH47wzXDv6c/d8aea2fa393bfb699b6ea71b9b59d7a9/statuspage-1.png)
 
 Below, you can find details of the VTEX platform's status page elements, developed with the [incident.io](https://incident.io/) tool:
 
@@ -41,7 +41,7 @@ The status page displays the `Subscribe to updates` button in the top right corn
 
 By choosing the email subscription option, you can receive notifications only for certain components. To do so, select the **Subscribe to specific components** option. Then, check the components you want to monitor.
 
-![statuspage-2](//images.ctfassets.net/alneenqid6w5/765OraMzYp5UPazSPX8JoP/2e3c6f8f076298d91e2ff5b8139325e0/statuspage-2.png)
+![statuspage-2](https://images.ctfassets.net/alneenqid6w5/765OraMzYp5UPazSPX8JoP/2e3c6f8f076298d91e2ff5b8139325e0/statuspage-2.png)
 
 ## General status
 
@@ -49,23 +49,23 @@ In this section, you can view the platform's general status, which can be _fully
 
 When problems or maintenance affect a system, the impacted component and the incident description are displayed. See examples below.
 
-![statuspage-3](//images.ctfassets.net/alneenqid6w5/16vditkk4vdDH5NGhGp7zJ/21bc090adf8b43e7579831a500e4b627/statuspage-3.png)
+![statuspage-3](https://images.ctfassets.net/alneenqid6w5/16vditkk4vdDH5NGhGp7zJ/21bc090adf8b43e7579831a500e4b627/statuspage-3.png)
 
-![statuspage-4](//images.ctfassets.net/alneenqid6w5/6EpVdfEsrlzNk2qQNWDN2b/80950f0d2faadb58b813eddc64eec7bc/statuspage-4.png)
+![statuspage-4](https://images.ctfassets.net/alneenqid6w5/6EpVdfEsrlzNk2qQNWDN2b/80950f0d2faadb58b813eddc64eec7bc/statuspage-4.png)
 
-![statuspage-5](//images.ctfassets.net/alneenqid6w5/46ql2YGxhdGrZwrbhj9oe4/6d7fb7f4ffbf645810e4ade63efa9e64/statuspage-5.png)
+![statuspage-5](https://images.ctfassets.net/alneenqid6w5/46ql2YGxhdGrZwrbhj9oe4/6d7fb7f4ffbf645810e4ade63efa9e64/statuspage-5.png)
 
 ## System status
 
 In this section, you can check the status of each platform system and its components in real time.
 
-![statuspage-6](//images.ctfassets.net/alneenqid6w5/23cxCKAgrYgrHwsGeTWEFM/fdc22b9eff6d4bf11bfba43a283da409/statuspage-6.png)
+![statuspage-6](https://images.ctfassets.net/alneenqid6w5/23cxCKAgrYgrHwsGeTWEFM/fdc22b9eff6d4bf11bfba43a283da409/statuspage-6.png)
 
 By clicking the arrow <i class="fas fa-chevron-down"></i> next to the number of components, you can view the status of specific components for each system.
 
 If maintenance is scheduled for a future date, you will also see the `Upcoming maintenance scheduled` button, as shown below. Hovering over this button will display the scheduled maintenance event. You can click to view its log.
 
-![statuspage-7](//images.ctfassets.net/alneenqid6w5/01rsFj3g2ZIyQfGvVj1U3F/1fbf5de5c36e02ec2bfd6204471a2ebf/statuspage-7.png)
+![statuspage-7](https://images.ctfassets.net/alneenqid6w5/01rsFj3g2ZIyQfGvVj1U3F/1fbf5de5c36e02ec2bfd6204471a2ebf/statuspage-7.png)
 
 The possible statuses for each component are:
 
@@ -123,7 +123,7 @@ To navigate to previous months, click the arrow `<`.
 
 To view incidents from a specific day, hover over the date. To access the page with the complete event log, click the listed incident or maintenance.
 
-![statuspage-8](//images.ctfassets.net/alneenqid6w5/2aRBMeTVELfszcFQFpXyUJ/8ca30c0cd6d89aaca8d92dc21af7274e/statuspage-8.png)
+![statuspage-8](https://images.ctfassets.net/alneenqid6w5/2aRBMeTVELfszcFQFpXyUJ/8ca30c0cd6d89aaca8d92dc21af7274e/statuspage-8.png)
 
 <div class="alert alert-warning">
   <p>If the scheduled maintenance lasts longer than a day, only the start date will be selected in the calendar. You must open the <a href="#scheduled-maintenance-logs"> maintenance log</a> to see the start and end dates.</p>
@@ -135,7 +135,7 @@ Below, we detail the information available in the [incident log](#incident-logs)
 
 The incident details page displays the following information:
 
-![status-page-9-en](//images.ctfassets.net/alneenqid6w5/2jNJB6z7HrvDzQMLi1W4KW/6cacbbfc2e5b7e99bf4309e3622edda4/status-page-9-en.png)
+![status-page-9-en](https://images.ctfassets.net/alneenqid6w5/2jNJB6z7HrvDzQMLi1W4KW/6cacbbfc2e5b7e99bf4309e3622edda4/status-page-9-en.png)
 
 * **Title:** Title describing the incident.
 * **Status:** Each incident has a defined cycle in which our team works to identify and solve problems. These are stages of this cycle:
@@ -164,6 +164,6 @@ The scheduled maintenance log displays the same information as the incident logs
 
 Below are some examples illustrating the status and timeline of scheduled maintenance events.
 
-![statuspage-10](//images.ctfassets.net/alneenqid6w5/1pf3IU5k6R0pHhC7xLeKu0/7dc874395f5b13ba6e1ce62b76913398/statuspage-10.png)
+![statuspage-10](https://images.ctfassets.net/alneenqid6w5/1pf3IU5k6R0pHhC7xLeKu0/7dc874395f5b13ba6e1ce62b76913398/statuspage-10.png)
 
-![statuspage-11](//images.ctfassets.net/alneenqid6w5/4GtphAcpvUEwKmhl7FuPiU/9900eb1dd6b9086a6c6049855dbc17c9/statuspage-11.png)
+![statuspage-11](https://images.ctfassets.net/alneenqid6w5/4GtphAcpvUEwKmhl7FuPiU/9900eb1dd6b9086a6c6049855dbc17c9/statuspage-11.png)

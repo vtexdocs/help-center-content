@@ -29,7 +29,7 @@ Após a configuração no Google, é preciso configurar o login na VTEX.
 1.  No módulo de **Configurações da Conta**, acesse a aba de **Autenticações**.
 2.  Clique no botão **Editar** correspondente ao Google.
 3.  Preencha os campos com o _Client Id_ e o _Client Secret_ cadastrados no **Google**.
-    ![Google OAuth](//images.ctfassets.net/alneenqid6w5/67wXwVN1RaDZ5oOy6XrTSe/a508065cf5028f3a806edad050a0f6e6/google_PT.png)
+    ![Google OAuth](https://images.ctfassets.net/alneenqid6w5/67wXwVN1RaDZ5oOy6XrTSe/a508065cf5028f3a806edad050a0f6e6/google_PT.png)
 4.  Clique no botão **Salvar**.
 5.  Para validar se o login foi feito corretamente, acesse o front-end da sua loja e clique em **Login**.
 6. Aparecerão as opções de login configuradas. Clique na opção **Google** e veja se o nome da sua loja é exibido.

@@ -31,7 +31,7 @@ Basta ter um código de rastreio válido em qualquer pedido. Nos dias seguintes,
 
 É possível enviar atualizações de rastreio via API, mantendo o comportamento do envio de e-mails. O mesmo para a confirmação de entrega, que também pode ser feita pela interface do OMS.
 
-![2017-08-16 195850](//images.contentful.com/alneenqid6w5/1IPsGBnkKYggY8m6smeqOA/a2a95afc6fb34e7bfe89c1cab2fdb612/2017-08-16_195850.jpg)
+![2017-08-16 195850](https://images.contentful.com/alneenqid6w5/1IPsGBnkKYggY8m6smeqOA/a2a95afc6fb34e7bfe89c1cab2fdb612/2017-08-16_195850.jpg)
 
 A confirmação de entrega feita via OMS também é repassada aos marketplaces.
 

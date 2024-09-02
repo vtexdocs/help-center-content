@@ -38,7 +38,7 @@ También es posible que este _seller_ principal venda sus productos en un _marke
 
 Cuando esto ocurre, tenemos una arquitectura de tres niveles entre el _marketplace_, el _seller_ principal y sus _sellers white label_, como se ilustra en la imagen de abajo.
 
-![Arquitetura Multilevel omichannel inventory](//images.ctfassets.net/alneenqid6w5/7k6hYv3kWxBVZrPFkUbsCK/abf2341444442ee6ef770afdfd044a06/Screen_Shot_2022-09-30_at_18.57.26.png)
+![Arquitetura Multilevel omichannel inventory](https://images.ctfassets.net/alneenqid6w5/7k6hYv3kWxBVZrPFkUbsCK/abf2341444442ee6ef770afdfd044a06/Screen_Shot_2022-09-30_at_18.57.26.png)
 
 De forma predeterminada, los productos de las tiendas físicas, o _sellers white label_ (nivel 3 en la imagen), no están disponibles para ser vendidos por el _marketplace_ de nivel 1, pero con la funcionalidad _Multilevel Omnichannel Inventory_ puedes disponibilizarlos.
 

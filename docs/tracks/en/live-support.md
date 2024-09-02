@@ -27,12 +27,12 @@ Follow the steps below to configure your store live support business hours.
 # General settings
 
 1. Set whether you want to enable human support in your store.
- ![Live Support en](//images.ctfassets.net/alneenqid6w5/LUYDZvr1wopIGPIxieLPh/aeabaad112b555b4b8275ef7e682bf49/general_settings.png)
+ ![Live Support en](https://images.ctfassets.net/alneenqid6w5/LUYDZvr1wopIGPIxieLPh/aeabaad112b555b4b8275ef7e682bf49/general_settings.png)
 
 If you choose not to provide it, you need to define an unavailability message indicating the best service channel for your customer.
- ![Mensagem de indisponibilidade](//images.ctfassets.net/alneenqid6w5/16iLFjlXSqrrAW34s8PIXn/029fcd7b9d0eb4f7dfe59fbb2abebcbb/unaviability.png)
+ ![Mensagem de indisponibilidade](https://images.ctfassets.net/alneenqid6w5/16iLFjlXSqrrAW34s8PIXn/029fcd7b9d0eb4f7dfe59fbb2abebcbb/unaviability.png)
 2. Set the time zone for your live support service.
-![fuso horário en](//images.ctfassets.net/alneenqid6w5/6cJ4PNNKSc4LQl7MHuBLNA/867851568c68409ae8242293cb30bdd6/horarios_de_funcionamento_en.png)
+![fuso horário en](https://images.ctfassets.net/alneenqid6w5/6cJ4PNNKSc4LQl7MHuBLNA/867851568c68409ae8242293cb30bdd6/horarios_de_funcionamento_en.png)
 3. Select the days and set the business hours of your live support. You can specify more than one window per weekday.
 
 <div class="alert alert-info">

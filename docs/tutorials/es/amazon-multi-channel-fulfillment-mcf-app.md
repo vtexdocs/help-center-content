@@ -110,7 +110,7 @@ Para instalar la aplicación, accede a VTEX App Store:
 Las configuraciones realizadas en el campo Automatic Invoice se aplicarán a todos los pedidos.
 </div>
 
-![MCF](//images.ctfassets.net/alneenqid6w5/1fPmofbBRr6kge5qzfHvXV/604c465dd3344b9cc04b722d03cb5005/Amazon_MCF_EN.PNG)
+![MCF](https://images.ctfassets.net/alneenqid6w5/1fPmofbBRr6kge5qzfHvXV/604c465dd3344b9cc04b722d03cb5005/Amazon_MCF_EN.PNG)
 
 ### Integración del catálogo
 

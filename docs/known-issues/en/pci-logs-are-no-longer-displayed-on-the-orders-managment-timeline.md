@@ -25,7 +25,7 @@ In the timeline, found in the order details (Orders Managment), the PCI informat
 
 - Select an old order (for instance, from June 2017).
 
-![pedido com log pci](//images.contentful.com/alneenqid6w5/1OflzCTMYcQwkgcWUCkwIC/6a4dc455400128870cd4790fa3ff3372/com_log.PNG)
+![pedido com log pci](https://images.contentful.com/alneenqid6w5/1OflzCTMYcQwkgcWUCkwIC/6a4dc455400128870cd4790fa3ff3372/com_log.PNG)
 
 - Compare it to a current order.
 - See that the information on Anti-Fraud, for exmaple - which comes from the PCI module -, will not be displayed.

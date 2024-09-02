@@ -21,7 +21,7 @@ En la página Multimedia puedes gestionar los archivos multimedia de tu tienda, 
 Para cargar, los archivos deben tener una extensión en minúsculas, por ejemplo, <code>store.png</code>, y el límite de tamaño de archivo para cargar en Multimedia es de <b>5 MB</b>.
 </div>
 
-![Multimedia Visión general](//images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/4b7fca26bb4f3b1f72d3a6fff9eca887/es-multimedia-overview.png)
+![Multimedia Visión general](https://images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/4b7fca26bb4f3b1f72d3a6fff9eca887/es-multimedia-overview.png)
 
 demás, Multimedia está integrada con **Site Editor** y **Headless CMS**. Esta integración te permite acceder y gestionar archivos multimedia directamente a través de las soluciones de CMS de VTEX.
 
@@ -45,7 +45,7 @@ Ten en cuenta que la sección debe utilizar la <a href="https://developers.vtex.
 
 En la siguiente imagen se muestra una visión general de la interfaz de Multimedia y las acciones disponibles para gestionar tus archivos multimedia:
 
-![Multimedia Features](//images.ctfassets.net/alneenqid6w5/2teyzkUy2zP5vjMLPxlXgD/db95f45451326e0664992cefa1cd8a6f/es-multimedia-features.png)
+![Multimedia Features](https://images.ctfassets.net/alneenqid6w5/2teyzkUy2zP5vjMLPxlXgD/db95f45451326e0664992cefa1cd8a6f/es-multimedia-features.png)
 
 | Campo | Descripción |
 | ---------- | ------------- |

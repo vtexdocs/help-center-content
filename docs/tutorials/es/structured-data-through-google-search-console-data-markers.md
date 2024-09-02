@@ -65,13 +65,13 @@ Con ese tipo de información, el usuario indicará a Google información sobre l
 - <en style="color: gray">Fecha de la re-contraseña:_
 
 **Paso 1**
-![](//images.contentful.com/alneenqid6w5/2auEIkvBGMO8gqWqgA4u8q/0c53485d350f622ae184852c88688f0c/marcadordedados_step1.gif)****
+![](https://images.contentful.com/alneenqid6w5/2auEIkvBGMO8gqWqgA4u8q/0c53485d350f622ae184852c88688f0c/marcadordedados_step1.gif)****
 
 **Paso 2**
-![](//images.contentful.com/alneenqid6w5/62T28aRiUM0cOwOmiOQ2UA/8584923dd2b3c1f9f9bc7a782caee223/marcadordedados_step2_url_type.gif)
+![](https://images.contentful.com/alneenqid6w5/62T28aRiUM0cOwOmiOQ2UA/8584923dd2b3c1f9f9bc7a782caee223/marcadordedados_step2_url_type.gif)
 
 **Paso 3**
-![](//images.contentful.com/alneenqid6w5/5YhbETD9mMMgsAeKGE2SMG/622bccd0df4e05462f7db9ae7bb05cf9/marcadordedados_step3_markup_business.gif)
+![](https://images.contentful.com/alneenqid6w5/5YhbETD9mMMgsAeKGE2SMG/622bccd0df4e05462f7db9ae7bb05cf9/marcadordedados_step3_markup_business.gif)
 
 ### Productos
 
@@ -90,10 +90,10 @@ Con este tipo de información el usuario indicará a Google información sobre l
 - <en style="color: gray">Fecha de la re-contraseña:_
 
 **Paso 1**
-![](//images.contentful.com/alneenqid6w5/5ARq4O3nna8gqGM8KasC4K/57999e6c592e985550758aaab1c15c06/marcadordedados_step2_url_type_product.gif)
+![](https://images.contentful.com/alneenqid6w5/5ARq4O3nna8gqGM8KasC4K/57999e6c592e985550758aaab1c15c06/marcadordedados_step2_url_type_product.gif)
 
 **Paso 2**
-![](//images.contentful.com/alneenqid6w5/1TNyUZzqLSOOO48gmCOQ26/d78f4f460a7d6caf864498db7f1ce2b2/marcadordedados_step3_markup_product.gif)
+![](https://images.contentful.com/alneenqid6w5/1TNyUZzqLSOOO48gmCOQ26/d78f4f460a7d6caf864498db7f1ce2b2/marcadordedados_step3_markup_product.gif)
 
 **Paso 3**
 Recordando que el **Marcador de Datos** sólo identifica los datos para Google, para las demás herramientas de búsqueda será necesario estructurar los datos a través de tags insertadas en el código fuente.

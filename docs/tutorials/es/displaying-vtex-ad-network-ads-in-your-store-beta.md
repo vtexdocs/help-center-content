@@ -31,7 +31,7 @@ Por el momento, los retailers VTEX solo pueden disponibilizar inventario de anun
 
 En la pantalla de inicio de la aplicación [VTEX Ad Network para retailers](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#retailers), puedes dar seguimiento a los resultados de los anuncios en tu tienda.
 
-![vtex_ad_network_admin_ES](//images.ctfassets.net/alneenqid6w5/7nvJI9GTv53buxMMyvarRa/2bc7abac921ebb2cf334a5cdaf855e9a/vtex_ad_network_admin.png)
+![vtex_ad_network_admin_ES](https://images.ctfassets.net/alneenqid6w5/7nvJI9GTv53buxMMyvarRa/2bc7abac921ebb2cf334a5cdaf855e9a/vtex_ad_network_admin.png)
 
 En la parte superior se muestran los datos agregados:
 
@@ -62,7 +62,7 @@ También puedes utilizar los filtros disponibles en la parte superior de la tabl
 
 En la tabla de la pantalla principal de la aplicación [VTEX Ad Network para retailers](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#retailers) también puedes hacer clic en la fila de una campaña para ver detalles más específicos.
 
-![vtex_ad_network_details_ES](//images.ctfassets.net/alneenqid6w5/11oqzf225OjAxaN4gcGCme/f46649cbecca07932a31eaf0216ccb82/vtex_ad_network_details.png)
+![vtex_ad_network_details_ES](https://images.ctfassets.net/alneenqid6w5/11oqzf225OjAxaN4gcGCme/f46649cbecca07932a31eaf0216ccb82/vtex_ad_network_details.png)
 
 - **Vistas/Clics:** vistas y clics en anuncios.
 - **CTR:** tasa de clics, calculada dividiendo el número de clics entre el número de vistas.

@@ -35,7 +35,7 @@ Orders with <a href="https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8J
 
 The following image shows the flow of declining an order’s cancellation request outside the cancellation window:
 
-![cancel_api_improvements_help_center_EN](//images.ctfassets.net/alneenqid6w5/6qU0tP4gQxa2qh6JLjleoK/abdfe44471ce04c695bc0b1c50463afb/cancel_api_improvements_help_center_EN.png)
+![cancel_api_improvements_help_center_EN](https://images.ctfassets.net/alneenqid6w5/6qU0tP4gQxa2qh6JLjleoK/abdfe44471ce04c695bc0b1c50463afb/cancel_api_improvements_help_center_EN.png)
 
 The description of each step is the following:
 
@@ -71,11 +71,11 @@ To decline an order cancellation request via the VTEX Admin, follow the steps be
 2. Select the desired order to access the [Order Details page](https://help.vtex.com/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl).
 3. At the top of the page, click `Decline`.
 
-  ![deny_cancel_request_EN](//images.ctfassets.net/alneenqid6w5/3TpCmA2PEdtVb5ru8Ed2va/253a91677769d1b3617f6a8714fc3603/deny_cancel_request_EN.png)
+  ![deny_cancel_request_EN](https://images.ctfassets.net/alneenqid6w5/3TpCmA2PEdtVb5ru8Ed2va/253a91677769d1b3617f6a8714fc3603/deny_cancel_request_EN.png)
 
 4. Complete the **Cancellation Request** box with the reason why the cancel order request has been declined.
 
-  ![deny_cancel_request_reason_EN](//images.ctfassets.net/alneenqid6w5/5UUueX5kuj7OkBCHVhe0oL/022f068cefdd1e6588560d5bcba94ea3/deny_cancel_request_reason_EN.png)
+  ![deny_cancel_request_reason_EN](https://images.ctfassets.net/alneenqid6w5/5UUueX5kuj7OkBCHVhe0oL/022f068cefdd1e6588560d5bcba94ea3/deny_cancel_request_reason_EN.png)
 
   <div class="alert alert-warning">
 Keep in mind that the message written in this field can be displayed to the customer via <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>, or sent by the marketplace.

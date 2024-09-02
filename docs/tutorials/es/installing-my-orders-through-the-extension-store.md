@@ -19,7 +19,7 @@ Acompañando la evolución de la plataforma VTEX, la viewpart de __Mis Pedidos__
 
 Para hacer la instalación, es necesario acceder a la [VTEX App Store.](https://extensions.vtex.com/)
 
-![app store1 ES](//images.ctfassets.net/alneenqid6w5/2GobyKLKZGwMwUCEG4EK4M/f0c80ce9e43715e0c095ffba7bfe7c86/app_store1_ES.png)
+![app store1 ES](https://images.ctfassets.net/alneenqid6w5/2GobyKLKZGwMwUCEG4EK4M/f0c80ce9e43715e0c095ffba7bfe7c86/app_store1_ES.png)
 
 __Al instalar la aplicación, uested ya cuenta con las siguientes actualizaciones:__
 
@@ -29,7 +29,7 @@ __Al instalar la aplicación, uested ya cuenta con las siguientes actualizacione
 - Información de rastreo para varios items.
 - Corrección de pequeños errores.
 
-![app store2 ES](//images.ctfassets.net/alneenqid6w5/3lD83GV6Y0EAewCOmU2Gc2/c25bdcc4aa23d9389c673e3b9d288115/app_store2_ES.png)
+![app store2 ES](https://images.ctfassets.net/alneenqid6w5/3lD83GV6Y0EAewCOmU2Gc2/c25bdcc4aa23d9389c673e3b9d288115/app_store2_ES.png)
 
 Además, con la nueva aplicación usted puede realizar pruebas de versiones y actualizarla cada vez que una nueva versión esté disponible, recibiendo mejoras continuas y actualizaciones de nuevas features.
 
@@ -42,4 +42,4 @@ Para realizar las pruebas de personalización en su página, usted puede trabaja
 5. ¡Listo! Ahora usted ve, antes de subir su página, cómo se comportará.
 6. Para mover My Orders al ambiente en producción (donde sus clientes pueden usarlo), usted debe publicar la modificación. Para ello, simplemente haga clic en el botón __Publicar__.
 
-![app store3 ES](//images.ctfassets.net/alneenqid6w5/3TusFkUgZOEOEmGQguwSia/a58831055ce0618e0164685ff655cbd1/app_store3_ES.png)
+![app store3 ES](https://images.ctfassets.net/alneenqid6w5/3TusFkUgZOEOEmGQguwSia/a58831055ce0618e0164685ff655cbd1/app_store3_ES.png)

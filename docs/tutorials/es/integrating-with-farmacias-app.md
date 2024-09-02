@@ -35,7 +35,7 @@ _**Atención**: hay que llenar estos campos exactamente según lo descrito arrib
 
 El **perfil de acceso** será: IntegrationProfile-Fulfillment_Oms, IntegrationProfile-Fulfillment_Gateway
 
-![Farmacias1](//images.contentful.com/alneenqid6w5/2rkEOHXVIEk4q8WiOWCsSs/46449655d8c76e01903a29ec6ed5492d/Farmacias1.png)
+![Farmacias1](https://images.contentful.com/alneenqid6w5/2rkEOHXVIEk4q8WiOWCsSs/46449655d8c76e01903a29ec6ed5492d/Farmacias1.png)
 
 Finalmente, haga clic en el botón **Guardar**.
 
@@ -51,7 +51,7 @@ Después, será necesario:
 Finalmente, debe realizarse el registro del afiliado, que sirve como identificación única del marketplace en su tienda. Para hacerlo, siga los pasos a continuación:
 
 1. Acceda al módulo **Gestión de Pedidos**;
-2. Haga clic en el botón **Configuración**;![Farmacias2](//images.contentful.com/alneenqid6w5/7Mekt0KzpmaS4M4uoEu2kC/d0b13138a044072b6ba2c7c89808eacc/Farmacias2.png)
+2. Haga clic en el botón **Configuración**;![Farmacias2](https://images.contentful.com/alneenqid6w5/7Mekt0KzpmaS4M4uoEu2kC/d0b13138a044072b6ba2c7c89808eacc/Farmacias2.png)
 3. Haga clic en la pestaña **Afiliados**;
 4. Haga clic en el botón **Nuevo afiliado**;
 5. Llene los campos de la siguiente forma:
@@ -62,7 +62,7 @@ Finalmente, debe realizarse el registro del afiliado, que sirve como identificac
 **Email de follow up**: _email de la persona responsable de la integración_;
 **Endpoint de Search**: https://integrador.farmaciasapp.com.br/Vtex/api/notification
 
-![Farmacias3](//images.contentful.com/alneenqid6w5/6pnQjxLuhO8cUogU6oYoig/953a840b59416974f9a3baeff39d47cd/Farmacias3.png)
+![Farmacias3](https://images.contentful.com/alneenqid6w5/6pnQjxLuhO8cUogU6oYoig/953a840b59416974f9a3baeff39d47cd/Farmacias3.png)
 
 _Cuando se procesen los pagos a través del Farmácias App, la opción **Usar mi medio de pago** debe estar desmarcada. Marque esa opción sólo para pagos procesados en ambientes diferentes, como pagos procesados en la plataforma VTEX._
 

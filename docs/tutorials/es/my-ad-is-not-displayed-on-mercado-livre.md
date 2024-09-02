@@ -35,7 +35,7 @@ Para comprobar que la política comercial esté configurada correctamente en el 
 3. En la página de registro del producto, comprueba que la política comercial que se utiliza para Mercado Libre esté seleccionada.
 4. Si no lo está, marca la casilla de la política comercial.
 
-  ![politicas-comerciales-es](//images.ctfassets.net/alneenqid6w5/dRDUjjHbk3Ui0ZQEX7SYd/0840562553e4b05d584a9d0a0d453c4b/politicas-comerciales-es.png)
+  ![politicas-comerciales-es](https://images.ctfassets.net/alneenqid6w5/dRDUjjHbk3Ui0ZQEX7SYd/0840562553e4b05d584a9d0a0d453c4b/politicas-comerciales-es.png)
 
  5. Haz clic en el botón `Guardar`.
 
@@ -51,7 +51,7 @@ Para comprobar la configuración del stock mínimo, accede a Marketplace > Conex
 2. En la fila de la integración deseada, haz clic en `Editar`.
 3. En `Configuración`, comprueba que el campo Stock mínimo tenga un valor.
 
-  ![inventario-minimo-es](//images.ctfassets.net/alneenqid6w5/wy7Bz5Dcm2pt24HNVHYdZ/bb8666c71a6e0e52f4b6317e14f49ed7/inventario-minimo-es.png)
+  ![inventario-minimo-es](https://images.ctfassets.net/alneenqid6w5/wy7Bz5Dcm2pt24HNVHYdZ/bb8666c71a6e0e52f4b6317e14f49ed7/inventario-minimo-es.png)
 
  4. Asegúrate de que este campo esté configurado correctamente según se explica en el artículo [Control de stock mínimo para integraciones](https://help.vtex.com/es/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D).
 

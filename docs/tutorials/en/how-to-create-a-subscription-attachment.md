@@ -71,11 +71,11 @@ Follow the step-by-step instructions below to configure available frequencies an
 
         * **Weekly**: possible values for this field are `0`, `1`, `2`, `3`, `4`, `5`, and `6`, representing the days of the week. Consider `0` = Sunday, `1` = Monday, `2` = Tuesday, and so on until `6` = Saturday. Separate the values by `,`, as illustrated below.
 
-        ![EN Assinatura Exemplo Valores week](//images.ctfassets.net/alneenqid6w5/3pNwE8MSIe9GevIiLZxBOf/ecba3debced2525d6cd3ab3cbbdf4a5f/EN_Assinatura_Exemplo_Valores_week.png) 
+        ![EN Assinatura Exemplo Valores week](https://images.ctfassets.net/alneenqid6w5/3pNwE8MSIe9GevIiLZxBOf/ecba3debced2525d6cd3ab3cbbdf4a5f/EN_Assinatura_Exemplo_Valores_week.png) 
 
         * **Monthly**: possible values for filling in this field at checkout are = `1`, `2`, `3`, (...) until `28`, representing the days of the month. Consider `1` = the first day of the month, `2` = the second day of the month, and so on until `28` = the twenty-eighth day of the month. Separate the values by `,`, as illustrated below.
 
-        ![EN Assinatura Exemplo Valores month](//images.ctfassets.net/alneenqid6w5/15AueDNpKyx3yBVjP0q7tY/415def684e81619e96155a1fb390a4f4/EN_Assinatura_Exemplo_Valores_month.png)
+        ![EN Assinatura Exemplo Valores month](https://images.ctfassets.net/alneenqid6w5/15AueDNpKyx3yBVjP0q7tY/415def684e81619e96155a1fb390a4f4/EN_Assinatura_Exemplo_Valores_month.png)
 
 <div class="alert alert-info">
   <p>If the <strong>Permitted Values</strong> field is left blank, the date of the subscription cycle will be the same day of the week (if the frequency is weekly) or the same day of the month (if the frequency is monthly) as the original order.</p>

@@ -25,7 +25,7 @@ To understand __what__ to create the conditions for, see the article [Create Con
 
 UTM (Marketing tag) is an information that relates to the origin of the customer's traffic. Therefore, the app has a block that checks for this type of information. 
 
-![utm_source_english](//images.ctfassets.net/alneenqid6w5/1eC4fEARZG84MYiSmekSIm/5c784e46e4ab63487f183f7cd2060ea9/utm_source_english.png)
+![utm_source_english](https://images.ctfassets.net/alneenqid6w5/1eC4fEARZG84MYiSmekSIm/5c784e46e4ab63487f183f7cd2060ea9/utm_source_english.png)
 
 <div class="alert alert-warning"><strong>Note: </strong>
 It is possible that your store employs customizations and thereby the UTM information contained in the URL is not being passed on to our system. If you use JavaScript customization, read the article <a href="https://help.vtex.com/pt/faq/por-que-as-utms-nao-estao-sendo-aplicadas-ao-carrinho">Por que as utms não estão sendo aplicadas ao carrinho</a>
@@ -43,7 +43,7 @@ __utm_campaign__ informs in __which campaign__ your customer specifically clicke
 
 __utm_medium__ informs which __advertising channel__ , that can be E-mail or a Banner on a site, reached your customer. In the case of images, the block checks if the channel was *email*.  
 
-![utmenglish](//images.ctfassets.net/alneenqid6w5/4lFJ73jp9Cysoes6igUKO2/6e099fe8ff1600fc165ef4c1b008bdaa/utmenglish.png)
+![utmenglish](https://images.ctfassets.net/alneenqid6w5/4lFJ73jp9Cysoes6igUKO2/6e099fe8ff1600fc165ef4c1b008bdaa/utmenglish.png)
   
 For each one of these blocks, you can check to see if: 
 
@@ -88,7 +88,7 @@ This block analyzes the total value which exists in the cart.
 Let’s assume that your wanted to put a cheaper price on a shampoo if your customer would buy __exactly 3 units__, but apart from this would also buy __at least 150 reais__ worth of goods.
 The condition to be created will be: 
 
-![Exemplo2](//images.ctfassets.net/alneenqid6w5/11Z9LujUl66G80yGQyKI6S/fa33819d9e0ef37113466e3612d370d5/exemplo2.png)  
+![Exemplo2](https://images.ctfassets.net/alneenqid6w5/11Z9LujUl66G80yGQyKI6S/fa33819d9e0ef37113466e3612d370d5/exemplo2.png)  
 
 *quantity of this item in the cart is **exactly** 3 
 **and** 

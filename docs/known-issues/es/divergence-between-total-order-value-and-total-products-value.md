@@ -26,7 +26,7 @@ El pedido se cierra y se transacciona normalmente en VTEX. Pero dependiendo de l
 
 Ejemplo de ocurrencia:
 
-![image](//images.ctfassets.net/alneenqid6w5/4sJOKvC97OggkWYoCQaa6G/c6b38b60fc500436bb36a5ae6409094e/image.png)
+![image](https://images.ctfassets.net/alneenqid6w5/4sJOKvC97OggkWYoCQaa6G/c6b38b60fc500436bb36a5ae6409094e/image.png)
 
 En ese caso, el valor total del pedido cobrado del cliente quedó en `R$ 7,98`. Sin embargo, al sumar los valores de venta registrados en cada producto, el total sería de `R$ 7,95`.
 

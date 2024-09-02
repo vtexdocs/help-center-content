@@ -20,7 +20,7 @@ internalReference:
 
 Currently the delivery times for a scheduled delivery are out of order, or in descending order. For better readability, this information is expected to be organized in ascending order.
 
-![image](//images.ctfassets.net/alneenqid6w5/dpGWYjydIAiC2i4qEigsm/0334f47a61fa7dcc4defe1cde08d616b/image.png)
+![image](https://images.ctfassets.net/alneenqid6w5/dpGWYjydIAiC2i4qEigsm/0334f47a61fa7dcc4defe1cde08d616b/image.png)
 
 ## Simulation
 

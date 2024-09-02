@@ -26,7 +26,7 @@ Para acessar a página do Audit no Admin VTEX, acesse **Apps > Apps instalados >
   <p>Para visualizar os eventos do Audit, é necessário ter um <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">perfil de acesso</a> associado ao <a href="https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso</a> <em>Insights Metrics</em>.</p>
 </div>
 
-![audit-ui-pt 1](//images.ctfassets.net/alneenqid6w5/5IFUH95vspIgJVYg9CrWMW/42032a1aa1700f58ffaf92b1e00ecfd2/audit-ui-pt_1.png)
+![audit-ui-pt 1](https://images.ctfassets.net/alneenqid6w5/5IFUH95vspIgJVYg9CrWMW/42032a1aa1700f58ffaf92b1e00ecfd2/audit-ui-pt_1.png)
 
 ## Buscar eventos no Audit
 
@@ -52,7 +52,7 @@ Confira o passo a passo para buscar por um evento utilizando os filtros disponí
 
     Por exemplo, a busca correspondente à figura abaixo encontra resultados cujas ações são _Change Promotion Configuration_ ou _Change Coupon Configuration_ e cujo autor é `email@email.com`.
 
-    ![filtros-pt](//images.ctfassets.net/alneenqid6w5/LQkBnce7aFlx8T1zjXYdm/3f1ad9727d1f0eb54168e9e68895533b/filtros-pt.png)
+    ![filtros-pt](https://images.ctfassets.net/alneenqid6w5/LQkBnce7aFlx8T1zjXYdm/3f1ad9727d1f0eb54168e9e68895533b/filtros-pt.png)
 
 7. Clique no botão `Aplicar` para obter os eventos que foram encontrados.
 

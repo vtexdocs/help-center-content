@@ -86,10 +86,10 @@ Para modificar as configurações de verificação em duas etapas:
 
 1. Acesse suas configurações de usuário, clicando no círculo com suas iniciais no canto superior-direito do Admin.
 
-  ![2FA - User Initials - PT](//images.ctfassets.net/alneenqid6w5/3ktWD1KvDLV499l40SxUc2/09b0b09ce0766a877961adaeadb3d273/2FA_-_User_Initials_-_PT.png)
+  ![2FA - User Initials - PT](https://images.ctfassets.net/alneenqid6w5/3ktWD1KvDLV499l40SxUc2/09b0b09ce0766a877961adaeadb3d273/2FA_-_User_Initials_-_PT.png)
 
 2. Clique em **Verificação em 2 passos** para visualizar suas configurações.
 
-  ![2FA - My User - PT](//images.ctfassets.net/alneenqid6w5/O4jBeKN2RTMS0bKOWVJVK/f2f91e3154f9392fe1c96207101a627f/2FA_-_My_User_-_PT.png)
+  ![2FA - My User - PT](https://images.ctfassets.net/alneenqid6w5/O4jBeKN2RTMS0bKOWVJVK/f2f91e3154f9392fe1c96207101a627f/2FA_-_My_User_-_PT.png)
 
 3. Você poderá então alterar suas configurações seguindo passos similares aos apresentados nas seções acima para habilitar 2FA por [SMS](#habilitar-o-2fa-por-sms) e [aplicativo](#habilitar-o-2fa-por-aplicativo). 

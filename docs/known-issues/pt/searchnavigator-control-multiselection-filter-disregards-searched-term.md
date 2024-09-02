@@ -24,7 +24,7 @@ internalReference:
 
 Quando o usuário realiza uma busca por termo e, em seguida, aplica um filtro nas opções de multi seleção (no controle searchNavigator), o termo buscado inicialmente é removido da consulta, ou seja, o filtro ignora o termo e aplica a busca somente com as opções escolhidas pelo usuário.
 
-![search result](//images.contentful.com/alneenqid6w5/6BZ5Xh6OHe8WSWywOQCKGw/e814ecd5db35ff565151876dd8f826d5/search_result.gif)
+![search result](https://images.contentful.com/alneenqid6w5/6BZ5Xh6OHe8WSWywOQCKGw/e814ecd5db35ff565151876dd8f826d5/search_result.gif)
 
 ## Simulação
 

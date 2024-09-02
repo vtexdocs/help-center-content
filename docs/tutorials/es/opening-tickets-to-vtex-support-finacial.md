@@ -35,7 +35,7 @@ Una vez que se haya autenticado por el método elegido, usted accederá al panel
 
 Para abrir un ticket, simplemente haga clic en el botón __Enviar una solicitud__.
 
-![chamado financeiro1 ES](//images.ctfassets.net/alneenqid6w5/5yMKtmj6Hm4IiIuwmW0yiw/ae68f5d5b54c92aa65e57774501e6c26/chamado_financeiro1_ES.png)
+![chamado financeiro1 ES](https://images.ctfassets.net/alneenqid6w5/5yMKtmj6Hm4IiIuwmW0yiw/ae68f5d5b54c92aa65e57774501e6c26/chamado_financeiro1_ES.png)
 
 Usted será llevado al formulario de envío de ticket, donde debe llenar:
 - Su nombre.
@@ -45,7 +45,7 @@ Usted será llevado al formulario de envío de ticket, donde debe llenar:
 - El tema.
 - La descripción de la pregunta o del problema.
 
-![chamado financeiro2 ES](//images.ctfassets.net/alneenqid6w5/yV71aHHNYskkeWUWA8UIO/9be3291fa9596dd9ab9479093798a8d6/chamado_financeiro2_ES.png)
+![chamado financeiro2 ES](https://images.ctfassets.net/alneenqid6w5/yV71aHHNYskkeWUWA8UIO/9be3291fa9596dd9ab9479093798a8d6/chamado_financeiro2_ES.png)
 
 Usted también puede incluir adjuntos, como capturas de pantallas o gifs animados que ayuden a describir el contexto de su solicitud.
 
@@ -85,7 +85,7 @@ Al hacer clic en __Mis solicitudes__, usted verá el historial de tickets abiert
 
 Si hace clic en __Todas las solicitudes__, puede ver el historial de tickets abiertos por cualquier empleado de su tienda.
 
-![chamado financeiro3 ES](//images.ctfassets.net/alneenqid6w5/319yZLbjOgCeKiUU6kEakE/93c02c46b8b85358eb2942243f8f3ba1/chamado_financeiro3_ES.png)
+![chamado financeiro3 ES](https://images.ctfassets.net/alneenqid6w5/319yZLbjOgCeKiUU6kEakE/93c02c46b8b85358eb2942243f8f3ba1/chamado_financeiro3_ES.png)
 
 ## Los status de los tickets
 
@@ -100,4 +100,4 @@ Después, el ticket pasa por los status `Esperando respuesta`, `Resuelto` y `Cer
 
 En su panel de soporte, usted puede filtrar la búsqueda de tickets por status. Para ello, simplemente utilice la casilla de verificación debajo del botón de envío de solicitud.
 
-![chamado financeiro4 ES](//images.ctfassets.net/alneenqid6w5/2gyz4xXSessueWkkoUwwQG/fa8bbe2215456264f86e80735a38ac50/chamado_financeiro4_ES.png)
+![chamado financeiro4 ES](https://images.ctfassets.net/alneenqid6w5/2gyz4xXSessueWkkoUwwQG/fa8bbe2215456264f86e80735a38ac50/chamado_financeiro4_ES.png)

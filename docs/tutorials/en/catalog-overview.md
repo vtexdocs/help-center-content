@@ -15,7 +15,7 @@ legacySlug: catalog-overview
 subcategory: 
 ---
 
-![Catalog overview (header)](//images.ctfassets.net/alneenqid6w5/1OkPBtIH7KNPWFpCYVv89Y/ecec695214ce50acf65453efb6668247/image1.jpg)
+![Catalog overview (header)](https://images.ctfassets.net/alneenqid6w5/1OkPBtIH7KNPWFpCYVv89Y/ecec695214ce50acf65453efb6668247/image1.jpg)
 Catalog is your store's administration module for configuring the features related to your ecommerce products. To make products available for customers on your website, you need to add them to this module. 
 
 In this article, you will find an overview of the catalog items and its features.
@@ -25,7 +25,7 @@ Category is the second categorization level of your store, under [Departments](h
 
 The **Categories** page allows you to view and manage your store's category trees, as illustrated below.
 
-![Catalog structure](//images.ctfassets.net/alneenqid6w5/6x2Nbxv5BvPZ9XW2Q4pTHa/1716c9232b7a09d5477021ac875fe690/image4.png)
+![Catalog structure](https://images.ctfassets.net/alneenqid6w5/6x2Nbxv5BvPZ9XW2Q4pTHa/1716c9232b7a09d5477021ac875fe690/image4.png)
 
 Learn how to add a category in the tutorial [Registering a category](https://help.vtex.com/en/tutorial/registering-a-category--tutorials_206). If you want to change or disable a category, follow the steps in the tutorial [Disabling and reorganizing categories](https://help.vtex.com/en/tutorial/disabling-and-reorganizing-categories--tutorials_264).
 

@@ -31,14 +31,14 @@ Below are examples of where to find the most common information to analyze the s
 
 In this event, we see that VTEX began the authorization process with the payment gateway and sent the response that the operation may begin:
 
-![transação-autorizando](//images.contentful.com/alneenqid6w5/2czvz4AZkECkCoC2CCmOME/92b9272bc3cf7302b3f51a69010591bf/transaccion-autorizada-aprobada.png)
+![transação-autorizando](https://images.contentful.com/alneenqid6w5/2czvz4AZkECkCoC2CCmOME/92b9272bc3cf7302b3f51a69010591bf/transaccion-autorizada-aprobada.png)
 
 
 ## Transaction authorized and approved
 
 After an authorization request, the gateway will authorize/pre-authorize the transaction in case of success in the flow. With its authorization, the transaction status will become _approved_ and the order flow will be able to continue:
 
-![transação-autorizada-aprovada](//images.contentful.com/alneenqid6w5/2czvz4AZkECkCoC2CCmOME/92b9272bc3cf7302b3f51a69010591bf/transaccion-autorizada-aprobada.png)
+![transação-autorizada-aprovada](https://images.contentful.com/alneenqid6w5/2czvz4AZkECkCoC2CCmOME/92b9272bc3cf7302b3f51a69010591bf/transaccion-autorizada-aprobada.png)
 
 If the authorization doesn't happen due to an issue from outside the flow, the details will be logged in the timeline, according to the information returned by the payment gateway.
 
@@ -46,7 +46,7 @@ If the authorization doesn't happen due to an issue from outside the flow, the d
 
 In the order flow, you can send the payment to an anti-fraud (directly integrated into VTEX) in order to have a risk analysis. Once you have requested an analysis, the order will have a status indicating the start of the analysis and the return of the anti-fraud, along with the result:
 
-![transação -antifraude](//images.contentful.com/alneenqid6w5/3MjNaFOEJyiumaUyO2owSa/84130c11335612c4d982c016cc160616/transaccion-antifraude.png)
+![transação -antifraude](https://images.contentful.com/alneenqid6w5/3MjNaFOEJyiumaUyO2owSa/84130c11335612c4d982c016cc160616/transaccion-antifraude.png)
 
 If the analysis doesn't happen due to an issue from outside the flow, the details will be logged in the timeline, according to the information returned by the payment gateway.
 
@@ -56,11 +56,11 @@ When the transaction pre-authorization mode is used, after having performed the 
 
 When the capture process is started, the _Settlement_ event is displayed, indicating that the capture was requested to the payment gateway:
 
-![transação-captura-solicitação](//images.contentful.com/alneenqid6w5/4ZnegfgNcA4MQsgMuQaAsE/478d66d4b763730762637cc75a1aaea4/transaccion-captura-solicitud.png)
+![transação-captura-solicitação](https://images.contentful.com/alneenqid6w5/4ZnegfgNcA4MQsgMuQaAsE/478d66d4b763730762637cc75a1aaea4/transaccion-captura-solicitud.png)
 
 While the capture has been started successfully, the _Settling_ event will be displayed. And at the end of the capture, the _Settled_ event will be displayed:
 
-![transação-captura-iniciada-capturada](//images.contentful.com/alneenqid6w5/2Z2fPSYG5WK0YqSCuWGAQi/42f03171a702ada307bd85b21614757f/transaccion-captura-iniciada-capturada.png)
+![transação-captura-iniciada-capturada](https://images.contentful.com/alneenqid6w5/2Z2fPSYG5WK0YqSCuWGAQi/42f03171a702ada307bd85b21614757f/transaccion-captura-iniciada-capturada.png)
 
 If the capture doesn't happen due to an issue from outside the flow, the details will be logged in the timeline, according to the information returned by the payment gateway.
 
@@ -68,7 +68,7 @@ If the capture doesn't happen due to an issue from outside the flow, the details
 
 Upon completion of the transaction, VTEX will indicate it as shown in the image below:
 
-![transação-concluida](//images.contentful.com/alneenqid6w5/68PjN2ChyMWqYQ4Owm8Yk6/0a440ea3cf6e5190b7b03e72d6a7e7e8/transaccion-finalizada.png)
+![transação-concluida](https://images.contentful.com/alneenqid6w5/68PjN2ChyMWqYQ4Owm8Yk6/0a440ea3cf6e5190b7b03e72d6a7e7e8/transaccion-finalizada.png)
 
 ## Transaction scheduled for automatic capture
 
@@ -76,4 +76,4 @@ Generally, affiliations allow you to set a capture date to force a capture and a
 
 Here you can see the automatic capture schedule date:
 
-![captura-auto-agendada pt](//images.ctfassets.net/alneenqid6w5/6rg3IZhX9eGegqeUUQCEgQ/cc229f8dc0916dced5e7288ea279abec/transa____o_programada_cap_auto_pt.png)
+![captura-auto-agendada pt](https://images.ctfassets.net/alneenqid6w5/6rg3IZhX9eGegqeUUQCEgQ/cc229f8dc0916dced5e7288ea279abec/transa____o_programada_cap_auto_pt.png)

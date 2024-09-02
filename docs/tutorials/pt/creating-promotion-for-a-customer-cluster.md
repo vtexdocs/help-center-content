@@ -62,9 +62,9 @@ Na configuração abaixo, por exemplo, apenas registros `funcionario` com o valo
 
 Dessa forma, você poderia configurar também `funcionario=false`, em que apenas registros `funcionario` com valor `false` no campo receberiam a promoção.
 
-![Campo funcionário Master Data PT](//images.ctfassets.net/alneenqid6w5/1GQftbj5FuIiQ4mUweacwa/06fd3f196a18b3d331742a01bb4ef2d6/Campo_funcion__rio_Master_Data_PT.png)
+![Campo funcionário Master Data PT](https://images.ctfassets.net/alneenqid6w5/1GQftbj5FuIiQ4mUweacwa/06fd3f196a18b3d331742a01bb4ef2d6/Campo_funcion__rio_Master_Data_PT.png)
 
-![Cluster de clientes PT](//images.ctfassets.net/alneenqid6w5/1IOHFLD9w840WEuceWMk4Q/c1d0536a53150d809b8c6c74b5a81b12/Cluster_de_clientes_PT.png)
+![Cluster de clientes PT](https://images.ctfassets.net/alneenqid6w5/1IOHFLD9w840WEuceWMk4Q/c1d0536a53150d809b8c6c74b5a81b12/Cluster_de_clientes_PT.png)
 
 Considerando um campo do tipo **[Varchar](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)**, poderíamos configurar `funcionario="sim"` para que apenas clientes com valor `"sim"` no campo recebessem a promoção.
 
@@ -82,8 +82,8 @@ A expressão `{nomedapropriedade} contains {valor}` deve ser utilizada quando a 
 
 Por exemplo, caso você queira criar um cluster apenas com clientes cujos emails contenham `@teste.com`, a configuração seria igual à representada na imagem abaixo.
 
-![Campo Email Master Data](//images.ctfassets.net/alneenqid6w5/5aeXd0Ro72P1GlzVeBiVVZ/4bfb1189f8f967ef9ed77e081291931b/Campo_Email_Master_Data.png)
+![Campo Email Master Data](https://images.ctfassets.net/alneenqid6w5/5aeXd0Ro72P1GlzVeBiVVZ/4bfb1189f8f967ef9ed77e081291931b/Campo_Email_Master_Data.png)
 
-![cluster email PT](//images.ctfassets.net/alneenqid6w5/5LKj1wrG3zL54lfh4R2MzQ/271cdcec5cdf081311215a57cfa2994c/cluster_email_PT.PNG)
+![cluster email PT](https://images.ctfassets.net/alneenqid6w5/5LKj1wrG3zL54lfh4R2MzQ/271cdcec5cdf081311215a57cfa2994c/cluster_email_PT.PNG)
 
 Nesse caso, `email contains test.com` será verdadeiro, por exemplo, quando o valor for `joao@test.com` e falso quando o valor for `joao@test.org`.

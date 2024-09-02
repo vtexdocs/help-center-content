@@ -20,4 +20,4 @@ Ou seja, o pagamento é realizado no marketplace pelas formas de pagamento do ma
 
 Exemplo: Uma compra realizada pelo marketplace CNova irá ser exibida em seu OMS com a seguinte mensagem em __Pagamento__: "Assumed value by affiliate CNova (NVP)", como na imagem abaixo.
 
-![exemplopagamento](//images.contentful.com/alneenqid6w5/54QIARxAYUM4igUYQEieSK/d9f8f1e9e95b8028cce7c6b1e7a89503/exemplopagamento.png)
+![exemplopagamento](https://images.contentful.com/alneenqid6w5/54QIARxAYUM4igUYQEieSK/d9f8f1e9e95b8028cce7c6b1e7a89503/exemplopagamento.png)

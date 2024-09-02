@@ -38,7 +38,7 @@ El **valor de fidelidad nominal** agrega un valor fijo como crédito a la cuenta
 
 En el ejemplo que se muestra a continuación, los clientes obtendrán un crédito de USD 10 en la tienda cuando el status del pedido cambie a **Facturado**.
 
-![vf-nominal-es](//images.ctfassets.net/alneenqid6w5/5i67rFawcAHCOpI84bBP2U/e281a28760551bfc2a2b2b270f61de9e/vf-nominal-es.png)
+![vf-nominal-es](https://images.ctfassets.net/alneenqid6w5/5i67rFawcAHCOpI84bBP2U/e281a28760551bfc2a2b2b270f61de9e/vf-nominal-es.png)
 
 ### Valor de fidelidad porcentual
 
@@ -49,7 +49,7 @@ El **valor de fidelidad porcentual** agrega un valor porcentual como crédito de
 
 En el ejemplo a continuación, los clientes obtendrán un crédito del 20 % del valor de la compra cuando el status del pedido cambie a **Pago aprobado**.
 
-![vf-percentual-es](//images.ctfassets.net/alneenqid6w5/4EIq0OwX5GI1FgdWk0JHje/68508961c6c3efc9495e79062c73a343/vf-percentual-es.png)
+![vf-percentual-es](https://images.ctfassets.net/alneenqid6w5/4EIq0OwX5GI1FgdWk0JHje/68508961c6c3efc9495e79062c73a343/vf-percentual-es.png)
 
 ## Configuración de las restricciones
 
@@ -91,11 +91,11 @@ En la sección **Ventas y marketing**, aparece el nombre de la promoción que se
 
 En la sección **Flujo del pedido**, puedes verificar el valor de fidelidad otorgado:
 
-![fluxo-oms-es](//images.ctfassets.net/alneenqid6w5/62q5OKyu3BqHmbd23HVyOc/b9c7949cb68192d24c61ff0b855c751e/fluxo-oms-es.png)
+![fluxo-oms-es](https://images.ctfassets.net/alneenqid6w5/62q5OKyu3BqHmbd23HVyOc/b9c7949cb68192d24c61ff0b855c751e/fluxo-oms-es.png)
 
 Si utilizas la nueva interfaz de [Detalles del pedido (Beta)](https://help.vtex.com/es/tutorial/pagina-de-detalles-del-pedido-beta--2Y75n54Cc9VizrlG1N6ZNl), accede a `Ver interacciones` para verificar el valor otorgado:
 
-![interacoes-neworders-es](//images.ctfassets.net/alneenqid6w5/7jjz0zNzeoZbOZ4PapQ836/c99a1b288b2d25931d695c19865731dd/interacoes-neworders-es.png)
+![interacoes-neworders-es](https://images.ctfassets.net/alneenqid6w5/7jjz0zNzeoZbOZ4PapQ836/c99a1b288b2d25931d695c19865731dd/interacoes-neworders-es.png)
 
 Ten en cuenta que la promoción aplicada en el pedido del ejemplo brinda un **valor de fidelidad porcentual** del **50 %**. Gracias a esto, el cliente obtuvo un crédito de `R$ 54,28` para las próximas compras en la tienda, lo cual equivale al **50 %** de `R$ 108,55`, que es el valor total del pedido.
 
@@ -103,13 +103,13 @@ Ten en cuenta que la promoción aplicada en el pedido del ejemplo brinda un **va
 
 Los clientes de tu tienda ven el valor de fidelidad disponible para usar en la etapa de **Pago** durante el _checkout_, tal como se muestra a continuación.
 
-![checkout-pt (1)](//images.ctfassets.net/alneenqid6w5/6TNM6G9j4f3vnD7JERO6TE/60bf6f957d722190baf2c3c3e9b8a302/checkout-pt__1_.png)
+![checkout-pt (1)](https://images.ctfassets.net/alneenqid6w5/6TNM6G9j4f3vnD7JERO6TE/60bf6f957d722190baf2c3c3e9b8a302/checkout-pt__1_.png)
 
 El valor otorgado se puede usar como parte de pago. Para hacerlo, el cliente debe hacer clic en `Utilizar crédito` e ingresar el valor que desea usar.
 
 El valor se descontará de la otra forma de pago seleccionada. En el ejemplo a continuación, la factura pasó a tener un valor de `R$ 113,50`, que corresponde a `R$ 167,80` menos el valor de fidelidad utilizado (`R$ 54,30`).
 
-![checkout-2-pt (1)](//images.ctfassets.net/alneenqid6w5/6pM4KJyCPRijRDFqLHNehz/26f4604ae74e66ebfc41040164d8c1e9/checkout-2-pt__1_.png)
+![checkout-2-pt (1)](https://images.ctfassets.net/alneenqid6w5/6pM4KJyCPRijRDFqLHNehz/26f4604ae74e66ebfc41040164d8c1e9/checkout-2-pt__1_.png)
 
 ## Más información
 

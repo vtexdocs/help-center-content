@@ -21,7 +21,7 @@ Ahora es posible crear Tablas de Precios de una manera más intuitiva, práctica
 
 Antes, para crear una tabla de precios era necesario ir hasta el filtro y digitar el nombre de la tabla que se crearía. Ahora, hemos añadido un nuevo campo Tablas de Precios que permite crear y seleccionar la tabla que desea visualizar y trabajar con los precios.
 
-![Annoucement Price Table ES.png?h=250](//images.ctfassets.net/alneenqid6w5/6ORyt5Phgwt65ORLPJbGtU/40e250956718b901dcea414b9e759294/Annoucement_Price_Table_ES.png_h_250)
+![Annoucement Price Table ES.png?h=250](https://images.ctfassets.net/alneenqid6w5/6ORyt5Phgwt65ORLPJbGtU/40e250956718b901dcea414b9e759294/Annoucement_Price_Table_ES.png_h_250)
 
 ## Ventajas
 

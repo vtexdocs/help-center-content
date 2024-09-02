@@ -19,7 +19,7 @@ Para marketplaces e sellers do nosso ecossistema, um dos maiores desafios é con
 
 O Marketplace Network foi redesenhado para melhorar sua experiência. Além disso, não é mais preciso baixar a app em nossa App Store, a funcionalidade foi inserida em todas as lojas que atuam como sellers ou marketplaces automaticamente.
 
-![Marketplace network tour](//images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/884c2b263f35ef7e8fbffee7cb23ba84/Marketplace_network_tour.gif)
+![Marketplace network tour](https://images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/884c2b263f35ef7e8fbffee7cb23ba84/Marketplace_network_tour.gif)
 
 ## O que mudou?
 As páginas do Marketplace Network passaram por algumas mudanças:

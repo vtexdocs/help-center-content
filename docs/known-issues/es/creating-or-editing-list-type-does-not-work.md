@@ -20,7 +20,7 @@ internalReference:
 
 En la pantalla de Tipos de lista, al hacer clic en "Ver detalles" o "Nuevo tipo de lista" no se puede crear / cambiar el tipo de lista.
 
-![Creación de tipo de lista](//images.contentful.com/alneenqid6w5/3dmnyQDRyMc8guqw8m8EOc/b6192d84ade5e8990990d170ac4614d2/1.png)
+![Creación de tipo de lista](https://images.contentful.com/alneenqid6w5/3dmnyQDRyMc8guqw8m8EOc/b6192d84ade5e8990990d170ac4614d2/1.png)
 
 ## Simulación
 

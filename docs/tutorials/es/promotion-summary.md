@@ -63,17 +63,17 @@ El resumen de la promoción puede mostrar tres tipos diferentes de alertas. Mira
 Las alertas de riesgo alto indican configuraciones o errores de registro importantes que deben ser revisados, ya que pueden comprometer el rendimiento de la promoción y, en consecuencia, el margen de la operación de la tienda.
 
 Ejemplo:
-![alert-alto-risco-ES](//images.ctfassets.net/alneenqid6w5/5RRucT5TJJKfoe39NsQvPx/380a8e538396c9210c5b741a8cc3bc38/image.png)
+![alert-alto-risco-ES](https://images.ctfassets.net/alneenqid6w5/5RRucT5TJJKfoe39NsQvPx/380a8e538396c9210c5b741a8cc3bc38/image.png)
 
 ### Riesgo medio
 Las alertas de riesgo medio muestran avisos de configuraciones que pueden causar efectos no deseados en la promoción.
 
 Ejemplo:
-![alert-medio-risco-ES](//images.ctfassets.net/alneenqid6w5/1vYDqk4ZK3X2jjfGBY0voq/7b21608671db91c4e1bc0a00f9ccfa31/image.png)
+![alert-medio-risco-ES](https://images.ctfassets.net/alneenqid6w5/1vYDqk4ZK3X2jjfGBY0voq/7b21608671db91c4e1bc0a00f9ccfa31/image.png)
 
 ### Riesgo bajo 
 Las alertas de riesgo bajo presentan información relevante sobre la configuración de la promoción, lo que puede contribuir a mejorar el rendimiento.
 
 Ejemplo:
-![alert-baixo-risco-ES](//images.ctfassets.net/alneenqid6w5/tvjluVBbsK78ozr29Fgfb/b5c1d499a549c2c56f84a4b286ce1a84/image.png)
+![alert-baixo-risco-ES](https://images.ctfassets.net/alneenqid6w5/tvjluVBbsK78ozr29Fgfb/b5c1d499a549c2c56f84a4b286ce1a84/image.png)
 

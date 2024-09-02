@@ -112,13 +112,13 @@ Se existir um empate entre sellers nos critérios de melhor custo ou prazo, o cr
 
 Um cliente adicionou ao carrinho cinco SKUs. Dentre os sellers que entregam na sua região, os sellers A, B, C e D, cada um possui no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) apenas parte dos itens, conforme a imagem a seguir:
 
-![print_selecao_seller_white_label_1](//images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/4fdb2ed25e8d3d52eef96e5c0e2fd908/print_selecao_seller_white_label_1.png)
+![print_selecao_seller_white_label_1](https://images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/4fdb2ed25e8d3d52eef96e5c0e2fd908/print_selecao_seller_white_label_1.png)
 
 A plataforma VTEX seleciona o seller que tem disponível no estoque a quantidade máxima de SKUs do carrinho. Neste caso, trata-se do Seller B, o único que entrega três SKUs. 
 
 Depois que o Seller B é selecionado, existem ainda dois SKUs não entregues. Se um único seller enviasse ambos, esse seria o fator decisivo da seleção, pois o objetivo é reunir o menor número de sellers para atender o carrinho. No entanto, são necessários os sellers A e C para entregar os SKUs 1 e 4, conforme imagem a seguir:
 
-![print_selecao_seller_white_label_2](//images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/3f7b71abf734ae7c55d8b40d3a76f3c0/print_selecao_seller_white_label_2.png)
+![print_selecao_seller_white_label_2](https://images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/3f7b71abf734ae7c55d8b40d3a76f3c0/print_selecao_seller_white_label_2.png)
 
 Na primeira imagem, o Seller C era capaz de entregar os SKUs 3 e 4, e o Seller D entregava o SKU 5. No entanto, o Seller B foi selecionado para entregar esses itens, de forma que os SKUs são desconsiderados nas outras etapas de seleção. Isso foi representado com a remoção da seta do Seller C para o SKU 3 e do Seller D para o SKU 5.
 
@@ -128,7 +128,7 @@ O resultado da seleção para entrega é uma combinação dos sellers A, B e C.
 
 Um cliente adicionou cinco SKUs ao carrinho e existem quatro sellers que entregam na sua região, os sellers A, B, C e D. Nenhum deles tem no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) todos os itens, conforme imagem a seguir:
 
-![print_selecao_seller_white_label_3](//images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/26cd86b37e5e47ada6f15cc08acfbfbc/print_selecao_seller_white_label_3.png)
+![print_selecao_seller_white_label_3](https://images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/26cd86b37e5e47ada6f15cc08acfbfbc/print_selecao_seller_white_label_3.png)
 
 A plataforma VTEX seleciona o seller que tem disponível no estoque o maior número de SKUs do carrinho. Tanto o Seller B quanto o D são capazes de entregar três itens, e como ambos entregam o SKU 3, existe uma concorrência.
 
@@ -141,11 +141,11 @@ Digamos que o Seller B tenha a entrega mais barata e que o Seller D tenha a mais
 
 - **Entrega mais rápida:** quando o Seller D é selecionado, restam como não entregues os SKUs 3 e 4. O Seller C consegue entregar ambos, sendo o escolhido, e o resultado da seleção é a combinação dos seller D e C.
 
-![print_selecao_seller_white_label_4](//images.ctfassets.net/alneenqid6w5/5OVQXuRwsEWGUxy3hocfOF/4751f13e35a8187655c04b11c67f6079/print_selecao_seller_white_label_4.png)
+![print_selecao_seller_white_label_4](https://images.ctfassets.net/alneenqid6w5/5OVQXuRwsEWGUxy3hocfOF/4751f13e35a8187655c04b11c67f6079/print_selecao_seller_white_label_4.png)
 
 - **Entrega mais barata:** quando o Seller B é selecionado, restam como não entregues os SKUs 1 e 4. Como somente o Seller A entrega o SKU 1, e somente o Seller C entrega o SKU 4, o resultado da seleção é uma combinação dos sellers A, B e C. 
 
-![print_selecao_seller_white_label_5](//images.ctfassets.net/alneenqid6w5/2zLEDj7yHw54HufNUeC8OT/d69cee9bb79c876adb571e98ccd0060c/print_selecao_seller_white_label_5.png)
+![print_selecao_seller_white_label_5](https://images.ctfassets.net/alneenqid6w5/2zLEDj7yHw54HufNUeC8OT/d69cee9bb79c876adb571e98ccd0060c/print_selecao_seller_white_label_5.png)
 
 Nas imagens para entrega mais barata e mais rápida, foram retiradas as setas repetidas de sellers que entregavam SKUs já cobertos pelos sellers B e D. O motivo é que, nas sucessivas etapas de seleção, SKUs cobertos são desconsiderados.
 

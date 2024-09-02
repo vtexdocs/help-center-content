@@ -32,20 +32,20 @@ La página de inicio presenta la lista de promociones en una malla que permite v
 - Duplicar o archivar promociones a través del botón <i class="fas fa-ellipsis-v"></i>
 - Gestionar las condiciones de la promoción haciendo clic en cualquier lugar de la línea de la malla (consulte la sección [Nueva promoción](#nueva-promocion) para obtener detalles sobre las condiciones de la promoción).
 
-![promobeta1 acoes lista promocoes ES](//images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/b8b32c9c2d6f39763ade1630fc34023f/promobeta1_acoes_lista_promocoes_ES.gif)
+![promobeta1 acoes lista promocoes ES](https://images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/b8b32c9c2d6f39763ade1630fc34023f/promobeta1_acoes_lista_promocoes_ES.gif)
 
 La lista de promociones se puede filtrar y ordenar según sus necesidades. Es posible filtrar por *Efecto*, *Estado*, *Fecha de inicio*, *Fecha de caducidad* o *Política comercial*.
 
-![promobeta2 filtros lista promocoes ES](//images.ctfassets.net/alneenqid6w5/4UBGUJC4RTEA9alSeHmJlh/28326256cde9d433ece9b634ceab8205/promobeta2_filtros_lista_promocoes_ES.gif)
+![promobeta2 filtros lista promocoes ES](https://images.ctfassets.net/alneenqid6w5/4UBGUJC4RTEA9alSeHmJlh/28326256cde9d433ece9b634ceab8205/promobeta2_filtros_lista_promocoes_ES.gif)
 
 El orden puede ser ascendente o descendente a partir de la información básica de la promoción, simplemente haciendo clic en el título.
 
-![promobeta3 ordenacao lista promocoes ES](//images.ctfassets.net/alneenqid6w5/60Z7afuYC3PqwTEPCVLVYd/5660b538ad60cc95faa676c4aa724d76/promobeta3_ordenacao_lista_promocoes_ES.gif)
+![promobeta3 ordenacao lista promocoes ES](https://images.ctfassets.net/alneenqid6w5/60Z7afuYC3PqwTEPCVLVYd/5660b538ad60cc95faa676c4aa724d76/promobeta3_ordenacao_lista_promocoes_ES.gif)
 
 ## Nueva promoción
 Las variedades de condiciones para crear promociones se traducen en campos presentes en la pantalla de __Nueva Promoción__. La creación de una promoción que se ajuste a los estándares deseados se realiza de forma sencilla, rellenando los campos en una única pantalla a la que se accede a través del botón __NUEVA PROMOCIÓN__ de la página de inicio.
 
-![promobeta4 botao novapromocao ES](//images.ctfassets.net/alneenqid6w5/4Zp0NocPVWeIW44Ky8pWqo/cf5363e79041f050f0b164735e8244cd/promobeta4_botao_novapromocao_ES.png)
+![promobeta4 botao novapromocao ES](https://images.ctfassets.net/alneenqid6w5/4Zp0NocPVWeIW44Ky8pWqo/cf5363e79041f050f0b164735e8244cd/promobeta4_botao_novapromocao_ES.png)
 
 Tanto las condiciones de la nueva promoción como los campos de la pantalla están separados por grupos, que son:
 

@@ -23,7 +23,7 @@ O alerta de estoque crítico é uma funcionalidade de logística que tem o objet
 2. Preencha o campo de **Alerta de estoque crítico** com a quantidade de itens ou porcentagem de estoque desejada.
 3. Clique em **Salvar**.
 
-![alerta-estoque-critico pt](//images.ctfassets.net/alneenqid6w5/4NNqAy9PJ6wUQsywOyE0UK/b033e0752c942adfbe5bab4e616acb63/alerta-estoque-critico_pt.png)
+![alerta-estoque-critico pt](https://images.ctfassets.net/alneenqid6w5/4NNqAy9PJ6wUQsywOyE0UK/b033e0752c942adfbe5bab4e616acb63/alerta-estoque-critico_pt.png)
 
 ## Como funciona o Alerta
 

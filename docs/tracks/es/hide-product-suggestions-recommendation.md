@@ -16,7 +16,7 @@ trackSlugES: instore-setup
 
 De forma predeterminada, inStore incluye una lista de productos sugeridos en el carrito y en la página de producto.
 
-![inStore recommendation](//images.ctfassets.net/alneenqid6w5/5hN8l2xFTGMU4Gw8YGq0E8/dc9f7e8e4f02db0ae31dd50b08cacd31/inStore_recommendation.png)
+![inStore recommendation](https://images.ctfassets.net/alneenqid6w5/5hN8l2xFTGMU4Gw8YGq0E8/dc9f7e8e4f02db0ae31dd50b08cacd31/inStore_recommendation.png)
 
 Si desea ocultar las recomendaciones, es necesario editar los archivos `checkout-instore-custom.css` y `checkout-instore-custom.js` presentes en el administrador del Portal. Por tratarse de archivos utilizados en diversos flujos de uso de la aplicación, es importante que usted tenga conocimientos de programación antes de cambiarlos, para evitar la ruptura de otras funcionalidades.
 

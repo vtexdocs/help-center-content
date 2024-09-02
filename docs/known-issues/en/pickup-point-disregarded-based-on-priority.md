@@ -36,7 +36,7 @@ To simulate the described scenario, at least two shipping policies serving the s
 4. See which pickup point has been selected;
 5. Check which pickup points were disregarded and note the message displayed.
 
-![KIpontoderetirada EN](//images.ctfassets.net/alneenqid6w5/6TLSPTSA7E5EG2sevnDYXf/097a4d4b13f79150adf8f2eda2e7a888/KIpontoderetirada_EN.png)
+![KIpontoderetirada EN](https://images.ctfassets.net/alneenqid6w5/6TLSPTSA7E5EG2sevnDYXf/097a4d4b13f79150adf8f2eda2e7a888/KIpontoderetirada_EN.png)
 
 The pickup point was disregarded because there was another shipping method already named as **SCS Mall**.
 

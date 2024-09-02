@@ -25,7 +25,7 @@ __The three stages of logistics are represented by the following structure:__
 
 __They can be illustrated by this flow:__
 
-![EN Conceitos Logistics](//images.ctfassets.net/alneenqid6w5/3xi4LHhJAElMNsp88xJ3A4/614cb763d596936df13033e89067f7f4/EN_Conceitos_Logistics.png)
+![EN Conceitos Logistics](https://images.ctfassets.net/alneenqid6w5/3xi4LHhJAElMNsp88xJ3A4/614cb763d596936df13033e89067f7f4/EN_Conceitos_Logistics.png)
 
 ## Warehouse
 It's the physical space used to store the goods of an e-commerce, functioning as the repository of the items of your store.

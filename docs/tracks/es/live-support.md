@@ -29,12 +29,12 @@ Para configurar los horarios en los que el servicio estará disponible, sigue lo
 
 1. Define si quieres activar el Servicio al cliente humano en tu tienda.
 
-![Live Support es](//images.ctfassets.net/alneenqid6w5/LUYDZvr1wopIGPIxieLPh/3b266be75366e3db076799ba968028ca/configuracion_general.png)
+![Live Support es](https://images.ctfassets.net/alneenqid6w5/LUYDZvr1wopIGPIxieLPh/3b266be75366e3db076799ba968028ca/configuracion_general.png)
 Si eliges no utilizarlo, debes incluir un mensaje de indisponibilidad que indique el canal de atención al cliente.
-![Mensagem de indisponibilidade](//images.ctfassets.net/alneenqid6w5/16iLFjlXSqrrAW34s8PIXn/cd07b2d6e44515253f2d9b7a722c5a98/indisponibilidad.png)
+![Mensagem de indisponibilidade](https://images.ctfassets.net/alneenqid6w5/16iLFjlXSqrrAW34s8PIXn/cd07b2d6e44515253f2d9b7a722c5a98/indisponibilidad.png)
 2. Define la zona horaria. 
 3. Selecciona los días y establece el horario en el que tu tienda estará disponible para atender a los clientes vía WhatsApp. Es posible definir más de un período de servicio por día de la semana.
-![fuso horário es](//images.ctfassets.net/alneenqid6w5/6cJ4PNNKSc4LQl7MHuBLNA/ee9b18b394f724ea9b8c6e31eb79fcb0/horarios_funcionamento_es.png)
+![fuso horário es](https://images.ctfassets.net/alneenqid6w5/6cJ4PNNKSc4LQl7MHuBLNA/ee9b18b394f724ea9b8c6e31eb79fcb0/horarios_funcionamento_es.png)
 <div class="alert alert-info">
 Para los feriados nacionales, regionales u otras fechas en las que no vayas a prestar servicio: informa la fecha y hora en que el servicio no estará disponible. Si los periodos se repiten anualmente, es posible seleccionar “Recurrencia anual”, predefiniendo la configuración de los periodos seleccionados.
 </div>

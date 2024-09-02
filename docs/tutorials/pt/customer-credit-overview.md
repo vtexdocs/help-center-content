@@ -40,7 +40,7 @@ Quando instalado, o Customer Credit aparece como uma opção de pagamento no Che
 
 Veja abaixo o fluxo básico de funcionamento do Customer Credit nas lojas VTEX:
 
-![GIF_CC_PT](//images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/4aa3ae0434d69c91f827675128a5ae13/GIF_CC_PT.gif)
+![GIF_CC_PT](https://images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/4aa3ae0434d69c91f827675128a5ae13/GIF_CC_PT.gif)
 
 ## Definições no Customer Credit
 

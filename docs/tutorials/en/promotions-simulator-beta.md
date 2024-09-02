@@ -35,7 +35,7 @@ The **Promotion Simulator** is available for all VTEX stores through [Cartman](h
 
    In the new window, you will find a list of the products in your cart and all the promotions that have been applied and are applicable to each item.
 
-![Simulator-promo-en-gif-1](//images.ctfassets.net/alneenqid6w5/66PaJF2TBi2T1VBEFPlLuz/c05b0c30d34a029e4bff69dff70de0d5/simulador-promo-en-230706.gif)
+![Simulator-promo-en-gif-1](https://images.ctfassets.net/alneenqid6w5/66PaJF2TBi2T1VBEFPlLuz/c05b0c30d34a029e4bff69dff70de0d5/simulador-promo-en-230706.gif)
 
 The **Promotion Simulator** interface displays the following information:
 
@@ -79,7 +79,7 @@ To edit a promotion, follow the steps below:
 
 The **Promotion Simulator** allows you to test the application of another promotion or simulate the effects of deactivating applied promotions. To do this, click the `Select Promotions` button at the top right of the page, as shown in the image below.
 
-![ui-Simulator-promo-en-gif-2](//images.ctfassets.net/alneenqid6w5/4CkGZCw0142IDUwH8VVf7A/31e593dbdb4fed07df101576ecc63f20/ui-simulador-promo-en-230706.gif)
+![ui-Simulator-promo-en-gif-2](https://images.ctfassets.net/alneenqid6w5/4CkGZCw0142IDUwH8VVf7A/31e593dbdb4fed07df101576ecc63f20/ui-simulador-promo-en-230706.gif)
 
 To run a simulation, follow the instructions below:
 

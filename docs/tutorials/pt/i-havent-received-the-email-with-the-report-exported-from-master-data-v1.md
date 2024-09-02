@@ -29,7 +29,7 @@ Você pode acessar o relatório no Master Data seguindo o passo a passo abaixo:
 4. Em **Status das exportações**, identifique a linha do relatório que deseja acessar.
 5. Se o **Status** for **Finalizado - Baixar**, clique em `Baixar` para fazer o download do arquivo.
 
-    ![download-report-pt](//images.ctfassets.net/alneenqid6w5/5fL8dTuacGUYYFfhwx8eSh/4bc2ebaf956d849d28b0d2123020bcc9/download-report-pt.png)
+    ![download-report-pt](https://images.ctfassets.net/alneenqid6w5/5fL8dTuacGUYYFfhwx8eSh/4bc2ebaf956d849d28b0d2123020bcc9/download-report-pt.png)
 
     Se o **Status** for **Em execução**, aguarde a conclusão da exportação e repita o passo a passo.
 

@@ -29,7 +29,7 @@ Para acessar a funcionalidade Produtos Compartilhados, clique em *Preços > Cat�
 
 ## Importados
 
-![Shared products Importados PT](//images.ctfassets.net/alneenqid6w5/2mmTwK1Kn3g8TPOICMMMk8/e7b820dcb3cbbcc3031f58ec3e6dde20/Shared_products_Importados_PT.jpg)
+![Shared products Importados PT](https://images.ctfassets.net/alneenqid6w5/2mmTwK1Kn3g8TPOICMMMk8/e7b820dcb3cbbcc3031f58ec3e6dde20/Shared_products_Importados_PT.jpg)
 
 A aba *Importados* reúne produtos do catálogo do marketplace que já foram importados pelo seller, ou seja, que já podem virar anúncios. A lista contém uma barra de busca, para pesquisar produtos por nome ou SKU. É por meio dessa aba, que produtos são ativados.  
 
@@ -39,7 +39,7 @@ Ao clicar em um produto da listagem, você acessa a página de [Detalhes do prod
 
 ## Disponíveis 
 
-![Shared products Disponíveis PT](//images.ctfassets.net/alneenqid6w5/1MIr5t82Ncx9ssV5oT2eyw/ad06a23c6ec0486964a8465290e215b3/Shared_products_Dispon__veis_PT.jpg)
+![Shared products Disponíveis PT](https://images.ctfassets.net/alneenqid6w5/1MIr5t82Ncx9ssV5oT2eyw/ad06a23c6ec0486964a8465290e215b3/Shared_products_Dispon__veis_PT.jpg)
 
 A aba *Disponíveis* reúne produtos do catálogo do marketplace que foram disponibilizados para que o seller os venda, e que não foram incorporados ainda no catálogo do seller. É possível filtrar os produtos disponíveis por marca ou categoria para agilizar o processo de importação dos produtos selecionados. 
 

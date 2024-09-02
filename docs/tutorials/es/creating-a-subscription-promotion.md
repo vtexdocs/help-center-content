@@ -23,7 +23,7 @@ En este artículo, encontrará el paso a paso para crear promociones por suscrip
 4. Seleccione `Promoción Regular`.
 5. En la sección **¿Cuáles son las condiciones para que la promoción sea válida?**, seleccione la casilla **Es un pedido de suscripción**.  Así, la promoción se aplicará a los pedidos por suscripción. Sólo los productos con una suscripción en la cesta recibirán el descuento. Para entender las posibilidades de configuración, vea las siguientes condiciones:
 
-![frequencia1](//images.ctfassets.net/alneenqid6w5/3Tg0ujk38ip94YogUGdD9M/ca5cd9a587aaff53b054efb27bf04008/image__3_.png)
+![frequencia1](https://images.ctfassets.net/alneenqid6w5/3Tg0ujk38ip94YogUGdD9M/ca5cd9a587aaff53b054efb27bf04008/image__3_.png)
 
 - **Pedido original**: pedidos que generan las suscripciones, pero que aún no forman parte de los ciclos de suscripción.
 - **Pedidos recurrentes**: pedidos que forman parte de los ciclos de suscripción.

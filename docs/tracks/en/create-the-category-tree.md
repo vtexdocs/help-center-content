@@ -38,7 +38,7 @@ At the beginning of the project, before any product is inserted into the platfor
 
 Such structure, therefore, could be the initial drawing of your category tree:
 
-![Category tree](//images.contentful.com/alneenqid6w5/1nka2VMUo002C6cUqsCyQW/bae0791861085cfba9183b6308fbd1db/Untitled__2_.png)
+![Category tree](https://images.contentful.com/alneenqid6w5/1nka2VMUo002C6cUqsCyQW/bae0791861085cfba9183b6308fbd1db/Untitled__2_.png)
 
 __Note__: The names __Department__, __Category__ and __Subcategory__ are just a way to see your tree, which may or may not facilitate your work. The platform does not require this or any other naming standard. For VTEX, any levels that may be created for the distribution of your products are taken only as category levels.
 

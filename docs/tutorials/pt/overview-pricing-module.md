@@ -21,7 +21,7 @@ Existem quatro departamentos dentro do módulo que são responsáveis pela confi
 
 ## Audiência de campanhas 
 
-![campanha-pt](//images.ctfassets.net/alneenqid6w5/2vEodWRzSkHWdujqLvOxmb/dcd29bb90a3ed684c38d276c07afe80e/campanha-pt.png)
+![campanha-pt](https://images.ctfassets.net/alneenqid6w5/2vEodWRzSkHWdujqLvOxmb/dcd29bb90a3ed684c38d276c07afe80e/campanha-pt.png)
 
 Audiência de campanha é uma forma de definir o público alvo ao qual uma promoção poderá ser aplicada. Ou seja criar segmentos de clientes com base na definição de alguns critérios que serão elegíveis a uma determinada audiência de campanha e consequentemente a uma ou mais promoções. Uma audiências de campanhas pode ser associada a uma ou mais promoções de audiência de campanha.
 
@@ -29,7 +29,7 @@ Audiência de campanha é uma forma de definir o público alvo ao qual uma promo
 
 ## Promoções
 
-![promoções.pt](//images.ctfassets.net/alneenqid6w5/6rXDxtSGLLmGlpBlooTQHk/8094b01bc8fab75b014a0da8cd0db0cf/promo____es.pt.png)
+![promoções.pt](https://images.ctfassets.net/alneenqid6w5/6rXDxtSGLLmGlpBlooTQHk/8094b01bc8fab75b014a0da8cd0db0cf/promo____es.pt.png)
 
 É aqui que os descontos que a sua loja vai oferecer são criados. É possível ainda visualizar, filtrar, buscar e arquivar todas as promoções. De acordo com a configuração de cada loja, existe um limite de promoções que podem estar ativas ao mesmo tempo. 
 
@@ -44,13 +44,13 @@ Para verificar essa quantidade, observe a mensagem que aparece no canto superior
 
 ## Cupons
 
-![cupons.pt](//images.ctfassets.net/alneenqid6w5/7AsIdJZzvmLwI08igAZDj3/233c803c436c8cf6909561aeae2da292/cupons.pt.png)
+![cupons.pt](https://images.ctfassets.net/alneenqid6w5/7AsIdJZzvmLwI08igAZDj3/233c803c436c8cf6909561aeae2da292/cupons.pt.png)
 
 É nesta seção que são criados os cupons. Você também pode buscá-los e arquivá-los. [Aprenda como criar cupons](/pt/tutorial/como-criar-cupom/).
 
 ## Taxas
 
-![taxas.pt](//images.ctfassets.net/alneenqid6w5/6M97ug98KchFim5RsY9nXY/e2a626bc42050616032de314949f0b48/taxas.pt.png)
+![taxas.pt](https://images.ctfassets.net/alneenqid6w5/6M97ug98KchFim5RsY9nXY/e2a626bc42050616032de314949f0b48/taxas.pt.png)
 
 Nesta área serão criados os impostos que incidirão sobre os seus produtos. É permitido também filtrar, buscar e arquivar as taxas. [Entenda melhor as particularidades dessa configuração no artigo sobre taxas](/pt/tutorial/como-criar-taxaimposto/).
 

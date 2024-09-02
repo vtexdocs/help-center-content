@@ -35,7 +35,7 @@ Para configurar o lead time por API, acesse <a href="https://developers.vtex.com
 
 Quando configurado, o lead time é um tempo adicional que compõe o prazo de envio do pedido apresentado ao cliente no checkout. A imagem abaixo apresenta como esse prazo total é composto:
 
-![lead_time_image_total_time_PT](//images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/7aae98aad97be4947233c9ef489f266a/lead_time_image_total_time_PT.png)
+![lead_time_image_total_time_PT](https://images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/7aae98aad97be4947233c9ef489f266a/lead_time_image_total_time_PT.png)
 
 * **Lead time:** quantidade de tempo configurável para o SKU de um estoque. Este período pode corresponder ao tempo de manipulação ou fabricação do item, por exemplo. Essa configuração é opcional e, por padrão, está definida como zero dias.
 * [Tempo de estoque:](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137) tempo que o SKU leva para sair de um estoque para uma [doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). Essa configuração é obrigatória, mas você pode definir o tempo igual a zero.
@@ -80,7 +80,7 @@ Para configurar o lead time de um SKU, siga os passos abaixo:
 1. No Admin VTEX, acesse **Catálogo > Estoque > Gerenciamento de inventário**, ou digite **Gerenciamento de inventário** na barra de busca no topo da página.
 2. Selecione o SKU do estoque que você deseja configurar. Você pode usar a barra de pesquisa e os filtros de pesquisa.
 3. Na linha do SKU e na coluna **Lead time (dias)**, digite o número de dias desejado.
-  ![lead_time_inventory_management_PT](//images.ctfassets.net/alneenqid6w5/mfWUVzj7tgHMQxJTnVjGX/37732ea98f52933cabb401cb6246ab2f/lead_time_inventory_management_PT.png)
+  ![lead_time_inventory_management_PT](https://images.ctfassets.net/alneenqid6w5/mfWUVzj7tgHMQxJTnVjGX/37732ea98f52933cabb401cb6246ab2f/lead_time_inventory_management_PT.png)
 4. No canto inferior da página, clique em `Salvar`.
 
 <div class = "alert alert-info">

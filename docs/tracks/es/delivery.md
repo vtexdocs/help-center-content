@@ -27,19 +27,19 @@ Puedes elegir entre:
 - Recoger en una tienda física.
 - Personalizar por ítem.
 
-![entrega-2-es](//images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/338f5137a3c8c920f612657fd7290f3d/entrega-2-es.png)
+![entrega-2-es](https://images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/338f5137a3c8c920f612657fd7290f3d/entrega-2-es.png)
 
 ### Puntos de recogida
 
 Para los puntos de recogida, el sistema selecciona las tiendas que tienen los SKUs en stock y muestra la tienda más cercana al código postal del cliente, como sugerencia. Si el vendedor quiere cambiar la tienda donde el cliente recogerá los productos, solo hay que hacer clic en el botón `Editar punto de recogida`.
 
-![entrega-retirada-es](//images.ctfassets.net/alneenqid6w5/2lmJceEfryZV6OBtgGc3Tq/6cdbea15076e2d11b6bcdb4bb72108ab/entrega-retirada-es.png)
+![entrega-retirada-es](https://images.ctfassets.net/alneenqid6w5/2lmJceEfryZV6OBtgGc3Tq/6cdbea15076e2d11b6bcdb4bb72108ab/entrega-retirada-es.png)
 
 Al hacer clic en ese botón, el vendedor primero tiene acceso al punto de recogida sugerido por el sistema. Para ver todos los puntos de recogida disponibles, hay que hacer clic en `Ver todos los puntos de recogida`.
 
-![31. VTEX Sales App - Product Overview - 12](//images.ctfassets.net/alneenqid6w5/1ZUGWgHe2jI2ROLpIZ1HnN/e6a59ee600f6ae05a2d3e2a27cc8501e/31._VTEX Sales App_-_Product_Overview_-_12.png)
+![31. VTEX Sales App - Product Overview - 12](https://images.ctfassets.net/alneenqid6w5/1ZUGWgHe2jI2ROLpIZ1HnN/e6a59ee600f6ae05a2d3e2a27cc8501e/31._VTEX Sales App_-_Product_Overview_-_12.png)
 
 La aplicación mostrará la lista de puntos de recogida ordenados por la distancia más corta desde el código postal del cliente. También es posible elegir el punto de recogida en el mapa.
 
-![31. VTEX Sales App - Product Overview - 13](//images.ctfassets.net/alneenqid6w5/uT46sKKgmyT4Lmh8usLO3/3aa559f183e4d5dda3254844aac2fd19/31._VTEX Sales App_-_Product_Overview_-_13.png)
+![31. VTEX Sales App - Product Overview - 13](https://images.ctfassets.net/alneenqid6w5/uT46sKKgmyT4Lmh8usLO3/3aa559f183e4d5dda3254844aac2fd19/31._VTEX Sales App_-_Product_Overview_-_13.png)
 

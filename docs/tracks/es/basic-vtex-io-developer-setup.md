@@ -38,7 +38,7 @@ Esto abrirá una ventana del navegador que solicitará sus credenciales.
 
 Cuando esté conectado, usted puede utilizar el comando `vtex whoami` para descubrir qué *cuenta* y *workspace* está utilizando actualmente.
 
-![Command Line](//images.ctfassets.net/alneenqid6w5/31AVvcWcRpL1CoKdUyARyu/9ea4d722d8955bb580a76402507e4013/Command_Line.svg)
+![Command Line](https://images.ctfassets.net/alneenqid6w5/31AVvcWcRpL1CoKdUyARyu/9ea4d722d8955bb580a76402507e4013/Command_Line.svg)
 
 <div class="alert alert-info">
 Sugerencia: Usted puede configurar su terminal para mostrar automáticamente su cuenta y workspace. La manera más fácil de hacer esto es usar nuestros <a href="https://github.com/vtex/dotfiles">dotfiles</a>, que configuran automáticamente la <a href="https://fishshell.com/">Fish Shell</a> y añaden una <a href="https://github.com/vtex/dotfiles/blob/master/fish/functions/fish_prompt.fish">función de prompt</a> para usted.
@@ -54,7 +54,7 @@ De forma predeterminada, cuando inicie sesión en una tienda, usted está en el 
 $ vtex ls
 ```
 
-![Command Line vtex ls](//images.ctfassets.net/alneenqid6w5/4AH5vzt1JfOCzIDtB0fRvR/110dda0479f9aa9891062ece2766837f/Command_Line_vtex_ls.svg)
+![Command Line vtex ls](https://images.ctfassets.net/alneenqid6w5/4AH5vzt1JfOCzIDtB0fRvR/110dda0479f9aa9891062ece2766837f/Command_Line_vtex_ls.svg)
 
 ## Creando su propio workspace
 
@@ -72,6 +72,6 @@ Sugerencia: Usted puede cambiar a (<em>y restablecer</em>) un workspace master c
 
 Los workspaces pueden ser nombrados arbitrariamente, pero generalmente es conveniente asignar su propio nombre cuando usted desea desarrollar en su ambiente.
 
-![command line workspace](//images.ctfassets.net/alneenqid6w5/1Urbt6L0XfNEWukSvdKRdK/41e7e9c9f900fb96ddf5fc3aa6d7c2af/command_line_workspace.svg)
+![command line workspace](https://images.ctfassets.net/alneenqid6w5/1Urbt6L0XfNEWukSvdKRdK/41e7e9c9f900fb96ddf5fc3aa6d7c2af/command_line_workspace.svg)
 
 Ahora usted tiene su propio workspace. Usted puede ejecutar `vtex list` nuevamente y observar que las apps instaladas reflejan aquellas en `master`. Ahora, vamos a "linkar" una versión local del tema de la tienda para que usted pueda comenzar a editarla.

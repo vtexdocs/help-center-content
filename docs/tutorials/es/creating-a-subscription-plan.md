@@ -92,7 +92,7 @@ En esta pantalla, puede realizar las siguientes acciones:
 
 * **Seleccionar:** al hacer clic en la casilla (<i class="far fa-square"></i>) en la fila de cada producto, puede seleccionar productos o SKU individualmente. Otra opción es hacer clic en la primera casilla (<i class="far fa-square"></i>) y seleccionar todos los productos y SKU que aparecen en la página para añadirlos al plan, según se ilustra en la siguiente imagen.
 
-![selecionarskus ES](//images.ctfassets.net/alneenqid6w5/3nBgV1SCLFqG92L1rOBXOX/9786f043859be876f63855568e6d00d3/selecionarskus_ES.gif)
+![selecionarskus ES](https://images.ctfassets.net/alneenqid6w5/3nBgV1SCLFqG92L1rOBXOX/9786f043859be876f63855568e6d00d3/selecionarskus_ES.gif)
 
 * __Botón de flecha__ (<i class="fas fa-chevron-down"></i>): muestra los SKU, es decir, las variaciones del producto.
 * **Añadir:** al hacer clic en este botón, se añaden los productos o SKU al plan de suscripción.

@@ -40,7 +40,7 @@ En el carrito, puedes pasar el mouse sobre el ícono de interrogación que está
 
 Sin embargo, si se aplicó más de una promoción, aparecerá solo la sumatoria de todos los descuentos, lo cual dificultará el análisis del escenario.
 
-![example-cart](//images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/8d5f5572c67f308480e9e4b1f65dc9e7/image6.png)
+![example-cart](https://images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/8d5f5572c67f308480e9e4b1f65dc9e7/image6.png)
 
 ## orderForm
 
@@ -56,7 +56,7 @@ Sigue estos pasos para encontrar el `orderForm` e identificar las promociones ap
 2. Haz clic en `Network`.
 3. Selecciona la opción **Mantener registro**.
 4. Actualiza la página.
-5. Una vez que cargue, presiona `Ctrl+F` para hacer una búsqueda en la ventana **Herramientas de desarrollador**. Escribe `orderForm` en la barra de búsqueda. ![order-form](//images.contentful.com/alneenqid6w5/jtqrcUjDAAqoMUGiYM4qE/94803953c1577a7954ba09f163738e0e/order-form.png)
+5. Una vez que cargue, presiona `Ctrl+F` para hacer una búsqueda en la ventana **Herramientas de desarrollador**. Escribe `orderForm` en la barra de búsqueda. ![order-form](https://images.contentful.com/alneenqid6w5/jtqrcUjDAAqoMUGiYM4qE/94803953c1577a7954ba09f163738e0e/order-form.png)
 6. Haz clic sobre la línea de `orderForm`. Se abrirá una nueva ventana al costado.
 7. Haz clic en `Preview (Previsualizar)`.
 8. Busca `ratesAndBenefitsData` y haz clic en el ítem.

@@ -58,7 +58,7 @@ Para más información sobre esta herramienta, consulta el artículo [Simulador 
 
 Accediendo al **Ver detalles del carrito**, es posible consultar la información específica de cada uno de los productos seleccionados en el carrito.
 
-![Detalles del ítem](//images.ctfassets.net/alneenqid6w5/1EH9jYZZwOSTcCDKqoQocj/a643ad49b22b39430ab5b671288c4f7f/Detalles_del___tem.PNG)
+![Detalles del ítem](https://images.ctfassets.net/alneenqid6w5/1EH9jYZZwOSTcCDKqoQocj/a643ad49b22b39430ab5b671288c4f7f/Detalles_del___tem.PNG)
 
 ### Agregar ítems específicos al carrito
 
@@ -68,7 +68,7 @@ En **Agregar ítems por ID de SKU**, se pueden agregar nuevos ítems al carrito 
 - **Cantidad de cada ítem**: indicación de cuántas unidades SKU se agregarán al carrito.
 - **ID do seller**: indicación de cuántas unidades SKU se agregarán al carrito. 
 
-![Agregar ítems por ID de SKU](//images.ctfassets.net/alneenqid6w5/3HfuNsrFblpnncoUW2UQl2/784f07a4ade0a1cc3ac1f2bc2e5face2/Agregar___tems_por_ID_de_SKU.PNG)
+![Agregar ítems por ID de SKU](https://images.ctfassets.net/alneenqid6w5/3HfuNsrFblpnncoUW2UQl2/784f07a4ade0a1cc3ac1f2bc2e5face2/Agregar___tems_por_ID_de_SKU.PNG)
 
 ### Agregar ítems aleatorios al carrito
 
@@ -82,7 +82,7 @@ En **Agregar ítems al azar**, nuevos ítems del catálogo de la tienda se puede
 - ID do seller
 - Gama de precios (Precio desde / Precio hasta)
 
-![Agregar ítems al azar](//images.ctfassets.net/alneenqid6w5/3vHoO3Pm1Vnsc2QXYOJMQW/06250c93160b6506a130e4e7f34c3f9f/Agregar___tems_al_azar.PNG)
+![Agregar ítems al azar](https://images.ctfassets.net/alneenqid6w5/3vHoO3Pm1Vnsc2QXYOJMQW/06250c93160b6506a130e4e7f34c3f9f/Agregar___tems_al_azar.PNG)
 
 ### Establecer datos de marketing
 
@@ -94,7 +94,7 @@ En la opción **Establecer datos de marketing**, puede aplicar cupones de descue
 - **utmi_cp**: utm interna utilizada para definir cuándo se aplicará una determinada promoción, según la utm descrita en la URL del pedido.  
 - **Cupón**: código de cupón de descuento para agregar al carrito.
 
-![Establecer datos de marketing](//images.ctfassets.net/alneenqid6w5/5jutuQsztAkNGjFHdPk27a/77827b5abd6f7cddb1c431468317589c/Establecer_datos_de_marketing.PNG)
+![Establecer datos de marketing](https://images.ctfassets.net/alneenqid6w5/5jutuQsztAkNGjFHdPk27a/77827b5abd6f7cddb1c431468317589c/Establecer_datos_de_marketing.PNG)
 
 Para obtener más información sobre UTMs y UTMIs, vaya a [Qué son utm_source, utm_campaign y utm_medium](https://help.vtex.com/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii#) y [Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p](https://help.vtex.com/es/tutorial/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p#).
 

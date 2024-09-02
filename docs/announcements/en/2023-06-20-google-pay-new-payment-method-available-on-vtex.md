@@ -27,7 +27,7 @@ Google Pay is a digital wallet platform and online payment system developed by G
 
 Now, you can add Google Pay as a payment method to your store, giving customers a faster and more convenient checkout process.
 
-![google-pay-checkout-en](//images.ctfassets.net/alneenqid6w5/5EjOagjPXAeIAAN0Fpzkdq/b0a0e3b391668b1fcf2df8d3dc33a3f7/image.png)
+![google-pay-checkout-en](https://images.ctfassets.net/alneenqid6w5/5EjOagjPXAeIAAN0Fpzkdq/b0a0e3b391668b1fcf2df8d3dc33a3f7/image.png)
 
 ## What needs to be done?
 

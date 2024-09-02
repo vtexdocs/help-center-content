@@ -27,9 +27,9 @@ Para utilizar esta funcionalidad, primero debes [configurar Cartman](https://hel
 2. En el carrito, haz clic en el botón <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> para abrir Cartman.
 3. Haz clic en la opción `Ver detalles de la promoción`.
 4. Esta ventana muestra las promociones aplicadas al carrito. Para más detalles, haz clic en <i class="fas fa-search"></i>`Ver detalles`.
-![cartman-analisador-promoção-ES](//images.ctfassets.net/alneenqid6w5/43LSTCKfLxf0Buvbc3mNpQ/f4cd037dc329105e0dd0cc2a08bfb75c/Screen_Shot_2022-03-07_at_11.14.14.png)
+![cartman-analisador-promoção-ES](https://images.ctfassets.net/alneenqid6w5/43LSTCKfLxf0Buvbc3mNpQ/f4cd037dc329105e0dd0cc2a08bfb75c/Screen_Shot_2022-03-07_at_11.14.14.png)
 5. Luego se mostrará la ventana **Simulador de Promociones**.
-![analisador-promoção-ES](//images.ctfassets.net/alneenqid6w5/6xNgt4sv7HTXcHfoJnX9B7/37b6391ca94a73ffaed7618a5b15dcb6/image.png)
+![analisador-promoção-ES](https://images.ctfassets.net/alneenqid6w5/6xNgt4sv7HTXcHfoJnX9B7/37b6391ca94a73ffaed7618a5b15dcb6/image.png)
 
 En esta ventana, puedes consultar la siguiente información:
 

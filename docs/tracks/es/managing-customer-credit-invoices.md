@@ -21,7 +21,7 @@ La pantalla __Facturas__ en el Admin de VTEX (__Aplicaciones > Customer Credit >
 - [Liquidar facturas](#liquidar-facturas)
 <br>
 <br>
-![Invoices_ES](//images.ctfassets.net/alneenqid6w5/6otbbLNAHn0hHmKvkYmrj2/ef748599f8033d5bdac2d320a5cb2be3/Invoices_ES.JPG)
+![Invoices_ES](https://images.ctfassets.net/alneenqid6w5/6otbbLNAHn0hHmKvkYmrj2/ef748599f8033d5bdac2d320a5cb2be3/Invoices_ES.JPG)
 
 ## Filtro de facturas
 

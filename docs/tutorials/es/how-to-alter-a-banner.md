@@ -22,14 +22,14 @@ Para ejemplo, usaremos un banner de la Home en el paso a paso, pero estas instru
 3. Haga clic en la carpeta **“Sites and Channels”**
 4. Haga clic en el **nombre de su tienda**.
 5. Haga clic en la **carpeta "/"**
-![cms_instrução ES](//images.ctfassets.net/alneenqid6w5/Eh2zwnOd0GqY0oGCw4Y6Y/b89d5aa3092d8d964469668cda783d9a/CMS_instru____o_-_ES.png)
+![cms_instrução ES](https://images.ctfassets.net/alneenqid6w5/Eh2zwnOd0GqY0oGCw4Y6Y/b89d5aa3092d8d964469668cda783d9a/CMS_instru____o_-_ES.png)
 6. Haga clic en el archivo **“home”**
 7. Haga clic en la pestaña **Settings**
 8. Haga clic en el “lápiz” de edición. 
-![cms-home-settings ES](//images.ctfassets.net/alneenqid6w5/2NaTvILk6k06CqmmWmQC8i/7e962cbf2fe343cb97dca469259b01ef/banner_home_settings_-_es.png)
+![cms-home-settings ES](https://images.ctfassets.net/alneenqid6w5/2NaTvILk6k06CqmmWmQC8i/7e962cbf2fe343cb97dca469259b01ef/banner_home_settings_-_es.png)
 9. Se abrirá la ventana de banners
 10. Haga clic en el "lápiz" que aparecerá
-![cms_home_settings_lapis ES](//images.ctfassets.net/alneenqid6w5/1XGZSbmX4MEs2kCcaKaaGu/8861c836393525c7d4f10fd688018816/cms_settings_lapis_es.png)
+![cms_home_settings_lapis ES](https://images.ctfassets.net/alneenqid6w5/1XGZSbmX4MEs2kCcaKaaGu/8861c836393525c7d4f10fd688018816/cms_settings_lapis_es.png)
 11. Se abrirá el formulario de banner;
 
 **Modificar los contenidos del formulario:**
