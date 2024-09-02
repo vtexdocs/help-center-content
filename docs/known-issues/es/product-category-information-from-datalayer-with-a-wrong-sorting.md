@@ -18,7 +18,9 @@ internalReference: 328415
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La información de la categoría del producto en el dataLayer en las páginas de pago se muestra en el orden incorrecto. Esto está representado por la propiedad "categoryTree".

@@ -27,7 +27,7 @@ Por meio do Seller Portal, marketplaces conseguem:
 - Diminuir o tempo de conversão das vendas, com o onboarding self-service de novos sellers, agora mais rápido e sem fricção.  
 - Compartilhar o sortimento de produtos com o seller de forma simples e gerenciar com agilidade anúncios de produtos compartilhados.  
 
-![Seller Portal gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/ff02b9c926398dcfa69683bcfbf5b02f/Seller_Portal.gif)
+![Seller Portal gif 2022 launch](//images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/ff02b9c926398dcfa69683bcfbf5b02f/Seller_Portal.gif)
 
 ## Interação entre seller e marketplace no Seller Portal
 
@@ -60,7 +60,9 @@ A página **Convite de Sellers** é onde operadores de marketplace [convidam sel
 
 Por meio do Seller Portal, marketplaces hospedados na VTEX podem se conectar com sellers que têm conta VTEX, sellers hospedados em outras plataformas ou sellers que não estão hospedados em nenhuma plataforma. Ao aceitar o convite, o seller escolhe se deseja integrar sua conta VTEX existente ou criar uma conta nova para vender no marketplace.
 
->ℹ️ Uma vez que o [marketplace convida o seller](https://help.vtex.com/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#convidar-seller), um email é enviado ao seller com um link para criação de conta no Seller Portal. O link é válido por sete dias e, após acessá-lo, o seller tem seis horas para completar o formulário de cadastro, sem interrupções.
+<div class = "alert alert-info">
+Uma vez que o <a href="https://help.vtex.com/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#convidar-seller">marketplace convida o seller</a>, um email é enviado ao seller com um link para criação de conta no Seller Portal. O link é válido por sete dias e, após acessá-lo, o seller tem seis horas para completar o formulário de cadastro, sem interrupções.
+</div>
 
 Caso o seller não conclua o cadastro no período previsto, o marketplace precisa enviar o convite novamente. Isso pode ser feito pelo Admin VTEX, em **Marketplace > Convite de Sellers**. É preciso selecionar o seller na lista e clicar no botão **Reenviar convite**.
 
@@ -75,7 +77,9 @@ Para saber mais, confira os seguintes artigos:
 
 Uma vez que o seller aceite o convite do marketplace e finalize o registro da sua conta no Seller Portal, o passo seguinte é a ativação para conectá-lo ao marketplace. Isso faz com que o seller passe do status _Convidado_ para o status _Ativo_, e que ele seja incluído no **Gerenciamento de Sellers**. Confira o passo a passo para ativar o seller em [Conectar seller](https://help.vtex.com/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
 
->ℹ️ A etapa de ativação do seller visa garantir mais segurança ao marketplace, caso seja necessário algum alinhamento com o seller antes que ele comece a vender no marketplace.
+<div class = "alert alert-info">
+A etapa de ativação do seller visa garantir mais segurança ao marketplace, caso seja necessário algum alinhamento com o seller antes que ele comece a vender no marketplace.
+</div>
 
 #### Ações por API Rest
 
@@ -98,7 +102,9 @@ Esta etapa é opcional para o marketplace e vai depender do objetivo do seu mode
 
 Quando o marketplace opta pelo compartilhamento, isso é feito por meio de uma [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV). O seller então recebe a lista de produtos já cadastrados no marketplace para importar e configurar estoque e preço no Seller Portal, em **Preços > Produtos Compartilhados**.
 
->ℹ️ A criação de uma política comercial adicional por parte do operador do marketplace para definir o sortimento de catálogo de sellers no Seller Portal é cobrada como [contratação de política comercial adicional](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X).
+<div class = "alert alert-info">
+A criação de uma política comercial adicional por parte do operador do marketplace para definir o sortimento de catálogo de sellers no Seller Portal é cobrada como <a href="https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X">contratação de política comercial adicional</a>.
+</div>
 
 #### Compartilhamento de Produtos
 
@@ -116,7 +122,9 @@ Na VTEX, [anúncio](https://help.vtex.com/pt/tutorial/anuncios-y-envio-de-produc
 
 Quando o seller cria um novo produto, o marketplace precisa revisar e aprovar o anúncio do produto em um processo chamado [catalogação de anúncios](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396). A catalogação permite criar novos produtos e associar anúncios a SKUs ou produtos já existentes para disponibilizá-los para venda.
 
->ℹ️ Anúncios de [produtos compartilhados](https://help.vtex.com/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) entre marketplace e seller são aprovados de forma automática, sem necessidade de ação manual.
+<div class = "alert alert-info">
+Anúncios de <a href="https://help.vtex.com/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu">produtos compartilhados</a> entre marketplace e seller são aprovados de forma automática, sem necessidade de ação manual.
+</div>
 
 O processo de catalogação pode ser realizado pelo Admin VTEX, em **MARKETPLACE > Sellers > SKUs Recebidos**, ou por meio da API [Match Received SKUs](https://developers.vtex.com/vtex-rest-api/reference/match).
 

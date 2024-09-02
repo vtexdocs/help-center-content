@@ -18,7 +18,9 @@ internalReference: 1000915
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um usuário acessa a tela de configuração do carrinho na área de pedidos (`https://{accountname}}.myvtex.com/admin/checkout/#/configurations )` o símbolo da moeda segue as convenções da localidade indicada pelo administrador, a troca desse símbolo é feita sempre que o administrador indica uma localidade diferente, porém de acordo com nossa análise essa troca está falhando em determinados momentos, fazendo com que o símbolo da moeda indicada seja o padrão da página que nesse caso é R$.

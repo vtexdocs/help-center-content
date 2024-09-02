@@ -18,7 +18,9 @@ internalReference: 886486
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al exportar valores de servicios de una categoría específica en el admin el resultado solo trae los servicios activos. No permitiendo al comerciante activar servicios previamente inactivos por hoja de cálculo.

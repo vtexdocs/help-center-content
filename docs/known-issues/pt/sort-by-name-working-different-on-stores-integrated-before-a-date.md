@@ -18,7 +18,9 @@ internalReference: 600468
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando a classificação pelo nome no PLP de uma loja pode ter comportamentos diferentes com palavras com letras maiúsculas e minúsculas e isto acontece devido a um normalizador que é realizado nas lojas para trabalhar as letras todas como minúsculas e a classificação não considera camelo ou palavras maiúsculas.

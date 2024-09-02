@@ -18,7 +18,9 @@ internalReference: 497880
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, cuando se alcanza la fecha de finalización de una colección programada, no se desencadena el proceso de reindexación de los productos que contiene, lo que hace que la programación de la fecha de finalización no sea funcional en su conjunto.

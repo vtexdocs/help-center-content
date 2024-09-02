@@ -19,7 +19,7 @@ A toolbar de televendas é uma barra superior exibida no site da loja para usuá
 
 A toolbar aparece uma vez que o operador cadastrado faz o login no ambiente da loja e é exibida em todas as áreas do site.
 
-![toolbartelevendas PT](https://images.ctfassets.net/alneenqid6w5/5ed5A8G266JqwpCaYAyDdI/14d47a02678e01865dfcfc304647f1f2/toolbartelevendas_PT.png)
+![toolbartelevendas PT](//images.ctfassets.net/alneenqid6w5/5ed5A8G266JqwpCaYAyDdI/14d47a02678e01865dfcfc304647f1f2/toolbartelevendas_PT.png)
 
 Veja abaixo os principais recursos da toolbar:
 *   [Entrar como cliente](#entrar-como-cliente)
@@ -29,7 +29,9 @@ Para habilitar a toolbar de televendas, é necessário que o administrador da lo
 
 Para saber como customizar a aparência da Toolbar no módulo **CMS**, confira o artigo [Customizar a Toolbar de televendas](https://help.vtex.com/pt/tutorial/customizar-a-toolbar-de-televendas--1XEz1zqO3KyIuwC4asUsOg).
 
->⚠️ Para lojas desenvolvidas no [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), é necessário configurar o aplicativo **VTEX Telemarketing** para habilitar e customizar a toolbar de televendas. Para saber mais sobre esse processo, acesse o guia [VTEX Telemarketing](https://developers.vtex.com/vtex-developer-docs/docs/vtex-telemarketing).
+<div class="alert alert-warning">
+<p>Para lojas desenvolvidas no <a href="https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io">VTEX IO</a>, é necessário configurar o aplicativo <strong>VTEX Telemarketing</strong> para habilitar e customizar a toolbar de televendas. Para saber mais sobre esse processo, acesse o guia <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-telemarketing">VTEX Telemarketing</a>.</p>
+</div>
 
 ## Entrar como cliente
 

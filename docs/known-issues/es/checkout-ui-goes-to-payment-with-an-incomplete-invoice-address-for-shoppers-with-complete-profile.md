@@ -18,7 +18,9 @@ internalReference: 937615
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un comprador tiene un perfil completo y la tienda está configurada para utilizar una dirección de factura para la recogida, la interfaz de usuario pasará a Pago con una dirección de factura incompleta.

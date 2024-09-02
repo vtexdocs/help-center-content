@@ -18,7 +18,9 @@ internalReference: 824198
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A API de facetas tem um campo specificationFilters e esse campo pode interromper o retorno da API quando os valores registrados em qualquer especificação dessa categoria forem muito grandes

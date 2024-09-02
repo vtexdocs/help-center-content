@@ -18,7 +18,9 @@ internalReference: 885693
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se esperaba que, al seleccionar la casilla de verificación de pre-pedido, la colección se poblaría con productos cuya fecha de lanzamiento se hubiera rellenado para una fecha futura.

@@ -18,7 +18,9 @@ internalReference: 889045
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El módulo de Datos Maestros, el motor de búsqueda admin los redirige a la URL equivocada.

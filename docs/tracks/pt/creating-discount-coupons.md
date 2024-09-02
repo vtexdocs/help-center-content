@@ -36,9 +36,9 @@ Para criar um cupom de desconto, siga os passos abaixo:
 6. Clique em **Restrições e limitações de uso** e defina a quantidade de produtos que podem ser comprados por meio deste cupom, independente de quantas compras sejam realizadas para atingir esse número.
 7. Clique no botão **Salvar**.
 
->ℹ️ Não é necessário criar uma `utm_source` e uma `utm_campaign`. Mas é necessário criar **pelo menos uma** delas.
->
-> 
-> Veja o artigo [O que são utm_source, utm_campaign e utm_medium](https://help.vtex.com/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium) para entender melhor o que são essas UTMs.
+<div class="alert alert-info">
+Não é necessário criar uma <code>utm_source</code> e uma <code>utm_campaign</code>. Mas é necessário criar <b>pelo menos uma</b> delas.<br>
+Veja o artigo <a href="https://help.vtex.com/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium">O que são utm_source, utm_campaign e utm_medium</a> para entender melhor o que são essas UTMs.
+</div>
 
 No momento de criação de uma promoção regular, você deve selecionar a flag `utm_source` e/ou `utm_campaign` e inserir nos campos correspondentes as UTMs informadas durante a criação do cupom.

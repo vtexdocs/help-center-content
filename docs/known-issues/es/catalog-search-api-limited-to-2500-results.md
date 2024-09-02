@@ -18,7 +18,9 @@ internalReference: 891184
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al utilizar la API de Búsqueda por Catálogo el máximo de resultados obtenidos es de 2500, aunque haya más productos.

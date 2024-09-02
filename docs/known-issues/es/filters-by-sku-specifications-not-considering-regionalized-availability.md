@@ -18,7 +18,9 @@ internalReference: 1045111
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al filtrar la búsqueda por una especificación de SKU también se aplicará un filtro por disponibilidad de SKU, eliminando los productos en los que la variación seleccionada esté agotada, pero no se aplica a las tiendas regionalizadas.

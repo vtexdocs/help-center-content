@@ -18,7 +18,9 @@ internalReference: 425027
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se criarmos um arquivo XML em um MarketPlace que carrega preços da White Label dos Vendedores, nosso XML não mostrará esses preços

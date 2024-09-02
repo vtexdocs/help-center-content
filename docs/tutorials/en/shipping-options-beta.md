@@ -15,7 +15,9 @@ legacySlug: delivery-options-beta
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
->ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.
+<div class="alert alert-info">
+<p>This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.</p>
+</div>
 
 The **shipping options** feature allows the retailer to create, edit, and manage the order shipping options in a single place, ensuring more simplicity and efficiency in managing your operation. The term "shipping" is the general way to indicate the order's delivery or pickup. In each shipping option configuration, the retailer determines:
 
@@ -33,7 +35,9 @@ The purpose of **Shipping Options**, however, is not to replace [shipping polici
 
 The **Shipping Options** distinguish between what the consumer is charged for shipping the order and the shipping cost for the retailer, as it is possible to set up different pricing rules for the shipping rate.
 
->ℹ️ The shipping costs that the carriers charge must be in the shipping rate template so that the suitable carrier can be chosen.
+<div class = "alert alert-info">
+The shipping costs that the carriers charge must be in the shipping rate template so that the suitable carrier can be chosen.
+</div>
 
 The **Shipping Options** allow the retailer to configure the shipping rate based on:
 
@@ -55,7 +59,9 @@ In each shipping option, the retailer sets an SLA (_Service Level Agreement_), a
 
 The VTEX [Order Allocation Algorithm](https://help.vtex.com/en/tutorial/order-allocation-algorithm-beta--1zLCAyEdnVe3EsE9Kz88xA) analyzes the store and distribution center combinations that serve each shipping option and seeks the ones with the lowest shipping cost. In the example, the result is a combination of lowest-cost same-day shipping and another combination of lowest-cost shipping within 5 business days.
 
->ℹ️ The **Shipping options** ensure that the consumer will always have a shipping option available for their location, which wasn't the case before. The only exception is if there is no seller and no shipping policy that meets the conditions for a shipping option. In this case, no shipping option will appear for the consumer at checkout.
+<div class = "alert alert-info">
+The <b>Shipping options</b> ensure that the consumer will always have a shipping option available for their location, which wasn't the case before. The only exception is if there is no seller and no shipping policy that meets the conditions for a shipping option. In this case, no shipping option will appear for the consumer at checkout.
+</div>
 
 ## Actions and configuration
 
@@ -87,7 +93,7 @@ Follow the steps below to create a shipping option:
     - **Free shipping:** Free of charge for the consumer; no additional configuration is required.
 8. Click `Save`.
 
-![opcoes_envio_criacao_en](https://images.ctfassets.net/alneenqid6w5/6TOlNWWBTED41BXemhsvQE/3f6e3be89d0d3b4c22216df25aa2c875/opcoes_envio_criacao_en.png)
+![opcoes_envio_criacao_en](//images.ctfassets.net/alneenqid6w5/6TOlNWWBTED41BXemhsvQE/3f6e3be89d0d3b4c22216df25aa2c875/opcoes_envio_criacao_en.png)
 
 ## Editing a shipping option
 
@@ -111,7 +117,7 @@ Besides editing a shipping option from the menu icon <i class="fas fa-ellipsis-v
 
 Once you have configured the shipping options, they will be listed under **Store Settings > Shipping > Shipping Options**, as shown in the following image:
 
-![opcoes_envio_listagem_en](https://images.ctfassets.net/alneenqid6w5/2MAxFwYr86Y2ErCyo7GRIN/7c6c0928864ee46602bdf7799c9f00b1/opcoes_envio_listagem_en.png)
+![opcoes_envio_listagem_en](//images.ctfassets.net/alneenqid6w5/2MAxFwYr86Y2ErCyo7GRIN/7c6c0928864ee46602bdf7799c9f00b1/opcoes_envio_listagem_en.png)
 
 The table below contains the description of the columns shown:
 

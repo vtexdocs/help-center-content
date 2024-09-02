@@ -1,5 +1,5 @@
 ---
-title: "O campo 'reference' sempre é definido como nulo"
+title: 'O campo "reference" sempre é definido como nulo'
 id: 6Tq4zip0lfUm7vVJdwfZWx
 status: PUBLISHED
 createdAt: 2023-04-26T22:31:38.892Z
@@ -18,7 +18,9 @@ internalReference: 797989
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O campo `reference` do endereço do ponto de coleta é sempre definido como nulo, embora esteja registrado na API do ponto de coleta.

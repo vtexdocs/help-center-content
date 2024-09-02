@@ -3,8 +3,8 @@ title: 'Data dictionary: VTEX Data Pipeline (Beta)'
 id: 69hMoE2woVw14nWR3ujVto
 status: PUBLISHED
 createdAt: 2024-02-01T18:51:29.281Z
-updatedAt: 2024-06-25T14:23:40.720Z
-publishedAt: 2024-06-25T14:23:40.720Z
+updatedAt: 2024-09-02T19:27:48.167Z
+publishedAt: 2024-09-02T19:27:48.167Z
 firstPublishedAt: 2024-05-27T19:26:59.681Z
 contentType: tutorial
 productTeam: Others
@@ -15,7 +15,9 @@ legacySlug: vtex-data-pipeline-catalog-beta
 subcategory: oMrzcOMVbBpH0reeMFHFg
 ---
 
->ℹ️ This feature is currently in beta, which means we are working on improving it. If you have any questions, please contact [our support](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue).  
+<div class= "alert alert-info">
+This feature is currently in beta, which means we are working on improving it. If you have any questions, please contact <a href="https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue">our support</a>.
+</div>  
 
 **VTEX Data Pipeline** is a tool that only VTEX clients can leverage, which allows exploring and analyzing the ecommerce data that is currently available on our servers. **Data Pipeline** is a VTEX add-on product that integrates the data from your ecommerce website to the data warehouse and BI tools of your choice cleanly and securely.  
 

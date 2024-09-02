@@ -18,7 +18,9 @@ internalReference: 1047992
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al tener una subcadena de la variación en la SKU elegida en otra variación disponible, podríamos no seleccionar la SKU elegida

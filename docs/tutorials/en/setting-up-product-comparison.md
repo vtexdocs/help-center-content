@@ -24,7 +24,9 @@ We can divide this feature in two parts::
 1. **Comparison Page**: Where the user will view the comparison of products selected in the window shop.
 2. **Window display**: Where the user will select the products to be compared.
 
->⚠️ This feature can't be used on the website's home page.
+<div class = "alert alert-warning">
+  <p>This feature can't be used on the website's home page.</p>
+</div>
 
 ## Setting up
 

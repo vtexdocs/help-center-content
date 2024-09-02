@@ -18,7 +18,9 @@ internalReference: 322552
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A bandeira pesquisável não funciona na Coleção CMS herdada. Nosso documento explica que quando usamos esta bandeira, se pesquisarmos o nome da coleção, ela deve retornar os itens associados a esta coleção.

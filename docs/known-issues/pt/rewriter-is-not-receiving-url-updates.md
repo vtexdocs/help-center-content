@@ -18,7 +18,9 @@ internalReference: 1066527
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando uma URL é alterada/excluída no catálogo, o reescritor não recebe essa alteração. Como o reescritor não é notificado sobre isso, o URL ainda está apontando para o tipo errado, o que também pode levar a problemas no IS.

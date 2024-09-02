@@ -18,7 +18,9 @@ internalReference: 897956
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar carregar um novo arquivo em admin/portal/#/sites/default/code, nada acontece. Ao verificar o console no devTools, podemos ver uma mensagem de erro:

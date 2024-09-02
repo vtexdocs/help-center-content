@@ -18,7 +18,9 @@ internalReference: 618724
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O botão "calculate shipping", usado para validação de endereço no modo de geolocalização (endereço inserido via Google Maps), está sendo mostrado mesmo para endereços completos. Ele deve ser mostrado apenas para endereços editados - devido a informações alteradas ou endereços incompletos no primeiro momento - para garantir que eles sejam válidos, mas não para endereços completos.

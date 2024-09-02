@@ -17,7 +17,7 @@ subcategory: 4uqMnZjwBO04uWgCom8QiA
 
 Fundada em 2012, a [AMARO](https://amaro.com/br/pt/) é uma marca brasileira de varejo digital especializada em moda feminina. Desde 2020, a empresa atua como marketplace por meio de uma curadoria de marcas da própria empresa.
 
-![Integração AMARO](https://images.ctfassets.net/alneenqid6w5/2hQ76hgXTPOwEuP4Upq1vO/125a089a5f04ad2f910a6ff3c3f69f7b/Amaro_Logo.png)
+![Integração AMARO](//images.ctfassets.net/alneenqid6w5/2hQ76hgXTPOwEuP4Upq1vO/125a089a5f04ad2f910a6ff3c3f69f7b/Amaro_Logo.png)
 
 A Amaro é agora [conector certificado](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro), disponível para parceria com clientes VTEX. Este guia orienta o seller a configurar a integração, sendo parte do processo no Admin VTEX e parte da AMARO. Para isso, as etapas são as seguintes:
 
@@ -64,7 +64,9 @@ Para configurar uma nova chave, siga os passos abaixo:
 5. Clique em Adicionar perfis e selecione os perfis desejados.  
 6. Clique em Gerar.  
 
->❗ O <i>AppToken</i>, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
+<div class="alert alert-danger">
+  O <i>AppToken</i>, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
+</div>
 
 ### Criar ID do afiliado  
 
@@ -99,5 +101,7 @@ __- Política comercial:__ número da política comercial determinada na etapa [
 
 Uma vez que o seller tenha reunido esses dados, deverá enviá-los para o contato informado pelo time de Marcas Parceiras da AMARO. Desta forma,a integração será concluída pelo marketplace.  
 
->ℹ️ Após a primeira conexão com o seller center AMARO e verificação inicial do sucesso da integração, o time de Marcas Parceiras AMARO irá orientar o seller a adicionar os demais produtos na política comercial para a etapa final de curadoria e exibição dos itens no amaro.com e aplicativos AMARO.
+<div class="alert alert-info">
+Após a primeira conexão com o seller center AMARO e verificação inicial do sucesso da integração, o time de Marcas Parceiras AMARO irá orientar o seller a adicionar os demais produtos na política comercial para a etapa final de curadoria e exibição dos itens no amaro.com e aplicativos AMARO.
+</div>
 

@@ -17,7 +17,7 @@ subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 
 La [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) es un conjunto de reglas y ajustes que definen las opciones de envío que se mostrarán a los clientes en el checkout. La relación entre la política de envío, [almacén](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) y [muelle](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) es lo que conforma la [estrategia de envío](https://help.vtex.com/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) en VTEX, como se muestra en la siguiente imagen:
 
-![shipping_strategy_ES](https://images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/ebc72f36e25bc9e6000d7d0b275bd1be/shipping_strategy_ES.png)
+![shipping_strategy_ES](//images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/ebc72f36e25bc9e6000d7d0b275bd1be/shipping_strategy_ES.png)
 
 Este artículo describe cómo monitorear y gestionar las políticas de envío. La pestaña **Políticas de envío** en el Admin VTEX, accesible en **Envío > Estrategia de envío**, te permite realizar las siguientes acciones:
 
@@ -35,7 +35,7 @@ También puedes crear políticas de envío. Consulta [Crear una política de env
 
 La pestaña **Políticas de envío** del Admin VTEX, accesible a través de **Envío > Estrategia de envío**, muestra una lista como se ilustra a continuación:
 
-![shipping_policy_ES](https://images.ctfassets.net/alneenqid6w5/uiwwWTGlS60kPjMDLNfzY/04e7831e6af05ee2312eb51720c4e7f1/shipping_policy_ES.png)
+![shipping_policy_ES](//images.ctfassets.net/alneenqid6w5/uiwwWTGlS60kPjMDLNfzY/04e7831e6af05ee2312eb51720c4e7f1/shipping_policy_ES.png)
 
 La información de la lista se describe en la siguiente tabla:
 
@@ -52,7 +52,9 @@ La información de la lista se describe en la siguiente tabla:
 
 La caja de búsqueda que tiene el ícono de lupa <i class="fas fa-search"></i> te permite buscar políticas de envío por nombre. Ingresar un carácter en la barra de búsqueda activa la búsqueda inmediatamente. Para limpiar la búsqueda, haz clic en el ícono de cerrar <i class="far fa-times-circle"></i>.
 
->ℹ️ Si la búsqueda no devuelve ningún resultado, comprueba la ortografía del término o si hay algún filtro seleccionado.
+<div class = "alert alert-info">
+Si la búsqueda no devuelve ningún resultado, comprueba la ortografía del término o si hay algún filtro seleccionado.
+</div>
 
 ## Filtrar políticas de envío
 
@@ -101,7 +103,9 @@ Para activar o desactivar una política de envío, sigue estos pasos:
 
 Para eliminar una política de envío, sigue estos pasos:
 
->❗ La acción de eliminar una política de envío es permanente y no se puede deshacer.
+<div class="alert alert-danger">
+La acción de eliminar una política de envío es permanente y no se puede deshacer.
+</div>
 
 1. En el Admin VTEX, accede a **Envío > Estrategia de envío** o ingresa **Estrategia de envío** en la barra de búsqueda en la parte superior de la página.
 2. En la pestaña **Políticas de envío**, en la fila correspondiente al política deseada, haz clic en el ícono de menú <i class="fas fa-ellipsis-v"></i>. Puedes [buscar](#buscar-politicas-de-envio) o [filtrar](#filtrar-politicas-de-envio) políticas.

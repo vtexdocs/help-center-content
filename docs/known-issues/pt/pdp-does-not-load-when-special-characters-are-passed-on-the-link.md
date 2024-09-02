@@ -18,7 +18,9 @@ internalReference: 770893
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há alguns casos especiais em que a loja tem um link para uma página na qual é passado um caracter especial como '#' para passar uma propriedade, por exemplo, a cor do item, o que faz com que o PDP não carregue na primeira vez, ao invés disso ele continua tentando carregar, mas quando a página é atualizada ela carrega corretamente.

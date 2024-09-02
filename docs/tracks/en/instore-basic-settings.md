@@ -16,11 +16,15 @@ trackSlugEN: instore-first-steps-and-configurations
 
 VTEX Sales App is one of VTEX's main products for [unified commerce](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) operations. It is an app that allows your store to provide a true omnichannel experience, integrating your online and physical channels and placing your customers at the core of the business.
 
->ℹ️ Before you start using VTEX Sales App, make sure your store meets all the [prerequisites](https://help.vtex.com/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u).
+<div class="alert alert-info">
+<p>Before you start using VTEX Sales App, make sure your store meets all the <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u">prerequisites</a>.</p>
+</div>
 
 To use VTEX Sales App, you must follow the steps below in your main account.
 
->⚠️ It is not necessary to install or configure VTEX Sales App on franchise accounts that represent physical stores. The procedure described in this article must be performed only on the main brand account.
+<div class="alert alert-warning">
+<p> It is not necessary to install or configure VTEX Sales App on franchise accounts that represent physical stores. The procedure described in this article must be performed only on the main brand account.</p>
+</div>
 
 ## Installing VTEX Sales App
 
@@ -50,7 +54,7 @@ After installing, you will configure the basic settings of the VTEX Sales App ap
 
 ### Add the store address
 
-![cadastrar-loja-pt](https://images.contentful.com/alneenqid6w5/51ICHIzuWsMAwPCVwQuQoB/071ec5240f968e662badf4e828954072/cadastrar-loja-pt.png)
+![cadastrar-loja-pt](//images.contentful.com/alneenqid6w5/51ICHIzuWsMAwPCVwQuQoB/071ec5240f968e662badf4e828954072/cadastrar-loja-pt.png)
 
 On this screen, enter the name of the first physical store where VTEX Sales App will be used and the full address of the store. After filling out all the fields, click on `Confirm`.
 
@@ -60,11 +64,13 @@ If you choose to `Skip this step`, a fictitious store will be created for testin
 
 ### Adding a sales associate's email and name
 
-![registrar-vendedor-pt](https://images.contentful.com/alneenqid6w5/5PvZutdPYWkm7rj4HCrlPC/0316ea7fd74dae942a64e5fdb22f3807/registrar-vendedor-pt.png)
+![registrar-vendedor-pt](//images.contentful.com/alneenqid6w5/5PvZutdPYWkm7rj4HCrlPC/0316ea7fd74dae942a64e5fdb22f3807/registrar-vendedor-pt.png)
 
 You must define an email and a name to be used as a sales associate’s login credentials. When you are ready, click on `Confirm`.
 
->⚠️ The email added in this screen **cannot** be in use on the VTEX platform Admin. Use sales associate emails that do not have Admin access.
+<div class="alert alert-warning">
+<p>The email added in this screen <strong>cannot</strong> be in use on the VTEX platform Admin. Use sales associate emails that do not have Admin access.</p>
+</div>
 
 In this step, you’ll only add one of your sales associates. After configuring the basic settings, you can [add other sales associates](https://help.vtex.com/pt/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
 
@@ -74,7 +80,7 @@ If you choose to `Skip this step`, a fictitious sales associate will be created 
 
 The next step is to set up the payment methods you will accept on VTEX Sales App. Enable the desired options using the <i class="fas fa-toggle-on"></i> button, as shown below.
 
-![configurar-meios-de-pagamento-pt](https://images.contentful.com/alneenqid6w5/3kjTg7Y2tUI5UErQBsGc02/5174724afd2987a4b8f578c1d74b87b9/configurar-meios-de-pagamento-pt.gif)
+![configurar-meios-de-pagamento-pt](//images.contentful.com/alneenqid6w5/3kjTg7Y2tUI5UErQBsGc02/5174724afd2987a4b8f578c1d74b87b9/configurar-meios-de-pagamento-pt.gif)
 
 There are two options:
 
@@ -83,7 +89,7 @@ There are two options:
 
 After selecting the desired options, click on `Confirm`. You will see the following confirmation message:
 
-![sucesso-instore-pt](https://images.contentful.com/alneenqid6w5/nVSjiQuE0EXIYecELJJFQ/79a0d24adb51e7ad68f371afe5ca0491/sucesso-instore-pt.png)
+![sucesso-instore-pt](//images.contentful.com/alneenqid6w5/nVSjiQuE0EXIYecELJJFQ/79a0d24adb51e7ad68f371afe5ca0491/sucesso-instore-pt.png)
 
 ## Configuring payment conditions
 

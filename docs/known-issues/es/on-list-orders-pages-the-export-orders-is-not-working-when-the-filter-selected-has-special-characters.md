@@ -18,7 +18,9 @@ internalReference: 662821
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La nueva interfaz de usuario tiene una limitación para exportar algunos pedidos una vez que el filtro seleccionado tiene en el nombre un carácter especial, por ejemplo ("&" y "á" o "ú") esto ocurre porque incluso la nueva interfaz de usuario puede filtrar los pedidos, pero llama a la antigua ruta de OMS para exportar los pedidos.

@@ -15,7 +15,9 @@ legacySlug: setting-up-offline-payment-conditions-using-mercadopago
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->⚠️ This article deals with configurations applicable in stores that operate in the following Latin American countries: **Argentina**, **Chile**, **Colombia**, **Mexico**, **Peru**, **Uruguay** and **Venezuela**.
+<div class="alert alert-warning">
+This article deals with configurations applicable in stores that operate in the following Latin American countries: <strong>Argentina</strong>, <strong>Chile</strong>, <strong>Colombia</strong>, <strong>Mexico</strong>, <strong>Peru</strong>, <strong>Uruguay</strong> and <strong>Venezuela</strong>.
+</div>
 
 You can use Mercado Pago to offer offline payment conditions in your store. For that, you first have to register [MercadoPagoV1](/en/tutorial/setting-up-mercadopagov1-sub-acquirer) gateway affiliation.
 

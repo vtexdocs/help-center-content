@@ -14,4 +14,6 @@ locale: es
 legacySlug: como-encontrar-el-pixel-de-facebook
 ---
 
->⚠️ Este contenido sólo está disponible en portugués.
+<div class="alert alert-warning">
+  <p>Este contenido sólo está disponible en portugués.</p>
+</div>

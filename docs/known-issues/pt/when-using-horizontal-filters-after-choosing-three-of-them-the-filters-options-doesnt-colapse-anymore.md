@@ -18,7 +18,9 @@ internalReference: 859382
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando a loja estiver usando os filtros na opção horizontal, toda vez que você clicar em um filtro, suas opções serão recolhidas. Porém, quando você clica em um filtro pela terceira vez, o filtro não é mais recolhido. Ele travará.

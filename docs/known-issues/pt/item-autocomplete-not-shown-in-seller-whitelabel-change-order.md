@@ -18,7 +18,9 @@ internalReference: 348841
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao alterar um item (ordem de alteração) de uma conta de vendedor WhiteLabel, o preenchimento automático não mostra o item como esperado.

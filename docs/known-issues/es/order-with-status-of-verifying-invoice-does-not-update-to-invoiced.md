@@ -18,7 +18,9 @@ internalReference: 500245
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Debido a una incoherencia, existe una diferencia entre lo que realmente se capturó y lo que se solicitó capturar. Haciendo imposible la facturación del pedido.

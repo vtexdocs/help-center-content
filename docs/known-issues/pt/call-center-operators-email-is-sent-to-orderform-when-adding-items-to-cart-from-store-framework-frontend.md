@@ -18,7 +18,9 @@ internalReference: 1066571
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar os componentes do Store Framework para adicionar itens a um carrinho enquanto estiver conectado como um operador de call center e não estiver se passando por um cliente, o e-mail do operador é preenchido no anexo clientProfileData do formulário de pedido.

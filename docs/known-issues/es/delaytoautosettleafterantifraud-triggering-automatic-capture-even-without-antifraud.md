@@ -18,7 +18,9 @@ internalReference: 369633
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la transacción **NO** tiene antifraude, se toma el valor más corto entre `delayToAutoSettle` y `delayToAutoSettleAfterAntifraud`. En este caso, el responsable de la captura es el `EarlySettlementWorker`, que es el trabajador de captura anticipada. Técnicamente, es el trabajador que se llama después de que el antifraude se realice, pero cuando no hay uno, comienza su cuenta atrás después de la autorización del pago.

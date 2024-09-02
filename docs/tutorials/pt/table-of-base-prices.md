@@ -25,7 +25,9 @@ Para entender como preencher a [planilha de cadastro de preço base](https://hel
 
 - **List Price**: preço de lista é um preço que funciona como um preço antigo de SKU que recebeu um desconto. Também é conhecido como “preço De” e pode ser exibido na vitrine da sua loja. Este é um campo opcional no cadastro de um preço.
 
->ℹ️ Nas colunas **Cost Price**, **Base Price** e **List Price**, você pode inserir valores com casas decimais separadas por ponto. Exemplo: `4.95`.
+<div class="alert alert-info">
+<p>Nas colunas <b>Cost Price</b>, <b>Base Price</b> e <b>List Price</b>, você pode inserir valores com casas decimais separadas por ponto. Exemplo: <code>4.95</code>.</p>
+</div>
 
 Os próximos campos são opcionais na planilha, exportados somente para exibição e para facilitar a identificação de um SKU. Para visualizá-los na planilha, é necessário selecionar a opção *Incluir metadados nas tabelas exportadas* na exportação.
 

@@ -19,9 +19,9 @@ Después de crear el producto, es hora de crear el primer SKU que formará parte
 Si después de rellenar los campos del [registro de producto](/pt/getting-started/crear-un-producto), se hace clic en __Guardar y registrar SKU__, la pantalla que aparece a continuación será justamente la de registro de SKU.
 
 Pero también es posible llegar al registro de SKU por el camino abajo:
-1. Acceda al módulo __Catalog__ y, en la pestaña __Registro de productos__, vaya a la opción __Productos y SKUs__ y haga clic en __Registro de productos y SKUs__![Produto1](https://images.contentful.com/alneenqid6w5/4X1QYKrHz2ysAEAAW6gK6/85b81671add3f7573a9c4531b215ba82/Produto1.png)
+1. Acceda al módulo __Catalog__ y, en la pestaña __Registro de productos__, vaya a la opción __Productos y SKUs__ y haga clic en __Registro de productos y SKUs__![Produto1](//images.contentful.com/alneenqid6w5/4X1QYKrHz2ysAEAAW6gK6/85b81671add3f7573a9c4531b215ba82/Produto1.png)
 2. Haga clic en la flecha del botón azul, en la línea del producto para el cual quiere crear el SKU, y luego en la opción __SKU__.
-3. Haga clic en el botón __Nuevo SKU__.![novoSKU](https://images.contentful.com/alneenqid6w5/5VonhvkjXaoma84SqGuYSQ/f072e69753933862ba5ad205f9a55ecd/novoSKU.gif)
+3. Haga clic en el botón __Nuevo SKU__.![novoSKU](//images.contentful.com/alneenqid6w5/5VonhvkjXaoma84SqGuYSQ/f072e69753933862ba5ad205f9a55ecd/novoSKU.gif)
 
 Usted será llevado a la pantalla de registro de SKU.
 
@@ -33,4 +33,6 @@ Usted será llevado a la pantalla de registro de SKU.
 
 Todos los campos disponibles en esta pantalla se explican en el artículo [Campos de registro de SKU](/es/tutorial/campos-de-registro-de-sku).
 
->ℹ️ A veces un producto no tiene variaciones que justifiquen la creación de más de un SKU para él. En este caso, no hay ningún problema en crear un SKU con el mismo nombre del producto. Sólo recuerde que siempre debe crear **al menos un SKU para cada producto**.
+<div class="alert alert-info">
+A veces un producto no tiene variaciones que justifiquen la creación de más de un SKU para él. En este caso, no hay ningún problema en crear un SKU con el mismo nombre del producto. Sólo recuerde que siempre debe crear <strong>al menos un SKU para cada producto</strong>.
+</div>

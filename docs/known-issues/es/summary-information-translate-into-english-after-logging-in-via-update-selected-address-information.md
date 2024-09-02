@@ -18,7 +18,9 @@ internalReference: 978571
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En las cuentas españolas, el inicio de sesión en la caja a través de "Actualizar la información de la dirección seleccionada" después de identificarse con un perfil completo hace que algunos textos del resumen se traduzcan al inglés.

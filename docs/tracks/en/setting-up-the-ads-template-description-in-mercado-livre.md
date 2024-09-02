@@ -18,7 +18,9 @@ In the integration with Mercado Livre, you can assemble the description of your 
 
 ## Template settings
 
->❗ For stores in Brazil and Argentina, **Mercado Livre does not accept HTML or CSS template customizations** (with the exception of the &lt;br&gt; tag for line breaks). For stores in other countries, Iframes, Scripts, Forms, Inputs, Meta, Object and Embed tags are not allowed.
+<div class="alert alert-danger">
+For stores in Brazil and Argentina, <strong>Mercado Livre does not accept HTML or CSS template customizations</strong> (with the exception of the &lt;br&gt; tag for line breaks). For stores in other countries, Iframes, Scripts, Forms, Inputs, Meta, Object and Embed tags are not allowed.
+</div>
 
 In order for your product to be offered in Mercado Livre, it is necessary to configure the ad template where the product will be displayed. To set up this template, follow the step-by-step instructions below:
 
@@ -41,6 +43,8 @@ If you want to include all attributes and attributes values in the template, you
 
 ``{{#each ATRIBUTOS}} {{NOME}} – {{VALOR}} <br> {{/each}}``
 
->ℹ️ If you want to hide some attribute in the template, you can do this in the **Integration's settings** panel by filling in the **Attributes hidden in the product template** field as explained in the **Set up the Mercado Livre panel at VTEX Bridge** section from the previous step.
+<div class="alert alert-info">
+If you want to hide some attribute in the template, you can do this in the <strong>Integration's settings</strong> panel by filling in the <strong>Attributes hidden in the product template</strong> field as explained in the <strong>Set up the Mercado Livre panel at VTEX Bridge</strong> section from the previous step.
+</div>
 
 You have completed the *third stage* of the integration! Now, we will set up the logistics for the delivery of orders made in Mercado Livre.

@@ -47,7 +47,9 @@ The [Seller Portal](https://help.vtex.com/en/tutorial/seller-portal-primeiros-pa
 
 This tool is recommended for marketplaces that want to have more control over the curation of products they offer. 
 
->ℹ️ To activate the Seller Portal for their sellers, the marketplace must request this feature by contacting their VTEX account CSM.
+<div class="alert alert-info">
+To activate the Seller Portal for their sellers, the marketplace must request this feature by contacting their VTEX account CSM. 
+</div>
 
 ## Cataloging offers
 
@@ -55,7 +57,9 @@ A product submitted by a seller to a marketplace with price and inventory inform
 
 The cataloging process is performed on the [Received SKUs](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus/) page, in the **MARKETPLACE > Sellers** menu of your VTEX Admin, or using the [Match Received SKUs](https://developers.vtex.com/vtex-rest-api/reference/match) API. 
 
->ℹ️ Before approving an offer, it is important to ensure that the product information submitted by the seller matches your business strategy. When listing offers, consider the quality of the information submitted by the seller, such as price, product description, and image.
+<div class="alert alert-info">
+Before approving an offer, it is important to ensure that the product information submitted by the seller matches your business strategy. When listing offers, consider the quality of the information submitted by the seller, such as price, product description, and image.
+</div>
 
 [VTEX Matcher](https://help.vtex.com/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424) is a tool used by marketplaces to analyze offers submitted by sellers and accelerate their cataloging process. You can configure VTEX Matcher to operate on rules other than the default configuration using the [Save Account's Approval Settings API](https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig).
 

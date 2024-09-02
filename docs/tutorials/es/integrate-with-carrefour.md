@@ -27,7 +27,7 @@ En la esquina superior derecha, haga clic en el email (es aquél que usted utili
 
 La clave que aparece en la pantalla es el dato que usted necesitará para registrar la integración dentro del módulo Bridge de VTEX.
 
-![Carrefour1](https://images.contentful.com/alneenqid6w5/3J1VMlsGsMswagSeG2y0EK/d054fac671b13f5dca7f627aa5121c97/Carrefour1.png)
+![Carrefour1](//images.contentful.com/alneenqid6w5/3J1VMlsGsMswagSeG2y0EK/d054fac671b13f5dca7f627aa5121c97/Carrefour1.png)
 
 ### Configurando la integración en el Bridge
 
@@ -49,7 +49,9 @@ Las opciones que aparecen son las siguientes:
 - **Mapeamento de SLA de tipo Econômica:** Aquí se debe insertar el [tipo de transportista](/es/tutorial/como-se-maneja-el-tipo-de-entrega) registrada en VTEX que desea utilizar para la entrega `Economica`.
 - **Mapeamento de SLA de tipo Agendada:** Aquí se debe insertar el [tipo de transportista](/es/tutorial/como-se-maneja-el-tipo-de-entrega) registrada en VTEX que desea utilizar para la entrega `Programada`.
 
->⚠️ Atención: es necesario rellenar al menos uno de los campos del mapeo de SLA. En caso de que ninguno de ellos sea prenchido, no será posible simular el flete en VTEX y, consecuentemente, los pedidos hechos en el Carrefour no serán integrados. Además, tampoco será posible guardar el registro de la integración sin que alguno de los campos esté rellenado.
+<div class="alert alert-warning">
+Atención: es necesario rellenar al menos uno de los campos del mapeo de SLA. En caso de que ninguno de ellos sea prenchido, no será posible simular el flete en VTEX y, consecuentemente, los pedidos hechos en el Carrefour no serán integrados. Además, tampoco será posible guardar el registro de la integración sin que alguno de los campos esté rellenado.
+</div>
 
 Una vez terminada la configuración de esa pantalla, haga clic en el botón **Salvar Configuração**.
 

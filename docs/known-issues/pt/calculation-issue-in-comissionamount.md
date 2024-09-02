@@ -18,7 +18,9 @@ internalReference: 1001005
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Isso ocorre em um cenário específico de divisão de pagamento com vários pagamentos e vendedores (em que ambos são responsáveis por encargos de processamento de pagamento e estornos). A soma do `comissionAmount` dos vendedores não é igual ao `amount` do marketplace (problema de arredondamento), essa diferença pode causar uma recusa de liquidação pelo adquirente.

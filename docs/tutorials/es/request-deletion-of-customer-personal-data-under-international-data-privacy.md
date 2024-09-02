@@ -32,7 +32,9 @@ Configurar los datos en el Master Data es la primera etapa para eliminar los dat
 
 Las leyes de privacidad determinan que los datos personales de los titulares no se deben compartir o exponer de forma indebida. Por ende, se necesitan ciertas configuraciones para garantizar la protección de esos datos.
 
->⚠️ Las configuraciones guardadas no se podrán modificar.
+<div class="alert alert-warning">
+Las configuraciones guardadas no se podrán modificar.
+</div>
 
 Para activar esta configuración, sigue los pasos a continuación:
 
@@ -52,7 +54,9 @@ Para activar esta configuración, sigue los pasos a continuación:
 
 Después de configurar los datos en el Master Data, deberás solicitar la extensión de la eliminación de los datos personales de tus clientes también en los sistemas de VTEX mediante la apertura de un ticket en nuestro [Soporte VTEX](https://help.vtex.com/es/support).
 
->⚠️ Solicita la eliminación de los datos de una sola cuenta, es decir, se podrá eliminar el email de un solo comprador por ticket. Si incluyes más de un email, el ticket se rechazará.
+<div class="alert alert-warning">
+Solicita la eliminación de los datos de una sola cuenta, es decir, se podrá eliminar el email de un solo comprador por ticket. Si incluyes más de un email, el ticket se rechazará. 
+</div>
 
 Para solicitar la eliminación de los datos personales de clientes, sigue los pasos a continuación:
 

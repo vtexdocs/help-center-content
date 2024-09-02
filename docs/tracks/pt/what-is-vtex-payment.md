@@ -18,7 +18,9 @@ O VTEX Payment é uma solução de pagamentos corporativa para clientes VTEX. Cr
 
 Para gerir suas operações, o cliente tem acesso a uma conta digital.
 
->ℹ️ O VTEX Payment é um gateway opcional de pagamentos para uso dos clientes VTEX. Sua ativação pode ser solicitada e implementada de maneira rápida (plug and play), pois é nativamente integrada ao sistema VTEX.
+<div class = "alert alert-info">
+O VTEX Payment é um gateway opcional de pagamentos para uso dos clientes VTEX. Sua ativação pode ser solicitada e implementada de maneira rápida (plug and play), pois é nativamente integrada ao sistema VTEX.
+</div>
 
 ## Antifraude
 
@@ -64,7 +66,11 @@ Siga o passo a passo abaixo para realizar o preenchimento destes campos:
 
 O VTEX Payment permite configurar cartão de crédito e boleto bancário como formas de pagamento. Para maiores informações, veja como [configurar condições de pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento--tutorials_455?&utm_source=autocomplete).
 
->⚠️ No VTEX Payment, o prazo padrão para vencimento de boletos bancários é de 3 dias. Caso deseje alterar este prazo, entre em contato com o atendimento da VTEX.
+<div class="alert alert-warning">
+No VTEX Payment, o prazo padrão para vencimento de boletos bancários é de 3 dias. Caso deseje alterar este prazo, entre em contato com o atendimento da VTEX.
+</div>
 
->⚠️ Caso o VTEX Payment não esteja disponível no Admin da sua loja, entre em contato com a VTEX para que o seu perfil de acesso seja criado e o conector disponibilizado para instalação e configuração.
+<div class="alert alert-warning">
+  Caso o VTEX Payment não esteja disponível no Admin da sua loja, entre em contato com a VTEX para que o seu perfil de acesso seja criado e o conector disponibilizado para instalação e configuração.
+  </div>
 

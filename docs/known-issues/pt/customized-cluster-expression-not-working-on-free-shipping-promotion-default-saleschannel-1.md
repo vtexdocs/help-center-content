@@ -18,7 +18,9 @@ internalReference: 334027
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, as expressões de cluster personalizadas não estão trabalhando em promoções do tipo envio gratuito.

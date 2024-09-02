@@ -18,7 +18,9 @@ internalReference: 789499
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um aplicativo não recebe solicitações por algum tempo, ele entra em cold start. O Courier faz várias tentativas de enviar eventos até que o aplicativo "acorde". Quando o aplicativo não "acorda", as solicitações a ele podem falhar devido a um tempo limite. Como resultado, acontece que alguns eventos parecem nunca ser enviados. Esse é um comportamento intermitente

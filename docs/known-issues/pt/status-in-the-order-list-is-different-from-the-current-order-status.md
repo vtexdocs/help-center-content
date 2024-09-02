@@ -18,7 +18,9 @@ internalReference: 577103
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em alguns casos, a lista de pedidos mostra um status diferente do status do pedido atual (cartão).

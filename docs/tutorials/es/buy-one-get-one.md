@@ -54,7 +54,7 @@ En esta sección se proporciona información detallada sobre los datos generales
 - **Información adicional (opcional):** permite incluir en la promoción información adicional que incluye un nombre y un valor.
 - **Promoción resaltada:** al elegir esta opción, se crea una tag que destaca el nombre de la promoción. Se implementa en la vitrina y en la página de producto, siempre y cuando se utilice el control de visualización de promociones correcto en la plantilla. `<vtex.cmc:discountHightLight>`.
 
-![Resumen de la promoción](https://images.ctfassets.net/alneenqid6w5/4s7Zxlvv0aIThx2WW2JMO3/e10d90b18e8ce27fda6345f72b86a802/Resumen_de_la_promocion.png)
+![Resumen de la promoción](//images.ctfassets.net/alneenqid6w5/4s7Zxlvv0aIThx2WW2JMO3/e10d90b18e8ce27fda6345f72b86a802/Resumen_de_la_promocion.png)
 
 ## Restringir esta promoción a los productos de los sellers
 
@@ -65,9 +65,11 @@ En esta sección se pueden definir los sellers a los que se aplicará la promoci
 
 Para que la promoción sea válida para todos los sellers, deja la selección sin marcar.
 
->⚠️ No es posible seleccionar directamente un <i>seller white label</i>. Para incluir a un <i>seller white label</i> en la promoción, tiene dos opciones:1. Restringir los <i>sellers</i> a la tienda principal. Esta restricción agrega todos los <i>sellers white label</i> de su tienda a la promoción.2. Dejar la selección sin marcar para incluir a todos los <i>sellers</i>. Aquí, todos los tipos de <i>sellers, white label</i> o no, se agregarán a la promoción.
+<div class = "alert alert-warning">
+  <p>No es posible seleccionar directamente un <i>seller white label</i>. Para incluir a un <i>seller white label</i> en la promoción, tiene dos opciones:</p><ol>1. Restringir los <i>sellers</i> a la tienda principal. Esta restricción agrega todos los <i>sellers white label</i> de su tienda a la promoción.</ol><ol>2. Dejar la selección sin marcar para incluir a todos los <i>sellers</i>. Aquí, todos los tipos de <i>sellers, white label</i> o no, se agregarán a la promoción.</ol>
+</div>
 
-![Restringir esta promoción a los productos de los sellers](https://images.ctfassets.net/alneenqid6w5/3Up0CJMzHHY9rZO0LLRXuw/2b00df355cb9670e4a5b799e5c9482e7/Restringir_esta_promoci_n_a_los_productos_de_los_sellers.png)
+![Restringir esta promoción a los productos de los sellers](//images.ctfassets.net/alneenqid6w5/3Up0CJMzHHY9rZO0LLRXuw/2b00df355cb9670e4a5b799e5c9482e7/Restringir_esta_promoci_n_a_los_productos_de_los_sellers.png)
 
 ## Política comercial
 Esta sección establece las políticas comerciales válidas para la promoción. Puedes incluir o excluir políticas comerciales del descuento.
@@ -79,7 +81,7 @@ Esta sección establece las políticas comerciales válidas para la promoción. 
 
 Para que la promoción sea válida para todas las políticas comerciales, deja la selección sin marcar.
 
-![Política comercial-ES](https://images.ctfassets.net/alneenqid6w5/1EUrXEMs0tyZ6J1ulXco9i/3580c9712e545dbd89b07b473e7409fb/Politica_comercial-ES.png)
+![Política comercial-ES](//images.ctfassets.net/alneenqid6w5/1EUrXEMs0tyZ6J1ulXco9i/3580c9712e545dbd89b07b473e7409fb/Politica_comercial-ES.png)
 
 # 2. Compra uno y lleva uno gratis
 
@@ -89,11 +91,15 @@ En esta sección se definen las colecciones, SKU y cantidad mínima que deben re
 - **SKUs:** permite seleccionar el nombre o ID de los SKU sobre los que deseas aplicar el descuento. También puedes importar una lista de SKU, que debe guardarse en un archivo de texto (**.txt**) con cada ID descrito en una fila diferente.
 - **Cantidad mínima:** permite definir la cantidad mínima de productos que deben agregarse al carrito para que se conceda el descuento. Es un campo obligatorio.
 
->⚠️ <p>La promoción no se creará si no se rellenan los campos Colecciones o SKUs.<p>
+<div class = "alert alert-warning">
+ <p>La promoción no se creará si no se rellenan los campos Colecciones o SKUs.<p>
+</div>
 
->⚠️ <p>Se puede crear una promoción Compra uno y lleva uno gratis con un máximo de 100 SKU diferentes al mismo tiempo.<p>
+<div class = "alert alert-warning">
+ <p>Se puede crear una promoción Compra uno y lleva uno gratis con un máximo de 100 SKU diferentes al mismo tiempo.<p>
+</div>
 
-![Compra uno y lleva uno gratis](https://images.ctfassets.net/alneenqid6w5/27rGDqH0dMTcgA8m7cWs27/c37f45ddde8ac8ddab99cae1500a951d/Compra_uno_y_lleva_uno_gratis.png)
+![Compra uno y lleva uno gratis](//images.ctfassets.net/alneenqid6w5/27rGDqH0dMTcgA8m7cWs27/c37f45ddde8ac8ddab99cae1500a951d/Compra_uno_y_lleva_uno_gratis.png)
 
 # 3. Condiciones de la promoción
 
@@ -106,7 +112,7 @@ En esta sección se proporciona información detallada sobre las condiciones que
 - **Utm_source:** el descuento se concederá si la navegación utiliza un parámetro utm_source con el valor registrado.
 - **Utm_campaign:** el descuento se concederá si la navegación utiliza un parámetro utm_campaign con el valor registrado.
 
-![Cuáles son las condiciones para que la promoción sea válida?](https://images.ctfassets.net/alneenqid6w5/4zOT1bHe70Z1wbN2wQjCXD/feb16501d81f3fc85591b837bf06b42d/Cu_les_son_las_condiciones_para_que_la_promoci_n_sea_v_lida.png)
+![Cuáles son las condiciones para que la promoción sea válida?](//images.ctfassets.net/alneenqid6w5/4zOT1bHe70Z1wbN2wQjCXD/feb16501d81f3fc85591b837bf06b42d/Cu_les_son_las_condiciones_para_que_la_promoci_n_sea_v_lida.png)
 
 # 4. Restricciones y limitaciones de uso
 
@@ -117,4 +123,4 @@ En esta sección se proporciona información importante sobre las condiciones y 
 - **Solo para los mismos ítems:** si se activa esta opción, la promoción solo se aplica si se alcanza la cantidad mínima de ítems (previamente registrados) con el mismo SKU en el carrito. Si la opción está desactivada, la promoción se aplicará incluso cuando se agregue la cantidad mínima de ítems en el carrito, independientemente de si los SKU son diferentes o iguales.
 - **Aplicar con otras promociones:** permite aplicar esta promoción en el carrito simultáneamente con otras promociones que ofrezcan el mismo tipo de descuento.
 
-![Restricciones y limitaciones de uso](https://images.ctfassets.net/alneenqid6w5/71kLc3PWSLecGA49Iytuyd/9f8d369b64e79bc40aad64c2464112c8/Restricciones_y_limitaciones_de_uso.png)
+![Restricciones y limitaciones de uso](//images.ctfassets.net/alneenqid6w5/71kLc3PWSLecGA49Iytuyd/9f8d369b64e79bc40aad64c2464112c8/Restricciones_y_limitaciones_de_uso.png)

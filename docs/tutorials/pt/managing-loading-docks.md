@@ -17,7 +17,9 @@ subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 
 A doca é uma das etapas logísticas da sua loja. Ela é um ponto intermediário entre o estoque e a transportadora, funcionando como área de escoamento de produtos. As docas recebem itens vindos de estoques ou centros de distribuição, e entrega às transportadoras para que a entrega seja feita ao destinatário final. 
 
->ℹ️ Para saber mais sobre o que é uma doca para a VTEX, consulte o artigo de [Doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj).
+<div class="alert alert-info">
+Para saber mais sobre o que é uma doca para a VTEX, consulte o artigo de <a href="https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj">Doca</a>.
+</div>
 
 Este artigo contém as informações necessárias para:
 
@@ -28,18 +30,17 @@ Este artigo contém as informações necessárias para:
 
 É importante saber que para ter uma doca configurada corretamente é preciso: criar a doca, preencher os campos de cadastro (que determinaram horário de funcionamento, prioridade), e também associar a doca a [política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE), ao estoque e a [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
 
->⚠️ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:
-> <body>
->
-> [Política Comercial;](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
->
-> 2. [Política de Envio;](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140)
->
-> Doca;
->
-> Estoque.
->
-> </body>
+<div class="alert alert-warning">
+A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:
+<body>
+<ol>
+<li><a href="https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV">Política Comercial;</a></li>
+  <li><a href="https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140">Política de Envio;</a></li>
+<li>Doca;</li>
+<li>Estoque.</li>
+</ol>
+</body>
+</div>
 
 ## Cadastrar
 

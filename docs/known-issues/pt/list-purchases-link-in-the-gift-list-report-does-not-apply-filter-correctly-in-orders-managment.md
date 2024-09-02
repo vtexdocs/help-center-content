@@ -1,5 +1,5 @@
 ---
-title: "Link 'Listar Compras' no relatório de lista de presentes não aplica o filtro corretamente no Gerenciamento de Pedidos"
+title: 'Link "Listar Compras" no relatório de lista de presentes não aplica o filtro corretamente no Gerenciamento de Pedidos'
 id: 5p7nqrzUqIK88cYkkOqMMG
 status: PUBLISHED
 createdAt: 2017-04-03T19:36:10.117Z

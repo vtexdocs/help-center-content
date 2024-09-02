@@ -18,7 +18,9 @@ internalReference: 872697
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o Histórico de assinatura na área Minha assinatura não exibe os eventos em uma ordem predefinida, portanto, pode mostrar os eventos em ordem não cronológica;

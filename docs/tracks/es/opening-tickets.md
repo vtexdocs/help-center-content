@@ -20,9 +20,11 @@ El acceso a una cuenta VTEX te permite entrar al [dashboard de soporte](https://
 - Accediendo a cualquier página del [Help Center](https://help.vtex.com/es/) y haciendo clic en `Soporte` en la parte superior de la página o en `Entrar en contacto`, en la parte inferior.
 - Accediendo al Admin VTEX, haciendo clic en el ícono de la interrogación `?` del **Centro de información** y eligiendo la opción **Habla con nuestros expertos**.
 
-![Support imagem 1 - ES](https://images.ctfassets.net/alneenqid6w5/75ezzwg9iant6cmq04FhTz/0ac7e761404016450b146bfc8fabfa67/support__imagem1_ES.gif)
+![Support imagem 1 - ES](//images.ctfassets.net/alneenqid6w5/75ezzwg9iant6cmq04FhTz/0ac7e761404016450b146bfc8fabfa67/support__imagem1_ES.gif)
 
->ℹ️ Para obtener más información sobre cómo abrir un ticket y sobre los tipos existentes, consulta el artículo [ Abrir tickets para el soporte VTEX. ](https://help.vtex.com/es/tutorial/abrir-tickets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM)
+<div class = "alert alert-info">
+Para obtener más información sobre cómo abrir un ticket y sobre los tipos existentes, consulta el artículo <a href="https://help.vtex.com/es/tutorial/abrir-tickets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM"> Abrir tickets para el soporte VTEX. </a>
+</div>
 
 ## Tipos de soporte
 

@@ -17,7 +17,7 @@ subcategory: BBzMtJan1UTxC9QZODnlN
 
 The **Synonyms** page allows you to view and manage all Intelligent Search [synonyms](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) added to your store. You can access it in the VTEX Admin by clicking **Storefront > Intelligent Search > Synonyms**.
 
-![lista-sinonimos-en](https://images.ctfassets.net/alneenqid6w5/4pBgCLPNUXZ2XZFgBS4tC7/7803ace6dbfd3804a8decfa1081ee08e/lista-sinonimos-en.PNG)
+![lista-sinonimos-en](//images.ctfassets.net/alneenqid6w5/4pBgCLPNUXZ2XZFgBS4tC7/7803ace6dbfd3804a8decfa1081ee08e/lista-sinonimos-en.PNG)
 
 The page displays the following information in a table: 
 

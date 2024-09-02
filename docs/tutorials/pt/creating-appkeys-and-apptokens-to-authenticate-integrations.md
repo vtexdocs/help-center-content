@@ -17,7 +17,8 @@ subcategory: 4uqMnZjwBO04uWgCom8QiA
 
 Toda integração com APIs VTEX precisa se autenticar por meio de appKey e appToken.
 
->⚠️ Apenas o **usuário Master** da loja tem permissão para manipular tokens. O usuário Master é aquele cujo e-mail consta na seção **Contato** da tela Contas, no License Manager.
+<div class="alert alert-warning">Apenas o <b>usuário Master</b> da loja tem permissão para manipular tokens. O usuário Master é aquele cujo e-mail consta na seção <b>Contato</b> da tela Contas, no License Manager.
+</div>
 
 Para gerar essas chaves, siga os passos abaixo:
 
@@ -29,7 +30,8 @@ Para gerar essas chaves, siga os passos abaixo:
 6. Clique em __Gerar novos tokens__.
 7. No campo que é exibido em seguida, fica o token. Por uma questão de segurança, ele é __exibido apenas uma vez__. Copie esse token e guarde-o em local seguro.
 
->⚠️ **Atenção**: todo par de appKey e appToken, quando é criado, nasce sem estar vinculado a um perfil de acessso. Então, depois de criá-lo, é necessário vinculá-lo ao perfil de acesso desejado.
+<div class="alert alert-warning"><strong>Atenção</strong>: todo par de appKey e appToken, quando é criado, nasce sem estar vinculado a um perfil de acessso. Então, depois de criá-lo, é necessário vinculá-lo ao perfil de acesso desejado.
+</div>
 
 Para isso, siga os passos abaixo:
 

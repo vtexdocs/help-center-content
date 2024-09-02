@@ -18,7 +18,9 @@ internalReference: 741999
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los datos presentados en los informes de Analítica de Búsqueda Inteligente, relacionados con los términos resultantes del autocompletado, no coinciden con los términos Top searches presentados en autocompletado que se están mostrando al usuario cuando utiliza la barra de búsqueda en la parte frontal de la tienda. De acuerdo con el propósito del módulo, los últimos 10 términos presentados en el autocompletado deberían ser los mismos que los términos presentados en el informe Analytics, al seleccionar la opción Autocompletar.

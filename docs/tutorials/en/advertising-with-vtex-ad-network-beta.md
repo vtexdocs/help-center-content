@@ -3,8 +3,8 @@ title: 'Advertising with VTEX Ad Network (Beta)'
 id: 5WoXcJzHc7EQElpPjziqse
 status: PUBLISHED
 createdAt: 2024-04-23T18:57:14.559Z
-updatedAt: 2024-07-30T15:01:46.734Z
-publishedAt: 2024-07-30T15:01:46.734Z
+updatedAt: 2024-08-05T22:33:07.827Z
+publishedAt: 2024-08-05T22:33:07.827Z
 firstPublishedAt: 2024-04-23T19:16:43.333Z
 contentType: tutorial
 productTeam: Others
@@ -15,7 +15,9 @@ legacySlug: advertising-with-vtex-ad-network-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
->ℹ️ VTEX Ad Network is in beta, which means that we are working to improve. If you are already a VTEX customer and wish to adopt this functionality for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). If you are not yet a customer but are interested in this solution, please fill out the [contact form](https://vtex.com/us-en/contact/).
+<div class = "alert alert-info">
+<p>VTEX Ad Network is in beta, which means that we are working to improve. If you are already a VTEX customer and wish to adopt this functionality for your business, please contact <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Commercial Support</a>. If you are not yet a customer but are interested in this solution, please fill out the <a href="https://vtex.com/us-en/contact/">contact form</a>.</p>
+</div>
 
 [VTEX Ad Network (Beta)](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur) allows you to advertise your products on VTEX stores that have them listed in their catalog.
 
@@ -29,11 +31,21 @@ If you're already a **VTEX Ad Network** advertiser, check this article to learn 
 - [Tracking your campaigns](#tracking-your-campaigns)
 - [Viewing more details by campaign and product](#viewing-more-details-by-campaign-and-product)
 
+<div class="alert alert-info">
+<p>Ad Network provides records of changes to campaigns in <a
+href="https://help.vtex.com/en/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA">
+Audit</a>. For more information, see <a
+href="https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ#ad-network">
+  the list of events available in Audit</a>.</p>
+</div>
+
 ## Creating campaigns
 
 Follow the steps below to create a [VTEX Ad Network campaign](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campaigns):
 
->ℹ️ VTEX currently offers a single ad format: search results. Learn more about this [ad format](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#ad-format).
+<div class = "alert alert-info">
+VTEX currently offers a single ad format: search results. Learn more about this <a href="https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#ad-format">ad format</a>.
+</div>
 
 1. On VTEX Admin, go to **Storefront > Ad Network > Campaigns**.
 2. Click `Create campaign`.
@@ -43,12 +55,14 @@ Follow the steps below to create a [VTEX Ad Network campaign](https://help.vtex.
 6. Select the products you want to advertise using one of the following options:
 
    * __Search products by EAN:__ Search for products in your catalog by EAN.
-   * __Upload File:__ Upload a CSV file with a list of EAN codes, as in [this example](https://assets.ctfassets.net/alneenqid6w5/37tlx8GVGFxhOS48l73Ehz/75958f41bc4628e283ab1d8e060a01ab/teste-ads.csv). EANs are mandatory and bids are optional in the file.
+   * __Upload File:__ Upload a CSV file with a list of EAN codes, as in [this example](//assets.ctfassets.net/alneenqid6w5/37tlx8GVGFxhOS48l73Ehz/75958f41bc4628e283ab1d8e060a01ab/teste-ads.csv). EANs are mandatory and bids are optional in the file.
 
 7. In the *Budget, bid, and schedule* section, click the edit button <i class="fas fa-pencil-alt"></i>.
 8. Set the bid amount for each product. You can set each value individually.
 
-  >ℹ️ The bid for a product is the cost per click (CPC), i.e., the amount spent when a user clicks an ad. Learn more about [campaigns](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campaigns) and how an [auction](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#ad-priority) works.
+  <div class="alert alert-info">
+The bid for a product is the cost per click (CPC), i.e., the amount spent when a user clicks an ad. Learn more about <a href="https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campaigns">campaigns</a> and how an <a href="https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#ad-priority">auction</a> works.
+</div>
 
 9. Click `Save`.
 10. Set the campaign's total budget and end date.
@@ -96,7 +110,7 @@ You can pause a specific product in your campaign,  which will stop the correspo
 
 On the [VTEX Ad Network](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur) app's home screen, you'll also find details about ongoing campaigns.
 
-![vtex_ad_network_create_campaign_EN](https://images.ctfassets.net/alneenqid6w5/3b6zZAI4R3cC9Jd1rGPwtn/353d1cb7a0d73b40594ec358a5ecbffa/vtex_ad_network_create_campaign.png)
+![vtex_ad_network_create_campaign_EN](//images.ctfassets.net/alneenqid6w5/3b6zZAI4R3cC9Jd1rGPwtn/353d1cb7a0d73b40594ec358a5ecbffa/vtex_ad_network_create_campaign.png)
 
 At the top of the page, you'll find aggregated data:
 
@@ -119,7 +133,9 @@ Below you will find a table with details about each campaign:
 - **Budget:** Total budget.
 - **Remaining:** Budget still available at the moment.
 
->ℹ️ Learn more about [sales attribution to ads](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#attribution-window).
+<div class = "alert alert-info">
+Learn more about <a href="https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#attribution-window">sales attribution to ads</a>.
+</div>
 
 You can filter the table data using the following options:
 
@@ -149,5 +165,7 @@ You'll find a table below the aggregated data detailing each product's performan
 - **ROAS:** Return on advertising spend.
 - **Remaining:** Budget still available at the moment.
 
->ℹ️ Learn more about [sales attribution to ads](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#attribution-window).
+<div class = "alert alert-info">
+Learn more about <a href="https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#attribution-window">sales attribution to ads</a>.
+</div>
 

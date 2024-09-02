@@ -26,7 +26,8 @@ Manual sorting of collections doesn't work as expected. There are two ways to so
 
 In both cases, the system supports sorting up to **30** SKUs of the collection. When the collection has more than 30 SKUs, all spare SKUs will be listed BEFORE those positioned between 1 and 30.
 
->ℹ️ This behavior is observed in all VTEX stores, including those developed using VTEX IO. Additionally, the sorting order provided by collections is not used by VTEX Intelligent Search.
+<div class="alert alert-info">
+  <p>This behavior is observed in all VTEX stores, including those developed using VTEX IO. Additionally, the sorting order provided by collections is not used by VTEX Intelligent Search.</p></div>
 
 
 ## Simulation

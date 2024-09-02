@@ -19,7 +19,9 @@ When a seller uses a marketplace to sell their products, sometimes there is a di
 
 To optimize the processing of orders with price difference errors, you can use the Order authorization flow and [configure a Price Divergence rule](https://help.vtex.com/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe). In the VTEX Admin, go to **Store Settings > Orders > Order Authorization**, or type **Order Authorization** in the search bar at the top of the page.
 
->⚠️ Once the Price Divergence rule is created, it is applied to all marketplaces.
+<div class="alert alert-warning">
+Once the Price Divergence rule is created, it is applied to all marketplaces.
+</div>
 
 The Price Divergence rule is composed of one or more order authorization rules. Each authorization rule corresponds to a percentage range of the order price and can vary from 0% to 100%. You must associate one of three actions with each authorization rule:
 
@@ -27,11 +29,13 @@ The Price Divergence rule is composed of one or more order authorization rules. 
 - **Automatically deny:** Orders with a price difference within the defined range are automatically rejected and are not integrated.
 - **Create a task in VTEX DO for approval:** For price differences within the defined range, the order is integrated but needs to be [manually approved](https://help.vtex.com/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#approving-orders-manually) by an authorized user.
 
-![price_divergence_rules_EN](https://images.ctfassets.net/alneenqid6w5/3eUHS2dcIUY5KiDshLpurc/813c44996850c4bd68a5ea4be1a92f41/price_divergence_rules_EN.png)
+![price_divergence_rules_EN](//images.ctfassets.net/alneenqid6w5/3eUHS2dcIUY5KiDshLpurc/813c44996850c4bd68a5ea4be1a92f41/price_divergence_rules_EN.png)
 
 When the [Price Divergence rule configuration](https://help.vtex.com/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe) was not made, orders with price divergence errors are automatically approved. This applies to VTEX marketplaces, external marketplaces, and certified connectors (partners), but not to [native connectors](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex).
 
->⚠️ When a seller is integrated with a native connector, Amazon, but has not [configured a Price Divergence rule](https://help.vtex.com/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe), orders with price difference errors remain pending until the rule is created. You can track them in your VTEX Admin by clicking on **Marketplace > Connections > Orders**.
+<div class="alert alert-warning">
+When a seller is integrated with a native connector, Amazon, but has not <a href="https://help.vtex.com/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe">configured a Price Divergence rule</a>, orders with price difference errors remain pending until the rule is created. You can track them in your VTEX Admin by clicking on <b>Marketplace > Connections > Orders</b>.
+</div>
 
 Once the Price Divergence rule is created, orders from integrations with native connectors that have a price difference will be displayed in [All Orders](https://help.vtex.com/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) page.
 
@@ -47,7 +51,9 @@ To create a Price Divergence rule, the user must have a Super Admin (Owner) or O
 
 You can track orders integrated using the Price Divergence rule in the VTEX Admin by clicking on **Orders > [All Orders](https://help.vtex.com/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi)**.
 
->ℹ️ It is important to regularly track orders in the **Orders** module. Orders that need to be manually approved remain in pending status until being approved by an authorized user.
+<div class = "alert alert-info">
+It is important to regularly track orders in the <b>Orders</b> module. Orders that need to be manually approved remain in pending status until being approved by an authorized user.
+</div>
 
 ### Learn more
 

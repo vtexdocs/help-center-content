@@ -18,7 +18,9 @@ internalReference: 915213
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al mirar el array de beneficios dentro del ProductContextProvider en el PDP de un producto podemos ver que no se devuelven todos los productos y se barajan los que se devuelven. Ambas listas de productos dentro de la promoción están juntas en el mismo array. Esto sólo ocurre cuando la promoción es del tipo Buy Together.

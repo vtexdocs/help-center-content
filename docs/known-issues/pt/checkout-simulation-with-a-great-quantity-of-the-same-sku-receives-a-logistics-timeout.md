@@ -18,7 +18,9 @@ internalReference: 330775
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Temos um erro no serviço de logística ao tentar simular uma compra com milhares de unidades da mesma SKU. Esse erro ocorre porque a solicitação para dividir o pacote leva muito tempo.

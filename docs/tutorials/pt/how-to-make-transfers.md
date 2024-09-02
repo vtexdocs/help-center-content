@@ -68,4 +68,6 @@ A mensagem informa o status - se foi concluída com sucesso ou se ocorreu algum 
 
 Contudo, essa não é a única forma de conferir essas informações. Se necessário, o lojista também pode consultá-las no módulo __Extrato Financeiro__. Na aba __“Consolidado”__, basta selecionar o recebimento desejado para visualizar os detalhes.
 
->ℹ️ Assim como em operações bancárias, a transferência solicitada pode ser negada no caso em que o lojista alcança o limite de sua conta. Caso necessário, o aumento de limite pode ser solicitado por meio de um ticket na plataforma de atendimento VTEX.
+<div class="alert alert-info">
+Assim como em operações bancárias, a transferência solicitada pode ser negada no caso em que o lojista alcança o limite de sua conta. Caso necessário, o aumento de limite pode ser solicitado por meio de um ticket na plataforma de atendimento VTEX.
+</div>

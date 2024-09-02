@@ -17,7 +17,9 @@ subcategory:
 
 # FAQ - Segurança (conteúdo restrito)
 
->❗ Não compartilhe as informações desta FAQ com usuários que não possuem acesso ao Admin VTEX.
+<div class="alert alert-danger">
+  <p>Não compartilhe as informações desta FAQ com usuários que não possuem acesso ao Admin VTEX.</p>
+</div>
 
 Para apoiar as avaliações de risco de seus clientes, a VTEX disponibiliza páginas de FAQ com as principais perguntas e respostas relacionadas à estrutura e à segurança da plataforma. Este conteúdo é restrito a usuários com acesso ao Admin VTEX. As perguntas e respostas de teor público estão disponíveis na [FAQ - Segurança](https://help.vtex.com/pt/tutorial/risk-assessment--4K97IpqkpCpDYsZOSxtfkX) no VTEX Help Center.
 

@@ -18,7 +18,9 @@ internalReference: 793274
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, no es posible subir artículos al nuevo módulo de colecciones con una lista que tenga más de 1000 SKUs, ya que el proceso se agotará.

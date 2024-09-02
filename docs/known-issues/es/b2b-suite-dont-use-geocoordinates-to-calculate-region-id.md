@@ -18,7 +18,9 @@ internalReference: 1055033
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Es posible utilizar tarifas de envío utilizando códigos postales o geocoordenadas, pero las Organizaciones B2B utilizan sólo códigos postales para calcular los ID de región. Si una cuenta tiene geolocalización (polígonos) registrada en sus tarifas de envío, los productos se mostrarán como no disponibles en el escaparate.

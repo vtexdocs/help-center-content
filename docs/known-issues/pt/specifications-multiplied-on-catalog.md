@@ -18,7 +18,9 @@ internalReference: 919761
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O marketplace pode aprovar produtos enviados por vendedores no módulo Received Skus.

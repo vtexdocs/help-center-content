@@ -1,5 +1,5 @@
 ---
-title: "Checkout UI unselects the 'Schedule all' toggle after refreshing the page"
+title: 'Checkout UI unselects the "Schedule all" toggle after refreshing the page'
 id: 28TIselp0EzU3iSD4kLJgX
 status: PUBLISHED
 createdAt: 2023-04-04T21:08:55.937Z

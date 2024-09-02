@@ -29,9 +29,10 @@ Para ativar todos os SKUs utilizando o Admin VTEX, siga os passos abaixo:
 1. Acesse a URL  `https://{accountName}.myvtex.com/admin/site/productskuactivateall.aspx `.
 2. Clique em `Ativar todos os SKUs`.
 
->⚠️ SKUs cadastrados com dados inválidos não terão a opção de *Ativar o SKU se possível* ativada.
->
-> Caso nem todos os SKUs tenham sido marcados com a opção de *Ativar o SKU se possível*, repita o processo descrito acima.
+<div class="alert alert-warning">
+<p>SKUs cadastrados com dados inválidos não terão a opção de <em>Ativar o SKU se possível</em> ativada.</p>
+<p>Caso nem todos os SKUs tenham sido marcados com a opção de <em>Ativar o SKU se possível</em>, repita o processo descrito acima.</p>
+</div>
 
 ## Ativar um grupo de SKUs 
 

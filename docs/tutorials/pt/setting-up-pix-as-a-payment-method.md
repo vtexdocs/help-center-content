@@ -1,10 +1,10 @@
 ---
 title: 'Configurar Pix como meio de pagamento'
 id: 5sbNavMSJY4jyLmLKRHiOf
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-11-10T19:51:24.848Z
-updatedAt: 2023-03-26T21:45:19.252Z
-publishedAt: 2023-03-26T21:45:19.252Z
+updatedAt: 2024-08-02T16:51:31.068Z
+publishedAt: 2024-08-02T16:50:15.474Z
 firstPublishedAt: 2020-11-11T12:32:03.317Z
 contentType: tutorial
 productTeam: Financial
@@ -17,15 +17,19 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 O [Pix](https://vtex.com/pt-br/blog/produto/pix-no-e-commerce/ "Pix") é um meio de pagamento eletrônico específico do Brasil. Por meio dele, é possível o envio e o recebimento instantâneo de pagamentos entre diferentes bancos e instituições financeiras, 24h por dia, sete dias por semana.
 
->⚠️ O Pix **não é** um meio de pagamento suportado por clientes marketplace que realizem split de transação.
+<div class="alert alert-warning">
+O Pix <strong>não é</strong> um meio de pagamento suportado por clientes marketplace que realizem split de transação.
+</div>
 
 Para maiores informações sobre o PIX, acesse o [PIX FAQ](https://help.vtex.com/pt/tutorial/pix-faq--3lx7zCU2lQroTEBCYKYbo3 "o FAQ sobre as principais dúvidas relacionadas ao Pix"). 
 
 ## Configurar o Pix
 
-Para receber pagamentos por meio do PIX na VTEX, você precisa ter cadastrado uma afiliação de gateway capaz de processar esse meio de pagamento e realizar a configuração descrita abaixo:
+Para receber pagamentos por meio do PIX na VTEX, você precisa ter cadastrado um provedor capaz de processar este meio de pagamento e realizar a configuração descrita abaixo:
 
->⚠️ Caso o conector a ser escolhido (no **Passo 8.**) ainda não estiver cadastrado em sua loja, será exibida a mensagem “(Configurar)” após o nome do conector. Nesta situação, escolha outro conector disponível ou realize o seu cadastro. Para saber mais, acesse [Cadastrar afiliações de gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
+<div class="alert alert-warning">
+  Caso o conector a ser escolhido (no <b>Passo 8.</b>) ainda não estiver cadastrado em sua loja, será exibida a mensagem “(Configurar)” após o nome do conector. Nesta situação, escolha outro conector disponível ou realize o seu cadastro. Para saber mais, acesse <a href="https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#">Cadastrar provedores de pagamento e antifraude</a>.
+</div>
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Na aba __Condições de pagamento__, clique no botão __+__.

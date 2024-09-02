@@ -18,7 +18,9 @@ internalReference: 679598
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As ordens são independentes quando não compartilham a mesma transação de pagamento. Pedidos criados para preencher apenas o item de presente através de um vendedor diferente dos outros itens de uma compra não têm nenhuma transação de pagamento porque são gratuitos.

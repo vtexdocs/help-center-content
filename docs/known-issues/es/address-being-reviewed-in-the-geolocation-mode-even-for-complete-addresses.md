@@ -18,7 +18,9 @@ internalReference: 618724
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El botón "calcular envío", utilizado para la validación de la dirección en el modo de geolocalización (dirección insertada a través de Google Maps), se está mostrando incluso para direcciones completas. Debería mostrarse solo para las direcciones editadas -por cambio de información o por direcciones que estaban incompletas en un primer momento- para asegurar que son válidas, pero no para las direcciones completas.

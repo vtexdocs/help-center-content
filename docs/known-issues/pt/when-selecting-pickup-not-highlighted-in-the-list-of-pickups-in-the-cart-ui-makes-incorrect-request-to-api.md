@@ -18,7 +18,9 @@ internalReference: 529850
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando você seleciona uma opção de pickup que não está destacada, a IU faz uma solicitação incorreta à API, e com isso, a solicitação recebe um erro e não atualiza os dados desta pickup selecionada.

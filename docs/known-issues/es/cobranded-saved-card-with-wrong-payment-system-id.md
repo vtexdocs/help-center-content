@@ -18,7 +18,9 @@ internalReference: 833400
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A veces, cuando se paga un pedido con una tarjeta de marca compartida, la tarjeta guardada tiene el identificador del sistema de pago incorrecto. Cuando se produce este problema, la información de la tarjeta guardada se muestra en el método de pago incorrecto en la interfaz de usuario de la tarjeta.

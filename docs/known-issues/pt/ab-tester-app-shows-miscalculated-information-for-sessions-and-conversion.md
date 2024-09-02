@@ -18,7 +18,9 @@ internalReference: 865727
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O aplicativo AB Tester mostra informações mal calculadas para sessões e conversão ao executar testes, causando interpretação indesejada dos resultados. A funcionalidade de divisão do espaço de trabalho ainda funciona conforme o esperado.

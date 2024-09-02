@@ -1,5 +1,5 @@
 ---
-title: "El enlace '¿Por qué rellenar la Categoría Global VTEX?' en la configuración de la categoría sólo funciona abriéndose en una nueva pestaña"
+title: 'El enlace "¿Por qué rellenar la Categoría Global VTEX?" en la configuración de la categoría sólo funciona abriéndose en una nueva pestaña'
 id: 3u7aq2otUovQbO98lzjbus
 status: PUBLISHED
 createdAt: 2022-03-16T17:59:14.355Z
@@ -18,7 +18,9 @@ internalReference: 544034
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Enlace "¿Por qué llenar VTEX Categoría Global?" en la configuración de la categoría sólo funciona la apertura en una nueva pestaña. tratando de abrir con sólo hacer clic en el enlace se redirige a una página de error.

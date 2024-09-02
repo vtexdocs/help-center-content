@@ -18,7 +18,9 @@ internalReference: 900120
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al utilizar el servicio de impuestos, si hay una promoción nominal aplicada en el carrito y se produce una división de artículos, la solicitud de pago no tiene la promoción nominal aplicada, no permitiendo finalizar la compra, y se mostrará el mensaje "No se ha podido crear el pedido solicitado. Por favor, inténtelo de nuevo".

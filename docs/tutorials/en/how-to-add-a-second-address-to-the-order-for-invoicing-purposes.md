@@ -28,7 +28,9 @@ There are to ways to manipulate data from the `orderForm` to enter a second addr
 - Using the vtex.js library.
 - Through a request to VTEX’s Checkout API.
  
->⚠️ Although it is possible to create a custom interface superimposed on that of VTEX, containing the second address field, we do not recommend it.
+<div class="alert alert-warning">
+Although it is possible to create a custom interface superimposed on that of VTEX, containing the second address field, we do not recommend it.
+</div>
 
 ## vtex.js
 

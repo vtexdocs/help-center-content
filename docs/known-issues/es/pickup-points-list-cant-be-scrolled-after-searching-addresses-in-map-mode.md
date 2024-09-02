@@ -18,7 +18,9 @@ internalReference: 624646
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al buscar un punto de recogida en el carrito o en la caja mientras se encuentra en un diseño responsivo estrecho/de retrato (ancho inferior a 1024px) utilizando la vista de mapa, los resultados se presentarán en el modo de lista en lugar del propio mapa, y esta lista no funcionará (el usuario no podrá desplazarse hacia abajo).

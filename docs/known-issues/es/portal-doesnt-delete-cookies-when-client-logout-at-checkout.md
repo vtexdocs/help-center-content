@@ -18,7 +18,9 @@ internalReference: 417322
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En la caja de una tienda, tenemos una opción para cerrar la sesión.

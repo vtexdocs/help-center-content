@@ -18,7 +18,9 @@ internalReference: 922541
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En el área de Gestión de Vendedores el marketplace puede agrupar a sus vendedores como desee y gestionarlos en la pestaña de gestión de grupos.

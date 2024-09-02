@@ -18,7 +18,9 @@ internalReference: 537245
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los clics del Stepper Numérico no están funcionando como se esperaba - todavía se puede editar el cuadro de texto pero los botones no aumentan o disminuyen el número del cuadro de texto. Las llamadas de red parecen enviarse de la misma manera. El cliente reportó este problema al usar Windows 11 con Chrome. Algunas consideraciones:

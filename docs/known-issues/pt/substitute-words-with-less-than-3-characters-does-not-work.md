@@ -18,7 +18,9 @@ internalReference: 282500
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Palavras substitutas com menos de 3 caracteres não funcionam

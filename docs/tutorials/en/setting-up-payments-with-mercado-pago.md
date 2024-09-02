@@ -39,7 +39,9 @@ Below are the settings for __Mercado Pago__ connector.
 12. In the __Tipo de estorno__ field ("Refund type"), choose between the automatic process or the manual request (in this case, MercadoPago will send an e-mail notifying the pending refund).
 13. Click __Save__.
 
->⚠️ The step indicated in item **11** is performed in an environment outside VTEX. Therefore, such process can be updated without prior notice.
+<div class="alert alert-warning">
+The step indicated in item <strong>11</strong> is performed in an environment outside VTEX. Therefore, such process can be updated without prior notice.
+</div>
 
 ## Setting up MercadoPago payment condition
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings > Payment conditions**, or type **Settings** in the search bar at the top of the page. click on the  tab.

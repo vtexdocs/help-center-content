@@ -60,7 +60,9 @@ If the submission is successful, the SKU will also go through a cataloging proce
 
 After correct submission and after Buscapé's cataloging process has finished, all variations/SKUs of the same product are displayed together in the same grouping (provided it is correctly registered in VTEX).
 
->ℹ️ Ex: Blue Shirt (product) | S, M, L (variations/SKUs)
+<div class="alert alert-info">
+Ex: Blue Shirt (product) | S, M, L (variations/SKUs)
+</div>
 
 
 ### Product updates
@@ -82,7 +84,9 @@ The Buscapé statuses reflect product inventory changes in VTEX. This means that
 
 Inventories are sent for the first time along with the first products sent. From there, the ads' inventory in Buscapé is updated automatically, SKU by SKU, whenever there is any change in VTEX. The update only takes a few seconds to reflect in the marketplace, but inventory logs may take a few minutes to be displayed in VTEX Admin.
 
->ℹ️ To access the logs, click on the **Integrations** section of the Admin side menu. A list of options will open, and then you must click the **Inventory** option.
+<div class="alert alert-info">
+To access the logs, click on the <strong>Integrations</strong> section of the Admin side menu. A list of options will open, and then you must click the <strong>Inventory</strong> option.
+</div>
 
 
 ## 3. Price
@@ -92,17 +96,17 @@ However, the system does not notify affiliates when the end date of a price with
 
 For each SKU, the integration sends the __final price__ and the __list price__ (also known as `price from`) based on the response from the checkout simulation. Usually, the price that is sent is always the one determined by the trade policy associated with the integration. However, __Benefits__ and __Fixed prices__ may influence the final price.
 
->ℹ️ **Example 1:**
->
->
-> 
-> A benefit that offers a 10% discount for ticket payment.
+<div class="alert alert-info">
+<strong>Example 1:</strong>
+<br />
+A benefit that offers a 10% discount for ticket payment.
+</div>
 
->ℹ️ **Example 2:**
->
->
-> 
-> In the sales policy used in Buscapé, an SKU is priced at $ 10 and has a fixed price of $ 15. The value that the integration sends to the marketplace is $ 15.
+<div class="alert alert-info">
+<strong>Example 2:</strong>
+<br />
+In the sales policy used in Buscapé, an SKU is priced at $ 10 and has a fixed price of $ 15. The value that the integration sends to the marketplace is $ 15.
+</div>
 
 The integration sends prices according to the payment method. This means that if there are interests set for installment payments, the price sent to Buscapé will also bear interest.
 

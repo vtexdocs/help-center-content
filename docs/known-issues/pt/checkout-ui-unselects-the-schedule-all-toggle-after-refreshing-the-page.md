@@ -1,5 +1,5 @@
 ---
-title: "Checkout UI desmarca a opção 'Schedule all' após refrescar a página"
+title: 'Checkout UI desmarca a opção "Schedule all" após refrescar a página'
 id: 28TIselp0EzU3iSD4kLJgX
 status: PUBLISHED
 createdAt: 2023-04-04T21:08:55.937Z
@@ -18,7 +18,9 @@ internalReference: 784693
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Checkout UI desmarca a opção "Schedule all" na etapa de envio depois de atualizar a página, mesmo que a API ainda esteja selecionada. Este comportamento não tem impacto; o pedido terá a entrega programada selecionada.

@@ -18,7 +18,9 @@ internalReference: 960905
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em alguns cenários, como páginas de destino e páginas de coleção, os filtros adicionais não são limpos corretamente após clicar no botão "limpar filtro". O URL pode ir para filtros inválidos ou errados e a listagem de produtos pode ficar vazia ou com produtos inesperados.

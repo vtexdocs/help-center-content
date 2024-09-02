@@ -18,7 +18,9 @@ internalReference: 559458
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En un pedido en el que tenemos dos artículos idénticos, y uno de los artículos es devuelto, las tarifas de ambos artículos se muestran en la interfaz de usuario, en lugar de mostrar sólo las tarifas del artículo que fue devuelto en la interfaz de usuario. Esta información sobre las tarifas es meramente informativa, ya que lo que realmente se devuelve es lo que se rellena en la nota de devolución.

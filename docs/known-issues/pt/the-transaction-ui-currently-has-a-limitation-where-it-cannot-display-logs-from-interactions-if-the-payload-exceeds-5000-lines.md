@@ -18,7 +18,9 @@ internalReference: 778408
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a API /interações só pode recuperar um máximo de 5000 linhas do arquivo S3 onde todos os dados são armazenados. Isto pode criar um problema quando uma transação gera logs que excedem este limite.

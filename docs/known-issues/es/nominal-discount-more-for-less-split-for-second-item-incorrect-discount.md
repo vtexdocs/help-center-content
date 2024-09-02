@@ -18,7 +18,9 @@ internalReference: 1071119
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al configurar una promoción de descuento nominal que se acumula con la promoción más por menos, cuando hay un descuento en la promoción más por menos sólo para 1 de 2 artículos, se produce un descuento incorrecto en el artículo del segundo pedido debido a la división de la caja.

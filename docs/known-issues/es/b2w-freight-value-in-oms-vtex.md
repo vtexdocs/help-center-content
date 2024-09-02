@@ -18,7 +18,9 @@ internalReference: 671748
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Tenemos algunos casos en los que el valor del flete no aparece en los detalles de las transacciones de pago - OMS

@@ -18,7 +18,9 @@ internalReference: 797028
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se pueden seleccionar diferentes marcas blancas de vendedor para cumplir con los productos cuando se utilizan diferentes direcciones para la entrega y la recogida. Cuando se selecciona la opción de recogida y al cambiar a entrega, la interfaz de usuario sólo tiene en cuenta los artículos disponibles para calcular el nuevo ANS de entrega, aunque los productos estén disponibles. El precio de entrega sólo tendrá en cuenta los artículos seleccionados disponibles para la recogida.

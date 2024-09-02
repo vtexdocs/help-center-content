@@ -17,13 +17,15 @@ subcategory: 27t6x0lngvjI3bnUg5AgEO
 
 Projects is a feature in the VTEX Headless CMS that simplifies the management of multiple frontend projects like mobile apps, websites, and email marketing from one control panel.
 
-![Projects pages](https://images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/9d484d193a357cf0a0ac5e8a3aa16e9a/projects-one-en.gif)
+![Projects pages](//images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/9d484d193a357cf0a0ac5e8a3aa16e9a/projects-one-en.gif)
 
 Each project is customized with its own settings, content, and branding according to specific audiences or purposes. 
 
 In this guide, you will learn how to manage each frontend project of your store.
 
->⚠️ [ FastStore WebOps users](https://developers.vtex.com/docs/guides/faststore/1-onboarding-overview): Changes made through the Headless CMS in VTEX Admin, such as creating new content types, adding sections, or updating fields, may not automatically appear in the storefront once you publish them. This is a known issue, and you should contact your development team to implement the necessary workaround. For detailed instructions, refer to the [ WebOps app is not fully integrated with Headless CMS](https://help.vtex.com/known-issues/webops-app-is-not-fully-integrated-with-headless-cms--577fIocKB9BYYCOkN9dZfW) known issue article.
+<div class="alert alert-warning">
+  <a href="https://developers.vtex.com/docs/guides/faststore/1-onboarding-overview"> FastStore WebOps users</a>: Changes made through the Headless CMS in VTEX Admin, such as creating new content types, adding sections, or updating fields, may not automatically appear in the storefront once you publish them. This is a known issue, and you should contact your development team to implement the necessary workaround. For detailed instructions, refer to the <a href="https://help.vtex.com/known-issues/webops-app-is-not-fully-integrated-with-headless-cms--577fIocKB9BYYCOkN9dZfW"> WebOps app is not fully integrated with Headless CMS</a> known issue article.
+</div>
 
 ## Before you begin
 For the Headless CMS management, make sure the [resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings*`, and `CMS GraphQL API` are associated with your [user role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Otherwise, [create a custom user role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) and add these resources to it or add these resources to an existing user role.
@@ -31,7 +33,7 @@ For the Headless CMS management, make sure the [resources](https://help.vtex.com
 ## Overview
 To access **Projects**, go to the VTEX Admin and access **Storefront > Headless CMS**.
 
-![Projects overview](https://images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/c7ccee21dc6cae85a41886c49d9a3d8f/projects-two-en.png)
+![Projects overview](//images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/c7ccee21dc6cae85a41886c49d9a3d8f/projects-two-en.png)
 
 | Option         | Description                                           |
 | -------------- | ----------------------------------------------------- |
@@ -111,7 +113,7 @@ To archive a project, follow the steps below:
 1. Go to **Storefront > Projects**.
 2. Choose the project you want to archive and click **Settings** (⚙️) to open a modal.
 3. Click `Archive project` on the `General` page. A pop-up message will appear to confirm that you want to archive the project.
-![Archive project](https://images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/018e5e76e204d63fd86fdb9abe8ee82c/projects-three-en.png)
+![Archive project](//images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/018e5e76e204d63fd86fdb9abe8ee82c/projects-three-en.png)
 4. Click `Archive`. A message informing that the project was successfully archived will appear.
 
 If you want to restore an archived project, follow the steps in [Restoring a project](#restoring-the-project).

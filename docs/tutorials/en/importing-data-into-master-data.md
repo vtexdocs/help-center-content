@@ -29,13 +29,17 @@ Additionally, to update the existing data, you must export data and change them 
 
 Keep the value of column id empty, and a new entry will be created.
 
->⚠️ When entering data in the spreadsheet, make sure that the cell value format matches the format expected by the corresponding column. Format examples are number, text, or date.
+<div class="alert alert-warning">
+When entering data in the spreadsheet, make sure that the cell value format matches the format expected by the corresponding column. Format examples are number, text, or date.
+</div>
 
 ## How to upload the worksheet
 
 After exporting and editing the worksheet exported, it is time to import the data. Follow the steps below to perform this task.
 
->⚠️ Keep the same format of the worksheet (xls) for the import to be successful.
+<div class="alert alert-warning">
+Keep the same format of the worksheet (xls) for the import to be successful.
+</div>
 
 1. In the VTEX Admin, access **Store Settings** > **Storefront** > **Master Data**.
 2. Click on the **Applications** tab.
@@ -44,4 +48,4 @@ After exporting and editing the worksheet exported, it is time to import the dat
 5. Select the file.
 6. Click on the **Import** button at the bottom of the screen.
 
-![Importando](https://images.contentful.com/alneenqid6w5/3xkB2DzbqoeIsk2Qice8sM/71d3c7d0379e03a8641180ccbe97dc77/Importando-1.gif)
+![Importando](//images.contentful.com/alneenqid6w5/3xkB2DzbqoeIsk2Qice8sM/71d3c7d0379e03a8641180ccbe97dc77/Importando-1.gif)

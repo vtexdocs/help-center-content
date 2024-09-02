@@ -28,7 +28,9 @@ To configure holidays, follow the step-by-step below:
 4. Fill in the holiday's start date (in __Date__) as well as its __end date__. 
 5. Click on __Salvar__.
 
->⚠️ Holidays will only be considered for carriers having the "Carrier **does not deliver** on weekends" option enabled.
+<div class="alert alert-warning">
+  Holidays will only be considered for carriers having the "Carrier <strong>does not deliver</strong> on weekends" option enabled.
+</div>
 
 To enable a carrier's holiday feature, follow these steps:
 
@@ -39,7 +41,9 @@ To enable a carrier's holiday feature, follow these steps:
 5. Enable the __Carrier does not deliver on weekends__ options (either by clicking on the word "delivery" in "carrier delivery on weekends, thereby becoming "carrier does  not deliver on weekends", or by leaving it as it is in case the option already appears).
 6. Click on __Save__.
 
->ℹ️ You can set future holidays in advance, creating a Christmas holiday for the next few years for example.
+<div class="alert alert-info">
+You can set future holidays in advance, creating a Christmas holiday for the next few years for example.
+</div>
 
 ## How the estimated shipping date is calculated
 

@@ -18,7 +18,9 @@ internalReference: 961278
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, as APIs do Catálogo de SKU não estão retornando corretamente o nome de um tipo de serviço. Em vez disso, está sendo retornado o nome do valor do serviço.

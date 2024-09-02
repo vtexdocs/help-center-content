@@ -18,7 +18,9 @@ internalReference: 978571
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Nas contas em espanhol, fazer login no checkout por meio de "Atualizar informações de endereço selecionadas" após a identificação com um perfil completo faz com que alguns textos do resumo sejam traduzidos para o inglês.

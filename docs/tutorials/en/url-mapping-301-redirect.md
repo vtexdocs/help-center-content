@@ -15,7 +15,9 @@ legacySlug: url-mapping-301-redirect
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ This tutorial is for stores using Legacy CMS Portal. For other stores, the configuration is made in [Pages](https://help.vtex.com/en/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc). Please refer to [Managing URL redirects](https://help.vtex.com/en/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV) for more information.
+<div class="alert alert-warning">
+<p>This tutorial is for stores using Legacy CMS Portal. For other stores, the configuration is made in <a href="https://help.vtex.com/en/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc">Pages</a>. Please refer to <a href="https://help.vtex.com/en/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV">Managing URL redirects</a> for more information.</p>
+</div>
 
 URL mapping is used to redirect specific URLs to other URLs. This feature is useful when a store already has URLs indexed in search engines and wants to redirect them to more attractive ones without changing the SEO and avoiding indexing errors.
 
@@ -44,7 +46,9 @@ There are two ways to add and change URL mapping:
 - **Start date:** date and time when the mapping will no longer be considered.
 - **Active:** indicates if the mapping option is active or inactive.
 
->ℹ️ To map a URL to home (root directory), fill in the **Url to** field with a slash `/`.
+<div class="alert alert-info"> 
+  <p>To map a URL to home (root directory), fill in the <b>Url to</b> field with a slash <code>/</code>.</p>
+</div>
 
 ## Via spreadsheet
 
@@ -53,7 +57,7 @@ There are two ways to add and change URL mapping:
 3. Click on the **URL Builder** folder.
 4. Click on `Import` to import the spreadsheet.
 5. Download the spreadsheet template illustrated below by clicking on `Export`.
-![exemplo-planilha](https://images.contentful.com/alneenqid6w5/2Z63gJkADcR2gveT3lncQb/9bbd790becd99acb7b647537eb71c6a9/Screenshot_5.png)
+![exemplo-planilha](//images.contentful.com/alneenqid6w5/2Z63gJkADcR2gveT3lncQb/9bbd790becd99acb7b647537eb71c6a9/Screenshot_5.png)
 6. Fill in the [spreadsheet fields](#spreadsheet-fields).
 7. After populating the spreadsheet template, click on the `Localize` button on the import page to upload the template.
 8. Select the file you want to upload. The filename extension must be `.xls` in the format `Excel 97-2003 Workbook`.

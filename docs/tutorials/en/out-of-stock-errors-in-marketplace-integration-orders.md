@@ -28,7 +28,9 @@ Out-of-stock errors can occur for different reasons. Here are the most common:
 
 After resolving the error, the order must be manually reprocessed. In your Admin, go to **MARKETPLACE > Connections > Orders** and click on the order with the error. Click on the **Actions** button and choose the **Reprocess** option.
 
->ℹ️ If the error persists, please open a [VTEX support ticket](https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+<div class="alert alert-info">
+If the error persists, please open a <a href="https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM">VTEX support ticket</a>.
+</div>
 
 ### Learn more
 

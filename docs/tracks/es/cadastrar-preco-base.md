@@ -40,7 +40,9 @@ Si lo desea, es posible registrar un **precio de lista** asociado al precio base
 
 ## API REST
 
->⚠️ Las autenticaciones para las llamadas de API REST del módulo de Precios deben realizarse a través de AppKey y AppToken. Para comprender más, acceda a nuestro artículo sobre [cómo generar un Appkey y un AppToken para autenticar sus integraciones](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication)
+<div class="alert alert-warning">
+Las autenticaciones para las llamadas de API REST del módulo de Precios deben realizarse a través de AppKey y AppToken. Para comprender más, acceda a nuestro artículo sobre <a href="https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication">cómo generar un Appkey y un AppToken para autenticar sus integraciones</a>
+</div>
 
 Para registrar el **precio base** de un SKU, usted necesita enviar un __PUT__ para el siguiente endpoint:
 

@@ -19,6 +19,6 @@ Para acceder a la cuenta de la tienda, entre en el terminal y escriba `vtex logi
 
 El terminal solicitará el Account, es decir, el nombre de la cuenta de la tienda.
 
-![vtex login](https://images.contentful.com/alneenqid6w5/rs5YFeBAtiYG4KuwcOe8Y/91406e5bfbcbad8ce3efbb56b5a31848/vtex__login.png)
+![vtex login](//images.contentful.com/alneenqid6w5/rs5YFeBAtiYG4KuwcOe8Y/91406e5bfbcbad8ce3efbb56b5a31848/vtex__login.png)
 
 Después de insertar la cuenta, escriba la contraseña si es necesario y listo. Usted ha entrado en su cuenta!

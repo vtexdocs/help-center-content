@@ -18,7 +18,9 @@ internalReference: 548763
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El facebook de la tarjeta no guarda algunos ajustes.

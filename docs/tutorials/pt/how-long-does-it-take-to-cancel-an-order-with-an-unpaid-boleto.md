@@ -32,7 +32,9 @@ Alguns provedores de pagamento permitem que a validade de um boleto seja configu
 3. Na tela de configuração do provedor, verifique se existe algum campo disponível para configurar a validade do boleto e preencha com o valor desejado (em dias) .
 4. Clique em `Salvar`.
 
->⚠️ Caso o seu provedor de pagamento não permita modificar a validade de boleto no Admin VTEX, é necessário entrar em contato com o suporte técnico do provedor e verificar os procedimentos necessários para a configuração de validade do boleto.
+<div class="alert alert-warning">
+Caso o seu provedor de pagamento não permita modificar a validade de boleto no Admin VTEX, é necessário entrar em contato com o suporte técnico do provedor e verificar os procedimentos necessários para a configuração de validade do boleto.
+</div>
 
 ## Prazo para cancelamento da reserva dos produtos
 

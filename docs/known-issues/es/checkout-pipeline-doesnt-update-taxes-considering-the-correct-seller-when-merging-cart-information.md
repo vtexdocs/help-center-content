@@ -18,7 +18,9 @@ internalReference: 759842
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando hay 2 vendedores en el método "SellerElection", uno de ellos es seleccionado como el que tiene el precio más barato para la entrega, y el otro el precio más barato para la recogida en el punto, la fusión de la información del carrito no actualiza los impuestos al seleccionar la recogida en el punto, causando un error al finalizar la compra.

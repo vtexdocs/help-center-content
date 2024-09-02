@@ -18,7 +18,9 @@ internalReference: 473424
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os carrinhos criados a partir de pedidos existentes por meio da funcionalidade "substituir pedidos" apresentada na página "meus pedidos" estão restritos à promoção original, mas sem considerar que a mesma promoção pode se aplicar a diferentes contextos, como diferentes métodos de pagamento ou opções de envio.

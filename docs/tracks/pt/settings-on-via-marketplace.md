@@ -47,7 +47,9 @@ No campo Endereço URL, informe a seguinte rota de API, substituindo `{AccountNa
 
 `http://cnovaintegration.vtexcommercestable.com.br/api/viavarejointegration/pub/{{AccountName}}/freight?skuId={{skuId}},{{quantidade}}&zipcode={{cep}}`
 
->ℹ️ Se o seller utiliza a solução logística <a href= "https://suportemarketplace.viavarejo.com.br/pt-BR/lojista/artigo/?kbid=KA-01543&title=O%20que%20%C3%A9%20Envvias?#:~:text=O%20Envvias%20%C3%A9%20a%20plataforma,ele%20passa%20a%20ser%20automatizado!">Envvias</a>, deverá <a href= "https://suportemarketplace.viavarejo.com.br/pt-BR/lojista/artigo/?kbid=KA-01538&title=Como%20cadastro%20minha%20Tabela%20de%20Conting%C3%AAncia?&cat=Gest%C3%A3o%20de%20Fretes">cadastrar</a> a URL de frete como <a href= "https://suportemarketplace.viavarejo.com.br/pt-BR/lojista/artigo/?kbid=KA-01071&title=O%20que%20%C3%A9%20uma%20Tabela%20de%20Conting%C3%AAncia?&cat=Gest%C3%A3o%20de%20Fretes">tabela de contingência</a> ou abrir um chamado na Casas Bahia Marketplace para remover o Envvias e cadastrar a URL de Frete.
+<div class="alert alert-info">
+Se o seller utiliza a solução logística <a href= "https://suportemarketplace.viavarejo.com.br/pt-BR/lojista/artigo/?kbid=KA-01543&title=O%20que%20%C3%A9%20Envvias?#:~:text=O%20Envvias%20%C3%A9%20a%20plataforma,ele%20passa%20a%20ser%20automatizado!">Envvias</a>, deverá <a href= "https://suportemarketplace.viavarejo.com.br/pt-BR/lojista/artigo/?kbid=KA-01538&title=Como%20cadastro%20minha%20Tabela%20de%20Conting%C3%AAncia?&cat=Gest%C3%A3o%20de%20Fretes">cadastrar</a> a URL de frete como <a href= "https://suportemarketplace.viavarejo.com.br/pt-BR/lojista/artigo/?kbid=KA-01071&title=O%20que%20%C3%A9%20uma%20Tabela%20de%20Conting%C3%AAncia?&cat=Gest%C3%A3o%20de%20Fretes">tabela de contingência</a> ou abrir um chamado na Casas Bahia Marketplace para remover o Envvias e cadastrar a URL de Frete.
+</div>
 
 ## Cadastrar Integradora de Pedidos
 

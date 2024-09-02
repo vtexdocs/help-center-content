@@ -18,7 +18,9 @@ internalReference: 682152
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando você escolhe e diferente opção sku no modo de exibição SELECT em vez da opção padrão, ela apenas mostra "escolha e opção" em vez de marcar aquela que você escolher. Este comportamento só acontece em prateleiras no Firefox.

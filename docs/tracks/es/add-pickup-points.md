@@ -33,7 +33,7 @@ Siga el siguiente procedimiento para registrar un punto de recogida en su tienda
 4. Rellene los campos del formulario de punto de recogida. Para entender mejor el significado de cada campo, consulte la sección [Campos de registro](#campos-de-registro), abajo.
 5. Haga clic en el botón **Guardar cambios**
 
-![ES Cadastrar Ponto de Retirada GIF](https://images.ctfassets.net/alneenqid6w5/1tWiezGUaoTRohpM2m5241/f1dfb789d45d72d8054f0f4ccebe740b/ES_Cadastrar_Ponto_de_Retirada_GIF.gif)
+![ES Cadastrar Ponto de Retirada GIF](//images.ctfassets.net/alneenqid6w5/1tWiezGUaoTRohpM2m5241/f1dfb789d45d72d8054f0f4ccebe740b/ES_Cadastrar_Ponto_de_Retirada_GIF.gif)
 
 
 ### Campos de registro
@@ -79,7 +79,9 @@ Para subir una plantilla con los puntos de recogida, siga los pasos a continuaci
 ## API REST
 
 
->⚠️ Las autenticaciones para las llamadas de API REST del módulo de Logística se deben realizar vía  AppKey y AppToken. Para entender más, acceda a nuestro artículo sobre  [cómo generar un Appkey y un AppToken para autenticar sus integraciones](https://help.vtex.com/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones--43tQeyQJgAKGEuCqQKAOI2)
+<div class="alert alert-warning">
+Las autenticaciones para las llamadas de API REST del módulo de Logística se deben realizar vía  AppKey y AppToken. Para entender más, acceda a nuestro artículo sobre  <a href="https://help.vtex.com/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones--43tQeyQJgAKGEuCqQKAOI2">cómo generar un Appkey y un AppToken para autenticar sus integraciones</a>
+</div>
 
 Para registrar un **Punto de Recogida** por API, debe  enviar un __POST__ para el siguiente  endpoint:
 

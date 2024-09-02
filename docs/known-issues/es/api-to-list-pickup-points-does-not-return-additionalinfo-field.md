@@ -18,7 +18,9 @@ internalReference: 650714
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Nuestra API para listar los puntos de recogida por ubicación siempre devuelve `null` en el campo `additionalInfo`. Sin embargo, como estos datos normalmente provienen de la API de logística, estos datos están presentes en el orderForm cuando se realiza un pedido en la caja.

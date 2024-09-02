@@ -30,7 +30,7 @@ No Admin VTEX, siga os passos abaixo.
 4. Preencha os campos do formulário de produto. Para entender melhor o significado de cada campo, acesse nosso artigo sobre os [campos de cadastro de produto](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke).
 5. Clique em `Salvar` ou `Salvar e Cadastrar novo SKU`, caso queira adicionar SKUs associados a esse produto.
 
-![Catalogo - Cadastrar produto PT](https://images.ctfassets.net/alneenqid6w5/bdIAqfM86PlhwB3and8rX/48c5f7c1aa60306d9bdc114e1464c0aa/Catalogo_-_Cadastrar_produto_PT.gif)
+![Catalogo - Cadastrar produto PT](//images.ctfassets.net/alneenqid6w5/bdIAqfM86PlhwB3and8rX/48c5f7c1aa60306d9bdc114e1464c0aa/Catalogo_-_Cadastrar_produto_PT.gif)
 
 ## Planilha
 
@@ -40,4 +40,6 @@ Para cadastrar seus produtos por planilha, recomendamos que você cadastre ao me
 
 Para cadastrar um produto por API, use a chamada [Create Product](https://developers.vtex.com/vtex-rest-api/reference/post-product).
 
->ℹ️ Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo [Por que o produto não aparece no site?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) para entender como resolver esse problema.
+<div class="alert alert-info">
+Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo <a href="https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">Por que o produto não aparece no site?</a> para entender como resolver esse problema.
+</div>

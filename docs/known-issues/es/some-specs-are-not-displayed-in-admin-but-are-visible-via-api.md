@@ -18,7 +18,9 @@ internalReference: 418348
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunas especificaciones no se muestran en Admin, pero son visibles a través de la API.

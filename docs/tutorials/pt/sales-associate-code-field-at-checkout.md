@@ -20,7 +20,9 @@ Na VTEX, você pode criar um campo para registrar o código de vendedor no Check
 - Oferecer descontos exclusivos ao consumidor.
 - Administrar a performance de seus vendedores, extraindo dados como número de vendas / ticket médio por vendedor, ranking para comissionamento de vendas, entre outros.
 
->⚠️ O campo **código de vendedor** não substitui o campo **cupom de desconto** (nativo na plataforma VTEX). Ao realizar as configurações deste artigo, ambos poderão ser utilizados para oferecer descontos.
+<div class="alert alert-warning">
+  O campo <b>código de vendedor</b> não substitui o campo <b>cupom de desconto</b> (nativo na plataforma VTEX). Ao realizar as configurações deste artigo, ambos poderão ser utilizados para oferecer descontos.
+</div>
 
 Para criar o campo e inseri-lo na tela do Checkout de sua loja, três etapas são necessárias:
 
@@ -53,11 +55,13 @@ Após a criação da entidade *codigovendedor*, é necessário associá-la a uma
 1. No Admin VTEX, acesse **Promoções > Promoções**, ou digite **Promoções** na barra de busca no topo da página.
 2. Crie uma nova [promoção regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). Preencha as informações de **Dados gerais de promoção** e **A quais itens esta promoção será aplicada?** conforme desejado.
 
->ℹ️ Caso deseje utilizar o campo código de vendedor para oferecer desconto no valor da compra, preencha as informações em **Tipo e valor de de desconto?**.
+<div class="alert alert-info">
+  Caso deseje utilizar o campo código de vendedor para oferecer desconto no valor da compra, preencha as informações em <b>Tipo e valor de de desconto?</b>.
+</div>
 
 <blockquote><ui>3. Em <b>Quais as condições para a promoção ser válida?</b>, clique na opção <b>utm_campaign</b> e digite no campo <i>codigovendedor</i>.</ui>
 
-![utm campaign codigovendedor](https://images.ctfassets.net/alneenqid6w5/6jroNJYCvzunmfosErnmZF/1896457a0ea45bc20292377e8c963077/UTM_Campaign_codigovendedor.PNG)
+![utm campaign codigovendedor](//images.ctfassets.net/alneenqid6w5/6jroNJYCvzunmfosErnmZF/1896457a0ea45bc20292377e8c963077/UTM_Campaign_codigovendedor.PNG)
 
 <blockquote><ui>4. Em <b>Restrições e limitações de uso</b>, adicione as demais restrições disponíveis, caso desejar. Selecione a opção <b>Permitir acumular promoções</b>.</ui>
 
@@ -73,7 +77,9 @@ Adicionalmente, os seguintes passos devem ser realizados:
 
 1. Ao simular uma compra e inserir o código do vendedor na tela do Checkout, certifique-se que a chamada GET [Search Documents](https://developers.vtex.com/docs/api-reference/master-data-api-v2#get-/api/dataentities/-dataEntityName-/search) realize a busca na entidade `codigovendedor` e retorne todas as informações cadastradas do vendedor. Exemplo de chamada: https://{accountName}.{environment}.com.br/api/dataentities/codigovendedor/search?codigovendedor=12345.
 
->⚠️ O campo **status** deve retornar o valor **true**, indicando que o código do vendedor é válido.
+<div class="alert alert-warning">
+  O campo <b>status</b> deve retornar o valor <b>true</b>, indicando que o código do vendedor é válido.
+</div>
 
 <blockquote><ui>2. Efetue a chamada POST <a href="https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm">Update orderForm configuration</a> para incluir as seguintes informações no <a href="https://developers.vtex.com/docs/guides/orderform-fields">orderForm</a> de sua loja</ui>:
 
@@ -81,8 +87,10 @@ Adicionalmente, os seguintes passos devem ser realizados:
 
 <blockquote><blockquote>- <b>openTextField</b> (opcional): inserir observações ou comentários (ex. informações para filtros de comissionamento).
 
->⚠️ Somente a informação do nome do vendedor deve ser exibida na tela do Checkout.
+<div class="alert alert-warning">
+  Somente a informação do nome do vendedor deve ser exibida na tela do Checkout.
+</div>
 
 Após executar todas as etapas acima descritas, o campo **Código do Vendedor** estará disponível na tela do Checkout.
 
-![Código do vendedor](https://images.ctfassets.net/alneenqid6w5/kWi3gE5Q9gyHP2pa8XFpv/c44bb28d5954f7f015da9feb751dc8f4/Checkout_UI_-_PT_2.png)
+![Código do vendedor](//images.ctfassets.net/alneenqid6w5/kWi3gE5Q9gyHP2pa8XFpv/c44bb28d5954f7f015da9feb751dc8f4/Checkout_UI_-_PT_2.png)

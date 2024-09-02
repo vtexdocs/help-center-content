@@ -27,7 +27,7 @@ The table below describes the key metrics available in Insights. All metrics ref
 | Revenue        | Total amount determined by approved applications |
 | Average Ticket | Average revenue per order |
 
->⚠️ We do not have access to session and conversion data concerning purchase flows made outside of VTEX stores. Therefore, orders placed in marketplaces are not included in Insights metrics.
+<div class="alert alert-warning">We do not have access to session and conversion data concerning purchase flows made outside of VTEX stores. Therefore, orders placed in marketplaces are not included in Insights metrics.</div>
 
 ## Getting to know the interface
 

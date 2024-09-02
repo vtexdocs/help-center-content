@@ -20,8 +20,10 @@ At VTEX, stores can manually set the price of an item (SKU) available in the Che
 - **Access Profile**: Owner (Admin Super) or Call Center Operator (Telesales) 
 - **Permission**: Shopping Cart Full Access
 
->⚠️ The steps below must be performed on the <i>myvtex</i> domain of each store
->  ({accountName}.myvtex.com.br).
+<div class="alert alert-warning">
+The steps below must be performed on the <i>myvtex</i> domain of each store
+ ({accountName}.myvtex.com.br).
+</div>
 
 ## Changing the item price
 
@@ -32,7 +34,7 @@ After [enabling the functionality](https://developers.vtex.com/vtex-rest-api/doc
 3. Change the price to the desired value and press `ENTER`.
 4. Click `Close order`.
 
-![manualprice](https://images.ctfassets.net/alneenqid6w5/6lKNt1yT41wOQCRv5Yv6ge/56a551927294fedcaf127cfdb3a8f2a1/manualprice.gif)
+![manualprice](//images.ctfassets.net/alneenqid6w5/6lKNt1yT41wOQCRv5Yv6ge/56a551927294fedcaf127cfdb3a8f2a1/manualprice.gif)
 
 In addition to the configuration on the Checkout screen, the price of a product can also be modified through the [Change Price](https://developers.vtex.com/vtex-rest-api/reference/pricechange) API, learn more in [Setting the price of an item manually](https://developers.vtex.com/vtex-rest-api/docs/enable-the-manual-price#setting-the-price-of-an-item-manually).
 
@@ -42,5 +44,7 @@ The operational security of this functionality is based on controlling the acces
 
 After the order is closed, the manual price entered needs to be approved by the store administrator or a user with permission in the [Order Authorization system](https://help.vtex.com/en/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn).
 
->ℹ️ Once the manual price value has been validated, the order follows the normal invoicing flow.
+<div class = "alert alert-info">
+Once the manual price value has been validated, the order follows the normal invoicing flow.
+</div>
 

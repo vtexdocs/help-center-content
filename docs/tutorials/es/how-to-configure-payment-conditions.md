@@ -30,13 +30,15 @@ Una vez que hayas definido tu afiliación de gateway, para elegir cualquiera de 
 
 Además, hay la posibilidad de definir si el pago será a vista o en cuotas, con o sin intereses y las condiciones especiales.
 
->⚠️ Cualquier cambio en las condiciones de pago puede llevar hasta 10 minutos en aparecer en el checkout de su tienda.
+<div class="alert alert-warning">
+ Cualquier cambio en las condiciones de pago puede llevar hasta 10 minutos en aparecer en el checkout de su tienda.
+</div>
 
 En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de condición de pago.
 
 ### A vista
 
-![pagamento-a-vista es](https://images.ctfassets.net/alneenqid6w5/2nH3F7oSW4OMiMQKcoAWeM/a5a96ec62da667f4f853cfc70d2def29/pago-a-vista.png)
+![pagamento-a-vista es](//images.ctfassets.net/alneenqid6w5/2nH3F7oSW4OMiMQKcoAWeM/a5a96ec62da667f4f853cfc70d2def29/pago-a-vista.png)
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -48,11 +50,13 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 8. En el campo “A vista o en cuotas?”, seleccione A vista.
 9. Haga clic en __Guardar__.
 
->ℹ️ En el Paso 5. puede elegir otros métodos de pago como tarjetas de débito, cobranded, privado, pagarés, boletos, PIX, entre otros.
+<div class="alert alert-info">
+En el Paso 5. puede elegir otros métodos de pago como tarjetas de débito, cobranded, privado, pagarés, boletos, PIX, entre otros.
+</div>
 
 ### En cuotas sin interés
 
-![parcelamento-sem-juros es](https://images.ctfassets.net/alneenqid6w5/185SM0Kebg4S2a8IcysEsG/d0ec61a4b01dd19d2a9bcca5394d50a0/cuotas-sin-interes.png)
+![parcelamento-sem-juros es](//images.ctfassets.net/alneenqid6w5/185SM0Kebg4S2a8IcysEsG/d0ec61a4b01dd19d2a9bcca5394d50a0/cuotas-sin-interes.png)
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -69,7 +73,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 
 ### En cuotas con interés
 
-![parcelamento-com-juros es](https://images.ctfassets.net/alneenqid6w5/3ZdPenx28oK0yG4QyeIq0c/b7184b8eeeda1573eaa60cf167be0e2c/cuotas-com-interes.png)
+![parcelamento-com-juros es](//images.ctfassets.net/alneenqid6w5/3ZdPenx28oK0yG4QyeIq0c/b7184b8eeeda1573eaa60cf167be0e2c/cuotas-com-interes.png)
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -87,13 +91,15 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 14. Para elegir entre interés compuesto e interés simple, haga clic en __Interés compuesto aplicado. Cambiar__. Aparecerá una casilla de verificación que ofrece ambas opciones.
 15. Haga clic en __Guardar__.
 
-![Juros - es](https://images.ctfassets.net/alneenqid6w5/5DQndlL3ixGVYBKBOTsVM7/70c11c8cbf6fa5d088c381c34d63454b/Juros_-_es.png)
+![Juros - es](//images.ctfassets.net/alneenqid6w5/5DQndlL3ixGVYBKBOTsVM7/70c11c8cbf6fa5d088c381c34d63454b/Juros_-_es.png)
 
 #### Intereses Externos
 
 En algunos países, los intereses de las compras parceladas son cobrados directamente por la institución financiera. Para estos casos, es posible activar el botón __Intereses externos__. Este botón rellena con `null` el valor de los intereses en el JSON enviado al conector. Este valor `null` indica que los intereses serán cobrados posteriormente por la institución financiera. Para activar esta feature, basta hacer clic en el botón de __Intereses Externos__ en la configuración del pago en cuotas con interés.
 
->ℹ️ Atención: la funcionalidad de interés externo solo es válida para algunas afiliaciones de gateway (asegúrese de que esta opción esté disponible al registrar la afiliación deseada). Los pedidos realizados por afiliaciones que no soporten esta funcionalidad serán cancelados en el sistema.
+<div class="alert alert-info">
+  Atención: la funcionalidad de interés externo solo es válida para algunas afiliaciones de gateway (asegúrese de que esta opción esté disponible al registrar la afiliación deseada). Los pedidos realizados por afiliaciones que no soporten esta funcionalidad serán cancelados en el sistema.
+</div>
 
 ## Remover condición de pago
 
@@ -101,4 +107,4 @@ En algunos países, los intereses de las compras parceladas son cobrados directa
 2. En la pestana __Condiciones de pago__, haga clic en el condición de pago que desea eliminar.
 3. Haga clic en el icono de la papelera.
 
-![Remover condición de pago](https://images.ctfassets.net/alneenqid6w5/30AGmwCJOclqEqvcNPzuxV/76f4023f4e0262ebaefa8318e46330b3/remover_condicion_pago.png)
+![Remover condición de pago](//images.ctfassets.net/alneenqid6w5/30AGmwCJOclqEqvcNPzuxV/76f4023f4e0262ebaefa8318e46330b3/remover_condicion_pago.png)

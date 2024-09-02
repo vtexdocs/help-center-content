@@ -18,7 +18,9 @@ internalReference: 569563
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La presentación de las variaciones de SKU en el PLP se limita a las variaciones disponibles independientemente de la configuración de la prop skusFilter. Según nuestro análisis, search-graphql no está entregando todas las variaciones según el retorno de la API, por lo que el ProductContextProvider no recibe todas las variaciones.

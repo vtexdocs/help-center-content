@@ -21,7 +21,9 @@ You can create up to __10 promotions__ of this type, with a __limit of 100 SKUs_
 
 As it's a benefit, the prices registered at maximum prices can not be higher than the product's price.
 
->⚠️ **Attention:** In order for the Maximum price per item to work, you must **choose a payment method**.
+<div class="alert alert-warning">
+<strong>Attention:</strong> In order for the Maximum price per item to work, you must <strong>choose a payment method</strong>.
+</div>
 
 ## General promotion data
 
@@ -40,7 +42,9 @@ As it's a benefit, the prices registered at maximum prices can not be higher tha
 - __Price:__ Set here the maximum price at which the product will be sold. You can only set the maximum price for one item at a time. To add products to the promotion, click the __+__ button.
 - __Payment system__: Select the payment methods that should activate the promotion.
 
->ℹ️ You can import a list of SKUs, which must be saved in an .xls file, with each ID on a different line, followed by the corresponding maximum price. To see a template, click the **Example spreadsheet download** link.
+<div class="alert alert-info">
+You can import a list of SKUs, which must be saved in an .xls file, with each ID on a different line, followed by the corresponding maximum price. To see a template, click the <strong>Example spreadsheet download</strong> link.
+</div>
 
 ## Conditions for the promotion to be valid
 

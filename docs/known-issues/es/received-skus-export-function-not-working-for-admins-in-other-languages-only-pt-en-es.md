@@ -18,7 +18,9 @@ internalReference: 668122
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La función de exportación para recuperar una hoja de cálculo con los skus pendientes, aprobados o rechazados por vendedor no funciona cuando el admin está configurado en cualquier otro idioma que no sea PT, EN, ES.

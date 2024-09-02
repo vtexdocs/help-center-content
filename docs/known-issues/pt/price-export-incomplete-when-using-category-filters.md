@@ -18,7 +18,9 @@ internalReference: 753466
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar exportar uma planilha de preços fixos usando os filtros de categoria, alguns skus não aparecem na planilha apesar de terem preços fixos. A quantidade usual de skus sendo devolvida é de 250.

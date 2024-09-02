@@ -18,7 +18,9 @@ internalReference: 599380
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Ajustar la consulta de envío cuando el pedido tiene más de un producto

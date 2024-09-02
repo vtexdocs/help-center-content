@@ -16,7 +16,9 @@ trackSlugPT: integracao-com-o-facebook
 
 Este guia orienta como integrar com o Facebook através do conector desenvolvido pela VTEX. A integração por conector nativo deve ser sua escolha padrão, pois representa mais eficiência e segurança.
 
->❗ É possível [configurar a integração por arquivo XML](https://help.vtex.com/pt/tutorial/configurando-xml--tutorials_242). Entretanto, é desaconselhável integrar simultaneamente por arquivo XML e conector nativo, pois isso acarreta conflitos e divergência de informações.
+<div class="alert alert-danger">
+É possível <a href="https://help.vtex.com/pt/tutorial/configurando-xml--tutorials_242">configurar a integração por arquivo XML</a>. Entretanto, é desaconselhável integrar simultaneamente por arquivo XML e conector nativo, pois isso acarreta conflitos e divergência de informações.
+</div>
 
 Antes de realizar a integração, é necessário que você tenha criado:
 
@@ -33,6 +35,8 @@ Os próximos passos para integrar sua loja VTEX ao Facebook são:
 
 Após a realização dessas etapas, a integração terá sido concluída. Entretanto, atributos de produtos não terão sido enviados.
 
->ℹ️ Se for do seu interesse enviar os atributos dos seus produtos para o Facebook, é necessário fazer um mapeamento por planilha das categorias e atributos. Este mapeamento é opcional, mas se realizado deve seguir todas as etapas descritas. Caso contrário, podem ocorrer erros na integração.
+<div class="alert alert-info">
+Se for do seu interesse enviar os atributos dos seus produtos para o Facebook, é necessário fazer um mapeamento por planilha das categorias e atributos. Este mapeamento é opcional, mas se realizado deve seguir todas as etapas descritas. Caso contrário, podem ocorrer erros na integração.
+</div>
 
 Os passos necessários para efetuar o mapeamento de categorias e atributos estão descritos adiante no artigo [Envio de produtos para o Facebook](https://help.vtex.com/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/41qzoa7TWIYTyIhABHdgzI).

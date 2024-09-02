@@ -30,13 +30,17 @@ A melhor maneira de obter a planilha de importação é [realizando a exportaç�
 
 Deixe o valor da coluna id vazio e será criado um novo registro.
 
->⚠️ Ao inserir os dados na planilha, certifique-se que o formato dos valores nas células corresponde ao formato esperado pela respectiva coluna. Exemplos de formatos são número, texto ou data.
+<div class="alert alert-warning">
+Ao inserir os dados na planilha, certifique-se que o formato dos valores nas células corresponde ao formato esperado pela respectiva coluna. Exemplos de formatos são número, texto ou data.
+</div>
 
 ## Como subir a planilha
 
 Após a exportação e edição da planilha exportada, é hora de realizar a importação dos dados. Para isso, siga os pontos abaixo para realizar esta operação.
 
->⚠️ Mantenha o mesmo formato da planilha (xls) para realizar a importação com sucesso.
+<div class="alert alert-warning">
+Mantenha o mesmo formato da planilha (xls) para realizar a importação com sucesso.
+</div>
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Storefront** > **Master Data.**
 2. Clique na aba **Aplicações.**
@@ -45,4 +49,4 @@ Após a exportação e edição da planilha exportada, é hora de realizar a imp
 5. Escolha o arquivo.
 6. Clique no botão **Importar** no canto inferior da tela.
 
-![Importando](https://images.contentful.com/alneenqid6w5/3xkB2DzbqoeIsk2Qice8sM/71d3c7d0379e03a8641180ccbe97dc77/Importando-1.gif)
+![Importando](//images.contentful.com/alneenqid6w5/3xkB2DzbqoeIsk2Qice8sM/71d3c7d0379e03a8641180ccbe97dc77/Importando-1.gif)

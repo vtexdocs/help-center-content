@@ -18,7 +18,9 @@ internalReference: 776353
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há alguns casos em que o título da página está incorreto para lojas multilíngues em páginas como categoria, subcategoria e marcas, em que o caminho tem um valor e, ao examinar o título da página, ele tem um nome diferente que não corresponde ao esperado.

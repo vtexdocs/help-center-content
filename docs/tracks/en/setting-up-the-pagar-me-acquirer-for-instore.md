@@ -18,9 +18,13 @@ To allow transactions through card machines using inStore, you need an acquirer 
 
 __Pagar.me__ is an inStore certified sub-acquirer in Brazil.
 
->⚠️ If you want to use Pagar.me in a different country or if you want to use another acquirer that is not currently certified, you will need to build the integration with that acquirer’s application. To do so, refer to the article [Integrating inStore to a new payment acquirer](https://help.vtex.com/en/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod).
+<div class="alert alert-warning">
+If you want to use Pagar.me in a different country or if you want to use another acquirer that is not currently certified, you will need to build the integration with that acquirer’s application. To do so, refer to the article <a href="https://help.vtex.com/en/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod">Integrating inStore to a new payment acquirer</a>.
+</div>
 
->ℹ️ Pagar.me is currently supported only by **Android** systems, with **Gertec MOBIPIN** card machines.
+<div class="alert alert-info">
+Pagar.me is currently supported only by <b>Android</b> systems, with <b>Gertec MOBIPIN</b> card machines.
+</div>
 
 Before installing Pagar.me’s application, make sure you have completed the previous step of setting up the Payments module. If you have, follow the steps below to install and set up the Pagar.me acquirer for inStore.
 

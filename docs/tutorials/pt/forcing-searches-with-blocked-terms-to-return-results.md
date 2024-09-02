@@ -15,7 +15,9 @@ legacySlug: forcar-buscas-com-termos-bloqueados-a-retornarem-resultados
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
->⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+<div class = "alert alert-warning">
+  <strong>Atenção</strong>: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+</div>
 
 Para tornar as buscas dos clientes mais precisas, o buscador da VTEX ignora alguns termos que são muito comuns. Alguns exemplos são as palavras "com" e "todo", do português, "that" e "with", do inglês, e "hace" e "uno", do espanhol. [Veja aqui a lista completa de termos bloqueados](/pt/tutorial/por-que-o-buscador-da-vtex-ignora-alguns-termos-buscados).
 

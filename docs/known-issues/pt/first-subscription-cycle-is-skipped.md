@@ -18,7 +18,9 @@ internalReference: 528556
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O sistema de assinatura usa informações como a frequência de compra e a data do ciclo de assinatura para gerar um pedido de assinatura. No entanto, dependendo do fuso horário do consumidor e da hora em que o pedido é feito, o primeiro ciclo é ignorado e gerado somente no segundo mês.

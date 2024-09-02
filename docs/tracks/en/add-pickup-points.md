@@ -32,7 +32,7 @@ Follow the step-by-step below to add a pickup point in your store:
 
 
 
-![EN Cadastrar Pontos de Retirada GIF](https://images.ctfassets.net/alneenqid6w5/2vf3pXYddrDf1sybyoTon/efa6e8bc465fb5188c06b1d2deaa2eef/EN_Cadastrar_Pontos_de_Retirada_GIF.gif)
+![EN Cadastrar Pontos de Retirada GIF](//images.ctfassets.net/alneenqid6w5/2vf3pXYddrDf1sybyoTon/efa6e8bc465fb5188c06b1d2deaa2eef/EN_Cadastrar_Pontos_de_Retirada_GIF.gif)
 
 
 
@@ -74,7 +74,9 @@ To upload a spreadsheet containing pickup points, follow the steps below:
 
 ## API REST
 
->⚠️ Authentications for the Logisitics module API REST calls must be made using AppKey and AppToken. For more info, accesss our article on [how to create an Appkey and AppToken to authenticate your integrations](https://help.vtex.com/en/tutorial/create-appkey-and-apptoken-to-authenticate-integrations--43tQeyQJgAKGEuCqQKAOI2)
+<div class="alert alert-warning">
+Authentications for the Logisitics module API REST calls must be made using AppKey and AppToken. For more info, accesss our article on <a href="https://help.vtex.com/en/tutorial/create-appkey-and-apptoken-to-authenticate-integrations--43tQeyQJgAKGEuCqQKAOI2">how to create an Appkey and AppToken to authenticate your integrations</a>
+</div>
 
 To add a **Pickup Point** through API, you need to send a __POST__ to the following endpoint:
 

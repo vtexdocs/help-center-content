@@ -18,7 +18,9 @@ internalReference: 562472
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Um produto vendido por outro vendedor no catálogo do marketplace está disponível para ser vendido no canal de vendas desse vendedor.

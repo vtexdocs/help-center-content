@@ -18,7 +18,9 @@ internalReference: 1037765
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El caso más común es la transacción atascada en autorizada cuando debería estar aprobada, en este escenario el pedido no puede ser facturado.

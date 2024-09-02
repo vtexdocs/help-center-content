@@ -1,5 +1,5 @@
 ---
-title: "¿Por qué está mi pedido parado en  'Listo para preparar'?"
+title: '¿Por qué está mi pedido parado en  "Listo para preparar"?'
 id: frequentlyAskedQuestions_301
 status: PUBLISHED
 createdAt: 2017-04-27T22:38:27.319Z

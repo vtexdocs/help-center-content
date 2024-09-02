@@ -17,9 +17,10 @@ subcategory: 42hDtnYXHw5ExG6l19RP1l
 
 A importação de dados de clientes deve ser feita no Master Data. Para o envio de dados, use o artigo [Importando dados no Master Data](/pt/tutorial/importando-dados-no-master-data).
 
->❗ Este artigo se refere aos campos do Master Data v1 especificamente para as lojas do **Brasil**.
->
-> Você também pode conferir o guia sobre como [importar dados de clientes programaticamente com a API do Master Data v2](https://developers.vtex.com/docs/guides/import-customer-data).
+<div class="alert alert-danger">
+<p>Este artigo se refere aos campos do Master Data v1 especificamente para as lojas do <strong>Brasil</strong>.</p>
+<p>Você também pode conferir o guia sobre como <a href="https://developers.vtex.com/docs/guides/import-customer-data">importar dados de clientes programaticamente com a API do Master Data v2</a>.</p>
+</div>
 
 O checkout trabalha com os dados das entidades CL (cliente) e AD (endereço).
 

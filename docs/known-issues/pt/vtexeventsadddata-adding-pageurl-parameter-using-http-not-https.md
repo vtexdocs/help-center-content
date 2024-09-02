@@ -18,7 +18,9 @@ internalReference: 348128
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 `vtex.events.addData` adicionando pageUrl Parameter utilizando http, não https

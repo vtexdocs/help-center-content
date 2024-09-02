@@ -18,7 +18,9 @@ internalReference: 957343
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao adicionar um item de um vendedor com um anexo na mesma solicitação de API, a validação do anexo ocorre somente no marketplace.

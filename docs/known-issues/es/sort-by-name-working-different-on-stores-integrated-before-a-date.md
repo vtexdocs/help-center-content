@@ -18,7 +18,9 @@ internalReference: 600468
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se ordena por nombre en el PLP desde un almacén puede tener comportamientos diferentes con palabras con letras mayúsculas y minúsculas y esto ocurre debido a un normalizador que se realiza en los almacenes para trabajar las letras todas como minúsculas y la ordenación no considera las palabras cameladas o mayúsculas.

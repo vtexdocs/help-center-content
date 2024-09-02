@@ -18,7 +18,9 @@ internalReference: 1048810
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O aplicativo `vtex.webops` não está totalmente integrado ao CMS headless, isso está relacionado aos repositórios do Github hospedados externamente e ao processo de publicação

@@ -18,7 +18,9 @@ internalReference: 1062858
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o aplicativo `admin-catalog-translations` para traduzir automaticamente o conteúdo do catálogo, o linkId pode ter problemas para ser traduzido quando tiver caracteres especiais, como `ç`. O `admin-catalog-translations` usa o `messages app` para fazer as traduções e algumas palavras podem não ser traduzidas corretamente devido a esses caracteres.

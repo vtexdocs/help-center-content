@@ -18,7 +18,9 @@ internalReference: 346163
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 Como en realidad la misma API crea y actualiza el almacén (Create/update warehouse: `POST https://{accountName}.{environment}.com.br/api/logistics/pvt/configuration/warehouses`), Logística identifica por el id qué acción debe realizarse, y como el id es sensible a mayúsculas y minúsculas, si la intención sería actualizar de id "TEST" pero se introduce el id "test", se crea un nuevo almacén, pero el inventario se replica para ambos porque el inventario es insensible a mayúsculas y minúsculas.
 

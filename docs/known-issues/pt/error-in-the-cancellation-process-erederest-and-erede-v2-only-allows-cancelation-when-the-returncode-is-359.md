@@ -18,7 +18,9 @@ internalReference: 740084
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os conectores legados, ERedeRest e E-Rede V2, iniciam os cancelamentos enviando uma solicitação ao provedor e esperam um "returnCode": "359" indicando um cancelamento bem-sucedido. Qualquer outro código é interpretado pelo nosso gateway como um status indefinido, fazendo com que a transação fique presa em um estado de cancelamento. Mesmo que, em alguns casos, a solicitação de reembolso/cancelamento seja bem-sucedida. Isso levou a repetidas tentativas de cancelamento, mesmo quando o cancelamento já havia sido processado pelo provedor.

@@ -24,7 +24,7 @@ A partir da página de perfis de acesso, você pode realizar as seguintes açõe
 * [Editar um perfil de acesso](#editar-um-perfil-de-acesso)
 * [Excluir um perfil de acesso](#excluir-um-perfil-de-acesso)
 
-![roles-pt](https://images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/943f5df380f3fb685bb369014b435454/roles-pt.png)
+![roles-pt](//images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/943f5df380f3fb685bb369014b435454/roles-pt.png)
 
 A página apresenta uma lista com todos os perfis de acesso cadastrados na conta e suas respectivas informações em uma tabela: 
 
@@ -38,7 +38,9 @@ A página apresenta uma lista com todos os perfis de acesso cadastrados na conta
 
 Em uma conta recém-criada, apenas o perfil *Owner (Admin Super)* estará listado. Este perfil dá ao usuário acesso irrestrito a todos os recursos nativos da plataforma.
 
->⚠️ A quantidade de usuários com o perfil *Owner (Admin Super)* deve ser a menor possível. Além disso, é preciso se certificar que haja visibilidade e controle de quem recebe esse acesso.
+<div class="alert alert-warning">
+  <p>A quantidade de usuários com o perfil <em>Owner (Admin Super)</em> deve ser a menor possível. Além disso, é preciso se certificar que haja visibilidade e controle de quem recebe esse acesso.</p>
+</div>
 
 ## Criar um perfil de acesso
 
@@ -56,7 +58,9 @@ Você pode editar os recursos e usuários relacionados a um perfil de acesso. Pa
 
 Para deletar um perfil de acesso, clique em `⫶` na linha do perfil de acesso que deseja excluir e, em seguida, em <i class="far fa-trash-alt"></i> `Excluir`.
 
->⚠️ Ao excluir um perfil de acesso, usuários associados a ele perderão acesso aos [recursos do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) relacionados ao perfil excluído, a não ser que tenham outros perfis de acesso com as mesmas permissões.
+<div class="alert alert-warning">
+  <p>Ao excluir um perfil de acesso, usuários associados a ele perderão acesso aos <a href="https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3">recursos do License Manager</a> relacionados ao perfil excluído, a não ser que tenham outros perfis de acesso com as mesmas permissões.</p>
+</div>
 
 ## Saiba mais
 

@@ -15,11 +15,9 @@ legacySlug: como-criar-usuario-webservice
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
->❗ Attention: Only SOAP methods related to the **catalog** are valid.
->
-> ** All the other Web Service methods will be deprecated as of 02/28/2017.**
->
-> Use the equivalent REST APIs, available in our [Developer Docs](//help.vtex.com/developer-docs/).
+<div class="alert alert-danger"><p>Attention: Only SOAP methods related to the <strong>catalog</strong> are valid.</p>
+<p><strong> All the other Web Service methods will be deprecated as of 02/28/2017.</strong></p>
+<p>Use the equivalent REST APIs, available in our <a href="//help.vtex.com/developer-docs/">Developer Docs</a>.</p></div>
 
 The creation of credentials for integrations with the Web Service must be done by License Manager, with the functionality of appKey and appToken.
 

@@ -22,7 +22,9 @@ As regras de preço permitem que você mude o preço de um SKU para apenas uma t
 
 Portanto, quando combinamos esta regra ao preço base de um SKU, temos um novo valor. Este será o __preço computado__ de um SKU dentro de uma tabela.
 
->ℹ️ O uso das regras de preço é **opcional**. Caso algum SKU não tenha nenhum modificador associado a ele, seu preço para a tabela de preços em questão será o preço base cadastrado.
+<div class="alert alert-info">
+O uso das regras de preço é <strong>opcional</strong>. Caso algum SKU não tenha nenhum modificador associado a ele, seu preço para a tabela de preços em questão será o preço base cadastrado.
+</div>
 
 As regras de preço funcionam a partir de __cinco condições de configuração__: 
 

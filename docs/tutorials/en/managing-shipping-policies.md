@@ -17,7 +17,7 @@ subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 
 [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) is a set of rules and settings that define the shipping options displayed to customers at checkout. The relationship between shipping policy, [warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), and [loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) makes up your [shipping strategy](https://help.vtex.com/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) on VTEX, as shown in the image below:
 
-![shipping_strategy_EN](https://images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/9f3db7829e85f1c910daf1b81bacd127/shipping_strategy_EN.png)
+![shipping_strategy_EN](//images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/9f3db7829e85f1c910daf1b81bacd127/shipping_strategy_EN.png)
 
 This article explains how to monitor and manage your shipping policies. In the VTEX Admin, under **Shipping > Shipping Strategy**, the **Shipping Policies** tab is where you can do the following:
 
@@ -35,7 +35,7 @@ You can also create shipping policies. Read the instructions in the [Creating a 
 
 In the VTEX Admin, by going to **Shipping > Shipping Strategy** in the **Shipping Policies** tab, you will see a list as shown in the image below:
 
-![shipping_policy_EN](https://images.ctfassets.net/alneenqid6w5/uiwwWTGlS60kPjMDLNfzY/68d66c99a43db25f4e297fbc238f0375/shipping_policy_EN.png)
+![shipping_policy_EN](//images.ctfassets.net/alneenqid6w5/uiwwWTGlS60kPjMDLNfzY/68d66c99a43db25f4e297fbc238f0375/shipping_policy_EN.png)
 
 The information displayed on this page is described in the table below:
 
@@ -52,7 +52,9 @@ The information displayed on this page is described in the table below:
 
 In the search box with the magnifying glass icon <i class="fas fa-search"></i>, you can search for shipping policies by name. Typing a character into the search bar immediately initiates the search. To clear the search, click the close icon <i class="far fa-times-circle"></i>.
 
->ℹ️ If the search does not return any results, check the spelling used in the search and if a filter has been selected.
+<div class = "alert alert-info">
+If the search does not return any results, check the spelling used in the search and if a filter has been selected.
+</div>
 
 ## Filtering shipping policies
 
@@ -101,7 +103,9 @@ To activate or deactivate a shipping policy, follow the steps below:
 
 To delete a shipping policy, follow the steps below:
 
->❗ Deleting a shipping policy is permanent and cannot be undone.
+<div class="alert alert-danger">
+Deleting a shipping policy is permanent and cannot be undone.
+</div>
 
 1. In the VTEX Admin, go to **Shipping > Shipping Strategy** or type **Shipping Strategy** in the search bar at the top of the page.
 2. In the **Shipping Policies** tab, in the row for the shipping policy you want, click the menu icon <i class="fas fa-ellipsis-v"></i>. You can [search](#searching-for-shipping-policies) for policies or [filter by](#filtering-shipping-policies) certain criteria.

@@ -20,4 +20,6 @@ As a result, customers who make a first purchase at the store do not have their 
 
 For customers already registered at the store, you can access __My Orders__ section and view all orders placed, including those closed through Visa Checkout.
 
->ℹ️ The customer email saved in VTEX must be the same as the one used for signing in to Visa Checkout so that orders can be viewed in **My Orders**.
+<div class="alert alert-info">
+The customer email saved in VTEX must be the same as the one used for signing in to Visa Checkout so that orders can be viewed in <strong>My Orders</strong>.
+</div>

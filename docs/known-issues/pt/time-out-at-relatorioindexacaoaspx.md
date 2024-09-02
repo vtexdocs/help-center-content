@@ -18,7 +18,9 @@ internalReference: 547844
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Contas com muitos produtos podem ter um tempo limite na tela do relatório de índice

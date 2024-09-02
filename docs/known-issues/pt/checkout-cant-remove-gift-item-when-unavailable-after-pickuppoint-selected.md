@@ -18,7 +18,9 @@ internalReference: 363885
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao utilizar um item em um carrinho com um benefício de promoção de presentes, o item dentro dele não pode ser removido se não estiver disponível após a seleção do ponto de coleta.

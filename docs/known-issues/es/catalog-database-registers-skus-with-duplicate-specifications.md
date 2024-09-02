@@ -18,7 +18,9 @@ internalReference: 536133
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En algunas situaciones aleatorias, la base de datos del catálogo permite duplicar los valores de una especificación en la misma SKU.

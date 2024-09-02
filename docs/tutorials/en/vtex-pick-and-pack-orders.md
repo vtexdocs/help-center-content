@@ -15,7 +15,9 @@ legacySlug: vtex-pick-and-pack-orders
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
->ℹ️ This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our [form](https://vtex.com/us-en/contact/) apontaby entering the product name in the `Comments` field.
+<div class = "alert alert-info">
+This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our <a href="https://vtex.com/us-en/contact/">form</a> apontaby entering the product name in the <code>Comments</code> field.
+</div>
 
 **Orders** is a VTEX Admin page that displays information on orders placed and managed by VTEX Pick and Pack.
 
@@ -26,7 +28,7 @@ This page allows you to:
 - [Filter orders](#filtering-orders)
 - [Export orders](#exporting-orders)
 
-![pick-and-pack-pedidos-EN](https://images.ctfassets.net/alneenqid6w5/7oIngXdaDwQP0CQSHlQaPO/3ffa21f585d6c45e374ac2fb9c42f8aa/image.png)
+![pick-and-pack-pedidos-EN](//images.ctfassets.net/alneenqid6w5/7oIngXdaDwQP0CQSHlQaPO/3ffa21f585d6c45e374ac2fb9c42f8aa/image.png)
 
 The page displays the following information in a table:
 
@@ -53,7 +55,7 @@ You can optimize order search by using the following tabs:
 
 You can also find more detailed information about each order by clicking the respective order in the table.
 
-![pick-and-pack-pedidos-2-EN](https://images.ctfassets.net/alneenqid6w5/2X9tIEvxpMKtTTCMC7NF9N/3f3ba4f4f9caac0b31d041afb33ce8b0/image.png)
+![pick-and-pack-pedidos-2-EN](//images.ctfassets.net/alneenqid6w5/2X9tIEvxpMKtTTCMC7NF9N/3f3ba4f4f9caac0b31d041afb33ce8b0/image.png)
 
 By selecting the desired order, you will see the following information:
 
@@ -88,5 +90,5 @@ You can export orders by following the steps below:
 1. Click `Export`.
 2. Select the information you want to export: `Package Report` or `Order Report`.
     * For the `Package Report`, select the date range you want to export, the shipping type, and the shipping method.
-![pick-and-pack-pedidos-3-EN](https://images.ctfassets.net/alneenqid6w5/4e3Zjkh9zuwmcPNe0CKJQU/391f380bce100cf14645602f81b3fc9f/image.png)
+![pick-and-pack-pedidos-3-EN](//images.ctfassets.net/alneenqid6w5/4e3Zjkh9zuwmcPNe0CKJQU/391f380bce100cf14645602f81b3fc9f/image.png)
 3.  Click `Export`.

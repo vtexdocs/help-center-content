@@ -3,8 +3,8 @@ title: 'Crear cupón'
 id: 7lMk3MmhNp2IEccyGApxU
 status: PUBLISHED
 createdAt: 2022-04-28T20:25:24.998Z
-updatedAt: 2023-04-14T21:08:17.586Z
-publishedAt: 2023-04-14T21:08:17.586Z
+updatedAt: 2024-08-14T17:40:13.842Z
+publishedAt: 2024-08-14T17:40:13.842Z
 firstPublishedAt: 2022-04-28T20:42:45.525Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -40,7 +40,7 @@ El formulario para crear o editar un cupón consta de las siguientes secciones:
 
 El panel superior del formulario de creación y edición del cupón, ilustrado a continuación, muestra el número de usos del cupón y el número de promociones vinculadas a él.
 
-![crear-cupon-1](https://images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/e17457a01186b62c3b011796d0167c67/crear-cupon-1.png)
+![crear-cupon-1](//images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/e17457a01186b62c3b011796d0167c67/crear-cupon-1.png)
 
 Al hacer clic sobre cualquier información del panel, tendrás acceso a la ventana __Ver detalles de uso__, donde aparecen los datos que se describen a continuación.
 
@@ -52,11 +52,11 @@ Al hacer clic sobre cualquier información del panel, tendrás acceso a la venta
 
     Si el cupón es sencillo, Esta sección muestra la lista de pedidos en que se usó el cupón y permite buscar por número de pedido. Al hacer clic en el número de un pedido, serás redirigido a la página de detalles del pedido en **Gestión de pedidos**.
 
-    ![ver-detalles-de-uso](https://images.ctfassets.net/alneenqid6w5/1bFOCXCpWwoXzJToacK3BM/5ce20bfb2a8105f006dc649682b5221a/ver-detalles-de-uso.png)
+    ![ver-detalles-de-uso](//images.ctfassets.net/alneenqid6w5/1bFOCXCpWwoXzJToacK3BM/5ce20bfb2a8105f006dc649682b5221a/ver-detalles-de-uso.png)
 
     Si se trata de un grupo de cupones, esta sección muestra la lista de códigos del grupo de cupones y permite buscar un código específico. Al hacer clic en un código, se accede a la lista de pedidos en los que se ha utilizado el código y se puede buscar un número de pedido. Al hacer clic en un número de pedido, accederá a la página de detalles del pedido en **Gestión de pedidos**.
 
-![selecciona-el-codigo-lotes-cupones](https://images.ctfassets.net/alneenqid6w5/25yE4tmkHYDm4MISaz9upH/7ea64df31330da8be8002f373451f262/selecione-o-codigo-grupo-es.PNG)
+![selecciona-el-codigo-lotes-cupones](//images.ctfassets.net/alneenqid6w5/25yE4tmkHYDm4MISaz9upH/7ea64df31330da8be8002f373451f262/selecione-o-codigo-grupo-es.PNG)
 
 ### General
 
@@ -69,7 +69,9 @@ La sección **General** muestra los campos que debes completar con la informaci�
     * **Número de cupones:** permite definir la cantidad de códigos que se generarán a partir del prefijo definido en **Código del cupón**. La cantidad máxima es de 1000.
     * **Exportar cupones:** botón que permite exportar los códigos del cupón múltiple. Esta opción está disponible solo cuando se editan cupones ya existentes.
 
->⚠️ Se debe definir al menos una de las UTM, es decir que es obligatorio rellenar la **Fuente UTM** o la **Campaña UTM**. También se pueden rellenar ambos campos.
+<div class="alert alert-warning">
+<p>Se debe definir al menos una de las UTM, es decir que es obligatorio rellenar la <strong>Fuente UTM</strong> o la <strong>Campaña UTM</strong>. También se pueden rellenar ambos campos.</p>
+</div>
 
 ### Restricciones
 
@@ -79,7 +81,9 @@ En esta sección del formulario, puedes configurar las siguientes restricciones 
 
   Al mantener desactivada esta opción, el cupón podrá usarse ilimitadamente.
 
-  >⚠️ En caso de que se cancele un pedido con un cupón de uso limitado, se recalculará el límite. Esto significa que los pedidos con status **Cancelado** no cuentan en el límite de veces que se podrá usar el cupón.
+  <div class="alert alert-warning">
+<p>En caso de que se cancele un pedido con un cupón de uso limitado, se recalculará el límite. Esto significa que los pedidos con status <strong>Cancelado</strong> no cuentan en el límite de veces que se podrá usar el cupón.</p>
+  </div>
 
 ## Cupones existentes
 
@@ -88,7 +92,12 @@ Si creaste un [lote de cupones](https://help.vtex.com/es/tutorial/cupones-beta--
 * <i class="far fa-clone"></i> **Copiar todos:** permite copiar los códigos generados a su área de transferencia. Luego, si lo deseas, puedes pegarlos en un editor de planillas como Excel o Google Sheets. También puedes copiar cada código haciendo clic sobre él.
 * **Exportar:** permite exportar los códigos generados a un archivo CSV. El archivo exportado tiene una columna con un código por línea.
 
-![cupons-gerados-es](https://images.ctfassets.net/alneenqid6w5/3Ar3vHIyynacQr9vJ5qUf3/8e8d4674d5df0558a76a9c3b1bc72af6/cupons-gerados-es.gif)
+![cupons-gerados-es](//images.ctfassets.net/alneenqid6w5/3Ar3vHIyynacQr9vJ5qUf3/8e8d4674d5df0558a76a9c3b1bc72af6/cupons-gerados-es.gif)
+
+### Generar cupones masivamente
+La [creación de cupones](#crear-cupón) para promociones se debe realizar a través del módulo Tasas y Promociones. Sin embargo, pueden presentarse casos en los que se necesita crear muchos cupones a la vez, debido a alguna campaña o acción de marketing.
+
+La creación masiva de cupones no se puede realizar por el Admin VTEX, solo por la [Promotions & Taxes API](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api). Vea cómo generar cupones de forma masiva en la guía [Creating and managing coupons with Promotions API](https://developers.vtex.com/docs/guides/creating-and-managing-coupons-with-promotions-api).
 
 ## Asociar el cupón con una promoción
 

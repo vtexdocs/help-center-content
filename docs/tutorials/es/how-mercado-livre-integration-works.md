@@ -96,7 +96,9 @@ Para poder integrarse, los campos de la plataforma VTEX a continuación deben es
 
 En el campo **Política comercial**, debes marcar la opción correspondiente a [política comercial](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw) vinculada a Mercado Libre.
 
->ℹ️ Para agregar imágenes nuevas en un anuncio que ya existe en Mercado Libre, deberás hacer todos los cambios directamente en el panel del marketplace. Mercado Libre solo acepta 12 imágenes por producto sin variación, y hasta 10 imágenes por producto con variación.
+<div class = "alert alert-info">
+Para agregar imágenes nuevas en un anuncio que ya existe en Mercado Libre, deberás hacer todos los cambios directamente en el panel del marketplace. Mercado Libre solo acepta 12 imágenes por producto sin variación, y hasta 10 imágenes por producto con variación.
+</div>
 
 ## 3. Precios
 

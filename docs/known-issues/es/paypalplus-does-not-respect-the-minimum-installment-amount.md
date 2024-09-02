@@ -18,7 +18,9 @@ internalReference: 370271
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Incluso con el importe mínimo de la cuota configurado en el término de pago de PayPalPlus, mostramos cuotas en el pago que no respetan esta configuración

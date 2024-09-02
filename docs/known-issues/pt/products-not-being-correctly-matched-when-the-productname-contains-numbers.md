@@ -18,7 +18,9 @@ internalReference: 762525
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o vendedor envia um sku para o marketplace, o sistema Matcher é responsável por consultar o catálogo do marketplace e verificar se já existe um produto semelhante aos skus do vendedor.

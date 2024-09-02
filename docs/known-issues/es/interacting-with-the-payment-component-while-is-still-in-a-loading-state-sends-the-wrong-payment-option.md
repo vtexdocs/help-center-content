@@ -18,7 +18,9 @@ internalReference: 952086
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el comprador cambia el método de pago mientras el componente de pago todavía se está cargando en la página, si el método de pago tiene opciones, el pago enviado al orderForm es incorrecto. Cuando se produce este comportamiento, el pedido no se crea y se muestra un mensaje para revisar la información de pago.

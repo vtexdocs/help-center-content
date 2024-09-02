@@ -1,5 +1,5 @@
 ---
-title: "A interface do usuário mostra 'Presentes escolhidos!' ao usar o recurso de substituição de pedidos"
+title: 'A interface do usuário mostra "Presentes escolhidos!" ao usar o recurso de substituição de pedidos'
 id: 4efm7L6hQhad98uYkjzrXO
 status: PUBLISHED
 createdAt: 2023-09-27T20:57:46.944Z
@@ -18,7 +18,9 @@ internalReference: 909137
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o recurso de substituição de pedidos, a interface do usuário do checkout mostra "Presentes escolhidos!" mesmo que não haja nenhuma promoção de presentes configurada.

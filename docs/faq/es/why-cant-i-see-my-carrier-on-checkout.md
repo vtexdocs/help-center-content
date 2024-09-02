@@ -26,7 +26,9 @@ Al momento de registrar una transportadora, es necesario incluir el [tipo de ent
 
 El checkout exhibe siempre la transportadora más rápida/barata entre las opciones de un mismo tipo de entrega. Así, una transportadora no aparece en el checkout cuando otra del mismo tipo tiene menor plazo/costo registrado.  
 
->⚠️ Cuando hay empate entre dos transportadoras, el criterio de desempate es tener el menor costo de envío.
+<div class="alert alert-warning">
+Cuando hay empate entre dos transportadoras, el criterio de desempate es tener el menor costo de envío.
+</div>
 
 ### Solución
 
@@ -77,4 +79,6 @@ Para mejorar la experiencia de compra del cliente, la funcionalidad **Optimizaci
 
 Desactive la función [Optimización de opciones de entrega en Checkout](https://help.vtex.com/es/tutorial/optimizacion-de-opciones-de-entrega-en-checkout--6DeGO9eBSFWe4XkoS0SxAB) en su tienda.
 
->⚠️ Al deshabilitar esta función en Admin VTEX, todas las opciones de entrega disponibles se mostrarán en el proceso de Checkout. Sin embargo, si la funcionalidad de [Entregas Múltiples](https://help.vtex.com/es/tutorial/division-de-pedidos-y-division-de-entregas--jQvzA6QgSd51e2p6bthoV#) está habilitada en la tienda y hay diferentes opciones de entrega entre los artículos seleccionados en el carrito, las **Opciones de entrega optimizadas** seguirán mostrándose. Es decir, se necesitará optimizar la entrega para manejar múltiples paquetes (artículos con diferentes opciones de entrega).
+<div class="alert alert-warning">
+Al deshabilitar esta función en Admin VTEX, todas las opciones de entrega disponibles se mostrarán en el proceso de Checkout. Sin embargo, si la funcionalidad de <a href="https://help.vtex.com/es/tutorial/division-de-pedidos-y-division-de-entregas--jQvzA6QgSd51e2p6bthoV#">Entregas Múltiples</a> está habilitada en la tienda y hay diferentes opciones de entrega entre los artículos seleccionados en el carrito, las <b>Opciones de entrega optimizadas</b> seguirán mostrándose. Es decir, se necesitará optimizar la entrega para manejar múltiples paquetes (artículos con diferentes opciones de entrega).
+</div>

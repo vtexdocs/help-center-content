@@ -15,7 +15,9 @@ legacySlug: promocoes-beta
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
->❗ Esta funcionalidade será descontinuada no dia 16 de maio de 2022. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
+<div class="alert alert-danger">
+<p>Esta funcionalidade será descontinuada no dia 16 de maio de 2022. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
+</div>
 
 A plataforma VTEX disponibiliza uma forma otimizada e prática de cadastrar diversos tipos de promoção que se adequam a diferentes cenários. Por meio de uma interface centralizada para gerenciamento de promoções, sua loja pode oferecer mais benefícios focados na atração e fidelização de clientes.
 
@@ -31,20 +33,20 @@ A página inicial apresenta a lista de promoções em uma grade que permite visu
 - Duplicar ou arquivar promoções através do botão <i class="fas fa-ellipsis-v"></i>
 - Gerenciar as condições da promoção clicando em qualquer parte da linha do grid (veja [Nova promoção](#nova-promocao) para detalhamento das condições da promoção).
 
-![promobeta1 acoes lista promocoes PT](https://images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/75ce08a03318ebe1cf47d3a01b5b7c62/promobeta1_acoes_lista_promocoes_PT.gif)
+![promobeta1 acoes lista promocoes PT](//images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/75ce08a03318ebe1cf47d3a01b5b7c62/promobeta1_acoes_lista_promocoes_PT.gif)
 
 A lista de promoções pode ser filtrada e ordenada conforme a sua necessidade. A filtragem da lista pode ser feita por *Efeito*, *Estado*, *Data início*, *Data fim* ou *Política comercial*.
 
-![promobeta2 filtros lista promocoes PT](https://images.ctfassets.net/alneenqid6w5/4UBGUJC4RTEA9alSeHmJlh/8bbb1eefeee7a0f8b4c6c8746249481f/promobeta2_filtros_lista_promocoes_PT.gif)
+![promobeta2 filtros lista promocoes PT](//images.ctfassets.net/alneenqid6w5/4UBGUJC4RTEA9alSeHmJlh/8bbb1eefeee7a0f8b4c6c8746249481f/promobeta2_filtros_lista_promocoes_PT.gif)
 
 A ordenação pode ser crescente ou decrescente a partir das informações básicas da promoção, bastando clicar sobre o título.
 
-![promobeta3 ordenacao lista promocoes PT](https://images.ctfassets.net/alneenqid6w5/60Z7afuYC3PqwTEPCVLVYd/1c13ddd465a09fe39561b685a1dbe35f/promobeta3_ordenacao_lista_promocoes_PT.gif)
+![promobeta3 ordenacao lista promocoes PT](//images.ctfassets.net/alneenqid6w5/60Z7afuYC3PqwTEPCVLVYd/1c13ddd465a09fe39561b685a1dbe35f/promobeta3_ordenacao_lista_promocoes_PT.gif)
 
 ## Nova promoção
 Na tela inicial, clique no botão **NOVA PROMOÇÃO** para acessar a página de criação de promoções, na qual você vai preencher uma variedade de campos para configurar as condições desejadas para a sua promoção.
 
-![promobeta4 botao novapromocao PT](https://images.ctfassets.net/alneenqid6w5/4Zp0NocPVWeIW44Ky8pWqo/e336ee376b77685d357999e5bd6430d2/promobeta4_botao_novapromocao_PT.png)
+![promobeta4 botao novapromocao PT](//images.ctfassets.net/alneenqid6w5/4Zp0NocPVWeIW44Ky8pWqo/e336ee376b77685d357999e5bd6430d2/promobeta4_botao_novapromocao_PT.png)
 
 As condições da nova promoção, bem como os campos da tela, estão separados por grupos, sendo eles:
 
@@ -97,7 +99,9 @@ Este efeito gera um desconto total sobre o valor do produto definido como brinde
 - __SKUs__: opção que permite selecionar o SKU que será o brinde da compra.
 - __Quantidade máxima por compra__: opção que permite selecionar a quantidade máxima de brindes que uma compra pode receber.
 
->⚠️ O produto **Brinde** também precisa ter um preço cadastrado, mesmo que seja dado de graça ao cliente.
+<div class="alert alert-warning">
+<p>O produto <b>Brinde</b> também precisa ter um preço cadastrado, mesmo que seja dado de graça ao cliente.</p>
+</div>
 
 #### Frete
 
@@ -126,7 +130,9 @@ Este efeito gera um desconto total sobre o valor do produto definido como brinde
   - __UTM Source.__
   - __Faixa de código postal.__
 
->ℹ️ Caso você queira vincular um <a href= "https://help.vtex.com/pt/tutorial/como-criar-cupom--tutorials_319?&utm_source=autocomplete">cupom já existente</a> à nova promoção, é necessário selecionar as opções de UTM Campaign e UTM Source e informar os códigos do cupom.
+<div class="alert alert-info">
+<p>Caso você queira vincular um <a href= "https://help.vtex.com/pt/tutorial/como-criar-cupom--tutorials_319?&utm_source=autocomplete">cupom já existente</a> à nova promoção, é necessário selecionar as opções de UTM Campaign e UTM Source e informar os códigos do cupom.</p>
+</div>
 
 ### Cupons
 Caso você queira criar um novo cupom associado à promoção, clique em __NOVO CUPOM__ e preencha os campos a seguir:
@@ -139,11 +145,15 @@ Ao clicar em __Opções Avançadas__, existe a possibilidade de configurar um ca
 
 - __Limitar uso__: opção que limita a quantidade de vezes que o cupom pode ser utilizado.
 
->⚠️ Para salvar o novo cupom, é necessário clicar no botão **OK**. Se a janela for fechada sem essa confirmação, o cupom não será criado.
+<div class="alert alert-warning">
+<p>Para salvar o novo cupom, é necessário clicar no botão <b>OK</b>. Se a janela for fechada sem essa confirmação, o cupom não será criado.</p>
+</div>
 
 Ao criar um novo cupom para a nova promoção, ele passará a ser exibido também na aba __Cupom__ do módulo __Promoções e Taxas__. Além disso, suas condições de UTM Source e/ou UTM Campaign serão vinculadas automaticamente à promoção nova no filtro __Clientes Específicos__.
 
->⚠️ Se as condições de UTM Source e UTM Campaign forem alteradas na configuração do filtro **Clientes Específicos** após a criação do cupom por esse fluxo, o cupom será excluído.
+<div class="alert alert-warning">
+<p>Se as condições de UTM Source e UTM Campaign forem alteradas na configuração do filtro <b>Clientes Específicos</b> após a criação do cupom por esse fluxo, o cupom será excluído.</p>
+</div>
 
 ### Restrições
 - __Limitar uso na sua loja__: limita a quantidade de vezes que a promoção pode ser aplicada na loja.

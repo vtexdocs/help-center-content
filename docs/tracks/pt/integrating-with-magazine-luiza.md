@@ -16,7 +16,9 @@ trackSlugPT: configurar-integracao-com-o-magazine-luiza
 
 Para utilizar o conector da Plataforma VTEX e começar a vender no Magalu, primeiramente o [seller](https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) precisa se [cadastrar no portal Magazine Luiza Marketplace](https://marketplace-vendamais.magazineluiza.com.br/). Após feito isso, será enviado para o email utilizado no cadastro, um login (Usuário API) e senha (Senha API).
 
->❗ Se você não adquirir o Usuário API e Senha API do cadastro da sua loja no Magazine Luiza, não será possível realizar a integração.
+<div class="alert alert-danger">
+Se você não adquirir o Usuário API e Senha API do cadastro da sua loja no Magazine Luiza, não será possível realizar a integração.
+</div>
 <br/>
 Para dar seguimento à integração, os próximos passos são:
 

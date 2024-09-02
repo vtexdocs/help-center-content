@@ -36,4 +36,6 @@ La página de Detalles del pedido permite orquestar esa operación realizando lo
 
 Después de que el reembolso sea procesado por el sistema, los ítems devueltos y su información aparecerán en la sección *Ítems devueltos*.
 
->ℹ️ El cambio de pedidos se realiza a través de API por el endpoint [Create order change](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) y la emisión de facturas actualizadas por el endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
+<div class = "alert alert-info">
+El cambio de pedidos se realiza a través de API por el endpoint <a href="https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes">Create order change</a> y la emisión de facturas actualizadas por el endpoint <a href="https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice">Order invoice notification</a>.
+</div>

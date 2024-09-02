@@ -26,7 +26,9 @@ Depois de acessar a aba você pode:
 * [Finalizar serviços](#finalizar-servicos);
 * [Deletar serviços](#deletar-servicos);
 
->ℹ️ Não recomendamos o cadastro de novos serviços por essa aba.  Para cadastrar serviços pela plataforma utilize a Importação de Serviços
+<div class="alert alert-info">
+Não recomendamos o cadastro de novos serviços por essa aba.  Para cadastrar serviços pela plataforma utilize a Importação de Serviços
+</div>
 
 ## Lista de Serviços
 
@@ -53,7 +55,9 @@ Pela lista você pode visualizar os detalhes de um serviço específico, alterá
     2. Clique em Salvar. 
 * **Exclusão do serviço:** ao clicar em `Excluir`. Na página Detalhes do Serviços clique em `Apagar` no canto superior esquerdo da tela.
 
->⚠️ Só é possível excluir e editar um serviço que possui status **Ativo**.
+<div class="alert alert-warning"> 
+Só é possível excluir e editar um serviço que possui status <b>Ativo</b>.
+</div>
 
 ## Filtros
 

@@ -18,7 +18,9 @@ internalReference: 524073
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em um mercado com uma relação multinível (MOI), quando um ponto de coleta é selecionado, o mercado retorna um erro de comunicação com o vendedor, impedindo o uso de pontos de coleta no mercado junto com esses vendedores.

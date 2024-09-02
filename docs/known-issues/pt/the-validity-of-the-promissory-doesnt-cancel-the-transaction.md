@@ -18,7 +18,9 @@ internalReference: 325491
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se um cliente faz um pedido com as notas a pagar e o pagamento não é feito, a transação não é cancelada pela porta de entrada após a data de vencimento do pagamento. Consequentemente, como a OMS não pode identificar o evento de cancelamento, o pedido não é cancelado.

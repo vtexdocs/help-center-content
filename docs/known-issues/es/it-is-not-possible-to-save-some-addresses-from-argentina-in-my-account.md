@@ -1,5 +1,5 @@
 ---
-title: "No es posible guardar algunas direcciones de Argentina en 'Mi cuenta'"
+title: 'No es posible guardar algunas direcciones de Argentina en "Mi cuenta"'
 id: 6kWZsPNLSDYgmJPDsQOO2w
 status: PUBLISHED
 createdAt: 2022-05-05T14:57:01.624Z
@@ -18,7 +18,9 @@ internalReference: 385410
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

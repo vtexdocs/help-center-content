@@ -95,7 +95,9 @@ Compre un suéter y obtenga 50% de descuento en una camisa de manga larga, clás
 - "Compre un suéter y obtenga 50%" en otro artículo, hace que esto sea una [Promoción Comprar Juntos](https://help.vtex.com/es/tutorial/buy-together--tutorials_323).
 - "Suéter y camisa de manga larga, clásica o contemporánea" son los artículos a los que se aplicará este beneficio.
 
->⚠️ La Promoción Comprar Juntos funciona solamente con un porcentaje de descuento.
+<div class = "alert alert-warning">
+  <p>La Promoción Comprar Juntos funciona solamente con un porcentaje de descuento.</p>
+</div>
 
 ## Escenario 12
 

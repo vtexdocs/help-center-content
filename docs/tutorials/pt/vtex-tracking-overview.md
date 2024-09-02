@@ -21,7 +21,9 @@ VTEX Tracking é uma solução da VTEX voltada ao monitoramento de entregas. Ela
 - **Aplicativo Móvel**: de uso exclusivo do portador, ou motorista, que realiza as entregas.  
 - **Last Mile**: interface voltada à comunicação com o destinatário. 
 
->ℹ️ Confira como instalar e configurar a integração entre uma loja VTEX e a app VTEX Tracking no artigo [Como instalar e configurar a app VTEX Tracking](https://help.vtex.com/pt/tutorial/como-instalar-e-configurar-a-app-vtex-tracking-no-seu-admin-vtex--3ejuFsJ1m0r08cT6afpIPf).
+<div class = "alert alert-info">
+Confira como instalar e configurar a integração entre uma loja VTEX e a app VTEX Tracking no artigo <a href="https://help.vtex.com/pt/tutorial/como-instalar-e-configurar-a-app-vtex-tracking-no-seu-admin-vtex--3ejuFsJ1m0r08cT6afpIPf">Como instalar e configurar a app VTEX Tracking</a>.
+</div>
 
 ## Plataforma web
 Através da plataforma web, os clientes VTEX Tracking realizam toda a gestão e monitoramento de suas entregas. Ela conta com as seguintes funcionalidades:

@@ -18,7 +18,9 @@ internalReference: 276823
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A remoção de um cartão de crédito usando a página da minha conta não atualiza o formulário de pedido, que manteria um cartão de crédito que não existe mais.

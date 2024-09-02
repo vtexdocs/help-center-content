@@ -18,7 +18,9 @@ internalReference: 842336
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a API de preços computados tem uma propriedade chamada "preço de custo" que, em cenários específicos, pode mostrar uma diferença de 1 centavo entre seu valor na interface do usuário e a API de preços computados https://developers.vtex.com/docs/api-reference/pricing-api#get-/pricing/prices/-itemId-/computed/-priceTableId-

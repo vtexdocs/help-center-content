@@ -22,11 +22,15 @@ A VTEX usa dois provedores de CDN nas lojas: **Cloudfront** e **Azion**. É impo
 
 Portanto, se você tem o domínio da loja registrado na plataforma da **Cloudfront** ou **Azion**, remova este registro antes de realizar o apontamento de DNS para a VTEX.
 
->⚠️ Se não for possível remover o registro do domínio da sua loja nas plataformas **Cloudfront** ou **Azion** entre em contato com o [suporte VTEX](https://help.vtex.com/pt/support) explicando a situação. Dessa forma, o time da VTEX irá te auxiliar para garantir o bom funcionamento da loja no Go live.
+<div class="alert alert-warning">
+Se não for possível remover o registro do domínio da sua loja nas plataformas <strong>Cloudfront</strong> ou <strong>Azion</strong> entre em contato com o <a href="https://help.vtex.com/pt/support">suporte VTEX</a> explicando a situação. Dessa forma, o time da VTEX irá te auxiliar para garantir o bom funcionamento da loja no Go live.
+</div>
 
 ## Configurar registro CAA
 
->⚠️ A configuração de registros de CAA como descrita nesta seção só é necessária caso haja registro de CAA no seu servidor de DNS. Caso contrário, siga para o próximo tópico deste guia.
+<div class="alert alert-warning">
+A configuração de registros de CAA como descrita nesta seção só é necessária caso haja registro de CAA no seu servidor de DNS. Caso contrário, siga para o próximo tópico deste guia.
+</div>
 
 Registros CAA indicam quais autoridades certificadoras (CAs) estão autorizadas a gerar e renovar certificados que atestam a identidade do seu domínio. A configuração adequada desses registros é necessária para que seja possível gerar os [certificados SSL](https://help.vtex.com/pt/tutorial/certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar--tutorials_1308) e usar a CDN da VTEX.
 
@@ -40,18 +44,22 @@ Isso significa que a autoridade certificadora **Let’s Encrypt** pode emitir ce
 
 Outra alternativa, embora não recomendada, seria não incluir registros CAA no seu servidor DNS - isso sinalizaria que todas autoridades certificadoras estariam autorizadas a emitir e renovar certificados para o seu domínio.
 
->ℹ️ Esses tipos de entrada podem não estar disponíveis na interface do seu gerenciador de DNS, mas muitas vezes é possível gerenciá-los através de chamados no suporte da ferramenta específica.
+<div class="alert alert-info">
+Esses tipos de entrada podem não estar disponíveis na interface do seu gerenciador de DNS, mas muitas vezes é possível gerenciá-los através de chamados no suporte da ferramenta específica.
+</div>
 
 Para facilitar o trabalho de criar/verificar seus registros CAA, você pode usar o [CAA Record Helper by SSLMate](https://sslmate.com/caa/). O programa [DiG](https://www.hostinger.com/tutorials/how-to-use-the-dig-command-in-linux/) também pode ajudar na verificação dos registros, através do comando `dig domain.com CAA` - um status `SERVFAIL` pode indicar não-conformidade do seu servidor DNS.
 
->ℹ️ Saiba mais:
->
-> *[CAA Record Helper by SSLMate](https://sslmate.com/caa/)
->
-> *[Let's Encrypt: Certificate Authority Authorization (CAA)](https://letsencrypt.org/docs/caa/)
->
-> *[SSL Mate: About CAA](https://sslmate.com/caa/about)
-> 
+<div class = "alert alert-info">
+Saiba mais:
+<p>
+<ul>
+<li><a href="https://sslmate.com/caa/">CAA Record Helper by SSLMate</a></li>
+<li><a href="https://letsencrypt.org/docs/caa/">Let's Encrypt: Certificate Authority Authorization (CAA)</a></li>
+<li><a href="https://sslmate.com/caa/about">SSL Mate: About CAA</a></li>
+</ul>
+</p>
+</div>
 
 ## Colocar conta em produção
 

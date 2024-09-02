@@ -18,7 +18,9 @@ internalReference: 416936
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Recebemos algumas consultas sobre pedidos que estavam presos no status de pagamento aprovado, mas já aprovados, o que não deveria acontecer no fluxo normal de pedidos.

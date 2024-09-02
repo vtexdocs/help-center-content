@@ -18,7 +18,9 @@ internalReference: 1053623
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Aunque es posible proporcionar varios términos de búsqueda al crear una regla de merchandising visual para la Búsqueda Inteligente, no se pueden utilizar. La regla se considerará inválida y no se aplicará.

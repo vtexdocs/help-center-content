@@ -21,7 +21,7 @@ Toda conta pode ter vários workspaces. Para ver os workspaces que existem atual
 
 Veja um exemplo abaixo:
 
-![workspace list](https://images.contentful.com/alneenqid6w5/2au4D7r6YkmskO0Ko8esC6/aa635baf0e6f543c0e08ee2613e20127/workspace_list.png)
+![workspace list](//images.contentful.com/alneenqid6w5/2au4D7r6YkmskO0Ko8esC6/aa635baf0e6f543c0e08ee2613e20127/workspace_list.png)
 
 As colunas que aparecem são as seguintes:
 

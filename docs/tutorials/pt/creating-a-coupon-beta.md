@@ -3,8 +3,8 @@ title: 'Criar cupom'
 id: 7lMk3MmhNp2IEccyGApxU
 status: PUBLISHED
 createdAt: 2022-04-28T20:25:24.998Z
-updatedAt: 2023-04-14T21:08:17.586Z
-publishedAt: 2023-04-14T21:08:17.586Z
+updatedAt: 2024-08-14T17:40:13.842Z
+publishedAt: 2024-08-14T17:40:13.842Z
 firstPublishedAt: 2022-04-28T20:42:45.525Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -40,7 +40,7 @@ O formulário para criar ou editar um cupom apresenta as seguintes seções:
 
 O painel superior do formulário de criação e edição de cupom, ilustrado abaixo, apresenta a quantidade de vezes em que o cupom foi utilizado e a quantidade de promoções vinculadas ao cupom.
 
-![usos-do-cupom-promocoes-vinculadas](https://images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/7642e6bfa91548c82c851d849fd34a87/criar-cupom-1.png)
+![usos-do-cupom-promocoes-vinculadas](//images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/7642e6bfa91548c82c851d849fd34a87/criar-cupom-1.png)
 
 Ao clicar em qualquer uma dessas informações no painel, você tem acesso ao modal **Ver detalhes de uso**, que apresenta os dados descritos a seguir:
 
@@ -52,11 +52,11 @@ Ao clicar em qualquer uma dessas informações no painel, você tem acesso ao mo
 
     Caso o cupom seja único, esta seção apresenta a lista de pedidos em que o cupom foi utilizado e permite buscar pelo número de um pedido. Ao clicar no número de um pedido, você será conduzido para a página de detalhes do pedido no **Gerenciamento de pedidos**.
 
-  ![ver-detalhes-de-uso](https://images.ctfassets.net/alneenqid6w5/1bFOCXCpWwoXzJToacK3BM/bcd304169c9f0763693e8d85f54e3e01/ver-detalhes-de-uso.png "Detalhes de uso de um cupom único")
+  ![ver-detalhes-de-uso](//images.ctfassets.net/alneenqid6w5/1bFOCXCpWwoXzJToacK3BM/bcd304169c9f0763693e8d85f54e3e01/ver-detalhes-de-uso.png "Detalhes de uso de um cupom único")
 
     Caso seja um grupo de cupons, esta seção apresenta a lista de códigos do grupo de cupons e permite buscar por um código específico. Ao clicar em um código, você tem acesso à lista de pedidos em que o código foi utilizado e pode buscar pelo número de um pedido. Clicando no número de um pedido, você será conduzido para a página de detalhes do pedido no **Gerenciamento de pedidos**.
 
-  ![selecione-o-codigo-grupo-cupons](https://images.ctfassets.net/alneenqid6w5/25yE4tmkHYDm4MISaz9upH/87b9f4e806c8d2c0b4399d64524658b4/Group_2__4_.png "Detalhes de uso de um grupo de cupons")
+  ![selecione-o-codigo-grupo-cupons](//images.ctfassets.net/alneenqid6w5/25yE4tmkHYDm4MISaz9upH/87b9f4e806c8d2c0b4399d64524658b4/Group_2__4_.png "Detalhes de uso de um grupo de cupons")
 
 ### Geral
 
@@ -69,7 +69,9 @@ A seção **Geral** apresenta campos que você deve preencher com as informaçõ
     * **Número de cupons:** permite definir o número de códigos a serem gerados a partir do prefixo definido em **Código do cupom**. O número máximo é 1000.
     * **Exportar cupons:** botão que permite exportar os códigos do grupo de cupons. Essa opção fica disponível apenas ao editar um grupo de cupons já existente.
 
->⚠️ Ao menos uma das UTMs precisa ser definida, ou seja, é obrigatório preencher a **UTM source** ou a **UTM campaign**. Também é possível preencher ambos os campos.
+<div class="alert alert-warning">
+<p>Ao menos uma das UTMs precisa ser definida, ou seja, é obrigatório preencher a <strong>UTM source</strong> ou a <strong>UTM campaign</strong>. Também é possível preencher ambos os campos.</p>
+</div>
 
 ### Restrições
 
@@ -79,7 +81,9 @@ Nesta seção do formulário, você pode configurar as seguintes restrições de
 
   Ao manter essa opção desativada, o cupom pode ser utilizado por uma quantidade ilimitada de vezes.
 
-  >⚠️ Caso ocorra o cancelamento de um pedido com cupom de uso limitado, o limite será recalculado. Isso significa que pedidos com status **Cancelado **não contam no limite de vezes que o cupom poderá ser utilizado.
+  <div class="alert alert-warning">
+<p>Caso ocorra o cancelamento de um pedido com cupom de uso limitado, o limite será recalculado. Isso significa que pedidos com status <strong>Cancelado </strong>não contam no limite de vezes que o cupom poderá ser utilizado.</p>
+  </div>
 
 ## Cupons gerados
 
@@ -88,7 +92,12 @@ Após salvar o novo cupom, se você tiver criado um [grupo de cupons](https://he
 * <i class="far fa-clone"></i> **Copiar tudo:** permite copiar os códigos gerados para a sua área de transferência. Posteriormente, se desejar, você pode colá-los em um editor de planilhas como o Excel ou o Google Sheets. Também é possível copiar cada código clicando sobre ele.
 * **Exportar:** permite exportar os códigos gerados para um arquivo CSV. O arquivo exportado contém uma coluna, com um código por linha.
 
-![cupons-gerados-pt](https://images.ctfassets.net/alneenqid6w5/3Ar3vHIyynacQr9vJ5qUf3/094bd2aaca673c282bba6a95f688a1b4/cupons-gerados-pt.gif)
+![cupons-gerados-pt](//images.ctfassets.net/alneenqid6w5/3Ar3vHIyynacQr9vJ5qUf3/094bd2aaca673c282bba6a95f688a1b4/cupons-gerados-pt.gif)
+
+### Gerar cupons em massa
+A [criação de cupons](#criar-cupons) para promoções deve ser feita a partir do módulo Promoções e Taxas. No entanto, podem ocorrer casos em que é necessário criar múltiplos cupons de uma vez, devido a alguma campanha ou ação de marketing.
+
+A criação de cupons em massa não pode ser realizada pelo Admin VTEX, apenas pela [Promotions & Taxes API](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api). Veja como gerar cupons em grandes quantidades seguindo o guia [Criação e gerenciamento de cupons com a API de Promoções](https://developers.vtex.com/docs/guides/creating-and-managing-coupons-with-promotions-api) 
 
 ## Vincular o cupom a uma promoção
 

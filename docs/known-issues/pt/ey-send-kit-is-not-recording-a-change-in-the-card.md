@@ -1,5 +1,5 @@
 ---
-title: "ey 'Enviar Kit:' não está registrando uma mudança no Cartão"
+title: 'ey "Enviar Kit:" não está registrando uma mudança no Cartão'
 id: 4J1SynfbrQqXpSIcveAMxJ
 status: PUBLISHED
 createdAt: 2022-06-14T11:56:12.170Z
@@ -18,7 +18,9 @@ internalReference: 442215
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

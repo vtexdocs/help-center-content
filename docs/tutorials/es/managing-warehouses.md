@@ -17,7 +17,9 @@ subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 
 El almacén es el espacio de almacenamiento físico del ecommerce. En la plataforma VTEX, puede añadir ítems a los almacenes registrados en su tienda. De este modo, puede controlar los movimientos, la disponibilidad y gestionar el envío de ítems mediante los [muelles](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) y las [políticas de envío](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). 
 
->ℹ️ Para comprender mejor cómo la plataforma VTEX interpreta y define el funcionamiento de los almacenes, consulte lo artículo [Almacén](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).
+<div class="alert alert-info">
+Para comprender mejor cómo la plataforma VTEX interpreta y define el funcionamiento de los almacenes, consulte lo artículo <a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Almacén</a>.
+ </div>
 
 Además, es posible registrar el almacén, los muelles por los que saldrán los productos, el tiempo que tardan los ítems en ser transportados desde el almacén hasta el muelle y el importe cobrado por este transporte.
 
@@ -28,19 +30,18 @@ Este artículo contiene la información necesaria para:
 * [Editar un almacén existente](https://help.vtex.com/es/tutorial/gestionar-almacenes--tutorials_137#editar-almacen).
 * [Eliminar un almacén](https://help.vtex.com/es/tutorial/gestionar-almacenes--tutorials_137#eliminar-almacen).
 
->⚠️ Como el almacén forma parte del sistema logístico de su tienda, le sugerimos que registre los módulos relacionados con la operación logística en el siguiente orden:
-> <body>
->
-> [Política Comercial;](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
->
-> 2. <a href="https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140">Política de envío;
-> </a>
->
-> 3. [Muelle;](https://help.vtex.com/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
->
-> Almacén.
->
-> </body>
+<div class="alert alert-warning">
+Como el almacén forma parte del sistema logístico de su tienda, le sugerimos que registre los módulos relacionados con la operación logística en el siguiente orden:
+<body>
+<ol>
+<li><a href="https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV">Política Comercial;</a></li>
+  <li><a href="https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140">Política de envío;
+</a></li>
+  <li><a href="https://help.vtex.com/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW">Muelle;</a></li>
+<li>Almacén.</li>
+ </ol>
+</body>
+</div>
 
 ## Registrar almacén
 
@@ -82,4 +83,6 @@ Este artículo contiene la información necesaria para:
 3. En la tarjeta del almacén que desea eliminar, haga clic en <i class="fas fa-ellipsis-v"></i>
 4. Seleccione la opción `Eliminar`.
 
->⚠️ Para añadir ítems al almacén, primero debe registrarlos en el catálogo. Después de registrar los ítems a través del [catálogo](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) y tener un almacén registrado, debe asociar los ítems a su respectivo almacén en la página [Gestión del stock](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+<div class="alert alert-warning">
+Para añadir ítems al almacén, primero debe registrarlos en el catálogo. Después de registrar los ítems a través del <a href="https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR">catálogo</a> y tener un almacén registrado, debe asociar los ítems a su respectivo almacén en la página <a href="https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139">Gestión del stock</a>.
+</div>

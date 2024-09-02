@@ -45,7 +45,9 @@ Cada marketplace deverá ter um __identificador único de afiliação__.
 
 Após criar um [afiliado](/pt/tutorial/como-configurar-afiliado/), você deve associar uma política comercial a ele. A política comercial contém as informações dos sortimentos de produto, logística e preço que serão enviadas para o afiliado em questão.
 
->ℹ️ Caso a configuração de marketplace seja feita pelo módulo [Bridge](http://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace/), o afiliado será criado automaticamente no módulo OMS.
+<div class="alert alert-info">
+Caso a configuração de marketplace seja feita pelo módulo <a href="http://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace/">Bridge</a>, o afiliado será criado automaticamente no módulo OMS.
+</div>
 
 #### **SAIBA MAIS**
 

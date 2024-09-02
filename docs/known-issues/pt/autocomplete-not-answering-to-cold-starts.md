@@ -18,7 +18,9 @@ internalReference: 418573
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O recurso de pesquisa inteligente conhecido como **autocompletar** não está funcionando em algumas lojas novas, mesmo após a execução de um processo interno chamado _cold start_.

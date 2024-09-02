@@ -18,7 +18,9 @@ internalReference: 654896
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao traduzir o conteúdo usando o aplicativo de catálogo-graphql ou a tradução do catálogo, os campos como nome, título ou descrição estão sendo sobregravados. Este comportamento só acontece se um destes campos (nome, título, descrição) for igual no registro do catálogo.

@@ -17,7 +17,9 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 At VTEX, you can integrate your store with the Rede acquirer. After you configure the __ERedev2__ connector, your store will be able to accept credit card payments from the main brands.
 
->ℹ️ **Warning**: currently there is a more updated version of Rede’s connector. For more details on how to configure this acquirer, read the article on [ERedeREST](https://help.vtex.com/en/tutorial/configurar-adquirente-rede-con-erederest?locale=en "ERedeREST").
+<div class="alert alert-info">
+<strong>Warning</strong>: currently there is a more updated version of Rede’s connector. For more details on how to configure this acquirer, read the article on [ERedeREST](https://help.vtex.com/en/tutorial/configurar-adquirente-rede-con-erederest?locale=en "ERedeREST").
+</div>
 
 To configure Rede, follow the steps below:
 

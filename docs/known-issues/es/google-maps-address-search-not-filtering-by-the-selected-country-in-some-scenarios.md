@@ -18,7 +18,9 @@ internalReference: 727408
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las búsquedas de direcciones de Google Maps para países sin reglas internas específicas no se filtran para devolver sólo este país seleccionado.

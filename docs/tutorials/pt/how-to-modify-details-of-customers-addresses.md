@@ -25,14 +25,19 @@ Para editar as informações do cliente é necessário seguir os seguintes passo
 6. Clique em `Salvar`.
 7. Em seguida, clique em `Voltar` para ver novamente a lista de endereços.
 
->⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
->
-> *<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-> Características das versões do Master Data
-> </a>
->
-> *<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-> Master Data v2
-> </a>
-> 
+<div class="alert alert-warning">
+Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
+<ul>
+<li>
+<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
+Características das versões do Master Data
+</a>
+</li>
+<li>
+<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
+Master Data v2
+</a>
+</li>
+</ul>
+</div>
 

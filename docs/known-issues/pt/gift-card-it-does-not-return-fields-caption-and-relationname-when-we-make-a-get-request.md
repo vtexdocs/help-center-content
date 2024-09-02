@@ -1,5 +1,5 @@
 ---
-title: "Cartão-presente - Ele não retorna os campos 'caption' e 'relationName' quando fazemos uma solicitação get."
+title: 'Cartão-presente - Ele não retorna os campos "caption" e "relationName" quando fazemos uma solicitação get.'
 id: 2nh2Cc3Hc2Zm0b1INtwDep
 status: PUBLISHED
 createdAt: 2023-06-23T19:33:35.774Z
@@ -18,7 +18,9 @@ internalReference: 428725
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o método GET é executado para um cartão-presente existente, ele não retorna o campo "caption" nem o campo "relationName", embora esses parâmetros tenham valor.

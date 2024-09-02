@@ -1,5 +1,5 @@
 ---
-title: "Incorrect refund calculation in Payout Split - 'Value in recipients * is different than operation value *.'"
+title: 'Incorrect refund calculation in Payout Split - "Value in recipients * is different than operation value *."'
 id: 7Fxtwnntpmi0DrUD5a603W
 status: PUBLISHED
 createdAt: 2024-07-29T15:07:07.716Z

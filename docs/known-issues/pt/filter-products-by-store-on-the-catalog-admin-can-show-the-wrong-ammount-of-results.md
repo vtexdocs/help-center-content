@@ -1,5 +1,5 @@
 ---
-title: "Filtrar produtos por 'Loja' no Catálogo Admin pode mostrar a quantidade errada de resultados"
+title: 'Filtrar produtos por "Loja" no Catálogo Admin pode mostrar a quantidade errada de resultados'
 id: E38Y6a81l7QNtrmh2I2id
 status: PUBLISHED
 createdAt: 2023-02-17T16:01:30.420Z
@@ -18,7 +18,9 @@ internalReference: 756461
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Filtrar produtos por "Loja" no Catálogo Admin pode mostrar a quantidade errada de resultados

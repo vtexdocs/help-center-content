@@ -3,8 +3,8 @@ title: 'Como funciona a assinatura'
 id: frequentlyAskedQuestions_4453
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.886Z
-updatedAt: 2024-07-24T17:36:44.989Z
-publishedAt: 2024-07-24T17:36:44.989Z
+updatedAt: 2024-08-29T15:23:33.643Z
+publishedAt: 2024-08-29T15:23:33.643Z
 firstPublishedAt: 2019-01-24T22:14:56.290Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -47,7 +47,9 @@ Para isso, basta entrar na página **Minha Conta** no site da sua loja, acessar 
 
 ## Como o cliente da sua loja visualiza suas Assinaturas
 
->ℹ️ Em [Minha Conta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
+<div class = "alert alert-info">
+Em <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>, os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
+</div>
 
 Após a finalização do pedido com Assinatura, o seu cliente visualiza na página **Minha Conta** a seção **Assinaturas**. Nessa seção, ele também pode encontrar a lista de assinaturas realizadas com os detalhes e estado individual. Seu cliente também receberá por e-mail uma confirmação da Assinatura e do pedido gerado.
 
@@ -88,7 +90,7 @@ Não é possível cadastrar mais de um endereço na mesma assinatura.
 O prazo da entrega e regra de frete são baseados nas políticas de entrega vigentes na loja a cada ciclo da assinatura.
 
 5. **O meu cliente pode parcelar o pagamento do seu pedido de assinatura?**
-Não é possível parcelar a assinatura. O parcelamento pode ocorrer apenas no primeiro pedido, mas a partir do segundo o valor será cobrado à vista.
+Sim, desde que a loja realize a configuração para permitir o pagamento parcelado de pedidos de assinatura. Isso é feito pelo endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings), marcando os campos `isMultipleInstallmentsEnabledOnCreation` e `isMultipleInstallmentsEnabledOnUpdate` como `true` (verdadeiro).
 
 6. **O que acontece se o cartão do meu cliente for cancelado?**
 A assinatura não será gerada devido a falta de possibilidade de pagamento.  
@@ -97,7 +99,7 @@ A assinatura não será gerada devido a falta de possibilidade de pagamento.
 Hoje não é possível solicitar uma entrega agendada para pedidos de assinatura. Esse cenário não é atendido para que o seu cliente não seja afetado negativamente, caso a configuração logística de sua loja mude. Contudo, seu cliente pode criar uma nova assinatura marcando a data futura que desejar para a primeira entrega.
 
 8. **Como posso cancelar, pular ou pausar o pedido de assinatura do meu cliente?**
-Hoje não é possível alterar a assinatura do seu cliente pelo Admin da VTEX. Só é possível pausar, cancelar ou pular um pedido de assinatura por meio de acesso ao Televendas, no painel de assinaturas do cliente (My Account do cliente), ou então via [API](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-api-v3-overview).
+Hoje não é possível alterar a assinatura do seu cliente pelo Admin da VTEX. Só é possível pausar, cancelar ou pular um pedido de assinatura por meio de acesso ao Televendas, no painel de assinaturas do cliente (My Account do cliente), ou então via [API](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#overview).
 
 9. **É possível adicionar itens vindos de um seller ou marketplace em um pedido de assinatura?**
 A assinatura pode ser criada com itens da própria loja, de sellers VTEX ou de sellers white label (conta franquia).

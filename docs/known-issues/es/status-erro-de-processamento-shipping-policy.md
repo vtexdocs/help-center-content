@@ -1,5 +1,5 @@
 ---
-title: "Estado 'ERRO DE PROCESSAMENTO' Política de envíos"
+title: 'Estado "ERRO DE PROCESSAMENTO" Política de envíos'
 id: 4g3SWNwDVJG5OeJVP05TOd
 status: PUBLISHED
 createdAt: 2022-05-18T15:12:15.503Z
@@ -18,7 +18,9 @@ internalReference: 445793
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hay un escenario con respecto al estado de la Política de Envío después de crear/actualizar los valores de carga de la API. El estado sigue pendiente como "Error al procesar" en caso de creación sin hoja de cálculo.

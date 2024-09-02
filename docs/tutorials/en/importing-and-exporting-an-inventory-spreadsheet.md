@@ -68,4 +68,6 @@ Check the meaning of each of the inventory spreadsheet fields.
 - **LockIds** (text): Booking identification code.  
 - **DispatchedReservations** (number): number of SKU items that have already moved beyond the `Item received for processing` status and whose booking is no longer valid. 
 - 
->ℹ️ To include an item with infinite stock, you must fill in the **TotalQuantity** field with the value `1000000` and change the **UnlimitedQuantity** field to `True`.
+<div class = "alert alert-info">
+  To include an item with infinite stock, you must fill in the <b>TotalQuantity</b> field with the value <code>1000000</code> and change the <b>UnlimitedQuantity</b> field to <code>True</code>.
+</div>

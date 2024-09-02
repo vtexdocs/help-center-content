@@ -18,7 +18,9 @@ internalReference: 376077
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La plataforma impide la devolución de importes superiores al total del pedido. Esto se convierte en un problema para la devolución de pedidos en los que la forma de pago conlleva intereses.

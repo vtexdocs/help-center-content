@@ -14,4 +14,6 @@ trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: instore-payments
 ---
 
->⚠️ This is a regional exclusive content not applicable to English speaking countries.
+<div class="alert alert-warning">
+<p>This is a regional exclusive content not applicable to English speaking countries.</p>
+</div>

@@ -24,19 +24,19 @@ El registro del vendedor deja la app tener una asociación del vendedor identifi
 2. Cargar los precios, condiciones de pago y disponibilidad del producto de la tienda de la que forma parte el dependiente.
 
 La identificación del vendedor se obtiene como muestra la siguiente imagen:
-![identificacao-vendedor](https://images.contentful.com/alneenqid6w5/2LhlUtsEYouEY4i4iYOIOq/d556be06047c26ee85f392ba7256f9f8/identificacao-vendedor.png)
+![identificacao-vendedor](//images.contentful.com/alneenqid6w5/2LhlUtsEYouEY4i4iYOIOq/d556be06047c26ee85f392ba7256f9f8/identificacao-vendedor.png)
 
 Para registrar los vendedores que la pantalla arriba permite identificar basta acceder a su Masterdata. Cuando haya accedido al Masterdata, usted deberá buscar el área con el título `Profile System`. En esa área encuentre la palabra `Vendedores` y haga clic en `listar` como muestra la imagen a continuación.
-![masterdata-home-vendedores](https://images.contentful.com/alneenqid6w5/32iOuRESyIwEwSE4WcEWmu/b64645e6f940399933df3db5b40d6a4f/masterdata-home-vendedores.png)
+![masterdata-home-vendedores](//images.contentful.com/alneenqid6w5/32iOuRESyIwEwSE4WcEWmu/b64645e6f940399933df3db5b40d6a4f/masterdata-home-vendedores.png)
 
 Cuando usted haga clic en `listar`, una lista de vendedores registrados va a aparecer, como muestra la imagen siguiente. Haga clic en `Novo` para registrar un nuevo vendedor.
-![masterdata-lista-vendedores](https://images.contentful.com/alneenqid6w5/xsepOCP9Dwiys6MKkQGY4/4717c2ff41b7b52a43b549294877713f/masterdata-lista-vendedores.png)
+![masterdata-lista-vendedores](//images.contentful.com/alneenqid6w5/xsepOCP9Dwiys6MKkQGY4/4717c2ff41b7b52a43b549294877713f/masterdata-lista-vendedores.png)
 
 Complete la información del vendedor en el formulario. En el campo `Loja`, usted debe comenzar a digitar el nombre de la tienda para que aparezca una caja de selección. Cuando aparezca el nombre de la tienda, haga clic en el nombre, verifique si toda la información está correcta y luego haga clic en `Salvar`.
-![masterdata-novo-vendedor](https://images.contentful.com/alneenqid6w5/7mfVtDbemWWA6yqqYIQgwC/a498d9fbd2dcfbe87546711d8d8c7a36/masterdata-novo-vendedor.png)
+![masterdata-novo-vendedor](//images.contentful.com/alneenqid6w5/7mfVtDbemWWA6yqqYIQgwC/a498d9fbd2dcfbe87546711d8d8c7a36/masterdata-novo-vendedor.png)
 
 También será necesario configurar um perfil de acceso para ese vendedor en su License Manager. Basta hacer clic en `Usuarios` y crear un nuevo con el mismo email que fue puesto en el Masterdata, el Perfil de Acceso que debe adicionarse es el `Vendedor inStore` y después recuerde de hacer clic en `Salvar`.
 
 *Nuevos vendedores deberán crear y confirmar su contraseña a través de un email enviado a cada usuario registrado.*
 
-![license-manager-novo-vendedor](https://images.contentful.com/alneenqid6w5/98ppRH68esOwU2cWSiM4w/501c79f9cc247103868a026581f7573c/license-manager-novo-vendedor.png)
+![license-manager-novo-vendedor](//images.contentful.com/alneenqid6w5/98ppRH68esOwU2cWSiM4w/501c79f9cc247103868a026581f7573c/license-manager-novo-vendedor.png)

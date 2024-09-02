@@ -18,7 +18,9 @@ internalReference: 342378
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El portal recarga todos los resultados de la búsqueda cuando se accede a la URL con un parámetro de paginación.

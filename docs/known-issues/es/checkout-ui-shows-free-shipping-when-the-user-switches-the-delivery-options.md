@@ -18,7 +18,9 @@ internalReference: 897109
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La interfaz de usuario de la caja muestra la entrega gratuita cuando el usuario cambia el método de entrega de envío normal a entrega programada. El problema solo se produce en el cuadro de entrega y cuando la cuenta tiene configurada la función LeanShipping. aunque la IU muestra el envío gratuito, los valores totales de la compra se muestran y cobran correctamente.

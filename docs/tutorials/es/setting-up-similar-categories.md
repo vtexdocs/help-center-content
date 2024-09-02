@@ -3,8 +3,8 @@ title: 'Configurar Categoría Similar'
 id: tutorials_204
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:03.892Z
-updatedAt: 2023-02-13T19:52:52.306Z
-publishedAt: 2023-02-13T19:52:52.306Z
+updatedAt: 2024-08-08T19:19:13.231Z
+publishedAt: 2024-08-08T19:19:13.231Z
 firstPublishedAt: 2017-04-27T23:00:46.323Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -18,6 +18,10 @@ subcategory: 1E7tziZCkY4w8i4EmUuwec
 En VTEX Admin, puede registrar Categorías Similares a nivel de [producto](#categoría-similar-en-el-producto) o a nivel de [categoría](#categoría-similar-en-otra-categoría). También es posible realizar el registro utilizando la [API de Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/similarcategory/-categoryId-).
 
 ## Categoría Similar en el Producto
+
+<div class="alert alert-warning">
+  <p>Esta configuración sólo es compatible con las tiendas que utilizan el <a href="https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS - Portal Legado</a>.</p>
+</div>
 
 En el Producto, el ajuste de categoría similar hace que el producto se muestre en la página de la categoría registrada como similar, además de en su categoría original.
 

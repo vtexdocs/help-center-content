@@ -18,7 +18,9 @@ internalReference: 489220
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Precisamos investigar e corrigir o problema ao enviar o saldo de estoque para a MELI quando o item for um KIT. Envie o saldo de estoque do KIT ao invés do estoque do SKU.

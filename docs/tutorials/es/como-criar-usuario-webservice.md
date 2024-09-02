@@ -15,11 +15,9 @@ legacySlug: como-crear-usuario-webservice
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
->❗ Atención: sólo los métodos SOAP pertinentes al **catálogo** son válidos.
->
-> **Todos los demás métodos del Web Service serán discontinuados después de 28/02/2017.**
->
-> Utilice las API REST equivalentes disponibles en nuestro[Developer Docs](//help.vtex.com/developer-docs/).
+<div class="alert alert-danger"><p>Atención: sólo los métodos SOAP pertinentes al <strong>catálogo</strong> son válidos.</p>
+<p><strong>Todos los demás métodos del Web Service serán discontinuados después de 28/02/2017.</strong></p>
+<p>Utilice las API REST equivalentes disponibles en nuestro<a href="//help.vtex.com/developer-docs/">Developer Docs</a>.</p></div>
 
 La creación de credenciales para las integraciones con el Web Service debe ser hecha por License Manager, con la funcionalidad de appKey y appToken.
 

@@ -18,7 +18,9 @@ internalReference: 280144
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O checkout (backend) tem o comportamento de pré-selecionar o melhor método de entrega para o usuário assim que um código postal é informado.

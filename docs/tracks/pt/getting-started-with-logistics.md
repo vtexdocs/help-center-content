@@ -19,16 +19,17 @@ O módulo **Estoque & entrega** é responsável pelas configurações logística
 
 Esse artigo é o primeiro de uma trilha de primeiros passos para as configurações logísticas. A trilha contém informações básicas para auxiliar no entendimento da logística em lojas VTEX e na forma como as configurações estão estruturadas na plataforma.
 
->❗ Antes de configurar a logística da sua loja, você precisa ter configurado:
-> <body>
->
-> [Política comercial](https://help.vtex.com/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
->
-> [Catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR)
->
-> [Preços](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
->
-> </body>
+<div class="alert alert-danger">
+Antes de configurar a logística da sua loja, você precisa ter configurado:
+<body>
+<ol>
+<li><a href="https://help.vtex.com/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE">Política comercial</a></li>
+<li><a href="https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR">Catálogo</a></li>
+<li><a href="https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu">Preços</a></li>
+  </ol>
+  </body>
+
+</div>
 
 A trilha reúne os artigos:
 
@@ -38,8 +39,10 @@ A trilha reúne os artigos:
 * [Custos e simulação de envio](https://help.vtex.com/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/3by48jFhzpZEseYFpH9uVt): explica como cadastrar custos de envio e como utilizar a ferramenta de simulação de frete da loja.
 * [Entregas agendadas e capacidade de entregas](https://help.vtex.com/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/5TuyqHRCCwYMaDv4r8rZdo): explica como a loja deve disponibilizar entregas agendadas para os clientes, além de gerenciar a capacidade de realização desse tipo de entrega. 
 
->ℹ️ Se a sua loja já trilhou os primeiros passos do módulo **Estoque & entrega**, confira o artigo [Logística](https://help.vtex.com/pt/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP), para ter acesso rápido às informações das seções do módulo **Estoque & entrega.** 
-> Confira o artigo [Glossário de logística](https://help.vtex.com/pt/tutorial/glossario-de-logistica--16DSSiXn548rsidi0A8Hby), para conhecer os significados de termos logísticos utilizados na VTEX. Há também as configurações de logística disponíveis via [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
+<div class = "alert alert-info">
+Se a sua loja já trilhou os primeiros passos do módulo <b>Estoque & entrega</b>, confira o artigo <a href="https://help.vtex.com/pt/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP">Logística</a>, para ter acesso rápido às informações das seções do módulo <b>Estoque & entrega.</b> 
+Confira o artigo <a href="https://help.vtex.com/pt/tutorial/glossario-de-logistica--16DSSiXn548rsidi0A8Hby">Glossário de logística</a>, para conhecer os significados de termos logísticos utilizados na VTEX. Há também as configurações de logística disponíveis via <a href="https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview">API</a>. 
+</div>
 
 De forma resumida, o módulo **Estoque & entrega** divide-se nas seguintes seções:
 
@@ -53,9 +56,11 @@ De forma resumida, o módulo **Estoque & entrega** divide-se nas seguintes seç�
 * **Configurações**: configurações gerais de logística, como habilitar a notificação de estoque crítico.
 * **[Pontos de retirada](https://help.vtex.com/pt/tutorial/como-funcionam-pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R)**: seção para cadastro de pontos físicos onde os clientes podem retirar seus pedidos.
 
-    ![estoque e entregaPT](https://images.ctfassets.net/alneenqid6w5/21rlEVE55jPh2hYBKTn99U/4dff7a2616eb80d8ec89344ec2d2363c/estoque_e_entregaPT.png)
+    ![estoque e entregaPT](//images.ctfassets.net/alneenqid6w5/21rlEVE55jPh2hYBKTn99U/4dff7a2616eb80d8ec89344ec2d2363c/estoque_e_entregaPT.png)
 
->ℹ️ Clientes que utilizam o [**VTEX Shipping Network](https://vtex.com/br-pt/log/)** acessam a funcionalidade pelo módulo **Estoque & Entrega**.
+<div class = "alert alert-info">
+  Clientes que utilizam o <a href="https://vtex.com/br-pt/log/"><b>VTEX Shipping Network</a></b> acessam a funcionalidade pelo módulo <b>Estoque & Entrega</b>.
+</div>
 
 Confira os próximos artigos da trilha para saber a ordem em que essas seções devem ser configuradas e como a plataforma interpreta essas configurações.
 

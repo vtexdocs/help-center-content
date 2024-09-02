@@ -18,7 +18,9 @@ internalReference: 420019
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em alguns casos em que o pedido é incompleto ou cancelado quando há alguma falha de comunicação com o Gateway, o pagamento permanece autorizado e/ou aprovado, não entrando no fluxo de cancelamento e o valor pago não é reembolsado automaticamente. Além disso, e-mails transacionais podem ser enviados acidentalmente, o que também permite o pagamento de boletos bancários, pois a URL irá junto.

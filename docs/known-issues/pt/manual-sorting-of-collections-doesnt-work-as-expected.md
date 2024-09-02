@@ -18,7 +18,9 @@ internalReference: 295245
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A triagem manual das coleções não funciona como esperado. Há duas maneiras de ordenar as SKUs usando uma coleção:

@@ -47,11 +47,13 @@ Para fazer isso de maneira dinâmica, eu posso trocar o texto da chave `topbarSa
 
 Ou seja, estou usando as variáveis `preposicaonomeloja2` e `nomeloja`.
 
->⚠️ Ao usar variáveis para compor um texto, substitua o símbolo `#` por `@`. Ou seja, **#variavel#** torna-se **@variavel@**.
+<div class="alert alert-warning">
+Ao usar variáveis para compor um texto, substitua o símbolo <code>#</code> por <code>@</code>. Ou seja, <b>#variavel#</b> torna-se <b>@variavel@</b>.
+</div>
 
-![textos-importante pt](https://images.ctfassets.net/alneenqid6w5/6B5XvqyDYI4G4eaC8OGEUw/8e55774262373bc01757e12736fe8f39/textos_importantes_pt.png)
+![textos-importante pt](//images.ctfassets.net/alneenqid6w5/6B5XvqyDYI4G4eaC8OGEUw/8e55774262373bc01757e12736fe8f39/textos_importantes_pt.png)
 
-![exemplo-texto-importante pt ](https://images.ctfassets.net/alneenqid6w5/3cyb4MfQGIu0kc424oYSqo/4d0e1d3bc0bb4af90feaad9398c6a807/3_pt.png)
+![exemplo-texto-importante pt ](//images.ctfassets.net/alneenqid6w5/3cyb4MfQGIu0kc424oYSqo/4d0e1d3bc0bb4af90feaad9398c6a807/3_pt.png)
 
 Como defini que o conteúdo da primeira variável é "à" e o da segunda é "Loja Exemplo", o texto final renderizado no site será "Seja bem-vindo à Loja Exemplo".
 

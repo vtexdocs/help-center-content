@@ -18,7 +18,9 @@ internalReference: 760458
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 s vezes, podem ocorrer erros durante o processamento de nossas operações através da porta de entrada. No caso do conector da Firstdata, pode ocorrer um erro imediatamente após a aprovação do acordo do nosso lado. Para resolver isso, precisamos solicitar novamente um acordo. Entretanto, devido à idempotência, o provedor não envia uma resposta "aprovada" novamente, o que pode fazer com que a transação fique presa em um status de "liquidação" até que uma nova atualização de status seja fornecida.

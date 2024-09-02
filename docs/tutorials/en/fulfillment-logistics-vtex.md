@@ -19,10 +19,11 @@ Logistics or fulfillment is the process of planning and executing the transporta
 
 The VTEX platform allows you to register and control your inventory, manage shipping rates, control item availability, and track deliveries. 
 
->ℹ️ If you have not made the first steps in the **Shipping** module, check out this complementary content:
-> The article [Getting started with Logistics](https://help.vtex.com/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a). 
-> Our [Logistics Glossary](https://help.vtex.com/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby), in which you can find the definitions of logistics terms used at VTEX.
-> The logistics settings available via [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
+<div class = "alert alert-info">If you have not made the first steps in the <b>Shipping</b> module, check out this complementary content:
+The article <a href="https://help.vtex.com/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a">Getting started with Logistics</a>. 
+Our <a href="https://help.vtex.com/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby">Logistics Glossary</a>, in which you can find the definitions of logistics terms used at VTEX.
+The logistics settings available via <a href="https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview">API</a>. 
+</div>
 
 To find out which logistics configurations are necessary and how to perform them, you must first understand the steps in the purchase flow of a product.
 
@@ -43,9 +44,11 @@ Once the order is placed, the [reservation of the products is authorized](https:
 
 8. After invoicing and shipping, the store is responsible for updating the inventory, which also means removing the items from inventory.
 
->ℹ️ Please note that the shipping process depends on the configuration made on the platform. Here, we present the scenarios for each type of shipping (delivery and pickup), but there are other possible flows in the shipping process. For example, when the customer chooses pickup and the selected pickup point is the warehouse, there is no need to transport the packages.
+<div class = "alert alert-info">
+Please note that the shipping process depends on the configuration made on the platform. Here, we present the scenarios for each type of shipping (delivery and pickup), but there are other possible flows in the shipping process. For example, when the customer chooses pickup and the selected pickup point is the warehouse, there is no need to transport the packages.
+</div>
 
-![Envio EN](https://images.ctfassets.net/alneenqid6w5/2e2f4toAiFamlcXlAQfC3h/2cf59529b64fd641f61b1afdb807d136/Envio_EN.svg)
+![Envio EN](//images.ctfassets.net/alneenqid6w5/2e2f4toAiFamlcXlAQfC3h/2cf59529b64fd641f61b1afdb807d136/Envio_EN.svg)
 
 ## Configuring the logistics process
 

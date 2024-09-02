@@ -18,7 +18,9 @@ internalReference: 613864
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, para entidades de dados com vários campos, quando há uma tentativa de exportar uma planilha e baixá-la, por e-mail ou diretamente pela interface do usuário, o link de download não salva o arquivo em seu navegador.

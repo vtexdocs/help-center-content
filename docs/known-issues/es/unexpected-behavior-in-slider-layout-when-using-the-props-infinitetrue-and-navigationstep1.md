@@ -18,7 +18,9 @@ internalReference: 462895
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se produce un comportamiento inesperado cuando se utiliza vtex.slider-layout, si estos dos props se establecen juntos:

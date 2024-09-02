@@ -18,7 +18,9 @@ internalReference: 347932
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En algunas tiendas, la lista de Vendedores, promociones u otros filtros puede ser bastante alta, y en algunos momentos pueden querer hacer una selección bastante amplia.

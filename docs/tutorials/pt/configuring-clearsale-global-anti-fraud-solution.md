@@ -17,7 +17,9 @@ subcategory:
 
 A ClearSale Global é uma solução antifraude, disponível __exclusivamente para o mercado internacional__. Através da análise comportamental dos clientes, a solução identifica vulnerabilidades e evita possíveis fraudes nas transações da sua loja.
 
->ℹ️ Caso você esteja no Brasil e queira utilizar a ClearSale, a VTEX oferece integração com a ClearSale V3, exclusiva para clientes brasileiros. Acesse o tutorial [Configurar antifraude ClearSale v3](https://help.vtex.com/pt/tutorial/configurar-antifraude-clearsale-v3--2pPORygesIqQOa6cIG6agg?&utm_source=autocomplete) para realizar a configuração.
+<div class="alert alert-info">
+Caso você esteja no Brasil e queira utilizar a ClearSale, a VTEX oferece integração com a ClearSale V3, exclusiva para clientes brasileiros. Acesse o tutorial <a href="https://help.vtex.com/pt/tutorial/configurar-antifraude-clearsale-v3--2pPORygesIqQOa6cIG6agg?&utm_source=autocomplete">Configurar antifraude ClearSale v3</a> para realizar a configuração.
+  </div>
 
 Para configurar a __ClearSale Global__, será necessário:
 
@@ -76,7 +78,7 @@ Para configurar a __ClearSale Global__, será necessário:
 <br>  
   <ui>11. No canto superior direito, clique em <b>Publicar</b>.</ui> 
 
-![Fingerprint ClearSalve_Tela](https://images.contentful.com/alneenqid6w5/1cCBNxfRXCGQr4QxBsPgg6/314960d342aad03b56da4affe46439f8/Fingerprint_ClearSalve_Tela.png)
+![Fingerprint ClearSalve_Tela](//images.contentful.com/alneenqid6w5/1cCBNxfRXCGQr4QxBsPgg6/314960d342aad03b56da4affe46439f8/Fingerprint_ClearSalve_Tela.png)
 
 Para mais detalhes sobre o código inserido no Google Tag Manager, recomendamos a leitura [desta documentação](https://api.clearsale.com.br/docs/behavior-analytics), da ClearSale. 
 

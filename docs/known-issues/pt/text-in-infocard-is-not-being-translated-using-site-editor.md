@@ -18,7 +18,9 @@ internalReference: 1049491
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar traduzir um texto usando o editor do site para o componente do cartão de informações, as alterações não são aplicadas na frente da loja.

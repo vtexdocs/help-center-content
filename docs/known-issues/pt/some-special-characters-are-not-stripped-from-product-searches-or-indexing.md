@@ -18,7 +18,9 @@ internalReference: 382382
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns caracteres especiais não são completamente removidos das palavras-chave pesquisadas ou da indexação de produtos, o que pode afetar as pesquisas em alguns cenários específicos.

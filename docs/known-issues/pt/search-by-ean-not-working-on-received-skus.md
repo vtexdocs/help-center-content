@@ -18,7 +18,9 @@ internalReference: 510907
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O recurso de pesquisa Received Skus permite que o marketplace pesquise um produto ou sku pelos seguintes critérios:

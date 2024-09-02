@@ -3,8 +3,8 @@ title: 'Exportación de datos de Master Data v1'
 id: tutorials_1125
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:19.601Z
-updatedAt: 2024-06-20T15:09:14.414Z
-publishedAt: 2024-06-20T15:09:14.414Z
+updatedAt: 2024-08-15T20:57:37.911Z
+publishedAt: 2024-08-15T20:57:37.911Z
 firstPublishedAt: 2017-04-27T23:03:43.216Z
 contentType: tutorial
 productTeam: Master Data
@@ -15,9 +15,16 @@ legacySlug: exportacion-de-datos
 subcategory: 2AThnkEZAYbk4G4EIs53rL
 ---
 
-La exportación de datos en lote de los registros en Master Data v1 puede hacerse por API o mediante planilla. Este documento tiene por objeto demostrar el paso a paso necesario para la exportación de datos por planilla.
+La exportación de datos en lote de los registros en Master Data v1 puede hacerse de dos maneras:
 
->⚠️ La operación de exportación de datos del Master Data no es inmediata, y su tiempo de ejecución depende de la cantidad de datos en el Master Data. Por lo tanto, en tiendas con muchos datos y con una alta frecuencia de actualización, el archivo exportado puede quedar desfasado con relación a los nuevos datos. Si esto ocurre, la solución es volver a exportar los datos, preferiblemente en un momento en el que no se estén produciendo muchas actualizaciones (por ejemplo, fuera del horario comercial o en los fines de semana).
+* Descargando un informe a través de la interfaz de Master Data.
+* Utilizando el «endpoint» [Scroll documents](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/scroll) de la API de Master Data v1.
+
+Este documento tiene por objeto demostrar el paso a paso necesario para la __exportación de datos por informe__.
+
+<div class="alert alert-warning">
+  <p>La operación de exportación de datos del Master Data no es inmediata, y su tiempo de ejecución depende de la cantidad de datos en el Master Data. Por lo tanto, en tiendas con muchos datos y con una alta frecuencia de actualización, el archivo exportado puede quedar desfasado con relación a los nuevos datos. Si esto ocurre, la solución es volver a exportar los datos, preferiblemente en un momento en el que no se estén produciendo muchas actualizaciones (por ejemplo, fuera del horario comercial o en los fines de semana).</p>
+</div>
 
 ## Exportar informe con datos de Master Data v1
 

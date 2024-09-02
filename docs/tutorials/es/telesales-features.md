@@ -36,7 +36,9 @@ La barra de herramientas de televentas es una barra superior que se muestra en e
 
 Para saber cómo utilizar esta función, consulte el tutorial [Barra de herramientas de televentas](https://help.vtex.com/es/tutorial/usando-e-customizando-toolbar-de-televendas--tutorials_5500).
 
->ℹ️ Un caso de uso de la funcionalidad de televentas es importar pedidos de otras plataformas al módulo **Pedidos** de Admin VTEX. Para ello, puedes asociar una [política comercial](https://help.vtex.com/es/tutorial/crear-una-politica-comercial--563tbcL0TYKEKeOY4IAgAE) específica con el pago mediante [pagaré](https://help.vtex.com/es/tutorial/configurar-pagos-con-pagare--5pW7avTwtyQcMu4uiW8quQ) (medio de pago aprobado de forma inmediata y manual por el propio operador).
+<div class = "alert alert-info">
+Un caso de uso de la funcionalidad de televentas es importar pedidos de otras plataformas al módulo <b>Pedidos</b> de Admin VTEX. Para ello, puedes asociar una <a href="https://help.vtex.com/es/tutorial/crear-una-politica-comercial--563tbcL0TYKEKeOY4IAgAE">política comercial</a> específica con el pago mediante <a href="https://help.vtex.com/es/tutorial/configurar-pagos-con-pagare--5pW7avTwtyQcMu4uiW8quQ">pagaré</a> (medio de pago aprobado de forma inmediata y manual por el propio operador).
+  </div>
 
 ### Mi cuenta
 

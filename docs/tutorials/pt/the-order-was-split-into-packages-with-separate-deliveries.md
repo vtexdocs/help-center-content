@@ -32,7 +32,9 @@ A data de entrega de cada pacote é alterada de acordo com o valor do `shippingE
 
 Para evitar uma divisão de pacotes em pedidos que incluam produtos de pré-venda, você pode configurar o [agrupamento de produtos por remessa](https://help.vtex.com/pt/tutorial/como-funciona-a-remessa). Desta forma, é possível agrupar em um único conjunto todos os pacotes a serem entregues pela mesma transportadora e provenientes da mesma [doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj).
 
->❗ Ao configurar o agrupamento da remessa, esse comportamento será aplicado a todos os pedidos com datas de entrega distintas e não somente aos casos envolvendo produtos de pré-venda.
+<div class="alert alert-danger">
+Ao configurar o agrupamento da remessa, esse comportamento será aplicado a todos os pedidos com datas de entrega distintas e não somente aos casos envolvendo produtos de pré-venda.
+</div>
 
 ### Configurando a remessa
 

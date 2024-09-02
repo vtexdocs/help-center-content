@@ -18,7 +18,9 @@ internalReference: 488339
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um cenário onde há modais configurados OK também na SKU e na Polícia Marítima e a simulação está mostrando problemas na configuração modal.

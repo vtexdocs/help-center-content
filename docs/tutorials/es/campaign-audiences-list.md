@@ -17,7 +17,7 @@ subcategory: 2cI57eZ3ZiWSeaQs26Gwys
 
 Tal como se muestra a continuación, podrás ver la lista de audiencias de campañas registradas en tu tienda desde la página *Promociones > Audiencia de campañas* del Admin VTEX.
 
-![lista-audiencias-campanha-es](https://images.ctfassets.net/alneenqid6w5/3OyfWyVN0MMA5qpgjxtGyM/e4d2a074233382a8563b46391f15f446/lista-audiencias-campanha-es.png)
+![lista-audiencias-campanha-es](//images.ctfassets.net/alneenqid6w5/3OyfWyVN0MMA5qpgjxtGyM/e4d2a074233382a8563b46391f15f446/lista-audiencias-campanha-es.png)
 
 Desde esta página, puedes realizar las acciones a continuación:
 
@@ -31,7 +31,9 @@ Desde esta página, puedes realizar las acciones a continuación:
 
 Para crear una audiencia de campaña, debes dirigirte a *Promociones > Audiencia de campañas* y hacer clic en el botón `Nueva audiencia de campaña` y seguir los pasos que se describen en el artículo [Crear audiencia de campaña](https://help.vtex.com/es/tutorial/crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K).
 
->⚠️ Luego de crear una audiencia de campaña, debes asociarla a una [Promoción de campaña](https://help.vtex.com/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume) para que entre en efecto.
+<div class="alert alert-warning">
+  <p>Luego de crear una audiencia de campaña, debes asociarla a una <a href="https://help.vtex.com/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume">Promoción de campaña</a> para que entre en efecto.</p>
+</div>
 
 ### Ver audiencias de campaña
 
@@ -48,7 +50,7 @@ Las audiencias de campaña se presentan en _tarjetas_ que incluyen la informaci�
 
 Para ver las audiencias de campaña [archivadas](#archivar-audiencias-de-campana), dirígete a la opción **Presentar** y haz clic en **Archivados**, tal como se muestra a continuación:
 
-![toggle-audiencias-campanha-arquivadas-es](https://images.ctfassets.net/alneenqid6w5/7CMyMTQVHoWU7h8NMGlmwA/8c1426c228b3415d28557c63bb7efc27/toggle-audiencias-campanha-arquivadas-es.png)
+![toggle-audiencias-campanha-arquivadas-es](//images.ctfassets.net/alneenqid6w5/7CMyMTQVHoWU7h8NMGlmwA/8c1426c228b3415d28557c63bb7efc27/toggle-audiencias-campanha-arquivadas-es.png)
 
 Para volver a ver las audiencias de campaña no archivadas, haz clic en **No archivados**.
 

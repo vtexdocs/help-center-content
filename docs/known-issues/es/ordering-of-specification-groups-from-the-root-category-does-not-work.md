@@ -18,7 +18,9 @@ internalReference: 634129
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, cuando se crean grupos de especificaciones en la categoría raíz, no es posible reordenarlos por parte del administrador o de la API

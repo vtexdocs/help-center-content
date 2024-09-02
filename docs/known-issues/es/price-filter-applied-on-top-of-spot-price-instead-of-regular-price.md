@@ -1,5 +1,5 @@
 ---
-title: "El filtro de precios se aplica sobre el 'precio al contado' en lugar del precio normal"
+title: 'El filtro de precios se aplica sobre el "precio al contado" en lugar del precio normal'
 id: 2EEgRV1NxYuns4eF7F0ZqD
 status: PUBLISHED
 createdAt: 2024-02-15T19:39:53.576Z
@@ -18,7 +18,9 @@ internalReference: 982664
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los filtros de precio se aplican sobre el valor "spotPrice", que es el precio para condiciones especiales de pago, en lugar del precio normal del artículo.

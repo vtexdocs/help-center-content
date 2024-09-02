@@ -18,7 +18,9 @@ internalReference: 679598
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los pedidos son independientes cuando no comparten la misma transacción de pago. Los pedidos creados para cumplir sólo con el artículo de regalo a través de un vendedor diferente a los demás artículos de una compra no tienen ninguna transacción de pago porque son gratuitos.

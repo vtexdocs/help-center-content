@@ -18,7 +18,9 @@ internalReference: 376646
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Ahora mismo, tal y como está construida nuestra arquitectura, tanto el Vendedor como el Marketplace son dos entidades totalmente diferentes. Marketplace se encarga de recibir el dinero del cliente y el vendedor es responsable de toda la logística hasta el momento en que entrega los productos al cliente.

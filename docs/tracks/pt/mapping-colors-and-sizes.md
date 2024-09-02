@@ -18,9 +18,13 @@ Depois de fazer as configurações iniciais para a integração com a Wish, agor
 
 O envio dessas informações é feito por meio do upload da planilha de mapeamento, que contém um de/para. O mapeamento só será feito uma vez para cada categoria. Isso significa que, já tendo feito o mapeamento uma vez, os novos produtos que forem criados vão ser integrados diretamente na categoria correta (e com suas respectivas variações e atributos).
 
->ℹ️ É preciso realizar o mapeamento de categoria para que a Wish possa diferenciar os seus SKUs corretamente. Exemplo: imagine que existam dois SKUs de um mesmo produto com cores diferentes e tamanhos iguais na VTEX, caso o mapeamento de categoria não seja realizado, a Wish reconhecerá os dois SKUs como um só.
+<div class = "alert alert-info">
+É preciso realizar o mapeamento de categoria para que a Wish possa diferenciar os seus SKUs corretamente. Exemplo: imagine que existam dois SKUs de um mesmo produto com cores diferentes e tamanhos iguais na VTEX, caso o mapeamento de categoria não seja realizado, a Wish reconhecerá os dois SKUs como um só. 
+</div>
 
->⚠️ Produtos sem cor ou tamanho mapeados não serão enviados para a Wish. Caso alguma categoria não tenha estes campos na VTEX, será necessário [criar um campo de SKU](https://help.vtex.com/pt/tutorial/criando-campo-de-sku--tutorials_119) no Catálogo e preencher com os valores adequados antes de realizar o mapeamento de cor e tamanho.
+<div class = "alert alert-warning">
+Produtos sem cor ou tamanho mapeados não serão enviados para a Wish. Caso alguma categoria não tenha estes campos na VTEX, será necessário <a href="https://help.vtex.com/pt/tutorial/criando-campo-de-sku--tutorials_119">criar um campo de SKU</a> no Catálogo e preencher com os valores adequados antes de realizar o mapeamento de cor e tamanho.
+</div>
 
   - [Baixe aqui](https://drive.google.com/uc?export=download&id=1yJCgahkDhc4Gbvtxpe9kID1CwWsijdOf) a Planilha de Mapeamento da Wish no formato .xlsx.
 
@@ -57,9 +61,11 @@ Repare que na VTEX o nome dos campos é "Cores" e "Tamanhos", mas a Wish chama d
 Na VTEX, os produtos dessa categoria possuem duas cores possíveis: vermelho e gelo. 
 Deve-se escolher a cor disponível mais próxima que, no caso da Wish, "Gelo" poderia ser "White/Ice Glaze" (baseado na [lista de cores aceitas](https://merchant.wish.com/documentation/colors)). E "Vermelho" poderia ser "Red".
 
->ℹ️ OBS: o cabeçalho da tabela deve ser preenchida exatamente como está no exemplo abaixo. Lembre-se de não adicionar caracteres especiais como enter ou espaço no preenchimento dessa tabela.
+<div class = "alert alert-info">
+  OBS: o cabeçalho da tabela deve ser preenchida exatamente como está no exemplo abaixo. Lembre-se de não adicionar caracteres especiais como enter ou espaço no preenchimento dessa tabela. 
+  </div>
 
-![PT - Tabela Wish](https://images.ctfassets.net/alneenqid6w5/5fvuqSjSRGHwbFVNUSTM3T/6f8f13054b1be01cbd1340d7b5b90bbd/Tabela_Wish.png)
+![PT - Tabela Wish](//images.ctfassets.net/alneenqid6w5/5fvuqSjSRGHwbFVNUSTM3T/6f8f13054b1be01cbd1340d7b5b90bbd/Tabela_Wish.png)
 
 ## Fazendo o upload
 

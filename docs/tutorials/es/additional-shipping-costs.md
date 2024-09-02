@@ -17,7 +17,7 @@ subcategory: 7uJcyu0VawEm8ggqKu404u
 
 Los adicionales de flete son importes que se añaden al costo de envío mediante las [políticas de envío](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). Así, al configurar un valor de costo para la entrega de los ítems de su tienda, puede establecer una tarifa fija e incluir valores adicionales. El costo de envío fijo más los adicionales constituyen el costo de la [tarifa de envío](https://help.vtex.com/pt/tutorial/gerenciar-valores-de-frete--tutorials_141).
 
-![Tarifa envio ES](https://images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/d97d710440d9d301191074a193396a96/Tarifa_envio_ES.svg)
+![Tarifa envio ES](//images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/d97d710440d9d301191074a193396a96/Tarifa_envio_ES.svg)
 
 Los valores adicionales pueden configurarse según:
 
@@ -29,10 +29,12 @@ Los valores adicionales pueden configurarse según:
 * El costo de envío: 
 [adicional de flete](https://help.vtex.com/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-flete).
 
-![adicionais frete ES](https://images.ctfassets.net/alneenqid6w5/3j3VNUKq6qTGJRfGWGbc14/9aef6304664af38fa0a9c03ed1916f7e/adicionais_frete_ES.svg)
+![adicionais frete ES](//images.ctfassets.net/alneenqid6w5/3j3VNUKq6qTGJRfGWGbc14/9aef6304664af38fa0a9c03ed1916f7e/adicionais_frete_ES.svg)
 
->❗ Es posible tener todos los adicionales configurados al mismo tiempo para una única tarifa de envío. El cálculo final de la [tarifa de envío](https://help.vtex.com/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) es la suma de todos los adicionales registrados más la tarifa fija del flete. 
-> La tarifa de envío no es el costo final de envío.
+<div class="alert alert-danger">
+Es posible tener todos los adicionales configurados al mismo tiempo para una única tarifa de envío. El cálculo final de la <a href="https://help.vtex.com/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM">tarifa de envío</a> es la suma de todos los adicionales registrados más la tarifa fija del flete. 
+La tarifa de envío no es el costo final de envío.
+</div>
 
 ## Adicional de peso
 
@@ -60,7 +62,7 @@ Adicional de flete: ($10+$0+$2+$5)x10%=$1,70
 Adicionales de flete: ($2+$5+$1,7)=$8,70  
 Tarifa de envío: ($10+$8,70)=$18,70  
 
-![faixa-peso ES](https://images.ctfassets.net/alneenqid6w5/4s9nSGox3lNthbGiDUdOFq/2af51a115ce00bd21c47e0d38fbea3d1/faixa-peso_ES.png)
+![faixa-peso ES](//images.ctfassets.net/alneenqid6w5/4s9nSGox3lNthbGiDUdOFq/2af51a115ce00bd21c47e0d38fbea3d1/faixa-peso_ES.png)
 
 ### Configuración 
 
@@ -90,7 +92,9 @@ Adicional de flete: ($10+$0+$9+$5)x10%=$2,4
 Adicionales de flete: ($9+$5+$2,4)=$16,4  
 Tarifa de envío: ($10+$16,4)=$26,4  
 
->❗ Es importante recordar que el cálculo del adicional de precio no tiene en cuenta los posibles descuentos y promociones, sino el valor integral del carito. Si el adicional de precio es inferior al adicional de seguro, el adicional de precio no se tiene en cuenta en el cálculo final de la tarifa de envío.
+<div class="alert alert-danger">
+Es importante recordar que el cálculo del adicional de precio no tiene en cuenta los posibles descuentos y promociones, sino el valor integral del carito. Si el adicional de precio es inferior al adicional de seguro, el adicional de precio no se tiene en cuenta en el cálculo final de la tarifa de envío.
+</div>
 
 ### Configuración 
 
@@ -124,7 +128,9 @@ Tarifa de envío: ($15+$10,3)=$25,3
 
 El adicional de seguro se configura en la [plantilla de flete](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127), en el campo _MinimumValueInsurance_.
 
->❗ Si el adicional de precio es inferior al adicional de seguro, el adicional de precio no se tiene en cuenta en el cálculo final de la tarifa de envío.
+<div class="alert alert-danger">
+Si el adicional de precio es inferior al adicional de seguro, el adicional de precio no se tiene en cuenta en el cálculo final de la tarifa de envío.
+</div>
 
 ## Adicional de flete
 
@@ -156,5 +162,5 @@ Para configurar el adicional de flete, vaya al menú del Admin.
     1. Si desea incluir una tasa del 10%, rellene el campo con 10. Para los números decimales, utilice puntos en lugar de comas, como en 1.67.
 3. Haga clic en `Guardar`.
 
-![adicional configuracoes ES](https://images.ctfassets.net/alneenqid6w5/2pVEQFyDHdXcZYpkQW85m0/9e15747bc9585ee7467ecad7c06ecc7e/adicional_configuracoes_ES.png)
+![adicional configuracoes ES](//images.ctfassets.net/alneenqid6w5/2pVEQFyDHdXcZYpkQW85m0/9e15747bc9585ee7467ecad7c06ecc7e/adicional_configuracoes_ES.png)
 

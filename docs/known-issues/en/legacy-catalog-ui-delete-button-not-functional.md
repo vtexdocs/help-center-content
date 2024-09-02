@@ -1,5 +1,5 @@
 ---
-title: "Legacy Catalog UI 'delete' button not functional"
+title: 'Legacy Catalog UI "delete" button not functional'
 id: 2soNSJfiQMZcxlpW6jT2FR
 status: PUBLISHED
 createdAt: 2022-01-23T02:51:17.884Z

@@ -1,5 +1,5 @@
 ---
-title: "Pastas de segundo nível não consideram o 'contexto de busca'"
+title: 'Pastas de segundo nível não consideram o "contexto de busca"'
 id: 6WvlorgpBEeIuKk2mprMXm
 status: PUBLISHED
 createdAt: 2019-02-17T19:55:07.529Z
@@ -18,7 +18,9 @@ internalReference:
 
 ## Sumário
 
->⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+<div class = "alert alert-warning">
+  <strong>Atenção</strong>: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+</div>
 
 Pastas de segundo nível não estão considerando o "contexto de busca" que foi cadastrado para ela. O _slug_ do segundo nível da URL está atuando como um filtro da primeira pasta (com base no contexto dela).
 

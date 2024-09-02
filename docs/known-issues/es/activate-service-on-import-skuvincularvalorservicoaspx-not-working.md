@@ -18,7 +18,9 @@ internalReference: 339894
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, en la usabilidad de importación de SkuVincularValorServico.aspx, cuando se intenta cambiar los servicios previamente salidos de inactivos a activos, los valores no se cambian. La interfaz de usuario indica que se han cambiado los valores, pero en realidad no ocurre nada.

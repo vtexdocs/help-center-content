@@ -18,7 +18,9 @@ internalReference: 756243
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Especificamente para o caráter especial ":", quando temos um vendedor com este caráter especial no nome, e tentamos filtrá-lo para a elaboração de relatórios, temos o seguinte quando o vemos em "devtools":

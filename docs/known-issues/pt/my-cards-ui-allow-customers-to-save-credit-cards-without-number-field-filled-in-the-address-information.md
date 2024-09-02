@@ -18,7 +18,9 @@ internalReference: 521542
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um usuário deseja salvar um cartão em MyAccount, o endereço é necessário e sem as informações preenchidas, o botão não faz a ação de tentar salvar o cartão. Mas esta regra não é aplicada ao campo de número do formulário de endereço, que é obrigatório, mas pode ser deixado vazio e o usuário pode salvar o cartão sem esta validação.

@@ -18,7 +18,9 @@ internalReference: 825530
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O CMS legado não cria pastas com menos de 3 caracteres no nome

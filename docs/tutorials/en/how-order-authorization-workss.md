@@ -17,7 +17,7 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 In the Order Management module, __Order Authorization__ allows you to control approvals for orders in your store that have a price divergence.
 
-![autorização-de-pedidos EN](https://images.ctfassets.net/alneenqid6w5/2lbMgKkD1d4Bm7jJwPECqg/a8959ca6d3690c3a53d2e6a34fbc4fa6/autoriza____o-de-pedidos__EN.png)
+![autorização-de-pedidos EN](//images.ctfassets.net/alneenqid6w5/2lbMgKkD1d4Bm7jJwPECqg/a8959ca6d3690c3a53d2e6a34fbc4fa6/autoriza____o-de-pedidos__EN.png)
 
 This divergence in price between orders may occur in two main scenarios:
 
@@ -47,4 +47,6 @@ When notified, the user should:
 
 The remaining orders, classified in the variation % rates with automatic rules will be automatically processed by the system.
 
->⚠️ It's not possible to configure order Authorization to approve orders hierarchically or by approval chain, but instead by a single user.
+<div class="alert alert-warning">
+It's not possible to configure order Authorization to approve orders hierarchically or by approval chain, but instead by a single user.
+</div>

@@ -1,5 +1,5 @@
 ---
-title: "'Texto grande indexado' y 'Texto indexado' no se modifican con la importación de la especificación"
+title: '"Texto grande indexado" y "Texto indexado" no se modifican con la importación de la especificación'
 id: 5ty5q8AfOROtCc8GegzZbd
 status: PUBLISHED
 createdAt: 2022-04-22T17:12:36.962Z
@@ -18,7 +18,9 @@ internalReference: 322657
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

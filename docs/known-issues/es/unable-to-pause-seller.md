@@ -18,7 +18,9 @@ internalReference: 682151
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A veces el mercado no puede pausar al vendedor a través del administrador o a través de la API.

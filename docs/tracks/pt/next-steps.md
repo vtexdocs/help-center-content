@@ -16,7 +16,9 @@ trackSlugPT: proximos-passos-apos-o-go-live
 
 Agora que a loja está configurada no ambiente VTEX e realizou o [go-live](https://help.vtex.com/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/6xYnNxDHUcY6FyChgziCoH), é o momento de conhecer as funcionalidades e [soluções adicionais](https://help.vtex.com/pt/tracks/proximos-passos-apos-o-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm) disponíveis que auxiliam no aumento da performance de vendas e expansão das operações, contribuindo para o desenvolvimento contínuo do negócio.
 
->⚠️ Através do [VTEX Partner Portal](https://partnerportal.vtex.com/), é possível contratar [parceiros](https://help.vtex.com/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao) para auxiliar no desenvolvimento da loja e gestão das soluções apresentadas neste artigo. Para acessar o portal, o usuário precisa ter [acesso ao Admin VTEX](https://help.vtex.com/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz) de uma loja.
+<div class="alert alert-warning">
+  <p>Através do <a href="https://partnerportal.vtex.com/">VTEX Partner Portal</a>, é possível contratar <a href="https://help.vtex.com/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao">parceiros</a> para auxiliar no desenvolvimento da loja e gestão das soluções apresentadas neste artigo. Para acessar o portal, o usuário precisa ter <a href="https://help.vtex.com/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz">acesso ao Admin VTEX</a> de uma loja.</p>
+</div>
 
 ## Lançamentos na VTEX
 

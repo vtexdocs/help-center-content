@@ -18,7 +18,9 @@ En la integración con Mercado Libre, usted puede hacer la descripción de sus a
 
 ## Configuración del template
 
->❗ Mercado Libre **no acepta personalizaciones de template en HTML o CSS** (con excepción del tag &lt;br&gt; para saltos de línea). No se permiten tags de Iframes, Scripts, Forms, Inputs, Meta, Object y Embed.
+<div class="alert alert-danger">
+Mercado Libre <strong>no acepta personalizaciones de template en HTML o CSS</strong> (con excepción del tag &lt;br&gt; para saltos de línea). No se permiten tags de Iframes, Scripts, Forms, Inputs, Meta, Object y Embed.
+</div>
 
 Para que su producto esté disponible en Mercado Libre, es necesario configurar el template del anuncio donde el producto se mostrará. Para hacer la configuración, realice el siguiente procedimiento:
 
@@ -42,7 +44,9 @@ Si desea incluir todos los atributos y valores de los atributos en el template, 
 
 ``{{#each ATRIBUTOS}} {{NOME}} – {{VALOR}} <br> {{/each}}``
 
->ℹ️ Si desea omitir algún atributo en el template, usted puede hacer esto en la **configuración de la integración**, rellenando el campo **Atributos omitidos en el template del producto**, como se explica en la sección **Configurar el panel de Mercado Libre en VTEX** de la etapa anterior.
+<div class="alert alert-info">
+Si desea omitir algún atributo en el template, usted puede hacer esto en la <strong>configuración de la integración</strong>, rellenando el campo <strong>Atributos omitidos en el template del producto</strong>, como se explica en la sección <strong>Configurar el panel de Mercado Libre en VTEX</strong> de la etapa anterior.
+</div>
 
 Usted ha terminado la __tercera etapa__. Ahora, vamos a configurar la logística para las entregas de pedidos hechos en Mercado Libre.
 

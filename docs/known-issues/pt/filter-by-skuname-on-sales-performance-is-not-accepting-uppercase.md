@@ -18,7 +18,9 @@ internalReference: 639219
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 No Painel de Desempenho de Vendas, o filtro por um termo não aceita letras maiúsculas no SkuName.

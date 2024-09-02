@@ -34,13 +34,17 @@ Checkout v6 de VTEX combina información como el código postal del cliente, la 
 - **Más económica**: opción con el menor costo para el cliente.
 - **Más rápida**: opción con el tiempo de entrega más corto.
 
->⚠️ Cuando solo se encuentra disponible un tipo de opción de entrega para un pedido determinado, las opciones **Más económica** y **Más rápida** no se mostrarán al finalizar la compra.
+<div class="alert alert-warning">
+Cuando solo se encuentra disponible un tipo de opción de entrega para un pedido determinado, las opciones <b>Más económica</b> y <b>Más rápida</b> no se mostrarán al finalizar la compra.
+</div>
 
 ## Deshabilitar la función Opciones de entrega optimizadas
 
 La funcionalidad **Opciones de entrega optimizadas** está habilitada de forma predeterminada en Checkout v6. Sin embargo, en algunas regiones puede haber escenarios que contribuyan a que esta función no se utilice. En países como España o Estados Unidos, donde las opciones de envío disponibles son similares, los consumidores prefieren elegir una transportadora en función de su nivel de confianza en la empresa.
 
->⚠️ Al deshabilitar esta función en Admin VTEX, todas las opciones de entrega disponibles se mostrarán en el proceso de Checkout. Sin embargo, si la funcionalidad de [Entregas Múltiples](https://help.vtex.com/es/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#) está habilitada en la tienda y hay diferentes opciones de entrega entre los artículos seleccionados en el carrito, las **Opciones de entrega optimizadas** seguirán mostrándose. Es decir, se necesitará optimizar la entrega para manejar múltiples paquetes (artículos con diferentes opciones de entrega).
+<div class="alert alert-warning">
+Al deshabilitar esta función en Admin VTEX, todas las opciones de entrega disponibles se mostrarán en el proceso de Checkout. Sin embargo, si la funcionalidad de <a href="https://help.vtex.com/es/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#">Entregas Múltiples</a> está habilitada en la tienda y hay diferentes opciones de entrega entre los artículos seleccionados en el carrito, las <b>Opciones de entrega optimizadas</b> seguirán mostrándose. Es decir, se necesitará optimizar la entrega para manejar múltiples paquetes (artículos con diferentes opciones de entrega).
+</div>
 
 Para deshabilitar la función __Opciones de entrega optimizadas__, siga los pasos a continuación:
 
@@ -49,7 +53,7 @@ Para deshabilitar la función __Opciones de entrega optimizadas__, siga los paso
 3. En el menú de opciones azul ubicado en la parte superior de la página, haga clic en __Checkout__.
 4. En __Opciones de entrega optimizadas__, haga clic en el botón <i class="fas fa-toggle-off"></i> para deshabilitar la opción de visualización de las __Opciones de entrega optimizadas__.
 
-![Opciones de entrega optimizadas](https://images.ctfassets.net/alneenqid6w5/4NfLhi5ao5JyVs4mNTwaRu/94ea6b1f59944005c687713e08d86962/Opciones_de_entrega_optimizadas.PNG)
+![Opciones de entrega optimizadas](//images.ctfassets.net/alneenqid6w5/4NfLhi5ao5JyVs4mNTwaRu/94ea6b1f59944005c687713e08d86962/Opciones_de_entrega_optimizadas.PNG)
 
 <ul>
   5. Haga clic en <b>Guardar</b>.

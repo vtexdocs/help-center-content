@@ -17,7 +17,7 @@ subcategory:
 
 O app [Carrinho Compartilhável](https://apps.vtex.com/vtex-social-selling/p) permite que vendedores selecionem produtos para seus clientes e compartilhem o carrinho preenchido por canais como WhatsApp, Facebook Messenger e e-mail (Social Selling).
 
-![Shareable Cart Demo](https://images.ctfassets.net/alneenqid6w5/sf2zbYOG7janUXWbgkajd/93aa5f4ea002c5877a9620722af67890/Jy98kJ.gif)
+![Shareable Cart Demo](//images.ctfassets.net/alneenqid6w5/sf2zbYOG7janUXWbgkajd/93aa5f4ea002c5877a9620722af67890/Jy98kJ.gif)
 
 Este artigo explica todos os passos para usar esta funcionalidade: ativar app, escolher os produtos, adicionar o código do vendedor, compartilhar e criar um novo carrinho. Antes de começar, é preciso [ativar esta funcionalidade na sua loja](https://help.vtex.com/pt/tutorial/como-ativar-o-app-carrinho-compartilhavel--1lS3fQdXpOoC0BTeVhydfg).
 
@@ -31,25 +31,25 @@ Onde `{Endereço web da sua loja}` deve ser substituído pelo endereço do site 
 
 A interface de compartilhamento de carrinho deve aparecer na tela, incluindo alguns dos ícones abaixo. As opções disponíveis dependem da configuração escolhida pela loja.
 
-![Screen Shot 2020-05-03 at 17.37.11](https://images.ctfassets.net/alneenqid6w5/167aYS1QT597gtpD7Zfxtu/834514c7425ede7f3a1f8c0db2480b63/Screen_Shot_2020-05-03_at_17.37.11.png)
+![Screen Shot 2020-05-03 at 17.37.11](//images.ctfassets.net/alneenqid6w5/167aYS1QT597gtpD7Zfxtu/834514c7425ede7f3a1f8c0db2480b63/Screen_Shot_2020-05-03_at_17.37.11.png)
 
 ## Escolher produtos
 
 Uma vez ativado o app, não é necessário fazer login para iniciar a navegação e selecionar os produtos. Basta navegar na loja normalmente, como se estivesse fazendo uma compra online. Depois de escolher todos produtos para o cliente, basta abrir o carrinho e seguir os próximos passos na interface de compartilhamento de carrinho.
 
-![shareable-cart-chooseproducts](https://images.ctfassets.net/alneenqid6w5/5KF6iTOUM6fqoAnwUO6JD1/e20cb733489567945c57599681e68185/shareable-cart-chooseproducts.gif)
+![shareable-cart-chooseproducts](//images.ctfassets.net/alneenqid6w5/5KF6iTOUM6fqoAnwUO6JD1/e20cb733489567945c57599681e68185/shareable-cart-chooseproducts.gif)
 
 ## Adicionar código de vendedor
 
 Após selecionar os produtos, clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3N22EOkpKDTgr32mkN9ei5/6cb4627d028e3ffe0aa29c607ce6c90b/image10.png" /> para adicionar o seu código de vendedor. Siga as instruções da loja para o preenchimento, já que cada loja pode escolher formas diferentes para identificar vendedores e descontos.
 
-![shareable-cart-addcode](https://images.ctfassets.net/alneenqid6w5/1ORhQKfIfTsXZhPR40d3FQ/f751f96f3800e2c7f7ec91bae80257b0/shareable-cart-addcode.gif)
+![shareable-cart-addcode](//images.ctfassets.net/alneenqid6w5/1ORhQKfIfTsXZhPR40d3FQ/f751f96f3800e2c7f7ec91bae80257b0/shareable-cart-addcode.gif)
 
 ## Preencher dados pessoais e endereço (opcional)
 
 Conforme a preferência do cliente e as orientações da sua loja, você poderá preencher os dados pessoais e de entrega do pedido. __Já os dados de pagamentos devem ser sempre preenchidos pelo cliente.__
 
-![shareable-cart-customerdetails](https://images.ctfassets.net/alneenqid6w5/4JY5ktzka93UkWov5cMnb6/8d2cccb0e7189da93ed6bf98c37d7752/shareable-cart-customerdetails.gif)
+![shareable-cart-customerdetails](//images.ctfassets.net/alneenqid6w5/4JY5ktzka93UkWov5cMnb6/8d2cccb0e7189da93ed6bf98c37d7752/shareable-cart-customerdetails.gif)
 
 <div class="alert alert-danger" role="alert"><strong>Nunca peça dados de pagamento ao enviar o carrinho.</strong> Mesmo que o cliente insista, informe que é para a segurança de todos que o pagamento seja informado por ele.</div>
 
@@ -57,7 +57,7 @@ Conforme a preferência do cliente e as orientações da sua loja, você poderá
 
 Depois de adicionar seu código de vendedor, clique no botão correspondente à opção desejada. Detalhamos abaixo os passos para cada tipo de compartilhamento.
 
-![shareable-cart-sharecart](https://images.ctfassets.net/alneenqid6w5/2lFmGUNGO1aECbPwa7w5Fn/d50c6ab066dbfad0b9622f3c2509dcb6/shareable-cart-sharecart.gif)
+![shareable-cart-sharecart](//images.ctfassets.net/alneenqid6w5/2lFmGUNGO1aECbPwa7w5Fn/d50c6ab066dbfad0b9622f3c2509dcb6/shareable-cart-sharecart.gif)
 
 ### WhatsApp
 

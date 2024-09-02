@@ -18,7 +18,9 @@ internalReference: 430650
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O usuário logado não pode fazer uma assinatura diária diretamente da guia Assinatura na Minha Conta. O botão parece não responder, e não aparece nenhuma mensagem de erro. Parece que outras freqüências, tais como assinaturas mensais ou anuais, estão operando normalmente.

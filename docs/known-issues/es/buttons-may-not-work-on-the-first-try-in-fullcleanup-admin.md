@@ -18,7 +18,9 @@ internalReference: 790828
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En el administrador de Fullcleanup, se espera que los botones actúen al primer intento. Sin embargo, para realizar la acción, puede ser necesario hacer clic en el botón varias veces.

@@ -18,7 +18,9 @@ internalReference: 343056
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar a geolocalização no checkout, os usuários podem pular para a etapa de pagamento com o `shippingData` incompleto.

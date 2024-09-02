@@ -18,7 +18,9 @@ internalReference: 976005
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O conector antigo da Adyen captura o pagamento sempre que recebe o campo `"response":"[capture-received]"`. No entanto, esse evento indica apenas que a captura foi recebida e será processada de forma assíncrona. Esse comportamento evita que as capturas sejam negadas, pois a notificação assíncrona encontra um pagamento já capturado e não o reembolsa.

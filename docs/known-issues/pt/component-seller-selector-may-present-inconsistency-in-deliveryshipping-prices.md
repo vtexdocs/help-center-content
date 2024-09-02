@@ -18,7 +18,9 @@ internalReference: 658452
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O componente Seletor do Vendedor apresenta inconsistência nos preços de entrega/remessa com base no valor do pedido.

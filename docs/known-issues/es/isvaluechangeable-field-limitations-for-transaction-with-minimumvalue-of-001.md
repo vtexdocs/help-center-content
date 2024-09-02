@@ -18,7 +18,9 @@ internalReference: 825122
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Sólo hay dos formas de cambiar el campo `isValueChangeable` de una transacción: cuando se produce una división, y cuando el `maximumValue` es igual al `minimumValue`. Además, hay que tener en cuenta que todas las transacciones se crean con un "valor mínimo" de 0,01. Por lo tanto, cuando una transacción se divide, el campo "isValueChangeable" no se modifica. En consecuencia, cuando se crea una transacción con un valor de 0,01, el campo "isValueChangeable" se establece automáticamente en "false".

@@ -18,7 +18,9 @@ internalReference: 508883
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se descarga un informe de búsqueda, la tabla que contiene métricas como búsquedas, clics y clics únicos al final del informe contiene una columna de fecha que muestra entradas duplicadas sin una razón aparente como se puede ver en la imagen:

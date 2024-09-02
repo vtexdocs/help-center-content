@@ -18,7 +18,9 @@ internalReference: 623183
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A pesar del mensaje de éxito en el Admin de que la hoja de cálculo de imágenes se está procesando y que pronto se enviará al correo electrónico, el informe nunca llega realmente.

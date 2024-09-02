@@ -18,7 +18,9 @@ internalReference: 764457
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se añade "selectedSla" (debe ser una recogida) y "selectedAddresses" vía API en un carrito con promoción de regalo, la tienda está configurada para geolocalización y utiliza polígonos, la vista previa del envío mostrará un mensaje de no disponibilidad para la recogida, que fue seleccionada vía API. Este comportamiento impactará en el flujo de compra ya que no permitirá avanzar después del envío.

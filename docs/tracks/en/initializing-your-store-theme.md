@@ -27,7 +27,7 @@ Select `store-theme` and confirm that you would like to download the template pr
 
 You will then be asked important app meta information like this app's vendor, name, title, and description. Use the __account name__ you're developing in as the __vendor__. This is important so you can correctly publish this app in this account later. You can use the default values by pressing enter.
 
-![store-theme](https://images.ctfassets.net/alneenqid6w5/6FEPaKbOMqkndELmvd0u6z/f47d4a3a04b5cf270372b5dbc72940a9/store-theme.svg)
+![store-theme](//images.ctfassets.net/alneenqid6w5/6FEPaKbOMqkndELmvd0u6z/f47d4a3a04b5cf270372b5dbc72940a9/store-theme.svg)
 
 ## Understanding the app structure
 
@@ -72,7 +72,9 @@ Let's take a look at an example manifest file and all its properties:
 
 The store-theme init also created two different folders, named after the builders defined on the manifest: __store/__ and __styles/__. These will be processed by their respective builders in order to have the desired effects on your store.
 
->ℹ️ Aside: Note that the `store-theme` depends on the `vtex.store` [app](https://github.com/vtex-apps/store). This app declares the basic configurations in order to have a functioning store, such as interfaces, routes, store settings, and more. You can think of it as part of the VTEX Store Framework. This app comes pre-installed with every VTEX account and cannot be uninstalled.
+<div class="alert alert-info">
+Aside: Note that the <code>store-theme</code> depends on the <code>vtex.store</code> <a href="https://github.com/vtex-apps/store">app</a>. This app declares the basic configurations in order to have a functioning store, such as interfaces, routes, store settings, and more. You can think of it as part of the VTEX Store Framework. This app comes pre-installed with every VTEX account and cannot be uninstalled.
+</div>
 
 We will start editing these files soon. First, let's link this app and see it working.
 
@@ -84,9 +86,11 @@ During a `link`, any changes you make to your code are automatically uploaded an
 
 Run `vtex link`  and watch your template app be compiled and published to the account and workspace you just created.
 
-![vtex-link](https://images.ctfassets.net/alneenqid6w5/1peFxCLM0kF9JvC8AmPeFi/9cef3e4e5e5877a744c15ca3f6e8db18/vtex-link.svg)
+![vtex-link](//images.ctfassets.net/alneenqid6w5/1peFxCLM0kF9JvC8AmPeFi/9cef3e4e5e5877a744c15ca3f6e8db18/vtex-link.svg)
 
->ℹ️ Remember: run `vtex whoami` to make sure you are in the correct account and in a test workspace, otherwise `VTEX Toolbelt` will complain about linking directly to master.
+<div class="alert alert-info">
+Remember: run <code>vtex whoami</code> to make sure you are in the correct account and in a test workspace, otherwise <code>VTEX Toolbelt</code> will complain about linking directly to master.
+</div>
 
 ## Visiting our newly generated store
 
@@ -100,4 +104,4 @@ The `{{account}}.myvtex.com` is your private domain for testing new workspaces, 
 
 Congratulations on linking your first VTEX IO App!
 
-![dreamstore](https://images.ctfassets.net/alneenqid6w5/7G77GAWEmdysNJ2JBYaAI8/6b2bc7f47f994242c8a853e84e3f0b67/dreamstore.svg)
+![dreamstore](//images.ctfassets.net/alneenqid6w5/7G77GAWEmdysNJ2JBYaAI8/6b2bc7f47f994242c8a853e84e3f0b67/dreamstore.svg)

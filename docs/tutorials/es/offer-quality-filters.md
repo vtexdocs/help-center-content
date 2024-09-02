@@ -21,7 +21,7 @@ Es importante para la operación del marketplace que haya criterios de calidad p
 
 **Calidad de anuncios** es la página donde los marketplaces registran y gestionan los grupos de requisitos aplicados al proceso de catalogación de SKU recibidos. Para accederla, en su VTEX Admin, haz clic en **Marketplace > Calidad de anuncios**, o escriba __"Calidad del anuncio"__ en la barra de búsqueda.
 
-![ES offer quality](https://images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/890bb24504e8f6b809cd318fb85ed53a/ES_offer_quality.png)
+![ES offer quality](//images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/890bb24504e8f6b809cd318fb85ed53a/ES_offer_quality.png)
 
 Con este tutorial, sepa cómo:
 
@@ -46,7 +46,7 @@ La funcionalidad permite que el operador del marketplace pueda realizar una seri
 | Aportar más transparencia a los criterios de catalogación de anuncios recibidos y a la medida en que los sellers y anuncios los cumplen.                                                            | Permite identificar los sellers y los tipos de anuncios que no cumplen los requisitos, lo que acelera la corrección de problemas.                 |
 
 ## Ver "Default requirements" 
-![ESDefault requirements](https://images.ctfassets.net/alneenqid6w5/6OxPTO8QO6o9zZ8kTt5tVG/b86fb58a9c6b454c31fb0bf0829adf4f/ESDefault_requirements.png)
+![ESDefault requirements](//images.ctfassets.net/alneenqid6w5/6OxPTO8QO6o9zZ8kTt5tVG/b86fb58a9c6b454c31fb0bf0829adf4f/ESDefault_requirements.png)
 
 La página estándar tiene algunos requisitos preestablecidos que se aplicarán a todas las categorías, sellers y marcas, conocidas como «Default requirements». Algunos de estos criterios se configuran de forma nativa en [VTEX Matcher](https://help.vtex.com/es/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), la herramienta aplicada a los marketplaces VTEX para ayudar en el proceso de catalogación de los anuncios recibidos.
 
@@ -59,7 +59,9 @@ Para ver las reglas activas de forma predeterminada, en la página de «Calidad 
 -	ID de ref. tiene un máximo de caracteres de 50
 -	EAN tiene un máximo de caracteres de 50
 
->ℹ️ Se puede configurar VTEX Matcher para que apruebe anuncios automáticamente mediante las llamadas de API REST [Save Account's Approval Settings](https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig). Estos criterios son diferentes de los que se pueden ver en la página Calidad de anuncios y se aplican a la aprobación automática de anuncios de determinados sellers.
+<div class="alert alert-info">
+Se puede configurar VTEX Matcher para que apruebe anuncios automáticamente mediante las llamadas de API REST <a href="https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig">Save Account's Approval Settings</a>. Estos criterios son diferentes de los que se pueden ver en la página Calidad de anuncios y se aplican a la aprobación automática de anuncios de determinados sellers.
+</div>
 
 ## Crear grupos de requisitos
 
@@ -81,7 +83,9 @@ Crea grupos de requisitos para definir las reglas aplicadas a sellers, categorí
 
 Puedes crear requisitos obligatorios y/u opcionales. Aprende más sobre las implicaciones de cada requisito en  [Catalogar anuncios con requisitos](#catalogar-anuncios-con-requisitos).
 
->ℹ️ Ten en cuenta que cada grupo de requisitos solo contiene un valor. Por lo tanto, para agregar más de un valor tienes que crear otro grupo de requisitos. Por ejemplo, si el marketplace desea agregar las palabras «blusas» y «camisas» como requisitos obligatorios en el campo Marca del seller, tiene que crear un grupo de requisitos para «blusas» y otro para «camisas».
+<div class="alert alert-info">
+Ten en cuenta que cada grupo de requisitos solo contiene un valor. Por lo tanto, para agregar más de un valor tienes que crear otro grupo de requisitos. Por ejemplo, si el marketplace desea agregar las palabras «blusas» y «camisas» como requisitos obligatorios en el campo Marca del seller, tiene que crear un grupo de requisitos para «blusas» y otro para «camisas».
+</div>
 
 Para crear un nuevo grupo de requisitos:
 

@@ -18,7 +18,9 @@ internalReference: 557051
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Depois de enviar a solicitação de captura para o conector NPS, recebemos a resposta. No entanto, atualmente, não temos nenhuma ação em vigor para quando o campo `psp_ResponseCod` retorna um valor diferente de 2. Isso faz com que a operação de captura falhe, impedindo que o pagamento seja capturado com êxito.

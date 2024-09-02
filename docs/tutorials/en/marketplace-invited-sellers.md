@@ -27,7 +27,7 @@ In addition to sending invitations, the page also displays a list of sellers to 
 
 For new sellers to integrate with your marketplace, you must perform the following actions on the VTEX platform: [Invite](#inviting-sellers) and [Connect](#connecting-sellers).
 
-![EN seller invite](https://images.ctfassets.net/alneenqid6w5/3kCM8CHXpzssH5MWf6txLh/48e7ae5bdb892b7e0b0811c2d868a8b4/EN_Seller_invite.jpg)
+![EN seller invite](//images.ctfassets.net/alneenqid6w5/3kCM8CHXpzssH5MWf6txLh/48e7ae5bdb892b7e0b0811c2d868a8b4/EN_Seller_invite.jpg)
 
 ## Inviting sellers
 
@@ -47,8 +47,10 @@ You can invite sellers by sending them a link by email with all the necessary in
 
 The seller will receive an invitation by email to sell on your marketplace. 
 
->ℹ️ The link sent to the seller by email is valid for seven days. Once the link is opened, the seller has six hours to complete the registration form, without interruption. 
-> If the registration cannot be completed within six hours, the marketplace needs to send the invitation again. To resend the invitation, access MARKETPLACE > Invite sellers. Select the seller in the list and click on the  <i class="fas fa-paper-plane"></i> Resend invitation button.
+<div class="alert alert-info">
+The link sent to the seller by email is valid for seven days. Once the link is opened, the seller has six hours to complete the registration form, without interruption. 
+If the registration cannot be completed within six hours, the marketplace needs to send the invitation again. To resend the invitation, access MARKETPLACE > Invite sellers. Select the seller in the list and click on the  <i class="fas fa-paper-plane"></i> Resend invitation button.
+</div>
 
 ## Connecting sellers
 

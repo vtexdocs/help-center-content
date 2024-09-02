@@ -18,7 +18,9 @@ internalReference: 748320
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para un escenario donde el Crédito de Cliente es usado para pagar una cantidad menor que el valor total del carrito; muestra, para 1x cuota en el desplegable, la cantidad total ignorando débitos considerados como pagar con otro método de pago como una tarjeta de regalo.

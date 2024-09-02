@@ -23,7 +23,9 @@ Conforme explicado no artigo [Definições de Conta Franquia e Seller White Labe
 
 Desta maneira, o ponto de retirada configurado na Conta Franquia servirá para atender às entregas dos pedidos realizados na Conta Principal. Neste cenário, a Conta Franquia atua como __Seller White Label__ da Conta Principal.
 
->❗ As configurações devem ser feitas na conta do Seller White Label. Os itens só ficarão disponíveis para retirada no checkout do cliente final se o SKU estiver disponível no estoque da conta principal e da conta do Seller White Label.
+<div class="alert alert-danger">
+As configurações devem ser feitas na conta do Seller White Label. Os itens só ficarão disponíveis para retirada no checkout do cliente final se o SKU estiver disponível no estoque da conta principal e da conta do Seller White Label.
+</div>
 
 ## Configurações iniciais 
 
@@ -46,7 +48,9 @@ Para saber em detalhes como preencher os  campos da planilha, acesse nosso artig
 
 Se a configuração do ponto de retirada tiver sido feita corretamente na Conta Franquia, os SKUs com __estoque disponível e preço__ poderão ser vendidos na Conta Principal, onde a Conta Franquia vai atuar como um __Seller White Label__ e a Conta Principal funcionará como um __Marketplace__.
 
->⚠️ Certifique-se de que o seller white label está ativo. Para isso, acesse o Admin VTEX, em **Marketplace > Sellers > Gerenciamento**, e na linha do seller e coluna <i>Status</i>, clique em `Ativo`.
+<div class="alert alert-warning">
+Certifique-se de que o seller white label está ativo. Para isso, acesse o Admin VTEX, em <b>Marketplace > Sellers > Gerenciamento</b>, e na linha do seller e coluna <i>Status</i>, clique em <code>Ativo</code>.
+</div>
 
 ### Seller White Label/Conta Franquia
 

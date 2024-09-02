@@ -33,4 +33,6 @@ To do so, you would follow these steps:
 4. Each of these lines must be turned into two, so that the zip code 45920-000 is ignored. So you would have: `ZipCodeStart` = __37900-001__ and `ZipCodeEnd` = __45919-999__ / `ZipCodeStart` = __45920-001__ and `ZipCodeEnd` = __97904-999__.  
 With this, the spreadsheet would "jump" the zip code 45920-000. And consequently it would no longer be considered as an address served by that carrier.
 
->ℹ️ The postal code examples in this article refer to Brazil, each country has its own postal code format.
+<div class = "alert alert-info">
+The postal code examples in this article refer to Brazil, each country has its own postal code format.
+</div>

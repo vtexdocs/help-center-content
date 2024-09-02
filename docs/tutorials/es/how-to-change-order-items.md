@@ -22,12 +22,16 @@ Hay dos formas de modificar un pedido:
 * [Por el Admin VTEX:](#como-cambiar) esta opción se puede utilizar si el status del pedido es `Preparando entrega`.  
 * [Por la API de cambio de pedidos:](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/changes) además de cambiar los ítems, se puede crear descuentos y modificar el precio del pedido. El cambio solo se puede realizar si el status del pedido en la API de pedidos es `handling` o `waiting-for-fulfillment`.  
 
->⚠️ Tras el cambio, el cliente recibe una notificación por email si la plantilla `Change of information` ([plantillas de emails transaccionales referentes al pedido)](https://help.vtex.com/es/tutorial/plantillas-de-emails-transaccionales-del-pedido--3g2S2kqBOoSGcCaqMYK2my) está activada en el Centro de mensajes.  El cliente recibe los mensajes con la información que se ha rellenado en el formulario de cambio de ítems.
+<div class="alert alert-warning">
+Tras el cambio, el cliente recibe una notificación por email si la plantilla <code>Change of information</code> (<a href="https://help.vtex.com/es/tutorial/plantillas-de-emails-transaccionales-del-pedido--3g2S2kqBOoSGcCaqMYK2my">plantillas de emails transaccionales referentes al pedido)</a> está activada en el Centro de mensajes.  El cliente recibe los mensajes con la información que se ha rellenado en el formulario de cambio de ítems.
+</div>
 
 Es posible editar ítems que aún no fueron facturados en un pedido. Para agregar nuevos ítems, remover ítems o modificar la cantidad de cada uno, realice los siguientes pasos.  
 
->ℹ️ Para realizar el cambio, el pedido debe tener el status `  «Preparando entrega»` equivalente al status `«handling» ` en la [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/changes). Para obtener más información sobre los estados de los pedidos, lea nuestro artículo [Tabla de estados de pedidos](https://help.vtex.com/es/tutorial/tabla-de-estados-de-pedidos-oms--frequentlyAskedQuestions_773).
-> Consulte la sección de [Restricciones](https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190#restricciones) para conocer las condiciones de uso de la funcionalidad.
+<div class = "alert alert-info">
+Para realizar el cambio, el pedido debe tener el status <code>  «Preparando entrega»</code> equivalente al status <code>«handling» </code> en la <a href="https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/changes">API</a>. Para obtener más información sobre los estados de los pedidos, lea nuestro artículo <a href="https://help.vtex.com/es/tutorial/tabla-de-estados-de-pedidos-oms--frequentlyAskedQuestions_773">Tabla de estados de pedidos</a>.
+Consulte la sección de <a href="https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190#restricciones">Restricciones</a> para conocer las condiciones de uso de la funcionalidad.
+</div>
 
 1. En el Admin VTEX, accede a **Pedidos > Todos los pedidos**, o escribe **Todos los pedidos** en la barra de búsqueda en la parte superior de la página.  
 2. Busca el pedido en la barra de búsqueda o [usa los filtros](https://help.vtex.com/es/tutorial/como-filtrar-pedidos--tutorials_192) y selecciona el pedido deseado.    
@@ -53,4 +57,6 @@ Al [cambiar o eliminar ítems de un pedido](https://help.vtex.com/es/tutorial/al
 
 El valor total del pedido se actualizará después de que se inserte la factura, y corresponde al valor capturado por el gateway de pagos de VTEX. Si el cliente devuelve un ítem, el reembolso se realizará automáticamente a través del sistema de Pagos de VTEX.
 
->ℹ️ La funcionalidad de facturas parciales está disponible para toda la base de clientes VTEX, pero la liquidación parcial en el gateway se encuentra en la versión Beta. Además, para que las facturas parciales disparen liquidaciones parciales en la transacció, es necesario utilizar un conector que utilice el [Payment Provider Protocol](https://help.vtex.com/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Los conectores legados no admiten la funcionalidad.
+<div class = "alert alert-info">
+La funcionalidad de facturas parciales está disponible para toda la base de clientes VTEX, pero la liquidación parcial en el gateway se encuentra en la versión Beta. Además, para que las facturas parciales disparen liquidaciones parciales en la transacció, es necesario utilizar un conector que utilice el <a href="https://help.vtex.com/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m">Payment Provider Protocol</a>. Los conectores legados no admiten la funcionalidad.
+</div>

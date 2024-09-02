@@ -18,7 +18,9 @@ internalReference: 907567
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Espera-se que o administrador seja usado sem restrições. No entanto, às vezes um erro **Algo deu errado** é exibido no administrador do catálogo.

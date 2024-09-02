@@ -21,7 +21,9 @@ The complete flow is: purchase closed with slip option on the website&gt; order 
 
 As explained in our document [How long until an order whose slip was not paid is cancelled?](/hc/pt-br/articles/215033318 "How long until an order whose slip was not paid is cancelled?"), there is a deadline for the cancellation of the order, if it is not reported as paid on the Approved Payment status (manually in the OMS or by bank reconciliation). In this case, the order will remain in the Pending Payment status until it is canceled.
 
->⚠️ The procedures in this article are not applicable to integrations that perform bank reconciliation automatically.
+<div class="alert alert-warning">
+The procedures in this article are not applicable to integrations that perform bank reconciliation automatically.
+</div>
 
 ## How to upload
 
@@ -34,7 +36,7 @@ After receiving the bank file and saving it on your machine, as mentioned above
 
 Once you select the file, the platform will begin to process it, and record in the history how many payments were reconciled, with success or error. Payments that have been successfully reconciled will update the status of the orders to Approved Payment.
 
-![upload-file-ret](https://images.ctfassets.net/alneenqid6w5/3KDKXLTwzYy1W9PNKGfIyT/b7dd94c343503e88caa9430ba9319e39/uploadret_EN.JPG)
+![upload-file-ret](//images.ctfassets.net/alneenqid6w5/3KDKXLTwzYy1W9PNKGfIyT/b7dd94c343503e88caa9430ba9319e39/uploadret_EN.JPG)
 
 ## View history
 
@@ -46,7 +48,7 @@ Among the details, it is possible to know the bank to which the slip belongs, th
 3. In **History**, click on one of the dates of the bank reconciliation operations performed.
 4. In **More Details**, click **Successfully Reconciled** or **Not Able to Reconcile** to check the details of the transactions carried out in a particular bank. 
 
-![historic-conciliation](https://images.ctfassets.net/alneenqid6w5/7K6sF9KZlBA00tbSp4q0pC/2e2ebac6f5612baa7935e99758612f66/historico_conciliacao_EN.jpg)
+![historic-conciliation](//images.ctfassets.net/alneenqid6w5/7K6sF9KZlBA00tbSp4q0pC/2e2ebac6f5612baa7935e99758612f66/historico_conciliacao_EN.jpg)
 
 ## Payclub
 
@@ -57,4 +59,4 @@ Here you can download the payments on the day they were made through redirection
 4. Select the date you want from the calendar.
 5. Click on **Download file**.
 
-![donwload-file-conciliation](https://images.ctfassets.net/alneenqid6w5/78K7wW5QAaA0tVCJTBwpDH/fa25f9754480cf2e41b72b70f95d5740/Download_Concilia____o_EN.JPG)
+![donwload-file-conciliation](//images.ctfassets.net/alneenqid6w5/78K7wW5QAaA0tVCJTBwpDH/fa25f9754480cf2e41b72b70f95d5740/Download_Concilia____o_EN.JPG)

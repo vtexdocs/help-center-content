@@ -18,7 +18,9 @@ internalReference: 989507
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As condições de pagamento configuradas nas configurações de organizações B2B não são salvas nos detalhes da organização.

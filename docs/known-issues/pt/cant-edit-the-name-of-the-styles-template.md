@@ -18,7 +18,9 @@ internalReference: 882147
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Depois de criar um novo estilo no módulo Styles, não é possível editar seu nome.

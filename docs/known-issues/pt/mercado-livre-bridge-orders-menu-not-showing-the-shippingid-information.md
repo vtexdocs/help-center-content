@@ -18,7 +18,9 @@ internalReference: 1001903
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, temos um problema que afeta apenas a visibilidade de alguns pedidos MELI. O que acontece é que estamos registrando o ShipmentID no menu de ponte de pedidos, mas algumas mensagens de erro não têm o OrderID, e isso é necessário em alguns casos, pois o OrderID é a informação que os vendedores têm no Portal MELI.

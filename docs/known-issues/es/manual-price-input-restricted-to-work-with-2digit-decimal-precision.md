@@ -18,7 +18,9 @@ internalReference: 627719
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La entrada "manualPrice" en el carrito está restringida a trabajar con la precisión decimal de 2 dígitos. Si la tienda utiliza sólo uno o ningún decimal, el campo de entrada no funcionará correctamente.

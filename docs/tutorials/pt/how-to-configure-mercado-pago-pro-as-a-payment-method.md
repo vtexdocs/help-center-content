@@ -43,6 +43,10 @@ Do lado direito da tela, é possível configurar as [condições especiais de pa
 
 Entretanto, essa etapa é opcional. Você pode simplesmente clicar diretamente no __botão azul “Salvar”__ para finalizar a configuração do meio de pagamento. 
 
->ℹ️ Para processar pagamentos feitos com o Pix, basta [cadastrar uma chave Pix no Mercado Pago](https://www.mercadopago.com.br/pix/) após concluir a configuração do meio de pagamento.
+<div class="alert alert-info">
+Para processar pagamentos feitos com o Pix, basta <a href="https://www.mercadopago.com.br/pix/">cadastrar uma chave Pix no Mercado Pago</a> após concluir a configuração do meio de pagamento. 
+</div>
 
->⚠️ **Lembre-se:** novas condições de pagamento podem levar até 10 minutos para ser exibidas no SmartCheckout.
+<div class="alert alert-warning">
+<strong>Lembre-se:</strong> novas condições de pagamento podem levar até 10 minutos para ser exibidas no SmartCheckout.
+</div>

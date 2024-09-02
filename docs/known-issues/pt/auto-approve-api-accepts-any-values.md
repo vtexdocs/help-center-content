@@ -18,7 +18,9 @@ internalReference: 713704
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a API de aprovação automática não está verificando se o vendedor existe, o que pode levar a configurações incorretas.

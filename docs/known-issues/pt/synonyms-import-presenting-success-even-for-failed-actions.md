@@ -18,7 +18,9 @@ internalReference: 984557
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A importação de sinônimos para arquivos CSV retornará uma mensagem de sucesso mesmo para ações que falharam.

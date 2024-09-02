@@ -18,7 +18,9 @@ internalReference: 774518
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para criar ou editar uma SKU é necessário preencher os campos necessários, tais como peso, altura, largura e comprimento da remessa. Entretanto, quando deixamos um desses campos sem um valor válido e salvamos a SKU, Admin retorna uma mensagem de erro sobre as especificações, mesmo quando não há especificações obrigatórias a serem preenchidas.

@@ -1,5 +1,5 @@
 ---
-title: "Search banners not following the operator 'AND' for trigger conditions"
+title: 'Search banners not following the operator "AND" for trigger conditions'
 id: 4nQLt5q3Mz2DxvBIyZknXj
 status: PUBLISHED
 createdAt: 2024-06-20T21:17:46.485Z

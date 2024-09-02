@@ -18,7 +18,9 @@ internalReference: 857894
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La exportación de un gran número de documentos de una entidad provoca un procesamiento excesivo, causando errores en la cola de proceso e impidiendo la exportación de la lista de documentos.

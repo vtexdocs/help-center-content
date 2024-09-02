@@ -15,7 +15,9 @@ legacySlug: cadastrar-o-preco-base-de-um-produto
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---
 
->ℹ️ Este artigo se refere à versão mais recente do Pricing da VTEX. Caso a sua loja ainda não esteja nesta nova versão, você pode solicitar a migração entrando em contato com o nosso time de atendimento.
+<div class="alert alert-info">
+Este artigo se refere à versão mais recente do Pricing da VTEX. Caso a sua loja ainda não esteja nesta nova versão, você pode solicitar a migração entrando em contato com o nosso time de atendimento.
+</div>
 
 O __preço base__ é o preço básico de venda de um produto. Ele é composto pelo __preço de custo__ mais o __markup__ desejado na venda do produto.
 
@@ -27,7 +29,9 @@ Para configurar o preço base, siga os passos abaixo:
 - No campo __Markup__, preencha com o percentual da margem de lucro a ser obtida com a venda do SKU.
 - O preço base de venda será calculado em função dos dados fornecidos nos passos anteriores.
 
->ℹ️ Caso o SKU possua algum preço de lista, você pode acrescentar esta informação clicando em **+ Adicionar Preço de Lista**. Este preço funciona como o "preço de". O preço base funcionará como o "preço por".
+<div class="alert alert-info">
+Caso o SKU possua algum preço de lista, você pode acrescentar esta informação clicando em <strong>+ Adicionar Preço de Lista</strong>. Este preço funciona como o "preço de". O preço base funcionará como o "preço por".
+</div>
 
 ## Artigos relacionados
 

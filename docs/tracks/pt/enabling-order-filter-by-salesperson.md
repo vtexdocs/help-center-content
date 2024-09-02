@@ -14,11 +14,13 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugPT: habilitar-filtro-de-pedidos-por-vendedor
 ---
 
->❗ A mudança das configurações de filtro por vendedor, explicada neste artigo, envolve e alteração do arquivo `checkout-instore-custom.js`. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos.
+<div class="alert alert-danger">
+A mudança das configurações de filtro por vendedor, explicada neste artigo, envolve e alteração do arquivo <code>checkout-instore-custom.js</code>. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos.
+</div>
 
 No inStore, é possível ver a listagem de todos os pedidos finalizados em uma loja:
 
-![26. Enable order filter by salesperson - 1](https://images.ctfassets.net/alneenqid6w5/4pI7zxSaInuVvjIqWUK3Uv/ef9c2555f36f9bed41970a85727c2059/26._Enable_order_filter_by_salesperson_-_1.png)
+![26. Enable order filter by salesperson - 1](//images.ctfassets.net/alneenqid6w5/4pI7zxSaInuVvjIqWUK3Uv/ef9c2555f36f9bed41970a85727c2059/26._Enable_order_filter_by_salesperson_-_1.png)
 
 Porém, algumas vezes faz sentido que um vendedor veja apenas os pedidos finalizados por ele. Para habilitar essa opção é necessário editar o arquivo `checkout-instore-custom.js`.
 
@@ -35,8 +37,10 @@ window.INSTORE_CONFIG = {
 
 Com isso, filtramos os pedidos para exibir apenas aqueles realizados pelo vendedor atualmente logado no inStore.
 
->❗ Não remova nenhuma das outras propriedades presentes no objeto `window.INSTORE_CONFIG`, para evitar a quebra de outras funcionalidades.
+<div class="alert alert-danger">
+Não remova nenhuma das outras propriedades presentes no objeto <code>window.INSTORE_CONFIG</code>, para evitar a quebra de outras funcionalidades.
+</div>
 
 Após recarregar os dados do inStore, clicando no botão __Restaurar dados__, o vendedor verá apenas os pedidos fechados por ele, como no seguinte exemplo:
 
-![26. Enable order filter by salesperson - 2](https://images.ctfassets.net/alneenqid6w5/4vi7YeUa3706ls0bQ2p0eE/343cfe8b50ae2956522bc5c79de8ec58/26._Enable_order_filter_by_salesperson_-_2.png)
+![26. Enable order filter by salesperson - 2](//images.ctfassets.net/alneenqid6w5/4vi7YeUa3706ls0bQ2p0eE/343cfe8b50ae2956522bc5c79de8ec58/26._Enable_order_filter_by_salesperson_-_2.png)

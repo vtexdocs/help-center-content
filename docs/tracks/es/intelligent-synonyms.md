@@ -14,7 +14,9 @@ trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugES: vtex-intelligent-search
 ---
 
->ℹ️ Esta funcionalidad está disponible para cuentas que tengan una cantidad mínima de sesiones y pedidos para que el modelo de inteligencia artificial sea entrenado. Si estás interesado en implementarla, por favor, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support). Es posible que se apliquen tarifas adicionales en el futuro.
+<div class="alert alert-info">
+  <p>Esta funcionalidad está disponible para cuentas que tengan una cantidad mínima de sesiones y pedidos para que el modelo de inteligencia artificial sea entrenado. Si estás interesado en implementarla, por favor, ponte en contacto con <a href="https://help.vtex.com/es/support">nuestro Soporte</a>. Es posible que se apliquen tarifas adicionales en el futuro.</p>
+</div>
 
 La funcionalidad [Sinónimos](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) de [VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) te permite registrar palabras o expresiones con el mismo significado para los términos de búsqueda utilizados por los clientes al realizar búsquedas en tu tienda, lo que aumenta las posibilidades de que obtengan resultados de búsqueda relevantes.
 
@@ -29,7 +31,7 @@ Las sugerencias se muestran en dos categorías en la lista de sinónimos, como s
 * **Nuevas sugerencias:** son aquellas generadas por la plataforma que aún no se han revisado.
 * **Sugerencias guardadas:** son aquellas que se guardaron para su posterior revisión, tal como se describe en el paso 5 de la sección [Revisar sugerencias](#revisar-sugestoes).
 
-![synonym-suggestion-list-es](https://images.ctfassets.net/alneenqid6w5/YxS5i9kNqByGvZkPXyioK/71bad7a9a6282275bc001b9c2437d2fd/synonym-suggestion-list-es.png)
+![synonym-suggestion-list-es](//images.ctfassets.net/alneenqid6w5/YxS5i9kNqByGvZkPXyioK/71bad7a9a6282275bc001b9c2437d2fd/synonym-suggestion-list-es.png)
 
 Puedes revisar las sugerencias generadas y elegir guardar para más tarde, rechazar, editar o aprobar. Consulta el paso a paso en la siguiente sección.
 
@@ -45,7 +47,7 @@ Sigue las instrucciones para visualizar las sugerencias de sinónimos y definir 
 
 4. Verás un modal con la primera sugerencia de sinónimo. Cada sugerencia indica el término buscado y el término que se agregará como sinónimo, y también el número de veces que los clientes de tu tienda reescribieron el término original por el segundo término en los últimos 30 días.
 
-   ![synonym-suggestion-es](https://images.ctfassets.net/alneenqid6w5/187mlOYBTMHniFVEJGgUP3/78ebffca01e145e64411537d176ada30/synonym-suggestion-es.png)
+   ![synonym-suggestion-es](//images.ctfassets.net/alneenqid6w5/187mlOYBTMHniFVEJGgUP3/78ebffca01e145e64411537d176ada30/synonym-suggestion-es.png)
 
 4. Para revisar cada sugerencia, elige una de las siguientes opciones:
     * <i class="fas fa-bookmark"></i> **Guardar para más tarde:** remueve la sugerencia del recuento **Nuevas sugerencias** y la almacena en **Sugerencias guardadas**. Para analizarla posteriormente, haz clic en `Revisar`.

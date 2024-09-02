@@ -54,7 +54,9 @@ Al ser enviados con éxito por primera vez, Netshoes recibe los productos y real
 
 _`Ej:` si se cambia la descripción del producto, la integración no actualizará la descripción que se encuentra en el marketplace._
 
->⚠️ Nota: el producto no se puede borrar en el panel de Netshoes, porque así no podría ser enviado por la integración de nuevo.
+<div class="alert alert-warning">
+Nota: el producto no se puede borrar en el panel de Netshoes, porque así no podría ser enviado por la integración de nuevo.
+</div>
 
 En Netshoes, los productos tienen dos status posibles:
 - __Activo:__ disponible para la venta
@@ -74,7 +76,9 @@ Una vez que el proceso de catalogación es finalizado en Netshoes, la integraci�
 
 Una vez que los productos reciben la primera carga de inventario, la actualización se realiza SKU por SKU cada vez que se produce algún cambio de stock en VTEX.
 
->⚠️ **Nota:** los datos de inventario enviados a Netshoes quedan registrados en nuestro sistema por sólo **3 meses**.
+<div class="alert alert-warning">
+<strong>Nota:</strong> los datos de inventario enviados a Netshoes quedan registrados en nuestro sistema por sólo <strong>3 meses</strong>.
+</div>
 
 ## 3 - Precios
 
@@ -90,11 +94,11 @@ _`Ej1:` promoción del 10% de descuento para una categoría determinada_
 
 _`Ej2:` SKU X está con precio de $ 10,00 en la política comercial usada en Netshoes y tiene un precio fijo de $ 15,00 para esa misma política. La integración enviará el precio de $ 15,00._
 
->⚠️ Nota: Como la forma de pago se hace en el marketplace, las reglas de pago son determinadas por él. Por eso, no conseguimos enviar precios diferenciados en función de la forma de pago.
->
->
-> 
-> *Ej: si en VTEX existen intereses configurados para pagos parcelados, el precio enviado todavía será lo que la simulación de fulfillment devuelve.*
+<div class="alert alert-warning">
+Nota: Como la forma de pago se hace en el marketplace, las reglas de pago son determinadas por él. Por eso, no conseguimos enviar precios diferenciados en función de la forma de pago.
+<br />
+<em>Ej: si en VTEX existen intereses configurados para pagos parcelados, el precio enviado todavía será lo que la simulación de fulfillment devuelve.</em>
+</div>
 
 ## 4 - Promociones
 
@@ -109,7 +113,9 @@ Sólo se aplican promociones que se pueden calcular en la simulación de fulfill
 | Envío Máximo | - | Tipo de Envío |
 | Envío Gratis | - | - |
 
->ℹ️ No es posible aplicar **ninguna condición** en las promociones cuyos campos se completaron como **-**, es decir, no se contemplará ninguna condición en la integración.
+<div class="alert alert-info">
+No es posible aplicar <strong>ninguna condición</strong> en las promociones cuyos campos se completaron como <strong>-</strong>, es decir, no se contemplará ninguna condición en la integración.
+</div>
 
 ## 5 - Flujo de Pedidos
 
@@ -121,19 +127,15 @@ Cuando un pedido se hace en el marketplace hay algunos puntos que influencian en
 
 En esta integración existen dos puntos que influenciarán en la entrega: __Cálculo del envío__ y el __Tiempo de Preparación de Envío__. La suma de los dos será el __Tiempo de Entrega Total__.
 
->ℹ️ Ej:
->
->
-> 
-> Envío normal = 3 días
->
->
-> 
-> Tiempo de Costo = 2 días
->
->
-> 
-> Tiempo Total de Entrega = 5 días
+<div class="alert alert-info">
+Ej:
+<br />
+Envío normal = 3 días
+<br />
+Tiempo de Costo = 2 días
+<br />
+Tiempo Total de Entrega = 5 días
+</div>
 
 - __Envío__
 
@@ -147,78 +149,46 @@ Si la integración no puede encontrar un tipo de transportista igual, nosotros i
 
 El tiempo de preparación de envío se basa en la suma del campo `Tiempo de coste` en el Inventario con el `Tiempo de Coste` en el muelle. Y enviamos el mismo tiempo de preparación de forma masiva para todos los productos.
 
->ℹ️ Ej:
->
->
-> 
-> **Inventario A**
->
->
-> 
-> - Muelle 1: Tiempo de Costo = 3 días
->
->
-> 
-> **Inventario B**
->
->
-> 
-> - Muelle 1: Tiempo de Costo = 5 días
->
->
-> 
->
->
-> 
-> **Muelle 1:**
->
->
-> 
-> - Tiempo de Costo = 2 días
->
->
-> 
->
->
-> 
-> Un pedido con tiempo de envío = 3 días se quedará con un total de entrega diferente dependiendo de dónde salga el producto.
->
->
-> 
->
->
-> 
-> **Saliendo del inventario A:**
->
->
-> 
-> - Tiempo de preparación = 3 + 2 (muelle 1) = 5 días
->
->
-> 
-> - Tiempo de envío = 3 días
->
->
-> 
-> - Tiempo total de entrega = 8 días
->
->
-> 
-> **Saliendo del inventario B:**
->
->
-> 
-> - Tiempo de preparación = 5 + 2 (muelle 1) = 7 días
->
->
-> 
-> - Tiempo de envío = 3 días
->
->
-> 
-> - Tiempo total de entrega = 10 días
+<div class="alert alert-info">
+Ej:
+<br />
+<strong>Inventario A</strong>
+<br />
+- Muelle 1: Tiempo de Costo = 3 días
+<br />
+<strong>Inventario B</strong>
+<br />
+- Muelle 1: Tiempo de Costo = 5 días
+<br />
+<br />
+<strong>Muelle 1:</strong>
+<br />
+- Tiempo de Costo = 2 días
+<br />
+<br />
+Un pedido con tiempo de envío = 3 días se quedará con un total de entrega diferente dependiendo de dónde salga el producto.
+<br />
+<br />
+<strong>Saliendo del inventario A:</strong>
+<br />
+- Tiempo de preparación = 3 + 2 (muelle 1) = 5 días
+<br />
+- Tiempo de envío = 3 días
+<br />
+- Tiempo total de entrega = 8 días
+<br />
+<strong>Saliendo del inventario B:</strong>
+<br />
+- Tiempo de preparación = 5 + 2 (muelle 1) = 7 días
+<br />
+- Tiempo de envío = 3 días
+<br />
+- Tiempo total de entrega = 10 días
+</div>
 
->⚠️ Nota: En el caso de usar la tabla de contingencia para hacer el cálculo del envío, Netshoes no consulta a VTEX. De esta forma, el único factor que se tendrá en cuenta para el **Tiempo total de entrega** será el **envío** proporcionado por ellos, ignorando el **Tiempo de preparación**. Se debe tener cuidado con esto, porque puede generar divergencias en el **Tiempo total de entrega**.
+<div class="alert alert-warning">
+Nota: En el caso de usar la tabla de contingencia para hacer el cálculo del envío, Netshoes no consulta a VTEX. De esta forma, el único factor que se tendrá en cuenta para el <strong>Tiempo total de entrega</strong> será el <strong>envío</strong> proporcionado por ellos, ignorando el <strong>Tiempo de preparación</strong>. Se debe tener cuidado con esto, porque puede generar divergencias en el <strong>Tiempo total de entrega</strong>.
+</div>
 
 #### Precio/Disponibilidad:
 

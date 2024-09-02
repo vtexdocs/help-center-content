@@ -18,7 +18,9 @@ internalReference: 759842
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando há dois vendedores no método "SellerElection", um deles é selecionado como tendo o preço mais barato para entrega e o outro como o preço mais barato para retirada no ponto, a mesclagem de informações do carrinho não atualiza os impostos ao selecionar a retirada no ponto, causando um erro ao concluir a compra

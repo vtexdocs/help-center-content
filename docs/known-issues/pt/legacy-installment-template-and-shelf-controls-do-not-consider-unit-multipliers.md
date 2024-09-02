@@ -18,7 +18,9 @@ internalReference: 979205
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, para a loja que usa o CMS legado, o modelo legado e os controles de prateleira não são ajustados se o SKU tiver um multiplicador de unidades.

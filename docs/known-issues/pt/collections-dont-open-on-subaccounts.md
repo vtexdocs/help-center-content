@@ -18,7 +18,9 @@ internalReference: 649948
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar abrir uma coleção no novo módulo de coleções de uma subconta, é retornado o erro "Desculpe, ocorreu um erro desconhecido".

@@ -18,7 +18,9 @@ internalReference: 460683
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um comprador decide pagar com dois cartões de crédito e também quer alterar o valor pago por cada cartão, acontece que ao digitar caracteres sem números no campo de valor, nossa validação tem comportamento diferente dependendo de onde o usuário insere esse caractere.

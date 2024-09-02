@@ -3,8 +3,8 @@ title: 'Legacy CMS Portal'
 id: 1oN446gRGcR2s70RvBCAmj
 status: PUBLISHED
 createdAt: 2022-01-10T20:17:10.358Z
-updatedAt: 2023-03-08T17:44:29.465Z
-publishedAt: 2023-03-08T17:44:29.465Z
+updatedAt: 2024-08-06T16:52:09.507Z
+publishedAt: 2024-08-06T16:52:09.507Z
 firstPublishedAt: 2022-01-10T20:41:44.261Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -18,7 +18,7 @@ trackSlugEN: cms
 
 The [Layout](https://help.vtex.com/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) section allows you to create your storefront with HTML and CSS. It is organized into folders and files with specific purposes:
 
-![CMS - Layout EN](https://images.ctfassets.net/alneenqid6w5/4YnFtKkC8exlv3vm8VTCqh/0e1fc8acb3b24882504c11d857508d68/cms-layout-en.png)
+![CMS - Layout EN](//images.ctfassets.net/alneenqid6w5/4YnFtKkC8exlv3vm8VTCqh/0e1fc8acb3b24882504c11d857508d68/cms-layout-en.png)
 
 - **HTML Templates:** build the HTML code and reference JavaScript and CSS files to be used in the website pages.
 
@@ -38,7 +38,7 @@ The [Layout](https://help.vtex.com/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW
 
 The [Settings](https://help.vtex.com/en/subcategory/cms-settings--6kovkwzMRyeOOc2iEC4suM) section allows you to configure settings related to your store website, such as its metadata, SEO tags, file types, and more. 
 
-![CMS - Settings EN](https://images.ctfassets.net/alneenqid6w5/1JFkw9wFlJd5oulogEGDDL/852f9d3a206658b19dc33e3e857c97d9/cms-settings-en.png)
+![CMS - Settings EN](//images.ctfassets.net/alneenqid6w5/1JFkw9wFlJd5oulogEGDDL/852f9d3a206658b19dc33e3e857c97d9/cms-settings-en.png)
 
 The **Settings** section is structured as follows.
 
@@ -68,11 +68,13 @@ These are the folders that every store needs to have in the CMS to ensure the co
 
 See below these basic folders in the CMS:
 
-![pastasObrigatorias](https://images.contentful.com/alneenqid6w5/2yLeJGvd48WcA6egy2kSSC/43e22907371f954df25d5fd7e5dd116b/pastasObrigatorias.png)
+![pastasObrigatorias](//images.contentful.com/alneenqid6w5/2yLeJGvd48WcA6egy2kSSC/43e22907371f954df25d5fd7e5dd116b/pastasObrigatorias.png)
 
 These folders come by default in the environment of all VTEX stores.
 
->❗ The names of the required folders must **not** be edited.
+<div class="alert alert-danger">
+The names of the required folders must <b>not</b> be edited.
+</div>
 
 Since folders refer to dynamic pages, their names don't appear on the customer's navigation. In other words, the fact that editing the names is banned does not affect the final text of your URLs, nor the internationalization of your site.
 
@@ -88,7 +90,9 @@ These are:
 
 For these two folders, what matters is the control or placeholder that reads their content. Their names can be freely edited.
 
->⚠️ Since they are private folders, `/account` and `/account/orders` **must require authentication**. See [in this article](http://help.vtex.com/en/tutorial/requering-authentication-on-store-pages) how to ensure they are configured to ask for user authentication.
+<div class="alert alert-warning">
+Since they are private folders, <code>/account</code> and <code>/account/orders</code> <b>must require authentication</b>. See <a href="http://help.vtex.com/en/tutorial/requering-authentication-on-store-pages">in this article</a> how to ensure they are configured to ask for user authentication.
+</div>
 
 ### Useful folders
 

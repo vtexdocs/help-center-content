@@ -15,7 +15,9 @@ legacySlug: criando-trigger-no-master-data
 subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---
 
->ℹ️ Este artigo se refere ao Master Data v1. Se você quiser utilizar o Master Data v2, veja os passos do guia [Setting up triggers in Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2).
+<div class="alert alert-info">
+<p>Este artigo se refere ao Master Data v1. Se você quiser utilizar o Master Data v2, veja os passos do guia <a href="https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2">Setting up triggers in Master Data v2</a>.</p>
+</div>
 
 Conceitualmente, trigger é um recurso de programação que executa uma ação específica sempre que um evento associado ocorre. No Master Data, um trigger é a configuração de um ou mais disparos (eventos) que são acionados quando uma determinada situação ocorre, baseada em diversas variáveis.
 
@@ -42,7 +44,7 @@ As principais características dos triggers são:
 
 Antes de [criar um trigger](#configurar-um-trigger), é necessário compreender que a configuração de um trigger se dá por quatro partes, explicadas a seguir.
 
-![trigger](https://images.ctfassets.net/alneenqid6w5/5WbC7SD6aPFqaOHuHWgQoq/f093dfa7ef956882313f224afe0e4dd0/trigger.png)
+![trigger](//images.ctfassets.net/alneenqid6w5/5WbC7SD6aPFqaOHuHWgQoq/f093dfa7ef956882313f224afe0e4dd0/trigger.png)
 
 ### Ação que dispara o trigger
 
@@ -119,9 +121,11 @@ Aqui, você deve definir as condições que vão disparar o(s) evento(s) configu
 
    Selecione quais são os campos e quais os valores aceitos ou não para que o trigger seja disparado.
 
-   ![filters-pt](https://images.ctfassets.net/alneenqid6w5/go7XW0mqWsuA4ygwYsoMS/34cbeea173c7f4944ee87c22eb406c02/filters-pt.png)
+   ![filters-pt](//images.ctfassets.net/alneenqid6w5/go7XW0mqWsuA4ygwYsoMS/34cbeea173c7f4944ee87c22eb406c02/filters-pt.png)
 
->ℹ️ O Master Data v1 não permite configuração de retentativas de trigger, diferente do Master Data v2.
+<div class="alert alert-info">
+  <p>O Master Data v1 não permite configuração de retentativas de trigger, diferente do Master Data v2.</p>
+</div>
 
 ### Agendar
 
@@ -139,7 +143,7 @@ Nesta aba, você deve configurar os eventos a serem disparados caso o registro q
 
 Envia um email para destinatários dinâmicos (contidos no registro) ou estáticos. O email a ser enviado é  personalizado, podendo ser um texto, HTML ou até mesmo o conteúdo de uma URL. É possível inserir anexos e o campo **Tags válidas** mostra como inserir valores de campos do registro.
 
-![send-email-pt](https://images.ctfassets.net/alneenqid6w5/KsQUtktQoECEMiKEY6EU8/9467386aa32cf4f3338e8d33f9a68fef/send-email-pt.png)
+![send-email-pt](//images.ctfassets.net/alneenqid6w5/KsQUtktQoECEMiKEY6EU8/9467386aa32cf4f3338e8d33f9a68fef/send-email-pt.png)
 
 #### Enviar um email usando um modelo do VTEX Message Center
 
@@ -155,7 +159,7 @@ Envia uma requisição HTTP com a possibilidade de salvar informações da respo
 
 Preencha a seção **Informações da solicitação** com as informações da requisição a ser enviada. Na seção **Ação de resposta**, você poderá indicar como as informações da resposta deverão ser salvas no Master Data.
 
-![http-request-pt](https://images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/7bbe43cc3c3e54a23ba82dca1e21ef19/http-request-pt.png)
+![http-request-pt](//images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/7bbe43cc3c3e54a23ba82dca1e21ef19/http-request-pt.png)
 
 Para configurar a **Ação de resposta**, selecione a entidade de dados desejada e defina, para cada campo a ser salvo, o caminho JSON correspondente na resposta.
 

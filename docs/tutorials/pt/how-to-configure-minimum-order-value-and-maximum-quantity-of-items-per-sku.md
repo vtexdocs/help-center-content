@@ -30,9 +30,11 @@ Já em operações B2B, há necessidade de se manter relações com os comprador
 2. Na aba __Gerais__, preencha o valor desejado no campo __Valor mínimo total do carrinho__.
 3. Clique em `Salvar`.
 
-![Minimum Order Value - PT](https://images.ctfassets.net/alneenqid6w5/6bJ49E109ewRg9VUoP16rP/4b4ff920a4c1a9a98ad3450e00f47d6c/Minimum_Order_Value_-_PT.png)
+![Minimum Order Value - PT](//images.ctfassets.net/alneenqid6w5/6bJ49E109ewRg9VUoP16rP/4b4ff920a4c1a9a98ad3450e00f47d6c/Minimum_Order_Value_-_PT.png)
 
->⚠️ Ao cliente é permitido montar um carrinho com um valor menor que o especificado na regra de "Valor mínimo total do carrinho". Entretanto, no momento de fechamento da compra, só serão concluídos os pedidos que estiverem com o valor igual ou acima do especificado.
+<div class="alert alert-warning">
+Ao cliente é permitido montar um carrinho com um valor menor que o especificado na regra de "Valor mínimo total do carrinho". Entretanto, no momento de fechamento da compra, só serão concluídos os pedidos que estiverem com o valor igual ou acima do especificado.
+</div>
 
 ## Definir uma quantidade máxima de itens do mesmo SKU por carrinho
 
@@ -40,8 +42,10 @@ Já em operações B2B, há necessidade de se manter relações com os comprador
 2. Na aba __Gerais__, preencha o valor desejado no campo __Quantidade máxima de um mesmo SKU no Carrinho__.
 3. Clique em `Salvar`.
 
-![Quantidade Maxima de um mesmo SKU no carrinho](https://images.ctfassets.net/alneenqid6w5/Tb4rS7FposwzygY5HlEpr/bb659e068dfde3a2e4d05480422a7113/Quantidade_Maxima_de_um_mesmo_SKU_no_carrinho_PT.png)
+![Quantidade Maxima de um mesmo SKU no carrinho](//images.ctfassets.net/alneenqid6w5/Tb4rS7FposwzygY5HlEpr/bb659e068dfde3a2e4d05480422a7113/Quantidade_Maxima_de_um_mesmo_SKU_no_carrinho_PT.png)
 
->⚠️ Não existem limites para a quantidade máxima de itens do **mesmo SKU** por carrinho. A única restrição é referente a quantidade máxima de itens de **SKUs diferentes**, que devem ser no máximo de 300 itens por carrinho.
+<div class="alert alert-warning">
+Não existem limites para a quantidade máxima de itens do <b>mesmo SKU</b> por carrinho. A única restrição é referente a quantidade máxima de itens de <b>SKUs diferentes</b>, que devem ser no máximo de 300 itens por carrinho. 
+</div>
 
 Caso deseja utilizar ações que impeça o usuário de exceder os valores específicados ainda durante o fluxo de compra (por exemplo, criar uma trava do botão de acionar ao carrinho quando a quantida máxima de itens for atingida), será necessário criar uma customização no front-end da loja.

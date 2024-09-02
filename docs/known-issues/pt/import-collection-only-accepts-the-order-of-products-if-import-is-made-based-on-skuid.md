@@ -1,5 +1,5 @@
 ---
-title: "A coleção de importação só aceita a ordem dos produtos se a importação for feita com base no 'skuId'"
+title: 'A coleção de importação só aceita a ordem dos produtos se a importação for feita com base no "skuId"'
 id: 7vXi2bDVyGHSMLluQi2ZWZ
 status: PUBLISHED
 createdAt: 2023-12-15T16:35:11.545Z
@@ -18,7 +18,9 @@ internalReference: 953862
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao importar uma planilha de produtos para uma coleção, o usuário pode optar por selecionar os produtos por "skuId", "productId", "skuRefId" ou "productRefId".

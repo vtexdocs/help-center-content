@@ -21,7 +21,9 @@ Para enviar tus productos a Mercado Libre, debes:
 1. [Mapear las categorías de los productos.](#mapear-categorias)
 2. [Mapear los atributos de los productos.](#mapear-atributos)
 
->ℹ️ Tus productos deben tener el [Stock](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [Precio](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviarlos a Mercado Libre.
+<div class = "alert alert-info">
+Tus productos deben tener el <a href="https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Stock</a> e <a href="https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">Precio</a> configurados antes de enviarlos a Mercado Libre.
+</div>
 
 ## Mapear categorías
 
@@ -55,7 +57,7 @@ Para finalizar el mapeo de la categoría, debes seguir las instrucciones a conti
 
 ## Mapear atributos
 
-![Home (8)](https://images.ctfassets.net/alneenqid6w5/1WVspX796PMYQcgOycbhVC/5de9a1c9a262f8556b2eb82b9fd6cf20/Home__8_.gif)
+![Home (8)](//images.ctfassets.net/alneenqid6w5/1WVspX796PMYQcgOycbhVC/5de9a1c9a262f8556b2eb82b9fd6cf20/Home__8_.gif)
 
 El mapeo de los atributos permite que haya una correspondencia entre el patrón de tu tienda VTEX y el patrón utilizado por Mercado Libre. Cada categoría tiene atributos obligatorios en Mercado Libre y es necesario rellenarlos para que el mapeo pueda completarse. Los campos no mapeados no impiden que se realice el mapeo, sin embargo, mientras más atributos de tu producto se envíen a Mercado Libre, mejor clasificado estará en ese marketplace.
 

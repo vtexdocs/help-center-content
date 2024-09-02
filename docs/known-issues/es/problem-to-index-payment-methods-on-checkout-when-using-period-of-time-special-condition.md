@@ -18,7 +18,9 @@ internalReference: 402857
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Tenemos un problema para indexar los métodos de pago en el checkout. Ocurre con las condiciones de pago que están configuradas con un periodo de tiempo especial.

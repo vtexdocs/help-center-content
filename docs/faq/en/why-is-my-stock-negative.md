@@ -36,4 +36,6 @@ To adjust it, the item stock must be updated with the quantity of physical items
 4. In the __Update Count__ column, fill in the value indicated in the description above.
 5. Click __Save__.
 
->⚠️ When two or more warehouses use the same [trade policy](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV), and there is a negative number of items in stock for a given SKU in one of these warehouses, the SKU becomes unavailable for sale, even though the  [inventory](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139) quantity is positive in another warehouse.
+<div class="alert alert-warning">
+When two or more warehouses use the same <a href="https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV">trade policy</a>, and there is a negative number of items in stock for a given SKU in one of these warehouses, the SKU becomes unavailable for sale, even though the  <a href="https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139">inventory</a> quantity is positive in another warehouse.
+</div>

@@ -3,12 +3,12 @@ title: 'Importação de Pedidos Amazon FBA Classic '
 id: 2MJZgBen3hpK4xkXqcv8TO
 status: PUBLISHED
 createdAt: 2022-10-07T21:33:29.864Z
-updatedAt: 2023-05-03T21:41:11.113Z
-publishedAt: 2023-05-03T21:41:11.113Z
+updatedAt: 2024-08-30T14:31:51.101Z
+publishedAt: 2024-08-30T14:31:51.101Z
 firstPublishedAt: 2022-10-07T21:52:55.581Z
 contentType: tutorial
 productTeam: Channels
-author: 46G4yHIZerH7B9Jo0Iw5KI
+author: 2p7evLfTcDrhc5qtrzbLWD
 slug: importacao-de-pedidos-amazon-fba-classic
 locale: pt
 legacySlug: importacao-de-pedidos-amazon-fba-classic
@@ -19,6 +19,7 @@ Existem três tipos de configuração logística para atender aos pedidos realiz
 
   - [Selfship](#Selfship)
   - [FBA Classic](#FBA-Classic-Fulfillment-by-Amazon)
+  - FBA Onsite, para conhecer sobre o programa e a integração com a VTEX, confira a documentação sobre [Importação de pedidos FBA Onsite](https://help.vtex.com/pt/tutorial/importacao-de-pedidos-amazon-fba-onsite--7gNpMDDchHo29fu3Sbvl1n)  
   - [DBA, para conhecer sobre o programa e a integração com a VTEX, confira a documentação Importação de Pedidos Amazon DBA](https://help.vtex.com/pt/tutorial/importacao-de-pedidos-amazon-dba--1um6EfKlALGsHzERbH7jig)  
 
 O Seller pode utilizar o Selfship, FBA e DBA de forma simultânea ou apenas uma das opções logísticas, considerando a elegibilidade dos produtos para os respectivos programas. Independente de optar por utilizar somente uma das opções logísticas ou utilizar dois, ou mais programas, é possível acompanhar e gerenciar todos os pedidos realizados através do Admin VTEX.
@@ -53,7 +54,9 @@ Após criar a especificação de produto, seu produto estará ativo para os pedi
 
 ### 2. Definir Estratégia de Envio para Pedidos FBA Classic
 
->ℹ️ É importante assegurar que a política comercial utilizada é específica para a Amazon. Dessa forma, você garante que o estoque criado não será utilizado por outra integração.
+<div class = "alert alert-info">
+É importante assegurar que a política comercial utilizada é específica para a Amazon. Dessa forma, você garante que o estoque criado não será utilizado por outra integração.
+</div>
 
 Para dar continuidade à configuração, é preciso determinar uma [Estratégia de Envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) exclusiva para o FBA Classic, ou seja, informar qual será a operação de entrega de seus produtos. Dessa forma, você não influenciará na estratégia de envio já definida na etapa Definir Estratégia de Envio na Amazon.
 

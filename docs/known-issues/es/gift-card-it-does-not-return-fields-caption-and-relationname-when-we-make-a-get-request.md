@@ -1,5 +1,5 @@
 ---
-title: "Tarjeta regalo - No devuelve los campos 'caption' y 'relationName' cuando hacemos una petición get."
+title: 'Tarjeta regalo - No devuelve los campos "caption" y "relationName" cuando hacemos una petición get.'
 id: 2nh2Cc3Hc2Zm0b1INtwDep
 status: PUBLISHED
 createdAt: 2023-06-23T19:33:35.774Z
@@ -18,7 +18,9 @@ internalReference: 428725
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se ejecuta el método GET para una tarjeta regalo existente, no devuelve el campo "caption" ni el campo "relationName" aunque estos parámetros tengan valor.

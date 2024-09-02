@@ -18,7 +18,9 @@ internalReference: 983031
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Identificamos que cuando el sistema de Autorización de ordenes (OrderAuth) se configura con el valor "lessThan: 100", en el "Rules-list.CreateDoEffect" , no puede entender que es menor o igual al 100%, solo que es menor al 100% y cuando la orden tiene un descuento del 100%, el sistema autoriza la orden para que siga el flujo normal.

@@ -1,5 +1,5 @@
 ---
-title: "'How many times will your benefit be applied in your store' Saving Incorrectly on Promotion Form Interface"
+title: '"How many times will your benefit be applied in your store" Saving Incorrectly on Promotion Form Interface'
 id: 6vT0rYIry3cGx1nG5BPkmx
 status: PUBLISHED
 createdAt: 2022-06-28T19:23:30.074Z

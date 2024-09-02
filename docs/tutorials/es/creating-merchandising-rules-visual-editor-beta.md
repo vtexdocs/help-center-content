@@ -15,7 +15,9 @@ legacySlug: crear-regla-de-merchandising-editor-visual-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
->ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solamente clientes seleccionados pueden acceder a ella. Si tienes interés en implementarla en tu negocio, comunícate con [nuestro Soporte](https://support.vtex.com/hc/es-419/requests).
+<div class="alert alert-info">
+  <p>Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solamente clientes seleccionados pueden acceder a ella. Si tienes interés en implementarla en tu negocio, comunícate con <a href="https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.</p>
+</div>
 
 Para configurar una [regla de merchandising](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) de VTEX Intelligent Search utilizando el [Editor visual](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao), sigue los pasos a continuación.
 
@@ -45,13 +47,15 @@ Para configurar una [regla de merchandising](https://help.vtex.com/es/tracks/vte
       Más información sobre estas acciones en los puntos **4, 5, 6, 8, 9** y **11** de la sección [Acciones disponibles en el Editor visual](#acciones-disponibles-en-el-editor-visual).
 9. Haz clic en `Guardar`.
 
- >ℹ️ Una vez guardados, los cambios en las reglas de merchandising tardan un promedio de dos minutos en actualizarse.
+ <div class="alert alert-info">
+  <p>Una vez guardados, los cambios en las reglas de merchandising tardan un promedio de dos minutos en actualizarse.</p>
+</div>
 
 ## Acciones disponibles en el Editor visual
 
 El Editor visual de reglas de merchandising de VTEX Intelligent Search permite realizar las acciones que se ilustran en la imagen siguiente:
 
-![visual-merch-rules-ES-v2](https://images.ctfassets.net/alneenqid6w5/1wQEvrFFEp5ixHPCVtHsxa/717c18f418806f9cda88166167928548/visual-merch-rules-ES-v2.png)
+![visual-merch-rules-ES-v2](//images.ctfassets.net/alneenqid6w5/1wQEvrFFEp5ixHPCVtHsxa/717c18f418806f9cda88166167928548/visual-merch-rules-ES-v2.png)
 
 <ol class="mv7" type="I">
     <li class="t-body c-on-base mb5 lh-copy">Editar nombre de la regla de merchandising.</li>
@@ -86,7 +90,7 @@ El Editor visual de reglas de merchandising de VTEX Intelligent Search permite r
 
 El filtro es un atributo seleccionable predefinido que restringe los resultados de la búsqueda, por ejemplo, permite filtrar por todos los productos de una categoría o marca, entre otras condiciones. Puedes agregar una o más condiciones a un filtro, tal como se muestra a continuación.
 
-![filtros-merchrules-es](https://images.ctfassets.net/alneenqid6w5/5e2KtHyjaAmvBqRDaJe8EK/cff18739dd40a27d303df3b5664e4d63/filtros-es.gif)
+![filtros-merchrules-es](//images.ctfassets.net/alneenqid6w5/5e2KtHyjaAmvBqRDaJe8EK/cff18739dd40a27d303df3b5664e4d63/filtros-es.gif)
 
 Si deseas agregar una condición en el Editor visual, sigue cada uno de los pasos que se indican a continuación. 
 

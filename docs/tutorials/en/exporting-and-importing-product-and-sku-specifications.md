@@ -19,23 +19,27 @@ After defining the category tree and registering [product specifications and SKU
 
 In this article, we explain how to export and import spreadsheets with product and SKU specifications in VTEX Admin.
 
->ℹ️ To export and import specifications using the **Catalog API**, follow the developer guide [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification).
+<div class = "alert alert-info">
+  <p>To export and import specifications using the <strong>Catalog API</strong>, follow the developer guide <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a>.</p>
+</div>
 
 ## Exporting product or SKU specifications
 
 1. In the VTEX Admin, go to **Catalog**, or type **Catalog** in the search bar at the top of the page.
 2. Click **Import and export**.
 3. Click the **Product Specifications** or the **SKU Specifications** tab, according to your need.
-    ![skuexport1.en](https://images.ctfassets.net/alneenqid6w5/2bM5OviaFXKxXxM8ggXEr3/8f45b5a59425898d0a66697480526899/skuexport1.en.png)
+    ![skuexport1.en](//images.ctfassets.net/alneenqid6w5/2bM5OviaFXKxXxM8ggXEr3/8f45b5a59425898d0a66697480526899/skuexport1.en.png)
 4. Right-click on the desired category.
     You cannot export specifications from all categories at once. You must choose only one category whose specifications you want to export. 
 5. Click on `Export...`.
     A green rectangle will appear on the screen.
 6. Click `Click here to download the file` to export the spreadsheet.
 
-![skuexport2.en](https://images.ctfassets.net/alneenqid6w5/6oBhxWWjktsofR8XGRzl3E/87e1859f2f3ece16f3c0e1c527a392ee/skuexport2.en.png)
+![skuexport2.en](//images.ctfassets.net/alneenqid6w5/6oBhxWWjktsofR8XGRzl3E/87e1859f2f3ece16f3c0e1c527a392ee/skuexport2.en.png)
 
->ℹ️ The exported spreadsheet will be available in your email for one week. If you exceed this period, follow the export step-by-step again to generate a new spreadsheet.
+<div class = "alert alert-info">
+  <p>The exported spreadsheet will be available in your email for one week. If you exceed this period, follow the export step-by-step again to generate a new spreadsheet.</p>
+</div>
 
 ## Importing product or SKU specifications
 
@@ -45,7 +49,9 @@ In the import worksheet, the only column you have to complete is “ValorEspecif
 
 The structure of the spreadsheet presents one row for each product field or SKU, i.e., the same product or SKU will be presented several times according to the existing fields in its category.
 
->⚠️ In the exported spreadsheet, the column for "ValorEspecificacao" is "NomeCampoValor (Not Changeable)". When filling the field, the spelling of the characteristics must be exact. Uppercase and lowercase letters make a difference in this case.
+<div class="alert alert-warning">
+  <p>In the exported spreadsheet, the column for "ValorEspecificacao" is "NomeCampoValor (Not Changeable)". When filling the field, the spelling of the characteristics must be exact. Uppercase and lowercase letters make a difference in this case.</p>
+  </div>
 
 Follow the steps below to import the spreadsheet:
 
@@ -53,7 +59,7 @@ Follow the steps below to import the spreadsheet:
 2. Click **Select** to select the file with the completed spreadsheet on your computer.
 3. Click `Import`.
 
-![skuexport3.en](https://images.ctfassets.net/alneenqid6w5/3xrInPyr70kdXCGgVfj4q1/8b4ff4d98df714f62d97d765edee8600/skuexport3.en.png)
+![skuexport3.en](//images.ctfassets.net/alneenqid6w5/3xrInPyr70kdXCGgVfj4q1/8b4ff4d98df714f62d97d765edee8600/skuexport3.en.png)
 
 ## Learn more
 - [Product and SKU Specifications](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)

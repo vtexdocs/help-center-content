@@ -18,7 +18,9 @@ internalReference: 334239
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Tenemos dos integraciones internas con Braspag, una de antifraude y otra de afiliación (ambas con el mismo nombre). Al intentar hacer clic en el antifraude para configurarlo, el usuario es dirigido a los campos de configuración de la afiliación. Por lo tanto, no es posible configurar el antifraude de Braspag a través de la interfaz de administración.

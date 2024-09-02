@@ -18,7 +18,9 @@ internalReference: 1031109
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a configuração XML do catálogo para o campo de código fiscal não está gerando os resultados esperados, pois sempre retorna um <![CDATA[]]>

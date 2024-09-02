@@ -18,7 +18,9 @@ internalReference: 1025971
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se os usuários bloquearem cookies de terceiros (configurações do navegador), eles não poderão acessar o módulo Gift Card no admin, pois há um cookie definido em outro domínio da VTEX.

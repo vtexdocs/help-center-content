@@ -29,12 +29,14 @@ El mensaje de autorización de error puede cambiar de `node` a `react` de acuerd
 1. Instalar el VTEX CLI (ToolBelt);
 2. Navegar hasta el directorio de la app;
 3. Ejecutar el comando "vtex-link" en el terminal.
-4. ![image (8)](https://images.ctfassets.net/alneenqid6w5/3NTzMXCKgM8GA6Y6eEKAA2/7d11d9a4e05ef1274beebe494bd8baf9/image__8_.png)
+4. ![image (8)](//images.ctfassets.net/alneenqid6w5/3NTzMXCKgM8GA6Y6eEKAA2/7d11d9a4e05ef1274beebe494bd8baf9/image__8_.png)
 
 ## Workaround
 
 1. Rellene el [formulario](https://suportevtex1.typeform.com/to/SxXknn)
 2. Acceda al módulo de Gestión de la cuenta y asegúrese de que su perfil tiene los permisos de "VTEX IO Admin"
 
->ℹ️ Rellenar el formulario no garantiza el acceso a la Whitelist de Node + GraphQL y Extensibilty.
+<div class="alert alert-info">
+Rellenar el formulario no garantiza el acceso a la Whitelist de Node + GraphQL y Extensibilty.
+</div>
 

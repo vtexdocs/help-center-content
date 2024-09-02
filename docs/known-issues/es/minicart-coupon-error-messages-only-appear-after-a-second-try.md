@@ -18,7 +18,9 @@ internalReference: 938379
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los mensajes de error de cupón en Minicart no aparecerán la primera vez que intente un cupón, incluso si no existe.

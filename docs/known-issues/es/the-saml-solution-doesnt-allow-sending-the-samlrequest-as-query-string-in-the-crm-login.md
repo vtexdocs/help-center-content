@@ -18,7 +18,9 @@ internalReference: 789146
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos proveedores SAML necesitan recibir parámetros como query string, pero nuestra solución SAML no permite enviar estos parámetros (como parámetros SAMLRequest y SAMLResponse) como query string en el login CRM porque el sistema CRM utiliza una versión del sistema de login, que no soporta esta característica.

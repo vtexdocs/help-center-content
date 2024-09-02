@@ -18,7 +18,9 @@ internalReference: 985097
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al deslizar la imagen de un producto en la vista rápida en el móvil cuando hay un diseño deslizante en el fondo, ambos deslizadores se van a mover a la siguiente en lugar de sólo la imagen en la vista rápida

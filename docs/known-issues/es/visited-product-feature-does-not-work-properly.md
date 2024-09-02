@@ -1,5 +1,5 @@
 ---
-title: " La función 'Producto visitado' no funciona correctamente"
+title: ' La función "Producto visitado" no funciona correctamente'
 id: 5AiCVwLkGToEgtLkZVPe5i
 status: PUBLISHED
 createdAt: 2022-11-25T18:45:15.389Z
@@ -18,7 +18,9 @@ internalReference: 701169
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El activador de producto visitado, que utiliza los datos capturados por Request Capture, está configurado con el filtro "checkout" establecido en "null". Sin embargo, Request Capture necesita pasar por la caja para capturar los datos de usuario y de navegación y rellenarlos en los Datos Maestros. Como resultado, el activador no funciona correctamente porque RC no puede rellenar los datos antes de la salida.

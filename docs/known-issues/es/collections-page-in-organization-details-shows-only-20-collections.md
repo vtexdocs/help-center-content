@@ -18,7 +18,9 @@ internalReference: 891511
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La página Colecciones en Detalles de la Organización muestra sólo 20 colecciones incluso después de cambiar la cantidad de filas en la parte inferior de la página.

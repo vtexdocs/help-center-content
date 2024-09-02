@@ -18,7 +18,9 @@ internalReference: 948071
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Às vezes, você pode fazer alterações no Site Editor e essas alterações são refletidas no ambiente myvtex, mas quando você tenta atualizar o domínio final, essas alterações não são refletidas. Isso normalmente acontece quando o componente que você está tentando alterar tem mais de uma versão. O front continua usando a versão inativa do componente, enquanto o myvtex está usando a versão ativa. A única maneira de resolver isso é excluir a versão inativa do componente.

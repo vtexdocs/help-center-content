@@ -18,7 +18,9 @@ internalReference: 974840
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La Búsqueda Inteligente no aplica la traducción al nombre del filtro/facet "precio" para idiomas adicionales cuando se consulta a través de REST API.

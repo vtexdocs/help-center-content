@@ -15,7 +15,9 @@ legacySlug: es-posible-utilizar-el-informe-de-busqueda-en-el-admin-de-vtex
 subcategory: 5yDQmr18K4GgQAeGwq8USa
 ---
 
->⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+<div class = "alert alert-warning">
+  <strong>Atención</strong>: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+</div>
 
 El informe de búsqueda de VTEX al que se accedía por el camino __Informes > Búsqueda__ se ha descontinuado.
 

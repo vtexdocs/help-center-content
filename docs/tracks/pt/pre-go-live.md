@@ -20,7 +20,9 @@ Este estágio dá inicio ao go-live já que estes passos precisam ser cuidadosam
 
 Você deve [cadastrar o domínio no Gerenciamento da conta](https://help.vtex.com/pt/tutorial/configurando-dominios-no-license-manager). É isso que conecta o endereço à loja.
 
->⚠️ Após o cadastro do seu domínio, você tem sete dias para concluir o go-live. Caso contrário, deverá acessar o cadastro realizado e salvar novamente.
+<div class="alert alert-warning">
+Após o cadastro do seu domínio, você tem sete dias para concluir o go-live. Caso contrário, deverá acessar o cadastro realizado e salvar novamente.
+</div>
 
 ## Solicitar apontamento IO
 
@@ -28,7 +30,9 @@ Se sua frente de loja é feita com [CMS IO](https://help.vtex.com/pt/tracks/cms-
 
 Após receber a confirmação do apontamento interno, você deverá realizar o [apontamento comum de DNS](https://help.vtex.com/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#realizar-apontamento-de-dns) em até cinco dias. Do contrário o apontamento interno será excluído e você precisará refazer esta solicitação.
 
->ℹ️ Saiba mais sobre [go-live com Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live) ou [Migração do CMS legado para Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
+<div class = "alert alert-info">
+Saiba mais sobre <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live">go-live com Store Framework</a> ou <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io">Migração do CMS legado para Store Framework</a>.
+</div>
 
 ## Solicitar apontamento especial
 

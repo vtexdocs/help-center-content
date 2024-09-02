@@ -21,7 +21,9 @@ El flujo completo es: compra acordada con boleto en el sitio web &gt; pedido en
 
 Conforme explicado en el FAQ [¿Cuánto tiempo lleva para la cancelación de un pedido de boleto sin pago?](/hc/es-419/articles/215033318 "¿Cuánto tiempo lleva para la cancelación de un pedido de boleto sin pago?"), existe un plazo para la cancelación del pedido, caso este no sea notificado como pagado en el status de Pago Aprobado (ya sea manualmente en el OMS el por conciliación). En ese caso, el pedido permanecerá en el status de Pago Pendiente hasta que sea cancelado.
 
->⚠️ Los procedimientos de este artículo no se aplican a las integraciones que realizan la conciliación bancaria de forma automática.
+<div class="alert alert-warning">
+Los procedimientos de este artículo no se aplican a las integraciones que realizan la conciliación bancaria de forma automática.
+</div>
 
 ## Cómo hacer el upload
 
@@ -34,7 +36,7 @@ Después de recibir el archivo del banco y guardarlo en su máquina, conforme ci
 
 Luego que seleccione el archivo, la plataforma empezará a procesarlo y registrará en histórico cuántos pagos se conciliaron con éxito o error. Los pagos que se concilien con éxito actualizarán los status de los pedidos para Pago Aprobado.
 
-![upload-archivo-ret](https://images.ctfassets.net/alneenqid6w5/3KDKXLTwzYy1W9PNKGfIyT/b7ee6df418b9638eaab055282675b9f6/uploadret_ES.JPG)
+![upload-archivo-ret](//images.ctfassets.net/alneenqid6w5/3KDKXLTwzYy1W9PNKGfIyT/b7ee6df418b9638eaab055282675b9f6/uploadret_ES.JPG)
 
 ## Visualizar el histórico
 
@@ -46,7 +48,7 @@ De entre los detalles es posible saber el banco al cual el boleto pertenece, el 
 2. En **Historial**, haga clic en una de las fechas de las operaciones de conciliación bancaria realizadas.
 3. En **Más detalles**, haga clic en **Conciliado Satisfactoriamente** o **No conciliados** para verificar los detalles de las transacciones realizadas en un banco en particular. 
 
-![historico-conciliacion](https://images.ctfassets.net/alneenqid6w5/7K6sF9KZlBA00tbSp4q0pC/3f2bc9203d264a3b45523211ea06ccb2/historico_conciliacao_ES.jpg)
+![historico-conciliacion](//images.ctfassets.net/alneenqid6w5/7K6sF9KZlBA00tbSp4q0pC/3f2bc9203d264a3b45523211ea06ccb2/historico_conciliacao_ES.jpg)
 
 ## Payclub
 
@@ -57,4 +59,4 @@ Aquí es posible hacer el download de los pagos del día que se han hecho a trav
 3. Seleccione la fecha que desee del calendario.
 4. Haga clic en **Descargar archivo**.
 
-![descarga-archivo-conciliación](https://images.ctfassets.net/alneenqid6w5/78K7wW5QAaA0tVCJTBwpDH/6c23d0bf478fdbf20d1176271a29840e/Download_Concilia____o_ES.JPG)
+![descarga-archivo-conciliación](//images.ctfassets.net/alneenqid6w5/78K7wW5QAaA0tVCJTBwpDH/6c23d0bf478fdbf20d1176271a29840e/Download_Concilia____o_ES.JPG)

@@ -40,4 +40,6 @@ Se a loja não tiver ERP ou algum sistema que integre os pedidos, é possível f
     - <a class="far fa-check-square"></a> Eu entendo as consequências desta ação no fluxo do pedido.
 5. Clique em `Avançar com status`.
 
->⚠️ Ao iniciar o manuseio do pedido manualmente, o pedido não poderá ser integrado ao ERP posteriormente.
+<div class="alert alert-warning">
+Ao iniciar o manuseio do pedido manualmente, o pedido não poderá ser integrado ao ERP posteriormente.
+</div>

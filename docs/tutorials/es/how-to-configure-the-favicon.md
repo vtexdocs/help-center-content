@@ -19,7 +19,7 @@ El favicon es el icono exhibido en la pestaña del browser, al lado del título 
 
 Ejemplo:
 
-![favicon_2](https://images.contentful.com/alneenqid6w5/2azvX7m3asGckkU6c8WAcM/2e66d9a107c0394c3f1a63afff7f3149/favicon_2-1024x537.png "Favicon 2")
+![favicon_2](//images.contentful.com/alneenqid6w5/2azvX7m3asGckkU6c8WAcM/2e66d9a107c0394c3f1a63afff7f3149/favicon_2-1024x537.png "Favicon 2")
 
 Utilicé Google como ejemplo solamente para reforzar que ese recurso no es exclusivo de VTEX y se puede utilizarlo en cualquier contenido reproducido en un browser. Lea más sobre este asunto en Google. 🙂
 
@@ -33,4 +33,4 @@ En VTEX, para asegurar que el favicon esté cargado durante toda la navegación 
 
 **Obs. 2:** La variable `{NOMBREDELATIENDA}` debe ser sustituida por el nombre de la tienda según esté registrado en el Gestión de la cuenta.
 
-![fav](https://images.contentful.com/alneenqid6w5/6j5eZzVMEE6E2KgqGgsOwU/c2292316f75f3620cd870c96df9e65fc/fav-1024x554.png)
+![fav](//images.contentful.com/alneenqid6w5/6j5eZzVMEE6E2KgqGgsOwU/c2292316f75f3620cd870c96df9e65fc/fav-1024x554.png)

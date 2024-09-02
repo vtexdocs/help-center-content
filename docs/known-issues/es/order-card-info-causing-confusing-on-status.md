@@ -18,7 +18,9 @@ internalReference: 619778
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Pedidos en estado Manipulación en la nueva vista de la UI, tiene una información de tarjeta que dice (Pedido facturado), y es confuso para el cliente.

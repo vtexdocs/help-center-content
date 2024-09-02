@@ -37,7 +37,9 @@ Las siguientes aplicaciones Cybersource deben estar instaladas en su cuenta de t
 - __vtex.cybersource__
 - __vtex.cybersource-payer-auth__
 
->⚠️ Si tiene la intención de utilizar el sistema antifraude de Cybersource, pero desea realizar transacciones de pagos en un gateway que no sea de Cybersource, deberá instalar la aplicación **vtex.cybersource-fraud**.
+<div class="alert alert-warning">
+Si tiene la intención de utilizar el sistema antifraude de Cybersource, pero desea realizar transacciones de pagos en un gateway que no sea de Cybersource, deberá instalar la aplicación <b>vtex.cybersource-fraud</b>.
+  </div>
 
 Conozca más sobre la instalación de aplicaciones en una cuenta VTEX en [Installing an app](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-an-app). 
 
@@ -45,7 +47,9 @@ Conozca más sobre la instalación de aplicaciones en una cuenta VTEX en [Instal
 
 Después de instalar las aplicaciones, debe crear claves de autenticación en el entorno Cybersource.
 
->⚠️ Las configuraciones realizadas en un ambiente externo a VTEX podrán ser discontinuadas o modificadas sin previo aviso. Consulte su cuenta Cybersource para obtener información actualizada.
+<div class="alert alert-warning">
+  Las configuraciones realizadas en un ambiente externo a VTEX podrán ser discontinuadas o modificadas sin previo aviso. Consulte su cuenta Cybersource para obtener información actualizada.
+  </div>
 
 Siga los pasos a continuación:
 
@@ -60,7 +64,7 @@ Siga los pasos a continuación:
 
 Con las claves de autenticación disponibles, es hora de configurar la aplicación Cybersource IO en el Admin. 
 
-![Cybersource Admin settings ES](https://images.ctfassets.net/alneenqid6w5/53S98k6G5yOwOJrAO4ueiF/ea8ae3e57058eb5c6da45af22a652ebd/Cybersource_Admin_settings_ES.JPG)
+![Cybersource Admin settings ES](//images.ctfassets.net/alneenqid6w5/53S98k6G5yOwOJrAO4ueiF/ea8ae3e57058eb5c6da45af22a652ebd/Cybersource_Admin_settings_ES.JPG)
 
 Siga los pasos a continuación para configurar la aplicación Cybersource IO:
 
@@ -135,7 +139,8 @@ Para procesar pagos con tarjeta de crédito a través de Cybersource, siga los p
 8. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456). 
 9. Haga clic en __Guardar__.
 
->⚠️ Si anteriormente creó condiciones de pago con tarjeta de crédito para otros gateways (incluido el proveedor Cybersource legado), puede establecer esas condiciones en **Inactivas**. Las transacciones en curso iniciadas desde ese proveedor seguirán siendo procesadas por ese proveedor, incluso si está inactivo. El nuevo proveedor de Cybersource IO solo procesará las transacciones nuevas. Si necesita volver a su proveedor anterior por algún motivo, simplemente establezca sus condiciones de pago en **Activas** y las condiciones de pago de Cybersource IO en **Inactivas**.
+<div class="alert alert-warning">
+  Si anteriormente creó condiciones de pago con tarjeta de crédito para otros gateways (incluido el proveedor Cybersource legado), puede establecer esas condiciones en <b>Inactivas</b>. Las transacciones en curso iniciadas desde ese proveedor seguirán siendo procesadas por ese proveedor, incluso si está inactivo. El nuevo proveedor de Cybersource IO solo procesará las transacciones nuevas. Si necesita volver a su proveedor anterior por algún motivo, simplemente establezca sus condiciones de pago en <b>Activas</b> y las condiciones de pago de Cybersource IO en <b>Inactivas</b>.</div>
 
 ## Configurar Cybersource IO Device Fingerprint (opcional)
 
@@ -143,7 +148,9 @@ Device Fingerprint es un identificador que actúa en el procesamiento de un pago
 
 Mediante la recolección de datos no sensibles, Device Fingerprint identifica y analiza el nivel de seguridad del dispositivo utilizado para realizar la transacción, así como las transacciones que se realizaron previamente con este mismo dispositivo.
 
->ℹ️ Cada tienda debe tener solo un registro de Device fingerprint. Verifique si ya ha registrado el Device Fingerprint en otro conector, antes de continuar con los pasos siguientes.
+<div class="alert alert-info">
+Cada tienda debe tener solo un registro de Device fingerprint. Verifique si ya ha registrado el Device Fingerprint en otro conector, antes de continuar con los pasos siguientes.
+</div>
 
 Para configurar Device Fingerprint Cybersource IO, siga los pasos a continuación:
 
@@ -183,7 +190,7 @@ document.body.appendChild(noScript);
 
 Además, puede definir campos personalizados que se incluirán en los pedidos enviados desde VTEX a Cybersource. 
 
-![Cybersource Admin merchant define fields ES](https://images.ctfassets.net/alneenqid6w5/5KPPO5k4to3sH9amCFyp7B/b9aa1888660f6fb63c77923243821125/Cybersource_Admin_merchant_define_fields_ES.JPG)
+![Cybersource Admin merchant define fields ES](//images.ctfassets.net/alneenqid6w5/5KPPO5k4to3sH9amCFyp7B/b9aa1888660f6fb63c77923243821125/Cybersource_Admin_merchant_define_fields_ES.JPG)
 
 Vea a continuación cómo crear estos campos:
 

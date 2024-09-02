@@ -24,7 +24,9 @@ When created, no pair of appKey and appToken is linked to a role. It's necessary
 
 One of the reasons for integration errors can be a lack of association of the created keys with the role. Another possible error is the link of the appKey and appToken to a profile that, although being registered, does not have enough access to perform that specific task on the platform.
 
->ℹ️ Only the [Sponsor user](https://help.vtex.com/tutorial/what-is-the-master-user--3oPr7YuIkEYqUGmEqIMSEy) has the necessary permission to edit the keys, meaning to create the appKey and appToken used in integrations with a store.
+<div class="alert alert-info">
+Only the <a href="https://help.vtex.com/tutorial/what-is-the-master-user--3oPr7YuIkEYqUGmEqIMSEy">Sponsor user</a> has the necessary permission to edit the keys, meaning to create the appKey and appToken used in integrations with a store.
+</div>
 
 ## Mistyping
 
@@ -32,5 +34,7 @@ Both keys should be filled out in their respective fields, without spacing and b
 
 Check for possible errors by accessing __Account Management__ and __[Users](https://help.vtex.com/en/tutorial/managing-users--tutorials_512)__.
 
->ℹ️ The appToken cannot be recovered, once it has been created and displayed to the user.
+<div class="alert alert-info">
+The appToken cannot be recovered, once it has been created and displayed to the user.
+</div>
 

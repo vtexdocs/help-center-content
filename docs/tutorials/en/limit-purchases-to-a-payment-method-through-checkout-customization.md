@@ -19,4 +19,4 @@ We recommend that you limit purchases to a payment method only [through trade po
 
 Another perhaps simpler way is to customize the Checkout so that the CSS will omit the means of payment for the UTM in question. 
 
->❗ But remember that VTEX does not recommend customizing the Checkout, since SmartCheckout exists to maximize efficiency in the purchase closing flow.
+<div class="alert alert-danger">But remember that VTEX does not recommend customizing the Checkout, since SmartCheckout exists to maximize efficiency in the purchase closing flow.</div>

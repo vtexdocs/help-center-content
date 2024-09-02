@@ -22,4 +22,6 @@ Não é possível fazer alterações nesse workspace.
 
 Em vez disso, trabalhe o novo código em outro workspace, depois mude o status desse workspace para `production true` e, por fim, promova-o.
 
->⚠️ Não é possível fazer alterações em master.
+<div class="alert alert-warning">
+Não é possível fazer alterações em master.
+</div>

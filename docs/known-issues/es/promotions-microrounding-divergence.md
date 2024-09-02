@@ -18,7 +18,9 @@ internalReference: 957369
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El módulo de promociones redondea los descuentos hasta en 3 dígitos significativos, lo que puede, en escenarios muy concretos, suponer ligeras divergencias en el precio final de un carrito.

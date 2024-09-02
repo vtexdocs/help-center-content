@@ -18,7 +18,9 @@ internalReference: 376646
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 No momento, da forma como nossa arquitetura foi construída, tanto o vendedor quanto o marketplace são duas entidades totalmente diferentes. Funciona assim: o Marketplace é responsável por receber o dinheiro do cliente e o Vendedor é responsável por toda a logística até o momento em que entrega as mercadorias ao cliente.

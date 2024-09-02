@@ -18,7 +18,9 @@ internalReference: 651102
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando algún SKU contiene un multiplicador de unidades diferente de 1 (puede ser int como 10 o 100, o float como 0.8, por ejemplo), en algunas situaciones, el precio devuelto en store-graphql puede tener inconsistencias basadas en la división del precio devuelto desde la API de simulación:

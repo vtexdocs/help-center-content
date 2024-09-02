@@ -18,7 +18,9 @@ internalReference: 741999
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os dados apresentados nos relatórios da Intelligent Search Analytics, relacionados aos termos resultantes do autocompletar, não concordam com os termos da Top Search apresentados no autocompletar que estão sendo mostrados ao usuário ao utilizar a barra de busca na frente da loja. De acordo com a finalidade do módulo, os últimos 10 termos apresentados no autocompletar devem ser os mesmos que os termos apresentados no relatório analítico, ao selecionar a opção Autocompletar.

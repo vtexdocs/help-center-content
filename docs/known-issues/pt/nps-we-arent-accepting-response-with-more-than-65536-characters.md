@@ -18,7 +18,9 @@ internalReference: 317389
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Não estamos aceitando resposta NPS com mais de 65536 caracteres

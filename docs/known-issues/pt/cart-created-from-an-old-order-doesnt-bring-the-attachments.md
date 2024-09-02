@@ -18,7 +18,9 @@ internalReference: 802464
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao criar um carrinho a partir de um pedido antigo (botão "Pedir novamente" na tela "Meus pedidos"), os anexos e serviços do pedido original não serão mantidos.

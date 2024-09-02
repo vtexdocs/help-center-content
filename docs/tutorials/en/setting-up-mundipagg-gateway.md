@@ -15,7 +15,7 @@ legacySlug: setting-up-mundipagg-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
+<div class="alert alert-danger">This payment integration can no longer be configured on the platform due to the <a href="https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14">legacy provider removal process</a> and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.</div>
 
 Mundipagg is a [gateway](/en/tutorial/what-is-a-payment-gateway) that processes payments made with bank slips, bank transfers and major credit card brands.
 
@@ -35,7 +35,9 @@ To configure Mundipagg, follow the steps below:
 12. In __Captura de segurança antecipada__ ("Early security capture"), choose how long you want the capture to take after the transaction approval and the anti-fraud analysis. You can also disable this function.
 13. Click __Save__.
 
->ℹ️ The steps indicated in steps **8**, **9**, **11** and **12** must be completed if you want to offer bank slips as payment conditions in your store.
+<div class = "alert alert-info">
+The steps indicated in steps <strong>8</strong>, <strong>9</strong>, <strong>11</strong> and <strong>12</strong> must be completed if you want to offer bank slips as payment conditions in your store.
+</div>
 
 ## Setting up the payment condition
 After following the steps indicated above, Mundipagg will be configured in your store. Thus, while you're registering a payment condition, it will be available in the __Process with affiliation__ field (provided the payment method is compatible with Mundipagg). To learn how to set up payment conditions, visit [this Help article](/en/tutorial/how-to-configure-payment-conditions).

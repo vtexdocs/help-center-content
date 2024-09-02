@@ -17,7 +17,9 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 En VTEX es posible la integración con el proveedor de pagos Mundi.
 
->⚠️ Si también desea utilizar el antifraude de Mundi, la configuración de esta función debe realizarla el propio hub de la empresa. En caso de dudas sobre esta etapa de la operación, consulte con el soporte técnico de Mundi.
+<div class= "alert alert-warning">
+Si también desea utilizar el antifraude de Mundi, la configuración de esta función debe realizarla el propio hub de la empresa. En caso de dudas sobre esta etapa de la operación, consulte con el soporte técnico de Mundi.
+</div>
 
 Para configurar la afiliación Mundi, siga los pasos a continuación:
 

@@ -15,7 +15,9 @@ legacySlug: sales-associates-instore-beta
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---
 
->ℹ️ This functionality is in Beta stage, which means we are working to improve it. If in doubt, contact [our Support](https://support.vtex.com/hc/en-us/requests).
+<div class ="alert alert-info">
+<p>This functionality is in Beta stage, which means we are working to improve it. If in doubt, contact <a href="https://support.vtex.com/hc/en-us/requests">our Support</a>.</p>
+</div>
 
 **Sales associates** is a VTEX Admin **Store Settings** page that displays a list of the sales associates registered in your [inStore](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) app. It allows you to manage sales associate information across all your store's [franchise accounts](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl).
 
@@ -27,7 +29,7 @@ This page allows you to manage your sellers from the following actions:
 * [Edit](#editing-sales-associate-information)
 * [Delete](#deleting-a-sales-associate)
 
-![vendedores-en](https://images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/da3c90c0dfb50c0b5c40b9743b421c8b/image.png)
+![vendedores-en](//images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/da3c90c0dfb50c0b5c40b9743b421c8b/image.png)
 
 The page displays the following information: 
 
@@ -50,9 +52,11 @@ You can add a sales associate by following the steps below:
 
 After creation, the sales associate will receive a confirmation email and will be redirected to the sales associate's login option in the inStore app.
 
-![email-vendedor-pt](https://images.ctfassets.net/alneenqid6w5/28VbbIXujzHcE3BriNtZPq/3aa9729eb2211875302b7316dbe46c93/image.png)
+![email-vendedor-pt](//images.ctfassets.net/alneenqid6w5/28VbbIXujzHcE3BriNtZPq/3aa9729eb2211875302b7316dbe46c93/image.png)
 
->⚠️ Sales associates registered in inStore cannot access the VTEX Admin. If a sales associate tries to log in to Admin, their registration will be deleted.
+<div class ="alert alert-warning">
+<p>Sales associates registered in inStore cannot access the VTEX Admin. If a sales associate tries to log in to Admin, their registration will be deleted.</p> 
+</div>
 
 ### Sales associate fields
 
@@ -66,7 +70,9 @@ After creation, the sales associate will receive a confirmation email and will b
 
 * **Store:** the [franchise account](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate will be registered. Mandatory field.
 
->ℹ️ Changes can take up to 15 minutes to be processed and applied to inStore.
+<div class ="alert alert-info">
+<p>Changes can take up to 15 minutes to be processed and applied to inStore.</p> 
+</div>
 
 ## Searching for a sales associate
 

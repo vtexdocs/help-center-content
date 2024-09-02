@@ -18,7 +18,9 @@ internalReference: 780667
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Después de hacer clic en el botón "Guardar nueva tarjeta", los usuarios esperan ver alguna respuesta indicando que algo se está procesando. Desafortunadamente, la experiencia actual es deficiente, ya que el botón no muestra la esperada animación "spinner". Esto puede ser frustrante para los usuarios y perjudica la experiencia general del usuario.

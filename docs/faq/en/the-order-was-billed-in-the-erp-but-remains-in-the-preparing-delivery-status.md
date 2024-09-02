@@ -1,5 +1,5 @@
 ---
-title: "The order was billed in the ERP but remains in the 'Preparing Delivery' status. What to do?"
+title: 'The order was billed in the ERP but remains in the "Preparing Delivery" status. What to do?'
 id: 4szpXviNMAkwOe2cCiMiMe
 status: PUBLISHED
 createdAt: 2017-12-19T13:00:23.800Z

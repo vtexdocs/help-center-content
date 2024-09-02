@@ -17,7 +17,9 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 At VTEX, it is possible to integrate with the payment provider Adyen. Through this connector, your store can offer payment transactions in physical stores (VTEX Sales App), using points of sale (POS). For more information access [What is VTEX Sales App?](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
->ℹ️ To use the AdyenV3 affiliation in your store through other online sales channels (except VTEX Sales App), visit [Configuring payment with AdyenV3](https://help.vtex.com/en/tutorial/configuring-payment-with-adyenv3--7xAz67E2Eg63LWCQNjVdwv).
+<div class="alert alert-info">
+To use the AdyenV3 affiliation in your store through other online sales channels (except VTEX Sales App), visit <a href="https://help.vtex.com/en/tutorial/configuring-payment-with-adyenv3--7xAz67E2Eg63LWCQNjVdwv">Configuring payment with AdyenV3</a>.
+</div>
 
 To use the AdyenV3 affiliation in the VTEX Sales App, you need to:
 
@@ -26,7 +28,9 @@ To use the AdyenV3 affiliation in the VTEX Sales App, you need to:
 - [Configure AdyenV3 Connector (VTEX Sales App) on VTEX](#configuring-adyenv3-connector-vtex-sales-app-on-vtex)
 - [Configure payment condition](#configuring-payment-condition)
 
->⚠️ Settings configured in an environment external to VTEX may be discontinued or modified without prior notice. Please check your Adyen account for the latest information.
+<div class="alert alert-warning">
+Settings configured in an environment external to VTEX may be discontinued or modified without prior notice. Please check your Adyen account for the latest information.
+</div>
 
 ## Configuring point of sale (POS)
 
@@ -47,7 +51,7 @@ To enable VTEX access to the Adyen environment, follow the instructions below:
 2. In the left sidebar, copy and save the information shown above **Company**. This is your Company account.
 3. In the list below Company, search for the Merchant Account that will be used (highlighted in white). Copy and save this information.
 
-![Adyenv3_1](https://images.ctfassets.net/alneenqid6w5/4BHwn5SIUl6AuiiEjreluk/a7404c85f6fda7f7ccbae66070d0db0d/Adyenv3_1.PNG)
+![Adyenv3_1](//images.ctfassets.net/alneenqid6w5/4BHwn5SIUl6AuiiEjreluk/a7404c85f6fda7f7ccbae66070d0db0d/Adyenv3_1.PNG)
 
 ### Getting the POS Live URL
 
@@ -66,7 +70,7 @@ The steps below assume that the API Key has been previously generated in the Ady
 2. Select your API credential.
 3. In **Server Settings > Authentication**, select **API key**. 
 
-![Adyenv3_2](https://images.ctfassets.net/alneenqid6w5/5y5TAeZmhsKrn2nZTJexIw/bfbe2587739f39fa70c4e1f08e86bd71/Adyenv3_2.PNG)
+![Adyenv3_2](//images.ctfassets.net/alneenqid6w5/5y5TAeZmhsKrn2nZTJexIw/bfbe2587739f39fa70c4e1f08e86bd71/Adyenv3_2.PNG)
 
 <blockquote><ui>4. Click <b>Generate key</b> and store the generated key in a safe location.</ui>
 
@@ -82,7 +86,7 @@ Follow the steps below to configure a webhook:
 4. In **General > Description**, add a description for the new webhook. Example: "Webhook Adyen Connector Provider v3".
 5. In **General > Server configuration > URL**, enter the URL of your VTEX account. Example: https://{{account}}.myvtex.com/_v3/api/webhook/notification.
 
-![Adyenv3_4](https://images.ctfassets.net/alneenqid6w5/1gAXlQfBoEUm5qnfSsHJkl/c18036816afbfe9ed8434d1211679879/Adyenv3_4.PNG)
+![Adyenv3_4](//images.ctfassets.net/alneenqid6w5/1gAXlQfBoEUm5qnfSsHJkl/c18036816afbfe9ed8434d1211679879/Adyenv3_4.PNG)
 
 <blockquote><ui>6. Click <b>Apply</b>.</ui>
 
@@ -90,13 +94,15 @@ Follow the steps below to configure a webhook:
 
 <blockquote><ui>8. Click <b>Save changes</b>.</ui>
 
-![Adyenv3_5](https://images.ctfassets.net/alneenqid6w5/4dNUcUg9OKni8eT1wXcjO1/19eddc41d854adb8976e6e90ed54589c/Adyenv3_5.PNG)
+![Adyenv3_5](//images.ctfassets.net/alneenqid6w5/4dNUcUg9OKni8eT1wXcjO1/19eddc41d854adb8976e6e90ed54589c/Adyenv3_5.PNG)
 
-![Adyenv3_6](https://images.ctfassets.net/alneenqid6w5/2ocxDKULle6hnu2fFPnjfZ/7787ff93f023d3ec17c669758aefb82f/Adyenv3_6.PNG)
+![Adyenv3_6](//images.ctfassets.net/alneenqid6w5/2ocxDKULle6hnu2fFPnjfZ/7787ff93f023d3ec17c669758aefb82f/Adyenv3_6.PNG)
 
-![Adyenv3_7](https://images.ctfassets.net/alneenqid6w5/dEbiVnYj1Ic4eYgkSNolQ/79bba40bd6820d29de275e3cab19f22e/Adyenv3_7.PNG)
+![Adyenv3_7](//images.ctfassets.net/alneenqid6w5/dEbiVnYj1Ic4eYgkSNolQ/79bba40bd6820d29de275e3cab19f22e/Adyenv3_7.PNG)
 
->ℹ️ If you have several stores, you need to configure a webhook for each of them.
+<div class="alert alert-info">
+If you have several stores, you need to configure a webhook for each of them.
+</div>
 
 ## Configuring AdyenV3 Connector (VTEX Sales App) on VTEX
 

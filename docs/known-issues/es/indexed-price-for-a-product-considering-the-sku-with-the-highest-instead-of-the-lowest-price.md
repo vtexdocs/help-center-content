@@ -18,7 +18,9 @@ internalReference: 822120
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El precio indexado, que es un valor único para todo el producto (junto con sus SKUs), y se utiliza para ordenar y filtrar los productos en la Búsqueda Inteligente, está considerando el precio más alto entre los SKUs, mientras que lo esperado es considerar el SKU con el precio más bajo - junto con reglas adicionales sobre la política comercial y los vendedores de los SKUs.

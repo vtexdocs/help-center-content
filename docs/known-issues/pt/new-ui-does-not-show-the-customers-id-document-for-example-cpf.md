@@ -18,7 +18,9 @@ internalReference: 713480
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A Nova UI não mostra o documento de identificação do cliente nos pedidos. Por exemplo, como CPF, isso acontece porque a política comercial de contas tem outro país configurado.

@@ -18,9 +18,13 @@ Para permitir transações por meio de máquinas de cartão usando o inStore, vo
 
 A __Cielo LIO__ é um adquirente homologado pelo inStore no Brasil.
 
->⚠️ Se você deseja usar a Cielo LIO em um país diferente ou se deseja usar outro adquirente que atualmente não é homologado, precisará criar a integração com o aplicativo desse adquirente. Para fazer isso, consulte o artigo [ Integrar o inStore a um novo adquirente de pagamento](https://help.vtex.com/pt/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod).
+<div class="alert alert-warning">
+Se você deseja usar a Cielo LIO em um país diferente ou se deseja usar outro adquirente que atualmente não é homologado, precisará criar a integração com o aplicativo desse adquirente. Para fazer isso, consulte o artigo <a href="https://help.vtex.com/pt/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod"> Integrar o inStore a um novo adquirente de pagamento</a>.
+</div>
 
->ℹ️ Atualmente, a Cielo LIO é suportada apenas pelos sistemas Android. Você pode usar a CieloLio V2 ou a CieloLio+.
+<div class="alert alert-info">
+Atualmente, a Cielo LIO é suportada apenas pelos sistemas Android. Você pode usar a CieloLio V2 ou a CieloLio+.
+</div>
 
 Antes de instalar o aplicativo da Cielo LIO, verifique se você concluiu a etapa anterior da configuração do módulo de Pagamentos. Se tiver concluído, siga as etapas abaixo para instalar e configurar o adquirente Cielo LIO para o inStore.
 

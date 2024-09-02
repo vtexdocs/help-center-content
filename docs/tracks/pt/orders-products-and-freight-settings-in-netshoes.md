@@ -36,6 +36,8 @@ A implementação dessa API permite que a Netshoes consulte, em tempo real, pre�
 
 `http://{accountName}.vtexcommercestable.com.br/api/netshoesintegration/freight`
 
->⚠️ **OBS:** se os Mapeamentos de Entrega não estiverem feitos, não haverá retorno de informações de entrega e frete para essa API. 
+<div class="alert alert-warning">
+<strong>OBS:</strong> se os Mapeamentos de Entrega não estiverem feitos, não haverá retorno de informações de entrega e frete para essa API.</div> 
 
->❗ **OBS 2:** para que a consulta da API seja feita com sucesso, o ID da transportadora e o ID da doca na VTEX deve ser um valor que contenha somente números.
+<div class="alert alert-danger">
+<strong>OBS 2:</strong> para que a consulta da API seja feita com sucesso, o ID da transportadora e o ID da doca na VTEX deve ser um valor que contenha somente números.</div>

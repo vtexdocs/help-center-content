@@ -18,7 +18,9 @@ internalReference: 938124
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En la vista previa del envío, cuando se selecciona recoger en tienda, pero no todos los artículos están disponibles para esa recogida, la dirección mostrada para el envío es la de la recogida elegida, y no es posible cambiarla. Sin embargo, en el formulario de pedido, la dirección seleccionada para el envío es correcta.

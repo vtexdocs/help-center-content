@@ -18,20 +18,24 @@ subcategory: 5HsDDU48ZP58JHWU3WbCPc
 La tipografía del sitio web de tu tienda es una herramienta para comunicar la identidad de tu marca a los clientes. 
 En el Admin, tienes la flexibilidad de personalizar la tipografía de tu tienda para acomodar las necesidades de tu negocio.
 
->⚠️ Ten en cuenta que los cambios en la tipografía de tu tienda en el **Storefront** sobrescriben los cambios de tipografía en el código de tu tienda. Por favor, ponte en contacto con tu equipo de desarrollo y asegúrate de que los cambios se realicen en el Storefront o mediante el código de la tienda.
+<div class="alert alert-warning">
+  <p>Ten en cuenta que los cambios en la tipografía de tu tienda en el <b>Storefront</b> sobrescriben los cambios de tipografía en el código de tu tienda. Por favor, ponte en contacto con tu equipo de desarrollo y asegúrate de que los cambios se realicen en el Storefront o mediante el código de la tienda.</p>
+</div>
 
 ## Agregar familias de fuentes personalizadas
 
 1. En el Admin VTEX, accede a **Storefront > Styles (Estilos)**.
 2. Selecciona el ícono de kebab (tres puntos).
 
-![Styles - More Options ES](https://images.ctfassets.net/alneenqid6w5/7qhmfxaMzZ8Aw0F6mygs2i/f58a158cd09d76ad56efc3876b742e2e/styles-two-es.png)
+![Styles - More Options ES](//images.ctfassets.net/alneenqid6w5/7qhmfxaMzZ8Aw0F6mygs2i/f58a158cd09d76ad56efc3876b742e2e/styles-two-es.png)
 
 3. Haz clic en **Edit (Editar) > Typography (Tipografía) > Font Family (Familia de fuentes)**.
 
 4. Luego, haz clic en **Add Custom Font (Agregar fuente personalizada)** y carga el archivo de fuente deseado. En el campo **Font Family (Familia de fuentes)**, ingresa un nombre para la fuente.
 
->⚠️ Debes cargar el archivo de la familia de fuentes utilizando las siguientes extensiones de archivo: <i>.ttf</i> o <i>.woff</i>.
+<div class="alert alert-warning">
+  <p>Debes cargar el archivo de la familia de fuentes utilizando las siguientes extensiones de archivo: <i>.ttf</i> o <i>.woff</i>.</p>
+</div>
 
 5. Haz clic en Save (Guardar) para guardar los cambios. 
 
@@ -47,7 +51,7 @@ Consulta la sección [Tokens de tipo](#type-tokens) para ver más información s
 2. Selecciona el ícono de kebab (tres puntos).
 3. Haz clic en **Edit (Editar) > Typography (Tipografía) >Type Tokens (Tokens de tipo)**.
 
-![Styles - Type tokens ES](https://images.ctfassets.net/alneenqid6w5/6kw7SMB36fZsS0SKX00Kss/45b1dfaa49adb3535975be65b03938bf/styles-three-es.gif)
+![Styles - Type tokens ES](//images.ctfassets.net/alneenqid6w5/6kw7SMB36fZsS0SKX00Kss/45b1dfaa49adb3535975be65b03938bf/styles-three-es.gif)
 
 4. Elige el token de tipo que deseas personalizar como, por ejemplo, **Heading 1** y haz clic en él.
 

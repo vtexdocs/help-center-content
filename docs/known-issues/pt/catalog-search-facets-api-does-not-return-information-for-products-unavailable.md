@@ -18,7 +18,9 @@ internalReference: 583623
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Facetas de Pesquisa de Catálogo API / Portal Search Result Filtros não retornam informações para produtos indisponíveis e configurados para serem mostrados sem estoque. O produto aparecerá no Resultado da Busca, mas seus filtros não aparecerão.

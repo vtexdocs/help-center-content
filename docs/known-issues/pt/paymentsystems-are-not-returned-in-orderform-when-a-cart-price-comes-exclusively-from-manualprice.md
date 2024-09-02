@@ -18,7 +18,9 @@ internalReference: 1025321
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o valor total de um carrinho provém exclusivamente de um preço manual, os itens `preço` e `preço de entrega` são `0`, nenhum sistema de pagamento além do Gift Card (se ativo) é oferecido.

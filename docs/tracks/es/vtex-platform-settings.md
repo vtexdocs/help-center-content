@@ -51,10 +51,14 @@ Si desea utilizar la misma Estrategia de Envío definida para su tienda VTEX en 
 
 Si desea comprobar si la configuración se ha realizado correctamente, puede realizar una [simulación de envío](https://help.vtex.com/es/tutorial/simulacao-de-frete--tutorials_144). El simulador de envío es una herramienta que permite consultar las condiciones de entrega del producto sin necesidad de crear un pedido.
 
->ℹ️ Amazon selecciona el tipo de envío a partir de la [plantilla](https://help.vtex.com/es/tutorial/como-montar-a-planilha-de-frete--tutorials_127) que el administrador de la tienda [exporta](https://help.vtex.com/pt/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034). Por lo tanto, es importante que la plantilla que el administrador de la tienda exporta esté alineada con la plantilla registrada en VTEX, de modo que se reduzca la posibilidad de divergencias.
+<div class="alert alert-info">
+Amazon selecciona el tipo de envío a partir de la <a href="https://help.vtex.com/es/tutorial/como-montar-a-planilha-de-frete--tutorials_127">plantilla</a> que el administrador de la tienda <a href="https://help.vtex.com/pt/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034">exporta</a>. Por lo tanto, es importante que la plantilla que el administrador de la tienda exporta esté alineada con la plantilla registrada en VTEX, de modo que se reduzca la posibilidad de divergencias.
+</div>
 
 ### Tiempo de procesamiento
 
 En Amazon hay el campo *“fulfillment latency”*, que se utiliza para configurar el tiempo de preparación de la entrega de un determinado producto. Para utilizarlo en la configuración con Amazon, debe rellenar el campo **Tiempo de Procesamiento** en el [registro del muelle](https://help.vtex.com/es/tutorial/como-cadastrar-doca) asociado a la [política comercial](#definir-la-política-comercial-en-amazon) utilizada para Amazon. Si este campo no se rellena, Amazon utilizará su valor por defecto (2 días).
 
->⚠️ Filling in this field is essential, because if your store delays the delivery of an order, your account may be blocked.
+<div class="alert alert-warning">
+Filling in this field is essential, because if your store delays the delivery of an order, your account may be blocked. 
+</div>

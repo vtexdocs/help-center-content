@@ -3,8 +3,8 @@ title: 'Configuração da regra de Divergência de valores'
 id: awAKP0sS5J8jgLs2g7pPe
 status: PUBLISHED
 createdAt: 2021-12-03T01:24:41.194Z
-updatedAt: 2024-03-27T21:10:37.241Z
-publishedAt: 2024-03-27T21:10:37.241Z
+updatedAt: 2024-08-13T20:39:38.157Z
+publishedAt: 2024-08-13T20:39:38.157Z
 firstPublishedAt: 2021-12-03T01:31:08.666Z
 contentType: tutorial
 productTeam: Channels
@@ -33,7 +33,9 @@ Quando um seller está integrado a um conector nativo, como o Mercado Livre ou a
 
 A [regra de Divergência de valores](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW) é composta de uma ou múltiplas regras de autorização de pedidos, que correspondem a intervalos entre 0% a 100% do preço do pedido. A configuração é feita de forma que cada intervalo é associado a uma ação automática de processamento.
 
->ℹ️ Para criar uma regra de Divergência de valores, o usuário precisa ter o [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de Admin Super (Owner) ou OMS Full. Garanta a segurança na gestão das suas operações e confira as [melhores práticas de segurança para gestão de usuários](https://help.vtex.com/pt/faq/metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja--15YDwC9jGgqWi3rvcDaiGM).
+<div class = "alert alert-info">
+Para criar uma regra de Divergência de valores, o usuário precisa ter o <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">perfil de acesso</a> de Admin Super (Owner) ou OMS Full. Garanta a segurança na gestão das suas operações e confira as <a href="https://help.vtex.com/pt/faq/metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja--15YDwC9jGgqWi3rvcDaiGM">melhores práticas de segurança para gestão de usuários</a>.
+</div>
 
 Para criar uma regra de Divergência de valores, siga os passos abaixo:
 
@@ -43,13 +45,13 @@ Para criar uma regra de Divergência de valores, siga os passos abaixo:
 
 Você verá a seguinte tela:
 
-![print_01_PT](https://images.ctfassets.net/alneenqid6w5/6lp2IKdU8VvaFgOUhHv5GA/97a35d8b97cc9bd3a9ccd7c9db67b87a/print_01_PT.png)
+![print_01_PT](//images.ctfassets.net/alneenqid6w5/6lp2IKdU8VvaFgOUhHv5GA/97a35d8b97cc9bd3a9ccd7c9db67b87a/print_01_PT.png)
 
 A aba **Todas** apresenta todas as regras de autorização configuradas.
 
 Para criar a 1ª regra de autorização, clique em **CRIAR REGRAS**. A partir disso, será possível identificar uma nova aba, chamada **1ª regra**. Clique sobre ela e opções de configuração vão aparecer.
 
-![print_02_PT](https://images.ctfassets.net/alneenqid6w5/Q8TwzIWNwQPg13tcaALd6/a8a96047fce4c061362d5a22ada0d2c0/print_02_PT.png)
+![print_02_PT](//images.ctfassets.net/alneenqid6w5/Q8TwzIWNwQPg13tcaALd6/a8a96047fce4c061362d5a22ada0d2c0/print_02_PT.png)
 
 Para configurar a **1ª regra**, você pode aumentar ou diminuir o percentual de divergência, arrastando as extremidades da barra, sendo o sinal > para definir o início do intervalo, e < para determinar até onde ele vai. O intervalo percentual escolhido pode variar de 0% a 100%.
 
@@ -63,13 +65,15 @@ Uma vez definido o intervalo da regra de autorização, selecione uma das seguin
 
 Para configurar uma hierarquia de usuários responsáveis por aprovações de pedidos, é preciso inserir mais de um email e escolher a ordenação dos usuários cadastrados. É possível alterar esses usuários a qualquer momento, ao editar a regra de autorização de pedidos. Vale ressaltar que somente um usuário com [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) Admin Super (_Owner_) ou OMS Full pode editar a regra.
 
-Para criar a **2ª regra**, clique no `<img class="shadow-4" src="https:////images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" />` sinal de adição. Esse mesmo procedimento vale para criar uma terceira ou quarta regra, e assim por diante. Após clicar no ícone, aparece a seguinte interface:
+Para criar a **2ª regra**, clique no <i class="fas fa-plus" aria-hidden="true"></i> sinal de adição. Esse mesmo procedimento vale para criar uma terceira ou quarta regra, e assim por diante. Após clicar no ícone, aparece a seguinte interface:
 
-![print_03_PT](https://images.ctfassets.net/alneenqid6w5/6Yxvh93ja2V69Yywn3CyWt/15b1a362d2184c3e8a09f65796ea9db2/print_03_PT.png)
+![print_03_PT](//images.ctfassets.net/alneenqid6w5/6Yxvh93ja2V69Yywn3CyWt/15b1a362d2184c3e8a09f65796ea9db2/print_03_PT.png)
 
 Configure a nova regra de autorização e, após definir todas as regras desejadas, clique no botão **SALVAR REGRAS**. Você verá a seguinte mensagem: _Após salvar, você ainda poderá editá-las ou excluí-las quando quiser_. Clique em **OK** para  confirmar. Feito isso, você terá concluído a criação da regra de Divergência de valores.
 
->⚠️ Uma vez que você configure a regra de Divergência de valores, ela passa a valer para todos os marketplaces nos quais você seja seller.
+<div class="alert alert-warning">
+Uma vez que você configure a regra de Divergência de valores, ela passa a valer para todos os marketplaces nos quais você seja seller.
+</div>
 
 ## Editar regra de Divergência de valores
 
@@ -77,7 +81,9 @@ A edição da regra de Divergência de valores pode ser feita a qualquer momento
 
 Na página de edição de regras, existe a opção de deletar a regra de Divergência de valores, clicando em **EXCLUIR REGRAS**. Isso faz com que todas as regras de autorização configuradas sejam permanentemente deletadas.
 
->ℹ️ Caso você exclua a regra de Divergência de valores, essa ação não pode ser desfeita. Para voltar a valer, será necessário configurá-la novamente. Isso se aplica também às regras de autorização que compõem a regra de Divergência de valores.
+<div class = "alert alert-info">
+Caso você exclua a regra de Divergência de valores, essa ação não pode ser desfeita. Para voltar a valer, será necessário configurá-la novamente. Isso se aplica também às regras de autorização que compõem a regra de Divergência de valores.
+</div>
 
 Na mesma página, na aba **Todas**, é possível identificar a lista de todas as regras de autorização de pedidos criadas. Para excluir uma regra de autorização, você pode clicar no botão **EXCLUIR REGRA** ao lado da regra que deseja deletar.
 
@@ -89,7 +95,9 @@ Uma vez concluídas as alterações desejadas, clique no botão **SALVAR REGRAS*
 
 Quando uma regra de autorização de pedido é configurada para _Criar uma tarefa no VTEX DO para aprovação_, isso significa que ao menos um usuário foi designado para autorizar manualmente o pedido. O [gerenciamento de pedidos com Divergência de valores](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW#gerenciamento-de-pedidos-com-divergencia-de-valores) é similar ao de outros canais de venda, como loja física ou ecommerce.
 
->⚠️ É importante acompanhar regularmente os pedidos pelo módulo **Pedidos**, em **Pedidos > Todos os pedidos**. Caso exijam aprovação manual, os pedidos com erro de divergência de valores permanecem pendentes, aguardando a autorização de um usuário habilitado, definido na criação da regra de autorização. Uma boa prática é ter ao menos dois usuários habilitados a autorizar a aprovação manual.
+<div class="alert alert-warning">
+É importante acompanhar regularmente os pedidos pelo módulo <b>Pedidos</b>, em <b>Pedidos > Todos os pedidos</b>. Caso exijam aprovação manual, os pedidos com erro de divergência de valores permanecem pendentes, aguardando a autorização de um usuário habilitado, definido na criação da regra de autorização. Uma boa prática é ter ao menos dois usuários habilitados a autorizar a aprovação manual.
+</div>
 
 Existem duas maneiras de um usuário habilitado autorizar manualmente um pedido com divergência de preço:
 

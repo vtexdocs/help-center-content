@@ -30,7 +30,9 @@ Vea el paso a paso a continuación:
 4. Haga clic en el ícono de __Engranaje__ 
 5. Busque por __Porcentaje de Tolerancia__ y agregue un valor
 
->ℹ️ Generalmente, en el caso de Magazine Luiza, el valor mínimo cobrado por el Porcentaje de Tolerancia es de 15%. Sin embargo, todo depende del valor que el marketplace registrará para un producto. Siempre vale la pena verificar el porcentaje antes de llenar el campo en la configuración.
+<div class="alert alert-info">
+Generalmente, en el caso de Magazine Luiza, el valor mínimo cobrado por el Porcentaje de Tolerancia es de 15%. Sin embargo, todo depende del valor que el marketplace registrará para un producto. Siempre vale la pena verificar el porcentaje antes de llenar el campo en la configuración.
+</div>
 
 Después de completar esta primera etapa, es posible que los pedidos no se procesen inmediatamente. Aún así, existe una forma de agilizar el proceso que es ignorando [a divergência do valor do pedido](https://help.vtex.com/es/tracks/configurar-integracao-com-a-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y/4QWLcDhsh2GSSamouyu6M0 "a divergência do valor do pedido").
 

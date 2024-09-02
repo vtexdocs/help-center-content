@@ -14,7 +14,7 @@ trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
 ---
 
->ℹ️ We recommend using [Synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) instead of [Substitute Words](https://help.vtex.com/en/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete) to associate words with products, as synonyms allow you to manage terms per product in a more scalable way. Contact our [Support team](https://support.vtex.com/hc/pt-br/requests) for more information.
+<div class = "alert alert-info"> We recommend using <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV">Synonyms</a> instead of <a href="https://help.vtex.com/en/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete">Substitute Words</a> to associate words with products, as synonyms allow you to manage terms per product in a more scalable way. Contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support team</a> for more information.</div>
 
 There are two ways to set up synonyms in VTEX Admin: [individually](#creating-synonyms-individually) or by [importing a spreadsheet in CSV format](#importing-csv-spreadsheet). If you need to register synonyms in bulk, we recommend using the spreadsheet. See the instructions for each configuration form in the following sections.
 
@@ -40,7 +40,9 @@ Follow the step-by-step procedure to configure synonyms individually in the VTEX
 
 Changes can take up to two hours to take effect.
 
->ℹ️ This feature is available on VTEX Intelligent Search Multilanguage. Read our article [VTEX Intelligent Search: Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-multilanguage-settings-beta--2WahlTESLXIJ9XBdQMdTYO#synonyms)to learn more.
+<div class="alert alert-info">
+<p> This feature is available on VTEX Intelligent Search Multilanguage. Read our article <a href="https://help.vtex.com/en/tutorial/vtex-intelligent-search-multilanguage-settings-beta--2WahlTESLXIJ9XBdQMdTYO#synonyms">VTEX Intelligent Search: Multilanguage settings (Beta)</a>to learn more.</p>
+</div>
 
 ## Importing CSV spreadsheet
 
@@ -87,5 +89,7 @@ Stores using  [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/
     __Example:__
     - `tv,smart tv;true;en-GB`: When searching for one of these terms in the store in English (`locale en-GB`), the search results will return any product that contains one of these terms.
 
->⚠️ If the imported .csv file does not have the `locale`, the synonym will be valid for all languages available in the store.
+<div class="alert alert-warning">
+  <p>If the imported .csv file does not have the <code>locale</code>, the synonym will be valid for all languages available in the store.</p>
+</div>
 

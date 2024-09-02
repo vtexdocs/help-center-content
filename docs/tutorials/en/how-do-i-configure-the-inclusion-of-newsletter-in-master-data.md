@@ -19,7 +19,9 @@ Newsletter inclusion is a form that can be entered on any page of your site (exc
 
 This article will also help configure the inclusion of email addresses of customers who want to receive a newsletter, using Master Data.
 
->⚠️ The vtex.cmc:newsletterOptIn control is discontinued and should no longer be used.
+<div class="alert alert-warning">
+The vtex.cmc:newsletterOptIn control is discontinued and should no longer be used.
+</div>
 
 This option for configuration in Master Data is convenient because details of all your customers are kept in the same place, since all the store’s registered customers are already in Master Data. In other words, it is the appropriate place for customer maintenance and action, and having all the records in one place makes life easier.
 

@@ -1,5 +1,5 @@
 ---
-title: "Cálculo de reembolso incorrecto en Payout Split - 'Valor en destinatarios * es diferente al valor de operación *'."
+title: 'Cálculo de reembolso incorrecto en Payout Split - "Valor en destinatarios * es diferente al valor de operación *".'
 id: 7Fxtwnntpmi0DrUD5a603W
 status: PUBLISHED
 createdAt: 2024-07-29T15:07:07.716Z
@@ -18,7 +18,9 @@ internalReference: 1072285
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al llamar a un reembolso (en transacciones con división de pago) puede ocurrir el error de abajo con importes divergentes:

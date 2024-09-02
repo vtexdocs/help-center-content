@@ -3,8 +3,8 @@ title: 'Events available in Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2024-06-28T18:16:11.762Z
-publishedAt: 2024-06-28T18:16:11.762Z
+updatedAt: 2024-08-16T20:08:11.733Z
+publishedAt: 2024-08-16T20:08:11.733Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
 productTeam: Master Data
@@ -34,10 +34,16 @@ Below, you will find a list of the potential events available in [Audit](https:/
 * [VTEX ID](#vtex-id)
 * [Headless CMS](#headless-cms)
 * [Seller Management](#seller-management)
+* [Site Editor](#site-editor)
+* [Ad Network](#ad-network)
 
->ℹ️ In case you encounter an event in Audit which has not been included in this list, please inform us through the [documentation feedback page](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
+<div class = "alert alert-info">
+In case you encounter an event in Audit which has not been included in this list, please inform us through the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform">documentation feedback page</a>.
+</div>
 
->⚠️ In the Audit filter options, you can find **Shipping Options**, **Profile System**, and **Billing** options besides the applications listed in this guide. Since these options refer to internal resources or features in closed beta, most accounts will not have events associated with them.
+<div class="alert alert-warning">
+<p>In the Audit filter options, you can find <strong>Shipping Options</strong>, <strong>Profile System</strong>, and <strong>Billing</strong> options besides the applications listed in this guide. Since these options refer to internal resources or features in closed beta, most accounts will not have events associated with them.</p>
+</div>
 
 ## OMS
 
@@ -76,14 +82,21 @@ Below, you will find a list of the potential events available in [Audit](https:/
 |---|---|---|
 | Carrier Create | Carrier creation. | Carrier ID. |
 | Carrier Update | Carrier update. | Carrier ID. |
-| Carrier Delete | Carrier deletion. | Carrier ID. |
 | Dock Create | Loading dock creation. | Loading dock ID. |
 | Dock Update | Loading dock update. | Loading dock ID. |
-| Dock Delete | Loading dock deletion. | Loading dock ID. |
-| Warehouse Create | Warehouse creation. | Warehouse ID. |
 | Warehouse Update | Warehouse update. | Warehouse ID. |
-| Warehouse Delete | Warehouse deletion. | Warehouse ID. |
-| Pickup Point Save | Pickup point creation or change. | Pickup point ID. |
+| warehouse deactivate | Warehouse deactivation. | Warehouse ID. |
+| Pickup Point Save | Pickup point creation or update. | Pickup point ID. |
+| UPDATE-ITEM-AVAILABILITY | Item availability update. | Previous and new item quantity, SKU ID, and warehouse ID. Example: `The quantity of 17_andreia-estoque-sp was updated from 30.0 to 200.0.` |
+| item-availability-delete | Item availability deletion. | SKU ID and warehouse ID. Example: `112233_andreia-estoque-sp was deleted.` |
+| Pickup Point Delete | Pickup point deletion. | Pickup point ID. |
+| Carrier New Freight Values | Freight table update. | Shipping policy ID. |
+| Holiday Update | Holiday update. | Holiday ID. |
+| Polygon Create | Polygon creation. | Polygon ID. |
+| Holiday Create | Holiday creation. | Holiday ID. |
+| Holiday Delete | Holiday deletion. | Holiday ID. |
+| Reservation Create | SKU reservation creation. | Item quantity, SKU ID, and warehouse ID. Example: `A quantity of 1.0 from 1_1_1 was reserved.` |
+| Reservation Cancel | SKU reservation cancellation. | Item quantity, SKU ID, and warehouse ID. Example: `The reservation of 1.0 from 2000534_1_1 was canceled.` |
 
 ## Catalog (Admin)
 
@@ -225,6 +238,8 @@ Below, you will find a list of the potential events available in [Audit](https:/
 | TRY_UNPUBLISHING_AND_OVERWRITING | Attempt to unpublish and overwrite a page. | Event ID. |
 | done.invoke.deleteContent | Delete content. | Event ID. |
 | done.invoke.deleteContentVariant | Delete content version. | Event ID. |
+| Create new media | Create media file. | Event ID. |
+| Delete media | Delete media file. | Event ID. |
 
 In the **Action** column, all Headless CMS events also display the following information:
 
@@ -238,3 +253,28 @@ In the **Action** column, all Headless CMS events also display the following inf
 |---|---|---|
 | Update Seller | Change in a seller. | Seller ID. |
 | Save Seller | Seller creation. | Seller ID. |
+
+## Site Editor
+
+| Action | Event description | Event details |
+|:---:|:---:|:---:|
+| Schedule change | Schedules content editing. | Changed entity ID. |
+| Edit content block | Edits the content block. | Changed entity ID. |
+| Create content block | Creation of a content block. | Changed entity ID. |
+| Activate content block version | Activates the content block version. | Changed entity ID. |
+| Reset content block version | Resets the content block version. | Changed entity ID. |
+| Delete content block version | Deletes the content block version. | Changed entity ID. |
+| Edit style | Edits the style. | Changed entity ID. |
+| Create new style | Creates a new style. | Changed entity ID. |
+| Select main style | Selects the main style. | Changed entity ID. |
+| Delete style | Deletes the style. | Changed entity ID. |
+| Copy binding content | Copies the binding content. | Changed entity ID. |
+
+## Ad Network
+
+| Action | Event description | Event details |
+|---|---|---|
+| Create ads | Creation of a new ad. | Ad ID. |
+| Create campaign | Creation of a new campaign. | Campaign ID. |
+| Update ads | Update of an ad. | Ad ID. |
+| Update campaign | Update of a campaign. | Campaign ID. |

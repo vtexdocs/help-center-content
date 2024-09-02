@@ -18,7 +18,9 @@ internalReference: 433664
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 No hay límite en el registro de los campos de especificación, lo que puede generar tiempos de espera en el administrador del catálogo.

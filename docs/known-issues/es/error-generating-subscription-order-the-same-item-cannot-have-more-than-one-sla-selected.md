@@ -1,5 +1,5 @@
 ---
-title: "Error al generar la orden de suscripción ''El mismo artículo no puede tener más de un ANS seleccionado'"
+title: 'Error al generar la orden de suscripción ""El mismo artículo no puede tener más de un ANS seleccionado"'
 id: 2aBMa8ncalkqSm2s868i1q
 status: PUBLISHED
 createdAt: 2022-09-29T13:31:57.984Z
@@ -18,7 +18,9 @@ internalReference: 658185
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En los escenarios de pedidos de suscripción en los que un mismo artículo de compra acaba dividido en diferentes entradas, como la compra de 10 unidades del mismo artículo que se presenta como 7 unidades (A) y 3 unidades (B), el flujo de ejecución del ciclo de suscripción puede acabar eligiendo diferentes métodos de entrega entre el artículo A y el B, aunque sean la misma SKU.

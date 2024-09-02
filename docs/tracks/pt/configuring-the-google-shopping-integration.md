@@ -16,7 +16,9 @@ trackSlugPT: configurar-integracao-com-o-google-shopping
 
 Este guia orienta como integrar com Google Shopping através do conector desenvolvido pela VTEX, que deve ser sua escolha padrão, pois representa mais eficiência e segurança.
 
->❗ A integração pode ser [configurada por arquivo XML](https://help.vtex.com/pt/tutorial/configurando-xml--tutorials_242) . É desaconselhável realizar simultaneamente a [configuração XML do Google Shopping](https://help.vtex.com/pt/tutorial/como-configurar-xml-do-google-shopping--frequentlyAskedQuestions_372) e do conector nativo, pois isso acarreta conflitos e divergência de informações.
+<div class="alert alert-danger">
+A integração pode ser <a href="https://help.vtex.com/pt/tutorial/configurando-xml--tutorials_242">configurada por arquivo XML</a> . É desaconselhável realizar simultaneamente a <a href="https://help.vtex.com/pt/tutorial/como-configurar-xml-do-google-shopping--frequentlyAskedQuestions_372">configuração XML do Google Shopping</a> e do conector nativo, pois isso acarreta conflitos e divergência de informações. 
+</div>
 
 Para realizar a integração por conector, **é indispensável possuir uma conta no Google Merchant Center.**  Caso você ainda não tenha uma, confira o tutorial do Google [Inscrever-se no Google Merchant Center](https://support.google.com/merchants/answer/188924?hl=pt-BR&ref_topic=7294166).
 

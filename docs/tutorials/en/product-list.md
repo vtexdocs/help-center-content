@@ -17,7 +17,7 @@ subcategory: 4hisB47iAVZk4r3SEmMoG
 
 The **Products** page allows you to view and manage the complete list of products added to your store, simplifying catalog management on Seller Portal. You can access this page through the **Catalog** menu on VTEX Admin.
 
-![product-list-en](https://images.ctfassets.net/alneenqid6w5/25zE8wHvqhOGvaXweX7acK/db6872b42868dbe018b1f85c1a4d9da1/product-list-en.png)
+![product-list-en](//images.ctfassets.net/alneenqid6w5/25zE8wHvqhOGvaXweX7acK/db6872b42868dbe018b1f85c1a4d9da1/product-list-en.png)
 
 On the **Products** page, you can:
 
@@ -30,7 +30,7 @@ On the **Products** page, you can:
 
 By clicking on the `CREATE PRODUCT` button, you will be redirected to the page where you can add a new product to the catalog. Check out the article[ How to create a product](https://help.vtex.com/en/tutorial/how-to-create-a-product-beta--671zAWe0B9eCikzDu7kB1G) for more details.
 
->⚠️ The limit for each Seller Portal account is 100 thousand products. For more information, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support.
+<div class="alert alert-warning"> The limit for each Seller Portal account is 100 thousand products. For more information, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support.</div>
 
 ## Searching for product
 

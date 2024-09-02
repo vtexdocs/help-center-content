@@ -18,7 +18,9 @@ internalReference: 276511
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Usando la API https://developers.vtex.com/vtex-rest-api/reference/catalog-api-trade-policy para insertar/borrar una Política Comercial a un producto o la API no generan una petición de reindexación.

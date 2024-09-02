@@ -19,7 +19,9 @@ subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 
 A [Alteração de itens](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190) é diferente da substituição de pedidos. Na substituição de pedido o cliente solicita as mudanças no pedido, e na alteração de itens a loja modifica o pedido.
 
->❗ A funcionalidade está disponível para todas as lojas, no entanto, é preciso ativá-la para que seus clientes possam utilizá-la.
+<div class="alert alert-danger">
+A funcionalidade está disponível para todas as lojas, no entanto, é preciso ativá-la para que seus clientes possam utilizá-la. 
+</div>
 
 Neste artigo é possível consultar:
 
@@ -29,7 +31,9 @@ Neste artigo é possível consultar:
 
 ## Ativação da funcionalidade
 
->❗ Se a Substituição de pedidos for ativada em lojas que têm customização na página Meus Pedidos, é preciso recriar a customização. A funcionalidade substitui a versão antiga da página (que está customizada) por uma página nova não customizada. Para esses casos, recomendamos que, antes de ativar a funcionalidade na sua loja, utilize um [ambiente beta](https://help.vtex.com/pt/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu) e valide a ativação com customização.
+<div class="alert alert-danger">
+Se a Substituição de pedidos for ativada em lojas que têm customização na página Meus Pedidos, é preciso recriar a customização. A funcionalidade substitui a versão antiga da página (que está customizada) por uma página nova não customizada. Para esses casos, recomendamos que, antes de ativar a funcionalidade na sua loja, utilize um <a href="https://help.vtex.com/pt/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu">ambiente beta</a> e valide a ativação com customização.
+</div>
 
 Para ativar a funcionalidade, siga os passos abaixo:
 
@@ -79,6 +83,8 @@ Com a funcionalidade ativada, os clientes da sua loja têm acesso a uma nova pá
 
 Depois de clicar em `Alterar pedido` , o cliente é levado ao carrinho de compras e depois para o checkout, onde é possível realizar as alterações desejadas (endereço, tipo de entrega, forma de pagamento e SKU). O processo só é concluído quando a compra é finalizada. O cliente não é cobrado duas vezes pelo mesmo pedido.
 
->⚠️ O aproveitamento do pagamento (utilizar o pagamento efetuado anteriormente) só pode ser usado se o valor do pedido novo for igual ao do pedido original. Se o pagamento anterior por cartão de crédito não for aproveitado, a cobrança anterior é automaticamente estornada.
-> <p>Para formas de pagamento que expiram em até 2 dias (como boleto), o pagamento não pode ser reutilizado.
+<div class="alert alert-warning">
+O aproveitamento do pagamento (utilizar o pagamento efetuado anteriormente) só pode ser usado se o valor do pedido novo for igual ao do pedido original. Se o pagamento anterior por cartão de crédito não for aproveitado, a cobrança anterior é automaticamente estornada.
+<p>Para formas de pagamento que expiram em até 2 dias (como boleto), o pagamento não pode ser reutilizado.
+</div>
 

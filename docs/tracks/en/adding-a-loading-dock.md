@@ -29,7 +29,7 @@ Follow the steps below to add a loading dock to your store:
 4. Fill out the data entry fields. For more details on each field's meaning, refer to section [data entry fields](#data-entry-fields) below.;
 5. **Save** changes.
 
-![EN Cadastrar Doca GIF](https://images.ctfassets.net/alneenqid6w5/5RGUQFBMdcOPn3xV49SSqW/202dce17e72e2fb8da79961326626f03/EN_Cadastrar_Doca_GIF.gif)
+![EN Cadastrar Doca GIF](//images.ctfassets.net/alneenqid6w5/5RGUQFBMdcOPn3xV49SSqW/202dce17e72e2fb8da79961326626f03/EN_Cadastrar_Doca_GIF.gif)
 
 ### Data entry fields
 
@@ -39,7 +39,9 @@ Follow the steps below to add a loading dock to your store:
 - _Associated carriers_: carriers served by this loading dock.
 - _Processing time_: time that will added to the delivery due to the step involving this loading dock. For example, a processing time of 2 days plus a loading dock processing time of 3 days plus the carrier's processing time of 1 day means the delivery will be done in 6 days. 
 
->ℹ️ **Warning**: the processing time of a loading dock is independent of whether a carrier operates - or not - on weekends and holidays. Delivery time will always be the sum of inventory, carrier, and loading dock time.
+<div class="alert alert-info">
+<strong>Warning</strong>: the processing time of a loading dock is independent of whether a carrier operates - or not - on weekends and holidays. Delivery time will always be the sum of inventory, carrier, and loading dock time.
+</div>
 
 - _Time overhead_: value that will be used to choose the best dock for a specific delivery. This value is added to the delivery time calculation.
 - _Priority_: Value to settle loading dock selection stalemates. The higher a loading dock's priority, the more chances it has of being chosen. 
@@ -48,7 +50,9 @@ Follow the steps below to add a loading dock to your store:
 
 ## API REST
 
->⚠️ Inventory & Shipping module API REST calls must be made using AppKey and AppToken. For more info, read our article on [how to generate an Appkey and um AppToken ti authenticate your integrations](https://help.vtex.com/en/tutorial/how-to-generate-an-appkey-and-apptoken-to-integrations--43tQeyQJgAKGEuCqQKAOI2)
+<div class="alert alert-warning">
+Inventory & Shipping module API REST calls must be made using AppKey and AppToken. For more info, read our article on <a href="https://help.vtex.com/en/tutorial/how-to-generate-an-appkey-and-apptoken-to-integrations--43tQeyQJgAKGEuCqQKAOI2">how to generate an Appkey and um AppToken ti authenticate your integrations</a>
+</div>
 
 To add a **loading dock** using API, your need to send a __POST__ to the following endpoint:
 

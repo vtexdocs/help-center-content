@@ -18,7 +18,9 @@ internalReference: 452392
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um cliente insere um cartãoNumber de 12 dígitos, apesar deste número de dígitos não ser válido, nós o enviamos várias vezes ao adquirente mesmo sabendo que ele não aprovará, uma vez que o cartãoNumber não está no padrão: [0-9]{13,19}. O resultado é uma ordem de bloqueio por vários dias até ser cancelada.

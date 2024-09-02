@@ -1,5 +1,5 @@
 ---
-title: "'Large Indexed Text' and 'Indexed Text' not being changed by Specification Import"
+title: '"Large Indexed Text" and "Indexed Text" not being changed by Specification Import'
 id: 5ty5q8AfOROtCc8GegzZbd
 status: PUBLISHED
 createdAt: 2022-04-22T17:12:36.962Z

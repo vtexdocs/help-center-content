@@ -15,7 +15,9 @@ legacySlug: how-to-create-a-subscription-attachment
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
 
- >ℹ️ If you have the **Subscriptions Beta** module, the recommended process to create a subscription plan is directly through the **Subscriptions** module. Read the article [Creating a subscription plan (Beta)](https://help.vtex.com/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) for more information.
+ <div class="alert alert-info">
+  <p>If you have the <strong>Subscriptions Beta</strong> module, the recommended process to create a subscription plan is directly through the <strong>Subscriptions</strong> module. Read the article <a href="https://help.vtex.com/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC">Creating a subscription plan (Beta)</a> for more information.</p>
+</div>
 
 The SKU Attachment is responsible for indicating that the subscription functionality is active for that SKU, and also what will the available frequency be.
 
@@ -39,7 +41,9 @@ To create a SKU attachment, follow the steps below.
     * `vtex.subscription.test`
 5. Leave the **Attachment required** box unchecked.
 
- >⚠️ Make sure the **Attachment required** box is unchecked. If the attachment is marked as required, the **Subscription** system will attempt to send a recurring order for an item that already has a required attachment, causing an error in the system. In case you misconfigure this option, uncheck the required attachment field and ask your customer to try again.
+ <div class="alert alert-warning">
+  <p>Make sure the <strong>Attachment required</strong> box is unchecked. If the attachment is marked as required, the <strong>Subscription</strong> system will attempt to send a recurring order for an item that already has a required attachment, causing an error in the system. In case you misconfigure this option, uncheck the required attachment field and ask your customer to try again.</p>
+</div>
 
 6. In the **Status** field, check the **Enable/Disable attachment** box and click on `Save`.
 
@@ -67,13 +71,15 @@ Follow the step-by-step instructions below to configure available frequencies an
 
         * **Weekly**: possible values for this field are `0`, `1`, `2`, `3`, `4`, `5`, and `6`, representing the days of the week. Consider `0` = Sunday, `1` = Monday, `2` = Tuesday, and so on until `6` = Saturday. Separate the values by `,`, as illustrated below.
 
-        ![EN Assinatura Exemplo Valores week](https://images.ctfassets.net/alneenqid6w5/3pNwE8MSIe9GevIiLZxBOf/ecba3debced2525d6cd3ab3cbbdf4a5f/EN_Assinatura_Exemplo_Valores_week.png) 
+        ![EN Assinatura Exemplo Valores week](//images.ctfassets.net/alneenqid6w5/3pNwE8MSIe9GevIiLZxBOf/ecba3debced2525d6cd3ab3cbbdf4a5f/EN_Assinatura_Exemplo_Valores_week.png) 
 
         * **Monthly**: possible values for filling in this field at checkout are = `1`, `2`, `3`, (...) until `28`, representing the days of the month. Consider `1` = the first day of the month, `2` = the second day of the month, and so on until `28` = the twenty-eighth day of the month. Separate the values by `,`, as illustrated below.
 
-        ![EN Assinatura Exemplo Valores month](https://images.ctfassets.net/alneenqid6w5/15AueDNpKyx3yBVjP0q7tY/415def684e81619e96155a1fb390a4f4/EN_Assinatura_Exemplo_Valores_month.png)
+        ![EN Assinatura Exemplo Valores month](//images.ctfassets.net/alneenqid6w5/15AueDNpKyx3yBVjP0q7tY/415def684e81619e96155a1fb390a4f4/EN_Assinatura_Exemplo_Valores_month.png)
 
->ℹ️ If the **Permitted Values** field is left blank, the date of the subscription cycle will be the same day of the week (if the frequency is weekly) or the same day of the month (if the frequency is monthly) as the original order.
+<div class="alert alert-info">
+  <p>If the <strong>Permitted Values</strong> field is left blank, the date of the subscription cycle will be the same day of the week (if the frequency is weekly) or the same day of the month (if the frequency is monthly) as the original order.</p>
+</div>
 
 ### Associating the attachment with an SKU
 

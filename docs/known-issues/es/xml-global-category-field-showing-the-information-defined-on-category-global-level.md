@@ -18,7 +18,9 @@ internalReference: 282231
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En los archivos XML, el campo para la categoría global está entregando la información de la categoría global definida en el nivel de categoría y no en el nivel de producto (el nivel de producto debe ser priorizado).

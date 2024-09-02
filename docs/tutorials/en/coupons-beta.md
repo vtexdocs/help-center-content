@@ -1,10 +1,10 @@
 ---
-title: 'Coupons'
+title: 'Promotional coupons: types and groups'
 id: 1aAEN3ADpz19ss5JCIEBdL
 status: PUBLISHED
 createdAt: 2022-04-28T20:08:46.916Z
-updatedAt: 2023-04-20T19:06:44.916Z
-publishedAt: 2023-04-20T19:06:44.916Z
+updatedAt: 2024-08-15T11:27:28.984Z
+publishedAt: 2024-08-15T11:27:28.984Z
 firstPublishedAt: 2022-04-28T20:24:24.046Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -21,7 +21,9 @@ A coupon consists of a promotional code composed of a sequence of letters and nu
 
 You can create and edit coupons in the VTEX Admin, in **Promotions** > [Coupons](https://help.vtex.com/en/tutorial/coupons-list-beta--5z5ya3IonsC2W4B5h4JrsZ) or via the [Promotions & Taxes API v2](https://developers.vtex.com/vtex-rest-api/reference/promotions-taxes-api-v2).
 
->⚠️ To be valid, the coupon must be associated with at least one promotion. The coupon can be associated with all types of promotions, except [Campaign promotions](https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume). Learn more in [Creating a coupon (Beta)](https://help.vtex.com/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU).
+<div class="alert alert-warning">
+<p>To be valid, the coupon must be associated with at least one promotion. The coupon can be associated with all types of promotions, except <a href="https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume">Campaign promotions</a>. Learn more in <a href="https://help.vtex.com/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU">Creating a coupon (Beta)</a>.</p>
+</div>
 
 ## Coupon types
 

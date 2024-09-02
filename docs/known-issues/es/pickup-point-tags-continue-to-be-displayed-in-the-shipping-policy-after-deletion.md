@@ -18,7 +18,9 @@ internalReference: 1015158
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las etiquetas registradas en el punto de recogida están disponibles en un desplegable en las políticas de envío para enlazar el PUP con la Política de Envío, sin embargo cuando alguna de estas etiquetas es eliminada en el PUP, permanecen disponibles en el desplegable dentro de la política de envío.

@@ -18,7 +18,9 @@ internalReference: 258447
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao finalizar a compra com um e-mail informado e dados mascarados, será necessário fazer login se o comprador quiser alterar alguma informação. Na caixa de login que será aberta, o e-mail já estará preenchido com o contexto do carrinho, mas a interface permite que o e-mail "sugerido" seja modificado.

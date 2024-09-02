@@ -1,5 +1,5 @@
 ---
-title: "O sinalizador 'Nome do produto' do XML não está funcionando corretamente"
+title: 'O sinalizador "Nome do produto" do XML não está funcionando corretamente'
 id: 6YDbpRns3LCN02bVKM8aaf
 status: PUBLISHED
 createdAt: 2023-10-26T11:35:14.500Z
@@ -18,7 +18,9 @@ internalReference: 925965
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao criar um XML, temos duas opções diferentes para definir o nome do produto, nos sinalizadores "Nome do produto" e "Nome do produto + Nome do SKU". No entanto, o sinalizador "Nome do produto" está sendo desconsiderado, e o nome do produto no arquivo segue a regra:

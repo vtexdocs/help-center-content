@@ -30,8 +30,12 @@ Siga este passo-a-passo para configurá-la:
     <br/>&bull; __Definir um retorno do investimento em publicidade (ROAS) desejado:__ ao marcar esta flag você deverá definir qual ROAS a campanha deve perseguir.
     <br/>_`Ex:` se você definir um ROAS 800%, significa que, para cada R$ 1,00 gasto na campanha ela deve converter R$ 8,00._
 
->⚠️ **OBS: não recomendamos configurar um ROAS ** logo ao iniciar uma campanha pela primeira vez. Isto porque a campanha precisa de um tempo para aprender a entregar seus produtos nas buscas e isto pode demorar de 4 semanas, segundo o Google. Então, até ela estar madura é recomendável não configurar um ROAS.
+<div class="alert alert-warning">
+<strong>OBS: não recomendamos configurar um ROAS </strong> logo ao iniciar uma campanha pela primeira vez. Isto porque a campanha precisa de um tempo para aprender a entregar seus produtos nas buscas e isto pode demorar de 4 semanas, segundo o Google. Então, até ela estar madura é recomendável não configurar um ROAS.
+</div>
 
->⚠️ **OBS2:** recomendamos também que a configuração da campanha **não seja alterada** durante as primeiras 4 semanas. Justamente pelo tempo que a inteligência artificial leva para aprender.
+<div class="alert alert-warning">
+<strong>OBS2:</strong> recomendamos também que a configuração da campanha <strong>não seja alterada</strong> durante as primeiras 4 semanas. Justamente pelo tempo que a inteligência artificial leva para aprender.
+</div>
 
 *__Pronto!__ Agora você já tem a sua campanha configurada e, dentro de alguns dias, deve começar a ver resultados no dashboard do app.*

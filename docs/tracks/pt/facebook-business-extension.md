@@ -30,7 +30,9 @@ A app _Facebook Business Extension e Conversions API_ tem compatibilidade total 
 
 Saiba mais sobre a configuração necessária para cada uma em nosso guia [Facebook Business Extension](https://developers.vtex.com/docs/guides/vtex-facebook-fbe#compatibility) no Developer Portal.
 
->⚠️ Na VTEX, existe um [guia de integração com Facebook](https://help.vtex.com/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc). No entanto, a integração com a app <i>Facebook Business Extension e Conversions API</i> deve ser sua escolha padrão, pois o FBE é a solução mais completa do Facebook. Independente de ter a outra integração configurada, você deve prosseguir normalmente com a configuração desta integração.
+<div class="alert alert-warning">
+Na VTEX, existe um <a href="https://help.vtex.com/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">guia de integração com Facebook</a>. No entanto, a integração com a app <i>Facebook Business Extension e Conversions API</i> deve ser sua escolha padrão, pois o FBE é a solução mais completa do Facebook. Independente de ter a outra integração configurada, você deve prosseguir normalmente com a configuração desta integração.
+</div>
 
 ## Pixel do Facebook
 
@@ -51,4 +53,6 @@ A API de Conversões foi desenvolvida para criar uma conexão direta entre os se
 - Aprimoração da mensuração de dados de marketing.
 - Aumento do controle de dados.
 
->ℹ️ Saiba mais na documentação do Facebook <a href= "https://www.facebook.com/business/help/2041148702652965?locale=pt_BR">Sobre a API de Conversões</a>.
+<div class = "alert alert-info">
+Saiba mais na documentação do Facebook <a href= "https://www.facebook.com/business/help/2041148702652965?locale=pt_BR">Sobre a API de Conversões</a>.
+</div>

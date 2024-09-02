@@ -18,7 +18,9 @@ internalReference: 367339
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al llegar a la caja con más de 20 artículos, los artículos mostrados en el resumen de la compra (lista de artículos superior derecha) pueden estar duplicados. Los totalizadores e incluso la API son correctos. El escenario no ocurre en la lista principal de artículos (paso del carrito).

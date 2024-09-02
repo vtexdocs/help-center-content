@@ -18,7 +18,9 @@ internalReference: 902539
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El conector de PayU no maneja los datos de dirección recibidos de la caja y los envía al proveedor tal cual, sin ninguna modificación. Sin embargo, en la documentación del proveedor se indica que dichos datos no deben superar los 40 caracteres.

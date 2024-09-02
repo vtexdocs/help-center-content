@@ -18,7 +18,9 @@ internalReference: 547046
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el cliente configura una Condición Especial para un periodo de tiempo y quiere eliminar esta configuración, sólo se elimina el periodo, la recurrencia de esta configuración no se elimina. Esto significa que aunque se elimine la configuración de programación de la Condición de Pago, el campo `dateIntervals` sigue indexando y deja de indexar la Regla de Pago.

@@ -15,7 +15,9 @@ legacySlug: como-deletar-colecao
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.
+<div class = "alert alert-warning">
+  <p><b>Atenção:</b> existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.</p>
+</div>
 
 ## Via Admin
 Não é possível deletar totalmente uma coleção pelo Admin.

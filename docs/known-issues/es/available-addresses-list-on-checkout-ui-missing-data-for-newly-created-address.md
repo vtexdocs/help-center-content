@@ -18,7 +18,9 @@ internalReference: 1061630
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un usuario añade una nueva dirección durante el paso de envío de la caja, avanza al paso de pago y, a continuación, vuelve a la lista de direcciones disponibles del paso de envío, es posible que esta dirección recién creada no aparezca en la lista o que muestre información incompleta en la interfaz de usuario.

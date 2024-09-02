@@ -45,7 +45,9 @@ Por lo tanto, para estos medios de pago, las transacciones no serán reprocesada
 
 Mode-off se activa cuando el partner o la integración presentan una inestabilidad que se identifica a partir de la respuesta de mensajes de error del tipo 500, 408 o timeout superior a 30 segundos en los últimos cinco minutos. Esta regla es válida para todos los medios de pago que mode-off procesa.
 
->⚠️ Cabe recordar que los medios de pago sincrónos **no** se pueden volver a procesar. Sin embargo, entran en el recuento de errores para identificar si un partner es inestable o no.
+<div class="alert alert-warning">
+Cabe recordar que los medios de pago sincrónos <strong>no</strong> se pueden volver a procesar. Sin embargo, entran en el recuento de errores para identificar si un partner es inestable o no.
+</div>
 
 ## ¿Cuál es la regla para desactivar mode-off?
 

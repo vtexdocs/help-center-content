@@ -36,7 +36,9 @@ Veja a seguir alguns exemplos de parceiros que integram com o XML da VTEX:
 - UOL Dynad
 - Zanox
 
->ℹ️ Alterações no XML levam em média duas horas para serem atualizadas.
+<div class = "alert alert-info">
+  <p>Alterações no XML levam em média duas horas para serem atualizadas.</p>
+</div>
 
 ## Novo XML
 
@@ -60,7 +62,9 @@ Com isso em mãos, siga os passos abaixo para configurar o seu XML:
 13. A partir daqui, preencha as *tags* conforme definido pelo sistema para o qual enviará o XML. Marque a caixa de seleção da coluna __Mostrar conteúdo__, nas tags que tiver preenchido o nome. As tags que já estiverem com essa opção marcada e cuja seleção não for possível desfazer são de preenchimento obrigatório.
 14. A URL usada para acessar o XML é gerada automaticamente, conforme o [domínio cadastrado no dicionário do Web Site](https://help.vtex.com/pt/tutorial/configurar-dominio-do-xml--2RkGK4vHS0c6sYuUw0cUWC), no __CMS__.
 
->⚠️ Se a política comercial possuir restrição de acesso, o XML não será gerado.
+<div class="alert alert-warning">
+  <p>Se a política comercial possuir restrição de acesso, o XML não será gerado.</p>
+</div>
 
 ## Conectores nativos: uma alternativa ao XML para integrar com marketplaces
 

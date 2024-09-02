@@ -18,7 +18,9 @@ internalReference: 927041
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En Faststore, si accede a un enlace de previsualización con el / al final de la URL el enlace será redirigido a una página como esta https://starter.prd-dv-fastorecloud-eks-n10-use1a.us-east-1.eksctl.io.ingress.vtex.io/s

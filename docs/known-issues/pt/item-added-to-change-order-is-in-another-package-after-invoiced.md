@@ -18,7 +18,9 @@ internalReference: 412526
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os itens removidos ou adicionados pelo fluxo da ordem de alteração não fazem parte do pacote, portanto, não serão exibidos no e-mail da fatura e, caso todos os itens de um pedido sejam removidos e adicionados posteriormente, o e-mail da fatura não será enviado, pois os itens adicionados não são adicionados ao pacote original do pedido;

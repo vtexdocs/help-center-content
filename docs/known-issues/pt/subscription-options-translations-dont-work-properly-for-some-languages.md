@@ -18,7 +18,9 @@ internalReference: 561186
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 No carrinho, os períodos de assinatura estão errados na IU. Mas, se você olhar para o formulário de pedido, o período está mostrando corretamente.

@@ -18,7 +18,9 @@ internalReference: 851911
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el host de imágenes de la hoja de cálculo utiliza un protocolo de encriptación SSL1.3, aparece un error al intentar subir la hoja de cálculo:

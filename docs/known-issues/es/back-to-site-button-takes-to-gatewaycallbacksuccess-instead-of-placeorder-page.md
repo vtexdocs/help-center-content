@@ -1,5 +1,5 @@
 ---
-title: "El botón 'Volver al sitio' lleva a gatewayCallback//Success en lugar de a la página placeOrder"
+title: 'El botón "Volver al sitio" lleva a gatewayCallback//Success en lugar de a la página placeOrder'
 id: 7Hp6yYCblhbhrN3jHHigUC
 status: PUBLISHED
 createdAt: 2023-04-10T15:18:58.986Z
@@ -18,7 +18,9 @@ internalReference: 786685
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el cliente cierra una compra utilizando una tarjeta regalo y la app de pago MercadoPago, el botón "volver al sitio" no le lleva a la página de realizar pedido, sino a `/gatewayCallback//Success`.

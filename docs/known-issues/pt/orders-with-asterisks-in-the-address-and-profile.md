@@ -18,7 +18,9 @@ internalReference: 360783
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há pedidos em que `invoiceAddress`, `shippingAddress` ou `clientProfileData` estão sendo enviados como "mascarados" em vez do endereço real. Esse comportamento ocorre quando um usuário conclui a compra com um formulário de pedido que contém dados mascarados que são "stringificados". Como esses campos são de cadeia de caracteres, os dados do pedido são preenchidos com a máscara '***'.

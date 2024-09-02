@@ -32,18 +32,17 @@ Confira o passo a passo a seguir:
 4. Clique em __HTML Templates__.__
 5. Logo abaixo, clique em __New template.
 6. Preencha o campo __Template Name__.
->❗ Ao preencher o **Template Name** do template, evite utilizar as seguintes palavras reservadas, pois isso pode prejudicar o desempenho da sua loja e interferir no funcionamento de páginas definidas no Admin VTEX. Veja a lista de palavras reservadas abaixo.
->
-> *`a`
->
-> *`meta`
->
-> *`api`
->
-> *`admin`
-> 
-7. Em seguida, preencha o box __Template XHTML__ com o código do seu template.![4 1](https://images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
-8. No canto superior direito, clique no botão __Save Template__.![4 2](https://images.ctfassets.net/alneenqid6w5/58ZckRTKZ2e6BbXPtx54xK/a638e74bf68dc437257a6c220d5a2c1c/4_2.png)
+<div class="alert alert-danger">
+  <p>Ao preencher o <b>Template Name</b> do template, evite utilizar as seguintes palavras reservadas, pois isso pode prejudicar o desempenho da sua loja e interferir no funcionamento de páginas definidas no Admin VTEX. Veja a lista de palavras reservadas abaixo.
+  <ul>
+<li><code>a</code></li>
+<li><code>meta</code></li>
+<li><code>api</code></li>
+<li><code>admin</code></li>
+</ul></p>
+</div>
+7. Em seguida, preencha o box __Template XHTML__ com o código do seu template.![4 1](//images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
+8. No canto superior direito, clique no botão __Save Template__.![4 2](//images.ctfassets.net/alneenqid6w5/58ZckRTKZ2e6BbXPtx54xK/a638e74bf68dc437257a6c220d5a2c1c/4_2.png)
 
 Para editar um template já existente, o processo é quase idêntico.
 

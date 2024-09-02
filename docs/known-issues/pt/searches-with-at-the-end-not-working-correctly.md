@@ -18,7 +18,9 @@ internalReference: 509101
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao pesquisar com uma % no final da busca não funciona como esperado devido a problemas de decodificação.

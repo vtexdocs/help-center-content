@@ -18,7 +18,9 @@ internalReference: 842575
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao aplicar uma promoção Mais por Menos, o comportamento esperado é separar o item promocional dos itens regulares, mas os itens serão agrupados após a adição dos dados de preferências do cliente.

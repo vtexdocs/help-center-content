@@ -18,7 +18,9 @@ internalReference: 442267
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Enquanto estiver no checkout, você precisará fazer login para ver/alterar informações pessoais e, em alguns casos, até mesmo concluir a compra. O processo de login é desconectado do formulário de pedido, portanto, você pode fazer login com qualquer e-mail e ser identificado com outro e-mail no fluxo de compra.

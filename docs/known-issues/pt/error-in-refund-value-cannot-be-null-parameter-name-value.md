@@ -1,5 +1,5 @@
 ---
-title: "Erro no reembolso - 'Value cannot be null. Nome do parâmetro: value'"
+title: 'Erro no reembolso - "Value cannot be null. Nome do parâmetro: value"'
 id: 6TZFYB9zb02oMoN5IJMxR3
 status: PUBLISHED
 createdAt: 2024-06-13T18:49:16.797Z
@@ -18,7 +18,9 @@ internalReference: 1049494
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar reembolsar uma transação, pode ocorrer um erro 500 com a mensagem:

@@ -18,7 +18,9 @@ internalReference: 489297
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 Actualmente, la interfaz de usuario de la aplicación CatalogV2 no aplica correctamente los permisos de control de acceso cuando un usuario utiliza la interfaz para crear, leer o actualizar productos.
 

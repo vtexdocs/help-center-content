@@ -18,7 +18,9 @@ internalReference: 916423
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando as promoções de frete se aplicam a diferentes SLAs, sendo um deles o frete grátis, isso causa divergência na solicitação enviada pelo Tax Hub, impedindo que o pedido seja feito.

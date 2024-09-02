@@ -18,7 +18,9 @@ internalReference: 1001005
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Esto ocurre en un escenario específico de división de pagos con múltiples pagos y vendedores (donde ambos son responsables de los gastos de procesamiento de pagos y devoluciones). La suma de `comissionAmount` de los vendedores no es igual a `amount` del mercado (problema de redondeo), esta diferencia puede causar una denegación de liquidación por parte de la entidad adquirente.

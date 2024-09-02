@@ -42,9 +42,11 @@ Com a API Key em mãos, siga os passos abaixo:
 1. No Admin VTEX, acesse __Configurações da loja > Envio > Envio por geolocalização__, ou digite __Envio por geolocalização__ na barra de busca no topo da página.
 2. Insira a API Key no campo disponível e clique em __Cadastrar chave__.
 
-![Geolocalizacao 1 PT](https://images.ctfassets.net/alneenqid6w5/1WnSV74cA82WY8kGscAiy2/68eeec258fd124695047187dc5e15b51/Geolocalizacao_1_PT.png)
+![Geolocalizacao 1 PT](//images.ctfassets.net/alneenqid6w5/1WnSV74cA82WY8kGscAiy2/68eeec258fd124695047187dc5e15b51/Geolocalizacao_1_PT.png)
 
->ℹ️ Em alguns países, o Google Maps não realiza um mapping de alta qualidade. Com isso, pode acontecer de certos endereços serem mal escritos ou de o Google indicar um endereço incorreto. Nestes casos, deve-se corrigir o endereço diretamente no mapa.
+<div class="alert alert-info">
+Em alguns países, o Google Maps não realiza um mapping de alta qualidade. Com isso, pode acontecer de certos endereços serem mal escritos ou de o Google indicar um endereço incorreto. Nestes casos, deve-se corrigir o endereço diretamente no mapa.
+  </div>
 
 ### Configurando o polígono
 
@@ -61,7 +63,7 @@ Após criar o polígono e inserir seu ID na planilha de frete, você precisará 
 3. No menu de opções azul localizado na parte superior da página, clique em __Checkout__.
 4. No campo __Google Maps API Key__, insira a mesma API Key informada na etapa de logística.
 
-![Google map keys](https://images.ctfassets.net/alneenqid6w5/5Fly0uJ3DE9SmlK6I1oRNx/31ccb9fd38c90109da5d9dfb9a825c71/google_maps_api_key_pt.PNG)
+![Google map keys](//images.ctfassets.net/alneenqid6w5/5Fly0uJ3DE9SmlK6I1oRNx/31ccb9fd38c90109da5d9dfb9a825c71/google_maps_api_key_pt.PNG)
 
 Assim que a API Key for informada nas configurações do Checkout, a geolocalização já estará visível no checkout da sua loja.
 

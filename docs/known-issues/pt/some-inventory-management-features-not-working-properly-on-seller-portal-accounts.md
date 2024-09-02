@@ -18,7 +18,9 @@ internalReference: 1001665
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os recursos de gerenciamento de estoque (como os links para os produtos) não se comportam como esperado nas contas do portal do vendedor. Isso acontece porque esse tipo de conta usa uma versão diferente do catálogo.

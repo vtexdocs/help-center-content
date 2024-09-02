@@ -1,5 +1,5 @@
 ---
-title: "Como configurar o campo 'Responsável pela retirada' no SmartCheckout™ V6"
+title: 'Como configurar o campo "Responsável pela retirada" no SmartCheckout™ V6'
 id: 2GsFnXUJxSOYEE6U2c4Syw
 status: PUBLISHED
 createdAt: 2018-11-09T12:18:14.596Z
@@ -15,11 +15,15 @@ legacySlug: como-configurar-o-campo-responsavel-pela-retirada-no-smartcheckout-t
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---
 
->ℹ️ O campo **Responsável pela retirada** só está disponível para o **SmartCheckout™ V6**, versão compatível com a feature de Pontos de Retirada (Pickup Points).
+<div class="alert alert-info">
+O campo <strong>Responsável pela retirada</strong> só está disponível para o <strong>SmartCheckout™ V6</strong>, versão compatível com a feature de Pontos de Retirada (Pickup Points).
+</div>
 
 Os [pontos de retirada](/pt/tutorial/configurar-pontos-de-retirada-pickup-points) dão mais uma opção aos seus clientes: ao invés de esperar a entrega, eles podem escolher ir até um ponto definido e buscar o item pessoalmente. Por default, essa ação está vinculada ao usuário cadastrado que efetuou a compra. No entanto, você pode habilitar o campo `Responsável pela retirada` no checkout da sua loja, para que seu cliente possa nomear outra pessoa para retirar o produto.
 
->⚠️ Caso você possua o app [Checkout UI Settings](https://developers.vtex.com/vtex-developer-docs/docs/vtex-checkout-ui-settings) instalado em sua loja, o código CSS descrito no procedimento abaixo deverá ser inserido somente via o app. Os scripts inseridos via interface do Admin VTEX (aba **Código > Files**) não são reproduzidos em lojas que possuem o aplicativo instalado.
+<div class="alert alert-warning">
+Caso você possua o app <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-checkout-ui-settings">Checkout UI Settings</a> instalado em sua loja, o código CSS descrito no procedimento abaixo deverá ser inserido somente via o app. Os scripts inseridos via interface do Admin VTEX (aba <b>Código > Files</b>) não são reproduzidos em lojas que possuem o aplicativo instalado.
+</div>
 
 Para configurar o campo (que vem desativado por padrão), siga os passos abaixo:
 

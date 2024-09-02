@@ -1,10 +1,10 @@
 ---
-title: 'Cupones'
+title: 'Cupones promocionales: tipos y grupos'
 id: 1aAEN3ADpz19ss5JCIEBdL
 status: PUBLISHED
 createdAt: 2022-04-28T20:08:46.916Z
-updatedAt: 2023-04-20T19:06:44.916Z
-publishedAt: 2023-04-20T19:06:44.916Z
+updatedAt: 2024-08-15T11:27:28.984Z
+publishedAt: 2024-08-15T11:27:28.984Z
 firstPublishedAt: 2022-04-28T20:24:24.046Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -21,7 +21,9 @@ Un cupón es un código promocional formado por una secuencia de letras y númer
 
 Puedes crear y editar cupones en el Admin VTEX, a través de **Promociones** > [Cupones](https://help.vtex.com/es/tutorial/lista-de-cupones-beta--5z5ya3IonsC2W4B5h4JrsZ) o de la [Promotions & Taxes API](https://developers.vtex.com/vtex-rest-api/reference/promotions-taxes-api-v2).
 
->⚠️ El cupón debe estar vinculado, al menos, a una promoción para poderse utilizar. Un cupón se puede asociar a cualquier tipo de promoción, excepto a una [Promoción de campaña](https://help.vtex.com/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume). Obtén más información en [Crear cupón (Beta)](https://help.vtex.com/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU).
+<div class="alert alert-warning">
+<p>El cupón debe estar vinculado, al menos, a una promoción para poderse utilizar. Un cupón se puede asociar a cualquier tipo de promoción, excepto a una <a href="https://help.vtex.com/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume">Promoción de campaña</a>. Obtén más información en <a href="https://help.vtex.com/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU">Crear cupón (Beta)</a>.</p>
+</div>
 
 ## Tipos de cupones
 

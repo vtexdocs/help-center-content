@@ -3,8 +3,8 @@ title: 'Possible errors in Change Orders notification in the UI, API and Gateway
 id: 1UeG6MyFYIUVCnH8kPwNIJ
 status: PUBLISHED
 createdAt: 2023-12-19T19:37:47.313Z
-updatedAt: 2023-12-19T19:37:47.950Z
-publishedAt: 2023-12-19T19:37:47.950Z
+updatedAt: 2024-08-08T19:29:16.923Z
+publishedAt: 2024-08-08T19:29:16.923Z
 firstPublishedAt: 2023-12-19T19:37:47.950Z
 contentType: knownIssue
 productTeam: Order Management
@@ -36,8 +36,5 @@ It is not possible to carry out a simulation, as the scenarios are sporadic and 
 
 
 Initially we do not have a workaround, however, it is worth mentioning that some scenarios we will be able to adjust manually, such as if the registration of change orders occurs in the gateway and does not occur in the Marketplace or fulfillment order interaction and in the API as well.
-
-
-
-
+However, we suggest using the new Change V2, since the effort went into creating this new feature.
 

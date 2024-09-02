@@ -18,7 +18,9 @@ internalReference: 971936
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Después de crear redirecciones erróneas que contienen caracteres que no deben ser subidos: ie.: #, consultas, o redirecciones que deberían ser creadas a nivel de servidor, la carga/descarga masiva del csv a través del CLI ya no funciona.

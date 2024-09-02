@@ -1,5 +1,5 @@
 ---
-title: "O portal não respeita a etiqueta 'Principal' da imagem da SKU"
+title: 'O portal não respeita a etiqueta "Principal" da imagem da SKU'
 id: 2ej5V3eIGgkUoo0Omgacc6
 status: CHANGED
 createdAt: 2017-04-17T18:35:42.842Z
@@ -18,7 +18,9 @@ internalReference: 712443
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Uma loja precisa configurar a imagem **Principal** independentemente da ordem na qual ela foi carregada no sistema. Atualmente o sistema não respeita a tag **Principal*** e acaba tomando a primeira imagem registrada como a principal.

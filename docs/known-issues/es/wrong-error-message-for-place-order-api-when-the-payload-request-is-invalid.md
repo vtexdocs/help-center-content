@@ -18,7 +18,9 @@ internalReference: 709180
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las solicitudes inválidas a la API "realizar pedido" devuelven un mensaje de error erróneo, informando "Id. inválido para el artículo" en lugar de señalar qué información es incorrecta.

@@ -18,7 +18,9 @@ internalReference: 504992
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, cuando se utiliza el filtro de marca del Navegador de búsqueda junto con un rango de precios en un VTEX Business Edition, se pueden mostrar productos fuera de la marca filtrada.

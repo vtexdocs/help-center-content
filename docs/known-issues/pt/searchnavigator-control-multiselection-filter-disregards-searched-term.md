@@ -18,11 +18,13 @@ internalReference:
 
 ## Sumário
 
->⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+<div class = "alert alert-warning">
+  <strong>Atenção</strong>: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+</div>
 
 Quando o usuário realiza uma busca por termo e, em seguida, aplica um filtro nas opções de multi seleção (no controle searchNavigator), o termo buscado inicialmente é removido da consulta, ou seja, o filtro ignora o termo e aplica a busca somente com as opções escolhidas pelo usuário.
 
-![search result](https://images.contentful.com/alneenqid6w5/6BZ5Xh6OHe8WSWywOQCKGw/e814ecd5db35ff565151876dd8f826d5/search_result.gif)
+![search result](//images.contentful.com/alneenqid6w5/6BZ5Xh6OHe8WSWywOQCKGw/e814ecd5db35ff565151876dd8f826d5/search_result.gif)
 
 ## Simulação
 

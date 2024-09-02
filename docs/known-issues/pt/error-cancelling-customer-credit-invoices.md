@@ -18,7 +18,9 @@ internalReference: 926563
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em alguns casos, as faturas não podem ser canceladas; ao executar a API DELETE, recebemos um erro 500 com a resposta abaixo:

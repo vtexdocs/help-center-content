@@ -18,7 +18,9 @@ internalReference: 774548
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o PUT Price API permite a entrada de valores negativos via PUT API Payload, se você definir a marcação e o preço base para valores negativos, você definirá o produto como indisponível.

@@ -18,7 +18,9 @@ internalReference: 1071119
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao configurar uma promoção de desconto nominal acumulada com a promoção "mais por menos", quando há um desconto na promoção "mais por menos" apenas para 1 de 2 itens, isso leva a um desconto incorreto no segundo item do pedido devido à divisão do checkout.

@@ -18,7 +18,9 @@ internalReference: 388580
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em um cenário de mercado com pagamento dividido quando o mercado não tem comissão sobre a transação, arredondar qualquer valor de referência (buyTotal ou totalSellers) pode resultar em um valor negativo para o mercado.

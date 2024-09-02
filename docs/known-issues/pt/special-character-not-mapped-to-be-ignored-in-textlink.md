@@ -1,5 +1,5 @@
 ---
-title: "Caractere especial '|' não mapeado para ser ignorado no TextLink"
+title: 'Caractere especial "|" não mapeado para ser ignorado no TextLink'
 id: 5ALFG0CX168qaYUYWecW2q
 status: PUBLISHED
 createdAt: 2017-09-06T20:33:05.265Z

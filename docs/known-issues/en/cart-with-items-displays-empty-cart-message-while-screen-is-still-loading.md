@@ -1,5 +1,5 @@
 ---
-title: "Cart with items displays 'empty cart' message while screen is still loading"
+title: 'Cart with items displays "empty cart" message while screen is still loading'
 id: 4oAiVz7fJL9vPkpPFEGyBT
 status: PUBLISHED
 createdAt: 2023-03-09T22:42:06.855Z

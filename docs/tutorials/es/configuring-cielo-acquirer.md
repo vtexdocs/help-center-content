@@ -40,7 +40,9 @@ Para configurar Cielo, siga los pasos continuación:
     - __BPMPIAuthNotifyOnly:__ Indicar si la transacción de la tarjeta se enviará o no en modo «solo notificación» (solo válido para tarjetas Mastercard). Este modo solo es válido para tarjetas Mastercard. Para este modo, el proceso de autenticación no se activará. Sin embargo, los datos se enviarán a la red de la tarjeta de crédito.
     - __BPMpiAuthSuppressChallenge:__ Indicar si ignora o no el desafío cuando exista. Si una transacción es autorizada después de ignorar el desafío, la responsabilidad recae en el establecimiento.
 
->⚠️ **Atención**: Para que ek flujo 3DS2 funcione corretamente, debes instalar la aplicación de pago cielo-authentication-app.
+<div class="alert alert-warning">
+<strong>Atención</strong>: Para que ek flujo 3DS2 funcione corretamente, debes instalar la aplicación de pago cielo-authentication-app.
+</div>
 
 11. En __Captura de seguridad anticipada__, escoja en cuánto tiempo desea que la captura se realice después de la aprobación de la transacción y del análisis del antifraude. También es posible desactivar esta función.
 12. Haga clic en __Salvar__ para guardar.

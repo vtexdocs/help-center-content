@@ -15,7 +15,7 @@ legacySlug: configurar-gateway-paymentez
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->❗ Essa integração de pagamento não pode ser mais configurada na plataforma devido ao [processo de remoção de provedores legados](https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14) e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.
+<div class="alert alert-danger">Essa integração de pagamento não pode ser mais configurada na plataforma devido ao <a href="https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14">processo de remoção de provedores legados</a> e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.</div>
 
 A Paymentez é um [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) que possui certificação [PCI](/pt/faq/o-que-e-o-pci-ssc) nível 2 e tem sua atuação concentrada na América Latina.
 

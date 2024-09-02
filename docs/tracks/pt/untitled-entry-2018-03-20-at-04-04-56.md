@@ -26,6 +26,8 @@ A integração envia o preço final de acordo com a simulação de fulfillment. 
 </br>
 Os preços são enviados sempre que o produto é indexado. Ao alterar o preço de um SKU, a indexação ocorrerá automaticamente. No entanto, para preços com validade, quando a data expira o sistema não ativa a reindexação. Desta forma, o preço base só será enviado na próxima indexação do produto (seja por conta de alguma alteração no cadastro do produto, seja por atualização de estoque, ou até por uma reindexação agendada mesmo, etc...).
 
->⚠️ OBS: como a forma de pagamento é feita no marketplace, as regras de pagamento são determinadas por ele. Por conta disto, não conseguimos enviar preços diferenciados em função da forma de pagamento.
-> </br>
-> *Ex: se na VTEX existem juros configurados para pagamentos parcelados, o preço enviado continuará sendo o que a simulação de fulfillment retorna.*
+<div class="alert alert-warning">
+OBS: como a forma de pagamento é feita no marketplace, as regras de pagamento são determinadas por ele. Por conta disto, não conseguimos enviar preços diferenciados em função da forma de pagamento.
+</br>
+<em>Ex: se na VTEX existem juros configurados para pagamentos parcelados, o preço enviado continuará sendo o que a simulação de fulfillment retorna.</em>
+</div>

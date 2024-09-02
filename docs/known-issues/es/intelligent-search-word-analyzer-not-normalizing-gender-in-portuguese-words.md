@@ -18,7 +18,9 @@ internalReference: 1072003
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se espera que los términos buscados se normalicen entre sus diferentes formas (plural/singular, género y otras posibilidades), un proceso formalmente llamado stemming. El analizador es diferente para cada idioma para ajustarse a sus necesidades.

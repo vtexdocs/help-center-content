@@ -53,7 +53,9 @@ Para rellenar la plantilla:
 4. Guarde el __archivo XLS__ de la plantilla.  
 5. En «Mapeo de categorías», haga clic en el botón __Cambiar mapeo de categorías__ para enviar la plantilla actualizada.  
 
->ℹ️ Si el programa utilizado para abrir la plantilla utiliza los separadores estándar «;», debe reemplazarlos por «,» antes de enviar el archivo.
+<div class="alert alert-info">
+Si el programa utilizado para abrir la plantilla utiliza los separadores estándar «;», debe reemplazarlos por «,» antes de enviar el archivo.
+</div>
 
 ### Ejemplo
 Este es un ejemplo de la plantilla actual que contiene los siguientes valores en las columnas:
@@ -73,7 +75,9 @@ con las categorías que ya existen en el marketplace. Una vez completado el mape
 | [3] Mujer \|<br>[28] Jeans                     | Jeans / Shorts            |                                    |
 | [3] Mujer \|<br>[28] Jeans                     | Jeans / Bermudas          |                                    |
 
->ℹ️ Observe que más de una categoría del catálogo del seller coincide con la misma categoría en el marketplace (Mujer / Jeans).  En ese caso, duplique la línea correspondiente en «Marketplace categories» y pegue los valores de la columna «Unmapped categories sent by seller» en cada línea duplicada.
+<div class="alert alert-info">
+Observe que más de una categoría del catálogo del seller coincide con la misma categoría en el marketplace (Mujer / Jeans).  En ese caso, duplique la línea correspondiente en «Marketplace categories» y pegue los valores de la columna «Unmapped categories sent by seller» en cada línea duplicada.
+</div>
 
 ## Mapeo de marcas
 
@@ -94,7 +98,9 @@ Puede descargar el modelo de plantilla actualizado desde el botón Descargar la 
 4. Guarde el __archivo XLS__ de la plantilla.  
 5. En «Mapeo de marcas», haga clic en el botón __Cambiar el mapeo de marcas__ para enviar la plantilla actualizada.  
 
->ℹ️ Si el programa utilizado para abrir la plantilla utiliza los separadores estándar «;», debe reemplazarlos por «,» antes de importar el archivo.
+<div class="alert alert-info">
+Si el programa utilizado para abrir la plantilla utiliza los separadores estándar «;», debe reemplazarlos por «,» antes de importar el archivo.
+</div>
 
 ### Ejemplo
 Este es un ejemplo de la plantilla actual que contiene los siguientes valores en las columnas:

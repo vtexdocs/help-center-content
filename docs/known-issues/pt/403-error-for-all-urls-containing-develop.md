@@ -18,7 +18,9 @@ internalReference: 975182
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Espera-se que um URL possa conter qualquer palavra sem gerar um erro, mas a palavra "**develop "** seguida pelo caractere "**-**" gera um erro 403 automático.

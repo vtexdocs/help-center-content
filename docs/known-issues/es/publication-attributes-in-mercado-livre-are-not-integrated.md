@@ -32,5 +32,7 @@ Se consigue realizar esta integración por fuera de VTEX Bridge, utilizando las 
 
 Se consigue también cargar los atributos manualmente en MercadoLibre.
 
->ℹ️ Este problema ya ha sido resuelto por nuestro equipo. [Sepa más.](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA)
+<div class="alert alert-info">
+Este problema ya ha sido resuelto por nuestro equipo. <a href="https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA">Sepa más.</a>
+</div>
 

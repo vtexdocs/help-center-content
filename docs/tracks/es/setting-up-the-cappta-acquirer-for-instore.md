@@ -18,14 +18,17 @@ Para permitir transacciones a través de máquinas de tarjetas con inStore, uste
 
 __Cappta__ es una sub-adquirente homologado por inStore en Brasil.
 
->⚠️ Si desea utilizar Cappta en un país diferente o si desea utilizar otro adquiriente que no esté homologado actualmente, usted deberá crear la integración con la aplicación de ese adquiriente. Para hacerlo, consulte el artículo [ Integrar el inStore a un nuevo adquirente de pago](https://help.vtex.com/es/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod).
+<div class="alert alert-warning">
+Si desea utilizar Cappta en un país diferente o si desea utilizar otro adquiriente que no esté homologado actualmente, usted deberá crear la integración con la aplicación de ese adquiriente. Para hacerlo, consulte el artículo <a href="https://help.vtex.com/es/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod"> Integrar el inStore a un nuevo adquirente de pago</a>.
+</div>
 
->ℹ️ Actualmente, Cappta es compatible con las siguientes plataformas y dispositivos:
->
-> Windows 8 o superior, con máquina de tarjeta USB Ingenico
->
-> Android
-> 
+<div class="alert alert-info">
+Actualmente, Cappta es compatible con las siguientes plataformas y dispositivos:
+<ol>
+<li>Windows 8 o superior, con máquina de tarjeta USB Ingenico</li>
+<li>Android</li>
+</ol>
+</div>
 
 Antes de instalar la aplicación Cappta, asegúrese de haber completado el paso anterior de configuración del módulo de Pagos. Si ha completado este paso, siga los pasos a continuación para instalar y configurar el adquirente Cappta para el inStore.
 
@@ -46,7 +49,9 @@ Actualmente, la integración funciona para sistemas Android y Windows. Si elige 
 - **Android**: el flujo de configuración de la aplicación es el mismo que cualquier otra aplicación instalada en un smartphone o tablet. Abra la aplicación e ingrese la información de acceso (CNPJ, POS, Contraseña). Si no conoce esta información, comuníquese con Cappta.
 - **Windows**: para configurar, ejecute el archivo .exe y complete la información de acceso (CNPJ, POS, Contraseña). Si no conoce esta información, comuníquese con Cappta.
 
->⚠️ Debe asegurarse de que la opción **pago web** esté habilitada en su cuenta de Cappta.
+<div class="alert alert-warning">
+Debe asegurarse de que la opción <strong>pago web</strong> esté habilitada en su cuenta de Cappta.
+</div>
 
 ## Empareje la máquina de tarjetas
 

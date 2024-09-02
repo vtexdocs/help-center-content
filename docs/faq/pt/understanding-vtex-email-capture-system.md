@@ -38,12 +38,16 @@ Para melhor compreensão, iremos apresentar um cenário (dividido em 3 etapas), 
 |------------------|------------------|
 | Clica em `Ir para entrega`. | Checkout solicita que o RC.JS transfira o endereço de e-mail e as informações do carrinho para o Master Data (por meio do Profile System). |
 
->⚠️ Para que a função do [carrinho abandonado](https://help.vtex.com/pt/tutorial/acesse-o-carrinho-abandonado-dos-clientes--4bbXy1TlzJaiCr41xKDN4e#) possa ser utilizada, é necessário que o usuário tenha preenchido as seguintes informações: e-mail, nome, sobrenome e CPF. A falta de um destes dados, impossibilita a utilização do carrinho abandonado.
+<div class="alert alert-warning">
+Para que a função do <a href="https://help.vtex.com/pt/tutorial/acesse-o-carrinho-abandonado-dos-clientes--4bbXy1TlzJaiCr41xKDN4e#">carrinho abandonado</a> possa ser utilizada, é necessário que o usuário tenha preenchido as seguintes informações: e-mail, nome, sobrenome e CPF. A falta de um destes dados, impossibilita a utilização do carrinho abandonado.
+</div>
 
 | __Usuário__ | __Plataforma VTEX__ |
 |------------------|------------------|
 | Preenche as informações de frete e pagamento. | O orderForm do Checkout torna-se um pedido e é transmitido para o OMS da VTEX. As informações completas do usuário (nome, sobrenome, e-mail, carrinho e todas as informações adicionais) são transmitidas para o Master Data. A captura de e-mail pode levar até 46 minutos para ser corretamente refletida no CRM. |
 
->ℹ️ Cada módulo da VTEX é responsável por solicitar ao RC.JS que transmita os dados capturados na sessão. O RC.JS tem por função agir como um "mensageiro" de informações.
+<div class="alert alert-info">
+Cada módulo da VTEX é responsável por solicitar ao RC.JS que transmita os dados capturados na sessão. O RC.JS tem por função agir como um "mensageiro" de informações.
+</div>
 
-![image (3)](https://images.ctfassets.net/alneenqid6w5/18dCifD9tOEo8mgUocamIc/958e0da9d2c7aa724f5c1c80bb0b616e/image__3_.png)
+![image (3)](//images.ctfassets.net/alneenqid6w5/18dCifD9tOEo8mgUocamIc/958e0da9d2c7aa724f5c1c80bb0b616e/image__3_.png)

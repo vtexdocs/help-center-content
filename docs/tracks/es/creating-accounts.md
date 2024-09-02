@@ -20,7 +20,9 @@ El siguiente paso es crear cuentas para los clientes a los que desea ofrecer cr�
 - [Múltiples cuentas masivas (Admin VTEX)](#crear-varias-cuentas-importacion-masiva)
 - [Cuenta individual (Customer Credit API)](#crear-cuenta-a-traves-de-api)
 
->ℹ️ Las cuentas creadas en la aplicación Customer Credit no tienen relación ni comparten datos con la base de clientes registrada en [entidades de Master Data](https://help.vtex.com/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#entidades-de-datos) de la tienda. Para que un cliente pueda utilizar Customer Credit como método de pago, el comerciante debe registrar su cuenta en la aplicación, incluso si el cliente ya tiene una cuenta en la tienda.
+<div class="alert alert-info">
+Las cuentas creadas en la aplicación Customer Credit no tienen relación ni comparten datos con la base de clientes registrada en <a href="https://help.vtex.com/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#entidades-de-datos">entidades de Master Data</a> de la tienda. Para que un cliente pueda utilizar Customer Credit como método de pago, el comerciante debe registrar su cuenta en la aplicación, incluso si el cliente ya tiene una cuenta en la tienda. 
+</div>
 
 ## Crear cuentas individualmente
 
@@ -32,11 +34,13 @@ Para registrar un nuevo cliente en Customer Credit, siga los pasos a continuaci�
 4. En __Crédito__, ingrese los valores de __Límite de crédito (BRL)__ y __Tolerancia__ que desea poner a disposición del cliente.
 5. Haga clic en `Confirmar`.
 
->⚠️ El llenado del campo **Email** es obligatorio, ya que la plataforma VTEX utiliza esta información para autentificar el acceso del cliente a los límites de crédito de su cuenta. Para obtener más información sobre protección de datos, visite [Seguridad de SmartCheckout](https://help.vtex.com/es/tutorial/seguridad-de-smartcheckout--3SrJuuhrqwePUg1rp1exfB).
+<div class="alert alert-warning">
+El llenado del campo <b>Email</b> es obligatorio, ya que la plataforma VTEX utiliza esta información para autentificar el acceso del cliente a los límites de crédito de su cuenta. Para obtener más información sobre protección de datos, visite <a href="https://help.vtex.com/es/tutorial/seguridad-de-smartcheckout--3SrJuuhrqwePUg1rp1exfB">Seguridad de SmartCheckout</a>.
+</div>
 
 A partir de este momento, la nueva cuenta creada se mostrará en la pantalla __Cuentas__.
 
-![CC_nueva_cuenta_1_ES](https://images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/137feed49de06cbae706252e4d6ef813/CC_nueva_cuenta_1_ES.JPG)
+![CC_nueva_cuenta_1_ES](//images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/137feed49de06cbae706252e4d6ef813/CC_nueva_cuenta_1_ES.JPG)
 
 ## Crear varias cuentas (importación masiva)
 
@@ -53,7 +57,7 @@ Para crear varias cuentas al mismo tiempo (en masa) en Customer Credit, puede ut
   <li>Columnas <b>Credit limit</b> y <b>Tolerance rate</b>: valores disponibles para cada cliente. La <b>tasa de tolerancia</b> debe ingresarse en formato decimal, por ejemplo, una tolerancia del 5% debe indicarse como 0,05.</li>
 </ul>
 
-![CC_criar_conta_2_ALL](https://images.ctfassets.net/alneenqid6w5/2KwguLYrq4sasC46xAIUfV/9b504a53cbf5796f78fafc77c5125e22/CC_criar_conta_2_ALL.JPG)
+![CC_criar_conta_2_ALL](//images.ctfassets.net/alneenqid6w5/2KwguLYrq4sasC46xAIUfV/9b504a53cbf5796f78fafc77c5125e22/CC_criar_conta_2_ALL.JPG)
 
 <blockquote><ui>6. Guardar la plantilla .csv.</ui>
 
@@ -67,7 +71,9 @@ Para crear varias cuentas al mismo tiempo (en masa) en Customer Credit, puede ut
 
 A partir de este momento, las nuevas cuentas creadas mediante la plantilla .csv estarán disponibles en la pantalla __Cuentas__.
 
->⚠️ También es posible rastrear procesos anteriores de creación de múltiples cuentas, identificando si las cuentas se crearon correctamente. Para comprobar esta información, haga clic en **Historial de importación** en la pantalla **Cuentas**.  
+<div class="alert alert-warning">
+También es posible rastrear procesos anteriores de creación de múltiples cuentas, identificando si las cuentas se crearon correctamente. Para comprobar esta información, haga clic en <b>Historial de importación</b> en la pantalla <b>Cuentas</b>.
+</div>  
 
 ### Actualizar varias cuentas (importación masiva)
 

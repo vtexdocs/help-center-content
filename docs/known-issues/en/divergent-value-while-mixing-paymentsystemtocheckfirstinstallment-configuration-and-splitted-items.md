@@ -1,5 +1,5 @@
 ---
-title: "Divergent value while mixing 'paymentSystemToCheckFirstInstallment' configuration and splitted items"
+title: 'Divergent value while mixing "paymentSystemToCheckFirstInstallment" configuration and splitted items'
 id: 3h2o69kTBqFdQlzhED2kMN
 status: PUBLISHED
 createdAt: 2023-03-07T18:35:31.215Z

@@ -3,8 +3,8 @@ title: 'VTEX Shipping Network: Painel'
 id: 51e8tx1IehiN4ZtURRWU92
 status: PUBLISHED
 createdAt: 2020-04-06T20:01:00.909Z
-updatedAt: 2024-02-29T19:20:49.152Z
-publishedAt: 2024-02-29T19:20:49.152Z
+updatedAt: 2024-08-28T13:00:44.671Z
+publishedAt: 2024-08-28T13:00:44.671Z
 firstPublishedAt: 2020-04-16T21:37:18.831Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,13 +15,17 @@ legacySlug: painel-vtex-log
 subcategory: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
->ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
+<div class="alert alert-info">
+Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site <a href="https://vtex.com/br-pt/shipping-network/">VTEX Shipping Network</a>.
+</div>
 
->⚠️ O [VTEX Shipping Network Correios](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:
-> 
-> *[Pronto para envio](https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs)
-> * [Entregas Correios](https://help.vtex.com/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq)
-> * Painel VTEX Shipping Network
+<div class="alert alert-warning">
+O <a href="https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC">VTEX Shipping Network Correios</a> integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o <a href="https://vtex.com/br-pt/shipping-network/">VTEX Shipping Network</a> integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:
+<ul>
+  <li><a href="https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs">Pronto para envio</a></li>
+  <li><a href="https://help.vtex.com/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq">Entregas Correios</a></li>
+  <li>Painel VTEX Shipping Network</li></ul>
+</div>
 
 O [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) utiliza os dados de rastreio dos pedidos diretamente das transportadoras, mantendo você e seu cliente atualizados sobre o status de cada entrega.
 
@@ -66,7 +70,7 @@ No cálculo da performance, são considerados todos os pacotes que fazem parte d
 
 A performance é o resultado em percentual do cálculo entre a relação dos pacotes entregues dentro do  prazo pelo total de pacotes entregues. Assim, o cálculo da performance só leva em consideração os pacotes que foram entregues. Veja:
 
-![equation PT performance](https://images.ctfassets.net/alneenqid6w5/24t2KA8ivoNmb4y3oaDDxf/5f190d7ed6439920a22dfbb5d86fe127/CodeCogsEqn.gif)
+![equation PT performance](//images.ctfassets.net/alneenqid6w5/24t2KA8ivoNmb4y3oaDDxf/5f190d7ed6439920a22dfbb5d86fe127/CodeCogsEqn.gif)
 
  A ferramenta de Performance do **VTEX Shipping Network** permite:
 
@@ -92,7 +96,9 @@ Também é possível visualizar os pedidos nas seguintes situações:
 
 Todas as transportadoras **VTEX Shipping Network** possuem selo de verificação o qual é visível na tabela de desempenho. O selo está na tabela de desempenho  sinalizando com uma marcação de cor rosa quais as transportadoras são **VTEX Shipping Network**.
 
->⚠️ É importante saber que, no caso em que a transportadora não teve a performance calculada na plataforma, os dados de rastreamento não foram integrados ao **VTEX Shipping Network**.
+<div class="alert alert-warning">
+É importante saber que, no caso em que a transportadora não teve a performance calculada na plataforma, os dados de rastreamento não foram integrados ao <b>VTEX Shipping Network</b>.
+</div>
 
 Para que o cálculo da performance seja feito em transportadoras que não são **VTEX Shipping Network**, os dados devem ser enviados pelo seller por uma API de tracking disponibilizada pela solução **VTEX Shipping Network**. Nestes casos, vale ressaltar que os dados do painel podem ser imprecisos, pois não há validação da entrega ser realizada no prazo indicado. 
 

@@ -43,7 +43,9 @@ Pricing has some important differences over the first version. Here are its feat
 
 ## Migrating a store to Pricing v2
 
->ℹ️ Every new VTEX store is already created with Pricing v2.
+<div class="alert alert-info">
+Every new VTEX store is already created with Pricing v2.
+</div>
 
 Pricing v2 is available for stores that wish to migrate to the new module. Currently, we have an automatic migration process, in which we verify the compatibility of Pricing v2 features with the features currently used by the store.
 

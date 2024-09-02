@@ -15,7 +15,9 @@ legacySlug: como-criar-um-anexo-de-assinatura
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
 
- >ℹ️ Caso você utilize o módulo de **Assinaturas Beta**, o caminho mais recomendado para criar um plano de assinatura é diretamente no módulo de **Assinaturas**. Leia o artigo [Como criar um plano de assinatura (Beta)](https://help.vtex.com/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) para mais informações.
+ <div class="alert alert-info">
+  <p>Caso você utilize o módulo de <strong>Assinaturas Beta</strong>, o caminho mais recomendado para criar um plano de assinatura é diretamente no módulo de <strong>Assinaturas</strong>. Leia o artigo <a href="https://help.vtex.com/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC">Como criar um plano de assinatura (Beta)</a> para mais informações.</p>
+</div>
 
 O **Anexo de SKU** é responsável por indicar que a funcionalidade de Assinatura está ativa para esse SKU, e também quais são as frequências disponíveis.
 
@@ -39,7 +41,9 @@ Para criar um anexo de SKU, siga os passos descritos abaixo.
      * `vtex.subscription.teste`
 5. Deixe a caixa de seleção **Anexo obrigatório** desmarcada.
 
- >⚠️ O campo **Anexo obrigatório** não pode ser marcado. Se o anexo for marcado como obrigatório, o sistema de **Assinaturas** tenta enviar um pedido com assinatura para um item que já possui um anexo obrigatório, gerando um erro no sistema. Caso isso ocorra por engano, desmarque a obrigatoriedade do anexo e, em seguida, solicite ao cliente da sua loja uma nova tentativa de realizar o pedido.
+ <div class="alert alert-warning">
+  <p>O campo <strong>Anexo obrigatório</strong> não pode ser marcado. Se o anexo for marcado como obrigatório, o sistema de <strong>Assinaturas</strong> tenta enviar um pedido com assinatura para um item que já possui um anexo obrigatório, gerando um erro no sistema. Caso isso ocorra por engano, desmarque a obrigatoriedade do anexo e, em seguida, solicite ao cliente da sua loja uma nova tentativa de realizar o pedido.</p>
+</div>
 
 6. Em **Status**, marque a caixa de seleção **Ativa/Desativa o anexo** e clique em `Salvar`.
 
@@ -67,13 +71,15 @@ Siga o passo a passo abaixo para configurar as frequências e datas de ciclo de 
 
         * **Semanalmente**: os valores possíveis de preenchimento deste campo são = `0`, `1`, `2`, `3`, `4`, `5`, e `6`, equivalentes aos dias da semana. Considere `0` = domingo , `1` = segunda, `2` = terça, e assim sucessivamente até `6` = sábado. Separe os  valores por `,`, conforme ilustrado abaixo.
 
-        ![PT Assinatura Exemplo Valores week](https://images.ctfassets.net/alneenqid6w5/20va8G0uiw3jpHKM2a99Al/7ef796fd84e1328bcc0b6f637bdc30f1/PT_Assinatura_Exemplo_Valores_week.png)
+        ![PT Assinatura Exemplo Valores week](//images.ctfassets.net/alneenqid6w5/20va8G0uiw3jpHKM2a99Al/7ef796fd84e1328bcc0b6f637bdc30f1/PT_Assinatura_Exemplo_Valores_week.png)
 
         * **Mensalmente**: os valores possíveis de preenchimento deste campo no checkout são = `1`, `2`, `3`, (...) até `28`, que são equivalentes aos dias do mês. Considere `1` = primeiro dia do mês, `2` = segundo dia do mês, e assim sucessivamente até `28` = vigésimo oitavo dia do mês. Separe os  valores por `,`, conforme ilustrado abaixo.
 
-        ![PT Assinatura Exemplo Valores month](https://images.ctfassets.net/alneenqid6w5/3ogGjc6DLexe7YeL3qyiuI/748b3dd8e63870c539b58f3404521031/PT_Assinatura_Exemplo_Valores_month.png)
+        ![PT Assinatura Exemplo Valores month](//images.ctfassets.net/alneenqid6w5/3ogGjc6DLexe7YeL3qyiuI/748b3dd8e63870c539b58f3404521031/PT_Assinatura_Exemplo_Valores_month.png)
 
->ℹ️ Caso nenhum valor seja inserido no campo **Valores Permitidos**, a data do ciclo de assinatura será o mesmo dia da semana (caso a frequência seja semanal) ou dia do mês (caso a frequência seja mensal) do pedido original.
+<div class="alert alert-info">
+  <p>Caso nenhum valor seja inserido no campo <strong>Valores Permitidos</strong>, a data do ciclo de assinatura será o mesmo dia da semana (caso a frequência seja semanal) ou dia do mês (caso a frequência seja mensal) do pedido original.</p>
+</div>
 
 ### Associar o anexo a um SKU
 

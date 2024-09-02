@@ -18,7 +18,9 @@ internalReference: 648298
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se pueden hacer múltiples solicitudes de simulación después de los cambios en el orderForm. Esto está relacionado con el cálculo de _lean shipping_ para calcular los paquetes de envío.

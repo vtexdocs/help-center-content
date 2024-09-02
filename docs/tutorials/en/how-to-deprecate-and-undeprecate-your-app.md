@@ -19,4 +19,4 @@ In the unfortunate event that you need to rollback your app to the previous vers
 
 If you realize that the deprecation was unecessary and need to republish highest version of your app, you can run `vtex undeprecate`.
 
-![image (2)](https://images.ctfassets.net/alneenqid6w5/42XNwwb22OQKBkOTO5C2Bl/3bfbb5a89027e41dda9a7532a7591e7f/image__2_.png)
+![image (2)](//images.ctfassets.net/alneenqid6w5/42XNwwb22OQKBkOTO5C2Bl/3bfbb5a89027e41dda9a7532a7591e7f/image__2_.png)

@@ -45,7 +45,9 @@ Desse modo, para esses meios de pagamento, as transações não serão reprocess
 
 O mode-off é ligado quando o parceiro ou a integração apresentam instabilidade identificada a partir do retorno de mensagens de erro do tipo: 500, 408 ou timeout maior que 30 segundos nos últimos cinco minutos. Essa regra é válida para todos os meios de pagamento que ele processa.
 
->⚠️ Vale lembrar que os meios de pagamento síncronos **não** poderão ser reprocessados. Porém, entram na contagem de erros para identificarmos se um parceiro está instável ou não.
+<div class="alert alert-warning">
+Vale lembrar que os meios de pagamento síncronos <strong>não</strong> poderão ser reprocessados. Porém, entram na contagem de erros para identificarmos se um parceiro está instável ou não.  
+</div>
 
 ## Qual a regra para o mode-off ser desligado?
 
@@ -55,7 +57,8 @@ As transações serão liberadas normalmente quando o parceiro parar de apresent
 
 O tempo entre retentativas de processamento da transação (_retries_) pode ser definido pelo parceiro no momento do envio das informações de pagamento. Ao configurar o tempo para cancelamento do pagamento (campo `delayToCancel`) para um período menor que 1 dia, as retentativas serão realizadas a cada 1 hora. Se o tempo para cancelar o pagamento for definido como igual ou maior que 1 dia, as retentativas serão realizadas a cada 4 horas. Para mais informações, acesse [Create Payment endpoint](https://developers.vtex.com/docs/api-reference/payment-provider-protocol?endpoint=post-/payments).
 
->ℹ️ Caso o pagamento seja realizado por [PIX](https://help.vtex.com/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf) ou o tempo para cancelamento do pagamento seja configurado entre 5 minutos e 1 hora, as chamadas de retry ocorrerão a cada 5 minutos.
+<div class="alert alert-info">
+ Caso o pagamento seja realizado por <a href="https://help.vtex.com/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf">PIX</a> ou o tempo para cancelamento do pagamento seja configurado entre 5 minutos e 1 hora, as chamadas de retry ocorrerão a cada 5 minutos.</div>
 
 ## Como identificar o mode-off e o que fazer quando ele estiver ligado?
 

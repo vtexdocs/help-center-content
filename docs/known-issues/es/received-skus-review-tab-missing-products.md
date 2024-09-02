@@ -1,5 +1,5 @@
 ---
-title: "Recibidos Skus 'Revisión' ficha productos que faltan"
+title: 'Recibidos Skus "Revisión" ficha productos que faltan'
 id: 2UM0JQUZVq5o7NHCjmrg8N
 status: PUBLISHED
 createdAt: 2023-11-23T16:30:51.874Z
@@ -18,7 +18,9 @@ internalReference: 939877
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las ofertas enviadas por los vendedores pueden eventualmente ir a la pestaña de Revisión de los Skus Recibidos del Marketplace dependiendo si pasaron o no las reglas de Calidad de la Oferta.

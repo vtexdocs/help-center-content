@@ -1,5 +1,5 @@
 ---
-title: "'Unhandled exception' error when changing edition of account"
+title: '"Unhandled exception" error when changing edition of account'
 id: 1NVjCrlRkadscl8fW9rOdA
 status: PUBLISHED
 createdAt: 2023-09-26T12:45:44.999Z

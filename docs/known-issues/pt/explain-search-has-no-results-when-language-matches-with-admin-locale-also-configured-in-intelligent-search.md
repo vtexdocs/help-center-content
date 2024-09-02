@@ -18,7 +18,9 @@ internalReference: 830490
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando mais de um idioma estiver configurado na Intelligent Search, a Explain Search não retornará nenhum resultado se houver correspondência com uma localidade de administrador que também esteja na Intelligent Search, mas que não seja a correspondência exata. Por exemplo:

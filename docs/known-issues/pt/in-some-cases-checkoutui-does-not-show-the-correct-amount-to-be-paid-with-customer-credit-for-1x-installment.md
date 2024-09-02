@@ -18,7 +18,9 @@ internalReference: 748320
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para um cenário onde o Crédito do Cliente é utilizado para pagar um valor inferior ao valor total do carrinho; ele mostra, para 1x a prestação no dropdown, o valor total ignorando débitos considerados como pagamento com outro método de pagamento como um cartão presente.

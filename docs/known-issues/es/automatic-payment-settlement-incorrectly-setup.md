@@ -18,7 +18,9 @@ internalReference: 1053010
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El problema es que la pasarela ignoraba el valor `delayToAutoSettleAfterAntifraud`.

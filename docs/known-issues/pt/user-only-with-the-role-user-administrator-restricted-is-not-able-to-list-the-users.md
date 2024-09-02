@@ -1,5 +1,5 @@
 ---
-title: "O usuário apenas com a função 'User Administrator - RESTRICTED' não consegue listar os usuários"
+title: 'O usuário apenas com a função "User Administrator - RESTRICTED" não consegue listar os usuários'
 id: ifXUAzgJ1xr8ezhqKpRUI
 status: PUBLISHED
 createdAt: 2023-11-08T18:07:14.508Z
@@ -18,7 +18,9 @@ internalReference: 932666
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se um usuário administrador tiver apenas a função "**User Administrator - RESTRICTED**" (recurso "**Save user**"), a lista de usuários não estará disponível e não será possível fazer as edições ou exclusões necessárias.

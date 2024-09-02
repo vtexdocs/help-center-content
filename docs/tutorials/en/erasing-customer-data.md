@@ -35,7 +35,9 @@ If your store keeps customer information in other data entities, you need to man
 
 2. Use a [Delete Document](https://developers.vtex.com/vtex-rest-api/reference/deletedocument-1) request
 
->❗ Do not do this for the **CL** and **AD** entities. 
+<div class="alert alert-danger"> 
+  Do not do this for the <b>CL</b> and <b>AD</b> entities.
+</div> 
 
 ## Request erasure via support
 
@@ -56,6 +58,8 @@ To request the deletion of customer personal data, follow the steps below.
 8. Fill in the **Describe what happened in detail** field with details of your request.
 9. Click `Submit`.
 
->⚠️ Please request the erasure of data for only one account, i.e. one shopper email per ticket. If you include more than one email, the ticket will be returned.
+<div class="alert alert-warning">
+Please request the erasure of data for only one account, i.e. one shopper email per ticket. If you include more than one email, the ticket will be returned.
+</div>
 
 Your request will be sent to our support team. Upon completion of the ticket, a certificate will be issued to the email where the ticket was opened confirming the completion of the erasure of the data.

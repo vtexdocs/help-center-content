@@ -18,7 +18,9 @@ internalReference: 399339
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El Editor del Sitio tiene problemas intermitentes de representación en pantallas menores de 1366px de ancho.

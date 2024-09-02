@@ -1,5 +1,5 @@
 ---
-title: "'Invalid postal code' message in Checkout UI when address is in available addresses with different country"
+title: '"Invalid postal code" message in Checkout UI when address is in available addresses with different country'
 id: 4VggIx4xWPNW6OBIrQ0js4
 status: PUBLISHED
 createdAt: 2024-06-21T17:08:59.860Z

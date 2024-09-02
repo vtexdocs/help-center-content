@@ -18,7 +18,9 @@ internalReference: 790185
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando você está em acesso de telemarketing e tenta imitar o acesso de um usuário que tem acesso a uma política comercial com restrições, algumas camadas de gráficos não estão enviando o cookie do usuário imitado, causando uma resposta de acesso proibido das APIs

@@ -18,7 +18,9 @@ internalReference: 348841
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al modificar un artículo (orden de modificación) desde una cuenta de vendedor de Marca Blanca, el autocompletado no muestra el artículo como se esperaba.

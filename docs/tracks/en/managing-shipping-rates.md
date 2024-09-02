@@ -35,7 +35,9 @@ After the store signed a contract with a carrier, it usually agrees upon the ZIP
 - **Country**: Country to where the order is shipped to. Must be filled out with the [country's 3 digit ISO code](https://countrycode.org/).
 - **MinimumValueInsurance**: It's an additional shipping fee with an absolute value, which is compared to the valued given in PricePercentage and then multiplied by the cart's value. Whichever value is greater is added to the shipping cost. Only one of the two possible values will be added to the shipping cost. For more details, see [what the Minimum Value Insurance field does](http://help.vtex.com/tutorial/what-is-the-minimum-value-insurance--frequentlyAskedQuestions_158).
 
->⚠️ **OBS:** If your spreadsheet size is over 10MB, you'll need to compress it into a **.zip** format. The .zip file must be less than 10MB for the upload to work. If, however, it still exceeds the size limit, we recommend splitting the spreadsheet among several carriers.
+<div class="alert alert-warning">
+<strong>OBS:</strong> If your spreadsheet size is over 10MB, you'll need to compress it into a <strong>.zip</strong> format. The .zip file must be less than 10MB for the upload to work. If, however, it still exceeds the size limit, we recommend splitting the spreadsheet among several carriers. 
+</div>
 
 ## Managing shipping rates without using the spreadsheet
 

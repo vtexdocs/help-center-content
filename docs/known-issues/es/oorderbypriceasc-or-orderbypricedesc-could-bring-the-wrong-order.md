@@ -18,7 +18,9 @@ internalReference: 582861
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 **O=OrderByPriceASC** (o **OrderByPriceDESC**) puede utilizar una política incorrecta para ordenar los precios. Además, como el precio indexado sólo tiene un decimal, no se tendrá en cuenta el segundo decimal del precio.

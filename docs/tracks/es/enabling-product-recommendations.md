@@ -14,7 +14,9 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugES: habilitar-recomendacion-de-producto
 ---
 
->❗ El cambio en la configuración de recomendaciones de productos en inStore, explicado en este artículo, implica cambiar los archivos `checkout-instore-custom.js` y `checkout-instore-custom.css`. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en estos archivos pueden causar errores críticos.
+<div class = "alert alert-danger">
+El cambio en la configuración de recomendaciones de productos en inStore, explicado en este artículo, implica cambiar los archivos <code>checkout-instore-custom.js</code> y <code>checkout-instore-custom.css</code>. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en estos archivos pueden causar errores críticos.
+</div>
 
 Por defecto, inStore muestra una lista de productos sugeridos al vendedor en dos etapas del pedido:
 - En el carrito
@@ -26,7 +28,7 @@ Si desea ocultar estas recomendaciones, debe editar los archivos `checkout-insto
 
 Al igual que el archivo JavaScript de personalización inStore, se debe acceder a `checkout-instore-custom.css` a través del panel administrativo de VTEX (como se explica en el artículo sobre [personalizaciones en el inStore](https://help.tex.com/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/4mwdBrFsmE2EPE0FzgX28b)).
 
-![25. Enable product recommendations - 1 - ES.png?h=250](https://images.ctfassets.net/alneenqid6w5/nEA1Zz5EeltimlFEFSMzy/8f489dd051c79453fd858d5376699c79/25._Enable_product_recommendations_-_1_-_ES.png_h_250)
+![25. Enable product recommendations - 1 - ES.png?h=250](//images.ctfassets.net/alneenqid6w5/nEA1Zz5EeltimlFEFSMzy/8f489dd051c79453fd858d5376699c79/25._Enable_product_recommendations_-_1_-_ES.png_h_250)
 
 En el archivo `checkout-instore-custom.css`, incluya la siguiente regla CSS:
 
@@ -52,4 +54,6 @@ window.INSTORE_CONFIG = {
 
 Guarde el archivo con el cambio, luego abra el menú de la aplicación inStore y actualice los datos haciendo clic en el botón __Restaurar datos__. Una vez hecho esto, los vendedores ya no verán recomendaciones de productos.
 
->❗ No elimine ninguna de las otras propiedades presentes en el objeto `window.INSTORE_CONFIG`, para evitar romper otras funciones.
+<div class="alert alert-danger">
+No elimine ninguna de las otras propiedades presentes en el objeto <code>window.INSTORE_CONFIG</code>, para evitar romper otras funciones.
+</div>

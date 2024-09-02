@@ -17,7 +17,9 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 Os clientes da sua loja podem solicitar a troca ou devolução de itens de um pedido. Dessa forma, a funcionalidade **Devolução de itens** permite remover itens de um pedido para que produtos sejam devolvidos.
 
->ℹ️ Consulte o artigo [Como devolver itens do pedido (Beta)](https://help.vtex.com/pt/tutorial/como-devolver-itens-do-pedido-beta--2bSNWwD0g8fcUmuupLao9i) para saber como utilizar a funcionalidade no Admin V4.
+<div class = "alert alert-info">
+Consulte o artigo <a href="https://help.vtex.com/pt/tutorial/como-devolver-itens-do-pedido-beta--2bSNWwD0g8fcUmuupLao9i">Como devolver itens do pedido (Beta)</a> para saber como utilizar a funcionalidade no Admin V4.
+</div>
 
 Para realizar a devolução pelo Admin VTEX, realize os seguintes passos:
 
@@ -33,13 +35,12 @@ Para realizar a devolução pelo Admin VTEX, realize os seguintes passos:
 
 ![Devolução de itens de um pedido](https://drive.google.com/uc?export=download&id=1o0QkZZpgn7nXD5LVENxmlp9e_PKTGDva)
 
->⚠️ Note que:
->
-> *A devolução de um SKU no **Gerenciamento de pedidos** não atualiza a quantidade de SKUs que estão disponíveis no inventário. A loja deve atualizar a quantidade de itens no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
->
-> *O número da nota fiscal de devolução deve ser diferente da nota fiscal de venda.
->
-> *Após a devolução, o sistema de pagamentos é notificado para a realização do [estorno](https://help.vtex.com/pt/tutorial/como-funciona-estorno-quando-ha-devolucao-do-item).
->
-> *Só é possível realizar a devolução de pedidos que têm pelo menos uma nota fiscal inserida na plataforma.
-> 
+<div class="alert alert-warning">
+Note que:
+<ul>
+<li>A devolução de um SKU no <b>Gerenciamento de pedidos</b> não atualiza a quantidade de SKUs que estão disponíveis no inventário. A loja deve atualizar a quantidade de itens no <a href="https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139">inventário</a>.</li>
+<li>O número da nota fiscal de devolução deve ser diferente da nota fiscal de venda.</li>
+<li>Após a devolução, o sistema de pagamentos é notificado para a realização do <a href="https://help.vtex.com/pt/tutorial/como-funciona-estorno-quando-ha-devolucao-do-item">estorno</a>.</li>
+<li>Só é possível realizar a devolução de pedidos que têm pelo menos uma nota fiscal inserida na plataforma.</li>
+</ul>
+</div>

@@ -1,5 +1,5 @@
 ---
-title: "Se produce un error al intentar realizar una búsqueda utilizando el campo 'Todos' en VTEX CRM"
+title: 'Se produce un error al intentar realizar una búsqueda utilizando el campo "Todos" en VTEX CRM'
 id: 1OKMTJuUZx6mnDmYW3MBjP
 status: PUBLISHED
 createdAt: 2023-10-25T18:46:48.120Z
@@ -18,7 +18,9 @@ internalReference: 925679
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Este caso ocurre con entidades que contienen un gran número de campos y millones de registros en una entidad. El problema surge debido a que el buscador utiliza el campo "Todos", que envía peticiones individuales para cada campo consultable de la entidad y multiplica la carga de peticiones para cada documento.

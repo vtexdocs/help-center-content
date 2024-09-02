@@ -18,7 +18,9 @@ internalReference: 514835
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En el flujo de pago `deliverySlaInMinutes` entrega junto con los detalles de la transacción a la pasarela, este dato se calcula en base al `shippingEstimate` entregado por logística, sin embargo cuando este valor entregado por logística es = 0 la respuesta de pago para `deliverySlaInMinutes` es 0 nulo, cuando lo correcto sería 0; sin embargo esto termina afectando directamente el flujo desarrollado por la pasarela para antifraude;

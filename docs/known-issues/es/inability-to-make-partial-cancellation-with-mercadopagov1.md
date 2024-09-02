@@ -18,7 +18,9 @@ internalReference: 286738
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la cancelación parcial se realiza en un pago de débito, la pasarela no realizó una solicitud a Mercado Pago y en consecuencia no se realiza la solicitud de captura porque el estado nos hizo entender que el pago ya fue capturado, lo que significa que no se devuelve el dinero del cliente

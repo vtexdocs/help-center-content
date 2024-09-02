@@ -18,7 +18,9 @@ internalReference: 896520
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As modificações de preço feitas na conta são atualizadas quase em tempo real nas APIs de preço. No entanto, as simulações de checkout levam cerca de 5 minutos para ter o preço mais atualizado no produto devido ao cache. Isso é esperado.

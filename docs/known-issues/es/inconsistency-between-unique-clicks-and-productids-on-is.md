@@ -18,7 +18,9 @@ internalReference: 501802
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente tenemos un problema cuando miramos el archivo CSV, cuenta los clics únicos y también muestra los productIds en orden descendente desde el más alto al más bajo mostrando sólo los primeros 30 debido a una configuración.

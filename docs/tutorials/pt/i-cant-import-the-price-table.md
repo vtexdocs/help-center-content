@@ -19,7 +19,9 @@ __Tags/Palavras-chave__: *planilha de preços, importação de planilhas, célul
 
 As [tabelas ou planilhas de preço](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) armazenam informações de SKUs que após serem aplicadas em determinados contextos, tais como políticas comerciais, promoções ou cluster de clientes, permitem calcular os valores de venda dos produtos em uma loja VTEX. Para mais informações, acesse [Preço base](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) e [Preço fixo](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy). 
 
->⚠️ Não é possível importar uma planilha de **Preço calculado** no Admin VTEX. A função **Exportar** está disponível para esta planilha apenas para que o lojista possa conferir os valores de preço final de cada produto.
+<div class ="alert alert-warning">
+  Não é possível importar uma planilha de <b>Preço calculado</b> no Admin VTEX. A função <b>Exportar</b> está disponível para esta planilha apenas para que o lojista possa conferir os valores de preço final de cada produto.
+</div>
 
 Após [importar uma planilha de preços](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D), algumas mensagens de erro podem surgir em determinados SKUs, como nos exemplos abaixos: 
 
@@ -48,14 +50,18 @@ Confira se os campos de sua planilha estão devidamente preenchidos conforme as 
 - [Planilha de preço-base](https://help.vtex.com/pt/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-base--4Jox8TeQ5feqAn78TZ0DNA)
 - [Planilha de preço fixo](https://help.vtex.com/pt/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-fixo--50RFoH3ruV97FJgeBUCURh)
 
->⚠️ Antes de importar a planilha no Admin VTEX, certifique-se de que a mesma não contenha colunas com informações de erro (**Error Code** e **Error Message**) ou que exista algum tipo de filtro aplicado nas células. Caso você tente importar a planilha nestas condições, podem ocorrer erros no processo de importação dos dados.
+<div class ="alert alert-warning">
+  Antes de importar a planilha no Admin VTEX, certifique-se de que a mesma não contenha colunas com informações de erro (<b>Error Code</b> e <b>Error Message</b>) ou que exista algum tipo de filtro aplicado nas células. Caso você tente importar a planilha nestas condições, podem ocorrer erros no processo de importação dos dados.
+</div>
 
 Exemplo de planilha com filtros aplicados e campos __Error Code__ e __Error Message__ presentes:
 
-![Planilha de preço](https://images.ctfassets.net/alneenqid6w5/1r7FGH4sdfT0uzCUX4T07y/0109fb3de360f568c44f6e0e6c3a920e/Price_spreadsheet.PNG)
+![Planilha de preço](//images.ctfassets.net/alneenqid6w5/1r7FGH4sdfT0uzCUX4T07y/0109fb3de360f568c44f6e0e6c3a920e/Price_spreadsheet.PNG)
 
 #### Tamanho do arquivo
 
 Planilhas de preço devem possuir um limite máximo de tamanho de 1 megabyte (MB). Caso a sua planilha atual seja maior que este valor, divida as informações em planilhas de tamanho inferior a 1 megabyte (MB).
 
->⚠️ Todos os dados de um SKU específico devem ser mantidos na mesma planilha, não sendo permitido o cadastro de informações do mesmo SKU em planilhas diferentes.
+<div class ="alert alert-warning">
+  Todos os dados de um SKU específico devem ser mantidos na mesma planilha, não sendo permitido o cadastro de informações do mesmo SKU em planilhas diferentes.
+</div>

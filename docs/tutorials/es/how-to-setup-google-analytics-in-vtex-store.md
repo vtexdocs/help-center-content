@@ -20,7 +20,9 @@ subcategory: 1luKrYptdi8WoMYckakUaM
 1. [Configurar Google Analytics 4](#configurar-google-analytics-4)
 2. [Editar configuraciones de Google Tag Manager](#editar-configuraciones-de-google-tag-manager)
 
->ℹ️ A partir del 1 de julio de 2023, Google Analytics 4 sustituirá a Universal Analytics, la versión anterior de la herramienta. Por lo tanto, debes seguir este tutorial para adaptar los cambios a tu tienda. Consulta los detalles [en este comunicado de Google](https://support.google.com/analytics/answer/11583528).
+<div class="alert alert-info">
+A partir del 1 de julio de 2023, Google Analytics 4 sustituirá a Universal Analytics, la versión anterior de la herramienta. Por lo tanto, debes seguir este tutorial para adaptar los cambios a tu tienda. Consulta los detalles <a href="https://support.google.com/analytics/answer/11583528">en este comunicado de Google</a>.
+</div>
 
 ## Configurar Google Analytics 4
 Si ya utilizabas la versión anterior de Google Analytics (Universal Analytics) en tu tienda, deberás agregar una propiedad GA4. Para ello, consulta esta documentación de Google: [Añadir una propiedad de Google Analytics 4 (a un sitio web que ya tiene Google Analytics)](https://support.google.com/analytics/answer/9744165?hl=es#zippy=%2Ccontenido-del-art%C3%ADculo).

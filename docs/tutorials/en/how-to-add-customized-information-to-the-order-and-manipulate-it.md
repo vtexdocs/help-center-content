@@ -32,7 +32,9 @@ To work with this field, you must use VTEX’s Checkout API. Three steps are req
 
 Before populating the `customData` field, you need to use the [Update orderForm configuration](https://developers.vtex.com/reference/configuration#updateorderformconfiguration) call to create an app. This app will contain custom fields that will be populated during checkout.
 
->⚠️ The Update orderForm configuration defines settings that apply to all orderForms generated in your account. This means that, from the moment you add an app through it, all the store’s orders will contain the extra fields defined in that app. To create an app and its fields, this call only needs to happen once.
+<div class="alert alert-warning">
+The Update orderForm configuration defines settings that apply to all orderForms generated in your account. This means that, from the moment you add an app through it, all the store’s orders will contain the extra fields defined in that app. To create an app and its fields, this call only needs to happen once.
+</div>
 
 Here is an example of an `app` object sent in the body of the request Update orderForm configuration:
 

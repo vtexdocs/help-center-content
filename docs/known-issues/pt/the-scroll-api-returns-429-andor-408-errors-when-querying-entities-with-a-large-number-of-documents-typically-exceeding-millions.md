@@ -18,7 +18,9 @@ internalReference: 1035873
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A API Scroll foi projetada para lidar com grandes conjuntos de dados, permitindo a recuperação de documentos de forma rolável. No entanto, ao consultar entidades com um número significativo de documentos, normalmente na casa dos milhões, os usuários podem encontrar erros 429 (Too Many Requests) e/ou 408 (Request Timeout). Esses erros ocorrem devido ao alto volume de dados que estão sendo processados, o que pode sobrecarregar a API e resultar em limitação da taxa de solicitações ou timeouts.

@@ -18,7 +18,9 @@ internalReference: 1057544
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El componente selector de cantidades en Faststore está presentando un bug. Si el valor mínimo de un producto es 10 y quiero teclear 15, el selector no me deja borrar el 0 porque nos dejará con 1, y sería un valor inferior a la cantidad mínima. Si quiero escribir 15 tengo que escribir 150 y entonces puedo borrar el 0.

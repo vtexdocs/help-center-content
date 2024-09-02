@@ -3,8 +3,8 @@ title: 'view_cart event is triggered twice when we change product quantity in mi
 id: 3NlB10z0ulKu7sySxPgkmp
 status: PUBLISHED
 createdAt: 2024-05-28T20:13:35.657Z
-updatedAt: 2024-05-28T20:13:36.602Z
-publishedAt: 2024-05-28T20:13:36.602Z
+updatedAt: 2024-08-14T14:56:41.836Z
+publishedAt: 2024-08-14T14:56:41.836Z
 firstPublishedAt: 2024-05-28T20:13:36.602Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: viewcart-event-is-triggered-twice-when-we-change-product-quantity-in-minicart
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1040772
 ---
 

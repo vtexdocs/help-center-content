@@ -18,7 +18,9 @@ internalReference: 334191
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O OrderForm é sensível à mudança ou remoção de um item do catálogo de produtos. Se um itemAttachment deixar de existir ou começar a ter outro padrão de validação, um orderForm que já tenha dados antigos se tornará inacessível, e não será possível prosseguir com o fluxo de compra.

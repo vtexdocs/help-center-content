@@ -23,9 +23,13 @@ O Feed v3 possibilita a personalização do feed com filtros e intervalos necess
 
 Isso quer dizer que é possível definir quais status estarão visíveis no feed de eventos da sua loja através da [API Feed Configuration](https://developers.vtex.com/reference/feed-v3#feedconfiguration). A lista com os possíveis status de pedido pode ser vista no artigo [Fluxo de pedido em Gerenciamento de pedidos](https://help.vtex.com/pt/tutorial/fluxo-de-pedido/#entendendo-os-status).
 
->ℹ️ Se o objeto `filter` não for configurado na API, as atualizações de **todos** os status serão enviadas ao feed.
+<div class="alert alert-info">
+Se o objeto <code>filter</code> não for configurado na API, as atualizações de <strong>todos</strong> os status serão enviadas ao feed. 
+</div>
 
->ℹ️ A AppKey que será usada na integração deve ser a mesma usada na configuração inicial.
+<div class="alert alert-info"> 
+A AppKey que será usada na integração deve ser a mesma usada na configuração inicial.
+</div>
 
 Um exemplo de body seria o seguinte:
 
@@ -48,13 +52,17 @@ O tempo de espera _default_ definido no campo é de 30 segundos, mas ele poderá
 
 O tempo de permanência de um evento no seu feed é definido em segundos no campo `MessageRetentionPeriodInSeconds`. Se um evento não receber interações dentro do tempo configurado, ele será excluído da fila do feed e os dados referentes a ele serão perdidos. O tempo máximo a ser definido no campo é de até 345600 segundos (4 dias). 
 
->ℹ️ Para configurar e usar o Feed v3, é necessário ter um [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc?locale=pt) habilitado com o recurso `Feed v3 and Hook`, dentro do produto de **OMS**.
+<div class="alert alert-info">
+Para configurar e usar o Feed v3, é necessário ter um <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc?locale=pt">perfil de acesso</a> habilitado com o recurso <code>Feed v3 and Hook</code>, dentro do produto de <strong>OMS</strong>. 
+</div>
 
 ## Como funcionam as APIs do Feed v3
 
 O Feed v3 trabalha com duas chamadas: uma para a sua leitura e outra para informar que um evento já foi lido e deve ser excluído.
 
->⚠️ Não se esqueça de configurar o Feed antes de usar!
+<div class="alert alert-warning"> 
+Não se esqueça de configurar o Feed antes de usar!
+</div>
 
 ### Get feed order status
 
@@ -62,7 +70,9 @@ A [chamada de leitura do feed](https://developers.vtex.com/reference/feed-v3#get
 
 O parâmetro `maxLot` indica o número máximo de eventos que serão retornados a cada chamada. No feed v3, você pode especificar __até 10 eventos__. 
 
->⚠️ Toda vez que uma chamada de leitura do feed é feita, **todos** os eventos retornados ficam invisíveis no feed pelo tempo definido no campo `visibilityTimeoutInSeconds` da API de Feed Configuration. 
+<div class="alert alert-warning">
+Toda vez que uma chamada de leitura do feed é feita, <strong>todos</strong> os eventos retornados ficam invisíveis no feed pelo tempo definido no campo <code>visibilityTimeoutInSeconds</code> da API de Feed Configuration.
+</div> 
 
 ### Confirm item feed order status
 
@@ -72,11 +82,15 @@ No body do _commit_ deve ser passado o valor do `handles`. Esse valor é retorna
 
 No body, cada _array_ pode conter quantos `handles` forem necessários. Isso significa que é possível _commitar_ mais de um evento por vez.
 
->ℹ️ O campo `visibilityTimeoutInSeconds` indica o tempo máximo para realizar um <i>commit</i> de um evento. 
+<div class="alert alert-info">
+O campo <code>visibilityTimeoutInSeconds</code> indica o tempo máximo para realizar um <i>commit</i> de um evento. 
+</div> 
 
 Não existem casos em que um evento do feed não deva ser _commitado_. Seu sistema deve _commitar_ todos os eventos da sua fila. __Uma vez que um evento foi _commitado_, não é possível recuperá-lo no feed com o mesmo appkey.__
 
->⚠️ Todos os possíveis status de pedido (considerando a filtragem, quando aplicável) devem ser tratados na integração para evitar a ocorrência de erros. Atenção especial deve ser dada ao status `Status Null`, que pode não ser identificado e acabar sendo mapeado como outro status, possivelmente gerando erros. 
+<div class="alert alert-warning">
+Todos os possíveis status de pedido (considerando a filtragem, quando aplicável) devem ser tratados na integração para evitar a ocorrência de erros. Atenção especial deve ser dada ao status <code>Status Null</code>, que pode não ser identificado e acabar sendo mapeado como outro status, possivelmente gerando erros.
+</div> 
 
 Para entender mais sobre o funcionamento do feed, acesse nosso artigo sobre [como funciona o feed do módulo de Gerenciamento de pedidos](https://help.vtex.com/pt/tutorial/como-funciona-o-feed-v3-do-modulo-de-gerenciamento-de-pedidos--5SzSKee2f666YCoWkm0eQC).
 

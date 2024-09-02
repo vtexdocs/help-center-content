@@ -18,7 +18,9 @@ internalReference: 926969
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O marketplace pode criar grupos com alguns vendedores na interface de gerenciamento do vendedor.

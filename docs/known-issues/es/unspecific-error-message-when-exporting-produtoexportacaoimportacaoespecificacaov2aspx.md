@@ -18,7 +18,9 @@ internalReference: 314227
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, el mensaje de error de la interfaz ProdutoExportacaoImportacaoEspecificacaoV2.aspx en el catálogo de importación/exportación, cuando un usuario intenta exportar una ficha de producto y no hay productos en una categoría determinada (pero sí hay especificaciones registradas) no señala el origen del problema.

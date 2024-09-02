@@ -26,4 +26,6 @@ To export your customer base that have chosen to receive newsletter, follow the 
 
   In the spreadsheet that has been sent to your email there will be a column titled `isNewsletterOptIn`, which assigns the value **true** to customers who receive newsletter and **false** to those who do not.
 
->⚠️ This option is only valid for stores with their Newsletter registered in the CRM. If your store is not yet configured in this way, and still uses the page control, read the article [Configuring the inclusion of a newsletter in Master Data](https://help.vtex.com/en/tutorial/how-do-i-configure-the-inclusion-of-newsletter-in-master-data--frequentlyAskedQuestions_1816) to find out how to do it.
+<div class="alert alert-warning">
+  <p>This option is only valid for stores with their Newsletter registered in the CRM. If your store is not yet configured in this way, and still uses the page control, read the article <a href="https://help.vtex.com/en/tutorial/how-do-i-configure-the-inclusion-of-newsletter-in-master-data--frequentlyAskedQuestions_1816">Configuring the inclusion of a newsletter in Master Data</a> to find out how to do it.</p>
+</div>

@@ -15,7 +15,7 @@ legacySlug: guia-de-integracao-de-erps-catalogo-expresso
 subcategory: 5fKgQZhrCw88ACy6Su6GUc
 ---
 
->⚠️ Este artigo é parte do [Guia de integração de ERPs](https://help.vtex.com/tutorial/guia-de-integracao-de-erps--3VuOwNLmb624ImooEIIkmO).
+<div class="alert alert-warning">Este artigo é parte do <a href="https://help.vtex.com/tutorial/guia-de-integracao-de-erps--3VuOwNLmb624ImooEIIkmO">Guia de integração de ERPs</a>.</div>
 
 Este documento tem por objetivo auxiliar na integração de catálogo do ERP para uma loja hospedada na VTEX, de uma maneira rápida.
 

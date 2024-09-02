@@ -3,8 +3,8 @@ title: 'How promotion competition works'
 id: tutorials_2270
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:27.997Z
-updatedAt: 2023-11-14T16:52:38.320Z
-publishedAt: 2023-11-14T16:52:38.320Z
+updatedAt: 2024-08-23T16:45:30.591Z
+publishedAt: 2024-08-23T16:45:30.591Z
 firstPublishedAt: 2017-04-27T23:03:50.791Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -36,7 +36,7 @@ The promotion effects are related to the benefit the promotion offers. There are
 
 - **Price discount:** Promotions that apply a percentage or nominal discount to the product price. This includes various discounts such as [regular promotions](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [progressive discounts](https://help.vtex.com/en/tutorial/desconto-progressivo--tutorials_324), and any other mechanisms that affect the price of an item.
 - **Shipping discount:** [Promotions with a discount applied to the shipping cost.](https://help.vtex.com/en/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW)
-- **Giveaway:** Promotions that offer one or more giveaways to the customer.
+- **Gift:** Promotions that offer one or more gift to the customer.
 - **Formula:** Promotions with nominal discount based on [formula](https://help.vtex.com/en/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV), which is one of the options of a regular promotion.
 
 ## Promotion sorting rule
@@ -56,14 +56,14 @@ The promotions applied to the cart respect the following order:
 4. Buy Together (not a regular promotion)
 5. Percentage shipping
 6. Nominal shipping
-7. Giveaway
+7. Gift
 8. Formula
 
 ### Sorting by discount amount
 
 Promotions of the same type applied to the cart are compared by their discount amount. At this point, the Promotions module always tries to apply the most advantageous promotion for the buyer.
 
-For giveaway promotions, the sorting is by the highest number of giveaways granted by the promotion.
+For gift promotions, the sorting is by the highest number of gifts granted by the promotion.
 
 Example:
 
@@ -82,9 +82,10 @@ However, they will be applied to the amount that has already been discounted by 
 
 Therefore, promotions will be applied in the following order:
 
-![promocao3 EN](https://images.ctfassets.net/alneenqid6w5/6nz2KJuFk4aS0eU0OGg0sM/7cf285654ec80894e0a346c90918cd33/promocao3_EN.png)
+![promocao3 EN](//images.ctfassets.net/alneenqid6w5/6nz2KJuFk4aS0eU0OGg0sM/7cf285654ec80894e0a346c90918cd33/promocao3_EN.png)
 
->⚠️ Orders originating from the [Marketplace](https://help.vtex.com/en/tutorial/configurar-promocao-para-marketplace--tutorials_406) (provided by the store) or Fulfillment (delivered by the store) do not support cumulative promotions. This is because the use of promotions is restricted to specific types on both VTEX and external marketplaces.
+<div class="alert alert-warning">
+Orders originating from the <a href="https://help.vtex.com/en/tutorial/configurar-promocao-para-marketplace--tutorials_406">Marketplace</a> (provided by the store) or Fulfillment (delivered by the store) do not support cumulative promotions. This is because the use of promotions is restricted to specific types on both VTEX and external marketplaces.</div>
 
 ## Promotion competition strategies
 
@@ -99,7 +100,8 @@ Here are the two strategies for promotion competition:
 - [Competition by scenario](#competition-by-scenario)
 - [Competition by item](#competition-by-item)
 
->ℹ️ By default, all accounts follow the competition by scenariostrategy. In case the competition by item strategy is better suited for your business needs, please [open a ticket](https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) with our support team and request the change.
+<div class="alert alert-info">
+By default, all accounts follow the competition by scenariostrategy. In case the competition by item strategy is better suited for your business needs, please <a href="https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM">open a ticket</a> with our support team and request the change.</div>
 
 ### Competition by scenario
 
@@ -116,7 +118,7 @@ James is planning to purchase a t-shirt priced at $10, with an additional $4 for
 | 10% off | Maximum shipping cost of $20 |
 | X | 80% off on the shipping cost |
 | X | Nominal discount of $5 |
-| X | Buy the shirt and get a giveaway |
+| X | Buy the shirt and get a gift |
 
 The cart will show a final price of $4.50 for the t-shirt and $0.80 for shipping. The promotion system starts by applying the promotion competition logic:
 
@@ -136,7 +138,7 @@ Therefore, the final amounts for James' purchase are:
 
 - T-shirt: **$4.50**.
 - Shipping cost: **$0.80**.
-- Giveaway for buying the t-shirt.
+- Gift for buying the t-shirt.
 
 #### Example 2
 

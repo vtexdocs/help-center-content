@@ -18,7 +18,9 @@ internalReference: 324792
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El nombre del receptor se reescribe con el nombre del cliente después de recargar la página de pago.

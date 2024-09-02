@@ -25,7 +25,9 @@ A Venda de estoque local permite o vendedor de uma loja física realizar vendas 
 6. [Conectar conta franquia a loja física](#conectar-conta-franquia-a-loja-fisica)
 7. [Integração de ponto de venda](#integracao-de-ponto-de-venda)
 
->ℹ️ A Venda de estoque local só pode ser configurada em lojas que já utilizam o VTEX Sales App. Saiba como contratar e configurar na nossa track [VTEX Sales App - Primeiros passos e configurações](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc).
+<div class="alert alert-info">
+<p>A Venda de estoque local só pode ser configurada em lojas que já utilizam o VTEX Sales App. Saiba como contratar e configurar na nossa track <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc">VTEX Sales App - Primeiros passos e configurações</a>.</p> 
+</div>
 
 ## Criar uma conta franquia
 
@@ -62,7 +64,9 @@ Caso todos os seus produtos estejam listados sem quantidade, será necessário a
 
 Você pode [habilitar venda de item sem estoque](#habilitar-venda-de-item-sem-estoque-opcional), caso você queira garantir que o item em mãos estará sempre disponível para o cliente em loja. 
 
->ℹ️ Caso você tenha criado dois estoques diferentes - um para o ecommerce e outro para o VTEX Sales App -, fique atento para gerenciar corretamente a quantidade de peças para cada um dos estoques.
+<div class="alert alert-info">
+Caso você tenha criado dois estoques diferentes - um para o ecommerce e outro para o VTEX Sales App -, fique atento para gerenciar corretamente a quantidade de peças para cada um dos estoques.
+</div>
 
 ## Conectar conta franquia a loja física
 
@@ -71,11 +75,13 @@ Para garantir que os vendedores da sua loja física tenham acesso correto ao est
 Para isso, escolha um vendedor cadastrado na loja em que deseja testar a Venda em Mãos e siga os passos descritos abaixo. 
 
 1. Com [o registro do vendedor escolhido](https://help.vtex.com/pt/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), acesse a aplicação do VTEX Sales App e faça o login.
-![instore-login-pt](https://images.ctfassets.net/alneenqid6w5/5vKzjuYAYKGIVZz5aOyuPV/9049d57cf49ca1e753b69896ea5f348f/image.png)
+![instore-login-pt](//images.ctfassets.net/alneenqid6w5/5vKzjuYAYKGIVZz5aOyuPV/9049d57cf49ca1e753b69896ea5f348f/image.png)
 2. Busque por um item que existe no estoque da conta franquia cadastrado. Este item deverá estar exibindo a quantidade disponível correspondente ao inventário do seller.
-![instore-pdp-pt](https://images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/861791e5b4f8f2304ae1a5a7ae577ad8/image.png)
+![instore-pdp-pt](//images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/861791e5b4f8f2304ae1a5a7ae577ad8/image.png)
 
->ℹ️ Caso você tenha habilitado estoque infinito, o número exibido será uma quantidade acima de 1 milhão de itens e não será alterado ao realizar uma venda.
+<div class="alert alert-info">
+<p>Caso você tenha habilitado estoque infinito, o número exibido será uma quantidade acima de 1 milhão de itens e não será alterado ao realizar uma venda.</p> 
+</div>
 
 ### Habilitar venda de item sem estoque (opcional)
 
@@ -86,9 +92,9 @@ Você também pode configurar para que a Vendas em Mãos ignore a quantidade do 
 2. Clique no botão <i class="fas fa-cog"></i> engrenagem para editar. 
 3. Selecione a aba **Código**.
 4. Selecione na aba lateral o arquivo `checkout-instore-custom-js`.
-![instore-custom-js-pt](https://images.ctfassets.net/alneenqid6w5/5a70caO8nFFF25CrSXPXkx/6521818abb09e4178491f4598f33c9a0/image.png)
+![instore-custom-js-pt](//images.ctfassets.net/alneenqid6w5/5a70caO8nFFF25CrSXPXkx/6521818abb09e4178491f4598f33c9a0/image.png)
 5. Na chave `window.INSTORE_CONFIG`, adicione a flag `sellWithoutStockInHands: true`.
-![sellWithoutStockInHands-pt](https://images.ctfassets.net/alneenqid6w5/3yfRFSG0QgIwnXvyxwhsLo/14bef6c0a1cbdc5d216b17a49c438c76/image.png)
+![sellWithoutStockInHands-pt](//images.ctfassets.net/alneenqid6w5/3yfRFSG0QgIwnXvyxwhsLo/14bef6c0a1cbdc5d216b17a49c438c76/image.png)
 6. Clique em <i class="fas fa-save"></i> `Salvar`. 
 
 ### Habilitar venda de carrinhos mistos (opcional)

@@ -18,7 +18,9 @@ internalReference: 553456
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A API Get Matched Offers List , documentada aqui: https://developers.vtex.com/vtex-rest-api/reference/getofferslist, não está funcionando corretamente quando o usuário tenta inserir os parâmetros de consulta sugeridos.

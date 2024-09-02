@@ -18,7 +18,9 @@ internalReference: 788145
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El evento productClick considera el Id SKU incorrecto cuando se utiliza el bloque Selector SKU de Resumen de Producto. Siempre utilizará el primer SKU de la lista de productos.

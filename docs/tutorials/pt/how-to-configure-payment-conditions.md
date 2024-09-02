@@ -30,13 +30,15 @@ Uma vez definido a sua afiliação de gateway, para qualquer uma das condições
 
 Além disso, existe a possibilidade de definir se o pagamento será: à vista ou em parcelas, com ou sem juros, ou com [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
 
->⚠️ Quaisquer alterações nas condições de pagamento podem demorar até 10 minutos para aparecerem no checkout da sua loja.
+<div class="alert alert-warning">
+Quaisquer alterações nas condições de pagamento podem demorar até 10 minutos para aparecerem no checkout da sua loja.
+</div>
 
 Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condição de pagamento.
 
 ### À vista
 
-![pagamento-a-vista pt](https://images.ctfassets.net/alneenqid6w5/16U7FyAeXiC88gWCwkKmSU/b07c00338cbbf59430ec4e5a322e0159/pagamento-a-vista.png)
+![pagamento-a-vista pt](//images.ctfassets.net/alneenqid6w5/16U7FyAeXiC88gWCwkKmSU/b07c00338cbbf59430ec4e5a322e0159/pagamento-a-vista.png)
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão __+__.
@@ -48,11 +50,13 @@ Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condiç
 8. No campo __À vista ou parcelado?__, selecione __À vista__.
 9. Clique em __Salvar__.
 
->ℹ️ No Passo 5. você pode escolher outros métodos de pagamento como cartões de débito, cobranded, private, promissórias, boletos, PIX, entre outros.
+<div class="alert alert-info">
+No Passo 5. você pode escolher outros métodos de pagamento como cartões de débito, cobranded, private, promissórias, boletos, PIX, entre outros.
+</div>
 
 ### Parcelado sem juros
 
-![parcelamento-sem-juros pt](https://images.ctfassets.net/alneenqid6w5/5UuCXeD07moeaQiqqmuCMe/05b2cdeeac157859c9ffadce866eaebf/parcelamento-sem-juros.png)
+![parcelamento-sem-juros pt](//images.ctfassets.net/alneenqid6w5/5UuCXeD07moeaQiqqmuCMe/05b2cdeeac157859c9ffadce866eaebf/parcelamento-sem-juros.png)
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão __+__.
@@ -69,7 +73,7 @@ Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condiç
 
 ### Parcelado com juros
 
-![parcelamento-com-juros pt](https://images.ctfassets.net/alneenqid6w5/46wBJ8tCUgCaWmAyOgkycY/cada24446ff801ebffdcf02c5aa4b0e7/parcelamento-com-juros.png)
+![parcelamento-com-juros pt](//images.ctfassets.net/alneenqid6w5/46wBJ8tCUgCaWmAyOgkycY/cada24446ff801ebffdcf02c5aa4b0e7/parcelamento-com-juros.png)
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão __+__.
@@ -87,13 +91,15 @@ Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condiç
 14. Para escolher entre juros compostos e juros simples, clique em __Juros compostos aplicados. Alterar__. Uma caixa de seleção vai aparecer oferecendo as duas opções.
 15. Clique em __Salvar__.
 
-![Juros - pt](https://images.ctfassets.net/alneenqid6w5/6LByLxJORIELFs7gTY3kmA/ce12cf0d03887377566de5eeadd0ed98/Juros_-_pt.png)
+![Juros - pt](//images.ctfassets.net/alneenqid6w5/6LByLxJORIELFs7gTY3kmA/ce12cf0d03887377566de5eeadd0ed98/Juros_-_pt.png)
 
 #### Juros Externos
 
 Em alguns países, os juros das compras parceladas são cobrados diretamente pela instituição financeira. Para estes casos, é possível ativar o botão __Juros Externo__. Este botão preenche com `null` o valor dos juros no JSON enviado para o conector. O valor `null` indica que os juros serão cobrados posteriormente pela instituição financeira. Para ativar esta funcionalidade, clique no botão de __Juros Externo__ na configuração do parcelado com juros.
 
->ℹ️ Atenção: a funcionalidade de juros externos é válida apenas para algumas afiliações de gateway (verifique se esta opção está disponível no momento de cadastrar a afiliação desejada). Os pedidos realizados por afiliações que não suportam esta funcionalidade serão cancelados no sistema.
+<div class="alert alert-info">
+Atenção: a funcionalidade de juros externos é válida apenas para algumas afiliações de gateway (verifique se esta opção está disponível no momento de cadastrar a afiliação desejada). Os pedidos realizados por afiliações que não suportam esta funcionalidade serão cancelados no sistema.
+</div>
 
 ## Remover condição de pagamento
 
@@ -101,5 +107,5 @@ Em alguns países, os juros das compras parceladas são cobrados diretamente pel
 2. Na aba __Condições de Pagamentos__, clique sobre a condição de pagamento que deseja remover.
 3. Clique sobre o ícone de lixeira.
 
-![Remover condição de pagamento](https://images.ctfassets.net/alneenqid6w5/30AGmwCJOclqEqvcNPzuxV/9486e6e1036228c2ad8dfa7d0685768e/remover_condi____o_pagamento.png)
+![Remover condição de pagamento](//images.ctfassets.net/alneenqid6w5/30AGmwCJOclqEqvcNPzuxV/9486e6e1036228c2ad8dfa7d0685768e/remover_condi____o_pagamento.png)
 

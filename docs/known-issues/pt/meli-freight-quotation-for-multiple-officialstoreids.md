@@ -18,7 +18,9 @@ internalReference: 978358
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, temos um problema com a integração do MELI em relação à API de cotação de frete do MELI, que se aplica apenas a vendedores que usam vários officialStoreIDs no MELI, mas usam apenas uma conta na VTEX usando o mesmo sellerID no MELI

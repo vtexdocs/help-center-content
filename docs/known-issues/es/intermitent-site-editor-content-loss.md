@@ -18,7 +18,9 @@ internalReference: 610533
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cada cambio de contenido en el Editor de Sitios inserta cambios en el archivo content.json, que se almacena en un bucket en AWS S3. Algunos clientes han informado de la pérdida de contenido del Editor de Sitios tras algunos procedimientos habituales de actualización de temas.

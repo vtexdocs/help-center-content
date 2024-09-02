@@ -31,7 +31,9 @@ Here are the most common problems that cause SLA errors:
 
 After resolving the error, the order must be manually reprocessed. In your Admin, go to **Marketplace > Connections > Orders** and click on the order with the error. Click on the **Actions** button and choose the **Reprocess** option.
 
->ℹ️ If the error persists, open a [VTEX support ticket](https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM?locale=pt).
+<div class="alert alert-info">
+If the error persists, open a <a href="https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM?locale=pt">VTEX support ticket</a>.
+</div>
 
 ### Learn more
 

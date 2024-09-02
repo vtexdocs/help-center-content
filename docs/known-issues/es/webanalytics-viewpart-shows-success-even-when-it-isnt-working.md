@@ -18,7 +18,9 @@ internalReference: 768059
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, el viewpart de webanalytics no muestra ningún mensaje de error, incluso cuando falla y no entrega contenido de metadatos al usuario.

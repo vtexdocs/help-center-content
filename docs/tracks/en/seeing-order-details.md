@@ -49,7 +49,9 @@ In VTEX platform there is also a feature to unify all email communication with t
 
 All customer data is entered at the time of closing the order and cannot be changed here. To view and manage this data, you can access Master Data.
 
->ℹ️ If your store only acts as a seller of an order, the customer's email will not be displayed. We understand that the customer's relationship is with the marketplace, so it is not advisable to share your data with the seller without prior consent.
+<div class="alert alert-info">
+If your store only acts as a seller of an order, the customer's email will not be displayed. We understand that the customer's relationship is with the marketplace, so it is not advisable to share your data with the seller without prior consent.
+  </div>
 
 ### Total Value
 

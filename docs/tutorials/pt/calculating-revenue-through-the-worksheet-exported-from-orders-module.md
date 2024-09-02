@@ -29,6 +29,8 @@ Para calcular a receita total a partir da planilha, siga os passos abaixo:
 4. Remova todos os valores duplicados da segunda coluna (__Order__). Isto deve ser feito porque, nos casos de compras de mais de um SKU, são geradas diversas linhas para o mesmo pedido - uma para cada SKU.
 5. Some os valores da coluna __Total Value__. Nesta coluna fica o valor total do pedido (ou seja, já considerando todos os SKUs do carrinho).
 
->ℹ️ A soma dos valores da coluna Total Value (após a remoção dos pedidos duplicados) é a receita total obtida com os pedidos selecionados na planilha.
+<div class = "alert alert-info">
+A soma dos valores da coluna Total Value (após a remoção dos pedidos duplicados) é a receita total obtida com os pedidos selecionados na planilha.
+</div>
 
 Para entender cada coluna, veja o artigo [Relatório de pedidos](https://help.vtex.com/pt/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY).

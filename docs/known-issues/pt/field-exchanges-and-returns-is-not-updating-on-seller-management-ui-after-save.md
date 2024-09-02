@@ -1,5 +1,5 @@
 ---
-title: "O campo 'Exchanges and returns' (Trocas e devoluções) não está sendo atualizado na IU de gerenciamento do vendedor após o salvamento"
+title: 'O campo "Exchanges and returns" (Trocas e devoluções) não está sendo atualizado na IU de gerenciamento do vendedor após o salvamento'
 id: 1z8LrsbGk5B2ejZ1PV9vaB
 status: PUBLISHED
 createdAt: 2022-11-01T17:47:30.359Z
@@ -18,7 +18,9 @@ internalReference: 689886
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Depois de salvar o campo "Trocas e devoluções" na interface do usuário, as informações são atualizadas pela primeira vez, mas se tentarmos sair da área de gerenciamento ou atualizar a página, as informações serão perdidas.

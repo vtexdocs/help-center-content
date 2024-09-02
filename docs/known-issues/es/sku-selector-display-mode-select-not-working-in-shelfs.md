@@ -18,7 +18,9 @@ internalReference: 682152
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando eliges una opción diferente de sku en el modo de visualización SELECT en lugar de la predeterminada, sólo muestra "elegir y opción" en lugar de marcar la que eliges. Este comportamiento solo ocurre en estanterias en Firefox.

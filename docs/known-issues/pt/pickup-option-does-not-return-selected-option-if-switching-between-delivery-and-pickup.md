@@ -18,7 +18,9 @@ internalReference: 588394
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o comprador seleciona uma loja para retirada, muda para entrega e acrescenta um novo endereço não disponível para entrega quando devolve para retirada, outra loja retorna selecionada. Se alternarmos entre entrega e coleta, às vezes a loja selecionada aparece inicialmente intercalada com outra loja.

@@ -29,7 +29,7 @@ Siga el siguiente procedimiento para registrar un inventario en su tienda:
 4. Rellene los campos del formulario de inventario. Para entender mejor el significado de cada campo, consulte abajo la sección [Campos de Registro](#campos-de-registro).
 5. Haga clic en el botón **Guardar**
 
-![ES Cadastrar Estoque GIF](https://images.ctfassets.net/alneenqid6w5/29hDNueQOJgRlg6rLIk8T5/ee2fba7fcb9da60690df299825e0cdef/ES_Cadastrar_Estoque_GIF.gif)
+![ES Cadastrar Estoque GIF](//images.ctfassets.net/alneenqid6w5/29hDNueQOJgRlg6rLIk8T5/ee2fba7fcb9da60690df299825e0cdef/ES_Cadastrar_Estoque_GIF.gif)
 
 ### Campos de registro
 
@@ -41,7 +41,9 @@ Siga el siguiente procedimiento para registrar un inventario en su tienda:
 
 ## API REST
 
->⚠️ Las autenticaciones para las llamadas de API REST del módulo de Inventario y Envío  deben realizarse a través de AppKey y AppToken. Para entender más, acceda a  nuestro artículo sobre [cómo generar un Appkey y un AppToken para autenticar sus integraciones](https://help.vtex.com/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones--43tQeyQJgAKGEuCqQKAOI2)
+<div class="alert alert-warning">
+Las autenticaciones para las llamadas de API REST del módulo de Inventario y Envío  deben realizarse a través de AppKey y AppToken. Para entender más, acceda a  nuestro artículo sobre <a href="https://help.vtex.com/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones--43tQeyQJgAKGEuCqQKAOI2">cómo generar un Appkey y un AppToken para autenticar sus integraciones</a>
+</div>
 
 Para registrar un **Inventario** por API, debe enviar un __POST__ para el siguiente  endpoint:
 

@@ -18,7 +18,9 @@ internalReference: 964036
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando os dois pontos de coleta com IDs começam com o mesmo padrão, a interface do usuário do checkout os valida como a mesma loja, mostrando um produto disponível.

@@ -18,7 +18,9 @@ internalReference: 538706
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A função de configurações do CMS não está funcionando como esperado. Às vezes, o usuário não consegue acessar o CMS mesmo depois de ser adicionado à função.

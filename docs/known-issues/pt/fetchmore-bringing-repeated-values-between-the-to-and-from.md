@@ -18,7 +18,9 @@ internalReference: 835396
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A função fetchMore está trazendo entre a primeira e a segunda página alguns valores duplicados e isso faz com que a página exiba repetidamente alguns dos produtos.

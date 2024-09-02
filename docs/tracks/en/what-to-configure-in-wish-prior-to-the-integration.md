@@ -14,7 +14,7 @@ trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugEN: wish-integration
 ---
 
->⚠️ Presently, the Wish app is only available to Brazilian stores.
+<div class="alert alert-warning">Presently, the Wish app is only available to Brazilian stores.</div>
 
 You'll need to prepare your Wish environment before starting the integration with VTEX. The main steps are as follows:
 

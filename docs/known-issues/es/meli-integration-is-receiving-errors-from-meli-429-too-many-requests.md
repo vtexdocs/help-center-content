@@ -1,5 +1,5 @@
 ---
-title: "La integración MELI está recibiendo errores de MELI '429 demasiadas peticiones'"
+title: 'La integración MELI está recibiendo errores de MELI "429 demasiadas peticiones"'
 id: 1e4g9nzZFyanywmLbSHq4D
 status: PUBLISHED
 createdAt: 2023-08-03T10:47:41.602Z
@@ -18,7 +18,9 @@ internalReference: 873998
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

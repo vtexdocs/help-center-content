@@ -15,7 +15,7 @@ legacySlug: setting-up-payment-with-paypal
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
+<div class="alert alert-danger">This payment integration can no longer be configured on the platform due to the <a href="https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14">legacy provider removal process</a> and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.</div>
 
 At VTEX gateway, you can set up the PayPal sub-acquirer to receive your payments. Through it, your customer chooses the PayPal __payment method__ and performs their authentication in the PayPal environment.
 

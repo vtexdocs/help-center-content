@@ -18,7 +18,9 @@ You can export orders through the **All Orders** module in VTEX Admin.
 
 In this process, the system generates a report in .csv format containing details about your store's orders. Find out what information is in the report in [our tutorial on the order spreadsheet fields](https://help.vtex.com/en/tutorial/orders-worksheet--31m1ewsmsEe0WS4So2aGMY).
 
->ℹ️ If the number of orders selected to be exported is very high, it might cause slow performance. Therefore, you can only select a limited number of orders. Currently, exports are limited to **50,000 orders at a time**.
+<div class="alert alert-info">
+<p>If the number of orders selected to be exported is very high, it might cause slow performance. Therefore, you can only select a limited number of orders. Currently, exports are limited to <b>50,000 orders at a time</b>.</p>
+</div>
 
 Follow the instructions below to create the report:
 

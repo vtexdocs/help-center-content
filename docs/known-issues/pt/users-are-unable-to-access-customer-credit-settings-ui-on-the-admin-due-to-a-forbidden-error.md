@@ -18,7 +18,9 @@ internalReference: 380931
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os usuários não podem acessar a interface de configuração de crédito do cliente na interface de administração e observamos o seguinte erro "Proibido" na operação de configuração de consultas.

@@ -22,4 +22,4 @@ Quando um pedido dentro da recorrence falha em ser criado por algum problema rel
 
 Falhas na geração de pedidos recorrentes geram um DO ([VTEX DO](http://help.vtex.com/pt/tutorial/vtex-do "VTEX DO")). Um aviso também é feito quado a recorrência não for gerada por conta de indisponibilidade de itens.
 
-![recorrencia erro vtexdo](https://images.contentful.com/alneenqid6w5/5bW2FX0E24yeiEkWKUimsI/44121ea3f5f90edb0991cab05c54f23f/recorrencia_erro_vtexdo.png)
+![recorrencia erro vtexdo](//images.contentful.com/alneenqid6w5/5bW2FX0E24yeiEkWKUimsI/44121ea3f5f90edb0991cab05c54f23f/recorrencia_erro_vtexdo.png)

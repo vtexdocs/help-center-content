@@ -44,10 +44,12 @@ En el sitio es posible validar si la configuración se ha efectuado correctament
 3. En este momento el tipo de servicio debe estar disponible para selección. El mensaje debe ser escrito en hasta 150 caracteres.
 4. Seleccione el servicio en el carrito y haga clic en el link para agregar mensaje.
 
-![](https://images.contentful.com/alneenqid6w5/3txxLHOWtqguWu4qmAqumA/e68ef2cf4881d3b9a01199244567c790/mensagem-carrinho.png)
+![](//images.contentful.com/alneenqid6w5/3txxLHOWtqguWu4qmAqumA/e68ef2cf4881d3b9a01199244567c790/mensagem-carrinho.png)
 
 Puede ver el mensaje escrito en la página de __Mi Cuenta > Mis Pedidos__:
 
-![](https://images.contentful.com/alneenqid6w5/6h7iGpA880OgaemumSsEiG/10764ef2d3113be498fb24802e5d35c5/mensagem-meus-pedidos.png)
+![](//images.contentful.com/alneenqid6w5/6h7iGpA880OgaemumSsEiG/10764ef2d3113be498fb24802e5d35c5/mensagem-meus-pedidos.png)
 
->ℹ️ Después de configurar el servicio en el SKU aguarde la indexación para que el registro tenga efecto en el sitio. Después de esto ya será posible probar la compra con este servicio activo.
+<div class="alert alert-info">
+  <p>Después de configurar el servicio en el SKU aguarde la indexación para que el registro tenga efecto en el sitio. Después de esto ya será posible probar la compra con este servicio activo.</p>
+</div>

@@ -18,7 +18,9 @@ internalReference: 1032531
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A API de pesquisa inteligente baseia-se principalmente na API de pesquisa de catálogo herdada por motivos de compatibilidade, mas nem todas as propriedades retornam as mesmas informações. Em alguns casos, elas são diferentes ou estão vazias.

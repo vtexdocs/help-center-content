@@ -18,7 +18,9 @@ internalReference: 945580
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la cuenta tiene configurado isMarketplaceResponsibleForTaxes, la solicitud del hub de impuestos no considera algunos tipos de descuento: Nominal, Porcentaje y Precio máximo por artículo. Esto afecta al cálculo de impuestos, y el precio final es más alto de lo esperado.

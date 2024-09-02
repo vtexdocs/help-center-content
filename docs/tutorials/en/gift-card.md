@@ -32,7 +32,9 @@ To create a new gift card, follow the step by step:
   <br>
   <li>Click on the <b>New Gift Card</b> button.</li> 
   <br>
-  >ℹ️ On the gift card creation screen, the **Gift card** field is automatically filled in by the VTEX system with the ID code of the new gift card. This is the code to be entered by the customer on the checkout screen to apply the gift card to the cart and reduce the payment value of the order.
+  <div class = "alert alert-info">
+  <p>On the gift card creation screen, the <b>Gift card</b> field is automatically filled in by the VTEX system with the ID code of the new gift card. This is the code to be entered by the customer on the checkout screen to apply the gift card to the cart and reduce the payment value of the order.</p>
+</div>
 <br>
   <li>Fill in the fields that will be displayed as explained below:</li>
   <br>
@@ -44,9 +46,13 @@ To create a new gift card, follow the step by step:
   <li><b>Collection</b>: identifies the product collection that defines the items to which the voucher can be applied.</li>
 </ul><br>
 
->⚠️ **Warning**: The “Value” and the “Expiration Date” fields are **mandatory**. If you do not fill them, the purchase voucher will not be saved.
+<div class="alert alert-warning">
+<strong>Warning</strong>: The “Value” and the “Expiration Date” fields are <strong>mandatory</strong>. If you do not fill them, the purchase voucher will not be saved.
+</div>
 
->❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank).
+<div class="alert alert-danger">
+The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
+</div>
 
 After filling in the fields correctly, the user can select up to three configuration options:
 <ul>
@@ -57,7 +63,9 @@ After filling in the fields correctly, the user can select up to three configura
 <br>
   <li>Finally, click on the <b>Save</b> button.</li>
 <br>
->ℹ️ There is no limit to the creation of gift cards, however only 8000 gift cards can be exported at a time.
+<div class="alert alert-info">
+There is no limit to the creation of gift cards, however only 8000 gift cards can be exported at a time.
+</div>
 
 </ol>  
 
@@ -78,9 +86,12 @@ To create more than one new voucher at the same time (a batch), follow the step 
   <li><b>Expiration Date</b>: this is the effective date for using all vouchers of this batch.</li>
   <li><b>Collection</b>: identifies the product collection that defines the items to which the vouchers can be applied.</li>
 <br>
->⚠️ **Warning**: The “Number of gift cards”, “Value” and the “Expiration Date” fields are **mandatory**. If you don’t fill them, the purchase vouchers will not be saved.
+<div class="alert alert-warning">
+<strong>Warning</strong>: The “Number of gift cards”, “Value” and the “Expiration Date” fields are <strong>mandatory</strong>. If you don’t fill them, the purchase vouchers will not be saved.</div>
 <br>
->❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank).
+<div class="alert alert-danger">
+The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
+</div>
 <br>
   <li><b>Reloadable</b>: while these vouchers are available, their balances can be changed;</li>
   <li><b>Reusable</b>: it will be possible to make new purchases with these vouchers until their values are fully used.</li>
@@ -91,7 +102,9 @@ A new screen will appear confirming that the requested number of vouchers has be
 <br>
   <li>To end, click on the <b>Back</b> button.</li>
 <br>
->ℹ️ There is no limit to the creation of gift cards, however only 8000 gift cards can be exported at a time.
+<div class="alert alert-info">
+There is no limit to the creation of gift cards, however only 8000 gift cards can be exported at a time.
+</div>
 </ol>
 
 ## How to set a Gift Card as a payment method

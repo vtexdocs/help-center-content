@@ -18,7 +18,9 @@ internalReference: 797028
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Etiquetas brancas de vendedores diferentes podem ser selecionadas para atender aos produtos ao usar endereços diferentes para entrega e coleta. Quando a opção de retirada é selecionada e, ao mudar para entrega, a interface do usuário considera apenas os itens disponíveis para calcular o novo SLA para entrega, mesmo que os produtos estejam disponíveis. O preço de entrega considerará apenas os itens selecionados disponíveis para retirada.

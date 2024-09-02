@@ -18,7 +18,9 @@ internalReference: 844893
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando a conta tiver configurado a possibilidade de o comprador alterar o pedido por conta própria, o link de alteração de pedido aparecerá no modelo checkout/orderPlaced.

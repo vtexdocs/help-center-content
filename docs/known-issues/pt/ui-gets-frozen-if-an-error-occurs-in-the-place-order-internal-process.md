@@ -18,7 +18,9 @@ internalReference: 943771
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando ocorre um erro durante o processo interno de colocação de pedido, a interface do usuário fica congelada no carregamento sem nenhuma mensagem de erro/aviso.

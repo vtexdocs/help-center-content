@@ -18,7 +18,9 @@ internalReference: 424902
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para algumas contas com muitos produtos, o administrador de importação e exportação não é carregado, gerando um tempo limite

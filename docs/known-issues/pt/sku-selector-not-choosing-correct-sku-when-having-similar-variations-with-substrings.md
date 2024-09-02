@@ -18,7 +18,9 @@ internalReference: 1047992
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando houver uma substring da variação na SKU escolhida em outra variação disponível, talvez não selecionemos a SKU escolhida

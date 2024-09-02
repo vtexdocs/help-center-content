@@ -18,7 +18,9 @@ internalReference: 1070299
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando ejecutamos un `change V2` eliminando o añadiendo un ítem a un pedido, creamos un cambio en la lista de ítems del pedido, que puede aumentar o disminuir el número de índices de la lista de ítems en el json. Este cambio, a su vez, puede no ser consumido por todas las apps o bases de datos implicadas en la gestión del pedido, como la app notificadora de facturas;

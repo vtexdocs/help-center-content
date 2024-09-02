@@ -23,4 +23,6 @@ Esta información se guarda en el perfil del cliente y se muestra en el boleto r
 
 Por su cuenta, el login se solicita tanto en el momento de __elegir el boleto registrado como medio de pago__ cuanto para __bajar el boleto en la página de cierre de compra (order placed)__.
 
->ℹ️ La autenticación se requiere sólo a partir de la segunda compra. Como en la primera compra los datos se guardan por primera vez, no hay necesidad de autenticación. El boleto registrado será emitido con los datos informados en esta primera compra y solamente la persona que llenó las informaciones tendrá acceso a ellas.
+<div class="alert alert-info">
+La autenticación se requiere sólo a partir de la segunda compra. Como en la primera compra los datos se guardan por primera vez, no hay necesidad de autenticación. El boleto registrado será emitido con los datos informados en esta primera compra y solamente la persona que llenó las informaciones tendrá acceso a ellas.
+</div>

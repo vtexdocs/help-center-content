@@ -18,7 +18,9 @@ internalReference: 893588
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O conflito de regex nos faz identificar incorretamente a marca dos cartões no checkout.

@@ -14,14 +14,16 @@ trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugES: logistica-101
 ---
 
->ℹ️ Aviso: Esta documentación está siendo actualizada con el fin de reflejar el cambio del concepto de Paneles a [Estrategia de Envío](https://help.vtex.com/es/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl).
+<div class="alert alert-info">
+Aviso: Esta documentación está siendo actualizada con el fin de reflejar el cambio del concepto de Paneles a <a href="https://help.vtex.com/es/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">Estrategia de Envío</a>.
+</div>
 
 El módulo __Inventario y Envío__ es el servicio responsable de la *logística* de su tienda. Es en este sistema donde usted registrará los datos de las __rutas logísticas__ que realizan la entrega de sus pedidos. Además, es en este módulo que debe hacer la __gestión de inventario__, registrar los __precios de flete__ y el __plazo__ para cada tipo de entrega.
 
 El sistema de logística tiene diversas funcionalidades útiles. Estas *features* le permiten crear una estrategia de inventario y envío que se adecue mejor a su negocio. En los próximos pasos de esta guía, veremos cómo utilizar cada una de las funcionalidades que se muestran a continuación. En el Admin de su tienda, encontrará las siguientes secciones:
 
 
-![inventory-shipping-admin-es](https://images.ctfassets.net/alneenqid6w5/jUIsT8CjbAP2O637yW3Mu/d68d30481a1e37d708a92881a227fb52/inventory-shipping-admin-es.png)
+![inventory-shipping-admin-es](//images.ctfassets.net/alneenqid6w5/jUIsT8CjbAP2O637yW3Mu/d68d30481a1e37d708a92881a227fb52/inventory-shipping-admin-es.png)
 
 __Estrategia de Envío__ (Paneles) - En esta sección, debe registrar las rutas logísticas que realizan la entrega de sus pedidos. Una ruta básica se compone de un __stock__, un __muelle__ y una __política de envío__ (transportadora).
 

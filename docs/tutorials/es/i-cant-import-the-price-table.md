@@ -19,7 +19,9 @@ __Tags/Palavras clave__: *plantilla de precios, importación de plantillas, celd
 
 Las [tablas o plantillas de precio](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) almacenan información de SKU que tras aplicarse en determinados contextos, como políticas comerciales, promociones o clústeres de clientes, permiten calcular los valores de venta de los productos en una tienda VTEX. Para más información, consulta [Precio base](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) y [Precio fijo](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy).
 
->⚠️ No se puede importar una plantilla de **precio calculado** en el Admin VTEX. Solo se permite **exportar** esta plantilla para que el retailer pueda consultar los valores de precio final de cada producto.
+<div class ="alert alert-warning">
+  No se puede importar una plantilla de <b>precio calculado</b> en el Admin VTEX. Solo se permite <b>exportar</b> esta plantilla para que el retailer pueda consultar los valores de precio final de cada producto.
+</div>
 
 Tras [importar una plantilla de precios](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D) pueden aparecer algunos mensajes de error en algunos SKU según los ejemplos a continuación:
 
@@ -48,14 +50,18 @@ Comprueba que los campos de tu plantilla estén rellenados según las guías de 
 - [Plantilla de precios base](https://help.vtex.com/es/tutorial/tabla-de-precios-base--4Jox8TeQ5feqAn78TZ0DNA)
 - [Plantilla de precios fijos](https://help.vtex.com/es/tutorial/rellenar-campos-de-la-plantilla-de-importacion-de-precios-fijos--50RFoH3ruV97FJgeBUCURh)
 
->⚠️ Antes de importar la plantilla en el Admin VTEX, comprueba que no contenga columnas con información de errores (**Error Code** y **Error Message**) ni que tenga algún tipo de filtro aplicado en las celdas. Si intentas importar una plantilla así, pueden generarse errores en el proceso de importación de datos.
+<div class ="alert alert-warning">
+  Antes de importar la plantilla en el Admin VTEX, comprueba que no contenga columnas con información de errores (<b>Error Code</b> y <b>Error Message</b>) ni que tenga algún tipo de filtro aplicado en las celdas. Si intentas importar una plantilla así, pueden generarse errores en el proceso de importación de datos.
+</div>
 
 Ejemplo de plantilla con filtros aplicados y con los campos __Error Code__ y __Error Messages__:
 
-![Hoja de precios](https://images.ctfassets.net/alneenqid6w5/1r7FGH4sdfT0uzCUX4T07y/2412a0609e152f55f147e4c05e76e2be/Price_spreadsheet.PNG)
+![Hoja de precios](//images.ctfassets.net/alneenqid6w5/1r7FGH4sdfT0uzCUX4T07y/2412a0609e152f55f147e4c05e76e2be/Price_spreadsheet.PNG)
 
 #### Tamaño de archivo
 
 Las plantillas de precios no deben exceder el límite de tamaño máximo de 1 megabyte (1 MB). Si tu plantilla excede el límite de tamaño, divide los datos en plantillas de menos de 1 megabyte (1 MB).
 
->⚠️ Todos los datos de un SKU específico deben mantenerse en la misma plantilla. No se permite registrar información del mismo SKU en plantillas diferentes.
+<div class ="alert alert-warning">
+  Todos los datos de un SKU específico deben mantenerse en la misma plantilla. No se permite registrar información del mismo SKU en plantillas diferentes.
+</div>

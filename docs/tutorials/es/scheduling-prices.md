@@ -48,7 +48,9 @@ Para hacer la programación por el Admin, siga los pasos a continuación.
 - **Fecha de término:** indica el día a partir del cual el precio fijo dejará de ser válido. 
 - **Hora de término:** indica la hora a partir de la cual el precio fijo dejará de ser válido. 
 
->ℹ️ En la programación realizada a través del Admin, la zona horaria considerada será la utilizada por el computador del usuario.
+<div class="alert alert-info">
+  <p>En la programación realizada a través del Admin, la zona horaria considerada será la utilizada por el computador del usuario.</p>
+</div>
 
 ## Programación mediante la importación de una plantilla de precios fijos
 
@@ -56,7 +58,7 @@ También puede hacer la programación de precios importando una plantilla de pre
 
 1. En el Admin VTEX, accede a *Precios > Lista de precios* , o escribe *Lista de precios* en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en el ícono 📥 para exportar la plantilla que se rellenará.
-![Agendar preço fixo - ES](https://images.contentful.com/alneenqid6w5/71nENEY0RAQO9VKRdlQRiG/815eca5b71065052b89c8411af1a7329/image.png)
+![Agendar preço fixo - ES](//images.contentful.com/alneenqid6w5/71nENEY0RAQO9VKRdlQRiG/815eca5b71065052b89c8411af1a7329/image.png)
 3. Seleccione solo la opción **Tabla de precios fijos**.
 4. Haga clic en `Exportar 1 tabla`.
 
@@ -70,7 +72,7 @@ La plantilla se enviará a su email y podrá descargarla allí. Después de desc
 - **Date From:** la fecha y la hora de inicio, en formato [RFC3339](https://www.ietf.org/rfc/rfc3339.txt), de la programación del precio fijo. 
 - **Date To:** la fecha y la hora de término, en formato [RFC3339](https://www.ietf.org/rfc/rfc3339.txt), de la programación del precio fijo. 
 
-![Agendar preço fixo planilha PT](https://images.contentful.com/alneenqid6w5/7g3wkpsDPcdjYHT2xSqGhS/1895766def1ed02971f47f003d115491/Screenshot_2021-08-05_at_17-17-11_-EDU-4229-_Agendar_pre__o_fixo.png)
+![Agendar preço fixo planilha PT](//images.contentful.com/alneenqid6w5/7g3wkpsDPcdjYHT2xSqGhS/1895766def1ed02971f47f003d115491/Screenshot_2021-08-05_at_17-17-11_-EDU-4229-_Agendar_pre__o_fixo.png)
 
 Una vez que haya terminado de rellenar la plantilla, debe importarla a la tienda. Siga los pasos a continuación.
 

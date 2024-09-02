@@ -18,7 +18,9 @@ internalReference: 362165
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El acceso al módulo de catálogos también da acceso al módulo de tarjetas de regalo a través de la interfaz de usuario.

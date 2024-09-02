@@ -18,7 +18,9 @@ internalReference: 404499
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si el producto está agotado en el mercado, en cualquier otro vendedor habitual y la bandera **mostrar agotado** está desmarcada, el producto se mostrará agotado en el portal aunque tenga stock en las cuentas de las franquicias. Es posible añadir el producto a la cesta.

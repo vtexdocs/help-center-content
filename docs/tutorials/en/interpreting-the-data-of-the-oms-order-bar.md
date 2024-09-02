@@ -26,7 +26,7 @@ The following data set is displayed on the __All orders__ screen in the __Orders
 
 Alongside each of these values, a percentage representing the variation against today's orders will appear.
 
-![order-metric-en](https://images.ctfassets.net/alneenqid6w5/6gLFOziUnYEGuyU6S8iUuA/58c55d9286f28db09faf423fa6c5d2da/order-metric-en.png)
+![order-metric-en](//images.ctfassets.net/alneenqid6w5/6gLFOziUnYEGuyU6S8iUuA/58c55d9286f28db09faf423fa6c5d2da/order-metric-en.png)
 
 In the screenshot of the metrics above, the following information will be displayed:
 
@@ -35,7 +35,9 @@ In the screenshot of the metrics above, the following information will be displa
 - On the same day last week, the store received 1856 orders until 8:50 p.m.;
 - Finally, compared to one year ago, there was a significant increase in the number of orders: on the same day last year, until the same time, the store received 1425 orders, against 2464 this year.
 
->ℹ️ The calculation of orders placed in the **last year** is done by subtracting 52 weeks from the current day. This keeps the reference to same the day of the week. For example: November 24/2017 will be compared with November 25/2016, where both dates are on a Friday.
+<div class="alert alert-info">
+The calculation of orders placed in the <b>last year</b> is done by subtracting 52 weeks from the current day. This keeps the reference to same the day of the week. For example: November 24/2017 will be compared with November 25/2016, where both dates are on a Friday.
+</div>
 
 The ranking containing these data is placed on the right corner of the bar, and it shows the position of the store among all VTEX stores. The metrics on its side indicates the evolution between yesterday and today. 
 

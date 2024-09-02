@@ -16,11 +16,15 @@ trackSlugPT: instore-primeiros-passos-e-configuracoes
 
 O VTEX Sales App é um dos principais produtos da VTEX para operações de [Comércio Unificado](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). Ele é um aplicativo que permite à sua loja oferecer uma experiência omnichannel real, integrando seus canais online e físicos e colocando seus clientes no centro do negócio.
 
->ℹ️ Verifique se a sua loja cumpre todos os [pré-requisitos para usar o VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u) antes de começar a utilizá-lo.
+<div class="alert alert-info">
+<p>Verifique se a sua loja cumpre todos os <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u">pré-requisitos para usar o VTEX Sales App</a> antes de começar a utilizá-lo.</p>
+</div>
 
 Para utilizar o VTEX Sales App, você precisa seguir os passos descritos a seguir na sua conta principal.
 
->⚠️ Não é necessário instalar ou configurar o VTEX Sales App nas contas franquias que representam lojas físicas. Você deve realizar o procedimento descrito neste artigo apenas na conta principal da marca.
+<div class="alert alert-warning">
+<p> Não é necessário instalar ou configurar o VTEX Sales App nas contas franquias que representam lojas físicas. Você deve realizar o procedimento descrito neste artigo apenas na conta principal da marca.</p>
+</div>
 
 ## Instalar o VTEX Sales App
 
@@ -50,7 +54,7 @@ Após a instalação você vai realizar as configurações básicas do aplicativ
 
 ### Cadastre o endereço da loja
 
-![cadastrar-loja-pt](https://images.contentful.com/alneenqid6w5/51ICHIzuWsMAwPCVwQuQoB/071ec5240f968e662badf4e828954072/cadastrar-loja-pt.png)
+![cadastrar-loja-pt](//images.contentful.com/alneenqid6w5/51ICHIzuWsMAwPCVwQuQoB/071ec5240f968e662badf4e828954072/cadastrar-loja-pt.png)
 
 Nesta tela, informe o nome da primeira loja física onde o VTEX Sales App será utilizado e o endereço completo da loja. Quando tiver preenchido todos os campos, clique em `Confirmar`.
 
@@ -60,11 +64,13 @@ Se você optar por `Pular este passo`, uma loja fictícia será criada para fins
 
 ### Registre o email e nome do vendedor
 
-![registrar-vendedor-pt](https://images.contentful.com/alneenqid6w5/5PvZutdPYWkm7rj4HCrlPC/0316ea7fd74dae942a64e5fdb22f3807/registrar-vendedor-pt.png)
+![registrar-vendedor-pt](//images.contentful.com/alneenqid6w5/5PvZutdPYWkm7rj4HCrlPC/0316ea7fd74dae942a64e5fdb22f3807/registrar-vendedor-pt.png)
 
 Você precisa definir um email e um nome para serem usados como credenciais de login de um vendedor. Quando estiver pronto, clique em `Confirmar`.
 
->⚠️ O email registrado nesta tela **não** pode ser um email já em uso no Admin da plataforma VTEX. Use emails de vendedores que não possuem acesso ao Admin.
+<div class="alert alert-warning">
+<p>O email registrado nesta tela <strong>não</strong> pode ser um email já em uso no Admin da plataforma VTEX. Use emails de vendedores que não possuem acesso ao Admin.</p>
+</div>
 
 Nesta etapa, você registra apenas um de seus vendedores. Após as configurações básicas, você poderá [adicionar outros vendedores](https://help.vtex.com/pt/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
 
@@ -74,7 +80,7 @@ Se você optar por `Pular este passo`, um vendedor fictício será criado com o 
 
 O próximo passo é configurar os meios de pagamento que você vai aceitar no inStore. Ative as opções desejadas utilizando o botão <i class="fas fa-toggle-on"></i>, conforme ilustrado abaixo.
 
-![configurar-meios-de-pagamento-pt](https://images.contentful.com/alneenqid6w5/3kjTg7Y2tUI5UErQBsGc02/5174724afd2987a4b8f578c1d74b87b9/configurar-meios-de-pagamento-pt.gif)
+![configurar-meios-de-pagamento-pt](//images.contentful.com/alneenqid6w5/3kjTg7Y2tUI5UErQBsGc02/5174724afd2987a4b8f578c1d74b87b9/configurar-meios-de-pagamento-pt.gif)
 
 Existem duas opções:
 
@@ -83,7 +89,7 @@ Existem duas opções:
 
 Após selecionar as opções desejadas, clique em `Confirmar`. Você verá a mensagem de confirmação abaixo.
 
-![sucesso-instore-pt](https://images.contentful.com/alneenqid6w5/nVSjiQuE0EXIYecELJJFQ/79a0d24adb51e7ad68f371afe5ca0491/sucesso-instore-pt.png)
+![sucesso-instore-pt](//images.contentful.com/alneenqid6w5/nVSjiQuE0EXIYecELJJFQ/79a0d24adb51e7ad68f371afe5ca0491/sucesso-instore-pt.png)
 
 ## Configurar condições de pagamento
 

@@ -22,7 +22,9 @@ To determine SLA violations, i.e. to account for platform downtime, we consider 
 - Interruptions in the online store that significantly affect the number of orders placed, for example: store outage, slow access, checkout failure.
 - Interruptions lasting at least 10 minutes.
 
->⚠️ We do not count scheduled maintenance as downtime.
+<div class="alert alert-warning">
+  <p>We do not count scheduled maintenance as downtime.</p>
+</div>
 
 ### Checking VTEX status
 

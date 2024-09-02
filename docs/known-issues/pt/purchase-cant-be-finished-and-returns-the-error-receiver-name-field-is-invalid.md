@@ -1,5 +1,5 @@
 ---
-title: "A compra não pode ser concluída e retorna o erro 'o campo do nome do receptor é inválido'."
+title: 'A compra não pode ser concluída e retorna o erro "o campo do nome do receptor é inválido".'
 id: 6ALBFvGzD0SiSuttfXPiQo
 status: PUBLISHED
 createdAt: 2022-05-12T14:53:10.287Z
@@ -18,7 +18,9 @@ internalReference: 313945
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um grande volume de erros no processo de criação de um pedido com a mensagem "_O campo do nome do receptor no anexo de envio é inválido_". Parece ser algo relacionado à nossa IU de checkout. Não temos recursos para entender o quanto isso está realmente afetando ou bloqueando as vendas.

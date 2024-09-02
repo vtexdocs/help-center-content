@@ -18,7 +18,9 @@ internalReference: 862626
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O uso constante de algumas APIs de catálogo, como "Add SKU to Subcollection" (Adicionar SKU à subcoleção) ou a tentativa de vincular produtos por meio do módulo de sugestões pode causar erros de bloqueio para o comerciante.

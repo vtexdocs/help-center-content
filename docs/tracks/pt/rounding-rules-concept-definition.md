@@ -3,8 +3,8 @@ title: 'Arredondamento de Preços- Definição de conceito'
 id: 1tUIUvF6BUkDgMsknGaMkF
 status: PUBLISHED
 createdAt: 2019-07-04T13:53:48.537Z
-updatedAt: 2020-08-31T20:07:41.201Z
-publishedAt: 2020-08-31T20:07:41.201Z
+updatedAt: 2024-08-27T17:14:21.711Z
+publishedAt: 2024-08-27T17:14:21.711Z
 firstPublishedAt: 2019-07-17T19:47:01.156Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -29,6 +29,8 @@ O preço psicológico depende de três condições para que uma nova regra seja 
 - O intervalo de preços
 - O número de dígitos que serão arredondados
 - Os métodos de arredondamento.  
+
+As regras de arredondamento de preços são aplicáveis apenas ao valor inicial do produto antes da aplicação de qualquer desconto ou promoção (preço base). Não se aplicam a preços fixos e promoções. Nesses casos, os valores são considerados finais e exatos, sendo exibidos aos clientes exatamente como foram definidos, sem qualquer ajuste adicional.
 
 ## Intervalo de preços
 

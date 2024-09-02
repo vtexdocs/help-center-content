@@ -56,7 +56,8 @@ O relatório contém informações sobre o último acesso, e status do usuário 
 
 ## Redefinir senha de acesso
 
->⚠️ Você não poderá escolher uma nova senha. Se optar por resetar a senha de acesso, o sistema irá gerar uma senha aleatória para o usuário.
+<div class="alert alert-warning">Você não poderá escolher uma nova senha. Se optar por resetar a senha de acesso, o sistema irá gerar uma senha aleatória para o usuário.
+</div>
 
 1. Acesse o módulo **Configurações da Conta**.  
 2. Acesse a aba **Usuários**.  

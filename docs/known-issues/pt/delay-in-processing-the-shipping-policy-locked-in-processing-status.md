@@ -1,5 +1,5 @@
 ---
-title: "Atraso no processamento da política de expedição (bloqueado no status 'processamento')"
+title: 'Atraso no processamento da política de expedição (bloqueado no status "processamento")'
 id: 5wl2TdIbyQeCF8eoo5oYKl
 status: PUBLISHED
 createdAt: 2022-05-17T17:26:58.778Z
@@ -18,7 +18,9 @@ internalReference: 396914
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao carregar uma planilha e depois clicar em "salvar mudanças" nas configurações da política de expedição, a planilha precisa ser processada por nosso módulo de Logística. O tempo de processamento pode variar de acordo com o tamanho do arquivo, mas normalmente leva alguns minutos. Em alguns casos, o tempo de processamento pode levar até algumas horas ou até dias, e o status permanece bloqueado no "processamento".

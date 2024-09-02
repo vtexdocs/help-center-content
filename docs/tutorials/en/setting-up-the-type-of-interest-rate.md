@@ -25,7 +25,7 @@ The payment method's ID can be configured to have Simple Interest Rates and is o
 - Select the Payment Condition that should be configured to use Simple Interest Rates
 - Copy the last URL parameter, which shows the ID of this Payment Method (see image)
 
-![ENjuros](https://images.ctfassets.net/alneenqid6w5/27ScAtFzUYwYm8y5zGqsEP/ae3915ad736e96121017aba11d87a522/ENjuros.png)
+![ENjuros](//images.ctfassets.net/alneenqid6w5/27ScAtFzUYwYm8y5zGqsEP/ae3915ad736e96121017aba11d87a522/ENjuros.png)
 
 ## Setting up the interest rate type using API
 
@@ -41,4 +41,6 @@ The reply that the "GET Rule by ID" call returns will be the request of the ther
 
 https://developers.vtex.com/reference/configuration-1#putrulebyid
 
->❗ IMPORTANT: At present, the only way to change a payment method is through API. Should it be necessary to change the payment method by using the user interface, the setup process through API would have to be repeated, since when saving the changes, the value will be considered empty by default.
+<div class="alert alert-danger">
+IMPORTANT: At present, the only way to change a payment method is through API. Should it be necessary to change the payment method by using the user interface, the setup process through API would have to be repeated, since when saving the changes, the value will be considered empty by default.
+</div>

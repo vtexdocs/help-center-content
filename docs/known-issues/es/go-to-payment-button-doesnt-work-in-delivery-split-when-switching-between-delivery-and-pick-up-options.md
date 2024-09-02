@@ -1,5 +1,5 @@
 ---
-title: "El botón 'Ir al pago' no funciona en la división de entrega cuando se cambia entre las opciones de Entrega y Recogida."
+title: 'El botón "Ir al pago" no funciona en la división de entrega cuando se cambia entre las opciones de Entrega y Recogida.'
 id: 4VDxpsWl6N0SjriaqUtXG9
 status: PUBLISHED
 createdAt: 2023-02-17T18:03:49.526Z
@@ -18,7 +18,9 @@ internalReference: 756587
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En un carrito con al menos 2 productos en el que hay una división de entrega en la que uno de los artículos está disponible para recogida y el otro sólo para entrega programada, la interfaz de usuario no permitirá ir al paso de pago cuando cambie entre las opciones de recogida y entrega si el primer artículo del carrito es el que tiene entrega programada.

@@ -21,7 +21,9 @@ Se você estiver procurando mais detalhes sobre o __gateway__ CyberSource, leia 
 
 ## Configurar antifraude CyberSource
 
->ℹ️ Cada loja deve ter somente um Device Fingerprint cadastrado. Verifique se você já efetuou o cadastro do Device Fingerprint em outro conector, antes de efetuar o Passo 6. desta seção.
+<div class="alert alert-info">
+Cada loja deve ter somente um Device Fingerprint cadastrado. Verifique se você já efetuou o cadastro do Device Fingerprint em outro conector, antes de efetuar o Passo 6. desta seção.
+</div>
 
 1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
 2. Na tela de provedores, clique no botão `Novo provedor`.
@@ -50,4 +52,6 @@ Depois de configurar o antifraude da CyberSource, ele vai estar disponível para
 6. Selecione a CyberSource.
 7. Clique em `Salvar`.
 
->⚠️ Para que uma transação passe pela análise do antifraude, **a condição de pagamento utilizada pelo cliente precisa estar associada a ele**.
+<div class="alert alert-warning">
+Para que uma transação passe pela análise do antifraude, <strong>a condição de pagamento utilizada pelo cliente precisa estar associada a ele</strong>.
+</div>

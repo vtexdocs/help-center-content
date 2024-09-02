@@ -18,7 +18,9 @@ internalReference: 940998
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un sku falla las reglas de Calidad de Oferta creadas por el Marketplace, va directamente a la "Pestaña de Revisión" o "Pestaña de Rechazados" de Skus Recibidos.

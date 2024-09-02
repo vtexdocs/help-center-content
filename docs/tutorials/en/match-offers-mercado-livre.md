@@ -15,4 +15,6 @@ legacySlug: match-offers-mercado-livre
 subcategory: 
 ---
 
->⚠️ This is a regional exclusive content not applicable to English speaking countries. 
+<div class="alert alert-warning">
+This is a regional exclusive content not applicable to English speaking countries.
+  </div> 

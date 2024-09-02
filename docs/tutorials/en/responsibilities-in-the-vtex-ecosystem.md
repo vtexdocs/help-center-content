@@ -30,7 +30,7 @@ During the initial setup on VTEX, if your store uses[ external integrations with
 
 Once the initial product, price, and inventory integration has been set up and the middleware built, the information flow will be as shown in the diagram below.
 
-![back-office-en](https://images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/1d2fe04cb3d2bd6c09b2fd000544d3e4/back-office-en.PNG)
+![back-office-en](//images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/1d2fe04cb3d2bd6c09b2fd000544d3e4/back-office-en.PNG)
 
 During routine operations, responsibilities are divided as follows:
 
@@ -162,7 +162,9 @@ Even so, there may be strategic partner stores for your business that operate ou
 
 For merchants operating in this scenario, it's important to understand the responsibilities of each player involved in the operation, as detailed below.
 
->⚠️ The following sections consider a store already integrated with an external marketplace via an external connector. Learn how to integrate your VTEX Catalog with an external connector for the first time, go to the [Catalog Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word) guide.
+<div class="alert alert-warning">
+  <p>The following sections consider a store already integrated with an external marketplace via an external connector. Learn how to integrate your VTEX Catalog with an external connector for the first time, go to the <a href="https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Catalog Integration</a> guide.</p>
+</div>
 
 ### Updating or sending new products and SKUs
 
@@ -194,6 +196,6 @@ To understand the right support to request in case of issues with updating the o
 2. Click the desired order to go to the [order details page](https://help.vtex.com/en/tutorial/order-details-page--2Y75n54Cc9VizrlG1N6ZNl).
 3. In the **Order History** section, click `View Interactions` (button illustrated below) and check for any error messages.
 
-![view-interactions-en](https://images.ctfassets.net/alneenqid6w5/2A2368gEpzx8T1VnDXsQ2C/0f0830c6ea1439877301be64f17c0ccf/view-interactions-en.png)
+![view-interactions-en](//images.ctfassets.net/alneenqid6w5/2A2368gEpzx8T1VnDXsQ2C/0f0830c6ea1439877301be64f17c0ccf/view-interactions-en.png)
 
 If the error message does not provide sufficient information, the merchant can contact [VTEX Support](https://help.vtex.com/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe), providing the interaction screen and order ID as evidence, and our team of experts will help identify the source of the issue.

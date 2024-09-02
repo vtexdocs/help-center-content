@@ -1,10 +1,10 @@
 ---
 title: 'VTEX Ad Network (Beta)'
 id: 2cgqXcBuJmXN2livQvClur
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-04-23T17:38:07.378Z
-updatedAt: 2024-07-05T13:14:45.135Z
-publishedAt: 2024-07-05T13:13:03.955Z
+updatedAt: 2024-08-09T21:21:48.620Z
+publishedAt: 2024-08-09T21:21:48.620Z
 firstPublishedAt: 2024-04-23T19:11:42.313Z
 contentType: tutorial
 productTeam: Others
@@ -15,7 +15,9 @@ legacySlug: vtex-ad-network-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
->ℹ️ VTEX Ad Network se encuentra en fase beta, lo que significa que estamos trabajando para mejorarlo. Si ya eres cliente de VTEX y deseas adoptar esta funcionalidad para tu negocio, por favor, póngate en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Si aún no es cliente pero estás interesado(a) en esta solución, por favor, completa el [formulario de contacto](https://vtex.com/co-es/contacto/).
+<div class = "alert alert-info">
+<p>VTEX Ad Network se encuentra en fase beta, lo que significa que estamos trabajando para mejorarlo. Si ya eres cliente de VTEX y deseas adoptar esta funcionalidad para tu negocio, por favor, póngate en contacto con el <a href="https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Soporte Comercial</a>. Si aún no es cliente pero estás interesado(a) en esta solución, por favor, completa el <a href="https://vtex.com/co-es/contacto/">formulario de contacto</a>.</p>
+</div>
 
 **VTEX Ad Network** conecta a retailers VTEX con marcas interesadas en anunciar sus productos. Con esta conexión, anunciantes y retailers VTEX pueden impulsar su negocio:
 
@@ -43,7 +45,7 @@ Actualmente, VTEX ofrece un único formato de anuncio: productos patrocinados. E
 
 Consulta a continuación un ejemplo del modo de exhibición de este formato:
 
-![vtex_ad_network_sponsored_ES](https://images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/bfec823e3960cac69bf878395437cdec/vtex_ad_network_sponsored.png)
+![vtex_ad_network_sponsored_ES](//images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/bfec823e3960cac69bf878395437cdec/vtex_ad_network_sponsored.png)
 
 Los retailers participantes en **VTEX Ad Network** podrán [configurar la cantidad de espacios para anuncios](https://help.vtex.com/es/tutorial/anunciando-com-vtex-ad-network-beta--5WoXcJzHc7EQElpPjziqse#crear-campana) que disponibilizarán en cada uno de estos contextos en la tienda.
 
@@ -70,7 +72,9 @@ Este proceso de priorización se desarrolla en tres etapas:
 
 Una vez determinados los anuncios que se muestran en la página, se determina el valor de las ofertas. La oferta ganadora de la subasta tendrá el valor final de la segunda mayor oferta más USD 0.01.
 
->❗ Puede ocurrir que no se seleccione ningún anuncio con el proceso de priorización si no hay productos promocionados que se ajusten al contexto de navegación, a la cobertura de la tienda o que no tienen presupuesto disponible.
+<div class="alert alert-danger">
+Puede ocurrir que no se seleccione ningún anuncio con el proceso de priorización si no hay productos promocionados que se ajusten al contexto de navegación, a la cobertura de la tienda o que no tienen presupuesto disponible.
+</div>
 
 ### Nivel de calidad
 
@@ -105,7 +109,9 @@ Consulta a continuación cómo puedes formar parte de **VTEX Ad Network** ya sea
 
 ### Retailers
 
->⚠️ Por el momento, solamente tiendas desarrolladas con [Store Framework](https://help.vtex.com/es/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework) pueden ofrecer espacios para anuncios.
+<div class="alert alert-warning">
+Por el momento, solamente tiendas desarrolladas con <a href="https://help.vtex.com/es/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a> pueden ofrecer espacios para anuncios.
+</div>
 
 Para disponibilizar espacios para anuncios en tu tienda, debe ponerse en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) para solicitar la instalación de la aplicación VTEX Ad Network para tiendas en su cuenta VTEX.
 

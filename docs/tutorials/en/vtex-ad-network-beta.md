@@ -1,10 +1,10 @@
 ---
 title: 'VTEX Ad Network (Beta)'
 id: 2cgqXcBuJmXN2livQvClur
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-04-23T17:38:07.378Z
-updatedAt: 2024-07-05T13:14:45.135Z
-publishedAt: 2024-07-05T13:13:03.955Z
+updatedAt: 2024-08-09T21:21:48.620Z
+publishedAt: 2024-08-09T21:21:48.620Z
 firstPublishedAt: 2024-04-23T19:11:42.313Z
 contentType: tutorial
 productTeam: Others
@@ -15,7 +15,9 @@ legacySlug: vtex-ad-network-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
->ℹ️ VTEX Ad Network is in beta, which means that we are working to improve it. If you are already a VTEX customer and wish to adopt this functionality for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). If you are not yet a customer but are interested in this solution, please fill out the [contact form](https://vtex.com/us-en/contact/).
+<div class = "alert alert-info">
+<p>VTEX Ad Network is in beta, which means that we are working to improve it. If you are already a VTEX customer and wish to adopt this functionality for your business, please contact <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Commercial Support</a>. If you are not yet a customer but are interested in this solution, please fill out the <a href="https://vtex.com/us-en/contact/">contact form</a>.</p>
+</div>
 
 **VTEX Ad Network** connects VTEX stores with brands interested in advertising their products. This connection allows advertisers and merchants to boost their business:
 
@@ -43,7 +45,7 @@ VTEX currently offers a single ad format: sponsored products. This means that pr
 
 Below, there's an example of how sponsored products are displayed:
 
-![vtex_ad_network_sponsored_EN](https://images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/1abdea32c119ed4890e414ad7dbc8fea/vtex_ad_network_sponsored.png)
+![vtex_ad_network_sponsored_EN](//images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/1abdea32c119ed4890e414ad7dbc8fea/vtex_ad_network_sponsored.png)
 
 Stores participating in **VTEX Ad Network** will be able to [configure the amount of ad space](https://help.vtex.com/en/tutorial/advertising-with-vtex-ad-network-beta--5WoXcJzHc7EQElpPjziqse#creating-campaigns) available in each store context.
 
@@ -70,7 +72,8 @@ This prioritization process consists of three stages:
 
 The bid amount is set once the ads displayed on the page have been defined. The winning bid will be the final amount of the second-highest bid plus $0.01 USD.
 
->⚠️ Ads may not be selected through the prioritization process if the promoted products do not fit the customer behavior, store coverage, or available budget.
+<div class="alert alert-warning">
+Ads may not be selected through the prioritization process if the promoted products do not fit the customer behavior, store coverage, or available budget.</div>
 
 ### Quality score
 
@@ -105,7 +108,9 @@ See below how you can join **VTEX Ad Network** as a [merchant](#merchants) that 
 
 ### Merchants
 
->⚠️ Currently, only stores developed with [Store Framework](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework) can offer ad space.
+<div class="alert alert-warning">
+Currently, only stores developed with <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a> can offer ad space.
+</div>
 
 To make ad space available in your store, you need to contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) to request the installation of the __VTEX Ad Network app for merchants__ in your VTEX account.
 

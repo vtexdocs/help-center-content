@@ -1,5 +1,5 @@
 ---
-title: "Error 'Something went wrong. Please try again.' when adding images via Site Editor"
+title: 'Error "Something went wrong. Please try again." when adding images via Site Editor'
 id: r3QVP1kp8HApP83bOi6t9
 status: PUBLISHED
 createdAt: 2023-11-07T22:33:02.296Z

@@ -1,5 +1,5 @@
 ---
-title: "El enlace 'No sé mi código postal' en la página de creación de listas de bodas redirecciona el usuario a la propia página de creación de listas de bodas"
+title: 'El enlace "No sé mi código postal" en la página de creación de listas de bodas redirecciona el usuario a la propia página de creación de listas de bodas'
 id: 59Go6zy62I2iwACQqW8qmA
 status: PUBLISHED
 createdAt: 2018-02-20T22:07:31.331Z

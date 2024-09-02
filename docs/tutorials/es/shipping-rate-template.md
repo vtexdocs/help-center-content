@@ -24,7 +24,9 @@ Para registrar los precios de envío a través de la plantilla de flete es neces
 1. [Completar los campos de la plantilla](#completar-los-campos-de-la-plantilla)
 2. [Enviar el archivo por el Admin VTEX](#enviar-el-archivo-por-el-admin-vtex)
 
->ℹ️ También hay una forma de registrar los precios de envío a través del módulo Tarifas de envío. Recomendamos que utilice la [plantilla de flete](https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127) cuando se incluyan múltiples rangos de código postal, y utilizar Tarifas de envío para administrar los precios de los fletes registrados y para registrar cada rango de código postal individualmente.
+<div class="alert alert-info"> 
+También hay una forma de registrar los precios de envío a través del módulo Tarifas de envío. Recomendamos que utilice la <a href="https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127">plantilla de flete</a> cuando se incluyan múltiples rangos de código postal, y utilizar Tarifas de envío para administrar los precios de los fletes registrados y para registrar cada rango de código postal individualmente. 
+</div>
 
 ## Completar los campos de la plantilla
 
@@ -173,11 +175,13 @@ Vea la siguiente tabla para entender cada campo en detalle.
 </tbody>
 </table>
 
->ℹ️ Para facilitar el uso de los términos en nuestra documentación utilizamos «peso» en vez de «masa».  
+<div class="alert alert-info"> 
+Para facilitar el uso de los términos en nuestra documentación utilizamos «peso» en vez de «masa». 
+</div>  
 
 Vea el siguiente ejemplo de cómo rellenar los campos, teniendo en cuenta el formato aceptado en cada columna. 
 
-![modelo_planilhanumerica](https://images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
+![modelo_planilhanumerica](//images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
 
 ## Enviar el archivo por el Admin VTEX
 
@@ -190,11 +194,15 @@ El envío de la plantilla se realiza en el registro o en la edición de la _Pol�
 3. Después de descargar la plantilla modelo y [completar los campos](#completar-los-campos-de-la-plantilla), cargue el archivo en la sección Cargar tarifas de envío, como se ilustra en la siguiente imagen. 
 4. Al finalizar, haga clic en `Guardar cambios`.
 
-  ![upload tarifas envioES](https://images.ctfassets.net/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/b788e6926bffa8aa5a70db06ca1ccba7/upload_tarifas_envioES.png)
+  ![upload tarifas envioES](//images.ctfassets.net/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/b788e6926bffa8aa5a70db06ca1ccba7/upload_tarifas_envioES.png)
 
->⚠️ Para registrar una **nueva** Política de envío se debe completar otros campos además de la plantilla de flete.  Aprenda cómo crear, editar y completar todos los campos necesarios en el artículo [Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
+<div class="alert alert-warning">
+Para registrar una <b>nueva</b> Política de envío se debe completar otros campos además de la plantilla de flete.  Aprenda cómo crear, editar y completar todos los campos necesarios en el artículo <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">Política de envío</a>.
+</div>
 
->❗ Cada pestaña de la plantilla no debe superar las 65 536 filas. Se pueden crear varias pestañas en la misma plantilla, respetando el límite de filas. No hay un límite en el número de pestañas dentro del archivo. Sin embargo, el archivo no puede superar los 10MB. En caso de que sea necesario, comprima el archivo en formato **.zip**. Si esto no es suficiente, divídalo en dos archivos y registre otra política de envío para cargar el segundo archivo creado.
+<div class="alert alert-danger">
+Cada pestaña de la plantilla no debe superar las 65 536 filas. Se pueden crear varias pestañas en la misma plantilla, respetando el límite de filas. No hay un límite en el número de pestañas dentro del archivo. Sin embargo, el archivo no puede superar los 10MB. En caso de que sea necesario, comprima el archivo en formato <b>.zip</b>. Si esto no es suficiente, divídalo en dos archivos y registre otra política de envío para cargar el segundo archivo creado. 
+</div>
 
 Si hay algún problema al completar los campos del archivo enviado, recibirá un <i>_email</i>_ para informarle del error. Asegúrese de revisar si la plantilla se completó correctamente antes de hacer un nuevo intento de envío.
 

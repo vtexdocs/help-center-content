@@ -18,7 +18,9 @@ internalReference: 547046
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o cliente configura uma Condição Especial por um período de tempo e deseja apagar esta configuração, apenas o período é apagado, a recorrência desta configuração não é apagada. Isto significa que mesmo que a configuração de programação da Condição de Pagamento seja removida, o campo `dateIntervals' continua a indexar e pára de indexar a Regra de Pagamento.

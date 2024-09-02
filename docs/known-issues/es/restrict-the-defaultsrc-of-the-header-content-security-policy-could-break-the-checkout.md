@@ -18,7 +18,9 @@ internalReference: 763359
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Restringir la cabecera de la Política de Seguridad de Contenidos puede provocar que no se carguen los archivos de checkout. Por ejemplo, la configuración `default-src 'self'` puede provocar que no se carguen los archivos procedentes de vtex.com

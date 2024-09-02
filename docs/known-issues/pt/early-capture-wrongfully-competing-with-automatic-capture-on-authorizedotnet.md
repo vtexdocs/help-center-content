@@ -18,7 +18,9 @@ internalReference: 866068
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para que possamos entender esse comportamento, primeiro precisamos compreender a diferença entre captura automática e captura antecipada:

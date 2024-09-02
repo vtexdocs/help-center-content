@@ -18,7 +18,9 @@ internalReference: 836025
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os campos "cidade" e "estado" não são enviados ao PayPalPlus quando o comprador adiciona apenas um endereço de retirada ao carrinho, fazendo com que a forma de pagamento não seja carregada.

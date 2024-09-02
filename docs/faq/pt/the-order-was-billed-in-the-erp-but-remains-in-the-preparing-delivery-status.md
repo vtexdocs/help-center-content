@@ -1,5 +1,5 @@
 ---
-title: "O pedido foi faturado no ERP mas continua no status 'Preparando Entrega'. O que fazer?"
+title: 'O pedido foi faturado no ERP mas continua no status "Preparando Entrega". O que fazer?'
 id: 4szpXviNMAkwOe2cCiMiMe
 status: PUBLISHED
 createdAt: 2017-12-19T13:00:23.800Z

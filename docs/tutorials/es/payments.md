@@ -3,8 +3,8 @@ title: 'Pagos Data Pipeline (Beta)'
 id: 7LWkFaA1jPabzc5JAt1rGs
 status: PUBLISHED
 createdAt: 2024-02-02T17:53:35.949Z
-updatedAt: 2024-06-21T16:28:44.958Z
-publishedAt: 2024-06-21T16:28:44.958Z
+updatedAt: 2024-09-02T19:28:13.182Z
+publishedAt: 2024-09-02T19:28:13.182Z
 firstPublishedAt: 2024-05-27T19:26:59.478Z
 contentType: tutorial
 productTeam: Others

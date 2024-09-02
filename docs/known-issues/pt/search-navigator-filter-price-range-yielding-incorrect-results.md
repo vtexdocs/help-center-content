@@ -18,7 +18,9 @@ internalReference: 504992
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, ao utilizar o filtro de busca da marca Navigator juntamente com uma faixa de preço em uma edição comercial da VTEX, produtos fora da marca filtrada podem ser mostrados.

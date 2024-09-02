@@ -18,7 +18,9 @@ internalReference: 609462
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O componente nativo do Vídeo exibe comportamento inconsistente quando se tenta renderizar YouTube ou Vimeo iFrame em dispositivos iOS. Em alguns testes o iFrame não foi renderizado como esperado, ou sua colocação não foi de acordo com o que foi definido no código ou no Editor do site.

@@ -83,7 +83,9 @@ A marketplace can obtain the user’s location information in the storefront and
 
 Even when VTEX Session does not have access to the consumer’s location, you still need to target an assortment of seller products in the shopping experience. In this scenario, the seller selection algorithm indicates [comprehensive sellers](https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI) that are able to deliver orders in all regions served by your marketplace.
 
->ℹ️ The Region feature is only adapted for stores using VTEX IO, and it is not valid for the Legacy CMS Portal.
+<div class="alert alert-info">
+The Region feature is only adapted for stores using VTEX IO, and it is not valid for the Legacy CMS Portal. 
+</div>
 
 ## Configuring the storefront
 

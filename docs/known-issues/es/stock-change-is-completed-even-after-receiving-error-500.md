@@ -18,7 +18,9 @@ internalReference: 388176
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El cliente está tratando de actualizar la cantidad de sku en el inventario y la solicitud recibió el error 500. A pesar del error, la cantidad en el inventario se cambia.

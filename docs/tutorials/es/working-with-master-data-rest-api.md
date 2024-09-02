@@ -15,4 +15,4 @@ legacySlug: armazenando-dados-no-master-data-com-json-schema
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---
 
->⚠️ Contenido bajo traducción
+<div class="alert alert-warning">Contenido bajo traducción</div>

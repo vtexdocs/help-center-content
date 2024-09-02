@@ -18,7 +18,9 @@ internalReference: 324792
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O nome do receptor é reescrito com o nome do cliente após recarregar a página de checkout.

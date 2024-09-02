@@ -24,7 +24,9 @@ To invoice the order on the VTEX platform, you need to add the items' invoice to
 * Via [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
 * Via VTEX Admin.
 
->ℹ️ You can change the [carrier](https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) associated with the order when invoicing it. To do so, in the **Order Tracking** section, click <i>Carrier</i> and select the desired option.
+<div class = "alert alert-info">
+You can change the <a href="https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE">carrier</a> associated with the order when invoicing it. To do so, in the <b>Order Tracking</b> section, click <i>Carrier</i> and select the desired option.
+</div>
 
 To send the invoice via VTEX Admin, follow the steps below:
 
@@ -32,7 +34,7 @@ To send the invoice via VTEX Admin, follow the steps below:
 2. Search for the order by using the search bar [or the filters](https://help.vtex.com/en/tutorial/como-filtrar-pedidos--tutorials_192).  
 3. Click the desired order.     
 4. Scroll down to the Invoice to items section, and click on the arrow icon <i class="fas fa-chevron-right"></i> to expand.  
-![Itens faturarEN](https://images.ctfassets.net/alneenqid6w5/2wScKr5ZaHShpyntCuN0jy/c88e7dc843b651ed6b703ed4cd05ba3c/Itens_faturarEN.png)
+![Itens faturarEN](//images.ctfassets.net/alneenqid6w5/2wScKr5ZaHShpyntCuN0jy/c88e7dc843b651ed6b703ed4cd05ba3c/Itens_faturarEN.png)
 5. Click the `Invoice` button. 
 6. Click the desired billing option:      
     * **Submit invoice referencing items:** to invoice the order referencing the package items.  
@@ -62,7 +64,7 @@ To send the invoice via VTEX Admin, follow the steps below:
 
 After the order is `Invoiced`, go to the **Invoice** section to check the invoices added, as shown in the image below:
 
-![FaturaEN](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/1f68c545e4a42383d85aa82b7dd6ba96/FaturaEN.png)
+![FaturaEN](//images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/1f68c545e4a42383d85aa82b7dd6ba96/FaturaEN.png)
 
 For [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), when [changing or removing items from an order](https://help.vtex.com/en/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), the order total will be updated after invoicing and will correspond to what is captured by the VTEX payment gateway.
 

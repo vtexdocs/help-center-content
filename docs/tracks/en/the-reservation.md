@@ -22,7 +22,9 @@ The reservation connects the logistics module to the orders module. It prevents 
 
 ## How the reservation works
 
->⚠️ Products only inserted into the cart **do not** create reservation or priority. A reservation is made only if an order is **completed**.  
+<div class="alert alert-warning">
+Products only inserted into the cart <strong>do not</strong> create reservation or priority. A reservation is made only if an order is <strong>completed</strong>.
+</div>  
 
 This is the reservation flow at VTEX:
 
@@ -32,6 +34,8 @@ This is the reservation flow at VTEX:
  
  3. Finally, once the order is being prepared for delivery, the items move to the status `Reservation Acknowledged`. This status indicates that the items no longer exist in the physical inventory.
 
-![reservation en](https://images.ctfassets.net/alneenqid6w5/7mm0YP3bcfb5fqZf5XhmZX/8798695363d5f4008f0a9c7078ebc386/reservation_en.png)
+![reservation en](//images.ctfassets.net/alneenqid6w5/7mm0YP3bcfb5fqZf5XhmZX/8798695363d5f4008f0a9c7078ebc386/reservation_en.png)
 
->⚠️ VTEX does not automatically remove items from the inventory, even after they have moved to `Reservation Recognized` status. Purchased items will remain in this status until the ERP or the store remove them from the inventory.
+<div class="alert alert-warning">
+VTEX does not automatically remove items from the inventory, even after they have moved to <code>Reservation Recognized</code> status. Purchased items will remain in this status until the ERP or the store remove them from the inventory.
+</div>

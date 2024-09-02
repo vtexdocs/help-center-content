@@ -16,7 +16,7 @@ legacySlug: vtex-support-emea
 
 This article presents the availability, SLA, and additional support resources available to customers served by our offices in **Europe, the Middle East, and Africa (EMEA).** For a broader perspective of our global support resources, see: [How does VTEX support work?](https://help.vtex.com/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe)
 
->ℹ️ If the Support team identifies that a ticket was opened incorrectly, they will recommend the most appropriate resource to use, and this assessment can be made at any time during the resolution process.
+<div class="alert alert-info">If the Support team identifies that a ticket was opened incorrectly, they will recommend the most appropriate resource to use, and this assessment can be made at any time during the resolution process.</div>
 
 ## Availability
 
@@ -75,7 +75,9 @@ viable alternative to overcome the problem.</p>
 
 Keep in mind that our first response time calculation is based on working hours. The criteria for ticket urgency are defined in the section below.  
 
->⚠️ Emergency support will be available **exclusively** for Urgent requests and provided via [Zendesk tickets](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM). Urgent requests are defined as problems that directly prevent sales or the store’s operation, as described in [Ticket Urgency](#ticket-urgency).
+<div class="alert alert-warning">
+Emergency support will be available <b>exclusively</b> for Urgent requests and provided via <a href="https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM">Zendesk tickets</a>. Urgent requests are defined as problems that directly prevent sales or the store’s operation, as described in <a href="#ticket-urgency">Ticket Urgency</a>.
+</div>
 
 ## Ticket urgency
 

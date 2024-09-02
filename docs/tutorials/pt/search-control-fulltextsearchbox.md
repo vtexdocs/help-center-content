@@ -15,11 +15,13 @@ legacySlug: controle-de-busca-fulltextsearchbox
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+<div class = "alert alert-warning">
+  <strong>Atenção</strong>: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+</div>
 
 O controle `<vtex.cmc:fullTextSearchBox />` é responsável por gerar a caixa de busca. Além do campo de pesquisa o controle renderiza um combo para restringir uma busca em um departamento. Abaixo temos um exemplo do controle sem nenhuma aplicação de css:
 
-![Controle busca cru](https://images.contentful.com/alneenqid6w5/4tvtNt1u0Mw8sgmwyAaOuW/2375499b868cfe4c24b3425fa0f33a8c/controle-busca-cru.png)
+![Controle busca cru](//images.contentful.com/alneenqid6w5/4tvtNt1u0Mw8sgmwyAaOuW/2375499b868cfe4c24b3425fa0f33a8c/controle-busca-cru.png)
 
 A busca é uma funcionalidade que deve estar disponível em todas as páginas de uma loja e por isso é sugerido que o controle seja inserido dentro de um [subtemplate](http://help.vtex.com/pt/tutorial/subtemplates). Normalmente o controle de busca é usado dentro do subtemplate do header da loja.
 
@@ -73,9 +75,9 @@ A funcionalidade de autocomplete já está prevista neste controle e é necessá
 
 Alguns exemplos de como pode ser customizado o controle:
 
-![](https://images.contentful.com/alneenqid6w5/BMzmz8NA0o4SQqUO8ow4Y/5c6d179a8fca8a3efaf981c05203c061/controle-busca-autocomplete-560x318.png)
+![](//images.contentful.com/alneenqid6w5/BMzmz8NA0o4SQqUO8ow4Y/5c6d179a8fca8a3efaf981c05203c061/controle-busca-autocomplete-560x318.png)
 
-![](https://images.contentful.com/alneenqid6w5/5TiDgTywScWuAcC24wmeIu/58acad8f8151f8803251679453627968/controle-busca-exemplo-560x43.png)
+![](//images.contentful.com/alneenqid6w5/5TiDgTywScWuAcC24wmeIu/58acad8f8151f8803251679453627968/controle-busca-exemplo-560x43.png)
 
-![](https://images.contentful.com/alneenqid6w5/2X2lkCGHdSIaok08yYKCYO/6bef8f3e0c0b11313479226c0174e093/controle-busca-exemplo1.png)
+![](//images.contentful.com/alneenqid6w5/2X2lkCGHdSIaok08yYKCYO/6bef8f3e0c0b11313479226c0174e093/controle-busca-exemplo1.png)
 

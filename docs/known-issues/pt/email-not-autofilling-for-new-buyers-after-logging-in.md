@@ -18,7 +18,9 @@ internalReference: 920634
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um novo comprador faz login e prossegue com o checkout, o e-mail não é preenchido automaticamente, exigindo que o cliente insira novamente o e-mail. Isso também acontece com o uso de APIs e o envio de cabeçalhos com os cookies do comprador.

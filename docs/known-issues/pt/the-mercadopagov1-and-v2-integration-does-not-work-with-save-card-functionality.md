@@ -18,7 +18,9 @@ internalReference: 283727
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A integração do MercadoPagoV1 e do MercadoPagoV2 não funciona corretamente com a funcionalidade de salvar cartão na seção "Minha conta" para países que não permitem transações com decimais.

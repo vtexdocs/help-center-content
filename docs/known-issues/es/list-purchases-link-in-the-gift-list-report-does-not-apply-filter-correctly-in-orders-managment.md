@@ -1,5 +1,5 @@
 ---
-title: "'Lista de compras' en el informe de lista de regalos no aplica el filtro correctamente en el Gestión de Pedidos"
+title: '"Lista de compras" en el informe de lista de regalos no aplica el filtro correctamente en el Gestión de Pedidos'
 id: 5p7nqrzUqIK88cYkkOqMMG
 status: PUBLISHED
 createdAt: 2017-04-03T19:36:10.117Z

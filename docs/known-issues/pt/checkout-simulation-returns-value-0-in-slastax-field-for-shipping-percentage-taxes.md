@@ -1,5 +1,5 @@
 ---
-title: "A simulação de checkout retorna o valor 0 no campo 'slas.tax' para impostos de porcentagem de frete"
+title: 'A simulação de checkout retorna o valor 0 no campo "slas.tax" para impostos de porcentagem de frete'
 id: 54Mtsj8EKuo0SaQCoWyYzj
 status: PUBLISHED
 createdAt: 2024-04-05T18:55:32.183Z
@@ -18,7 +18,9 @@ internalReference: 1012724
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os impostos de porcentagem de envio não são retornados no campo `logisticsInfo.slas.tax` ao realizar uma simulação de checkout, embora as informações de impostos individuais estejam disponíveis no campo `items.priceTags`.

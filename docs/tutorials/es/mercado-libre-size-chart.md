@@ -109,7 +109,9 @@ La plantilla de la tabla de medidas para ropa de la parte inferior tiene las sig
 | **Person_height_from** | Altura de la persona. Inicio del intervalo de medidas. | Rellena cada fila con la medida mínima de la altura de una persona en centímetros. Ejemplo: 188 cm. |
 | **Person_height_to** | Altura de la persona. Fin del intervalo de medidas. | Rellena cada fila con la medida máxima de la altura de una persona en centímetros. Ejemplo: 193 cm. |
 
->ℹ️ Es importante reforzar la necesidad de usar espacio entre el número y la medida (cm), separar los números con puntos (.), rellenar todas las columnas y verificar si los campos **Género** y **Tamaño** fueron seleccionados correctamente.
+<div class="alert alert-info">
+Es importante reforzar la necesidad de usar espacio entre el número y la medida (cm), separar los números con puntos (.), rellenar todas las columnas y verificar si los campos <b>Género</b> y <b>Tamaño</b> fueron seleccionados correctamente.
+  </div>
 
 ## Cargar la tabla de medidas
 
@@ -125,4 +127,6 @@ Luego de completar la plantilla de mapeo, debes cargarla. Para hacerlo, accede a
 
 Al terminar, habrás creado tu tabla de medidas personalizada con éxito.  
 
->ℹ️ Si ocurre un error en la tabla, se indicará el problema en la pantalla de carga. Debes resolver el error y cargar la plantilla nuevamente.
+<div class="alert alert-info">
+Si ocurre un error en la tabla, se indicará el problema en la pantalla de carga. Debes resolver el error y cargar la plantilla nuevamente.
+</div>

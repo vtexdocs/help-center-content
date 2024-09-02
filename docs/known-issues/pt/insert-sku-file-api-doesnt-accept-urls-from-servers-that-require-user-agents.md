@@ -1,5 +1,5 @@
 ---
-title: "A API Insert SKU File não aceita URLs de servidores que exigem 'User Agents'"
+title: 'A API Insert SKU File não aceita URLs de servidores que exigem "User Agents"'
 id: 5Z1PmRXyW78mohsKTMQfzj
 status: PUBLISHED
 createdAt: 2024-07-22T19:49:14.140Z
@@ -18,7 +18,9 @@ internalReference: 1069222
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Um **agente de usuário** é uma sequência de texto que um navegador da Web ou outro cliente envia a um servidor da Web em um cabeçalho de solicitação HTTP para se identificar. Essa cadeia contém informações sobre o tipo de navegador, o sistema operacional e, às vezes, detalhes adicionais, como a versão do navegador e o mecanismo de renderização usado.

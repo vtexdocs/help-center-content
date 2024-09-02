@@ -1,5 +1,5 @@
 ---
-title: "Conflitos com filtros de preço e 'isAvailablePerSalesChannel' em buscas (Portal e Busca) (Novamente)"
+title: 'Conflitos com filtros de preço e "isAvailablePerSalesChannel" em buscas (Portal e Busca) (Novamente)'
 id: 6dLv8lP69Em68ooydjaPzY
 status: PUBLISHED
 createdAt: 2022-02-24T13:24:42.299Z
@@ -18,7 +18,9 @@ internalReference: 531277
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 ## **Sumário***
 

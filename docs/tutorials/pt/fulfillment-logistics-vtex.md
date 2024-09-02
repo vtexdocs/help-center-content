@@ -19,8 +19,10 @@ A logística ou fulfillment é o processo de planejamento, transporte e armazena
 
 A VTEX possibilita o cadastro e controle dos estoques, o gerenciamento das tarifas de envio, o controle da disponibilidade dos itens e o acompanhamento das entregas. 
 
->ℹ️ Se a sua loja não trilhou os primeiros passos do módulo **Envio**, confira o artigo [Primeiros passos da Logística](https://help.vtex.com/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a).</b> 
-> Confira o artigo [Glossário de logística](https://help.vtex.com/pt/tutorial/glossario-de-logistica--16DSSiXn548rsidi0A8Hby), para conhecer os significados de termos logísticos utilizados na VTEX. Há também as configurações de logística disponíveis via [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
+<div class = "alert alert-info">
+Se a sua loja não trilhou os primeiros passos do módulo <b>Envio</b>, confira o artigo <a href="https://help.vtex.com/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a">Primeiros passos da Logística</a>.</b> 
+Confira o artigo <a href="https://help.vtex.com/pt/tutorial/glossario-de-logistica--16DSSiXn548rsidi0A8Hby">Glossário de logística</a>, para conhecer os significados de termos logísticos utilizados na VTEX. Há também as configurações de logística disponíveis via <a href="https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview">API</a>. 
+</div>
 
 Para saber quais configurações logísticas são necessárias e como são realizadas, primeiro é preciso entender as etapas do fluxo de compra de um produto:
 
@@ -41,9 +43,11 @@ Para saber quais configurações logísticas são necessárias e como são reali
     * Para os pedidos que são enviados para os [pontos de retirada](https://help.vtex.com/pt/tutorial/como-funcionam-pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) (retirada), a loja deve deixar os pacotes disponíveis para o cliente retirar. Para isso, os pacotes são retirados do [estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e transportados até o ponto de retirada. O transporte da doca até o ponto de retirada é definido por uma[ política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140).
 8. Após o faturamento e envio, a loja é responsável por atualizar o inventário, que, para a plataforma, significa também a baixa dos itens no estoque.
 
->ℹ️ Note que o processo de envio dependerá das configurações realizadas na plataforma. Aqui apresentamos  os cenários para cada tipo de envio (entrega e retirada), mas há outros fluxos possíveis no processo de envio. Por exemplo, quando o envio é por retirada e o estoque coincide com o ponto de retirada, não é necessário o transporte dos pacotes entre esses locais.
+<div class = "alert alert-info">
+Note que o processo de envio dependerá das configurações realizadas na plataforma. Aqui apresentamos  os cenários para cada tipo de envio (entrega e retirada), mas há outros fluxos possíveis no processo de envio. Por exemplo, quando o envio é por retirada e o estoque coincide com o ponto de retirada, não é necessário o transporte dos pacotes entre esses locais.
+</div>
 
-![Envio PT](https://images.ctfassets.net/alneenqid6w5/2e2f4toAiFamlcXlAQfC3h/186ee5138e0d5d412c9eb50890708241/Envio_PT.svg)
+![Envio PT](//images.ctfassets.net/alneenqid6w5/2e2f4toAiFamlcXlAQfC3h/186ee5138e0d5d412c9eb50890708241/Envio_PT.svg)
 
 ## Configuração do processo logístico
 

@@ -18,7 +18,9 @@ internalReference: 900120
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o serviço de impostos, se houver uma promoção nominal aplicada no carrinho e ocorrer uma divisão de item, o checkout da solicitação não terá a promoção nominal aplicada, não permitindo concluir a compra, e a mensagem "O pedido solicitado não pôde ser criado. Please try again" será exibida.

@@ -18,7 +18,9 @@ internalReference: 322251
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunas URL están redirigiendo a una respuesta EmptySearch.

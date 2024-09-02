@@ -128,7 +128,7 @@ Para verificar como está estruturado seu catálogo, você pode acessar a seçã
 
 <p></p>
 
->ℹ️ Você pode filtrar os resultados para exibir apenas produtos vinculados à política comercial escolhida para a Netshoes na etapa anterior. Para isso, basta clicar em *Filtrar resultados ou fazer uma busca* e selecionar a política comercial no seletor *Loja*.
+<div class="alert alert-info">Você pode filtrar os resultados para exibir apenas produtos vinculados à política comercial escolhida para a Netshoes na etapa anterior. Para isso, basta clicar em <em>Filtrar resultados ou fazer uma busca</em> e selecionar a política comercial no seletor <em>Loja</em>.</div>
 
 ## Cadastro do agrupamento de produtos
 

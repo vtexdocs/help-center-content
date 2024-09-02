@@ -61,16 +61,16 @@ Also, it's not possible to replace orders in the following statuses:
 
 With this feature, your store users get a redesigned My Orders page with change and cancellation options:
 
-![meus pedidos1 EN](https://images.contentful.com/alneenqid6w5/6qCTCcaC2WSE8AgcGuI2YM/c435205525f59c10f5c04c664229044b/meus_pedidos1_EN.png)
+![meus pedidos1 EN](//images.contentful.com/alneenqid6w5/6qCTCcaC2WSE8AgcGuI2YM/c435205525f59c10f5c04c664229044b/meus_pedidos1_EN.png)
 
-![meus pedidos3 EN](https://images.ctfassets.net/alneenqid6w5/r8wqLRzyGOEmGcMuWQYMg/3fa6aaad6bd888246457d9e96e704516/meus_pedidos3_EN.png)
+![meus pedidos3 EN](//images.ctfassets.net/alneenqid6w5/r8wqLRzyGOEmGcMuWQYMg/3fa6aaad6bd888246457d9e96e704516/meus_pedidos3_EN.png)
 
 When you select **Change order**, the customers are taken to a screen where they choose which information they would like to replace:
 
-![meus pedidos2 EN](https://images.contentful.com/alneenqid6w5/5ivhWzwvD2UMGEmiWUkcM2/888904d626fd46212329ab5ca423019f/meus_pedidos2_EN.png)
+![meus pedidos2 EN](//images.contentful.com/alneenqid6w5/5ivhWzwvD2UMGEmiWUkcM2/888904d626fd46212329ab5ca423019f/meus_pedidos2_EN.png)
 
 To complete the change, customers are taken to the cart and the Checkout, where they can alter address, freight, payment method and SKU.
 
->⚠️ The purchase must be closed for the process to be completed, but *customers are never charged twice*. In some cases the previous payment will be reused; when this is not possible, the previous charge on the credit card will automatically be reversed.
+<div class = "alert alert-warning">The purchase must be closed for the process to be completed, but <em>customers are never charged twice</em>. In some cases the previous payment will be reused; when this is not possible, the previous charge on the credit card will automatically be reversed.</div>
 
 Payment reuse can only be applied if the value of the new order is the same as the original order. Also, if the payment expires within 2 days, it can not be reused.

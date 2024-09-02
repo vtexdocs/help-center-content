@@ -18,7 +18,9 @@ internalReference: 649316
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Este comportamento acontece quando uma categoria tem muitas especificações e muitos skus. Dessa forma, ao exportar a planilha, eventualmente o limite de excelência será atingido (cerca de 65k).

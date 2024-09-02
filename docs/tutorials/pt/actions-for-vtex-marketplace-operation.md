@@ -46,7 +46,9 @@ O [Seller Portal (Beta)](https://help.vtex.com/pt/tutorial/seller-portal-primeir
 
 Essa ferramenta é uma opção recomendada para marketplaces que desejam ter mais controle sobre a curadoria de produtos que ofertam. 
 
->ℹ️ Para ativar o Seller Portal para seus sellers, o marketplace deve solicitar essa funcionalidade entrando em contato com o CSM da sua conta na VTEX.
+<div class="alert alert-info">
+Para ativar o Seller Portal para seus sellers, o marketplace deve solicitar essa funcionalidade entrando em contato com o CSM da sua conta na VTEX. 
+</div>
 
 ## Catalogar anúncios
 
@@ -54,7 +56,9 @@ Um produto de um seller que foi enviado para o marketplace com informações de 
 
 O processo de catalogação é realizado na página [SKUs Recebidos](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus/), no menu **MARKETPLACE > Sellers** do seu Admin VTEX, ou através de chamadas de API de [Match Received SKUs](https://developers.vtex.com/vtex-rest-api/reference/match). 
 
->ℹ️ Antes de aprovar um anúncio, é importante garantir que as informações de produtos enviadas pelo seller correspondam à estratégia do seu negócio. Ao catalogar anúncios, considere a qualidade das informações enviadas pelo seller, como preço, descrição do produto e imagem.
+<div class="alert alert-info">
+Antes de aprovar um anúncio, é importante garantir que as informações de produtos enviadas pelo seller correspondam à estratégia do seu negócio. Ao catalogar anúncios, considere a qualidade das informações enviadas pelo seller, como preço, descrição do produto e imagem.
+</div>
 
 O [VTEX Matcher](https://help.vtex.com/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424) é a ferramenta usada por marketplaces para avaliar anúncios enviados por sellers e acelerar o processo de catalogação. É possível configurar o VTEX Matcher para que opere sobre regras diferentes da configuração _default_, por meio da [API de Aprovação automática](https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig).
 

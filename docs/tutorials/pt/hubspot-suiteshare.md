@@ -3,8 +3,8 @@ title: 'HubSpot'
 id: 2aByRxXGfy56BB3tzUrcYt
 status: PUBLISHED
 createdAt: 2022-08-31T16:28:32.249Z
-updatedAt: 2022-10-04T20:34:25.161Z
-publishedAt: 2022-10-04T20:34:25.161Z
+updatedAt: 2024-08-21T18:48:28.862Z
+publishedAt: 2024-08-21T18:48:28.862Z
 firstPublishedAt: 2022-08-31T16:35:00.164Z
 contentType: tutorial
 productTeam: Shopping
@@ -15,7 +15,7 @@ legacySlug: hubspot-suiteshare
 subcategory: 4y4ylvqceE6vVqEF8IWZix
 ---
 
-Envie dados de envio de formulário para o HubSpot. Submissões de formulários de fontes externas podem ser feitas para qualquer formulário registrado da HubSpot. Você pode ver uma lista de formulários em sua conta acessando a página ** Contatos > Formulários**_.
+Envie dados de envio de formulário para o HubSpot. Submissões de formulários de fontes externas podem ser feitas para qualquer formulário registrado da HubSpot. Você pode ver uma lista de formulários em sua conta acessando a página **Contatos > Formulários**.
 
 Sugerimos que você crie um formulário exclusivo no HubSpot para fazer um paralelo com seu formulário da Suiteshare. Isso facilitará o rastreamento de envios nesse formulário personalizado específico no futuro. Mais informações podem ser encontradas aqui.
 
@@ -23,11 +23,11 @@ Para realizar a integração, utilize uma das duas formas abaixo:
 
 1. No dashboard, clique em **Ver todas integrações** e em **HubSpot**.
 
-   ![HubSpot_Suiteshare_1](https://images.ctfassets.net/alneenqid6w5/6ohwamJ0xsLQsxtuTZrrxA/affa4804ec1386284ac220a82ec6622a/HubSpot_Suiteshare_1.png)
+   ![HubSpot_Suiteshare_1](//images.ctfassets.net/alneenqid6w5/6ohwamJ0xsLQsxtuTZrrxA/affa4804ec1386284ac220a82ec6622a/HubSpot_Suiteshare_1.png)
 
 2. Acesse **Configurações > Integrações > HubSpot > Integrar**.
 
-   ![CRM Zen_2](https://images.ctfassets.net/alneenqid6w5/5Q1v1x7pR9DaaavNtDLIkh/017737adacef1737787ce533f3898f20/CRM_Zen_2.png)
+   ![CRM Zen_2](//images.ctfassets.net/alneenqid6w5/5Q1v1x7pR9DaaavNtDLIkh/017737adacef1737787ce533f3898f20/CRM_Zen_2.png)
 
 Selecione a Hubspot e clique em _**“integrar”**_
 

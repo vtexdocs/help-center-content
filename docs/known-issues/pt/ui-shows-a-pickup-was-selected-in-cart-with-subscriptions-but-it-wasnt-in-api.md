@@ -18,7 +18,9 @@ internalReference: 996976
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As opções de retirada são oferecidas aos compradores em um carrinho com um item com uma assinatura. Quando uma das retiradas é selecionada, o checkout muda automaticamente para entrega, mas a interface do usuário ainda mostra que a retirada foi selecionada.

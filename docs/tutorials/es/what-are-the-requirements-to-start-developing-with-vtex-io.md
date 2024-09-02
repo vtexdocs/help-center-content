@@ -47,4 +47,6 @@ Fullstack (React + Apollo + GraphQL):
   - https://www.howtographql.com/react-apollo/0-introduction/
 
 
->ℹ️ Inicialmente, sólo el desarrollo front-end es posible. Por lo tanto, el ámbito de conocimiento inicial necesario se limita al React.
+<div class="alert alert-info">
+Inicialmente, sólo el desarrollo front-end es posible. Por lo tanto, el ámbito de conocimiento inicial necesario se limita al React.
+</div>

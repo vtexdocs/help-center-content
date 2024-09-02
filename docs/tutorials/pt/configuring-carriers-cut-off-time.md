@@ -15,8 +15,10 @@ legacySlug: configurar-o-horario-de-corte-da-transportadora
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
->⚠️ Aviso: Esta documentação está em processo de atualização para refletir a mudança do conceito de Painéis para 
-> [estratégia de envio](https://help.vtex.com/pt/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl). 
+<div class="alert alert-warning">
+Aviso: Esta documentação está em processo de atualização para refletir a mudança do conceito de Painéis para 
+<a href="https://help.vtex.com/pt/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">estratégia de envio</a>.
+</div> 
 
 
 As transportadoras, que são chamadas de Política de Envio no seu Admin, são as empresas responsáveis por fazerem a distribuição dos produtos vendidos por um e-commerce. É comum que uma loja tenha diversas transportadoras associadas a ela. Isto acontece pois o perfil de operação e de frota das **transportadoras varia de acordo com a rota, prazo e tipo de produto** que ela irá entregar.

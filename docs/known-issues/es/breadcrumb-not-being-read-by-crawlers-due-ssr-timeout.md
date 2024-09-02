@@ -18,7 +18,9 @@ internalReference: 460999
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se cargan por primera vez las migas de pan, los datos de la lista de categorías son más rápidos que los del árbol de categorías enviados por la consulta de facetas, esto está causando un comportamiento inesperado en el tiempo de carga de la miga de pan, porque la lista de categorías trae también categorías similares de productos similares y no tiene toda la información necesaria para json+ld.

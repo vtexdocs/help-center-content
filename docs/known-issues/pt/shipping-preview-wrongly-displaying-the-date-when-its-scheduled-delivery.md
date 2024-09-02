@@ -18,7 +18,9 @@ internalReference: 743774
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O Checkout UI converte a hora usando o fuso horário do computador exibindo a data de entrega de forma incorreta na visualização da remessa (carrinho) quando os itens são entregues programados.

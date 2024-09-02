@@ -18,7 +18,9 @@ internalReference: 649948
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar abrir una colección en el módulo de nuevas colecciones de una subcuenta se devuelve un error "Lo sentimos, se ha producido un error desconocido".

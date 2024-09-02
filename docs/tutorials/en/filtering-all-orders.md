@@ -15,11 +15,13 @@ legacySlug: filtering-orders-in-oms, filtering-orders-on-the-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
->ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+<div class = "alert alert-info">
+You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
+</div>
 
 In the **Orders** module, the **All Orders** page allows you to access your store's orders, search and filter them, as shown in the image below:
 
-![search_bar_EN](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
+![search_bar_EN](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
 
 This article explains how to use these resources, and it is divided into:
 
@@ -47,7 +49,9 @@ To search using the search bar, type in the desired term and press the `enter` k
 
 [Sequence](https://help.vtex.com/en/tutorial/cuidados-ao-definir-a-numeracao-de-pedido--VAKKptfcaOxFxM8gfPobu) is a six-digit string displayed in your VTEX Admin right after the order ID. For example, in order `1268540501456-01 (501456)`, the order ID is `1268540501456`, the `-01` indicates that a seller will handle fulfillment, and the sequence is `501456`. 
 
->ℹ️ In addition to the list above, it is possible to activate other search criteria, as you will see in the [Other](https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192#filters-other) section.
+<div class = "alert alert-info">
+In addition to the list above, it is possible to activate other search criteria, as you will see in the <a href="https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192#filters-other">Other</a> section.
+</div>
 
 By default, the **All orders** page has the orders created **Today** filter activated. To search by other dates, use the filters available under [Filters: Date](#filters-date) or [Created](#created).
 
@@ -59,9 +63,11 @@ Searching on All orders returns all orders related to the criteria used, regardl
 
 Enter the desired term in the search bar to search on All orders. This will make <i class="fas fa-toggle-on"></i> `Remove date limit` option visible. Then, activate it to search.
 
-![search_bar_without_time_limit_EN](https://images.ctfassets.net/alneenqid6w5/2ii9VFh5uRpG4Ad0nwIIN0/c861b2b825068d861850bce56660aa30/search_bar_without_time_limit_EN.png)
+![search_bar_without_time_limit_EN](//images.ctfassets.net/alneenqid6w5/2ii9VFh5uRpG4Ad0nwIIN0/c861b2b825068d861850bce56660aa30/search_bar_without_time_limit_EN.png)
 
->❗ The search on All orders cannot be combined with other filters. So, once you remove the date limit from the search, any active filters become inactive. If the search term is removed or the <i class="fas fa-toggle-off"></i> **Remove date limit** is disabled, the previously configured filters become active again.
+<div class="alert alert-danger">
+The search on All orders cannot be combined with other filters. So, once you remove the date limit from the search, any active filters become inactive. If the search term is removed or the <i class="fas fa-toggle-off"></i> <b>Remove date limit</b> is disabled, the previously configured filters become active again.
+</div>
 
 ### Search by combining filters
 
@@ -75,7 +81,7 @@ Searching by associated filters allows you to combine different filters, which a
 
 On the **Orders > All Orders** page, there is `Filters` option, as shown in the image below: 
 
-![search_bar_EN](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
+![search_bar_EN](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
 
 When you click `Filters`, a modal is displayed with the following options:
 
@@ -86,7 +92,9 @@ When you click `Filters`, a modal is displayed with the following options:
 
 Select the desired option and click 'Apply' to apply a filter to the search. To remove applied filters, click **Clear Filters > Apply**.
 
->ℹ️ By default, the <i class="fas fa-toggle-on"></i> **My time zone: GMT-3** option appears enabled for all filters. When disabled, the time zone reference changes to GMT-0 and, if re-enabled, becomes the time zone adopted by the user's browser.
+<div class = "alert alert-info">
+By default, the <i class="fas fa-toggle-on"></i> <b>My time zone: GMT-3</b> option appears enabled for all filters. When disabled, the time zone reference changes to GMT-0 and, if re-enabled, becomes the time zone adopted by the user's browser.
+</div>
 
 If there is no match for the filter combination used in the search, the search won't provide any results.
 
@@ -189,17 +197,19 @@ Click `Filters` to use these filters and select **Other**. You can find the opti
 
 On the **Orders > All Orders** page, there is the `Filter by Status` <i class="fas fa-angle-down"></i> option, as shown in the image below:
 
-![search_bar_EN](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
+![search_bar_EN](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
 
 When clicking `Filter by Status` <i class="fas fa-angle-down"></i>, your store's [order status](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196) options are displayed. For example, if among all your orders, there are no canceled ones, this option will not be visible. 
 
->ℹ️ For more status filter options, go to the section [Filters: Status](https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192#filters-status). If you want to check all existing order status, read the article [Order flow and status](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
+<div class = "alert alert-info">
+For more status filter options, go to the section <a href="https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192#filters-status">Filters: Status</a>. If you want to check all existing order status, read the article <a href="https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196">Order flow and status</a>.
+</div>
 
 ## Created
 
 On the **Orders > All Orders** page, there is the option `Created: Today` <i class="fas fa-angle-down"></i>, as shown in the image below:
 
-![search_bar_EN](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
+![search_bar_EN](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
 
 This filter has the **Today** date enabled by default, but by clicking it, the following options are displayed:
 
@@ -209,6 +219,8 @@ This filter has the **Today** date enabled by default, but by clicking it, the f
 * Current month
 * Last 30 days
 
->ℹ️ By default, the <i class="fas fa-toggle-on"></i> **My time zone: GMT-3** option is enabled. When disabled, the time zone reference changes to GMT-0 and, if re-enabled, becomes the time zone used in the user's browser.
+<div class = "alert alert-info">
+By default, the <i class="fas fa-toggle-on"></i> <b>My time zone: GMT-3</b> option is enabled. When disabled, the time zone reference changes to GMT-0 and, if re-enabled, becomes the time zone used in the user's browser.
+</div>
 
 For more date and period filter options, visit the [Filters: Date](#filters-date) section. 

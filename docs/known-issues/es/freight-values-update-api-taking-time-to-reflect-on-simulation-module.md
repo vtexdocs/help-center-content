@@ -18,7 +18,9 @@ internalReference: 621230
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las actualizaciones del valor del flete están tardando más de 1 día en reflejarse en la simulación de envío cuando la actualización se solicitó mediante el método POST de la API. Este problema es intermitente, normalmente la actualización tarda sólo unos minutos.

@@ -18,7 +18,9 @@ internalReference: 328943
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En la página de campos de especificación, nuestro administrador heredado tiene un botón de "eliminar" que no funciona, esta acción no está disponible para la tienda.

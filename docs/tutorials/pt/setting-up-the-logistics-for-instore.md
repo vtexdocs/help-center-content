@@ -15,8 +15,10 @@ legacySlug: configurar-logistica-para-o-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
->ℹ️ Aviso: Esta documentação está em processo de atualização para refletir a mudança do conceito de Painéis para 
-> [estratégia de envio](https://help.vtex.com/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl). 
+<div class="alert alert-info">
+Aviso: Esta documentação está em processo de atualização para refletir a mudança do conceito de Painéis para 
+<a href="https://help.vtex.com/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">estratégia de envio</a>.
+</div> 
 
 
 Para que o inStore funcione corretamente, é necessário realizar uma configuração logística específica para ele. O inStore deve ser configurado com um __ponto de retirada__. O cadastro logístico segue duas etapas:

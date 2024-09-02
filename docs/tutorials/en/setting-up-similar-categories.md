@@ -3,8 +3,8 @@ title: 'Setting up Similar Categories'
 id: tutorials_204
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:03.892Z
-updatedAt: 2023-02-13T19:52:52.306Z
-publishedAt: 2023-02-13T19:52:52.306Z
+updatedAt: 2024-08-08T19:19:13.231Z
+publishedAt: 2024-08-08T19:19:13.231Z
 firstPublishedAt: 2017-04-27T23:00:46.323Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -38,6 +38,10 @@ Only the main product category will define the fields, specifications and filter
 Similarly, if you filter for __Glass Cups__ in the __Jars__ category, you will not see the glass cups, since it is impossible to populate a similar category field for a product in the main category.
 
 ## Similar Category within a category
+
+<div class="alert alert-warning">
+  <p>This setting is only compatible with stores using <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Legacy CMS Portal</a>.</p>
+</div>
 
 When editing a category, you can set up its like category. When you complete this kind of configuration at category level, the navigation menu will display a link to the similar category at the original category level.
 

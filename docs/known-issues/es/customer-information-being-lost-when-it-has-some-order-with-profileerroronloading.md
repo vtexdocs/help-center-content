@@ -1,5 +1,5 @@
 ---
-title: "Se pierde la información del cliente cuando tiene algún pedido con 'profileErrorOnLoading'"
+title: 'Se pierde la información del cliente cuando tiene algún pedido con "profileErrorOnLoading"'
 id: 7B0eutLBOCKOun4iwALVpq
 status: PUBLISHED
 createdAt: 2023-06-27T12:51:33.790Z
@@ -18,7 +18,9 @@ internalReference: 340036
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el pedido tiene "profileErrorOnLoading=true", el comportamiento esperado es que el perfil del cliente, la dirección y la tarjeta de crédito no se guarden/actualicen en el Sistema de Perfiles.

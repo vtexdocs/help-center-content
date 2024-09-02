@@ -21,7 +21,7 @@ To offer subscription plans for your customers, you need to install the Subscrip
 
 On the **Plans** page, you can view and manage the subscription plans available to your customers, as illustrated below.
 
-![planslist EN](https://images.ctfassets.net/alneenqid6w5/5PAOM3BmvgeIjU1ruAmEYG/0355551976bbb3465d4ddad5ca8cd254/planslist_EN.png)
+![planslist EN](//images.ctfassets.net/alneenqid6w5/5PAOM3BmvgeIjU1ruAmEYG/0355551976bbb3465d4ddad5ca8cd254/planslist_EN.png)
 
 Here are the main features of this page:
 
@@ -63,13 +63,17 @@ Each column of the subscription plan list displays different information. See be
     * **Active**: means that the plan is available for customers creating new subscriptions with associated products.
     * **Inactive**: means that the plan is not available for customers creating new subscriptions, even if they include associated products.
 
->ℹ️ Inactive plans are disabled only for new subscriptions. If a customer created a subscription when the plan was active, it would continue to place orders in the next cycle dates for that customer.
+<div class="alert alert-info">
+<p>Inactive plans are disabled only for new subscriptions. If a customer created a subscription when the plan was active, it would continue to place orders in the next cycle dates for that customer.</p>
+</div>
 
 * <i class="fas fa-ellipsis-v"></i> **button**: by clicking on this button, you can perform the following actions.
     * **Edit**: opens the page to edit the subscription plan.
     * **Delete**: allows you to delete the plan permanently. Before deleting it, a window will appear asking you to confirm your choice. If you click on `Delete plan`, this action **cannot** be undone.
 
->⚠️ When a plan is deleted, customers who have this plan will **not** have their orders placed in the next subscription cycles. To prevent this plan from being used in new subscriptions but keep placing future orders from its pre-existing subscriptions, you should disable the plan instead of deleting it.
+<div class="alert alert-warning">
+  <p>When a plan is deleted, customers who have this plan will <strong>not</strong> have their orders placed in the next subscription cycles. To prevent this plan from being used in new subscriptions but keep placing future orders from its pre-existing subscriptions, you should disable the plan instead of deleting it.</p>
+</div>
 
 ## Show rows
 

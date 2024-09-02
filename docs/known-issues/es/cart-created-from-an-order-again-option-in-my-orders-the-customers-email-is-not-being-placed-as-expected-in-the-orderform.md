@@ -1,5 +1,5 @@
 ---
-title: "Carro creado a partir de una opción 'pedir de nuevo' en Mis pedidos, el correo electrónico del cliente no se está colocando como se esperaba en el orderForm"
+title: 'Carro creado a partir de una opción "pedir de nuevo" en Mis pedidos, el correo electrónico del cliente no se está colocando como se esperaba en el orderForm'
 id: 6dDhkaIhquOqaDuNkVZuln
 status: PUBLISHED
 createdAt: 2023-12-04T22:41:21.385Z
@@ -18,7 +18,9 @@ internalReference: 947563
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

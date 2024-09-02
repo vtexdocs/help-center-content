@@ -15,7 +15,9 @@ legacySlug: order-listing-beta
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
->ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+<div class = "alert alert-info">
+You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
+</div>
 
 The **All Orders** page allows retailers to track their store's orders and extract information for intelligent business management. To access the page, go to your VTEX Admin menu and click **Orders > All Orders**. On this page, you can:
 
@@ -26,7 +28,7 @@ The **All Orders** page allows retailers to track their store's orders and extra
 
 The following sections provide more details about each page component and its actions.
 
-![Order Listing EN](https://images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/e39aa9ff8eab7e0a031c2d7464dc2e87/Order_Listing_EN.gif)
+![Order Listing EN](//images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/e39aa9ff8eab7e0a031c2d7464dc2e87/Order_Listing_EN.gif)
 
 Besides searching for orders in **Orders > All Orders**, you can search for orders from any page in the VTEX Admin using the global search bar at the top bar. By default, the search is configured as `Pages`. To search for an order, click on the bar, select `Orders`, and use one of the following criteria:
 
@@ -164,7 +166,7 @@ Learn more about each column.
 
 ## VTEX DO
 
-![VTEX Do overview EN](https://images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/0b341bae7a9f462483ddefb3ad044e14/VTEX_Do_overview_EN.gif)
+![VTEX Do overview EN](//images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/0b341bae7a9f462483ddefb3ad044e14/VTEX_Do_overview_EN.gif)
 
 [VTEX DO](https://help.vtex.com/en/tutorial/vtex-do-beta--7KMbRL4OslN8DTX9oiuCiu) manages tasks automatically created by the VTEX Admin that require manual action by the ecommerce team. 
 

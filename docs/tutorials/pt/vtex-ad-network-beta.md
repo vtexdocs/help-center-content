@@ -1,10 +1,10 @@
 ---
 title: 'VTEX Ad Network (Beta)'
 id: 2cgqXcBuJmXN2livQvClur
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-04-23T17:38:07.378Z
-updatedAt: 2024-07-05T13:14:45.135Z
-publishedAt: 2024-07-05T13:13:03.955Z
+updatedAt: 2024-08-09T21:21:48.620Z
+publishedAt: 2024-08-09T21:21:48.620Z
 firstPublishedAt: 2024-04-23T19:11:42.313Z
 contentType: tutorial
 productTeam: Others
@@ -15,7 +15,9 @@ legacySlug: vtex-ad-network-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
->ℹ️ O VTEX Ad Network está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+<div class = "alert alert-info">
+<p>O VTEX Ad Network está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o <a href="https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Suporte Comercial</a>. Se ainda não é cliente, mas tem interesse nesta solução, preencha o <a href="https://vtex.com/br-pt/contato/">formulário de contato</a>.</p>
+</div>
 
 O **VTEX Ad Network** conecta lojas VTEX a marcas interessadas em anunciar seus produtos. Com esta conexão, anunciantes e lojas VTEX podem potencializar seu negócio:
 
@@ -43,7 +45,7 @@ Atualmente, a VTEX disponibiliza um único formato de anúncio: produtos patroci
 
 Veja abaixo um exemplo da exibição deste formato:
 
-![vtex_ad_network_sponsored_PT](https://images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/12e38a4f482a08d13f823b17a88fbf5b/vtex_ad_network_sponsored.png)
+![vtex_ad_network_sponsored_PT](//images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/12e38a4f482a08d13f823b17a88fbf5b/vtex_ad_network_sponsored.png)
 
 Lojas participantes do **VTEX Ad Network** poderão [configurar a quantidade de espaços de anúncio](https://help.vtex.com/pt/tutorial/advertising-with-vtex-ad-network-beta--5WoXcJzHc7EQElpPjziqse#criando-uma-campanha) que disponibilizarão em cada um destes contextos na loja.
 
@@ -70,7 +72,9 @@ Este processo de priorização ocorre em três etapas:
 
 Uma vez determinados os anúncios exibidos na página, determina-se o valor dos lances. O lance vencedor do leilão terá o valor final do segundo maior lance mais R$ 0,01.
 
->❗ É possível que nenhum anúncio seja selecionado com o processo de priorização, caso não haja produtos promovidos que se encaixem no contexto de navegação, na cobertura de loja ou que não tenham orçamento disponível.
+<div class="alert alert-danger">
+É possível que nenhum anúncio seja selecionado com o processo de priorização, caso não haja produtos promovidos que se encaixem no contexto de navegação, na cobertura de loja ou que não tenham orçamento disponível.
+</div>
 
 ### Índice de qualidade
 
@@ -105,7 +109,9 @@ Confira abaixo como você pode fazer parte do **VTEX Ad Network**, seja como [lo
 
 ### Lojas
 
->⚠️ Por ora, apenas lojas desenvolvidas com [Store Framework](https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework) podem disponibilizar espaço de anúncios.
+<div class="alert alert-warning">
+Por ora, apenas lojas desenvolvidas com <a href="https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a> podem disponibilizar espaço de anúncios.
+</div>
 
 Para disponibilizar espaço publicitário na sua loja, você precisa entrar em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) para solicitar a instalação do app __VTEX Ad Network para lojas__ na sua conta VTEX.
 

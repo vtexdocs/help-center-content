@@ -18,7 +18,9 @@ internalReference: 734833
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En Admin V4, en el módulo Banners, el usuario tiene la posibilidad de crear o actualizar banners ya creados. Al seleccionar un banner para actualizar, puede elegir entre utilizar un campo HTML o insertar un enlace de imagen directo con una URL externa. Al seleccionar insertar el banner mediante un enlace de imagen directo, se lanza la consulta GraphQL, que actualmente no funciona correctamente, devolviendo `syntaxError`, en consecuencia, error 500.

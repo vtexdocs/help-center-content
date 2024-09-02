@@ -18,7 +18,9 @@ internalReference: 328464
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O modal de pontos de coleta, do checkout, mostra em azul as opções válidas como SLA calculado para o carrinho e em cinza outras opções que não foram previamente calculadas como SLA, para que o comprador possa saber sobre essas opções e até mesmo verificar sua disponibilidade sob demanda. Estas opções vêm da API `/api/checkout/pub/pickup-points' (que é apenas um proxy para o serviço de Logística), que listará cada ponto de pickup da loja.

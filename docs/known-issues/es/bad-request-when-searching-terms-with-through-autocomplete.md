@@ -1,5 +1,5 @@
 ---
-title: "Solicitud incorrecta al buscar términos con '#' mediante autocompletar"
+title: 'Solicitud incorrecta al buscar términos con "#" mediante autocompletar'
 id: 18pMsxubB9eSPGlULAN35p
 status: PUBLISHED
 createdAt: 2024-02-06T20:07:52.739Z
@@ -18,7 +18,9 @@ internalReference: 978136
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al buscar un término con "#" directamente mediante autocompletar, la página nunca se carga

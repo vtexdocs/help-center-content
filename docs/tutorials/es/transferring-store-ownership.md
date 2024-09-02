@@ -25,7 +25,7 @@ La página de «Gestión de titular» le permite identificar al usuario titular 
 
 Debe ver una pantalla similar a la imagen a continuación que tiene la información del usuario titular actual, un descargo de responsabilidad que indica los riesgos asociados a la transferencia de la propiedad de la tienda y un botón para aceptar los riesgos y transferir la propiedad de todas maneras.
 
-![Panel de gestión de titular](https://images.ctfassets.net/alneenqid6w5/7AiPMmn3NnMjg89WgEfBXP/8220a9866df4786fcff4fb3b5a29f6ca/Sponsor_Management_es.png)
+![Panel de gestión de titular](//images.ctfassets.net/alneenqid6w5/7AiPMmn3NnMjg89WgEfBXP/8220a9866df4786fcff4fb3b5a29f6ca/Sponsor_Management_es.png)
 
 ## Pasos de la transferencia de propiedad
 
@@ -51,7 +51,7 @@ Esto completa la transferencia de propiedad y ya no se podrá cancelar la invita
 
 El usuario titular es responsable de importantes acciones de mantenimiento y autorización, y los errores cometidos por él pueden tener consecuencias graves. Por lo tanto, es esencial seguir los cambios relacionados con este rol de usuario. Para monitorizar y auditar las transferencias de propiedad de la cuenta, puede acceder al registro de actividades haciendo clic en el botón Registro de Actividades en la página Gestión de Titular.
 
-![Registro de Actividades](https://images.ctfassets.net/alneenqid6w5/6iXw7ib1Wsq4BiyR4Dgp8C/65400ca2fe5cf04983b4b774327de310/Activity_Log_es.gif)
+![Registro de Actividades](//images.ctfassets.net/alneenqid6w5/6iXw7ib1Wsq4BiyR4Dgp8C/65400ca2fe5cf04983b4b774327de310/Activity_Log_es.gif)
 
 Todos los eventos relacionados con la transferencia de propiedad de la cuenta se registran en el registro de actividades con la fecha en que se produjeron y el usuario asociado al evento.
 

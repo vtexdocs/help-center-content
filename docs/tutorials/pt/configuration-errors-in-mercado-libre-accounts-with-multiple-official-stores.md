@@ -15,7 +15,9 @@ legacySlug: erro-de-configuracao-de-lojas-guarda-chuva
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
->ℹ️ Caso você possua lojas oficiais no Mercado Livre, essa documentação pode ser relevante. O Mercado Livre possui parâmetros próprios para certificar sellers para serem lojas oficiais. Para mais informações, entre em contato com o seu consultor do Mercado Livre.
+<div class="alert alert-info">
+Caso você possua lojas oficiais no Mercado Livre, essa documentação pode ser relevante. O Mercado Livre possui parâmetros próprios para certificar sellers para serem lojas oficiais. Para mais informações, entre em contato com o seu consultor do Mercado Livre.
+</div>
 
 Chamamos de lojas guarda chuva as contas no [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd) que possuem múltiplas [lojas oficiais](https://www.mercadolivre.com.br/lojas-oficiais/catalogo) vinculadas ao mesmo usuário no Mercado Livre. A arquitetura funciona da seguinte forma: o [seller](https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) integra suas [subaccounts](https://help.vtex.com/pt/tutorial/o-que-e-store-name--3gh9mTNeMgs6Qe44e8IqQK?&utm_source=autocomplete) com o Mercado Livre de forma que as lojas oficiais do usuário do Mercado Livre ficam vinculadas às subaccounts do seller.
 
@@ -27,7 +29,7 @@ Nesse cenário, caso um cliente do Mercado Livre faça uma compra com dois ou ma
 
 A VTEX não recomenda esse tipo de configuração porque os pedidos nesse cenário não irão integrar.
 
-![cenario problema](https://images.contentful.com/alneenqid6w5/5DYri1Pw4wLdVV2g6kIUTP/11dad204a77517227931d73f5f2bb100/cenario_problema.JPG)
+![cenario problema](//images.contentful.com/alneenqid6w5/5DYri1Pw4wLdVV2g6kIUTP/11dad204a77517227931d73f5f2bb100/cenario_problema.JPG)
 
 Entretanto, existem dois cenários na integração das lojas VTEX com o Mercado Livre que podem evitar que esse conflito aconteça. Para isso é necessário que sua loja tenha as seguintes configurações:
 
@@ -40,7 +42,7 @@ O seller utiliza uma única subaccount na VTEX e integra com uma única conta no
 
 Nesse cenário, caso um usuário faça uma compra no Mercado Livre com dois ou mais produtos no carrinho das diferentes lojas oficiais da conta do seller, o pedido será importado na VTEX sem problemas. Isso acontece porque os produtos que estão sendo anunciados no Mercado Livre fazem parte do catálogo de uma única subaccount VTEX.
 
-![cenario ideal](https://images.contentful.com/alneenqid6w5/6aVRPYSaLIYnIknsdqzCFz/8b8f5380a55d4b0e494f6599918e073f/cenario_ideal.JPG)
+![cenario ideal](//images.contentful.com/alneenqid6w5/6aVRPYSaLIYnIknsdqzCFz/8b8f5380a55d4b0e494f6599918e073f/cenario_ideal.JPG)
 
 ## Múltiplas subaccounts VTEX e múltiplas lojas oficiais
 
@@ -48,4 +50,4 @@ O seller VTEX possui duas ou várias sub accounts e utiliza cada uma delas para 
 
 Nesse cenário, caso um usuário faça uma compra no Mercado Livre com dois ou mais produtos no mesmo carrinho pertencentes a subaccounts diferentes, os pedidos serão integrados normalmente em cada sub account na VTEX. Isso ocorre já que cada pedido gerado no Mercado Livre está vinculado a uma subaccount diferente na VTEX, portanto  os produtos vendidos coincidem com o catálogo de cada subaccount.
 
-![cenario atual](https://images.contentful.com/alneenqid6w5/73HsUcU7h3BwDNlTGeB1kq/7a52aa2da4fb12abfbad86abd70bc9d2/cenario_atual.JPG)
+![cenario atual](//images.contentful.com/alneenqid6w5/73HsUcU7h3BwDNlTGeB1kq/7a52aa2da4fb12abfbad86abd70bc9d2/cenario_atual.JPG)

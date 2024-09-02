@@ -17,7 +17,8 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 PayU Global es un [gateway de pagos](/es/tutorial/que-es-un-gateway-de-pagos) que ofrece una serie de soluciones para facilitar (y dejar más seguras) las transacciones realizadas en su tienda. Con la [certificación PCI](/es/faq/que-es-el-pci-ssc), esta solución es exclusiva para las tiendas de Rumania.
 
->ℹ️ Atención: actualmente, VTEX solo es compatible con las versiones 1.0.0 y 1.0.1 de PaymentsOS.
+<div class="alert alert-info"> Atención: actualmente, VTEX solo es compatible con las versiones 1.0.0 y 1.0.1 de PaymentsOS. 
+</div>
 
 Para configurar PayU Global, siga los pasos abajo:
 

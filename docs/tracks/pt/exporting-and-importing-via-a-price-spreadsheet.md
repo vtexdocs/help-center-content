@@ -3,8 +3,8 @@ title: 'Exportação e importação via planilha de preços'
 id: 5lV5s54lQ69zPXxngbpI5D
 status: PUBLISHED
 createdAt: 2023-01-16T16:06:30.799Z
-updatedAt: 2023-01-18T13:25:44.387Z
-publishedAt: 2023-01-18T13:25:44.387Z
+updatedAt: 2024-08-23T16:20:51.694Z
+publishedAt: 2024-08-23T16:20:51.694Z
 firstPublishedAt: 2023-01-17T12:31:08.844Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -38,7 +38,11 @@ Para exportar a planilha de preços, siga os passos a seguir:
    - **Tabela de preços calculados:** o preço final que será exibido na loja, esse preço não reflete promoções.
 4. Clique no botão `Exportar tabela`.
 > Em seguida, a tabela de preço selecionada abrirá na interface.
-5. No arquivo que se abriu, preencha as linhas com os dados de preço dos SKUs. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [preencher campos da planilha de importação de preços base](https://help.vtex.com/pt/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-base--4Jox8TeQ5feqAn78TZ0DNA) ou [preencher campos da planilha de importação de preços fixos](https://help.vtex.com/pt/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-fixo--50RFoH3ruV97FJgeBUCURh).
+5. No arquivo que se abriu, preencha as linhas com os dados de preço dos SKUs. A Tabela de Preço exportada possui apenas produtos com preços cadastrados, produtos que não possuem preço não aparecem na planilha. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [preencher campos da planilha de importação de preços base](https://help.vtex.com/pt/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-base--4Jox8TeQ5feqAn78TZ0DNA) ou [preencher campos da planilha de importação de preços fixos](https://help.vtex.com/pt/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-fixo--50RFoH3ruV97FJgeBUCURh).
+
+<div class="alert alert-warning">
+A exportação de tabelas de preços no formato <strong>XLSX</strong> está limitada a 1.048.576 linhas devido a uma limitação do Excel, exportações que excedam esse limite geram erro.
+</div>
 
 Após a exportação ser concluída, você receberá a planilha pelo seu email cadastrado na loja VTEX. Também será possível fazer o download da exportação clicando no botão `Baixar exportação`.
 

@@ -47,4 +47,6 @@ Apollo (framework that helps React and GraphQL to work together)
 Fullstack (React + Apollo + GraphQL)
 - https://www.howtographql.com/react-apollo/0-introduction/
 
->ℹ️ Initially, only front-end development is possible. Therefore, the required initial knowledge scope is limited to React.
+<div class="alert alert-info">
+Initially, only front-end development is possible. Therefore, the required initial knowledge scope is limited to React.
+</div>

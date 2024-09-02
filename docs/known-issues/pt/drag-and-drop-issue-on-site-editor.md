@@ -18,7 +18,9 @@ internalReference: 685103
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os clientes não podem usar o recurso de arrastar e soltar no editor do site para carregar imagens, isto provavelmente ocorre em conjunto com nossa nova implementação de nosso novo Gerenciamento de Mídia CMS.

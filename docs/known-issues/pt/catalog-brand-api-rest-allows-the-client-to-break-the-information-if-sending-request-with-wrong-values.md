@@ -18,7 +18,9 @@ internalReference: 269109
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há muitas rotas que suportam algum tipo de valor, mas se o cliente usar outro tipo de valor (por exemplo, inserir nulo em vez de booleano) pode quebrar a interface do produto / SKU / categoria / marca. Negar ao cliente a atualização das informações por meio do administrador.

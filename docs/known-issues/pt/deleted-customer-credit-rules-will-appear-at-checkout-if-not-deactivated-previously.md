@@ -18,7 +18,9 @@ internalReference: 994066
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se você tiver o aplicativo `vtex.custom-payments` instalado e excluir uma regra de pagamento de crédito do cliente sem desativá-la primeiro, ela será processada no checkout.

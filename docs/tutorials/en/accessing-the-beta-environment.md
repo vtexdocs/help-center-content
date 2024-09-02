@@ -17,7 +17,9 @@ subcategory: Se4oi5LroIII2Ei0uGAoE
 
 On VTEX, all stores have a beta environment, where platform users (sales associates, developers, or other authorized users) can run tests to validate new settings or versions of applications/services before making changes to the stable environment.
 
->ℹ️ The beta environment is an exact replica of the stable environment, including store data and configurations.
+<div class = "alert alert-info">
+The beta environment is an exact replica of the stable environment, including store data and configurations.
+</div>
 
 In this way, **changing data in the beta environment will also affect data in the stable environment**.
 
@@ -41,4 +43,6 @@ To access the beta environment in your store, enable the <code>vtex-commerce-env
 </li>
 </ol>
 
->ℹ️ To go back to the main store environment, return to the Dev. Tools panel in your browser and remove the vtex-commerce-env cookie. Refresh the page again to switch back to the **stable** environment.
+<div class = "alert alert-info">
+To go back to the main store environment, return to the Dev. Tools panel in your browser and remove the vtex-commerce-env cookie. Refresh the page again to switch back to the <b>stable</b> environment.
+</div>

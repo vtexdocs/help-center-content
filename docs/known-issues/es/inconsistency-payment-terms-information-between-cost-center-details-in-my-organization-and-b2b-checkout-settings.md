@@ -18,7 +18,9 @@ internalReference: 847340
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Información inconsistente entre los Detalles del Centro de Coste en Mi Organización y los Ajustes de Pago B2B donde Mi Organización muestra un término de pago desactivado, pero el término de pago se sigue mostrando al acceder al pago.

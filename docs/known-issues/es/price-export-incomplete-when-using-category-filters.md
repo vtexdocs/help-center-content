@@ -18,7 +18,9 @@ internalReference: 753466
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar exportar una hoja de cálculo de precios fijos utilizando los filtros de categorías, algunos skus no aparecen en la hoja de cálculo a pesar de tener precios fijos. La cantidad habitual de skus que se devuelven es de 250.

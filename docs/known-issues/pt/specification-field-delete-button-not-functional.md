@@ -18,7 +18,9 @@ internalReference: 328943
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Na página de campos de especificação, nosso administrador legado tem um botão "remover" que não funciona, esta ação não está disponível para a loja.

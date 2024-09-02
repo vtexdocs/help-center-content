@@ -18,7 +18,9 @@ internalReference: 802156
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando dois ou mais vendedores podem preencher um carrinho com mais de um item, a API do Checkout pode não agrupar pacotes selecionando vendedores diferentes para cada produto. Isso aumenta o valor do frete para o comprador.

@@ -17,7 +17,9 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 On the [All Orders](https://help.vtex.com/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) page, you can keep track of your store's orders, and on the [order details page](https://help.vtex.com/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) you can view stages and perform actions throughout the life cycle of an order. You can check the status and interactions of the order, access customer, delivery, and payment data, track delivery, and send [emails](https://help.vtex.com/en/tutorial/understanding-the-message-center--tutorials_84) to customers.
 
->ℹ️ For more information on the **Orders**module, read our article [All Orders](https://help.vtex.com/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi). To learn about the statuses (stages) of the order flow, read our article[Order flow and status](https://help.vtex.com/en/tutorial/order-flow-on-the-oms--tutorials_196).
+<div class = "alert alert-info">
+For more information on the <b>Orders</b>module, read our article <a href="https://help.vtex.com/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi">All Orders</a>. To learn about the statuses (stages) of the order flow, read our article<a href="https://help.vtex.com/en/tutorial/order-flow-on-the-oms--tutorials_196">Order flow and status</a>.
+</div>
 
 To track an order, follow the steps below:
 

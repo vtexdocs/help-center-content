@@ -18,7 +18,9 @@ internalReference: 607411
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em novas sessões (navegadores diferentes) para a mesma ordemFormulário, a opção selecionada anteriormente não é levada em conta, sendo sempre sobreposta à opção "mais barata", afeta especialmente os cenários de carrinho compartilhado

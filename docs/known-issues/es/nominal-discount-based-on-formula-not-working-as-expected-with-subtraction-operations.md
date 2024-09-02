@@ -18,7 +18,9 @@ internalReference: 886980
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al crear una promoción utilizando Descuento nominal basado en fórmula, el comerciante puede utilizar las siguientes operaciones de acuerdo con esta documentación: https://help.vtex.com/en/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV

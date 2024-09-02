@@ -38,9 +38,11 @@ Esto abrirá una ventana del navegador que solicitará sus credenciales.
 
 Cuando esté conectado, usted puede utilizar el comando `vtex whoami` para descubrir qué *cuenta* y *workspace* está utilizando actualmente.
 
-![Command Line](https://images.ctfassets.net/alneenqid6w5/31AVvcWcRpL1CoKdUyARyu/9ea4d722d8955bb580a76402507e4013/Command_Line.svg)
+![Command Line](//images.ctfassets.net/alneenqid6w5/31AVvcWcRpL1CoKdUyARyu/9ea4d722d8955bb580a76402507e4013/Command_Line.svg)
 
->ℹ️ Sugerencia: Usted puede configurar su terminal para mostrar automáticamente su cuenta y workspace. La manera más fácil de hacer esto es usar nuestros [dotfiles](https://github.com/vtex/dotfiles), que configuran automáticamente la [Fish Shell](https://fishshell.com/) y añaden una [función de prompt](https://github.com/vtex/dotfiles/blob/master/fish/functions/fish_prompt.fish) para usted.
+<div class="alert alert-info">
+Sugerencia: Usted puede configurar su terminal para mostrar automáticamente su cuenta y workspace. La manera más fácil de hacer esto es usar nuestros <a href="https://github.com/vtex/dotfiles">dotfiles</a>, que configuran automáticamente la <a href="https://fishshell.com/">Fish Shell</a> y añaden una <a href="https://github.com/vtex/dotfiles/blob/master/fish/functions/fish_prompt.fish">función de prompt</a> para usted.
+</div>
 
 ## Workspaces: su ambiente de desarrollo aislado
 
@@ -52,7 +54,7 @@ De forma predeterminada, cuando inicie sesión en una tienda, usted está en el 
 $ vtex ls
 ```
 
-![Command Line vtex ls](https://images.ctfassets.net/alneenqid6w5/4AH5vzt1JfOCzIDtB0fRvR/110dda0479f9aa9891062ece2766837f/Command_Line_vtex_ls.svg)
+![Command Line vtex ls](//images.ctfassets.net/alneenqid6w5/4AH5vzt1JfOCzIDtB0fRvR/110dda0479f9aa9891062ece2766837f/Command_Line_vtex_ls.svg)
 
 ## Creando su propio workspace
 
@@ -64,10 +66,12 @@ $ vtex use sunombre
 
 Esto cambia su toolbelt a un workspace llamado `sunombre`, y lo crea si no existe.
 
->ℹ️ Sugerencia: Usted puede cambiar a (*y restablecer*) un workspace master con un solo comando con la flag `-r`. Esto es útil si desea empezar desde cero en el `master`.
+<div class="alert alert-info">
+Sugerencia: Usted puede cambiar a (<em>y restablecer</em>) un workspace master con un solo comando con la flag <code>-r</code>. Esto es útil si desea empezar desde cero en el <code>master</code>.
+</div>
 
 Los workspaces pueden ser nombrados arbitrariamente, pero generalmente es conveniente asignar su propio nombre cuando usted desea desarrollar en su ambiente.
 
-![command line workspace](https://images.ctfassets.net/alneenqid6w5/1Urbt6L0XfNEWukSvdKRdK/41e7e9c9f900fb96ddf5fc3aa6d7c2af/command_line_workspace.svg)
+![command line workspace](//images.ctfassets.net/alneenqid6w5/1Urbt6L0XfNEWukSvdKRdK/41e7e9c9f900fb96ddf5fc3aa6d7c2af/command_line_workspace.svg)
 
 Ahora usted tiene su propio workspace. Usted puede ejecutar `vtex list` nuevamente y observar que las apps instaladas reflejan aquellas en `master`. Ahora, vamos a "linkar" una versión local del tema de la tienda para que usted pueda comenzar a editarla.

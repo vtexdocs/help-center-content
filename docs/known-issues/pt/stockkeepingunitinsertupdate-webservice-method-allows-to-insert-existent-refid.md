@@ -18,7 +18,9 @@ internalReference: 419460
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Hoje não somos capazes de inserir/atualizar um RefId já registrado para outro SKU usando API REST, o upload de planilhas ou Administração de Catálogo, mas usando o WebService podemos inserir um RefId existente.

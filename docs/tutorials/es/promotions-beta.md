@@ -15,7 +15,9 @@ legacySlug: promociones-beta
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
->❗ Esta funcionalidad será descontinuada el 16 de mayo de 2022. Si tiene alguna duda, póngase en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.
+<div class="alert alert-danger">
+<p>Esta funcionalidad será descontinuada el 16 de mayo de 2022. Si tiene alguna duda, póngase en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.</p>
+</div>
 
 La plataforma VTEX proporciona una forma optimizada y práctica de registrar varios tipos de promociones que se adaptan a diferentes escenarios. A través de una interfaz centralizada para la gestión de promociones, su tienda puede ofrecer más beneficios centrados en atraer y retener a los clientes.
 
@@ -30,20 +32,20 @@ La página de inicio presenta la lista de promociones en una malla que permite v
 - Duplicar o archivar promociones a través del botón <i class="fas fa-ellipsis-v"></i>
 - Gestionar las condiciones de la promoción haciendo clic en cualquier lugar de la línea de la malla (consulte la sección [Nueva promoción](#nueva-promocion) para obtener detalles sobre las condiciones de la promoción).
 
-![promobeta1 acoes lista promocoes ES](https://images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/b8b32c9c2d6f39763ade1630fc34023f/promobeta1_acoes_lista_promocoes_ES.gif)
+![promobeta1 acoes lista promocoes ES](//images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/b8b32c9c2d6f39763ade1630fc34023f/promobeta1_acoes_lista_promocoes_ES.gif)
 
 La lista de promociones se puede filtrar y ordenar según sus necesidades. Es posible filtrar por *Efecto*, *Estado*, *Fecha de inicio*, *Fecha de caducidad* o *Política comercial*.
 
-![promobeta2 filtros lista promocoes ES](https://images.ctfassets.net/alneenqid6w5/4UBGUJC4RTEA9alSeHmJlh/28326256cde9d433ece9b634ceab8205/promobeta2_filtros_lista_promocoes_ES.gif)
+![promobeta2 filtros lista promocoes ES](//images.ctfassets.net/alneenqid6w5/4UBGUJC4RTEA9alSeHmJlh/28326256cde9d433ece9b634ceab8205/promobeta2_filtros_lista_promocoes_ES.gif)
 
 El orden puede ser ascendente o descendente a partir de la información básica de la promoción, simplemente haciendo clic en el título.
 
-![promobeta3 ordenacao lista promocoes ES](https://images.ctfassets.net/alneenqid6w5/60Z7afuYC3PqwTEPCVLVYd/5660b538ad60cc95faa676c4aa724d76/promobeta3_ordenacao_lista_promocoes_ES.gif)
+![promobeta3 ordenacao lista promocoes ES](//images.ctfassets.net/alneenqid6w5/60Z7afuYC3PqwTEPCVLVYd/5660b538ad60cc95faa676c4aa724d76/promobeta3_ordenacao_lista_promocoes_ES.gif)
 
 ## Nueva promoción
 Las variedades de condiciones para crear promociones se traducen en campos presentes en la pantalla de __Nueva Promoción__. La creación de una promoción que se ajuste a los estándares deseados se realiza de forma sencilla, rellenando los campos en una única pantalla a la que se accede a través del botón __NUEVA PROMOCIÓN__ de la página de inicio.
 
-![promobeta4 botao novapromocao ES](https://images.ctfassets.net/alneenqid6w5/4Zp0NocPVWeIW44Ky8pWqo/cf5363e79041f050f0b164735e8244cd/promobeta4_botao_novapromocao_ES.png)
+![promobeta4 botao novapromocao ES](//images.ctfassets.net/alneenqid6w5/4Zp0NocPVWeIW44Ky8pWqo/cf5363e79041f050f0b164735e8244cd/promobeta4_botao_novapromocao_ES.png)
 
 Tanto las condiciones de la nueva promoción como los campos de la pantalla están separados por grupos, que son:
 
@@ -96,7 +98,9 @@ Este efecto genera un descuento total sobre el valor del producto definido como 
 - __SKU__: opción que permite seleccionar el SKU que será el regalo de la compra.
 - __Cantidad máxima por compra__: opción que permite seleccionar la cantidad máxima de regalos que una compra puede recibir.
 
->⚠️ El producto de **Regalo** también debe tener un precio registrado, aunque se entrega gratuitamente al cliente.
+<div class="alert alert-warning">
+  <p>El producto de <b>Regalo</b> también debe tener un precio registrado, aunque se entrega gratuitamente al cliente.</p>
+</div>
 
 #### Envío
 - __Tipo de descuento__
@@ -122,7 +126,9 @@ Este efecto genera un descuento total sobre el valor del producto definido como 
   - __UTM Source__.
   - __Rango de códigos postales__.
 
->ℹ️ Si desea vincular un <a href= "https://help.vtex.com/es/tutorial/crear-cupon-de-descuento--tutorials_319">cupón existente</a> a la nueva promoción, debe seleccionar las opciones UTM Campaign y UTM Source e ingresar los códigos del cupón.
+<div class="alert alert-info">
+<p>Si desea vincular un <a href= "https://help.vtex.com/es/tutorial/crear-cupon-de-descuento--tutorials_319">cupón existente</a> a la nueva promoción, debe seleccionar las opciones UTM Campaign y UTM Source e ingresar los códigos del cupón.</p>
+</div>
 
 ### Cupones
 Si desea crear un nuevo cupón asociado a la promoción, haga clic en __NUEVO CUPÓN__ y rellene los siguientes campos:
@@ -135,11 +141,15 @@ Al hacer clic en __Opciones Avanzadas__, existe la posibilidad de configurar un 
 
 - __Limitar el uso__: opción que limita la cantidad de veces que se puede utilizar el cupón.
 
->⚠️ Para guardar el nuevo cupón, es necesario hacer clic en el botón **OK**. Si se cierra la ventana sin esta confirmación, no se creará el cupón.
+<div class="alert alert-warning">
+  <p>Para guardar el nuevo cupón, es necesario hacer clic en el botón <b>OK</b>. Si se cierra la ventana sin esta confirmación, no se creará el cupón.</p>
+</div>
 
 Al crear un nuevo cupón para la nueva promoción, este se mostrará también en la pestaña __Cupones__ del módulo __Tasas y Promociones__. Además, sus condiciones de UTM Source y/o UTM Campaign se vincularán automáticamente a la nueva promoción en el filtro __Clientes Específicos__.
 
->⚠️ Si se cambian las condiciones de UTM Source y UTM Campaign en la configuración del filtro **Clientes Específicos** después de haber creado el cupón mediante este flujo, el cupón se eliminará.
+<div class="alert alert-warning">
+<p>Si se cambian las condiciones de UTM Source y UTM Campaign en la configuración del filtro <b>Clientes Específicos</b> después de haber creado el cupón mediante este flujo, el cupón se eliminará.</p>
+</div>
 
 ### Restricciones
 - __Limitar el uso en su tienda__: limita la cantidad de veces que la promoción se puede aplicar a la tienda.

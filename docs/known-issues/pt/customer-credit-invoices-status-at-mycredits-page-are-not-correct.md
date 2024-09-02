@@ -18,7 +18,9 @@ internalReference: 369457
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O status da fatura na MyCredits UI das lojas espanholas não são exibidos como deveriam, eles estão mostrando os nomes dos componentes em vez de "cancelado", "expirado", "pago" ou "aberto".

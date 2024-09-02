@@ -31,7 +31,9 @@ Existem diversas maneiras de configurar redirecionamentos, sendo o uso do <code>
 
 A seguir, apresentaremos instruções para configurar redirecionamentos para o endereço principal da sua loja utilizando a ferramenta [Direcionar](http://direcionar.com.br/), por sua simplicidade de uso.
 
->⚠️ O [Direcionar](http://direcionar.com.br/) não é um serviço da VTEX e não funciona com HTTPS. Existem outros serviços similares, e a VTEX não recomenda nenhum específico. A VTEX não se responsabiliza por problemas causados por serviços externos de redirecionamento.
+<div class="alert alert-warning">
+  <p>O <a href="http://direcionar.com.br/">Direcionar</a> não é um serviço da VTEX e não funciona com HTTPS. Existem outros serviços similares, e a VTEX não recomenda nenhum específico. A VTEX não se responsabiliza por problemas causados por serviços externos de redirecionamento.</p>
+</div>
 
 ### Redirecionamento de endereço sem subdomínio (como www)
 

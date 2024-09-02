@@ -14,7 +14,9 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugES: cambiar-el-idioma-de-instore
 ---
 
->❗ El cambio de idioma explicado en este artículo implica cambiar el archivo JavaScript `checkout-instore-custom.js`. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en este archivo pueden causar errores críticos.
+<div class="alert alert-danger">
+El cambio de idioma explicado en este artículo implica cambiar el archivo JavaScript <code>checkout-instore-custom.js</code>. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en este archivo pueden causar errores críticos.
+</div>
 
 Actualmente, es posible usar el inStore en __portugués__, __inglés__ o __español__.
 
@@ -78,4 +80,4 @@ Después de hacer el cambio de código, guarde el archivo `checkout-instore-cust
 
 Luego, en la aplicación inStore, para ver los cambios reflejados, ingrese al menú y haga clic en el botón __Restaurar datos__, como se muestra en la imagen a continuación.
 
-![22. Change the inStore language - 1 - ES.png?h=250](https://images.ctfassets.net/alneenqid6w5/6kyOLVTDlyawsehMQwORid/589ff63de4574dc8cf1d9cc3ed84024a/22._Change_the_inStore_language_-_1_-_ES.png_h_250)
+![22. Change the inStore language - 1 - ES.png?h=250](//images.ctfassets.net/alneenqid6w5/6kyOLVTDlyawsehMQwORid/589ff63de4574dc8cf1d9cc3ed84024a/22._Change_the_inStore_language_-_1_-_ES.png_h_250)

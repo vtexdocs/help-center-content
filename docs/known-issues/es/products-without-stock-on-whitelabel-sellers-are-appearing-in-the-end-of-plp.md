@@ -18,7 +18,9 @@ internalReference: 495741
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los productos que no tienen stock en los vendedores de WL aparecen al final del PLP.

@@ -15,13 +15,17 @@ legacySlug: configurar-inventario-futuro
 subcategory: 32vrn4K2ZscjUaIBe6w5fm
 ---
 
->ℹ️ Esta funcionalidad está en etapa closed Beta, lo que significa que estamos trabajando para mejorarla. En caso de dudas, contacte a [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests).
+<div class="alert alert-info">
+<p>Esta funcionalidad está en etapa closed Beta, lo que significa que estamos trabajando para mejorarla. En caso de dudas, contacte a <a href="https://support.vtex.com/hc/pt-br/requests">nuestro Soporte</a>.</p>
+</div>
 
 Para algunas operaciones de e-commerce, es útil tener la capacidad de vender un artículo que no está disponible para entrega inmediata, pero que tiene una fecha estimada de llegada al stock. La funcionalidad __Inventario Futuro__ permite precisamente eso.
 
 ## Cómo funciona el Inventario Futuro
 
->⚠️ Actualmente, la configuración de Inventario Futuro solo está disponible <a target="_blank" href="https://developers.vtex.com/reference/inventory#savesupplylot">a través de API</a>.
+<div class="alert alert-warning">
+Actualmente, la configuración de Inventario Futuro solo está disponible <a target="_blank" href="https://developers.vtex.com/reference/inventory#savesupplylot">a través de API</a>.
+</div>
 
 La API de Inventario Futuro le permite registrar un __lote de suministro__. Este lote representa el inventario futuro y contiene dos datos principales:
 - Cantidad de artículos.
@@ -33,7 +37,8 @@ En este caso, las compras de estos SKU consumirán los artículos disponibles en
 
 >Tiempo de entrega final = SLA de entrega + Fecha límite para recibir el lote de suministro
 
->ℹ️ Si la fecha de recepción es anterior a la fecha del cálculo del envío, el tiempo adicional será 0 (cero), ya que, en este caso, el lote de suministro ya se recibió.
+<div class="alert alert-info">
+Si la fecha de recepción es anterior a la fecha del cálculo del envío, el tiempo adicional será 0 (cero), ya que, en este caso, el lote de suministro ya se recibió.</div>
 
 Consulte la documentación del endpoint utilizado para guardar un inventario futuro:
 [Guardar lote de suministros](https://developers.vtex.com/reference/inventory#savesupplylot)
@@ -53,7 +58,9 @@ Cuando utilice la API de Inventario Futuro, tenga en cuenta las siguientes restr
 
 Es posible transferir el inventario de un lote de suministro al inventario de entrega inmediata. Esta transferencia hace que los artículos se consideren disponibles de inmediato. Con eso, ya no hay que agregar tiempo al SLA de entrega para ellos.
 
->ℹ️ La transferencia para entrega inmediata libera espacio para registrar un nuevo lote. Es decir, si su tienda tiene 10 lotes registrados (límite permitido) y transfiere 2 de ellos para entrega inmediata, ahora tiene 8 lotes registrados y 2 espacios disponibles.
+<div class="alert alert-info">
+La transferencia para entrega inmediata libera espacio para registrar un nuevo lote. Es decir, si su tienda tiene 10 lotes registrados (límite permitido) y transfiere 2 de ellos para entrega inmediata, ahora tiene 8 lotes registrados y 2 espacios disponibles.
+</div>
 
 Consulte la documentación del endpoint utilizado para transferir un inventario futuro para entrega inmediata:
 [Transferir lote de suministros](https://developers.vtex.com/reference/inventory#transfersupplylot)

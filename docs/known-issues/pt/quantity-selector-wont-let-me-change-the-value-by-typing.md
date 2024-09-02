@@ -18,7 +18,9 @@ internalReference: 1057544
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O componente seletor de quantidade na Faststore está apresentando um bug. Se o valor mínimo de um produto for 10 e eu quiser digitar 15, o seletor não permitirá que eu exclua o 0 porque ele permitirá que digitemos 1, que seria um valor menor do que a quantidade mínima. Se eu quiser digitar 15, preciso digitar 150 e então poderei excluir o 0.

@@ -15,7 +15,9 @@ legacySlug: configurar-inicio-de-sesion-con-apple-id-beta
 subcategory: 5uXA9a0laSLMkfbv6jQRDS
 ---
 
->ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si estás interesado en implementarla en el futuro, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support).
+<div class="alert alert-info">
+  <p>Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si estás interesado en implementarla en el futuro, ponte en contacto con <a href="https://help.vtex.com/es/support">nuestro Soporte</a>.</p>
+</div>
 
 En VTEX, no es necesario crear una cuenta o iniciar sesión para realizar una compra. Sin embargo, si el cliente desea editar los datos informados durante la primera compra, debe comprobar que el email en cuestión le pertenece.
 
@@ -54,7 +56,7 @@ Después de registrarte en Apple, debes activar la opción de inicio de sesión 
 
     Para más información sobre cómo obtener estas credenciales, consulta nuestra guía para desarrolladores [Registering credentials to set up Apple ID login](https://developers.vtex.com/docs/guides/registering-credentials-to-set-up-apple-id-login).
 
-    ![apple-id-setup-es](https://images.ctfassets.net/alneenqid6w5/3llgZRzP1yyUiqgZjagXyT/83719fc4ecc831b785e06d485eb13188/apple-id-setup-pt.png)
+    ![apple-id-setup-es](//images.ctfassets.net/alneenqid6w5/3llgZRzP1yyUiqgZjagXyT/83719fc4ecc831b785e06d485eb13188/apple-id-setup-pt.png)
 
 5. Haz clic en `Guardar`.
 6. Haz clic en `Proveedores de tienda virtual` para volver a la página anterior.
@@ -70,7 +72,9 @@ Ahora que todo está listo, puedes probar la configuración. Recomendamos que re
 4. Completa la autenticación de dos factores, si se te solicita.
 5. Escoge si deseas compartir tu email con la aplicación u [Ocultar mi correo](https://support.apple.com/es-mx/HT210425) y haz clic en `Continuar`. Recomendamos compartir el email, ya que hay [limitaciones](#limitaciones) respecto al email oculto en VTEX.
 
->ℹ️ La opción de compartir u ocultar el email solo aparece la primera vez que se accede a la tienda con el Apple ID. Después, solo es necesario hacer clic en `Continuar`. Para redefinir la opción de compartir el email, accede a la [página de administración de Apple ID](https://appleid.apple.com/mx/), revoca la autorización de la tienda y vuelve a iniciar sesión.
+<div class="alert alert-info">
+  <p>La opción de compartir u ocultar el email solo aparece la primera vez que se accede a la tienda con el Apple ID. Después, solo es necesario hacer clic en <code>Continuar</code>. Para redefinir la opción de compartir el email, accede a la <a href="https://appleid.apple.com/mx/">página de administración de Apple ID</a>, revoca la autorización de la tienda y vuelve a iniciar sesión.</p>
+</div>
 
 Luego de eso, estarás autenticado en la tienda.
 

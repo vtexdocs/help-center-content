@@ -18,7 +18,9 @@ internalReference: 916461
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O Lean Shipping não é desativado automaticamente após a remoção de itens do carrinho, mantendo apenas um onde deveria mostrar todas as opções.

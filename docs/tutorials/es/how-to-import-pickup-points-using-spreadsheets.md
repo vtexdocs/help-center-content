@@ -17,17 +17,19 @@ subcategory: 1c5Btie9ou2Gg2iUo0ggqM
 
 Los puntos de recogida, también conocidos como pickup points, son parte importante de cualquier estrategia [omnichannel](/es/announcement/cambie-su-negocio-con-la-experiencia-omnichannel-vtex).
 
-Puede [configurar puntos de recogida uno a uno](/es/tutorial/configurar-puntos-de-recogida-pickup-points) o hacer esto mediante la importación de una planilla XLS [(como la de este ejemplo)](https://assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Usando un archivo XLS, usted registra todos los pickup points de una sola vez (siempre que no supere los 10 MB).
+Puede [configurar puntos de recogida uno a uno](/es/tutorial/configurar-puntos-de-recogida-pickup-points) o hacer esto mediante la importación de una planilla XLS [(como la de este ejemplo)](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Usando un archivo XLS, usted registra todos los pickup points de una sola vez (siempre que no supere los 10 MB).
 
->ℹ️ Un archivo XLS de **10 MB** permite el registro de, aproximadamente, **50 mil** puntos de recogida. Para importar un número mayor, es necesario dividirlos en más de una planilla y hacer un upload a la vez.
+<div class="alert alert-info">
+Un archivo XLS de <strong>10 MB</strong> permite el registro de, aproximadamente, <strong>50 mil</strong> puntos de recogida. Para importar un número mayor, es necesario dividirlos en más de una planilla y hacer un upload a la vez.
+</div>
 
 
 
 ## Cómo subir la planilla
 1. En el menú lateral, haga clic en __Inventario y envío__, en la sección __Pedidos__.
 2. En las opciones que se abren, haga clic en __Puntos de recogida__.
-3. Haga clic en __Subir un XLS__, en la esquina superior derecha de la página. ![Subir XLS (ES)](https://images.ctfassets.net/alneenqid6w5/33W20ReDnWc4U4gIgeaOUW/b2eada442c781b9b21397aeb60deb127/Subir_XLS__ES_.png)
-4. Un modal va a surgir, permitiendo que usted envíe su archivo (con extensión `.xls`) o baje la [planilla de ejemplo](https://assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Recuerde que esta planilla viene con valores de ejemplo rellenados, que deben ser borrados y reemplazados por los datos de sus propios puntos de recogida. ![modal (ES)](https://images.ctfassets.net/alneenqid6w5/2CxrD2w27CYIAwqYGwUEqu/ca5cebd0c3c7bc457f4f93fbee98178d/modal__ES_.png)
+3. Haga clic en __Subir un XLS__, en la esquina superior derecha de la página. ![Subir XLS (ES)](//images.ctfassets.net/alneenqid6w5/33W20ReDnWc4U4gIgeaOUW/b2eada442c781b9b21397aeb60deb127/Subir_XLS__ES_.png)
+4. Un modal va a surgir, permitiendo que usted envíe su archivo (con extensión `.xls`) o baje la [planilla de ejemplo](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Recuerde que esta planilla viene con valores de ejemplo rellenados, que deben ser borrados y reemplazados por los datos de sus propios puntos de recogida. ![modal (ES)](//images.ctfassets.net/alneenqid6w5/2CxrD2w27CYIAwqYGwUEqu/ca5cebd0c3c7bc457f4f93fbee98178d/modal__ES_.png)
 5. Con todo hecho correctamente, los nuevos puntos de recogida estarán configurados y disponibles para sus clientes.
 
 

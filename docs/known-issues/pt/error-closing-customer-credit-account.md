@@ -18,7 +18,9 @@ internalReference: 904432
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando as contas principais e secundárias têm o aplicativo Customer Credit instalado, a criação de uma creditAccount ocorre em todas elas. Nesse cenário, há casos em que o fechamento da creditAccount não funciona, e o erro a seguir é exibido:

@@ -46,14 +46,14 @@ Antes de configurar el ambiente VTEX, el proveedor debe implementar el servicio 
 ### 3. Portal de administración del Antifraud Provider
 Después de recibir los datos de acceso e implementar el back-end, el proveedor puede acceder a la herramienta de aprobación a través del Admin de VTEX. Para ello, debe instalar el App del Antifraud Provider en el menú Apps:
 
-![print5](https://images.ctfassets.net/alneenqid6w5/50yLGa6LOU0cuIMUOeSOKq/c236baf425467b8e14aabff5d8655c05/print5.png)
+![print5](//images.ctfassets.net/alneenqid6w5/50yLGa6LOU0cuIMUOeSOKq/c236baf425467b8e14aabff5d8655c05/print5.png)
 
 Haga clic en la App instalada o acceda a `https://{{AccountName}}.myvtex.com/admin/antifraud-provider`, sustituyendo `{{AccountName}}` por el nombre de su cuenta en la plataforma. En este ambiente, es posible registrar los datos de configuración de back-end del proveedor y realizar pruebas de integración.
 
-![print6](https://images.ctfassets.net/alneenqid6w5/2ziFhnDDHWMKE6QSIOIW4W/a0d3301c92157971275546ca2745f7b1/print6.png)
+![print6](//images.ctfassets.net/alneenqid6w5/2ziFhnDDHWMKE6QSIOIW4W/a0d3301c92157971275546ca2745f7b1/print6.png)
 
 ### 4. Configuración inicial
-![print1](https://images.ctfassets.net/alneenqid6w5/2RbsDjzeIgas064w8AKqS2/c0dc76877d74758ed5976bc729d26774/print1.png)
+![print1](//images.ctfassets.net/alneenqid6w5/2RbsDjzeIgas064w8AKqS2/c0dc76877d74758ed5976bc729d26774/print1.png)
 
 Al acceder al ambiente por el enlace descrito arriba, usted verá un formulario. Rellene los campos de acuerdo con las siguientes indicaciones:
 
@@ -77,7 +77,7 @@ Después de llenar los campos correctamente, el sistema comprobará las transacc
 
 Las pruebas que se deben realizar en su integración antes de mandarla para la evaluación de VTEX se muestran abajo. Usted puede seleccionar qué pruebas desea ejecutar, pero para que su integración pase por el análisis de nuestro equipo, __todas ellas necesitan ser realizadas__. Por lo tanto, recomendamos que todos ellos permanezcan seleccionados.
 
-![print2](https://images.ctfassets.net/alneenqid6w5/5EVuBF31ramsiYuKa2wkwO/91a84f94f4030507b9635b150067965f/print2.png)
+![print2](//images.ctfassets.net/alneenqid6w5/5EVuBF31ramsiYuKa2wkwO/91a84f94f4030507b9635b150067965f/print2.png)
 
 ### 5. Pruebas
 Al hacer clic en el botón __Execute tests__, el Antifraud Provider aplicará las pruebas en su integración para los diferentes escenarios posibles. Es importante recordar que __todos ellos son obligatorios__ y, para ejecutarlos, su servicio necesita estar en HTTPS. Las pruebas son:
@@ -107,11 +107,11 @@ Para cada prueba del Antifraud Provider Protocol, enviamos un final de ID espec�
 ### 6. Resultados
 Después de ejecutar las pruebas, el sistema devuelve los resultados, tanto positivos como negativos. El sistema también trae la información de los resultados esperados para cada prueba. Así, usted tiene más visibilidad de lo que debe ser ajustado en caso de error.
 
-![print3](https://images.ctfassets.net/alneenqid6w5/4k4uoEtGb6CeoAAWasM4Ya/c718a92d5196f553c5531511a7e14b92/print3.png)
+![print3](//images.ctfassets.net/alneenqid6w5/4k4uoEtGb6CeoAAWasM4Ya/c718a92d5196f553c5531511a7e14b92/print3.png)
 
 Para visualizar de forma detallada cada acción realizada por la integración (y, así, identificar posibles errores), basta con hacer clic en el enlace __Show logs__. Una lista con la información completa de los eventos que ocurrieron durante la prueba se mostrará por debajo de los resultados.
 
-![print4](https://images.ctfassets.net/alneenqid6w5/FeHanjGPxQqG8eoUw2MG0/a804453e7cc01ef7ef8d1b35e8960b94/print4.png)
+![print4](//images.ctfassets.net/alneenqid6w5/FeHanjGPxQqG8eoUw2MG0/a804453e7cc01ef7ef8d1b35e8960b94/print4.png)
 
 Cuando su integración ha pasado todas las pruebas con éxito, sólo tiene que abrir un ticket en el [help de VTEX](/es/support) informando la conclusión. Sin embargo, antes de abrir el ticket, asegúrese de tener la siguiente información:
 
@@ -135,14 +135,16 @@ Utilice la URL `https://{{AccountName}}.myvtex.com/admin/license-manager/#/home`
 Una vez que la integración con su antifraude está aprobada, un conector se pondrá a disposición para que las tiendas VTEX lo configuren en sus respectivos sitios web. Para hacer esto, además del contrato con su empresa, la tienda deberá tener en las manos dos claves: "X-PROVIDER-API-AppKey" y "X-PROVIDER-API-AppToken".
 
 Un ejemplo de cómo va a quedar la pantalla de configuración del antifraude para la tienda VTEX:
-![print8](https://images.ctfassets.net/alneenqid6w5/2v00lYz2UsW4YsaSycESio/1dc399bea5e2a75a04d1867646c4e223/print8.png)
+![print8](//images.ctfassets.net/alneenqid6w5/2v00lYz2UsW4YsaSycESio/1dc399bea5e2a75a04d1867646c4e223/print8.png)
 
 Estas llaves deben estar disponibles por usted y van a servir para identificar la tienda que ha contratado y está utilizando su servicio de antifraude.
 
 ## Configuración del documento del titular de la tarjeta
 Durante el proceso de revisión de las transacciones de pago, algunos proveedores antifraude pueden optar por no utilizar información adicional como: la identificación personal del titular de la tarjeta. En estos casos, el administrador de la tienda tiene autonomía para decidir si solicita o no esta información a su cliente durante el proceso de checkout.
 
->⚠️ La opción de configuración **Campo de documento del titular de la tarjeta** solo estará disponible para el administrador de la tienda, si el provedor antifraude declara el campo del documento del titular de la tarjeta (`cardholderDocument`) como `opcional` em su [manifesto](https://developers.vtex.com/vtex-rest-api/reference/manifest). Mas información en [Cardholder Document Configuration](https://developers.vtex.com/vtex-rest-api/docs/cardholder-document-configuration).
+<div class="alert alert-warning">
+  La opción de configuración <b>Campo de documento del titular de la tarjeta</b> solo estará disponible para el administrador de la tienda, si el provedor antifraude declara el campo del documento del titular de la tarjeta (<code>cardholderDocument</code>) como <code>opcional</code> em su <a href="https://developers.vtex.com/vtex-rest-api/reference/manifest">manifesto</a>. Mas información en <a href="https://developers.vtex.com/vtex-rest-api/docs/cardholder-document-configuration">Cardholder Document Configuration</a>.
+  </div>
 
 Para configurar la visualización del campo del documento del titular de la tarjeta, siga los siguientes pasos:
 

@@ -1,5 +1,5 @@
 ---
-title: "El botón 'eliminar' de la interfaz de usuario del catálogo heredado no funciona"
+title: 'El botón "eliminar" de la interfaz de usuario del catálogo heredado no funciona'
 id: 2soNSJfiQMZcxlpW6jT2FR
 status: PUBLISHED
 createdAt: 2022-01-23T02:51:17.884Z
@@ -18,7 +18,9 @@ internalReference: 326408
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El botón para eliminar productos en el catálogo no funciona, simplemente no reconoce ningún clic del usuario

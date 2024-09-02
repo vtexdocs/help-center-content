@@ -18,7 +18,9 @@ internalReference: 832400
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al configurar el filtro Feed/Hook, se define qué actualizaciones de pedidos deben mostrarse en el feed. Se pueden utilizar dos tipos de filtros en el feed: FromWorkflow y FromOrders.

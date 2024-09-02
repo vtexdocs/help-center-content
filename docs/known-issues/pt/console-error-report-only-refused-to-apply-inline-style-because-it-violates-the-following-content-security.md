@@ -18,7 +18,9 @@ internalReference: 1017370
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Temos alguns logs no console que relatam bloqueios de script devido a restrições por meio do cabeçalho CSP.

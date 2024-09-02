@@ -18,7 +18,9 @@ internalReference: 718136
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Na página do produto, algumas informações sobre o produto têm tags HTML(<b>[...]</b>, <font>[...]</font>, <li>[...]</li> etc).

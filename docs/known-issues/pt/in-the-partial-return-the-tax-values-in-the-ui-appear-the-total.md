@@ -18,7 +18,9 @@ internalReference: 559458
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em uma ordem onde temos dois itens idênticos, e um dos itens é devolvido, as taxas para ambos os itens são exibidas na IU, ao invés de apenas as taxas para o item que foi devolvido sendo exibidas na IU. Esta informação sobre taxas é apenas para informação, pois o que será realmente devolvido é o que é preenchido na Nota de Devolução.

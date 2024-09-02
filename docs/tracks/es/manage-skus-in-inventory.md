@@ -50,7 +50,9 @@ Pero antes, preste atención para rellenar de forma correcta esta plantilla. Par
 
 ## API REST
 
->⚠️ Las autenticaciones para las llamadas de API REST del módulo de Precios deben realizarse a través de AppKey y AppToken. Para saber más, vea nuestro artículo sobre [cómo crear appKey y appToken para autenticar las integraciones](https://help.vtex.com/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones--43tQeyQJgAKGEuCqQKAOI2)
+<div class="alert alert-warning">
+Las autenticaciones para las llamadas de API REST del módulo de Precios deben realizarse a través de AppKey y AppToken. Para saber más, vea nuestro artículo sobre <a href="https://help.vtex.com/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones--43tQeyQJgAKGEuCqQKAOI2">cómo crear appKey y appToken para autenticar las integraciones</a>
+</div>
 
 Para cambiar la cantidad de un SKU en stock por API, debe enviar un __PUT__ al siguiente endpoint:
 

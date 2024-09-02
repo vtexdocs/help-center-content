@@ -18,7 +18,9 @@ internalReference: 503446
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el usuario busca una transacción en el admin por el número de secuencia, en algunos casos, el retorno es la transacción deseada y la transacción no relacionada con el estado de devolución de cargos.

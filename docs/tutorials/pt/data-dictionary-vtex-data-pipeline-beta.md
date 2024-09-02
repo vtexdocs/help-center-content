@@ -3,8 +3,8 @@ title: 'Dicionário VTEX Data Pipeline (Beta)'
 id: 69hMoE2woVw14nWR3ujVto
 status: PUBLISHED
 createdAt: 2024-02-01T18:51:29.281Z
-updatedAt: 2024-06-25T14:23:40.720Z
-publishedAt: 2024-06-25T14:23:40.720Z
+updatedAt: 2024-09-02T19:27:48.167Z
+publishedAt: 2024-09-02T19:27:48.167Z
 firstPublishedAt: 2024-05-27T19:26:59.681Z
 contentType: tutorial
 productTeam: Others
@@ -15,7 +15,9 @@ legacySlug: catalogo-vtex-data-pipeline-beta
 subcategory: oMrzcOMVbBpH0reeMFHFg
 ---
 
->ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue).  
+<div class="alert alert-info">
+Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso <a href="https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue">Suporte</a>.
+</div>  
 
 O **VTEX Data Pipeline** é uma ferramenta acessível exclusivamente aos clientes VTEX, que deve ser utilizada para exploração e análise dos dados do ecommerce que atualmente estão disponíveis em nossos servidores. O **Data Pipeline** é um produto add-on da VTEX que integra dados do seu ecommerce, de maneira limpa e segura ao *data warehouse* e às ferramentas de BI de sua preferência.  
 

@@ -18,7 +18,9 @@ internalReference: 454680
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 O layout da página muda para a versão móvel ao imprimir (CTRL+P) é ativado duas vezes no Google Chrome Desktop.
 

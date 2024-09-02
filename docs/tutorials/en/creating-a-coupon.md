@@ -1,10 +1,10 @@
 ---
 title: 'How to create a coupon'
 id: tutorials_319
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-04-27T22:09:06.076Z
-updatedAt: 2023-03-31T19:41:21.767Z
-publishedAt: 2023-03-31T19:41:21.767Z
+updatedAt: 2024-08-12T18:24:48.074Z
+publishedAt: 
 firstPublishedAt: 2017-04-27T23:03:14.329Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -30,7 +30,9 @@ This article will cover the following topics:
 
 ## Creating a coupon
 
->⚠️ There is a limit to the amount of active coupons you can have in your store. We recommend reusing coupons, as having a high number of coupons can compromise the performance of the **Promotions & Taxes** module.
+<div class="alert alert-warning">
+  <p>There is a limit to the amount of active coupons you can have in your store. We recommend reusing coupons, as having a high number of coupons can compromise the performance of the <b>Promotions & Taxes</b> module.</p>
+</div>
 
 To create a coupon, follow the steps below:
 
@@ -39,7 +41,9 @@ To create a coupon, follow the steps below:
 3. Fill in the [coupon fields](#filling-in-coupon-fields).
 4. Click on `Save`.
 
->ℹ️ You can only create one coupon at a time. To create coupons in bulk, read the article [Creating and managing coupons with the Promotions API](https://developers.vtex.com/vtex-rest-api/docs/creating-and-managing-coupons-with-promotions-api).
+<div class="alert alert-info">
+  <p>You can only create one coupon at a time. To create coupons in bulk, read the article <a href="https://developers.vtex.com/vtex-rest-api/docs/creating-and-managing-coupons-with-promotions-api">Creating and managing coupons with the Promotions API</a>.</p>
+</div>
 
 ### Filling in the coupon fields
 
@@ -49,7 +53,9 @@ In this section, you must fill in the coupon’s general information:
 
 - **Coupon Code**: the coupon’s activation code. This is a required field, and there is no character limit.
 
->⚠️ You cannot use special characters, only letters, numbers and dashes.
+<div class="alert alert-warning">
+  <p>You cannot use special characters, only letters, numbers and dashes.</p>
+</div>
 
 - **utm_source**: the UTM source parameter.
 - **utm_campaign**: the UTM campaign parameter.
@@ -61,7 +67,9 @@ In this section, you can add restrictions on the use of a coupon.
 - **The customer may purchase up to X product(s), using this coupon in one or more purchases**: enter the number of products that can be purchased using this coupon, regardless of how many purchases are made to reach this number.
 - **Renew each coupon usage after X day(s)**: the coupon will be valid again after the number of days determined in this field.
 
->ℹ️ To create single-use coupons, you need to [restrict the number of promotion apps in your store and per customer](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327#4-restricoes-e-limitacoes-de-uso).
+<div class="alert alert-info">
+  <p>To create single-use coupons, you need to <a href="https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327#4-restricoes-e-limitacoes-de-uso">restrict the number of promotion apps in your store and per customer</a>.</p>
+</div>
 
 When customers apply a coupon for a limited promotion and their purchase is canceled, the coupon becomes valid again.
 
@@ -84,7 +92,9 @@ To disable a coupon, you must archive it. Follow the steps below:
 2. Click on the coupon you want to archive.
 3. On the editing screen, click on the `Archive` button.
 
->⚠️ Coupons cannot be deleted, only archived. Note that you can only archive one coupon at a time. You can edit and reuse a coupon, but the **coupon code** cannot be modified.
+<div class="alert alert-warning">
+  <p>Coupons cannot be deleted, only archived. Note that you can only archive one coupon at a time. You can edit and reuse a coupon, but the <b>coupon code</b> cannot be modified.</p>
+</div>
 
 ## Application scenario
 
@@ -96,7 +106,9 @@ You need to create a promotion and publish it in a newsletter. However, we recom
 4. Include the coupon code in the newsletter.
 5. The promotion will be enabled in the shopping cart only when customers enter the coupon code in the **Coupon Code** field and add it.
 
->ℹ️ You can also configure the newsletter links directly using **utm_source** and **utm_campaign**, instead of using a coupon.
+<div class="alert alert-info">
+  <p>You can also configure the newsletter links directly using <b>utm_source</b> and <b>utm_campaign</b>, instead of using a coupon.</p>
+</div>
 
 ## Using multiple coupons
 

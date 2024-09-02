@@ -33,6 +33,8 @@ Com isso, o IO fará algumas perguntas que serão usadas para definir parâmetro
 
 O IO informa que seu arquivo manifest.json foi gerado com sucesso e pergunta o serviço VTEX que você deseja usar.
 
->ℹ️ Para desenvolvimento front-end, o serviço que deve ser usado é o react.
+<div class="alert alert-info">
+Para desenvolvimento front-end, o serviço que deve ser usado é o react.
+</div>
 
 Pronto, sua estrutura de pastas e arquivos está criada.

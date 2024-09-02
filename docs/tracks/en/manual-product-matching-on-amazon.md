@@ -14,7 +14,9 @@ trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugEN: amazon-integration
 ---
 
->ℹ️ The flow documented in this article is not mandatory. If you choose to keep automatic matching, VTEX takes no responsibility for any possible matching issues on Amazon.
+<div class = "alert alert-info">
+The flow documented in this article is not mandatory. If you choose to keep automatic matching, VTEX takes no responsibility for any possible matching issues on Amazon.
+</div>
 
 Whenever an [SKU](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) with a registered [EAN](https://sellercentral.amazon.com.br/learn/courses?ref_=su_course_accordion&moduleId=71d0b122-4e43-4547-a05a-04517e8f41a2&courseId=959bc7cb-2866-499c-b24a-8d3f6def1306&modLanguage=Portuguese&videoPlayer=youtube) is sent to Amazon, the marketplace does the matching by combining offers for the same product using its EAN. 
 

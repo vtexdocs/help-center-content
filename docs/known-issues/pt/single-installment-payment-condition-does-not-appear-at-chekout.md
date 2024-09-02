@@ -18,7 +18,9 @@ internalReference: 605568
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao configurar uma única condição de pagamento com apenas uma opção de parcelamento ou várias condições de pagamento em que apenas uma opção de parcelamento está disponível para um carrinho específico, essa opção de parcelamento não é exibida no checkout. Embora seja exibida corretamente em `paymentData`, ela não é visível para o usuário. Em vez disso, apenas a opção de pagar o valor total é exibida. Entretanto, quando a transação é concluída, o pagamento é processado com a opção de parcelamento correta.

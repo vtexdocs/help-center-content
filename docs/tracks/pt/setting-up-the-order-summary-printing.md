@@ -16,7 +16,7 @@ trackSlugPT: instore-customizacoes
 
 Quando o vendedor conclui um pedido com o inStore, ele pode imprimir um resumo desse pedido. Mas, para habilitar essa funcionalidade, você precisa fazer algumas configurações.
 
-![15. Configurar impressão de resumo do pedido - 1](https://images.ctfassets.net/alneenqid6w5/I5tu0upqIMUVTCxTHFfmL/d25cd88a3601658aabea48fcee8e97f0/15._Configurar_impress__o_de_resumo_do_pedido_-_1.png)
+![15. Configurar impressão de resumo do pedido - 1](//images.ctfassets.net/alneenqid6w5/I5tu0upqIMUVTCxTHFfmL/d25cd88a3601658aabea48fcee8e97f0/15._Configurar_impress__o_de_resumo_do_pedido_-_1.png)
 
 São necessárias duas etapas:
 
@@ -25,7 +25,9 @@ São necessárias duas etapas:
 
 ## Ative a opção de configuração do dispositivo
 
->❗ A ativação da opção de configuração do dispositivo é feita por meio de uma alteração no arquivo JavaScript `checkout-instore-custom.js`. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos. 
+<div class="alert alert-danger">
+A ativação da opção de configuração do dispositivo é feita por meio de uma alteração no arquivo JavaScript <code>checkout-instore-custom.js</code>. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos.
+</div> 
 
 Primeiro, abra o arquivo `checkout-instore-custom.js`, disponível no Admin da sua conta VTEX (se não sabe como acessar esse arquivo, consulte o tutorial [Como customizar o inStore](https://help.vtex.com/pt/tracks/instore-customizacoes--1z9kBm12oBPyVNDo1ivVc2)).
 
@@ -42,13 +44,17 @@ window.INSTORE_CONFIG = {
 }
 ```
 
->❗ Não remova nenhuma das outras propriedades presentes no objeto `window.INSTORE_CONFIG`, para evitar a quebra de outras funcionalidades.
+<div class="alert alert-danger">
+  Não remova nenhuma das outras propriedades presentes no objeto <code>window.INSTORE_CONFIG</code>, para evitar a quebra de outras funcionalidades.
+</div>
 
 Essa alteração fará aparecer no menu principal do inStore a opção __Configurar o dispositivo__, como mostra a imagem abaixo. É por meio dessa opção que vamos configurar a impressora.
 
-![15. Configurar impressão de resumo do pedido - 2](https://images.ctfassets.net/alneenqid6w5/KxD08Gfiwa8mj6y6KzaKu/7fab9110af8d1337f5646252b8c9387c/15._Configurar_impress__o_de_resumo_do_pedido_-_2.png)
+![15. Configurar impressão de resumo do pedido - 2](//images.ctfassets.net/alneenqid6w5/KxD08Gfiwa8mj6y6KzaKu/7fab9110af8d1337f5646252b8c9387c/15._Configurar_impress__o_de_resumo_do_pedido_-_2.png)
 
->ℹ️ **Nota:** Há uma opção para imprimir automaticamente o resumo do pedido, assim que o pedido for concluído. Para habilitar, basta adicionar a propriedade `printPageAutomatically` com o valor `true` dentro do objeto printingConfig. Veja abaixo como ficaria o trecho de código neste caso.
+<div class="alert alert-info">
+<strong>Nota:</strong> Há uma opção para imprimir automaticamente o resumo do pedido, assim que o pedido for concluído. Para habilitar, basta adicionar a propriedade <code>printPageAutomatically</code> com o valor <code>true</code> dentro do objeto printingConfig. Veja abaixo como ficaria o trecho de código neste caso.
+</div>
 
 ```json
 window.INSTORE_CONFIG = { 
@@ -60,13 +66,17 @@ window.INSTORE_CONFIG = {
 }
 ```
 
->❗ Novamente, não remova nenhuma das outras propriedades presentes no objeto `window.INSTORE_CONFIG`, para evitar a quebra de outras funcionalidades.
+<div class="alert alert-danger">
+Novamente, não remova nenhuma das outras propriedades presentes no objeto <code>window.INSTORE_CONFIG</code>, para evitar a quebra de outras funcionalidades.
+</div>
 
 ## Configure o dispositivo de impressora no inStore
 
 Vamos agora ver como configurar uma impressora conectada ao inStore para impressão de resumos de pedido.
 
->⚠️ Antes de mais nada, para conectar uma impressora ao sistema do inStore, é necessário ter um par de credenciais VTEX (AppKey e AppToken) com as devidas permissões de acesso. Recomendamos que o perfil de acesso atrelado a essas credenciais seja o `inStore Sales Person`. Porém, um perfil com mais poderes, como o Admin Super, também pode ser usado.
+<div class="alert alert-warning">
+Antes de mais nada, para conectar uma impressora ao sistema do inStore, é necessário ter um par de credenciais VTEX (AppKey e AppToken) com as devidas permissões de acesso. Recomendamos que o perfil de acesso atrelado a essas credenciais seja o <code>inStore Sales Person</code>. Porém, um perfil com mais poderes, como o Admin Super, também pode ser usado.
+</div>
 
 Tendo o AppKey e o AppToken em mãos, siga os passos abaixo:
 
@@ -74,11 +84,11 @@ Tendo o AppKey e o AppToken em mãos, siga os passos abaixo:
 2. Abra o aplicativo do inStore e entre na loja onde deseja configurar a impressora.
 3. No menu principal do inStore, na seção Configurações, agora deve constar a opção __Configurar o dispositivo__. Clique nessa opção.
 
-![15. Configurar impressão de resumo do pedido - 3](https://images.ctfassets.net/alneenqid6w5/4BZ0V5CVUYA2Kwv49PfTYS/4fa9c04035ef00f8a0df9a9ae71b326b/15._Configurar_impress__o_de_resumo_do_pedido_-_3.png)
+![15. Configurar impressão de resumo do pedido - 3](//images.ctfassets.net/alneenqid6w5/4BZ0V5CVUYA2Kwv49PfTYS/4fa9c04035ef00f8a0df9a9ae71b326b/15._Configurar_impress__o_de_resumo_do_pedido_-_3.png)
 
 Você encontrará o resumo do dispositivo configurado. Se essa for a primeira vez em que você realiza essa configuração, os campos dessa tela estarão vazios. Se um dispositivo já tiver sido configurado anteriormente, algumas informações sobre o dispositivo serão exibidas (Nome do dispositivo e Impressora padrão). Clique no botão __Editar__.
 
-![15. Configurar impressão de resumo do pedido - 4](https://images.ctfassets.net/alneenqid6w5/4Xrv2WFGkaQ5ejAYZlF3ly/10e8b6b922cd7ee0f970f8db15cae1f9/15._Configurar_impress__o_de_resumo_do_pedido_-_4.png)
+![15. Configurar impressão de resumo do pedido - 4](//images.ctfassets.net/alneenqid6w5/4Xrv2WFGkaQ5ejAYZlF3ly/10e8b6b922cd7ee0f970f8db15cae1f9/15._Configurar_impress__o_de_resumo_do_pedido_-_4.png)
 
 Será exibido um formulário contendo os campos __AppKey__, __AppToken__ e o __nome__ com o qual você deseja identificar o dispositivo. Após inserir esses dados, clique em __Configurar__.
 

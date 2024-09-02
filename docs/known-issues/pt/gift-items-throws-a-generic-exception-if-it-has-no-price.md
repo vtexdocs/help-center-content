@@ -18,7 +18,9 @@ internalReference: 510490
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A seleção de um item de presente no carrinho lançará uma exceção genérica se ele não tiver preço, especialmente se a loja utilizar um serviço de impostos externos. O cliente não pode ir em frente ao selecioná-lo.

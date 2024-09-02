@@ -14,7 +14,9 @@ locale: es
 legacySlug: por-que-el-filtro-de-campo-de-producto-o-sku-no-esta-traendo-resultado-en
 ---
 
->⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+<div class = "alert alert-warning">
+  <strong>Atención</strong>: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+</div>
 
 Usted puede utilizar los parámetros de búsqueda para filtrar los campos de producto o campos de SKU en la búsqueda de la tienda.
 
@@ -30,4 +32,4 @@ Para acceder a esta pantalla, siga los pasos abajo:
 
 La flag Filtro aparece en la pantalla de configuración del campo de producto.
 
-![Filtro Campo de produto](https://images.contentful.com/alneenqid6w5/3XSX1nXvjW8kuCi20GaueM/d81f6eea3d6d53c78e00b3e367cbf99b/Filtro_Campo_de_produto.png)
+![Filtro Campo de produto](//images.contentful.com/alneenqid6w5/3XSX1nXvjW8kuCi20GaueM/d81f6eea3d6d53c78e00b3e367cbf99b/Filtro_Campo_de_produto.png)

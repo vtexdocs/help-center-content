@@ -18,7 +18,9 @@ internalReference: 664838
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A Nova IU não está mostrando na página Itens de Retorno o valor total já faturado.

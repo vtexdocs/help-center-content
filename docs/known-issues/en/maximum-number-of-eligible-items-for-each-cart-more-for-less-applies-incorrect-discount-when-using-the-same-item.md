@@ -1,5 +1,5 @@
 ---
-title: "'maximum number of eligible items for each cart' + more for less applies incorrect discount when using the same item."
+title: '"maximum number of eligible items for each cart" + more for less applies incorrect discount when using the same item.'
 id: gWIMhi9RCv9BE1RvV6GiM
 status: PUBLISHED
 createdAt: 2024-07-30T17:14:36.972Z

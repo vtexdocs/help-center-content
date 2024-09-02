@@ -21,7 +21,9 @@ Es posible crear hasta __10 promociones__ de este tipo, con un __límite de 100 
 
 Por tratarse de una promoción, los precios catastrados como máximos no podrán ser mayores que el precio del producto.
 
->⚠️ **Atención:** Para que la promoción Precio máximo por Artículo funcione es **obligatorio elegir un medio de pago**.
+<div class="alert alert-warning">
+<strong>Atención:</strong> Para que la promoción Precio máximo por Artículo funcione es <strong>obligatorio elegir un medio de pago</strong>.
+</div>
 
 ## Datos generales de la promoción
 
@@ -40,7 +42,9 @@ Por tratarse de una promoción, los precios catastrados como máximos no podrán
 - __Precio:__ En este campo se debe definir el precio máximo por el que se vendrá el producto. Sólo se puede definir el precio máximo de un artículo a la vez. Para añadir productos a la promoción, haga clic en el botón __+__.
 - __Medio de pago__: Seleccione los medios de pago deseados para activar la promoción.
 
->ℹ️ Es posible importar una lista de SKUs, que debe guardarse en un archivo .xls, con cada ID en una línea diferente, seguido del precio máximo correspondiente. Para ver una plantilla, haga clic en el enlace **Descarga ejemplo de hoja de cálculo**.
+<div class="alert alert-info">
+Es posible importar una lista de SKUs, que debe guardarse en un archivo .xls, con cada ID en una línea diferente, seguido del precio máximo correspondiente. Para ver una plantilla, haga clic en el enlace <strong>Descarga ejemplo de hoja de cálculo</strong>.
+</div>
 
 ## Condiciones para la promoción ser válida
 

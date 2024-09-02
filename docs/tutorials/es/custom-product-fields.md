@@ -1,10 +1,10 @@
 ---
-title: 'Campos de producto personalizables'
+title: 'Campos de producto personalizables para Mercado Libre'
 id: 6tJOSJ2o9phVIb8XXG6QSk
 status: PUBLISHED
 createdAt: 2024-07-23T19:44:34.554Z
-updatedAt: 2024-07-23T20:25:32.123Z
-publishedAt: 2024-07-23T20:25:32.123Z
+updatedAt: 2024-08-19T17:39:24.164Z
+publishedAt: 2024-08-19T17:39:24.164Z
 firstPublishedAt: 2024-07-23T20:17:01.358Z
 contentType: tutorial
 productTeam: Channels
@@ -42,7 +42,9 @@ Para crear un campo de producto, sigue los pasos a continuación:
 5. Haz clic en __Campo (Producto).__  
 6. Haz clic en __Nuevo campo.__  
 7. Completa la información del campo que estás creando:  
->⚠️ El nombre del campo debe completarse exactamente como uno de los nombres presentados en la tabla de secciones[Campos personalizables](#campos-personalizables).  
+<div class="alert alert-warning">
+El nombre del campo debe completarse exactamente como uno de los nombres presentados en la tabla de secciones<a href="#campos-personalizables">Campos personalizables</a>.
+</div>  
 
   __Nombre:__ nombre de la especificación (campo) de producto.  
   __Texto:__ descripción del campo.  

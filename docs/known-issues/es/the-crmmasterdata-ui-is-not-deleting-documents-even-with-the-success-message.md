@@ -18,7 +18,9 @@ internalReference: 699374
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La interfaz de usuario de CRM no elimina los documentos, aunque se muestra el mensaje de éxito.

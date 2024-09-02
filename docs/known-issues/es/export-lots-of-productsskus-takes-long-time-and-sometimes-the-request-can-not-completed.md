@@ -18,7 +18,9 @@ internalReference: 284386
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Exportar muchos productos/SKUs lleva mucho tiempo y a veces no se puede completar la solicitud. Este problema también afecta a otras exportaciones de catálogos.

@@ -18,7 +18,9 @@ internalReference: 888304
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 As listas de produtos e os resultados de pesquisa podem ser mal classificados/filtrados ao usar a classificação ou a filtragem por preço ou desconto se houver preços de itens desatualizados no nível do índice, mesmo que a vitrine esteja mostrando o preço correto.
 

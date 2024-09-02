@@ -18,7 +18,9 @@ internalReference: 541687
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O padrão é que eles são cancelados e enviamos dois Pedidos de Autorização 3D, e você ainda não recebeu a resposta do Pedido de Autorização.

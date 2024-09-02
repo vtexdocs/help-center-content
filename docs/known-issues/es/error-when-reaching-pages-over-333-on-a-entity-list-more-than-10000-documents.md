@@ -18,7 +18,9 @@ internalReference: 334407
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la tienda tiene más de 10.000 documentos, es decir, más de 333 páginas, al intentar acceder a las últimas páginas en CRM, aparece un mensaje de error:

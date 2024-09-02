@@ -18,7 +18,9 @@ internalReference: 570542
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunas palabras son ignoradas por la búsqueda, en el caso de "é", el término debe ser convertido en "e" y luego ignorado por la búsqueda. Pero una búsqueda con ese término devolverá una búsqueda vacía.

@@ -18,7 +18,9 @@ internalReference: 362685
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 No carrinho, quando o endereço é selecionado, as lojas com o Lean Shipping ativado e que oferecem entrega/coleta agendada não mostram todas as opções disponíveis na visualização do envio; somente a entrega regular é mostrada e selecionada.

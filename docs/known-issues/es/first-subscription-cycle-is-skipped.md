@@ -18,7 +18,9 @@ internalReference: 528556
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El sistema de suscripción utiliza información como la frecuencia de compra y la fecha del ciclo de suscripción para generar un pedido de suscripción. Sin embargo, en función de la zona horaria del consumidor y de la hora a la que se realiza el pedido, se omite el primer ciclo y sólo se genera el segundo mes.

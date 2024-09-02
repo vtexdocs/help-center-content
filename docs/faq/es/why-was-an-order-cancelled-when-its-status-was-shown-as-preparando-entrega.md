@@ -22,5 +22,7 @@ Cuando sucede la cancelación, el comerciante es notificado a través de [VTEX D
 
 2) En el caso de que desee proseguir con la entrega, basta seguir el procedimiento de facturación, informándole al cliente sobre la imposibilidad de cancelar el pedido.
 
->❗ Solamente en el status `Carencia para cancelación` la solicitud de cancelación del cliente es unilateral, no le cabiendo al comerciante ninguna confirmación. En los demás status, el comerciante será informado sobre lo solicitud a través de VTEX DO.
+<div class="alert alert-danger">
+Solamente en el status <code>Carencia para cancelación</code> la solicitud de cancelación del cliente es unilateral, no le cabiendo al comerciante ninguna confirmación. En los demás status, el comerciante será informado sobre lo solicitud a través de VTEX DO.
+</div>
 

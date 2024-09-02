@@ -14,7 +14,9 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugPT: adicionar-texto-extra-a-impressao-do-pedido
 ---
 
->❗ A adicão de texto extra à impressão do pedido, explicada neste artigo, envolve e alteração do arquivo JavaScript `checkout-instore-custom.js`. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos.
+<div class="alert alert-danger">
+A adicão de texto extra à impressão do pedido, explicada neste artigo, envolve e alteração do arquivo JavaScript <code>checkout-instore-custom.js</code>. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos.
+</div>
 
 Por padrão, a impressão do resumo do pedido não contém nenhum texto personalizado. Caso deseje adicionar texto extra à impressão do pedido, é necessário editar o arquivo `checkout-instore-custom.js`.
 
@@ -26,7 +28,9 @@ window.INSTORE_CONFIG = {
 }
 ```
 
->❗ Não remova nenhuma das outras propriedades presentes no objeto `window.INSTORE_CONFIG`, para evitar a quebra de outras funcionalidades.
+<div class="alert alert-danger">
+Não remova nenhuma das outras propriedades presentes no objeto <code>window.INSTORE_CONFIG</code>, para evitar a quebra de outras funcionalidades.
+</div>
 
 Após recarregar o inStore, sempre que um vendedor imprimir um pedido, esse texto aparecerá na impressão.
 
@@ -34,7 +38,7 @@ Após recarregar o inStore, sempre que um vendedor imprimir um pedido, esse text
 
 Antes de adicionar texto extra, a impressão do resumo do pedido tem o seguinte formato:
 
-![28. Adding extra text to the order print - 1](https://images.ctfassets.net/alneenqid6w5/6kSTTkw3pk8A7aiTJXqDJJ/ec86382eb7e27484f3f37a80752a6153/28._Adding_extra_text_to_the_order_print_-_1.png)
+![28. Adding extra text to the order print - 1](//images.ctfassets.net/alneenqid6w5/6kSTTkw3pk8A7aiTJXqDJJ/ec86382eb7e27484f3f37a80752a6153/28._Adding_extra_text_to_the_order_print_-_1.png)
 
 Em nosso exemplo, alteramos o arquivo `checkout-instore-custom.js` inserindo o seguinte texto extra:
 
@@ -46,4 +50,4 @@ window.INSTORE_CONFIG = {
 
 Agora, quando sempre que um resumo de pedido for impresso, teremos o seguinte resultado:
 
-![28. Adding extra text to the order print - 2](https://images.ctfassets.net/alneenqid6w5/1g4wvz3z8tIEZuRSSiACps/c227091af9a69d0af04d21c2b6b0b8d3/28._Adding_extra_text_to_the_order_print_-_2.png)
+![28. Adding extra text to the order print - 2](//images.ctfassets.net/alneenqid6w5/1g4wvz3z8tIEZuRSSiACps/c227091af9a69d0af04d21c2b6b0b8d3/28._Adding_extra_text_to_the_order_print_-_2.png)

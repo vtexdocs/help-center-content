@@ -18,7 +18,9 @@ internalReference: 331279
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los pedidos realizados con Crédito Cliente como forma de pago generan facturas de una sola cuota a 60 días. Si se comprueba la cuenta en el módulo de Crédito Cliente se dice que la factura se ha generado sin problemas. Sin embargo, mirando a través de la API es posible notar que dentro del campo customData los plazos (fechas de vencimiento) se envían con valores diferentes. Esto impacta en la integración con otros sistemas que organizan los cumplimientos.

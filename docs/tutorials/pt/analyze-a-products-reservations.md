@@ -23,4 +23,4 @@ Para consultar as reservas autorizadas, ou seja, aquelas que ainda não tiveram 
 
 Para consultar os pedidos com status `Faturado`, ou seja, pagamento já aprovado, basta clicar no número exibido na coluna **Itens em manuseio**.
 
-![Reservations GIF](https://images.contentful.com/alneenqid6w5/4xUy1O7pUA66UaQkcuU0au/53f39fe9b3cbe2f4c3e2a8e6316e66a9/Reservations.gif)
+![Reservations GIF](//images.contentful.com/alneenqid6w5/4xUy1O7pUA66UaQkcuU0au/53f39fe9b3cbe2f4c3e2a8e6316e66a9/Reservations.gif)

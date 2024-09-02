@@ -23,7 +23,9 @@ Synonyms also complement search reports without results. From this analysis, the
 Accordingly, VTEX Intelligent Search receives the term searched by the customer and searches for it in the synonym rules registered in its database. In case there is a rule, these words will be directed to the search within the catalog.
 This way, if there is a synonym rule, no matter how the customer searches or how the product name is registered, they will always find what they are looking for.
 
->⚠️ Synonyms should not be used to correct spelling, plural and singular errors or even pronouns, articles and prepositions errors in the searched terms. VTEX Intelligent Search can automatically interpret, learn and solve all these cases through algorithms.
+<div class = "alert alert-warning">
+Synonyms should not be used to correct spelling, plural and singular errors or even pronouns, articles and prepositions errors in the searched terms. VTEX Intelligent Search can automatically interpret, learn and solve all these cases through algorithms.
+</div>
 
 ## Types of synonyms
 

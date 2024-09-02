@@ -15,7 +15,9 @@ legacySlug: vtex-pick-and-pack
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
->ℹ️ Caso tenha interesse em adotar essa funcionalidade no seu negócio, preencha nosso [formulário](https://vtex.com/br-pt/contato/) apontando no campo `Comentários` o nome do produto desejado.
+<div class = "alert alert-info">
+Caso tenha interesse em adotar essa funcionalidade no seu negócio, preencha nosso <a href="https://vtex.com/br-pt/contato/">formulário</a> apontando no campo <code>Comentários</code> o nome do produto desejado.
+</div>
 
 **VTEX Pick and Pack** é a solução que permite aos comerciantes gerenciar a coleta, o empacotamento e a entrega de pedidos a partir de lojas físicas e estoques para endereços de clientes ou [pontos de retirada](https://help.vtex.com/pt/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). Todo o gerenciamento é feito em um só lugar, gerando maior controle e visibilidade para os comerciantes em todo o processo de fulfillment.
 
@@ -40,5 +42,7 @@ O **VTEX Pick and Pack** é uma solução composta por:
 * **[Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr):** aplicativo do Admin para o operador da loja instruir os entregadores sobre a coleta e entrega dos pedidos no endereço dos clientes ou nos pontos de retirada. Inclui a otimização de rotas e comprovação de coleta e entrega, ou seja, o entregador pode fazer o upload de uma assinatura do cliente, uma foto ou uma observação que confirme que a entrega foi feita. 
 * **Aplicativos móveis:** aplicativos para dispositivos móveis destinados exclusivamente para entregadores, para que eles possam realizar suas atividades sem acessar o Admin da loja.
 
->ℹ️ Os apps de **Fulfillment** e **Last Mile** para entregadores e motoristas estão disponíveis apenas para dispositivos Android.
+<div class = "alert alert-info">
+Os apps de <b>Fulfillment</b> e <b>Last Mile</b> para entregadores e motoristas estão disponíveis apenas para dispositivos Android.
+</div>
 

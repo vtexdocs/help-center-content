@@ -18,7 +18,9 @@ internalReference: 550097
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao criar uma especificação em uma Categoria VTEX você pode configurar um valor padrão que será preenchido quando o sku/produto for criado sem esta informação.

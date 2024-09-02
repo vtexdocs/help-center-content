@@ -18,7 +18,9 @@ internalReference: 848524
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La indexación unificada de catálogos sólo tiene en cuenta las traducciones de los mensajes de la cuenta principal, incluso cuando se utiliza una arquitectura de subcuentas para implementar almacenes transfronterizos.

@@ -18,7 +18,9 @@ internalReference: 310527
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se uma conta tem muitas categorias, na tela de configuração do vendedor ela pode não estar carregando o Comissionamento de Categoria devido a um intervalo de tempo.

@@ -18,7 +18,9 @@ internalReference: 1050023
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, una cuenta de franquicia puede tener su registro fulFillmentEndpoint diferente de su nombre de cuenta "oficial", lo cual es una práctica común para arquitecturas específicas de vendedor<>marketplace que necesitan múltiples precios y/o stock para distintos canales de venta utilizando la característica de franquicia con múltiples vendedores para la misma franquicia.

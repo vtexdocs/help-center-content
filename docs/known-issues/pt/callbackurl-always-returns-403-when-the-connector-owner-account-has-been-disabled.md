@@ -18,7 +18,9 @@ internalReference: 775235
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para conectores utilizando nosso PPP, a configuração do conector inclui um campo chamado `accountName` que especifica a conta utilizada para publicar o aplicativo. Normalmente, o valor `accountName` é o mesmo que o nome da conta do parceiro. Entretanto, quando o parceiro publica conectores com sua infra-estrutura, ele utiliza um ponto final específico, que não é relativo; é assim que os conectores que utilizam nossa infra-estrutura IO fazem.

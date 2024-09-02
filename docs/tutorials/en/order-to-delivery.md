@@ -15,4 +15,6 @@ legacySlug: order-to-delivery
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---
 
->⚠️ This content is only available in Portuguese.  
+<div class="alert alert-warning">
+  <p>This content is only available in Portuguese.</p>
+</div>  

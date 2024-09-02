@@ -18,7 +18,9 @@ internalReference: 642136
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns BINs não estão sendo identificados corretamente no checkout. A bandeira do cartão é determinada por um regex que pode eventualmente estar desatualizado, fazendo com que a bandeira do cartão não seja identificada ou seja identificada incorretamente.

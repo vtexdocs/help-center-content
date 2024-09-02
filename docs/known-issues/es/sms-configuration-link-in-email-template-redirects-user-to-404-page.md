@@ -18,7 +18,9 @@ internalReference: 1054007
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En la pantalla de configuración de plantillas del sistema de centro de mensajes, hay un enlace que debería llevar al usuario a la configuración de la app de envío de SMS, pero esta app ya no está disponible y el enlace ahora devuelve 404, mostrando una pantalla con el mensaje "`store/not-found-box-title`".

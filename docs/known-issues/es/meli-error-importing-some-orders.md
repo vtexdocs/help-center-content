@@ -18,7 +18,9 @@ internalReference: 664351
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 identificamos que estamos haciendo la división por tipo de listado, así que cuando tratamos de dividir, y es Cumplimiento, no lo deja.

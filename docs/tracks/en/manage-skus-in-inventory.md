@@ -49,7 +49,9 @@ However, make sure that you're familiar with how to correctly fill in the spread
 
 ## API REST
 
->⚠️ Price module REST API call authentications must be made using an AppKey and AppToken. For more info, access our article on  [how to generate an Appkey and an AppToken to authenticate your integrations](https://help.vtex.com/en/tutorial/creatoing-appkey-and-apptoken-to-authenticate-integrations--43tQeyQJgAKGEuCqQKAOI2)
+<div class="alert alert-warning">
+Price module REST API call authentications must be made using an AppKey and AppToken. For more info, access our article on  <a href="https://help.vtex.com/en/tutorial/creatoing-appkey-and-apptoken-to-authenticate-integrations--43tQeyQJgAKGEuCqQKAOI2">how to generate an Appkey and an AppToken to authenticate your integrations</a>
+</div>
 
 To use API to change the quantity of an SKU in inventory, you'll need to send a __PUT__ to the following endpoint:
 

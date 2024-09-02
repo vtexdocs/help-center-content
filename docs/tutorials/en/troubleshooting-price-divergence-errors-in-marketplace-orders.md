@@ -23,7 +23,9 @@ When the price set by a seller is different from the price offered by the market
 
 To activate the Orders Authorization flow for native connectors, you need to [configure a Price Divergence rule](https://help.vtex.com/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe). Only users with Super Admin (Owner) or OMS Full [roles](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) can do this.
 
->ℹ️ Once you have [configured the Price Divergence rule](https://help.vtex.com/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe), it will apply to all marketplaces where you are a seller.
+<div class = "alert alert-info">
+Once you have <a href="https://help.vtex.com/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe">configured the Price Divergence rule</a>, it will apply to all marketplaces where you are a seller.
+</div>
 
 For VTEX marketplaces, external marketplaces and certified connectors (partners), as long as the Price Divergence rule has not been created, orders with price divergence error are automatically approved.
 

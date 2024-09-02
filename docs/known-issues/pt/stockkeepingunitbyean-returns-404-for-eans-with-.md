@@ -1,5 +1,5 @@
 ---
-title: "StockKeepingUnitByEAN returns 404 for EANs with '/'"
+title: 'StockKeepingUnitByEAN returns 404 for EANs with "/"'
 id: Pp3lE5Gu54gOw6liInte4
 status: DRAFT
 createdAt: 2022-02-25T12:23:55.903Z
@@ -18,13 +18,19 @@ internalReference: 479244
 
 ## Sumário
 
->⚠️ Este conteúdo só está disponível em Inglês.
+<div class="alert alert-warning">
+  <p>Este conteúdo só está disponível em Inglês.</p>
+</div>
 
 ## Simulação
 
->⚠️ Este conteúdo só está disponível em Inglês.
+<div class="alert alert-warning">
+  <p>Este conteúdo só está disponível em Inglês.</p>
+</div>
 
 ## Workaround
 
->⚠️ Este conteúdo só está disponível em Inglês.
+<div class="alert alert-warning">
+  <p>Este conteúdo só está disponível em Inglês.</p>
+</div>
 

@@ -34,7 +34,7 @@ Defina el nombre del archivo inicial, con el mismo país de la tienda.
 Ejemplo: argentina.js o mexico.js, el archivo .js de la carpeta principal y la carpeta tienen que tener el mismo nombre. La carpeta IVA puede tener cualquier nombre.
 
 El orden de llamada que debe seguir también para el desarrollo:
-![TaxHubTree](https://images.contentful.com/alneenqid6w5/5hPFG8m6pUCMuIg8e2Iymm/957b9c89844099db690e82abe53c2b7a/TxHubTree.jpg)
+![TaxHubTree](//images.contentful.com/alneenqid6w5/5hPFG8m6pUCMuIg8e2Iymm/957b9c89844099db690e82abe53c2b7a/TxHubTree.jpg)
 
 Después de hacer los cambios deberá subir el archivo a VTEX en el formato `.zip` siempre con la misma estructura de carpetas.
 

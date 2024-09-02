@@ -18,7 +18,9 @@ internalReference: 898888
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utiliza la configuración de pago B2B y se va y viene entre los pasos de envío y pago, el envío se congela al intentar seleccionar una opción.

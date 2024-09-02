@@ -1,5 +1,5 @@
 ---
-title: "[Revista Luiza] Pedido con error 'Referencia de objeto no establecida a una instancia de un objeto'"
+title: '[Revista Luiza] Pedido con error "Referencia de objeto no establecida a una instancia de un objeto"'
 id: 72w2GWNOlosoOHhs1ip4dl
 status: PUBLISHED
 createdAt: 2023-03-23T20:11:55.897Z
@@ -18,7 +18,9 @@ internalReference: 777298
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos pedidos no se han creado en OMS+Bridge y en el log aparece el error: `"Object reference not set to an instance of an object"`.

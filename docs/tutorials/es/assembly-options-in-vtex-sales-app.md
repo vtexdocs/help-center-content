@@ -35,9 +35,9 @@ Existen dos escenarios en los que se pueden agregar servicios a productos presen
 2. Selecciona la opción de servicio que deseas y haz clic en el botón **Continuar al carrito**.
 3. Una vez finalizado el proceso, podrás ver en tu carrito el servicio seleccionado, con el valor total del pedido.
 
-![Garantia estendida - ES](https://images.ctfassets.net/alneenqid6w5/6x9bCRVpOcGLa8bilRpZ7I/700c85400ed179eb7aaeecfd963160ee/Cen_rio_1__T1__-_ES.png)
+![Garantia estendida - ES](//images.ctfassets.net/alneenqid6w5/6x9bCRVpOcGLa8bilRpZ7I/700c85400ed179eb7aaeecfd963160ee/Cen_rio_1__T1__-_ES.png)
 
-![Carrinho - ES](https://images.ctfassets.net/alneenqid6w5/2w3D5PYdqlPZs4gtGOY0VM/2b1f4c689a2f9ff02705f9e2772c799f/Cen_rio_1__T2__-_ES.png)
+![Carrinho - ES](//images.ctfassets.net/alneenqid6w5/2w3D5PYdqlPZs4gtGOY0VM/2b1f4c689a2f9ff02705f9e2772c799f/Cen_rio_1__T2__-_ES.png)
 
 **Escenario 2:** selección de múltiples servicios
 
@@ -48,8 +48,8 @@ Existen dos escenarios en los que se pueden agregar servicios a productos presen
 5. Haz clic en el botón Continuar. Si alguno de los servicios requiere información adicional, rellena los campos necesarios para vincular esta información al servicio adquirido.
 6. Haz clic en el botón Aplicar.
 
-![Garantia estendida - ES](https://images.ctfassets.net/alneenqid6w5/6x9bCRVpOcGLa8bilRpZ7I/700c85400ed179eb7aaeecfd963160ee/Cen_rio_1__T1__-_ES.png)
+![Garantia estendida - ES](//images.ctfassets.net/alneenqid6w5/6x9bCRVpOcGLa8bilRpZ7I/700c85400ed179eb7aaeecfd963160ee/Cen_rio_1__T1__-_ES.png)
 
-![Seguro - ES](https://images.ctfassets.net/alneenqid6w5/7MQkGqCSarYQTpAKT365r3/dae714edffa7f98926c9b86a321a2170/Cen_rio_2__T2__-_ES.png)
+![Seguro - ES](//images.ctfassets.net/alneenqid6w5/7MQkGqCSarYQTpAKT365r3/dae714edffa7f98926c9b86a321a2170/Cen_rio_2__T2__-_ES.png)
 
-![Ordem pedido - ES](https://images.ctfassets.net/alneenqid6w5/DKPaBz21QHRDmfVoJxWs0/7cab56abab6aa79d6f1483bb492486c2/Cen_rio_2__T3__-_ES.png)
+![Ordem pedido - ES](//images.ctfassets.net/alneenqid6w5/DKPaBz21QHRDmfVoJxWs0/7cab56abab6aa79d6f1483bb492486c2/Cen_rio_2__T3__-_ES.png)

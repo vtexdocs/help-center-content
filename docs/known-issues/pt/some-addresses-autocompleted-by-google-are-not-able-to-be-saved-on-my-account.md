@@ -18,7 +18,9 @@ internalReference: 415388
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns endereços retornados do campo de pesquisa do Google não estão sendo salvos quando adicionados por meio do fluxo Minha conta, e a interface do usuário não retorna nenhum feedback para o usuário.

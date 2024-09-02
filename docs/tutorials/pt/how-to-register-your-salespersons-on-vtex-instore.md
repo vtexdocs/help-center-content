@@ -15,4 +15,6 @@ legacySlug: como-cadastrar-vendedores-no-vtex-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
->ℹ️ Este artigo está obsoleto. [Clique aqui](https://help.vtex.com/pt/tracks/instore-setup?step=2) para acessar nosso tutorial com o passo a passo para cadastrar vendedores no inStore.
+<div class="alert alert-info">
+Este artigo está obsoleto. <a href="https://help.vtex.com/pt/tracks/instore-setup?step=2">Clique aqui</a> para acessar nosso tutorial com o passo a passo para cadastrar vendedores no inStore.
+</div>

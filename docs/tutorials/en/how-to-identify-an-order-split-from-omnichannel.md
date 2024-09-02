@@ -26,7 +26,9 @@ When the order is split, a suffix is added to the ID, such as `-01` or `-02`. Ea
 
 > For example: In the marketplace, an order's split ID could be `527103869572-01` or `v527103anml-01`.
 
->ℹ️ Orders placed on the marketplace will have an ID in the sellers' environment. Each seller has restricted access to its order section and no access to other sellers' orders.
+<div class = "alert alert-info">
+Orders placed on the marketplace will have an ID in the sellers' environment. Each seller has restricted access to its order section and no access to other sellers' orders.
+</div>
 
 The order ID in the seller's environment is based on the same sequence used in the marketplace but has an additional prefix corresponding to the [affiliate ID](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), composed of three consonants that identify the seller in the marketplace.
 

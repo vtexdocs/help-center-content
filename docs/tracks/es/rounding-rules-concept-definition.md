@@ -3,8 +3,8 @@ title: 'Redondeo de Precios – Definición de Concepto'
 id: 1tUIUvF6BUkDgMsknGaMkF
 status: PUBLISHED
 createdAt: 2019-07-04T13:53:48.537Z
-updatedAt: 2020-08-31T20:07:41.201Z
-publishedAt: 2020-08-31T20:07:41.201Z
+updatedAt: 2024-08-27T17:14:21.711Z
+publishedAt: 2024-08-27T17:14:21.711Z
 firstPublishedAt: 2019-07-17T19:47:01.156Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -29,6 +29,8 @@ El redondeo de precios depende de tres condiciones para que se registre una nuev
 - El intervalo de precios
 - El número de dígitos que serán redondeados
 - Los métodos de redondeo.
+
+Las reglas de redondeo de precios son aplicables únicamente al valor inicial del producto antes de la aplicación de cualquier descuento o promoción (precio base). No se aplican a precios fijos y promociones. En estos casos, los valores se consideran finales y exactos, y se muestran a los clientes exactamente como fueron definidos, sin ningún ajuste adicional.
 
 ## Intervalo de precios
 

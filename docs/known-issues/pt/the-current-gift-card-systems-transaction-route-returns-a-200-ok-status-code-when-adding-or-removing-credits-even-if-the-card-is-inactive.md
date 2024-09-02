@@ -18,7 +18,9 @@ internalReference: 795997
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, nosso sistema de cartão-presente não inclui uma verificação para verificar se um cartão-presente está ativo antes de adicionar ou remover créditos. Embora essa rota se refira apenas à realização de transações com cartão-presente, é a única maneira de fazê-lo, portanto, espera-se que alguma validação seja feita.

@@ -18,7 +18,9 @@ internalReference: 438630
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hay una característica en el módulo de Logística para heredar los puntos de recogida entre las cuentas de franquicia, y así entre los vendedores de marca blanca. Mientras estén registrados en un vendedor X, aparecerán como opciones de recogida para un vendedor Y según lo configurado en la estrategia de envío. Aunque sean los mismos, su ID será diferente entre cada vendedor, por lo que se verán como opciones de recogida diferentes e independientes.

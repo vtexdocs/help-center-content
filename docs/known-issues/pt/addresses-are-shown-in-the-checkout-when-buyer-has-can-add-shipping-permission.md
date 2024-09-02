@@ -1,5 +1,5 @@
 ---
-title: "Os endereços são exibidos no Checkout quando o comprador tem a permissão 'Can add shipping' (Pode adicionar frete)"
+title: 'Os endereços são exibidos no Checkout quando o comprador tem a permissão "Can add shipping" (Pode adicionar frete)'
 id: 2ssiTryGJ6kGoZWxWkGnFF
 status: PUBLISHED
 createdAt: 2024-05-21T22:03:55.172Z
@@ -18,7 +18,9 @@ internalReference: 1037067
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando uma função tem a permissão "Pode adicionar envio" nas configurações de checkout B2B e um comprador tem endereços registrados no sistema de perfil, clicar em "Entregar em outro endereço" na etapa de envio e clicar em "Voltar à lista de endereços" mostra os endereços do sistema de perfil.

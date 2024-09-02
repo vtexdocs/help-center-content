@@ -18,7 +18,9 @@ internalReference: 423811
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el usuario elige cambiar su dirección mientras algunos datos respectivos todavía se están cargando en la página, el componente de dirección cambia de geolocalización al componente con un desplegable. Los datos pueden ser, por ejemplo, la selección de una tienda para recoger. Mientras los datos se cargan en la interfaz, el usuario hace clic en "cambiar dirección", con eso, la dirección de vuelta está en otro componente, no en el componente de geolocalización.

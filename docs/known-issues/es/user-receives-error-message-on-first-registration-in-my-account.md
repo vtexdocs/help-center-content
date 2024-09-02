@@ -18,7 +18,9 @@ internalReference: 619909
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un nuevo usuario se registra en **Mi Cuenta**, la página ejecuta dos peticiones, una enviando los datos y la otra consultando el `userid` de ese usuario, pero en esta segunda petición el retorno es 404 no encontrado, y la página muestra un mensaje de error al usuario.

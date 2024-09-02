@@ -21,4 +21,6 @@ Sempre que você acessa uma página segura, isto é, protegida por um certificad
 
 Não é necessário solicitar a compra do certificado SSL. A VTEX gera um certificado SSL para a sua loja e garante sua renovação automática. O certificado é emitido via Let’s Encrypt e sua criação é responsabilidade da VTEX no [momento do Go-Live da loja](https://help.vtex.com/pt/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
 
->⚠️ Não recomendamos a instalação de outros certificados. No entanto, caso seja necessário, faça a solicitação para o nosso [suporte](https://help.vtex.com/pt/support).
+<div class="alert alert-warning">
+<p>Não recomendamos a instalação de outros certificados. No entanto, caso seja necessário, faça a solicitação para o nosso <a href="https://help.vtex.com/pt/support">suporte</a>.</p>
+</div>

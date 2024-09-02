@@ -21,7 +21,7 @@ The Sent Offers module allows sellers to monitor their offers’ submission and 
 - [Offers](https://help.vtex.com/en/tutorial/anuncios-enviados-beta--6yg2CBv5Z5AnD0qS0cw2sa#offers)            
 - [Channels](https://help.vtex.com/en/tutorial/anuncios-enviados-beta--6yg2CBv5Z5AnD0qS0cw2sa#channels)          
 
-![Anuncios enviados Home EN](https://images.ctfassets.net/alneenqid6w5/4eTCYZQ0RRa2n9JN81RhRG/a9028554a465b67e3dec924aa11d0afa/Anuncios_enviados_Home_EN.jpg)
+![Anuncios enviados Home EN](//images.ctfassets.net/alneenqid6w5/4eTCYZQ0RRa2n9JN81RhRG/a9028554a465b67e3dec924aa11d0afa/Anuncios_enviados_Home_EN.jpg)
 
 ## Offers
 
@@ -32,13 +32,17 @@ By setting up the product’s price and inventory conditions, the seller prepare
 - **Containing errors**: when the system detects an issue that prevents an offer from being sent or updated on a channel. This status means that the offer requires manual review.  
 - **Unavailable**: when the offer is discarded for being inactive or not included in the trade policy determined for the channel.
 
->ℹ️ By clicking on `View list`, you will be redirected to the [Offers List](https://help.vtex.com/en/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE).
+<div class="alert alert-info">
+By clicking on <code>View list</code>, you will be redirected to the <a href="https://help.vtex.com/en/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE">Offers List</a>.
+</div>
 
 ## Channels
 
 This component lists all channels that have been integrated and the number of offers sent, processing and containing errors on each channel. This list provides sellers with greater visibility into the health of their integrations with external channels.
 
->ℹ️ In **Sent Offers** , you can track offers using [Mercado Libre Classic](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Mercado Libre Premium](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Netshoes](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) and [VTEX marketplaces](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace).
+<div class = "alert alert-info">
+In <b>Sent Offers</b> , you can track offers using <a href="https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Libre Classic</a>, <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Libre Premium</a>, <a href="https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm">Netshoes</a> and <a href="https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace">VTEX marketplaces</a>.
+</div>
 
 ## Learn more
 

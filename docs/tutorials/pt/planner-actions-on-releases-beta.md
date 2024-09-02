@@ -15,7 +15,9 @@ legacySlug: planner-acoes-em-lancamentos-beta
 subcategory: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
->ℹ️ O **Lançamentos** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam [FastStore](https://www.faststore.dev/).
+<div class="alert alert-info">
+  <p>O <strong>Lançamentos</strong> está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam <a href="https://www.faststore.dev/">FastStore</a>.</p>
+</div>
 
 O módulo **Lançamentos** permite que você gerencie [lançamentos](https://help.vtex.com/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ) de forma a coordenar a criação, planejamento e publicação de alterações na sua loja. Um lançamento significa uma modificação ou um agrupamento de modificações que podem ser publicadas de forma conjunta.
 
@@ -34,7 +36,9 @@ Cada página apresenta uma visualização dos lançamentos e permite realizar a�
 * [Publicar lançamento](#publicar-lancamento)
 * [Excluir lançamento](#excluir-lancamento)
 
->⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+<div class="alert alert-warning">
+  <p>Na fase beta, os lançamentos precisam estar relacionados ao <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">CMS</a>, pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o <strong>Lançamentos</strong>, é necessário configurar o CMS conforme descrito em <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.</p>
+</div>
 
 ## Criar lançamento
 
@@ -109,7 +113,9 @@ Para publicar o lançamento e tornar as modificações visíveis no storefront d
 
 Todos os [status de lançamentos](https://help.vtex.com/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos) permitem que um lançamento seja excluído, ou seja, que o lançamento seja deletado de forma permanente.
 
->ℹ️ Se em vez de excluir um lançamento você desejar arquivá-lo, você deve despublicar o lançamento. Assim, o lançamento não é deletado e pode ser republicado a qualquer momento.
+<div class="alert alert-info">
+  <p>Se em vez de excluir um lançamento você desejar arquivá-lo, você deve despublicar o lançamento. Assim, o lançamento não é deletado e pode ser republicado a qualquer momento.</p>
+</div>
 
 Quando um lançamento no status `Publicado` é excluído, as modificações que ele agrupava são mantidas no storefront da loja, apenas o lançamento que agrupava as modificações deixa de existir.
 

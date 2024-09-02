@@ -18,7 +18,9 @@ internalReference: 327219
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há uma limitação com o módulo de Crédito ao Cliente que não permite ao usuário exportar mais de 150k faturas ao mesmo tempo.

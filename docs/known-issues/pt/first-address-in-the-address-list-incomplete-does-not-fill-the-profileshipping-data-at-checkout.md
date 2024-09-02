@@ -18,7 +18,9 @@ internalReference: 366975
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um usuário tem mais de um endereço em seu perfil e o primeiro endereço na lista de endereços está incompleto, independentemente de os outros serem válidos, o checkout não preenche automaticamente os dados de perfil/envio após a adição do e-mail.

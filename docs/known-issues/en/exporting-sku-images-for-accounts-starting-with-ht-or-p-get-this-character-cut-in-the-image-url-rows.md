@@ -1,5 +1,5 @@
 ---
-title: "Exporting SKU images for accounts starting with 'h','t' or 'p' get this character cut in the 'Image URL' rows."
+title: "Exporting SKU images for accounts starting with 'h','t' or 'p' get this character cut in the "Image URL" rows."
 id: 1IZdnE8IGwkBlbcFhjLrzn
 status: PUBLISHED
 createdAt: 2023-10-13T15:20:49.703Z

@@ -42,6 +42,8 @@ Feito isso, retorne para a página de configurações no Admin e selecione a fla
 
 Sempre que achar necessário, você pode testar se o envio de e-mails está funcionando. Para isso, acesse a seção Remetentes e clique no botão `Testar` do card com o remetente desejado.
 
->⚠️ Atenção: sempre que você fizer uma alteração no remetente e salvá-la, será enviado um e-mail de confirmação de SMTP cadastrado com sucesso para o endereço informado. Em todos os casos, é imprescindível clicar no link enviado no e-mail para concluir a confirmação.
+<div class="alert alert-warning">
+Atenção: sempre que você fizer uma alteração no remetente e salvá-la, será enviado um e-mail de confirmação de SMTP cadastrado com sucesso para o endereço informado. Em todos os casos, é imprescindível clicar no link enviado no e-mail para concluir a confirmação.
+</div>
   
 

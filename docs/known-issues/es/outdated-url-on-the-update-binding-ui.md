@@ -18,7 +18,9 @@ internalReference: 890791
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el comerciante es la actualización de una licitación de la interfaz de usuario es como sigue:

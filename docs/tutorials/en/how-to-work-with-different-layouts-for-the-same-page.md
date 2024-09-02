@@ -37,7 +37,7 @@ After that a new section will be available and you can define through the fields
 
 It is possible to limit the availability of the template to a predetermined period of time by filling in the __From__ and __To__ fields as well as to define in which categories, products, brands and collections the chosen template will be applied.
 
-![template-condicionado-cms](https://images.ctfassets.net/alneenqid6w5/5oheUsdoc0aKS4ysOwQ6ig/66a11beac0c32d7fde34d43b94fb45bb/template-condicionado-cms.png)
+![template-condicionado-cms](//images.ctfassets.net/alneenqid6w5/5oheUsdoc0aKS4ysOwQ6ig/66a11beac0c32d7fde34d43b94fb45bb/template-condicionado-cms.png)
 
 After filling in all the needed fields, do not forget to save the changes made by clicking on __Save Layout__.
 
@@ -50,7 +50,9 @@ It happens that the offered conditions are not present on any page:
 
 Hence, it is not possible to asign conditions to specific product or to different layouts through a collection. You would need to register these together with the product condition.
 
->ℹ️ According to the chosen conditions, an order of priority is established for the applicability of the template. The order first follows, if available, product template, category and, finally, brand. Thus, a template conditioned for a given product layout overlaps the template conditioned for the category in which this product is contained and so on.
+<div class="alert alert-info">
+According to the chosen conditions, an order of priority is established for the applicability of the template. The order first follows, if available, product template, category and, finally, brand. Thus, a template conditioned for a given product layout overlaps the template conditioned for the category in which this product is contained and so on.
+</div>
 
 In case of doubt with this set up, we recommend using the lid: [Layout Test](/en/faq/validating-a-layout-before-moving-it-to-production)
 

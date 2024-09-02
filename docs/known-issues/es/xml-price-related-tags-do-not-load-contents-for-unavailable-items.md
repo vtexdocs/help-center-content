@@ -18,7 +18,9 @@ internalReference: 974722
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La integración XML carga cualquier etiqueta relacionada con el precio, como minPrice, maxPrice, currentPrice, se cargan como una etiqueta de valor nulo (<![CDATA[]]>) cuando el artículo no está disponible y también se establece para mostrar si no está disponible.

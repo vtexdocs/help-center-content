@@ -18,7 +18,9 @@ internalReference: 868535
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Algumas funções do componente sticky layout não funcionam como esperado quando visualizadas no navegador Safari

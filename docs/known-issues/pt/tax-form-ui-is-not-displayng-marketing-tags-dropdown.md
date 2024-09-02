@@ -18,7 +18,9 @@ internalReference: 1058148
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao salvar impostos no módulo de promoções, o valor do menu suspenso para "pelo menos um dos seguintes" ou "todos os seguintes" não é mostrado depois que o imposto é salvo. Consequentemente, o usuário não consegue descobrir qual deles está sendo usado.

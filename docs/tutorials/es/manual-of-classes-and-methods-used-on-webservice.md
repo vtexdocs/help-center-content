@@ -17,11 +17,9 @@ subcategory: 1vwB9FtTSQmcSewQw02QoW
 
 La interfaz de Web Service permite que el responsable de la tienda acceda prácticamente todos los datos que son ilustrados en la interfaz de admin además de datos adicionales y exclusivos. Antes de usarlo, lea nuestra guía [Integration Guide](https://help.vtex.com/tutorial/guia-de-integracion-de-erps--3VuOwNLmb624ImooEIIkmO)
 
-[Download](https://assets.ctfassets.net/alneenqid6w5/4OdeCFbcVQtEgkuWsuuidl/80b79448cf2b327e07b567a8411afaa0/vtex_WebServiceGuide.pdf)
+[Download](//assets.ctfassets.net/alneenqid6w5/4OdeCFbcVQtEgkuWsuuidl/80b79448cf2b327e07b567a8411afaa0/vtex_WebServiceGuide.pdf)
 
->❗ Atenção: sólo los métodos SOAP correspondientes al **catálogo** son válidos.
->
-> **Todos los demás métodos serán descontinuados a partir del 28/02/2017.**
->
-> Utilice las API REST equivalentes disponibles en nuestro [Developer Docs](//help.vtex.com/developer-docs/).
+<div class="alert alert-danger"><p>Atenção: sólo los métodos SOAP correspondientes al <strong>catálogo</strong> son válidos.</p>
+<p><strong>Todos los demás métodos serán descontinuados a partir del 28/02/2017.</strong></p>
+<p>Utilice las API REST equivalentes disponibles en nuestro <a href="//help.vtex.com/developer-docs/">Developer Docs</a>.</p></div>
 

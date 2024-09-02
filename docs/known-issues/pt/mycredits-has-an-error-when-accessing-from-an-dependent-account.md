@@ -18,7 +18,9 @@ internalReference: 367276
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Existe a possibilidade de criar um dependente adicional, ao criar uma conta no Crédito ao Cliente e quando você faz isso, a conta dependente está mostrando um erro ao acessar o MyCredits (dentro de Minha Conta)

@@ -18,7 +18,9 @@ internalReference: 523984
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Na lista, peça um filtro por promoção, quando há um espaço extra em branco no nome da promoção na json não está correspondendo.

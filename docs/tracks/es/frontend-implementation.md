@@ -24,7 +24,9 @@ El propósito de este artículo es brindar orientación en la elección de la te
 
 La implementación del frontend es una etapa centrada en la definición de las tecnologías a implementar, en función de las necesidades del negocio relacionadas con el storefront.
 
->ℹ️ El frontend puede ser implementado tanto por el equipo de desarrollo interno de la empresa como por nuestros [partners de implementación](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion). [Los usuarios](https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512) con acceso al Admin VTEX pueden consultar la lista de nuestros partners a través del [Partner Portal](https://partnerportal.vtex.com/) (exclusivo Brasil).
+<div class = "alert alert-info">
+El frontend puede ser implementado tanto por el equipo de desarrollo interno de la empresa como por nuestros <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion">partners de implementación</a>. <a href="https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512">Los usuarios</a> con acceso al Admin VTEX pueden consultar la lista de nuestros partners a través del <a href="https://partnerportal.vtex.com/">Partner Portal</a> (exclusivo Brasil).
+</div>
 
 ## Antes de empezar
 
@@ -37,13 +39,17 @@ Antes de empezar a implementar el frontend, se recomienda que la tienda complete
 | Configuración del catálogo | El equipo configura el [catálogo](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo) con los productos, el árbol de categorías y la información relacionada, como descripciones, imágenes y precios, para completar y probar la tienda, incluyendo recursos como las páginas de lista de productos (PLP), funcionalidad de búsqueda, las páginas de detalles de producto (PDP) y checkout.<br><br>La falta de catálogo puede resultar en pruebas incompletas y problemas en la integración de datos, lo que retrasa la implementación.<br><br>Más información en el artículo [Módulos de VTEX I](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7). |
 | Definición de las aplicaciones necesarias para la operación de la tienda | El equipo define las aplicaciones, tanto nativas como de terceros, necesarias para la operación de la tienda.<br><br>Hay una lista de aplicaciones nativas y de terceros para tiendas que se construyan usando [Store Framework](#store-framework).<br><br>Más información en el artículo [VTEX IO Apps](https://developers.vtex.com/docs/vtex-io-apps). |
 
->ℹ️ La [fase de desarrollo](#fases-de-desarrollo) puede llevarse a cabo simultáneamente con otras fases de las [integraciones de backend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) y [configuración de módulos](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7), como por ejemplo, la configuración de medios de pago y ajustes logísticos. Esto va a depender del tipo de [arquitectura y planificación](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) elegida para la tienda VTEX y deberá ir acompañado de la [agencia implementadora](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6ylpartners-de-implementacion) o del [soporte VTEX](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8).
+<div class = "alert alert-info">
+La <a href="#fases-de-desarrollo">fase de desarrollo</a> puede llevarse a cabo simultáneamente con otras fases de las <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">integraciones de backend</a> y <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7">configuración de módulos</a>, como por ejemplo, la configuración de medios de pago y ajustes logísticos. Esto va a depender del tipo de <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl">arquitectura y planificación</a> elegida para la tienda VTEX y deberá ir acompañado de la <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6ylpartners-de-implementacion">agencia implementadora</a> o del <a href="https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8">soporte VTEX</a>.
+</div>
 
 ## Tecnologías de desarrollo de frontend de VTEX
 
 VTEX cuenta con tres diferentes tecnologías para el desarrollo del storefront: [FastStore](#faststore), [Store Framework](#store-framework) y [CMS Portal Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). CMS Portal Legado fue la primera tecnología de VTEX para la construcción de storefronts. Este sistema, basado en HTML, CSS y JavaScript, centraliza todo el proceso de desarrollo y edición de código a través del Admin VTEX.
 
->⚠️ Aunque algunas tiendas aún lo utilizan, [CMS Portal Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) es una tecnología heredada y ya no está disponible para tiendas que inician su trayectoria con VTEX.
+<div class="alert alert-warning">
+Aunque algunas tiendas aún lo utilizan, <a href="https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS Portal Legado</a> es una tecnología heredada y ya no está disponible para tiendas que inician su trayectoria con VTEX.
+</div>
 
 Las siguientes secciones tratan sobre las principales características y funcionalidades de FastStore y Store Framework.
 
@@ -87,7 +93,7 @@ Cuando se habla de implementación frontend, cabe recordar que [VTEX IO](https:/
 
 Esto significa que cuando trabajas con VTEX IO, desarrollas tu código localmente. Sin embargo, en lo que respecta a implementar y ejecutar la tienda, además de encargarse del proceso de deploy, VTEX IO gestiona la infraestructura, CI/CD y la seguridad. La siguiente imagen muestra cómo se relacionan estos conceptos entre sí:
 
-![Arquitectura de desarrollo frontend](https://images.ctfassets.net/alneenqid6w5/70awnhEGvAlpk5NBrGJJJ6/b86208e7447890ebd62183059c0b22f6/frontend_image3_ES.png)
+![Arquitectura de desarrollo frontend](//images.ctfassets.net/alneenqid6w5/70awnhEGvAlpk5NBrGJJJ6/b86208e7447890ebd62183059c0b22f6/frontend_image3_ES.png)
 
 ### Principales funcionalidades de Store Framework
 
@@ -114,7 +120,9 @@ Store Framework es una opción más madura, que ofrece una estructura flexible a
 
 FastStore es una alternativa más reciente en proceso de evolución, enfocada en el desempeño de la tienda. Esta solución ofrece una experiencia de carga rápida, que es esencial para mantener el interés de los visitantes de la tienda y reducir las tasas de abandono de carrito. FastStore es la tecnología más recomendada para casos de uso más simples enfocados en desempeño.
 
->ℹ️ El equipo de [soporte de VTEX](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) puede ayudarte a elegir una de las tecnologías de storefront disponibles.
+<div class = "alert alert-info">
+El equipo de <a href="https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8">soporte de VTEX</a> puede ayudarte a elegir una de las tecnologías de storefront disponibles.
+</div>
 
 En la siguiente tabla se comparan las dos tecnologías según sus principales funcionalidades:
 
@@ -207,7 +215,9 @@ Antes de lanzar la tienda en producción, y antes del [go-live](https://help.vte
 - [Requisitos para un PMV de FastStore](#requisitos-para-un-pmv-de-faststore)
 - [Requisitos para un PMV de Store Framework](#requisitos-para-un-pmv-de-store-framework).
 
->ℹ️ Las recomendaciones a continuación abordan configuraciones básicas de storefront. Dependiendo de la [arquitectura elegida](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) para la operación de la tienda, pueden ser necesarias otras configuraciones.
+<div class = "alert alert-info">
+Las recomendaciones a continuación abordan configuraciones básicas de storefront. Dependiendo de la <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl">arquitectura elegida</a> para la operación de la tienda, pueden ser necesarias otras configuraciones.
+</div>
 
 ### Desarrollo con FastStore
 
@@ -218,7 +228,7 @@ El equipo de desarrollo debe iniciar un nuevo proyecto con FastStore a través d
 - Página de detalles de producto (PDP)
 - Minicart
 
-![FastStore template](https://images.ctfassets.net/alneenqid6w5/gRMxctAER60dhr8UEIEh2/56b79e81aae806bf7ab17d6088267f90/frontend_image4_ALL.png)
+![FastStore template](//images.ctfassets.net/alneenqid6w5/gRMxctAER60dhr8UEIEh2/56b79e81aae806bf7ab17d6088267f90/frontend_image4_ALL.png)
 
 #### Requisitos para un PMV de FastStore
 
@@ -271,7 +281,7 @@ El equipo de desarrollo debe iniciar un nuevo proyecto con Store Framework clona
 - Página de lista de productos (PLP)
 - Página de detalles de producto (PDP)
 
-![Store Framework template](https://images.ctfassets.net/alneenqid6w5/5TpA31coQ1lu5ZoMkj8boS/d1f1bfb2f0e46ff3755375e00658a466/frontend_image5_ALL.png)
+![Store Framework template](//images.ctfassets.net/alneenqid6w5/5TpA31coQ1lu5ZoMkj8boS/d1f1bfb2f0e46ff3755375e00658a466/frontend_image5_ALL.png)
 
 #### Requisitos para un PMV de Store Framework
 

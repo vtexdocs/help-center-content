@@ -18,7 +18,9 @@ internalReference: 527111
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los porcentajes de envío, el envío máximo, el envío gratuito y las promociones de regalo no están generando puntos destacados / banderas en los PDP y PLP.

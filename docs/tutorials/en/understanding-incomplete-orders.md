@@ -23,7 +23,9 @@ In addition, all incomplete orders do not have Workflow and this behavior is exp
 
 Because an incomplete order was interrupted, activating a Workflow for an inactive situation would not be functional.
 
->❗ If there is an incomplete order, we recommend placing it again in the store. The platform will record the incomplete orders, but not process them. So if an order is incomplete and the customer still wants to purchase the items, they need to create a new order with the same items.
+<div class="alert alert-danger"> 
+If there is an incomplete order, we recommend placing it again in the store. The platform will record the incomplete orders, but not process them. So if an order is incomplete and the customer still wants to purchase the items, they need to create a new order with the same items.
+</div>
 
 Hence, the process proceeds as usual.
 

@@ -36,4 +36,6 @@ Veja abaixo esses parâmetros:
 
 Exemplo: `http://www.{AccountName}.com.br/{departamento}/{categoria}?O=OrderByPriceASC`
 
->⚠️ **Você só pode usar um parâmetro de ordenação de produtos por vez.** Por isso, escolha aquele que melhor se adequa às suas necessidades (se precisar, você pode substituir os parâmetros utilizados)
+<div class="alert alert-warning">
+<strong>Você só pode usar um parâmetro de ordenação de produtos por vez.</strong> Por isso, escolha aquele que melhor se adequa às suas necessidades (se precisar, você pode substituir os parâmetros utilizados)
+</div>

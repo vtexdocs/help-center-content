@@ -20,11 +20,12 @@ Para garantir o correto funcionamento da integração, é necessário previament
 
 É necessário definir qual política comercial será usada para integrar seus produtos com a Wish. Esta definição implicará em quatro aspectos principais: sortimento de produtos, estoque, preço e moeda. Ou seja, a disponibilidade e os preços dos seus produtos em determinado canal de vendas estarão completamente baseados na política comercial que você escolher. [Clique aqui para entender com mais detalhes como funciona a política comercial](https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace?locale=pt).
 
->ℹ️ OBS: a Wish exige que os preços do produto e de frete sejam enviados em dólar (USD). No entanto, ela cria os pedidos com o valor já convertido em reais (R$) para facilitar a emissão da nota fiscal.
->
-> Isto significa que a integração deve enviar preços em dólar e aceitar pedidos em reais. Dessa maneira, a arquitetura usa apenas Real (R$) e faz a conversão na integração.
->
-> Portanto, **a política comercial para Wish deve ser em reais (R$)** e todo fluxo de conversão será melhor detalhado no [passo 5](https://help.vtex.com/pt/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4/6EYEy1jRiAj465WOnhiczD).
+<div class="alert alert-info">
+  OBS: a Wish exige que os preços do produto e de frete sejam enviados em dólar (USD). No entanto, ela cria os pedidos com o valor já convertido em reais (R$) para facilitar a emissão da nota fiscal.
+
+Isto significa que a integração deve enviar preços em dólar e aceitar pedidos em reais. Dessa maneira, a arquitetura usa apenas Real (R$) e faz a conversão na integração.
+
+Portanto, <strong>a política comercial para Wish deve ser em reais (R$)</strong> e todo fluxo de conversão será melhor detalhado no [passo 5](https://help.vtex.com/pt/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4/6EYEy1jRiAj465WOnhiczD).</div>
 
 [Clique aqui](https://help.vtex.com/pt/faq/por-que-nao-consigo-criar-uma-nova-politica-comercial?locale=pt) para saber como contratar uma nova política caso necessário.
 
@@ -45,8 +46,9 @@ Para garantir que os pedidos integrem com sucesso, será necessário fazer toda 
   3. Defina as [transportadoras](https://help.vtex.com/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/3fLedVI57srjBDDxxGgOWe) que farão as entregas da Wish;
   4. Associe as transportadoras às docas.
 
->ℹ️ OBS: a Wish realiza o repasse da comissão através da confirmação de entrega dos pedidos e consulta diretamente suas transportadoras parceiras para obter esta informação. **<i>Portanto, para vender na Wish é obrigatório usar as transportadoras parceiras para realizar as entregas dos pedidos.</i>**
-> [ Confira aqui a lista de transportadoras aceitas pela Wish.](https://merchant.wish.com/documentation/shippingproviders)
+<div class="alert alert-info">
+  OBS: a Wish realiza o repasse da comissão através da confirmação de entrega dos pedidos e consulta diretamente suas transportadoras parceiras para obter esta informação. <strong><i>Portanto, para vender na Wish é obrigatório usar as transportadoras parceiras para realizar as entregas dos pedidos.</i></strong>
+<a href="https://merchant.wish.com/documentation/shippingproviders"> Confira aqui a lista de transportadoras aceitas pela Wish.</a></div>
 
 ## Definindo preços
 

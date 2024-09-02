@@ -3,8 +3,8 @@ title: 'Mapping and sending product categories to Amazon'
 id: 5xklf2wSdeztQh4iy5kJvD
 status: PUBLISHED
 createdAt: 2019-02-28T23:12:40.204Z
-updatedAt: 2023-10-18T19:47:04.829Z
-publishedAt: 2023-10-18T19:47:04.829Z
+updatedAt: 2024-08-27T17:55:46.602Z
+publishedAt: 2024-08-27T17:55:46.602Z
 firstPublishedAt: 2019-02-28T23:13:35.624Z
 contentType: trackArticle
 productTeam: Channels
@@ -18,13 +18,16 @@ Once you have configured the initial integration settings, you can send the prod
 
 To send your products to Amazon, you need to map the product [categories](https://help.vtex.com/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) and [attributes](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP).  
 
->ℹ️ Your products need to have the [warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) and [price](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configured before sending them to Amazon.
+<div class="alert alert-info">
+Your products need to have the <a href="https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">warehouse</a> and <a href="https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">price</a> configured before sending them to Amazon.  </div>
 
 ## Mapping categories  
 
 The mapping process can be done through the [VTEX Admin](#mapping-through-the-vtex-admin), or a [spreadsheet](#mapping-via-spreadsheet). See below how to do it in each case. 
 
->❗ When mapping a category using the VTEX Admin, the category mapping previously done via a spreadsheet will be overwritten and cannot be recovered.  
+<div class="alert alert-danger">
+When mapping a category using the VTEX Admin, the category mapping previously done via a spreadsheet will be overwritten and cannot be recovered.
+</div>  
 
 ### Mapping through the VTEX Admin (BETA)  
 
@@ -38,23 +41,23 @@ This list includes icons to indicate the status of your mapping:
 
 | **Icon** | **Status**| **Description**|
 |:---:|:---:|:---:|
-|![mapeado mapper](https://images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/94a47adb24232c9a88da68e951edfad4/mapeado_mapper.jpg)| **Mapped** |Indicates that the category mapping was completed.|
-|![mapeamentoincompleto mapper](https://images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/5c707e0427e064603b127ecffba75970/mapeamentoincompleto_mapper.jpg) | **Incomplete mapping** |The category is partially mapped.The required attributes, indicated by an asterisk, need to be added for completing the mapping. |
-|![erromapeamento mapper](https://images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/f84c40b49563dacdf2f96c5ac20ad65e/erromapeamento_mapper.jpg) | **Error in mapping** |The mapping error occurs when the marketplace removes or changes the product category. To solve this, simply remap the category. |
-|![incompleto mapper](https://images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/5c2bb3c9fd5f5d131b9a2e153d7857d0/incompleto_mapper.jpg) | **Not mapped** | Indicates that the category was not mapped. |  
+|![mapeado mapper](//images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/94a47adb24232c9a88da68e951edfad4/mapeado_mapper.jpg)| **Mapped** |Indicates that the category mapping was completed.|
+|![mapeamentoincompleto mapper](//images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/5c707e0427e064603b127ecffba75970/mapeamentoincompleto_mapper.jpg) | **Incomplete mapping** |The category is partially mapped.The required attributes, indicated by an asterisk, need to be added for completing the mapping. |
+|![erromapeamento mapper](//images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/f84c40b49563dacdf2f96c5ac20ad65e/erromapeamento_mapper.jpg) | **Error in mapping** |The mapping error occurs when the marketplace removes or changes the product category. To solve this, simply remap the category. |
+|![incompleto mapper](//images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/5c2bb3c9fd5f5d131b9a2e153d7857d0/incompleto_mapper.jpg) | **Not mapped** | Indicates that the category was not mapped. |  
 
 To map a category, follow these steps:  
 
 1. In the Admin, go to **Marketplace > Marketplaces and Integrations > Amazon > Perform Mapping.**  
 2. Select the category you want to map.
 3. Select the corresponding category on Amazon for the product you want to send.
-4. Match the attributes in the side window, as shown in the image below: ![Amazon Mapper Attributes](https://downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/da4ea7365efc744b036e55305feaea6f/mapper_amazon_atributos.gif)  
+4. Match the attributes in the side window, as shown in the image below: ![Amazon Mapper Attributes](//downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/da4ea7365efc744b036e55305feaea6f/mapper_amazon_atributos.gif)  
 5. Click the `Save Changes` button.  
 
->❗ Fields with an asterisk (`*`) are required.
->
->
-> Completing an attribute can trigger new required fields that only become visible under **Marketplace > Connections > Products** after the mapping has been saved.</br>
+<div class="alert alert-danger">
+Fields with an asterisk (<code>*</code>) are required.
+<br>Completing an attribute can trigger new required fields that only become visible under <b>Marketplace > Connections > Products</b> after the mapping has been saved.</br>
+</div>
 
 ### Mapping via spreadsheet  
 
@@ -112,13 +115,13 @@ To configure a global category in the VTEX environment according to the global c
 
 **Example of a spreadsheet query**
 In the Amazon required attributes template, we will use the **Health** category as an example:  
-![categoriageral01](https://images.contentful.com/alneenqid6w5/154htyPg3K3IZ6Wxej3kek/a446c9815c249dda3084aa1773b76b3a/categoriageral01.JPG)
+![categoriageral01](//images.contentful.com/alneenqid6w5/154htyPg3K3IZ6Wxej3kek/a446c9815c249dda3084aa1773b76b3a/categoriageral01.JPG)
 
 In the Amazon general categories template, filter column "I" Cat-Amazon-General by clicking on **Filter > Health > OK**.
-![categoriageral02](https://images.contentful.com/alneenqid6w5/2PTS1fxztRjYHaAicwVH7W/f44b94c30ca7401ec08a19c467ee8912/categoriageral02.JPG)
+![categoriageral02](//images.contentful.com/alneenqid6w5/2PTS1fxztRjYHaAicwVH7W/f44b94c30ca7401ec08a19c467ee8912/categoriageral02.JPG)
 
 Following the previous example, filter columns B, C, and D in the **Health & Beauty > Personal care > Massage & Relaxation** tree.
-![categoriageral03](https://images.contentful.com/alneenqid6w5/1p0cIHz7bp8HHuzud1H4zE/e79bf00cbe09f7b1fb155730cfc401f8/categoriageral03.JPG)
+![categoriageral03](//images.contentful.com/alneenqid6w5/1p0cIHz7bp8HHuzud1H4zE/e79bf00cbe09f7b1fb155730cfc401f8/categoriageral03.JPG)
 
 Now that you have found the Amazon general category, go back to the Admin to [configure the VTEX global category](https://help.vtex.com/es/tutorial/configurando-a-categoria-global--tutorials_188) according to the Amazon general category. 
 
@@ -177,7 +180,9 @@ The template contains the following columns:
 | F | VTEXValue | Name of the value used in the SKU field on the VTEX platform |
 | G | AmazonValue | Name of the values accepted by Amazon |
 
->ℹ️ The Amazon mapping template is case-sensitive.
+<div class="alert alert-info">
+The Amazon mapping template is case-sensitive.
+</div>
 
 Follow the steps below for each product:
 
@@ -194,7 +199,9 @@ Follow the steps below for each product:
 6. Fill in the **VTEXValue** column with the values of the product attribute on VTEX.
 7. Fill in the **AmazonValue** column with the attribute values accepted by Amazon. To view the values accepted by Amazon, go to the [Amazon required attribute spreadsheet](#2-amazon-attributes-template) and look for the `VALORES VÁLIDOS` tab.
 
->⚠️ Depending on the category, the **VariationTheme** values may be similar. There are categories in which **VariationTheme** can be: <i>SizeColor</i>, <i>Color</i> e <i>Size</i>, while there are other categories in which it can be: <i>ColorSize</i>, <i>Color</i> e <i>Size</i>. The difference is in the order. In <i>SizeColor</i>, the checkboxes on the product page will be sorted by size and color, while in <i>ColorSize</I> they will be sorted by color and size. Pay attention to the values valid for each category that will be mapped.
+<div class="alert alert-warning">
+Depending on the category, the <b>VariationTheme</b> values may be similar. There are categories in which <b>VariationTheme</b> can be: <i>SizeColor</i>, <i>Color</i> e <i>Size</i>, while there are other categories in which it can be: <i>ColorSize</i>, <i>Color</i> e <i>Size</i>. The difference is in the order. In <i>SizeColor</i>, the checkboxes on the product page will be sorted by size and color, while in <i>ColorSize</I> they will be sorted by color and size. Pay attention to the values valid for each category that will be mapped. 
+</div>
 
 #### Example
 

@@ -18,7 +18,9 @@ internalReference: 583623
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las Facetas de Búsqueda del Catálogo API / Filtros del Resultado de la Búsqueda del Portal no devuelven la información de los productos no disponibles y configurados para ser mostrados sin stock. El producto aparecerá en el Resultado de la Búsqueda, pero sus filtros no aparecerán.

@@ -18,7 +18,9 @@ internalReference: 854480
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao acessar o My Account, o evento pageView é acionado duas vezes, duplicando os dados no Analytics.

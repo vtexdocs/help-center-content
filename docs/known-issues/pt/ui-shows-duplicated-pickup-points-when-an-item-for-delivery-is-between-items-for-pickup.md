@@ -18,7 +18,9 @@ internalReference: 906549
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em um carrinho com pelo menos três produtos, onde os pedidos de itens são: O primeiro é para retirada, o segundo é para entrega e o terceiro é para retirada, a interface do usuário mostrará o ponto de retirada duplicado. Isso acontece porque a API agrupará o 1º item e o 3º item, já que se trata do mesmo SLA.

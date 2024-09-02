@@ -1,5 +1,5 @@
 ---
-title: "The message 'My billing address is ...' on the credit card iFrame is in the wrong language when using checkout in Catalan language"
+title: 'The message "My billing address is ..." on the credit card iFrame is in the wrong language when using checkout in Catalan language'
 id: 3AqPihwDDIM2qixa1jvJmz
 status: PUBLISHED
 createdAt: 2022-03-28T01:11:35.679Z

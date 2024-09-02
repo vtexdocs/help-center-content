@@ -1,5 +1,5 @@
 ---
-title: "Actualización del valor del crédito del cliente 'Total debido' según la paginación"
+title: 'Actualización del valor del crédito del cliente "Total debido" según la paginación'
 id: 6faMqwY8yHsIdYjkwTgCCQ
 status: PUBLISHED
 createdAt: 2022-03-27T20:52:29.371Z
@@ -18,7 +18,9 @@ internalReference: 432587
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El valor del "Total a pagar" en una cuenta de crédito de cliente no está mostrando el valor total, sino el valor total en la paginación actual de la UI

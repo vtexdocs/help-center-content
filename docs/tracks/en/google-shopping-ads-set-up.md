@@ -27,7 +27,9 @@ In this step, you must define which store will use the app and which URL Google 
 1. In the `Store` option select the sub-account that should be used for the app;
 2. In the `URL` option select the URL corresponding to the account's website chosen in the previous step.
 
->⚠️ **NOTE:** Make sure the chosen URL is the correct one, as the options will show any URL that is registered on [your domains](https://help.vtex.com/en/tutorial/configurando-dominios-no-license-manager?locale=en). **Usually, the URL is the one that has WWW**.
+<div class="alert alert-warning">
+<strong>NOTE:</strong> Make sure the chosen URL is the correct one, as the options will show any URL that is registered on <a href="https://help.vtex.com/en/tutorial/configurando-dominios-no-license-manager?locale=en">your domains</a>. <strong>Usually, the URL is the one that has WWW</strong>.
+</div>
 
 ## Setting up an account at the Google Merchant Center
 
@@ -41,7 +43,9 @@ When you select __"Create new"__, it is very important to immediately [access th
 
 - __Link existing:__ The app will use your already existing GMC account. When logging in, you need to use the same email that you use for the GMC you want to link.
 
->⚠️ **NOTE:** The URL set in GMC must be **exactly the same** as the one previously chosen. Also, remember to take the protocol into account (http or https).
+<div class="alert alert-warning">
+<strong>NOTE:</strong> The URL set in GMC must be <strong>exactly the same</strong> as the one previously chosen. Also, remember to take the protocol into account (http or https).
+</div>
 
 When you select __"Link to an existing GMC"__, you will have to define whether product integration with Google will be done through VTEX or through an external synchronization that you already use.
 

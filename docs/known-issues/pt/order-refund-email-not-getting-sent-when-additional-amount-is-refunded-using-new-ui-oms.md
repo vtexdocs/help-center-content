@@ -18,7 +18,9 @@ internalReference: 563300
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando uma ordem é devolvida pelo Marketplace através da "nova IU" e um valor "adicional" é inserido na "nova IU", ela gera um cartão de presente erroneamente e com isso, o Checkout retorna um erro dizendo "que não há valor a ser revertido e o e-mail transacional "vtexcommerce-order-refunded" não é enviado para o cliente final.

@@ -24,7 +24,9 @@ Además, el correcto rellenado de la plantilla depende de dos reglas. Estas son:
 - Cada coluna de la plantilla debe contener un número o un texto;
 - La actualización de la cantidad de SKUs debe hacerse en la columna __TotalQuantity__. 
 
->⚠️ **Atención**: si estas indicaciones no son respetadas, es posible que el sistema no acepte la importación de la plantilla o que el número de ítems en venta sea incorrecto.
+<div class="alert alert-warning">
+<strong>Atención</strong>: si estas indicaciones no son respetadas, es posible que el sistema no acepte la importación de la plantilla o que el número de ítems en venta sea incorrecto.  
+</div>
 
 A continuación, verifique el significado de cada campo de la plantilla de inventario.
 

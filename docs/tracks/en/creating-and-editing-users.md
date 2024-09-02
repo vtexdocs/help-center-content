@@ -46,4 +46,6 @@ You cannot change the email. To do this, it is necessary to make a new registrat
 2. Select the desired user and click on the **trash can** icon in the Actions column.
 3. Click on **confirm**.
 
->ℹ️ Although integration tokens de integração are listed as users, they cannot be excluded. To disable them, navigate to *Account settings > Account management > Account* in your Admin panel and uncheck the **Token Status** field.
+<div class="alert alert-info">
+Although integration tokens de integração are listed as users, they cannot be excluded. To disable them, navigate to <em>Account settings > Account management > Account</em> in your Admin panel and uncheck the <strong>Token Status</strong> field.
+</div>

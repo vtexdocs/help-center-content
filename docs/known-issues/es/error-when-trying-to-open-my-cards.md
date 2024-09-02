@@ -18,7 +18,9 @@ internalReference: 370706
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos usuarios específicos están recibiendo el siguiente mensaje de error al iniciar sesión en Mis tarjetas:

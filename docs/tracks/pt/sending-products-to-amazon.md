@@ -3,8 +3,8 @@ title: 'Envio e mapeamento de categorias dos produtos para a Amazon'
 id: 5xklf2wSdeztQh4iy5kJvD
 status: PUBLISHED
 createdAt: 2019-02-28T23:12:40.204Z
-updatedAt: 2023-10-18T19:47:04.829Z
-publishedAt: 2023-10-18T19:47:04.829Z
+updatedAt: 2024-08-27T17:55:46.602Z
+publishedAt: 2024-08-27T17:55:46.602Z
 firstPublishedAt: 2019-02-28T23:13:35.624Z
 contentType: trackArticle
 productTeam: Channels
@@ -18,13 +18,17 @@ Feitas as configurações iniciais da integração, é possível enviar os produ
 
 Para enviar os seus produtos para a Amazon, o seller deverá mapear as [categorias](https://help.vtex.com/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) e os [atributos dos produtos](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP).  
 
->ℹ️ Seus produtos precisam ter o [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [Preço](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviá-los à Amazon.  
+<div class="alert alert-info">
+Seus produtos precisam ter o <a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Estoque</a> e <a href="https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">Preço</a> configurados antes de enviá-los à Amazon.
+</div>  
 
 ## Mapear Categorias  
 
 O processo de mapeamento pode ser realizado via Admin VTEX, ou via planilha, veja abaixo como executar em cada caso.  
 
->❗ Ao realizar o mapeamento de uma categoria via Admin VTEX, o mapeamento daquela categoria realizado via planilha anteriormente, será sobrescrito e não poderá ser recuperado.
+<div class="alert alert-danger">
+Ao realizar o mapeamento de uma categoria via Admin VTEX, o mapeamento daquela categoria realizado via planilha anteriormente, será sobrescrito e não poderá ser recuperado.
+</div>
 
 ### Mapeamento via Admin VTEX (BETA)  
 
@@ -38,10 +42,10 @@ A lista de categorias da sua loja VTEX inclui o status de seu mapeamento por mei
 
 | **Ícone** | **Status** | **Descrição** |
 |:---:|:---:|:---:|
-| ![mapeado mapper](https://images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/43ace44c1e31c69157dc8ad5ec12529d/mapeado_mapper.jpg) | **Mapeado** | Indica que o mapeamento da categoria foi concluído. |
-| ![mapeamentoincompleto mapper](https://images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/3cc09ec0f77d42f3277dd90e2f3167f9/mapeamentoincompleto_mapper.jpg) | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. |
-| ![erromapeamento mapper](https://images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/136543f594ca05eec7be6bfc545cd10f/erromapeamento_mapper.jpg) | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto. Para solucionar esse problema basta refazer o mapeamento da categoria. |
-| ![não mapeado mapper](https://images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/79bf968ab2d73471ee6e96b41b6a75d9/incompleto_mapper.jpg) | **Não mapeado** | Indica que a categoria não foi mapeada. |  
+| ![mapeado mapper](//images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/43ace44c1e31c69157dc8ad5ec12529d/mapeado_mapper.jpg) | **Mapeado** | Indica que o mapeamento da categoria foi concluído. |
+| ![mapeamentoincompleto mapper](//images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/3cc09ec0f77d42f3277dd90e2f3167f9/mapeamentoincompleto_mapper.jpg) | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. |
+| ![erromapeamento mapper](//images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/136543f594ca05eec7be6bfc545cd10f/erromapeamento_mapper.jpg) | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto. Para solucionar esse problema basta refazer o mapeamento da categoria. |
+| ![não mapeado mapper](//images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/79bf968ab2d73471ee6e96b41b6a75d9/incompleto_mapper.jpg) | **Não mapeado** | Indica que a categoria não foi mapeada. |  
 
 Para realizar o mapeamento de categorias:  
 
@@ -50,12 +54,14 @@ Para realizar o mapeamento de categorias:
 3. Selecione a categoria correspondente na Amazon do produto que deseja enviar.  
 4. Faça a correspondência dos atributos na janela lateral, conforme imagem abaixo:  
 
-![Mapper Amazon Atributos](https://downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/7724063f4b499153958aadf44ee0a704/mapper_amazon_atributos.gif)
+![Mapper Amazon Atributos](//downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/7724063f4b499153958aadf44ee0a704/mapper_amazon_atributos.gif)
 
 5. Clique no botão __`Salvar Alterações`__.  
 
->❗ Os campos sinalizados com o asterisco (`*`) são obrigatórios.  
-> O preenchimento de um atributo pode desencadear novos campos obrigatórios que só ficarão visíveis na página ** Marketplace> Conexões> Produtos, ** após salvar o mapeamento.  
+<div class="alert alert-danger">
+Os campos sinalizados com o asterisco (<code>*</code>) são obrigatórios.  
+O preenchimento de um atributo pode desencadear novos campos obrigatórios que só ficarão visíveis na página <strong> Marketplace> Conexões> Produtos, </strong> após salvar o mapeamento.
+</div>  
 
 ### Mapeamento via Planilha  
 
@@ -114,13 +120,13 @@ Para configurar a categoria global no seu ambiente VTEX, a partir das categorias
 #### Exemplo de consulta das planilhas 
 
 Na Planilha de atributos obrigatórios da Amazon, iremos utilizar a categoria **Health** focando em produtos para saúde:
-![categoriageral01](https://images.contentful.com/alneenqid6w5/154htyPg3K3IZ6Wxej3kek/a446c9815c249dda3084aa1773b76b3a/categoriageral01.JPG)
+![categoriageral01](//images.contentful.com/alneenqid6w5/154htyPg3K3IZ6Wxej3kek/a446c9815c249dda3084aa1773b76b3a/categoriageral01.JPG)
 
 Na Planilha de categorias gerais da Amazon, filtre a coluna “I” Cat-Amazon-Geral, clicando em **Filtro > Health > OK**.
-![categoriageral02](https://images.contentful.com/alneenqid6w5/2PTS1fxztRjYHaAicwVH7W/f44b94c30ca7401ec08a19c467ee8912/categoriageral02.JPG)
+![categoriageral02](//images.contentful.com/alneenqid6w5/2PTS1fxztRjYHaAicwVH7W/f44b94c30ca7401ec08a19c467ee8912/categoriageral02.JPG)
 
 Seguindo o exemplo anterior, filtre as colunas B, C e D da árvore de **Saúde e beleza> Cuidados pessoais > Massagem e relaxamento**.
-![categoriageral03](https://images.contentful.com/alneenqid6w5/1p0cIHz7bp8HHuzud1H4zE/e79bf00cbe09f7b1fb155730cfc401f8/categoriageral03.JPG)
+![categoriageral03](//images.contentful.com/alneenqid6w5/1p0cIHz7bp8HHuzud1H4zE/e79bf00cbe09f7b1fb155730cfc401f8/categoriageral03.JPG)
 
 Agora que você encontrou a categoria geral da Amazon, volte ao Admin para [configurar a categoria global](https://help.vtex.com/pt/tutorial/configurando-a-categoria-global--tutorials_188) da VTEX de acordo com a categoria geral da Amazon.
 
@@ -177,7 +183,9 @@ A planilha possui as seguintes colunas:
 | F | VTEXValue | Nome do valor usado no campo SKU na VTEX |
 | G | AmazonValue | Nome dos valores aceitos pela Amazon |
 
->ℹ️ A planilha de mapeamento da Amazon é case sensitive, ou seja, é sensível para o uso de letras maiúsculas e minúsculas.
+<div class="alert alert-info">
+A planilha de mapeamento da Amazon é case sensitive, ou seja, é sensível para o uso de letras maiúsculas e minúsculas.
+</div>
 
 Para cada produto, siga os passos a seguir:  
 
@@ -194,7 +202,9 @@ Para cada produto, siga os passos a seguir:
 6. Preencha a coluna **VTEXValue** com os valores do atributo do produto na VTEX.
 7. Preencha a coluna **AmazonValue** com os valores aceitos pela Amazon. Para visualizar os valores aceitos pela Amazon, acesse a [Planilha de atributos obrigatórios da Amazon](#2-planilha-de-atributos-obrigatorios-da-amazon) e busque pela aba `VALORES VÁLIDOS`
 
->⚠️ Em alguns casos, os valores de **VariationTheme** podem ser parecidos. Há categorias em que o **VariationTheme** pode ser: *SizeColor*, *Color* e *Size*, enquanto há outras categorias em que pode ser: *ColorSize*, *Color* e *Size*. A diferença está na ordem, em *SizeColor*, as caixas de seleção na página do produto estarão ordenadas por tamanho e cor, enquanto em *ColorSize* estarão ordenadas por cor e tamanho. Esteja atento aos valores válidos de cada categoria que será mapeada.
+<div class="alert alert-warning">
+Em alguns casos, os valores de <strong>VariationTheme</strong> podem ser parecidos. Há categorias em que o <strong>VariationTheme</strong> pode ser: <em>SizeColor</em>, <em>Color</em> e <em>Size</em>, enquanto há outras categorias em que pode ser: <em>ColorSize</em>, <em>Color</em> e <em>Size</em>. A diferença está na ordem, em <em>SizeColor</em>, as caixas de seleção na página do produto estarão ordenadas por tamanho e cor, enquanto em <em>ColorSize</em> estarão ordenadas por cor e tamanho. Esteja atento aos valores válidos de cada categoria que será mapeada. 
+</div>
 
 ##### Exemplo de preenchimento 
 

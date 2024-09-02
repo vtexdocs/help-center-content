@@ -3,8 +3,8 @@ title: 'Inhabilitar un email transaccional'
 id: frequentlyAskedQuestions_6715
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:33.622Z
-updatedAt: 2022-08-11T13:40:24.421Z
-publishedAt: 2022-08-11T13:40:24.421Z
+updatedAt: 2024-08-02T14:23:24.488Z
+publishedAt: 2024-08-02T14:23:24.488Z
 firstPublishedAt: 2019-01-24T22:02:41.053Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -19,17 +19,16 @@ En VTEX, el usuario tiene la posibilidad de automatizar el disparo de correos el
 
 Sin embargo, esta funcionalidad no es obligatoria. Puede deshabilitar el envío de estos mensajes si no es ventajoso para la tienda.
 
-Como ejemplo, utilizaremos el paso a paso de cómo deshabilitar el correo electrónico de pago pendiente. En este caso, el correo electrónico se envía 48 horas después de finalizar la solicitud. Es importante recordar que no hay posibilidad de personalizar este intervalo de tiempo.
+Como ejemplo, utilizaremos el paso a paso de cómo deshabilitar el correo electrónico de boletos de pago pendiente. En este caso, el correo electrónico se envía 48 horas después de finalizar la solicitud. Es importante recordar que no hay posibilidad de personalizar este intervalo de tiempo.
 
 Se muestra a continuación:
 
-1. Acceda al **Centro de mensajes**.
-2. Seleccionar __Templates__.
-3. Busque __Payment Pending__ en el cuadro de búsqueda.
-4. Desactive la opción __"Activar envío de e-mail"__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Plantillas de email > Plantillas__ o ingresa el término __Plantillas__ en la barra de búsqueda de la parte superior de la página.
+2. Busque __Payment Pending__ en el cuadro de búsqueda.
+3. Desactive la opción __¿Habilitar el envío de emails?__.
 
-  ![Message Center - Desativar - ES](https://images.ctfassets.net/alneenqid6w5/dlSCQPRLKf46SnYGl7X9a/d000be57bdf906c957380992d497ddb6/dlSCQPRLKf46SnYGl7X9a_ES_Payment_Pending.jpg)
+![Message Center - Desativar Template - ES](//images.ctfassets.net/alneenqid6w5/dlSCQPRLKf46SnYGl7X9a/8a5e7ce484d75b9974231ee57cad836b/payment_pending_es.png)
 
-5. Haga clic en __Guardar__.
+4. Haga clic en __Guardar__.
 
-A partir de ahora, los correos electrónicos de pago pendiente ya no se enviar.
+A partir de ahora, los correos electrónicos de boletos pago pendiente ya no se enviar.

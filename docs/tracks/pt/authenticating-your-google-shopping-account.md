@@ -24,4 +24,6 @@ Com a integração configurada, é necessário autenticar sua conta do Google Sh
 6. Clique em `Desejo autenticar minha conta`.
 7. Clique no botão `OK` para autorizar a integração VTEX a conectar com o perfil do ID Business Manager.
 
->ℹ️ Pode haver um delay entre a conclusão da integração e o momento em que ela entra em vigor, pois a atualização não é síncrona. Isso, porém, não costuma levar mais do que poucas horas.
+<div class="alert alert-info">
+Pode haver um delay entre a conclusão da integração e o momento em que ela entra em vigor, pois a atualização não é síncrona. Isso, porém, não costuma levar mais do que poucas horas.
+</div>

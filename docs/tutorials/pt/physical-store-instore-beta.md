@@ -15,7 +15,9 @@ legacySlug: loja-fisica-instore-beta
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---
 
->ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+<div class ="alert alert-info">
+<p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
+</div>
 
 **Loja física** é uma página das **Configurações da loja** do Admin VTEX que apresenta a listagem de lojas físicas cadastradas no aplicativo [inStore](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). Nela, você pode gerenciar informações de todas as lojas físicas da conta.
 
@@ -26,7 +28,7 @@ Esta página permite que você realize as seguintes ações:
 * [Editar](#editar-loja-fisica)
 * [Excluir](#excluir-loja-fisica)
 
-![loja-fisica-PT](https://images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/0c7eafb7209254cfca3224ccb820012e/image.png)
+![loja-fisica-PT](//images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/0c7eafb7209254cfca3224ccb820012e/image.png)
 
 A página apresenta as seguintes informações: 
 
@@ -52,7 +54,7 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 
 ### Campos de cadastro da loja física
 
-![loja-fisica2-pt](https://images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/92f54533a7b36d602d4108760ba3c7e0/image.png)
+![loja-fisica2-pt](//images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/92f54533a7b36d602d4108760ba3c7e0/image.png)
 
 #### Identificação
 
@@ -76,7 +78,9 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 * **Política comercial:** [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será aplicada na loja física. Campo obrigatório.
 * **Ponto de retirada:** [ponto de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) cadastrado para essa loja física, onde clientes retiram seus pedidos. 
 
->ℹ️ As alterações podem levar até 15 minutos para serem processadas e aplicadas no inStore.
+<div class ="alert alert-info">
+<p>As alterações podem levar até 15 minutos para serem processadas e aplicadas no inStore.</p> 
+</div>
 
 ## Buscar loja
 

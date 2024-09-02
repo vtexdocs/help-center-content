@@ -16,7 +16,9 @@ trackSlugES: logistica-101
 
 Un punto de recogida es un lugar físico donde el cliente tiene la opción de recoger su pedido por su cuenta. Por lo tanto, es una etapa opcional y que finaliza la ruta logística.
 
->ℹ️ La funcionalidad de puntos de recogida está disponible apenas para las cuentas que ya tienen acceso al **Checkout V6**.
+<div class="alert alert-info">
+La funcionalidad de puntos de recogida está disponible apenas para las cuentas que ya tienen acceso al <b>Checkout V6</b>.
+</div>
      
 ## Relación con la transportadora
 

@@ -18,7 +18,9 @@ internalReference: 301463
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A promoção Buy Together com muitos SKUs pode fazer com que os produtos qualificados não sejam carregados na frente devido ao tempo limite. As páginas de produto usam o controle de produto `<vtex.cmc:BuyTogether/>`. Esse controle é responsável por trazer informações de todos os SKUs qualificados definidos na promoção para a página do produto.

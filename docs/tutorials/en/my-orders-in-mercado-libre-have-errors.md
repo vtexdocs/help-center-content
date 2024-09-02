@@ -15,4 +15,6 @@ legacySlug: my-orders-in-mercado-libre-have-errors
 subcategory: 2LcLWCYaEm5qPmOuYUiKIS
 ---
 
->⚠️ This is a regional exclusive content not applicable to English speaking countries.
+<div class="alert alert-warning">
+  This is a regional exclusive content not applicable to English speaking countries.
+  </div>

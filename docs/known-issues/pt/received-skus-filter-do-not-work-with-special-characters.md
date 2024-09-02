@@ -18,7 +18,9 @@ internalReference: 944533
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar filtrar os skus no módulo Received Skus, o marketplace pode optar por filtrar por vendedor, categoria e/ou marca.

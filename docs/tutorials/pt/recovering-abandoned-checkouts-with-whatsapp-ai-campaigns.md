@@ -25,7 +25,9 @@ Os principais benefícios dessa funcionalidade são:
 
 - **Aumento nas taxas de conversão e vendas:** incentiva que os clientes retornem à página de pagamento para finalizar sua compra, aumentando desta forma as vendas e taxas de conversão para lojistas.
 
->ℹ️ O WhatsApp AI Campaigns está disponível  apenas para lojas que utilizam [Store Framework](https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework) que não tenham customizações no Checkout.
+<div class = "alert alert-info">
+O WhatsApp AI Campaigns está disponível  apenas para lojas que utilizam <a href="https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework">Store Framework</a> que não tenham customizações no Checkout.
+</div>
 
 ## Ativando WhatsApp AI Campaigns
 
@@ -74,7 +76,9 @@ Para configurar um novo número de WhatsApp você precisará ter acesso de admin
   <li>Cole o número de telefone copiado na etapa anterior, e selecione a opção de <strong>SMS</strong>, clique em <code>Avançar</code>.</li>
 </ol>
 
->⚠️ O número gerado pode ser americano, mas se a sua página do Facebook for verificada, seus clientes verão o nome da empresa. Caso não esteja verificada, recomendamos seguir o [processo de verificação com a Meta](https://www.facebook.com/business/help/2058515294227817?id=180505742745347).
+<div class="alert alert-warning">
+  O número gerado pode ser americano, mas se a sua página do Facebook for verificada, seus clientes verão o nome da empresa. Caso não esteja verificada, recomendamos seguir o <a href="https://www.facebook.com/business/help/2058515294227817?id=180505742745347">processo de verificação com a Meta</a>.
+</div>
 
 <ol start="13">
   <li>Copie o código de verificação exibido no Admin VTEX.</li>
@@ -92,7 +96,11 @@ Para configurar um novo número de WhatsApp você precisará ter acesso de admin
   <li>Clique em <code>Finalizar</code>.</li>
 </ol>
 
->⚠️ Após ativada uma campanha de recuperação de checkout abandonado, pode levar até 48 horas para as métricas de análise começarem a ser exibidas.
+<div class="alert alert-warning">
+Após ativada uma campanha de recuperação de checkout abandonado, pode levar até 48 horas para as métricas de análise começarem a ser exibidas.
+</div>
 
->ℹ️ Saiba mais sobre o [Gerenciamento e detalhes do WhatsApp AI Campaigns](https://help.vtex.com/pt/tutorial/gerenciamento-e-detalhes-do-whatsapp-ai-campaigns--q9JqDErMqGV4zvsYqkD4s).
+<div class = "alert alert-info">
+Saiba mais sobre o <a href="https://help.vtex.com/pt/tutorial/gerenciamento-e-detalhes-do-whatsapp-ai-campaigns--q9JqDErMqGV4zvsYqkD4s">Gerenciamento e detalhes do WhatsApp AI Campaigns</a>.
+</div>
 

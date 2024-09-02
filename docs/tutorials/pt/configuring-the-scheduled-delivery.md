@@ -15,8 +15,10 @@ legacySlug: como-funciona-a-entrega-agendada
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
->ℹ️ Aviso: Esta documentação está em processo de atualização para refletir a mudança do conceito de Painéis para 
-> [estratégia de envio](https://help.vtex.com/pt/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl). 
+<div class="alert alert-info">
+Aviso: Esta documentação está em processo de atualização para refletir a mudança do conceito de Painéis para 
+<a href="https://help.vtex.com/pt/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">estratégia de envio</a>.
+</div> 
 
 
 A entrega agendada é uma funcionalidade que permite definir períodos de entrega personalizados, podendo definir prazos e preços específicos, disponibilizando para o cliente a escolha do intervalo de horário em que deseja receber seu pedido. 
@@ -29,7 +31,7 @@ Em **Estoque & entrega**, acesse **Painéis** e escolha a **Transportadora** des
 
 Em **Tipo da entrega**, clique  **Entrega agendada**.
 
-![entrega-agendada pt](https://images.ctfassets.net/alneenqid6w5/6bbP1sy4xiKUSmYAWGWgMq/c6370ec0630605c537bea7e65e1d15a1/entrega-agendada_pt.png)
+![entrega-agendada pt](//images.ctfassets.net/alneenqid6w5/6bbP1sy4xiKUSmYAWGWgMq/c6370ec0630605c537bea7e65e1d15a1/entrega-agendada_pt.png)
 Para entender melhor como cadastrar os demais campos da transportadora, veja também nossa documentação sobre [cadastro de transportadora](http://help.vtex.com/pt/tutorial/gerenciar-transportadora).
 
 Nesta estrutura, temos os seguintes dados:
@@ -42,7 +44,7 @@ Nesta estrutura, temos os seguintes dados:
 
 Usando o mesmo cenário da loja citada acima, segue a configuração da transportadora segundo sua demanda:
 
-![](https://images.contentful.com/alneenqid6w5/6AEhj0a4SIeyQWCI6IQeCk/28a10fa00baa9723e73847d983e12d66/horariosentregaagendada.jpg)
+![](//images.contentful.com/alneenqid6w5/6AEhj0a4SIeyQWCI6IQeCk/28a10fa00baa9723e73847d983e12d66/horariosentregaagendada.jpg)
 
 Supondo que o Estoque tem 2 dias de prazo; a Doca tem 1 dia de prazo; a Tabela de Frete tem 5 dias de prazo. O primeiro dia disponibilizado será **8** dias depois da data que o pedido está sendo efetuado. Como o Tempo Máximo de Entrega é de 10 dias, o último dia disponível para a escolha será o **18º** dia após a data que o pedido está sendo efetuado.
 

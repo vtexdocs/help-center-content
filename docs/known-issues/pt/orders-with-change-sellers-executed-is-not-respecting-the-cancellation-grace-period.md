@@ -18,7 +18,9 @@ internalReference: 656815
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Pedidos com vendedor de mudança, tem o pedido de respeitabilidade no primeiro vendedor cancelado e um novo pedido no segundo vendedor será criado. Se mesmo o novo pedido estiver fora do período de carência de Cancelamento, o usuário ainda poderá cancelar o pedido.

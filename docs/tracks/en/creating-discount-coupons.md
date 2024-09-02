@@ -37,9 +37,9 @@ To create a discount coupon, follow the steps below:
 6. Click on **Restrictions and limitations of use** and set the number of products that can be purchased using this coupon, regardless of how many purchases are made to reach that number.
 7. Click on **Save**.
 
->ℹ️ It is not necessary to create an `utm_source` and an `utm_campaign`, but it is necessary to create **at least one** of them.
->
-> 
-> Read the article [What are utm_source, utm_campaign, and utm_medium](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) to better understand what these UTMs are.
+<div class="alert alert-info">
+It is not necessary to create an <code>utm_source</code> and an <code>utm_campaign</code>, but it is necessary to create <b>at least one</b> of them.<br>
+Read the article <a href="https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii">What are utm_source, utm_campaign, and utm_medium</a> to better understand what these UTMs are.
+</div>
 
 When creating a regular promotion, you must select the `utm_source` and/or the `utm_campaign` boxes and insert the UTMs informed during the creation of the coupon in the corresponding fields.

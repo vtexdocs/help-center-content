@@ -18,7 +18,9 @@ internalReference: 843602
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En un carrito donde hay al menos dos productos cumplidos por vendedores diferentes, si ambos vendedores han programado la recogida y el 2º artículo tiene varias opciones de ANS, la UI se pierde y selecciona automáticamente un ANS diferente y muestra el mensaje "No hay franjas horarias disponibles para esta fecha", no permitiendo ir al paso de pago.

@@ -18,7 +18,9 @@ internalReference: 301725
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 La respuesta JSON de GET Product Specification carece de una propiedad esencial para actualizar las especificaciones preexistentes si así lo necesita el usuario.
 

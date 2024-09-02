@@ -53,16 +53,16 @@ You can use reCAPTCHA checkbox (v2). So, when applicable, the user should click 
 ### Shopping experience with VTEX Criteria and reCAPTCHA v2
 
 The shopping experience with debit or credit cards tends to follow the flow below. It minimizes the occurrence of some types of fraud and attacks with minimal friction for the user.
-![reCAPTCHA scenariosEN](https://images.ctfassets.net/alneenqid6w5/3gA55NZPuxpKOxCZxvbhgj/21964354890c244b42bc479983335b9d/reCAPTCHA_scenarios__1_.jpg)
+![reCAPTCHA scenariosEN](//images.ctfassets.net/alneenqid6w5/3gA55NZPuxpKOxCZxvbhgj/21964354890c244b42bc479983335b9d/reCAPTCHA_scenarios__1_.jpg)
 As shown in the image above, there are different possible results in this flow:
 
 1. If the VTEX Criteria algorithm does not consider the session suspicious, the platform proceeds normally with the purchase.
 
 2. If the session is considered suspicious, the interface will display the reCAPTCHA Checkbox for the customer to select it. If reCAPTCHA does not consider the behavior suspicious when the Checkbox is selected, the purchase proceeds normally.
-![newCaptchaAnchor](https://images.ctfassets.net/alneenqid6w5/2lv7PfOmkakDcSkNbAITtK/10ed6d11b50a947a6186b549e27c4723/newCaptchaAnchor.gif)
+![newCaptchaAnchor](//images.ctfassets.net/alneenqid6w5/2lv7PfOmkakDcSkNbAITtK/10ed6d11b50a947a6186b549e27c4723/newCaptchaAnchor.gif)
 
 3. If reCAPTCHA considers the behavior suspicious, the interface will display the challenge.
-![desafio recaptcha](https://images.ctfassets.net/alneenqid6w5/3wg7F9nmxJwZ8jxUJKb8OT/3156077db9ee243bea20308c304d183c/desafio_recaptcha.png)
+![desafio recaptcha](//images.ctfassets.net/alneenqid6w5/3wg7F9nmxJwZ8jxUJKb8OT/3156077db9ee243bea20308c304d183c/desafio_recaptcha.png)
 
 4. If the challenge is successfully solved, the platform proceeds with the purchase. Otherwise, the behavior is considered compatible with that of a bot and the platform does not conclude the purchase.
 

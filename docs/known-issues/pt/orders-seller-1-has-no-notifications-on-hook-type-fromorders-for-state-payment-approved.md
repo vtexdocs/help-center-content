@@ -18,7 +18,9 @@ internalReference: 640925
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Encomendas Vendedor 1, onde o MKT e FFMT está na mesma conta, não tem notificações sobre o tipo de gancho de Encomendas para o estado "Pagamento-Aprovado".

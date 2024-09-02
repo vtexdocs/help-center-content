@@ -17,13 +17,15 @@ subcategory: 27t6x0lngvjI3bnUg5AgEO
 
 Proyectos es una funcionalidad de VTEX Headless CMS que simplifica la gestión de varios proyectos de frontend, como aplicaciones móviles, páginas web y email marketing, desde un único dashboard.
 
-![Projects pages](https://images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/28a48f587a491e87481d837595130e0d/projects-one-es.gif)
+![Projects pages](//images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/28a48f587a491e87481d837595130e0d/projects-one-es.gif)
 
 Cada proyecto cuenta con sus propios ajustes, contenido y marca, pudiendo personalizarse en función de públicos u objetivos específicos. 
 
 En esta guía aprenderás a gestionar cada proyecto de frontend de tu tienda.
 
->⚠️ [ FastStore WebOps usuarios](https://developers.vtex.com/docs/guides/faststore/1-onboarding-overview):Los cambios realizados a través del Headless CMS en el VTEX Admin, como la creación de nuevos tipos de contenido (content types), la adición de secciones o la actualización de campos, pueden no aparecer automáticamente en la tienda una vez que los publiques. Este es un problema conocido, y debes contactar a tu equipo de desarrollo para implementar la solución necesaria. Para obtener instrucciones detalladas, consulta el artículo sobre el problema conocido [La aplicación Webops no está totalmente integrada con Headless CMS](https://help.vtex.com/es/known-issues/webops-app-is-not-fully-integrated-with-headless-cms--577fIocKB9BYYCOkN9dZfW).
+<div class="alert alert-warning">
+  <a href="https://developers.vtex.com/docs/guides/faststore/1-onboarding-overview"> FastStore WebOps usuarios</a>:Los cambios realizados a través del Headless CMS en el VTEX Admin, como la creación de nuevos tipos de contenido (content types), la adición de secciones o la actualización de campos, pueden no aparecer automáticamente en la tienda una vez que los publiques. Este es un problema conocido, y debes contactar a tu equipo de desarrollo para implementar la solución necesaria. Para obtener instrucciones detalladas, consulta el artículo sobre el problema conocido <a href="https://help.vtex.com/es/known-issues/webops-app-is-not-fully-integrated-with-headless-cms--577fIocKB9BYYCOkN9dZfW">La aplicación Webops no está totalmente integrada con Headless CMS</a>.
+</div>
 
 ## Antes de empezar
 Para gestionar el Headless CMS, asegúrese de que los [recursos](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings*`, and `CMS GraphQL API` estén asociados con su [rol de usuario](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). De lo contrario, [cree un rol de usuario](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol) y agregue estos recursos o añádalos a un rol de usuario existente.
@@ -31,7 +33,7 @@ Para gestionar el Headless CMS, asegúrese de que los [recursos](https://help.vt
 ## Visión general
 Para acceder a **Proyectos**, en el Admin VTEX ve a **Storefront > Headless CMS**.
 
-![Projects overview](https://images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/fa66fd00d9a29e3eeb835369c70277d7/projects-two-es-outro.png)
+![Projects overview](//images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/fa66fd00d9a29e3eeb835369c70277d7/projects-two-es-outro.png)
 
 | Opciones     | Descripción     |
 | ---------- | ---------- |
@@ -111,7 +113,7 @@ Para archivar un proyecto sigue los pasos a continuación:
 1. Accede a **Storefront > Proyectos**.
 2. Selecciona el proyecto que deseas archivar y haz clic en **Configuración** (⚙️). 
 3. Haz clic en `Archivar proyecto` en la página `General`. Aparecerá un mensaje emergente para confirmar que deseas archivar el proyecto.
-![Arquivar projeto - ES](https://images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/a7f9e04f4b9dc6161bd3f9a9c683f99c/projects-three-es.png)
+![Arquivar projeto - ES](//images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/a7f9e04f4b9dc6161bd3f9a9c683f99c/projects-three-es.png)
 4. Haz clic en `Archivar`. A continuación aparecerá un mensaje informando que el proyecto se archivó con éxito.
 
 Para restaurar un proyecto archivado, sigue los pasos descritos en [Restaurar proyecto] (#restaurar-proyecto).

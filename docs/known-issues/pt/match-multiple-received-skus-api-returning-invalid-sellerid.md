@@ -1,5 +1,5 @@
 ---
-title: "API Match Multiple Received SKUs retornando 'Invalid sellerId'"
+title: 'API Match Multiple Received SKUs retornando "Invalid sellerId"'
 id: 60aL2Chds0Jo3m6XMkxmnG
 status: PUBLISHED
 createdAt: 2023-10-17T16:26:27.980Z
@@ -18,7 +18,9 @@ internalReference: 506660
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A API Match Multiple Received SKUs (doc: https://developers.vtex.com/vtex-rest-api/reference/match-received-skus#matchmultiple) está retornando a mensagem de erro "Invalid sellerId" para qualquer tentativa de aprovação de novos produtos, mesmo que o vendedor esteja corretamente ativo no marketplace.

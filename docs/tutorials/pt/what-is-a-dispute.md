@@ -32,4 +32,6 @@ Existem duas possibilidades para o resultado de uma disputa:
 - Se o lojista ganhar a defesa da disputa, o dinheiro da compra é retornado para sua conta.
 - Caso ele perca a defesa, o valor correspondente continua com o cliente.
 
->ℹ️ **Atenção:** o <i>chargeback</i> é um tipo de estorno típico do cenário de ecommerce. Aqui, compras feitas por meio de cartão de crédito são canceladas ou estornadas quando o titular do cartão ganha a disputa.
+<div class="alert alert-info">
+<strong>Atenção:</strong> o <i>chargeback</i> é um tipo de estorno típico do cenário de ecommerce. Aqui, compras feitas por meio de cartão de crédito são canceladas ou estornadas quando o titular do cartão ganha a disputa.
+</div>

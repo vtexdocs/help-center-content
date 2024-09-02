@@ -1,5 +1,5 @@
 ---
-title: "IU do público-alvo da campanha alterando 'Diferente de' para 'Igual a' com uma coleção"
+title: 'IU do público-alvo da campanha alterando "Diferente de" para "Igual a" com uma coleção'
 id: 6IkWioZ9WRgg1DFEMdnthB
 status: PUBLISHED
 createdAt: 2023-08-15T15:12:54.580Z
@@ -18,7 +18,9 @@ internalReference: 881131
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

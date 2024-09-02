@@ -18,7 +18,9 @@ internalReference: 1025321
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el valor total de un carrito proviene exclusivamente de un precio manual, el `precio` de los artículos y el `precio` de la entrega son `0`, no se ofrecen otros sistemas de pago que la Tarjeta Regalo (si está activa).

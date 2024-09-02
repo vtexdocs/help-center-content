@@ -18,7 +18,9 @@ internalReference: 769053
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a unidade de estocagem API https://catalog.vtexcommercestable.com.br/api/catalog/pvt/stockkeepingunit/{skuid} não realiza nenhuma verificação para o campo "CommercialConditionId".

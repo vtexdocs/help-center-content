@@ -14,7 +14,9 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugES: habilitar-campo-de-observacion-en-la-pantalla-de-pedido
 ---
 
->❗ La personalización explicada en este artículo implica cambiar el archivo JavaScript `checkout-instore-custom.js`. Esta operación solo debe ser realizada por personas con experiencia en programación. Los cambios incorrectos en este archivo pueden causar errores críticos.
+<div class="alert alert-danger">
+La personalización explicada en este artículo implica cambiar el archivo JavaScript <code>checkout-instore-custom.js</code>. Esta operación solo debe ser realizada por personas con experiencia en programación. Los cambios incorrectos en este archivo pueden causar errores críticos.
+</div>
 
 El app del inStore permite el uso de un campo de "Comentarios", donde es posible guardar información adicional con respecto a cada pedido.
 
@@ -43,7 +45,9 @@ window.LOCALE_MESSAGES = {
 };
 ```
  
->❗ No elimine ninguna de las otras propiedades presentes en el objeto `window.INSTORE_CONFIG`, para evitar romper otras funciones.
+<div class="alert alert-danger">
+No elimine ninguna de las otras propiedades presentes en el objeto <code>window.INSTORE_CONFIG</code>, para evitar romper otras funciones.
+</div>
                              
 Si es necesario aplicar alguna lógica o máscara de validación a los datos ingresados en este campo, es posible incluir en el archivo `checkout-instore-custom.js` una función que escuche el evento `note.visible`, que se activa cuando el modal se abre, y luego desarrollar su lógica.
 

@@ -18,7 +18,9 @@ internalReference: 774307
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns produtos podem não apresentar seus sinônimos na página de administração da pesquisa explicada. Isso geralmente acontece com sinônimos unidirecionais.

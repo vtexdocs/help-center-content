@@ -23,7 +23,9 @@ Hay dos formas de crear un plan de suscripción. Lo más recomendable es crear u
 
 La otra manera es crear un [Anexo de SKU que haga referencia a la suscripción en el Catálogo](#anexo-de-sku-en-el-catalogo). El anexo de SKU equivale al plan.
 
->⚠️ No debe realizar ambas configuraciones, basta elegir una de ellas. Solo tiene que crear el nuevo plan en el módulo **Suscripciones** o el anexo de SKU en **Catálogo**. De lo contrario, el plan se duplicará.
+<div class="alert alert-warning">
+  <p>No debe realizar ambas configuraciones, basta elegir una de ellas. Solo tiene que crear el nuevo plan en el módulo <strong>Suscripciones</strong> o el anexo de SKU en <strong>Catálogo</strong>. De lo contrario, el plan se duplicará.</p>
+</div>
 
 ## Nuevo plan en el módulo Suscripciones
 
@@ -35,7 +37,9 @@ La creación de un nuevo plan desde el módulo **Suscripciones** es la forma má
 4. Haga clic en la pestaña [Productos asociados](#productos-asociados) y seleccione los productos que desea asociar a los planes de suscripción.
 5. Haga clic en `Salvar` para guardar los cambios.
 
->⚠️ Todos los planes se guardan como activos, aunque no tengan ningún producto asociado. Los planes que no tienen productos asociados no aparecen como opción para el cliente en el momento de la compra.
+<div class="alert alert-warning">
+  <p>Todos los planes se guardan como activos, aunque no tengan ningún producto asociado. Los planes que no tienen productos asociados no aparecen como opción para el cliente en el momento de la compra.</p>
+</div>
 
 ### Configuraciones
 
@@ -65,7 +69,9 @@ Para eliminar una frecuencia previamente creada, debe hacer clic en el botón de
 
 Si desea, puede ofrecer varias opciones de frecuencia en el mismo plan. En este caso, debe hacer clic de nuevo en el botón `Agregar frecuencia` y repetir el proceso de rellenar  la configuración con las otras frecuencias deseadas. De este modo, el cliente puede elegir la frecuencia que prefiera de entre las opciones.
 
->⚠️ No es posible asignar un periodo de caducidad al plan de suscripción desde el módulo **Suscripciones**. Solo los planes de suscripción configurados como Anexos de SKU en **Catálogo** pueden tener periodos de caducidad configurados.
+<div class="alert alert-warning">
+  <p>No es posible asignar un periodo de caducidad al plan de suscripción desde el módulo <strong>Suscripciones</strong>. Solo los planes de suscripción configurados como Anexos de SKU en <strong>Catálogo</strong> pueden tener periodos de caducidad configurados.</p>
+</div>
 
 ### Productos asociados
 
@@ -86,7 +92,7 @@ En esta pantalla, puede realizar las siguientes acciones:
 
 * **Seleccionar:** al hacer clic en la casilla (<i class="far fa-square"></i>) en la fila de cada producto, puede seleccionar productos o SKU individualmente. Otra opción es hacer clic en la primera casilla (<i class="far fa-square"></i>) y seleccionar todos los productos y SKU que aparecen en la página para añadirlos al plan, según se ilustra en la siguiente imagen.
 
-![selecionarskus ES](https://images.ctfassets.net/alneenqid6w5/3nBgV1SCLFqG92L1rOBXOX/9786f043859be876f63855568e6d00d3/selecionarskus_ES.gif)
+![selecionarskus ES](//images.ctfassets.net/alneenqid6w5/3nBgV1SCLFqG92L1rOBXOX/9786f043859be876f63855568e6d00d3/selecionarskus_ES.gif)
 
 * __Botón de flecha__ (<i class="fas fa-chevron-down"></i>): muestra los SKU, es decir, las variaciones del producto.
 * **Añadir:** al hacer clic en este botón, se añaden los productos o SKU al plan de suscripción.

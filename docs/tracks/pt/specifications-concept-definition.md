@@ -16,7 +16,9 @@ trackSlugPT: catalogo-101
 
 Especificações são propriedades adicionais que podem ser cadastradas nos produtos ou SKUs da sua loja. Na VTEX, essas especificações são cadastradas na seção **Categorias** e são chamadas de **Campo**.
 
->⚠️ Na VTEX, as especificações seguem uma lógica de “herança”, ou seja, ao criar uma especificação em um nível de categoria mais alto, a especificação será apresentada em todos os níveis de categoria abaixo dela. Portanto, se for necessário criar uma especificação de produto ou SKU que se aplique a apenas uma categoria, esta deve ser criada no nível dessa categoria.
+<div class="alert alert-warning">
+<p>Na VTEX, as especificações seguem uma lógica de “herança”, ou seja, ao criar uma especificação em um nível de categoria mais alto, a especificação será apresentada em todos os níveis de categoria abaixo dela. Portanto, se for necessário criar uma especificação de produto ou SKU que se aplique a apenas uma categoria, esta deve ser criada no nível dessa categoria.</p>
+</div>
 
 ## Especificação de Produto
 
@@ -40,5 +42,7 @@ As especificações de SKU teriam os valores de **PP, P, M, G e GG**. Elas poder
 
 Para entender o passo a passo completo para criar especificações de SKU, confira o artigo [Cadastrar especificações ou campos de SKU](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119).
 
->⚠️ Na VTEX, as especificações de SKU são campos obrigatórios para concluir o cadastro de um SKU. Isso significa que, se uma nova especificação for criada dentro de uma categoria, todos os SKUs dentro desta categoria precisam ter esta nova especificação cadastrada. Assim, todos esses SKUs ficarão inativos até que o cadastro desta nova especificação seja realizado nos SKUs da categoria em questão.
+<div class="alert alert-warning">
+Na VTEX, as especificações de SKU são campos obrigatórios para concluir o cadastro de um SKU. Isso significa que, se uma nova especificação for criada dentro de uma categoria, todos os SKUs dentro desta categoria precisam ter esta nova especificação cadastrada. Assim, todos esses SKUs ficarão inativos até que o cadastro desta nova especificação seja realizado nos SKUs da categoria em questão.
+</div>
 

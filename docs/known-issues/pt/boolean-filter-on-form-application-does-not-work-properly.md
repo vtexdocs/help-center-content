@@ -18,7 +18,9 @@ internalReference: 918537
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um filtro booleano é selecionado, a seguinte mensagem é retornada:

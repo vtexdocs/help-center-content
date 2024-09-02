@@ -18,7 +18,9 @@ internalReference: 460683
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un comprador decide pagar con dos tarjetas de crédito y además quiere cambiar el importe pagado por cada tarjeta, resulta que al escribir caracteres no numéricos en el campo de valor, nuestra validación tiene un comportamiento diferente dependiendo de dónde inserte el usuario este carácter.

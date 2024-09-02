@@ -95,7 +95,9 @@ Purchase a sweater and save 50% on a classic or contemporary long sleeve shirt.
 - “Purchase a sweater and save 50%” on another item makes this a [Buy Together Promotion](https://help.vtex.com/en/tutorial/buy-together--tutorials_323).
 - “Sweater and classic or contemporary long sleeve shirt” are items this benefit will be applied to.
 
->⚠️ The Buy Together Promotion works only with a percentage discount.
+<div class = "alert alert-warning">
+  <p>The Buy Together Promotion works only with a percentage discount.</p>
+</div>
 
 ## Scenario 12
 

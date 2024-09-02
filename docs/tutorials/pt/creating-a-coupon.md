@@ -1,10 +1,10 @@
 ---
 title: 'Criar cupom'
 id: tutorials_319
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-04-27T22:09:06.076Z
-updatedAt: 2023-03-31T19:41:21.767Z
-publishedAt: 2023-03-31T19:41:21.767Z
+updatedAt: 2024-08-12T18:24:48.074Z
+publishedAt: 
 firstPublishedAt: 2017-04-27T23:03:14.329Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -30,7 +30,9 @@ Neste artigo vamos abordar:
 
 ## Como criar um cupom
 
->⚠️ Há um limite para a quantidade de cupons ativos. Recomendamos reutilizar os cupons,  já que um número elevado pode comprometer o desempenho do módulo **Promoções e Taxas**.
+<div class="alert alert-warning">
+  <p>Há um limite para a quantidade de cupons ativos. Recomendamos reutilizar os cupons,  já que um número elevado pode comprometer o desempenho do módulo <b>Promoções e Taxas</b>.</p>
+</div>
 
 Para criar um cupom, siga os passos abaixo.
 
@@ -39,7 +41,9 @@ Para criar um cupom, siga os passos abaixo.
 3. Preencha os [campos de cadastro do cupom](#campos-de-cadastro-do-cupom).
 4. Clique no botão `Salvar`.
 
->ℹ️ Você pode criar apenas um cupom por vez pelo Admin. Para criar cupons massivamente leia o guia [Creating and managing coupons with Promotions API](https://developers.vtex.com/vtex-rest-api/docs/creating-and-managing-coupons-with-promotions-api).
+<div class="alert alert-info">
+  <p>Você pode criar apenas um cupom por vez pelo Admin. Para criar cupons massivamente leia o guia <a href="https://developers.vtex.com/vtex-rest-api/docs/creating-and-managing-coupons-with-promotions-api">Creating and managing coupons with Promotions API</a>.</p>
+</div>
 
 ### Campos de cadastro do cupom
 
@@ -49,7 +53,9 @@ Nesta seção serão definidas as informações gerais do cupom.
 
 - **Código do Cupom:** código de ativação do cupom. Não há limite de caracteres e o campo é obrigatório.
 
->⚠️ Não é possível usar caracteres especiais (somente letras, números e traços).
+<div class="alert alert-warning">
+  <p>Não é possível usar caracteres especiais (somente letras, números e traços).</p>
+</div>
 
 - **utm_source:** utm de origem.
 - **utm_campaign:** utm da campanha.
@@ -61,7 +67,9 @@ Nesta seção serão definidas as informações gerais do cupom.
 - **O cliente pode comprar até X produto(s), utilizando esse cupom em uma ou mais compras:** quantidade de produtos que podem ser comprados por este cupom, independentes de quantas compras sejam realizadas para atingir este número.
 - **Renovar cada utilização do cupom após X dia(s):**  a validade do cupom é renovada a partir da quantidade de dias determinados na seleção.
 
->ℹ️ Para limitar o cupom a um único uso, é preciso [restringir a quantidade de aplicações da promoção na sua loja e por cliente](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327#4-restricoes-e-limitacoes-de-uso).
+<div class="alert alert-info">
+  <p>Para limitar o cupom a um único uso, é preciso <a href="https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327#4-restricoes-e-limitacoes-de-uso">restringir a quantidade de aplicações da promoção na sua loja e por cliente</a>.</p>
+</div>
 
 Quando uma compra é realizada com uma promoção que possui limitação e essa compra é cancelada, esse uso da promoção volta a ser válido.
 
@@ -84,7 +92,9 @@ Para inativar um cupom é preciso arquivá-lo. Para arquivar um cupom, siga os p
 2. Selecione o cupom que deseja arquivar.
 3. Na tela de edição do cupom, clique no botão `Arquivar`.
 
->⚠️ Cupons não podem ser deletados, apenas arquivados. É importante enfatizar que você só pode arquivar um cupom de cada vez. Você pode editar e reutilizar um cupom, mas o **código do cupom** não pode ser modificado.
+<div class="alert alert-warning">
+  <p>Cupons não podem ser deletados, apenas arquivados. É importante enfatizar que você só pode arquivar um cupom de cada vez. Você pode editar e reutilizar um cupom, mas o <b>código do cupom</b> não pode ser modificado.</p>
+</div>
 
 ## Cenário de aplicação
 
@@ -96,7 +106,9 @@ Para inativar um cupom é preciso arquivá-lo. Para arquivar um cupom, siga os p
 4. Insira o código do cupom na newsletter.
 5. A promoção será ativada no carrinho de compras somente quando o cliente preencher o campo **Cupom de desconto** e aplicar.
 
->ℹ️ Também é possível configurar os links da newsletter diretamente com as **utm_source** e **utm_campaign** e dispensar o uso do cupom.
+<div class="alert alert-info">
+  <p>Também é possível configurar os links da newsletter diretamente com as <b>utm_source</b> e <b>utm_campaign</b> e dispensar o uso do cupom.</p>
+</div>
 
 ## Como usar múltiplos cupons
 

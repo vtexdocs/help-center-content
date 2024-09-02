@@ -1,5 +1,5 @@
 ---
-title: "Enlace de texto creado con ' ' en Marketplace tras las aprobaciones - Reoccurrence"
+title: 'Enlace de texto creado con " " en Marketplace tras las aprobaciones - Reoccurrence'
 id: 2afynQ9MwaHPMPWyhx80Tp
 status: PUBLISHED
 createdAt: 2023-04-24T19:36:10.185Z
@@ -18,7 +18,9 @@ internalReference: 795900
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En algunos escenarios, al aprobar un producto en un Marketplace, en la aplicación de SKUs Recibidos, la petición falla al introducir los datos en el catálogo y al reintentar, los campos textlink rellenan los caracteres "-" con " ", cambiando el comportamiento deseado.

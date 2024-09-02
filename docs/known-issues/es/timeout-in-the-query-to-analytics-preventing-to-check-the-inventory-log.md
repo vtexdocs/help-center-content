@@ -18,7 +18,9 @@ internalReference: 984482
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El registro de actualización en la interfaz de usuario de inventario a veces devuelve el error: Request failed with status code 500 for some specific SKUs, due to a timeout in the query to Analytics (where the data is stored), and no log for the SKU will be shown in the UI.

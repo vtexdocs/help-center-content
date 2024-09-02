@@ -15,7 +15,9 @@ legacySlug: rendimiento-de-paginas-web
 subcategory: QPnz120TdtLcXSh65c4Gs
 ---
 
->ℹ️ Esta página solo está disponible para las tiendas que operan con el [nuevo Admin VTEX](https://help.vtex.com/es/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para acceder a esta página y formar parte de una nueva experiencia, únete al [programa Beta](https://content.vtex.com/participe-do-programa-beta-es/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta) del nuevo Admin VTEX.
+<div class = "alert alert-info">
+Esta página solo está disponible para las tiendas que operan con el <a href="https://help.vtex.com/es/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa">nuevo Admin VTEX</a>. Para acceder a esta página y formar parte de una nueva experiencia, únete al <a href="https://content.vtex.com/participe-do-programa-beta-es/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta">programa Beta</a> del nuevo Admin VTEX.
+</div>
 
 [PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) es una herramienta desarrollada por Google para generar informes de rendimiento de una página, tanto en dispositivos móviles como de escritorio, y brinda sugerencias sobre cómo se podría mejorar. Utiliza las [Métricas web principales de Google](https://web.dev/vitals/#core-web-vitals) para evaluar el rendimiento _online_. 
 
@@ -23,7 +25,7 @@ El dashboard Rendimiento de las páginas web incorpora la herramienta [PageSpeed
 
 Aunque el _dashboard_ Rendimiento de las páginas web ofrece las mismas funcionalidades que PageSpeed Insights de Google, los comerciantes pueden agregar varias URL y hacerles un seguimiento constante únicamente en el Admin VTEX. 
 
-![Web page performance Dash ES](https://images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/32c901997b6a96b00b197ce99d2dd146/Screen_Shot_2022-06-29_at_15.47.04.png)
+![Web page performance Dash ES](//images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/32c901997b6a96b00b197ce99d2dd146/Screen_Shot_2022-06-29_at_15.47.04.png)
 
 ## ¿Por qué deberías hacer un seguimiento del rendimiento de una página web?
 
@@ -44,7 +46,9 @@ Las métricas de rendimiento se pueden medir con dos tipos de datos:
 
 Ten en cuenta que no deberías comparar los resultados de los dos tipos de datos. No son comparables porque provienen de distintas fuentes y cumplen distintos propósitos. Obtén más información sobre cómo se puede aplicar cada tipo de dato en el documento de Google [Cómo se miden las métricas](https://web.dev/user-centric-performance-metrics/#how-metrics-are-measured).
 
->ℹ️ Para asegurarte de que tu sitio web alcance el objetivo recomendado para todas las métricas, PageSpeed Insights mide la actividad del percentil 75 de las cargas de la página, dividida entre los dispositivos móviles y de escritorio.
+<div class = "alert alert-info">
+  Para asegurarte de que tu sitio web alcance el objetivo recomendado para todas las métricas, PageSpeed Insights mide la actividad del percentil 75 de las cargas de la página, dividida entre los dispositivos móviles y de escritorio.
+</div>
 
 ### Cómo usar los datos de campo y de laboratorio para mejorar las Métricas web principales
 
@@ -100,7 +104,7 @@ Ten en cuenta que no podrás eliminar las 10 páginas más visitadas de tu _ecom
 
 ## Métricas web principales
 
-![Core web vitals ES](https://images.ctfassets.net/alneenqid6w5/2dqXPGBXhoqAOlu98GvSjg/16028a64c956d2461f1fc1f5c924beda/Screen_Shot_2022-06-29_at_15.47.45.png)
+![Core web vitals ES](//images.ctfassets.net/alneenqid6w5/2dqXPGBXhoqAOlu98GvSjg/16028a64c956d2461f1fc1f5c924beda/Screen_Shot_2022-06-29_at_15.47.45.png)
 
 Para cada URL, la página Rendimiento de las páginas web muestra la puntuación de las [Métricas web principales de Google](https://web.dev/vitals/#core-web-vitals) para esa página web. 
 
@@ -165,7 +169,9 @@ La sección Rendimiento de Rendimiento de las páginas web incluye una puntuaci�
 * **Necesita mejorar:** de 50 a 90. El código de color es naranja.
 * **Mala**: por debajo de 50. El código de color es rojo.
 
->⚠️ Ten en cuenta que el rendimiento varía mucho entre las tiendas y depende de cómo se creó la arquitectura del storefront. Los storefronts complejos, con códigos externos y funcionalidades, suelen tener un rendimiento con puntuaciones bajas. Para las tiendas creadas en VTEX IO, consulta [VTEX IO: Debugging Performance Issues (Depuración de problemas de rendimiento)](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-debugging-performance-issues). Para las tiendas que usan [FastStore](https://www.faststore.dev/), hay un [informe automático de Lighthouse para desplegar vistas previas](https://www.faststore.dev/releases/2022/04/22/webops).
+<div class = "alert alert-warning">
+Ten en cuenta que el rendimiento varía mucho entre las tiendas y depende de cómo se creó la arquitectura del storefront. Los storefronts complejos, con códigos externos y funcionalidades, suelen tener un rendimiento con puntuaciones bajas. Para las tiendas creadas en VTEX IO, consulta <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-debugging-performance-issues">VTEX IO: Debugging Performance Issues (Depuración de problemas de rendimiento)</a>. Para las tiendas que usan <a href="https://www.faststore.dev/">FastStore</a>, hay un <a href="https://www.faststore.dev/releases/2022/04/22/webops">informe automático de Lighthouse para desplegar vistas previas</a>.
+</div>
 
 Debajo de la puntuación verás cada puntuación individual que se logró a través de un listado de Métricas web principales, junto con un código de color que indica su límite. Puedes actualizar la puntuación manualmente haciendo clic en el ícono de actualizar <i class='fa fa-refresh'></i>.
 

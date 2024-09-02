@@ -3,8 +3,8 @@ title: 'Configuración de regla de Divergencia de precios'
 id: awAKP0sS5J8jgLs2g7pPe
 status: PUBLISHED
 createdAt: 2021-12-03T01:24:41.194Z
-updatedAt: 2024-03-27T21:10:37.241Z
-publishedAt: 2024-03-27T21:10:37.241Z
+updatedAt: 2024-08-13T20:39:38.157Z
+publishedAt: 2024-08-13T20:39:38.157Z
 firstPublishedAt: 2021-12-03T01:31:08.666Z
 contentType: tutorial
 productTeam: Channels
@@ -33,7 +33,9 @@ Recomendamos que el _seller_ cree la regla de Divergencia de precios antes de co
 
 La [regla de divergencia de precios](https://help.vtex.com/es/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW) se compone de una o varias reglas de autorización de pedidos, que corresponden a intervalos entre el 0% y el 100% del precio del pedido. La configuración se realiza de forma que cada intervalo esté asociado a una acción automática de procesamiento.
 
->ℹ️ Para crear una regla de divergencia de precios, el usuario debe tener el [rol](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) Admin Super (Owner) o OMS Full. Garantiza la seguridad en la gestión de tus operaciones y consulta las [buenas prácticas de seguridad para la gestión de usuarios](https://help.vtex.com/es/faq/metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja--15YDwC9jGgqWi3rvcDaiGM).
+<div class = "alert alert-info">
+Para crear una regla de divergencia de precios, el usuario debe tener el <a href="https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">rol</a> Admin Super (Owner) o OMS Full. Garantiza la seguridad en la gestión de tus operaciones y consulta las <a href="https://help.vtex.com/es/faq/metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja--15YDwC9jGgqWi3rvcDaiGM">buenas prácticas de seguridad para la gestión de usuarios</a>.
+</div>
 
 Para crear una regla de divergencia de precios, sigue los pasos a continuación:
 
@@ -43,13 +45,13 @@ Para crear una regla de divergencia de precios, sigue los pasos a continuación:
 
 Verás la siguiente pantalla:
 
-![print_01_ES](https://images.ctfassets.net/alneenqid6w5/6lp2IKdU8VvaFgOUhHv5GA/9f087e8080a0a18dbb9caeb890a4beae/print_01_ES.png)
+![print_01_ES](//images.ctfassets.net/alneenqid6w5/6lp2IKdU8VvaFgOUhHv5GA/9f087e8080a0a18dbb9caeb890a4beae/print_01_ES.png)
 
 La pestaña **Todas** muestra todas las reglas de autorización configuradas.
 
 Para crear la primera regla de autorización, haz clic en **CREAR REGLAS**. Se mostrará una nueva pestaña, llamada **1ª regla**. Al clicar en esta pestaña, aparecerán las opciones de configuración.
 
-![print_02_ES](https://images.ctfassets.net/alneenqid6w5/Q8TwzIWNwQPg13tcaALd6/b44238cace132525165ab84ba6eacf7c/print_02_ES.png)
+![print_02_ES](//images.ctfassets.net/alneenqid6w5/Q8TwzIWNwQPg13tcaALd6/b44238cace132525165ab84ba6eacf7c/print_02_ES.png)
 
 Para configurar la **1ª regla**, puedes aumentar o disminuir el porcentaje de divergencia arrastrando los extremos de la barra. El signo > define el inicio del intervalo y el signo < determina su fin. El intervalo elegido puede ser del 0% al 100%.
 
@@ -63,13 +65,15 @@ Una vez definido el intervalo de la regla de autorización, selecciona una de la
 
 Para configurar una jerarquía de usuarios responsables de aprobar los pedidos, debes introducir más de un email y ordenar los usuarios registrados. Puedes cambiar estos usuarios en cualquier momento editando la regla de autorización de pedidos. Ten en cuenta que solo usuarios con los [roles](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) Admin Super (Owner) o OMS Full pueden editar la regla.
 
-Para crear la **segunda regla**, haz clic en el `<img class="shadow-4" src="https:////images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" />` signo más. Lo mismo se aplica a la creación de una tercera o cuarta regla, y así en adelante. Tras hacer clic en el ícono, se mostrará la siguiente interfaz:
+Para crear la **segunda regla**, haz clic en el <i class="fas fa-plus" aria-hidden="true"></i> signo más. Lo mismo se aplica a la creación de una tercera o cuarta regla, y así en adelante. Tras hacer clic en el ícono, se mostrará la siguiente interfaz:
 
-![print_03_ES](https://images.ctfassets.net/alneenqid6w5/6Yxvh93ja2V69Yywn3CyWt/4c61f021b61f9147dbf87ff2a68b474f/print_03_ES.png)
+![print_03_ES](//images.ctfassets.net/alneenqid6w5/6Yxvh93ja2V69Yywn3CyWt/4c61f021b61f9147dbf87ff2a68b474f/print_03_ES.png)
 
 Configura la nueva regla de autorización y, después de definir todas las reglas que desees, haz clic en el botón **GUARDAR REGLAS**. Verás el siguiente mensaje: _Después de guardar las reglas, puedes editarlas o eliminarlas cuando quieras_. Haz clic en **OK** para confirmar. Una vez que hayas hecho esto, se creará la regla de divergencia de precios.
 
->⚠️ Después de que hayas configurado la regla de divergencia de precios, esta se aplicará a todos los <i>marketplaces</i> en los que actúes como seller.
+<div class="alert alert-warning">
+Después de que hayas configurado la regla de divergencia de precios, esta se aplicará a todos los <i>marketplaces</i> en los que actúes como seller.
+</div>
 
 ## Editar una regla de divergencia de precios
 
@@ -77,7 +81,9 @@ La regla de divergencia de precios se puede editar en cualquier momento. Para ha
 
 En la página de edición de reglas, puedes eliminar la regla de divergencia de precios haciendo clic en **ELIMINAR REGLAS**. Esto hace que todas las reglas de autorización configuradas se eliminen permanentemente.
 
->ℹ️ Si eliminas la regla de divergencia de precios, esta acción no se puede revertir. Para que vuelva a aplicarse, será necesario configurarla de nuevo. Lo mismo se aplica a las reglas de autorización que componen la regla de divergencia de precios.
+<div class = "alert alert-info">
+Si eliminas la regla de divergencia de precios, esta acción no se puede revertir. Para que vuelva a aplicarse, será necesario configurarla de nuevo. Lo mismo se aplica a las reglas de autorización que componen la regla de divergencia de precios.
+</div>
 
 En la misma página, en la pestaña **Todas**, puedes ver la lista de todas las reglas de autorización de pedidos creadas. Para eliminar una regla de autorización, haz clic en el botón **ELIMINAR REGLA** junto a la regla que deseas eliminar.
 
@@ -89,7 +95,9 @@ Una vez que hayas hecho los cambios deseados, haz clic en el botón **GUARDAR RE
 
 Cuando una regla de autorización se configura con la opción _Crear una tarea en VTEX DO para aprobación_, esto significa que se ha asignado al menos un usuario para autorizar manualmente el pedido. La [gestión de pedidos con divergencia de precios](https://help.vtex.com/es/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW#gestion-de-pedidos-con-divergencia-de-precios) es similar a la de otros canales de venta, como la tienda física o el ecommerce.
 
->⚠️ Es importante hacer un seguimiento regular de los pedidos en **Pedidos > Todos los pedidos**. Si requieren aprobación manual, los pedidos con errores de divergencia de precios quedan pendientes de autorización por parte de un usuario habilitado, definido al crear la regla de autorización. Una buena práctica es tener al menos dos usuarios con autorización para realizar el procesamiento manual.
+<div class="alert alert-warning">
+Es importante hacer un seguimiento regular de los pedidos en <b>Pedidos > Todos los pedidos</b>. Si requieren aprobación manual, los pedidos con errores de divergencia de precios quedan pendientes de autorización por parte de un usuario habilitado, definido al crear la regla de autorización. Una buena práctica es tener al menos dos usuarios con autorización para realizar el procesamiento manual.
+</div>
 
 Hay dos maneras de autorizar manualmente un pedido con divergencia de precios:
 

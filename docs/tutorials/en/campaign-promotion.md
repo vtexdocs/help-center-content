@@ -26,7 +26,9 @@ Before creating a campaign promotion, you need to create a campaign audience to 
 
 For example, if you set up a [campaign audience](https://help.vtex.com/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K) whose target audience is customers who add product A to their cart, in the campaign promotion you can configure that this audience will receive a discount on product B.
 
->ℹ️ Campaign audiences and their promotions are only valid for the main store account. This option is not available for seller accounts. If a campaign audience or a campaign promotion are created on a seller account, they will not be activated.
+<div class="alert alert-info">
+  <p>Campaign audiences and their promotions are only valid for the main store account. This option is not available for seller accounts. If a campaign audience or a campaign promotion are created on a seller account, they will not be activated.</p>
+</div>
 
 Once the [campaign audience](https://help.vtex.com/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K) is set, go to the Admin and follow the steps below to create a campaign promotion.
 
@@ -72,7 +74,9 @@ Below is a description of all the fields you need to fill in to create a campaig
   - **Free shipping:** full discount on the shipping cost.
   - **Gift:** full discount on the product defined as a gift. You can select one or more SKUs or more than one unit of the same SKU as a giveaway. To define more than one gift, select the **Activate Gift Multiplier** option and set the quantity. Learn more about this option in [this article](https://help.vtex.com/en/tutorial/what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion--1gydgkmjEWcoo2CskUwuYK).
 
-  >ℹ️ The **Gift** product must have a price associated with it, even though it is given to the customer for free.
+  <div class = "alert alert-info">
+  <p>The <b>Gift</b> product must have a price associated with it, even though it is given to the customer for free.</p>
+ </div>
 
   - **Formula-based nominal discount:** the discount is calculated based on the total of the product prices, the shipping cost and the desired discount percentage rate. The shipping rate used in the formula will be the lowest available for the order, regardless of what the customer selects. You must always use dot as decimal separator. For example, the discount will be 30% of the product price + shipping rate. Therefore, the formula should be as follows: `(total price + shipping rate) * 0.3)`.
   - **Nominal reward value:** credit that will be added to the store's loyalty program. 
@@ -99,7 +103,9 @@ In this section, you can define to which sellers the promotion will apply. You c
 
 For the promotion to be valid for all sellers, leave the field blank.
 
->⚠️ **Warning:** it is not possible to select a white label seller. There are two ways to include a white label seller in the promotion:1. Restrict sellers to the main store. This will add all white label sellers in your store to the promotion.2. Leave the field blank.  This way, all sellers will be included in the promotion.
+<div class = "alert alert-warning">
+  <p><b>Warning:</b> it is not possible to select a white label seller. There are two ways to include a white label seller in the promotion:</p><ol>1. Restrict sellers to the main store. This will add all white label sellers in your store to the promotion.</ol><ol>2. Leave the field blank.  This way, all sellers will be included in the promotion.</ol>
+</div>
 
 #### Trade Policy
 
@@ -116,7 +122,7 @@ For the promotion to be valid for all trade policies, leave it blank.
 
 In this section, you need to choose whether this promotion will apply to all products in your store or only to specific products, as illustrated below.
 
-![promocoes-restricao-en](https://images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/adc5cdd25eb79636530e31e668b765e3/image.png)
+![promocoes-restricao-en](//images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/adc5cdd25eb79636530e31e668b765e3/image.png)
 
 If you want the promotion to apply to your entire catalog, select the **Apply to all products** option.
 
@@ -126,11 +132,13 @@ You can add or remove **Categories**, **Brands**, **Collections**, **Products** 
 
 See an example below. In this case, the promotion includes all products from the category **Home Appliances** whose brand is **Brastemp**, except the product **Refrigerator 100**.
 
-![exemplo-en](https://images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
+![exemplo-en](//images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
 
 In the **Products** and **SKUs** fields, you can opt to upload a **.txt** file with one product or SKU ID per row instead of selecting one product or one SKU at a time. To do this, click on **Choose file** and select your **.txt** file.
 
->⚠️ If you select **Apply to the following products** and do not fill in any of the selection criteria, the promotion will not be created and the message **Define eligible products or apply to all products** will be displayed. In this case, you must go back and fill in the selection criteria or click on **Apply to all products**.
+<div class="alert alert-warning">
+  <p>If you select <b>Apply to the following products</b> and do not fill in any of the selection criteria, the promotion will not be created and the message <b>Define eligible products or apply to all products</b> will be displayed. In this case, you must go back and fill in the selection criteria or click on <b>Apply to all products</b>.</p>
+</div>
 
 To be eligible for the promotion, products must meet all the conditions added in this section.
 

@@ -18,7 +18,9 @@ internalReference: 1045184
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los productos con precio cero son mostrados como no disponibles por la Búsqueda Inteligente. A diferencia de un producto sin precio registrado, el precio fijado como cero define un producto libre.

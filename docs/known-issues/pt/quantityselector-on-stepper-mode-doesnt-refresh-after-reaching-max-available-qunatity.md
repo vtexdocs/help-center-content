@@ -18,7 +18,9 @@ internalReference: 704458
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se você atingir a quantidade disponível do produto clicando mais de uma vez, o componente leva muito tempo para avisá-lo e nem mesmo atualiza o seletor de quantidade com a quantidade máxima disponível.

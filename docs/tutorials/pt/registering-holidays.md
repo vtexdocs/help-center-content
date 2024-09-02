@@ -34,7 +34,9 @@ A funcionalidade **Feriados** será considerada para transportadoras com a confi
 3. Na seção **Finais de semana e feriados**, certifique-se que a opção `Entrega em feriados` está com o switch desativado <i class="fas fa-toggle-off"></i>. 
 4. Clique em `Salvar`.
 
->ℹ️ Você pode definir feriados para os anos seguintes.
+<div class="alert alert-info">
+Você pode definir feriados para os anos seguintes.
+</div>
 
 ## Como é feito o cálculo do envio com feriados
 
@@ -55,7 +57,9 @@ Do ponto de vista técnico, os feriados são considerados na variável `shipping
 2. Existe um feriado cadastrado na terça-feira (06/02).
 3. A data estimada para o cliente receber o pedido será quinta-feira (08/02), pois o feriado de terça-feira não é considerado dia útil.
 
->⚠️ Existe uma exceção na qual o feriado cadastrado conta como dia útil: quando o cliente realiza um pedido em um feriado e a transportadora tem horário de despacho configurado ([Período de Envio](https://help.vtex.com/pt/tutorial/carrier-working-hours--2oGpbInIgdxSWUi3TZjdCS)) para esse mesmo dia.
+<div class="alert alert-warning">
+Existe uma exceção na qual o feriado cadastrado conta como dia útil: quando o cliente realiza um pedido em um feriado e a transportadora tem horário de despacho configurado (<a href="https://help.vtex.com/pt/tutorial/carrier-working-hours--2oGpbInIgdxSWUi3TZjdCS">Período de Envio</a>) para esse mesmo dia.
+</div>
 
 ### Exemplo 2
 

@@ -18,7 +18,9 @@ internalReference: 597915
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 No cenário em que o vendedor tem recorrência, ao chegar na fase de checkout e mudar o tipo de entrega da entrega para a retirada, o usuário recebe o erro "Incapaz de se comunicar com o vendedor ....", mas na verdade o erro é "O endereço não pode ser usado para o canal de entrega dado". Isto é devido à recorrência onde a API não sabe como lidar com este tipo de cenário e a UI não seleciona um canal de entrega.

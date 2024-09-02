@@ -17,7 +17,9 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 Los clientes de tu tienda pueden solicitar el cambio o la devolución de ítems de un pedido. De este modo, la funcionalidad **Devolución de ítems** permite retirar ítems de un pedido para que los productos sean devueltos.
 
->ℹ️ Consulta el artículo [Cómo devolver ítems del pedido (Beta)](https://help.vtex.com/es/tutorial/como-devolver-itens-do-pedido-beta--2bSNWwD0g8fcUmuupLao9i) para saber cómo utilizar la funcionalidad en el Admin V4.
+<div class = "alert alert-info">
+Consulta el artículo <a href="https://help.vtex.com/es/tutorial/como-devolver-itens-do-pedido-beta--2bSNWwD0g8fcUmuupLao9i">Cómo devolver ítems del pedido (Beta)</a> para saber cómo utilizar la funcionalidad en el Admin V4.
+</div>
 
 Para realizar la devolución en el VTEX Admin:
 
@@ -33,13 +35,12 @@ Para realizar la devolución en el VTEX Admin:
 
 ![Devolucion de items](https://drive.google.com/uc?export=download&id=1kZVs7Kq2zTOGz8KxkT_Y8LqnObagdi4f)
 
->⚠️ Ten en cuenta que:
->
-> *La devolución de un SKU en el módulo Gestión de pedidos no actualiza la cantidad de SKU que están disponibles en el stock. La tienda debe actualizar la cantidad de ítems en el [stock](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139).
->
-> *El número de la factura de devolución debe ser diferente al de la factura de venta.
->
-> *Tras la devolución, se notifica al sistema de pago para que realice el [reembolso](https://help.vtex.com/es/tutorial/como-funciona-estorno-quando-ha-devolucao-do-item).
->
-> *Solo es posible devolver pedidos que tengan al menos una factura insertada en la plataforma.
-> 
+<div class="alert alert-warning">
+Ten en cuenta que:
+<ul>
+<li>La devolución de un SKU en el módulo Gestión de pedidos no actualiza la cantidad de SKU que están disponibles en el stock. La tienda debe actualizar la cantidad de ítems en el <a href="https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139">stock</a>.</li>
+<li>El número de la factura de devolución debe ser diferente al de la factura de venta.</li>
+<li>Tras la devolución, se notifica al sistema de pago para que realice el <a href="https://help.vtex.com/es/tutorial/como-funciona-estorno-quando-ha-devolucao-do-item">reembolso</a>.</li>
+<li>Solo es posible devolver pedidos que tengan al menos una factura insertada en la plataforma.</li>
+</ul>
+</div>

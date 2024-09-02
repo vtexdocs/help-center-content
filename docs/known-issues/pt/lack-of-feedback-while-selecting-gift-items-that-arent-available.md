@@ -18,7 +18,9 @@ internalReference: 648767
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A seleção de um item de presente no carrinho que não tenha estoque não dará nenhum retorno. Após selecionar o presente, o pedido de API será feito, mas quando ele responde, a seleção do presente é simplesmente removida.

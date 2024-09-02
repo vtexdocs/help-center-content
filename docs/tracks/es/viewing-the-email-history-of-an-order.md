@@ -22,4 +22,6 @@ Para ver el historial de correos electrónicos, vaya al módulo **Pedidos**, ent
 
 El sistema que hace este registro se llama __Conversation Tracker__. Para entender más a fondo cómo funciona, consulte el artículo [Cómo se realiza la comunicación con el cliente durante el flujo del pedido](https://help.vtex.com/es/tutorial/comprendiendo-el-conversation-tracker--tutorials_195).
 
->ℹ️ Como la comunicación con el cliente es responsabilidad del marketplace, solamente los pedidos con origen marketplace tienen un historial de emails transaccionales. Los pedidos con origen fulfillment no mantienen tal historial.
+<div class = "alert alert-info">
+Como la comunicación con el cliente es responsabilidad del marketplace, solamente los pedidos con origen marketplace tienen un historial de emails transaccionales. Los pedidos con origen fulfillment no mantienen tal historial.
+</div>

@@ -3,8 +3,8 @@ title: 'Definir la política comercial'
 id: 3AqbcsWrge8zLt0BC5CtGd
 status: PUBLISHED
 createdAt: 2021-04-14T17:58:41.545Z
-updatedAt: 2023-10-23T20:22:26.830Z
-publishedAt: 2023-10-23T20:22:26.830Z
+updatedAt: 2024-08-06T17:51:23.468Z
+publishedAt: 2024-08-06T17:51:23.468Z
 firstPublishedAt: 2021-04-15T17:41:14.352Z
 contentType: trackArticle
 productTeam: Channels
@@ -52,6 +52,10 @@ Para configurar un descuento vinculado a un medio de pago debes considerar la in
 
 Una vez realizados los pasos anteriormente descritos, la activación deberá realizarse a través de la [configuración del conector](https://help.vtex.com/es/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
 
->⚠️ En caso de que haya varios sellers vinculados a un producto de tu tienda, Google Shopping aplicará la regla de anunciar la mejor oferta disponible.
+<div class="alert alert-warning">
+En caso de que haya varios sellers vinculados a un producto de tu tienda, Google Shopping aplicará la regla de anunciar la mejor oferta disponible.
+  </div>
 
-  >❗ Para que el descuento se envíe a Google Shopping, cada promoción creada solo puede tener vinculado un medio de pago.
+  <div class="alert alert-danger">
+Para que el descuento se envíe a Google Shopping, cada promoción creada solo puede tener vinculado un medio de pago.
+  </div>

@@ -1,5 +1,5 @@
 ---
-title: "La transacción DecidirV1 fue 'reprocesada' después de algunos reintentos de autorización"
+title: 'La transacción DecidirV1 fue "reprocesada" después de algunos reintentos de autorización'
 id: 2fxfg1IlnFUxAjo9E47HPq
 status: PUBLISHED
 createdAt: 2022-03-03T21:19:22.471Z
@@ -18,7 +18,9 @@ internalReference: 384009
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Esto sucede cuando una transacción obtiene el estado 480 que significa "REVISIÓN", y comienza a reintentar hasta que recibe una carga útil nula. Entonces, después de eso, "reprocesamos" la transacción lo que provoca un fallo y la cancelación.

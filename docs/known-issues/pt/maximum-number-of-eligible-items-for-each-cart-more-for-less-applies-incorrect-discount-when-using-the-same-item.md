@@ -1,5 +1,5 @@
 ---
-title: "'número máximo de itens qualificados para cada carrinho' + more for less aplica desconto incorreto ao usar o mesmo item."
+title: '"número máximo de itens qualificados para cada carrinho" + more for less aplica desconto incorreto ao usar o mesmo item.'
 id: gWIMhi9RCv9BE1RvV6GiM
 status: PUBLISHED
 createdAt: 2024-07-30T17:14:36.972Z
@@ -18,7 +18,9 @@ internalReference: 1073080
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar um desconto do tipo "mais por menos" junto com outra promoção que usa o "máximo de itens por carrinho" para o mesmo item, ambos se acumulando, um desconto incorreto é concedido, excedendo a configuração inicialmente configurada.

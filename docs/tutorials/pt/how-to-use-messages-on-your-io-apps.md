@@ -17,7 +17,9 @@ subcategory: 54gbzsku02c4bKmgFbp3v3
 
 O VTEX IO possui um serviço de internacionalização embutido chamado __Messages__. Neste tutorial você vai aprender como internacionalizar seu app de front end e as respostas dos seu back end. 
 
->ℹ️ Essa funcionalidade é disponível apenas para aplicativos react/graphql/typedql.
+<div class="alert alert-info">
+Essa funcionalidade é disponível apenas para aplicativos react/graphql/typedql.
+</div>
 
 ## Tradução do Messages
 
@@ -58,7 +60,9 @@ Para obter uma tradução automática mais precisa, crie um arquivo chamado `con
 
 Esse arquivo funciona para remover as possíveis ambiguidades das traduções. Por exemplo, a palavra 'Ciao' em italiano significa _Oi_ e _Tchau_ ao mesmo tempo em português . A descrição, portanto, é importante para saber o significado exato e ter uma tradução correta. 
 
->⚠️ O arquivo `context.json` é obrigatório e precisa conter todas as chaves de traduções.
+<div class="alert alert-warning">
+O arquivo `context.json` é obrigatório e precisa conter todas as chaves de traduções. 
+</div>
 
 ### Migrando do MessagesBuilder 0.x
 

@@ -80,6 +80,8 @@ Google automatically gives products a 30 day expiration date unless updates are 
 #### Title size
 The limit is 150 characters, however Google annoucements only display 70 characters. The integration sends up to 150 characters, made up of the Product Title + SKU Title; [read more about this here](https://support.google.com/merchants/answer/6098378?hl=en).
 
->⚠️ **Attention:** The XML integration has not been discontinued, but if the integration is done by XML and the Integrations module (API) the products will appear duplicated.
+<div class="alert alert-warning">
+<strong>Attention:</strong> The XML integration has not been discontinued, but if the integration is done by XML and the Integrations module (API) the products will appear duplicated.
+</div>
 
 

@@ -18,7 +18,9 @@ internalReference: 989507
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las condiciones de pago configuradas en los Ajustes de Organizaciones B2B no se guardan en los Detalles de la Organización.

@@ -18,7 +18,9 @@ internalReference: 556514
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A emissora foi notificada para mudança de estoque no mesmo dia dentro de 2 minutos, mas apenas uma notificação chegou na integração.

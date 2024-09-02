@@ -1,5 +1,5 @@
 ---
-title: "A API 'Obter todas as sugestões de SKU' não mantém a mesma ordem de SKU ao alterar os limites"
+title: 'A API "Obter todas as sugestões de SKU" não mantém a mesma ordem de SKU ao alterar os limites'
 id: 4wQbZm9rFc8iD2xYwEiAlQ
 status: PUBLISHED
 createdAt: 2022-12-05T14:49:46.856Z
@@ -18,7 +18,9 @@ internalReference: 367187
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 ### **Resumo**
 

@@ -23,7 +23,9 @@ Como se explica en el artículo [Definiciones de Cuenta Franquicia y Seller Whit
 
 De esta manera, el punto de recogida configurado en la Cuenta Franquicia __servirá para atender las entregas de los pedidos realizados en la Cuenta Principal__. En este escenario, la Cuenta Franquicia actúa como __Seller White Label__ de la cuenta principal.
 
->❗ Las configuraciones se deben realizar en la cuenta del seller White Label. Los ítems estarán disponibles para la recogida en el checkout del cliente final  solamente si el SKU está disponible en el stock de la cuenta principal y de la cuenta del seller White Label.
+<div class="alert alert-danger">
+Las configuraciones se deben realizar en la cuenta del seller White Label. Los ítems estarán disponibles para la recogida en el checkout del cliente final  solamente si el SKU está disponible en el stock de la cuenta principal y de la cuenta del seller White Label.
+</div>
 
 ## Configuración inicial
 
@@ -46,7 +48,9 @@ Para saber en detalle cómo llenar los campos de la plantilla, ingrese a nuestro
 
 Si la configuración del punto de recogida se ha efectuado correctamente en la Cuenta Franquicia, los SKUs con __stock disponible y precio__ podrán venderse en la Cuenta Principal, donde la Cuenta Franquicia actuará como un __Seller White Label__ y la Cuenta Principal funcionará como un __Marketplace__.
 
->⚠️ Asegúrese de que el seller white label esté activo. Acceda a el Admin VTEX, en **Marketplace > Sellers > Gestión de sellers**, y en la línea del seller y la columna <i>Status</i>, haga clic en `Activo`.
+<div class="alert alert-warning">
+Asegúrese de que el seller white label esté activo. Acceda a el Admin VTEX, en <b>Marketplace > Sellers > Gestión de sellers</b>, y en la línea del seller y la columna <i>Status</i>, haga clic en <code>Activo</code>.
+</div>
 
 ### Seller White Label/Cuenta Franquicia
 

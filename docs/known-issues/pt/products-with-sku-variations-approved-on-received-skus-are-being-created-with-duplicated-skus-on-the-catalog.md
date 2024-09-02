@@ -18,7 +18,9 @@ internalReference: 889676
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O vendedor pode enviar um produto com várias variações de sku.

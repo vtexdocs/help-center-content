@@ -34,7 +34,9 @@ Solo se considerarán **Feriados** para las transportadoras con la configuració
 3. En la sección **Fines de semana y feriados**, asegúrese de que la opción `Entrega feriados` esté desactivada <i class="fas fa-toggle-off"></i>.
 4. Haga clic en `Guardar`.
 
->ℹ️ Usted puede definir Feriados para los próximos años con antelación.
+<div class="alert alert-info">
+Usted puede definir Feriados para los próximos años con antelación.
+</div>
 
 ## Cómo se calcula el tiempo de envío con feriados
 
@@ -55,7 +57,9 @@ Desde un punto de vista técnico, los feriados se consideran en la variable `shi
 2. Hay un feriado registrado el martes (06/02).
 3. La fecha estimada para que el cliente reciba el pedido será el jueves (08/02), ya que el martes no se considera día laboral.
 
->⚠️ Existe una excepción en la que el feriado registrado cuenta como día laboral: cuando el cliente realiza un pedido en un feriado y la transportadora tiene configurado el horario de envío ([periodo de envío](https://help.vtex.com/es/tutorial/carrier-working-hours--2oGpbInIgdxSWUi3TZjdCS)) para ese mismo día.
+<div class="alert alert-warning">
+Existe una excepción en la que el feriado registrado cuenta como día laboral: cuando el cliente realiza un pedido en un feriado y la transportadora tiene configurado el horario de envío (<a href="https://help.vtex.com/es/tutorial/carrier-working-hours--2oGpbInIgdxSWUi3TZjdCS">periodo de envío</a>) para ese mismo día.
+</div>
 
 ### Ejemplo 2
 

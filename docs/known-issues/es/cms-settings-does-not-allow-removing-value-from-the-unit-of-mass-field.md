@@ -18,7 +18,9 @@ internalReference: 540756
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, cuando se introduce un valor en el campo Unidad de masa en los ajustes del CMS, el sistema no permite eliminar el valor por UI

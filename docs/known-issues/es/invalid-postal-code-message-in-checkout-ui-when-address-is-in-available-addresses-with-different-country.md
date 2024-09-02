@@ -1,5 +1,5 @@
 ---
-title: "Mensaje 'Código postal no válido' en la interfaz de usuario de la caja cuando la dirección está en las direcciones disponibles con un país diferente."
+title: 'Mensaje "Código postal no válido" en la interfaz de usuario de la caja cuando la dirección está en las direcciones disponibles con un país diferente.'
 id: 4VggIx4xWPNW6OBIrQ0js4
 status: PUBLISHED
 createdAt: 2024-06-21T17:08:59.860Z
@@ -18,7 +18,9 @@ internalReference: 1053959
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Checkout UI utiliza el país registrado en su estado para validar la entrada del código postal.

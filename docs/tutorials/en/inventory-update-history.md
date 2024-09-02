@@ -19,10 +19,11 @@ The inventory contains information about the products available in a store and i
 
 This article contains instructions for accessing the inventory update history in the VTEX Admin. 
 
->ℹ️ Don't forget the difference between warehouse and inventory:
-> **[Warehouse:**](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb) Name given to the store's storage locations.
->
-> **Inventory:** List of SKUs and warehouses in which they are stored.
+<div class = "alert alert-info">
+Don't forget the difference between warehouse and inventory:
+<p><b><a href="https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb">Warehouse:</b></a> Name given to the store's storage locations.</p>
+<p><b>Inventory:</b> List of SKUs and warehouses in which they are stored.</p>
+</div>
 
 To view the update history of a SKU, follow the steps below:
 
@@ -35,7 +36,9 @@ To view the update history of a SKU, follow the steps below:
   * The quantity of items before the update.
   * The quantity of itemsafter the update.
 
->⚠️ You can only see the last 50 updates in the update log of a given SKU.
+<div class="alert alert-warning">
+You can only see the last 50 updates in the update log of a given SKU.
+</div>
 
 The total quantity of items on the [Inventory Management](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) page is updated in real-time, but it may take up to 1 hour to reflect in the inventory history.
 

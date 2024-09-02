@@ -18,7 +18,9 @@ internalReference: 521542
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un usuario quiere guardar una tarjeta en MyAccount, la dirección es obligatoria y sin los datos rellenados, el botón no realiza la acción de intentar guardar la tarjeta. Pero esta regla no se aplica al campo número del formulario de dirección, que es obligatorio, sino que se puede dejar vacío y el usuario puede guardar la tarjeta sin esta validación.

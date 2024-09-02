@@ -18,7 +18,9 @@ internalReference: 407528
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Às vezes podemos ver um link errado para o XML no XML admin (`/admin/Site/Xml.aspx`)

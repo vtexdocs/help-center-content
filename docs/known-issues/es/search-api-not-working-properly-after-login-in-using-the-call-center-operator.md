@@ -18,7 +18,9 @@ internalReference: 304586
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La API de búsqueda no funciona correctamente después de iniciar sesión con el operador del centro de llamadas.

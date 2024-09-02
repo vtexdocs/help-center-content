@@ -16,7 +16,9 @@ trackSlugEN: register-the-barcode-of-the-skus-for-the-instore
 
 To use the VTEX Sales App, products from the physical store must be added to the Catalog of your VTEX account. It's there that we insert all products and define their characteristics.
 
->⚠️ Salespeople will only have access to products via VTEX Sales App once they are added to your store's catalog on VTEX.
+<div class="alert alert-warning">
+Salespeople will only have access to products via VTEX Sales App once they are added to your store's catalog on VTEX.
+</div>
 
 Among the information entered during the registration of a product in the Catalog, is the __EAN__. The EAN corresponds to the __barcode__ of the SKU. It's this code that allows the sales associate to easily add the product to the VTEX Sales App cart by reading the product's barcode. VTEX Sales App also allows the barcode to be entered in the search field.
 
@@ -33,4 +35,6 @@ To add the SKU's EAN, follow the steps below:
 
 Alternatively, the EAN field, as well as other SKU fields, can be filled out in bulk using a spreadsheet or your ERP. Check out the [Adding SKUs article](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) for detailed information.
 
->ℹ️ EAN information can take up to 10 minutes to update. After this procedure, it will be possible to add the SKU to the VTEX Sales App cart through the barcode reader machine.
+<div class="alert alert-info">
+EAN information can take up to 10 minutes to update. After this procedure, it will be possible to add the SKU to the VTEX Sales App cart through the barcode reader machine.
+</div>

@@ -20,9 +20,10 @@ La logística o fulfillment es el proceso de planificación y ejecución del tra
 
 VTEX te permite registrar e controlar el _stock_, gestionar las tarifas de envío, controlar la disponibilidad de los ítems y hacer el seguimiento de las entregas. 
 
->ℹ️ Si tu tienda no ha dado los primeros pasos en el módulo de **Envío**, consulta el artículo [Logística: primeros pasos](https://help.vtex.com/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a).
-> Consulta el artículo [Glosario de logística](https://help.vtex.com/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby) para consultar el significado de los términos logísticos utilizados en VTEX.
-> Las configuraciones logísticas disponibles mediante [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
+<div class = "alert alert-info"> Si tu tienda no ha dado los primeros pasos en el módulo de <b>Envío</b>, consulta el artículo <a href="https://help.vtex.com/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a">Logística: primeros pasos</a>.
+Consulta el artículo <a href="https://help.vtex.com/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby">Glosario de logística</a> para consultar el significado de los términos logísticos utilizados en VTEX.
+Las configuraciones logísticas disponibles mediante <a href="https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview">API</a>. 
+</div>
 
 Para saber qué configuraciones logísticas son necesarias y cómo realizarlas, primero hay que entender los pasos del flujo de compra de un producto:
 
@@ -43,9 +44,10 @@ Para saber qué configuraciones logísticas son necesarias y cómo realizarlas, 
     * En el caso de los pedidos que se envían a los [puntos de recogida](https://help.vtex.com/es/tutorial/como-funcionan-puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R) (recogida), la tienda debe dejar los paquetes disponibles para que el cliente los recoja. Para ello, los paquetes se sacan del [almacén](https://help.vtex.com/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb) y se transportan al punto de recogida. El transporte desde el muelle hasta el punto de recogida se define por una[ política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
 8. Tras la facturación y el envío, la tienda se encarga de actualizar el _stock_, lo que para la plataforma significa también dar de baja a los ítems en el _stock_.
 
->ℹ️ Ten en cuenta que el proceso de envío dependerá de la configuración realizada en la plataforma. Aquí presentamos los escenarios para cada tipo de envío (entrega y recogida), pero hay otros flujos posibles en el proceso de envío. Por ejemplo, cuando se realiza el envío por recogida y el almacén coincide con el punto de recogida, no es necesario transportar los paquetes entre estos lugares.
+<div class = "alert alert-info">Ten en cuenta que el proceso de envío dependerá de la configuración realizada en la plataforma. Aquí presentamos los escenarios para cada tipo de envío (entrega y recogida), pero hay otros flujos posibles en el proceso de envío. Por ejemplo, cuando se realiza el envío por recogida y el almacén coincide con el punto de recogida, no es necesario transportar los paquetes entre estos lugares.
+</div>
 
-![Envio ES](https://images.ctfassets.net/alneenqid6w5/2e2f4toAiFamlcXlAQfC3h/b45650074aea4947a048e8140434fa46/Envio_ES.svg)
+![Envio ES](//images.ctfassets.net/alneenqid6w5/2e2f4toAiFamlcXlAQfC3h/b45650074aea4947a048e8140434fa46/Envio_ES.svg)
 ## Configuración del proceso logístico
 
 El proceso logístico debe configurarse según las necesidades de tu tienda. Estas configuraciones se hacen en el módulo **Envío**. Mira las funcionalidades disponibles en el módulo y cómo afecta cada una de ellas a tu negocio:

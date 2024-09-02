@@ -18,7 +18,9 @@ internalReference: 501730
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 O crédito do cliente não exibe os diferentes valores entre regras com o mesmo número de parcelas e períodos diferentes. Para entender melhor este problema, devemos observar a porta de entrada e o comportamento do crédito do cliente:
 

@@ -32,7 +32,7 @@ No Admin VTEX, a página **Storefront** > **Intelligent Search** > **Regras de m
 * [Editar regra de merchandising](#editar-regras-de-merchandising)
 * [Excluir regra de merchandising](#excluir-regras-de-merchandising)
 
-![regras-merch-pt](https://images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/725d7d991d98ca633d7efd56ec14a254/regras-merch-pt.PNG)
+![regras-merch-pt](//images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/725d7d991d98ca633d7efd56ec14a254/regras-merch-pt.PNG)
 
 | Coluna | Descrição |
 | - | - |

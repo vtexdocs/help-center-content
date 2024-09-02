@@ -18,7 +18,9 @@ internalReference: 953161
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao importar dados para anexos no módulo de catálogo, se o referido anexo tiver mais de 50 caracteres, a cadeia de caracteres é cortada, o que faz com que não haja atualizações para esses dados.

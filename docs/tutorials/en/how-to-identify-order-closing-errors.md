@@ -19,6 +19,8 @@ Whenever a user clicks on Complete Order, the checkout immediately creates an or
 
 And since every order has at least one transaction, it is also possible to find this transaction in **Orders > Transactions**. Since this is an error situation, the transaction will probably have been cancelled.
 
->ℹ️ We recommend that whenever there is an order error, the first place to look is the transaction log in **Orders > Transactions**. Learn more in [Viewing the order's details in Orders](https://help.vtex.com/en/tutorial/how-to-view-the-orders-details).
+<div class = "alert alert-info">
+We recommend that whenever there is an order error, the first place to look is the transaction log in <b>Orders > Transactions</b>. Learn more in <a href="https://help.vtex.com/en/tutorial/how-to-view-the-orders-details">Viewing the order's details in Orders</a>.
+</div>
 
 The error message shown to the customer can be the result of different things. From internal errors, such as the failure to reserve an item, to problems with the card, such as incomplete data, or even a response from the gateway, with data input wrongly.

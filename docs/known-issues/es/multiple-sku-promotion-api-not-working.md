@@ -18,7 +18,9 @@ internalReference: 729990
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A pesar de la información de retorno de éxito en la API y el correo electrónico, la promoción no se crea en el administrador.

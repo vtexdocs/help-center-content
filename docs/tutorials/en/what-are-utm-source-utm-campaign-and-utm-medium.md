@@ -23,7 +23,9 @@ Or you can define that, for that same UTM, certain benefits will be applied. Tha
 
 In a nutshell, the platform allows you to take certain actions according to the origin of the traffic to the store.
 
->ℹ️ On the **Orders Management** screen, only utm_source is [available for filter](https://help.vtex.com/en/tutorial/filtering-orders-on-the-oms).
+<div class="alert alert-info">
+On the <strong>Orders Management</strong> screen, only utm_source is <a href="https://help.vtex.com/en/tutorial/filtering-orders-on-the-oms">available for filter</a>.
+</div>
 
 ### Types of UTM
 
@@ -36,7 +38,9 @@ But you can use these UTMs in whatever way meets your business rules best.
 
 Therefore, in practice, what matters is defining the correct action for the values of these parameters.
 
->❗ Notice: **special characters** should not be used in UTMs. These variables on function properly when ** alphanumerical, hiphen and underscore ** characters are used.
+<div class="alert alert-danger">
+Notice: <strong>special characters</strong> should not be used in UTMs. These variables on function properly when <strong> alphanumerical, hiphen and underscore </strong> characters are used.
+</div>
 
 For more information about issues with adding UTMs to cart, go to [Why are the UTMs not being applied to the cart?](https://developers.vtex.com/vtex-rest-api/docs/check-marketing-utms-used-at-checkout#why-are-the-utms-not-being-applied-to-the-cart).
 

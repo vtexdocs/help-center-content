@@ -18,7 +18,9 @@ internalReference: 352659
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Depois de alternar o código postal algumas vezes no componente de pré-visualização do envio do carrinho, o componente entra em um eterno looping de pedidos de `/api/checkout/pub/postal-code//`

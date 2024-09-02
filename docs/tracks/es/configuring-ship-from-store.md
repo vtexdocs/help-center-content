@@ -16,7 +16,7 @@ trackSlugES: estrategias-de-comercio-unificado
 
 La estrategia de **Ship From Store** se produce cuando el cliente desea recibir los productos en su casa y estos productos provienen del almacén de una tienda física. En otras palabras, en este escenario, la tienda funciona como un mini centro de distribución.
 
-![35. Setting up Shipping From Store - 1](https://images.ctfassets.net/alneenqid6w5/7uHIuX10TvTGJS1kkwPmBb/6847796e390c9d18123eea24f87469c4/35._Setting_up_Shipping_From_Store_-_1.png)
+![35. Setting up Shipping From Store - 1](//images.ctfassets.net/alneenqid6w5/7uHIuX10TvTGJS1kkwPmBb/6847796e390c9d18123eea24f87469c4/35._Setting_up_Shipping_From_Store_-_1.png)
 
 Este tipo de logística ayuda a su operación a reducir costos y tiempo de envío. Esto se debe a que, en lugar de tener solo los almacenes principales, generalmente lejos de las áreas centrales de las ciudades, ahora usted tiene una red de entrega más capilar.
 
@@ -28,7 +28,9 @@ En primer lugar, consideremos los requisitos previos que su tienda necesita para
 
 ## Cómo implementar el Ship From Store
 
->ℹ️ Aunque es posible implementar el Ship From Store de otras maneras, en este artículo explicaremos cómo hacerlo utilizando las features de cuenta franquicia Seller White Label. Esto se debe a que esta es la arquitectura más recomendada por VTEX para este tipo de proyecto.
+<div class="alert alert-info">
+Aunque es posible implementar el Ship From Store de otras maneras, en este artículo explicaremos cómo hacerlo utilizando las features de cuenta franquicia Seller White Label. Esto se debe a que esta es la arquitectura más recomendada por VTEX para este tipo de proyecto.
+</div>
 
 Estos son los pasos para implementar el __Ship From Store__:
 

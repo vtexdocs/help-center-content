@@ -15,7 +15,9 @@ legacySlug: planner-pagina-calendario-beta
 subcategory: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
->ℹ️ El **Releases**se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarlo. Esta funcionalidad es válida únicamente para las tiendas que usan [FastStore](https://www.faststore.dev/).
+<div class="alert alert-info">
+  <p>El <strong>Releases</strong>se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarlo. Esta funcionalidad es válida únicamente para las tiendas que usan <a href="https://www.faststore.dev/">FastStore</a>.</p>
+</div>
 
 El módulo **Releases** te permite [gestionar tus releases](https://help.vtex.com/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW) para que puedas coordinar la creación, programación y publicación de los cambios en tu tienda.
 
@@ -28,13 +30,15 @@ Existen tres maneras de ver la página **Calendario**:
 
 El **Calendario** muestra solamente [releases programados](https://help.vtex.com/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW#programar). Para ver todos tus releases, ingresa a la página [Releases](https://help.vtex.com/es/v4/docs/planner-pagina-de-releases--1tQNCNwoMvxV4EoizajqJw).
 
->⚠️ En la etapa Beta, los releases deben estar relacionados al [CMS](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el **Releases**, se debe configurar el CMS tal como se describe en [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+<div class="alert alert-warning">
+  <p>En la etapa Beta, los releases deben estar relacionados al <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">CMS</a> porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el <strong>Releases</strong>, se debe configurar el CMS tal como se describe en <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.</p>
+</div>
 
 ## Vista por mes
 
 La imagen a continuación muestra la vista por mes y señala qué puedes hacer en esta interfaz:
 
-![releases-calendar-monthly-view-es](https://images.ctfassets.net/alneenqid6w5/BQCF0b8kNzGTOv06wCOde/8b589697f708bf34d7eac2b15c832b67/releases-calendar-monthly-view-es.png)
+![releases-calendar-monthly-view-es](//images.ctfassets.net/alneenqid6w5/BQCF0b8kNzGTOv06wCOde/8b589697f708bf34d7eac2b15c832b67/releases-calendar-monthly-view-es.png)
 
 En esta pantalla, puedes:
 
@@ -52,7 +56,7 @@ En esta pantalla, puedes:
 
 La imagen a continuación muestra la vista por semana y señala qué puedes hacer en esta interfaz:
 
-![releases-calendar-weekly-view-es](https://images.ctfassets.net/alneenqid6w5/QHZDKB0IX07GLoEO84NJv/56000b0f86260f9e461695eab592be75/releases-calendar-weekly-view-es.png)
+![releases-calendar-weekly-view-es](//images.ctfassets.net/alneenqid6w5/QHZDKB0IX07GLoEO84NJv/56000b0f86260f9e461695eab592be75/releases-calendar-weekly-view-es.png)
 
 En esta pantalla, puedes:
 
@@ -70,7 +74,7 @@ En esta pantalla, puedes:
 
 La imagen a continuación muestra la vista por día y señala qué puedes hacer en esta interfaz:
 
-![daily view v2 es](https://images.ctfassets.net/alneenqid6w5/5dwgo1qqTYNFMKV4sBNW0Q/91fa4db8315a31fdf1187edf74e19d61/daily_view_v2_es.png)
+![daily view v2 es](//images.ctfassets.net/alneenqid6w5/5dwgo1qqTYNFMKV4sBNW0Q/91fa4db8315a31fdf1187edf74e19d61/daily_view_v2_es.png)
 
 Además de ver información sobre el release, en esta pantalla, puedes:
 

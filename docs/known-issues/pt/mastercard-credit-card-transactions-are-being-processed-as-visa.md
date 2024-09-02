@@ -18,7 +18,9 @@ internalReference: 1026263
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Algumas transações estão sendo registradas erroneamente sob a marca Visa, quando na verdade os cartões são Mastercard. Esse problema ocorre especificamente com cartões novos, embora possamos verificar se o BIN do cartão corresponde corretamente ao regex do validador para a marca correta.

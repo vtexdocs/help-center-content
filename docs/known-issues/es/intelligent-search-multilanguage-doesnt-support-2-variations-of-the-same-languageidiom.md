@@ -3,8 +3,8 @@ title: 'La búsqueda inteligente multilingüe no admite 2 variaciones del mismo 
 id: 2Qr9uJWwlr20NG29VU4tn2
 status: PUBLISHED
 createdAt: 2023-06-09T20:41:32.227Z
-updatedAt: 2023-06-09T20:41:32.884Z
-publishedAt: 2023-06-09T20:41:32.884Z
+updatedAt: 2024-08-28T17:03:13.933Z
+publishedAt: 2024-08-28T17:03:13.933Z
 firstPublishedAt: 2023-06-09T20:41:32.884Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -18,16 +18,19 @@ internalReference: 841704
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
-Si utilizamos más de una configuración regional en la cuenta, la traducción se realizará en función del idioma al que se refiera la configuración regional y si utilizamos más de una configuración regional en la cuenta, la traducción se realizará en función del idioma al que se refiera la configuración regional.
+Si utilizamos más de una configuración regional en la cuenta, la traducción se realizará en función del idioma al que se refiera la configuración regional, y si utilizamos más de una configuración regional en la cuenta, la traducción se realizará en función del idioma al que se refiera la configuración regional.
 
-Si tenemos dos variantes de localización diferentes para el mismo idioma (en-US y en-GB o en-CA), las traducciones en Búsqueda Inteligente no funcionarán correctamente porque consideraremos todas el mismo idioma, no tenemos en cuenta la variación.
+Cuando se utilizan dos variantes diferentes del mismo idioma (por ejemplo, `en-US` y `en-GB` o `en-CA`), las traducciones en la Búsqueda Inteligente no funcionarán correctamente porque las consideraremos todas como el mismo idioma (`english`). Sólo se utilizarán los valores de uno de ellos (normalmente el que aparece en primer lugar).
 
 Sólo hay dos excepciones:
-pt-BR y pt-PT
-es-ES y es-CA
+
+- `pt-BR` y `pt-PT`.
+- `es-ES` y `es-CA`.
 
 
 ##
@@ -35,7 +38,7 @@ es-ES y es-CA
 ## Simulación
 
 
-Si tienes una lista Binding con múltiples idiomas e intentas internacionalizar el mismo idioma no funcionará.
+Si tiene una lista Binding con varios idiomas e intenta utilizar la internacionalización para el mismo idioma raíz, no funcionará.
 
 
 
@@ -43,4 +46,8 @@ Si tienes una lista Binding con múltiples idiomas e intentas internacionalizar 
 
 
 N/A
+
+
+
+
 

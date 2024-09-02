@@ -18,7 +18,9 @@ internalReference: 384430
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los puntos finales de API Get Giftcard Transaction y Get GiftCard from GiftCard Provider siempre devuelven una respuesta vacía

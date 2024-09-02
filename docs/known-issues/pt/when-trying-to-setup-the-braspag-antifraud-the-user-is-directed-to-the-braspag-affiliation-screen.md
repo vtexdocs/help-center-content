@@ -18,7 +18,9 @@ internalReference: 334239
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Temos duas integrações internas com a Braspag, uma para a luta antifraude e outra para uma afiliação (ambas com o mesmo nome). Ao tentar clicar em anti-fraude para configurar, o usuário é direcionado para os campos de configuração de afiliação. Portanto, não é possível configurar o antifraude da Braspag através da UI Admin

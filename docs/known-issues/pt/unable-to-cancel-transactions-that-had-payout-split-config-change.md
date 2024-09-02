@@ -18,7 +18,9 @@ internalReference: 364382
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando há uma mudança na configuração, adicionando a divisão do pagamento, e isto faz com que novas transações tenham informações que antes não estavam disponíveis e agora serão utilizadas na operação de cancelamento, o que faz com que as transações criadas antes desta configuração não sejam canceladas.

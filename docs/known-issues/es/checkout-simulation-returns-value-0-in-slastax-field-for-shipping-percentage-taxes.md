@@ -1,5 +1,5 @@
 ---
-title: "La simulación de pago devuelve el valor 0 en el campo 'slas.tax' para los impuestos del porcentaje de envío."
+title: 'La simulación de pago devuelve el valor 0 en el campo "slas.tax" para los impuestos del porcentaje de envío.'
 id: 54Mtsj8EKuo0SaQCoWyYzj
 status: PUBLISHED
 createdAt: 2024-04-05T18:55:32.183Z
@@ -18,7 +18,9 @@ internalReference: 1012724
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los impuestos del porcentaje de envío no se devuelven en el campo `logisticsInfo.slas.tax` al realizar una simulación de pago aunque la información de los impuestos individuales esté disponible en el campo `items.priceTags`.

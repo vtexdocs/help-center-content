@@ -18,7 +18,9 @@ internalReference: 637586
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O desconto final no carrinho de compras não é correto quando um More for Less promotion está sendo aplicado ao lado de uma promoção regular. O desconto é maior do que o esperado.

@@ -25,7 +25,9 @@ Besides strengthening the relationship between suppliers and resellers, this sce
 
 The most suitable way to use rebates received from suppliers is through [Regular Promotions](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) with usage restrictions enforcement. Learn more about the Regular Promotions possibilities in our article [Promotion examples](https://help.vtex.com/en/tutorial/promotion-examples--5A8UTc7knvAscxo7e7rMFD).
 
->⚠️ The customer can eventually cancel the purchase of an order with a rebate discount. In this case, you have to redirect the discount to another client to reach the total number of credits. To check whether the rebate has been applied to an order, use the <a href = "https://developers.vtex.com/vtex-developer-docs/reference/user-orders#userorderslist">Retrieve User's orders</a> or [Get Order](https://developers.vtex.com/vtex-developer-docs/reference/orders#getorder) endpoints from the Orders API.
+<div class = "alert alert-warning">
+  <p>The customer can eventually cancel the purchase of an order with a rebate discount. In this case, you have to redirect the discount to another client to reach the total number of credits. To check whether the rebate has been applied to an order, use the <a href = "https://developers.vtex.com/vtex-developer-docs/reference/user-orders#userorderslist">Retrieve User's orders</a> or <a href="https://developers.vtex.com/vtex-developer-docs/reference/orders#getorder">Get Order</a> endpoints from the Orders API.</p>
+</div>
 
 ## Example
 

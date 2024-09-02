@@ -18,7 +18,9 @@ internalReference: 953285
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o SNO (Shipping Notification Order) aceita que um número de fatura (invoiceNumber) seja enviado via API e UI com um "caractere especial" no final ou no início dos dados, por exemplo: "#123456".

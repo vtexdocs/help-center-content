@@ -82,11 +82,11 @@ _`Ex1:` promoção de 10% de desconto para determinada categoria_
 
 _`Ex2:` SKU X está R$ 10,00 na política comercial usada na CNova/Via Varejo e tem um preço fixo de R$ 15,00 para essa mesma política. A integração enviará R$ 15,00._
 
->⚠️ OBS: como a forma de pagamento é feita no marketplace, as regras de pagamento são determinadas por ele. Por conta disto, não conseguimos enviar preços diferenciados em função da forma de pagamento.
->
->
-> 
-> *Ex: se na VTEX existem juros configurados para pagamentos parcelados, o preço enviado continuará sendo o que a simulação de fulfillment retorna.*
+<div class="alert alert-warning">
+OBS: como a forma de pagamento é feita no marketplace, as regras de pagamento são determinadas por ele. Por conta disto, não conseguimos enviar preços diferenciados em função da forma de pagamento.
+<br />
+<em>Ex: se na VTEX existem juros configurados para pagamentos parcelados, o preço enviado continuará sendo o que a simulação de fulfillment retorna.</em>
+</div>
 
 ## 4. Promoções
 
@@ -111,19 +111,15 @@ Quando um pedido é feito no marketplace existem alguns pontos que influenciam e
 
 Nesta integração existem dois pontos que influenciarão na entrega: __Cálculo do Frete__ e o __Tempo de Preparo de Envio__. O somatório dos dois será o __Tempo de Entrega Total__.
 
->ℹ️ Ex:
->
->
-> 
-> Frete Normal = 3 dias
->
->
-> 
-> Tempo de Custo = 2 dias
->
->
-> 
-> Tempo Total de Entrega = 5 dias
+<div class="alert alert-info">
+Ex:
+<br />
+Frete Normal = 3 dias
+<br />
+Tempo de Custo = 2 dias
+<br />
+Tempo Total de Entrega = 5 dias
+</div>
 
 - __Frete__
 
@@ -135,78 +131,46 @@ O lojista tem também a possibilidade de cadastrar na CNova/Via Varejo uma __tab
 
 O tempo de preparo de envio é baseado no somatório do  campo `Tempo de custo` no Estoque com o `Tempo de Custo` na Doca. E nós enviamos o mesmo tempo de preparo massivamente para todos os produtos.
 
->ℹ️ Ex:
->
->
-> 
-> **Estoque A**
->
->
-> 
-> - Doca 1: Tempo de Custo = 3 dias
->
->
-> 
-> **Estoque B**
->
->
-> 
-> - Doca 1: Tempo de Custo = 5 dias
->
->
-> 
->
->
-> 
-> **Doca 1:**
->
->
-> 
-> - Tempo de Custo = 2 dias
->
->
-> 
->
->
-> 
-> Um pedido com Tempo de Frete = 3 dias, ficará com um Tempo Total de Entrega diferente dependendo de onde o produto sairá.
->
->
-> 
->
->
-> 
-> **Saindo do estoque A:**
->
->
-> 
-> - Tempo de preparo = 3 + 2 (doca 1) = 5 dias
->
->
-> 
-> - Tempo de frete = 3 dias
->
->
-> 
-> - Tempo total de entrega = 8 dias
->
->
-> 
-> **Saindo do estoque B:**
->
->
-> 
-> - Tempo de preparo = 5 + 2 (doca 1) = 7 dias
->
->
-> 
-> - Tempo de frete = 3 dias
->
->
-> 
-> - Tempo total de entrega = 10 dias
+<div class="alert alert-info">
+Ex:
+<br />
+<strong>Estoque A</strong>
+<br />
+- Doca 1: Tempo de Custo = 3 dias
+<br />
+<strong>Estoque B</strong>
+<br />
+- Doca 1: Tempo de Custo = 5 dias
+<br />
+<br />
+<strong>Doca 1:</strong>
+<br />
+- Tempo de Custo = 2 dias
+<br />
+<br />
+Um pedido com Tempo de Frete = 3 dias, ficará com um Tempo Total de Entrega diferente dependendo de onde o produto sairá.
+<br />
+<br />
+<strong>Saindo do estoque A:</strong>
+<br />
+- Tempo de preparo = 3 + 2 (doca 1) = 5 dias
+<br />
+- Tempo de frete = 3 dias
+<br />
+- Tempo total de entrega = 8 dias
+<br />
+<strong>Saindo do estoque B:</strong>
+<br />
+- Tempo de preparo = 5 + 2 (doca 1) = 7 dias
+<br />
+- Tempo de frete = 3 dias
+<br />
+- Tempo total de entrega = 10 dias
+</div>
 
->⚠️ OBS: no caso de usar a tabela de contingência para fazer o cálculo do frete, a CNova não consulta a VTEX. Desta forma, o único fator que será levado em consideração para o **Tempo Total de Entrega**, será o **Frete** fornecido por eles, ignorando o **Tempo de Preparo**. Deve-se tomar cuidado com isto, pois pode gerar divergências no **Tempo Total de Entrega**.
+<div class="alert alert-warning">
+OBS: no caso de usar a tabela de contingência para fazer o cálculo do frete, a CNova não consulta a VTEX. Desta forma, o único fator que será levado em consideração para o <strong>Tempo Total de Entrega</strong>, será o <strong>Frete</strong> fornecido por eles, ignorando o <strong>Tempo de Preparo</strong>. Deve-se tomar cuidado com isto, pois pode gerar divergências no <strong>Tempo Total de Entrega</strong>.
+</div>
 
 #### Preço e disponibilidade:
 

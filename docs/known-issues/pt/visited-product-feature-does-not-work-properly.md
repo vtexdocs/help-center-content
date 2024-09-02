@@ -1,5 +1,5 @@
 ---
-title: " O recurso 'Produto visitado' não funciona corretamente"
+title: ' O recurso "Produto visitado" não funciona corretamente'
 id: 5AiCVwLkGToEgtLkZVPe5i
 status: PUBLISHED
 createdAt: 2022-11-25T18:45:15.389Z
@@ -18,7 +18,9 @@ internalReference: 701169
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O gatilho do produto visitado, que utiliza os dados capturados por Request Capture, é configurado com o filtro "checkout" definido como "nulo". Entretanto, a Request Capture precisa passar pelo checkout para capturar os dados do usuário e de navegação e preenchê-los nos Dados Mestres. Como resultado, o gatilho não funciona corretamente porque o RC não pode preencher os dados antes do checkout.

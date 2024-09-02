@@ -53,4 +53,6 @@ Isso significa que, caso o lojista queira receber o valor total de uma compra as
 
 Assim, o lojista tem a possibilidade de gerenciar melhor seu fluxo de caixa em momentos de queda de receita, por exemplo.
 
->⚠️ O limite máximo que o lojista pode receber em uma única transferência é de R$ 50.000,00 (cinquenta mil reais). Caso seja necessário retirar um valor maior que este limite, duas ou mais transferências devem ser realizadas.
+<div class="alert alert-warning">
+  O limite máximo que o lojista pode receber em uma única transferência é de R$ 50.000,00 (cinquenta mil reais). Caso seja necessário retirar um valor maior que este limite, duas ou mais transferências devem ser realizadas.
+  </div>

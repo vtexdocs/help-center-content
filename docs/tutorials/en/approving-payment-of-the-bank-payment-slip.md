@@ -25,13 +25,17 @@ This approval can be done manually through the Orders Management module as shown
 2. Click on the transaction.
 3. Click on **Notify Payment** button.
 
-![NotificarEN](https://images.ctfassets.net/alneenqid6w5/19t11NnJzs40wGQqkaeKIu/1d7fee23772ca875bccb59286859c415/NotificarEN.png)
+![NotificarEN](//images.ctfassets.net/alneenqid6w5/19t11NnJzs40wGQqkaeKIu/1d7fee23772ca875bccb59286859c415/NotificarEN.png)
 
 **After approval of the payment, the order will go through the normal purchase flow.**
 
->ℹ️ In the Account management module, the user must have a role that includes the `Notify payment` permission to be able to approve payments.
+<div class="alert alert-info">
+In the Account management module, the user must have a role that includes the <code>Notify payment</code> permission to be able to approve payments.
+</div>
 
 To approve payments through API, check the [documentation about the payment notification request](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/payments/-paymentId-/payment-notification).
 
->⚠️ Since [ERP integrations](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) are governed by the [orders flow](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#), manually approving a payment will continue the integration of this order with the store’s back office as usual. Therefore, caution is recommended when approving payments manually, in order to ensure that every order that is processed and shipped is received.
+<div class="alert alert-warning">
+Since <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">ERP integrations</a> are governed by the <a href="https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#">orders flow</a>, manually approving a payment will continue the integration of this order with the store’s back office as usual. Therefore, caution is recommended when approving payments manually, in order to ensure that every order that is processed and shipped is received.
+</div>
 

@@ -14,4 +14,6 @@ locale: en
 legacySlug: how-to-find-google-tag-manager-pixel
 ---
 
->⚠️ This content is only available in Portuguese.
+<div class="alert alert-warning">
+  <p>This content is only available in Portuguese.</p>
+</div>

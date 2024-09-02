@@ -18,7 +18,9 @@ internalReference: 677937
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A API de pesquisa inteligente não está retornando a ordem esperada das variações de SKU para um produto na pesquisa e nas prateleiras

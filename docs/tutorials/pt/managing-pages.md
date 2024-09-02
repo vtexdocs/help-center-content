@@ -19,7 +19,7 @@ No **Headless CMS**, você pode gerenciar todas as rotas de URL e modelos de pá
 
 ## Visão geral
 
-![Novas páginas ](https://images.ctfassets.net/alneenqid6w5/7cftK7sS2epeqGjY6m0Cmj/5e6068b5ae50645a857916be2d6e7caa/novas_pgs._pt.png)
+![Novas páginas ](//images.ctfassets.net/alneenqid6w5/7cftK7sS2epeqGjY6m0Cmj/5e6068b5ae50645a857916be2d6e7caa/novas_pgs._pt.png)
 
 | Opção               | Descrição                                              |
 | ------------------- | ------------------------------------------------------ |
@@ -34,13 +34,15 @@ No **Headless CMS**, você pode gerenciar todas as rotas de URL e modelos de pá
 Para criar e gerenciar uma página, siga estas etapas:
 
 1. No Admin VTEX, acesse **Headless CMS**.
->⚠️ Certifique-se de estar no projeto correto. Caso contrário, vá até o menu **Projeto** no canto superior esquerdo, selecione o nome do projeto em que deseja criar a página e continue no passo 2.
+<div class="alert alert-warning">
+  Certifique-se de estar no projeto correto. Caso contrário, vá até o menu <b>Projeto</b> no canto superior esquerdo, selecione o nome do projeto em que deseja criar a página e continue no passo 2.
+</div>
 2. Clique em `Criar documento` e selecione o tipo de página desejado. 
 
 3. Em `Untitled`, nomeie a página.
 
 4. Clique em **Seções** e selecione a seção desejada.
-![Gif - páginas disponíveis](https://images.ctfassets.net/alneenqid6w5/1JOLEO3RErUiJ8AYroKwTe/3934fab358660137fdd190830e77dc80/Portugu__s_gif_das_paginas.gif)
+![Gif - páginas disponíveis](//images.ctfassets.net/alneenqid6w5/1JOLEO3RErUiJ8AYroKwTe/3934fab358660137fdd190830e77dc80/Portugu__s_gif_das_paginas.gif)
 5. Adicione mais seções, se necessário, e preencha-as.
 
 6. Clique em `Publicar`.

@@ -15,11 +15,9 @@ legacySlug: fromto-of-payment-means-on-webservice
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---
 
->❗ Atenção: only the SOAP methods relevent to the **catalog** are valid.
->
-> **All other methods are deprecated.**
->
-> Use the equivalent REST APIs avilable in our [Developer Docs](//help.vtex.com/developer-docs/).
+<div class="alert alert-danger"><p>Atenção: only the SOAP methods relevent to the <strong>catalog</strong> are valid.</p>
+<p><strong>All other methods are deprecated.</strong></p>
+<p>Use the equivalent REST APIs avilable in our <a href="//help.vtex.com/developer-docs/">Developer Docs</a>.</p></div>
 
 The payments Web Service uses some codes for each form of payment available in the PCI Gateway area. The code for each payment is fixed, and does not depend on the integrator.
 

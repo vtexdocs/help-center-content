@@ -19,7 +19,9 @@ __Device Fingerprint__ is an identifier that acts in payment processing to impro
 
 By collecting non-sensitive data, Device Fingerprint identifies and analyzes the security level of the device used to perform a given transaction. It also analyzes transactions previously performed with that device.
 
->ℹ️ Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before proceeding with the steps below.
+<div class="alert alert-info">
+Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before proceeding with the steps below.
+</div>
 
 This article will explain how to associate the Device Fingerprint feature with the Mercado Pago affiliation.
 
@@ -61,13 +63,13 @@ To ensure the Device Fingerprint feature is operating properly, you must analyze
 4. Click on __+ Information__.
 5. Search for the __deviceFingerprint__ field and check if the code starts with the word armor, as illustrated below.
 
-![Device Fingerprint Armor](https://images.ctfassets.net/alneenqid6w5/2py5aLnSL2AZD9U29Bj9Nw/e4183659ac15c29fec5611d96b0b1b52/DEVICEFINGERPRINTARMOR.png)
+![Device Fingerprint Armor](//images.ctfassets.net/alneenqid6w5/2py5aLnSL2AZD9U29Bj9Nw/e4183659ac15c29fec5611d96b0b1b52/DEVICEFINGERPRINTARMOR.png)
 
 <ui>
 6. Then, send the transaction ID to the Mercado Pago support team. You can find this ID in the <b>authorizationConnectorResponse</b> field.
   </ui>
 
-![Authorization](https://images.ctfassets.net/alneenqid6w5/5FTRfpgGc7HJZUNaZicEb4/1d84e9df5bb987aa4b3acf9a0f1904e1/AUTHORIZATION.png)
+![Authorization](//images.ctfassets.net/alneenqid6w5/5FTRfpgGc7HJZUNaZicEb4/1d84e9df5bb987aa4b3acf9a0f1904e1/AUTHORIZATION.png)
 
 <ui>
 7. Copy the ID and <a href=https://www.mercadopago.com.br/developers/en/support>send an email</a> with this information to Mercado Pago requesting them to validate the transaction. 

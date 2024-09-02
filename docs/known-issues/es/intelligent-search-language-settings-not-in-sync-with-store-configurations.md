@@ -18,7 +18,9 @@ internalReference: 990343
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El idioma principal de la Búsqueda Inteligente no se actualiza automáticamente según la política comercial y la configuración de vinculación, lo que hace que no esté sincronizado.

@@ -30,7 +30,7 @@ In the VTEX Admin, follow the steps below.
 4.	Fill out the product form fields. For more on what each field means, read our article on [product registration fields](https://help.vtex.com/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke).
 5.	Click on `Save` or `Save and add new SKU`, in case you want to add SKUs associated to that product. 
 
-![Catalogo - Cadastrar produto EN.gif?h=250](https://images.ctfassets.net/alneenqid6w5/4Egs4EQBhRUeVCGRvIyNE2/0a89b7d303c4b2a67a686bd9d696bff4/Catalogo_-_Cadastrar_produto_EN.gif_h_250)
+![Catalogo - Cadastrar produto EN.gif?h=250](//images.ctfassets.net/alneenqid6w5/4Egs4EQBhRUeVCGRvIyNE2/0a89b7d303c4b2a67a686bd9d696bff4/Catalogo_-_Cadastrar_produto_EN.gif_h_250)
 
 ## Spreadsheet
 
@@ -40,4 +40,6 @@ We recommend that you add products and SKUs together when using a spreadsheet. Y
 
 To add a new product via API use the [Create Product](https://developers.vtex.com/vtex-rest-api/reference/post-product) request. 
 
->ℹ️ If your product does not appear on your store's website after you have created it, check out the article [Why is the product not shown on the website?](https://help.vtex.com/pt/faq/why-is-the-product-not-shown-on-the-website--frequentlyAskedQuestions_382) to understand how to solve this problem.
+<div class="alert alert-info">
+If your product does not appear on your store's website after you have created it, check out the article <a href="https://help.vtex.com/pt/faq/why-is-the-product-not-shown-on-the-website--frequentlyAskedQuestions_382">Why is the product not shown on the website?</a> to understand how to solve this problem.
+</div>

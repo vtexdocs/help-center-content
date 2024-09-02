@@ -18,7 +18,9 @@ internalReference: 304586
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Busca API que não funciona corretamente após o login no uso do Call Center Operator.

@@ -18,7 +18,9 @@ internalReference: 561921
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao renderizar altas resoluções, o seletor de quantidade não funciona.

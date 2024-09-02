@@ -20,15 +20,21 @@ Uma das possibilidades de customização do inStore é alterar o campo de [Obser
 
 Uma vez habilitada, essa customização exibe o campo `Vendor` no topo da página e adiciona uma etapa ao fluxo de compra. Agora, antes do Shipping, o vendedor precisa obrigatoriamente identificar a venda com o seu código.
 
->❗ **Atenção**: neste caso, não é possível finalizar uma venda sem preencher o campo `Vendor` com código do vendedor.
+<div class="alert alert-danger">
+<strong>Atenção</strong>: neste caso, não é possível finalizar uma venda sem preencher o campo <code>Vendor</code> com código do vendedor.
+</div>
 
 ## Editando o arquivo Javascript
 
 Para habilitar o código do vendedor, é preciso fazer uma alteração no código JavaScript `checkout-instore-custom.js` salvo no painel administrativo da VTEX.
 
->⚠️ É **expressamente recomendável** que o responsável pela modificação no código seja uma pessoa com **experiência em programação**.  
+<div class="alert alert-warning">
+É <strong>expressamente recomendável</strong> que o responsável pela modificação no código seja uma pessoa com <strong>experiência em programação</strong>. 
+</div>  
 
->ℹ️ O código do vendedor é habilitado **apenas** por JavaScript.
+<div class="alert alert-info">
+O código do vendedor é habilitado <strong>apenas</strong> por JavaScript.
+</div>
 
 Primeiro, faça as configurações descritas no artigo [Habilitar campo de observação na tela do pedido](https://help.vtex.com/pt/tracks/instore-customizacoes--1z9kBm12oBPyVNDo1ivVc2/8Aj21R8bll0tdrxHWjVOs).
 
@@ -36,7 +42,7 @@ Depois de seguir essas recomendações, acesse o módulo __Configurações da lo
 
 Do lado direito da tela, você verá o arquivo `checkout-instore-custom.js`. 
 
-![vendorcode](https://images.ctfassets.net/alneenqid6w5/ZvQVCvlacD2AYf9eHKcxl/53885297fc0e0882178a6230815b2b6e/vendorcode.PNG)
+![vendorcode](//images.ctfassets.net/alneenqid6w5/ZvQVCvlacD2AYf9eHKcxl/53885297fc0e0882178a6230815b2b6e/vendorcode.PNG)
 
 Acesse-o e adicione o seguinte trecho ao objeto `window.INSTORE_CONFIG`:
 
@@ -50,13 +56,15 @@ window.INSTORE_CONFIG = {
 }
 ```
 
->❗ Não remova nenhuma das outras propriedades do objeto `window.INSTORE_CONFIG`. Caso contrário, outras funcionalidades da sua loja podem ser quebradas. Além disso, lembre-se que o código acima é apenas uma possibilidade de configuração.
+<div class="alert alert-danger">
+Não remova nenhuma das outras propriedades do objeto <code>window.INSTORE_CONFIG</code>. Caso contrário, outras funcionalidades da sua loja podem ser quebradas. Além disso, lembre-se que o código acima é apenas uma possibilidade de configuração. 
+</div>
 
 Cada responsável deve preencher as propriedades do objeto `window.INSTORE_CONFIG_` de acordo com o funcionamento esperado da customização para a sua loja. 
 
 Por fim, finalize clicando no botão azul __Salvar__ localizado no topo da página.
 
-![vendorcode2](https://images.ctfassets.net/alneenqid6w5/59lZVji41rXxNjVXhwC6Ae/76513fc455650813e5740e68882421dd/vendorcode2.PNG) 
+![vendorcode2](//images.ctfassets.net/alneenqid6w5/59lZVji41rXxNjVXhwC6Ae/76513fc455650813e5740e68882421dd/vendorcode2.PNG) 
 
 ## Entendendo as propriedades
 

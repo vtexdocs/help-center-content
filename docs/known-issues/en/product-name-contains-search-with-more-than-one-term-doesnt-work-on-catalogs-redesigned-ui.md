@@ -1,5 +1,5 @@
 ---
-title: "'Product name contains' search with more than one term doesn't work on catalog's redesigned UI"
+title: ""Product name contains" search with more than one term doesn't work on catalog's redesigned UI"
 id: 2kI6ab0kdpLG6m63ETGGqf
 status: PUBLISHED
 createdAt: 2024-06-05T13:38:38.836Z

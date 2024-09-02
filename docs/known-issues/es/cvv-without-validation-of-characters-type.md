@@ -18,7 +18,9 @@ internalReference: 425204
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En el momento de la compra, pedimos la información de la tarjeta de crédito y sólo permitimos que el cliente escriba números en el campo Número de tarjeta, y sólo letras en el campo Nombre del propietario de la tarjeta. Sin embargo, no hacemos una validación similar para el campo CVV, permitiendo que el cliente escriba letras en este campo

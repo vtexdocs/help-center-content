@@ -3,8 +3,8 @@ title: 'Como funciona a concorrência de promoções'
 id: tutorials_2270
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:27.997Z
-updatedAt: 2023-11-14T16:52:38.320Z
-publishedAt: 2023-11-14T16:52:38.320Z
+updatedAt: 2024-08-23T16:45:30.591Z
+publishedAt: 2024-08-23T16:45:30.591Z
 firstPublishedAt: 2017-04-27T23:03:50.791Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -82,9 +82,10 @@ Todavia, elas incidem no valor já descontado pela promoção que ganhou a conco
 
 Logo, a sequência de aplicação é:
 
-![promocao3 PT](https://images.ctfassets.net/alneenqid6w5/1LKDzbLkhua8Gk284SEwsk/997fdac9b6380c68a729bf4d48e20af8/promocao3_PT.png)
+![promocao3 PT](//images.ctfassets.net/alneenqid6w5/1LKDzbLkhua8Gk284SEwsk/997fdac9b6380c68a729bf4d48e20af8/promocao3_PT.png)
 
->⚠️ Pedidos de origem [Marketplace](https://help.vtex.com/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406) e Fulfillment não reconhecem acúmulo de promoção, uma vez que o uso de promoções em Marketplaces VTEX ou externos é restrito a alguns tipos específicos.
+<div class="alert alert-warning">
+Pedidos de origem <a href="https://help.vtex.com/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406">Marketplace</a> e Fulfillment não reconhecem acúmulo de promoção, uma vez que o uso de promoções em Marketplaces VTEX ou externos é restrito a alguns tipos específicos.</div>
 
 ## Estratégias de concorrência de promoções
 
@@ -99,7 +100,8 @@ Veja a seguir as duas estratégias de concorrência de promoções:
 - [Concorrência por cenário](#concorrencia-por-cenario)
 - [Concorrência por item](#concorrencia-por-item)
 
->ℹ️ Por padrão, todas as contas seguem a estratégia de concorrência por cenário. Caso o modelo de concorrência por item atenda melhor suas necessidades de negócio, [abra um chamado com nosso time de suporte](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) e solicite a mudança.
+<div class="alert alert-info">
+Por padrão, todas as contas seguem a estratégia de concorrência por cenário. Caso o modelo de concorrência por item atenda melhor suas necessidades de negócio, <a href="https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM">abra um chamado com nosso time de suporte</a> e solicite a mudança.</div>
 
 ### Concorrência por cenário
 

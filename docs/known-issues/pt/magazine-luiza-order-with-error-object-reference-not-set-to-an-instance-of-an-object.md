@@ -1,5 +1,5 @@
 ---
-title: "[Ordem com erro 'Referência do objeto não definida para uma instância de um objeto'."
+title: '[Ordem com erro "Referência do objeto não definida para uma instância de um objeto".'
 id: 72w2GWNOlosoOHhs1ip4dl
 status: PUBLISHED
 createdAt: 2023-03-23T20:11:55.897Z
@@ -18,7 +18,9 @@ internalReference: 777298
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Algumas ordens não foram criadas em OMS+Bridge e no log mostra erro: "Referência de objeto não definida para uma instância de um objeto".

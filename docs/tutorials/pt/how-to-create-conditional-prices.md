@@ -15,8 +15,9 @@ legacySlug: criar-precos-condicionais
 subcategory: 
 ---
 
->⚠️ **Nota: **
-> Só é possivel criar Preços Condicionais caso você tenha instalado a app **Conditions Builder** e tenha criado alguma condição. (Veja o artigo [Como usar o Conditions Builder app](http://help.vtex.com/pt/tutorial/como-usar-o-conditions-builder-app))
+<div class="alert alert-warning"><strong>Nota: </strong>
+Só é possivel criar Preços Condicionais caso você tenha instalado a app <strong>Conditions Builder</strong> e tenha criado alguma condição. (Veja o artigo <a href="http://help.vtex.com/pt/tutorial/como-usar-o-conditions-builder-app">Como usar o Conditions Builder app</a>)
+</div>
 
 Preços condicionais são administrados no módulo de preços.
 
@@ -33,4 +34,4 @@ Segue abaixo um passo a passo de como usar esses Preços Condicionais :
 6. Você pode definir uma pequena mensagem, chamada *Teaser*, pra promover essa condição ao seu cliente. (Para entender melhor, veja [Teasers - Em breve])
 7. Salve.
 
-![conditionalPrice](https://images.ctfassets.net/alneenqid6w5/3HJkZntAaQEOoCywOS2Sqo/09869666842b78db00d1dc0ab94ca965/conditionalPrice.gif)
+![conditionalPrice](//images.ctfassets.net/alneenqid6w5/3HJkZntAaQEOoCywOS2Sqo/09869666842b78db00d1dc0ab94ca965/conditionalPrice.gif)

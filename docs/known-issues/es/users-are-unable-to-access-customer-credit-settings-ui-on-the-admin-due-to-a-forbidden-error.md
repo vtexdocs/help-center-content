@@ -18,7 +18,9 @@ internalReference: 380931
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los usuarios no pueden acceder a la interfaz de usuario de configuración de crédito de cliente en el Admin y hemos observado el siguiente error "Prohibido" en la operación SettingQueries.

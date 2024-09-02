@@ -24,7 +24,9 @@ Podemos dividir esse recurso em duas partes:
 1. **Página de Comparação**: Onde o usuário visualizará a comparação dos produtos selecionados na vitrine.
 2. **Vitrine**: Onde o usuário selecionará os produtos a serem comparados.
 
->⚠️ A comparação de produtos não é aplicável na página inicial do site.
+<div class = "alert alert-warning">
+  <p>A comparação de produtos não é aplicável na página inicial do site.</p>
+</div>
 
 ## Configuração
 

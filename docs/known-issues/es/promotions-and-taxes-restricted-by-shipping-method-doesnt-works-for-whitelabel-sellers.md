@@ -18,7 +18,9 @@ internalReference: 315485
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las promociones e impuestos restringidos por métodos de envío no funcionan para los Vendedores de Marca Blanca. No se aplicarán en la solicitud de simulación (utilizada para el carrito y el pago) porque la solicitud de marketplace no especifica la `selectedSla`, por lo que sus valores no se presentarán al usuario.

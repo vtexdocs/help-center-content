@@ -18,7 +18,9 @@ internalReference: 332740
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En Checkout v5, en un escenario específico, la página se atasca en una carga infinita, y en la consola, podemos ver el error: "Uncaught SyntaxError: Unexpected token u in JSON at position 0 at JSON.parse (<anonymous>)".

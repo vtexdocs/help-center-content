@@ -15,7 +15,9 @@ legacySlug: setting-up-the-logistics-for-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
->ℹ️ Warning: This documentation is being updated to reflect the concept change from Dashboards to [shipping strategy](https://help.vtex.com/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl).
+<div class="alert alert-info">
+Warning: This documentation is being updated to reflect the concept change from Dashboards to <a href="https://help.vtex.com/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">shipping strategy</a>.
+</div>
 
 
 In order for inStore to work properly, you should create a specific logistics configuration. inStore must be configured with a __pickup point__. The process registering this pickup point consists of two steps:

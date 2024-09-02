@@ -20,7 +20,9 @@ Sus clientes pueden comprar con Apple Pay, la [cartera digital](/es/faq/que-es-u
 - Tener cuenta en `developer.apple.com`.
 - Tener contrato con un gateway que procese pagos con Apple Pay.
 
->⚠️ Actualmente, Apple Pay solo funciona en los sistemas operativos MacOs e IOS, y en el navegador Safari. Para obtener más información, vaya a [Dispositivos compatibles con Apple Pay](https://support.apple.com/es-es/HT208531).
+<div class="alert alert-warning">
+  Actualmente, Apple Pay solo funciona en los sistemas operativos MacOs e IOS, y en el navegador Safari. Para obtener más información, vaya a <a href="https://support.apple.com/es-es/HT208531">Dispositivos compatibles con Apple Pay</a>.
+</div>
 
 ## Configurar proveedor de pago
 

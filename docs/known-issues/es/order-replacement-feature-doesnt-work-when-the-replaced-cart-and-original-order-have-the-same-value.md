@@ -18,7 +18,9 @@ internalReference: 866622
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La característica de reemplazo de pedidos no funciona cuando el carrito reemplazado tiene el mismo valor que el pedido original, y el sistema de pago es "Reutilizar Pago".

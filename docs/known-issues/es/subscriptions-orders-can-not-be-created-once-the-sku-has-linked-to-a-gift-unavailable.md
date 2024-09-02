@@ -18,7 +18,9 @@ internalReference: 395965
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Existe la condición de que los Pedidos desde Suscripción no se pueden crear porque están vinculados a un **regalo no disponible**, aunque los artículos de una suscripción estén disponibles.

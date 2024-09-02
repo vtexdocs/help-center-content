@@ -23,7 +23,9 @@ A continuación se indican los pasos necesarios para acceder a la página:
 1. En el Admin VTEX, accede a **Storefront**, o escribe **Storefront** en la barra de búsqueda en la parte superior de la página.
 2. En __Intelligent Search__, haz clic en __Analytics__. 
 
->ℹ️ La página **Analytics** es nativa en VTEX Intelligent Search. No se puede deshabilitar en el Admin.
+<div class = "alert alert-info">
+  <p>La página <strong>Analytics</strong> es nativa en VTEX Intelligent Search. No se puede deshabilitar en el Admin.</p>
+</div>
 
 ## Datos
 
@@ -38,7 +40,9 @@ Los datos que componen el informe se actualizan cada 4 horas y contienen la sigu
 *   **Pedidos**: número de pedidos realizados desde la búsqueda. Para calcular esta métrica, consideramos que la búsqueda genera un pedido cada vez que, después buscar un término, el cliente hace clic en algún producto que aparece en los resultados y luego compra cualquier producto (no necesariamente el producto en el que hizo clic). 
 *   **Ventas**: ingresos totales generados por los pedidos realizados a partir de la búsqueda. El cálculo sigue la misma lógica que la métrica de **Pedidos**, la diferencia es que el resultado refleja los ingresos en lugar del número de pedidos.
 
->ℹ️ Los datos mostrados en el informe se limitan a los 10 mil términos más buscados. Si deseas obtener los datos de búsqueda completos de tu tienda, tienes que [exportar el informe](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#exportacion).
+<div class="alert alert-info">
+  <p>Los datos mostrados en el informe se limitan a los 10 mil términos más buscados. Si deseas obtener los datos de búsqueda completos de tu tienda, tienes que <a href="https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#exportacion">exportar el informe</a>.</p>
+</div>
 
 Cuando se elige [exportar un informe](#exportacion), también existe la posibilidad de generarlo con las __métricas de embudo__. Si se selecciona esa opción, se agregarán 4 nuevas columnas al archivo:
 
@@ -69,12 +73,14 @@ Para exportar un informe en formato CSV, debe seguir los pasos que se indican a 
 5. Espere a que el archivo esté disponible para su descarga. Salir de esta página no interrumpe el proceso. 
 6. Haga clic en `Descargar`. 
 
->ℹ️ El archivo permanece disponible para descarga durante 48 horas.
+<div class = "alert alert-info">
+  <p>El archivo permanece disponible para descarga durante 48 horas.</p>
+</div>
 
 El informe CSV descargado tiene dos tablas. La primera tabla, que se muestra a continuación, contiene información sobre los términos de búsqueda y las métricas de embudo (desde la columna **ProductsClick** hasta la columna **ProductsSold**), si se ha seleccionado esa opción.
 
-![search-report-term](https://images.ctfassets.net/alneenqid6w5/5b8DWfBkXE9hZzugQ2LoaP/5910a3f67d31b5270841e5d4ef2f31bd/search-report-term.png)
+![search-report-term](//images.ctfassets.net/alneenqid6w5/5b8DWfBkXE9hZzugQ2LoaP/5910a3f67d31b5270841e5d4ef2f31bd/search-report-term.png)
 
 La segunda tabla, que se muestra a continuación, muestra los datos del periodo seleccionado, mostrando la columna **Date**, que indica la fecha de la búsqueda.
 
-![search-report-date](https://images.ctfassets.net/alneenqid6w5/1B1hwv5X36tvAv4Nt2Nxz1/50c65ac3ba4741c35fe820fd265b78de/search-report-date.png)
+![search-report-date](//images.ctfassets.net/alneenqid6w5/1B1hwv5X36tvAv4Nt2Nxz1/50c65ac3ba4741c35fe820fd265b78de/search-report-date.png)

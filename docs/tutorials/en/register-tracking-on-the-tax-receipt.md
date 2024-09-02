@@ -30,4 +30,6 @@ To register the tax receipt tracking, follow the steps below:
     - Carrier
 7. Click `Save Invoice`.
 
->ℹ️ You can change the [carrier](https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) associated with the order when registering the tax receipt tracking. To do so, in the **Order Tracking** section, click <i>Carrier</i> and select the desired option.
+<div class = "alert alert-info">
+You can change the <a href="https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE">carrier</a> associated with the order when registering the tax receipt tracking. To do so, in the <b>Order Tracking</b> section, click <i>Carrier</i> and select the desired option.
+</div>

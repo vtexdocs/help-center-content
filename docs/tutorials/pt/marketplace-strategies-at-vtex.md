@@ -17,7 +17,7 @@ subcategory: 4uqMnZjwBO04uWgCom8QiA
 
 Um marketplace é uma plataforma virtual por meio da qual diferentes vendedores anunciam seus produtos. Esses vendedores são chamados de sellers, que além de serem os donos dos produtos, muitas vezes são também os responsáveis pelo [processo de fulfillment do produto](https://help.vtex.com/pt/tutorial/fulfillment-logistics-vtex--53udnvI5eBy8DKo8FOjMoP).  
 
-![Estratégias de marketplace](https://images.ctfassets.net/alneenqid6w5/1XaGifpW4ztfRM3XIkiACS/a528c80c87b9e97b323f71f7608da296/Ecommerce_web_page-pana.png)
+![Estratégias de marketplace](//images.ctfassets.net/alneenqid6w5/1XaGifpW4ztfRM3XIkiACS/a528c80c87b9e97b323f71f7608da296/Ecommerce_web_page-pana.png)
 
 [A VTEX promove a colaboração digital](https://vtex.com/br-pt/marketplace/) em diferentes cenários. Você pode não apenas vender seus produtos em outros marketplaces, mas também vender produtos de outros sellers no seu ambiente, tornando-se um marketplace.
 
@@ -34,7 +34,9 @@ O sortimento de produtos enviados para um marketplace é definido na escolha da 
 
 A [contratação de políticas comerciais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) adicionais é realizada via ticket em nosso [suporte](https://help.vtex.com/pt/support), selecionando a opção **Comercial** e o tipo de solicitação Criação de Política Comercial. Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX.
 
->ℹ️ Pedidos aprovados em marketplaces estão sujeitos às mesmas [regras contratuais](https://help.vtex.com/pt/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt) de pedidos efetuados por outros canais.
+<div class="alert alert-info">
+Pedidos aprovados em marketplaces estão sujeitos às mesmas <a href="https://help.vtex.com/pt/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt">regras contratuais</a> de pedidos efetuados por outros canais.
+</div>
 
 Os próximos cenários abordados neste artigo são:  
 
@@ -70,7 +72,7 @@ A configuração da para [se tornar um marketplace VTEX](https://help.vtex.com/p
 
 Veja abaixo os principais marketplaces VTEX:  
 
-![mkt br](https://images.ctfassets.net/alneenqid6w5/6DB08TtDzQ0tuesrK1I1XU/d42c1c45fff7301eea1e2fe7160274b5/mkt_br.png)
+![mkt br](//images.ctfassets.net/alneenqid6w5/6DB08TtDzQ0tuesrK1I1XU/d42c1c45fff7301eea1e2fe7160274b5/mkt_br.png)
 
 Além disso, a página __Marketplaces e integrações__ promove e facilita o contato entre marketplaces VTEX e certificados com sellers VTEX interessados em colaborações.
 
@@ -107,7 +109,9 @@ Pode ser que sua loja queira vender em um marketplace que não possua conexão c
 
 Marketplaces certificados são aqueles cuja integração foi desenvolvida pelo time de desenvolvedores da VTEX. A política comercial adicional contratada para esse tipo de integração, está isenta da taxa mensal se houver pedidos atrelados à política através do marketplace certificado e pagará apenas o take rate dos pedidos.
 
->⚠️ As políticas comerciais adicionais contratadas para integração com marketplaces certificados que forem utilizadas também em integração com outros tipos de marketplaces, está sujeita à cobrança da taxa mensal.  
+<div class="alert alert-warning">
+As políticas comerciais adicionais contratadas para integração com marketplaces certificados que forem utilizadas também em integração com outros tipos de marketplaces, está sujeita à cobrança da taxa mensal.
+</div>  
 
 Atualmente, na plataforma VTEX você encontra os seguintes marketplaces certificados:  
 
@@ -161,7 +165,9 @@ Abaixo você encontra os marketplaces parceiros disponíveis no catálogo da VTE
 - Fast Shop  
 - Hubplus  
 
->ℹ️ O Facebook, Google Shopping, Google Shopping Ads e Tik Tok não são marketplaces, porém oferecerem uma experiência similar de envio de produtos a partir de lojas VTEX.
+<div class="alert alert-info">
+O Facebook, Google Shopping, Google Shopping Ads e Tik Tok não são marketplaces, porém oferecerem uma experiência similar de envio de produtos a partir de lojas VTEX.
+</div>
 
 ### Ser um seller VTEX
 
@@ -173,5 +179,7 @@ A configuração da [integração entre lojas VTEX](https://help.vtex.com/pt/tut
 
 O [Seller Portal](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) é uma edição da plataforma VTEX voltada para sellers se conectarem e venderem seus produtos em marketplaces hospedados na VTEX. Com o portal, sellers acessam todas as funcionalidades essenciais para a operação de ecommerce em grandes vitrines, trazendo visibilidade e conversão de vendas.
 
->ℹ️ Na VTEX, é possível atuar como [seller white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa), um seller não identificado pelo consumidor na experiência de compra. Este tipo de seller é o padrão para [contas franquia](https://help.vtex.com/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl), por exemplo, e pode ser estratégico para determinados modelos de negócio. Para saber mais, veja o artigo [Escolher entre conta padrão, conta franquia ou Seller Portal](https://help.vtex.com/pt/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78).
+<div class="alert alert-info">
+Na VTEX, é possível atuar como <a href="https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa">seller white label</a>, um seller não identificado pelo consumidor na experiência de compra. Este tipo de seller é o padrão para <a href="https://help.vtex.com/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl">contas franquia</a>, por exemplo, e pode ser estratégico para determinados modelos de negócio. Para saber mais, veja o artigo <a href="https://help.vtex.com/pt/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78">Escolher entre conta padrão, conta franquia ou Seller Portal</a>.
+</div>
 

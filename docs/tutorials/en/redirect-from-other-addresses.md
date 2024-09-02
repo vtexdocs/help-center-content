@@ -31,7 +31,9 @@ You can configure redirects in different ways; one of the most popular is using[
 
 Below are instructions for setting up redirects to your store's main address using the [Redirect Center](http://redirect.center/) tool.
 
->⚠️ [Redirect Center](http://redirect.center/) is not a service provided by VTEX and does not support HTTPS. While there are other similar services available, VTEX does not endorse any specific one. VTEX is not liable for any issues caused by external redirect services.
+<div class="alert alert-warning">
+  <p><a href="http://redirect.center/">Redirect Center</a> is not a service provided by VTEX and does not support HTTPS. While there are other similar services available, VTEX does not endorse any specific one. VTEX is not liable for any issues caused by external redirect services.</p>
+</div>
 
 ### Address redirects without a subdomain (such as www)
 

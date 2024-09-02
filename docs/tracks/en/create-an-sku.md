@@ -33,4 +33,6 @@ You will be taken to the SKU registration screen.
 
 All fields available on this screen are listed in the article [SKU registration fields](/en/tutorial/sku-registration-fields).
 
->ℹ️ Sometimes a product does not have variations that justify the creation of more than one SKU for it. In this case, there is no problem creating an SKU with the same product name. Just remember that you always need to create **at least one SKU for each product**.
+<div class="alert alert-info">
+Sometimes a product does not have variations that justify the creation of more than one SKU for it. In this case, there is no problem creating an SKU with the same product name. Just remember that you always need to create <strong>at least one SKU for each product</strong>.
+</div>

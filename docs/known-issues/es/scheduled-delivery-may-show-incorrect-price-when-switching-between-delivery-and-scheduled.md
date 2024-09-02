@@ -18,7 +18,9 @@ internalReference: 770250
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se configura una promoción de valor máximo de envío, si empieza a cambiar entre entrega estándar y entrega programada varias veces, puede haber un precio de entrega programada diferente en la interfaz de usuario.

@@ -95,7 +95,9 @@ Compre um suéter e ganhe 50% de desconto em uma camisa clássica ou contemporâ
 - “Compre um suéter e ganhe 50% de desconto” em outro item faz com que esta seja uma [Promoção Compre Junto](https://help.vtex.com/pt/tutorial/buy-together--tutorials_323).
 - “Suéter e camisa clássica ou contemporânea de manga comprida” são os itens aos quais este benefício será aplicado.
 
->⚠️ A Promoção Compre Junto funciona apenas com descontos percentuais.
+<div class = "alert alert-warning">
+  <p>A Promoção Compre Junto funciona apenas com descontos percentuais.</p>
+</div>
 
 ## Cenário 12
 

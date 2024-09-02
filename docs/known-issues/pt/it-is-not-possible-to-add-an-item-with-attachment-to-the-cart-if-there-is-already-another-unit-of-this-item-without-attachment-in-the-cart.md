@@ -18,7 +18,9 @@ internalReference: 412041
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Durante o processo de compra, se o cliente adicionar um item que já tenha sido incluído no carrinho anteriormente e a nova inclusão tiver opções de montagem, o segundo item não será adicionado ao carrinho.

@@ -18,7 +18,9 @@ internalReference: 376951
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O OrderPlaced tem um recurso automático que injeta o PDF do "Boleto - Bank Invoice" em um iframe dentro da página de pedido acabado.

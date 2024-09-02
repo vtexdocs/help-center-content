@@ -22,13 +22,14 @@ But in some cases this automatic definition does not place the product in the ri
 
 ## Defining the product category
 
->❗ This procedure does not cause the integration to update the category in Mercado Livre. The ideal is to do it before integrating the product. If the product is already integrated, the solution is to delete the existing advertisement and integrate it again, with the category registered previously.
+<div class="alert alert-danger"> This procedure does not cause the integration to update the category in Mercado Livre. The ideal is to do it before integrating the product. If the product is already integrated, the solution is to delete the existing advertisement and integrate it again, with the category registered previously.
+</div>
 
 Mercado Livre has a tool which automatically defines the category of each product shipped. This tool uses information such as the name of the product, and if it makes the wrong inference it may categorize the product wrongly. Thus the announcement can appear in the incorrect category.
 
 To fix this, you can [add a product specification](/en/tutorial/creating-a-product-field), **mandatorily** with the `categoria_meli` name. This specification will be able to be given different values, each of them representing a category in Mercado Livre.
 
-The values will be the category IDs. Click [here](https://assets.contentful.com/alneenqid6w5/7jBN2dUrjaUOqc4SYCoyaI/54997b8b1df385be79157a5d3c6dd907/MercadoLivre_CategoriasFixas.xlsx) to download a worksheet showing these values.
+The values will be the category IDs. Click [here](//assets.contentful.com/alneenqid6w5/7jBN2dUrjaUOqc4SYCoyaI/54997b8b1df385be79157a5d3c6dd907/MercadoLivre_CategoriasFixas.xlsx) to download a worksheet showing these values.
 
 After registering the specification, you must access each product register and enter the ID as shown in the worksheet.
 

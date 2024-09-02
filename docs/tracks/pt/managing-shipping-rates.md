@@ -18,7 +18,7 @@ Para a correta configuração de uma nova transportadora, é importante detalhar
 
 Ela é usada para registrar os CEPs atendidos, os valores cobrados, as faixas de peso consideradas e os valores adicionais de cada transportadora.
 
-![planilha-frete-pt](https://images.ctfassets.net/alneenqid6w5/xwa6iEK6ekMSeLLEZhBZL/325dda4a071d57baaf8dd8e3299cec41/planilha-frete-pt.png)
+![planilha-frete-pt](//images.ctfassets.net/alneenqid6w5/xwa6iEK6ekMSeLLEZhBZL/325dda4a071d57baaf8dd8e3299cec41/planilha-frete-pt.png)
 
 ## Como montar a planilha
 
@@ -37,7 +37,9 @@ Depois que a loja fecha o contrato com uma transportadora, normalmente ela infor
 - **Country**: País onde a entrega será realizada. Deve ser preenchido com o [código ISO de 3 dígitos do país](https://countrycode.org/).
 - **MinimumValueInsurance**: É um adicional de frete com valor absoluto, que será comparado ao valor cadastrado em PricePercent e multiplicado pelo valor do carrinho. O valor que for maior será o adicionado ao frete. Sempre será adicionado ao frete apenas um dos dois. Veja mais em [Para que serve o campo Minimum Value Insurance?](/pt/faq/para-que-serve-o-campo-na-tabela-de-frete-minimum-value-insurance).
 
->⚠️ **OBS:** Caso a planilha tenha mais de 10 MB, será necessário compactá-la no formato **.zip**. Esse arquivo .zip também deve ter menos de 10 MB para o upload funcionar. Se, ainda assim, o arquivo exceder o limite, recomendamos dividir a planilha entre mais de uma transportadora.
+<div class="alert alert-warning">
+<strong>OBS:</strong> Caso a planilha tenha mais de 10 MB, será necessário compactá-la no formato <strong>.zip</strong>. Esse arquivo .zip também deve ter menos de 10 MB para o upload funcionar. Se, ainda assim, o arquivo exceder o limite, recomendamos dividir a planilha entre mais de uma transportadora.
+</div>
 
 ## Gerenciar as tarifas de envio por fora da planilha
 

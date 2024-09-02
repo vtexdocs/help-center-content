@@ -18,7 +18,9 @@ internalReference: 590934
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Eventualmente, dependiendo del número de productos que tengamos dentro de una categoría, si seleccionamos los filtros de categorías en la UI de la colección heredada, puede que nos devuelva productos que no pertenezcan a estas categorías.

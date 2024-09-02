@@ -18,7 +18,9 @@ internalReference: 611284
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Intermitentemente, quando abrimos uma promoção, os campos Data de Início e Data Final exibem a data atual, e os campos Hora de Início e Hora Final exibem as 12:00 horas da manhã. Apesar das informações incorretas na IU, as datas definidas na promoção não são afetadas.

@@ -18,7 +18,9 @@ internalReference: 415482
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um cenário em que o pacote devolvido aparece como entrega na página **Minha conta > Minhas encomendas***. Parece que mais de um pacote será entregue ao cliente em vez de mostrar que o pacote já foi entregue ao cliente e que um novo pacote foi gerado simbolizando a devolução.

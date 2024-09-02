@@ -18,7 +18,9 @@ internalReference: 607742
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A criação de uma ordem pode falhar com a exceção genérica "_Um erro de comunicação com gateway ocorreu e os dados de pagamento da transação {id} não foram recebidos com sucesso_", que têm causas de raiz diferentes. Uma delas estará relacionada à exceção interna "_As informações solicitadas da conta não existem_", que podem ser vistas no histórico da transação/pagamento relacionado ao pedido incompleto.

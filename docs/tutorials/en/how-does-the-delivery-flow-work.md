@@ -27,4 +27,4 @@ VTEX platform gives you the freedom to use these settings in a variety of ways, 
 
 But for now, let's stick to the most basic scenario, illustrated by the image below:
 
-![Logistics Concept English](https://images.ctfassets.net/alneenqid6w5/4dxX4SvwV2SuCekgeM480w/2a69059d4efd30c0610ef04df02cc49c/Component__19_.png)
+![Logistics Concept English](//images.ctfassets.net/alneenqid6w5/4dxX4SvwV2SuCekgeM480w/2a69059d4efd30c0610ef04df02cc49c/Component__19_.png)

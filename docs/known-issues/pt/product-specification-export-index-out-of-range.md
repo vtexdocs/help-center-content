@@ -18,7 +18,9 @@ internalReference: 481095
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar exportar especificações de produtos da interface do usuário "Importar e exportar", se houver algum valor nulo ou relação nula na categoria a ser exportada, o processo falhará com uma mensagem "Índice fora do intervalo". Em outras palavras, a categoria deve ter registrado diretamente em seu nível um campo de produto, produtos e produtos com valores associados.

@@ -33,4 +33,6 @@ It allows the use of a store's credit card in partnership with one of the follow
 
 After this configuration, the creation of a [Payment Condition](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions) is required.
 
->⚠️ We recommend using the automatic approval only in cases where the payment will be made upon delivery or pickup at the store. This option releases the payment of the order, meaning that the order automatically switches to the Preparing Delivery status, without payment verification.
+<div class="alert alert-warning">
+We recommend using the automatic approval only in cases where the payment will be made upon delivery or pickup at the store. This option releases the payment of the order, meaning that the order automatically switches to the Preparing Delivery status, without payment verification.
+  </div>

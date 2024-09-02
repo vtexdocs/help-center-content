@@ -18,7 +18,9 @@ internalReference: 748668
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando há mais de um endereço registrado no Sistema de Perfil, há uma solicitação "nula" ao serviço de CEP se você adicionar um novo endereço em "Endereço de Fatura".

@@ -18,7 +18,9 @@ internalReference: 667328
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, cuando se alcanza la fecha de inicio de una colección programada, el proceso de reindexación de los productos en ella no se activa, es decir, la programación de la fecha de inicio no funciona en su totalidad. En consecuencia, los productos no se indexan en la colección en la fecha configurada.

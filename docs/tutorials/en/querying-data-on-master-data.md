@@ -15,4 +15,4 @@ legacySlug: querying-data-on-master-data
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---
 
->⚠️ Content under translation
+<div class="alert alert-warning">Content under translation</div>

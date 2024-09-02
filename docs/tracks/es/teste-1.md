@@ -3,7 +3,7 @@ title: 'Teste (1)'
 id: 2Oq3MriB8hJ5YmFq3QIlPD
 status: DRAFT
 createdAt: 2021-04-14T14:58:44.451Z
-updatedAt: 2024-02-23T14:24:12.796Z
+updatedAt: 2024-08-22T18:48:29.625Z
 publishedAt: 
 firstPublishedAt: 2021-04-14T15:01:28.601Z
 contentType: trackArticle
@@ -32,7 +32,9 @@ La **Guía de onboarding** se compone de 3 series:
 * [Próximos pasos tras el go live](https://help.vtex.com/es/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS)
 * [Soporte en VTEX](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy)
 
->ℹ️ Las series presentan contenidos complementarios, pero son independientes entre sí, lo que significa que se puede explorar el contenido libremente y sin necesidad de seguir una secuencia.
+<div class="alert alert-info"> 
+Las series presentan contenidos complementarios, pero son independientes entre sí, lo que significa que se puede explorar el contenido libremente y sin necesidad de seguir una secuencia.
+</div>
 
 Nuestra meta es asegurarnos de que tanto clientes como partners, así como todo el ecosistema de VTEX, puedan sacarle el máximo partido a la **Guía de onboarding**. Con este objetivo de garantizar la pertinencia del material para una amplia gama de negocios, hemos cubierto una jornada completa y abarcadora. 
 

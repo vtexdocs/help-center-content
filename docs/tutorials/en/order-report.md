@@ -3,8 +3,8 @@ title: 'Order report'
 id: 31m1ewsmsEe0WS4So2aGMY
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.311Z
-updatedAt: 2024-03-01T01:28:57.258Z
-publishedAt: 2024-03-01T01:28:57.258Z
+updatedAt: 2024-08-06T15:12:56.223Z
+publishedAt: 2024-08-06T15:12:56.223Z
 firstPublishedAt: 2019-01-24T22:03:18.967Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -19,7 +19,9 @@ When you export an order report on the [All Orders](https://help.vtex.com/en/tut
 
 Each row in the spreadsheet refers to a [SKU](https://help.vtex.com/en/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u). For example, if an order contains 3 SKUs, it will be listed in 3 rows of the report, each dedicated to data of one SKU.
 
->ℹ️ The order report link is available for download for six hours.
+<div class = "alert alert-info">
+The order report link is available for download for six hours.
+</div>
 
 Each column corresponds to specific information, as described below.
 
@@ -88,8 +90,8 @@ Each column corresponds to specific information, as described below.
 *    **Seller Order Id**: the order ID on the seller, in case the sale was made through a marketplace.
 *   **Acquirer**: acquirer involved in the transaction.
 *   **Authorization Id**: authorization ID.
-*    **TID**: [transaction ID](https://app.contentful.com/en/faq/como-achar-nsu-e-tid-do-pedido) of the order.
-*    **NSU:** order's [unique number sequence](https://app.contentful.com/en/faq/como-achar-nsu-e-tid-do-pedido)
+*    **TID**: [transaction ID](https://help.vtex.com/en/tutorial/como-achar-nsu-e-tid-do-pedido--frequentlyAskedQuestions_477) of the order.
+*    **NSU:** order's [unique number sequence](https://help.vtex.com/en/tutorial/como-achar-nsu-e-tid-do-pedido--frequentlyAskedQuestions_477)
 *    **Card First Digits**: the first six digits of the card used to make the purchase.
 *    **Card Last Digits**: the last four digits of the card used to make the purchase.
 *    **Payment Approved By**: email of the person that approved the payment (applicable when the approval was made manually).

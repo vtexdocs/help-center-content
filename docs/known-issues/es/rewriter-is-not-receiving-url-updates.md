@@ -18,7 +18,9 @@ internalReference: 1066527
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se cambia/elimina una URL en el catálogo, la reescritura no recibe este cambio. Dado que la reescritura no recibe ninguna notificación al respecto, la URL sigue apuntando al tipo incorrecto, lo que también puede provocar problemas en el SI.

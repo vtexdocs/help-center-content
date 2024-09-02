@@ -1,5 +1,5 @@
 ---
-title: "Centauro Orders with 'Pedido sem o campo: 'packages' error"
+title: 'Centauro Orders with "Pedido sem o campo: "packages" error'
 id: 1HMhinuVlggWwQZPuNchiX
 status: PUBLISHED
 createdAt: 2022-06-24T13:10:45.752Z
@@ -18,7 +18,9 @@ internalReference: 604422
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -28,7 +28,9 @@ O módulo de [Pagamentos](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm
 
 Para processar e receber os pagamentos das compras realizadas em uma loja VTEX, é preciso contratar os serviços de um ou mais provedores de pagamento. Este contrato é realizado diretamente entre o lojista e o respectivo provedor, não havendo mediação ou participação da VTEX. Para verificar quais provedores estão disponíveis na VTEX em cada país, basta acessar a [Lista de provedores de pagamento](https://help.vtex.com/pt/tutorial/lista-de-provedores-de-pagamento-por-pais--2im3BEGXxSAcRuxEaIHPvp).
 
->⚠️ É recomendável utilizar mais de um provedor de pagamento na loja para prover uma boa experiência ao cliente por meio diversos tipos de meios e condições de pagamento, e ao mesmo tempo, operar com diferentes taxas e custos, melhorando o desempenho do negócio.
+<div class="alert alert-warning">
+É recomendável utilizar mais de um provedor de pagamento na loja para prover uma boa experiência ao cliente por meio diversos tipos de meios e condições de pagamento, e ao mesmo tempo, operar com diferentes taxas e custos, melhorando o desempenho do negócio.
+</div>
 
 As configurações de pagamento descritas nesta trilha podem ser realizadas a qualquer momento durante o processo de onboarding. Entretanto, para que a loja possa realizar qualquer tipo de transação de pagamento, é necessário que os módulos de [Catálogo](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo), [Preços](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos) e [Logística](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica) tenham sido previamente configurados.
 
@@ -54,11 +56,11 @@ A tabela a seguir apresenta os principais agentes e termos utilizados no context
 
 Quando uma compra é finalizada na VTEX, uma nova transação é criada e o fluxo de pagamento é iniciado. No exemplo abaixo, é possível verificar um fluxo de pagamento para uma compra realizada por cartão de crédito:
 
-![payments-pt](https://images.ctfassets.net/alneenqid6w5/5QPFkvZhpZzRWuq15zlMoz/c40d02d7dd6be8f01dc8b9ed03c4741e/payments_image1_PT.jpg)
+![payments-pt](//images.ctfassets.net/alneenqid6w5/5QPFkvZhpZzRWuq15zlMoz/c40d02d7dd6be8f01dc8b9ed03c4741e/payments_image1_PT.jpg)
 
 Conforme as informações vão sendo transmitidas entre os agentes responsáveis pelo processamento dos dados, o status da transação de pagamento é atualizado para indicar em qual momento do fluxo os recursos se encontram. Para o fluxo de pagamento por cartão de crédito, temos o seguinte exemplo de status da transação:
 
-![payments-flow-pt](https://images.ctfassets.net/alneenqid6w5/6fsbJZ07a18ea8I1pk7UFo/9419c03573e34455c5a97f08982be8fd/payments_image2_ALL.JPG)
+![payments-flow-pt](//images.ctfassets.net/alneenqid6w5/6fsbJZ07a18ea8I1pk7UFo/9419c03573e34455c5a97f08982be8fd/payments_image2_ALL.JPG)
 
 Mais informações sobre cada etapa podem ser encontradas no artigo [Fluxo da transação no Pagamentos](https://help.vtex.com/pt/tutorial/transaction-flow-in-payments--Er2oWmqPIWWyeIy4IoEoQ). Para saber como acessar mais informações sobre as transações no Admin VTEX, bas conferir o artigo [Ver detalhes da transação](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy).
 
@@ -74,7 +76,9 @@ Os provedores de pagamento precisam ser habilitados em uma loja de modo que tran
 2. Selecionar o provedor desejado, clicando no respectivo link da tabela.
 3. Acessar o Admin VTEX para configurar o provedor conforme as instruções descritas no respectivo artigo de configuração.
 
->ℹ️ Os artigos de configuração de provedores também podem ser acessados ao digitar o nome do provedor desejado na barra de busca do [Help Center](https://help.vtex.com/pt/).
+<div class = "alert alert-info">
+Os artigos de configuração de provedores também podem ser acessados ao digitar o nome do provedor desejado na barra de busca do <a href="https://help.vtex.com/pt/">Help Center</a>.
+</div>
 
 #### Definindo meios e condições de pagamento
 
@@ -179,7 +183,7 @@ No Admin VTEX, em **Pedidos > [Todos os pedidos](https://help.vtex.com/pt/tutori
 
 Na página de detalhes do pedido, também é possível acompanhar a evolução do [fluxo do pedido](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196). A imagem a seguir é um exemplo de fluxo quando a loja atua simultaneamente como marketplace e seller:
 
-![order-flow-pt](https://images.ctfassets.net/alneenqid6w5/5ObTRbhlsYxoaW0Lzw7RmS/65a4533c0b089dd2792a21383f913393/pedido_fluxo_completo_pt.png)
+![order-flow-pt](//images.ctfassets.net/alneenqid6w5/5ObTRbhlsYxoaW0Lzw7RmS/65a4533c0b089dd2792a21383f913393/pedido_fluxo_completo_pt.png)
 
 Para localizar o registro de uma compra no Admin VTEX, além de poder [filtrar pedidos](https://help.vtex.com/pt/tutorial/filtrar-todos-pedidos--tutorials_192) na página **Todos os pedidos**, existe a opção de pesquisar pela barra de busca global, que aparece em todas as páginas do Admin VTEX. Para realizar a pesquisa, basta selecionar a opção `Pedidos`, no canto direito da barra de busca, e utilizar algum dos seguintes valores:
 
@@ -188,7 +192,9 @@ Para localizar o registro de uma compra no Admin VTEX, além de poder [filtrar p
 - Email do cliente
 - Documento do cliente 
 
->⚠️ Só é possível acessar informações de pedidos criados nos últimos dois anos, sendo o mesmo período válido para os clientes acessarem seus pedidos pelo [Minha Conta]().
+<div class="alert alert-warning">
+Só é possível acessar informações de pedidos criados nos últimos dois anos, sendo o mesmo período válido para os clientes acessarem seus pedidos pelo <a href="">Minha Conta</a>.
+</div>
 
 #### Emails transacionais
 
@@ -229,7 +235,7 @@ O checkout é a etapa final no processo de compras online e contribui de maneira
 
 Para assegurar o correto funcionamento do checkout, é necessário que os seguintes módulos estejam devidamente configurados pela loja: [Catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), [Logística](https://help.vtex.com/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx), [Preços](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promoções](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Pagamentos](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#) e [Pedidos](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE).
 
-![checkout-pt](https://images.ctfassets.net/alneenqid6w5/57AJQIGKk5fuwN8SRMenM0/df639ea0697ca3e01b99963acd509b4f/checkout_image_PT.jpg)
+![checkout-pt](//images.ctfassets.net/alneenqid6w5/57AJQIGKk5fuwN8SRMenM0/df639ea0697ca3e01b99963acd509b4f/checkout_image_PT.jpg)
 
 Este compartilhamento de informações permite que sejam processadas informações de disponibilidade, preços, promoções aplicáveis, métodos de envio e de pagamento.
 
@@ -254,7 +260,9 @@ Mais informações em [Otimização das opções de entrega no Checkout](https:/
 
 Funcionalidade que permite envio de e-mails aos clientes para recordá-los sobre a conclusão da compra de um carrinho que tenha sido criado anteriormente, mas não finalizado.
 
->ℹ️ Configurar o carrinho abandonado durante o Onboarding, permitirá que todos os carrinhos que ainda serão criados, possam ser encaminhados para avaliação do cliente ou finalizados.
+<div class = "alert alert-info">
+Configurar o carrinho abandonado durante o Onboarding, permitirá que todos os carrinhos que ainda serão criados, possam ser encaminhados para avaliação do cliente ou finalizados.
+</div>
 
 Mais informações em [Configurar carrinho abandonado](https://help.vtex.com/pt/tutorial/configurar-carrinho-abandonado--tutorials_740).
 
@@ -262,7 +270,9 @@ Mais informações em [Configurar carrinho abandonado](https://help.vtex.com/pt/
 
 Na plataforma VTEX, as lojas têm a possibilidade de ajustar manualmente o preço de um item (SKU) presente no carrinho do Checkout. Esta funcionalidade pode ser usada para aplicar descontos especiais, corrigir erros de preço, criar ofertas personalizadas, resolver reclamações relacionadas a preços ou ajustar custos de envio.
 
->⚠️ Apenas usuários com [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) e permissões devidamente registrados no Admin VTEX podem realizar esta modificação.
+<div class="alert alert-warning">
+Apenas usuários com <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">perfis de acesso</a> e permissões devidamente registrados no Admin VTEX podem realizar esta modificação.
+</div>
 
 Mais informações em [Modificar o preço de um item no carrinho de compras](https://help.vtex.com/pt/tutorial/modificar-o-preco-de-um-item-no-carrinho-de-compras--7Cd37aCAmtL1qmoZJJvjNf).
 

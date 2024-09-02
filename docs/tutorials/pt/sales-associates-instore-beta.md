@@ -15,7 +15,9 @@ legacySlug: vendedores-instore-beta
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---
 
->ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+<div class ="alert alert-info">
+<p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
+</div>
 
 **Vendedores** é uma página das **Configurações da loja** do Admin VTEX que apresenta a listagem de vendedores cadastrados no aplicativo [inStore](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) da loja. Nela, você pode gerenciar informações dos vendedores em todas as [contas franquias](https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) da sua loja.
 
@@ -27,7 +29,7 @@ Esta página permite que você gerencia seus vendedores a partir das seguintes a
 * [Editar](#editar-vendedor)
 * [Excluir](#excluir-vendedor)
 
-![vendedores-pt](https://images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/247cb80ead8132c0b82a5787328279dc/image.png)
+![vendedores-pt](//images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/247cb80ead8132c0b82a5787328279dc/image.png)
 
 A página apresenta as seguintes informações: 
 
@@ -50,9 +52,11 @@ Você pode cadastrar um vendedor seguindo os passos abaixo:
 
 Após o cadastro, o vendedor irá receber um email confirmando o cadastro e redirecionando para a opção de login do vendedor ao aplicativo inStore.
 
-![email-vendedor-pt](https://images.ctfassets.net/alneenqid6w5/28VbbIXujzHcE3BriNtZPq/3aa9729eb2211875302b7316dbe46c93/image.png)
+![email-vendedor-pt](//images.ctfassets.net/alneenqid6w5/28VbbIXujzHcE3BriNtZPq/3aa9729eb2211875302b7316dbe46c93/image.png)
 
->⚠️ Os vendedores cadastrados no inStore não apresentam permissão para acessar o Admin VTEX. Caso um vendedor tente realizar o login no Admin seu cadastro será excluído.
+<div class ="alert alert-warning">
+<p>Os vendedores cadastrados no inStore não apresentam permissão para acessar o Admin VTEX. Caso um vendedor tente realizar o login no Admin seu cadastro será excluído.</p> 
+</div>
 
 ### Campos de cadastro do vendedor
 
@@ -66,7 +70,9 @@ Após o cadastro, o vendedor irá receber um email confirmando o cadastro e redi
 
 * **Loja:** [conta franquia](https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) em que o vendedor será cadastrado. Campo obrigatório.
 
->ℹ️ As alterações podem levar até 15 minutos para serem processadas e aplicadas no inStore.
+<div class ="alert alert-info">
+<p>As alterações podem levar até 15 minutos para serem processadas e aplicadas no inStore.</p> 
+</div>
 
 ## Buscar vendedor
 

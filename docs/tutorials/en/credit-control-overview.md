@@ -15,8 +15,10 @@ legacySlug: credit-control-overview
 subcategory: 7EWKfPIGfmI0G8iMYK8Aiy
 ---
 
->⚠️ **WARNING:** Credit Control is unavailable as of ** December 2018**. Now, to offer credit as a payment method right on your store's checkout, you need to use [Customer Credit](https://help.vtex.com/en/tutorial/customer-credit-overview).</br>
-> Learn more about the Customer Credit's setup process on this [article](http://help.vtex.com/en/tracks/customer-credit-getting-started).
+<div class="alert alert-warning">
+<strong>WARNING:</strong> Credit Control is unavailable as of <strong> December 2018</strong>. Now, to offer credit as a payment method right on your store's checkout, you need to use <a href="https://help.vtex.com/en/tutorial/customer-credit-overview">Customer Credit</a>.</br>
+Learn more about the Customer Credit's setup process on this <a href="http://help.vtex.com/en/tracks/customer-credit-getting-started">article</a>. 
+</div>
 
 
 ## What it is
@@ -33,7 +35,7 @@ That's why we created Credit Control - so that it's done within the VTEX system,
 
 ## How it works
 
-![Credit Control basic flow](https://images.contentful.com/alneenqid6w5/35jUk6EVksKUQi8EaU6caO/2f8f3ddb5ead2d2c9379fc340fb070f9/credit-control-flow_en.gif)
+![Credit Control basic flow](//images.contentful.com/alneenqid6w5/35jUk6EVksKUQi8EaU6caO/2f8f3ddb5ead2d2c9379fc340fb070f9/credit-control-flow_en.gif)
 *Basic flow of how Credit Control works on VTEX stores.*
 
 Because it was developed in VTEX, Credit Control is fully integrated with the existing SmartCheckout system through its connector - which means that your customers' shopping experience remains the same. Credit Control's admin can be accessed through the main menu of the VTEX modules panel.

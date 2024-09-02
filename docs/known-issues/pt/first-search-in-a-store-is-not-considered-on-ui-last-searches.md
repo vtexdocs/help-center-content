@@ -1,5 +1,5 @@
 ---
-title: "A primeira busca em uma loja não é considerada na UI 'últimas buscas'."
+title: 'A primeira busca em uma loja não é considerada na UI "últimas buscas".'
 id: 7mc9vRE92VGauQmRaK6NnU
 status: PUBLISHED
 createdAt: 2022-05-04T17:08:25.235Z
@@ -18,7 +18,9 @@ internalReference: 570971
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao pesquisar em uma loja pela primeira vez, sua primeira busca não aparecerá nas "últimas buscas", mas todas as outras serão consideradas.

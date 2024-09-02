@@ -19,7 +19,7 @@ On the VTEX platform, you have the option to register physical stores, franchise
 
 The franchise account is associated with a main account. In the case of a brand that has several physical stores, franchisees or representatives, each of them can have a franchise account linked to the brand's main account. This allows them to deliver the products sold by the brand's ecommerce.
 
-![diagrama contas v2 - en](https://images.ctfassets.net/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/bf1a348a817eb6a839db435d5dce1a9c/diagrama_contas_v2_-_en.png)
+![diagrama contas v2 - en](//images.ctfassets.net/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/bf1a348a817eb6a839db435d5dce1a9c/diagrama_contas_v2_-_en.png)
 
 In this article, we will cover the following topics:
 
@@ -38,7 +38,7 @@ In addition, when using the franchise account you can manage prices and payment 
 
 A franchise account does not have its own website. Consumers browse directly on the main account website, which functions as a marketplace in this situation. Customer data is stored in the Master Data of the main account.
 
-![diagrama admin contas - en](https://images.ctfassets.net/alneenqid6w5/226ePm8TzkWPFnTvJj2Sej/34a3ac170c1d3f7db9f4f03d27fa2a03/diagrama_admin_contas_-_en.png)
+![diagrama admin contas - en](//images.ctfassets.net/alneenqid6w5/226ePm8TzkWPFnTvJj2Sej/34a3ac170c1d3f7db9f4f03d27fa2a03/diagrama_admin_contas_-_en.png)
 
 ## Relationship between franchise account and White Label Seller
 
@@ -46,13 +46,14 @@ Each franchise account automatically operates as a White Label Seller of the mai
 
 End customers do not choose or acknowledge the existence of White Label Sellers at any point in the process. In this logic, the consumers have a relationship with the brand (main account) and not with the physical stores (franchise accounts).
 
->ℹ️ Although all franchise accounts operate as White Label Sellers of the main account, these concepts do not mean the same thing. The franchise account is a type of account, while being White Label is a property of the seller.
->
-> ***Account**: can be a franchise account or a regular account.
->
-> ***Seller**: can be of White Label type or non-White Label type.
->
-> As these concepts are independent, it is **eventually** possible that a franchise account operates as a non-White Label Seller of a marketplace other than the main account.
+<div class="alert alert-info">
+<p>Although all franchise accounts operate as White Label Sellers of the main account, these concepts do not mean the same thing. The franchise account is a type of account, while being White Label is a property of the seller.
+<ul>
+<li><strong>Account</strong>: can be a franchise account or a regular account.</li>
+<li><strong>Seller</strong>: can be of White Label type or non-White Label type.</li>
+</ul>
+As these concepts are independent, it is <strong>eventually</strong> possible that a franchise account operates as a non-White Label Seller of a marketplace other than the main account.</p>
+</div>
 
 ## Franchise account configuration
 
@@ -95,7 +96,9 @@ Once you have [changed this configuration](#configuring-payment-methods-specific
 
 VTEX offers split payment solutions that can make the distribution of receivables to sellers automatic. For more information, please refer to the article about [Split payment](https://help.vtex.com/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx).
 
->⚠️ If you wish to implement the VTEX Sales App, it is necessary for physical stores to use the payment methods from the main account.
+<div class="alert alert-warning">
+<p>If you wish to implement the VTEX Sales App, it is necessary for physical stores to use the payment methods from the main account.</p>
+</div>
 
 ## Request the creation of a franchise account
 

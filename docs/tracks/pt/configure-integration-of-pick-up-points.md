@@ -20,9 +20,11 @@ Neste artigo, explicaremos como criar pontos de retirada no Mercado Livre, a par
 
 Quando os pedidos que utilizam a opção de retirada em loja chegam à VTEX, são atribuídos à conta franquia que possui o ponto de retirada escolhido pelo cliente e o ponto de retirada terá seu estoque modificado.
 
-![configurar pontosderetirada01 PT](https://images.contentful.com/alneenqid6w5/6V2QIEoUaOUIqNLf5Nfrg6/4a10e2e330c1fa333bbd62f34cf6bcc5/configurar_pontosderetirada01_PT.JPG)
+![configurar pontosderetirada01 PT](//images.contentful.com/alneenqid6w5/6V2QIEoUaOUIqNLf5Nfrg6/4a10e2e330c1fa333bbd62f34cf6bcc5/configurar_pontosderetirada01_PT.JPG)
 
->ℹ️ Antes de criar os pontos de retirada, você deve solicitar ao Mercado Livre a ativação da modalidade de Retirada em Loja. Para isso, entre em contato com o seu assessor comercial do Mercado Livre ou abra um chamado com o time de [Suporte.](https://developers.mercadolivre.com.br/devcenter/support)
+<div class="alert alert-info">
+Antes de criar os pontos de retirada, você deve solicitar ao Mercado Livre a ativação da modalidade de Retirada em Loja. Para isso, entre em contato com o seu assessor comercial do Mercado Livre ou abra um chamado com o time de <a href="https://developers.mercadolivre.com.br/devcenter/support">Suporte.</a>
+</div>
 
 Para criar os pontos de retirada, você vai precisar:
 
@@ -60,7 +62,7 @@ Para ativar os pontos de retirada nas contas franquias:
 5. No campo **Ativar integração de pontos de retirada para contas franquias**, clique na opção `Sim`.
 6. Clique em `Salvar Configurações`.
 
-![Início (12)](https://images.contentful.com/alneenqid6w5/73IhuYUuFMCX3k4tGB0K07/b88a06aa30a5643af251043da2aea2d8/In__cio__12_.gif)
+![Início (12)](//images.contentful.com/alneenqid6w5/73IhuYUuFMCX3k4tGB0K07/b88a06aa30a5643af251043da2aea2d8/In__cio__12_.gif)
 
 ## Confirmar o envio do ponto de retirada 
 
@@ -71,13 +73,13 @@ Para verificar se o ponto de retirada foi enviado ao Mercado Livre:
 
 Na listagem dos pontos de retirada enviados, você conseguirá visualizar quais foram enviados com sucesso e quais possuem erro de configuração.
 
-![Início (11)](https://images.contentful.com/alneenqid6w5/1kHVZxPH1CEtw9v57A56MT/7e60a01cca9d76ba79ffec547b430038/In__cio__11_.gif)
+![Início (11)](//images.contentful.com/alneenqid6w5/1kHVZxPH1CEtw9v57A56MT/7e60a01cca9d76ba79ffec547b430038/In__cio__11_.gif)
 
 No Mercado Livre não existe uma tela para visualizar se determinado ponto de retirada foi vinculado. Recomendamos escolher um anúncio no Mercado Livre que esteja associado ao ponto de retirada e efetuar uma compra teste, escolhendo a opção Ponto de retirada durante o checkout. Em seguida, confira na lista oferecida pelo Mercado Livre no checkout se o ponto de retirada realmente está disponível.
 
 ## Confirmar a associação do ponto de retirada e anúncio 
 
-![configurar pontosderetirada02 PT](https://images.contentful.com/alneenqid6w5/5yvk1AFDsNY62wKdbHzO8N/8e0122b02481b3825f9de7016410835a/configurar_pontosderetirada02_PT.JPG)
+![configurar pontosderetirada02 PT](//images.contentful.com/alneenqid6w5/5yvk1AFDsNY62wKdbHzO8N/8e0122b02481b3825f9de7016410835a/configurar_pontosderetirada02_PT.JPG)
 
 Para confirmar se o ponto de retirada foi corretamente associado ao anúncio do Mercado Livre, você deve verificar quais pontos de retirada estão sincronizados com cada SKU e seus respectivos estoques. Siga os passos abaixo:
 
@@ -88,4 +90,4 @@ Para confirmar se o ponto de retirada foi corretamente associado ao anúncio do 
 
 Não tendo ocorrido nenhum erro com o SKU localizado, os pontos de retirada estarão sincronizados com ele, e seus respectivos estoques serão apresentados na lista.
 
-![Início (10)](https://images.contentful.com/alneenqid6w5/2w5jyORw3v1VIg5Cd0rJX7/45eb1cacfa766718460386f73355ae96/In__cio__10_.gif)
+![Início (10)](//images.contentful.com/alneenqid6w5/2w5jyORw3v1VIg5Cd0rJX7/45eb1cacfa766718460386f73355ae96/In__cio__10_.gif)

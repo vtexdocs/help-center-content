@@ -21,7 +21,9 @@ En una experiencia de compra, un usuario navega por un sitio web seleccionando p
 
 Un marketplace también puede ser entendido como una *tienda vitrina*, que exhibe los propios productos y también productos de otras tiendas (sellers). Generalmente, un marketplace es una tienda con un buen tráfico de usuarios. Esto alienta a otras tiendas a exhibir sus productos en el marketplace, buscando una mayor conversión. En este escenario, el __marketplace__ es la tienda responsable del cierre de la compra y el __seller__ es la tienda responsable de realizar la entrega del pedido.
 
->ℹ️ Siguiendo esta lógica, podemos concluir que una tienda VTEX que vende sus propios productos en su propia tienda actúa como marketplace y seller de forma simultánea. En este contexto, el pago se hace dentro del ambiente de la tienda (marketplace) y la entrega del pedido es responsabilidad de esa misma tienda (seller). Ver más detalles sobre este tema en [nuestro artículo](https://help.vtex.com/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06) sobre el origen de los pedidos.
+<div class="alert alert-info">
+Siguiendo esta lógica, podemos concluir que una tienda VTEX que vende sus propios productos en su propia tienda actúa como marketplace y seller de forma simultánea. En este contexto, el pago se hace dentro del ambiente de la tienda (marketplace) y la entrega del pedido es responsabilidad de esa misma tienda (seller). Ver más detalles sobre este tema en <a href="https://help.vtex.com/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06">nuestro artículo</a> sobre el origen de los pedidos.
+</div>
 
 ## Artículos relacionados
 

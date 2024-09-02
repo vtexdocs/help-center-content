@@ -1,10 +1,10 @@
 ---
-title: "The 'Save new card' option does not work when using 3-D Secure (3DS)"
+title: 'The "Save new card" option does not work when using 3-D Secure (3DS)'
 id: 20INELA5LVhY1XqFWG7047
 status: PUBLISHED
 createdAt: 2021-06-15T17:10:05.803Z
-updatedAt: 2022-12-22T14:45:20.486Z
-publishedAt: 2022-12-22T14:45:20.486Z
+updatedAt: 2024-08-20T19:15:09.444Z
+publishedAt: 2024-08-20T19:15:09.444Z
 firstPublishedAt: 2021-06-15T18:33:22.941Z
 contentType: knownIssue
 productTeam: Financial
@@ -24,7 +24,8 @@ This error occurs because the credit card has not been validated. To validate th
 
 In stores whose acquirers use [3DS](https://help.vtex.com/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) authentication, this transaction will activate the authentication process and the validation of the card will be requested. The validation can't be processed because it's not a purchase and the 3DS authentication step known as "challenge" can't run to complete the steps. This is the reason for the error mentioned above when saving a card.
 
-### Error simulation
+
+## Simulation
 
 If you want to simulate the steps that lead to the error, follow the instructions below:
 
@@ -39,16 +40,7 @@ If you want to simulate the steps that lead to the error, follow the instruction
 9. Fill in all the fields and click on __Save new card__.
 10. This process will return an error.
 
-### Solution
-
-You can solve this error by adding a payment condition for a credit card associated with an acquirer that does not use 3-D Secure (V1 or V2).
-
-
-## Simulation
-
-
-
 ## Workaround
 
-
+You can solve this error by adding a payment condition for a credit card associated with an acquirer that does not use 3-D Secure (V1 or V2).
 

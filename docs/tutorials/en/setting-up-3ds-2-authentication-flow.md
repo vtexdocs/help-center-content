@@ -17,11 +17,15 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 3D Secure 2.0 (3DS 2) is an authentication flow that increases security in payments made with credit and debit cards, through the internal analysis of a large amount of data present in each transaction.
 
->⚠️ 3DS 2 is only supported for some VTEX affiliations. Check with your payment provider and Admin VTEX if this functionality is available.
+<div class = "alert alert-warning">
+<p>3DS 2 is only supported for some VTEX affiliations. Check with your payment provider and Admin VTEX if this functionality is available.</p>
+</div>
 
 Before starting the configuration, it is necessary to open a ticket with the VTEX support team requesting the 3DS 2 activation in your store. For more information, see [how to open a ticket](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
->⚠️ On VTEX, 3DS 2 does not make purchases with two cards. If an order is placed under these conditions, payment will be canceled.            
+<div class="alert alert-warning">
+On VTEX, 3DS 2 does not make purchases with two cards. If an order is placed under these conditions, payment will be canceled.
+</div>            
 
 ## Configuring 3DS 2
 
@@ -35,4 +39,6 @@ To configure 3DS 2 authentication on affiliations, follow the steps below:
 6. In the __Suporte 3DS 2.0__ field, select the __“Yes”__ option.
 7. Click on __Save__.
 
->⚠️ The 3DS 2 field description (**"Suporte 3DS 2.0"**, reported in Step 8) may vary according to the type of payment provider to be configured. Check with your chosen payment provider's technical support to identify the correct field to select to enable 3DS 2 authentication.
+<div class="alert alert-warning">
+  The 3DS 2 field description (<b>"Suporte 3DS 2.0"</b>, reported in Step 8) may vary according to the type of payment provider to be configured. Check with your chosen payment provider's technical support to identify the correct field to select to enable 3DS 2 authentication.
+</div>

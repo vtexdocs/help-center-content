@@ -18,7 +18,9 @@ internalReference: 956338
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Tenemos algunos problemas a la hora de colocar los códigos postales en el módulo **Previsualización de envíos** del carrito, algunos de ellos se describen en estos KIs:

@@ -18,7 +18,9 @@ internalReference: 350814
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En las transacciones con la marca de tarjeta Elo, no se está respetando la configuración de captura anticipada, y la transacción se está capturando inmediatamente después de la aprobación.

@@ -30,14 +30,18 @@ A [conta franquia](https://help.vtex.com/pt/tutorial/what-is-a-franchise-account
 
 Utilizar a conta franquia é estratégico para operações que desejam expandir suas vendas com a integração de lojas físicas, por exemplo, pois existe a facilidade de herdar um catálogo já cadastrado na plataforma VTEX. Saiba mais em [O que é conta franquia](https://help.vtex.com/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl).
 
->ℹ️ Por padrão, toda conta franquia é um seller white label da conta principal. E apesar de seller white label e conta franquia serem conceitos relacionados, eles não são correspondentes, pois seller white label é um tipo de seller e conta franquia é um tipo de conta.
+<div class = "alert alert-info">
+Por padrão, toda conta franquia é um seller white label da conta principal. E apesar de seller white label e conta franquia serem conceitos relacionados, eles não são correspondentes, pois seller white label é um tipo de seller e conta franquia é um tipo de conta.
+</div>
 
 É possível que uma conta padrão atue como seller white label de uma outra loja VTEX, cenário no qual o marketplace não informa ao consumidor quem é o seller que realiza o envio do pedido. Outra possibilidade é uma conta franquia atuar como um seller normal de um marketplace que não seja a conta principal. Em resumo:
 
 - **Conta:** pode ser do tipo conta franquia ou conta padrão.
 - **Seller:** pode ser do tipo comum ou white label.
 
->ℹ️ Para adicionar um seller white label é necessário ter esse modelo previsto no contrato com a VTEX. Uma vez ajustado o contrato com o representante comercial da VTEX responsável por seu marketplace, solicite a adição de uma conta franquia por meio do nosso Suporte. Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação.
+<div class = "alert alert-info">
+Para adicionar um seller white label é necessário ter esse modelo previsto no contrato com a VTEX. Uma vez ajustado o contrato com o representante comercial da VTEX responsável por seu marketplace, solicite a adição de uma conta franquia por meio do nosso Suporte. Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação.
+  </div>
 
 ### Saiba mais
 

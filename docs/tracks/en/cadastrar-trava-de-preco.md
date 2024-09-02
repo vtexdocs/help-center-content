@@ -1,10 +1,10 @@
 ---
 title: 'Adding a Price Variation Limiter'
 id: 6IVgeLPeggIv2mkbFVO6y3
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-07-04T13:54:30.939Z
-updatedAt: 2023-03-29T20:24:47.600Z
-publishedAt: 2023-03-29T15:24:12.257Z
+updatedAt: 2024-08-26T18:38:52.888Z
+publishedAt: 2024-08-26T18:38:52.888Z
 firstPublishedAt: 2019-07-17T19:48:12.477Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -23,15 +23,16 @@ Follow the steps below to add a price variation limiter:
 
 ## Admin
 
-1. Click on **Prices**.
-2. Click on **Settings**.
-3. Switch the **Use Price Limits** *toggle* to activate the **Price Variation Limiter**.
-4. Fill in the **upper limit** and **lower limit** percentage fields with the desired values.
-5. Click on **Save**.
+1. In VTEX Admin, go to **Store Settings > Products > Price Settings**, or type **Price Settings** in the search bar at the top of the page.
+2. Click on **Use price variation limit**.
+3. Enter the desired percentage for **Maximum Decrease** and **Maximum Increase**.
+4. Click **Save**.
 
 ## API REST
 
->⚠️ Authentications for Prices module's API REST calls should be done using AppKey and AppToken. For more info, read our article on [how to generate an AppKey and AppToken to authenticate integrations](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication)
+<div class="alert alert-warning">
+Authentications for Prices module's API REST calls should be done using AppKey and AppToken. For more info, read our article on <a href="https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication">how to generate an AppKey and AppToken to authenticate integrations</a>
+</div>
 
 To add a **price variation limiter**, you need to send a __POST__ to the following endpoint:
 

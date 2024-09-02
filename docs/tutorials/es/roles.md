@@ -24,7 +24,7 @@ En la página **Roles** puedes realizar las siguientes acciones:
 * [Editar rol](#editar-rol)
 * [Eliminar rol](#eliminar-rol)
 
-![roles-es](https://images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/61435c94a6654fd066e3b0f5f8cd2fd0/roles-es.png)
+![roles-es](//images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/61435c94a6654fd066e3b0f5f8cd2fd0/roles-es.png)
 
 La página muestra en formato de tabla una lista con todos los roles registrados en la cuenta y su respectiva información: 
 
@@ -38,7 +38,9 @@ La página muestra en formato de tabla una lista con todos los roles registrados
 
 En una cuenta recién creada, solo aparecerá en la lista el rol _Owner (Admin Super)_. Dicho rol permite al usuario acceder sin restricciones a todos los recursos nativos de la plataforma.
 
->⚠️ El número de usuarios con el rol *Owner (Admin Super)* debe ser el menor posible. También hay que asegurarse de que haya visibilidad y control sobre quién recibe este acceso.
+<div class="alert alert-warning">
+  <p>El número de usuarios con el rol <em>Owner (Admin Super)</em> debe ser el menor posible. También hay que asegurarse de que haya visibilidad y control sobre quién recibe este acceso.</p>
+</div>
 
 ## Crear rol
 
@@ -56,7 +58,9 @@ Puedes editar los recursos y usuarios relacionados con un determinado rol; solo 
 
 Para eliminar un rol, haz clic en el ícono de ⫶ en la fila del rol que deseas eliminar y a continuación en <i class="far fa-trash-alt"></i> `Eliminar`.
 
->⚠️ Al eliminar un rol, los usuarios asociados al mismo perderán el acceso a los [recursos del License Manager](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) relacionados con él, a menos que tengan otros roles con los mismos permisos.
+<div class="alert alert-warning">
+  <p>Al eliminar un rol, los usuarios asociados al mismo perderán el acceso a los <a href="https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3">recursos del License Manager</a> relacionados con él, a menos que tengan otros roles con los mismos permisos.</p>
+</div>
 
 ## Más información
 

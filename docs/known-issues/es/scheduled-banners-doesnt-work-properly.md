@@ -18,7 +18,9 @@ internalReference: 400194
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al programar un banner en el CMS no funciona como se pretende y muchas veces el banner se bloquea o no muestra toda la información que contiene.

@@ -19,7 +19,11 @@ Política de envio é um conjunto de regras que definem as opções e condiçõe
 
 Todas essas configurações são baseadas principalmente no contrato que a sua loja tem com uma [transportadora](https://help.vtex.com/pt/tutorial/o-que-e-uma-transportadora--7u9duMD5UQa2QQwukAWMcE), com um prestador de serviço, ou com qualquer outro tipo de contrato de serviço de frete que sua loja ofereça aos consumidores.
 
->ℹ️ É possível que uma mesma transportadora seja base de múltiplas políticas de envio, cada uma com suas particularidades. Veja abaixo como criar, editar e excluir políticas de envio.
+<div class="alert alert-info"> 
+
+É possível que uma mesma transportadora seja base de múltiplas políticas de envio, cada uma com suas particularidades. Veja abaixo como criar, editar e excluir políticas de envio.
+
+</div>
 
 Pela plataforma da VTEX, é possível: 
 

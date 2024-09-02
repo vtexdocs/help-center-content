@@ -18,7 +18,9 @@ internalReference: 620668
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 En la nueva interfaz de usuario, algunos pedidos no muestran correctamente el desglose de la entrega estimada.
 

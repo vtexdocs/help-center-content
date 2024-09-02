@@ -18,7 +18,9 @@ internalReference: 508893
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar fazer qualquer mudança em uma configuração de sinônimo que era anteriormente importada por um arquivo csv, o botão salvar é sempre desativado, não importando a mudança:

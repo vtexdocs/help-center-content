@@ -18,7 +18,9 @@ internalReference: 776353
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hay algunos casos en los que el título de la página es incorrecto para las tiendas multilingües en páginas como categoría, subcategoría y marcas, donde la ruta tiene un valor en él y al mirar el título de la página tiene un nombre diferente que no coincide con el esperado.

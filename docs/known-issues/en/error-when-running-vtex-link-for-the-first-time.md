@@ -29,12 +29,14 @@ The error authorization message can change from `node`to `react` according to th
 1.  Install the VTEX CLI (Toolbelt)
 2.  Navigate towards the app's directory
 3.  Execute the "vtex-link" command through the terminal.
-4.  ![image (8)](https://images.ctfassets.net/alneenqid6w5/3NTzMXCKgM8GA6Y6eEKAA2/7d11d9a4e05ef1274beebe494bd8baf9/image__8_.png)
+4.  ![image (8)](//images.ctfassets.net/alneenqid6w5/3NTzMXCKgM8GA6Y6eEKAA2/7d11d9a4e05ef1274beebe494bd8baf9/image__8_.png)
 
 ## Workaround
 
 1. Fill out this [form](https://suportevtex1.typeform.com/to/SxXknn) 
 2. Access your Account Management module and make sure that your profile has VTEX IO Admin permissions.
 
->ℹ️ Filling out the form does not guarantee Node + GraphQL and Extensibility Whitelist access.
+<div class="alert alert-info">
+Filling out the form does not guarantee Node + GraphQL and Extensibility Whitelist access.
+</div>
 

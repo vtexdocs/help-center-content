@@ -18,7 +18,9 @@ internalReference: 919761
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El mercado puede aprobar los productos enviados por los vendedores en el módulo de Skus Recibidos.

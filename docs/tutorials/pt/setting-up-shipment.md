@@ -17,7 +17,9 @@ subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 
 Esta é uma configuração amplamente utilizada quando um fluxo muito grande de pedidos acaba gerando uma demanda logística considerável, pois possibilita que um pacote aguarde o tempo de preparo de outro para ser enviado em grupo, por uma mesma transportadora, a um destinatário final.
 
->⚠️ Os grupos de remessa são criados pela somatória do tempo de custo do Estoque até a Doca e do tempo de custo da Doca.
+<div class="alert alert-warning">
+Os grupos de remessa são criados pela somatória do tempo de custo do Estoque até a Doca e do tempo de custo da Doca.
+</div>
 
 Na imagem abaixo vemos a configuração de remessa de __6 dias.__ Cada caixinha representa o custo em dias de um pacote, considerando apenas o __custo de estoque e o custo da doca.__
 
@@ -25,7 +27,7 @@ A primeira caixinha com tempo total de __2 dias__ irá esperar o item represent
 
 O período considera T = 0 como a data do pedido.
 
-![Configuração em estoque e entrega ](https://images.ctfassets.net/alneenqid6w5/2lvFxIIkeZtgpqm66yRiyf/3dd5e11e0c89ad2285777f6a0a8eadc5/Configura____o_em_estoque_e_entrega_PT.png)
+![Configuração em estoque e entrega ](//images.ctfassets.net/alneenqid6w5/2lvFxIIkeZtgpqm66yRiyf/3dd5e11e0c89ad2285777f6a0a8eadc5/Configura____o_em_estoque_e_entrega_PT.png)
 
 ## Como configurar a remessa
 1. No Admin VTEX, acesse **Configurações da loja > Envio > Configurações**, ou digite *Envio* na barra de busca no topo da página e selecione *Configurações da loja / Envio*.  

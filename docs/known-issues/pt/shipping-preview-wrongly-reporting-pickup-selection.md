@@ -18,7 +18,9 @@ internalReference: 552912
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 No carrinho, ao informar sua localização, a visualização da remessa informa erroneamente qual pickup foi selecionado para esta pickup. Quando de fato, duas opções de coleta devem ser exibidas (houve uma quebra de pacote neste exemplo). E ao chegar na caixa, a informação é fornecida corretamente, com as retiradas nas respectivas pick-ups corretas.

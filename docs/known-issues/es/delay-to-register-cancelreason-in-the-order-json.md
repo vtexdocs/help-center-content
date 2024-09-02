@@ -18,7 +18,9 @@ internalReference: 792650
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Debido a la forma en que se ejecuta el flujo de actualización de la orden desde cualquier estado hasta cancelada, es posible que el sistema de órdenes tarde un tiempo en registrar el CancelReason en el json de la orden, provocando un breve escenario de inconsistencia si se consulta o utiliza el Json unos segundos después de la acción de cancelación;

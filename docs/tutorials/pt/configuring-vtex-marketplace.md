@@ -47,7 +47,9 @@ Para adicionar sellers ao seu marketplace pelo Admin VTEX, siga as instruções 
 
 O [Seller Portal](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) é uma edição da plataforma VTEX que permite que sellers se conectem e vendam seus produtos em marketplaces. Marketplaces hospedados na VTEX podem convidar sellers que já têm uma conta VTEX para se conectarem por meio do Seller Portal. Também é possível convidar sellers hospedados em outras plataformas ou aqueles que ainda não estão hospedados em nenhuma plataforma para criar uma conta no Seller Portal de forma rápida e sem atritos.
 
->ℹ️ Para ativar o Seller Portal para seus sellers, é necessário que o marketplace solicite essa funcionalidade entrando em contato com o CSM da sua conta na VTEX.
+<div class="alert alert-info">
+Para ativar o Seller Portal para seus sellers, é necessário que o marketplace solicite essa funcionalidade entrando em contato com o CSM da sua conta na VTEX.
+</div>
 
 Uma vez contratado o uso do Seller Portal, para adicionar sellers a uma conta de Seller Portal, siga as instruções em [Convite de Sellers](https://help.vtex.com/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A).
 
@@ -83,7 +85,9 @@ Um marketplace pode obter a informação da localização do usuário na vitrine
 
 Quando o VTEX Session não tem acesso à localização do consumidor, ainda é preciso apontar um sortimento de produtos de sellers na experiência de compra. Nesse cenário, o algoritmo de seleção de sellers indica [sellers abrangentes](https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), que são capazes de entregar pedidos em todas as regiões atendidas pelo seu marketplace.
 
->ℹ️ A funcionalidade Region está adaptada apenas para lojas que utilizam o VTEX IO, e não é válida para o Portal CMS Legado.
+<div class="alert alert-info">
+A funcionalidade Region está adaptada apenas para lojas que utilizam o VTEX IO, e não é válida para o Portal CMS Legado. 
+</div>
 
 ## Configurar storefront
 

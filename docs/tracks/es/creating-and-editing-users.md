@@ -46,4 +46,6 @@ No se puede cambiar el correo electrónico. Para esto, es necesario hacer un nue
 2. Seleccione el usuario deseado y haga clic en el **ícono del bote de basura** en la columna de acciones.
 3. Haga clic en **confirmar**.
 
->ℹ️ Aunque los tokens de integración aparecen en la lista de usuarios, no se pueden eliminar. Para deshabilitarlos, vaya a *Configuraciónes de la cuenta > Gestión de la cuenta > Cuenta* y desmarque el campo **Estado de los tokens**.
+<div class="alert alert-info">
+Aunque los tokens de integración aparecen en la lista de usuarios, no se pueden eliminar. Para deshabilitarlos, vaya a <em>Configuraciónes de la cuenta > Gestión de la cuenta > Cuenta</em> y desmarque el campo <strong>Estado de los tokens</strong>.
+</div>

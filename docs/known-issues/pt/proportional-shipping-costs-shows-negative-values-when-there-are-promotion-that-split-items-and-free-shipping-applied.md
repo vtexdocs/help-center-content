@@ -18,7 +18,9 @@ internalReference: 909925
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar promoções que dividem itens, como o tipo "Mais por menos", os custos de envio proporcionais podem exibir valores negativos.

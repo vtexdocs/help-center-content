@@ -18,7 +18,9 @@ internalReference: 664838
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La nueva interfaz de usuario no muestra en la página de artículos devueltos el valor total ya facturado.

@@ -25,7 +25,9 @@ Na VTEX, sua loja pode receber pagamentos por meio de promissórias. Para isso, 
 
 Para configurar uma afiliação de gateway, acesse [Cadastrar afiliações de gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444#).
 
->⚠️ Verifique se a afiliação de gateway desejada suporta o processamento de pagamento por promissória.
+<div class="alert alert-warning">
+Verifique se a afiliação de gateway desejada suporta o processamento de pagamento por promissória.
+</div>
 
 ## Configurar Promissória
 

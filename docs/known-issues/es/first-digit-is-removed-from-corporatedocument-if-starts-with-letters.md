@@ -18,7 +18,9 @@ internalReference: 920703
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el documento corporativo de una organización comienza con letras, el primer dígito se elimina después de acceder a la comprobación.

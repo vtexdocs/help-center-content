@@ -18,7 +18,9 @@ internalReference: 654370
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La UI de logística permite a un usuario crear un Almacén registrando un ID con espacio y esto afecta directamente a las peticiones realizadas a este almacén pudiendo provocar fallos en la actualización del inventario.

@@ -26,7 +26,7 @@ Domain-related settings are necessary for a web address to be correctly routed t
 
 The store's address is composed of the following elements:
 
-![url-diagram-en](https://images.ctfassets.net/alneenqid6w5/kg98gTuZiMlewhPiRAyaF/ad84010eef6bab7fae5123f18ab0887d/url-diagram-en.png)
+![url-diagram-en](//images.ctfassets.net/alneenqid6w5/kg98gTuZiMlewhPiRAyaF/ad84010eef6bab7fae5123f18ab0887d/url-diagram-en.png)
 
 | Element | Description | Example |
 |---|---|---|
@@ -82,9 +82,13 @@ To register a new host, they must comply with the guidelines specified in the [R
 
 After completing these steps, you can [configure DNS pointing to VTEX](https://help.vtex.com/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
 
->⚠️ [FastStore](https://www.faststore.dev/) stores also need to configure an address with the `secure` subdomain. Refer to the[ Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) guide for more details.
+<div class="alert alert-warning">
+  <p><a href="https://www.faststore.dev/">FastStore</a> stores also need to configure an address with the <code>secure</code> subdomain. Refer to the<a href="https://www.faststore.dev/docs/go-live/2-configuring-external-dns"> Configuring external DNS for a custom domain</a> guide for more details.</p>
+</div>
 
->❗ If your operation has more than one VTEX account or [sub-account](https://help.vtex.com/en/tutorial/como-criar-multiloja-multidominio--tutorials_510), don't change hosts from one account to another. This will cause failures in many aspects of your store.
+<div class="alert alert-danger">
+  <p>If your operation has more than one VTEX account or <a href="https://help.vtex.com/en/tutorial/como-criar-multiloja-multidominio--tutorials_510">sub-account</a>, don't change hosts from one account to another. This will cause failures in many aspects of your store.</p>
+</div>
 
 ## Changing host
 

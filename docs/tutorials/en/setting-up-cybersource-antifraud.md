@@ -21,7 +21,9 @@ If you are looking for more details about __gateway__ CyberSource, read [this He
 
 ## Setting up the CyberSource Anti-Fraud
 
->ℹ️ Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before performing Step 6. of this section.
+<div class="alert alert-info">
+Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before performing Step 6. of this section.
+</div>
 
 1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
 2. On the provider's screen, click the `New Provider` button.
@@ -49,4 +51,6 @@ After setting up CyberSource's anti-fraud system, it will be available for use i
 6. Select CyberSource.
 7. Click `Save`.
 
->⚠️ For a transaction to go through antifraud analysis, **the payment condition used by the customer must be associated with it**.
+<div class="alert alert-warning">
+For a transaction to go through antifraud analysis, <strong>the payment condition used by the customer must be associated with it</strong>.
+</div>

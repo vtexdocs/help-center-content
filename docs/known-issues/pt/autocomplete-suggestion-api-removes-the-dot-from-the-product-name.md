@@ -1,5 +1,5 @@
 ---
-title: "A API de sugestão de preenchimento automático remove o ponto '.' do nome do produto"
+title: 'A API de sugestão de preenchimento automático remove o ponto "." do nome do produto'
 id: 55185IvERIwGQ3kH6H510O
 status: PUBLISHED
 createdAt: 2024-04-10T13:58:51.138Z
@@ -18,7 +18,9 @@ internalReference: 1014701
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Esse problema ocorre quando se pesquisa um termo e a sugestão de preenchimento automático retorna o nome do produto sem o caractere de ponto ".", mesmo que ele exista no nome do produto, resultando em resultados de pesquisa incorretos.

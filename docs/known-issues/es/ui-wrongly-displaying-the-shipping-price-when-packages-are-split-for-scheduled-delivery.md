@@ -18,7 +18,9 @@ internalReference: 774155
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando hay una división de paquetes para una entrega programada, el precio de uno de los paquetes puede ser incorrecto en la interfaz de usuario, pero los precios serán correctos en la API.

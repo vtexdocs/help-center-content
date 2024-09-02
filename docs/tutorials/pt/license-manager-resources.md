@@ -19,12 +19,16 @@ A VTEX disponibiliza vários [perfis de acesso](https://help.vtex.com/pt/tutoria
 
 Por isso, a plataforma VTEX oferece a possibilidade de criar perfis de acessos customizados, permitindo que você escolha precisamente quais recursos poderão ser acessados por um dado perfil customizado. Abaixo, você encontra a descrição dos recursos da VTEX disponíveis para cada produto.
 
->❗ O uso irrestrito de recursos aumenta o risco de ataques às lojas por vazamento de credenciais de login com acesso a recursos críticos.
->     Caso haja dúvidas sobre a descrição de um recurso específico, não hesite em nos contatar.
+<div class="alert alert-danger">
+  <p>O uso irrestrito de recursos aumenta o risco de ataques às lojas por vazamento de credenciais de login com acesso a recursos críticos.
+    Caso haja dúvidas sobre a descrição de um recurso específico, não hesite em nos contatar.</p>
+</div>
 
 <iframe src="https://help.vtex.com/tables/resources/pt" title="Recursos do License Manager" frameBorder="0" width="100%" height="850"></iframe>
 
->ℹ️ No aplicativo [Audit](https://help.vtex.com/pt/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), recursos do License Manager são identificados pelas respectivas chaves.
+<div class = "alert alert-info">
+  <p>No aplicativo <a href="https://help.vtex.com/pt/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA">Audit</a>, recursos do License Manager são identificados pelas respectivas chaves.</p>
+</div>
 
 ## Recursos internos ou deprecados
 

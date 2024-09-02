@@ -34,7 +34,9 @@ Here are some useful profiles:
 - __Financeiro:__ Gives access to the Financial submodule, within the License Manager, letting the user see payment tickets and tax invoices relating to payment of the VTEX service.
 - __Webservice:__ Allows users to access web service methods, used in some integrations (mostly related to the Catalog).
 
->⚠️ **Atention**: Telephone sales (referred above as Televendas) profiles block access to the E-commerce module. In other words, you cannot access the products register for example. If it is necessary to access this module, the user should work with two different user IDs.
+<div class="alert alert-warning"> 
+<strong>Atention</strong>: Telephone sales (referred above as Televendas) profiles block access to the E-commerce module. In other words, you cannot access the products register for example. If it is necessary to access this module, the user should work with two different user IDs.
+</div>
 
 ## Creating new profiles
 

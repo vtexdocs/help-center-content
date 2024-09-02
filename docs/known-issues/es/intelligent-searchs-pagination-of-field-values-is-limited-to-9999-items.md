@@ -18,7 +18,9 @@ internalReference: 428486
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La Búsqueda Inteligente tiene un problema con la paginación de los valores. Esto hace que algunos valores no se muestren al seleccionarlos en un filtro de condición, como las condiciones de Reglas de comercialización, por ejemplo. Si el campo seleccionado contiene más de 9.999 valores, sólo se mostrarán los primeros 9.999 en el desplegable de vista previa.

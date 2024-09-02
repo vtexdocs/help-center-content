@@ -18,7 +18,9 @@ internalReference: 906509
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Por alguna razón, al intentar abrir una nueva cuenta para clientes específicos a través de la API, devuelve el siguiente error:

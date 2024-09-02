@@ -18,7 +18,9 @@ internalReference: 685103
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los clientes no pueden utilizar la función de arrastrar y soltar en el editor del sitio para subir imágenes, esto probablemente ocurre duo nuestra nueva implementación de nuestro nuevo CMS Media Management.

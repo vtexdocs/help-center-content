@@ -19,12 +19,16 @@ VTEX ofrece varios [roles de usuario predefinidos](https://help.vtex.com/es/tuto
 
 Por lo tanto, la plataforma VTEX ofrece la posibilidad de crear roles de usuario personalizados, lo que permite elegir con precisión a qué recursos puede acceder un determinado rol personalizado. A continuación, encontrarás los recursos de VTEX disponibles para cada producto.
 
->❗ El uso sin restricciones de los recursos aumenta el riesgo de ataques a las tiendas por la filtración de credenciales de acceso a los recursos críticos.
-> Si tienes alguna duda sobre la descripción de un recurso específico, no dudes en ponerse en contacto con nosotros.
+<div class="alert alert-danger">
+  <p>El uso sin restricciones de los recursos aumenta el riesgo de ataques a las tiendas por la filtración de credenciales de acceso a los recursos críticos.
+Si tienes alguna duda sobre la descripción de un recurso específico, no dudes en ponerse en contacto con nosotros.</p>
+</div>
 
 <iframe src="https://help.vtex.com/tables/resources/es" title="Recursos del License Manager" frameBorder="0" width="100%" height="850"></iframe>
 
->ℹ️ En la aplicación [Audit](https://help.vtex.com/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), los recursos de License Manager son identificados por las respectivas claves.
+<div class = "alert alert-info">
+  <p>En la aplicación <a href="https://help.vtex.com/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA">Audit</a>, los recursos de License Manager son identificados por las respectivas claves.</p>
+</div>
 
 ## Recursos internos o obsoletos
 

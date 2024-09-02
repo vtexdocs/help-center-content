@@ -1,5 +1,5 @@
 ---
-title: "La compra no se puede finalizar y se queda atascada en 'el tipo de carga ha cambiado'"
+title: 'La compra no se puede finalizar y se queda atascada en "el tipo de carga ha cambiado"'
 id: mgewQ8QmZ3V3dkc7vdJkV
 status: PUBLISHED
 createdAt: 2023-09-25T13:28:28.121Z
@@ -18,7 +18,9 @@ internalReference: 449341
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al utilizar cualquier promoción que provoque la división de un artículo y se seleccionen dos vendedores diferentes, al hacer clic en "Comprar ahora" aparecerá el mensaje "El tipo de carga ha cambiado", lo que impedirá que se complete la compra.

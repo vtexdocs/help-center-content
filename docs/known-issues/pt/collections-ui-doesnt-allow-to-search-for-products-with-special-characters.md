@@ -18,7 +18,9 @@ internalReference: 344451
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A nova coleção UI, `.myvtex.com/admin/collections', não permite que os usuários procurem produtos com caracteres especiais.

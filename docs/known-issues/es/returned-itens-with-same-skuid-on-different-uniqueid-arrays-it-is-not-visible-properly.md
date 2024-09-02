@@ -18,7 +18,9 @@ internalReference: 1050294
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Nuestros sistemas integrados (OMS/SNO/UI) no fueron diseñados para utilizar la misma información para la correlación para mostrar la información correcta cuando un iten con el mismo SKU fue creado en diferente matriz uniqueid. Esto sucede porque algunos sistemas utilizan skuid y otros itemindex.

@@ -18,7 +18,7 @@ subcategory: 1VvCpaa8NCA6a0MK6W6oWg
 El Admin VTEX permite a los administradores de la tienda gestionar todas sus experiencias de comercio digital en un solo lugar, de forma sencilla e inteligente. Aquí dan seguimiento a los pedidos, registran productos, configuran fulfillment y llevan a cabo los demás aspectos de una operación de comercio unificado.
 
 ## Página de inicio
-![Store Overview gif ES](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b91a459e41bac28866c1165ca8fcc208/Store_Overview_gif_ES.gif)
+![Store Overview gif ES](//images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b91a459e41bac28866c1165ca8fcc208/Store_Overview_gif_ES.gif)
 
 La página de inicio proporciona una vista de alto nivel de tu tienda, como una cabina de mando para tus operaciones de comercio digital, y por eso se llama [Vista general](https://help.vtex.com/es/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
 
@@ -28,7 +28,7 @@ Una vez que accedas al Admin, verás métricas y gráficos útiles para monitore
 
 Nuestros menús laterales de navegación y la barra superior agrupan categorías similares de forma más clara para reducir las distracciones y ayudar a tu equipo a encontrar lo que necesita más rápidamente. 
 
-![menu de navegación admin SEP2023](https://images.ctfassets.net/alneenqid6w5/2uRMUQWZoiRiuEL70siDJ1/76b32915010a0dc372fe94ba378e690e/admin-navigation.png)
+![menu de navegación admin SEP2023](//images.ctfassets.net/alneenqid6w5/2uRMUQWZoiRiuEL70siDJ1/76b32915010a0dc372fe94ba378e690e/admin-navigation.png)
 
 Puede utilizar la barra de búsqueda global para buscar páginas en el Admin VTEX o pedidos de su tienda. Por defecto, la búsqueda está configurada en `Páginas`. Para buscar un pedido, haga clic en la barra, seleccione la opción `Pedidos` y utilice cualquiera de los siguientes criterios:
 
@@ -52,11 +52,13 @@ Consulta nuestros artículos sobre la vista general de cada menú del Admin VTEX
 - [Configuración del usuario](https://help.vtex.com/es/v4/docs/visao-geral-configuracoes-usuario--1qYAvOTZBVYMosJ7tQm3Ry)  
 - [Facturas](https://help.vtex.com/es/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC)  
 
->ℹ️ También puedes utilizar la barra de búsqueda en la parte superior del Admin VTEX para encontrar páginas específicas del menú lateral.
+<div class="alert alert-info">
+También puedes utilizar la barra de búsqueda en la parte superior del Admin VTEX para encontrar páginas específicas del menú lateral. 
+</div>
 
 ### Centro de información
 
-![centro de información admin SEP2023](https://images.ctfassets.net/alneenqid6w5/7a9d2QspPcT4w9BbdpQiR6/b1146f7ef7eec57f4f2a9c7a5f3e25c1/Information_center.gif)
+![centro de información admin SEP2023](//images.ctfassets.net/alneenqid6w5/7a9d2QspPcT4w9BbdpQiR6/b1146f7ef7eec57f4f2a9c7a5f3e25c1/Information_center.gif)
 
 Allí hemos reunido todos los enlaces útiles de nuestro ecosistema VTEX para ayudarte a sacar el máximo partido a nuestra plataforma. Haciendo clic en el botón <i class='fa fa-question-circle-o'></i>  en la barra superior, puedes acceder a nuestro [Help Center](https://help.vtex.com), [Developer Portal](https://developers.vtex.com/), [Plataform Status](https://status.vtex.com/), [blog](https://vtex.com/es/blog/) y a las páginas de soporte.
 
@@ -66,7 +68,7 @@ El botón Dar feedback permite al usuario compartir su opinión sobre su experie
 2. Haz clic en la opción **Dar feedback**.
 
 Se abrirá un formulario de Google donde podrás enviar tus comentarios. Tras el envío, recibirás un email de confirmación.
-![Botão feedback - ES](https://images.ctfassets.net/alneenqid6w5/6OUJxw2vU5UhLX16TOMAts/38ed137e7d5d226361bee4ecd98a1f18/Bot_o_feedback_-_ES.gif)
+![Botão feedback - ES](//images.ctfassets.net/alneenqid6w5/6OUJxw2vU5UhLX16TOMAts/38ed137e7d5d226361bee4ecd98a1f18/Bot_o_feedback_-_ES.gif)
 
 #### Formulario de feedback
 El objetivo principal de las preguntas presentes en el formulario de feedback es obtener información detallada sobre la experiencia y las percepciones con respecto al producto en el Admin VTEX.
@@ -89,11 +91,13 @@ Tipo de feedback (marca una o varias casillas):
 
 **Agregar captura de pantalla para ayudarnos a comprender mejor tu opinión:** campo opcional para adjuntar capturas de pantalla u otros documentos que faciliten la comprensión.
 
->ℹ️ Este proceso de feedback no debe utilizarse para abrir un ticket o solicitud de soporte técnico en VTEX.
+<div class = "alert alert-info">
+Este proceso de feedback no debe utilizarse para abrir un ticket o solicitud de soporte técnico en VTEX.
+</div>
 
 ### Configuración de la cuenta y del usuario
 
-![configuraciones de avatar admin SEP2023](https://images.ctfassets.net/alneenqid6w5/52uxBkDXceU5apwZe4ZkaQ/bd3df394bdf8c173763d8df481cf3a52/Avatar_settings2.gif)
+![configuraciones de avatar admin SEP2023](//images.ctfassets.net/alneenqid6w5/52uxBkDXceU5apwZe4ZkaQ/bd3df394bdf8c173763d8df481cf3a52/Avatar_settings2.gif)
 
 El avatar de tu perfil reúne todas las configuraciones relacionadas con tu usuario y tu cuenta. A través del avatar, puedes acceder a la [Configuración del usuario](https://help.vtex.com/es/v4/docs/user-settings-overview--1qYAvOTZBVYMosJ7tQm3Ry), a la [Configuración de la cuenta](https://help.vtex.com/es/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r), y a la información de las [Facturas](https://help.vtex.com/es/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC).  También puedes cambiar el idioma del Admin y cerrar la sesión.
 

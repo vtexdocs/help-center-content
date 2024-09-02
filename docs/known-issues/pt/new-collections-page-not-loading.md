@@ -18,7 +18,9 @@ internalReference: 419729
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A conta não poderia ser capaz de carregar a página de aplicativo de coleta, o pedido `api/catalog_system/pvt/collection/search/?an=&page=1&pageSize=10&orderByAsc=false` poderia retornar 500, devido ao timeout:

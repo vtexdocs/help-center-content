@@ -18,7 +18,9 @@ internalReference: 541687
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Por defecto se cancelan y enviamos dos Solicitudes de Autorización 3Ds, y todavía no ha recibido la respuesta de Solicitud de Autorización.

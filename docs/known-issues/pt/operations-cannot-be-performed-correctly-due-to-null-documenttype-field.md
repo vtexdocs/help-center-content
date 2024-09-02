@@ -18,7 +18,9 @@ internalReference: 697107
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns provedores precisam necessariamente que `documentType` seja diferente de `null`, ou seja, que seja preenchido corretamente para realizar algumas operações de pagamento.

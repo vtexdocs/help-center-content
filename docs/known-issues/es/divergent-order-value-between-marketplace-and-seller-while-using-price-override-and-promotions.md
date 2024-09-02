@@ -18,7 +18,9 @@ internalReference: 756629
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el precio del artículo del vendedor _menos_ los descuentos del marketplace tiene un valor negativo, no se puede aplicar al artículo (no pueden tener un precio negativo), por lo que se considerará como cero y se estropeará con otros cálculos. Esto ocurre cuando el mercado está utilizando la función de anulación de precio del vendedor, generando valores más altos que la propia cuenta del vendedor, y luego combinando con una promoción.

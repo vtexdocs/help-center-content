@@ -18,7 +18,9 @@ internalReference: 617974
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El mapa del sitio generado está mostrando todos los productos de las subcuentas y cuentas, sin tener en cuenta el canal de venta de los productos y si la subcuenta tiene un sitio web propio.

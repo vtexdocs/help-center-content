@@ -1,5 +1,5 @@
 ---
-title: "Collections Field always appearing as 'Equal To' on the Campaign Audience Form"
+title: 'Collections Field always appearing as "Equal To" on the Campaign Audience Form'
 id: 2NPEh7LZkrpO0gf802I7HZ
 status: PUBLISHED
 createdAt: 2022-11-11T21:18:53.386Z

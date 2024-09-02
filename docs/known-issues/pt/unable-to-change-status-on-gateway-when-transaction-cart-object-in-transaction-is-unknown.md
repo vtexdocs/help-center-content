@@ -1,5 +1,5 @@
 ---
-title: "Incapaz de mudar o status no gateway quando a transação Cart objeto em /transação é 'desconhecido'."
+title: 'Incapaz de mudar o status no gateway quando a transação Cart objeto em /transação é "desconhecido".'
 id: 3gWqk1T2xP3eRYZtXZLX3b
 status: PUBLISHED
 createdAt: 2023-03-23T14:27:16.116Z
@@ -18,7 +18,9 @@ internalReference: 776837
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A fim de cancelar ou alterar um pedido para cenários divididos, nossa porta de entrada requer um objeto de carrinho. Entretanto, se o processo de checkout via OMS enviar um objeto de carrinho nulo/ desconhecido, nosso gateway não pode processar estas operações, resultando em um erro de análise da biblioteca Newtonsoft utilizada no gateway.

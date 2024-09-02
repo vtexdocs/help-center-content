@@ -47,7 +47,9 @@ To configure CieloEcommerce, follow the steps below:
 
 <blockquote><ui>14. In <b>AntifraudProvider</b>, select the antifraud provider you want to use with CieloEcommerce.</ui>
 
-<blockquote>>⚠️ Check with Cielo whether the anti-fraud options in CieloEcommerce are already available for use. If still under development, both fields described in step 15 must be left blank. For more information about using anti-fraud options in your store, visit [Configuring the anti-fraud](https://help.vtex.com/en/tutorial/how-to-configure-the-anti-fraud).</blockquote>
+<blockquote><div class="alert alert-warning">
+  Check with Cielo whether the anti-fraud options in CieloEcommerce are already available for use. If still under development, both fields described in step 15 must be left blank. For more information about using anti-fraud options in your store, visit <a href="https://help.vtex.com/en/tutorial/how-to-configure-the-anti-fraud">Configuring the anti-fraud</a>.
+  </div></blockquote>
 <br>  
 <blockquote><ui>15. In <b>Antifraud</b> and <b>AntifraudSequenceCriteria</b>, select the options according to information from CieloEcommerce antifraud.</ui>
 

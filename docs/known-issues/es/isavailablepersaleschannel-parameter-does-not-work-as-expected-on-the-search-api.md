@@ -18,7 +18,9 @@ internalReference: 656284
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar utilizar el parámetro isAvailablePerSalesChannel para mostrar los productos disponibles (fq=isAvailablePerSalesChannel_{id}:1) o no disponibles (fq=isAvailablePerSalesChannel_{id}:0) el resultado no es coherente.

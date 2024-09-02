@@ -25,7 +25,9 @@ Local stock sale allows the sales associate in a physical store to complete sale
 6. [Link the franchise account to the physical store](#linking-the-franchise-account-to-the-physical-store)
 7. [Integrate the point of sale](#integrating-the-point-of-sale)
 
->ℹ️ Local stock sale can only be set up for stores that use Sales App. Learn how to request and configure Sales App in our [Sales App - Getting started and setting up](https://help.vtex.com/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) documentation.
+<div class="alert alert-info">
+<p>Local stock sale can only be set up for stores that use Sales App. Learn how to request and configure Sales App in our <a href="https://help.vtex.com/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc">Sales App - Getting started and setting up</a> documentation.</p>
+</div>
 
 ## Creating a franchise account
 
@@ -62,7 +64,9 @@ If all your products are listed without quantity, you will need to add the quant
 
 You need to [enabling selling an out-of-stock item](#enabling-selling-an-out-of-stock-item-optional) if you want to ensure the item on hand will always be available for customers in the store.
 
->ℹ️ If you created two different warehouses, one for the ecommerce website and one for Sales App, it is important to manage stock quantity correctly for each.
+<div class="alert alert-info">
+<p>If you created two different warehouses, one for the ecommerce website and one for Sales App, it is important to manage stock quantity correctly for each.</p>
+</div>
 
 ## Linking the franchise account to the physical store
 
@@ -73,9 +77,11 @@ You will need to select a sales associate from the store where you want to test 
 1. With a [sales associate selected](https://help.vtex.com/en/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), open Sales App and log in.
 2. Search for an item that exists in the franchise account warehouse. The item should display the available quantity that corresponds to the seller inventory.
 
-![instore-pdp-en](https://images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/064cb3f0b499da4533cacdbea0fee4eb/image.png)
+![instore-pdp-en](//images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/064cb3f0b499da4533cacdbea0fee4eb/image.png)
 
->ℹ️ If you enabled Infinite inventory, the item quantity will display as a number greater than one million, which can't be changed when a sale is completed.
+<div class="alert alert-info">
+<p>If you enabled Infinite inventory, the item quantity will display as a number greater than one million, which can't be changed when a sale is completed.</p>
+</div>
 
 ## Enabling selling an out-of-stock item (optional)
 
@@ -86,9 +92,9 @@ You can also enable On Hands to ignore stock quantity and force item availabilit
 2. Click the gear <i class="fas fa-cog"></i> button to edit.
 3. Select the **Code** tab.
 4. In the side tab, select the `checkout-instore-custom-js` file.
-![instore-custom-js-en](https://images.ctfassets.net/alneenqid6w5/5a70caO8nFFF25CrSXPXkx/45e6d1e73997a0ff4a4872fdc502a17c/image.png)
+![instore-custom-js-en](//images.ctfassets.net/alneenqid6w5/5a70caO8nFFF25CrSXPXkx/45e6d1e73997a0ff4a4872fdc502a17c/image.png)
 5. In the `window.INSTORE_CONFIG` key, add the `sellWithoutStockInHands: true` flag.
-![sellWithoutStockInHands-en](https://images.ctfassets.net/alneenqid6w5/3yfRFSG0QgIwnXvyxwhsLo/642bf1e6d79d00ce46275ac1924d03c0/image.png)
+![sellWithoutStockInHands-en](//images.ctfassets.net/alneenqid6w5/3yfRFSG0QgIwnXvyxwhsLo/642bf1e6d79d00ce46275ac1924d03c0/image.png)
 6. Click <i class="fas fa-save"></i> `Save`.
 
 ## Enabling mixed cart sales (optional)

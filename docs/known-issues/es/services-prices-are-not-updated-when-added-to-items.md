@@ -18,7 +18,9 @@ internalReference: 822107
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los precios de los servicios no se actualizan si se añadió a un artículo antes de cambiar su precio de servicio en el admin. Esto provocará que el pedido se cree con un precio desactualizado.

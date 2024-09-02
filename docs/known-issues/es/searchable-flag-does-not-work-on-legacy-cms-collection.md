@@ -18,7 +18,9 @@ internalReference: 322552
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La bandera de búsqueda no funciona en la Colección CMS heredada. Nuestro documento explica que cuando usamos esta bandera, si buscamos el nombre de la colección, debería devolver los itens asociados a esta colección.

@@ -18,7 +18,9 @@ internalReference: 872411
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao criar um serviço, o comerciante pode escolher se será um campo obrigatório no checkout ou não.

@@ -15,9 +15,10 @@ legacySlug: relevancia-dinamica-no-intelligent-search-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
->ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
->
-> Para os clientes selecionados, a funcionalidade está disponível para uso gratuito no Admin VTEX durante seu período Beta, ou até decidido pela VTEX. É possível que taxas extras se apliquem futuramente.
+<div class="alert alert-info">
+  <p>Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
+  <p>Para os clientes selecionados, a funcionalidade está disponível para uso gratuito no Admin VTEX durante seu período Beta, ou até decidido pela VTEX. É possível que taxas extras se apliquem futuramente.</p>
+</div>
 
 O Intelligent Search é uma solução de busca da plataforma VTEX. Ele apresenta resultados relevantes com base no catálogo desde a primeira interação do usuário com a loja, seja por meio da barra de busca, navegando pelas categorias, ou mesmo pelas vitrines de produtos. 
 
@@ -30,7 +31,9 @@ No Intelligent Search, existem duas formas de configurar a relevância da sua bu
 
 Apenas uma delas é aplicada à sua loja por vez e você pode [alterar o tipo de relevância](#alterar-o-tipo-de-relevancia) configurado na sua loja. Caso você altere a relevância manual para dinâmica, todas as regras manuais já cadastradas continuam salvas.
 
->ℹ️ A relevância manual é configurada como padrão da loja.
+<div class = "alert alert-info">
+A relevância manual é configurada como padrão da loja.
+</div>
 
 ## Manual 
 
@@ -38,7 +41,7 @@ A relevância manual é configurada pela distribuição dos pesos realizada na p
 
 1. No Admin VTEX, acesse **Storefront > Intelligent Search >** **Regras de relevância**  ou digite **Regras de relevância** na barra de busca no topo da página.
 2. Selecione a opção **Relevância manual**.
-![relevancia-manual-pt](https://images.ctfassets.net/alneenqid6w5/5BSjswlkB1mMpR1MtCrEWL/1a0116cc71d5df6ffff2d2ac21854736/image.png)
+![relevancia-manual-pt](//images.ctfassets.net/alneenqid6w5/5BSjswlkB1mMpR1MtCrEWL/1a0116cc71d5df6ffff2d2ac21854736/image.png)
 3. Clique em `Salvar`.
 
 Para configurar a relevância manual, confira o artigo [Relevância](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
@@ -56,7 +59,7 @@ Para ativar a relevância dinâmica, siga os seguintes passos:
 1. No Admin VTEX, acesse **Storefront > Intelligent Search > Regras de relevância**  ou digite **Regras de relevância** na barra de busca no topo da página.
 2. Leia as informações sobre a Relevância Dinâmicas e clique em `Próximo`.
 3. Selecione a opção **Relevância Dinâmica**.
-![relevancia-dinamica-pt](https://images.ctfassets.net/alneenqid6w5/4yzGzHE6WhQp6qFGISgt9q/325dfbf15ee811133ae0a12a89959b43/image.png)
+![relevancia-dinamica-pt](//images.ctfassets.net/alneenqid6w5/4yzGzHE6WhQp6qFGISgt9q/325dfbf15ee811133ae0a12a89959b43/image.png)
 4. Clique em `Salvar`.
 5. Aguarde a barra de carregamento atingir 100%. Esse processo pode demorar algumas horas. Você receberá um email notificando que o carregamento foi finalizado.
 6. Clique em `Ativar`.
@@ -65,7 +68,9 @@ Para ativar a relevância dinâmica, siga os seguintes passos:
 
 Para alterar o tipo de relevância, siga os passos abaixo:
 
->⚠️ Não recomendamos a troca constante do tipo de relevância utilizado pela sua loja. O sistema precisa de uma semana para se estabelecer.
+<div class = "alert alert-warning">
+Não recomendamos a troca constante do tipo de relevância utilizado pela sua loja. O sistema precisa de uma semana para se estabelecer.
+</div>
 
 1. No Admin VTEX, acesse **Storefront > Intelligent Search > Regras de relevância**  ou digite **Regras de relevância** na barra de busca no topo da página.
 2. Clique em `Alterar` .

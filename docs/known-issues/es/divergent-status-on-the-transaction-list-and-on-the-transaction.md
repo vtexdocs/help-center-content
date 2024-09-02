@@ -18,7 +18,9 @@ internalReference: 308919
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El estado de las transacciones es diferente una vez que las abre en comparación con lo que se muestra en la lista de transacciones.

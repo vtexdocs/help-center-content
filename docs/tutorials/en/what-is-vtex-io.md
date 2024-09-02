@@ -15,7 +15,9 @@ legacySlug: what-is-vtex-io
 subcategory: 5eBwrcLFVSwYGSOQqGKQYW
 ---
 
->ℹ️ VTEX IO is a serverless development environment that enables you to build high-quality web apps fast, without dealing with infrastructure and scalability concerns.
+<div class="alert alert-info">
+VTEX IO is a serverless development environment that enables you to build high-quality web apps fast, without dealing with infrastructure and scalability concerns.
+</div>
 
 Today, in addition to developing the code that implements business logic, technology companies need to worry about much of the infrastructure behind the software they create (server configuration, access permissions, horizontal and vertical scaling, security, etc). VTEX IO is a service that envelops all the architectural complexity inherent to modern web software, removing that responsibility from the developer.
 

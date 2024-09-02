@@ -15,7 +15,9 @@ legacySlug: regra-de-alcada-em-divergencias-de-preco-para-sellers
 subcategory: 4ZBiXqnPntLbsijZ0djFcD
 ---
 
->ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href = "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
+<div class="alert alert-info">
+  <p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href = "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
+</div>
 
 Integrações entre sellers VTEX e [conectores nativos](https://help.vtex.com/pt/tutorial/integrando-com-marketplace--tutorials_402#integrado-a-conector-nativo-vtex) podem apresentar divergências nos preços configurados na VTEX e o que aparece na vitrine do marketplace, o que pode gerar erros no OMS.
 
@@ -23,7 +25,7 @@ Os pedidos que apresentam erros por divergência de preço maior que os valores 
 
 Os pedidos apresentam um status de erro no módulo de *INTEGRAÇÕES* e ficam aguardando serem reprocessados manualmente.
 
-![Início (6)](https://images.contentful.com/alneenqid6w5/3ew5jbEQLOWq35gB0H0rLx/1fa45e6308ecc1906fcff908df9ba0c2/In__cio__6_.gif)
+![Início (6)](//images.contentful.com/alneenqid6w5/3ew5jbEQLOWq35gB0H0rLx/1fa45e6308ecc1906fcff908df9ba0c2/In__cio__6_.gif)
 
 Para que os pedidos com divergência de preço subam para o OMS, foi criada a regra de divergência de valores (Beta). Nessa regra, todos os pedidos com divergência de preço são enviados ao OMS e devem ser aprovados manualmente pelo responsável da loja, com e-mail cadastrado em *Gerenciamento de contas > Contas*. É possível ter mais de um e-mail cadastrado.
 
@@ -33,7 +35,9 @@ Pedidos devem ser gerenciados e aprovados manualmente pelo OMS ou pelo [VTEX DO]
 
 Uma regra é configurada automaticamente com percentual de divergência entre 0% a 30% para `Negar automaticamente` os pedidos em seu Admin VTEX, e é possível alterá-la ou até mesmo criar mais de uma regra ao fazer a configuração.
 
->ℹ️ Depois de configurar o mecanismo de regra de divergência de valores (Beta), não será mais necessário configurar o campo Divergência de Preço dentro da integração do marketplace. Caso você já tenha configurado o campo dentro da integração, a configuração realizada não será mais válida.
+<div class="alert alert-info">
+Depois de configurar o mecanismo de regra de divergência de valores (Beta), não será mais necessário configurar o campo Divergência de Preço dentro da integração do marketplace. Caso você já tenha configurado o campo dentro da integração, a configuração realizada não será mais válida.
+</div>
 
 ## Configuração de regra de divergência de valores (Beta)
 
@@ -43,7 +47,7 @@ Na configuração da regra de divergência de valores, temos duas possibilidades
 
 ### Criar regras
 
-![barra regradivergencia](https://images.contentful.com/alneenqid6w5/6JNnSQFFrel5aIEWZPPQGs/98dd2567f3a1c178dc0ea1c150895ee0/barra_regradivergencia.JPG)
+![barra regradivergencia](//images.contentful.com/alneenqid6w5/6JNnSQFFrel5aIEWZPPQGs/98dd2567f3a1c178dc0ea1c150895ee0/barra_regradivergencia.JPG)
 
 Para criar as regras, siga os passos abaixo:
 
@@ -76,7 +80,7 @@ Para editar as regras já existentes, siga os passos abaixo:
 5. Edite a regra que deseja alterando a barra de porcentagem.
 6. Clique em `Salvar Regras`.
 
-![Início (7)](https://images.contentful.com/alneenqid6w5/78PxO7B0deTXnm48YPRlew/0b46e4637bfe89bfb373a679b4afadac/In__cio__7_.gif)
+![Início (7)](//images.contentful.com/alneenqid6w5/78PxO7B0deTXnm48YPRlew/0b46e4637bfe89bfb373a679b4afadac/In__cio__7_.gif)
 
 ## Autorização de pedidos
 
@@ -84,8 +88,10 @@ Você tem duas formas de autorizar os pedidos com status `Aguardando autorizaç�
 - [Autorizar manualmente no OMS](#autorizacao-de-pedidos)
 - [Autorizar pelo VTEX DO](#autorizacao-pelo-vtex-do)
 
->⚠️ Você precisa ter permissão do owner da conta para autorizar os pedidos, caso contrário, a seguinte mensagem aparecerá na tela: 
-> “Você ainda não possui regras de autorização. Então todos os casos de divergências são negados automaticamente."
+<div class="alert alert-warning">
+Você precisa ter permissão do owner da conta para autorizar os pedidos, caso contrário, a seguinte mensagem aparecerá na tela: 
+“Você ainda não possui regras de autorização. Então todos os casos de divergências são negados automaticamente."
+</div>
 
 ### Autorização manual no OMS
 
@@ -97,7 +103,7 @@ Para autorizar manualmente os pedidos, siga os passos a seguir:
 4. Selecione o pedido com status `Aguardando autorização manual` que deseja autorizar. 
 5. Clique em `Confirmar pedido`.
 
-![Início (8)](https://images.contentful.com/alneenqid6w5/4cDra6L7aNwPbmTxZJVNPJ/8f232c924f02fa9377bccb8f1e42d698/In__cio__8_.gif)
+![Início (8)](//images.contentful.com/alneenqid6w5/4cDra6L7aNwPbmTxZJVNPJ/8f232c924f02fa9377bccb8f1e42d698/In__cio__8_.gif)
 
 ### Autorização pelo VTEX DO
 
@@ -111,4 +117,4 @@ O [VTEX DO](https://help.vtex.com/pt/tutorial/vtex-do--tutorials_203?&utm_source
 6. Clique em `Fechar`.
 7. Clique em `Autorizar`.
 
-![Início (9)](https://images.contentful.com/alneenqid6w5/6WCfZf454PzSeJ2ZZASERn/f1fd489741a19979544bcc80f8686598/In__cio__9_.gif)
+![Início (9)](//images.contentful.com/alneenqid6w5/6WCfZf454PzSeJ2ZZASERn/f1fd489741a19979544bcc80f8686598/In__cio__9_.gif)

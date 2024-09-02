@@ -18,7 +18,9 @@ internalReference: 503446
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o usuário procura uma transação no administrador pelo número de seqüência, em alguns casos, o retorno é a transação desejada e transação não relacionada com o status de chargeback.

@@ -18,7 +18,9 @@ internalReference: 990155
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um carrinho de compras inclui produtos de diferentes vendedores, com diferentes canais de entrega e IDs de SLA entre eles, a interface do usuário do Checkout ativa o Lean Shipping, resumindo os SLAs disponíveis para exibir apenas as opções "mais rápida" e "mais barata" para cada item.

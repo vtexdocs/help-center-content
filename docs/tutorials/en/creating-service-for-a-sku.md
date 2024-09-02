@@ -75,16 +75,20 @@ To link a service to a SKU, please follow the steps below:
 5. Click on `Export`.
 6. Save the exported template to your computer in CSV format.
 7. Fill in the [template fields](#template-fields). Keep the file in CSV format when saving changes.
->⚠️ The size of the template file cannot exceed 4Mb (4096KB).
+<div class = "alert alert-warning">
+  <p>The size of the template file cannot exceed 4Mb (4096KB).</p>
+</div>
 8. Click on the bar next to the `Select` button, as shown below.
-  ![Anexos - EN](https://images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/6d834bfa0595150d8c6a5b69c6088e23/sku-services.png)
+  ![Anexos - EN](//images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/6d834bfa0595150d8c6a5b69c6088e23/sku-services.png)
 9. Select the updated CSV template.
 10. Click on the button `Link service values to SKU`.
 
 ### Template fields
 Use the template carefully, always making sure that the information is correctly filled in. In order to avoid errors, all fields in the template must be filled in.
 
->⚠️ When filling the spreadsheet, do not change or delete the column headings in row 1. Fill in the desired values in the rows after the column headings for the import to work correctly.  
+<div class="alert alert-warning">
+  <p>When filling the spreadsheet, do not change or delete the column headings in row 1. Fill in the desired values in the rows after the column headings for the import to work correctly.</p>
+</div>  
 
 - **Nome Serviço:** name of the service.
 - **Texto Serviço:** text that will be displayed along with the service.
@@ -101,5 +105,7 @@ Use the template carefully, always making sure that the information is correctly
 - **Custo:** the cost of the service to the store.
 - **Ativo:** status of the service. Enter `1` to keep the service active and `0` to keep it inactive.
 
->⚠️ Adding a new template will not replace the services already linked to the SKU. To unlink a service, use the endpoint <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU service</a>.
+<div class = "alert alert-warning">
+  <p>Adding a new template will not replace the services already linked to the SKU. To unlink a service, use the endpoint <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU service</a>.</p>
+</div>
 

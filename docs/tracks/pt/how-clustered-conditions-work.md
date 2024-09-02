@@ -20,11 +20,13 @@ Essas condições, por sua vez, são baseadas nos dados que o [Master Data](http
 
 Desse modo, as regras de prazo e parcelamento serão aplicadas ao(s) consumidor(es) que se encaixarem na condição - ou condições. 
 
->❗ **Atenção**: só é permitido criar cinco clusters de clientes por condição de pagamento.  
+<div class="alert alert-danger">
+<strong>Atenção</strong>: só é permitido criar cinco clusters de clientes por condição de pagamento.
+</div>  
 
 Para configurá-las, escolha uma propriedade e, em seguida, selecione os parâmetros para criar um cluster.
 
-![UI - Pagamentos Clusterizados](https://images.ctfassets.net/alneenqid6w5/5CqjpJpWRzVAPpTSUAIt8C/91425fe2c9d9d49b66655419b89abf9a/image.png)
+![UI - Pagamentos Clusterizados](//images.ctfassets.net/alneenqid6w5/5CqjpJpWRzVAPpTSUAIt8C/91425fe2c9d9d49b66655419b89abf9a/image.png)
 
 ## Propriedade
 
@@ -38,7 +40,7 @@ Consequentemente, ele pode criar as propriedades - que podem ser de texto, numé
 
 Sigamos com o exemplo. Na imagem abaixo, a propriedade usada é “Localização Padrão”. Mas outros campos que poderiam ser usados são “E-mail” e “Telefone”, por exemplo.
 
-![Propriedade - PC](https://images.ctfassets.net/alneenqid6w5/3acMvJIDlyTfdbIWKcuweT/80c035726574476b316c91b054d3c741/PC1.png)
+![Propriedade - PC](//images.ctfassets.net/alneenqid6w5/3acMvJIDlyTfdbIWKcuweT/80c035726574476b316c91b054d3c741/PC1.png)
 
 ## Operador 
 
@@ -48,7 +50,7 @@ Na imagem abaixo, a regra será aplicada a todos os clientes que correspondem a 
 
 Caso o lojista determinasse a condição “Localização diferente São Paulo” - “diferente” como operador - a regra de pagamento seria aplicada a todos os consumidores da base que não moram em São Paulo.
 
-![Operador](https://images.ctfassets.net/alneenqid6w5/4KHYbVD6ubXXFSW01ZuS9q/8ed89399d9f88f2285cbaefc236b4507/PC2.png)
+![Operador](//images.ctfassets.net/alneenqid6w5/4KHYbVD6ubXXFSW01ZuS9q/8ed89399d9f88f2285cbaefc236b4507/PC2.png)
 
 ## Valor
 Por fim, o último campo é preenchido com um valor relacionado à propriedade escolhida. Sigamos com o exemplo da condição “Localização Igual São Paulo”. 
@@ -59,4 +61,4 @@ Nesse caso, o sistema segmenta os consumidores que correspondam à localização
 
 Caso exista apenas um consumidor que corresponda ao cluster “Localização é São Paulo”, essa regra será aplicadas apenas para ele.
 
-![PC3](https://images.ctfassets.net/alneenqid6w5/3oQrXen2cJCOsLpwRAqT74/3600f14168835dcbeabec367e512805e/PC3.png)
+![PC3](//images.ctfassets.net/alneenqid6w5/3oQrXen2cJCOsLpwRAqT74/3600f14168835dcbeabec367e512805e/PC3.png)

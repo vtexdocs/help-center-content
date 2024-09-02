@@ -1,5 +1,5 @@
 ---
-title: "La primera búsqueda en una tienda no se considera en la IU 'últimas búsquedas'"
+title: 'La primera búsqueda en una tienda no se considera en la IU "últimas búsquedas"'
 id: 7mc9vRE92VGauQmRaK6NnU
 status: PUBLISHED
 createdAt: 2022-05-04T17:08:25.235Z
@@ -18,7 +18,9 @@ internalReference: 570971
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando busques en una tienda por primera vez, tu primera búsqueda no aparecerá en "últimas búsquedas", pero todas las demás se tendrán en cuenta.

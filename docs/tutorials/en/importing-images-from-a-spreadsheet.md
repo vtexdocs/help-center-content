@@ -35,9 +35,10 @@ Completion time will depend on the file size. If the template has more than 2,00
 
 Finally, if the products on the template rows are successfully processed, they will be placed on the indexing queue.
 
->❗ Every time you import a template including image information, the system uploads a new image for the SKU concerned. We advise you to be on the lookout for potential duplications.
->
-> If you reimport a template with information previously sent to VTEX, the first image won't be overwritten during import: the image will be duplicated in the SKU registration.
+<div class="alert alert-danger">
+<p>Every time you import a template including image information, the system uploads a new image for the SKU concerned. We advise you to be on the lookout for potential duplications.</p>
+<p>If you reimport a template with information previously sent to VTEX, the first image won't be overwritten during import: the image will be duplicated in the SKU registration.</p>
+</div>
 
 ## Filling in a template to import images
 
@@ -52,7 +53,9 @@ Below, you'll find information on how to fill in each field in the image import 
 
 ### URL
 
->ℹ️ This is a mandatory field. No special characters, periods or accents are admitted on the image name.
+<div class="alert alert-info">
+<p>This is a mandatory field. No special characters, periods or accents are admitted on the image name.</p>
+</div>
 
 It is the URL of the image to be linked to the SKU, which must be public and hosted on an FTP server where the image link originates. The URL must start with the HTTP protocol identifier (`http://`) and end with the file extension (`.jpg`, `.png` or `.gif`). Example: `http://www.imageexample.com.br/imagem03/teste01/exemplo15.jpg`.
 
@@ -62,11 +65,15 @@ You don't need to have your own FTP server to forward the image URLs. You may ho
 
 In addition, you can use an external provider to authenticate the URL.
 
->⚠️ The recommended size for each image must be below 3,000 KB (3 MB).
+<div class="alert alert-warning">
+  <p>The recommended size for each image must be below 3,000 KB (3 MB).</p>
+</div>
 
 ### NomeImagem
 
->ℹ️ This is a mandatory field. Special characters, accents or blank spaces are not admitted.
+<div class="alert alert-info">
+<p>This is a mandatory field. Special characters, accents or blank spaces are not admitted.</p>
+</div>
 
 The image name starts after the last /in the image URL and ends with the file extension. Therefore, this field must be filled in with the file name and extension (`.jpg`, `.png` or `.gif`). Example: `exemplo15.jpg`.
 
@@ -74,23 +81,27 @@ The file manager in CMS Legacy Portal will link the file name to the image.
 
 ### TextoImagem
 
->ℹ️ Special characters and accents are not allowed in this field.
->
-> The **Label** and **TextoImagem** fields should have different values.
+<div class="alert alert-info">
+<p>Special characters and accents are not allowed in this field.</p>
+<p>The <strong>Label</strong> and <strong>TextoImagem</strong> fields should have different values.</p>
+</div>
 
 The **TextoImagem** field needs to be filled in with the text to be linked to the image. It will remain in the SKU registration in the **Images** tab, in the **Text** field.
 
 ### Label
 
->ℹ️ This is a mandatory field. Special characters, accents or blank spaces are not admitted.
->
-> The **Label** and **TextoImagem** fields should have different values.
+<div class="alert alert-info">
+<p>This is a mandatory field. Special characters, accents or blank spaces are not admitted.</p>
+<p>The <strong>Label</strong> and <strong>TextoImagem</strong> fields should have different values.</p>
+</div>
 
 **Label** is the "tag" used to simplify template organization for your website pages, since it refers to its value. Examples: frontal, side, upper.
 
 ### IdSku
 
->ℹ️ This is a mandatory field. The informed ID must match an existing SKU ID in the catalog.
+<div class="alert alert-info">
+<p>This is a mandatory field. The informed ID must match an existing SKU ID in the catalog.</p>
+</div>
 
 The SKU ID is the code that identifies the SKU to which the image will be linked to. You can get this code by exporting **Products and SKUs**. For further information, read [How to export a product spreadsheet](https://help.vtex.com/en/tutorial/how-to-export-a-product-spreadsheet--2sIroGeqZqaN3NAvaSGwWV).
 

@@ -31,7 +31,7 @@ Attachments can be used to [complement a product with custom information](https:
 After adding the attachment, you need to add the keys and **permitted values** related to it. You can add as many keys as you wish. To add the keys and **permitted values**, follow the steps below.
 
 1. On the **Custom product attributes** page, find the row of the attachment you have created and click `Modify`, as illustrated in the image below.
-  ![anexos.pt](https://images.ctfassets.net/alneenqid6w5/4hSZgKMwFjJ3fE2Tfek60C/0088408090cd1bec84c4826676af8cb8/custom-product-attributes-en.PNG)
+  ![anexos.pt](//images.ctfassets.net/alneenqid6w5/4hSZgKMwFjJ3fE2Tfek60C/0088408090cd1bec84c4826676af8cb8/custom-product-attributes-en.PNG)
 2. Fill in the fields listed below.
     * **Key Name:** name of the custom information. This field is required and must contain only letters, numbers, or periods. For example, if the customizable product is a U.S. soccer jersey, its key names can be `Name` and `Number`.
     * **Maximum Number of Characters:** the maximum number of characters the customer can type to add custom information to the product. For example, in this field you could set the character limit for the name that will be printed on a shirt. This field is required. If you do not fill it in, the attachment will not be displayed to your customer as a selection option in the cart.
@@ -39,7 +39,9 @@ After adding the attachment, you need to add the keys and **permitted values** r
 3. Click `Add New`. You can add other keys by repeating this process.
 4. Click on `Save`.
 
->⚠️ The **Maximum Number of Characters** field is required. If you do not fill it in, the attachment will not be displayed to your customer as a selection option in the cart.
+<div class="alert alert-warning">
+  <p>The <strong>Maximum Number of Characters</strong> field is required. If you do not fill it in, the attachment will not be displayed to your customer as a selection option in the cart.</p>
+</div>
 
 ## Associating the attachment with a SKU
 
@@ -54,4 +56,6 @@ After creating the SKU attachment and configuring its keys and permitted values,
 
 You can also associate an attachment to an SKU by using the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuattachment).
 
->⚠️ VTEX does not control the inventory of the attachment. This is the responsibility of the Marketplace or the Seller.
+<div class="alert alert-warning">
+  <p>VTEX does not control the inventory of the attachment. This is the responsibility of the Marketplace or the Seller.</p>
+</div>

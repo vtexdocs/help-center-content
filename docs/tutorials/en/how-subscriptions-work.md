@@ -3,8 +3,8 @@ title: 'How subscriptions work'
 id: frequentlyAskedQuestions_4453
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.886Z
-updatedAt: 2024-07-24T17:36:44.989Z
-publishedAt: 2024-07-24T17:36:44.989Z
+updatedAt: 2024-08-29T15:23:33.643Z
+publishedAt: 2024-08-29T15:23:33.643Z
 firstPublishedAt: 2019-01-24T22:14:56.290Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -45,7 +45,9 @@ To do that, go to the **My Account** page on your store's website, access the **
 
 ## How your customers view and manage their subscriptions
 
->ℹ️ In [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), customers can only access their orders from the last two years.
+<div class = "alert alert-info">
+In <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>, customers can only access their orders from the last two years.
+</div>
 
 A list of all the customer’s subscriptions, containing their details and statuses, will be displayed in the **Subscriptions** section, on the **My Account** page. Your customer will also receive a confirmation of the subscription and the generated order by email.  
 
@@ -86,7 +88,7 @@ It is not possible to add more than one address to the same subscription.
 The delivery estimate and shipping rules are based on the applicable delivery policies for each cycle.  
 
 5. **Can my customer pay for their subscription orders in installments?**
-It is not possible to pay the subscription in installments. Your customer can only make an installment payment on the first order. After that, they will be charged in full.  
+Yes, as long as the store is configured to allow installments for subscriptions orders. This is done through the [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings) endpoint, marking the `isMultipleInstallmentsEnabledOnCreation` and `isMultipleInstallmentsEnabledOnUpdate` fields as `true`.
 
 6. **What happens if my customer's card has been canceled?**
 The system will not generate the subscription due to the lack of payment.
@@ -96,7 +98,7 @@ Currently, it is not possible to request scheduled deliveries for subscription o
 However, your customer can create a new subscription with a future delivery date of their choosing.
 
 8. **How can I cancel, skip or pause my customer's subscription order?**
-Currently, it is not possible to change your customer's subscription orders through VTEX's Admin. It is only possible to pause, cancel or skip a subscription order accessing your client's account through the Call center, in the subscriptions dashboard, or via our [APIs](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-api-v3-overview).
+Currently, it is not possible to change your customer's subscription orders through VTEX's Admin. It is only possible to pause, cancel or skip a subscription order accessing your client's account through the Call center, in the subscriptions dashboard, or via our [APIs](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#overview).
 
 9. **Is it possible to add items from sellers or marketplaces to a subscription order?**
 Subscriptions can be created with items from the store, VTEX sellers, and white label sellers (franchise account).

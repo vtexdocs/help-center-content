@@ -25,7 +25,9 @@ Feito isso, dê continuidade às etapas da integração, que foram organizadas e
 - [Envio de informações para Riachuelo](#envio-de-informacoes-para-riachuelo)
 - [Cadastro do Endpoint de Search do afiliado](#cadastro-do-endpoint-de-search-do-afiliado)
 
->ℹ️ Você também pode conferir as orientações para a integração fornecidas pela Riachuelo na página [MANUAL DE INTEGRAÇÃO VTEX](https://riachuelomarketplace.zendesk.com/hc/pt-br/articles/1500008432221-Integra%C3%A7%C3%A3o-VTEX-Orienta%C3%A7%C3%B5es-gerais).
+<div class="alert alert-info">
+Você também pode conferir as orientações para a integração fornecidas pela Riachuelo na página <a href="https://riachuelomarketplace.zendesk.com/hc/pt-br/articles/1500008432221-Integra%C3%A7%C3%A3o-VTEX-Orienta%C3%A7%C3%B5es-gerais">MANUAL DE INTEGRAÇÃO VTEX</a>.
+</div>
 
 ## Configurações na plataforma VTEX
 
@@ -43,7 +45,9 @@ A [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-poli
 
 Caso seja do seu interesse ter configurações específicas para vender na Riachuelo, você pode [configurar uma política comercial para marketplace](https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace/). Não existe cobrança para a contratação de políticas comerciais adicionais para integrar lojas VTEX com conectores nativos, conectores certificados ou outras lojas VTEX. Saiba mais em [Estratégias de marketplace na VTEX](https://help.vtex.com/pt/tutorial/integrando-com-marketplace--tutorials_402).
 
->⚠️ Os produtos que você deseja enviar para o Riachuelo Marketplace devem estar [associados à política comercial](https://help.vtex.com/pt/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb) definida. Caso contrário, eles não serão integrados.
+<div class="alert alert-warning">
+Os produtos que você deseja enviar para o Riachuelo Marketplace devem estar <a href="https://help.vtex.com/pt/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb">associados à política comercial</a> definida. Caso contrário, eles não serão integrados. 
+</div>
 
 ### Criar afiliado
 
@@ -61,7 +65,9 @@ O [afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk
 - **E-mail de Follow Up:** endereço eletrônico que receberá notificações sobre a integração.
 - **Endpoint de Search:** URL da aplicação que receberá notificações de produtos, preço, estoque, dentre outros.
 
->❗ Esta informação ficará pendente e será retomada na parte final deste artigo, em [Cadastro do Endpoint de Search do afiliado]().
+<div class="alert alert-danger">
+Esta informação ficará pendente e será retomada na parte final deste artigo, em <a href="">Cadastro do Endpoint de Search do afiliado</a>.
+</div>
 
 - **Versão do Endpoint de Search:** só existe a opção padrão _1.x.x_.
 - Deixe desmarcada a flag _Usar meu meio de pagamento_.
@@ -89,7 +95,9 @@ A chave de integração, chamada de _access key_, é o que possibilita o fluxo d
 3. Em _Segurança_, clique em `Gerar access key e secret`.
 4. Preencha com um nome para o novo _access key_ e clique em `Gerar novos secrets`.
 
->❗ O <i>secret</i> gerado, também chamado de <i>appToken</i>, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
+<div class="alert alert-danger">
+O <i>secret</i> gerado, também chamado de <i>appToken</i>, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
+</div>
 
 ### Criar novo usuário
 
@@ -118,7 +126,9 @@ Uma vez concluídas as configurações na plataforma VTEX, para dar continuidade
 
 Na etapa [Criar afiliado](#criar-afiliado), o preenchimento do campo Endpoint de Search havia ficado pendente e agora será realizado.
 
->❗ O cadastro do <i>Endpoint de Search</i> só pode ser feito após a confirmação da Riachuelo de que o catálogo da sua loja VTEX foi integrado.
+<div class="alert alert-danger">
+O cadastro do <i>Endpoint de Search</i> só pode ser feito após a confirmação da Riachuelo de que o catálogo da sua loja VTEX foi integrado.
+</div>
 
 Uma vez recebida a confirmação do parceiro, realize os passos abaixo:
 
@@ -131,5 +141,7 @@ Uma vez recebida a confirmação do parceiro, realize os passos abaixo:
 
 Feito isso, a integração com a Riachuelo terá sido concluída. Vale ressaltar que o processo de _onboarding_ com conectores certificados é responsabilidade dos parceiros. A Riachuelo disponibiliza conteúdo de [treinamento sobre o Portal do Seller](https://riachuelomarketplace.zendesk.com/hc/pt-br/articles/1500010648222-Portal-do-Seller-Cadastro-de-senha-e-primeiro-acesso).
 
->ℹ️ Você também pode conferir as orientações para a integração fornecidas pela Riachuelo pela página [MANUAL DE INTEGRAÇÃO VTEX](https://riachuelomarketplace.zendesk.com/hc/pt-br/articles/1500008432221-Integra%C3%A7%C3%A3o-VTEX-Orienta%C3%A7%C3%B5es-gerais). Em caso de dúvidas, entre em contato pela [central de ajuda da Riachuelo](https://riachuelomarketplace.zendesk.com/hc/pt-br).
+<div class="alert alert-info">
+Você também pode conferir as orientações para a integração fornecidas pela Riachuelo pela página <a href="https://riachuelomarketplace.zendesk.com/hc/pt-br/articles/1500008432221-Integra%C3%A7%C3%A3o-VTEX-Orienta%C3%A7%C3%B5es-gerais">MANUAL DE INTEGRAÇÃO VTEX</a>. Em caso de dúvidas, entre em contato pela <a href="https://riachuelomarketplace.zendesk.com/hc/pt-br">central de ajuda da Riachuelo</a>.
+</div>
 

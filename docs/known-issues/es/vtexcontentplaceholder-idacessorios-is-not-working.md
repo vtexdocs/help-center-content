@@ -1,5 +1,5 @@
 ---
-title: "<vtex:contentPlaceHolder id='Acessorios'/> no funciona"
+title: '<vtex:contentPlaceHolder id="Acessorios"/> no funciona'
 id: 7x8f0vGaunX1P3EFJGCYaz
 status: PUBLISHED
 createdAt: 2022-01-23T02:24:12.606Z
@@ -18,7 +18,9 @@ internalReference: 466147
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El control `<vtex:contentPlaceHolder id="Acessorios"/>` debería traer una vista de los productos relacionados establecidos como el tipo `acessorios` a la página del producto.

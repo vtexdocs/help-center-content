@@ -15,8 +15,10 @@ legacySlug: credit-control-vision-general
 subcategory: 7EWKfPIGfmI0G8iMYK8Aiy
 ---
 
->⚠️ **ATENCIÓN:** el Credit Control se interrumpió en **diciembre de 2018**. Ahora, para su tienda ofrecer crédito como medio de pago directo en el checkout, es necesario [utilizar el Customer Credit](https://help.vtex.com/es/tutorial/customer-credit-vision-general).</br>
-> Para saber cómo configurarlo en su tienda, siga los pasos descritos  [aquí](http://help.vtex.com/es/tracks/customer-credit-como-empezar).
+<div class="alert alert-warning">
+<strong>ATENCIÓN:</strong> el Credit Control se interrumpió en <strong>diciembre de 2018</strong>. Ahora, para su tienda ofrecer crédito como medio de pago directo en el checkout, es necesario <a href="https://help.vtex.com/es/tutorial/customer-credit-vision-general">utilizar el Customer Credit</a>.</br>
+Para saber cómo configurarlo en su tienda, siga los pasos descritos  <a href="http://help.vtex.com/es/tracks/customer-credit-como-empezar">aquí</a>.
+</div>
 
 
 ## Qué es
@@ -33,7 +35,7 @@ Por eso creamos el Credit Control - para que el control de crédito sea hecho de
 
 ## Como funciona
 
-![Credit Control basic flow](https://images.contentful.com/alneenqid6w5/35jUk6EVksKUQi8EaU6caO/2f8f3ddb5ead2d2c9379fc340fb070f9/credit-control-flow_en.gif)
+![Credit Control basic flow](//images.contentful.com/alneenqid6w5/35jUk6EVksKUQi8EaU6caO/2f8f3ddb5ead2d2c9379fc340fb070f9/credit-control-flow_en.gif)
 *Flujo básico de cómo funciona el Credit Control en las tiendas VTEX.*
 
 1. La tienda enciende el conector de control de crédito y realiza las configuraciones iniciales.

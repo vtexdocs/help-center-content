@@ -17,7 +17,9 @@ subcategory:
 
 [Openpay](https://www.openpay.mx/) es un procesador de pagos en línea que permite recibir pagos realizados con tarjetas de crédito, efectivo y transferencias bancarias.
 
->⚠️ Antes de realizar la configuración, debe haber creado y verificado una cuenta de Openpay. Si aún no se ha registrado, [haga clic aquí](https://sandbox-dashboard.openpay.mx/login/register?isCandidateForNewStyles=false) y cree su cuenta.
+<div class="alert alert-warning">
+  Antes de realizar la configuración, debe haber creado y verificado una cuenta de Openpay. Si aún no se ha registrado, <a href="https://sandbox-dashboard.openpay.mx/login/register?isCandidateForNewStyles=false">haga clic aquí</a> y cree su cuenta.
+  </div>
 
 Para configurar Openpay, necesitará:
 

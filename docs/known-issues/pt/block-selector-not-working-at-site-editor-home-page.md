@@ -18,7 +18,9 @@ internalReference: 431941
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao acessar o Site Editor, o seletor de blocos não funciona imediatamente.

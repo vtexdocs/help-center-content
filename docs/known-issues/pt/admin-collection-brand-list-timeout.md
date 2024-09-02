@@ -18,7 +18,9 @@ internalReference: 639905
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, para lojas que têm mais de 4000 marcas em seu catálogo, a seguinte listagem de marcas não carrega nenhuma marca quando se tenta criar uma nova coleção:

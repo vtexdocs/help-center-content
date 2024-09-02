@@ -18,7 +18,9 @@ internalReference: 332033
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os clientes não são capazes de excluir os modelos do CMS antigo.

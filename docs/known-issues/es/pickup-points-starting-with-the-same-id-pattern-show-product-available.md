@@ -18,7 +18,9 @@ internalReference: 964036
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando los dos puntos de recogida con IDs comienzan con el mismo patrón, la UI de caja los valida como la misma tienda, mostrando un producto disponible.

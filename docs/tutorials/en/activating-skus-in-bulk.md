@@ -29,9 +29,10 @@ To activate all SKUs using VTEX Admin, follow the steps below:
 1. Access the URL `https://{accountName}.myvtex.com/admin/site/productskuactivateall.aspx`.
 2. Click on `Enable all SKUs`.
 
->⚠️ SKUs that are registered with invalid data will not have the *Activate SKU if possible* flag enabled.
->
-> In case not all of the SKUs have been flagged with *Activate SKU if possible*, repeat the process described above.
+<div class="alert alert-warning">
+<p>SKUs that are registered with invalid data will not have the <em>Activate SKU if possible</em> flag enabled.</p>
+<p>In case not all of the SKUs have been flagged with <em>Activate SKU if possible</em>, repeat the process described above.</p>
+</div>
 
 ## Activate a group of SKUs
 

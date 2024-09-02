@@ -3,7 +3,7 @@ title: 'Teste (1)'
 id: 2Oq3MriB8hJ5YmFq3QIlPD
 status: DRAFT
 createdAt: 2021-04-14T14:58:44.451Z
-updatedAt: 2024-02-23T14:24:12.796Z
+updatedAt: 2024-08-22T18:48:29.625Z
 publishedAt: 
 firstPublishedAt: 2021-04-14T15:01:28.601Z
 contentType: trackArticle
@@ -32,7 +32,9 @@ The **Onboarding guide** has three tracks:
 - [Next steps after the go-live](https://help.vtex.com/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS)
 - [Support at VTEX](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy)
 
->ℹ️ The tracks include content that complement one another, but they are intended to be standalone. This means you can explore the content freely, without following any specific order.
+<div class="alert alert-info">
+The tracks include content that complement one another, but they are intended to be standalone. This means you can explore the content freely, without following any specific order.
+</div>
 
 Our aim is to allow clients, partners, and the VTEX ecosystem to take advantage of the **Onboarding guide**. We took into account a comprehensive journey to make sure the content stayed relevant for different businesses.
 

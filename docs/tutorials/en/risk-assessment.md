@@ -3,8 +3,8 @@ title: 'Risk Assessment'
 id: 4K97IpqkpCpDYsZOSxtfkX
 status: PUBLISHED
 createdAt: 2022-05-26T13:08:53.479Z
-updatedAt: 2024-05-28T16:54:14.044Z
-publishedAt: 2024-05-28T16:54:14.044Z
+updatedAt: 2024-08-08T21:07:08.119Z
+publishedAt: 2024-08-08T21:07:08.119Z
 firstPublishedAt: 2022-05-26T13:17:48.374Z
 contentType: tutorial
 productTeam: Others
@@ -45,7 +45,9 @@ Some security information is restricted to VTEX Admin users, and it's not availa
 
 <iframe src="https://help.vtex.com/insertaccountname?id=7AmPOGXykmE9SYyYDzdAZ4" title="Enter your account name and click the button." frameBorder="0" width="400" height="50"></iframe>
 
->⚠️ If you are having dificulty accessing the FAQs, try installing the latest version of the app `vtex.admin-docs` using [VTEX CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference) and repeating the process.
+<div class="alert alert-warning">
+  If you are having dificulty accessing the FAQs, try installing the latest version of the app <code>vtex.admin-docs</code> using <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference">VTEX CLI</a> and repeating the process.
+</div>
 
 ## FAQ - Security
 
@@ -62,7 +64,7 @@ VTEX, committed to transparency and excellence, regularly submits its informatio
 * SOC 1 Type 2: A report that that covers internal controls over financial reporting systems.
 * SOC 2 Type 2: A report covering security, availability, integrity, confidentiality, and privacy.
 * PCI DSS: A control validation of cardholder data to reduce credit card fraud.
-* 
+
 These certifications are available on the [Compliance](https://vtex.com/us-en/compliance/) page of the [VTEX Trust Hub](https://vtex.com/us-en/trust/).
 
 In addition, as a publicly traded company, VTEX is SOX (Sarbanes-Oxley Act) compliant.

@@ -18,7 +18,9 @@ internalReference: 753505
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un mismo producto está asociado a múltiples ofertas (por ejemplo, el mismo par de zapatos es ofrecido por diferentes comerciantes), entonces AggregateOffer puede ser usado para enviar esta información a Google de forma que su rastreador no rechace la oferta por precios erróneos.

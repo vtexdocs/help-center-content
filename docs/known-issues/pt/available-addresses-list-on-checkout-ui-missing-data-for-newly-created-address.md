@@ -18,7 +18,9 @@ internalReference: 1061630
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um usuário adiciona um novo endereço durante a etapa de envio do Checkout, avança para a etapa de pagamento e, em seguida, retorna à lista de endereços disponíveis da etapa de envio, esse endereço recém-criado pode estar ausente da lista ou exibir informações incompletas na interface do usuário.

@@ -18,7 +18,9 @@ internalReference: 525987
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O valor máximo para o upselling é calculado apenas para notas promissórias padrão, quando adicionamos notas extras, nosso gateway não considera o campo de variação de margem no cálculo.

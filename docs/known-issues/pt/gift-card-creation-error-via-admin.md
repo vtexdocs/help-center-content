@@ -18,7 +18,9 @@ internalReference: 986327
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Algumas contas não conseguirão criar um Gift Card pela primeira vez por meio do admin, a mensagem abaixo aparecerá na tela:

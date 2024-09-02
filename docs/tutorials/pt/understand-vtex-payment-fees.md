@@ -26,4 +26,6 @@ Por exemplo, digamos que um lojista opte por trabalhar com as  taxas do Plano Av
 - __À vista__: já que a taxa de crédito é 2,5%, o valor que é descontado pelo VTEX Payment é de R$2,50. 
 - __Parcelado__: neste caso, a taxa é de 2,7%. Logo, R$ 2,70 são descontados pelo VTEX Payment. 
 
->ℹ️ **Atenção**: no exemplo acima, as taxas de crédito para produtos parcelados eram as mesmas para todas as parcelas. Entretanto, isso não é uma regra. As taxas podem variar diante do número de parcelas que o pagamento do produto for dividido. 
+<div class="alert alert-info">
+<strong>Atenção</strong>: no exemplo acima, as taxas de crédito para produtos parcelados eram as mesmas para todas as parcelas. Entretanto, isso não é uma regra. As taxas podem variar diante do número de parcelas que o pagamento do produto for dividido.
+</div> 

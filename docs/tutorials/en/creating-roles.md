@@ -26,7 +26,9 @@ Check the steps for each of these options below:
 
 We recommend creating roles that are analogous to the store's hierarchical structures. This approach ensures that all employees are accountable for the information they have access to. Best practices for managing roles not only increase operational security but also heighten the awareness of those handling sensitive store data and customer information.
 
->⚠️ Unrestricted use of overly permissive roles increases the risk of store attacks through leaked login credentials.
+<div class="alert alert-warning">
+  <p>Unrestricted use of overly permissive roles increases the risk of store attacks through leaked login credentials.</p>
+</div>
 
 ## Using predefined roles
 
@@ -42,12 +44,12 @@ To start using a predefined role, follow the instructions below:
 
     For example, the **Call center operator** profile has a _Catalog_ product resource that allows operations to be carried out in a store on behalf of a customer and an _OMS_ resource that allows verifying an order status:
 
-    ![New role saved](https://images.ctfassets.net/alneenqid6w5/5biL3DriciSnHKbgHvV2PE/a4452a13454d847c991800db970f0a7e/New_role_saved.png)
+    ![New role saved](//images.ctfassets.net/alneenqid6w5/5biL3DriciSnHKbgHvV2PE/a4452a13454d847c991800db970f0a7e/New_role_saved.png)
 
     Learn more about the available predefined roles and their associated resources in [Predefined roles](https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy).
 4. Add admin users to the role by entering the user email address in **Add users to this role** and click `Add`.
 
-    ![Role users](https://images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/3d41ef2c9033f8f3add993039c4d8560/usuarios-en.PNG)
+    ![Role users](//images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/3d41ef2c9033f8f3add993039c4d8560/usuarios-en.PNG)
 
     If the user does not exist, a new user will be created using the email as the name, i.e., the name and email will be the same.
 5. Click `Save`.
@@ -65,7 +67,7 @@ To create a custom role that meets the access needs of a group of users, follow 
 
     You will see a list of all the resources available for the product:
 
-    ![Configuring product](https://images.ctfassets.net/alneenqid6w5/1VE4awGJHyrsR2OkYwAzRQ/956aa2dfc15f9e2adedd6efc90af039f/configurar-produto-en.png)
+    ![Configuring product](//images.ctfassets.net/alneenqid6w5/1VE4awGJHyrsR2OkYwAzRQ/956aa2dfc15f9e2adedd6efc90af039f/configurar-produto-en.png)
 
 5. Check the resources to which the role should grant access. Check the complete [License Manager resources](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) list for more information on each one.
 6. If you want to add resources from another product, click the **Configure Another Product** button at the bottom of the product and resource list and repeat steps 4 and 5.
@@ -73,10 +75,12 @@ To create a custom role that meets the access needs of a group of users, follow 
     You can add resources from as many products as you need to the role.
 7. Type a name for the custom role in the **Role name** field.
 
-  >⚠️ Choose descriptive names for the roles, clearly indicating the type of user who should have access. We recommend indicating the position in the company or the activity to be carried out on the platform.
+  <div class="alert alert-warning">
+    <p>Choose descriptive names for the roles, clearly indicating the type of user who should have access. We recommend indicating the position in the company or the activity to be carried out on the platform.</p>
+  </div>
 8. Add admin users to the role by entering the user email address in **Add users to this role** and then click `Add`.
 
-    ![Role users](https://images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/3d41ef2c9033f8f3add993039c4d8560/usuarios-en.PNG)
+    ![Role users](//images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/3d41ef2c9033f8f3add993039c4d8560/usuarios-en.PNG)
 
     If the user does not exist, a new user will be created using the email as the name, i.e., the name and email will be the same.
 

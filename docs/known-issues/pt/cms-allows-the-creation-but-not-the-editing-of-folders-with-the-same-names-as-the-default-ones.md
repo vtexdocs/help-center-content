@@ -18,7 +18,9 @@ internalReference: 566791
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o CMS permite a criação de pastas com os mesmos nomes que as pastas padrão, mas mais tarde não permite a edição/eliminação dessas novas pastas

@@ -18,7 +18,9 @@ internalReference: 412526
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los elementos eliminados o añadidos por el flujo de órdenes de cambio no forman parte del paquete, por lo que no aparecerán en el correo electrónico de la factura, y en caso de que todos los elementos de una orden se eliminen y se añadan más tarde, el correo electrónico de la factura no se envía, porque los elementos añadidos no se añaden al paquete original de la orden;

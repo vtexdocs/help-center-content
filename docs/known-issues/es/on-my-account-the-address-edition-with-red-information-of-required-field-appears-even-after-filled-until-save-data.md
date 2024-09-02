@@ -18,7 +18,9 @@ internalReference: 870891
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En la página de edición de Mi dirección de Mi cuenta, aunque se rellene la dirección aparece la información roja de "Campo obligatorio" hasta que se guardan los datos.

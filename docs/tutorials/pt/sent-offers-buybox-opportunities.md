@@ -15,10 +15,12 @@ legacySlug: anuncios-enviados-oportunidades-de-buybox-beta
 subcategory: 
 ---
 
->ℹ️ Para evoluir sua experiência ao sincronizar e atualizar anúncios, o time da VTEX está desenvolvendo uma nova funcionalidade que irá substituir o atual módulo **Gerenciamento de anúncios**.
-> Por este motivo, o Gerenciamento de anúncios não receberá novas atualizações ou manutenção. 
-> Para conectores e marketplaces que já se integraram com o módulo, solicitamos que entre em contato com nosso time de desenvolvimento através do email [taissa.araujo@vtex.com.br](taissa.araujo@vtex.com.br).
-> Para os conectores com interesse em iniciar a integração, solicitamos que aguardem o lançamento do novo módulo, assim que disponível avisaremos a todos os clientes através do [Developer portal na página de release notes](https://developers.vtex.com/updates/release-notes) e [VTEX Help Center na página de novidades](https://help.vtex.com/pt/en/announcements).  
+<div class="alert alert-info">
+Para evoluir sua experiência ao sincronizar e atualizar anúncios, o time da VTEX está desenvolvendo uma nova funcionalidade que irá substituir o atual módulo <b>Gerenciamento de anúncios</b>.
+Por este motivo, o Gerenciamento de anúncios não receberá novas atualizações ou manutenção. 
+Para conectores e marketplaces que já se integraram com o módulo, solicitamos que entre em contato com nosso time de desenvolvimento através do email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
+Para os conectores com interesse em iniciar a integração, solicitamos que aguardem o lançamento do novo módulo, assim que disponível avisaremos a todos os clientes através do <a href="https://developers.vtex.com/updates/release-notes">Developer portal na página de release notes</a> e <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center na página de novidades</a>.
+</div>  
 
 Anúncio é um SKU de um seller que foi enviado para um canal de vendas e teve seu preço e estoque configurados. O módulo [Gerenciamento de anúncios](https://help.vtex.com/pt/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE) do Admin VTEX permite que sellers supervisionem o envio e sincronização de seus produtos para marketplaces e também apresenta oportunidades de mais vendas para seus anúncios. 
 
@@ -28,7 +30,9 @@ Um exemplo de oportunidade é a funcionalidade de Catálogo MeLi. O Catálogo Me
 
 As *Oportunidades* acompanham a presença de um anúncio nas diferentes páginas do módulo **Gerenciamento de anúncios**, como será visto nas imagens a seguir.
 
->ℹ️ O **Gerenciamento de anúncios** permite acompanhar anúncios com o [Mercado Livre Classic](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Mercado Livre Premium](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e [marketplaces VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-um-marketplace-vtex). Para conectores que desejam integrar via API, existe o [Guia de integração do Gerenciamento de anúncios](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
+<div class = "alert alert-info">
+O <b>Gerenciamento de anúncios</b> permite acompanhar anúncios com o <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Livre Classic</a>, <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Livre Premium</a>, <a href="https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm">Netshoes</a> e <a href="https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-um-marketplace-vtex">marketplaces VTEX</a>. Para conectores que desejam integrar via API, existe o <a href="https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors">Guia de integração do Gerenciamento de anúncios</a>.
+</div>
 
 ## Listagem de Anúncios
 
@@ -36,19 +40,19 @@ Na página [Gerenciamento de anúncios](https://help.vtex.com/pt/tutorial/offers
 
 ## Detalhes do Anúncio
 
-![PT Oportunidades Offer details](https://images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/c50404811bbb7be69e463f97cdc4408e/PT_Oportunidades_Offer_details.jpg)
+![PT Oportunidades Offer details](//images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/c50404811bbb7be69e463f97cdc4408e/PT_Oportunidades_Offer_details.jpg)
 
 A página de [Detalhes do anúncio](https://help.vtex.com/pt/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) apresenta um card de `Oportunidade` no topo. Ao clicar em `Ver Oportunidade`, você será redirecionado para a página a seguir.
 
 ## Oportunidades do Anúncio
 
-![PT Oportunidades oportunidades do anúncio](https://images.ctfassets.net/alneenqid6w5/6Atuthxay11bdJrmSQxEM9/753c2b80a4bf68ca6f82aa6f23cca363/PT_Oportunidades_oportunidades_do_an__ncio.jpg)
+![PT Oportunidades oportunidades do anúncio](//images.ctfassets.net/alneenqid6w5/6Atuthxay11bdJrmSQxEM9/753c2b80a4bf68ca6f82aa6f23cca363/PT_Oportunidades_oportunidades_do_an__ncio.jpg)
 
 A página **Oportunidades do anúncio** apresenta o anúncio elegível para o Catálogo MeLi ao lado do anúncio já presente no marketplace. A página permite comparar os dados dos dois anúncios, incluindo informações das marcas, especificações e dimensões.
 
 Além da oportunidade de adicionar anúncios, há o __Auto Optin (criação automática de anúncios Catálogo MeLi)__, nesta opção o Mercado Livre irá avaliar as publicações dos sellers, caso cumpra com todos os requisitos para se tornar um anúncio de Catálogo MeLi, ele será feito automaticamente e o seller visualizará a mensagem da imagem abaixo.
 
-![Auto Optin MELI](https://images.ctfassets.net/alneenqid6w5/2Hiw11uUW5n5QHvwIlpo0C/95e691c69a8a8afccdf50abd0f0d09c4/Captura_de_tela_2023-06-27_175316.png)
+![Auto Optin MELI](//images.ctfassets.net/alneenqid6w5/2Hiw11uUW5n5QHvwIlpo0C/95e691c69a8a8afccdf50abd0f0d09c4/Captura_de_tela_2023-06-27_175316.png)
 
 ## Adicionar anúncios ao Catálogo MeLi
 
@@ -61,7 +65,9 @@ Siga os passos abaixo para adicionar seu anúncio ao Catálogo MeLi:
 4. Na página de **Oportunidade do Anúncio**, avalie se seu anúncio é compatível com o anúncio já presente no marketplace. Caso sejam compatíveis, clique em `Adicionar ao Catálogo MeLi`. 
 5. Clique em `Adicionar`.
 
->⚠️ Essa ação não poderá ser desfeita, portanto certifique-se de que os anúncios são compatíveis. Se seu anúncio não for compatível com o produto já presente no marketplace, não adicione-o ao Catálogo MeLi. Adicionar anúncios que não fazem parte do produto pode prejudicar sua reputação como seller naquele marketplace.
+<div class="alert alert-warning">
+Essa ação não poderá ser desfeita, portanto certifique-se de que os anúncios são compatíveis. Se seu anúncio não for compatível com o produto já presente no marketplace, não adicione-o ao Catálogo MeLi. Adicionar anúncios que não fazem parte do produto pode prejudicar sua reputação como seller naquele marketplace.  
+</div>
 
 Para que seu anúncio esteja bem posicionado no Catálogo MeLi, finalize as configurações indicadas na próxima seção [Ganhando e perdendo no Catálogo MeLi](#ganhando-e-perdendo-no-buybox).
 
@@ -84,4 +90,4 @@ A seção de *Oportunidades Ativas* da página [Detalhes do anúncio](https://he
 - **Status da oportunidade:** incluindo `Ganhando` ou `Perdendo`.  
 - **Lista de configurações:** ações necessárias para que seu anúncio esteja ganhando na Catálogo MeLi. As instruções listadas incluem alterar preço, promover frete grátis, entrega rápida ou oferecer pagamento com parcelamento sem juros, por exemplo. Cada item da lista apresenta uma sugestão de configuração  que tornará o anúncio mais atrativo, posicionando-o em primeiro lugar no Catálogo MeLi. 
 
-![PT Oportunidades oportunidades ativas](https://images.ctfassets.net/alneenqid6w5/1e5ozasXAVsjNrH7RBjq71/6e7672dc863d4150b4e8b8efe600187a/PT_Oportunidades_oportunidades_ativas.jpg)
+![PT Oportunidades oportunidades ativas](//images.ctfassets.net/alneenqid6w5/1e5ozasXAVsjNrH7RBjq71/6e7672dc863d4150b4e8b8efe600187a/PT_Oportunidades_oportunidades_ativas.jpg)

@@ -3,8 +3,8 @@ title: 'Eventos disponíveis no Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2024-06-28T18:16:11.762Z
-publishedAt: 2024-06-28T18:16:11.762Z
+updatedAt: 2024-08-16T20:08:11.733Z
+publishedAt: 2024-08-16T20:08:11.733Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
 productTeam: Master Data
@@ -34,10 +34,16 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](https://
 * [VTEX ID](#vtex-id)
 * [Headless CMS](#headless-cms)
 * [Gerenciamento de sellers](#gerenciamento-de-sellers)
+* [Site Editor](#site-editor)
+* [Ad Network](#ad-network)
 
->ℹ️ Caso você visualize no Audit algum evento que não esteja listado aqui, por favor nos informe usando a [página de feedback de documentação](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
+<div class = "alert alert-info">
+  <p>Caso você visualize no Audit algum evento que não esteja listado aqui, por favor nos informe usando a <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform">página de feedback de documentação</a>.</p>
+  </div>
 
->⚠️ Nas opções de filtros do Audit, você pode encontrar **Opções de envio**, **Profile System** e **Billing** além das aplicações citadas abaixo. Essas opções se referem a recursos internos ou funcionalidades em fase beta fechada, portanto, a maior parte das contas não terão eventos associados.
+<div class="alert alert-warning">
+  <p>Nas opções de filtros do Audit, você pode encontrar <strong>Opções de envio</strong>, <strong>Profile System</strong> e <strong>Billing</strong> além das aplicações citadas abaixo. Essas opções se referem a recursos internos ou funcionalidades em fase beta fechada, portanto, a maior parte das contas não terão eventos associados.</p>
+</div>
 
 ## OMS
 
@@ -76,14 +82,21 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](https://
 |---|---|---|
 | Carrier Create | Criação de transportadora. | ID da transportadora. |
 | Carrier Update | Atualização de transportadora. | ID da transportadora. |
-| Carrier Delete | Exclusão de transportadora. | ID da transportadora. |
 | Dock Create | Criação de doca. | ID da doca. |
 | Dock Update | Atualização de doca. | ID da doca. |
-| Dock Delete | Exclusão de doca. | ID da doca. |
-| Warehouse Create | Criação de estoque. | ID do estoque. |
 | Warehouse Update | Atualização de estoque. | ID do estoque. |
-| Warehouse Delete | Exclusão de estoque. | ID do estoque. |
+| warehouse deactivate | Desativação de estoque. | ID do estoque. |
 | Pickup Point Save | Criação ou alteração de ponto de retirada. | ID do ponto de retirada. |
+| UPDATE-ITEM-AVAILABILITY | Edição de disponibilidade de um item. | Quantidade anterior e nova do item, ID do SKU e ID do estoque. Exemplo: `The quantity of 17_andreia-estoque-sp was updated from 30.0 to 200.0.` |
+| item-availability-delete | Exclusão da disponibilidade de um item. | ID do SKU e ID do estoque. Exemplo: `112233_andreia-estoque-sp was deleted.` |
+| Pickup Point Delete | Exclusão de ponto de retirada. | ID do ponto de retirada. |
+| Carrier New Freight Values | Edição de planilha de frete. | ID da política de envio. |
+| Holiday Update | Edição de feriado. | ID do feriado. |
+| Polygon Create | Criação de polígono. | ID do polígono. |
+| Holiday Create | Criação de feriado. | ID do feriado. |
+| Holiday Delete | Exclusão de feriado. | ID do feriado. |
+| Reservation Create | Criação de reserva de SKU. | Quantidade do item, ID do SKU e ID do estoque. Exemplo: `A quantity of 1.0 from 1_1_1 was reserved.` |
+| Reservation Cancel | Cancelamento de reserva de SKU. | Quantidade do item, ID do SKU e ID do estoque. Exemplo: `The reservation of 1.0 from 2000534_1_1 was canceled.` |
 
 ## Catálogo (Admin)
 
@@ -225,6 +238,8 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](https://
 | TRY_UNPUBLISHING_AND_OVERWRITING | Tentativa de despublicar e sobrescrever uma página. | ID do evento. |
 | done.invoke.deleteContent | Exclusão de conteúdo. | ID do evento. |
 | done.invoke.deleteContentVariant | Exclusão de uma versão do conteúdo. | ID do evento. |
+| Create new media | Criação de arquivo de mídia. | ID do evento. |
+| Delete media | Exclusão de arquivo de mídia. | ID do evento. |
 
 Na coluna **Ação**, todos os eventos do Headless CMS também apresentam as seguintes informações:
 
@@ -238,4 +253,29 @@ Na coluna **Ação**, todos os eventos do Headless CMS também apresentam as seg
 |---|---|---|
 | Update Seller | Edição de um seller. | ID do seller. |
 | Save Seller | Criação de um novo seller. | ID do seller. |
+
+## Site Editor
+
+| Ação | Descrição do evento | Detalhe do evento |
+|---|---|---|
+| Schedule change | Agendamento de edição no conteúdo. | ID da entidade alterada. |
+| Edit content block | Edição de bloco de conteúdo. | ID da entidade alterada. |
+| Create content block | Criação de bloco de conteúdo. | ID da entidade alterada. |
+| Activate content block version | Ativação de versão de bloco de conteúdo. | ID da entidade alterada. |
+| Reset content block version | Redefinição de versão de bloco de conteúdo. | ID da entidade alterada. |
+| Delete content block version | Exclusão de versão de bloco de conteúdo. | ID da entidade alterada. |
+| Edit style | Edição de estilo. | ID da entidade alterada. |
+| Create new style | Criação de um novo estilo. | ID da entidade alterada. |
+| Select main style | Seleção de estilo principal. | ID da entidade alterada. |
+| Delete style | Exclusão de estilo. | ID da entidade alterada. |
+| Copy binding content | Cópia de conteúdo de binding. | ID da entidade alterada. |
+
+## Ad Network
+
+| Ação | Descrição do evento | Detalhes do evento |
+|---|---|---|
+| Create ads | Criação de um novo anúncio. | ID do anúncio. |
+| Create campaign | Criação de uma nova campanha. | ID da campanha. |
+| Update ads | Atualização de um anúncio. | ID do anúncio. |
+| Update campaign | Atualização de uma campanha. | ID da campanha. |
 

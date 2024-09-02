@@ -18,7 +18,9 @@ internalReference: 823218
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el marketplace tiene muchos vendedores y utiliza las hojas de cálculo de mapeo para la mayoría de ellos, la UI de mapeo de catálogos puede ser demasiado pesada y cada vez que el vendedor intenta acceder a ella, tarda mucho en cargarse.

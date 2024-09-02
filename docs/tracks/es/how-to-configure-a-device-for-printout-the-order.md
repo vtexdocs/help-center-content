@@ -16,7 +16,7 @@ trackSlugES: instore-setup
 
 Dentro de las opciones que ofrece **inStore** al momento de completar una venta, se encuentra una que permite imprimir el resumen del pedido.
 
-![ES-Venda confirmada](https://images.ctfassets.net/alneenqid6w5/54Z1ETTtBXkSxJsWu16UKV/fe90bb4197cce83777fd9f4fee75bbd7/ES-Venda_confirmada.png)
+![ES-Venda confirmada](//images.ctfassets.net/alneenqid6w5/54Z1ETTtBXkSxJsWu16UKV/fe90bb4197cce83777fd9f4fee75bbd7/ES-Venda_confirmada.png)
 
 Para configurar esta opción, serán necesarios dos pequeños pasos:
   1. Por el Admin VTEX, active la opción de configuración del dispositivo en el menú inStore.
@@ -29,7 +29,7 @@ Hoy, esta configuración está presente en el administrador del portal, más esp
 Para habilitar la opción _“Configurar dispositivo”_, debe encontrar el objeto **_window.INSTORE_CONFIG_** presente en este archivo y agregar la propiedad **_configureDeviceEnabled_** con el valor **_true_** y también agregar el objeto **_printingConfig_** a la propiedad **_printByBroker_** con el valor true, para que inStore permita utilizar la propiedad opción dentro del menú, como se muestra en la imagen de ejemplo a continuación:
 
 
-![ES-Configurar dispositivo](https://images.ctfassets.net/alneenqid6w5/5alZn4GuAJkvZkEW7PkQE/5aef5e117ba6a20ae8ba6438e23e0f91/ES-Configurar_dispositivo.png)
+![ES-Configurar dispositivo](//images.ctfassets.net/alneenqid6w5/5alZn4GuAJkvZkEW7PkQE/5aef5e117ba6a20ae8ba6438e23e0f91/ES-Configurar_dispositivo.png)
 
 No elimine ninguna de las otras propiedades presentes en este objeto, pero el resultado debería ser algo como:
 
@@ -40,7 +40,9 @@ configureDeviceEnabled: true,
       }
 }``
 
->ℹ️ **NOTA**: Existe una opción para imprimir de forma automática el resumen del pedido, tan pronto sea completado el pedido. La configuración es muy sencilla, basta agregar la propiedad **<i>printPageAutomatically</i>** con el valor **<i>true</i>** dentro del objeto **<i>printingConfig</i>**.
+<div class="alert alert-info">
+  <strong>NOTA</strong>: Existe una opción para imprimir de forma automática el resumen del pedido, tan pronto sea completado el pedido. La configuración es muy sencilla, basta agregar la propiedad <strong><i>printPageAutomatically</i></strong> con el valor <strong><i>true</i></strong> dentro del objeto <strong><i>printingConfig</i></strong>.
+   </div>
 
 No elimine ninguna de las otras propiedades presentes en este objeto, pero el resultado debería ser algo como:
 
@@ -54,17 +56,19 @@ printPageAutomatically: true
 
 ## Configurar dispositivo de impresora en inStore
 
->⚠️ **IMPORTANTE**: Para la configuración de la impresora en inStore, es necesario tener **<i>AppKey</i>** y **<i>AppToken</i>** con permisos de al menos un perfil como <i>“Vendedor inStore (inStore Sales Person)”</i>. Vale aclarar que puede ser utilizado un perfil de <i>“Propietario (administrador super)”</i>.
+<div class="alert alert-warning">
+  <strong>IMPORTANTE</strong>: Para la configuración de la impresora en inStore, es necesario tener <strong><i>AppKey</i></strong> y <strong><i>AppToken</i></strong> con permisos de al menos un perfil como <i>“Vendedor inStore (inStore Sales Person)”</i>. Vale aclarar que puede ser utilizado un perfil de <i>“Propietario (administrador super)”</i>.
+  </div>
 
   1. Conecte la impresora al equipo donde se encuentre instalado inStore (para descargar inStore, acceda a [http://instore.vtex.com/download]). Recordando que debe ser una computadora con sistema operativo Windows (Windows 7 o superior son compatibles).
   2. Abra la aplicación inStore y entre a la tienda donde desea configurar la impresora.
   3. En el menú de inStore, en el bloque de “Configuraciones”, deberá aparecer la opción “Configurar dispositivo”. Haga clic allí.
 
-![ES-Barra inStore](https://images.ctfassets.net/alneenqid6w5/1sluYEwdo4f01KnUyyEsoa/19344feb059bd03b316c37e2caed9ae0/ES-Barra_inStore.png)
+![ES-Barra inStore](//images.ctfassets.net/alneenqid6w5/1sluYEwdo4f01KnUyyEsoa/19344feb059bd03b316c37e2caed9ae0/ES-Barra_inStore.png)
 
   4. Va a encontrar el resumen del dispositivo configurado. En caso de que sea la primera vez, las informaciones estarán vacías o, si ya se ha configurado un dispositivo previamente, van a aparecer algunas informaciones sobre el dispositivo _(Nombre del dispositivo e Impresora estándar)_. Haga clic en la opción “Editar”.
 
-![ES-Dispositivo via Broadcast](https://images.ctfassets.net/alneenqid6w5/4KoNSOz0DB2KvXEyYcBiCd/668bc635360f6934f604ad1e53defddd/ES-Dispositivo_via_Broadcast.png)
+![ES-Dispositivo via Broadcast](//images.ctfassets.net/alneenqid6w5/4KoNSOz0DB2KvXEyYcBiCd/668bc635360f6934f604ad1e53defddd/ES-Dispositivo_via_Broadcast.png)
 
   5. Aparecerá un formulario indicando los datos de _AppKey_,  _AppToken_ y el nombre con el que desee identificar el dispositivo. Luego de ingresar estos datos, haga clic en “Configurar”.
   6. Por último, al incluir los datos anteriores, será posible seleccionar la impresora en la lista de opciones. La idea es que sea seleccionada una de esas opciones y haga clic en “Configurar” nuevamente.

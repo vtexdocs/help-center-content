@@ -18,7 +18,9 @@ internalReference: 833400
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Às vezes, quando um pedido é pago com um cartão de marca compartilhada, o cartão salvo tem o ID do sistema de pagamento errado. Quando esse problema ocorre, as informações do cartão salvo são exibidas no método de pagamento errado no card-ui.

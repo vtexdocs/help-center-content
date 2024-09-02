@@ -31,11 +31,13 @@ Basta ter um código de rastreio válido em qualquer pedido. Nos dias seguintes,
 
 É possível enviar atualizações de rastreio via API, mantendo o comportamento do envio de e-mails. O mesmo para a confirmação de entrega, que também pode ser feita pela interface do OMS.
 
-![2017-08-16 195850](https://images.contentful.com/alneenqid6w5/1IPsGBnkKYggY8m6smeqOA/a2a95afc6fb34e7bfe89c1cab2fdb612/2017-08-16_195850.jpg)
+![2017-08-16 195850](//images.contentful.com/alneenqid6w5/1IPsGBnkKYggY8m6smeqOA/a2a95afc6fb34e7bfe89c1cab2fdb612/2017-08-16_195850.jpg)
 
 A confirmação de entrega feita via OMS também é repassada aos marketplaces.
 
->ℹ️ Atualmente, oferecemos o [VTEX Shipping Network](https://help.vtex.com/pt/subcategory/vtex-shipping-network--5n5MnINzWTQUX1I2EZl4Ib), nossa solução logística para integrar sua operação aos serviços dos Correios e/ou transportadoras parceiras. Todos os pedidos da loja que estiverem vinculados a essa solução vão dispor de rastreamento com atualização automática.
+<div class = "alert alert-info">
+Atualmente, oferecemos o <a href="https://help.vtex.com/pt/subcategory/vtex-shipping-network--5n5MnINzWTQUX1I2EZl4Ib">VTEX Shipping Network</a>, nossa solução logística para integrar sua operação aos serviços dos Correios e/ou transportadoras parceiras. Todos os pedidos da loja que estiverem vinculados a essa solução vão dispor de rastreamento com atualização automática.
+</div>
 
 Outra opção é utilizar soluções desenvolvidas por parceiros para acompanhar entregas dos Correios, como o [rastreio da XP Agência](https://rastreio.xpagencia.com.br/).
 

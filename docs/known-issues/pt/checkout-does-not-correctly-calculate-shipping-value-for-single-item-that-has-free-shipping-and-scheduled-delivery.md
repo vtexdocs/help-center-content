@@ -18,7 +18,9 @@ internalReference: 529043
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o carrinho consiste em dois itens, e o tipo de entrega é programada, ao adicionar o primeiro item ao carrinho com envio gratuito, e é o mesmo SLA, o checkout acaba cobrando o valor desse envio, pois não sabe como lidar com a distribuição de cálculo de valores de frete entre os itens, pois é uma entrega programada e o preço de janela é para um pacote como um todo.

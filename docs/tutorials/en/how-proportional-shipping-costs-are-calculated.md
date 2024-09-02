@@ -29,7 +29,9 @@ For example, suppose the total shipping cost is US$ 25 for five items (product A
 
 For readability purposes, the term "weight" was sometimes used to refer to "mass" in this documentation. Even though they have different meanings, we opted to use this terminology according to everyday use.
 
->❗ The weight of the product cannot be zero. This can cause problems when calculating the shipping cost in the cart.
+<div class="alert alert-danger">
+The weight of the product cannot be zero. This can cause problems when calculating the shipping cost in the cart.
+</div>
 
 ## Viewing proportional shipping costs
 

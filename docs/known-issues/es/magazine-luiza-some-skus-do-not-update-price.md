@@ -18,7 +18,9 @@ internalReference: 882919
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Necesitamos entender por qué algunos skus no actualizan el precio en el marketplace.

@@ -18,7 +18,9 @@ internalReference: 932657
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la cuenta tiene configurado isMarketplaceResponsibleForTaxes, la solicitud del centro de impuestos no tiene en cuenta los precios manuales para los descuentos de artículos.

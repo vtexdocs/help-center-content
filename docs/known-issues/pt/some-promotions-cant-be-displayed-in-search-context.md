@@ -18,7 +18,9 @@ internalReference: 475289
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns tipos de promoções não são recuperados no contexto do ProductSummaryProvider e, portanto, seus crachás não são entregues pelo componente vtex.product-highlights.

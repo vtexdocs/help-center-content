@@ -18,7 +18,9 @@ internalReference: 709971
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando hay más de una condición de pago configurada para un sistema de pago, y una condición de pago distinta de la que tiene la opción de pago a plazos 1x está configurada como predeterminada, la opción de pago a plazos 1x no aparece en la página de pago. En estos casos, sólo se elimina de la página de pago la opción del plazo 1x.

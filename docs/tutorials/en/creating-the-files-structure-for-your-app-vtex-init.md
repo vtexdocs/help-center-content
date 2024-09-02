@@ -33,6 +33,8 @@ IO will ask you a few questions in order to define important parameters for your
 
 IO will confirm that your manifest.json has been successfully generated and asks for the VTEX service that you want to use. 
 
->ℹ️ For front-end development, the service should be react
+<div class="alert alert-info">
+For front-end development, the service should be react
+</div>
 
 Done! Your files and folders structure will be created.

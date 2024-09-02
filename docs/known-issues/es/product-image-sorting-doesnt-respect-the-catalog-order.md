@@ -18,7 +18,9 @@ internalReference: 682177
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utiliza el prop para mostrar una imagen diferente al pasar el ratón sobre un componente de resumen de producto actualmente se llama a la API de búsqueda inteligente para devolver las imágenes y con estos datos se mostrará una imagen diferente al pasar el ratón, lo que ocurre actualmente es que el orden en el Catálogo no es necesariamente el mismo orden que devolverá la búsqueda causando divergencias dentro de los resultados esperados.

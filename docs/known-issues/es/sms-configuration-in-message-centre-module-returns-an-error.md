@@ -22,7 +22,9 @@ Al configurar el envío de SMS por el módulo Centro de Mensajes, la UI devuelve
 
 ## Simulación
 
->ℹ️ Es necesario tener el APP de movile instalado para simular el error.
+<div class="alert alert-info">
+Es necesario tener el APP de movile instalado para simular el error.
+</div>
 
  1. Entrar en el módulo Centro de Mensajes;
  2. Seleccione la opción MOVILE SMS;

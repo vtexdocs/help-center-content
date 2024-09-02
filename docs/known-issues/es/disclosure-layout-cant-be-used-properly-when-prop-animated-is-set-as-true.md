@@ -18,7 +18,9 @@ internalReference: 417947
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hay un problema en el diseño de divulgación que sólo activa el bloque para mostrar, pero no se cierra. Esto es causado por la animación de la prop, que no está funcionando correctamente cuando se establece en el diseño de divulgación y no permite ocultar el elemento después de la apertura.

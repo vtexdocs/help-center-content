@@ -18,7 +18,9 @@ internalReference: 472882
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En los pedidos con la promoción "Más por menos", es posible modificar el pedido y eliminar uno o varios artículos en la interfaz de usuario, pero el descuento sigue aplicándose.

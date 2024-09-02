@@ -18,7 +18,9 @@ internalReference: 756314
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando consultamos el valor del pedido a través de la UI, nos muestra un valor y cuando lo consultamos a través de la API Get Orders, vemos un valor 0.01 superior. Este comportamiento se produce debido al redondeo realizado en la base de datos. Sin embargo, este comportamiento no afecta al valor total del pedido, es sólo una visualización en el ListOrders, el valor total del pedido sigue siendo correcto.

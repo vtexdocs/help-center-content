@@ -18,7 +18,9 @@ internalReference: 997121
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los rangos de precios de la API de facetas ("Obtener lista de las facetas posibles para una consulta dada") pueden variar entre devolver cubos de valores "desde" y "hasta" con precios redondeados y los precios mínimos y máximos entre los resultados de la búsqueda.

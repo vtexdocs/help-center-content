@@ -15,9 +15,13 @@ legacySlug: integrar-con-amazon
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
->⚠️ Esta integración es válida solo para las categorías **Actividades al aire libre**, **Equipaje**, **Cámara y Foto**, **Casa y Jardin**, **Computadoras**, **Electronicos**, **Deportes**, **Joyas**, **Libros**, **Materiales de Oficina**, **Herrajes**, **Juegos**, **Zapatos** y **Ropa**.
+<div class="alert alert-warning"> 
+Esta integración es válida solo para las categorías <b>Actividades al aire libre</b>, <b>Equipaje</b>, <b>Cámara y Foto</b>, <b>Casa y Jardin</b>, <b>Computadoras</b>, <b>Electronicos</b>, <b>Deportes</b>, <b>Joyas</b>, <b>Libros</b>, <b>Materiales de Oficina</b>, <b>Herrajes</b>, <b>Juegos</b>, <b>Zapatos</b> y <b>Ropa</b>.
+</div>
 
->⚠️ Esta integración está disponible para Brasil, México, Estados Unidos, Canadá y Europa.
+<div class="alert alert-warning">
+Esta integración está disponible para Brasil, México, Estados Unidos, Canadá y Europa.
+</div>
 
 ## Autorizar VTEX en el panel Amazon
 
@@ -44,7 +48,9 @@ Antes de configurar la integración, usted debe comprobar si todos los productos
   
   - __Tiempo de Costo__: en Amazon existe el campo `fulfillment latency`, que es __usado para configurar el tiempo de preparación de la entrega de determinado producto.__ Para rellenarlo masivamente a través de la integración, es necesario rellenar el campo [Tiempo de Costo](https://help.vtex.com/es/tutorial/como-crear-muelle) en el registro del muelle asociado a la política comercial usada para Amazon. Si este campo no se rellena, Amazon utilizará el valor _default_ de ellos (2 días).
   
->⚠️ NOTA: Es importante llenar este campo porque si su tienda no está perfomando conforme el tiempo de preparación configurado, retrasando la entrega, su cuenta puede ser bloqueada.
+<div class="alert alert-warning">
+NOTA: Es importante llenar este campo porque si su tienda no está perfomando conforme el tiempo de preparación configurado, retrasando la entrega, su cuenta puede ser bloqueada.
+</div>
 
 ## Configuración de la integración
 

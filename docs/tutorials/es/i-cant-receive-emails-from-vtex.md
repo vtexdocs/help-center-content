@@ -62,7 +62,9 @@ Después de la prueba, si el usuario que inició sesión en el Admin no recibió
 
 Comprueba que el servidor SMTP externo está correctamente configurado según el [sistema SPF](https://help.vtex.com/es/tutorial/configurar-spf--42t0lkl2VyC6Yewc4wA6wI), que se encarga de impedir que servidores no autorizados envíen emails en nombre de un dominio concreto. Si es necesario, puedes realizar la [configuración del SPF (Sender Policy Framework)](https://developers.vtex.com/docs/guides/setting-up-the-spf) y el [DKIM](https://developers.vtex.com/docs/guides/setting-up-dkim-for-transactional-emails) (DomainKeys Identified Mail) en el servidor.
 
->⚠️ Comprueba que los emails no estén en la carpeta de spam. A veces caen en esta carpeta debido a reglas internas de los servidores de correo.
+<div class ="alert alert-warning">
+Comprueba que los emails no estén en la carpeta de spam. A veces caen en esta carpeta debido a reglas internas de los servidores de correo.
+</div>
 
 ### Configurar notificaciones de pedidos y pagos
 
@@ -80,7 +82,9 @@ Amazon (AWS) tiene una plataforma de email llamada Amazon Simple Email Service (
 
 En situaciones normales, una dirección de email puede ser incluida en la lista de supresión de AWS y ser removida transcurridas aproximadamente 12 horas. Durante este periodo, los emails enviados por VTEX no se recibirán en la dirección de email incluida en la lista.
 
->⚠️ La gestión de la lista de supresión es responsabilidad de AWS, y VTEX no tiene ninguna responsabilidad sobre el movimiento de direcciones dentro y fuera de la lista.
+<div class ="alert alert-warning">
+La gestión de la lista de supresión es responsabilidad de AWS, y VTEX no tiene ninguna responsabilidad sobre el movimiento de direcciones dentro y fuera de la lista.
+</div>
 
 Si sospechas que tu dirección de email ha sido bloqueada por AWS, espera 12 horas e intenta volver a enviar un email a la dirección bloqueada.
 
@@ -91,4 +95,4 @@ También puedes comprobar si la dirección de email está registrada como copia 
 3. Comprueba que en los campos __CC:__ o __CCO:__ de la plantilla no figura ninguna dirección de email. En caso contrario, elimina la información y haz clic en `Save`.
 4. Realiza este procedimiento con cada una de las plantillas de la tienda y haz una prueba de envío de email a la dirección deseada.
 
-![copia_email_es](https://images.ctfassets.net/alneenqid6w5/11EjQQnjcUHp2IHF87gNCy/a31ab802e560774fa1ef533d50dffd88/copia_email_es.png)
+![copia_email_es](//images.ctfassets.net/alneenqid6w5/11EjQQnjcUHp2IHF87gNCy/a31ab802e560774fa1ef533d50dffd88/copia_email_es.png)

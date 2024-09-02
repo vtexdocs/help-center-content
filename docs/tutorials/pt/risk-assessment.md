@@ -3,8 +3,8 @@ title: 'Risk Assessment'
 id: 4K97IpqkpCpDYsZOSxtfkX
 status: PUBLISHED
 createdAt: 2022-05-26T13:08:53.479Z
-updatedAt: 2024-05-28T16:54:14.044Z
-publishedAt: 2024-05-28T16:54:14.044Z
+updatedAt: 2024-08-08T21:07:08.119Z
+publishedAt: 2024-08-08T21:07:08.119Z
 firstPublishedAt: 2022-05-26T13:17:48.374Z
 contentType: tutorial
 productTeam: Others
@@ -45,7 +45,9 @@ Algumas informações sobre segurança são restritas a usuários logados no Adm
 
 <iframe src="https://help.vtex.com/insertaccountname?id=7AmPOGXykmE9SYyYDzdAZ4" title="Insira seu nome de conta e clique no botão." frameBorder="0" width="400" height="50"></iframe>
 
->⚠️ Se está tendo dificuldades para acessar o conteúdo dos FAQs, tente instalar a versão mais recente do aplicativo `vtex.admin-docs` usando a [CLI da VTEX](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference) e repetir o processo.
+<div class="alert alert-warning">
+  Se está tendo dificuldades para acessar o conteúdo dos FAQs, tente instalar a versão mais recente do aplicativo <code>vtex.admin-docs</code> usando a <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference">CLI da VTEX</a> e repetir o processo.
+</div>
 
 ## FAQ - Segurança
 

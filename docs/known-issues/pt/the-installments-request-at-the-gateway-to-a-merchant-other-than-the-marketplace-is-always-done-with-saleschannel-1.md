@@ -18,7 +18,9 @@ internalReference: 391197
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os pedidos para obter parcelas externas na porta de entrada de um comerciante que não seja o mercado são sempre feitos com canal de vendas = 1.

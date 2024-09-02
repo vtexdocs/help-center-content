@@ -18,7 +18,9 @@ internalReference: 885011
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La API de sesión está generando algunas inconsistencias. El equipo de ingeniería ha identificado el fallo, el fallo está relacionado con propiedades que empiezan por la misma palabra.

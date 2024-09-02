@@ -28,7 +28,9 @@ También puede crear su propia plantilla de correo electrónico. Entienda mejor 
 
 ## Cómo su cliente acompaña sus pedidos de suscripción
 
->ℹ️ En [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
+<div class = "alert alert-info">
+En <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>, los clientes solo pueden acceder a los pedidos de los últimos dos años.
+</div>
 
 Cada acción, que ocurre dentro del flujo de pedidos de Suscripción, contiene un gatillo que dispara un correo electrónico notificando a su cliente.  Una vez activada la suscripción, el cliente recibirá correos electrónicos con detalles del status de cada pedido de suscripción cada vez que realice una acción. 
 
@@ -41,7 +43,7 @@ No es necesario activar el envío de correos electrónicos manualmente, pues se 
 5. Desactive la casilla `¿Activar envío de e-mail?`, que por defecto está marcada como activa.
 6. Haga clic en **Guardar**.
 
-![PT Subscription Message Center](https://images.ctfassets.net/alneenqid6w5/3g9hWtw1XUcYlUlwGCzagX/8161e2468d88999ec8505a46274b55f1/PT_Subscription_Message_Center.png)
+![PT Subscription Message Center](//images.ctfassets.net/alneenqid6w5/3g9hWtw1XUcYlUlwGCzagX/8161e2468d88999ec8505a46274b55f1/PT_Subscription_Message_Center.png)
 
 ## Plantillas Estándar del Centro de Mensajes 
 

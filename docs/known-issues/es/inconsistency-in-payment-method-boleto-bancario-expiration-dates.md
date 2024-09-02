@@ -18,7 +18,9 @@ internalReference: 489460
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos Boletos Bancarios generados desde el conector ItauShopLine pueden tener una fecha de caducidad diferente a la configurada en la afiliación

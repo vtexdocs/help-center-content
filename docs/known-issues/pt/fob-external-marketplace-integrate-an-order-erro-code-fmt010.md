@@ -1,5 +1,5 @@
 ---
-title: "FOB External Marketplace integra uma ordem (código Erro: 'FMT010')"
+title: 'FOB External Marketplace integra uma ordem (código Erro: "FMT010")'
 id: 3qzV4zJRkPIwQnAZuK5dWu
 status: PUBLISHED
 createdAt: 2022-02-25T16:33:49.641Z
@@ -18,7 +18,9 @@ internalReference: 532377
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O mercado externo (parceiro) ao tentar integrar as ordens FOB está recebendo o erro:

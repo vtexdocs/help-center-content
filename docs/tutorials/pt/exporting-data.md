@@ -3,8 +3,8 @@ title: 'Exportar dados do Master Data v1'
 id: tutorials_1125
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:19.601Z
-updatedAt: 2024-06-20T15:09:14.414Z
-publishedAt: 2024-06-20T15:09:14.414Z
+updatedAt: 2024-08-15T20:57:37.911Z
+publishedAt: 2024-08-15T20:57:37.911Z
 firstPublishedAt: 2017-04-27T23:03:43.216Z
 contentType: tutorial
 productTeam: Master Data
@@ -15,9 +15,16 @@ legacySlug: exportando-dados
 subcategory: 2AThnkEZAYbk4G4EIs53rL
 ---
 
-A exportação de dados em massa de registros no Master Data v1 pode ser feita tanto por API quanto por planilha. Este documento tem como objetivo demonstrar o passo a passo necessário para a exportação de dados por planilha.
+A exportação de dados em massa de registros no Master Data v1 pode ser feita de duas maneiras:
 
->⚠️ A operação de exportar dados do Master Data não é instantânea, e o tempo de execução dela depende da quantidade de dados no Master Data. Por isso, em lojas com muitos dados e com uma alta frequência de atualização, o arquivo exportado pode ficar desatualizado em relação aos novos dados. Caso isso ocorra, a solução deve ser exportar os dados novamente, de preferência quando não há muitas atualizações ocorrendo (por exemplo, fora do horário comercial ou em fins de semana).
+* Download de uma planilha pela interface do Master Data.
+* Utilização do endpoint [Scroll documents](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/scroll) na API do Master Data v1.
+
+Este documento tem como objetivo demonstrar o passo a passo necessário para a __exportação de dados por planilha__.
+
+<div class="alert alert-warning">
+  <p>A operação de exportar dados do Master Data não é instantânea, e o tempo de execução dela depende da quantidade de dados no Master Data. Por isso, em lojas com muitos dados e com uma alta frequência de atualização, o arquivo exportado pode ficar desatualizado em relação aos novos dados. Caso isso ocorra, a solução deve ser exportar os dados novamente, de preferência quando não há muitas atualizações ocorrendo (por exemplo, fora do horário comercial ou em fins de semana).</p>
+</div>
 
 ## Exportar relatório com dados do Master Data v1
 

@@ -26,7 +26,7 @@ Al hacer clic en el nombre de una cuenta específica, la pantalla __Detalles de 
 - [Cierre de cuenta](#cierre-de-cuenta)
 <br>
 <br>
-![Cuenta_ES](https://images.ctfassets.net/alneenqid6w5/3Wu6HcL5NbC5XS5YdiF3Dx/4ee2770f072e2cbd60d80045423ad427/Contas_ES.png)
+![Cuenta_ES](//images.ctfassets.net/alneenqid6w5/3Wu6HcL5NbC5XS5YdiF3Dx/4ee2770f072e2cbd60d80045423ad427/Contas_ES.png)
 
 ## Titular
 
@@ -36,7 +36,9 @@ Presenta información sobre el estado de la cuenta (activa, inactiva), código d
 
 Muestra el monto de crédito disponible para que el cliente lo utilice en compras y el monto total a pagar (en facturas) por compras ya realizadas utilizando Customer Credit como medio de pago.
 
->⚠️ Cuando el cliente realiza una compra utilizando Customer Credit, pero aún no hay factura para el pedido, el campo **Crédito reservado** también se muestra en esta pantalla que contiene información sobre el valor del pedido.
+<div class="alert alert-warning">
+Cuando el cliente realiza una compra utilizando Customer Credit, pero aún no hay factura para el pedido, el campo <b>Crédito reservado</b> también se muestra en esta pantalla que contiene información sobre el valor del pedido.
+</div>
 
 ## Gestionar
 
@@ -72,4 +74,6 @@ A partir de este momento, el cliente y su dependiente podrán compartir el monto
 
 Si desea cerrar la cuenta del cliente, en la sección __Otro__, haga clic en `CERRAR CUENTA`.
 
->⚠️ Una cuenta de Customer Credit cerrada no se puede volver a abrir y se eliminarán la factura, el status de cuenta y los datos adicionales de los dependientes. Sin embargo, luego de completar el cierre de cuenta, si lo desea, puede [abrir una nueva cuenta](https://help.vtex.com/es/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU#crear-cuentas-individualmente) para el cliente utilizando el mismo correo electrónico que la cuenta cerrada.
+<div class="alert alert-warning">
+Una cuenta de Customer Credit cerrada no se puede volver a abrir y se eliminarán la factura, el status de cuenta y los datos adicionales de los dependientes. Sin embargo, luego de completar el cierre de cuenta, si lo desea, puede <a href="https://help.vtex.com/es/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU#crear-cuentas-individualmente">abrir una nueva cuenta</a> para el cliente utilizando el mismo correo electrónico que la cuenta cerrada.
+</div>

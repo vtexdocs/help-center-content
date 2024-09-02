@@ -18,7 +18,9 @@ internalReference: 904482
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A página de administração da pesquisa explicada tem problemas com as regras de comercialização e as áreas de campos pesquisáveis quando uma pesquisa ou um produto tem muitas informações, sobrepondo textos entre diferentes seções/produtos.

@@ -1,5 +1,5 @@
 ---
-title: "A interface de usuário do checkout não está usando automaticamente o 'envio enxuto' para itens sem métodos de envio comuns"
+title: 'A interface de usuário do checkout não está usando automaticamente o "envio enxuto" para itens sem métodos de envio comuns'
 id: 2LXp8VCAay7Ic9MBfbtirT
 status: PUBLISHED
 createdAt: 2024-04-02T15:27:23.003Z
@@ -18,7 +18,9 @@ internalReference: 329846
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As configurações da interface do usuário do checkout permitem que você desative o envio simples (otimizações do modo de entrega), mas isso só é possível se todos os itens no carrinho tiverem os mesmos métodos de entrega em comum. Caso contrário, o envio enxuto deve aparecer de forma forçada no carrinho, mesmo com a opção desativada.

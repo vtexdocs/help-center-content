@@ -18,7 +18,9 @@ internalReference: 668122
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O recurso de exportação para recuperar uma planilha com os skus pendentes, aprovados ou rejeitados por vendedor não está funcionando quando o administrador está definido para qualquer outro idioma que não seja PT, EN, ES.

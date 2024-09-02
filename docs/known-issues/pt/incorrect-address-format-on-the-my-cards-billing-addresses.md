@@ -1,5 +1,5 @@
 ---
-title: "Formato incorreto do endereço nos endereços de cobrança 'Meus Cartões"
+title: 'Formato incorreto do endereço nos endereços de cobrança "Meus Cartões'
 id: 25QxVtMOazrxugHZqFrhSG
 status: PUBLISHED
 createdAt: 2023-04-17T17:40:24.795Z
@@ -18,7 +18,9 @@ internalReference: 791779
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao adicionar um novo endereço de cobrança no vtex.my-cards, o formato incorreto do endereço é exibido. Isto acontece quando o usuário está tentando adicionar um novo cartão de crédito, e ocorre somente quando o novo endereço que o usuário está tentando digitar é de um país diferente. O que acontece, por exemplo, é que o usuário escolhe um novo endereço dos EUA, enquanto os outros são do Canadá, todos os endereços do Canadá serão formatados como um endereço dos EUA.

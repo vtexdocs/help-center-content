@@ -18,7 +18,9 @@ internalReference: 778306
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Locale Switcher no funciona en el entorno myvtex sin configurar explícitamente el espacio de trabajo/entorno, pero no hay impacto en el sitio web. Este comportamiento afecta a la navegación sólo en myvtex y gestión de contenidos para diferentes idiomas.

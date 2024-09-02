@@ -15,7 +15,9 @@ legacySlug: how-to-rank-the-best-selling-items
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
->⚠️ The **Orders** module was not designed as a Business Intelligence (BI) tool. It's usually through the ERP that the store has access to sales reports.
+<div class="alert alert-warning">
+The <strong>Orders</strong> module was not designed as a Business Intelligence (BI) tool. It's usually through the ERP that the store has access to sales reports.
+</div>
 
 While the **Orders** module primary goal is to manage the order flow, it is possible to manipulate data from the [order report](https://help.vtex.com/tutorial/planilha-de-pedidos) to extract information that may be useful to your business.
 

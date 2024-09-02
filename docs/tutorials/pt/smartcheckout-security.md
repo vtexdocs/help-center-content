@@ -35,6 +35,7 @@ Isso significa que, ao tentar realizar uma compra com um email de terceiros, um 
 
 Além disso, a forma que as informações aparecem mascaradas no checkout é certificada pelo padrão [PCI-DSS](https://help.vtex.com/pt/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E#) de segurança em pagamentos. Segundo este padrão, os últimos dígitos de um cartão não precisam ser ocultados. A forma com que a informação é exibida é suficiente apenas para o reconhecimento do meio de pagamento, mas insuficiente para realização de compras.
 
->ℹ️ Com o VTEX Smartcheckout™ a segurança vem em primeiro lugar. Sempre que um email é reconhecido, todos os dados são preenchidos de uma maneira que garante que somente o proprietário do email reconheça suas informações.
-> Ao acessar a loja pelo domínio restrito `myvtex.com` operadores de loja podem ver os dados não mascarados no SmartCheckout a fim de realizar testes. Acesso por este domínio é restrito a administradores de loja com o devido nível de acesso, com as devidas credenciais.
+<div class = "alert alert-info">
+<p>Com o VTEX Smartcheckout™ a segurança vem em primeiro lugar. Sempre que um email é reconhecido, todos os dados são preenchidos de uma maneira que garante que somente o proprietário do email reconheça suas informações.</p><p>Ao acessar a loja pelo domínio restrito <code>myvtex.com</code> operadores de loja podem ver os dados não mascarados no SmartCheckout a fim de realizar testes. Acesso por este domínio é restrito a administradores de loja com o devido nível de acesso, com as devidas credenciais.</p>
+</div>
 

@@ -18,7 +18,9 @@ internalReference: 366975
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un usuario tiene más de una dirección en su perfil y la primera dirección de la lista de direcciones está incompleta, independientemente de que las demás sean válidas, la caja no rellena automáticamente sus datos de perfil/envío después de añadir su correo electrónico.

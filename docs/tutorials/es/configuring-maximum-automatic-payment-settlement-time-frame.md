@@ -19,7 +19,9 @@ En este artículo, se explicará cómo configurar el recurso del tiempo máximo 
 
 Antes de comenzar con el procedimiento, es importante aclarar la diferencia entre la __liquidación por facturación__, la __liquidación automática__ y la __liquidación anticipada__, tres conceptos presentes en el mercado de pagos. En algunos conectores de pagos de plataforma, estos términos se conocen como __captura por facturación__, __captura anticipada__ y __captura automática__.
 
->⚠️ La siguiente información es válida para los pagos con tarjeta de crédito.
+<div class="alert alert-warning">
+La siguiente información es válida para los pagos con tarjeta de crédito.
+</div>
 
 ## liquidación por facturación
 La liquidación por facturación es una de las etapas del [flujo de la transacción](https://help.vtex.com/es/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ# "flujo de la transacción"), el proceso interno de VTEX que ocurre después de que un cliente realiza el pago de un pedido. Es decir, el cliente no participa en esta dinámica.
@@ -40,7 +42,9 @@ Cuando el proceso de autorización inicia, el sistema espera un tiempo máximo, 
 
 El administrador de la tienda y el adquirente establecen el límite de tiempo para que se active la liquidación automática.
 
->ℹ️ Generalmente, el tiempo máximo predeterminado para que la liquidación ocurra es de cuatro días. Sin embargo, esto **no** es una regla. Cada adquirente puede definir el tiempo que considere más apropiado.
+<div class="alert alert-info">
+Generalmente, el tiempo máximo predeterminado para que la liquidación ocurra es de cuatro días. Sin embargo, esto <strong>no</strong> es una regla. Cada adquirente puede definir el tiempo que considere más apropiado.
+</div>
 
 Para configurar esta liquidación, siga los pasos a continuación:
 
@@ -54,7 +58,7 @@ Para configurar esta liquidación, siga los pasos a continuación:
 8. En el campo __Captura anticipada__, seleccione una de las opciones de tiempo disponibles. 
 9. Rellene el  campo __Cambiar el tiempo máximo de captura automática__ con el periodo acordado con el adquirente. __Si usted prefiere dejar el campo en blanco, se utilizará el estándar de 4 días.__
 
-![captura_automatica_ES](https://images.ctfassets.net/alneenqid6w5/4jX317pC0aLgMXygXxd1XU/6a7d21e16d4ef26e0076ad7b641e877f/image.png)
+![captura_automatica_ES](//images.ctfassets.net/alneenqid6w5/4jX317pC0aLgMXygXxd1XU/6a7d21e16d4ef26e0076ad7b641e877f/image.png)
 10. Haga clic en el __botón Salva__ para guardar.
 
 De esta manera, se implementará el nuevo recurso de liquidación.

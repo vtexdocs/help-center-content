@@ -14,7 +14,9 @@ locale: pt
 legacySlug: busca-com-parametro-de-especificacao-retorna-busca-vazia-o-que-fazer
 ---
 
->⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+<div class = "alert alert-warning">
+  <strong>Atenção</strong>: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+</div>
 
 Caso a URL `http://www.{account-name}.com.br/busca/?fq=specificationFilter_{XXX}:{Y}` não esteja trazendo os produtos/SKUs que têm a especificação desejada, é possível que o parâmetro __Filtro__ não esteja marcado no cadastro do campo de produto/SKU. 
 

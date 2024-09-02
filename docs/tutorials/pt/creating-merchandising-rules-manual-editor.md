@@ -33,7 +33,9 @@ Para configurar uma [regra de merchandising](https://help.vtex.com/pt/tracks/vte
     Para aplicar o efeito de customização desejado, é necessário cadastrar uma ou mais condições nesta etapa. Para entender como funciona o cadastro de uma condição, leia [Condições de Regras de merchandising](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
 10. Clique em `Salvar`.
 
->ℹ️ Após salvar, as alterações de regras de merchandising levam em média dois minutos para serem atualizadas.
+<div class="alert alert-info">
+<p>Após salvar, as alterações de regras de merchandising levam em média dois minutos para serem atualizadas.</p>
+</div>
 
 ## Exemplo
 
@@ -76,7 +78,9 @@ Considere o seguinte exemplo: você quer promover produtos da marca Beautyx dura
 
 * **Remover:** exclui as condições selecionadas do resultado, ou seja, remove produtos que estariam no resultado de busca.
 
-  >ℹ️ **Adicionar** e **Remover** são compatíveis com outros tipos de ordenação que não são baseadas na relevância configurada. Ou seja, se você adicionar ou remover um produto através de uma regra de merchandising e o cliente da sua loja ordenar os resultados da busca por preço, por exemplo, os produtos serão ordenados por preço mas os produtos exibidos vão respeitar a regra de merchandising.
+  <div class="alert alert-info">
+   <p><strong>Adicionar</strong> e <strong>Remover</strong> são compatíveis com outros tipos de ordenação que não são baseadas na relevância configurada. Ou seja, se você adicionar ou remover um produto através de uma regra de merchandising e o cliente da sua loja ordenar os resultados da busca por preço, por exemplo, os produtos serão ordenados por preço mas os produtos exibidos vão respeitar a regra de merchandising.</p>
+  </div>
 
 * **Promover:** oferece destaque às condições selecionadas no resultado. Isso concede maior relevância a um produto que já seria exibido no resultado de busca.
 
@@ -84,6 +88,10 @@ Considere o seguinte exemplo: você quer promover produtos da marca Beautyx dura
 
 * **Despromover**: oculta as condições selecionadas no resultado. Isso permite despriorizar um produto que já seria exibido no resultado de busca.
 
-  >ℹ️ **Promover **e **Despromover **funcionam somente quando o cliente da sua loja ordena os resultados da busca por relevância. Caso ele(a) ordene os resultados por preço, por exemplo, os produtos serão ordenados estritamente pelo preço e a regra de merchandising não será utilizada.
+  <div class="alert alert-info">
+   <p><strong>Promover </strong>e <strong>Despromover </strong>funcionam somente quando o cliente da sua loja ordena os resultados da busca por relevância. Caso ele(a) ordene os resultados por preço, por exemplo, os produtos serão ordenados estritamente pelo preço e a regra de merchandising não será utilizada.</p>
+  </div>
 
-  >⚠️ Não configure condições que afetem os mesmos produtos nas seções **Promover** e **Despromover**, pois são efeitos contrários. Essa configuração equivocada influencia negativamente no comportamento da funcionalidade e não apresenta os resultados desejados.
+  <div class="alert alert-warning">
+   <p>Não configure condições que afetem os mesmos produtos nas seções <strong>Promover</strong> e <strong>Despromover</strong>, pois são efeitos contrários. Essa configuração equivocada influencia negativamente no comportamento da funcionalidade e não apresenta os resultados desejados.</p>
+  </div>

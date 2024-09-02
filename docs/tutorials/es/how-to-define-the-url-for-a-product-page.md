@@ -23,9 +23,11 @@ Puedes cambiar el campo **textLink** de un producto existente en cualquier momen
 
 Consulta la sección [Reglas de llenado](#reglas-de-llenado) para conocer las restricciones de este campo.
 
-![textlink.es](https://images.ctfassets.net/alneenqid6w5/7Fn3c82EFti8PUc2qME3Xa/74abc336ae433344083479d28014696d/textlink.es.png)
+![textlink.es](//images.ctfassets.net/alneenqid6w5/7Fn3c82EFti8PUc2qME3Xa/74abc336ae433344083479d28014696d/textlink.es.png)
 
->ℹ️ También puedes cambiar la URL de un producto utilizando la[ API del Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#overview). En este caso, el campo a modificar es `LinkId`. Consulta el artículo[ Update product](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-put-product) para obtener más información.
+<div class="alert alert-info">
+  <p>También puedes cambiar la URL de un producto utilizando la<a href="https://developers.vtex.com/docs/api-reference/catalog-api#overview"> API del Catálogo</a>. En este caso, el campo a modificar es <code>LinkId</code>. Consulta el artículo<a href="https://developers.vtex.com/vtex-rest-api/reference/catalog-api-put-product"> Update product</a> para obtener más información.</p>
+</div>
 
 ## Reglas de llenado
 
@@ -40,7 +42,9 @@ Al rellenar el campo **textLink**, deben respetarse las siguientes reglas:
     * `api`
     * `admin`
 
->❗ Ten en cuenta que no cumplir con las reglas de llenado del campo **textLink** indicadas anteriormente puede afectar el rendimiento de tu tienda, causar problemas en las búsquedas e interferir en el funcionamiento de las páginas definidas en el Admin VTEX.
+<div class="alert alert-danger">
+  <p>Ten en cuenta que no cumplir con las reglas de llenado del campo <strong>textLink</strong> indicadas anteriormente puede afectar el rendimiento de tu tienda, causar problemas en las búsquedas e interferir en el funcionamiento de las páginas definidas en el Admin VTEX.</p>
+</div>
 
 ## Más información
 

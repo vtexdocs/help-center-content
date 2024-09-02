@@ -17,7 +17,9 @@ subcategory:
 
 [Nethone](https://nethone.com/) es una solución antifraude que a través de la inteligencia artificial y el aprendizaje automático (o *machine learning*) identifica aspectos de comportamiento específicos del usuario y minimiza los riesgos y las posibilidades de fraude en las transacciones de su tienda.
 
->⚠️ La integración de Nethone en VTEX se realiza mediante **Application Key (App Key)** y **Application Token (App Token)**. Puede encontrar esta información en el paquete del <i>plugin</i> que Nethone le enviará después de firmar el contrato. Si tiene alguna duda, póngase en contacto con el equipo de soporte de Nethone.
+<div class="alert alert-warning">
+  La integración de Nethone en VTEX se realiza mediante <b>Application Key (App Key)</b> y <b>Application Token (App Token)</b>. Puede encontrar esta información en el paquete del <i>plugin</i> que Nethone le enviará después de firmar el contrato. Si tiene alguna duda, póngase en contacto con el equipo de soporte de Nethone.
+  </div>
 
 Para configurar Nethone, necesitará:
 
@@ -70,7 +72,9 @@ El siguiente paso de configuración de Nethone se realiza a través de Javascrip
 
 ## Configurar Google Tag Manager
 
->⚠️ Las configuraciones documentadas a continuación se realizan en un sistema externo a VTEX y pueden descontinuarse sin previo aviso.
+<div class="alert alert-warning">
+Las configuraciones documentadas a continuación se realizan en un sistema externo a VTEX y pueden descontinuarse sin previo aviso.
+  </div>
 
 Con el número de identificación de la cuenta instalado en el checkout, configure los ajustes a continuación para dar seguimiento a los intentos de compra que ocurran en su tienda. 
 

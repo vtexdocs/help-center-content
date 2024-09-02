@@ -18,7 +18,9 @@ internalReference: 546844
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando hay una promoción con el resaltado activado y el producto, que está incluido en esta promoción, está dentro de una lista, como una estantería, no se muestra la insignia que informa de la promoción.

@@ -18,7 +18,9 @@ internalReference: 740431
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los productos sin SKU no se devuelven en la administración cuando se busca por ID de producto

@@ -1,5 +1,5 @@
 ---
-title: "Error 'Unhandled exception' al cambiar la edición de la cuenta"
+title: 'Error "Unhandled exception" al cambiar la edición de la cuenta'
 id: 1NVjCrlRkadscl8fW9rOdA
 status: PUBLISHED
 createdAt: 2023-09-26T12:45:44.999Z
@@ -18,7 +18,9 @@ internalReference: 907294
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A veces cuando cambiamos la edición de una cuenta o espacio de trabajo nos podemos encontrar con el siguiente error:

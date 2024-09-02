@@ -35,7 +35,7 @@ Once you have authenticated using the chosen method, you enter the support panel
 
 To open a ticket, simply click the __Send a request__ red button.
 
-![chamado financeiro1 EN](https://images.ctfassets.net/alneenqid6w5/fJpJBPNaKcMSkuKau28eA/16c703c7fe792f12fd996f557a21651d/chamado_financeiro1_EN.png)
+![chamado financeiro1 EN](//images.ctfassets.net/alneenqid6w5/fJpJBPNaKcMSkuKau28eA/16c703c7fe792f12fd996f557a21651d/chamado_financeiro1_EN.png)
 
 You will be taken to the ticket opening form, where you must fill in:
 - Your name.
@@ -45,7 +45,7 @@ You will be taken to the ticket opening form, where you must fill in:
 - The subject.
 - The question or problem.
 
-![chamado financeiro2 EN](https://images.ctfassets.net/alneenqid6w5/1HAPK6tTKE2isE4KUuYuQ6/857347142afec501604095328eb785de/chamado_financeiro2_EN.png)
+![chamado financeiro2 EN](//images.ctfassets.net/alneenqid6w5/1HAPK6tTKE2isE4KUuYuQ6/857347142afec501604095328eb785de/chamado_financeiro2_EN.png)
 
 You can also include attachments, such as screenshots or animated gifs, that help you describe the context of your request.
 
@@ -57,11 +57,17 @@ This classification is important for the support team to prioritize the most urg
 
 *If the indicated level does not apply to the scenario, the agent can modify it.*
 
->ℹ️ **Normal:** general questions.
+<div class = "alert alert-info">
+<strong>Normal:</strong> general questions.
+</div>
 
->⚠️ **High:** important documentation is making the process unfeasible.
+<div class = "alert alert-warning">
+<strong>High:</strong> important documentation is making the process unfeasible.
+</div>
 
->❗ **Urgent:** Admin blocked, threatening the profit of their business.
+<div class = "alert alert-danger">
+<strong>Urgent:</strong> Admin blocked, threatening the profit of their business.
+</div>
 
 ## Interacting with the support
 
@@ -79,7 +85,7 @@ By clicking __My Requests__, you'll see the history of tickets opened by your ow
 
 If you click __All Requests__, you can see the history of tickets opened by any employees in your store.
 
-![chamado financeiro3 EN](https://images.ctfassets.net/alneenqid6w5/2KBx2P4jCUkOyWkcSkMAKe/fb734b3e0dd80c2362d769f3336eec7f/chamado_financeiro3_EN.png)
+![chamado financeiro3 EN](//images.ctfassets.net/alneenqid6w5/2KBx2P4jCUkOyWkcSkMAKe/fb734b3e0dd80c2362d769f3336eec7f/chamado_financeiro3_EN.png)
 
 ## The ticket statuses
 
@@ -94,4 +100,4 @@ After that, it goes through the statuses `Pending`, `Solved` and `Closed`.
 
 In your support panel, you can filter the tickets search by status. To do this, simply use the checkbox below the request button.
 
-![chamado financeiro4 EN](https://images.ctfassets.net/alneenqid6w5/3Wy8oPFBYQO6KEQ0uQiy0y/a28356d8e2742fa8065b1bf097ea76c1/chamado_financeiro4_EN.png)
+![chamado financeiro4 EN](//images.ctfassets.net/alneenqid6w5/3Wy8oPFBYQO6KEQ0uQiy0y/a28356d8e2742fa8065b1bf097ea76c1/chamado_financeiro4_EN.png)

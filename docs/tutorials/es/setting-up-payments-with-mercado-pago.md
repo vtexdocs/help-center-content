@@ -39,7 +39,9 @@ A continuación se muestran las configuraciones para el conector __Mercado Pago_
 12. En el campo __Tipo de estorno__ ("Tipo de retorno"), elija entre el proceso automático o la solicitud manual (en este caso, MercadoPago enviará un e-mail avisando del retorno pendiente).
 13. Haga clic en __Guardar__.
 
->⚠️ El paso indicado en el item **11** es realizado en ambiente externo a VTEX. Por lo tanto, el proceso indicado puede ser actualizado sin previo aviso.
+<div class="alert alert-warning">
+El paso indicado en el item <strong>11</strong> es realizado en ambiente externo a VTEX. Por lo tanto, el proceso indicado puede ser actualizado sin previo aviso.
+</div>
 
 ## Configurar la condición de pago MercadoPago
 1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración > Planes de pago**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.

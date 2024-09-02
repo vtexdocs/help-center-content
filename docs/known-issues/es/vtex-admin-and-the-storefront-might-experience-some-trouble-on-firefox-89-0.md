@@ -37,7 +37,9 @@ Para solucionar este problema, debe desactivar la opción de rastreo:
 
 No se preocupe: desactivar esta opción no significa que su tienda estará desprotegida.
 
->ℹ️ Si después de estos pasos su Admin VTEX o tienda aún no se carga, le sugerimos que intente acceder con otro navegador.
+<div class= "alert alert-info">
+Si después de estos pasos su Admin VTEX o tienda aún no se carga, le sugerimos que intente acceder con otro navegador.
+</div>
 
-![Firefox bug ES](https://images.ctfassets.net/alneenqid6w5/4EZo0FaHBx1DfbSrGVpbku/5d89ca13799da3ada490e383f0913573/Firefox_bug_ES.jpg)
+![Firefox bug ES](//images.ctfassets.net/alneenqid6w5/4EZo0FaHBx1DfbSrGVpbku/5d89ca13799da3ada490e383f0913573/Firefox_bug_ES.jpg)
 

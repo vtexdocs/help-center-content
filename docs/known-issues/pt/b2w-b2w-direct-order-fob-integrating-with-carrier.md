@@ -1,5 +1,5 @@
 ---
-title: "[Ordem 'B2W direta' (FOB) integrando-se com a transportadora"
+title: '[Ordem "B2W direta" (FOB) integrando-se com a transportadora'
 id: 20nA7vm1RFMhv7yhaJ43GG
 status: PUBLISHED
 createdAt: 2022-12-12T18:14:19.975Z
@@ -18,7 +18,9 @@ internalReference: 714879
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns pedidos da "b2wentregadirect" que devem entrar como (FOB), mas estão sendo integrados com o frete calculado aqui do nosso lado.

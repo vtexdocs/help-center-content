@@ -1,5 +1,5 @@
 ---
-title: "A API da Attachents não permite 'domainValues' nulos (e deveria)"
+title: 'A API da Attachents não permite "domainValues" nulos (e deveria)'
 id: 7KMb6nh0ulcWdEfz7USbPg
 status: PUBLISHED
 createdAt: 2023-09-11T19:02:51.514Z
@@ -18,7 +18,9 @@ internalReference: 897480
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As solicitações de atualização para a API /api/catalog/pvt/attachment/ não estão permitindo atualizações para o campo Valor do domínio como um valor nulo.

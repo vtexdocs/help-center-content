@@ -15,4 +15,6 @@ legacySlug: how-to-setup-google-analytics-4-in-vtex-stores-in-legacy-cms-portal
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---
 
->ℹ️ Content under translation.
+<div class="alert alert-info">
+  <p>Content under translation.</p>
+</div>

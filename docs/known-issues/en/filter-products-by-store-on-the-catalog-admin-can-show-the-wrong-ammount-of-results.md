@@ -1,5 +1,5 @@
 ---
-title: "Filter products by 'Store' on the Catalog Admin can show the wrong ammount of results"
+title: 'Filter products by "Store" on the Catalog Admin can show the wrong ammount of results'
 id: E38Y6a81l7QNtrmh2I2id
 status: PUBLISHED
 createdAt: 2023-02-17T16:01:30.420Z

@@ -18,7 +18,9 @@ internalReference: 755993
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se você tentar acessar uma página no editor do site usando a página de desembarque, ela não carrega os blocos, ela permanece com carga infinita. Por exemplo `https://.myvtex.com/admin/cms/site-editor/.`

@@ -37,7 +37,9 @@ Para consertar esse problema, você deve desligar a opção de rastreamento:
 
 Não se preocupe: desligar essa opção não significa que sua loja estará desprotegida.    
 
->ℹ️ Se após estes passos o seu Admin ou loja ainda não carregarem, sugerimos que tente acessá-lo com outro navegador.  
+<div class= "alert alert-info">
+Se após estes passos o seu Admin ou loja ainda não carregarem, sugerimos que tente acessá-lo com outro navegador. 
+</div>  
 
-![Firefox bug PT](https://images.ctfassets.net/alneenqid6w5/4EZo0FaHBx1DfbSrGVpbku/4ec41440848f1adad3924c07d5154369/Firefox_bug_PT.jpg)
+![Firefox bug PT](//images.ctfassets.net/alneenqid6w5/4EZo0FaHBx1DfbSrGVpbku/4ec41440848f1adad3924c07d5154369/Firefox_bug_PT.jpg)
 

@@ -3,8 +3,8 @@ title: 'Configurar Carrinho Abandonado'
 id: tutorials_740
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:05.882Z
-updatedAt: 2024-06-24T14:49:04.124Z
-publishedAt: 2024-06-24T14:49:04.124Z
+updatedAt: 2024-08-09T13:03:53.859Z
+publishedAt: 2024-08-09T13:03:53.859Z
 firstPublishedAt: 2017-04-27T23:03:41.572Z
 contentType: tutorial
 productTeam: Shopping
@@ -40,9 +40,11 @@ Você pode criar o seu próprio template de email customizado ou utilizar a opç
 4. Preencha o campo __Template XHTML__ com os códigos do template.
 5. Clique em `Save Template`.
 
-![template xhtml](https://images.ctfassets.net/alneenqid6w5/44IZ7N3din2EELL15z5FeQ/5e4164dc9abd8f5139d7934cae41e44c/Template_XHTML.PNG)
+![template xhtml](//images.ctfassets.net/alneenqid6w5/44IZ7N3din2EELL15z5FeQ/5e4164dc9abd8f5139d7934cae41e44c/Template_XHTML.PNG)
 
->⚠️ Recomendamos que a customização de template seja realizada por profissionais com experiência no módulo CMS, e preferencialmente, que já tenham realizado configurações de outros templates de página e prateleira.
+<div class="alert alert-warning">
+Recomendamos que a customização de template seja realizada por profissionais com experiência no módulo CMS, e preferencialmente, que já tenham realizado configurações de outros templates de página e prateleira.
+</div>
 
 Para utilizar uma opção padrão de template, siga os seguintes passos:
 
@@ -50,7 +52,7 @@ Para utilizar uma opção padrão de template, siga os seguintes passos:
 2. Em __CMS > HTML Templates__, clique em `CEM-Abandoned-Cart`.
 3. Verifique as informações dos códigos de template presentes no campo __Template XHTML__.
 
-![CEM-Abandoned-Cart](https://images.ctfassets.net/alneenqid6w5/5ZBXBk2KNJVjekmT7P7RqQ/0dd187775baec69f3deee305c05950cb/CEM-Abandoned-Cart.PNG)
+![CEM-Abandoned-Cart](//images.ctfassets.net/alneenqid6w5/5ZBXBk2KNJVjekmT7P7RqQ/0dd187775baec69f3deee305c05950cb/CEM-Abandoned-Cart.PNG)
 
 ### Configurar modelo de email na Central de Mensagens
 
@@ -65,9 +67,11 @@ Uma vez criado o novo template de email ou utilizado os dados do template padrã
 7. Em __Html__, insira as informações do template de email criado ou padrão.
 8. Clique em `Salvar`. 
 
->ℹ️ O campo JSON Data não deve ser preenchido ou seus dados utilizados no template do email. Ele contém apenas informações para permitir uma pré-visualização do formato em que os dados que serão visualizados no email.
+<div class = "alert alert-info">
+O campo JSON Data não deve ser preenchido ou seus dados utilizados no template do email. Ele contém apenas informações para permitir uma pré-visualização do formato em que os dados que serão visualizados no email.
+</div>
 
-![New template - message center](https://images.ctfassets.net/alneenqid6w5/7nX1YnaZoesV51yG24Z3ls/68a8a4f2f7ad9f9911598b3aab475817/Novo_template.PNG)
+![New template - message center](//images.ctfassets.net/alneenqid6w5/7nX1YnaZoesV51yG24Z3ls/68a8a4f2f7ad9f9911598b3aab475817/Novo_template.PNG)
 
 ### Liberar SPF
 
@@ -75,7 +79,7 @@ A liberação do SPF é fundamental para evitar problemas de entregabilidade do 
 
 Como boa prática de configuração de DNS de um domínio genérico (não obrigatório), segue o exemplo abaixo:
 
-![Hostnames - SPF](https://images.ctfassets.net/alneenqid6w5/4txj9x3nVeN7Z3WEZmSpev/45230f3dbeda2d8ee040ec8a6ee39d31/Hostnames_-_SPF.PNG)
+![Hostnames - SPF](//images.ctfassets.net/alneenqid6w5/4txj9x3nVeN7Z3WEZmSpev/45230f3dbeda2d8ee040ec8a6ee39d31/Hostnames_-_SPF.PNG)
 
 Saiba mais em [Configurar o apontamento de DNS para a VTEX](https://help.vtex.com/pt/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280?&utm_source=autocomplete).
 
@@ -127,7 +131,9 @@ Para que o disparo da trigger seja realizado, os filtros precisam estar obrigato
 13. Clique em `Salvar`.
 14. Crie um carrinho e feche a página para testar a trigger.
 
-  >⚠️ A sessão de uma página expira em 30 minutos. Somente depois desse período o Master Data inicia a contagem do período agendado para o disparo da trigger de Carrinho Abandonado. Logo, o tempo até o email chegar corresponde ao tempo da sessão (30 minutos) mais o período agendado na trigger.
+  <div class="alert alert-warning">
+    <p>A sessão de uma página expira em 30 minutos. Somente depois desse período o Master Data inicia a contagem do período agendado para o disparo da trigger de Carrinho Abandonado. Logo, o tempo até o email chegar corresponde ao tempo da sessão (30 minutos) mais o período agendado na trigger.</p>
+</div>
 
 14. Uma vez que você houver recebido a mensagem do carrinho abandonado em seu email, no campo __Destinatário__ (passo 12), selecione a opção __CL:Email__ e  clique em `Adicionar email dinâmico`.
 15. Clique em `Salvar`.

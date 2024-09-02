@@ -18,7 +18,9 @@ internalReference: 786048
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao criar uma SKU da Admin, é necessário registrar as dimensões para o transporte e as dimensões reais. Entretanto, ao preencher um dos campos de texto e clicar (ou usar a tecla tab) para preencher outro, este campo não está selecionado e é necessário clicar novamente no campo de texto para poder inserir/editar o valor.

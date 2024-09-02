@@ -20,15 +20,21 @@ Por lo tanto, una de las opciones de personalización de inStore es cambiar el c
 
 Una vez que se habilite, esta personalización muestra el campo `Vendor` en la parte superior de la página y añade una etapa al flujo de compra: antes del Envío, el vendedor está obligado a identificar esa venta con su código.
 
->❗ **Atención**: en este caso, no es posible finalizar una venta sin completar el campo `Vendor` con el código del vendedor.
+<div class="alert alert-danger">
+<strong>Atención</strong>: en este caso, no es posible finalizar una venta sin completar el campo <code>Vendor</code> con el código del vendedor.
+</div>
 
 ## Editando el archivo Javascript
 
 Para habilitar el código del vendedor, se necesita realizar una alteración en el código JavaScript `checkout-custom-inStore.js` que está guardado en el panel administrativo de VTEX.
 
->⚠️ Se **recomienda expresamente** que el responsable de modificar el código sea una persona con **experiencia en programación**.  
+<div class="alert alert-warning">
+Se <strong>recomienda expresamente</strong> que el responsable de modificar el código sea una persona con <strong>experiencia en programación</strong>. 
+</div>  
 
->ℹ️ El código del vendedor es habilitado **solo** por JavaScript.
+<div class="alert alert-info">
+El código del vendedor es habilitado <strong>solo</strong> por JavaScript.
+</div>
 
 En primer lugar, realice los ajustes descritos en el artículo [Habilitar campo de observación en la pantalla de pedido](https://help.vtex.com/es/tracks/instore-customizacoes--1z9kBm12oBPyVNDo1ivVc2/8Aj21R8bll0tdrxHWjVOs).
 
@@ -36,7 +42,7 @@ Después de seguir estas recomendaciones, acceda al módulo __Configuración de 
 
 Al lado derecho de la pantalla, encontrará el archivo `checkout-custom-instore.js`.
 
-![codevendorES.png?h=250](https://images.ctfassets.net/alneenqid6w5/4hITwpBXNEoN359J96d2oy/0bb39f0f4085e4daf2bc3d6b4fca1d97/codevendorES.png)
+![codevendorES.png?h=250](//images.ctfassets.net/alneenqid6w5/4hITwpBXNEoN359J96d2oy/0bb39f0f4085e4daf2bc3d6b4fca1d97/codevendorES.png)
 
 Acceda a este archivo y agregue el siguiente código al objeto `window.INSTORE_CONFIG`:
 
@@ -50,7 +56,9 @@ window.INSTORE_CONFIG = {
 }
 ```
 
->❗ No remueva ninguna de las otras propiedades del objeto `window.INSTORE_CONFIG`. De lo contrario, las otras funcionalidades de su tienda podrían verse afectadas.
+<div class="alert alert-danger">
+No remueva ninguna de las otras propiedades del objeto <code>window.INSTORE_CONFIG</code>. De lo contrario, las otras funcionalidades de su tienda podrían verse afectadas.
+</div>
 
 Además, recuerde que el anterior código es solo una opción de configuración.  
 
@@ -58,7 +66,7 @@ Cada responsable debe completar las propiedades del objeto `window.INSTORE_CONFI
 
 Por último, finalice haciendo clic en el botón azul __Guardar__ que se encuentra en la parte superior de la página.
 
-![codevendor2ES](https://images.ctfassets.net/alneenqid6w5/zkFzm3m0NvekTQZQRznzZ/8a65b58374a71cd91b3ce972844fc762/codevendor2ES.png)
+![codevendor2ES](//images.ctfassets.net/alneenqid6w5/zkFzm3m0NvekTQZQRznzZ/8a65b58374a71cd91b3ce972844fc762/codevendor2ES.png)
 
 ## Entendiendo las propiedades
 

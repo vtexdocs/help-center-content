@@ -18,7 +18,9 @@ internalReference: 1011071
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar a UI de promoções, a tentativa de salvar manualmente a opção "Aplicar aos itens mais caros" não funcionará e o seletor permanecerá na opção do tipo mais barato.

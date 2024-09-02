@@ -1,5 +1,5 @@
 ---
-title: "A função addToCart não funciona corretamente com anexos e com o anexo do componente 'opções de montagem'."
+title: 'A função addToCart não funciona corretamente com anexos e com o anexo do componente "opções de montagem".'
 id: 6I8vn2K7PWLRwIj2YTY7nZ
 status: PUBLISHED
 createdAt: 2023-05-23T15:40:36.343Z
@@ -18,7 +18,9 @@ internalReference: 830495
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A função addToCart não funciona corretamente quando um produto tem opções de montagem e anexos configurados e um dos componentes das opções de montagem também tem anexos. Somente o anexo do componente será adicionado ao carrinho.

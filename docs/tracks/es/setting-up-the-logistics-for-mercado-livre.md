@@ -3,8 +3,8 @@ title: 'Configurar logística para Mercado Libre'
 id: 4551ZlEQI8qmiSWieigoKy
 status: PUBLISHED
 createdAt: 2018-08-13T12:53:57.008Z
-updatedAt: 2024-07-23T22:07:18.063Z
-publishedAt: 2024-07-23T22:07:18.063Z
+updatedAt: 2024-08-19T17:36:50.573Z
+publishedAt: 2024-08-19T17:36:50.573Z
 firstPublishedAt: 2018-08-13T14:27:58.483Z
 contentType: trackArticle
 productTeam: Channels
@@ -23,7 +23,9 @@ Las modalidades de envío son dos:
 - [Mercado Envíos 1 (ME1)](#mercado-envios-1-me1)
 - [Mercado Envíos (ME2)](#mercado-envios-2-me2)
 
->⚠️ Debes tener un SLA configurado en VTEX independientemente de la modalidad de envío que utilizas en tu tienda. Si no se configura la modalidad, los pedidos realizados en Mercado Libre no se integrará a la plataforma VTEX.
+<div class="alert alert-warning">
+Debes tener un SLA configurado en VTEX independientemente de la modalidad de envío que utilizas en tu tienda. Si no se configura la modalidad, los pedidos realizados en Mercado Libre no se integrará a la plataforma VTEX.
+</div>
 
 ## Mercado Envíos 1 (ME1)
 
@@ -69,7 +71,9 @@ Algunos tipos de logística tienen la obligación de enviar una factura o config
 - [Flex](#flex)
 - [Mercado Envíos Full](#mercado-envios-full)
 
->ℹ️ Para segmentar qué tipo de envío utiliza la tienda, es necesario crear un [<i>atributo de producto</i>](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) con el nombre `meli_shipping_mode`, donde estará completado si es ME1 o ME2.
+<div class="alert alert-info">
+Para segmentar qué tipo de envío utiliza la tienda, es necesario crear un <a href="https://help.vtex.com/es/tutorial/campos-customizaveis-de-produto--6tJOSJ2o9phVIb8XXG6QSk"><i>atributo de producto</i></a> con el nombre <code>meli_shipping_mode</code>, donde estará completado si es ME1 o ME2.
+</div>
 
 ### Drop Off
 
@@ -105,7 +109,7 @@ En el tipo *[Flex](https://envios.mercadolibre.com.ar/mercado-envios-flex)*, el 
 
 Todos los ajustes se realizan dentro de la plataforma de Mercado Libre.
 
->ℹ️ Esta modalidad solo está disponible para los pedidos realizados en la misma ciudad que el seller.
+<div class="alert alert-info">Esta modalidad solo está disponible para los pedidos realizados en la misma ciudad que el seller.</div>
 
 ### Mercado Envios Full
 
@@ -113,9 +117,9 @@ Todos los ajustes se realizan dentro de la plataforma de Mercado Libre.
 
 Puede integrar este servicio a su tienda a través del [registro de un stock](https://help.vtex.com/es/tutorial/gerenciar-estoque) destinado exclusivamente para Mercado Envíos Full. Esa integración permite hacer seguimiento al nivel del stock, ya que la cantidad de productos se actualiza automáticamente a medida que se realizan las ventas mediante Mercado Libre Full.
 
->❗ Si el vendedor elige el modelo logístico **Mercado Envíos Full**, es necesario seguir el siguiente orden de configuración: [Configurar modelo de envío](#configurando-el-modelo-de-envio) 
->
-> [Configurar Mercado Envíos Full](#configurar-mercado-envios-full)</br>
+<div class="alert alert-danger">
+Si el vendedor elige el modelo logístico <b>Mercado Envíos Full</b>, es necesario seguir el siguiente orden de configuración: <p><ol><a href="#configurando-el-modelo-de-envio">Configurar modelo de envío</a> <br><a href="#configurar-mercado-envios-full">Configurar Mercado Envíos Full</a></br></ol></p>
+</div>
 
 #### Configurando Mercado Envíos Full
 
@@ -134,7 +138,9 @@ Después de definir qué modelo de envío se utilizará para la integración de 
 
 Para crear un campo de producto, sigue las instrucciones del tutorial [Registrar especificaciones o campos de producto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
 
->⚠️ El nombre del campo creado debe ser "meli_shipping_mode" y el valor del campo debe ser completado como "me1" o "me2". Si el nombre del campo o el valor es diferente, la integración no reconocerá el atributo.
+<div class="alert alert-warning">
+ El nombre del campo creado debe ser "meli_shipping_mode" y el valor del campo debe ser completado como "me1" o "me2". Si el nombre del campo o el valor es diferente, la integración no reconocerá el atributo. 
+</div>
 
 ## Cómo consultar las facturas de Mercado Libre mediante API
 

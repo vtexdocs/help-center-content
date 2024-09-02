@@ -20,7 +20,9 @@ Entre otros escenarios, uno de los puntos más importantes en un evento masivo c
 ## Agendar hora por API
 Una de las opciones para agendar precios por hora es hacerlo por API de precios:
 
->ℹ️ [Ver documentación de APIs](https://developers.vtex.com/reference/pricing-api-overview)
+<div class="alert alert-info">
+<a href="https://developers.vtex.com/reference/pricing-api-overview">Ver documentación de APIs</a>
+</div>
 
 El backend de VTEX utiliza horario UTC, con lo cual, por ejemplo en Argentina que es GTM-3, si quisiera agendar un precio x hora mediante API y quisiera que un precio comience a las 00hs y termine a las 10hs, debería enviar 3hs más de las que actualmente deseo configurar. O sea, si quisiera que el precio inicie su validez a las 00hs, debo mandar 03hs, y si quisiera que termine a las 10hs, debo mandar 13hs.:
 
@@ -32,7 +34,9 @@ JSON API Precios:
 
 El precio se invalidará automáticamente luego de vencer la hora agendada.
 
->⚠️ **Importante**: En caso de modificar el precio mediante la interfaz del precios del admin y guardar los cambios, se perderá la agenda de horas y quedará válida solamente la agenda de fechas.
+<div class="alert alert-warning">
+<strong>Importante</strong>: En caso de modificar el precio mediante la interfaz del precios del admin y guardar los cambios, se perderá la agenda de horas y quedará válida solamente la agenda de fechas.
+</div>
 
 ## Agendar hora por planilla
 La otra opción es realizar el agendamiento masivo por planilla de precios. Si bien el backend funciona en UTC, el import de planilla de precios tiene un pre-proceso que calcula el horario de la PC del cliente y ajusta automáticamente el horario de agendamiento, según la hora local. 
@@ -49,4 +53,6 @@ Columnas Planilla Precios:
 
 El precio se invalidará automáticamente luego de vencer la hora agendada.
 
->⚠️ **Importante**: De igual modo que mediante API, en caso de modificar el precio mediante la interfaz del precios del admin y guardar los cambios, se perderá la agenda de horas y quedará válida solamente la agenda de fechas.
+<div class="alert alert-warning">
+<strong>Importante</strong>: De igual modo que mediante API, en caso de modificar el precio mediante la interfaz del precios del admin y guardar los cambios, se perderá la agenda de horas y quedará válida solamente la agenda de fechas.
+</div>

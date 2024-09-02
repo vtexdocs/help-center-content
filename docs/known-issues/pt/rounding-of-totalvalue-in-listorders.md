@@ -18,7 +18,9 @@ internalReference: 756314
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando consultamos o valor do pedido através da IU, ele exibe um valor e quando o consultamos através da API Get Orders, vemos um valor 0,01 maior. Este comportamento ocorre devido ao arredondamento feito no banco de dados. Entretanto, este comportamento não afeta o valor total do pedido, ele é apenas uma visualização na ListOrders, o valor total do pedido ainda está correto.

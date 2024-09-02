@@ -18,7 +18,9 @@ internalReference: 680919
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Debido a un fallo en el paso de creación del flujo de trabajo, algunos pedidos cuyo flujo de creación se completó correctamente, pueden presentar el siguiente valor en el campo de estado: `detail.state.null` y en el listado de pedidos no muestran ningún valor de estado;

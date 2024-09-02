@@ -28,7 +28,7 @@ Para saber mais sobre os agentes financeiros envolvidos no fluxo de pagamento de
 
 O fluxo completo para pagamento por cartão de crédito na VTEX pode ser descrito pela imagem abaixo. 
 
-![Cartão de crédito - Fluxo básico de um pagamento](https://images.ctfassets.net/alneenqid6w5/64zjpwrBkpqbOhR7vtZhKs/424c414ed06f81c4edcc676773fd00d9/Fluxo_Cart__o_de_Cr__dito.jpg)
+![Cartão de crédito - Fluxo básico de um pagamento](//images.ctfassets.net/alneenqid6w5/64zjpwrBkpqbOhR7vtZhKs/424c414ed06f81c4edcc676773fd00d9/Fluxo_Cart__o_de_Cr__dito.jpg)
 
 1. Na tela de Checkout da sua loja, o cliente escolhe o  **Meio de Pagamento**  _cartão de crédito_ para realizar o pagamento de sua compra.  
 
@@ -42,4 +42,6 @@ O fluxo completo para pagamento por cartão de crédito na VTEX pode ser descrit
 
 Com a resposta do banco emissor, é realizado o fluxo inverso e o  **Gateway de Pagamentos**  recebe a informação se o pagamento foi aprovado ou negado.
 
->ℹ️ É possível incluir o Antifraude neste fluxo. Neste caso, o antifraude recebe as informações do gateway de que o pagamento foi pré-autorizado pelo banco emissor. Com a informação recebida do gateway, o antifraude envia uma resposta de aprovação ou negação do pagamento. Caso o antifraude negue, o pagamento é cancelado. Caso o pagamento seja aprovado, o pedido pode prosseguir seu fluxo normal.
+<div class="alert alert-info">
+É possível incluir o Antifraude neste fluxo. Neste caso, o antifraude recebe as informações do gateway de que o pagamento foi pré-autorizado pelo banco emissor. Com a informação recebida do gateway, o antifraude envia uma resposta de aprovação ou negação do pagamento. Caso o antifraude negue, o pagamento é cancelado. Caso o pagamento seja aprovado, o pedido pode prosseguir seu fluxo normal.
+</div>

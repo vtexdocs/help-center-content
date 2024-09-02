@@ -18,7 +18,9 @@ internalReference: 517449
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La falta de agrupación en las tablas de Correios dificulta el uso del filtro Listo para despachar así como puede llevar a algún error, y seleccionar la tabla equivocada.

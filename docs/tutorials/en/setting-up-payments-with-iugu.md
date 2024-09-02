@@ -44,7 +44,9 @@ To process credit card, pix and bank slip payment methods with iugu in your stor
 
 After following the indicated steps, iugu provider may take up to 10 minutes to appear at your store's checkout as a payment option.
 
->⚠️ Before carrying out transactions by credit card, PIX or bank slip with iugu in your store, check whether these payment methods are already enabled in [your customer area on the iugu portal](https://dev.iugu.com/docs/configurando-conector-iugu-na-vtex#configurando-condi%C3%A7%C3%B5es-de-pagamento).
+<div class="alert alert-warning">
+  Before carrying out transactions by credit card, PIX or bank slip with iugu in your store, check whether these payment methods are already enabled in <a href="https://dev.iugu.com/docs/configurando-conector-iugu-na-vtex#configurando-condi%C3%A7%C3%B5es-de-pagamento">your customer area on the iugu portal</a>.
+  </div>
 
 ## Setting up split payment on the marketplace with iugu
 
@@ -62,11 +64,15 @@ To enable payout split with iugu in your store, follow the steps below:
 4. In __Payment control__, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
 5. Click `Save`.
 
->⚠️ The payout split option is not available for use in a test environment.
+<div class="alert alert-warning">
+  The payout split option is not available for use in a test environment.
+  </div>
 
 After following the steps indicated, the payout split functionality with the iugu provider may take up to 10 minutes to be activated in your store.
 
->⚠️ To define specific commissions for each seller in your store, access **Marketplace > Sellers> Management** in the VTEX Admin, select the desired seller and enter the commission values in **Commissions**.
+<div class="alert alert-warning">
+  To define specific commissions for each seller in your store, access <b>Marketplace > Sellers> Management</b> in the VTEX Admin, select the desired seller and enter the commission values in <b>Commissions</b>.
+  </div>
 
 ## Setting up recurrence with iugu
 

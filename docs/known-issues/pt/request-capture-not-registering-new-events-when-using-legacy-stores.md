@@ -18,7 +18,9 @@ internalReference: 604254
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, ao utilizar lojas portal VTEX (lojas não VTEX IO), a aplicação de captura de pedidos não está registrando eventos especificamente para as visitas às páginas de produtos.

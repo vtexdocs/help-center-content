@@ -26,7 +26,8 @@ A integração com a Magazine Luiza acontece através da IntegraCommerce, uma in
 
 Com essa integração, será possível __criar novas contas__ e também __migrar contas já existentes (em breve)__ na Magazine Luiza. O passo a passo abaixo se adequa aos dois casos.
 
->⚠️ **OBS:** atualmente **não é possível migrar contas antigas**. Estamos trabalhando e, em breve, essa migração será feita automaticamente.
+<div class="alert alert-warning">
+<strong>OBS:</strong> atualmente <strong>não é possível migrar contas antigas</strong>. Estamos trabalhando e, em breve, essa migração será feita automaticamente.</div>
 
 
 ## Detalhamento dos campos

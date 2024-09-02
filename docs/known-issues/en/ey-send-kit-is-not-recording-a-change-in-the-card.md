@@ -1,5 +1,5 @@
 ---
-title: "ey 'Send Kit:' is not recording a change in the Card"
+title: 'ey "Send Kit:" is not recording a change in the Card'
 id: 4J1SynfbrQqXpSIcveAMxJ
 status: PUBLISHED
 createdAt: 2022-06-14T11:56:12.170Z

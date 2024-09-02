@@ -1,5 +1,5 @@
 ---
-title: "O filtro 'productClusterIds' é substituído por 'productClusterNames' ao aplicar filtros adicionais"
+title: 'O filtro "productClusterIds" é substituído por "productClusterNames" ao aplicar filtros adicionais'
 id: 3d4BIZQBZgeK3eKwT8B1PZ
 status: PUBLISHED
 createdAt: 2023-09-13T22:42:57.138Z
@@ -18,7 +18,9 @@ internalReference: 899508
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando uma pesquisa é iniciada com o filtro "productClusterIds", a aplicação de qualquer filtro adicional o converterá em "productClusterNames", perdendo a característica de apresentar os itens com a classificação definida manualmente na coleção de produtos.

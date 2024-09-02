@@ -24,7 +24,9 @@ Faturar o pedido na plataforma VTEX significa inserir a nota fiscal dos itens no
 * Via [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice) de envio de fatura.
 * Via Admin VTEX.
 
->ℹ️ No momento de faturar um pedido, é possível alterar a [transportadora](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) associada ao pedido. Para isso na etapa de preenchimento do **Rastreamento do pedido**, clique em <i>Transportadora</i> e selecione a opção desejada.
+<div class = "alert alert-info">
+No momento de faturar um pedido, é possível alterar a <a href="https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE">transportadora</a> associada ao pedido. Para isso na etapa de preenchimento do <b>Rastreamento do pedido</b>, clique em <i>Transportadora</i> e selecione a opção desejada.
+</div>
 
 Para enviar a fatura pelo Admin VTEX, realize os seguintes passos:
 
@@ -32,7 +34,7 @@ Para enviar a fatura pelo Admin VTEX, realize os seguintes passos:
 2. Busque o pedido pela barra de busca ou [utilizando os filtros](https://help.vtex.com/pt/tutorial/como-filtrar-pedidos--tutorials_192).  
 3. Clique no pedido desejado.     
 4. Na seção **Itens para faturar,** clique no ícone de seta <i class="fas fa-chevron-right"></i> para expandir.
-![Itens faturar](https://images.ctfassets.net/alneenqid6w5/2wScKr5ZaHShpyntCuN0jy/21fe424a4a5bcb066384dc79f99cf953/Itens_faturar__3_.png)
+![Itens faturar](//images.ctfassets.net/alneenqid6w5/2wScKr5ZaHShpyntCuN0jy/21fe424a4a5bcb066384dc79f99cf953/Itens_faturar__3_.png)
 5. Clique no botão `Faturar`.   
 6. Clique na opção de faturamento desejada:    
     * **Enviar fatura referenciando itens:** para faturar o pedido referenciando os itens do pacote.    
@@ -62,7 +64,7 @@ Para enviar a fatura pelo Admin VTEX, realize os seguintes passos:
 
 Depois do pedido `Faturado`, confira as notas fiscais inseridas na seção **Fatura**, como apresentado na figura abaixo:
 
-![Fatura](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/0dc623d9ea7bff059e5a52f90584b4c4/Fatura__2_.png)
+![Fatura](//images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/0dc623d9ea7bff059e5a52f90584b4c4/Fatura__2_.png)
 
 Em casos de envios de [faturas parciais](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), ao [alterar ou remover itens](https://help.vtex.com/pt/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8) de um pedido, o valor total do pedido será atualizado após o faturamento, e corresponde ao que é captado pelo gateway de pagamentos da VTEX.
 

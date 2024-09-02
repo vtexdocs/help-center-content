@@ -18,7 +18,9 @@ internalReference: 799396
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El conector antifraude ClearSale utiliza el nombre del artículo como condición cuando realiza un bucle a través del minicarrito enviado por la caja. En los casos en que dos o más artículos comparten el mismo nombre, aunque tengan SKU diferentes, sólo uno de esos artículos se envía al sistema antifraude. El importe de la transacción de los artículos restantes se envía como carga.

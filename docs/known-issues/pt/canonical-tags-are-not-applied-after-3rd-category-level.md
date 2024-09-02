@@ -18,7 +18,9 @@ internalReference: 932349
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As tags canônicas não são aplicadas após o terceiro nível de categoria quando há uma árvore de categorias com mais de três níveis (departamento, categoria e subcategoria), os outros níveis acima não são exibidos na canônica

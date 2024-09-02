@@ -62,17 +62,17 @@ After installing the app, VTEX will share the VTEX Conversational Commerce Admin
 Then, follow the steps below:
 
 1. Log in to the VTEX Admin using the URL provided by the support team. You will be directed to the screen below:
-![Track 101 - Conversational Commerce 1 - PT](https://images.ctfassets.net/alneenqid6w5/Zg2VTR41pSMleFi6bpcLT/cf9fb66691f9ec8f18a184099c70f3bf/Screenshot_2022-10-04_at_18-05-46_Track_101_-_Conversational_Commerce.png)
+![Track 101 - Conversational Commerce 1 - PT](//images.ctfassets.net/alneenqid6w5/Zg2VTR41pSMleFi6bpcLT/cf9fb66691f9ec8f18a184099c70f3bf/Screenshot_2022-10-04_at_18-05-46_Track_101_-_Conversational_Commerce.png)
 2. Click the `Configure WhatsApp Business Account` button.
 3. A Facebook window will open for configuration. Log in with the desired Business Manager Admin profile.
 4. Select the `Create a WhatsApp Business Account` option.
 5. Enter the account name for your WhatsApp profile.
 6. Select the category and enter the account description. 
-![Track 101 - Conversational Commerce 2 - PT](https://images.ctfassets.net/alneenqid6w5/1DbUwuYgXSleNYBzDnS72n/e935883f195905d78f9c2209b1cc324b/Screenshot_2022-10-04_at_18-07-00_Track_101_-_Conversational_Commerce.png)
+![Track 101 - Conversational Commerce 2 - PT](//images.ctfassets.net/alneenqid6w5/1DbUwuYgXSleNYBzDnS72n/e935883f195905d78f9c2209b1cc324b/Screenshot_2022-10-04_at_18-07-00_Track_101_-_Conversational_Commerce.png)
 7. Check the phone number you want to associate with the account via the code sent to the phone.
 8. Notify VTEX support to complete the configuration.
 
 Once the configuration is complete, the alert below will be displayed in the Admin. 
 
-![Track 101 - Conversational Commerce 3 - PT](https://images.ctfassets.net/alneenqid6w5/3RkQDfGaL3r5KV7j8uTXRH/6f32bb6973f7762a6eb06f12cd596e32/Screenshot_2022-10-04_at_18-07-47_Track_101_-_Conversational_Commerce.png)
+![Track 101 - Conversational Commerce 3 - PT](//images.ctfassets.net/alneenqid6w5/3RkQDfGaL3r5KV7j8uTXRH/6f32bb6973f7762a6eb06f12cd596e32/Screenshot_2022-10-04_at_18-07-47_Track_101_-_Conversational_Commerce.png)
 

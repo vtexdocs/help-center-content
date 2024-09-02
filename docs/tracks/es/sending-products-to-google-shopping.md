@@ -3,8 +3,8 @@ title: 'Enviar productos a Google Shopping'
 id: 5L5LnccDCj5lJk8H95GQ82
 status: PUBLISHED
 createdAt: 2021-04-15T14:10:45.645Z
-updatedAt: 2022-05-30T19:03:02.983Z
-publishedAt: 2022-05-30T19:03:02.983Z
+updatedAt: 2024-08-06T14:24:02.734Z
+publishedAt: 2024-08-06T14:24:02.734Z
 firstPublishedAt: 2021-04-15T17:41:23.772Z
 contentType: trackArticle
 productTeam: Channels
@@ -20,7 +20,9 @@ En Google Shopping, solamente los [catálogos](https://help.vtex.com/es/tracks/c
 
 Después de configurar la integración y autenticar su cuenta, el envío de productos al _marketplace_ no es automático sino que será necesario que el _seller_ [reindexe la base](https://help.vtex.com/es/tutorial/entendendo-o-funcionamento-da-indexacao). Este proceso prepara los datos de los SKU y de los productos y envía al _marketplace_ la información general sobre el catálogo, los precios y el _stock_. 
 
->ℹ️ Solo el [usuario titular (owner)](https://help.vtex.com/es/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) tiene permiso para reindexar la base de una tienda VTEX. Durante el periodo de reindexación, que es variable, los productos ingresan en una fila para que se actualicen los datos, pero siguen disponibles para la venta en el sitio web de la tienda.
+<div class = "alert alert-info">
+Solo el <a href="https://help.vtex.com/es/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA">usuario titular (owner)</a> tiene permiso para reindexar la base de una tienda VTEX. Durante el periodo de reindexación, que es variable, los productos ingresan en una fila para que se actualicen los datos, pero siguen disponibles para la venta en el sitio web de la tienda. 
+</div>
 
 Para reindexar la base, copia en tu navegador la dirección a continuación y reemplaza «{nomedaloja}» con el nombre de tu tienda:
 
@@ -48,7 +50,9 @@ Algún producto podrá mostrar el error Insertion error: Ineligible SKU. Este me
 
 **Si algún producto es rechazado, debe revisar los datos y enviarlos nuevamente**. Puede realizar un seguimiento del status de sus productos en Google Merchant Center.
 
->ℹ️ Asegúrese de que sus productos cumplen con las [Especificaciones de datos de productos](https://support.google.com/merchants/answer/7052112?visit_id=637492777706451215-3729304881&rd=1&hl=es-419) definidas por Google. Si algún producto no cumple con los requisitos, el anuncio será rechazado.
+<div class="alert alert-info">
+Asegúrese de que sus productos cumplen con las <a href="https://support.google.com/merchants/answer/7052112?visit_id=637492777706451215-3729304881&rd=1&hl=es-419">Especificaciones de datos de productos</a> definidas por Google. Si algún producto no cumple con los requisitos, el anuncio será rechazado.
+</div>
 
 En algunas circunstancias el rechazo del producto sucede después de que se ha considerado como activo. A veces esto ocurre cuando una cuenta ha sido creada recientemente.
 
@@ -62,7 +66,9 @@ En Google Shopping, los productos caducan automáticamente si no se actualizan e
 
 Sin embargo, no es algo que le deba preocupar ya que en la integración con la plataforma VTEX, **el sistema actualiza los productos automáticamente cada 29 días.**
 
->ℹ️ Puede haber un retraso de hasta 30 minutos entre que se procesa el cambio de los datos de un producto y la actualización en el _feed_.
+<div class="alert alert-info">
+Puede haber un retraso de hasta 30 minutos entre que se procesa el cambio de los datos de un producto y la actualización en el _feed_.
+</div>
 
 ## Modificar la categorización automática
 
@@ -74,4 +80,6 @@ Pero antes de considerar un problema en la categorización, asegúrese de que su
 
 Para reemplazar una categoría incorrecta y asegurarse de que el producto sea aprobado, consulte las instrucciones en el artículo de Google [categoría producto Google](https://support.google.com/merchants/answer/6324436?hl=es-419). 
 
->⚠️ Google aceptará un cambio de categoría solo en las situaciones previstas en el artículo [categoría producto Google.](https://support.google.com/merchants/answer/6324436?hl=pt-BR)
+<div class="alert alert-warning">
+Google aceptará un cambio de categoría solo en las situaciones previstas en el artículo <a href="https://support.google.com/merchants/answer/6324436?hl=pt-BR">categoría producto Google.</a>
+</div>

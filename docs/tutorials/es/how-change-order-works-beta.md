@@ -15,7 +15,9 @@ legacySlug: como-funciona-modificar-pedido-beta
 subcategory: 3LQ1Tl0u4frEOd45BkjFAm
 ---
 
->ℹ️ Esta funcionalidad se encuentra en la versión beta, por lo tanto, estamos trabajando para mejorarla. Si deseas utilizar **Modificar pedido (Beta)**, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support) e informa el nombre del [account name(s)](https://help.vtex.com/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) en que deseas activarla.
+<div class="alert alert-info">
+Esta funcionalidad se encuentra en la versión beta, por lo tanto, estamos trabajando para mejorarla. Si deseas utilizar <b>Modificar pedido (Beta)</b>, ponte en contacto con <a href="https://help.vtex.com/es/support">nuestro Soporte</a> e informa el nombre del <a href="https://help.vtex.com/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name(s)</a> en que deseas activarla.
+</div>
 
 La funcionalidad **Modificar pedido (beta)** brinda la posibilidad de editar un pedido de múltiples maneras, ya sea para atender las preferencias del cliente, abordar la falta de disponibilidad de productos u otras razones. Los principales tipos de modificaciones en el pedido son:
 

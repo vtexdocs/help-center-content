@@ -18,7 +18,9 @@ internalReference: 932657
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando a conta tem isMarketplaceResponsibleForTaxes configurado, a solicitação do hub de impostos não considera preços manuais para descontos de itens.

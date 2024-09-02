@@ -18,7 +18,9 @@ internalReference: 378842
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O nome das opções de montagem é usado na rota da API. Portanto, é necessário oferecer suporte à codificação desses nomes para não criar problemas na URL com caracteres especiais, como "/". Ao adicionar uma opção de montagem com "/" no carrinho, ela simplesmente não é adicionada e também não notifica o usuário.

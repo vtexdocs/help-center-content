@@ -15,7 +15,9 @@ legacySlug: vendedores-instore-beta
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---
 
->ℹ️ Esta funcionalidad se encuentra en etapa Beta, lo que significa que estamos trabajando para mejorarla. En caso de duda, póngase en contacto con [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests).
+<div class ="alert alert-info">
+<p>Esta funcionalidad se encuentra en etapa Beta, lo que significa que estamos trabajando para mejorarla. En caso de duda, póngase en contacto con <a href="https://support.vtex.com/hc/pt-br/requests">nuestro Soporte</a>.</p>
+</div>
 
 **Vendedores** es una de las páginas de **Configuración de la tienda** del Admin VTEX que muestra la lista de vendedores registrados en la aplicación inStore de la tienda. Desde aquí, puedes gestionar la información de los vendedores en todas las cuentas franquicias de tu tienda.
 
@@ -29,7 +31,7 @@ Esta página te permite gestionar tus vendedores a través de las siguientes acc
 * [Editar](#editar-vendedor)
 * [Eliminar](#eliminar-vendedor)
 
-![vendedores-es](https://images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/7ca04713635ff6b9975ebbdddcd2ccc8/image.png)
+![vendedores-es](//images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/7ca04713635ff6b9975ebbdddcd2ccc8/image.png)
 
 La página contiene la siguiente información:
 
@@ -52,9 +54,11 @@ Puedes crear un vendedor siguiendo los pasos a continuación:
 
 Después de registrado, el vendedor recibirá un email de confirmación y se le redirigirá a la opción de inicio de sesión del vendedor en la aplicación inStore.
 
-![email-vendedor-pt](https://images.ctfassets.net/alneenqid6w5/28VbbIXujzHcE3BriNtZPq/3aa9729eb2211875302b7316dbe46c93/image.png)
+![email-vendedor-pt](//images.ctfassets.net/alneenqid6w5/28VbbIXujzHcE3BriNtZPq/3aa9729eb2211875302b7316dbe46c93/image.png)
 
->⚠️ Los vendedores registrados en inStore no tienen permiso para acceder al Admin VTEX. Si un vendedor intenta iniciar sesión en el Admin, se eliminará su registro.
+<div class ="alert alert-warning">
+<p>Los vendedores registrados en inStore no tienen permiso para acceder al Admin VTEX. Si un vendedor intenta iniciar sesión en el Admin, se eliminará su registro.</p> 
+</div>
 
 ### Campos de registro del vendedor
 
@@ -68,7 +72,9 @@ Después de registrado, el vendedor recibirá un email de confirmación y se le 
 
 * **Tienda:** [cuenta franquicia](https://help.vtex.com/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) en la que el vendedor será registrado. Campo obligatorio.
 
->ℹ️ Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.
+<div class ="alert alert-info">
+<p>Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.</p> 
+</div>
 
 ## Buscar vendedor
 

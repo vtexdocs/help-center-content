@@ -18,7 +18,9 @@ internalReference: 825530
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Legacy CMS no crea carpetas con menos de 3 caracteres en el nombre

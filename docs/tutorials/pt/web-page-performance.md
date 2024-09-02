@@ -15,7 +15,9 @@ legacySlug: performance-de-paginas-web
 subcategory: QPnz120TdtLcXSh65c4Gs
 ---
 
->ℹ️ Esta página está disponível somente para lojas que estão operando com o [Novo Admin VTEX](https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para acessar esta página e fazer parte de uma nova experiência, participe do [programa Beta](https://content.vtex.com/participe-do-programa-beta-pt/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta) do Novo Admin VTEX.
+<div class = "alert alert-info">
+Esta página está disponível somente para lojas que estão operando com o <a href="https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa">Novo Admin VTEX</a>. Para acessar esta página e fazer parte de uma nova experiência, participe do <a href="https://content.vtex.com/participe-do-programa-beta-pt/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta">programa Beta</a> do Novo Admin VTEX.
+</div>
 
 O [PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) é uma ferramenta desenvolvida pelo Google para gerar relatórios sobre o desempenho de uma página, tanto em dispositivos móveis quanto em computadores, fornecendo sugestões sobre como essa página pode ser aprimorada. A ferramenta usa as [Principais métricas da web do Google](https://web.dev/vitals/#core-web-vitals) para avaliar o desempenho online. 
 
@@ -23,7 +25,7 @@ A tela “Performance das páginas web” disponibiliza a ferramenta [PageSpeed 
 
 Embora o dashboard “Performance das páginas web” ofereça as mesmas funcionalidades da ferramenta PageSpeed Insights do Google, somente no Admin VTEX os comerciantes conseguem adicionar várias URLs e monitorá-las continuamente. 
 
-![Web page performance Dash PT](https://images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/69b6c76024c031cda5ec2a557620d067/Screen_Shot_2022-06-29_at_15.37.19.png)
+![Web page performance Dash PT](//images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/69b6c76024c031cda5ec2a557620d067/Screen_Shot_2022-06-29_at_15.37.19.png)
 
 ## Por que você deve ficar de olho no desempenho de uma página web?
 
@@ -46,7 +48,9 @@ Eles são obtidos a partir de simulações com o [Lighthouse](https://github.com
 
 Não compare os resultados desses dois tipos de dados. Como eles vêm de fontes diferentes e servem propósitos diferentes, não é possível compará-los. Saiba mais sobre a aplicação de cada tipo de dado na documentação [Métricas de desempenho centradas no usuário](https://web.dev/user-centric-performance-metrics/#how-metrics-are-measured) do Google.
 
->ℹ️ O PageSpeed Insights analisa a atividade do 75º percentil dos carregamentos de páginas, diferenciando dispositivos móveis e computadores, para garantir que seu site atinja as metas recomendadas para todas as métricas.
+<div class = "alert alert-info">
+  O PageSpeed Insights analisa a atividade do 75º percentil dos carregamentos de páginas, diferenciando dispositivos móveis e computadores, para garantir que seu site atinja as metas recomendadas para todas as métricas.
+</div>
 
 ### Como usar dados de campo e de laboratório para otimizar as principais métricas da web
 
@@ -71,7 +75,9 @@ A URL é exibida em um card junto com:
 
 Navegue pelos links adicionados e selecione um deles para ser exibido na tela “Performance das páginas web”. Feito isso, analise as métricas de desempenho do link selecionado. Clique no ícone de menu <i class='fa-solid fa-ellipsis-vertical'></i>. Além disso, é possível acessar as opções `Copiar URL` e `Visitar página`; basta clicar nos botões correspondentes no card da URL.
 
->ℹ️ O PageSpeed Insights do Google também exibe métricas relacionadas a todo o domínio da URL inserida, caso não haja dados suficientes a serem exibidos para determinada página. O dashboard Performance das páginas web, por sua vez, exibe dados referentes apenas à URL, o que torna sua avaliação mais prática.
+<div class = "alert alert-info">
+O PageSpeed Insights do Google também exibe métricas relacionadas a todo o domínio da URL inserida, caso não haja dados suficientes a serem exibidos para determinada página. O dashboard Performance das páginas web, por sua vez, exibe dados referentes apenas à URL, o que torna sua avaliação mais prática.
+</div>
 
 ### Quais URLs monitorar? 
 Se seu storefront estiver incorporado à VTEX, a página exibe, por padrão, as 10 principais páginas com mais acesso em sua loja. 
@@ -103,7 +109,7 @@ Observação: não é possível excluir as 10 páginas mais acessadas do seu eco
 
 ## Principais métricas da web
 
-![Core web vitals PT](https://images.ctfassets.net/alneenqid6w5/2dqXPGBXhoqAOlu98GvSjg/a7221d5dc9e5197b55069697fbd3f758/Screen_Shot_2022-06-29_at_15.48.06.png)
+![Core web vitals PT](//images.ctfassets.net/alneenqid6w5/2dqXPGBXhoqAOlu98GvSjg/a7221d5dc9e5197b55069697fbd3f758/Screen_Shot_2022-06-29_at_15.48.06.png)
 
 Para cada URL, o dashboard Performance das páginas web exibe as [Principais métricas da web do Google](https://web.dev/vitals/#core-web-vitals) referentes à página em questão. 
 
@@ -169,7 +175,9 @@ No dashboard de Performance das páginas web, você encontra os limites e as ava
 * **Precisam de melhorias:** de 50 a 90. O código de cor é laranja.
 * **Ruins**: abaixo de 50. O código de cor é vermelho.
 
->⚠️ Observação: há uma variação significativa de desempenho entre as lojas e esta variação depende de como a arquitetura do seu storefront foi projetada. Storefronts complexos, com vários scripts e recursos externos, tendem a apresentar um desempenho com pontuações menores. Para lojas desenvolvidas com VTEX IO, consulte [VTEX IO: Debugging Performance Issues](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-debugging-performance-issues) (Depurando problemas de desempenho, em inglês). Para lojas que usam o [FastStore](https://www.faststore.dev/), há um [relatório automatizado do Lighthouse sobre visualizações de implantação](https://www.faststore.dev/releases/2022/04/22/webops).
+<div class = "alert alert-warning">
+  Observação: há uma variação significativa de desempenho entre as lojas e esta variação depende de como a arquitetura do seu storefront foi projetada. Storefronts complexos, com vários scripts e recursos externos, tendem a apresentar um desempenho com pontuações menores. Para lojas desenvolvidas com VTEX IO, consulte <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-debugging-performance-issues">VTEX IO: Debugging Performance Issues</a> (Depurando problemas de desempenho, em inglês). Para lojas que usam o <a href="https://www.faststore.dev/">FastStore</a>, há um <a href="https://www.faststore.dev/releases/2022/04/22/webops">relatório automatizado do Lighthouse sobre visualizações de implantação</a>.
+  </div>
 
 Abaixo da pontuação são exibidas as pontuações individuais em uma lista de métricas da web, junto com o código de cor que indica o seu intervalo. Para atualizar manualmente a pontuação, clique no ícone de atualização <i class='fa fa-refresh'></i>.
 

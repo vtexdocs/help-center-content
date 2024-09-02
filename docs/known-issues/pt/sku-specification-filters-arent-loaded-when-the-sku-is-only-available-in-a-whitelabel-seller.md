@@ -18,7 +18,9 @@ internalReference: 431888
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Desde uma atualização recente no comportamento da busca, os filtros de especificação das SKUs não disponíveis não são mostrados nas páginas de resultados de busca.

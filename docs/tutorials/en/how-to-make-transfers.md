@@ -66,4 +66,6 @@ The message informs you of the status - whether it was completed successfully or
 
 However, this is not the only way to check this information. If necessary, the retailer can also consult them in the __Statements__ module. In the __"Statements"__ tab, just select the desired statement to view its details.
 
->ℹ️ As with bank transactions, the requested transfer may be denied if the retailer reaches his account limit. If necessary, a limit increase can be requested through a ticket on VTEX’s customer care platform.
+<div class="alert alert-info">
+As with bank transactions, the requested transfer may be denied if the retailer reaches his account limit. If necessary, a limit increase can be requested through a ticket on VTEX’s customer care platform.
+</div>

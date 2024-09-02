@@ -20,14 +20,17 @@ Before you start developing, make sure that the steps below have been completed.
 
 You need to have npm or yarn installed on your computer. Both are package managers. And one of the two is required to install VTEX IO CLI.
 
->ℹ️ If you're not used to working with package managers, dig further into these tools:
->
-> 
->
-> * [npm](https://www.npmjs.com/)
->
-> * [yarn](https://yarnpkg.com/)
-> 
+<div class="alert alert-info">
+If you're not used to working with package managers, dig further into these tools:<br>
+<ul>
+  <li>
+    <a href="https://www.npmjs.com/">npm</a>
+  </li>
+  <li>
+    <a href="https://yarnpkg.com/">yarn</a>
+  </li>
+</ul>
+</div>
 
 ## Install VTEX IO CLI
 

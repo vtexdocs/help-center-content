@@ -23,7 +23,9 @@ Before we proceed, let’s look at some of the concepts related to this segmenta
 ## MDR
 When processing a transaction, acquirers deduct a percentage of the total purchase amount. This fee is called the Merchant Discount Rate (MDR). 
 
->ℹ️ MDR is applied in __all__ transactions processed by the acquirer.  
+<div class="alert alert-info">
+MDR is applied in __all__ transactions processed by the acquirer.
+</div>  
 
 In the case of split payment, both the marketplace and the seller(s) may be responsible for this fee. Also, both recipients can be responsible for the payment.     
 
@@ -57,4 +59,4 @@ The $ 6.50 will be split between the marketplace and the acquirer. As the MDR wa
 
 Check the diagram below:
 
-![Payment Split](https://images.ctfassets.net/alneenqid6w5/71DjeU0CjjxlDE1qrwr3n9/c228dc62dc40e68c34337c0d21fc8cce/Split-EN.png)
+![Payment Split](//images.ctfassets.net/alneenqid6w5/71DjeU0CjjxlDE1qrwr3n9/c228dc62dc40e68c34337c0d21fc8cce/Split-EN.png)

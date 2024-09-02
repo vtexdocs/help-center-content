@@ -25,7 +25,9 @@ Venta de inventario local permite al vendedor de una tienda física realizar ven
 6. [Conectar la cuenta franquicia a la tienda física](#conectar-la-cuenta-franquicia-a-la-tienda-fisica)
 7. [Integrar el punto de ventas](#integrar-el-punto-de-ventas)
 
->ℹ️ Venta de inventario local solo puede configurarse en tiendas que ya utilicen Sales App. Para más información sobre cómo solicitar y configurar Sales App, consulta [Sales App - Primeros pasos y configuración](https://help.vtex.com/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc).
+<div class="alert alert-info">
+<p>Venta de inventario local solo puede configurarse en tiendas que ya utilicen Sales App. Para más información sobre cómo solicitar y configurar Sales App, consulta <a href="https://help.vtex.com/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc">Sales App - Primeros pasos y configuración</a>.</p>
+</div>
 
 ## Crear una cuenta franquicia
 
@@ -62,7 +64,9 @@ Si todos tus productos se muestran sin cantidad, tendrás que agregar las cantid
 
 Puedes [habilitar la venta de un ítem sin stock](#habilitar-la-venta-de-un-item-sin-stock-opcional) si quieres asegurarte de que el ítem esté siempre disponible para los clientes en la tienda.
 
->ℹ️ Si has creado dos almacenes diferentes, uno para la tienda online y otro para Sales App, es importante gestionar correctamente la cantidad de ítems de cada uno.
+<div class="alert alert-info">
+<p>Si has creado dos almacenes diferentes, uno para la tienda online y otro para Sales App, es importante gestionar correctamente la cantidad de ítems de cada uno.</p>
+</div>
 
 ## Conectar la cuenta franquicia a la tienda física
 
@@ -73,9 +77,11 @@ Deberás seleccionar un vendedor de la tienda en la que quieras probar Venta en 
 1. Tras [seleccionar un vendedor](https://help.vtex.com/es/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), accede a Sales App e inicia sesión.
 2. Busca un ítem que exista en el almacén de la cuenta franquicia registrada. Este ítem debe mostrar la cantidad disponible correspondiente en el stock del seller.
 
-![instore-pdp-es](https://images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/b2feab0b2eb3c3893ed654801743e5cd/image.png)
+![instore-pdp-es](//images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/b2feab0b2eb3c3893ed654801743e5cd/image.png)
 
->ℹ️ Si has habilitado el stock infinito, el número mostrado será superior a 1 millón de ítems y no cambiará cuando se complete una venta.
+<div class="alert alert-info">
+<p>Si has habilitado el stock infinito, el número mostrado será superior a 1 millón de ítems y no cambiará cuando se complete una venta.</p>
+</div>
 
 ### Habilitar la venta de un ítem sin stock (opcional)
 
@@ -86,9 +92,9 @@ También puedes configurar la Venta en mano para ignorar la cantidad de ítems e
 2. Haz clic en el botón del engranaje <i class="fas fa-cog"></i> para editar.
 3. Selecciona la pestaña **Código**.
 4. En la pestaña lateral, selecciona `checkout-instore-custom-js`.
-![instore-custom-js-es](https://images.ctfassets.net/alneenqid6w5/5a70caO8nFFF25CrSXPXkx/50b77b80f4cba77048ea3454cda557bc/image.png)
+![instore-custom-js-es](//images.ctfassets.net/alneenqid6w5/5a70caO8nFFF25CrSXPXkx/50b77b80f4cba77048ea3454cda557bc/image.png)
 5. En la clave `window.INSTORE_CONFIG`, agrega la flag `venderSinStockEnMano: true`.
-![sellWithoutStockInHands-es](https://images.ctfassets.net/alneenqid6w5/3yfRFSG0QgIwnXvyxwhsLo/d4f24d0e6eef4783be120f6533c3a6f0/image.png)
+![sellWithoutStockInHands-es](//images.ctfassets.net/alneenqid6w5/3yfRFSG0QgIwnXvyxwhsLo/d4f24d0e6eef4783be120f6533c3a6f0/image.png)
 6. Haz clic en <i class="fas fa-save"></i> `Guardar`.
 
 ### Habilitar la venta con carrito mixto (opcional)

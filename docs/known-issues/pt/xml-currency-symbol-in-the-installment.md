@@ -1,5 +1,5 @@
 ---
-title: " XML - Símbolo de moeda em campo 'Parcelamento'"
+title: ' XML - Símbolo de moeda em campo "Parcelamento"'
 id: 4s7hBA1MAUgeEC2Q4K8gKM
 status: DRAFT
 createdAt: 2017-06-26T15:22:31.980Z

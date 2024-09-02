@@ -35,7 +35,9 @@ A lista de entregas apresenta as seguintes colunas ordenáveis:
 
 Você deve selecionar as entregas que deseja colocar na [Rota a ser criada](#rota_a_ser_criada). A seleção é feita clicando na caixa de seleção, à esquerda da de cada entrega na lista. 
 
->ℹ️ Caso você queira colocar na rota uma entrega específica, utilize a pesquisa selecionando o filtro desejado, preenchendo o campo de texto e clicando no botão de lupa.
+<div class="alert alert-info"> 
+Caso você queira colocar na rota uma entrega específica, utilize a pesquisa selecionando o filtro desejado, preenchendo o campo de texto e clicando no botão de lupa.
+</div>
 
 Ao selecionar a entrega desejada para compor a rota, a entrega selecionada aparecerá automaticamente na lista da Rota a ser criada, que é atualizada automaticamente à medida que as entregas são selecionadas.
 
@@ -56,7 +58,9 @@ Quando todas as entregas estiverem na lista, antes de finalizar a criação da n
 
 Vale ressaltar que a posição das entregas na lista é a ordem de entrega da rota. 
 
->⚠️ O recurso de **Ordenar Serviços** se limita a 21 entregas.
+<div class="alert alert-warning">  
+  O recurso de <b>Ordenar Serviços</b> se limita a 21 entregas.
+</div>
 
 ### Selecionar Portador
 
@@ -87,7 +91,9 @@ Remover entregas clicando  no __X__ à direta da entrega.
 - Alterar manualmente a ordem de entregas segurando e arrastando para a posição que deseja.
 - Trocar a data de entrega.
 
->❗ Só é possível editar uma rota se ela ainda estiver no status Ativo. Não é indicado alterar uma rota se ela já foi iniciada - isso pode causar inconsistências na plataforma do VTEX Tracking e no aplicativo do portador.
+<div class="alert alert-danger">
+Só é possível editar uma rota se ela ainda estiver no status Ativo. Não é indicado alterar uma rota se ela já foi iniciada - isso pode causar inconsistências na plataforma do VTEX Tracking e no aplicativo do portador.
+</div>
 
-![Cadastro de nova rota](https://images.ctfassets.net/alneenqid6w5/3m2JhopNd3vcscWEOYSnvn/f739888039df88f13fc7bcab16325253/Nova_Rota.gif)
+![Cadastro de nova rota](//images.ctfassets.net/alneenqid6w5/3m2JhopNd3vcscWEOYSnvn/f739888039df88f13fc7bcab16325253/Nova_Rota.gif)
 

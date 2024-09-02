@@ -21,7 +21,9 @@ Os logs de uma transação ficam registrados numa linha do tempo, com as intera�
 
 O gateway da VTEX pode se comunicar com adquirentes, subadquirentes, antifraudes e com outros gateways. As __mudanças de status na transação__ e as __mensagens de resposta dos parceiros__ estão exibidas em caixas na tela dos detalhes da transação.
 
->ℹ️ Você pode [clicar aqui](https://help.vtex.com/pt/faq/cartao-de-credito-fluxo-basico-de-um-pagamento) para saber como funciona o fluxo básico de uma transação de cartão de crédito. Acesse também [nosso artigo](https://help.vtex.com/pt/faq/boleto-bancario-registrado-fluxo-basico-de-um-pagamento) com o esquema básico de uma transação via boleto bancário.
+<div class="alert alert-info">
+Você pode <a href="https://help.vtex.com/pt/faq/cartao-de-credito-fluxo-basico-de-um-pagamento">clicar aqui</a> para saber como funciona o fluxo básico de uma transação de cartão de crédito. Acesse também <a href="https://help.vtex.com/pt/faq/boleto-bancario-registrado-fluxo-basico-de-um-pagamento">nosso artigo</a> com o esquema básico de uma transação via boleto bancário.
+</div>
 
 ## Verificar status da transação
 

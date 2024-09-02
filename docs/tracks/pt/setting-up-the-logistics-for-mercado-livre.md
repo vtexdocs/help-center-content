@@ -3,8 +3,8 @@ title: 'Configurar logística para o Mercado Livre'
 id: 4551ZlEQI8qmiSWieigoKy
 status: PUBLISHED
 createdAt: 2018-08-13T12:53:57.008Z
-updatedAt: 2024-07-23T22:07:18.063Z
-publishedAt: 2024-07-23T22:07:18.063Z
+updatedAt: 2024-08-19T17:36:50.573Z
+publishedAt: 2024-08-19T17:36:50.573Z
 firstPublishedAt: 2018-08-13T14:27:58.483Z
 contentType: trackArticle
 productTeam: Channels
@@ -23,7 +23,9 @@ Os modos de envio podem ser de dois tipos:
 - [Mercado Envios 1 (ME1)](#mercado-envios-1-me1)
 - [Mercado Envios (ME2)](#mercado-envios-2-me2)
 
->⚠️ Independente do modo de envio que sua loja utiliza, é necessário ter um SLA configurado na VTEX, caso contrário os pedidos realizados no Mercado Livre não serão integrados na plataforma da VTEX.
+<div class="alert alert-warning">
+  Independente do modo de envio que sua loja utiliza, é necessário ter um SLA configurado na VTEX, caso contrário os pedidos realizados no Mercado Livre não serão integrados na plataforma da VTEX.
+  </div>
 
 ## Mercado Envios 1 (ME1)
 
@@ -69,7 +71,9 @@ Alguns tipos logísticos possuem a obrigatoriedade de envio de nota fiscal ou co
 - [Flex](#flex)
 - [Mercado Envios Full](#mercado-envios-full)
 
->ℹ️ Para Segmentar qual tipo de frete utilizado pela loja, é necessário criar um [<i>atributo de produto</i>](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) com o nome `meli_shipping_mode`, onde estará preenchido se é ME1 ou ME2.
+<div class="alert alert-info">
+Para Segmentar qual tipo de frete utilizado pela loja, é necessário criar um <a href="https://help.vtex.com/pt/tutorial/campos-customizaveis-de-produto--6tJOSJ2o9phVIb8XXG6QSk"><i>atributo de produto</i></a> com o nome <code>meli_shipping_mode</code>, onde estará preenchido se é ME1 ou ME2. 
+</div>
 
 ### Drop Off
 
@@ -109,7 +113,9 @@ A contratação do motoboy é de responsabilidade do seller e o entregador preci
 
 Todas as configurações são feitas dentro da plataforma do Mercado Livre.
 
->ℹ️ Essa modalidade só está disponível para pedidos feitos na mesma cidade do seller.
+<div class="alert alert-info">
+Essa modalidade só está disponível para pedidos feitos na mesma cidade do seller. 
+</div>
 
 ### Mercado Envios Full
 
@@ -117,9 +123,9 @@ Todas as configurações são feitas dentro da plataforma do Mercado Livre.
 
 É possível configurar esse serviço na sua loja através do [cadastro de um estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque) exclusivo para o  Mercado Envios Full. Essa configuração permite acompanhar o nível do estoque uma vez que a quantidade dos produtos dos pedidos feitos através do Mercado Envios Full é atualizada automaticamente conforme a venda é realizada.
 
->❗ Caso o seller escolha o modelo logístico **Mercado Envios Full**, é necessário seguir a seguinte ordem de configuração: [Configurar modelo de envio](#configurando-modelo-de-envio) 
->
-> [Configurar o Mercado Envios Full](#configurar-o-mercado-envios-full)</br>
+<div class="alert alert-danger">
+  Caso o seller escolha o modelo logístico <b>Mercado Envios Full</b>, é necessário seguir a seguinte ordem de configuração: <p><ol><a href="#configurando-modelo-de-envio">Configurar modelo de envio</a> <br><a href="#configurar-o-mercado-envios-full">Configurar o Mercado Envios Full</a></br></ol></p>
+  </div>
 
 #### Configurar o Mercado Envios Full
 
@@ -139,7 +145,9 @@ Após definir qual modelo de envio será utilizado para a integração da sua lo
 
 Para criar um campo de produto, siga as instruções do tutorial [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106). 
 
->⚠️ O nome do campo criado deve ser "meli_shipping_mode" e o valor do campo deve ser preenchido como "me1" ou "me2". Caso o nome do campo ou o preenchimento seja diferente, a integração não reconhecerá o atributo.
+<div class="alert alert-warning">
+O nome do campo criado deve ser "meli_shipping_mode" e o valor do campo deve ser preenchido como "me1" ou "me2". Caso o nome do campo ou o preenchimento seja diferente, a integração não reconhecerá o atributo.
+</div>
 
 ## Consultar as notas fiscais do Mercado Livre por API
 

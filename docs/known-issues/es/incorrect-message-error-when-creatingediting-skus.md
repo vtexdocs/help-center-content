@@ -18,7 +18,9 @@ internalReference: 774518
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para crear o editar una SKU es necesario rellenar los campos obligatorios, como peso del envío, altura, anchura y longitud. Sin embargo, cuando dejamos uno de estos campos sin un valor válido y guardamos la SKU, Admin devuelve un mensaje de error sobre las especificaciones, incluso cuando no hay especificaciones requeridas que rellenar.

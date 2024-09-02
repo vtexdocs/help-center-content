@@ -15,4 +15,4 @@ legacySlug: untitled-entry-2017-12-04-at-07-04-02
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->⚠️ Contenido bajo traducción
+<div class="alert alert-warning">Contenido bajo traducción</div>

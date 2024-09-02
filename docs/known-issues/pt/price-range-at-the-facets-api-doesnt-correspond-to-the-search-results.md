@@ -18,7 +18,9 @@ internalReference: 997121
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As faixas de preço da API de facetas ("Obter lista das facetas possíveis para uma determinada consulta") podem variar entre o retorno de baldes de valores "de" e "para" com preços arredondados e os preços mínimo e máximo entre os resultados da pesquisa.

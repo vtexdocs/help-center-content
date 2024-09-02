@@ -18,7 +18,9 @@ internalReference: 771045
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se genera un pedido vía boleto con Braspag y en los datos de dirección, si tiene más de 40 caracteres, se están cortando los datos de dirección. Deberá realizar una mejora cambiando el límite de caracteres del campo de dirección de 40 caracteres a 60.

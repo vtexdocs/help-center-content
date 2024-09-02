@@ -3,8 +3,8 @@ title: 'Exportación e importación mediante la plantilla de precios'
 id: 5lV5s54lQ69zPXxngbpI5D
 status: PUBLISHED
 createdAt: 2023-01-16T16:06:30.799Z
-updatedAt: 2023-01-18T13:25:44.387Z
-publishedAt: 2023-01-18T13:25:44.387Z
+updatedAt: 2024-08-23T16:20:51.694Z
+publishedAt: 2024-08-23T16:20:51.694Z
 firstPublishedAt: 2023-01-17T12:31:08.844Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -38,7 +38,11 @@ Para exportar la plantilla de precios, sigue estos pasos:
    - **Tabla de precios calculados:** es el precio final que se mostrará en la tienda. Este precio no refleja las promociones.
 4. Haz clic en `Exportar tabla`.
 > Se abrirá la tabla de precios en la interfaz.
-5. En el archivo abierto, rellena las filas con los datos de precio de los SKU. Para entender mejor el significado de cada campo, accede a nuestro artículo sobre cómo [rellenar los campos de la plantilla de importación de precios base](https://help.vtex.com/es/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-base--4Jox8TeQ5feqAn78TZ0DNA) o [rellenar los campos de la plantilla de importación de precios fijos](https://help.vtex.com/es/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-fixo--50RFoH3ruV97FJgeBUCURh).
+5. En el archivo abierto, rellena las filas con los datos de precio de los SKU. La Tabla de Precios exportada contiene solo productos con precios registrados, los productos sin precio no aparecen en la hoja de cálculo. Para entender mejor el significado de cada campo, accede a nuestro artículo sobre cómo [rellenar los campos de la plantilla de importación de precios base](https://help.vtex.com/es/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-base--4Jox8TeQ5feqAn78TZ0DNA) o [rellenar los campos de la plantilla de importación de precios fijos](https://help.vtex.com/es/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-fixo--50RFoH3ruV97FJgeBUCURh).
+
+<div class="alert alert-warning">
+La exportación de tablas de precios en formato <strong>XLSX</strong> está limitada a 1.048.576 filas debido a una limitación de Excel. Las exportaciones que excedan este límite resultarán en un error.
+</div>
 
 Después de finalizada la exportación, recibirás la plantilla en tu email registrado en la tienda VTEX. También puedes descargar la exportación al hacer clic en el botón `Descargar exportación`.
 

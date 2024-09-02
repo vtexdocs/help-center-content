@@ -19,7 +19,9 @@ La plataforma VTEX permite que su tienda acepte pagos en moneda digital Bitcoin.
 
 Para usar Bitcoin en su tienda, debe haber registrado una afiliación de gateway capaz de procesar este método de pago y relizar la configuración que se describe a configuración que se describe a continuación:
 
->⚠️ Si el conector a elegir (en **Paso 7.**) aún no está registrado en su tienda, se mostrará el mensaje “(Configurar)” después del nombre del conector. En esta situación, elija otro conector disponible o regístrese. Para obtener más información, visite [Registrar afiliaciones de gateway](https://help.vtex.com/en/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
+<div class="alert alert-warning">
+  Si el conector a elegir (en <b>Paso 7.</b>) aún no está registrado en su tienda, se mostrará el mensaje “(Configurar)” después del nombre del conector. En esta situación, elija otro conector disponible o regístrese. Para obtener más información, visite <a href="https://help.vtex.com/en/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#">Registrar afiliaciones de gateway</a>.
+</div>
 
 ## Configurar la condición de pago bitcoin
 1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.

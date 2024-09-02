@@ -18,7 +18,9 @@ internalReference: 316054
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O cronograma de coleta legado não respeita o fuso horário SC.

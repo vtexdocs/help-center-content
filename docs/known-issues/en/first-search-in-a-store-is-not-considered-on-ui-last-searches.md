@@ -1,5 +1,5 @@
 ---
-title: "First search in a store is not considered on UI 'last searches'"
+title: 'First search in a store is not considered on UI "last searches"'
 id: 7mc9vRE92VGauQmRaK6NnU
 status: PUBLISHED
 createdAt: 2022-05-04T17:08:25.235Z

@@ -1,5 +1,5 @@
 ---
-title: "La condición especial del banco emisor está causando para algunos BINs el error en la página de pago 'El banco emisor para este banco no es aceptado'"
+title: 'La condición especial del banco emisor está causando para algunos BINs el error en la página de pago "El banco emisor para este banco no es aceptado"'
 id: 7HgNpwcvqQDwSfJfv9KpY8
 status: PUBLISHED
 createdAt: 2022-03-25T19:04:12.310Z
@@ -18,7 +18,9 @@ internalReference: 391549
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El uso de las condiciones especiales en el método de pago para filtrar el emisor está causando que la caja muestre un error "El banco emisor no es aceptado". El problema es intermitente y se notó por primera vez al utilizar la tarjeta de marca compartida de pago personalizado, pero también ocurrió en el método de pago con tarjeta de crédito.

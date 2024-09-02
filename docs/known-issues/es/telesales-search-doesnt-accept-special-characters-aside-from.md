@@ -1,5 +1,5 @@
 ---
-title: "La búsqueda de televentas no acepta caracteres especiales aparte de '@'."
+title: 'La búsqueda de televentas no acepta caracteres especiales aparte de "@".'
 id: 5eTb6KlR07dOP06BGhovoL
 status: PUBLISHED
 createdAt: 2024-07-29T17:21:34.828Z
@@ -18,7 +18,9 @@ internalReference: 1072418
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, al utilizar el buscador de televentas, un usuario puede suplantar la identidad de compradores para ayudar en las compras y, para ello, es necesario introducir, en el buscador nativo, el email de quien se va a suplantar.

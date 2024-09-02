@@ -1,5 +1,5 @@
 ---
-title: "Quando o acordo é enviado tão nulo e codificado como 'reembolso-manual', nosso gateway realiza um duplo reembolso."
+title: 'Quando o acordo é enviado tão nulo e codificado como "reembolso-manual", nosso gateway realiza um duplo reembolso.'
 id: 2PdRRjHDODY2Tk0VItO4Fo
 status: PUBLISHED
 createdAt: 2022-07-11T17:37:43.961Z
@@ -18,7 +18,9 @@ internalReference: 615050
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A documentação do PPP indica que quando o processo de reembolso não funcionou, o provedor deve responder com um `nulo` a este campo, e também quando o reembolso deve ser feito manualmente, o campo de código deve ter o valor "reembolso-manual".

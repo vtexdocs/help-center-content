@@ -18,7 +18,9 @@ internalReference: 603761
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Sku inactivo, se actualiza en B2W pero no registra el mensaje correcto en el puente

@@ -1,5 +1,5 @@
 ---
-title: "Purchase can't be finished and returns the error 'receiver name field is invalid'"
+title: "Purchase can't be finished and returns the error "receiver name field is invalid""
 id: 6ALBFvGzD0SiSuttfXPiQo
 status: PUBLISHED
 createdAt: 2022-05-12T14:53:10.287Z

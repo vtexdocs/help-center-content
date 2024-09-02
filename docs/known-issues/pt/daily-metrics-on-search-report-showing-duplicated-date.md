@@ -18,7 +18,9 @@ internalReference: 508883
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um relatório de busca é baixado, a tabela contendo métricas como buscas, cliques e cliques únicos no final do relatório contém uma coluna de datas mostrando entradas duplicadas sem uma razão aparente, como você pode ver na imagem:

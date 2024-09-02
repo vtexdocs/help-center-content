@@ -1,5 +1,5 @@
 ---
-title: "[Admin] La búsqueda global no reconoce los 'Elementos del menú de perfil'."
+title: '[Admin] La búsqueda global no reconoce los "Elementos del menú de perfil".'
 id: 4AZiu9NXouL6b8z5EHJIWK
 status: PUBLISHED
 createdAt: 2024-01-22T17:09:55.423Z
@@ -18,7 +18,9 @@ internalReference: 969645
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La Búsqueda Global no reconoce los "Elementos del Menú de Perfil"

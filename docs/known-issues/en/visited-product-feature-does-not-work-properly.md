@@ -1,5 +1,5 @@
 ---
-title: " 'Visited product' feature does not work properly"
+title: ' "Visited product" feature does not work properly'
 id: 5AiCVwLkGToEgtLkZVPe5i
 status: PUBLISHED
 createdAt: 2022-11-25T18:45:15.389Z

@@ -32,7 +32,9 @@ Para crear un nuevo vale de compra, siga los pasos a continuación:
   <br>
   <li>Haga clic en el botón azul <b>Nuevo vale</b>.</li>
   <br>   
->ℹ️ En la pantalla de creación del vale, el campo **Vale** es llenado automáticamente por el sistema VTEX con el código ID del nuevo vale. Este es el código que debe ingresar el cliente en la pantalla de checkout para aplicar el vale al carrito y reducir el valor de pago del pedido.
+<div class = "alert alert-info">
+  <p>En la pantalla de creación del vale, el campo <b>Vale</b> es llenado automáticamente por el sistema VTEX con el código ID del nuevo vale. Este es el código que debe ingresar el cliente en la pantalla de checkout para aplicar el vale al carrito y reducir el valor de pago del pedido.</p>
+</div>
 <br>
   <li>Complete los campos presentados de acuerdo con las orientaciones que se indican a continuación:</li>
   <br>
@@ -44,9 +46,13 @@ Para crear un nuevo vale de compra, siga los pasos a continuación:
   <li><b>Colección</b>: determina la colección de productos que define los ítems a los que se puede aplicar el vale.</li>
 </ul><br>
 
->⚠️ **Atención**: los campos “Valor” y “Fecha de vencimiento” deben completarse de forma **obligatoria**. De lo contrario, el vale no se guardará.
+<div class="alert alert-warning">
+<strong>Atención</strong>: los campos “Valor” y “Fecha de vencimiento” deben completarse de forma <strong>obligatoria</strong>. De lo contrario, el vale no se guardará.
+</div>
 
->❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank).
+<div class="alert alert-danger">
+La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
+</div>
 
 Después de completar los campos correctamente, el usuario puede seleccionar hasta tres opciones de configuración: 
 <ul>
@@ -57,7 +63,9 @@ Después de completar los campos correctamente, el usuario puede seleccionar has
 <br>
   <li>Por último, haga clic en el botón <b>Guardar</b>.</li>
 <br>
->ℹ️ La creación de cupones no tiene límite, sin embargo, solo se pueden exportar 8000 cupones a la vez.
+<div class="alert alert-info">
+La creación de cupones no tiene límite, sin embargo, solo se pueden exportar 8000 cupones a la vez.
+</div>
 
 </ol>
 
@@ -78,9 +86,13 @@ Para crear más de un nuevo vale de compra al mismo tiempo (un lote), siga los p
   <li><b>Fecha de vencimiento</b>: es la fecha de vigencia de uso de todos los vales de este lote.</li>
   <li><b>Colección</b>: determina la colección de productos que define los ítems a los que se pueden aplicar los vales.</li>
 <br>
->⚠️ **Atención**: los campos “Cantidad de vales”, “Valor” y “Fecha de vencimiento” deben completarse de forma **obligatoria**. De lo contrario, los vales no se guardarán.
+<div class="alert alert-warning">
+<strong>Atención</strong>: los campos “Cantidad de vales”, “Valor” y “Fecha de vencimiento” deben completarse de forma <strong>obligatoria</strong>. De lo contrario, los vales no se guardarán.
+</div>
 <br>
->❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank).
+<div class="alert alert-danger">
+La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
+</div>
 <br>
   <li><b>Recargable</b>: mientras estos vales estén disponibles, sus saldos pueden alterarse.</li>
   <li><b>Reutilizable</b>: puede hacer nuevas compras con estos vales hasta que sus valores sean utilizados en su totalidad.</li>
@@ -91,7 +103,9 @@ Aparecerá una nueva pantalla confirmando que se ha generado el número solicita
 <br>
   <li>Por último, haga clic en el botón <b>Volver</b>.</li>
 <br>
->ℹ️ La creación de cupones no tiene límite, sin embargo, solo se pueden exportar 8000 cupones a la vez.
+<div class="alert alert-info">
+La creación de cupones no tiene límite, sin embargo, solo se pueden exportar 8000 cupones a la vez.
+</div>
   </ol>
 
 ## Cómo configurar un Vale de Compra como un método de pago 

@@ -18,7 +18,9 @@ internalReference: 501829
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao clicar na página de administração de grandes lojas, ele retorna um erro do servidor, isto está acontecendo com a agregação feita que é muito pesada.

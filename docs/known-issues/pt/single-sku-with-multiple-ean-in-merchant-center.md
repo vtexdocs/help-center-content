@@ -18,7 +18,9 @@ internalReference: 520345
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Confirmar como estamos enviando a propriedade EAN quando o produto tiver vários skus do mesmo produto no catálogo VTEX.

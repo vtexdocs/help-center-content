@@ -26,11 +26,11 @@ Para escolher quais métodos de identificação você deseja habilitar, acesse o
 
 Na caixa __Login do cliente__, você deve selecionar os métodos de identificação que deseja habilitar.
 
-![21. Configure client identification - 1](https://images.ctfassets.net/alneenqid6w5/30Kb57zS5TKV5rHY851Xl2/d15329ea3a76733869ecefd3c861e150/21._Configure_client_identification_-_1.png)
+![21. Configure client identification - 1](//images.ctfassets.net/alneenqid6w5/30Kb57zS5TKV5rHY851Xl2/d15329ea3a76733869ecefd3c861e150/21._Configure_client_identification_-_1.png)
 
 Você também pode alterar a ordem desses métodos. Para isso, basta arrastá-los, como mostra a imagem abaixo. A ordem dos métodos definida nessa tela determina a ordem em que eles aparecerão para o vendedor no aplicativo. Portanto, o primeiro método será o default.
 
-![21. Configure client identification - 2](https://images.ctfassets.net/alneenqid6w5/6C2oVlDbGtNMJfllED6pcO/9b62fb9778af207ba77320b67ddab653/21._Configure_client_identification_-_2.png)
+![21. Configure client identification - 2](//images.ctfassets.net/alneenqid6w5/6C2oVlDbGtNMJfllED6pcO/9b62fb9778af207ba77320b67ddab653/21._Configure_client_identification_-_2.png)
 
 ## Habilitar Usuário Anônimo
 
@@ -38,7 +38,7 @@ Você também pode alterar a ordem desses métodos. Para isso, basta arrastá-lo
 
 Para isso, ainda na tela de Identificação do Cliente, é necessário habilitar a flag __Usuário anônimo__.
 
-![21. Configure client identification - 3](https://images.ctfassets.net/alneenqid6w5/62h8jghzR0LhqmnhzXYcws/02869cc40d8244aad5985c4f5483a4e6/21._Configure_client_identification_-_3.png)
+![21. Configure client identification - 3](//images.ctfassets.net/alneenqid6w5/62h8jghzR0LhqmnhzXYcws/02869cc40d8244aad5985c4f5483a4e6/21._Configure_client_identification_-_3.png)
 
 ## Cadastro de Pessoa Jurídica para vendas B2B
 
@@ -50,10 +50,10 @@ Você poderá, então, escolher se esses campos devem necessariamente ser preenc
 
 No exemplo abaixo, o cadastro de Pessoa Jurídica está ativado e configurado como opcional.
 
-![21. Configure client identification - 4](https://images.ctfassets.net/alneenqid6w5/i5hr6RRXlNC0aNHKUvg2C/b309608994fe85592c01abf35f643e84/21._Configure_client_identification_-_4.png)
+![21. Configure client identification - 4](//images.ctfassets.net/alneenqid6w5/i5hr6RRXlNC0aNHKUvg2C/b309608994fe85592c01abf35f643e84/21._Configure_client_identification_-_4.png)
 
 Neste caso, o aplicativo mostrará para o vendedor um formulário como este abaixo:
 
-![21. Configure client identification - 5](https://images.ctfassets.net/alneenqid6w5/4bvM9B3FeukRQaHXXMqLhL/7695d831d0f93a7669f054179467ace2/21._Configure_client_identification_-_5.png)
+![21. Configure client identification - 5](//images.ctfassets.net/alneenqid6w5/4bvM9B3FeukRQaHXXMqLhL/7695d831d0f93a7669f054179467ace2/21._Configure_client_identification_-_5.png)
 
 Note que é exibida uma flag que permite ao vendedor decidir entre mostrar ou não esses campos adicionais. Isto é porque, nas configurações, marcamos os campos de cadastro de pessoa jurídica como opcionais. Caso sejam marcados como obrigatórios, essa flag não será exibida no aplicativo.

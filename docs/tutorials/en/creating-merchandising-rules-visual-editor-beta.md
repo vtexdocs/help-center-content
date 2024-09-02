@@ -15,7 +15,9 @@ legacySlug: creating-merchandising-rules-visual-editor-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
->ℹ️ This feature is in closed beta, which means that only selected customers can access it for now. If you are interested in implementing it for your business in the future, please contact our [Support team](https://support.vtex.com/hc/pt-br/requests).
+<div class="alert alert-info">
+  <p>This feature is in closed beta, which means that only selected customers can access it for now. If you are interested in implementing it for your business in the future, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support team</a>.</p>
+</div>
 
 To configure a VTEX Intelligent Search [merchandising rule](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) using[ Visual Editor](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao), follow the steps below.
 
@@ -46,13 +48,15 @@ To configure a VTEX Intelligent Search [merchandising rule](https://help.vtex.co
       Learn more about these actions in items **IV, V, VI, VIII, IX**, and **XI** of the [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section.
 9.	Click `Save`.
 
->ℹ️ After saving, the changes to merchandising rules will take an average of two minutes to be updated.
+<div class="alert alert-info">
+  <p>After saving, the changes to merchandising rules will take an average of two minutes to be updated.</p>
+</div>
 
 ## Actions available in the Visual Editor
 
 The Visual Editor for merchandising rules in VTEX Intelligent Search allows you to perform the actions shown in the image below:
 
-![visual-merch-rules-EN-v2](https://images.ctfassets.net/alneenqid6w5/1wQEvrFFEp5ixHPCVtHsxa/2f765817f537bc8477b0d6fddfb171b8/visual-merch-rules-EN-v2.png)
+![visual-merch-rules-EN-v2](//images.ctfassets.net/alneenqid6w5/1wQEvrFFEp5ixHPCVtHsxa/2f765817f537bc8477b0d6fddfb171b8/visual-merch-rules-EN-v2.png)
 
 <ol class="mv7" type="I">
     <li class="t-body c-on-base mb5 lh-copy">Edit the name of the merchandising rule.</li>

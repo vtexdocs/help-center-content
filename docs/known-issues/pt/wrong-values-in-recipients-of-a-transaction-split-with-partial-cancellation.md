@@ -18,7 +18,9 @@ internalReference: 489481
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em um cenário de Payout Split, quando há um cancelamento parcial antes da captura, não alteramos os campos dos destinatários para que os valores para quando cada participante receberá sejam diferentes do correto, ou seja, os valores dentro dos destinatários da liquidação aparecem como se não tivesse havido cancelamento parcial.

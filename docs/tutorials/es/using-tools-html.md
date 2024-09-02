@@ -15,4 +15,4 @@ legacySlug:
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---
 
->⚠️ Contenido bajo traducción
+<div class="alert alert-warning">Contenido bajo traducción</div>

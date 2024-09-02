@@ -18,20 +18,24 @@ subcategory: 5HsDDU48ZP58JHWU3WbCPc
 The typography of your store website is a tool to communicate your brand identity to your clients. 
 In the Admin, you have the flexibility to customize your store’s typography to suit to your business needs.
 
->⚠️ Keep in mind that changes to your store typography in the **Storefront** overwrite the typography changes made in your store code. Please contact your development team and make sure the changes will be done in the Storefront or through your store's code.
+<div class="alert alert-warning">
+  <p>Keep in mind that changes to your store typography in the <b>Storefront</b> overwrite the typography changes made in your store code. Please contact your development team and make sure the changes will be done in the Storefront or through your store's code.</p>
+</div>
 
 ## Adding custom font families
 
 1. In the VTEX Admin, access **Storefront > Styles**.
 2. Select the kebab menu icon (three dots).
 
-![Styles - More Options](https://images.ctfassets.net/alneenqid6w5/7qhmfxaMzZ8Aw0F6mygs2i/3bc40e3e3a439475b4f0998a3af56854/styles-two-en.png)
+![Styles - More Options](//images.ctfassets.net/alneenqid6w5/7qhmfxaMzZ8Aw0F6mygs2i/3bc40e3e3a439475b4f0998a3af56854/styles-two-en.png)
 
 3. Click **Edit > Typography > Font Family**.
 
 4. Then, click **Add custom font** and upload the desired font file. In the **Font Family** input field, enter a name for the font.
 
->⚠️ The font family file must be uploaded in the following file extensions: <i>.ttf</i> or <i>.woff</i>.
+<div class="alert alert-warning">
+  <p>The font family file must be uploaded in the following file extensions: <i>.ttf</i> or <i>.woff</i>.</p>
+</div>
 
 5. Click `Save` to save your changes. 
 
@@ -47,7 +51,7 @@ Refer to the section [Type tokens](#type-tokens) for more information about them
 2. Select the kebab menu icon (three dots).
 3. Click on **Edit > Typography > Type Tokens**.
 
-![Styles - Type tokens EN](https://images.ctfassets.net/alneenqid6w5/6kw7SMB36fZsS0SKX00Kss/dbb378f7b8e11fa1217276626dd6f008/styles-three-en.gif)
+![Styles - Type tokens EN](//images.ctfassets.net/alneenqid6w5/6kw7SMB36fZsS0SKX00Kss/dbb378f7b8e11fa1217276626dd6f008/styles-three-en.gif)
 
 4. Choose the type token you want to customize, for example, **Heading 1**, and click it.
 

@@ -18,7 +18,9 @@ internalReference: 821984
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em alguns países, o campo de entrada do código postal da visualização do envio não fica oculto após a inclusão de um código postal válido pela segunda vez.

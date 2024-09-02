@@ -18,7 +18,9 @@ internalReference: 1003545
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um operador de call center se faz passar por um comprador, conclui uma compra e é enviado para a página orderPlaced, um novo orderForm será gerado.

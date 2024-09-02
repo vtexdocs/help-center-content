@@ -1,5 +1,5 @@
 ---
-title: "Settings UI doesn't update 'expiration period' of quotes"
+title: "Settings UI doesn't update "expiration period" of quotes"
 id: 4CmuAYwDn7tcCiR9DQHSFb
 status: PUBLISHED
 createdAt: 2023-08-07T19:42:22.810Z

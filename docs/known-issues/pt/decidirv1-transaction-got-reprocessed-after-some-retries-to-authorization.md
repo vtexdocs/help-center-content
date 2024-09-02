@@ -1,5 +1,5 @@
 ---
-title: "A transação DecidirV1 foi 'reprocessada' após algumas tentativas de autorização"
+title: 'A transação DecidirV1 foi "reprocessada" após algumas tentativas de autorização'
 id: 2fxfg1IlnFUxAjo9E47HPq
 status: PUBLISHED
 createdAt: 2022-03-03T21:19:22.471Z
@@ -18,7 +18,9 @@ internalReference: 384009
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Isto acontece quando uma transação recebe o status 480 que significa "REVIEW", e começa a tentar novamente até receber uma carga útil nula. Então, depois disso, "reprocessamos" a transação que causa uma falha e um cancelamento.

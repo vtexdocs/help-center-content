@@ -18,9 +18,13 @@ Our development team is constantly improving the performance of our APIs. This m
 
 In this article, we'll list all parts of the Checkout V2 API that are not likely to be part of the next release.
 
->⚠️ This article will be in permanent update until the release of the Checkout API V3. However, you should be aware of changes not described here that may be implemented in V3.
+<div class="alert alert-warning">
+This article will be in permanent update until the release of the Checkout API V3. However, you should be aware of changes not described here that may be implemented in V3.
+</div>
 
->⚠️ The purpose of this article is to allow you to begin the process of updating your store integrations and customizations, considering the new solutions offered by the system. Therefore, we recommend that you stay tuned and do not leave changes to the last minute.
+<div class="alert alert-warning">
+The purpose of this article is to allow you to begin the process of updating your store integrations and customizations, considering the new solutions offered by the system. Therefore, we recommend that you stay tuned and do not leave changes to the last minute.
+</div>
 
 
 ## Address in the cart and in the order

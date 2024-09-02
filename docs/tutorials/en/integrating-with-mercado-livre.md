@@ -68,11 +68,15 @@ The initial steps are essential for a successful configuration:
 
 &bull; __Atributos omitidos no template do produto__ (__Hidden Attributes in the Product Template__): We will see below that in the template configuration for Mercado Livre, you may include the product attributes that you want to be displayed in the template. Setting this field allows you to omit attributes that you do not want to appear in Mercado Livre template.
 
->⚠️ The *Atualizar descrição do anúncio ("Refresh ad description"), Texto para avaliação automática do comprador ("Text for automatic buyer evaluation") and E-mail do afiliado ("Affiliate E-mail")* fields will be discontinued in the UI. Therefore, they do not need to be filled out. The APIs will continue to be active.
+<div class="alert alert-warning">
+The <em>Atualizar descrição do anúncio ("Refresh ad description"), Texto para avaliação automática do comprador ("Text for automatic buyer evaluation") and E-mail do afiliado ("Affiliate E-mail")</em> fields will be discontinued in the UI. Therefore, they do not need to be filled out. The APIs will continue to be active.
+</div>
 
 ### Sending Product Attributes to Mercado Livre
 
->❗ This step is only required for stores that sell products like **clothing, shoes and bags**. If your store has these types of product, it's necessary to register their specifications. Go to [this article](https://help.vtex.com/en/tutorial/sending-clothes-shoes-and-bags-attributes-to-mercado-livre) to learn how to perform such registration. If your store does not have these products, go directly to the **Template configuration** step.
+<div class = "alert alert-danger">
+This step is only required for stores that sell products like <strong>clothing, shoes and bags</strong>. If your store has these types of product, it's necessary to register their specifications. Go to <a href="https://help.vtex.com/en/tutorial/sending-clothes-shoes-and-bags-attributes-to-mercado-livre">this article</a> to learn how to perform such registration. If your store does not have these products, go directly to the <strong>Template configuration</strong> step.
+</div>
 
 __You've finished configuring the *first step* of the integration. Now let's go to the __Template Configuration__ step.
 
@@ -80,7 +84,9 @@ __You've finished configuring the *first step* of the integration. Now let's go 
 
 ## Template configuration
 
->❗ For stores in Brazil and Argentina, **Mercado Livre does not accept HTML or CSS template customizations** (with the exception of the &lt;br&gt; tag for line breaks). For stores in other countries, Iframes, Scripts, Forms, Inputs, Meta, Object and Embed tags are not allowed.
+<div class="alert alert-danger">
+For stores in Brazil and Argentina, <strong>Mercado Livre does not accept HTML or CSS template customizations</strong> (with the exception of the &lt;br&gt; tag for line breaks). For stores in other countries, Iframes, Scripts, Forms, Inputs, Meta, Object and Embed tags are not allowed.
+</div>
 
 In order for your product to be offered in Mercado Livre, it is necessary to configure the ad template where the product will be displayed. To set up this template, follow the step-by-step instructions below:
 
@@ -103,7 +109,9 @@ If you want to include all attributes and attributes values in the template, you
 
 ``{{#each ATRIBUTOS}} {{NOME}} – {{VALOR}} <br> {{/each}}``
 
->ℹ️ If you want to hide some attribute in the template, you can do this in the **Bridge** panel by filling in the **Atributos omitidos no template do produto** field ("Attributes hidden in the product template") as explained in the **Set up the Mercado Livre panel at VTEX Bridge** section from the previous step.
+<div class="alert alert-info">
+If you want to hide some attribute in the template, you can do this in the <strong>Bridge</strong> panel by filling in the <strong>Atributos omitidos no template do produto</strong> field ("Attributes hidden in the product template") as explained in the <strong>Set up the Mercado Livre panel at VTEX Bridge</strong> section from the previous step.
+</div>
 
 __Great!__ You have completed the *second stage* of the integration! Now, we will set up the logistics for the delivery of orders made in Mercado Livre.
 
@@ -146,7 +154,9 @@ In this mode, there are two ways of delivering the products. These ways are defi
 
 In this scenario, Mercado Livre gets the products directly from the distribution centers used by your store and delivers them to the final customer.
 
->⚠️ We do not recommend using the *Entrega a combinar* ("to be arranged") type. In closed orders with this type of delivery, as we do not have the delivery address information, the order will not be integrated with VTEX. For an order to be properly integrated, it must have the delivery information. Therefore, we always recommend using **Mercado Envios**.
+<div class="alert alert-warning">
+We do not recommend using the <em>Entrega a combinar</em> ("to be arranged") type. In closed orders with this type of delivery, as we do not have the delivery address information, the order will not be integrated with VTEX. For an order to be properly integrated, it must have the delivery information. Therefore, we always recommend using <strong>Mercado Envios</strong>.
+</div>
 
 
 ### 
@@ -165,7 +175,9 @@ To go through this process, read the [category, variations, and attributes mappi
 
 After completing the above configurations, you must authorize your integration with Mercado Livre. Follow the steps below:
 
->⚠️ Mercado Livre requires that the authorization is made by the **Master User** of the Mercado Livre account.
+<div class="alert alert-warning">
+Mercado Livre requires that the authorization is made by the <strong>Master User</strong> of the Mercado Livre account.
+</div>
 
 1. Access the __Bridge__ module.
 2. Click on __Settings__.

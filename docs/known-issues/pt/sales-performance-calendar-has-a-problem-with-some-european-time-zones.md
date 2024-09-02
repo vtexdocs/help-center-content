@@ -18,7 +18,9 @@ internalReference: 718470
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em nosso Painel de Controle de Desempenho de Vendas*** disponibilizamos, dentro dos filtros, a possibilidade de selecionar um período personalizado para validar as informações correspondentes. No entanto, neste momento temos um problema com nosso calendário quando se trata de alguns **fusos horários europeus*** (até agora identificamos o problema apenas em **Reino Unido e Portugal***).

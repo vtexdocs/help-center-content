@@ -15,4 +15,6 @@ legacySlug: how-to-register-your-salespersons-on-vtex-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
->ℹ️ This article is deprecated. [Click here](https://help.vtex.com/en/tracks/instore-setup?step=2) to access our step-by-step tutorial to register vendors on the inStore.
+<div class="alert alert-info">
+This article is deprecated. <a href="https://help.vtex.com/en/tracks/instore-setup?step=2">Click here</a> to access our step-by-step tutorial to register vendors on the inStore.
+</div>

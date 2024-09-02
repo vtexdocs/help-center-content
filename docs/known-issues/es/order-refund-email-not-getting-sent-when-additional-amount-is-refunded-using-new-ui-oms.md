@@ -18,7 +18,9 @@ internalReference: 563300
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un pedido es devuelto por Marketplace a través de la "nueva UI" y se inserta un valor "adicional" en la "nueva UI", se genera una giftcard erróneamente y con ello, Checkout devuelve un error diciendo "que no hay valor a revertir y el email transaccional "vtexcommerce-order-refunded" no es enviado al cliente final.

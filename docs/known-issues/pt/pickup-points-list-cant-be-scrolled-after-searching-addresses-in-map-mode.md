@@ -18,7 +18,9 @@ internalReference: 624646
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao pesquisar um ponto de coleta no carrinho ou checkout enquanto em um layout estreito/resposta ao retrato (largura inferior a 1024px) usando a visualização do mapa, os resultados serão apresentados no modo lista em vez do próprio mapa, e esta lista não funcionará (o usuário não pode rolar a lista para baixo).

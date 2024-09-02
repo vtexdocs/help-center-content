@@ -19,7 +19,9 @@ subcategory: 1HSqkejwuYcQSMC400uY84
 
 Neste documento estão listados os perfis de acesso que estão predefinidos para novas lojas VTEX e respectivos recursos. Para acessá-los diretamente, use a lista abaixo.
 
->ℹ️ Para saber mais sobre cada recurso listado nos perfis, veja o artigo [Recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
+<div class = "alert alert-info">
+<p>Para saber mais sobre cada recurso listado nos perfis, veja o artigo <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">Recursos do License Manager</a>.</p>
+</div>
 
 * [Admin - Start page only](#admin-start-page-only)
 * [Checkout Admin](#checkout-admin)
@@ -73,7 +75,9 @@ O recurso **Assisted Sales** causa o redirecionamento automático do usuário pa
 
 Portanto, recomendamos a utilização de duas contas separadas (com emails distintos) para usuários de televendas: uma conta para o perfil __Call center operator__ (com os recursos <em>Assisted Sales</em> e <em>View order</em>) e outra conta para realizar operações no Admin, se necessário.
 
->⚠️ Ao criar um [perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evite incluir [recursos](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
+<div class="alert alert-warning">
+  Ao criar um <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#">perfil de acesso</a>, evite incluir <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">recursos</a> de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
+</div>
 
 Tabela de recursos:
 
@@ -140,7 +144,9 @@ Tabela de recursos:
 
 ## Sales App - Sales Associate
 
->⚠️ Vendedores registrados no Sales App não têm acesso ao Admin VTEX, apenas ao Sales App.
+<div class="alert alert-warning">
+  <p>Vendedores registrados no Sales App não têm acesso ao Admin VTEX, apenas ao Sales App.</p>
+</div>
 
 Tabela de recursos:
 

@@ -1,5 +1,5 @@
 ---
-title: "A caixa de seleção 'Requer autenticação' não funciona no módulo Páginas"
+title: 'A caixa de seleção "Requer autenticação" não funciona no módulo Páginas'
 id: 6nKuqSmk7JZgdaAysNYls3
 status: PUBLISHED
 createdAt: 2022-05-11T21:25:07.700Z
@@ -18,7 +18,9 @@ internalReference: 577306
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O recurso de autenticação, que é gerenciado por uma seleção de caixa de seleção no módulo Páginas, não funciona corretamente. O usuário não é redirecionado para uma página de pedido de autenticação quando a caixa de seleção é marcada.

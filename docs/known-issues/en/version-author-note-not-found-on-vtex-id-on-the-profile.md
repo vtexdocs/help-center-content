@@ -1,5 +1,5 @@
 ---
-title: "Version author 'Note: Not found on VTEX ID.' on the profile"
+title: 'Version author "Note: Not found on VTEX ID." on the profile'
 id: 0X6Aj6YdCXXfNweAkDS46
 status: PUBLISHED
 createdAt: 2023-10-04T21:48:14.699Z

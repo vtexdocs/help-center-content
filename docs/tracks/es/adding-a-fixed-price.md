@@ -3,8 +3,8 @@ title: 'Registrar precio fijo'
 id: 3g39iXkQza4AW7C7L814mj
 status: PUBLISHED
 createdAt: 2019-07-04T13:53:38.630Z
-updatedAt: 2024-05-15T16:01:59.100Z
-publishedAt: 2024-05-15T16:01:59.100Z
+updatedAt: 2024-08-20T13:48:57.885Z
+publishedAt: 2024-08-20T13:48:57.885Z
 firstPublishedAt: 2019-07-17T19:46:38.452Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -24,34 +24,47 @@ Hay tres maneras de registrar un precio fijo:
 
 Para crear un precio fijo en el Admin, sigue los pasos a continuación:
 
-1. En el Admin VTEX, accede a *Precios > Lista de precios* , o escribe *Lista de precios* en la barra de búsqueda en la parte superior de la página.
-2. Haz clic en `Tablas de Precios`.
-3. Selecciona la tabla de precios deseada.
-4. Haz clic en la celda de precio de SKU en la tabla de precios deseada.
-5. Haz clic en **Definir precios fijos**.
-6. Haz clic en **No se ha definido**.
-7. Rellena los campos que se describen a continuación.
-- **Cantidad mínima:** cantidad mínima del ítem que debe añadirse al carrito para que se aplique el precio fijo.
-- **Precio:** el valor del precio fijo.
-- **Definir precio de lista:** opción para añadir <i class="fas fa-toggle-on"></i> o no <i class="fas fa-toggle-off"></i> un precio de lista.
-  - **Precio de lista:** precio de venta sugerido para el ítem.
-
-- **Programar precio fijo:** opción para programar <i class="fas fa-toggle-on"></i> o no <i class="fas fa-toggle-off"></i> un precio fijo.
-  - **Status:** indica si la programación está activa o inactiva.
-  - **Fecha de inicio:** fecha de inicio de la programación del precio fijo. El precio fijo será válido a partir de esa fecha.
-  - **Hora de inicio:** hora de inicio de la programación del precio fijo. El precio fijo será válido a partir de esa hora.
-  - **Fecha de término:** fecha de término de la programación del precio fijo. El precio fijo deja de ser válido a partir de esa fecha.
-  - **Hora de término:** hora de término de la programación del precio fijo. El precio fijo deja de ser válido a partir de esa hora.
-8. Haz clic en `Guardar`.
+<ol>
+    <li>En el Admin VTEX, accede a <strong>Precios &gt; Lista de precios<strong>, o escribe <strong>Lista de precios<strong> en la barra de búsqueda en la parte superior de la página.</li>
+    <li>Haz clic en <code>Tablas de Precios</code>.</li>
+    <li>Selecciona la tabla de precios deseada.</li>
+    <li>Haz clic en la celda de precio de SKU en la tabla de precios deseada.</li>
+    <li>Haz clic en <strong>Definir precios fijos</strong>.</li>
+    <li>Haz clic en <strong>No se ha definido</strong>.</li>
+    <li>Rellena los campos que se describen a continuación.</li>
+    <ul>
+        <li><strong>Cantidad mínima:</strong> cantidad mínima del ítem que debe añadirse al carrito para que se aplique el precio fijo.</li>
+        <li><strong>Precio:</strong> el valor del precio fijo.</li>
+        <li><strong>Definir precio de lista:</strong> opción para añadir <i class="fas fa-toggle-on"></i> o no <i class="fas fa-toggle-off"></i> un precio de lista.
+            <ul>
+                <li><strong>Precio de lista:</strong> precio de venta sugerido para el ítem.</li>
+            </ul>
+        </li>
+        <li><strong>Programar precio fijo:</strong> opción para programar <i class="fas fa-toggle-on"></i> o no <i class="fas fa-toggle-off"></i> un precio fijo.
+            <ul>
+                <li><strong>Status:</strong> indica si la programación está activa o inactiva.</li>
+                <li><strong>Fecha de inicio:</strong> fecha de inicio de la programación del precio fijo. El precio fijo será válido a partir de esa fecha.</li>
+                <li><strong>Hora de inicio:</strong> hora de inicio de la programación del precio fijo. El precio fijo será válido a partir de esa hora.</li>
+                <li><strong>Fecha de término:</strong> fecha de término de la programación del precio fijo. El precio fijo deja de ser válido a partir de esa fecha.</li>
+                <li><strong>Hora de término:</strong> hora de término de la programación del precio fijo. El precio fijo deja de ser válido a partir de esa hora.</li>
+            </ul>
+        </li>
+    </ul>
+    <li>Haz clic en <code>Guardar</code>.</li>
+</ol>
 
 ### Eliminar precio fijo
 Para eliminar un precio fijo existente, sigue los pasos que se indican a continuación.
 
 1. En el Admin, haz clic en el módulo **Precios**.
 2. Haz clic en **Lista de precios**.
-3. Haz clic en la fila del SKU cuyo precio fijo deseas eliminar.
+3. Haz clic en la línea del SKU para la cual deseas eliminar el precio fijo.
 4. Haz clic en el precio fijo registrado.
 5. Haz clic en el botón `Eliminar`.
+
+<div class = "alert alert-info">
+No es posible realizar la eliminación masiva de precios fijos mediante la planilla. La eliminación debe hacerse manualmente, siguiendo los pasos anteriores, o a través de la API <a href="https://developers.vtex.com/docs/api-reference/pricing-api#delete-/pricing/prices/-itemId-/fixed/-priceTableId-">Delete fixed prices on a price table or trade policy.
+</div>
 
 ## Pricing API
 Para registrar un precio fijo mediante API, utiliza el endpoint [Create or update base or fixed prices](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-) de la Pricing API.

@@ -18,7 +18,9 @@ internalReference: 461095
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao utilizar o conector Firstdata para processar pagamentos de débito, nosso código foi projetado para esperar que o campo TransactionState seja definido como "CAPTURED". No entanto, encontramos um problema em que o provedor está enviando os valores "CAPTURED" e "SETTLED", o que está causando um erro:

@@ -18,7 +18,9 @@ internalReference: 683343
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se espera que una colección pueda ser exportada en el admin. Sin embargo, las colecciones con nombres que contienen símbolos como `$` , `+` o `,` no se pueden exportar.

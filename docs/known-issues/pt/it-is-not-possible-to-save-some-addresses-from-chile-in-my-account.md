@@ -1,5 +1,5 @@
 ---
-title: "Não é possível salvar alguns endereços do Chile em 'Minha Conta'."
+title: 'Não é possível salvar alguns endereços do Chile em "Minha Conta".'
 id: 6DLPSH4eJY0Hbgtc5iGh21
 status: PUBLISHED
 createdAt: 2022-02-24T14:51:08.104Z
@@ -18,7 +18,9 @@ internalReference: 386030
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um caso de alguns endereços que não são possíveis de serem salvos na página da seção Minha Conta nas contas do Chile.

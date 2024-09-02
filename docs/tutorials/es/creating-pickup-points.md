@@ -24,7 +24,8 @@ Hay dos maneras de registrar los puntos de recogida a través de Admin:
 * [Registro individual](#registro-individual);
 * [Registro por plantilla](#registro-por-plantilla);
 
->⚠️ El registro de los puntos de recogida es uno de los pasos necesarios para el correcto funcionamiento de la funcionalidad. Consulta el artículo [Puntos de recogida](https://help.vtex.com/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R) y descubre la configuración necesaria para que los puntos de recogida estén disponibles para tus clientes.
+<div class="alert alert-warning">El registro de los puntos de recogida es uno de los pasos necesarios para el correcto funcionamiento de la funcionalidad. Consulta el artículo <a href="https://help.vtex.com/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R">Puntos de recogida</a> y descubre la configuración necesaria para que los puntos de recogida estén disponibles para tus clientes.
+</div>
 
 ## Registro individual
 
@@ -41,7 +42,9 @@ Hay dos maneras de registrar los puntos de recogida a través de Admin:
 * **ID:** identificación del punto de recogida. Si no se rellena, el sistema elegirá un ID automáticamente. No dejes espacios en blanco.
 * **Punto de recogida de terceros:** marca esta casilla si el punto de recogida no está relacionado con tu tienda. Los puntos de recogida de terceros se muestran con menos relevancia que los de la propia tienda.
 
-  >❗ La configuración **Punto de recogida de terceros** actualmente no está disponible.
+  <div class="alert alert-danger">
+La configuración <b>Punto de recogida de terceros</b> actualmente no está disponible.
+</div>
 
 Selecciona <i class="fas fa-toggle-on"></i> para activar el punto de recogida.
 
@@ -52,7 +55,9 @@ Selecciona <i class="fas fa-toggle-on"></i> para activar el punto de recogida.
 * Para editar la información de la dirección, haz clic en `Editar`. 
 * Para añadir una dirección diferente, haz clic en `Borrar` y vuelve a realizar la búsqueda.
 
->ℹ️ La información de la dirección y la ubicación en el mapa se mostrarán en el checkout.
+<div class = "alert alert-info">
+La información de la dirección y la ubicación en el mapa se mostrarán en el checkout. 
+</div>
 
 #### Información adicional
 
@@ -63,24 +68,29 @@ Selecciona <i class="fas fa-toggle-on"></i> para activar el punto de recogida.
 
 * **Días de la semana:**
     1. Marca las casillas de los días en que el punto de recogida estará disponible para que tus clientes recojan sus pedidos. 
-    2. Selecciona también las horas labolables del punto de recogida para cada día. >ℹ️ Si este campo no se rellena, la plataforma considerará que el punto de recogida funciona las 24 horas del día.
+    2. Selecciona también las horas labolables del punto de recogida para cada día. <div class = "alert alert-info">Si este campo no se rellena, la plataforma considerará que el punto de recogida funciona las 24 horas del día. </div>
 * **Excepciones o feriados**: para añadir días específicos en los que el punto de recogida no funcionará, sigue los pasos a continuación:
     1. Haz clic en `Agregar excepción`.
     2. Rellena el **día** y la **hora**;
     3. Haz clic en `Agregar`.
 
->⚠️ La hora laborable registrada en el punto de recogida solo tiene carácter informativo y no se utiliza en el cálculo del SLA. Para cambiar la configuración que influye en el plazo de entrega, es necesario establecer el horario de funcionamiento en la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) relacionada con el punto de recogida. En el caso del registro de feriados, la configuración debe realizarse en el módulo de [feriados](https://help.vtex.com/es/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk) para que influya en el cálculo del plazo.
+<div class="alert alert-warning">
+La hora laborable registrada en el punto de recogida solo tiene carácter informativo y no se utiliza en el cálculo del SLA. Para cambiar la configuración que influye en el plazo de entrega, es necesario establecer el horario de funcionamiento en la <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">política de envío</a> relacionada con el punto de recogida. En el caso del registro de feriados, la configuración debe realizarse en el módulo de <a href="https://help.vtex.com/es/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk">feriados</a> para que influya en el cálculo del plazo.
+</div>
 
 ## Registro por plantilla
 
 Es posible registrar los puntos de recogida mediante la importación de una plantilla (archivo XLS). Esto te permite registrar más de un punto de recogida a la vez.
 
->ℹ️ El archivo XLS no debe superar los 10 MB (aproximadamente 50.000 puntos de recogida). Si es necesario, registra más de una plantilla.
+<div class = "alert alert-info">
+El archivo XLS no debe superar los 10 MB (aproximadamente 50.000 puntos de recogida). Si es necesario, registra más de una plantilla. 
+</div>
 
 1. En el Admin VTEX, accede a **Envío > Puntos de recogida**, o escribe *Puntos de recogida* en la barra de búsqueda en la parte superior de la página.  
 2. Haz clic en <i class="fas fa-upload"></i> `Cargar un XLS`.
 3. Descarga la plantilla y rellena los 
-[campos](#campos-de-la-plantilla).>ℹ️ Ten en cuenta que la plantilla viene con valores de ejemplo, que debes sustituir por los datos de los puntos de recogida de tu tienda.
+[campos](#campos-de-la-plantilla).<div class = "alert alert-info">
+Ten en cuenta que la plantilla viene con valores de ejemplo, que debes sustituir por los datos de los puntos de recogida de tu tienda.</div>
 4. Tras cargar la plantilla, haz clic en `OK`. Se habrán registrado los puntos de recogida. 
 
 ### Campos de la plantilla

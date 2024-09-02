@@ -22,7 +22,9 @@ First of all, you must consider the prerequisites that your store needs to ensur
 
 ## Implement inStore as a POS
 
->ℹ️ Although it is possible to implement inStore as a POS in other ways, in this article we explain how to do it using the franchise account and White Label Seller features. This is the architecture most recommended by VTEX for this type of project.
+<div class="alert alert-info">
+Although it is possible to implement inStore as a POS in other ways, in this article we explain how to do it using the franchise account and White Label Seller features. This is the architecture most recommended by VTEX for this type of project.
+</div>
 
 These are the steps to implement inStore as a POS:
 

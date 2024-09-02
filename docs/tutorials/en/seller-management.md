@@ -17,7 +17,7 @@ subcategory: 2xWRgEIlR2ookieEmm4KQu
 
 **Seller Management** is the page where marketplace operators [add sellers](https://help.vtex.com/en/tutorial/adicionar-seller--tutorials_392), input their information, and manage their status. The page features metrics that allow marketplaces to assess their operation. It is also possible to apply filters to the seller list and group sellers using the _Group_ option. 
 
-![Seller management gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/6nedzBeTr3y9d47ArKh40r/d280e61590f95fcd669cf45b137790f8/Seller_Management.gif)
+![Seller management gif 2022 launch](//images.ctfassets.net/alneenqid6w5/6nedzBeTr3y9d47ArKh40r/d280e61590f95fcd669cf45b137790f8/Seller_Management.gif)
 
 ## Metrics
 
@@ -47,7 +47,7 @@ This feature allows merchants to better monitor their operations by:
 
 You can create groups manually by clicking on Add sellers or Manage groups. Once created, you can edit and delete each one.  
 
-![Seller management](https://images.ctfassets.net/alneenqid6w5/1dkekloSl228CxABGgylD7/fc25e05f46cc203be9777110c6bacbde/seller_management_en.png)  
+![Seller management](//images.ctfassets.net/alneenqid6w5/1dkekloSl228CxABGgylD7/fc25e05f46cc203be9777110c6bacbde/seller_management_en.png)  
 
 ## Managing groups  
 
@@ -90,7 +90,9 @@ By clicking on the <i class="fas fa-ellipsis-v"></i> button in the seller row, t
 - **Seller details:** Redirects to the Seller details page, where you can view or edit information.  
 - **Orders:** Redirects to the All orders page in the VTEX OMS, filtered by the orders from the selected seller.  
 
->ℹ️ Please note that the list is sorted alphabetically. To view data for all sellers, navigate between the results pages by clicking on the <i class="fas fa-angle-left"></i> and <i class="fas fa-angle-right"></i> arrows at the bottom of the page. Use the filters to refine your results.
+<div class="alert alert-info">
+Please note that the list is sorted alphabetically. To view data for all sellers, navigate between the results pages by clicking on the <i class="fas fa-angle-left"></i> and <i class="fas fa-angle-right"></i> arrows at the bottom of the page. Use the filters to refine your results.
+  </div>
 
 ### Identifiable sellers and unidentifiable sellers (white label)
 

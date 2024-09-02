@@ -30,7 +30,9 @@ La aplicación _Facebook Business Extension y Conversions API_ es totalmente com
 
 Obtenga más información sobre la configuración requerida para cada uno en nuestra guía [Facebook Business Extension](https://developers.vtex.com/docs/guides/vtex-facebook-fbe#compatibility) en el Developer Portal.
 
->⚠️ En VTEX, hay una <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">guía para la integración con Facebook </a>. Sin embargo, la integración con la aplicación <i>Facebook Business Extension y Conversions API</i> debería ser tu elección por defecto, ya que FBE es la solución más completa de Facebook. Independientemente de que tengas configurada la otra integración, debes proceder normalmente con la configuración de esta integración.
+<div class="alert alert-warning">
+En VTEX, hay una <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">guía para la integración con Facebook </a>. Sin embargo, la integración con la aplicación <i>Facebook Business Extension y Conversions API</i> debería ser tu elección por defecto, ya que FBE es la solución más completa de Facebook. Independientemente de que tengas configurada la otra integración, debes proceder normalmente con la configuración de esta integración.
+</div>
 
 ## Píxel de Facebook
 
@@ -51,4 +53,6 @@ La API de Conversiones está diseñada para crear una conexión directa entre tu
 - Mejora de la medición de los datos de _marketing_.
 - Mayor control sobre los datos.
 
->ℹ️ Descubre más en la documentación de Facebook <a href= "https://www.facebook.com/business/help/2041148702652965?locale=es_LA">Información sobre la API de Conversiones</a>.
+<div class = "alert alert-info">
+Descubre más en la documentación de Facebook <a href= "https://www.facebook.com/business/help/2041148702652965?locale=es_LA">Información sobre la API de Conversiones</a>.
+</div>

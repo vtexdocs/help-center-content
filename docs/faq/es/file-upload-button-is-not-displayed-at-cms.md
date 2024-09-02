@@ -21,7 +21,7 @@ Si tienes este problema en Google Chrome, sólo tienes que activar el plugin Fla
 1. Haga clic en el botón de información o en el candado, que precede a la URL actual;
 2. En la línea correspondiente al Flash, que normalmente está como "Preguntar (estándar)", seleccione **Siempre permitir en este sitio**.
 
-![chrome-flash](https://images.contentful.com/alneenqid6w5/URF5k1wvQsaAiSoOeo4WI/5560f944b3b3fabb21bfbf4cebe21037/chrome-flash.jpg)
+![chrome-flash](//images.contentful.com/alneenqid6w5/URF5k1wvQsaAiSoOeo4WI/5560f944b3b3fabb21bfbf4cebe21037/chrome-flash.jpg)
 
 Normalmente este problema está vinculado a la disponibilidad del Flash Player en el browser, y para el sitio web accesado. 
 

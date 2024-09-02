@@ -1,9 +1,9 @@
 ---
 title: 'Managing shipping rates'
 id: tutorials_141
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-04-27T22:17:04.172Z
-updatedAt: 2023-03-29T15:06:40.531Z
+updatedAt: 2024-08-22T17:59:31.012Z
 publishedAt: 2023-03-29T15:06:40.531Z
 firstPublishedAt: 2017-04-27T23:00:45.116Z
 contentType: tutorial
@@ -22,7 +22,9 @@ Your store's [shipping rates](https://help.vtex.com/en/tutorial/tarifas-de-envio
 * [Edit shipping rates](#editing-shipping-rates).
 * [Delete shipping rates](#deleting-shipping-rates).
 
->ℹ️ If you need to update or add multiple shipping rates, we recommend using the shipping rate template instead of the **Shipping rates** module. If you want to check out how shipping rates are added and displayed to the end customer, use the **[Shipping simulator](https://help.vtex.com/en/tutorial/simulacao-de-frete--tutorials_144)** module.
+<div class="alert alert-info">
+If you need to update or add multiple shipping rates, we recommend using the shipping rate template instead of the <b>Shipping rates</b> module. If you want to check out how shipping rates are added and displayed to the end customer, use the <a href="https://help.vtex.com/en/tutorial/simulacao-de-frete--tutorials_144">Shipping simulator</a> module.
+</div>
 
 ## Adding shipping rates
 

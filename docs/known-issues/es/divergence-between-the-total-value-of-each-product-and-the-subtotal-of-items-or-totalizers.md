@@ -18,7 +18,9 @@ internalReference: 331188
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 En algunos casos, el valor total del pedido difiere de la suma del valor total de los productos (añadiendo también los gastos de envío y los posibles descuentos, si los hay). Esto ocurre porque el valor mostrado de los artículos forma parte del "sellingPrice", una información del orderForm que pierde precisión por motivos de redondeo.
 

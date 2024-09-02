@@ -18,7 +18,9 @@ internalReference: 310527
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si una cuenta tiene muchas categorías, en la pantalla de configuración del vendedor puede que no se cargue la puesta en marcha de la categoría debido a un tiempo de espera.

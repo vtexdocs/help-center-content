@@ -24,4 +24,6 @@ Después de configurar la integración, debe autenticar su cuenta de Google Shop
 6. Haga clic en `Deseo autenticar mi cuenta`.
 7. Haga clic en el botón `OK` para autorizar que la integración VTEX se conecte con el perfil del ID Business Manager.
 
->ℹ️ Puede haber un retraso entre la finalización de la integración y el momento en que surte efecto porque la actualización no es sincrónica. Sin embargo, generalmente no toma más de unas cuantas horas.
+<div class="alert alert-info">
+Puede haber un retraso entre la finalización de la integración y el momento en que surte efecto porque la actualización no es sincrónica. Sin embargo, generalmente no toma más de unas cuantas horas.
+</div>

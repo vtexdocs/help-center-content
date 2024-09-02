@@ -3,8 +3,8 @@ title: 'Envío y mapeo de categorías de productos a Amazon'
 id: 5xklf2wSdeztQh4iy5kJvD
 status: PUBLISHED
 createdAt: 2019-02-28T23:12:40.204Z
-updatedAt: 2023-10-18T19:47:04.829Z
-publishedAt: 2023-10-18T19:47:04.829Z
+updatedAt: 2024-08-27T17:55:46.602Z
+publishedAt: 2024-08-27T17:55:46.602Z
 firstPublishedAt: 2019-02-28T23:13:35.624Z
 contentType: trackArticle
 productTeam: Channels
@@ -18,13 +18,17 @@ Una vez realizada la configuración inicial de integración, ya puedes enviar lo
 
 Para enviar sus productos a Amazon, el seller debe mapear las [categorías](https://help.vtex.com/es/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) y los [atributos del producto](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP).
 
->ℹ️ Los productos deben tener el [stock](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) y los [precios](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviarlos a Amazon.
+<div class="alert alert-info">
+Los productos deben tener el <a href="https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">stock</a> y los <a href="https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">precios</a> configurados antes de enviarlos a Amazon.
+</div>
 
 ## Mapear categorías  
 
 El proceso de mapeo se puede realizar a través del [Admin VTEX](#mapeo-via-admin-vtex-(beta)), o mediante una [plantilla](#mapeo-mediante-plantilla). Consulta a continuación los detalles de cada caso.  
 
->❗ Atención: si realizas el mapeo de una categoría a través del Admin VTEX, y anteriormente habías realizado el mapeo de esa misma categoría mediante una plantilla, se sobreescribirá el mapeo de la plantilla y no podrá recuperarse.
+<div class="alert alert-danger">
+Atención: si realizas el mapeo de una categoría a través del Admin VTEX, y anteriormente habías realizado el mapeo de esa misma categoría mediante una plantilla, se sobreescribirá el mapeo de la plantilla y no podrá recuperarse.
+</div>
 
 ### Mapeo vía Admin VTEX (beta)  
 
@@ -37,10 +41,10 @@ La lista de categorías de tu tienda VTEX incluye el status del mapeo a través 
 
 | **Ícono** | **Status** | **Descripción** |
 |:---:|:---:|:---:|
-| ![mapeado mapper](https://images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/069480d9eeb7b6108d5f6ec3d7ad1d78/mapeado_mapper.jpg) | **Mapeada** | Indica que el mapeo de categorías está completo. |
-| ![mapeamentoincompleto mapper](https://images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/695f33c0eba4012f7e585ca1785ec17f/mapeamentoincompleto_mapper.jpg) | **Mapeo incompleto** | La categoría está parcialmente mapeada, por lo que es necesario ingresar sus atributos obligatorios (señalados con un asterisco) para realizar el mapeo. |
-| ![erromapeamento mapper](https://images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/7036253cccb4415d9759867b28ff1695/erromapeamento_mapper.jpg) | **Error al realizar el mapeo** | El error de mapeo ocurre cuando el marketplace elimina o cambia la categoría del producto. Para resolver este problema, solo hay que rehacer el mapeo de categorías. |
-|![incompleto mapper](https://images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/3eaea439ecfdbb54eaa8fefec12247ae/incompleto_mapper.jpg) | **No mapeada** | Indica que no se realizó el mapeo de la categoría. |  
+| ![mapeado mapper](//images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/069480d9eeb7b6108d5f6ec3d7ad1d78/mapeado_mapper.jpg) | **Mapeada** | Indica que el mapeo de categorías está completo. |
+| ![mapeamentoincompleto mapper](//images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/695f33c0eba4012f7e585ca1785ec17f/mapeamentoincompleto_mapper.jpg) | **Mapeo incompleto** | La categoría está parcialmente mapeada, por lo que es necesario ingresar sus atributos obligatorios (señalados con un asterisco) para realizar el mapeo. |
+| ![erromapeamento mapper](//images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/7036253cccb4415d9759867b28ff1695/erromapeamento_mapper.jpg) | **Error al realizar el mapeo** | El error de mapeo ocurre cuando el marketplace elimina o cambia la categoría del producto. Para resolver este problema, solo hay que rehacer el mapeo de categorías. |
+|![incompleto mapper](//images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/3eaea439ecfdbb54eaa8fefec12247ae/incompleto_mapper.jpg) | **No mapeada** | Indica que no se realizó el mapeo de la categoría. |  
 
 Para realizar el mapeo de categorías:  
 
@@ -49,14 +53,14 @@ Para realizar el mapeo de categorías:
 3. Selecciona la categoría de Amazon correspondiente al producto que deseas enviar.
 4. Haz la correspondencia de los atributos en la ventana lateral, como se muestra en la imagen a continuación:
 
-![Atributos del mapeador de Amazon](https://downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/9dbef07f676b7bf29ef81bfda39d9bda/mapper_amazon_atributos.gif)
+![Atributos del mapeador de Amazon](//downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/9dbef07f676b7bf29ef81bfda39d9bda/mapper_amazon_atributos.gif)
 
 5. Haz clic en el botón `Guardar cambios`.
 
->❗ Los campos marcados con un asterisco (`*`) son obligatorios.
->
->
-> Al ingresar un atributo pueden activarse nuevos campos obligatorios que solo serán visibles en la página **Marketplace > Conexiones > Productos,** después de guardar el mapeo.</br>
+<div class="alert alert-danger">
+Los campos marcados con un asterisco (<code>*</code>) son obligatorios.
+<br>Al ingresar un atributo pueden activarse nuevos campos obligatorios que solo serán visibles en la página <b>Marketplace > Conexiones > Productos,</b> después de guardar el mapeo.</br>
+</div>
 
 ### Mapeo mediante plantilla 
 
@@ -115,13 +119,13 @@ Para configurar la categoría global en su entorno VTEX según las categorías g
 ##### Ejemplo de cómo consultar las plantillas 
 
 En la Plantilla de atributos de Amazon, utilizaremos la categoría **Health**, centrada en los productos de salud:
-![categoriageral01](https://images.contentful.com/alneenqid6w5/154htyPg3K3IZ6Wxej3kek/a446c9815c249dda3084aa1773b76b3a/categoriageral01.JPG)
+![categoriageral01](//images.contentful.com/alneenqid6w5/154htyPg3K3IZ6Wxej3kek/a446c9815c249dda3084aa1773b76b3a/categoriageral01.JPG)
 
 En la Plantilla de categorías generales de Amazon, filtre la columna «I» Cat-Amazon-Geral, haciendo clic en **Filtro > Health > OK**.
-![categoriageral02](https://images.contentful.com/alneenqid6w5/2PTS1fxztRjYHaAicwVH7W/f44b94c30ca7401ec08a19c467ee8912/categoriageral02.JPG)
+![categoriageral02](//images.contentful.com/alneenqid6w5/2PTS1fxztRjYHaAicwVH7W/f44b94c30ca7401ec08a19c467ee8912/categoriageral02.JPG)
 
 Siguiendo el ejemplo anterior, filtre las columnas B, C y D, haciendo clic en **Salud y Belleza > Cuidado personal > Masaje y relajación**.
-![categoriageral03](https://images.contentful.com/alneenqid6w5/1p0cIHz7bp8HHuzud1H4zE/e79bf00cbe09f7b1fb155730cfc401f8/categoriageral03.JPG)
+![categoriageral03](//images.contentful.com/alneenqid6w5/1p0cIHz7bp8HHuzud1H4zE/e79bf00cbe09f7b1fb155730cfc401f8/categoriageral03.JPG)
 
 Ahora que ha encontrado la categoría general de Amazon, vuelva al Admin para [configurar la categoría global de VTEX](https://help.vtex.com/es/tutorial/configurando-a-categoria-global--tutorials_188) según la categoría general de Amazon.
 
@@ -179,7 +183,9 @@ La plantilla contiene las siguientes columnas:
 | F | VTEXValue | Nombre del valor utilizado en el campo SKU en VTEX |
 | G | AmazonValue | Nombre de los valores aceptados por Amazon |
 
->ℹ️ La plantilla de mapeo de Amazon es case sensitive, es decir, distingue mayúsculas de minúsculas.
+<div class="alert alert-info">
+La plantilla de mapeo de Amazon es case sensitive, es decir, distingue mayúsculas de minúsculas.
+</div>
 
 Para cada producto, siga los pasos a continuación.
 
@@ -196,7 +202,9 @@ Para cada producto, siga los pasos a continuación.
 6. Rellene la columna **VTEXValue** con los valores del atributo del producto en VTEX
 7. Rellene la columna **AmazonValue** con los valores del atributo aceptados por Amazon. Para ver los valores aceptados por Amazon, ve a la [plantilla de atributos obligatorios de Amazon](#2-plantilla-de-atributos-de-amazon) y busca la pestaña `VALORES VÁLIDOS`.
 
->⚠️ En algunos casos, los valores de **VariationTheme** pueden ser similares. Hay categorías en las que el **VariationTheme** puede ser: <i>SizeColor</i>, <i>Color</i> e <i>Size</i>, mientras en otras categorías puede ser: <i>ColorSize</i>, <i>Color</i> e <i>Size</i>. La diferencia está en el orden. En <i>SizeColor</i>, as casillas en la página del producto se ordenarán por tamaño y color, mientras que en <i>ColorSize</i> se ordenarán por color y tamaño. Tenga en cuenta los valores válidos de cada categoría que se va a mapear.
+<div class="alert alert-warning">
+En algunos casos, los valores de <b>VariationTheme</b> pueden ser similares. Hay categorías en las que el <b>VariationTheme</b> puede ser: <i>SizeColor</i>, <i>Color</i> e <i>Size</i>, mientras en otras categorías puede ser: <i>ColorSize</i>, <i>Color</i> e <i>Size</i>. La diferencia está en el orden. En <i>SizeColor</i>, as casillas en la página del producto se ordenarán por tamaño y color, mientras que en <i>ColorSize</i> se ordenarán por color y tamaño. Tenga en cuenta los valores válidos de cada categoría que se va a mapear. 
+</div>
 
 ##### Ejemplo de cómo rellenar la plantilla
 

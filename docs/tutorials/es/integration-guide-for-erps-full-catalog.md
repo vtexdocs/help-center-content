@@ -15,7 +15,7 @@ legacySlug: guia-de-integracion-de-erps-catalogo-completo
 subcategory: 5fKgQZhrCw88ACy6Su6GUc
 ---
 
->⚠️ Este artículo es parte de la [Guía de integración de ERPs](https://help.vtex.com/tutorial/guia-de-integracion-de-erps--3VuOwNLmb624ImooEIIkmO).
+<div class="alert alert-warning">Este artículo es parte de la <a href="https://help.vtex.com/tutorial/guia-de-integracion-de-erps--3VuOwNLmb624ImooEIIkmO">Guía de integración de ERPs</a>.</div>
 
 Este documento tiene como objetivo auxiliar en la integración de catálogo (departamento, categoría, marca, imágenes, campos, valores de campo, activación de SKU) del ERP a una tienda alojada en VTEX. En este tipo de integración la mayoría de la administración de la tienda está ERP.
 

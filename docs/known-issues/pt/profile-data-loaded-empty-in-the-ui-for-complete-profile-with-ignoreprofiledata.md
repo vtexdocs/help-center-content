@@ -18,7 +18,9 @@ internalReference: 1016582
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao definir "ignoreProfileData" via API Ignore profile data on checkout, se o comprador tiver um perfil completo, mas não estiver conectado, os dados serão carregados vazios na interface do usuário.

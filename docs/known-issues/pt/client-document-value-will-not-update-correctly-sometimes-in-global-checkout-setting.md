@@ -18,7 +18,9 @@ internalReference: 863726
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o Global Checkout, a alteração do uso do documento padrão para um documento autoidentificado e o valor informado para o campo de número do documento não "pegará" corretamente.

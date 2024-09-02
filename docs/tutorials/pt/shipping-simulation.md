@@ -23,15 +23,14 @@ O simulador pode ser utilizado também para validar as configurações das  **[E
 
 * **Disponibilidade de Sellers White Label:** o simulador seleciona o franqueado mais próximo ao endereço de entrega (a configuração logística é calculada através do ambiente do _Seller White Label_, e não no Main Account).
 
->⚠️ Pode haver divergência entre o preço final apontado pelo simulador, e o preço real em sua loja, visto que a simulação não leva em consideração:
-> <body>
->
-> *Promoções aplicadas àqueles itens.
->
-> *Descontos de frete configurados através de promoções.
->
-> *O Prazo de Entrega Total apresentado no resultado da simulação não considera o campo **Data Previsão Chegada (pré-venda)** [do cadastro do item.](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY)
-> </body>
+<div class="alert alert-warning"> 
+Pode haver divergência entre o preço final apontado pelo simulador, e o preço real em sua loja, visto que a simulação não leva em consideração:
+<body>
+<ul>
+<li>Promoções aplicadas àqueles itens.</li>
+<li>Descontos de frete configurados através de promoções.</li>
+<li>O Prazo de Entrega Total apresentado no resultado da simulação não considera o campo <b>Data Previsão Chegada (pré-venda)</b> <a href="https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY">do cadastro do item.</a></li>
+</ul></body></div>
 
 Nesse artigo contém:
 
@@ -61,7 +60,9 @@ Se desejar, pode preencher o box `Simular itens individualmente`.
 
  10. Clique no botão `Simular Frete`.
 
->ℹ️ No resultado da simulação, as medidas dos itens aparecem em centímetros e gramas, mas o valor real considerado no Checkout são as unidades de medida cadastradas nos [campos de cadastro do produto](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) e do SKU.
+<div class = "alert alert-info">
+No resultado da simulação, as medidas dos itens aparecem em centímetros e gramas, mas o valor real considerado no Checkout são as unidades de medida cadastradas nos <a href="https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">campos de cadastro do produto</a> e do SKU.
+</div>
 
 ## Detalhes da Simulação
 

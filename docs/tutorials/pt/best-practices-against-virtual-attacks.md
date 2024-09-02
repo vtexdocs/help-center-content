@@ -23,7 +23,9 @@ A VTEX dispõe de diversas proteções contra possíveis ataques a lojas. Ainda 
 * [Configurações do orderForm](#configuracoes-do-orderform)
 * [Desabilitar login por senha](#desabilitar-login-por-senha)
 
->ℹ️ As medidas citadas neste guia não eliminam por completo a possibilidade de ataques, mas podem reduzir bastante a probabilidade deles acontecerem, caso empregadas adequadamente.
+<div class = "alert alert-info">
+  <p>As medidas citadas neste guia não eliminam por completo a possibilidade de ataques, mas podem reduzir bastante a probabilidade deles acontecerem, caso empregadas adequadamente.</p>
+</div>
 
 ## Antifraude
 
@@ -31,7 +33,9 @@ Sistemas antifraude são especializados em analisar compras de ecommerces com o 
 
 Saiba mais sobre [sistemas antifraude](https://help.vtex.com/pt/tutorial/what-is-anti-fraud) e como utilizá-los na VTEX.
 
->⚠️ Para aumentar a segurança, configure seu antifraude para todos os métodos de pagamento disponíveis na sua loja.
+<div class="alert alert-warning"> 
+  <p>Para aumentar a segurança, configure seu antifraude para todos os métodos de pagamento disponíveis na sua loja.</p>
+</div>
 
 ## Proteção contra ataques de transações
 
@@ -47,7 +51,9 @@ Recomendamos o uso do [reCAPTCHA v3](https://help.vtex.com/en/tutorial/using-rec
 
 Saiba mais sobre como configurar esta validação no Checkout da sua loja em [reCAPTCHA no Checkout](https://help.vtex.com/pt/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#). Para a implementação do reCAPTCHA V3 em uma loja VTEX, consulte o guia para desenvolvedores [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score).
 
->ℹ️ No fluxo de [cadastro de cartões](https://help.vtex.com/pt/tutorial/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#cartoes) dos clientes da loja na página [Minha Conta](https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh), a validação por reCAPTCHA está ativa por padrão, sem a necessidade de configuração por parte dos lojistas.
+<div class = "alert alert-info">
+  <p>No fluxo de <a href="https://help.vtex.com/pt/tutorial/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#cartoes">cadastro de cartões</a> dos clientes da loja na página <a href="https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>, a validação por reCAPTCHA está ativa por padrão, sem a necessidade de configuração por parte dos lojistas.</p>
+</div>
 
 ## Configurações do orderForm
 

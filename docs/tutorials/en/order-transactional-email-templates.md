@@ -17,7 +17,9 @@ subcategory: 4D5LrWwlHGmOWMomOaaGee
 
 The purpose of this article is to list the default transactional email templates that relate to the order flow. In addition, we will specify the triggers required to sent each email.
 
->⚠️ Notice: fulfillment orders do not receive transactional emails from VTEX. In this case, the marketplace is reponsible for notification emails.
+<div class="alert alert-warning">
+Notice: fulfillment orders do not receive transactional emails from VTEX. In this case, the marketplace is reponsible for notification emails.
+</div>
 
 To view the available templates, follow the steps below:
 

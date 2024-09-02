@@ -29,7 +29,7 @@ __If an SKU with a certain specification is not available in stock, the store ma
 
 In the example below, sizes P and G are not available.
 
-![classeIndisponivel](https://images.contentful.com/alneenqid6w5/6dTacclHvqeaMwws8kqU8K/2d0d79d95dc521626eb1ba5c1c056da2/classeIndisponivel.png)
+![classeIndisponivel](//images.contentful.com/alneenqid6w5/6dTacclHvqeaMwws8kqU8K/2d0d79d95dc521626eb1ba5c1c056da2/classeIndisponivel.png)
 
 ## Including the unavailable product class
 
@@ -43,7 +43,9 @@ You can customize your CSS file so that this class displays, for example, a cut 
 
 ## Determining to which specification the classed will be assigned
 
->⚠️ The unavailable product class is only assigned to the specification that **last** appears in the SKU specifications list in the Catalog module.
+<div class="alert alert-warning">
+The unavailable product class is only assigned to the specification that <b>last</b> appears in the SKU specifications list in the Catalog module.
+</div>
 
 For example, in the case of a SKU that only the `Tamanho` specification will receive the unavailability class.
 

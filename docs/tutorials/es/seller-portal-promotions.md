@@ -27,7 +27,7 @@ A partir de la lista de promociones del Seller Portal puedes llevar a cabo diver
 * [Acceder al menú de acciones de la promoción](#acceder-al-menu-de-acciones-de-la-promocion)
 * [Acceder a promociones archivadas](#acceder-a-promociones-archivadas)
 
-![seller-portal-promo-es](https://images.ctfassets.net/alneenqid6w5/266zLPS2IkGekYdMOz27Pz/a65cab7ea0ee0983f80894668ca050d0/image.png)
+![seller-portal-promo-es](//images.ctfassets.net/alneenqid6w5/266zLPS2IkGekYdMOz27Pz/a65cab7ea0ee0983f80894668ca050d0/image.png)
 
 En la siguiente tabla puedes consultar la información de la página **Promociones**: 
 
@@ -71,7 +71,7 @@ El archivo contiene la siguiente información sobre cada promoción:
 
 ## Verificar datos de uso de las promociones
 
-![seller-portal-promo-es](https://images.ctfassets.net/alneenqid6w5/266zLPS2IkGekYdMOz27Pz/a65cab7ea0ee0983f80894668ca050d0/image.png)
+![seller-portal-promo-es](//images.ctfassets.net/alneenqid6w5/266zLPS2IkGekYdMOz27Pz/a65cab7ea0ee0983f80894668ca050d0/image.png)
 
 Para ver el total de promociones activas en tu tienda y la cuota restante para nuevas promociones, haz clic en `Uso de las promociones`.
 
@@ -91,4 +91,6 @@ Para acceder a la página **Promociones archivadas**, haz clic en el ícono <i c
 
 Puedes desarchivar o duplicar promociones archivadas haciendo clic en el ícono <i class="fas fa-ellipsis-v"></i>. 
 
- >ℹ️ Al desarchivar una promoción, su status cambiará a `Pausada`.
+ <div class="alert alert-info">
+  <p>Al desarchivar una promoción, su status cambiará a <code>Pausada</code>.</p>
+  </div>

@@ -34,7 +34,7 @@ Para descobrir o ID de um SKU pelo Admin, siga os passos abaixo:
 
 No exemplo abaixo, o ID do SKU é __18__.
 
-![skuId-1](https://images.contentful.com/alneenqid6w5/3CEFOn0h8Ac6ciGgi6gmEK/2d64944b8added0ec12d5cdc7ebe9d9c/skuId-1.png)
+![skuId-1](//images.contentful.com/alneenqid6w5/3CEFOn0h8Ac6ciGgi6gmEK/2d64944b8added0ec12d5cdc7ebe9d9c/skuId-1.png)
 
 ## URL de cadastro do SKU
 
@@ -46,4 +46,6 @@ Para descobrir o ID de um SKU pela URL de cadastro do SKU, siga os passos abaixo
 4. Observe a URL da página carregada. Você verá uma URL com o seguinte formato: `https://{accountName}.myvtex.com/admin/Site/SkuForm.aspx?IdSku={number}`
  O ID do SKU será o número exibido no lugar de `{number}`.
 
->❗ Para garantir que itens adicionados ao estoque fiquem disponíveis para venda na loja, o [ ID do SKU ](https://help.vtex.com/pt/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW) não deve conter **o número zero à esquerda**. O sistema não reconhece, por exemplo, IDs no formato `01`, `02`, `021`, pois é esperado o formato  `1`, `2`, `21`.
+<div class="alert alert-danger">
+Para garantir que itens adicionados ao estoque fiquem disponíveis para venda na loja, o <a href="https://help.vtex.com/pt/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW"> ID do SKU </a> não deve conter <b>o número zero à esquerda</b>. O sistema não reconhece, por exemplo, IDs no formato <code>01</code>, <code>02</code>, <code>021</code>, pois é esperado o formato  <code>1</code>, <code>2</code>, <code>21</code>.
+</div>

@@ -18,7 +18,9 @@ internalReference: 578649
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O ListPrice de um carrinho interage com o preço exibido para mostrar um preço antigo versus o atual, em um assunto para destacar descontos.

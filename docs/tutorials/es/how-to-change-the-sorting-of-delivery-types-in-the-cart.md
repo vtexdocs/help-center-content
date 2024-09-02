@@ -21,4 +21,6 @@ Al hacer clic en el menú de tipos de entrega, el cliente podrá acceder a otras
 
 Este es un comportamiento estándar de la plataforma, y ​​si el comerciante desea modificarlo, es posible personalizar el carrito (a través de CSS y JavaScript), de acuerdo con las necesidades de la tienda.
 
->⚠️ Recordamos que se debe tener mucho cuidado en cualquier cambio de CSS o JavaScript en el carrito. Si no está bien hecho, este tipo de personalización puede comprometer la tasa de conversión de su tienda y la seguridad de su checkout.
+<div class="alert alert-warning">
+Recordamos que se debe tener mucho cuidado en cualquier cambio de CSS o JavaScript en el carrito. Si no está bien hecho, este tipo de personalización puede comprometer la tasa de conversión de su tienda y la seguridad de su checkout.
+</div>

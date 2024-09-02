@@ -18,7 +18,9 @@ internalReference: 530824
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, el sistema logístico utiliza MasterData para almacenar la información de los Puntos de Recogida. Como resultado, podemos tener problemas para indexar esta entidad interna cuando se utiliza la ruta de búsqueda. Esto puede dar lugar a información obsoleta, como por ejemplo:

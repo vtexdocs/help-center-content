@@ -34,7 +34,7 @@ Veja alguns perfis úteis:
 - __Financeiro:__ concede acesso ao submódulo Financeiro, dentro do License Manager, permitindo ver boletos e NFs relativos ao pagamento do serviço VTEX.
 - __Webservice:__ permite que o usuário acesse os métodos do webservice, necessário para determinadas integrações (em geral, com o catálogo).
 
->⚠️ **Atenção**: os perfis de televendas bloqueiam o acesso ao módulo Catalog. Ou seja, não conseguem acessar o cadastro de produtos, por exemplo. Se for necessário acessar este módulo, o usuário deverá trabalhar com dois logins diferentes.
+<div class="alert alert-warning"><strong>Atenção</strong>: os perfis de televendas bloqueiam o acesso ao módulo Catalog. Ou seja, não conseguem acessar o cadastro de produtos, por exemplo. Se for necessário acessar este módulo, o usuário deverá trabalhar com dois logins diferentes.</div>
 
 ## Criando novos perfis
 

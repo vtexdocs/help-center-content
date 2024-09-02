@@ -18,7 +18,9 @@ internalReference: 383911
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A veces las banderas de promoción y los descuentos se muestran en PLP y PLP después de la fecha de caducidad de la promoción. Esto ocurre porque la promoción no activa la indexación del producto, resultando en la exposición errónea del descuento.

@@ -17,9 +17,11 @@ subcategory: 27t6x0lngvjI3bnUg5AgEO
 
 Media is a feature responsible for managing your store's media files, such as images and videos. For images, you can upload and organize files up to 5 MB in the following formats: `png`, `jpg`, `gif`, `svg` and `webp`. For videos, you can add a URL to the externally hosted video provider, e.g. YouTube or Vimeo.
 
->⚠️ For upload, files must have a lowercase extension (e.g., `store.png`) and be up to **5 MB**.
+<div class="alert alert-warning">
+  For upload, files must have a lowercase extension (e.g., <code>store.png</code>) and be up to <b>5 MB</b>.
+</div>
 
-![Media Overview](https://images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/4151c07cdf6675310b41607256633894/en-media-overview.png)
+![Media Overview](//images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/4151c07cdf6675310b41607256633894/en-media-overview.png)
 
 In addition, Media is integrated with **Site Editor** and **Headless CMS**. This integration allows you to access and manage Media directly through VTEX CMS solutions.
 
@@ -37,11 +39,13 @@ There are three ways to access Media:
 
 - **Headless CMS**: In the VTEX Admin, go to **Storefront > Headless CMS**. Choose one of the created pages, such as a product page. From the available sections, select one to which you can add an image, e.g. , [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero), and click the Hero image component. A Media panel will open.
 
->⚠️ Note that the section must use the [media-gallery](https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections#step-3-adding-sections-to-the-headless-cms) to leverage Media. For [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore) projects, the sections that use the <i>media-gallery</i> widget are [Navbar](https://developers.vtex.com/docs/guides/faststore/organisms-navbar) and [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero).
+<div class="alert alert-warning">
+Note that the section must use the <a href="https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections#step-3-adding-sections-to-the-headless-cms">media-gallery</a> to leverage Media. For <a href="https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore">FastStore</a> projects, the sections that use the <i>media-gallery</i> widget are <a href="https://developers.vtex.com/docs/guides/faststore/organisms-navbar">Navbar</a> and <a href="https://developers.vtex.com/docs/guides/faststore/organisms-hero">Hero</a>.
+</div>
 
 In the following image, you can see an overview of the Media interface and the actions available for managing your media files:
 
-![Media Features](https://images.ctfassets.net/alneenqid6w5/2teyzkUy2zP5vjMLPxlXgD/7466fed34ed8183fde0b9d61e68b9e1f/en-media-features.png)
+![Media Features](//images.ctfassets.net/alneenqid6w5/2teyzkUy2zP5vjMLPxlXgD/7466fed34ed8183fde0b9d61e68b9e1f/en-media-features.png)
 
 | Field | Description |
 | ---------- | ------------- |
@@ -59,11 +63,15 @@ In Media, you can upload images, and the feature supports the following formats:
 
 1. On the **Media** page or panel, click `Add New` and click `Image`.
 
->⚠️ In the Media panel available in the Headless CMS and Site Editor, you can drag and drop images.
+<div class="alert alert-warning">
+  <p>In the Media panel available in the Headless CMS and Site Editor, you can drag and drop images.</p>
+</div>
 
 2. Choose the image you want to upload and click `Open`.
 
->⚠️ Please note that Media accepts the following formats: `png`, `jpg`, `gif`, `svg`, and `webp`, in lowercase and with a file size limit of 5 MB.
+<div class="alert alert-warning">
+ Please note that Media accepts the following formats: <code>png</code>, <code>jpg</code>, <code>gif</code>, <code>svg</code>, and <code>webp</code>, in lowercase and with a file size limit of 5 MB.
+</div>
 
 3. After the image is loaded, a success message will be displayed.
 
@@ -76,7 +84,9 @@ Now, you can perform other actions by clicking `More actions` (three vertical do
 | **Download** | Downloads the image to your computer. |
 | **Delete** |	Deletes the image from the repository. |
 
->⚠️ Deleting the image will only remove it from the Media repository. If you have added the image to a Hero component, for example, the image will continue to be used in that component. However, you will not be able to use it in other components.
+<div class="alert alert-warning">
+Deleting the image will only remove it from the Media repository. If you have added the image to a Hero component, for example, the image will continue to be used in that component. However, you will not be able to use it in other components.
+</div>
 
 ### Adding videos
 Besides images, in Media, you can also store videos and then use them in your store to create visual appeal for users navigating the store.

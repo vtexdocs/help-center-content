@@ -16,7 +16,9 @@ trackSlugPT: logistica-101
 
 Um ponto de retirada é um local físico onde o cliente tem a opção de retirar por conta própria o seu pedido. É, portanto, uma etapa opcional e que encerra a rota logística.
 
->ℹ️ A funcionalidade de pontos de retirada está disponível apenas para as contas que já têm acesso ao **Checkout V6**.
+<div class="alert alert-info">
+A funcionalidade de pontos de retirada está disponível apenas para as contas que já têm acesso ao <b>Checkout V6</b>.
+</div>
 
 ## Relação com a transportadora
 Todo ponto de retirada precisa, necessariamente, ser associado a uma transportadora, o que é feito durante o cadastro da transportadora.

@@ -25,16 +25,15 @@ __Palavras Substitutas:__ sinônimos de termos relacionados ao nome dado para se
 
 __TextLink:__ utilizado para criar a URL do produto. Campo obrigatório. Para mais informações, confira o artigo [Como definir a URL de um produto](https://help.vtex.com/pt/tutorial/como-a-url-de-produto-e-montada--frequentlyAskedQuestions_368).
 
->❗ Ao preencher o **textLink** do produto, evite utilizar as seguintes palavras reservadas, pois isso pode prejudicar o desempenho da sua loja e interferir no funcionamento de páginas definidas no Admin VTEX. Veja a lista de palavras reservadas abaixo.
->
-> *`a`
->
-> *`meta`
->
-> *`api`
->
-> *`admin`
-> 
+<div class="alert alert-danger">
+  <p>Ao preencher o <b>textLink</b> do produto, evite utilizar as seguintes palavras reservadas, pois isso pode prejudicar o desempenho da sua loja e interferir no funcionamento de páginas definidas no Admin VTEX. Veja a lista de palavras reservadas abaixo.
+  <ul>
+<li><code>a</code></li>
+<li><code>meta</code></li>
+<li><code>api</code></li>
+<li><code>admin</code></li>
+</ul></p>
+</div>
 
 __Título da Página (Tag Title):__ texto que fica na aba do navegador e corresponde ao título da página do produto. Este campo é importante para SEO.
 
@@ -74,7 +73,9 @@ Veja como criar as [especificações do seu Produto](https://help.vtex.com/pt/tu
 
 Se você tiver criado algum campo de produto obrigatório, o produto só poderá ser ativado após o preenchimento desta especificação.
 
->ℹ️ Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo [Por que o produto não aparece no site?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) para entender como resolver esse problema.
+<div class="alert alert-info">
+Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo <a href="https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">Por que o produto não aparece no site?</a> para entender como resolver esse problema.
+</div>
 
 ### Saiba mais
 - [Produtos - Definição de conceito](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru)

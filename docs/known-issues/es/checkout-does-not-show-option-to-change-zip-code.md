@@ -18,7 +18,9 @@ internalReference: 321598
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para los artículos que están restringidos a la recogida en la tienda a determinadas direcciones, la opción de cambiar el código postal está desapareciendo mientras el usuario está en la pestaña de entrega, en el carrito .

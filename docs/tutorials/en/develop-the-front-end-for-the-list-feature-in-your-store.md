@@ -117,11 +117,15 @@ This code renders a list with __three links__:
 2. __Create new List__: This link takes the client to the `/giftlist/create` route, where the client creates their lists. In the next steps, we'll explain how list creation is done.
 3. __Manage my Lists__: This link takes the client to the `/giftlist/manage` route, where the client can manage their lists. In the next steps, we'll explain how list management is done.
 
->❗ Do not uncheck the **Authentication Required** flag already selected by default in the folders below. Identification is required for lists to be displayed for each specific user.
+<div class="alert alert-danger">
+Do not uncheck the <strong>Authentication Required</strong> flag already selected by default in the folders below. Identification is required for lists to be displayed for each specific user.
+</div>
 
 ## Editing the list creation template
 
->ℹ️ Before editing this template, you must [create the List Type](http://help.vtex.com/en/tutorial/creating-a-type-of-list) that will be offered in your store. <!--Reescrever o artigo de tipo de lista -->
+<div class="alert alert-info">
+Before editing this template, you must <a href="http://help.vtex.com/en/tutorial/creating-a-type-of-list">create the List Type</a> that will be offered in your store. <!--Reescrever o artigo de tipo de lista -->
+</div>
 
 The template for creating lists is located in the `giftlist/create` route. The default template for this route is `new-GiftList-Create`, located in the `HTML Templates` section of your CMS.
 

@@ -15,7 +15,9 @@ legacySlug: delivery-options-beta
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
->ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
+<div class="alert alert-info">
+<p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
+</div>
 
 **Opções de envio** é a funcionalidade que permite ao lojista criar, editar e gerenciar no mesmo local as opções de envio de pedidos, garantindo mais simplicidade e eficiência na gestão da sua operação. O termo envio é a forma geral de se referir a entrega ou retirada de um pedido. Na configuração de cada opção de envio, o lojista determina:
 
@@ -33,7 +35,9 @@ O objetivo com as **Opções de envio**, no entanto, não é substituir [políti
 
 Com as **Opções de envio**, é feita uma separação entre o que é cobrado dos consumidores pelo envio do pedido e o custo do frete para o lojista, pois é possível configurar diferentes regras de precificação para a tarifa de envio. 
 
->ℹ️ Para que a escolha das transportadoras para envio do pedido seja feita corretamente, é necessário inserir nas planilhas de frete o custo real que as transportadoras cobram para realizar o envio.
+<div class = "alert alert-info">
+Para que a escolha das transportadoras para envio do pedido seja feita corretamente, é necessário inserir nas planilhas de frete o custo real que as transportadoras cobram para realizar o envio.
+</div>
 
 As **Opções de envio** permitem ao lojista configurar a tarifa de envio a partir de:
 
@@ -55,7 +59,9 @@ Em cada opção de envio, o lojista registra um SLA (_Service Level Agreement_),
 
 O algoritmo da plataforma VTEX, o [Order Allocation Algorithm](https://help.vtex.com/pt/tutorial/order-allocation-algorithm-beta--1zLCAyEdnVe3EsE9Kz88xA), analisa as combinações de lojas e centros de distribuição que atendem cada uma das opções de envio e busca selecionar aquelas que apresentam o menor custo de envio. No exemplo, o resultado é uma combinação de menor custo de envio no mesmo dia, e outra combinação de menor custo de envio em até 5 dias úteis.
 
->ℹ️ Com as **Opções de envio**, existe a garantia de que uma opção de envio disponível para a localidade sempre será apresentada ao consumidor, o que não ocorria antes. A única exceção é se não houver seller e política de envio que atendam às condições de uma shipping option. Neste caso, nenhuma shipping option aparecerá para o consumidor no checkout.
+<div class = "alert alert-info">
+Com as <b>Opções de envio</b>, existe a garantia de que uma opção de envio disponível para a localidade sempre será apresentada ao consumidor, o que não ocorria antes. A única exceção é se não houver seller e política de envio que atendam às condições de uma shipping option. Neste caso, nenhuma shipping option aparecerá para o consumidor no checkout.
+</div>
 
 ## Ações e configurações
 
@@ -87,7 +93,7 @@ Para criar uma opção de envio, siga os passos abaixo:
     - **Frete grátis:** sem custos para o consumidor, não requer configurações adicionais.
 8. Clique no botão `Salvar`.
 
-![opcoes_envio_criacao_pt](https://images.ctfassets.net/alneenqid6w5/6TOlNWWBTED41BXemhsvQE/a99720c733f07f383aa9cfcdd9a18e76/opcoes_envio_criacao_pt.png)
+![opcoes_envio_criacao_pt](//images.ctfassets.net/alneenqid6w5/6TOlNWWBTED41BXemhsvQE/a99720c733f07f383aa9cfcdd9a18e76/opcoes_envio_criacao_pt.png)
 
 ### Editar opção de envio
 
@@ -111,7 +117,7 @@ Além de editar uma opção de envio, no ícone menu <i class="fas fa-ellipsis-v
 
 Uma vez que você tenha opções de envio configuradas, elas vão aparecer em uma listagem em **Configurações da loja > Envio > Opções de envio**, conforme a imagem a seguir:
 
-![opcoes_envio_listagem_pt](https://images.ctfassets.net/alneenqid6w5/2MAxFwYr86Y2ErCyo7GRIN/713a7a5fa03c809e2bd0ad8b8abe60f5/opcoes_envio_listagem_pt.png)
+![opcoes_envio_listagem_pt](//images.ctfassets.net/alneenqid6w5/2MAxFwYr86Y2ErCyo7GRIN/713a7a5fa03c809e2bd0ad8b8abe60f5/opcoes_envio_listagem_pt.png)
 
 A tabela abaixo contém a descrição das colunas apresentadas:
 

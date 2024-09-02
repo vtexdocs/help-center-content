@@ -18,7 +18,9 @@ internalReference: 373603
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los clientes guatemaltecos informaron que el formulario de dirección de facturación está desactualizado. La causa principal son algunos cambios de localización de zona. La actualización ya fue implementada en la dirección de envío y necesita ser hecha en la dirección de facturación también

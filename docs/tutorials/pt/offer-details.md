@@ -15,10 +15,12 @@ legacySlug: detalhes-do-anuncio
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
->ℹ️ Para evoluir sua experiência ao sincronizar e atualizar anúncios, o time da VTEX está desenvolvendo uma nova funcionalidade que irá substituir o atual módulo **Gerenciamento de anúncios**.
-> Por este motivo, o Gerenciamento de anúncios não receberá novas atualizações ou manutenção. 
-> Para conectores e marketplaces que já se integraram com o módulo, solicitamos que entre em contato com nosso time de desenvolvimento através do email [taissa.araujo@vtex.com.br](taissa.araujo@vtex.com.br).
-> Para os conectores com interesse em iniciar a integração, solicitamos que aguardem o lançamento do novo módulo, assim que disponível avisaremos a todos os clientes através do [Developer portal na página de release notes](https://developers.vtex.com/updates/release-notes) e [VTEX Help Center na página de novidades](https://help.vtex.com/pt/en/announcements).  
+<div class="alert alert-info">
+Para evoluir sua experiência ao sincronizar e atualizar anúncios, o time da VTEX está desenvolvendo uma nova funcionalidade que irá substituir o atual módulo <b>Gerenciamento de anúncios</b>.
+Por este motivo, o Gerenciamento de anúncios não receberá novas atualizações ou manutenção. 
+Para conectores e marketplaces que já se integraram com o módulo, solicitamos que entre em contato com nosso time de desenvolvimento através do email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
+Para os conectores com interesse em iniciar a integração, solicitamos que aguardem o lançamento do novo módulo, assim que disponível avisaremos a todos os clientes através do <a href="https://developers.vtex.com/updates/release-notes">Developer portal na página de release notes</a> e <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center na página de novidades</a>.
+</div>  
 
 Anúncio é um SKU de um seller que teve seu  preço e estoque configurados e foi enviado para diferentes canais de venda. É no módulo [Gerenciamento de anúncios](https://help.vtex.com/pt/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE) que sellers supervisionam o envio e sincronização de seus anúncios para marketplaces.
 
@@ -34,11 +36,13 @@ A página **Detalhes do anúncio** apresenta as seguintes seções:
 - [Status do anúncio](#status-do-anuncio)  
 - [Lista de Interações](#lista-de-interacoes)
 
->ℹ️ O **Gerenciamento de anúncios** permite acompanhar anúncios com o [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic e Premium), [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e marketplaces VTEX. Para conectores que desejam integrar via API, existe o [Guia de integração da Gerenciamento de anúncios](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
+<div class = "alert alert-info">
+O <b>Gerenciamento de anúncios</b> permite acompanhar anúncios com o <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Livre</a> (Classic e Premium), <a href="https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm">Netshoes</a> e marketplaces VTEX. Para conectores que desejam integrar via API, existe o <a href="https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors">Guia de integração da Gerenciamento de anúncios</a>.
+</div>
 
 ## Cabeçalho
 
-![Offer details PT cabecalho](https://images.ctfassets.net/alneenqid6w5/6XRh7RmJr7rfGUfVHER580/1d3d99d4aa6204871518904c7abbef2b/Offer_details_PT_cabecalho.jpg)
+![Offer details PT cabecalho](//images.ctfassets.net/alneenqid6w5/6XRh7RmJr7rfGUfVHER580/1d3d99d4aa6204871518904c7abbef2b/Offer_details_PT_cabecalho.jpg)
 
 O cabeçalho traz algumas informações principais do anúncio para rápida visualização, como imagem, canal nome, status, ID na VTEX e ID no canal. Permite também realizar as seguintes interações por meio do botão `Editar`:
 
@@ -54,13 +58,13 @@ O bloco de _Status do anúncio_ traz mais detalhes sobre o status do anúncio, q
 
 ### Status: Sincronizado
 
-![Offer details PT status sucesso](https://images.ctfassets.net/alneenqid6w5/6s1o33PAsB6H7X3Z0UJxaY/ee786de0eeee54fd2f5ee39fbc4e9d2e/Offer_details_PT_status_sucesso.jpg)
+![Offer details PT status sucesso](//images.ctfassets.net/alneenqid6w5/6s1o33PAsB6H7X3Z0UJxaY/ee786de0eeee54fd2f5ee39fbc4e9d2e/Offer_details_PT_status_sucesso.jpg)
 
 O status *Sincronizado* significa que o anúncio foi recebido com sucesso em um canal e está sendo atualizado tanto pelo marketplace quanto pelo seller, em tempo real.   
 
 ### Status: Erro
 
-![Offer details PT status erro](https://images.ctfassets.net/alneenqid6w5/5M2tBMrTbrBloZ1093Jdjw/99e44f5378b0fcec010e122d48c2ad12/Offer_details_PT_status_erro.jpg)
+![Offer details PT status erro](//images.ctfassets.net/alneenqid6w5/5M2tBMrTbrBloZ1093Jdjw/99e44f5378b0fcec010e122d48c2ad12/Offer_details_PT_status_erro.jpg)
 
 O status *Erro* significa que o sistema encontrou um problema que previne um anúncio de ser enviado ou atualizado em um canal, portanto é necessário que o seller o corrija. Erros podem originar do lado do seller VTEX, como descrições de produtos que excedem o limite de caracteres, e do lado do marketplace, como chamadas de API que falharam.   
 
@@ -78,19 +82,19 @@ Se ainda existirem erros para serem corrigidos, ou se todos forem corrigidos mas
 
 ### Status: Indisponível
 
-![Offer details PT status indisponivel](https://images.ctfassets.net/alneenqid6w5/5ASZDWJU36WcdTJPL4HyWh/89c9d4be9f3ce73bc9d39c462895588e/Offer_details_PT_status_indisponivel.jpg)
+![Offer details PT status indisponivel](//images.ctfassets.net/alneenqid6w5/5ASZDWJU36WcdTJPL4HyWh/89c9d4be9f3ce73bc9d39c462895588e/Offer_details_PT_status_indisponivel.jpg)
 
 O status *Indisponível* ocorre quando o anúncio é descartado, por estar inativo ou não incluído na [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) determinada para o canal.
 
 ### Status: Enviando
 
-![Offer details PT status enviando](https://images.ctfassets.net/alneenqid6w5/4sIUmJ2FxZ02SlOCPNYEi6/e0d021f8201b4188eb386d6de06bf4e5/Offer_details_PT_status_enviando.jpg)
+![Offer details PT status enviando](//images.ctfassets.net/alneenqid6w5/4sIUmJ2FxZ02SlOCPNYEi6/e0d021f8201b4188eb386d6de06bf4e5/Offer_details_PT_status_enviando.jpg)
 
 O status *Enviando* é um estado intermediário, quando anúncios ainda estão no processo de envio para o canal. Esse status envolve anúncios que estão sendo enviados pela primeira vez ao marketplace, estão migrando para um novo canal, ou foram reenviados após serem descartados em um canal.   
 
 ## Lista de Interações
 
-![Offer details PT lista interacoes](https://images.ctfassets.net/alneenqid6w5/78sdw5zgXZJL8aM9wMKqVE/323c0c9d2a17e850dca69cc70a4a00fb/Offer_details_PT_lista_interacoes.jpg)
+![Offer details PT lista interacoes](//images.ctfassets.net/alneenqid6w5/78sdw5zgXZJL8aM9wMKqVE/323c0c9d2a17e850dca69cc70a4a00fb/Offer_details_PT_lista_interacoes.jpg)
 
 A lista de *Interações* reúne todas as atualizações de `estoque`, `preço` ou `catálogo` que aquele SKU sofreu. É possível filtrar por origem e por status, além de ajustar quantos itens são mostrados por página. Cada linha corresponde a uma interação ocorrida àquele anúncio, e inclui os seguintes dados:
 

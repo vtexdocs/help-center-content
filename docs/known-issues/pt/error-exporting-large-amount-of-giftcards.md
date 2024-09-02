@@ -18,7 +18,9 @@ internalReference: 550658
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Erro de timeout ao tentar exportar uma grande quantidade de cartões presente, mesmo que o período de consulta seja curto.

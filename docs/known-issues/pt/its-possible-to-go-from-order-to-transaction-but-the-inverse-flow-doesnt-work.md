@@ -18,7 +18,9 @@ internalReference: 393483
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A "sequência", número que pode ser visto ao lado do número do pedido e também na transação, é responsável por ligar a transação ao pedido e ao inverso também.

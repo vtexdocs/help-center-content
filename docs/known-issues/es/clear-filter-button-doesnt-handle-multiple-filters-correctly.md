@@ -18,7 +18,9 @@ internalReference: 960905
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En algunos casos, como en páginas de destino y páginas de colección, los filtros adicionales no se borran correctamente después de hacer clic en el botón "Borrar filtro". La URL puede ir a filtros no válidos o erróneos y el listado de productos puede quedar vacío o con productos inesperados.

@@ -27,7 +27,9 @@ Entonces, vamos a modificar algunos datos del `orderForm` para ingresar una segu
 - Utilizando la biblioteca vtex.js.
 - Por medio de un request a la API del Checkout de VTEX.
 
->⚠️ Aunque es posible crear una interfaz personalizada superpuesta a la de VTEX, que contiene el segundo campo de dirección, no recomendamos hacerlo.
+<div class="alert alert-warning">
+Aunque es posible crear una interfaz personalizada superpuesta a la de VTEX, que contiene el segundo campo de dirección, no recomendamos hacerlo.
+</div>
 
 ## vtex.js
 

@@ -1,5 +1,5 @@
 ---
-title: "Status 'ERRO DE PROCESSAMENTO' Política de embarque"
+title: 'Status "ERRO DE PROCESSAMENTO" Política de embarque'
 id: 4g3SWNwDVJG5OeJVP05TOd
 status: PUBLISHED
 createdAt: 2022-05-18T15:12:15.503Z
@@ -18,7 +18,9 @@ internalReference: 445793
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um cenário relativo ao status da Política de Embarque após a criação/atualização dos valores de frete API. O status ainda pendente como "Erro no processamento" em caso de criação sem planilha de cálculo.

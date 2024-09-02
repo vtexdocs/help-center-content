@@ -18,7 +18,9 @@ internalReference: 444496
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O Portal Legacy CMS Redirect não funcionará se o URL From tiver parâmetros. Se o parâmetro for um utm_source, ele funcionará. Se o parâmetro for de qualquer outro tipo, não funcionará.

@@ -30,7 +30,9 @@ Este artigo apresenta algumas das principais práticas para você gerenciar sua 
     * [Participe da VTEX Community](#participe-da-vtex-community)
     * [Conheça boas práticas em solicitações do Suporte VTEX](#conheca-boas-praticas-em-solicitacoes-do-suporte-vtex)
 
->ℹ️ **Agências parceiras**Existem diversas agências e parceiros de implementação que foram certificados pela VTEX por terem demonstrado excelência e confiabilidade em projetos com a plataforma. Portanto, seja para uma implementação eficiente, uma arquitetura de loja personalizada ou para obter apoio contínuo na infraestrutura, recomendamos a contratação de agências parceiras. Para conferir nossos parceiros, acesse o [Partner Portal](https://partnerportal.vtex.com/parceiros) (somente português) ou acesse [VTEX.com](http://VTEX.com) (demais idiomas).
+<div class = "alert alert-info">
+<b>Agências parceiras</b><p>Existem diversas agências e parceiros de implementação que foram certificados pela VTEX por terem demonstrado excelência e confiabilidade em projetos com a plataforma. Portanto, seja para uma implementação eficiente, uma arquitetura de loja personalizada ou para obter apoio contínuo na infraestrutura, recomendamos a contratação de agências parceiras. Para conferir nossos parceiros, acesse o <a href="https://partnerportal.vtex.com/parceiros">Partner Portal</a> (somente português) ou acesse <a href="http://VTEX.com">VTEX.com</a> (demais idiomas).</p>
+</div>
 
 ## Performance e segurança
 
@@ -48,7 +50,9 @@ Os principais benefícios em criar uma documentação da arquitetura da sua oper
 * **Atuação rápida em questões de segurança:** a correção de problemas ou vulnerabilidades de segurança são mais rápidas quando a documentação da arquitetura é compartilhada.
 * **Otimização do suporte:** quando é necessário apoio do nosso suporte ou de terceiros, compartilhar a documentação da arquitetura facilita a comunicação entre as partes e a eficácia de sua atuação.
 
->ℹ️ Com relação a documentar a arquitetura da loja, veja a página [Get started](https://developers.vtex.com/docs/guides) no nosso portal para desenvolvedores, e conheça o [framework interativo](https://assets.vtex.com/4524045/) da plataforma VTEX.
+<div class = "alert alert-info">
+Com relação a documentar a arquitetura da loja, veja a página <a href="https://developers.vtex.com/docs/guides">Get started</a> no nosso portal para desenvolvedores, e conheça o <a href="https://assets.vtex.com/4524045/">framework interativo</a> da plataforma VTEX.
+</div>
 
 ### Siga as orientações gerais de segurança
 
@@ -58,7 +62,9 @@ Existem estratégias para prevenir e reduzir a exposição da sua loja ao risco 
 * **reCAPTCHA:** use o [reCAPTCHA](https://help.vtex.com/pt/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#) para se prevenir de fraudes com falsos usuários criados por programas maliciosos.
 * **Autenticação:** caso sua loja esteja sofrendo ataques recorrentes, considere desabilitar o login por senha e optar por outra forma de [autenticação](https://help.vtex.com/pt/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs) para os clientes da sua loja.
 
->ℹ️ Para mais informações sobre ações preventivas, veja o artigo [Boas práticas contra ataques virtuais](https://help.vtex.com/pt/tutorial/boas-praticas-contra-ataques-virtuais--191rpbF7UgrKapVCi1PCDE) e este [post na VTEX Community](https://community.vtex.com/t/duvidas-frequentes-varias-tentativas-de-compras-fraudulentas-o-que-fazer/39470).
+<div class = "alert alert-info">
+Para mais informações sobre ações preventivas, veja o artigo <a href="https://help.vtex.com/pt/tutorial/boas-praticas-contra-ataques-virtuais--191rpbF7UgrKapVCi1PCDE">Boas práticas contra ataques virtuais</a> e este <a href="https://community.vtex.com/t/duvidas-frequentes-varias-tentativas-de-compras-fraudulentas-o-que-fazer/39470">post na VTEX Community</a>.
+</div>
 
 ### Controle o nível de permissão de acessos
 
@@ -98,7 +104,9 @@ Alguns dos principais benefícios em se manter informado são:
 * Configurar as atualizações para aumentar a segurança da sua loja, pois inovamos continuamente visando a proteção do seu negócio.
 * Caso seja necessário contatar o suporte, conhecer o funcionamento dos novos recursos permite uma interação mais eficiente com o suporte, o que resulta em resoluções mais rápidas.
 
->ℹ️ Os anúncios da página **Novidades** do Help Center também são disponibilizados pelo seu Admin VTEX. Para acessar o conteúdo, basta clicar no ícone de sino no topo da página.
+<div class = "alert alert-info">
+Os anúncios da página <b>Novidades</b> do Help Center também são disponibilizados pelo seu Admin VTEX. Para acessar o conteúdo, basta clicar no ícone de sino no topo da página.
+</div>
 
 ### Receba notificações de status da plataforma
 
@@ -110,7 +118,9 @@ Para isso, a VTEX disponibiliza a [página de status da plataforma](https://stat
 * [Feed RSS](https://rss.com/blog/how-do-rss-feeds-work/)
 * [Slack](https://slack.com/)
 
->ℹ️ Para entender os detalhes da página de status da plataforma, acesse o artigo [Página de status da VTEX](https://help.vtex.com/pt/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ).
+<div class = "alert alert-info">
+Para entender os detalhes da página de status da plataforma, acesse o artigo <a href="https://help.vtex.com/pt/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ">Página de status da VTEX</a>.
+</div>
 
 ### Conheça nossos conteúdos de onboarding
 
@@ -155,5 +165,7 @@ Existem [boas práticas para abrir um ticket para o Suporte VTEX](https://help.v
 
 Estas recomendações são algumas das mais importantes. Para mais informações, veja o artigo [Boas práticas para a abertura de um Ticket para o Suporte VTEX](https://help.vtex.com/pt/tutorial/como-escrever-um-ticket-completo-para-o-suporte-vtex--6u4ehk6F0ksuDgYuCbFDRX).
 
->ℹ️ Para obter uma visão geral do nosso suporte via ticket, veja a trilha [Suporte na VTEX](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8), que compõe o **Guia de onboarding**.
+<div class = "alert alert-info">
+Para obter uma visão geral do nosso suporte via ticket, veja a trilha <a href="https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8">Suporte na VTEX</a>, que compõe o <b>Guia de onboarding</b>.
+</div>
 

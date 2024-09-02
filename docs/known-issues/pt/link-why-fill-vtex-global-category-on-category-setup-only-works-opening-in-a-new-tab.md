@@ -1,5 +1,5 @@
 ---
-title: "Link 'Por que preencher a categoria VTEX Global?' na configuração da categoria só funciona abrindo em uma nova aba"
+title: 'Link "Por que preencher a categoria VTEX Global?" na configuração da categoria só funciona abrindo em uma nova aba'
 id: 3u7aq2otUovQbO98lzjbus
 status: PUBLISHED
 createdAt: 2022-03-16T17:59:14.355Z
@@ -18,7 +18,9 @@ internalReference: 544034
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Link "Por que preencher VTEX Global Category?" na configuração da categoria só funciona abrindo em uma nova aba. tentar abrir apenas clicando no link irá redirecionar para uma página de erro.

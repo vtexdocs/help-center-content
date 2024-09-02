@@ -18,7 +18,9 @@ internalReference: 931246
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 As solicitações HTTP de navegação da loja não respeitam o cookie de seleção de espaço de trabalho durante a sessão. Na verdade, durante uma única sessão, um usuário pode receber respostas de todos os espaços de trabalho que estão sendo testados.
 

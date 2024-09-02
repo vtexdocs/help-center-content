@@ -1,5 +1,5 @@
 ---
-title: "Crédito ao cliente 'Total devido' atualização do valor de acordo com a paginação"
+title: 'Crédito ao cliente "Total devido" atualização do valor de acordo com a paginação'
 id: 6faMqwY8yHsIdYjkwTgCCQ
 status: PUBLISHED
 createdAt: 2022-03-27T20:52:29.371Z
@@ -18,7 +18,9 @@ internalReference: 432587
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O valor "Total devido" em uma conta de Crédito ao Cliente não está mostrando o valor total, mas sim o valor total na paginação atual da IU

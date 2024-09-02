@@ -15,7 +15,9 @@ legacySlug: como-configurar-assinatura-v2
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
 
->ℹ️ A instalação do módulo Assinaturas é feita por meio de solicitação ao [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+<div class = "alert alert-info">
+A instalação do módulo Assinaturas é feita por meio de solicitação ao <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
+</div>
 
 O sistema de __Assinaturas__ é um aplicativo desenvolvido pela VTEX para facilitar as vendas recorrentes. Funciona como um agendador automático, repetindo um pedido na frequência desejada pelo cliente da sua loja.
 
@@ -32,7 +34,9 @@ Para ativar a funcionalidade será necessário:
 
 ## 1. Instalar o app de Assinaturas
 
->⚠️ No momento, a instalação do módulo Assinaturas é feita somente por solicitação ao [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+<div class="alert alert-warning">
+No momento, a instalação do módulo Assinaturas é feita somente por solicitação ao <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
+</div>
 
 Para instalar o app gratuito de Assinaturas na [VTEX App Store](https://apps.vtex.com/), siga os passos abaixo:
 
@@ -59,7 +63,9 @@ Atualmente, os seguintes meios de pagamento estão habilitados para pedidos de a
 * **Boleto Bancário**
 * **Cartão de Crédito**
 
->ℹ️ Para disponibilizar a opção de pagamento **Cartão de Crédito**, entre em contato com o adquirente da sua loja e certifique-se que ele aceita transações de compras recorrentes oriundas de cartões tokenizados (sem CVV). O sistema de **Assinaturas** utilizará os mesmos dados do cartão da primeira compra para realizar os pedidos seguintes da assinatura, garantindo a segurança de todo o processo.
+<div class="alert alert-info">
+  <p>Para disponibilizar a opção de pagamento <strong>Cartão de Crédito</strong>, entre em contato com o adquirente da sua loja e certifique-se que ele aceita transações de compras recorrentes oriundas de cartões tokenizados (sem CVV). O sistema de <strong>Assinaturas</strong> utilizará os mesmos dados do cartão da primeira compra para realizar os pedidos seguintes da assinatura, garantindo a segurança de todo o processo.</p>
+</div>
 
 Para habilitar esse tipo de transação no conector, o gestor da loja deverá solicitar ao adquirente a liberação para transacionar pagamentos recorrentes. Confira o nosso artigo sobre [Cadastrar afiliações de gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444).
 
@@ -73,7 +79,9 @@ Existe uma outra opção para criar um plano de assinatura, que consiste em cria
 
 Existe uma série de recursos relacionados a assinaturas, disponíveis no módulo de **Perfis de Acesso** da sua loja. São esses recursos que permitem o acesso dos usuários do seu Admin VTEX a determinadas funcionalidades, para operarem o módulo de Assinaturas. Para saber mais sobre perfis de acesso, confira o nosso [artigo](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
 
->⚠️ Se o usuário não tiver as permissões necessárias para acessar os dados das telas de **Assinaturas**, o sistema exibe um alerta informando que ele não tem essas permissões, e o usuário não consegue ver os dados.
+<div class="alert alert-warning">
+<p>Se o usuário não tiver as permissões necessárias para acessar os dados das telas de <strong>Assinaturas</strong>, o sistema exibe um alerta informando que ele não tem essas permissões, e o usuário não consegue ver os dados.</p>
+</div>
 
 Veja a tabela abaixo para saber quais são os recursos relacionados ao módulo de Assinaturas.
 

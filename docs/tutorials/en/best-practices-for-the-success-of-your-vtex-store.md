@@ -30,7 +30,9 @@ This article presents key practices to help you manage your VTEX store efficient
     * [Join the VTEX Community](#join-the-vtex-community)
     * [Learn best practices for VTEX Support requests](#learn-best-practices-for-vtex-support-requests)
 
->ℹ️ **Partner agencies**Several agencies and implementation partners have been certified by VTEX for demonstrating excellence and reliability in platform projects. Whether you need efficient implementation, customized store architecture, or ongoing infrastructure support, we recommend working with our partner agencies. To explore our partners, visit [vtex.com](http://vtex.com) or the [Partner Portal](https://partnerportal.vtex.com/parceiros) (available in Portuguese only).
+<div class = "alert alert-info">
+<b>Partner agencies</b><p>Several agencies and implementation partners have been certified by VTEX for demonstrating excellence and reliability in platform projects. Whether you need efficient implementation, customized store architecture, or ongoing infrastructure support, we recommend working with our partner agencies. To explore our partners, visit <a href="http://vtex.com">vtex.com</a> or the <a href="https://partnerportal.vtex.com/parceiros">Partner Portal</a> (available in Portuguese only).</p>
+</div>
 
 ## Performance and security
 
@@ -48,7 +50,9 @@ The main benefits of creating and maintaining updated documentation of the opera
 * **Quick action on security issues:** Addressing security issues or vulnerabilities is more efficient when architecture documentation is available.
 * **Support optimization:** When support from our team or third parties is needed, sharing the architecture documentation streamlines communication between parties and increases the effectiveness of their efforts.
 
->ℹ️ For guidelines on documenting your store architecture, see the [Get started](https://developers.vtex.com/docs/guides) page on our Developer Portal and learn about the [interactive framework](https://assets.vtex.com/4524045/) of the VTEX platform.
+<div class = "alert alert-info">
+For guidelines on documenting your store architecture, see the <a href="https://developers.vtex.com/docs/guides">Get started</a> page on our Developer Portal and learn about the <a href="https://assets.vtex.com/4524045/">interactive framework</a> of the VTEX platform.
+</div>
 
 ### Follow security guidelines
 
@@ -58,7 +62,9 @@ There are strategies to prevent and reduce store exposure to the risk of malicio
 * **reCAPTCHA:** Use [reCAPTCHA](https://help.vtex.com/en/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#) to prevent fraud involving fake user accounts created by malicious software.
 * **Authentication:** If your store has been experiencing recurrent attacks, consider disabling password login and opting for alternative [authentication](https://help.vtex.com/en/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs) methods for your customers.
 
->ℹ️ For more information about preventive actions, see the article [Best practices against virtual attacks](https://help.vtex.com/en/tutorial/boas-praticas-contra-ataques-virtuais--191rpbF7UgrKapVCi1PCDE) and this [post](https://community.vtex.com/t/duvidas-frequentes-varias-tentativas-de-compras-fraudulentas-o-que-fazer/39470) on VTEX Community (available in Portuguese).
+<div class = "alert alert-info">
+For more information about preventive actions, see the article <a href="https://help.vtex.com/en/tutorial/boas-praticas-contra-ataques-virtuais--191rpbF7UgrKapVCi1PCDE">Best practices against virtual attacks</a> and this <a href="https://community.vtex.com/t/duvidas-frequentes-varias-tentativas-de-compras-fraudulentas-o-que-fazer/39470">post</a> on VTEX Community (available in Portuguese).
+</div>
 
 ### Manage access permission levels
 
@@ -98,7 +104,9 @@ Some of the main advantages of staying up to date are:
 * Configure updates to increase store security, as we continually innovate to protect your business operation.
 * If you need to contact support, familiarity with new features allows you to interact more efficiently with our support team, resulting in quicker solutions.
 
->ℹ️ The announcements from the Help Center **News** page are also accessible through your VTEX Admin. To view this content, click the bell icon at the top of the page.
+<div class = "alert alert-info">
+The announcements from the Help Center <b>News</b> page are also accessible through your VTEX Admin. To view this content, click the bell icon at the top of the page.
+</div>
 
 ### Receive platform status notifications
 
@@ -110,7 +118,9 @@ For this purpose, VTEX provides a [platform status page](https://status.vtex.com
 * [RSS feed](https://rss.com/blog/how-do-rss-feeds-work/)
 * [Slack](https://slack.com/)
 
->ℹ️ For moreninformation about the platform status page, see the article [VTEX Status Page](https://</a>help.vtex.com/en/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ).
+<div class = "alert alert-info">
+For moreninformation about the platform status page, see the article <a href="https://</a>help.vtex.com/en/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ">VTEX Status Page</a>.
+</div>
 
 ### Explore our onboarding content
 
@@ -155,5 +165,7 @@ These are the [best practices for opening a ticket with VTEX Support](https://he
 
 These are some of the most important recommendations. For more information, see the article [Best practices for opening a ticket with VTEX Support](https://help.vtex.com/en/tutorial/como-escrever-um-ticket-completo-para-o-suporte-vtex--6u4ehk6F0ksuDgYuCbFDRX).
 
->ℹ️ For an overview of our ticket support system, check the [VTEX Support](https://help.vtex.com/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) track in the **Onboarding guide**.
+<div class = "alert alert-info">
+For an overview of our ticket support system, check the <a href="https://help.vtex.com/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8">VTEX Support</a> track in the <b>Onboarding guide</b>.
+</div>
 

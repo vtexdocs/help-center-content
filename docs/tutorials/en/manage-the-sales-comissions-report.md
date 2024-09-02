@@ -19,7 +19,9 @@ The sales commission report is a feature that creates a .xlsx document listing t
 
 This article will explain how to generate sales commission reports and how to schedule periodic reports.
 
->⚠️ Before proceeding to the configuration, check with your Customer Success Manager (CSM) if the sales commission report feature has been incorporated into your Admin.
+<div class="alert alert-warning">
+Before proceeding to the configuration, check with your Customer Success Manager (CSM) if the sales commission report feature has been incorporated into your Admin.
+</div>
 
 ## Generating sales commission reports 
 
@@ -41,7 +43,9 @@ Proceed to the next steps:
 7. Fill in the __"Email address"__ field.
 8. Click on the __"Generate"__ button.
 
->❗ It is mandatory to set a start date and an end date. Otherwise, the sales commission report will not be generated.
+<div class="alert alert-danger">
+It is mandatory to set a start date and an end date. Otherwise, the sales commission report will not be generated.
+</div>
 
 <div cladd="alert alert-info">
 If you do not want to receive the report by email, do not select the "Receive by email" checkbox. 
@@ -53,9 +57,11 @@ The message "Your report was successfully generated" will be displayed on the sc
 
 Generating the report may take a while if the volume of data is big. In such cases, you can follow the processing as in the image below. 
 
->ℹ️ Leaving the page will not affect the operation.
+<div class="alert alert-info">
+Leaving the page will not affect the operation.
+</div>
 
-![Sales Comission Report EN](https://images.ctfassets.net/alneenqid6w5/3WoTE8ibcuYshdJf5sT6KV/e30dfb7f7de7b6dbcd506782e405d470/image.png)
+![Sales Comission Report EN](//images.ctfassets.net/alneenqid6w5/3WoTE8ibcuYshdJf5sT6KV/e30dfb7f7de7b6dbcd506782e405d470/image.png)
 
 Later, you can also download the recently generated report using a link provided in the list of reports.  
 
@@ -64,9 +70,13 @@ There are situations in which the marketplace needs to analyze its commissions f
 
 For this reason, you can schedule reports to be generated automatically every predetermined time period. 
 
->⚠️ In the Commissions module, only one schedule can be made per account.
+<div class="alert alert-warning">
+In the Commissions module, only one schedule can be made per account.
+</div>
 
->ℹ️ Scheduling is an optional feature. You can still generate reports manually if you do not schedule them.
+<div class="alert alert-info">
+Scheduling is an optional feature. You can still generate reports manually if you do not schedule them.
+</div>
 
 Once you are in the Commissions module, click on the "Schedule" button on the right side of the screen. A modal window will be displayed.
 

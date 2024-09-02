@@ -18,7 +18,9 @@ internalReference: 455218
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em alguns cenários, é possível que, mesmo que o recurso LeanShipping esteja desativado nas configurações, o sistema ainda considere necessário agrupar as opções de envio e, com isso, não desative o LeanShipping, isso porque a regra usada pelo sistema para definir o uso ou não do LeanShipping além da configuração está ativada ou desativada e há SLAs iguais ou diferentes disponíveis para os itens do carrinho;

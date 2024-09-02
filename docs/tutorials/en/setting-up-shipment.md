@@ -17,7 +17,9 @@ subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 
 This configuration is widely used when a large volume of orders ends up generating a considerable logistic demand, so it's possible for a package to wait during the preparation time of another package, so they may be sent in a group, by the same transporter, to a final destination.
 
->⚠️ The shipping groups are raised by the sum of the time cost from inventory to warehouse dock and the detention time of the dock itself.
+<div class="alert alert-warning">
+The shipping groups are raised by the sum of the time cost from inventory to warehouse dock and the detention time of the dock itself.
+</div>
 
 In the image below we see a __6 days__ shipment configuration. Each box represents the cost in days of a package, considering only the __stock and the dock cost.__
 
@@ -25,7 +27,7 @@ The first box with a total time of __2 days__ will wait for the item represented
 
 The period considers T = 0 as the date of the order.
 
-![Configuração em estoque e entrega EN](https://images.ctfassets.net/alneenqid6w5/2lvFxIIkeZtgpqm66yRiyf/c529a129854fed2bf8c6309e132bb0c4/Configura____o_em_estoque_e_entrega_EN.png)
+![Configuração em estoque e entrega EN](//images.ctfassets.net/alneenqid6w5/2lvFxIIkeZtgpqm66yRiyf/c529a129854fed2bf8c6309e132bb0c4/Configura____o_em_estoque_e_entrega_EN.png)
 
 ## How to set up the shipment
 

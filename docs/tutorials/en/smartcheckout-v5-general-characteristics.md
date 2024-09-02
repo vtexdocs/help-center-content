@@ -53,7 +53,9 @@ You can use the files `checkout5-custom.js` and `orderplaced2-custom.js` in o
 4. In the __Files__ menu, located on the right side of the page, click on the ones you want to make adjustments to the code.
 5. Click the `Save` button.
 
->⚠️ Customizing JavaScript files can damage your Checkout. VTEX **does not recommend** customizations and doesn't take responsibility for any damage caused by this code.
+<div class="alert alert-warning">
+  Customizing JavaScript files can damage your Checkout. VTEX <b>does not recommend</b> customizations and doesn't take responsibility for any damage caused by this code.
+</div>
 
 __IMPORTANT:__ Do not use these files to insert marketing and integration tags. In case you need them, do so through Google Tag Manager.
 

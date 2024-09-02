@@ -50,7 +50,9 @@ Como a VTEX é responsável por processar transações da sua loja, todas as tra
 - Tag de transação dispara mesmo com transações que não foram concluídas com sucesso.
 - Falha ou duplicidade na exibição da página de confirmação do pedido, caso a tag de transação esteja vinculada à exibição desta página.
 
->ℹ️ Considere também que há um atraso de até 48h no registro de dados de transações no Google Analytics.
+<div class = "alert alert-info">
+Considere também que há um atraso de até 48h no registro de dados de transações no Google Analytics.
+</div>
 
 Além disso, integrações podem ser construídas de modo que acabem não disparando certas tags na sua frente de loja. Por exemplo, há integrações que usam um [app de pagamento](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-payment-app) e finalizam a compra sem direcionar o cliente à página de confirmação de pedido, como a integração desenvolvida pela AME Digital. Transações sempre serão registradas na VTEX, mas, nesse caso, é provável que não seja registrada no Google Analytics, gerando divergência.
 

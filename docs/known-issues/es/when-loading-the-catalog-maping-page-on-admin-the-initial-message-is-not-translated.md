@@ -1,5 +1,5 @@
 ---
-title: "Al cargar la página 'Catalog Maping' en admin no se traduce el mensaje inicial"
+title: 'Al cargar la página "Catalog Maping" en admin no se traduce el mensaje inicial'
 id: 4WszmRZ5jpeSDNTEuFIdwF
 status: PUBLISHED
 createdAt: 2022-12-15T12:32:17.741Z
@@ -18,7 +18,9 @@ internalReference: 717066
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

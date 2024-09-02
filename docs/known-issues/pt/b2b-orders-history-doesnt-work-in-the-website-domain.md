@@ -18,7 +18,9 @@ internalReference: 849394
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O histórico de pedidos B2B não funciona no domínio do site, mostrando a mensagem "Você não tem permissão para acessar isso".

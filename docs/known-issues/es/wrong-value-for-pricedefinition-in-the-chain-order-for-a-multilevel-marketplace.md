@@ -18,7 +18,9 @@ internalReference: 663203
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La propiedad "priceDefinition" para órdenes en el nivel "cadena" en un mercado multinivel no está siguiendo el "sellingPrice" como se esperaba. En su lugar, está siguiendo la propiedad "precio".

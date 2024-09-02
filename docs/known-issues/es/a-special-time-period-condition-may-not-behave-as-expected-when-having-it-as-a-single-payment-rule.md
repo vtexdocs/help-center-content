@@ -18,7 +18,9 @@ internalReference: 712575
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Todo el almacenamiento en caché combinado con la función de fecha de caducidad puede causar un comportamiento muy extraño para nuestros compradores durante el pago. Los mayores problemas provienen de la forma en que la pasarela indexa los métodos de pago:

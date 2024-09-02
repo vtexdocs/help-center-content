@@ -18,7 +18,9 @@ internalReference: 797651
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o sinalizador RequiresAuthenticationToLoadProfile das APIs de checkout com um aplicativo de televendas para personificar usuários, não está sendo acionado nenhum tipo de feedback para o usuário se a personificação foi feita com sucesso e causa algumas inconsistências no fluxo

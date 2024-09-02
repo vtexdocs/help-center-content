@@ -25,7 +25,9 @@ Para cada uno de estos métodos de pago existen diferentes requisitos de configu
     - __Klarna__: es necesario [configurar la afiliación Klarna](/es/tutorial/setting-up-klarna-pay-now-y-klarna-pay-later-as-payment-method#configurar-afiliacion-klarna) y instalar la aplicación _vtexdemoemea.klarna@2.0.9_ (o una versión superior) en su tienda. Obtenga más información sobre cómo instalar la aplicación en [Installing an app](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-installing-an-app).
     - __Adyen__: es necesario [configurar la afiliación Adyen](https://help.vtex.com/es/tutorial/how-to-configure-the-adyen-gateway-on-vtex--tutorials_2337). Para completar esta configuración, solicite a Adyen que habilite el campo __Live Endpoint URL Prefix__ en su tienda e rellene el de acuerdo con la información descrita en [esta documentación de Adyen](https://www.adyen.help/hc/en-us/articles/360014322079-How-can-I-find-the-endpoint-URL-for-my-LIVE-account-).
 
->⚠️ Las soluciones Klarna Pay Now y Klarna Pay Later solo están habilitadas para SmartCheckout V6, y solamente los clientes del mercado europeo y estadounidense pueden utilizarlas. Estos medios de pago no son aplicables para clientes brasileños.
+<div class="alert alert-warning">
+Las soluciones Klarna Pay Now y Klarna Pay Later solo están habilitadas para SmartCheckout V6, y solamente los clientes del mercado europeo y estadounidense pueden utilizarlas. Estos medios de pago no son aplicables para clientes brasileños.
+</div>
 
 ## Configurar afiliación Klarna 
 
@@ -39,7 +41,9 @@ Para configurar la afiliación Klarna, siga las instrucciones a continuación:
 6. Rellene los campos de registro __Application Key__ y __Application Token__ con la información proporcionada por el proveedor de pago Klarna.
 7. Haga clic en __Guardar__.  
 
->⚠️ Si utiliza el conector de Klarna en un ambiente de Prueba, el campo **Application Key** debe ser configurado como <i>playground.{Klarna User}</i>. Cuando se utiliza en un ambiente de Producción, el campo **Application Key** debe ser su <i>Klarna User</i>.
+<div class="alert alert-warning">
+  Si utiliza el conector de Klarna en un ambiente de Prueba, el campo <b>Application Key</b> debe ser configurado como <i>playground.{Klarna User}</i>. Cuando se utiliza en un ambiente de Producción, el campo <b>Application Key</b> debe ser su <i>Klarna User</i>.
+</div>
 
 ## Configurar Klarna Pay Now
 

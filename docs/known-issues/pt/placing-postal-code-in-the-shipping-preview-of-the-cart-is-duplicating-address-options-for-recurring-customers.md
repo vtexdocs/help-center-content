@@ -18,7 +18,9 @@ internalReference: 956338
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Temos alguns problemas quando se trata de colocar códigos postais no módulo **Shipping Preview** no carrinho, alguns deles estão descritos nestes KIs:

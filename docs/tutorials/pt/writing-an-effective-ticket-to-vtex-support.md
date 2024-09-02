@@ -49,14 +49,16 @@ Para verificar se o problema está associado ao IO siga os passos abaixo:
       ```
     vtex uninstall {tema}
      ```
-    >ℹ️ Você pode conferir se existe algum tema instalado usando o comando `vtex list`, que lista todos os aplicativos instalados na loja.
+    <div class="alert alert-info">
+    Você pode conferir se existe algum tema instalado usando o comando <code>vtex list</code>, que lista todos os aplicativos instalados na loja.
+    </div>
 4. Clone o tema padrão do Store Framework no seu computador.
 5. No prompt de comando, acesse a pasta do tema padrão.
 6. Rode o comando:
     ```
     vtex link
     ```
-   >⚠️ Se a sua loja não possui o aplicativo Reviews and Ratings instalado, você pode receber um erro ao tentar linkar. Para evitar isso, remova este app da lista de `peer dependencies` do arquivo `manifest.json` do tema padrão.
+   <div class="alert alert-warning"> Se a sua loja não possui o aplicativo Reviews and Ratings instalado, você pode receber um erro ao tentar linkar. Para evitar isso, remova este app da lista de `peer dependencies` do arquivo `manifest.json` do tema padrão.   </div>
 7. Acesse a frente de loja relativa ao seu workspace, usando a URL:
     ```
     https://{workspace}--{accountName}.myvtex.com

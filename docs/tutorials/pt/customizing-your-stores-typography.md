@@ -18,20 +18,24 @@ subcategory: 5HsDDU48ZP58JHWU3WbCPc
 A tipografia da sua loja online é uma ferramenta para mostrar a identidade de sua marca para os seus clientes. 
 No Admin, você tem flexibilidade para personalizar a tipografia da sua loja de acordo com as necessidades de seu negócio.
 
->⚠️ Lembre-se de que as mudanças realizadas na tipografia da sua loja no **Storefront** substituem as mudanças de tipografia feitas no código da loja. Por favor, entre em contato com sua equipe de desenvolvimento e certifique-se de que essas mudanças serão definidas no Storefront ou pelo código da sua loja.
+<div class="alert alert-warning">
+  <p>Lembre-se de que as mudanças realizadas na tipografia da sua loja no <b>Storefront</b> substituem as mudanças de tipografia feitas no código da loja. Por favor, entre em contato com sua equipe de desenvolvimento e certifique-se de que essas mudanças serão definidas no Storefront ou pelo código da sua loja.</p>
+</div>
 
 ## Adicionar famílias de fontes personalizadas
 
 1. No Admin VTEX, acesse **Storefront > Styles (Estilos)**.
 2. Selecione o ícone kebab (três pontos).
 
-![Styles - Mais opções](https://images.ctfassets.net/alneenqid6w5/7qhmfxaMzZ8Aw0F6mygs2i/e6f569468bccb9c85c309acd4b9fb066/styles-two-pt.png)
+![Styles - Mais opções](//images.ctfassets.net/alneenqid6w5/7qhmfxaMzZ8Aw0F6mygs2i/e6f569468bccb9c85c309acd4b9fb066/styles-two-pt.png)
 
 3. Clique em **Edit (Editar) > Typography (Tipografia) > Font Family (Família da fonte)**.
 
 4. Depois, clique em **Add custom font (Adicionar fonte personalizada)** e faça o upload do arquivo da fonte desejada. No campo **Font Family (Família da fonte)**, crie um nome para a fonte.
 
->⚠️ O arquivo da família de fontes deve ser baixado nas seguintes extensões de arquivo: <i>.ttf</i> ou <i>.woff</i>.
+<div class="alert alert-warning">
+  <p>O arquivo da família de fontes deve ser baixado nas seguintes extensões de arquivo: <i>.ttf</i> ou <i>.woff</i>.</p>
+</div>
 
 5. Clique em `Save` (Salvar) para salvar as mudanças. 
 
@@ -47,7 +51,7 @@ Consulte a seção [Tokens de tipo](#type-tokens) para obter mais informações 
 2. Selecione o ícone kebab (três pontos).
 3. Clique em **Edit (Editar) > Typography (Tipografia) > Type Tokens (Tokens de tipo)**.
 
-![Styles - Type tokens PT](https://images.ctfassets.net/alneenqid6w5/6kw7SMB36fZsS0SKX00Kss/13e59fcc04d2034ff8e2c9928c165354/styles-three-pt.gif)
+![Styles - Type tokens PT](//images.ctfassets.net/alneenqid6w5/6kw7SMB36fZsS0SKX00Kss/13e59fcc04d2034ff8e2c9928c165354/styles-three-pt.gif)
 
 4. Escolha o tipo de ficha que você deseja personalizar como, por exemplo, **Heading 1** (Cabeçalho 1), e clique nele.
 

@@ -18,7 +18,9 @@ internalReference: 582070
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Interagir com um orderForm na situação específica em que os dados do cliente foram importados automaticamente após o login removerá seus dados do orderForm, mesmo para "superusuários", identificados por suas appKeys.

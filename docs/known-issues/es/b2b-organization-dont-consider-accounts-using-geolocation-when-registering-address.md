@@ -18,7 +18,9 @@ internalReference: 904907
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La Organización B2B no tiene nada para configurar una dirección cuando las cuentas usan geolocalización, causando que los artículos no estén disponibles.

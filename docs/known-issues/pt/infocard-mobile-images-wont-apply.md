@@ -18,7 +18,9 @@ internalReference: 909647
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando você altera a imagem em um infocard para ser exibida na versão móvel, ela não será exibida. Em vez disso, a imagem principal continua sendo exibida.

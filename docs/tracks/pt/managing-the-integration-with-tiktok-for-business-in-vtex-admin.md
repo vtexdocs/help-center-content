@@ -18,7 +18,7 @@ Após instalar e configurar o TikTok for Business, você poderá gerenciar a int
 
 Qualquer usuário logado no Admin VTEX poderá acessar essa área de gerenciamento do TikTok. Porém, ao interagir com os botões dessa área, o usuário será redirecionado para ambientes do TikTok – TikTok Business Center, TikTok Ads Manager e TikTok Catalog Manager – onde precisam das permissões necessárias para visualizar o conteúdo e realizar alterações.
 
-![manage-tiktok-integration](https://images.ctfassets.net/alneenqid6w5/6E7w4iV9rZX57u2AlG610O/0467f2bd0f4885991ec571a38218a2fb/image1.png)
+![manage-tiktok-integration](//images.ctfassets.net/alneenqid6w5/6E7w4iV9rZX57u2AlG610O/0467f2bd0f4885991ec571a38218a2fb/image1.png)
 
 A partir dessa página, é possível:
 
@@ -73,12 +73,11 @@ Ao desconectar, a sua integração com o TikTok é interrompida por completo: o 
 
 Por outro lado, os produtos já existentes não são excluídos do TikTok pela VTEX, ou seja, continuam aparecendo no TikTok. Para eliminá-los do TikTok, é necessário excluir manualmente os produtos no [TikTok Catalog Manager](https://ads.tiktok.com/help/article?aid=10001005).
 
->⚠️ Caso apareça uma mensagem de erro ao desconectar o TikTok da sua loja VTEX, siga os passos abaixo para garantir que a integração será desabilitada corretamente.
->
-> Acesse a página [Autorizações](https://ads.tiktok.com/ac/page/authorizations) no TikTok Ads Manager.
->
-> 2. Encontre a opção **VTEX**.
->
-> 3. Clique em `Remover`.
+<div class="alert alert-warning">
+<p> Caso apareça uma mensagem de erro ao desconectar o TikTok da sua loja VTEX, siga os passos abaixo para garantir que a integração será desabilitada corretamente.</p>
+<ol><li>Acesse a página <a href="https://ads.tiktok.com/ac/page/authorizations">Autorizações</a> no TikTok Ads Manager.</li>
+  <li>Encontre a opção <strong>VTEX</strong>.</li>
+  <li>Clique em <code>Remover</code>.</li></ol>
+</div>
 
 Após desconectar, é possível reconectar a integração a qualquer momento refazendo os passos descritos em [Configurar a integração com o TikTok for Business](https://help.vtex.com/pt/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC).

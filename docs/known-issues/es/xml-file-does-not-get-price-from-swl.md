@@ -18,7 +18,9 @@ internalReference: 425027
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si creamos un archivo XML en un MarketPlace que cargue los precios de la marca blanca de los vendedores, nuestro XML no mostrará estos precios

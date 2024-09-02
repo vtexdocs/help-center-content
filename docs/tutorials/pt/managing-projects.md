@@ -17,13 +17,15 @@ subcategory: 27t6x0lngvjI3bnUg5AgEO
 
 Projetos é uma funcionalidade do VTEX Headless CMS que simplifica o gerenciamento de vários projetos de frontend, como aplicativos móveis, sites e email marketing em uma única tela.
 
-![Projects pages](https://images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/b5bd29ece472c96fceb0aefb71a5365a/projects-one-pt-certo.gif)
+![Projects pages](//images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/b5bd29ece472c96fceb0aefb71a5365a/projects-one-pt-certo.gif)
 
 Cada projeto tem suas configurações, conteúdo e marca personalizados de acordo com públicos ou objetivos específicos.
 
 Neste guia, você aprenderá como gerenciar cada projeto de frontend da sua loja.
 
->⚠️ [ FastStore WebOps usuários](https://developers.vtex.com/docs/guides/faststore/1-onboarding-overview):As alterações feitas pelo Headless CMS no VTEX Admin, como a criação de novos tipos de conteúdo (content types), a adição de seções ou a atualização de campos, podem não aparecer automaticamente na loja uma vez que você as publique. Isso é um problema conhecido, e você deve entrar em contato com sua equipe de desenvolvimento para implementar a solução necessária. Para instruções detalhadas, consulte o artigo de problema conhecido [ O aplicativo WebOps não está totalmente integrado com o Headless CMS](https://help.vtex.com/pt/known-issues/webops-app-is-not-fully-integrated-with-headless-cms--577fIocKB9BYYCOkN9dZfW).
+<div class="alert alert-warning">
+  <a href="https://developers.vtex.com/docs/guides/faststore/1-onboarding-overview"> FastStore WebOps usuários</a>:As alterações feitas pelo Headless CMS no VTEX Admin, como a criação de novos tipos de conteúdo (content types), a adição de seções ou a atualização de campos, podem não aparecer automaticamente na loja uma vez que você as publique. Isso é um problema conhecido, e você deve entrar em contato com sua equipe de desenvolvimento para implementar a solução necessária. Para instruções detalhadas, consulte o artigo de problema conhecido <a href="https://help.vtex.com/pt/known-issues/webops-app-is-not-fully-integrated-with-headless-cms--577fIocKB9BYYCOkN9dZfW"> O aplicativo WebOps não está totalmente integrado com o Headless CMS</a>.
+</div>
 
 ## Antes de começar
 Certifique-se de que os [recursos](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings` e `CMS GraphQL API` estão associados ao seu [Perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete). Do contrário, [crie um perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
@@ -31,7 +33,7 @@ Certifique-se de que os [recursos](https://help.vtex.com/pt/tutorial/license-man
 ## Visão geral
 Para acessar a página de **Projetos**, entre no VTEX Admin e clique em **Storefront > Headless CMS**.
 
-![Projects overview](https://images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/c5a1f1ba3077c11504d9f78c1712c59e/projects-two-pt.png)
+![Projects overview](//images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/c5a1f1ba3077c11504d9f78c1712c59e/projects-two-pt.png)
 
 | Opção               | Descrição                                              |
 | ------------------- | ------------------------------------------------------ |
@@ -114,7 +116,7 @@ Para arquivar um projeto, siga os passos abaixo:
 2. Escolha o projeto que deseja arquivar e clique em **Configurações** (⚙️). Isso abrirá um modal.
 
 3. No modal, clique em `Arquivar projeto` na página `Geral`. Uma mensagem pop-up aparecerá confirmando se você deseja arquivar o projeto.
-![Arquivar projeto](https://images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/c7410dbcff84549da3a15720a0ce68ed/projects-three-pt.png)
+![Arquivar projeto](//images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/c7410dbcff84549da3a15720a0ce68ed/projects-three-pt.png)
 4. Clique em `Arquivar`. Em seguida, será exibida uma mensagem informando que o projeto foi arquivado com sucesso.
 
 Para restaurar um projeto arquivado, siga os passos em [Restaurar projeto](#restaurar-projeto).

@@ -15,14 +15,18 @@ legacySlug: configurar-google-analytics-4-em-loja-vtex-no-cms-portal-legado
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---
 
->ℹ️ Este artigo se aplica somente a lojas que utilizam o [CMS - Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
+<div class="alert alert-info">
+  <p>Este artigo se aplica somente a lojas que utilizam o <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS - Portal Legado</a>.</p>
+</div>
 
 O [Google Analytics 4](https://support.google.com/analytics/answer/10089681) (GA4) é a versão atual da ferramenta de análise de dados do Google.  Para obter dados sobre a navegação em sua loja VTEX pelo Google Analytics 4, você precisa:
 
 - [Configurar Google Analytics 4](#configurar-google-analytics-4)
 - [Editar configurações do Checkout](#editar-configuracoes-do-checkout)
 
->⚠️ A partir de 1º de julho de 2023, o Google Analytics 4 vai substituir o Universal Analytics, versão anterior da ferramenta. Portanto, é necessário seguir este tutorial para adaptar a sua loja. Confira detalhes sobre a mudança [neste comunicado do Google](https://support.google.com/analytics/answer/11583528).
+<div class="alert alert-warning">
+  <p>A partir de 1º de julho de 2023, o Google Analytics 4 vai substituir o Universal Analytics, versão anterior da ferramenta. Portanto, é necessário seguir este tutorial para adaptar a sua loja. Confira detalhes sobre a mudança <a href="https://support.google.com/analytics/answer/11583528">neste comunicado do Google</a>.</p>
+</div>
 
 ## Configurar Google Analytics 4
 

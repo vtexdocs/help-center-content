@@ -18,7 +18,9 @@ internalReference: 408140
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Na nova UI de administração de coleções, quando um usuário tenta reordenar a exibição de pedidos de produtos, a mutação GraphQL do catálogo que executa essa ação geralmente falha

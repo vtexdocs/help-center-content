@@ -18,7 +18,9 @@ internalReference: 1070336
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se um item for adicionado ao carrinho como uma opção (também conhecida como filho) das Opções de montagem, e o mesmo item for adicionado ao carrinho como um item normal, os preços serão misturados e cada um será aplicado ao item incorreto.

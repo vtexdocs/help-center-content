@@ -15,7 +15,7 @@ legacySlug: configurar-boleto-registrado-itau-itau-registrado
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->❗ Esta integración de pago ya no se puede configurar en la plataforma debido al [proceso de descontinuación de los proveedores legados](https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14) y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.
+<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
 
 Para configurar el boleto registrado de Itaú, usted puede elegir entre dos conectores diferentes: __Invoice Itaú__ (también conocido como Itaú Registrado o Boleto Itaú, que vas a aprender a configurar en este artículo) o el [ItauShopline](https://help.vtex.com/es/tutorial/configurar-boleto-registrado-itau--3TqzCHPU7KIYGsOKuUeQcq). En el caso del __Invoice Itaú__, la generación del boleto es hecha de forma transparente (sin redireccionamiento para el sitio del Itaú), pero la conciliación es hecha a través de archivos.
 

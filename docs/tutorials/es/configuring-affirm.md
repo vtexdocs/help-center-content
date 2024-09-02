@@ -19,7 +19,9 @@ subcategory:
 
 Al realizar una compra y escoger Affirm como método de pago, el comprador pasará por un análisis de crédito y, según su puntuación de crédito, la herramienta autorizará el importe a pagar por esa transacción. Así, el cliente pagará el valor directamente a Affirm con los intereses definidos al momento de aceptar.
 
->⚠️ La aplicación Affirm se instala mediante VTEX IO, una plataforma de desarrollo <i>low-code</i> que permite a los programadores desarrollar aplicaciones y nuevos componentes para las tiendas VTEX. Acceda a la documentación [Installing VTEX IO's CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-install) y descargue la plataforma y sus componentes antes de seguir a los próximos pasos.
+<div class="alert alert-warning">
+La aplicación Affirm se instala mediante VTEX IO, una plataforma de desarrollo <i>low-code</i> que permite a los programadores desarrollar aplicaciones y nuevos componentes para las tiendas VTEX. Acceda a la documentación <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-install">Installing VTEX IO's CLI</a> y descargue la plataforma y sus componentes antes de seguir a los próximos pasos.
+</div>
 
 Para configurar Affirm, necesitará:
 

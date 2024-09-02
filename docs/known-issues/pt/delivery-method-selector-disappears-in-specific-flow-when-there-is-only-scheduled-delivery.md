@@ -18,7 +18,9 @@ internalReference: 296786
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O seletor de data/hora para entrega programada desaparece quando o usuário muda de "pegar" para "receber", este comportamento ocorre independentemente do uso do recurso de envio enxuto.

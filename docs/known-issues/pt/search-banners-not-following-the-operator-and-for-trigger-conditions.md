@@ -1,5 +1,5 @@
 ---
-title: "Os banners de pesquisa não seguem o operador 'AND' para condições de acionamento"
+title: 'Os banners de pesquisa não seguem o operador "AND" para condições de acionamento'
 id: 4nQLt5q3Mz2DxvBIyZknXj
 status: PUBLISHED
 createdAt: 2024-06-20T21:17:46.485Z
@@ -18,7 +18,9 @@ internalReference: 1053614
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As condições para banners de pesquisa (gerenciados por meio de "/admin/search/v4/banners/") não são compatíveis com o operador "AND", conforme apresentado em suas regras de acionamento. A interface do usuário está errada, e o operador se comporta como "OR" de forma fixa.

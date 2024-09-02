@@ -16,15 +16,17 @@ trackSlugEN: instore-using-the-app
 
 VTEX Sales App's [endless aisle](https://help.vtex.com/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) feature allows sales associates to search for products beyond the inventory of the current store and add them to the cart. To search for a product, click the magnifying glass icon <i class="fas fa-search"></i>, and a search bar will be displayed at the top of the store's homepage.  Enter the product name, reference code, SKU ID, or EAN.
 
->ℹ️ This feature uses the browser's cache to optimize searches in scenarios with slow internet connections.
+<div class = "alert alert-info">
+This feature uses the browser's cache to optimize searches in scenarios with slow internet connections.
+</div>
 
-![Barra busca - EN](https://images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/31aeb140714a23b6e5d0f958e90dcea2/Tela_1_barra_busca.gif)
+![Barra busca - EN](//images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/31aeb140714a23b6e5d0f958e90dcea2/Tela_1_barra_busca.gif)
 
 VTEX Sales App features a unified search, which means that, when searching for a product in the app, search results will include not only the local inventory (of the current physical store) but also inventories of other physical stores and distribution centers associated with the ecommerce operation.
 
 Search results are organized to improve customer experience, displaying images that facilitate product identification and providing relevant information for sales associates.
 
-![Busca unificada - EN](https://images.ctfassets.net/alneenqid6w5/2xcAiK7XONko8bTJrQPRNR/89c5c59cc9e5ce4f86f3d97966439ed7/Busca_unificada_VTEX_Sales_App.png)
+![Busca unificada - EN](//images.ctfassets.net/alneenqid6w5/2xcAiK7XONko8bTJrQPRNR/89c5c59cc9e5ce4f86f3d97966439ed7/Busca_unificada_VTEX_Sales_App.png)
 
 When you click the `Add to Cart` option, the following product information will be displayed:
 - Product variations, SKUs.
@@ -33,7 +35,7 @@ When you click the `Add to Cart` option, the following product information will 
 
 To add a product to the cart, select the desired variation, shipping option, and quantity, then click `Add to Cart`.
 
-![Carrinho - EN](https://images.ctfassets.net/alneenqid6w5/3lUWtqtEAZZCsJhTYVkYBO/4e2090b5e30f545a65f35c7faefd67ac/Adicionar_ao_carrinho_VTEX_Sales_App.png)
+![Carrinho - EN](//images.ctfassets.net/alneenqid6w5/3lUWtqtEAZZCsJhTYVkYBO/4e2090b5e30f545a65f35c7faefd67ac/Adicionar_ao_carrinho_VTEX_Sales_App.png)
 
 ## Filters
 

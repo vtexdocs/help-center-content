@@ -33,7 +33,8 @@ Por ejemplo, un usuario con un enlace de campaña específico podría tener una 
 
 Además de obtener información de sesión para un dispositivo que esté navegando por la infraestructura de VTEX, Session Manager le permite almacenar *datos personalizados* en aquella sesión. Esta información es fácilmente recuperable y le permite evitar hacer algo como configurar una cookie para registrar información específica sobre un usuario.
 
->ℹ️ Session Manager también fue construido para permitir a los desarrolladores crear sus propios triggers y lógica de procesamiento. Todavía estamos finalizando el desarrollo de esta solución expandible, pero en el futuro usted debería ser capaz de configurar la ejecución condicional de código personalizado, de acuerdo con la presencia de valores específicos de parámetros en los datos de sesión de un usuario.
+<div class="alert alert-info">Session Manager también fue construido para permitir a los desarrolladores crear sus propios triggers y lógica de procesamiento. Todavía estamos finalizando el desarrollo de esta solución expandible, pero en el futuro usted debería ser capaz de configurar la ejecución condicional de código personalizado, de acuerdo con la presencia de valores específicos de parámetros en los datos de sesión de un usuario.
+</div>
 
 ## Agregar datos de sesión: llamadas create y transform
 Estrictamente hablando, Session Manager es un sistema backend de API que almacena y procesa datos de sesión contenidos en objetos JSON. Cada cuenta VTEX tiene configuraciones que indican qué apps instaladas tienen una dependencia de sesión y cómo estas pretenden procesar esta información.
@@ -42,7 +43,7 @@ Apps que tienen una dependencia de sesión monitorean cambios en sus entradas y 
 
 Transforms frecuentemente disparan otros transforms, repitiendo hasta que ninguna actualización de parámetro adicional sea enviada por apps. Esta operación es, por supuesto, cuidadosamente monitoreada para evitar condiciones de loop. El siguiente diagrama ilustra un ejemplo de un ciclo de transform:
 
-![EN - Session Manager](https://images.ctfassets.net/alneenqid6w5/1QWb3hs5wfr3Zj38TnpwHY/162fb09edaf6fca3b5cdf3ce7d5a20b2/Session_Manager.jpg)
+![EN - Session Manager](//images.ctfassets.net/alneenqid6w5/1QWb3hs5wfr3Zj38TnpwHY/162fb09edaf6fca3b5cdf3ce7d5a20b2/Session_Manager.jpg)
 
 1. Se realizó un cambio en el parámetro de sesión X
 2. App A monitoreaba el parámetro de sesión X, lo que disparó el Transform 1
@@ -52,7 +53,7 @@ Transforms frecuentemente disparan otros transforms, repitiendo hasta que ningun
 6. App C monitoreaba el parámetro de sesión Z, lo que disparó el Transform 3
 7. Transform 3 no tuvo efectos colaterales en parámetros monitoreados por apps, por lo tanto, el ciclo se cerró y la sesión se guardó hasta que otros cambios sean hechos. 
 
->ℹ️ Llamadas transform se realizan a todas las apps simultáneamente para optimizar el desempeño. Es por esto que la App C fue afectada por el Transform 2 y por el Transform 3 - no tenía forma de saber que el resultado de Transform 2 en la  App B llevaría a la necesidad de cambios adicionales en sus parámetros de salida.
+<div class="alert alert-info">Llamadas transform se realizan a todas las apps simultáneamente para optimizar el desempeño. Es por esto que la App C fue afectada por el Transform 2 y por el Transform 3 - no tenía forma de saber que el resultado de Transform 2 en la  App B llevaría a la necesidad de cambios adicionales en sus parámetros de salida.</div>
 
 Cuando se crea una nueva sesión, se ejecuta una versión más sencilla de este ciclo, que llamamos **llamada create**. Todas las apps que tengan la configuración `RunOnCreate: true` serán notificadas para que se ejecuten simultáneamente con una entrada vacía. Si estas apps modifican cualquier parámetro monitoreado por otras apps, esto dispara un ciclo de transform que se ejecutará hasta que se resuelvan las dependencias de entrada.
 

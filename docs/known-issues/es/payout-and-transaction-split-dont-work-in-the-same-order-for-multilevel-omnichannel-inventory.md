@@ -18,7 +18,9 @@ internalReference: 777201
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En un marketplace con vendedores con relación multinivel (MOI), cuando se monta un carrito con al menos un vendedor que utiliza división de transacciones y otros que utilizan división de pagos, las transacciones con división de pagos se duplicarán repitiendo los artículos de distintos vendedores. Este escenario no permitirá realizar el pedido, y aparecerá el mensaje "Lo sentimos. No se han podido procesar los pagos solicitados".

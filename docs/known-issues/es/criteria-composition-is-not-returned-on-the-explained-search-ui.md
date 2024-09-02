@@ -18,7 +18,9 @@ internalReference: 852898
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se busca un término en el que la respuesta es un solo producto, ese producto no tendrá la composición de criterios que aparece en la pantalla de la búsqueda explicada.

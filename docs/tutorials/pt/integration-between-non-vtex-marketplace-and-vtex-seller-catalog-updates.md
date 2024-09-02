@@ -15,7 +15,9 @@ legacySlug: integracao-entre-marketplace-nao-vtex-e-seller-vtex-acoes-referentes
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
->⚠️ Confira a versão atualizada desse [guia de integração com marketplace](https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide) em nosso Developer Portal. 
+<div class="alert alert-warning">
+Confira a versão atualizada desse <a href="https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide">guia de integração com marketplace</a> em nosso Developer Portal. 
+</div> 
 
 Um dos passos para integrar um Marketplace não VTEX a um Seller VTEX é permitir consultas ao __Catálogo__ da VTEX com o objetivo de obter informações de mudança de preço, estoque, catálogo e dados de frete.
 
@@ -291,21 +293,9 @@ O Marketplace deve então usar a __API de Fulfillment Simulation__ para obter os
 
 Essa chamada simula um carrinho no Checkout da VTEX, retornando a versão mais atualizada desses dados.
 
->⚠️ A chamada de Fulfillment Simulation deve ser usada pelo Marketplace sempre que for necessário obter preço, estoque e dados de frete atualizados. Para oferecer uma integração em tempo real e, como consequência, uma experiência de compra fluida, o Marketplace deve obter esses dados em todas as etapas da jornada do cliente na loja:
->
-> - Vitrine
->
-> - Página de produto
->
-> - Carrinho
->
-> - Checkout
->
-> - Order Placed
->
-> 
->
-> Com isso, você garante que o cliente não será surpreendido por possíveis mudanças em um SKU ocorridas no Seller e não informadas no Marketplace.
+<div class="alert alert-warning">
+A chamada de Fulfillment Simulation deve ser usada pelo Marketplace sempre que for necessário obter preço, estoque e dados de frete atualizados. Para oferecer uma integração em tempo real e, como consequência, uma experiência de compra fluida, o Marketplace deve obter esses dados em todas as etapas da jornada do cliente na loja:<br>- Vitrine<br>- Página de produto<br>- Carrinho<br>- Checkout<br>- Order Placed<br><br>Com isso, você garante que o cliente não será surpreendido por possíveis mudanças em um SKU ocorridas no Seller e não informadas no Marketplace. 
+</div>
 
 ### Exemplo de chamada API REST:
 
@@ -351,7 +341,9 @@ Acessa uma loja VTEX (*Seller*) e busca preço, estoque e dados de frete de um S
 | quantity       | integer       |   Quantidade do SKU desejado  |  Sim  |
 | seller       | string       |   ID do seller que vende o SKU desejado. No contexto de simulação de fulfillment, o seller deve ser sempre "1" - "seller 1" significa que é o próprio fulfillment em questão.  |   Sim   |
 
->⚠️ A simulação para obter preço/disponibilidade deve ser feita somente com **1 unidade** do item específico. Já simulações de carrinho devem naturalmente incluir todos os itens desejados, a fim de garantir o contexto desses itens quando em conjunto no carrinho, o que é especialmente importante para o cálculo do frete.
+<div class="alert alert-warning">
+A simulação para obter preço/disponibilidade deve ser feita somente com <strong>1 unidade</strong> do item específico. Já simulações de carrinho devem naturalmente incluir todos os itens desejados, a fim de garantir o contexto desses itens quando em conjunto no carrinho, o que é especialmente importante para o cálculo do frete.
+</div>
 
 #### Exemplo de body de resposta
 

@@ -15,13 +15,15 @@ legacySlug: web-application-firewall-waf
 subcategory: jrgbOxKaOW0kdZs7rdgvS
 ---
 
->ℹ️ This feature is part of [VTEX Shield](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/us-en/contact/).
+<div class="alert alert-info">
+  <p>This feature is part of <a href="https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh">VTEX Shield</a>. If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Commercial Support</a>. Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our <a href="https://vtex.com/us-en/contact/">contact form</a>.</p>
+</div>
 
 The Web Application Firewall (WAF) is a security layer designed to protect web applications by monitoring and filtering internet traffic.
 
 The WAF is aimed at HTTP (Hypertext Transfer Protocol) and HTTPS (HTTP Secure) communications, scanning inbound and outbound data to detect and block possible threats.
 
-![waf-en](https://images.ctfassets.net/alneenqid6w5/6yRQRFGEYBnfbynGxcNJrU/19c4af7d54a4e27985a697270e5ea662/waf-en.png)
+![waf-en](//images.ctfassets.net/alneenqid6w5/6yRQRFGEYBnfbynGxcNJrU/19c4af7d54a4e27985a697270e5ea662/waf-en.png)
 
 The WAF's operation begins with the VTEX Security team defining [security rules](#security-rules) based on the analysis of information flow patterns. Based on these rules, the WAF continuously monitors web traffic. When it detects potentially harmful activity, it can block the traffic, thus preventing vulnerabilities in the web application.
 

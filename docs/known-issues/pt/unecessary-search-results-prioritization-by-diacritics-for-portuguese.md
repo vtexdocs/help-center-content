@@ -18,7 +18,9 @@ internalReference: 1028763
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A Pesquisa Inteligente prioriza os resultados que têm uma correspondência exata, considerando os diacríticos do termo pesquisado e os produtos.

@@ -18,7 +18,9 @@ internalReference: 510490
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La selección de un artículo de regalo en el carrito lanzará una excepción genérica si no tiene precio, especialmente si la tienda utiliza un servicio de impuestos externo. El cliente no puede seguir seleccionándolo.

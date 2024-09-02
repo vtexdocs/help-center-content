@@ -21,7 +21,9 @@ In a shopping experience, a user browses a website by selecting products to incl
 
 A marketplace can also be understood as a *showcase store*, displaying its own products and also products from other stores (the sellers). Usually, a marketplace is a store with good users traffic. This encourages other stores to display their products in the marketplace for greater conversion. In such scenario, the __marketplace__ is the shop responsible for closing the purchase, and the __seller__ is the store responsible for delivering the order.
 
->ℹ️ Following this logic, we can conclude that a VTEX store that sells its own products in its own store acts as a marketplace and a seller simultaneously. In this context, payment is made within the store environment (marketplace) and the delivery of the order is a responsibility of that same store (seller). See more details on this subject at [our article](https://help.vtex.com/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06e) on the origin of the orders.
+<div class="alert alert-info">
+Following this logic, we can conclude that a VTEX store that sells its own products in its own store acts as a marketplace and a seller simultaneously. In this context, payment is made within the store environment (marketplace) and the delivery of the order is a responsibility of that same store (seller). See more details on this subject at <a href="https://help.vtex.com/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06e">our article</a> on the origin of the orders.
+</div>
 
 ## Related articles
 

@@ -18,7 +18,9 @@ internalReference: 789146
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns provedores SAML precisam receber parâmetros como string de consulta, mas nossa solução SAML não permite o envio desses parâmetros (como parâmetros SAMLRequest e SAMLResponse) como string de consulta no login do CRM porque o sistema CRM usa uma versão do sistema de login, que não suporta esse recurso.

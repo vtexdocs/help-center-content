@@ -18,7 +18,9 @@ internalReference: 344451
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La nueva interfaz de colecciones, `.myvtex.com/admin/collections`, no permite a los usuarios buscar productos con caracteres especiales.

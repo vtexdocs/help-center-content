@@ -1,5 +1,5 @@
 ---
-title: "Filtro de preço aplicado sobre o 'preço à vista' em vez do preço normal"
+title: 'Filtro de preço aplicado sobre o "preço à vista" em vez do preço normal'
 id: 2EEgRV1NxYuns4eF7F0ZqD
 status: PUBLISHED
 createdAt: 2024-02-15T19:39:53.576Z
@@ -18,7 +18,9 @@ internalReference: 982664
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os filtros de preço são aplicados sobre o valor "spotPrice", que é o preço para condições especiais de pagamento, em vez do preço normal do item.

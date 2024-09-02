@@ -18,7 +18,9 @@ internalReference: 613864
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, para las entidades de datos con varios campos, cuando se intenta exportar una hoja y descargarla, tanto por correo electrónico como directamente a través de la interfaz de usuario, el enlace de descarga no guarda el archivo en el navegador.

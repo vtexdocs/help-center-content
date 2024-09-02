@@ -22,7 +22,9 @@ Para determinar las violaciones del SLA, es decir, para contabilizar el tiempo d
 - Interrupciones en la tienda virtual que estén impactando significativamente el número de pedidos realizados, por ejemplo: interrupción de la tienda, acceso lento, error en el checkout.
 - Interrupciones que duren al menos 10 minutos.
 
->⚠️ No contabilizamos el mantenimiento programado como tiempo de indisponibilidad.
+<div class="alert alert-warning">
+  <p>No contabilizamos el mantenimiento programado como tiempo de indisponibilidad.</p>
+</div>
 
 ## Verificar el status de VTEX
 

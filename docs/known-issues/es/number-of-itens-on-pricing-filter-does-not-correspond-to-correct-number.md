@@ -18,7 +18,9 @@ internalReference: 371405
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En la interfaz de usuario de precios, podemos filtrar por marca o categoría. Después de hacer un filtro, la UI devuelve sólo los productos en el filtro, pero el total de artículos devueltos en el menú es en realidad el total sin ningún filtro, y los datos mostrados están filtrados como se esperaba.

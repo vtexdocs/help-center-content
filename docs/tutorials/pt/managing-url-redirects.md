@@ -31,7 +31,7 @@ Para criar, editar ou apagar redirecionamentos, o usuário do Admin precisa ter 
 4. Na caixa de seleção, indique se esse redirecionamento é temporário ou permanente. Caso seja temporário, é preciso definir a data final.
 5. Clique em `Salvar` para finalizar.
 
-![gerenciando redirecionamentos pt 1](https://images.ctfassets.net/alneenqid6w5/6WZzZNgQPLtfwP1Z8fK7S9/1492276d15ccad0d3fb36ea59f712912/image4.png)
+![gerenciando redirecionamentos pt 1](//images.ctfassets.net/alneenqid6w5/6WZzZNgQPLtfwP1Z8fK7S9/1492276d15ccad0d3fb36ea59f712912/image4.png)
 ## Importar redirecionamento
 
 Para importar um redirecionamento, siga os passos abaixo.
@@ -50,5 +50,7 @@ Alguns editores, como o Google Sheets, exportam arquivos CSV utilizando vírgula
 
 Se deseja exportar seus redirecionamentos, clique em <i class="fas fa-download"></i> `Exportar` e eles serão baixados no seu computador. 
 
->ℹ️ Não é possível criar redirecionamentos por meio de rotas pré-definidas como “home” "/", "login", "account", etc.). É recomendada a criação manual seguindo as instruções mencionadas acima.
+<div class="alert alert-info">
+Não é possível criar redirecionamentos por meio de rotas pré-definidas como “home” "/", "login", "account", etc.). É recomendada a criação manual seguindo as instruções mencionadas acima.
+</div>
 

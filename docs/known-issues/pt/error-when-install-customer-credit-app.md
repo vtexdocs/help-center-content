@@ -18,7 +18,9 @@ internalReference: 336533
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao baixar o aplicativo de Crédito ao Cliente e inserir o nome da conta no campo à direita, a mensagem é devolvida: _a loja indicada não pôde ser encontrada_. este é um problema intermitente e não foi possível identificar o cenário específico que faz este erro aparecer.

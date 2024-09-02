@@ -17,7 +17,9 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 [Stripe](https://stripe.com) is a payment platform that offers an integrated system for receiving payments, transfers, donations, and any typical financial transaction in ecommerce and other websites.
 
->⚠️ You can integrate your store with Stripe via **Application Key** and **Application Token**. To obtain this data, you have to [create your account on the platform](https://dashboard.stripe.com/register" target="_blank) and then access [Stripe’s documentation](https://stripe.com/docs/keys" target="_blank) to get your **Public key** and **Secret key**. They are required for the setup in the VTEX environment.
+<div class="alert alert-warning">
+You can integrate your store with Stripe via <strong>Application Key</strong> and <strong>Application Token</strong>. To obtain this data, you have to <a href="https://dashboard.stripe.com/register" target="_blank">create your account on the platform</a> and then access <a href="https://stripe.com/docs/keys" target="_blank">Stripe’s documentation</a> to get your <strong>Public key</strong> and <strong>Secret key</strong>. They are required for the setup in the VTEX environment.
+</div>
 
 Stripe supports payments in over 40 countries. The list of available countries can be accessed on the [Stripe website](https://stripe.com/enterprise).
 
@@ -54,13 +56,12 @@ After configuration in the VTEX environment, you also need to configure Webhook 
 8. Click on __Add events__.
 9. Click on __Add endpoint__.
 
->ℹ️ If you wish to carry out credit card transactions on Stripe, you must open a ticket on Stripe as follows:
->
-> - Request the release of the "raw card data" function, indicating that VTEX and Stripe are payment partners.
->
-> - Please attach the VTEX AOC (Attestation of Compliance for Onsite Assessments – Service Providers). To check the latest version of AOC VTEX, access the [VTEX certifications](https://vtex.com/us-en/compliance/certifications) page and download the file available in the PCI section.
->
-> The above actions will prevent errors related to the transmission of sensitive data from occurring in the integration between Stripe and VTEX.
+<div class="alert alert-info">
+  <p>If you wish to carry out credit card transactions on Stripe, you must open a ticket on Stripe as follows:</p>
+  <p>- Request the release of the "raw card data" function, indicating that VTEX and Stripe are payment partners.</p>
+  <p>- Please attach the VTEX AOC (Attestation of Compliance for Onsite Assessments – Service Providers). To check the latest version of AOC VTEX, access the <a href="https://vtex.com/us-en/compliance/certifications">VTEX certifications</a> page and download the file available in the PCI section.</p>
+  <p>The above actions will prevent errors related to the transmission of sensitive data from occurring in the integration between Stripe and VTEX.</p>
+</div>
 
 ## Configuring a payment condition
 
@@ -85,7 +86,9 @@ After this configuration, Google Pay will be displayed as one of the available p
 
 The Stripe connector allows you to add Apple Pay as a payment method in your store's checkout. 
 
->⚠️ Apple Pay currently only works on MacOs and IOS operating systems, and with  Safari browser. For more information, visit [Devices compatible with Apple Pay](https://support.apple.com/en-us/HT208531).
+<div class="alert alert-warning">
+Apple Pay currently only works on MacOs and IOS operating systems, and with  Safari browser. For more information, visit <a href="https://support.apple.com/en-us/HT208531">Devices compatible with Apple Pay</a>.
+</div>
 
 Once the Stripe connector is configured, you can add Apple Pay by following the steps below.
 

@@ -1,5 +1,5 @@
 ---
-title: "El menú desplegable de las cuotas en la interfaz de compra está 'suelto' cuando se desplaza la pantalla."
+title: 'El menú desplegable de las cuotas en la interfaz de compra está "suelto" cuando se desplaza la pantalla.'
 id: 0bbx1aDD7qw3DmaeMOebp
 status: PUBLISHED
 createdAt: 2022-03-10T20:07:05.251Z
@@ -18,7 +18,9 @@ internalReference: 540257
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al abrir el desplegable de cuotas en la página de pago y desplazamiento de otra página de pago, se puede ver que la casilla de cuotas se desprende y queda suelta en la pantalla de pago

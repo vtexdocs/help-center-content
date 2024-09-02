@@ -1,10 +1,10 @@
 ---
 title: 'Crear cupón'
 id: tutorials_319
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-04-27T22:09:06.076Z
-updatedAt: 2023-03-31T19:41:21.767Z
-publishedAt: 2023-03-31T19:41:21.767Z
+updatedAt: 2024-08-12T18:24:48.074Z
+publishedAt: 
 firstPublishedAt: 2017-04-27T23:03:14.329Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -30,7 +30,9 @@ En este artículo trataremos:
 
 ## Cómo crear un cupón
 
->⚠️ Hay un límite en la cantidad de cupones activos. Se recomienda reutilizar los cupones, ya que un número elevado puede comprometer el rendimiento del módulo **Tasas y Promociones**.
+<div class="alert alert-warning">
+  <p>Hay un límite en la cantidad de cupones activos. Se recomienda reutilizar los cupones, ya que un número elevado puede comprometer el rendimiento del módulo <b>Tasas y Promociones</b>.</p>
+</div>
 
 Para crear un cupón, siga los pasos a continuación.
 
@@ -39,7 +41,9 @@ Para crear un cupón, siga los pasos a continuación.
 4. Rellene los [campos de registro del cupón](#campos-de-registro-del-cupon).
 5. Haga clic en el botón `Guardar`.
 
->ℹ️ Solo se puede crear un cupón a la vez en el Admin. Para crear cupones de forma masiva, lea el artículo [Creating and managing coupons with Promotions API](https://developers.vtex.com/vtex-rest-api/docs/creating-and-managing-coupons-with-promotions-api).
+<div class="alert alert-info">
+  <p>Solo se puede crear un cupón a la vez en el Admin. Para crear cupones de forma masiva, lea el artículo <a href="https://developers.vtex.com/vtex-rest-api/docs/creating-and-managing-coupons-with-promotions-api">Creating and managing coupons with Promotions API</a>.</p>
+</div>
 
 ### Campos de registro del cupón
 
@@ -49,7 +53,9 @@ En esta sección se definirá la información general del cupón.
 
 - **Cupón:** el código de activación del cupón. No hay límite de caracteres y el campo es obligatorio.
 
->⚠️ No se puede utilizar caracteres especiales (solo letras, números y guiones).
+<div class="alert alert-warning">
+  <p>No se puede utilizar caracteres especiales (solo letras, números y guiones).</p>
+</div>
 
 - **utm_source:** la utm de origen.
 - **utm_campaign:** la utm de la campaña.
@@ -61,7 +67,9 @@ En esta sección se registran las posibles restricciones del cupón.
 - **El cliente puede comprar hasta X productos utilizando este cupón en una o más compras:**el número de productos que se pueden comprar con este cupón, independientemente de cuántas compras se realicen para alcanzar este número.
 - **Renovar cada uso del cupón después de X días:** la validez del cupón se renueva después de la cantidad de días seleccionada en este campo.
 
->ℹ️ Para limitar el cupón a un solo uso, debe [restringir el número de aplicaciones de la promoción en su tienda y por cliente](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327#4-restricoes-e-limitacoes-de-uso).
+<div class="alert alert-info">
+  <p>Para limitar el cupón a un solo uso, debe <a href="https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327#4-restricoes-e-limitacoes-de-uso">restringir el número de aplicaciones de la promoción en su tienda y por cliente</a>.</p>
+</div>
 
 Cuando se realiza una compra con una promoción que tiene una limitación y esa compra se cancela, este uso de la promoción vuelve a ser válido.
 
@@ -84,7 +92,9 @@ Para desactivar un cupón es necesario archivarlo. Para archivar un cupón, siga
 2. Seleccione el cupón que desea archivar.
 3. En la página de edición del cupón, haga clic en el botón `Archivar`.
 
->⚠️ Los cupones no pueden ser eliminados, solo archivados. Solo se puede archivar un cupón a la vez. Puede editar y reutilizar un cupón, pero el **código del cupón** no se puede cambiar.
+<div class="alert alert-warning">
+  <p>Los cupones no pueden ser eliminados, solo archivados. Solo se puede archivar un cupón a la vez. Puede editar y reutilizar un cupón, pero el <b>código del cupón</b> no se puede cambiar.</p>
+</div>
 
 ## Escenario de aplicación
 
@@ -96,7 +106,9 @@ Debe crear una promoción y divulgarla en un <i>newsletter</i>. Sin embargo, la 
 4. Introducir el código del cupón en el <i>newsletter</i>.
 5. La promoción se activará en el carrito solo cuando el cliente rellene el campo **Cupón de descuento** y lo aplique.
 
->ℹ️ También es posible configurar los enlaces del <i>newsletter </i>directamente con la **utm_source** y **utm_campaign** y prescindir del uso del cupón.
+<div class="alert alert-info">
+  <p>También es posible configurar los enlaces del <i>newsletter </i>directamente con la <b>utm_source</b> y <b>utm_campaign</b> y prescindir del uso del cupón.</p>
+</div>
 
 ## Utilizar múltiples cupones
 

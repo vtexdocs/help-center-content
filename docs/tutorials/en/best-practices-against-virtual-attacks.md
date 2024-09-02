@@ -23,7 +23,9 @@ VTEX offers different protections against possible attacks on stores. Still, the
 - [orderForm settings](#orderform-settings)
 - [Disabling password login](#disabling-password-login)
 
->ℹ️ The measures in this guide do not entirely eliminate the possibility of an attack but may considerably reduce the likelihood of them happening if properly employed.
+<div class = "alert alert-info">
+  <p>The measures in this guide do not entirely eliminate the possibility of an attack but may considerably reduce the likelihood of them happening if properly employed.</p>
+</div>
 
 ## Anti-fraud solution
 
@@ -31,7 +33,9 @@ Anti-fraud systems specialize in analyzing ecommerce purchases to identify fraud
 
 Learn more about [anti-fraud systems](https://help.vtex.com/en/tutorial/what-is-anti-fraud--69SjFCc4rC6Ii0OMAeYAsG) and how to use them on VTEX.
 
->⚠️ To increase security, set up your anti-fraud solution for all the payment methods available in your store.
+<div class="alert alert-warning">
+  <p>To increase security, set up your anti-fraud solution for all the payment methods available in your store.</p>
+</div>
 
 ## Protection against transaction attacks
 
@@ -46,7 +50,9 @@ We recommend using [reCAPTCHA v3](https://help.vtex.com/en/tutorial/using-recapt
 
 Learn more about how to set up this verification at your store's checkout in the article [reCAPTCHA at checkout](https://help.vtex.com/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP#recaptcha-v3). To implement reCAPTCHA V3 in a VTEX store, see the [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score) developer's guide.
 
->ℹ️ reCAPTCHA verification is enabled by default when store customers go through the steps of [adding credit cards](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh#credit-cards), without having to be configured by the store.
+<div class = "alert alert-info">
+reCAPTCHA verification is enabled by default when store customers go through the steps of <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh#credit-cards">adding credit cards</a>, without having to be configured by the store.
+</div>
 
 ## orderForm settings
 

@@ -18,13 +18,15 @@ Para la plataforma VTEX, el usuario Titular es el principal responsable de la ti
 
 De forma predeterminada, el e-mail del usuario Titular es del dueño del acuerdo comercial de contratación de VTEX. Pero, después de recibir el ambiente VTEX, se puede cambiar el correo electrónico del usuario Titular.
 
->⚠️ El usuario titular no es el mismo que el **Owner (Admin Super)**. El **Owner (Admin Super)** es un perfil de acceso del License Manager que define los permisos que se conceden a un determinado usuario de tu tienda, e incluso puede asignarse a varios usuarios.
+<div class = "alert alert-warning">
+El usuario titular no es el mismo que el <b>Owner (Admin Super)</b>. El <b>Owner (Admin Super)</b> es un perfil de acceso del License Manager que define los permisos que se conceden a un determinado usuario de tu tienda, e incluso puede asignarse a varios usuarios.
+</div>
 
 Si su usuario tiene perfil de acceso al módulo Gestión de la cuenta, usted puede verificar quién es el usuario Titular. Basta con acceder a la pestaña __Cuentas__ y buscar el nombre de la tienda.
 
 Al hacer clic en el nombre de la cuenta deseada, el nombre y el correo electrónico del usuario Titular se encuentran en la sección __Contacto__.
 
-![usuario-master-contato es](https://images.ctfassets.net/alneenqid6w5/2lYlZR55HqYSk4aoGMCCI6/eea8b18ab53d475f046820db05eb717c/contato_usuario_master_es.png)
+![usuario-master-contato es](//images.ctfassets.net/alneenqid6w5/2lYlZR55HqYSk4aoGMCCI6/eea8b18ab53d475f046820db05eb717c/contato_usuario_master_es.png)
 
 Entre las acciones que sólo el usuario Titular puede tomar, están:
 - Reindexar el catálogo.

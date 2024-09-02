@@ -18,7 +18,9 @@ internalReference: 1008459
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos pedidos tienen el mismo SKUid en un conjunto separado de artículos, esto ocurre en el momento de la compra en la caja por diferentes razones como el descuento a aplicar, por ejemplo.

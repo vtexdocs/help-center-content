@@ -18,7 +18,9 @@ internalReference: 1056882
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Nossa equipe investigou que isso normalmente está associado ao desenvolvimento de um aplicativo de grande porte. Isso acontece porque o hub do construtor estourou sua memória devido a muitos arquivos no aplicativo. Atrasos na vinculação do aplicativo também podem estar associados a esse problema

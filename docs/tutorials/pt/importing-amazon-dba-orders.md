@@ -3,8 +3,8 @@ title: 'Importação de Pedidos Amazon DBA'
 id: 1um6EfKlALGsHzERbH7jig
 status: PUBLISHED
 createdAt: 2023-02-09T01:51:48.849Z
-updatedAt: 2023-05-30T21:25:25.693Z
-publishedAt: 2023-05-30T21:25:25.693Z
+updatedAt: 2024-08-30T14:32:55.200Z
+publishedAt: 2024-08-30T14:32:55.200Z
 firstPublishedAt: 2023-02-09T02:16:48.830Z
 contentType: tutorial
 productTeam: Channels
@@ -15,12 +15,15 @@ legacySlug: importacao-de-pedidos-amazon-dba
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
->ℹ️ A funcionalidade Importação de Pedidos Amazon DBA está disponível apenas para sellers VTEX Brasil.  
+<div class = "alert alert-info">
+A funcionalidade Importação de Pedidos Amazon DBA está disponível apenas para sellers VTEX Brasil.  
+</div>  
 
 Existem três tipos de configuração logística para atender aos pedidos realizados na Amazon:
 
   - [Selfship](#Selfship)
-  - [FBA Classic, para conhecer sobre o programa e a integração com a VTEX, confira a documentação Importação de Pedidos Amazon FBA Classic](https://help.vtex.com/pt/tutorial/importacao-de-pedidos-amazon-fba-classic--2MJZgBen3hpK4xkXqcv8TO)
+  - [FBA Classic, para conhecer sobre o programa e a integração com a VTEX, confira a documentação Importação de Pedidos Amazon FBA Classic](https://help.vtex.com/pt/tutorial/importacao-de-pedidos-amazon-fba-classic--2MJZgBen3hpK4xkXqcv8TO).
+  - FBA Onsite, para conhecer sobre o programa e a integração com a VTEX, confira a documentação sobre [Importação de pedidos FBA Onsite](https://help.vtex.com/pt/tutorial/importacao-de-pedidos-amazon-fba-onsite--7gNpMDDchHo29fu3Sbvl1n)
   - [DBA](#DBA-Delivery-by-Amazon)
 
 O Seller pode utilizar o Selfship, FBA e DBA de forma simultânea ou apenas uma das opções logísticas, considerando a elegibilidade dos produtos para os respectivos programas. Independente de optar por utilizar somente uma das opções logísticas ou utilizar dois, ou mais programas, é possível acompanhar e gerenciar todos os pedidos realizados através do Admin VTEX.
@@ -59,7 +62,7 @@ Após salvar as configurações, o DBA estará ativo na integração com a Amazo
 
 A cada compra finalizada, os pedidos correspondentes ao DBA aparecerão na aba __Pedidos > Todos pedidos__ do Admin VTEX. O sufixo **`_DBA`** aparecerá no ID de cada pedido do programa. Para prosseguir com a entrega, o pedido precisa ser faturado, conforme os passos descritos em [Faturar um pedido > Nota Fiscal](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT#nota-fiscal).  
 
-![pedido DBA](https://downloads.ctfassets.net/alneenqid6w5/29NDtLCX5tVW7SzePTvuEG/32ab35230267fe61f772d9c60ea555e8/Pedidos.gif)
+![pedido DBA](//downloads.ctfassets.net/alneenqid6w5/29NDtLCX5tVW7SzePTvuEG/32ab35230267fe61f772d9c60ea555e8/Pedidos.gif)
 
 ### 3. Download de etiqueta  
 

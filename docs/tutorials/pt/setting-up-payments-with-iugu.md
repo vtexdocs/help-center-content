@@ -44,7 +44,9 @@ Para processar os meios de pagamento cartão de crédito, pix e boleto bancário
 
 Depois de seguir os passos indicados, o provedor iugu pode demorar até 10 minutos para aparecer no Checkout da sua loja como uma opção de pagamento.
 
->⚠️ Antes de realizar transações por cartão de crédito, PIX ou Boleto bancário com a iugu em sua loja, verifique se esses meios de pagamento já estão habilitados em [sua área do cliente no portal da iugu](https://dev.iugu.com/docs/configurando-conector-iugu-na-vtex#configurando-condi%C3%A7%C3%B5es-de-pagamento).
+<div class="alert alert-warning">
+  Antes de realizar transações por cartão de crédito, PIX ou Boleto bancário com a iugu em sua loja, verifique se esses meios de pagamento já estão habilitados em <a href="https://dev.iugu.com/docs/configurando-conector-iugu-na-vtex#configurando-condi%C3%A7%C3%B5es-de-pagamento">sua área do cliente no portal da iugu</a>.
+  </div>
 
 ## Configurar split de pagamento no marketplace com iugu
 
@@ -62,11 +64,15 @@ Para habilitar o split de recebíveis com a iugu em sua loja, siga os passos aba
 4. Em __Controle de pagamento__, selecione a opção __Ativar split de recebíveis e enviar recebedores de pagamento__ e indique o __Responsável pelas tarifas de processamento de pagamentos__ e __Responsável pelos estornos__ (marketplace, sellers ou marketplaces e sellers).
 5. Clique em `Salvar`.
 
->⚠️ A opção de split de recebíveis não está disponível para utilização em ambiente de teste.
+<div class="alert alert-warning">
+  A opção de split de recebíveis não está disponível para utilização em ambiente de teste.
+  </div>
 
 Depois de seguir os passos indicados, a funcionalidade de split de recebíveis com o provedor iugu pode demorar até 10 minutos para ser ativada em sua loja.
 
->⚠️ Para definir as comissões específicas de cada seller em sua loja, acesse **Marketplace > Sellers> Gerenciamento** no Admin VTEX, selecione o seller desejado e insira os valores de comissão em **Comissões**.
+<div class="alert alert-warning">
+  Para definir as comissões específicas de cada seller em sua loja, acesse <b>Marketplace > Sellers> Gerenciamento</b> no Admin VTEX, selecione o seller desejado e insira os valores de comissão em <b>Comissões</b>.
+  </div>
 
 ## Configurar recorrência com a iugu
 

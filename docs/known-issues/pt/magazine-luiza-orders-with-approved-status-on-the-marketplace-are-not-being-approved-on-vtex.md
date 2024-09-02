@@ -18,7 +18,9 @@ internalReference: 823443
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns pedidos com status APPROVED no marketplace não estão sendo aprovados na VTEX

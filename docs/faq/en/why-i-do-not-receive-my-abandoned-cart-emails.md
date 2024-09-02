@@ -46,4 +46,6 @@ When dealing with the Abandoned Cart, it's important to configure two filters: "
 
 After checking, it's crucial to save all the information created. Afterwards, the emails will be sent out as usual.
 
->⚠️ In addition, it is also important to state that a session lasts **30 minutes**. Only after this time has expired would the system consider setting off the Abandoned Cart Trigger, which means that the time taken into account is that of the session's duration in addition to that of the Trigger scheduling.
+<div class="alert alert-warning">
+In addition, it is also important to state that a session lasts <strong>30 minutes</strong>. Only after this time has expired would the system consider setting off the Abandoned Cart Trigger, which means that the time taken into account is that of the session's duration in addition to that of the Trigger scheduling.
+</div>

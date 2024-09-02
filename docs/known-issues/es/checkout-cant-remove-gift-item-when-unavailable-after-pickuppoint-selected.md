@@ -18,7 +18,9 @@ internalReference: 363885
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utiliza un artículo en un carrito con un beneficio de promoción de regalo, el artículo que contiene no se puede eliminar si no está disponible después de la selección del punto de recogida.

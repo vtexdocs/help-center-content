@@ -18,7 +18,9 @@ internalReference: 871480
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se crea un elemento personalizado con más de un elemento HTML, sólo se carga el primero en la plantilla.

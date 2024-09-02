@@ -18,7 +18,9 @@ internalReference: 519576
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para fluxos de devolução dentro de um pedido, é possível indicar quais produtos serão devolvidos e/ou valores associados, tais como custos de envio ou simplesmente uma parte do valor do pedido.

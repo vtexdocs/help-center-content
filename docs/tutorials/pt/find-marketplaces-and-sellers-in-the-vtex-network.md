@@ -21,7 +21,7 @@ Note que o Marketplace Network é uma ferramenta que promove o contato entre pot
 
 ## Encontrar Sellers e Marketplaces
 
-![Marketplace network tour](https://images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/884c2b263f35ef7e8fbffee7cb23ba84/Marketplace_network_tour.gif)
+![Marketplace network tour](//images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/884c2b263f35ef7e8fbffee7cb23ba84/Marketplace_network_tour.gif)
 
 Para acessar a listagem de marketplaces e sellers cadastrados navegue em *Marketplace > Marketplace Network > Encontrar Sellers / Encontrar Marketplaces*. Em ambas abas, é possível  buscar por palavras-chave e filtrar a lista para obter resultados mais precisos, além de entrar em contato com potenciais parceiros.
 
@@ -39,10 +39,12 @@ Para entrar em contato:
 4. Preencha o campo **Envie uma mensagem**.  
 5. Clique no botão __Enviar__.   
 
->ℹ️ O potencial parceiro comercial receberá um e-mail com as informações preenchidas. Caso o interesse seja mútuo, o encarregado pelo seller ou marketplace poderá entrar em contato e negociar os termos do acordo entre marketplace e seller.
+<div class="alert alert-info">
+O potencial parceiro comercial receberá um e-mail com as informações preenchidas. Caso o interesse seja mútuo, o encarregado pelo seller ou marketplace poderá entrar em contato e negociar os termos do acordo entre marketplace e seller.
+</div>
 
 ## Perfil da loja
-![Network profile PT](https://images.ctfassets.net/alneenqid6w5/0F1E1mqf6hD5FLzVGqBA7/3566eb996b94604d3449fa0ae773cf27/Marketplace_store_profile_PT.gif)
+![Network profile PT](//images.ctfassets.net/alneenqid6w5/0F1E1mqf6hD5FLzVGqBA7/3566eb996b94604d3449fa0ae773cf27/Marketplace_store_profile_PT.gif)
 
 1. Na seção *Marketplace* da sua loja, clique em __Marketplace Network__.  
 2. Clique na aba __Perfil da Loja__.  
@@ -54,7 +56,9 @@ Para entrar em contato:
 8. Clique em __Aceitar__.  
 9. Clique em __Criar perfil__.   
 
->⚠️ É necessário ativar o perfil de seller ou marketplace para receber mensagens e entrar em contato com outros parceiros.
+<div class="alert alert-warning">
+É necessário ativar o perfil de seller ou marketplace para receber mensagens e entrar em contato com outros parceiros. 
+</div>
 
 ### Informações da loja
 - __Logo__: imagem do logo da sua loja, com tamanho máximo de 500kB, que identificará sua loja no Marketplace Network.   

@@ -1,10 +1,10 @@
 ---
-title: 'Promociones Data Pipeline (Beta)'
+title: 'Promociones Data Pipeline '
 id: 3WZ1syNucDFdvVhfKtA6Qd
 status: PUBLISHED
 createdAt: 2024-02-02T18:02:01.395Z
-updatedAt: 2024-06-21T16:25:25.745Z
-publishedAt: 2024-06-21T16:25:25.745Z
+updatedAt: 2024-09-02T19:28:12.860Z
+publishedAt: 2024-09-02T19:28:12.860Z
 firstPublishedAt: 2024-05-27T19:26:59.739Z
 contentType: tutorial
 productTeam: Others

@@ -18,7 +18,9 @@ internalReference: 335840
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 É possível criar produtos com ID = 0 se eles utilizarem nosso API ou WebService.

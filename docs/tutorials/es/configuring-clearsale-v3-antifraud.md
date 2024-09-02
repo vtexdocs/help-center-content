@@ -38,9 +38,10 @@ Para configurar ClearSaleV3 siga los pasos a continuación:
 </ul>
 7. Haga clic en `Guardar`.
 
->ℹ️ Si tiene una aplicación móvil que utiliza API de VTEX en el momento del pago, es necesario implementar la recolección de datos de huellas dactilares para enviarlos a Clearsale, según la plataforma utilizada por la aplicación. Obtenga más información en [Clearsale Behavior Analytics](https://api.clearsale.com.br/docs/behavior-analytics" target="_blank).
->
-> Con la implementación del SDK es necesario recolectar el valor de <span class="bg-muted-4">sessionId</span> y enviarlo en el <span class="bg-muted-4">deviceFingerprint</span> a través de la [API al momento de crear el pago](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments).
+<div class="alert alert-info">
+<p>Si tiene una aplicación móvil que utiliza API de VTEX en el momento del pago, es necesario implementar la recolección de datos de huellas dactilares para enviarlos a Clearsale, según la plataforma utilizada por la aplicación. Obtenga más información en <a href="https://api.clearsale.com.br/docs/behavior-analytics" target="_blank">Clearsale Behavior Analytics</a>.</p>
+  <p>Con la implementación del SDK es necesario recolectar el valor de <span class="bg-muted-4">sessionId</span> y enviarlo en el <span class="bg-muted-4">deviceFingerprint</span> a través de la <a href="https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments">API al momento de crear el pago</a>.</p>  
+</div>
 
 ## Creación de la etiqueta de Google Tag Manager
 
@@ -72,7 +73,7 @@ La configuración del antifraude ClearSale v3 requiere la creación de una etiqu
 10. Hacer clic en el botón __Crear Tag__, insertar un nombre para esta tag y guardar.
 11. En la esquina superior derecha, hacer clic en __Publicar__.
 
-![Pasted image at 2017 10 20 01 11 PM](https://images.contentful.com/alneenqid6w5/2kdI4xh9IYwKI2mSiU20yW/b850c070cc8de2ec09e690ffe6cc9c15/Pasted_image_at_2017_10_20_01_11_PM.png)
+![Pasted image at 2017 10 20 01 11 PM](//images.contentful.com/alneenqid6w5/2kdI4xh9IYwKI2mSiU20yW/b850c070cc8de2ec09e690ffe6cc9c15/Pasted_image_at_2017_10_20_01_11_PM.png)
 
 ## Detalles del campo customSLA
 
@@ -90,4 +91,6 @@ El `shippingEstimate` puede obtenerse en los ítems de `shippingData.logisticsIn
 
 El valor de `deliverySlaInMinutes` es la conversión de `shippingEstimate` en minutos. Si la unidad es `m` (minutos) será el mismo valor, si la unidad es `h` (horas) el valor se multiplica por 60 y si la unidad es `d` (días consecutivos) o `bd` (días hábiles) el valor se multiplica por 1440. Por ejemplo, tres días consecutivos o `3d` se representa como `4320`. El `deliverySlaInMinutes` se utiliza en cada ítem del `minicart` en el cuerpo de la solicitud de los endpoints <a href="https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifraudpreanalysisdata" target="_blank">Send Antifraud Pre-Analysis Data</a> y <a href="https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifrauddata" target="_blank">Send Antifraud Data</a>.
 
->ℹ️ Aunque la conversión del tiempo en días consecutivos (`d`) y días hábiles (`bd`) a minutos es igual en el campo `deliverySlaInMinutes`, la fecha de entrega puede ser diferente en función del calendario (cuando hay fines de semana y feriados en el periodo de entrega).
+<div class="alert alert-info">
+Aunque la conversión del tiempo en días consecutivos (<code>d</code>) y días hábiles (<code>bd</code>) a minutos es igual en el campo <code>deliverySlaInMinutes</code>, la fecha de entrega puede ser diferente en función del calendario (cuando hay fines de semana y feriados en el periodo de entrega).
+</div>

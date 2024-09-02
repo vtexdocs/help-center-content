@@ -18,7 +18,9 @@ internalReference: 336371
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se establece el valor de un campo de adjunto de artículo a través de la interfaz de usuario, esto desencadena una solicitud para actualizar el orderForm, incluso si todavía hay más campos restantes.

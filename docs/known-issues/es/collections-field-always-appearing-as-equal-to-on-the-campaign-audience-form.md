@@ -1,5 +1,5 @@
 ---
-title: "El campo de las colecciones siempre aparece como 'Igual a' en el formulario de audiencia de la campaña"
+title: 'El campo de las colecciones siempre aparece como "Igual a" en el formulario de audiencia de la campaña'
 id: 2NPEh7LZkrpO0gf802I7HZ
 status: PUBLISHED
 createdAt: 2022-11-11T21:18:53.386Z
@@ -18,7 +18,9 @@ internalReference: 697168
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Configuring a Santander registered 'boleto'"
+title: 'Configuring a Santander registered "boleto"'
 id: 67siNqkC7mcgy2GWUYimaa
 status: DRAFT
 createdAt: 2017-12-04T19:04:02.215Z
@@ -15,4 +15,4 @@ legacySlug: untitled-entry-2017-12-04-at-07-04-02
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->⚠️ Content under translation
+<div class="alert alert-warning">Content under translation</div>

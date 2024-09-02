@@ -18,7 +18,9 @@ internalReference: 648767
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La selección de un artículo de regalo en el carrito que no tiene existencias no proporcionará ninguna respuesta. Después de seleccionar el regalo, se realizará la solicitud de la API, pero cuando responda, la selección del regalo se eliminará sin más.

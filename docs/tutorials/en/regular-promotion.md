@@ -47,7 +47,9 @@ In this section, you must configure the general information of your promotion. T
   - **Maximum shipping**: Shipping maximum value. 
   - **Free Shipping**: 100% discount on shipping value.
   - **Gift**: Total discount on the product value set as a gift. You can choose more than one SKU as a gift or more than one unit of an SKU. To set more than one gift, select **Activate gift multiplier** and set the maximum selectable quantity.  For more information, read this [article](https://help.vtex.com/en/tutorial/gift-multiplier-in-promotions--1gydgkmjEWcoo2CskUwuYK#).
->ℹ️ The gift also needs to have a nominal price, even if it's given for free to the customer.
+<div class = "alert alert-info">
+  <p>The gift also needs to have a nominal price, even if it's given for free to the customer.</p>
+</div>
   - **Nominal discount based on formula**: the discount is calculated based on the a formula that you can create using the products' total price (`total`), shipping fees (`freight`), and quantity of items (`quantity`) as variables. Note that the shipping value in the formula will be the lowest available for the order, regardless of the customer's selection. The decimal separator symbol must always be the decimal point. For example: if the discount is 30% of the total product value + shipping value, the formula should be `(total + freight) * 0.3`. For more information on the formula, read our [documentation](https://help.vtex.com/en/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV).
   - **Nominal reward value**: Nominal value for rewards program. Read [Regular promotion with reward value](https://help.vtex.com/en/tutorial/regular-promotion-with-reward-value--3FCip23ZtvG0sDt0rVGVmR) for more information.
   - **Percentage reward value**: Percentage value for rewards program. Read [Regular promotion with reward value](https://help.vtex.com/en/tutorial/regular-promotion-with-reward-value--3FCip23ZtvG0sDt0rVGVmR) for more information.
@@ -55,7 +57,9 @@ In this section, you must configure the general information of your promotion. T
 
 - **Promotion is highlighted:** If you select **Yes**, you can insert a flag with the promotion name used in the product's window display and page. This tag will only be added if you use the correct promotion display control in the template: `<vtex.cmc:discountHightLight/>`.
 
->ℹ️ **Nominal** promotions will only be displayed in the cart, not on the shelf or product page.
+<div class = "alert alert-info">
+  <p><b>Nominal</b> promotions will only be displayed in the cart, not on the shelf or product page.</p>
+</div>
 
 ### Restrict this promotion to products from sellers
 
@@ -66,7 +70,9 @@ In this section, you can set which sellers the promotion will apply to as well a
 
 To enable a promotion for all sellers, leave the checkbox empty.
 
->⚠️ You cannot directly select a white label seller. To include a white label seller to the promotion, there are two options:1. Restrict sellers to the main store. This restriction adds all your store's white label sellers to the promotion.2. Leave the checkbox empty to include all sellers, meaning that all types of sellers - whether white label or not - will be added to the promotion.
+<div class = "alert alert-warning">
+  <p>You cannot directly select a white label seller. To include a white label seller to the promotion, there are two options:</p><ol>1. Restrict sellers to the main store. This restriction adds all your store's white label sellers to the promotion.</ol><ol>2. Leave the checkbox empty to include all sellers, meaning that all types of sellers - whether white label or not - will be added to the promotion.</ol>
+</div>
 
 ### Trade Policy
 
@@ -83,7 +89,7 @@ For the promotion to be valid for all sales policies, leave the checkboxes empty
 
 In this section, you need to choose whether this promotion will apply to all products in your store or only to specific products, as illustrated below.
 
-![promocoes-restricao-en](https://images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/adc5cdd25eb79636530e31e668b765e3/image.png)
+![promocoes-restricao-en](//images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/adc5cdd25eb79636530e31e668b765e3/image.png)
 
 If you want the promotion to apply to your entire catalog, select the **Apply to all products** option.
 
@@ -93,11 +99,13 @@ You can add or remove **Categories**, **Brands**, **Collections**, **Products** 
 
 See an example below. In this case, the promotion includes all products from the category **Home Appliances** whose brand is **Brastemp**, except the product **Refrigerator 100**.
 
-![exemplo-en](https://images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
+![exemplo-en](//images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
 
 In the **Products** and **SKUs** fields, you can opt to upload a **.txt** file with one product or SKU ID per row instead of selecting one product or one SKU at a time. To do this, click on **Choose file** and select your **.txt** file.
 
->⚠️ If you select **Apply to the following products** and do not fill in any selection criteria, the promotion will not be created, and the following message will appear: **Set eligible products or apply to all products**. In this case, go to the previous field and fill in the selection criteria or select **Apply to all products**.
+<div class = "alert alert-warning">
+<p>If you select <strong>Apply to the following products</strong> and do not fill in any selection criteria, the promotion will not be created, and the following message will appear: <strong>Set eligible products or apply to all products</strong>. In this case, go to the previous field and fill in the selection criteria or select <strong>Apply to all products</strong>.</p>
+</div>
 
 Products must meet all the conditions specified in this section to be available in the promotion.
 
@@ -120,18 +128,24 @@ The customer's request must meet the conditions added in this section to be vali
 - **Apply selected discount only when one of the above carriers is selected by the customer:** The promotion will apply only after the customer has effectively selected the delivery method in question. Until that method is selected, no discount is applied. This criterion is only applicable to shipping discounts, such as Percentage rate discount, Nominal rate discount, Maximum value rate or Free shipping.
 - **Payment method:** The discount will be granted if the payment method selected by the customer is the same as the one given. This discount will only be applied at checkout, when the customer selects the same payment method added for the promotion.
 
- >ℹ️ By default, you can add up to 20 payment methods per promotion. In addition, you can include up to 100 payment methods via customization. If you need to use more than 20, contact [our Support](https://support.vtex.com/hc/pt-br/requests).
+ <div class = "alert alert-info">
+  <p> By default, you can add up to 20 payment methods per promotion. In addition, you can include up to 100 payment methods via customization. If you need to use more than 20, contact <a href="https://support.vtex.com/hc/pt-br/requests">our Support</a>.</p>
+ </div>
 
 - **Number of installments:** The discount will apply if the number of installments selected by the customer is less than or equal to the maximum number set.
 
->⚠️ **Warning**: Promotions by payment method and number of installments are not valid for orders paid using two cards or gift cards.
+<div class = "alert alert-warning">
+  <p><b>Warning</b>: Promotions by payment method and number of installments are not valid for orders paid using two cards or gift cards.</p>
+</div>
 
 - **Utm\_source:** The discount will apply if browsing is done through the **utm_source** that contains the set value. The customer can only enter one **utm_source** at checkout.
 - **Utm\_campaign:** The discount will apply if browsing is done with the utm_campaign that contains the set value.
 - **Create a new coupon with the UTMs above:** Create a coupon with given UTMs to give the customer access to the promotion without UTMs, simply by using a coupon code.
 - **Utmi\_cp:** The discount will apply if navigation is done with the utmi_cp that contains the set value (case sensitive).
 
->ℹ️ The UTMs field must only contain the value that the UTMs will have to have to activate the discount. No need to insert <i>?utm_source=</i> in the field
+<div class = "alert alert-info">
+  <p>The UTMs field must only contain the value that the UTMs will have to have to activate the discount. No need to insert <i>?utm_source=</i> in the field</p>
+</div>
 
 - **Only if it's a first buy:** The discount will only apply for the customer's first purchase.
 - **Is a subscription order**: Option that defines that the promotion will apply to subscription orders. See the conditions below:

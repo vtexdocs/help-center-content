@@ -32,7 +32,9 @@ Configuring the data in Master Data is the first step in deleting sensitive data
 
 Privacy laws stipulate that personal data must not be shared or unduly exposed. Therefore, settings are required to ensure protection of that data. 
 
->⚠️ Settings that are saved cannot be reversed.
+<div class="alert alert-warning">
+Settings that are saved cannot be reversed.
+</div>
 
 To perform the configuration, follow the steps below: 
 
@@ -52,7 +54,9 @@ To perform the configuration, follow the steps below:
 
 Once you have configured the data in Master Data, you must request the deletion of your customers' personal data from the VTEX systems by opening a ticket with the [VTEX Support](https://help.vtex.com/en/support).
 
->⚠️ Please request the deletion of data for only one account, i.e. one shopper email per ticket. If you include more than one email, the ticket will be returned.
+<div class="alert alert-warning">
+Please request the deletion of data for only one account, i.e. one shopper email per ticket. If you include more than one email, the ticket will be returned.
+</div>
 
 To request the deletion of customer personal data, follow the steps below.
 

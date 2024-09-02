@@ -19,7 +19,9 @@ Neste tutorial, você aprenderá a fazer um simples pedido **REGULAR** (feito, p
 
 Vamos começar!
 
->⚠️ **Importante:** para qualquer autenticação requerida pelas APIs apresentadas neste tutorial, você deve fornecer um **AppToken** e um **AppKey** válidos, registrados no módulo **License Manager** da sua conta e habilitados com permissões suficientes.
+<div class="alert alert-warning">
+<strong>Importante:</strong> para qualquer autenticação requerida pelas APIs apresentadas neste tutorial, você deve fornecer um <b>AppToken</b> e um <b>AppKey</b> válidos, registrados no módulo <b>License Manager</b> da sua conta e habilitados com permissões suficientes.
+</div>
 
 **PERMISSÕES NECESSÁRIAS**
 

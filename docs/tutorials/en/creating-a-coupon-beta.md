@@ -3,8 +3,8 @@ title: 'Creating a coupon'
 id: 7lMk3MmhNp2IEccyGApxU
 status: PUBLISHED
 createdAt: 2022-04-28T20:25:24.998Z
-updatedAt: 2023-04-14T21:08:17.586Z
-publishedAt: 2023-04-14T21:08:17.586Z
+updatedAt: 2024-08-14T17:40:13.842Z
+publishedAt: 2024-08-14T17:40:13.842Z
 firstPublishedAt: 2022-04-28T20:42:45.525Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -42,7 +42,7 @@ The form for creating or editing a coupon has the following fields:
 
 The top dashboard of the form for creating and editing coupons indicates the number of times a coupon has been used, the number of remaining uses of that coupon, and the number of promotions associated with the coupon, as illustrated below.
 
-![create-coupon-1](https://images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/12a3cfbee85e20584d8f110a419c6cfe/create-coupon-1.png)
+![create-coupon-1](//images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/12a3cfbee85e20584d8f110a419c6cfe/create-coupon-1.png)
 
 By clicking on the information on the dashboard, you may access the modal **View usage details**, which displays the following details.
 
@@ -54,11 +54,11 @@ By clicking on the information on the dashboard, you may access the modal **View
 
     If the coupon is a single coupon, this section presents the list of orders in which a coupon has been used and allows you to search by order number. When you click on the order number, you will be redirected to the order details page in **Orders management**.
 
-    ![view-usage-details](https://images.ctfassets.net/alneenqid6w5/1bFOCXCpWwoXzJToacK3BM/628adb058ee54d89dc271d31abb9e26c/view-usage-details.png)
+    ![view-usage-details](//images.ctfassets.net/alneenqid6w5/1bFOCXCpWwoXzJToacK3BM/628adb058ee54d89dc271d31abb9e26c/view-usage-details.png)
 
     If it is a coupon batch, this section displays the list of codes from the batch and allows you to search for a specific code. If you click on a code,  you will see the list of orders where the code has been used and allows you to search for an order number. Clicking on the order number will then take you to the order details page in __Orders management__.
 
-![select-the-code-coupon-batch](https://images.ctfassets.net/alneenqid6w5/25yE4tmkHYDm4MISaz9upH/e30ef211427e536244083f5ad2045fba/selecione-o-codigo-grupo-en.PNG)
+![select-the-code-coupon-batch](//images.ctfassets.net/alneenqid6w5/25yE4tmkHYDm4MISaz9upH/e30ef211427e536244083f5ad2045fba/selecione-o-codigo-grupo-en.PNG)
 
 ### General
 
@@ -71,7 +71,9 @@ The **General** section presents several fields you must fill in with general in
     * **Number of coupons:** Allows to define the number of codes generated in a coupon batch. The maximum number is 1000.
     * **Export coupons:** This button allows you to export the coupon codes within a coupon batch. This option only becomes available when editing already existing coupon batches.
 
->⚠️ You must define at least one UTM. This means it is required to fill in either the **UTM source** or the **UTM campaign** field. You can also fill in both fields.
+<div class="alert alert-warning">
+<p>You must define at least one UTM. This means it is required to fill in either the <strong>UTM source</strong> or the <strong>UTM campaign</strong> field. You can also fill in both fields.</p>
+</div>
 
 ### Restrictions
 
@@ -81,7 +83,9 @@ In this section of the form, you can configure the following coupon usage restri
 
   If this option remains disabled, the coupon can be used for an unlimited number of times.
 
-  >⚠️ In case an order with a limited usage coupon applied is canceled, the limit will be recalculated. This means that orders with the **Canceled** status will not be calculated into the coupon usage limit.
+  <div class="alert alert-warning">
+<p>In case an order with a limited usage coupon applied is canceled, the limit will be recalculated. This means that orders with the <strong>Canceled</strong> status will not be calculated into the coupon usage limit.</p>
+  </div>
 
 ## Generated coupons
 
@@ -90,7 +94,12 @@ If you have created a [coupon batch](https://help.vtex.com/en/tutorial/coupons-b
 * <i class="far fa-clone"></i> **Copy all:** Allows you to copy the generated codes to your clipboard. After that, you can paste them in a spreadsheet editor, such as Excel or Google Sheets. You can also copy each code individually by clicking it.
 * **Export:** Allows exporting the generated coupons to a CSV file. The exported file contains a single column, with one code per row.
 
-![cupons-gerados-en](https://images.ctfassets.net/alneenqid6w5/3Ar3vHIyynacQr9vJ5qUf3/640d534c61c09cae6bb345bbbca25173/cupons-gerados-en.gif)
+![cupons-gerados-en](//images.ctfassets.net/alneenqid6w5/3Ar3vHIyynacQr9vJ5qUf3/640d534c61c09cae6bb345bbbca25173/cupons-gerados-en.gif)
+
+### Generating coupons in bulk
+Coupon [creation for promotions](#creating-coupon) must be done in the Promotions & Taxes module. However, there may be situations when you need to create many coupons at once due to a campaign or marketing initiative.
+
+You cannot generate coupons in bulk in the VTEX Admin, only using the [Promotions & Taxes API](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api). For more information, read our guide [Creating and managing coupons with Promotions API](https://developers.vtex.com/docs/guides/creating-and-managing-coupons-with-promotions-api).
 
 ## Associating a coupon with a promotion 
 

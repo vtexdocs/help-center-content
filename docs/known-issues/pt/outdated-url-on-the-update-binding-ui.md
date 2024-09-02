@@ -18,7 +18,9 @@ internalReference: 890791
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o comerciante está atualizando uma oferta, a interface do usuário é a seguinte:

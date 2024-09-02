@@ -1,5 +1,5 @@
 ---
-title: "Registros de preços de auditoria mostrando informações 'desconhecidas'"
+title: 'Registros de preços de auditoria mostrando informações "desconhecidas"'
 id: 7b8UDsiBo7VOHCN3pgcfd0
 status: PUBLISHED
 createdAt: 2023-07-05T18:51:22.120Z
@@ -18,7 +18,9 @@ internalReference: 856420
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Algumas ações do usuário relacionadas a modificações de preço estão sendo registradas no módulo de auditoria como "desconhecidas".

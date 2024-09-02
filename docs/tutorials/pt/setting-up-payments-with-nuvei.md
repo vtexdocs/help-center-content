@@ -38,13 +38,17 @@ Para utilizar o Nuvei, siga os passos abaixo:
 
 <blockquote><ui>7. Para preencher os campos <b>Merchant Id</b>, <b>Merchant Site Id</b> e <b>Client Secret</b> (Secret Key), acesse as informações disponíveis em <b>Settings > My Integration Settings</b> dentro do painel de controle de sua conta no ambiente Nuvei.</ui>
 
-<blockquote><ui>>⚠️ A Nuvei possui credenciais (Merchant Id, Merchant Site Id e Client Secret) específicas para cada tipo de ambiente. Acesse os ambientes de teste [(Integration)](sandbox.nuvei.com) e [Live](cpanel.nuvei.com) para identificar as informações relativas a cada um deles.</blockquote>
+<blockquote><ui><div class="alert alert-warning">
+ A Nuvei possui credenciais (Merchant Id, Merchant Site Id e Client Secret) específicas para cada tipo de ambiente. Acesse os ambientes de teste <a href="sandbox.nuvei.com">(Integration)</a> e <a href="cpanel.nuvei.com">Live</a> para identificar as informações relativas a cada um deles.
+  </div></blockquote>
 <br>  
 <blockquote><ui>8. Em <b>Environment</b>, selecione se deseja configurar o provedor Nuvei no ambiente <b>Integration</b> ou <b>Live</b>.</ui>
 
 <blockquote><ui>9. Em <b>Test 3ds challenge Integration only</b>, caso você tenha selecionado o ambiente de teste (<b>Integration</b>) é possível realizar testes de segurança 3DS por meio das opções <b>Force 3ds Challenge</b>, <b>Force 3ds Frictionless</b> ou <b>User cardHolder name</b>. Para mais informações sobre os testes, acesse a documentação <a href="https://docs.nuvei.com/documentation/integration/testing/testing-cards/?highlight=test%20cards#3d-secure-v2-test-scenarios">Nuvei</a>.</ui>
 
- <blockquote><ui>>⚠️ Sempre que o **Environment** do provedor for configurado como **Live**, a opção selecionada para o campo **Test 3ds challenge Integration only** deve ser **User cardHolder name**.</blockquote>
+ <blockquote><ui><div class="alert alert-warning">
+   Sempre que o <b>Environment</b> do provedor for configurado como <b>Live</b>, a opção selecionada para o campo <b>Test 3ds challenge Integration only</b> deve ser <b>User cardHolder name</b>.
+  </div></blockquote>
 <br>  
 <blockquote><ui>10. Clique em <b>Salvar</b>.</ui>
 

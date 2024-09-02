@@ -27,7 +27,9 @@ Vamos, então, manipular alguns dados do `orderForm` para inserir um segundo end
 - Usando a biblioteca vtex.js.
 - Por meio de um request à API de Checkout da VTEX.
 
->⚠️ Embora seja possível criar uma interface customizada sobreposta à da VTEX, contendo o segundo campo de endereço, não recomendamos que se faça isso.
+<div class="alert alert-warning">
+Embora seja possível criar uma interface customizada sobreposta à da VTEX, contendo o segundo campo de endereço, não recomendamos que se faça isso.
+</div>
 
 ## vtex.js
 

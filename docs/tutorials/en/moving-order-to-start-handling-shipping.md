@@ -40,4 +40,6 @@ If the store doesn't have an ERP or some system that integrates the orders, it's
     - <a class="far fa-check-square"></a> I understand the consequences of this action in the order flow.
 5. Click `Proceed with status`.
 
->⚠️ When you manually start an order handling, the order can not be integrated with the ERP later on.
+<div class="alert alert-warning">
+When you manually start an order handling, the order can not be integrated with the ERP later on.
+</div>

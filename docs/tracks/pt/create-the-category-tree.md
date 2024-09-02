@@ -22,7 +22,9 @@ Então é por ela que precisamos começar.
 
 ## O que é uma árvore de categorias?
 
->ℹ️ A árvore de categorias é o conjunto de categorias do seu site, **distribuídas segundo relações de hierarquia**.
+<div class="alert alert-info">
+A árvore de categorias é o conjunto de categorias do seu site, <strong>distribuídas segundo relações de hierarquia</strong>.
+</div>
 
 ## Exemplo
 
@@ -36,17 +38,21 @@ No início do projeto, antes que qualquer produto seja inserido na plataforma, v
 
 Este, portanto, poderia ser o desenho inicial da árvore de categorias da sua loja:
 
-![diagrama-help](https://images.contentful.com/alneenqid6w5/5W7d9NCYCscs6wks2gGQW8/176a2ae08c349fd0473ae796dead9d29/diagrama-help.png)
+![diagrama-help](//images.contentful.com/alneenqid6w5/5W7d9NCYCscs6wks2gGQW8/176a2ae08c349fd0473ae796dead9d29/diagrama-help.png)
 
 __OBS__: a nomenclatura __Departamento / Categoria / Subcategoria__ é apenas uma maneira de enxergar a sua árvore, e que pode ou não facilitar seu trabalho. A plataforma não exige este ou qualquer outro padrão de nomenclatura. Para a VTEX, quaisquer níveis que venham a ser criados para a distribuição dos seus produtos são tomados apenas como níveis de categoria.
 
 Mas atenção:
 
->⚠️ Recomendamos que sejam criados **no máximo 3 níveis de categoria**. Mais níveis podem tornar a operação do seu catálogo muito complexa.
+<div class="alert alert-warning">
+Recomendamos que sejam criados <strong>no máximo 3 níveis de categoria</strong>. Mais níveis podem tornar a operação do seu catálogo muito complexa.
+</div>
 
 Dois pontos fundamentais:
 
 - Quem planeja a distribuição das categorias do seu site? __Você! Esse planejamento deve refletir os objetivos do seu negócio.__
 - Quando a distribuição das categorias deve ser definida? __Antes que as categorias sejam de fato inseridas no site.__
 
->⚠️ É muito importante que sua equipe defina a composição da árvore de categorias **antes** de montá-la na plataforma. Depois que você começar a inserir produtos, precisar mover categorias pode se tornar uma dor de cabeça.
+<div class="alert alert-warning">
+É muito importante que sua equipe defina a composição da árvore de categorias <strong>antes</strong> de montá-la na plataforma. Depois que você começar a inserir produtos, precisar mover categorias pode se tornar uma dor de cabeça.
+</div>

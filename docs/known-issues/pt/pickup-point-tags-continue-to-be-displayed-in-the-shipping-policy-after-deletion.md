@@ -18,7 +18,9 @@ internalReference: 1015158
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As tags registradas no ponto de coleta estão disponíveis em um menu suspenso nas políticas de remessa para vincular o PUP à política de remessa; no entanto, quando qualquer uma dessas tags é excluída no PUP, elas permanecem disponíveis no menu suspenso da política de remessa.

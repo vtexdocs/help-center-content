@@ -14,7 +14,9 @@ trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugES: instore-setup
 ---
 
->ℹ️ Atención: Esa documentación está en proceso de actualizarse para reflejar los cambios del término Paneles a [estratégia de envío](https://help.vtex.com/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl).
+<div class="alert alert-info">
+Atención: Esa documentación está en proceso de actualizarse para reflejar los cambios del término Paneles a <a href="https://help.vtex.com/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">estratégia de envío</a>.
+</div>
 
 Para configurar el inStore con el modo de __Retirada en la tienda__, es decir, para considerar el inventario de su tienda física, usted depende de dos factores:
 

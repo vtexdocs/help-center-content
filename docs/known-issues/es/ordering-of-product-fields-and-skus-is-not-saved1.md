@@ -18,7 +18,9 @@ internalReference:
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se cambia la ordenación de los campos de productos o SKUs en una categoría que no es la principal, después de hacer clic en el botón de ordenación los cambios no se guardan y los campos modificados no aparecen después de recargar la página.

@@ -1,5 +1,5 @@
 ---
-title: "Solicitação incorreta ao pesquisar termos com '#' por meio do preenchimento automático"
+title: 'Solicitação incorreta ao pesquisar termos com "#" por meio do preenchimento automático'
 id: 18pMsxubB9eSPGlULAN35p
 status: PUBLISHED
 createdAt: 2024-02-06T20:07:52.739Z
@@ -18,7 +18,9 @@ internalReference: 978136
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao pesquisar um termo com "#" diretamente por meio do preenchimento automático, a página nunca é carregada

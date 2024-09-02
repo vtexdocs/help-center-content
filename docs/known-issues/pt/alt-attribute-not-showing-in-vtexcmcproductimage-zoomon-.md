@@ -1,5 +1,5 @@
 ---
-title: "ALT attribute not showing in <vtex.cmc:ProductImage zoom='on' />"
+title: 'ALT attribute not showing in <vtex.cmc:ProductImage zoom="on" />'
 id: 4P1Eys9Q2WFddrMLQVDvM9
 status: DRAFT
 createdAt: 2022-02-17T13:08:53.295Z
@@ -18,13 +18,19 @@ internalReference: 526563
 
 ## Sumário
 
->⚠️ Este conteúdo só está disponível em Inglês.
+<div class="alert alert-warning">
+  <p>Este conteúdo só está disponível em Inglês.</p>
+</div>
 
 ## Simulação
 
->⚠️ Este conteúdo só está disponível em Inglês.
+<div class="alert alert-warning">
+  <p>Este conteúdo só está disponível em Inglês.</p>
+</div>
 
 ## Workaround
 
->⚠️ Este conteúdo só está disponível em Inglês.
+<div class="alert alert-warning">
+  <p>Este conteúdo só está disponível em Inglês.</p>
+</div>
 

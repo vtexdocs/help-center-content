@@ -18,7 +18,9 @@ internalReference: 481095
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar exportar Especificaciones de Producto desde la UI "Importar y Exportar", si existe algún valor nulo o relación nula en la categoría a exportar, el proceso fallará con un mensaje de "Índice fuera de Rango". En otras palabras, la categoría debe tener registrado directamente a su nivel un campo de producto, productos y productos con valores asociados.

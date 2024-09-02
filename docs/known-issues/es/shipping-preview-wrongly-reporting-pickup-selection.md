@@ -18,7 +18,9 @@ internalReference: 552912
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En el carrito, al informar de su ubicación, la vista previa del envío informa erróneamente de qué recogida se ha seleccionado para esta recogida. Cuando en realidad deberían aparecer dos opciones de recogida (en este ejemplo hubo una rotura de paquete). Y al llegar a la caja, la información se proporciona correctamente, con las retiradas en las respectivas recogidas correctas.

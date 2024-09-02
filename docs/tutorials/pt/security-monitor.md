@@ -15,7 +15,9 @@ legacySlug: security-monitor
 subcategory: jrgbOxKaOW0kdZs7rdgvS
 ---
 
->ℹ️ Esta funcionalidade faz parte do produto [VTEX Shield](https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+<div class="alert alert-info">
+  <p>Esta funcionalidade faz parte do produto <a href="https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh">VTEX Shield</a>. Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o <a href="https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Suporte Comercial</a>. É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o <a href="https://vtex.com/br-pt/contato/">formulário de contato</a>.</p>
+</div>
 
 O Security Monitor é um dashboard que auxilia lojistas a identificarem e gerenciarem riscos potenciais em sua conta em tempo real. A ferramenta identifica e notifica lojistas por email sobre riscos relacionados a configurações e comportamento de usuários administrativos, possibilitando ações preventivas contra vulnerabilidades de segurança.
 
@@ -24,7 +26,7 @@ Para acessar o dashboard, siga os passos abaixo:
 1. No Admin VTEX, acesse **Dashboards**, ou digite **Dashboards** na barra de busca.
 2. Em **Security Monitor**, clique em **Security Monitor Dashboard**.
 
-![1-security-monitor-pt](https://images.ctfassets.net/alneenqid6w5/k2BpYU2kF3p3grDdfy4aB/b0355765dafddea697f6cd29739be2fa/1-security-monitor-pt.png)
+![1-security-monitor-pt](//images.ctfassets.net/alneenqid6w5/k2BpYU2kF3p3grDdfy4aB/b0355765dafddea697f6cd29739be2fa/1-security-monitor-pt.png)
 
 O Security Monitor apresenta as descobertas em três abas, divididas por status:
 
@@ -46,7 +48,7 @@ A aba **Abertas** apresenta as ameaças identificadas pelo Security Monitor que 
 
 A barra superior indica o total de descobertas e a quantidade de ameaças por nível de severidade (alta, média ou baixa).
 
-![2-findings-pt](https://images.ctfassets.net/alneenqid6w5/4wpzGuNHIyqAaRGuv5Dt8E/1d9ec105165551da7e470f3be5aa30ec/2-findings-pt.png)
+![2-findings-pt](//images.ctfassets.net/alneenqid6w5/4wpzGuNHIyqAaRGuv5Dt8E/1d9ec105165551da7e470f3be5aa30ec/2-findings-pt.png)
 
 A aba apresenta a listagem completa de descobertas abertas em uma tabela, da mais recente para a mais antiga: 
 
@@ -77,7 +79,7 @@ Para mover uma descoberta para a aba **Silenciadas**, ou seja, removê-la tempor
 3. Escolha o período de tempo em dias para manter essa descoberta na aba **Silenciadas**. As opções disponíveis são: **7**, **90** ou **120** dias.
 4. Clique em `Silenciar`.
 
-![3-snooze-finding-pt](https://images.ctfassets.net/alneenqid6w5/1neaA5XmCxK4EB3HAVxcud/8a2ba4dbd793fcfde04b219947bba6f4/3-snooze-finding-pt.png)
+![3-snooze-finding-pt](//images.ctfassets.net/alneenqid6w5/1neaA5XmCxK4EB3HAVxcud/8a2ba4dbd793fcfde04b219947bba6f4/3-snooze-finding-pt.png)
 
 ## Silenciadas
 
@@ -106,7 +108,7 @@ Na barra de busca, digite o email de usuário ou o nome da chave de aplicação 
 
 Ao clicar em <i class="fas fa-chevron-down"></i> `Tipo`, você pode escolher um dos tipos de descoberta para filtrar os resultados exibidos na listagem. Clique em `Aplicar` para confirmar o filtro escolhido e a listagem será atualizada.
 
-![4-filter-findings-pt](https://images.ctfassets.net/alneenqid6w5/1qJnJBy5YHJzQKynw783W7/afdf81607e3076ac05f71515b02e742a/4-filter-findings-pt.png)
+![4-filter-findings-pt](//images.ctfassets.net/alneenqid6w5/1qJnJBy5YHJzQKynw783W7/afdf81607e3076ac05f71515b02e742a/4-filter-findings-pt.png)
 
 ## Editar configurações de notificações
 
@@ -119,7 +121,7 @@ Para editar os usuários administrativos que vão receber notificações em caso
 
 3. Clique em `Salvar`.
 
-![5-edit-notifications-pt](https://images.ctfassets.net/alneenqid6w5/1CmMhWokQgzxRAqk1Jvqn4/db1c1b11d46b98b05ab9b9091db65fa5/5-edit-notifications-pt__1_.png)
+![5-edit-notifications-pt](//images.ctfassets.net/alneenqid6w5/1CmMhWokQgzxRAqk1Jvqn4/db1c1b11d46b98b05ab9b9091db65fa5/5-edit-notifications-pt__1_.png)
 
 ## Saiba mais
 

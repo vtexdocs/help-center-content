@@ -18,7 +18,9 @@ internalReference: 760896
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Tras realizar algunas pruebas empíricas, hemos observado que la ruta /transaction de la API nativa de tarjetas regalo, devuelve en ocasiones un código de error 500 al añadir el crédito solicitado, lo cual es un comportamiento inesperado. Además, hemos observado que la solicitud está tardando más de lo esperado en recibir una respuesta, lo que indica un comportamiento de tiempo de espera. Como resultado, no existe un bloqueo efectivo que garantice que el saldo de la tarjeta no se abonará en este caso.

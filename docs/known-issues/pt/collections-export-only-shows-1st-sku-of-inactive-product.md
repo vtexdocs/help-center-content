@@ -18,7 +18,9 @@ internalReference: 1040753
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o módulo de coleções e tentar exportar registros, se o produto listado em uma determinada coleção tiver todos os seus skus definidos como inativos, a planilha exportada listará apenas um dos skus do produto, em vez de todos.

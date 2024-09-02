@@ -18,7 +18,9 @@ internalReference: 739814
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El filtro de orden en el editor CMS/Site al subir una nueva imagen no funciona correctamente

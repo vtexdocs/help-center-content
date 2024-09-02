@@ -30,7 +30,9 @@ To add support for [3DS](https://help.vtex.com/en/tutorial/o-que-e-3d-secure--1e
 
 After configuring the connector on VTEX, go to the Adyen dashboard to enable 3DS for your store transactions.
 
->⚠️ We recommend that you set up the test environment before moving to the live environment. Validate the settings in the test environment, then access the **Live** environment to make final adjustments.
+<div class="alert alert-warning">
+  We recommend that you set up the test environment before moving to the live environment. Validate the settings in the test environment, then access the <b>Live</b> environment to make final adjustments.
+  </div>
 
 1. Click on the links below to access Adyen's test and live environments:
 

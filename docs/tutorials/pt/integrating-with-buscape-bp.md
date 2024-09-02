@@ -32,7 +32,9 @@ Alguns passos são essenciais para iniciarmos as configurações.
 4. Preencha os campos conforme detalhado abaixo;
 5. Clique no botão **Salvar Configuração**. Ele estará ativo somente se todas as configurações estiverem corretas.
 
->⚠️ Atenção! Para a política comercial é preciso que pelo menos um boleto ou um cartão de crédito seja configurado. Ou seja, é necessário que sejam configurados os meios de pagamento para o sales channel específico.
+<div class="alert alert-warning">
+Atenção! Para a política comercial é preciso que pelo menos um boleto ou um cartão de crédito seja configurado. Ou seja, é necessário que sejam configurados os meios de pagamento para o sales channel específico.
+</div>
 
 ### Campos
 

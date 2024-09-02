@@ -18,7 +18,9 @@ internalReference: 514532
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao preencher os dados na etapa de perfil no checkout e prosseguir para a etapa de envio, ao retornar clicando na seta de retorno do navegador, ao alcançar o perfil novamente o botão para prosseguir para a etapa seguinte, deve estar com o nome de '**Ir para entrega**' no entanto diz '**Ir para pagamento**', mesmo com o componente de envio ainda não preenchido.

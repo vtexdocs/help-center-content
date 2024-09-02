@@ -1,5 +1,5 @@
 ---
-title: "El usuario sólo con el rol 'Administrador de usuarios - RESTRINGIDO' no puede listar los usuarios"
+title: 'El usuario sólo con el rol "Administrador de usuarios - RESTRINGIDO" no puede listar los usuarios'
 id: ifXUAzgJ1xr8ezhqKpRUI
 status: PUBLISHED
 createdAt: 2023-11-08T18:07:14.508Z
@@ -18,7 +18,9 @@ internalReference: 932666
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si un usuario administrador sólo tiene el rol "**Administrador de usuarios - RESTRINGIDO**" (recurso "**Guardar usuario**"), la lista de usuarios no está disponible y no es posible realizar las ediciones o eliminaciones necesarias.

@@ -23,7 +23,7 @@ No Admin, é possível criar *landing pages* customizadas por [*binding*](https:
 2. Selecione o *binding* no qual deseja criar a nova *landing page* no menu suspenso da página.
 3. Clique no botão `Criar nova`.
 
-  ![pt-landing-page-binding](https://images.ctfassets.net/alneenqid6w5/4o8DseduoS1fsMR98iRt1R/8c75f884af19cf8e61e4c4adb1e2a83f/pt-landing-page-binding.png)
+  ![pt-landing-page-binding](//images.ctfassets.net/alneenqid6w5/4o8DseduoS1fsMR98iRt1R/8c75f884af19cf8e61e4c4adb1e2a83f/pt-landing-page-binding.png)
 
 4. Na seção `Detalhes da página`, preencha os campos e defina os metadados para sua nova *landing page* de acordo com os valores esperados:
 
@@ -33,12 +33,16 @@ No Admin, é possível criar *landing pages* customizadas por [*binding*](https:
 - `Descrição` - Resumo da nova página a ser exibido nas páginas de resultados dos mecanismos de busca.
 - `Palavras-chave` - Tópicos que definem o conteúdo da página, ajudando a distribuí-la aos usuários interessados que navegam nas páginas de resultados dos mecanismos de busca.
 
-  >ℹ️ Todos os cinco campos acima impactam diretamente os acessos à loja e o posicionamento da mesma nas páginas de resultados dos mecanismos de busca. Antes de preencher os metadados da página, esteja ciente das práticas recomendadas de <i>SEO</i>.
+  <div class = "alert alert-info">
+Todos os cinco campos acima impactam diretamente os acessos à loja e o posicionamento da mesma nas páginas de resultados dos mecanismos de busca. Antes de preencher os metadados da página, esteja ciente das práticas recomendadas de <i>SEO</i>.
+</div>
 
 5. Escolha um *template* para ser exibido em sua nova *landing page* no campo `Padrão`.
 6. Se você deseja criar um *template* condicional, clique no botão `Adicionar template condicional` e preencha os campos de acordo com as condições desejadas.
 
-  >⚠️ Observe que o <i>template</i> de condição só será exibido quando uma <i>ou</i> todas as condições predefinidas forem realizadas na interface.
+  <div class = "alert alert-warning">
+Observe que o <i>template</i> de condição só será exibido quando uma <i>ou</i> todas as condições predefinidas forem realizadas na interface.
+</div>
 
 7. Salve suas alterações.
 

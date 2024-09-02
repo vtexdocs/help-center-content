@@ -1,5 +1,5 @@
 ---
-title: "Ocorre um erro ao tentar realizar uma pesquisa usando o campo 'Todos' no VTEX CRM"
+title: 'Ocorre um erro ao tentar realizar uma pesquisa usando o campo "Todos" no VTEX CRM'
 id: 1OKMTJuUZx6mnDmYW3MBjP
 status: PUBLISHED
 createdAt: 2023-10-25T18:46:48.120Z
@@ -18,7 +18,9 @@ internalReference: 925679
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Esse caso ocorre com entidades que contêm um grande número de campos e milhões de registros em uma entidade. O problema ocorre porque o mecanismo de busca usa o campo "All", que envia solicitações individuais para cada campo pesquisável da entidade e multiplica a carga de solicitações para cada documento.

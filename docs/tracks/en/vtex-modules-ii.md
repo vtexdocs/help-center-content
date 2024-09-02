@@ -28,7 +28,9 @@ The [Payments](https://help.vtex.com/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/
 
 To process and receive payments for purchases in a VTEX store, you need to have a service agreement with one or more payment providers. These agreements are established directly between the merchant and the provider, without mediation or participation from VTEX. To view available providers on VTEX in each country, check the [List of Payment Providers by Country](https://help.vtex.com/en/tutorial/list-of-payment-providers-by-country--2im3BEGXxSAcRuxEaIHPvp).
 
->⚠️ We recommend integrating multiple payment providers in your store to enhance customer experience by offering a variety of payment methods and conditions. This approach also allows operating with diverse rates and costs, thereby improving business performance.
+<div class="alert alert-warning">
+We recommend integrating multiple payment providers in your store to enhance customer experience by offering a variety of payment methods and conditions. This approach also allows operating with diverse rates and costs, thereby improving business performance.
+</div>
 
 The payment settings described in this track can be configured at any time during the onboarding process. However, for the store to be able to process any type of payment transaction, the [Catalog](https://help.vtex.com/en/tracks/track-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog), [Pricing](https://help.vtex.com/en/tracks/track-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#prices), and [Logistics](https://help.vtex.com/en/tracks/track-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistic) modules must have been configured beforehand.
 
@@ -53,11 +55,11 @@ The table below shows the main agents and terms used in the Payments context:
 
 When a purchase is completed on VTEX, a new transaction is created and the payment flow begins. In the example below, you can see the payment flow for a credit card purchase:
 
-![payments-en](https://images.ctfassets.net/alneenqid6w5/6rqeRDDqm3rijRrwpG6Lb1/8df497f70d26352352a11d942887afa7/payments_image1_EN__1_.JPG)
+![payments-en](//images.ctfassets.net/alneenqid6w5/6rqeRDDqm3rijRrwpG6Lb1/8df497f70d26352352a11d942887afa7/payments_image1_EN__1_.JPG)
 
 As the data is transferred among the agents responsible for data processing, the payment transaction status is updated to reflect the current stage of the resources in the flow. In the credit card payment flow, we can consider the following example of transaction statuses:
 
-![payments-flow-en](https://images.ctfassets.net/alneenqid6w5/6fsbJZ07a18ea8I1pk7UFo/14fa9b346e6a041fa934f2cfa9d94ace/payments_image2_ALL.JPG)
+![payments-flow-en](//images.ctfassets.net/alneenqid6w5/6fsbJZ07a18ea8I1pk7UFo/14fa9b346e6a041fa934f2cfa9d94ace/payments_image2_ALL.JPG)
 
 ### Configuring payments in your store
 
@@ -71,7 +73,9 @@ Payment providers must be enabled in a store to transmit and receive the informa
 2. Select the desired provider by clicking the corresponding link in the table.
 3. Go to the VTEX Admin to configure the provider and follow the instructions listed in the specific configuration article.
 
->ℹ️ You can also find provider configuration articles by entering the name of the provider in the search bar of the [Help Center](https://help.vtex.com/en).
+<div class = "alert alert-info">
+You can also find provider configuration articles by entering the name of the provider in the search bar of the <a href="https://help.vtex.com/en">Help Center</a>.
+</div>
 
 #### Defining payment methods and payment conditions
 
@@ -176,7 +180,7 @@ In the VTEX Admin, under **Orders > [All Orders](https://help.vtex.com/en/tutori
 
 On the order details page, you can also track the progress of the [order flow](https://help.vtex.com/en/tutorial/order-flow-and-status--tutorials_196). The image below illustrates an example of this flow when the store acts as both a marketplace and a seller:
 
-![order-flow-en](https://images.ctfassets.net/alneenqid6w5/5ObTRbhlsYxoaW0Lzw7RmS/3ea6fe2efb78e9b449acb2dac8b1700f/pedido_fluxo_completo_en.png)
+![order-flow-en](//images.ctfassets.net/alneenqid6w5/5ObTRbhlsYxoaW0Lzw7RmS/3ea6fe2efb78e9b449acb2dac8b1700f/pedido_fluxo_completo_en.png)
 
 To find a purchase record in the VTEX Admin, you can either [filter orders](https://help.vtex.com/en/tutorial/filtering-all-orders--tutorials_192) on the **All Orders** page or use the global search bar, which is accessible from any page within the VTEX Admin. To search, simply select the `Orders` option in the right corner of the search bar and enter any of the following values:
 
@@ -185,7 +189,9 @@ To find a purchase record in the VTEX Admin, you can either [filter orders](http
 - Customer email
 - Customer ID
 
->⚠️ You can only access details about orders created in the last two years. This same period applies to customers accessing their orders via the [My Account]() page.
+<div class="alert alert-warning">
+You can only access details about orders created in the last two years. This same period applies to customers accessing their orders via the <a href="">My Account</a> page.
+</div>
 
 To enable customers to track their orders, VTEX offers two important features: [transactional emails](#transactional-emails) and a dedicated customer area called [My Account](#my-account-feature).
 
@@ -229,7 +235,7 @@ Checkout is the last stage in the online shopping process, playing a significant
 
 To ensure the checkout will work properly, the following modules must be correctly configured: [Catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), [Logistics](https://help.vtex.com/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx), [Prices](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promotions](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Payments](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#), and [Orders](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE).
 
-![checkout-en](https://images.ctfassets.net/alneenqid6w5/57AJQIGKk5fuwN8SRMenM0/fd3e825135b5ca4f2a1c3b976bf9d9ad/checkout_image_EN.jpg)
+![checkout-en](//images.ctfassets.net/alneenqid6w5/57AJQIGKk5fuwN8SRMenM0/fd3e825135b5ca4f2a1c3b976bf9d9ad/checkout_image_EN.jpg)
 
 Sharing information allows processing details regarding availability, prices, applicable promotions, shipping options, and payment methods.
 
@@ -254,7 +260,9 @@ Learn more in [Optimization of shipping options at Checkout](https://help.vtex.c
 
 This feature allows sending emails to customers who have created a shopping cart but have not completed the purchase.
 
->ℹ️ Configuring the abandoned cart feature during the onboarding process allows forwarding all future carts for customer review, encouraging them to complete their purchases.
+<div class = "alert alert-info">
+Configuring the abandoned cart feature during the onboarding process allows forwarding all future carts for customer review, encouraging them to complete their purchases.
+</div>
 
 Learn more in [Setting up Cart Abandonment](https://help.vtex.com/en/tutorial/configurar-carrinho-abandonado--tutorials_740).
 
@@ -262,7 +270,9 @@ Learn more in [Setting up Cart Abandonment](https://help.vtex.com/en/tutorial/co
 
 On the VTEX platform, stores can manually adjust the price of an item (SKU) in the cart at checkout. This feature can be used to apply special discounts, correct pricing errors, create custom offers, address price-related complaints, or adjust shipping costs.
 
->⚠️ Only users with the necessary [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) and permissions within the VTEX Admin can make these changes.
+<div class="alert alert-warning">
+Only users with the necessary <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">roles</a> and permissions within the VTEX Admin can make these changes.
+</div>
 
 Learn more in [Change the price of an item in the shopping cart](https://help.vtex.com/en/tutorial/modificar-o-preco-de-um-item-no-carrinho-de-compras--7Cd37aCAmtL1qmoZJJvjNf).
 

@@ -18,7 +18,9 @@ internalReference: 1068197
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si un comprador tiene varias direcciones de distintos países en su perfil y la tienda no realiza entregas en ninguna de esas direcciones, al seleccionar la recogida en una dirección válida y pasar al paso de pago, la interfaz de usuario de la caja redirige al comprador de nuevo al paso de envío.

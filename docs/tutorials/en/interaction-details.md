@@ -15,9 +15,11 @@ legacySlug: interaction-details
 subcategory: 
 ---
 
->ℹ️ To evolve your experience in synchronizing and updating offers, the VTEX team is developing a new functionality that will replace the current module **Offer Management**. As a result, the module will not receive new updates or maintenance.
-> For connectors and marketplaces already integrated into the module, please contact the development team by email [taissa.araujo@vtex.com.br](taissa.araujo@vtex.com.br).
-> For connectors interested in starting the integration, we ask you to wait for the release of the new module, as soon as it is available we will announce it to all customers through the [Developer Portal's release notes section](https://developers.vtex.com/updates/release-notes) and [VTEX Help Center announcements page](https://help.vtex.com/pt/en/announcements).  
+<div class="alert alert-info">
+To evolve your experience in synchronizing and updating offers, the VTEX team is developing a new functionality that will replace the current module <b>Offer Management</b>. As a result, the module will not receive new updates or maintenance.
+For connectors and marketplaces already integrated into the module, please contact the development team by email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
+For connectors interested in starting the integration, we ask you to wait for the release of the new module, as soon as it is available we will announce it to all customers through the <a href="https://developers.vtex.com/updates/release-notes">Developer Portal's release notes section</a> and <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center announcements page</a>.
+</div>  
 
 The **Interaction details** page in the [Offer Management](https://help.vtex.com/en/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE) module allows sellers to view all interactions of an offer regarding its sending and syncing processes in a comprehensive manner. Interaction details will be available for ten days after registration.
 
@@ -32,10 +34,12 @@ On the **Interaction details** page, you will see the following sections:
 - [Interaction result](#interaction-result)      
 - [Timeline](#timeline)
 
->ℹ️ In **Offer Management** , you can track offers using [Mercado Libre](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic and Premium), [Netshoes](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) and VTEX marketplaces. For connectors to integrate via API, see [Offer Management Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
+<div class = "alert alert-info">
+In <b>Offer Management</b> , you can track offers using <a href="https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Libre</a> (Classic and Premium), <a href="https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm">Netshoes</a> and VTEX marketplaces. For connectors to integrate via API, see <a href="https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors">Offer Management Integration Guide</a>.
+</div>
 
 ## Header
-![Interaction details PT cabeçalho](https://images.ctfassets.net/alneenqid6w5/7zEocS2MW5dSRzZaaqNDUc/d28534c5926b61794e3b16ac91636f86/Interaction_details_EN_cabe__alho.jpg)
+![Interaction details PT cabeçalho](//images.ctfassets.net/alneenqid6w5/7zEocS2MW5dSRzZaaqNDUc/d28534c5926b61794e3b16ac91636f86/Interaction_details_EN_cabe__alho.jpg)
 The *header* summarizes the offer’s main information for quick viewing, such as the SKU name, the logo of the channel it was sent to, its ID on the VTEX platform and on the channel.
 
 ## Interaction result
@@ -44,23 +48,23 @@ The *header* summarizes the offer’s main information for quick viewing, such a
 The *Interaction result* block provides information on the effect of the interaction on the offer, based on the combination of logs in the interaction. The status of an offer is determined by the result of its interactions. It indicates whether it was possible to send the offer to the channel and sync it. Here are possible interaction results: 
 
 ### Result: Success
-![Interaction details PT resultado sucesso](https://images.ctfassets.net/alneenqid6w5/72PZOesROTjIZbmFOTQ8jk/e0f5c0733c6ad25cc3eda476500bcd6a/Interaction_details_EN_resultado_sucesso.jpg)
+![Interaction details PT resultado sucesso](//images.ctfassets.net/alneenqid6w5/72PZOesROTjIZbmFOTQ8jk/e0f5c0733c6ad25cc3eda476500bcd6a/Interaction_details_EN_resultado_sucesso.jpg)
 The *Success* result indicates that the interaction fulfilled its expected effect. It means that the offer has been sent to the channel correctly, or that the offer’s price, inventory, or catalog information has been updated. 
 
 ### Result: Failure
-![Interaction details PT resultado falha](https://images.ctfassets.net/alneenqid6w5/1ZR16rSnDEVY0812xY4XFZ/c7dce5355ca57a597664740779478344/Interaction_details_ES_resultado_falha.jpg)
+![Interaction details PT resultado falha](//images.ctfassets.net/alneenqid6w5/1ZR16rSnDEVY0812xY4XFZ/c7dce5355ca57a597664740779478344/Interaction_details_ES_resultado_falha.jpg)
 The *Failure* result indicates that the system could not complete the interaction due to an issue. This result leads to the *Error* status in the offer, preventing it from being sent or updated on the channel. When the interaction result is *Failure*, the issues detected will be listed and you can expand them for more information.
 
 ### Result: Notification
-![Interaction details PT resultado aviso](https://images.ctfassets.net/alneenqid6w5/7kwwswW5m4kVL3fXWzxKSV/f9983790af5371a5412ba1127390655e/Interaction_details_EN_resultado_aviso.jpg)
+![Interaction details PT resultado aviso](//images.ctfassets.net/alneenqid6w5/7kwwswW5m4kVL3fXWzxKSV/f9983790af5371a5412ba1127390655e/Interaction_details_EN_resultado_aviso.jpg)
 The *Notification* result provides information about the offer’s sending and syncing processes, making it easier for the seller to monitor it.
 
 ### Result: Processing
-![Interaction details PT resultado processing](https://images.ctfassets.net/alneenqid6w5/1gilFQQUmLVzTznTQDNv7G/e9a13da08b1a3e1b572c6363182d15e9/Interaction_details_EN_resultado_processing.jpg)
+![Interaction details PT resultado processing](//images.ctfassets.net/alneenqid6w5/1gilFQQUmLVzTznTQDNv7G/e9a13da08b1a3e1b572c6363182d15e9/Interaction_details_EN_resultado_processing.jpg)
 The *Processing* result means the interaction has not been completed and is still in progress. This is a temporary status because once the interaction's process is completed, it can only result in `success`, `failure`, or `notification`. 
 
 ## Timeline
-![Interaction details EN linha do tempo](https://images.ctfassets.net/alneenqid6w5/6rLi24P5ltS8XFIEBIn6hb/67355b2fccc741b3774e3789a17773e5/Interaction_details_EN_linha_do_tempo.jpg)
+![Interaction details EN linha do tempo](//images.ctfassets.net/alneenqid6w5/6rLi24P5ltS8XFIEBIn6hb/67355b2fccc741b3774e3789a17773e5/Interaction_details_EN_linha_do_tempo.jpg)
 The system generates interactions to update information, and they use logs to make the necessary actions during the process. 
 
 The timeline on the **Interaction details** page displays the logs generated for the interaction in chronological order, and the information is available for consultation for ten days. Once the interaction objective is achieved and no further logs are to be generated, the interaction is automatically closed. The timeline displays the following data:

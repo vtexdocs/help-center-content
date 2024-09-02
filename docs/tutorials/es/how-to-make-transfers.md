@@ -68,4 +68,6 @@ El mensaje informa el status - si se completó con éxito o si se produjo algún
 
 Sin embargo, esta no es la única manera de verificar esta información. En caso de ser necesario, el administrador de la tienda también puede consultarla en el módulo de __Declaraciones (Extracto Financiero)__. En la pestaña __Declaraciones__, simplemente seleccione la opción  deseada para ver los detalles.
 
->ℹ️ Al igual que en las transacciones bancarias, la transferencia solicitada puede ser denegada si el administrador de la tienda alcanza el límite de su cuenta. De ser necesario, se puede solicitar el aumento del límite mediante un ticket en la plataforma de atención VTEX.
+<div class="alert alert-info">
+Al igual que en las transacciones bancarias, la transferencia solicitada puede ser denegada si el administrador de la tienda alcanza el límite de su cuenta. De ser necesario, se puede solicitar el aumento del límite mediante un ticket en la plataforma de atención VTEX.
+</div>

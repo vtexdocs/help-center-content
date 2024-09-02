@@ -18,7 +18,9 @@ internalReference: 540756
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, quando você insere um valor no campo Unidade de massa nas configurações do CMS, o sistema não permite que o valor seja removido pela IU

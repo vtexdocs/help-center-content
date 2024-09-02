@@ -16,13 +16,17 @@ trackSlugEN: clustered-payment-conditions
 
 As mentioned, Clustered Payment Conditions establish that a payment condition will apply to one or more customers. 
 
->⚠️ Previously configured payment conditions can apply to customer clusters. 
->
-> It means that you can edit existing payment conditions and apply clustering conditions to these rules.
+<div class="alert alert-warning">
+Previously configured payment conditions can apply to customer clusters. 
+
+It means that you can edit existing payment conditions and apply clustering conditions to these rules.
+</div>
 
 Let’s take a look at how we should configure an exclusive payment condition for clusters.
 
->❗ **Warning**: you can only create five client clusters for each payment condition.  
+<div class="alert alert-danger">
+<strong>Warning</strong>: you can only create five client clusters for each payment condition.
+</div>  
 
 You can create a new payment condition by applying the clustering conditions. To do so, go to Admin > Payments > Settings > Payment Conditions.
 

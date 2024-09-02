@@ -26,4 +26,6 @@ Na VTEX App Store, está disponível a app _Facebook Business Extension e Conver
 
 A app estará disponível no seu Admin VTEX, no módulo **CONFIGURAÇÕES DA CONTA > Aplicativos > Meus Aplicativos**, na aba **Instaladas**.
 
->ℹ️ Também é possível instalar a app <i>Facebook Business Extension e Conversions API</i> pelo <i>Toolbelt</i> do VTEX IO. Saiba mais em <a href= "https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-installing-an-app">Installing an app</a>.
+<div class = "alert alert-info">
+Também é possível instalar a app <i>Facebook Business Extension e Conversions API</i> pelo <i>Toolbelt</i> do VTEX IO. Saiba mais em <a href= "https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-installing-an-app">Installing an app</a>.
+</div>

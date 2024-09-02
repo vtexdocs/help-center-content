@@ -18,7 +18,9 @@ internalReference: 647116
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns recursos e componentes da VTEX podem usar dados solicitados do cookie de segmento para apresentar informações (como preço, dados de promoção, disponibilidade de SKU etc.) na vitrine. Esse cookie é armazenado no navegador do usuário quando a sessão é criada. Às vezes, principalmente em cenários dinâmicos em que é necessário fazer alterações na fachada, o que aciona uma atualização do Cookie Segment, o cookie em si perde alguns dados, o que é resultado de um comportamento no tempo de execução de renderização que não aciona a alteração do segmento no contexto

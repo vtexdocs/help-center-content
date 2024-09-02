@@ -21,11 +21,13 @@ Cuando el _seller_ envía sus productos al _marketplace_ VTEX, el marketplace [c
 
 Después de que el _marketplace_ cataloga los SKU, ya sea a través de la página **SKU recibidos** o el [VTEX Matcher](https://help.vtex.com/es/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), los vínculos entre los SKU del _seller_ y los SKU del _marketplace_ aparecen en la página **Vínculos de SKU**. Automáticamente, los vínculos pasan a tener el status _Vinculado_.
 
->ℹ️ Por defecto, para los [<i>sellers white label</i>](https://help.vtex.com/es/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) no existe vinculación entre sus SKU y los SKU del <i>marketplace</i>.
+<div class = "alert alert-info">
+Por defecto, para los <a href="https://help.vtex.com/es/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa"><i>sellers white label</i></a> no existe vinculación entre sus SKU y los SKU del <i>marketplace</i>.
+</div>
 
 La página **Vínculos de SKU** le permite al _marketplace_ seguir y gestionar la vinculación entre los SKU del _seller_ y los del _marketplace_. Para acceder a la página, en el Admin VTEX, ingresa a **Marketplace > Sellers > Vínculos de SKU**. Aparecerá la siguiente interfaz:
 
-![sku-bindings-es](https://images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/fcca860e97e41d512f9f88d53d6d09fd/sku-bindings-es.png)
+![sku-bindings-es](//images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/fcca860e97e41d512f9f88d53d6d09fd/sku-bindings-es.png)
 
 La tabla a continuación contiene la descripción de las columnas de la lista de vínculos de SKU:
 
@@ -63,13 +65,17 @@ También puedes buscar en la lista filtrando por el status de vinculación. Para
 
 Para regresar a la lista con todos los status de vinculación, haz clic en el botón `Limpiar filtros de búsqueda`. Este botón solo cancela el filtro de status, no los términos ingresados en el recuadro de búsqueda.
 
->ℹ️ Si la búsqueda no arroja ningún resultado, verifica la ortografía de lo que escribiste en el recuadro de búsqueda o la combinación de filtros que usaste.
+<div class = "alert alert-info">
+Si la búsqueda no arroja ningún resultado, verifica la ortografía de lo que escribiste en el recuadro de búsqueda o la combinación de filtros que usaste.
+</div>
 
 ## Desvincular SKU
 
 Para deshacer un vínculo entre dos SKU, haz clic en la _tilde_ <i class="fas fa-toggle-on"></i> y confirma la opción `Deshacer el vínculo del SKU`. 
 
->ℹ️ Al desvincular el SKU del <i>seller</i>, el SKU deja de recibir actualizaciones de precio y <i>stock</i> y no estará disponible en el catálogo del <i>marketplace</i>. El SKU puede revincularse en cualquier momento sin necesidad de volver a catalogar el SKU del <i>seller</i>.
+<div class = "alert alert-info">
+Al desvincular el SKU del <i>seller</i>, el SKU deja de recibir actualizaciones de precio y <i>stock</i> y no estará disponible en el catálogo del <i>marketplace</i>. El SKU puede revincularse en cualquier momento sin necesidad de volver a catalogar el SKU del <i>seller</i>.
+</div>
 
 Si deseas restablecer el vínculo entre el SKU del _seller_ y el SKU del _marketplace_, activa nuevamente la _tilde_ <i class="fas fa-toggle-on"></i>, haciendo clic en ella.
 
@@ -91,7 +97,9 @@ Para remover el vínculo entre el SKU del _seller_ y el SKU del _marketplace_, s
 2. En la línea del ítem deseado, haz clic en el ícono menú <i class="fas fa-ellipsis-v"></i>.
 3. Haz clic en <i class="far fa-trash-alt"></i> `Remover`.
 
->⚠️ Remover un vínculo hace que el SKU del <i>seller</i> deje de formar parte del catálogo del <i>marketplace</i>; por lo tanto, desaparece de la lista de la página **Vínculos de SKU**. No se puede recuperar un vínculo que se removió, pero el <i>seller</i> puede reenviarle el SKU al <i>marketplace</i>, el cual [cataloga](https://help.vtex.com/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396) el SKU nuevamente y hace que esté disponible otra vez.
+<div class="alert alert-warning">
+Remover un vínculo hace que el SKU del <i>seller</i> deje de formar parte del catálogo del <i>marketplace</i>; por lo tanto, desaparece de la lista de la página <b>Vínculos de SKU</b>. No se puede recuperar un vínculo que se removió, pero el <i>seller</i> puede reenviarle el SKU al <i>marketplace</i>, el cual <a href="https://help.vtex.com/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396">cataloga</a> el SKU nuevamente y hace que esté disponible otra vez.
+</div>
 
 ## Exportar
 
@@ -103,7 +111,9 @@ Para exportar la lista de vínculos de SKU en formato XLSX, sigue los pasos a co
 
 La plantilla generada se le enviará por email al usuario registrado. El tiempo de exportación dependerá del procesamiento de la plataforma VTEX y del tamaño del archivo.
 
->ℹ️ El contenido exportado incluirá la lista de vínculos de SKU al momento de la exportación. Si hay alguna búsqueda o filtro activo, solo se exportarán los vínculos seleccionados.
+<div class = "alert alert-info">
+El contenido exportado incluirá la lista de vínculos de SKU al momento de la exportación. Si hay alguna búsqueda o filtro activo, solo se exportarán los vínculos seleccionados.
+</div>
 
 ## Más información
 

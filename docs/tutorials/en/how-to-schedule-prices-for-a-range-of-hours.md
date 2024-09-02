@@ -20,7 +20,9 @@ Among other scenarios, one of the most important points in a massive event such 
 ## Scheduling through API
 One of the options to schedule prices by hour is through a price API:
 
->ℹ️ [View API documentation](https://developers.vtex.com/reference/pricing-api-overview)
+<div class="alert alert-info">
+<a href="https://developers.vtex.com/reference/pricing-api-overview">View API documentation</a>
+</div>
 
 VTEX backend uses UTC time, where, for example, in Argentina that is GTM-3, to schedule a price x hour through API starting at 00h and finishing at 10h, it is necessary to send 3h more than the time to be scheduled. This is, if the price is to be valid at 00h, I should send 3h, and to finish at 10h, I should send 13h:
 
@@ -32,7 +34,9 @@ JSON Price API:
 
 The price will be automatically invalid at the scheduled time. 
 
->⚠️ **Important**: In case of a price change through the manager’s price interface and the change is saved, the hour schedule will be lost and only the date schedule will be filed.
+<div class="alert alert-warning">
+<strong>Important</strong>: In case of a price change through the manager’s price interface and the change is saved, the hour schedule will be lost and only the date schedule will be filed.
+</div>
 
 ## Scheduling through the spreadsheet
 
@@ -50,4 +54,6 @@ Price Spreadsheet Columns:
 
 The price will be automatically invalid at the scheduled time.
 
->⚠️ **Important**: Just like in the API, in case of a price change through the manager’s price interface and the change is saved, the hour schedule will be lost and only the date schedule will be valid.
+<div class="alert alert-warning">
+<strong>Important</strong>: Just like in the API, in case of a price change through the manager’s price interface and the change is saved, the hour schedule will be lost and only the date schedule will be valid.
+</div>

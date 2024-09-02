@@ -26,7 +26,7 @@ Para acceder a la pagina, en __Dashboards__, haz clic en __Desempeño de Ventas_
 
 Puedes personalizar la visualización de los datos del gráfico y de la lista filtrando por periodo, dimensiones y métricas. 
 
-![Sales Perf Dash ES](https://images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/49985a1bc354e18e3dce208e12bfbdb5/Sales_Perf_Dash_ES.gif)
+![Sales Perf Dash ES](//images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/49985a1bc354e18e3dce208e12bfbdb5/Sales_Perf_Dash_ES.gif)
 
 ## Datos 
 Los datos de la página proceden del [sistema de Gestión de pedidos](https://help.vtex.com/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa) de VTEX. El Desempeño de Ventas es una solución analítica, que utiliza heurística y fórmulas creadas a partir de nuestra experiencia, llevando a nuestros clientes de ecommerce al siguiente nivel para calcular sus métricas. La página no debe utilizarse como un sustituto de los datos del OMS, sino como una herramienta de análisis y de insights de negocio.
@@ -35,7 +35,9 @@ Para asegurarte de que tienes acceso tanto a los últimos datos actualizados com
 
 Estos grupos también son procesados por sistemas diferentes, lo que puede provocar una diferencia entre los datos del OMS y los del Desempeño de las Ventas, aunque nuestro objetivo es presentar una divergencia máxima del 3%.
 
->⚠️ Por ejemplo, puede que haya diferencias entre las métricas de ingresos y ticket promedio registradas en el OMS y Desempeño de Ventas. Esto se debe a que Desempeño de Ventas considera el valor de los ítems, mientras que el OMS también toma en cuenta descuentos, valor de envío, impuestos y promociones en el pedido, lo que puede aumentar o disminuir el valor final.
+<div class ="alert alert-warning">
+Por ejemplo, puede que haya diferencias entre las métricas de ingresos y ticket promedio registradas en el OMS y Desempeño de Ventas. Esto se debe a que Desempeño de Ventas considera el valor de los ítems, mientras que el OMS también toma en cuenta descuentos, valor de envío, impuestos y promociones en el pedido, lo que puede aumentar o disminuir el valor final.
+</div>
 
 ## Periodo
 
@@ -151,7 +153,7 @@ Además de aplicar filtros, también puedes realizar las acciones a continuació
 
 ## Vistas
 
-![Sales perf update ES](https://images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/e91f5f473a5d10b757c7a93a235ee9d9/Sales_perf_update_ES.gif)
+![Sales perf update ES](//images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/e91f5f473a5d10b757c7a93a235ee9d9/Sales_perf_update_ES.gif)
 
 El *dashboard* Desempeño de Ventas se puede personalizar aplicando diferentes filtros y seleccionando las métricas que aparecerán en el gráfico y la lista. Para facilitar la exploración diaria de los datos, hemos creado vistas que registran los filtros y las métricas aplicadas en la página para tu visualización directa. Puedes guardar, editar y compartir las diferentes vistas del dashboard. La página viene con las siguientes vistas configuradas por defecto:
 
@@ -209,7 +211,9 @@ La lista representa las métricas y los filtros aplicados al gráfico en formato
   - __Absoluta__: visualiza en números absolutos el aumento o disminución de las métricas de la lista entre un periodo y otro.   
   - __Representativa__: visualiza el porcentaje de representatividad de un elemento dentro de una métrica.  
 
->ℹ️ Ten en cuenta que las métricas <i>Ticket promedio</i> y <i>Ítems por pedido</i> no tendrán disponible una vista de Porcentaje o Representativa, ya que son métricas que se calculan dividiendo otras, y la suma de todas las partes de cada una no es igual al Total.
+<div class="alert alert-info">
+Ten en cuenta que las métricas <i>Ticket promedio</i> y <i>Ítems por pedido</i> no tendrán disponible una vista de Porcentaje o Representativa, ya que son métricas que se calculan dividiendo otras, y la suma de todas las partes de cada una no es igual al Total.
+  </div>
 
 ### Exportar datos
 

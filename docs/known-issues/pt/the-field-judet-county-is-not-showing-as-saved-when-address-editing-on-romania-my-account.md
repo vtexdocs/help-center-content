@@ -18,7 +18,9 @@ internalReference: 394658
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para lojas da Romênia, na página _**My Account**_, há um campo chamado "Judet", município em inglês, que não está sendo exibido como salvo ao editar o endereço.

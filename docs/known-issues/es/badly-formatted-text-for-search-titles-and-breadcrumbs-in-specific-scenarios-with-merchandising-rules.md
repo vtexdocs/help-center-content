@@ -18,7 +18,9 @@ internalReference: 999476
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunas páginas de resultados de búsqueda ocultan los filtros aplicados - puesto que ya forman parte de la propia página, por lo que se establecen como "initialAttributes" - para centrarse en los filtros adicionales que se pueden aplicar. En estos escenarios, los valores para el título de la página y las migas de pan están básicamente definidos por el primer producto de la página.

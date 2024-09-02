@@ -19,7 +19,7 @@ subcategory: 2Xay1NOZKE2CSqKMwckOm8
 
 # Começando a usar
 
-![new-admin-pagamentos ](https://images.ctfassets.net/alneenqid6w5/1QtaQtxOB2gYys8yqiaEkE/a10f07d80939b53ae95255b41e5ee6f7/NEW_ADMIN_PAGAMENTOS_PT.png)
+![new-admin-pagamentos ](//images.ctfassets.net/alneenqid6w5/1QtaQtxOB2gYys8yqiaEkE/a10f07d80939b53ae95255b41e5ee6f7/NEW_ADMIN_PAGAMENTOS_PT.png)
 
 Criado para oferecer a flexibilidade máxima em relação às configurações de pagamento, o módulo de **Pagamentos** processa as transações com base em alguns conceitos de negócio. Entenda cada um deles:
 

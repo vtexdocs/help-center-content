@@ -18,7 +18,9 @@ internalReference: 394658
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para las tiendas de Rumania en la página _**Mi Cuenta**_ hay un campo llamado "Judet", condado en inglés, que no se muestra como guardado al editar la dirección.

@@ -18,7 +18,9 @@ internalReference: 347155
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En algunas ocasiones, donde tenemos 1 artículo con opción de entrega y el otro artículo con opción de recogida. Los datos `pickupStoreInfo` se rellenan incorrectamente después de finalizar el pedido.

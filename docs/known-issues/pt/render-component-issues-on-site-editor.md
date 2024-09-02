@@ -18,7 +18,9 @@ internalReference: 415674
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Devido à quantidade de informações na página, o editor do site pode ter problemas ao renderizar blocos. Esse comportamento ocorre de forma intermitente, às vezes os componentes não são renderizados e às vezes são renderizados duas vezes. Pode acontecer de nenhum bloco aparecer no editor do site:

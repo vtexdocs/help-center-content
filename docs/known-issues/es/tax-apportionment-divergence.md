@@ -18,7 +18,9 @@ internalReference: 561466
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El prorrateo de un valor fiscal realizado por el módulo de Promociones considera los decimales, resultando en un valor fiscal total diferente al establecido.

@@ -18,7 +18,9 @@ internalReference: 961591
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El resumen del administrador tiene alguna información analítica. La información sobre las sesiones de la página de productos debería devolver los valores de este evento, pero a veces devuelve cero.

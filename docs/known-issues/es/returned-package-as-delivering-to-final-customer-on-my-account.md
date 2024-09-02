@@ -18,7 +18,9 @@ internalReference: 415482
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hay un escenario en el que el paquete devuelto se muestra como entregado en la página **Mi Cuenta > Mis Pedidos**. Parece que se va a entregar más de un paquete al cliente en lugar de mostrar que el paquete ya fue entregado al cliente y que se generó un nuevo paquete que simboliza la devolución.

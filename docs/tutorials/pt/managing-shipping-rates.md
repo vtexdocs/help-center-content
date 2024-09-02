@@ -1,9 +1,9 @@
 ---
 title: 'Gerenciar Tarifas de envio'
 id: tutorials_141
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-04-27T22:17:04.172Z
-updatedAt: 2023-03-29T15:06:40.531Z
+updatedAt: 2024-08-22T17:59:31.012Z
 publishedAt: 2023-03-29T15:06:40.531Z
 firstPublishedAt: 2017-04-27T23:00:45.116Z
 contentType: tutorial
@@ -22,7 +22,9 @@ As [tarifas de envio](https://help.vtex.com/pt/tutorial/tarifas-de-envio--1Balpg
 * [Editar](#editar) as tarifas de envio;
 * [Excluir](#excluir) as tarifas de envio.
 
->ℹ️ Para casos em que há vários preços de envio para serem atualizados ou cadastrados, recomendamos utilizar a Planilha de frete em vez do módulo **Tarifas de envio**. Caso queira conferir como as tarifas de envio cadastradas serão apresentadas ao cliente final, utilize o módulo **[Simulador de envio**](https://help.vtex.com/pt/tutorial/simulacao-de-frete--tutorials_144).
+<div class="alert alert-info">
+Para casos em que há vários preços de envio para serem atualizados ou cadastrados, recomendamos utilizar a Planilha de frete em vez do módulo <b>Tarifas de envio</b>. Caso queira conferir como as tarifas de envio cadastradas serão apresentadas ao cliente final, utilize o módulo <a href="https://help.vtex.com/pt/tutorial/simulacao-de-frete--tutorials_144">Simulador de envio</a>.
+</div>
 
 ## Cadastrar
 

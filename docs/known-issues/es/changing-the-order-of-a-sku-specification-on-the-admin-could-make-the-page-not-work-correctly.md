@@ -18,7 +18,9 @@ internalReference: 460329
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cambiar el orden de una especificación de SKU en el Admin podría hacer que la página no funcione correctamente.

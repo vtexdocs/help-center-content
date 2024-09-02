@@ -17,15 +17,17 @@ trackSlugES: instore-usando-el-app
 
 El [pasillo infinito](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) de VTEX Sales App le permite al vendedor buscar y agregar al carrito productos más allá del stock de su tienda. Para buscar un producto, haz clic en el ícono de lupa <i class="fas fa-search"></i>. Se mostrará la barra de búsqueda en la parte superior de la página de inicio de la tienda.  Ingresa el nombre del producto, código de referencia, ID de SKU o EAN para buscar.
 
->ℹ️ Para mejorar la experiencia en situaciones en que la conexión de internet esté lenta, esta funcionalidad tiene recursos de optimización que utilizan la caché del navegador para agilizar la búsqueda.
+<div class = "alert alert-info">
+Para mejorar la experiencia en situaciones en que la conexión de internet esté lenta, esta funcionalidad tiene recursos de optimización que utilizan la caché del navegador para agilizar la búsqueda.
+</div>
 
-![Barra busca - ES](https://images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/1ad8c720186c675630364918f1d9e0f1/Tela_1_barra_busca.gif)
+![Barra busca - ES](//images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/1ad8c720186c675630364918f1d9e0f1/Tela_1_barra_busca.gif)
 
 La búsqueda de VTEX Sales App es unificada, lo que significa que al realizar una búsqueda los resultados se obtienen tanto del stock local (de la tienda física) como de otras tiendas físicas y centros de distribución asociados a la tienda de ecommerce.
 
 Los resultados de búsqueda muestran los productos organizados para mejorar la experiencia del cliente, incluyendo imágenes que facilitan la identificación de los productos e información relevante para el vendedor.
 
-![Busca unificada - ES](https://images.ctfassets.net/alneenqid6w5/2xcAiK7XONko8bTJrQPRNR/a94fdd1ace89c89f2081c9fb43174216/Busca_unificada_VTEX_Sales_App.png)
+![Busca unificada - ES](//images.ctfassets.net/alneenqid6w5/2xcAiK7XONko8bTJrQPRNR/a94fdd1ace89c89f2081c9fb43174216/Busca_unificada_VTEX_Sales_App.png)
 
 Al hacer clic en la opción `Agregar al carrito`, se mostrará la siguiente información del producto:
 
@@ -35,7 +37,7 @@ Al hacer clic en la opción `Agregar al carrito`, se mostrará la siguiente info
 
 Para agregar el producto al carrito, selecciona la variación, envío y cantidad deseada y haz clic en `Agregar al carrito`.
 
-![Carrinho - ES](https://images.ctfassets.net/alneenqid6w5/3lUWtqtEAZZCsJhTYVkYBO/defe694e7ce4805172e3879c78411c3c/Adicionar_ao_carrinho_VTEX_Sales_App.png)
+![Carrinho - ES](//images.ctfassets.net/alneenqid6w5/3lUWtqtEAZZCsJhTYVkYBO/defe694e7ce4805172e3879c78411c3c/Adicionar_ao_carrinho_VTEX_Sales_App.png)
 
 ## Filtros
 

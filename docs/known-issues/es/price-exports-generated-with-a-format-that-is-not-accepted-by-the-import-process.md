@@ -18,7 +18,9 @@ internalReference: 584975
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A veces (hay un 50% de posibilidades) los precios se exportan utilizando un nuevo formato que no es aceptado por la importación de precios.

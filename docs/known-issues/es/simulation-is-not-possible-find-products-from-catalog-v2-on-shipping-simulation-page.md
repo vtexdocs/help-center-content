@@ -18,7 +18,9 @@ internalReference: 488362
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hay un problema al utilizar el autocompletado para encontrar productos en el módulo de simulación de productos del catálogo V2.

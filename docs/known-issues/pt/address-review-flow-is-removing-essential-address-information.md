@@ -18,7 +18,9 @@ internalReference: 618756
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A validação do endereço no modo de geolocalização (endereço inserido via Google Maps) está removendo informações essenciais, como a rua e o número, de endereços válidos, afetando o fluxo de compras.

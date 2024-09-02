@@ -17,7 +17,9 @@ subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 
 VTEX dispone de varias API para que los clientes y partners puedan desarrollar integraciones altamente personalizables con la plataforma.  Las [claves de aplicación](https://help.vtex.com/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) se utilizan para proporcionar acceso seguro a los datos consumidos por las integraciones, sin exponer la cuenta a usuarios o aplicaciones no autorizados.
 
->ℹ️ Este tipo de credencial se utiliza para la autenticación de la identidad a través de la API.
+<div class = "alert alert-info">
+Este tipo de credencial se utiliza para la autenticación de la identidad a través de la API.
+</div>
 
 El manejo inadecuado de las [claves de aplicación](https://help.vtex.com/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) puede generar fugas y, en consecuencia, situaciones de acceso indebido. A continuación, puedes ver las buenas prácticas que recomendamos para la gestión de estas credenciales que puedes implementar para aumentar la seguridad de tu tienda.
 

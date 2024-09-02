@@ -18,7 +18,9 @@ internalReference: 740499
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el proveedor envía una devolución de llamada justo después de la autorización, puede desencadenar un nuevo intento de autorización. Por lo tanto, en algunos casos cuando la transacción tiene más de 1 pago y uno de ellos es una tarjeta regalo, un nuevo reintento de autorización puede cancelar la transacción cuando no tiene fondos.

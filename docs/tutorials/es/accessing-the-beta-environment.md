@@ -17,7 +17,9 @@ subcategory: Se4oi5LroIII2Ei0uGAoE
 
 En VTEX, todas las tiendas disponen de un entorno beta. En este entorno, los usuarios de la plataforma, ya sean retailers, desarrolladores u otras personas con acceso, pueden llevar a cabo pruebas para validar nuevas configuraciones o versiones de aplicaciones/servicios antes de implementar cambios en el entorno donde los clientes realizan sus compras, conocido como entorno de producción (stable).
 
->ℹ️ El entorno beta es una reproducción exacta del entorno de producción (stable), que incluye todos los datos y configuraciones de la tienda.
+<div class = "alert alert-info">
+El entorno beta es una reproducción exacta del entorno de producción (stable), que incluye todos los datos y configuraciones de la tienda.
+</div>
 
 De esta manera, **cualquier modificación de datos en el entorno beta afecta a los datos en el entorno stable**.
 
@@ -43,4 +45,6 @@ Para acceder al entorno beta de tu tienda debes habilitar la cookie <code>vtex-c
 </li>
 </ol>
 
->ℹ️ Para restaurar la tienda a su entorno principal, accede nuevamente a la pantalla DevTools de tu navegador y elimina la cookie vtex-commerce-env. Actualiza la página una vez más para volver al entorno de producción **stable**.
+<div class = "alert alert-info">
+Para restaurar la tienda a su entorno principal, accede nuevamente a la pantalla DevTools de tu navegador y elimina la cookie vtex-commerce-env. Actualiza la página una vez más para volver al entorno de producción <b>stable</b>.
+</div>

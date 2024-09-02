@@ -18,7 +18,9 @@ internalReference: 920563
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Aunque Apple Pay permite al usuario realizar un pedido utilizando una tarjeta Amex, nuestro conector heredado AdyenV1 no es compatible con esta marca.

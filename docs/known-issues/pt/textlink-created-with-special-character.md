@@ -18,7 +18,9 @@ internalReference: 537159
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um produto tem caracteres especiais específicos no nome, tais como ®, o `textlink` é criado com esse caracter na URL.

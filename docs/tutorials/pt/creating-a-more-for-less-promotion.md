@@ -50,7 +50,7 @@ Nesta seção, fornecemos informações detalhadas sobre os dados gerais desta p
 - **Informações adicionais (opcional):** permite  incluir informações adicionais a promoção composto de um nome e valor.
 - **Destaque nos produtos:** insere uma tag com o nome da promoção, utilizada na vitrine e na página do produto. Essa flag só será inserida caso use o controle correto de exibição de promoção no template: `<vtex.cmc:discountHightLight/>`. Campo de preenchimento obrigatório.
 
-![Dados gerais 1 - PT](https://images.ctfassets.net/alneenqid6w5/4Ara5CRqjivFlYltPnMGpN/39c1ba28770bab08c1c8eebcdcf2c5a5/Dados_gerais_1_-_PT.png)
+![Dados gerais 1 - PT](//images.ctfassets.net/alneenqid6w5/4Ara5CRqjivFlYltPnMGpN/39c1ba28770bab08c1c8eebcdcf2c5a5/Dados_gerais_1_-_PT.png)
 
 ### Restringir esta promoção a produtos dos sellers
 
@@ -60,9 +60,11 @@ Nesta seção, é possível definir para quais sellers a promoção será aplica
 
 Para que a promoção seja válida para todos os sellers, deixe a seleção vazia.
 
->⚠️ Não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.
+<div class = "alert alert-warning">
+  <p>Não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:</p><ol>1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.</ol><ol>2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.</ol>
+</div>
 
-![Restringir - PT](https://images.ctfassets.net/alneenqid6w5/7KJhtOylpPsj0g5Q1lF2T0/6a43d51af7293cbfee1e0f9a2de2428a/Restringir_-_PT.png)
+![Restringir - PT](//images.ctfassets.net/alneenqid6w5/7KJhtOylpPsj0g5Q1lF2T0/6a43d51af7293cbfee1e0f9a2de2428a/Restringir_-_PT.png)
 
 ### Política comercial
 
@@ -75,7 +77,7 @@ Esta seção estabelece as políticas comerciais válidas para a promoção. Voc
 
 Para que a promoção seja válida para todas as políticas comerciais, deixe a seleção vazia.
 
-![Politica - PT](https://images.ctfassets.net/alneenqid6w5/5fuMmvGh34BpTbj3t3AgdR/15e5033e2d6b01b848e2d16c81762cb1/Politica_-_PT.png)
+![Politica - PT](//images.ctfassets.net/alneenqid6w5/5fuMmvGh34BpTbj3t3AgdR/15e5033e2d6b01b848e2d16c81762cb1/Politica_-_PT.png)
 
 ## 2. Leve mais por menos
 
@@ -85,13 +87,15 @@ Esta seção define os produtos, a quantidade e o desconto que serão afetados p
     - **SKUs:** nomes ou IDs dos SKUs que terão o desconto aplicado. Você pode fazer a importação de uma lista de SKUs clicando no botão `Selecione um arquivo .txt`. O arquivo de texto (.txt) deve ter cada SKU ID em uma linha diferente. Você também pode baixar a lista de SKUs adicionada no campo clicando no botão `Download da lista de SKUs`.
 - **Coleções:** seleção de coleções que serão incluídas na promoção. A promoção será aplicada somente aos produtos que estejam nas coleções cadastradas neste campo. Para isso, digite o nome da coleção de produtos que deseja oferecer esse tipo de desconto. É possível selecionar mais de uma coleção.
 
->ℹ️ Se não forem informados produtos por coleção ou por SKU, a plataforma não permitirá a criação da promoção.
+<div class = "alert alert-info">
+  <p>Se não forem informados produtos por coleção ou por SKU, a plataforma não permitirá a criação da promoção.</p>
+</div>
 
 - **E leva `quantidade` desses produtos:** quantidade de unidades do produto que receberá o desconto configurado. Campo de preenchimento obrigatório.
     - **Com desconto de:** o cliente levará a quantidade selecionada de produtos com um desconto percentual definido no campo.
     - **Preço Máximo por Item:** o cliente levará a quantidade selecionada de produtos com um preço máximo por item definido no campo.
 
- ![Leve Mais - PT](https://images.ctfassets.net/alneenqid6w5/65GpdBT4FEpUQSNtZ7NXEH/4007f36df438fc5192f131f39f624d02/Leve_Mais_-_PT.png)
+ ![Leve Mais - PT](//images.ctfassets.net/alneenqid6w5/65GpdBT4FEpUQSNtZ7NXEH/4007f36df438fc5192f131f39f624d02/Leve_Mais_-_PT.png)
 
 ### Configurações avançadas
 
@@ -105,7 +109,7 @@ O desconto deve ser aplicado:
         - **Mais baratos:** o desconto será aplicado aos itens mais baratos da promoção.
         - **Mais caros:** o desconto será aplicado aos itens mais caros da promoção.
 
-![Leve Mais por menos - PT](https://images.ctfassets.net/alneenqid6w5/7lIEbcThX12WgUZvtCgx6E/8e369e751ba27732e5c324c0cae7c7e1/Leve_Mais_por_menos_-_PT.png)
+![Leve Mais por menos - PT](//images.ctfassets.net/alneenqid6w5/7lIEbcThX12WgUZvtCgx6E/8e369e751ba27732e5c324c0cae7c7e1/Leve_Mais_por_menos_-_PT.png)
 
 #### Como o desconto deve ser distribuído?
 - **Apenas entre as `quantidade` produtos que recebem desconto:** o desconto será aplicado integralmente à quantidade de produtos selecionada.
@@ -124,9 +128,11 @@ Nesta seção, detalharemos as condições em que você deve aplicar para que um
 - **Criar cupom a partir das UTMs acima:** cria um cupom a partir das UTMs cadastradas para dar ao cliente acesso à essa promoção apenas com o código do cupom.
 - **Meio de pagamento:** permite escolher se a promoção será aplicada em um ou mais tipos de meios de pagamento selecionados.
 
- >ℹ️ Por padrão, você pode cadastrar até 20 meios de pagamento por promoção. Além disso, existe a possibilidade de customização para incluir até 100 meios de pagamento. Caso precise utilizar mais de 20, entre em contato com o [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+ <div class = "alert alert-info">
+  <p> Por padrão, você pode cadastrar até 20 meios de pagamento por promoção. Além disso, existe a possibilidade de customização para incluir até 100 meios de pagamento. Caso precise utilizar mais de 20, entre em contato com o <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
+ </div>
 
-![Condições de promoção - PT](https://images.ctfassets.net/alneenqid6w5/1mPsbqBbsHGXaSKeoFL1vY/d5a51e69868ee890a701dba2dfe8a1f2/Condi__es_de_promo__o_-_PT.png)
+![Condições de promoção - PT](//images.ctfassets.net/alneenqid6w5/1mPsbqBbsHGXaSKeoFL1vY/d5a51e69868ee890a701dba2dfe8a1f2/Condi__es_de_promo__o_-_PT.png)
 
  ## 4. Restrições e limitações de uso
 
@@ -136,4 +142,4 @@ Nesta seção, detalharemos as condições em que você deve aplicar para que um
  - **Permitir acumular promoções:** permite que mais de uma promoção, independente do tipo de desconto, seja concedida ao mesmo tempo. Saiba mais sobre [como funciona a concorrência de promoções](https://help.vtex.com/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270).
 - **Permitir acumular com preços manuais:** permite que a promoção seja aplicada a produtos cujos preços foram manualmente inseridos pelo televendas. Para habilitar a funcionalidade de preços manuais, use o endpoint [Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm).
 
-![Restrições e limitações - PT](https://images.ctfassets.net/alneenqid6w5/5jrjtfnEkqiA9ipZEi1jjk/ea978a02b2454f97243b951981d0ff1b/Restri__es_e_limita__es_-_PT.png)
+![Restrições e limitações - PT](//images.ctfassets.net/alneenqid6w5/5jrjtfnEkqiA9ipZEi1jjk/ea978a02b2454f97243b951981d0ff1b/Restri__es_e_limita__es_-_PT.png)

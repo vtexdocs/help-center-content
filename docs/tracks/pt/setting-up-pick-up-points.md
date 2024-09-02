@@ -21,7 +21,9 @@ Pontos de retirada permitem ao cliente final retirar produtos em um local físic
 
 Em qualquer um desses cenários, para que o cliente consiga retirar o produto, você precisa ter cadastrado um ponto de retirada.
 
->ℹ️ Pontos de retirada não dependem das features de [Conta-franquia e Seller White Label](https://help.vtex.com/tutorial/definicoes-de-conta-franquia-e-seller-white-label). É possível ter pontos de retirada sem contas franquias. Neste guia, entretanto, vamos explicar o uso conjunto dessas features. O motivo é que, para a maior parte dos projetos de omnichannel, essa é a arquitetura recomendada.
+<div class="alert alert-info">
+Pontos de retirada não dependem das features de <a href="https://help.vtex.com/tutorial/definicoes-de-conta-franquia-e-seller-white-label">Conta-franquia e Seller White Label</a>. É possível ter pontos de retirada sem contas franquias. Neste guia, entretanto, vamos explicar o uso conjunto dessas features. O motivo é que, para a maior parte dos projetos de omnichannel, essa é a arquitetura recomendada.
+</div>
 
 ## Criar contas-franquias
 

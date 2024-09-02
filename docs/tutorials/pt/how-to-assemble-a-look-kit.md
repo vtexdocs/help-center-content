@@ -35,13 +35,13 @@ Ou seja, o Kit é um novo produto composto por outros que podem, ou não, estar 
 
 Esse termo é muito conhecido no segmento de Moda e Mobiliário. Um Kit Look é um modo que você consegue comprar vários produtos, visualizando apenas a tela de um produto.
 
-![](https://images.contentful.com/alneenqid6w5/2WA6REAMecCaUiSEk2uoC6/999c983b772d8025d86f6ca2d1ebf3e4/kit-look-donadolook-exemplo.gif)
+![](//images.contentful.com/alneenqid6w5/2WA6REAMecCaUiSEk2uoC6/999c983b772d8025d86f6ca2d1ebf3e4/kit-look-donadolook-exemplo.gif)
 
 No layout acima, é possível selecionar os itens do kit que o cliente gostaria de comprar e em seguida clicar em “Comprar Produtos Selecionados”.
 
 Ou se preferir comprar o kit completo, basta manter todos os itens selecionados.
 
-![](https://images.contentful.com/alneenqid6w5/4ol1nKNyx2WYw26wQscgEE/986c00a0096dd93ac7c3ce206ecf049e/kit-look-jackthebarber-exemplo.gif)
+![](//images.contentful.com/alneenqid6w5/4ol1nKNyx2WYw26wQscgEE/986c00a0096dd93ac7c3ce206ecf049e/kit-look-jackthebarber-exemplo.gif)
 
 Nesse layout cada item possui um botão de “Comprar Separadamente”.
 
@@ -130,7 +130,7 @@ Entenda a relação entre esses controles em [Lista Completa de Controles](/pt/t
 
 Este template deve ser associado a um novo Layout de Página de Produto, que será aplicado apenas na categoria onde os Kits estão cadastrados. Para criar uma nova página de produto selecione a pasta **_"Produto"_** e clique em **_"novo layout"_**.
 
-![2017-03-09 13_40_22-Index](https://images.contentful.com/alneenqid6w5/3O4vfCLtriImIUukkwyIuM/6fabda711e9ca17e42389cfbb0ceeb33/2017-03-09-13_40_22-Index.png)
+![2017-03-09 13_40_22-Index](//images.contentful.com/alneenqid6w5/3O4vfCLtriImIUukkwyIuM/6fabda711e9ca17e42389cfbb0ceeb33/2017-03-09-13_40_22-Index.png)
 
 Existe um limite de exibição de até 12 componentes para uma página de kit look. Para que não seja necessário criar vários templates diferentes, basta inserir mais vezes o mesmo código acima - alterando o valor de _**productIndex**_.
 

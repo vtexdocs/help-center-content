@@ -18,7 +18,9 @@ internalReference: 910328
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se os e-mails tiverem alguma função de vendas associada, eles não terão permissão para se passar por outra pessoa usando o recurso Organizações B2B.

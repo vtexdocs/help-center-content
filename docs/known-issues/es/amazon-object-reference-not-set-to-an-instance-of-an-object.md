@@ -1,5 +1,5 @@
 ---
-title: "[AMAZON] 'La referencia a un objeto no es una instancia de un objeto'"
+title: '[AMAZON] "La referencia a un objeto no es una instancia de un objeto"'
 id: 7xWXzfztp7b9I8KeBSzgST
 status: PUBLISHED
 createdAt: 2022-03-10T18:00:38.681Z
@@ -18,7 +18,9 @@ internalReference: 482173
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

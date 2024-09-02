@@ -1,10 +1,10 @@
 ---
-title: 'Preços Data Pipeline (Beta)'
+title: 'Preços Data Pipeline '
 id: 3NMGJ8dtv73Bwvo9PSz1fz
 status: PUBLISHED
 createdAt: 2024-06-21T14:58:43.084Z
-updatedAt: 2024-06-21T16:20:22.452Z
-publishedAt: 2024-06-21T16:20:22.452Z
+updatedAt: 2024-09-02T19:28:12.994Z
+publishedAt: 2024-09-02T19:28:12.994Z
 firstPublishedAt: 2024-06-21T15:27:43.768Z
 contentType: tutorial
 productTeam: Channels
@@ -15,7 +15,11 @@ legacySlug: precos-data-pipeline-beta
 subcategory: oMrzcOMVbBpH0reeMFHFg
 ---
 
-O conjunto de dados de preços contém informações históricas de preços para cada SKU da loja de um comerciante, permitindo a análise dos valores de markup e das tendências mensais de preços.
+O conjunto de dados de preços contém informações históricas de preços para cada SKU da loja de um seller, permitindo a análise dos valores de markup e das tendências mensais de preços.  
+
+<div class=alert alert-warning>
+Os dados disponibilizados em histórico de preços, são somente os dados da tabela <code>price_table_main</code>.
+</div>  
 
 Neste artigo você encontra as seguintes informações:
 [Características dos dados](#caracteristicas-dos-dados)

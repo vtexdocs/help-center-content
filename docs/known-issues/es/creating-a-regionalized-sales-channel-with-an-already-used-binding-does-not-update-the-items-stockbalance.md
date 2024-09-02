@@ -18,7 +18,9 @@ internalReference: 1005112
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para las cuentas regionalizadas el sistema de índices filtra por los canales de venta regionalizados el stockbalance que debe aparecer, para no mostrar vinculaciones de ventas que no están regionalizadas.

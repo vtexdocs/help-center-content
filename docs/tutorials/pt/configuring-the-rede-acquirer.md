@@ -17,7 +17,9 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 Na VTEX, é possível realizar a integração com o adquirente Rede. Configurando o conector __ERedev2__, sua loja poderá aceitar pagamentos de cartões com as principais bandeiras.
 
->ℹ️ **Atenção**: atualmente, a Rede conta com uma versão mais atualizada do conector. Para saber mais detalhes de como configurar esse adquirente, consulte o artigo sobre o [ERedeREST](https://help.vtex.com/pt/tutorial/configurar-adquirente-rede-con-erederest?locale=pt "ERedeREST").
+<div class="alert alert-info">
+<strong>Atenção</strong>: atualmente, a Rede conta com uma versão mais atualizada do conector. Para saber mais detalhes de como configurar esse adquirente, consulte o artigo sobre o [ERedeREST](https://help.vtex.com/pt/tutorial/configurar-adquirente-rede-con-erederest?locale=pt "ERedeREST"). 
+</div>
 
 Para configurar a Rede, siga os passos abaixo:
 

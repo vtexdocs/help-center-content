@@ -15,7 +15,9 @@ legacySlug: assembly-options-app
 subcategory: 3xpuy7xGlzKKg6vxqiExZ2
 ---
 
->⚠️ This app is only available for stores developed using[ VTEX IO](https://vtex.com/br-pt/store-framework/). Before proceeding, you need to [install and configure Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) in your store.
+<div class="alert alert-warning">
+<p>This app is only available for stores developed using<a href="https://vtex.com/br-pt/store-framework/"> VTEX IO</a>. Before proceeding, you need to <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer">install and configure Product Customizer</a> in your store.</p>
+</div>
 
 Product customization options are available at VTEX when using [Assembly Options](https://help.vtex.com/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH). This solution helps create [attachments](https://help.vtex.com/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) for complex scenarios in which you need to manage different product combinations, quantities, additional items and costs.
 
@@ -25,7 +27,9 @@ As an alternative to implementing Assembly Options through Catalog attachments, 
 
 You can install the app for free from the [VTEX App Store](https://apps.vtex.com/vtex-admin-assembly-options/p) or via [VTEX IO CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference) by following the steps in the [Assembly Options guide for developers](https://developers.vtex.com/vtex-developer-docs/docs/assembly-options-app).
 
->⚠️ If you install the Assembly Options app in a [seller account](https://help.vtex.com/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w), the product customization options will be displayed to your customers at checkout. If you want the options to be displayed in the product page, you need to install the app in a [marketplace account](https://help.vtex.com/en/tutorial/what-is-a-marketplace--680lLJTnmEAmekcC0MIea8).
+<div class="alert alert-warning">
+<p>If you install the Assembly Options app in a <a href="https://help.vtex.com/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w">seller account</a>, the product customization options will be displayed to your customers at checkout. If you want the options to be displayed in the product page, you need to install the app in a <a href="https://help.vtex.com/en/tutorial/what-is-a-marketplace--680lLJTnmEAmekcC0MIea8">marketplace account</a>.</p>
+</div>
 
 After installation, the **Catalog > Assembly Options** page will become available in the VTEX Admin. Below, you will find the app’s available features.
 
@@ -33,7 +37,7 @@ After installation, the **Catalog > Assembly Options** page will become availabl
 
 In the VTEX Admin, go to **Catalog > Assembly Options** to access a list with all the assembly options available in your store.
 
-![assembly-options-app-en](https://images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/b65d786da2a92266eb107b3eeac0f048/assembly-options-app-en.PNG)
+![assembly-options-app-en](//images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/b65d786da2a92266eb107b3eeac0f048/assembly-options-app-en.PNG)
 
 Below, you will find the information displayed in the list:
 
@@ -79,7 +83,9 @@ The **Products > Assembly Options > New Assembly Options** page contains a form 
 
 When you save an assembly option, an attachment is automatically created in **Catalog > Attachments** with the prefix `vtex.assembly-option.` added to the name of the assembly option created. For example: `vtex.assembly-option.Ingredients`.
 
->⚠️ For the customization options created in **Assembly Options** to appear in the storefront, you will need to associate the attachment created with a SKU in **Catalog > Products and SKUs > Advanced settings > Attachments**. To do so, follow the steps described in [Associating the attachment with a SKU](https://help.vtex.com/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU#associating-the-attachment-with-a-sku).
+<div class="alert alert-warning">
+  <p>For the customization options created in <b>Assembly Options</b> to appear in the storefront, you will need to associate the attachment created with a SKU in <strong>Catalog > Products and SKUs > Advanced settings > Attachments</strong>. To do so, follow the steps described in <a href="https://help.vtex.com/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU#associating-the-attachment-with-a-sku">Associating the attachment with a SKU</a>.</p>
+</div>
 
 ## Learn more
 

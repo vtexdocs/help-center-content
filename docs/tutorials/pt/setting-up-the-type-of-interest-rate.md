@@ -25,7 +25,7 @@ O ID da forma de pagamento, que será configurada com Juros Simples, é obtido d
 - Acesse a Condição de Pagamento que deseja configurar para usar Juros Simples
 - Copie o último parâmetro da URL, que indica o ID dessa Forma de Pagamento (ver imagem)
 
-![imagem para valer do artigo em português de financial](https://images.ctfassets.net/alneenqid6w5/2Q1rgCboSZE7N9hQ5k7qlD/f179a4a58dc9c75a1154b48141d3c003/imagem_para_valer_do_artigo_em_portugu__s_de_financial.png)
+![imagem para valer do artigo em português de financial](//images.ctfassets.net/alneenqid6w5/2Q1rgCboSZE7N9hQ5k7qlD/f179a4a58dc9c75a1154b48141d3c003/imagem_para_valer_do_artigo_em_portugu__s_de_financial.png)
 
 ## Configurar o tipo de juros usando API
 
@@ -41,4 +41,6 @@ O response que retornou a chamada anterior "GET Rule by ID" será o request da s
 
 https://developers.vtex.com/reference/configuration-1#putrulebyid
 
->❗ IMPORTANTE: Atualmente, a forma de pagamento somente pode ser modificada via API. Caso seja necessário modificar a forma de pagamento a partir da interface do usuário, o processo de configuração por API deverá ser repetido, pois ao Salvar as alterações, será considerado valor vazio por padrão.
+<div class="alert alert-danger">
+IMPORTANTE: Atualmente, a forma de pagamento somente pode ser modificada via API. Caso seja necessário modificar a forma de pagamento a partir da interface do usuário, o processo de configuração por API deverá ser repetido, pois ao Salvar as alterações, será considerado valor vazio por padrão.
+</div>

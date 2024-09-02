@@ -32,4 +32,6 @@ Após criar sua conta de seller, você deverá autorizar a  VTEX na sua conta Am
 
 Após realizar a autorização, você será redirecionado para o Admin VTEX e esta etapa da integração estará concluída.  
 
->ℹ️ Caso alguma dúvida sobre essa etapa persista, [acesse a documentação do Seller Central da Amazon.](https://sellercentral.amazon.com/learn/courses?ref_=su_course_accordion&moduleId=1f61fcd3[…]-ed90359ff166&modLanguage=Portuguese&videoPlayer=youtube)
+<div class="alert alert-info">
+Caso alguma dúvida sobre essa etapa persista, <a href="https://sellercentral.amazon.com/learn/courses?ref_=su_course_accordion&moduleId=1f61fcd3[…]-ed90359ff166&modLanguage=Portuguese&videoPlayer=youtube">acesse a documentação do Seller Central da Amazon.</a>
+</div>

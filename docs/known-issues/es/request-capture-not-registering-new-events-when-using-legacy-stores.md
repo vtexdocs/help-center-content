@@ -18,7 +18,9 @@ internalReference: 604254
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, cuando se utilizan los almacenes VTEX del portal (almacenes IO no VTEX) la aplicación de captura de solicitudes no está registrando eventos específicamente para las visitas a la página del producto.

@@ -18,7 +18,9 @@ internalReference: 792618
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O pedido foi cancelado no mercado, mas na OMS foi cancelado e ainda está no status "Aguardando autorização para despacho".

@@ -18,7 +18,9 @@ internalReference: 488339
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hay un escenario en el que hay modales configurados OK en SKU y Shipping Police también y la simulación está mostrando un problema en la configuración modal.

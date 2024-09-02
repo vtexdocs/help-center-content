@@ -18,7 +18,9 @@ internalReference: 338124
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la transacción entra en un estado de **cancelación** no es posible reconocerla por lo que no cambia a **cancelada**.

@@ -3,8 +3,8 @@ title: 'Does the shipping calculation take into account the free gift?'
 id: frequentlyAskedQuestions_6579
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:02.736Z
-updatedAt: 2019-12-31T15:19:25.234Z
-publishedAt: 2019-12-31T15:19:25.234Z
+updatedAt: 2024-08-16T18:19:25.128Z
+publishedAt: 2024-08-16T18:19:25.128Z
 firstPublishedAt: 2019-01-24T22:12:48.434Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -21,7 +21,12 @@ To calculate the shipping, it is necessary to also take into account the volume 
 
 ## Free Shipping Promotion for free gifts
 
-If this promotion is set up, where the free gift is a product usually sold on the site, shipping will always be free of charge.
+When offering promotions that include gifts, it's crucial to correctly configure the size and volume of these items. If the gift has defined dimensions or weight, this information will affect the shipping cost calculation.
+
+This means that when a gift is added to the cart, the shipping cost may be adjusted to include the cost of shipping that item. However, if the goal is to offer free shipping, even with the gift, it's important to follow these steps:
+
+- Create a cumulative promotion that guarantees free shipping for the gift. This ensures that shipping remains free even when the gift is added to the cart.
+- Set the gift's dimensions (size and volume) to zero. This way, the system will disregard the gift in the shipping cost calculation, preventing additional charges.
 
 ## Dealing with selecting the free gift at the front
 

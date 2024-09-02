@@ -18,7 +18,9 @@ internalReference: 736164
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao integrar produtos que têm caracteres especiais no nome, como `. - + # /` , o Matcher dá uma pontuação de 50% e faz com que os produtos fiquem em Pending. Com isso, os produtos dependem de aprovação manual ou via API.

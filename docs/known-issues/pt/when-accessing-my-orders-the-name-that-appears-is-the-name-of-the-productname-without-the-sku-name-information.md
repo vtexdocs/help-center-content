@@ -18,7 +18,9 @@ internalReference: 694809
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao acessar "my orders", o nome que aparece é o nome do "ProductName" sem a informação "SKU Name", somente na interface IO.

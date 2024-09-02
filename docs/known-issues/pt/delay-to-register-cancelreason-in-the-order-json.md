@@ -18,7 +18,9 @@ internalReference: 792650
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Devido à forma como o fluxo de atualização do pedido é executado de qualquer status a ser cancelado, é possível que o sistema de Pedido demore um pouco para registrar o CancelReason na ordem json, causando um breve cenário de inconsistência se o Json for consultado ou usado alguns segundos após a ação de cancelamento;

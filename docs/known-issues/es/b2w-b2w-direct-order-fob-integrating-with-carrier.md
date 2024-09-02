@@ -1,5 +1,5 @@
 ---
-title: "[B2W] Pedido 'B2W directo' (FOB) integrando con transportista"
+title: '[B2W] Pedido "B2W directo" (FOB) integrando con transportista'
 id: 20nA7vm1RFMhv7yhaJ43GG
 status: PUBLISHED
 createdAt: 2022-12-12T18:14:19.975Z
@@ -18,7 +18,9 @@ internalReference: 714879
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos pedidos de "b2wentregadirect" que deberían entrar como (FOB), pero se están integrando con el flete calculado aquí en nuestro lado.

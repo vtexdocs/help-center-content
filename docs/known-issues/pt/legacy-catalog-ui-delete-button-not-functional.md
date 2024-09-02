@@ -1,5 +1,5 @@
 ---
-title: "O botão 'excluir' da interface do usuário do catálogo legado não funciona"
+title: 'O botão "excluir" da interface do usuário do catálogo legado não funciona'
 id: 2soNSJfiQMZcxlpW6jT2FR
 status: PUBLISHED
 createdAt: 2022-01-23T02:51:17.884Z
@@ -18,7 +18,9 @@ internalReference: 326408
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O botão para excluir produtos no catálogo não está funcionando, ele simplesmente não reconhece nenhum clique do usuário

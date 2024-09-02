@@ -18,7 +18,9 @@ internalReference: 801012
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O problema está na formulação das URLs que são enviadas para o provedor de pagamento. Portanto, o que acontece é que, em cenários em que essas URLs são diferentes, como no caso de uma conta franqueada que processa pagamentos e lojas em um fast store, a diferença entre as URLs geradas no pagamento e a URL esperada pelo checkout faz com que o aplicativo não seja renderizado.

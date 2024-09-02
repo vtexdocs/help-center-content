@@ -34,11 +34,13 @@ Por meio do Admin VTEX ou da [API do Customer Credit](https://developers.vtex.co
 - Configurar prazos e parcelamentos de títulos de cobrança
 - Acompanhar e modificar o status dos títulos emitidos
 
->ℹ️ Quando instalado, o Customer Credit aparece como uma opção de pagamento no Checkout somente para os clientes selecionados pelo lojista, exibindo o valor de crédito disponível para ser utilizado na compra.
+<div class="alert alert-info">
+Quando instalado, o Customer Credit aparece como uma opção de pagamento no Checkout somente para os clientes selecionados pelo lojista, exibindo o valor de crédito disponível para ser utilizado na compra.
+</div>
 
 Veja abaixo o fluxo básico de funcionamento do Customer Credit nas lojas VTEX:
 
-![GIF_CC_PT](https://images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/4aa3ae0434d69c91f827675128a5ae13/GIF_CC_PT.gif)
+![GIF_CC_PT](//images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/4aa3ae0434d69c91f827675128a5ae13/GIF_CC_PT.gif)
 
 ## Definições no Customer Credit
 
@@ -50,7 +52,9 @@ Para utilizar o Customer Credit como meio de pagamento em uma compra, o cliente 
 
 Cada conta possui um limite de crédito cadastrado no momento de sua abertura. Esse limite indica o valor máximo que o cliente pode utilizar para realizar uma ou mais compras  ao mesmo tempo via Customer Credit.
 
->⚠️ O limite de crédito de uma conta pode ser alterado pelo lojista a qualquer momento.
+<div class="alert alert-warning">
+O limite de crédito de uma conta pode ser alterado pelo lojista a qualquer momento.
+</div>
 
 ### Crédito disponível
 
@@ -58,7 +62,9 @@ Valor que o cliente ainda tem disponível em sua conta para realizar compras por
 
 Sempre que o cliente conclui uma compra e o pedido é faturado, o valor do crédito disponível diminui. Entretanto, após o cliente efetuar o pagamento do título emitido, o valor de crédito disponível retorna ao valor pré-compra.
 
->⚠️ No momento de uma compra, o cliente tem visibilidade de quanto crédito é possível utilizar via Customer Credit. Caso o valor da compra seja maior que o crédito disponível, o pagamento não poderá ser realizado por meio do Customer Credit.
+<div class="alert alert-warning">
+No momento de uma compra, o cliente tem visibilidade de quanto crédito é possível utilizar via Customer Credit. Caso o valor da compra seja maior que o crédito disponível, o pagamento não poderá ser realizado por meio do Customer Credit.
+</div>
 
 ### Título
 
@@ -76,7 +82,9 @@ Após o cliente realizar a compra utilizando o Customer Credit, o pagamento é a
 
 O fluxo no Customer Credit é similar ao de cartões de crédito em relação a modificações no pedido. Quando uma alteração de valor no pedido ocorre durante o período de pré-autorização, o valor do crédito é alterado.
 
->⚠️ Se for necessário alterar  uma ordem para diminuir o seu valor após o período de liquidação (emissão de títulos), o sistema irá atualizar os títulos para o novo valor. Caso o valor do pedido seja aumentado, o sistema criará novos títulos.
+<div class="alert alert-warning">
+Se for necessário alterar  uma ordem para diminuir o seu valor após o período de liquidação (emissão de títulos), o sistema irá atualizar os títulos para o novo valor. Caso o valor do pedido seja aumentado, o sistema criará novos títulos.
+</div>
 
 ## Instalação e configuração
 Para instalar e configurar o Customer Credit em sua loja, acesse a Track [Customer Credit - Como começar](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).

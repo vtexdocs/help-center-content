@@ -1,5 +1,5 @@
 ---
-title: "Componente de envio trancado no estado 'À espera de mais informações'."
+title: 'Componente de envio trancado no estado "À espera de mais informações".'
 id: 7HHlJdZvZ31NgsB7lTShAz
 status: PUBLISHED
 createdAt: 2023-03-29T19:26:05.971Z
@@ -18,7 +18,9 @@ internalReference: 780673
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A UI de Checkout não torna o componente de envio ao acessar a página de checkout diretamente através de etapa específica na URL (exceto para /cart e /expedição), os "dados de envio" estão incompletos, e há um aumento da latência no pedidoFormar solicitações API. Você verá a mensagem "À espera de mais informações" e não poderá prosseguir com a compra.

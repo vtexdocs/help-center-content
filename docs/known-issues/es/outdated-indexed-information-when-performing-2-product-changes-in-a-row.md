@@ -18,7 +18,9 @@ internalReference: 907428
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para las tiendas que utilizan el motor de búsqueda heredado, si se realizan dos cambios en los datos de un producto en una sucesión rápida (es decir, has desactivado un producto y lo has reactivado justo después), y el último cambio devuelve la información del producto a lo que era justo antes, el estado de dicho artículo puede quedarse atascado en el primer cambio, ya que este último no se reconoce correctamente.

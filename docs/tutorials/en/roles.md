@@ -25,7 +25,7 @@ From the **Roles** page, you can do the following:
 * [Edit a role](#editing-a-role)
 * [Delete a role](#deleting-a-role)
 
-![roles-en](https://images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/d0c8e68b433a987fb1d0c9f031726d6f/roles-en.png)
+![roles-en](//images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/d0c8e68b433a987fb1d0c9f031726d6f/roles-en.png)
 
 The page displays a list of all roles added to the account and their respective information in a table:
 
@@ -39,7 +39,9 @@ The page displays a list of all roles added to the account and their respective 
 
 In a newly created account, only the *Owner (Admin Super)* role will be listed. This role gives the user unrestricted access to all native resources of the platform.
 
->⚠️ The number of users with the *Owner (Admin Super)* role should be as few as possible. In addition, make sure there is visibility and control over who is granted this access.
+<div class="alert alert-warning">
+  <p>The number of users with the <em>Owner (Admin Super)</em> role should be as few as possible. In addition, make sure there is visibility and control over who is granted this access.</p>
+</div>
 
 ## Creating a role
 
@@ -57,7 +59,9 @@ You can edit the resources and users associated with a role. To do so, click ⫶
 
 To delete a role, click `⫶` in the row of the role you want to delete, and then click <i class="far fa-trash-alt"></i> `Delete`.
 
->⚠️ By deleting a role, users associated with that role will lose access to the [License Manager resources](https://help.vtex.com/entutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) from the deleted role, unless they are also assigned other roles with the same permissions.
+<div class="alert alert-warning">
+  <p>By deleting a role, users associated with that role will lose access to the <a href="https://help.vtex.com/entutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">License Manager resources</a> from the deleted role, unless they are also assigned other roles with the same permissions.</p>
+</div>
 
 ## Learn more
 

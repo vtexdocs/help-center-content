@@ -18,7 +18,9 @@ internalReference: 887949
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um novo usuário insere um novo e-mail na etapa de e-mail e prossegue para a próxima página, no componente de dados do cliente, o e-mail não é preenchido automaticamente.

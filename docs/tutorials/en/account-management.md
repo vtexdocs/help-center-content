@@ -19,7 +19,9 @@ Your accounts are managed on the Account management module. To access it, click 
 
 On the page of each account, you find basic data about the virtual store, domain and multi-domain settings, access keys for APIs, the company logo and contact information.
 
->ℹ️ Some of this data is useful solely for VTEX, and may not reflect in changes to the data displayed in the store.
+<div class="alert alert-info">
+Some of this data is useful solely for VTEX, and may not reflect in changes to the data displayed in the store.
+</div>
 
 ## Active/Inactive button
 
@@ -53,15 +55,17 @@ You can also click the `Configure this store` button to [Create a multistore](ht
 
 In the **Hosts** section, you need to add your store's main domain [set up with DNS pointing](https://help.vtex.com/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
 
->❗ In case your operation has more than one VTEX account or subaccounts, do not trade domains among them. This will cause errors in different aspects of your store.
+<div class="alert alert-danger">
+In case your operation has more than one VTEX account or subaccounts, do not trade domains among them. This will cause errors in different aspects of your store.
+</div>
 
 Click `Add New Domain` to add a new host, and then enter the domain in the text field. 
 
->⚠️ If you add more than one domain as your store's host, they will all display the same content. However, we recommend registering only one domain and using redirections for the other ones. Learn more about redirections:
->
-> *<a href=”https://help.vtex.com/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ”>Redirection from other addresses</a>
->
-> *<a href=”https://help.vtex.com/en/tutorial/configurando-acesso-sem-www--tutorials_4278”>Configuring access without www</a>
+<div class="alert alert-warning">
+If you add more than one domain as your store's host, they will all display the same content. However, we recommend registering only one domain and using redirections for the other ones. Learn more about redirections:
+<ul><li><a href=”https://help.vtex.com/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ”>Redirection from other addresses</a></li>
+<li><a href=”https://help.vtex.com/en/tutorial/configurando-acesso-sem-www--tutorials_4278”>Configuring access without www</a></li></ul>  
+</div>
 
 #### Subdomains
 
@@ -77,9 +81,11 @@ The **Contacts** part is only visible to users that are registered there. This r
 
 After a user has filled in and saved the **Name** and **E-mail** in the contacts field, an automatic e-mail is sent to it, informing about the registration and requesting the creation of a password (in the event he has no access to the admin).
 
->ℹ️ The template for this automatic email can be changed in the [Message Center](https://help.vtex.com/en/tutorial/understanding-the-message-center--tutorials_84) by modifying the <i>account registration</i> template.
+<div class="alert alert-info">
+The template for this automatic email can be changed in the <a href="https://help.vtex.com/en/tutorial/understanding-the-message-center--tutorials_84">Message Center</a> by modifying the <i>account registration</i> template.
+</div>
 
-![account registration](https://images.ctfassets.net/alneenqid6w5/I0CttFz6ayQW2Q8uOkKmc/19184a55a9a8de5cb3e04088251a9c93/account_registration.jpg)
+![account registration](//images.ctfassets.net/alneenqid6w5/I0CttFz6ayQW2Q8uOkKmc/19184a55a9a8de5cb3e04088251a9c93/account_registration.jpg)
 
 ## Security
 

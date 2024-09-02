@@ -18,7 +18,9 @@ internalReference: 715480
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Cada atualização de conteúdo ou estrutura em um tema de loja é registrada em arquivos chamados `content.json` e `template.json`, esses arquivos funcionam como "mapas" que mantêm as referências de todo o conteúdo que a vitrine mostra, portanto, é também baseada no que é exibido como uma prévia no Editor do Site.

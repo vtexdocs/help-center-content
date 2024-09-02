@@ -49,7 +49,7 @@ Dois novos botões devem ser exibidos em seu Checkout:
 - "Não tenho CPF".
 - "Não tenho telefone brasileiro".
 
-![checkoutuniversal1](https://images.contentful.com/alneenqid6w5/5M3l0zai5ii4KiayKG4ooI/9a9d27ea50bb97fd248093a6972748e3/checkoutuniversal1.png)
+![checkoutuniversal1](//images.contentful.com/alneenqid6w5/5M3l0zai5ii4KiayKG4ooI/9a9d27ea50bb97fd248093a6972748e3/checkoutuniversal1.png)
 
 ## Exibindo novos endereços de entrega e fatura
 
@@ -60,7 +60,9 @@ Suponha que você queira que a sua loja entregue para clientes na Inglaterra. Pa
 1. [Crie uma nova transportadora](/pt/tutorial/gerenciar-transportadora/);
 2. Crie, para a nova transportadora, uma planilha de frete com a coluna "Country" com o código ISO de 3 dígitos do país.
 
->ℹ️ O valor da coluna "Country" deve ser o código ISO de 3 dígitos para países. Para consultar os códigos, recomendamos usar o site [https://countrycode.org/](https://countrycode.org/).
+<div class="alert alert-info">
+O valor da coluna "Country" deve ser o código ISO de 3 dígitos para países. Para consultar os códigos, recomendamos usar o site <a href="https://countrycode.org/">https://countrycode.org/</a>.
+</div>
 
 Após ter configurado as entregas para os países que deseja, um novo campo aparecerá no formulário de entrega no seu checkout permitindo a escolha de entegra internacional. 
 

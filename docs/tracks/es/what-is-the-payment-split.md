@@ -24,7 +24,9 @@ Sin embargo, ese monto no necesariamente se divide en partes iguales entre los r
 
 En este documento, explicaremos cómo funciona esta solución, incluyendo algunos conceptos importantes para esa dinámica, y cómo configurarla. 
 
->ℹ️ Si usted ya conoce esta solución, vaya a la etapa Configurar *split* de pagos.
+<div class="alert alert-info">
+Si usted ya conoce esta solución, vaya a la etapa Configurar *split* de pagos.
+</div>
 
 ## Cuentas por cobrar 
 Antes de continuar, es importante explicar qué es una cuenta por cobrar, un concepto que no solo es abordado en VTEX, sino también en diversos escenarios del mercado de pagos. 
@@ -39,14 +41,18 @@ Actualmente, el split soporta los siguientes medios de pago:
 - Tarjeta de débito
 - Boleto bancario (exclusivo de Brasil)
 
->ℹ️ En el caso de la tarjeta de crédito, el *split* soporta pagos realizados con dos tarjetas.
+<div class="alert alert-info">
+En el caso de la tarjeta de crédito, el *split* soporta pagos realizados con dos tarjetas.
+</div>
 
 ## Transacción
 Cuando un consumidor finaliza una compra y realiza el pago, ese valor no necesariamente se capturará y enviará al administrador de la tienda el mismo día.
 
->ℹ️ En el caso de Brasil, existen excepciones como Pix —Sistema de Pagos Instantáneos del Banco Central— en el que la transacción se realiza en segundos. 
->
-> Sin embargo, la mayoría de los medios de pago que actualmente están disponibles en el mercado no realizan la acreditación automática del pago al administrador de la tienda.  
+<div class="alert alert-info">
+En el caso de Brasil, existen excepciones como Pix —Sistema de Pagos Instantáneos del Banco Central— en el que la transacción se realiza en segundos. 
+
+Sin embargo, la mayoría de los medios de pago que actualmente están disponibles en el mercado no realizan la acreditación automática del pago al administrador de la tienda.
+</div>  
 
 En VTEX, el comportamiento estándar es que los datos de la compra se reúnan en una transacción. Esta, por su parte, pasará por varias etapas de validación para garantizar que todos los datos sean legítimos. Ese proceso de verificación se denomina [flujo de la transacción](https://help.vtex.com/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/1xjzgJZvqwaI1rfxLMCC3Y "flujo de la transación"). 
 

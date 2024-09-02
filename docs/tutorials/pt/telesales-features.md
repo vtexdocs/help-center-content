@@ -36,7 +36,9 @@ A Toolbar de televendas é uma barra superior exibida no site da loja para usuá
 
 Para saber como utilizar esse recurso, confira o tutorial [Toolbar de Televendas](https://help.vtex.com/pt/tutorial/usando-e-customizando-toolbar-de-televendas--tutorials_5500).
 
->ℹ️ Um caso de uso do televendas é  importar pedidos de outras plataformas para o módulo Pedidos da VTEX. Para isso, você pode associar uma [política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) específica com o pagamento por [promissória](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ) (método de pagamento aprovado imediatamente e manualmente pelo próprio operador). 
+<div class = "alert alert-info">
+Um caso de uso do televendas é  importar pedidos de outras plataformas para o módulo Pedidos da VTEX. Para isso, você pode associar uma <a href="https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE">política comercial</a> específica com o pagamento por <a href="https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ">promissória</a> (método de pagamento aprovado imediatamente e manualmente pelo próprio operador).
+</div> 
 
 ### Minha Conta
 

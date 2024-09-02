@@ -18,7 +18,9 @@ internalReference: 712575
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Todo o cache combinado com o recurso de Data de Vencimento pode causar um comportamento muito estranho para nossos compradores durante o Checkout. Os maiores problemas vêm da forma como o Gateway indexa os Métodos de Pagamento:

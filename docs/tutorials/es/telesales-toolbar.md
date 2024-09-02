@@ -19,7 +19,7 @@ La barra de herramientas de televentas es una barra superior que se muestra en e
 
 La barra de herramientas aparece una vez que el operador registrado inicia sesión en el ambiente de la tienda y esta se muestra en todas las áreas del sitio web.
 
-![toolbartelevendas ES](https://images.ctfassets.net/alneenqid6w5/5ed5A8G266JqwpCaYAyDdI/ac84e4fa98ca225195dae8890f04333b/toolbartelevendas_ES.png)
+![toolbartelevendas ES](//images.ctfassets.net/alneenqid6w5/5ed5A8G266JqwpCaYAyDdI/ac84e4fa98ca225195dae8890f04333b/toolbartelevendas_ES.png)
 
 Estos son los principales recursos de la barra de herramientas:
 *   [Entrar como cliente](#entrar-como-cliente)
@@ -29,7 +29,9 @@ Para habilitar la barra de herramientas de televentas, el administrador de la ti
 
 Para saber cómo personalizar la apariencia de la barra de herramientas en el módulo CMS, consulte el artículo [Personalizar la barra de herramientas de televentas](https://help.vtex.com/es/tutorial/customizar-a-toolbar-de-televendas--1XEz1zqO3KyIuwC4asUsOg).
 
->⚠️ Para las tiendas desarrolladas en [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), se necesita configurar la aplicación **VTEX Telemarketing** para habilitar y personalizar la barra de herramientas de televentas. Para saber más sobre este proceso, acceda a la guía [VTEX Telemarketing](https://developers.vtex.com/vtex-developer-docs/docs/vtex-telemarketing).
+<div class="alert alert-warning">
+<p>Para las tiendas desarrolladas en <a href="https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io">VTEX IO</a>, se necesita configurar la aplicación <strong>VTEX Telemarketing</strong> para habilitar y personalizar la barra de herramientas de televentas. Para saber más sobre este proceso, acceda a la guía <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-telemarketing">VTEX Telemarketing</a>.</p>
+</div>
 
 ## Entrar como cliente
 

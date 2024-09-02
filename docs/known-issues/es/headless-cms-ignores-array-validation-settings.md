@@ -18,7 +18,9 @@ internalReference: 1046372
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se intentan configurar reglas de validación de arrays en Headless CMS, como elementos de arrays mínimos y máximos, los errores de validación no se muestran al usuario y es posible guardar el esquema sin pasar la validación.

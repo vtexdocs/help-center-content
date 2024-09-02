@@ -18,7 +18,9 @@ internalReference: 472882
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em pedidos com um Mais por Menos Promoção, é possível alterar o pedido e remover um ou mais itens na IU, mas o desconto ainda se aplica.

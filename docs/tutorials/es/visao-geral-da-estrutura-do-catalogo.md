@@ -21,9 +21,11 @@ En el Catálogo, los productos se organizan por categorías, y las categorías e
 
 Un ejemplo de la estructura de catálogo sería el siguiente:
 
-![img como funciona o catalogo](https://images.contentful.com/alneenqid6w5/3AXUNSkDagO06cKmMsq6w4/5e80021d54e3fa58f9b0c6a261e1f407/img_como_funciona_o_catalogo.png)
+![img como funciona o catalogo](//images.contentful.com/alneenqid6w5/3AXUNSkDagO06cKmMsq6w4/5e80021d54e3fa58f9b0c6a261e1f407/img_como_funciona_o_catalogo.png)
 
->⚠️ No es necesario que su árbol de categorías tenga tres niveles. La jerarquía que se muestra arriba es sólo un ejemplo. La cantidad de niveles de categorías a ser creados depende mucho del sector de actuación de cada tienda.
+<div class = "alert alert-warning">
+No es necesario que su árbol de categorías tenga tres niveles. La jerarquía que se muestra arriba es sólo un ejemplo. La cantidad de niveles de categorías a ser creados depende mucho del sector de actuación de cada tienda.
+</div>
 
 Después de crear su tienda y registrar sus productos, usted tendrá una visión más concreta y organizada de lo que leyó aquí.
 

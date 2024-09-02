@@ -45,4 +45,6 @@ Al lado derecho de la pantalla, es posible configurar las [condiciones especiale
 
 Sin embargo, esa etapa es opcional. Usted puede hacer clic directamente en el __botón azul «Salvar»__ para finalizar la configuración del medio de pago.
 
->⚠️ **Recuerde:** las nuevas condiciones de pago pueden llevar hasta 10 minutos para ser mostrados en SmartCheckout.
+<div class="alert alert-warning">
+<strong>Recuerde:</strong> las nuevas condiciones de pago pueden llevar hasta 10 minutos para ser mostrados en SmartCheckout.
+</div>

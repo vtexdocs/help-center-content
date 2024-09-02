@@ -18,7 +18,9 @@ internalReference: 1002115
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando há uma divisão de quantidade na `priceDefinition` devido ao arredondamento do multiplicador de unidades, o gateway não pode receber nenhum valor para `deliveryType` no objeto do carrinho. Portanto, isso pode fazer com que o provedor de pagamento negue o pagamento se ele usar esse campo...

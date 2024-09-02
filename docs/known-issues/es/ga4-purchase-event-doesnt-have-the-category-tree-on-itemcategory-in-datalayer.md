@@ -18,7 +18,9 @@ internalReference: 860655
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El evento de compra GA4 no tiene el árbol de categorías en item_category en dataLayer, por lo que la única categoría disponible es la categoría de último nivel del producto.

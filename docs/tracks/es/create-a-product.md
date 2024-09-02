@@ -16,9 +16,13 @@ trackSlugES: vtex-getting-started
 
 En primer lugar, es importante entender la diferencia entre SKU y producto - esta diferencia se refiere a la plataforma VTEX, pero también al tratamiento dado a estos conceptos por la mayoría de las operaciones de e-commerce.
 
->ℹ️ </strong>SKU:</strong> la unidad más pequeña posible de los artículos vendidos en la tienda. Stock y precio, por ejemplo, son propiedades del SKU.
+<div class="alert alert-info">
+</strong>SKU:</strong> la unidad más pequeña posible de los artículos vendidos en la tienda. Stock y precio, por ejemplo, son propiedades del SKU.
+</div>
 
->ℹ️ **Producto:** agregador de SKUs.
+<div class="alert alert-info">
+<strong>Producto:</strong> agregador de SKUs.
+</div>
 
 Vea los ejemplos siguientes:
 
@@ -31,7 +35,9 @@ En la vitrina de la tienda, el cliente verá sólo el producto __Pantalones__, y
 
 La gestión de su inventario visualiza por separado cada uno de los SKUs que componen ese producto. Así que usted puede saber, por ejemplo, que tiene 50 pantalones M en stock, pero sólo 2 pantalones G.
 
->ℹ️ **Atención**: Cada vez que crea un SKU, usted necesita antes crear el producto.
+<div class="alert alert-info">
+<strong>Atención</strong>: Cada vez que crea un SKU, usted necesita antes crear el producto.
+</div>
 
 Vamos a ver cómo crear el producto.
 
@@ -40,8 +46,8 @@ Vamos a ver cómo crear el producto.
 En el módulo __Catalog__, siga estos pasos:
 
 1. Pase el ratón en la pestaña __Regitro de Productos__.
-2. Vaya a la opción __Productos y SKUs__ y haga clic en __Registro de Productos y SKUs__.![Produto1](https://images.contentful.com/alneenqid6w5/4X1QYKrHz2ysAEAAW6gK6/85b81671add3f7573a9c4531b215ba82/Produto1.png)
-3. Haga clic en el botón __Agregar producto__.![Produto2](https://images.contentful.com/alneenqid6w5/2HhkAREgQMMAkIMm8GaGgQ/7038413048c0611edb9079acd73020ba/Produto2.png)
+2. Vaya a la opción __Productos y SKUs__ y haga clic en __Registro de Productos y SKUs__.![Produto1](//images.contentful.com/alneenqid6w5/4X1QYKrHz2ysAEAAW6gK6/85b81671add3f7573a9c4531b215ba82/Produto1.png)
+3. Haga clic en el botón __Agregar producto__.![Produto2](//images.contentful.com/alneenqid6w5/2HhkAREgQMMAkIMm8GaGgQ/7038413048c0611edb9079acd73020ba/Produto2.png)
 
 Se le llevará a la pantalla de registro de producto.
 

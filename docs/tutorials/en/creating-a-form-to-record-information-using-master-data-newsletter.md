@@ -15,4 +15,4 @@ legacySlug: untitled-entry-2017-06-08-at-01-15-53
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---
 
->⚠️ Content under translation
+<div class="alert alert-warning">Content under translation</div>

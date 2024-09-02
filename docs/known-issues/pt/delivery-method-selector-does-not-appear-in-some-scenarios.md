@@ -18,7 +18,9 @@ internalReference: 293784
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As lojas que têm opções de entrega programada podem ter um mau funcionamento em relação à seleção do método de entrega. Isto pode acontecer com ou sem o uso do Envio Lean.

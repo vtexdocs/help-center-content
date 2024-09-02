@@ -3,8 +3,8 @@ title: 'CMS - Portal Legado'
 id: 1oN446gRGcR2s70RvBCAmj
 status: PUBLISHED
 createdAt: 2022-01-10T20:17:10.358Z
-updatedAt: 2023-03-08T17:44:29.465Z
-publishedAt: 2023-03-08T17:44:29.465Z
+updatedAt: 2024-08-06T16:52:09.507Z
+publishedAt: 2024-08-06T16:52:09.507Z
 firstPublishedAt: 2022-01-10T20:41:44.261Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -18,7 +18,7 @@ trackSlugPT: cms
 
 A seção [Layout](https://help.vtex.com/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) permite que você crie seu storefront usando HTML e CSS. Ela é organizada em pastas e arquivos com as funções descritas abaixo.
 
-![CMS - Layout PT](https://images.ctfassets.net/alneenqid6w5/4YnFtKkC8exlv3vm8VTCqh/ce15ae6de766c7856a26d9c2f7e21cbc/cms-layout-pt.png)
+![CMS - Layout PT](//images.ctfassets.net/alneenqid6w5/4YnFtKkC8exlv3vm8VTCqh/ce15ae6de766c7856a26d9c2f7e21cbc/cms-layout-pt.png)
 
 - **HTML Templates:** criar o código HTML e os arquivos JavaScript e CSS de referência que serão usados nas páginas do site.
 
@@ -28,7 +28,7 @@ A seção [Layout](https://help.vtex.com/pt/subcategory/layout--2g6LxtasS4iSeGEq
 
 - **URL Builder:** redirecionar as URLs existentes para outras de interesse. Isso evitará erros de indexação e ajudará a manter os resultados de SEO.
 
-- **Files Manager:** carregar arquivos de imagem no site da sua loja. Você pode armazenar JavaScript, CSS e arquivos de imagem do site. Caso queira usar algum desses arquivos na sua loja, você deve referenciá-los na seção **HTML Templates***.
+- **Files Manager:** carregar arquivos de imagem no site da sua loja. Você pode armazenar JavaScript, CSS e arquivos de imagem do site. Caso queira usar algum desses arquivos na sua loja, você deve referenciá-los na seção **HTML Templates**.
 
 - **Product Cluster (Collections):** criar grupos de produtos. Você pode usar esse recurso para criar páginas de Campanhas ou de Coleções de Produtos com clusters de produtos específicos.
 
@@ -38,9 +38,9 @@ A seção [Layout](https://help.vtex.com/pt/subcategory/layout--2g6LxtasS4iSeGEq
 
 A seção [Configurações](https://help.vtex.com/pt/subcategory/configuracoes-de-cms--6kovkwzMRyeOOc2iEC4suM) permite que você defina configurações relacionadas ao site da sua loja, como metadados, tags de SEO, tipos de arquivos, etc. 
 
-![CMS - Settings PT](https://images.ctfassets.net/alneenqid6w5/1JFkw9wFlJd5oulogEGDDL/77031b9bdbae01c422147d00c9f9a2cb/cms-settings-pt.png)
+![CMS - Settings PT](//images.ctfassets.net/alneenqid6w5/1JFkw9wFlJd5oulogEGDDL/77031b9bdbae01c422147d00c9f9a2cb/cms-settings-pt.png)
 
-A seção **Configurações*** contém as seguintes abas:
+A seção **Configurações** contém as seguintes abas:
 
 - **Gerais:** configurações gerais relacionadas aos metadados e às opções de compra da loja, como o título da página inicial e a quantidade máxima de SKUs no carrinho.
 - **SEO:** opções de personalização de palavras-chave e meta tags de SEO.
@@ -67,7 +67,7 @@ Toda loja precisa ter, sem exceção, as seguintes pastas no CMS para garantir o
 
 Veja abaixo estas pastas básicas no CMS:
 
-![2 1](https://images.ctfassets.net/alneenqid6w5/6jvwsPMcIBTllVekqROlkk/ea2d4a9d0d4cdb8a07dd02a3add4b40b/2_1.png)
+![2 1](//images.ctfassets.net/alneenqid6w5/6jvwsPMcIBTllVekqROlkk/ea2d4a9d0d4cdb8a07dd02a3add4b40b/2_1.png)
 
 Estas pastas vêm por padrão no ambiente de todas as lojas VTEX.
 
@@ -141,7 +141,7 @@ Você pode conferir todos os controles nativos disponíveis e seus respectivos u
 - **[Para que serve o Controle Customizado?](https://help.vtex.com/pt/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627):** Além dos controles nativos da VTEX, você pode criar seus próprios controles.
 
 ## Controles
-- [Lista de controles para templates](https://help.vtex.com/pt/tutorial/list-of-controls-for-templates--tutorials_563).
+- [Lista de controles para templates](https://help.vtex.com/pt/tutorial/list-of-controls-for-templates--tutorials_563)
 - [Controle de Busca - fulltextSearchBox](https://help.vtex.com/pt/tutorial/controle-de-busca-fulltextsearchbox--tutorials_549?&utm_source=autocomplete)
 - [Controle de destaque de coleção](https://help.vtex.com/pt/tutorial/controle-de-destaque-de-colecao--1tGdb2ndjqy6yWsk2YwKMu?&utm_source=autocomplete)
 - [Controle de breadcrumb](https://help.vtex.com/pt/tutorial/controle-de-breadcrumb--3qQS5O9XpusAC6oUqSIQMM?&utm_source=autocomplete)

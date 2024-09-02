@@ -18,7 +18,9 @@ internalReference: 392666
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Transacciones introducidas en condiciones erróneas, más amplias de lo previsto(configurado)

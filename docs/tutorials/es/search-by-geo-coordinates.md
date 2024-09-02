@@ -15,7 +15,8 @@ legacySlug: busqueda-por-geocoordenadas
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---
 
->⚠️ **Atención:** Esta funcionalidad todavía se encuentra en BETA.
+<div class="alert alert-warning">
+<strong>Atención:</strong> Esta funcionalidad todavía se encuentra en BETA.</div>
 
 ### Configurar el JSON Schema
 

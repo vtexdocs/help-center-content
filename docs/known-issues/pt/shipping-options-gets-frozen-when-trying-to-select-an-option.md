@@ -18,7 +18,9 @@ internalReference: 898888
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar a configuração de checkout B2B e ir e voltar entre as etapas de envio e pagamento, o envio fica congelado ao tentar selecionar uma opção.

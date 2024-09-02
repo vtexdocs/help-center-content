@@ -15,7 +15,9 @@ legacySlug: estrutura-da-pagina-do-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
->ℹ️ Para conferir a documentação sobre a nova interface do Order Management System (OMS), veja [Lista de Pedidos (Beta)](https://help.vtex.com/pt/tutorial/order-list-beta--2QTduKHAJMFIZ3BAsi6Pi).
+<div class = "alert alert-info">
+Para conferir a documentação sobre a nova interface do Order Management System (OMS), veja <a href="https://help.vtex.com/pt/tutorial/order-list-beta--2QTduKHAJMFIZ3BAsi6Pi">Lista de Pedidos (Beta)</a>.
+</div>
 
 Para entender melhor a seção de __Gerenciamento de pedidos__, veja o descritivo de cada área do módulo responsável pela exibição e gestão dos pedidos da sua loja.
 
@@ -31,9 +33,11 @@ A barra não mostra a posição exata das lojas que estão nas 5 primeiras posi�
 
 Para todos os dados de variações de pedidos, e também para os números de evolução no ranking, a cor verde indica um resultado positivo; azul, neutro; e vermelho, negativo.
 
->⚠️ Importante: se a comparação de pedidos é feita com base em 0 pedidos no passado, a variação é de 0%.
+<div class="alert alert-warning">
+Importante: se a comparação de pedidos é feita com base em 0 pedidos no passado, a variação é de 0%.
+</div>
 
-![barra-de-status-oms pt](https://images.ctfassets.net/alneenqid6w5/4LWth3g02ACyIe4kAAgaW4/375d254b73d0fe7a0b2ae42da0a35b12/barra_de_status_pt.png)
+![barra-de-status-oms pt](//images.ctfassets.net/alneenqid6w5/4LWth3g02ACyIe4kAAgaW4/375d254b73d0fe7a0b2ae42da0a35b12/barra_de_status_pt.png)
 
 ### Filtros
 
@@ -41,7 +45,7 @@ Permitem aplicar diversos filtros para ver somente a listagem de pedidos desejad
 
 - [Como filtrar pedidos](/pt/tutorial/como-filtrar-pedidos/)
 
-![botao-filtro-oms pt ](https://images.ctfassets.net/alneenqid6w5/5BeUtetKIoIOqqCeQqkwOe/7fcc082340475f487e58de9c5d162c27/filtro_pt.png)
+![botao-filtro-oms pt ](//images.ctfassets.net/alneenqid6w5/5BeUtetKIoIOqqCeQqkwOe/7fcc082340475f487e58de9c5d162c27/filtro_pt.png)
 
 ### Barra de busca
 
@@ -49,7 +53,7 @@ Utilizada para fazer buscas sobres os termos encontrados no pedido, como número
 
 - [Como buscar pedidos](/pt/tutorial/como-buscar-o-pedido/)
 
-![barra-de-busca-oms pt](https://images.ctfassets.net/alneenqid6w5/5n7vRoP7ws8ScEuukOG86G/0860905754f93c79af9d01ff1d8af114/barra_de_busca_pt.png)
+![barra-de-busca-oms pt](//images.ctfassets.net/alneenqid6w5/5n7vRoP7ws8ScEuukOG86G/0860905754f93c79af9d01ff1d8af114/barra_de_busca_pt.png)
 
 ### Barra de informações
 
@@ -59,7 +63,7 @@ Traz também o ranking de vendas da loja em relação a todas as outras lojas da
 
 - [Interpretando os dados da barra de pedidos na tela de Todos os Pedidos.](http://help.vtex.com/pt/tutorial/interpretando-os-dados-da-barra-de-pedidos-do-oms) 
 
-![barra-de-info-oms pt](https://images.ctfassets.net/alneenqid6w5/5yArBUQd9emIc0iA8e8Meq/74cc0ed8d9b7d6ab7b4dc48c44a79e96/barra_de_info_pt.png)
+![barra-de-info-oms pt](//images.ctfassets.net/alneenqid6w5/5yArBUQd9emIc0iA8e8Meq/74cc0ed8d9b7d6ab7b4dc48c44a79e96/barra_de_info_pt.png)
 
 ### Botão de exportação
 
@@ -67,7 +71,7 @@ Utilizado para exportar os pedidos retornados na busca, sempre considerando os f
 
 - [Exportar pedidos em Gerenciamento de pedidos](http://help.vtex.com/pt/tutorial/exportando-pedidos-no-oms-2) 
 
-![botao-exportação-oms pt ](https://images.ctfassets.net/alneenqid6w5/2GJezm4WzmIOig8mkmekAy/525184bd7f438e74e609feea092ec98e/botao_exporta____o_pt.png)
+![botao-exportação-oms pt ](//images.ctfassets.net/alneenqid6w5/2GJezm4WzmIOig8mkmekAy/525184bd7f438e74e609feea092ec98e/botao_exporta____o_pt.png)
 
 ### Lista de pedidos
 
@@ -75,7 +79,7 @@ Principal área de Gerenciamento de pedidos. Traz os últimos pedidos realizados
 
 - [Lista de pedidos](/pt/tutorial/lista-de-pedidos/)
 
-![todos-pedidos-oms pt](https://images.ctfassets.net/alneenqid6w5/VIquxEKz8kK4uEqOkWIUK/7fa197e58df4996da0f9e9b957bf0dcd/todos_os_pedidos_pt.png)
+![todos-pedidos-oms pt](//images.ctfassets.net/alneenqid6w5/VIquxEKz8kK4uEqOkWIUK/7fa197e58df4996da0f9e9b957bf0dcd/todos_os_pedidos_pt.png)
 
 ### VTEX DO
 
@@ -83,7 +87,7 @@ Reúne tarefas pendentes pela loja e são geradas pelos diferentes módulos da V
 
 - [Como funciona a lista de tarefas do VTEX DO](http://help.vtex.com/pt/tutorial/vtex-do)
 
-![vtex-do-oms pt](https://images.ctfassets.net/alneenqid6w5/JkifTR1dyCUC8SIASwmws/35a6dcac6626553ea08a4492c526f965/vtex_do_pt.png)
+![vtex-do-oms pt](//images.ctfassets.net/alneenqid6w5/JkifTR1dyCUC8SIASwmws/35a6dcac6626553ea08a4492c526f965/vtex_do_pt.png)
 
 ## Assinaturas
 
@@ -101,5 +105,5 @@ A segunda aba, **Afiliados**, é destinada para configurações de afiliados em 
 
 - [Configurar Afiliado](http://help.vtex.com/pt/tutorial/como-configurar-afiliado/)
 
-![oms-configurações-gerais pt](https://images.ctfassets.net/alneenqid6w5/T2R9jSftMAa66ukO864Wy/235af9b18deb16fc1e187b1da5752318/oms_configura____es_pt.png)
+![oms-configurações-gerais pt](//images.ctfassets.net/alneenqid6w5/T2R9jSftMAa66ukO864Wy/235af9b18deb16fc1e187b1da5752318/oms_configura____es_pt.png)
 

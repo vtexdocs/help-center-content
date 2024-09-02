@@ -18,7 +18,9 @@ internalReference: 844192
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O pop-up de autenticação entra em loop quando a primeira condição de pagamento tem `requiresAuthentication: true`. A continuação da compra só será possível se a página for recarregada.

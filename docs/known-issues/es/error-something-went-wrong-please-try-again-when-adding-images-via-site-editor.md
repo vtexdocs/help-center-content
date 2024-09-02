@@ -1,5 +1,5 @@
 ---
-title: "Error 'Algo ha ido mal. Por favor, inténtelo de nuevo' al añadir imágenes a través del Editor de Sitios."
+title: 'Error "Algo ha ido mal. Por favor, inténtelo de nuevo" al añadir imágenes a través del Editor de Sitios.'
 id: r3QVP1kp8HApP83bOi6t9
 status: PUBLISHED
 createdAt: 2023-11-07T22:33:02.296Z
@@ -18,7 +18,9 @@ internalReference: 932126
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al añadir imágenes a través del Editor de Sitios, el mensaje "`Algo salió mal. Por favor inténtelo de nuevo.`" puede ocurrir ocasionalmente.

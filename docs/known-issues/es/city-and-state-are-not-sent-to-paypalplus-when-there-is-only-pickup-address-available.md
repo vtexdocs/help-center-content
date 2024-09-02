@@ -18,7 +18,9 @@ internalReference: 836025
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los campos "ciudad" y "estado" no se envían a PayPalPlus cuando el comprador sólo añade una dirección de recogida al carro, lo que hace que no se cargue la forma de pago.

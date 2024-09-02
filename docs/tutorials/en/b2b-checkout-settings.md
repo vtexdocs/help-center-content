@@ -62,7 +62,9 @@ Follow the steps below to customize your store checkout:
 <li>When you enable <code>Show Create a Quote button</code>, the checkout page will include a <code>Create Quote</code> button that allows creating a budget using the current cart items.</li>
 </ol>
 
->ℹ️ You should only enable the `Create Quote` button if the Order Quote app is installed in your store. For more information, check [B2B Quotes & Carts](https://developers.vtex.com/docs/apps/vtex.b2b-quotes).
+<div class = "alert alert-info">
+You should only enable the <code>Create Quote</code> button if the Order Quote app is installed in your store. For more information, check <a href="https://developers.vtex.com/docs/apps/vtex.b2b-quotes">B2B Quotes & Carts</a>.
+</div>
 
 <ol start="4">
 <li>Click <code>Save</code>.</li>

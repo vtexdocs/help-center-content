@@ -18,7 +18,9 @@ internalReference: 380471
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la política de envío tiene el MaxVolume en la hoja de cálculo no hay ningún mensaje de error con respecto a esto en la simulación.

@@ -18,7 +18,9 @@ internalReference: 974722
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A integração XML carrega qualquer tag relacionada ao preço, como minPrice, maxPrice, currentPrice, que são carregadas como uma tag de valor nulo (<![CDATA[]]>) quando o item não está disponível e também são definidas para serem exibidas se não estiverem disponíveis.

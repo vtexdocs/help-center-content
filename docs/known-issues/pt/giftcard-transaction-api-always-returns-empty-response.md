@@ -18,7 +18,9 @@ internalReference: 384430
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Obtenha o Giftcard Transaction e obtenha o GiftCard dos pontos finais API do Provedor de GiftCard sempre retorna uma resposta vazia

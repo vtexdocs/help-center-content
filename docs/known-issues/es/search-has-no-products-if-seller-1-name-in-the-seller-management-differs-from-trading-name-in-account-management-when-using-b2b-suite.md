@@ -18,7 +18,9 @@ internalReference: 946391
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las organizaciones B2B utilizan los nombres de los vendedores desde la Gestión de Vendedores. Si una organización tiene asignado el vendedor 1, el nombre guardado será de la Gestión de vendedores, pero es posible que no se muestren productos en la búsqueda si difiere del nombre comercial en la Gestión de cuentas.

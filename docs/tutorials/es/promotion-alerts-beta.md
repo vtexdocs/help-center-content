@@ -15,7 +15,9 @@ legacySlug: alertas-de-promociones-beta
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
->ℹ️ Este módulo está en fase beta. Esto significa que estamos trabajando para mejorarlo. Si tienes alguna duda, por favor ponte en contacto con nuestro [equipo de soporte](https://help.vtex.com/es/support).
+<div class = "alert alert-info">
+Este módulo está en fase beta. Esto significa que estamos trabajando para mejorarlo. Si tienes alguna duda, por favor ponte en contacto con nuestro <a href="https://help.vtex.com/es/support">equipo de soporte</a>.
+</div>
 
 Crear promociones es una buena estrategia para atraer a más compradores a tu sitio de ecommerce. Al configurarlas, es muy importante tener cuidado de que los descuentos aplicados tengan los efectos esperados, ya que los errores al registrar promociones pueden causar pérdidas de ingresos.
 
@@ -27,7 +29,7 @@ Si solo se configura la acción de alerta por email, es posible que se realicen 
 
 Para acceder a la página en el Admin VTEX, ve a *Promociones > Alerta de promociones*. Se mostrará la interfaz a continuación:
 
-![simuladordepromocoes gerenciar](https://images.ctfassets.net/alneenqid6w5/4E0oZf13zNjKgj5MNRYiuf/94c9af89ae0bad5601b316dfc73a6caf/simuladordepromocoes_gerenciar.gif)
+![simuladordepromocoes gerenciar](//images.ctfassets.net/alneenqid6w5/4E0oZf13zNjKgj5MNRYiuf/94c9af89ae0bad5601b316dfc73a6caf/simuladordepromocoes_gerenciar.gif)
 
 La siguiente tabla proporciona la descripción de las columnas de la lista de promociones:
 

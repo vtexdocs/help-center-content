@@ -15,7 +15,9 @@ legacySlug: campos-de-registro-de-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
->⚠️ Hay un límite de 50 SKU por producto. Para solicitar que se amplíe el límite, ponte en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.
+<div class="alert alert-warning">
+  <p>Hay un límite de 50 SKU por producto. Para solicitar que se amplíe el límite, ponte en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.</p>
+</div>
 
 Para entender mejor el significado de cada campo del registro, vea la descripción completa de los ítems relacionados en la página:
 
@@ -31,7 +33,9 @@ __Código de Referencia__: código de referencia único creado para ayudar con l
 
 __Peso para Flete:__ calculado para flete. Debe registrarse con un valor mayor que cero para que el <a href="https://help.vtex.com/es/tutorial/como-se-realiza-el-prorrateo-del-flete--frequentlyAskedQuestions_155">prorrateo del flete</a> funcione correctamente.
 
->ℹ️ El módulo **Inventario y envío/Envío** no tiene en cuenta las unidades de medida en los campos a continuación. Solo sea consistente con lo que está registrado en los [campos de registro de producto](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) y de SKU.
+<div class = "alert alert-info">
+<p>El módulo <b>Inventario y envío/Envío</b> no tiene en cuenta las unidades de medida en los campos a continuación. Solo sea consistente con lo que está registrado en los <a href="https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">campos de registro de producto</a> y de SKU.</p>
+</div>
 
 __Altura para Flete:__ calculada para flete.
 
@@ -73,7 +77,9 @@ Luego de rellenar los campos, haga clic en Guardar. Para continuar con el regist
 
 ## Imágenes
 
->ℹ️ La imagen del SKU tiene un límite de tamaño de 3200 x 3200 píxeles.
+<div class="alert alert-info">
+  <p>La imagen del SKU tiene un límite de tamaño de 3200 x 3200 píxeles.</p>
+</div>
 
 Cómo registrar una nueva imagen:
 
@@ -132,5 +138,7 @@ Luego de rellenar los campos necesarios, basta con hacer clic en Guardar, en la 
 - [Rellenar campos de registro del producto](/es/tutorial/campos-de-registro-de-producto--4dYXWIK3zyS8IceKkQseke)
 - [Rellenar campos de la plantilla de importación](/es/tutorial/preencher-campos-da-planilha-de-importacao--4nYhx63Q5yokQWaMguaIgI)
 
->❗ Para garantizar que los ítems agregados al stock estén disponibles para venta en la tienda, el [ID del SKU](url) no debe contener **el número cero a la izquierda**. Por ejemplo, el sistema no reconoce ID con el formato `01`, `02` , `021`, ya que espera el formato `1`, `2`, `21`.
+<div class="alert alert-danger">
+ Para garantizar que los ítems agregados al stock estén disponibles para venta en la tienda, el <a href="url">ID del SKU</a> no debe contener <b>el número cero a la izquierda</b>. Por ejemplo, el sistema no reconoce ID con el formato <code>01</code>, <code>02</code> , <code>021</code>, ya que espera el formato <code>1</code>, <code>2</code>, <code>21</code>.
+</div>
 

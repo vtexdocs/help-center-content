@@ -18,7 +18,9 @@ internalReference: 491180
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o vtex.store-components product-image, ao deslizar uma imagem para o lado depois de clicar nela para aumentar o zoom, a primeira imagem continuará ampliada, causando problemas de renderização quando o usuário deslizar de volta para ela.

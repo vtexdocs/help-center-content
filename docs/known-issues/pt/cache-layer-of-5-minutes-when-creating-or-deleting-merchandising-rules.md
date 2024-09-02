@@ -18,7 +18,9 @@ internalReference: 841197
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao criar regras de merchandising visual ou excluir qualquer regra de merchandising, há um cache de 5 minutos para ficar disponível visualmente no admin.

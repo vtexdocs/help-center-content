@@ -20,14 +20,17 @@ Antes de começar a desenvolver, certifique-se de que os passos abaixo foram cum
 
 Você precisa ter o npm ou o yarn instalado na sua máquina. Ambos são gerenciadores de pacotes. E um dos dois é necessário para instalar a CLI do VTEX IO.
 
->ℹ️ Se você não está acostumado a trabalhar com gerenciadores de pacotes, entenda mais sobre essas ferramentas:
->
-> 
->
-> * [npm](https://www.npmjs.com/)
->
-> * [yarn](https://yarnpkg.com/)
-> 
+<div class="alert alert-info">
+Se você não está acostumado a trabalhar com gerenciadores de pacotes, entenda mais sobre essas ferramentas:<br>
+<ul>
+  <li>
+    <a href="https://www.npmjs.com/">npm</a>
+  </li>
+  <li>
+    <a href="https://yarnpkg.com/">yarn</a>
+  </li>
+</ul>
+</div>
 
 ## Instalar a CLI do VTEX IO
 

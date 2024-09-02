@@ -18,7 +18,9 @@ internalReference:
 
 ## Sumario
 
->⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+<div class = "alert alert-warning">
+  <strong>Atención</strong>: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+</div>
 
 El botón de agregar marca en la búsqueda del registro de productos, en el catálogo, no tiene el comportamiento esperado. Al elegir la marca y hacer clic en ese botón, la búsqueda devuelve todos los productos y los textos de los campos de búsqueda desaparecen.
 

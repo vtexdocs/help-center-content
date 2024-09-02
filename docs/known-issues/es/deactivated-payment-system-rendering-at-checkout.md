@@ -18,7 +18,9 @@ internalReference: 1049543
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El problema parece ocurrir sólo en las subcuentas, incluso desactivado (también eliminado) el método de pago rinde en la caja

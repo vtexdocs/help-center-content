@@ -16,7 +16,9 @@ trackSlugEN: next-steps-after-the-go-live
 
 Now that the store is configured in the VTEX environment and has [gone live](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/6xYnNxDHUcY6FyChgziCoH), it's time to learn about the features and [add-on solutions](https://help.vtex.com/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm) available to help increase sales performance and expand operations, contributing to your business's continuous improvement.
 
->⚠️ Through the [VTEX Partner Portal](https://partnerportal.vtex.com/), you can hire [partners](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners) to help develop your store and manage the solutions described in this article. To log in to the portal, the user needs [access to a store's VTEX Admin](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz).
+<div class="alert alert-warning">
+  <p>Through the <a href="https://partnerportal.vtex.com/">VTEX Partner Portal</a>, you can hire <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners">partners</a> to help develop your store and manage the solutions described in this article. To log in to the portal, the user needs <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz">access to a store's VTEX Admin</a>.</p>
+</div>
 
 ## VTEX launches
 

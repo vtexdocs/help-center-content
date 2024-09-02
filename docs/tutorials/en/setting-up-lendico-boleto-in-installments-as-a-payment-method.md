@@ -1,5 +1,5 @@
 ---
-title: "Setting up Provu (Lendico) 'boleto' in installments as a payment method (Brazilian off-line payment method)"
+title: 'Setting up Provu (Lendico) "boleto" in installments as a payment method (Brazilian off-line payment method)'
 id: 1pRpPlkppLDEc1TVXTgrcu
 status: DRAFT
 createdAt: 2020-12-02T10:58:09.076Z

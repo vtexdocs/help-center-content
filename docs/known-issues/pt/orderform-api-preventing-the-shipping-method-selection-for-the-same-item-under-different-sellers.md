@@ -18,7 +18,9 @@ internalReference: 742139
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Embora um formulário de pedido ofereça suporte para que a mesma SKU seja adicionada várias vezes por meio de diferentes vendedores, ele não permite que o método de envio (SLA) seja selecionado individualmente, onde a logística de um vendedor é completamente independente dos outros.

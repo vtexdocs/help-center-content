@@ -1,5 +1,5 @@
 ---
-title: "A exportação de imagens de SKU para contas que começam com 'h', 't' ou 'p' recebe esse corte de caracteres nas linhas de 'URL da imagem'."
+title: 'A exportação de imagens de SKU para contas que começam com "h", "t" ou "p" recebe esse corte de caracteres nas linhas de "URL da imagem".'
 id: 1IZdnE8IGwkBlbcFhjLrzn
 status: PUBLISHED
 createdAt: 2023-10-13T15:20:49.703Z
@@ -18,7 +18,9 @@ internalReference: 919199
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O relatório de imagem SKU, /admin/Site/ProdutoImagemExportacao.aspx, para nomes de contas que começam com "h", "t" ou "p", como "testaccount", mostrará um caractere ausente na planilha de exportação para a linha imageURL.

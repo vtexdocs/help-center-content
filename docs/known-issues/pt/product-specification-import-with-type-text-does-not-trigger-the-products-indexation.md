@@ -1,5 +1,5 @@
 ---
-title: "A importação da especificação do produto com o tipo 'texto' não aciona a indexação do produto"
+title: 'A importação da especificação do produto com o tipo "texto" não aciona a indexação do produto'
 id: 5eQB7LCCyDbVNQBQvWti33
 status: PUBLISHED
 createdAt: 2024-03-12T19:36:58.647Z
@@ -18,7 +18,9 @@ internalReference: 998658
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao importar especificações de produtos, os tipos com valores pré-registrados (como Checkbox ou Radio) acionam a indexação do produto, mas quando o tipo é "Texto" o mesmo não ocorre.

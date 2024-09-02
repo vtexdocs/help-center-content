@@ -15,4 +15,6 @@ legacySlug: authentication-with-user-and-password-on-the-rest-interface
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---
 
->ℹ️ This article has been discontinued. To authenticate and integrate with the VTEX APIs, access our article [Application Keys](http://help.vtex.com/en/tutorial/application-keys).
+<div class="alert alert-info">
+This article has been discontinued. To authenticate and integrate with the VTEX APIs, access our article <a href="http://help.vtex.com/en/tutorial/application-keys">Application Keys</a>.
+</div>

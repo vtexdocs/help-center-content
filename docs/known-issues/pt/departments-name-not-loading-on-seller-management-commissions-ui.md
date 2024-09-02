@@ -18,7 +18,9 @@ internalReference: 1005799
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao selecionar um departamento para definir uma comissão específica no gerenciamento de vendedores, a tabela não está carregando o nome do departamento. O comportamento não ocorre em categorias secundárias.

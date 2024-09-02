@@ -18,7 +18,9 @@ internalReference: 584182
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Não é possível alterar a ordem dos valores de especificação para contas com um grande volume de valores. Quando a ordem de algum valor é alterada, a página é recarregada e a alteração não é salva.

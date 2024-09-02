@@ -18,7 +18,9 @@ internalReference: 337860
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, la hoja de catálogo de Productos y SKUs no soporta la unidad de medida 'lb'. `/admin/Site/Relatorio_Skus.aspx`

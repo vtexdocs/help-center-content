@@ -1,5 +1,5 @@
 ---
-title: "A incompatibilidade de AddressId causa o erro 'endereço inválido para um item'"
+title: 'A incompatibilidade de AddressId causa o erro "endereço inválido para um item"'
 id: 5bSac85eHb9NmrOhcTjHNw
 status: PUBLISHED
 createdAt: 2024-03-01T19:28:52.074Z
@@ -18,7 +18,9 @@ internalReference: 992503
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O anexo de carrinho `shippingData` suporta o campo `addressId` em alguns objetos diferentes: `logisticsInfo`, `address` e `selectedAddresses`.

@@ -1,5 +1,5 @@
 ---
-title: "[Admin] A Pesquisa global não reconhece os 'Itens do menu de perfil'"
+title: '[Admin] A Pesquisa global não reconhece os "Itens do menu de perfil"'
 id: 4AZiu9NXouL6b8z5EHJIWK
 status: PUBLISHED
 createdAt: 2024-01-22T17:09:55.423Z
@@ -18,7 +18,9 @@ internalReference: 969645
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A Pesquisa global não reconhece "Itens do menu de perfil"

@@ -18,7 +18,9 @@ internalReference: 296786
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El selector de fecha/hora para la entrega programada desaparece cuando el usuario cambia de "recoger" a "recibir", este comportamiento ocurre independientemente del uso de la función Lean Shipping.

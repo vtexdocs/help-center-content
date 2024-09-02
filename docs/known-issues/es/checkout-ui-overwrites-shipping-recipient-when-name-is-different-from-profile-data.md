@@ -18,7 +18,9 @@ internalReference: 822670
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si un comprador tiene un perfil completo en el que el nombre y los apellidos difieren del destinatario del envío, cuando su perfil se rellena automáticamente al realizar el pago, la interfaz de usuario sobrescribe el Destinatario del envío con el valor del nombre y los apellidos combinados.

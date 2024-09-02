@@ -40,7 +40,9 @@ To configure Cielo, follow the steps below.
     - __BpmpiAuthNotifyOnly:__ Choose whether the card transaction will be submitted in "notification only" mode. This option is only valid for Mastercard cards. In this mode, the authentication process will not be triggered, but the data will be submitted to the card company.
     - __BpmpiAuthSuppresschallenge:__ Choose whether the challenge must be suppressed when it exists. If a transaction is authorized after ignoring the challenge, the liability rests with the merchant.
 
->⚠️ **Warning**: For the 3DS2 flow to work correctly, you need to install the payment app cielo-authentication-app.
+<div class="alert alert-warning">
+<strong>Warning</strong>: For the 3DS2 flow to work correctly, you need to install the payment app cielo-authentication-app.
+</div>
 
 11. In __Early capture__, select how soon the capture must take place (after transaction approval and anti-fraud analysis). You can also disable this option.
 12. Click on __Save__.

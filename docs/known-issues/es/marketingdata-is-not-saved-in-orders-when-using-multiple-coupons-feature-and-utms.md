@@ -18,7 +18,9 @@ internalReference: 936458
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utiliza la función de cupones múltiples y hay cupones y utms, o 'marketingTags', en el 'orderForm', no se guarda ningún 'marketingData' en el pedido.

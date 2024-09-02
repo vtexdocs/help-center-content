@@ -1,5 +1,5 @@
 ---
-title: "Error de cálculo de la sección 'total' del informe de indexación del catálogo"
+title: 'Error de cálculo de la sección "total" del informe de indexación del catálogo'
 id: 6TJXux104P2c0mruo5vlEn
 status: PUBLISHED
 createdAt: 2022-02-25T11:39:42.098Z
@@ -18,7 +18,9 @@ internalReference: 499450
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, en el informe de indexación del catálogo (RelatorioIndexacao.aspx), la sección "Total indexado" está considerando todos los productos del catálogo al llegar al 100% de la métrica, no restando los productos no indexados si es necesario.

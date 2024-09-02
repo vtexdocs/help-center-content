@@ -30,7 +30,7 @@ Durante la configuración inicial de VTEX, si tu tienda utiliza [integraciones e
 
 Después de configurar la integración de productos, precios y stock, así como de desarrollar el middleware, el flujo de información se dará como se ilustra en el diagrama a continuación.
 
-![back-office-en](https://images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/0a0be8f8112538def94277ec0e3f176a/integracoes-es-1.PNG)
+![back-office-en](//images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/0a0be8f8112538def94277ec0e3f176a/integracoes-es-1.PNG)
 
 Durante las operaciones rutinarias, las responsabilidades se dividen de la siguiente manera:
 
@@ -164,7 +164,9 @@ Aun así, pueden existir tiendas partner estratégicas para tu empresa que opere
 
 Respecto al soporte a una operación en este contexto, es importante que el retailer comprenda las responsabilidades de cada participante en la operación, que se detallan a continuación.
 
->⚠️ Las secciones siguientes contemplan una tienda en operación integrada con un marketplace externo vía conector externo. Para saber cómo integrar por primera vez tu catálogo de VTEX con un conector externo, consulta el tutorial [Catalog Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word).
+<div class="alert alert-warning">
+  <p>Las secciones siguientes contemplan una tienda en operación integrada con un marketplace externo vía conector externo. Para saber cómo integrar por primera vez tu catálogo de VTEX con un conector externo, consulta el tutorial <a href="https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Catalog Integration</a>.</p>
+</div>
 
 ### Actualización o envío de nuevos productos y SKU
 
@@ -195,6 +197,6 @@ Sigue los pasos que se indican a continuación para identificar al soporte con e
 2. Haz clic en el pedido deseado para acceder a la [página de detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 3. En la sección **Historial de pedidos**, haz clic en `Ver interacciones` (botón ilustrado a continuación), y comprueba si hay algún mensaje de error. 
 
-![ver-interacciones-es](https://images.ctfassets.net/alneenqid6w5/2A2368gEpzx8T1VnDXsQ2C/6608d46e87166eda8f12b46e69986260/ver-interacciones-es.png)
+![ver-interacciones-es](//images.ctfassets.net/alneenqid6w5/2A2368gEpzx8T1VnDXsQ2C/6608d46e87166eda8f12b46e69986260/ver-interacciones-es.png)
 
 Si el mensaje de error no es autoexplicativo, el retailer puede ponerse en contacto con el [equipo de soporte VTEX](https://help.vtex.com/es/faq/como-funciona-el-suporte-de-vtex--3kACEfni4m8Yxa1vnf2ebe) adjuntando capturas de pantalla de las interacciones y el ID del pedido, y el equipo de expertos lo ayudará a identificar el origen del problema.

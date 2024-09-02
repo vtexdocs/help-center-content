@@ -19,7 +19,9 @@ O objetivo deste tutorial é ensinar como enviar os meios de pagamento de um Sel
 
 Esta feature permite que as compras realizadas num e-commerce sejam realizadas com os meios de pagamento de uma loja física. Isto diminui a complexidade da operação, separando centros de custo, pois a fatura e os pagamentos serão vinculados diretamente ao CNPJ da loja física, que atua como Seller White Label de um Marketplace.
 
->ℹ️ Esta configuração substitui a utilização da antiga feature de** Contas Alternativas** para este cenário.
+<div class="alert alert-info">
+Esta configuração substitui a utilização da antiga feature de<strong> Contas Alternativas</strong> para este cenário.
+</div>
 
 ## Cadastrar meios de pagamento no Seller White Label
 

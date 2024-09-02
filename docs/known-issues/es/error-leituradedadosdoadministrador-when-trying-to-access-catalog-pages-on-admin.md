@@ -18,7 +18,9 @@ internalReference: 1055578
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos usuarios incluso con el rol correcto reciben un error "El usuario xx no tiene acceso a la página solicitada (LeituraDeDadosDoAdministrador)" al acceder a las páginas del catálogo en admin.

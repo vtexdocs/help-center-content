@@ -18,7 +18,9 @@ internalReference: 694254
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A Pesquisa de Gerenciamento de Inventário não se comporta como esperado nas contas do portal do vendedor. Isto acontece porque este tipo de contas utiliza uma versão diferente do catálogo.

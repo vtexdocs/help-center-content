@@ -18,7 +18,9 @@ internalReference: 927174
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un usuario tiene asignada más de una organización, y la primera registrada está inactiva, no se reconoce como asignada ninguna organización tras el login.

@@ -31,7 +31,9 @@ Na VTEX, temos três possibilidades de configuração de Coleções:
 | Automática | CMS | Criada por filtros de Marca ou Categoria | Sem controle |
 | Híbrida    | CMS e módulo de Coleções Beta | Criada por filtros de Marca ou Categoria. Também é possível adicionar os produtos manualmente| Sem controle        |
 
->⚠️ Coleções criadas no módulo CMS e com mais de um <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L#">grupo</a> não podem ser reordenadas no novo módulo de Coleções Beta. Indicamos que você não altere a ordenação, pois pode comprometer eficiência da funcionalidade.
+<div class = "alert alert-warning">
+  <p>Coleções criadas no módulo CMS e com mais de um <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L#">grupo</a> não podem ser reordenadas no novo módulo de Coleções Beta. Indicamos que você não altere a ordenação, pois pode comprometer eficiência da funcionalidade.</p>
+</div>
 
 ## Coleções manuais
 

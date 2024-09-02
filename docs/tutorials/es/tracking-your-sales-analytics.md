@@ -27,7 +27,7 @@ La siguiente tabla describe las principales métricas disponibles en Insights. T
 | Ingresos        | Valor total calculado según los pedidos aprobados.       |
 | Ticket promedio | Valor promedio de los ingresos por pedido.       |
 
->⚠️ No tenemos acceso a los datos de sesiones y conversión que se refieren a los flujos de compras realizados fuera de las tiendas VTEX. Por eso, los pedidos hechos en los marketplaces no se incluyen en las métricas de Insights.
+<div class="alert alert-warning">No tenemos acceso a los datos de sesiones y conversión que se refieren a los flujos de compras realizados fuera de las tiendas VTEX. Por eso, los pedidos hechos en los marketplaces no se incluyen en las métricas de Insights.</div>
 
 ## Conociendo la interfaz
 

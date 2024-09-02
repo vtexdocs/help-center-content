@@ -26,7 +26,9 @@ Cuando hay un _split_ de pedido, se añade un sufijo al código, tal como `-01` 
 
 > Ejemplo: en el entorno del marketplace, el código de pedido con _split_ es `527103869572-01` o `v527103anml-01`.
 
->ℹ️ El pedido realizado en el marketplace tiene un código identificador en el entorno de los sellers. Cada seller tiene acceso restringido a su parte del pedido y no tiene ningún acceso a los pedidos de otros sellers.
+<div class = "alert alert-info">
+El pedido realizado en el marketplace tiene un código identificador en el entorno de los sellers. Cada seller tiene acceso restringido a su parte del pedido y no tiene ningún acceso a los pedidos de otros sellers.
+</div>
 
 El código identificador del pedido en el entorno del seller tiene como base la misma secuencia utilizada en el marketplace, más el prefijo adicional correspondiente al [ID de afiliado](https://help.vtex.com/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), el código de tres consonantes que identifica al seller en el marketplace.
 

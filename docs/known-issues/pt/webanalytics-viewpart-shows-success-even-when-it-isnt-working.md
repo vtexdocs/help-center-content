@@ -18,7 +18,9 @@ internalReference: 768059
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a parte de visualização da webanalytics não apresenta nenhuma mensagem de erro, mesmo quando falha e não entrega o conteúdo dos metadados ao usuário.

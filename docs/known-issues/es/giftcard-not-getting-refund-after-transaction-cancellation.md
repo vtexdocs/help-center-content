@@ -18,7 +18,9 @@ internalReference: 491195
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el pago es una tarjeta regalo y se produce un error durante el proceso de realización del pedido y éste queda incompleto, no se reembolsa la CG una vez cancelada la transacción.

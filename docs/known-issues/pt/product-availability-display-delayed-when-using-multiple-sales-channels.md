@@ -18,7 +18,9 @@ internalReference: 949411
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A exibição, para lojas de portais antigos, de produtos em PLPs é baseada no canal de vendas da loja e em seus dados básicos de disponibilidade.

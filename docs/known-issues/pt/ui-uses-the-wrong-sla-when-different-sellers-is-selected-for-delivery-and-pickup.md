@@ -18,7 +18,9 @@ internalReference: 797023
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Etiquetas brancas de vendedores diferentes podem ser selecionadas para atender aos produtos ao usar endereços diferentes para entrega e retirada. A interface do usuário considera o SLA errado ao alternar entre entrega e retirada.

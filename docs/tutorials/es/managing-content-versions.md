@@ -19,7 +19,7 @@ La versión de un bloque es una copia de su contenido en un momento determinado.
 
 Con el recurso **Versiones**, puedes crear, programar y experimentar con diferentes contenidos para un bloque determinado, sin comprometer la versión publicada de tu tienda. Cada bloque disponible en el Site Editor puede tener varias versiones.
 
-![Activating Versions - Versiones](https://images.ctfassets.net/alneenqid6w5/2W6NS7tRlWMcUdSunI2ifx/72d7fa2f8c892de190e1e2a62f087490/activating-first-es.png)
+![Activating Versions - Versiones](//images.ctfassets.net/alneenqid6w5/2W6NS7tRlWMcUdSunI2ifx/72d7fa2f8c892de190e1e2a62f087490/activating-first-es.png)
 
 Ve en las siguientes secciones cómo:
 
@@ -52,12 +52,14 @@ Después de [crear una nueva versión de contenido](#crear-una-nueva-version-de-
 
 3. Elige el contenido que deseas activar y haz clic en `Más opciones` > **Activar.**
 
->⚠️ Al acceder a <i>Aplicar a</i>, siempre aparecerá la opción <i>esta URL</i> encima de <i>esta plantilla</i>. Esto significa que si el bloque tiene dos versiones, cada una con una opción de aplicación diferente, el usuario solo podrá reactivar la versión aplicada en la plantilla si elimina la versión aplicada por URL.
->
-> Después de hacer clic en `más opciones` > **Activar**, habrás publicado el nuevo contenido en tu tienda.
->
-> <div>
-> Solo puedes tener un contenido activo a la vez. Si activas un contenido, los demás se desactivarán.
+<div class="alert alert-warning">
+  <p>Al acceder a <i>Aplicar a</i>, siempre aparecerá la opción <i>esta URL</i> encima de <i>esta plantilla</i>. Esto significa que si el bloque tiene dos versiones, cada una con una opción de aplicación diferente, el usuario solo podrá reactivar la versión aplicada en la plantilla si elimina la versión aplicada por URL.</p>
+
+Después de hacer clic en `más opciones` > **Activar**, habrás publicado el nuevo contenido en tu tienda.
+
+<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
+Solo puedes tener un contenido activo a la vez. Si activas un contenido, los demás se desactivarán.
+</div>
 
 ## Programar actualizaciones de contenido
 

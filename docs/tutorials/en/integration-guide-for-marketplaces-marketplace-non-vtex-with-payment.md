@@ -15,7 +15,9 @@ legacySlug: integration-guide-for-marketplaces-marketplace-non-vtex-with-payment
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
->⚠️ Check out the updated version of this [marketplace integration guide](https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide) in our Developer Portal. 
+<div class="alert alert-warning">
+Check out the updated version of this <a href="https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide">marketplace integration guide</a> in our Developer Portal. 
+</div> 
 
 ## Marketplace not Hosted on VTEX Platform selling to Sellers Hosted on VTEX Platform with Payment
 

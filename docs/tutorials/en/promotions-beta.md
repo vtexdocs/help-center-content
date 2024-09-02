@@ -15,7 +15,9 @@ legacySlug: promotions-beta
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
->❗ This feature will be discontinued on May 16, 2022. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.
+<div class="alert alert-danger">
+<p>This feature will be discontinued on May 16, 2022. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.</p>
+</div>
 
 The VTEX platform allows you to optimally and practically add different promotion types suited for different scenarios. Through a centralized interface for managing promotions, your store can offer more benefits focused on customer attraction and retention.
 
@@ -30,20 +32,20 @@ The home page displays the promotions list in a grid that allows you to easily v
 - Duplicate or archive promotions using the <i class="fas fa-ellipsis-v"></i>  button;
 - Manage promotion conditions by clicking anywhere in the grid row (see [New promotion](#new-promotion) for more details about promotion conditions).
 
-![promobeta1 acoes lista promocoes EN](https://images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/b3f2216333e8dd4cbd084b6408524541/promobeta1_acoes_lista_promocoes_EN.gif)
+![promobeta1 acoes lista promocoes EN](//images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/b3f2216333e8dd4cbd084b6408524541/promobeta1_acoes_lista_promocoes_EN.gif)
 
 You can filter and sort your promotion list according to your needs. The VTEX platform allows you to filter your promotions by *Effects*, *Status*, *Starting date*, *Ending date*, or *Trade policy*.
 
-![promobeta2 filtros lista promocoes EN](https://images.ctfassets.net/alneenqid6w5/4UBGUJC4RTEA9alSeHmJlh/e1e802f323d8eba2e296a27ae0f27135/promobeta2_filtros_lista_promocoes_EN.gif)
+![promobeta2 filtros lista promocoes EN](//images.ctfassets.net/alneenqid6w5/4UBGUJC4RTEA9alSeHmJlh/e1e802f323d8eba2e296a27ae0f27135/promobeta2_filtros_lista_promocoes_EN.gif)
 
 You can also sort your list in ascending or descending order based on the basic information of the promotion by clicking on the filter title.
 
-![promobeta3 ordenacao lista promocoes EN](https://images.ctfassets.net/alneenqid6w5/60Z7afuYC3PqwTEPCVLVYd/5f56351941377f0829b3582324ed347f/promobeta3_ordenacao_lista_promocoes_EN.gif)
+![promobeta3 ordenacao lista promocoes EN](//images.ctfassets.net/alneenqid6w5/60Z7afuYC3PqwTEPCVLVYd/5f56351941377f0829b3582324ed347f/promobeta3_ordenacao_lista_promocoes_EN.gif)
 
 ## New promotion
 On the Promotions page, click on the __NEW PROMOTION__ button to access the promotion creation page, where you will fill in a series of fields to configure the desired conditions for your promotion. 
 
-![promobeta4 botao novapromocao EN](https://images.ctfassets.net/alneenqid6w5/4Zp0NocPVWeIW44Ky8pWqo/29b06b468de480f45adef9896a7eabe4/promobeta4_botao_novapromocao_EN.png)
+![promobeta4 botao novapromocao EN](//images.ctfassets.net/alneenqid6w5/4Zp0NocPVWeIW44Ky8pWqo/29b06b468de480f45adef9896a7eabe4/promobeta4_botao_novapromocao_EN.png)
 
 The new promotion conditions and fields are divided into the following groups:
 
@@ -96,7 +98,9 @@ This effect generates a total discount on the value of the product that is defin
 - __SKUs__: option that allows you to select the SKU of the giveaway.
 - __Maximum quantity per purchase__: allows you to choose the maximum number of giveaways per order.
 
->⚠️ You must add prices for all **giveaway products**, even though they are given for free.
+<div class="alert alert-warning">
+  <p>You must add prices for all <b>giveaway products</b>, even though they are given for free.</p>
+</div>
 
 #### Shipping
 - __Discount type__
@@ -122,7 +126,9 @@ This effect generates a total discount on the value of the product that is defin
   - __UTM source__.
   - __ZIP code range__.
 
->ℹ️ If you want to link an <a href= "https://help.vtex.com/en/tutorial/como-criar-cupom--tutorials_319?&utm_source=autocomplete">existing coupon</a> to the new promotion, you must select UTM Campaign and UTM Source and inform the coupon codes.
+<div class="alert alert-info">
+<p>If you want to link an <a href= "https://help.vtex.com/en/tutorial/como-criar-cupom--tutorials_319?&utm_source=autocomplete">existing coupon</a> to the new promotion, you must select UTM Campaign and UTM Source and inform the coupon codes. </p>
+</div>
 
 ### Coupons
 If you want to create a new coupon linked to the promotion, click on __NEW COUPON__ and fill in the following fields:
@@ -135,11 +141,15 @@ By clicking on __Advanced Settings__, you can also configure an additional field
 
 - __Limit use__: limits the number of times the coupon can be used.
 
->⚠️ To save this new coupon, click on the **OK** button. If you close the **NEW COUPON** window without saving the changes, the coupon will not be created.
+<div class="alert alert-warning">
+<p>To save this new coupon, click on the <b>OK</b> button. If you close the <b>NEW COUPON</b> window without saving the changes, the coupon will not be created.</p>
+</div>
 
 When you create a new coupon for the new promotion, the coupon will also be displayed in the __Coupons__ tab of the __Promotions & Taxes__ module. In addition, your UTM Source and/or UTM Campaign conditions will be automatically linked to the new promotion in the __Specific customers__ filter.
 
->⚠️ If you change the UTM Source and UTM Campaign conditions in the **Specific customers** filter settings **after** creating the coupon, it will be deleted.
+<div class="alert alert-warning">
+<p>If you change the UTM Source and UTM Campaign conditions in the <b>Specific customers</b> filter settings <b>after</b> creating the coupon, it will be deleted.</p>
+</div>
 
 ### Restrictions
 - __Limit use in the store__: limits the number of times the promotion can be used in the store.

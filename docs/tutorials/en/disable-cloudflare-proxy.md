@@ -23,8 +23,10 @@ To disable the CloudFlare proxy (and therefore disable CloudFlare's CDN and WAF 
 
 If the proxy is enabled, the icon will be orange with the text **Proxied**. If it is disabled, the icon will be gray with the text **DNS Only**.
 
-![Cloudflare proxy configuration](https://images.ctfassets.net/alneenqid6w5/1pEYEd1KWlH0P97Pgwyb7n/80ac72636596307b289d75cf6ca6c2fd/DNS_Management.png)
+![Cloudflare proxy configuration](//images.ctfassets.net/alneenqid6w5/1pEYEd1KWlH0P97Pgwyb7n/80ac72636596307b289d75cf6ca6c2fd/DNS_Management.png)
 
 Please note that it may take a while to see the result of disabling the CloudFlare proxy, as it requires the cache to be refreshed.
 
->ℹ️ If you want to use Cloudflare's CDN and WAF, you can insert a reverse proxy in front of VTEX services. Note that you don't need to use this configuration, as VTEX already offers CDN and WAF services in its edge service. External CDNs failures do not imply failures of VTEX's systems. We are not responsible for third-party CDNs.
+<div class="alert alert-info">
+If you want to use Cloudflare's CDN and WAF, you can insert a reverse proxy in front of VTEX services. Note that you don't need to use this configuration, as VTEX already offers CDN and WAF services in its edge service. External CDNs failures do not imply failures of VTEX's systems. We are not responsible for third-party CDNs.
+</div>

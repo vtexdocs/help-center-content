@@ -23,7 +23,9 @@ Ou então você pode definir que, para essa mesma UTM, determinada promoção se
 
 Com isso, a plataforma permite que você tome determinadas ações de acordo com a origem do tráfego da loja.
 
->ℹ️ Na tela de **Gerenciamento de Pedidos**, apenas o utm_source está [disponível para filtro](https://help.vtex.com/pt/tutorial/como-filtrar-pedidos).
+<div class="alert alert-info">
+Na tela de <strong>Gerenciamento de Pedidos</strong>, apenas o utm_source está <a href="https://help.vtex.com/pt/tutorial/como-filtrar-pedidos">disponível para filtro</a>.
+</div>
 
 ### Tipos de UTM
 
@@ -36,7 +38,9 @@ Mas você pode usar essas UTMs da maneira que melhor atender suas regras de neg�
 
 Portanto, na prática, o que importa é definir a ação correta para os valores desses parâmetros.
 
->❗ Atenção: caracteres **especiais não** devem ser utilizados em UTMs. Essas variáveis  só funcionam corretamente caso sejam utilizados caracteres ** alfanuméricos, hífens e underscore **.
+<div class="alert alert-danger">
+Atenção: caracteres <strong>especiais não</strong> devem ser utilizados em UTMs. Essas variáveis  só funcionam corretamente caso sejam utilizados caracteres <strong> alfanuméricos, hífens e underscore </strong>.
+</div>
 
 Para maiores informações sobre problemas de adicionar UTMs no carrinho, acesse [Why are the UTMs not being applied to the cart?](https://developers.vtex.com/vtex-rest-api/docs/check-marketing-utms-used-at-checkout#why-are-the-utms-not-being-applied-to-the-cart).
 

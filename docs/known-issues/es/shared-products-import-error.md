@@ -18,7 +18,9 @@ internalReference: 647962
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente tenemos un error en algunos casos donde la ruta de la categoría contiene "/" los productos no se pueden importar a productos compartidos

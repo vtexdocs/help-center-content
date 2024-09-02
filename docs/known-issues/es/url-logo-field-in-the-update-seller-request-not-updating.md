@@ -1,5 +1,5 @@
 ---
-title: "El campo 'Url Logo' en la solicitud de actualización del vendedor no se actualiza"
+title: 'El campo "Url Logo" en la solicitud de actualización del vendedor no se actualiza'
 id: 1WmNl3RgesWAUL8rjitJV1
 status: PUBLISHED
 createdAt: 2022-01-21T15:18:15.945Z
@@ -18,7 +18,9 @@ internalReference: 271480
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar actualizar el campo "UrlLogo" en la ruta /api/catalog_system/pvt/seller no se reflejan los cambios.

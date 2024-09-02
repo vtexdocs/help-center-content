@@ -39,14 +39,14 @@ Después de realizar la configuración en Facebook y Google, debes configurar la
 
   Se te redirigirá a la pestaña **Tienda virtual** de la página **Autenticación**, que lista los métodos de inicio de sesión disponibles en tu tienda.
 
-  ![Lista Autenticación](https://images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/814b27712f00a7a00bcc3c717a3aee5f/autenticacao-es.png)
+  ![Lista Autenticación](//images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/814b27712f00a7a00bcc3c717a3aee5f/autenticacao-es.png)
 3. En la fila del proveedor de inicio de sesión deseado, haz clic en `Configurar`.
 4. Rellena el formulario con el `Client ID` y el `Secreto del cliente` registrados en la [etapa anterior](#obtener-credenciales-de-los-proveedores) y haz clic en `Guardar`.
 
-  ![Facebook OAuth ES](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/e85e70614c1ff706937104c8f5ec917c/1-login-fb-es.PNG)
+  ![Facebook OAuth ES](//images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/e85e70614c1ff706937104c8f5ec917c/1-login-fb-es.PNG)
 5. En la página **Autenticación**, activa el uso del proveedor haciendo clic en el botón de alternancia. 
 
-  ![Lista Autenticación Switch On Highlight](https://images.ctfassets.net/alneenqid6w5/4devCJpXnMWF3TV6xMDiUT/7567505995ce1af975d6b5c69159a323/switch_On_highlight_ES.png)
+  ![Lista Autenticación Switch On Highlight](//images.ctfassets.net/alneenqid6w5/4devCJpXnMWF3TV6xMDiUT/7567505995ce1af975d6b5c69159a323/switch_On_highlight_ES.png)
 
 ## Validar la configuración
 

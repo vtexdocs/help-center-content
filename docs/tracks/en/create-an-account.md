@@ -18,6 +18,8 @@ After hiring VTEX, the store receives its account. This account identifies the s
 
 To develop apps using VTEX IO, you must first have access to a store account. 
 
->ℹ️ Every app created with VTEX IO is developed in the context of a VTEX account.
+<div class="alert alert-info">
+Every app created with VTEX IO is developed in the context of a VTEX account.
+</div>
 
 If you don't have access to any account yet and need to create one, contact VTEX sales team and then read the article on how to [link your account name to a website](/en/tutorial/linking-an-account-name-to-a-website-binding).

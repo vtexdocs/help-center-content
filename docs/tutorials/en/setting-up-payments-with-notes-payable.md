@@ -25,7 +25,9 @@ On VTEX, your store can receive payments made with __Notes Payable__. To enable 
 
 To set up a gateway affiliation, access [Registering gateway affiliations](https://help.vtex.com/en/tutorial/registering-gateway-affiliations--tutorials_444).
 
->⚠️ Check that the desired gateway affiliation supports Notes Payable payment processing.
+<div class="alert alert-warning">
+Check that the desired gateway affiliation supports Notes Payable payment processing.
+</div>
 
 ## Notes Payable Setup
 

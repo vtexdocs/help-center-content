@@ -18,7 +18,9 @@ internalReference: 830490
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se configura más de un idioma en la Búsqueda Inteligente, la Búsqueda Explicada no devolverá ningún resultado si coincide con una configuración regional de admin que también está en la Búsqueda Inteligente, pero no es la coincidencia exacta. Por ejemplo:

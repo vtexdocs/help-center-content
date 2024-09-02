@@ -34,7 +34,7 @@ To find the ID of a SKU through the VTEX Admin, follow the steps below:
 
 In the example below, the SKU ID is __18__.
 
-![skuId-1](https://images.contentful.com/alneenqid6w5/3CEFOn0h8Ac6ciGgi6gmEK/2d64944b8added0ec12d5cdc7ebe9d9c/skuId-1.png)
+![skuId-1](//images.contentful.com/alneenqid6w5/3CEFOn0h8Ac6ciGgi6gmEK/2d64944b8added0ec12d5cdc7ebe9d9c/skuId-1.png)
 
 ## SKU registration URL
 
@@ -46,4 +46,6 @@ To find out the SKU ID through the SKU registration URL, follow the steps below:
 4. Check the URL of the loaded page. You will see a URL with the following format: `https://{accountName}.myvtex.com/admin/Site/SkuForm.aspx?IdSku={number}`
  The SKU ID will be the number displayed in the place of `{number}`.
 
->❗ To ensure the items added to the inventory will be available for sale on the store, the [SKU ID](https://help.vtex.com/en/tutorial/how-to-find-an-sku-id--4VQZsYeb3igGK2YowuEYWW) cannot contain **a leading zero**. For instance, the system does not read IDs with a `01`, `02`, `021` format because the expected format is `1`, `2`, `21`.
+<div class="alert alert-danger">
+ To ensure the items added to the inventory will be available for sale on the store, the <a href="https://help.vtex.com/en/tutorial/how-to-find-an-sku-id--4VQZsYeb3igGK2YowuEYWW">SKU ID</a> cannot contain <b>a leading zero</b>. For instance, the system does not read IDs with a <code>01</code>, <code>02</code>, <code>021</code> format because the expected format is <code>1</code>, <code>2</code>, <code>21</code>.
+</div>

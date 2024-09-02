@@ -51,10 +51,14 @@ If you would like to use the same shipping strategy defined for your VTEX store 
 
 If you want to make sure that the configuration was successful, you can use the [shipping simulator](https://help.vtex.com/en/tutorial/simulacao-de-frete--tutorials_144). This tool allows you to check the delivery terms of a product without having to actually place an order.
 
->ℹ️ Amazon selects the type of shipping according to the [template](https://help.vtex.com/en/tutorial/como-montar-a-planilha-de-frete--tutorials_127) [exported](https://help.vtex.com/en/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034) by the seller. Therefore, the template exported by the retailer must be aligned with the template registered on the VTEX platform, thus reducing the chance of divergences.
+<div class="alert alert-info">
+Amazon selects the type of shipping according to the <a href="https://help.vtex.com/en/tutorial/como-montar-a-planilha-de-frete--tutorials_127">template</a> <a href="https://help.vtex.com/en/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034">exported</a> by the seller. Therefore, the template exported by the retailer must be aligned with the template registered on the VTEX platform, thus reducing the chance of divergences.
+</div>
 
 ### Processing time
 
 Amazon has a field called *"fulfillment latency"*, which is used to configure the time to prepare the delivery of a certain product. To use it when integrating your store with Amazon, you must fill in the **Processing time** field when [registering the loading dock](https://help.vtex.com/en/tutorial/como-cadastrar-doca) associated with the [trade policy](#defining-the-trade-policy-in-amazon) used for Amazon. If this field is not filled in, Amazon will use its default value (2 days). 
 
->⚠️ Filling in this field is essential, because if your store delays the delivery of an order, your account may be blocked.
+<div class="alert alert-warning">
+Filling in this field is essential, because if your store delays the delivery of an order, your account may be blocked. 
+</div>

@@ -15,11 +15,13 @@ legacySlug: parametros-de-busqueda
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
->⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+<div class = "alert alert-warning">
+  <strong>Atención</strong>: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+</div>
 
 Al realizar búsquedas en la VTEX, existen algunas posibilidades de urls. Tenemos las urls de Departamentos y Categorías, que son formadas de la siguiente forma:
 
-![](https://images.contentful.com/alneenqid6w5/1MhPmB1yxKS426UCsASUsY/eeaf45262ccde7b0a50ee6ef6b787afb/arvore_categoria.png)
+![](//images.contentful.com/alneenqid6w5/1MhPmB1yxKS426UCsASUsY/eeaf45262ccde7b0a50ee6ef6b787afb/arvore_categoria.png)
 
 En el árbol de categorías arriba, los links quedarían así:
 
@@ -33,7 +35,7 @@ www.tienda.com/artes-e-entretenimento/festas-e-comemoracoes/artigos-para-festas
 
 Al usar el campo de búsqueda, la url siempre será formada por el término buscado:
 
-![](https://images.contentful.com/alneenqid6w5/tJYda31CZUUOCii0EcwmE/89481a9321a61fb50fd5463217d6760d/campo_busca.png)
+![](//images.contentful.com/alneenqid6w5/tJYda31CZUUOCii0EcwmE/89481a9321a61fb50fd5463217d6760d/campo_busca.png)
 
 www.loja.com.br/cama
 
@@ -47,23 +49,25 @@ Donde:
 
 **C:\[IdDepartamento/IdCategoria/IdSubcategoria\]**: Retorna productos de una determinada categoría, de acuerdo con los IDs informados para departamento, categoría y subcategoría. Este código es presentado al lado de los nombres de las categorías en **Cadastro de Produtos &gt; Categoria**:
 
-![](https://images.contentful.com/alneenqid6w5/44i8Rue6hiMmMs64wiks86/8f31981e162596d825190865cefd121e/id_categoria1.png)
+![](//images.contentful.com/alneenqid6w5/44i8Rue6hiMmMs64wiks86/8f31981e162596d825190865cefd121e/id_categoria1.png)
 
 **OBS: El ID de la categoría también puede ser encontrado en su página de edición, al final de la url.**
 
 **B:\[IdMarca\]: **Retorna productos de una determinada marca, de acuerdo al ID informado. Este código se presenta al final de la URL, en la página de modificación de una marca, en **Cadastro de Produtos &gt; Marca**:
 
-![](https://images.contentful.com/alneenqid6w5/2CuMf8UzCIkiYyMKUiIOcy/9c354e12e064bdb7f310611f7fc0ee41/id_marca.png)
+![](//images.contentful.com/alneenqid6w5/2CuMf8UzCIkiYyMKUiIOcy/9c354e12e064bdb7f310611f7fc0ee41/id_marca.png)
 
->⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a <a href = "https://help.vtex.com/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.
+<div class = "alert alert-warning">
+  <p><b>Atención:</b> existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a <a href = "https://help.vtex.com/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.</p>
+</div>
 
 **H:\[IdColeção\]**: Retorna productos de una determinada colección, de acuerdo al ID informado. Este código se informa en la edición de la colección, en **Configurações &gt; Portal &gt; Pasta Portal &gt; Subpasta Coleções:**
 
-![](https://images.contentful.com/alneenqid6w5/2vqAbADq0cUQO224YoOQAQ/7eef524621cbf80d9c37b37c9cc4099e/id_colecao.png)
+![](//images.contentful.com/alneenqid6w5/2vqAbADq0cUQO224YoOQAQ/7eef524621cbf80d9c37b37c9cc4099e/id_colecao.png)
 
 **spec\_fct\_\[IdCampoProduto/Sku\]:\[ValorBuscado\]:** Retorna productos cuyo valor de campo producto/sku con el ID indicado sea igual al valor informado. Este código puede obtenerse en la página de modificación de un campo producto/sku, al final de la url:
 
-![](https://images.contentful.com/alneenqid6w5/7noRXDnenuSU4ugc8mmoSg/7a85e4ab97b87c00d4306c57c2462ecc/id_campo-560x386.png)
+![](//images.contentful.com/alneenqid6w5/7noRXDnenuSU4ugc8mmoSg/7a85e4ab97b87c00d4306c57c2462ecc/id_campo-560x386.png)
 
 Un ejemplo de utilización de este campo sería:
 
@@ -77,7 +81,9 @@ Los parámetros arriba pueden ser combinados de diversas formas, pero vale refor
 
 ### Estándar 2
 
->ℹ️ Para tiendas en VTEX IO, el Estándar es el modelo indicado.
+<div class="alert alert-info">
+  Para tiendas en VTEX IO, el Estándar es el modelo indicado.
+  </div>
 
 URL: www.loja.com.br/**\[NomeCategoria\]**/**\[NomeMarca\]**/**\[IdColeção\]**/**\[ValorBuscado\]**?map=**c,b,productClusterIds,specificationFilter_\[IdCampoProduto/Sku\]**
 

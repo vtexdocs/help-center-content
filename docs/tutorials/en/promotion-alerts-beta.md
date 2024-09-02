@@ -15,7 +15,9 @@ legacySlug: promotion-alerts-beta
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
->ℹ️ This module is in Beta, which means we are working on improving it. If you have any questions, please contact our [Support team](https://help.vtex.com/en/support).
+<div class = "alert alert-info">
+This module is in Beta, which means we are working on improving it. If you have any questions, please contact our <a href="https://help.vtex.com/en/support">Support team</a>.
+</div>
 
 Creating promotions is a great strategy to attract more customers to your ecommerce website. When configuring them, you must ensure that the discounts applied will produce the expected results since mistakes during the promotion creation can lead to revenue losses.
 
@@ -27,7 +29,7 @@ Suppose you only configure the email alert action, further orders with the unwan
 
 To access the page in the VTEX Admin, go to *Promotions > Promotion Alert*. You will see the following interface:
 
-![simuladordepromocoes gerenciar](https://images.ctfassets.net/alneenqid6w5/4E0oZf13zNjKgj5MNRYiuf/94c9af89ae0bad5601b316dfc73a6caf/simuladordepromocoes_gerenciar.gif)
+![simuladordepromocoes gerenciar](//images.ctfassets.net/alneenqid6w5/4E0oZf13zNjKgj5MNRYiuf/94c9af89ae0bad5601b316dfc73a6caf/simuladordepromocoes_gerenciar.gif)
 
 The table below shows the column descriptions for the promotion list:
 

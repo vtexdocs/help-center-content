@@ -23,7 +23,7 @@ In the Admin, you can create customized landing pages by [binding](https://help.
 2. Select the desired binding in which the new landing page should be created using the dropdown menu on the page.
 3. Click on the `Create New` button.
 
-  ![en-landing-page-binding](https://images.ctfassets.net/alneenqid6w5/5c1IxR9QguR726Urdu0du8/afe633c2ca2758a3af1191c269219aed/en-landing-page-binding.png)
+  ![en-landing-page-binding](//images.ctfassets.net/alneenqid6w5/5c1IxR9QguR726Urdu0du8/afe633c2ca2758a3af1191c269219aed/en-landing-page-binding.png)
 
 4. In the `Page` details section, fill out the fields to define your new landing page's metadata, according to the expected values:
 
@@ -33,12 +33,16 @@ In the Admin, you can create customized landing pages by [binding](https://help.
 - `Description` — Summary of the new web page to be displayed on search engines' result pages. 
 - `Keywords` — Topics that define what the page content is about, helping to deliver the latter to the interested users navigating on search engines' result pages.
 
-  >ℹ️ All five fields above directly impact the store accesses and positioning on search engines' result pages. Before filling the page's metadata out, be mindful of SEO best practices.
+  <div class = "alert alert-info">
+All five fields above directly impact the store accesses and positioning on search engines' result pages. Before filling the page's metadata out, be mindful of SEO best practices.
+</div>
 
 5. Choose a template from the available ones to be displayed on your new landing page in the `Default` field.
 6. If you desire to create a conditional template, click on the `Add conditional template` button and fill out the fields according to the desired conditions. 
 
-  >⚠️ Notice that the condition template will only be displayed when one <i>or</i> all predefined conditions are matched on the interface.
+  <div class = "alert alert-warning">
+Notice that the condition template will only be displayed when one <i>or</i> all predefined conditions are matched on the interface.
+</div>
 
 7. Save your changes.
 

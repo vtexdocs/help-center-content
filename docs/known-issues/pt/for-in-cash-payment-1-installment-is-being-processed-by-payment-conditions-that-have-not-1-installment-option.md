@@ -18,7 +18,9 @@ internalReference: 292781
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Pois em pagamento à vista (1 parcela) está sendo ignorada para a regra de condição de pagamento, embora a condição de pagamento não tenha configuração para 1 parcela.

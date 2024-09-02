@@ -18,7 +18,9 @@ internalReference: 925914
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Às vezes, a política de remessa pode ficar presa no status de processamento, mas na nova interface de usuário de logística você não consegue vê-la porque ela informa que o status está ativo.

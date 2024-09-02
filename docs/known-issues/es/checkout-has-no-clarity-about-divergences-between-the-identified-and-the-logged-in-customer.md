@@ -18,7 +18,9 @@ internalReference: 442267
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Durante el proceso de compra, es necesario iniciar sesión para ver/cambiar la información personal y, en algunos casos, incluso finalizar la compra. El proceso de inicio de sesión está desconectado del orderForm, por lo que puede iniciar sesión como cualquier correo electrónico y ser identificado con algún otro correo electrónico en el flujo de compra.

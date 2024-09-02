@@ -26,7 +26,9 @@ Carriers should be grouped into categories upon registration, including the [typ
 
 Checkout will always highlight the cheapest/fastest carrier from the options of the same type of delivery. Thus, a carrier will not appear at checkout when another of the same type has a better cost/delivery option registered. 
 
->⚠️ When there is a tie between carriers, the tiebreaker criterion is to have the lowest shipping cost.
+<div class="alert alert-warning">
+When there is a tie between carriers, the tiebreaker criterion is to have the lowest shipping cost.
+</div>
 
 ### Solution
 
@@ -78,4 +80,6 @@ To improve the customer's shopping experience, the**Optimization of shipping opt
 
 Disable the function [Optimization of delivery options at Checkout](https://help.vtex.com/en/tutorial/optimization-of-shipping-options-at-checkout--6DeGO9eBSFWe4XkoS0SxAB) in your store.
 
->⚠️ By disabling this function in Admin VTEX, all available shipping options will be displayed in the Checkout process. However, if the [Multiple Deliveries](https://help.vtex.com/en/tutorial/order-split-and-delivery-split--jQvzA6QgSd51e2p6bthoV#) functionality is enabled in the store and there are different delivery options between the selected items in the cart, the **Optimized Delivery Options** will continue to be displayed. That is, delivery optimization will be needed to handle multiple packages (items with different delivery options).
+<div class="alert alert-warning">
+By disabling this function in Admin VTEX, all available shipping options will be displayed in the Checkout process. However, if the <a href="https://help.vtex.com/en/tutorial/order-split-and-delivery-split--jQvzA6QgSd51e2p6bthoV#">Multiple Deliveries</a> functionality is enabled in the store and there are different delivery options between the selected items in the cart, the <b>Optimized Delivery Options</b> will continue to be displayed. That is, delivery optimization will be needed to handle multiple packages (items with different delivery options).
+</div>

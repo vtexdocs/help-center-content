@@ -18,7 +18,9 @@ internalReference: 264791
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Valor del "spotPrice" (precio al contado) en el "skuJson" del Portal incorrecto en productos con múltiples vendedores.

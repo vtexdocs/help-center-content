@@ -18,7 +18,9 @@ internalReference: 961526
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A criação de solicitações de assinatura depende do retorno de uma consulta feita ao banco de dados de assinaturas; essa consulta é feita periodicamente para identificar quais assinaturas devem ser executadas naquele período; se essa consulta falhar ou não retornar uma assinatura específica, seu ciclo não será executado e nenhum erro será registrado, resultando, assim, em uma assinatura com a nextPurchaseDate no passado.

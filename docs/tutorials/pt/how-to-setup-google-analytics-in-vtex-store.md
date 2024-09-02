@@ -20,7 +20,9 @@ O [Google Analytics 4 (GA4)](https://support.google.com/analytics/answer/1008968
 1. [Configurar Google Analytics 4](#configurar-google-analytics-4)
 2. [Configurar Google Tag Manager](#configurar-google-tag-manager)
 
->ℹ️ A partir de 1º de julho de 2023, o Google Analytics 4 vai substituir o Universal Analytics, versão anterior da ferramenta. Portanto, é necessário seguir este tutorial para adaptar a sua loja. Confira detalhes sobre a mudança [neste comunicado do Google](https://support.google.com/analytics/answer/11583528).
+<div class="alert alert-info">
+A partir de 1º de julho de 2023, o Google Analytics 4 vai substituir o Universal Analytics, versão anterior da ferramenta. Portanto, é necessário seguir este tutorial para adaptar a sua loja. Confira detalhes sobre a mudança <a href="https://support.google.com/analytics/answer/11583528">neste comunicado do Google</a>.
+</div>
 
 ## Configurar Google Analytics 4
 

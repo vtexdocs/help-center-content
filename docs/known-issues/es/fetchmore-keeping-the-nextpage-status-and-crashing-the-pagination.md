@@ -18,7 +18,9 @@ internalReference: 560014
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si se accede a una tienda y se hace clic en mostrar más, se navega por algunas páginas, y luego se hace clic de nuevo en el enlace "categoría" para reiniciar la navegación, el fetch more traerá el estado(página) de la última navegación, no volviendo al principio.

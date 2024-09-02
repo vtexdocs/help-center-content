@@ -18,7 +18,9 @@ internalReference: 978466
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, la pestaña "elementos personalizados" de las configuraciones del CMS heredado no funciona correctamente.

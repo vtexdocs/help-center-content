@@ -17,7 +17,9 @@ subcategory: QPnz120TdtLcXSh65c4Gs
 
 # Black Week (Beta)
 
->⚠️ O painel Black Week é uma página temporária, e só estará disponível durante a Black Week dos dias 21 a 27 de novembro de 2022, exclusivamente para clientes no Brasil.
+<div class="alert alert-warning">
+O painel Black Week é uma página temporária, e só estará disponível durante a Black Week dos dias 21 a 27 de novembro de 2022, exclusivamente para clientes no Brasil.
+</div>
 
 A black week é uma das semanas mais importantes para a VTEX e para nossos clientes, dado que uma parte considerável da receita do varejo vem das estratégias de promoção durante esse período. A tomada rápida de decisões e análise em tempo real dos resultados são essenciai para o sucesso da black week. 
 
@@ -27,7 +29,7 @@ Caso você utilize o novo Admin VTEX, para acessá-la, vá para **Dashboards > B
 
 Para ter acesso à pagina, é necessário conter o [recurso](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) *Insights Metrics* com a chave `view_metrics` em seu [perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Sem esse recurso configurado em seu perfil de acesso, você receberá um erro *403 - Não autorizado* ao tentar visualizar a página. 
 
-![Black Week](https://images.ctfassets.net/alneenqid6w5/3IM9M6IwfycwTmUzJDEzem/2ce38a00422d16e12016eb0ba58edd9b/Screen_Shot_2022-11-18_at_16.11.09.png)
+![Black Week](//images.ctfassets.net/alneenqid6w5/3IM9M6IwfycwTmUzJDEzem/2ce38a00422d16e12016eb0ba58edd9b/Screen_Shot_2022-11-18_at_16.11.09.png)
 
 Este artigo inclui as seguintes seções:
 
@@ -61,7 +63,9 @@ Os gráficos da página incluem as seguintes métricas:
 
 Não captamos dados de navegação para storefronts que não são VTEX, ou de sellers que somente anunciam produtos em marketplaces externos. Por isso os tipos de gráficos presentes na Black Week podem variar, dependendo se captamos dados de navegação da sua loja ou não.
 
->ℹ️ É possível que exista uma diferença de até 3% entre o número de pedidos no OMS e na página Black Week, já que o painel é em tempo real.
+<div class="alert alert-info">
+  É possível que exista uma diferença de até 3% entre o número de pedidos no OMS e na página Black Week, já que o painel é em tempo real.  
+  </div>
 
 ### Selecionar anos
 
@@ -89,7 +93,7 @@ A Black Week inclui os seguintes gráficos para a análise dos resultados do seu
 
 ### Total de pedidos
 
-![Total de pedidos](https://images.ctfassets.net/alneenqid6w5/7mYLy1HXJVjiBm923PRQmm/d6eaef3b046627bca6fa55147221b1d2/Screen_Shot_2022-11-18_at_16.00.21.png)
+![Total de pedidos](//images.ctfassets.net/alneenqid6w5/7mYLy1HXJVjiBm923PRQmm/d6eaef3b046627bca6fa55147221b1d2/Screen_Shot_2022-11-18_at_16.00.21.png)
 
 O gráfico _Total de Pedidos_ apresenta a quantidade de pedidos captados pela loja, agregado por dia e comparado com os anos anteriores selecionados. Saiba mais em [Dados](#dados).
 
@@ -119,7 +123,7 @@ Para ler os gráficos, note que:
 
 #### Total do dia 
 
-![Total do dia](https://images.ctfassets.net/alneenqid6w5/3PMiZmAt84euZIrmu7gy35/77de595d36fab0672ba75d626acae658/Screen_Shot_2022-11-18_at_16.00.40.png)
+![Total do dia](//images.ctfassets.net/alneenqid6w5/3PMiZmAt84euZIrmu7gy35/77de595d36fab0672ba75d626acae658/Screen_Shot_2022-11-18_at_16.00.40.png)
 
 A visualização _Total do Dia_ indica na tela:
 
@@ -130,7 +134,7 @@ Essa visualização é útil para acompanhar o somatório de vendas no dia, send
 
 #### Últimas 2 horas
 
-![Últimas 2 horas](https://images.ctfassets.net/alneenqid6w5/7tBr0SR2wP9lD9SvJF6jpj/5be2166e0dd369b2a3b980ccfb90cf47/Screen_Shot_2022-11-18_at_16.00.54.png)
+![Últimas 2 horas](//images.ctfassets.net/alneenqid6w5/7tBr0SR2wP9lD9SvJF6jpj/5be2166e0dd369b2a3b980ccfb90cf47/Screen_Shot_2022-11-18_at_16.00.54.png)
 
 A visualização _Últimas 2 horas_ indica na tela:
 

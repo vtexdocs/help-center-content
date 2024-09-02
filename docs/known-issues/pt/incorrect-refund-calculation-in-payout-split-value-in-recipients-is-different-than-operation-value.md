@@ -1,5 +1,5 @@
 ---
-title: "Cálculo incorreto de reembolso na divisão de pagamentos - 'O valor nos destinatários * é diferente do valor da operação *.'"
+title: 'Cálculo incorreto de reembolso na divisão de pagamentos - "O valor nos destinatários * é diferente do valor da operação *."'
 id: 7Fxtwnntpmi0DrUD5a603W
 status: PUBLISHED
 createdAt: 2024-07-29T15:07:07.716Z
@@ -18,7 +18,9 @@ internalReference: 1072285
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao chamar um reembolso (em transações com divisão de pagamento), o erro abaixo pode ocorrer com valores divergentes:

@@ -18,7 +18,9 @@ internalReference: 1072003
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Espera-se que os termos pesquisados sejam normalizados entre suas diferentes formas (plural/singular, gênero e outras possibilidades), um processo formalmente chamado de stemming. O analisador é diferente para cada idioma para atender às suas necessidades.

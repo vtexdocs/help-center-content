@@ -17,16 +17,21 @@ subcategory: 42hDtnYXHw5ExG6l19RP1l
 
 In Master Data, customer and address forms are not created by default for all new stores. They are available only in the main store account. This occurs whenever multi-stores are created.
 
->⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use.
->
-> *<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-> Master Data version characteristics
->  </a>
->
-> *<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-> Master Data v2
-> </a>
-> 
+<div class="alert alert-warning">
+This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use.
+ <ul>
+<li>
+<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
+Master Data version characteristics
+ </a>
+</li>
+<li>
+<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
+Master Data v2
+</a>
+</li>
+</ul>
+</div>
 
 You can produce these forms automatically, following the instructions below for each store.
 

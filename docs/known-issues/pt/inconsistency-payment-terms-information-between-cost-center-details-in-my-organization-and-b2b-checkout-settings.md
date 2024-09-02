@@ -18,7 +18,9 @@ internalReference: 847340
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Informações inconsistentes entre os detalhes do centro de custo em Minha organização e as configurações de checkout B2B, em que Minha organização mostra uma condição de pagamento desativada, mas a condição de pagamento ainda é mostrada ao acessar o checkout.

@@ -1,10 +1,10 @@
 ---
-title: 'Prices Data Pipeline (Beta)'
+title: 'Prices Data Pipeline '
 id: 3NMGJ8dtv73Bwvo9PSz1fz
 status: PUBLISHED
 createdAt: 2024-06-21T14:58:43.084Z
-updatedAt: 2024-06-21T16:20:22.452Z
-publishedAt: 2024-06-21T16:20:22.452Z
+updatedAt: 2024-09-02T19:28:12.994Z
+publishedAt: 2024-09-02T19:28:12.994Z
 firstPublishedAt: 2024-06-21T15:27:43.768Z
 contentType: tutorial
 productTeam: Channels
@@ -16,6 +16,10 @@ subcategory: oMrzcOMVbBpH0reeMFHFg
 ---
 
 The price dataset contains historical price information for each SKU in a merchant's store, enabling analysis of markup values and monthly price trends.  
+
+<div class=alert alert-warning>
+The data available in price history is only the data from the <code>price_table_main</code> table.
+</div>
 
 This article includes the following information:  
 

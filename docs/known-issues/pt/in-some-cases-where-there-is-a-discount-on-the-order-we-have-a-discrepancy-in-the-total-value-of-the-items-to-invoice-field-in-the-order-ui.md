@@ -18,7 +18,9 @@ internalReference: 1028210
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Foi identificado que, em alguns pedidos em que há um desconto associado a um ou mais itens, podemos ter uma discrepância no valor total do campo "itens a faturar" na interface do usuário do pedido, pois o cálculo desse campo leva em conta o parâmetro "sellingPrice", em vez do parâmetro "priceDefinitions". Portanto, é possível notar diferenças de 0,01 ou um pouco mais no valor total do pedido.

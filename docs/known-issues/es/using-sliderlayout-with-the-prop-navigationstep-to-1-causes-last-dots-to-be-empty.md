@@ -18,7 +18,9 @@ internalReference: 910125
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando tenemos un bloque slider-layout con la prop `navigationStep` puesta a 1 y el `itemsPerPage` diferente de 1 el último punto estará vacío y no es posible borrarlo.

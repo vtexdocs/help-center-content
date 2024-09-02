@@ -15,11 +15,13 @@ legacySlug: configurar-el-subadquirente-mercadopagov1
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->❗ Esta integración de pago ya no se puede configurar en la plataforma debido al [proceso de descontinuación de los proveedores legados](https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14) y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.
+<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
 
 En el Gateway de VTEX, puede configurar el [subadquirente](/es/tutorial/que-es-un-subadquirente) MercadoPago para operar de varias formas. El __MercadoPagoV1__ permite que su tienda reciba pagos con tarjetas de débito y crédito, además de la [cartera digital](/es/faq/que-es-una-billetera-digital-e-wallet) Mercado Pago.
 
->⚠️ La integración **MercadoPagoV1** no admite pagos por boleto bancario.
+<div class="alert alert-warning">
+La integración <strong>MercadoPagoV1</strong> no admite pagos por boleto bancario.
+</div>
 
 Para configurar MercadoPagoV1, siga los siguientes pasos:
 

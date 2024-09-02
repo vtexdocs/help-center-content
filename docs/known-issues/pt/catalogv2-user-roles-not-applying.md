@@ -18,7 +18,9 @@ internalReference: 489297
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Atualmente, a IU do usuário para a aplicação CatalogV2 não está aplicando corretamente as permissões de controle de acesso quando um usuário está utilizando a IU para criar/ler/atualizar produtos.
 

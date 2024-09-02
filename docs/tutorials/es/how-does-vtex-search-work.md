@@ -17,7 +17,9 @@ subcategory: pwxWmUu7T222QyuGogs68
 
 Este artículo tiene el objetivo de describir el funcionamiento del sistema de búsqueda de VTEX.
 
->⚠️ VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+<div class = "alert alert-warning">
+  VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+</div>
 
 ## Cómo el buscador de VTEX prioriza la exhibición de productos
 
@@ -36,9 +38,8 @@ De acuerdo con el término buscado, el sistema puede renderizar los siguientes r
 
 Si el término buscado corresponde exactamente al nombre de una carpeta configurada en el CMS (es decir, a una landing page), esa carpeta será renderizada.
 
->⚠️ **Atención**: para que una carpeta pueda buscarse, esta debe poseer un layout.
->
-> **Aunque la búsqueda sea por una carpeta hija, el padre también requiere un layout.**
+<div class="alert alert-warning">
+<b>Atención</b>: para que una carpeta pueda buscarse, esta debe poseer un layout.<br><b>Aunque la búsqueda sea por una carpeta hija, el padre también requiere un layout.</b></div>
 
 ### 2. Marca
 
@@ -72,7 +73,7 @@ Para entender la búsqueda de VTEX, inicialmente es necesario saber cómo funcio
 
 El indexador del catálogo es una base de datos escalable de acceso rápido, con algoritmos configurables de priorización de resultados. Está posicionado entre la base de datos convencional y el usuario. Vea el siguiente esquema:
 
-![](https://images.contentful.com/alneenqid6w5/4PSR97lU5y2iac2QkoUAKg/10b9097341faf0de317fa6984104da95/indexacao.png)
+![](//images.contentful.com/alneenqid6w5/4PSR97lU5y2iac2QkoUAKg/10b9097341faf0de317fa6984104da95/indexacao.png)
 
 En el indexador encontramos todas las informaciones referentes al catálogo de productos (productos, SKUs, marcas, departamentos, categorías). El buscador utiliza estas informaciones para localizar los productos y mostrarlos en las vitrinas y los resultados de búsqueda. Por lo tanto, __solamente los productos indexados pueden ser encontrados por la búsqueda__.
 

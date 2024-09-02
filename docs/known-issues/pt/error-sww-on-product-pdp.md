@@ -18,7 +18,9 @@ internalReference: 738108
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em algumas ocasiões, ao abrir o PDP do produto por meio da página de administração (ou do domínio final), um erro Something Went Wrong (Algo deu errado) é exibido na tela.

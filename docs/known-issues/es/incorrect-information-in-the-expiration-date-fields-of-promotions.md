@@ -18,7 +18,9 @@ internalReference: 611284
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 De forma intermitente, cuando abrimos una promoción, los campos Fecha de inicio y Fecha de finalización muestran la fecha actual, y los campos Hora de inicio y Hora de finalización muestran las 12:00 AM. A pesar de la información incorrecta en la UI, las fechas establecidas en la promoción no se ven afectadas.

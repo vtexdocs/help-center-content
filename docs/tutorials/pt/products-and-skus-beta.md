@@ -15,13 +15,17 @@ legacySlug: produtos-e-skus-beta
 subcategory: 6XPsLadoT3moZ7eTduCg3c
 ---
 
->ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href = "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
+<div class = "alert alert-info">
+  <p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href = "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
+</div>
 
 A página **Produtos e SKUs** possibilita visualizar e gerenciar a lista completa de produtos cadastrados na sua loja, incluindo informações sobre SKUs, data da última atualização e status. Para acessá-la, entre no menu **Catálogo > Produtos e SKUs**.
 
-![products-skus-pt](https://images.ctfassets.net/alneenqid6w5/3Euar7pKsXKgqIfz1MwOOa/42eb4310fbe66a016176c54adb447ad9/products-skus-pt.png)
+![products-skus-pt](//images.ctfassets.net/alneenqid6w5/3Euar7pKsXKgqIfz1MwOOa/42eb4310fbe66a016176c54adb447ad9/products-skus-pt.png)
 
->ℹ️ Esta página está disponível somente para lojas que estão operando com o [Novo Admin VTEX](https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para acessar esta página e fazer parte de uma nova experiência, participe do [programa Beta](https://content.vtex.com/participe-do-programa-beta-pt/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta) do Novo Admin VTEX.
+<div class="alert alert-info">
+  <p>Esta página está disponível somente para lojas que estão operando com o <a href="https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa">Novo Admin VTEX</a>. Para acessar esta página e fazer parte de uma nova experiência, participe do <a href="https://content.vtex.com/participe-do-programa-beta-pt/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta">programa Beta</a> do Novo Admin VTEX.</p>
+</div>
 
 A página permite que você realize as seguintes ações:
 
@@ -59,7 +63,7 @@ Para localizar um produto específico, você pode digitar um dos seguintes dados
 
 Em seguida, clique no critério que você deseja utilizar para a busca, conforme ilustrado na imagem a seguir:
 
-![products-skus-search-pt](https://images.ctfassets.net/alneenqid6w5/3XkJPsJihm6flcVxPksPPO/7a04a740e895558318b88b2b00dd6949/search-pt.gif)
+![products-skus-search-pt](//images.ctfassets.net/alneenqid6w5/3XkJPsJihm6flcVxPksPPO/7a04a740e895558318b88b2b00dd6949/search-pt.gif)
 
 A lista de produtos exibida será atualizada de acordo com sua busca. 
 
@@ -79,7 +83,9 @@ A lista de produtos pode ser filtrada conforme a sua necessidade. Você pode uti
 
 Selecione os filtros desejados e clique em `Aplicar` para filtrar os produtos. Para cancelar a seleção, clique em `Limpar`.
 
->⚠️ Não é possível filtrar produtos por [seller](https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) ou por data da pré-venda nesta versão do Catálogo.
+<div class="alert alert-warning">
+  <p>Não é possível filtrar produtos por <a href="https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w">seller</a> ou por data da pré-venda nesta versão do Catálogo.</p>
+</div>
 
 ## Acompanhar status de produtos
 
@@ -97,7 +103,7 @@ Para visualizar o status dos SKUs de um produto, leia a seção [Visualizar list
 
 Ao clicar na seta <i class="fas fa-chevron-right"></i> na linha de um produto da lista, a plataforma exibe uma lista com todos os SKUs cadastrados para aquele produto.
 
-![sku-actions-pt](https://images.ctfassets.net/alneenqid6w5/wv1FevJRrT0GwvKvvNb2W/dfbd3240bd021d0c91ca42f80a36ddd4/sku-actions-pt.gif)
+![sku-actions-pt](//images.ctfassets.net/alneenqid6w5/wv1FevJRrT0GwvKvvNb2W/dfbd3240bd021d0c91ca42f80a36ddd4/sku-actions-pt.gif)
 
 Na lista de SKUs, é possível identificar as informações a seguir:
 
@@ -142,7 +148,7 @@ Ao clicar no menu <i class="fas fa-ellipsis-v"></i> na linha de um produto e opt
 
 Esta aba do modal exibe a lista de SKUs associados ao produto e suas respectivas informações indexadas.
 
-![catalog-price-inventory-pt](https://images.ctfassets.net/alneenqid6w5/4JWODR51ILI7KhEnzVC2t2/6ae475a3c76de0310e1fc08b8d087312/preco-inventario-pt.PNG)
+![catalog-price-inventory-pt](//images.ctfassets.net/alneenqid6w5/4JWODR51ILI7KhEnzVC2t2/6ae475a3c76de0310e1fc08b8d087312/preco-inventario-pt.PNG)
 
 Ao clicar na seta `>` na linha de cada SKU, você pode visualizar uma tabela com as as seguintes informações:
 
@@ -157,7 +163,7 @@ Ao clicar na seta `>` na linha de cada SKU, você pode visualizar uma tabela com
 
 Esta aba do modal apresenta o log, ou seja, o registro técnico detalhado da indexação referente ao produto e aos SKUs relacionados.
 
-![indexed-log-pt](https://images.ctfassets.net/alneenqid6w5/4pPJmvun6SB9jTFqSR7XSX/1d3d2899be6f6fb3b6b3aa8b993d71a4/log-indexacao-pt.PNG)
+![indexed-log-pt](//images.ctfassets.net/alneenqid6w5/4pPJmvun6SB9jTFqSR7XSX/1d3d2899be6f6fb3b6b3aa8b993d71a4/log-indexacao-pt.PNG)
 
 ## Saiba mais
 

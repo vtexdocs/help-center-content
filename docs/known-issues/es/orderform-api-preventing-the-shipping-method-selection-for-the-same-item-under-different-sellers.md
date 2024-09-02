@@ -18,7 +18,9 @@ internalReference: 742139
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Aunque un orderForm soporta que el mismo SKU sea añadido múltiples veces a través de diferentes vendedores, no permite que el método de envío (SLA) sea seleccionado individualmente - donde la logística para un vendedor es completamente independiente de los demás.

@@ -16,9 +16,13 @@ trackSlugPT: vtex-getting-started
 
 Antes de mais nada, é importante entender a diferença entre SKU e produto - esta diferença diz respeito à plataforma VTEX, mas também ao tratamento dado a esses conceitos pela maioria das operações de e-commerce.
 
->ℹ️ **SKU:** a menor unidade possível dos itens vendidos na loja. Estoque e preço, por exemplo, são propriedades do SKU.
+<div class="alert alert-info">
+<strong>SKU:</strong> a menor unidade possível dos itens vendidos na loja. Estoque e preço, por exemplo, são propriedades do SKU.
+</div>
 
->ℹ️ **Produto:** agregador de SKUs.
+<div class="alert alert-info">
+<strong>Produto:</strong> agregador de SKUs.
+</div>
 
 Veja os exemplos abaixo:
 
@@ -30,7 +34,9 @@ Veja os exemplos abaixo:
 Na vitrine da loja, o cliente verá apenas o produto __Calça jeans__, e não três produtos separados: "Calça jeans P", "Calça jeans M" e "Calça jeans G". 
 Já a gestão do seu estoque enxerga separadamente cada um dos SKUs que compõem esse produto. Assim ele consegue saber, por exemplo, que você tem 50 calças jeans M em estoque, mas apenas 2 calças jeans G.
 
->ℹ️ **Atenção**: Sempre que for criar um SKU, você precisa antes criar o produto.
+<div class="alert alert-info">
+<strong>Atenção</strong>: Sempre que for criar um SKU, você precisa antes criar o produto.
+</div>
 
 Vamos ver como criar o produto.
 
@@ -39,8 +45,8 @@ Vamos ver como criar o produto.
 No módulo __Catalog__, siga os passos abaixo:
 
 1. Passe o mouse na aba __Cadastro de Produtos__.
-2. Vá até a opção __Produtos e SKUs__ e clique em __Cadastro de Produtos e SKUs__.![Produto1](https://images.contentful.com/alneenqid6w5/4X1QYKrHz2ysAEAAW6gK6/85b81671add3f7573a9c4531b215ba82/Produto1.png)
-3. Clique no botão __Adicionar Produto__.![Produto2](https://images.contentful.com/alneenqid6w5/2HhkAREgQMMAkIMm8GaGgQ/7038413048c0611edb9079acd73020ba/Produto2.png)
+2. Vá até a opção __Produtos e SKUs__ e clique em __Cadastro de Produtos e SKUs__.![Produto1](//images.contentful.com/alneenqid6w5/4X1QYKrHz2ysAEAAW6gK6/85b81671add3f7573a9c4531b215ba82/Produto1.png)
+3. Clique no botão __Adicionar Produto__.![Produto2](//images.contentful.com/alneenqid6w5/2HhkAREgQMMAkIMm8GaGgQ/7038413048c0611edb9079acd73020ba/Produto2.png)
 
 Você será levado para a tela de cadastro de produto.
 

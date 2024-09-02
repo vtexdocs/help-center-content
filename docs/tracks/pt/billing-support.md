@@ -25,7 +25,9 @@ A VTEX busca garantir a conformidade com os procedimentos e políticas de pagame
 - [Contas a Pagar - Brasil](https://help.vtex.com/pt/tutorial/contas-a-pagar-brasil--tutorials_660): práticas a serem seguidas em todos os pagamentos a fornecedores relacionados aos procedimentos de contas a pagar das filiais VTEX no Brasil.
 - [Contas a pagar - Internacional](https://help.vtex.com/pt/tutorial/contas-a-pagar-internacional--3yea9sIlsA0KgUC28ASCGs): práticas a serem seguidas em todos os pagamentos a fornecedores relacionados aos procedimentos de contas a pagar das filiais VTEX fora do Brasil.
 
->ℹ️ Para conferir a lista de filiais VTEX pelo mundo e saber em qual país é emitida a fatura, basta consultar o artigo [País de faturamento da loja](https://help.vtex.com/pt/tutorial/nomes-das-filiais-vtex-pelo-mundo--zg05n6OIOZOEmLW7dcq9z).
+<div class = "alert alert-info">
+  <p>Para conferir a lista de filiais VTEX pelo mundo e saber em qual país é emitida a fatura, basta consultar o artigo <a href="https://help.vtex.com/pt/tutorial/nomes-das-filiais-vtex-pelo-mundo--zg05n6OIOZOEmLW7dcq9z">País de faturamento da loja</a>.</p>
+</div>
 
 ## Cálculo da receita da fatura pela VTEX
 
@@ -45,4 +47,6 @@ Após o [primeiro acesso](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--e
 
 Para fazer essas alterações, é necessário [abrir um chamado para o suporte financeiro](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM#financeiro), especificando o tipo de alteração necessária.
 
->ℹ️ Para obter mais informações sobre como solicitar a avaliação de SLA e descontos concedidos devido a violações do SLA, basta consultar o artigo [Solicitar apuração de SLA do suporte VTEX](https://help.vtex.com/pt/tutorial/como-solicitar-a-apuracao-de-sla--3L99VeoLhYEwMqqkWKu86i>).
+<div class = "alert alert-info">
+  <p>Para obter mais informações sobre como solicitar a avaliação de SLA e descontos concedidos devido a violações do SLA, basta consultar o artigo <a href="https://help.vtex.com/pt/tutorial/como-solicitar-a-apuracao-de-sla--3L99VeoLhYEwMqqkWKu86i>">Solicitar apuração de SLA do suporte VTEX</a>.</p>
+</div>

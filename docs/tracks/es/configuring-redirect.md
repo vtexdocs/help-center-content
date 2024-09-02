@@ -26,7 +26,7 @@ Para configurar un redireccionamiento, es necesario seguir los siguientes pasos:
 
 Debes rellenar los siguientes campos:
 
-![redirecionamentos-adminv4-ES](https://images.ctfassets.net/alneenqid6w5/69CWrwXk38Qxwb9fNNzYyc/41f7ae70f06576fe650bb84d379f5288/image.png)
+![redirecionamentos-adminv4-ES](//images.ctfassets.net/alneenqid6w5/69CWrwXk38Qxwb9fNNzYyc/41f7ae70f06576fe650bb84d379f5288/image.png)
 
 ### Informaciones generales
 

@@ -15,7 +15,9 @@ legacySlug: locations-module
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
->ℹ️ This feature is in beta, which means that we are working to improve it. To use **Operational Capability (Beta)**, fill out the [contact form](https://docs.google.com/forms/d/e/1FAIpQLScgmHPJEnVfd1EK9znevW-bcdxL2WVqzNZdrwri9auKayZDJA/viewform). To use the feature, it is required to have [franchise accounts](https://help.vtex.com/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associated with the [main account](https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types).
+<div class = "alert alert-info">
+This feature is in beta, which means that we are working to improve it. To use <b>Operational Capability (Beta)</b>, fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScgmHPJEnVfd1EK9znevW-bcdxL2WVqzNZdrwri9auKayZDJA/viewform">contact form</a>. To use the feature, it is required to have <a href="https://help.vtex.com/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl">franchise accounts</a> associated with the <a href="https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types">main account</a>.
+</div>
 
 The **Operational Capacity** page allows you to manage the sellers' capacity to receive and handle the store's orders to optimize your logistics network. You can monitor the order allocation between sellers and perform [actions](#acoes-na-pagina-de-detalhes-do-seller) to improve order allocation between them.
 
@@ -27,9 +29,11 @@ A good seller operational capacity management leads to the following advantages:
 
 When you go to the VTEX Admin under **Shipping > Operational Capacity**, you will find a page like the one below:
 
-![operational_capacity_image1_EN](https://images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/87f03e4f1a667a76349095e450244602/operational_capacity_image1_EN.png)
+![operational_capacity_image1_EN](//images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/87f03e4f1a667a76349095e450244602/operational_capacity_image1_EN.png)
 
->⚠️ The sellers displayed on the interface are your operation's sellers, previously configured by our team. To add a new seller, contact [our Support](https://help.vtex.com/en/support) team.
+<div class="alert alert-warning">
+The sellers displayed on the interface are your operation's sellers, previously configured by our team. To add a new seller, contact <a href="https://help.vtex.com/en/support">our Support</a> team.
+</div>
 
 The chart shows the following data:
 
@@ -61,7 +65,9 @@ In the VTEX Admin, under **Shipping > Operational Capacity**, you can do the fol
 
 Using the search bar, you can search for sellers by their name.
 
->ℹ️ You can associate the search for sellers with the [filter by status](https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#filtering-sellers). If your search did not return any results, make sure no filters are active.
+<div class = "alert alert-info">
+You can associate the search for sellers with the <a href="https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#filtering-sellers">filter by status</a>. If your search did not return any results, make sure no filters are active.
+</div>
 
 ### Filtering sellers
 
@@ -93,7 +99,9 @@ The seller's operational capacity considers the number of orders or order items.
     - **Number of items:** The seller's operational capacity will be based on the number of items in an order.
 5. Click `Save Changes`.
 
->⚠️ The platform has some restrictions regarding [comprehensive sellers](https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). Learn more in the [Comprehensive seller operational capacity](https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#comprehensive-seller-operational-capacity) section.
+<div class="alert alert-warning">
+The platform has some restrictions regarding <a href="https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">comprehensive sellers</a>. Learn more in the <a href="https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#comprehensive-seller-operational-capacity">Comprehensive seller operational capacity</a> section.
+</div>
 
 ## Actions on the seller details page
 
@@ -111,13 +119,15 @@ At the top right of the seller's details page, you'll find a toggle switch to ac
 - **Activate:** Enable the toggle switch for `Active` and click `Activate`.
 - **Pause:** Toggle the switch for `Paused` and click `Pause`.
 
->⚠️ The platform has some restrictions regarding [comprehensive sellers](https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). Learn more in the [Comprehensive seller operational capacity](https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#comprehensive-seller-operational-capacity) section.
+<div class="alert alert-warning">
+The platform has some restrictions regarding <a href="https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">comprehensive sellers</a>. Learn more in the <a href="https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#comprehensive-seller-operational-capacity">Comprehensive seller operational capacity</a> section.
+</div>
 
 ### Monitoring capacity usage
 
 The **Operational Capacity Status** chart shows, in real time, the percentage of the seller's capacity that has already been used, as in the image below:
 
-![operational_capacity_image2_EN](https://images.ctfassets.net/alneenqid6w5/510RtT3ugOksM3YD5tYSGc/0bed6fad834c5b5ab6d22ce713abd11d/operational_capacity_image2_EN.png)
+![operational_capacity_image2_EN](//images.ctfassets.net/alneenqid6w5/510RtT3ugOksM3YD5tYSGc/0bed6fad834c5b5ab6d22ce713abd11d/operational_capacity_image2_EN.png)
 
 The chart shows the following periods:
 
@@ -139,7 +149,7 @@ To edit the seller's address or identification name in **Operational Capacity**,
 
 In the **Operational Capacity** section, you can see the seller's current operational capacity settings for each day of the week, as in the following image:
 
-![operational_capacity_image3_EN](https://images.ctfassets.net/alneenqid6w5/70kbPFFifh8ykCHvIj6vEZ/7aa99cf4ff1a7deb322671c5e1961537/operational_capacity_image3_EN.png)
+![operational_capacity_image3_EN](//images.ctfassets.net/alneenqid6w5/70kbPFFifh8ykCHvIj6vEZ/7aa99cf4ff1a7deb322671c5e1961537/operational_capacity_image3_EN.png)
 
 To change these settings, follow the steps below:
 

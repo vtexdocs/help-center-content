@@ -15,7 +15,9 @@ legacySlug: how-to-change-orders-beta
 subcategory: 3LQ1Tl0u4frEOd45BkjFAm
 ---
 
->ℹ️ This feature is in beta, which means that we are working to improve it. If you wish to use **Change order (Beta)**, please contact [our Support](https://help.vtex.com/en/support) and provide the [account name(s)](https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) in which to activate it.
+<div class="alert alert-info">
+This feature is in beta, which means that we are working to improve it. If you wish to use <b>Change order (Beta)</b>, please contact <a href="https://help.vtex.com/en/support">our Support</a> and provide the <a href="https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name(s)</a> in which to activate it.
+</div>
 
 The [Change order (beta)](https://help.vtex.com/en/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ) feature allows you to edit an order in different ways, either due to customer requests, product unavailability, or other reasons.
 
@@ -26,7 +28,9 @@ This article explains how an order can be changed and how to do so. It comprises
 - [Common aspects](#common-aspects)
 - [Processing errors](#processing-errors)
 
->⚠️ To learn about the [general characteristics](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#general-characteristics) of order change scenarios, including aspects like reservation, inventory update, and franchise accounts, or to understand details related to [pricing, payment, and invoicing](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#price-changes), read the [How Change order works (Beta)](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ) article.
+<div class="alert alert-warning">
+To learn about the <a href="https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#general-characteristics">general characteristics</a> of order change scenarios, including aspects like reservation, inventory update, and franchise accounts, or to understand details related to <a href="https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#price-changes">pricing, payment, and invoicing</a>, read the <a href="https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ">How Change order works (Beta)</a> article.
+</div>
 
 ## Conditions
 
@@ -77,7 +81,9 @@ On the order details page, you can do the following:
 - [Replace items](#replacing-items)
 - [Change weight](#changing-weight)
 
->ℹ️ You can make a single change to the order or combine several at once. There is no limit to how many times an order can be changed. Read the [How Change order works (Beta)](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ) article to learn more.
+<div class = "alert alert-info">
+You can make a single change to the order or combine several at once. There is no limit to how many times an order can be changed. Read the <a href="https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ">How Change order works (Beta)</a> article to learn more.
+</div>
 
 ### Adding items
 
@@ -87,7 +93,7 @@ To add one or more items to the order, follow these steps:
 2. In the **Pending invoicing** section, click `Change Items`.
 3. On the **Manage order items** page, click the up arrow <i class="fas fa-angle-up"></i> to the number you want, or enter the number in the field. Then, the page will display the price and the previous number with a strikethrough, followed by the message: _"Item edited"_.
 
-    ![change_order_adding_items_EN](https://images.ctfassets.net/alneenqid6w5/5dqVuyGULGm5TJH2tliSoO/d1f2ff7078f9a72db8ab25b8dda60e7c/change_order_adding_items_EN.png)
+    ![change_order_adding_items_EN](//images.ctfassets.net/alneenqid6w5/5dqVuyGULGm5TJH2tliSoO/d1f2ff7078f9a72db8ab25b8dda60e7c/change_order_adding_items_EN.png)
 
 4. Review the [details of the amount change](#viewing-details-of-the-amount-change). You can [undo a change](#undoing-actions) if necessary.
 5. Click `Review and Apply`.
@@ -108,7 +114,7 @@ To add one or more products to an order, follow these steps:
   > If you click the product name, you will be redirected to the product page on the store's website.
 6. Then click `Add Selected Items`, and the following message will be displayed: _"Items added"_.
 
-    ![change_order_adding_product_EN](https://images.ctfassets.net/alneenqid6w5/6a1gqq7WZiTO1lXZL26tU0/30f4bc58081e982190d44bb730a9ca25/change_order_adding_product_EN.png)
+    ![change_order_adding_product_EN](//images.ctfassets.net/alneenqid6w5/6a1gqq7WZiTO1lXZL26tU0/30f4bc58081e982190d44bb730a9ca25/change_order_adding_product_EN.png)
 
 4. Review the [details of the amount change](#viewing-details-of-the-amount-change). You can [undo a change](#undoing-actions) if necessary.
 5. Click `Review and Apply`.
@@ -125,7 +131,7 @@ To remove one or more items from an order, follow these steps:
 2. In the **Pending invoicing** section, click `Change Items`.
 3. On the **Manage order items** page, click the down arrow <i class="fas fa-angle-down"></i> to the number you want, or enter the number in the field. Then, the page will display the price and the previous number with a strikethrough, followed by the message: _"Item edited"_.
 
-    ![change_order_removing_items_EN](https://images.ctfassets.net/alneenqid6w5/1fyXdA3TCu89tVktrQTFOr/d2ebd588be0ed9b83aec51767bd263e3/change_order_removing_items_EN.png)
+    ![change_order_removing_items_EN](//images.ctfassets.net/alneenqid6w5/1fyXdA3TCu89tVktrQTFOr/d2ebd588be0ed9b83aec51767bd263e3/change_order_removing_items_EN.png)
 
 4. Review the [details of the amount change](#viewing-details-of-the-amount-change). You can [undo a change](#undoing-actions) if necessary.
 5. Then click `Review and Apply`.
@@ -142,7 +148,7 @@ To remove a product from an order, follow these steps:
 2. In the **Pending invoicing** section, click `Change Items`.
 3. On the **Manage order items** page, click the trash can icon <i class="far fa-trash-alt"></i> and `Remove Item`. The following confirmation message will appear: _"Item removed"_.
 
-    ![change_order_removing_product_EN](https://images.ctfassets.net/alneenqid6w5/6aN2IcHBxHHhFYIsy8ihRN/7d5515c38ca48467dbaabe0123d8b14d/change_order_removing_product_EN.png)
+    ![change_order_removing_product_EN](//images.ctfassets.net/alneenqid6w5/6aN2IcHBxHHhFYIsy8ihRN/7d5515c38ca48467dbaabe0123d8b14d/change_order_removing_product_EN.png)
 
 4. Review the [details of the amount change](#viewing-details-of-the-amount-change). You can [undo a change](#undoing-actions) if necessary.
 5. Then click `Review and Apply`.
@@ -177,7 +183,7 @@ To change the weight of an item, follow these steps:
 3. On the **Manage order items** page, enter the new weight in the row of the desired product. The unit of measure will be specified based on the Catalog settings.
 4. Then, the page will display the previous price and weight number with a strikethrough, followed by the message _"Item edited"_.
 
-    ![change_order_changing_weight_EN](https://images.ctfassets.net/alneenqid6w5/354LTV0LRZmcCXsB1oJkTw/c57d6801d560764df71a72e0593358f9/change_order_changing_weight_EN.png)
+    ![change_order_changing_weight_EN](//images.ctfassets.net/alneenqid6w5/354LTV0LRZmcCXsB1oJkTw/c57d6801d560764df71a72e0593358f9/change_order_changing_weight_EN.png)
 
 5. Review the [details of the amount change](##viewing-details-of-the-amount-change). You can [undo a change](#undoing-actions) if necessary.
 6. Click `Review and Apply`.
@@ -198,7 +204,7 @@ On the **Manage order items** page, as you change the order, the **Total amount*
 
 On the **Manage order items** page, you can undo a change if you want. To do this, click the curved arrow icon `Undo Action`. After this, a confirmation message will be displayed: _"Change undone"_, indicating that the action has been successfully reversed.
 
-![change_order_undoing_actions_EN](https://images.ctfassets.net/alneenqid6w5/GcSxHKn9jphCgi8eNQarG/ceee7cdae26eddb1da3588d1e5af4d0e/change_order_undoing_actions_EN.png)
+![change_order_undoing_actions_EN](//images.ctfassets.net/alneenqid6w5/GcSxHKn9jphCgi8eNQarG/ceee7cdae26eddb1da3588d1e5af4d0e/change_order_undoing_actions_EN.png)
 
 ## Processing errors
 

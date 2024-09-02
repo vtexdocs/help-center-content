@@ -15,7 +15,9 @@ legacySlug: regionalizacion-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
->ℹ️ Esta funcionalidad está en etapa Beta, lo que significa que estamos trabajando para mejorarla. En caso de dudas, contacte a [nuestro Soporte](https://support.vtex.com/hc/es-419/requests).
+<div class="alert alert-info">
+<p>Esta funcionalidad está en etapa Beta, lo que significa que estamos trabajando para mejorarla. En caso de dudas, contacte a <a href="https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.</p>
+</div>
 
 La Regionalización es una funcionalidad de [VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) que permite optimizar los resultados de búsqueda según la disponibilidad de sellers en la región del cliente. Para instalar y configurar VTEX Intelligent Search en tu tienda, lee nuestro artículo Search.
 
@@ -34,7 +36,9 @@ Para empezar a utilizar la Regionalización, sigue los pasos a continuación.
 2. [Solicitud de activación de la Regionalización](#2-solicitud-de-activacion-de-la-regionalizacion)
 3. [Configuración en VTEX IO](#3-configuracion-en-vtex-io)
 
->⚠️ Aunque las tiendas regionalizadas solo muestran productos disponibles en una determinada región en la página de lista de productos, los filtros no tienen en cuenta la regionalización. Debido a esta limitación, es posible que los clientes de la tienda seleccionen filtros que resulten en productos que no están disponibles en su región.
+<div class="alert alert-warning">
+  <p>Aunque las tiendas regionalizadas solo muestran productos disponibles en una determinada región en la página de lista de productos, los filtros no tienen en cuenta la regionalización. Debido a esta limitación, es posible que los clientes de la tienda seleccionen filtros que resulten en productos que no están disponibles en su región.</p>
+</div>
 
 ## 1. Configuración de sellers 
 

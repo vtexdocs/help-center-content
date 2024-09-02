@@ -18,7 +18,9 @@ internalReference: 1053742
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Erro no fluxo de atualização: o sku não está sendo registrado na ponte

@@ -52,7 +52,9 @@ Para crear una nueva política de envío, siga los pasos a continuación:
         *   Seleccione `Día de la semana` y rellene el `Hora de recogida`. 
         *   Para añadir más días de la semana, haga clic en `Agregar hora de recogida`.
 
->⚠️ La **Ventana de envío** y la **Hora de recogida** son opciones que se excluyen entre sí, ya que no se puede asignar el mismo período simultáneamente a acciones distintas. 
+<div class="alert alert-warning">
+La <b>Ventana de envío</b> y la <b>Hora de recogida</b> son opciones que se excluyen entre sí, ya que no se puede asignar el mismo período simultáneamente a acciones distintas.
+</div> 
 
 *   **[Entrega programada](https://help.vtex.com/es/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi)**: esta funcionalidad puede habilitarse si la política de envío ofrece un servicio de entrega programada. Aquí es donde debe añadir las ventanas de entrega que estarán disponibles para el cliente al final de la compra. Para utilizarla, habilite `entrega programada` y rellene:
     *   **Tiempo máximo de entrega:** define el tiempo máximo de entrega, debe ser completado con el tiempo en días.

@@ -1,5 +1,5 @@
 ---
-title: "¿Por qué aparece el mensaje 'The TimeSpan could not be parsed...' al importar planilla de flete?"
+title: '¿Por qué aparece el mensaje "The TimeSpan could not be parsed..." al importar planilla de flete?'
 id: frequentlyAskedQuestions_6691
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:14.460Z

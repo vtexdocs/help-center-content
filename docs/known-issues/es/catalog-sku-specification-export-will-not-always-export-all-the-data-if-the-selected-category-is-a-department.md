@@ -18,7 +18,9 @@ internalReference: 465445
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La Exportación de Especificación SKU del Catálogo, no siempre exportará todos los datos si se selecciona el departamento y no la subcategoría más interna.

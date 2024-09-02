@@ -41,7 +41,9 @@ No, these payment methods require an online response and cannot be processed asy
 
 The mode-off feature is activated if the partner or integration presents any instability identified through error messages, such as 500 and 408, or a timeout longer than 30 seconds over the last five minutes. This rule applies to all payment methods processed in mode-off.
 
->⚠️ Please remember that synchronous payment methods **cannot** be reprocessed. However, they count as errors for identifying whether a partner is stable.  
+<div class="alert alert-warning">
+Please remember that synchronous payment methods <strong>cannot</strong> be reprocessed. However, they count as errors for identifying whether a partner is stable.
+</div>  
 
 ## What is the rule to deactivate the mode-off?
 
@@ -51,7 +53,8 @@ Transactions shall be resumed when the partner stops experiencing a rate of five
 
 The time between transaction processing reattempts (_retries_) can be defined by the partner when sending payment information. When configuring the payment cancellation time (`delayToCancel` field) for a period of less than 1 day, retry attempts will be made every 1 hour. If the time to cancel the payment is set to be equal to or greater than 1 day, retry attempts will be made every 4 hours. For more information, visit [Create Payment endpoint](https://developers.vtex.com/docs/api-reference/payment-provider-protocol?endpoint=post-/payments).
 
->ℹ️ If payment is made by [PIX (Brazilian instant payment method)](https://help.vtex.com/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf) or the payment cancellation time is set between 5 minutes and 1 hour, retry calls will occur every 5 minutes.
+<div class="alert alert-info">
+ If payment is made by <a href="https://help.vtex.com/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf">PIX (Brazilian instant payment method)</a> or the payment cancellation time is set between 5 minutes and 1 hour, retry calls will occur every 5 minutes.</div>
 
 ## How to identify the mode-off? What to do if it is active?
 

@@ -18,7 +18,9 @@ internalReference: 663203
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A propriedade "priceDefinition" para pedidos no nível "chain" em um marketplace multinível não está seguindo o "sellingPrice" como esperado. Em vez disso, está seguindo a propriedade "price".

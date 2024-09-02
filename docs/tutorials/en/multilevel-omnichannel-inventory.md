@@ -22,7 +22,9 @@ __Multilevel Omnichannel Inventory__ is the configuration on the VTEX platform t
 * [Restrictions](#restrictions)  
 * [How to configure it](#how-to-configure-it)  
 
->ℹ️ Read our [Developer Portal](https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory) article to learn more about the Multilevel Omnichannel Inventory order architecture and how to configure it via REST API.
+<div class="alert alert-info">
+Read our <a href="https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory">Developer Portal</a> article to learn more about the Multilevel Omnichannel Inventory order architecture and how to configure it via REST API. 
+</div>
 
 ## Account Architecture
 
@@ -36,7 +38,7 @@ The main seller may also sell its products in a marketplace.
 
 In this case, there is a three-tier architecture between the marketplace, the main seller, and its white-label sellers, as shown in the image below.
 
-![Arquitetura Multilevel omichannel inventory](https://images.ctfassets.net/alneenqid6w5/7k6hYv3kWxBVZrPFkUbsCK/fd36e953d3a8f70d068bcd69991e998c/Screen_Shot_2022-09-30_at_18.57.26.png)
+![Arquitetura Multilevel omichannel inventory](//images.ctfassets.net/alneenqid6w5/7k6hYv3kWxBVZrPFkUbsCK/fd36e953d3a8f70d068bcd69991e998c/Screen_Shot_2022-09-30_at_18.57.26.png)
 
 By default, products from physical stores, or white-label sellers (level 3 in the image), are not available for selling in the marketplace (level 1 in the image). But you can make them available using the _Multilevel Omnichannel Inventory_ capability. 
 
@@ -46,7 +48,9 @@ Therefore, a marketplace can sell the products from its direct sellers and the p
 
 It means that when the main account seller configures an integration with a marketplace, the franchise accounts are also automatically integrated. There is no need to manage each franchise individually to configure its integration with the marketplace.
 
->ℹ️ Currently, only one level of recursion is allowed. Thus, the marketplace can sell products from white-label sellers integrated with a direct seller.
+<div class="alert alert-info">
+Currently, only one level of recursion is allowed. Thus, the marketplace can sell products from white-label sellers integrated with a direct seller.
+</div>
 
 ## Benefits
 
@@ -83,7 +87,9 @@ Note that when direct sellers are not responsible for white-label sellers’ pay
 
 Once the configuration is done, only marketplace payment methods will be displayed as an option at checkout. Payment methods from direct sellers (level 2) and white-label sellers (level 3) are not imported to the account architecture. Therefore, the checkout only displays the marketplace's payment methods, even if the direct seller's affiliate is configured to use their payment methods.  
 
->⚠️ The franchise account [affiliate](https://help.vtex.com/en/tutorial/como-configurar-afiliado--tutorials_187) must always have the setting for using payment methods disabled.
+<div class="alert alert-warning">
+The franchise account <a href="https://help.vtex.com/en/tutorial/como-configurar-afiliado--tutorials_187">affiliate</a> must always have the setting for using payment methods disabled.
+</div>
 
 ### Changing sellers
 
@@ -129,7 +135,9 @@ You can't create price tables using the [Price Table](https://help.vtex.com/en/t
 
 The marketplace must configure the __Multilevel Omnichannel Inventory__ in the VTEX Admin or via the [Rest API](https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory). This configuration can be done for integrated sellers and newly integrated ones. 
 
->ℹ️ Note that the marketplace must configure the Multilevel Ominichannel Inventory for each direct seller (level 2) to which they want to apply the feature, but not for each white-label seller or franchise account (level 3).
+<div class="alert alert-info">
+Note that the marketplace must configure the Multilevel Ominichannel Inventory for each direct seller (level 2) to which they want to apply the feature, but not for each white-label seller or franchise account (level 3).
+</div>
 
 ### Integrated sellers
 

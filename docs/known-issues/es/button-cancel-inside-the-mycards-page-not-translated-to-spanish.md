@@ -1,5 +1,5 @@
 ---
-title: "Botón 'Cancelar' dentro de la página de MyCards no traducido al español"
+title: 'Botón "Cancelar" dentro de la página de MyCards no traducido al español'
 id: 5wIEEoF7gTLYlWnANxDZ7h
 status: PUBLISHED
 createdAt: 2022-02-24T13:18:00.062Z
@@ -18,7 +18,9 @@ internalReference: 431200
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para las cuentas españolas podemos ver el botón "cancelar" en la página de MyCards pero debería tener escrito "cancelar", ya que el sitio web está en español. Los demás botones y el mensaje ya están en español.

@@ -18,7 +18,9 @@ internalReference: 933958
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Várias especificações com o mesmo nome são agrupadas na mesma _"faceta"_ pela Pesquisa Inteligente, o que pode ser um problema se elas tiverem configurações diferentes.

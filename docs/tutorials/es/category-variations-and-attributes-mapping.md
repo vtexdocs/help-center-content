@@ -21,7 +21,7 @@ A través de esta, será posible categorizar correctamente sus productos en Merc
 
 La asignación sólo se realizará una vez para cada categoría. De esta forma, aun habiendo hecho un mapeo, cuando nuevos productos sean creados, ellos serán integrados directamente en la categoría correcta y con sus respectivas variaciones y atributos.
 
-- [Descargue aquí](https://assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx) la __Planilla de Mapeo del Mercado Libre__ en el formato `.xlsx`.
+- [Descargue aquí](//assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx) la __Planilla de Mapeo del Mercado Libre__ en el formato `.xlsx`.
 
 La misma planilla se utilizará en las tres macroetapas siguientes (categorización, variaciones y atributos). Siga el paso a paso llenando los campos de la hoja de asignación de acuerdo con las indicaciones siguientes.
 
@@ -62,7 +62,7 @@ En Mercado Libre existen dos tipos de variación, las __obligatorias__ y las __p
 
 - Variaciones obligatorias
 	
-Si su producto es un `calzado`, `ropa`, o `electrodoméstico`, será necesario asignar las variaciones obligatorias. Su nombre debe estar exactamente de acuerdo con los valores aceptados por marketplace. [Descargue aquí](https://assets.ctfassets.net/alneenqid6w5/5nLnBUVonS8qgWqqeck4MQ/28d9a8e7ce08b03d243b43bb6b759c5d/Planilha_de_Atributos_do_Mercado_Livre.xlsx) la __Planilla de Variaciones de Mercado Libre__ para verificar los valores aceptados de acuerdo con cada tipo de producto.
+Si su producto es un `calzado`, `ropa`, o `electrodoméstico`, será necesario asignar las variaciones obligatorias. Su nombre debe estar exactamente de acuerdo con los valores aceptados por marketplace. [Descargue aquí](//assets.ctfassets.net/alneenqid6w5/5nLnBUVonS8qgWqqeck4MQ/28d9a8e7ce08b03d243b43bb6b759c5d/Planilha_de_Atributos_do_Mercado_Livre.xlsx) la __Planilla de Variaciones de Mercado Libre__ para verificar los valores aceptados de acuerdo con cada tipo de producto.
   
 - Variaciones personalizadas
 
@@ -91,11 +91,14 @@ Dado esta información, continue completando la planilla siguiendo las instrucci
 5. __MeliValue:__ en esta columna debe rellenar los valores aceptados por  Mercado Libre correspondientes a los valores utilizados en el campo `VtexValue`. En la __Planilla de Atributos de Mercado Libre__, acceda a la pestaña correspondiente a su país y busque los valores aceptados para cada especificación que usted ha llenado en la columna.
 <br/>_`Ex:` si has llenado el `MeliEspc` con "Tamaño" y el `VtexValue` con "Pequeño", ver que el valor aceptado por Mercado Libre_
 
->⚠️ **OBS:** después de que se crea un anuncio por primera vez, ya **no** es posible cambiar sus variaciones. Si desea hacer cualquier modificación en las variaciones del anuncio, como cambiar el color, por ejemplo, será necesario finalizar el anuncio en el Mercado Libre y luego rehacer el mapeo de la planilla.
+<div class="alert alert-warning">
+<strong>OBS:</strong> después de que se crea un anuncio por primera vez, ya <strong>no</strong> es posible cambiar sus variaciones. Si desea hacer cualquier modificación en las variaciones del anuncio, como cambiar el color, por ejemplo, será necesario finalizar el anuncio en el Mercado Libre y luego rehacer el mapeo de la planilla.</div>
 
->⚠️ **OBS2:** Mercado Libre **no** permite usar precios diferentes para cada variación de un anuncio. Por ejemplo, una camisa no puede costar $ 40 para el tamaño "P" y $ 50 para el tamaño "M".
+<div class="alert alert-warning">
+<strong>OBS2:</strong> Mercado Libre <strong>no</strong> permite usar precios diferentes para cada variación de un anuncio. Por ejemplo, una camisa no puede costar $ 40 para el tamaño "P" y $ 50 para el tamaño "M".</div>
 
->⚠️ **OBS3:** si el SKU no tiene una determinada especificación (como color, por ejemplo), necesitará registrarla en VTEX antes de completar el proceso de integración. Recomendamos que agregue el atributo que falta como una especificación de **producto**. Por lo tanto, esta información no se mostrará en el sitio.
+<div class="alert alert-warning">
+<strong>OBS3:</strong> si el SKU no tiene una determinada especificación (como color, por ejemplo), necesitará registrarla en VTEX antes de completar el proceso de integración. Recomendamos que agregue el atributo que falta como una especificación de <strong>producto</strong>. Por lo tanto, esta información no se mostrará en el sitio.</div>
 
 ## Atributos
 

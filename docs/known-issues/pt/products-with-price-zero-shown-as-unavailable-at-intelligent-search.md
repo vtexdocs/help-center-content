@@ -18,7 +18,9 @@ internalReference: 1045184
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os produtos com preço zero são mostrados como indisponíveis pela Pesquisa Inteligente. Diferentemente de um produto sem preço registrado, o preço definido como zero define um produto gratuito.

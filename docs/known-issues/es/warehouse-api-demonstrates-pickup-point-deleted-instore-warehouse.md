@@ -18,7 +18,9 @@ internalReference: 573017
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se elimina un punto de recogida que está vinculado a un almacén (almacén inStore), el punto de recogida sigue vinculado al almacén si se consulta a través de la API.

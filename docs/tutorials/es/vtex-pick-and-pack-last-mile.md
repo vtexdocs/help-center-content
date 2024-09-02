@@ -17,5 +17,7 @@ subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 
 <div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
 
->ℹ️ Si tienes interés en implementarla en tu negocio, rellena nuestro [formulario](https://vtex.com/co-es/contacto/) indicando en el campo `Comentarios` el nombre del producto deseado.
+<div class = "alert alert-info">
+Si tienes interés en implementarla en tu negocio, rellena nuestro <a href="https://vtex.com/co-es/contacto/">formulario</a> indicando en el campo <code>Comentarios</code> el nombre del producto deseado.
+</div>
 

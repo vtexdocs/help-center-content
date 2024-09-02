@@ -18,7 +18,9 @@ internalReference: 682177
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando você usa o adereço para mostrar uma imagem diferente ao pairar sobre um componente de resumo de produto atualmente ele chama a API de Busca Inteligente para retornar as imagens e com estes dados ele exibirá uma imagem diferente ao pairar, o que acontece hoje é que o pedido no Catálogo não é necessário a mesma ordem que a busca retornará causando divergências dentro dos resultados esperados.

@@ -18,7 +18,9 @@ internalReference: 1032473
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As camadas do Marketplace e do Fulfillment podem esperar valores diferentes para o pedido, impedindo a conclusão da compra.

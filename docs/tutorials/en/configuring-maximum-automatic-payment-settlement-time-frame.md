@@ -19,7 +19,9 @@ In this article, you'll learn how to configure the maximum payment settlement ti
 
 It is important to clarify the differences between __settlement after payment confirmation__, __automatic settlement__, and __payment with anticipated settlement authorization__ - three concepts from the payments market. For some payment connectors in the platform, these terms are referred to as __capture after payment confirmation__, __payment with anticipated capture authorization__ and __automatic capture__.
 
->⚠️ The following information is valid for payments with credit cards.
+<div class="alert alert-warning">
+The following information is valid for payments with credit cards.
+</div>
 
 ## Settlement after payment confirmation
 
@@ -41,7 +43,9 @@ When the authorization process begins, the system waits for a previously set max
 
 The retailer and the acquirer agree on the time frame for the automatic settlement to be triggered. 
 
->ℹ️ The maximum time frame set for payment settlement is usually four days. However, this is **not** a rule. Each acquirer can define the period they find most appropriate.
+<div class="alert alert-info">
+The maximum time frame set for payment settlement is usually four days. However, this is <strong>not</strong> a rule. Each acquirer can define the period they find most appropriate.
+</div>
 
 To configure the automatic settlement feature, follow the step-by-step instructions below:
 
@@ -55,7 +59,7 @@ To configure the automatic settlement feature, follow the step-by-step instructi
 8. In the __Payment with anticipated capture authorization__ field, select one of the available time options.
 9. Fill in the __Change maximum time for automatic payment capture__ field with the period agreed with the acquirer. __If you leave this field blank, the default time of 4 days will be considered. __
 
-![captura_automatica_EN](https://images.ctfassets.net/alneenqid6w5/4OXaQvc9dAoPs1lsPXmigk/3351cf6cd959943406edcf967ad4492c/image.png)
+![captura_automatica_EN](//images.ctfassets.net/alneenqid6w5/4OXaQvc9dAoPs1lsPXmigk/3351cf6cd959943406edcf967ad4492c/image.png)
 10. Click on __Save__ 
 
 The new payment settlement feature will then be implemented in your store.

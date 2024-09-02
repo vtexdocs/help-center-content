@@ -40,7 +40,9 @@ You may also add a **List Price** linked to an SKU base price by following the s
 
 ## API REST
 
->⚠️ Authentications for the Prices module's API REST requests must be done using AppKey and AppToken. For more on this, read our article on [how to manage an AppKey and AppToken to authenticate your integrations.](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication)
+<div class="alert alert-warning">
+Authentications for the Prices module's API REST requests must be done using AppKey and AppToken. For more on this, read our article on <a href="https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication">how to manage an AppKey and AppToken to authenticate your integrations.</a>
+</div>
 
 To add a **base price** to an SKU, you'll have to send a __PUT__ request to the following endpoint:
 

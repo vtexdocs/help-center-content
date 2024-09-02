@@ -18,7 +18,9 @@ internalReference: 927174
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um usuário tem mais de uma organização atribuída a ele e a primeira registrada está inativa, ela não é reconhecida como uma organização atribuída após o login.

@@ -1,5 +1,5 @@
 ---
-title: "Erro 'Categoria XXX não encontrada no mapeamento de nós de navegação para a especificação do departamento da SKU, escolha uma categoria global mais específica' persistente"
+title: 'Erro "Categoria XXX não encontrada no mapeamento de nós de navegação para a especificação do departamento da SKU, escolha uma categoria global mais específica" persistente'
 id: 4DCJmkRvgh3qUYP9HYgtg2
 status: PUBLISHED
 createdAt: 2022-03-10T17:58:42.674Z
@@ -18,7 +18,9 @@ internalReference: 417639
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 ## **Sumário***
 

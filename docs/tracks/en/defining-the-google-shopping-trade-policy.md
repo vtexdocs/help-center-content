@@ -3,8 +3,8 @@ title: 'Defining the trade policy'
 id: 3AqbcsWrge8zLt0BC5CtGd
 status: PUBLISHED
 createdAt: 2021-04-14T17:58:41.545Z
-updatedAt: 2023-10-23T20:22:26.830Z
-publishedAt: 2023-10-23T20:22:26.830Z
+updatedAt: 2024-08-06T17:51:23.468Z
+publishedAt: 2024-08-06T17:51:23.468Z
 firstPublishedAt: 2021-04-15T17:41:14.352Z
 contentType: trackArticle
 productTeam: Channels
@@ -49,10 +49,14 @@ To configure a discount linked to a payment method, see the following documentat
 
 1. [Set a discount using the checkout API](https://developers.vtex.com/docs/guides/set-a-discount-using-the-checkout-api) to enter the desired payment method in the `paymentSystemToCheckFirstInstallment` variable and simulate a shopping cart to make sure the payment method was updated. 
 2.  [Configuring a discount for orders prepaid in full](https://help.vtex.com/en/tutorial/configurar-desconto-de-preco-a-vista--7Lfcj9Wb5dpYfA2gKkACIt) to link an SKU to a payment method.
-3. [Configuring discounts for orders prepaid in full on Google Shopping](https://help.vtex.com/en/tutorial/configurar-desconto-de-preco-a-vista-para-google-shopping--40K3R5d4NogMvCzIWdWt3e)
+3. [Configuring discounts for orders prepaid in full on Google Shopping](https://help.vtex.com/en/tutorial/configurar-desconto-de-preco-a-vista-para-google-shopping--40K3R5d4NogMvCzIWdWt3e).
 
 After following these instructions, you should activate the connector by [configuring the connector](https://help.vtex.com/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
 
->⚠️ When multiple sellers are linked to a product in your store, the rule for Google Shopping is to offer the best discount available.
+<div class="alert alert-warning">
+  When multiple sellers are linked to a product in your store, the rule for Google Shopping is to offer the best discount available.
+  </div>
 
- >❗ Each promotion created can belinked to only one payment method for the discount to be sent to Google Shopping. 
+ <div class="alert alert-danger">
+  Each promotion created can belinked to only one payment method for the discount to be sent to Google Shopping.
+  </div> 

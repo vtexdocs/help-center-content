@@ -18,7 +18,9 @@ internalReference: 336371
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando você define o valor de um campo de anexo de item por meio da interface do usuário, isso aciona uma solicitação para atualizar o orderForm, mesmo que ainda haja mais campos restantes.

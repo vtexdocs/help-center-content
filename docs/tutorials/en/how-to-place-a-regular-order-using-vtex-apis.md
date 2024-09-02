@@ -19,7 +19,8 @@ In this tutorial, you will learn how to place a simple **REGULAR** order (placed
 
 Let's start!
 
->⚠️ **Important:** For any authentication required by the APIs presented in this tutorial, you must provide a valid **AppToken** and **AppKey** registered in the **License Manager** module of your account and empowered with enough permissions.
+<div class="alert alert-warning">
+<strong>Important:</strong> For any authentication required by the APIs presented in this tutorial, you must provide a valid <b>AppToken</b> and <b>AppKey</b> registered in the <b>License Manager</b> module of your account and empowered with enough permissions.</div>
 
 **REQUIRED PERMISSIONS**
 

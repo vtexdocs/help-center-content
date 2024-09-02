@@ -22,4 +22,6 @@ You can not make changes to this workspace.
 
 Instead, work the new code on another workspace, then change the status of that workspace to `production true` and then promote it.
 
->⚠️ You can not make changes to a master workspace.
+<div class="alert alert-warning">
+You can not make changes to a master workspace.
+</div>

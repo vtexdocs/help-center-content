@@ -17,20 +17,22 @@ subcategory: 5m1qqfnmfYKsO0KiOQC8Ky
 
 O Change Seller é a funcionalidade que dá aos marketplaces autonomia para trocar o seller que vai realizar o fulfillment do pedido.
 
->ℹ️ A funcionalidade Change Seller só pode ser configurada por meio de APIs. Para mais informações, consulte a [documentação para desenvolvedores Change Seller](https://developers.vtex.com/vtex-rest-api/docs/change-seller).
+<div class = "alert alert-info">
+A funcionalidade Change Seller só pode ser configurada por meio de APIs. Para mais informações, consulte a <a href="https://developers.vtex.com/vtex-rest-api/docs/change-seller">documentação para desenvolvedores Change Seller</a>.
+</div>
 
 A troca de seller pode ocorrer em duas situações:
 
 - Seller cancela o pedido.
 - Marketplace decide trocar o seller.
 
-![seller_cancela_pedido_PT](https://images.ctfassets.net/alneenqid6w5/1w1If5Xirav4fZKLQlpkPn/ec1baf2bf28bddace01121efce7c05a8/seller_cancela_pedido_PT.png)
+![seller_cancela_pedido_PT](//images.ctfassets.net/alneenqid6w5/1w1If5Xirav4fZKLQlpkPn/ec1baf2bf28bddace01121efce7c05a8/seller_cancela_pedido_PT.png)
 
 Você pode [configurar a janela de tempo para mudar seller de 0 a 30 dias](https://developers.vtex.com/vtex-rest-api/reference/updatewindowtochangeseller), sendo que, por padrão, são dois dias. Ao configurar a janela em 0 dias, não existe um período efetivo para a troca de sellers e a feature, apesar de configurada, não funciona na prática, fazendo com que o pedido siga para cancelamento.
 
 Ao ser notificado pelo seller sobre o cancelamento, o marketplace pode configurar quantos dias deseja para tomar uma ação e decidir entre cancelar a compra ou mudar de seller. Mas atenção: caso escolha pela troca, é de responsabilidade do próprio marketplace a decisão de informar a mudança ao cliente final.
 
-![mkt_cancela_seller_PT](https://images.ctfassets.net/alneenqid6w5/3jMZldSV2RLu4P0xoUyrE/55e6407af7ab3ffc3adec059e393f45c/mkt_cancela_seller_PT.png)
+![mkt_cancela_seller_PT](//images.ctfassets.net/alneenqid6w5/3jMZldSV2RLu4P0xoUyrE/55e6407af7ab3ffc3adec059e393f45c/mkt_cancela_seller_PT.png)
 
 ## Limitações
 

@@ -18,7 +18,9 @@ internalReference: 654896
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al traducir contenido utilizando la aplicación catalog-graphql o la traducción de catálogos, los campos como nombre, título o descripción se sobrescriben. Este comportamiento sólo ocurre si uno de estos campos (nombre, título, descripción) es igual en el registro del catálogo.

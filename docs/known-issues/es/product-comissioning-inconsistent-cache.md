@@ -18,7 +18,9 @@ internalReference: 872364
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 Hay, a partir de 2023, dos conjuntos de API distintos para actualizar la información de un vendedor en un mercado, son:
 https://developers.vtex.com/docs/api-reference/catalog-api#put-/api/catalog_system/pvt/seller

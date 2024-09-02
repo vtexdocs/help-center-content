@@ -18,7 +18,9 @@ internalReference: 578443
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El iframe, responsable de la insignia de Opiniones de clientes de Google, tiene una representación incoherente dentro del elemento div del componente Opiniones de clientes de Google.

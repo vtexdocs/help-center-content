@@ -22,7 +22,9 @@ Este artigo orienta sobre as etapas necessárias para integrar sua loja VTEX com
 - [Configurações na plataforma VTEX](#configuracoes-na-plataforma-vtex)
 - [Configurações na Conecta Lá](#configuracoes-na-conecta-la)
 
->ℹ️ Você também pode conferir as orientações para a integração por meio do vídeo [Como obter os dados para integração?](https://conectala.agidesk.com/br/central-de-ajuda/como-obter-os-dados-para-integracao) da Conecta Lá, ou consultar a documentação do parceiro fazendo o [download Conecta La (documentacao parceiro).pdf](https://drive.google.com/uc?export=download&id=1jbKK7fR68jfH6rBNmy-gq5d1lQZ-2cBs).
+<div class="alert alert-info">
+Você também pode conferir as orientações para a integração por meio do vídeo <a href="https://conectala.agidesk.com/br/central-de-ajuda/como-obter-os-dados-para-integracao">Como obter os dados para integração?</a> da Conecta Lá, ou consultar a documentação do parceiro fazendo o <a href="https://drive.google.com/uc?export=download&id=1jbKK7fR68jfH6rBNmy-gq5d1lQZ-2cBs">download Conecta La (documentacao parceiro).pdf</a>.
+</div>
 
 ## Configurações na plataforma VTEX
 
@@ -42,7 +44,9 @@ A chave de integração, chamada de _access key_, é o que possibilita o fluxo d
 3. Em _Segurança_, clique em `Gerar access key e secret`.
 4. Preencha com um nome para o novo _access key_ e clique em `Gerar novos secrets`.
 
->❗ O <i/>secret</i> gerado, também chamado de <i/>appToken</i>, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
+<div class="alert alert-danger">
+O <i/>secret</i> gerado, também chamado de <i/>appToken</i>, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
+</div>
 
 ### Configurar perfil de acesso
 
@@ -112,6 +116,8 @@ Uma vez concluídas as configurações na plataforma VTEX, dê continuidade à i
 
 - **Endpoint de Search:** o mesmo que foi utilizado no cadastro da etapa [Criar ID do afiliado](#criar-id-do-afiliado).
 
->ℹ️ Você também pode conferir as orientações para a integração por meio do vídeo [Como obter os dados para integração?](https://conectala.agidesk.com/br/central-de-ajuda/como-obter-os-dados-para-integracao) da Conecta Lá, ou consultar a documentação do parceiro fazendo o [download Conecta La (documentacao parceiro).pdf](https://drive.google.com/uc?export=download&id=1jbKK7fR68jfH6rBNmy-gq5d1lQZ-2cBs).
+<div class="alert alert-info">
+Você também pode conferir as orientações para a integração por meio do vídeo <a href="https://conectala.agidesk.com/br/central-de-ajuda/como-obter-os-dados-para-integracao">Como obter os dados para integração?</a> da Conecta Lá, ou consultar a documentação do parceiro fazendo o <a href="https://drive.google.com/uc?export=download&id=1jbKK7fR68jfH6rBNmy-gq5d1lQZ-2cBs">download Conecta La (documentacao parceiro).pdf</a>.
+</div>
 
 Em caso de dúvidas, consulte a página da Conecta Lá sobre [treinamentos e perguntas frequentes](https://conectala.agidesk.com/br/central-de-ajuda).

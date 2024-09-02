@@ -21,7 +21,7 @@ El módulo «Anuncios enviados» permite a los sellers supervisar el envío de a
 - [Anúncios](https://help.vtex.com/es/tutorial/anuncios-enviados-beta--6yg2CBv5Z5AnD0qS0cw2sa#anuncios)            
 - [Canales](https://help.vtex.com/es/tutorial/anuncios-enviados-beta--6yg2CBv5Z5AnD0qS0cw2sa#canales) 
 
-![Anuncios enviados Home ES](https://images.ctfassets.net/alneenqid6w5/4eTCYZQ0RRa2n9JN81RhRG/b75456e0477b7025707752d87438b49a/Anuncios_enviados_Home_ES.jpg)
+![Anuncios enviados Home ES](//images.ctfassets.net/alneenqid6w5/4eTCYZQ0RRa2n9JN81RhRG/b75456e0477b7025707752d87438b49a/Anuncios_enviados_Home_ES.jpg)
 
 ## Anuncios
 Cuando un seller configura condiciones de precios y stock, prepara su producto para que se convierta en un anuncio y se venda en el estante del marketplace. En el componente *Anuncios*, se puede ver el número total de anuncios, y los status:
@@ -31,13 +31,17 @@ Cuando un seller configura condiciones de precios y stock, prepara su producto p
 - **Con error:** cuando el sistema encuentra un problema que impide que un anuncio se envíe o actualice en un canal. Este status indica que el anuncio requiere corrección manual.  
 - **Indisponible:** cuando el anuncio queda indisponible, porque está inactivo o no está incluido en la Política Comercial determinada para el canal.
 
->ℹ️ Al hacer clic en `Ver lista`, será redirigido a la  [pagina de Anúncios](https://help.vtex.com/es/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE).
+<div class="alert alert-info">
+Al hacer clic en <code>Ver lista</code>, será redirigido a la  <a href="https://help.vtex.com/es/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE">pagina de Anúncios</a>.
+</div>
 
 ## Canales
 
 Este componente realiza una lista de todos los canales integrados, así como del número de anuncios enviados, anuncios en procesamiento y anuncios con error, en cada canal. A través de la lista, los sellers tienen una mayor visibilidad sobre el estado de sus integraciones con canales externos.
 
->ℹ️ Anuncios enviados permite hacer un seguimiento de los anuncios con [Mercado Libre Classic](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Mercado Libre Premium](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Netshoes](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) y [marketplaces VTEX](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex).
+<div class = "alert alert-info">
+Anuncios enviados permite hacer un seguimiento de los anuncios con <a href="https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Libre Classic</a>, <a href="https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Libre Premium</a>, <a href="https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm">Netshoes</a> y <a href="https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex">marketplaces VTEX</a>.
+</div>
 
 ## Conozca más
 

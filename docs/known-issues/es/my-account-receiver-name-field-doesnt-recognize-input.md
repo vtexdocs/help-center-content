@@ -18,7 +18,9 @@ internalReference: 568527
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar registrar la primera dirección en esta cuenta, a través de "Mi Cuenta > direcciones", se muestra la información de que es "obligatorio" introducir los "Datos del Tercero Autorizado", pero incluso después de introducir esta información y hacer clic en "Anadir Dirección" la dirección no se registra y se muestra de nuevo el mensaje de que es "obligatorio", sólo después del segundo intento se guarda la dirección con éxito.

@@ -18,7 +18,9 @@ internalReference: 872530
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los clientes que utilizan transportistas asociados a la Red de Envíos, al solicitar la emisión de etiquetas en Listo para enviar, pueden obtener el archivo con el código de barras incompleto, lo que puede impedir que se envíe el paquete.

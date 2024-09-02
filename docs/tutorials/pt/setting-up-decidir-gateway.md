@@ -35,7 +35,9 @@ Para configurar a Decidir, siga os passos abaixo:
 13. No campo __Mudanca de Margem__, defina a margem percentual em que será permitida a alteração do valor do pagamento.
 14. Clique em __Salvar__.
 
->⚠️ Atenção: em casos de contratação do antifraude **CyberSource**, recomendamos que a loja entre em contato com o time da própria CyberSource para saber os detalhes da configuração do Checkout.
+<div class="alert alert-warning">
+Atenção: em casos de contratação do antifraude <strong>CyberSource</strong>, recomendamos que a loja entre em contato com o time da própria CyberSource para saber os detalhes da configuração do Checkout. 
+</div>
 
 ## Configurar condição de pagamento
 Depois de seguir os passos indicados, a Decidir vai estar configurada na sua loja. Assim, quando você for cadastrar uma condição de pagamento, ela vai estar disponível no campo __Processar com a afiliação__ (desde que o meio de pagamento seja compatível com Decidir). Para saber como definir condições de pagamento, acesse [este artigo do Help](/pt/tutorial/condicoes-de-pagamento).

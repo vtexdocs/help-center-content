@@ -24,6 +24,8 @@ Digamos, por exemplo, que você tenha uma subloja específica para B2B, e que ne
 
 Para contratar políticas comerciais adicionais, é preciso entrar em contato com a área de Sales Operations, pelo e-mail: __sales-ops-br@vtex.com__
 
->⚠️ A contratação de políticas comerciais para integração com marketplace certificado ou outras lojas VTEX é isenta da taxa mensal.
+<div class="alert alert-warning">
+A contratação de políticas comerciais para integração com marketplace certificado ou outras lojas VTEX é isenta da taxa mensal.
+</div>
 
 

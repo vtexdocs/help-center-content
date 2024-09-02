@@ -32,7 +32,9 @@ Caso você queira enviar atributos de produtos para o Facebook, existe uma etapa
 
 A etapa adicional é a realização de um mapeamento das especificações dos produtos. O mapeamento é o que faz a correspondência entre os atributos cadastrados na sua loja VTEX e os padrões adotados pelo Facebook.
 
->⚠️ O mapeamento de atributos por planilha é opcional,  mas se você escolher realizá-lo, ele deve ser feito seguindo todos os passos descritos no artigo. Caso contrário, podem ocorrer erros na integração.
+<div class="alert alert-warning">
+O mapeamento de atributos por planilha é opcional,  mas se você escolher realizá-lo, ele deve ser feito seguindo todos os passos descritos no artigo. Caso contrário, podem ocorrer erros na integração.
+</div>
 
 ## Envio de atributos para o Facebook
 
@@ -52,7 +54,9 @@ O primeiro passo para realizar o mapeamento é fazer o download do arquivo [Plan
 
 O segundo passo para o mapeamento é preencher o arquivo baixado. Trata-se de uma planilha, constituída de uma única aba, na qual é possível identificar cinco colunas.
 
->ℹ️ A planilha de mapeamento do Facebook é <i>case sensitive</i>, ou seja, é sensível para o uso de letras maiúsculas e minúsculas.
+<div class="alert alert-info">
+A planilha de mapeamento do Facebook é <i>case sensitive</i>, ou seja, é sensível para o uso de letras maiúsculas e minúsculas.
+</div>
 
 - **Primeira coluna, _ID Category_:** deve ser preenchida com o número de identificação da categoria do produto na plataforma VTEX. Você encontra o ID de uma categoria no Admin, no módulo _Produtos > Catálogo > Categorias_. O ID da categoria é o número à esquerda do nome da categoria.
 - **Segunda coluna, _VTEX attribute name_:** deve conter o nome do atributo cadastrado na VTEX.
@@ -61,7 +65,9 @@ O segundo passo para o mapeamento é preencher o arquivo baixado. Trata-se de um
 - **Terceira coluna, _Facebook attribute name:_** deve ser preenchida com o termo correspondente utilizado pelo Facebook para um atributo.
 > Exemplo: a correspondência no Facebook para o atributo _Cor_ é _color_.
 
-  >ℹ️ Para saber os nomes de atributos e valores de referência, consulte a documentação do Facebook [Universal Basic Attributes](https://developers.facebook.com/docs/commerce-platform/catalog/fields?locale=pt_BR#universal-basic-attributes). Se não houver correspondência para um atributo ou valor, preencha a coluna Facebook attribute name com o mesmo termo utilizado na VTEX.
+  <div class="alert alert-info">
+Para saber os nomes de atributos e valores de referência, consulte a documentação do Facebook <a href="https://developers.facebook.com/docs/commerce-platform/catalog/fields?locale=pt_BR#universal-basic-attributes">Universal Basic Attributes</a>. Se não houver correspondência para um atributo ou valor, preencha a coluna Facebook attribute name com o mesmo termo utilizado na VTEX.
+</div>
 
 - **Quarta coluna, _VTEX attribute value_:** deve ser preenchida com os valores dos seus atributos na VTEX.
 > Exemplo: digamos que na sua loja VTEX, para o atributo _Gênero_ exista o valor _Feminino._ Portanto, você deve preencher a coluna _VTEX attribute value_ com a palavra _Feminino_.

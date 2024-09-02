@@ -18,7 +18,9 @@ internalReference: 1050023
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, uma conta de franquia pode ter seu registro fulFillmentEndpoint diferente de seu nome de conta "oficial", o que é uma prática comum para arquiteturas específicas de vendedor<>marketplace que precisam de vários preços e/ou estoque para canais de vendas distintos usando o recurso de franquia com vários vendedores para a mesma franquia.

@@ -1,10 +1,10 @@
 ---
 title: 'Exibir anúncios do VTEX Ad Network na sua loja (Beta)'
 id: 6gWgZrMLcS5FDFFdl5LETA
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-04-23T18:51:12.785Z
-updatedAt: 2024-07-05T13:10:03.749Z
-publishedAt: 2024-07-05T13:05:44.686Z
+updatedAt: 2024-08-09T21:21:47.661Z
+publishedAt: 2024-08-09T21:21:47.661Z
 firstPublishedAt: 2024-04-23T19:13:52.053Z
 contentType: tutorial
 productTeam: Others
@@ -15,19 +15,23 @@ legacySlug: exibindo-anuncios-do-vtex-ad-network-na-sua-loja-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
->ℹ️ O VTEX Ad Network está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+<div class = "alert alert-info">
+<p>O VTEX Ad Network está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o <a href="https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Suporte Comercial</a>. Se ainda não é cliente, mas tem interesse nesta solução, preencha o <a href="https://vtex.com/br-pt/contato/">formulário de contato</a>.</p>
+</div>
 
 Com [VTEX Ad Network (Beta)](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur), lojas VTEX podem disponibilizar espaço publicitário para que marcas promovam seus produtos na sua loja. Desta forma, a VTEX selecionará anúncios de produtos que já compõem o seu catálogo e sua loja receberá um valor por cada clique em anúncios na sua frente de loja.
 
 Para aderir ao VTEX Ad Network e exibir anúncios na sua loja, basta instalar o aplicativo VTEX Ad Network para lojas.
 
->⚠️ Por ora, lojas VTEX podem disponibilizar inventário de anúncios apenas em frentes de loja que utilizam [Store Framework](https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework).
+<div class="alert alert-warning">
+Por ora, lojas VTEX podem disponibilizar inventário de anúncios apenas em frentes de loja que utilizam <a href="https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a>.
+</div>
 
 ## Acompanhar resultados
 
 Na tela inicial do aplicativo [VTEX Ad Network para lojas](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#lojas), você pode acompanhar os resultados de anúncios na sua loja.
 
-![vtex_ad_network_admin_PT](https://images.ctfassets.net/alneenqid6w5/7nvJI9GTv53buxMMyvarRa/c479a1adcfce1ab838edfa17aeb6aca7/vtex_ad_network_admin.png)
+![vtex_ad_network_admin_PT](//images.ctfassets.net/alneenqid6w5/7nvJI9GTv53buxMMyvarRa/c479a1adcfce1ab838edfa17aeb6aca7/vtex_ad_network_admin.png)
 
 Na parte superior, estão dados agregados:
 
@@ -58,7 +62,7 @@ Você também pode usar os filtros disponíveis acima da tabela:
 
 Na tabela da tela inicial do app [VTEX Ad Network para lojas](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#lojas), você também pode clicar na linha referente a uma das campanhas para ver dados mais específicos.
 
-![vtex_ad_network_details_PT](https://images.ctfassets.net/alneenqid6w5/11oqzf225OjAxaN4gcGCme/50caa424b0c867189369d8071e5afcf0/vtex_ad_network_details.png)
+![vtex_ad_network_details_PT](//images.ctfassets.net/alneenqid6w5/11oqzf225OjAxaN4gcGCme/50caa424b0c867189369d8071e5afcf0/vtex_ad_network_details.png)
 
 - **Visualizações / Cliques:** Visualizações de anúncios e cliques em anúncios.
 - **CTR:** taxa de cliques, calculada pela divisão do número de cliques pelo número de visualizações.

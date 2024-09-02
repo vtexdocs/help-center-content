@@ -18,7 +18,9 @@ internalReference: 541149
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As novas tentativas automáticas estão ficando presas em algumas transações que usam o Kondutor como provedor antifraude e demoram mais do que o esperado para chamar uma nova tentativa a fim de alterar seu status. Isso está bloqueando o inventário dos clientes.

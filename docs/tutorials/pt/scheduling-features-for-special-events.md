@@ -59,7 +59,9 @@ Assim como na promoção, o agendamento de taxas é feito durante a sua criaçã
 
 O agendamento de conteúdo pelo Site Editor pode ser feito tanto pela [criação](https://help.vtex.com/pt/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#criando-conteudo) quanto pela [edição](https://help.vtex.com/pt/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#editando-conteudo) de bloco. 
 
->⚠️ O agendamento de conteúdo está disponível apenas para lojas desenvolvidas usando [VTEX IO](https://vtex.com/br-pt/store-framework/).
+<div class="alert alert-warning">
+  <p>O agendamento de conteúdo está disponível apenas para lojas desenvolvidas usando <a href="https://vtex.com/br-pt/store-framework/">VTEX IO</a>.</p>
+</div>
 
 Para agendar um conteúdo da sua loja, siga os passos abaixo:
 
@@ -68,7 +70,7 @@ Para agendar um conteúdo da sua loja, siga os passos abaixo:
 3. Use o campo URL no canto superior para navegar até a página que exibe o bloco cujo conteúdo será sobrescrito.
 4. Selecione o bloco para o qual deseja criar um novo conteúdo. Você pode selecioná-lo usando a lista no canto direito ou através da interface:
 
-![seta-interface](https://images.ctfassets.net/alneenqid6w5/6IhPT84ZmkV83ooydYNLLc/89b848f0f5678a4ce69c9f095e3abcbc/seta-interface.png)
+![seta-interface](//images.ctfassets.net/alneenqid6w5/6IhPT84ZmkV83ooydYNLLc/89b848f0f5678a4ce69c9f095e3abcbc/seta-interface.png)
 
 5. Clique em `Configurações` no canto superior direito.
 6. Clique no botão `Novo conteúdo`.

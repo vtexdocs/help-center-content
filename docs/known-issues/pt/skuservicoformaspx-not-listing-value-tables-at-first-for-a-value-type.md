@@ -18,7 +18,9 @@ internalReference: 335819
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Ao associar um serviço para uma SKU no nosso catálogo, para uma loja que tem múltiplos tipos de serviço e valores de serviço (campo Tipo de Valor), no início, quando um utilizador entra na UI, a lista de opções para um dado "Tipo de Serviço" está atualmente apenas a listar as opções associadas na tabela de Valores do primeiro tipo de serviço selecionado.
 

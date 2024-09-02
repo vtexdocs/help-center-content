@@ -33,7 +33,9 @@ En este artículo, explicamos cómo funciona la herencia de especificaciones que
         * [Registro del SKU](#registro-del-sku)
         * [Plantilla](#plantilla)
 
->ℹ️ Para crear una especificación de SKU con la **API Catálogo**, sigue la guía para desarrolladores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification) (Cómo crear una especificación).
+<div class = "alert alert-info">
+  <p>Para crear una especificación de SKU con la <strong>API Catálogo</strong>, sigue la guía para desarrolladores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a> (Cómo crear una especificación).</p>
+</div>
 
 ## Herencia de especificaciones de SKU
 
@@ -41,7 +43,7 @@ Antes de crear especificaciones, es importante entender que las especificaciones
 
 Por ejemplo: tomemos el producto **Camisa masculina**. En __Catálogo > Productos y SKU > SKU > Especificaciones__ (en la imagen a continuación), se puede ver que el grupo de especificaciones llamado **Características** está asociado a la categoría de la camisa. Ese grupo incluye un campo llamado **Color** y un campo llamado **Tamaño**.
 
-![heranca-especificacoes-sku-es](https://images.ctfassets.net/alneenqid6w5/1KPyqwiasQnbeEhBZ8K5ZJ/da96d3be83a3131b2eb3af35cb7f40fc/sku-specifications-inheritance-es.PNG)
+![heranca-especificacoes-sku-es](//images.ctfassets.net/alneenqid6w5/1KPyqwiasQnbeEhBZ8K5ZJ/da96d3be83a3131b2eb3af35cb7f40fc/sku-specifications-inheritance-es.PNG)
 
 Como se trata de una especificación del SKU, la información seleccionada en esa página se validará únicamente para esa variación del producto **Camisa masculina**. Se deben haber ingresado esas especificaciones de todos los SKU registrados en el producto **Camisa masculina** y todos los SKU de productos de la misma categoría.
 
@@ -53,7 +55,9 @@ En las secciones a continuación, podrás ver el paso a paso completo.
 
 ### Crear un campo de SKU
 
->⚠️ Una vez creados, los campos del SKU no pueden borrarse. Si se inactiva un campo, todos los SKU que están en la categoría quedarán inactivos hasta que el campo vuelva a reactivarse. Una de las causas por las que el SKU no aparece en el sitio web puede ser que no se haya rellenado una especificación en el registro, ya que esto deja al SKU inactivo.
+<div class = "alert alert-warning">
+  <p>Una vez creados, los campos del SKU no pueden borrarse. Si se inactiva un campo, todos los SKU que están en la categoría quedarán inactivos hasta que el campo vuelva a reactivarse. Una de las causas por las que el SKU no aparece en el sitio web puede ser que no se haya rellenado una especificación en el registro, ya que esto deja al SKU inactivo.</p>
+</div>
 
 Para crear un campo del SKU, sigue las instrucciones a continuación:
 
@@ -61,7 +65,9 @@ Para crear un campo del SKU, sigue las instrucciones a continuación:
 2. Haz clic en **Categorías**.
 3. Haz clic en la categoría asociada al grupo de especificaciones en el que deseas crear un campo del SKU.
 
-  >⚠️ Verás que, al crear un campo en un nivel de categoría superior, la especificación aparecerá en todos los niveles de categoría inferiores.
+  <div class = "alert alert-warning">
+    <p>Verás que, al crear un campo en un nivel de categoría superior, la especificación aparecerá en todos los niveles de categoría inferiores.</p>
+  </div>
 
 3. Haz clic en `Acciones` <i class="fas fa-angle-down"></i>.
 4. Haz clic en `Campo (SKU)`.
@@ -79,7 +85,7 @@ Para crear un campo del SKU, sigue las instrucciones a continuación:
     * **Activo**: inserta o elimina este campo en el registro del SKU.
 7. Haz clic en `Guardar`.
 
-![sku-spec-1](https://images.ctfassets.net/alneenqid6w5/5b2UFRxvAQ6BoL6eStxf0D/849a49c91c0d22674c810c59e025ece3/es-sku-spec-2.gif)
+![sku-spec-1](//images.ctfassets.net/alneenqid6w5/5b2UFRxvAQ6BoL6eStxf0D/849a49c91c0d22674c810c59e025ece3/es-sku-spec-2.gif)
 
 #### Tipos de campo de SKU
 
@@ -124,15 +130,17 @@ Los **valores** de los campos del SKU variarán según el tipo de campo elegido:
 
     Inserta un valor por línea y haz clic en la tecla `Enter` entre un valor y otro, tal como se muestra en la imagen a continuación.
 
-    ![valores-campo-sku-es](https://images.ctfassets.net/alneenqid6w5/7puatHudsAbkAY9NUKpWYh/07d380bbf447d55bab05d846b4202501/valores-especificacoes-sku-es.PNG)
+    ![valores-campo-sku-es](//images.ctfassets.net/alneenqid6w5/7puatHudsAbkAY9NUKpWYh/07d380bbf447d55bab05d846b4202501/valores-especificacoes-sku-es.PNG)
 
 8. Haz clic en `Guardar`.
 
     Los valores registrados se mostrarán en la [interfaz del registro del SKU](#registro-del-sku).
 
-![sku-spec-2](https://images.ctfassets.net/alneenqid6w5/5MwO6aTSuIzCbxlrnzjTHQ/157aeb729b88c61a3341697b60008c7c/es-sku-spec-2.gif)
+![sku-spec-2](//images.ctfassets.net/alneenqid6w5/5MwO6aTSuIzCbxlrnzjTHQ/157aeb729b88c61a3341697b60008c7c/es-sku-spec-2.gif)
 
->ℹ️ Si estás registrando los primeros valores de un campo, deberás regresar al formulario de ese campo específico y seleccionar la opción **Activo**.
+<div class = "alert alert-info">
+  <p>Si estás registrando los primeros valores de un campo, deberás regresar al formulario de ese campo específico y seleccionar la opción <strong>Activo</strong>.</p>
+</div>
 
 #### Obtener o editar valores registrados
 
@@ -173,7 +181,7 @@ Para completar las especificaciones de cada SKU de forma individual, sigue las i
 
 8. Haz clic en `Guardar`.
 
-![sku-spec-3](https://images.ctfassets.net/alneenqid6w5/6mV0lyVG6Z2ywmtNheePEf/60cd4ea95d71f88edc9df50717d96ab7/es-sku-spec-3.gif)
+![sku-spec-3](//images.ctfassets.net/alneenqid6w5/6mV0lyVG6Z2ywmtNheePEf/60cd4ea95d71f88edc9df50717d96ab7/es-sku-spec-3.gif)
 
 #### Plantilla
 
@@ -196,7 +204,7 @@ Para rellenar las especificaciones del SKU de forma masiva por plantilla, debes 
 9. Haz clic en **Seleccionar** para seleccionar el archivo con la plantilla completa en la computadora.
 10.  Haz clic en `Importar`.
 
-![sku-spec-4](https://images.ctfassets.net/alneenqid6w5/6apU0Qp7SqnH6ZfPT5lzrr/0f468d1b9b92ac4b64aee8251491aaf1/es-sku-spec-4.gif)
+![sku-spec-4](//images.ctfassets.net/alneenqid6w5/6apU0Qp7SqnH6ZfPT5lzrr/0f468d1b9b92ac4b64aee8251491aaf1/es-sku-spec-4.gif)
 
 ## Más información
 - [Registrar especificaciones o campos de producto](https://help.vtex.com/es/tutorial/registrar-especificaciones-o-campos-de-producto--tutorials_106)

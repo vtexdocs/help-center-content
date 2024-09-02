@@ -18,7 +18,9 @@ internalReference: 1020505
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar criar um produto com um formato de imagem definido como JPG ou PNG, o produto é criado com uma imagem quebrada. Esse comportamento não ocorre se o formato for definido como jpg ou png (sem capslock).

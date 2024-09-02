@@ -18,7 +18,9 @@ internalReference: 660874
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Revisar o comportamento da rota de carga do skus no facebook

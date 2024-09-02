@@ -18,7 +18,9 @@ internalReference: 1024207
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al utilizar las API de creación o actualización de productos en la aplicación de catálogo: https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product y enviar el campo releaseDate como null, en su valor, se crea con la fecha actual en su lugar.

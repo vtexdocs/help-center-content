@@ -35,7 +35,9 @@ The process of creating an account in the Seller Portal begins with an [invitati
 - [Creating an account for VTEX sellers](#connecting-the-vtex-account-with-the-marketplace): store hosted on the VTEX platform.    
 - [Creating an account for external sellers](#creating-an-account-for-external-sellers): store hosted on another ecommerce platform, or not yet hosted on any platform.    
 
->ℹ️ The account creation link sent to the seller is valid for 7 days. Once the link is opened, the seller must complete the registration form within six hours, without interruption. If the registration cannot be completed within six hours, the marketplace needs to send the invitation again.
+<div class="alert alert-info">
+The account creation link sent to the seller is valid for 7 days. Once the link is opened, the seller must complete the registration form within six hours, without interruption. If the registration cannot be completed within six hours, the marketplace needs to send the invitation again.
+</div>
 
 ### Connecting the VTEX account with the marketplace
 

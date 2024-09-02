@@ -27,4 +27,6 @@ Para realizar o mapeamento de categorias, siga as instruções abaixo.
 5. Clique em **Mapeamento de Atributos** e faça as correspondências dos campos que aparecerão na tela.  
 6. Clique no botão `Salvar Alterações` 
 
->ℹ️ Os campos de **Mapeamento de Atributos** com asterisco **(*)** são obrigatórios.
+<div class="alert alert-info">
+  Os campos de <b>Mapeamento de Atributos</b> com asterisco <b>(*)</b> são obrigatórios.  
+</div>

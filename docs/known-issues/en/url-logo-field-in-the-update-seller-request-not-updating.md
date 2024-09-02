@@ -1,5 +1,5 @@
 ---
-title: "'Url Logo' Field in the Update Seller Request not Updating"
+title: '"Url Logo" Field in the Update Seller Request not Updating'
 id: 1WmNl3RgesWAUL8rjitJV1
 status: PUBLISHED
 createdAt: 2022-01-21T15:18:15.945Z

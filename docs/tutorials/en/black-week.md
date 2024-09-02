@@ -15,5 +15,7 @@ legacySlug: black-week
 subcategory: QPnz120TdtLcXSh65c4Gs
 ---
 
->⚠️ This is a regional exclusive content not applicable to English speaking countries.
+<div class="alert alert-warning">
+  This is a regional exclusive content not applicable to English speaking countries.
+</div>
 

@@ -18,7 +18,9 @@ internalReference: 906518
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utilizan Opciones de Montaje, si el artículo se añade de nuevo al carrito, aparecerá dos veces y el Servicio de Impuestos considerará sólo el precio para ese artículo que está primero en el carrito, causando valores de divergencia de impuestos al realizar un pedido.

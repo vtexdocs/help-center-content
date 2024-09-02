@@ -19,7 +19,9 @@ Para acceder a la Configuración de la cuenta, haz clic en tu avatar de perfil, 
 
 En la página de cada cuenta usted encuentra datos básicos sobre la tienda virtual, configuraciones de dominio y multidominio, claves de acceso a APIs, logotipo del empresa e información de contacto.
 
->ℹ️ Algunos de esos datos son útiles solamente para VTEX, y pueden no reflejar modificación de la información exhibida en la tienda.
+<div class="alert alert-info">
+Algunos de esos datos son útiles solamente para VTEX, y pueden no reflejar modificación de la información exhibida en la tienda.
+</div>
 
 ## Botón de Activo/Inactivo
 
@@ -52,15 +54,17 @@ También puedes utilizar el botón `Configurar otra tienda` para [Crear multitie
 
 En la sección **Hosts** debes agregar el dominio principal de tu tienda, que ha sido [configurado con el apuntamiento de DNS](https://help.vtex.com/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
 
->❗ En caso de que su operación tenga más de una cuenta o subcuentas VTEX, no intercambie dominios entre ellas. Esto provocará errores en diferentes aspectos de tu tienda.
+<div class="alert alert-danger">
+En caso de que su operación tenga más de una cuenta o subcuentas VTEX, no intercambie dominios entre ellas. Esto provocará errores en diferentes aspectos de tu tienda.
+</div>
 
 Para agregar un nuevo host, haz clic en `Agregar un nuevo dominio` e introduce el dominio en el campo de texto.
 
->⚠️ Si agregas más de un dominio como host de tu tienda, todos ellos mostrarán el mismo contenido. Sin embargo, recomendamos registrar solo un dominio y utilizar redirecciones para los demás. Obtenga más información sobre redirecciones:
->
-> *<a href=”https://help.vtex.com/es/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ”>Redirección de otras direcciones</a>
->
-> * <a href=”https://help.vtex.com/es/tutorial/configurando-acesso-sem-www--tutorials_4278”>Configurar acceso sin www</a>
+<div class="alert alert-warning">
+Si agregas más de un dominio como host de tu tienda, todos ellos mostrarán el mismo contenido. Sin embargo, recomendamos registrar solo un dominio y utilizar redirecciones para los demás. Obtenga más información sobre redirecciones:
+<ul><li><a href=”https://help.vtex.com/es/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ”>Redirección de otras direcciones</a></li>
+  <li><a href=”https://help.vtex.com/es/tutorial/configurando-acesso-sem-www--tutorials_4278”>Configurar acceso sin www</a></li></ul> 
+</div>
 
 #### Subdominios
 
@@ -76,9 +80,11 @@ La parte de **Contatos** es visible solamente para el usuario que esté registra
 
 Después que un usuario llena y guarda **Nombre** e **E-mail**, en los campos de contacto, un email automático le es enviado informando sobre el registro y solicitando generación de contraseña (si él no posee ningún acceso al admin).
 
->ℹ️ La plantilla para este correo electrónico automático se puede cambiar en el [Centro de mensajes](https://help.vtex.com/es/tutorial/understanding-the-message-center--tutorials_84) modificando la plantilla de <i>registro de cuenta</i>.
+<div class="alert alert-info">
+La plantilla para este correo electrónico automático se puede cambiar en el <a href="https://help.vtex.com/es/tutorial/understanding-the-message-center--tutorials_84">Centro de mensajes</a> modificando la plantilla de <i>registro de cuenta</i>.
+</div>
 
-![registro de cuenta](https://images.ctfassets.net/alneenqid6w5/7uIJliLTJ6wEMeeoqiSMQ/6c37511bd70d8035b11e18abc99b36d0/registro_de_cuenta.jpg)
+![registro de cuenta](//images.ctfassets.net/alneenqid6w5/7uIJliLTJ6wEMeeoqiSMQ/6c37511bd70d8035b11e18abc99b36d0/registro_de_cuenta.jpg)
 
 ## Seguridad
 

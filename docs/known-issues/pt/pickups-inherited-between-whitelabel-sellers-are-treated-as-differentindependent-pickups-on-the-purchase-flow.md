@@ -18,7 +18,9 @@ internalReference: 438630
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um recurso no módulo de Logística para herdar pontos de coleta entre contas de franquia e, portanto, entre vendedores de whitelabel. Enquanto registrados em um vendedor X, eles aparecerão como opções de pickup para um vendedor Y, de acordo com o que está configurado na estratégia de envio. Embora eles sejam os mesmos, sua identificação será diferente entre cada vendedor, e assim eles serão vistos como opções de retirada diferentes e independentes.

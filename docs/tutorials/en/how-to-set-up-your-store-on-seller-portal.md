@@ -53,7 +53,7 @@ Here are some details about the Seller Portal:
 
 ## Setting up your store
 
->⚠️ The limit for each Seller Portal account is 100 thousand products. For more information, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support.
+<div class="alert alert-warning"> The limit for each Seller Portal account is 100 thousand products. For more information, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support.</div>
 
 To start selling your products on the marketplace, you need to configure your store on the Seller Portal. This article explains the complete flow of this initial setup and indicates other documentation for you to access each step in more detail. The basic configuration of the Seller Portal includes the steps listed below.
 
@@ -204,4 +204,6 @@ There will be no need for manual configuration for these modules, but we recomme
 
 To integrate with your ERP, check out our [ERP integration guide](https://developers.vtex.com/docs/guides/erp-integration-guide).
 
->ℹ️ To generate the access keys necessary to integrate with your ERP, click on your **profile avatar**, marked by the initial of your email and go to **Account settings > Application keys**.
+<div class="alert alert-info"> 
+ <p>To generate the access keys necessary to integrate with your ERP, click on your <strong>profile avatar</strong>, marked by the initial of your email and go to <strong>Account settings > Application keys</strong>.</p>
+</div>

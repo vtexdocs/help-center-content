@@ -18,13 +18,15 @@ For the VTEX platform, the **Sponsor user** is the user who is primarily respons
 
 By default, the Sponsor user email is the one of the person who was responsible for hiring VTEX. But after receiving the VTEX environment, it can exchanged by the Sponsor user.
 
->⚠️ The Sponsor user is not the same as the **Owner (Admin Super)**. The **Owner (Admin Super)** is a License Manager role that defines the permissions of a user in your store. It can even be assigned to multiple users.
+<div class = "alert alert-warning">
+The Sponsor user is not the same as the <b>Owner (Admin Super)</b>. The <b>Owner (Admin Super)</b> is a License Manager role that defines the permissions of a user in your store. It can even be assigned to multiple users.
+</div>
 
 If your user has role to the Account management module, you can verify who is the Sponsor user by accessing the __Accounts__ tab and searching for the name of the store.
 
 By clicking on the desired account name, the Sponsor user's name and email are in the __Contact__ section.
 
-![usuario-master-contato en](https://images.ctfassets.net/alneenqid6w5/3ezUM1WmYEcIkGOoKm2s8e/0d14ffe3cce780a79f6111b46943db80/contato_usuario_master_en.png)
+![usuario-master-contato en](//images.ctfassets.net/alneenqid6w5/3ezUM1WmYEcIkGOoKm2s8e/0d14ffe3cce780a79f6111b46943db80/contato_usuario_master_en.png)
 
 Among the actions that only the Sponsor user can take are:
 - Reindex the catalog.

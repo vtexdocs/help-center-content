@@ -18,7 +18,9 @@ internalReference: 526736
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Às vezes, quando o usuário muda o tipo de entrega entre a entrega e a retirada na caixa (importante estar na caixa e não no carrinho, embora isso provavelmente aconteça também no carrinho), o pedidoFormulário salva o estado de entrega em `logísticaInfo` quando o pickup é selecionado.

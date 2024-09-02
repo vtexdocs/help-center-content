@@ -21,7 +21,9 @@ Essa dinâmica acontece por conta do split de pagamento e você pode saber mais 
 
 Neste artigo, explicaremos como gerar esse relatório de comissionamento e como agendar a criação recorrente do relatório de acordo com uma certa periodicidade.
 
->⚠️ Antes de prosseguir para as configurações, verifique com o seu Customer Success Manager (CSM) se o relatório de comissionamento foi incorporado ao Admin da sua conta.
+<div class="alert alert-warning">
+Antes de prosseguir para as configurações, verifique com o seu Customer Success Manager (CSM) se o relatório de comissionamento foi incorporado ao Admin da sua conta.
+</div>
 
 ## Gere um relatório de comissionamento
 
@@ -43,19 +45,25 @@ Prossiga:
 7. Preencha o campo “Endereço de e-mail” com o __e-mail__ desejado.
 8. Clique no __botão azul__ __“Gerar”__.
 
->❗ É obrigatório definir uma data inicial e uma data final. Caso contrário, o relatório de comissionamento não será criado.
+<div class="alert alert-danger">
+É obrigatório definir uma data inicial e uma data final. Caso contrário, o relatório de comissionamento não será criado.
+</div>
 
->ℹ️ Caso você não queira receber o relatório por e-mail, basta não clicar na caixa de seleção “Receber no endereço de email”. 
->
-> Clique diretamente no botão “Gerar”. Assim, será criado um link para download do relatório no Admin.  
+<div class="alert alert-info">
+Caso você não queira receber o relatório por e-mail, basta não clicar na caixa de seleção “Receber no endereço de email”. 
+
+Clique diretamente no botão “Gerar”. Assim, será criado um link para download do relatório no Admin.
+</div>  
 
 Desse modo, a mensagem “Seu relatório foi gerado com sucesso” será exibida na tela para indicar que a operação foi realizada corretamente. Além disso, o documento será enviado para a pasta “Downloads” do seu computador.  
 
 A criação do relatório pode demorar caso o volume de dados analisados seja extenso. Nesses casos, você pode acompanhar o processamento como na imagem abaixo. 
 
->ℹ️ Sair da página não afetará a operação.
+<div class="alert alert-info">
+Sair da página não afetará a operação.
+</div>
 
-![comissionamento PT](https://images.ctfassets.net/alneenqid6w5/7bWvI8TAgRPvtF4kr00TbC/6a3805d30656ad30c9afae6cb3079fce/comissionamento_PT.png)
+![comissionamento PT](//images.ctfassets.net/alneenqid6w5/7bWvI8TAgRPvtF4kr00TbC/6a3805d30656ad30c9afae6cb3079fce/comissionamento_PT.png)
 
 Posteriormente, você também pode baixar o relatório recém-gerado em um link para download disponibilizado na listagem de relatórios.  
 
@@ -65,9 +73,13 @@ Existem situações em que o marketplace precisa fazer a análise dos seus comis
 
 Por conta disso, você pode criar um agendamento para que o relatório será gerado automaticamente a cada período predeterminado de tempo.
 
->⚠️ No módulo de Comissionamento, só é permitido criar apenas um agendamento por conta.
+<div class="alert alert-warning">
+No módulo de Comissionamento, só é permitido criar apenas um agendamento por conta.
+</div>
 
->ℹ️ O agendamento é opcional. Não configurá-lo não afeta em nada a criação manual dos relatórios de comissionamento.
+<div class="alert alert-info">
+O agendamento é opcional. Não configurá-lo não afeta em nada a criação manual dos relatórios de comissionamento.
+</div>
 
 Considerando que você já está no módulo de Comissionamento, clique no botão “Agendar” do lado direito da tela. Semelhante à geração do relatório, será exibido um modal na tela.
 

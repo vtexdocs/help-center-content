@@ -23,7 +23,9 @@ In order to collaborate, a marketplace hosted on the VTEX platform and a seller,
 - [Connected marketplace and seller](#connected-marketplace-and-seller)
 - [Sharing customer emails](#sharing-customer-emails)
 
->ℹ️ If you want to start selling your products on other marketplaces, use [Marketplaces and Integrations](https://help.vtex.com/en/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM). This feature allows marketplaces and sellers operating in the VTEX ecosystem to identify and contact each another.
+<div class = "alert alert-info">
+If you want to start selling your products on other marketplaces, use <a href="https://help.vtex.com/en/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM">Marketplaces and Integrations</a>. This feature allows marketplaces and sellers operating in the VTEX ecosystem to identify and contact each another.
+</div>
 
 ## Connecting a marketplace and a seller 
 
@@ -41,7 +43,9 @@ Also, to [add the seller](https://help.vtex.com/en/tutorial/configurando-seller)
 
 You can integrate a VTEX marketplace with a VTEX seller or with an external seller either through the VTEX Admin or through API. In either case, the information shared between the marketplace and the seller will be the same.
 
->ℹ️ For more information on how to connect a VTEX marketplace to a VTEX seller using the VTEX Admin, please check out the article [Adding a seller](https://help.vtex.com/en/tutorial/configurando-seller). For integration via API use the call [Configure Seller Account](https://developers.vtex.com/docs/api-reference/marketplace-apis#post-/seller-register/pvt/sellers). For external sellers, check out the [External Seller Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide).
+<div class = "alert alert-info">
+For more information on how to connect a VTEX marketplace to a VTEX seller using the VTEX Admin, please check out the article <a href="https://help.vtex.com/en/tutorial/configurando-seller">Adding a seller</a>. For integration via API use the call <a href="https://developers.vtex.com/docs/api-reference/marketplace-apis#post-/seller-register/pvt/sellers">Configure Seller Account</a>. For external sellers, check out the <a href="https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide">External Seller Integration Guide</a>.
+</div>
 
 ### Connecting a VTEX marketplace to a VTEX seller
 
@@ -80,7 +84,9 @@ The marketplace can give the seller partial access to the email addresses of its
 - [Configure Seller Account](https://developers.vtex.com/docs/api-reference/marketplace-apis#post-/seller-register/pvt/sellers): this allows setting up the seller account, whether it is a VTEX seller or an external one.
 - [Update Seller by Seller ID](https://developers.vtex.com/docs/api-reference/marketplace-apis#patch-/seller-register/pvt/sellers/-sellerId-): this allows updating the seller information, whether it is a VTEX seller or an external one.
 
->ℹ️ For orders placed in the marketplace, the customer email is not displayed to the seller. The customer establishes a relationship with the marketplace. Therefore, the customer's consent would be necessary for sharing their information.
+<div class = "alert alert-info">
+For orders placed in the marketplace, the customer email is not displayed to the seller. The customer establishes a relationship with the marketplace. Therefore, the customer's consent would be necessary for sharing their information.
+</div>
 
 ## Learn more
 

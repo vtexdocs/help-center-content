@@ -18,7 +18,9 @@ internalReference: 747772
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A interface do usuário não mostra o formulário correto para editar o endereço selecionado na etapa de envio ao selecionar a adição de um novo endereço primeiro.

@@ -41,7 +41,9 @@ To configure Mercado Pago Offline, follow these steps:
   <br>
   <li>Below, click on the <b>Status</b> button to activate the rule.</li>
 <br>
->ℹ️ It is not necessary to select the **Process with affiliation**, as the sub-acquirer MercadoPagoV2 is already configured as the default affiliation for MercadoPagoOff.
+<div class="alert alert-info">
+  It is not necessary to select the <strong>Process with affiliation</strong>, as the sub-acquirer MercadoPagoV2 is already configured as the default affiliation for MercadoPagoOff.
+</div>
 <br>
   <li>If you choose to use antifraud, enable the <b>Use antifraud solution</b> option and choose one of the available antifraud options.</li>
   <br>

@@ -15,7 +15,9 @@ legacySlug: aplicacion-amazon-multi-channel-fulfillment-mcf
 subcategory: 1P1vFnzQ4TQJsBRDoPVKUI
 ---
 
->ℹ️ La aplicación está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
+<div class="alert alert-info">
+La aplicación está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
+</div>
 
 La aplicación Amazon Multi-Channel Fulfillment (MCF) te permite integrar tu negocio con el programa del mismo nombre. Con la integración, los clientes VTEX pueden utilizar la red logística de Amazon en sus propias tiendas. Así, los ítems de venta se almacenan en los centros de distribución de Amazon, y después de cada venta en tu ecommerce, la plataforma VTEX envía los datos del pedido a Amazon para que los separe, empaquete y envíe a los destinatarios.
 
@@ -33,9 +35,11 @@ Antes de la instalación, es necesario:
 * Asegurarte de que los productos de tu tienda cumplen las [políticas de restricción de Amazon](https://sellercentral.amazon.com/gp/help/external/200164330).
 * Asegurarte de que tu tienda está situada en países donde la MCF está disponible. Países como Estados Unidos, Australia, México, Alemania y Canadá ya cuentan con la MCF de Amazon. Consulta la lista actualizada de países [en esta página de Amazon](https://sell.amazon.com/fulfillment-by-amazon/fba-multi-channel.html).
 
->❗ Cuando se instala la aplicación, la plataforma VTEX trata la integración como una tienda externa de Amazon y utiliza la integración de tipo marketplace con Amazon.
-> <p>La aplicación debe instalarse en todas las cuentas VTEX en las que se desee utilizar la funcionalidad. 
-> <p>Recomendamos utilizar el Checkout V6.
+<div class="alert alert-danger">
+Cuando se instala la aplicación, la plataforma VTEX trata la integración como una tienda externa de Amazon y utiliza la integración de tipo marketplace con Amazon.
+<p>La aplicación debe instalarse en todas las cuentas VTEX en las que se desee utilizar la funcionalidad. 
+<p>Recomendamos utilizar el Checkout V6.
+</div>
 
 ## Instalación, configuración y acceso:
 
@@ -79,7 +83,9 @@ Para realizar esta configuración, accede al Admin y sigue los pasos a continuac
 
 En los pasos 8 y 10, la clave que hay que rellenar es la clave de geolocalización de Google. Consulta [cómo generar una clave en la guía para desarrolladores de Google.](https://developers.google.com/maps/documentation/geocoding/overview) 
 
->ℹ️ Si tienes dudas sobre la clave de geolocalización de Google, consulta en detalle cómo utiliza esta configuración la plataforma VTEX en los artículos [ Configurar la geolocalización en el checkout](https://help.vtex.com/es/tutorial/geolocalizacion-en-el-checkout--tutorials_4345) y [Registrar la geolocalización](https://help.vtex.com/es/tutorial/gestionar-geolocalizacion--tutorials_138).
+<div class="alert alert-info">
+Si tienes dudas sobre la clave de geolocalización de Google, consulta en detalle cómo utiliza esta configuración la plataforma VTEX en los artículos <a href="https://help.vtex.com/es/tutorial/geolocalizacion-en-el-checkout--tutorials_4345"> Configurar la geolocalización en el checkout</a> y <a href="https://help.vtex.com/es/tutorial/gestionar-geolocalizacion--tutorials_138">Registrar la geolocalización</a>.
+</div>
 
 ### Instalación de la aplicación
 
@@ -100,9 +106,11 @@ Para instalar la aplicación, accede a VTEX App Store:
     * **ERP Hook URL:** es la dirección del ERP que incluirá las facturas de los pedidos (en el caso de que el campo **Automatic Invoice** esté configurado como Deactivate).
     * **Amazon Marketplace:** es el país en el que utilizarás Amazon MCF.
 
->⚠️ Las configuraciones realizadas en el campo Automatic Invoice se aplicarán a todos los pedidos.
+<div class="alert alert-warning">
+Las configuraciones realizadas en el campo Automatic Invoice se aplicarán a todos los pedidos.
+</div>
 
-![MCF](https://images.ctfassets.net/alneenqid6w5/1fPmofbBRr6kge5qzfHvXV/604c465dd3344b9cc04b722d03cb5005/Amazon_MCF_EN.PNG)
+![MCF](//images.ctfassets.net/alneenqid6w5/1fPmofbBRr6kge5qzfHvXV/604c465dd3344b9cc04b722d03cb5005/Amazon_MCF_EN.PNG)
 
 ### Integración del catálogo
 

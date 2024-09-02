@@ -1,5 +1,5 @@
 ---
-title: "XML - Currency symbol in the 'Installment'"
+title: 'XML - Currency symbol in the "Installment"'
 id: 4s7hBA1MAUgeEC2Q4K8gKM
 status: DRAFT
 createdAt: 2017-06-26T15:22:31.980Z

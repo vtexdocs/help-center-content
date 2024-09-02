@@ -18,7 +18,9 @@ internalReference: 519576
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para los flujos de devolución dentro de un pedido, es posible indicar qué productos serán devueltos y/o los valores asociados, como los gastos de envío o simplemente una parte del valor del pedido.

@@ -18,7 +18,9 @@ internalReference: 923619
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si intentamos crear una ruta usando tipos de contenido a través de la UI la página no funcionará. Sólo funciona si la creamos a través del tema.

@@ -18,7 +18,9 @@ internalReference: 545697
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A exibição dos valores de entrega na visualização de remessa (carrinho) está incorreta quando os itens são entregues programados e todos esses itens deixam o mesmo SLA. Mesmo com a API devolvendo o valor correto, a IU não reflete esta informação e exibe o valor incorreto.

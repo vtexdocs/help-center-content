@@ -1,5 +1,5 @@
 ---
-title: "O transporte enxuto causa 'Algo deu errado' depois de mudar os pontos de coleta"
+title: 'O transporte enxuto causa "Algo deu errado" depois de mudar os pontos de coleta'
 id: 45jQODtjZ4vLXniNJIlQZc
 status: PUBLISHED
 createdAt: 2024-06-20T21:11:53.067Z
@@ -18,7 +18,9 @@ internalReference: 1053609
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Um comprador pode pesquisar diferentes pontos de coleta em diferentes códigos postais. Ao usar o envio enxuto, depois de adicionar um código postal com pontos de coleta disponíveis e mudar para um código postal sem pontos de coleta, a etapa de envio é bloqueada com a mensagem "Algo deu errado".

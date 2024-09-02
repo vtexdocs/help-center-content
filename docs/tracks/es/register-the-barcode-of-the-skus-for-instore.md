@@ -16,7 +16,9 @@ trackSlugES: registrar-el-codigo-de-barras-de-los-skus-para-el-instore
 
 Para usar el VTEX Sales App, los productos de la tienda física deben estar agregados en el Catálogo de su cuenta en VTEX. Es allí donde insertamos todos los productos y definimos sus características.
 
->⚠️ Los vendedores solo tendrán acceso a los productos a través de VTEX Sales App una vez que los productos estén agregados en el catálogo de su tienda en VTEX.
+<div class="alert alert-warning">
+Los vendedores solo tendrán acceso a los productos a través de VTEX Sales App una vez que los productos estén agregados en el catálogo de su tienda en VTEX.
+</div>
 
 Entre la información ingresada en el registro de un producto en el Catálogo, se encuentra el __EAN__. El EAN corresponde al __código de barras__ del SKU. Es el que le permite al vendedor agregar fácilmente el producto al carrito del VTEX Sales App, a través de la máquina lectora. VTEX Sales App también permite ingresar el código de barras en el campo de búsqueda.
 
@@ -33,4 +35,6 @@ Para registrar el EAN del SKU, siga los pasos a continuación:
 
 Alternativamente, el campo EAN, así como otros campos del SKU, se pueden completar a través de planilla o su ERP. Consulte el artículo [Registrar SKUs](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) para obtener información detallada.
 
->ℹ️ La información de EAN puede tardar hasta 10 minutos en actualizarse. Después de este procedimiento, será posible agregar el SKU al carrito del VTEX Sales App a través de la máquina lectora de códigos de barras.
+<div class="alert alert-info">
+La información de EAN puede tardar hasta 10 minutos en actualizarse. Después de este procedimiento, será posible agregar el SKU al carrito del VTEX Sales App a través de la máquina lectora de códigos de barras.
+</div>

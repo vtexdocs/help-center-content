@@ -18,7 +18,9 @@ internalReference: 755993
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si intentas acceder a una página en el editor del sitio usando la página de aterrizaje no carga los bloques, se queda en carga infinita. Por ejemplo `https://.myvtex.com/admin/cms/site-editor/.`

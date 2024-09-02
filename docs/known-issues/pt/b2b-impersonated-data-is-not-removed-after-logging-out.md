@@ -18,7 +18,9 @@ internalReference: 1067969
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O logout após a representação de um usuário no B2B Suite não remove as permissões de vitrine da sessão.

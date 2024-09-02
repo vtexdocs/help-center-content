@@ -43,7 +43,9 @@ O Pricing possui algumas diferenças importantes em relação à primeira versã
 
 ## Migração da loja para o Pricing v2
 
->ℹ️ Toda nova loja VTEX já é criada com o Pricing v2.
+<div class="alert alert-info">
+Toda nova loja VTEX já é criada com o Pricing v2. 
+</div>
 
 O Pricing v2 está disponível para as lojas que desejarem migrar para o novo módulo. Atualmente, temos um processo de migração automática, em que verificamos a compatibilidade das features do Pricing v2 com as features utilizadas atualmente pela loja. 
 

@@ -25,7 +25,9 @@ This article explains how to comply with the following data subject rights:
 - [Consent](#consent)
 - [Erasure](#erasure)
 
->❗ VTEX is not responsible for personal data stored by systems integrated with your store, such as ERPs, third-party marketplaces, third-party sellers, third-party applications available in the [VTEX App Store](https://help.vtex.com/en/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e) or customizations implemented by your development team. You must map this data and ensure the enforceability of the rights of personal data subjects in these instances, in addition to the processes described below.
+<div class="alert alert-danger">
+VTEX is not responsible for personal data stored by systems integrated with your store, such as ERPs, third-party marketplaces, third-party sellers, third-party applications available in the <a href="https://help.vtex.com/en/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e">VTEX App Store</a> or customizations implemented by your development team. You must map this data and ensure the enforceability of the rights of personal data subjects in these instances, in addition to the processes described below.
+</div>
 
 ## Access and portability
 
@@ -48,7 +50,7 @@ To export data from the Master Data v1 through the Admin dashboard, follow these
 1. In the VTEX Admin, go to **Store Settings** > **Storefront** > **Master Data.**
 2. Click the **Applications** tab.
 3. Click the view icon (on the right) of the desired data entity.
-![Master Data view button](https://images.ctfassets.net/alneenqid6w5/oYSaPi7x9Vlr4EAiufbew/601df52aab81d94c5ad3afc75103fde3/visualizar_bot__o_master_data_EN.png)
+![Master Data view button](//images.ctfassets.net/alneenqid6w5/oYSaPi7x9Vlr4EAiufbew/601df52aab81d94c5ad3afc75103fde3/visualizar_bot__o_master_data_EN.png)
 4. Use the [Master Data v1 filter](https://help.vtex.com/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) to filter only the data for the desired user. Use the `email` or `user ID` as the filter field.
 5. Click `Export XLS`.
 6. Select the `Select all fields` option.
@@ -57,7 +59,9 @@ To export data from the Master Data v1 through the Admin dashboard, follow these
 
 Repeat this step for customer data (**CL**) and address (**AD**) entities and any other entity you have configured to get personal information from your customers.
 
->ℹ️ Learn more about [filtering data](https://help.vtex.com/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) and [exporting data](https://help.vtex.com/en/tutorial/exporting-data--tutorials_1125) in the Master Data v1 interface.
+<div class = "alert alert-info">
+Learn more about <a href="https://help.vtex.com/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters">filtering data</a> and <a href="https://help.vtex.com/en/tutorial/exporting-data--tutorials_1125">exporting data</a> in the Master Data v1 interface.
+</div>
 
 #### Master Data v2
 
@@ -85,7 +89,9 @@ Your customers can exercise their right to consent and rectify personal data usi
 - View and edit their address information.
 - View and edit their saved payment methods.
 
->ℹ️ Learn more about the [My Account page](https://help.vtex.com/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh).
+<div class = "alert alert-info">
+Learn more about the <a href="https://help.vtex.com/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh">My Account page</a>.
+</div>
 
 ## Consent
 
@@ -99,7 +105,9 @@ When completing a purchase at VTEX Checkout, your customers can choose to subscr
 
 In case you need to [adjust the subscription status of a particular customer](https://developers.vtex.com/docs/guides/newsletter-inclusion-master-data-v1), your development team can do it directly using the Master Data v1 API.
 
->ℹ️ Learn more about the My Account page and how your developers can[directly edit a customer newsletter subscription](https://developers.vtex.com/docs/guides/newsletter-inclusion-master-data-v1).
+<div class = "alert alert-info">
+Learn more about the My Account page and how your developers can<a href="https://developers.vtex.com/docs/guides/newsletter-inclusion-master-data-v1">directly edit a customer newsletter subscription</a>.
+</div>
 
 ### Abandoned cart
 
@@ -119,7 +127,9 @@ The right to consent allows people to buy in your store without their personal d
 
 Please contact your development team to make this option available following the [Enable the Save user data opt-in](https://developers.vtex.com/docs/guides/enable-the-save-user-data-opt-in) guide.
 
->ℹ️ Learn more about [abandoned cart automation](https://help.vtex.com/en/tutorial/configurar-carrinho-abandonado--tutorials_740).
+<div class = "alert alert-info">
+Learn more about <a href="https://help.vtex.com/en/tutorial/configurar-carrinho-abandonado--tutorials_740">abandoned cart automation</a>.
+</div>
 
 ## Erasure
 

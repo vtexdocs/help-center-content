@@ -18,7 +18,9 @@ internalReference: 623183
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Apesar da mensagem de sucesso na planilha de administração das imagens sendo processada e que em breve será enviada para o e-mail, o relatório nunca chega de fato.

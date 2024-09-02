@@ -18,7 +18,9 @@ internalReference: 378842
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los nombres de las opciones de ensamblaje se utilizan en la ruta API. Por ello, es necesario soportar la codificación de estos nombres para no crear problemas en la URL con caracteres especiales, como "/". Al añadir una opción de montaje con "/" en el carrito, simplemente no se añade y tampoco se notifica al usuario.

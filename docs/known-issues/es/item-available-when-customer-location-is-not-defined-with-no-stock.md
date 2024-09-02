@@ -18,7 +18,9 @@ internalReference: 1073363
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la ubicación del cliente no está definida, los artículos aparecen disponibles incluso cuando no hay existencias disponibles y la marca blanca del vendedor no es completa. Esto solo ocurre si la SKU tiene existencias en el vendedor de marca blanca en un almacén asociado a un canal de ventas distinto al registrado en el punto final de cumplimiento del vendedor.

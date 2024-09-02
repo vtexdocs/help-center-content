@@ -1,5 +1,5 @@
 ---
-title: "'Não é possível inativar este produto porque ele possui um ou mais skus ativos.' does not automatically translate on the Product admin"
+title: '"Não é possível inativar este produto porque ele possui um ou mais skus ativos." does not automatically translate on the Product admin'
 id: 2wYoZ01LtolL1Tfhc4ldV8
 status: PUBLISHED
 createdAt: 2023-04-03T19:17:17.147Z

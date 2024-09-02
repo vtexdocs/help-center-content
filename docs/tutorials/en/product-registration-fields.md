@@ -25,16 +25,15 @@ __Substitute words:__ synonyms of terms related to the name given to your depart
 
 __TextLink:__ used to create the product URL. Required field. For more information, read [How is a product URL set up?](https://help.vtex.com/en/tutorial/how-is-a-product-url-set-up--frequentlyAskedQuestions_368).
 
->❗ When filling in the product’s **textLink**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
->
-> *`a`
->
-> *`meta`
->
-> *`api`
->
-> *`admin`
-> 
+<div class="alert alert-danger">
+  <p>When filling in the product’s <b>textLink</b>, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
+  <ul>
+<li><code>a</code></li>
+<li><code>meta</code></li>
+<li><code>api</code></li>
+<li><code>admin</code></li>
+</ul></p>
+</div>
 
 __Page Title (Tag Title):__ text that is in the browser tab and corresponds to the title of the product page. This field is important for SEO.
 
@@ -74,7 +73,9 @@ Here's how to [create your product specifications](https://help.vtex.com/en/tuto
 
 If you have created any required product fields, the product can only be activated after this specification has been filled in.
 
->ℹ️ If your product does not appear on your store's website after you have created it, check out the article [Why is the product not shown on the website?](https://help.vtex.com/pt/faq/why-is-the-product-not-shown-on-the-website--frequentlyAskedQuestions_382) to understand how to solve this problem.
+<div class="alert alert-info">
+If your product does not appear on your store's website after you have created it, check out the article <a href="https://help.vtex.com/pt/faq/why-is-the-product-not-shown-on-the-website--frequentlyAskedQuestions_382">Why is the product not shown on the website?</a> to understand how to solve this problem.
+</div>
 
 ### Learn more
 - [Products - Concept definition](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru)

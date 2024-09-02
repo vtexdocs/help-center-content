@@ -18,7 +18,9 @@ internalReference: 480892
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A Árvore de Categoria API GET tem um cache interno. Ao realizar uma solicitação utilizando o domínio interno VTEX e eles, realizando a mesma solicitação utilizando o domínio do cliente, a primeira solicitação será colocada em cache e na resposta da segunda solicitação, realizada utilizando o domínio do cliente, devolveremos as URLs das categorias com o domínio interno VTEX.

@@ -15,7 +15,9 @@ legacySlug: como-crear-un-anexo-de-suscripcion
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
 
- >ℹ️ Si utiliza el módulo de **Suscripciones Beta**, la forma más recomendable de crear un plan de suscripción es directamente en el módulo de **Suscripciones**. Lea el artículo [Cómo crear un plan de suscripción (Beta)](https://help.vtex.com/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) para obtener más información.
+ <div class="alert alert-info">
+  <p>Si utiliza el módulo de <strong>Suscripciones Beta</strong>, la forma más recomendable de crear un plan de suscripción es directamente en el módulo de <strong>Suscripciones</strong>. Lea el artículo <a href="https://help.vtex.com/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC">Cómo crear un plan de suscripción (Beta)</a> para obtener más información.</p>
+</div>
 
 El **Anexo de SKU** indica que la funcionalidad de Suscripción está activa para ese SKU y también cuál será la frecuencia disponible. 
 
@@ -39,7 +41,9 @@ Para crear un anexo de SKU, siga los pasos a continuación.
     * `vtex.subscription.prueba`
 5. Deje la casilla de selección **Anexo obligatorio** sin marcar.
 
->⚠️ El campo **Anexo obligatorio** no se debe marcar. Si el anexo se marca como obligatorio, el sistema de **Suscripciones** intentará enviar un pedido de suscripción para un ítem que ya tiene un anexo obligatorio, lo que generará un error en el sistema. Si esto ocurre por equivocación, quite la marca de la casilla **Anexo obligatorio** y solicite al cliente de su tienda que intente realizar el pedido nuevamente.
+<div class="alert alert-warning">
+  <p>El campo <strong>Anexo obligatorio</strong> no se debe marcar. Si el anexo se marca como obligatorio, el sistema de <strong>Suscripciones</strong> intentará enviar un pedido de suscripción para un ítem que ya tiene un anexo obligatorio, lo que generará un error en el sistema. Si esto ocurre por equivocación, quite la marca de la casilla <strong>Anexo obligatorio</strong> y solicite al cliente de su tienda que intente realizar el pedido nuevamente.</p>
+</div>
 
 6. En **Status**, marque la casilla **Activa/Desactiva el anexo**, y haga clic en `Salvar` para guardar los cambios.
 
@@ -67,13 +71,15 @@ Siga las instrucciones a continuación para configurar la frecuencia y fechas de
 
         * **Semanalmente:** los valores posibles para completar este campo son = `0`, `1`, `2`, `3`, `4`, `5` y `6`, que equivalen a los días de la semana. Considere `0` = domingo, `1` = lunes, `2` = martes, y así sucesivamente hasta `6` = sábado. Separe los valores con `,`, según se muestra a continuación.
 
-        ![ES Assinatura Exemplo Valores week](https://images.ctfassets.net/alneenqid6w5/1KDaD3iRFBwt7xrikkB8V9/ecfe9cb9da8bb798d410f5d709c8b04d/ES_Assinatura_Exemplo_Valores_week.png)
+        ![ES Assinatura Exemplo Valores week](//images.ctfassets.net/alneenqid6w5/1KDaD3iRFBwt7xrikkB8V9/ecfe9cb9da8bb798d410f5d709c8b04d/ES_Assinatura_Exemplo_Valores_week.png)
 
         * **Mensualmente:** los valores posibles para rellenar este campo en el _checkout_ son = `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, (...) hasta `28`, que equivalen a los días del mes. Considere `1` = primer día del mes, `2` = segundo día del mes, `3` = tercer día del mes, y así sucesivamente hasta `28` = vigésimo octavo día del mes. Separe los valores con `,`, según se muestra a continuación.
 
-        ![ES Assinatura Exemplo Valores month](https://images.ctfassets.net/alneenqid6w5/5tbntKlv4WeYUXQtM8EMGz/84d58a31d1b449fdbdfad60fae5dec0d/ES_Assinatura_Exemplo_Valores_month.png)
+        ![ES Assinatura Exemplo Valores month](//images.ctfassets.net/alneenqid6w5/5tbntKlv4WeYUXQtM8EMGz/84d58a31d1b449fdbdfad60fae5dec0d/ES_Assinatura_Exemplo_Valores_month.png)
 
->ℹ️ Si no se introduce ningún valor en el campo **Valores permitidos**, la fecha del ciclo de suscripción será el mismo día de la semana (si la frecuencia es semanal) o día del mes (si la frecuencia es mensual) del pedido original.
+<div class="alert alert-info">
+  <p>Si no se introduce ningún valor en el campo <strong>Valores permitidos</strong>, la fecha del ciclo de suscripción será el mismo día de la semana (si la frecuencia es semanal) o día del mes (si la frecuencia es mensual) del pedido original.</p>
+</div>
 
 ### Asociar el anexo a un SKU
 

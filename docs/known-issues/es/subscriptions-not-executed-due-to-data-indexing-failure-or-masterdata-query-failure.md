@@ -18,7 +18,9 @@ internalReference: 961526
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La creación de solicitudes de suscripción depende del retorno de una consulta realizada a la base de datos de suscripciones, esta consulta se realiza periódicamente para identificar qué suscripciones deben ejecutarse en ese periodo, si esta consulta falla o no devuelve una suscripción en particular, su ciclo no se ejecuta, y no se registra ningún error, resultando así una suscripción con la próximaFechaDeCompra en el pasado.

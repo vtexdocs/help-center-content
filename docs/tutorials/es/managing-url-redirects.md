@@ -27,7 +27,7 @@ Para crear, editar o eliminar redirecciones, el usuario del Admin VTEX debe tene
 4. En la casilla de selección, indica si la redirección es temporal o permanente. Si es temporal, debes definir la fecha de fin.
 5. Haz clic en `Guardar` para finalizar.
 
-![gerenciando redirecionamentos es 1](https://images.ctfassets.net/alneenqid6w5/6WZzZNgQPLtfwP1Z8fK7S9/ca2f417ea225d8d6875f37c31d0847a7/image5.png)
+![gerenciando redirecionamentos es 1](//images.ctfassets.net/alneenqid6w5/6WZzZNgQPLtfwP1Z8fK7S9/ca2f417ea225d8d6875f37c31d0847a7/image5.png)
 
 ## Importar redirección
 Para importar una redirección, sigue los pasos a continuación.
@@ -46,5 +46,7 @@ Algunos editores, como Google Sheets, exportan los archivos CSV con la coma (<co
 
 Si deseas exportar tus redirecciones, haz clic en <i class="fas fa-download"></i> `Exportar` y se descargarán a tu computadora.
 
->ℹ️ No se puede crear redirecciones con rutas predefinidas como “home” "/", "login", "account", etc. Recomendamos la creación manual según las instrucciones descritas anteriormente.
+<div class="alert alert-info">
+No se puede crear redirecciones con rutas predefinidas como “home” "/", "login", "account", etc. Recomendamos la creación manual según las instrucciones descritas anteriormente.
+</div>
 

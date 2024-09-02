@@ -18,7 +18,9 @@ internalReference: 862830
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se o recurso de agendamento de entrega estiver em uso e a capacidade de entrega estiver ativada, há dois cenários conhecidos que podem tornar a janela disponível mesmo depois de ter atingido o limite máximo de capacidade configurado.

@@ -46,7 +46,9 @@ El [Seller Portal](https://help.vtex.com/es/tutorial/seller-portal-primeiros-pas
 
 Esta herramienta es una opción recomendada para los _marketplaces_ que deseen tener más control sobre la curación de los productos que ofrecen.
 
->ℹ️ Para activar el Seller Portal para sus sellers, el marketplace debe solicitar esta funcionalidad poniéndose en contacto con el CSM de su cuenta VTEX.
+<div class="alert alert-info">
+Para activar el Seller Portal para sus sellers, el marketplace debe solicitar esta funcionalidad poniéndose en contacto con el CSM de su cuenta VTEX. 
+</div>
 
 ## Catalogar anuncios
 
@@ -54,7 +56,9 @@ Un producto de un_ seller_ que haya sido enviado al _marketplace_ con la informa
 
 El proceso de catalogación se realiza en la página de [SKU recibidos](https://help.vtex.com/es/tutorial/sugerindo-e-aprovando-skus/) en el menú **MARKETPLACE > Sellers** de tu Admin VTEX o a través de llamadas a la API de [Match Received SKUs](https://developers.vtex.com/vtex-rest-api/reference/match). 
 
->ℹ️ Antes de aprobar un anuncio, es importante asegurarse de que la información de producto enviada por el seller coincida con tu estrategia comercial. A la hora de catalogar anuncios, ten en cuenta la calidad de la información enviada por el seller, como el precio, la descripción del producto y la imagen.
+<div class="alert alert-info">
+Antes de aprobar un anuncio, es importante asegurarse de que la información de producto enviada por el seller coincida con tu estrategia comercial. A la hora de catalogar anuncios, ten en cuenta la calidad de la información enviada por el seller, como el precio, la descripción del producto y la imagen.
+</div>
 
 [VTEX Matcher](https://help.vtex.com/es/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424) es la herramienta utilizada por los _marketplaces_ para evaluar los anuncios enviados por los _sellers_ y acelerar el proceso de catalogación. Es posible configurar VTEX Matcher para que funcione con reglas diferentes a la configuración _por defecto_ a través de la [API de Aprobación automática](https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig).
 

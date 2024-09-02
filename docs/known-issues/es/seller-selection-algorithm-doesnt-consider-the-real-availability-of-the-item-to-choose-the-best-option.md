@@ -18,7 +18,9 @@ internalReference: 360097
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El algoritmo de selección de vendedores tiene en cuenta el stock de los artículos para seleccionar el mejor vendedor de marca blanca para un contexto determinado.

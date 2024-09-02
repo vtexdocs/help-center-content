@@ -1,5 +1,5 @@
 ---
-title: "As prestações caem no checkout UI está 'solta' quando se rola a tela"
+title: 'As prestações caem no checkout UI está "solta" quando se rola a tela'
 id: 0bbx1aDD7qw3DmaeMOebp
 status: PUBLISHED
 createdAt: 2022-03-10T20:07:05.251Z
@@ -18,7 +18,9 @@ internalReference: 540257
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao abrir a caixa de pagamento e rolar outra página de checkout, pode-se ver que a caixa de pagamento sai e está solta na tela de checkout.

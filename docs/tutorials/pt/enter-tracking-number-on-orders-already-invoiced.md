@@ -24,7 +24,9 @@ Você pode inserir o número de rastreio (tracking number) em pedidos já fatura
 5. Preencha o campo **Número de rastreio** com o número.
 6. CLique em `Salvar`.
 
->⚠️ O Admin VTEX não permite a importação em massa, por arquivos, dos números de rastreio de pedidos. O método normalmente usado para isso é a integração entre a VTEX e o ERP da loja. Se o seu ERP está integrado à VTEX, é possível fazer essa importação via API.
+<div class="alert alert-warning">
+O Admin VTEX não permite a importação em massa, por arquivos, dos números de rastreio de pedidos. O método normalmente usado para isso é a integração entre a VTEX e o ERP da loja. Se o seu ERP está integrado à VTEX, é possível fazer essa importação via API.
+</div>
 
 ### Saiba mais
 

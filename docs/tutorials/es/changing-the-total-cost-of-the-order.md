@@ -17,7 +17,9 @@ subcategory: 3VNOhxDrvYxJThhuJClrYZ
 
 La página [Detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalles-del-pedido-beta--2Y75n54Cc9VizrlG1N6ZNl) permite modificar el valor final del pedido para los pedidos que aún no han sido facturados. Esto ocurre en los escenarios en los que hay descuentos o adiciones al valor.
 
->⚠️ Recuerda que la funcionalidad solo está disponible para los pedidos con el status `Preparando entrega`.
+<div class="alert alert-warning">
+Recuerda que la funcionalidad solo está disponible para los pedidos con el status <code>Preparando entrega</code>.
+</div>
 
 Para hacer el cambio, sigue los pasos a continuación:
 
@@ -26,13 +28,13 @@ Para hacer el cambio, sigue los pasos a continuación:
 3. Haz clic en el pedido para acceder a la página de **Detalles del pedido**.   
 4. En la página *Detalles del pedido*, ve a la sección **Costo total del pedido**.
 5. Haz clic en `Cambiar el costo final`.  
-![valorfinalES](https://images.ctfassets.net/alneenqid6w5/5VwpodKoIiDSWBwYQs2rDc/625d67dbe3011b8aea8574e247f9a2d4/valorfinalES__1_.png)  
+![valorfinalES](//images.ctfassets.net/alneenqid6w5/5VwpodKoIiDSWBwYQs2rDc/625d67dbe3011b8aea8574e247f9a2d4/valorfinalES__1_.png)  
 6. Se abrirá la página **Cambiar el valor**, en la que debes rellenar los siguientes campos obligatorios:  
 7.  Rellena los campos obligatorios:
     * **Valor:** Selecciona Descuento o Aumentar e introduce el valor que deseas modificar.  
     * **Razón**: indica los motivos del cambio.  
 8. En la parte derecha de la página, haz clic en `Enviar`;
-![Alterar valorES](https://images.ctfassets.net/alneenqid6w5/15TldKoBz42ds5fJswW13O/8488873894611990391d7bb132ab9c04/Alterar_valorES.png)
+![Alterar valorES](//images.ctfassets.net/alneenqid6w5/15TldKoBz42ds5fJswW13O/8488873894611990391d7bb132ab9c04/Alterar_valorES.png)
 
 Los cambios en el pedido se actualizarán en la sección *Ítems a Facturar*, y en el *Historial de Pedidos*. Ten en cuenta que el valor total del pedido también cambiará.
 
@@ -42,4 +44,6 @@ Al cambiar o eliminar ítems de un pedido, el valor total del pedido cambia. En 
 
 El valor total del pedido se actualizará después de que se inserte la factura, y corresponde al valor capturado por el gateway de pagos de VTEX. Si el cliente devuelve un ítem, el reembolso se realizará automáticamente a través del sistema de Pagos de VTEX.
 
->ℹ️ La funcionalidad de facturas parciales está disponible para toda la base de clientes VTEX, pero la liquidación parcial en el gateway se encuentra en la versión Beta. Además, para que las facturas parciales disparen liquidaciones parciales en la transacció, es necesario utilizar un conector que utilice el [Payment Provider Protocol](https://help.vtex.com/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Los conectores legados no admiten la funcionalidad.
+<div class = "alert alert-info">
+La funcionalidad de facturas parciales está disponible para toda la base de clientes VTEX, pero la liquidación parcial en el gateway se encuentra en la versión Beta. Además, para que las facturas parciales disparen liquidaciones parciales en la transacció, es necesario utilizar un conector que utilice el <a href="https://help.vtex.com/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m">Payment Provider Protocol</a>. Los conectores legados no admiten la funcionalidad.
+</div>

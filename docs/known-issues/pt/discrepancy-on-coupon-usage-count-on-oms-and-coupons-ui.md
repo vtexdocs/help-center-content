@@ -18,7 +18,9 @@ internalReference: 954959
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns pedidos não estão sendo recuperados no uso dos cupons, identificamos que alguns pedidos não estavam sendo contados pelo administrador de cupons.

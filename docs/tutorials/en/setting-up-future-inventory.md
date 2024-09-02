@@ -15,13 +15,17 @@ legacySlug: setting-up-future-inventory
 subcategory: 32vrn4K2ZscjUaIBe6w5fm
 ---
 
->ℹ️ This feature is in closed beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://support.vtex.com/hc/pt-br/requests).
+<div class="alert alert-info">
+<p>This feature is in closed beta, which means that we are working to improve it. If you have any questions, please contact <a href="https://support.vtex.com/hc/pt-br/requests">our Support</a>.</p>
+</div>
 
 For some ecommerce operations, it is useful to have the ability to sell an item that is not available for immediate delivery, but that has an estimated date of arrival at the stock. The __Future Inventory__ feature allows just that.
 
 ## How Future inventory works
 
->⚠️ Currently the configuration of Future Inventory is available only <a target="_blank" href="https://developers.vtex.com/reference/inventory#savesupplylot">via API</a>.
+<div class="alert alert-warning">
+Currently the configuration of Future Inventory is available only <a target="_blank" href="https://developers.vtex.com/reference/inventory#savesupplylot">via API</a>.
+</div>
 
 The Future Inventory API allows you to register a __Supply Lot__. This lot represents future inventory and carries two main pieces of information:
 - Quantity of items.
@@ -33,7 +37,8 @@ In such case, purchases of these SKUs will consume the items available in the su
 
 >Final delivery time = Delivery SLA + Deadline for receiving the supply lot
 
->ℹ️ If the date of receipt is earlier than the date of the shipping calculation, the additional time will be 0 (zero), since - in this case - the supply lot has already been received.
+<div class="alert alert-info">
+If the date of receipt is earlier than the date of the shipping calculation, the additional time will be 0 (zero), since - in this case - the supply lot has already been received.</div>
 
 Check out the documentation for the endpoint used to save Future Inventory:
 [Save Supply Lot](https://developers.vtex.com/reference/inventory#savesupplylot)
@@ -53,7 +58,9 @@ When using the Future Inventory API, be aware of the following restrictions:
 
 You can transfer inventory from a supply lot to immediate delivery inventories. This transfer causes the items to be considered immediately available. With that, there is no additional time in the shipping SLA.
 
->ℹ️ The transfer to immediate delivery frees up space to register a new lot. That is, if your store has 10 registered lots (the limit currently allowed) and you transfer 2 of them to immediate delivery, you now have 8 registered lots and two spaces available.
+<div class="alert alert-info">
+The transfer to immediate delivery frees up space to register a new lot. That is, if your store has 10 registered lots (the limit currently allowed) and you transfer 2 of them to immediate delivery, you now have 8 registered lots and two spaces available.
+</div>
 
 Check out the documentation for the endpoint used to transfer a Future Inventory to immediate delivery:
 [Transfer Supply Lot](https://developers.vtex.com/reference/inventory#transfersupplylot)

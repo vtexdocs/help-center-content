@@ -18,7 +18,9 @@ internalReference: 434026
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Frequentemente, ao tentar salvar os dados de um grupo de coleções usando o aplicativo de coleções legado, no caminho /admin/a e ao tentar salvar o grupo, o usuário, em casos de catálogos grandes (grande quantidade de categorias, marcas, produtos), recebe uma mensagem de erro de tempo limite e não consegue salvar as alterações.
 

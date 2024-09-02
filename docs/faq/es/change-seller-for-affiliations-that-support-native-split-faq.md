@@ -31,7 +31,7 @@ Por eso, para tener acceso al cambio de seller, la afiliación con split se debe
 - __Utilizar el comportamiento recomendado del procesador de pagos__.
 - __Desactivado: No se captura automáticamente__.
 
-![Captura de Pago Automática](https://images.ctfassets.net/alneenqid6w5/2QsxlUck2BOohNQ8sQUZDL/0c82ee9775c65757ccfd014d8dd910eb/Captura_De_Pago.png)
+![Captura de Pago Automática](//images.ctfassets.net/alneenqid6w5/2QsxlUck2BOohNQ8sQUZDL/0c82ee9775c65757ccfd014d8dd910eb/Captura_De_Pago.png)
 
 ### ¿Al seleccionar el comportamiento de liquidación que no es automático, cuándo se liquidará el pago?
 
@@ -53,7 +53,9 @@ No. Los pagos con split soportan el cambio de seller solamente cuando se realiza
 
 Por tanto, no podemos ofrecer una ventana de tiempo para la realización del cambio de seller. 
 
->⚠️ Si intenta cambiar de seller con medios de pago que no sean tarjeta de crédito, recibirá el siguiente mensaje de error en la llamada de la API: «Error when updating additional data for transaction = 722726D8B04C4AAFB1EC945076FD2913. Payout split was already done»
+<div class="alert alert-warning">
+  Si intenta cambiar de seller con medios de pago que no sean tarjeta de crédito, recibirá el siguiente mensaje de error en la llamada de la API: «Error when updating additional data for transaction = 722726D8B04C4AAFB1EC945076FD2913. Payout split was already done»
+  </div>
 
 ### ¿Se podrá realizar reembolsos parciales o totales de los pedidos?
 
@@ -81,7 +83,9 @@ Sin embargo, fue necesario cambiar de *seller* y, después del cambio, el pedido
 
 En la pantalla del *seller* Partner02, podemos observar una reducción de BRL 0,28 en el precio del producto, que se identifica como «Descuento de Coinshop» (a pesar de que el precio para el *seller* Partner02 es BRL 0,30, el valor que se le paga es BRL 0,02). 
 
->ℹ️ Cabe destacar que, en este caso, cambiar de seller fue posible porque la diferencia era menor a BRL 0,30; sin embargo, si fuera BRL 0,31 o más, no se podría cambiar de seller.
+<div class="alert alert-info">
+  Cabe destacar que, en este caso, cambiar de seller fue posible porque la diferencia era menor a BRL 0,30; sin embargo, si fuera BRL 0,31 o más, no se podría cambiar de seller.
+  </div>
 
 Después de facturar el pedido, se liquidó el valor BRL 5,02 y se aprobó la división del pago.
 
@@ -109,7 +113,9 @@ Con relación a la repartición de esas cuentas por cobrar con el seller, la div
 | Marketplace Coinshop      | Comisión sobre valor de producto = 10% (de BRL 0,60)       | 0,06 (solo ilustrativo)      |
 | Japacoin    | Valor total del pedido - comisión = BRL 0,60-0,06       | 0,64 (solo ilustrativo)     |
 
->ℹ️ Es importante recordar que, si el precio que tiene el nuevo seller es más bajo que el precio del seller original, no habrá un bloqueo de seguridad de BRL 0,30.
+<div class="alert alert-info">
+  Es importante recordar que, si el precio que tiene el nuevo seller es más bajo que el precio del seller original, no habrá un bloqueo de seguridad de BRL 0,30.
+  </div>
 
 Por tanto, aunque el precio para el seller Japacoin es BRL 0,04, el valor dividido es BRL 0,60. 
 

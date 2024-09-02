@@ -18,7 +18,9 @@ internalReference: 888304
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 Las listas de productos y los resultados de búsqueda pueden estar mal ordenados/filtrados al utilizar la ordenación o el filtrado por precio o descuento si hay precios de artículos obsoletos a nivel de índice, incluso si el escaparate muestra el precio correcto.
 
