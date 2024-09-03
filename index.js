@@ -153,9 +153,9 @@ function createMarkdownFile(entry) {
   }
 
   let trackId = fields.trackId?.pt.sys.id || "";
-  let trackSlugEN = fields.trackSlug?.en || "untitled track";
-  let trackSlugES = fields.trackSlug?.es || "untitled track";
-  let trackSlugPT = fields.trackSlug?.pt || "untitled track";
+  let trackSlugEN = fields.trackSlug?.en || "untitled-track";
+  let trackSlugES = fields.trackSlug?.es || "untitled-track";
+  let trackSlugPT = fields.trackSlug?.pt || "untitled-track";
 
   if (contentType === "track") {
     contentTypes.tracks.push(entry);
@@ -186,14 +186,14 @@ function createMarkdownFile(entry) {
 
   let productTeam = fields.xpTeam?.pt || "unknown";
   let subcategory = fields.subcategory?.pt.sys.id || "untitled subcategory";
-  let titleEN = fields.title?.en || "";
-  let titleES = fields.title?.es || "";
-  let titlePT = fields.title?.pt || "";
+  let titleEN = fields.title?.en || "Untitled";
+  let titleES = fields.title?.es || "Untitled";
+  let titlePT = fields.title?.pt || "Untitled";
   let author = fields.author?.pt[0].sys.id || "";
   let tag = fields.tag?.pt || "";
-  let slugEN = fields.slug?.en || "";
-  let slugES = fields.slug?.es || "";
-  let slugPT = fields.slug?.pt || "";
+  let slugEN = fields.slug?.en || "untitled";
+  let slugES = fields.slug?.es || "untitled";
+  let slugPT = fields.slug?.pt || "untitled";
   let legacySlugEN = fields.legacySlug?.en || "";
   let legacySlugES = fields.legacySlug?.es || "";
   let legacySlugPT = fields.legacySlug?.pt || "";
