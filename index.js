@@ -762,7 +762,7 @@ ${textPT}
     return;
   }
 
-  const maxFileNameLength = 70;
+  const maxFileNameLength = 50;
   const trimFileName = (name) => {
       if (name.length <= maxFileNameLength) return name;
       return name.substring(0, name.lastIndexOf('-', maxFileNameLength));
