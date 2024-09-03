@@ -49,7 +49,21 @@ async function getCategories() {
 
       for (let j = 0; j < entries.items.length ; j++) {
         let entry = entries.items[j];
-        createCategoryFolders(entry);
+        
+        let contentType = entry.sys.contentType.sys.id;
+        if (contentType === "category") {
+          let categoryEN = entry.fields.title?.en || "Untitled category";
+          let categoryPT = entry.fields.title?.pt || "Untitled category";
+          let categoryES = entry.fields.title?.es || "Untitled category";
+          let categoryId = entry.sys.id;
+          let categorySubcategories = [];
+          if ("subcategories" in entry.fields) {
+            for (k = 0; k < entry.fields.subcategories.pt.length; k++) {
+              categorySubcategories.push(entry.fields.subcategories.pt[k].sys.id);
+            }
+          }
+          categories.push({"categoryEN": categoryEN, "categoryPT": categoryPT, "categoryES": categoryES, "categoryId": categoryId, "categorySubcategories": categorySubcategories})
+        }
       }
       skip += limit;
     } while (skip < totalCount);
@@ -101,7 +115,6 @@ async function getSubcategories() {
     }
   });
 
-  createSubcategoryFolders(subcategories);
   return subcategories;
 }
 
@@ -200,38 +213,6 @@ function isArchived(entry) {
   return !!entry.sys.archivedVersion;
 }
 
-function createCategoryFolders(entry) {
-  let contentType = entry.sys.contentType.sys.id;
-  if (contentType === "category") {
-    let categoryEN = entry.fields.title?.en || "Untitled category";
-    let categoryPT = entry.fields.title?.pt || "Untitled category";
-    let categoryES = entry.fields.title?.es || "Untitled category";
-    let categoryId = entry.sys.id;
-    let categorySubcategories = [];
-    if ("subcategories" in entry.fields) {
-      for (k = 0; k < entry.fields.subcategories.pt.length; k++) {
-        categorySubcategories.push(entry.fields.subcategories.pt[k].sys.id);
-      }
-    }
-    categories.push({"categoryEN": categoryEN, "categoryPT": categoryPT, "categoryES": categoryES, "categoryId": categoryId, "categorySubcategories": categorySubcategories})
-    try {
-      if (!fs.existsSync(`./docs/tutorials`)) {
-        fs.mkdirSync(`./docs/tutorials`);
-      }
-    } catch (err) {
-      console.log("Error creating tutorials folder", err);
-    }
-    try {
-      if (!fs.existsSync(`./docs/tutorials/${categoryEN}`.replace(": ", " - "))) {
-        fs.mkdirSync(`./docs/tutorials/${categoryEN}`.replace(": ", " - "));
-      }
-    } catch (err) {
-      console.log("Error creating category folder", err);
-    }
-    return;
-  }
-}
-
 function getSubcategoryInfo(entry) {
   let contentType = entry.sys.contentType.sys.id;
   if (contentType === "subcategory") {
@@ -242,32 +223,6 @@ function getSubcategoryInfo(entry) {
     let categoryId = entry.fields.category?.pt.sys.id || "";
     subcategories.push({"subcategoryEN": subcategoryEN, "subcategoryPT": subcategoryPT, "subcategoryES": subcategoryES, "subcategoryId": subcategoryId, "categoryId": categoryId});
     return subcategories;
-  }
-}
-
-function createSubcategoryFolders(subcategories) {
-  for (let a = 0; a < subcategories.length ; a++) {
-    try {
-      if (!fs.existsSync(`./docs/tutorials`)) {
-        fs.mkdirSync(`./docs/tutorials`);
-      }
-    } catch (err) {
-      console.log("Error creating tutorials folder", err);
-    }
-    try {
-      if (!fs.existsSync(`./docs/tutorials/${subcategories[a].categoryName}`.replace(": ", " - "))) {
-        fs.mkdirSync(`./docs/tutorials/${subcategories[a].categoryName}`.replace(": ", " - "));
-      }
-    } catch (err) {
-      console.log("Error creating category folder", err);
-    }
-    try {
-      if (!fs.existsSync(`./docs/tutorials/${subcategories[a].categoryName}/${subcategories[a].subcategoryEN}`.replace(": ", " - "))) {
-        fs.mkdirSync(`./docs/tutorials/${subcategories[a].categoryName}/${subcategories[a].subcategoryEN}`.replace(": ", " - "));
-      }
-    } catch (err) {
-      console.log("Error creating subcategory folder", err);
-    }
   }
 }
 
@@ -762,26 +717,17 @@ ${textPT}
     return;
   }
 
-  const maxFileNameLength = 50;
-  const trimFileName = (name) => {
-      if (name.length <= maxFileNameLength) return name;
-      return name.substring(0, name.lastIndexOf('-', maxFileNameLength));
-  };
-
   let fileContents = [fileContentEN, fileContentES, fileContentPT];
   for (let i = 0; i < locales.length; i++) {
     // Construct the paths
-    const baseFolder = path.join('./docs', fileFolders).replace(": ", " - ");
-    const subFolder = path.join(baseFolder, fileSubFolder).replace(": ", " - ");
+    const localeFolder = path.join('./docs', locales[i]);
+    const baseFolder = path.join(localeFolder, fileFolders);
+    const subFolder = fileSubFolder ? path.join(baseFolder, fileSubFolder).replace(": ", " - ") : null;
     const subcategoryFolder = fileSubcategoryFolder ? path.join(subFolder, fileSubcategoryFolder).replace(": ", " - ") : null;
-    const fileFolderName = subcategoryFolder 
-    ? path.join(subcategoryFolder, trimFileName(fileNameEN.replace(": ", " - "))) 
-    : path.join(subFolder, trimFileName(fileNameEN.replace(": ", " - ").replace(".md", "")));
-    const localeFolder = path.join(fileFolderName, locales[i]).replace(": ", " - ");
-    const filePath = path.join(localeFolder, fileNameEN).replace(": ", " - ");
+    const filePath = fileSubcategoryFolder ? path.join(subcategoryFolder, fileNameEN).replace(": ", " - ") : fileSubFolder ? path.join(subFolder, fileNameEN).replace(": ", " - ") : path.join(baseFolder, fileNameEN).replace(": ", " - ");
   
     // Array of folders to create
-    const foldersToCreate = [baseFolder, subFolder, subcategoryFolder, fileFolderName, localeFolder].filter(Boolean);
+    const foldersToCreate = [localeFolder, baseFolder, subFolder, subcategoryFolder].filter(Boolean);
   
     // Create each folder if it doesn't exist
     try {
