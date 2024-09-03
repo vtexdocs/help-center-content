@@ -1,10 +1,10 @@
 ---
 title: 'Por que a promoção não foi aplicada ao marketplace?'
 id: frequentlyAskedQuestions_676
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-04-27T22:30:24.833Z
-updatedAt: 2021-12-07T15:05:19.317Z
-publishedAt: 2021-12-07T15:05:19.317Z
+updatedAt: 2024-08-16T11:45:31.813Z
+publishedAt: 
 firstPublishedAt: 2017-04-27T23:02:27.428Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels

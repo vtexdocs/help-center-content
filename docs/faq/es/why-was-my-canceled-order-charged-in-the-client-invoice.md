@@ -3,8 +3,8 @@ title: '¿Por qué se cobró en la factura del cliente mi pedido cancelado?'
 id: frequentlyAskedQuestions_492
 status: PUBLISHED
 createdAt: 2017-04-27T22:34:48.023Z
-updatedAt: 2023-03-20T21:28:24.133Z
-publishedAt: 2023-03-20T21:28:24.133Z
+updatedAt: 2024-08-13T18:57:07.052Z
+publishedAt: 2024-08-13T18:57:07.052Z
 firstPublishedAt: 2017-04-27T23:02:22.399Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
@@ -20,6 +20,6 @@ Sin embargo, no es siempre que el conector autoriza el extorno automático, y re
 
 Cuando el módulo de pago envía un email informando que es necesario el extorno manual, el mensaje que surge en la interacción de la transacción en el módulo es la siguiente: 
 
-> Source Message: `The e-mail with subject gateway-extorno-manual-requerido has been successfully sent to usuario@tienda.com`.
+Source Message: `The e-mail with subject gateway-extorno-manual-requerido has been successfully sent to usuario@tienda.com`.
 
 Cuando surge ese mensaje en la interacción, después de un intento de cancelación y extorno, de una transacción que ya tuvo el pago aprobado y/o liquidado, significa que no fue posible hacer el extorno en línea de forma automática junto al conector y será necesario efectuar el extorno manualmente.

@@ -3,8 +3,8 @@ title: 'Setting up Cart Abandonment (Trigger)'
 id: tutorials_740
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:05.882Z
-updatedAt: 2024-06-24T14:49:04.124Z
-publishedAt: 2024-06-24T14:49:04.124Z
+updatedAt: 2024-08-09T13:03:53.859Z
+publishedAt: 2024-08-09T13:03:53.859Z
 firstPublishedAt: 2017-04-27T23:03:41.572Z
 contentType: tutorial
 productTeam: Shopping
@@ -18,19 +18,20 @@ subcategory: 6XAvmMxp7yyY06ewYMuggs
 Abandoned cart is VTEX's functionality that sends emails to customers to remind them to checkout on a cart that has been assembled but not completed.
 
 The abandoned cart configuration can be performed in two different ways, according to the store's operating environment:
-- [VTEX Legacy](#configuration-for-vtex-legacy-stores): through various modules of the VTEX platform (CMS, Master Data and Message Center) and also on your host server.
+
+- [Legacy CMS Portal](#configuration-for-legacy-cms-portal-stores): through various modules of the VTEX platform (CMS, Master Data and Message Center) and also on your host server.
 - [VTEX IO](#configuration-for-vtex-io-stores): through the installation of the “Abandoned Cart” app, configuration of the email template in the Message Center, and the Trigger in the Master Data.
 
-### Configuration for VTEX Legacy stores
+## Configuration for Legacy CMS Portal stores
 
 This section presents the following topics for configuring the abandoned cart functionality in VTEX Legacy stores:
 
 - [Configuring email template in CMS](#configuring-email-template-in-cms)
 - [Configuring email template in Message Center](#configuring-email-template-in-message-center)
 - [SPF release](#spf-release)
-- [Trigger configuration](#trigger-configuration)
+- [Configuring trigger](#configuring-trigger)
 
-#### Configuring email template in CMS
+### Configuring email template in CMS
 
 You can create your own custom email template or use the default template option for abandoned cart. To create a custom template, follow these steps:
 
@@ -44,13 +45,15 @@ You can create your own custom email template or use the default template option
 
 >⚠️ We recommend that template customization should be performed by professionals with experience in the CMS module, and preferably, who have already configured other page and shelf templates.
 
+To use a standard template option, follow the steps below:
+
 1. In the VTEX Admin, go to __Storefront > Layout__, or type __Layout__ in the search bar at the top of the page.
 2. Under __CMS > HTML__ Templates, click on the `CEM-Abandoned-Cart` icon.
 3. Check the information of the template codes present in the __Template XHTML__ field.
 
 ![CEM-Abandoned-Cart](https://images.ctfassets.net/alneenqid6w5/5ZBXBk2KNJVjekmT7P7RqQ/45690f27bc8825ff3819ac3204d168e8/CEM-Abandoned-Cart.PNG)
 
-#### Configuring email template in Message Center
+### Configuring email template in Message Center
 
 Once the new email template has been created or the data from the default template has been used, access the Message Center to configure the email template. Follow the steps below:
 
@@ -67,7 +70,7 @@ Once the new email template has been created or the data from the default templa
 
 ![New template - message center](https://images.ctfassets.net/alneenqid6w5/7nX1YnaZoesV51yG24Z3ls/72c7499b2fdc65ee661c3cb45a387a60/new_template.PNG)
 
-#### SPF Release
+### SPF Release
 
 The SPF release is essential to avoid problems with email deliverability and must be performed according to this article on [SPF configuration](https://help.vtex.com/en/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI#).
 
@@ -77,95 +80,60 @@ As a good practice for configuring DNS for a generic domain (not mandatory), fol
 
 Learn more at [Setting up DNS pointing to VTEX](https://help.vtex.com/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
 
-#### Trigger configuration
+### Configuring trigger
 
-In this configuration, you have to create a [trigger in Master Data](https://help.vtex.com/en/tutorial/criando-trigger-no-master-data#). The process consists in filling in some values to determine the trigger. 
+In this step, you must create a [trigger in Master Data](https://help.vtex.com/en/tutorial/criando-trigger-no-master-data--tutorials_1270 "trigger no Master Data"), which involves completing some values to determine the trigger and defining some filters:
 
-These include three additional filters, such as:
+- __Checkout:__ The trigger will be enabled if the checkout is not completed and is different from null, i.e., if the customer does not place the order.
+- __Cart:__ Refers to the last products the customer added to the shopping cart. The trigger will be enabled if the value is different from null.
+- __Last cart:__ Records the date and time the cart was created. The trigger will be enabled if the value is different from null.
+- __Receives newsletter?:__ Ensures compliance with the <a href="https://help.vtex.com/pt/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM">rights of data subjects</a>, since only customers subscribed to the newsletter will receive abandoned cart emails. Subscription to your store's newsletter can be managed at checkout or in the <a href="https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#perfil">My Account</a> section of your store. The trigger will be enabled if the value is true.
 
-- Checkout
-- Shopping cart
-- Last shopping cart
+For the trigger to be successfully activated, the filters must be completed following the instructions below:
 
-The "Checkout" filter sets one of the conditions to trigger. In the example below, the trigger will be released when the shopping cart is not finalized and other than null. So, when the customer does not complete the purchase and has not added anything else to the shopping cart. 
+1. In the VTEX Admin, go to __Store Settings > Storefront > Master Data__.
+2. In Master Data, click __Applications > Advanced Settings > Data structure__.
+3. Click the __Trigger__ tab.
+4. Click the `Add New` button.
+5. Complete the following fields:
 
-In addition, we also have the "Cart" and "Last Cart" filters. Although they seem to be similar, their behavior is different. The "Cart" refers to the last products a customer added to the shopping cart. The "Last Cart" consists of the date and time when the cart was created. 
+   * **Name:** Enter the trigger name.
+   * **Data Entity:** Select the Customer entity.
+   * **Status:** Check the __Enabled__ option.
+6. On the **Rules** tab, select *An attribute value is changed*.
+7. Under **Field**, select *Last session*.
+8. Click `Add Filter` five times to display the filter fields. Select them and complete the information as shown below:
 
-<div class="alert-warning">In order for the trigger to be triggered, the three filters must be filled in according to the example below.
-</div>
+   - *Checkout - Different from - Completed - and*
+   - *Checkout – Is not null – and*
+   - *Cart - Is not null - and*
+   - *Last cart - Is not null - and*
+   - *Receives newsletter? - Equal to - true*
 
-<blockquote><ui>1. In the VTEX Admin, access <b>Store Settings</b> > <b>Storefront</b> > <b>Master Data.</b></ui>
+9. Click the __Schedule__ tab and select whether the email should be sent as soon as possible, on a specific date or on a dynamic date.
+10. Click the __If Positive__ tab.
+11. Complete the fields following the instructions below:
 
-<blockquote><ui>2. In Master Data, click <b>Aplications</b> > **Data structure.</b></ui>
+	* **Action:** Select _Send an email_.
+	* **Recipient: Enter your email as a test, and click `Add Static Email`.
+	* **Email body format**: Select _HTML_.
+	* **Sender's name:** Enter your store name as you want it to be displayed as the email sender.
+	* **Reply to:** Enter the email address to which the customer can reply.
+	* __Content type:__ Select *URL content*.
+	* __Subject:__ Enter the subject of the email.
+	* __URL:__ Enter your store's address, including the folders where the layout of the abandoned cart was configured, followed by the cart tag `{!carttag_SCORE}`. Example: `storename.com.br/CEM/Abandoned-Cart?refs={!carttag_SCORE}`.
+	* In **Add utm_source to all links with this value:** Enter *CEM* to facilitate the identification of purchases made via abandoned cart.
+	* __Overwrite utm_source:__ Check this option.
 
-<blockquote><ui>2. Click on the <b>Trigger</b> tab.</ui>
+12. Click `Save`.
+13. Create a cart and close the page to test the trigger.
 
-<blockquote><ui>3. Click on the <b>Add New</b> button.</ui>  
+  >⚠️ A page session expires in 30 minutes. Only after this time does Master Data start counting the time scheduled for the Abandoned Cart trigger. Therefore, the time until the email arrives corresponds to the session time (30 minutes) plus the time scheduled in the trigger.
 
-<blockquote><ui>4. Enter the name of the trigger.</ui>
+13. Once you have received the abandoned cart message in your email, in the __Recipient__ field (step 12), select the __CL:Email__ option and click `Add Dynamic Email`.
+14. Click `Save`.
 
-<blockquote><ui>5. In <b>Data Entity</b>, select the <b>Client</b> (Customer) value.</ui>
-
-<blockquote><ui>6. In <b>Status</b>, check <b>Enabled</b>.</ui>  
-
-<blockquote><ui>7. In <b>Trigger Rule</b>, select <b>O valor de um atributo for alterado</b> (The value of an attribute has been changed).</ui>
-
-<blockquote><ui>8. In <b>Field</b>, select <b>Última sessão</b> (Last session).</ui>
-
-<blockquote><ui>9. Click in <b>Add filter</b> (5x) to enable the fields. Select and fill in as indicated and illustrated below.</ui>   
-
-<blockquote><blockquote><ui>-> Checkout - Diferente - Finalizado - and (Checkout - Different from - Completed - and)</ui>
-
-<blockquote><blockquote><ui>-> Checkout - Não está nulo - and (Checkout - is not null - and)</ui>
-
-<blockquote><blockquote><ui>-> Carrinho - Não está nulo - and (Cart - is not null - and)</ui>
-
-<blockquote><blockquote><ui>-> Último Carrinho - Não está nulo (Last cart - is not null)</ui>   
-
-![Filter master data 2](https://images.ctfassets.net/alneenqid6w5/6aME0zp72kjwJiulRdoRNl/6408ac4ab3b36d015790bcf1b1b5d667/Filter_Master_Data.PNG)
-
->⚠️ In addition to the filters indicated above, it is recommended to insert another filter in the following format: `Receives newsletter? - Equal to - True`. This ensures compliance with [data subject rights](https://help.vtex.com/en/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM), as only customers subscribed to the newsletter will receive abandoned cart emails. Subscription to your store's newsletter can be managed at checkout or in the [My Account](https://help.vtex.com/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#profile) section of your store.
-
-<blockquote><ui> 10. Click on the <b>Schedule</b> tab and select whether to send the email on a specific date or on a dynamic date.</ui>
-
-![Schedule date](https://images.ctfassets.net/alneenqid6w5/3SiaNvXMctzVtBzSjzsg3E/6956b67734b6b7c3970d193c03e8fefc/Schedule_date.PNG)
-
-<blockquote><ui>11. In the <b>If positive</b> tab:</ui>
-
-<blockquote><blockquote><ui>a. In Action, select <b>Send an email</b>.</ui>
-
-<blockquote><blockquote><ui>b. In <b>Recipient</b>, to perform a system test, enter your email and click <b>Add Static email</b>.</ui>
-
->⚠️ Once you have completed the other settings below and verified that you have received the abandoned cart message in your email, return to this step, select the option **CL**: **Email**, click in **Add Dynamic email**, and then in **Save**.
-
-<blockquote><blockquote><ui>c. In <b>Email body format</b>, select <b>Html</b>.</ui>
-
-<blockquote><blockquote><ui>d. In <b>Sender's name</b>, enter your store name.</ui>
-
-<blockquote><blockquote><ui>e. In <b>Reply to</b>, fill in the email address where the customer can respond if they have questions.</ui>
-
-<blockquote><blockquote><ui>f. In <b>Content type</b>, select <b>URL content</b>.</ui>
-
-<blockquote><blockquote><ui>g. Fill in the field <b>Subject</b>.</ui>  
-
-<blockquote><blockquote><ui>h. In <b>URL</b>, enter your store’s address, including the folders in which the layout of the abandoned cart was set up, followed by the cart tag (?refs={!carttag_SCORE}). Ex.: storename.com/CEM/Abandoned-Cart?refs={!carttag_SCORE}.</ui>  
-
-![PastasCarrinhoAbandonado](https://images.ctfassets.net/alneenqid6w5/4DSsVaeDvWmaaw2iwySCOy/b579eb818e0bcda140dba0ae96ecc90f/PastasCarrinhoAbandonado.png)  
-
->⚠️ The URL address must be the real one of the store, not the URL with vtexcommercestable.
-
-<blockquote><blockquote><ui>i. In <b>Add utm_source to all links whose value is</b>, fill with "CEM", to facilitate the identification of purchases by abandoned cart.</ui>
-
-<blockquote><blockquote><ui>j. Select the option <b>Overwrite utm_source</b>.</ui>
-
-<blockquote><blockquote><ui>k. Click on the <b>Save</b> button.</ui>  
-
-<div class="alert-warning">A page’s session expires in 30 minutes. Only after that time, the system schedules the abandoned cart trigger. In other words, the time to be considered is the session's time + the trigger schedule.
-</div>  
-
-![If positive tab](https://images.ctfassets.net/alneenqid6w5/2GDAJ2St3ayiKjcWoONDRc/44d05312148341427e720b76d8a1f24f/If_positive_Tab.PNG)  
-
-### Configuration for VTEX IO stores
+## Configuration for VTEX IO stores
 
 To configure the abandoned cart functionality in VTEX IO stores, follow these steps:
 

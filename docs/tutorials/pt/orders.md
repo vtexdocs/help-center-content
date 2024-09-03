@@ -1,10 +1,10 @@
 ---
-title: 'Pedidos Data Pipeline (Beta)'
+title: 'Pedidos Data Pipeline '
 id: 2f3GlRJ5L5IRGVIxOmzrFv
 status: PUBLISHED
 createdAt: 2024-02-02T17:58:53.962Z
-updatedAt: 2024-06-21T16:26:28.394Z
-publishedAt: 2024-06-21T16:26:28.394Z
+updatedAt: 2024-09-02T19:28:13.093Z
+publishedAt: 2024-09-02T19:28:13.093Z
 firstPublishedAt: 2024-05-27T19:26:59.238Z
 contentType: tutorial
 productTeam: Others

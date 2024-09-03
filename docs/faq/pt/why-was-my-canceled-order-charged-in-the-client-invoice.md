@@ -3,8 +3,8 @@ title: 'Por que meu pedido cancelado foi cobrado na fatura do cliente?'
 id: frequentlyAskedQuestions_492
 status: PUBLISHED
 createdAt: 2017-04-27T22:34:48.023Z
-updatedAt: 2023-03-20T21:28:24.133Z
-publishedAt: 2023-03-20T21:28:24.133Z
+updatedAt: 2024-08-13T18:57:07.052Z
+publishedAt: 2024-08-13T18:57:07.052Z
 firstPublishedAt: 2017-04-27T23:02:22.399Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
@@ -20,6 +20,6 @@ No entanto, não é sempre que o conector autoriza o estorno automático, e reto
 
 Quando o módulo de pagamentos envia um email informando que é necessário estorno manual, a mensagem que aparece na interação da transação no módulo é a seguinte: 
 
-> Source Message: `The e-mail with subject gateway-estorno-manual-requerido has been successfully sent to usuário@loja.com.br`. 
+Source Message: `The e-mail with subject gateway-estorno-manual-requerido has been successfully sent to usuário@loja.com.br`. 
 
 Ou seja, quando essa mensagem aparecer na interação após uma tentativa de cancelamento e estorno de uma transação que já teve o pagamento aprovado e/ou liquidado, significa que não foi possível fazer o estorno online de forma automática junto ao conector e será necessário efetuar o estorno manualmente.

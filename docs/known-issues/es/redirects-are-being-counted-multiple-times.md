@@ -3,8 +3,8 @@ title: 'Los redireccionamientos se cuentan varias veces'
 id: 51JfHBdp72duH5cBWMYl0t
 status: PUBLISHED
 createdAt: 2024-07-16T19:48:36.586Z
-updatedAt: 2024-07-16T19:49:42.290Z
-publishedAt: 2024-07-16T19:49:42.290Z
+updatedAt: 2024-08-05T16:47:07.922Z
+publishedAt: 2024-08-05T16:47:07.922Z
 firstPublishedAt: 2024-07-16T19:48:37.314Z
 contentType: knownIssue
 productTeam: CMS
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: los-redireccionamientos-se-cuentan-varias-veces
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1066548
 ---
 

@@ -3,16 +3,16 @@ title: 'Checkout UI sends hyphen in the postal code to orderForm'
 id: 3cqrBqq5x8nixjAFt8BxCx
 status: PUBLISHED
 createdAt: 2024-01-16T12:37:56.497Z
-updatedAt: 2024-01-16T12:37:57.041Z
-publishedAt: 2024-01-16T12:37:57.041Z
+updatedAt: 2024-08-05T21:19:18.293Z
+publishedAt: 2024-08-05T21:19:18.293Z
 firstPublishedAt: 2024-01-16T12:37:57.041Z
 contentType: knownIssue
-productTeam: Checkout
+productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
-tag: Checkout
+tag: Logistics
 slug: checkout-ui-sends-hyphen-in-the-postal-code-to-orderform
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 937692
 ---
 

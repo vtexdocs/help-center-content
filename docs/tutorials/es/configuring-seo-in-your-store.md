@@ -1,10 +1,10 @@
 ---
-title: 'Configurar SEO en la tienda'
+title: 'Configurar SEO en la tienda Store Framework'
 id: 1sKskEsjUSvgHyqM8oknVR
 status: PUBLISHED
 createdAt: 2024-04-29T19:07:56.533Z
-updatedAt: 2024-05-03T18:39:56.071Z
-publishedAt: 2024-05-03T18:39:56.071Z
+updatedAt: 2024-09-02T16:13:57.395Z
+publishedAt: 2024-09-02T16:13:57.395Z
 firstPublishedAt: 2024-04-29T19:26:31.511Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

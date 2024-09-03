@@ -3,8 +3,8 @@ title: 'Envio de produtos para o Google Shopping'
 id: 5L5LnccDCj5lJk8H95GQ82
 status: PUBLISHED
 createdAt: 2021-04-15T14:10:45.645Z
-updatedAt: 2022-05-30T19:03:02.983Z
-publishedAt: 2022-05-30T19:03:02.983Z
+updatedAt: 2024-08-06T14:24:02.734Z
+publishedAt: 2024-08-06T14:24:02.734Z
 firstPublishedAt: 2021-04-15T17:41:23.772Z
 contentType: trackArticle
 productTeam: Channels
@@ -14,7 +14,7 @@ trackId: 25Sl7iOqq58PGfVfTAo8Xw
 trackSlugPT: configurar-integracao-com-o-google-shopping
 ---
 
-No Google Shopping somente [catálogos](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) são integrados. Ao contrário de outras integrações, **não é necessário mapear os produtos através de planilha.
+No Google Shopping somente [catálogos](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) são integrados. Ao contrário de outras integrações, **não é necessário mapear os produtos através de planilha**.
 
 ## Reindexar base
 

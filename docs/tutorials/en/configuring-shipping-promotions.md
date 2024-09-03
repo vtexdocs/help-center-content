@@ -3,8 +3,8 @@ title: 'Configuring shipping promotions'
 id: 6Lo5BR61KMiUFAAHGCdgfW
 status: PUBLISHED
 createdAt: 2019-03-27T19:50:39.607Z
-updatedAt: 2022-01-28T16:27:40.386Z
-publishedAt: 2022-01-28T16:27:40.386Z
+updatedAt: 2024-08-12T13:24:18.788Z
+publishedAt: 2024-08-12T13:24:18.788Z
 firstPublishedAt: 2019-03-27T20:04:38.299Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -38,6 +38,8 @@ Below you will find some of the scenarios you can configure on the VTEX platform
 ### Scenario 1
 
 If you enable the option **Apply discount only to the cheapest shipping rate**, the discount will be applied only to the lowest estimated shipping rate. This option is enabled by default, but you can disable it if you prefer to configure the promotion according to [Scenario 3](#scenario-3) or [Scenario 4](#scenario-4). 
+
+If the store configures the __Pickup__ shipping strategy, which costs R$ 0.00 for the customer, the promotion may consider this value as the lowest and not apply the discount to the shipping fees. To ensure that the promotion works as expected, applying the free shipping discount to the shipping fees, select all methods in the box except __Pickup in Store__.
 
 #### Configuration
 ![Apply the discount only to the cheapest shipping option - EN](https://images.ctfassets.net/alneenqid6w5/7MjVSslJUZjkcKepNjene6/630faf430976850a15d833f09919e515/image.png)

@@ -3,8 +3,8 @@ title: 'Posibles errores en la notificación de órdenes de cambio en la interfa
 id: 1UeG6MyFYIUVCnH8kPwNIJ
 status: PUBLISHED
 createdAt: 2023-12-19T19:37:47.313Z
-updatedAt: 2023-12-19T19:37:47.950Z
-publishedAt: 2023-12-19T19:37:47.950Z
+updatedAt: 2024-08-08T19:29:16.923Z
+publishedAt: 2024-08-08T19:29:16.923Z
 firstPublishedAt: 2023-12-19T19:37:47.950Z
 contentType: knownIssue
 productTeam: Order Management
@@ -37,8 +37,5 @@ No es posible realizar una simulación, ya que los escenarios son esporádicos y
 
 
 Inicialmente no tenemos una solución, sin embargo, vale la pena mencionar que algunos escenarios podremos ajustarlos manualmente, como por ejemplo si el registro de órdenes de cambio ocurre en el gateway y no ocurre en el Marketplace o en la interacción de órdenes de cumplimiento y en la API también.
-
-
-
-
+Sin embargo, le sugerimos que utilice el nuevo Cambio V2, ya que el esfuerzo se dedicó a la creación de esta nueva característica.
 

@@ -3,8 +3,8 @@ title: 'Não consigo visualizar o produto na busca do site'
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
-updatedAt: 2024-07-25T15:47:00.673Z
-publishedAt: 2024-07-25T15:47:00.673Z
+updatedAt: 2024-08-08T14:57:59.572Z
+publishedAt: 2024-08-08T14:57:59.572Z
 firstPublishedAt: 2024-07-24T18:55:15.925Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -45,7 +45,7 @@ Para permitir que os produtos pesquisados sejam exibidos corretamente no resulta
 
 A ausência do produto em um resultado de busca pode ser atribuída ao preenchimento incorreto de alguns campos durante o processo de [cadastro do produto](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke). Siga os passos abaixo para verificar os campos __Marca, Exibir no site e Mostrar produto esgotado__:
 
-<blockquote><ui>1. No Admin VTEX, acesse </b>Catálogo > Todos os produtos</b>.</ui>
+<blockquote><ui>1. No Admin VTEX, acesse <b>Catálogo > Todos os produtos</b>.</ui>
 
 <blockquote><ui>>⚠️ Lojas que utilizam a página **Produtos e SKUS (Beta)**, devem verificar os campos de cadastro do produto acessando **Catálogo > Produtos e SKUS** no Admin VTEX. Saiba mais em [Produtos e SKUS (Beta)](https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).</blockquote>
 

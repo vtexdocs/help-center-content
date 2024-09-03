@@ -3,8 +3,8 @@ title: "I can't view the product in the search results"
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
-updatedAt: 2024-07-25T15:47:00.673Z
-publishedAt: 2024-07-25T15:47:00.673Z
+updatedAt: 2024-08-08T14:57:59.572Z
+publishedAt: 2024-08-08T14:57:59.572Z
 firstPublishedAt: 2024-07-24T18:55:15.925Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -45,7 +45,7 @@ To enable the searched products to be displayed correctly in the site's search r
 
 A missing product in a search result may come from incomplete fields during the [product registration](https://help.vtex.com/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke). Follow the steps below to check the __Brand, Show on site__, and __Show when out of stock__ fields:
 
-<blockquote><ui>1. In the Admin VTEX, go to </b>Catalog > All Products</b>.</ui>
+<blockquote><ui>1. In the Admin VTEX, go to <b>Catalog > All Products</b>.</ui>
 
 <blockquote><ui>>⚠️ Stores using the **Produtos and SKUS (Beta)** page should check the product registration fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Produtos and SKUS (Beta)](https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).</blockquote>
 

@@ -3,8 +3,8 @@ title: 'Configuring price tables for specific users'
 id: 5S9oDOMHNmY4K0kAewAiWY
 status: PUBLISHED
 createdAt: 2018-08-21T13:30:27.663Z
-updatedAt: 2023-03-30T15:54:24.193Z
-publishedAt: 2023-03-30T15:54:24.193Z
+updatedAt: 2024-08-27T17:08:00.211Z
+publishedAt: 2024-08-27T17:08:00.211Z
 firstPublishedAt: 2018-08-21T16:04:20.758Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -74,11 +74,11 @@ In the Admin, go to __Prices__ > __Price List__.
 
 In the search filter, enter the names of the tables created in __Master Data__.
 
-![Filters](https://images.ctfassets.net/alneenqid6w5/4l7cEOha360ceaegCA4Ws6/17ea17f13d6dd9e399f07c4cefe1888a/Filters.png)
+![Filtros](https://images.ctfassets.net/alneenqid6w5/4sQMk2XLRyoQvFLNrGI0A7/e57ad4523d95718b3152713093f9dbb0/Filtros.png)
 
 Price tables are shown as columns of the price list, as are trade policies.
 
-![Prices](https://images.ctfassets.net/alneenqid6w5/31kElv6oD6KksC8wyUoCgU/815d607e3cdcd2d7c15239d202a81ad0/Prices.png)
+![Lista preços- EN](https://images.ctfassets.net/alneenqid6w5/16m3JGeeDwzioInWVBxbpl/1b6487ea75a8d09f90c56c79040af682/Lista_pre_os-_EN.png)
 
 To update a fixed price in a specific table, on the column corresponding to that table, and then on __Define fixed prices__. 
 

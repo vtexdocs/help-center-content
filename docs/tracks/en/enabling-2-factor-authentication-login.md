@@ -3,8 +3,8 @@ title: 'Enabling two-factor authentication (2FA)'
 id: 1ccQYubR9DvRJ08RgO8JW8
 status: PUBLISHED
 createdAt: 2020-01-07T21:12:36.958Z
-updatedAt: 2021-03-22T20:46:32.393Z
-publishedAt: 2021-03-22T20:46:32.393Z
+updatedAt: 2024-08-22T14:02:07.053Z
+publishedAt: 2024-08-22T14:02:07.053Z
 firstPublishedAt: 2020-01-13T14:33:33.691Z
 contentType: trackArticle
 productTeam: Identity
@@ -36,7 +36,7 @@ There are two authentication options:
 
 >⚠️ We recommend you to use a[authentication application](#enabling-2fa-por-aplicativo) to prevent failures in your telephone provider from making your login impossible. Though the app, the access key will always be available for use.
 
->ℹ️ As some companies restrict the use of cell phones by telesales operators, users with the [ telesales role](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#call-center-operator" target="_blank) do not have to enable the 2FA when logging in with email and password.
+>ℹ️ As some companies restrict the use of cell phones by telesales operators, users with the [ telesales role](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#call-center-operator) do not have to enable the 2FA when logging in with email and password.
 
 ## Enabling the 2FA through an app
 

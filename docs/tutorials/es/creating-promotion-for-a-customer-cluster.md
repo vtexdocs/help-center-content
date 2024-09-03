@@ -3,8 +3,8 @@ title: 'Crear promoción para un clúster de clientes'
 id: tutorials_342
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:51.509Z
-updatedAt: 2023-03-31T19:54:04.703Z
-publishedAt: 2023-03-31T19:54:04.703Z
+updatedAt: 2024-08-05T17:40:23.033Z
+publishedAt: 2024-08-05T17:40:23.033Z
 firstPublishedAt: 2017-04-27T23:03:15.652Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -42,13 +42,13 @@ Hay dos criterios posibles para seleccionar un clúster para la promoción y, po
 *   Con una [función de igualdad](#funcion-de-igualdad): `{nombredelapropriedad}={valor}`
 *   Con una [función contains](#funcion-contains): `{nombredelapropriedad} contains {valor}`
 
-Nótese que en ambas opciones, `{nombredelapropriedad}` debe cambiarse por el nombre del campo en la entidad de datos y `{valor}` debe sustituirse por el valor definido en Master Data.
+Nótese que en ambas opciones, `{nombredelapropriedad}` debe cambiarse por el nombre del campo en la entidad de datos y `{"valor"}` debe sustituirse por el valor definido en Master Data.
 
 >ℹ️ El uso de las comillas varía en [función del tipo de campo](https://help.vtex.com/es/tutorial/criando-entidade-de-dados--tutorials_1265#) creado en Master Data.
 
 ### Función de igualdad
 
-La expresión `{nombredelapropriedad}={valor}` debe utilizarse en caso de necesidad de que la información contenida en el perfil del cliente para la propiedad en cuestión sea exactamente igual al valor introducido en la expresión.
+La expresión `{nombredelapropriedad}={"valor"}` debe utilizarse en caso de necesidad de que la información contenida en el perfil del cliente para la propiedad en cuestión sea exactamente igual al valor introducido en la expresión.
 
 En la siguiente configuración, por ejemplo, solo los registros de ``empleados`` con el valor `true` (utilizado en un campo **[booleano](https://help.vtex.com/es/tutorial/criando-entidade-de-dados--tutorials_1265#)**, donde los valores son siempre verdaderos o falsos) recibirán la promoción.
 

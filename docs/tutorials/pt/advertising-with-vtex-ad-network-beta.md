@@ -3,8 +3,8 @@ title: 'Anunciar com VTEX Ad Network (Beta)'
 id: 5WoXcJzHc7EQElpPjziqse
 status: PUBLISHED
 createdAt: 2024-04-23T18:57:14.559Z
-updatedAt: 2024-07-30T15:01:46.734Z
-publishedAt: 2024-07-30T15:01:46.734Z
+updatedAt: 2024-08-05T22:33:07.827Z
+publishedAt: 2024-08-05T22:33:07.827Z
 firstPublishedAt: 2024-04-23T19:16:43.333Z
 contentType: tutorial
 productTeam: Others
@@ -29,6 +29,12 @@ Se você já é um anunciante do **VTEX Ad Network**, confira neste artigo como 
 - [Pausar um produto](#pausar-um-produto)
 - [Acompanhar suas campanhas](#acompanhar-suas-campanhas)
 - [Visualizar mais detalhes por campanha e produto](#visualizar-mais-detalhes-por-campanha-e-produto)
+
+>ℹ️ O Ad Network disponibiliza registros de modificações em campanhas no<a
+> href="https://help.vtex.com/pt/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA">
+> Audit</a>. Para mais detalhes, confira a<a
+> href="https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ#ad-network">
+> lista de eventos disponíveis no Audit</a>.
 
 ## Criar uma campanha
 

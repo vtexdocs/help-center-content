@@ -3,8 +3,8 @@ title: 'What is an offline payment condition?'
 id: 3WtA4nmQJWqAaCy0kYG6IG
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:37.593Z
-updatedAt: 2019-12-31T15:22:44.664Z
-publishedAt: 2019-12-31T15:22:44.664Z
+updatedAt: 2024-08-15T17:45:31.703Z
+publishedAt: 2024-08-15T17:45:31.703Z
 firstPublishedAt: 2019-01-24T22:06:51.647Z
 contentType: tutorial
 productTeam: Financial
@@ -26,5 +26,5 @@ With that, your store has control over the transaction and may complete the cust
 An example that illustrates this type of situation is the bank slip, which is issued by you, but must be paid directly to the bank (either at an agency, an ATM or a smartphone application) before the product is shipped for delivery.
 
 ### Related articles
-- [Registered Ticket - Basic payment flow](/en/faq/registered-ticket-flow)
-- [Configuring bank slips](/en/tutorial/how-to-configure-a-bank-slip)
+- [Registered Ticket - Basic payment flow](https://help.vtex.com/en/tutorial/registered-ticket-flow--1WlPkeueWQiykUwW8mcM4S)
+- [Configuring bank slips](https://help.vtex.com/en/tutorial/how-to-configure-a-bank-slip--tutorials_447)

@@ -3,8 +3,8 @@ title: '¿Qué funcionalidades ofrece la integración?'
 id: 5DIYlh0eXB9ClfQFC3l3Mr
 status: PUBLISHED
 createdAt: 2023-03-28T19:41:03.487Z
-updatedAt: 2023-03-28T22:04:13.589Z
-publishedAt: 2023-03-28T22:04:13.589Z
+updatedAt: 2024-08-19T17:59:52.123Z
+publishedAt: 2024-08-19T17:59:52.123Z
 firstPublishedAt: 2023-03-28T21:41:26.632Z
 contentType: trackArticle
 productTeam: Channels
@@ -30,5 +30,6 @@ Además de la integración básica y para que puedas aprovechar al máximo la in
 | [Errores de integración de pedidos de Mercado Libre](https://help.vtex.com/es/tutorial/order-errors-in-the-mercado-livre-integration--4w4jAIWUy3OELgu3HFmGgh) | Descubre cuáles son los errores más comunes que se cometen al integrar los pedidos en Mercado Libre y en tu tienda VTEX y aprende a solucionarlos. |  
 | [¿Cómo funciona el carrito con múltiples artículos en Mercado Libre?](https://help.vtex.com/es/tutorial/how-does-the-cart-with-multiple-items-work-in-mercado-livre--4dC1deB8bY260W0Ge4ycOq) | Entiende por qué algunos pedidos que incluyen varios productos aparecen con dos ID en el Admin VTEX y otros, con un solo ID.  |  
 | [Mercado Libre: compatibilidad de autopartes](https://help.vtex.com/es/tutorial/mercado-livre-automobilist-compatibility--2c7fTWxq6NfMXq1jgEbEI3) | Esta funcionalidad está destinada al seller cuyo catálogo incluye productos de la categoría «autopartes». Aquí, el seller aprenderá a corregir posibles errores cometidos durante la integración de los productos en la categoría. |  
+|[Campos de producto personalizables](https://help.vtex.com/es/tutorial/campos-customizaveis-de-produto--6tJOSJ2o9phVIb8XXG6QSk) |Aquí el seller tiene la posibilidad de personalizar los siguientes campos del producto: título, modelo de envío, tienda oficial en Mercado Libre, descripción y envío gratuito.|
 
 Además de las funcionalidades detalladas anteriormente, consulta [Mercado Libre: FAQ](https://help.vtex.com/es/tutorial/mercado-livre-faq--3w4IgSgKZOocGee8cgSWW0), donde encontrarás respuestas a las preguntas más frecuentes sobre la integración VTEX <> Mercado Libre.  

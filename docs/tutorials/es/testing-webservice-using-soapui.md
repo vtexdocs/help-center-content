@@ -19,7 +19,7 @@ subcategory: 1vwB9FtTSQmcSewQw02QoW
 >
 > **Todos los demás métodos del Web Service serán discontinuados después de 28/02/2017.**
 >
-> Utilice las API REST equivalentes disponibles en nuestro[Developer Docs](//help.vtex.com/developer-docs/).
+> Utilice las API REST equivalentes disponibles en nuestro[Developer Docs](https://help.vtex.com/developer-docs/).
 
 >⚠️ Las configuraciones documentadas en este artículo son realizadas en un ambiente fuera de VTEX, por lo tanto, pueden ser discontinuadas sin previo aviso.
 
@@ -50,4 +50,4 @@ Efectúe el login con los datos de webservice deseado. Después de efectuar el l
 >
 > **Todos los demás métodos están descontinuados.**
 >
-> Utilice las API REST equivalentes disponibles en nuestro [Developer Docs](//help.vtex.com/developer-docs/).
+> Utilice las API REST equivalentes disponibles en nuestro [Developer Docs](https://help.vtex.com/developer-docs/).

@@ -1,10 +1,10 @@
 ---
 title: 'Registrar Bloqueo de Precio'
 id: 6IVgeLPeggIv2mkbFVO6y3
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-07-04T13:54:30.939Z
-updatedAt: 2023-03-29T20:24:47.600Z
-publishedAt: 2023-03-29T15:24:12.257Z
+updatedAt: 2024-08-26T18:38:52.888Z
+publishedAt: 2024-08-26T18:38:52.888Z
 firstPublishedAt: 2019-07-17T19:48:12.477Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -23,11 +23,10 @@ Siga el siguiente procedimiento para registrar el bloqueo de precio:
 
 ## Admin 
 
-1. Haga clic en **Precios**.
-2. Haga clic en **Configuraciones**.
-3. En la caja **Bloqueo en la variación de precio** active la funcionalidad haciendo clic en el *toggle* **Usar bloqueo de precio**.
-4. Digite el porcentaje de variación del **Límite superior** y del **Límite inferior** deseados.
-5. Haga clic en **Guardar**.
+1. En el Admin de VTEX, ve a Configuración de la **tienda > Productos > Configuración de precios**, o escribe **Configuración de precios** en la barra de búsqueda de la parte superior de la página.
+2. Haz clic en **Usar límite de variación de precios**.
+3. Ingresa el porcentaje deseado para **Reducción máxima** y **Aumento máximo**.
+4. Haz clic en **Guardar**.
 
 ## API REST
 

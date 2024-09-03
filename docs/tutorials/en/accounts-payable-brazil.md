@@ -3,8 +3,8 @@ title: 'Accounts Payable - Brazil'
 id: tutorials_660
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:25.003Z
-updatedAt: 2024-02-23T15:08:20.685Z
-publishedAt: 2024-02-23T15:08:20.685Z
+updatedAt: 2024-08-30T16:45:42.652Z
+publishedAt: 2024-08-30T16:45:42.652Z
 firstPublishedAt: 2017-04-27T23:03:40.609Z
 contentType: tutorial
 productTeam: Billing

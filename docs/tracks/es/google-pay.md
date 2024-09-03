@@ -3,8 +3,8 @@ title: 'Google Pay'
 id: 61JMBvM5Vanqj6RaJsP8CT
 status: PUBLISHED
 createdAt: 2023-06-27T21:28:37.755Z
-updatedAt: 2024-08-01T17:59:31.657Z
-publishedAt: 2024-08-01T17:59:31.657Z
+updatedAt: 2024-08-02T13:49:01.227Z
+publishedAt: 2024-08-02T13:49:01.227Z
 firstPublishedAt: 2023-06-27T21:46:39.537Z
 contentType: trackArticle
 productTeam: Shopping
@@ -24,7 +24,7 @@ Los términos de la API de Google Pay se aplican siempre que el administrador de
 
 Para activar Google Pay, sigue los pasos a continuación. 
 
-1. En el Admin VTEX, haz clic en el ícono del engranaje **Configuración de la tienda > Pago > Carteras** o ingresa. **Carteras** en la barra de búsqueda de la parte superior de la página.
+1. En el Admin VTEX, accede a **Configuración de la tienda > Pago > Carteras** o ingresa. **Carteras** en la barra de búsqueda de la parte superior de la página.
 2. Selecciona la opción **Activar** para modificar el checkout e incluir la extensión de Google Pay.
 
 >ℹ️ Las redes admitidas en Google Pay son las mismas configuradas en las condiciones de pago.
@@ -60,7 +60,7 @@ Después de acceder a la transacción deseada, haga clic en "+ Información" par
 
 Para agregar en la plantilla de email que se le enviará al comprador la información de que el pedido se realizó con una tarjeta vinculada a Google Pay, sigue los pasos a continuación:
 
-1. En el Admin VTEX, haz clic en el ícono del engranaje **Configuración de la tienda > Plantillas de email > Plantillas** o ingresa el término **Plantillasen** la barra de búsqueda de la parte superior de la página.
+1. En el Admin VTEX, accede a **Configuración de la tienda > Plantillas de email > Plantillas** o ingresa el término **Plantillas** en la barra de búsqueda de la parte superior de la página.
 2. Accede a las plantillas de finalización de compra y aprobación del pago.
 3. Después de todas las menciones donde figura a `{{#if lastDigits}}` last digits `{{lastDigits}}`, agrega la siguiente línea:
 `{{/if}} {{#if paymentOrigin}} ({{paymentOrigin}}` 

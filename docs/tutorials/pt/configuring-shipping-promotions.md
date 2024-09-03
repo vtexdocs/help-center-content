@@ -3,8 +3,8 @@ title: 'Configurar promoções de frete'
 id: 6Lo5BR61KMiUFAAHGCdgfW
 status: PUBLISHED
 createdAt: 2019-03-27T19:50:39.607Z
-updatedAt: 2022-01-28T16:27:40.386Z
-publishedAt: 2022-01-28T16:27:40.386Z
+updatedAt: 2024-08-12T13:24:18.788Z
+publishedAt: 2024-08-12T13:24:18.788Z
 firstPublishedAt: 2019-03-27T20:04:38.299Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -38,6 +38,8 @@ Abaixo explicamos alguns cenários que podem ser configurados na plataforma da V
 ### Cenário 1
 
 Caso você habilite a opção **Aplicar o desconto somente no frete mais barato**, o desconto do frete será aplicado somente no menor valor estimado para o frete. Esta opção já aparece habilitada por padrão, mas você pode desabilitá-la caso prefira configurar a promoção conforme o [Cenário 3](#cenario-3) ou o [Cenário 4](#cenario-4).
+
+Se a loja configurar a estratégia de envio __Retirada__, que tem custo de R$ 0,00 para o cliente, a promoção pode considerar esse valor como o mais barato e não aplicar o desconto nos fretes de envio. Para garantir que a promoção funcione conforme esperado, aplicando o desconto de frete grátis aos fretes de envio, selecione todos os métodos, exceto __Retirada na Loja__.
 
 #### Configuração
 ![Aplicar o desconto somente no frete mais barato - PT](https://images.contentful.com/alneenqid6w5/2Y0g5Ta6h4VL6uMRQouzjC/94aab036bb00a8162c934780cdfcb1c9/image.png)

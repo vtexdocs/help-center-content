@@ -3,8 +3,8 @@ title: 'Mapping and sending product categories to Amazon'
 id: 5xklf2wSdeztQh4iy5kJvD
 status: PUBLISHED
 createdAt: 2019-02-28T23:12:40.204Z
-updatedAt: 2023-10-18T19:47:04.829Z
-publishedAt: 2023-10-18T19:47:04.829Z
+updatedAt: 2024-08-27T17:55:46.602Z
+publishedAt: 2024-08-27T17:55:46.602Z
 firstPublishedAt: 2019-02-28T23:13:35.624Z
 contentType: trackArticle
 productTeam: Channels

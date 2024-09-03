@@ -3,8 +3,8 @@ title: 'CMS - Portal Legado'
 id: 1oN446gRGcR2s70RvBCAmj
 status: PUBLISHED
 createdAt: 2022-01-10T20:17:10.358Z
-updatedAt: 2023-03-08T17:44:29.465Z
-publishedAt: 2023-03-08T17:44:29.465Z
+updatedAt: 2024-08-06T16:52:09.507Z
+publishedAt: 2024-08-06T16:52:09.507Z
 firstPublishedAt: 2022-01-10T20:41:44.261Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -28,7 +28,7 @@ A seção [Layout](https://help.vtex.com/pt/subcategory/layout--2g6LxtasS4iSeGEq
 
 - **URL Builder:** redirecionar as URLs existentes para outras de interesse. Isso evitará erros de indexação e ajudará a manter os resultados de SEO.
 
-- **Files Manager:** carregar arquivos de imagem no site da sua loja. Você pode armazenar JavaScript, CSS e arquivos de imagem do site. Caso queira usar algum desses arquivos na sua loja, você deve referenciá-los na seção **HTML Templates***.
+- **Files Manager:** carregar arquivos de imagem no site da sua loja. Você pode armazenar JavaScript, CSS e arquivos de imagem do site. Caso queira usar algum desses arquivos na sua loja, você deve referenciá-los na seção **HTML Templates**.
 
 - **Product Cluster (Collections):** criar grupos de produtos. Você pode usar esse recurso para criar páginas de Campanhas ou de Coleções de Produtos com clusters de produtos específicos.
 
@@ -40,7 +40,7 @@ A seção [Configurações](https://help.vtex.com/pt/subcategory/configuracoes-d
 
 ![CMS - Settings PT](https://images.ctfassets.net/alneenqid6w5/1JFkw9wFlJd5oulogEGDDL/77031b9bdbae01c422147d00c9f9a2cb/cms-settings-pt.png)
 
-A seção **Configurações*** contém as seguintes abas:
+A seção **Configurações** contém as seguintes abas:
 
 - **Gerais:** configurações gerais relacionadas aos metadados e às opções de compra da loja, como o título da página inicial e a quantidade máxima de SKUs no carrinho.
 - **SEO:** opções de personalização de palavras-chave e meta tags de SEO.
@@ -141,7 +141,7 @@ Você pode conferir todos os controles nativos disponíveis e seus respectivos u
 - **[Para que serve o Controle Customizado?](https://help.vtex.com/pt/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627):** Além dos controles nativos da VTEX, você pode criar seus próprios controles.
 
 ## Controles
-- [Lista de controles para templates](https://help.vtex.com/pt/tutorial/list-of-controls-for-templates--tutorials_563).
+- [Lista de controles para templates](https://help.vtex.com/pt/tutorial/list-of-controls-for-templates--tutorials_563)
 - [Controle de Busca - fulltextSearchBox](https://help.vtex.com/pt/tutorial/controle-de-busca-fulltextsearchbox--tutorials_549?&utm_source=autocomplete)
 - [Controle de destaque de coleção](https://help.vtex.com/pt/tutorial/controle-de-destaque-de-colecao--1tGdb2ndjqy6yWsk2YwKMu?&utm_source=autocomplete)
 - [Controle de breadcrumb](https://help.vtex.com/pt/tutorial/controle-de-breadcrumb--3qQS5O9XpusAC6oUqSIQMM?&utm_source=autocomplete)

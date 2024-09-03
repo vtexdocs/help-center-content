@@ -3,8 +3,8 @@ title: 'El producto no se muestra en la búsqueda del sitio web'
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
-updatedAt: 2024-07-25T15:47:00.673Z
-publishedAt: 2024-07-25T15:47:00.673Z
+updatedAt: 2024-08-08T14:57:59.572Z
+publishedAt: 2024-08-08T14:57:59.572Z
 firstPublishedAt: 2024-07-24T18:55:15.925Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -45,7 +45,7 @@ Para que los productos buscados se muestren correctamente en los resultados de b
 
 La ausencia del producto en un resultado de búsqueda puede atribuirse a que algunos campos se rellenaron incorrectamente durante el proceso de [registro del producto](https://help.vtex.com/es/tutorial/campos-de-registro-de-producto--4dYXWIK3zyS8IceKkQseke). Sigue los pasos a continuación para comprobar los campos __Marca__, __Mostrar en el sitio web__ y __Mostrar producto agotado__:
 
-<blockquote><ui>1. En el Admin VTEX, accede a </b>Catálogo > Todos los productos</b>.</ui>
+<blockquote><ui>1. En el Admin VTEX, accede a <b>Catálogo > Todos los productos</b>.</ui>
 
 <blockquote><ui>>⚠️ Las tiendas que utilizan la página **Productos y SKUs (beta)** deben verificar los campos de registro de productos accediendo a **Catálogo >  Productos y SKUs** en el Admin VTEX. Más información en [Productos y SKUs (beta)](https://help.vtex.com/es/tutorial/productos-y-skus-beta--2ig7TmROlirWirZjFWZ3By).</blockquote>
 

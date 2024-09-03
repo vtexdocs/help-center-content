@@ -3,8 +3,8 @@ title: 'O Intelligent Search multilíngue não é compatível com duas variaçõ
 id: 2Qr9uJWwlr20NG29VU4tn2
 status: PUBLISHED
 createdAt: 2023-06-09T20:41:32.227Z
-updatedAt: 2023-06-09T20:41:32.884Z
-publishedAt: 2023-06-09T20:41:32.884Z
+updatedAt: 2024-08-28T17:03:13.933Z
+publishedAt: 2024-08-28T17:03:13.933Z
 firstPublishedAt: 2023-06-09T20:41:32.884Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -21,18 +21,19 @@ internalReference: 841704
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
-Quando usarmos mais de uma localidade na conta, a tradução será feita com base no idioma ao qual a localidade se refere e se usarmos mais de uma localidade na conta, a tradução será feita com base no idioma ao qual a localidade se refere.
+Quando usarmos mais de uma localidade na conta, a tradução será feita com base no idioma ao qual a localidade se refere, e se usarmos mais de uma localidade na conta, a tradução será feita com base no idioma ao qual a localidade se refere.
 
-Quando houver duas variações de localidade diferentes para o mesmo idioma (en-US e en-GB ou en-CA), as traduções no Intelligent Search não funcionarão corretamente, pois consideraremos todo o mesmo idioma, não considerando a variação.
+Quando duas variações diferentes de localidade do mesmo idioma forem usadas (por exemplo, `en-US` e `en-GB` ou `en-CA`), as traduções no Intelligent Search não funcionarão corretamente porque consideraremos todas elas como o mesmo idioma (`english`). Somente os valores de um deles (geralmente o que vem primeiro) serão usados.
 
 Há apenas duas exceções:
-pt-BR e pt-PT
-es-ES e es-CA
+
+- `pt-BR` e `pt-PT`
+- `es-ES` e `es-CA`
 
 ## Simulação
 
 
-Se você tiver a lista Binding com vários idiomas e tentar internacionalizar o mesmo idioma, isso não funcionará.
+Se você tiver uma lista de Binding com vários idiomas e tentar usar a internacionalização para o mesmo idioma raiz, isso não funcionará.
 
 
 
@@ -40,4 +41,8 @@ Se você tiver a lista Binding com vários idiomas e tentar internacionalizar o 
 
 
 N/A
+
+
+
+
 

@@ -1,10 +1,10 @@
 ---
 title: 'How to create a coupon'
 id: tutorials_319
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-04-27T22:09:06.076Z
-updatedAt: 2023-03-31T19:41:21.767Z
-publishedAt: 2023-03-31T19:41:21.767Z
+updatedAt: 2024-08-12T18:24:48.074Z
+publishedAt: 
 firstPublishedAt: 2017-04-27T23:03:14.329Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

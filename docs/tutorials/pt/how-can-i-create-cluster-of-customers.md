@@ -3,8 +3,8 @@ title: 'Criar cluster de clientes'
 id: frequentlyAskedQuestions_1724
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:58.065Z
-updatedAt: 2024-05-24T19:15:04.156Z
-publishedAt: 2024-05-24T19:15:04.156Z
+updatedAt: 2024-08-12T16:09:00.345Z
+publishedAt: 2024-08-12T16:09:00.345Z
 firstPublishedAt: 2019-01-24T22:05:41.666Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -32,8 +32,15 @@ Esse dado, quando adquirido, é muito válido para o marketing e a publicidade d
 
 Esse artigo tem como finalidade mostrar, tecnicamente, como configurar seu CRM para a criação de um cluster.
 
-1. O primeiro passo é criar um campo no MasterData com o nome do cluster que deseja. Ex.: Revendedores. Assim, serão destacados os clientes que são revendedores, recebendo uma promoção exclusiva, por exemplo. [Acesse nosso manual de como criar um campo](/pt/faq/como-crio-um-campo-no-master-data/).
-2. O segundo é criar esse campo no formulário, para que seja possível ver os dados. [Para isso, veja nosso manual](/pt/faq/como-crio-um-campo-no-master-data/).
+<ol start="1">
+    <li>O primeiro passo é criar um campo no MasterData com o nome do cluster que deseja. Ex.: Revendedores. Assim, serão destacados os clientes que são revendedores, recebendo uma promoção exclusiva, por exemplo. <a href="https://help.vtex.com/tutorial/como-crio-um-campo-no-master-data">Acesse nosso manual de como criar um campo.</a></li>
+</ol>
+
+>ℹ️ Para que um cluster funcione corretamente em uma promoção, defina o novo campo personalizado criado como **pesquisável** e **filtrável** no MasterData.
+
+<ol start="2">
+    <li>O segundo é criar esse campo no formulário, para que seja possível ver os dados. <a href="https://help.vtex.com/tutorial/como-crio-um-campo-no-master-data">Para isso, veja nosso manual.</a></li>
+</ol>
 
 Ou seja, tecnicamente, um cluster no CRM nada mais é do que um campo.
 

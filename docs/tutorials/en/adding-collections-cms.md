@@ -103,7 +103,7 @@ To remove an SKU from the list, click on the red button next to it.
 
 ### By spreadsheet
 
- >ℹ️ Get the file template for adding SKUs to or removing them from a collection [here](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls).
+ >ℹ️ Get the file template for adding SKUs to or removing them from a collection [here](https://assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls).
 
 #### Bulk Upload
 

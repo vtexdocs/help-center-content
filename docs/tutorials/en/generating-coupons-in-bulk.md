@@ -1,10 +1,10 @@
 ---
 title: 'Generating coupons in bulk'
 id: frequentlyAskedQuestions_348
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-01-24T20:45:52.826Z
-updatedAt: 2022-08-01T20:34:54.588Z
-publishedAt: 2022-08-01T20:34:54.588Z
+updatedAt: 2024-08-14T17:35:37.637Z
+publishedAt: 
 firstPublishedAt: 2019-01-24T22:14:53.121Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

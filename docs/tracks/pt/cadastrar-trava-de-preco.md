@@ -1,10 +1,10 @@
 ---
 title: 'Cadastrar Trava de Preço'
 id: 6IVgeLPeggIv2mkbFVO6y3
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-07-04T13:54:30.939Z
-updatedAt: 2023-03-29T20:24:47.600Z
-publishedAt: 2023-03-29T15:24:12.257Z
+updatedAt: 2024-08-26T18:38:52.888Z
+publishedAt: 2024-08-26T18:38:52.888Z
 firstPublishedAt: 2019-07-17T19:48:12.477Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -23,9 +23,9 @@ Siga o passo a passo abaixo para cadastrar a trava de preço:
 
 ## Admin 
 
-1. No Admin VTEX, acesse *Configurações de loja > Produtos > Configurações de preços*, ou digite *Configurações de preços* na barra de busca no topo da página.
-2. Na caixa **Trava na variação de preço** ative a funcionalidade clicando no *toggle* **Usar trava de preço**.
-3. Digite a porcentagem de variação do **Limite superior**  e do **Limite inferior** desejadas.
+1. No Admin VTEX, acesse **Configurações de loja > Produtos > Configurações de preços**, ou digite **Configurações de preços** na barra de busca no topo da página.
+2. Clique em **Usar limite de variação de preços**.
+3. Digite a porcentagem desejada de **Decréscimo máximo** e **Acréscimo máximo**.
 4. Clique em **Salvar**.
 
 ## API REST

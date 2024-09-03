@@ -3,8 +3,8 @@ title: 'Definição da política comercial'
 id: 3AqbcsWrge8zLt0BC5CtGd
 status: PUBLISHED
 createdAt: 2021-04-14T17:58:41.545Z
-updatedAt: 2023-10-23T20:22:26.830Z
-publishedAt: 2023-10-23T20:22:26.830Z
+updatedAt: 2024-08-06T17:51:23.468Z
+publishedAt: 2024-08-06T17:51:23.468Z
 firstPublishedAt: 2021-04-15T17:41:14.352Z
 contentType: trackArticle
 productTeam: Channels
@@ -22,7 +22,7 @@ Será necessário solicitar a criação de uma nova política comercial apenas s
 - Quiser oferecer uma seleção de produtos diferente no Google Shopping.
 - Precisar enviar preços diferentes para o Google Shopping.
 
-Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em nosso [Suporte](https://help.vtex.com/pt/support) selecionando a ção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
+Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em nosso [Suporte](https://help.vtex.com/pt/support) selecionando ação **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
 
 A contratação de política comercial adicional para integrar com [conector nativo](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), [conector certificado (parceiro)](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX é isenta de taxas.
 
@@ -52,7 +52,7 @@ Para configurar um desconto vinculado a um método de pagamento, é necessário 
 
 1. [Set a discount using the checkout API](https://developers.vtex.com/docs/guides/set-a-discount-using-the-checkout-api) para inserir qual o método de pagamento desejado na variável `paymentSystemToCheckFirstInstallment` e simular uma carrinho de comprar para verificar se a forma de pagamento foi atualizada.  
 2.  [Configurar desconto de preço à vista](https://help.vtex.com/pt/tutorial/configurar-desconto-de-preco-a-vista--7Lfcj9Wb5dpYfA2gKkACIt) para atrelar o SKU ao meio de pagamento.  
-3. [Configurar desconto de preço à vista para Google Shooping](https://help.vtex.com/pt/tutorial/configurar-desconto-de-preco-a-vista-para-google-shopping--40K3R5d4NogMvCzIWdWt3e)  
+3. [Configurar desconto de preço à vista para Google Shooping](https://help.vtex.com/pt/tutorial/configurar-desconto-de-preco-a-vista-para-google-shopping--40K3R5d4NogMvCzIWdWt3e). 
 
 Após seguir essas documentações, a ativação deverá ser realizada através da [Configuração do conector](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
 

@@ -3,8 +3,8 @@ title: 'Lead time: tempo de envio a nível de SKU'
 id: 16yv5Mkj6bTyWR1hCN2f4B
 status: PUBLISHED
 createdAt: 2023-09-22T00:32:26.416Z
-updatedAt: 2023-09-22T13:32:38.292Z
-publishedAt: 2023-09-22T13:32:38.292Z
+updatedAt: 2024-08-16T17:55:22.057Z
+publishedAt: 2024-08-16T17:55:22.057Z
 firstPublishedAt: 2023-09-22T01:35:53.577Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -81,7 +81,9 @@ Para configurar o lead time de um SKU, siga os passos abaixo:
   ![lead_time_inventory_management_PT](https://images.ctfassets.net/alneenqid6w5/mfWUVzj7tgHMQxJTnVjGX/37732ea98f52933cabb401cb6246ab2f/lead_time_inventory_management_PT.png)
 4. No canto inferior da página, clique em `Salvar`.
 
->ℹ️ Pelo Admin VTEX, o lead time é sempre configurado em dias, mas é possível configurar períodos em horas, minutos e segundos, usando o endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+>ℹ️ Pelo Admin VTEX, o lead time é sempre configurado em dias, mas é possível configurar períodos em horas, minutos e segundos usando os endpoints [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-) e [Update inventory lead time by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#patch-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-/lead-time).
+
+>⚠️ O lead time só funciona com valores positivos, já que é possível adicionar tempo de envio, mas não diminuí-lo. Usar valores negativos pode resultar em comportamentos inesperados.
 
 ## Configurar a contagem do lead time em dias do calendário (opcional)
 

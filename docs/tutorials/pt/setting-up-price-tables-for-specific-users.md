@@ -3,8 +3,8 @@ title: 'Configurar tabelas de preços para usuários específicos'
 id: 5S9oDOMHNmY4K0kAewAiWY
 status: PUBLISHED
 createdAt: 2018-08-21T13:30:27.663Z
-updatedAt: 2023-03-30T15:54:24.193Z
-publishedAt: 2023-03-30T15:54:24.193Z
+updatedAt: 2024-08-27T17:08:00.211Z
+publishedAt: 2024-08-27T17:08:00.211Z
 firstPublishedAt: 2018-08-21T16:04:20.758Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -74,11 +74,11 @@ No menu principal do Admin, acesse __Preços__ e escolha a opção __Lista de pr
 
 No filtro da busca, insira os nomes das tabelas criadas no __Master Data__.
 
-![Filters](https://images.ctfassets.net/alneenqid6w5/4l7cEOha360ceaegCA4Ws6/17ea17f13d6dd9e399f07c4cefe1888a/Filters.png)
+![Filtros](https://images.ctfassets.net/alneenqid6w5/4sQMk2XLRyoQvFLNrGI0A7/623539da9a99dcfae6b6bf2a8ce1e6b0/Filtros_-_PT.png)
 
 As tabelas de preço são mostradas como colunas da lista de preços, assim como as políticas comerciais.
 
-![Prices](https://images.ctfassets.net/alneenqid6w5/31kElv6oD6KksC8wyUoCgU/815d607e3cdcd2d7c15239d202a81ad0/Prices.png)
+![Lista de preços - PT](https://images.ctfassets.net/alneenqid6w5/16m3JGeeDwzioInWVBxbpl/5cdc7aed4d5feb7687f5103fe6a8746c/Lista_de_pre_os_-_PT.png)
 
 Para atualizar o preço fixo em uma tabela específica, clique na coluna dessa tabela e depois em __Definir preços fixos__. 
 

@@ -1,9 +1,9 @@
 ---
 title: 'Lísta de cupones'
 id: 5z5ya3IonsC2W4B5h4JrsZ
-status: PUBLISHED
+status: CHANGED
 createdAt: 2022-04-28T20:47:44.779Z
-updatedAt: 2023-04-20T19:11:14.509Z
+updatedAt: 2024-08-14T17:44:43.108Z
 publishedAt: 2023-04-20T19:11:14.509Z
 firstPublishedAt: 2022-04-28T21:03:11.698Z
 contentType: tutorial

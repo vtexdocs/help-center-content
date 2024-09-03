@@ -3,8 +3,8 @@ title: 'Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p'
 id: 5Pvo8ufYWs00AUeCCEY68a
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:40.618Z
-updatedAt: 2023-03-29T00:26:24.796Z
-publishedAt: 2023-03-29T00:26:24.796Z
+updatedAt: 2024-08-05T11:11:38.459Z
+publishedAt: 2024-08-05T11:11:38.459Z
 firstPublishedAt: 2019-01-24T22:01:12.633Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -41,4 +41,5 @@ Se quedan dentro del nodo `marketingData`.
 
 ### Artículos relacionados
 
-- [Qué son utm_source, utm_campaign y utm_medium](/es/faq/que-son-utm-source-utm-campaign-y-utm-medium)
+- [Qué son utm_source, utm_campaign y utm_medium](https://help.vtex.com/es/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium)
+- [Crear cupón](https://help.vtex.com/es/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU)

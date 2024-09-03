@@ -3,8 +3,8 @@ title: 'Configuring promotions with highlights / flags'
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
-updatedAt: 2024-07-29T18:59:29.549Z
-publishedAt: 2024-07-29T18:59:29.549Z
+updatedAt: 2024-08-05T17:14:38.358Z
+publishedAt: 2024-08-05T17:14:38.358Z
 firstPublishedAt: 2017-04-27T23:03:51.539Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -34,7 +34,6 @@ Not all promotions are eligible to be featured. This possibility is limited to t
 In addition, **it is not possible to configure a highlight when the promotion has restrictions in the cart**, such as:
 
 - Zip code range;
-- Order value, unless the product’s value is higher or lower than the one configured in this field;
 - Accumulated value of purchases;
 - Promotion restriction by BIN;
 - Cluster of customers;

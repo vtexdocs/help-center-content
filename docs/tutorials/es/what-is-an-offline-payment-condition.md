@@ -3,8 +3,8 @@ title: '¿Qué es una condición de pago sin conexión?'
 id: 3WtA4nmQJWqAaCy0kYG6IG
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:37.593Z
-updatedAt: 2019-12-31T15:22:44.664Z
-publishedAt: 2019-12-31T15:22:44.664Z
+updatedAt: 2024-08-15T17:45:31.703Z
+publishedAt: 2024-08-15T17:45:31.703Z
 firstPublishedAt: 2019-01-24T22:06:51.647Z
 contentType: tutorial
 productTeam: Financial
@@ -26,5 +26,5 @@ Con eso, su tienda vuelve a tener control sobre la transacción y puede, en fin,
 Un ejemplo que ilustra este tipo de situación es el boleto bancario, que es emitido por usted, pero necesita ser pagado directamente al banco (ya sea en una agencia, un cajero electrónico o una aplicación de smartphone) antes de que el producto sea enviado para entrega.
 
 ### Artículos relacionados
-- [Boleto Bancario Registrado - Flujo básico de pago](/es/faq/boleto-bancario-registrado-flujo)
-- [Configurar boleto bancario](/es/tutorial/como-configurar-boleto-bancario)
+- [Boleto Bancario Registrado - Flujo básico de pago](https://help.vtex.com/es/tutorial/boleto-bancario-registrado-flujo--1WlPkeueWQiykUwW8mcM4S)
+- [Configurar boleto bancario](https://help.vtex.com/es/tutorial/como-configurar-boleto-bancario--tutorials_447)

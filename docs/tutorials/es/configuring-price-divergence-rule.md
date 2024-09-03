@@ -3,8 +3,8 @@ title: 'Configuración de regla de Divergencia de precios'
 id: awAKP0sS5J8jgLs2g7pPe
 status: PUBLISHED
 createdAt: 2021-12-03T01:24:41.194Z
-updatedAt: 2024-03-27T21:10:37.241Z
-publishedAt: 2024-03-27T21:10:37.241Z
+updatedAt: 2024-08-13T20:39:38.157Z
+publishedAt: 2024-08-13T20:39:38.157Z
 firstPublishedAt: 2021-12-03T01:31:08.666Z
 contentType: tutorial
 productTeam: Channels
@@ -63,7 +63,7 @@ Una vez definido el intervalo de la regla de autorización, selecciona una de la
 
 Para configurar una jerarquía de usuarios responsables de aprobar los pedidos, debes introducir más de un email y ordenar los usuarios registrados. Puedes cambiar estos usuarios en cualquier momento editando la regla de autorización de pedidos. Ten en cuenta que solo usuarios con los [roles](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) Admin Super (Owner) o OMS Full pueden editar la regla.
 
-Para crear la **segunda regla**, haz clic en el `<img class="shadow-4" src="https:////images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" />` signo más. Lo mismo se aplica a la creación de una tercera o cuarta regla, y así en adelante. Tras hacer clic en el ícono, se mostrará la siguiente interfaz:
+Para crear la **segunda regla**, haz clic en el <i class="fas fa-plus" aria-hidden="true"></i> signo más. Lo mismo se aplica a la creación de una tercera o cuarta regla, y así en adelante. Tras hacer clic en el ícono, se mostrará la siguiente interfaz:
 
 ![print_03_ES](https://images.ctfassets.net/alneenqid6w5/6Yxvh93ja2V69Yywn3CyWt/4c61f021b61f9147dbf87ff2a68b474f/print_03_ES.png)
 

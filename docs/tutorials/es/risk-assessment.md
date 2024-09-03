@@ -3,8 +3,8 @@ title: 'Evaluación de riesgos'
 id: 4K97IpqkpCpDYsZOSxtfkX
 status: PUBLISHED
 createdAt: 2022-05-26T13:08:53.479Z
-updatedAt: 2024-05-28T16:54:14.044Z
-publishedAt: 2024-05-28T16:54:14.044Z
+updatedAt: 2024-08-08T21:07:08.119Z
+publishedAt: 2024-08-08T21:07:08.119Z
 firstPublishedAt: 2022-05-26T13:17:48.374Z
 contentType: tutorial
 productTeam: Others

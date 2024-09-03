@@ -19,7 +19,7 @@ subcategory: 1vwB9FtTSQmcSewQw02QoW
 >
 > ** All the other Web Service methods will be deprecated as of 02/28/2017.**
 >
-> Use the equivalent REST APIs, available in our [Developer Docs](//help.vtex.com/developer-docs/).
+> Use the equivalent REST APIs, available in our [Developer Docs](https://help.vtex.com/developer-docs/).
 
 >⚠️ The configurations documented in this article take place in an environment external to VTEX, therefore they may be discontinued without prior notice.
 
@@ -50,4 +50,4 @@ Log in using the data of the webservice desired. After logging in, you will view
 >
 > **All other methods are deprecated.**
 >
-> Use the equivalent REST APIs avilable in our [Developer Docs](//help.vtex.com/developer-docs/).
+> Use the equivalent REST APIs avilable in our [Developer Docs](https://help.vtex.com/developer-docs/).

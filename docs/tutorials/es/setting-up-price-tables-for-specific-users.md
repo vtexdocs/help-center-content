@@ -3,8 +3,8 @@ title: 'Configuración de tablas de precios para usuarios específicos'
 id: 5S9oDOMHNmY4K0kAewAiWY
 status: PUBLISHED
 createdAt: 2018-08-21T13:30:27.663Z
-updatedAt: 2023-03-30T15:54:24.193Z
-publishedAt: 2023-03-30T15:54:24.193Z
+updatedAt: 2024-08-27T17:08:00.211Z
+publishedAt: 2024-08-27T17:08:00.211Z
 firstPublishedAt: 2018-08-21T16:04:20.758Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -73,7 +73,11 @@ En el menú principal del Admin, ingrese a __Precios__ y elija la opción __List
 
 En el filtro de búsqueda, introduzca los nombres de las tablas creadas en el Master Data. Las tablas de precio se muestran como columnas de la lista de precios, así como las políticas comerciales.
 
+![Filtros - ES](https://images.ctfassets.net/alneenqid6w5/4sQMk2XLRyoQvFLNrGI0A7/ba496e9ee7014e06fd7ed4a248e2d422/Filtros_-_ES.png)
+
 Para actualizar el precio fijo en una tabla específica, haga clic en la columna de esa tabla y, a continuación, en __Definir precios fijos__.
+
+![Lista de preços - ES](https://images.ctfassets.net/alneenqid6w5/16m3JGeeDwzioInWVBxbpl/f95259f067d5777971bd22b44f52ee08/Lista_de_pre_os_-_ES.png)
 
 Para ingresar y actualizar los precios de una tabla específica por API, vea esta [documentación de API](https://developers.vtex.com/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
 

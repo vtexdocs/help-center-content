@@ -3,8 +3,8 @@ title: ' Crear una promoción por suscripción'
 id: 3ROT13HYNeUIv0plDqgNed
 status: PUBLISHED
 createdAt: 2019-10-31T14:21:23.412Z
-updatedAt: 2022-08-23T15:53:07.251Z
-publishedAt: 2022-08-23T15:53:07.251Z
+updatedAt: 2024-08-09T19:35:32.700Z
+publishedAt: 2024-08-09T19:35:32.700Z
 firstPublishedAt: 2019-11-05T18:40:57.634Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -30,7 +30,10 @@ En este artículo, encontrará el paso a paso para crear promociones por suscrip
 - **Filtrar por**: selección que filtra los pedidos por suscripción que serán válidos para la promoción.
   - **Frecuencia**: selección de la frecuencia de los pedidos de suscripción en días, semanas, meses o años.
   - **Número de ciclo**: selección de ciclos de suscripción que se incluirán en la promoción. Esta opción solo se desbloquea si se seleccionó previamente Órdenes recurrentes. 
-      - **Ejemplo**: Al seleccionar **Frecuencia** igual a cada 2 semanas y **Número del ciclo** igual a 4, la promoción solo se aplicará en el cuarto ciclo, es decir, cuando se repita este pedido. Mira este escenario ilustrado en la siguiente tabla:
+
+Configure correctamente la frecuencia y el ciclo para garantizar que la promoción se aplique a los pedidos recurrentes. La frecuencia define el intervalo entre los pedidos, mientras que el ciclo determina a partir de qué pedido se aplicará la promoción. Si no configura ambos parámetros, la promoción puede no aplicarse como se espera, afectando solo el primer pedido o ninguno de los pedidos recurrentes. Por lo tanto, seleccione y configure ambos parámetros de acuerdo con las necesidades específicas de la promoción.
+
+**Ejemplo**: Al seleccionar **Frecuencia** igual a cada 2 semanas y **Número del ciclo** igual a 4, la promoción solo se aplicará en el cuarto ciclo, es decir, cuando se repita este pedido. Mira este escenario ilustrado en la siguiente tabla:
 
 | Fecha       | Número del ciclo | Validez                    |
 |------------|-----------------|----------------------------|

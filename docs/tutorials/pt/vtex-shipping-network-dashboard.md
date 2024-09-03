@@ -3,8 +3,8 @@ title: 'VTEX Shipping Network: Painel'
 id: 51e8tx1IehiN4ZtURRWU92
 status: PUBLISHED
 createdAt: 2020-04-06T20:01:00.909Z
-updatedAt: 2024-02-29T19:20:49.152Z
-publishedAt: 2024-02-29T19:20:49.152Z
+updatedAt: 2024-08-28T13:00:44.671Z
+publishedAt: 2024-08-28T13:00:44.671Z
 firstPublishedAt: 2020-04-16T21:37:18.831Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -18,9 +18,11 @@ subcategory: 5n5MnINzWTQUX1I2EZl4Ib
 >ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
 
 >⚠️ O [VTEX Shipping Network Correios](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:
-> 
-> *[Pronto para envio](https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs)
+>
+> * [Pronto para envio](https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs)
+>
 > * [Entregas Correios](https://help.vtex.com/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq)
+>
 > * Painel VTEX Shipping Network
 
 O [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) utiliza os dados de rastreio dos pedidos diretamente das transportadoras, mantendo você e seu cliente atualizados sobre o status de cada entrega.

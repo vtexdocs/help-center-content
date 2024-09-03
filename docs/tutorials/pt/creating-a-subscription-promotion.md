@@ -3,8 +3,8 @@ title: ' Criar uma promoção por assinatura'
 id: 3ROT13HYNeUIv0plDqgNed
 status: PUBLISHED
 createdAt: 2019-10-31T14:21:23.412Z
-updatedAt: 2022-08-23T15:53:07.251Z
-publishedAt: 2022-08-23T15:53:07.251Z
+updatedAt: 2024-08-09T19:35:32.700Z
+publishedAt: 2024-08-09T19:35:32.700Z
 firstPublishedAt: 2019-11-05T18:40:57.634Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -27,7 +27,11 @@ Neste artigo, você encontrará o passo a passo para criar promoções de assina
 - **Pedidos recorrentes**: pedidos que fazem parte dos ciclos de assinatura.
 - **Filtrar por**: seleção que filtra quais pedidos de assinatura que serão válidos para a promoção.
   - **Frequência**: seleção da frequência dos pedidos por assinatura em dias, semanas, meses ou anos.
-  - **Número do ciclo**: seleção dos ciclos da assinatura que serão incluídos à promoção. Essa opção é desbloqueada apenas se **Pedidos recorrentes** for selecionado anteriormente. **Exemplo**: Ao selecionar **Frequência** a cada 2 semanas e **Número do ciclo** igual a 4, a promoção só será aplicada no quarto ciclo, ou seja, assim que este pedido for repetido. Veja este cenário ilustrado na tabela a seguir:
+  - **Número do ciclo**: seleção dos ciclos da assinatura que serão incluídos à promoção. Essa opção é desbloqueada apenas se **Pedidos recorrentes** for selecionado anteriormente. 
+
+Configure corretamente a frequência e o ciclo para garantir que a promoção seja aplicada aos pedidos recorrentes. A frequência define o intervalo entre os pedidos, enquanto o ciclo determina a partir de qual pedido a promoção será aplicada. Se você não configurar ambos os parâmetros, a promoção pode não ser aplicada conforme esperado, afetando apenas o primeiro pedido ou nenhum dos pedidos recorrentes. Portanto, selecione e configure ambos os parâmetros de acordo com as necessidades específicas da promoção.
+
+**Exemplo**: Ao selecionar **Frequência** a cada 2 semanas e **Número do ciclo** igual a 4, a promoção só será aplicada no quarto ciclo, ou seja, assim que este pedido for repetido. Veja este cenário ilustrado na tabela a seguir:
 
 | Data       | Número do ciclo | Validez                    |
 |------------|-----------------|----------------------------|

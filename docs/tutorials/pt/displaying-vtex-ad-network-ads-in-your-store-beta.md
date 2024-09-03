@@ -1,10 +1,10 @@
 ---
 title: 'Exibir anúncios do VTEX Ad Network na sua loja (Beta)'
 id: 6gWgZrMLcS5FDFFdl5LETA
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-04-23T18:51:12.785Z
-updatedAt: 2024-07-05T13:10:03.749Z
-publishedAt: 2024-07-05T13:05:44.686Z
+updatedAt: 2024-08-09T21:21:47.661Z
+publishedAt: 2024-08-09T21:21:47.661Z
 firstPublishedAt: 2024-04-23T19:13:52.053Z
 contentType: tutorial
 productTeam: Others

@@ -3,8 +3,8 @@ title: 'A interface de usuário detalhada das organizações B2B mostra apenas 1
 id: 6gZm70bIF0p92u6WtDZqdO
 status: PUBLISHED
 createdAt: 2024-01-15T21:29:19.105Z
-updatedAt: 2024-01-15T21:29:45.018Z
-publishedAt: 2024-01-15T21:29:45.018Z
+updatedAt: 2024-08-26T13:48:07.233Z
+publishedAt: 2024-08-26T13:48:07.233Z
 firstPublishedAt: 2024-01-15T21:29:19.660Z
 contentType: knownIssue
 productTeam: B2B
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slug: a-interface-de-usuario-detalhada-das-organizacoes-b2b-mostra-apenas-100-primeiros-vendedores
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 966450
 ---
 

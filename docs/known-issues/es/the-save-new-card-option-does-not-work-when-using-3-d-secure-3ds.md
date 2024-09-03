@@ -3,8 +3,8 @@ title: '‘Guardar tarjeta’ no funciona al usar la autenticación 3DS'
 id: 20INELA5LVhY1XqFWG7047
 status: PUBLISHED
 createdAt: 2021-06-15T17:10:05.803Z
-updatedAt: 2022-12-22T14:45:20.486Z
-publishedAt: 2022-12-22T14:45:20.486Z
+updatedAt: 2024-08-20T19:15:09.444Z
+publishedAt: 2024-08-20T19:15:09.444Z
 firstPublishedAt: 2021-06-15T18:33:22.941Z
 contentType: knownIssue
 productTeam: Financial
@@ -21,10 +21,9 @@ internalReference:
 Al intentar guardar una tarjeta en [My Account](https://help.vtex.com/es/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh) de tiendas que utilizan la autenticación [3DS](https://help.vtex.com/es/tutorial/what-is-3d-secure--1eWPdop8mECuaEomQgkAIa) (V1 o V2) en sus adquirentes, se genera un error y se muestra el mensaje Se produjo un error al intentar registrar la tarjeta.
 
 Este error se produce si la tarjeta no es validada por el sistema. Para validarla, debe ser asociada a una [condición de pago](https://help.vtex.com/es/tutorial/how-to-configure-payment-conditions--tutorials_455). Al asociar una condición de pago a la tarjeta, se genera una transacción de USD 1,50 (que posteriormente es cancelada) y se valida la tarjeta.  
-
 Cuando se genera esta transacción de USD 1,50, si la tienda utiliza [3DS](https://help.vtex.com/es/tutorial/what-is-3d-secure--1eWPdop8mECuaEomQgkAIa) en sus adquirentes, se activará el flujo de autenticación y se solicitará la validación de la tarjeta. En esta etapa, la validación no podrá completarse porque no es una compra de producto. Esto impide una etapa adicional de autenticación del 3DS, conocida como challenge, para completar el proceso. Por este motivo, se muestra el error mencionado anteriormente cuando se intenta guardar una tarjeta.
 
-### Simulación
+## Simulación
 
 En caso de que desee simular las etapas que dirigen a este error, realice el siguiente paso a paso: 
 
@@ -39,15 +38,7 @@ En caso de que desee simular las etapas que dirigen a este error, realice el sig
 9. Complete todos los campos y haga clic en __Guardar tarjeta__.
 10. Se generará un error después de ese proceso.
 
-### Solución
-
-Para solucionar este error, puede crear una condición de pago para la tarjeta de crédito vinculada a un adquirente que no esté utilizando la autenticación 3DS (V1 o V2).
-
-## Simulación
-
-
-
 ## Workaround
 
-
+Para solucionar este error, puede crear una condición de pago para la tarjeta de crédito vinculada a un adquirente que no esté utilizando la autenticación 3DS (V1 o V2).
 

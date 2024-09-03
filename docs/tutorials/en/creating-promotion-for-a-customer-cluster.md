@@ -3,8 +3,8 @@ title: 'Creating a promotion for a customer cluster'
 id: tutorials_342
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:51.509Z
-updatedAt: 2023-03-31T19:54:04.703Z
-publishedAt: 2023-03-31T19:54:04.703Z
+updatedAt: 2024-08-05T17:40:23.033Z
+publishedAt: 2024-08-05T17:40:23.033Z
 firstPublishedAt: 2017-04-27T23:03:15.652Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -46,7 +46,7 @@ Note that, in both options, `{propertyname}` must be replaced with the name of t
 
 ### Equality function
 
-The expression `{propertyname}={value}` must be used when the information contained in the customer profile for the given property must be exactly equal to the value entered in the expression.
+The expression `{propertyname}={"value"}` must be used when the information contained in the customer profile for the given property must be exactly equal to the value entered in the expression.
 
 In the configuration below, for example, only `employee` entries with the value `true` (used in a **[Boolean](https://help.vtex.com/en/tutorial/criando-entidade-de-dados--tutorials_1265)** field, where values are always `true` or `false`) will receive the promotion.
 
@@ -64,7 +64,7 @@ Therefore, considering the above example of a field of type **Varchar** with the
 
 ### Contains function
 
-The expression `{propertyname} contains {value}` must be used when the information in the customer profile for the given property must **contain** the `value` entered in the expression.
+The expression `{propertyname} contains {"value"}` must be used when the information in the customer profile for the given property must **contain** the `value` entered in the expression.
 
 For example, if you want to create a cluster with only customers whose emails contain `@test.com`, the configuration will follow the example below.
 
