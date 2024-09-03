@@ -32,8 +32,8 @@ const navigation = { navbar: [
     categories: []
   },
   {
-    documentation: 'News',
-    slugPrefix: 'updates/announcements',
+    documentation: 'Announcements',
+    slugPrefix: 'announcements',
     categories: []
   },
 ] };
@@ -184,6 +184,8 @@ function getNews() {
 
     newsCategories.push(newsCategory);
   }
+
+  newsCategories.forEach((cat) => cat.children.reverse());
 
   return newsCategories;
 }
