@@ -762,13 +762,21 @@ ${textPT}
     return;
   }
 
+  const maxFileNameLength = 80;
+  const trimFileName = (name) => {
+      if (name.length <= maxFileNameLength) return name;
+      return name.substring(0, name.lastIndexOf('-', maxFileNameLength));
+  };
+
   let fileContents = [fileContentEN, fileContentES, fileContentPT];
   for (let i = 0; i < locales.length; i++) {
     // Construct the paths
     const baseFolder = path.join('./docs', fileFolders).replace(": ", " - ");
     const subFolder = path.join(baseFolder, fileSubFolder).replace(": ", " - ");
     const subcategoryFolder = fileSubcategoryFolder ? path.join(subFolder, fileSubcategoryFolder).replace(": ", " - ") : null;
-    const fileFolderName = subcategoryFolder ? path.join(subcategoryFolder, fileNameEN).replace(": ", " - ") : path.join(subFolder, fileNameEN).replace(": ", " - ");
+    const fileFolderName = subcategoryFolder 
+    ? path.join(subcategoryFolder, trimFileName(fileNameEN.replace(": ", " - "))) 
+    : path.join(subFolder, trimFileName(fileNameEN.replace(": ", " - ").replace(".md", "")));
     const localeFolder = path.join(fileFolderName, locales[i]).replace(": ", " - ");
     const filePath = path.join(localeFolder, fileNameEN).replace(": ", " - ");
   
