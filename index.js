@@ -1,12 +1,12 @@
 // retrieve entries from contentful
 const contentful = require("contentful-management");
-require('dotenv').config();
+require("dotenv").config();
 
 const client = contentful.createClient({
-  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN ?? '',
+  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN ?? "",
 });
 
-const path = require('path');
+const path = require("path");
 const fs = require("fs");
 
 let fileCount = 0;
@@ -61,7 +61,6 @@ async function getCategories() {
 }
 
 async function getSubcategories() {
-  await getCategories();
   try {
     const space = await client.getSpace("alneenqid6w5");
     const environment = await space.getEnvironment("master");
@@ -102,15 +101,13 @@ async function getSubcategories() {
     }
   });
 
-//  console.log('Updated Categories:', categories);
-//  console.log('Updated Subcategories:', subcategories);
-
   createSubcategoryFolders(subcategories);
   return subcategories;
 }
 
-async function getEntries(categories,subcategories) {
+async function getEntries() {
 
+  await getCategories();
   await getSubcategories();
 
   try {
@@ -128,8 +125,8 @@ async function getEntries(categories,subcategories) {
 
       for (let j = 0; j < entries.items.length ; j++) {
         let entry = entries.items[j];
-    //  console.log(entry.fields)
-        createMarkdownFile(entry,categories,subcategories);
+//      console.log(entry.fields)
+        createMarkdownFile(entry, categories, subcategories);
       }
       skip += limit;
     } while (skip < totalCount);
@@ -159,7 +156,7 @@ async function getEntries(categories,subcategories) {
       "Unknown Content Type:",
       contentTypes.unknownContentTypes.length
     );
-    console.log("Entries that generated files:", fileCount / 3); //fileCount divided by the amount of locales, since it creates one file per locale
+    console.log("Entries that generated files:", fileCount / 3); // fileCount divided by the amount of locales, since it creates one file per locale
     console.log(
       "Amount of errors (difference between total of entries, entries that generated files and correctly ignored entries):",
       totalCount -
@@ -206,12 +203,12 @@ function isArchived(entry) {
 function createCategoryFolders(entry) {
   let contentType = entry.sys.contentType.sys.id;
   if (contentType === "category") {
-    let categoryEN = entry.fields.title?.en || "Untitled";
-    let categoryPT = entry.fields.title?.pt || "Untitled";
-    let categoryES = entry.fields.title?.es || "Untitled";
+    let categoryEN = entry.fields.title?.en || "Untitled category";
+    let categoryPT = entry.fields.title?.pt || "Untitled category";
+    let categoryES = entry.fields.title?.es || "Untitled category";
     let categoryId = entry.sys.id;
     let categorySubcategories = [];
-    if ('subcategories' in entry.fields) {
+    if ("subcategories" in entry.fields) {
       for (k = 0; k < entry.fields.subcategories.pt.length; k++) {
         categorySubcategories.push(entry.fields.subcategories.pt[k].sys.id);
       }
@@ -225,8 +222,8 @@ function createCategoryFolders(entry) {
       console.log("Error creating tutorials folder", err);
     }
     try {
-      if (!fs.existsSync(`./docs/tutorials/${categoryEN}`)) {
-        fs.mkdirSync(`./docs/tutorials/${categoryEN}`);
+      if (!fs.existsSync(`./docs/tutorials/${categoryEN}`.replace(": ", " - "))) {
+        fs.mkdirSync(`./docs/tutorials/${categoryEN}`.replace(": ", " - "));
       }
     } catch (err) {
       console.log("Error creating category folder", err);
@@ -356,35 +353,27 @@ function createMarkdownFile(entry,categories,subcategories) {
   let textEN = fields.text?.en || "";
   let textES = fields.text?.es || "";
   let textPT = fields.text?.pt || "";
-  let subcategoryId = fields.subcategory?.pt.sys.id || slugEN + ": unknown subcategory";
+  let subcategoryId = fields.subcategory?.pt.sys.id || "unknown-subcategory";
 
   // Initialize category and subcategory variables
-  let subcategoryNameEN = "untitled subcategory";
-  let categoryNameEN = "untitled category";
-
-  console.log('subcategoryId:', subcategoryId);
+  let subcategoryNameEN = "Untitled subcategory";
+  let categoryNameEN = "Untitled category";
 
   // Find the matching subcategory
   let matchedSubcategory = subcategories.find(sub => sub.subcategoryId === subcategoryId);
 
   if (matchedSubcategory) {
     // Get the subcategory name
-//    console.log('Found subcategory:', matchedSubcategory);
     subcategoryNameEN = matchedSubcategory.subcategoryEN;
 
     // Find the corresponding category for the subcategory
     let matchedCategory = categories.find(cat => cat.categoryId === matchedSubcategory.categoryId);
-    
+
     if (matchedCategory) {
- //     console.log('Found category:', matchedCategory);
       // Get the category name
       categoryNameEN = matchedCategory.categoryEN
     }
   }
-
-  // Output the results
-  console.log('subcategoryNameEN:', subcategoryNameEN);
-  console.log('categoryNameEN:', categoryNameEN);
 
   let kiStatusEN = fields.status?.pt[0] || "";
   let kiStatusES = fields.status?.pt[0] || "";
@@ -577,9 +566,7 @@ subcategoryId: ${subcategoryId}
 ${textPT}
 `;
     fileFolders = "tutorials"
-    console.log(categoryNameEN)
     fileSubFolder = categoryNameEN
-    console.log(fileSubFolder)
     fileSubcategoryFolder = subcategoryNameEN
     contentTypes.tutorials.push(entry);
   } else if (contentType === "trackArticle") {
@@ -776,12 +763,12 @@ ${textPT}
   let fileContents = [fileContentEN, fileContentES, fileContentPT];
   for (let i = 0; i < locales.length; i++) {
     // Construct the paths
-    const baseFolder = path.join('./docs', fileFolders);
-    const subFolder = path.join(baseFolder, fileSubFolder);
-    const subcategoryFolder = fileSubcategoryFolder ? path.join(subFolder, fileSubcategoryFolder) : null;
-    const fileFolderName = subcategoryFolder ? path.join(subcategoryFolder, fileNameEN) : path.join(subFolder, fileNameEN);
-    const localeFolder = path.join(fileFolderName, locales[i]);
-    const filePath = path.join(localeFolder, fileNameEN);
+    const baseFolder = path.join('./docs', fileFolders).replace(": ", " - ");
+    const subFolder = path.join(baseFolder, fileSubFolder).replace(": ", " - ");
+    const subcategoryFolder = fileSubcategoryFolder ? path.join(subFolder, fileSubcategoryFolder).replace(": ", " - ") : null;
+    const fileFolderName = subcategoryFolder ? path.join(subcategoryFolder, fileNameEN).replace(": ", " - ") : path.join(subFolder, fileNameEN).replace(": ", " - ");
+    const localeFolder = path.join(fileFolderName, locales[i]).replace(": ", " - ");
+    const filePath = path.join(localeFolder, fileNameEN).replace(": ", " - ");
   
     // Array of folders to create
     const foldersToCreate = [baseFolder, subFolder, subcategoryFolder, fileFolderName, localeFolder].filter(Boolean);
@@ -796,18 +783,16 @@ ${textPT}
     } catch (err) {
       console.error("Error creating folder:", err);
     }
-  
-    // Write the file
+
+  // Write the file
     fs.writeFile(filePath, fileContents[i], (err) => {
-      if (err) {
-        console.error(`Error occurred while creating file ${filePath}:`, err);
-      } else {
-        fileCount++;
-      }
+    if (err) {
+      console.error(`Error occurred while creating file ${filePath}:`, err);
+    } else {
+      fileCount++;
+    }
     });
   }
 }
 
-// getCategories();
-// getSubcategories();
-getEntries(categories,subcategories);
+getEntries();
