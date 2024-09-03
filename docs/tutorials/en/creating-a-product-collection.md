@@ -93,7 +93,7 @@ So the Administrator won't have to manually exclude several SKUs one by one, it 
 
 ![Excluir_lista_de_skus](https://images.ctfassets.net/alneenqid6w5/7fkP3OAKk0Kq0SYM8aAw6M/37026d5804485392c3dac490adad7b40/Excluir_lista_de_skus.gif)
 
-Obtain a model of a file for importation, both for including and excluding items from the collection [here](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "here").
+Obtain a model of a file for importation, both for including and excluding items from the collection [here](https://assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "here").
 
 ## Searching collections
 

@@ -89,7 +89,7 @@ Para evitar que un administrador tenga que excluir manualmente diversos SKUs, un
 
 ![Excluir_lista_de_skus](https://images.ctfassets.net/alneenqid6w5/7fkP3OAKk0Kq0SYM8aAw6M/37026d5804485392c3dac490adad7b40/Excluir_lista_de_skus.gif)
 
-Obtenga un modelo de archivo para importación tanto para inclusión como para exclusión de ítems en la colección [aquí](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "aquí").
+Obtenga un modelo de archivo para importación tanto para inclusión como para exclusión de ítems en la colección [aquí](https://assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "aquí").
 
 ## Búsqueda de coleciones
 

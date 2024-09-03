@@ -49,7 +49,7 @@ Para crear una [campaña de VTEX Ad Network](https://help.vtex.com/es/tutorial/v
 6. Selecciona los productos que deseas anunciar utilizando una de las siguientes opciones:
 
    * __Buscar productos por EAN:__ buscar productos de tu catálogo por EAN.
-   * __Cargar archivo:__ enviar un archivo CSV con una lista de códigos EAN y ofertas, según [este ejemplo](//assets.ctfassets.net/alneenqid6w5/37tlx8GVGFxhOS48l73Ehz/c61c4a27f462bb3fa85457eed1bad0b8/teste-ads.csv). Los EAN son obligatorios y las ofertas son opcionales en el archivo.
+   * __Cargar archivo:__ enviar un archivo CSV con una lista de códigos EAN y ofertas, según [este ejemplo](https://assets.ctfassets.net/alneenqid6w5/37tlx8GVGFxhOS48l73Ehz/c61c4a27f462bb3fa85457eed1bad0b8/teste-ads.csv). Los EAN son obligatorios y las ofertas son opcionales en el archivo.
 
 7. En la sección **Presupuesto, oferta y cronograma**, haz clic en el botón de editar <i class="fas fa-pencil-alt"></i>.
 8. Define los valores de las ofertas para cada producto. Puedes definir cada valor individualmente.

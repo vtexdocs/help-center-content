@@ -91,7 +91,7 @@ Uma vez que já configuramos a etiqueta, temos que salvar o JS chamado a partir 
 
 ![cms js](https://images.ctfassets.net/alneenqid6w5/175WhPco7ew6OSEUsIG4MU/68772fc79d642781908d19163d787141/cms_js.png)
 
-__Anexo__: [md5.js](//assets.contentful.com/alneenqid6w5/5PeWM49nPykYYeWI4cOCy4/60c61b5bcf0b4ce92f211f944ab261ad/md5.js)
+__Anexo__: [md5.js](https://assets.contentful.com/alneenqid6w5/5PeWM49nPykYYeWI4cOCy4/60c61b5bcf0b4ce92f211f944ab261ad/md5.js)
 
 ### Validação
 

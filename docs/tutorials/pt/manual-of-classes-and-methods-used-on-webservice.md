@@ -17,7 +17,7 @@ subcategory: 1vwB9FtTSQmcSewQw02QoW
 
 O manual das classes e métodos usados no Web Service é um material complementar ao [guia de integração para ERPs](https://help.vtex.com/tutorial/guia-de-integracao-de-erps--3VuOwNLmb624ImooEIIkmO). Antes de usá-lo, atente-se a esse guia.
 
-[Download do manual de classes e métodos](//assets.ctfassets.net/alneenqid6w5/4OdeCFbcVQtEgkuWsuuidl/80b79448cf2b327e07b567a8411afaa0/vtex_WebServiceGuide.pdf)
+[Download do manual de classes e métodos](https://assets.ctfassets.net/alneenqid6w5/4OdeCFbcVQtEgkuWsuuidl/80b79448cf2b327e07b567a8411afaa0/vtex_WebServiceGuide.pdf)
 
 
 >❗ Atenção: somente os métodos SOAP pertinentes ao **catálogo** são válidos.
