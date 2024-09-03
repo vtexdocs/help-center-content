@@ -153,9 +153,9 @@ function createMarkdownFile(entry) {
   }
 
   let trackId = fields.trackId?.pt.sys.id || "";
-  let trackSlugEN = fields.trackSlug?.en || "";
-  let trackSlugES = fields.trackSlug?.es || "";
-  let trackSlugPT = fields.trackSlug?.pt || "";
+  let trackSlugEN = fields.trackSlug?.en || "untitled track";
+  let trackSlugES = fields.trackSlug?.es || "untitled track";
+  let trackSlugPT = fields.trackSlug?.pt || "untitled track";
 
   if (contentType === "track") {
     contentTypes.tracks.push(entry);
@@ -184,8 +184,8 @@ function createMarkdownFile(entry) {
     return;
   }
 
-  let productTeam = fields.xpTeam?.pt || "";
-  let subcategory = fields.subcategory?.pt.sys.id || "";
+  let productTeam = fields.xpTeam?.pt || "unknown";
+  let subcategory = fields.subcategory?.pt.sys.id || "untitled subcategory";
   let titleEN = fields.title?.en || "";
   let titleES = fields.title?.es || "";
   let titlePT = fields.title?.pt || "";
@@ -233,6 +233,7 @@ function createMarkdownFile(entry) {
   let fileContentES = "";
   let fileContentPT = "";
   let fileFolders = "";
+  let fileSubFolder = "";
 
   const locales = ["en", "es", "pt"];
 
@@ -331,6 +332,7 @@ ${kiWorkaroundPT}
 
 `;
     fileFolders = "known-issues";
+    fileSubFolder = productTeam;
     contentTypes.knownIssues.push(entry);
   } else if (contentType === "tutorial") {
     fileContentEN = `---
@@ -390,7 +392,8 @@ subcategory: ${subcategory}
 
 ${textPT}
 `;
-    fileFolders = "tutorials";
+    fileFolders = "tutorials"
+    fileSubFolder = subcategory
     contentTypes.tutorials.push(entry);
   } else if (contentType === "trackArticle") {
     fileContentEN = `---
@@ -447,7 +450,8 @@ trackSlugPT: ${trackSlugPT}
 
 ${textPT}
 `;
-    fileFolders = `tracks`;
+    fileFolders = "tracks";
+    fileSubFolder = trackSlugEN;
     contentTypes.trackArticles.push(entry);
   } else if (contentType === "frequentlyAskedQuestion") {
     fileContentEN = `---
@@ -505,8 +509,10 @@ legacySlug: ${legacySlugPT}
 ${textPT}
 `;
     fileFolders = "faq";
+    fileSubFolder = productTeam;
     contentTypes.faqs.push(entry);
   } else if (contentType === "updates") {
+    fileNameEN = createdAt.split("T")[0] + "-" + fileNameEN;
     fileContentEN = `---
 title: ${titleEN.includes("'") ? `"${titleEN}"` : `'${titleEN}'`}
 id: ${entryId}
@@ -564,7 +570,7 @@ announcementSynopsisPT: ${announcementSynopsisPT.includes("'") ? `"${announcemen
 
 ${textPT}
 `;
-    fileFolders = `announcements`;
+    fileFolders = "announcements";
     contentTypes.announcements.push(entry);
   } else if (contentType === "category") {
     contentTypes.categories.push(entry);
@@ -591,15 +597,31 @@ ${textPT}
     } catch (err) {
       console.log("Error creating folder", err);
     }
-    const localeFolderName = `./docs/${fileFolders}/${locales[i]}`;
+    const subFolderName = `./docs/${fileFolders}/${fileSubFolder}`;
     try {
-      if (!fs.existsSync(localeFolderName)) {
-        fs.mkdirSync(localeFolderName);
+      if (!fs.existsSync(subFolderName)) {
+        fs.mkdirSync(subFolderName);
       }
     } catch (err) {
       console.log("Error creating folder", err);
     }
-    let filePath = `./docs/${fileFolders}/${locales[i]}/${fileNameEN}`;
+    const fileSubFolderName = `./docs/${fileFolders}/${fileSubFolder}/${fileNameEN}`;
+    try {
+      if (!fs.existsSync(fileSubFolderName)) {
+        fs.mkdirSync(fileSubFolderName);
+      }
+    } catch (err) {
+      console.log("Error creating folder", err);
+    }
+    const localeSubFolderName = `./docs/${fileFolders}/${fileSubFolder}/${fileNameEN}/${locales[i]}`;
+    try {
+      if (!fs.existsSync(localeSubFolderName)) {
+        fs.mkdirSync(localeSubFolderName);
+      }
+    } catch (err) {
+      console.log("Error creating folder", err);
+    }
+    let filePath = `./docs/${fileFolders}/${fileSubFolder}/${fileNameEN}/${locales[i]}/${fileNameEN}`;
     fs.writeFile(filePath, fileContents[i], (err) => {
       if (err) {
         console.log(`Error occurred while creating file ${filePath}:`, err);
