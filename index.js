@@ -27,6 +27,9 @@ let contentTypes = {
   unknownContentTypes: [],
 };
 
+let categories = [];
+let subcategories = [];
+
 async function getEntries() {
   try {
     const space = await client.getSpace("alneenqid6w5");
@@ -41,8 +44,9 @@ async function getEntries() {
       const entries = response;
       totalCount = response.total;
 
-      for (let j = 0; j < entries.items.length; j++) {
+      for (let j = 0; j < entries.items.length ; j++) {
         let entry = entries.items[j];
+    //    console.log(entry.fields)
         createMarkdownFile(entry);
       }
       skip += limit;
@@ -185,7 +189,7 @@ function createMarkdownFile(entry) {
   }
 
   let productTeam = fields.xpTeam?.pt || "unknown";
-  let subcategory = fields.subcategory?.pt.sys.id || "untitled subcategory";
+  let subcategoryId = fields.subcategory?.pt.sys || "untitled subcategory";
   let titleEN = fields.title?.en || "Untitled";
   let titleES = fields.title?.es || "Untitled";
   let titlePT = fields.title?.pt || "Untitled";
@@ -349,7 +353,7 @@ author: ${author}
 slug: ${slugEN}
 locale: en
 legacySlug: ${legacySlugEN}
-subcategory: ${subcategory}
+subcategoryId: ${subcategoryId}
 ---
 
 ${textEN}
@@ -368,7 +372,7 @@ author: ${author}
 slug: ${slugES}
 locale: es
 legacySlug: ${legacySlugES}
-subcategory: ${subcategory}
+subcategoryId: ${subcategoryId}
 ---
 
 ${textES}
@@ -387,13 +391,13 @@ author: ${author}
 slug: ${slugPT}
 locale: pt
 legacySlug: ${legacySlugPT}
-subcategory: ${subcategory}
+subcategoryId: ${subcategoryId}
 ---
 
 ${textPT}
 `;
     fileFolders = "tutorials"
-    fileSubFolder = subcategory
+    fileSubFolder = subcategoryId
     contentTypes.tutorials.push(entry);
   } else if (contentType === "trackArticle") {
     fileContentEN = `---
@@ -574,9 +578,24 @@ ${textPT}
     contentTypes.announcements.push(entry);
   } else if (contentType === "category") {
     contentTypes.categories.push(entry);
+    let categoryEN = fields.title.en
+    let categoryPT = fields.title.pt;
+    let categoryES = fields.title.es;
+    let categoryId = sys.id;
+    let categorySubcategories = [];
+    for (k = 0; k < fields.subcategories.pt.length; k++) {
+        categorySubcategories.push(fields.subcategories.pt[k].sys.id);
+    }
+    categories.push({"categoryEN": categoryEN, "categoryPT": categoryPT, "categoryES": categoryES, "categoryId": categoryId, "categorySubcategories": categorySubcategories})
     return;
   } else if (contentType === "subcategory") {
     contentTypes.subcategories.push(entry);
+    let subcategoryEN = fields.title.en;
+    let subcategoryPT = fields.title.pt;
+    let subcategoryES = fields.title.es;
+    let subcategoryId = sys.id;
+    let categoryId = fields.category.pt.sys.id;
+    subcategories.push({"subcategoryEN": subcategoryEN, "subcategoryPT": subcategoryPT, "subcategoryES": subcategoryES, "subcategoryId": subcategoryId, "categoryId": categoryId})
     return;
   } else if (contentType === "trackTopic") {
     contentTypes.trackTopics.push(entry);
