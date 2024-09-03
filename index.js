@@ -282,7 +282,9 @@ function createMarkdownFile(entry,categories,subcategories) {
     status = "CHANGED";
   } else if (isPublished(entry)) {
     status = "PUBLISHED";
-  } else if (isArchived(entry)) {
+  }
+  
+  if (isArchived(entry)) {
     status = "ARCHIVED";
   }
 
