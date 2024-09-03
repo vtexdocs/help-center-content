@@ -24,4 +24,4 @@ O manual das classes e métodos usados no Web Service é um material complementa
 >
 > **Todos os outros métodos estão descontinuados a partir de 28/02/2017.**
 >
-> Use as APIs REST equivalentes, disponíveis em nosso [Developer Docs](//help.vtex.com/developer-docs/).
+> Use as APIs REST equivalentes, disponíveis em nosso [Developer Docs](https://help.vtex.com/developer-docs/).

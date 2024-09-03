@@ -19,7 +19,7 @@ subcategory: 63DHe3VQEEE6Uuua8gIs2M
 >
 > ** All the other Web Service methods will be deprecated as of 02/28/2017.**
 >
-> Use the equivalent REST APIs, available in our [Developer Docs](//help.vtex.com/developer-docs/).
+> Use the equivalent REST APIs, available in our [Developer Docs](https://help.vtex.com/developer-docs/).
 
 The creation of credentials for integrations with the Web Service must be done by License Manager, with the functionality of appKey and appToken.
 

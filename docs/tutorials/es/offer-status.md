@@ -19,7 +19,7 @@ El módulo **Status de los anuncios** permite a los sellers realizar un seguimie
 
 En **Status de los anuncios** se puede llevar a cabo un seguimiento de los anuncios enviados únicamente a los marketplaces VTEX. Para acceder al módulo en el Admin VTEX, ve a **Marketplace > Conexiones > Status de los anuncios,** o ingresa **Status de los anuncios** en la barra de búsqueda.  
 
-![Pantalla de estado de la oferta](//downloads.ctfassets.net/alneenqid6w5/5elFaSW31IgANpXseTApPo/91b3ae83719e933617324f74223d736b/-ES-_Offer_Status_-_GIF.gif)
+![Pantalla de estado de la oferta](https://downloads.ctfassets.net/alneenqid6w5/5elFaSW31IgANpXseTApPo/91b3ae83719e933617324f74223d736b/-ES-_Offer_Status_-_GIF.gif)
 
 La página **Status de los anuncios** está compuesta por tres pestañas: **[Publicados](#pestana-publicados)**, **[Problemas](#pestana-problemas)** y **[A la espera de finalización.](#pestana-a-la-espera-de-finalizacion)** Todas ellas presentan una lista de tus anuncios de acuerdo con su status actual. Accede y consulta los detalles de cada anuncio, como status, stock, precio, fecha de actualización y los motivos de rechazo en el marketplace.
 

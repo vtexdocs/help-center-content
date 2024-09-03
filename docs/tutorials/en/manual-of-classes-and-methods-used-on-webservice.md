@@ -23,4 +23,4 @@ The Web Service interface enables access of storeowners in charge to practically
 >
 > **All other methods will be deprecated as of 02/28/2017.**
 >
-> Use the equivalent REST APIs avilable in our [Developer Docs](//help.vtex.com/developer-docs/).
+> Use the equivalent REST APIs avilable in our [Developer Docs](https://help.vtex.com/developer-docs/).

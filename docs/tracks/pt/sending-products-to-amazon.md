@@ -50,7 +50,7 @@ Para realizar o mapeamento de categorias:
 3. Selecione a categoria correspondente na Amazon do produto que deseja enviar.  
 4. Faça a correspondência dos atributos na janela lateral, conforme imagem abaixo:  
 
-![Mapper Amazon Atributos](//downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/7724063f4b499153958aadf44ee0a704/mapper_amazon_atributos.gif)
+![Mapper Amazon Atributos](https://downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/7724063f4b499153958aadf44ee0a704/mapper_amazon_atributos.gif)
 
 5. Clique no botão __`Salvar Alterações`__.  
 
