@@ -6,6 +6,9 @@ const client = contentful.createClient({
   accessToken: process.env.CONTENTFUL_ACCESS_TOKEN ?? '',
 });
 
+const path = require('path');
+const fs = require("fs");
+
 let fileCount = 0;
 
 let contentTypes = {
@@ -30,7 +33,7 @@ let contentTypes = {
 let categories = [];
 let subcategories = [];
 
-async function getEntries() {
+async function getCategories() {
   try {
     const space = await client.getSpace("alneenqid6w5");
     const environment = await space.getEnvironment("master");
@@ -46,8 +49,87 @@ async function getEntries() {
 
       for (let j = 0; j < entries.items.length ; j++) {
         let entry = entries.items[j];
-    //    console.log(entry.fields)
-        createMarkdownFile(entry);
+        createCategoryFolders(entry);
+      }
+      skip += limit;
+    } while (skip < totalCount);
+  } catch (error) {
+    console.log("Error occurred while fetching category:", error);
+  }
+//  console.log(categories);
+  return categories;
+}
+
+async function getSubcategories() {
+  await getCategories();
+  try {
+    const space = await client.getSpace("alneenqid6w5");
+    const environment = await space.getEnvironment("master");
+
+    let skip = 0;
+    let limit = 100;
+    let totalCount = 0;
+
+    do {
+      const response = await environment.getEntries({ skip, limit });
+      const entries = response;
+      totalCount = response.total;
+
+      for (let j = 0; j < entries.items.length ; j++) {
+        let entry = entries.items[j];
+        getSubcategoryInfo(entry,categories);
+      }
+      skip += limit;
+    } while (skip < totalCount);
+  } catch (error) {
+    console.log("Error occurred while fetching subcategory:", error);
+  }
+
+  // Cross-matching and updating categories
+  categories.forEach(category => {
+    const subcategoryNames = subcategories
+      .filter(sub => sub.categoryId === category.categoryId)
+      .map(sub => sub.subcategoryEN);
+
+    category.subcategoryNames = subcategoryNames;
+  });
+
+  // Cross-matching and updating subcategories
+  subcategories.forEach(subcategory => {
+    const category = categories.find(cat => cat.categoryId === subcategory.categoryId);
+    if (category) {
+      subcategory.categoryName = category.categoryEN;
+    }
+  });
+
+//  console.log('Updated Categories:', categories);
+//  console.log('Updated Subcategories:', subcategories);
+
+  createSubcategoryFolders(subcategories);
+  return subcategories;
+}
+
+async function getEntries(categories,subcategories) {
+
+  await getSubcategories();
+
+  try {
+    const space = await client.getSpace("alneenqid6w5");
+    const environment = await space.getEnvironment("master");
+
+    let skip = 0;
+    let limit = 100;
+    let totalCount = 0;
+
+    do {
+      const response = await environment.getEntries({ skip, limit });
+      const entries = response;
+      totalCount = response.total;
+
+      for (let j = 0; j < entries.items.length ; j++) {
+        let entry = entries.items[j];
+    //  console.log(entry.fields)
+        createMarkdownFile(entry,categories,subcategories);
       }
       skip += limit;
     } while (skip < totalCount);
@@ -121,7 +203,78 @@ function isArchived(entry) {
   return !!entry.sys.archivedVersion;
 }
 
-function createMarkdownFile(entry) {
+function createCategoryFolders(entry) {
+  let contentType = entry.sys.contentType.sys.id;
+  if (contentType === "category") {
+    let categoryEN = entry.fields.title?.en || "Untitled";
+    let categoryPT = entry.fields.title?.pt || "Untitled";
+    let categoryES = entry.fields.title?.es || "Untitled";
+    let categoryId = entry.sys.id;
+    let categorySubcategories = [];
+    if ('subcategories' in entry.fields) {
+      for (k = 0; k < entry.fields.subcategories.pt.length; k++) {
+        categorySubcategories.push(entry.fields.subcategories.pt[k].sys.id);
+      }
+    }
+    categories.push({"categoryEN": categoryEN, "categoryPT": categoryPT, "categoryES": categoryES, "categoryId": categoryId, "categorySubcategories": categorySubcategories})
+    try {
+      if (!fs.existsSync(`./docs/tutorials`)) {
+        fs.mkdirSync(`./docs/tutorials`);
+      }
+    } catch (err) {
+      console.log("Error creating tutorials folder", err);
+    }
+    try {
+      if (!fs.existsSync(`./docs/tutorials/${categoryEN}`)) {
+        fs.mkdirSync(`./docs/tutorials/${categoryEN}`);
+      }
+    } catch (err) {
+      console.log("Error creating category folder", err);
+    }
+    return;
+  }
+}
+
+function getSubcategoryInfo(entry) {
+  let contentType = entry.sys.contentType.sys.id;
+  if (contentType === "subcategory") {
+    let subcategoryEN = entry.fields.title?.en || "Untitled";
+    let subcategoryPT = entry.fields.title?.pt || "Untitled";
+    let subcategoryES = entry.fields.title?.es || "Untitled";
+    let subcategoryId = entry.sys.id;
+    let categoryId = entry.fields.category?.pt.sys.id || "";
+    subcategories.push({"subcategoryEN": subcategoryEN, "subcategoryPT": subcategoryPT, "subcategoryES": subcategoryES, "subcategoryId": subcategoryId, "categoryId": categoryId});
+    return subcategories;
+  }
+}
+
+function createSubcategoryFolders(subcategories) {
+  for (let a = 0; a < subcategories.length ; a++) {
+    try {
+      if (!fs.existsSync(`./docs/tutorials`)) {
+        fs.mkdirSync(`./docs/tutorials`);
+      }
+    } catch (err) {
+      console.log("Error creating tutorials folder", err);
+    }
+    try {
+      if (!fs.existsSync(`./docs/tutorials/${subcategories[a].categoryName}`.replace(": ", " - "))) {
+        fs.mkdirSync(`./docs/tutorials/${subcategories[a].categoryName}`.replace(": ", " - "));
+      }
+    } catch (err) {
+      console.log("Error creating category folder", err);
+    }
+    try {
+      if (!fs.existsSync(`./docs/tutorials/${subcategories[a].categoryName}/${subcategories[a].subcategoryEN}`.replace(": ", " - "))) {
+        fs.mkdirSync(`./docs/tutorials/${subcategories[a].categoryName}/${subcategories[a].subcategoryEN}`.replace(": ", " - "));
+      }
+    } catch (err) {
+      console.log("Error creating subcategory folder", err);
+    }
+  }
+}
+
+function createMarkdownFile(entry,categories,subcategories) {
   // extract information from each entry
 
   let status;
@@ -189,7 +342,6 @@ function createMarkdownFile(entry) {
   }
 
   let productTeam = fields.xpTeam?.pt || "unknown";
-  let subcategoryId = fields.subcategory?.pt.sys || "untitled subcategory";
   let titleEN = fields.title?.en || "Untitled";
   let titleES = fields.title?.es || "Untitled";
   let titlePT = fields.title?.pt || "Untitled";
@@ -204,6 +356,35 @@ function createMarkdownFile(entry) {
   let textEN = fields.text?.en || "";
   let textES = fields.text?.es || "";
   let textPT = fields.text?.pt || "";
+  let subcategoryId = fields.subcategory?.pt.sys.id || slugEN + ": unknown subcategory";
+
+  // Initialize category and subcategory variables
+  let subcategoryNameEN = "untitled subcategory";
+  let categoryNameEN = "untitled category";
+
+  console.log('subcategoryId:', subcategoryId);
+
+  // Find the matching subcategory
+  let matchedSubcategory = subcategories.find(sub => sub.subcategoryId === subcategoryId);
+
+  if (matchedSubcategory) {
+    // Get the subcategory name
+//    console.log('Found subcategory:', matchedSubcategory);
+    subcategoryNameEN = matchedSubcategory.subcategoryEN;
+
+    // Find the corresponding category for the subcategory
+    let matchedCategory = categories.find(cat => cat.categoryId === matchedSubcategory.categoryId);
+    
+    if (matchedCategory) {
+ //     console.log('Found category:', matchedCategory);
+      // Get the category name
+      categoryNameEN = matchedCategory.categoryEN
+    }
+  }
+
+  // Output the results
+  console.log('subcategoryNameEN:', subcategoryNameEN);
+  console.log('categoryNameEN:', categoryNameEN);
 
   let kiStatusEN = fields.status?.pt[0] || "";
   let kiStatusES = fields.status?.pt[0] || "";
@@ -226,8 +407,6 @@ function createMarkdownFile(entry) {
 
   // create .md files in locale folders for each item
 
-  const fs = require("fs");
-
   let fileNameEN = `${slugEN}.md`;
   fileNameEN = fileNameEN.replace(/\?/g, ""); // remove all "?" characters
   //  let fileNameES = `${slugES}.md`;
@@ -238,6 +417,7 @@ function createMarkdownFile(entry) {
   let fileContentPT = "";
   let fileFolders = "";
   let fileSubFolder = "";
+  let fileSubcategoryFolder = "";
 
   const locales = ["en", "es", "pt"];
 
@@ -397,7 +577,10 @@ subcategoryId: ${subcategoryId}
 ${textPT}
 `;
     fileFolders = "tutorials"
-    fileSubFolder = subcategoryId
+    console.log(categoryNameEN)
+    fileSubFolder = categoryNameEN
+    console.log(fileSubFolder)
+    fileSubcategoryFolder = subcategoryNameEN
     contentTypes.tutorials.push(entry);
   } else if (contentType === "trackArticle") {
     fileContentEN = `---
@@ -578,24 +761,9 @@ ${textPT}
     contentTypes.announcements.push(entry);
   } else if (contentType === "category") {
     contentTypes.categories.push(entry);
-    let categoryEN = fields.title.en
-    let categoryPT = fields.title.pt;
-    let categoryES = fields.title.es;
-    let categoryId = sys.id;
-    let categorySubcategories = [];
-    for (k = 0; k < fields.subcategories.pt.length; k++) {
-        categorySubcategories.push(fields.subcategories.pt[k].sys.id);
-    }
-    categories.push({"categoryEN": categoryEN, "categoryPT": categoryPT, "categoryES": categoryES, "categoryId": categoryId, "categorySubcategories": categorySubcategories})
     return;
   } else if (contentType === "subcategory") {
     contentTypes.subcategories.push(entry);
-    let subcategoryEN = fields.title.en;
-    let subcategoryPT = fields.title.pt;
-    let subcategoryES = fields.title.es;
-    let subcategoryId = sys.id;
-    let categoryId = fields.category.pt.sys.id;
-    subcategories.push({"subcategoryEN": subcategoryEN, "subcategoryPT": subcategoryPT, "subcategoryES": subcategoryES, "subcategoryId": subcategoryId, "categoryId": categoryId})
     return;
   } else if (contentType === "trackTopic") {
     contentTypes.trackTopics.push(entry);
@@ -606,50 +774,40 @@ ${textPT}
   }
 
   let fileContents = [fileContentEN, fileContentES, fileContentPT];
-
   for (let i = 0; i < locales.length; i++) {
-    const folderName = `./docs/${fileFolders}`;
+    // Construct the paths
+    const baseFolder = path.join('./docs', fileFolders);
+    const subFolder = path.join(baseFolder, fileSubFolder);
+    const subcategoryFolder = fileSubcategoryFolder ? path.join(subFolder, fileSubcategoryFolder) : null;
+    const fileFolderName = subcategoryFolder ? path.join(subcategoryFolder, fileNameEN) : path.join(subFolder, fileNameEN);
+    const localeFolder = path.join(fileFolderName, locales[i]);
+    const filePath = path.join(localeFolder, fileNameEN);
+  
+    // Array of folders to create
+    const foldersToCreate = [baseFolder, subFolder, subcategoryFolder, fileFolderName, localeFolder].filter(Boolean);
+  
+    // Create each folder if it doesn't exist
     try {
-      if (!fs.existsSync(folderName)) {
-        fs.mkdirSync(folderName);
-      }
+      foldersToCreate.forEach(folder => {
+        if (!fs.existsSync(folder)) {
+          fs.mkdirSync(folder, { recursive: true });
+        }
+      });
     } catch (err) {
-      console.log("Error creating folder", err);
+      console.error("Error creating folder:", err);
     }
-    const subFolderName = `./docs/${fileFolders}/${fileSubFolder}`;
-    try {
-      if (!fs.existsSync(subFolderName)) {
-        fs.mkdirSync(subFolderName);
-      }
-    } catch (err) {
-      console.log("Error creating folder", err);
-    }
-    const fileSubFolderName = `./docs/${fileFolders}/${fileSubFolder}/${fileNameEN}`;
-    try {
-      if (!fs.existsSync(fileSubFolderName)) {
-        fs.mkdirSync(fileSubFolderName);
-      }
-    } catch (err) {
-      console.log("Error creating folder", err);
-    }
-    const localeSubFolderName = `./docs/${fileFolders}/${fileSubFolder}/${fileNameEN}/${locales[i]}`;
-    try {
-      if (!fs.existsSync(localeSubFolderName)) {
-        fs.mkdirSync(localeSubFolderName);
-      }
-    } catch (err) {
-      console.log("Error creating folder", err);
-    }
-    let filePath = `./docs/${fileFolders}/${fileSubFolder}/${fileNameEN}/${locales[i]}/${fileNameEN}`;
+  
+    // Write the file
     fs.writeFile(filePath, fileContents[i], (err) => {
       if (err) {
-        console.log(`Error occurred while creating file ${filePath}:`, err);
+        console.error(`Error occurred while creating file ${filePath}:`, err);
       } else {
-        //        console.log(`File ${filePath} created successfully.`);
         fileCount++;
       }
     });
   }
 }
 
-getEntries();
+// getCategories();
+// getSubcategories();
+getEntries(categories,subcategories);
