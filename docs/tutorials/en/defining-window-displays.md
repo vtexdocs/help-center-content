@@ -25,25 +25,25 @@ After defining this, link the collection to the window display in **Storefront >
 
 In the example below, we will define a window display on the home page, and to do so the following layout has to be changed:
 
-![cms_layout_home ](https://images.ctfassets.net/alneenqid6w5/36BJckeyOAIYeEm8sOwQO0/e7a24fbbfe861550445a9f18dee77954/cms_layout_home.png)
+![cms_layout_home ](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/defining-window-displays-0.png)
 
 In the selected layout, add the control for the window display where you want to display the collection by clicking on **Add Object**
 After selecting the type of control you want, set its name and click **Adicionar** (Add)
 
 __Do not forget to click on the "Save Settings" button so that you can later edit the created control.__
 
-![ed](https://images.ctfassets.net/alneenqid6w5/21omKZNVc8QaWSw6K4akEQ/70105f086510d2eec6bfb3862a9979f5/save_settings_cms.png)
+![ed](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/defining-window-displays-1.png)
 
 ### Editing created control
 
 To edit your controls, click on the **pencil symbol**, as shown in the example image below:
 
-![banner_edit_cms](https://images.ctfassets.net/alneenqid6w5/5eOuIai1zGGWOKI4OmoMOQ/5ff1b51e63a08d6d265a1e053999a369/banner_edit_cms.png)
+![banner_edit_cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/defining-window-displays-2.png)
 
 When you editing the control you must add its contents by clicking **Add content**, which represent each set of items to be displayed.
 
-![cadastro_conteudo_cms ](https://images.ctfassets.net/alneenqid6w5/TWIydQxL2M4WsEiccmI2A/f8ff28eafb9dde3e01926b899262f519/cadastro_de_conteudo_1.png)
-![cadastro_conteudo_cms 2](https://images.ctfassets.net/alneenqid6w5/6Q0ZTbWIBUeu2uSY8w2mMs/5fb5a636e8781881b47237714571ee1c/cadastro_de_conteudo_2.png)
+![cadastro_conteudo_cms ](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/defining-window-displays-3.png)
+![cadastro_conteudo_cms 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/defining-window-displays-4.png)
 
 - **"Adicionar arquivo" (add file):** to select the collection that will be displayed in this content.
 - **Partner / Campaign / Source:** defines the display of this content if the visitor has a corresponding UTM in its source URL.
@@ -59,7 +59,7 @@ Check **Active Content** box and click on **Add content list**. Do not forget to
 
 If it is necessary to update the created content after saving it, just click on the second pencil symbol as shown below:
 
-![edit_content_cms](https://images.ctfassets.net/alneenqid6w5/3m9TM8vkEU0UmkueoEYIM8/89b2385f1e14978383b9d4fd0ecfd129/edi_content.png)
+![edit_content_cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/defining-window-displays-5.png)
 
 Click **Update Content List** after all changes were made and clicking on **Save Settings** afterwards.
 

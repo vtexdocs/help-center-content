@@ -25,30 +25,30 @@ After the proper definitions, the collection is linked to the shop window at **S
 
 In the example below, we will define a shop window shown on the Home page. Therefore, select **Settings**, then **add object**, as in the following image.
 
-![coleção2](https://images.ctfassets.net/alneenqid6w5/5JzAgUQ2NU4oIM88Kqm8AW/a4d8c175710d8542dc0099cd16c5168d/cole____o2.png)
+![coleção2](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/how-to-include-a-collection-of-products-in-the-shop-window-0.png)
 
 This command will open the **Visual Controls**, that correspond to the showcase where you want to display the collection. Add a _Collection_, but be sure to set a name for it.
 
-![coleção3](https://images.ctfassets.net/alneenqid6w5/12pUvp3l5u0CcIISmG6g2A/cf86f9d87c6c9ee2e9f1db979d2b2836/cole____o3.png) 
+![coleção3](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/how-to-include-a-collection-of-products-in-the-shop-window-1.png) 
 
-![coleção4](https://images.ctfassets.net/alneenqid6w5/6XdqMY2IAoy6ugIK4KcYEk/0491e41c7dda3da46334ab975fe7f2ee/cole____o4.png)
+![coleção4](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/how-to-include-a-collection-of-products-in-the-shop-window-2.png)
 
 Remember to save the settings so that you can edit the control created.
 
-![coleção5](https://images.ctfassets.net/alneenqid6w5/3edZaVppl6cuU64yqisaGm/4cb795f99bf6227597d044736a7e0184/cole____o5.png)
+![coleção5](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/how-to-include-a-collection-of-products-in-the-shop-window-3.png)
 
-![coleção6](https://images.ctfassets.net/alneenqid6w5/Zry4UUPxW8Eic6yWmok4C/a997c64b6c59a0f3a3551228a685ff58/cole____o6.png)
+![coleção6](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/how-to-include-a-collection-of-products-in-the-shop-window-4.png)
 
 To edit the control, it is necessary to add its contents, which represent each set of items to be displayed.
 Are they:
 _Layout_: Select the shelf template used in the showcase.
 _Number of Columns, Number of Items, Show Unavailable_ and _Ramdom ad Paged_: Define the layout, quantity, and the criteria for displaying the items.
 
-![coleção7](https://images.ctfassets.net/alneenqid6w5/4A4DMctlIkaaa2OGeAMwSq/a8205c9b1715f46dc9b8feac175de132/cole____o7.png)
+![coleção7](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/how-to-include-a-collection-of-products-in-the-shop-window-5.png)
 
 Remember to save your changes before you search or change pages.
 The next step is to add the content by selecting **Add Content**.
-![coleção8](https://images.ctfassets.net/alneenqid6w5/ytG3zPwgDY4SQwYWsa6am/27dc5ad87b2f0b25d33b991ab006c7df/cole____o8.png)
+![coleção8](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/how-to-include-a-collection-of-products-in-the-shop-window-6.png)
 
 It is possible to define each content by using collections or search results, by using search parameters (further details [here](/en/tutorial/search-parameters "here"))
 
@@ -58,7 +58,7 @@ _QueryString_: The parameters entered in this field define the search result tha
 
 In the **Product Cluster (Collection)** field, you must select the collection that will be displayed by completing the following step:
 
-![coleção10](https://images.ctfassets.net/alneenqid6w5/RHE3D2CrkG0qSguGsMS40/aa6db36e948f397ca2b1c0abc4a69be1/cole____o10.png)
+![coleção10](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/how-to-include-a-collection-of-products-in-the-shop-window-7.png)
 
 The contents to be filled in the **Display Condition** part:
 _Partner, Campaign_ and _Source_: Define the display of this content if the visitor has a corresponding UTM in its source URL.
@@ -70,7 +70,7 @@ After the settings, check **Active Content** and add to the content list, saving
 
 The example below shows a standard shop window, with no display conditions, and another one exclusive for visits arising from Google sponsored campaign audiences (utm_source=**google**/utm_medium=**cpc**): 
 
-![coleção9](https://images.ctfassets.net/alneenqid6w5/5IoPfaWgUwUsGUuCAmYS6q/ded32f70db90ffb4f3fffd740b35381b/cole____o9.png)
+![coleção9](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/how-to-include-a-collection-of-products-in-the-shop-window-8.png)
 
 In the scenario above, if the customer came from the sponsored campaign audience, the products corresponding to the result of a search for ID 200000 Brand will be displayed on the **Lançamentos** shop window, located on Home; otherwise, the products corresponding to ID 8 collection will be displayed.
 

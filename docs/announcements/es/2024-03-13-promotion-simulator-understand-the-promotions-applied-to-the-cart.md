@@ -31,7 +31,7 @@ A partir de ahora, el **Simulador de promociones** estará accesible para todas 
 * **Probar la aplicación** de otras promociones en el carrito antes de activarlas, incluidas las promociones programadas o inactivas.
 * **Comprender los motivos** por los que no se ha aplicado una promoción al carrito.
 
-![promotions simulator - es-gif 3](//downloads.ctfassets.net/alneenqid6w5/5RwzKZuP1klBEZfpUYAivG/57780b2b9e038420e502eda2c41f4357/promotions_simulator_gi-3.gif)
+![promotions simulator - es-gif 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/main//downloads.ctfassets.net/alneenqid6w5/5RwzKZuP1klBEZfpUYAivG/57780b2b9e038420e502eda2c41f4357/promotions_simulator_gi-3.gif)
 
 ## ¿Qué se necesita hacer?
 
@@ -46,7 +46,7 @@ Para empezar a utilizar el Simulador, sigue los pasos a continuación:
     También puedes acceder directamente a través de la URL `https://{accountname}.myvtex.com`,` `sustituyendo `{accountname}` por el nombre de tu cuenta VTEX.
 
 2. Agrega productos al carrito y accede al checkout en `https://{accountname}.myvtex.com/checkout/#/cart`.
-3. Haz clic en el botón azul <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> de la parte inferior derecha de la página para iniciar Cartman.
+3. Haz clic en el botón azul <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/main//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> de la parte inferior derecha de la página para iniciar Cartman.
 4. Haz clic en **Simulador de promociones**.
 
     En la nueva ventana, verás los detalles de las promociones aplicadas y no aplicadas al carrito.

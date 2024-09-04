@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Acompanhe seus anúncios com o novo módulo Status dos 
 
 __Status dos anúncios__ é o novo módulo no Admin VTEX que permite ao seller acompanhar o envio e a sincronização dos anúncios de integrações com marketplaces VTEX de todas as regiões do mundo. Para acessar o módulo, vá em __Marketplace > Conexões > Status de anúncios,__ ou digite __Status de anúncios__ na barra de busca.
 
-![Tela Offer Status](//downloads.ctfassets.net/alneenqid6w5/5elFaSW31IgANpXseTApPo/e383485bcec5739e5594fb942ab529a2/-PT-_Offer_Status_-_GIF.gif)
+![Tela Offer Status](https://raw.githubusercontent.com/vtexdocs/help-center-content/main//downloads.ctfassets.net/alneenqid6w5/5elFaSW31IgANpXseTApPo/e383485bcec5739e5594fb942ab529a2/-PT-_Offer_Status_-_GIF.gif)
 
 ## Por que desenvolvemos essa funcionalidade?
 

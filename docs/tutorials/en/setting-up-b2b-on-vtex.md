@@ -35,7 +35,7 @@ This is the most important step to activate the B2B. Upon setting up the B2B Com
 
 Usually, in traditional B2Bs, this field is filled out with the value `approved="true"` (where `approved` is the name of a field of the Client entity, in Master Data). Using this rule, only authenticated and approved users will be able to browse the website.
 
-![](https://images.contentful.com/alneenqid6w5/34rM0gmlgQOoqwwEG2c0ck/a506984d2e7c23381e05a6ad16306d9f/1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/setting-up-b2b-on-vtex-0.png)
 
 ## 2.Customize the layout of B2B directories
 
@@ -49,13 +49,13 @@ Check out the basic characteristics of each type of user:
 
 Thus, to have a B2B environment, the **401** and **403** folders, under the **system** folder, must be customized.
 
-![](https://images.contentful.com/alneenqid6w5/4eOGUWH7nWqyQGCmIou6WO/1910b62f54515007e85aa3a82d04fb9e/2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/setting-up-b2b-on-vtex-1.png)
 
 Browsing by Anonymous users (when attempting to access any page, they will be redirected to 401):
-![](https://images.contentful.com/alneenqid6w5/1bxTbhKatws2mgGiOGSUYW/8bf8e626bf53a8e785ffdcc5f2ffc813/3.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/setting-up-b2b-on-vtex-2.png)
 
 Browsing by non-approved users (when attempting to access any page, they will be redirected to 403):
-![](https://images.contentful.com/alneenqid6w5/1Ep24Fgl1SIG6Uw8Wmkq42/2a995f8d9c2be0e92629447c1e6d3948/4.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/setting-up-b2b-on-vtex-3.png)
 
 ## 3. Define pre-registration fields
 
