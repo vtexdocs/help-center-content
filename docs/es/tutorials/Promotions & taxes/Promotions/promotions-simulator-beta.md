@@ -29,7 +29,7 @@ El **Simulador de promociones** está disponible para todas las tiendas VTEX med
 
 2. Agrega productos al carrito y accede al checkout mediante `https://{nombredelacuenta}.myvtex.com/checkout/#/cart`.
 
-3. Haz clic en el botón azul <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> en la parte inferior derecha de la página para iniciar Cartman.
+3. Haz clic en el botón azul <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> en la parte inferior derecha de la página para iniciar Cartman.
 4. Haz clic en **Simulador de promociones**.
 
    En la nueva ventana, verás una lista de los productos que están en tu carrito. Podrás ver todas las promociones aplicadas y aplicables a cada uno de los ítems.

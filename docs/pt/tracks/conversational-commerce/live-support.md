@@ -39,8 +39,8 @@ Se optar por não utilizar, é necessário definir uma mensagem de indisponibili
 >ℹ️ Em caso de feriados fixos, regionais ou outras datas em que não possua atendimento, informe a data e o horário em que o atendimento não estará disponível. Caso os períodos se repitam anualmente, é possível selecionar “recorrência anual”, pré-definindo a configuração para os próximos períodos.
 
 <ol start="4">
-  <li>Se houver alguma exceção de atendimento, informe os períodos de indisponibilidade.<br><img src="//images.ctfassets.net/alneenqid6w5/2z0LWtsZqBbxpjbf060Hvu/b9e85eff01bcd5f86a685720b7b9a1f0/image4.png" alt="Exceções ou feriados"></li>
-  <li>Defina uma mensagem de indisponibilidade. Esta mensagem será enviada nos momentos em que clientes entrarem em contato via Whatsapp em períodos fora das janelas de atendimento configuradas.<br><img src="//images.ctfassets.net/alneenqid6w5/16iLFjlXSqrrAW34s8PIXn/893fc8739cf19e9160a37c650614af2b/Mensagem_de_indisponibilidade.png" alt="Mensagem de indisponibilidade"></li>
+  <li>Se houver alguma exceção de atendimento, informe os períodos de indisponibilidade.<br><img src="https://images.ctfassets.net/alneenqid6w5/2z0LWtsZqBbxpjbf060Hvu/b9e85eff01bcd5f86a685720b7b9a1f0/image4.png" alt="Exceções ou feriados"></li>
+  <li>Defina uma mensagem de indisponibilidade. Esta mensagem será enviada nos momentos em que clientes entrarem em contato via Whatsapp em períodos fora das janelas de atendimento configuradas.<br><img src="https://images.ctfassets.net/alneenqid6w5/16iLFjlXSqrrAW34s8PIXn/893fc8739cf19e9160a37c650614af2b/Mensagem_de_indisponibilidade.png" alt="Mensagem de indisponibilidade"></li>
   <li>Clique em <code>Salvar</code>.</li>
 </ol> 
 

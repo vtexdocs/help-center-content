@@ -35,7 +35,7 @@ A seção **Status da indexação** exibe as seguintes informações:
 
 Você pode filtrar a lista de produtos indexados para uma visualização customizada. Importante destacar que o tempo médio de indexação e a divisão dos status serão recalculados a partir dos produtos filtrados. 
 
-Para filtrar a lista de produtos indexados clique em `Filtro` <img src="//images.ctfassets.net/alneenqid6w5/7fFqJC2W7BQXSHlocRAqOM/dc6cf099d6add3b55d0353024dcc3ca8/Screenshot_2022-09-01_at_13-46-21_EDU-7374_-_Documenta____o_nova_tela_de_indexa____o.png" alt="filtros" width="25"/>. Selecione `Status` ou `Tempo de indexação` para definir o critério de filtragem. 
+Para filtrar a lista de produtos indexados clique em `Filtro` <img src="https://images.ctfassets.net/alneenqid6w5/7fFqJC2W7BQXSHlocRAqOM/dc6cf099d6add3b55d0353024dcc3ca8/Screenshot_2022-09-01_at_13-46-21_EDU-7374_-_Documenta____o_nova_tela_de_indexa____o.png" alt="filtros" width="25"/>. Selecione `Status` ou `Tempo de indexação` para definir o critério de filtragem. 
 
 ![Historico indexação 3 - PT](https://images.ctfassets.net/alneenqid6w5/4lDygmJ2FzZsQF60nVb4fj/62e70bc865853961ce4d57456e7d3830/Screenshot_2022-09-01_at_13-08-05_EDU-7374_-_Documenta____o_nova_tela_de_indexa____o.png)
 

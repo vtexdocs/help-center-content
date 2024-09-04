@@ -37,14 +37,14 @@ Para instalar el Visa Checkout, basta hacer clic en el botón verde a la derecha
 El botón de instalación lleva a la pantalla de permisiones, donde es posible visualizar todos los datos y lugares a los que la extensión desea tener acceso.
 
 <video width="840" height="473" controls>
- <source src="//videos.contentful.com/alneenqid6w5/IgC71vETm0A0M6agwmMmc/d27af4dfa203d4ab66b93bb802c5f800/permiss__es.mp4" type="video/mp4">
+ <source src="https://videos.contentful.com/alneenqid6w5/IgC71vETm0A0M6agwmMmc/d27af4dfa203d4ab66b93bb802c5f800/permiss__es.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 Una vez que usted acepte las permisiones, la extensión será instalada.
 
 <video width="840" height="473" controls>
- <source src="//videos.contentful.com/alneenqid6w5/3kRC32aTbG2gyUWSIGwM0m/67013b7b8a0acf17d1c87e1a3a6ff4c0/instala____o.mp4" type="video/mp4">
+ <source src="https://videos.contentful.com/alneenqid6w5/3kRC32aTbG2gyUWSIGwM0m/67013b7b8a0acf17d1c87e1a3a6ff4c0/instala____o.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -53,7 +53,7 @@ Your browser does not support the video tag.
 Para que la extensión funcione correctamente, usted necesita cumplir una etapa de configuración. Basta completar algunos campos, como mostrado en la imagen a continuación y hacer clic en **Criar conta**.
 
 <video width="840" height="473" controls>
- <source src="//videos.contentful.com/alneenqid6w5/63IczsAzSMguai0q2wKYiI/d7391facbdf489faad485063d5609eeb/configura____es.mp4" type="video/mp4">
+ <source src="https://videos.contentful.com/alneenqid6w5/63IczsAzSMguai0q2wKYiI/d7391facbdf489faad485063d5609eeb/configura____es.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -64,7 +64,7 @@ Usted debe, entonces, ver un mensaje de éxito de la instalación.
 Además, la VTEX App Store muestra un ambiente de preview del Visa Checkout, donde usted puede probar el funcionamiento de la extensión.
 
 <video width="840" height="473" controls>
- <source src="//videos.contentful.com/alneenqid6w5/3n6yIIZGGscuMQEgQ0gUoW/248a7472cc8aea682320d2245d189c15/success.mp4" type="video/mp4">
+ <source src="https://videos.contentful.com/alneenqid6w5/3n6yIIZGGscuMQEgQ0gUoW/248a7472cc8aea682320d2245d189c15/success.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
