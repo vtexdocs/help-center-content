@@ -156,5 +156,5 @@ Para reactivar las claves de aplicación externas que se hayan desactivado previ
 
 Si es necesario para una auditoría de seguridad, puedes exportar un archivo CSV que contenga los valores **Clave** de todas las claves de aplicación internas y externas que actualmente tienen acceso a tu cuenta, es decir, con roles asociados a la misma.
 
-Para exportar las claves, accede a _Configuración de la cuenta > Claves de aplicación > <span style="display: inline-block;"><img src="//images.contentful.com/alneenqid6w5/25JqGWNUZPZattDX6ORXX6/742e99e17042024b9cae641564909171/image4.png" alt="export-button"/> <strong>Exportar</strong></span>.
+Para exportar las claves, accede a _Configuración de la cuenta > Claves de aplicación > <span style="display: inline-block;"><img src="https://images.contentful.com/alneenqid6w5/25JqGWNUZPZattDX6ORXX6/742e99e17042024b9cae641564909171/image4.png" alt="export-button"/> <strong>Exportar</strong></span>.
 

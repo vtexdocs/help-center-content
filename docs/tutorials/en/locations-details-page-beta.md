@@ -15,6 +15,4 @@ legacySlug: locations-details-page
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-warning" role="alert">
-This is a regional exclusive content not applicable to English speaking countries.
-</div>
+>⚠️ This is a regional exclusive content not applicable to English speaking countries.

@@ -14,5 +14,5 @@ trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugEN: carrefour-integration-set-up
 ---
 
-<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to 
-English speaking countries.</div>
+>⚠️ This is a regional exclusive content not applicable to 
+> English speaking countries.

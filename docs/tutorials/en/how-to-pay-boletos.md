@@ -15,4 +15,4 @@ legacySlug: how-to-pay-boletos-using-vtex-payment
 subcategory: 6J5IKNejpAxT1Ie23PDtU4
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

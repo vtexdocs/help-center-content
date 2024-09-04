@@ -3,8 +3,8 @@ title: 'Gestionar el muelle'
 id: 7K3FultD8I2cuuA6iyGEiW
 status: PUBLISHED
 createdAt: 2017-08-03T14:22:38.666Z
-updatedAt: 2023-03-29T15:44:26.137Z
-publishedAt: 2023-03-29T15:44:26.137Z
+updatedAt: 2024-09-03T15:43:32.430Z
+publishedAt: 2024-09-03T15:43:32.430Z
 firstPublishedAt: 2017-08-03T14:25:42.704Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -30,18 +30,10 @@ Este artículo contiene la información necesaria para:
 Es importante saber que para configurar un muelle correctamente hay que: crear el muelle, rellenar los campos de registro (que determinan los horarios de funcionamiento, la prioridad), y también asociar el muelle con la [política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE), el [almacén](https://docs.google.com/document/u/0/d/1Nx2HYf58xSJLB3V_voySEW80sxkzzhR8dNrS6mytytM/edit) y la [política de envío](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
 
 >⚠️ El orden de registro sugerido en la plataforma VTEX para el funcionamiento previsto del sistema logístico es:
-> <body>
->
-> [Política Comercial;](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
->
-> 2. <a href="https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140">Política de envío;
-> </a>
->
-> 3. [Muelle;](https://help.vtex.com/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
->
-> Almacén.
->
-> </body>
+> *[Política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+> * [Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140)
+> * [Muelle](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
+> * [Almacén](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
 
 ## Registrar
 

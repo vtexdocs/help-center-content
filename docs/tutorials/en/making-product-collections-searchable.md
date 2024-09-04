@@ -21,9 +21,7 @@ You can make it possible for the user to find products associated with a specifi
 
 For example: you have a collection called "Children's day" and mark it as searchable. If a customer searches for the term "Children's Day", the products that are part of this collection will be displayed as results of the search.
 
-<div class = "alert alert-warning" >
-  <p><b>Warning:</b> there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.</p>
-</div>
+>⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
 
 To make a collections searchable, follow the steps below:
 

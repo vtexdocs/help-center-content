@@ -20,9 +20,7 @@ Existem duas formas de configurar sinônimos no Admin VTEX: [individualmente](#c
 
 A configuração de sinônimos funciona de maneira recursiva. Isso significa que, ao adicionar um segundo sinônimo a outro já existente, ele também se tornará sinônimo do primeiro. 
 
-<div class="alert alert-info" role="alert">
-<p>Sinônimos não devem ser utilizados para resolver erros de grafia, de plural e singular ou mesmo de pronomes, de artigos e de proposições nos termos pesquisados. Em todos estes pontos, o VTEX Intelligent Search é capaz de interpretar, aprender e resolver automaticamente por meio de algoritmos.</p>
-</div>
+>ℹ️ Sinônimos não devem ser utilizados para resolver erros de grafia, de plural e singular ou mesmo de pronomes, de artigos e de proposições nos termos pesquisados. Em todos estes pontos, o VTEX Intelligent Search é capaz de interpretar, aprender e resolver automaticamente por meio de algoritmos.
 
 ## Criar sinônimos individualmente
 

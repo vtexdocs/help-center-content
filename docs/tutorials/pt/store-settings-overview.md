@@ -19,9 +19,7 @@ subcategory: 5RAUzLD6X9Wa1maenj1eGA
 
 Para acessar esse recurso, clique em __Configurações da Loja__ no menu de navegação à esquerda, e então clique na seção desejada.
 
-<div class="alert alert-warning" role="alert">
-Observe que as páginas e as configurações definidas no ambiente anterior não foram alteradas, apenas reorganizadas no menu lateral do Admin, mudando a forma como você as acessa.
-</div>
+>⚠️ Observe que as páginas e as configurações definidas no ambiente anterior não foram alteradas, apenas reorganizadas no menu lateral do Admin, mudando a forma como você as acessa.
 
 Veja abaixo mais detalhes sobre as diferentes seções e páginas deste menu.
 

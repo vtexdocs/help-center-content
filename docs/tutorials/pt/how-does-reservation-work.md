@@ -3,8 +3,8 @@ title: 'Como a reserva funciona'
 id: tutorials_92
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:56.753Z
-updatedAt: 2023-10-18T17:20:21.911Z
-publishedAt: 2023-10-18T17:20:21.911Z
+updatedAt: 2024-09-03T17:29:38.830Z
+publishedAt: 2024-09-03T17:29:38.830Z
 firstPublishedAt: 2017-04-27T23:00:42.751Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -46,7 +46,7 @@ _Tempo de expiração do pagamento + tempo de reserva no estoque_
     * **cinco dias corridos:** quando o dia de expiração do pagamento for quarta, quinta ou sexta.
     * **seis dias corridos:** quando o dia de expiração do pagamento for sábado.
 
->❗ Pedidos incompletos têm o tempo fixo de reserva de 11 dias corridos. Para saber mais, confira o artigo [Como funcionam os pedidos incompletos](https://help.vtex.com/pt/tutorial/entendendo-os-pedidos-incompletos).
+>❗ Pedidos incompletos podem ter o tempo de reserva de 11 dias corridos. Para saber mais, confira o artigo [Como funcionam os pedidos incompletos](https://help.vtex.com/pt/tutorial/entendendo-os-pedidos-incompletos).
 
 Para marketplace externo, se a informação do tempo da reserva for enviada pelo campo `lockTTL`, o tempo de reserva não será calculado pela plataforma VTEX, e sim determinado pelo prazo no campo. Isso é feito pela chamada [Place order](https://developers.vtex.com/docs/api-reference/checkout-api#put-/api/checkout/pub/orders).
 

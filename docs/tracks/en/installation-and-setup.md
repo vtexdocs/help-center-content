@@ -30,7 +30,7 @@ To install the app in your store, follow the steps below:
 
 After you complete these steps, the app will be installed on the account you entered. The next step is to fill out the basic settings that allow VTEX and Lengow to connect to each other.
 
-<div class="alert alert-warning" role="alert">Your <code class="c-link">{accountName}</code> is the identifier used to access your Admin, as seen in the URL <code>https://<span class="c-link">{accountName}</span>.myvtex.com/admin</code></div>
+>⚠️ Your <code class="c-link">{accountName}</code> is the identifier used to access your Admin, as seen in the URL `https://<span class="c-link">{accountName}</span>.myvtex.com/admin`
 
 ## Connector setup
 

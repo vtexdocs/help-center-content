@@ -15,9 +15,7 @@ legacySlug: price-configuration-beta
 subcategory: 2XTQ6yFYeU5bGHK8Qq3f4I
 ---
 
-<div class = "alert alert-info" >
-  <p>This feature is in Beta stage, meaning we are working to improve it. If you have any questions, please contact <a href = "https://support.vtex.com/hc/en-us/requests">our Support Center</a>.</p>
-</div>
+>ℹ️ This feature is in Beta stage, meaning we are working to improve it. If you have any questions, please contact <a href = "https://support.vtex.com/hc/en-us/requests">our Support Center</a>.
 
 This new Price Settings (Beta) section allows you to create and manage rules for price lists and change general settings in an easy and fast way. 
 
@@ -44,9 +42,7 @@ In this section, you can set the default markup and price variation limit for yo
 
 ## Price table rules
 
-<div class = "alert alert-warning" >
-  <p>This section is the alternative for clients who used to configure their prices through Pricing V1 UTM. Now you can select a price table for UTM scenarios.</p>
-</div>
+>⚠️ This section is the alternative for clients who used to configure their prices through Pricing V1 UTM. Now you can select a price table for UTM scenarios.
 
 In this section you can create pricing table prioritization rules from specific conditions.
 
@@ -71,11 +67,11 @@ To create a new rule, follow the steps below:
 
   b. **Activate in specific conditions:** the price table will be activated according to the conditions set in the rule. See the configuration possibilities on the following images:
 
-  ![config-preco-EN](https://images.ctfassets.net/alneenqid6w5/2sDqS10pMIv7tmDTgP96si/10028ff45ae241863445061a871e98dd/config-preco-EN.png)
+  ![config-preco-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/beta-price-configuration-0.png)
 
-  ![config-preco2-EN](https://images.ctfassets.net/alneenqid6w5/13jaqi9EY1SZ7CdShElb7r/e9ce4f8ca7b2322aacd556fbf5f7cd50/config-preco2-EN.png)
+  ![config-preco2-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/beta-price-configuration-1.png)
 
-![config-preco3-EN](https://images.ctfassets.net/alneenqid6w5/3EC7hLAQO43LoPlijbXFKM/42d35e6f525408f2920da790b08bd88d/config-preco3-EN.png)
+![config-preco3-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/beta-price-configuration-2.png)
 
   7. Click on **Confirm**.
 

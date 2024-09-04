@@ -27,10 +27,7 @@ Autocomplete is the functionality that displays previous search results based on
 
 - Most searched terms.
 
-<div class="alert alert-warning" role="alert">
-<p>When searching for a term not listed, Autocomplete will not find products with that specification and will not display any suggestions.
-</p>
-</div>
+>⚠️ When searching for a term not listed, Autocomplete will not find products with that specification and will not display any suggestions.
 
 During the interaction with the search bar, VTEX Intelligent Search immediately displays the set of _Most searched terms_ and _Last searches_ (if the customer has done searches before).
 
@@ -49,22 +46,22 @@ Another advantage for the store's manager is the increase in conversion due to t
 
 This section displays the most searched terms on the website by other customers.
 
-![top-busca-EN](https://images.ctfassets.net/alneenqid6w5/2gToQi6Nms00oiWUKUbARZ/a935147445ee66de24f43b5c27498119/top-busca-EN.png)
+![top-busca-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/autocomplete-0.png)
 
 ## Last searches
 
 This section displays the last searches performed by the customer. This way, it is possible to start the interaction with the search instantly.
 
-![historico-EN](https://images.ctfassets.net/alneenqid6w5/4MGjASLdfoocOJUHqNQZ3S/a1f82e4d16a67dd446bd8b00117a3744/historico-EN.png)
+![historico-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/autocomplete-1.png)
 
 ## Search suggestions
 
 This section displays the terms and categories other users searched related to the search performed at that time. 
 
-![sugest-EN](https://images.ctfassets.net/alneenqid6w5/1yoepV91SSqKxLr0VVD8AX/4b80f72d4c5c5352c2399a1fbec2489e/sugest-EN.png)
+![sugest-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/autocomplete-2.png)
 
 ## Product suggestion
 
 This section shows the products that correspond to the search carried out at that moment. By displaying products related to your search while you are typing, it reduces dropouts and gives the user the possibility to make a more dynamic purchase.
 
-![produtos-EN](https://images.ctfassets.net/alneenqid6w5/5QMMNF3iCB2428Ycmswtvd/40062662cd777497d54a86eadb13a1d0/produtos-EN.png)
+![produtos-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/autocomplete-3.png)

@@ -15,4 +15,4 @@ legacySlug: account-summary
 subcategory: 6uIlQ5imochc5LFi3dzCSv
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

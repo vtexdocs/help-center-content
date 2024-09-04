@@ -3,8 +3,8 @@ title: 'Configuring the integration with TikTok for Business in VTEX Admin'
 id: 4AEUg7pEdX1beOaQhFf0wC
 status: PUBLISHED
 createdAt: 2022-04-14T21:22:01.564Z
-updatedAt: 2022-04-26T13:08:43.741Z
-publishedAt: 2022-04-26T13:08:43.741Z
+updatedAt: 2024-09-03T19:34:18.900Z
+publishedAt: 2024-09-03T19:34:18.900Z
 firstPublishedAt: 2022-04-18T11:52:11.581Z
 contentType: trackArticle
 productTeam: Channels
@@ -51,7 +51,7 @@ In this section, you must enter your store’s information, which will be sent t
 * **Store name:** the name of your store as it will appear on TikTok.
 * **Store website:** URL of your store's website that will appear on TikTok. It cannot be changed later.
 * **Segment:** a field to select the market segment in which the store operates, among the options made available by TikTok.
-* **Country:** the country in which the store operates. Currently, the integration is only available for Brazil.
+* **Country:** the country in which the store operates. Currently, the integration is only available for Latin American countries.
 * **Time zone:** the time zone in which the business is located.
 
 ### Contact information
@@ -78,7 +78,7 @@ After completing the integration configuration form, you need to connect your Ti
 
 On the **Set Up TikTok for Business page**, as illustrated below, please follow the configuration instructions described next.
 
-![set-up-tiktok-for-business](https://images.ctfassets.net/alneenqid6w5/77d9v0437SxRBVXD0OUmW/290a1ece93c0fcb0fe91a1da61352513/image2.png)
+![set-up-tiktok-for-business](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/configuring-the-integration-with-tiktok-for-business-in-vtex-admin-0.png)
 
 1. Click the __TikTok for Business Account__ section and check if your account is listed.
     * If you want to connect another account, click `Disconnect` and repeat the login step described in [Connecting the TikTok account](#2-connecting-the-tiktok-account).

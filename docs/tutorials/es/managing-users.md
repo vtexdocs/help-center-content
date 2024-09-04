@@ -19,7 +19,7 @@ La gestión de los usuarios con acceso al ambiente administrativo de su tienda V
 
 En esta sección, se mostrará la lista de usuarios con sus respectivos __Nombre__, __Email__ y configuración de __MFA__. También pueden verse las presentes opciones de búsqueda, exportación y creación de nuevos usuarios, así como editar y eliminar usuarios.
 
-![Lista Usuários User Management ES](https://images.ctfassets.net/alneenqid6w5/1IjRv0l2rDBrSWtHj82CDm/e5e96de76d8d66202887bd3339e0f01d/Lista_Usu__rios_User_Management_ES.png)
+![Lista Usuários User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/gestionar-usuarios-0.png)
 
 >⚠️ Cualquier usuario que desee gestionar usuarios o claves de aplicación debe tener un perfil que contenga el [recurso](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) **Save User**. Puedes utilizar, por ejemplo, el perfil predeterminado [User Administrator - RESTRICTED](https://help.vtex.com/es/tutorial/roles-de-usuario-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted).
 
@@ -28,10 +28,10 @@ En esta sección, se mostrará la lista de usuarios con sus respectivos __Nombre
 1. En la barra superior de VTEX Admin, haga clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Cuenta**.
 2. Haga clic en el botón `+ Nuevo`.  
 3. Rellene el campo **Email**.  
-  ![Cadastro Novo usuário User Management ES](https://images.ctfassets.net/alneenqid6w5/6EWyev5Qu1nYYxbL1K8YMw/c25703eb8635123358251772d94e147a/Cadastro_Novo_usu__rio_User_Management_ES.png)
+  ![Cadastro Novo usuário User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/gestionar-usuarios-1.png)
 4. Haga clic en `+ Agregar roles`.
 5. Seleccione los [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) deseados, como se muestra en la imagen: 
-  ![Selecionar perfis User Management ES](https://images.ctfassets.net/alneenqid6w5/4wSp2QkYZH114DFFEOo3ly/fed2df535522db7b5d7288845497b8d4/seleccionar-roles.PNG)
+  ![Selecionar perfis User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/gestionar-usuarios-2.PNG)
 6. Haga clic en `Agregar rol` para confirmar la selección.
 7. Haga clic en `Guardar`.  
 
@@ -43,25 +43,25 @@ La contraseña debe tener al menos 8 caracteres, incluyendo un número, una letr
 
 1. En la barra superior de VTEX Admin, haga clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Cuenta**.
 2. Para editar un usuario ya registrado, haga clic en su nombre. Esto también es posible haciendo clic en los tres puntos al lado derecho del usuario en la lista y luego en la opción **Editar**.
-  ![Botão Editar Usuário User Management ES](https://images.ctfassets.net/alneenqid6w5/5XzJuCftOAty7JHkxHO5Th/6063958f0625ce0beabac99f407a3b87/Bot__o_Editar_Usu__rio_User_Management_ES.png)
-  <div class="alert alert-warning" role="alert">El email no puede ser cambiado. Si desea hacer esto, se deberá realizar un nuevo registro.</div>
+  ![Botão Editar Usuário User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/gestionar-usuarios-3.png)
+  >⚠️ El email no puede ser cambiado. Si desea hacer esto, se deberá realizar un nuevo registro.
 3. En la pantalla de edición, se pueden agregar o eliminar los [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) de los usuarios.  
-  ![Selecionar perfis User Management ES](https://images.ctfassets.net/alneenqid6w5/4wSp2QkYZH114DFFEOo3ly/fed2df535522db7b5d7288845497b8d4/seleccionar-roles.PNG)
+  ![Selecionar perfis User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/gestionar-usuarios-4.PNG)
 4. Haga clic en `Agregar rol` para confirmar la selección.
 5. Haga clic en `Guardar`.
 
-<div class="alert alert-info" role="alert">Aparecerá una alerta al agregar nuevos roles para un usuario que no utiliza autenticación de múltiples factores (MFA). El artículo <a href="https://help.vtex.com/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ">Habilitar login por autenticación de 2 factores</a> muestra como habilitar esta configuración.</div>
+>ℹ️ Aparecerá una alerta al agregar nuevos roles para un usuario que no utiliza autenticación de múltiples factores (MFA). El artículo [Habilitar login por autenticación de 2 factores](https://help.vtex.com/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) muestra como habilitar esta configuración.
 
-<div class="alert alert-warning" role="alert">Si se remueven todos los roles del usuario, el mismo no podrá más acceder al Admin.</div>
+>⚠️ Si se remueven todos los roles del usuario, el mismo no podrá más acceder al Admin.
 
 ## Eliminando un usuario
 
 1. En la barra superior de VTEX Admin, haga clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Cuenta**.
 2. Para remover el acceso de un usuario, haga clic en botón con tres puntos <i class="fas fa-ellipsis-v"></i> al lado del usuario que desea eliminar.
 3. Haga clic en la opción **Eliminar**.  
-  ![Botão Excluir Usuário User Management ES](https://images.ctfassets.net/alneenqid6w5/40v9IfXb47lKyi79vZgWpJ/fe34b8820154abc988ee1317cf75da3a/Bot__o_Excluir_Usu__rio_User_Management_ES.png)
+  ![Botão Excluir Usuário User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/gestionar-usuarios-5.png)
 4. Confirme haciendo clic en `SÍ, ELIMINAR TODO ACCESO`.  
-  ![Confirmar Remover Acesso User Management ES](https://images.ctfassets.net/alneenqid6w5/2lnDFzfX0ZPsZM8uX59Nq7/2e0ecc32f578b0da6f0698fb136a8a21/Confirmar_Remover_Acesso_User_Management_ES.png)
+  ![Confirmar Remover Acesso User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/gestionar-usuarios-6.png)
 
 ## Exportando datos de usuarios
 

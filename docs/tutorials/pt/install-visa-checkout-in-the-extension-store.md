@@ -21,7 +21,7 @@ Este artigo tem o objetivo de mostrar o passo-a-passo para instalação da exten
 
 Primeiro, na tela **Explorar**, clique na extensão **Visa Checkout**.
 
-![Extension Store 1](https://images.contentful.com/alneenqid6w5/6E480Kd4t2EqimaiKW8cii/ef5ba713601e5bdc4f97ff20133aa354/Extension_Store_1.png)
+![Extension Store 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/pt/instalar-o-visa-checkout-na-extension-store-0.png)
 
 Você terá então acesso à página de detalhes da extensão, onde as seguintes informações são mostradas:
 
@@ -37,14 +37,14 @@ Para instalar o Visa Checkout, basta clicar no botão verde à direita do ícone
 O botão de instalação leva à tela de permissões, onde é possível visualizar todos os dados e locais a que a extensão deseja ter acesso.
 
 <video width="840" height="473" controls>
-  <source src="//videos.contentful.com/alneenqid6w5/IgC71vETm0A0M6agwmMmc/d27af4dfa203d4ab66b93bb802c5f800/permiss__es.mp4" type="video/mp4">
+  <source src="https://videos.contentful.com/alneenqid6w5/IgC71vETm0A0M6agwmMmc/d27af4dfa203d4ab66b93bb802c5f800/permiss__es.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 Uma vez que você aceite as permissões, a extensão será instalada.
 
 <video width="840" height="473" controls>
-  <source src="//videos.contentful.com/alneenqid6w5/3kRC32aTbG2gyUWSIGwM0m/67013b7b8a0acf17d1c87e1a3a6ff4c0/instala____o.mp4" type="video/mp4">
+  <source src="https://videos.contentful.com/alneenqid6w5/3kRC32aTbG2gyUWSIGwM0m/67013b7b8a0acf17d1c87e1a3a6ff4c0/instala____o.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -53,7 +53,7 @@ Your browser does not support the video tag.
 Para funcionar corretamente, você precisa cumprir uma etapa de configuração. Basta preencher alguns campos, como os mostrados na imagem abaixo, e clicar em **Criar conta**.
 
 <video width="840" height="473" controls>
-  <source src="//videos.contentful.com/alneenqid6w5/63IczsAzSMguai0q2wKYiI/d7391facbdf489faad485063d5609eeb/configura____es.mp4" type="video/mp4">
+  <source src="https://videos.contentful.com/alneenqid6w5/63IczsAzSMguai0q2wKYiI/d7391facbdf489faad485063d5609eeb/configura____es.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -64,7 +64,7 @@ Você deve então ver uma mensagem de sucesso da instalação.
 Além disso, a VTEX App Store mostra um ambiente de preview do Visa Checkout, onde você pode testar o funcionamento da extensão.
 
 <video width="840" height="473" controls>
-  <source src="//videos.contentful.com/alneenqid6w5/3n6yIIZGGscuMQEgQ0gUoW/248a7472cc8aea682320d2245d189c15/success.mp4" type="video/mp4">
+  <source src="https://videos.contentful.com/alneenqid6w5/3n6yIIZGGscuMQEgQ0gUoW/248a7472cc8aea682320d2245d189c15/success.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -76,4 +76,4 @@ Para mover o Visa Checkout para o ambiente em produção (onde seus clientes pod
 
 Para isso, basta clicar no botão **Publicar** da top bar.
 
-![Extension Store 3 - Publishing](https://images.contentful.com/alneenqid6w5/39BcR4BFkk8kGEKiaEWICU/f195532be2243b35168ac69e72226d20/Extension_Store_3_-_Publishing.png)
+![Extension Store 3 - Publishing](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/pt/instalar-o-visa-checkout-na-extension-store-1.png)

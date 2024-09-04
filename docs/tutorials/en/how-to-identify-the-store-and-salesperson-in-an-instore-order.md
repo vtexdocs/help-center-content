@@ -15,4 +15,4 @@ legacySlug: how-to-identify-the-store-and-salesperson-in-an-instore-order
 subcategory: 
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

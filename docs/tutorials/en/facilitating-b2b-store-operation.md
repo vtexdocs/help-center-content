@@ -17,7 +17,7 @@ subcategory: 2LrbEY7MFeKqmdfYLBCnfi
 
 You can facilitate the operation of your store by installing applications to solve business issues related to store usability, sales, and after-sales.
 
-<div class="alert alert-info" role="info">The following apps can be installed through the <a href="https://apps.vtex.com/">VTEX App Store</a> or <a href="https://vtex.io/">VTEX IO</a>.</div>
+>ℹ️ The following apps can be installed through the [VTEX App Store](https://apps.vtex.com/) or [VTEX IO](https://vtex.io/).
 
 ## Usability tools
 | Tool              | Use                                                                                                                                                                                                      |
@@ -51,13 +51,13 @@ For example, suppose that a product costs US$ 100 per unit, and the product's pr
 
 This is a resource that meets the needs of wholesale businesses. Currently, there are three ways to establish a fixed price at VTEX. See all the methods in our article [how to register fixed prices](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj "").
 
-<div class="alert alert-info" role="info">Before you keep going on your reading, check our article about <a href="https://help.vtex.com/es/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf?&utm_source=autocomplete">the most used promotions for the B2B context</a>.</div>
+>ℹ️ Before you keep going on your reading, check our article about [the most used promotions for the B2B context](https://help.vtex.com/es/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf?&utm_source=autocomplete).
 
 ### Product kits
 
 In VTEX, all stores have the [product kit](https://help.vtex.com/en/tutorial/kit-registration?locale=en "") feature, which allows you to sell a set of items for a specific price. 
 
-<div class="alert alert-info" role="info">In B2B, the product kit is often referred to as "bundle." The terms "product kit" and "bundle" refer to the same tool.</div>
+>ℹ️ In B2B, the product kit is often referred to as "bundle." The terms "product kit" and "bundle" refer to the same tool.
 
 To [add a product kit](https://help.vtex.com/en/tutorial/cadastrando-kit/ "") to your store, check the documentation in our Help Center.
 
@@ -91,7 +91,7 @@ All VTEX stores have the [My account](https://help.vtex.com/en/tutorial/como-fun
 
 This tool allows you to monitor the order status in the after-sales flow and carry out operations such as: “Order again”, which allows placing the same order again.  
 
-![Order again](https://images.ctfassets.net/alneenqid6w5/1t7B2SNKQ9aJZ4gFE03ViD/8ba194685df6e2374b7e287fb0ed59bc/image.png)
+![Order again](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/facilitating-b2b-store-operation-0.png)
 
 For more details on “My Account,” check out the tutorial on [how to configure this feature](https://help.vtex.com/en/tutorial/configurar-o-my-account--23Ayv5D6b86UBnYfoXqZL1 "").
 

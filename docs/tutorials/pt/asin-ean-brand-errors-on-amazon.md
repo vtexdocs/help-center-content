@@ -15,4 +15,4 @@ legacySlug: erros-de-asin-ean-marca-na-amazon
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---
 
-<div class="alert alert-warning" role="alert">Conteúdo em tradução.</div>
+>⚠️ Conteúdo em tradução.

@@ -15,4 +15,4 @@ legacySlug: atención-al-cliente-de-vtex-payment
 subcategory: 6uIlQ5imochc5LFi3dzCSv
 ---
 
-<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
+>⚠️ Contenido bajo traducción.

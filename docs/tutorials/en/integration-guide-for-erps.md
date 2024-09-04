@@ -15,9 +15,7 @@ legacySlug: integration-guide-for-erps
 subcategory: 5fKgQZhrCw88ACy6Su6GUc
 ---
 
-<div class="alert alert-danger" role="alert">
-   This integration guide is outdated and will be archived in <strong>June 2020</strong>. We do not recommend using Webservice since the launch of the <a href="https://developers.vtex.com/changelog/new-endpoints-available-in-catalog-api" target="_blank">new Catalog API</a>. Check out the <a href="https://developers.vtex.com/docs/erp-integration-guide" target="_blank">new ERP integration guide</a> available in our Developer Portal.
-</div>
+>❗ This integration guide is outdated and will be archived in **June 2020**. We do not recommend using Webservice since the launch of the [new Catalog API](https://developers.vtex.com/changelog/new-endpoints-available-in-catalog-api" target="_blank). Check out the [new ERP integration guide](https://developers.vtex.com/docs/erp-integration-guide" target="_blank) available in our Developer Portal.
 
 The integration of ERPs with VTEX stores is made through a webservice (SOAP: xml) and the REST API (JSON). The [VTEX webservice](https://vtexhelp.myvtex.com/tutorial/manual-of-classes-and-methods-used-on-webservice--tutorials_749) must be used as less as possible to the integration processes. Currently, on exception the catalog, that has its REST API being developed, all the other VTEX modules have REST APIs well defined and with high performance.
 

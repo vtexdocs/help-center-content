@@ -40,9 +40,9 @@ Here, the common property of the clients will be that they are also employees of
 This article assumes that the employees are properly registered with a boolean field `isEmployee` set to true in their respective documents for the CL data entity, as shown in the figure below. 
 
 If they are not, check the article [Creating a field in Master Data](https://help.vtex.com/en/tutorial/how-can-i-create-field-in-master-data) to create a field that identifies the employees and properly configure it for each document corresponding to the employees.
-![Employee field](https://images.ctfassets.net/alneenqid6w5/58zHOX5joCiSGRfGH1QcVS/550d4899318a5728eb0d73f04a32b710/Employee_field.png)
+![Employee field](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/configure-employee-benefits-using-master-data-clusters-0.png)
 
-<div class="alert alert-info" role="alert">There are many details to completely configure a benefit. If you need additional information on this matter, check out the article <a href="https://help.vtex.com/en/tutorial/creating-promotions-2">Creating promotions</a>.</div>
+>ℹ️ There are many details to completely configure a benefit. If you need additional information on this matter, check out the article [Creating promotions](https://help.vtex.com/en/tutorial/creating-promotions-2).
 
 With the field configured, the benefit can be created by following the steps below:
 
@@ -55,4 +55,4 @@ With the field configured, the benefit can be created by following the steps bel
 7. In the end of the page, click on the **Save** button.
 
 After that, the benefit should already be working as configured. The discount is shown only in the shopping cart. The image below shows an example with 99% off.
-![Shopping cart with discount](https://images.ctfassets.net/alneenqid6w5/475MwMGUzp7GzqF0xYFVUq/599d65a4eb894d02d8cfb0a6c1a55463/Carrinho_com_desconto.png)
+![Shopping cart with discount](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/configure-employee-benefits-using-master-data-clusters-1.png)

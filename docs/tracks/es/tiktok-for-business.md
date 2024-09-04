@@ -3,8 +3,8 @@ title: 'TikTok for Business'
 id: 7Dwfwu1aHMp1aR1yvej5nv
 status: PUBLISHED
 createdAt: 2022-04-14T21:09:09.787Z
-updatedAt: 2022-05-25T20:18:26.115Z
-publishedAt: 2022-05-25T20:18:26.115Z
+updatedAt: 2024-09-03T19:37:30.309Z
+publishedAt: 2024-09-03T19:37:30.309Z
 firstPublishedAt: 2022-04-18T11:49:25.270Z
 contentType: trackArticle
 productTeam: Channels
@@ -14,7 +14,7 @@ trackId: 1r0yJSO11nrer1YVu3WTFd
 trackSlugES: integracion-de-tiktok
 ---
 
->❗ La integración con TikTok solo está disponible para las tiendas de **Brasil**.
+>❗ La integración con TikTok solo está disponible para las tiendas en **América Latina**.
 
 [TikTok](https://www.tiktok.com/) es una plataforma de entretenimiento para crear y compartir videos cortos que también ofrece herramientas de _marketing_ para las empresas. TikTok Ads Manager es una de las principales herramientas disponibles en este contexto, e incluye funciones avanzadas que permiten lanzar campañas y gestionar publicidad en TikTok.
 

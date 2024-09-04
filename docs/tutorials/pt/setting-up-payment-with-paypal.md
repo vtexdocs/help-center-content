@@ -50,6 +50,4 @@ Por fim, clique em __Salvar__.
 
 __Pronto!__ Agora será exibida no checkout a opção de pagamento utilizando PayPal. Depois de clicar em __Finalizar Compra__, o cliente será redirecionado para o ambiente do PayPal para realizar sua autenticação e preencher os dados do cartão de crédito.
 
-<div class="alert alert-warning" role="alert">
-  <strong>Nota:</strong> Pagamento parcelado não está disponível para este meio de pagamento.
-</div>
+>⚠️ **Nota:** Pagamento parcelado não está disponível para este meio de pagamento.

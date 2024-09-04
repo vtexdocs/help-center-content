@@ -17,7 +17,7 @@ subcategory:
 
 O app [Carrinho Compartilhável](https://apps.vtex.com/vtex-social-selling/p) permite que vendedores selecionem produtos para seus clientes e compartilhem o carrinho preenchido por canais como WhatsApp, Facebook Messenger e e-mail.
 
-![Shareable Cart Demo](https://images.ctfassets.net/alneenqid6w5/sf2zbYOG7janUXWbgkajd/93aa5f4ea002c5877a9620722af67890/Jy98kJ.gif)
+![Shareable Cart Demo](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/pt/como-ativar-o-app-carrinho-compartilhavel-0.gif)
 
 Este artigo explica como instalar o app e configurar a funcionalidade na sua loja. Ao concluir os passos de ativação, seus vendedores poderão seguir as [instruções de uso](https://help.vtex.com/pt/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) para iniciar suas estratégias de Social Selling.
 
@@ -32,7 +32,7 @@ Para instalar o app na sua loja, siga os passos a seguir:
 
 Ao concluir estes passos, o app será instalado na conta informada. O próximo passo é rever as configurações do app para ajustá-lo às necessidades da sua loja.
 
-<div class="alert alert-warning" role="alert">O nome da sua conta é o identificador usado para acessar seu Admin, no lugar de <code class="c-link">{accountName}</code> no endereço: <code>https://<span class="c-link">{accountName}</span>.myvtex.com/admin</code></div>
+>⚠️ O nome da sua conta é o identificador usado para acessar seu Admin, no lugar de <code class="c-link">{accountName}</code> no endereço: `https://<span class="c-link">{accountName}</span>.myvtex.com/admin`
 
 ## Configuração
 
@@ -62,7 +62,7 @@ A escolha do campo em que o código do vendedor será inserido depende das neces
 
 Se ambas opções estiverem selecionadas, o vendedor precisará indicar qual campo está preenchendo na interface de compartilhamento de carrinho.
 
-<div class="alert alert-info" role="alert">As informações registradas poderão ser encontradas no card <strong>Promoções e Parcerias</strong> nos <a href="https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC?locale=pt" target="_blank">detalhes do pedido</a> ou dentro do objeto <code>marketingData</code> retornado ao obter as informações do pedido usando a <a href="https://developers.vtex.com/reference/orders#getorder">Orders API</a>.</div>
+>ℹ️ As informações registradas poderão ser encontradas no card **Promoções e Parcerias** nos [detalhes do pedido](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC?locale=pt" target="_blank) ou dentro do objeto `marketingData` retornado ao obter as informações do pedido usando a [Orders API](https://developers.vtex.com/reference/orders#getorder).
 
 ### Canais 
 
@@ -75,7 +75,7 @@ Esta configuração permite ativar os canais de compartilhamento desejados na in
 - Gmail
 - Email
 
-<div class="alert alert-warning" role="alert">Lembre-se que o vendedor precisará fazer login nas contas de redes sociais e aplicativos utilizados para compartilhamento no dispositivo que utilizarem para montar o carrinho.</div>
+>⚠️ Lembre-se que o vendedor precisará fazer login nas contas de redes sociais e aplicativos utilizados para compartilhamento no dispositivo que utilizarem para montar o carrinho.
 
 ## Customização (opcional)
 
@@ -83,11 +83,11 @@ Caso você queira customizar as cores dos botões da interface de compartilhamen
 
 Na imagem a seguir, a opção A apresenta as cores originais e a opção B uma customização possível.
 
-![shareable-cart-ui-customization](https://images.ctfassets.net/alneenqid6w5/7qzGILGsBqu6sD2n052VQl/ba27c3afc9c744907ac707f10658e8e1/shareable-cart-ui-customization.png)
+![shareable-cart-ui-customization](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/pt/como-ativar-o-app-carrinho-compartilhavel-1.png)
 
 O código abaixo deve ser adicionado no fim do arquivo `checkout5-custom.css` ou `checkout6-custom.css`, disponível para customização em *Configurações da Loja > Checkout > Código*. A escolha de qual deve ser editado depende da versão do Checkout utilizada pela sua loja.
 
-<div class="alert alert-danger" role="alert"><strong>Atenção:</strong> Erros na customização do checkout podem quebrar o fluxo de compra dos seus cliente. Peça ajuda para seu time técnico se não souber o que está fazendo.</div>
+>❗ **Atenção:** Erros na customização do checkout podem quebrar o fluxo de compra dos seus cliente. Peça ajuda para seu time técnico se não souber o que está fazendo.
 
 Em seguida, basta alterar as propriedades no código CSS conforme a necessidade. 
 
@@ -229,7 +229,7 @@ Apresentamos algumas possibilidades na tabela abaixo. Recomendamos que o time t�
   </tbody>
 </table>
 
-<div class="alert alert-info" role="alert">No Cenário 4 é necessário <a href="https://help.vtex.com/pt/tutorial/consigo-gerar-um-cupom-em-massa--frequentlyAskedQuestions_348?locale=pt">gerar cupons em massa</a>, para que cada vendedor tenha seu próprio cupom para identificação e ativação de desconto.</div>
+>ℹ️ No Cenário 4 é necessário [gerar cupons em massa](https://help.vtex.com/pt/tutorial/consigo-gerar-um-cupom-em-massa--frequentlyAskedQuestions_348?locale=pt), para que cada vendedor tenha seu próprio cupom para identificação e ativação de desconto.
 
 ### Quem preenche os dados pessoais e o endereço: vendedor ou cliente?
 

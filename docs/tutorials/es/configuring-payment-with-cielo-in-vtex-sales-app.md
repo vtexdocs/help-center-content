@@ -15,4 +15,4 @@ legacySlug: configurar-pagos-con-cielo-en-vtex-sales-app
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
+>⚠️ Contenido bajo traducción.

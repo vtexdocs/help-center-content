@@ -47,7 +47,7 @@ To start using the simulator, follow these instructions:
     Alternatively, you can access it directly via the URL `https://{accountname}.myvtex.com`, replacing `{accountname}` with your VTEX account name.
 
 2. Add products to the cart and proceed to checkout at `https://{accountname}.myvtex.com/checkout/#/cart`.
-3. Click the blue button <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> in the bottom right corner of the page to launch Cartman.
+3. Click the blue button <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> in the bottom right corner of the page to launch Cartman.
 4. Click **Promotion Simulator**.
 
    In the new window, you will see the details of promotions applied and not applied to the cart.

@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'Haga que sus productos estén disponibles más rápido en Via Varejo mapeando categorías, variaciones y atributos.'
 ---
 
-<div class="alert alert-warning" role="alert">Contenido bajo traducción</div>
+>⚠️ Contenido bajo traducción
 
 O fluxo de integração de produtos no Via Varejo Marketplace foi [modificado na sua API V4](https://desenvolvedores.viavarejo.com.br/api-portal/content/integracao) para aumentar a qualidade das informações dos produtos anunciados. Para nos adaptarmos a essa evolução, incluímos um passo adicional na Integração com a Via Varejo - o [mapeamento de categorias, variações e atributos](https://help.vtex.com/es/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/5QVZFYNfuRIQKdq34MbTxz#fazendo-o-upload).
 
@@ -23,7 +23,7 @@ O fluxo de integração de produtos no Via Varejo Marketplace foi [modificado na
 
 Antes não era necessário fazer nenhum mapeamento para ativar a Integração com a Via Varejo. Agora o mapeamento de categorias, variações e atributos se tornou __obrigatório__.
 
-<div class="alert alert-warning" role="alert"><strong>Atenção:</strong> Produtos criados ou atualizados após esta mudança somente serão enviados se sua categoria, variações e atributos estiverem mapeados.</div>
+>⚠️ **Atenção:** Produtos criados ou atualizados após esta mudança somente serão enviados se sua categoria, variações e atributos estiverem mapeados.
 
 ## Por que realizamos esta mudança?
 
@@ -38,4 +38,4 @@ Para garantir o melhor posicionamento e experiência dos nossos clientes nos mar
 
 O mapeamento das categorias, variações e atributos seguindo a nossa [documentação](https://help.vtex.com/es/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/5QVZFYNfuRIQKdq34MbTxz#fazendo-o-upload).
 
-<div class="alert alert-info" role="alert">Este processo pode ser feito gradualmente conforme a necessidade e só precisa ser feito uma vez por categoria. Depois que uma categoria é mapeada com suas variações/atributos, todos produtos que fazem parte daquela categoria serão integrados normalmente sem ação adicional.</div>
+>ℹ️ Este processo pode ser feito gradualmente conforme a necessidade e só precisa ser feito uma vez por categoria. Depois que uma categoria é mapeada com suas variações/atributos, todos produtos que fazem parte daquela categoria serão integrados normalmente sem ação adicional.

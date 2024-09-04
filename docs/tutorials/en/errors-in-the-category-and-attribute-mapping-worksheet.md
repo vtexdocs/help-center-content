@@ -15,4 +15,4 @@ legacySlug: errors-in-the-category-and-attribute-mapping-worksheet
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---
 
-<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
+>⚠️ Contenido bajo traducción.

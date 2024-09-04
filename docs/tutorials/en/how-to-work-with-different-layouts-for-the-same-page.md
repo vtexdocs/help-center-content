@@ -15,9 +15,7 @@ legacySlug: how-to-work-with-different-layouts-for-the-same-page
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-warning" >
-  <p><b>Warning:</b> there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.</p>
-</div>
+>⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
 
 On the __Storefront__ > __Layout__ page, a standard layout is established for all pages of the same kind included on each folder of a website; e.g. product. 
 
@@ -37,7 +35,7 @@ After that a new section will be available and you can define through the fields
 
 It is possible to limit the availability of the template to a predetermined period of time by filling in the __From__ and __To__ fields as well as to define in which categories, products, brands and collections the chosen template will be applied.
 
-![template-condicionado-cms](https://images.ctfassets.net/alneenqid6w5/5oheUsdoc0aKS4ysOwQ6ig/66a11beac0c32d7fde34d43b94fb45bb/template-condicionado-cms.png)
+![template-condicionado-cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/how-to-work-with-different-layouts-for-the-same-page-0.png)
 
 After filling in all the needed fields, do not forget to save the changes made by clicking on __Save Layout__.
 

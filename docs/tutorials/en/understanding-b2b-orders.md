@@ -19,7 +19,7 @@ In B2B e-commerce operations, it is often necessary to inform an order's status 
 
 The **B2B Orders** app makes this process simple, allowing any employee to consult the company's orders through its online store.
 
-![orders VTEX B2B](https://images.ctfassets.net/alneenqid6w5/VNG3045dKhkQBgG1ZTxOl/d239fe8c9794fb3aa7fb29a4c0623635/Screenshot_2020-10-20_VTEX_B2B.png)
+![orders VTEX B2B](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/understanding-b2b-orders-0.png)
 
 This self-service experience is possible, thanks to API integration with the ERP. With this, the employee can search for orders by:
 
@@ -27,10 +27,9 @@ This self-service experience is possible, thanks to API integration with the ERP
 - **ERP order number:** identification number of the order placed through the store ERP.
 - **My order:** identification number associated with the customer who made the purchase.
 
-<div class = "alert alert-warning" >
-  <p>This app is only available for stores developed using 
-    <a href="https://vtex.com/br-pt/store-framework/">VTEX IO</a>.</p><p>Before proceeding, you need to <a href = "https://developers.vtex.com/vtex-developer-docs/docs/querying-b2b-order-statuses">install and configure B2B orders</a> on your store.</p>
-</div>
+>⚠️ This app is only available for stores developed using 
+>     [VTEX IO](https://vtex.com/br-pt/store-framework/).
+> Before proceeding, you need to <a href = "https://developers.vtex.com/vtex-developer-docs/docs/querying-b2b-order-statuses">install and configure B2B orders</a> on your store.
 
 ## Context
 

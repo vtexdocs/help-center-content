@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagos con Mercado Pago en VTEX Sales App'
 id: 51fgSydGGOnlBdtwTfE8BE
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-08-26T12:36:03.781Z
-updatedAt: 2024-09-02T21:20:22.288Z
-publishedAt: 2024-08-28T21:17:53.696Z
+updatedAt: 2024-09-03T13:41:09.309Z
+publishedAt: 2024-09-03T13:41:09.309Z
 firstPublishedAt: 2024-08-26T18:37:41.187Z
 contentType: tutorial
 productTeam: Financial
@@ -15,96 +15,96 @@ legacySlug: configurar-pagos-con-mercado-pago-en-vtex-sales-app
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX, es posible integrarse con el proveedor de pago Adyen. A través de este conector, su tienda puede ofrecer transacciones de pago en tiendas físicas (VTEX Sales App), utilizando puntos de venta (POS). Para más información acceda [O que é o VTEX Sales App?](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+En VTEX, es posible integrarse con el proveedor de pago MercadoPagoV2. A través de este conector, su tienda puede ofrecer transacciones de pago en tiendas físicas (VTEX Sales App), utilizando puntos de venta (POS). Para más información acceda [O que é o VTEX Sales App?](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
->ℹ️ Para utilizar o provedor MercadoPagoV2 em sua loja por outros canais de venda online (exceto VTEX Sales App), acesse [Configurar pagamento com MercadoPagoV2](https://help.vtex.com/pt/tutorial/configurar-o-subadquirente-mercadopagov2--1y6k8lCSzJYfPs2yObNFo4).
+>ℹ️ Para utilizar el proveedor MercadoPagoV2 en su tienda a través de otros canales de venta en línea (excepto VTEX Sales App), visite [Configurar pago con MercadoPagoV2](https://help.vtex.com/es/tutorial/configurar-el-subadquirente-mercadopagov2--1y6k8lCSzJYfPs2yObNFo4).
 
-Para utilizar o provedor MercadoPagoV2 no VTEX Sales App, é necessário:
+Para utilizar el proveedor MercadoPagoV2 en la VTEX Sales App, es necesario:
 
-- [Configurar chaves no ambiente Mercado Pago](#configurar-chaves-no-ambiente-mercado-pago)
-- [Configurar conector MercadoPagoV2 (VTEX Sales App) na VTEX](#configurar-conector-mercadopagov2-vtex-sales-app-na-vtex)
-- [Instalar os aplicativos Mercado Pago Payment e Mercado Pago Instore na VTEX](#instalar-aplicativos-mercado-pago-payment-e-mercado-pago-instore-na-vtex)
-- [Configurar condição de pagamento](#configurar-condicao-de-pagamento)
+- [Configurar claves en el entorno Mercado Pago](#configurar-claves-en-el-entorno-de-mercado-pago)
+- [Configurar el conector MercadoPagoV2 (VTEX Sales App) en VTEX](#configurar-el-conector-mercadopagov2-vtex-sales-app-en-vtex)
+- [Instalar las aplicaciones Mercado Pago Payment y Mercado Pago Instore en VTEX](#instalar-aplicaciones-mercado-pago-payment-y-mercado-pago-instore-en-vtex)
+- [Configurar condición de pago](#configurar-condicion-de-pago)
 
->⚠️ As configurações realizadas em um ambiente externo à VTEX podem ser descontinuadas ou modificadas sem aviso prévio. Consulte sua conta na Mercado Pago para informações atualizadas.
+>⚠️ Las configuraciones realizadas en un entorno externo a VTEX puede interrumpirse o modificarse sin previo aviso. Consulta tu cuenta Mercado Pago para obtener información actualizada.
 
-## Configurar chaves no ambiente Mercado Pago
+## Configurar claves en el entorno de Mercado Pago
 
-Os passos a seguir descrevem as configurações mínimas a serem realizadas para que o conector MercadoPagoV2 seja devidamente configurado. Demais configurações personalizadas aplicadas à clientes, habilitação de métodos de pagamento específicos ou funcionalidades particulares da plataforma, devem ser realizadas conforme [documentação do Mercado Pago](https://www.mercadopago.com.br/developers/pt/docs/vtex/integration/create-gateway-affiliation-v2).
+Los siguientes pasos describen las configuraciones mínimas a realizar para que el conector MercadoPagoV2 quede correctamente configurado. Otras configuraciones personalizadas que se apliquen a los clientes, habilitando métodos de pago específicos o características particulares de la plataforma, deberán realizarse de acuerdo con [documentación de Mercado Pago](https://www.mercadopago.com.br/developers/es/docs/vtex/integration/create-gateway-affiliation-v2).
 
-<blockquote><ui>1. Acesse o <a href="https://www.mercadopago.com.br/developers/pt">portal do desenvolvedor Mercado Pago</a> para criar uma nova conta.</ui>
+<blockquote><ui>1. Accede al <a href="https://www.mercadopago.com.br/developers/es">portal para desarrolladores de Mercado Pago</a> para crear una nueva cuenta.</ui>
 
-<blockquote><ui>>⚠️ O portal do desenvolvedor Mercado Pago permite que o usuário obtenha informações de todas as chaves necessárias pra configurar a conexão entre a VTEX e o Mercado Pago. Recomendamos que o procedimento abaixo seja realizado por um usuário que já possua acesso às demais chaves de sua conta no Mercado Pago.</blockquote>
+<blockquote><ui>>⚠️ El portal para desarrolladores de Mercado Pago permite al usuario obtener información de todas las claves necesarias para configurar la conexión entre VTEX y Mercado Pago. Recomendamos que el procedimiento a continuación lo realice un usuario que ya tenga acceso a las demás claves de su cuenta de Mercado Pago.</blockquote>
 
-<blockquote><ui>2. Após realizar o login, acesse a <a href="https://www.mercadopago.com.br/developers/pt/docs/vtex/additional-content/your-integrations/credentials">documentação de credenciais</a> do Mercado Pago para verificar como obter o <b>Public Key</b> e <b>Access Token</b> que serão utilizados na configuração do MercadoPagoV2 na VTEX.</ui> 
+<blockquote><ui>2. Después de iniciar sesión, acceda al <a href="https://www.mercadopago.com.br/developers/es/docs/vtex/additional-content/your-integrations/credentials">documentación de credenciales</a> de Mercado Pago para verificar cómo obtener la <b>Clave de aplicación
+</b> y <b>Token de aplicación</b> que se utilizarán en la configuración de MercadoPagoV2 en VTEX.</ui> 
 
-## Configurar conector MercadoPagoV2 (VTEX Sales App) na VTEX
+## Configurar el conector MercadoPagoV2 (VTEX Sales App) en VTEX
 
-<blockquote><ui>1. No Admin VTEX, acesse <b>Configurações da loja > Pagamentos > Provedores</b>, ou digite <b>Provedores</b> na barra de busca no topo da página.</ui>
+<blockquote><ui>1. En el Admin VTEX, accede a <b>Configuración de la tienda > Pago > Proveedores</b>, o escribe <b>Proveedores</b> en la barra de búsqueda en la parte superior de la página.</ui>
 
-<blockquote><ui>2. Na tela de provedores, clique no botão <b>Novo provedor</b>.</ui>
+<blockquote><ui>2. En la pantalla de proveedores, haga clic en el botón <b>Nuevo proveedor</b>.</ui>
 
-<blockquote><ui>3. Digite o nome <b>MercadoPagoV2</b> na barra de busca e clique sobre o nome do provedor.</ui>
+<blockquote><ui>3. Escriba el nombre <b>MercadoPagoV2</b> en la barra de búsqueda y haga clic en el nombre del proveedor.</ui>
 
-<blockquote><ui>4. Em <b>Chave de aplicação</b>, insira o nome da sua <b>Public Key</b> localizada no portal de desenvolvedor do Mercado Pago.</ui>
+<blockquote><ui>4. En <b>Clave de aplicación</b>, ingresa el nombre de tu <b>Public Key</b> ubicada en el portal para desarrolladores de Mercado Pago.</ui>
 
-<blockquote><ui>5. Em <b>Token de aplicação</b>, insira a chave <b>Access Token</b> localizada no portal de desenvolvedor do Mercado Pago.</ui>  
+<blockquote><ui>5. En <b>Token de aplicación</b>, ingresa la clave <b>Access Token</b> ubicada en el portal para desarrolladores de Mercado Pago.</ui>  
 
-<blockquote><ui>6. Caso deseje modificar o nome de identificação a ser exibido para o provedor Mercado Pago na tela do Admin VTEX, insira a informação no campo <b>Nome</b> em <b>Informações básicas</b>.</ui>
+<blockquote><ui>6. Si desea modificar el nombre de identificación que se mostrará para el proveedor AdyenV3 en la pantalla VTEX Admin, ingrese la información en el campo <b>Nombre</b> en <b>Información general</b>.</ui>
 
-<blockquote><ui>7. Em <b>Controle de pagamento</b>, desative o ambiente de teste ao desmarcar a opção <b>Ativar modo de teste</b>.</ui>
+<blockquote><ui>7. En <b>Control de pago</b>, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en <b>Activar modo de prueba</b>.</ui>
 
-<blockquote><ui>8. Em <b>Prazo de vencimento do boleto</b>, defina o valor (em dias úteis) para o vencimento do pedido de compra. Caso cliente efetue o pagamento após o prazo, o valor será depositado na conta do mesmo no Mercado Pago.</ui>
+<blockquote><ui>8. En <b>Periodo de vencimiento</b>, definir el valor (en días hábiles) para que caduque la orden de compra. Si el cliente realiza el pago fuera de plazo, el monto será depositado en su cuenta de Mercado Pago.</ui>
 
-<blockquote><ui>9. Em <b>Nome da loja</b>, insira o nome da sua empresa. Esta informação será descrita na fatura do cartão do cliente.</ui>
+<blockquote><ui>9. En <b>Nombre de la tienda</b>, ingrese el nombre de su empresa. Esta información estará descrita en la factura de la tarjeta del cliente.</ui>
 
-<blockquote><ui>10. Em <b>Parcelamento máximo</b>, escolha a quantidade máxima de parcelas disponíveis para efetuar o pagamento. Com o Mercado Pago, você pode oferecer parcelamento em até 12 vezes.</ui>  
+<blockquote><ui>10. En <b>Cuotas máximas</b>, escoja el número máximo de cuotas disponibles para realizar el pago. Con Mercado Pago podrás fraccionar compras en hasta 12 cuotas</ui>  
 
-<blockquote><ui>11. Em <b>Suporte 3DS 2.0</b>, selecione "Sim" caso deseje ativar a validação de segurança do 3DS. Para o correto funcionamento deste protocolo, certifique-se de que o <b>Mercado Pago Payment app</b> será instalado em sua loja e que o campo <b>Modo binário</b> (Step 15), seja selecionado como "Não".</ui>  
+<blockquote><ui>11. En <b>Soporte 3DS 2.0</b>, seleccione "Sí" si desea habilitar la validación de seguridad 3DS. Para que este protocolo funcione correctamente, asegúrese de que la <b>Mercado Pago Payment app</b> se instalará en su tienda y que el campo <b>BinArio</b> (Paso 15), esté seleccionado como "No".</ui>  
 
-<blockquote><ui>12. Em <b>Categoria principal da loja</b>, escolha a categoria do ramo de atuação de sua loja.</ui>
+<blockquote><ui>12. En <b>Categoría principal de la tienda</b>, elija la categoría de la industria de su tienda.</ui>
 
-<blockquote><ui>13. Em <b>Compartilhamento de categoria (loja ou produto) por transação</b>, selecione a opção <b>Categoria da Loja</b>.</ui> 
+<blockquote><ui>13. En <b>Categoría (tienda o producto) compartida por transacción</b>, seleccione la opción <b>Categoría de la tienda</b>.</ui> 
 
-<blockquote><ui>14. Na opção <b>Reembolso automático / manual</b>, escolha se o cliente será reembolsado de forma automática ou se deseja reter o valor pago para que o cliente possa utilizá-lo em compras futuras na mesma loja.</ui>   
+<blockquote><ui>14. En la opción <b>Reembolso automático / manual</b>, elija si se reembolsará al cliente automáticamente o si quieres retener el importe pagado para que el cliente pueda utilizarlo en futuras compras en la misma tienda.</ui>   
+<blockquote><ui>15. En <b>Binario</b>, indicar si la tienda debe aceptar pagos pendientes. Seleccionar "No" indica que la transacción estará pendiente por 48 horas o hasta que se realice el pago, y el inventario relacionado con esta compra será retirado por el mismo período de tiempo. Seleccionar "Sí" permite rechazar las transacciones y el stock se liberará automáticamente. Para utilizar la funcionalidad <b>Soporte 3DS 2.0</b> (Paso 11), el <b>Binario</b> debe estar configurado en "No".</ui>     
 
-<blockquote><ui>15. Em <b>Modo binário</b>, indique se a loja deve aceitar pagamentos pendentes. Selecionar "Não", indica que a transação ficará pendente por 48 horas ou até que o pagamento seja realizado, e o estoque relacionado nessa compra será retiro pelo mesmo período de tempo. Selecionar "Sim", permite que as transações sejam rejeitadas e o estoque será liberado automaticamente. Para utilizar a funcionalidade do <b>Suporte 3DS 2.0</b> (Step 11), o <b>Modo binário</b> deve estar indicado como "Não".</ui>     
+<blockquote><ui>16. En <b>Métodos de pago excluidos</b>, describa los métodos de pago que no desea ofrecer a través de Checkout Pro; obtenga más información en <a href="https://www.mercadopago.com.br/developers/es/docs/vtex/payments-configuration/checkout-pro/exclude-payment-types-methods">Excluir tipos y métodos de pago</a>. Si eliges dejar este campo en blanco, todos los métodos de pago disponibles de MercadoPagoV2 podrán ser utilizados en tu tienda.</ui>   
 
-<blockquote><ui>16. Em <b>Métodos de pagamento excluídos</b>, descreva os métodos de pagamentos que não deseja oferecer por meio do Checkout Pro, saiba mais em <a href="https://www.mercadopago.com.br/developers/pt/docs/vtex/payments-configuration/checkout-pro/exclude-payment-types-methods">Excluir tipos e métodos de pagamento</a>. Caso opte por deixar em branco este campo, todos os métodos de pagamento disponíveis do MercadoPagoV2 poderão ser utilizados em sua loja.</ui>   
+<blockquote><ui>17. En <b>Tipos de pago excluidos</b>, describa las marcas específicas de crédito, débito y boleto (Visa, Mastercard, entre otras) que no desea ofrecer a través de Checkout Pro, obtenga más información en <a href="https://www.mercadopago.com.br/developers/es/docs/vtex/payments-configuration/checkout-pro/exclude-payment-types-methods">Excluir tipos y métodos de pago</a>. Si eliges dejar este campo en blanco, todos los tipos de pago disponibles en MercadoPagoV2 podrán ser utilizados en tu tienda.</ui>   
 
-<blockquote><ui>17. Em <b>Tipos de pagamento excluídos</b>, descreva as bandeiras específicas de crédito, débito e boleto (Visa, Mastercard, entre outros) que não deseja oferecer por meio do Checkout Pro, saiba mais em <a href="https://www.mercadopago.com.br/developers/pt/docs/vtex/payments-configuration/checkout-pro/exclude-payment-types-methods">Excluir tipos e métodos de pagamento</a>. Caso opte por deixar em branco este campo, todos os tipos de pagamento disponíveis no MercadoPagoV2 poderão ser utilizados em sua loja.</ui>   
+<blockquote><ui>18. En <b>Modo de procesamiento</b>, seleccione la opción <b>Aggregator</b>.</ui>
 
-<blockquote><ui>18. Em <b>Modo de processamento</b>, selecione a opção <b>Aggregator</b>.</ui>
+<blockquote><ui>19. En <b>Integrator ID</b>, indicar el código identificador del desarrollador o agencia que realiza la configuración de Mercado Pago.</ui>  
 
-<blockquote><ui>19. Em <b>Integrator ID</b>, indique o código identificador do programador ou agência que realiza a configuração do Mercado Pago.</ui>  
+<blockquote><ui>20. El campo <b>Moneda</b> identifica la moneda utilizada para el pago en la tienda. No es necesario llenarlo.</ui>      
 
-<blockquote><ui>20. O campo <b>Moeda</b> identifica a moeda utilizada para pagamento na loja. Não é necessário preeenchê-lo.</ui>      
+<blockquote><ui>21. El campo <b>Merchant Account ID</b> identifica la cuenta comercial. No es necesario llenarlo.</ui>     
 
-<blockquote><ui>21. O campo <b>Merchant Account ID</b> identifica a conta do merchant. Não é necessário preeenchê-lo.</ui>     
+<blockquote><ui>22. En <b>PPlazo de captura de pagos aprobado</b>, seleccione la fecha límite deseada para la captura de pago.</ui>     
 
-<blockquote><ui>22. Em <b>Prazo de captura de pagamento aprovado</b>, selecione o prazo desejado para captura do pagamento.</ui>     
+<blockquote><ui>23. En <b>Fecha para cancelar compras de un carrito abandonado</b>, ingrese el intervalo de tiempo que se debe esperar hasta que los métodos de pago habilitados no estén disponibles para realizar la compra.</ui>    
 
-<blockquote><ui>23. Em <b>Tempo para cancelar compras de um carrinho abandonado</b>, insira o intervalo de tempo que deve ser aguardado até que os meios de pagamento habilitados não estejam disponíveis para efetuar a compra.</ui>    
+<blockquote><ui>24. Haga clic en <b>Guardar</b>.</ui>
 
-<blockquote><ui>24. Clique em <b>Salvar</b>.</ui>
+## Instalar aplicaciones Mercado Pago Payment y Mercado Pago Instore en VTEX
 
-## Instalar aplicativos Mercado Pago Payment e Mercado Pago Instore na VTEX
+>⚠️ Antes de instalar la app **mercadopago.mercadopago-app**, confirma con el equipo de soporte de Mercado Pago la versión actual de la aplicación.
 
->⚠️ Antes de instalar o app **mercadopago.mercadopago-app**, confirme com a equipe de suporte do Mercado Pago qual é a versão atual do aplicativo.
+1. En [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install), ejecute el comando `vtex login nombredecuenta` para iniciar sesión en su cuenta.
+2. Instale la aplicación **mercadopago.mercadopago-app** usando el comando `vtex install mercadopago.mercadopago-app@{{current-app-version}}`. Se debe reemplazar la información {{current-app-version}} dcon la versión actual de la aplicación, por ejemplo: `vtex install mercadopago.mercadopago-app@2.3.15`.
+3. Instale la aplicación **mercadopago.instore** usando el comando `vtex install mercadopago.instore`.
 
-1. No [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install), execute o comando `vtex login nomedaconta` para realizar o login em sua conta.
-2. Instale o app **mercadopago.mercadopago-app** por meio do comando `vtex install mercadopago.mercadopago-app@{{current-app-version}}`. A informação {{current-app-version}} deve ser substituída pela a versão atual do aplicativo, por exemplo: `vtex install mercadopago.mercadopago-app@2.3.15`.
-3. Instale o app **mercadopago.instore** por meio do comando `vtex install mercadopago.instore`.
+## Configurar condición de pago
 
-## Configurar condição de pagamento
+1. En el Admin VTEX, accede a **Configuración de la tienda > Pago > Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
+2. En la pestana **Condiciones de pago**, haga clic en el botón `+`.
+3. Haga clic en **Venda Direta Debito** o **Venda Direta Credito**.
+4. En **Procesar con proveedor**, seleccione el conector previamente configurado.
+5. Active la condición en el campo **Status**.
+6. Si desea utilizar un sistema antifraude, seleccione la opción **Utilizar antifraude**.
+7. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
+8. Haga clic en `Guardar`.
 
-1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba **Condições de Pagamentos**, clique no botão `+`.
-3. Clique em **Venda Direta Debito** ou **Venda Direta Credito**.
-4. Em **Processar com o provedor**, selecione a opção **MercadoPagoV2**.
-5. Ative a condição no campo **Status**.
-6. Se desejar utilizar um sistema antifraude, selecione a opção **Usar solução antifraude**.
-7. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456).
-8. Clique em `Salvar`.
-
-Depois de seguir os passos indicados, o provedor MercadoPagoV2 pode demorar até 10 minutos para aparecer como opção de pagamento no VTEX Sales App de sua loja.
+Tras seguir los pasos indicados, el proveedor MercadoPagoV2 puede tardar hasta 10 minutos para aparecer como opción de pago en la App Ventas VTEX de su tienda.

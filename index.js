@@ -1,10 +1,18 @@
 // retrieve entries from contentful
+const fs = require('fs').promises;
+const path = require('path');
+const docsFolderPath = path.join(__dirname, 'docs');
+
 const contentful = require("contentful-management");
 require('dotenv').config();
 
 const client = contentful.createClient({
   accessToken: process.env.CONTENTFUL_ACCESS_TOKEN ?? '',
 });
+
+const { replaceQuotes } = require('./docs-utils/replace-quotes'); // Import the fix-callouts function
+
+const { fixCallouts } = require('./docs-utils/fix-callouts'); // Import the fix-callouts function
 
 let fileCount = 0;
 
@@ -27,7 +35,43 @@ let contentTypes = {
   unknownContentTypes: [],
 };
 
+// Function to delete all markdown files in the 'docs' folder and its subfolders
+async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
+  if (isTopLevel) {
+    console.log("Deleting markdown files...");
+  }
+
+  async function processFiles(files) {
+    const fileDeletions = files.map(async file => {
+      const filePath = path.join(folderPath, file);
+      const stats = await fs.stat(filePath);
+
+      if (stats.isDirectory()) {
+        // Recursively delete markdown files in subdirectories
+        await deleteMarkdownFiles(filePath, false);
+      } else if (file.endsWith('.md')) {
+        // Delete markdown files
+        await fs.unlink(filePath);
+        console.log(`Deleted: ${filePath}`);
+      }
+    });
+
+    await Promise.all(fileDeletions);
+  }
+
+  try {
+    const files = await fs.readdir(folderPath);
+    await processFiles(files);
+    if (isTopLevel) {
+      console.log("All markdown files in the docs folder have been deleted.");
+    }
+  } catch (err) {
+    console.error(`Error during deletion: ${err.message}`);
+  }
+}
+
 async function getEntries() {
+  console.log("Getting entries from Contentful...");
   try {
     const space = await client.getSpace("alneenqid6w5");
     const environment = await space.getEnvironment("master");
@@ -612,4 +656,16 @@ ${textPT}
   }
 }
 
-getEntries();
+// Main function to run all tasks
+async function main() {
+  try {
+    await deleteMarkdownFiles(docsFolderPath);
+    await getEntries();
+    await replaceQuotes();
+    await fixCallouts();
+  } catch (error) {
+    console.error("Error in main function:", error);
+  }
+}
+
+main();

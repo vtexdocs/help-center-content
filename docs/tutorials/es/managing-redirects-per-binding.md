@@ -21,16 +21,14 @@ Las tiendas que tienen varios dominios suelen solicitar gestionar la redirecció
 
 Con esto en mente, VTEX le permite gestionar sus redirecciones de URL de acuerdo con el *binding* de la tienda a través de la interfaz del Admin.
 
-<div class="alert alert-warning" role="alert">
-Para crear, editar o eliminar redirecciones, el usuario del Admin VTEX debe tener un rol de acceso con el <a href="https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso de License Manager</a> <strong>CMS Settings</strong>. Puedes asignar al usuario un rol de acceso con el recurso siguiendo las instrucciones del artículo <a href="https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512#editando-usuarios">Gestionar usuarios</a>, o crear un nuevo rol de acceso que incluya dicho recurso consultando las instrucciones del artículo <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol">Roles</a>.
-</div>
+>⚠️ Para crear, editar o eliminar redirecciones, el usuario del Admin VTEX debe tener un rol de acceso con el [recurso de License Manager](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) **CMS Settings**. Puedes asignar al usuario un rol de acceso con el recurso siguiendo las instrucciones del artículo [Gestionar usuarios](https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512#editando-usuarios), o crear un nuevo rol de acceso que incluya dicho recurso consultando las instrucciones del artículo [Roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol).
 
 En el Admin VTEX:
 
 1. Acceda al módulo **Storefront > Páginas**.
 2. Haga clic en la pestaña `Redirecciones`.
 
-![es-redirect-tab](https://images.ctfassets.net/alneenqid6w5/5TkQzPBMxi9Wh4SCBgVWZ1/ca140110fbe426d775814a1fd5ae4350/redirect-tab.png)
+![es-redirect-tab](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/administrando-redireccionamientos-de-url-por-binding-0.png)
 
 ## Crear redirecciones manualmente
 
@@ -42,7 +40,7 @@ En la pestaña Redirecciones del módulo Páginas:
 4. Indique si la redirección será permanente o temporal. Si es temporal, puede activar el botón `Esta redirección tiene una fecha final` y definir la fecha final. 
 5. Guarde los cambios.
 
-![es-novoredirect](https://images.ctfassets.net/alneenqid6w5/1XJSvEL4ozDdupa3j0mcx8/95ddbd08e7902a6c7aa7f30a4af85120/nuevo-redirect.png)
+![es-novoredirect](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/administrando-redireccionamientos-de-url-por-binding-1.png)
 
 ## Eliminar redirecciones manualmente
 
@@ -52,7 +50,7 @@ En la pestaña Redirecciones del módulo Páginas:
 2. Haga clic en el botón `Remover`.
 3. Confirme la acción. 
 
-![es-remover-redirect](https://images.ctfassets.net/alneenqid6w5/5khhDBT5o6ESJjwlaFClr5/a6d978fecd07eba1007ea1b28d2675b6/remover-redirect.png)
+![es-remover-redirect](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/administrando-redireccionamientos-de-url-por-binding-2.png)
 
 >⚠️ Puede ocurrir un error al intentar hacer clic en las redirecciones que tienen cadenas de query. El equipo de producto de VTEX está al tanto de este comportamiento inesperado y está trabajando en la corrección. Si no puede hacer clic en la redirección que desea eliminar, puede utilizar la hoja de cálculo para eliminarla mientras arreglamos el error.
 
@@ -79,7 +77,7 @@ En la pestaña Redirecciones del módulo Páginas:
 4. Haga clic en el botón `Importar`. 
 5. Haga clic en el botón `Guardar` o `Eliminar` según sea el caso. 
 
-  ![es-redirect-planilha](https://images.ctfassets.net/alneenqid6w5/4jcHxndX1LyV74UdFJgWNV/7efcfc5207e0972a2b31a4be847b7000/planilha-redirect.png)
+  ![es-redirect-planilha](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/administrando-redireccionamientos-de-url-por-binding-3.png)
 
   >⚠️ Al seleccionar la opción `Guardar`, creará todas las redirecciones enumeradas en la plantilla, mientras que seleccionar la opción `Eliminar` las eliminará todas de la base de datos de su tienda.
 

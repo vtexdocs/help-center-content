@@ -15,4 +15,4 @@ legacySlug: setting-up-pix-as-a-payment-method
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

@@ -1,10 +1,10 @@
 ---
 title: 'Configuring payment with Mercado Pago in VTEX Sales App'
 id: 51fgSydGGOnlBdtwTfE8BE
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-08-26T12:36:03.781Z
-updatedAt: 2024-09-02T21:20:22.288Z
-publishedAt: 2024-08-28T21:17:53.696Z
+updatedAt: 2024-09-03T13:41:09.309Z
+publishedAt: 2024-09-03T13:41:09.309Z
 firstPublishedAt: 2024-08-26T18:37:41.187Z
 contentType: tutorial
 productTeam: Financial
@@ -15,4 +15,4 @@ legacySlug: configuring-payment-with-mercado-pago-in-vtex-sales-app
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation. </div>
+>⚠️ Content under translation.

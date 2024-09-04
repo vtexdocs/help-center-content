@@ -15,4 +15,4 @@ legacySlug: como-pagar-boletos-por-vtex-payment
 subcategory: 6J5IKNejpAxT1Ie23PDtU4
 ---
 
-<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
+>⚠️ Contenido bajo traducción.
