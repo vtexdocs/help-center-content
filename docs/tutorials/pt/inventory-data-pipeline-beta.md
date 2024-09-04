@@ -1,10 +1,10 @@
 ---
-title: 'Inventário Data Pipeline (Beta)'
+title: 'Inventário Data Pipeline '
 id: 2IvKMZV9SNrE6ipBRQr8h2
 status: PUBLISHED
 createdAt: 2024-02-02T17:41:24.979Z
-updatedAt: 2024-07-29T19:12:57.037Z
-publishedAt: 2024-07-29T19:12:57.037Z
+updatedAt: 2024-09-02T19:28:13.286Z
+publishedAt: 2024-09-02T19:28:13.286Z
 firstPublishedAt: 2024-05-27T19:26:59.588Z
 contentType: tutorial
 productTeam: Others

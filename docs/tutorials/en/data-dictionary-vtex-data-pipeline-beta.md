@@ -3,8 +3,8 @@ title: 'Data dictionary: VTEX Data Pipeline (Beta)'
 id: 69hMoE2woVw14nWR3ujVto
 status: PUBLISHED
 createdAt: 2024-02-01T18:51:29.281Z
-updatedAt: 2024-06-25T14:23:40.720Z
-publishedAt: 2024-06-25T14:23:40.720Z
+updatedAt: 2024-09-02T19:27:48.167Z
+publishedAt: 2024-09-02T19:27:48.167Z
 firstPublishedAt: 2024-05-27T19:26:59.681Z
 contentType: tutorial
 productTeam: Others

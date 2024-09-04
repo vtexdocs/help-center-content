@@ -1,10 +1,10 @@
 ---
-title: 'Navigation Data Pipeline (Beta)'
+title: 'Navigation Data Pipeline '
 id: 4X4hK0zdIHN0Xn5x2MLYYd
 status: PUBLISHED
 createdAt: 2024-02-02T17:48:16.639Z
-updatedAt: 2024-06-21T16:24:13.980Z
-publishedAt: 2024-06-21T16:24:13.980Z
+updatedAt: 2024-09-02T19:28:13.230Z
+publishedAt: 2024-09-02T19:28:13.230Z
 firstPublishedAt: 2024-05-27T19:26:59.542Z
 contentType: tutorial
 productTeam: Others

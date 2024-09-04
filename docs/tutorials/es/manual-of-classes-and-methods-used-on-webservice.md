@@ -23,5 +23,5 @@ La interfaz de Web Service permite que el responsable de la tienda acceda práct
 >
 > **Todos los demás métodos serán descontinuados a partir del 28/02/2017.**
 >
-> Utilice las API REST equivalentes disponibles en nuestro [Developer Docs](//help.vtex.com/developer-docs/).
+> Utilice las API REST equivalentes disponibles en nuestro [Developer Docs](https://help.vtex.com/developer-docs/).
 

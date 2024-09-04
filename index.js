@@ -551,6 +551,7 @@ ${textPT}
     fileFolders = "faq";
     contentTypes.faqs.push(entry);
   } else if (contentType === "updates") {
+    fileNameEN = createdAt.split("T")[0] + "-" + fileNameEN;
     fileContentEN = `---
 title: ${titleEN.includes("'") ? `"${titleEN}"` : `'${titleEN}'`}
 id: ${entryId}

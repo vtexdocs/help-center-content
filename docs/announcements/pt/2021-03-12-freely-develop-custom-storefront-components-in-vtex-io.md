@@ -1,22 +1,14 @@
 ---
-title: ''
-id: 2VSsZ0Y5ofRRQuD6Hmc4xb
-status: DRAFT
-createdAt: 2021-03-11T10:09:35.151Z
-updatedAt: 2021-03-11T10:10:07.137Z
-publishedAt: 
+title: 'Desenvolva livremente componentes customizados de storefront no VTEX IO '
+id: 17Er2P2P9hTrV6lT4g2V9J
+status: PUBLISHED
+createdAt: 2021-03-12T12:31:16.443Z
+updatedAt: 2021-03-15T12:56:15.848Z
+publishedAt: 2021-03-15T12:56:15.848Z
 contentType: updates
-productTeam: 
-author: 
-slug: untitled-entry-2021-03-11-at-10-09-35
-locale: pt
-legacySlug: untitled-entry-2021-03-11-at-10-09-35
-announcementImageID: ''
-announcementSynopsisPT: ''
----
-
-
-entes-customizados-de-storefront-no-vtex-io
+productTeam: VTEX IO
+author: 6AcGyun1hSWewU8YcaQiO
+slug: desenvolva-livremente-componentes-customizados-de-storefront-no-vtex-io
 locale: pt
 legacySlug: desenvolva-livremente-componentes-customizados-de-storefront-no-vtex-io
 announcementImageID: ''

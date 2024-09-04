@@ -3,8 +3,8 @@ title: 'Delivery Promise (Beta)'
 id: p9EJH9GgxL0JceA6dBswd
 status: PUBLISHED
 createdAt: 2024-08-22T15:58:58.240Z
-updatedAt: 2024-08-22T19:03:01.589Z
-publishedAt: 2024-08-22T19:03:01.589Z
+updatedAt: 2024-09-02T22:29:17.194Z
+publishedAt: 2024-09-02T22:29:17.194Z
 firstPublishedAt: 2024-08-22T18:57:59.895Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: delivery-promise-beta
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
->ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://help.vtex.com/pt/support">nosso Suporte</a>.
 
 **Delivery Promise (Beta)** é a nova solução da VTEX para que o cliente, durante a experiência de compra na sua loja, visualize somente os produtos que pode adquirir, considerando tanto a disponibilidade dos produtos em estoque quanto formas de envio válidas para o endereço de entrega.
 
@@ -102,8 +102,8 @@ O lojista precisa garantir a correta configuração dos seguintes aspectos do pr
 * Cadastro a nível de produto e SKU no catálogo.
 * Cadastro de preço.
 * [Estratégia de envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) que viabiliza o envio do pedido para o endereço fornecido pelo cliente.
-* Templates de [CMS](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) do frontend da loja configurados.
 * Contagem do produto no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-inventario--tutorials_139) disponível para vendas, ou estoque infinito configurado ou opção habilitada para exibir o produto quando esgotado.
+* Templates de [CMS](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) do frontend da loja configurados.
 
 >ℹ️ Para mais informações, veja o artigo [Por que o produto não aparece no site?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
 

@@ -1,10 +1,10 @@
 ---
-title: 'Preços Data Pipeline (Beta)'
+title: 'Preços Data Pipeline '
 id: 3NMGJ8dtv73Bwvo9PSz1fz
 status: PUBLISHED
 createdAt: 2024-06-21T14:58:43.084Z
-updatedAt: 2024-08-30T14:44:16.241Z
-publishedAt: 2024-08-30T14:44:16.241Z
+updatedAt: 2024-09-02T19:28:12.994Z
+publishedAt: 2024-09-02T19:28:12.994Z
 firstPublishedAt: 2024-06-21T15:27:43.768Z
 contentType: tutorial
 productTeam: Channels

@@ -19,7 +19,7 @@ subcategory: 1vwB9FtTSQmcSewQw02QoW
 >
 > **All other methods are deprecated.**
 >
-> Use the equivalent REST APIs avilable in our [Developer Docs](//help.vtex.com/developer-docs/).
+> Use the equivalent REST APIs avilable in our [Developer Docs](https://help.vtex.com/developer-docs/).
 
 The payments Web Service uses some codes for each form of payment available in the PCI Gateway area. The code for each payment is fixed, and does not depend on the integrator.
 
