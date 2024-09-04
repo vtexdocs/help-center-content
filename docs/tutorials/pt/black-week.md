@@ -47,7 +47,7 @@ A página apoia operação do seu negócio para a black week ao permitir:
 Assista um vídeo para saber mais sobre a página:
 
 <video width="320" height="240" controls>
-  <source src="//videos.ctfassets.net/alneenqid6w5/1f4Q2e1yN2GCJuTqQlegv8/ecc24665257eaf5c1095bb4cc443a871/Screenshare_-_2022-11-18_4_17_34_PM.mp4" type="video/mp4">
+  <source src="https://videos.ctfassets.net/alneenqid6w5/1f4Q2e1yN2GCJuTqQlegv8/ecc24665257eaf5c1095bb4cc443a871/Screenshare_-_2022-11-18_4_17_34_PM.mp4" type="video/mp4">
 </video>
 
 ## Dados

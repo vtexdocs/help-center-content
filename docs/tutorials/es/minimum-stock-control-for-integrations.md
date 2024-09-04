@@ -1,9 +1,9 @@
 ---
 title: 'Control de stock mínimo para integraciones'
 id: 5hvUNIiSeJ5QCaZQYpYf1D
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-10-16T15:25:46.901Z
-updatedAt: 2023-03-29T16:15:17.491Z
+updatedAt: 2024-09-04T14:27:54.489Z
 publishedAt: 2023-03-29T16:15:17.491Z
 firstPublishedAt: 2020-10-16T17:29:32.622Z
 contentType: tutorial

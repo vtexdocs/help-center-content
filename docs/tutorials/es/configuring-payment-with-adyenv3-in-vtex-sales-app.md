@@ -3,8 +3,8 @@ title: 'Configurar pagos con AdyenV3 en VTEX Sales App'
 id: 24yO6KloBn6DN6CbprHtgt
 status: PUBLISHED
 createdAt: 2023-05-09T14:12:03.567Z
-updatedAt: 2024-07-26T16:55:23.474Z
-publishedAt: 2024-07-26T16:55:23.474Z
+updatedAt: 2024-09-03T13:37:54.592Z
+publishedAt: 2024-09-03T13:37:54.592Z
 firstPublishedAt: 2023-05-11T20:30:50.460Z
 contentType: tutorial
 productTeam: Financial
@@ -119,12 +119,10 @@ Configura el webhook según los pasos a continuación:
 1. En el Admin VTEX, accede a **Configuración de la tienda > Pago > Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
 2. En la pestana **Condiciones de pago**, haga clic en el botón `+`.
 3. Haga clic en **Venda Direta Debito** o **Venda Direta Credito**.
-4. En **Procesar con afiliación**, seleccione el conector previamente configurado.
+4. En **Procesar con proveedor**, seleccione el conector previamente configurado.
 5. Active la condición en el campo **Status**.
 6. Si desea utilizar un sistema antifraude, seleccione la opción **Utilizar antifraude**.
 7. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
 8. Haga clic en `Guardar`.
-
-After completing these steps, the AdyenV3 Connector may take up to 10 minutes to appear as a payment option in your store's VTEX Sales App.
 
 Tras seguir los pasos indicados, el conector AdyenV3 puede tardar hasta 10 minutos para aparecer como opción de pago en la App Ventas VTEX de su tienda.

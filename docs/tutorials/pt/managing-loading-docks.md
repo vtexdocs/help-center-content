@@ -3,8 +3,8 @@ title: 'Gerenciar Doca'
 id: 7K3FultD8I2cuuA6iyGEiW
 status: PUBLISHED
 createdAt: 2017-08-03T14:22:38.666Z
-updatedAt: 2023-03-29T15:44:26.137Z
-publishedAt: 2023-03-29T15:44:26.137Z
+updatedAt: 2024-09-03T15:43:32.430Z
+publishedAt: 2024-09-03T15:43:32.430Z
 firstPublishedAt: 2017-08-03T14:25:42.704Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -29,17 +29,10 @@ Este artigo contém as informações necessárias para:
 É importante saber que para ter uma doca configurada corretamente é preciso: criar a doca, preencher os campos de cadastro (que determinaram horário de funcionamento, prioridade), e também associar a doca a [política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE), ao estoque e a [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
 
 >⚠️ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:
-> <body>
->
-> [Política Comercial;](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
->
-> 2. [Política de Envio;](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140)
->
-> Doca;
->
-> Estoque.
->
-> </body>
+> *[Política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+> * [Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140)
+> * [Doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
+> * [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
 
 ## Cadastrar
 

@@ -3,8 +3,8 @@ title: 'Customizing your store’s typography'
 id: 2R0ByIjvJtuz99RK3OL5WP
 status: PUBLISHED
 createdAt: 2022-01-17T20:32:00.917Z
-updatedAt: 2023-03-28T12:13:42.484Z
-publishedAt: 2023-03-28T12:13:42.484Z
+updatedAt: 2024-09-03T16:02:42.101Z
+publishedAt: 2024-09-03T16:02:42.101Z
 firstPublishedAt: 2022-01-17T21:12:52.262Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -15,72 +15,69 @@ legacySlug: customizing-your-stores-typography
 subcategory: 5HsDDU48ZP58JHWU3WbCPc
 ---
 
-The typography of your store website is a tool to communicate your brand identity to your clients. 
-In the Admin, you have the flexibility to customize your store’s typography to suit to your business needs.
+The typography of your online store is a tool for showing your brand identity to your customers.
+In the Admin, you have the flexibility to customize your store's typography to meet your business needs.
 
->⚠️ Keep in mind that changes to your store typography in the **Storefront** overwrite the typography changes made in your store code. Please contact your development team and make sure the changes will be done in the Storefront or through your store's code.
+>⚠️ Keep in mind that changes made to your store's typography in the **Storefront** override typography changes made in the store's code. Please contact your development team and make sure that these changes will be set in the Storefront or in your store's code.
 
 ## Adding custom font families
 
-1. In the VTEX Admin, access **Storefront > Styles**.
+1. In the VTEX Admin, go to **Storefront > Styles**.
+
 2. Select the kebab menu icon (three dots).
 
-![Styles - More Options](https://images.ctfassets.net/alneenqid6w5/7qhmfxaMzZ8Aw0F6mygs2i/3bc40e3e3a439475b4f0998a3af56854/styles-two-en.png)
+3. Click **Edit > Typography > Font family**.
 
-3. Click **Edit > Typography > Font Family**.
+4. Click **Add custom font**.
 
-4. Then, click **Add custom font** and upload the desired font file. In the **Font Family** input field, enter a name for the font.
+5. In the **Font family** field, create a name for the font.
 
->⚠️ The font family file must be uploaded in the following file extensions: <i>.ttf</i> or <i>.woff</i>.
+    ![familia-de-fontes-giff-en](https://images.ctfassets.net/alneenqid6w5/5GVDDJvzXVmlkEbU1OHPoR/aa803a298788fc1b0a0304f5ab6cddeb/familia-de-fontes-giff-en.gif)
 
-5. Click `Save` to save your changes. 
+6. Click **Upload** to upload the desired font file.
 
-## Changing the font style
+>⚠️ The font family file must have one of the following extensions: <i>.ttf</i> or <i>.woff</i>.
 
-After adding new font families, you can apply them to your store’s text content. However, before completing the steps for changing the font style of your store, you need to be familiar with **Type Tokens**.
+7. Once the files have been uploaded, choose a font style. The accepted values are: `Thin`, `Extra Light`, `Light`, `Regular`, `Medium`, `Bold`, `Extra Bold`, `Black`, `Thin Italic`, `Extra Light Italic`, `Light Italic`, `Regular Italic`, `Medium Italic`, `Bold Italic`, `Extra Bold Italic` and `Black Italic`.
 
-Refer to the section [Type tokens](#type-tokens) for more information about them, and then check out the steps for changing the font style.
+8. Click `Save`.
 
-### Step-by-step
+## Configuring type tokens
 
-1. In the VTEX Admin, access **Storefront > Styles**.
+After adding new font families, you can apply them to your store's text content using **Type tokens**.
+
+The **Type tokens** option displays all customizable text content in your store. Here's what you can customize using type tokens:
+
+- **Headings:** These are the first elements that users read and give information most efficiently, using no more than the necessary number of words. There are six headings. `Heading 1` is the most prominent heading style, and `Heading 6` is the least one.
+
+- **Body:** This is the text style designed to improve paragraph readability by adding spacing between the lines. There is one type of body.
+
+- **Auxiliary small/mini:** These are secondary elements of an interface, such as subtitles and badge text. There are two types of auxiliary text: small and mini.
+
+- **Action:** This is the text style used in the main action of the page and for interactive elements, such as call to action (CTA), buttons, and tabs. There are three types: `Action`, `Action Small`, and `Action Large`.
+
+- **Code:** This is the text style used to indicate technical terms, such as programming languages, shipping estimates, and installment rules.
+
+Follow the instructions below to configure type tokens:
+
+1. In the VTEX Admin, go to **Storefront > Styles**.
+
 2. Select the kebab menu icon (three dots).
-3. Click on **Edit > Typography > Type Tokens**.
 
-![Styles - Type tokens EN](https://images.ctfassets.net/alneenqid6w5/6kw7SMB36fZsS0SKX00Kss/dbb378f7b8e11fa1217276626dd6f008/styles-three-en.gif)
+3. Click **Edit > Typography > Type tokens**.
 
-4. Choose the type token you want to customize, for example, **Heading 1**, and click it.
+    ![tokens-tipo-giff-en](https://images.ctfassets.net/alneenqid6w5/6O5G4MOA0vGlFLEzdcRQDa/c7bc0075e3df6e338a258baf8c9ca41f/tokens-tipo-giff-en.gif)
 
-5. Then, choose which property of the type token you want to customize:
+4. Choose the token you want to customize, such as **Heading 1**, and click it.
 
-| Property | Description | Value available |
-| ----------- | --------------- | ----------------- |
-| __Font Family__ | Sets the font type of a type token. | `JosefinSans`, `Bold`, `Default` |
-| __Font Weight__ | Sets how thick or thin characters in the type token should be displayed. | `Thin`, `Extra Light`, `Light`, `Normal`, `Medium`, `Semi Bold`, `Bold`, `Extra Bold`, `Black`.   |
-| __Font Size__ | Sets the font size of a type token. | `48px`, `36px`, `24px`, `20px`, `16px`, `14px`, `12px`,  |
-| __Text transform__ | Sets the capitalization of the type token. | `Initial`, `None`, `Capitalize`, `Uppercase`, `Lowercase`,  |
-| __Letter Spacing__ | Sets the space between characters in a type token. | `Normal`, `Tracked`, `Tracked Tight`, `Tracked Mega`, `Zero` |
+5. Then customize each property according to the table below:
 
-6. After completing the changes in the type token, click `Save`, which will display the changes in your live store.
+    | Property | Description | Available values |
+    | ----------- | --------------- | ----------------- |
+    | __Font Family__ | Sets the font type of a type token. | `JosefinSans`, `Bold`, `Default` |
+    | __Font Weight__ | Sets how thick or thin the token characters should be displayed. | `Thin`, `Extra Light`, `Light`, `Normal`, `Medium`, `Semi Bold`, `Bold`, `Extra Bold`, `Black`.   |
+    | __Font Size__ | Sets the font size of a type token. | `48px`, `36px`, `24px`, `20px`, `16px`, `14px`, `12px`, |
+    | __Text Transform__ | Sets the use of capital letters in the type token. | `Initial`, `None`, `Capitalize`, `Uppercase`, `Lowercase`, |
+    | __Letter Spacing__ | Sets the space between characters in a type token. | `Normal`, `Tracked`, `Tracked Tight`, `Tracked Mega`, `Zero` |
 
-### Type tokens
-
-The **Type Tokens** option displays all your store’s customizable text content. 
-
-See what you can customize using the type tokens:
-
-- **Headings**
-These are the first elements that users read and give information most efficiently, using no more than the necessary number of words. There are six headings, `Heading 1` being the most prominent heading style and `Heading 6` the least prominent one.
-
-- **Body**
-The body is the text style defined to achieve paragraph legibility by adding height between the lines. There is one type of body.
-
-- **Auxiliary (Small and mini)**
-These are the secondary elements of an interface, such as captions and text on badges. There are two types of auxiliaries: Small and mini.
-
-- **Action**
-Action is the text style used on the page’s main action and interactive elements, such as the call to action (CTA), buttons, and tabs. There are three types: `Action`, `Action Small` and `Action Large`.
-
-- **Code**
-Code is the text style used to indicate technical terms, such as programming language, shipping estimate, and installment rules. There is one type of code. 
-
+6. Click `Save`.

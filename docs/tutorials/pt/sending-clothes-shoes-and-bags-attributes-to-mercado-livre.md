@@ -27,10 +27,10 @@ Para enviar os atributos dos produtos do tipo __Roupas__, __Calçados__ e __Bols
 
 __Links com os valores aceitos pelo Mercado Livre__:
 
-- [Brasil](//assets.contentful.com/alneenqid6w5/6BHWQLL9bGuMq2ycMye0uc/76e64b67cb7352d95d6bb977b33394d4/Brasil-2.zip)
-- [Argentina](//assets.contentful.com/alneenqid6w5/3c61gJrH7GWOywMCGMECg4/dc7a2ce73a99d41345dde2092eb1fec6/Argentina.rar)
-- [Colômbia](//assets.contentful.com/alneenqid6w5/5RePTJoKrYi4qA66WCCYKw/33910300057806b554d566210aa2310a/Colombia.rar)
-- [México](//assets.contentful.com/alneenqid6w5/3Z3xgpPyvuYEAIO2me4GSG/e4f4198463d8a3ba05124a30031302fa/Mexico.rar)
+- [Brasil](https://assets.contentful.com/alneenqid6w5/6BHWQLL9bGuMq2ycMye0uc/76e64b67cb7352d95d6bb977b33394d4/Brasil-2.zip)
+- [Argentina](https://assets.contentful.com/alneenqid6w5/3c61gJrH7GWOywMCGMECg4/dc7a2ce73a99d41345dde2092eb1fec6/Argentina.rar)
+- [Colômbia](https://assets.contentful.com/alneenqid6w5/5RePTJoKrYi4qA66WCCYKw/33910300057806b554d566210aa2310a/Colombia.rar)
+- [México](https://assets.contentful.com/alneenqid6w5/3Z3xgpPyvuYEAIO2me4GSG/e4f4198463d8a3ba05124a30031302fa/Mexico.rar)
 
 Quando sua planilha estiver preenchida com os valores corretos, basta fazer o __upload no Bridge__ da VTEX. Para isso, siga estes passos:
 
@@ -45,7 +45,7 @@ __Pronto!__ Agora os atributos dos seus produtos do tipo __Roupa__, __Calçados_
 
 Um calçado *amarelo* com *detalhes azuis* de *tamanho 39* deve ser enviado para o Mercado Livre com o __ID do SKU__ correspondente e os códigos __33000_Amarelo_52007__, __43000_Azul_52092__ e __23000_39_22039__, relativos a *cor principal*, *cor secundária* e *tamanho*. Veja mais exemplos na imagem abaixo:
 
-![Planilha modelo ML](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/pt/envio-dos-atributos-de-roupas-calcados-e-bolsas-para-o-mercado-livre-0.png)
+![Planilha modelo ML](https://images.contentful.com/alneenqid6w5/1Z4UPfR5beG6SoMucASAm0/132e8316128421a2c98da7ee8fdb81b4/Planilha-modelo-ML.png)
 
 ## Para saber mais
 

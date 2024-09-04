@@ -56,11 +56,11 @@ Com essa feature, é possível categorizar corretamente e também criar variaç�
 O mapeamento deve ser feito sempre que um produto for enviado pela primeira vez à Dafiti. Isso significa que, já tendo feito o mapeamento uma vez, os produtos que já foram integrados não precisam passar por esse processo novamente. Da mesma forma, produtos novos devem sempre passar pelo mapeamento.
 
 1. De acordo com o __seu país__, faça o download da __Planilha de Mapeamento da Dafiti__ no formato `.xlsx`.
-<br/>&bull; [Brasil](//assets.ctfassets.net/alneenqid6w5/2Vbi7VaYIowaaOYCCucsQq/fa94cd636b38e9810dd6a708c95e26ac/Planilha_de_Mapeamento_da_Dafiti.xlsx)
-<br/>&bull; [Colômbia](//assets.ctfassets.net/alneenqid6w5/4d5y0N09IsKmy4MuAGygqs/0e43349d309fb556179dfac5f2f6c885/Planilha_de_Mapeamento_da_Dafiti_COL.xlsx)
+<br/>&bull; [Brasil](https://assets.ctfassets.net/alneenqid6w5/2Vbi7VaYIowaaOYCCucsQq/fa94cd636b38e9810dd6a708c95e26ac/Planilha_de_Mapeamento_da_Dafiti.xlsx)
+<br/>&bull; [Colômbia](https://assets.ctfassets.net/alneenqid6w5/4d5y0N09IsKmy4MuAGygqs/0e43349d309fb556179dfac5f2f6c885/Planilha_de_Mapeamento_da_Dafiti_COL.xlsx)
 
 2. De acordo com o __seu país__, faça o download da __Planilha de Consulta da Dafiti__ para verificar os valores aceitos de acordo com cada coluna da Planilha de Mapeamento do passo anterior. Essa planilha é __exclusivamente para consulta__.
-<br/>&bull; [Brasil](//assets.ctfassets.net/alneenqid6w5/1gGYn5lo3qSe0iOaoKs0oa/fc1aa02e2761474f0235fcb489f930ff/Planilha_de_Consulta_Dafiti.xlsx)
+<br/>&bull; [Brasil](https://assets.ctfassets.net/alneenqid6w5/1gGYn5lo3qSe0iOaoKs0oa/fc1aa02e2761474f0235fcb489f930ff/Planilha_de_Consulta_Dafiti.xlsx)
 <br/>&bull; [Colômbia](https://s3.amazonaws.com/Marketplace-Integration/SellerCenterIntegration/Colombia.zip)
 
 Siga o passo a passo abaixo, fazendo o de/para na __Planilha de Mapeamento__ entre o que está cadastrado no seu produto na VTEX e os valores especificados na __Planilha de Consulta__ da Dafiti.

@@ -3,8 +3,8 @@ title: 'Configurar a integração com o TikTok for Business no Admin VTEX'
 id: 4AEUg7pEdX1beOaQhFf0wC
 status: PUBLISHED
 createdAt: 2022-04-14T21:22:01.564Z
-updatedAt: 2022-04-26T13:08:43.741Z
-publishedAt: 2022-04-26T13:08:43.741Z
+updatedAt: 2024-09-03T19:34:18.900Z
+publishedAt: 2024-09-03T19:34:18.900Z
 firstPublishedAt: 2022-04-18T11:52:11.581Z
 contentType: trackArticle
 productTeam: Channels
@@ -51,7 +51,7 @@ Nesta seção, é necessário inserir informações sobre a sua loja, que serão
 * **Nome da Loja:** nome da loja conforme será exibido no TikTok.
 * **Site da Loja:** URL do website da sua loja que aparecerá no TikTok. Não pode ser alterado posteriormente.
 * **Segmento:** campo para selecionar o segmento em que a loja atua, entre as opções disponibilizadas pelo TikTok.
-* **País:** país de operação da loja. No momento, a integração só aceita o Brasil.
+* **País:** país de operação da loja. No momento, a integração só aceita países da América Latina.
 * **Fuso Horário:** zona de fuso horário em que a loja está localizada.
 
 ### Informações de Contato
@@ -82,7 +82,7 @@ Depois de preencher o formulário de configuração da integração, você preci
 
 Na página **Set up TikTok For Business** (Configurar o TikTok For Business), ilustrada abaixo, é necessário cumprir as instruções de configuração descritas a seguir.
 
-![set-up-tiktok-for-business](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/pt/configurar-a-integracao-com-o-tiktok-for-business-no-admin-vtex-0.png)
+![set-up-tiktok-for-business](https://images.ctfassets.net/alneenqid6w5/77d9v0437SxRBVXD0OUmW/290a1ece93c0fcb0fe91a1da61352513/image2.png)
 
 1. Clique na seção **TikTok For Business Account** e verifique se a sua conta está listada.
     * Caso queira conectar outra conta, clique em `Disconnect` e repita a etapa de login descrita em [Conectar a conta do TikTok](#conectar-a-conta-do-tiktok).
@@ -103,7 +103,7 @@ Na página **Set up TikTok For Business** (Configurar o TikTok For Business), il
 
 Ao concluir essa configuração, você será conduzido novamente para **Marketplace > TikTok** no Admin VTEX, onde poderá [gerenciar a integração](https://help.vtex.com/pt/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd/24SfBYkRkKMaetgjLDKgaP). Para algumas versões do Admin VTEX, a página se encontra em **Aplicativos > Meus Aplicativos > TikTok**. Após a configuração ter sido concluída com sucesso, qualquer usuário logado no Admin VTEX poderá acessar essa área de gerenciamento do TikTok. 
 
-![tiktok-config-3](https://raw.githubusercontent.com/vtexdocs/help-center-content/main//downloads.ctfassets.net/alneenqid6w5/4gryDGvlRXWO50awLjcpBx/6f225b366777870d8eed7dd33f90614a/tiktok-config-3.gif)
+![tiktok-config-3](https://downloads.ctfassets.net/alneenqid6w5/4gryDGvlRXWO50awLjcpBx/6f225b366777870d8eed7dd33f90614a/tiktok-config-3.gif)
 
 ### Envio de dados dos produtos para o TikTok
 

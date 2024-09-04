@@ -3,8 +3,8 @@ title: 'Cómo se maneja la reserva'
 id: tutorials_92
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:56.753Z
-updatedAt: 2023-10-18T17:20:21.911Z
-publishedAt: 2023-10-18T17:20:21.911Z
+updatedAt: 2024-09-03T17:29:38.830Z
+publishedAt: 2024-09-03T17:29:38.830Z
 firstPublishedAt: 2017-04-27T23:00:42.751Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -45,7 +45,7 @@ _plazo de vencimiento del pago + plazo de reserva en el stock_
     * **cinco días consecutivos:** cuando el día de vencimiento del pago sea miércoles, jueves o viernes.
     * **seis días consecutivos:** cuando el día de vencimiento del pago sea sábado.
 
->❗ Los pedidos incompletos tienen un plazo de reserva fijo de 11 días consecutivos. Para saber más, consulta el artículo [Cómo funcionan los pedidos incompletos.](https://help.vtex.com/es/tutorial/como-encontrar-un-pedido--tutorials_294)
+>❗ Los pedidos incompletos pueden tener un plazo de reserva de 11 días consecutivos. Para saber más, consulta el artículo [Cómo funcionan los pedidos incompletos.](https://help.vtex.com/es/tutorial/como-encontrar-un-pedido--tutorials_294)
 
 Para el markeplace externo, si la información del tiempo de reserva se envía por el campo `lockTTL`, el tiempo de reserva no será calculado por la plataforma VTEX, es si determinado por la fecha límite en el campo. Esto se hace mediante el llamado [Place order](https://developers.vtex.com/docs/api-reference/checkout-api#put-/api/checkout/pub/orders).
 

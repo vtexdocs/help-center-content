@@ -3,8 +3,8 @@ title: 'Configurar la integración de TikTok for Business en VTEX Admin'
 id: 4AEUg7pEdX1beOaQhFf0wC
 status: PUBLISHED
 createdAt: 2022-04-14T21:22:01.564Z
-updatedAt: 2022-04-26T13:08:43.741Z
-publishedAt: 2022-04-26T13:08:43.741Z
+updatedAt: 2024-09-03T19:34:18.900Z
+publishedAt: 2024-09-03T19:34:18.900Z
 firstPublishedAt: 2022-04-18T11:52:11.581Z
 contentType: trackArticle
 productTeam: Channels
@@ -50,7 +50,7 @@ En esta sección, debes introducir información sobre tu tienda, que se enviará
 * **Nombre de la tienda:** nombre de la tienda tal y como se mostrará en TikTok.
 * **Sitio web de la tienda:** la URL del sitio web de tu tienda que aparecerá en TikTok. No se puede modificar posteriormente.
 * **Segmento:** campo para seleccionar el segmento en el que opera la tienda, entre las opciones que ofrece TikTok.
-* **País:** país de operación de la tienda. Por el momento, la integración solo acepta a Brasil.
+* **País:** país de operación de la tienda. Por el momento, la integración solo acepta países de América Latina.
 * **Zona horaria:** zona horaria en la que se encuentra la tienda.
 
 ### Información de contacto

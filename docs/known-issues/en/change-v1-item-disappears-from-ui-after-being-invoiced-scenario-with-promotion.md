@@ -3,8 +3,8 @@ title: 'Change v1 Item disappears from UI after being invoiced, scenario with pr
 id: 2OsJe5vLh2IsNUikT5VBrL
 status: PUBLISHED
 createdAt: 2024-08-13T13:11:12.493Z
-updatedAt: 2024-08-13T13:53:43.754Z
-publishedAt: 2024-08-13T13:53:43.754Z
+updatedAt: 2024-09-03T15:09:08.208Z
+publishedAt: 2024-09-03T15:09:08.208Z
 firstPublishedAt: 2024-08-13T13:11:13.338Z
 contentType: knownIssue
 productTeam: Order Management
@@ -23,7 +23,7 @@ We identified a scenario in Change V1 where, after applying a "buy 2 and get a d
 
 Since Change V1 does not use the itemIndex, validation is done by the id, which generates this behavior.
 
-We emphasize that this is only a behavior in the UI; via API, the order remains intact!.
+In this case, we will also not have the information about the item invoiced in the API.
 
 
 ##

@@ -53,11 +53,11 @@ Con esta *feature*, será posible categorizar correctamente y también crear var
 El mapeo debe realizarse siempre que un producto se envíe por primera vez a Dafiti. Esto significa que, ya habiendo hecho el mapeo una vez, los productos que ya fueron integrados no necesitará rehacer el mapeo. Y también que, los nuevos productos siempre deben hacer el mapeo.
 
 1. De acuerdo con __su país__, descargue abajo la __Planilla de Mapeo de Dafiti__ en el formato `.xlsx`.
-<br/>&bull; [Brasil](//assets.ctfassets.net/alneenqid6w5/2Vbi7VaYIowaaOYCCucsQq/fa94cd636b38e9810dd6a708c95e26ac/Planilha_de_Mapeamento_da_Dafiti.xlsx))
-<br/>&bull; [Colombia](//assets.ctfassets.net/alneenqid6w5/4d5y0N09IsKmy4MuAGygqs/0e43349d309fb556179dfac5f2f6c885/Planilha_de_Mapeamento_da_Dafiti_COL.xlsx)
+<br/>&bull; [Brasil](https://assets.ctfassets.net/alneenqid6w5/2Vbi7VaYIowaaOYCCucsQq/fa94cd636b38e9810dd6a708c95e26ac/Planilha_de_Mapeamento_da_Dafiti.xlsx))
+<br/>&bull; [Colombia](https://assets.ctfassets.net/alneenqid6w5/4d5y0N09IsKmy4MuAGygqs/0e43349d309fb556179dfac5f2f6c885/Planilha_de_Mapeamento_da_Dafiti_COL.xlsx)
 
 2. De acuerdo con __su país__, descargue abajo la __Planilla de Consulta de Dafiti__ para verificar los valores aceptados de acuerdo con cada columna de la Planilla de Mapeo del paso anterior. Esta hoja de trabajo se utilizará exclusivamente como __consulta__.
-<br/>&bull; [Brasil](//assets.ctfassets.net/alneenqid6w5/1gGYn5lo3qSe0iOaoKs0oa/fc1aa02e2761474f0235fcb489f930ff/Planilha_de_Consulta_Dafiti.xlsx)
+<br/>&bull; [Brasil](https://assets.ctfassets.net/alneenqid6w5/1gGYn5lo3qSe0iOaoKs0oa/fc1aa02e2761474f0235fcb489f930ff/Planilha_de_Consulta_Dafiti.xlsx)
 <br/>&bull; [Colombia](https://s3.amazonaws.com/Marketplace-Integration/SellerCenterIntegration/Colombia.zip)
 
 Siga el paso a paso siguiente, haciendo el de/para en la __Planilla de Mapeo__ entre el que está registrado en su producto en VTEX y los valores especificados de acuerdo con la __Planilla de Consulta__ de Dafiti.

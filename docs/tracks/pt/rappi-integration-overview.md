@@ -3,8 +3,8 @@ title: 'Visão geral da integração com a Rappi'
 id: 7y40IL3ajiukMRHrX3XmC8
 status: PUBLISHED
 createdAt: 2024-05-31T20:24:26.112Z
-updatedAt: 2024-05-31T20:51:33.604Z
-publishedAt: 2024-05-31T20:51:33.604Z
+updatedAt: 2024-09-04T13:32:59.831Z
+publishedAt: 2024-09-04T13:32:59.831Z
 firstPublishedAt: 2024-05-31T20:51:33.604Z
 contentType: trackArticle
 productTeam: Channels
@@ -26,6 +26,6 @@ A configuração com a Rappi tem o objetivo conectar sua loja VTEX com a platafo
 
 Para realizar a configuração entre VTEX e Rappi, é necessário concluir algumas etapas:
 
-[Credenciais Rappi](#credenciais-rappi)  
-[Configurações na plataforma VTEX](#configuracoes-na-plataforma)  
-[Cadastro da integração da Rappi](#cadastro-da-integracao-da-rappi)  
+- [Credenciais Rappi](#credenciais-rappi)  
+- [Configurações na plataforma VTEX](#configuracoes-na-plataforma)  
+- [Cadastro da integração da Rappi](#cadastro-da-integracao-da-rappi)  

@@ -3,17 +3,19 @@ title: 'Integração com a Shopee '
 id: 5OV9idUY6fHu3P8grnCnqj
 status: PUBLISHED
 createdAt: 2022-09-05T19:33:02.717Z
-updatedAt: 2024-04-17T16:10:43.661Z
-publishedAt: 2024-04-17T16:10:43.661Z
+updatedAt: 2024-09-04T13:20:57.644Z
+publishedAt: 2024-09-04T13:20:57.644Z
 firstPublishedAt: 2022-09-06T01:42:40.106Z
 contentType: tutorial
 productTeam: Channels
-author: 46G4yHIZerH7B9Jo0Iw5KI
+author: 2p7evLfTcDrhc5qtrzbLWD
 slug: integracao-com-a-shopee
 locale: pt
 legacySlug: integracao-com-a-shopee-beta
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
+
+>❗ A integração com o marketplace Shopee está temporariamente indisponível para novos sellers desde 03 de setembro de 2024.
 
 A [Shopee](https://shopee.com.br/) é uma plataforma de ecommerce que funciona como marketplace. A plataforma conta com um grande catálogo de produtos que podem ser consultados pelo site oficial ou pelo aplicativo, além de mais de 43 milhões de usuários cadastrados.
 

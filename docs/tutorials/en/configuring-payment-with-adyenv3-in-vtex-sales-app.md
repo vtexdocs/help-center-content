@@ -3,8 +3,8 @@ title: 'Configuring payment with AdyenV3 in VTEX Sales App'
 id: 24yO6KloBn6DN6CbprHtgt
 status: PUBLISHED
 createdAt: 2023-05-09T14:12:03.567Z
-updatedAt: 2024-07-26T16:55:23.474Z
-publishedAt: 2024-07-26T16:55:23.474Z
+updatedAt: 2024-09-03T13:37:54.592Z
+publishedAt: 2024-09-03T13:37:54.592Z
 firstPublishedAt: 2023-05-11T20:30:50.460Z
 contentType: tutorial
 productTeam: Financial

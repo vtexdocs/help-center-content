@@ -19,7 +19,7 @@ subcategory: 1yTYB5p4b6iwMsUg8uieyq
 
 The promotion highlight is a notice that can be placed on shelves and product pages stating that the product is eligible for a promotion. A common example is an image below a product picture indicating free shipping.
 
-![ExemploPromocaoDestaque2](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/configuring-promotions-with-a-highlightflag-0.png)
+![ExemploPromocaoDestaque2](https://images.contentful.com/alneenqid6w5/jS31HBOW3YWsIYyUOE8o/3d0c108c84b2a7c5e6ae2d4254425e4b/ExemploPromocaoDestaque2.png)
 
 Not all promotions are eligible to be featured. This possibility is limited to the types below:
 
@@ -64,9 +64,9 @@ This configuration consists of editing the page template used for the product pa
 9. On the right side of the screen, click on **New Layout**.
 10. In the side menu, click on the layout with a red check mark, and in the __Template__ field check the name of the template used.
 
-![Layout com check - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/configuring-promotions-with-a-highlightflag-1.png)
+![Layout com check - PT](https://images.ctfassets.net/alneenqid6w5/4GmSglkpk78c4M5hDZEgZX/ab47d3105213471fe370be0b11afcfab/image.png)
 
-![Template](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/configuring-promotions-with-a-highlightflag-2.png)
+![Template](https://images.contentful.com/alneenqid6w5/2OzzBkU2YwsgCGeICsgIcg/61aaf502c787cb4f0468ab8cee821072/Template.png)
 
 11. Go back to the side menu and click on the **HTML Templates** folder.
 12. Click on the template you found in @Product@.

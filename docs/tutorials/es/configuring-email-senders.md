@@ -19,4 +19,4 @@ Este paso garantiza que los e-mails enviados por la tienda no lleguen al cliente
 
 _El video abajo todavía no ha sido traducido. Gracias por la comprensión._
 
-<video class="wp-video-shortcode" id="video-2578-2" width="840" height="473" preload="metadata" controls="controls"><source type="video/mp4" src="//assets.contentful.com/alneenqid6w5/2yTQrL86mE62mI2UgCoqkC/cedc4f1ebe8ffcd2521f96338907dc3d/remetente.mp4?_=2" /></video>
+<video class="wp-video-shortcode" id="video-2578-2" width="840" height="473" preload="metadata" controls="controls"><source type="video/mp4" src="https://assets.contentful.com/alneenqid6w5/2yTQrL86mE62mI2UgCoqkC/cedc4f1ebe8ffcd2521f96338907dc3d/remetente.mp4?_=2" /></video>

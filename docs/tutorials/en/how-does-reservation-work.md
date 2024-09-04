@@ -3,8 +3,8 @@ title: 'How the reservation works'
 id: tutorials_92
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:56.753Z
-updatedAt: 2023-10-18T17:20:21.911Z
-publishedAt: 2023-10-18T17:20:21.911Z
+updatedAt: 2024-09-03T17:29:38.830Z
+publishedAt: 2024-09-03T17:29:38.830Z
 firstPublishedAt: 2017-04-27T23:00:42.751Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -45,7 +45,7 @@ _Payment expiration period + inventory reservation period_
     - **five calendar days:** when the payment is due on a Wednesday, Thursday or Friday.
     - **six calendar days:** when the payment is due on a Saturday.
 
->❗ Incomplete orders have a fixed reservation period of 11 calendar days. To learn more, please refer to the article [How incomplete orders work.](https://help.vtex.com/en/tutorial/understanding-incomplete-orders--tutorials_294)
+>❗ Incomplete orders can have a reservation period of 11 calendar days. To learn more, please refer to the article [How incomplete orders work.](https://help.vtex.com/en/tutorial/understanding-incomplete-orders--tutorials_294)
 
 For an external marketplace, if the reservation period is sent by the `lockTTL` field, the reservation will not be calculated by VTEX platform but determined by the period in the field. This can be done using the [Place order](https://developers.vtex.com/docs/api-reference/checkout-api#put-/api/checkout/pub/orders) endpoint.
 

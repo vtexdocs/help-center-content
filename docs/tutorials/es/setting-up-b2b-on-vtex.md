@@ -35,7 +35,7 @@ Este es el paso más importante para activar el B2B. Al configurar la Política 
 
 Normalmente, en los B2Bs convencionales, este campo se rellena con el valor `approved="true"` (`approved` es el nombre de un campo en la entidad __Cliente__, en el Master Data). Con esa regla, el sistema sólo dejará que usuarios autenticados y aprobados naveguen en el sitio.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/configurando-b2b-na-vtex-0.png)
+![](https://images.contentful.com/alneenqid6w5/34rM0gmlgQOoqwwEG2c0ck/a506984d2e7c23381e05a6ad16306d9f/1.png)
 
 ## 2. Personalizar layout de directorios B2B
 
@@ -49,15 +49,15 @@ Vea las características básicas de cada tipo de usuario:
 
 Así, para tener un ambiente B2B, será necesario personalizar las carpetas **401** y **403**, hijas de la carpeta **sistema**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/configurando-b2b-na-vtex-1.png)
+![](https://images.contentful.com/alneenqid6w5/4eOGUWH7nWqyQGCmIou6WO/1910b62f54515007e85aa3a82d04fb9e/2.png)
 
 Navegación por un usuario Anónimo (al intentar acceder cualquier página, será dirigido al 401):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/configurando-b2b-na-vtex-2.png)
+![](https://images.contentful.com/alneenqid6w5/1bxTbhKatws2mgGiOGSUYW/8bf8e626bf53a8e785ffdcc5f2ffc813/3.png)
 
 Navegación por un usuario no aprobado (al intentar acceder cualquier página, será dirigido al 403):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/configurando-b2b-na-vtex-3.png)
+![](https://images.contentful.com/alneenqid6w5/1Ep24Fgl1SIG6Uw8Wmkq42/2a995f8d9c2be0e92629447c1e6d3948/4.png)
 
 ## 3. Definir campos de registro previo
 
@@ -71,7 +71,7 @@ Así, es necesario definir los campos de este registro previo. Normalmente, los 
 
 Luego de definir los campos, deberá crear el formulario de registro previo en la carpeta **/sistema/401**, que es la única carpeta adonde el usuario anónimo siempre será dirigido.
 
-La información colocada en el formulario deberá ser enviada al CRM a través de las APIs del Master Data ([vea documentación](https://developers.vtex.com/reference/master-data-api-v2-overview)), o sea, será necesario desarrollar un JavaScript para aplicar esta función. Para ello, consulte un [ejemplo de plantilla HTML y JavaScript](//assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar "Ejemplo de plantilla HTML y JavaScript").
+La información colocada en el formulario deberá ser enviada al CRM a través de las APIs del Master Data ([vea documentación](https://developers.vtex.com/reference/master-data-api-v2-overview)), o sea, será necesario desarrollar un JavaScript para aplicar esta función. Para ello, consulte un [ejemplo de plantilla HTML y JavaScript](https://assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar "Ejemplo de plantilla HTML y JavaScript").
 
 ## 5. Operación
 

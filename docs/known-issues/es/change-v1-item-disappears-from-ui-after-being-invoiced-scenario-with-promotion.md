@@ -3,8 +3,8 @@ title: 'Cambiar v1 El artículo desaparece de la interfaz de usuario después de
 id: 2OsJe5vLh2IsNUikT5VBrL
 status: PUBLISHED
 createdAt: 2024-08-13T13:11:12.493Z
-updatedAt: 2024-08-13T13:53:43.754Z
-publishedAt: 2024-08-13T13:53:43.754Z
+updatedAt: 2024-09-03T15:09:08.208Z
+publishedAt: 2024-09-03T15:09:08.208Z
 firstPublishedAt: 2024-08-13T13:11:13.338Z
 contentType: knownIssue
 productTeam: Order Management
@@ -25,7 +25,7 @@ Hemos identificado un escenario en Change V1 en el que, tras aplicar una promoci
 
 Dado que Change V1 no utiliza el itemIndex, la validación se realiza por el id, lo que genera este comportamiento.
 
-Hacemos hincapié en que esto es sólo un comportamiento en la UI; a través de la API, ¡el pedido permanece intacto!.
+En este caso, tampoco tendremos la información sobre el artículo facturado en la API.
 
 
 ##
@@ -33,7 +33,7 @@ Hacemos hincapié en que esto es sólo un comportamiento en la UI; a través de 
 ## Simulación
 
 
-Para simular este escenario, debe crear una promoción del tipo "compre 2 y obtenga un descuento en la segunda unidad", luego facture sólo uno de los artículos del pedido y elimine el otro a través de change v1.
+Para simular este escenario, es necesario crear una promoción del tipo "compre 2 y obtenga un descuento en la segunda unidad", luego facturar sólo uno de los artículos del pedido y eliminar el otro a través del cambio v1.
 Se identificará el comportamiento descrito en este KI, es decir, el producto que se facturó no aparecerá en la UI de Pedidos.
 
 
