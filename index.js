@@ -1,5 +1,6 @@
 // retrieve entries from contentful
 const fs = require('fs').promises;
+const fsSync = require('fs');
 const path = require('path');
 const docsFolderPath = path.join(__dirname, 'docs');
 
@@ -13,9 +14,6 @@ const client = contentful.createClient({
 const { replaceQuotes } = require('./docs-utils/replace-quotes'); // Import the fix-callouts function
 
 const { fixCallouts } = require('./docs-utils/fix-callouts'); // Import the fix-callouts function
-
-const path = require("path");
-const fs = require("fs");
 
 let fileCount = 0;
 
@@ -41,7 +39,7 @@ let contentTypes = {
 // Function to delete all markdown files in the 'docs' folder and its subfolders
 async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
   if (isTopLevel) {
-    console.log("Deleting markdown files...");
+    console.log("Deleting markdown files and folders...");
   }
 
   async function processFiles(files) {
@@ -52,6 +50,8 @@ async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
       if (stats.isDirectory()) {
         // Recursively delete markdown files in subdirectories
         await deleteMarkdownFiles(filePath, false);
+        await fs.rmdir(filePath); // Delete folder after processing
+        console.log(`Deleted folder: ${filePath}`);
       } else if (file.endsWith('.md')) {
         // Delete markdown files
         await fs.unlink(filePath);
@@ -66,7 +66,7 @@ async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
     const files = await fs.readdir(folderPath);
     await processFiles(files);
     if (isTopLevel) {
-      console.log("All markdown files in the docs folder have been deleted.");
+      console.log("All markdown files and folders in the docs folder have been deleted.");
     }
   } catch (err) {
     console.error(`Error during deletion: ${err.message}`);
@@ -776,8 +776,8 @@ ${textPT}
     // Create each folder if it doesn't exist
     try {
       foldersToCreate.forEach(folder => {
-        if (!fs.existsSync(folder)) {
-          fs.mkdirSync(folder, { recursive: true });
+        if (!fsSync.existsSync(folder)) {
+          fsSync.mkdirSync(folder, { recursive: true });
         }
       });
     } catch (err) {
