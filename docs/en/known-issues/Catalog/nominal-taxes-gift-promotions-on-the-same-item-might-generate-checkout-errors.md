@@ -3,8 +3,8 @@ title: 'Nominal Taxes + Gift Promotions on the same item might generate checkout
 id: 6zsBxIeKSPKX9yVRA5jcct
 status: PUBLISHED
 createdAt: 2024-08-29T14:57:35.310Z
-updatedAt: 2024-08-29T14:57:36.770Z
-publishedAt: 2024-08-29T14:57:36.770Z
+updatedAt: 2024-09-04T16:16:07.470Z
+publishedAt: 2024-09-04T16:16:07.470Z
 firstPublishedAt: 2024-08-29T14:57:36.770Z
 contentType: knownIssue
 productTeam: Catalog
@@ -46,9 +46,6 @@ Note: this happens for very specific combinations of (amount of items in cart) +
 
 Either use a percentual tax instead, other types of promotions aside from gifts
 
-OR
-
-Open a ticket to the VTEX team and ask for an update of your store's promotional rounding mode to "precise". This, however, will generate a possible split among items on the checkout module, which doesn't change anything in terms of the order value, but might not be visually appealing to the customer.
 
 
 

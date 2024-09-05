@@ -14,4 +14,4 @@ trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugPT: configurar-a-logistica-para-o-instore
 ---
 
-<div class="alert alert-warning" role="alert">Conteúdo em tradução.</div>
+>⚠️ Conteúdo em tradução.

@@ -3,7 +3,7 @@ title: 'Minimum stock control for integrations'
 id: 5hvUNIiSeJ5QCaZQYpYf1D
 status: CHANGED
 createdAt: 2020-10-16T15:25:46.901Z
-updatedAt: 2024-09-04T14:27:54.489Z
+updatedAt: 2024-09-04T14:40:22.956Z
 publishedAt: 2023-03-29T16:15:17.491Z
 firstPublishedAt: 2020-10-16T17:29:32.622Z
 contentType: tutorial
@@ -40,7 +40,7 @@ To set the minimum inventory for your integration, follow the steps below:
 2. In the Marketplace > Connection menu, click on **Integrations**.
 3. Select the **Settings** option.
 4. Choose the integration you want to configure.
-5. Then, click on the gears icon <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/minimum-stock-control-for-integrations-0.JPG" />.
+5. Then, click on the gears icon <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 6. Select the **Edit Config** option.
 7. In the **Minimum inventory** field, enter the desired value.
 8. **Save** your changes.

@@ -21,7 +21,7 @@ Este artigo tem o objetivo de mostrar o passo-a-passo para instalação da exten
 
 Primeiro, na tela **Explorar**, clique na extensão **Visa Checkout**.
 
-![Extension Store 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/pt/instalar-o-visa-checkout-na-extension-store-0.png)
+![Extension Store 1](https://images.contentful.com/alneenqid6w5/6E480Kd4t2EqimaiKW8cii/ef5ba713601e5bdc4f97ff20133aa354/Extension_Store_1.png)
 
 Você terá então acesso à página de detalhes da extensão, onde as seguintes informações são mostradas:
 
@@ -76,4 +76,4 @@ Para mover o Visa Checkout para o ambiente em produção (onde seus clientes pod
 
 Para isso, basta clicar no botão **Publicar** da top bar.
 
-![Extension Store 3 - Publishing](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/pt/instalar-o-visa-checkout-na-extension-store-1.png)
+![Extension Store 3 - Publishing](https://images.contentful.com/alneenqid6w5/39BcR4BFkk8kGEKiaEWICU/f195532be2243b35168ac69e72226d20/Extension_Store_3_-_Publishing.png)

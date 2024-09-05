@@ -19,7 +19,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 El destaque en la promoción es un aviso que puede ser colocado en los estantes y en las páginas de los productos, informando que el producto es elegible para una promoción. Un ejemplo muy común es una imagen debajo de la imagen del producto indicando flete gratis.
 
-![ExemploPromocaoDestaque2](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/configurando-promocion-con-destaque-flag-0.png)
+![ExemploPromocaoDestaque2](https://images.contentful.com/alneenqid6w5/jS31HBOW3YWsIYyUOE8o/3d0c108c84b2a7c5e6ae2d4254425e4b/ExemploPromocaoDestaque2.png)
 
 No todas las promociones son elegibles para tener destaque. Esta posibilidad está disponible para los siguientes tipos:
 - Porcentaje
@@ -63,9 +63,9 @@ Esta configuración consiste en la edición de la plantilla de la página utiliz
 9. En la ventana, haga clic en la opción **New Layout**.
 10. En el menú lateral, haga clic sobre el layout marcado con un check rojo y en el campo __template__, verifique cuál es el nombre de la plantilla utilizada.
 
-![Layout com check - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/configurando-promocion-con-destaque-flag-1.png)
+![Layout com check - PT](https://images.ctfassets.net/alneenqid6w5/4GmSglkpk78c4M5hDZEgZX/ab47d3105213471fe370be0b11afcfab/image.png)
 
-![Template](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/configurando-promocion-con-destaque-flag-2.png)
+![Template](https://images.contentful.com/alneenqid6w5/2OzzBkU2YwsgCGeICsgIcg/61aaf502c787cb4f0468ab8cee821072/Template.png)
 
 11. Vuelva al menú lateral y haga clic en la carpeta **HTML Templates**.
 12. Haga clic en la plantilla encontrada en @producto@.
