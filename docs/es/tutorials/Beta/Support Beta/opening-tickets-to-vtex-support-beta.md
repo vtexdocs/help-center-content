@@ -15,6 +15,4 @@ legacySlug: abrir-tickets-para-el-soporte-vtex-beta
 subcategoryId: 2z8Y3gMXH2piEmAVDs1fSf
 ---
 
-<div class="alert alert-warning" role="alert">
-Este contenido es exclusivamente regional; por lo tanto, no se aplica a los países de habla española.
-</div>
+>⚠️ Este contenido es exclusivamente regional; por lo tanto, no se aplica a los países de habla española.

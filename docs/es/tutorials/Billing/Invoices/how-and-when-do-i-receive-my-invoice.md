@@ -15,9 +15,7 @@ legacySlug: como-y-cuando-recibo-mi-factura-y-mi-boleto-bancario
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-<div class="alert alert-warning" role="alert">
-  <p>Este procedimiento es apenas para clientes facturados en <strong>Brasil</strong>.</p>
-</div>
+>⚠️ Este procedimiento es apenas para clientes facturados en **Brasil**.
 
 La facturación se dispara hasta el quinto día hábil del mes. La factura y el boleto bancario están disponibles en el módulo __Facturas__ del Admin de su tienda.
 

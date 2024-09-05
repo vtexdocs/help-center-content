@@ -15,9 +15,7 @@ legacySlug: programar-actualizaciones-de-contenido
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
-<div class="alert alert-warning" role="alert">
-<p> La actualización programada puede tardar hasta 30 minutos en surtir efecto y aparecer en su página.</p>
-</div>
+>⚠️ La actualización programada puede tardar hasta 30 minutos en surtir efecto y aparecer en su página.
 
 Después de [crear una nueva versión de contenido](https://help.vtex.com/es/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG?&utm_source=autocomplete), puedes programar su publicación en tu tienda a través del recurso **Visibilidad**.
 

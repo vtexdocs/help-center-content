@@ -15,4 +15,4 @@ legacySlug: como-identificar-la-tienda-y-el-vendedor-en-un-pedido-de-instore
 subcategoryId: unknown-subcategory
 ---
 
-<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
+>⚠️ Contenido bajo traducción.

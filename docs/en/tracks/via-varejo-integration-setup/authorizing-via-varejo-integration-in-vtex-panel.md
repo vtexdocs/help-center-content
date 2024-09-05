@@ -14,4 +14,4 @@ trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugEN: via-varejo-integration-setup
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

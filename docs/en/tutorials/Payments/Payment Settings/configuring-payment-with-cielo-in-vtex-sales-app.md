@@ -15,4 +15,4 @@ legacySlug: configuring-payment-with-cielo-in-vtex-sales-app
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation. </div>
+>⚠️ Content under translation.

@@ -14,9 +14,7 @@ trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugES: vtex-intelligent-search
 ---
 
-<div class="alert alert-info" role="alert"><p>
-Esta aplicación solo está disponible para tiendas desarrolladas con VTEX IO. Antes de continuar, debes instalar y configurar Intelligent Search en tu tienda.</p>
-</div>
+>ℹ️ Esta aplicación solo está disponible para tiendas desarrolladas con VTEX IO. Antes de continuar, debes instalar y configurar Intelligent Search en tu tienda.
 
 Intelligent Search es una plataforma de búsqueda inteligente para el comercio digital. Es una solución de búsqueda nativa de la plataforma VTEX que ayuda al cliente en toda la jornada de compra, independientemente del canal (sitio web, aplicación móvil, conversacional, etc.).
 

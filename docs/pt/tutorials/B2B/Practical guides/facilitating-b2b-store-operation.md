@@ -17,7 +17,7 @@ subcategoryId: 2LrbEY7MFeKqmdfYLBCnfi
 
 Você pode facilitar a operação da sua loja através da instalação de aplicativos que buscam solucionar problemas de negócio relacionados a usabilidade da loja, vendas e pós-vendas.
 
-<div class="alert alert-info" role="info">Todos os aplicativos a seguir podem ser instalados através da <a href="https://apps.vtex.com/">VTEX App Store</a> e do <a href="https://vtex.io/">VTEX IO</a>.</div>
+>ℹ️ Todos os aplicativos a seguir podem ser instalados através da [VTEX App Store](https://apps.vtex.com/) e do [VTEX IO](https://vtex.io/).
 
 ## Ferramentas de usabilidade
 | Ferramenta              | Uso                                                                                                                                                                                                      |
@@ -51,13 +51,13 @@ Vamos tomar como exemplo um produto que tenha o valor unitário de R$ 100 e que 
 
 Esse é um recurso que se adequa às necessidades de negócios atacadistas e hoje existem três formas de estabelecer um preço fixo na VTEX. Acesse o artigo sobre [como cadastrar preços fixos](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj "como cadastrar preços fixos") para conferir todos os métodos.
 
-<div class="alert alert-info" role="info">Antes de seguir sua leitura, confira o artigo sobre <a href="https://help.vtex.com/pt/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf?&utm_source=autocomplete">os tipos de promoções mais utilizadas para o contexto B2B</a>.</div>
+>ℹ️ Antes de seguir sua leitura, confira o artigo sobre [os tipos de promoções mais utilizadas para o contexto B2B](https://help.vtex.com/pt/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf?&utm_source=autocomplete).
 
 ### Kit de produtos
 
 Na VTEX, todas as lojas contam com o recurso de [kit de produtos](https://help.vtex.com/pt/tutorial/kit-registration?locale=en "kit de produtos"), no qual um conjunto de itens pode ser vendido por um determinado preço. 
 
-<div class="alert alert-info" role="info">No contexto B2B, o kit de produtos geralmente é citado como “bundle”. Ou seja, os termos “kit de produtos” e “bundle” referem-se à mesma ferramenta.</div>
+>ℹ️ No contexto B2B, o kit de produtos geralmente é citado como “bundle”. Ou seja, os termos “kit de produtos” e “bundle” referem-se à mesma ferramenta.
 
 Para [cadastrar um kit de produtos](https://help.vtex.com/pt/tutorial/cadastrando-kit/ "kit de produtos"), confira a documentação no Help Center.
 
@@ -91,7 +91,7 @@ Todas as lojas VTEX contam com o [My account](https://help.vtex.com/pt/tutorial/
 
 Essa ferramenta permite que o cliente acompanhe o status do seu pedido no fluxo do pós-venda, bem como faça algumas operações. Uma delas é a de “Pedir novamente”, na qual é possível repetir um pedido feito previamente.  
 
-![Pedir novamente reorder](https://images.ctfassets.net/alneenqid6w5/1t7B2SNKQ9aJZ4gFE03ViD/8ba194685df6e2374b7e287fb0ed59bc/image.png)
+![Pedir novamente reorder](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/pt/facilitar-a-operacao-da-loja-b2b-0.png)
 
 Para saber mais detalhes sobre o My Account, confira o tutorial sobre [como configurar esta funcionalidade](https://help.vtex.com/pt/tutorial/configurar-o-my-account--23Ayv5D6b86UBnYfoXqZL1 "como configurar esta funcionalidade").
 

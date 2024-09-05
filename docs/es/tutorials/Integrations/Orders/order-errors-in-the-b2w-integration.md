@@ -15,5 +15,5 @@ legacySlug: errores-de-integracion-de-pedidos-de-b2w
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 ---
 
-<div class="alert alert-warning" role="alert">Este contenido es exclusivamente regional; 
-por lo tanto, no se aplica a los países de habla española.</div>
+>⚠️ Este contenido es exclusivamente regional; 
+> por lo tanto, no se aplica a los países de habla española.

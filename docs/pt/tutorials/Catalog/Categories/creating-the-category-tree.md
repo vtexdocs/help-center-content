@@ -18,4 +18,5 @@ subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 A árvore de categorias é a relação de categorias que será utilizada em seu site. Os níveis são: departamento, categoria e subcategoria. Um nível mais específico do que o outro.
 
 [A definição de sua árvore de categorias](/tutorial/cadastrando-categoria/ "A definição de sua árvore de categorias") deve ser realizado no início do projeto e deve ser bem planejada, pensando em seu catálogo de produtos e em seu SEO.
+
 <video class="wp-video-shortcode" id="video-2565-8" width="840" height="473" preload="metadata" controls="controls"><source type="video/mp4" src="https://assets.contentful.com/alneenqid6w5/5EVmpjIxSECYa4okIyGsae/18e869041abb873483641b0a04fa93df/CriandoArvoreCategorias-1.mp4?_=8" />[https://assets.contentful.com/alneenqid6w5/5EVmpjIxSECYa4okIyGsae/18e869041abb873483641b0a04fa93df/CriandoArvoreCategorias-1.mp4](https://assets.contentful.com/alneenqid6w5/5EVmpjIxSECYa4okIyGsae/18e869041abb873483641b0a04fa93df/CriandoArvoreCategorias-1.mp4 "https://assets.contentful.com/alneenqid6w5/5EVmpjIxSECYa4okIyGsae/18e869041abb873483641b0a04fa93df/CriandoArvoreCategorias-1.mp4")</video>

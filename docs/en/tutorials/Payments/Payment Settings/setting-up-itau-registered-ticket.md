@@ -15,5 +15,5 @@ legacySlug: setting-up-itau-registered-ticket
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to 
-English speaking countries.</div>
+>⚠️ This is a regional exclusive content not applicable to 
+> English speaking countries.

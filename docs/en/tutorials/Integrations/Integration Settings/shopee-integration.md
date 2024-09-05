@@ -3,12 +3,12 @@ title: 'Shopee Integration'
 id: 5OV9idUY6fHu3P8grnCnqj
 status: PUBLISHED
 createdAt: 2022-09-05T19:33:02.717Z
-updatedAt: 2024-04-17T16:10:43.661Z
-publishedAt: 2024-04-17T16:10:43.661Z
+updatedAt: 2024-09-04T13:20:57.644Z
+publishedAt: 2024-09-04T13:20:57.644Z
 firstPublishedAt: 2022-09-06T01:42:40.106Z
 contentType: tutorial
 productTeam: Channels
-author: 46G4yHIZerH7B9Jo0Iw5KI
+author: 2p7evLfTcDrhc5qtrzbLWD
 slug: shopee-integration
 locale: en
 legacySlug: shopee-integration
@@ -16,5 +16,5 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
 
-<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to English speaking countries.</div>
+>⚠️ This is a regional exclusive content not applicable to English speaking countries.
 

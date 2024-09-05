@@ -15,4 +15,4 @@ legacySlug: how-to-preview-future-transactions
 subcategoryId: 29ZPBdZOTSg6NdzprcqBfb
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

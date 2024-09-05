@@ -15,4 +15,4 @@ legacySlug: tutorial-aplicacion-movil-de-tracking-vtex
 subcategoryId: 6pbaGm24tlXta7TKTtMc5l
 ---
 
-<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
+>⚠️ Contenido bajo traducción.

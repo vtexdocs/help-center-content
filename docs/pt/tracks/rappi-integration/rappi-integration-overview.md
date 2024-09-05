@@ -3,8 +3,8 @@ title: 'Visão geral da integração com a Rappi'
 id: 7y40IL3ajiukMRHrX3XmC8
 status: PUBLISHED
 createdAt: 2024-05-31T20:24:26.112Z
-updatedAt: 2024-05-31T20:51:33.604Z
-publishedAt: 2024-05-31T20:51:33.604Z
+updatedAt: 2024-09-04T13:32:59.831Z
+publishedAt: 2024-09-04T13:32:59.831Z
 firstPublishedAt: 2024-05-31T20:51:33.604Z
 contentType: trackArticle
 productTeam: Channels
@@ -16,7 +16,7 @@ trackSlugPT: integracao-rappi
 
 A Rappi é uma plataforma que funciona como marketplace conectando compradores a produtos dos mais diversos segmentos. Acompanhando a experiência do cliente da compra à entrega.
 
-![Logo Rappi](https://images.ctfassets.net/alneenqid6w5/INsIz4tJzR7MR8JsKPKjt/4264529e186ed1aa18d6e75352719dfe/logo-rappi.jpg)
+![Logo Rappi](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/pt/visao-geral-da-integracao-com-a-rappi-0.jpg)
 
 A configuração com a Rappi tem o objetivo conectar sua loja VTEX com a plataforma, permitindo que você anuncie seus produtos, aumente suas vendas e alcance novos clientes a partir deste canal.
 
@@ -26,6 +26,6 @@ A configuração com a Rappi tem o objetivo conectar sua loja VTEX com a platafo
 
 Para realizar a configuração entre VTEX e Rappi, é necessário concluir algumas etapas:
 
-[Credenciais Rappi](#credenciais-rappi)  
-[Configurações na plataforma VTEX](#configuracoes-na-plataforma)  
-[Cadastro da integração da Rappi](#cadastro-da-integracao-da-rappi)  
+- [Credenciais Rappi](#credenciais-rappi)  
+- [Configurações na plataforma VTEX](#configuracoes-na-plataforma)  
+- [Cadastro da integração da Rappi](#cadastro-da-integracao-da-rappi)  

@@ -15,4 +15,4 @@ legacySlug: how-to-check-your-financial-transaction-details
 subcategoryId: 29ZPBdZOTSg6NdzprcqBfb
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

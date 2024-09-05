@@ -15,4 +15,4 @@ legacySlug: routes
 subcategoryId: 6a36lWUX5znjBVYTrfc29x
 ---
 
-<div class="alert alert-warning" role="alert">The VTEX Tracking solution is currently available exclusively in Brazil. Therefore, this content is only presented in Portuguese.</div>
+>⚠️ The VTEX Tracking solution is currently available exclusively in Brazil. Therefore, this content is only presented in Portuguese.

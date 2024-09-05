@@ -21,7 +21,7 @@ Para proporcionar maior agilidade à operação do seller, na barra de busca glo
 
 Para acessar a página de promoções disponíveis no Admin VTEX, você deve seguir o caminho __Marketplace > Mercado Livre > Promoções.__  
 
-![Promoções do mercado livre](https://images.ctfassets.net/alneenqid6w5/6LigPeBx1YMf6NQPJaqURK/cae6ebf8e19c5bc2fd8b8d4839ad029e/buscapromocoes.gif)
+![Promoções do mercado livre](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/pt/promocoes-do-mercado-livre-0.gif)
 
 ## Tipos de promoções  
 
@@ -173,7 +173,7 @@ Caso o seller deseje modificar o preço de um produto que participa desta campan
 
 Os produtos que poderão participar da campanha são selecionados pelo marketplace. Ao selecionar a campanha tipo **Desconto por volume**, você encontrará duas seções diferentes.
 
-<div class="alert alert-info" role="alert">A campanha tipo Desconto por volume possui um prazo para que o seller participe. Caso esse prazo tenha se esgotado, só será exibida a seção <b>Disponíveis</b>.</div>
+>ℹ️ A campanha tipo Desconto por volume possui um prazo para que o seller participe. Caso esse prazo tenha se esgotado, só será exibida a seção **Disponíveis**.
 
 #### Disponíveis
 

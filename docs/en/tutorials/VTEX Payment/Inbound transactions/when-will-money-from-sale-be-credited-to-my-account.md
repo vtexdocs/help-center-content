@@ -15,4 +15,4 @@ legacySlug: when-will-money-from-sale-be-credited-to-my-account
 subcategoryId: 23PYStKNPteW4CqklwXXQN
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

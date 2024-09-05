@@ -15,4 +15,4 @@ legacySlug: configurar-o-amazonpay-beta
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning" role="alert">Conteúdo em tradução.</div>
+>⚠️ Conteúdo em tradução.

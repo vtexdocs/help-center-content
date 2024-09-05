@@ -15,4 +15,4 @@ legacySlug: integrating-with-multiplus
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-<div class="alert alert-warning" role="alert">Since December 2018, we have deprecated the integration with Multiplus.</div>
+>⚠️ Since December 2018, we have deprecated the integration with Multiplus.

@@ -15,7 +15,7 @@ legacySlug: how-and-when-do-i-receive-my-invoice
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-<div class="alert alert-warning" role="alert"><p>This procedure only applies to customers billed in <strong>Brazil.</strong></div>
+>⚠️ <p>This procedure only applies to customers billed in **Brazil.**
 
 The billing is triggered until the 5th business day of the month. Invoice and *boleto* (Brazilian offline payment method) are available on the __Billing__ module in the Admin of your store.
 

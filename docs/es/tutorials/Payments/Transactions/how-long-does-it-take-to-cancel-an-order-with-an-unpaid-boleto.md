@@ -15,5 +15,5 @@ legacySlug: en-cuanto-tiempo-se-cancela-un-pedido-de-boleta-sin-pago
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
-<div class="alert alert-warning" role="alert">Este contenido es exclusivamente regional; 
-por lo tanto, no se aplica a los países de habla española.</div>
+>⚠️ Este contenido es exclusivamente regional; 
+> por lo tanto, no se aplica a los países de habla española.

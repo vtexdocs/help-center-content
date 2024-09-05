@@ -15,5 +15,5 @@ legacySlug: order-errors-in-the-dafiti-integration
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 ---
 
-<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to 
-English speaking countries.</div>
+>⚠️ This is a regional exclusive content not applicable to 
+> English speaking countries.

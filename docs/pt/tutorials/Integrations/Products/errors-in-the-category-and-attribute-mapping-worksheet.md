@@ -15,4 +15,4 @@ legacySlug: erros-na-planilha-de-mapeamento-de-categorias-e-atributos
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
-<div class="alert alert-warning" role="alert">Conteúdo em tradução.</div>
+>⚠️ Conteúdo em tradução.

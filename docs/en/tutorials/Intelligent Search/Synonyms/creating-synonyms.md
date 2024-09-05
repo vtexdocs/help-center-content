@@ -21,9 +21,7 @@ There are two ways to set up synonyms in VTEX Admin: [individually](#creating-sy
 
 The configuration of synonyms works recursively. This means that when you add a second synonym to an existing one, it will also become a synonym for the first one.
 
-<div class="alert alert-info" role="alert">
-<p>Synonyms should not be used to resolve misspellings, plural and singular errors, or even pronouns, articles, and propositions in the search terms. On all these points, VTEX Intelligent Search is able to interpret, learn and solve them automatically through algorithms.</p>
-</div>
+>ℹ️ Synonyms should not be used to resolve misspellings, plural and singular errors, or even pronouns, articles, and propositions in the search terms. On all these points, VTEX Intelligent Search is able to interpret, learn and solve them automatically through algorithms.
 
 ## Creating synonyms individually
 

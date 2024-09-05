@@ -15,4 +15,4 @@ legacySlug: integration-with-vtex-tracking
 subcategoryId: t5ai1r0dN7J4U1IYLbHmG
 ---
 
-<div class="alert alert-warning" role="alert">The VTEX Tracking solution is currently available exclusively in Brazil. Therefore, this content is only presented in Portuguese.</div>
+>⚠️ The VTEX Tracking solution is currently available exclusively in Brazil. Therefore, this content is only presented in Portuguese.

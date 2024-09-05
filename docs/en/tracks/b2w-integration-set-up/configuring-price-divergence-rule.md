@@ -14,5 +14,5 @@ trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugEN: b2w-integration-set-up
 ---
 
-<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to 
-English speaking countries.</div>
+>⚠️ This is a regional exclusive content not applicable to 
+> English speaking countries.

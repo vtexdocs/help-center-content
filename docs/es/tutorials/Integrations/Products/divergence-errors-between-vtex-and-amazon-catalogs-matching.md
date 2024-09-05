@@ -15,4 +15,4 @@ legacySlug: errores-de-divergencia-entre-los-catalogos-de-vtex-y-amazon-matching
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
-<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
+>⚠️ Contenido bajo traducción.

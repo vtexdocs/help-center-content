@@ -3,8 +3,8 @@ title: 'Configurando a integração'
 id: 1SowuK4iQngOHebFMfizYY
 status: PUBLISHED
 createdAt: 2024-05-31T20:32:15.901Z
-updatedAt: 2024-05-31T20:51:41.392Z
-publishedAt: 2024-05-31T20:51:41.392Z
+updatedAt: 2024-09-04T13:35:11.425Z
+publishedAt: 2024-09-04T13:35:11.425Z
 firstPublishedAt: 2024-05-31T20:51:41.392Z
 contentType: trackArticle
 productTeam: Channels
@@ -14,18 +14,18 @@ trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugPT: integracao-rappi
 ---
 
-## Credenciais Livelo Rappi
+## Credenciais Rappi
 
 O primeiro passo para integrar sua loja VTEX à Rappi é ter as credenciais Client Id e Secret, ambas são utilizadas para validar sua integração com o Marketplace. Para obter as suas credenciais, entre em contato através do suporte VTEX.
 
 ## Conﬁgurações na plataforma VTEX  
-Durante o processo de conﬁguração na plataforma VTEX, tenha sempre em mãos as credenciais fornecidas pela Livelo. O [*AppKey* e *AppToken*](https://developers.vtex.com/docs/guides/authentication), são imprescindíveis para a integração.
+Durante o processo de conﬁguração na plataforma VTEX, tenha sempre em mãos as credenciais fornecidas pela Rappi. O [*AppKey* e *AppToken*](https://developers.vtex.com/docs/guides/authentication), são imprescindíveis para a integração.
 
-### Deﬁnição da política comercial na Livelo
+### Deﬁnição da política comercial na Rappi
 
-Na VTEX, uma [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) é o que determina o sortimento de produtos, preços e estratégia de envio em um canal de venda. Ou seja, é por meio da política comercial que você deﬁne as conﬁgurações que serão aplicadas aos seus produtos na Livelo.  
+Na VTEX, uma [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) é o que determina o sortimento de produtos, preços e estratégia de envio em um canal de venda. Ou seja, é por meio da política comercial que você deﬁne as conﬁgurações que serão aplicadas aos seus produtos na Rappi.  
 
-Se as mesmas conﬁgurações de catálogo, preço e estratégia de envio da sua loja VTEX forem utilizadas no Livelo, não é preciso [criar uma política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) nova, porque uma mesma política comercial pode ser usada para diferentes canais de venda.  
+Se as mesmas conﬁgurações de catálogo, preço e estratégia de envio da sua loja VTEX forem utilizadas na Rappi, não é preciso [criar uma política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) nova, porque uma mesma política comercial pode ser usada para diferentes canais de venda.  
 
 Só será necessário [conﬁgurar uma política comercial para Marketplace](https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404) especíﬁca, se você tiver algum dos seguintes objetivos: 
 

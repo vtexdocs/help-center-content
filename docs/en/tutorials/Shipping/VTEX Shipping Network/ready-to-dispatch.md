@@ -15,4 +15,4 @@ legacySlug: ready-to-dispatch
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
-<div class="alert alert-warning" role="alert">The VTEX Shipping Network solution is currently available exclusively in Brazil. Therefore, this content is only presented in Portuguese.</div>
+>⚠️ The VTEX Shipping Network solution is currently available exclusively in Brazil. Therefore, this content is only presented in Portuguese.

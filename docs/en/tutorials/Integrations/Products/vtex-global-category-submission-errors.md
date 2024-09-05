@@ -15,4 +15,4 @@ legacySlug: vtex-global-category-submission-errors
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

@@ -15,4 +15,4 @@ legacySlug: mercado-livre-automobilist-compatibility
 subcategoryId: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

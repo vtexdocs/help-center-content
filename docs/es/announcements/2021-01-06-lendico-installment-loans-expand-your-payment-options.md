@@ -19,7 +19,7 @@ Hoy día, el cliente busca accesibilidad en los medios de pago. Por ello, es ese
 
 Por lo tanto, VTEX ha hecho una colaboración com Lendico - que he lanzado la función [Boleto en plazos](https://lendico.com.br/boleto-parcelado-varejista/ "Boleto en plazos") - para democratizar el poder adquisitivo de compra y aportar las ventas de tu negocio.
 
-<div class="alert alert-info" role="alert">Esta opción de pago solo está disponible en Brasil.</div>
+>ℹ️ Esta opción de pago solo está disponible en Brasil.
 
 ## ¿Quién es Lendico? 
 

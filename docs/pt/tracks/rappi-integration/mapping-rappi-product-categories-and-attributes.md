@@ -3,8 +3,8 @@ title: 'Mapeamento de categorias e atributos de produtos Rappi'
 id: 6iVRkhA3WHvynIlwgQhjPc
 status: PUBLISHED
 createdAt: 2024-05-31T20:42:26.540Z
-updatedAt: 2024-05-31T20:52:02.358Z
-publishedAt: 2024-05-31T20:52:02.358Z
+updatedAt: 2024-09-04T13:41:08.540Z
+publishedAt: 2024-09-04T13:41:08.540Z
 firstPublishedAt: 2024-05-31T20:52:02.358Z
 contentType: trackArticle
 productTeam: Channels
@@ -20,11 +20,11 @@ Esta funcionalidade fará a correspondência entre as categorias, variações e 
 
 Para realizar o mapeamento de categorias, siga as instruções abaixo.  
 
-1. No Admin VTEX, acesse ***Hub de Extensões* > Rappi > Mapeamento de categorias** ou digite **Mapeamento de categorias na barra de busca.**  
+1. No Admin VTEX, acesse ***Hub de Extensões* > Rappi > Mapeamento de categorias** ou digite **Mapeamento de categorias** na barra de busca.  
 2. Clique na categoria que deseja mapear, isso abrirá uma barra lateral para realizar a correspondência no marketplace.  
 3. Na barra lateral, clique em **Categoria do marketplace.**  
 4. Clique no ícone  <i class="fas fa-angle-down"></i>  e, em seguida, selecione a categoria correspondente no marketplace.  
 5. Clique em **Mapeamento de Atributos** e faça as correspondências dos campos que aparecerão na tela.  
-6. Clique no botão `Salvar Alterações` 
+6. Clique no botão `Salvar Alterações`. 
 
 >ℹ️ Os campos de **Mapeamento de Atributos** com asterisco **(*)** são obrigatórios.

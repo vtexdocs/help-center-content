@@ -32,9 +32,7 @@ A configuração dos dados no Master Data é a primeira etapa para exclusão dos
 
 As leis de privacidade determinam que os dados pessoais dos titulares não devem ser compartilhados ou expostos de forma indevida. Portanto, são necessárias configurações para assegurar proteção a esses dados.
 
-<div class="alert alert-warning" role="alert">
-As configurações que forem salvas não poderão ser revertidas.
-</div>
+>⚠️ As configurações que forem salvas não poderão ser revertidas.
 
 Para configurar siga os passos abaixo:
 
@@ -54,8 +52,7 @@ Para configurar siga os passos abaixo:
 
 Depois de configurar os dados no Master Data, você deverá solicitar a extensão da exclusão de dados pessoais de seus clientes também nos sistemas da VTEX via abertura de ticket no nosso [Suporte VTEX](https://help.vtex.com/pt/support).
 
-<div class="alert alert-warning" role="alert">
-Solicite a exclusão de dados de apenas uma conta, ou seja, um e-mail do shopper a ser excluído por ticket. Caso você inclua mais de um e-mail, o ticket será retornado. </div>
+>⚠️ Solicite a exclusão de dados de apenas uma conta, ou seja, um e-mail do shopper a ser excluído por ticket. Caso você inclua mais de um e-mail, o ticket será retornado.
 
 Para solicitar a exclusão dos dados pessoais dos clientes, siga os seguintes passos:
 

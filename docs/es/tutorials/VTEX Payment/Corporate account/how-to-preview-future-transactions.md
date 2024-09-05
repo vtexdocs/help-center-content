@@ -15,4 +15,4 @@ legacySlug: como-consultar-registros-futuros
 subcategoryId: 29ZPBdZOTSg6NdzprcqBfb
 ---
 
-<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
+>⚠️ Contenido bajo traducción.

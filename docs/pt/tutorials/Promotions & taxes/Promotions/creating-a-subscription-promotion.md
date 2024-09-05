@@ -22,7 +22,7 @@ Neste artigo, você encontrará o passo a passo para criar promoções de assina
 3. Clique no botão `Nova Promoção`.
 4. Selecione o botão `Promoção Regular`.
 5. Selecione o campo **É um pedido de assinatura** na seção **Quais as condições para a promoção ser válida?**. Essa opção define que a promoção será aplicada em pedidos de assinatura. Apenas os produtos com assinatura no carrinho receberão o desconto. Para entender as possibilidades de configuração, veja as condições a seguir:
- ![frequenciapt](https://images.ctfassets.net/alneenqid6w5/3H1wS4j8dpkRfI0Le2A2CO/f4eb96b416f69ce48d712463b1d7bd16/image1__2_.png)
+ ![frequenciapt](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/pt/como-criar-uma-promocao-por-assinatura-0.png)
 - **Pedido original**: pedidos que geram as assinaturas, mas ainda não fazem parte dos ciclos de assinatura.
 - **Pedidos recorrentes**: pedidos que fazem parte dos ciclos de assinatura.
 - **Filtrar por**: seleção que filtra quais pedidos de assinatura que serão válidos para a promoção.
@@ -40,9 +40,7 @@ Configure corretamente a frequência e o ciclo para garantir que a promoção se
 | 22/01/2022 | Terceiro ciclo  | A promoção não será válida |
 | 05/02/2022 | Quarto ciclo    | A promoção será válida     |
 
-<div class="alert alert-info" role="alert"> 
- <p>Não é possível configurar promoções por UTM e promoções de assinatura usando cupom em pedidos recorrentes, o cupom será aplicado apenas a pedidos originais.</p>
-</div>
+>ℹ️ Não é possível configurar promoções por UTM e promoções de assinatura usando cupom em pedidos recorrentes, o cupom será aplicado apenas a pedidos originais.
 
 <ol start="6">
 <li>Preencha <a href="https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327" rel="noopener noreferrer" target="_blank" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">os campos restantes da promoção</a>.</li><br>

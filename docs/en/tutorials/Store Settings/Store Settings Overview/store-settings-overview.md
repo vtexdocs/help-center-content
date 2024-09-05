@@ -19,9 +19,7 @@ subcategoryId: 5RAUzLD6X9Wa1maenj1eGA
 
 To access this feature, click __Store Settings__ on the left navigation menu, and click on the desired section.
 
-<div class="alert alert-warning" role="alert">
-Note that the settings you had configured in the previous environment have not changed. We have only rearranged how you reach them.  
-</div>
+>⚠️ Note that the settings you had configured in the previous environment have not changed. We have only rearranged how you reach them.
 
 Check out more details about the different sections and pages of this menu below. 
 

@@ -19,7 +19,7 @@ O cenário self-service é o mais flexível das possibilidades de B2B. Nele, o c
 
 Esse cenário apresenta vantagens para o usuário, já que ele pode explorar o catálogo, o inventário e os preços com liberdade, conforme seu perfil de acesso. Além disso, ele pode ver informações e fazer pedidos a qualquer momento, sem depender de nenhum intermediador.
 
-<div class="alert alert-info" role="info">Caso você já seja um cliente B2C e queira configurar um cenário B2B, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</div>
+>ℹ️ Caso você já seja um cliente B2C e queira configurar um cenário B2B, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 Uma das primeiras decisões que devem ser tomadas ao estruturar uma loja B2B é decidir se ela será aberta ou fechada ao público.
 
@@ -70,9 +70,7 @@ Esse documento é criado de acordo com suas necessidades, cujas informações b�
 
 No cenário B2B, é comum o uso de informações básicas como nome, e-mail e telefone, rua, bairro e cidade. Você pode usar um formulário para captar essas informações. 
 
-<div class="alert alert-danger" role="alert">O campo utilizado como regra condicional na política comercial <strong>nunca poderá fazer parte desse formulário</strong>, uma vez que o próprio usuário não pode realizar sua própria aprovação, cabendo à loja essa responsabilidade.
-
-</div>
+>❗ O campo utilizado como regra condicional na política comercial **nunca poderá fazer parte desse formulário**, uma vez que o próprio usuário não pode realizar sua própria aprovação, cabendo à loja essa responsabilidade.
 
 Na VTEX, formulários são criados através do [Master Data](https://help.vtex.com/pt/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw "Master Data"), o banco de dados da loja, que guarda as informações da base de clientes da loja e organiza os dados recebidos através de formulários.
 
@@ -84,7 +82,7 @@ Para criar um formulário:
 
 Assim, quando um cliente preencher o formulário, seus dados serão incluídos na tabela de clientes do Master Data.
 
-<div class="alert alert-info" role="info">Você pode optar por criar um formulário com mais recursos, tais como o preenchimento automático do CEP, múltiplas abas ou validação do CNAE (Classificação Nacional de Atividades Econômicas). Caso opte por esse tipo de formulário, confira a documentação técnica do <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-new-custom-page">VTEX IO</a>.</div>
+>ℹ️ Você pode optar por criar um formulário com mais recursos, tais como o preenchimento automático do CEP, múltiplas abas ou validação do CNAE (Classificação Nacional de Atividades Econômicas). Caso opte por esse tipo de formulário, confira a documentação técnica do [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-new-custom-page).
 
 ### Aprovação de usuários
 A aprovação dos usuários, assim como o cadastro, é feita no [Master Data](https://help.vtex.com/pt/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw "Master Data"). Cabe aos responsáveis pela gestão do ecommerce aprovar o acesso dos clientes ao conteúdo da loja. 
@@ -97,7 +95,7 @@ A exibição dos produtos da loja para determinados grupos de usuários precisa 
 
 Nesta configuração, você precisa selecionar os produtos que vão estar associados à política comercial destinada ao contexto B2B. Na VTEX, você pode associar SKUs individualmente através do Admin ou em massa através da [API do Catálogo](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview "API do Catálogo").
 
-<div class="alert alert-info" role="info">Configurar SKUs através da <a href="https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview">API do Catálogo</a> — associação ou criação em massa ou individualmente — é recomendável para empresas que já têm uma operação de ecommerce madura e contam com uma área de ecommerce própria que gerencia e mantém o catálogo de produtos existente. Essa infraestrutura permite a importação de todo o catálogo com todas as configurações atuais via <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integração com o ERP</a>.</div>
+>ℹ️ Configurar SKUs através da [API do Catálogo](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview) — associação ou criação em massa ou individualmente — é recomendável para empresas que já têm uma operação de ecommerce madura e contam com uma área de ecommerce própria que gerencia e mantém o catálogo de produtos existente. Essa infraestrutura permite a importação de todo o catálogo com todas as configurações atuais via [integração com o ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).
 
 ### Configuração da estratégia de logística
 
@@ -137,7 +135,7 @@ A gestão de crédito é um recurso versátil e, por conta disso, é utilizada e
 
 Na VTEX, os lojistas podem utilizar o [Customer Credit](https://help.vtex.com/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0 "Customer Credit"), aplicativo no qual o usuário pode oferecer e administrar os créditos cedidos aos seus clientes. Para instalar o aplicativo, confira o passo a passo completo no artigo [Instalar Customer Credit](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs "Instalar Customer Credit").
 
-<div class="alert alert-info" role="info">Meios de pagamento convencionais, como cartão de crédito, cartão de débito e boleto bancário, também podem ser configurados para o contexto B2B. A gestão de crédito é apenas o método utilizado com mais frequência pelos clientes.</div>
+>ℹ️ Meios de pagamento convencionais, como cartão de crédito, cartão de débito e boleto bancário, também podem ser configurados para o contexto B2B. A gestão de crédito é apenas o método utilizado com mais frequência pelos clientes.
 
 Depois de instalar o aplicativo na sua loja, é preciso configurar o Customer Credit como um meio de pagamento disponível na sua loja. Assim, os clientes podem finalizar compras utilizando o crédito concedido. Para configurar, leia o tutorial de [como configurar o Customer Credit como condição de pagamento](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg#condicoes-de-pagamento "como configurar o Customer Credit como condição de pagamento"). 
 

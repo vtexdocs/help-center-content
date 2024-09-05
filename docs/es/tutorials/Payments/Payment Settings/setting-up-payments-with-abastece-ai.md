@@ -15,4 +15,4 @@ legacySlug: configurar-pago-con-abastece-ai
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning" role="alert">Este es un contenido exclusivo regional no aplicable a los países de habla hispana.</div>
+>⚠️ Este es un contenido exclusivo regional no aplicable a los países de habla hispana.

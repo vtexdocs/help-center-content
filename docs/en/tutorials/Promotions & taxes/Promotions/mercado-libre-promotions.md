@@ -15,4 +15,4 @@ legacySlug: mercado-libre-promotions-beta
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

@@ -15,4 +15,4 @@ legacySlug: indicadores-de-servicio
 subcategoryId: 2A1RNDhwU4kqCN3XimtaD2
 ---
 
-<div class="alert alert-warning" role="alert">Actualmente, la solución VTEX Tracking se encuentra disponible exclusivamente en Brasil. Por lo tanto, este contenido solo se encuentra a disposición en portugués.</div>
+>⚠️ Actualmente, la solución VTEX Tracking se encuentra disponible exclusivamente en Brasil. Por lo tanto, este contenido solo se encuentra a disposición en portugués.

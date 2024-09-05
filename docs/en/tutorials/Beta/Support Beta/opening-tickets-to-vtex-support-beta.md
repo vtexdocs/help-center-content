@@ -15,5 +15,4 @@ legacySlug: opening-tickets-to-vtex-support-beta
 subcategoryId: 2z8Y3gMXH2piEmAVDs1fSf
 ---
 
-<div class="alert alert-warning" role="alert">
-This is a regional exclusive content not applicable to English speaking countries.</div>
+>⚠️ This is a regional exclusive content not applicable to English speaking countries.

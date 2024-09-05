@@ -15,6 +15,6 @@ legacySlug: como-funciona-la-integracion-de-skyhub
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class="alert alert-warning" role="alert">Este contenido es exclusivamente regional; 
-por lo tanto, no se aplica a los países de habla española.</div>
+>⚠️ Este contenido es exclusivamente regional; 
+> por lo tanto, no se aplica a los países de habla española.
 

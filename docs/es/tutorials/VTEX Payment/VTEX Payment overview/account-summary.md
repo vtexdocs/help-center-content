@@ -15,4 +15,4 @@ legacySlug: resumen-de-la-cuenta
 subcategoryId: 6uIlQ5imochc5LFi3dzCSv
 ---
 
-<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
+>⚠️ Contenido bajo traducción.

@@ -1,9 +1,9 @@
 ---
 title: 'Control de stock mínimo para integraciones'
 id: 5hvUNIiSeJ5QCaZQYpYf1D
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-10-16T15:25:46.901Z
-updatedAt: 2023-03-29T16:15:17.491Z
+updatedAt: 2024-09-04T14:27:54.489Z
 publishedAt: 2023-03-29T16:15:17.491Z
 firstPublishedAt: 2020-10-16T17:29:32.622Z
 contentType: tutorial
@@ -40,7 +40,7 @@ Para configurar el stock mínimo en su integración, realice los siguientes paso
 2. En el menú Marketplace > Conexiones, haga clic en **Integraciones**.
 3. Seleccione la opción **Configuración**.
 4. Elija la integración que desea configurar.
-5. Cuando elija la integración, haga clic en el engranaje<img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+5. Cuando elija la integración, haga clic en el engranaje<img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/control-de-stock-minimo-para-integraciones-0.JPG" />.
 6. Seleccione la opción **Editar configuración**.
 7. En el campo **Stock mínimo**, ingrese en valor deseado.
 8. Finalmente, haga clic en el botón **Guardar configuración**.

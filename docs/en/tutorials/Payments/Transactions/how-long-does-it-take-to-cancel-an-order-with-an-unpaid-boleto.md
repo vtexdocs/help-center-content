@@ -15,5 +15,5 @@ legacySlug: how-long-does-it-take-to-cancel-an-order-with-an-unpaid-bank-payment
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
-<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to 
-English speaking countries.</div>
+>⚠️ This is a regional exclusive content not applicable to 
+> English speaking countries.

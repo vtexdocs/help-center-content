@@ -56,7 +56,6 @@ Para formalizar o pedido, siga os passos:
 8. Preencha o campo **Descreva o que aconteceu detalhadamente** com detalhes da sua solicitação.
 9. Clique em `Enviar`.
 
-<div class="alert alert-warning" role="alert">
-Solicite a exclusão de dados de apenas uma conta, ou seja, um email do shopper a ser excluído por ticket. Caso você inclua mais de um email, o ticket será retornado.</div>
+>⚠️ Solicite a exclusão de dados de apenas uma conta, ou seja, um email do shopper a ser excluído por ticket. Caso você inclua mais de um email, o ticket será retornado.
 
 Sua solicitação será enviada à nossa equipe de suporte. Na conclusão do chamado, será emitido um certificado para o email em que o ticket foi aberto comprovando a veracidade da conclusão da exclusão dos dados.

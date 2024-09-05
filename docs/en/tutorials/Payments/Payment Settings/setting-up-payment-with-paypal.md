@@ -45,6 +45,4 @@ Finally, click __Save__.
 
 That's it! Now the payment option will be displayed at PayPal checkout. After finishing purchase, the customer will be redirected to the PayPal environment to perform their authentication and fill in the credit card information.
 
-<div class="alert alert-warning" role="alert">
-  <strong>Note:</strong> Payments with installments are not currently supported for this payment method. 
-</div>
+>⚠️ **Note:** Payments with installments are not currently supported for this payment method.

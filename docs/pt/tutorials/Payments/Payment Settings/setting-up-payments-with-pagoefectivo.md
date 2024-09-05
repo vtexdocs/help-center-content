@@ -15,4 +15,4 @@ legacySlug: configurar-pagamentos-com-pagoefectivo
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning" role="alert">Este conteúdo é exclusivamente regional e portanto, não aplicável a países de língua portuguesa.</div>
+>⚠️ Este conteúdo é exclusivamente regional e portanto, não aplicável a países de língua portuguesa.

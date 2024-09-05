@@ -15,7 +15,7 @@ legacySlug: vtex-pick-and-pack-last-mile
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
+>⚠️ Contenido bajo traducción.
 
 >ℹ️ Si tienes interés en implementarla en tu negocio, rellena nuestro [formulario](https://vtex.com/co-es/contacto/) indicando en el campo `Comentarios` el nombre del producto deseado.
 

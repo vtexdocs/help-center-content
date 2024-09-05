@@ -22,7 +22,7 @@ TYo use easypay affiliation in your marketplace, you need to:
 - [Install the easypay Seller Account app](#installing-the-easypay-seller-account-app)
 - [Configure the easypay Seller Account app](#configuring-the-easypay-seller-account-app)
 
-<div class="alert alert-warning" role="alert">If you want to configure easypay for a non-seller context, read <a href="https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay--3xJQqjMIn0ARDI1HcwK88J">Setting up payments with easypay</a> or <a href="https://help.vtex.com/en/tutorial/setting-up-payments-with-easypay-marketplace--3YllWiITcPEOpteuToEdO7">Setting up payments with easypay marketplace</a>.</div>
+>⚠️ If you want to configure easypay for a non-seller context, read [Setting up payments with easypay](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay--3xJQqjMIn0ARDI1HcwK88J) or [Setting up payments with easypay marketplace](https://help.vtex.com/en/tutorial/setting-up-payments-with-easypay-marketplace--3YllWiITcPEOpteuToEdO7).
 
 ## Installing the easypay Seller Account app
 
@@ -45,7 +45,7 @@ After installing the easypay Seller Account app, you need to configure it. To ac
 
 <blockquote><ui>- <b>Easypay Account UID</b>: Identification of your seller account where purchase amounts from store sales will be deposited. To get this information, access the <a href="https://backoffice.easypay.pt/">easypay environment</a>, click the easypay logo at the top of the screen, and click the desired account. Copy and save the <b>Account UID</b> information.</ui> 
 
-![easypay_en_18](https://images.ctfassets.net/alneenqid6w5/72jPh8mwBcEqbtiCBU09Bm/2e4dd4665f90512068d9f145b7a81caa/easypay_en_18.png)
+![easypay_en_18](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/en/setting-up-payments-with-easypay-seller-0.png)
 
 <blockquote><ui>4. Click <b>Save</b>.</ui>
 

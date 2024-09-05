@@ -15,9 +15,7 @@ legacySlug: como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-<div class="alert alert-warning" role="alert">
-  <p>Este procedimento se aplica apenas para clientes faturados no <strong>Brasil</strong>.</p>
-</div>
+>⚠️ Este procedimento se aplica apenas para clientes faturados no **Brasil**.
 
 O faturamento é disparado até o quinto dia útil do mês. Nota Fiscal e boleto ficam disponíveis no módulo __Faturas__ do Admin da sua loja. 
 

@@ -15,4 +15,4 @@ legacySlug: understand-vtex-payment-fees
 subcategoryId: 23PYStKNPteW4CqklwXXQN
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

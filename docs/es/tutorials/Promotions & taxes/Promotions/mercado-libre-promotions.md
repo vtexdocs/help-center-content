@@ -21,7 +21,7 @@ Para proporcionar mayor agilidad a la operación del seller, en la barra de bús
 
 Para acceder a la página de promociones disponibles en el Admin VTEX, debes ir a __Marketplace > Mercado Libre > Promociones.__  
 
-![Promociones de Mercado Libre](https://images.ctfassets.net/alneenqid6w5/6LigPeBx1YMf6NQPJaqURK/cae6ebf8e19c5bc2fd8b8d4839ad029e/buscapromocoes.gif)
+![Promociones de Mercado Libre](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/promociones-de-mercado-libre-0.gif)
 
 ## Tipos de promociones
 
@@ -173,7 +173,7 @@ Si el seller desea modificar el precio de un producto que participa de esta camp
 
 El marketplace selecciona los productos que podrán participar de la campaña. Al seleccionar el tipo de campaña Descuento por cantidad, encontrarás estas dos secciones.
 
-<div class="alert alert-info" role="alert">El tipo de campaña «Descuento por cantidad» tiene un plazo para que el seller participe. En caso de que ese plazo se venza, solo se mostrará la sección <b>Disponibles.</b></div>
+>ℹ️ El tipo de campaña «Descuento por cantidad» tiene un plazo para que el seller participe. En caso de que ese plazo se venza, solo se mostrará la sección **Disponibles.**
 
 #### Disponibles
 

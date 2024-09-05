@@ -15,4 +15,4 @@ legacySlug: configurar-boleto-en-plazos-lendico-como-medio-de-pago
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
+>⚠️ Contenido bajo traducción.
