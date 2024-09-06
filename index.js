@@ -11,7 +11,9 @@ const client = contentful.createClient({
   accessToken: process.env.CONTENTFUL_ACCESS_TOKEN ?? "",
 });
 
-const { replaceQuotes } = require('./docs-utils/replace-quotes'); // Import the fix-callouts function
+const { replaceQuotes } = require('./docs-utils/replace-quotes'); // Import the replace-quotes function
+
+const { updateImages  } = require('./docs-utils/update-images'); // Import the update-images function
 
 const { fixCallouts } = require('./docs-utils/fix-callouts'); // Import the fix-callouts function
 
@@ -802,6 +804,7 @@ async function main() {
     await getEntries();
     await replaceQuotes();
     await fixCallouts();
+    await updateImages();
   } catch (error) {
     console.error("Error in main function:", error);
   }
