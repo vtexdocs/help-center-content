@@ -1,13 +1,14 @@
 // retrieve entries from contentful
 const fs = require('fs').promises;
+const fsSync = require('fs');
 const path = require('path');
 const docsFolderPath = path.join(__dirname, 'docs');
 
 const contentful = require("contentful-management");
-require('dotenv').config();
+require("dotenv").config();
 
 const client = contentful.createClient({
-  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN ?? '',
+  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN ?? "",
 });
 
 const { replaceQuotes } = require('./docs-utils/replace-quotes'); // Import the fix-callouts function
@@ -38,7 +39,7 @@ let contentTypes = {
 // Function to delete all markdown files in the 'docs' folder and its subfolders
 async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
   if (isTopLevel) {
-    console.log("Deleting markdown files...");
+    console.log("Deleting markdown files and folders...");
   }
 
   async function processFiles(files) {
@@ -49,6 +50,8 @@ async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
       if (stats.isDirectory()) {
         // Recursively delete markdown files in subdirectories
         await deleteMarkdownFiles(filePath, false);
+        await fs.rmdir(filePath); // Delete folder after processing
+        console.log(`Deleted folder: ${filePath}`);
       } else if (file.endsWith('.md')) {
         // Delete markdown files
         await fs.unlink(filePath);
@@ -63,14 +66,106 @@ async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
     const files = await fs.readdir(folderPath);
     await processFiles(files);
     if (isTopLevel) {
-      console.log("All markdown files in the docs folder have been deleted.");
+      console.log("All markdown files and folders in the docs folder have been deleted.");
     }
   } catch (err) {
     console.error(`Error during deletion: ${err.message}`);
   }
 }
 
+let categories = [];
+let subcategories = [];
+
+async function getCategories() {
+  try {
+    const space = await client.getSpace("alneenqid6w5");
+    const environment = await space.getEnvironment("master");
+
+    let skip = 0;
+    let limit = 100;
+    let totalCount = 0;
+
+    do {
+      const response = await environment.getEntries({ skip, limit });
+      const entries = response;
+      totalCount = response.total;
+
+      for (let j = 0; j < entries.items.length ; j++) {
+        let entry = entries.items[j];
+        
+        let contentType = entry.sys.contentType.sys.id;
+        if (contentType === "category") {
+          let categoryEN = entry.fields.title?.en || "Untitled category";
+          let categoryPT = entry.fields.title?.pt || "Untitled category";
+          let categoryES = entry.fields.title?.es || "Untitled category";
+          let categoryId = entry.sys.id;
+          let categorySubcategories = [];
+          if ("subcategories" in entry.fields) {
+            for (k = 0; k < entry.fields.subcategories.pt.length; k++) {
+              categorySubcategories.push(entry.fields.subcategories.pt[k].sys.id);
+            }
+          }
+          categories.push({"categoryEN": categoryEN, "categoryPT": categoryPT, "categoryES": categoryES, "categoryId": categoryId, "categorySubcategories": categorySubcategories})
+        }
+      }
+      skip += limit;
+    } while (skip < totalCount);
+  } catch (error) {
+    console.log("Error occurred while fetching category:", error);
+  }
+//  console.log(categories);
+  return categories;
+}
+
+async function getSubcategories() {
+  try {
+    const space = await client.getSpace("alneenqid6w5");
+    const environment = await space.getEnvironment("master");
+
+    let skip = 0;
+    let limit = 100;
+    let totalCount = 0;
+
+    do {
+      const response = await environment.getEntries({ skip, limit });
+      const entries = response;
+      totalCount = response.total;
+
+      for (let j = 0; j < entries.items.length ; j++) {
+        let entry = entries.items[j];
+        getSubcategoryInfo(entry,categories);
+      }
+      skip += limit;
+    } while (skip < totalCount);
+  } catch (error) {
+    console.log("Error occurred while fetching subcategory:", error);
+  }
+
+  // Cross-matching and updating categories
+  categories.forEach(category => {
+    const subcategoryNames = subcategories
+      .filter(sub => sub.categoryId === category.categoryId)
+      .map(sub => sub.subcategoryEN);
+
+    category.subcategoryNames = subcategoryNames;
+  });
+
+  // Cross-matching and updating subcategories
+  subcategories.forEach(subcategory => {
+    const category = categories.find(cat => cat.categoryId === subcategory.categoryId);
+    if (category) {
+      subcategory.categoryName = category.categoryEN;
+    }
+  });
+
+  return subcategories;
+}
+
 async function getEntries() {
+
+  await getCategories();
+  await getSubcategories();
+
   console.log("Getting entries from Contentful...");
   try {
     const space = await client.getSpace("alneenqid6w5");
@@ -85,9 +180,10 @@ async function getEntries() {
       const entries = response;
       totalCount = response.total;
 
-      for (let j = 0; j < entries.items.length; j++) {
+      for (let j = 0; j < entries.items.length ; j++) {
         let entry = entries.items[j];
-        createMarkdownFile(entry);
+//      console.log(entry.fields)
+        createMarkdownFile(entry, categories, subcategories);
       }
       skip += limit;
     } while (skip < totalCount);
@@ -117,7 +213,7 @@ async function getEntries() {
       "Unknown Content Type:",
       contentTypes.unknownContentTypes.length
     );
-    console.log("Entries that generated files:", fileCount / 3); //fileCount divided by the amount of locales, since it creates one file per locale
+    console.log("Entries that generated files:", fileCount / 3); // fileCount divided by the amount of locales, since it creates one file per locale
     console.log(
       "Amount of errors (difference between total of entries, entries that generated files and correctly ignored entries):",
       totalCount -
@@ -161,7 +257,20 @@ function isArchived(entry) {
   return !!entry.sys.archivedVersion;
 }
 
-function createMarkdownFile(entry) {
+function getSubcategoryInfo(entry) {
+  let contentType = entry.sys.contentType.sys.id;
+  if (contentType === "subcategory") {
+    let subcategoryEN = entry.fields.title?.en || "Untitled";
+    let subcategoryPT = entry.fields.title?.pt || "Untitled";
+    let subcategoryES = entry.fields.title?.es || "Untitled";
+    let subcategoryId = entry.sys.id;
+    let categoryId = entry.fields.category?.pt.sys.id || "";
+    subcategories.push({"subcategoryEN": subcategoryEN, "subcategoryPT": subcategoryPT, "subcategoryES": subcategoryES, "subcategoryId": subcategoryId, "categoryId": categoryId});
+    return subcategories;
+  }
+}
+
+function createMarkdownFile(entry,categories,subcategories) {
   // extract information from each entry
 
   let status;
@@ -172,7 +281,9 @@ function createMarkdownFile(entry) {
     status = "CHANGED";
   } else if (isPublished(entry)) {
     status = "PUBLISHED";
-  } else if (isArchived(entry)) {
+  }
+  
+  if (isArchived(entry)) {
     status = "ARCHIVED";
   }
 
@@ -197,9 +308,9 @@ function createMarkdownFile(entry) {
   }
 
   let trackId = fields.trackId?.pt.sys.id || "";
-  let trackSlugEN = fields.trackSlug?.en || "";
-  let trackSlugES = fields.trackSlug?.es || "";
-  let trackSlugPT = fields.trackSlug?.pt || "";
+  let trackSlugEN = fields.trackSlug?.en || "untitled-track";
+  let trackSlugES = fields.trackSlug?.es || "untitled-track";
+  let trackSlugPT = fields.trackSlug?.pt || "untitled-track";
 
   if (contentType === "track") {
     contentTypes.tracks.push(entry);
@@ -228,22 +339,42 @@ function createMarkdownFile(entry) {
     return;
   }
 
-  let productTeam = fields.xpTeam?.pt || "";
-  let subcategory = fields.subcategory?.pt.sys.id || "";
-  let titleEN = fields.title?.en || "";
-  let titleES = fields.title?.es || "";
-  let titlePT = fields.title?.pt || "";
+  let productTeam = fields.xpTeam?.pt || "unknown";
+  let titleEN = fields.title?.en || "Untitled";
+  let titleES = fields.title?.es || "Untitled";
+  let titlePT = fields.title?.pt || "Untitled";
   let author = fields.author?.pt[0].sys.id || "";
   let tag = fields.tag?.pt || "";
-  let slugEN = fields.slug?.en || "";
-  let slugES = fields.slug?.es || "";
-  let slugPT = fields.slug?.pt || "";
+  let slugEN = fields.slug?.en || "untitled";
+  let slugES = fields.slug?.es || "untitled";
+  let slugPT = fields.slug?.pt || "untitled";
   let legacySlugEN = fields.legacySlug?.en || "";
   let legacySlugES = fields.legacySlug?.es || "";
   let legacySlugPT = fields.legacySlug?.pt || "";
   let textEN = fields.text?.en || "";
   let textES = fields.text?.es || "";
   let textPT = fields.text?.pt || "";
+  let subcategoryId = fields.subcategory?.pt.sys.id || "unknown-subcategory";
+
+  // Initialize category and subcategory variables
+  let subcategoryNameEN = "Untitled subcategory";
+  let categoryNameEN = "Untitled category";
+
+  // Find the matching subcategory
+  let matchedSubcategory = subcategories.find(sub => sub.subcategoryId === subcategoryId);
+
+  if (matchedSubcategory) {
+    // Get the subcategory name
+    subcategoryNameEN = matchedSubcategory.subcategoryEN;
+
+    // Find the corresponding category for the subcategory
+    let matchedCategory = categories.find(cat => cat.categoryId === matchedSubcategory.categoryId);
+
+    if (matchedCategory) {
+      // Get the category name
+      categoryNameEN = matchedCategory.categoryEN
+    }
+  }
 
   let kiStatusEN = fields.status?.pt[0] || "";
   let kiStatusES = fields.status?.pt[0] || "";
@@ -266,8 +397,6 @@ function createMarkdownFile(entry) {
 
   // create .md files in locale folders for each item
 
-  const fs = require("fs");
-
   let fileNameEN = `${slugEN}.md`;
   fileNameEN = fileNameEN.replace(/\?/g, ""); // remove all "?" characters
   //  let fileNameES = `${slugES}.md`;
@@ -277,6 +406,8 @@ function createMarkdownFile(entry) {
   let fileContentES = "";
   let fileContentPT = "";
   let fileFolders = "";
+  let fileSubFolder = "";
+  let fileSubcategoryFolder = "";
 
   const locales = ["en", "es", "pt"];
 
@@ -375,6 +506,7 @@ ${kiWorkaroundPT}
 
 `;
     fileFolders = "known-issues";
+    fileSubFolder = productTeam;
     contentTypes.knownIssues.push(entry);
   } else if (contentType === "tutorial") {
     fileContentEN = `---
@@ -391,7 +523,7 @@ author: ${author}
 slug: ${slugEN}
 locale: en
 legacySlug: ${legacySlugEN}
-subcategory: ${subcategory}
+subcategoryId: ${subcategoryId}
 ---
 
 ${textEN}
@@ -410,7 +542,7 @@ author: ${author}
 slug: ${slugES}
 locale: es
 legacySlug: ${legacySlugES}
-subcategory: ${subcategory}
+subcategoryId: ${subcategoryId}
 ---
 
 ${textES}
@@ -429,12 +561,14 @@ author: ${author}
 slug: ${slugPT}
 locale: pt
 legacySlug: ${legacySlugPT}
-subcategory: ${subcategory}
+subcategoryId: ${subcategoryId}
 ---
 
 ${textPT}
 `;
-    fileFolders = "tutorials";
+    fileFolders = "tutorials"
+    fileSubFolder = categoryNameEN
+    fileSubcategoryFolder = subcategoryNameEN
     contentTypes.tutorials.push(entry);
   } else if (contentType === "trackArticle") {
     fileContentEN = `---
@@ -491,7 +625,8 @@ trackSlugPT: ${trackSlugPT}
 
 ${textPT}
 `;
-    fileFolders = `tracks`;
+    fileFolders = "tracks";
+    fileSubFolder = trackSlugEN;
     contentTypes.trackArticles.push(entry);
   } else if (contentType === "frequentlyAskedQuestion") {
     fileContentEN = `---
@@ -549,6 +684,7 @@ legacySlug: ${legacySlugPT}
 ${textPT}
 `;
     fileFolders = "faq";
+    fileSubFolder = productTeam;
     contentTypes.faqs.push(entry);
   } else if (contentType === "updates") {
     fileNameEN = createdAt.split("T")[0] + "-" + fileNameEN;
@@ -609,7 +745,7 @@ announcementSynopsisPT: ${announcementSynopsisPT.includes("'") ? `"${announcemen
 
 ${textPT}
 `;
-    fileFolders = `announcements`;
+    fileFolders = "announcements";
     contentTypes.announcements.push(entry);
   } else if (contentType === "category") {
     contentTypes.categories.push(entry);
@@ -626,32 +762,35 @@ ${textPT}
   }
 
   let fileContents = [fileContentEN, fileContentES, fileContentPT];
-
   for (let i = 0; i < locales.length; i++) {
-    const folderName = `./docs/${fileFolders}`;
+    // Construct the paths
+    const localeFolder = path.join('./docs', locales[i]);
+    const baseFolder = path.join(localeFolder, fileFolders);
+    const subFolder = fileSubFolder ? path.join(baseFolder, fileSubFolder).replace(": ", " - ") : null;
+    const subcategoryFolder = fileSubcategoryFolder ? path.join(subFolder, fileSubcategoryFolder).replace(": ", " - ") : null;
+    const filePath = fileSubcategoryFolder ? path.join(subcategoryFolder, fileNameEN).replace(": ", " - ") : fileSubFolder ? path.join(subFolder, fileNameEN).replace(": ", " - ") : path.join(baseFolder, fileNameEN).replace(": ", " - ");
+  
+    // Array of folders to create
+    const foldersToCreate = [localeFolder, baseFolder, subFolder, subcategoryFolder].filter(Boolean);
+  
+    // Create each folder if it doesn't exist
     try {
-      if (!fs.existsSync(folderName)) {
-        fs.mkdirSync(folderName);
-      }
+      foldersToCreate.forEach(folder => {
+        if (!fsSync.existsSync(folder)) {
+          fsSync.mkdirSync(folder, { recursive: true });
+        }
+      });
     } catch (err) {
-      console.log("Error creating folder", err);
+      console.error("Error creating folder:", err);
     }
-    const localeFolderName = `./docs/${fileFolders}/${locales[i]}`;
-    try {
-      if (!fs.existsSync(localeFolderName)) {
-        fs.mkdirSync(localeFolderName);
-      }
-    } catch (err) {
-      console.log("Error creating folder", err);
-    }
-    let filePath = `./docs/${fileFolders}/${locales[i]}/${fileNameEN}`;
+
+  // Write the file
     fs.writeFile(filePath, fileContents[i], (err) => {
-      if (err) {
-        console.log(`Error occurred while creating file ${filePath}:`, err);
-      } else {
-        //        console.log(`File ${filePath} created successfully.`);
-        fileCount++;
-      }
+    if (err) {
+      console.error(`Error occurred while creating file ${filePath}:`, err);
+    } else {
+      fileCount++;
+    }
     });
   }
 }
