@@ -71,3 +71,5 @@ const updateImages = async (filepath) => {
 
 const filepath = process.argv[2]
 updateImages(filepath)
+
+module.exports = { updateImages };
