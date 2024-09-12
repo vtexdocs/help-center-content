@@ -1,5 +1,5 @@
 ---
-title: 'Suporte VTEX - EMEA'
+title: 'TEST'
 id: 5ePu2qkCfmE0IEKDFKg53F
 status: PUBLISHED
 createdAt: 2023-11-09T16:29:55.255Z
@@ -14,4 +14,4 @@ locale: pt
 legacySlug: suporte-vtex-emea
 ---
 
-Este conteúdo está disponível apenas em inglês. [Clique aqui](https://help.vtex.com/pt/faq/vtex-support-brazil--5q861sTw1n7H2BENOu7ls9?&utm_source=autocomplete) para acessar.
+TEST Este conteúdo está disponível apenas em inglês. [Clique aqui](https://help.vtex.com/pt/faq/vtex-support-brazil--5q861sTw1n7H2BENOu7ls9?&utm_source=autocomplete) para acessar.
