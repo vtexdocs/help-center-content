@@ -2,8 +2,9 @@ const fs = require('fs')
 const path = require('path')
 const frontmatter = require('front-matter')
 const imageDownloader = require('image-downloader')
+const { log } = require('console')
 
-const baseURL = 'https://raw.githubusercontent.com/vtexdocs/help-center-content/main'
+const baseURL = 'https://raw.githubusercontent.com/vtexdocs/help-center-content/main/'
 const rootDir = path.resolve(__dirname, '..')
 
 const isValidExtension = (ext) => {
@@ -22,11 +23,14 @@ const getExtension = (url) => {
 }
 
 const updateImages = async (filepath) => {
+  console.log("Running update images")
+  console.log(filepath)
   const content = fs.readFileSync(filepath, 'utf-8')
   const slug = frontmatter(content).attributes.slug
   const locale = frontmatter(content).attributes.locale
   
   const images = []
+  let imageIndex = 1
   const replaceURL = (match, extra, url) => {
     const isMarkdownBlock = match.startsWith('![')
     if (url.startsWith(baseURL)) return match
@@ -34,14 +38,17 @@ const updateImages = async (filepath) => {
     let newURL = ''
     if (url.startsWith('http://') || url.startsWith('https://')) {
       const ext = getExtension(url)
-      const filename = `${slug}-${images.length}.${ext}`
-  
+      
+      const newfilepath = `${filepath.split('.')[0]}_${imageIndex}.${ext}`
+      console.log(newfilepath)
       images.push({
-        filepath: path.resolve('images', locale, filename),
+        filepath: path.resolve(newfilepath),
         url
       })
+      console.log(images)
 
-      newURL = `${baseURL}/images/${locale}/${filename}`
+      newURL = `${baseURL}${filepath.split('.')[0]}_${imageIndex}.${ext}`
+      imageIndex++
     } else if (path.isAbsolute(url)) {
       newURL = `${baseURL}${url}`
     } else {
