@@ -2,10 +2,8 @@ const fs = require('fs')
 const path = require('path')
 const frontmatter = require('front-matter')
 const imageDownloader = require('image-downloader')
-const { log } = require('console')
 
 const baseURL = 'https://raw.githubusercontent.com/vtexdocs/help-center-content/main/'
-const rootDir = path.resolve(__dirname, '..')
 
 const isValidExtension = (ext) => {
   return /^[a-zA-Z0-9]*$/.test(ext)
@@ -24,8 +22,6 @@ const getExtension = (url) => {
 
 const updateImages = async (filepath) => {
   const content = fs.readFileSync(filepath, 'utf-8')
-  const slug = frontmatter(content).attributes.slug
-  const locale = frontmatter(content).attributes.locale
   
   const images = []
   let imageIndex = 1
