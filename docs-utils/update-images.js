@@ -42,16 +42,11 @@ const updateImages = async (filepath) => {
         filepath: path.resolve(newfilepath),
         url
       })
-      console.log(images)
-
+      
       newURL = `${baseURL}${filepath.split('.')[0]}_${imageIndex}.${ext}`
       imageIndex++
-    } else if (path.isAbsolute(url)) {
-      newURL = `${baseURL}${url}`
-    } else {
-      newURL = `${baseURL}${path.resolve(path.dirname(filepath), url).replace(rootDir, '')}`
-    }
-
+    } 
+    
     return isMarkdownBlock ? `![${extra}](${newURL})` : `<img ${extra}src="${newURL}"`
   }
 
