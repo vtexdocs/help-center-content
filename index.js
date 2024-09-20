@@ -771,20 +771,20 @@ ${textPT}
     const filePath = fileSubcategoryFolder ? path.join(subcategoryFolder, fileNameEN).replace(": ", " - ") : fileSubFolder ? path.join(subFolder, fileNameEN).replace(": ", " - ") : path.join(baseFolder, fileNameEN).replace(": ", " - ");
     if (subFolder){
       if (subFolder.endsWith(' ')) {
-        console.log(subFolder)
+        console.log('subFolder: ',subFolder)
       }
     }
     if (subcategoryFolder){
       if (subcategoryFolder.endsWith(' ')) {
-        console.log(subcategoryFolder)
+        console.log('subcategoryFolder: ',subcategoryFolder)
       }
     }
     if (filePath){
       if (filePath.endsWith(' ')) {
-        console.log(filePath)
+        console.log('filepath: ',filePath)
       }
     }
-    
+
     // Array of folders to create
     const foldersToCreate = [localeFolder, baseFolder, subFolder, subcategoryFolder].filter(Boolean);
   
