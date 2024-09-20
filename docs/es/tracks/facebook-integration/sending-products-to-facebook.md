@@ -3,8 +3,8 @@ title: 'Envío de productos a Facebook'
 id: 41qzoa7TWIYTyIhABHdgzI
 status: PUBLISHED
 createdAt: 2021-02-08T19:45:07.202Z
-updatedAt: 2024-01-22T15:03:37.861Z
-publishedAt: 2024-01-22T15:03:37.861Z
+updatedAt: 2024-09-05T17:12:54.731Z
+publishedAt: 2024-09-05T17:12:54.731Z
 firstPublishedAt: 2021-02-08T20:10:14.152Z
 contentType: trackArticle
 productTeam: Channels
@@ -46,7 +46,7 @@ Si desea enviar los atributos de sus productos a Facebook, debe realizar las sig
 
 El mapeo por plantilla es lo que le permite establecer la correspondencia entre los atributos de sus productos en la plataforma VTEX y los estándares utilizados por Facebook.
 
-El primer paso para realizar el mapeo es descargar el archivo [Plantilla de mapeo Facebook.xlsx](https://drive.google.com/uc?export=download&id=1XD8AO0VEzLXxmb8yjjkFQCNce1IfufkN).
+El primer paso para realizar el mapeo es descargar el archivo [Plantilla de mapeo Facebook.xlsx](//assets.ctfassets.net/alneenqid6w5/52pBgj6plpcSAp1X2DqgJ9/c6f5b2b748bdd5ff3e4d507a1e8ba524/Planilha_de_Mapeamento_Facebook.xlsx).
 
 ### Rellenado de la plantilla de mapeo
 

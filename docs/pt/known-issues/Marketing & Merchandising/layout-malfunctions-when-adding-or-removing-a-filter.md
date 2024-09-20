@@ -30,5 +30,5 @@ Ao adicionar/retirar filtro dentro da página de Cadastro de Produtos e Skus oco
 
 Você deve clicar onde ficava *Filtrar resultados ou fazer uma busca* e depois clicar no botão azul no canto esquerdo inferior, com isso o layout da página será normalizado.
 
-![Image](https://images.contentful.com/alneenqid6w5/2HUT45Pgcgqack2CMg22ug/0073487d59c786e3f959e608f9015e38/Exemplo.jpg)
+![Image](//images.contentful.com/alneenqid6w5/2HUT45Pgcgqack2CMg22ug/0073487d59c786e3f959e608f9015e38/Exemplo.jpg)
 

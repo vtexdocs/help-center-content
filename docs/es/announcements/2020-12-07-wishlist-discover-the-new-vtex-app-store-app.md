@@ -24,7 +24,7 @@ La aplicación está disponible en [VTEX App Store](https://apps.vtex.com/ "VTEX
 - Inclusión de un ícono de corazón al lado de cada producto en las listas de productos y en las páginas de detalle de los productos.
 - Creación de una página para la Lista de Deseos, donde el consumidor pueda ver todos los artículos y comprarlos fácilmente.
 
-![Wishlist Printscreen](https://images.ctfassets.net/alneenqid6w5/5EVie6cixnjJTZPoxqa5MG/5a6e2ce9fe25d828a14e0ee9d6df4f80/Screen_Shot_2020-12-07_at_16.04.01.png)
+![Wishlist Printscreen](//images.ctfassets.net/alneenqid6w5/5EVie6cixnjJTZPoxqa5MG/5a6e2ce9fe25d828a14e0ee9d6df4f80/Screen_Shot_2020-12-07_at_16.04.01.png)
 
 ## ¿Cuáles son los beneficios?
 - Hace que la experiencia de compra de su tienda sea más completa.

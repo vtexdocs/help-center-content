@@ -37,4 +37,4 @@ This update gives you more power over your promotions' behavior. The new buttons
 6. Tick the box next to **Use recurrence settings**
 7. Set the desired days and schedule for that promotion 
 
-![CRON 2 EN](https://images.ctfassets.net/alneenqid6w5/48EFCYtz5TvqhZVXmBasyW/d37188c1a6a742e3a086fe6984eded31/CRON_2_EN.png)
+![CRON 2 EN](//images.ctfassets.net/alneenqid6w5/48EFCYtz5TvqhZVXmBasyW/d37188c1a6a742e3a086fe6984eded31/CRON_2_EN.png)

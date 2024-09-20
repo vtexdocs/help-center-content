@@ -26,7 +26,7 @@ Consulta en esta página los pasos para realizar la configuración general de tu
 - __Use modal to switch company:__ esta opción mejorará la experiencia del usuario al facilitar el mantenimiento de las tiendas. 
 - __Clear cart when switching company or logging in:__ al seleccionar esta opción, si cambias de tienda o inicias sesión en otras cuentas se limpiará el carrito automáticamente.
 ## Términos de pago
-![Tiendas B2B - General Settings + Payment Terms](https://images.ctfassets.net/alneenqid6w5/7wvxJVXraGTFAheCAp8tGP/2fe3ea82f74231488ec3b9d0d3ce3d57/image1.jpg)
+![Tiendas B2B - General Settings + Payment Terms](//images.ctfassets.net/alneenqid6w5/7wvxJVXraGTFAheCAp8tGP/2fe3ea82f74231488ec3b9d0d3ce3d57/image1.jpg)
 Puedes agregar medios de pago seleccionándolos según las necesidades de tu negocio.   
 Ejemplo: tarjeta de crédito, débito o pagarés. 
 ## Tablas de precios
@@ -35,7 +35,7 @@ Puedes agregar un patrón predeterminado de precios para las tiendas añadidas. 
 ## Políticas comerciales
 
 Puedes vincular tu tienda directamente con políticas comerciales y canales de venta.
-![Tiendas B2B -  Políticas comerciais ES](https://images.ctfassets.net/alneenqid6w5/AsCTmvTHbdWfOnVeIiGkj/348fed16a33c05d72acf883315d48c6d/image2.jpg)
+![Tiendas B2B -  Políticas comerciais ES](//images.ctfassets.net/alneenqid6w5/AsCTmvTHbdWfOnVeIiGkj/348fed16a33c05d72acf883315d48c6d/image2.jpg)
 
 1. En la lista **Políticas comerciales disponibles**, haz clic en la política comercial que deseas incluir en tu tienda y luego haz clic en `Agregar a política comercial`; esta se mostrará en la lista **Políticas comerciales seleccionadas**.
 2. Haz clic en `Guardar` al finalizar los ajustes.

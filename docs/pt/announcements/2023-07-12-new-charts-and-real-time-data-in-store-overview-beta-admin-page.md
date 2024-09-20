@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Redesenhamos a página inicial do seu Admin, agora com 
 
 A página [Visão Geral (Beta)](https://help.vtex.com/pt/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) em seu Admin VTEX foi redesenhada e agora oferece novos gráficos, métricas e visualizações. Estas novas funcionalidades permitem o acompanhamento em tempo real da sua operação, fornecendo visibilidade sobre indicadores para que você e sua equipe tenham um feedback rápido das ações realizadas na loja e possam atuar prontamente em melhorias. 
 
-![PT Visão geral Beta](https://images.ctfassets.net/alneenqid6w5/5C2Na8YDkwgIsMHqp28oGv/62aceefab415f246a39fcd604a89f080/PT_Visa__o_geral_Beta.png)
+![PT Visão geral Beta](//images.ctfassets.net/alneenqid6w5/5C2Na8YDkwgIsMHqp28oGv/62aceefab415f246a39fcd604a89f080/PT_Visa__o_geral_Beta.png)
 
 ## O que mudou?
 

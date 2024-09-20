@@ -42,7 +42,7 @@ Las principales características de los triggers son las siguientes:
 
 Antes de [crear un trigger](#configurar-trigger), es necesario comprender que su configuración consta de cuatro partes, que se explican a continuación.
 
-![trigger](https://images.ctfassets.net/alneenqid6w5/5WbC7SD6aPFqaOHuHWgQoq/4dee23f7b89e1ce4acd9479dcd0babd9/trigger-es.png)
+![trigger](//images.ctfassets.net/alneenqid6w5/5WbC7SD6aPFqaOHuHWgQoq/4dee23f7b89e1ce4acd9479dcd0babd9/trigger-es.png)
 
 ### Acción que activa el trigger
 
@@ -119,7 +119,7 @@ Aquí debes definir las condiciones que activarán el evento o eventos configura
 
    Selecciona los campos y los valores que activarán o no el trigger.
 
-   ![filters-es](https://images.ctfassets.net/alneenqid6w5/go7XW0mqWsuA4ygwYsoMS/ce8019b7300c8c857ac71ffb4f0091c9/filters-es.png)
+   ![filters-es](//images.ctfassets.net/alneenqid6w5/go7XW0mqWsuA4ygwYsoMS/ce8019b7300c8c857ac71ffb4f0091c9/filters-es.png)
 
 >ℹ️ Master Data v1 no permite la configuración de reintentos de trigger, a diferencia de Master Data v2.
 
@@ -139,7 +139,7 @@ En esta pestaña debes configurar los eventos que deben dispararse si el registr
 
 Envía un email a destinatarios dinámicos (contenidos en el registro) o estáticos. El email puede personalizarse y estar en formato de texto, HTML o incluir el contenido de una URL. Se pueden ingresar archivos adjuntos y el campo **Tags válidas** muestra cómo ingresar valores de campos del registro.
 
-![send-email-es](https://images.ctfassets.net/alneenqid6w5/KsQUtktQoECEMiKEY6EU8/e413677641a756923fa9fd6e477002e2/send-email-es.png)
+![send-email-es](//images.ctfassets.net/alneenqid6w5/KsQUtktQoECEMiKEY6EU8/e413677641a756923fa9fd6e477002e2/send-email-es.png)
 
 #### Enviar un email utilizando una plantilla de VTEX Message Center
 
@@ -155,7 +155,7 @@ Envía un request HTTP con la posibilidad de guardar la información de la respu
 
 Rellena el apartado **Información del request** con los datos de la solicitud que deseas enviar. En la sección **Acción de respuesta**, puedes indicar cómo debe guardarse la información de la respuesta en Master Data.
 
-![http-request-es](https://images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/a24d038b06e2153e667a90c9a42920d9/http-request-es.png)
+![http-request-es](//images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/a24d038b06e2153e667a90c9a42920d9/http-request-es.png)
 
 Para configurar la **Acción de respuesta** selecciona la entidad de datos deseada y especifica la ruta JSON correspondiente para cada campo que se debe guardar en la respuesta.
 

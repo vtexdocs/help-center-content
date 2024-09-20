@@ -25,18 +25,18 @@ O [VTEX Ad Network](https://help.vtex.com/tutorial/vtex-ad-network-beta--2cgqXcB
 - **Anunciantes:** marcas, que podem criar campanhas de anúncios para promover seus produtos nas frentes de lojas VTEX que possuem aqueles produtos em seus catálogos, aumentando suas vendas.
 - **Lojas VTEX:** podem disponibilizar espaço publicitário para que marcas promovam seus produtos na sua frente de loja. Estas lojas receberão um valor por cada clique recebido em anúncios na sua loja.
 
-![vtex_ad_network_sponsored_PT](https://images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/12e38a4f482a08d13f823b17a88fbf5b/vtex_ad_network_sponsored.png)
+![vtex_ad_network_sponsored_PT](//images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/12e38a4f482a08d13f823b17a88fbf5b/vtex_ad_network_sponsored.png)
 
 ## VTEX Assisted Sales
 
 [Assisted Sales (SuiteShare)](https://help.vtex.com/pt/tracks/suiteshare--khP0p8mjIYRIpvM7Cb4Zr/onWmyS8j4Thhde67UBBsB) é a solução criada pela VTEX para impulsionamento de vendas no WhatsApp. Por meio dela, é possível atrair novos clientes, integrar ferramentas de vendas, gerenciar dados de atendimento do usuário e métricas de resultados.
 
-![suitshare-pt](https://images.ctfassets.net/alneenqid6w5/6TuLLNIaD33jhiLdtECaM2/23ef16a09a1c9b86b743059ba4c364ef/next_steps_image11_ONLYPT.JPG)
+![suitshare-pt](//images.ctfassets.net/alneenqid6w5/6TuLLNIaD33jhiLdtECaM2/23ef16a09a1c9b86b743059ba4c364ef/next_steps_image11_ONLYPT.JPG)
 
 ## VTEX Live Shopping
 Solução que permite a criação de transmissões online para a realização de demonstrações ao vivo das características dos produtos na loja. Interações diretas e instantâneas com os clientes permitem melhorar o engajamento do público com a marca e contribuem para aumentar a performance de venda.
 
-![live-shopping-pt](https://images.ctfassets.net/alneenqid6w5/2ayznZWJIuJDSBxaviiL2M/aa4276798ea8f4a5edc2b61cab366154/next_steps_image5_ALL.JPG)
+![live-shopping-pt](//images.ctfassets.net/alneenqid6w5/2ayznZWJIuJDSBxaviiL2M/aa4276798ea8f4a5edc2b61cab366154/next_steps_image5_ALL.JPG)
 
 Para agendar uma demonstração do aplicativo com um especialista, é preciso acessar a página sobre [VTEX Live Shopping](https://vtex.com/br-pt/live-shopping/#contact).
 
@@ -44,7 +44,7 @@ Para agendar uma demonstração do aplicativo com um especialista, é preciso ac
 
 Solução que permite o atendimento personalizado direto entre o cliente e o vendedor, trazendo a experiência de compra da loja física para o ambiente digital. Por meio deste aplicativo, o vendedor tem a possibilidade demonstrar produtos, fazer recomendações e esclarecer dúvidas dos clientes. Durante a videochamada, também é possível adicionar itens no carrinho de compras.
 
-![personal-shopper-pt](https://images.ctfassets.net/alneenqid6w5/6KKt1hJ8CVHx2ezrbo7L8h/0853e4731a4f6b688fe214bde2f88d70/next_steps_image6_ALL.JPG)
+![personal-shopper-pt](//images.ctfassets.net/alneenqid6w5/6KKt1hJ8CVHx2ezrbo7L8h/0853e4731a4f6b688fe214bde2f88d70/next_steps_image6_ALL.JPG)
 
 ## VTEX Pick and Pack
 
@@ -55,7 +55,7 @@ O **VTEX Pick and Pack** é composto por:
 - [Pick and Pack app](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA): gerencia pedidos na loja ou depósito, permitindo personalizar o método de separação de pedidos, selecionar tipos de embalagens por produto, remover ou adicionar produtos de acordo com o estoque da loja.
 - [Last Mile app](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr): coordena o envio de pacotes a partir de depósitos ou lojas até os endereços, criando rotas inteligentes de entrega, selecionando motoristas disponíveis, e rastreando a localização exata do pedido.
 
-![pick-and-pack-pt](https://images.ctfassets.net/alneenqid6w5/6QOR5fOlkCV3RpE0Se3fdM/61b013dcf10e9427d68f42b909ba0c23/next_steps_image7_ALL.JPG)
+![pick-and-pack-pt](//images.ctfassets.net/alneenqid6w5/6QOR5fOlkCV3RpE0Se3fdM/61b013dcf10e9427d68f42b909ba0c23/next_steps_image7_ALL.JPG)
 
 Para assistir uma demonstração do aplicativo ou agendar o atendimento personalizado com um especialista, é preciso acessar a página sobre [VTEX Pick and Pack](https://content.vtex.com/pt-br/pick-and-pack/). 
 
@@ -68,7 +68,7 @@ Com o [VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-
 - Oferecer opções de entrega instantânea, retirada agendada ou no local do cliente.
 - Gerenciar métricas de performance para cada vendedor.
 
-![sales-app-pt](https://images.ctfassets.net/alneenqid6w5/5AIDSFirQO1LJmXFtoPc9L/e5e9b59e94c59f05ffb9cead6d2f7d93/image3.png)
+![sales-app-pt](//images.ctfassets.net/alneenqid6w5/5AIDSFirQO1LJmXFtoPc9L/e5e9b59e94c59f05ffb9cead6d2f7d93/image3.png)
 
 Para assistir uma demonstração do aplicativo ou agendar o atendimento personalizado com um especialista, é preciso acessar a página sobre [VTEX Sales App](https://assets.vtex.com/sales-app/).
 
@@ -78,7 +78,7 @@ Explore opções de envio de produtos para todas as regiões do Brasil com o [VT
 
 O **VTEX Shipping Network** proporciona a possibilidade de conectar transportadoras para criar uma rede integrada de entrega, atualmente com mais de 20 parceiros, para oferecer as melhores opções de custo e prazo aos clientes. 
 
-![shipping-network-pt](https://images.ctfassets.net/alneenqid6w5/37E5iPi055VVgdvk96Jye9/573663b07a3ec62b235be4037b75b93e/image7.png)
+![shipping-network-pt](//images.ctfassets.net/alneenqid6w5/37E5iPi055VVgdvk96Jye9/573663b07a3ec62b235be4037b75b93e/image7.png)
 
 Para mais informações, é preciso acessar a página sobre [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
 
@@ -88,7 +88,7 @@ Para mais informações, é preciso acessar a página sobre [VTEX Shipping Netwo
 
 O [VTEX Shipping Network Correios](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) é uma parceria entre a VTEX e os Correios na qual a loja pode contratar serviços de envio de produtos via PAC e SEDEX diretamente no Admin VTEX, com taxas diferenciadas que reduzem os custos operacionais de frete.
 
-![image6](https://images.ctfassets.net/alneenqid6w5/7C4Qk8X51zlTzXVYrJ0vkD/4a83e3f251f45e5bae81f44cc35d6d4d/image6.png)
+![image6](//images.ctfassets.net/alneenqid6w5/7C4Qk8X51zlTzXVYrJ0vkD/4a83e3f251f45e5bae81f44cc35d6d4d/image6.png)
 
 A contratação dessa solução pode ser realizada de maneira simples e em poucos minutos, por meio da aceitação dos Termos e Condições e a [ativação](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) no próprio Admin da loja. As seguintes funcionalidades estão presentes no VTEX Shipping Network Correios: 
 

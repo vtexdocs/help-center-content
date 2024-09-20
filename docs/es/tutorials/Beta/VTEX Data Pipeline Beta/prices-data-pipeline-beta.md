@@ -3,8 +3,8 @@ title: 'Precios Data Pipeline '
 id: 3NMGJ8dtv73Bwvo9PSz1fz
 status: PUBLISHED
 createdAt: 2024-06-21T14:58:43.084Z
-updatedAt: 2024-09-02T19:28:12.994Z
-publishedAt: 2024-09-02T19:28:12.994Z
+updatedAt: 2024-09-13T17:37:25.152Z
+publishedAt: 2024-09-13T17:37:25.152Z
 firstPublishedAt: 2024-06-21T15:27:43.768Z
 contentType: tutorial
 productTeam: Channels
@@ -17,7 +17,7 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 
 El conjunto de datos de precios incluye información histórica de los precios de cada SKU de la tienda de un retailer, lo que permite analizar los valores de markup y las tendencias mensuales de los precios.  
 
-<div class=alerta alerta-advertencia>
+<div class="alerta alerta-advertencia">
 Los datos de precios que están disponibles son solo datos de la tabla <code>price_table_main</code>.
 </div>
 
@@ -94,3 +94,5 @@ El conjunto de datos de precios se correlaciona con los siguientes conjuntos del
 - [Pagos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
 - [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
 - [Promociones](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Tarjeta de regalo](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Registro del Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

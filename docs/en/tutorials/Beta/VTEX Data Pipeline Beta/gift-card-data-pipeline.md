@@ -3,8 +3,8 @@ title: 'Gift Card Data Pipeline'
 id: 4XAnyc4scy3OG6RdnD7OEf
 status: PUBLISHED
 createdAt: 2024-09-02T18:39:23.356Z
-updatedAt: 2024-09-02T19:22:21.354Z
-publishedAt: 2024-09-02T19:22:21.354Z
+updatedAt: 2024-09-13T17:26:02.029Z
+publishedAt: 2024-09-13T17:26:02.029Z
 firstPublishedAt: 2024-09-02T19:20:54.808Z
 contentType: tutorial
 productTeam: Channels
@@ -35,7 +35,7 @@ This section includes the following information:
 | **History** | Data is maintained for two years, starting in 2024 for customers already using the VTEX platform. |
 | **Minimum update interval** | One hour. |
 
-#### Table `gift_cards_events_raw`
+#### Table: `gift_cards_events_raw`
 
 Below are the fields that constitute the table:  
 
@@ -65,4 +65,13 @@ Gift card data is related to order data, providing a comprehensive analysis of p
 
 - **Most Used Gift Cards:** Combining this data model with [order](https://help.vtex.com/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz) data, you can understand how gift cards are being utilized and monitor their usage.  
 - **Impact on Sales:** Similarly, combining with [order](https://help.vtex.com/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz) data allows you to assess how gift cards influence sales.  
+
+### Discover other Datasets
+
+- [Inventory](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
+- [Navigation](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)
+- [Payments](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
+- [Orders](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)
+- [Promotions](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Bridge logs](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
 

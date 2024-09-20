@@ -15,7 +15,7 @@ legacySlug: conociendo-el-storebuilder-y-el-stylesbuilder
 subcategoryId: Z46a6rHVAaAucoiW0skQQ
 ---
 
-![UI Blocks Voando.mp4](https://images.ctfassets.net/alneenqid6w5/4VRam6UukpPhsCBMtrhBbv/60bb012cd676ebcc8b8805de021529db/UI_Blocks_Voando.mp4.gif) 
+![UI Blocks Voando.mp4](//images.ctfassets.net/alneenqid6w5/4VRam6UukpPhsCBMtrhBbv/60bb012cd676ebcc8b8805de021529db/UI_Blocks_Voando.mp4.gif) 
 
 Esta documentación se ha estructurado para explicar los conceptos detrás del StoreBuilder y StyleBuilder de la Store 2.xx. Durante toda la documentación, utilizaremos la DreamStore (una tienda template que utiliza la `Store 2.xx`) para entender los principales conceptos que le permitirán estructurar y estilizar su tienda.
 
@@ -39,7 +39,7 @@ La Store 2 hace grandes cambios de paradigma en la Store 1, introduciendo el con
 
 Vamos a mirar dentro del `/manifest.json` de DreamStore para ver lo que nuestra aplicación necesita para funcionar correctamente:
 
-![Screen Shot 2019-01-25 at 16.40.06](https://images.ctfassets.net/alneenqid6w5/xQg8Ok5B1SbpKnACXsT7E/0d796fc2af346e1e9caf71eca3f6ec43/Screen_Shot_2019-01-25_at_16.40.06.png)
+![Screen Shot 2019-01-25 at 16.40.06](//images.ctfassets.net/alneenqid6w5/xQg8Ok5B1SbpKnACXsT7E/0d796fc2af346e1e9caf71eca3f6ec43/Screen_Shot_2019-01-25_at_16.40.06.png)
 
 Observe cómo tenemos dos builders especificados:
 
@@ -59,7 +59,7 @@ Como cualquier theme app (una tienda) hace uso de la aplicación `Store` (a trav
 
 Ejecute "vtex link" y envie la app DreamStore a un workspace para que podamos estudiarla.
 
-![Screen Shot 2019-01-27 at 22.24.47](https://images.ctfassets.net/alneenqid6w5/6yCpuWYPBSqCIBkuv9oW14/47963f20fa8e85d76e57713a241eb583/Screen_Shot_2019-01-27_at_22.24.47.png)
+![Screen Shot 2019-01-27 at 22.24.47](//images.ctfassets.net/alneenqid6w5/6yCpuWYPBSqCIBkuv9oW14/47963f20fa8e85d76e57713a241eb583/Screen_Shot_2019-01-27_at_22.24.47.png)
 
 Si está familiarizado con React o otros frameworks modernos de Javascript, usted estará familiarizado con el concepto de componentes en una página web. Como podemos observar, nuestra página web tiene un "header", un "carrusel" y un "estante". ¿Cómo se insertaron estos componentes?
 
@@ -97,7 +97,7 @@ _Tenga en cuenta que usted no estará desarrollando en la aplicación Store 2, p
 
 Vamos a mirar dentro del archivo `/manifest.json` de la Store2.xx para ver lo que importa la aplicación.
 
-![Screen Shot 2019-01-25 at 17.18.56](https://images.ctfassets.net/alneenqid6w5/1E61SoeL536WyC8OIIi5YR/31e433f5cd9ed495e4cde33aa09d5faa/Screen_Shot_2019-01-25_at_17.18.56.png)
+![Screen Shot 2019-01-25 at 17.18.56](//images.ctfassets.net/alneenqid6w5/1E61SoeL536WyC8OIIi5YR/31e433f5cd9ed495e4cde33aa09d5faa/Screen_Shot_2019-01-25_at_17.18.56.png)
 
 Podemos ver que es una estructura similar a la del `manifest.json` de la `Dreamstore`.
 
@@ -142,7 +142,7 @@ __Como cada página es definida por bloques y organizada por interfaces__, es ho
 Abra la carpeta `store` y después el archivo `interfaces.json`.
 
 ### Interfaces
-![Screen Shot 2019-01-25 at 17.35.10](https://images.ctfassets.net/alneenqid6w5/7oDltXNQMdYZ2uPTsk5b4G/97ff30d86ab194a331d9f2c2ef8d5c95/Screen_Shot_2019-01-25_at_17.35.10.png)
+![Screen Shot 2019-01-25 at 17.35.10](//images.ctfassets.net/alneenqid6w5/7oDltXNQMdYZ2uPTsk5b4G/97ff30d86ab194a331d9f2c2ef8d5c95/Screen_Shot_2019-01-25_at_17.35.10.png)
 
 Una interfaz es un conjunto de `blocks` y existe exclusivamente dentro de la `Store2.xx`. Sirve como un contrato entre los bloques y determina cómo van a trabajar juntos.
 
@@ -199,7 +199,7 @@ Vamos a seguir analizando el `store.home`. Tenga atención a los comentarios inl
 ```
 
 Si descendemos podemos ver los mismos objetos JSON definiendo y configurando la organización de la página. Otro ejemplo es la página de resultados de la búsqueda:
-![Screen Shot 2019-01-25 at 18.22.12](https://images.ctfassets.net/alneenqid6w5/1xXBCG7xjBUz1CEmHVoOhc/cf0bf48f2653f8688c97fd20f0d16287/Screen_Shot_2019-01-25_at_18.22.12.png)
+![Screen Shot 2019-01-25 at 18.22.12](//images.ctfassets.net/alneenqid6w5/1xXBCG7xjBUz1CEmHVoOhc/cf0bf48f2653f8688c97fd20f0d16287/Screen_Shot_2019-01-25_at_18.22.12.png)
 
 La información describe la siguiente información de interfaz:
 
@@ -221,7 +221,7 @@ Es hora de visitar el archivo blocks.json de Dreamstore y entender cómo todo el
 
 ### Estructurando y configurando nuestra tienda con el `StoreBuilder`
 
-![Codigo voando blocks.mp4](https://images.ctfassets.net/alneenqid6w5/7FiPuNIljcVgvS8zIwKD5f/7f5b67d4f7314afc404680a96e5f3680/Codigo_voando_blocks.mp4.gif)
+![Codigo voando blocks.mp4](//images.ctfassets.net/alneenqid6w5/7FiPuNIljcVgvS8zIwKD5f/7f5b67d4f7314afc404680a96e5f3680/Codigo_voando_blocks.mp4.gif)
 
 Abra `/ blocks.json` y encuentre nuestro ya conocido `store.home`. Vamos a empezar analizando el primer bloque dentro de `store.home : carrossel#home`.
 
@@ -244,12 +244,12 @@ Es fácil ver cuán poderoso el constructor de tiendas puede ser cuando añadimo
   ```
 
 ### Estilizando nuestra tienda con el `StylesBuilder`
-![StyleBuilder.mp4](https://images.ctfassets.net/alneenqid6w5/5a9gZSPvWcVRIzdEbVo3k2/7ae4968655fa1a1919da1612fc490761/StyleBuilder.mp4.gif)
+![StyleBuilder.mp4](//images.ctfassets.net/alneenqid6w5/5a9gZSPvWcVRIzdEbVo3k2/7ae4968655fa1a1919da1612fc490761/StyleBuilder.mp4.gif)
 
 
 El StylesBuilder es simple de entender porque toma su archivo styles.json durante el build y utiliza el generador de [Tachyons](https://tachyons.io/) para producir el CSS de su tienda.
 
 Diseñamos el StylesBuilder para ser extremadamente intuitivo y autoexplicativo. Es tan simple como ajustar los códigos hexadecimales adecuadamente y ver los resultados en toda la tienda.
 
-![Screen Shot 2019-01-28 at 00.40.17](https://images.ctfassets.net/alneenqid6w5/3JswKIv8jfYAyZCgmhfZhB/8208650f2907bb300e1ae83199490892/Screen_Shot_2019-01-28_at_00.40.17.png)
+![Screen Shot 2019-01-28 at 00.40.17](//images.ctfassets.net/alneenqid6w5/3JswKIv8jfYAyZCgmhfZhB/8208650f2907bb300e1ae83199490892/Screen_Shot_2019-01-28_at_00.40.17.png)
 

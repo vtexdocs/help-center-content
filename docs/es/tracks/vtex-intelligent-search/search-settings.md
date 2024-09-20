@@ -1,10 +1,10 @@
 ---
 title: 'Configuración de la búsqueda'
 id: 5t75L6lYNwix93l41s1Yrx
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-08-17T19:50:20.729Z
-updatedAt: 2024-04-25T17:06:18.124Z
-publishedAt: 2024-04-25T17:06:18.124Z
+updatedAt: 2024-09-06T20:14:21.133Z
+publishedAt: 
 firstPublishedAt: 2020-09-28T20:51:58.291Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -36,7 +36,7 @@ La configuración general presenta las siguientes opciones relativas a [las espe
 
 La configuración de facetas presenta ajustes relacionados con las [facetas](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) mostradas a los clientes de tu tienda durante la búsqueda:
 
-![Configuracion del filtro](https://images.ctfassets.net/alneenqid6w5/mSm3lqR5H5pTn1AVrhYk8/9da57a4e5ca6deae770e223ab7fae366/configuraciones_de_filtro_es.png)
+![Configuracion del filtro](//images.ctfassets.net/alneenqid6w5/mSm3lqR5H5pTn1AVrhYk8/9da57a4e5ca6deae770e223ab7fae366/configuraciones_de_filtro_es.png)
 
 * **Orden de las facetas:** orden en el que se mostrarán las facetas en la tienda. Si no hay ninguna faceta seleccionada en la sección, el orden predeterminado es alfabético.
 

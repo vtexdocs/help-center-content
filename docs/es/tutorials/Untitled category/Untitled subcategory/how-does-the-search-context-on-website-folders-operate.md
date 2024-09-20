@@ -39,7 +39,7 @@ Usando el mismo ejemplo anterior, si creamos una carpeta denominada **mi-landing
 
 ### Configuración
 
-![](https://images.contentful.com/alneenqid6w5/ZvEGMDPUs0OsuCkoUsqqS/4411604b8b78124edcbacd46cc45ed53/ContextoDeBusca.PNG "Contexto de Busca")
+![](//images.contentful.com/alneenqid6w5/ZvEGMDPUs0OsuCkoUsqqS/4411604b8b78124edcbacd46cc45ed53/ContextoDeBusca.PNG "Contexto de Busca")
 
 **Importante**:
 

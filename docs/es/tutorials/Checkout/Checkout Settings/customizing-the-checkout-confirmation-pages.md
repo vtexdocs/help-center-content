@@ -15,7 +15,7 @@ legacySlug: personalizando-las-paginas-del-checkout-confirmation
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-![Página de confirmação de pedido (Order Placed)](https://images.contentful.com/alneenqid6w5/n7VvdVmseGQyGwCEQAIiW/90bd066111747fe05d722e6fad172d14/cconf-hml1.png) 
+![Página de confirmação de pedido (Order Placed)](//images.contentful.com/alneenqid6w5/n7VvdVmseGQyGwCEQAIiW/90bd066111747fe05d722e6fad172d14/cconf-hml1.png) 
 
 Con la nueva sección de Mis Pedidos viene una nueva página de confirmación de pedido, que ahora es parte del **Checkout Confirmation**, feature responsable por las páginas de confirmación del Checkout.
 
@@ -25,7 +25,7 @@ Además de la orden colocada, otra página es el Order Changed, que muestra la c
 
 Al igual que en versiones anteriores, la página de Order Placed (y también la de Order Changed) acepta **templates de HTML**:
 
-![Página de confirmação de pedido com imports de HTML](https://images.contentful.com/alneenqid6w5/2HXuJJE5yMCUIaeCMoOOa8/1e947bf46ec9202214867219ba36677a/cconf-html-2.png)
+![Página de confirmação de pedido com imports de HTML](//images.contentful.com/alneenqid6w5/2HXuJJE5yMCUIaeCMoOOa8/1e947bf46ec9202214867219ba36677a/cconf-html-2.png)
  
 Para añadir su código a estes templates, basta con acceder al módulo Portal y, en la pestaña **Code**, editar los siguientes archivos:
 
@@ -34,7 +34,7 @@ Para añadir su código a estes templates, basta con acceder al módulo Portal y
 - **checkout-confirmation-header**
 - **checkout-confirmation-top**
 
-![Página do Portal v2 com arquivos de template corretos destacados](https://images.contentful.com/alneenqid6w5/5jGk1WbMqkkggyAog66iAs/c1162190ef431b8c96462fb34355aa98/cconf-html3.png)
+![Página do Portal v2 com arquivos de template corretos destacados](//images.contentful.com/alneenqid6w5/5jGk1WbMqkkggyAog66iAs/c1162190ef431b8c96462fb34355aa98/cconf-html3.png)
 
 Es importante recordar que los templates para personalización son los mismos para Order Placed y Order Confirmation.
 
@@ -44,7 +44,7 @@ Es importante recordar que los templates para personalización son los mismos pa
 
 También se puede editar la interfaz del Checkout Confirmation mediante clases CSS. Sus estilos se deben agregar en una tag `<style>` en uno de los templates HTML cargadas en la página.
 
-![Página de OrderPlaced do Checkout Confirmation com classes de customização marcadas](https://images.contentful.com/alneenqid6w5/OgLXDC0eyaOc4iKGmSkgS/a698e4da05726f33659d0ea88d0b1278/cconf-doc-2.png)
+![Página de OrderPlaced do Checkout Confirmation com classes de customização marcadas](//images.contentful.com/alneenqid6w5/OgLXDC0eyaOc4iKGmSkgS/a698e4da05726f33659d0ea88d0b1278/cconf-doc-2.png)
 
 Para personalizar los estilos del Checkout Confirmation, utilize las clases abajo:
 

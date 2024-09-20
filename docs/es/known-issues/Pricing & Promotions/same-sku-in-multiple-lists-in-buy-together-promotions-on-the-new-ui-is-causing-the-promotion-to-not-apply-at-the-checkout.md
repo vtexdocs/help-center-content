@@ -3,8 +3,8 @@ title: "El mismo SKU en varias listas de promociones 'Comprar juntos' en la nuev
 id: 4M9UZhQqkU4Tl07lyLPtMt
 status: PUBLISHED
 createdAt: 2024-09-03T10:55:07.063Z
-updatedAt: 2024-09-03T16:20:49.709Z
-publishedAt: 2024-09-03T16:20:49.709Z
+updatedAt: 2024-09-10T12:15:48.590Z
+publishedAt: 2024-09-10T12:15:48.590Z
 firstPublishedAt: 2024-09-03T10:55:07.909Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: el-mismo-sku-en-varias-listas-de-promociones-comprar-juntos-en-la-nueva-interfaz-de-usuario-hace-que-la-promocion-no-se-aplique-en-la-caja
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1091209
 ---
 

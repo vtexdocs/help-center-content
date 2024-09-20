@@ -31,7 +31,7 @@ Toda vez que há alguma alteração como as listadas abaixo em um produto, a rei
 
 Uma vez que o produto esteja marcado para reindexar, ele fica com o status _indexação pendente_ na listagem de produtos do Admin VTEX. O indexador coloca esses produtos em uma fila, com um tempo de espera de 2 minutos, para que sejam processados. Após os 2 minutos, o produto fica disponível para o consumo da indexação. Nesse processo, todos os módulos da VTEX são consultados, atualizando preço e disponibilidade para cada política comercial. O tempo médio até a finalização desse processo é de 4 minutos.
 
-![](https://images.contentful.com/alneenqid6w5/YdTfy83vaMCSCoUwUGsay/b5636eeb2cbf51ed0a5211c28f921ad5/Diagrama_sem_t_tulo__1_.png)
+![](//images.contentful.com/alneenqid6w5/YdTfy83vaMCSCoUwUGsay/b5636eeb2cbf51ed0a5211c28f921ad5/Diagrama_sem_t_tulo__1_.png)
 
 ## Relatório de Indexação
 
@@ -46,7 +46,7 @@ Nele, são divididos os produtos em cada passo do processo de indexação e em p
 - **Total Indexado**, **Ainda não enfileirado** e **Total na Fila**: dizem respeito aos estágios do produto dentro do processo &#8211; Ainda não enfileirado são os produtos que foram alterados em menos de 2 minutos e Total na fila são aqueles que já entraram no processo de indexação, após esses 2 minutos.
 - **Na fila recentemente**, **Na fila entre 1 e 4 horas**, **Na fila de 4 a 8 horas** e **Na fila há mais de 8 horas**: são os períodos em que os produtos estão no processo de indexação.
 
-![RelatorioIndexação](https://images.contentful.com/alneenqid6w5/6Y212qGxIAU4KWuWw8Uou2/306e536e7b5196abf04513915550a9f6/RelatorioIndexa_C3_A7_C3_A3o.png)
+![RelatorioIndexação](//images.contentful.com/alneenqid6w5/6Y212qGxIAU4KWuWw8Uou2/306e536e7b5196abf04513915550a9f6/RelatorioIndexa_C3_A7_C3_A3o.png)
 
 O relatório de indexação exibe o tempo que o último item levou para ser reindexado no lado superior direito do relatório, conforme imagem acima. 
 

@@ -34,7 +34,7 @@ Asegúrese de que el valor se ha insertado siguiendo los pasos abajo:
 4. Acceda a la sesión __"¿Cuáles son las condiciones para la promoción sea válida?"__;
 5. Compruebe qué clústeres están registrados en __"Clúster de clientes"__;
 
-![ES - 7GcSb6BuF6JKnmGAggO3uA](https://images.ctfassets.net/alneenqid6w5/5mX30OM2efHdMldl5xHS6A/9a8352287ca7193f213098189a182abe/Cluster-promo-ES.png)
+![ES - 7GcSb6BuF6JKnmGAggO3uA](//images.ctfassets.net/alneenqid6w5/5mX30OM2efHdMldl5xHS6A/9a8352287ca7193f213098189a182abe/Cluster-promo-ES.png)
 
 6. Introduzca los __nuevos datos__;
 7. Haga clic en __Guardar__.!

@@ -1,10 +1,10 @@
 ---
 title: 'Detaching SKUs by specification'
 id: 5uVxuWxTA8VvLX3G8UCcUE
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-09-09T16:19:19.390Z
-updatedAt: 2021-03-10T18:03:14.865Z
-publishedAt: 2021-03-10T18:03:14.865Z
+updatedAt: 2024-09-06T20:14:37.216Z
+publishedAt: 
 firstPublishedAt: 2020-09-28T20:54:49.196Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -24,7 +24,7 @@ This tool is useful for clothing stores as it allows you to display the products
 
 See the following example of detaching SKUs by color. In the image below, the featured sandals are available in two different colors in the search results:
 
-![screencapture-footnotes-sandals-2021-02-11-14 21 21](https://images.ctfassets.net/alneenqid6w5/3wDeiYyhcz0BNUyJrDo7zI/234e5508195490b55170e047dd6a9377/screencapture-footnotes-sandals-2021-02-11-14_21_21.png)
+![screencapture-footnotes-sandals-2021-02-11-14 21 21](//images.ctfassets.net/alneenqid6w5/3wDeiYyhcz0BNUyJrDo7zI/234e5508195490b55170e047dd6a9377/screencapture-footnotes-sandals-2021-02-11-14_21_21.png)
 
 >ℹ️ If search results are sorted by relevance, the SKUs of a given product will be grouped together. In other words, they will be displayed side by side.
 

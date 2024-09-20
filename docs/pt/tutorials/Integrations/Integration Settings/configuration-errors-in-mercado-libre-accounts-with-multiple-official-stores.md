@@ -27,7 +27,7 @@ Nesse cenário, caso um cliente do Mercado Livre faça uma compra com dois ou ma
 
 A VTEX não recomenda esse tipo de configuração porque os pedidos nesse cenário não irão integrar.
 
-![cenario problema](https://images.contentful.com/alneenqid6w5/5DYri1Pw4wLdVV2g6kIUTP/11dad204a77517227931d73f5f2bb100/cenario_problema.JPG)
+![cenario problema](//images.contentful.com/alneenqid6w5/5DYri1Pw4wLdVV2g6kIUTP/11dad204a77517227931d73f5f2bb100/cenario_problema.JPG)
 
 Entretanto, existem dois cenários na integração das lojas VTEX com o Mercado Livre que podem evitar que esse conflito aconteça. Para isso é necessário que sua loja tenha as seguintes configurações:
 
@@ -40,7 +40,7 @@ O seller utiliza uma única subaccount na VTEX e integra com uma única conta no
 
 Nesse cenário, caso um usuário faça uma compra no Mercado Livre com dois ou mais produtos no carrinho das diferentes lojas oficiais da conta do seller, o pedido será importado na VTEX sem problemas. Isso acontece porque os produtos que estão sendo anunciados no Mercado Livre fazem parte do catálogo de uma única subaccount VTEX.
 
-![cenario ideal](https://images.contentful.com/alneenqid6w5/6aVRPYSaLIYnIknsdqzCFz/8b8f5380a55d4b0e494f6599918e073f/cenario_ideal.JPG)
+![cenario ideal](//images.contentful.com/alneenqid6w5/6aVRPYSaLIYnIknsdqzCFz/8b8f5380a55d4b0e494f6599918e073f/cenario_ideal.JPG)
 
 ## Múltiplas subaccounts VTEX e múltiplas lojas oficiais
 
@@ -48,4 +48,4 @@ O seller VTEX possui duas ou várias sub accounts e utiliza cada uma delas para 
 
 Nesse cenário, caso um usuário faça uma compra no Mercado Livre com dois ou mais produtos no mesmo carrinho pertencentes a subaccounts diferentes, os pedidos serão integrados normalmente em cada sub account na VTEX. Isso ocorre já que cada pedido gerado no Mercado Livre está vinculado a uma subaccount diferente na VTEX, portanto  os produtos vendidos coincidem com o catálogo de cada subaccount.
 
-![cenario atual](https://images.contentful.com/alneenqid6w5/73HsUcU7h3BwDNlTGeB1kq/7a52aa2da4fb12abfbad86abd70bc9d2/cenario_atual.JPG)
+![cenario atual](//images.contentful.com/alneenqid6w5/73HsUcU7h3BwDNlTGeB1kq/7a52aa2da4fb12abfbad86abd70bc9d2/cenario_atual.JPG)

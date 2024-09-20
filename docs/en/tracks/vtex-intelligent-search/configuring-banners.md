@@ -1,10 +1,10 @@
 ---
 title: 'Configuring Banners'
 id: 4ViKEivLJtJsvpaW0aqIQ5
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2019-11-27T16:34:24.404Z
-updatedAt: 2024-01-30T21:59:49.330Z
-publishedAt: 2024-01-30T21:59:49.330Z
+updatedAt: 2024-09-06T20:14:05.608Z
+publishedAt: 
 firstPublishedAt: 2020-03-05T19:58:30.009Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -26,7 +26,7 @@ After configuring the banner, you have to add it to a page on your store. To do 
 
 >ℹ️ This feature is available on VTEX Intelligent Search Multilanguage. For more information, please refer to our article [VTEX Intelligent Search: Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-multilanguage-settings-beta--2WahlTESLXIJ9XBdQMdTYO#banners).
 
-![banner-form-en](https://images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/306bbd26bcadab589aeabe91903b0bcc/image.png)
+![banner-form-en](//images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/306bbd26bcadab589aeabe91903b0bcc/image.png)
 
 ## Banner fields
 
@@ -57,7 +57,7 @@ To add a banner, the following fields need to be completed:
 
 Click <i class="fas-solid fa-link"></i> `Autofill from URL` to add the URL of the search page to the trigger rules that will be applied.
 
-![banner-url-en](https://images.ctfassets.net/alneenqid6w5/2ldGnmahkPao4EbISls3gu/326bfe62f7a49e6f1bd34c7cbe5f6b6a/image.png)
+![banner-url-en](//images.ctfassets.net/alneenqid6w5/2ldGnmahkPao4EbISls3gu/326bfe62f7a49e6f1bd34c7cbe5f6b6a/image.png)
 
 Click <i class="fas fa-plus"></i> `Add condition` to create a rule. Rules can be of two types:
 

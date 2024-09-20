@@ -3,8 +3,8 @@ title: 'Scheduling prices'
 id: 4vVha6TGzYkguWuMOqCcCk
 status: PUBLISHED
 createdAt: 2017-12-27T16:18:43.304Z
-updatedAt: 2023-06-02T20:58:08.343Z
-publishedAt: 2023-06-02T20:58:08.343Z
+updatedAt: 2024-09-06T19:59:43.713Z
+publishedAt: 2024-09-06T19:59:43.713Z
 firstPublishedAt: 2018-01-04T15:12:09.343Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -54,9 +54,9 @@ To schedule prices in the Admin, please follow the steps below.
 
 You can also schedule prices by importing a fixed price template. To do this, please follow the steps below:
 
-1. In the VTEX Admin, go to *Prices > Price list*, or type *Price list* in the search bar at the top of the page.
+1. In the VTEX Admin, go to **Prices > Price list**, or type **Price list** in the search bar at the top of the page.
 2. Click on the 📥 icon to export the template to be filled in.
-![Agendar preços - EN](https://images.contentful.com/alneenqid6w5/5pBmnKfaoig59962PcNFQq/1fea4935c2c88aebabfa0a505fe4245d/image.png)
+![Agendar preços - EN](//images.contentful.com/alneenqid6w5/5pBmnKfaoig59962PcNFQq/1fea4935c2c88aebabfa0a505fe4245d/image.png)
 3. Select only the **Fixed prices table** option.
 4. Click on `Export 1 table`.
 
@@ -70,7 +70,9 @@ The template will be sent to your email and you can download it. After downloadi
 - **Date from:** the date and time from which the fixed price will be valid, in [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format. -
 - **Date to:** the date and time from which the fixed price will no longer be valid, in [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format.
 
-![Agendar preço fixo planilha PT](https://images.contentful.com/alneenqid6w5/7g3wkpsDPcdjYHT2xSqGhS/1895766def1ed02971f47f003d115491/Screenshot_2021-08-05_at_17-17-11_-EDU-4229-_Agendar_pre__o_fixo.png)
+>ℹ️ The **Date From** and **Date To** fields follow the [RFC3339](https://www.ietf.org/rfc/rfc3339.txt" target="_blank) format, which includes the time zone. For example, if a promotion starts or ends at 10:00 PM on December 30, 2024, in Argentina (time zone GMT-3), the value to be entered will be: `2024-12-30T22:00:00-03:00`. If the time zone is not specified, the system will assume UTC. To indicate a price valid from midnight (00:00) UTC on the same day, the field should contain: `2024-12-30T00:00:00Z`.
+
+![Agendar preço fixo planilha PT](//images.contentful.com/alneenqid6w5/7g3wkpsDPcdjYHT2xSqGhS/1895766def1ed02971f47f003d115491/Screenshot_2021-08-05_at_17-17-11_-EDU-4229-_Agendar_pre__o_fixo.png)
 
 Once you have finished filling in the template, you must import it into the store. Please follow the steps below:
 

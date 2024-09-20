@@ -1,10 +1,10 @@
 ---
-title: 'Pagos Data Pipeline (Beta)'
+title: 'Pagos Data Pipeline'
 id: 7LWkFaA1jPabzc5JAt1rGs
 status: PUBLISHED
 createdAt: 2024-02-02T17:53:35.949Z
-updatedAt: 2024-09-02T19:28:13.182Z
-publishedAt: 2024-09-02T19:28:13.182Z
+updatedAt: 2024-09-13T17:31:09.050Z
+publishedAt: 2024-09-13T17:31:09.050Z
 firstPublishedAt: 2024-05-27T19:26:59.478Z
 contentType: tutorial
 productTeam: Others
@@ -96,4 +96,5 @@ Los datos de pago de la plataforma VTEX muestran correlaciones con otros conjunt
 - [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
 - [Precios](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
 - [Promociones](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-
+- [Tarjeta de regalo](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Registro del Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
