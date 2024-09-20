@@ -39,5 +39,5 @@ Não se preocupe: desligar essa opção não significa que sua loja estará desp
 
 >ℹ️ Se após estes passos o seu Admin ou loja ainda não carregarem, sugerimos que tente acessá-lo com outro navegador.  
 
-![Firefox bug PT](https://images.ctfassets.net/alneenqid6w5/4EZo0FaHBx1DfbSrGVpbku/4ec41440848f1adad3924c07d5154369/Firefox_bug_PT.jpg)
+![Firefox bug PT](//images.ctfassets.net/alneenqid6w5/4EZo0FaHBx1DfbSrGVpbku/4ec41440848f1adad3924c07d5154369/Firefox_bug_PT.jpg)
 

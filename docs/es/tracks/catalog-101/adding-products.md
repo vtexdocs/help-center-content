@@ -30,7 +30,7 @@ En el Admin VTEX, realice los siguientes pasos:
 4. Rellene los campos del formulario de producto. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre los [campos de registro de producto](https://help.vtex.com/es/tutorial/campos-de-registro-de-producto--4dYXWIK3zyS8IceKkQseke).
 5. Haga clic en `Guardar` o `Guardar y registrar nuevo SKU`, si quiere agregar SKUs asociados a este producto.
 
-![Catalogo - Cadastrar produto ES.gif?h=250](https://images.ctfassets.net/alneenqid6w5/IaFCYaexWNcL8nMvkI1Ya/1704449927dee788756723f216072b92/Catalogo_-_Cadastrar_produto_ES.gif_h_250)
+![Catalogo - Cadastrar produto ES.gif?h=250](//images.ctfassets.net/alneenqid6w5/IaFCYaexWNcL8nMvkI1Ya/1704449927dee788756723f216072b92/Catalogo_-_Cadastrar_produto_ES.gif_h_250)
 
 ## Plantilla
 

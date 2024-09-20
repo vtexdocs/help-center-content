@@ -55,7 +55,7 @@ Después de instalar VTEX Insurance, necesitas preparar el catálogo para inclui
 5. Después de crear el campo **Garantía del fabricante**, establece el período de garantía deseado. En el campo **Valor predeterminado**, se recomienda el valor 12, que representa un rango de 12 meses.
 6. [Crea una categoría]https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3UYjVS03JbleGPh0Ckpic1) específica para el producto del seguro. 
 7. [Crea el producto](https://help.vtex.com/es/tutorial/productos-y-skus-beta--2ig7TmROlirWirZjFWZ3B) del seguro.
-8. [Crea los SKU](https://help.vtex.com/es/tutorial/campos-de-registro-de-sku--21DDItuEQc6mseiW8EakcY) del seguro. Se recomienda crear más de tres SKU para cada seguro.![Valores Permitidos](https://images.ctfassets.net/alneenqid6w5/7DTx1xSHfrWWPCCvVHjJ8z/db89bae8fd2b247707a557c9aa253285/image1.png)
+8. [Crea los SKU](https://help.vtex.com/es/tutorial/campos-de-registro-de-sku--21DDItuEQc6mseiW8EakcY) del seguro. Se recomienda crear más de tres SKU para cada seguro.![Valores Permitidos](//images.ctfassets.net/alneenqid6w5/7DTx1xSHfrWWPCCvVHjJ8z/db89bae8fd2b247707a557c9aa253285/image1.png)
 9. [Vincula los SKU](https://help.vtex.com/es/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX) creados con el seller de Assurant.
 10. [Vincula el seguro con el producto](https://help.vtex.com/es/tutorial/registrar-especificaciones-o-campos-de-producto--tutorials_106) deseado.
 
@@ -68,7 +68,7 @@ Una vez preparado el catálogo, los productos de tu tienda ya estarán vinculado
 Sigue los pasos a continuación para configurar la aplicación VTEX Insurance.
 
 ### Información de la empresa
-![Insurance Configuration](https://images.ctfassets.net/alneenqid6w5/27tKnogbpFLSaeGPW4OnkZ/1158b7f84241410fbd3edc81400ff5a5/image5.png)
+![Insurance Configuration](//images.ctfassets.net/alneenqid6w5/27tKnogbpFLSaeGPW4OnkZ/1158b7f84241410fbd3edc81400ff5a5/image5.png)
 1. Rellena los siguientes campos:
 - **Email**: email de la tienda
 - **Nombre**: nombre de la tienda
@@ -82,7 +82,7 @@ Sigue los pasos a continuación para configurar la aplicación VTEX Insurance.
 2. Haz clic en `Enviar`.
 
 ### Ítems vinculados a seguros
-![Items Bound to Source Items](https://images.ctfassets.net/alneenqid6w5/6E68A1BaKeUzAgZuzD7KIY/7fd57ef26b0320e745bb81736d76707e/image2.png)
+![Items Bound to Source Items](//images.ctfassets.net/alneenqid6w5/6E68A1BaKeUzAgZuzD7KIY/7fd57ef26b0320e745bb81736d76707e/image2.png)
 
 1. Selecciona los códigos que representan los tipos de seguro deseados para la colección creada. 
 
@@ -91,13 +91,13 @@ Si deseas vincular más de un tipo de seguro, como el de **Robo y hurto agravado
 3. Haz clic en `Enviar`.
 
 ### Nombre del campo de la garantía
-![Warranty Field Name](https://images.ctfassets.net/alneenqid6w5/215SqlxeJ3yFSZjfGnuJRl/90a5985112d73bbd552e553353790899/image8.png)
+![Warranty Field Name](//images.ctfassets.net/alneenqid6w5/215SqlxeJ3yFSZjfGnuJRl/90a5985112d73bbd552e553353790899/image8.png)
 
 1. En el campo de garantía del fabricante ingresa el nombre de la garantía utilizado en el catálogo.
 2. Haz clic en `Enviar`.
 
 ### Configuración de anexos VTEX Insurance 
-![Attachement Setup](https://images.ctfassets.net/alneenqid6w5/7wpyDOdmdsK2VqOOUbqrfr/853b158cfce470f32cceb2489564ac54/insurance_attachement_setup.png)
+![Attachement Setup](//images.ctfassets.net/alneenqid6w5/7wpyDOdmdsK2VqOOUbqrfr/853b158cfce470f32cceb2489564ac54/insurance_attachement_setup.png)
 
 1. [Crea un anexo](https://help.vtex.com/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU) para Assurant con la información enviada por el equipo de soporte al contratar el servicio.
 
@@ -111,7 +111,7 @@ Si deseas vincular más de un tipo de seguro, como el de **Robo y hurto agravado
 
 ### Configuración de precios manual
 
-![Manual Pricing](https://images.ctfassets.net/alneenqid6w5/a1wDUYo5UhkR09keQU6WG/fa85e9cdf6064218cf182242475056c8/image11.png)
+![Manual Pricing](//images.ctfassets.net/alneenqid6w5/a1wDUYo5UhkR09keQU6WG/fa85e9cdf6064218cf182242475056c8/image11.png)
 
 1. [Activa la configuración de precios manual](https://help.vtex.com/es/tutorial/cambiar-el-precio-de-un-item-en-el-carrito-de-compras--7Cd37aCAmtL1qmoZJJvjNf) en tu tienda.
 2. Haz clic en `Continuar`.

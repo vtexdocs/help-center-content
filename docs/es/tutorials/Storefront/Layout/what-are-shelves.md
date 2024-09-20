@@ -23,7 +23,7 @@ Estantes son elementos configurables que muestran una agrupación de productos e
 
 Los estantes se estructuran a partir de código HTML, organizados en [templates](/es/tutorial/que-son-templates) específicos, llamados Templates de Estante ("__Shelves Templates__"). Se encuentran en la carpeta **CMS**, en el [módulo Layout](/es/faq/que-es-el-cms). Es en esta carpeta que usted podrá crear nuevos templates y editar los que ya existen.
 
-![Shelves Templates](https://images.contentful.com/alneenqid6w5/4pIuR3BWKQisWuos4gcCWS/ade52c1df88c9e371169df99776b0779/Shelves_Template-min.png)
+![Shelves Templates](//images.contentful.com/alneenqid6w5/4pIuR3BWKQisWuos4gcCWS/ade52c1df88c9e371169df99776b0779/Shelves_Template-min.png)
 
 Por ser un elemento que puede ser utilizado en más de una página, este tipo especial de template (Template de Estante) se almacena en carpetas diferentes de los otros tipos (HTML Templates y Sub Templates). Así, es posible mantener la organización de los archivos y, consecuentemente, del código de su web site.
 

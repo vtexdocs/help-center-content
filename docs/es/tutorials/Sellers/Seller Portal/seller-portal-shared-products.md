@@ -29,7 +29,7 @@ Para acceder a la funcionalidad «Productos compartidos», acceda a la pestaña 
 
 ## Importados
 
-![Shared products Importados EN](https://images.ctfassets.net/alneenqid6w5/2mmTwK1Kn3g8TPOICMMMk8/cde09ee87d8f119009fbc0b8cb8c5fef/Shared_products_Importados_ES.jpg)
+![Shared products Importados EN](//images.ctfassets.net/alneenqid6w5/2mmTwK1Kn3g8TPOICMMMk8/cde09ee87d8f119009fbc0b8cb8c5fef/Shared_products_Importados_ES.jpg)
 
 La pestaña «Importados» reúne los productos del catálogo del marketplace que ya han sido importados por el seller, es decir, que ya pueden convertirse en anuncios. La lista contiene una barra de búsqueda que permite buscar productos por nombre o SKU. А través de esta pestaña se activan los productos.  
 
@@ -39,7 +39,7 @@ Al hacer clic en un producto de la lista, accederá a la página [Detalles del P
 
 ## Disponibles
 
-![Shared products Disponíveis ES](https://images.ctfassets.net/alneenqid6w5/1MIr5t82Ncx9ssV5oT2eyw/0568df604b5d3754bd8f3b802dd646b1/Shared_products_Dispon__veis_ES.jpg)
+![Shared products Disponíveis ES](//images.ctfassets.net/alneenqid6w5/1MIr5t82Ncx9ssV5oT2eyw/0568df604b5d3754bd8f3b802dd646b1/Shared_products_Dispon__veis_ES.jpg)
 
 La pestaña «Disponibles» reúne los productos del catálogo del marketplace que se han puesto a disposición del seller para su venta y que aún no se han incorporado a su catálogo. Puede filtrar los productos disponibles por marca o categoría para agilizar el proceso de importación de los productos seleccionados. 
 

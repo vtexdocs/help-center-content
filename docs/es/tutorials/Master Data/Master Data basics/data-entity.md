@@ -19,7 +19,7 @@ Una entidad de datos es una representación de un conjunto de información sobre
 
 Para ilustrarlo, imaginemos un sistema de control de bibliotecas. Este sistema controla los libros que los clientes pueden tomar prestados. En este ejemplo, los conceptos libro, cliente y préstamo (alquiler) son entidades que poseen informaciones sobre cada una de ellas. Una entidad de datos, por lo tanto, es un grupo de información sobre un determinado concepto.
 
-![data-entity-es](https://images.ctfassets.net/alneenqid6w5/4w7gskl1jpuzrFm4gj5K0J/be338269e04b9d5835cda9a16ec9b601/data-entity-es.png)
+![data-entity-es](//images.ctfassets.net/alneenqid6w5/4w7gskl1jpuzrFm4gj5K0J/be338269e04b9d5835cda9a16ec9b601/data-entity-es.png)
 
 Estos conceptos permiten configurar los más diversos escenarios de control de datos en Master Data. De forma predeterminada, se ingresan las siguientes entidades de datos: Cliente, Dirección, Tiendas, etc. Puedes crear todas las entidades de datos que desees para personalizar el entorno de acuerdo con las necesidades de cada tienda.
 

@@ -38,7 +38,7 @@ El cálculo del peso volumétrico se realiza efectuando la multiplicación de la
 
 Vea el ejemplo siguiente:
 
-![example_cubic_weight_es](https://images.contentful.com/alneenqid6w5/3KZDUQlPBYEY8mSwqQgW6k/15cef41598f4fc1359f482cddbcca756/pesocubado.jpg)
+![example_cubic_weight_es](//images.contentful.com/alneenqid6w5/3KZDUQlPBYEY8mSwqQgW6k/15cef41598f4fc1359f482cddbcca756/pesocubado.jpg)
 
 - __Dimensiones del paquete:__ `50cm x 60cm x 15cm`
 - __Peso mínimo del paquete:__ `9kg`
@@ -53,7 +53,7 @@ O sea, si el valor ofrecido por su compañía es `6.000`, es necesario realizar 
 
 Ese es el valor que usted debe llenar en el campo Factor de peso volumétrico en su [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
 
-![cubic_weight_ES](https://images.ctfassets.net/alneenqid6w5/44WaAckgByWYgyYGXtEoOj/034836d577be3c7f920c2b195b255adb/cubic_weight_ES.png)
+![cubic_weight_ES](//images.ctfassets.net/alneenqid6w5/44WaAckgByWYgyYGXtEoOj/034836d577be3c7f920c2b195b255adb/cubic_weight_ES.png)
 
 Por lo tanto, el cálculo final sería:
 

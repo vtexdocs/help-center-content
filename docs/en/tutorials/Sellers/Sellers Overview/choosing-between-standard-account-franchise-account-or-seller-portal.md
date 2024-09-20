@@ -3,8 +3,8 @@ title: 'Choosing between standard account, franchise account or Seller Portal'
 id: 4S90HzzhMyZESsHqrnUs78
 status: PUBLISHED
 createdAt: 2022-04-20T14:15:50.164Z
-updatedAt: 2023-11-22T14:09:05.122Z
-publishedAt: 2023-11-22T14:09:05.122Z
+updatedAt: 2024-09-16T16:41:20.164Z
+publishedAt: 2024-09-16T16:41:20.164Z
 firstPublishedAt: 2022-04-27T21:42:35.010Z
 contentType: tutorial
 productTeam: Channels
@@ -68,8 +68,8 @@ See below for comparisons explaining how the Seller Portal, standard accounts an
 
 | **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
 |---------- | ---------- | ---------- | ---------- |
-| Sellers can create [promotions](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N) | Sellers cannot create promotions, but the VTEX marketplace can configure promotions to be applied to the seller's products. | Can create and configure promotions, and run promotion simulations. | Can create and configure promotions, and run promotion simulations. |
-| Determining the channel for promotions | Sellers cannot create promotions. | Yes. | Yes. |
+| Sellers can create [promotions](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N) | The seller creates and configures promotions directly in the Seller Portal. For more details about the creation process, refer to the document [Seller Portal: Create a promotion](https://help.vtex.com/en/tutorial/seller-portal-creating-a-promotion--kzNPEaiJE8EWkDzO9dbBI). | Can create and configure promotions, and run promotion simulations. | Can create and configure promotions, and run promotion simulations. |
+| Determining the channel for promotions | Sellers create promotions. | Yes. | Yes. |
 | The VTEX marketplace can create promotions for sellers’ products | Yes. | Yes. | Yes. |
 
 ## Payments

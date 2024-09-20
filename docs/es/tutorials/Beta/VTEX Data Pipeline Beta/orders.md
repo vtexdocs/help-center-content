@@ -3,8 +3,8 @@ title: 'Pedidos Data Pipeline (Beta)'
 id: 2f3GlRJ5L5IRGVIxOmzrFv
 status: PUBLISHED
 createdAt: 2024-02-02T17:58:53.962Z
-updatedAt: 2024-09-02T19:28:13.093Z
-publishedAt: 2024-09-02T19:28:13.093Z
+updatedAt: 2024-09-13T17:49:49.921Z
+publishedAt: 2024-09-13T17:49:49.921Z
 firstPublishedAt: 2024-05-27T19:26:59.238Z
 contentType: tutorial
 productTeam: Others
@@ -49,7 +49,7 @@ En esta sección puedes consultar la siguiente información:
 |**Historial**|Los datos se conservan durante dos años, a partir de 2022 para los clientes que ya utilizan la plataforma VTEX.|
 |**Intervalo mínimo de actualización**|Una hora.|
 
-## Tabla orders_latest
+## Tabla `orders_latest`
 
 La tabla `latest` almacena el status más reciente de cada pedido, incluyendo detalles como fecha de actualización, ID del pedido y la información del cliente.  
 Consulta a continuación los campos que componen la tabla:  
@@ -109,7 +109,7 @@ Consulta a continuación los campos que componen la tabla:
 | **changesattachment_changesdata** | super | Datos de los cambios realizados en el pedido. |
 | **shippingdata_postal_code** | character varying(256) | Código postal de la dirección de envío del pedido. |  
 
-## Tabla orders_historical
+## Tabla `orders_historical`
 
 La tabla `historical` almacena un registro completo de todas las actualizaciones de pedidos.  
 Consulta a continuación los campos que componen la tabla:
@@ -169,7 +169,7 @@ Consulta a continuación los campos que componen la tabla:
 | **changesattachment_changesdata** | super | Detalles de los cambios realizados en el pedido, como agregar o remover ítems, así como otras modificaciones. |
 | **shippingdata_postal_code** | character varying(256) | Código postal de la dirección de envío del pedido. |
 
-## Tabla orders_totals
+## Tabla `orders_totals`
 
 La tabla `totals` proporciona un resumen de los valores totales asociados a cada pedido, incluido el valor total del pedido, descuentos aplicados e impuestos.  
 Consulta a continuación los campos que componen la tabla:  
@@ -186,7 +186,7 @@ Consulta a continuación los campos que componen la tabla:
 | **totals_value** | double precision | Valor numérico asociado a los totales de pedido, como valor total, subtotal, impuestos, descuentos, etc. |
 | **batch_id** | character varying(13) | Identificador referente a la carga de datos en la tabla para control de calidad de la ingesta de datos. |  
 
-## Tabla orders_shipping  
+## Tabla `orders_shipping`  
 
 En la tabla `shipping` se detalla la información de envío de pedidos, como dirección de entrega, gastos de envío y proveedores de servicios logísticos.  
 Consulta a continuación los campos que componen la tabla:  
@@ -220,7 +220,7 @@ Consulta a continuación los campos que componen la tabla:
 | **batch_id** | character varying(13) | Identificador referente a la carga de datos en la tabla para control de calidad de la ingesta de datos. |
 | **shippingdata_postal_code** | character varying(256) | Código postal de la dirección de envío del pedido. |
 
-## Tabla orders_sellers  
+## Tabla `orders_sellers`  
 
 La tabla `sellers` almacena la lista de sellers relacionados con cada pedido. Consulta a continuación los campos que componen la tabla:  
 
@@ -238,7 +238,7 @@ La tabla `sellers` almacena la lista de sellers relacionados con cada pedido. Co
 | **subsellerid** | character varying(65535) | Identificador de un subseller o seller secundario asociado al pedido u operación. |
 | **batch_id** | character varying(13) | Identificador referente a la carga de datos en la tabla para control de calidad de la ingesta de datos. |
 
-## Tabla orders_rateandbenefitsidentifiers  
+## Tabla `orders_rateandbenefitsidentifiers` 
 
 La tabla `rateandbenefitsidentifiers` contiene datos sobre promociones aplicadas a los pedidos.  
 Consulta a continuación los campos que componen la tabla:  
@@ -256,7 +256,7 @@ Consulta a continuación los campos que componen la tabla:
 | **rateandbenefitsidentifiers_description** | character varying(65535) | Descripción detallada de los identificadores de cargos y promociones, explicando sus recursos o beneficios. |
 | **batch_id** | character varying(13) | Identificador referente a la carga de datos en la tabla para control de calidad de la ingesta de datos. |
 
-## Tabla orders_payments
+## Tabla `orders_payments`
 
 La tabla `payments` registra los detalles de los medios de pago utilizados.   Consulta a continuación los campos que componen la tabla:  
 
@@ -286,7 +286,7 @@ La tabla `payments` registra los detalles de los medios de pago utilizados.   Co
 | **transactions_transactionid** | character varying(65535) | Identificador único de la transacción financiera asociada al pedido. |
 | **transactions_referencevalue** | double precision | Valor de referencia de la transacción. Puede reflejar el valor total antes de descuentos o cargos. |  
 
-## Tabla orders_packages  
+## Tabla `orders_packages`  
 
 La tabla `packages` almacena información sobre embalaje y envío de productos.   
 Consulta a continuación los campos que componen la tabla:  
@@ -317,7 +317,7 @@ Consulta a continuación los campos que componen la tabla:
 | **volumes** | integer | Número total de paquetes en el pedido. |
 | **batch_id** | character varying(13) | Identificador referente a la carga de datos en la tabla para control de calidad de la ingesta de datos. |
 
-## Tabla orders_items  
+## Tabla `orders_items`  
 
 La tabla `items` almacena detalles de ítems individuales en cada pedido, incluyendo SKU, cantidad, precio y descuentos.  
 Consulta a continuación los campos que componen la tabla:  
@@ -377,4 +377,6 @@ El conjunto de datos de pedidos se correlaciona con los siguientes conjuntos del
 - [Pagos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
 - [Precios](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
 - [Promociones](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Tarjeta de regalo](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Registro del Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
 

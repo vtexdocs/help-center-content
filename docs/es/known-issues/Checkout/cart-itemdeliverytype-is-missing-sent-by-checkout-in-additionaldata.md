@@ -1,16 +1,16 @@
 ---
-title: 'carrito item.deliveryType falta enviado por pago en AdditionalData'
+title: 'falta item.deliveryType enviado por checkout en AdditionalData'
 id: lV8VxXUPOzO9cSMgNV4fj
 status: PUBLISHED
 createdAt: 2024-03-19T12:59:17.599Z
-updatedAt: 2024-03-19T12:59:18.450Z
-publishedAt: 2024-03-19T12:59:18.450Z
+updatedAt: 2024-09-10T18:34:54.909Z
+publishedAt: 2024-09-10T18:34:54.909Z
 firstPublishedAt: 2024-03-19T12:59:18.450Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: carrito-itemdeliverytype-falta-enviado-por-pago-en-additionaldata
+slug: falta-itemdeliverytype-enviado-por-checkout-en-additionaldata
 locale: es
 kiStatus: Backlog
 internalReference: 1002115

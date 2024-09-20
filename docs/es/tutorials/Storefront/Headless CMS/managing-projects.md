@@ -3,8 +3,8 @@ title: 'Gestionar Proyectos'
 id: 42IpDFqTVTESH8DCypJMPM
 status: PUBLISHED
 createdAt: 2023-11-01T13:45:57.091Z
-updatedAt: 2024-06-21T14:14:20.212Z
-publishedAt: 2024-06-21T14:14:20.212Z
+updatedAt: 2024-09-11T14:05:18.500Z
+publishedAt: 2024-09-11T14:05:18.500Z
 firstPublishedAt: 2023-11-01T19:38:50.237Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -17,7 +17,7 @@ subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 
 Proyectos es una funcionalidad de VTEX Headless CMS que simplifica la gestión de varios proyectos de frontend, como aplicaciones móviles, páginas web y email marketing, desde un único dashboard.
 
-![Projects pages](https://images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/28a48f587a491e87481d837595130e0d/projects-one-es.gif)
+![Projects pages](//images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/28a48f587a491e87481d837595130e0d/projects-one-es.gif)
 
 Cada proyecto cuenta con sus propios ajustes, contenido y marca, pudiendo personalizarse en función de públicos u objetivos específicos. 
 
@@ -26,17 +26,18 @@ En esta guía aprenderás a gestionar cada proyecto de frontend de tu tienda.
 >⚠️ [ FastStore WebOps usuarios](https://developers.vtex.com/docs/guides/faststore/1-onboarding-overview):Los cambios realizados a través del Headless CMS en el VTEX Admin, como la creación de nuevos tipos de contenido (content types), la adición de secciones o la actualización de campos, pueden no aparecer automáticamente en la tienda una vez que los publiques. Este es un problema conocido, y debes contactar a tu equipo de desarrollo para implementar la solución necesaria. Para obtener instrucciones detalladas, consulta el artículo sobre el problema conocido [La aplicación Webops no está totalmente integrada con Headless CMS](https://help.vtex.com/es/known-issues/webops-app-is-not-fully-integrated-with-headless-cms--577fIocKB9BYYCOkN9dZfW).
 
 ## Antes de empezar
-Para gestionar el Headless CMS, asegúrese de que los [recursos](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings*`, and `CMS GraphQL API` estén asociados con su [rol de usuario](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). De lo contrario, [cree un rol de usuario](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol) y agregue estos recursos o añádalos a un rol de usuario existente.
+
+Para gestionar Headless CMS, asegúrate de que los [recursos](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings*`, and `CMS GraphQL API` estén asociados con tu [rol de usuario](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). De lo contrario, [crea un rol de usuario](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol) y agrega estos recursos o añádelos a un rol de usuario existente.
 
 ## Visión general
 Para acceder a **Proyectos**, en el Admin VTEX ve a **Storefront > Headless CMS**.
 
-![Projects overview](https://images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/fa66fd00d9a29e3eeb835369c70277d7/projects-two-es-outro.png)
+![Projects overview](//images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/fa66fd00d9a29e3eeb835369c70277d7/projects-two-es-outro.png)
 
 | Opciones     | Descripción     |
 | ---------- | ---------- |
 | Tarjeta del proyecto       | Abre el proyecto seleccionado, para que puedas crear y editar las páginas de su contenido.       |
-| Configuración (⚙️)      | Abre una ventana que muestra los ajustes del proyecto organizados en tres pestañas: <ul><li>**General:** permite editar el ID del proyecto y la configuración de la API o archivar el proyecto.</li><li>**Content-Types:** Conecta el proyecto Headless CMS con el código código de la tienda a través de webhooks configurando los tipos de contenido (content types) y las secciones. </li> <li>**Compilación:** Inicia y administra compilaciones del sitio web. Establece una URL de webhook para recibir notificaciones de compilación y un punto final para previsualizar las versiones de la página.</li></ul>      |
+| Configuración (⚙️)      | Abre una ventana que muestra los ajustes del proyecto organizados en tres pestañas: <ul><li>**General:** permite editar el ID del proyecto y la configuración de API o archivar el proyecto.</li><li>**Content-Types:** conecta el proyecto Headless CMS con tu fuente de código a través de webhooks cuando configuras los tipos de contenido (content types) y las secciones. </li> <li>**Compilación:** te permite iniciar y administrar compilaciones del sitio web. Puedes establecer una URL de webhook para recibir notificaciones de compilación y un endpoint para previsualizar las versiones de la página.</li></ul>      |
 | Crear nuevo | Abre una página para configurar un nuevo proyecto. |
 
 ## Crear un nuevo proyecto
@@ -54,37 +55,36 @@ Tras crear un nuevo proyecto, puedes crear páginas para el mismo con todas las 
 Para crear una nueva página sigue los pasos presentes en este artículo: [Gestión de páginas en Headless CMS](https://help.vtex.com/es/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
 
 ## Configuración del proyecto
-En Configuración, puedes realizar ajustes en el proyecto en tres categorías principales:
+En Configuración, puedes realizar ajustes en el proyecto en  tres categorías principales:
 
--[General](#general): permite editar el ID del proyecto, la configuración de la API y archivar el proyecto.
--[Content-Types](#content-types): permite establecer la conexión entre el proyecto Headless CMS y el código de tu proyecto.
--[Compilación](#compilación): inicia y administra las compilaciones del sitio web. Establece una URL de webhook para las notificaciones de compilación y un punto final para previsualizar las versiones de la página.
+-[General](#general): permite editar el ID del proyecto y la configuración de API y archivar el proyecto.
+-[Content-Types](#content-types): permite conectar el proyecto Headless CMS a tu código fuente a través de webhooks cuando configuras los tipos de contenido (content types) y las secciones.
+-[Compilación](#compilacion): permite iniciar y administrar las compilaciones del sitio web. Puedes establecer una URL de webhook para las notificaciones de compilación y un endpoint para previsualizar las versiones de la página.
 
 ### General
 
 | Nombre del campo     | Descripción     | Ejemplo de valor    |
 | ---------- | ---------- | ---------- |
 | ID del proyecto (obligatorio)      | ID del proyecto.       | `FastStore`        |
-| Storefront      | Define los storefronts VTEX disponibles (`FastStore` or `Custom`) y su propósito. | Consulte la sección [Storefront](#storefront) para obtener más información. |
+| Storefront      | Define los storefronts VTEX disponibles (`FastStore` o `Custom`) y su propósito. | Consulta la sección [Storefront](#storefront) para obtener más información. |
 
 #### Storefront
 
-Este campo determina la configuración de [Compilación](#compilación) en función del storefront elegido. Las opciones incluyen:
+Este campo determina la configuración de la [compilación](#compilacion) en función del storefront elegido. Las opciones incluyen:
 
-- **VTEX Storefronts**:
+- **VTEX Storefront**:
 
-Elija un storefront de su cuenta (por ejemplo, FastStore). [Compilación](#compilación) se ajusta automáticamente según el storefront elegido. Todavía puede personalizarlos más tarde.
+Selecciona un storefront de tu cuenta (por ejemplo, FastStore). La [compilación](#compilacion) se ajusta automáticamente según el storefront elegido. Puedes personalizarlo después.
 
 - **Custom**
 
-Elegir un storefront `Custom` (personalizado) le brinda la flexibilidad de definir su propia configuración de [Compilación](#compilación).
-
+Escoger un storefront `Custom` (personalizado) te brinda la flexibilidad de definir tu propia configuración de [compilación](#compilacion).
 ### Content-Types
 
-| Field name             | Description           | Value example     |
+| Nombre del campo             | Descripción           | Ejemplo del valor     |
 | ---------------------- | --------------------- | ----------------- |
-| URL de las secciones | URL del webhook para recibir y guardar las secciones creadas en el código fuente del CMS headless.. | `https://infra.io.vtex.com/vbase/v0/{accountName}/master/buckets/vtex.admin-cms-graphql-rc/store/files/{projectId}/sections`       |
-| URL de los tipos de contenido       | URL del webhook para recibir y guardar los tipos de contenido creados en el código fuente del CMS headless.      | `https://infra.io.vtex.com/vbase/v0/{accountName}/master/buckets/vtex.admin-cms-graphql-rc/store/files/{builderId}/content-types`       |
+| URL de las secciones | URL del webhook para recibir y guardar las secciones creadas en el código fuente de Headless CMS. | `https://infra.io.vtex.com/vbase/v0/{accountName}/master/buckets/vtex.admin-cms-graphql-rc/store/files/{projectId}/sections`       |
+| URL de los tipos de contenido       | URL del webhook para recibir y guardar los tipos de contenido creados en el código fuente de Headless CMS.      | `https://infra.io.vtex.com/vbase/v0/{accountName}/master/buckets/vtex.admin-cms-graphql-rc/store/files/{builderId}/content-types` |
 
 ### Compilar
 
@@ -98,11 +98,11 @@ Elegir un storefront `Custom` (personalizado) le brinda la flexibilidad de defin
 
 ## Editar proyecto
 Después de crear el proyecto, también puedes editar toda la información definida durante la [creación del proyecto](#crear-nuevo-proyecto).
-En la página principal **Proyectos**, haz clic en **Configuración** (⚙️), y se abrirá una ventana con tres pestañas para realizar ajustes: [General](#general), [Content-Types](#content-types) y [Compilar](#compilar).
+En la página principal Proyectos, haz clic en Configuración (⚙️), y se abrirá una ventana con tres pestañas para realizar ajustes: [General](#general), [Content-Types](#content-types) y [Compilación](#compilacion).
 
-### Restaurar la URL predeterminada de las secciones
+### Restaurar la URL predeterminada de las secciones 
 
-Una vez que has [creado el proyecto](#crear-un-nuevo-proyecto) y deseas editar el campo [**URL de las secciones**](#content-types), haz clic en `Editar`, agrega la nueva URL del webhook y haz clic en Guardar. Si deseas restaurar la URL predeterminada, haz clic en `Restaurar URL predeterminada`.
+Una vez que has [creado el proyecto](#crear-un-nuevo-proyecto) y deseas editar el campo [**URL de las secciones**](#content-types), haz clic en `Editar`, agrega la nueva URL del webhook y haz clic en `Guardar`. Si deseas restaurar la URL predeterminada, haz clic en `Restaurar URL predeterminada`
 
 ## Archivar proyecto
 Al archivar un proyecto se desactiva la API y el acceso al contenido del proyecto. 
@@ -111,7 +111,7 @@ Para archivar un proyecto sigue los pasos a continuación:
 1. Accede a **Storefront > Proyectos**.
 2. Selecciona el proyecto que deseas archivar y haz clic en **Configuración** (⚙️). 
 3. Haz clic en `Archivar proyecto` en la página `General`. Aparecerá un mensaje emergente para confirmar que deseas archivar el proyecto.
-![Arquivar projeto - ES](https://images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/a7f9e04f4b9dc6161bd3f9a9c683f99c/projects-three-es.png)
+![Arquivar projeto - ES](//images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/a7f9e04f4b9dc6161bd3f9a9c683f99c/projects-three-es.png)
 4. Haz clic en `Archivar`. A continuación aparecerá un mensaje informando que el proyecto se archivó con éxito.
 
 Para restaurar un proyecto archivado, sigue los pasos descritos en [Restaurar proyecto] (#restaurar-proyecto).

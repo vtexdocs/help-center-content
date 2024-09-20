@@ -1,10 +1,10 @@
 ---
 title: 'Banners'
 id: d1p9tO3Ll7qkdMZ1pIfKq
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2019-11-27T16:32:44.112Z
-updatedAt: 2023-03-30T22:12:50.665Z
-publishedAt: 2023-03-30T22:12:50.665Z
+updatedAt: 2024-09-06T20:13:41.240Z
+publishedAt: 
 firstPublishedAt: 2020-03-05T19:57:33.340Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -33,7 +33,7 @@ En VTEX Admin, la página **Storefront** > **Banners** muestra la lista completa
 * [Editar banner](#editar-banner)
 * [Eliminar banner](#eliminar-banner) 
 
-![banners-intro-es](https://images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/eab33921ebea3c1b09cf74f57f0701aa/image.png)
+![banners-intro-es](//images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/eab33921ebea3c1b09cf74f57f0701aa/image.png)
 
 La página contiene la siguiente información:
 

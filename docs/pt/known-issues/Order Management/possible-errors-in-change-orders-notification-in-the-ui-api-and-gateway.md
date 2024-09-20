@@ -3,8 +3,8 @@ title: 'Possíveis erros na notificação de ordens de alteração na interface 
 id: 1UeG6MyFYIUVCnH8kPwNIJ
 status: PUBLISHED
 createdAt: 2023-12-19T19:37:47.313Z
-updatedAt: 2024-08-08T19:29:16.923Z
-publishedAt: 2024-08-08T19:29:16.923Z
+updatedAt: 2024-09-11T19:26:44.153Z
+publishedAt: 2024-09-11T19:26:44.153Z
 firstPublishedAt: 2023-12-19T19:37:47.950Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: possiveis-erros-na-notificacao-de-ordens-de-alteracao-na-interface-do-usuario-na-api-e-no-gateway
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 955489
 ---
 
@@ -21,18 +21,18 @@ internalReference: 955489
 >ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
-Alguns problemas foram identificados na arquitetura Change Orders V1, onde alguns casos não eram notificados na interação do pedido na UI, não eram notificados na API Get Orders, porém, havia um desconto ou aumento no valor. Também vimos cenários em que a notificação ocorre na UI e na API, mas o desconto ou aumento não é feito no gateway.
+
+_**Importante**: Sugerimos que você use o novo **Change V2**, já que o esforço foi feito para criar esse novo recurso.
+
+Alguns problemas foram identificados na arquitetura Change Orders V1, em que alguns casos não eram notificados na interação do pedido na interface do usuário e não eram notificados na API Get Orders, mas havia um desconto ou aumento no valor. Também vimos cenários em que a notificação ocorre na UI e na API, mas o desconto ou aumento não é feito no gateway.
 
 ## Simulação
 
 
-Não é possível realizar uma simulação, pois os cenários são esporádicos e geralmente ocorrem devido a um erro de tempo limite, para o qual já aumentamos o cronômetro.
-
-
+Não é possível realizar uma simulação, pois os cenários são esporádicos e geralmente ocorrem devido a um erro de timeout, para o qual já aumentamos o cronômetro
 
 ## Workaround
 
 
-Inicialmente, não temos uma solução alternativa, no entanto, vale mencionar que alguns cenários poderemos ajustar manualmente, como, por exemplo, se o registro de pedidos de alteração ocorrer no gateway e não ocorrer no Marketplace ou na interação do pedido de atendimento e também na API.
-No entanto, sugerimos usar o novo Change V2, já que houve um esforço para criar esse novo recurso.
+Inicialmente, não temos uma solução alternativa, no entanto, vale a pena mencionar que em alguns cenários poderemos ajustar manualmente, como, por exemplo, se o registro de pedidos de alteração ocorrer no gateway e não ocorrer no Marketplace ou a interação do pedido de atendimento e a API também.
 

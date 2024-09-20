@@ -21,9 +21,9 @@ Cuando el usuario realiza una búsqueda en una tienda VTEX utilizando [Intellige
 
 Ejemplo: al buscar en el sitio web de la tienda productos que contengan el término "Pendleton", los resultados de la búsqueda muestran 6 productos. Sin embargo, cuando accedemos al Admin VTEX (__Storefront > Intelligent Search > Explicación de la búsqueda__) e ingresamos el mismo término, se muestran 9 productos.
 
-![Filter_1](https://images.ctfassets.net/alneenqid6w5/1bMAcWQEyVXBsUBZQp8H0K/fd5b87b16752fbec8cfaec8258bf22d4/Filter_1.png)
+![Filter_1](//images.ctfassets.net/alneenqid6w5/1bMAcWQEyVXBsUBZQp8H0K/fd5b87b16752fbec8cfaec8258bf22d4/Filter_1.png)
 
-![Filter_2](https://images.ctfassets.net/alneenqid6w5/5TL7uaMv37zf7AGwohmAKu/d06e5b6d2114ea99424449d66eb3b887/Filter_2.png)
+![Filter_2](//images.ctfassets.net/alneenqid6w5/5TL7uaMv37zf7AGwohmAKu/d06e5b6d2114ea99424449d66eb3b887/Filter_2.png)
 
 Este comportamiento puede ocurrir debido a los siguientes escenarios:
 
@@ -79,7 +79,7 @@ Para remover la restricción de búsqueda por marca (brand) y permitir que los p
 
 <blockquote><ui>4. En <b>Selecciona una aplicación</b>, chaz clic en la opción de Rewriter (<b>vtex.rewriter@{app-version-number}</b>).</ui>
 
-![Graphql_ide_es](https://images.ctfassets.net/alneenqid6w5/1IBr0HvF5xxf2nfxIwW4YC/2751cf7c83a8d37216f82a532d77c3a7/Graphql_ide_es.png)
+![Graphql_ide_es](//images.ctfassets.net/alneenqid6w5/1IBr0HvF5xxf2nfxIwW4YC/2751cf7c83a8d37216f82a532d77c3a7/Graphql_ide_es.png)
 
 <blockquote><ui>5. En el campo de entrada de datos de la consulta (debajo de <b>GraphiQL</b>), ingresa los datos de la función mutación <i>saveInternal</i>.<ui>
 

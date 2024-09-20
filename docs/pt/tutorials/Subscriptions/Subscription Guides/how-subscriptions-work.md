@@ -3,8 +3,8 @@ title: 'Como funciona a assinatura'
 id: frequentlyAskedQuestions_4453
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.886Z
-updatedAt: 2024-08-29T15:23:33.643Z
-publishedAt: 2024-08-29T15:23:33.643Z
+updatedAt: 2024-09-20T13:14:49.119Z
+publishedAt: 2024-09-20T13:14:49.119Z
 firstPublishedAt: 2019-01-24T22:14:56.290Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -111,4 +111,8 @@ Sim, o preço que o cliente paga na assinatura é baseado no preço cadastrado p
 12. **Qual o horário no qual os pedidos de assinatura são gerados?**
 A criação de pedidos de assinatura ocorre entre 6:00 e 7:00 da manhã, com referência ao fuso horário do Brasil (GMT-3).
 
-13. **A funcionalidade Assinaturas funciona com o Seller Portal?** Não, Assinaturas não funciona com o [Seller Portal](https://help.vtex.com/pt/tutorial/how-to-set-up-your-store-on-seller-portal).
+13. **A funcionalidade Assinaturas funciona com o Seller Portal?** 
+Não, Assinaturas não funciona com o [Seller Portal](https://help.vtex.com/pt/tutorial/how-to-set-up-your-store-on-seller-portal).
+
+14. **Como funciona a criação de assinaturas a partir de pedidos originais que possuem SKUs com anexos?** 
+Por padrão, as lojas não criam pedidos de assinatura incorporando [anexos](https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) de SKUs do pedido original, ou seja, os anexos são desconsiderados nos pedidos recorrentes. No entanto, é possível habilitar essa configuração para a loja, o que só pode ser feito via API usando o endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Saiba mais em [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).

@@ -26,6 +26,6 @@ Esse bloqueio também é realizado para todas as demais formas de atualização 
 
 O percentual da __trava de preço__ pode ser removido ou alterado nas __Configurações__ do módulo de __Preços__.
 
-![trava-variação-preço pt](https://images.ctfassets.net/alneenqid6w5/5anjARjLAk0sCKgEEoWCK8/c148b88625482f6fb9ca35373ab69fe7/trava-varia____o-pre__o_pt.png)
+![trava-variação-preço pt](//images.ctfassets.net/alneenqid6w5/5anjARjLAk0sCKgEEoWCK8/c148b88625482f6fb9ca35373ab69fe7/trava-varia____o-pre__o_pt.png)
 
 Alguns marketplaces também possuem esta trava de variação de preços. Caso você deseje alterar os preços para além dos ranges da trava, basta entrar em contato com o marketplace solicitando a alteração. 

@@ -26,7 +26,7 @@ Para acessar a página, em seu Admin VTEX vá para __Dashboards > Performance de
 
 É possível customizar a visualização dos dados do gráfico e da lista filtrando por período, dimensões e métricas.
 
-![Sales Perf Dash PT](https://images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/97ef8b2e3525cc9a565f1d55783730b3/Sales_Perf_Dash_PT.gif)
+![Sales Perf Dash PT](//images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/97ef8b2e3525cc9a565f1d55783730b3/Sales_Perf_Dash_PT.gif)
 
 ## Dados 
 Os dados da página são provenientes do [sistema de Gerenciamento de Pedidos](https://help.vtex.com/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa) da VTEX. A Performance de Vendas é uma solução analítica, que usa heurísticas e fórmulas criadas a partir de nossa experiência levando nossos clientes de ecommerce para o próximo nível para calcular suas métricas. A página não deve ser utilizada como substituto para os dados do OMS, mas como ferramenta de análise e insights de negócio.
@@ -152,7 +152,7 @@ Além de aplicar filtros, também é possível realizar as ações abaixo:
 
 ## Menu Exibições
 
-![Sales perf update PT](https://images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/3abd7dcbd11988d998dd95659c1088de/Sales_perf_update_PT.gif)
+![Sales perf update PT](//images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/3abd7dcbd11988d998dd95659c1088de/Sales_perf_update_PT.gif)
 
 A Performance de Vendas permite customizar o dashboard aplicando diferentes filtros e selecionando as métricas que aparecerão no gráfico e na lista. Para facilitar sua exploração de dados no dia a dia, criamos as Exibições, que gravam os filtros e métricas aplicados na página para sua visualização direta. É possível salvar, editar e compartilhar visualizações distintas do dashboard. A página já vem com as seguintes Exibições configuradas por default:
 

@@ -25,10 +25,10 @@ Esta funcionalidad se utiliza comúnmente para crear escenarios como éste: la n
 El problema conocido es evidente en el siguiente ejemplo, en el que el marketplace no puede reflejar las mismas reglas de parcelación que el seller:
 
 ## Mercado - Hasta 12x sin intereses
-![Heladera Marketplace](https://images.contentful.com/alneenqid6w5/c7CtSlVToIIQScyiM4AiS/e9f1415ccbe79d8fe34af8e9901b6570/Geladeira_Marketplace.png)
+![Heladera Marketplace](//images.contentful.com/alneenqid6w5/c7CtSlVToIIQScyiM4AiS/e9f1415ccbe79d8fe34af8e9901b6570/Geladeira_Marketplace.png)
 
 ## Vendedor - Hasta 10x sin intereses
-![2017-06-16 18 15 44-Refrigerador 540 Litros Evox Brastemp Side Inverse - Brastemp](https://images.contentful.com/alneenqid6w5/6HZs1prIVaUsOYCWeEMG8U/169a380f8e4c43cd0c644d280da0d126/2017-06-16_18_15_44-Geladora_540_Litros_Evox_Brastemp_Side_Inverse_-_Brastemp.png)
+![2017-06-16 18 15 44-Refrigerador 540 Litros Evox Brastemp Side Inverse - Brastemp](//images.contentful.com/alneenqid6w5/6HZs1prIVaUsOYCWeEMG8U/169a380f8e4c43cd0c644d280da0d126/2017-06-16_18_15_44-Geladora_540_Litros_Evox_Brastemp_Side_Inverse_-_Brastemp.png)
 
 La visualización en el marketplace es incorrecta. Las parcelas en 11x y 12x no exhiben intereses, cuando, en realidad, deberían exhibir.
 

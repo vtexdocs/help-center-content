@@ -1,11 +1,11 @@
 ---
 title: 'Configurar pago con Nuvei'
 id: 67DjdrpIaZZmhXv9Iwa6Ev
-status: DRAFT
+status: PUBLISHED
 createdAt: 2024-03-27T12:55:27.016Z
-updatedAt: 2024-03-27T17:47:53.436Z
-publishedAt: 
-firstPublishedAt: 
+updatedAt: 2024-09-13T17:39:52.427Z
+publishedAt: 2024-09-13T17:39:52.427Z
+firstPublishedAt: 2024-09-13T17:39:52.427Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g

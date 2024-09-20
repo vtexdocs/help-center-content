@@ -117,6 +117,6 @@ El plugin fue desarrollado para facilitar la instalación del formulario en el t
 - jQuery
 - Bootstrap
 
-[Para más detalles, acceda al ejemplo en anexo](https://assets.contentful.com/alneenqid6w5/4rfOv1xQoEuwWYS0sq24QM/3099aa480d85a9ca4d2ce50dfef64a68/contactMasterData.zip "Para más detalles, acceda al ejemplo en anexo").
+[Para más detalles, acceda al ejemplo en anexo](//assets.contentful.com/alneenqid6w5/4rfOv1xQoEuwWYS0sq24QM/3099aa480d85a9ca4d2ce50dfef64a68/contactMasterData.zip "Para más detalles, acceda al ejemplo en anexo").
 
 __Importante__: Este plugin fue desarrollado para ayudar a desarrollar el formulario de Contáctenos usando Master Data. VTEX **NO** ofrece soporte a esa extensión y su código es abierto, pudendo sufrir modificaciones y adaptaciones.

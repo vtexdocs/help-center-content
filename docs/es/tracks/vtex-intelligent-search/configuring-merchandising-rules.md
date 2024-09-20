@@ -1,10 +1,10 @@
 ---
 title: 'Crear regla de merchandising - Editor manual'
 id: 2FpbarYzsnbg7aZZn3TGF8
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-04-14T14:10:24.518Z
-updatedAt: 2024-01-29T16:58:41.850Z
-publishedAt: 2024-01-29T16:58:41.850Z
+updatedAt: 2024-09-06T20:09:49.754Z
+publishedAt: 
 firstPublishedAt: 2020-04-15T00:39:30.807Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising

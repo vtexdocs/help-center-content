@@ -34,7 +34,7 @@ Para entender e corrigir cada erro, consulte as soluções abaixo:
 
 É possível que o seguinte erro ocorra: ao acessar o VTEX Admin, ir para **Storefront** e clicar em **Site Editor**, a página do Site Editor mostra uma tela em branco ou a mensagem `Algo deu errado`.
 
-![Site Editor - Something went wrong PT](https://images.ctfassets.net/alneenqid6w5/6HAg54FmMXcxq7rfh1738y/178a0dae490ee3ab5b0a8c5feaf54302/img1-PT.png)
+![Site Editor - Something went wrong PT](//images.ctfassets.net/alneenqid6w5/6HAg54FmMXcxq7rfh1738y/178a0dae490ee3ab5b0a8c5feaf54302/img1-PT.png)
 
 Para solucionar esse erro, veja as instruções a seguir:
 
@@ -48,7 +48,7 @@ Esse problema pode estar relacionado ao fato de a busca do [Intelligent Search](
 1. No VTEX Admin, acesse **Configurações da loja > Intelligent Search > Integrações**.
 2. Na página **Integrações**, todos os status devem estar ticados, como na imagem a seguir. 
 
-![Site Editor - IS integrations PT](https://images.ctfassets.net/alneenqid6w5/5hQJjnkLuCwRA2VVtKvEEC/91618ffbb8e61ddf78bb0417bc55caa1/img2-PT.png)
+![Site Editor - IS integrations PT](//images.ctfassets.net/alneenqid6w5/5hQJjnkLuCwRA2VVtKvEEC/91618ffbb8e61ddf78bb0417bc55caa1/img2-PT.png)
 
 3. Se todos os status estiverem ticados e ainda não for possível abrir o Site Editor, consulte a seção [Verificar a configuração do tenant](#verificar-a-configuracao-do-tenant-apenas-novas-contas). Caso contrário, prossiga para o próximo passo.
 4. Se a página Integrações estiver diferente da imagem acima, veja a seguir os possíveis motivos e como solucioná-los:
@@ -90,7 +90,7 @@ Outro possível motivo para esse erro está relacionado ao locale configurado pa
 1. No VTEX Admin, acesse **Configurações da loja > Canais > Políticas comerciais**.
 2. Na página **Políticas comerciais**, selecione a política comercial associada à sua conta e verifique o campo **Locale**.
 
-![Site Editor - Locale PT](https://images.ctfassets.net/alneenqid6w5/6i6EbEw6OXr2BnOzh4mVE2/62aa1add719c52cd697fbda36176ca03/img3-PT.png)
+![Site Editor - Locale PT](//images.ctfassets.net/alneenqid6w5/6i6EbEw6OXr2BnOzh4mVE2/62aa1add719c52cd697fbda36176ca03/img3-PT.png)
 
 3. O locale é considerado incorreto nos seguintes casos:
 - O locale é diferente do que a conta deveria utilizar. Por exemplo, o locale está configurado como `pt-BR`, mas a conta deveria ser `pt-PT`.

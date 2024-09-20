@@ -1,10 +1,10 @@
 ---
 title: 'Autocomplete'
 id: 4gXFsEWjF7QF7UtI2GAvhL
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2019-12-12T18:31:07.249Z
-updatedAt: 2022-06-07T17:26:50.577Z
-publishedAt: 2022-06-07T17:26:50.577Z
+updatedAt: 2024-09-06T20:08:44.463Z
+publishedAt: 
 firstPublishedAt: 2020-03-05T19:54:20.493Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -42,22 +42,22 @@ Outra vantagem para o gestor da loja é o aumento de conversão, resultado dessa
 
 Essa seção exibe os termos mais buscados por outros clientes dentro do site.
 
-![PT - Autocomplete termos mais pesquisados](https://images.ctfassets.net/alneenqid6w5/6gBULnYzroBY96Ler918qJ/de1f57f6942d1c1ec554246917f524a0/PT_-_Autocomplete_termos_mais_pesquisados.png)
+![PT - Autocomplete termos mais pesquisados](//images.ctfassets.net/alneenqid6w5/6gBULnYzroBY96Ler918qJ/de1f57f6942d1c1ec554246917f524a0/PT_-_Autocomplete_termos_mais_pesquisados.png)
 
 ## Últimas buscas efetuadas
 
 Essa seção exibe as últimas buscas efetuadas pelo cliente. Assim, é possível  iniciar a interação com a busca instantaneamente.
 
-![PT - Autocomplete historico](https://images.ctfassets.net/alneenqid6w5/1GXQ879Y9rEMXFKjVquys1/4f68e9d2277b02d56cb155ecf29fcfc6/PT_-_Autocomplete_historico.png)
+![PT - Autocomplete historico](//images.ctfassets.net/alneenqid6w5/1GXQ879Y9rEMXFKjVquys1/4f68e9d2277b02d56cb155ecf29fcfc6/PT_-_Autocomplete_historico.png)
 
 ## Sugestão de buscas
 
 Essa seção apresenta os termos pesquisados por outros usuários que se relacionam com a busca efetuada naquele momento. Além de termos, também são sugeridas categorias que estejam relacionadas com a busca.
 
-![PT - Autocomplete sugestao termos](https://images.ctfassets.net/alneenqid6w5/2rOg8Q94A0F8VEbueLkXDS/34faeaa87bbf7989072e3dddec7f9b04/PT_-_Autocomplete_sugestao_termos.png)
+![PT - Autocomplete sugestao termos](//images.ctfassets.net/alneenqid6w5/2rOg8Q94A0F8VEbueLkXDS/34faeaa87bbf7989072e3dddec7f9b04/PT_-_Autocomplete_sugestao_termos.png)
 
 ## Sugestão de produtos
 
 Essa seção apresenta os produtos que correspondem a busca efetuada naquele momento. Dessa forma, ao mostrar produtos relacionados a sua busca durante a sua digitação, diminui as desistências e dá a possibilidade do usuário efetuar uma compra mais dinâmica.
 
-![PT - Autocomplete sugestao de produtos](https://images.ctfassets.net/alneenqid6w5/1wXXgJr59cCCjz00DHA3nU/49288947b9326f3309ed7bea482a2331/PT_-_Autocomplete_sugestao_de_produtos.png)
+![PT - Autocomplete sugestao de produtos](//images.ctfassets.net/alneenqid6w5/1wXXgJr59cCCjz00DHA3nU/49288947b9326f3309ed7bea482a2331/PT_-_Autocomplete_sugestao_de_produtos.png)

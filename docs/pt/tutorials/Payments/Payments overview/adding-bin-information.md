@@ -17,7 +17,7 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 O Número de Identificação Bancária (BIN) é composto pelos primeiros seis ou oito dígitos de um cartão de crédito ou débito e caracteriza a instituição responsável pela emissão do cartão.  
 
-![BIN_image_digits_PT_2](https://images.ctfassets.net/alneenqid6w5/56E0fyyarcKE5C68SXt7xQ/7ea68dacd8491fba2022ccb608efd3fd/BIN_image_digits_PT_2.png)
+![BIN_image_digits_PT_2](//images.ctfassets.net/alneenqid6w5/56E0fyyarcKE5C68SXt7xQ/7ea68dacd8491fba2022ccb608efd3fd/BIN_image_digits_PT_2.png)
 
 Quando a instituição bancária deseja criar novos perfis de cartões ou emitir novos cartões para um modelo já existente, é necessário criar novos BINs. Isso também se aplica quando uma [bandeira](https://help.vtex.com/pt/tutorial/o-que-e-uma-bandeira-de-cartao-de-credito--4bNba5QYuIwKEmac88KwyI) é comprada por outra.
 
@@ -39,5 +39,5 @@ No ticket, você deve encaminhar em anexo uma planilha preenchida com as seguint
 
 Modelo de planilha preenchida:
 
-![Bin_spreadsheet](https://images.ctfassets.net/alneenqid6w5/1bYkI1ppRO3r7VtpFyDPfA/f28a04568922f6e08425ae177b26b0fe/Bin_spreadsheet.PNG)
+![Bin_spreadsheet](//images.ctfassets.net/alneenqid6w5/1bYkI1ppRO3r7VtpFyDPfA/f28a04568922f6e08425ae177b26b0fe/Bin_spreadsheet.PNG)
 

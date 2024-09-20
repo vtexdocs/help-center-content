@@ -1,10 +1,10 @@
 ---
 title: 'Disponibilidade'
 id: 7LMQbWK5nElIkXo0NK8Kux
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2021-10-04T18:01:24.137Z
-updatedAt: 2023-12-07T19:28:15.731Z
-publishedAt: 2023-12-07T19:28:15.731Z
+updatedAt: 2024-09-06T20:08:36.686Z
+publishedAt: 
 firstPublishedAt: 2021-10-04T18:18:56.501Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising

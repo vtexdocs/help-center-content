@@ -3,8 +3,8 @@ title: 'Promociones Data Pipeline '
 id: 3WZ1syNucDFdvVhfKtA6Qd
 status: PUBLISHED
 createdAt: 2024-02-02T18:02:01.395Z
-updatedAt: 2024-09-02T19:28:12.860Z
-publishedAt: 2024-09-02T19:28:12.860Z
+updatedAt: 2024-09-13T17:33:13.910Z
+publishedAt: 2024-09-13T17:33:13.910Z
 firstPublishedAt: 2024-05-27T19:26:59.739Z
 contentType: tutorial
 productTeam: Others
@@ -109,4 +109,6 @@ La relación entre el conjunto de datos de promociones y otros conjuntos de dato
 - [Pagos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
 - [Pedidos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
 - [Precios](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Tarjeta de regalo](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Registro del Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
 

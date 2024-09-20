@@ -3,8 +3,8 @@ title: 'Configuring a discount for orders prepaid in full'
 id: 7Lfcj9Wb5dpYfA2gKkACIt
 status: PUBLISHED
 createdAt: 2020-12-18T19:16:46.225Z
-updatedAt: 2023-03-31T21:35:57.904Z
-publishedAt: 2023-03-31T21:35:57.904Z
+updatedAt: 2024-09-05T16:45:39.679Z
+publishedAt: 2024-09-05T16:45:39.679Z
 firstPublishedAt: 2021-05-04T20:05:58.585Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -23,7 +23,7 @@ To use this strategy in the VTEX platform, besides indicating the discount for o
 
 1. Use the Checkout API to determine the discount and link it to a payment method (see our tutorial [Set a discount using the Checkout API](https://developers.vtex.com/vtex-rest-api/docs/set-a-discount-using-the-checkout-api)).
 
-2. Configure the layout in the CMS so that the discount appears on the selected payment method on the product page (see details in the following section).
+2. Configure the layout for both CMS and IO stores, ensuring that the discount is displayed in the selected payment method on the product page (see details in the following section).
 
 ## CMS
 
@@ -34,7 +34,7 @@ After you determine the discount at Checkout, you need to link the SKU to the pa
 3. Select the template of your product page.
 4. In the `skuPrice` property, add the `paymentSystemId` variable with the ID of the chosen payment method.
 
-![Screenshot 2020-12-18 Criar preço à vista](https://images.ctfassets.net/alneenqid6w5/4X9sxu1jruXPgpJc5AthbD/ce74271f2f7ca41fa3f762b12a226bcb/Screenshot_2020-12-18_Criar_pre__o____vista.png)
+![Screenshot 2020-12-18 Criar preço à vista](//images.ctfassets.net/alneenqid6w5/4X9sxu1jruXPgpJc5AthbD/ce74271f2f7ca41fa3f762b12a226bcb/Screenshot_2020-12-18_Criar_pre__o____vista.png)
 
 6. Click on __Save Template__ in the upper right corner.
 

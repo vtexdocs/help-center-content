@@ -30,4 +30,4 @@ Para acceder a esta pantalla, siga los pasos abajo:
 
 La flag Filtro aparece en la pantalla de configuración del campo de producto.
 
-![Filtro Campo de produto](https://images.contentful.com/alneenqid6w5/3XSX1nXvjW8kuCi20GaueM/d81f6eea3d6d53c78e00b3e367cbf99b/Filtro_Campo_de_produto.png)
+![Filtro Campo de produto](//images.contentful.com/alneenqid6w5/3XSX1nXvjW8kuCi20GaueM/d81f6eea3d6d53c78e00b3e367cbf99b/Filtro_Campo_de_produto.png)

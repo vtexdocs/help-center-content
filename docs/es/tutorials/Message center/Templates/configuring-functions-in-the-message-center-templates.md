@@ -35,7 +35,7 @@ La utlización de esas variables en los Layouts de email poseen la siguiente sin
 **HTML del template**
 `<strong>{{_accountInfo.HostName}}</strong> => lojavirtual`
 
-![exemplohtml](https://images.ctfassets.net/alneenqid6w5/2L8EnLX9I4gqOyaKUY4wGw/47d7e0db874a73e9569d6ddabe69b470/exemplohtml.png)
+![exemplohtml](//images.ctfassets.net/alneenqid6w5/2L8EnLX9I4gqOyaKUY4wGw/47d7e0db874a73e9569d6ddabe69b470/exemplohtml.png)
 
 El ejemplo arriba puede tener diferentes valores cuando se comparan Sellers y Marketplaces.
 
@@ -130,4 +130,4 @@ em até{{#hasSubStr shippingEstimate 'bd'}}
 ```
 
 **Resultado**:
-![](https://images.contentful.com/alneenqid6w5/5cRmcM2692G60Ok6gSAWmo/f7196556f5360f632dbccf47f837b5b9/3.1.jpg)
+![](//images.contentful.com/alneenqid6w5/5cRmcM2692G60Ok6gSAWmo/f7196556f5360f632dbccf47f837b5b9/3.1.jpg)
