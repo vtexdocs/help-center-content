@@ -1,6 +1,5 @@
 const fs = require('fs')
 const path = require('path')
-const frontmatter = require('front-matter')
 const imageDownloader = require('image-downloader')
 
 const baseURL = 'https://raw.githubusercontent.com/vtexdocs/help-center-content/main/'
