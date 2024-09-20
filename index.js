@@ -769,6 +769,9 @@ ${textPT}
     const subFolder = fileSubFolder ? path.join(baseFolder, fileSubFolder).replace(": ", " - ") : null;
     const subcategoryFolder = fileSubcategoryFolder ? path.join(subFolder, fileSubcategoryFolder).replace(": ", " - ") : null;
     const filePath = fileSubcategoryFolder ? path.join(subcategoryFolder, fileNameEN).replace(": ", " - ") : fileSubFolder ? path.join(subFolder, fileNameEN).replace(": ", " - ") : path.join(baseFolder, fileNameEN).replace(": ", " - ");
+    console.log('subFolder:---',subFolder, '-----')
+    console.log('subcategoryFolder:---',subcategoryFolder, '-----')
+    console.log('filePath:---',filePath, '-----')
   
     // Array of folders to create
     const foldersToCreate = [localeFolder, baseFolder, subFolder, subcategoryFolder].filter(Boolean);
