@@ -8,6 +8,7 @@
     "license": "MIT",
     "dependencies": {
         "contentful-management": "^10.35.1",
-        "dotenv": "^16.3.1"
+        "dotenv": "^16.3.1",
+        "image-downloader": "^4.3.0"
     }
 }
