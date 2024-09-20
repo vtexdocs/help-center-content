@@ -1,10 +1,10 @@
 ---
 title: 'Configurar Banners'
 id: 4ViKEivLJtJsvpaW0aqIQ5
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2019-11-27T16:34:24.404Z
-updatedAt: 2024-01-30T21:59:49.330Z
-publishedAt: 2024-01-30T21:59:49.330Z
+updatedAt: 2024-09-06T20:14:05.608Z
+publishedAt: 
 firstPublishedAt: 2020-03-05T19:58:30.009Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -26,7 +26,7 @@ Después de configurar el banner, debes agregarlo a una página de tu tienda. Pa
 
 >ℹ️ Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo [VTEX Intelligent Search: configuración Multidioma (Beta)](https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracion-multidioma-beta--2WahlTESLXIJ9XBdQMdTYO#banners)para saber más.
 
-![banner-form-es](https://images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/ae3e6e5ffd311ad1c25e3cd7104bc874/image.png)
+![banner-form-es](//images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/ae3e6e5ffd311ad1c25e3cd7104bc874/image.png)
 
 ## Campos de registro del banner
 
@@ -57,7 +57,7 @@ Para registrar el banner, debes rellenar los siguientes campos:
 
 Haz clic en <i class="fa-solid fa-link"></i> `Autocompletar desde URL` para agregar la URL de la página de búsqueda donde se aplicarán las reglas de activación.
 
-![banner-url-es](https://images.ctfassets.net/alneenqid6w5/2ldGnmahkPao4EbISls3gu/c7c8d7edfb83b4bb4f1e829b4aa50dc9/image.png)
+![banner-url-es](//images.ctfassets.net/alneenqid6w5/2ldGnmahkPao4EbISls3gu/c7c8d7edfb83b4bb4f1e829b4aa50dc9/image.png)
 
 Haz clic en <i class="fas fa-plus"></i> `Agregar condición` para crear una regla. Pueden ser de los siguientes tipos:
 

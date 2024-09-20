@@ -28,12 +28,12 @@ O **Simulador de promoções** está disponível para todas as lojas VTEX pelo [
     Se preferir, você pode acessá-la diretamente pela URL `https://{nomedaconta}.myvtex.com/`, substituindo `{nomedaconta}` pelo nome da sua conta VTEX.
 
 2. Adicione produtos no carrinho e acesse o checkout em `https://{nomedaconta}.myvtex.com/checkout/#/cart`.
-3. Clique no botão azul <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> no canto inferior direito da página para iniciar o Cartman.
+3. Clique no botão azul <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> no canto inferior direito da página para iniciar o Cartman.
 4. Clique em **Simulador de promoções**.
 
     Na nova janela, você verá uma listagem dos produtos presentes no seu carrinho. Será possível visualizar todas as promoções aplicadas e aplicáveis em cada um dos itens.
 
-![Simulator-promo-pt-gif-1](https://images.ctfassets.net/alneenqid6w5/66PaJF2TBi2T1VBEFPlLuz/be250ed52b2c5abfcbf1a0debf120c98/simulador-promo-pt-230706.gif)
+![Simulator-promo-pt-gif-1](//images.ctfassets.net/alneenqid6w5/66PaJF2TBi2T1VBEFPlLuz/be250ed52b2c5abfcbf1a0debf120c98/simulador-promo-pt-230706.gif)
 
 A interface do **Simulador de promoções** apresenta as seguintes informações:
 
@@ -75,7 +75,7 @@ Para editar uma promoção, siga os passos abaixo:
 
 O **Simulador de promoções** possibilita testar a aplicação de uma outra promoção ou simular o que aconteceria ao desativar promoções aplicadas. Para isso, clique no botão `Selecionar promoções`, no topo direito da página, conforme ilustrado na imagem abaixo.
 
-![ui-Simulator-promo-pt-gif-2](https://images.ctfassets.net/alneenqid6w5/4CkGZCw0142IDUwH8VVf7A/6bc4e0a9ee37002a0d265d57a156bff6/ui-simulador-promo-pt-230706.gif)
+![ui-Simulator-promo-pt-gif-2](//images.ctfassets.net/alneenqid6w5/4CkGZCw0142IDUwH8VVf7A/6bc4e0a9ee37002a0d265d57a156bff6/ui-simulador-promo-pt-230706.gif)
 
 Para fazer uma simulação, siga as instruções abaixo:
 

@@ -27,7 +27,7 @@ Para aderir ao VTEX Ad Network e exibir anúncios na sua loja, basta instalar o 
 
 Na tela inicial do aplicativo [VTEX Ad Network para lojas](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#lojas), você pode acompanhar os resultados de anúncios na sua loja.
 
-![vtex_ad_network_admin_PT](https://images.ctfassets.net/alneenqid6w5/7nvJI9GTv53buxMMyvarRa/c479a1adcfce1ab838edfa17aeb6aca7/vtex_ad_network_admin.png)
+![vtex_ad_network_admin_PT](//images.ctfassets.net/alneenqid6w5/7nvJI9GTv53buxMMyvarRa/c479a1adcfce1ab838edfa17aeb6aca7/vtex_ad_network_admin.png)
 
 Na parte superior, estão dados agregados:
 
@@ -58,7 +58,7 @@ Você também pode usar os filtros disponíveis acima da tabela:
 
 Na tabela da tela inicial do app [VTEX Ad Network para lojas](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#lojas), você também pode clicar na linha referente a uma das campanhas para ver dados mais específicos.
 
-![vtex_ad_network_details_PT](https://images.ctfassets.net/alneenqid6w5/11oqzf225OjAxaN4gcGCme/50caa424b0c867189369d8071e5afcf0/vtex_ad_network_details.png)
+![vtex_ad_network_details_PT](//images.ctfassets.net/alneenqid6w5/11oqzf225OjAxaN4gcGCme/50caa424b0c867189369d8071e5afcf0/vtex_ad_network_details.png)
 
 - **Visualizações / Cliques:** Visualizações de anúncios e cliques em anúncios.
 - **CTR:** taxa de cliques, calculada pela divisão do número de cliques pelo número de visualizações.

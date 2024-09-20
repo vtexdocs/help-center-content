@@ -40,13 +40,13 @@ To get started, we will fill out basic settings that allow VTEX and Lengow to co
 
 Once this is done, as seen in the image below, press **Save** to store the settings and move on to the next step.
 
-![Lengow Basic Setup](https://images.ctfassets.net/alneenqid6w5/47hHUySqAFsoAXKSX0ec8N/9be820ddefcc9e6893c634d7fe627b16/Screen_Shot_2020-07-01_at_22.44.34.png)
+![Lengow Basic Setup](//images.ctfassets.net/alneenqid6w5/47hHUySqAFsoAXKSX0ec8N/9be820ddefcc9e6893c634d7fe627b16/Screen_Shot_2020-07-01_at_22.44.34.png)
 
 ### Configure VTEX affiliate for Lengow
 
 To fill out the **Prefix to imported orders - Affilitiate ID** field you should configure an [affiliate](https://help.vtex.com/en/tutorial/configuring-affiliates--tutorials_187) for the Lengow connector in *Orders > Orders Management > Settings*. We recommend using the settings below, with LNG as the affiliate ID and your own e-mail address for notifications.
 
-![Lengow affiliate](https://images.ctfassets.net/alneenqid6w5/7384AJaO2ZFcECDGFqWHPT/78a10bd0370a43cdd65116f067fc814c/image9.png)
+![Lengow affiliate](//images.ctfassets.net/alneenqid6w5/7384AJaO2ZFcECDGFqWHPT/78a10bd0370a43cdd65116f067fc814c/image9.png)
 
 ### Get Lengow authentication credentials
 

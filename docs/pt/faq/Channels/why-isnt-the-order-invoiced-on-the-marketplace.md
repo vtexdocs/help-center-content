@@ -30,7 +30,7 @@ O impacto disto é que conseguimos ir até o status faturado apenas na VTEX, sen
 
 A Chave de Acesso da Nota Fiscal é um instrumento auxiliar para consulta da NF-e que permite ao detentor desse documento confirmar a sua efetiva existência, nome do campo Invoice Key:
 
-[]![ChaveDeAcesso](https://images.contentful.com/alneenqid6w5/447ljGvDxuW0mmQoAumGOg/f1f246378401f4c9a56655974300ab04/ChaveDeAcesso-1.png)
+[]![ChaveDeAcesso](//images.contentful.com/alneenqid6w5/447ljGvDxuW0mmQoAumGOg/f1f246378401f4c9a56655974300ab04/ChaveDeAcesso-1.png)
 
 **Lembre-se!** Este dado é criado na geração da Nota Fiscal e comporta ao ERP. Caso tenha um, solicite-o.
 

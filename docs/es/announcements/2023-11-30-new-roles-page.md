@@ -28,7 +28,7 @@ Además de todas las funcionalidades de la versión anterior, la nueva página *
 * Acceder a la lista completa de los roles registrados en tu tienda con un diseño más moderno e intuitivo, actualizado de acuerdo con el [nuevo Admin VTEX](https://help.vtex.com/es/tutorial/admin-vtex-comience-aqui--531cHtUCUi3puRXNDmKziw).
 * Consultar información útil para gestionar los roles directamente desde la lista, así como el número de usuarios asociados a cada uno; también el tipo de rol (predefinido o personalizado) y la fecha de creación del mismo.
 
-![roles-es](https://images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/61435c94a6654fd066e3b0f5f8cd2fd0/roles-es.png)
+![roles-es](//images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/61435c94a6654fd066e3b0f5f8cd2fd0/roles-es.png)
 
 ## ¿Qué se necesita hacer?
 

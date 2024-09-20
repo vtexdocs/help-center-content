@@ -1,10 +1,10 @@
 ---
 title: 'Controle de estoque mínimo para integrações'
 id: 5hvUNIiSeJ5QCaZQYpYf1D
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-10-16T15:25:46.901Z
-updatedAt: 2024-09-04T14:40:22.956Z
-publishedAt: 2023-03-29T16:15:17.491Z
+updatedAt: 2024-09-13T19:35:42.177Z
+publishedAt: 2024-09-13T19:35:42.177Z
 firstPublishedAt: 2020-10-16T17:29:32.622Z
 contentType: tutorial
 productTeam: Channels
@@ -27,23 +27,21 @@ Essa configuração está disponível nas seguintes integrações:
 - [Magazine Luiza](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y/4QWLcDhsh2GSSamouyu6M0)
 - [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4YvYdgICMosaEgISOYogsi)
 - [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/7o8Vt25LJmAUuMmSWSmWes)
-- [Via Varejo](https://help.vtex.com/pt/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/1okse2MybWk04AQoueu88O)
+- [Casas Bahia](https://help.vtex.com/pt/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/3rymwJDuc5Z6lQtsyTINim)
 
 ## Como funciona
 
-Quando o estoque mínimo é atingido, a integração envia para o marketplace uma atualização de estoque igual a zero, isso garante que não sejam vendidos mais produtos até que seja atualizado o estoque novamente. Para que o lojista fique ciente quando isso ocorre, é sinalizado no Admin VTEX no menu **Inventário**.
+Quando o estoque mínimo é atingido, a integração envia para o marketplace uma atualização de estoque igual a zero, isso garante que não sejam vendidos mais produtos até que seja atualizado o estoque novamente. Para que o lojista fique ciente quando isso ocorre, um aviso é registrado na página de estoque que pode ser acessado em **Marketplace > Conexões > Inventário**.
 
 ## Configuração
 
-Para configurar o estoque mínimo da sua integração, siga os passos abaixo:
+Para configurar o estoque mínimo da sua integração, siga os passos abaixo:  
 
-1. Acesse o Admin VTEX.
-2. No menu **Marketplace > Conexões, Integrações**.
-3. Selecione a opção **Configurações**.
-4. Escolha a integração que seja configurar.
-5. Ao escolher a integração, clique na engrenagem <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
-6. Selecione a opção **Editar Configurações**.
-7. No campo **Estoque mínimo**, digite o valor desejado.
-8. Clique em **Salvar**.
+- No Admin VTEX acesse **Marketplace > Conexões > Marketplaces e integrações.**  
+1. Selecione a integração desejada.  
+2. Clique no botão `Editar`.  
+3. No campo **Estoque mínimo,** digite o valor desejado.  
+4. Clique em `Salvar`.  
 
-Feito isso, o estoque mínimo estará ativo para todas as categorias cadastradas na integração que você escolheu. Para checar o estoque dos seus produtos, acesse o painel de estoque em *Marketplace > Integrações > Estoque*.
+Feito isso, o **estoque mínimo** estará ativo para todas as categorias cadastradas na integração que você escolheu. Para checar o estoque dos seus produtos, acesse o painel de estoque em **Marketplace > Conexões > Inventário.**  
+

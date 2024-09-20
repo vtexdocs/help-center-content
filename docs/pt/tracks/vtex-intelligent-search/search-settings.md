@@ -1,10 +1,10 @@
 ---
 title: 'Configuração da busca'
 id: 5t75L6lYNwix93l41s1Yrx
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-08-17T19:50:20.729Z
-updatedAt: 2024-04-25T17:06:18.124Z
-publishedAt: 2024-04-25T17:06:18.124Z
+updatedAt: 2024-09-06T20:14:21.133Z
+publishedAt: 
 firstPublishedAt: 2020-09-28T20:51:58.291Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -36,7 +36,7 @@ As configurações gerais apresentam as opções a seguir, relacionadas a [espec
 
 As configurações de filtros apresentam ajustes relacionados aos filtros exibidos para os clientes da sua loja durante a busca:
 
-![Configurações de filtros](https://images.ctfassets.net/alneenqid6w5/mSm3lqR5H5pTn1AVrhYk8/d30c6a13e65de39d0273a014abf55781/configuracoes_de_filtro_pt.png)
+![Configurações de filtros](//images.ctfassets.net/alneenqid6w5/mSm3lqR5H5pTn1AVrhYk8/d30c6a13e65de39d0273a014abf55781/configuracoes_de_filtro_pt.png)
 
 * **Ordenação dos filtros:** ordem em que os filtros serão exibidos na loja. Caso não tenha nenhum filtro selecionado na área, a ordem padrão é alfabética.
 

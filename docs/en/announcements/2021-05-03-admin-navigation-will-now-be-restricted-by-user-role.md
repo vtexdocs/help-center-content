@@ -27,7 +27,7 @@ Now, users will only see the sidebar menu items they are allowed to access, acco
 
 The image below illustrates how the sidebar might change as a result of these housekeeping procedures to improve your store's security and user experience.
 
-![EN Sidebar permissions announcement screenshot](https://images.ctfassets.net/alneenqid6w5/1dnqc48HsZDxmiUygavYHZ/8ffedd77b8566929fd3c39b73cad6590/EN_Sidebar_permissions_announcement_screenshot.png)
+![EN Sidebar permissions announcement screenshot](//images.ctfassets.net/alneenqid6w5/1dnqc48HsZDxmiUygavYHZ/8ffedd77b8566929fd3c39b73cad6590/EN_Sidebar_permissions_announcement_screenshot.png)
 
 ## Why did we make this change?
 

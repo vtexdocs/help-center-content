@@ -36,7 +36,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 
 ### A vista
 
-![pagamento-a-vista es](https://images.ctfassets.net/alneenqid6w5/2nH3F7oSW4OMiMQKcoAWeM/a5a96ec62da667f4f853cfc70d2def29/pago-a-vista.png)
+![pagamento-a-vista es](//images.ctfassets.net/alneenqid6w5/2nH3F7oSW4OMiMQKcoAWeM/a5a96ec62da667f4f853cfc70d2def29/pago-a-vista.png)
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -52,7 +52,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 
 ### En cuotas sin interés
 
-![parcelamento-sem-juros es](https://images.ctfassets.net/alneenqid6w5/185SM0Kebg4S2a8IcysEsG/d0ec61a4b01dd19d2a9bcca5394d50a0/cuotas-sin-interes.png)
+![parcelamento-sem-juros es](//images.ctfassets.net/alneenqid6w5/185SM0Kebg4S2a8IcysEsG/d0ec61a4b01dd19d2a9bcca5394d50a0/cuotas-sin-interes.png)
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -69,7 +69,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 
 ### En cuotas con interés
 
-![parcelamento-com-juros es](https://images.ctfassets.net/alneenqid6w5/3ZdPenx28oK0yG4QyeIq0c/b7184b8eeeda1573eaa60cf167be0e2c/cuotas-com-interes.png)
+![parcelamento-com-juros es](//images.ctfassets.net/alneenqid6w5/3ZdPenx28oK0yG4QyeIq0c/b7184b8eeeda1573eaa60cf167be0e2c/cuotas-com-interes.png)
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -87,7 +87,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 14. Para elegir entre interés compuesto e interés simple, haga clic en __Interés compuesto aplicado. Cambiar__. Aparecerá una casilla de verificación que ofrece ambas opciones.
 15. Haga clic en __Guardar__.
 
-![Juros - es](https://images.ctfassets.net/alneenqid6w5/5DQndlL3ixGVYBKBOTsVM7/70c11c8cbf6fa5d088c381c34d63454b/Juros_-_es.png)
+![Juros - es](//images.ctfassets.net/alneenqid6w5/5DQndlL3ixGVYBKBOTsVM7/70c11c8cbf6fa5d088c381c34d63454b/Juros_-_es.png)
 
 #### Intereses Externos
 
@@ -101,4 +101,4 @@ En algunos países, los intereses de las compras parceladas son cobrados directa
 2. En la pestana __Condiciones de pago__, haga clic en el condición de pago que desea eliminar.
 3. Haga clic en el icono de la papelera.
 
-![Remover condición de pago](https://images.ctfassets.net/alneenqid6w5/30AGmwCJOclqEqvcNPzuxV/76f4023f4e0262ebaefa8318e46330b3/remover_condicion_pago.png)
+![Remover condición de pago](//images.ctfassets.net/alneenqid6w5/30AGmwCJOclqEqvcNPzuxV/76f4023f4e0262ebaefa8318e46330b3/remover_condicion_pago.png)

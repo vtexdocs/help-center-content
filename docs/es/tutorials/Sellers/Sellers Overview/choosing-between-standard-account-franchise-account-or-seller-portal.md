@@ -3,8 +3,8 @@ title: 'Elegir entre cuenta estándar, cuenta franquicia o Seller Portal'
 id: 4S90HzzhMyZESsHqrnUs78
 status: PUBLISHED
 createdAt: 2022-04-20T14:15:50.164Z
-updatedAt: 2023-11-22T14:09:05.122Z
-publishedAt: 2023-11-22T14:09:05.122Z
+updatedAt: 2024-09-16T16:41:20.164Z
+publishedAt: 2024-09-16T16:41:20.164Z
 firstPublishedAt: 2022-04-27T21:42:35.010Z
 contentType: tutorial
 productTeam: Channels
@@ -68,8 +68,8 @@ A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la
 
 | **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
 |---------- | ---------- | ---------- | ---------- |
-| El _seller_ puede crear [promociones](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N) | El _seller_ no puede crear promociones, pero el _marketplace_ VTEX puede configurar promociones para que se apliquen a los productos del _seller_. | Puede crear y configurar promociones, además de simular promociones. | Puede crear y configurar promociones, además de simular promociones. |
-| Determinar canal para promoción | El _seller_ no puede crear promociones. | Sí. | Sí. |
+| El _seller_ puede crear [promociones](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N) | El seller crea y configura promociones directamente en el Seller Portal. Para más detalles sobre el proceso de creación, consulte el documento [Seller Portal: Crear una promoción](https://help.vtex.com/es/tutorial/seller-portal-creating-a-promotion--kzNPEaiJE8EWkDzO9dbBI). | Puede crear y configurar promociones, además de simular promociones. | Puede crear y configurar promociones, además de simular promociones. |
+| Determinar canal para promoción | El _seller_ puede crear promociones. | Sí. | Sí. |
 | El _marketplace_ VTEX puede crear promociones para los productos del _seller_ | Sí. | Sí. | Sí. |
 
 ## Pagos

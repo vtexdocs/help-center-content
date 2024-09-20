@@ -3,8 +3,8 @@ title: 'Eventos disponíveis no Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2024-08-16T20:08:11.733Z
-publishedAt: 2024-08-16T20:08:11.733Z
+updatedAt: 2024-09-19T19:45:23.075Z
+publishedAt: 2024-09-19T19:45:23.075Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
 productTeam: Master Data
@@ -32,6 +32,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](https://
 * [Portal CMS](#portal-cms)
 * [License Manager](#license-manager)
 * [VTEX ID](#vtex-id)
+* [Master Data](#master-data)
 * [Headless CMS](#headless-cms)
 * [Gerenciamento de sellers](#gerenciamento-de-sellers)
 * [Site Editor](#site-editor)
@@ -221,6 +222,8 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](https://
 | Ação | Descrição do evento | Detalhes do evento |
 |---|---|---|
 | DeleteDocument | Exclusão de documento. | ID do documento. |
+| UpdateSchema | Criação ou edição de schema no Master Data v2. | Nome do schema. |
+| DeleteSchema | Exclusão de schema no Master Data v2. | Nome do schema. |
 
 ## Headless CMS
 

@@ -3,8 +3,8 @@ title: 'Status de los anuncios'
 id: 2OE87wU26F7lApl99OdwvJ
 status: PUBLISHED
 createdAt: 2023-09-29T19:16:05.771Z
-updatedAt: 2024-03-04T20:03:00.144Z
-publishedAt: 2024-03-04T20:03:00.144Z
+updatedAt: 2024-09-09T14:53:52.369Z
+publishedAt: 2024-09-09T14:53:52.369Z
 firstPublishedAt: 2023-09-29T20:07:16.003Z
 contentType: tutorial
 productTeam: Channels
@@ -19,11 +19,11 @@ El módulo **Status de los anuncios** permite a los sellers realizar un seguimie
 
 En **Status de los anuncios** se puede llevar a cabo un seguimiento de los anuncios enviados únicamente a los marketplaces VTEX. Para acceder al módulo en el Admin VTEX, ve a **Marketplace > Conexiones > Status de los anuncios,** o ingresa **Status de los anuncios** en la barra de búsqueda.  
 
-![Pantalla de estado de la oferta](https://downloads.ctfassets.net/alneenqid6w5/5elFaSW31IgANpXseTApPo/91b3ae83719e933617324f74223d736b/-ES-_Offer_Status_-_GIF.gif)
+![Pantalla de estado de la oferta](//downloads.ctfassets.net/alneenqid6w5/5elFaSW31IgANpXseTApPo/91b3ae83719e933617324f74223d736b/-ES-_Offer_Status_-_GIF.gif)
 
 La página **Status de los anuncios** está compuesta por tres pestañas: **[Publicados](#pestana-publicados)**, **[Problemas](#pestana-problemas)** y **[A la espera de finalización.](#pestana-a-la-espera-de-finalizacion)** Todas ellas presentan una lista de tus anuncios de acuerdo con su status actual. Accede y consulta los detalles de cada anuncio, como status, stock, precio, fecha de actualización y los motivos de rechazo en el marketplace.
 
-![Estado de los anuncios shcema](https://images.ctfassets.net/alneenqid6w5/mC78m1ROUDWruOE5V5XEk/9e17eeb599bb0d5e3dec1933097d4af0/offer-status-schema-es.png)
+![Estado de los anuncios shcema](//images.ctfassets.net/alneenqid6w5/mC78m1ROUDWruOE5V5XEk/9e17eeb599bb0d5e3dec1933097d4af0/offer-status-schema-es.png)
 
 ## Pestaña Publicados
 
@@ -50,7 +50,7 @@ Para filtrar los anuncios por **Marketplace**, haz clic en la flecha hacia abajo
 
 Para filtrar los anuncios por **Stock**, haz clic en la flecha hacia abajo situada junto al filtro, ingresa el número de stock mínimo, stock máximo, o ambos, y haz clic en **Aplicar**.
 
-![Filtro estoque offer status](https://images.ctfassets.net/alneenqid6w5/p6cXcm4zP1pYWyTGbQcoE/0cc494ba4b34b71a2aaf21cfb3ed1a21/inventario-offer-status.png)
+![Filtro estoque offer status](//images.ctfassets.net/alneenqid6w5/p6cXcm4zP1pYWyTGbQcoE/0cc494ba4b34b71a2aaf21cfb3ed1a21/inventario-offer-status.png)
 
 Para filtrar los anuncios por **Actualización**, haz clic en la flecha hacia abajo situada junto al filtro, selecciona una de las opciones y haz clic en **Aplicar.**
 
@@ -59,7 +59,7 @@ Consulta a continuación las opciones disponibles para este filtro:
 - **Actualizados**: son anuncios cuyo precio y/o stock han sido actualizados por el seller y se procesaron con éxito.
 - **Error al actualizar:** anuncios que presentaban inconsistencias y, por lo tanto, no pudieron ser actualizados.
 
-![Filtro atualizado offer status](https://images.ctfassets.net/alneenqid6w5/VBAg96YrCwBHB358eJS7r/fa8829e63abbb196a93296e24d12a960/actualizaci_n-offer-status.png)
+![Filtro atualizado offer status](//images.ctfassets.net/alneenqid6w5/VBAg96YrCwBHB358eJS7r/fa8829e63abbb196a93296e24d12a960/actualizaci_n-offer-status.png)
 
 Puedes utilizar un único filtro o combinarlos en una misma búsqueda. Los filtros no vienen preseleccionados de manera predeterminada, lo que significa que la página inicial mostrará la cantidad total de anuncios existentes.
 
@@ -102,7 +102,7 @@ Para actualizar la información de un anuncio ya publicado el seller debe realiz
 
 Serás redirigido a la página correspondiente para realizar los cambios necesarios.
 
-![Ações offer status](https://images.ctfassets.net/alneenqid6w5/3SzA8sqcAKJx2L4GrdLcQ2/b17744a4b3b202fc28490eda7ff16663/a__es-offer-status.png)
+![Ações offer status](//images.ctfassets.net/alneenqid6w5/3SzA8sqcAKJx2L4GrdLcQ2/b17744a4b3b202fc28490eda7ff16663/a__es-offer-status.png)
 
 ### Exportar la lista de anuncios publicados
 
@@ -140,7 +140,7 @@ Para filtrar los anuncios por **Enviados**, haz clic en la flecha hacia abajo si
 
 Para filtrar los anuncios por **Stock**, haz clic en la flecha hacia abajo situada junto al filtro, ingresa el número de stock mínimo, stock máximo, o ambos, y haz clic en **Aplicar**.
 
-![Filtro estoque offer status](https://images.ctfassets.net/alneenqid6w5/p6cXcm4zP1pYWyTGbQcoE/0cc494ba4b34b71a2aaf21cfb3ed1a21/inventario-offer-status.png)
+![Filtro estoque offer status](//images.ctfassets.net/alneenqid6w5/p6cXcm4zP1pYWyTGbQcoE/0cc494ba4b34b71a2aaf21cfb3ed1a21/inventario-offer-status.png)
 
 Puedes utilizar un único filtro o combinarlos en una misma búsqueda. Los filtros no vienen preseleccionados de manera predeterminada, lo que significa que la página inicial mostrará la cantidad total de anuncios existentes.
 

@@ -1,10 +1,10 @@
 ---
 title: 'Intelligent Search'
 id: 3qgT47zY08biLP3d5os3DG
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-03-05T14:47:05.068Z
-updatedAt: 2023-08-22T17:03:02.484Z
-publishedAt: 2023-08-22T17:01:21.074Z
+updatedAt: 2024-09-06T20:31:00.380Z
+publishedAt: 2024-09-06T20:31:00.380Z
 firstPublishedAt: 2020-03-05T19:53:38.701Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -14,26 +14,21 @@ trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugPT: vtex-intelligent-search
 ---
 
->ℹ️ Este app só está disponível para lojas desenvolvidas usando VTEX IO. Antes de prosseguir, é preciso instalar e configurar o Intelligent Search na sua loja.
+O Intelligent Search é uma ferramenta de busca inteligente nativa da VTEX, projetada para melhorar a experiência de compra no comércio digital. Ele apoia os clientes durante toda a jornada de compra, independentemente do canal utilizado (website, aplicativo móvel, conversacional, entre outros).
 
-O Intelligent Search é uma plataforma de busca inteligente para o comércio digital. Ele é uma solução de busca nativa da plataforma VTEX, auxiliando o cliente em toda sua jornada de compra, independente do canal (website, mobile app, conversational, etc). 
+De forma simples e intuitiva, ele apresenta resultados relevantes desde a primeira interação do usuário com a loja, seja através da barra de busca, navegando pelas categorias, ou através das vitrines de produtos.
 
-De forma simples e intuitiva, ele apresenta resultados relevantes com base no catálogo desde a primeira interação do usuário com a loja, seja através da barra de busca, navegando pelas categorias, ou mesmo através das vitrines de produtos.
+Nesta trilha, apresentamos as etapas necessárias para configurar e começar a utilizar o Intelligent Search em sua loja VTEX.
 
-A ferramenta ainda conta com funcionalidades como o autocomplete, exibindo sugestões de busca e de produtos com base no contexto do shopper, assim como filtros que auxiliam no processo de encontrar o produto desejado. 
+>ℹ️ Conheça todas as funcionalidades disponíveis e saiba mais sobre o comportamento da ferramenta em [Intelligent Search - Visão geral](https://help.vtex.com/pt/tutorial/intelligent-search-visao-geral--5o8ixTpYIxx3uJD0B1xp3z).
 
-Além disso, o Intelligent Search utiliza dados históricos de cliques e pedidos para melhorar a busca dinamicamente, bem como possui a capacidade de lidar com erros ortográficos, plural/singular, gênero (radical). Por fim, conta com configurações que possibilitam tanto melhorar a experiência do cliente, quanto atender as necessidades de negócio do comerciante.
+## Requisitos
 
-O VTEX Intelligent Search suporta os seguintes idiomas: Alemão, Árabe, Armênio, Basco, Bengali, Búlgaro, Catalão, Chinês, Coreano, Dinamarquês, Espanhol, Estoniano, Finlandês, Francês, Galego, Grego, Hindi, Holandês, Húngaro, Indonésio, Inglês, Irlandês, Italiano, Japonês, Letão, Lituano, Norueguês, Persa, Polonês, Português, Português do Brasil, Romeno, Russo, Sorani, Sueco, Tailandês, Tcheco, Turco e Urdu.
+Antes de começar a utilizar o Intelligent Search, confira se sua loja atende aos requisitos a seguir:
 
-Nos artigos mencionados abaixo, você encontrará uma visão geral sobre cada funcionalidade do Intelligent Search.
+* A loja precisa ter sido desenvolvida utilizando [Store Framework](https://developers.vtex.com/docs/guides/store-framework) ou [FastStore](https://developers.vtex.com/docs/guides/faststore), ou seja, é necessário utilizar uma versão do [Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) vtex.edition-store@3.x ou mais recente.
 
-- **Explicação da busca**: é uma funcionalidade que interpreta um termo pesquisado e apresenta a lista de produtos como um resultado de pesquisa.
-- **Autocomplete**: funciona com base nas informações obtidas por meio do histórico de busca de termos relacionados ao Catálogo. 
-- **Regras de Merchandising**: é a funcionalidade que manipula resultados dentro de uma busca. 
-- **Filtros**: é a funcionalidade que exibe, de forma agrupada, as especificações dos resultados de uma busca. 
-- **Indexação**: é um processo que prepara os dados gerais do SKU, tais como dados de catálogo, de preço e de estoque e atualiza as informações para servir de base para pesquisas e montagens das prateleiras do site. Acessando o Intelligent Search na sua loja, é possível verificar o Status e o Histórico da indexação.
-- **Relevância**: Relevância é uma funcionalidade que define a ordem dos produtos no resultado de busca. 
-- **Redirecionamentos**: Redirecionamentos é uma funcionalidade que direciona o cliente para qualquer outra página, seja interna, seja externa ao seu site. Esse redirecionamento é feito na área de busca, utilizando termos ou filtros selecionados. Dentro do Admin, o redirecionamento é chamado de Redirecionamento.
-- **Sinônimos**: permite o cadastro de sinônimos - palavras de mesmo sentido - a um termo de busca específico, aumentando a chance de uma busca com sucesso.
-- **Analytics**: Organiza os dados relacionados às pesquisas realizadas na loja e possibilita exportar esses dados em um arquivo CSV.
+  >ℹ️ O requisito acima não se aplica a cenários de implementação headless, em que a tecnologia de frontend não é oferecida pela VTEX. Nesses casos, é necessário implementar o envio dos eventos de busca. Obtenha mais detalhes em [VTEX Intelligent Search Events API - Headless](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless).
+
+* A loja deve ter [produtos e SKUs cadastrados no Catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) e ativos.
+

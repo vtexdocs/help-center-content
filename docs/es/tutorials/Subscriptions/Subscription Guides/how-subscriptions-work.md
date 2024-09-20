@@ -3,8 +3,8 @@ title: 'Cómo funciona Suscripciones '
 id: frequentlyAskedQuestions_4453
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.886Z
-updatedAt: 2024-08-29T15:23:33.643Z
-publishedAt: 2024-08-29T15:23:33.643Z
+updatedAt: 2024-09-20T13:14:49.119Z
+publishedAt: 2024-09-20T13:14:49.119Z
 firstPublishedAt: 2019-01-24T22:14:56.290Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -110,3 +110,6 @@ Sí, el precio que paga el cliente por la suscripción se basa en el precio regi
 La creación de pedidos de suscripción se realiza entre 6:00 y 7:00 de la mañana, con referencia a la zona de Brasil (GMT-3).
 
 13. **¿La funcionalidad Suscripciones funciona con el Seller Portal?** No, Suscripciones no funciona con el [Seller Portal](https://help.vtex.com/es/tutorial/how-to-set-up-your-store-on-seller-portal).
+
+14. **¿Cómo crear suscripciones a partir de pedidos originales que tienen SKUs con anexos?**
+De forma predeterminada, las tiendas no crean pedidos de suscripción incorporando [anexos](https://help.vtex.com/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) de SKUs del pedido original, es decir, los anexos no se consideran en pedidos recurrentes. Esta configuración se puede cambiar, pero solo a través de API utilizando el endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Más información en [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).

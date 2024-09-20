@@ -41,7 +41,7 @@ We recommend beginning the investigation with **Catalog**. To check the **Catalo
 1. Access the VTEX Admin and go to **Products > Catalog > Products and SKUs** to check the products listed in your store.
 2. Find the product you want to display in the list, as illustrated below.
 
-    ![01-produto-en](https://images.ctfassets.net/alneenqid6w5/75SkVRup4MW0URypUVayEh/8b6bbeb3f736a6e16c77b4b9889c6026/01-produto-en.PNG)
+    ![01-produto-en](//images.ctfassets.net/alneenqid6w5/75SkVRup4MW0URypUVayEh/8b6bbeb3f736a6e16c77b4b9889c6026/01-produto-en.PNG)
 
 3. Follow the instructions described in the next sections to check this information:
     * [Product](#product)
@@ -83,16 +83,16 @@ On the SKUs page, in **Products > Catalog > Products and SKUs**, follow the inst
 
     |Button | Description |
     |-|-|
-    | ![04-botao-precos](https://images.ctfassets.net/alneenqid6w5/7f0NyYsrdO9dRgW2OQb0ND/1343af5f40a6f0a64cdd8378385977c0/04-botao-precos.png) | Allows you to access the __Price list__ to check if the desired trade policy has a valid price associated with the product SKUs. For more information, check the [Prices](#prices) section. |
-    | ![05-botao-logistica](https://images.ctfassets.net/alneenqid6w5/4Y2GdsvjxHYkVSBfElhVr9/17742a7ce2632fa9d800d942bb016283/05-botao-logistica.png) | Allows you to access the __Inventory management__ page to check if the SKU is available in stock.  For more information, check the [Logistics](#logistics) section. |
-    | ![06-botao-indexed-info](https://images.ctfassets.net/alneenqid6w5/5G3dZgdVZDiPqADnodmHc7/e31e69a2333d82a74ca980303e93b690/06-botao-indexed-info.png) | Allows you to view each **Seller ** selling the SKU, the trade policy (**Policy**), the price (**Value**) and the SKU quantity in inventory (**Quantity**). |
+    | ![04-botao-precos](//images.ctfassets.net/alneenqid6w5/7f0NyYsrdO9dRgW2OQb0ND/1343af5f40a6f0a64cdd8378385977c0/04-botao-precos.png) | Allows you to access the __Price list__ to check if the desired trade policy has a valid price associated with the product SKUs. For more information, check the [Prices](#prices) section. |
+    | ![05-botao-logistica](//images.ctfassets.net/alneenqid6w5/4Y2GdsvjxHYkVSBfElhVr9/17742a7ce2632fa9d800d942bb016283/05-botao-logistica.png) | Allows you to access the __Inventory management__ page to check if the SKU is available in stock.  For more information, check the [Logistics](#logistics) section. |
+    | ![06-botao-indexed-info](//images.ctfassets.net/alneenqid6w5/5G3dZgdVZDiPqADnodmHc7/e31e69a2333d82a74ca980303e93b690/06-botao-indexed-info.png) | Allows you to view each **Seller ** selling the SKU, the trade policy (**Policy**), the price (**Value**) and the SKU quantity in inventory (**Quantity**). |
 
 2. On the row displaying the product with the SKU you want to verify, click the down arrow <i class="fas fa-caret-down"></i>, next to the `Update` button.
 3. Click the **SKU** option to access the SKUs detailed list.
 4. In the **Status** column, check if the indicated situation is `Active`. If the SKUs are active, go to step 7.
 5. If a SKU appears as `Inactive`, click `Update` to view the SKU detailed information.
 
-    ![07-catalogo-skus-en](https://images.ctfassets.net/alneenqid6w5/6hs2pWjN8Mze7A274XRAm3/038a679284d7261a44ace5814e67ee34/07-catalogo-skus-en.png)
+    ![07-catalogo-skus-en](//images.ctfassets.net/alneenqid6w5/6hs2pWjN8Mze7A274XRAm3/038a679284d7261a44ace5814e67ee34/07-catalogo-skus-en.png)
 
 6. On the SKU information page, continue checking the items listed below.
     * **Activate SKU if possible:** Check if this option is selected. Otherwise, the SKU will not be displayed. When you activate this option, you determine that the SKU will be activated if it meets the necessary requirements:
@@ -107,7 +107,7 @@ On the SKUs page, in **Products > Catalog > Products and SKUs**, follow the inst
 
 <img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/3StXGBCMW8ZExshcEhfF9m/ebc572e69e7dc83a5de491a83c4233ac/08-aba-imagens-en.png" alt="08-aba-imagens-es" style="margin-bottom: 20px;"> <figcaption align = "center"><em><strong>Images</strong> tab</em></figcaption></figure>
 
-![09-sku-imagens-en](https://images.ctfassets.net/alneenqid6w5/1JJflflW0ACgVn05sRv29x/f58814d66052faf18d3bc44e68eb83cc/09-sku-imagens-en.PNG)
+![09-sku-imagens-en](//images.ctfassets.net/alneenqid6w5/1JJflflW0ACgVn05sRv29x/f58814d66052faf18d3bc44e68eb83cc/09-sku-imagens-en.PNG)
 
 ### Indexed Info
 
@@ -121,13 +121,13 @@ The indexing list displays each product SKU status. If any issue is detected, th
 
 In the example below, you can conclude that the SKU is unavailable because there are no items in stock:
 
-![10-indexed-info-code](https://images.ctfassets.net/alneenqid6w5/3J8ZK4CikAYOwYh8GAzbWa/f1e1650c980fd7042649f6bd8ae3e9a4/Group_1__7_.png)
+![10-indexed-info-code](//images.ctfassets.net/alneenqid6w5/3J8ZK4CikAYOwYh8GAzbWa/f1e1650c980fd7042649f6bd8ae3e9a4/Group_1__7_.png)
 
 Based on this information, you can take action to correct the issue. In this example, you should adjust the item quantity in stock in the [Logistics](#logistics) system.
 
 An active SKU without errors will appear in the index, similar to the one illustrated below:
 
-![11-indexed-info-code-active](https://images.ctfassets.net/alneenqid6w5/3Sd3Ta5gzKo0LY9dMHmCqp/9e9c99cc4c9408c6dfbaddd4feaaaa84/11-indexed-info-code-active.png)
+![11-indexed-info-code-active](//images.ctfassets.net/alneenqid6w5/3Sd3Ta5gzKo0LY9dMHmCqp/9e9c99cc4c9408c6dfbaddd4feaaaa84/11-indexed-info-code-active.png)
 
 >ℹ️ If no reason is given for the product’s unavailability and if you do not find any issues in the product/SKUs, reindexing the product may solve the problem.
 >
@@ -144,7 +144,7 @@ In the **Prices** module, it's important to verify if your product SKU contains 
 
 In the example illustrated below, there are two SKUs without a base price. This is why there is no calculated price in the trade policy column — only the information _No price yet_ is displayed.
 
-![12-precos-en](https://images.ctfassets.net/alneenqid6w5/3XrEvLWMmU3LlsxF75v9NN/fe4b6781deb81831cd88cef790af7aee/12-precos-en.PNG)
+![12-precos-en](//images.ctfassets.net/alneenqid6w5/3XrEvLWMmU3LlsxF75v9NN/fe4b6781deb81831cd88cef790af7aee/12-precos-en.PNG)
 
 ### Creating a base price
 
@@ -172,13 +172,13 @@ The **Shipping simulator** allows you to check if the item exists in the invento
 2. Fill in the necessary information, as described in [Shipping simulator](https://help.vtex.com/en/tutorial/shipping-simulation--tutorials_144).
 3. Click `Shipping simulation`.
 
-![13-simular-frete-pt](https://images.ctfassets.net/alneenqid6w5/rJE0n5ZijrAerIWzzf2Gy/0fbc4b15077d4ea265c82c0a70f5f064/13-simular-frete-en.PNG)
+![13-simular-frete-pt](//images.ctfassets.net/alneenqid6w5/rJE0n5ZijrAerIWzzf2Gy/0fbc4b15077d4ea265c82c0a70f5f064/13-simular-frete-en.PNG)
 
 >ℹ️ To investigate a specific item, you must perform the simulation using a **zip code** included in all the [trade policies](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140). If you find out the item is not available for that zip code, it means it will not be available for any other one.
 
 The simulation result shows whether the product is available for delivery at the provided address and which are the best shipping options. For example, if there are not enough available items in stock, the simulator will display the following message:
 
-![14-simulador-motivos-en](https://images.ctfassets.net/alneenqid6w5/4oVBH9r7Vs3jDWZF2MUqdO/68f0e61b7646bb685b5f28278856512b/14-simulador-motivos-en.PNG)
+![14-simulador-motivos-en](//images.ctfassets.net/alneenqid6w5/4oVBH9r7Vs3jDWZF2MUqdO/68f0e61b7646bb685b5f28278856512b/14-simulador-motivos-en.PNG)
 
 For more information on using the simulator, please read the article [Shipping simulator](https://help.vtex.com/en/tutorial/shipping-simulation--tutorials_144).
 
@@ -199,7 +199,7 @@ If a product is not available on the website because it is out of stock, you mus
 3. To update the stock count, go to the desired SKU row and write the current quantity in the **Update count** column, as illustrated below.
 4. Click `Save`.
 
-![15-gerenciar-inventario-en](https://images.ctfassets.net/alneenqid6w5/7gcnOqUFhzOrvf0EPJTTeM/1ef88e4a10e7cac64efaca80a3fe37fa/15-gerenciar-inventario-en.gif)
+![15-gerenciar-inventario-en](//images.ctfassets.net/alneenqid6w5/7gcnOqUFhzOrvf0EPJTTeM/1ef88e4a10e7cac64efaca80a3fe37fa/15-gerenciar-inventario-en.gif)
 
 For more information, please read the [Inventory management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139) tutorial.
 
@@ -242,7 +242,7 @@ Follow the steps below to check the template your page is using.
 
     In the example below, the default template is `vtex.curbside-pickup@0.x:store.curbside-pickup` and there is no conditional template.
 
-    ![16-templates-cms-en](https://images.ctfassets.net/alneenqid6w5/5EMFVK2j0O7l6im1ZJIQQI/13b66c83e437aa4e2a3bd0d9f722553b/16-templates-cms-en.PNG)
+    ![16-templates-cms-en](//images.ctfassets.net/alneenqid6w5/5EMFVK2j0O7l6im1ZJIQQI/13b66c83e437aa4e2a3bd0d9f722553b/16-templates-cms-en.PNG)
 
 4. Next, you must check the blocks declared in the used template, as described in [Templates](#templates).
 

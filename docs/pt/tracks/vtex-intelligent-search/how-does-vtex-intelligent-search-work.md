@@ -1,10 +1,10 @@
 ---
 title: 'Como o VTEX Intelligent Search funciona?'
 id: 23mytRDsEduqLO0Lo7yufy
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-03-05T14:57:22.014Z
-updatedAt: 2024-04-25T16:53:08.559Z
-publishedAt: 2024-04-25T16:53:08.559Z
+updatedAt: 2024-09-06T20:08:28.043Z
+publishedAt: 
 firstPublishedAt: 2020-03-05T19:54:00.932Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising

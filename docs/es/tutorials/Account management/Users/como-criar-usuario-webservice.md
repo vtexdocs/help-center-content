@@ -19,7 +19,7 @@ subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 >
 > **Todos los demás métodos del Web Service serán discontinuados después de 28/02/2017.**
 >
-> Utilice las API REST equivalentes disponibles en nuestro[Developer Docs](https://help.vtex.com/developer-docs/).
+> Utilice las API REST equivalentes disponibles en nuestro[Developer Docs](//help.vtex.com/developer-docs/).
 
 La creación de credenciales para las integraciones con el Web Service debe ser hecha por License Manager, con la funcionalidad de appKey y appToken.
 

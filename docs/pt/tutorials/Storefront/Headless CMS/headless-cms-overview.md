@@ -35,7 +35,7 @@ Com o Headless CMS, você pode:
 
 [Projetos](https://help.vtex.com/pt/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) é uma funcionalidade do Headless CMS que permite criar e gerenciar vários projetos de frontend, como aplicativos móveis, sites e email marketing em um único painel de controle.
 
-![Projects pages](https://images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/b5bd29ece472c96fceb0aefb71a5365a/projects-one-pt-certo.gif)
+![Projects pages](//images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/b5bd29ece472c96fceb0aefb71a5365a/projects-one-pt-certo.gif)
 
 Para mais informações, acesse o artigo [Gerenciando Projetos](https://help.vtex.com/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM).
 

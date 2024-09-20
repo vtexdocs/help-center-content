@@ -3,8 +3,8 @@ title: 'Operational Capacity (Beta)'
 id: 2thSYLMAS8KAd8V4XuBLSy
 status: PUBLISHED
 createdAt: 2023-05-08T18:03:07.644Z
-updatedAt: 2024-04-08T18:59:56.706Z
-publishedAt: 2024-04-08T18:59:56.706Z
+updatedAt: 2024-09-05T17:50:56.209Z
+publishedAt: 2024-09-05T17:50:56.209Z
 firstPublishedAt: 2023-05-09T17:22:57.861Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,9 @@ legacySlug: locations-module
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
->ℹ️ This feature is in beta, which means that we are working to improve it. To use **Operational Capability (Beta)**, fill out the [contact form](https://docs.google.com/forms/d/e/1FAIpQLScgmHPJEnVfd1EK9znevW-bcdxL2WVqzNZdrwri9auKayZDJA/viewform). To use the feature, it is required to have [franchise accounts](https://help.vtex.com/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associated with the [main account](https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types).
+>ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://help.vtex.com/en/support">our Support</a>.
+
+>⚠️ To use the feature, it is required to have [franchise accounts](https://help.vtex.com/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associated with the [main account](https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types).
 
 The **Operational Capacity** page allows you to manage the sellers' capacity to receive and handle the store's orders to optimize your logistics network. You can monitor the order allocation between sellers and perform [actions](#acoes-na-pagina-de-detalhes-do-seller) to improve order allocation between them.
 
@@ -27,7 +29,7 @@ A good seller operational capacity management leads to the following advantages:
 
 When you go to the VTEX Admin under **Shipping > Operational Capacity**, you will find a page like the one below:
 
-![operational_capacity_image1_EN](https://images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/87f03e4f1a667a76349095e450244602/operational_capacity_image1_EN.png)
+![operational_capacity_image1_EN](//images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/87f03e4f1a667a76349095e450244602/operational_capacity_image1_EN.png)
 
 >⚠️ The sellers displayed on the interface are your operation's sellers, previously configured by our team. To add a new seller, contact [our Support](https://help.vtex.com/en/support) team.
 
@@ -117,7 +119,7 @@ At the top right of the seller's details page, you'll find a toggle switch to ac
 
 The **Operational Capacity Status** chart shows, in real time, the percentage of the seller's capacity that has already been used, as in the image below:
 
-![operational_capacity_image2_EN](https://images.ctfassets.net/alneenqid6w5/510RtT3ugOksM3YD5tYSGc/0bed6fad834c5b5ab6d22ce713abd11d/operational_capacity_image2_EN.png)
+![operational_capacity_image2_EN](//images.ctfassets.net/alneenqid6w5/510RtT3ugOksM3YD5tYSGc/0bed6fad834c5b5ab6d22ce713abd11d/operational_capacity_image2_EN.png)
 
 The chart shows the following periods:
 
@@ -139,7 +141,7 @@ To edit the seller's address or identification name in **Operational Capacity**,
 
 In the **Operational Capacity** section, you can see the seller's current operational capacity settings for each day of the week, as in the following image:
 
-![operational_capacity_image3_EN](https://images.ctfassets.net/alneenqid6w5/70kbPFFifh8ykCHvIj6vEZ/7aa99cf4ff1a7deb322671c5e1961537/operational_capacity_image3_EN.png)
+![operational_capacity_image3_EN](//images.ctfassets.net/alneenqid6w5/70kbPFFifh8ykCHvIj6vEZ/7aa99cf4ff1a7deb322671c5e1961537/operational_capacity_image3_EN.png)
 
 To change these settings, follow the steps below:
 

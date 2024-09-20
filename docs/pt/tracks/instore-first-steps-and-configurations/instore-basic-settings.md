@@ -3,8 +3,8 @@ title: 'VTEX Sales App - Configurações Básicas'
 id: 4L5SoLxE8O3YkxF7FKymrO
 status: PUBLISHED
 createdAt: 2020-06-28T13:51:53.895Z
-updatedAt: 2023-07-26T18:42:22.814Z
-publishedAt: 2023-07-26T18:42:22.814Z
+updatedAt: 2024-09-05T16:26:14.722Z
+publishedAt: 2024-09-05T16:26:14.722Z
 firstPublishedAt: 2020-06-28T14:01:36.462Z
 contentType: trackArticle
 productTeam: Shopping
@@ -24,9 +24,9 @@ Para utilizar o VTEX Sales App, você precisa seguir os passos descritos a segui
 
 ## Instalar o VTEX Sales App
 
-O primeiro passo é instalar gratuitamente na conta principal da marca o aplicativo [VTEX Sales App Setup](https://apps.vtex.com/vtex-instore/p), disponível na VTEX App Store.
+O primeiro passo é instalar gratuitamente na conta principal da marca o aplicativo [VTEX Sales App Setup](https://apps.vtex.com/vtex-assisted-sales-admin/p), disponível na VTEX App Store.
 
-1. Acesse a página do [VTEX Sales App Setup](https://apps.vtex.com/vtex-instore/p) na VTEX App Store.
+1. Acesse a página do [VTEX Sales App Setup](https://apps.vtex.com/vtex-assisted-sales-admin/p) na VTEX App Store.
 2. Clique em `Obter app`.
 3. Digite o nome da sua conta principal na VTEX e clique em `Confirmar`.
 4. Clique em `Fechar pedido`.
@@ -50,7 +50,7 @@ Após a instalação você vai realizar as configurações básicas do aplicativ
 
 ### Cadastre o endereço da loja
 
-![cadastrar-loja-pt](https://images.contentful.com/alneenqid6w5/51ICHIzuWsMAwPCVwQuQoB/071ec5240f968e662badf4e828954072/cadastrar-loja-pt.png)
+![cadastrar-loja-pt](//images.contentful.com/alneenqid6w5/51ICHIzuWsMAwPCVwQuQoB/071ec5240f968e662badf4e828954072/cadastrar-loja-pt.png)
 
 Nesta tela, informe o nome da primeira loja física onde o VTEX Sales App será utilizado e o endereço completo da loja. Quando tiver preenchido todos os campos, clique em `Confirmar`.
 
@@ -60,7 +60,7 @@ Se você optar por `Pular este passo`, uma loja fictícia será criada para fins
 
 ### Registre o email e nome do vendedor
 
-![registrar-vendedor-pt](https://images.contentful.com/alneenqid6w5/5PvZutdPYWkm7rj4HCrlPC/0316ea7fd74dae942a64e5fdb22f3807/registrar-vendedor-pt.png)
+![registrar-vendedor-pt](//images.contentful.com/alneenqid6w5/5PvZutdPYWkm7rj4HCrlPC/0316ea7fd74dae942a64e5fdb22f3807/registrar-vendedor-pt.png)
 
 Você precisa definir um email e um nome para serem usados como credenciais de login de um vendedor. Quando estiver pronto, clique em `Confirmar`.
 
@@ -74,7 +74,7 @@ Se você optar por `Pular este passo`, um vendedor fictício será criado com o 
 
 O próximo passo é configurar os meios de pagamento que você vai aceitar no inStore. Ative as opções desejadas utilizando o botão <i class="fas fa-toggle-on"></i>, conforme ilustrado abaixo.
 
-![configurar-meios-de-pagamento-pt](https://images.contentful.com/alneenqid6w5/3kjTg7Y2tUI5UErQBsGc02/5174724afd2987a4b8f578c1d74b87b9/configurar-meios-de-pagamento-pt.gif)
+![configurar-meios-de-pagamento-pt](//images.contentful.com/alneenqid6w5/3kjTg7Y2tUI5UErQBsGc02/5174724afd2987a4b8f578c1d74b87b9/configurar-meios-de-pagamento-pt.gif)
 
 Existem duas opções:
 
@@ -83,7 +83,7 @@ Existem duas opções:
 
 Após selecionar as opções desejadas, clique em `Confirmar`. Você verá a mensagem de confirmação abaixo.
 
-![sucesso-instore-pt](https://images.contentful.com/alneenqid6w5/nVSjiQuE0EXIYecELJJFQ/79a0d24adb51e7ad68f371afe5ca0491/sucesso-instore-pt.png)
+![sucesso-instore-pt](//images.contentful.com/alneenqid6w5/nVSjiQuE0EXIYecELJJFQ/79a0d24adb51e7ad68f371afe5ca0491/sucesso-instore-pt.png)
 
 ## Configurar condições de pagamento
 

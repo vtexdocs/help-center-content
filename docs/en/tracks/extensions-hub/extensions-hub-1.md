@@ -18,6 +18,6 @@ The Extensions Hub is an Admin section that groups all extension information and
 
 To access the Extensions Hub, go to the left-side menu in the Admin and click the **Extensions** icon at the top.
 
-![Extensions Hub panel](https://images.ctfassets.net/alneenqid6w5/6agEF92xgLL9slUgOgnI8j/3834f464b390752e71c65d675f6d4361/Extensions_Hub_panel_EN.png)
+![Extensions Hub panel](//images.ctfassets.net/alneenqid6w5/6agEF92xgLL9slUgOgnI8j/3834f464b390752e71c65d675f6d4361/Extensions_Hub_panel_EN.png)
 
 You can find three pages in the Extensions Hub section: **App Store**, **App Management**, and **Partners**. Documentation on each of these pages can be found in the articles below.

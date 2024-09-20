@@ -19,15 +19,15 @@ Es posible que, para ciertas páginas de la tienda, los usuarios tengan que aute
 
 Algunas páginas vienen con esta configuración de forma predeterminada. Por ejemplo, las páginas `/Account` y `/Account/Orders`.
 
-![authenticationRequired](https://images.contentful.com/alneenqid6w5/60cIIkiKDSEs2ocmqescgM/3f5a0c46d61c1002c22bc7b5469db7eb/authenticationRequired.png)
+![authenticationRequired](//images.contentful.com/alneenqid6w5/60cIIkiKDSEs2ocmqescgM/3f5a0c46d61c1002c22bc7b5469db7eb/authenticationRequired.png)
 
 Pero usted puede tanto quitar el requisito de autenticación para estas páginas como insertarlo en otras páginas.
 
 Para ello, siga los pasos abajo:
 1. Acceda al módulo __CMS__.
 2. Haga clic en la carpeta correspondiente a la página deseada.
-3. Haga clic en el botón __Edit __.![editFolder](https://images.contentful.com/alneenqid6w5/2DSRmQFQxeAYcoiWCAaU62/bc08bd32b394545d8af716338d55a0be/editFolder.png)
-4. Marque o desmarque la flag __Authentication Required__.![authenticationRequiredFlag](https://images.contentful.com/alneenqid6w5/3iK3iGguAUg84KuAsC4MYW/1dcdae221b886b4a4d1cdc4eb87af9a4/authenticationRequiredFlag.png)
+3. Haga clic en el botón __Edit __.![editFolder](//images.contentful.com/alneenqid6w5/2DSRmQFQxeAYcoiWCAaU62/bc08bd32b394545d8af716338d55a0be/editFolder.png)
+4. Marque o desmarque la flag __Authentication Required__.![authenticationRequiredFlag](//images.contentful.com/alneenqid6w5/3iK3iGguAUg84KuAsC4MYW/1dcdae221b886b4a4d1cdc4eb87af9a4/authenticationRequiredFlag.png)
 5. Haga clic en __Save Folder__.
 
 Tenga en cuenta que cada vez que la flag __Authentication Required__ está marcada en una carpeta, la dirección URL de esta página se montará con la ruta `_secure`. Ex: `http://{AccountName}.vtexcommercestable.com.br/_secure/account/`

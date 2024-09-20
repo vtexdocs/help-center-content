@@ -3,8 +3,8 @@ title: '¿Qué funcionalidades ofrece la integración?'
 id: 5DIYlh0eXB9ClfQFC3l3Mr
 status: PUBLISHED
 createdAt: 2023-03-28T19:41:03.487Z
-updatedAt: 2024-08-19T17:59:52.123Z
-publishedAt: 2024-08-19T17:59:52.123Z
+updatedAt: 2024-09-09T15:19:01.082Z
+publishedAt: 2024-09-09T15:19:01.082Z
 firstPublishedAt: 2023-03-28T21:41:26.632Z
 contentType: trackArticle
 productTeam: Channels
@@ -20,9 +20,8 @@ Además de la integración básica y para que puedas aprovechar al máximo la in
 | **Funcionalidad** | **Descripción** |
 |:---:|:---:|
 | [Migrar anuncios en Mercado Libre](https://help.vtex.com/es/tutorial/migrating-ads-in-mercado-livre--2TuhYgqZr2CAAi2oQaWQcO) | Destinado a los sellers que migran de plataforma de ecommerce. Aquí, aprenderás cómo migrar a la plataforma de VTEX los anuncios registrados en Mercado Libre. |  
-| [Gestión de anuncios](https://help.vtex.com/es/tutorial/gerenciamento-de-anuncios--7MRb9S78aBdZjFGpbuffpE) | El módulo Gestión de anuncios se utiliza para que el seller pueda hacer un seguimiento del envío y la sincronización de los anuncios registrados en Mercado Libre.  |  
 | [Facturas en Mercado Libre](https://help.vtex.com/es/tutorial/notas-fiscais-do-mercado-livre--2JgchgbNXjcVjuFzm6j2sx) | Los sellers que ya hicieron la integración en Mercado Libre podrán consultar y descargar las facturas generadas en la plataforma del marketplace. |  
-| [Gestión de anuncios: oportunidades de Buybox](https://help.vtex.com/es/tutorial/anuncios-enviados-oportunidades-de-buybox--1hO9eI1th47EGxQoTzGewC) | Evalúa los anuncios que son compatibles con los productos que ya están presentes en Mercado Libre para que puedas agregarlos a tu Buybox. |  
+| [Match de anuncios de Mercado Libre](https://help.vtex.com/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/43uD4LPU5PLUWe11IaWwyR) | Evalúa los anuncios del vendedor para sugerir oportunidades de catálogo en Mercado Libre. |  
 | [Promociones de Mercado Libre](https://help.vtex.com/es/tutorial/promocoes-do-mercado-livre--3pEqEnru6H2JcZzYVioT5f) | Con esta funcionalidad, el seller encontrará las promociones que Mercado Libre ofrece para los productos registrados en su catálogo. |  
 | [¿Cómo configurar la tienda paraguas en la integración con Mercado Libre?](https://help.vtex.com/es/faq/how-to-configure-a-top-level-store-in-the-integration-with-mercado-livre--5KINOatgzeS48IGwaAK8IE) | El seller puede registrar sus productos en las tiendas oficiales de Mercado Libre y segmentar por categoría, marca o según sus necesidades. |  
 | [Cómo configurar múltiples cuentas en la integración con Mercado Libre](https://help.vtex.com/es/faq/how-to-set-up-multiple-accounts-in-the-mercado-livre-integration--aO9gr94WJ26K4SweiIEiA) | Si deseas utilizar el mismo catálogo, pero segmentado en 2 tiendas diferentes en Mercado Libre, deberás configurar múltiples cuentas, aunque seguirás gestionando los pedidos en un solo lugar: [el OMS](https://help.vtex.com/es/category/gerenciamento-de-pedidos--2663q96EyQuYc20y0yYAEE). |  

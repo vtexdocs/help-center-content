@@ -1,10 +1,10 @@
 ---
-title: 'Navegación Data Pipeline (Beta)'
+title: 'Navegación Data Pipeline'
 id: 4X4hK0zdIHN0Xn5x2MLYYd
 status: PUBLISHED
 createdAt: 2024-02-02T17:48:16.639Z
-updatedAt: 2024-09-02T19:28:13.230Z
-publishedAt: 2024-09-02T19:28:13.230Z
+updatedAt: 2024-09-13T17:51:19.060Z
+publishedAt: 2024-09-13T17:51:19.060Z
 firstPublishedAt: 2024-05-27T19:26:59.542Z
 contentType: tutorial
 productTeam: Others
@@ -40,7 +40,7 @@ En esta sección puedes consultar la siguiente información:
 >⚠️ Data Pipeline solo proporciona datos de sesiones originadas en las soluciones de <i>storefront</i> de VTEX: CMS Legado, Store Framework y FastStore. VTEX no tiene acceso a sesiones originadas en marketplaces de terceros o storefronts de tiendas propietarias. Además, las personalizaciones realizadas en el <i>frontend</i> de la tienda pueden interferir o incluso desactivar el <i>script,</i> provocando que algunas sesiones no se registren o que la tasa de conversión observada en el dashboard no sea precisa.
 > Para minimizar el impacto en el desempeño de la tienda, el <i>script</i> está configurado para ser el último elemento en cargarse en la página. Esto significa que es posible que no se capturen sesiones muy breves.  
 
-## Tabla sessions  
+## Tabla `sessions`  
 
 Esta tabla contiene solo las sesiones finalizadas, ya sea por inactividad o porque culminaron en una compra. Se ordena por `session_id`, `session_end_time` y `store_name`. Por este motivo, evita filtrar grandes intervalos de datos por columnas que no están relacionados con esta estrategia de ordenación.   
 Consulta a continuación los campos que componen la tabla.  
@@ -95,7 +95,7 @@ Consulta a continuación los campos que componen la tabla.
 | **exit_page_type** | character varying(16383) | Tipo de página de la última página vista en esta sesión. |
 | **exit_page_checkout_step** | character varying(16383) | Fase de checkout de la última página vista en esta sesión. |  
 
-## Tabla pageviews  
+## Tabla `pageviews`  
 
 Cada ítem de esta tabla corresponde a una página vista por el comprador, como la página de inicio, la página de producto y la fase de checkout.
 Una página vista se cuenta después de que el navegador del comprador haya cargado la página. Cada página tiene atributos específicos y, como esta tabla lo reúne todo en un único esquema, aparecerán muchos valores nulos. Por ejemplo, se espera que los atributos de las páginas de producto sean nulos cuando la vista de la página corresponde a una fase de carrito.  
@@ -178,7 +178,7 @@ Consulta a continuación los campos que componen la tabla.
 | **transaction_products** | super | Productos en la transacción. |
 | **transaction_total** | numeric(22,4) | Total de la transacción. |  
 
-## Análisis con datos de navegación  
+## Análisis con datos de navegación 
 
 Los datos de navegación pueden utilizarse para los siguientes análisis:
 
@@ -204,3 +204,5 @@ En los datos de navegación de VTEX observamos importantes interacciones con otr
 - [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
 - [Precios](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
 - [Promociones](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Tarjeta de regalo](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Registro del Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

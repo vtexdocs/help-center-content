@@ -20,7 +20,7 @@ Com foco no sucesso dos nossos clientes, a VTEX oferece soluções completas par
 E para que você adote facilmente novos recursos, gerencie seu negócio com autonomia e ganhe em escalabilidade, disponibilizamos o novo Guia de onboarding, um conteúdo da jornada completa de operar uma loja VTEX. O material está disponível na seção [Comece aqui](https://help.vtex.com/pt/tracks) do Help Center.
 
 <div>
-  <img src="https://images.ctfassets.net/alneenqid6w5/359WPOFfC5pE91DpoECZJe/4ec1ed1efbb3b2bc052974136a8759ce/announcement_complete_guide_PT.png" alt="Guia de onboarding">
+  <img src="//images.ctfassets.net/alneenqid6w5/359WPOFfC5pE91DpoECZJe/4ec1ed1efbb3b2bc052974136a8759ce/announcement_complete_guide_PT.png" alt="Guia de onboarding">
 </div>
 
 ## O que é o Guia de onboarding?
@@ -39,19 +39,19 @@ Nosso objetivo é que clientes, parceiros e todo o ecossistema VTEX se beneficie
 Veja a seguir uma [introdução](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3QfoDZWg9YWl8lwS9MVrnU) do que você encontrará no guia.
 
 <div>
-    <img src="https://images.ctfassets.net/alneenqid6w5/1N4nX2r9WxhdSCqr8zOEla/dc8a923eb652753491a1501284d17e00/announcement_headings_track_1_PT.png" height="90" alt="Trilha da loja VTEX">
+    <img src="//images.ctfassets.net/alneenqid6w5/1N4nX2r9WxhdSCqr8zOEla/dc8a923eb652753491a1501284d17e00/announcement_headings_track_1_PT.png" height="90" alt="Trilha da loja VTEX">
 </div>
 
 A **Trilha da loja VTEX** apresenta o contexto inaugural da operação, começando pela definição de qual [tipo de conta e arquitetura](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) são adequados às necessidades do negócio. A partir disso, é possível realizar as [configurações iniciais](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz) e as configurações dos [módulos](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) da plataforma, focando em acelerar a inauguração da loja. Uma vez que as [integrações de backend](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) estejam concluídas e a implementação da tecnologia de [frontend](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) para a construção da frente de loja tenha sido finalizada, é chegado o momento do [go-live](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/6xYnNxDHUcY6FyChgziCoH) e da inauguração da nova loja.
 
 <div>
-    <img src="https://images.ctfassets.net/alneenqid6w5/6yRmvP19rt7z1mNE7vdWQz/4f45499ead8fd1b91442d51e9e3c50a6/announcement_headings_track_2_PT.png" height="90" alt="Proximos passos apos o go live">
+    <img src="//images.ctfassets.net/alneenqid6w5/6yRmvP19rt7z1mNE7vdWQz/4f45499ead8fd1b91442d51e9e3c50a6/announcement_headings_track_2_PT.png" height="90" alt="Proximos passos apos o go live">
 </div>
 
 A trilha **Próximos passos após o go-live** apresenta como o [comércio unificado](https://help.vtex.com/pt/tracks/proximos-passos-apos-o-go-live--3J7WFZyvTcoiwkcIVFVhIS/5Qvw31yH2FPDBl14K5xXHA) é realizado com os recursos da plataforma, incluindo [configurações de módulos](https://help.vtex.com/pt/tracks/proximos-passos-apos-o-go-live--3J7WFZyvTcoiwkcIVFVhIS/V1fs7IkfYMfn91ZVHTLu4) não mencionadas anteriormente, pois aqui o foco é na evolução da operação. Esta trilha apresenta também os [produtos Add on](https://help.vtex.com/pt/tracks/proximos-passos-apos-o-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm) da VTEX, uma série de produtos que podem ser adquiridos à parte para permitir novas estratégias e diversificação do negócio.
 
 <div>
-    <img src="https://images.ctfassets.net/alneenqid6w5/6N7adQ7RxTfTyuIrCDqstZ/ee6aea639c26136d7f9ff6b9e560c9cb/announcement_headings_track_3_PT.png" height="90" alt="Suporte na VTEX">
+    <img src="//images.ctfassets.net/alneenqid6w5/6N7adQ7RxTfTyuIrCDqstZ/ee6aea639c26136d7f9ff6b9e560c9cb/announcement_headings_track_3_PT.png" height="90" alt="Suporte na VTEX">
 </div>
 
 O **Suporte na VTEX** apresenta o [suporte](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) que prestamos aos clientes, o que não se restringe a uma parte específica da jornada. O [funcionamento do suporte](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/2Ik9CGbPeZIHHaYFsuyId3) é inclusive referenciado nas outras trilhas, pois a [abertura de chamados](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/6EboD7Y1BOLlWdT8JM15EE) é a via para determinadas contratações e solicitações. Esta trilha foi organizada para que os nossos clientes tenham a melhor experiência com nossos serviços e que disponham das informações necessárias à abertura de chamados, seja no contexto de suporte [técnico](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3thRAdTB3gGwTB0e1fVL3T), [financeiro](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl) ou [comercial](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
@@ -72,5 +72,5 @@ Desejamos que este material contribua para o sucesso do seu negócio e sua satis
 | [Trilha da loja VTEX](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3QfoDZWg9YWl8lwS9MVrnU) | [Próximos passos após o go-live](https://help.vtex.com/pt/tracks/proximos-passos-apos-o-go-live--3J7WFZyvTcoiwkcIVFVhIS/7bORBaAr4rIG3JgRi68jIK) | [Suporte na VTEX](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) |
 
 <div>
-  <img src="https://images.ctfassets.net/alneenqid6w5/4CgTVLjK3cazg4dDyVlB8m/92967dbc04e132e4901ba7080d76f2e5/announcement_under_table_image_PT.png" alt="Imagem de ecommerce">
+  <img src="//images.ctfassets.net/alneenqid6w5/4CgTVLjK3cazg4dDyVlB8m/92967dbc04e132e4901ba7080d76f2e5/announcement_under_table_image_PT.png" alt="Imagem de ecommerce">
 </div>

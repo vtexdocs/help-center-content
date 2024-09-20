@@ -1,10 +1,10 @@
 ---
 title: 'Separar SKUs por especificação'
 id: 5uVxuWxTA8VvLX3G8UCcUE
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-09-09T16:19:19.390Z
-updatedAt: 2021-03-10T18:03:14.865Z
-publishedAt: 2021-03-10T18:03:14.865Z
+updatedAt: 2024-09-06T20:14:37.216Z
+publishedAt: 
 firstPublishedAt: 2020-09-28T20:54:49.196Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -24,7 +24,7 @@ Essa ferramenta é indicada, principalmente, para lojas de vestuários, pois é 
 
 A seguir, confira um exemplo de separação de SKUs por cor. Na imagem abaixo, a sandália em destaque apresenta duas cores diferentes no resultado da pesquisa:
 
-![screencapture-footnotes-sandals-2021-02-11-14 21 21](https://images.ctfassets.net/alneenqid6w5/3wDeiYyhcz0BNUyJrDo7zI/d5d68b1a11e1c117ca11653239037005/screencapture-footnotes-sandals-2021-02-11-14_21_21.png)
+![screencapture-footnotes-sandals-2021-02-11-14 21 21](//images.ctfassets.net/alneenqid6w5/3wDeiYyhcz0BNUyJrDo7zI/d5d68b1a11e1c117ca11653239037005/screencapture-footnotes-sandals-2021-02-11-14_21_21.png)
 
 >ℹ️ Caso os resultados de busca sejam ordenados por relevância, os SKUs de um mesmo produto são agrupados, ou seja, aparecem um ao lado do outro.
 
