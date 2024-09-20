@@ -769,10 +769,22 @@ ${textPT}
     const subFolder = fileSubFolder ? path.join(baseFolder, fileSubFolder).replace(": ", " - ") : null;
     const subcategoryFolder = fileSubcategoryFolder ? path.join(subFolder, fileSubcategoryFolder).replace(": ", " - ") : null;
     const filePath = fileSubcategoryFolder ? path.join(subcategoryFolder, fileNameEN).replace(": ", " - ") : fileSubFolder ? path.join(subFolder, fileNameEN).replace(": ", " - ") : path.join(baseFolder, fileNameEN).replace(": ", " - ");
-    console.log('subFolder:---',subFolder.endsWith(' '), '-----')
-    console.log('subcategoryFolder:---',subcategoryFolder.endsWith(' '), '-----')
-    console.log('filePath:---',filePath.endsWith(' '), '-----')
-  
+    if (subFolder){
+      if (subFolder.endsWith(' ')) {
+        console.log(subFolder)
+      }
+    }
+    if (subcategoryFolder){
+      if (subcategoryFolder.endsWith(' ')) {
+        console.log(subcategoryFolder)
+      }
+    }
+    if (filePath){
+      if (filePath.endsWith(' ')) {
+        console.log(filePath)
+      }
+    }
+    
     // Array of folders to create
     const foldersToCreate = [localeFolder, baseFolder, subFolder, subcategoryFolder].filter(Boolean);
   
