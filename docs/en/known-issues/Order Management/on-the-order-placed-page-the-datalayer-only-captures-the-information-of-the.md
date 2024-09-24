@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: authors_84
 tag: Order Management
-slug: on-the-order-placed-page-the-datalayer-only-captures-the-information-of-the
+slugEN: on-the-order-placed-page-the-datalayer-only-captures-the-information-of-the
 locale: en
 kiStatus: No Fix
 internalReference: 727339

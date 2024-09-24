@@ -8,7 +8,7 @@ publishedAt: 2020-06-29T15:29:03.500Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: cart-restrictions-on-item-prmotions
+slugEN: cart-restrictions-on-item-prmotions
 locale: en
 legacySlug: limite-de-itens-com-promocao-no-carrinho
 announcementImageID: ''

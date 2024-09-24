@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-26T18:00:17.827Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: what-is-the-difference-between-product-and-sku
+slugEN: what-is-the-difference-between-product-and-sku
 locale: en
 legacySlug: what-is-the-difference-between-product-and-sku
 subcategoryId: pwxWmUu7T222QyuGogs68

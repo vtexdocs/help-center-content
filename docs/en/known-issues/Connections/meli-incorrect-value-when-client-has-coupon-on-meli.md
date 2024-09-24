@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-incorrect-value-when-client-has-coupon-on-meli
+slugEN: meli-incorrect-value-when-client-has-coupon-on-meli
 locale: en
 kiStatus: Backlog
 internalReference: 969297

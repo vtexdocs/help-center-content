@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: callcenter-users-cant-delete-a-customers-credit-card-via-my-account
+slugEN: callcenter-users-cant-delete-a-customers-credit-card-via-my-account
 locale: pt
 kiStatus: Backlog
 internalReference: 294001

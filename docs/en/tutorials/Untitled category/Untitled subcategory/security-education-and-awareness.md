@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: security-education-and-awareness
+slugEN: security-education-and-awareness
 locale: en
 legacySlug: security-education-and-awareness
 subcategoryId: unknown-subcategory

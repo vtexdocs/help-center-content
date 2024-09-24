@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Channels
 author: vztwQkZv4z6EwDVwdqbsw
-slug: mercado-livre-introducing-buy-box-and-simultaneous-classic-and-premium-ads
+slugEN: mercado-livre-introducing-buy-box-and-simultaneous-classic-and-premium-ads
 locale: en
 legacySlug: mercado-livre-introducing-buy-box-and-simultaneous-classic-and-premium-ads
 announcementImageID: ''

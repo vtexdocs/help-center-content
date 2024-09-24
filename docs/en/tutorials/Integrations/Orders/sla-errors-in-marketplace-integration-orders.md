@@ -9,7 +9,7 @@ firstPublishedAt: 2021-08-02T23:29:49.747Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: sla-errors-in-marketplace-integration-orders
+slugEN: sla-errors-in-marketplace-integration-orders
 locale: en
 legacySlug: sla-errors-in-marketplace-integration-orders
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky

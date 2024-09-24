@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:23.171Z
 contentType: tutorial
 productTeam: Others
 author: authors_3
-slug: viewing-marketplace-orders-on-orders-managment
+slugEN: viewing-marketplace-orders-on-orders-managment
 locale: en
 legacySlug: viewing-marketplace-orders-on-oms
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:32.964Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: how-to-configure-a-new-trade-policy
+slugEN: how-to-configure-a-new-trade-policy
 locale: en
 legacySlug: why-am-i-unable-to-create-new-trade-policy
 ---

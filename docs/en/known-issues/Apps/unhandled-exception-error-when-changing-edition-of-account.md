@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
 tag: Apps
-slug: unhandled-exception-error-when-changing-edition-of-account
+slugEN: unhandled-exception-error-when-changing-edition-of-account
 locale: en
 kiStatus: Backlog
 internalReference: 907294

@@ -8,7 +8,7 @@ publishedAt: 2020-07-14T16:52:08.780Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: redirecting-by-search-with-vtex-intelligent-search
+slugEN: redirecting-by-search-with-vtex-intelligent-search
 locale: en
 legacySlug: redirecting-by-search-with-vtex-intelligent-search
 announcementImageID: ''

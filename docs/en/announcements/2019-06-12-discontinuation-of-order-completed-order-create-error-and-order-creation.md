@@ -8,7 +8,7 @@ publishedAt: 2020-04-02T16:45:58.231Z
 contentType: updates
 productTeam: Reliability
 author: 5DnIDwto7E6PRpdH1Kpdyu
-slug: discontinuation-of-order-completed-order-create-error-and-order-creation
+slugEN: discontinuation-of-order-completed-order-create-error-and-order-creation
 locale: en
 legacySlug: discontinuation-of-order-completed-order-create-error-and-order-creation
 announcementImageID: ''

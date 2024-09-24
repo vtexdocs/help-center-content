@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T20:30:45.528Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
-slug: payment-stuck-at-authorizing-status
+slugEN: payment-stuck-at-authorizing-status
 locale: en
 legacySlug: 
 ---

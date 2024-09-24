@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-10T17:28:51.238Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: i-cant-import-the-price-table
+slugEN: i-cant-import-the-price-table
 locale: en
 legacySlug: i-cant-import-the-price-table
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
@@ -52,7 +52,7 @@ Make sure that all fields in your table are properly populated based on the guid
 
 Example of a table with filters applied and __Error Code__ and __Error Message__ fields:
 
-![Price spreadsheet](https://images.ctfassets.net/alneenqid6w5/1r7FGH4sdfT0uzCUX4T07y/a88f798c1962786dadfd35573453242e/Price_spreadsheet.PNG)
+![Price spreadsheet](//images.ctfassets.net/alneenqid6w5/1r7FGH4sdfT0uzCUX4T07y/a88f798c1962786dadfd35573453242e/Price_spreadsheet.PNG)
 
 #### File size
 

@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Financial
 author: 
-slug: untitled-entry-2019-05-26-at-09-48-48
+slugEN: untitled-entry-2019-05-26-at-09-48-48
 locale: en
 legacySlug: untitled-entry-2019-05-26-at-09-48-48
 subcategoryId: 6ggjFlqyvL8hd9CtQFcHiD

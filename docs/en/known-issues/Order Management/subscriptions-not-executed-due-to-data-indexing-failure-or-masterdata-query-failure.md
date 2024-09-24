@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: subscriptions-not-executed-due-to-data-indexing-failure-or-masterdata-query-failure
+slugEN: subscriptions-not-executed-due-to-data-indexing-failure-or-masterdata-query-failure
 locale: en
 kiStatus: Backlog
 internalReference: 961526

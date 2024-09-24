@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-19T21:37:25.249Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
-slug: setting-up-my-account
+slugEN: setting-up-my-account
 locale: en
 legacySlug: setting-up-my-account
 subcategoryId: 1RWR7qSyaREbD5RfgCjdYG

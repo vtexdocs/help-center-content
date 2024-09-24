@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: campovalorformaspx-save-button-requires-two-clicks
+slugEN: campovalorformaspx-save-button-requires-two-clicks
 locale: en
 kiStatus: No Fix
 internalReference: 525616

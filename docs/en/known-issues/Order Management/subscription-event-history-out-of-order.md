@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: subscription-event-history-out-of-order
+slugEN: subscription-event-history-out-of-order
 locale: en
 kiStatus: Backlog
 internalReference: 872697

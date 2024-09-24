@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-10T17:15:44.616Z
 contentType: tutorial
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: metrics-are-not-displayed-in-the-order-dashboard
+slugEN: metrics-are-not-displayed-in-the-order-dashboard
 locale: en
 legacySlug: metrics-are-not-displayed-in-the-order-dashboard
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
@@ -23,7 +23,7 @@ When accessing the Admin dashboard, it may fail to load metrics in the **Overvie
 - **Inadequate comparison period:** The period selected in the top right corner of the dashboard may not contain sufficient order data for comparison.
 - **Insufficient access permissions:** You might not have the necessary role to view certain information on the dashboard.
 
-![Visão geral - EN](https://images.ctfassets.net/alneenqid6w5/29XRCPWPEnqdR79xKebzv/92d249251094dd01515b571876066e7c/Vis_o_geral_-_EN.png)
+![Visão geral - EN](//images.ctfassets.net/alneenqid6w5/29XRCPWPEnqdR79xKebzv/92d249251094dd01515b571876066e7c/Vis_o_geral_-_EN.png)
 
 ## Solution
 To solve inconsistencies in the initial dashboard of the Admin, you can try the following:
@@ -34,7 +34,7 @@ Adjusting the comparison period can solve the issue by displaying relevant metri
 1. In the VTEX Admin, go to **Dashboard > Overview**.
 2. In the top right corner, select the comparison period.
 
-![Dashboard - EN](https://images.ctfassets.net/alneenqid6w5/6JTwTAXr2d4M16xQK6fE8x/a8aee6d86d8db48453f20cc8d9be48b7/Dashboard_-_EN.png)
+![Dashboard - EN](//images.ctfassets.net/alneenqid6w5/6JTwTAXr2d4M16xQK6fE8x/a8aee6d86d8db48453f20cc8d9be48b7/Dashboard_-_EN.png)
 
 ### Wait for information to be updated
 Please allow 10 to 80 minutes for the information to be updated on the dashboard. This period is necessary for the data to be processed and displayed correctly. For more information about the waiting time, see [Comparing periods](https://help.vtex.com/en/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ?&utm_source=autocomplete).

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:11.354Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: creating-lists-on-the-site
+slugEN: creating-lists-on-the-site
 locale: en
 legacySlug: creating-lists-on-the-site
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs

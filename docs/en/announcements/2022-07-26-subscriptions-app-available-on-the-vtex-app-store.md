@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slug: subscriptions-app-available-on-the-vtex-app-store
+slugEN: subscriptions-app-available-on-the-vtex-app-store
 locale: en
 legacySlug: subscriptions-app-available-on-the-vtex-app-store
 announcementImageID: ''

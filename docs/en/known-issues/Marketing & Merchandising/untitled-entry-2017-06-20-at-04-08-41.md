@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 5V92cmF9jG8KG600EwUgEg
 tag: Catalog
-slug: untitled-entry-2017-06-20-at-04-08-41
+slugEN: untitled-entry-2017-06-20-at-04-08-41
 locale: en
 kiStatus: Open
 internalReference: 

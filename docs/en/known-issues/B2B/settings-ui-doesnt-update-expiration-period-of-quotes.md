@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: settings-ui-doesnt-update-expiration-period-of-quotes
+slugEN: settings-ui-doesnt-update-expiration-period-of-quotes
 locale: en
 kiStatus: Backlog
 internalReference: 876576

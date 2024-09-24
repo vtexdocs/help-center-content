@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: adyen-3ds2-double-request-generates-payment-authorization-denial
+slugEN: adyen-3ds2-double-request-generates-payment-authorization-denial
 locale: en
 kiStatus: Backlog
 internalReference: 884154

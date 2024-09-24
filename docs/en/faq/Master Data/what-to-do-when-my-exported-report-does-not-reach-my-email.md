@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-21T22:03:23.716Z
 contentType: frequentlyAskedQuestion
 productTeam: Master Data
 author: 5mp4SUVpZYa02A8QOqYySu
-slug: what-to-do-when-my-exported-report-does-not-reach-my-email
+slugEN: what-to-do-when-my-exported-report-does-not-reach-my-email
 locale: en
 legacySlug: untitled-entry-2019-02-21-at-10-02-15
 ---
@@ -23,8 +23,8 @@ However, there is a way to extract this report manually by accessing Master Data
 Let's see how in the following step-by-step:
 
 1. Enter the __Master Data__;
-2. Click __"Exportations"__;![3WNNUZ8EgDZ4iYv8e0OyQG](https://images.ctfassets.net/alneenqid6w5/70bXGj3PhkEfcixEF0ik6I/8ebaf7d4ddba8fd8803969c2c98e3c18/3WNNUZ8EgDZ4iYv8e0OyQG.png)
-3. Make sure that the tab currently open is __"Applications"__;![7ecXBGaCeC3hTaO0lODPq1](https://images.ctfassets.net/alneenqid6w5/rBSEy9DQVSPNEjHLOXjU6/afac5d6a147ad01f1dbb4566bd751510/7ecXBGaCeC3hTaO0lODPq1.png)
+2. Click __"Exportations"__;![3WNNUZ8EgDZ4iYv8e0OyQG](//images.ctfassets.net/alneenqid6w5/70bXGj3PhkEfcixEF0ik6I/8ebaf7d4ddba8fd8803969c2c98e3c18/3WNNUZ8EgDZ4iYv8e0OyQG.png)
+3. Make sure that the tab currently open is __"Applications"__;![7ecXBGaCeC3hTaO0lODPq1](//images.ctfassets.net/alneenqid6w5/rBSEy9DQVSPNEjHLOXjU6/afac5d6a147ad01f1dbb4566bd751510/7ecXBGaCeC3hTaO0lODPq1.png)
 4. Under __"Export Status"__, click the report you want to download.
 
 With this, you'll be able access the content even if the original email has not arrived.

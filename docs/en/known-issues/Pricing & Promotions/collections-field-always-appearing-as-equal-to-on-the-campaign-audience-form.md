@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: collections-field-always-appearing-as-equal-to-on-the-campaign-audience-form
+slugEN: collections-field-always-appearing-as-equal-to-on-the-campaign-audience-form
 locale: en
 kiStatus: No Fix
 internalReference: 697168

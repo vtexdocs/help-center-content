@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:21:39.211Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_35
-slug: how-to-display-the-product-shelf-of-a-specific-seller
+slugEN: how-to-display-the-product-shelf-of-a-specific-seller
 locale: en
 legacySlug: 
 subcategoryId: 54gbzsku02c4bKmgFbp3v3

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: delivery-method-selector-does-not-appear-in-some-scenarios
+slugEN: delivery-method-selector-does-not-appear-in-some-scenarios
 locale: en
 kiStatus: Fixed
 internalReference: 293784

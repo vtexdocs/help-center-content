@@ -9,7 +9,7 @@ firstPublishedAt: 2021-07-19T22:16:46.903Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slug: linking-urls-to-banners-using-the-site-editor
+slugEN: linking-urls-to-banners-using-the-site-editor
 locale: en
 legacySlug: linking-urls-to-banners-using-the-site-editor
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
@@ -19,7 +19,7 @@ You can configure one of your store’s banners to redirect users to a page of y
 
 ## Internal URLs
 
-![internal-url](https://images.ctfassets.net/alneenqid6w5/76tw5q9jP5kqkEhkFMIAOE/3a727394e2f315558ccb783aa9cccb20/image2.png)
+![internal-url](//images.ctfassets.net/alneenqid6w5/76tw5q9jP5kqkEhkFMIAOE/3a727394e2f315558ccb783aa9cccb20/image2.png)
 
 1. In the VTEX Admin, access **Storefront > Site Editor**.
 2. Select a __Carousel__ block and choose the banner whose content you want to edit.
@@ -33,7 +33,7 @@ The <i>Banner target page</i> and <i>Params</i> fields have been deprecated. The
 
 ## External URLs
 
-![external-url](https://images.ctfassets.net/alneenqid6w5/7ESwBk45QYY2eHme82hy1Y/43eece9d63ba77a5e63945c17bc74e7c/image1.png)
+![external-url](//images.ctfassets.net/alneenqid6w5/7ESwBk45QYY2eHme82hy1Y/43eece9d63ba77a5e63945c17bc74e7c/image1.png)
 
 1. In the VTEX Admin, access **Storefront > Site Editor**.
 2. Select a __Carousel__ block and choose the banner whose content you want to edit.

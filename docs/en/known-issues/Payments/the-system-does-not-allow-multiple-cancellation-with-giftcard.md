@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: the-system-does-not-allow-multiple-cancellation-with-giftcard
+slugEN: the-system-does-not-allow-multiple-cancellation-with-giftcard
 locale: en
 kiStatus: Backlog
 internalReference: 309117

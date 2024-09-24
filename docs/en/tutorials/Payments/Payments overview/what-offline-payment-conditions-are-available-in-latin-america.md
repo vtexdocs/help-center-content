@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:01:19.092Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: what-offline-payment-conditions-are-available-in-latin-america
+slugEN: what-offline-payment-conditions-are-available-in-latin-america
 locale: en
 legacySlug: what-offline-payment-conditions-are-available-in-latin-america
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

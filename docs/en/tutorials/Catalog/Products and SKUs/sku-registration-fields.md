@@ -9,7 +9,7 @@ firstPublishedAt: 2017-09-22T00:40:16.232Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: sku-registration-fields
+slugEN: sku-registration-fields
 locale: en
 legacySlug: sku-registration-fields
 subcategoryId: pwxWmUu7T222QyuGogs68

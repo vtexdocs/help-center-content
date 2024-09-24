@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-14T15:04:37.219Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-addi
+slugEN: setting-up-payments-with-addi
 locale: en
 legacySlug: setting-up-payments-with-addi
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

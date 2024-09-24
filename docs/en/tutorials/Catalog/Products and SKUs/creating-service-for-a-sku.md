@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:11.914Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: creating-service-for-a-sku
+slugEN: creating-service-for-a-sku
 locale: en
 legacySlug: creating-a-service-for-a-sku
 subcategoryId: pwxWmUu7T222QyuGogs68
@@ -77,7 +77,7 @@ To link a service to a SKU, please follow the steps below:
 7. Fill in the [template fields](#template-fields). Keep the file in CSV format when saving changes.
 >⚠️ The size of the template file cannot exceed 4Mb (4096KB).
 8. Click on the bar next to the `Select` button, as shown below.
-  ![Anexos - EN](https://images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/6d834bfa0595150d8c6a5b69c6088e23/sku-services.png)
+  ![Anexos - EN](//images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/6d834bfa0595150d8c6a5b69c6088e23/sku-services.png)
 9. Select the updated CSV template.
 10. Click on the button `Link service values to SKU`.
 

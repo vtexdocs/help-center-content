@@ -8,7 +8,7 @@ publishedAt: 2022-10-19T22:18:08.179Z
 contentType: updates
 productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
-slug: get-your-store-ready-for-shopping-season-with-our-best-practices-guide-2022
+slugEN: get-your-store-ready-for-shopping-season-with-our-best-practices-guide-2022
 locale: en
 legacySlug: 
 announcementImageID: ''
@@ -27,4 +27,4 @@ https://{AccountName}.myvtex.com/admin/shopping-season
 
 Simply replace `{AccountName}` with your store's Account Name, as in the image below.
 
-![Shopping Season Guidelines - 2022 - EN](https://images.ctfassets.net/alneenqid6w5/3vmyW3BipNCRN698zQdRVQ/4e64d85173498b710da6706438fb100a/Screen_Shot_2022-10-19_at_18.14.44.png)
+![Shopping Season Guidelines - 2022 - EN](//images.ctfassets.net/alneenqid6w5/3vmyW3BipNCRN698zQdRVQ/4e64d85173498b710da6706438fb100a/Screen_Shot_2022-10-19_at_18.14.44.png)

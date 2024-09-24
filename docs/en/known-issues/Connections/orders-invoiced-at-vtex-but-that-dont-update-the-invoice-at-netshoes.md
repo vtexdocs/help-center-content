@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: orders-invoiced-at-vtex-but-that-dont-update-the-invoice-at-netshoes
+slugEN: orders-invoiced-at-vtex-but-that-dont-update-the-invoice-at-netshoes
 locale: en
 kiStatus: No Fix
 internalReference: 577219

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_35
 tag: Catalog
-slug: kit-created-by-integration-doesnt-receive-a-table-of-values
+slugEN: kit-created-by-integration-doesnt-receive-a-table-of-values
 locale: en
 kiStatus: Backlog
 internalReference: 

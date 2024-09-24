@@ -8,7 +8,7 @@ publishedAt: 2020-08-17T22:22:44.467Z
 firstPublishedAt: 2018-10-30T22:36:49.683Z
 contentType: trackArticle
 productTeam: Channels
-slug: google-shopping-ads-install
+slugEN: google-shopping-ads-install
 locale: en
 trackId: 47kz5PRQPK0IEaqGqiIuA
 trackSlugEN: how-to-campaign-through-google-ads

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: collection-ordering-not-working-as-expected
+slugEN: collection-ordering-not-working-as-expected
 locale: en
 kiStatus: Fixed
 internalReference: 502409

@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-17T14:10:20.364Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: search-configuration
+slugEN: search-configuration
 locale: en
 legacySlug: search-configuration
 subcategoryId: 1EmKjP83dy0RWD9GzZkYsG
@@ -37,7 +37,7 @@ The general settings display the following options related to[ product and SKU s
 
 The facet settings have settings related to the[ filters](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) displayed to your customers during the search:
 
-![Facet configurations](https://images.ctfassets.net/alneenqid6w5/mSm3lqR5H5pTn1AVrhYk8/2f421fca7b4914deb993bb84e731a2d7/facet_settings_admin_v4.png)
+![Facet configurations](//images.ctfassets.net/alneenqid6w5/mSm3lqR5H5pTn1AVrhYk8/2f421fca7b4914deb993bb84e731a2d7/facet_settings_admin_v4.png)
 
 * **Facet order:** Order in which the facets will be displayed in the store. If no facet is selected, the default order is alphabetical.
 

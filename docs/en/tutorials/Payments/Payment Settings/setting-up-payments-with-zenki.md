@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-30T18:02:25.796Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-zenki
+slugEN: setting-up-payments-with-zenki
 locale: en
 legacySlug: setting-up-payments-with-zenki
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

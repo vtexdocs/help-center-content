@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: promotions-by-order-of-payment-methods-do-not-appear-on-the-product-page
+slugEN: promotions-by-order-of-payment-methods-do-not-appear-on-the-product-page
 locale: en
 kiStatus: No Fix
 internalReference: 781523

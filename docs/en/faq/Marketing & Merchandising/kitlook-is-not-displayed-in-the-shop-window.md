@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-20T17:50:10.749Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 46GzPBzfVykEtIav6Pn2J8
-slug: kitlook-is-not-displayed-in-the-shop-window
+slugEN: kitlook-is-not-displayed-in-the-shop-window
 locale: en
 legacySlug: untitled-entry-2019-02-20-at-05-47-19
 ---
@@ -32,7 +32,7 @@ __Fill in the Label field__
 4. Go to the __Images__ tab;
 5. Enter a term to populate the __Label__;
 
-  ![Kit Look - Label - EN](https://images.ctfassets.net/alneenqid6w5/7FR879Lzl3eEDmAHiBV0TV/2789e7a69d5258c78d192a47ecc2aff5/7FR879Lzl3eEDmAHiBV0TV_en.jpg)
+  ![Kit Look - Label - EN](//images.ctfassets.net/alneenqid6w5/7FR879Lzl3eEDmAHiBV0TV/2789e7a69d5258c78d192a47ecc2aff5/7FR879Lzl3eEDmAHiBV0TV_en.jpg)
 
 6. Click __Save__.
 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: mandatory-service-working-as-optional
+slugEN: mandatory-service-working-as-optional
 locale: en
 kiStatus: Backlog
 internalReference: 872411

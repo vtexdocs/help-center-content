@@ -8,7 +8,7 @@ publishedAt: 2024-02-22T14:58:02.855Z
 firstPublishedAt: 2024-02-22T13:59:50.803Z
 contentType: trackArticle
 productTeam: Others
-slug: introduction-to-vtex
+slugEN: introduction-to-vtex
 locale: en
 trackId: eSDNk26pdvemF3XKM0nK9
 trackSlugEN: vtex-store-overview
@@ -18,7 +18,7 @@ trackSlugEN: vtex-store-overview
 
 The following image shows VTEX's solutions and possibilities, which will be covered throughout this article series:
 
-![vtex_composable_complete_EN](https://images.ctfassets.net/alneenqid6w5/7wKnayzJJYUKq2PLrGrfEc/d4622b765ea964b60da83fd11dffe865/vtex_composable_complete_EN.png)
+![vtex_composable_complete_EN](//images.ctfassets.net/alneenqid6w5/7wKnayzJJYUKq2PLrGrfEc/d4622b765ea964b60da83fd11dffe865/vtex_composable_complete_EN.png)
 
 >ℹ️ Besides the resources available on the Help Center and [Developer Portal](https://developers.vtex.com/), as well as the [VTEX Community](https://community.vtex.com/), our [website](https://vtex.com/us-en/) provides additional information about the platform through [demo videos](https://vtex.com/br-pt/resources-category/product-demo-videos-br/) and [ebooks](https://vtex.com/br-pt/resources-category/ebooks-br/) created by our [partners](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners). There is also a series of [onboarding videos](https://sites.google.com/vtex.com.br/onboardingvtex/trilha) (available only in Portuguese).
 

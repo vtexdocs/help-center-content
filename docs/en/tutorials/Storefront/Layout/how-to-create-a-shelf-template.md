@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:13:37.752Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: how-to-create-a-shelf-template
+slugEN: how-to-create-a-shelf-template
 locale: en
 legacySlug: how-to-create-a-shelf-template
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

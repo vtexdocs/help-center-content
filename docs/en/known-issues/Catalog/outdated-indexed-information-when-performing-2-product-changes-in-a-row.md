@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: outdated-indexed-information-when-performing-2-product-changes-in-a-row
+slugEN: outdated-indexed-information-when-performing-2-product-changes-in-a-row
 locale: en
 kiStatus: No Fix
 internalReference: 907428

@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-26T14:02:09.115Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: overview-of-b2b-orders-history
+slugEN: overview-of-b2b-orders-history
 locale: en
 legacySlug: overview-of-b2b-orders-history
 subcategoryId: 2LaAukjQB4QEbqSYdgjq7l

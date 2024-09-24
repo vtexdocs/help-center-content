@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: cardholderdocument-is-not-sent-to-antifraud
+slugEN: cardholderdocument-is-not-sent-to-antifraud
 locale: en
 kiStatus: Backlog
 internalReference: 829864

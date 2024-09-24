@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:27.518Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
-slug: why-dont-my-payment-methods-appear-on-the-marketplace
+slugEN: why-dont-my-payment-methods-appear-on-the-marketplace
 locale: en
 legacySlug: why-dont-my-payment-methods-appear-on-the-marketplace
 ---
@@ -20,4 +20,4 @@ In other words, payment is made on the marketplace using the marketplace’s pay
 
 For example: A purchase made by the CNova marketplace will be displayed on your OMS, under **Payment**, with the following message: "Assumed value by affiliate CNova (NVP)", as illustrated below.
 
-![exemplopagamento](https://images.contentful.com/alneenqid6w5/54QIARxAYUM4igUYQEieSK/d9f8f1e9e95b8028cce7c6b1e7a89503/exemplopagamento.png)
+![exemplopagamento](//images.contentful.com/alneenqid6w5/54QIARxAYUM4igUYQEieSK/d9f8f1e9e95b8028cce7c6b1e7a89503/exemplopagamento.png)

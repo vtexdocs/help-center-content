@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: adjust-shipping-query-when-the-order-has-more-than-one-product-centauro
+slugEN: adjust-shipping-query-when-the-order-has-more-than-one-product-centauro
 locale: en
 kiStatus: No Fix
 internalReference: 599380

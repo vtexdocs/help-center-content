@@ -8,7 +8,7 @@ publishedAt: 2020-12-16T17:17:10.988Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: new-beta-collections-module-easily-create-and-manage-product-collections
+slugEN: new-beta-collections-module-easily-create-and-manage-product-collections
 locale: en
 legacySlug: new-beta-collections-module-easily-create-and-manage-product-collections
 announcementImageID: ''

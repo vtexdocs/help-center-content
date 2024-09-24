@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: productsku-upload-form-allows-utf16-format-uploaddownload
+slugEN: productsku-upload-form-allows-utf16-format-uploaddownload
 locale: en
 kiStatus: No Fix
 internalReference: 493402

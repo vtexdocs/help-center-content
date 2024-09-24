@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:43.984Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: how-does-the-modal-work
+slugEN: how-does-the-modal-work
 locale: en
 legacySlug: how-does-the-modal-work
 subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi

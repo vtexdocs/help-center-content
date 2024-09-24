@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-12-27T19:45:31.137Z
 contentType: trackArticle
 productTeam: Shopping
-slug: how-to-add-a-custom-text-in-the-printout-of-the-order
+slugEN: how-to-add-a-custom-text-in-the-printout-of-the-order
 locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup
@@ -33,7 +33,7 @@ After reloading the inStore, when you print an order you will see that extra tex
 Quick Example:
 
 Before adding the extra text we would have an impression as follows:
-![inStore recommended text before](https://images.ctfassets.net/alneenqid6w5/5AWqMIPwGc6aCSYGEsOAOq/6c1eda39348438463dc65a30fa56261e/inStore_recommended_text_before.png)
+![inStore recommended text before](//images.ctfassets.net/alneenqid6w5/5AWqMIPwGc6aCSYGEsOAOq/6c1eda39348438463dc65a30fa56261e/inStore_recommended_text_before.png)
 
 By changing the `checkout-instore-custom.js` file by putting the following extra text:
 
@@ -44,4 +44,4 @@ window.INSTORE_CONFIG = {
 ```
 
 Now when the order is printed, we will have:
-![inStore recommended text after](https://images.ctfassets.net/alneenqid6w5/7loSAqq1wIWIioOekyiaIO/2226bb32bb7a191b5f709e3ce429d30d/inStore_recommended_text_after.png)
+![inStore recommended text after](//images.ctfassets.net/alneenqid6w5/7loSAqq1wIWIioOekyiaIO/2226bb32bb7a191b5f709e3ce429d30d/inStore_recommended_text_after.png)

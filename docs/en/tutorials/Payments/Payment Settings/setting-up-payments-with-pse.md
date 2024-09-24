@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-14T14:51:46.607Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-pse
+slugEN: setting-up-payments-with-pse
 locale: en
 legacySlug: setting-up-payments-with-pse
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

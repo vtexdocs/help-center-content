@@ -8,7 +8,7 @@ publishedAt: 2021-03-22T20:46:37.109Z
 contentType: updates
 productTeam: Others
 author: authors_59
-slug: integrations-with-vtex-apis-now-need-token-authentication
+slugEN: integrations-with-vtex-apis-now-need-token-authentication
 locale: en
 legacySlug: integrations-with-vtex-apis-now-need-token-authentication
 announcementImageID: ''

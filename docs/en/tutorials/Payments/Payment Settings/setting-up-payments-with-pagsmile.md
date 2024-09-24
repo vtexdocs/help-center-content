@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-25T17:01:48.777Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-pagsmile
+slugEN: setting-up-payments-with-pagsmile
 locale: en
 legacySlug: setting-up-payments-with-pagsmile
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

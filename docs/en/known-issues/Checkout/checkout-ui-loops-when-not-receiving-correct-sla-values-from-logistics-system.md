@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-ui-loops-when-not-receiving-correct-sla-values-from-logistics-system
+slugEN: checkout-ui-loops-when-not-receiving-correct-sla-values-from-logistics-system
 locale: en
 kiStatus: No Fix
 internalReference: 485016

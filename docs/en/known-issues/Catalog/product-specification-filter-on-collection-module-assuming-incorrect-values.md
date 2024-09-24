@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: product-specification-filter-on-collection-module-assuming-incorrect-values
+slugEN: product-specification-filter-on-collection-module-assuming-incorrect-values
 locale: en
 kiStatus: Backlog
 internalReference: 926593

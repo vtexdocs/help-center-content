@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: pageview-triggers-on-g4a-are-being-duplicated-in-custom-search-pages
+slugEN: pageview-triggers-on-g4a-are-being-duplicated-in-custom-search-pages
 locale: en
 kiStatus: Backlog
 internalReference: 888042

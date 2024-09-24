@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Financial
 author: 
-slug: a-vtex-garante-chargeback
+slugEN: a-vtex-garante-chargeback
 locale: es
 legacySlug: a-vtex-garante-chargeback
 subcategoryId: 6ggjFlqyvL8hd9CtQFcHiD

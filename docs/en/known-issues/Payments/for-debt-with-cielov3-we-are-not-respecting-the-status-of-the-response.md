@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response
+slugEN: for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response
 locale: en
 kiStatus: Backlog
 internalReference: 367284

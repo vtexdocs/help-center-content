@@ -9,7 +9,7 @@ firstPublishedAt: 2023-07-14T17:49:20.115Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-fintoc
+slugEN: setting-up-payments-with-fintoc
 locale: en
 legacySlug: setting-up-payments-with-fintoc
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

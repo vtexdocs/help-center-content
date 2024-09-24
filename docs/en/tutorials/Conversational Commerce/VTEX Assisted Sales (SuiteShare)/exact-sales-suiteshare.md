@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T20:06:04.584Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: exact-sales-suiteshare
+slugEN: exact-sales-suiteshare
 locale: en
 legacySlug: exact-sales-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

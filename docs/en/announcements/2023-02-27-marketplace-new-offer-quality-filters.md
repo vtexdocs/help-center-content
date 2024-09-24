@@ -8,7 +8,7 @@ publishedAt: 2023-02-28T13:41:42.082Z
 contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: marketplace-new-offer-quality-filters
+slugEN: marketplace-new-offer-quality-filters
 locale: en
 legacySlug: marketplace-new-offer-quality-filters
 announcementImageID: ''
@@ -21,7 +21,7 @@ To give marketplaces more control over the approval criteria for an offer, we cr
 
 Thus, the SKUs that are sent to the marketplace meet the requirements relevant to catalog curation. 
 
- ![Offer Quality gif](https://images.ctfassets.net/alneenqid6w5/2TsdhoMwl0Fmwp8WBoViXw/ecf196465a00c5b0e12eca29f1c9e3f4/Offer_Quality_01.gif)
+ ![Offer Quality gif](//images.ctfassets.net/alneenqid6w5/2TsdhoMwl0Fmwp8WBoViXw/ecf196465a00c5b0e12eca29f1c9e3f4/Offer_Quality_01.gif)
 
 ## What has changed?
 

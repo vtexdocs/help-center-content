@@ -8,7 +8,7 @@ publishedAt: 2022-06-21T16:17:43.327Z
 firstPublishedAt: 2019-06-19T15:19:31.428Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: categories-concept-definition
+slugEN: categories-concept-definition
 locale: en
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugEN: catalog-101

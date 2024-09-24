@@ -9,7 +9,7 @@ firstPublishedAt: 2020-11-23T21:04:18.389Z
 contentType: tutorial
 productTeam: Financial
 author: 56yU9Wz6mLwmzo82TjgAHy
-slug: configure-direct-consumer-credit-cdc-by-losango
+slugEN: configure-direct-consumer-credit-cdc-by-losango
 locale: en
 legacySlug: configure-direct-consumer-credit-cdc-by-losango
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

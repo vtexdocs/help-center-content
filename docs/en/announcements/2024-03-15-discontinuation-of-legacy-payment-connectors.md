@@ -8,7 +8,7 @@ publishedAt: 2024-08-20T13:27:49.613Z
 contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: discontinuation-of-legacy-payment-connectors
+slugEN: discontinuation-of-legacy-payment-connectors
 locale: en
 legacySlug: discontinuation-of-legacy-payment-connectors
 announcementImageID: ''

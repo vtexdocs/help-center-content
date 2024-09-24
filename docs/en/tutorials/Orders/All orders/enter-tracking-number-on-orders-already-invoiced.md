@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-20T21:04:53.044Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
-slug: enter-tracking-number-on-orders-already-invoiced
+slugEN: enter-tracking-number-on-orders-already-invoiced
 locale: en
 legacySlug: enter-tracking-number-on-orders-already-billed
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

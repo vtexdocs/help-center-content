@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-20T20:56:25.994Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: registering-a-products-base-price
+slugEN: registering-a-products-base-price
 locale: en
 legacySlug: registering-a-products-base-price
 subcategoryId: 4id9W3RDyw02CasOm2C2iy

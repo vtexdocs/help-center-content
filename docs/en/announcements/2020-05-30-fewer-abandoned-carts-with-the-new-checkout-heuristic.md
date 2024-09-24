@@ -8,7 +8,7 @@ publishedAt: 2020-06-02T18:09:53.394Z
 contentType: updates
 productTeam: Shopping
 author: authors_24
-slug: fewer-abandoned-carts-with-the-new-checkout-heuristic
+slugEN: fewer-abandoned-carts-with-the-new-checkout-heuristic
 locale: en
 legacySlug: fewer-abandoned-carts-with-the-new-checkout-heuristic
 announcementImageID: ''

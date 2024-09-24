@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:04:52.363Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: how-does-promotion-proration-work
+slugEN: how-does-promotion-proration-work
 locale: en
 legacySlug: how-does-apportionment-of-promotions-work
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
@@ -38,7 +38,7 @@ Let's say a nominal discount promotion of US$ 156.00 will be applied to a cart w
 
 Considering the calculation logic above, the proration would be like this:
 
-![tabelaex.en](https://images.ctfassets.net/alneenqid6w5/2mLv3HI7hgSRXkGyNwQRtT/1e529a7d90cc02e13cfdf07f488f56e8/tabelaex.en.png)
+![tabelaex.en](//images.ctfassets.net/alneenqid6w5/2mLv3HI7hgSRXkGyNwQRtT/1e529a7d90cc02e13cfdf07f488f56e8/tabelaex.en.png)
 
 
 This calculation is applied to unitary products, such as a blouse or a table, but some products have a configuration called multiplier unit, such as a floor box with 2.5 m², for example.

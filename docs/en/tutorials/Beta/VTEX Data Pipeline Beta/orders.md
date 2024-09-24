@@ -3,13 +3,13 @@ title: 'Orders Data Pipeline '
 id: 2f3GlRJ5L5IRGVIxOmzrFv
 status: PUBLISHED
 createdAt: 2024-02-02T17:58:53.962Z
-updatedAt: 2024-09-02T19:28:13.093Z
-publishedAt: 2024-09-02T19:28:13.093Z
+updatedAt: 2024-09-13T17:49:49.921Z
+publishedAt: 2024-09-13T17:49:49.921Z
 firstPublishedAt: 2024-05-27T19:26:59.238Z
 contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: orders
+slugEN: orders
 locale: en
 legacySlug: orders
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
@@ -47,7 +47,7 @@ This section includes the following information:
 |**History**|The data is retained for two years, from 2022 for clients who already use the VTEX platform.|
 |**Minimum update interval**|One hour.|
 
-## Table: orders_latest
+## Table: `orders_latest`
 
 The *latest* table stores the latest status of each order, including details such as update date, order ID, and customer information. The table fields are described below:
 
@@ -106,7 +106,7 @@ The *latest* table stores the latest status of each order, including details suc
 |changesattachment_changesdat a|super|Details of changes made to the order.|
 |shippingdata_postal_code|character varying(256)|Postal code of the order's shipping address.|
 
-## Table: orders_historical
+## Table: `orders_historical`
 
 The `historical` table stores a complete record of all order updates. The table fields are described below:
 
@@ -165,7 +165,7 @@ The `historical` table stores a complete record of all order updates. The table 
 |changesattachment_changesda ta|super|Details of changes made to the order, such as adding or removing items and other modifications.|
 |shippingdata_postal_code|character varying(256)|Postal code of the order's shipping address.|  
 
-## Table: orders_totals
+## Table: `orders_totals`
 
 The *totals* table provides a summary of the totals related to each order, including total order amount, applied discounts, and taxes. The table fields are described below:
 
@@ -181,7 +181,7 @@ The *totals* table provides a summary of the totals related to each order, inclu
 |totals_value|double precision|Numeric value associated with order totals, such as the total amount, subtotal, taxes, discounts, etc.|
 |batch_id| character varying(13) |Identifier used when data is loaded into the table for quality control of data ingestion.|  
 
-## Table: orders_shipping
+## Table: `orders_shipping`
 
 The *shipping* table contains order shipping information, such as shipping address, shipping costs, and logistics service providers. 
 
@@ -216,7 +216,7 @@ The table fields are described below:
 |batch_id|character varying(13)|Identifier used when data is loaded into the table for quality control of data ingestion.|
 |shippingdata_postal_code|character varying(256)|Postal code of the order's shipping address.|  
 
-## Table: orders_sellers
+## Table: `orders_sellers`
 
 The *sellers* table stores the list of sellers related to each order. The table fields are described below:  
 
@@ -234,7 +234,7 @@ The *sellers* table stores the list of sellers related to each order. The table 
 |subsellerid|character varying(65535)|Identifier for a subseller or secondary seller associated with the order or operation.|
 |batch_id|character varying(13)|Identifier used when data is loaded into the table for quality control of data ingestion.|  
 
-# Table: orders_rateandbenefitsidentifiers
+# Table: `orders_rateandbenefitsidentifiers`
 
 The *rateandbenefitsidentifiers* table contains data about promotions applied to orders. The table fields are described below: 
 
@@ -251,7 +251,7 @@ The *rateandbenefitsidentifiers* table contains data about promotions applied to
 |rateandbenefitsidentifiers_descri ption|character varying(65535)|Detailed description of surcharge and promotion identifiers, explaining their features or benefits.|
 |batch_id|character varying(13)|Identifier used when data is loaded into the table for quality control of data ingestion.|  
 
-## Table: orders_payments
+## Table: `orders_payments`
 
 The *payments* table contains payment method information. The table fields are described below:  
 
@@ -281,7 +281,7 @@ The *payments* table contains payment method information. The table fields are d
 |transactions_transactionid|character varying(65535)|Unique identifier of the financial transaction associated with the order.|
 |transactions_referencevalue|double precision|Transaction reference value. This will probably be the total amount before discounts or charges.|
 
-## Table: orders_packages
+## Table: `orders_packages`
 
 The *packages* table stores product packaging and shipping information. The table fields are described below:
 
@@ -311,7 +311,7 @@ The *packages* table stores product packaging and shipping information. The tabl
 |volumes|integer|Total number of packages in the order.|
 |batch_id|character varying(13)|Identifier used when data is loaded into the table for quality control of data ingestion.|
 
-## Table: orders_items
+## Table: `orders_items`
 
 The *items* table stores details about the individual items in each order, including SKU, quantity, price, and discounts. The table fields are described below:
 
@@ -370,3 +370,5 @@ The order dataset has correlations with the following sets of the VTEX data ecos
 - [Payments](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)   
 - [Prices](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
 - [Promotions](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Gift cards](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Bridge logs](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

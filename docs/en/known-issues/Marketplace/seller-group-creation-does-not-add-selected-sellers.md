@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: seller-group-creation-does-not-add-selected-sellers
+slugEN: seller-group-creation-does-not-add-selected-sellers
 locale: en
 kiStatus: Fixed
 internalReference: 926969

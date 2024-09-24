@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-15T18:39:51.774Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-astropay
+slugEN: setting-up-payments-with-astropay
 locale: en
 legacySlug: setting-up-payments-with-astropay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

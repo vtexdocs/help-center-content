@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: shopee-sku-disabled-in-marketplace-shopeeskuhelper-sku-update-failed
+slugEN: shopee-sku-disabled-in-marketplace-shopeeskuhelper-sku-update-failed
 locale: en
 kiStatus: Fixed
 internalReference: 685137

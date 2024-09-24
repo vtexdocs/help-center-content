@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: incorrect-shipping-preview-when-items-are-scheduled-delivery
+slugEN: incorrect-shipping-preview-when-items-are-scheduled-delivery
 locale: en
 kiStatus: Backlog
 internalReference: 545697

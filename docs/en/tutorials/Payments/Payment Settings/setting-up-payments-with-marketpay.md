@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-22T23:29:34.830Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-marketpay
+slugEN: setting-up-payments-with-marketpay
 locale: en
 legacySlug: setting-up-payments-with-marketpay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

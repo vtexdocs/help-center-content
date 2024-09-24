@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-01T18:59:54.853Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: dynamic-relevance-in-intelligent-search-beta
+slugEN: dynamic-relevance-in-intelligent-search-beta
 locale: en
 legacySlug: dynamic-relevance-in-intelligent-search-beta
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
@@ -36,7 +36,7 @@ Manual relevance is configured by distributing the weights on the **Relevance Ru
 
 1. In the VTEX Admin, go to **Storefront > Intelligent Search >** **Relevance Rules** or type **Relevance Rules** in the search bar at the top of the page.
 2. Select the **Manual Relevance** option.
-![relevancia-manual-en](https://images.ctfassets.net/alneenqid6w5/5BSjswlkB1mMpR1MtCrEWL/c66c5e883e20fd0711400e63d9a18423/image.png)
+![relevancia-manual-en](//images.ctfassets.net/alneenqid6w5/5BSjswlkB1mMpR1MtCrEWL/c66c5e883e20fd0711400e63d9a18423/image.png)
 3. Click `Save`.
 
 To configure manual relevance, see the [Relevance](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS) article.
@@ -54,7 +54,7 @@ To enable dynamic relevance, follow these steps:
 1. In the VTEX Admin, go to **Storefront > Intelligent Search > Relevance Rules** or type **Relevance Rules** in the search bar at the top of the page.
 2. Read the information about dynamic relevance and click `Next`.
 3. Select the **Dynamic Relevance** option.
-![relevancia-dinamica-en](https://images.ctfassets.net/alneenqid6w5/4yzGzHE6WhQp6qFGISgt9q/75b719ed30b77a99b0f9c9a5d7a62371/image.png)
+![relevancia-dinamica-en](//images.ctfassets.net/alneenqid6w5/4yzGzHE6WhQp6qFGISgt9q/75b719ed30b77a99b0f9c9a5d7a62371/image.png)
 4. Click `Save`.
 5. Wait for the loading bar to reach 100%. This process may take a few hours. You will receive an email when the loading is complete.
 6. Click `Enable`.

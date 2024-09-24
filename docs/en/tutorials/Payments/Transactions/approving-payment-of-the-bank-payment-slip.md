@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:46.699Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: approving-payment-of-the-bank-payment-slip
+slugEN: approving-payment-of-the-bank-payment-slip
 locale: en
 legacySlug: approving-payment-of-the-bank-payment-slip
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
@@ -25,7 +25,7 @@ This approval can be done manually through the Orders Management module as shown
 2. Click on the transaction.
 3. Click on **Notify Payment** button.
 
-![NotificarEN](https://images.ctfassets.net/alneenqid6w5/19t11NnJzs40wGQqkaeKIu/1d7fee23772ca875bccb59286859c415/NotificarEN.png)
+![NotificarEN](//images.ctfassets.net/alneenqid6w5/19t11NnJzs40wGQqkaeKIu/1d7fee23772ca875bccb59286859c415/NotificarEN.png)
 
 **After approval of the payment, the order will go through the normal purchase flow.**
 

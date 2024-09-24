@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-06T21:34:07.524Z
 contentType: tutorial
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-an-account-name
+slugEN: what-is-an-account-name
 locale: en
 legacySlug: what-is-an-account-name
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma

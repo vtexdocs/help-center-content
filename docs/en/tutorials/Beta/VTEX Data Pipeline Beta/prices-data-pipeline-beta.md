@@ -3,13 +3,13 @@ title: 'Prices Data Pipeline '
 id: 3NMGJ8dtv73Bwvo9PSz1fz
 status: PUBLISHED
 createdAt: 2024-06-21T14:58:43.084Z
-updatedAt: 2024-09-02T19:28:12.994Z
-publishedAt: 2024-09-02T19:28:12.994Z
+updatedAt: 2024-09-13T17:37:25.152Z
+publishedAt: 2024-09-13T17:37:25.152Z
 firstPublishedAt: 2024-06-21T15:27:43.768Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: prices-data-pipeline-beta
+slugEN: prices-data-pipeline-beta
 locale: en
 legacySlug: prices-data-pipeline-beta
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
@@ -17,9 +17,7 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 
 The price dataset contains historical price information for each SKU in a merchant's store, enabling analysis of markup values and monthly price trends.  
 
-<div class=alert alert-warning>
-The data available in price history is only the data from the <code>price_table_main</code> table.
-</div>
+>⚠️ The data available in price history is only the data from the `price_table_main` table.
 
 This article includes the following information:  
 
@@ -94,3 +92,5 @@ The price dataset has correlations with the following sets of the VTEX data ecos
 - [Payments](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
 - [Orders](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
 - [Promotions](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Gift cards](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Bridge logs](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

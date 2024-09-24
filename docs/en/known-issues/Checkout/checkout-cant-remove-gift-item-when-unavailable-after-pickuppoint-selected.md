@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-cant-remove-gift-item-when-unavailable-after-pickuppoint-selected
+slugEN: checkout-cant-remove-gift-item-when-unavailable-after-pickuppoint-selected
 locale: en
 kiStatus: Backlog
 internalReference: 363885

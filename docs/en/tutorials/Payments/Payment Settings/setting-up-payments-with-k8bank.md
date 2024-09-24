@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-18T13:48:29.694Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-k8bank
+slugEN: setting-up-payments-with-k8bank
 locale: en
 legacySlug: setting-up-payments-with-k8bank
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

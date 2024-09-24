@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: master-data
+slugEN: master-data
 locale: en
 legacySlug: what-is-master-data
 subcategoryId: 1l3IVVYwrrG5YOtdt7R2SN
@@ -287,7 +287,7 @@ With Master Data v2, you can define data formats with JSON schemas. This format 
 
 You can save a document to any data entity if the content is a valid JSON. A data entity may or may not have multiple JSON schemas associated with it.
 
-![Master Data schemas](https://images.ctfassets.net/alneenqid6w5/CaidhUAHIxcwas8eWLQZu/72f691a72fe0166b1e16a38c6bf89d11/schemas_en.jpg)
+![Master Data schemas](//images.ctfassets.net/alneenqid6w5/CaidhUAHIxcwas8eWLQZu/72f691a72fe0166b1e16a38c6bf89d11/schemas_en.jpg)
 
 >ℹ️ A document can be compatible with multiple JSON Schemas, but also with none.
 

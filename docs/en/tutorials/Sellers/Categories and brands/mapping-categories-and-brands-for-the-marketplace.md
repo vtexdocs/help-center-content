@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:50.588Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: mapping-categories-and-brands-for-the-marketplace
+slugEN: mapping-categories-and-brands-for-the-marketplace
 locale: en
 legacySlug: mapping-categories-and-brands-for-the-marketplace
 subcategoryId: 24EN0qRBg4yK0uusGUGosu

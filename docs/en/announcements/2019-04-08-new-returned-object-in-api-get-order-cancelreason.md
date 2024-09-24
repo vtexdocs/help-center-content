@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Post-purchase
 author: 
-slug: new-returned-object-in-api-get-order-cancelreason
+slugEN: new-returned-object-in-api-get-order-cancelreason
 locale: en
 legacySlug: new-returned-object-in-api-get-order-cancelreason
 announcementImageID: ''

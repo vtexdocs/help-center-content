@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-filters-timeout
+slugEN: catalog-filters-timeout
 locale: en
 kiStatus: Backlog
 internalReference: 922350

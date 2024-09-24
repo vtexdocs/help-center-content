@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: cost-center-dropdown-shows-only-25-options-in-b2b-admin-customers
+slugEN: cost-center-dropdown-shows-only-25-options-in-b2b-admin-customers
 locale: en
 kiStatus: Backlog
 internalReference: 921115

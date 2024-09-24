@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:08.423Z
 contentType: updates
 productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
-slug: changes-in-format-for-the-orders-export-spreadsheet-authorized-date-field
+slugEN: changes-in-format-for-the-orders-export-spreadsheet-authorized-date-field
 locale: en
 legacySlug: changes-in-format-for-the-orders-export-spreadsheet-authorized-date-field
 announcementImageID: ''

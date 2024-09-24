@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-15T17:26:16.189Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
-slug: fix-redirect-error-in-pagseguro
+slugEN: fix-redirect-error-in-pagseguro
 locale: en
 legacySlug: fix-redirect-error-in-pagseguro
 ---

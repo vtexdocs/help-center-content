@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T21:47:11.850Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: qr-code-suiteshare
+slugEN: qr-code-suiteshare
 locale: es
 legacySlug: qr-code-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

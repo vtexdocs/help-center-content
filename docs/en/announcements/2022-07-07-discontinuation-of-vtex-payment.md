@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T14:45:05.511Z
 contentType: updates
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
-slug: discontinuation-of-vtex-payment
+slugEN: discontinuation-of-vtex-payment
 locale: en
 legacySlug: discontinuation-of-vtex-payment
 announcementImageID: ''

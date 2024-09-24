@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-12T15:31:33.680Z
 contentType: tutorial
 productTeam: Identity
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: changing-the-stores-registration-details
+slugEN: changing-the-stores-registration-details
 locale: en
 legacySlug: changing-the-stores-registration-details
 subcategoryId: 5U2vQjKfQcYeYw62mygMii

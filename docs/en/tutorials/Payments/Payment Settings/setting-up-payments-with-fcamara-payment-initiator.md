@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-03T16:42:01.758Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-fcamara-payment-initiator
+slugEN: setting-up-payments-with-fcamara-payment-initiator
 locale: en
 legacySlug: setting-up-payments-with-fcamara-payment-initiator
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

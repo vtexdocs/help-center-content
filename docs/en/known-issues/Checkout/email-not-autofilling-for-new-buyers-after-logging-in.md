@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: email-not-autofilling-for-new-buyers-after-logging-in
+slugEN: email-not-autofilling-for-new-buyers-after-logging-in
 locale: en
 kiStatus: Fixed
 internalReference: 920634

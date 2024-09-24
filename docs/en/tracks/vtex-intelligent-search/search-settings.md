@@ -1,14 +1,14 @@
 ---
 title: 'Search configuration'
 id: 5t75L6lYNwix93l41s1Yrx
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-08-17T19:50:20.729Z
-updatedAt: 2024-04-25T17:06:18.124Z
-publishedAt: 2024-04-25T17:06:18.124Z
+updatedAt: 2024-09-06T20:14:21.133Z
+publishedAt: 
 firstPublishedAt: 2020-09-28T20:51:58.291Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: search-settings
+slugEN: search-settings
 locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
@@ -36,7 +36,7 @@ The general settings display the following options related to[ product and SKU s
 
 The facet settings have settings related to the[ filters](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) displayed to your customers during the search:
 
-![Facet configurations](https://images.ctfassets.net/alneenqid6w5/mSm3lqR5H5pTn1AVrhYk8/2f421fca7b4914deb993bb84e731a2d7/facet_settings_admin_v4.png)
+![Facet configurations](//images.ctfassets.net/alneenqid6w5/mSm3lqR5H5pTn1AVrhYk8/2f421fca7b4914deb993bb84e731a2d7/facet_settings_admin_v4.png)
 
 * **Facet order:** Order in which the facets will be displayed in the store. If no facet is selected, the default order is alphabetical.
 

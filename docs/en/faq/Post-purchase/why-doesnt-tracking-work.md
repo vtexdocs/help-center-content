@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:01:44.487Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
-slug: why-doesnt-tracking-work
+slugEN: why-doesnt-tracking-work
 locale: en
 legacySlug: why-doesnt-tracking-work
 ---

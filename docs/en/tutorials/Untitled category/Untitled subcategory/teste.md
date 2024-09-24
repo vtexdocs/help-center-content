@@ -9,7 +9,7 @@ firstPublishedAt: 2021-10-27T00:15:02.637Z
 contentType: tutorial
 productTeam: Others
 author: 4SqDPmUJIIz2KMMKgiyqKl
-slug: teste
+slugEN: teste
 locale: en
 legacySlug: teste
 subcategoryId: unknown-subcategory

@@ -9,7 +9,7 @@ firstPublishedAt: 2024-01-23T16:58:57.454Z
 contentType: tutorial
 productTeam: Reliability
 author: 1malnhMX0vPThsaJaZMYm2
-slug: how-dns-configuration-works-on-vtex
+slugEN: how-dns-configuration-works-on-vtex
 locale: en
 legacySlug: how-dns-configuration-works-on-vtex
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy

@@ -9,7 +9,7 @@ firstPublishedAt: 2020-08-03T21:51:04.550Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: vtex-tracking-status-change
+slugEN: vtex-tracking-status-change
 locale: en
 legacySlug: vtex-tracking-status-change
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:01:46.393Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: why-is-the-product-name-duplicated
+slugEN: why-is-the-product-name-duplicated
 locale: en
 legacySlug: why-is-the-product-name-duplicated
 ---

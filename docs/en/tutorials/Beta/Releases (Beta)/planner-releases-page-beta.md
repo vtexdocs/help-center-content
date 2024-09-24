@@ -9,7 +9,7 @@ firstPublishedAt: 2022-09-20T00:26:05.306Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: planner-releases-page-beta
+slugEN: planner-releases-page-beta
 locale: en
 legacySlug: planner-releases-page-beta
 subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
@@ -31,7 +31,7 @@ The order of the scheduled releases is based on the publication date: The furthe
 
 Go to the **Releases** navigation menu to access the **Releases** page in the VTEX Admin. In the following image, you'll see the interface and what you can do in it:
 
-![Releases list view v2 - EN](https://images.ctfassets.net/alneenqid6w5/Fe7SCh8LI8Nv4x6ZM6EGc/431af585bfbfef7f3920e38aca9aab6b/Releases_list_view_v2_-_EN.png)
+![Releases list view v2 - EN](//images.ctfassets.net/alneenqid6w5/Fe7SCh8LI8Nv4x6ZM6EGc/431af585bfbfef7f3920e38aca9aab6b/Releases_list_view_v2_-_EN.png)
 
 | **Field** | **Description** |
 |---|---|

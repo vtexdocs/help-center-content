@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: faststore-facets-considering-not-removing-facets-set-to-ne-hidden
+slugEN: faststore-facets-considering-not-removing-facets-set-to-ne-hidden
 locale: en
 kiStatus: Backlog
 internalReference: 1029837

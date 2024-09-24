@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: omnishipping-component-will-not-fill-the-pickupreceiver-field-when-the-client-first-informs-an-address-for-delivery
+slugEN: omnishipping-component-will-not-fill-the-pickupreceiver-field-when-the-client-first-informs-an-address-for-delivery
 locale: en
 kiStatus: Backlog
 internalReference: 945896

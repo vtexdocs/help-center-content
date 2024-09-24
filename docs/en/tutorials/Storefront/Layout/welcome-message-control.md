@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-07T17:03:19.936Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: welcome-message-control
+slugEN: welcome-message-control
 locale: en
 legacySlug: welcome-message-control
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -19,7 +19,7 @@ The control `<vtex.cmc:welcomeMessage/>` renders a welcome message, which should
 
 See an example in the image below.
 
-![welcome1](https://images.contentful.com/alneenqid6w5/2z4iyUDAm0muKc4OCOUOa2/9e6f37d39596161bfe1721effdceb692/welcome1.png)
+![welcome1](//images.contentful.com/alneenqid6w5/2z4iyUDAm0muKc4OCOUOa2/9e6f37d39596161bfe1721effdceb692/welcome1.png)
 
 ## HTML code rendered
 

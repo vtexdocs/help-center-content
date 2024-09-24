@@ -8,7 +8,7 @@ publishedAt: 2020-06-24T15:13:28.036Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: adobe-flash-migration
+slugEN: adobe-flash-migration
 locale: en
 legacySlug: adobe-flash-migration
 announcementImageID: ''

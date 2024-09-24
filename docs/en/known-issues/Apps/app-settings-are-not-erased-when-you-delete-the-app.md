@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
 tag: Apps
-slug: app-settings-are-not-erased-when-you-delete-the-app
+slugEN: app-settings-are-not-erased-when-you-delete-the-app
 locale: en
 kiStatus: Backlog
 internalReference: 1065954

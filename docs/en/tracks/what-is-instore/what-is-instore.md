@@ -8,7 +8,7 @@ publishedAt: 2024-05-13T18:03:19.146Z
 firstPublishedAt: 2020-06-28T13:12:31.221Z
 contentType: trackArticle
 productTeam: Shopping
-slug: what-is-instore
+slugEN: what-is-instore
 locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: what-is-instore

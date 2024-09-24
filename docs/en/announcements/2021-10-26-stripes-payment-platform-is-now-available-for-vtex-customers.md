@@ -8,7 +8,7 @@ publishedAt: 2022-03-18T18:44:02.535Z
 contentType: updates
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
-slug: stripes-payment-platform-is-now-available-for-vtex-customers
+slugEN: stripes-payment-platform-is-now-available-for-vtex-customers
 locale: en
 legacySlug: stripes-payment-platform-is-now-available-for-vtex-customers
 announcementImageID: ''

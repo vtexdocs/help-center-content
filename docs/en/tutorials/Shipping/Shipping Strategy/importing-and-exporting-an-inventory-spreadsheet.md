@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:50.695Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: importing-and-exporting-an-inventory-spreadsheet
+slugEN: importing-and-exporting-an-inventory-spreadsheet
 locale: en
 legacySlug: importing-and-exporting-an-inventory-spreadsheet
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

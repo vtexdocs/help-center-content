@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-12T15:46:34.188Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: activating-the-product-zoom-in-the-page-template
+slugEN: activating-the-product-zoom-in-the-page-template
 locale: en
 legacySlug: activating-the-product-zoom-in-the-page-template
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

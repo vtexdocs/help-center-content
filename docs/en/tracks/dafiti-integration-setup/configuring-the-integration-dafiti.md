@@ -8,7 +8,7 @@ publishedAt: 2022-05-19T19:29:05.740Z
 firstPublishedAt: 2021-05-26T15:46:30.364Z
 contentType: trackArticle
 productTeam: Channels
-slug: configuring-the-integration-dafiti
+slugEN: configuring-the-integration-dafiti
 locale: en
 trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugEN: dafiti-integration-setup

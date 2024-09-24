@@ -9,7 +9,7 @@ firstPublishedAt: 2021-03-31T17:59:18.951Z
 contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: routing-monitoring
+slugEN: routing-monitoring
 locale: en
 legacySlug: routing-monitoring
 subcategoryId: 6a36lWUX5znjBVYTrfc29x

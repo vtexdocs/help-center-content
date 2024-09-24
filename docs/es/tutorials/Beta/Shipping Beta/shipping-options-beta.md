@@ -9,7 +9,7 @@ firstPublishedAt: 2022-05-31T18:53:28.695Z
 contentType: tutorial
 productTeam: Others
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: shipping-options-beta
+slugEN: shipping-options-beta
 locale: es
 legacySlug: delivery-options-beta
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
@@ -87,7 +87,7 @@ Para agregar una opción de envío, sigue los pasos a continuación:
     - **Envío gratis:** libre de costo para el consumidor y no requiere configuración adicional.
 8. Haz clic en el botón `Guardar`.
 
-![opcoes_envio_criacao_es](https://images.ctfassets.net/alneenqid6w5/6TOlNWWBTED41BXemhsvQE/0ef83d6a102d79c74a7d87c42c53c5eb/opcoes_envio_criacao_es.png)
+![opcoes_envio_criacao_es](//images.ctfassets.net/alneenqid6w5/6TOlNWWBTED41BXemhsvQE/0ef83d6a102d79c74a7d87c42c53c5eb/opcoes_envio_criacao_es.png)
 
 ## Editar opción de envío
 
@@ -111,7 +111,7 @@ Además de editar una opción de envío, desde el ícono de menú <i class="fas 
 
 Después de configurar las opciones de envío, aparecerán en una lista en **Configuración de la tienda > Envío > Opciones de envío**, según se muestra en la siguiente imagen:
 
-![opcoes_envio_listagem_es](https://images.ctfassets.net/alneenqid6w5/2MAxFwYr86Y2ErCyo7GRIN/eda44ef73871de786a4c6fc8d106923a/opcoes_envio_listagem_es.png)
+![opcoes_envio_listagem_es](//images.ctfassets.net/alneenqid6w5/2MAxFwYr86Y2ErCyo7GRIN/eda44ef73871de786a4c6fc8d106923a/opcoes_envio_listagem_es.png)
 
 La tabla siguiente contiene la descripción de las columnas mostradas:
 

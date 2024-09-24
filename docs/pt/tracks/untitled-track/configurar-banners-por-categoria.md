@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: configurar-banners-por-categoria
+slugEN: configurar-banners-por-categoria
 locale: pt
 trackId: 
 trackSlugPT: untitled-track

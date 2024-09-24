@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: faststores-not-working-correctly-in-firefox-private-mode
+slugEN: faststores-not-working-correctly-in-firefox-private-mode
 locale: en
 kiStatus: Backlog
 internalReference: 828685

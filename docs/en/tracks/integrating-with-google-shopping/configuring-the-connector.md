@@ -8,7 +8,7 @@ publishedAt: 2023-10-13T19:52:02.877Z
 firstPublishedAt: 2021-04-15T17:41:17.442Z
 contentType: trackArticle
 productTeam: Channels
-slug: configuring-the-connector
+slugEN: configuring-the-connector
 locale: en
 trackId: 25Sl7iOqq58PGfVfTAo8Xw
 trackSlugEN: integrating-with-google-shopping

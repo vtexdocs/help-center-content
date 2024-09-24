@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: unecessary-search-results-prioritization-by-diacritics-for-portuguese
+slugEN: unecessary-search-results-prioritization-by-diacritics-for-portuguese
 locale: en
 kiStatus: Backlog
 internalReference: 1028763

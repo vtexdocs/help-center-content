@@ -9,7 +9,7 @@ firstPublishedAt: 2020-09-08T12:51:39.203Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
-slug: transactional-email-template-for-refunded-order
+slugEN: transactional-email-template-for-refunded-order
 locale: en
 legacySlug: transactional-email-template-for-refunded-order
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee

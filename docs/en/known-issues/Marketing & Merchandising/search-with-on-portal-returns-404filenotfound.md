@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: search-with-on-portal-returns-404filenotfound
+slugEN: search-with-on-portal-returns-404filenotfound
 locale: en
 kiStatus: Backlog
 internalReference: 

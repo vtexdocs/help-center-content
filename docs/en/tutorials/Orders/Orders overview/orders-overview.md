@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:03.051Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: orders-overview
+slugEN: orders-overview
 locale: en
 legacySlug: oms-overview
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ

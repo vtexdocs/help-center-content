@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
-slug: effortlessly-create-backend-apps-with-the-new-typedql-builder
+slugEN: effortlessly-create-backend-apps-with-the-new-typedql-builder
 locale: en
 legacySlug: effortlessly-create-backend-apps-with-the-new-typedql-builder
 announcementImageID: ''

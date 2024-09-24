@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: repeated-items-in-the-purchase-summary-for-carts-with-more-than-20-items
+slugEN: repeated-items-in-the-purchase-summary-for-carts-with-more-than-20-items
 locale: en
 kiStatus: Backlog
 internalReference: 367339

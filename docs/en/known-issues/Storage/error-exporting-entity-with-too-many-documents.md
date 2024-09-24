@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: error-exporting-entity-with-too-many-documents
+slugEN: error-exporting-entity-with-too-many-documents
 locale: en
 kiStatus: Backlog
 internalReference: 857894

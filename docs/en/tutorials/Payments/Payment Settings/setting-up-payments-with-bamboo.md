@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-12T20:13:31.863Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-bamboo
+slugEN: setting-up-payments-with-bamboo
 locale: en
 legacySlug: setting-up-payments-with-bamboo
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

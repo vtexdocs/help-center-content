@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: mercado-livre-ad-buybox-doesnt-update-shippingmode-for-me2
+slugEN: mercado-livre-ad-buybox-doesnt-update-shippingmode-for-me2
 locale: en
 kiStatus: Backlog
 internalReference: 1042779

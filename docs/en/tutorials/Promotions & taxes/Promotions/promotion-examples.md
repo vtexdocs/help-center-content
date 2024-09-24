@@ -9,7 +9,7 @@ firstPublishedAt: 2020-09-01T23:21:00.790Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: promotion-examples
+slugEN: promotion-examples
 locale: en
 legacySlug: promotion-examples
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq

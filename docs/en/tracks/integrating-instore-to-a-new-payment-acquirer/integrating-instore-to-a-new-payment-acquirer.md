@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-06-28T16:38:25.545Z
 contentType: trackArticle
 productTeam: Shopping
-slug: integrating-instore-to-a-new-payment-acquirer
+slugEN: integrating-instore-to-a-new-payment-acquirer
 locale: en
 trackId: 6NTqymtXmL9cNy8w1ouAod
 trackSlugEN: integrating-instore-to-a-new-payment-acquirer
@@ -16,7 +16,7 @@ trackSlugEN: integrating-instore-to-a-new-payment-acquirer
 
 This article aims to explain how the inStore app configures AppLinking for `payment` and `payment-reversal` actions with the acquirers' apps.
 
-![Payment app](https://images.ctfassets.net/alneenqid6w5/SZ7d3IeuCAagwCqSW4eCO/27d469e37d9d1d8fb3ce22850012e685/Payment_app.png)
+![Payment app](//images.ctfassets.net/alneenqid6w5/SZ7d3IeuCAagwCqSW4eCO/27d469e37d9d1d8fb3ce22850012e685/Payment_app.png)
 
 ## Setting fields
 

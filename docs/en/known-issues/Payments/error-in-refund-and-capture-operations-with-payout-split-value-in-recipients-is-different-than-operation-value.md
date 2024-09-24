@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: error-in-refund-and-capture-operations-with-payout-split-value-in-recipients-is-different-than-operation-value
+slugEN: error-in-refund-and-capture-operations-with-payout-split-value-in-recipients-is-different-than-operation-value
 locale: en
 kiStatus: Backlog
 internalReference: 698005

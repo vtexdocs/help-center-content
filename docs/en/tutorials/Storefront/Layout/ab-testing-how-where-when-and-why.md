@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:41.601Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: ab-testing-how-where-when-and-why
+slugEN: ab-testing-how-where-when-and-why
 locale: en
 legacySlug: ab-testing-how-where-when-and-why
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

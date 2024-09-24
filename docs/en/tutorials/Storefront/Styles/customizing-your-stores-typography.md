@@ -9,7 +9,7 @@ firstPublishedAt: 2022-01-17T21:12:52.262Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slug: customizing-your-stores-typography
+slugEN: customizing-your-stores-typography
 locale: en
 legacySlug: customizing-your-stores-typography
 subcategoryId: 5HsDDU48ZP58JHWU3WbCPc
@@ -32,7 +32,7 @@ In the Admin, you have the flexibility to customize your store's typography to m
 
 5. In the **Font family** field, create a name for the font.
 
-    ![familia-de-fontes-giff-en](https://images.ctfassets.net/alneenqid6w5/5GVDDJvzXVmlkEbU1OHPoR/aa803a298788fc1b0a0304f5ab6cddeb/familia-de-fontes-giff-en.gif)
+    ![familia-de-fontes-giff-en](//images.ctfassets.net/alneenqid6w5/5GVDDJvzXVmlkEbU1OHPoR/aa803a298788fc1b0a0304f5ab6cddeb/familia-de-fontes-giff-en.gif)
 
 6. Click **Upload** to upload the desired font file.
 
@@ -66,7 +66,7 @@ Follow the instructions below to configure type tokens:
 
 3. Click **Edit > Typography > Type tokens**.
 
-    ![tokens-tipo-giff-en](https://images.ctfassets.net/alneenqid6w5/6O5G4MOA0vGlFLEzdcRQDa/c7bc0075e3df6e338a258baf8c9ca41f/tokens-tipo-giff-en.gif)
+    ![tokens-tipo-giff-en](//images.ctfassets.net/alneenqid6w5/6O5G4MOA0vGlFLEzdcRQDa/c7bc0075e3df6e338a258baf8c9ca41f/tokens-tipo-giff-en.gif)
 
 4. Choose the token you want to customize, such as **Heading 1**, and click it.
 

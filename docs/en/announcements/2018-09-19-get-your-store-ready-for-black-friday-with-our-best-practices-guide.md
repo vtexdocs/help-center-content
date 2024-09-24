@@ -8,7 +8,7 @@ publishedAt: 2020-01-21T18:13:05.112Z
 contentType: updates
 productTeam: Others
 author: authors_24
-slug: get-your-store-ready-for-black-friday-with-our-best-practices-guide
+slugEN: get-your-store-ready-for-black-friday-with-our-best-practices-guide
 locale: en
 legacySlug: get-your-store-ready-for-black-friday-with-our-best-practices-guide
 announcementImageID: ''
@@ -21,4 +21,4 @@ As in previous years, we came up with a guide with recommendations and exclusive
 
 The guide is available to all our clients and partners and may be accessed through the homepage of your Admin or directly through the URL `https://{AccountName}.myvtex.com/admin/blackfriday`. Just replace `{AccountName}` with your store's Account Name.
 
-![Announcement Cartilha BF - EN](https://images.ctfassets.net/alneenqid6w5/1qu1Wg1MFyc0aCCeA6AimE/7f7644728fe95b415ea45bf1203a17f3/Announcement_Cartilha_BF_-_EN.png)
+![Announcement Cartilha BF - EN](//images.ctfassets.net/alneenqid6w5/1qu1Wg1MFyc0aCCeA6AimE/7f7644728fe95b415ea45bf1203a17f3/Announcement_Cartilha_BF_-_EN.png)

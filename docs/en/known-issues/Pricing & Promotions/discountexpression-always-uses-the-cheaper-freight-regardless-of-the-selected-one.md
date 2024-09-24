@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: discountexpression-always-uses-the-cheaper-freight-regardless-of-the-selected-one
+slugEN: discountexpression-always-uses-the-cheaper-freight-regardless-of-the-selected-one
 locale: en
 kiStatus: Backlog
 internalReference: 1075053

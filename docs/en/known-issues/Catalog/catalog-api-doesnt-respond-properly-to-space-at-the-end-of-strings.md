@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-api-doesnt-respond-properly-to-space-at-the-end-of-strings
+slugEN: catalog-api-doesnt-respond-properly-to-space-at-the-end-of-strings
 locale: en
 kiStatus: No Fix
 internalReference: 977033

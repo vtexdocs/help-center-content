@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:46.936Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_3
-slug: what-to-do-when-a-postal-code-address-is-out-of-date
+slugEN: what-to-do-when-a-postal-code-address-is-out-of-date
 locale: en
 legacySlug: what-to-do-when-a-postal-code-address-is-out-of-date
 ---

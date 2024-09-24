@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-05T11:34:04.566Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: b2b-trade-policies-overview
+slugEN: b2b-trade-policies-overview
 locale: en
 legacySlug: b2b-trade-policies-overview
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd

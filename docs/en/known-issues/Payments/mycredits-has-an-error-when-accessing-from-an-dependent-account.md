@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: mycredits-has-an-error-when-accessing-from-an-dependent-account
+slugEN: mycredits-has-an-error-when-accessing-from-an-dependent-account
 locale: en
 kiStatus: No Fix
 internalReference: 367276

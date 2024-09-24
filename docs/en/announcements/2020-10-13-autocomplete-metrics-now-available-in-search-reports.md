@@ -8,7 +8,7 @@ publishedAt: 2020-10-26T15:52:28.286Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: autocomplete-metrics-now-available-in-search-reports
+slugEN: autocomplete-metrics-now-available-in-search-reports
 locale: en
 legacySlug: autocomplete-metrics-now-available-in-search-reports
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2024-06-13T13:29:05.308Z
 contentType: updates
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: site-editor-fixed-content-loss-issue
+slugEN: site-editor-fixed-content-loss-issue
 locale: en
 legacySlug: site-editor-fixed-content-loss-issue
 announcementImageID: ''

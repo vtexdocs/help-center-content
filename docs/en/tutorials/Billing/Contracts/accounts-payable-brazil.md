@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:40.609Z
 contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: accounts-payable-brazil
+slugEN: accounts-payable-brazil
 locale: en
 legacySlug: accounts-payable-procedures
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC

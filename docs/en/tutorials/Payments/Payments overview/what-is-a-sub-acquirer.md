@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-20T22:10:59.513Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-a-sub-acquirer
+slugEN: what-is-a-sub-acquirer
 locale: en
 legacySlug: what-is-a-sub-acquirer
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

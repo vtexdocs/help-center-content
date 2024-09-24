@@ -8,7 +8,7 @@ publishedAt: 2024-05-03T21:27:03.812Z
 firstPublishedAt: 2024-05-03T20:25:55.041Z
 contentType: trackArticle
 productTeam: Others
-slug: subject-rights
+slugEN: subject-rights
 locale: en
 trackId: 4Lc0i0an0DgnEtB0AUwlcq
 trackSlugEN: data-and-privacy

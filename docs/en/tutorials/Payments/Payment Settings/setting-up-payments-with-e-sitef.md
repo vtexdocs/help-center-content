@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-06T17:37:55.667Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-e-sitef
+slugEN: setting-up-payments-with-e-sitef
 locale: en
 legacySlug: setting-up-payments-with-e-sitef
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

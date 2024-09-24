@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-17T15:53:14.973Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: seller-portal-getting-started-for-the-marketplace
+slugEN: seller-portal-getting-started-for-the-marketplace
 locale: en
 legacySlug: seller-portal-getting-started-for-the-marketplace
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
@@ -27,7 +27,7 @@ The Seller Portal enables marketplaces to:
 - Decrease sales conversion time with self-service onboarding of new sellers, which is now faster and frictionless.  
 - Easily share product assortment with the seller and quickly manage shared product offers.  
 
-![Seller Portal gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/ff02b9c926398dcfa69683bcfbf5b02f/Seller_Portal.gif)
+![Seller Portal gif 2022 launch](//images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/ff02b9c926398dcfa69683bcfbf5b02f/Seller_Portal.gif)
 
 ## Seller and marketplace interaction in the Seller Portal
 

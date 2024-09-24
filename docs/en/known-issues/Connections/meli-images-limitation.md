@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-images-limitation
+slugEN: meli-images-limitation
 locale: en
 kiStatus: Backlog
 internalReference: 571539

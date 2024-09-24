@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: collections-trigger-not-working-as-expected-on-progressive-discounts
+slugEN: collections-trigger-not-working-as-expected-on-progressive-discounts
 locale: en
 kiStatus: Backlog
 internalReference: 930849

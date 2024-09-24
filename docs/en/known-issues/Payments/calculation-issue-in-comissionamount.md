@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: calculation-issue-in-comissionamount
+slugEN: calculation-issue-in-comissionamount
 locale: en
 kiStatus: Backlog
 internalReference: 1001005

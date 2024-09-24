@@ -9,7 +9,7 @@ firstPublishedAt: 2020-04-08T20:52:12.334Z
 contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
-slug: roles
+slugEN: roles
 locale: en
 legacySlug: configuring-access-profiles, access-profiles
 subcategoryId: 1HSqkejwuYcQSMC400uY84
@@ -25,7 +25,7 @@ From the **Roles** page, you can do the following:
 * [Edit a role](#editing-a-role)
 * [Delete a role](#deleting-a-role)
 
-![roles-en](https://images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/d0c8e68b433a987fb1d0c9f031726d6f/roles-en.png)
+![roles-en](//images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/d0c8e68b433a987fb1d0c9f031726d6f/roles-en.png)
 
 The page displays a list of all roles added to the account and their respective information in a table:
 

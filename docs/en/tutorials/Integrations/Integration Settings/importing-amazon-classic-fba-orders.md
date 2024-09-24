@@ -9,7 +9,7 @@ firstPublishedAt: 2022-10-07T21:52:55.581Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: importing-amazon-classic-fba-orders
+slugEN: importing-amazon-classic-fba-orders
 locale: en
 legacySlug: importing-amazon-fba-classic-orders
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

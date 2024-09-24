@@ -9,7 +9,7 @@ firstPublishedAt: 2018-11-07T18:11:42.445Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
-slug: order-transactional-email-templates
+slugEN: order-transactional-email-templates
 locale: en
 legacySlug: list-of-e-mail-templates-in-the-message-center
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee

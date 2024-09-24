@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-01T15:11:15.880Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: analyze-a-products-reservations
+slugEN: analyze-a-products-reservations
 locale: en
 legacySlug: analyze-a-products-reservations
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE
@@ -23,4 +23,4 @@ To check the authorized reservations, that is, those that have not yet had an or
 
 To view orders with the status `Billed`, that is, payment already approved, just click on the number displayed in the column **Itens em manuseio** (Items being handled).
 
-![Reservations GIF](https://images.contentful.com/alneenqid6w5/4xUy1O7pUA66UaQkcuU0au/53f39fe9b3cbe2f4c3e2a8e6316e66a9/Reservations.gif)
+![Reservations GIF](//images.contentful.com/alneenqid6w5/4xUy1O7pUA66UaQkcuU0au/53f39fe9b3cbe2f4c3e2a8e6316e66a9/Reservations.gif)

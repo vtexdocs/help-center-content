@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:05:52.821Z
 contentType: tutorial
 productTeam: Financial
 author: authors_24
-slug: where-do-i-see-the-payment-capture-date
+slugEN: where-do-i-see-the-payment-capture-date
 locale: en
 legacySlug: where-do-i-see-the-payment-capture-date
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
@@ -23,4 +23,4 @@ To do that, follow the steps below:
 2. Find the desired transaction and click on it.
 3. In the __Transaction Events__, look for the settlement event:
 
-![settlementEvent](https://images.contentful.com/alneenqid6w5/2svl4ROF5OoG4G62QeQaAg/8f45a34ccbe4c03a178a89bcd8468957/settlementEvent.png)
+![settlementEvent](//images.contentful.com/alneenqid6w5/2svl4ROF5OoG4G62QeQaAg/8f45a34ccbe4c03a178a89bcd8468957/settlementEvent.png)

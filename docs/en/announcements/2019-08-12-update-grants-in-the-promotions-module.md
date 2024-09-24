@@ -8,7 +8,7 @@ publishedAt: 2020-01-07T22:08:03.837Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
-slug: update-grants-in-the-promotions-module
+slugEN: update-grants-in-the-promotions-module
 locale: en
 legacySlug: update-grants-in-the-promotions-module
 announcementImageID: ''
@@ -37,4 +37,4 @@ This update gives you more power over your promotions' behavior. The new buttons
 6. Tick the box next to **Use recurrence settings**
 7. Set the desired days and schedule for that promotion 
 
-![CRON 2 EN](https://images.ctfassets.net/alneenqid6w5/48EFCYtz5TvqhZVXmBasyW/d37188c1a6a742e3a086fe6984eded31/CRON_2_EN.png)
+![CRON 2 EN](//images.ctfassets.net/alneenqid6w5/48EFCYtz5TvqhZVXmBasyW/d37188c1a6a742e3a086fe6984eded31/CRON_2_EN.png)

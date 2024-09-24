@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: disclosure-layout-cant-be-used-properly-when-prop-animated-is-set-as-true
+slugEN: disclosure-layout-cant-be-used-properly-when-prop-animated-is-set-as-true
 locale: en
 kiStatus: No Fix
 internalReference: 417947

@@ -9,7 +9,7 @@ firstPublishedAt: 2024-08-20T13:54:03.140Z
 contentType: tutorial
 productTeam: Shopping
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: promotions-on-the-sales-app-search-page
+slugEN: promotions-on-the-sales-app-search-page
 locale: en
 legacySlug: promotions-on-the-sales-app-search-page
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
@@ -29,4 +29,4 @@ When a product has multiple promotions, the sales associate in a physical store 
 
 The following image shows a promotion available on the Product Listing Page (PLP).
 
-![promoção em destaque](https://images.ctfassets.net/alneenqid6w5/2YpcrGEb1eHZ0IFeOzvAj4/00f7a287cb76d6ad3301364e8bdfa79a/promo__o_em_destaque.png)
+![promoção em destaque](//images.ctfassets.net/alneenqid6w5/2YpcrGEb1eHZ0IFeOzvAj4/00f7a287cb76d6ad3301364e8bdfa79a/promo__o_em_destaque.png)

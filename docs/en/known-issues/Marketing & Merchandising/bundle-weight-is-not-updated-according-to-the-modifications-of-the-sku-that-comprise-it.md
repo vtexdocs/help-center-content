@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: bundle-weight-is-not-updated-according-to-the-modifications-of-the-sku-that-comprise-it
+slugEN: bundle-weight-is-not-updated-according-to-the-modifications-of-the-sku-that-comprise-it
 locale: en
 kiStatus: Backlog
 internalReference: 

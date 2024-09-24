@@ -9,7 +9,7 @@ firstPublishedAt: 2022-10-17T19:53:55.523Z
 contentType: tutorial
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: understanding-vtexs-email-capture-system
+slugEN: understanding-vtexs-email-capture-system
 locale: en
 legacySlug: understanding-vtexs-email-capture-system
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
@@ -47,5 +47,5 @@ For better understanding, we will present a scenario (divided into 3 steps), whe
 
 >ℹ️ Each VTEX module is responsible for requesting RC.JS to transmit the data captured in the session. RC.JS is intended to act as a "messenger" of information.
 
-![image (3)](https://images.ctfassets.net/alneenqid6w5/18dCifD9tOEo8mgUocamIc/958e0da9d2c7aa724f5c1c80bb0b616e/image__3_.png)
+![image (3)](//images.ctfassets.net/alneenqid6w5/18dCifD9tOEo8mgUocamIc/958e0da9d2c7aa724f5c1c80bb0b616e/image__3_.png)
 

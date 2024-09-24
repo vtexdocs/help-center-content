@@ -8,7 +8,7 @@ publishedAt: 2024-05-03T21:10:00.990Z
 firstPublishedAt: 2024-05-03T16:58:44.285Z
 contentType: trackArticle
 productTeam: Others
-slug: data-protection-roles
+slugEN: data-protection-roles
 locale: en
 trackId: 4Lc0i0an0DgnEtB0AUwlcq
 trackSlugEN: data-and-privacy

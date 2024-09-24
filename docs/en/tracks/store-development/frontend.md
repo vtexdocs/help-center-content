@@ -8,7 +8,7 @@ publishedAt: 2023-04-25T19:15:45.158Z
 firstPublishedAt: 2022-12-22T19:57:08.694Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: frontend
+slugEN: frontend
 locale: en
 trackId: 3fHF3GIjK8UugnQKIakpl9
 trackSlugEN: store-development
@@ -26,7 +26,7 @@ The way this feature extension happens is through VTEX apps that are available g
 
 Store Framework is a solution for building storefronts that leverages VTEX IO. Using it, you can rely on the user-friendly interface of [Site Editor](https://help.vtex.com/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) and easily manage store content.
 
-![vtex io](https://images.ctfassets.net/alneenqid6w5/2ihbniXa1S2L7pLOPP0E3o/5b55c0f934c47034373e47f9be09c754/image3.png)
+![vtex io](//images.ctfassets.net/alneenqid6w5/2ihbniXa1S2L7pLOPP0E3o/5b55c0f934c47034373e47f9be09c754/image3.png)
 
 Stores created with Store Framework also include: 
 - **[Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)**: Search tool that corrects spelling errors and enables conditional rules for displaying the search result.

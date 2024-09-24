@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: seller-commission-updates-does-not-index-binded-skus
+slugEN: seller-commission-updates-does-not-index-binded-skus
 locale: en
 kiStatus: Backlog
 internalReference: 891162

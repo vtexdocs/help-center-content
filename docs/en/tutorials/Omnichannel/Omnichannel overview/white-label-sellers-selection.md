@@ -9,7 +9,7 @@ firstPublishedAt: 2021-03-05T13:12:55.997Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: white-label-sellers-selection
+slugEN: white-label-sellers-selection
 locale: en
 legacySlug: algorithm-for-selecting-white-label-sellers
 subcategoryId: 3vhg10rO4MSmy06KeIYMIa
@@ -103,13 +103,13 @@ If there is a tie between sellers on the best cost or time, the tiebreaker crite
 
 A customer added five SKUs to the shopping cart. Each of the sellers delivering in the customer's region (sellers A, B, C, and D) has only part of the ordered items in [stock](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139), as illustrated below: 
 
-![print_selecao_seller_white_label_1](https://images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/4fdb2ed25e8d3d52eef96e5c0e2fd908/print_selecao_seller_white_label_1.png)
+![print_selecao_seller_white_label_1](//images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/4fdb2ed25e8d3d52eef96e5c0e2fd908/print_selecao_seller_white_label_1.png)
 
 The VTEX platform selects the seller that has available in stock the maximum quantity of the SKUs added to the shopping cart. In this case, it's Seller B, the only one that can deliver three SKUs. 
 
 After Seller B is selected, there are two SKUs still to be delivered. If a single seller were able to deliver both items, it would be a decisive selection factor because the objective is to find the lowest number of sellers to cover the shopping cart. However, Sellers A and C will be selected for delivering SKUs 1 and 4, as illustrated in the image below:
 
-![print_selecao_seller_white_label_2](https://images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/3f7b71abf734ae7c55d8b40d3a76f3c0/print_selecao_seller_white_label_2.png)
+![print_selecao_seller_white_label_2](//images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/3f7b71abf734ae7c55d8b40d3a76f3c0/print_selecao_seller_white_label_2.png)
 
 In the first image, Seller C was able to deliver SKUs 3 and 4, and Seller D could deliver SKU 5. But Seller B has already been selected to deliver those items, so those SKUs will be disregarded in the following steps of the selection. This is represented by removing the arrow connecting Seller C to SKU 3 and Seller D to SKU 5.
 
@@ -119,7 +119,7 @@ The selection result for the delivery method is a combination between sellers A,
 
 A customer added five SKUs to the shopping cart and there are four sellers delivering in their region: sellers A, B, C, and D. None of them has all of the items in [stock](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139), as illustrated below:
 
-![print_selecao_seller_white_label_3](https://images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/26cd86b37e5e47ada6f15cc08acfbfbc/print_selecao_seller_white_label_3.png)
+![print_selecao_seller_white_label_3](//images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/26cd86b37e5e47ada6f15cc08acfbfbc/print_selecao_seller_white_label_3.png)
 
 The VTEX platform selects the seller that has available in stock the highest number of the SKUs added to the shopping cart. Seller B and Seller D are able to deliver three items. Because both can deliver SKU 3, they are in competition.
 
@@ -132,11 +132,11 @@ Suppose Seller B has the cheapest shipping and Seller D has the fastest shipping
 
 - **Fastest shipping:** After Seller D is selected, SKUs 3 and 4 remain to be delivered. Seller C is able to deliver both, therefore it will be selected. The selection result is a combination of sellers D and C.
 
-![print_selecao_seller_white_label_4](https://images.ctfassets.net/alneenqid6w5/5OVQXuRwsEWGUxy3hocfOF/4751f13e35a8187655c04b11c67f6079/print_selecao_seller_white_label_4.png)
+![print_selecao_seller_white_label_4](//images.ctfassets.net/alneenqid6w5/5OVQXuRwsEWGUxy3hocfOF/4751f13e35a8187655c04b11c67f6079/print_selecao_seller_white_label_4.png)
 
 - **Cheapest shipping cost:** After Seller B is selected, SKUs 1 and 4 remain to be delivered. Since only Seller A is able to deliver SKU 1 and Seller C SKU 4, the selection result is a combination of sellers A, B, and C. 
 
-![print_selecao_seller_white_label_5](https://images.ctfassets.net/alneenqid6w5/2zLEDj7yHw54HufNUeC8OT/d69cee9bb79c876adb571e98ccd0060c/print_selecao_seller_white_label_5.png)
+![print_selecao_seller_white_label_5](//images.ctfassets.net/alneenqid6w5/2zLEDj7yHw54HufNUeC8OT/d69cee9bb79c876adb571e98ccd0060c/print_selecao_seller_white_label_5.png)
 
 In the images showing the fastest shipping and the cheapest shipping, the arrows pointing repeatedly to sellers which delivered SKUs covered by sellers B and D were removed. During the selection process, SKUs that are already covered are disregarded.
 

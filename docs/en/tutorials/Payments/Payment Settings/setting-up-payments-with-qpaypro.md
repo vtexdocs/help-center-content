@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-12T17:51:13.563Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-qpaypro
+slugEN: setting-up-payments-with-qpaypro
 locale: en
 legacySlug: setting-up-payments-with-qpaypro
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

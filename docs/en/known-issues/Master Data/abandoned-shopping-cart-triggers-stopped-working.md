@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
 tag: Master Data
-slug: abandoned-shopping-cart-triggers-stopped-working
+slugEN: abandoned-shopping-cart-triggers-stopped-working
 locale: en
 kiStatus: Backlog
 internalReference: 

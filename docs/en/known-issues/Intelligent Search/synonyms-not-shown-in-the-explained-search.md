@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: synonyms-not-shown-in-the-explained-search
+slugEN: synonyms-not-shown-in-the-explained-search
 locale: en
 kiStatus: Backlog
 internalReference: 774307

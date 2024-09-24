@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: it-is-not-possible-to-create-a-promotion-with-end-date-from-the-year-2100-onwards
+slugEN: it-is-not-possible-to-create-a-promotion-with-end-date-from-the-year-2100-onwards
 locale: en
 kiStatus: Backlog
 internalReference: 833957

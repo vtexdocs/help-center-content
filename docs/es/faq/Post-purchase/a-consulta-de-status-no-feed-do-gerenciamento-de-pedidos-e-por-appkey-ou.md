@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 2LFh4Ox3XiWIqUMWw4MOGw
-slug: a-consulta-de-status-no-feed-do-gerenciamento-de-pedidos-e-por-appkey-ou
+slugEN: a-consulta-de-status-no-feed-do-gerenciamento-de-pedidos-e-por-appkey-ou
 locale: es
 legacySlug: a-consulta-de-status-no-feed-do-oms-e-por-appkey-ou-por-accountname
 ---

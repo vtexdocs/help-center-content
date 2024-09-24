@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-29T20:33:10.866Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: sequencial-suiteshare
+slugEN: sequencial-suiteshare
 locale: en
 legacySlug: sequencial
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

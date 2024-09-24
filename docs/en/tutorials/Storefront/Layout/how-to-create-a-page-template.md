@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:03:09.865Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-create-a-page-template
+slugEN: how-to-create-a-page-template
 locale: en
 legacySlug: how-to-create-a-page-template
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -49,7 +49,7 @@ Check out the walk-through:
 > *`app`
 > 
 6. Then fill in the __Template XHTML__ box with your template code. 
-![4 1](https://images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
+![4 1](//images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
 7. Click on the __Save Template__ button.
 
 To edit an existing template, the process is almost identical.

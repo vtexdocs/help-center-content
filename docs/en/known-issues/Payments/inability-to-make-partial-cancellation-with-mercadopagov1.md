@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: inability-to-make-partial-cancellation-with-mercadopagov1
+slugEN: inability-to-make-partial-cancellation-with-mercadopagov1
 locale: en
 kiStatus: No Fix
 internalReference: 286738

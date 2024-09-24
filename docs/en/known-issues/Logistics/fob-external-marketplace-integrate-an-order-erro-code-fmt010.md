@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: fob-external-marketplace-integrate-an-order-erro-code-fmt010
+slugEN: fob-external-marketplace-integrate-an-order-erro-code-fmt010
 locale: en
 kiStatus: No Fix
 internalReference: 532377

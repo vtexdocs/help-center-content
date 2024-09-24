@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_41
 tag: Pricing & Promotions
-slug: postal-code-as-condition-in-a-promotion-doesnt-consider-the-country
+slugEN: postal-code-as-condition-in-a-promotion-doesnt-consider-the-country
 locale: en
 kiStatus: Backlog
 internalReference: 

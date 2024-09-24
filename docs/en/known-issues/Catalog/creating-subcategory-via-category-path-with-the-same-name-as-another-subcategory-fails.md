@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: creating-subcategory-via-category-path-with-the-same-name-as-another-subcategory-fails
+slugEN: creating-subcategory-via-category-path-with-the-same-name-as-another-subcategory-fails
 locale: en
 kiStatus: Backlog
 internalReference: 1087069

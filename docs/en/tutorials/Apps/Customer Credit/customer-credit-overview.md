@@ -9,7 +9,7 @@ firstPublishedAt: 2018-11-08T19:14:39.491Z
 contentType: tutorial
 productTeam: Financial
 author: 6xBnaVsQ7K60kemi2U2Q6w
-slug: customer-credit-overview
+slugEN: customer-credit-overview
 locale: en
 legacySlug: credit-control-overview
 subcategoryId: 7EWKfPIGfmI0G8iMYK8Aiy
@@ -38,7 +38,7 @@ Using the VTEX Admin or [Customer Credit API](https://developers.vtex.com/docs/a
 
 See below the basic flow of how Customer Credit works in VTEX stores:
 
-![GIF_CC_EN](https://images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/28fd6b4db8e48a99115fd02e00273b54/GIF_CC_EN.gif)
+![GIF_CC_EN](//images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/28fd6b4db8e48a99115fd02e00273b54/GIF_CC_EN.gif)
 
 ## Customer Credit definitions
 

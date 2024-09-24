@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: some-special-characters-are-not-stripped-from-product-searches-or-indexing
+slugEN: some-special-characters-are-not-stripped-from-product-searches-or-indexing
 locale: en
 kiStatus: Backlog
 internalReference: 382382

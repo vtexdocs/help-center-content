@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-27T16:07:30.586Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-getnet-acquirer-with-egetnet-connector
+slugEN: setting-up-getnet-acquirer-with-egetnet-connector
 locale: en
 legacySlug: setting-up-getnet-acquirer-with-egetnet-connector
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

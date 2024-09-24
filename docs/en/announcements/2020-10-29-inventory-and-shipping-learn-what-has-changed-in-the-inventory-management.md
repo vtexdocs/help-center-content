@@ -8,7 +8,7 @@ publishedAt: 2020-11-01T22:07:15.296Z
 contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: inventory-and-shipping-learn-what-has-changed-in-the-inventory-management
+slugEN: inventory-and-shipping-learn-what-has-changed-in-the-inventory-management
 locale: en
 legacySlug: inventory-and-shipping-learn-what-has-changed-in-the-inventory-management
 announcementImageID: ''

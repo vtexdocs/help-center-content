@@ -9,7 +9,7 @@ firstPublishedAt: 2021-10-25T17:34:52.274Z
 contentType: tutorial
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
-slug: configuring-stripe-gateway-affiliation
+slugEN: configuring-stripe-gateway-affiliation
 locale: en
 legacySlug: configuring-stripe-gateway-affiliation
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

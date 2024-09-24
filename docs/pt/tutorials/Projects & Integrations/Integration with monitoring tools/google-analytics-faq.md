@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-17T18:53:43.536Z
 contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: google-analytics-faq
+slugEN: google-analytics-faq
 locale: pt
 legacySlug: google-analytics-faq
 subcategoryId: 1luKrYptdi8WoMYckakUaM

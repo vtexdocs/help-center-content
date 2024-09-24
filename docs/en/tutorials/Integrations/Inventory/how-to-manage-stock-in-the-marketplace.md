@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-28T20:19:33.384Z
 contentType: tutorial
 productTeam: Channels
 author: authors_84
-slug: how-to-manage-stock-in-the-marketplace
+slugEN: how-to-manage-stock-in-the-marketplace
 locale: en
 legacySlug: how-to-manage-stock-in-the-marketplace
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP

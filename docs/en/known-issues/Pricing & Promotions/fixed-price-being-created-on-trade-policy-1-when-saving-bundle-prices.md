@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: fixed-price-being-created-on-trade-policy-1-when-saving-bundle-prices
+slugEN: fixed-price-being-created-on-trade-policy-1-when-saving-bundle-prices
 locale: en
 kiStatus: No Fix
 internalReference: 705869

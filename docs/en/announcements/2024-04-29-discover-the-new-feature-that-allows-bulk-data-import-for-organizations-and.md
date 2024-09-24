@@ -8,7 +8,7 @@ publishedAt: 2024-05-21T14:07:17.423Z
 contentType: updates
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: discover-the-new-feature-that-allows-bulk-data-import-for-organizations-and
+slugEN: discover-the-new-feature-that-allows-bulk-data-import-for-organizations-and
 locale: en
 legacySlug: discover-the-new-feature-that-allows-bulk-data-import-for-organizations-and
 announcementImageID: ''

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:08:49.142Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-identify-promotions-applied-to-the-cart
+slugEN: how-to-identify-promotions-applied-to-the-cart
 locale: en
 legacySlug: how-to-identify-promotions-applied-to-the-cart
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
@@ -42,7 +42,7 @@ In the cart, you can move your mouse over the question mark icon below the price
 
 However, if more than one promotion is applied, what appears will be the sum of the discounts, making it difficult to analyze the scenario.
 
-![example-cart](https://images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/324846b73794d9a19305cfb4d9486ab1/image6.png)
+![example-cart](//images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/324846b73794d9a19305cfb4d9486ab1/image6.png)
 
 ## orderForm
 
@@ -56,7 +56,7 @@ Follow the step-by-step instructions to find the `orderForm` and identify the pr
 2. Click on `Network`.
 3. Check the **Preserve log** option.
 4. Reload the page.
-5. After loading, press `Ctrl+F` to perform the search in the **Developer Tools**. Type `orderForm` in the search bar. ![order-form](https://images.contentful.com/alneenqid6w5/jtqrcUjDAAqoMUGiYM4qE/94803953c1577a7954ba09f163738e0e/order-form.png)
+5. After loading, press `Ctrl+F` to perform the search in the **Developer Tools**. Type `orderForm` in the search bar. ![order-form](//images.contentful.com/alneenqid6w5/jtqrcUjDAAqoMUGiYM4qE/94803953c1577a7954ba09f163738e0e/order-form.png)
 6. Click on the `orderForm` line. A new window will open next to it.
 7. Click on `Preview`.
 8. Search for `ratesAndBenefitsData` and click on the item.

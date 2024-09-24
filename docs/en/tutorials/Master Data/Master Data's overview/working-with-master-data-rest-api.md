@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:25:21.651Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_64
-slug: working-with-master-data-rest-api
+slugEN: working-with-master-data-rest-api
 locale: en
 legacySlug: master-data-schemas
 subcategoryId: 5gtjaqCG7eIseyCI0aSqc2

@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-03T14:03:12.910Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-dlocal-payments
+slugEN: setting-up-payments-with-dlocal-payments
 locale: en
 legacySlug: setting-up-payments-with-dlocal-payments
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: alt-attribute-not-showing-in-vtexcmcproductimage-zoomon-
+slugEN: alt-attribute-not-showing-in-vtexcmcproductimage-zoomon-
 locale: pt
 kiStatus: No Fix
 internalReference: 526563

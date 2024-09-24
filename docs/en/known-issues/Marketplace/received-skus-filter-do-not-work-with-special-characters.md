@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: received-skus-filter-do-not-work-with-special-characters
+slugEN: received-skus-filter-do-not-work-with-special-characters
 locale: en
 kiStatus: Backlog
 internalReference: 944533

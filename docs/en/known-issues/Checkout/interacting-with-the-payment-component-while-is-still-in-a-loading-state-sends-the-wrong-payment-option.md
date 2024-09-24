@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: interacting-with-the-payment-component-while-is-still-in-a-loading-state-sends-the-wrong-payment-option
+slugEN: interacting-with-the-payment-component-while-is-still-in-a-loading-state-sends-the-wrong-payment-option
 locale: en
 kiStatus: Backlog
 internalReference: 952086

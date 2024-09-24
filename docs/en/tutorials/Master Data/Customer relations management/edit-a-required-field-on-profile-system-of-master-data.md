@@ -9,7 +9,7 @@ firstPublishedAt: 2019-03-29T15:48:22.604Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_31
-slug: edit-a-required-field-on-profile-system-of-master-data
+slugEN: edit-a-required-field-on-profile-system-of-master-data
 locale: en
 legacySlug: edit-a-required-field-on-profile-system-of-master-data
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l

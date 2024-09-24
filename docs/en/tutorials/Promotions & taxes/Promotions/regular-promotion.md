@@ -3,13 +3,13 @@ title: 'Regular Promotion'
 id: tutorials_327
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:59.690Z
-updatedAt: 2024-05-15T16:38:18.730Z
-publishedAt: 2024-05-15T16:38:18.730Z
+updatedAt: 2024-09-24T15:36:21.958Z
+publishedAt: 2024-09-24T15:36:21.958Z
 firstPublishedAt: 2017-04-27T23:03:15.647Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: regular-promotion
+slugEN: regular-promotion
 locale: en
 legacySlug: regular-promotion
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
@@ -83,7 +83,7 @@ For the promotion to be valid for all sales policies, leave the checkboxes empty
 
 In this section, you need to choose whether this promotion will apply to all products in your store or only to specific products, as illustrated below.
 
-![promocoes-restricao-en](https://images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/adc5cdd25eb79636530e31e668b765e3/image.png)
+![promocoes-restricao-en](//images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/adc5cdd25eb79636530e31e668b765e3/image.png)
 
 If you want the promotion to apply to your entire catalog, select the **Apply to all products** option.
 
@@ -93,7 +93,7 @@ You can add or remove **Categories**, **Brands**, **Collections**, **Products** 
 
 See an example below. In this case, the promotion includes all products from the category **Home Appliances** whose brand is **Brastemp**, except the product **Refrigerator 100**.
 
-![exemplo-en](https://images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
+![exemplo-en](//images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
 
 In the **Products** and **SKUs** fields, you can opt to upload a **.txt** file with one product or SKU ID per row instead of selecting one product or one SKU at a time. To do this, click on **Choose file** and select your **.txt** file.
 
@@ -141,7 +141,7 @@ The customer's request must meet the conditions added in this section to be vali
       - **Frequency**: A selection of the frequency of subscription orders - weekly, monthly and yearly.
       - **Cycle number**: A selection of the subscription cycles that will be included in the promotion. This option is unlocked only if **Recurring orders** is selected.
 
-- **Apply the discount even if the user is not logged in?:** This field is available when the field **Only on the first buy**; is selected. If this field is selected, the promotion will apply even if the consumer has not entered their email and password. If it is not selected, the promotion will only apply if the customer is browsing while logged in with the previously added email and password.
+- **Apply the discount even if the user is not logged in?:** this field becomes available when the **First purchase only** option is selected. When this option is enabled, the promotion will be applied to the customer even if they haven't entered their email and password. However, the discount will be applied as soon as the shopper is identified, without the need for them to be logged in. If the option is unchecked, the promotion will only be applied if the customer logs in with a previously registered email and password.
 
 ## 4. Restrictions and limitations of use
 

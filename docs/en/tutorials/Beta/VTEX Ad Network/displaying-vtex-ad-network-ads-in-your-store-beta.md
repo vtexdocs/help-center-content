@@ -9,7 +9,7 @@ firstPublishedAt: 2024-04-23T19:13:52.053Z
 contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: displaying-vtex-ad-network-ads-in-your-store-beta
+slugEN: displaying-vtex-ad-network-ads-in-your-store-beta
 locale: en
 legacySlug: displaying-vtex-ad-network-ads-in-your-store-beta
 subcategoryId: 2AksvvAtAsbAfE7HsBIVDU
@@ -27,7 +27,7 @@ To become a part of the VTEX Ad Network and start displaying ads in your store, 
 
 On the initial screen of the [VTEX Ad Network for stores app](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#merchants), you can monitor the results of ads in your store.
 
-![vtex_ad_network_admin_EN](https://images.ctfassets.net/alneenqid6w5/7nvJI9GTv53buxMMyvarRa/434685bba26278166e6b5192a7b198d1/vtex_ad_network_admin.png)
+![vtex_ad_network_admin_EN](//images.ctfassets.net/alneenqid6w5/7nvJI9GTv53buxMMyvarRa/434685bba26278166e6b5192a7b198d1/vtex_ad_network_admin.png)
 
 At the top of the page, you'll find aggregated data:
 
@@ -58,7 +58,7 @@ You can also use the filters available at the top of the table:
 
 In the table on the initial screen of the [VTEX Ad Network for stores app](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#merchants), you can click the campaign row to see more details:
 
-![vtex_ad_network_details_EN](https://images.ctfassets.net/alneenqid6w5/11oqzf225OjAxaN4gcGCme/b81424e85fc704593e7f5bb86bf55409/vtex_ad_network_details.png)
+![vtex_ad_network_details_EN](//images.ctfassets.net/alneenqid6w5/11oqzf225OjAxaN4gcGCme/b81424e85fc704593e7f5bb86bf55409/vtex_ad_network_details.png)
 
 - **Views/Clicks:** Ad views and clicks.
 - **CTR:** Click-through rate, calculated by dividing the number of clicks by the number of views.

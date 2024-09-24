@@ -8,7 +8,7 @@ publishedAt: 2021-01-29T17:18:43.937Z
 contentType: updates
 productTeam: Identity
 author: authors_24
-slug: vtex-login-now-features-recaptcha
+slugEN: vtex-login-now-features-recaptcha
 locale: en
 legacySlug: vtex-login-now-features-recaptcha
 announcementImageID: ''
@@ -19,7 +19,7 @@ VTEX login via e-mail and password now features reCAPTCHA, which makes store acc
 
 We use Invisible reCAPTCHA, a Google technology that determines when it's necessary to confirm whether the access attempt is being made by a robot or a human.
 
-![reCAPTCHA](https://images.contentful.com/alneenqid6w5/2obeayJZP6k8q8a6W68sQI/08bbf823714965fd207961a792a94f9f/reCAPTCHA.png)
+![reCAPTCHA](//images.contentful.com/alneenqid6w5/2obeayJZP6k8q8a6W68sQI/08bbf823714965fd207961a792a94f9f/reCAPTCHA.png)
 
 This means that the confirmation request may or may not appear, depending on several variables.
 

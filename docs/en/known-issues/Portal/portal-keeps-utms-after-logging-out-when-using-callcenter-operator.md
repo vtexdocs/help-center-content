@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: portal-keeps-utms-after-logging-out-when-using-callcenter-operator
+slugEN: portal-keeps-utms-after-logging-out-when-using-callcenter-operator
 locale: en
 kiStatus: No Fix
 internalReference: 534838

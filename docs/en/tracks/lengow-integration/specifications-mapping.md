@@ -8,7 +8,7 @@ publishedAt: 2020-07-02T03:46:25.783Z
 firstPublishedAt: 2020-06-30T01:10:16.779Z
 contentType: trackArticle
 productTeam: Apps
-slug: specifications-mapping
+slugEN: specifications-mapping
 locale: en
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugEN: lengow-integration
@@ -20,6 +20,6 @@ In the **Specifications mapping** section seen in *Marketplace > Lengow Integrat
 
 For each specification, fill in the left column with its name in VTEX and the right column with the name that should be used in Lengow. Both columns may have the same values. If needed, you may repeat a VTEX specification to map it out to multiple Lengow specifications.
 
-![Lengow - Specifications mapping](https://images.ctfassets.net/alneenqid6w5/4mcy8worOtuTEiPzSBHthD/8c7304156d13269af3eca4c1efa12eec/Screen_Shot_2020-07-01_at_23.00.21.png)
+![Lengow - Specifications mapping](//images.ctfassets.net/alneenqid6w5/4mcy8worOtuTEiPzSBHthD/8c7304156d13269af3eca4c1efa12eec/Screen_Shot_2020-07-01_at_23.00.21.png)
 
 >⚠️ All [specification fields](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP" target="_blank) must be created and set up prior to this step. Make sure the name used in the mapping tables is exactly as seen in the Catalog, otherwise the connector will not be able to find the proper values to send to Lengow.

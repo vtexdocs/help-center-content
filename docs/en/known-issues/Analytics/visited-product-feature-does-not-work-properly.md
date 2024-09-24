@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
-slug: visited-product-feature-does-not-work-properly
+slugEN: visited-product-feature-does-not-work-properly
 locale: en
 kiStatus: No Fix
 internalReference: 701169

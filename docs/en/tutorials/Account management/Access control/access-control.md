@@ -9,7 +9,7 @@ firstPublishedAt: 2023-11-30T21:40:59.550Z
 contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
-slug: access-control
+slugEN: access-control
 locale: en
 legacySlug: access-control
 subcategoryId: 1HSqkejwuYcQSMC400uY84

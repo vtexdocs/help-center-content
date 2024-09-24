@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: unable-to-delete-template-on-legacy-cms
+slugEN: unable-to-delete-template-on-legacy-cms
 locale: en
 kiStatus: Backlog
 internalReference: 332033

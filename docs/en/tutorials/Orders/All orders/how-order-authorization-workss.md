@@ -9,7 +9,7 @@ firstPublishedAt: 2019-03-12T16:38:58.550Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 523NSmHfn2IKEoiy2Q44YS
-slug: how-order-authorization-workss
+slugEN: how-order-authorization-workss
 locale: en
 legacySlug: untitled-entry-2019-03-12-at-04-37-03
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
@@ -17,7 +17,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 In the Order Management module, __Order Authorization__ allows you to control approvals for orders in your store that have a price divergence.
 
-![autorização-de-pedidos EN](https://images.ctfassets.net/alneenqid6w5/2lbMgKkD1d4Bm7jJwPECqg/a8959ca6d3690c3a53d2e6a34fbc4fa6/autoriza____o-de-pedidos__EN.png)
+![autorização-de-pedidos EN](//images.ctfassets.net/alneenqid6w5/2lbMgKkD1d4Bm7jJwPECqg/a8959ca6d3690c3a53d2e6a34fbc4fa6/autoriza____o-de-pedidos__EN.png)
 
 This divergence in price between orders may occur in two main scenarios:
 

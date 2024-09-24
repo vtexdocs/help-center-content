@@ -9,7 +9,7 @@ firstPublishedAt: 2021-11-05T20:49:41.372Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: integrating-with-enjoei
+slugEN: integrating-with-enjoei
 locale: en
 legacySlug: integrating-with-enjoei
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-integration-is-receiving-errors-from-meli-429-too-many-requests
+slugEN: meli-integration-is-receiving-errors-from-meli-429-too-many-requests
 locale: en
 kiStatus: Fixed
 internalReference: 873998

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-02T13:17:42.392Z
 contentType: tutorial
 productTeam: Others
 author: 2Y2pnNkWfSoUMMYcwemq4A
-slug: how-to-configure-taxhub
+slugEN: how-to-configure-taxhub
 locale: en
 legacySlug: how-to-configure-taxhub
 subcategoryId: unknown-subcategory
@@ -25,5 +25,5 @@ To set up the tax systems, TaxHub, follow these steps:
 6.	In “Authorization Token” fill in with the service token of the previous step. Note: In certain cases, it may be unnecessary;
 7.	Click on __Save__.
 
-![TaxHub Configuration](https://images.contentful.com/alneenqid6w5/RG3lWrwAOAyQYwk6gwGgq/7f291339357dac4cf07fbee9f5e0a649/TaxHubConfiguration.gif)
+![TaxHub Configuration](//images.contentful.com/alneenqid6w5/RG3lWrwAOAyQYwk6gwGgq/7f291339357dac4cf07fbee9f5e0a649/TaxHubConfiguration.gif)
 

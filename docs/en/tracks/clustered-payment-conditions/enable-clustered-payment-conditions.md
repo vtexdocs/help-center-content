@@ -8,7 +8,7 @@ publishedAt: 2022-02-07T13:10:05.914Z
 firstPublishedAt: 2020-11-18T17:37:39.069Z
 contentType: trackArticle
 productTeam: Financial
-slug: enable-clustered-payment-conditions
+slugEN: enable-clustered-payment-conditions
 locale: en
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugEN: clustered-payment-conditions

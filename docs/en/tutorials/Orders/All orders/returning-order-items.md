@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:47.176Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: returning-order-items
+slugEN: returning-order-items
 locale: en
 legacySlug: returning-order-items
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

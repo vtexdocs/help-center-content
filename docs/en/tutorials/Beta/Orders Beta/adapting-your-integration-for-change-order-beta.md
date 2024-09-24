@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-03T20:02:10.248Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: adapting-your-integration-for-change-order-beta
+slugEN: adapting-your-integration-for-change-order-beta
 locale: en
 legacySlug: adapting-your-integration-for-change-order-beta
 subcategoryId: 3LQ1Tl0u4frEOd45BkjFAm

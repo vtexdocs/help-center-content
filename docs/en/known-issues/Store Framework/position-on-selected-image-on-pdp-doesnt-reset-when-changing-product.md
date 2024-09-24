@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: position-on-selected-image-on-pdp-doesnt-reset-when-changing-product
+slugEN: position-on-selected-image-on-pdp-doesnt-reset-when-changing-product
 locale: en
 kiStatus: Backlog
 internalReference: 595434

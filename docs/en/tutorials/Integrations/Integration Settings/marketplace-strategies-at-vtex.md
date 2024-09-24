@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:23.819Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: marketplace-strategies-at-vtex
+slugEN: marketplace-strategies-at-vtex
 locale: en
 legacySlug: integrating-with-marketplace
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 A marketplace is a virtual platform through which different sellers offer their products. In addition to owning products, sellers are often responsible for the [fulfillment process](https://help.vtex.com/en/tutorial/fulfillment-logistics-vtex--53udnvI5eBy8DKo8FOjMoP).  
 
-![Marketplace strategies](https://images.ctfassets.net/alneenqid6w5/1XaGifpW4ztfRM3XIkiACS/8f611e6a89c168b7322aa14e1f6b7024/Ecommerce_web_page-pana.png)  
+![Marketplace strategies](//images.ctfassets.net/alneenqid6w5/1XaGifpW4ztfRM3XIkiACS/8f611e6a89c168b7322aa14e1f6b7024/Ecommerce_web_page-pana.png)  
 
 [VTEX promotes digital collaboration](https://vtex.com/en-us/marketplace/) in different scenarios. For example, besides selling your products on other marketplaces, you can also act as a marketplace and sell products from other sellers on your website.  
 
@@ -70,7 +70,7 @@ The process to configure your store as [a VTEX marketplace](https://help.vtex.co
 
 See below for the main VTEX marketplaces:  
 
-![mkt br](https://images.ctfassets.net/alneenqid6w5/6DB08TtDzQ0tuesrK1I1XU/d42c1c45fff7301eea1e2fe7160274b5/mkt_br.png)
+![mkt br](//images.ctfassets.net/alneenqid6w5/6DB08TtDzQ0tuesrK1I1XU/d42c1c45fff7301eea1e2fe7160274b5/mkt_br.png)
 
 The __Marketplaces and Integrations__ module also promotes and enables contact between VTEX marketplaces and certified VTEX sellers interested in collaborations.  
 

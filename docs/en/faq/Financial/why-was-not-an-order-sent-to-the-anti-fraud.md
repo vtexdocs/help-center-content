@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-16T16:16:00.358Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
-slug: why-was-not-an-order-sent-to-the-anti-fraud
+slugEN: why-was-not-an-order-sent-to-the-anti-fraud
 locale: en
 legacySlug: why-was-not-an-order-sent-to-the-anti-fraud
 ---

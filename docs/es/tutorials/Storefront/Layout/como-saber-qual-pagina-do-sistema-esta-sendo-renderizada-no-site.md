@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:10:37.513Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site
+slugEN: como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site
 locale: es
 legacySlug: como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -29,7 +29,7 @@ Para encontrar esta línea de código, acceda al front-end de su tienda, entre e
 
 A continuación se muestra la relación entre la carpeta en el CMS y el código fuente de la tienda.
 
-![CommerceContext](https://images.contentful.com/alneenqid6w5/6diTrNVvl6OuwGKmoICSA0/4e958baa7ab163bcf06ac5963795feff/CommerceContext.png)
+![CommerceContext](//images.contentful.com/alneenqid6w5/6diTrNVvl6OuwGKmoICSA0/4e958baa7ab163bcf06ac5963795feff/CommerceContext.png)
 
 >ℹ️ Esta línea de código está siempre comentada. Por lo tanto, tiene función sólo informativa. Es decir, no realiza ninguna acción.
 

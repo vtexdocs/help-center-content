@@ -9,7 +9,7 @@ firstPublishedAt: 2017-06-22T20:09:23.005Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: using-the-homepage-of-the-admin-panel
+slugEN: using-the-homepage-of-the-admin-panel
 locale: en
 legacySlug: using-the-homepage-of-the-admin-panel
 subcategoryId: Se4oi5LroIII2Ei0uGAoE
@@ -28,7 +28,7 @@ The metrics section is divided into three large groups:
 - Payment data;
 - Catalog Data.
 
-![Action Dashboard](https://images.contentful.com/alneenqid6w5/5ir6pwnlyMeQEeSOmOyisw/dcad530fb9c0004d32a89a3a6d5492ef/Action_Dashboard.png)
+![Action Dashboard](//images.contentful.com/alneenqid6w5/5ir6pwnlyMeQEeSOmOyisw/dcad530fb9c0004d32a89a3a6d5492ef/Action_Dashboard.png)
 
 ### Bridge
 
@@ -64,4 +64,4 @@ It shows new VTEX Help articles, or those that have been updated recently.  We c
 
 Right below the articles, the **Info e Eventos** section shows the novelties about the platform, e-commerce hints, information on electronic commerce events and other disclosures made by VTEX. 
 
-![APIDocs](https://images.contentful.com/alneenqid6w5/1GzmJz7qIwgm0kMq4smSk4/fb98a1d430346f559ada7800ad6cc321/APIDocs.png)
+![APIDocs](//images.contentful.com/alneenqid6w5/1GzmJz7qIwgm0kMq4smSk4/fb98a1d430346f559ada7800ad6cc321/APIDocs.png)

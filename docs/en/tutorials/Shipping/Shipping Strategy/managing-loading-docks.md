@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-03T14:25:42.704Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: managing-loading-docks
+slugEN: managing-loading-docks
 locale: en
 legacySlug: how-to-register-a-dock
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

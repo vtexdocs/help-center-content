@@ -9,7 +9,7 @@ firstPublishedAt: 2024-05-31T20:07:32.221Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: direct-migration-magazine-luiza
+slugEN: direct-migration-magazine-luiza
 locale: en
 legacySlug: direct-migration-magazine-luiza
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

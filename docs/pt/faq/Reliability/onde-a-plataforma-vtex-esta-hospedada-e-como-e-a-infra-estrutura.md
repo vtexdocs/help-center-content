@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: frequentlyAskedQuestion
 productTeam: Reliability
 author: 2LFh4Ox3XiWIqUMWw4MOGw
-slug: onde-a-plataforma-vtex-esta-hospedada-e-como-e-a-infra-estrutura
+slugEN: onde-a-plataforma-vtex-esta-hospedada-e-como-e-a-infra-estrutura
 locale: pt
 legacySlug: onde-a-plataforma-vtex-esta-hospedada-e-como-e-a-infra-estrutura
 ---
@@ -19,7 +19,7 @@ A arquitetura da plataforma VTEX foi desenvolvida com objetivo de gerar alta esc
 
 Hospedada na Amazon utilizando os serviços AWS (Amazon Web Services), abaixo uma representação da nossa arquitetura e infra-estrutura.
 
-![arquitetura vtex](https://images.contentful.com/alneenqid6w5/3QJpGctI7YGEkuoy2cwwoW/a25ee9e8c71cc0d66b198e4da2869510/arquitetura_VTEX.JPG)
+![arquitetura vtex](//images.contentful.com/alneenqid6w5/3QJpGctI7YGEkuoy2cwwoW/a25ee9e8c71cc0d66b198e4da2869510/arquitetura_VTEX.JPG)
 
 ## Serviços AWS:
 Amazon EC2 (servidor de aplicativo)

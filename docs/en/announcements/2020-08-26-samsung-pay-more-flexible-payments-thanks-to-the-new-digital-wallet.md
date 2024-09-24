@@ -8,7 +8,7 @@ publishedAt: 2023-09-26T15:25:06.834Z
 contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: samsung-pay-more-flexible-payments-thanks-to-the-new-digital-wallet
+slugEN: samsung-pay-more-flexible-payments-thanks-to-the-new-digital-wallet
 locale: en
 legacySlug: samsung-pay-more-flexible-payments-thanks-to-the-new-digital-wallet
 announcementImageID: ''

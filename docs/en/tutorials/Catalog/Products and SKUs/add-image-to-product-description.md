@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-24T22:47:02.481Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: add-image-to-product-description
+slugEN: add-image-to-product-description
 locale: en
 legacySlug: add-image-to-product-description
 subcategoryId: pwxWmUu7T222QyuGogs68

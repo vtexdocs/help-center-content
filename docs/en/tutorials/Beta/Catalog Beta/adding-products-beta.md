@@ -9,7 +9,7 @@ firstPublishedAt: 2024-08-29T19:14:22.359Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: adding-products-beta
+slugEN: adding-products-beta
 locale: en
 legacySlug: adding-products-beta
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c

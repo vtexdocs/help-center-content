@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: scheduled-banners-doesnt-work-properly
+slugEN: scheduled-banners-doesnt-work-properly
 locale: en
 kiStatus: Backlog
 internalReference: 400194

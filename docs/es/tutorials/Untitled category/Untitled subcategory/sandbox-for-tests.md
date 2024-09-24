@@ -9,7 +9,7 @@ firstPublishedAt: 2020-02-13T16:25:50.299Z
 contentType: tutorial
 productTeam: Channels
 author: authors_84
-slug: sandbox-for-tests
+slugEN: sandbox-for-tests
 locale: es
 legacySlug: sandbox-for-tests
 subcategoryId: unknown-subcategory

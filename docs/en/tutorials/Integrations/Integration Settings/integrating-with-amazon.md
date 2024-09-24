@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-24T20:45:46.537Z
 contentType: tutorial
 productTeam: Channels
 author: authors_59
-slug: integrating-with-amazon
+slugEN: integrating-with-amazon
 locale: en
 legacySlug: integrating-with-amazon
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

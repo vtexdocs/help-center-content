@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:18.934Z
 contentType: tutorial
 productTeam: Channels
 author: authors_3
-slug: configuring-the-marketplace-between-vtex-stores
+slugEN: configuring-the-marketplace-between-vtex-stores
 locale: en
 legacySlug: configuring-the-marketplace-between-vtex-stores
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu

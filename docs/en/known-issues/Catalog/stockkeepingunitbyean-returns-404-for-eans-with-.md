@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: stockkeepingunitbyean-returns-404-for-eans-with-
+slugEN: stockkeepingunitbyean-returns-404-for-eans-with-
 locale: en
 kiStatus: No Fix
 internalReference: 479244

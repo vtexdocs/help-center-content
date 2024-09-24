@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: skus-from-the-same-product-being-created-separately-on-accounts-with-autoapprove-flag-enabled
+slugEN: skus-from-the-same-product-being-created-separately-on-accounts-with-autoapprove-flag-enabled
 locale: en
 kiStatus: Fixed
 internalReference: 962986

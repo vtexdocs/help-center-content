@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: portal-doesnt-delete-cookies-when-client-logout-at-checkout
+slugEN: portal-doesnt-delete-cookies-when-client-logout-at-checkout
 locale: en
 kiStatus: Backlog
 internalReference: 417322

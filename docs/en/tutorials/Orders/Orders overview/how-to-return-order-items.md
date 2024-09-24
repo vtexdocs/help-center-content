@@ -9,7 +9,7 @@ firstPublishedAt: 2020-12-28T21:27:16.332Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: how-to-return-order-items
+slugEN: how-to-return-order-items
 locale: en
 legacySlug: how-to-return-order-items-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-29T19:54:21.386Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: utms
+slugEN: utms
 locale: en
 legacySlug: utms
 ---

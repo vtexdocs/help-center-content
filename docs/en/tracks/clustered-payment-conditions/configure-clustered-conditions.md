@@ -8,7 +8,7 @@ publishedAt: 2020-11-18T17:38:09.905Z
 firstPublishedAt: 2020-11-18T17:38:09.905Z
 contentType: trackArticle
 productTeam: Financial
-slug: configure-clustered-conditions
+slugEN: configure-clustered-conditions
 locale: en
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugEN: clustered-payment-conditions

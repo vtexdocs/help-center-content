@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: gtm-scripts-are-not-loading-on-the-native-thirdparty-scripts
+slugEN: gtm-scripts-are-not-loading-on-the-native-thirdparty-scripts
 locale: en
 kiStatus: Backlog
 internalReference: 1086165

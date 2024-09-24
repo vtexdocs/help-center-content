@@ -8,7 +8,7 @@ publishedAt: 2020-01-24T20:43:22.069Z
 contentType: updates
 productTeam: Shopping
 author: authors_59
-slug: dazzle-your-customer-with-the-new-smartcheckout-shopping-experience
+slugEN: dazzle-your-customer-with-the-new-smartcheckout-shopping-experience
 locale: en
 legacySlug: dazzle-your-customer-with-the-new-smartcheckout-shopping-experience
 announcementImageID: ''

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: categoriesaspx-specification-timeout
+slugEN: categoriesaspx-specification-timeout
 locale: en
 kiStatus: Backlog
 internalReference: 433664

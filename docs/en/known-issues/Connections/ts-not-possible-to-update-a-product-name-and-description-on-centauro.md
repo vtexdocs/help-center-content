@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: ts-not-possible-to-update-a-product-name-and-description-on-centauro
+slugEN: ts-not-possible-to-update-a-product-name-and-description-on-centauro
 locale: en
 kiStatus: Backlog
 internalReference: 544084

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: cms-allows-the-creation-but-not-the-editing-of-folders-with-the-same-names-as-the-default-ones
+slugEN: cms-allows-the-creation-but-not-the-editing-of-folders-with-the-same-names-as-the-default-ones
 locale: en
 kiStatus: No Fix
 internalReference: 566791

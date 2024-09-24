@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: when-loading-the-catalog-maping-page-on-admin-the-initial-message-is-not-translated
+slugEN: when-loading-the-catalog-maping-page-on-admin-the-initial-message-is-not-translated
 locale: en
 kiStatus: No Fix
 internalReference: 717066

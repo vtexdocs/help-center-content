@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-06T18:25:37.545Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: carrier-working-hours
+slugEN: carrier-working-hours
 locale: en
 legacySlug: setting-up-business-hours-for-carriers, configuring-carriers-cut-off-time
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

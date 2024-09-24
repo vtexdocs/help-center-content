@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: address-field-comes-with-null-vaule-in-payments-api-query
+slugEN: address-field-comes-with-null-vaule-in-payments-api-query
 locale: en
 kiStatus: Backlog
 internalReference: 

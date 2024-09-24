@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: pickup-points-list-cant-be-scrolled-after-searching-addresses-in-map-mode
+slugEN: pickup-points-list-cant-be-scrolled-after-searching-addresses-in-map-mode
 locale: en
 kiStatus: No Fix
 internalReference: 624646

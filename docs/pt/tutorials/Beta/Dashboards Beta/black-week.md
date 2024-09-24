@@ -9,7 +9,7 @@ firstPublishedAt: 2022-11-11T21:43:37.865Z
 contentType: tutorial
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: black-week
+slugEN: black-week
 locale: pt
 legacySlug: black-week
 subcategoryId: QPnz120TdtLcXSh65c4Gs
@@ -27,7 +27,7 @@ Caso você utilize o novo Admin VTEX, para acessá-la, vá para **Dashboards > B
 
 Para ter acesso à pagina, é necessário conter o [recurso](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) *Insights Metrics* com a chave `view_metrics` em seu [perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Sem esse recurso configurado em seu perfil de acesso, você receberá um erro *403 - Não autorizado* ao tentar visualizar a página. 
 
-![Black Week](https://images.ctfassets.net/alneenqid6w5/3IM9M6IwfycwTmUzJDEzem/2ce38a00422d16e12016eb0ba58edd9b/Screen_Shot_2022-11-18_at_16.11.09.png)
+![Black Week](//images.ctfassets.net/alneenqid6w5/3IM9M6IwfycwTmUzJDEzem/2ce38a00422d16e12016eb0ba58edd9b/Screen_Shot_2022-11-18_at_16.11.09.png)
 
 Este artigo inclui as seguintes seções:
 
@@ -47,7 +47,7 @@ A página apoia operação do seu negócio para a black week ao permitir:
 Assista um vídeo para saber mais sobre a página:
 
 <video width="320" height="240" controls>
-  <source src="https://videos.ctfassets.net/alneenqid6w5/1f4Q2e1yN2GCJuTqQlegv8/ecc24665257eaf5c1095bb4cc443a871/Screenshare_-_2022-11-18_4_17_34_PM.mp4" type="video/mp4">
+  <source src="//videos.ctfassets.net/alneenqid6w5/1f4Q2e1yN2GCJuTqQlegv8/ecc24665257eaf5c1095bb4cc443a871/Screenshare_-_2022-11-18_4_17_34_PM.mp4" type="video/mp4">
 </video>
 
 ## Dados
@@ -89,7 +89,7 @@ A Black Week inclui os seguintes gráficos para a análise dos resultados do seu
 
 ### Total de pedidos
 
-![Total de pedidos](https://images.ctfassets.net/alneenqid6w5/7mYLy1HXJVjiBm923PRQmm/d6eaef3b046627bca6fa55147221b1d2/Screen_Shot_2022-11-18_at_16.00.21.png)
+![Total de pedidos](//images.ctfassets.net/alneenqid6w5/7mYLy1HXJVjiBm923PRQmm/d6eaef3b046627bca6fa55147221b1d2/Screen_Shot_2022-11-18_at_16.00.21.png)
 
 O gráfico _Total de Pedidos_ apresenta a quantidade de pedidos captados pela loja, agregado por dia e comparado com os anos anteriores selecionados. Saiba mais em [Dados](#dados).
 
@@ -119,7 +119,7 @@ Para ler os gráficos, note que:
 
 #### Total do dia 
 
-![Total do dia](https://images.ctfassets.net/alneenqid6w5/3PMiZmAt84euZIrmu7gy35/77de595d36fab0672ba75d626acae658/Screen_Shot_2022-11-18_at_16.00.40.png)
+![Total do dia](//images.ctfassets.net/alneenqid6w5/3PMiZmAt84euZIrmu7gy35/77de595d36fab0672ba75d626acae658/Screen_Shot_2022-11-18_at_16.00.40.png)
 
 A visualização _Total do Dia_ indica na tela:
 
@@ -130,7 +130,7 @@ Essa visualização é útil para acompanhar o somatório de vendas no dia, send
 
 #### Últimas 2 horas
 
-![Últimas 2 horas](https://images.ctfassets.net/alneenqid6w5/7tBr0SR2wP9lD9SvJF6jpj/5be2166e0dd369b2a3b980ccfb90cf47/Screen_Shot_2022-11-18_at_16.00.54.png)
+![Últimas 2 horas](//images.ctfassets.net/alneenqid6w5/7tBr0SR2wP9lD9SvJF6jpj/5be2166e0dd369b2a3b980ccfb90cf47/Screen_Shot_2022-11-18_at_16.00.54.png)
 
 A visualização _Últimas 2 horas_ indica na tela:
 

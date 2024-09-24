@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: brands-with-some-special-characters-are-not-searchable-on-the-brand-admin
+slugEN: brands-with-some-special-characters-are-not-searchable-on-the-brand-admin
 locale: en
 kiStatus: No Fix
 internalReference: 503496

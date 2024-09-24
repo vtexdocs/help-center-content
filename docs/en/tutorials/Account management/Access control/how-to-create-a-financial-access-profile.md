@@ -9,7 +9,7 @@ firstPublishedAt: 2020-05-21T20:22:19.449Z
 contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: how-to-create-a-financial-access-profile
+slugEN: how-to-create-a-financial-access-profile
 locale: en
 legacySlug: how-to-create-a-financial-access-profile
 subcategoryId: 1HSqkejwuYcQSMC400uY84
@@ -31,7 +31,7 @@ To create a financial role, follow the walkthrough below:
 6. (Optional) Before saving, you can **add users to this role**.
 7. Click on **Save**.
 
-![gif perfildeacessoEN](https://images.ctfassets.net/alneenqid6w5/6s1lN2aC88o56Ps2OSD9jy/1c0fbd165d803a9a6c0fddac7ce8d477/gif_perfildeacessoEN.gif)
+![gif perfildeacessoEN](//images.ctfassets.net/alneenqid6w5/6s1lN2aC88o56Ps2OSD9jy/1c0fbd165d803a9a6c0fddac7ce8d477/gif_perfildeacessoEN.gif)
 
 After you’ve created the financial role, you can associate it with your existing users.
 
@@ -47,7 +47,7 @@ To associate a user with the Finance role you’ve created, follow the steps bel
 6. Click on the <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2jZogtT8WT3XVmv5U6yXh/2dc70b446b9aad1b27840e64b2cf15ce/bot__o_adicionar.png" /> button, next to the role, to add it.
 7. Click on **Save**.
 
-![gif usuárioEN](https://images.ctfassets.net/alneenqid6w5/4UkPeH2Sfsp2KiSvozclnk/ef5a0fe13d88461cc9057e75cce09151/gif_usu__rioEN.gif)
+![gif usuárioEN](//images.ctfassets.net/alneenqid6w5/4UkPeH2Sfsp2KiSvozclnk/ef5a0fe13d88461cc9057e75cce09151/gif_usu__rioEN.gif)
 
 The selected user is now associated with the Financial role and will be able to access invoices, contract information, charges and other financial information.
 

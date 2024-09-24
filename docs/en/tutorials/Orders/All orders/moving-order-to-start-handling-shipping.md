@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:47.756Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: moving-order-to-start-handling-shipping
+slugEN: moving-order-to-start-handling-shipping
 locale: en
 legacySlug: moving-order-to-start-handling-status
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Suggestions
-slug: images-uploaded-via-api-using-an-http-protocol-do-not-render-on-the-received-skus-page
+slugEN: images-uploaded-via-api-using-an-http-protocol-do-not-render-on-the-received-skus-page
 locale: en
 kiStatus: Backlog
 internalReference: 

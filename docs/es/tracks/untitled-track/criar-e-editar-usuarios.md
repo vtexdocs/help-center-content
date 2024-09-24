@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: Identity
-slug: criar-e-editar-usuarios
+slugEN: criar-e-editar-usuarios
 locale: es
 trackId: 
 trackSlugES: untitled-track

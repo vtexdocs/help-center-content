@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-08T22:43:32.092Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-mercado-pago
+slugEN: setting-up-payments-with-mercado-pago
 locale: en
 legacySlug: setting-up-payments-with-mercado-pago
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

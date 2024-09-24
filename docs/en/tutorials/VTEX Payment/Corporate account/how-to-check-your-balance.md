@@ -9,7 +9,7 @@ firstPublishedAt: 2020-03-24T15:15:38.486Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: how-to-check-your-balance
+slugEN: how-to-check-your-balance
 locale: en
 legacySlug: how-to-check-your-balance-on-vtex-payment
 subcategoryId: 29ZPBdZOTSg6NdzprcqBfb
@@ -28,7 +28,7 @@ To check your account balance, follow the step by step:
 - Click on __Account Overview__;
 - On the left side of the screen, find the __Balance__ box.
 
-![saldodisponivelEN](https://images.ctfassets.net/alneenqid6w5/1nnABtiycAQhExwdQcbbHD/fe145d3e68fcab0ab97b53713244df1c/image.png_h_250)
+![saldodisponivelEN](//images.ctfassets.net/alneenqid6w5/1nnABtiycAQhExwdQcbbHD/fe145d3e68fcab0ab97b53713244df1c/image.png_h_250)
 
 Two different values are shown in the box. The first, __Available__, shows the account balance that is available for transactions. The second, __Balance due__, refers to future payments that will be deposited into your corporate digital account.
 

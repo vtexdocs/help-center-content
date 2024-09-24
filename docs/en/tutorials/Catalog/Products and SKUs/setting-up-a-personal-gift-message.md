@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:13.676Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: setting-up-a-personal-gift-message
+slugEN: setting-up-a-personal-gift-message
 locale: en
 legacySlug: setting-up-a-gift-card-with-a-personal-message
 subcategoryId: pwxWmUu7T222QyuGogs68
@@ -44,10 +44,10 @@ On the website, it is possible to confirm whether the settings are correct. To d
 3. Here, the type of service must be make available for selection. The text must have a maximum of 150 characters.
 4. Select the service in the cart and click on the link to add a message.
 
-![](https://images.contentful.com/alneenqid6w5/3txxLHOWtqguWu4qmAqumA/e68ef2cf4881d3b9a01199244567c790/mensagem-carrinho.png)
+![](//images.contentful.com/alneenqid6w5/3txxLHOWtqguWu4qmAqumA/e68ef2cf4881d3b9a01199244567c790/mensagem-carrinho.png)
 
 You can view the written message on __My Account > My Orders__:
 
-![](https://images.contentful.com/alneenqid6w5/6h7iGpA880OgaemumSsEiG/10764ef2d3113be498fb24802e5d35c5/mensagem-meus-pedidos.png)
+![](//images.contentful.com/alneenqid6w5/6h7iGpA880OgaemumSsEiG/10764ef2d3113be498fb24802e5d35c5/mensagem-meus-pedidos.png)
 
 >ℹ️ After setting up the SKU service, wait for the indexing process for the registration to be effective on the website. Once the service is active, you will be able to test the purchase.

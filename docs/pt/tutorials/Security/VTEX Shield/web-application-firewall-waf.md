@@ -9,7 +9,7 @@ firstPublishedAt: 2024-04-25T01:16:27.468Z
 contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slug: web-application-firewall-waf
+slugEN: web-application-firewall-waf
 locale: pt
 legacySlug: web-application-firewall-waf
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
@@ -21,7 +21,7 @@ O Web Application Firewall (WAF) é uma camada de segurança projetada para prot
 
 O WAF é direcionado especificamente para comunicações que ocorrem pelos protocolos HTTP (Hypertext Transfer Protocol) e HTTPS (HTTP Secure), examinando os dados de entrada e saída para detectar e bloquear possíveis ameaças.
 
-![waf-pt](https://images.ctfassets.net/alneenqid6w5/6yRQRFGEYBnfbynGxcNJrU/9eb9944bfed9b23421e053f2c6102825/waf-pt.png)
+![waf-pt](//images.ctfassets.net/alneenqid6w5/6yRQRFGEYBnfbynGxcNJrU/9eb9944bfed9b23421e053f2c6102825/waf-pt.png)
 
 A operação do WAF começa com a definição de [regras de segurança](#regras-de-seguranca), que são definidas pelo time de Segurança da VTEX a partir da análise de padrões de circulação de informações. A partir dessas regras, o WAF monitora continuamente o tráfego da web. Quando detecta uma atividade potencialmente prejudicial, ele pode bloquear o tráfego, evitando assim a exploração de vulnerabilidades no aplicativo web.
 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: amazon-order-integration-error
+slugEN: amazon-order-integration-error
 locale: en
 kiStatus: Backlog
 internalReference: 557223

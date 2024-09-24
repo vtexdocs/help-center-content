@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: incorrect-data-in-pickupstoreinfo-after-order-creation
+slugEN: incorrect-data-in-pickupstoreinfo-after-order-creation
 locale: en
 kiStatus: Fixed
 internalReference: 347155

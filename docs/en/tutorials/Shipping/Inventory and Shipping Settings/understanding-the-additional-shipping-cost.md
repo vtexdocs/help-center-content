@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:43.430Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: understanding-the-additional-shipping-cost
+slugEN: understanding-the-additional-shipping-cost
 locale: en
 legacySlug: understanding-the-additional-freight
 subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi
@@ -29,7 +29,7 @@ There are three possible ways to add a value to the shipping rate: additional c
 
 In this field, a percentage of the product's price must be set, which will then be added to the shipping value.
 
-![adicionalfrete1 EN](https://images.ctfassets.net/alneenqid6w5/OqyvMFeOU6OmsMGAMQ2km/ba3c318b0b158ccbccb511863dc7fc57/adicionalfrete1_EN.png)
+![adicionalfrete1 EN](//images.ctfassets.net/alneenqid6w5/OqyvMFeOU6OmsMGAMQ2km/ba3c318b0b158ccbccb511863dc7fc57/adicionalfrete1_EN.png)
 
 In the example above, the product's price $ 80.00, and the percentage set in the __Additional value__ field is 10%. Therefore, $ 8.00 will be added to the shipping rate. The shipping rate plus this first additional fee results in a $ 18.00 total fee.
 
@@ -43,7 +43,7 @@ The calculation of this field considers the product's weight and its difference 
 
 __It looks as follows:__
 
-![adicionalfrete2 EN](https://images.ctfassets.net/alneenqid6w5/1FbPWgvxpuOQeImAS0S6uS/2a9740e4bff83d1a1e3c51d77729bede/adicionalfrete2_EN.png)
+![adicionalfrete2 EN](//images.ctfassets.net/alneenqid6w5/1FbPWgvxpuOQeImAS0S6uS/2a9740e4bff83d1a1e3c51d77729bede/adicionalfrete2_EN.png)
 
 In the example above, the product's lower weight limit range is 100g. The value set in the **Additional value per weight** field is 0.1. Therefore, the amount to be added to the shipping rate total is $ 10.00. As the shipping calculation previously totaled $ 14.00, the final value is now $ 24.00.
 
@@ -58,7 +58,7 @@ This additional fee is calculated on top of the final shipping rate, as opposed 
 
 The additional percentage fee is the last shipping calculation made, which means that it's added to the shipping price table value + the other additional fees above * the value set in the field.
 
-![adicionalfrete3 EN](https://images.ctfassets.net/alneenqid6w5/1K03RGdwsMsuQGe8Awqsua/8ffe9ec0b094914ed4d14be361542cad/adicionalfrete3_EN.png)
+![adicionalfrete3 EN](//images.ctfassets.net/alneenqid6w5/1K03RGdwsMsuQGe8Awqsua/8ffe9ec0b094914ed4d14be361542cad/adicionalfrete3_EN.png)
 
 In this case, the value entered in the field __Additional value__ will be the percentage fee that is to be added to the final shipping rate calculation. For example, if shipping, with all its additional fees included, is $ 20.00, and the value set in the Additional Shipping fee field is 10, $ 2.00 would be added to those original $ 20.00, totaling $ 22.00 that the customer would pay for shipping. This is a simple way of having a profit margin on shipping.
 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: error-cancelling-customer-credit-invoices
+slugEN: error-cancelling-customer-credit-invoices
 locale: en
 kiStatus: Backlog
 internalReference: 926563

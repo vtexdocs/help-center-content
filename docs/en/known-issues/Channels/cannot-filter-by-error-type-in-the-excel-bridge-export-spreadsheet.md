@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
-slug: cannot-filter-by-error-type-in-the-excel-bridge-export-spreadsheet
+slugEN: cannot-filter-by-error-type-in-the-excel-bridge-export-spreadsheet
 locale: en
 kiStatus: Backlog
 internalReference: 

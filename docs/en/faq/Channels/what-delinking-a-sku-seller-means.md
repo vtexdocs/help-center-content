@@ -9,12 +9,12 @@ firstPublishedAt: 2017-08-17T19:55:44.074Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_41
-slug: what-delinking-a-sku-seller-means
+slugEN: what-delinking-a-sku-seller-means
 locale: en
 legacySlug: what-delinking-a-sku-seller-means
 ---
 
-![desvincular](https://images.contentful.com/alneenqid6w5/2fJNaa6xkEC0CwguKWK4o0/f6f8625d2409ff921826ffb913598eaf/desvincular.png)
+![desvincular](//images.contentful.com/alneenqid6w5/2fJNaa6xkEC0CwguKWK4o0/f6f8625d2409ff921826ffb913598eaf/desvincular.png)
 
 When you delink a Seller SKU, it will **no longer be shown as available** in the Marketplace.
 

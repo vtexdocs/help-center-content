@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: vtex-provides-klarna-pay-now-and-klarna-pay-later-payment-methods-for-the
+slugEN: vtex-provides-klarna-pay-now-and-klarna-pay-later-payment-methods-for-the
 locale: en
 legacySlug: vtex-provides-klarna-pay-now-and-klarna-pay-later-payment-methods-for-the
 announcementImageID: ''

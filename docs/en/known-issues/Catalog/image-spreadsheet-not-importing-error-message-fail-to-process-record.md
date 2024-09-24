@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: image-spreadsheet-not-importing-error-message-fail-to-process-record
+slugEN: image-spreadsheet-not-importing-error-message-fail-to-process-record
 locale: en
 kiStatus: Backlog
 internalReference: 691803

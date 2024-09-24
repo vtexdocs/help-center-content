@@ -8,7 +8,7 @@ publishedAt: 2022-12-15T18:44:11.901Z
 contentType: updates
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: new-process-for-running-security-assessments
+slugEN: new-process-for-running-security-assessments
 locale: en
 legacySlug: new-process-for-running-security-assessments
 announcementImageID: ''

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:03:04.913Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: view-reindex-log
+slugEN: view-reindex-log
 locale: en
 legacySlug: view-reindex-log
 subcategoryId: pwxWmUu7T222QyuGogs68
@@ -21,7 +21,7 @@ You may consult the log of when and who reindexed the base using the Full Clean 
 
 In fact, any action taken on Full Clean Up is recorded on this page.
 
-![fullcleanupLog](https://images.contentful.com/alneenqid6w5/4imYxqJjWwog0UYwCIcWY4/a036d799b6de9d34a2e2f810f3780929/fullcleanupLog.png)
+![fullcleanupLog](//images.contentful.com/alneenqid6w5/4imYxqJjWwog0UYwCIcWY4/a036d799b6de9d34a2e2f810f3780929/fullcleanupLog.png)
 
 The log displays the following information for each action:
 - __Data__: date and time of action.

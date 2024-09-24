@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-03T17:17:06.240Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-pine-labs
+slugEN: setting-up-payments-with-pine-labs
 locale: en
 legacySlug: setting-up-payments-with-pine-labs
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

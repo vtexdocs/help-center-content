@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: search-not-working-properly-on-store-framework-jamstack
+slugEN: search-not-working-properly-on-store-framework-jamstack
 locale: en
 kiStatus: Backlog
 internalReference: 383231

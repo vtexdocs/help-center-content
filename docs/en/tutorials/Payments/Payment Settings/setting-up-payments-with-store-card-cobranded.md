@@ -9,7 +9,7 @@ firstPublishedAt: 2018-06-27T20:17:05.882Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-store-card-cobranded
+slugEN: setting-up-payments-with-store-card-cobranded
 locale: en
 legacySlug: setting-up-payments-with-store-card-cobranded
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

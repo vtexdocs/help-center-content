@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:14.992Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: buy-one-get-one
+slugEN: buy-one-get-one
 locale: en
 legacySlug: buy-win
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
@@ -52,7 +52,7 @@ In this section, we provide information on the promotion overview.
 - **Additional information (optional):** Allows you to add name and value details to the promotion.
 - **Promotion is highlighted:** Adds a tag with the promotion name,  which is displayed in the window display and on the product page. This tag will only be added if you use the right promotion display control in the template. `<vtex.cmc:discountHightLight>`.
 
-![Promotion Overview](https://images.ctfassets.net/alneenqid6w5/4s7Zxlvv0aIThx2WW2JMO3/fb5019d7359026929f45631e94e2f454/Promotion_Overview.png)
+![Promotion Overview](//images.ctfassets.net/alneenqid6w5/4s7Zxlvv0aIThx2WW2JMO3/fb5019d7359026929f45631e94e2f454/Promotion_Overview.png)
 
 ## Restrict this promotion to seller products
 
@@ -65,7 +65,7 @@ For the promotion to be valid for all sellers, leave the field blank.
 
 >⚠️ It is not possible to select a white label seller. There are two ways to include a white label seller in the promotion:1. Restrict sellers to the main store. This will add all white label sellers in your store to the promotion.2. Leave the field blank.  In this way, all sellers will be included in the promotion.
 
-![Restrict this promotion to seller products](https://images.ctfassets.net/alneenqid6w5/3Up0CJMzHHY9rZO0LLRXuw/32b26e784595d4551700c022fc539598/Restrict_this_promotion_to_seller_products.png)
+![Restrict this promotion to seller products](//images.ctfassets.net/alneenqid6w5/3Up0CJMzHHY9rZO0LLRXuw/32b26e784595d4551700c022fc539598/Restrict_this_promotion_to_seller_products.png)
 
 ## Trade policy
 
@@ -78,7 +78,7 @@ In this section, you can set the trade policies valid for the promotion. You can
 
 For the promotion to be valid for all trade policies, leave the selection empty.
 
-![Trade Policy](https://images.ctfassets.net/alneenqid6w5/1EUrXEMs0tyZ6J1ulXco9i/2d378d9c081945a7128525036ed1f9e4/Trade_policy.png)
+![Trade Policy](//images.ctfassets.net/alneenqid6w5/1EUrXEMs0tyZ6J1ulXco9i/2d378d9c081945a7128525036ed1f9e4/Trade_policy.png)
 
 # 2. Buy One Get One
 
@@ -92,7 +92,7 @@ In this section, you can define the collections, SKUs, and minimum quantity for 
 
 >⚠️ <p>A Buy One Get One promotion can be created with a maximum of 100 different SKUs at the same time.<p>
 
-![Buy One Get One](https://images.ctfassets.net/alneenqid6w5/27rGDqH0dMTcgA8m7cWs27/c521b34d5694bf3712f5450f32839a91/Buy_One_Get_One.png)
+![Buy One Get One](//images.ctfassets.net/alneenqid6w5/27rGDqH0dMTcgA8m7cWs27/c521b34d5694bf3712f5450f32839a91/Buy_One_Get_One.png)
 
 # 3. Conditions for the promotion to be valid
 
@@ -105,7 +105,7 @@ In this section, we will detail the conditions you must apply for a promotion to
 - **Utm_source:** The discount will apply if the customer navigation uses an utm_source parameter corresponding to a listed one in this promotion.
 - **Utm_campaign:** The discount will apply if the customer navigation uses an utm_source parameter corresponding to a listed one in this promotion.
 
-![What are the conditions for the promotion to be valid?](https://images.ctfassets.net/alneenqid6w5/4zOT1bHe70Z1wbN2wQjCXD/935d35fb86b2e6931c238d60e14f2872/What_are_the_conditions_for_the_promotion_to_be_valid.png)
+![What are the conditions for the promotion to be valid?](//images.ctfassets.net/alneenqid6w5/4zOT1bHe70Z1wbN2wQjCXD/935d35fb86b2e6931c238d60e14f2872/What_are_the_conditions_for_the_promotion_to_be_valid.png)
 
 # 4. Restrictions and limitations of use
 
@@ -116,4 +116,4 @@ In this section, you will find important information about the promotion conditi
 - Only for the same items: If this option is activated, the promotion is only applied if the minimum quantity of items (previously added) is reached using the same SKU in the cart. If this option is deactivated, the promotion will be applied even when the minimum quantity of items is added to the cart, regardless of whether the SKUs are different or the same.
 - Apply with other promotions: Allows this promotion to be applied to the cart in combination with other promotions that give the same discount type.
 
-![Restrictions and limitations of use](https://images.ctfassets.net/alneenqid6w5/71kLc3PWSLecGA49Iytuyd/3786a7a5b6067de6410cabfe402325b4/Restrictions_and_limitations_of_use.png)
+![Restrictions and limitations of use](//images.ctfassets.net/alneenqid6w5/71kLc3PWSLecGA49Iytuyd/3786a7a5b6067de6410cabfe402325b4/Restrictions_and_limitations_of_use.png)

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: textlink-created-with-special-character
+slugEN: textlink-created-with-special-character
 locale: en
 kiStatus: Backlog
 internalReference: 537159

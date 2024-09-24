@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Master Data
 author: 
-slug: untitled-entry-2017-06-26-at-07-00-34
+slugEN: untitled-entry-2017-06-26-at-07-00-34
 locale: en
 legacySlug: untitled-entry-2017-06-26-at-07-00-34
 subcategoryId: unknown-subcategory

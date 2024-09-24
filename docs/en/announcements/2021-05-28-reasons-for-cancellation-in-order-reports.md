@@ -8,7 +8,7 @@ publishedAt: 2022-08-29T23:27:11.506Z
 contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slug: reasons-for-cancellation-in-order-reports
+slugEN: reasons-for-cancellation-in-order-reports
 locale: en
 legacySlug: reasons-for-cancellation-in-order-reports
 announcementImageID: ''

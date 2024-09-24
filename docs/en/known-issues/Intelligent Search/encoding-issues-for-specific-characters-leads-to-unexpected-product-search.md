@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: encoding-issues-for-specific-characters-leads-to-unexpected-product-search
+slugEN: encoding-issues-for-specific-characters-leads-to-unexpected-product-search
 locale: en
 kiStatus: Backlog
 internalReference: 1022550

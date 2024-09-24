@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: ui-triggers-separate-requests-for-each-keyfield-of-an-attachment
+slugEN: ui-triggers-separate-requests-for-each-keyfield-of-an-attachment
 locale: en
 kiStatus: Backlog
 internalReference: 336371

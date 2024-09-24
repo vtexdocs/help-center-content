@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-22T12:58:23.819Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: how-to-use-the-unavailable-product-class
+slugEN: how-to-use-the-unavailable-product-class
 locale: en
 legacySlug: how-to-use-the-unavailable-product-class
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -29,7 +29,7 @@ __If an SKU with a certain specification is not available in stock, the store ma
 
 In the example below, sizes P and G are not available.
 
-![classeIndisponivel](https://images.contentful.com/alneenqid6w5/6dTacclHvqeaMwws8kqU8K/2d0d79d95dc521626eb1ba5c1c056da2/classeIndisponivel.png)
+![classeIndisponivel](//images.contentful.com/alneenqid6w5/6dTacclHvqeaMwws8kqU8K/2d0d79d95dc521626eb1ba5c1c056da2/classeIndisponivel.png)
 
 ## Including the unavailable product class
 

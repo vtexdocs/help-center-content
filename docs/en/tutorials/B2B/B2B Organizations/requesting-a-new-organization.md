@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-06T16:27:05.446Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: requesting-a-new-organization
+slugEN: requesting-a-new-organization
 locale: en
 legacySlug: requesting-a-new-organization
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl

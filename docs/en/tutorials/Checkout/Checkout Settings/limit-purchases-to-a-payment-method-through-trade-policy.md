@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-18T14:15:38.126Z
 contentType: tutorial
 productTeam: Financial
 author: authors_35
-slug: limit-purchases-to-a-payment-method-through-trade-policy
+slugEN: limit-purchases-to-a-payment-method-through-trade-policy
 locale: en
 legacySlug: limit-purchases-to-a-payment-method-through-trade-policy
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

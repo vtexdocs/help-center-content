@@ -8,7 +8,7 @@ publishedAt: 2021-03-12T00:14:09.119Z
 contentType: updates
 productTeam: Shopping
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: improvement-of-the-seller-white-label-selection-algorithm
+slugEN: improvement-of-the-seller-white-label-selection-algorithm
 locale: en
 legacySlug: improvement-of-the-seller-white-label-selection-algorithm
 announcementImageID: ''

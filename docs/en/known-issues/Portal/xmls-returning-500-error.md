@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: xmls-returning-500-error
+slugEN: xmls-returning-500-error
 locale: en
 kiStatus: Backlog
 internalReference: 268042

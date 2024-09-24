@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Post-purchase
 author: authors_41
-slug: new-working-hours-setup-is-now-available-for-carriers
+slugEN: new-working-hours-setup-is-now-available-for-carriers
 locale: en
 legacySlug: new-working-hours-setup-is-now-available-for-carriers
 announcementImageID: ''

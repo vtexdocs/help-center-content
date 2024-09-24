@@ -8,7 +8,7 @@ publishedAt: 2021-12-10T02:40:08.956Z
 firstPublishedAt: 2020-01-13T14:32:29.091Z
 contentType: trackArticle
 productTeam: Identity
-slug: editing-account-data
+slugEN: editing-account-data
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: contas-e-permissoes

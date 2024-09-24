@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:54.373Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_41
-slug: your-stores-orders-now-display-the-currency-used-on-the-transaction
+slugEN: your-stores-orders-now-display-the-currency-used-on-the-transaction
 locale: en
 legacySlug: your-stores-orders-now-display-the-currency-used-on-the-transaction
 announcementImageID: ''

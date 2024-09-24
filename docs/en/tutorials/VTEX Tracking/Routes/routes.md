@@ -9,7 +9,7 @@ firstPublishedAt: 2021-04-14T13:04:04.905Z
 contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: routes
+slugEN: routes
 locale: en
 legacySlug: routes
 subcategoryId: 6a36lWUX5znjBVYTrfc29x

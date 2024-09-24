@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-02T21:31:11.956Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-bit-one-gateway
+slugEN: setting-up-bit-one-gateway
 locale: en
 legacySlug: setting-up-bit-one-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

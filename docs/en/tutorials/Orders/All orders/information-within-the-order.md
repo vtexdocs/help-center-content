@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:47.961Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: information-within-the-order
+slugEN: information-within-the-order
 locale: en
 legacySlug: information-within-the-order
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

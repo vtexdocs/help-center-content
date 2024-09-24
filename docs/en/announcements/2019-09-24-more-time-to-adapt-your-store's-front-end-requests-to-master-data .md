@@ -8,7 +8,7 @@ publishedAt: 2020-04-02T16:47:21.586Z
 contentType: updates
 productTeam: Master Data
 author: authors_31
-slug: more-time-to-adapt-your-store's-front-end-requests-to-master-data 
+slugEN: more-time-to-adapt-your-store's-front-end-requests-to-master-data 
 locale: en
 legacySlug: mais-tempo-para-adaptar-as-requisicoes-de-front-end-da-sua-loja-ao-master
 announcementImageID: ''

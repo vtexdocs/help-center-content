@@ -9,7 +9,7 @@ firstPublishedAt: 2021-03-30T18:51:13.424Z
 contentType: tutorial
 productTeam: B2B
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: store-access-permission
+slugEN: store-access-permission
 locale: en
 legacySlug: store-access-permission
 subcategoryId: 3dBbxrpmrGP2D7AgQeviAR
@@ -25,4 +25,4 @@ To configure this feature in your store, access the Admin and follow the instruc
 4. Select the __VTEX Store__ option.
 5. Check the box next to __"Enables B2B behavior"__ and save the changes.
 
-![Enable B2B scenario](https://images.ctfassets.net/alneenqid6w5/Kxh1UuEyCT52qprSkBkeH/49fd977f929e7422641030804973cf2f/Habilitar_B2B.gif)
+![Enable B2B scenario](//images.ctfassets.net/alneenqid6w5/Kxh1UuEyCT52qprSkBkeH/49fd977f929e7422641030804973cf2f/Habilitar_B2B.gif)

@@ -8,7 +8,7 @@ publishedAt: 2024-02-09T12:30:53.684Z
 firstPublishedAt: 2024-02-07T21:44:30.527Z
 contentType: trackArticle
 productTeam: Financial
-slug: managing-customer-credit-invoices
+slugEN: managing-customer-credit-invoices
 locale: en
 trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugEN: customer-credit-getting-started
@@ -21,7 +21,7 @@ The __Invoices__ screen in the VTEX Admin (__Apps > Customer Credit > Invoices__
 - [Settle invoices](#settle-invoices)
 <br>
 <br>
-![Invoices_EN](https://images.ctfassets.net/alneenqid6w5/6otbbLNAHn0hHmKvkYmrj2/5f6f07bf3e43e11762d057b41b2277bb/Invoices_EN.JPG)
+![Invoices_EN](//images.ctfassets.net/alneenqid6w5/6otbbLNAHn0hHmKvkYmrj2/5f6f07bf3e43e11762d057b41b2277bb/Invoices_EN.JPG)
 
 ## Invoice filter
 

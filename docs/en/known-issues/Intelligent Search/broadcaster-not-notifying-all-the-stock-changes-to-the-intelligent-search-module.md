@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: broadcaster-not-notifying-all-the-stock-changes-to-the-intelligent-search-module
+slugEN: broadcaster-not-notifying-all-the-stock-changes-to-the-intelligent-search-module
 locale: en
 kiStatus: Backlog
 internalReference: 683345

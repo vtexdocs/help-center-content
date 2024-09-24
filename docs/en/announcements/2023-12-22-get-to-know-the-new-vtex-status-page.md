@@ -8,7 +8,7 @@ publishedAt: 2023-12-22T13:57:46.734Z
 contentType: updates
 productTeam: Reliability
 author: 1malnhMX0vPThsaJaZMYm2
-slug: get-to-know-the-new-vtex-status-page
+slugEN: get-to-know-the-new-vtex-status-page
 locale: en
 legacySlug: get-to-know-the-new-vtex-status-page
 announcementImageID: ''
@@ -23,7 +23,7 @@ Previously, we faced challenges by categorizing incidents into four components: 
 
 Now, we have introduced 18 more specific components, grouped into four categories: Storefront, Checkout, Admin, and Developer Tools. This approach focuses not only on our internal architecture but mainly on where merchants can see the symptoms. The following image shows all the components displayed on the new page:
 
-![status-page-vtex](https://images.ctfassets.net/alneenqid6w5/7s1xozhZ4Kih3e9Atsuq6a/c79f37753e6a20025ad5b529a7c43e99/status-page-vtex.png)
+![status-page-vtex](//images.ctfassets.net/alneenqid6w5/7s1xozhZ4Kih3e9Atsuq6a/c79f37753e6a20025ad5b529a7c43e99/status-page-vtex.png)
 
 Check out the [VTEX Status page](https://help.vtex.com/en/tutorial/vtex-status-page--gPhqDn9IQ3c67wbJEX3JJ) article for more information on each component.
 

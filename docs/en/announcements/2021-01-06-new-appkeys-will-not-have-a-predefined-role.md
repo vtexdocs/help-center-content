@@ -8,7 +8,7 @@ publishedAt: 2021-12-10T02:40:06.394Z
 contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
-slug: new-appkeys-will-not-have-a-predefined-role
+slugEN: new-appkeys-will-not-have-a-predefined-role
 locale: en
 legacySlug: new-appkeys-will-not-have-a-predefined-access-profile
 announcementImageID: ''

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-18T21:23:11.844Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-mundipagg-fraud-prevention-gateway
+slugEN: setting-up-mundipagg-fraud-prevention-gateway
 locale: en
 legacySlug: setting-up-mundipagg-fraud-prevention-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

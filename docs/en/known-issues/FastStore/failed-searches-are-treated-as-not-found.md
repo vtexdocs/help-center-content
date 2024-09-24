@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: failed-searches-are-treated-as-not-found
+slugEN: failed-searches-are-treated-as-not-found
 locale: en
 kiStatus: Backlog
 internalReference: 1088047

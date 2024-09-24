@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: address-form-is-not-shown-when-the-shopper-opts-to-insert-a-new-address
+slugEN: address-form-is-not-shown-when-the-shopper-opts-to-insert-a-new-address
 locale: en
 kiStatus: Backlog
 internalReference: 1061637

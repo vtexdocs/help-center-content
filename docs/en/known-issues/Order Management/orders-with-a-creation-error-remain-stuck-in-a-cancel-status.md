@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: orders-with-a-creation-error-remain-stuck-in-a-cancel-status
+slugEN: orders-with-a-creation-error-remain-stuck-in-a-cancel-status
 locale: en
 kiStatus: Backlog
 internalReference: 1089344

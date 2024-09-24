@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-06T18:26:07.966Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-kaiowa
+slugEN: setting-up-payments-with-kaiowa
 locale: en
 legacySlug: setting-up-payments-with-kaiowa
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

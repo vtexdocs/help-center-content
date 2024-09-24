@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:14:04.115Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: new-limits-for-causes-of-benefit
+slugEN: new-limits-for-causes-of-benefit
 locale: en
 legacySlug: new-limits-for-causes-of-benefit
 announcementImageID: ''

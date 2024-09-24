@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: removing-ean-via-api-is-not-inactivating-skus-without-refids
+slugEN: removing-ean-via-api-is-not-inactivating-skus-without-refids
 locale: en
 kiStatus: No Fix
 internalReference: 626031

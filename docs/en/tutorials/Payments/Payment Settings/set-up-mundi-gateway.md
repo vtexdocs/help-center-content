@@ -9,7 +9,7 @@ firstPublishedAt: 2019-04-04T21:20:22.149Z
 contentType: tutorial
 productTeam: Financial
 author: 3lcZDoqCF7Q4hYHye4y1YM
-slug: set-up-mundi-gateway
+slugEN: set-up-mundi-gateway
 locale: en
 legacySlug: configurar-gateway-mundi
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

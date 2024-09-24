@@ -9,7 +9,7 @@ firstPublishedAt: 2022-07-13T18:28:12.662Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: checkout-vtex-overview
+slugEN: checkout-vtex-overview
 locale: en
 legacySlug: checkout-vtex-overview
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk
@@ -35,7 +35,7 @@ The steps below describe the customer's purchase experience and the way that Che
 
 Every time a customer changes something in the cart (adds or removes items), or every time the Checkout screen is updated, the following Checkout internal process chain is performed.
 
-![Checkout overview](https://images.ctfassets.net/alneenqid6w5/6U3DBHywYW2RnlM94QQFg5/1c2b515127000db8b88c3a2cfa5996d0/Checkout_Overview_EN.png)
+![Checkout overview](//images.ctfassets.net/alneenqid6w5/6U3DBHywYW2RnlM94QQFg5/1c2b515127000db8b88c3a2cfa5996d0/Checkout_Overview_EN.png)
 
 >ℹ️ If one or more items selected by the customer are eligible for delivery by a [Seller white label](https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#), the seller responsible for delivering the items will be chosen based on shipping simulations, as shown in the right side of the picture. Learn more in [Selecting white label sellers](https://help.vtex.com/en/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa#).
 

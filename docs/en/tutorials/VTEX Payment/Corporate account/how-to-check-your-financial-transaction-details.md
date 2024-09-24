@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-03T21:39:30.839Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: how-to-check-your-financial-transaction-details
+slugEN: how-to-check-your-financial-transaction-details
 locale: en
 legacySlug: how-to-check-your-financial-transaction-details
 subcategoryId: 29ZPBdZOTSg6NdzprcqBfb

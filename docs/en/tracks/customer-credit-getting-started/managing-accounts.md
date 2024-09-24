@@ -8,7 +8,7 @@ publishedAt: 2024-02-27T19:44:55.522Z
 firstPublishedAt: 2018-11-07T17:10:45.883Z
 contentType: trackArticle
 productTeam: Financial
-slug: managing-accounts
+slugEN: managing-accounts
 locale: en
 trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugEN: customer-credit-getting-started
@@ -26,7 +26,7 @@ When clicking on the name of a specific account, the __Account Details__ screen 
 - [Account closure](#account-closure)
 <br>
 <br>
-![Account_EN](https://images.ctfassets.net/alneenqid6w5/3Wu6HcL5NbC5XS5YdiF3Dx/a9f3a550884255677d837466ec63cf3c/Contas_EN.png)
+![Account_EN](//images.ctfassets.net/alneenqid6w5/3Wu6HcL5NbC5XS5YdiF3Dx/a9f3a550884255677d837466ec63cf3c/Contas_EN.png)
 
 ## Holder
 

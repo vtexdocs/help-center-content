@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:39.102Z
 contentType: tutorial
 productTeam: Channels
 author: authors_84
-slug: about-google-search-console
+slugEN: about-google-search-console
 locale: en
 legacySlug: about-google-search-console
 subcategoryId: 1luKrYptdi8WoMYckakUaM

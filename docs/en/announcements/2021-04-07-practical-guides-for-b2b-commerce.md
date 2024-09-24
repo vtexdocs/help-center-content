@@ -8,7 +8,7 @@ publishedAt: 2021-07-09T00:48:43.696Z
 contentType: updates
 productTeam: Others
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: practical-guides-for-b2b-commerce
+slugEN: practical-guides-for-b2b-commerce
 locale: en
 legacySlug: practical-guides-for-b2b-commerce
 announcementImageID: ''

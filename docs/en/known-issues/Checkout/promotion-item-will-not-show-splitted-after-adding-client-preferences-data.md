@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: promotion-item-will-not-show-splitted-after-adding-client-preferences-data
+slugEN: promotion-item-will-not-show-splitted-after-adding-client-preferences-data
 locale: en
 kiStatus: Backlog
 internalReference: 842575

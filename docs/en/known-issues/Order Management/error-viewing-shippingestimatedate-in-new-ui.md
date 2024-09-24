@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: error-viewing-shippingestimatedate-in-new-ui
+slugEN: error-viewing-shippingestimatedate-in-new-ui
 locale: en
 kiStatus: Backlog
 internalReference: 661040

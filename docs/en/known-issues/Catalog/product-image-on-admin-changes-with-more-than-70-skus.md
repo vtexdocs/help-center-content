@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: product-image-on-admin-changes-with-more-than-70-skus
+slugEN: product-image-on-admin-changes-with-more-than-70-skus
 locale: en
 kiStatus: Backlog
 internalReference: 1003966

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-23T21:00:44.093Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 1iryp847AQgmKGKIASeW8Y
-slug: using-vbase-to-store-data
+slugEN: using-vbase-to-store-data
 locale: en
 legacySlug: using-vbase-to-store-data
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

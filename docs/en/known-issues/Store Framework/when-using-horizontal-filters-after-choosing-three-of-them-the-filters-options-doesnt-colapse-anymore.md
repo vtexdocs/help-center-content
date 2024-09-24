@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: when-using-horizontal-filters-after-choosing-three-of-them-the-filters-options-doesnt-colapse-anymore
+slugEN: when-using-horizontal-filters-after-choosing-three-of-them-the-filters-options-doesnt-colapse-anymore
 locale: en
 kiStatus: Backlog
 internalReference: 859382

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-11T18:50:24.887Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-paylands
+slugEN: setting-up-payments-with-paylands
 locale: en
 legacySlug: setting-up-payments-with-paylands
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

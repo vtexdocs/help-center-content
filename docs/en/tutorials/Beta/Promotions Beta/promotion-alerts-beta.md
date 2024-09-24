@@ -9,7 +9,7 @@ firstPublishedAt: 2022-11-18T17:06:00.781Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: promotion-alerts-beta
+slugEN: promotion-alerts-beta
 locale: en
 legacySlug: promotion-alerts-beta
 subcategoryId: 6iTRZiMeCGXYiO2ckABFZi
@@ -27,7 +27,7 @@ Suppose you only configure the email alert action, further orders with the unwan
 
 To access the page in the VTEX Admin, go to *Promotions > Promotion Alert*. You will see the following interface:
 
-![simuladordepromocoes gerenciar](https://images.ctfassets.net/alneenqid6w5/4E0oZf13zNjKgj5MNRYiuf/94c9af89ae0bad5601b316dfc73a6caf/simuladordepromocoes_gerenciar.gif)
+![simuladordepromocoes gerenciar](//images.ctfassets.net/alneenqid6w5/4E0oZf13zNjKgj5MNRYiuf/94c9af89ae0bad5601b316dfc73a6caf/simuladordepromocoes_gerenciar.gif)
 
 The table below shows the column descriptions for the promotion list:
 

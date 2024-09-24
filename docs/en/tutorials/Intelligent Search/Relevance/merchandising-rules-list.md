@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-03T17:10:24.720Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: merchandising-rules-list
+slugEN: merchandising-rules-list
 locale: en
 legacySlug: merchandising-rules-list
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
@@ -22,7 +22,7 @@ On VTEX Admin, the page **Storefront** > **Intelligent Search** > **Merchandisin
 * [Edit](#editing-merchandising-rules)
 * [Delete](#deleting-merchandising-rules)
 
-![merch-rules-en](https://images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/6b6dc34a4127cd654dab40fa17a70664/merch-rules-en.PNG)
+![merch-rules-en](//images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/6b6dc34a4127cd654dab40fa17a70664/merch-rules-en.PNG)
 
 The page displays the following information: 
 

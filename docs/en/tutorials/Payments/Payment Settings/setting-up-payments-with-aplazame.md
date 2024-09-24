@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-11T16:41:48.592Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-aplazame
+slugEN: setting-up-payments-with-aplazame
 locale: en
 legacySlug: setting-up-payments-with-aplazame
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

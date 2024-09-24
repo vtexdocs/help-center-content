@@ -9,7 +9,7 @@ firstPublishedAt: 2024-03-19T14:21:08.209Z
 contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slug: best-practices-to-avoid-scams-using-the-vtex-brand
+slugEN: best-practices-to-avoid-scams-using-the-vtex-brand
 locale: en
 legacySlug: best-practices-to-avoid-scams-using-the-vtex-brand
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn

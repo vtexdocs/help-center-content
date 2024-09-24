@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-29T22:34:49.769Z
 contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: names-of-vtex-branches-worldwide
+slugEN: names-of-vtex-branches-worldwide
 locale: en
 legacySlug: names-of-vtex-branches-worldwide
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
@@ -29,4 +29,4 @@ VTEX is proud to have offices and clients around the world. Each country office 
 
 To know which country office you are invoiced from, consult your contract or [download your invoice](https://help.vtex.com/en/tutorial/como-fazer-download-faturas-da-VTEX--tutorials_653). When you open an invoice, you will find the company name and address from which your store is being invoiced in the left corner of your invoice, below VTEX’s logo.  
 
-![reconhecimento fatura](https://images.ctfassets.net/alneenqid6w5/2YSH0hyY910biHl0uEO1Sw/fedfac90ba460d15c2bac63d80cd1866/reconhecimento_fatura.JPG)
+![reconhecimento fatura](//images.ctfassets.net/alneenqid6w5/2YSH0hyY910biHl0uEO1Sw/fedfac90ba460d15c2bac63d80cd1866/reconhecimento_fatura.JPG)

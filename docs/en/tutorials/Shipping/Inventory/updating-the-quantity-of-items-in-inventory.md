@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-01T15:02:40.977Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: updating-the-quantity-of-items-in-inventory
+slugEN: updating-the-quantity-of-items-in-inventory
 locale: en
 legacySlug: how-to-update-stock, updating-quantity-of-skus-in-inventory
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE
@@ -45,7 +45,7 @@ _Available units = updated quantity of units - reserved units_
 
 Negative stock usually occurs when an SKU corresponding to an order that already has a reservation is removed from inventory. To avoid this situation, it is important that the SKU quantity update takes place  once the [status of the orders](https://help.vtex.com/en/tutorial/order-flow-on-the-oms--tutorials_196) has changed from `Preparing for delivery`. At this point, the platform has already [acknowledged the reservation](https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92#acknowledged-reservation), and it won't interpret the SKU quantity update as a reduction in the quantity of units of a product that hasn't been sold yet.
 
-![Inventory management](https://images.ctfassets.net/alneenqid6w5/384hm6LEhpNrvqGITDwzZ1/d591d4682810d9f6549772a0e03f7f32/Inventory_management.gif)
+![Inventory management](//images.ctfassets.net/alneenqid6w5/384hm6LEhpNrvqGITDwzZ1/d591d4682810d9f6549772a0e03f7f32/Inventory_management.gif)
 
 ## Related articles
 

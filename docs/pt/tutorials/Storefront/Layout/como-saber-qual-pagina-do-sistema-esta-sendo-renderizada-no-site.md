@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:10:37.513Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site
+slugEN: como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site
 locale: pt
 legacySlug: como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -29,7 +29,7 @@ Para encontrar essa linha de código, acesse o front-end da sua loja, entre nas 
 
 Veja abaixo a relação entre a pasta no CMS e o código-fonte da loja.
 
-![CommerceContext](https://images.contentful.com/alneenqid6w5/6diTrNVvl6OuwGKmoICSA0/4e958baa7ab163bcf06ac5963795feff/CommerceContext.png)
+![CommerceContext](//images.contentful.com/alneenqid6w5/6diTrNVvl6OuwGKmoICSA0/4e958baa7ab163bcf06ac5963795feff/CommerceContext.png)
 
 >ℹ️ Essa linha de código está sempre comentada. Portanto, ela tem função apenas informativa. Ou seja, não realiza nenhuma ação.
 

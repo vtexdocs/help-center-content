@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: intermitent-site-editor-content-loss
+slugEN: intermitent-site-editor-content-loss
 locale: en
 kiStatus: Scheduled
 internalReference: 610533

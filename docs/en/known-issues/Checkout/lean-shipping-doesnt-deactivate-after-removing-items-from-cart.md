@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: lean-shipping-doesnt-deactivate-after-removing-items-from-cart
+slugEN: lean-shipping-doesnt-deactivate-after-removing-items-from-cart
 locale: en
 kiStatus: Backlog
 internalReference: 916461

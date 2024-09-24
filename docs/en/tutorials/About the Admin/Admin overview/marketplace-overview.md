@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-31T19:18:29.348Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: marketplace-overview
+slugEN: marketplace-overview
 locale: en
 legacySlug: marketplace-overview
 subcategoryId: Se4oi5LroIII2Ei0uGAoE

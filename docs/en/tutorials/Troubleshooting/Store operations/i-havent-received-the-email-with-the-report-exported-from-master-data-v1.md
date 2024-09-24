@@ -9,7 +9,7 @@ firstPublishedAt: 2022-10-17T19:59:15.174Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
-slug: i-havent-received-the-email-with-the-report-exported-from-master-data-v1
+slugEN: i-havent-received-the-email-with-the-report-exported-from-master-data-v1
 locale: en
 legacySlug: what-to-do-when-my-report-does-not-reach-my-inbox
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
@@ -29,7 +29,7 @@ You can access the report in Master Data by following the steps below:
 4. In **Export Status**, identify the row of the report you want to access.
 5. If the **Status** is **Completed - Download**, click `Download` to download the file.
 
-    ![download-report-en](https://images.ctfassets.net/alneenqid6w5/5fL8dTuacGUYYFfhwx8eSh/0cc88c11f479fda554a2520750c8da2d/download-report-en.png)
+    ![download-report-en](//images.ctfassets.net/alneenqid6w5/5fL8dTuacGUYYFfhwx8eSh/0cc88c11f479fda554a2520750c8da2d/download-report-en.png)
 
     If the **Status** is **Running**, wait for the export to complete and then repeat the steps.
 

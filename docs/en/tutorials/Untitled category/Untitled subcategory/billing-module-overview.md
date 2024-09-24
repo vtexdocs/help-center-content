@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial
 productTeam: Billing
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: billing-module-overview
+slugEN: billing-module-overview
 locale: en
 legacySlug: billing-module-overview
 subcategoryId: unknown-subcategory
@@ -21,7 +21,7 @@ To access this section, click on your **profile avatar**, which can be identifie
 
 >ℹ️ Only users with the access profiles of [Finance](https://help.vtex.com/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance), [Finance Full Access](https://help.vtex.com/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access) or with [Billing](https://help.vtex.com/es/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy) resources linked to their access profile can view this section of the VTEX Admin.     
 
-![Admin v4 Faturas menu EN](https://images.ctfassets.net/alneenqid6w5/6EzhdPvM8Foexk2GJUZ3KA/efc4c8a58bed888f975fa5aa2b0f2fad/Admin_v4_Faturas_menu_EN.jpg)
+![Admin v4 Faturas menu EN](//images.ctfassets.net/alneenqid6w5/6EzhdPvM8Foexk2GJUZ3KA/efc4c8a58bed888f975fa5aa2b0f2fad/Admin_v4_Faturas_menu_EN.jpg)
 
 See below for more details on the different sections and pages of this feature.
 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: installments-dropdown-on-checkout-ui-is-loose-when-scrolling-the-screen
+slugEN: installments-dropdown-on-checkout-ui-is-loose-when-scrolling-the-screen
 locale: en
 kiStatus: Backlog
 internalReference: 540257

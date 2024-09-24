@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: when-settleid-is-sent-as-null-and-code-as-refundmanually-our-gateway-performs-a-double-refund
+slugEN: when-settleid-is-sent-as-null-and-code-as-refundmanually-our-gateway-performs-a-double-refund
 locale: en
 kiStatus: No Fix
 internalReference: 615050

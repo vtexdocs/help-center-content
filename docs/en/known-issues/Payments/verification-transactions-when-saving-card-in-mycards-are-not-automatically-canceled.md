@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: verification-transactions-when-saving-card-in-mycards-are-not-automatically-canceled
+slugEN: verification-transactions-when-saving-card-in-mycards-are-not-automatically-canceled
 locale: en
 kiStatus: No Fix
 internalReference: 347084

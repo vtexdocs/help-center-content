@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: marketplace-tax-hub-request-doesnt-consider-some-discount-types
+slugEN: marketplace-tax-hub-request-doesnt-consider-some-discount-types
 locale: en
 kiStatus: Fixed
 internalReference: 945580

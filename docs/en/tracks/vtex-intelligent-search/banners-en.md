@@ -1,14 +1,14 @@
 ---
 title: 'Banners'
 id: d1p9tO3Ll7qkdMZ1pIfKq
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2019-11-27T16:32:44.112Z
-updatedAt: 2023-03-30T22:12:50.665Z
-publishedAt: 2023-03-30T22:12:50.665Z
+updatedAt: 2024-09-06T20:13:41.240Z
+publishedAt: 
 firstPublishedAt: 2020-03-05T19:57:33.340Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: banners-en
+slugEN: banners-en
 locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
@@ -33,7 +33,7 @@ On VTEX Admin, the page **Storefront** > **Banners** shows the full list of regi
 * [Edit a banner](#editing-a-banner)
 * [Delete a banner](#deleting-a-banner) 
 
-![banners-intro-en](https://images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/cfc3d93dba914a7a22961741c637c8a7/image.png)
+![banners-intro-en](//images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/cfc3d93dba914a7a22961741c637c8a7/image.png)
 
 The page shows the following information:
 

@@ -8,7 +8,7 @@ publishedAt: 2021-12-10T02:40:04.550Z
 contentType: updates
 productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
-slug: improvements-in-application-key-management
+slugEN: improvements-in-application-key-management
 locale: en
 legacySlug: improvements-in-application-key-management
 announcementImageID: ''

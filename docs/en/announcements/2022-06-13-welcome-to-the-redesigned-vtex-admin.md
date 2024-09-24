@@ -8,7 +8,7 @@ publishedAt: 2022-07-20T11:33:40.454Z
 contentType: updates
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: welcome-to-the-redesigned-vtex-admin
+slugEN: welcome-to-the-redesigned-vtex-admin
 locale: en
 legacySlug: welcome-to-the-redesigned-vtex-admin
 announcementImageID: ''
@@ -19,7 +19,7 @@ Digital businesses are increasingly looking to have tools that will be allies fo
 
 Welcome to the [Redesigned Admin experience](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=organic&utm_campaign=new_admin_beta).
 
-![Store Overview gif EN](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/27b257963a3bcd2e24374c78e8bcbc4a/Store_Overview_gif_EN.gif)
+![Store Overview gif EN](//images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/27b257963a3bcd2e24374c78e8bcbc4a/Store_Overview_gif_EN.gif)
 
 ## What has changed?
 

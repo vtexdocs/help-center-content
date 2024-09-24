@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T17:16:02.740Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: how-to-find-google-tag-manager-pixel
+slugEN: how-to-find-google-tag-manager-pixel
 locale: en
 legacySlug: how-to-find-google-tag-manager-pixel
 ---

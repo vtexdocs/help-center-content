@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: change-order-using-api-without-email-orderchanged
+slugEN: change-order-using-api-without-email-orderchanged
 locale: en
 kiStatus: No Fix
 internalReference: 380509

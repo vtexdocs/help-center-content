@@ -9,7 +9,7 @@ firstPublishedAt: 2020-08-19T19:29:24.564Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: vtex-tracking-overview
+slugEN: vtex-tracking-overview
 locale: en
 legacySlug: vtex-tracking-overview
 subcategoryId: t5ai1r0dN7J4U1IYLbHmG

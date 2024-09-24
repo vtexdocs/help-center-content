@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: import-collection-only-accepts-the-order-of-products-if-import-is-made-based-on-skuid
+slugEN: import-collection-only-accepts-the-order-of-products-if-import-is-made-based-on-skuid
 locale: en
 kiStatus: Fixed
 internalReference: 953862

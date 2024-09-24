@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-29T21:11:57.287Z
 contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: web-page-performance
+slugEN: web-page-performance
 locale: en
 legacySlug: web-page-performance
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
@@ -25,7 +25,7 @@ Web Page Performance brings Google's [PageSpeed Insights](https://developers.goo
 
 Although the Web Page Performance dashboard offers the same features as Google's PageSpeed Insights tool, it is only on the VTEX Admin that merchants will be able to add multiple URLs and assess them constantly. 
 
-![Web page performance Dash EN](https://images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/83d8891b5441de2d1c4c36b9b4c00317/Screen_Shot_2022-06-29_at_15.49.56.png)
+![Web page performance Dash EN](//images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/83d8891b5441de2d1c4c36b9b4c00317/Screen_Shot_2022-06-29_at_15.49.56.png)
 
 ## Why should you track a web page's performance?
 
@@ -104,7 +104,7 @@ Note that the top 10 most accessed pages in your ecommerce cannot be deleted. Yo
 
 ## Core Web Vitals
 
-![Core web vitals EN](https://images.ctfassets.net/alneenqid6w5/2dqXPGBXhoqAOlu98GvSjg/b135473eb67bc50d6d504f74da8bf111/Screen_Shot_2022-06-29_at_16.00.41.png)
+![Core web vitals EN](//images.ctfassets.net/alneenqid6w5/2dqXPGBXhoqAOlu98GvSjg/b135473eb67bc50d6d504f74da8bf111/Screen_Shot_2022-06-29_at_16.00.41.png)
 
  For each URL, the Web Page Performance page displays the score of [Google's Core Web Vitals](https://web.dev/vitals/#core-web-vitals) for that web page. 
 

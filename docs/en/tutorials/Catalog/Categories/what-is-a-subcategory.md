@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-25T21:01:41.856Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: what-is-a-subcategory
+slugEN: what-is-a-subcategory
 locale: en
 legacySlug: what-is-a-subcategory
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec

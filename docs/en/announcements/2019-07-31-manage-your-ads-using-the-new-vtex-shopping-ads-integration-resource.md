@@ -8,7 +8,7 @@ publishedAt: 2020-08-17T22:25:02.826Z
 contentType: updates
 productTeam: Channels
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: manage-your-ads-using-the-new-vtex-shopping-ads-integration-resource
+slugEN: manage-your-ads-using-the-new-vtex-shopping-ads-integration-resource
 locale: en
 legacySlug: manage-your-ads-using-the-new-vtex-shopping-ads-integration-resource
 announcementImageID: ''

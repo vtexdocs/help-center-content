@@ -8,7 +8,7 @@ publishedAt: 2022-05-10T19:44:14.836Z
 contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slug: apply-manual-prices-in-subscription-items
+slugEN: apply-manual-prices-in-subscription-items
 locale: en
 legacySlug: apply-manual-prices-in-subscription-items
 announcementImageID: ''

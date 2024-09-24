@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:33.393Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
-slug: why-was-the-order-closed-with-the-wrong-price
+slugEN: why-was-the-order-closed-with-the-wrong-price
 locale: en
 legacySlug: why-was-the-order-closed-with-the-wrong-price
 ---
@@ -18,7 +18,7 @@ The [Integrations](/en/tutorial/checking-integrations-in-bridge) module informs
 
 `Total do pagamento (311,77) é diferente do pretendido pela loja (313,61)`
 
-[]![DescontoMarketplace](https://images.contentful.com/alneenqid6w5/1HmHmw1xTCCe2uc4KWqGio/07fcec1e79b19410f460439419c19178/DescontoMarketplace.png)
+[]![DescontoMarketplace](//images.contentful.com/alneenqid6w5/1HmHmw1xTCCe2uc4KWqGio/07fcec1e79b19410f460439419c19178/DescontoMarketplace.png)
 
 And when the order has not been integrated due to difference in value, the following message is displayed on Integrations :
 

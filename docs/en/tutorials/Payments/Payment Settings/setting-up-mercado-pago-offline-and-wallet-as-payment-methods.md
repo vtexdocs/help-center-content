@@ -9,7 +9,7 @@ firstPublishedAt: 2021-11-30T23:24:03.450Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-mercado-pago-offline-and-wallet-as-payment-methods
+slugEN: setting-up-mercado-pago-offline-and-wallet-as-payment-methods
 locale: en
 legacySlug: setting-up-mercado-pago-offline-and-wallet-as-payment-methods
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

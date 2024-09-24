@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: cart-created-from-an-old-order-doesnt-bring-the-attachments
+slugEN: cart-created-from-an-old-order-doesnt-bring-the-attachments
 locale: en
 kiStatus: No Fix
 internalReference: 802464

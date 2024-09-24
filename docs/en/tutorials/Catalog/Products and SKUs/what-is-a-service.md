@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-16T17:24:14.979Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: what-is-a-service
+slugEN: what-is-a-service
 locale: en
 legacySlug: what-is-a-service
 subcategoryId: pwxWmUu7T222QyuGogs68

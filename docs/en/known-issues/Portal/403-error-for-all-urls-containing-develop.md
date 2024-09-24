@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: 403-error-for-all-urls-containing-develop
+slugEN: 403-error-for-all-urls-containing-develop
 locale: en
 kiStatus: Backlog
 internalReference: 975182

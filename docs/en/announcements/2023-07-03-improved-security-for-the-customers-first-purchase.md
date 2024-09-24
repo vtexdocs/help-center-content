@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: improved-security-for-the-customers-first-purchase
+slugEN: improved-security-for-the-customers-first-purchase
 locale: en
 legacySlug: improved-security-for-the-customers-first-purchase
 announcementImageID: ''

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: invisible-characters-in-category-names-cause-page-not-found-errors
+slugEN: invisible-characters-in-category-names-cause-page-not-found-errors
 locale: en
 kiStatus: Backlog
 internalReference: 1061149

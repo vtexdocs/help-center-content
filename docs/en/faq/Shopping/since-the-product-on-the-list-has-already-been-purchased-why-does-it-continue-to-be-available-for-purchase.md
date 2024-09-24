@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:01:46.303Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_3
-slug: since-the-product-on-the-list-has-already-been-purchased-why-does-it-continue-to-be-available-for-purchase
+slugEN: since-the-product-on-the-list-has-already-been-purchased-why-does-it-continue-to-be-available-for-purchase
 locale: en
 legacySlug: since-the-product-on-the-list-has-already-been-purchased-why-does-it-continue-to-be-available-for-purchase
 ---

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:01:53.698Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: what-is-a-seller
+slugEN: what-is-a-seller
 locale: en
 legacySlug: what-is-a-seller
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm

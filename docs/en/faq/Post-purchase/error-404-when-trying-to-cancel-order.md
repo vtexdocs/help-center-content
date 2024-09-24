@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-19T19:36:07.899Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_24
-slug: error-404-when-trying-to-cancel-order
+slugEN: error-404-when-trying-to-cancel-order
 locale: en
 legacySlug: error-404-when-trying-to-cancel-order
 ---

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-12-03T16:51:36.457Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: creating-a-campaign-audience
+slugEN: creating-a-campaign-audience
 locale: en
 legacySlug: creating-campaigns
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
@@ -66,7 +66,7 @@ After clicking `Create New Target Audience`, you must follow the instructions be
     * **or:** The campaign audience will consist of customers fitting any target audience.
     * **and:** The campaign audience will consist of customers fitting all the target audiences, summing up all their criteria.
 
-![publico-alvo-e-ou-en](https://images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/655312e51c8e30a847cb012d4382de39/en-publico-alvo.gif)
+![publico-alvo-e-ou-en](//images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/655312e51c8e30a847cb012d4382de39/en-publico-alvo.gif)
 
 ### Define your target audience
 
@@ -82,7 +82,7 @@ After clicking `Create New Target Audience`, you must follow the instructions be
 
 For example: The target audience includes items whose brand is **Nike**, as illustrated below. The configuration also indicates that at least 3 items must meet the criteria. Therefore, a customer must have at least **3** items in the shopping cart to be included in the target audience.
 
-![exemplo-marca-publico-alvo-en](https://images.ctfassets.net/alneenqid6w5/4Bot3XZUQJ4JkWJknpTxB2/7aeb73bd45e025ca84337c37d6800991/screencapture-lojadobreno-myvtex-admin-rnb-2022-07-21-18_10_40_1.png)
+![exemplo-marca-publico-alvo-en](//images.ctfassets.net/alneenqid6w5/4Bot3XZUQJ4JkWJknpTxB2/7aeb73bd45e025ca84337c37d6800991/screencapture-lojadobreno-myvtex-admin-rnb-2022-07-21-18_10_40_1.png)
 
 ### Conditions for your target audience to be applied
 

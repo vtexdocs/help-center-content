@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-28T18:37:55.622Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: configure-modal
+slugEN: configure-modal
 locale: en
 legacySlug: configure-modal
 subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi

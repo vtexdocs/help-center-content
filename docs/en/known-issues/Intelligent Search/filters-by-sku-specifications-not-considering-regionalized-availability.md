@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: filters-by-sku-specifications-not-considering-regionalized-availability
+slugEN: filters-by-sku-specifications-not-considering-regionalized-availability
 locale: en
 kiStatus: Backlog
 internalReference: 1045111

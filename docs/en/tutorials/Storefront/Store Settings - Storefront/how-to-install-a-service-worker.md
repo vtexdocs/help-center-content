@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-13T17:48:34.728Z
 contentType: tutorial
 productTeam: Financial
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: how-to-install-a-service-worker
+slugEN: how-to-install-a-service-worker
 locale: en
 legacySlug: how-to-install-a-service-worker
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc

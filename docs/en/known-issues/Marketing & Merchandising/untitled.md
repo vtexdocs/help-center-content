@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 
 tag: 
-slug: untitled
+slugEN: untitled
 locale: en
 kiStatus: 
 internalReference: 

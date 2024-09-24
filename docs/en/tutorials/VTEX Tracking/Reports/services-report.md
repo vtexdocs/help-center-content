@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-14T16:26:57.798Z
 contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: services-report
+slugEN: services-report
 locale: en
 legacySlug: services-report
 subcategoryId: 37YF86noTwhDdEuhUyW3LH

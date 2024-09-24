@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-14T15:58:19.843Z
 contentType: tutorial
 productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
-slug: how-to-use-masterdata-v2s-triggers-to-interact-with-orders
+slugEN: how-to-use-masterdata-v2s-triggers-to-interact-with-orders
 locale: en
 legacySlug: how-to-use-masterdata-v2s-triggers-to-interact-with-orders
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

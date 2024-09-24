@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: substitute-words-with-less-than-3-characters-does-not-work
+slugEN: substitute-words-with-less-than-3-characters-does-not-work
 locale: en
 kiStatus: No Fix
 internalReference: 282500

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: wrong-value-for-pricedefinition-in-the-chain-order-for-a-multilevel-marketplace
+slugEN: wrong-value-for-pricedefinition-in-the-chain-order-for-a-multilevel-marketplace
 locale: en
 kiStatus: Backlog
 internalReference: 663203

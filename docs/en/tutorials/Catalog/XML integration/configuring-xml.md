@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:10.195Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: configuring-xml
+slugEN: configuring-xml
 locale: en
 legacySlug: uploading-a-product-xml
 subcategoryId: 2OCA7SVfWoMSiAi0GEGwKo

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-10T17:21:25.523Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-multipago
+slugEN: setting-up-payments-with-multipago
 locale: en
 legacySlug: setting-up-payments-with-multipago
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-20T14:12:44.589Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-qhantuy
+slugEN: setting-up-payments-with-qhantuy
 locale: en
 legacySlug: setting-up-payments-with-qhantuy
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

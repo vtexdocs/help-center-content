@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method
+slugEN: checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method
 locale: es
 kiStatus: Backlog
 internalReference: 704699

@@ -9,7 +9,7 @@ firstPublishedAt: 2020-04-08T20:52:12.334Z
 contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
-slug: roles
+slugEN: roles
 locale: es
 legacySlug: como-crear-perfil-de-acceso, perfiles-de-acceso
 subcategoryId: 1HSqkejwuYcQSMC400uY84
@@ -24,7 +24,7 @@ En la página **Roles** puedes realizar las siguientes acciones:
 * [Editar rol](#editar-rol)
 * [Eliminar rol](#eliminar-rol)
 
-![roles-es](https://images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/61435c94a6654fd066e3b0f5f8cd2fd0/roles-es.png)
+![roles-es](//images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/61435c94a6654fd066e3b0f5f8cd2fd0/roles-es.png)
 
 La página muestra en formato de tabla una lista con todos los roles registrados en la cuenta y su respectiva información: 
 

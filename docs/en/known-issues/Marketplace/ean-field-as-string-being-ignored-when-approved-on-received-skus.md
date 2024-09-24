@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: ean-field-as-string-being-ignored-when-approved-on-received-skus
+slugEN: ean-field-as-string-being-ignored-when-approved-on-received-skus
 locale: en
 kiStatus: Backlog
 internalReference: 897301

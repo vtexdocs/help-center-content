@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:42.905Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_3
-slug: filtering-data-on-master-data
+slugEN: filtering-data-on-master-data
 locale: en
 legacySlug: filtering-data-on-master-data
 subcategoryId: WpbGhubuRZaNZilJSXnqu

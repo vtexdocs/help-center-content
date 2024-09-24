@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-20T20:56:01.437Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: faq-vtex-shipping-network
+slugEN: faq-vtex-shipping-network
 locale: pt
 legacySlug: faq-vtex-log
 ---

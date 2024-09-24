@@ -8,7 +8,7 @@ publishedAt: 2023-07-19T19:35:38.275Z
 firstPublishedAt: 2021-09-27T20:35:59.233Z
 contentType: trackArticle
 productTeam: Shopping
-slug: setting-up-credit-direct-sale
+slugEN: setting-up-credit-direct-sale
 locale: en
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: instore-payments

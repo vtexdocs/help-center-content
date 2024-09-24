@@ -8,7 +8,7 @@ publishedAt: 2021-11-17T18:09:13.896Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: pricing-v1-module-will-be-discontinued-update-your-store-by-september
+slugEN: pricing-v1-module-will-be-discontinued-update-your-store-by-september
 locale: en
 legacySlug: pricing-v1-module-will-be-discontinued-update-your-store-by-september
 announcementImageID: ''
@@ -31,7 +31,7 @@ To find out if your account is still using Pricing V1, follow the steps below:
 
 If you see a screen similar to the one below, it means that your account needs to migrate.
 
-![Tela pricing antiga - EN](https://images.ctfassets.net/alneenqid6w5/7wk5rGZNxCldv1KHUEUIFz/e3c41c74ab30125e804250a432eb95c0/Tela_pricing_antiga_-_EN.png)
+![Tela pricing antiga - EN](//images.ctfassets.net/alneenqid6w5/7wk5rGZNxCldv1KHUEUIFz/e3c41c74ab30125e804250a432eb95c0/Tela_pricing_antiga_-_EN.png)
 
 If your VTEX account still uses previous versions of the VTEX Admin (such as "vtexcommercestable"), it will also need to migrate. To do so, please follow the steps below:
 

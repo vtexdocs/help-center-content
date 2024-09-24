@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: automatic-translation-of-urls-not-occurring-due-to-special-characters
+slugEN: automatic-translation-of-urls-not-occurring-due-to-special-characters
 locale: en
 kiStatus: Backlog
 internalReference: 1062858

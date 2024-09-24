@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-16T18:09:11.291Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: how-does-the-score-field-work
+slugEN: how-does-the-score-field-work
 locale: en
 legacySlug: how-does-the-score-field-work
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-promotion-center
+slugEN: meli-promotion-center
 locale: en
 kiStatus: Backlog
 internalReference: 600922

@@ -8,7 +8,7 @@ publishedAt: 2021-04-09T13:56:32.437Z
 contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slug: new-tax-information-in-order-reports
+slugEN: new-tax-information-in-order-reports
 locale: en
 legacySlug: new-tax-information-in-order-reports
 announcementImageID: ''

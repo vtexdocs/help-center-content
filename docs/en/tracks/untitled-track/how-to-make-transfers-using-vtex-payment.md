@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: unknown
-slug: how-to-make-transfers-using-vtex-payment
+slugEN: how-to-make-transfers-using-vtex-payment
 locale: en
 trackId: 
 trackSlugEN: untitled-track

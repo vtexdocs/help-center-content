@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-17T18:30:56.599Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: changing-tracking-data
+slugEN: changing-tracking-data
 locale: en
 legacySlug: changing-tracking-data-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
@@ -38,4 +38,4 @@ To manually change an order's data, follow the steps below:
     * **Select carrier:** select which carrier will deliver the order.
 7. Click `Save`.
 
-![FaturaEN](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/1f68c545e4a42383d85aa82b7dd6ba96/FaturaEN.png)
+![FaturaEN](//images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/1f68c545e4a42383d85aa82b7dd6ba96/FaturaEN.png)

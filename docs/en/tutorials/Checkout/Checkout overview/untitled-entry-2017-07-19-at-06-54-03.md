@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:24:50.711Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_2
-slug: untitled-entry-2017-07-19-at-06-54-03
+slugEN: untitled-entry-2017-07-19-at-06-54-03
 locale: en
 legacySlug: untitled-entry-2017-07-19-at-06-54-03
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk

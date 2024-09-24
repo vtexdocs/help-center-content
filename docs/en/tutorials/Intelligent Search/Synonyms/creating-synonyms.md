@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-27T16:37:25.800Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: creating-synonyms
+slugEN: creating-synonyms
 locale: en
 legacySlug: configuring-synonyms
 subcategoryId: BBzMtJan1UTxC9QZODnlN

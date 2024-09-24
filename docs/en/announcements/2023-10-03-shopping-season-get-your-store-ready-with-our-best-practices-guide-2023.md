@@ -8,7 +8,7 @@ publishedAt: 2023-11-17T19:45:14.488Z
 contentType: updates
 productTeam: Others
 author: 1u80f14cWqneWquMc8tUq1
-slug: shopping-season-get-your-store-ready-with-our-best-practices-guide-2023
+slugEN: shopping-season-get-your-store-ready-with-our-best-practices-guide-2023
 locale: en
 legacySlug: 
 announcementImageID: ''
@@ -27,4 +27,4 @@ https://{accountName}.myvtex.com/admin/shopping-season
 
 Simply replace `{accountName}` with your store's Account Name, as in the image below.
 
-![Shopping Season Guidelines - 2023 - EN](https://images.ctfassets.net/alneenqid6w5/53t6AKSniwItQHaG5qalil/0dbbce1dd40337f020fbcd57833af2fc/Shopping_Season_Guidelines_-_2023_-_EN.png)
+![Shopping Season Guidelines - 2023 - EN](//images.ctfassets.net/alneenqid6w5/53t6AKSniwItQHaG5qalil/0dbbce1dd40337f020fbcd57833af2fc/Shopping_Season_Guidelines_-_2023_-_EN.png)

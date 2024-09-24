@@ -9,7 +9,7 @@ firstPublishedAt: 2023-05-26T17:46:59.436Z
 contentType: tutorial
 productTeam: B2B
 author: 5l3eEiSz8MpcppCxcnijGz
-slug: vtex-insurance
+slugEN: vtex-insurance
 locale: pt
 legacySlug: vtex-insurance
 subcategoryId: unknown-subcategory
@@ -55,7 +55,7 @@ Após a instalação do VTEX Insurance, é necessário realizar a preparação d
 5. Após a criação do campo **Garantia do Fabricante**, defina o período desejado de garantia. No campo **Valor Padrão**, é recomendado o valor 12, representando um período de 12 meses.
 6. [Crie uma categoria](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3UYjVS03JbleGPh0Ckpic1?&utm_source=autocomplete) específica para o produto de seguro.
 7. [Crie o produto](https://help.vtex.com/pt/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By?&utm_source=autocomplete#criar-produto) de seguro.
-8. [Crie SKUs](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) de seguro. É recomendada a criação de mais de três SKUs para cada seguro.![Insurance - SKUs](https://images.ctfassets.net/alneenqid6w5/7z6EX1cFT3l5wmnlX5LQk1/763ed10aa72e1f453bca4e858b4347e1/image1.png)
+8. [Crie SKUs](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) de seguro. É recomendada a criação de mais de três SKUs para cada seguro.![Insurance - SKUs](//images.ctfassets.net/alneenqid6w5/7z6EX1cFT3l5wmnlX5LQk1/763ed10aa72e1f453bca4e858b4347e1/image1.png)
 9. [Vincule os SKUs criados](https://help.vtex.com/pt/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX?&utm_source=autocomplete) com o seller da Assurant.
 10.  [Vincule o seguro com o produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#preencher-especificacoes-de-produto) desejado.
 
@@ -67,7 +67,7 @@ Após a preparação do catálogo, sua loja já tem o vínculo do seguro com os 
 Siga os passos abaixo para configurar seu app VTEX Insurance.
 
 ### Company Information
-1. ![Insurance Configuration](https://images.ctfassets.net/alneenqid6w5/27tKnogbpFLSaeGPW4OnkZ/343aefaafe713ae74ab488f87caf4b55/image5.png)
+1. ![Insurance Configuration](//images.ctfassets.net/alneenqid6w5/27tKnogbpFLSaeGPW4OnkZ/343aefaafe713ae74ab488f87caf4b55/image5.png)
 1. Preencha a seção com as seguintes informações:
 
 - **Email**: email da loja.
@@ -83,7 +83,7 @@ Siga os passos abaixo para configurar seu app VTEX Insurance.
 2. Clique em `Submit`.
 
 ### Items bound to insurance items
-![Items Bound to Source Items](https://images.ctfassets.net/alneenqid6w5/6E68A1BaKeUzAgZuzD7KIY/e55e7f2af44167b5885af398cfda7637/image6.png)
+![Items Bound to Source Items](//images.ctfassets.net/alneenqid6w5/6E68A1BaKeUzAgZuzD7KIY/e55e7f2af44167b5885af398cfda7637/image6.png)
 
 1. Selecione os códigos que representam os tipos de seguro desejados para a coleção criada. 
 2. Vincule os SKUs criados com os planos de seguro: você deverá incluir o plano de seguro seguido pelo SKU ID.
@@ -92,13 +92,13 @@ Se desejar vincular mais de um plano de seguro, como o de **Roubo e Furto Qualif
 3. Clique em `Submit`.      
 
 ### Warranty field name
-![Warranty Field Name](https://images.ctfassets.net/alneenqid6w5/215SqlxeJ3yFSZjfGnuJRl/441c24ddc67aa0182fbaad41b6ca4f86/image2.png)
+![Warranty Field Name](//images.ctfassets.net/alneenqid6w5/215SqlxeJ3yFSZjfGnuJRl/441c24ddc67aa0182fbaad41b6ca4f86/image2.png)
 
 1. Especifique o campo de garantia do fabricante, indicando o nome da garantia utilizada no catálogo.
 2. Clique em `Submit`.
 
 ### Insurance attachment setup
-![Attachement Setup](https://images.ctfassets.net/alneenqid6w5/7wpyDOdmdsK2VqOOUbqrfr/976dc38542cfe701e45e8ce0eec936b1/image7.png)
+![Attachement Setup](//images.ctfassets.net/alneenqid6w5/7wpyDOdmdsK2VqOOUbqrfr/976dc38542cfe701e45e8ce0eec936b1/image7.png)
 
 1. [Crie um anexo](https://help.vtex.com/pt/tutorial/cadastrar-um-anexo) para a Assurant com as informações recebidas pelo suporte na contratação do serviço.
 2. Em **Seguro > Configuração**, clique em `Add attachment` na seção **Insurance** **attachment setup**.
@@ -107,7 +107,7 @@ Se desejar vincular mais de um plano de seguro, como o de **Roubo e Furto Qualif
 5. Clique em `Salvar`.
 
 ### Manual pricing setup
-![Manual Pricing](https://images.ctfassets.net/alneenqid6w5/a1wDUYo5UhkR09keQU6WG/59f5683a077151a789969ff64b7b5aac/image4.png)
+![Manual Pricing](//images.ctfassets.net/alneenqid6w5/a1wDUYo5UhkR09keQU6WG/59f5683a077151a789969ff64b7b5aac/image4.png)
 
 1. Ative o manual pricing na sua loja.
 2. Clique em `Done, next`.

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: faststore-pdps-are-not-regionalized
+slugEN: faststore-pdps-are-not-regionalized
 locale: en
 kiStatus: Backlog
 internalReference: 1088656

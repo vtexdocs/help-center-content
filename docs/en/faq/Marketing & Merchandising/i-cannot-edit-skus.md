@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-22T16:45:47.269Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: i-cannot-edit-skus
+slugEN: i-cannot-edit-skus
 locale: en
 legacySlug: i-cannot-edit-skus
 ---

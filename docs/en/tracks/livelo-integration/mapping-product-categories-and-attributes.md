@@ -8,7 +8,7 @@ publishedAt: 2024-09-04T14:02:21.943Z
 firstPublishedAt: 2023-08-11T01:56:55.281Z
 contentType: trackArticle
 productTeam: Channels
-slug: mapping-product-categories-and-attributes
+slugEN: mapping-product-categories-and-attributes
 locale: en
 trackId: 4ZSHEiuTkh8HR9ubJQj8BP
 trackSlugEN: livelo-integration

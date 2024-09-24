@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: tracking-error
+slugEN: tracking-error
 locale: en
 kiStatus: Backlog
 internalReference: 514557

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-04T15:29:23.002Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-bcash-gateway
+slugEN: setting-up-bcash-gateway
 locale: en
 legacySlug: setting-up-bcash-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-04T14:22:23.591Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: register-tracking-on-the-tax-receipt
+slugEN: register-tracking-on-the-tax-receipt
 locale: en
 legacySlug: register-tracking-on-the-tax-receipt
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

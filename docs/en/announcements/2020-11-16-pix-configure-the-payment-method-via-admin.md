@@ -8,7 +8,7 @@ publishedAt: 2020-11-16T12:09:19.870Z
 contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: pix-configure-the-payment-method-via-admin
+slugEN: pix-configure-the-payment-method-via-admin
 locale: en
 legacySlug: pix-configure-the-payment-method-via-admin
 announcementImageID: ''

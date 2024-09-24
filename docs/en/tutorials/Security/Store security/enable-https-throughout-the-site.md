@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-19T00:17:36.439Z
 contentType: tutorial
 productTeam: Reliability
 author: authors_4
-slug: enable-https-throughout-the-site
+slugEN: enable-https-throughout-the-site
 locale: en
 legacySlug: enable-https-throughout-the-site
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
@@ -39,7 +39,7 @@ These HTTP requests are:: references to images, CSS files, JS and any resource t
 
 - Calling a script with the following snippet would result in problems: `<script src="http://www.site.com/arquivos/funcao.js"></script>`
 - The correct implementation would be: `<script src="https://www.site.com/arquivos/funcao.js"></script>`
-- You can also use the relative protocol, in order to follow the same one in which the page is accessed: `<script src="https://www.site.com/arquivos/funcao.js"></script>`
+- You can also use the relative protocol, in order to follow the same one in which the page is accessed: `<script src="//www.site.com/arquivos/funcao.js"></script>`
 - For files hosted on VTEX the following format must always be used, which relates to the protocol and to the domain accessed: `<script src="/arquivos/funcao.js"></script>`
 
 **Caution:** to call external routes to VTEX, first check whether the destination supports HTTPS.

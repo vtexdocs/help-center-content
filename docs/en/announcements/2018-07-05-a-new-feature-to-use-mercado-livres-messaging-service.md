@@ -8,7 +8,7 @@ publishedAt: 2020-08-17T22:18:27.674Z
 contentType: updates
 productTeam: Channels
 author: authors_24
-slug: a-new-feature-to-use-mercado-livres-messaging-service
+slugEN: a-new-feature-to-use-mercado-livres-messaging-service
 locale: en
 legacySlug: a-new-feature-to-use-mercado-livres-messaging-service
 announcementImageID: ''

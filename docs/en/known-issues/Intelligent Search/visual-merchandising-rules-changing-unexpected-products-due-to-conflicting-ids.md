@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: visual-merchandising-rules-changing-unexpected-products-due-to-conflicting-ids
+slugEN: visual-merchandising-rules-changing-unexpected-products-due-to-conflicting-ids
 locale: en
 kiStatus: Backlog
 internalReference: 1092750

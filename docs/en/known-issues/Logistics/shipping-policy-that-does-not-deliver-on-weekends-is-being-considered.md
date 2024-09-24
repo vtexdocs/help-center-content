@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: shipping-policy-that-does-not-deliver-on-weekends-is-being-considered
+slugEN: shipping-policy-that-does-not-deliver-on-weekends-is-being-considered
 locale: en
 kiStatus: No Fix
 internalReference: 594828

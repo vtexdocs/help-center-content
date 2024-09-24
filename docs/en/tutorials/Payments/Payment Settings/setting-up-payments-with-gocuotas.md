@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-29T11:39:03.239Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-gocuotas
+slugEN: setting-up-payments-with-gocuotas
 locale: en
 legacySlug: setting-up-payments-with-gocuotas
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

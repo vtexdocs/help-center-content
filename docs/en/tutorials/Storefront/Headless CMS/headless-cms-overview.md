@@ -9,7 +9,7 @@ firstPublishedAt: 2023-12-18T13:33:50.044Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: headless-cms-overview
+slugEN: headless-cms-overview
 locale: en
 legacySlug: headless-cms-overview
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
@@ -35,7 +35,7 @@ The headless CMS allows you to:
 
 [Projects](https://help.vtex.com/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) is a feature in Headless CMS that allows you to create and manage multiple frontend projects like mobile apps, websites, and email marketing from a single control panel.
 
-![Projects pages](https://images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/9d484d193a357cf0a0ac5e8a3aa16e9a/projects-one-en.gif)
+![Projects pages](//images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/9d484d193a357cf0a0ac5e8a3aa16e9a/projects-one-en.gif)
 
 For more information, refer to [Managing Projects](https://help.vtex.com/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM). 
 

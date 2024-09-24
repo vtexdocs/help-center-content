@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: it-is-not-possible-to-cancel-a-transaction-with-maxipago
+slugEN: it-is-not-possible-to-cancel-a-transaction-with-maxipago
 locale: es
 kiStatus: Backlog
 internalReference: 507480

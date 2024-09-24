@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: get-sku-by-ean-api-returns-only-active-skus
+slugEN: get-sku-by-ean-api-returns-only-active-skus
 locale: en
 kiStatus: Fixed
 internalReference: 699007

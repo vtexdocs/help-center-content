@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-01T21:57:47.670Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: how-does-the-delivery-flow-work
+slugEN: how-does-the-delivery-flow-work
 locale: en
 legacySlug: how-does-the-delivery-flow-work
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
@@ -27,4 +27,4 @@ VTEX platform gives you the freedom to use these settings in a variety of ways, 
 
 But for now, let's stick to the most basic scenario, illustrated by the image below:
 
-![Logistics Concept English](https://images.ctfassets.net/alneenqid6w5/4dxX4SvwV2SuCekgeM480w/2a69059d4efd30c0610ef04df02cc49c/Component__19_.png)
+![Logistics Concept English](//images.ctfassets.net/alneenqid6w5/4dxX4SvwV2SuCekgeM480w/2a69059d4efd30c0610ef04df02cc49c/Component__19_.png)

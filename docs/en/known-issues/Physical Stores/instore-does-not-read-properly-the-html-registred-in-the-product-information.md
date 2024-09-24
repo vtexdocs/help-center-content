@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Physical Stores
 author: 2mXZkbi0oi061KicTExNjo
 tag: Physical Stores
-slug: instore-does-not-read-properly-the-html-registred-in-the-product-information
+slugEN: instore-does-not-read-properly-the-html-registred-in-the-product-information
 locale: en
 kiStatus: Backlog
 internalReference: 718136

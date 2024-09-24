@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T17:47:24.530Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: change-seller-of-an-vtex-sales-app-order-beta
+slugEN: change-seller-of-an-vtex-sales-app-order-beta
 locale: en
 legacySlug: change-seller-of-an-instore-order-beta
 subcategoryId: 5SE2asHiQtHKfbnFru8RWH

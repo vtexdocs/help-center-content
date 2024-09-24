@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-17T12:07:02.897Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slug: telesales-features
+slugEN: telesales-features
 locale: en
 legacySlug: telesales-features
 subcategoryId: 6SEjoixhY5LlA7G15W6oZS

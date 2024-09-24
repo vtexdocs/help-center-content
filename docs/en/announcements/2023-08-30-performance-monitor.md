@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: unknown
 author: 
-slug: performance-monitor
+slugEN: performance-monitor
 locale: en
 legacySlug: performance-monitor
 announcementImageID: ''

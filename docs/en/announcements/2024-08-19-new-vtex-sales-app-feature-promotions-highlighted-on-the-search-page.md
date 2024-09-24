@@ -8,7 +8,7 @@ publishedAt: 2024-08-20T14:01:01.098Z
 contentType: updates
 productTeam: Shopping
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: new-vtex-sales-app-feature-promotions-highlighted-on-the-search-page
+slugEN: new-vtex-sales-app-feature-promotions-highlighted-on-the-search-page
 locale: en
 legacySlug: new-vtex-sales-app-feature-promotions-highlighted-on-the-search-page
 announcementImageID: ''

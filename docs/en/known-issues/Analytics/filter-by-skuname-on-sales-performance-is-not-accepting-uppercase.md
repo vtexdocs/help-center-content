@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
-slug: filter-by-skuname-on-sales-performance-is-not-accepting-uppercase
+slugEN: filter-by-skuname-on-sales-performance-is-not-accepting-uppercase
 locale: en
 kiStatus: No Fix
 internalReference: 639219

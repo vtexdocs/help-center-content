@@ -8,7 +8,7 @@ publishedAt: 2022-07-25T18:26:21.710Z
 contentType: updates
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: the-vtex-admin-is-now-available-in-thai
+slugEN: the-vtex-admin-is-now-available-in-thai
 locale: en
 legacySlug: the-vtex-admin-is-now-available-in-thai
 announcementImageID: ''

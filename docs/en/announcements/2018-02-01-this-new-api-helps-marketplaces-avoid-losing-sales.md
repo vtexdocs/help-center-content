@@ -8,7 +8,7 @@ publishedAt: 2021-08-30T17:48:30.491Z
 contentType: updates
 productTeam: Channels
 author: authors_24
-slug: this-new-api-helps-marketplaces-avoid-losing-sales
+slugEN: this-new-api-helps-marketplaces-avoid-losing-sales
 locale: en
 legacySlug: this-new-api-helps-marketplaces-avoid-losing-sales
 announcementImageID: ''

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T11:54:09.728Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: how-to-edit-a-whatsapp-link
+slugEN: how-to-edit-a-whatsapp-link
 locale: en
 legacySlug: how-to-edit-a-whatsapp-link
 ---

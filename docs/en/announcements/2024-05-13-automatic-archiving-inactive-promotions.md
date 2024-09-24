@@ -8,7 +8,7 @@ publishedAt: 2024-05-20T12:14:24.232Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: automatic-archiving-inactive-promotions
+slugEN: automatic-archiving-inactive-promotions
 locale: en
 legacySlug: automatic-archiving-inactive-promotions
 announcementImageID: ''

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: the-issuing-bank-special-condition-is-causing-for-some-bins-the-error-on-checkout-page-issuer-bank-for-this-bank-is-not-accepted
+slugEN: the-issuing-bank-special-condition-is-causing-for-some-bins-the-error-on-checkout-page-issuer-bank-for-this-bank-is-not-accepted
 locale: en
 kiStatus: Backlog
 internalReference: 391549

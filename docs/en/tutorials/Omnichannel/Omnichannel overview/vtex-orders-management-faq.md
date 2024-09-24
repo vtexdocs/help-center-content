@@ -9,7 +9,7 @@ firstPublishedAt: 2018-07-20T19:26:49.496Z
 contentType: tutorial
 productTeam: Post-purchase
 author: D0eIlynYFqaWQOMM6mmY6
-slug: vtex-orders-management-faq
+slugEN: vtex-orders-management-faq
 locale: en
 legacySlug: vtex-oms-faq
 subcategoryId: 3vhg10rO4MSmy06KeIYMIa

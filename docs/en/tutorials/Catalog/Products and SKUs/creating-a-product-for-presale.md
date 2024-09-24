@@ -9,7 +9,7 @@ firstPublishedAt: 2021-09-14T16:54:57.039Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: creating-a-product-for-presale
+slugEN: creating-a-product-for-presale
 locale: en
 legacySlug: creating-a-product-for-presale
 subcategoryId: pwxWmUu7T222QyuGogs68

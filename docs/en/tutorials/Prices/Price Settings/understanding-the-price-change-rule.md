@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:42.161Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: understanding-the-price-change-rule
+slugEN: understanding-the-price-change-rule
 locale: en
 legacySlug: understanding-the-price-change-rule
 subcategoryId: 3O1NvPgBPqE0qU88MSQaie
@@ -26,6 +26,6 @@ All other options to update prices will also be blocked.
 
 The price limits percentages can be removed or redefined by accessing the __Settings__ tab on the __Prices__ module. 
 
-![trava-variação-preço en](https://images.ctfassets.net/alneenqid6w5/7q0Dp7AIQokuGIGcIKOmqm/e1798e4757cba658c2dd5b5bde1a69bf/trava-varia____o-pre__o_en.png)
+![trava-variação-preço en](//images.ctfassets.net/alneenqid6w5/7q0Dp7AIQokuGIGcIKOmqm/e1798e4757cba658c2dd5b5bde1a69bf/trava-varia____o-pre__o_en.png)
 
 Some marketplaces also have this price variation limit. If you wish to change prices beyond the limit ranges, contact the marketplace asking for the change.

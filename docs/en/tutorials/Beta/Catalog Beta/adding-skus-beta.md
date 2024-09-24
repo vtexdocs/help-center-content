@@ -9,7 +9,7 @@ firstPublishedAt: 2024-08-29T19:28:11.129Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: adding-skus-beta
+slugEN: adding-skus-beta
 locale: en
 legacySlug: adding-skus-beta
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c

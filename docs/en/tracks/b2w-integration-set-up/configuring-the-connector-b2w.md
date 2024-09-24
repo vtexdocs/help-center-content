@@ -8,7 +8,7 @@ publishedAt: 2024-07-02T19:23:01.065Z
 firstPublishedAt: 2018-09-27T22:41:30.135Z
 contentType: trackArticle
 productTeam: Channels
-slug: configuring-the-connector-b2w
+slugEN: configuring-the-connector-b2w
 locale: en
 trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugEN: b2w-integration-set-up

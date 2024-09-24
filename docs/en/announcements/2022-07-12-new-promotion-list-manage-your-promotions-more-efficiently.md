@@ -8,7 +8,7 @@ publishedAt: 2022-07-27T11:00:51.505Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: new-promotion-list-manage-your-promotions-more-efficiently
+slugEN: new-promotion-list-manage-your-promotions-more-efficiently
 locale: en
 legacySlug: new-promotion-list-manage-your-promotions-more-efficiently
 announcementImageID: ''
@@ -30,7 +30,7 @@ We developed a new interface for the Promotion List, which includes:
 * Exporting your active promotions list.
 * Duplicating active or archived promotions for a faster creation process.
 
-![lista-promocoes-en](https://images.ctfassets.net/alneenqid6w5/5J9dSnkUhLm1gTUjhUftrP/f08b0d232c4b386e29cc75c436f91471/promotions-list-en.PNG)
+![lista-promocoes-en](//images.ctfassets.net/alneenqid6w5/5J9dSnkUhLm1gTUjhUftrP/f08b0d232c4b386e29cc75c436f91471/promotions-list-en.PNG)
 
 ## Why did we make this change?
 

@@ -8,7 +8,7 @@ publishedAt: 2020-06-18T22:56:50.823Z
 contentType: updates
 productTeam: Channels
 author: 56yU9Wz6mLwmzo82TjgAHy
-slug: category-mapping-now-required-for-via-varejo-marketplace
+slugEN: category-mapping-now-required-for-via-varejo-marketplace
 locale: en
 legacySlug: changes-in-via-varejo-product-integration
 announcementImageID: ''

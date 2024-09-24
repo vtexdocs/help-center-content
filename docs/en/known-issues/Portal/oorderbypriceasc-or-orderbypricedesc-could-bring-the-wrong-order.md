@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: oorderbypriceasc-or-orderbypricedesc-could-bring-the-wrong-order
+slugEN: oorderbypriceasc-or-orderbypricedesc-could-bring-the-wrong-order
 locale: en
 kiStatus: Backlog
 internalReference: 582861

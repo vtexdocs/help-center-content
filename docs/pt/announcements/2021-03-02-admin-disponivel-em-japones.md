@@ -8,7 +8,7 @@ publishedAt: 2021-03-05T18:10:09.715Z
 contentType: updates
 productTeam: Others
 author: 5WE9zkDdoqqUMRbxIgmp1o
-slug: admin-disponivel-em-japones
+slugEN: admin-disponivel-em-japones
 locale: pt
 legacySlug: konnichiwa-admin-agora-disponivel-em-japones
 announcementImageID: ''
@@ -25,4 +25,4 @@ A tradução do Admin para o japonês foi incentivada pela [abertura do nosso no
 
 ## O que precisa ser feito?
 Para visualizar o Admin em japonês, basta selecionar o código __JP__ no menu de seleção de idiomas no canto superior direito da tela. 
-![ Selecionar o código JP](https://images.ctfassets.net/alneenqid6w5/4rQI0Nb2Bmz6P6dQs3Bixv/900a9b6d702feaa51ea2d582354165a4/japones.png)
+![ Selecionar o código JP](//images.ctfassets.net/alneenqid6w5/4rQI0Nb2Bmz6P6dQs3Bixv/900a9b6d702feaa51ea2d582354165a4/japones.png)

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:18.953Z
 contentType: tutorial
 productTeam: Identity
 author: authors_2
-slug: account-management
+slugEN: account-management
 locale: en
 legacySlug: how-to-manage-accounts
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
@@ -79,7 +79,7 @@ After a user has filled in and saved the **Name** and **E-mail** in the contacts
 
 >ℹ️ The template for this automatic email can be changed in the [Message Center](https://help.vtex.com/en/tutorial/understanding-the-message-center--tutorials_84) by modifying the <i>account registration</i> template.
 
-![account registration](https://images.ctfassets.net/alneenqid6w5/I0CttFz6ayQW2Q8uOkKmc/19184a55a9a8de5cb3e04088251a9c93/account_registration.jpg)
+![account registration](//images.ctfassets.net/alneenqid6w5/I0CttFz6ayQW2Q8uOkKmc/19184a55a9a8de5cb3e04088251a9c93/account_registration.jpg)
 
 ## Security
 

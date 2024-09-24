@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: xml-installment-currency-does-not-apply
+slugEN: xml-installment-currency-does-not-apply
 locale: en
 kiStatus: No Fix
 internalReference: 976295

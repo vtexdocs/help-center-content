@@ -8,7 +8,7 @@ publishedAt: 2020-09-15T19:52:51.541Z
 firstPublishedAt: 2018-10-30T23:00:53.240Z
 contentType: trackArticle
 productTeam: Channels
-slug: setting-up-a-smart-campaign
+slugEN: setting-up-a-smart-campaign
 locale: en
 trackId: 47kz5PRQPK0IEaqGqiIuA
 trackSlugEN: how-to-campaign-through-google-ads

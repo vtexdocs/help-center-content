@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: when-an-error-occurs-after-firstdata-approves-a-settlement-the-transaction-cannot-be-completed
+slugEN: when-an-error-occurs-after-firstdata-approves-a-settlement-the-transaction-cannot-be-completed
 locale: en
 kiStatus: Backlog
 internalReference: 760458

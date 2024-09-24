@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-translations-not-reflecting-on-the-frontend
+slugEN: catalog-translations-not-reflecting-on-the-frontend
 locale: en
 kiStatus: Backlog
 internalReference: 861892

@@ -3,13 +3,13 @@ title: 'Promotions Data Pipeline '
 id: 3WZ1syNucDFdvVhfKtA6Qd
 status: PUBLISHED
 createdAt: 2024-02-02T18:02:01.395Z
-updatedAt: 2024-09-02T19:28:12.860Z
-publishedAt: 2024-09-02T19:28:12.860Z
+updatedAt: 2024-09-13T17:33:13.910Z
+publishedAt: 2024-09-13T17:33:13.910Z
 firstPublishedAt: 2024-05-27T19:26:59.739Z
 contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: promotions
+slugEN: promotions
 locale: en
 legacySlug: promotions
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
@@ -105,4 +105,6 @@ The promotion dataset has key relationships with other datasets, some of which a
 - [Orders](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
 - [Payments](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
 - [Prices](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz) 
+- [Gift cards](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Bridge logs](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
 

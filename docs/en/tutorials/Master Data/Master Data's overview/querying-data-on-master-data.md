@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:15:53.412Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_64
-slug: querying-data-on-master-data
+slugEN: querying-data-on-master-data
 locale: en
 legacySlug: querying-data-on-master-data
 subcategoryId: 5gtjaqCG7eIseyCI0aSqc2

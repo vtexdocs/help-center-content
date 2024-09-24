@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:05:49.842Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-create-a-development-environment-with-a-mobile-version
+slugEN: how-to-create-a-development-environment-with-a-mobile-version
 locale: en
 legacySlug: how-to-create-a-development-environment-with-a-mobile-version
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -38,7 +38,7 @@ To develop a mobile version for a new website, you must proceed as follows:
 
 Storefront > Layout > CMS folder > Sites and Channels > New Website
 
-![cms-new-website](https://images.ctfassets.net/alneenqid6w5/62XyLdvzwsQaESok6EmUG8/e8a4597bed1e50d5ce24f350d46be96b/New_website.png)
+![cms-new-website](//images.ctfassets.net/alneenqid6w5/62XyLdvzwsQaESok6EmUG8/e8a4597bed1e50d5ce24f350d46be96b/New_website.png)
 
 3. Create a folder structure for the Mobile website: at this stage, you will have to create the default system folders to be used in the mobile version (search, department, category, brand, product etc.)
 

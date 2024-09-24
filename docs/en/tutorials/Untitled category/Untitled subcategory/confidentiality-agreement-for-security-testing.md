@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: confidentiality-agreement-for-security-testing
+slugEN: confidentiality-agreement-for-security-testing
 locale: en
 legacySlug: confidentiality-agreement-for-security-testing
 subcategoryId: unknown-subcategory

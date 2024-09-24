@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-03-15T21:35:36.645Z
 contentType: trackArticle
 productTeam: Shopping
-slug: registering-the-skus-barcodes-for-instore
+slugEN: registering-the-skus-barcodes-for-instore
 locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup

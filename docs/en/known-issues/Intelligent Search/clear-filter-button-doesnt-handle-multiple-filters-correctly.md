@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: clear-filter-button-doesnt-handle-multiple-filters-correctly
+slugEN: clear-filter-button-doesnt-handle-multiple-filters-correctly
 locale: en
 kiStatus: Backlog
 internalReference: 960905

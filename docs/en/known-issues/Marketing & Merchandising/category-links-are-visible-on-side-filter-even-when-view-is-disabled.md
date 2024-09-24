@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: category-links-are-visible-on-side-filter-even-when-view-is-disabled
+slugEN: category-links-are-visible-on-side-filter-even-when-view-is-disabled
 locale: en
 kiStatus: Backlog
 internalReference: 

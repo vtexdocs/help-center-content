@@ -8,7 +8,7 @@ publishedAt: 2020-02-20T18:38:20.999Z
 contentType: updates
 productTeam: Master Data
 author: authors_24
-slug: new-master-data-API-increases-configuration-flexibility
+slugEN: new-master-data-API-increases-configuration-flexibility
 locale: en
 legacySlug: new-master-data-api-improves-setup-flexibility
 announcementImageID: ''

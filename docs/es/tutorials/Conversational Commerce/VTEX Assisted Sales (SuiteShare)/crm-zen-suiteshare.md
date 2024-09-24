@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T21:29:58.342Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: crm-zen-suiteshare
+slugEN: crm-zen-suiteshare
 locale: es
 legacySlug: crm-zen-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

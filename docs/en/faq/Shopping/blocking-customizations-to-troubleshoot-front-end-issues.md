@@ -9,7 +9,7 @@ firstPublishedAt: 2020-04-20T13:31:24.105Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 4iKDU1m0huXy1qFWff7vY5
-slug: blocking-customizations-to-troubleshoot-front-end-issues
+slugEN: blocking-customizations-to-troubleshoot-front-end-issues
 locale: en
 legacySlug: como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja
 ---
@@ -24,15 +24,15 @@ To do that, we will show you how to remove the customizations using a Chrome nat
 
 1. To open DevTools, open Chrome and click **F12** or **right-click** anywhere on the page and select **Inspect**.
 
-![Customizations1](https://images.ctfassets.net/alneenqid6w5/3fMKFRgHKwCa8dlwcMbnDk/6e445678697a809650b9185adb0df631/Customizations1.png)
+![Customizations1](//images.ctfassets.net/alneenqid6w5/3fMKFRgHKwCa8dlwcMbnDk/6e445678697a809650b9185adb0df631/Customizations1.png)
 
 2. Search for the **Request Blocking** function to block all customizations made via CSS, JavaScript, and Google Tag Manager. Click on the three vertical dots on the top right of the page, as indicated in the image below. Select **More Tools** and then **Request Blocking**.
 
-![Customizations2](https://images.ctfassets.net/alneenqid6w5/7wjDCIMx0j0VMLFBlJs4x3/e04f5f48d28ddfa160f977371972549d/Customizations2.png)
+![Customizations2](//images.ctfassets.net/alneenqid6w5/7wjDCIMx0j0VMLFBlJs4x3/e04f5f48d28ddfa160f977371972549d/Customizations2.png)
 
 3. A box will be displayed, as in the image below:
 
-![Customizations3](https://images.ctfassets.net/alneenqid6w5/1oi04fyBlkMVmio4LtMVcv/973bf322f246e2a24eb89ac9de9e449e/Customizations3.png)
+![Customizations3](//images.ctfassets.net/alneenqid6w5/1oi04fyBlkMVmio4LtMVcv/973bf322f246e2a24eb89ac9de9e449e/Customizations3.png)
 
 4. Click on the **Request Blocking** tab.
 
@@ -47,7 +47,7 @@ Now you will determine the features you want to block. This configuration must b
 
 The box will finally be displayed as in the image below:
 
-![Customizations4](https://images.ctfassets.net/alneenqid6w5/49opNOaTq3t2xJ2HpAnuo1/61f32fd8a4c49715c4c1bc95f0ee1e8d/Customizations4.png)
+![Customizations4](//images.ctfassets.net/alneenqid6w5/49opNOaTq3t2xJ2HpAnuo1/61f32fd8a4c49715c4c1bc95f0ee1e8d/Customizations4.png)
 
 Please remember that this configuration must be done only __once__.
 
@@ -57,11 +57,11 @@ Please remember that this configuration must be done only __once__.
 
 2. This configuration will be set by default, with all options for blocking enabled.
 
-![Customizations5](https://images.ctfassets.net/alneenqid6w5/McVb5AEghRIe3tpl1dWGr/5e1881a4a781880dd31eea0938b1ab01/Customizations5.png)
+![Customizations5](//images.ctfassets.net/alneenqid6w5/McVb5AEghRIe3tpl1dWGr/5e1881a4a781880dd31eea0938b1ab01/Customizations5.png)
 
 3. Now refresh the page by clicking on **F5**. The page will be displayed without custom components.
 
-![Customizations6](https://images.ctfassets.net/alneenqid6w5/5MOuqKoGsMU8QpvoR03n9Y/5ca0038583837708383438479a6ead23/Customizations6.png)
+![Customizations6](//images.ctfassets.net/alneenqid6w5/5MOuqKoGsMU8QpvoR03n9Y/5ca0038583837708383438479a6ead23/Customizations6.png)
 
 4. To view customizations again, deselect the checkbox **Enable request blocking** and refresh the page.
 

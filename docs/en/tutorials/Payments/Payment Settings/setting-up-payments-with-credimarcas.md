@@ -9,7 +9,7 @@ firstPublishedAt: 2023-12-18T14:09:15.538Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-credimarcas
+slugEN: setting-up-payments-with-credimarcas
 locale: en
 legacySlug: setting-up-payments-with-credimarcas
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

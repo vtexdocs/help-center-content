@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-11T14:17:31.484Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-msc-payment
+slugEN: setting-up-payments-with-msc-payment
 locale: en
 legacySlug: setting-up-payments-with-msc-payment
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

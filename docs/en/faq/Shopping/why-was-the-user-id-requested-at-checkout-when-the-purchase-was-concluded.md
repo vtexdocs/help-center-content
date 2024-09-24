@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:37.271Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_3
-slug: why-was-the-user-id-requested-at-checkout-when-the-purchase-was-concluded
+slugEN: why-was-the-user-id-requested-at-checkout-when-the-purchase-was-concluded
 locale: en
 legacySlug: why-was-the-user-id-requested-at-checkout-when-the-purchase-was-concluded
 ---
@@ -18,7 +18,7 @@ A security rule exists at checkout, regarding SmartCheckout purchase facility.
 
 Since with SmartCheckout purchases can be closed just with the email and with the CVV of the card, where the customer has already completed the purchase before, we restrict the number of unsuccessful attempts to conclude the purchase to 3 before asking the customer for their user ID.
 
-![LoginEN](https://images.ctfassets.net/alneenqid6w5/FeavXteriS8e4sUYiccgG/fdc93275e4e4145405e95b9e57ab6e4a/LoginEN.png)
+![LoginEN](//images.ctfassets.net/alneenqid6w5/FeavXteriS8e4sUYiccgG/fdc93275e4e4145405e95b9e57ab6e4a/LoginEN.png)
 
 In other words, if the customer concludes the purchase using only the email and the CVV of the credit card, and if the operator’s approval does not occur after 3 consecutive attempts, a user ID screen is displayed so that the customer can continue trying to purchase. This countdown starts again when the customer logs in and successfully completes their purchase.
 

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T19:23:59.024Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: bitrix24
+slugEN: bitrix24
 locale: en
 legacySlug: bitrix24
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

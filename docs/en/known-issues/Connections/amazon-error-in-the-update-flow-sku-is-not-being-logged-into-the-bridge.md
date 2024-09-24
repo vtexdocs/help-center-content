@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: amazon-error-in-the-update-flow-sku-is-not-being-logged-into-the-bridge
+slugEN: amazon-error-in-the-update-flow-sku-is-not-being-logged-into-the-bridge
 locale: en
 kiStatus: Backlog
 internalReference: 990197

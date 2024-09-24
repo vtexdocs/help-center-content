@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_3
 tag: Order Management
-slug: kit-components-ean-is-not-displayed-in-order-json
+slugEN: kit-components-ean-is-not-displayed-in-order-json
 locale: en
 kiStatus: Backlog
 internalReference: 

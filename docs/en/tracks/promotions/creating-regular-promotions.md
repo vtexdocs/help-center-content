@@ -8,7 +8,7 @@ publishedAt: 2024-04-22T13:23:15.737Z
 firstPublishedAt: 2020-01-22T13:55:43.369Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: creating-regular-promotions
+slugEN: creating-regular-promotions
 locale: en
 trackId: 6asfF1vFYiZgTQtOzwJchR
 trackSlugEN: promotions
@@ -103,7 +103,7 @@ You can include or exclude **categories**, **brands**, **collections**, **produc
 
 To be eligible for the promotion, products must meet all the conditions added in this section.
 
-![A quais itens esta promoção será aplicada - EN](https://images.ctfassets.net/alneenqid6w5/7lxp9shJsZD5LBMzXldQnz/2b8a18cfaa26f45756354a1a081cd2a0/A_quais_itens_-_EN.png)
+![A quais itens esta promoção será aplicada - EN](//images.ctfassets.net/alneenqid6w5/7lxp9shJsZD5LBMzXldQnz/2b8a18cfaa26f45756354a1a081cd2a0/A_quais_itens_-_EN.png)
 
 # 3. Conditions for the promotion to be valid
 

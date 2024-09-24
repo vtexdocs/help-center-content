@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:00:22.364Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
-slug: how-to-optimize-searches-with-substitute-words
+slugEN: how-to-optimize-searches-with-substitute-words
 locale: en
 legacySlug: how-to-optimize-searches-with-substitute-words
 subcategoryId: pwxWmUu7T222QyuGogs68

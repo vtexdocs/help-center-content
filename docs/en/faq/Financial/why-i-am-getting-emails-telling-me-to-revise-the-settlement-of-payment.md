@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:43.821Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_57
-slug: why-i-am-getting-emails-telling-me-to-revise-the-settlement-of-payment
+slugEN: why-i-am-getting-emails-telling-me-to-revise-the-settlement-of-payment
 locale: en
 legacySlug: why-i-am-getting-emails-telling-me-to-revise-the-capturing-of-payment
 ---

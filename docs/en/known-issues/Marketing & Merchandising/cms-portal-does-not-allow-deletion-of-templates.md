@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: cms-portal-does-not-allow-deletion-of-templates
+slugEN: cms-portal-does-not-allow-deletion-of-templates
 locale: en
 kiStatus: Backlog
 internalReference: 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: seller-portal-select-specifications-dropdown-malfunctioning
+slugEN: seller-portal-select-specifications-dropdown-malfunctioning
 locale: en
 kiStatus: No Fix
 internalReference: 711303

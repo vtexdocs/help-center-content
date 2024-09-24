@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: unknown
-slug: o-que-e-picking
+slugEN: o-que-e-picking
 locale: pt
 trackId: 
 trackSlugPT: untitled-track

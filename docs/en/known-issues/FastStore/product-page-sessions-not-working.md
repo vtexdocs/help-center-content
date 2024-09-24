@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: product-page-sessions-not-working
+slugEN: product-page-sessions-not-working
 locale: en
 kiStatus: Backlog
 internalReference: 961591

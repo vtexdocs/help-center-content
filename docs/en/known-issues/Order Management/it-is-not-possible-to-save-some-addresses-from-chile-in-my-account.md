@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: it-is-not-possible-to-save-some-addresses-from-chile-in-my-account
+slugEN: it-is-not-possible-to-save-some-addresses-from-chile-in-my-account
 locale: en
 kiStatus: Backlog
 internalReference: 386030

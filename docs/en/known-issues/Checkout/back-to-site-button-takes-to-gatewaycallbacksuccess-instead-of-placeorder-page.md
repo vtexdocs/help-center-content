@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: back-to-site-button-takes-to-gatewaycallbacksuccess-instead-of-placeorder-page
+slugEN: back-to-site-button-takes-to-gatewaycallbacksuccess-instead-of-placeorder-page
 locale: en
 kiStatus: Backlog
 internalReference: 786685

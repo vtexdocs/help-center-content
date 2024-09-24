@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: early-capture-wrongfully-competing-with-automatic-capture-on-authorizedotnet
+slugEN: early-capture-wrongfully-competing-with-automatic-capture-on-authorizedotnet
 locale: en
 kiStatus: Backlog
 internalReference: 866068

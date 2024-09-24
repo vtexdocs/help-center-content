@@ -9,7 +9,7 @@ firstPublishedAt: 2020-11-17T19:19:23.749Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: how-to-configure-mercado-pago-pro-as-a-payment-method
+slugEN: how-to-configure-mercado-pago-pro-as-a-payment-method
 locale: en
 legacySlug: setting-up-mercado-pago-pro-as-a-payment-method
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

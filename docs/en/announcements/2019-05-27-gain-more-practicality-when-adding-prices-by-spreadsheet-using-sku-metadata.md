@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:27.138Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
-slug: gain-more-practicality-when-adding-prices-by-spreadsheet-using-sku-metadata
+slugEN: gain-more-practicality-when-adding-prices-by-spreadsheet-using-sku-metadata
 locale: en
 legacySlug: gain-more-practicality-when-adding-prices-by-spreadsheet-using-sku-metadata
 announcementImageID: ''

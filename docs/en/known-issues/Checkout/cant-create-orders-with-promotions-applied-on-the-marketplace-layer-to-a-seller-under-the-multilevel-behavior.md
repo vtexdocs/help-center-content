@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: cant-create-orders-with-promotions-applied-on-the-marketplace-layer-to-a-seller-under-the-multilevel-behavior
+slugEN: cant-create-orders-with-promotions-applied-on-the-marketplace-layer-to-a-seller-under-the-multilevel-behavior
 locale: en
 kiStatus: Fixed
 internalReference: 446938

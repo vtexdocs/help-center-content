@@ -8,7 +8,7 @@ publishedAt: 2021-07-28T14:29:14.749Z
 firstPublishedAt: 2019-11-19T17:27:48.328Z
 contentType: trackArticle
 productTeam: Channels
-slug: what-to-configure-with-vtex-before-starting-the-integration
+slugEN: what-to-configure-with-vtex-before-starting-the-integration
 locale: en
 trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugEN: wish-integration

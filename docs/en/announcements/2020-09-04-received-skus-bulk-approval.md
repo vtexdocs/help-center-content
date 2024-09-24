@@ -8,7 +8,7 @@ publishedAt: 2021-03-26T15:49:22.429Z
 contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: received-skus-bulk-approval
+slugEN: received-skus-bulk-approval
 locale: en
 legacySlug: received-skus-bulk-approval
 announcementImageID: ''

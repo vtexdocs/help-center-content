@@ -9,7 +9,7 @@ firstPublishedAt: 2020-12-04T12:24:18.019Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: manage-the-sales-comissions-report
+slugEN: manage-the-sales-comissions-report
 locale: en
 legacySlug: manage-the-sales-comissions-report
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
@@ -55,7 +55,7 @@ Generating the report may take a while if the volume of data is big. In such cas
 
 >ℹ️ Leaving the page will not affect the operation.
 
-![Sales Comission Report EN](https://images.ctfassets.net/alneenqid6w5/3WoTE8ibcuYshdJf5sT6KV/e30dfb7f7de7b6dbcd506782e405d470/image.png)
+![Sales Comission Report EN](//images.ctfassets.net/alneenqid6w5/3WoTE8ibcuYshdJf5sT6KV/e30dfb7f7de7b6dbcd506782e405d470/image.png)
 
 Later, you can also download the recently generated report using a link provided in the list of reports.  
 

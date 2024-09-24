@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-23T20:53:13.906Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: copying-a-layout-from-one-web-site-to-another
+slugEN: copying-a-layout-from-one-web-site-to-another
 locale: en
 legacySlug: copying-a-layout-from-one-web-site-to-another
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -25,9 +25,9 @@ To do this, in the VTEX Admin, access **Storefront > Layout > CMS** and click on
 
 The button is in the upper right corner, as shown in the image below.
 
-!![copiar layout](https://images.ctfassets.net/alneenqid6w5/796Zfon1lYOc4Kyg2QeqQg/55aa8b65fb505e09b8088eb7bed884bc/copiar_layout.png)
+!![copiar layout](//images.ctfassets.net/alneenqid6w5/796Zfon1lYOc4Kyg2QeqQg/55aa8b65fb505e09b8088eb7bed884bc/copiar_layout.png)
 The system will ask you which web site you want to copy the layout to.
 
 Select the web site and click __Copy Layout__.
 
-![copyLayout2](https://images.contentful.com/alneenqid6w5/1KPGgtczwMmKEeQKOM44yk/3e74ac50ac9a0fbe89f0de3fbd4a4d7a/copyLayout2.png)
+![copyLayout2](//images.contentful.com/alneenqid6w5/1KPGgtczwMmKEeQKOM44yk/3e74ac50ac9a0fbe89f0de3fbd4a4d7a/copyLayout2.png)

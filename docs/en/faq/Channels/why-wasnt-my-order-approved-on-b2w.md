@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:27.287Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
-slug: why-wasnt-my-order-approved-on-b2w
+slugEN: why-wasnt-my-order-approved-on-b2w
 locale: en
 legacySlug: why-wasnt-my-order-approved-on-b2w
 ---

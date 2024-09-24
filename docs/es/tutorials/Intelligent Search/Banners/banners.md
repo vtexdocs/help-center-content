@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-27T16:31:52.889Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: banners
+slugEN: banners
 locale: es
 legacySlug: banners
 subcategoryId: z6qcw06Z38YDu1fOcu9Jn
@@ -34,7 +34,7 @@ En VTEX Admin, la página **Storefront** > **Banners** muestra la lista completa
 * [Editar banner](#editar-banner)
 * [Eliminar banner](#eliminar-banner) 
 
-![banners-intro-es](https://images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/eab33921ebea3c1b09cf74f57f0701aa/image.png)
+![banners-intro-es](//images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/eab33921ebea3c1b09cf74f57f0701aa/image.png)
 
 La página contiene la siguiente información:
 

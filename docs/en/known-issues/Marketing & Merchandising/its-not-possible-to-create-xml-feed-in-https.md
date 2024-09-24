@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Catalog
-slug: its-not-possible-to-create-xml-feed-in-https
+slugEN: its-not-possible-to-create-xml-feed-in-https
 locale: en
 kiStatus: Fixed
 internalReference: 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: files-cssjs-are-not-updated-on-page-after-uploading-new-version-in-cms
+slugEN: files-cssjs-are-not-updated-on-page-after-uploading-new-version-in-cms
 locale: en
 kiStatus: Backlog
 internalReference: 

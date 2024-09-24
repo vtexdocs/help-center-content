@@ -8,7 +8,7 @@ publishedAt: 2023-07-04T21:44:36.582Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: amazon-integration-amazon-offer-matching
+slugEN: amazon-integration-amazon-offer-matching
 locale: en
 legacySlug: amazon-offer-matching
 announcementImageID: ''

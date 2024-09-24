@@ -3,12 +3,12 @@ title: 'Facebook'
 id: 7kNXlgUr0A4HRFXTCX8TYb
 status: PUBLISHED
 createdAt: 2021-02-08T18:11:30.928Z
-updatedAt: 2021-10-06T19:03:42.267Z
-publishedAt: 2021-10-06T19:03:42.267Z
+updatedAt: 2024-09-05T17:15:28.307Z
+publishedAt: 2024-09-05T17:15:28.307Z
 firstPublishedAt: 2021-02-08T20:10:31.820Z
 contentType: trackArticle
 productTeam: Channels
-slug: facebook
+slugEN: facebook
 locale: pt
 trackId: 7h8KvIC4DbRRc8VlyJ8PFc
 trackSlugPT: integracao-com-o-facebook
@@ -18,7 +18,7 @@ trackSlugPT: integracao-com-o-facebook
 
 O [Facebook](https://about.fb.com/br/company-info/) é a rede social com maior número de usuários no mundo. Criado em 2004, é a plataforma pela qual mais de três bilhões de pessoas se conectam e compartilham informação todos os dias.
 
-<img src="https://drive.google.com/uc?export=download&id=1cjUKeFmyLwTorni7aBwh5Ql4YHTjIxc1"/>
+![Logo Facebook](//images.ctfassets.net/alneenqid6w5/O8m2gKVxHDZwdd3VAmixX/22a762dbe650000261a1c5ab115e5c69/facebook_logo_4.png)
 
 Existem diferentes estratégias para promover sua loja no Facebook. O Gerenciador de Negócios, também conhecido como Business Manager, é uma ferramenta gratuita, criada para facilitar a gestão das suas ações na rede social. Em um único lugar, é possível gerenciar publicações orgânicas, anúncios pagos, bibliotecas de mídia, dentre outros.
 

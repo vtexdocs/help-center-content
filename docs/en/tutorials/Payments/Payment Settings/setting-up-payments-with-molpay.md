@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-19T14:21:57.485Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-molpay
+slugEN: setting-up-payments-with-molpay
 locale: en
 legacySlug: setting-up-payments-with-molpay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

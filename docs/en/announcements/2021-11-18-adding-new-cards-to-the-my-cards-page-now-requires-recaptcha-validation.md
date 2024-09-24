@@ -8,7 +8,7 @@ publishedAt: 2021-11-18T14:05:02.683Z
 contentType: updates
 productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: adding-new-cards-to-the-my-cards-page-now-requires-recaptcha-validation
+slugEN: adding-new-cards-to-the-my-cards-page-now-requires-recaptcha-validation
 locale: en
 legacySlug: adding-new-cards-to-the-my-cards-page-now-requires-recaptcha-validation
 announcementImageID: ''

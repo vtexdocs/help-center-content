@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:55:07.896Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: how-to-define-the-url-for-a-product-page
+slugEN: how-to-define-the-url-for-a-product-page
 locale: en
 legacySlug: how-is-a-product-url-set-up
 subcategoryId: pwxWmUu7T222QyuGogs68
@@ -23,7 +23,7 @@ You can change the **textLink** of existing products anytime in the VTEX Admin, 
 
 Check out the [Filling rules](#filling-rules) section to understand the restrictions on this field.
 
-![textlink.en](https://images.ctfassets.net/alneenqid6w5/2FDLvlMqvZNRCAiCoFNbfB/3485de69b69d5245045063e617177c70/textlink.en.png)
+![textlink.en](//images.ctfassets.net/alneenqid6w5/2FDLvlMqvZNRCAiCoFNbfB/3485de69b69d5245045063e617177c70/textlink.en.png)
 
 >ℹ️ You can also change a product's page URL using the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#overview). In this case, you must change the field `LinkId`. See [Update Product](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-put-product) for more information.
 

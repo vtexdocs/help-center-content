@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: free-shipping-promotion-fails-to-apply-due-to-minimum-or-maximum-amount-being-based-on-unit-price-instead-of-total-item-value
+slugEN: free-shipping-promotion-fails-to-apply-due-to-minimum-or-maximum-amount-being-based-on-unit-price-instead-of-total-item-value
 locale: en
 kiStatus: Backlog
 internalReference: 1081841

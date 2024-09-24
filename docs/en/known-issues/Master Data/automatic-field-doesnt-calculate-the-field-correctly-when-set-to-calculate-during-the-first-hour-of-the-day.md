@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slug: automatic-field-doesnt-calculate-the-field-correctly-when-set-to-calculate-during-the-first-hour-of-the-day
+slugEN: automatic-field-doesnt-calculate-the-field-correctly-when-set-to-calculate-during-the-first-hour-of-the-day
 locale: en
 kiStatus: Backlog
 internalReference: 
@@ -18,7 +18,7 @@ internalReference:
 
 ## Summary
 
-The automatic field works correctly when set to recalculate itself when there is a new entry.  It stops working however, when set to one of the "first hour" options. ![inline1511102536](https://images.ctfassets.net/alneenqid6w5/JbRenxvruoyYOueqguwcy/8ae33d07ce4db627a1c45eed5916824e/inline1511102536.png)
+The automatic field works correctly when set to recalculate itself when there is a new entry.  It stops working however, when set to one of the "first hour" options. ![inline1511102536](//images.ctfassets.net/alneenqid6w5/JbRenxvruoyYOueqguwcy/8ae33d07ce4db627a1c45eed5916824e/inline1511102536.png)
 
 ## Simulation
 

@@ -1,15 +1,15 @@
 ---
 title: 'How to create a subaccount / multistore / multidomain'
 id: tutorials_510
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2017-04-27T22:03:17.733Z
-updatedAt: 2024-01-18T17:56:47.931Z
-publishedAt: 2024-01-18T17:56:47.931Z
+updatedAt: 2024-09-06T13:37:31.479Z
+publishedAt: 
 firstPublishedAt: 2017-04-27T23:03:27.832Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: creating-subaccount-multi-store-multi-domain
+slugEN: creating-subaccount-multi-store-multi-domain
 locale: en
 legacySlug: creating-multi-store-multi-domain
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma

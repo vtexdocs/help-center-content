@@ -8,7 +8,7 @@ publishedAt: 2024-07-03T11:38:12.320Z
 firstPublishedAt: 2024-02-22T14:09:28.506Z
 contentType: trackArticle
 productTeam: Others
-slug: add-on-products
+slugEN: add-on-products
 locale: en
 trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: next-steps-after-the-go-live
@@ -25,18 +25,18 @@ Add-on products are solutions offered by VTEX to meet the specific business need
 - **Advertisers:** Brands that can create ad campaigns to promote products in VTEX stores offering the same products in their catalogs, thus increasing sales.
 - **Merchants:** Can offer ad space in their stores for advertisers to promote products. In return, these merchants will receive a fee for each click on an ad in their stores.
 
-![vtex_ad_network_sponsored_EN](https://images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/1abdea32c119ed4890e414ad7dbc8fea/vtex_ad_network_sponsored.png)
+![vtex_ad_network_sponsored_EN](//images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/1abdea32c119ed4890e414ad7dbc8fea/vtex_ad_network_sponsored.png)
 
 ## VTEX Assisted Sales
 
 [Assisted Sales (SuiteShare)](https://help.vtex.com/en/tracks/suiteshare--khP0p8mjIYRIpvM7Cb4Zr/onWmyS8j4Thhde67UBBsB) is the solution created by VTEX to boost sales through WhatsApp. It allows you to attract new customers, integrate sales tools, and manage user service data and result metrics.
 
-![suitshare-en](https://images.ctfassets.net/alneenqid6w5/6TuLLNIaD33jhiLdtECaM2/bb4f1b69fe157f9b529e108898a924ca/next_steps_image11_ONLYPT.JPG)
+![suitshare-en](//images.ctfassets.net/alneenqid6w5/6TuLLNIaD33jhiLdtECaM2/bb4f1b69fe157f9b529e108898a924ca/next_steps_image11_ONLYPT.JPG)
 
 ## VTEX Live Shopping
 VTEX Live Shopping allows creating online broadcasts for live demos of store product features. Direct and instantaneous interactions with customers improve public engagement with the brand and help increase sales performance.
 
-![live-shopping-en](https://images.ctfassets.net/alneenqid6w5/2ayznZWJIuJDSBxaviiL2M/3f7ee6f650ddb4497166ca049f8a62e5/next_steps_image5_ALL.JPG)
+![live-shopping-en](//images.ctfassets.net/alneenqid6w5/2ayznZWJIuJDSBxaviiL2M/3f7ee6f650ddb4497166ca049f8a62e5/next_steps_image5_ALL.JPG)
 
 To schedule an app demo with an expert, go to the [VTEX Live Shopping](https://vtex.com/us-en/live-shopping/#contact) page.
 
@@ -44,7 +44,7 @@ To schedule an app demo with an expert, go to the [VTEX Live Shopping](https://v
 
 VTEX Personal Shopper allows offering a direct, personalized service between the customer and the sales associate, bringing the physical store shopping experience to the digital environment. The sales associate can show products, make recommendations, and answer customers' questions through this app. They can also add items to the shopping cart during a video call.
 
-![personal-shopper-en](https://images.ctfassets.net/alneenqid6w5/6KKt1hJ8CVHx2ezrbo7L8h/529260928af943b74c4e8ff30fc61022/next_steps_image6_ALL.JPG)
+![personal-shopper-en](//images.ctfassets.net/alneenqid6w5/6KKt1hJ8CVHx2ezrbo7L8h/529260928af943b74c4e8ff30fc61022/next_steps_image6_ALL.JPG)
 
 To schedule an app demo with an expert, go to the [VTEX Personal Shopper](https://vtex.com/us-en/vtex-personal-shopper/#contact) page.
 
@@ -58,7 +58,7 @@ VTEX Pick and Pack is a solution for managing and ensuring complete visibility t
 
 - [Last Mile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr): Coordinates the shipping of packages from warehouses or stores to the customer's address by creating efficient delivery routes, selecting available drivers, and tracking the exact location of the order.
 
-![pick-and-pack-en](https://images.ctfassets.net/alneenqid6w5/6QOR5fOlkCV3RpE0Se3fdM/6031e1df55ab9664ca2bf5a32ee32f62/next_steps_image7_ALL.JPG)
+![pick-and-pack-en](//images.ctfassets.net/alneenqid6w5/6QOR5fOlkCV3RpE0Se3fdM/6031e1df55ab9664ca2bf5a32ee32f62/next_steps_image7_ALL.JPG)
 
 To watch an app demo or schedule a custom service with an expert, go to the[ VTEX Pick and Pack](https://content.vtex.com/en/pick-and-pack/) page. 
 
@@ -73,7 +73,7 @@ With [VTEX Sales App](https://help.vtex.com/en/tracks/instore-getting-started-an
 
 - Manage performance metrics for each sales associate.
 
- ![sales-app-en](https://images.ctfassets.net/alneenqid6w5/5AIDSFirQO1LJmXFtoPc9L/c573fe37979371d79899d3fe4761f0a5/next_steps_image8_ALL.JPG)
+ ![sales-app-en](//images.ctfassets.net/alneenqid6w5/5AIDSFirQO1LJmXFtoPc9L/c573fe37979371d79899d3fe4761f0a5/next_steps_image8_ALL.JPG)
 
 To watch an app demo or schedule a custom service with an expert, go to the[ VTEX Sales App](https://assets.vtex.com/sales-app/) page.
 
@@ -85,7 +85,7 @@ Explore options for shipping products to all regions of Brazil with [VTEX Shippi
 
 **VTEX Shipping Network** offers the option of connecting carriers to create an integrated delivery network. With currently over 20 partners, it provides customers with the best cost and delivery time options.
 
-![shipping-network-en](https://images.ctfassets.net/alneenqid6w5/37E5iPi055VVgdvk96Jye9/e962d9f6b9b97df93f8a536e3b48b96d/image7.png)
+![shipping-network-en](//images.ctfassets.net/alneenqid6w5/37E5iPi055VVgdvk96Jye9/e962d9f6b9b97df93f8a536e3b48b96d/image7.png)
 
 Learn more on the [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) page.
 
@@ -93,7 +93,7 @@ Learn more on the [VTEX Shipping Network](https://vtex.com/br-pt/shipping-networ
 
 [VTEX Shipping Network Correios](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) is a partnership between VTEX and Correios, the primary postal service in Brazil. This solution allows stores to use PAC and SEDEX shipping services directly through the VTEX Admin with special rates, thereby reducing operational shipping costs.
 
-![image6](https://images.ctfassets.net/alneenqid6w5/7C4Qk8X51zlTzXVYrJ0vkD/7e85c1b51be49ce02b06036276fd3a0d/image6.png)
+![image6](//images.ctfassets.net/alneenqid6w5/7C4Qk8X51zlTzXVYrJ0vkD/7e85c1b51be49ce02b06036276fd3a0d/image6.png)
 
 Requesting this solution is simple and can be done in a few minutes. To do so, accept the Terms and Conditions and [enable](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) the solution in the store's Admin. These are the features available in the VTEX Shipping Network Correios:
 

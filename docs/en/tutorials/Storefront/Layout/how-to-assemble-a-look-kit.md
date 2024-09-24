@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:12.436Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: how-to-assemble-a-look-kit
+slugEN: how-to-assemble-a-look-kit
 locale: en
 legacySlug: how-to-assemble-a-look-kit
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -33,13 +33,13 @@ Differences between kit and kit look:
 
 This term is widely known in the Fashion Segment. A Kit Look is a way through which you can buy several products viewing only one product screen. 
 
-![](https://images.contentful.com/alneenqid6w5/2WA6REAMecCaUiSEk2uoC6/999c983b772d8025d86f6ca2d1ebf3e4/kit-look-donadolook-exemplo.gif)
+![](//images.contentful.com/alneenqid6w5/2WA6REAMecCaUiSEk2uoC6/999c983b772d8025d86f6ca2d1ebf3e4/kit-look-donadolook-exemplo.gif)
 
 In the layout above, it is possible to choose the kit items the customer would like to buy and then click on “Comprar Produtos Selecionados”.
 
 Alternatively, if you prefer, you may buy the complete kit, with all selected items.
 
-![](https://images.contentful.com/alneenqid6w5/4ol1nKNyx2WYw26wQscgEE/986c00a0096dd93ac7c3ce206ecf049e/kit-look-jackthebarber-exemplo.gif)
+![](//images.contentful.com/alneenqid6w5/4ol1nKNyx2WYw26wQscgEE/986c00a0096dd93ac7c3ce206ecf049e/kit-look-jackthebarber-exemplo.gif)
 
 In this layout, for each item there is a button “Comprar Separadamente”.
 

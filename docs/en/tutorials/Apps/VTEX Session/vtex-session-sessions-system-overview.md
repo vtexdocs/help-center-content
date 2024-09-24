@@ -9,7 +9,7 @@ firstPublishedAt: 2018-09-11T21:09:10.797Z
 contentType: tutorial
 productTeam: Identity
 author: authors_59
-slug: vtex-session-sessions-system-overview
+slugEN: vtex-session-sessions-system-overview
 locale: en
 legacySlug: vtex-session-sessions-system-overview
 subcategoryId: dajK0sARX2c0MISKKoGoc

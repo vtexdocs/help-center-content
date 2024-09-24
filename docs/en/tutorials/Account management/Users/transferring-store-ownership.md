@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-31T17:54:08.427Z
 contentType: tutorial
 productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
-slug: transferring-store-ownership
+slugEN: transferring-store-ownership
 locale: en
 legacySlug: changing-the-accounts-master-user
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M

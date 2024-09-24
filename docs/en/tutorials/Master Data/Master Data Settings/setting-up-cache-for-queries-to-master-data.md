@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-01T20:59:50.024Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_24
-slug: setting-up-cache-for-queries-to-master-data
+slugEN: setting-up-cache-for-queries-to-master-data
 locale: en
 legacySlug: setting-up-cache-for-queries-to-master-data
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q
@@ -26,7 +26,7 @@ To configure this cache layer, follow the steps below:
 2. Click __Novo__ to create a new entity or the pencil icon of an existing entity if you want to edit it.
 3. Click the __Tempo de cache para consultas paginadas__ check box ("Cache time for paged queries") and choose the cache time for the entity.
 
-![cacheMD](https://images.contentful.com/alneenqid6w5/7EJ8s7Z3uE0coc4QUkQcQC/0efbe18c6bd8018165e18f6d87da765f/cacheMD.jpg)
+![cacheMD](//images.contentful.com/alneenqid6w5/7EJ8s7Z3uE0coc4QUkQcQC/0efbe18c6bd8018165e18f6d87da765f/cacheMD.jpg)
 
 The cache time options are:
 - 5 hours

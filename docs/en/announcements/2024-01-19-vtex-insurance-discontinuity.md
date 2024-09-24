@@ -8,7 +8,7 @@ publishedAt: 2024-01-29T21:49:24.406Z
 contentType: updates
 productTeam: Others
 author: 5l3eEiSz8MpcppCxcnijGz
-slug: vtex-insurance-discontinuity
+slugEN: vtex-insurance-discontinuity
 locale: en
 legacySlug: vtex-insurance-discontinuity
 announcementImageID: ''

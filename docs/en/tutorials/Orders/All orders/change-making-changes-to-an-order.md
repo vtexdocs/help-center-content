@@ -9,7 +9,7 @@ firstPublishedAt: 2017-11-08T14:08:29.393Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_35
-slug: change-making-changes-to-an-order
+slugEN: change-making-changes-to-an-order
 locale: en
 legacySlug: change-making-changes-to-an-order
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

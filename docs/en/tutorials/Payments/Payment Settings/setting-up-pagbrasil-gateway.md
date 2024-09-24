@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-10T12:50:24.707Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-pagbrasil-gateway
+slugEN: setting-up-pagbrasil-gateway
 locale: en
 legacySlug: setting-up-pagbrasil-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: console-error-report-only-refused-to-apply-inline-style-because-it-violates-the-following-content-security
+slugEN: console-error-report-only-refused-to-apply-inline-style-because-it-violates-the-following-content-security
 locale: en
 kiStatus: Backlog
 internalReference: 1017370

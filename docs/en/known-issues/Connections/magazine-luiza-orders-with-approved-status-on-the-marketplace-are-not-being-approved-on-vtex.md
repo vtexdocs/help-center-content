@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: magazine-luiza-orders-with-approved-status-on-the-marketplace-are-not-being-approved-on-vtex
+slugEN: magazine-luiza-orders-with-approved-status-on-the-marketplace-are-not-being-approved-on-vtex
 locale: en
 kiStatus: Backlog
 internalReference: 823443

@@ -8,7 +8,7 @@ publishedAt: 2020-08-06T00:28:05.467Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: catalog-indexer-performance-improvements
+slugEN: catalog-indexer-performance-improvements
 locale: en
 legacySlug: indexador-melhorias-de-desempenho-para-o-catalogo
 announcementImageID: ''

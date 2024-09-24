@@ -8,7 +8,7 @@ publishedAt: 2024-05-03T18:33:19.277Z
 contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: callback-url-signature-authentication-token
+slugEN: callback-url-signature-authentication-token
 locale: en
 legacySlug: callback-url-signature-authentication-token
 announcementImageID: ''

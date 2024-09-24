@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:50.616Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_3
-slug: configuring-the-global-checkout
+slugEN: configuring-the-global-checkout
 locale: en
 legacySlug: configuring-the-global-checkout
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

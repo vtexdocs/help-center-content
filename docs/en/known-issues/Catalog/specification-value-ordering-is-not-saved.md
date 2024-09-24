@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: specification-value-ordering-is-not-saved
+slugEN: specification-value-ordering-is-not-saved
 locale: en
 kiStatus: Backlog
 internalReference: 584182

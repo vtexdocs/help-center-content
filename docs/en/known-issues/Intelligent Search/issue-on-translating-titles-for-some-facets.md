@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: issue-on-translating-titles-for-some-facets
+slugEN: issue-on-translating-titles-for-some-facets
 locale: en
 kiStatus: Fixed
 internalReference: 776353

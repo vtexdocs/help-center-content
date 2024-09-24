@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-10T22:54:15.824Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-clickspace-olist
+slugEN: setting-up-payments-with-clickspace-olist
 locale: en
 legacySlug: setting-up-payments-with-clickspace-olist
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

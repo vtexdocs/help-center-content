@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:34.161Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
-slug: why-wasnt-the-price-sent-to-the-marketplace
+slugEN: why-wasnt-the-price-sent-to-the-marketplace
 locale: en
 legacySlug: why-wasnt-the-price-sent-to-the-marketplace
 ---

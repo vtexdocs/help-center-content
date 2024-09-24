@@ -8,7 +8,7 @@ publishedAt: 2021-05-13T13:14:59.735Z
 contentType: updates
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: inventory-management-updates
+slugEN: inventory-management-updates
 locale: en
 legacySlug: inventory-management-updates
 announcementImageID: ''

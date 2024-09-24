@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:01:43.295Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
-slug: why-did-the-carrier-calculate-freight-for-a-weight-lower-than-the-minimum-set
+slugEN: why-did-the-carrier-calculate-freight-for-a-weight-lower-than-the-minimum-set
 locale: en
 legacySlug: why-did-the-carrier-calculate-freight-for-a-weight-lower-than-the-minimum-set
 ---

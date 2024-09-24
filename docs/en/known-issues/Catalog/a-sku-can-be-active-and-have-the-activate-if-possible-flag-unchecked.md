@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: a-sku-can-be-active-and-have-the-activate-if-possible-flag-unchecked
+slugEN: a-sku-can-be-active-and-have-the-activate-if-possible-flag-unchecked
 locale: en
 kiStatus: Backlog
 internalReference: 931324

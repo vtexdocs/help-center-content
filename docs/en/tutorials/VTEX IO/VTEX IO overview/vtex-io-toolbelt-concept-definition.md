@@ -9,7 +9,7 @@ firstPublishedAt: 2019-04-02T22:38:03.891Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: vtex-io-toolbelt-concept-definition
+slugEN: vtex-io-toolbelt-concept-definition
 locale: en
 legacySlug: vtex-io-toolbelt-concept-definition
 subcategoryId: 5eBwrcLFVSwYGSOQqGKQYW

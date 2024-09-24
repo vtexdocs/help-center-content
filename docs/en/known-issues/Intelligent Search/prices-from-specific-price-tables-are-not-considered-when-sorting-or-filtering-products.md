@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: prices-from-specific-price-tables-are-not-considered-when-sorting-or-filtering-products
+slugEN: prices-from-specific-price-tables-are-not-considered-when-sorting-or-filtering-products
 locale: en
 kiStatus: Backlog
 internalReference: 1085895

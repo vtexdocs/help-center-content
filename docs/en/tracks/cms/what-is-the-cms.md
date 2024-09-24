@@ -8,13 +8,13 @@ publishedAt: 2023-04-25T19:27:34.938Z
 firstPublishedAt: 2020-01-13T14:28:47.464Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: what-is-the-cms
+slugEN: what-is-the-cms
 locale: en
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms
 ---
 
-![CMS Capa overview](https://images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/19a53d3f1e02f7f01e1a4a6250da2b20/CAPA_OVERVIEW_CMS.png)
+![CMS Capa overview](//images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/19a53d3f1e02f7f01e1a4a6250da2b20/CAPA_OVERVIEW_CMS.png)
 
 CMS (Content Management System) is a feature dedicated to manage content in a constant and practical manner.
 

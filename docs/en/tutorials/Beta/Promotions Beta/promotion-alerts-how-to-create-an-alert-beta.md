@@ -9,7 +9,7 @@ firstPublishedAt: 2022-11-18T19:07:21.814Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: promotion-alerts-how-to-create-an-alert-beta
+slugEN: promotion-alerts-how-to-create-an-alert-beta
 locale: en
 legacySlug: promotion-alerts-how-to-create-an-alert-beta
 subcategoryId: 6iTRZiMeCGXYiO2ckABFZi

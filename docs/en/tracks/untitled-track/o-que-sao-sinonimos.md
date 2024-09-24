@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: unknown
-slug: o-que-sao-sinonimos
+slugEN: o-que-sao-sinonimos
 locale: en
 trackId: 
 trackSlugEN: untitled-track

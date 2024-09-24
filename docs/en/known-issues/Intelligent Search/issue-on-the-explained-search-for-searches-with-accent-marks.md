@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: issue-on-the-explained-search-for-searches-with-accent-marks
+slugEN: issue-on-the-explained-search-for-searches-with-accent-marks
 locale: en
 kiStatus: No Fix
 internalReference: 434752

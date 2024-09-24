@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: messages-app-taking-too-long-to-return-the-informations
+slugEN: messages-app-taking-too-long-to-return-the-informations
 locale: en
 kiStatus: Backlog
 internalReference: 567305

@@ -8,7 +8,7 @@ publishedAt: 2023-11-01T12:40:40.235Z
 firstPublishedAt: 2019-11-22T19:30:16.374Z
 contentType: trackArticle
 productTeam: Financial
-slug: credit-card-payment-flow
+slugEN: credit-card-payment-flow
 locale: en
 trackId: 6GAS7ZzGAm7AGoEAwDbwJG
 trackSlugEN: payments
@@ -28,7 +28,7 @@ To learn more about the financial agents involved in the payment flow of an orde
 
 The complete credit card payment flow at VTEX is shown in the following scheme:
 
-![Credit Card - Basic payment flow](https://images.ctfassets.net/alneenqid6w5/64zjpwrBkpqbOhR7vtZhKs/dbee2595f3dda339db8010cb8d00f67d/payments_image1_EN.JPG)
+![Credit Card - Basic payment flow](//images.ctfassets.net/alneenqid6w5/64zjpwrBkpqbOhR7vtZhKs/dbee2595f3dda339db8010cb8d00f67d/payments_image1_EN.JPG)
 
 1. On the Checkout screen of your store, the customer chooses the _credit card_ **Payment Method** to complete the purchase.
 

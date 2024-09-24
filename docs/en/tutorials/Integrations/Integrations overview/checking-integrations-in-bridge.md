@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:24.679Z
 contentType: tutorial
 productTeam: Channels
 author: authors_59
-slug: checking-integrations-in-bridge
+slugEN: checking-integrations-in-bridge
 locale: en
 legacySlug: checking-integrations-in-bridge
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq

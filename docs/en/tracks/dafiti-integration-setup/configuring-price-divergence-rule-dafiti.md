@@ -8,7 +8,7 @@ publishedAt: 2023-08-11T18:26:09.918Z
 firstPublishedAt: 2022-01-05T16:11:57.454Z
 contentType: trackArticle
 productTeam: Channels
-slug: configuring-price-divergence-rule-dafiti
+slugEN: configuring-price-divergence-rule-dafiti
 locale: en
 trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugEN: dafiti-integration-setup

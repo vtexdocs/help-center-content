@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: filters-hidden-from-the-store-are-also-hidden-from-intelligent-search-admin-pages
+slugEN: filters-hidden-from-the-store-are-also-hidden-from-intelligent-search-admin-pages
 locale: en
 kiStatus: Backlog
 internalReference: 416638

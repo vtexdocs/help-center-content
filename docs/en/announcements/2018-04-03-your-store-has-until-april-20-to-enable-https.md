@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:39.853Z
 contentType: updates
 productTeam: Others
 author: authors_24
-slug: your-store-has-until-april-20-to-enable-https
+slugEN: your-store-has-until-april-20-to-enable-https
 locale: en
 legacySlug: your-store-has-until-april-20-to-enable-https
 announcementImageID: ''

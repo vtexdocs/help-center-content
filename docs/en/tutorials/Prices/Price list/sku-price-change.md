@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:42.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: sku-price-change
+slugEN: sku-price-change
 locale: en
 legacySlug: sku-price-change
 subcategoryId: 4id9W3RDyw02CasOm2C2iy

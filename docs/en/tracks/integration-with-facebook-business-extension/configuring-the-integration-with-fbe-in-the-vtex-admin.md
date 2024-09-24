@@ -8,7 +8,7 @@ publishedAt: 2024-04-17T14:57:04.600Z
 firstPublishedAt: 2021-09-30T18:49:18.739Z
 contentType: trackArticle
 productTeam: Channels
-slug: configuring-the-integration-with-fbe-in-the-vtex-admin
+slugEN: configuring-the-integration-with-fbe-in-the-vtex-admin
 locale: en
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
 trackSlugEN: integration-with-facebook-business-extension
@@ -36,7 +36,7 @@ To start configuring the integration, please follow the steps below:
 10. Click on `Next`.
 11. In the pop-up window, a confirmation that the integration has been configured will be displayed. Click on `Done`.
 
-![gif en v1](https://images.ctfassets.net/alneenqid6w5/1FptUh8HMlsK1FvVPBw89H/6eec11fdae6edb9afd05f70a1814b248/gif_en_v1.gif)
+![gif en v1](//images.ctfassets.net/alneenqid6w5/1FptUh8HMlsK1FvVPBw89H/6eec11fdae6edb9afd05f70a1814b248/gif_en_v1.gif)
 
 ## Sending product information to Facebook Business Extension
 

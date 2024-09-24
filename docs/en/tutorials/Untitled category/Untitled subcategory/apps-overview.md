@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-29T15:56:35.764Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 6ZIASoEIeITT63epPauz12
-slug: apps-overview
+slugEN: apps-overview
 locale: en
 legacySlug: apps-overview
 subcategoryId: unknown-subcategory
@@ -34,7 +34,7 @@ The Apps menu allows merchants to download new apps directly from the App Store 
 
 These operations can be found in the Apps menu of your redesigned Admin.
 
-![Apps Overview menu EN](https://images.ctfassets.net/alneenqid6w5/2Bj2bz36YQcD1Q6cl4Pf44/76a9830a08af07c0cdd5ebecfb7a5ca9/Apps_Overview_menu_EN.jpg)
+![Apps Overview menu EN](//images.ctfassets.net/alneenqid6w5/2Bj2bz36YQcD1Q6cl4Pf44/76a9830a08af07c0cdd5ebecfb7a5ca9/Apps_Overview_menu_EN.jpg)
 
 See below for more details on the different sections and pages of this feature, which will soon be available in the redesigned Admin. 
 

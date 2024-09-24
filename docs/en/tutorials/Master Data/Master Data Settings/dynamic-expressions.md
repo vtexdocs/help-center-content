@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-03T19:37:10.772Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_64
-slug: dynamic-expressions
+slugEN: dynamic-expressions
 locale: en
 legacySlug: dynamic-expressions
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

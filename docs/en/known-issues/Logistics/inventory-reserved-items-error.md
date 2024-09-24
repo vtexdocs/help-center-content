@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: inventory-reserved-items-error
+slugEN: inventory-reserved-items-error
 locale: en
 kiStatus: Fixed
 internalReference: 347924

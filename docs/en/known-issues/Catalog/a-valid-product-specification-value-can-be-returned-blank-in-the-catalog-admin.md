@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: a-valid-product-specification-value-can-be-returned-blank-in-the-catalog-admin
+slugEN: a-valid-product-specification-value-can-be-returned-blank-in-the-catalog-admin
 locale: en
 kiStatus: Backlog
 internalReference: 966499

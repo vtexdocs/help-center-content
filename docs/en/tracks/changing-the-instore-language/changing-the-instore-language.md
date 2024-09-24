@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-06-28T18:35:12.789Z
 contentType: trackArticle
 productTeam: Shopping
-slug: changing-the-instore-language
+slugEN: changing-the-instore-language
 locale: en
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugEN: changing-the-instore-language
@@ -78,4 +78,4 @@ After making the code change, save the file `checkout-instore-custom.js`.
 
 Then, in the inStore application, to see the reflected changes, enter the menu and click the __Reset app local data__ button, as shown in the image below.
 
-![22. Change the inStore language - 1 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/7qVSATLXP6DBktXwwWsE0H/72515ce67429eaf6334a3cd1288e3884/22._Change_the_inStore_language_-_1_-_EN.png_h_250)
+![22. Change the inStore language - 1 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/7qVSATLXP6DBktXwwWsE0H/72515ce67429eaf6334a3cd1288e3884/22._Change_the_inStore_language_-_1_-_EN.png_h_250)

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: export-of-price-tables-fails-due-to-throttling-of-catalog-api
+slugEN: export-of-price-tables-fails-due-to-throttling-of-catalog-api
 locale: en
 kiStatus: Backlog
 internalReference: 1081437

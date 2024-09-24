@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: request-routing-is-inconsistent-when-running-ab-tests
+slugEN: request-routing-is-inconsistent-when-running-ab-tests
 locale: en
 kiStatus: Backlog
 internalReference: 931246

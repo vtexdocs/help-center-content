@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: refid-behavior-not-consistent-between-api-and-ui
+slugEN: refid-behavior-not-consistent-between-api-and-ui
 locale: en
 kiStatus: Backlog
 internalReference: 910050

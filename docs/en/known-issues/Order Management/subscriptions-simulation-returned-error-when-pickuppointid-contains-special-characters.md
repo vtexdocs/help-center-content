@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: subscriptions-simulation-returned-error-when-pickuppointid-contains-special-characters
+slugEN: subscriptions-simulation-returned-error-when-pickuppointid-contains-special-characters
 locale: en
 kiStatus: No Fix
 internalReference: 903332

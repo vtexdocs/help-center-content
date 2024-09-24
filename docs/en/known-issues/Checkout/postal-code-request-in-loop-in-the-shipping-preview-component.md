@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: postal-code-request-in-loop-in-the-shipping-preview-component
+slugEN: postal-code-request-in-loop-in-the-shipping-preview-component
 locale: en
 kiStatus: Backlog
 internalReference: 352659

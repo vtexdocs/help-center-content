@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: sku-removed-from-amazon-sc-is-not-being-disable-in-amazon-portal
+slugEN: sku-removed-from-amazon-sc-is-not-being-disable-in-amazon-portal
 locale: en
 kiStatus: Fixed
 internalReference: 827760

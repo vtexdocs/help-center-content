@@ -3,13 +3,13 @@ title: 'How subscriptions work'
 id: frequentlyAskedQuestions_4453
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.886Z
-updatedAt: 2024-08-29T15:23:33.643Z
-publishedAt: 2024-08-29T15:23:33.643Z
+updatedAt: 2024-09-20T13:14:49.119Z
+publishedAt: 2024-09-20T13:14:49.119Z
 firstPublishedAt: 2019-01-24T22:14:56.290Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: how-subscriptions-work
+slugEN: how-subscriptions-work
 locale: en
 legacySlug: how-a-subscription-works
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
@@ -111,3 +111,6 @@ Yes, the price charged for the subscription is based on the price configured for
 Subscription orders are created between 6:00 and 7:00 am in Brazil zone (GMT-3).
 
 13. **Does the functionality Subscriptions work with Seller Portal?** No, Subscriptions does not work with [Seller Portal](https://help.vtex.com/en/tutorial/how-to-set-up-your-store-on-seller-portal).
+
+14. **How does it work to create subscriptions from original orders that have SKUs with attachments?**
+By default, stores do not create subscription orders associating SKU [attachments](https://help.vtex.com/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) with the original order, i.e., attachments are not considered in recurring orders. However, you can enable this setting for your store, but it can only be done via API using the [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings) endpoint. Learn more in [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).

@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-07T21:20:16.312Z
 contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: portadores-vtex-tracking
+slugEN: portadores-vtex-tracking
 locale: es
 legacySlug: portadores-vtex-tracking
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP

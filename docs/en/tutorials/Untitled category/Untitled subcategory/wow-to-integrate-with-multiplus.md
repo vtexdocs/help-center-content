@@ -9,7 +9,7 @@ firstPublishedAt: 2017-05-12T17:47:29.932Z
 contentType: tutorial
 productTeam: Channels
 author: authors_84
-slug: wow-to-integrate-with-multiplus
+slugEN: wow-to-integrate-with-multiplus
 locale: en
 legacySlug: wow-to-integrate-with-multiplus
 subcategoryId: unknown-subcategory
@@ -28,7 +28,7 @@ Another option for the steps above is to access your store’s marketplace setti
 
 Replace NOMEDALOJA with the accountName of your store.
 
-![Multiplus1](https://images.contentful.com/alneenqid6w5/2NxVrnsnZCOuQOqEOIusOq/d5cd381241a842c29e81763ea6f8f506/Multiplus1.png)
+![Multiplus1](//images.contentful.com/alneenqid6w5/2NxVrnsnZCOuQOqEOIusOq/d5cd381241a842c29e81763ea6f8f506/Multiplus1.png)
 
 After clicking on **Integrate**, a form will be displayed with some fields that must be filled in. Be attentive to mandatory fields: these show “/*” next to the text box.
 
@@ -41,7 +41,7 @@ After clicking on **Integrate**, a form will be displayed with some fields that 
 - **Código Parceiro que será utilizado na Multiplus**: This code should have from 1 to 30 digits of your choice.  To qualify your sales, you must inform this code to Multiplus after carrying out the setup in Bridge. If you change this code, the new code must also be informed to Multiplus, for update purposes. Otherwise, the store will not be able to sell;
 - **E-mails para a criação do Afiliado**: After saving the settings, the integration will generate the Affiliate in VTEX, and include this information in the register.
 
-![Multiplus2](https://images.contentful.com/alneenqid6w5/4lTWbmFiGcOoIkUK8KSIAm/501d2f8e79300fc814d08ac600d7b0be/Multiplus2.png)
+![Multiplus2](//images.contentful.com/alneenqid6w5/4lTWbmFiGcOoIkUK8KSIAm/501d2f8e79300fc814d08ac600d7b0be/Multiplus2.png)
 
 
 After filling in the information, click on **Save** and wait for the “success” message to show up.

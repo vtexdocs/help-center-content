@@ -8,7 +8,7 @@ publishedAt: 2023-07-17T13:38:03.472Z
 contentType: updates
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
-slug: upgrade-your-store-to-google-analytics-4
+slugEN: upgrade-your-store-to-google-analytics-4
 locale: en
 legacySlug: upgrade-your-store-to-google-analytics-4
 announcementImageID: ''

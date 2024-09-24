@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: clusters-indexes-that-exceed-the-limit-of-fields-cause-documents-to-fail-to-be-indexed
+slugEN: clusters-indexes-that-exceed-the-limit-of-fields-cause-documents-to-fail-to-be-indexed
 locale: en
 kiStatus: Backlog
 internalReference: 1078027

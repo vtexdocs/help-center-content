@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slug: master-datas-dynamic-storage-entity-groups-not-working-as-expected
+slugEN: master-datas-dynamic-storage-entity-groups-not-working-as-expected
 locale: en
 kiStatus: Backlog
 internalReference: 

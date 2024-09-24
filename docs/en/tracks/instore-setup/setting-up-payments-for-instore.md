@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-04-27T18:04:34.910Z
 contentType: trackArticle
 productTeam: Shopping
-slug: setting-up-payments-for-instore
+slugEN: setting-up-payments-for-instore
 locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup

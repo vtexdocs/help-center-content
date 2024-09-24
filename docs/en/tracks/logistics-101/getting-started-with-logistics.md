@@ -8,7 +8,7 @@ publishedAt: 2022-04-07T21:31:16.973Z
 firstPublishedAt: 2022-03-07T13:52:25.531Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: getting-started-with-logistics
+slugEN: getting-started-with-logistics
 locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101
@@ -55,7 +55,7 @@ Basically, the **Inventory & shipping** module is divided into the following sec
 * **Settings**: General logistics settings, such as enabling critical stock notification.
 * **[Pickup points](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R)**: For listing physical locations where customers can pick up their orders.
 
-![estoque e entregaEN](https://images.ctfassets.net/alneenqid6w5/21rlEVE55jPh2hYBKTn99U/8286563b415555a4ab5e56cb8e6e290c/estoque_e_entregaEN.png)
+![estoque e entregaEN](//images.ctfassets.net/alneenqid6w5/21rlEVE55jPh2hYBKTn99U/8286563b415555a4ab5e56cb8e6e290c/estoque_e_entregaEN.png)
 
 >ℹ️ Clients using [VTEX Shipping Network](https://vtex.com/us-en/) can access this feature in the Inventory & shipping module.
 

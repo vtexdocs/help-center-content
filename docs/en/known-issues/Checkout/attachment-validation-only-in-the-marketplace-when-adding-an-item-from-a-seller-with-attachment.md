@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: attachment-validation-only-in-the-marketplace-when-adding-an-item-from-a-seller-with-attachment
+slugEN: attachment-validation-only-in-the-marketplace-when-adding-an-item-from-a-seller-with-attachment
 locale: en
 kiStatus: Backlog
 internalReference: 957343

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-12T15:10:44.820Z
 contentType: tutorial
 productTeam: Channels
 author: authors_84
-slug: identify-who-canceled-an-order-in-the-marketplace
+slugEN: identify-who-canceled-an-order-in-the-marketplace
 locale: en
 legacySlug: identify-who-canceled-an-order-in-the-marketplace
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

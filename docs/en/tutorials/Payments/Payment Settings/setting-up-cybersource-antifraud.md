@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-30T20:25:40.199Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-cybersource-antifraud
+slugEN: setting-up-cybersource-antifraud
 locale: en
 legacySlug: setting-up-cybersource-antifraud
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

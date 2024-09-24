@@ -8,7 +8,7 @@ publishedAt: 2020-05-20T15:44:44.161Z
 contentType: updates
 productTeam: Reliability
 author: 127RQ7SUoFfyTh5gbXUpdM
-slug: b2b-stores-need-special-configuration-before-going-live
+slugEN: b2b-stores-need-special-configuration-before-going-live
 locale: en
 legacySlug: b2b-stores-need-special-configuration-before-going-live
 announcementImageID: ''

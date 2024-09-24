@@ -8,7 +8,7 @@ publishedAt: 2023-07-05T18:40:32.146Z
 contentType: updates
 productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: recaptcha-validation-will-now-follow-orderform-configuration-for-all-requests
+slugEN: recaptcha-validation-will-now-follow-orderform-configuration-for-all-requests
 locale: en
 legacySlug: recaptcha-validation-will-now-follow-orderform-configuration-for-all
 announcementImageID: ''
@@ -46,7 +46,7 @@ Ask your development team to review your integrations that use the Checkout API 
 
 They should be able to follow the diagram below to assess whether an integration needs to be adjusted, according to your store's [reCAPTCHA orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm) and how requests made to these endpoints are [authenticated](https://developers.vtex.com/docs/guides/authentication-overview):
 
-![reCAPTCHA diagram](https://images.ctfassets.net/alneenqid6w5/46F1byxPKdYgWcf1lSkPMn/077e3f3122263a78aaa5a4cf47bd9eb2/recaptcha-config-EN.png)
+![reCAPTCHA diagram](//images.ctfassets.net/alneenqid6w5/46F1byxPKdYgWcf1lSkPMn/077e3f3122263a78aaa5a4cf47bd9eb2/recaptcha-config-EN.png)
 
 - __Case 1__: *No changes are required in the integration, but your store might be at risk.*
 

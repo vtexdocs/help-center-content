@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: upload-file-not-working-on-adminportalsitesdefaultcode
+slugEN: upload-file-not-working-on-adminportalsitesdefaultcode
 locale: en
 kiStatus: Backlog
 internalReference: 897956

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-06T15:55:58.368Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_59
-slug: customizar-a-toolbar-de-televendas
+slugEN: customizar-a-toolbar-de-televendas
 locale: pt
 legacySlug: customizar-a-toolbar-de-televendas
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

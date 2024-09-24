@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:42.099Z
 contentType: tutorial
 productTeam: Channels
 author: authors_3
-slug: product-specifications-attribute-googleshopping-xml
+slugEN: product-specifications-attribute-googleshopping-xml
 locale: en
 legacySlug: product-specifications-attribute-googleshopping-xml
 subcategoryId: pwxWmUu7T222QyuGogs68

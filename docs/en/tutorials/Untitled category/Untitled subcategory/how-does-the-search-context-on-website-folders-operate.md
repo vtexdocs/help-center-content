@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:38.176Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: how-does-the-search-context-on-website-folders-operate
+slugEN: how-does-the-search-context-on-website-folders-operate
 locale: en
 legacySlug: 
 subcategoryId: unknown-subcategory
@@ -39,7 +39,7 @@ Using the same previous example, if we create a folder named **my-landing-page**
 
 ### Setup
 
-![](https://images.contentful.com/alneenqid6w5/ZvEGMDPUs0OsuCkoUsqqS/4411604b8b78124edcbacd46cc45ed53/ContextoDeBusca.PNG "Search Context")
+![](//images.contentful.com/alneenqid6w5/ZvEGMDPUs0OsuCkoUsqqS/4411604b8b78124edcbacd46cc45ed53/ContextoDeBusca.PNG "Search Context")
 
 **Important**:
 

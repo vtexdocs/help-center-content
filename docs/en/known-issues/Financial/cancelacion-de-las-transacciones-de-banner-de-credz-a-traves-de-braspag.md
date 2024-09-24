@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: authors_4
 tag: Payments
-slug: cancelacion-de-las-transacciones-de-banner-de-credz-a-traves-de-braspag
+slugEN: cancelacion-de-las-transacciones-de-banner-de-credz-a-traves-de-braspag
 locale: en
 kiStatus: Backlog
 internalReference: 

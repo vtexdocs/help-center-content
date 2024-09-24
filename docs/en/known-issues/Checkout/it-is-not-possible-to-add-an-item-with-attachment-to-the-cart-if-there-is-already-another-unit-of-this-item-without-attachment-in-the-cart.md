@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: it-is-not-possible-to-add-an-item-with-attachment-to-the-cart-if-there-is-already-another-unit-of-this-item-without-attachment-in-the-cart
+slugEN: it-is-not-possible-to-add-an-item-with-attachment-to-the-cart-if-there-is-already-another-unit-of-this-item-without-attachment-in-the-cart
 locale: en
 kiStatus: No Fix
 internalReference: 412041

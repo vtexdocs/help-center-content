@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-02T19:38:38.690Z
 contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: best-practices-when-creating-your-partner-environment
+slugEN: best-practices-when-creating-your-partner-environment
 locale: en
 legacySlug: best-practices-when-creating-your-partner-environment
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm

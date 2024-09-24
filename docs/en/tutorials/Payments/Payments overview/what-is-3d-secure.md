@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-02T14:22:05.892Z
 contentType: tutorial
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-3d-secure
+slugEN: what-is-3d-secure
 locale: en
 legacySlug: what-is-3d-secure
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

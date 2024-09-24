@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-23T16:51:05.698Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: exporting-customers-who-signed-up-for-the-availability-notification-notify-me
+slugEN: exporting-customers-who-signed-up-for-the-availability-notification-notify-me
 locale: en
 legacySlug: exporting-clients-registered-in-the-availability-notification
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa

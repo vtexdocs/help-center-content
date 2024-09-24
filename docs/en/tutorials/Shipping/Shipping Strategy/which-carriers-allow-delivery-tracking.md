@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:12:09.421Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_2
-slug: which-carriers-allow-delivery-tracking
+slugEN: which-carriers-allow-delivery-tracking
 locale: en
 legacySlug: which-transport-companies-enable-make-it-possible-to-track-delivery
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

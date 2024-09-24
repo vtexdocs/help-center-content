@@ -9,7 +9,7 @@ firstPublishedAt: 2023-05-25T19:35:27.925Z
 contentType: tutorial
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: choosing-between-a-multistore-architecture-or-an-additional-environment
+slugEN: choosing-between-a-multistore-architecture-or-an-additional-environment
 locale: en
 legacySlug: choosing-between-a-multi-store-architecture-or-an-additional-environment
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma

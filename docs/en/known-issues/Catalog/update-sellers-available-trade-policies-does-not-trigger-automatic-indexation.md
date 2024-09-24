@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: update-sellers-available-trade-policies-does-not-trigger-automatic-indexation
+slugEN: update-sellers-available-trade-policies-does-not-trigger-automatic-indexation
 locale: en
 kiStatus: Backlog
 internalReference: 1041874

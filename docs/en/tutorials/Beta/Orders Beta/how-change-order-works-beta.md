@@ -9,7 +9,7 @@ firstPublishedAt: 2023-11-27T22:39:50.675Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: how-change-order-works-beta
+slugEN: how-change-order-works-beta
 locale: en
 legacySlug: how-change-order-works-beta
 subcategoryId: 3LQ1Tl0u4frEOd45BkjFAm

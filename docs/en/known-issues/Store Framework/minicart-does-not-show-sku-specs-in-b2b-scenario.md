@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: minicart-does-not-show-sku-specs-in-b2b-scenario
+slugEN: minicart-does-not-show-sku-specs-in-b2b-scenario
 locale: en
 kiStatus: No Fix
 internalReference: 687308

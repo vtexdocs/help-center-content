@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: campaign-audience-ui-changing-different-from-to-equal-to-with-a-collection
+slugEN: campaign-audience-ui-changing-different-from-to-equal-to-with-a-collection
 locale: en
 kiStatus: Backlog
 internalReference: 881131

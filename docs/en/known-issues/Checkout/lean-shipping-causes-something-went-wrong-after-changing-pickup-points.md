@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: lean-shipping-causes-something-went-wrong-after-changing-pickup-points
+slugEN: lean-shipping-causes-something-went-wrong-after-changing-pickup-points
 locale: en
 kiStatus: Backlog
 internalReference: 1053609

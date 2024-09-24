@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:12:58.100Z
 contentType: updates
 productTeam: Reliability
 author: authors_24
-slug: jquery-update
+slugEN: jquery-update
 locale: en
 legacySlug: jquery-update
 announcementImageID: ''

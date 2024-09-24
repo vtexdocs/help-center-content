@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: merchants-are-not-receiving-the-fixed-price-report
+slugEN: merchants-are-not-receiving-the-fixed-price-report
 locale: en
 kiStatus: Scheduled
 internalReference: 674353

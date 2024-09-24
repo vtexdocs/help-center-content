@@ -9,7 +9,7 @@ firstPublishedAt: 2018-09-27T20:42:48.820Z
 contentType: tutorial
 productTeam: Channels
 author: authors_59
-slug: send-the-seller-white-label-payment-methods-to-the-marketplace
+slugEN: send-the-seller-white-label-payment-methods-to-the-marketplace
 locale: en
 legacySlug: untitled-entry-2018-09-27-at-08-35-08
 subcategoryId: 3wullenAJiAcWY0a6K4UOE

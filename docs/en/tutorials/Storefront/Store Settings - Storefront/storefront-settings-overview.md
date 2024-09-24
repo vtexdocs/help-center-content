@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-24T18:33:35.108Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: storefront-settings-overview
+slugEN: storefront-settings-overview
 locale: en
 legacySlug: storefront-settings-overview
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc

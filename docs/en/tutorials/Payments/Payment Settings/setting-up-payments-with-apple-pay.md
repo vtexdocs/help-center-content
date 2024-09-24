@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-23T19:26:11.000Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-apple-pay
+slugEN: setting-up-payments-with-apple-pay
 locale: en
 legacySlug: setting-up-payments-with-apple-pay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

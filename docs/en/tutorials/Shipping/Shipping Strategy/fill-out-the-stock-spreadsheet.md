@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:07:32.520Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
-slug: fill-out-the-stock-spreadsheet
+slugEN: fill-out-the-stock-spreadsheet
 locale: en
 legacySlug: fill-out-the-stock-spreadsheet
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

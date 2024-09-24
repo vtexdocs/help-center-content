@@ -9,7 +9,7 @@ firstPublishedAt: 2017-07-03T15:16:40.562Z
 contentType: tutorial
 productTeam: Financial
 author: 6gH9I777cQGMaq2y4kaogi
-slug: how-to-set-up-recurrence-in-payment-conditions
+slugEN: how-to-set-up-recurrence-in-payment-conditions
 locale: en
 legacySlug: how-to-set-up-recurrence-in-payment-conditions
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

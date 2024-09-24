@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: component-seller-selector-may-present-inconsistency-in-deliveryshipping-prices
+slugEN: component-seller-selector-may-present-inconsistency-in-deliveryshipping-prices
 locale: en
 kiStatus: No Fix
 internalReference: 658452

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: divergence-delivery-time-netshoes
+slugEN: divergence-delivery-time-netshoes
 locale: en
 kiStatus: Backlog
 internalReference: 635509

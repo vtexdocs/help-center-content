@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: transaction-canceled-by-timeout-timeout-no-request-para-o-sistema-de-parcelamento
+slugEN: transaction-canceled-by-timeout-timeout-no-request-para-o-sistema-de-parcelamento
 locale: en
 kiStatus: Backlog
 internalReference: 533844

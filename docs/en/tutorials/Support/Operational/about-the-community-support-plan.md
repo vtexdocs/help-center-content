@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:41.575Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: about-the-community-support-plan
+slugEN: about-the-community-support-plan
 locale: en
 legacySlug: about-the-community-support-plan
 subcategoryId: 1VvCpaa8NCA6a0MK6W6oWg

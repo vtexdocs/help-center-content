@@ -8,7 +8,7 @@ publishedAt: 2020-07-02T03:46:35.168Z
 firstPublishedAt: 2020-06-30T01:10:12.866Z
 contentType: trackArticle
 productTeam: Apps
-slug: sales-channel-mapping
+slugEN: sales-channel-mapping
 locale: en
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugEN: lengow-integration
@@ -20,6 +20,6 @@ To do this, go to *Marketplace > Lengow Integration > Settings* and find the **S
 
 For each sales channel, select the trade policy that should be used in the left column and fill in the sales channel identifier for Lengow in the right column. We recommend combining Marketplace names and country codes in the sales channel identifier, as this will make it easier to organize your data in Lengow. For example, *Amazon UK* would be identified as `amazon_uk`.
 
-![Lengow - Sales channel mapping](https://images.ctfassets.net/alneenqid6w5/x2fhsfCef0cWzGtVQepzK/487b1b2f601979ce6c97c5822965dd00/Screen_Shot_2020-07-01_at_22.49.58.png)
+![Lengow - Sales channel mapping](//images.ctfassets.net/alneenqid6w5/x2fhsfCef0cWzGtVQepzK/487b1b2f601979ce6c97c5822965dd00/Screen_Shot_2020-07-01_at_22.49.58.png)
 
 >⚠️ All [trade policies](https://help.vtex.com/en/tutorial/configuring-a-marketplace-trade-policy--tutorials_404" target="_blank) must be created and set up prior to this step. Their names do not need to correspond to the sales channel. If you do not need to adopt different catalog, pricing and shipping strategies for two sales channels, they may share the same trade policy.

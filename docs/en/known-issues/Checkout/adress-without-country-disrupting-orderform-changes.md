@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: adress-without-country-disrupting-orderform-changes
+slugEN: adress-without-country-disrupting-orderform-changes
 locale: en
 kiStatus: No Fix
 internalReference: 579814

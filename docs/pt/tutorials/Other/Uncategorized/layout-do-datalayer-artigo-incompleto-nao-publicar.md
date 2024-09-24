@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:26:01.453Z
 contentType: tutorial
 productTeam: Others
 author: authors_31
-slug: layout-do-datalayer-artigo-incompleto-nao-publicar
+slugEN: layout-do-datalayer-artigo-incompleto-nao-publicar
 locale: pt
 legacySlug: layout-do-datalayer-artigo-incompleto-nao-publicar
 subcategoryId: 54gbzsku02c4bKmgFbp3v3

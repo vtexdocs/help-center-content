@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-31T16:45:59.258Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: moskit-suiteshare
+slugEN: moskit-suiteshare
 locale: en
 legacySlug: moskit-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

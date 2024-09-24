@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: error-message-on-offers-management-does-not-update-after-sku-is-binded-on-vtexvtex-integrations
+slugEN: error-message-on-offers-management-does-not-update-after-sku-is-binded-on-vtexvtex-integrations
 locale: en
 kiStatus: No Fix
 internalReference: 712956

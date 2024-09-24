@@ -8,7 +8,7 @@ publishedAt: 2024-05-06T13:37:06.301Z
 contentType: updates
 productTeam: Shopping
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: improvements-to-unified-search-in-vtex-sales-app
+slugEN: improvements-to-unified-search-in-vtex-sales-app
 locale: en
 legacySlug: improvements-to-unified-search-in-vtex-sales-app
 announcementImageID: ''
@@ -31,7 +31,7 @@ This improvement allows sales associates to find products beyond the store's inv
 
 - **Optimization for slow connections:** By leveraging browser caching, the search will return new information only when necessary, guaranteeing a fast response even in scenarios with slow internet connections.
 
-![Mobile - EN](https://images.ctfassets.net/alneenqid6w5/2wdRQcrdDW1OKapj13T6Lq/13a9e307f44564906b210cc72a38c436/mobile__1_.gif)
+![Mobile - EN](//images.ctfassets.net/alneenqid6w5/2wdRQcrdDW1OKapj13T6Lq/13a9e307f44564906b210cc72a38c436/mobile__1_.gif)
 
 ## Why did we make this change?
 

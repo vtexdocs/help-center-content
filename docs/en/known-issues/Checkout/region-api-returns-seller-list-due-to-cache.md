@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: region-api-returns-seller-list-due-to-cache
+slugEN: region-api-returns-seller-list-due-to-cache
 locale: en
 kiStatus: Backlog
 internalReference: 969692

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: vtexcmc-productgifts-does-not-work-before-acessing-checkout
+slugEN: vtexcmc-productgifts-does-not-work-before-acessing-checkout
 locale: en
 kiStatus: Backlog
 internalReference: 1029719

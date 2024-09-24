@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: incorrect-canonical-tag-on-https-pages
+slugEN: incorrect-canonical-tag-on-https-pages
 locale: en
 kiStatus: Backlog
 internalReference: 
@@ -25,7 +25,7 @@ Upon activating a specific HTTPS folder, the _canonical_ HTML tag continues to r
 1. Activate HTTPS in a single folder of the site ([guide](https://help.vtex.com/tutorial/--frequentlyAskedQuestions_4378));
 2. Check the _canonical_ tag in the rendered HTML.
 
-![image](https://images.contentful.com/alneenqid6w5/5B2i3p2lva8OO0I4geI8Qw/7321c0d4c0a2f8d20a7940ace91bcbff/image.png)
+![image](//images.contentful.com/alneenqid6w5/5B2i3p2lva8OO0I4geI8Qw/7321c0d4c0a2f8d20a7940ace91bcbff/image.png)
 
 ## Workaround
 

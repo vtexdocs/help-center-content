@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:46.851Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: canceling-orders
+slugEN: canceling-orders
 locale: en
 legacySlug: canceling-orders
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

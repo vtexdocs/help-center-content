@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-06T18:42:52.173Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-deuna
+slugEN: setting-up-payments-with-deuna
 locale: en
 legacySlug: setting-up-payments-with-deuna
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

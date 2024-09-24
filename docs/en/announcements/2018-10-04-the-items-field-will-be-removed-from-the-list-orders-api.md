@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:36.551Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_24
-slug: the-items-field-will-be-removed-from-the-list-orders-api
+slugEN: the-items-field-will-be-removed-from-the-list-orders-api
 locale: en
 legacySlug: the-items-field-will-be-removed-from-the-list-orders-api
 announcementImageID: ''

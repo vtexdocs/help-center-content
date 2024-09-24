@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-22T02:14:13.962Z
 contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
-slug: is-it-possible-to-change-data-in-a-master-workspace
+slugEN: is-it-possible-to-change-data-in-a-master-workspace
 locale: en
 legacySlug: is-it-possible-to-change-data-in-a-master-workspace
 ---

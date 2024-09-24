@@ -9,7 +9,7 @@ firstPublishedAt: 2017-09-13T18:40:30.973Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: integration-guide-for-erps-catalog-architecture
+slugEN: integration-guide-for-erps-catalog-architecture
 locale: en
 legacySlug: integration-guide-for-erps-catalog-architecture
 subcategoryId: 5fKgQZhrCw88ACy6Su6GUc

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:48.509Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: orders-list
+slugEN: orders-list
 locale: en
 legacySlug: orders-list
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
@@ -17,7 +17,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 Using the list of orders from the Orders Managment, stores owner can monitor purchases made in their store. The list is available on the first screen of the Orders Managment module.
 
-![todosospedidos.en](https://images.ctfassets.net/alneenqid6w5/4ovDqNLqLNMUxrwjgQ8oDx/2557b8aa39c07af3ce23f85508b49de3/todosospedidos.en.png)
+![todosospedidos.en](//images.ctfassets.net/alneenqid6w5/4ovDqNLqLNMUxrwjgQ8oDx/2557b8aa39c07af3ce23f85508b49de3/todosospedidos.en.png)
 
 The standard view lists all store orders, beginning with the most recent. You can change the order by clicking on the column names, as well as by searching or filtering the orders using specific data, in addition to exporting this data.
 
@@ -30,7 +30,7 @@ By clicking on any order, the user is directed to the order details page.
 
 Whenever Orders Managment is open and new orders are placed, a notice will be displayed, allowing you to click and update the list of orders.
 
-![novopedido.en](https://images.ctfassets.net/alneenqid6w5/7c1NoN8MjO6b9jI6YAUVzM/6b461e799f1dd8f7039bf9a8b1755ae5/novopedido.en.png)
+![novopedido.en](//images.ctfassets.net/alneenqid6w5/7c1NoN8MjO6b9jI6YAUVzM/6b461e799f1dd8f7039bf9a8b1755ae5/novopedido.en.png)
 
 See more details about the columns on the list below:
 
@@ -38,7 +38,7 @@ See more details about the columns on the list below:
 
 Nothing more than the order number (displayed to the customer), with the suffix and the sequential transaction code (for in-house use).
 
-![nsequencial.en](https://images.ctfassets.net/alneenqid6w5/4BOiejle8VtmGM364EiKXl/bb1e5d5d8b1020ce6d89c01262ef644c/nsequencial.en.png)
+![nsequencial.en](//images.ctfassets.net/alneenqid6w5/4BOiejle8VtmGM364EiKXl/bb1e5d5d8b1020ce6d89c01262ef644c/nsequencial.en.png)
 
 ### Order number
 
@@ -75,7 +75,7 @@ Always contains the name and surname of the customer who made the purchase, even
 
 Shows how many different products the order contains (without taking into account the quantity of each item purchased). Moving the mouse makes it possible to see which products were purchased.
 
-![oms produtos do pedido](https://images.contentful.com/alneenqid6w5/4fTIEf2ywwc2U2IuwSkg8U/82b81b00387db8959cf18ae392e5e1f0/oms-produtos-do-pedido.png)
+![oms produtos do pedido](//images.contentful.com/alneenqid6w5/4fTIEf2ywwc2U2IuwSkg8U/82b81b00387db8959cf18ae392e5e1f0/oms-produtos-do-pedido.png)
 
 ## Amount
 

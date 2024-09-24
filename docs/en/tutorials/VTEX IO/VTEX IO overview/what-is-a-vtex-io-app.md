@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:59:44.319Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: what-is-a-vtex-io-app
+slugEN: what-is-a-vtex-io-app
 locale: en
 legacySlug: what-is-an-app
 subcategoryId: 5eBwrcLFVSwYGSOQqGKQYW

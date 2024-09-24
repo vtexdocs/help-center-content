@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Cloud Services
 author: 2mXZkbi0oi061KicTExNjo
 tag: Cloud Services
-slug: ab-tester-app-shows-miscalculated-information-for-sessions-and-conversion
+slugEN: ab-tester-app-shows-miscalculated-information-for-sessions-and-conversion
 locale: en
 kiStatus: No Fix
 internalReference: 865727

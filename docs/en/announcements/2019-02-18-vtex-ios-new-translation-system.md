@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
-slug: vtex-ios-new-translation-system
+slugEN: vtex-ios-new-translation-system
 locale: en
 legacySlug: vtex-ios-new-translation-system
 announcementImageID: ''

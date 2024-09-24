@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: transactions-entered-into-wrong-conditions
+slugEN: transactions-entered-into-wrong-conditions
 locale: en
 kiStatus: Backlog
 internalReference: 392666

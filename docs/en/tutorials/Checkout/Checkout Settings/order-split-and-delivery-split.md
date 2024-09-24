@@ -9,7 +9,7 @@ firstPublishedAt: 2021-09-27T21:12:55.418Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: order-split-and-delivery-split
+slugEN: order-split-and-delivery-split
 locale: en
 legacySlug: order-split-and-delivery-split
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:51.595Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: requesting-a-new-environment
+slugEN: requesting-a-new-environment
 locale: en
 legacySlug: purchasing-and-accessing-your-environment
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm

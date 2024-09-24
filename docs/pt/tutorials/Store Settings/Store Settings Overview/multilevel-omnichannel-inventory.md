@@ -9,7 +9,7 @@ firstPublishedAt: 2020-12-08T19:12:43.325Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: multilevel-omnichannel-inventory
+slugEN: multilevel-omnichannel-inventory
 locale: pt
 legacySlug: marketplace-recursivo-v2
 subcategoryId: 5RAUzLD6X9Wa1maenj1eGA
@@ -36,7 +36,7 @@ Também é possível que esse seller principal venda seus produtos em um marketp
 
 Quando isso ocorre, temos uma arquitetura de três níveis entre marketplace, seller principal,  e seus sellers white label, como ilustra a imagem abaixo.
 
-![Arquitetura Multilevel omichannel inventory](https://images.ctfassets.net/alneenqid6w5/7k6hYv3kWxBVZrPFkUbsCK/b70689c18e55ad472f71176a283b9c17/Screen_Shot_2022-09-30_at_18.57.26.png)
+![Arquitetura Multilevel omichannel inventory](//images.ctfassets.net/alneenqid6w5/7k6hYv3kWxBVZrPFkUbsCK/b70689c18e55ad472f71176a283b9c17/Screen_Shot_2022-09-30_at_18.57.26.png)
 
 Por padrão, os produtos das lojas físicas, ou sellers white label (nível 3, na imagem), não ficam disponíveis para serem vendidos pelo marketplace do nível 1. Mas é possível torná-los disponíveis com a funcionalidade **Multilevel Omnichannel Inventory.**
 

@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-30T20:01:51.283Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-retrypay
+slugEN: setting-up-payments-with-retrypay
 locale: en
 legacySlug: setting-up-payments-with-retrypay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

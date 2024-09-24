@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-myvtex-iframe-html-select-breaking-for-chrome-108
+slugEN: catalog-myvtex-iframe-html-select-breaking-for-chrome-108
 locale: en
 kiStatus: Backlog
 internalReference: 711637

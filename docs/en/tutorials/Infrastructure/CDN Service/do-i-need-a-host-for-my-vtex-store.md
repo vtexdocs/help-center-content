@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:11:53.816Z
 contentType: tutorial
 productTeam: Reliability
 author: authors_4
-slug: do-i-need-a-host-for-my-vtex-store
+slugEN: do-i-need-a-host-for-my-vtex-store
 locale: en
 legacySlug: do-i-need-a-host-for-my-vtex-store
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy

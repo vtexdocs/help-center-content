@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: b2b-suite-dont-use-geocoordinates-to-calculate-region-id
+slugEN: b2b-suite-dont-use-geocoordinates-to-calculate-region-id
 locale: en
 kiStatus: Backlog
 internalReference: 1055033

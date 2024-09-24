@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: deleted-customer-credit-rules-will-appear-at-checkout-if-not-deactivated-previously
+slugEN: deleted-customer-credit-rules-will-appear-at-checkout-if-not-deactivated-previously
 locale: en
 kiStatus: Backlog
 internalReference: 994066

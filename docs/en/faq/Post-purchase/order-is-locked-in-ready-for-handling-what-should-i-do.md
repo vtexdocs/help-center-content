@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:34.947Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
-slug: order-is-locked-in-ready-for-handling-what-should-i-do
+slugEN: order-is-locked-in-ready-for-handling-what-should-i-do
 locale: en
 legacySlug: order-is-locked-in-pronto-para-manuseio-what-do-i-do
 ---

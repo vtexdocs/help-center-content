@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-31T16:24:19.859Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: piperun-suiteshare
+slugEN: piperun-suiteshare
 locale: en
 legacySlug: piperun-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

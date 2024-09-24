@@ -1,14 +1,14 @@
 ---
 title: 'Merchandising rules'
 id: 5tBSYXb9EIdePa0MWTnFd0
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-03-05T18:53:37.305Z
-updatedAt: 2024-01-29T17:07:18.414Z
-publishedAt: 2024-01-29T17:07:18.414Z
+updatedAt: 2024-09-06T20:09:38.815Z
+publishedAt: 
 firstPublishedAt: 2020-03-05T19:58:55.021Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: merchandising-rules
+slugEN: merchandising-rules
 locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
@@ -30,7 +30,7 @@ On VTEX Admin, the page **Storefront** > **Intelligent Search** > **Merchandisin
 * [Edit](#editing-merchandising-rules)
 * [Delete](#deleting-merchandising-rules)
 
-![merch-rules-en](https://images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/6b6dc34a4127cd654dab40fa17a70664/merch-rules-en.PNG)
+![merch-rules-en](//images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/6b6dc34a4127cd654dab40fa17a70664/merch-rules-en.PNG)
 
 The page displays the following information: 
 

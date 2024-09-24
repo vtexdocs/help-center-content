@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:07:50.458Z
 contentType: tutorial
 productTeam: Financial
 author: authors_3
-slug: how-does-the-payment-split-with-different-sellers-work
+slugEN: how-does-the-payment-split-with-different-sellers-work
 locale: en
 legacySlug: how-does-the-payment-split-with-different-sellers-work
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu

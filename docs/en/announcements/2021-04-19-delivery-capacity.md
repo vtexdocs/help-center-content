@@ -8,7 +8,7 @@ publishedAt: 2021-05-26T11:31:14.946Z
 contentType: updates
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: delivery-capacity
+slugEN: delivery-capacity
 locale: en
 legacySlug: delivery-capacity
 announcementImageID: ''

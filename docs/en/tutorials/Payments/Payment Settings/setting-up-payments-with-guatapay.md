@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-18T16:33:40.921Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-guatapay
+slugEN: setting-up-payments-with-guatapay
 locale: en
 legacySlug: setting-up-payments-with-guatapay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

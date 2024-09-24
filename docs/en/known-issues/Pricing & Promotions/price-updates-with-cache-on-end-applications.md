@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: price-updates-with-cache-on-end-applications
+slugEN: price-updates-with-cache-on-end-applications
 locale: en
 kiStatus: Backlog
 internalReference: 896520

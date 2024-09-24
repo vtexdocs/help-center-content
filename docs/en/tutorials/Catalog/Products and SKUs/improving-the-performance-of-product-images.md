@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:16.876Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_65
-slug: improving-the-performance-of-product-images
+slugEN: improving-the-performance-of-product-images
 locale: en
 legacySlug: improving-the-performance-of-product-images
 subcategoryId: pwxWmUu7T222QyuGogs68
@@ -64,7 +64,7 @@ In our previous example, all you have to do is to write the URL of the image in 
 
 In this way, VTEX Img will deliver the image with a size of 50×50. This will make it much quicker to load.
 
-![tamanhosImg](https://images.contentful.com/alneenqid6w5/p4aDcgaE4SmyYkCwaW0CI/189307d29c86dae17beabde67780d907/tamanhosImg.png)
+![tamanhosImg](//images.contentful.com/alneenqid6w5/p4aDcgaE4SmyYkCwaW0CI/189307d29c86dae17beabde67780d907/tamanhosImg.png)
 _Sending images of a size larger than will be shown damages your store’s performance._
 
 ## Rectangular images

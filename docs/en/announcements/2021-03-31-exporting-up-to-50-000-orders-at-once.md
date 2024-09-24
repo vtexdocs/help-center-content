@@ -8,7 +8,7 @@ publishedAt: 2021-04-05T13:00:57.489Z
 contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slug: exporting-up-to-50-000-orders-at-once
+slugEN: exporting-up-to-50-000-orders-at-once
 locale: en
 legacySlug: exporting-up-to-50-000-orders-at-once
 announcementImageID: ''

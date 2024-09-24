@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-24T17:00:14.134Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: managing-delivery-capacity
+slugEN: managing-delivery-capacity
 locale: en
 legacySlug: managing-delivery-capacity
 subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi

@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-22T17:34:38.586Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-ebanx-local
+slugEN: setting-up-payments-with-ebanx-local
 locale: en
 legacySlug: setting-up-payments-with-ebanx-local
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

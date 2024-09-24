@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:58:52.021Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: what-customized-payments-are-available-in-latin-america
+slugEN: what-customized-payments-are-available-in-latin-america
 locale: en
 legacySlug: what-customized-payments-are-available-in-latin-america
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

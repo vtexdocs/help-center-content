@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: spotprice-from-the-skujson-is-incorrect-for-products-with-multiple-sellers
+slugEN: spotprice-from-the-skujson-is-incorrect-for-products-with-multiple-sellers
 locale: en
 kiStatus: No Fix
 internalReference: 264791

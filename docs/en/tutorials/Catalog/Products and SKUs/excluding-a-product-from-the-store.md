@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:07:35.814Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: excluding-a-product-from-the-store
+slugEN: excluding-a-product-from-the-store
 locale: en
 legacySlug: excluding-a-product-from-the-store
 subcategoryId: pwxWmUu7T222QyuGogs68
@@ -27,6 +27,6 @@ However, if the product in question has some link to another area of the system 
 
 In this case, the following error message will appear if you try to delete it:
 
-![errorDelete](https://images.contentful.com/alneenqid6w5/19vbt8GlfOK0IMEMEo86Gu/75d44c69a5d553d485daa668d1ab19bc/erroExcluir.png)
+![errorDelete](//images.contentful.com/alneenqid6w5/19vbt8GlfOK0IMEMEo86Gu/75d44c69a5d553d485daa668d1ab19bc/erroExcluir.png)
 
 The solution is to deactivate the product. See how to do this in the article [Deactivating store SKUs and products](/en/tutorial/deactivating-store-skus-and-products).

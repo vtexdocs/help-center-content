@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-10-21T12:50:14.542Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: carrier-concept-definition
+slugEN: carrier-concept-definition
 locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101

@@ -9,7 +9,7 @@ firstPublishedAt: 2020-06-12T21:29:05.531Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: vtex-payment-customer-service
+slugEN: vtex-payment-customer-service
 locale: en
 legacySlug: vtex-payment-customer-service
 subcategoryId: 6uIlQ5imochc5LFi3dzCSv

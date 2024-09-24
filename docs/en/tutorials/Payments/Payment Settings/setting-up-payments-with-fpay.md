@@ -9,7 +9,7 @@ firstPublishedAt: 2022-10-18T19:42:03.523Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-fpay
+slugEN: setting-up-payments-with-fpay
 locale: en
 legacySlug: setting-up-payments-with-fpay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

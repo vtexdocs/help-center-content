@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: text-in-store-login-are-not-being-translated-using-site-editor
+slugEN: text-in-store-login-are-not-being-translated-using-site-editor
 locale: en
 kiStatus: Backlog
 internalReference: 911757

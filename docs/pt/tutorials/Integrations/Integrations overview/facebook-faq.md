@@ -9,7 +9,7 @@ firstPublishedAt: 2021-06-16T19:43:11.993Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: facebook-faq
+slugEN: facebook-faq
 locale: pt
 legacySlug: facebook-faq
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
@@ -36,7 +36,7 @@ O primeiro passo a se investigar nesse cenário é se realmente o SKU não possu
 
 Caso o SKU possua um preço, verifique o status desse SKU pois o erro também pode estar relacionado com a situação de ativo/inativo. A melhor forma de fazer isso é realizando uma simulação de checkout:
 
-![face faq01](https://images.ctfassets.net/alneenqid6w5/6PFO5g1ZrT0uv7uWLdWNmT/c7b62f12066bdb95f7c45d533b2bb460/face_faq01.JPG)
+![face faq01](//images.ctfassets.net/alneenqid6w5/6PFO5g1ZrT0uv7uWLdWNmT/c7b62f12066bdb95f7c45d533b2bb460/face_faq01.JPG)
 
 Nessa simulação é importante analisar os campos:
 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: unable-to-create-produtos-relacionados-custom-element
+slugEN: unable-to-create-produtos-relacionados-custom-element
 locale: en
 kiStatus: Backlog
 internalReference: 326899

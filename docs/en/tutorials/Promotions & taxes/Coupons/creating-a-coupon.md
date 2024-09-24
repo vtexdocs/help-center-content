@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:14.329Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: creating-a-coupon
+slugEN: creating-a-coupon
 locale: en
 legacySlug: creating-a-coupon
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi

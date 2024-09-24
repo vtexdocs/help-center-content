@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:43.407Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: setting-up-shipment
+slugEN: setting-up-shipment
 locale: en
 legacySlug: setting-up-shipment
 subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi
@@ -25,7 +25,7 @@ The first box with a total time of __2 days__ will wait for the item represented
 
 The period considers T = 0 as the date of the order.
 
-![Configuração em estoque e entrega EN](https://images.ctfassets.net/alneenqid6w5/2lvFxIIkeZtgpqm66yRiyf/c529a129854fed2bf8c6309e132bb0c4/Configura____o_em_estoque_e_entrega_EN.png)
+![Configuração em estoque e entrega EN](//images.ctfassets.net/alneenqid6w5/2lvFxIIkeZtgpqm66yRiyf/c529a129854fed2bf8c6309e132bb0c4/Configura____o_em_estoque_e_entrega_EN.png)
 
 ## How to set up the shipment
 

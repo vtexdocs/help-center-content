@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-04T19:47:54.558Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-azteca-acquirer
+slugEN: setting-up-azteca-acquirer
 locale: en
 legacySlug: setting-up-azteca-acquirer
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

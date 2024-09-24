@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:30.887Z
 contentType: updates
 productTeam: Others
 author: authors_24
-slug: meet-vtex-helps-new-content-format-the-tracks
+slugEN: meet-vtex-helps-new-content-format-the-tracks
 locale: en
 legacySlug: meet-vtex-helps-new-content-format-the-tracks
 announcementImageID: ''

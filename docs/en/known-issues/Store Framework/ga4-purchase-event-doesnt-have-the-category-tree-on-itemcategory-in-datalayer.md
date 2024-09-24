@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: ga4-purchase-event-doesnt-have-the-category-tree-on-itemcategory-in-datalayer
+slugEN: ga4-purchase-event-doesnt-have-the-category-tree-on-itemcategory-in-datalayer
 locale: en
 kiStatus: Backlog
 internalReference: 860655

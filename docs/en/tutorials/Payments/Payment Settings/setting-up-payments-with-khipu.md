@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-30T14:08:54.819Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-khipu
+slugEN: setting-up-payments-with-khipu
 locale: en
 legacySlug: setting-up-payments-with-khipu
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

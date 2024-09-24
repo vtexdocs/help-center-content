@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:51.625Z
 contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
-slug: configuring-the-store-domain
+slugEN: configuring-the-store-domain
 locale: en
 legacySlug: configuring-domains-in-license-manager
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
@@ -26,7 +26,7 @@ Domain-related settings are necessary for a web address to be correctly routed t
 
 The store's address is composed of the following elements:
 
-![url-diagram-en](https://images.ctfassets.net/alneenqid6w5/kg98gTuZiMlewhPiRAyaF/ad84010eef6bab7fae5123f18ab0887d/url-diagram-en.png)
+![url-diagram-en](//images.ctfassets.net/alneenqid6w5/kg98gTuZiMlewhPiRAyaF/ad84010eef6bab7fae5123f18ab0887d/url-diagram-en.png)
 
 | Element | Description | Example |
 |---|---|---|

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: possibility-to-proceed-to-payment-with-blank-number-address-and-receiver-name-in-the-checkout-ui
+slugEN: possibility-to-proceed-to-payment-with-blank-number-address-and-receiver-name-in-the-checkout-ui
 locale: en
 kiStatus: Fixed
 internalReference: 554052

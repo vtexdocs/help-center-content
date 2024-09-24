@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: quantity-selector-wont-let-me-change-the-value-by-typing
+slugEN: quantity-selector-wont-let-me-change-the-value-by-typing
 locale: en
 kiStatus: Fixed
 internalReference: 1057544

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-12T19:39:58.598Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-scalapay
+slugEN: setting-up-payments-with-scalapay
 locale: en
 legacySlug: setting-up-payments-with-scalapay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: intelligent-search-redirect-settings-search-bar-is-case-sensitive
+slugEN: intelligent-search-redirect-settings-search-bar-is-case-sensitive
 locale: en
 kiStatus: Backlog
 internalReference: 361894

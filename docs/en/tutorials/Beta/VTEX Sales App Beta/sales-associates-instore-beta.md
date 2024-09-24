@@ -9,7 +9,7 @@ firstPublishedAt: 2022-12-02T18:40:20.036Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: sales-associates-instore-beta
+slugEN: sales-associates-instore-beta
 locale: en
 legacySlug: sales-associates-instore-beta
 subcategoryId: 5SE2asHiQtHKfbnFru8RWH
@@ -27,7 +27,7 @@ This page allows you to manage your sellers from the following actions:
 * [Edit](#editing-sales-associate-information)
 * [Delete](#deleting-a-sales-associate)
 
-![vendedores-en](https://images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/da3c90c0dfb50c0b5c40b9743b421c8b/image.png)
+![vendedores-en](//images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/da3c90c0dfb50c0b5c40b9743b421c8b/image.png)
 
 The page displays the following information: 
 
@@ -50,7 +50,7 @@ You can add a sales associate by following the steps below:
 
 After creation, the sales associate will receive a confirmation email and will be redirected to the sales associate's login option in the inStore app.
 
-![email-vendedor-pt](https://images.ctfassets.net/alneenqid6w5/28VbbIXujzHcE3BriNtZPq/3aa9729eb2211875302b7316dbe46c93/image.png)
+![email-vendedor-pt](//images.ctfassets.net/alneenqid6w5/28VbbIXujzHcE3BriNtZPq/3aa9729eb2211875302b7316dbe46c93/image.png)
 
 >⚠️ Sales associates registered in inStore cannot access the VTEX Admin. If a sales associate tries to log in to Admin, their registration will be deleted.
 

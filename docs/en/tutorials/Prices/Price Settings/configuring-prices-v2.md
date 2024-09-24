@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:16.723Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: configuring-prices-v2
+slugEN: configuring-prices-v2
 locale: en
 legacySlug: configuring-prices-v2
 subcategoryId: 3O1NvPgBPqE0qU88MSQaie
@@ -20,7 +20,7 @@ The functions described in this article are not yet available for all clients.
 
 Price configurations are accessed by the **Settings** button in the **Prices** module.
 
-![Preco24](https://images.contentful.com/alneenqid6w5/5Wm20idGbCG0uKei00QQOi/5e18f35d0dd0790e5be98341c67ab4a6/Preco24.gif)
+![Preco24](//images.contentful.com/alneenqid6w5/5Wm20idGbCG0uKei00QQOi/5e18f35d0dd0790e5be98341c67ab4a6/Preco24.gif)
 
 &nbsp;
 
@@ -43,4 +43,4 @@ Minimum markup is entered on the Configurações screen as a benchmark for two s
 
 The initial minimum markup, for each commercial policy, is always zero, and can be freely adjusted to positive or negative values.
 
-![Preco25](https://images.contentful.com/alneenqid6w5/12nLR9a2AMwCeuYmmIagCI/94ff929a610a22b1fec685acfc0aec7c/Preco25.gif)
+![Preco25](//images.contentful.com/alneenqid6w5/12nLR9a2AMwCeuYmmIagCI/94ff929a610a22b1fec685acfc0aec7c/Preco25.gif)

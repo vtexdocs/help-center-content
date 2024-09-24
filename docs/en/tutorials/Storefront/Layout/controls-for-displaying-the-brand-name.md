@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-26T14:13:31.398Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: controls-for-displaying-the-brand-name
+slugEN: controls-for-displaying-the-brand-name
 locale: en
 legacySlug: controls-for-displaying-the-brand-name
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

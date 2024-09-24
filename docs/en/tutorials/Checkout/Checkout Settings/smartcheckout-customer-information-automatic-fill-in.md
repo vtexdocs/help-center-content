@@ -9,7 +9,7 @@ firstPublishedAt: 2022-06-01T16:54:34.605Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: smartcheckout-customer-information-automatic-fill-in
+slugEN: smartcheckout-customer-information-automatic-fill-in
 locale: en
 legacySlug: smartcheckout-customer-information-automatic-fill-in
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

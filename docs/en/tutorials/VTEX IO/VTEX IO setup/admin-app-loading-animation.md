@@ -9,7 +9,7 @@ firstPublishedAt: 2018-08-09T21:48:41.449Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 5dYWGfGKUwkI86Gomk6AcQ
-slug: admin-app-loading-animation
+slugEN: admin-app-loading-animation
 locale: en
 legacySlug: admin-app-loading-animation
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

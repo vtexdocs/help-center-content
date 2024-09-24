@@ -9,7 +9,7 @@ firstPublishedAt: 2022-06-22T19:19:11.694Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-parcelex
+slugEN: setting-up-payments-with-parcelex
 locale: en
 legacySlug: setting-up-payments-with-parcelex
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

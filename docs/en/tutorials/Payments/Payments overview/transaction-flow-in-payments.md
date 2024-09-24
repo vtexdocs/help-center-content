@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:42:56.197Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slug: transaction-flow-in-payments
+slugEN: transaction-flow-in-payments
 locale: en
 legacySlug: transaction-flow-in-pci-gateway
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
@@ -19,7 +19,7 @@ Transactions performed by VTEX Payments go through a variety of statuses, from t
 
 See below an example timeline with the transaction statuses.
 
-![Transaction Flow](https://images.contentful.com/alneenqid6w5/4AvpkJnEN2ImKkIgQQoIKK/e031cc030d5e1da745fac51137c4d4b2/Transaction_Flow.jpg)
+![Transaction Flow](//images.contentful.com/alneenqid6w5/4AvpkJnEN2ImKkIgQQoIKK/e031cc030d5e1da745fac51137c4d4b2/Transaction_Flow.jpg)
 
 1. __Authorizing__: This is the first status of a Payments transaction. At this stage, Payments indicates that the process of sending information to an acquirer or to another gateway has begun.
 2. __Authorized__: Upon initiation of the authorization process, the acquirer or other gateway sends the transaction information to the issuing bank. The bank responds whether or not the transaction should be authorized. If it denies the transaction, the payment is __canceled__. If it authorizes, the transaction status changes to __Authorized__.

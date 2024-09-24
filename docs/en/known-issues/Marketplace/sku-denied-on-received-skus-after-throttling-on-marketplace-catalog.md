@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: sku-denied-on-received-skus-after-throttling-on-marketplace-catalog
+slugEN: sku-denied-on-received-skus-after-throttling-on-marketplace-catalog
 locale: en
 kiStatus: Backlog
 internalReference: 970208

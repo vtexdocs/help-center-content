@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-06T12:31:03.507Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: how-to-use-the-search-result-control
+slugEN: how-to-use-the-search-result-control
 locale: en
 legacySlug: how-to-use-the-search-result-control
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -44,14 +44,14 @@ See below the list of all attributes of the Search Result control:
 
 The code rendered by the Search Result control has the following structure by default:
 
-![searchResult1](https://images.ctfassets.net/alneenqid6w5/3BbGHkrGZi8KK4U82IAq6w/123f66c2caa97aca4fc60018cf295aca/searchResult1.jpg) 
+![searchResult1](//images.ctfassets.net/alneenqid6w5/3BbGHkrGZi8KK4U82IAq6w/123f66c2caa97aca4fc60018cf295aca/searchResult1.jpg) 
 
 And the corresponding elements that are rendered by the control in its non-customized version follow the pattern below:
 
-![searchResult2](https://images.ctfassets.net/alneenqid6w5/4R3iwa4QXCW4KUo0sGUuua/4bce4569fadb45665bba25f77d25840d/searchResult2.jpg) 
+![searchResult2](//images.ctfassets.net/alneenqid6w5/4R3iwa4QXCW4KUo0sGUuua/4bce4569fadb45665bba25f77d25840d/searchResult2.jpg) 
 
-![searchResult3](https://images.ctfassets.net/alneenqid6w5/1gTj36n2VsOWUuuQ4iWoI0/a873543da266c31f8bc8cc85cf6707ae/searchResult3.jpg) 
+![searchResult3](//images.ctfassets.net/alneenqid6w5/1gTj36n2VsOWUuuQ4iWoI0/a873543da266c31f8bc8cc85cf6707ae/searchResult3.jpg) 
 
-![searchResult4](https://images.ctfassets.net/alneenqid6w5/4iv9Pq4zRu62EAei6EOgAC/84b0de1953a6db756aa78a6196478e20/searchResult4.jpg) 
+![searchResult4](//images.ctfassets.net/alneenqid6w5/4iv9Pq4zRu62EAei6EOgAC/84b0de1953a6db756aa78a6196478e20/searchResult4.jpg) 
 
-![searchResult5](https://images.ctfassets.net/alneenqid6w5/5uupcekvIIkmmQoCImAEwm/815fedbba0acb340cd895efb9980ab14/searchResult5.jpg)
+![searchResult5](//images.ctfassets.net/alneenqid6w5/5uupcekvIIkmmQoCImAEwm/815fedbba0acb340cd895efb9980ab14/searchResult5.jpg)

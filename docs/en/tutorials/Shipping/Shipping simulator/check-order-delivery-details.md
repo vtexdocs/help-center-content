@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:02:44.864Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
-slug: check-order-delivery-details
+slugEN: check-order-delivery-details
 locale: en
 legacySlug: check-order-delivery-details
 subcategoryId: 1O8AEORWOcgIiMosGoousQ
@@ -45,7 +45,7 @@ To see these details, do a [shipping simulation](/en/tutorial/freight-simulation
 6. Enter the zip code of the order.
 7. Click on __Shipping Simulation__.
 
-![gerenciamento-pedidos-filtro-hoje en](https://images.ctfassets.net/alneenqid6w5/9qtBlqEOicqQMqqGmuOWU/86e3bb19ce13e8880561f715f1d4b0d8/simular-frete_en.png)
+![gerenciamento-pedidos-filtro-hoje en](//images.ctfassets.net/alneenqid6w5/9qtBlqEOicqQMqqGmuOWU/86e3bb19ce13e8880561f715f1d4b0d8/simular-frete_en.png)
 
 For each carrier considered in the simulation, you can see the details of the corresponding order. To do this, click __show details__. 
 

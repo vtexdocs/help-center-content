@@ -9,7 +9,7 @@ firstPublishedAt: 2017-11-06T20:54:28.487Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: why-isnt-the-product-or-sku-field-filter-bringing-any-result-in-the-search
+slugEN: why-isnt-the-product-or-sku-field-filter-bringing-any-result-in-the-search
 locale: en
 legacySlug: why-isnt-the-product-or-sku-field-filter-bringing-any-result-in-the-search
 ---
@@ -30,4 +30,4 @@ To access this screen, follow the steps below:
 
 The Filter flag is on the product field configuration screen.
 
-![Filtro Campo de produto](https://images.contentful.com/alneenqid6w5/3XSX1nXvjW8kuCi20GaueM/d81f6eea3d6d53c78e00b3e367cbf99b/Filtro_Campo_de_produto.png)
+![Filtro Campo de produto](//images.contentful.com/alneenqid6w5/3XSX1nXvjW8kuCi20GaueM/d81f6eea3d6d53c78e00b3e367cbf99b/Filtro_Campo_de_produto.png)

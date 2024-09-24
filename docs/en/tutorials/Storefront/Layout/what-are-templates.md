@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-02T18:01:16.862Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
-slug: what-are-templates
+slugEN: what-are-templates
 locale: en
 legacySlug: what-are-templates
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -32,7 +32,7 @@ In addition to these two basic types, there is also a subdivision of the __page 
 
 And speaking of organization, you will find all templates in **Storefront > Layout > CMS**, gathered in folders according to their type (HTML or Shelves). __Sub Templates__ are in the folder of the same name, which is inside the __HTML Templates__ directory. There, you will be able to create new templates and edit the ones that already exist.
 
-![cms](https://images.ctfassets.net/alneenqid6w5/JJxxdcGFq04SKmaqas6Oy/5c7a29f8676d68cc0d4dc7bfcf639ded/cms.png)
+![cms](//images.ctfassets.net/alneenqid6w5/JJxxdcGFq04SKmaqas6Oy/5c7a29f8676d68cc0d4dc7bfcf639ded/cms.png)
 
 ### Related articles
 - [What is CMS?](/en/tutorial/what-is-cms)

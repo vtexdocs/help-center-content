@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: its-possible-to-go-from-order-to-transaction-but-the-inverse-flow-doesnt-work
+slugEN: its-possible-to-go-from-order-to-transaction-but-the-inverse-flow-doesnt-work
 locale: en
 kiStatus: Backlog
 internalReference: 393483

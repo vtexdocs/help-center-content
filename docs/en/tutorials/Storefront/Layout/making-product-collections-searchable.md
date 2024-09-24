@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:32:24.014Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: making-product-collections-searchable
+slugEN: making-product-collections-searchable
 locale: en
 legacySlug: tornar-colecao-de-produtos-encontravel-pela-busca
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

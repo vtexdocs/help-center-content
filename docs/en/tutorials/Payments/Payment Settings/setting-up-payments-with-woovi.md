@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-08T17:49:01.961Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-woovi
+slugEN: setting-up-payments-with-woovi
 locale: en
 legacySlug: setting-up-payments-with-woovi
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

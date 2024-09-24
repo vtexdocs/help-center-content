@@ -9,7 +9,7 @@ firstPublishedAt: 2024-08-14T18:12:53.564Z
 contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slug: synonyms
+slugEN: synonyms
 locale: en
 legacySlug: synonyms
 subcategoryId: BBzMtJan1UTxC9QZODnlN

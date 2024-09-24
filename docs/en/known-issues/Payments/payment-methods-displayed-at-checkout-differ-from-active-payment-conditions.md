@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: payment-methods-displayed-at-checkout-differ-from-active-payment-conditions
+slugEN: payment-methods-displayed-at-checkout-differ-from-active-payment-conditions
 locale: en
 kiStatus: Backlog
 internalReference: 666469

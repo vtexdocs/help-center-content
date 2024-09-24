@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-25T14:56:56.161Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: cms-folder-structure
+slugEN: cms-folder-structure
 locale: en
 legacySlug: cms-folder-structure
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -33,7 +33,7 @@ These are the folders that every store needs to have in the CMS to ensure the co
 
 See below these basic folders in the CMS:
 
-![pastasObrigatorias](https://images.contentful.com/alneenqid6w5/2yLeJGvd48WcA6egy2kSSC/43e22907371f954df25d5fd7e5dd116b/pastasObrigatorias.png)
+![pastasObrigatorias](//images.contentful.com/alneenqid6w5/2yLeJGvd48WcA6egy2kSSC/43e22907371f954df25d5fd7e5dd116b/pastasObrigatorias.png)
 
 These folders come by default in the environment of all VTEX stores.
 

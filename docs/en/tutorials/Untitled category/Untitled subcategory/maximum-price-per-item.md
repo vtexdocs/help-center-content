@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:14.883Z
 contentType: tutorial
 productTeam: Others
 author: authors_24
-slug: maximum-price-per-item
+slugEN: maximum-price-per-item
 locale: en
 legacySlug: maximum-price-per-item
 subcategoryId: unknown-subcategory

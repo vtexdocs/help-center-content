@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: search-analytics-duplicated-events
+slugEN: search-analytics-duplicated-events
 locale: en
 kiStatus: Fixed
 internalReference: 771986

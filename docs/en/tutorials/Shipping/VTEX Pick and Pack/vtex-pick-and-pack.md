@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-10T15:42:38.221Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: vtex-pick-and-pack
+slugEN: vtex-pick-and-pack
 locale: en
 legacySlug: vtex-pick-and-pack
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt

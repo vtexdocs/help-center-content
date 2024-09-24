@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: legacy-collection-ui-category-filter-selecting-products-wrongly-to-the-collection
+slugEN: legacy-collection-ui-category-filter-selecting-products-wrongly-to-the-collection
 locale: en
 kiStatus: No Fix
 internalReference: 590934

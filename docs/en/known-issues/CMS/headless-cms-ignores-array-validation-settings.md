@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: headless-cms-ignores-array-validation-settings
+slugEN: headless-cms-ignores-array-validation-settings
 locale: en
 kiStatus: Backlog
 internalReference: 1046372

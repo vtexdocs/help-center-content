@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:43.888Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
-slug: why-has-my-product-been-wrongly-categorized-on-mercado-livre
+slugEN: why-has-my-product-been-wrongly-categorized-on-mercado-livre
 locale: en
 legacySlug: why-has-my-product-been-wrongly-categorized-on-mercado-livre
 ---
@@ -28,7 +28,7 @@ Mercado Livre has a tool which automatically defines the category of each produc
 
 To fix this, you can [add a product specification](/en/tutorial/creating-a-product-field), **mandatorily** with the `categoria_meli` name. This specification will be able to be given different values, each of them representing a category in Mercado Livre.
 
-The values will be the category IDs. Click [here](https://assets.contentful.com/alneenqid6w5/7jBN2dUrjaUOqc4SYCoyaI/54997b8b1df385be79157a5d3c6dd907/MercadoLivre_CategoriasFixas.xlsx) to download a worksheet showing these values.
+The values will be the category IDs. Click [here](//assets.contentful.com/alneenqid6w5/7jBN2dUrjaUOqc4SYCoyaI/54997b8b1df385be79157a5d3c6dd907/MercadoLivre_CategoriasFixas.xlsx) to download a worksheet showing these values.
 
 After registering the specification, you must access each product register and enter the ID as shown in the worksheet.
 

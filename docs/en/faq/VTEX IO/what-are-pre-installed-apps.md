@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T22:53:26.684Z
 contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
-slug: what-are-pre-installed-apps
+slugEN: what-are-pre-installed-apps
 locale: en
 legacySlug: what-are-pre-installed-apps
 ---
@@ -18,7 +18,7 @@ The first time you access your account through VTEX IO CLI, you will see there a
 
 They have been previously installed and are responsible for performing some basic functions.
 
-![appList](https://images.contentful.com/alneenqid6w5/23dywoz95GmeAOkuwe8WWq/d1097f363859c30abd67e699fa0d23ed/appList.png)
+![appList](//images.contentful.com/alneenqid6w5/23dywoz95GmeAOkuwe8WWq/d1097f363859c30abd67e699fa0d23ed/appList.png)
 
 For example:
 - __admins-app__: renders the page of the new VTEX administrative panel.

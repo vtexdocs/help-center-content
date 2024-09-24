@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: b2b-quotes-doesnt-apply-discount-at-checkout-in-the-website-domain
+slugEN: b2b-quotes-doesnt-apply-discount-at-checkout-in-the-website-domain
 locale: en
 kiStatus: Fixed
 internalReference: 849080

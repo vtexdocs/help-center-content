@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T22:50:51.817Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: listing-apps-installed-in-the-store
+slugEN: listing-apps-installed-in-the-store
 locale: en
 legacySlug: listing-apps-installed-in-the-store
 subcategoryId: Z46a6rHVAaAucoiW0skQQ
@@ -26,6 +26,6 @@ You will see a table with the following columns:
 - __Version__: version of the app.
 - __Linked__: whether or not the app is linked.
 
-![appList](https://images.contentful.com/alneenqid6w5/23dywoz95GmeAOkuwe8WWq/d1097f363859c30abd67e699fa0d23ed/appList.png)
+![appList](//images.contentful.com/alneenqid6w5/23dywoz95GmeAOkuwe8WWq/d1097f363859c30abd67e699fa0d23ed/appList.png)
 
 There are no limits for apps that can be created for an account.

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:25.912Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: how-to-configure-the-pagseguro-without-redirect-option-transparent
+slugEN: how-to-configure-the-pagseguro-without-redirect-option-transparent
 locale: en
 legacySlug: how-to-configure-the-pagseguro-without-redirect-option-transparent
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

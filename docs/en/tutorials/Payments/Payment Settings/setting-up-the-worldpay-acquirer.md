@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-28T22:38:14.737Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-the-worldpay-acquirer
+slugEN: setting-up-the-worldpay-acquirer
 locale: en
 legacySlug: setting-up-the-worldpay-acquirer
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

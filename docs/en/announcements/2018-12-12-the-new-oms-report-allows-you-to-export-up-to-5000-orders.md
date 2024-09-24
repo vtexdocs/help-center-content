@@ -8,7 +8,7 @@ publishedAt: 2020-05-12T15:27:46.656Z
 contentType: updates
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
-slug: the-new-oms-report-allows-you-to-export-up-to-5000-orders
+slugEN: the-new-oms-report-allows-you-to-export-up-to-5000-orders
 locale: en
 legacySlug: the-new-oms-report-allows-you-to-export-up-to-5000-orders
 announcementImageID: ''

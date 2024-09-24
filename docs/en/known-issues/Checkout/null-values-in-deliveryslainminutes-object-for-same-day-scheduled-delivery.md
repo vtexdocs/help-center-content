@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: null-values-in-deliveryslainminutes-object-for-same-day-scheduled-delivery
+slugEN: null-values-in-deliveryslainminutes-object-for-same-day-scheduled-delivery
 locale: en
 kiStatus: Backlog
 internalReference: 1079981

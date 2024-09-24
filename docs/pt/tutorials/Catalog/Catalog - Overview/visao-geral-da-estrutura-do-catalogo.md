@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-25T22:06:50.574Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: visao-geral-da-estrutura-do-catalogo
+slugEN: visao-geral-da-estrutura-do-catalogo
 locale: pt
 legacySlug: visao-geral-da-estrutura-do-catalogo
 subcategoryId: 209mOqb3iL1vhCFrvFLfSA
@@ -21,7 +21,7 @@ No Catálogo, os produtos são organizados por categorias, e as categorias organ
 
 Um exemplo de estrutura de catálogo seria o seguinte:
 
-![img como funciona o catalogo](https://images.contentful.com/alneenqid6w5/3AXUNSkDagO06cKmMsq6w4/5e80021d54e3fa58f9b0c6a261e1f407/img_como_funciona_o_catalogo.png)
+![img como funciona o catalogo](//images.contentful.com/alneenqid6w5/3AXUNSkDagO06cKmMsq6w4/5e80021d54e3fa58f9b0c6a261e1f407/img_como_funciona_o_catalogo.png)
 
 >⚠️ Não é necessário que a sua árvore de categorias possua três níveis. A hierarquia exibida acima é apenas um exemplo. A quantidade de níveis de categoria a ser criada depende muito do setor de atuação de cada loja.
 

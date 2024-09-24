@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-15T21:36:39.268Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-customized-payments-using-mercadopago-latin-america
+slugEN: setting-up-customized-payments-using-mercadopago-latin-america
 locale: en
 legacySlug: setting-up-customized-payments-using-mercadopago-latin-america
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

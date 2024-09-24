@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: customer-credit-total-due-value-updating-according-to-the-pagination
+slugEN: customer-credit-total-due-value-updating-according-to-the-pagination
 locale: en
 kiStatus: Backlog
 internalReference: 432587

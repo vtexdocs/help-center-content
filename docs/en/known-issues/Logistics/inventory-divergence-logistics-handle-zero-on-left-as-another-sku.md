@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: inventory-divergence-logistics-handle-zero-on-left-as-another-sku
+slugEN: inventory-divergence-logistics-handle-zero-on-left-as-another-sku
 locale: en
 kiStatus: Fixed
 internalReference: 427610

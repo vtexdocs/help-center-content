@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: transactions-made-with-payu-do-not-change-from-cancelling-status
+slugEN: transactions-made-with-payu-do-not-change-from-cancelling-status
 locale: en
 kiStatus: Backlog
 internalReference: 338124

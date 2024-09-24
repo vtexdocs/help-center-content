@@ -9,7 +9,7 @@ firstPublishedAt: 2021-06-07T20:02:47.377Z
 contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slug: configuring-affirm
+slugEN: configuring-affirm
 locale: en
 legacySlug: configuring-affirm
 subcategoryId: unknown-subcategory

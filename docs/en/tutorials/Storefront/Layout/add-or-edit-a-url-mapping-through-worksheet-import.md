@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-04T15:12:12.019Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: add-or-edit-a-url-mapping-through-worksheet-import
+slugEN: add-or-edit-a-url-mapping-through-worksheet-import
 locale: en
 legacySlug: add-or-edit-a-url-mapping-through-worksheet-import
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -26,4 +26,4 @@ The file structure must be as follows:
 - Column D: Data Inicial (DD/MM /YYYY format)
 - Column E: Data Final (DD/MM /YYYY format)
 
-![urlbuilder en](https://images.ctfassets.net/alneenqid6w5/4rLD4jAM0oaq6CqQam6U4y/895ec67d0ac775529a71b8536e4b03bd/urlbuilder_en.png)
+![urlbuilder en](//images.ctfassets.net/alneenqid6w5/4rLD4jAM0oaq6CqQam6U4y/895ec67d0ac775529a71b8536e4b03bd/urlbuilder_en.png)

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-12-02T21:36:28.350Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
-slug: creating-price-tables
+slugEN: creating-price-tables
 locale: en
 legacySlug: creating-price-tables
 subcategoryId: 4id9W3RDyw02CasOm2C2iy
@@ -23,7 +23,7 @@ To create a new Price Table, follow the steps below:
 4. Choose the name of the pricing table you want to create.
 5. Click on button **Create price table**.
 
-![creating-price-tables](https://images.ctfassets.net/alneenqid6w5/1aG692obTeP7RMdEQd7jGE/5fabe5c47940372d29b45d2718c34b68/criar-tabela-precos-en.gif)
+![creating-price-tables](//images.ctfassets.net/alneenqid6w5/1aG692obTeP7RMdEQd7jGE/5fabe5c47940372d29b45d2718c34b68/criar-tabela-precos-en.gif)
 
 To find a Price Table: 
 

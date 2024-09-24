@@ -9,7 +9,7 @@ firstPublishedAt: 2024-08-14T18:48:03.081Z
 contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slug: merchandising-rules
+slugEN: merchandising-rules
 locale: en
 legacySlug: merchandising-rules
 subcategoryId: 32zXHBMygA2dB6TbCjQJej

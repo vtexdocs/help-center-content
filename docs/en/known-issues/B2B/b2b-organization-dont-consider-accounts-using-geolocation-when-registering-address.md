@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: b2b-organization-dont-consider-accounts-using-geolocation-when-registering-address
+slugEN: b2b-organization-dont-consider-accounts-using-geolocation-when-registering-address
 locale: en
 kiStatus: Backlog
 internalReference: 904907

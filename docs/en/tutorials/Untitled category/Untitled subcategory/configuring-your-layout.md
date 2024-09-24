@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:52.951Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_6
-slug: configuring-your-layout
+slugEN: configuring-your-layout
 locale: en
 legacySlug: configuring-your-layout
 subcategoryId: unknown-subcategory
@@ -21,5 +21,5 @@ If your store doesn't have a team of front-end developers, we suggest you purch
 
 _The video presented in this tutorial has not yet been translated to english. We are working to offer more english-language content. Thank you for the comprehension._
 
-<video class="wp-video-shortcode" id="video-2571-5" width="840" height="473" preload="metadata" controls="controls"><source type="video/mp4" src="https://downloads.contentful.com/alneenqid6w5/2J4oMfae0UoMw6QGKqc466/ddf5f15cb2d4d52e0a0b4f85c033c594/Portal-CMS.mp4?_=5" />[https://downloads.contentful.com/alneenqid6w5/2J4oMfae0UoMw6QGKqc466/ddf5f15cb2d4d52e0a0b4f85c033c594/Portal-CMS.mp4](https://downloads.contentful.com/alneenqid6w5/2J4oMfae0UoMw6QGKqc466/ddf5f15cb2d4d52e0a0b4f85c033c594/Portal-CMS.mp4 "https://downloads.contentful.com/alneenqid6w5/2J4oMfae0UoMw6QGKqc466/ddf5f15cb2d4d52e0a0b4f85c033c594/Portal-CMS.mp4")</video>
+<video class="wp-video-shortcode" id="video-2571-5" width="840" height="473" preload="metadata" controls="controls"><source type="video/mp4" src="//downloads.contentful.com/alneenqid6w5/2J4oMfae0UoMw6QGKqc466/ddf5f15cb2d4d52e0a0b4f85c033c594/Portal-CMS.mp4?_=5" />[//downloads.contentful.com/alneenqid6w5/2J4oMfae0UoMw6QGKqc466/ddf5f15cb2d4d52e0a0b4f85c033c594/Portal-CMS.mp4](//downloads.contentful.com/alneenqid6w5/2J4oMfae0UoMw6QGKqc466/ddf5f15cb2d4d52e0a0b4f85c033c594/Portal-CMS.mp4 "//downloads.contentful.com/alneenqid6w5/2J4oMfae0UoMw6QGKqc466/ddf5f15cb2d4d52e0a0b4f85c033c594/Portal-CMS.mp4")</video>
 

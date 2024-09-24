@@ -8,7 +8,7 @@ publishedAt: 2021-03-18T21:00:39.546Z
 contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: multiple-product-categorization-in-the-dafiti-marketplace
+slugEN: multiple-product-categorization-in-the-dafiti-marketplace
 locale: en
 legacySlug: multiple-product-categorization-in-the-dafiti-marketplace
 announcementImageID: ''

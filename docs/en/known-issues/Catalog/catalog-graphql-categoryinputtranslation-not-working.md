@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-graphql-categoryinputtranslation-not-working
+slugEN: catalog-graphql-categoryinputtranslation-not-working
 locale: en
 kiStatus: Backlog
 internalReference: 1024172

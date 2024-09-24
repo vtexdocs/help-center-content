@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: nominal-discount-is-not-being-distributed-among-all-items-in-the-cart
+slugEN: nominal-discount-is-not-being-distributed-among-all-items-in-the-cart
 locale: en
 kiStatus: Backlog
 internalReference: 334130

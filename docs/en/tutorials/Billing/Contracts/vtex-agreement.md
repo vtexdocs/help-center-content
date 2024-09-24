@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:07:46.230Z
 contentType: tutorial
 productTeam: Billing
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: vtex-agreement
+slugEN: vtex-agreement
 locale: en
 legacySlug: why-didnt-i-receive-the-signed-contract-from-vtex
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
@@ -17,7 +17,7 @@ subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 
 The VTEX Agreement, or Commercial Agreement, consists of two parts: the [MSA (Master Service Agreement)](https://vtex.com/us-en/privacy-and-agreements/agreements/) and the **Appendix 1 Order** Form for the provision of services to companies, or the [MPA (Master Partner Agreement)](https://vtex.com/us-en/privacy-and-agreements/agreements/#:~:text=Master%20Services%20Agreement,Partner%20Agreement) and the **specific Terms and Conditions tailored for the partnership**.
 
-![VTEX Agreement](https://images.ctfassets.net/alneenqid6w5/3PQyLQGwJQ4iS28cP5C4Bf/0927a3945c933046bc6eae8ba1fd0ced/En.png)
+![VTEX Agreement](//images.ctfassets.net/alneenqid6w5/3PQyLQGwJQ4iS28cP5C4Bf/0927a3945c933046bc6eae8ba1fd0ced/En.png)
 
 The [Master Service Agreement](https://vtex.com/us-en/privacy-and-agreements/agreements/) and the [Master Partner Agreement](https://vtex.com/us-en/privacy-and-agreements/agreements/#:~:text=Master%20Services%20Agreement,Partner%20Agreement) are the main service and partnership agreements, respectively. They regulate the relationship between VTEX and its customers or partners. Both vary based on the region in which the company or partner is located.
 

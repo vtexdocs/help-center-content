@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: collection-functionality-doesnt-work-on-giftcard
+slugEN: collection-functionality-doesnt-work-on-giftcard
 locale: en
 kiStatus: Backlog
 internalReference: 319349

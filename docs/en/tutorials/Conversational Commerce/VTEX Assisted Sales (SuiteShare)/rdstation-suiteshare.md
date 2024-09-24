@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T18:36:34.237Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: rdstation-suiteshare
+slugEN: rdstation-suiteshare
 locale: en
 legacySlug: rdstation
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

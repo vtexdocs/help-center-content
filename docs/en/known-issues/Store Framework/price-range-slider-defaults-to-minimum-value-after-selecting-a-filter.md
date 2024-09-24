@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: price-range-slider-defaults-to-minimum-value-after-selecting-a-filter
+slugEN: price-range-slider-defaults-to-minimum-value-after-selecting-a-filter
 locale: en
 kiStatus: Backlog
 internalReference: 843442

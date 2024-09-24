@@ -9,7 +9,7 @@ firstPublishedAt: 2021-06-16T19:43:11.993Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: facebook-faq
+slugEN: facebook-faq
 locale: en
 legacySlug: facebook-faq
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
@@ -36,7 +36,7 @@ The first step in this scenario is to investigate whether the SKU in fact does n
 
 If the SKU does have a price, check its status, as the error may also be related to its active/inactive status. The best way to do this is by performing a checkout simulation:
 
-![face faq01](https://images.ctfassets.net/alneenqid6w5/6PFO5g1ZrT0uv7uWLdWNmT/c7b62f12066bdb95f7c45d533b2bb460/face_faq01.JPG)
+![face faq01](//images.ctfassets.net/alneenqid6w5/6PFO5g1ZrT0uv7uWLdWNmT/c7b62f12066bdb95f7c45d533b2bb460/face_faq01.JPG)
 
 In this simulation, it is important to analyze the following fields:
 

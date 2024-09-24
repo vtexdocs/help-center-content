@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: cannot-remove-credit-card-information-from-an-orderform-via-api
+slugEN: cannot-remove-credit-card-information-from-an-orderform-via-api
 locale: en
 kiStatus: Backlog
 internalReference: 

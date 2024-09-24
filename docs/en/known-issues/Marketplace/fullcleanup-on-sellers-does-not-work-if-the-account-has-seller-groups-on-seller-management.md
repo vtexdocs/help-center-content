@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: fullcleanup-on-sellers-does-not-work-if-the-account-has-seller-groups-on-seller-management
+slugEN: fullcleanup-on-sellers-does-not-work-if-the-account-has-seller-groups-on-seller-management
 locale: en
 kiStatus: No Fix
 internalReference: 922541

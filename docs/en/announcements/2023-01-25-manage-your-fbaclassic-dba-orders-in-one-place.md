@@ -8,7 +8,7 @@ publishedAt: 2023-01-26T17:57:43.160Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: manage-your-fbaclassic-dba-orders-in-one-place
+slugEN: manage-your-fbaclassic-dba-orders-in-one-place
 locale: en
 legacySlug: manage-your-fbaclassic-dba-orders-in-one-place
 announcementImageID: ''

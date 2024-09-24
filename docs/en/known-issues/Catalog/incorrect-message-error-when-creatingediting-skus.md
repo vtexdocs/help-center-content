@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: incorrect-message-error-when-creatingediting-skus
+slugEN: incorrect-message-error-when-creatingediting-skus
 locale: en
 kiStatus: Backlog
 internalReference: 774518

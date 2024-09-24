@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slug: error-while-attaching-files-in-masterdata
+slugEN: error-while-attaching-files-in-masterdata
 locale: en
 kiStatus: Backlog
 internalReference: 

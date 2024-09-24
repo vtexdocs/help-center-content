@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T20:51:49.939Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: collection-highlight-control
+slugEN: collection-highlight-control
 locale: en
 legacySlug: collection-highlight-control
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -27,7 +27,7 @@ First, let's see where the Highlight flag is:
 4. Click a collection.
 5. Check the __Highlight__ flag, which is on the collection screen, and then click __Save Product Cluster__.
 
-![CollectionHighlightFlag](https://images.contentful.com/alneenqid6w5/4ced6Gcbeg662KewckyQka/77aaef77fc87cf8112f759c867a6bd4b/CollectionHighlightFlag.png)
+![CollectionHighlightFlag](//images.contentful.com/alneenqid6w5/4ced6Gcbeg662KewckyQka/77aaef77fc87cf8112f759c867a6bd4b/CollectionHighlightFlag.png)
 
 By flagging it, you inform the system that whenever the highlight control is used in a page template, the products displayed on that page that are part of the collection must appear with the HTML element below, where in place of `{CollectionName}` appears the name of the collection registered in the CMS:
 

@@ -8,7 +8,7 @@ publishedAt: 2022-12-08T20:41:22.689Z
 firstPublishedAt: 2021-02-24T14:45:52.748Z
 contentType: trackArticle
 productTeam: Channels
-slug: defining-magazine-luiza-trade-policy
+slugEN: defining-magazine-luiza-trade-policy
 locale: en
 trackId: 5Yx5IrNa7Y48c6aSC8wu2Y
 trackSlugEN: netshoes-integration-set-up-magazine-luiza

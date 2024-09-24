@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-07T14:02:07.647Z
 contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slug: configuring-ideal-payment-method-in-adyen-integration
+slugEN: configuring-ideal-payment-method-in-adyen-integration
 locale: en
 legacySlug: configuring-ideal-payment-method-in-adyen-integration
 subcategoryId: unknown-subcategory

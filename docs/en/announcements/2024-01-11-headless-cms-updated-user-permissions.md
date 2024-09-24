@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: headless-cms-updated-user-permissions
+slugEN: headless-cms-updated-user-permissions
 locale: en
 legacySlug: headless-cms-updated-user-permissions
 announcementImageID: ''

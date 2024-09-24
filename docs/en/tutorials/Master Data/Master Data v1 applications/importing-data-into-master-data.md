@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:43.488Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_3
-slug: importing-data-into-master-data
+slugEN: importing-data-into-master-data
 locale: en
 legacySlug: importing-data-into-master-data
 subcategoryId: 2AThnkEZAYbk4G4EIs53rL
@@ -44,4 +44,4 @@ After exporting and editing the worksheet exported, it is time to import the dat
 5. Select the file.
 6. Click on the **Import** button at the bottom of the screen.
 
-![Importando](https://images.contentful.com/alneenqid6w5/3xkB2DzbqoeIsk2Qice8sM/71d3c7d0379e03a8641180ccbe97dc77/Importando-1.gif)
+![Importando](//images.contentful.com/alneenqid6w5/3xkB2DzbqoeIsk2Qice8sM/71d3c7d0379e03a8641180ccbe97dc77/Importando-1.gif)

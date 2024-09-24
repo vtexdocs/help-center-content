@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:49.713Z
 contentType: tutorial
 productTeam: Identity
 author: authors_84
-slug: releasing-the-store-for-production
+slugEN: releasing-the-store-for-production
 locale: en
 legacySlug: releasing-the-store-for-production
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
@@ -30,7 +30,7 @@ Then, you have to place your store on a production status on its relevant Licens
 4. On the option **Is it n production, **click on the **No button**, to change it to **Yes**;
 5. Click on the **Save** button.
 
-![accounts.en](https://images.ctfassets.net/alneenqid6w5/5VattCUDKiUuh4fFbZUUZH/2cf97d683b28608f863ffcb803348a2e/accounts.en.png)
+![accounts.en](//images.ctfassets.net/alneenqid6w5/5VattCUDKiUuh4fFbZUUZH/2cf97d683b28608f863ffcb803348a2e/accounts.en.png)
 
 After this is set up, the access to the final URL of the store will be redirected to your e-commerce!
 

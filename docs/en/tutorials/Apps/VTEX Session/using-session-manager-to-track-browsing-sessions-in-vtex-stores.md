@@ -9,7 +9,7 @@ firstPublishedAt: 2019-11-19T22:44:09.933Z
 contentType: tutorial
 productTeam: Identity
 author: 6LC2rhKOT6njHIo2w4cMu1
-slug: using-session-manager-to-track-browsing-sessions-in-vtex-stores
+slugEN: using-session-manager-to-track-browsing-sessions-in-vtex-stores
 locale: en
 legacySlug: using-session-manager-to-track-browsing-sessions-in-vtex-stores
 subcategoryId: dajK0sARX2c0MISKKoGoc
@@ -41,7 +41,7 @@ Apps that have a session dependency monitor changes to their inputs and modify s
 
 Transforms often trigger other transforms, repeating until no further parameter updates are sent by apps. This operation is, naturally, carefully monitored for loop conditions. The diagram below illustrates one such transform cycle:
 
-![EN - Session Manager](https://images.ctfassets.net/alneenqid6w5/1QWb3hs5wfr3Zj38TnpwHY/162fb09edaf6fca3b5cdf3ce7d5a20b2/Session_Manager.jpg)
+![EN - Session Manager](//images.ctfassets.net/alneenqid6w5/1QWb3hs5wfr3Zj38TnpwHY/162fb09edaf6fca3b5cdf3ce7d5a20b2/Session_Manager.jpg)
 
 1. A change was made to session parameter X
 2. App A was monitoring session parameter X, so that triggered Transform 1

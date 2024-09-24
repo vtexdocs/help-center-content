@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: tax-service-uses-document-data-instead-of-customer-email
+slugEN: tax-service-uses-document-data-instead-of-customer-email
 locale: en
 kiStatus: No Fix
 internalReference: 548671

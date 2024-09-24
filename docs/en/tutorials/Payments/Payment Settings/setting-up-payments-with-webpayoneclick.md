@@ -9,7 +9,7 @@ firstPublishedAt: 2024-03-07T15:06:06.370Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-webpayoneclick
+slugEN: setting-up-payments-with-webpayoneclick
 locale: en
 legacySlug: setting-up-payments-with-webpayoneclick
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

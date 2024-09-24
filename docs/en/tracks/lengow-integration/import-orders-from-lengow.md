@@ -8,7 +8,7 @@ publishedAt: 2023-01-10T15:19:52.551Z
 firstPublishedAt: 2020-07-02T04:00:18.779Z
 contentType: trackArticle
 productTeam: Apps
-slug: import-orders-from-lengow
+slugEN: import-orders-from-lengow
 locale: en
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugEN: lengow-integration
@@ -30,6 +30,6 @@ To import orders automatically, use any scheduling service to perform a periodic
 
 The image below provides an example of what that would look like in [EasyCron](https://www.easycron.com/):
 
-![Lengow - EasyCron](https://images.ctfassets.net/alneenqid6w5/34iwIOlV3gTIxg8JipHwu5/4d5e6b4419ea69cb66dddb923082b374/image14.png)
+![Lengow - EasyCron](//images.ctfassets.net/alneenqid6w5/34iwIOlV3gTIxg8JipHwu5/4d5e6b4419ea69cb66dddb923082b374/image14.png)
 
 For more information on how to set up cron jobs using EasyCron, refer to the [FAQ](https://www.easycron.com/faq) available in their website.

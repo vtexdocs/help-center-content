@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: incorrectly-updated-inventory
+slugEN: incorrectly-updated-inventory
 locale: en
 kiStatus: No Fix
 internalReference: 556514

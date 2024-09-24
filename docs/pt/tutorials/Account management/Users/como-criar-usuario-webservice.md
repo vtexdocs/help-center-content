@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:11:35.477Z
 contentType: tutorial
 productTeam: Identity
 author: authors_4
-slug: como-criar-usuario-webservice
+slugEN: como-criar-usuario-webservice
 locale: pt
 legacySlug: como-criar-usuario-webservice
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
@@ -19,7 +19,7 @@ subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 >
 > **Todos os outros métodos do Web Service serão descontinuados no dia 28/02/2017.**
 >
-> Use as APIs REST equivalentes, disponíveis em nosso [Developer Docs](https://help.vtex.com/developer-docs/).
+> Use as APIs REST equivalentes, disponíveis em nosso [Developer Docs](//help.vtex.com/developer-docs/).
 
 A criação de credenciais para integrações com o Web Service deve ser feita pelo License Manager, com a funcionalidade de appKey e appToken.
 

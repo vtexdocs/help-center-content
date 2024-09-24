@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: ui-wrongly-displaying-the-shipping-price-when-packages-are-split-for-scheduled-delivery
+slugEN: ui-wrongly-displaying-the-shipping-price-when-packages-are-split-for-scheduled-delivery
 locale: en
 kiStatus: Backlog
 internalReference: 774155

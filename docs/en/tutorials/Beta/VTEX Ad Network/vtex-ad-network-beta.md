@@ -9,7 +9,7 @@ firstPublishedAt: 2024-04-23T19:11:42.313Z
 contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: vtex-ad-network-beta
+slugEN: vtex-ad-network-beta
 locale: en
 legacySlug: vtex-ad-network-beta
 subcategoryId: 2AksvvAtAsbAfE7HsBIVDU
@@ -43,7 +43,7 @@ VTEX currently offers a single ad format: sponsored products. This means that pr
 
 Below, there's an example of how sponsored products are displayed:
 
-![vtex_ad_network_sponsored_EN](https://images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/1abdea32c119ed4890e414ad7dbc8fea/vtex_ad_network_sponsored.png)
+![vtex_ad_network_sponsored_EN](//images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/1abdea32c119ed4890e414ad7dbc8fea/vtex_ad_network_sponsored.png)
 
 Stores participating in **VTEX Ad Network** will be able to [configure the amount of ad space](https://help.vtex.com/en/tutorial/advertising-with-vtex-ad-network-beta--5WoXcJzHc7EQElpPjziqse#creating-campaigns) available in each store context.
 

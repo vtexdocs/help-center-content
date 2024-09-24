@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: divergence-on-the-advanced-store-settings-on-new-accounts-or-workspaces
+slugEN: divergence-on-the-advanced-store-settings-on-new-accounts-or-workspaces
 locale: en
 kiStatus: Backlog
 internalReference: 1064235

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:11.201Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: registering-a-product
+slugEN: registering-a-product
 locale: en
 legacySlug: registering-a-product
 subcategoryId: unknown-subcategory

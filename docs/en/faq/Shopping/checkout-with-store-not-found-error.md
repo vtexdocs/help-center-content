@@ -9,7 +9,7 @@ firstPublishedAt: 2017-11-29T14:05:04.071Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_3
-slug: checkout-with-store-not-found-error
+slugEN: checkout-with-store-not-found-error
 locale: en
 legacySlug: checkout-with-store-not-found-error
 ---

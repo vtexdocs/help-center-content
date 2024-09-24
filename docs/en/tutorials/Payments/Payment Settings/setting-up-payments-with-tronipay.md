@@ -9,7 +9,7 @@ firstPublishedAt: 2022-07-20T18:10:43.935Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-tronipay
+slugEN: setting-up-payments-with-tronipay
 locale: en
 legacySlug: setting-up-payments-with-tronipay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

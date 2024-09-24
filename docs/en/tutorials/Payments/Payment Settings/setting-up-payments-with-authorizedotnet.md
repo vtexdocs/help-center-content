@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-14T16:47:27.303Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-authorizedotnet
+slugEN: setting-up-payments-with-authorizedotnet
 locale: en
 legacySlug: setting-up-payments-with-authorizedotnet
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

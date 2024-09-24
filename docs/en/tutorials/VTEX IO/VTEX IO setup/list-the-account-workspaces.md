@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T22:46:32.112Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: list-the-account-workspaces
+slugEN: list-the-account-workspaces
 locale: en
 legacySlug: list-the-account-workspaces
 subcategoryId: Z46a6rHVAaAucoiW0skQQ
@@ -21,7 +21,7 @@ To see the workspaces that currently exist in an account, simply use the followi
 
 Check out this example:
 
-![workspace list](https://images.contentful.com/alneenqid6w5/2au4D7r6YkmskO0Ko8esC6/aa635baf0e6f543c0e08ee2613e20127/workspace_list.png)
+![workspace list](//images.contentful.com/alneenqid6w5/2au4D7r6YkmskO0Ko8esC6/aa635baf0e6f543c0e08ee2613e20127/workspace_list.png)
 
 The columns that will appear are as follows:
 

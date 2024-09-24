@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: order-creation-failed-due-to-price-divergence-on-fulfillment-layer
+slugEN: order-creation-failed-due-to-price-divergence-on-fulfillment-layer
 locale: en
 kiStatus: No Fix
 internalReference: 512393

@@ -8,7 +8,7 @@ publishedAt: 2024-04-23T10:00:03.018Z
 contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: fastcheckout-boost-your-conversion-with-the-new-checkout
+slugEN: fastcheckout-boost-your-conversion-with-the-new-checkout
 locale: en
 legacySlug: fastcheckout-boost-your-conversion-with-the-new-checkout
 announcementImageID: ''
@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Introducing FastCheckout: Checkout innovation for custo
 
 Committed to continuously innovating and delivering excellence to our clients, VTEX introduces **FastCheckout**, the latest evolution of our checkout. This new solution allows us to create custom checkout experiences with high conversion rates and is constantly updated with new features.
 
-![fastcheckout](https://images.ctfassets.net/alneenqid6w5/42O8ebq6UcdyuSyvUukhM/15f7c568ca3e481a52d3c93ecc9865bf/image.png)
+![fastcheckout](//images.ctfassets.net/alneenqid6w5/42O8ebq6UcdyuSyvUukhM/15f7c568ca3e481a52d3c93ecc9865bf/image.png)
 
 ## What has changed?
 
@@ -54,7 +54,7 @@ We allow you to add fully custom elements, without having to be familiar with Ja
 
 The new purchase flow in FastCheckout is designed to be dynamic and intuitive, providing your customers with a more fluid and streamlined buying experience. We've made the checkout process more efficient with clear steps and intuitive navigation.
 
-![GIFCheckout](https://images.ctfassets.net/alneenqid6w5/3BruRej7wHet2sTobFDLBD/0f6cf76a12a01a77905195ba835d5028/GIFCheckout.gif)
+![GIFCheckout](//images.ctfassets.net/alneenqid6w5/3BruRej7wHet2sTobFDLBD/0f6cf76a12a01a77905195ba835d5028/GIFCheckout.gif)
 
 ## Why did we make this change?
 

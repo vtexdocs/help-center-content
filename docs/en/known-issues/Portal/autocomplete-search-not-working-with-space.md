@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: autocomplete-search-not-working-with-space
+slugEN: autocomplete-search-not-working-with-space
 locale: en
 kiStatus: Backlog
 internalReference: 568821

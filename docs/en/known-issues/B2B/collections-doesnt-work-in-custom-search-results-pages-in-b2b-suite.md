@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: collections-doesnt-work-in-custom-search-results-pages-in-b2b-suite
+slugEN: collections-doesnt-work-in-custom-search-results-pages-in-b2b-suite
 locale: en
 kiStatus: Backlog
 internalReference: 1043470

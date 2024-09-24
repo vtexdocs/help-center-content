@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-11T16:38:04.718Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-virtuspay
+slugEN: setting-up-payments-with-virtuspay
 locale: en
 legacySlug: setting-up-payments-with-virtuspay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: create-product-api-doesnt-send-nulls-as-release-date-values
+slugEN: create-product-api-doesnt-send-nulls-as-release-date-values
 locale: en
 kiStatus: Backlog
 internalReference: 1024207

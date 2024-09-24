@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: change-order-link-on-checkoutorderplaced-is-leading-to-myaccount-instead-of-the-order-page
+slugEN: change-order-link-on-checkoutorderplaced-is-leading-to-myaccount-instead-of-the-order-page
 locale: en
 kiStatus: Backlog
 internalReference: 844893

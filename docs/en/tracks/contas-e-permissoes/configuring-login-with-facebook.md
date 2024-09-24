@@ -8,7 +8,7 @@ publishedAt: 2021-10-28T18:37:43.166Z
 firstPublishedAt: 2020-01-13T14:33:41.637Z
 contentType: trackArticle
 productTeam: Identity
-slug: configuring-login-with-facebook
+slugEN: configuring-login-with-facebook
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: contas-e-permissoes
@@ -28,7 +28,7 @@ After configuring the Facebook registration, you need to configure this login op
 1. In the **Account Settings** module, click on the **Authentications** tab.
 2. Click on the **Edit** button corresponding to Facebook.
 3. Fill in the fields with the _Client Id_ and _Client Secret_ registered on **Facebook**.
-    ![Facebook OAuth EN](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/06b29f9c839316df31c736a315ba1786/facebook_EN.png)
+    ![Facebook OAuth EN](//images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/06b29f9c839316df31c736a315ba1786/facebook_EN.png)
 4. Click on the **Save** button.
 5. To confirm that your login was successful, go to the front-end of your store and click on **Login**. 
 6. The configured login options will be shown. Click on the **Facebook** option and check if your store name is displayed.

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-14T23:35:56.687Z
 contentType: tutorial
 productTeam: Shopping
 author: 3uCjaRpzeMieQWwWycYAMG
-slug: guide-to-integration-of-orders-managment-with-electronic-tax-coupon-for-vtex-sales-app
+slugEN: guide-to-integration-of-orders-managment-with-electronic-tax-coupon-for-vtex-sales-app
 locale: en
 legacySlug: guide-to-integration-of-oms-with-electronic-tax-coupon-for-vtex-instore,guide-to-integration-of-orders-managment-with-electronic-tax-coupon-for-vtex-instore
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G

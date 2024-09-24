@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Financial
 author: 
-slug: como-consultar-o-extrato
+slugEN: como-consultar-o-extrato
 locale: pt
 legacySlug: como-consultar-o-extrato
 subcategoryId: 18xYXhZbElixqnashigi5k

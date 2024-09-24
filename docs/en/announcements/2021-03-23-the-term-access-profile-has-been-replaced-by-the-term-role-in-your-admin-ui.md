@@ -8,7 +8,7 @@ publishedAt: 2021-03-31T14:51:48.211Z
 contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
-slug: the-term-access-profile-has-been-replaced-by-the-term-role-in-your-admin-ui
+slugEN: the-term-access-profile-has-been-replaced-by-the-term-role-in-your-admin-ui
 locale: en
 legacySlug: the-term-access-profile-has-been-replaced-by-the-term-role-in-your-admin-ui
 announcementImageID: ''
@@ -19,7 +19,7 @@ announcementSynopsisEN: 'The term "Access Profile" has been replaced by "Role" t
 
 What was called “Access Profile” in the Account Management module will now be called “Role”. This change applies only to the English interface. The Admin and all documentation have been updated with the new term. No functionality has been affected. Here’s an example of how the term appears on the Roles dashboard in the Admin:
 
-![Roles Panel](https://images.ctfassets.net/alneenqid6w5/3onlQoxSxoBtgwPGtGUUdH/bd0130c89de14555d1bf9dd465c420be/Roles_Panel.png)
+![Roles Panel](//images.ctfassets.net/alneenqid6w5/3onlQoxSxoBtgwPGtGUUdH/bd0130c89de14555d1bf9dd465c420be/Roles_Panel.png)
 
 All documents that mentioned this concept, both on our Developer Portal and Help Center, have been changed to include the new term.
 

@@ -9,7 +9,7 @@ firstPublishedAt: 2020-05-29T12:32:19.734Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: how-to-add-a-second-address-to-the-order-for-invoicing-purposes
+slugEN: how-to-add-a-second-address-to-the-order-for-invoicing-purposes
 locale: en
 legacySlug: how-to-add-a-second-address-to-the-order-for-invoicing-purposes
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

@@ -9,7 +9,7 @@ firstPublishedAt: 2020-09-22T14:37:14.174Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: configuring-maximum-automatic-payment-settlement-time-frame
+slugEN: configuring-maximum-automatic-payment-settlement-time-frame
 locale: en
 legacySlug: configuring-maximum-payment-capture-time-frame
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
@@ -55,7 +55,7 @@ To configure the automatic settlement feature, follow the step-by-step instructi
 8. In the __Payment with anticipated capture authorization__ field, select one of the available time options.
 9. Fill in the __Change maximum time for automatic payment capture__ field with the period agreed with the acquirer. __If you leave this field blank, the default time of 4 days will be considered. __
 
-![captura_automatica_EN](https://images.ctfassets.net/alneenqid6w5/4OXaQvc9dAoPs1lsPXmigk/3351cf6cd959943406edcf967ad4492c/image.png)
+![captura_automatica_EN](//images.ctfassets.net/alneenqid6w5/4OXaQvc9dAoPs1lsPXmigk/3351cf6cd959943406edcf967ad4492c/image.png)
 10. Click on __Save__ 
 
 The new payment settlement feature will then be implemented in your store.

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: unknown
-slug: estoque
+slugEN: estoque
 locale: pt
 trackId: 
 trackSlugPT: untitled-track

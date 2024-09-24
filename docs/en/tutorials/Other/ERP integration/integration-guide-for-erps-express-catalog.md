@@ -9,7 +9,7 @@ firstPublishedAt: 2017-09-11T22:21:45.592Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: integration-guide-for-erps-express-catalog
+slugEN: integration-guide-for-erps-express-catalog
 locale: en
 legacySlug: integration-guide-for-erps-express-catalog
 subcategoryId: 5fKgQZhrCw88ACy6Su6GUc
@@ -32,7 +32,7 @@ After the variations and the store marketing structure be defined, the next step
 
 _Flow:_
 
-![image (4)](https://images.contentful.com/alneenqid6w5/10TgLjH21wY0c8Q4Ok0Muw/1118844559962f711d34b953f11ebfaf/Component__16_.png)
+![image (4)](//images.contentful.com/alneenqid6w5/10TgLjH21wY0c8Q4Ok0Muw/1118844559962f711d34b953f11ebfaf/Component__16_.png)
 
 ### Product
 

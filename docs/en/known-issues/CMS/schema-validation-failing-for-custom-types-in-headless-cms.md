@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: schema-validation-failing-for-custom-types-in-headless-cms
+slugEN: schema-validation-failing-for-custom-types-in-headless-cms
 locale: en
 kiStatus: Backlog
 internalReference: 903687

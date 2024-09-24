@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T16:09:57.409Z
 firstPublishedAt: 2021-09-27T20:31:12.586Z
 contentType: trackArticle
 productTeam: Shopping
-slug: setting-up-debit-direct-sale
+slugEN: setting-up-debit-direct-sale
 locale: en
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: instore-payments

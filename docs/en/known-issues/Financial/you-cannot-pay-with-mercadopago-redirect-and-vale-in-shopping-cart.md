@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Payments
-slug: you-cannot-pay-with-mercadopago-redirect-and-vale-in-shopping-cart
+slugEN: you-cannot-pay-with-mercadopago-redirect-and-vale-in-shopping-cart
 locale: en
 kiStatus: Backlog
 internalReference: 

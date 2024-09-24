@@ -9,7 +9,7 @@ firstPublishedAt: 2018-10-11T20:58:12.080Z
 contentType: tutorial
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
-slug: how-the-carrefour-integration-works
+slugEN: how-the-carrefour-integration-works
 locale: en
 legacySlug: how-the-integration-with-carrefour-works
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

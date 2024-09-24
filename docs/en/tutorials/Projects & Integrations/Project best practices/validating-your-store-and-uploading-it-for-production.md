@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:49.725Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: validating-your-store-and-uploading-it-for-production
+slugEN: validating-your-store-and-uploading-it-for-production
 locale: en
 legacySlug: validating-your-store-and-uploading-it-for-production
 subcategoryId: wz3FvYTctwuCwG206QUAi

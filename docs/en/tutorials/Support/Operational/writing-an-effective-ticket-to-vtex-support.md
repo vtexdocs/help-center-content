@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-23T22:57:50.828Z
 contentType: tutorial
 productTeam: Others
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: writing-an-effective-ticket-to-vtex-support
+slugEN: writing-an-effective-ticket-to-vtex-support
 locale: en
 legacySlug: writing-an-effective-ticket-to-vtex-support
 subcategoryId: 1VvCpaa8NCA6a0MK6W6oWg

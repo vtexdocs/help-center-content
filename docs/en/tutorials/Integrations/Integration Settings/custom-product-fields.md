@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-23T20:17:01.358Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: custom-product-fields
+slugEN: custom-product-fields
 locale: en
 legacySlug: custom-product-fields
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

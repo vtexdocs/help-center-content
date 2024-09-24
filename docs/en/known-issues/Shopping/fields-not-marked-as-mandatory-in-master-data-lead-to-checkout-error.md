@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: fields-not-marked-as-mandatory-in-master-data-lead-to-checkout-error
+slugEN: fields-not-marked-as-mandatory-in-master-data-lead-to-checkout-error
 locale: en
 kiStatus: Backlog
 internalReference: 

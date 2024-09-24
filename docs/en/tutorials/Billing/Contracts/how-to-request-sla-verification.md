@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:05:10.732Z
 contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: how-to-request-sla-verification
+slugEN: how-to-request-sla-verification
 locale: en
 legacySlug: how-to-request-sla-verification
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC

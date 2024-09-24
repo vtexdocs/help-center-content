@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: assembly-options-attachments-lose-binding-if-items-are-available-in-different-whitelabel-sellers
+slugEN: assembly-options-attachments-lose-binding-if-items-are-available-in-different-whitelabel-sellers
 locale: en
 kiStatus: Backlog
 internalReference: 1074856

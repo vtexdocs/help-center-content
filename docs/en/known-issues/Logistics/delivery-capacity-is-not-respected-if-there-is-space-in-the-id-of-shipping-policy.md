@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: delivery-capacity-is-not-respected-if-there-is-space-in-the-id-of-shipping-policy
+slugEN: delivery-capacity-is-not-respected-if-there-is-space-in-the-id-of-shipping-policy
 locale: en
 kiStatus: Backlog
 internalReference: 862830

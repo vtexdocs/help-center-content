@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-14T21:46:22.332Z
 contentType: tutorial
 productTeam: Channels
 author: authors_84
-slug: integration-guide-for-marketplaces-marketplace-non-vtex-old
+slugEN: integration-guide-for-marketplaces-marketplace-non-vtex-old
 locale: en
 legacySlug: integration-guide-for-marketplaces-marketplace-non-vtex-old
 subcategoryId: unknown-subcategory
@@ -284,7 +284,7 @@ _response:_
     },
     "IsKit": false,
     "KitItems": [],
-    "Services": [https://serviços
+    "Services": [//serviços
         {
             "Id": 1098,
             "Name": "Embalagem presente",

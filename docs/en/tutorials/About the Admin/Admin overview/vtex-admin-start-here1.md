@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-29T23:22:24.800Z
 contentType: tutorial
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: vtex-admin-start-here1
+slugEN: vtex-admin-start-here1
 locale: en
 legacySlug: vtex-admin-start-here
 subcategoryId: Se4oi5LroIII2Ei0uGAoE
@@ -18,30 +18,30 @@ subcategoryId: Se4oi5LroIII2Ei0uGAoE
 The Admin allows merchants to manage their entire digital commerce experience in one place, in a simple and smart way. 
 
 ## Homepage
-![Store Overview gif EN](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/27b257963a3bcd2e24374c78e8bcbc4a/Store_Overview_gif_EN.gif)
+![Store Overview gif EN](//images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/27b257963a3bcd2e24374c78e8bcbc4a/Store_Overview_gif_EN.gif)
 
 The Admin homepage has been redesigned to provide a high-level overview of your store, like a cockpit for your digital commerce operations, and is now called [Overview](https://help.vtex.com/en/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
 
 As soon as you log in to the Admin, you will see useful metrics and charts to monitor your store's performance, such as revenue and number of orders, sales funnel and conversion rate, and the 10 highest grossing products.
 
 ## Enhanced Navigation 
-![New Admin Shell](https://images.ctfassets.net/alneenqid6w5/4Q4sQVxNy82zlFT2rmqaCo/f5e423ed52f3d468227155b73d74f163/New_Admin_Shell__1_.png)
+![New Admin Shell](//images.ctfassets.net/alneenqid6w5/4Q4sQVxNy82zlFT2rmqaCo/f5e423ed52f3d468227155b73d74f163/New_Admin_Shell__1_.png)
 
 Everything you need to manage your VTEX store is still available in the Admin, but now with a simpler interface. The side navigation menu and the top bar have been completely redesigned. Now, similar categories are grouped more clearly to reduce distractions and help your team find what they need faster. You can also use the search bar to find specific sections in the side menu.
 
 ### Information Center
-![Information center](https://images.ctfassets.net/alneenqid6w5/6lVqieCabdmgG53teixwyg/06dbecc541f55c4644134af302bdfd0c/Information_center.gif)
+![Information center](//images.ctfassets.net/alneenqid6w5/6lVqieCabdmgG53teixwyg/06dbecc541f55c4644134af302bdfd0c/Information_center.gif)
 
 This is where you can find all the useful links regarding the VTEX ecosystem to help you make the most of our platform. By clicking on the `?` button on the top bar, you can access the Help Center, Developer Portal, Platform Status, Blog, and support pages.
 
 ### Store Settings
 
-![Store settings](https://images.ctfassets.net/alneenqid6w5/3Mypjey9ors57oaq2wKQc3/9fc79445cb6a43dc62ccc99751d5981a/Store_settings.gif)
+![Store settings](//images.ctfassets.net/alneenqid6w5/3Mypjey9ors57oaq2wKQc3/9fc79445cb6a43dc62ccc99751d5981a/Store_settings.gif)
 
 For this experience, we have grouped the settings of all the Admin sections in one tab: [Store Settings](https://help.vtex.com/en/v4/docs/visao-geral-configuracoes-da-loja--5e1Mj7oBDq2NEYJ7cpDdR4). Now, you can easily access all the settings that affect each service in your account.
 
 ### User and Account Settings
-![Avatar settings](https://images.ctfassets.net/alneenqid6w5/mAIHwG3IM1E0BfcDg7orj/5542e02ec58e87d97f7e14960f5de69c/Avatar_settings.gif)
+![Avatar settings](//images.ctfassets.net/alneenqid6w5/mAIHwG3IM1E0BfcDg7orj/5542e02ec58e87d97f7e14960f5de69c/Avatar_settings.gif)
 
 Your profile avatar, in the upper right corner, now displays all the settings related to your user and account. By clicking on your avatar, you can access your [User settings](https://help.vtex.com/en/v4/docs/user-settings-overview--1qYAvOTZBVYMosJ7tQm3Ry), [Account settings](https://help.vtex.com/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r), and [Billing](https://help.vtex.com/en/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC) information, and you can also change the language of your Admin panel and logout. 
 

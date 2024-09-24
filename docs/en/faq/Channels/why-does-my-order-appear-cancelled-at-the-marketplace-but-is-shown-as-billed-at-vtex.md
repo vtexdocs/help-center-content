@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:45.597Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_59
-slug: why-does-my-order-appear-cancelled-at-the-marketplace-but-is-shown-as-billed-at-vtex
+slugEN: why-does-my-order-appear-cancelled-at-the-marketplace-but-is-shown-as-billed-at-vtex
 locale: en
 legacySlug: why-does-my-order-appear-cancelled-at-the-marketplace-but-is-shown-as-billed-at-vtex
 ---

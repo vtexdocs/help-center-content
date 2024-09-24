@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 
 tag: 
-slug: untitled
+slugEN: untitled
 locale: en
 kiStatus: 
 internalReference: 

@@ -8,7 +8,7 @@ publishedAt: 2023-03-31T21:16:44.627Z
 firstPublishedAt: 2019-11-18T12:19:57.554Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: o-que-e-um-pedido-na-vtex
+slugEN: o-que-e-um-pedido-na-vtex
 locale: es
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugES: pedidos

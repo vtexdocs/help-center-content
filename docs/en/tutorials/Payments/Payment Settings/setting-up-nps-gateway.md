@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-18T15:09:45.694Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-nps-gateway
+slugEN: setting-up-nps-gateway
 locale: en
 legacySlug: setting-up-nps-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

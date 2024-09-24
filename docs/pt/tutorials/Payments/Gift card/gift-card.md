@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:42.674Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: gift-card
+slugEN: gift-card
 locale: pt
 legacySlug: gift-card
 subcategoryId: 3qWeS7abxCyC0G0GMq42gA

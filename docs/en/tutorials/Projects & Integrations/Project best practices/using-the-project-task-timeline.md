@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:51.067Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: using-the-project-task-timeline
+slugEN: using-the-project-task-timeline
 locale: en
 legacySlug: using-the-project-task-timeline
 subcategoryId: wz3FvYTctwuCwG206QUAi

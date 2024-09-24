@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-07T17:21:00.652Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: how-to-find-an-sku-id
+slugEN: how-to-find-an-sku-id
 locale: en
 legacySlug: how-to-find-an-sku-id
 subcategoryId: pwxWmUu7T222QyuGogs68
@@ -34,7 +34,7 @@ To find the ID of a SKU through the VTEX Admin, follow the steps below:
 
 In the example below, the SKU ID is __18__.
 
-![skuId-1](https://images.contentful.com/alneenqid6w5/3CEFOn0h8Ac6ciGgi6gmEK/2d64944b8added0ec12d5cdc7ebe9d9c/skuId-1.png)
+![skuId-1](//images.contentful.com/alneenqid6w5/3CEFOn0h8Ac6ciGgi6gmEK/2d64944b8added0ec12d5cdc7ebe9d9c/skuId-1.png)
 
 ## SKU registration URL
 

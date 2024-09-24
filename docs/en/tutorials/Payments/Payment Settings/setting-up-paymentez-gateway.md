@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-28T18:18:57.206Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-paymentez-gateway
+slugEN: setting-up-paymentez-gateway
 locale: en
 legacySlug: setting-up-paymentez-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

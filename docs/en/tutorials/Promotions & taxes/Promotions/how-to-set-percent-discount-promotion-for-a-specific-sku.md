@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-22T15:41:27.016Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-set-percent-discount-promotion-for-a-specific-sku
+slugEN: how-to-set-percent-discount-promotion-for-a-specific-sku
 locale: en
 legacySlug: how-to-set-percent-discount-promotion-for-a-specific-sku
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq

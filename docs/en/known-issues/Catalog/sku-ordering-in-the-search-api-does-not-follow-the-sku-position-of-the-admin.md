@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: sku-ordering-in-the-search-api-does-not-follow-the-sku-position-of-the-admin
+slugEN: sku-ordering-in-the-search-api-does-not-follow-the-sku-position-of-the-admin
 locale: en
 kiStatus: Backlog
 internalReference: 515042

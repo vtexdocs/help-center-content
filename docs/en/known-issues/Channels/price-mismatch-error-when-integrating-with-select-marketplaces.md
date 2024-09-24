@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: TnXcuQydAAOuwWACo864E
 tag: Pricing & Promotions
-slug: price-mismatch-error-when-integrating-with-select-marketplaces
+slugEN: price-mismatch-error-when-integrating-with-select-marketplaces
 locale: en
 kiStatus: Fixed
 internalReference: 

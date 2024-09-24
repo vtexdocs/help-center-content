@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: my-subscription-showing-error-message-when-subscription-is-associated-with-a-pick-up-point
+slugEN: my-subscription-showing-error-message-when-subscription-is-associated-with-a-pick-up-point
 locale: en
 kiStatus: Backlog
 internalReference: 692523

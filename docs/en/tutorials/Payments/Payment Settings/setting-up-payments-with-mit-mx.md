@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-29T19:25:43.265Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-mit-mx
+slugEN: setting-up-payments-with-mit-mx
 locale: en
 legacySlug: setting-up-payments-with-mit-mx
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

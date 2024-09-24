@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: giftcard-transaction-api-always-returns-empty-response
+slugEN: giftcard-transaction-api-always-returns-empty-response
 locale: en
 kiStatus: Backlog
 internalReference: 384430

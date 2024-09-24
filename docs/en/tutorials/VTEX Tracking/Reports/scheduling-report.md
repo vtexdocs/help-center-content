@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-14T14:54:57.640Z
 contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: scheduling-report
+slugEN: scheduling-report
 locale: en
 legacySlug: scheduling-report
 subcategoryId: 37YF86noTwhDdEuhUyW3LH

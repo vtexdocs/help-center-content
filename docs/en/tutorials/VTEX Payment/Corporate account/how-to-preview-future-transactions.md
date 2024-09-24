@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-03T21:40:23.048Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: how-to-preview-future-transactions
+slugEN: how-to-preview-future-transactions
 locale: en
 legacySlug: how-to-preview-future-transactions
 subcategoryId: 29ZPBdZOTSg6NdzprcqBfb

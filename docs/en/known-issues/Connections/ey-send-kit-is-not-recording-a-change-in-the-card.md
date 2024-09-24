@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: ey-send-kit-is-not-recording-a-change-in-the-card
+slugEN: ey-send-kit-is-not-recording-a-change-in-the-card
 locale: en
 kiStatus: Backlog
 internalReference: 442215

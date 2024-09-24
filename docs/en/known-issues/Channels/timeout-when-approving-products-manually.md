@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Suggestions
-slug: timeout-when-approving-products-manually
+slugEN: timeout-when-approving-products-manually
 locale: en
 kiStatus: Backlog
 internalReference: 

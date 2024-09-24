@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: incorrectlacking-indexings-for-accounts-where-the-accountname-is-different-from-the-one-registered-on-the-fulfillmentendpoint
+slugEN: incorrectlacking-indexings-for-accounts-where-the-accountname-is-different-from-the-one-registered-on-the-fulfillmentendpoint
 locale: en
 kiStatus: Backlog
 internalReference: 1050023

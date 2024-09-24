@@ -8,7 +8,7 @@ publishedAt: 2022-09-06T13:45:20.044Z
 firstPublishedAt: 2020-01-13T14:38:27.693Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: adding-a-sender
+slugEN: adding-a-sender
 locale: en
 trackId: 6IkJwttMw5T84mlY9RifRP
 trackSlugEN: transactional-emails

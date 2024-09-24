@@ -8,7 +8,7 @@ publishedAt: 2021-06-28T18:32:43.471Z
 contentType: updates
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slug: pagares-el-nuevo-campo-de-configuracion-permite-personalizar-el-plazo-de
+slugEN: pagares-el-nuevo-campo-de-configuracion-permite-personalizar-el-plazo-de
 locale: en
 legacySlug: pagares-el-nuevo-campo-de-configuracion-permite-personalizar-el-plazo-de
 announcementImageID: ''

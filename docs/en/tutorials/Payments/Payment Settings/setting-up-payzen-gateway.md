@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-13T22:27:11.198Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payzen-gateway
+slugEN: setting-up-payzen-gateway
 locale: en
 legacySlug: setting-up-payzen-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

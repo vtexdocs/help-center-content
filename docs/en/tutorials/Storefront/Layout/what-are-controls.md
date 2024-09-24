@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-05T20:34:26.545Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
-slug: what-are-controls
+slugEN: what-are-controls
 locale: en
 legacySlug: what-are-controls
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

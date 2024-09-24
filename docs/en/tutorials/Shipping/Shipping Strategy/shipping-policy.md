@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:45.247Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: shipping-policy
+slugEN: shipping-policy
 locale: en
 legacySlug: adding-a-carrier, manage-carrier
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
@@ -23,7 +23,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 The image below shows how these concepts relate to each other:
 
-![shipping_strategy_EN](https://images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/9f3db7829e85f1c910daf1b81bacd127/shipping_strategy_EN.png)
+![shipping_strategy_EN](//images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/9f3db7829e85f1c910daf1b81bacd127/shipping_strategy_EN.png)
 
 **Shipping policy** is a set of rules and settings that specify the shipping options that will be displayed to customers at checkout. When calculating the [shipping time for an order](https://help.vtex.com/en/tutorial/como-funciona-o-calculo-de-envio--tutorials_116), the VTEX platform takes into account several settings from the shipping policy, including:
 

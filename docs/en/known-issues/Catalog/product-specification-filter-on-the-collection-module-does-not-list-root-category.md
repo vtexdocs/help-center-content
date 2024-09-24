@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: product-specification-filter-on-the-collection-module-does-not-list-root-category
+slugEN: product-specification-filter-on-the-collection-module-does-not-list-root-category
 locale: en
 kiStatus: Backlog
 internalReference: 918687

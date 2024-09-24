@@ -9,7 +9,7 @@ firstPublishedAt: 2024-04-17T18:44:01.978Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-transfero-crypto-checkout
+slugEN: setting-up-payments-with-transfero-crypto-checkout
 locale: en
 legacySlug: setting-up-payments-with-transfero-crypto-checkout
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:38:42.460Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slug: how-does-payment-gateway-retry-work
+slugEN: how-does-payment-gateway-retry-work
 locale: en
 legacySlug: how-does-payment-gateway-retry-work
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu

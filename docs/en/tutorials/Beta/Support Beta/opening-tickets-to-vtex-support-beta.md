@@ -9,7 +9,7 @@ firstPublishedAt: 2024-08-30T17:07:13.226Z
 contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: opening-tickets-to-vtex-support-beta
+slugEN: opening-tickets-to-vtex-support-beta
 locale: en
 legacySlug: opening-tickets-to-vtex-support-beta
 subcategoryId: 2z8Y3gMXH2piEmAVDs1fSf

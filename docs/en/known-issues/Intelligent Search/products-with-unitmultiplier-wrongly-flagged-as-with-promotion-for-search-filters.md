@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: products-with-unitmultiplier-wrongly-flagged-as-with-promotion-for-search-filters
+slugEN: products-with-unitmultiplier-wrongly-flagged-as-with-promotion-for-search-filters
 locale: en
 kiStatus: Backlog
 internalReference: 982830

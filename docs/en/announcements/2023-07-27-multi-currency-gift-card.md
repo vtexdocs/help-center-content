@@ -8,7 +8,7 @@ publishedAt: 2023-07-27T16:13:02.651Z
 contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: multi-currency-gift-card
+slugEN: multi-currency-gift-card
 locale: en
 legacySlug: multi-currency-gift-card
 announcementImageID: ''
@@ -39,7 +39,7 @@ To create a gift card using a specific currency, follow the steps below:
 4. Complete the other fields for creating the gift card.
 5. Click `Save`.
 
-![Multi-currency gift card](https://images.ctfassets.net/alneenqid6w5/5OBq7L6L2IeSOz5fBe6aRK/9c698709e61906ad413c76cfbbbb4c46/GiftCard_Multicurrency_EN_1.PNG)
+![Multi-currency gift card](//images.ctfassets.net/alneenqid6w5/5OBq7L6L2IeSOz5fBe6aRK/9c698709e61906ad413c76cfbbbb4c46/GiftCard_Multicurrency_EN_1.PNG)
 
 The currencies available will be the same as those in the [trade policies](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) of each store.
 

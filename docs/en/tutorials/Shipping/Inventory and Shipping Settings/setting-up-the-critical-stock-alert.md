@@ -9,7 +9,7 @@ firstPublishedAt: 2017-07-20T22:18:34.892Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_39
-slug: setting-up-the-critical-stock-alert
+slugEN: setting-up-the-critical-stock-alert
 locale: en
 legacySlug: setting-up-the-critical-stock-alert
 subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi

@@ -8,7 +8,7 @@ publishedAt: 2021-10-07T13:14:03.942Z
 contentType: updates
 productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
-slug: facebook-login-will-no-longer-be-available-for-the-vtex-admin
+slugEN: facebook-login-will-no-longer-be-available-for-the-vtex-admin
 locale: en
 legacySlug: 
 announcementImageID: ''

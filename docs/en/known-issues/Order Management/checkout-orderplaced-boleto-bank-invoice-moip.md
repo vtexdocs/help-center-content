@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: checkout-orderplaced-boleto-bank-invoice-moip
+slugEN: checkout-orderplaced-boleto-bank-invoice-moip
 locale: en
 kiStatus: Backlog
 internalReference: 376951

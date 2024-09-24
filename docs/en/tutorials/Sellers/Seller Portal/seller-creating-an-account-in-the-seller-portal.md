@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-29T18:08:13.157Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: seller-creating-an-account-in-the-seller-portal
+slugEN: seller-creating-an-account-in-the-seller-portal
 locale: en
 legacySlug: seller-creating-an-account-in-the-seller-portal-beta
 subcategoryId: 4hisB47iAVZk4r3SEmMoG

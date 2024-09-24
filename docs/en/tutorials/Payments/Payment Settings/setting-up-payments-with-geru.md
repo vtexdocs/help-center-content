@@ -9,7 +9,7 @@ firstPublishedAt: 2024-02-05T13:45:07.728Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-geru
+slugEN: setting-up-payments-with-geru
 locale: en
 legacySlug: setting-up-payments-with-geru
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

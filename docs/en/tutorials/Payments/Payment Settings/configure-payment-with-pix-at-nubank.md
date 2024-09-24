@@ -9,7 +9,7 @@ firstPublishedAt: 2022-07-19T16:56:30.888Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: configure-payment-with-pix-at-nubank
+slugEN: configure-payment-with-pix-at-nubank
 locale: en
 legacySlug: configure-payment-with-pix-at-nubank
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

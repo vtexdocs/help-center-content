@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: impersonation-user-widget-not-shown-if-showmodal-is-enabled
+slugEN: impersonation-user-widget-not-shown-if-showmodal-is-enabled
 locale: en
 kiStatus: Backlog
 internalReference: 1043039

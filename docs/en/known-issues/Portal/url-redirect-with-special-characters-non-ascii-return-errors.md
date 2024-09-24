@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: url-redirect-with-special-characters-non-ascii-return-errors
+slugEN: url-redirect-with-special-characters-non-ascii-return-errors
 locale: en
 kiStatus: Backlog
 internalReference: 457047

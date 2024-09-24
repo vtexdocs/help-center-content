@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: mercado-livre-bridge-orders-menu-not-showing-the-shippingid-information
+slugEN: mercado-livre-bridge-orders-menu-not-showing-the-shippingid-information
 locale: en
 kiStatus: Backlog
 internalReference: 1001903

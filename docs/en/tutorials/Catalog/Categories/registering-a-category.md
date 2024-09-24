@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:46.516Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: registering-a-category
+slugEN: registering-a-category
 locale: en
 legacySlug: registering-a-category
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec

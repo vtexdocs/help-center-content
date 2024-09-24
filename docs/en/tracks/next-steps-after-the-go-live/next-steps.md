@@ -8,7 +8,7 @@ publishedAt: 2024-04-03T12:10:02.808Z
 firstPublishedAt: 2024-02-22T13:58:08.369Z
 contentType: trackArticle
 productTeam: Others
-slug: next-steps
+slugEN: next-steps
 locale: en
 trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: next-steps-after-the-go-live

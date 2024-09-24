@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-17T13:34:39.387Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-globalpay-redeban
+slugEN: setting-up-payments-with-globalpay-redeban
 locale: en
 legacySlug: setting-up-payments-with-globalpay-redeban
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

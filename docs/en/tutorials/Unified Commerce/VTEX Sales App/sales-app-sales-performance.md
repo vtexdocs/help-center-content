@@ -9,7 +9,7 @@ firstPublishedAt: 2023-05-29T18:56:28.137Z
 contentType: tutorial
 productTeam: Shopping
 author: 5l3eEiSz8MpcppCxcnijGz
-slug: sales-app-sales-performance
+slugEN: sales-app-sales-performance
 locale: en
 legacySlug: sales-app-sales-performance
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
@@ -23,7 +23,7 @@ You can access your store sales performance metrics by following the steps below
 2. 	Click the <i class="fas fa-bars"></i> button.
 3. 	Click **Sales Performance**.
 
-![Sales Performance (Store)](https://images.ctfassets.net/alneenqid6w5/2YMohTrMzA23P64djqnLWb/dafd378b97bb9b972d78cd86879f6dc2/analytics_en.png)
+![Sales Performance (Store)](//images.ctfassets.net/alneenqid6w5/2YMohTrMzA23P64djqnLWb/dafd378b97bb9b972d78cd86879f6dc2/analytics_en.png)
 
 On this page, you will have access to the following metrics:
 
@@ -37,7 +37,7 @@ On this page, you will have access to the following metrics:
 
 To view specific metrics for a sales associate, follow the steps below:
 
-![Bruna's Sales - VTEX Sales App](https://images.ctfassets.net/alneenqid6w5/78nJXcuThGbc7cGrOb7CqV/5919666bcebd4123cd176461d667da02/Kate_Stewart-s_Sales.png)
+![Bruna's Sales - VTEX Sales App](//images.ctfassets.net/alneenqid6w5/78nJXcuThGbc7cGrOb7CqV/5919666bcebd4123cd176461d667da02/Kate_Stewart-s_Sales.png)
 
 1. 	Click the <i class="far fa-id-badge"></i> icon.
 2. 	Select the sales associate profile and enter the password.

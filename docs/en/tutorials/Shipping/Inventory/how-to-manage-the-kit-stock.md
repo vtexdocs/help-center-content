@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:03:46.311Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-manage-the-kit-stock
+slugEN: how-to-manage-the-kit-stock
 locale: en
 legacySlug: how-to-manage-the-kit-stock
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE
@@ -27,7 +27,7 @@ The kit with components is the idea of a kit product whose SKU is a "cluster" of
 
 For example, a kit product called Colorido is composed by other 10 SKUs. Each, with its required amount of 1 (one) SKU item to compose the kit.
 
-![](https://images.contentful.com/alneenqid6w5/2zwcLWeIX2kwsiQ0GCYm6G/b11fa6ded4ffb56faed9bc0158e980ae/kitcolorido.png)
+![](//images.contentful.com/alneenqid6w5/2zwcLWeIX2kwsiQ0GCYm6G/b11fa6ded4ffb56faed9bc0158e980ae/kitcolorido.png)
 
 So, if there is at least 1 (one) unit of each component in stock, the kit will be considered in stock, as it depends on the stock quantities registered for each of its components.
 

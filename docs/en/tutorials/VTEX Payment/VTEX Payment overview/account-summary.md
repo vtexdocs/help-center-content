@@ -9,7 +9,7 @@ firstPublishedAt: 2020-06-12T21:28:28.558Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: account-summary
+slugEN: account-summary
 locale: en
 legacySlug: account-summary
 subcategoryId: 6uIlQ5imochc5LFi3dzCSv

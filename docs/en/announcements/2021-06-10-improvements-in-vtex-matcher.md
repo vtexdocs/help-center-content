@@ -8,7 +8,7 @@ publishedAt: 2021-07-19T13:01:43.550Z
 contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: improvements-in-vtex-matcher
+slugEN: improvements-in-vtex-matcher
 locale: en
 legacySlug: improvements-in-vtex-matcher
 announcementImageID: ''

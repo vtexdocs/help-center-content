@@ -8,7 +8,7 @@ publishedAt: 2024-08-15T16:58:05.161Z
 contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: checkout-performance-improvements-data-protection-plus
+slugEN: checkout-performance-improvements-data-protection-plus
 locale: en
 legacySlug: checkout-performance-improvements-data-protection-plus
 announcementImageID: ''

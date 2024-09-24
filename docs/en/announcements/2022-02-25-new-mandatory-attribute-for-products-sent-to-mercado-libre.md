@@ -8,7 +8,7 @@ publishedAt: 2022-03-03T20:38:16.318Z
 contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: new-mandatory-attribute-for-products-sent-to-mercado-libre
+slugEN: new-mandatory-attribute-for-products-sent-to-mercado-libre
 locale: en
 legacySlug: new-mandatory-attribute-for-products-sent-to-mercado-libre
 announcementImageID: ''

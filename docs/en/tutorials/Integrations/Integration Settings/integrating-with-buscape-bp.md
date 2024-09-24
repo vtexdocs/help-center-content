@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:23.878Z
 contentType: tutorial
 productTeam: Channels
 author: authors_3
-slug: integrating-with-buscape-bp
+slugEN: integrating-with-buscape-bp
 locale: en
 legacySlug: integrating-with-buscape-bp
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

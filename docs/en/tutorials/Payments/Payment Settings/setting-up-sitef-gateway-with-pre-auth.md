@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-06T14:09:56.654Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-sitef-gateway-with-pre-auth
+slugEN: setting-up-sitef-gateway-with-pre-auth
 locale: en
 legacySlug: setting-up-sitef-gateway-with-pre-auth
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

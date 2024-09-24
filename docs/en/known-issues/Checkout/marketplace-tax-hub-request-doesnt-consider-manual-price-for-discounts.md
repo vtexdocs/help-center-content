@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: marketplace-tax-hub-request-doesnt-consider-manual-price-for-discounts
+slugEN: marketplace-tax-hub-request-doesnt-consider-manual-price-for-discounts
 locale: en
 kiStatus: Fixed
 internalReference: 932657

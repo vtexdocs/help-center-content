@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: gift-items-throws-a-generic-exception-if-it-has-no-price
+slugEN: gift-items-throws-a-generic-exception-if-it-has-no-price
 locale: en
 kiStatus: No Fix
 internalReference: 510490

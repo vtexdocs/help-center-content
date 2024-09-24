@@ -8,7 +8,7 @@ publishedAt: 2020-04-02T17:31:40.116Z
 contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: change-in-cc-bcc-field-in-message-center-templates
+slugEN: change-in-cc-bcc-field-in-message-center-templates
 locale: en
 legacySlug: change-in-cc-bcc-field-in-message-center-templates
 announcementImageID: ''

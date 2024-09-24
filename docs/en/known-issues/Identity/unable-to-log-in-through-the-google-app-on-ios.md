@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slug: unable-to-log-in-through-the-google-app-on-ios
+slugEN: unable-to-log-in-through-the-google-app-on-ios
 locale: en
 kiStatus: Backlog
 internalReference: 926239

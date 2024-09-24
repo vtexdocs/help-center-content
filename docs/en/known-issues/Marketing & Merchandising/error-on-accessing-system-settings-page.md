@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: error-on-accessing-system-settings-page
+slugEN: error-on-accessing-system-settings-page
 locale: en
 kiStatus: Backlog
 internalReference: 

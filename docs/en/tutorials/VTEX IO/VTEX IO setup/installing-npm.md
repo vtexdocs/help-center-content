@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T22:20:38.688Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: installing-npm
+slugEN: installing-npm
 locale: en
 legacySlug: installing-npm
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

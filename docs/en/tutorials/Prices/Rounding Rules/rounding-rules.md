@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:16.490Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: rounding-rules
+slugEN: rounding-rules
 locale: en
 legacySlug: psychological-price-v2
 subcategoryId: 2FWsvQlrVYu24myUgwY4Y8
@@ -60,16 +60,16 @@ Below you can see examples of the flows of adding, editing and deleting rounding
 
 *_Procedure for creating a rule_*
 
-![config-arrendodamento-EN](https://images.ctfassets.net/alneenqid6w5/77tOZFjGCbkDjfCbPVeg4c/cf07a45f811bd5bfd6c80ddbc478c2a4/config-arrendodamento-EN.gif)
+![config-arrendodamento-EN](//images.ctfassets.net/alneenqid6w5/77tOZFjGCbkDjfCbPVeg4c/cf07a45f811bd5bfd6c80ddbc478c2a4/config-arrendodamento-EN.gif)
 
 *_Procedure for modifying a rule_*
 
-![editar-arrendodamento-EN](https://images.ctfassets.net/alneenqid6w5/4vuF4QJxVCoTc4iatE1MSZ/728e6875c0ed2787808b5cd9be46a2d3/editar-arrendodamento-EN.gif)
+![editar-arrendodamento-EN](//images.ctfassets.net/alneenqid6w5/4vuF4QJxVCoTc4iatE1MSZ/728e6875c0ed2787808b5cd9be46a2d3/editar-arrendodamento-EN.gif)
 
 *_Procedure for deleting a rule_*
 
-![deletar-arrendodamento-EN](https://images.ctfassets.net/alneenqid6w5/6fDPWVbwtpyCYixRinlkxp/a5420a0633b35607bb4cca0b309c4b89/deletar-arrendodamento-EN.gif)
+![deletar-arrendodamento-EN](//images.ctfassets.net/alneenqid6w5/6fDPWVbwtpyCYixRinlkxp/a5420a0633b35607bb4cca0b309c4b89/deletar-arrendodamento-EN.gif)
 
 *_Price simulation for a rule_*
 
-![teste-arrendodamento-EN](https://images.ctfassets.net/alneenqid6w5/66dsqzAfz27KJgAUAaXYFp/b3d61dcf614d390d72c7e3d5418ff86e/teste-arrendodamento-EN.gif)
+![teste-arrendodamento-EN](//images.ctfassets.net/alneenqid6w5/66dsqzAfz27KJgAUAaXYFp/b3d61dcf614d390d72c7e3d5418ff86e/teste-arrendodamento-EN.gif)

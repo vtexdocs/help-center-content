@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: shipping-step-with-postal-code-does-not-work-for-some-countries-united-arab-emirates
+slugEN: shipping-step-with-postal-code-does-not-work-for-some-countries-united-arab-emirates
 locale: en
 kiStatus: Fixed
 internalReference: 312132

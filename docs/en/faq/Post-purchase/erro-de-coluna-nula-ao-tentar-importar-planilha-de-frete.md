@@ -9,7 +9,7 @@ firstPublishedAt: 2018-09-28T17:34:33.499Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_59
-slug: erro-de-coluna-nula-ao-tentar-importar-planilha-de-frete
+slugEN: erro-de-coluna-nula-ao-tentar-importar-planilha-de-frete
 locale: en
 legacySlug: erro-de-coluna-nula-ao-tentar-importar-planilha-de-frete
 ---

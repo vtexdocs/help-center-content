@@ -9,7 +9,7 @@ firstPublishedAt: 2019-03-13T15:50:45.091Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 2zh4tqFMxyMCgwaUcsS0O2
-slug: can-i-order-my-products-as-i-want
+slugEN: can-i-order-my-products-as-i-want
 locale: en
 legacySlug: can-i-order-my-products-as-i-want
 ---

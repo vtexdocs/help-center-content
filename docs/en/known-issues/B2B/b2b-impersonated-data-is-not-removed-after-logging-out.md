@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: b2b-impersonated-data-is-not-removed-after-logging-out
+slugEN: b2b-impersonated-data-is-not-removed-after-logging-out
 locale: en
 kiStatus: Backlog
 internalReference: 1067969

@@ -8,7 +8,7 @@ publishedAt: 2020-05-14T14:38:09.360Z
 contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: inventory-and-shipping-see-what-has-changed-in-the-dashboard-tab
+slugEN: inventory-and-shipping-see-what-has-changed-in-the-dashboard-tab
 locale: en
 legacySlug: inventory-and-shipping-see-what-has-changed-in-the-dashboard-tab
 announcementImageID: ''

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: intelligent-search-not-capturing-sales-events-for-faststore
+slugEN: intelligent-search-not-capturing-sales-events-for-faststore
 locale: en
 kiStatus: Scheduled
 internalReference: 1045163

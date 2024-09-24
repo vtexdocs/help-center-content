@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: users-cant-access-gift-card-admin-looping-page
+slugEN: users-cant-access-gift-card-admin-looping-page
 locale: en
 kiStatus: Backlog
 internalReference: 1025971

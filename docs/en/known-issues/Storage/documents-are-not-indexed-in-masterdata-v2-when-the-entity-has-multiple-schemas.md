@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: documents-are-not-indexed-in-masterdata-v2-when-the-entity-has-multiple-schemas
+slugEN: documents-are-not-indexed-in-masterdata-v2-when-the-entity-has-multiple-schemas
 locale: en
 kiStatus: Backlog
 internalReference: 1077981

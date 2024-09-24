@@ -8,7 +8,7 @@ publishedAt: 2020-11-18T17:37:59.283Z
 firstPublishedAt: 2020-11-18T17:37:59.283Z
 contentType: trackArticle
 productTeam: Financial
-slug: use-cases
+slugEN: use-cases
 locale: en
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugEN: clustered-payment-conditions

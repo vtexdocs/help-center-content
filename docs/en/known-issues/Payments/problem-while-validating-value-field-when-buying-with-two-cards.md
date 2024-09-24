@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: problem-while-validating-value-field-when-buying-with-two-cards
+slugEN: problem-while-validating-value-field-when-buying-with-two-cards
 locale: en
 kiStatus: No Fix
 internalReference: 460683

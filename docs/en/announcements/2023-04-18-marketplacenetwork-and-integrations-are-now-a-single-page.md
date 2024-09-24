@@ -8,7 +8,7 @@ publishedAt: 2023-05-03T21:02:00.660Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: marketplacenetwork-and-integrations-are-now-a-single-page
+slugEN: marketplacenetwork-and-integrations-are-now-a-single-page
 locale: en
 legacySlug: marketplace-network-and-integrations-are-now-a-single-page
 announcementImageID: ''
@@ -17,7 +17,7 @@ announcementSynopsisEN: 'We have unified the Marketplace Network and the Integra
 
 To unify the opportunities to connect to VTEX and external marketplaces, we have merged the Integrations and Marketplace Network pages, now called __Marketplaces and Integrations__. The update will be available in all VTEX accounts as of May 03, 2023.  
 
-![Marketplaces and Integrations](https://images.ctfassets.net/alneenqid6w5/6O436Pjv91m3GWuWFsmeAD/e4382e0c375781f8f1029ffe29e6738a/Captura_de_tela_2023-04-17_110739.png)
+![Marketplaces and Integrations](//images.ctfassets.net/alneenqid6w5/6O436Pjv91m3GWuWFsmeAD/e4382e0c375781f8f1029ffe29e6738a/Captura_de_tela_2023-04-17_110739.png)
 
 ## What has changed?  
 

@@ -8,7 +8,7 @@ publishedAt: 2022-09-15T13:30:03.033Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: new-indexation-history-screen
+slugEN: new-indexation-history-screen
 locale: en
 legacySlug: new-indexation-history-screen
 announcementImageID: ''
@@ -19,7 +19,7 @@ In every ecommerce operation, it is necessary to add or edit product information
 
 To improve the catalog indexing monitoring experience, we redesigned the **Indexing History** page in the VTEX Admin. The new interface allows you to track the indexing time of products and the indexing status of your store.
 
-![Histórico da Indexação 1 - EN](https://images.ctfassets.net/alneenqid6w5/5xzFLcLomZTSXgdqyK2rH/4c8e68f1fe949820607fa47d9ed5f549/Screenshot_2022-09-01_at_12-51-24_Indexing_History.png)
+![Histórico da Indexação 1 - EN](//images.ctfassets.net/alneenqid6w5/5xzFLcLomZTSXgdqyK2rH/4c8e68f1fe949820607fa47d9ed5f549/Screenshot_2022-09-01_at_12-51-24_Indexing_History.png)
 
 ## What has changed?
 

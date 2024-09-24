@@ -8,7 +8,7 @@ publishedAt: 2023-04-10T19:41:12.838Z
 contentType: updates
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: build-and-scale-your-fulfillment-operation-with-vtex-pick-and-pack
+slugEN: build-and-scale-your-fulfillment-operation-with-vtex-pick-and-pack
 locale: en
 legacySlug: build-and-scale-your-fulfillment-operation-with-vtex-pick-and-pack
 announcementImageID: ''
@@ -25,7 +25,7 @@ In addition, **VTEX Pick and Pack** [collects data and analytics](https://help.v
 * [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr): Control of last-mile delivery.
 * **Mobile Applications:** Applications for pickers and couriers.
 
-![pick_pack_gif_EN](https://images.ctfassets.net/alneenqid6w5/5T6FQD7E0lFkze9DtsrDas/a6b1137ac375e1a046cc2a76a56e3958/pick_pack_gif_EN.gif)
+![pick_pack_gif_EN](//images.ctfassets.net/alneenqid6w5/5T6FQD7E0lFkze9DtsrDas/a6b1137ac375e1a046cc2a76a56e3958/pick_pack_gif_EN.gif)
 
 ## What has changed?
 

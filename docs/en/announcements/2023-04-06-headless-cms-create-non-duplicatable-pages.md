@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: headless-cms-create-non-duplicatable-pages
+slugEN: headless-cms-create-non-duplicatable-pages
 locale: en
 legacySlug: headless-cms-create-non-duplicatable-pages
 announcementImageID: ''
@@ -16,7 +16,7 @@ announcementSynopsisEN: 'Introducing the Singleton: a Headless CMS content type 
 ---
 
 The Singleton is a new type of content type that allows merchants to create and manage a single page of a content type in the Headless CMS. Unlike other content types, the Singleton cannot be duplicated, ensuring that only one page exists and the content is consistent across the store's pages.
-![singleton-en](https://images.ctfassets.net/alneenqid6w5/6aMWhl66yiP8YLJr5Bzuo5/336d3df9b113a1b919209c304856c339/singleton-en.gif)
+![singleton-en](//images.ctfassets.net/alneenqid6w5/6aMWhl66yiP8YLJr5Bzuo5/336d3df9b113a1b919209c304856c339/singleton-en.gif)
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
 The Singleton content type is only available for stores using the <a href="https://help.vtex.com/en/tutorial/managing-pages-beta--3DO6rBhZ1p3zndnFu5BgRt">VTEX Headless CMS</a> (Currently in Beta phase).

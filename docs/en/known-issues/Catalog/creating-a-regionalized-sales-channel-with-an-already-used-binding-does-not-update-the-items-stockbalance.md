@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: creating-a-regionalized-sales-channel-with-an-already-used-binding-does-not-update-the-items-stockbalance
+slugEN: creating-a-regionalized-sales-channel-with-an-already-used-binding-does-not-update-the-items-stockbalance
 locale: en
 kiStatus: No Fix
 internalReference: 1005112

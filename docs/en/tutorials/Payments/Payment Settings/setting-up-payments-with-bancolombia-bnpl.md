@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-30T17:24:01.279Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-bancolombia-bnpl
+slugEN: setting-up-payments-with-bancolombia-bnpl
 locale: en
 legacySlug: setting-up-payments-with-bancolombia-bnpl
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

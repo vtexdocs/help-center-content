@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:04:58.040Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
-slug: where-do-i-see-clients-that-use-recurrence
+slugEN: where-do-i-see-clients-that-use-recurrence
 locale: en
 legacySlug: where-do-i-see-clients-that-use-recurrence
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
@@ -22,4 +22,4 @@ But remember: a subscribers only appears in the listing after the payment is app
 1. Access the __Orders Management__ module.
 2. Click the __Subscriptions__ tab.
 
-![subscriptions EN](https://images.ctfassets.net/alneenqid6w5/jT7LGvlNOS2iQGIQIqEi/591dc39ef6d0f5824956f819817520fd/subscriptions_EN.png)
+![subscriptions EN](//images.ctfassets.net/alneenqid6w5/jT7LGvlNOS2iQGIQIqEi/591dc39ef6d0f5824956f819817520fd/subscriptions_EN.png)

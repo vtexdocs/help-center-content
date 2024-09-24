@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: inconsistency-on-the-deadlines-of-customer-credit-invoices
+slugEN: inconsistency-on-the-deadlines-of-customer-credit-invoices
 locale: en
 kiStatus: Backlog
 internalReference: 331279

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-01-13T14:29:18.189Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: creating-or-editing-a-page-template
+slugEN: creating-or-editing-a-page-template
 locale: en
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms
@@ -43,9 +43,9 @@ Check out the walk-through:
 > *`admin`
 > 
 7. Then fill in the __Template XHTML__ box with your template code. 
-![4 1](https://images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
+![4 1](//images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
 9. Click on the __Save Template__ button.
-![4 2](https://images.ctfassets.net/alneenqid6w5/58ZckRTKZ2e6BbXPtx54xK/a638e74bf68dc437257a6c220d5a2c1c/4_2.png)
+![4 2](//images.ctfassets.net/alneenqid6w5/58ZckRTKZ2e6BbXPtx54xK/a638e74bf68dc437257a6c220d5a2c1c/4_2.png)
 
 To edit an existing template, the process is almost identical.
 

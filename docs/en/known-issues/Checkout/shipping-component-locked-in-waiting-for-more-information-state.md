@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: shipping-component-locked-in-waiting-for-more-information-state
+slugEN: shipping-component-locked-in-waiting-for-more-information-state
 locale: en
 kiStatus: Backlog
 internalReference: 780673

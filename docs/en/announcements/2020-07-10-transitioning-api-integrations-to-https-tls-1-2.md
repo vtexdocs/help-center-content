@@ -8,7 +8,7 @@ publishedAt: 2020-07-21T19:14:32.690Z
 contentType: updates
 productTeam: Reliability
 author: 127RQ7SUoFfyTh5gbXUpdM
-slug: transitioning-api-integrations-to-https-tls-1-2
+slugEN: transitioning-api-integrations-to-https-tls-1-2
 locale: en
 legacySlug: transitioning-api-integrations-to-https-tls-1-2
 announcementImageID: ''

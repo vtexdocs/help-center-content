@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: something-went-wrong-message-when-accessing-a-and-p-routes-in-portal-stores
+slugEN: something-went-wrong-message-when-accessing-a-and-p-routes-in-portal-stores
 locale: en
 kiStatus: Backlog
 internalReference: 945226

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: promotions-catalog-conditions-apply-to-skucomponent-even-when-only-adding-skukit-to-cart
+slugEN: promotions-catalog-conditions-apply-to-skucomponent-even-when-only-adding-skukit-to-cart
 locale: en
 kiStatus: Backlog
 internalReference: 1085500

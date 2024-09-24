@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: checkout-simulation-with-a-great-quantity-of-the-same-sku-receives-a-logistics-timeout
+slugEN: checkout-simulation-with-a-great-quantity-of-the-same-sku-receives-a-logistics-timeout
 locale: en
 kiStatus: No Fix
 internalReference: 330775

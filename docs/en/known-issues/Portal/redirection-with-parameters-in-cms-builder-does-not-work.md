@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: redirection-with-parameters-in-cms-builder-does-not-work
+slugEN: redirection-with-parameters-in-cms-builder-does-not-work
 locale: en
 kiStatus: Backlog
 internalReference: 593906

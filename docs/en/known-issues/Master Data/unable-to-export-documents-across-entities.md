@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slug: unable-to-export-documents-across-entities
+slugEN: unable-to-export-documents-across-entities
 locale: en
 kiStatus: Backlog
 internalReference: 
