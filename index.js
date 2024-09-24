@@ -51,11 +51,11 @@ async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
         // Recursively delete markdown files in subdirectories
         await deleteMarkdownFiles(filePath, false);
         await fs.rmdir(filePath); // Delete folder after processing
-        console.log(`Deleted folder: ${filePath}`);
+        // console.log(`Deleted folder: ${filePath}`);
       } else if (file.endsWith('.md')) {
         // Delete markdown files
         await fs.unlink(filePath);
-        console.log(`Deleted: ${filePath}`);
+        // console.log(`Deleted: ${filePath}`);
       }
     });
 
@@ -766,10 +766,10 @@ ${textPT}
     // Construct the paths
     const localeFolder = path.join('./docs', locales[i]);
     const baseFolder = path.join(localeFolder, fileFolders);
-    const subFolder = fileSubFolder ? path.join(baseFolder, fileSubFolder).replace(": ", " - ") : null;
-    const subcategoryFolder = fileSubcategoryFolder ? path.join(subFolder, fileSubcategoryFolder).replace(": ", " - ") : null;
+    const subFolder = fileSubFolder ? path.join(baseFolder, fileSubFolder).replace(": ", " - ").trim() : null;
+    const subcategoryFolder = fileSubcategoryFolder ? path.join(subFolder, fileSubcategoryFolder).replace(": ", " - ").trim() : null;
     const filePath = fileSubcategoryFolder ? path.join(subcategoryFolder, fileNameEN).replace(": ", " - ") : fileSubFolder ? path.join(subFolder, fileNameEN).replace(": ", " - ") : path.join(baseFolder, fileNameEN).replace(": ", " - ");
-  
+
     // Array of folders to create
     const foldersToCreate = [localeFolder, baseFolder, subFolder, subcategoryFolder].filter(Boolean);
   
