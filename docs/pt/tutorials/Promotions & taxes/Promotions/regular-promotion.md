@@ -1,9 +1,9 @@
 ---
 title: 'Promoção Regular'
 id: tutorials_327
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-04-27T22:07:59.690Z
-updatedAt: 2024-05-15T16:38:18.730Z
+updatedAt: 2024-09-24T11:46:39.029Z
 publishedAt: 2024-05-15T16:38:18.730Z
 firstPublishedAt: 2017-04-27T23:03:15.647Z
 contentType: tutorial
@@ -84,7 +84,7 @@ Para que a promoção seja válida para todas as políticas comerciais, deixe a 
 
 Nesta seção, você precisa escolher se a promoção será aplicada a todos os produtos cadastrados na sua loja ou apenas a produtos específicos, conforme ilustrado abaixo.
 
-![promocoes-restricao-pt](https://images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/359155bac11f7ac88a4d12a041cf8b96/image.png)
+![promocoes-restricao-pt](//images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/359155bac11f7ac88a4d12a041cf8b96/image.png)
 
 Caso deseje aplicar a promoção a todo o seu catálogo, selecione a opção **Aplicar a todos os produtos**.
 
@@ -94,7 +94,7 @@ Você pode incluir ou excluir **Categorias**, **Marcas**, **Coleções**, **Prod
 
 Veja um exemplo de preenchimento abaixo. Nesse caso, participam da promoção todos os produtos da categoria **Vestido** cuja marca é **Farm**, com a exceção do produto **Vestido Rosas**.
 
-![exemplo-pt](https://images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/6c40e996aece6e87b82b0bc71a50f3e5/image.png)
+![exemplo-pt](//images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/6c40e996aece6e87b82b0bc71a50f3e5/image.png)
 
 Nos campos **Produtos** e **SKUs**, existe a opção de fazer o upload de um arquivo **.txt** com um ID de produto ou de SKU por linha, em vez de selecionar um produto ou um SKU de cada vez. Para isso, você precisa clicar em **Escolher arquivo** e selecionar o arquivo **.txt** desejado.
 
@@ -142,7 +142,7 @@ O pedido do cliente deve atender às condições cadastradas nesta seção para 
       - **Frequência**: seleção da frequência dos pedidos por assinatura - semanal, mensal e anual.
       - **Número do ciclo**: seleção dos ciclos da assinatura que serão incluídos à promoção. Essa opção é desbloqueada apenas se **Pedidos recorrentes** for selecionado anteriormente.
 
-- **Aplicar o desconto mesmo se o cliente não estiver logado:** este campo é disponibilizado quando o campo **Apenas na primeira compra** é selecionado. Se este campo é marcado, a promoção será aplicada mesmo que o consumidor não tenha inserido e-mail e senha. Quando desmarcado, a promoção somente será aplicada se o consumidor tiver acessado com e-mail e senha, previamente cadastrados.
+- **Aplicar o desconto mesmo se o cliente não estiver logado:**  esse campo fica disponível quando a opção "Apenas na primeira compra" é selecionada. Ao marcar essa opção, a promoção será aplicada ao consumidor, mesmo que ele não tenha inserido email e senha. No entanto, o desconto será aplicado assim que o consumidor for identificado, não sendo necessário que ele esteja logado. Se a opção estiver desmarcada, a promoção só será aplicada se o consumidor acessar a conta com e-mail e senha previamente cadastrados.
 
 ## 4. Restrições e limitações de uso
 

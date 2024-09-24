@@ -1,9 +1,9 @@
 ---
 title: 'Promoción Regular'
 id: tutorials_327
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-04-27T22:07:59.690Z
-updatedAt: 2024-05-15T16:38:18.730Z
+updatedAt: 2024-09-24T11:46:39.029Z
 publishedAt: 2024-05-15T16:38:18.730Z
 firstPublishedAt: 2017-04-27T23:03:15.647Z
 contentType: tutorial
@@ -83,7 +83,7 @@ Para que la promoción sea válida para todas las políticas comerciales, deje l
 
 En esta sección, debe elegir si la promoción se aplicará a todos los productos registrados en su tienda o solo a productos específicos, como se ilustra a continuación.
 
-![promocoes-restricao-es](https://images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/83e378ce4788febd839ee10395e02f9f/image.png)
+![promocoes-restricao-es](//images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/83e378ce4788febd839ee10395e02f9f/image.png)
 
 Si desea aplicar la promoción a todo su catálogo, seleccione la opción **Aplicar a todos los productos.**
 
@@ -93,7 +93,7 @@ Puede incluir o excluir **categorías, marcas, colecciones**, **productos** y **
 
 Vea a continuación un ejemplo de cómo rellenarlo. En este caso, participan en la promoción todos los productos de la categoría **Vestido **cuya marca es **Farm**, con la excepción del producto **Vestido Rosas**.
 
-![exemplo-es](https://images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/89c3e52e137f7856cb49628954217ff9/image.png)
+![exemplo-es](//images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/89c3e52e137f7856cb49628954217ff9/image.png)
 
 En los campos **Productos** y **SKUs**, se puede cargar un archivo **.txt** con un ID de producto o de SKU por fila, en vez de seleccionar un producto o un SKU a la vez. Para ello, debe hacer clic en **Elegir archivo** y seleccionar el archivo **.txt** deseado.
 
@@ -142,7 +142,7 @@ El pedido del cliente debe cumplir las condiciones registradas en esta sección 
       - **Frecuencia**: es la selección de la frecuencia de los pedidos por suscripción, que puede ser semanal, mensual y anual.
       - **Número del ciclo**: es la selección de los ciclos de la suscripción que se incluirán en la promoción. Esta opción se desbloquea solamente si la de **Pedidos recurrentes** ha sido seleccionada anteriormente.
 
-- **Aplicar el descuento, incluso si el usuario no está conectado:** este campo se habilita cuando se selecciona el campo **solo en la primera compra**. Si se marca este campo, la promoción se aplicará incluso si el consumidor no ingresó su *email* y contraseña. Cuando no está marcado, la promoción solo se aplicará si el consumidor ha accedido con su *email* y contraseña previamente registrados.
+- **Aplicar el descuento, incluso si el usuario no está conectado:** este campo aparece cuando se selecciona la opción **Solo en la primera compra**. Si está activado, la promoción se aplicará tan pronto como el comprador sea identificado, sin necesidad de que inicie sesión con su correo electrónico y contraseña. Si está desactivado, el descuento solo se otorgará cuando el consumidor inicie sesión con un correo electrónico y contraseña previamente registrados.
 
 ## 4. Restricciones y limitaciones de uso
 
