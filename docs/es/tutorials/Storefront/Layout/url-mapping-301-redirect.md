@@ -52,7 +52,7 @@ Hay dos maneras de añadir y cambiar un Mapeo de URL:
 3. Haga clic en la carpeta **URL Builder**.
 4. Haga clic en el botón `Import` para importar la plantilla.
 5. Descargue el modelo de plantilla que se ilustra a continuación haciendo clic en el botón `Click here`.
-![exemplo-planilha](https://images.contentful.com/alneenqid6w5/2Z63gJkADcR2gveT3lncQb/9bbd790becd99acb7b647537eb71c6a9/Screenshot_5.png)
+![exemplo-planilha](//images.contentful.com/alneenqid6w5/2Z63gJkADcR2gveT3lncQb/9bbd790becd99acb7b647537eb71c6a9/Screenshot_5.png)
 6. Rellene los [campos de la plantilla](#campos-de-la-plantilla).
 7. Después de rellenar la plantilla, haga clic en el botón `Browse for file` en la página de importación.
 8. Seleccione el archivo que desea importar desde su ordenador. El archivo debe tener la extensión `.xls` en formato `Excel 97-2003 Workbook`.

@@ -50,7 +50,7 @@ Para criar uma [campanha](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta
 6. Selecione os produtos que deseja anunciar por meio de uma das opções a seguir:
 
    * __Procurar produtos por EAN:__ buscar produtos do seu catálogo por EAN.
-   * __Carregar arquivo:__ enviar um arquivo CSV com uma lista de códigos EAN e lances, conforme [este exemplo](https://assets.ctfassets.net/alneenqid6w5/37tlx8GVGFxhOS48l73Ehz/ca7ebe3a7ac8cc99bd8f9e843a7bdf98/teste-ads.csv). Os EANs são obrigatórios e os lances opcionais no arquivo.
+   * __Carregar arquivo:__ enviar um arquivo CSV com uma lista de códigos EAN e lances, conforme [este exemplo](//assets.ctfassets.net/alneenqid6w5/37tlx8GVGFxhOS48l73Ehz/ca7ebe3a7ac8cc99bd8f9e843a7bdf98/teste-ads.csv). Os EANs são obrigatórios e os lances opcionais no arquivo.
 
 7. Clique em `Salvar`.
 8. Na seção *Orçamento, bid e cronograma*, clique no botão de editar <i class="fas fa-pencil-alt"></i>.
@@ -104,7 +104,7 @@ Você pode pausar um produto específico da sua campanha. Desta forma, o anúnci
 
 Na tela inicial do app [VTEX Ad Network](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur), você também encontra informações relativas às suas campanhas em andamento.
 
-![vtex_ad_network_create_campaign_PT](https://images.ctfassets.net/alneenqid6w5/3b6zZAI4R3cC9Jd1rGPwtn/93a50fdced1479a4deea8072a6a9ca6b/vtex_ad_network_create_campaign.png)
+![vtex_ad_network_create_campaign_PT](//images.ctfassets.net/alneenqid6w5/3b6zZAI4R3cC9Jd1rGPwtn/93a50fdced1479a4deea8072a6a9ca6b/vtex_ad_network_create_campaign.png)
 
 Na parte superior, estão dados agregados:
 

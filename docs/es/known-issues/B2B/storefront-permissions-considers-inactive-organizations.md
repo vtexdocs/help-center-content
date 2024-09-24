@@ -3,8 +3,8 @@ title: 'Los permisos del escaparate tienen en cuenta a las organizaciones inacti
 id: 2GANYaXFMQpLGADajl4CbS
 status: PUBLISHED
 createdAt: 2023-10-27T22:08:14.267Z
-updatedAt: 2023-10-27T22:15:24.802Z
-publishedAt: 2023-10-27T22:15:24.802Z
+updatedAt: 2024-09-05T17:42:55.782Z
+publishedAt: 2024-09-05T17:42:55.782Z
 firstPublishedAt: 2023-10-27T22:08:14.965Z
 contentType: knownIssue
 productTeam: B2B
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slug: los-permisos-del-escaparate-tienen-en-cuenta-a-las-organizaciones-inactivas
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 927174
 ---
 

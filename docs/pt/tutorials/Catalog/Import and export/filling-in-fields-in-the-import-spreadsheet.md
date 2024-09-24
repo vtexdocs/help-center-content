@@ -3,8 +3,8 @@ title: 'Preencher campos da planilha de importação de produtos e SKUs'
 id: 4nYhx63Q5yokQWaMguaIgI
 status: PUBLISHED
 createdAt: 2018-02-06T20:09:19.608Z
-updatedAt: 2021-12-03T18:43:12.902Z
-publishedAt: 2021-12-03T18:43:12.902Z
+updatedAt: 2024-09-19T13:30:38.118Z
+publishedAt: 2024-09-19T13:30:38.118Z
 firstPublishedAt: 2018-02-06T20:23:29.492Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -80,7 +80,7 @@ Na VTEX, é possível [importar produtos e SKUs em massa por meio de uma planilh
 
 **TextoLink:** campo utilizado para criar a URL do produto. É recomendável a utilização da estrutura sem acento e com palavras separadas por hífen. Cada produto deve conter um _TextoLink_ diferente. Campo obrigatório.
 
-**DescricaoProduto:** descrição das principais informações relacionadas ao produto. Um resumo simples e de fácil entendimento para o cliente. Caso você não preencha este campo, o sistema vai replicar o _NomeProduto_ para completar o cadastro.
+**DescricaoProduto:** descrição das principais informações relacionadas ao produto. Um resumo simples e de fácil entendimento para o cliente.
 
 **DataLancamentoProduto:** campo utilizado para agendar a data de ativação de um produto, no formato _dd/mm/aaaa_.
 

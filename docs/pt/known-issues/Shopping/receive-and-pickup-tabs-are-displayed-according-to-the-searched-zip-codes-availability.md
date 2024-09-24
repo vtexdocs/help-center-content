@@ -21,7 +21,7 @@ internalReference:
 Atualmente, o cenário de exibição das opções "Receber | Retirar" é condicionado ao CEP buscado em qualquer uma das abas. Isso significa que, se na aba de "Receber" for buscado um CEP que não é atendido por um ponto de retirada, a aba "Retirar" não será exibida ao usuário.
 
 
-![Captura de Tela 2018-11-21 às 14.25.40](https://images.ctfassets.net/alneenqid6w5/5kj7LZNmpiMsum4OSUc8mC/575006d7f6b4ad87dbeb60dea57b191c/Captura_de_Tela_2018-11-21_a__s_14.25.40.png) 
+![Captura de Tela 2018-11-21 às 14.25.40](//images.ctfassets.net/alneenqid6w5/5kj7LZNmpiMsum4OSUc8mC/575006d7f6b4ad87dbeb60dea57b191c/Captura_de_Tela_2018-11-21_a__s_14.25.40.png) 
 
 ## Simulação
 

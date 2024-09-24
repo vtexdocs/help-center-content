@@ -39,7 +39,7 @@ Using the same previous example, if we create a folder named **my-landing-page**
 
 ### Setup
 
-![](https://images.contentful.com/alneenqid6w5/ZvEGMDPUs0OsuCkoUsqqS/4411604b8b78124edcbacd46cc45ed53/ContextoDeBusca.PNG "Search Context")
+![](//images.contentful.com/alneenqid6w5/ZvEGMDPUs0OsuCkoUsqqS/4411604b8b78124edcbacd46cc45ed53/ContextoDeBusca.PNG "Search Context")
 
 **Important**:
 

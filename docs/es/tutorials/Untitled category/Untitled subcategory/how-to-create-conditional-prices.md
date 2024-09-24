@@ -32,4 +32,4 @@ El siguiente es un paso a paso de cómo usar estos precios condicionales:
 6. Usted puede definir un pequeño mensaje, llamado *Teaser*, para promover esa condición a su cliente. (Para entender mejor, vea [Teasers - En breve])
 7. Guarde.
 
-![conditionalPrice](https://images.ctfassets.net/alneenqid6w5/3HJkZntAaQEOoCywOS2Sqo/09869666842b78db00d1dc0ab94ca965/conditionalPrice.gif)
+![conditionalPrice](//images.ctfassets.net/alneenqid6w5/3HJkZntAaQEOoCywOS2Sqo/09869666842b78db00d1dc0ab94ca965/conditionalPrice.gif)

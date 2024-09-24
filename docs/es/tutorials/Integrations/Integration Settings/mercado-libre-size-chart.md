@@ -1,9 +1,9 @@
 ---
 title: 'Tabla de tallas de Mercado Libre'
 id: 5dCc9IJ83SjllG75BVCWnr
-status: PUBLISHED
+status: CHANGED
 createdAt: 2024-07-23T20:28:35.058Z
-updatedAt: 2024-07-23T21:11:23.954Z
+updatedAt: 2024-09-23T19:29:15.671Z
 publishedAt: 2024-07-23T21:11:23.954Z
 firstPublishedAt: 2024-07-23T21:11:23.954Z
 contentType: tutorial
@@ -40,13 +40,17 @@ Para agregar una tabla de tallas personalizada, debes seguir los pasos a continu
    - **Bebés**  
    - **Sin género**  
    - **Sin género infantil**  
-9. En el campo **Tamaño principal**, escoge la opción de modelo de tabla. Hay cinco modelos diferentes:  
+9. En el campo **Tipo de medidas,** escoge la opción de tipo de medidas. Hay tres modelos diferentes:
+  - **Medidas corporales**  
+  - **Medidas de la prenda**  
+  - **Ambas medidas**  
+11. En el campo **Tamaño principal**, escoge la opción de modelo de tabla. Hay cinco modelos diferentes:  
    - **BR:** utiliza las tallas estándar en Brasil.  
    - **Tamaño de la marca:** utiliza las tallas estándar de la marca del producto seleccionado.  
    - **US:** utiliza las tallas estándar de los tamaños en Estados Unidos. Las tallas pueden variar según el género.  
    - **EU:** utiliza las tallas estándar de los tamaños en la Unión Europea.  
    - **UK:** utiliza las tallas estándar de los tamaños en el Reino Unido.  
-10. En el campo **Template**, haz clic en CSV. Se descargará una plantilla de la tabla que deberás completar según las instrucciones de la sección [Completar la plantilla de la tabla de tallas](#completar-la-plantilla-de-la-tabla-de-tallas).
+12. En el campo **Template**, haz clic en CSV. Se descargará una plantilla de la tabla que deberás completar según las instrucciones de la sección [Completar la plantilla de la tabla de tallas](#completar-la-plantilla-de-la-tabla-de-tallas).
 
 ## Completar la plantilla de la tabla de tallas
 

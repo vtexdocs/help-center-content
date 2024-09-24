@@ -18,7 +18,7 @@ internalReference:
 
 ## Sumário
 
-O Campo automático (campo calculado) funciona corretamente quando  "Recalcular esse campo:" é setado para "somente quando inserir registro", mas para de funcionar quando é programado para recalcular "na primeira hora..." e suas variantes.![inline1511102536](https://images.ctfassets.net/alneenqid6w5/JbRenxvruoyYOueqguwcy/8ae33d07ce4db627a1c45eed5916824e/inline1511102536.png)
+O Campo automático (campo calculado) funciona corretamente quando  "Recalcular esse campo:" é setado para "somente quando inserir registro", mas para de funcionar quando é programado para recalcular "na primeira hora..." e suas variantes.![inline1511102536](//images.ctfassets.net/alneenqid6w5/JbRenxvruoyYOueqguwcy/8ae33d07ce4db627a1c45eed5916824e/inline1511102536.png)
 
 ## Simulação
 

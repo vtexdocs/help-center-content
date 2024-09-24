@@ -27,6 +27,6 @@ No entanto, uma vez que o produto em questão tenha alguma referência a outra �
 
 Neste caso, a seguinte mensagem de erro aparece ao tentar excluí-lo:
 
-![erroExcluir](https://images.contentful.com/alneenqid6w5/19vbt8GlfOK0IMEMEo86Gu/75d44c69a5d553d485daa668d1ab19bc/erroExcluir.png)
+![erroExcluir](//images.contentful.com/alneenqid6w5/19vbt8GlfOK0IMEMEo86Gu/75d44c69a5d553d485daa668d1ab19bc/erroExcluir.png)
 
 A solução é inativar o produto. Veja como no artigo [Inativar SKUs e produtos da loja](/pt/tutorial/inativar-skus-e-produtos-da-loja).

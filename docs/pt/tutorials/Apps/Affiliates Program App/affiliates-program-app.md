@@ -38,11 +38,11 @@ O aplicativo cria três tipos de páginas para os afiliados, que dispõem delas 
 
 A **página do afiliado** é a URL da loja VTEX que ele compartilha com os clientes. Veja um exemplo na imagem a seguir:
 
-![print_affiliates_url_pt](https://images.ctfassets.net/alneenqid6w5/63BnppaNSakcI7YJVX2mAV/1e1373a555c8f61b2e4b4af691f4246c/affiliate-url.png)
+![print_affiliates_url_pt](//images.ctfassets.net/alneenqid6w5/63BnppaNSakcI7YJVX2mAV/1e1373a555c8f61b2e4b4af691f4246c/affiliate-url.png)
 
 A **página de perfil do afiliado** é uma interface pela qual ele pode acompanhar e gerenciar seus pedidos e comissões. Veja um exemplo na imagem a seguir:
 
-![affiliate_profile_page_pt](https://images.ctfassets.net/alneenqid6w5/7kNS1iqcYLpB7roih4QdiF/1d8a0e06794d7ea915fcb3c12154f3a3/affiliate-profile-page.png)
+![affiliate_profile_page_pt](//images.ctfassets.net/alneenqid6w5/7kNS1iqcYLpB7roih4QdiF/1d8a0e06794d7ea915fcb3c12154f3a3/affiliate-profile-page.png)
 
 A **página de cadastro** permite que os próprios interessados em se tornar afiliados preencham seus dados para solicitar registro junto a sua loja VTEX.
 
@@ -68,7 +68,7 @@ A página **Gerenciamento de afiliados **permite realizar as seguintes ações:
 - [Visualizar detalhes do afiliado](#visualizar-detalhes-do-afiliado)
 - [Editar afiliado](#editar-afiliado)
 
-![affiliates_management_page_pt](https://images.ctfassets.net/alneenqid6w5/7E41Gki569BjcMFnhsttH9/6bf53421511963ec9f96265646c3c0e5/affiliates_management_page_pt.jpg)
+![affiliates_management_page_pt](//images.ctfassets.net/alneenqid6w5/7E41Gki569BjcMFnhsttH9/6bf53421511963ec9f96265646c3c0e5/affiliates_management_page_pt.jpg)
 
 ### Adicionar afiliado
 
@@ -113,7 +113,7 @@ A página **Gerenciamento de pedidos** permite realizar as seguintes ações:
 - [Exportar lista de pedidos](#exportar-lista-de-pedidos)
 - [Visualizar detalhes do pedido](#visualizar-detalhes-do-pedido)
 
-![orders_management_page_pt](https://images.ctfassets.net/alneenqid6w5/4oecP3rDffWqrP0KtvOhrp/ef737b1a333add24b39bad8a1b75d12e/orders_management_page_pt.jpg)
+![orders_management_page_pt](//images.ctfassets.net/alneenqid6w5/4oecP3rDffWqrP0KtvOhrp/ef737b1a333add24b39bad8a1b75d12e/orders_management_page_pt.jpg)
 
 ### Acompanhar dashboard
 
@@ -162,7 +162,7 @@ A página **Gerenciamento de comissões** permite realizar as seguintes ações:
 - [Importar comissões](#importar-comissoes)
 - [Fazer o download da última importação](#fazer-o-download-da-ultima-importacao)
 
-![commissions_ management_page_pt](https://images.ctfassets.net/alneenqid6w5/4sPaoOQE8vAbN9tsCMS7zt/edebf47b68608fb0c12200421c79b770/commissions__management_page_pt.jpg)
+![commissions_ management_page_pt](//images.ctfassets.net/alneenqid6w5/4sPaoOQE8vAbN9tsCMS7zt/edebf47b68608fb0c12200421c79b770/commissions__management_page_pt.jpg)
 
 ### Pesquisar comissões
 

@@ -25,13 +25,13 @@ Anteriormente, no cadastro da [integração com o Google Shopping](https://help.
 
 >⚠️ A configuração **Aplicar desconto no preço enviado** está disponível somente para lojas VTEX Brasil.
 
-![envio-de-precos-google-pt](https://images.ctfassets.net/alneenqid6w5/5ZZihnxaawRM55WkmZ8YJA/309246aab10954d984d851b58442a4ef/envio-de-precos-google-pt.png)
+![envio-de-precos-google-pt](//images.ctfassets.net/alneenqid6w5/5ZZihnxaawRM55WkmZ8YJA/309246aab10954d984d851b58442a4ef/envio-de-precos-google-pt.png)
 
 ## O que precisa ser feito?
 
 A atualização estará disponível para todas as [contas VTEX que atuam como seller](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) a partir de 14 de dezembro de 2023. 
 Para contas que ainda não utilizam a integração com o Google Shopping e desejam ativar as configurações **Enviar preço base (para preços com desconto)** e **Aplicar desconto no preço enviado**, siga [esta trilha](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/2kGKxwD9HKJvTLDTikQ4zG) para começar a utilizar as novas configurações. Para contas já integradas com o Google Shopping e com a configuração **Considerar desconto para pagamento com boleto no preço enviado** ativa, após a atualização a configuração correspondente **Aplicar desconto no preço enviado** já estará ativa conforme imagem abaixo:  
 
-![fluxo-update-news-google](https://images.ctfassets.net/alneenqid6w5/3JvNH6bvMe4warWK5aOrNv/9f4ee800552c105e69dae21676a58b31/fluxo-update-news-google.png)  
+![fluxo-update-news-google](//images.ctfassets.net/alneenqid6w5/3JvNH6bvMe4warWK5aOrNv/9f4ee800552c105e69dae21676a58b31/fluxo-update-news-google.png)  
 
 Confira a documentação e saiba como [Configurar desconto vinculado ao meio de pagamento](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/3AqbcsWrge8zLt0BC5CtGd#desconto-vinculado-ao-metodo-de-pagamento) e como [Configurar o desconto no conector](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).

@@ -3,8 +3,8 @@ title: 'Filling out Collection fields'
 id: 7eKL7CFRW3yGKlnDfQetbj
 status: PUBLISHED
 createdAt: 2019-06-03T20:13:01.481Z
-updatedAt: 2020-12-11T16:42:53.909Z
-publishedAt: 2020-12-11T16:42:53.909Z
+updatedAt: 2024-09-09T14:09:09.775Z
+publishedAt: 2024-09-09T14:09:09.775Z
 firstPublishedAt: 2019-06-13T20:25:06.424Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -25,6 +25,6 @@ To better understand the meaning of the registration fields of a product collect
 
 - __Highlight?__: This option should be checked if you want the collection to be highlighted in your store, by using the `$product.HightLight` control. For more on this control, read the following article: [Shelf Template Controls](https://help.vtex.com/en/tutorial/shelf-template-controls--tutorials_550).
 
-- __Searchable?__: This should be checked to make the collection searchable in [VTEX's search API](https://developers.vtex.com/reference/facets-1#facetscategoryandspecification). 
+- __Searchable?__: This should be checked to make the collection searchable in [VTEX's search API](https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/search/-search-?endpoint=get-/api/catalog_system/pub/products/search/-search-). 
 
 - __From/To__: time interval during which the product collection will be active in your store. 

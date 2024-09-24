@@ -3,8 +3,8 @@ title: 'Entrega agendada'
 id: 22g3HAVCGLFiU7xugShOBi
 status: PUBLISHED
 createdAt: 2021-04-19T13:26:44.564Z
-updatedAt: 2024-03-25T19:12:45.519Z
-publishedAt: 2024-03-25T19:12:45.519Z
+updatedAt: 2024-09-23T13:33:32.959Z
+publishedAt: 2024-09-23T13:33:32.959Z
 firstPublishedAt: 2021-05-24T17:01:23.885Z
 contentType: tutorial
 productTeam: Post-purchase

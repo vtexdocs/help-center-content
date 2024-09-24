@@ -20,7 +20,7 @@ internalReference:
 
 There are two prices: a fixed price that is always in effect and a scheduled price, which is valid for a limited data range, which will be active concurrently with the fixed price.
 
-![precio-agendado-no-reactiva](https://images.contentful.com/alneenqid6w5/28x1hbS9l2QgsyIcYyUoSM/bf1eecf7c1a429f8fc0070040f6fc2ac/precio-agendado-no-reactiva.png)
+![precio-agendado-no-reactiva](//images.contentful.com/alneenqid6w5/28x1hbS9l2QgsyIcYyUoSM/bf1eecf7c1a429f8fc0070040f6fc2ac/precio-agendado-no-reactiva.png)
 
 When the scheduled price expires, the fixed price should be reenabled, since it will be the new and only price valid for this SKU. This re-enablement occurs for most of prices, but it is not happening for all cases; the product continues published on the web, in general with a price lower than the fixed price that was not automatically reenabled. 
 

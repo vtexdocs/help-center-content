@@ -3,8 +3,8 @@ title: 'Envío de los productos a Dafiti'
 id: 3b8BZfB1BC8G8SCe0ao46m
 status: PUBLISHED
 createdAt: 2018-09-27T18:14:09.967Z
-updatedAt: 2023-08-24T20:14:58.159Z
-publishedAt: 2023-08-24T20:14:58.159Z
+updatedAt: 2024-09-05T16:44:54.581Z
+publishedAt: 2024-09-05T16:44:54.581Z
 firstPublishedAt: 2018-09-27T21:44:56.294Z
 contentType: trackArticle
 productTeam: Channels
@@ -29,19 +29,19 @@ Sigue estos pasos para realizar el mapeo:
 
 Al mapear los productos, debes tener en cuenta que Dafiti tiene valores de referencia para ciertos atributos de los productos.
 
-Para conocer los valores aceptados por Dafiti según cada columna de la plantilla de mapeo, debes descargar la plantilla de consulta de Dafiti para la categoría correspondiente. Esa plantilla solo se usará para consultas.
+Para conocer los valores aceptados por Dafiti según cada columna de la plantilla de mapeo, debes descargar [la plantilla de consulta de Dafiti](//assets.ctfassets.net/alneenqid6w5/4bNMTdmnYeqwt3n2YJzOEi/69ed2fa3fcca285c92b0643f1fb62dac/category_tree_export_2021-12-20_16-10-17.xlsx) para la categoría correspondiente. Esa plantilla solo se usará para consultas.
 
-- [Accesorios](https://drive.google.com/uc?export=download&id=19g-ycAnPDIefna0mU1IPMIO_cCwEIc_n)
-- [Belleza](https://drive.google.com/uc?export=download&id=17rH-YBklL8ut8ldkLs1ZaAib9ck7xN5c)
-- [Casa y decoración](https://drive.google.com/uc?export=download&id=1u_RaTqzFPRdTAT6PU2_7dtTl3fh8HJG0)
-- [Calzado](https://drive.google.com/uc?export=download&id=1cjjeiwBWLZ1NJ9ybuMDxhm7WNmX4xHv7)
-- [Vestimenta](https://drive.google.com/uc?export=download&id=1AhgcW68zc6GiSEKhUmFVhoZAy-BiZZDZ)
+- [Accesorios](//assets.ctfassets.net/alneenqid6w5/6Nlsbzz25DTtOQRaT4yp3d/ee511056fab51d837f8693abf22c4b5c/Acess_rios_-_ProductCreationTemplate_2022-02-11_143128.xlsx)
+- [Belleza](//assets.ctfassets.net/alneenqid6w5/42GvRkF1nZrJbMoxD1mly8/0a4b6e317acc09450f2eb9470c1dc3de/Beleza_-_ProductCreationTemplate_2022-02-11_143141.xlsx)
+- [Casa y Decoración](//assets.ctfassets.net/alneenqid6w5/OfvpU27CFbz3LHImodcg4/6beb7f56575c5ed7421ac79386166461/Home_e_Decor_-_ProductCreationTemplate_2022-02-11_143139.xlsx)
+- [Calzado](//assets.ctfassets.net/alneenqid6w5/3j3VR4yJYaDtts0TD5MuVg/f255695aa97498c421d7ec7a874f861b/Cal_ados_-_ProductCreationTemplate_2022-02-11_143135.xlsx)
+- [Vestimenta](//assets.ctfassets.net/alneenqid6w5/2vJxX6Q97oGwgwv0HcRCES/1ed548da66ffe9eeb819ac09fbcef24d/Vestu_rio_-_ProductCreationTemplate_2022-02-11_143133.xlsx)
 
 ## 2. Descargar el modelo de la plantilla de mapeo de Dafiti
 
 En esta etapa, deberás hacer un mapeo de los atributos de los productos y enviarlos al marketplace. Esta información se envía a través de la plantilla de mapeo, la cual te permite indicarle a Dafiti la correspondencia que existe entre los valores registrados en tu tienda y los valores aceptados en el marketplace.
 
-Descarga la [Plantilla de mapeo de Dafiti](https://s3.amazonaws.com/Marketplace-Integration/SellerCenterIntegration/Template/Model_New_Mapping_Dafiti.xlsx). VDebes usar el archivo como modelo para rellenar. Es decir, esta es la plantilla que rellenarás y, luego, enviarás a Dafiti.
+Descarga la [Plantilla de mapeo de Dafiti](//assets.ctfassets.net/alneenqid6w5/3R1asJS7fJ9mnTJwjuXcSE/de4bb24256247054bef8b7bf9fe42a51/Model_New_Mapping_Dafiti.xlsx). VDebes usar el archivo como modelo para rellenar. Es decir, esta es la plantilla que rellenarás y, luego, enviarás a Dafiti.
 
 ## 3. Rellenar la plantilla de mapeo
 

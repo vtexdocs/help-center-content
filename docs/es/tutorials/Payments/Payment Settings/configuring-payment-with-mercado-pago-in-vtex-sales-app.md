@@ -3,8 +3,8 @@ title: 'Configurar pagos con Mercado Pago en VTEX Sales App'
 id: 51fgSydGGOnlBdtwTfE8BE
 status: PUBLISHED
 createdAt: 2024-08-26T12:36:03.781Z
-updatedAt: 2024-09-03T13:41:09.309Z
-publishedAt: 2024-09-03T13:41:09.309Z
+updatedAt: 2024-09-24T13:53:43.655Z
+publishedAt: 2024-09-24T13:53:43.655Z
 firstPublishedAt: 2024-08-26T18:37:41.187Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ legacySlug: configurar-pagos-con-mercado-pago-en-vtex-sales-app
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX, es posible integrarse con el proveedor de pago MercadoPagoV2. A través de este conector, su tienda puede ofrecer transacciones de pago en tiendas físicas (VTEX Sales App), utilizando puntos de venta (POS). Para más información acceda [O que é o VTEX Sales App?](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+En VTEX, es posible integrarse con el proveedor de pago MercadoPagoV2. A través de este conector, su tienda puede ofrecer transacciones de pago en tiendas físicas (VTEX Sales App), utilizando puntos de venta (POS). Para más información acceda [¿Qué es VTEX Sales App?](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
 >ℹ️ Para utilizar el proveedor MercadoPagoV2 en su tienda a través de otros canales de venta en línea (excepto VTEX Sales App), visite [Configurar pago con MercadoPagoV2](https://help.vtex.com/es/tutorial/configurar-el-subadquirente-mercadopagov2--1y6k8lCSzJYfPs2yObNFo4).
 
@@ -55,13 +55,13 @@ Los siguientes pasos describen las configuraciones mínimas a realizar para que 
 
 <blockquote><ui>7. En <b>Control de pago</b>, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en <b>Activar modo de prueba</b>.</ui>
 
-<blockquote><ui>8. En <b>Periodo de vencimiento</b>, definir el valor (en días hábiles) para que caduque la orden de compra. Si el cliente realiza el pago fuera de plazo, el monto será depositado en su cuenta de Mercado Pago.</ui>
+<blockquote><ui>8. En <b>Periodo de vencimiento del ticket</b>, definir el valor (en días hábiles) para que caduque la orden de compra. Si el cliente realiza el pago fuera de plazo, el monto será depositado en su cuenta de Mercado Pago.</ui>
 
-<blockquote><ui>9. En <b>Nombre de la tienda</b>, ingrese el nombre de su empresa. Esta información estará descrita en la factura de la tarjeta del cliente.</ui>
+<blockquote><ui>9. En <b>Nombre para resúmenes</b>, ingrese el nombre de su empresa. Esta información estará descrita en la factura de la tarjeta del cliente.</ui>
 
-<blockquote><ui>10. En <b>Cuotas máximas</b>, escoja el número máximo de cuotas disponibles para realizar el pago. Con Mercado Pago podrás fraccionar compras en hasta 12 cuotas</ui>  
+<blockquote><ui>10. En <b>Cuotas máximas</b>, escoja el número máximo de cuotas disponibles para realizar el pago. Con Mercado Pago podrás fraccionar compras en hasta 12 cuotas.</ui>  
 
-<blockquote><ui>11. En <b>Soporte 3DS 2.0</b>, seleccione "Sí" si desea habilitar la validación de seguridad 3DS. Para que este protocolo funcione correctamente, asegúrese de que la <b>Mercado Pago Payment app</b> se instalará en su tienda y que el campo <b>BinArio</b> (Paso 15), esté seleccionado como "No".</ui>  
+<blockquote><ui>11. En <b>Soporte 3DS 2.0</b>, seleccione "Sí" si desea habilitar la validación de seguridad 3DS. Para que este protocolo funcione correctamente, asegúrese de que la <b>Mercado Pago Payment app</b> se instalará en su tienda y que el campo <b>Binario</b> (Paso 15), esté seleccionado como "No".</ui>  
 
 <blockquote><ui>12. En <b>Categoría principal de la tienda</b>, elija la categoría de la industria de su tienda.</ui>
 
@@ -82,10 +82,9 @@ Los siguientes pasos describen las configuraciones mínimas a realizar para que 
 
 <blockquote><ui>21. El campo <b>Merchant Account ID</b> identifica la cuenta comercial. No es necesario llenarlo.</ui>     
 
-<blockquote><ui>22. En <b>PPlazo de captura de pagos aprobado</b>, seleccione la fecha límite deseada para la captura de pago.</ui>     
+<blockquote><ui>22. En <b>Plazo de captura de pagos aprobado</b>, seleccione la fecha límite deseada para la captura de pago.</ui>     
 
 <blockquote><ui>23. En <b>Fecha para cancelar compras de un carrito abandonado</b>, ingrese el intervalo de tiempo que se debe esperar hasta que los métodos de pago habilitados no estén disponibles para realizar la compra.</ui>    
-
 <blockquote><ui>24. Haga clic en <b>Guardar</b>.</ui>
 
 ## Instalar aplicaciones Mercado Pago Payment y Mercado Pago Instore en VTEX

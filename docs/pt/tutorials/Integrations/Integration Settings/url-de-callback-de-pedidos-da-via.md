@@ -1,10 +1,10 @@
 ---
 title: 'URL de Callback de Pedidos da Via'
 id: Ku1ksxfDIiCKj6qSUrwZ1
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-09-30T20:52:56.898Z
-updatedAt: 2021-10-01T17:39:20.744Z
-publishedAt: 2021-10-01T17:39:20.744Z
+updatedAt: 2024-09-05T18:33:01.232Z
+publishedAt: 
 firstPublishedAt: 2021-09-30T23:00:08.773Z
 contentType: tutorial
 productTeam: Channels

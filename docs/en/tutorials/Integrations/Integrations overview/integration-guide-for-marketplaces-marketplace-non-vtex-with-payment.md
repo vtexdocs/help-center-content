@@ -328,7 +328,7 @@ _response:_
     },
     "IsKit": false,
     "KitItems": [],
-    "Services": [https://serviços
+    "Services": [//serviços
         {
             "Id": 1098,
             "Name": "Embalagem presente",

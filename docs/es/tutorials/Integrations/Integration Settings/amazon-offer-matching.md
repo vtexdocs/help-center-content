@@ -19,7 +19,7 @@ Cada vez que se envía a Amazon un [SKU](https://help.vtex.com/es/tracks/catalog
 
 El EAN registrado en VTEX se utiliza para hacer la equivalencia con los [ASIN](https://afiliados.amazon.com.mx/) (*Amazon Standard Identification Number, o número de identificación estándar de Amazon*) correspondientes en Amazon. Para hacer el emparejamiento entre EAN y ASIN, es necesario realizar el matching manualmente. La correspondencia entre EAN y ASIN debe ser exacta para que los anuncios se vinculen correctamente.  
 
-![Presentación match de anuncios](https://images.ctfassets.net/alneenqid6w5/3SrhTyS3Cpy2xxWvEA3M88/4c1f3a16c14e3201bd0724e0c6907cad/Match-an__ncios-Amazon.gif)
+![Presentación match de anuncios](//images.ctfassets.net/alneenqid6w5/3SrhTyS3Cpy2xxWvEA3M88/4c1f3a16c14e3201bd0724e0c6907cad/Match-an__ncios-Amazon.gif)
 
 ## Pestaña Oportunidad  
 
@@ -78,7 +78,7 @@ Para aprobar el match, el seller debe seguir los pasos a continuación:
 1. En la pestaña `Oportunidad`, haz clic en el ícono <i class="fas fa-ellipsis-v"></i>.  
 2. Haz clic en la opción `Ver detalles`.  
 3. Consulta la información que aparece en la página.    
-![Match individual de anuncios](https://images.ctfassets.net/alneenqid6w5/11Kd50vfsJccpDoHH8pSQ9/eac88bc236fafb26cf67f89276e6162f/Match_individual_AMZ.png)
+![Match individual de anuncios](//images.ctfassets.net/alneenqid6w5/11Kd50vfsJccpDoHH8pSQ9/eac88bc236fafb26cf67f89276e6162f/Match_individual_AMZ.png)
 
 4. Según la conclusión del análisis, haz clic en uno de los botones disponibles: `Publicar`, `Rechazar y pedir revisión` o `Rechazar`.
 
@@ -91,13 +91,13 @@ En la pestaña `Oportunidad`, todos los productos listados que presenten equival
 1. En la pestaña `Oportunidad`, marca la casilla situada junto al título de los anuncios con equivalencia SKU <> ASIN.  
 Al seleccionar los productos, aparecerá en la pantalla el siguiente pop up indicando cuántos productos se han seleccionado.  
 
-![popupES](https://images.ctfassets.net/alneenqid6w5/3MTOQgMftiT5rsbJgKVpAD/4b97de7bb44236561a9474189936cb4c/MATCHAMZ_ES.png)
+![popupES](//images.ctfassets.net/alneenqid6w5/3MTOQgMftiT5rsbJgKVpAD/4b97de7bb44236561a9474189936cb4c/MATCHAMZ_ES.png)
 
 2. Al finalizar la selección de productos, haz clic en `Publicar seleccionados`.  
 
 3. En el pop up de confirmación del matching, comprueba los anuncios elegidos y haz clic en `Publicar seleccionados`.  
 
-![Confirmacioin del matching](https://images.ctfassets.net/alneenqid6w5/7IWcW7ozGbMmZAH4Prec3M/5762aa090ef7e6e3137fd99e81cba8f5/CONFIRMACION_MATCH.png)
+![Confirmacioin del matching](//images.ctfassets.net/alneenqid6w5/7IWcW7ozGbMmZAH4Prec3M/5762aa090ef7e6e3137fd99e81cba8f5/CONFIRMACION_MATCH.png)
 
 Tras la confirmación, tus anuncios se enviarán y se pondrán en cola para su procesamiento. Una vez aprobado, el anuncio aparecerá en la pestaña __Anuncios__, donde podrás __"ver detalles" de tu anuncio__, __ver "anuncio sugerido" por Amazon__ y __buscar__ anuncios en la barra de búsqueda.  
 

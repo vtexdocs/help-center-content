@@ -53,7 +53,7 @@ Nesta seção, fornecemos informações detalhadas sobre os dados gerais desta p
 - **Informações adicionais (opcional):** permite incluir informações adicionais a promoção composto de um nome e valor.
 - **Destaque nos produtos:** insere uma tag com o nome da promoção. Utilizada na vitrine e na página do produto. Essa flag só será inserida caso use o controle correto de exibição de promoção no template. <vtex.cmc:discountHightLight>.
 
-![Dados gerais da promoção](https://images.ctfassets.net/alneenqid6w5/4s7Zxlvv0aIThx2WW2JMO3/131b38791a109e9629dcbfd9b203e80f/Dados_gerais_da_promo__o-PT.png)
+![Dados gerais da promoção](//images.ctfassets.net/alneenqid6w5/4s7Zxlvv0aIThx2WW2JMO3/131b38791a109e9629dcbfd9b203e80f/Dados_gerais_da_promo__o-PT.png)
 
 ## Restringir esta promoção a produtos dos sellers
 
@@ -66,7 +66,7 @@ Para que a promoção seja válida para todos os sellers, deixe a seleção vazi
 
 >⚠️ Não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.
 
-![Restringir esta promoção a produtos dos sellers](https://images.ctfassets.net/alneenqid6w5/3Up0CJMzHHY9rZO0LLRXuw/cf6fdde6e939077f04001cb3e76f02b5/Restringir_esta_promo__o_a_produtos_dos_sellers.png)
+![Restringir esta promoção a produtos dos sellers](//images.ctfassets.net/alneenqid6w5/3Up0CJMzHHY9rZO0LLRXuw/cf6fdde6e939077f04001cb3e76f02b5/Restringir_esta_promo__o_a_produtos_dos_sellers.png)
 
 ## Política comercial
 
@@ -79,7 +79,7 @@ Esta seção estabelece as políticas comerciais válidas para a promoção. Voc
 
 Para que a promoção seja válida para todas as políticas comerciais, deixe a seleção vazia.
 
-![Política comercial-PT](https://images.ctfassets.net/alneenqid6w5/1EUrXEMs0tyZ6J1ulXco9i/8810800a350cb0b9688d296e3f985fef/Politica_comerical-PT.png)
+![Política comercial-PT](//images.ctfassets.net/alneenqid6w5/1EUrXEMs0tyZ6J1ulXco9i/8810800a350cb0b9688d296e3f985fef/Politica_comerical-PT.png)
 
 # 2. Compre e Ganhe
 
@@ -93,7 +93,7 @@ Esta seção define as coleções, SKUs e quantidade mínima que devem ser preen
 
 >⚠️ Uma promoção Compre e Ganhe pode ser criada com o máximo de 100 SKUs diferentes ao mesmo tempo.
 
-![Compre e Ganhe](https://images.ctfassets.net/alneenqid6w5/27rGDqH0dMTcgA8m7cWs27/e818e8a1252f1b46032be2d043fa62cb/Compre_e_Ganhe.png)
+![Compre e Ganhe](//images.ctfassets.net/alneenqid6w5/27rGDqH0dMTcgA8m7cWs27/e818e8a1252f1b46032be2d043fa62cb/Compre_e_Ganhe.png)
 
 # 3. Quais condições para a promoção ser válida?
 
@@ -106,7 +106,7 @@ Nesta seção, detalharemos as condições em que você deve aplicar para que um
 - **Utm_source:** o desconto será concedido caso a navegação seja realizada com a utm_source com o valor cadastrado.
 - **Utm_campaign:** o desconto será concedido caso a navegação seja realizada com a utm_campaign com o valor cadastrado.
 
-![Quais as condições para a promoção ser válida?](https://images.ctfassets.net/alneenqid6w5/4zOT1bHe70Z1wbN2wQjCXD/dfad1e2b79fbcc2381cb4474d2674ad6/Quais_as_condi__es_para_a_promo__o_ser_v_lida.png)
+![Quais as condições para a promoção ser válida?](//images.ctfassets.net/alneenqid6w5/4zOT1bHe70Z1wbN2wQjCXD/dfad1e2b79fbcc2381cb4474d2674ad6/Quais_as_condi__es_para_a_promo__o_ser_v_lida.png)
 
 # 4. Restrições e Limitações de uso
 
@@ -117,4 +117,4 @@ Nesta seção você encontrará informações importantes sobre quais condiçõe
 - **Somente para itens iguais:** Se esta opção estiver habilitada, a promoção é aplicada somente se a quantidade mínima de itens (cadastrados anteriormente) for atingida utilizando o mesmo SKU no carrinho. Caso a opção esteja desabilitada, a promoção será aplicada mesmo quando a quantidade mínima de itens for adicionada no carrinho, independentemente dos SKUs serem diferentes ou iguais.
 - **Permitir acumular promoções:** permite que essa promoção possa ser aplicada no carrinho em conjunto com outras promoções que ofereçam o mesmo tipo de desconto.
 
-![Restrições e limitações de uso](https://images.ctfassets.net/alneenqid6w5/71kLc3PWSLecGA49Iytuyd/5d83ca212086a91d2f672e520e69e7e8/Restri__es_e_limita__es_de_uso.png)
+![Restrições e limitações de uso](//images.ctfassets.net/alneenqid6w5/71kLc3PWSLecGA49Iytuyd/5d83ca212086a91d2f672e520e69e7e8/Restri__es_e_limita__es_de_uso.png)

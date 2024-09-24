@@ -16,7 +16,7 @@ trackSlugES: instore-setup
 
 Si usted ha configurado su tienda utilizando el flujo de __Easy Setup__ ya se ha creado una tienda en el __Admin de tiendas__ dentro del VTable de VTEX (https://{{AccountName}}.myvtex.com/admin/vtable).
 
-![inStore aplicacoes vtable](https://images.ctfassets.net/alneenqid6w5/6BRkoPO2cMOQkYkuSOeCO6/641c901771af479df13a487c123aff23/inStore_aplicacoes_vtable.png)
+![inStore aplicacoes vtable](//images.ctfassets.net/alneenqid6w5/6BRkoPO2cMOQkYkuSOeCO6/641c901771af479df13a487c123aff23/inStore_aplicacoes_vtable.png)
 
 Haga clic en __Admin de tiendas__ para abrir la tabla donde usted verá las tiendas físicas.
 
@@ -24,7 +24,7 @@ Si no ha utilizado el __Easy Setup__ y así no ve ninguna tienda registrada, cre
 
 Si ya ha registrado una tienda a través de __Easy Setup__, verá el registro de esta tienda creada como en la siguiente imagen.
 
-![vtable-admin-das-lojas-2](https://images.ctfassets.net/alneenqid6w5/5cPD8WQ7aweMmwEoksiEC4/2380695922f3ca7f7288e921bf859a78/vtable-admin-das-lojas-2.png)
+![vtable-admin-das-lojas-2](//images.ctfassets.net/alneenqid6w5/5cPD8WQ7aweMmwEoksiEC4/2380695922f3ca7f7288e921bf859a78/vtable-admin-das-lojas-2.png)
 
 Para cambiar cualquier dato, incluso la política comercial de la tienda, basta con cambiar la celda relacionada y luego hacer clic en el botón __Guardar__.
 

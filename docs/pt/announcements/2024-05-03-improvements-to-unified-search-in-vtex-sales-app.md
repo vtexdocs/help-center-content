@@ -32,7 +32,7 @@ Com a nova melhoria, você encontrará mudanças que visam melhorar sua experiê
 
 - **Otimização para conexões lentas:** com o uso de caches do navegador, a busca retornará novas informações apenas quando necessário, garantindo uma resposta rápida mesmo em cenários de conexão lenta.
 
-![Mobile - PT](https://images.ctfassets.net/alneenqid6w5/2wdRQcrdDW1OKapj13T6Lq/9d6c3d38f68b7ddbca623b0cf4b2067a/mobile__1_.gif)
+![Mobile - PT](//images.ctfassets.net/alneenqid6w5/2wdRQcrdDW1OKapj13T6Lq/9d6c3d38f68b7ddbca623b0cf4b2067a/mobile__1_.gif)
 
 ## Por que fizemos essa mudança?
 

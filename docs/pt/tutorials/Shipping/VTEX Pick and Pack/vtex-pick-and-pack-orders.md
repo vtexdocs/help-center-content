@@ -26,7 +26,7 @@ Esta página permite que você realize as seguintes ações:
 * [Filtrar pedidos](#filtrar-pedido)
 * [Exportar pedidos](#exportar-pedidos)
 
-![pick-and-pack-pedidos-PT](https://images.ctfassets.net/alneenqid6w5/7oIngXdaDwQP0CQSHlQaPO/83a5b409f6cbeff9c7efbdfe55b22fbe/image.png)
+![pick-and-pack-pedidos-PT](//images.ctfassets.net/alneenqid6w5/7oIngXdaDwQP0CQSHlQaPO/83a5b409f6cbeff9c7efbdfe55b22fbe/image.png)
 
 A página apresenta as seguintes informações em uma tabela: 
 
@@ -54,7 +54,7 @@ Você pode otimizar a consulta de pedidos a partir das seguintes abas:
 
 Você também pode acessar informações mais detalhadas sobre cada pedido clicando no respectivo pedido na tabela.
 
-![pick-and-pack-pedidos-2-PT](https://images.ctfassets.net/alneenqid6w5/2X9tIEvxpMKtTTCMC7NF9N/20b4531d5c5f49f9f70ea4c839fcaacb/image.png)
+![pick-and-pack-pedidos-2-PT](//images.ctfassets.net/alneenqid6w5/2X9tIEvxpMKtTTCMC7NF9N/20b4531d5c5f49f9f70ea4c839fcaacb/image.png)
 
 Ao selecionar o pedido desejado, você terá acesso às seguintes informações:
 
@@ -89,5 +89,5 @@ Você pode exportar os pedidos seguindo os passos abaixo:
 1. Clique em `Exportar`.
 2. Selecione os dados que deseja exportar: `Relatório de pacotes` ou `Orders Reports`.
     * No caso de `Relatório de pacotes`, você deve selecionar o período que deseja exportar, o tipo e o método de envio.
-  ![pick-and-pack-pedidos-3-PT](https://images.ctfassets.net/alneenqid6w5/4e3Zjkh9zuwmcPNe0CKJQU/b0f36539e9039aa4e127fc49e47f8a6b/image.png)
+  ![pick-and-pack-pedidos-3-PT](//images.ctfassets.net/alneenqid6w5/4e3Zjkh9zuwmcPNe0CKJQU/b0f36539e9039aa4e127fc49e47f8a6b/image.png)
 3. Clique em `Exportar`.

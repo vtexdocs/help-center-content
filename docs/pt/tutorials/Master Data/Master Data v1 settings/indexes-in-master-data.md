@@ -55,11 +55,11 @@ Se houver somente um campo configurado como índice, a chave alternativa não va
 
 Por exemplo, a tabela **Cliente** possui duas colunas: **ID** e **Nome**. Para facilitar a busca, o campo **Nome** (`firstName`) pode ser configurado como índice e marcado como **Valores únicos**, conforme ilustrado a seguir:
 
-![indices-1-pt](https://images.ctfassets.net/alneenqid6w5/3OsXbib7NQTwtjSzBlvR0a/cde79764d3fe7472eca9db660139a068/indices-1-pt.png)
+![indices-1-pt](//images.ctfassets.net/alneenqid6w5/3OsXbib7NQTwtjSzBlvR0a/cde79764d3fe7472eca9db660139a068/indices-1-pt.png)
 
 Com isso, não será possível inserir um nome que já tenha sido cadastrado em __Cliente__:
 
-![indices-2-pt](https://images.ctfassets.net/alneenqid6w5/4hHQqk8reoDAAzuMiNBncY/c7e27a54409119fa21c5ff4a137c7879/indices-2-pt.png)
+![indices-2-pt](//images.ctfassets.net/alneenqid6w5/4hHQqk8reoDAAzuMiNBncY/c7e27a54409119fa21c5ff4a137c7879/indices-2-pt.png)
 
 No exemplo acima, como já existe um registro com o **Nome** igual a **Maria**, não é possível cadastrar outro com o mesmo valor.
 
@@ -71,11 +71,11 @@ Se houver mais de um campo no índice, a chave alternativa vai impedir que um co
 
 Por exemplo, imagine que a entidade **Cliente **possui três campos: **ID**, **Nome** e **Documento**. Na configuração do índice, em **Campos**, foram inseridos Nome (`firstName`) e Documento (`document`), conforme ilustrado abaixo:
 
-![indices-3-pt](https://images.ctfassets.net/alneenqid6w5/66m8jlFgaiE07dSpSFiWhg/b4a19b8d53d100227895aeda8951718f/indices-3-pt.png)
+![indices-3-pt](//images.ctfassets.net/alneenqid6w5/66m8jlFgaiE07dSpSFiWhg/b4a19b8d53d100227895aeda8951718f/indices-3-pt.png)
 
 Nesse caso, o valor do **Nome** pode se repetir ou o valor do **Documento** pode se repetir. Porém, a combinação dos dois valores não pode se repetir, ou seja, não pode existir nenhum registro que repita o mesmo par (**Nome** e **Documento **iguais).
 
-![indices-4-pt](https://images.ctfassets.net/alneenqid6w5/7sLqZNCOgjbF794zd6Jcz7/1d6132aa5f7eaadd2425530e5e536f9b/indices-4-pt.png)
+![indices-4-pt](//images.ctfassets.net/alneenqid6w5/7sLqZNCOgjbF794zd6Jcz7/1d6132aa5f7eaadd2425530e5e536f9b/indices-4-pt.png)
 
 No exemplo acima, já existe um registro com o **Nome** igual a **Maria**. É possível incluir outro registro com o mesmo **Nome**, desde que o valor do **Documento** seja diferente.
 

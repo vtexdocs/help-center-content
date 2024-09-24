@@ -3,8 +3,8 @@ title: 'Split de Pagamento'
 id: 6k5JidhYRUxileNolY2VLx
 status: PUBLISHED
 createdAt: 2021-04-06T20:03:53.443Z
-updatedAt: 2024-06-18T17:50:44.146Z
-publishedAt: 2024-06-18T17:50:44.146Z
+updatedAt: 2024-09-12T14:18:25.108Z
+publishedAt: 2024-09-12T14:18:25.108Z
 firstPublishedAt: 2021-04-07T18:57:19.713Z
 contentType: tutorial
 productTeam: Financial
@@ -53,11 +53,11 @@ Por exemplo, um cliente adiciona dois produtos ao mesmo carrinho de compras. Um 
 
 O pagamento é distribuído da seguinte forma:
 
-![Split de recebíveis](https://images.ctfassets.net/alneenqid6w5/4XGw7jeLfayteKzZ9eMaUU/60f806b9ee7dc128b7b6b55e8cc114c7/Split_de_receb__veis.png)
+![Split de recebíveis](//images.ctfassets.net/alneenqid6w5/4XGw7jeLfayteKzZ9eMaUU/60f806b9ee7dc128b7b6b55e8cc114c7/Split_de_receb__veis.png)
 
 Nosso gateway calcula e distribui os pagamentos para cada beneficiário quando o pedido é faturado e envia essas informações ao provedor de pagamento. A distribuição é feita considerando o valor destinado a cada parte envolvida no pedido e as comissões cobradas pelo marketplace.
 
-![Relatório de comissão](https://images.ctfassets.net/alneenqid6w5/2C8DFezzCKaSzgq2f77pxB/ca3cbcf0fa22a2bca6ab0d219b45e684/Split_de_receb__veis_2.png)
+![Relatório de comissão](//images.ctfassets.net/alneenqid6w5/2C8DFezzCKaSzgq2f77pxB/ca3cbcf0fa22a2bca6ab0d219b45e684/Split_de_receb__veis_2.png)
 
 É importante considerar que a nossa solução de split de recebíveis tem algumas limitações:
 
@@ -84,11 +84,11 @@ Isso significa que o marketplace tem menos controle sobre o fluxo de pagamento. 
 
 Por exemplo, um cliente adiciona dois produtos ao mesmo carrinho de compras. Um deles será entregue pelo próprio marketplace e o outro por um seller chamado Seller A.
 
-![Split de transação](https://images.ctfassets.net/alneenqid6w5/3ZOMQYkxlRzMgUMck9o7o8/d36e97acd5addabaee0d1ef6c21fd712/Split_de_transa____o.png)
+![Split de transação](//images.ctfassets.net/alneenqid6w5/3ZOMQYkxlRzMgUMck9o7o8/d36e97acd5addabaee0d1ef6c21fd712/Split_de_transa____o.png)
 
 No split de transação, o marketplace não precisa fazer nenhuma configuração. O seller é quem precisa configurar seu próprio meio de pagamento na afiliação com o marketplace em questão. Para mais detalhes, confira nossa documentação [Envie os meios de pagamento do seller white label ao marketplace.](https://help.vtex.com/pt/tutorial/enviar-os-meios-de-pagamento-do-seller-white-label-para-o-marketplace--bfvtPzZyikacSqgkgeGW)
 
-![Afiliação](https://images.ctfassets.net/alneenqid6w5/yX3yPgPbkjlDDoYYdsnYD/9b03a7e73c7747db5b6cf22518730c50/Afiliados.png)
+![Afiliação](//images.ctfassets.net/alneenqid6w5/yX3yPgPbkjlDDoYYdsnYD/9b03a7e73c7747db5b6cf22518730c50/Afiliados.png)
 
 O split de transação tem algumas limitações que devem ser levadas em consideração.
 
@@ -99,7 +99,6 @@ O split de transação tem algumas limitações que devem ser levadas em conside
 - __Para sellers que não são VTEX:__ se o seller não for da VTEX, é necessário que utilize uma conta de gateway — um tipo de conta que permite ao seller configurar meios de pagamento.
 - __Assinaturas VTEX:__ não é compatível com pedidos de marketplace.
 - __Partes envolvidas:__ não é possível dividir o pagamento com beneficiários que não estejam vendendo produtos no carrinho. Por exemplo: pagar o frete diretamente para a transportadora.
-- __Combinando modelos de divisão:__ quando combinado com o outro modelo de split (split de recebíveis), o split de transação prevalecerá. Ou seja, para os sellers que optam por utilizar seu próprio meio de pagamento, sua parte da transação será processada em seu próprio gateway, e os valores dos outros participantes da venda serão processados pelo marketplace.
 
 ## Combinação de modelos de split
 

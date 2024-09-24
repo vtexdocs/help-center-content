@@ -29,7 +29,7 @@ A mensagem de autorização de erro pode mudar de `node` para `react` de acordo 
 1. Instalar o VTEX CLI (ToolBelt)
 2. Navegar até o diretorio da app
 3. Executar o comando "vtex-link" no terminal
-4. ![image (8)](https://images.ctfassets.net/alneenqid6w5/3NTzMXCKgM8GA6Y6eEKAA2/7d11d9a4e05ef1274beebe494bd8baf9/image__8_.png)
+4. ![image (8)](//images.ctfassets.net/alneenqid6w5/3NTzMXCKgM8GA6Y6eEKAA2/7d11d9a4e05ef1274beebe494bd8baf9/image__8_.png)
 
 ## Workaround
 

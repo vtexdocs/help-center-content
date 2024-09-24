@@ -54,7 +54,7 @@ Uma vez concluído o registro junto à Apple, você precisa habilitar na sua loj
 
     Para entender como obter essas credenciais, confira o guia para desenvolvedores [Registering credentials to set up Apple ID login](https://developers.vtex.com/docs/guides/registering-credentials-to-set-up-apple-id-login).
 
-    ![apple-id-setup-pt](https://images.ctfassets.net/alneenqid6w5/3llgZRzP1yyUiqgZjagXyT/35e10840c391c7f5abfde67cbc7acfa3/apple-id-setup-es.png)
+    ![apple-id-setup-pt](//images.ctfassets.net/alneenqid6w5/3llgZRzP1yyUiqgZjagXyT/35e10840c391c7f5abfde67cbc7acfa3/apple-id-setup-es.png)
 
 5. Clique em `Salvar`.
 6. Clique em `Provedores da loja virtual` para retornar para a página anterior.
