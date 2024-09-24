@@ -352,8 +352,11 @@ function createMarkdownFile(entry,categories,subcategories) {
   let legacySlugES = fields.legacySlug?.es || "";
   let legacySlugPT = fields.legacySlug?.pt || "";
   let textEN = fields.text?.en || "";
+  textEN = textEN.replace('(//', '(https://').replace('[//', '[https://')
   let textES = fields.text?.es || "";
+  textES = textES.replace('(//', '(https://').replace('[//', '[https://')
   let textPT = fields.text?.pt || "";
+  textPT = textPT.replace('(//', '(https://').replace('[//', '[https://')
   let subcategoryId = fields.subcategory?.pt.sys.id || "unknown-subcategory";
 
   // Initialize category and subcategory variables
@@ -397,11 +400,11 @@ function createMarkdownFile(entry,categories,subcategories) {
 
   // create .md files in locale folders for each item
 
-  let fileNameEN = slugEN.substring(0, 149).replace(/-$/, "") + ".md";
+  let fileNameEN = slugEN.substring(0, 147).replace(/-$/, "") + ".md";
   fileNameEN = fileNameEN.replace(/\?/g, ""); // remove all "?" characters and trim if necessary to avoid "filename too long" git error
-  let fileNameES = slugES.substring(0, 149).replace(/-$/, "") + ".md";
+  let fileNameES = slugES.substring(0, 147).replace(/-$/, "") + ".md";
   fileNameES = fileNameES.replace(/\?/g, "");
-  let fileNamePT = slugPT.substring(0, 149).replace(/-$/, "") + ".md";
+  let fileNamePT = slugPT.substring(0, 147).replace(/-$/, "") + ".md";
   fileNamePT = fileNamePT.replace(/\?/g, "");
 
   let fileContentEN = "";
