@@ -32,4 +32,4 @@ Com o estoque já cadastrado, siga os passos a seguir:
 7. Insira o ID do estoque selecionado no campo **Armazém Mercado Full**.
 8. Clique em **Salvar Configuração**.
 
-![Início (3)](https://images.ctfassets.net/alneenqid6w5/4iKrvuMuXZBzVzrZU7hWev/3f1bcba69b69cce6b56ff2afac670c6d/In__cio__3_.gif)
+![Início (3)](//images.ctfassets.net/alneenqid6w5/4iKrvuMuXZBzVzrZU7hWev/3f1bcba69b69cce6b56ff2afac670c6d/In__cio__3_.gif)

@@ -44,11 +44,11 @@ Sigue los pasos a continuación para filtrar los registros de un formulario y gu
 
 Tras seguir las instrucciones anteriores, la consulta aparecerá como una opción de vista en la lista del formulario.
 
-![consultas-2-es](https://images.ctfassets.net/alneenqid6w5/4x2QAjHSxEZT0RyIUqv5kg/5e6ce3c1f84ca1d99e8c2761a66c6954/consultas-2-es.png)
+![consultas-2-es](//images.ctfassets.net/alneenqid6w5/4x2QAjHSxEZT0RyIUqv5kg/5e6ce3c1f84ca1d99e8c2761a66c6954/consultas-2-es.png)
 
 También puedes acceder a las consultas guardadas haciendo clic en el botón **Consultas**, en la lista del formulario:
 
-![consultas-es](https://images.ctfassets.net/alneenqid6w5/Cj2YVA2pZ64Sscy0O2MA0/22fd8166b6442947fd09734856ac675a/consultas-es__1_.png)
+![consultas-es](//images.ctfassets.net/alneenqid6w5/Cj2YVA2pZ64Sscy0O2MA0/22fd8166b6442947fd09734856ac675a/consultas-es__1_.png)
 
 ## Configuración de consulta predeterminada
 

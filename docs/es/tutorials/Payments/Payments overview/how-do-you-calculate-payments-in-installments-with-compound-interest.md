@@ -26,7 +26,7 @@ La cobranza al inicio del periodo se calcula como sigue:
 1. i = Tasa de Intereses
 2. n = Número de Cuotas
 3. PV = Valor Presente (valor total de la compra sin intereses)
-4. Cuota = ![juros-inicio-periodo](https://images.contentful.com/alneenqid6w5/3JkoK4GMLYAWIwUcAC8W2G/59d18849c4ee9e59ff37cb09ac661c89/juros-inicio-periodo.png)
+4. Cuota = ![juros-inicio-periodo](//images.contentful.com/alneenqid6w5/3JkoK4GMLYAWIwUcAC8W2G/59d18849c4ee9e59ff37cb09ac661c89/juros-inicio-periodo.png)
 
 ## Fin del periodo
 
@@ -35,7 +35,7 @@ La cobranza al fin del periodo se calcula como sigue:
 1. i = Tasa de Intereses
 2. n = Número de Cuotas
 3. PV = Valor Presente (valor total da compra sin intereses)
-4. Multiplicador Cash Flow =![cash-flow](https://images.contentful.com/alneenqid6w5/2xvT7uQ8ccGoCUw8ouOEoK/936546d7e46be7b9ce984c531daf5e8b/cash-flow.png)
+4. Multiplicador Cash Flow =![cash-flow](//images.contentful.com/alneenqid6w5/2xvT7uQ8ccGoCUw8ouOEoK/936546d7e46be7b9ce984c531daf5e8b/cash-flow.png)
 5. Cuota = `PV x Multiplicador Cash Flow`
 
 ## Ejemplos
@@ -45,7 +45,7 @@ La cobranza al fin del periodo se calcula como sigue:
 1. i = 1%
 2. n = 12
 3. PV = 1000
-![conta0](https://images.contentful.com/alneenqid6w5/3AhidhqtTaCqiuGMKK2c64/8c5e8f0067ad5ec80685bdcca8d79c95/conta0.png)
+![conta0](//images.contentful.com/alneenqid6w5/3AhidhqtTaCqiuGMKK2c64/8c5e8f0067ad5ec80685bdcca8d79c95/conta0.png)
 
 ---
 
@@ -54,4 +54,4 @@ La cobranza al fin del periodo se calcula como sigue:
 1. i = 1%
 2. n = 12
 3. PV = 1000
-4. ![conta1](https://images.contentful.com/alneenqid6w5/4CaAz5DKdaUSY0OwaGEsUu/4afb38b8c7a78977d011f2d6333800d6/conta1.png)![conta2](https://images.contentful.com/alneenqid6w5/3hQTOBVJqgMAyMWWia0aAY/5f7fbb82ebeb8b5e912baca35ea39b9b/conta2.png)
+4. ![conta1](//images.contentful.com/alneenqid6w5/4CaAz5DKdaUSY0OwaGEsUu/4afb38b8c7a78977d011f2d6333800d6/conta1.png)![conta2](//images.contentful.com/alneenqid6w5/3hQTOBVJqgMAyMWWia0aAY/5f7fbb82ebeb8b5e912baca35ea39b9b/conta2.png)

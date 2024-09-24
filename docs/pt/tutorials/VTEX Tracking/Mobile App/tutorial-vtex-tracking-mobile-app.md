@@ -67,7 +67,7 @@ Abra o aplicativo.
 >⚠️ Utilize como email de recuperação o mesmo email que foi cadastrado na plataforma web (veja Como acessar). Caso você não tenha a informação sobre um email cadastrado, entre em contato com a empresa de serviço de entrega.
 
 <p align="center">
-  <img src="https://images.ctfassets.net/alneenqid6w5/1CSmj8fe1tImUFUT6URnUc/42133d558ae524c9559cac2a13d2a5a8/tela2seriousblack.png" width="250" height="450">
+  <img src="//images.ctfassets.net/alneenqid6w5/1CSmj8fe1tImUFUT6URnUc/42133d558ae524c9559cac2a13d2a5a8/tela2seriousblack.png" width="250" height="450">
 </p>
 
  ## Como fazer uma entrega 
@@ -76,7 +76,7 @@ O aplicativo apresenta na tela inicial, uma lista com as as entregas do dia a se
 >ℹ️ Para que as rotas estejam disponíveis no aplicativo é necessário que elas sejam previamente planejadas na plataforma web pela empresa de serviço de entregas. Entre em contato com a empresa, caso não tenha rotas disponíveis para você.
 
 <p align="center">
-  <img src="https://images.ctfassets.net/alneenqid6w5/5qjV5bJ7TIcbw1gNMZ41sB/ebd8ec4093e7e46852e0f297d705cac6/tela3seriousblack.png" width="230" height="450">
+  <img src="//images.ctfassets.net/alneenqid6w5/5qjV5bJ7TIcbw1gNMZ41sB/ebd8ec4093e7e46852e0f297d705cac6/tela3seriousblack.png" width="230" height="450">
 </p>
 >❗ Use a opção **PAUSAR** com cautela pois ao iniciar novamente a rota, os destinatários receberão notificações do novo início da entrega.
 
@@ -99,7 +99,7 @@ Após a inicialização da entrega, o destinatário passa a receber notificaçõ
 3. Clique em __OK__.
 
 <p align="center">
-  <img src="https://images.ctfassets.net/alneenqid6w5/5t3tVl6Y5y2okAuB50jDkH/b73c7ae1b8a208c22396855e5216c4c8/tela4seriousblack.png" width="230" height="450">
+  <img src="//images.ctfassets.net/alneenqid6w5/5t3tVl6Y5y2okAuB50jDkH/b73c7ae1b8a208c22396855e5216c4c8/tela4seriousblack.png" width="230" height="450">
 </p>
 
 >ℹ️ Essa opção pode também estar disponível antes do início da rota mediante a configuração  pela empresa de serviço de entrega. Assim, ao invés de FOTOS estar disponível durante a entrega, ela aparecerá antes mesmo do início da rota. Se este for o caso, é preciso fotografar antes de realizar o início da rota. Então:
@@ -114,10 +114,10 @@ Após a inicialização da entrega, o destinatário passa a receber notificaçõ
 >   <table class="center">
 >     <tr>
 >       <td>
->         <img src="https://images.ctfassets.net/alneenqid6w5/7ISKJH3ZW7nEQZkR95hKjk/f51efbf5bcdfe29e73c96728baad3519/tela5seriousblack.png" width="250" height="450">
+>         <img src="//images.ctfassets.net/alneenqid6w5/7ISKJH3ZW7nEQZkR95hKjk/f51efbf5bcdfe29e73c96728baad3519/tela5seriousblack.png" width="250" height="450">
 >       </td>
 >       <td>
->         <img src="https://images.ctfassets.net/alneenqid6w5/6buR2z5OvycFvz340pLxsI/52aed865af8c9b7d557c99dfda43896d/tela6seriousblack.png" width="250" height="450">
+>         <img src="//images.ctfassets.net/alneenqid6w5/6buR2z5OvycFvz340pLxsI/52aed865af8c9b7d557c99dfda43896d/tela6seriousblack.png" width="250" height="450">
 >       </td>
 >     </tr>
 >   </table>
@@ -129,7 +129,7 @@ Após a inicialização da entrega, o destinatário passa a receber notificaçõ
 A forma de reporte da ocorrência está condicionada ao tipo de ocorrência e às configurações realizadas pela empresa de serviço de entrega. Para cada tipo de ocorrência é possível escrever uma descrição do acontecido ou conversar com um atendente da central através do chat. 
 
 <p align="center">
-  <img src="https://images.ctfassets.net/alneenqid6w5/2WTJMk7dNvdUByoLylUO97/c4cbc37059f858b27d8028053e2fc906/tela7seriousblack.png" width="230" height="450">
+  <img src="//images.ctfassets.net/alneenqid6w5/2WTJMk7dNvdUByoLylUO97/c4cbc37059f858b27d8028053e2fc906/tela7seriousblack.png" width="230" height="450">
 </p>
 
 #### Para descrever uma ocorrência  na tela de dados da entrega: 
@@ -152,10 +152,10 @@ Ao escolher uma ocorrência que tenha possibilidade de abertura de chat, uma men
   <table class="center">
     <tr>
       <td>
-        <img src="https://images.ctfassets.net/alneenqid6w5/3ZQ2RVGVA6MbvShNqsp17J/1c951eeb52df1be5a448196243efe277/tela15seriousblack.jpg" width="230" height="450">
+        <img src="//images.ctfassets.net/alneenqid6w5/3ZQ2RVGVA6MbvShNqsp17J/1c951eeb52df1be5a448196243efe277/tela15seriousblack.jpg" width="230" height="450">
       </td>
       <td>
-        <img src="https://images.ctfassets.net/alneenqid6w5/WEC77nf23enBRAKPsciv7/fe4ec937cbd940d67687972842284220/tela13seriousblack.jpg" width="230" height="450">
+        <img src="//images.ctfassets.net/alneenqid6w5/WEC77nf23enBRAKPsciv7/fe4ec937cbd940d67687972842284220/tela13seriousblack.jpg" width="230" height="450">
       </td>
     </tr>
   </table>
@@ -165,7 +165,7 @@ Ao escolher uma ocorrência que tenha possibilidade de abertura de chat, uma men
 <a id="Pausar_entrega"> Se durante a entrega</a> ocorrerem situações que impossibilitem a entrega e que  não foram resolvidos pelo chat, é possível que o entregador pause o serviço. Com a entrega iniciada basta  clicar no botão __PAUSAR__, a entrega será pausada e você será redirecionado para a tela com a lista de entregas.
 
 <p align="center">
-  <img src="https://images.ctfassets.net/alneenqid6w5/5KMsyiWbF99kWOHlLR4cLO/78f5f101f39f66d04bcdeea3e80c7645/tela8seriousblack.jpg" width="230" height="450">
+  <img src="//images.ctfassets.net/alneenqid6w5/5KMsyiWbF99kWOHlLR4cLO/78f5f101f39f66d04bcdeea3e80c7645/tela8seriousblack.jpg" width="230" height="450">
 </p>
 
 >❗ Use a opção **PAUSAR** com cautela pois ao iniciar novamente a rota, os destinatários receberão notificações do novo início da entrega.
@@ -185,17 +185,17 @@ Ao escolher uma ocorrência que tenha possibilidade de abertura de chat, uma men
   <table class="center">
     <tr>
       <td>
-        <img src="https://images.ctfassets.net/alneenqid6w5/2DUhdRA98j5Yu624T7ijbL/c43f0721edadb9b5ed6e1e2c162bb70f/tela9seriousblack.jpg" width="230" height="450">
+        <img src="//images.ctfassets.net/alneenqid6w5/2DUhdRA98j5Yu624T7ijbL/c43f0721edadb9b5ed6e1e2c162bb70f/tela9seriousblack.jpg" width="230" height="450">
       </td>
       <td>
-        <img src="https://images.ctfassets.net/alneenqid6w5/1cHo4w1rgx3KoBCxqakhUQ/d17ffbe8675dae79f251cf55dfaa3bee/tela16seriousblack.jpg1.jpg" width="230" height="450">
+        <img src="//images.ctfassets.net/alneenqid6w5/1cHo4w1rgx3KoBCxqakhUQ/d17ffbe8675dae79f251cf55dfaa3bee/tela16seriousblack.jpg1.jpg" width="230" height="450">
       </td>
     </tr>
   </table>
 </figure>
 
 <p align="center">
-  <img src="https://images.ctfassets.net/alneenqid6w5/2TyOpvC1TJpo6NWvfXyM0i/79b9e43980bd3b87ab6c577447ecf9e0/tela11seriousblack.jpg" width="450" height="230">
+  <img src="//images.ctfassets.net/alneenqid6w5/2TyOpvC1TJpo6NWvfXyM0i/79b9e43980bd3b87ab6c577447ecf9e0/tela11seriousblack.jpg" width="450" height="230">
 </p>
 
 Ao voltar para a página de finalização, será preciso escrever um comentário sobre a entrega. 
@@ -205,7 +205,7 @@ Ao voltar para a página de finalização, será preciso escrever um comentário
 3. Clique em __OK__.
 
 <p align="center">
-  <img src="https://images.ctfassets.net/alneenqid6w5/36HjG927orqVTwrFHt2KEx/18e923175d20cc82abf005444e3c62cb/tela17seriousblack.jpg" width="230" height="450">
+  <img src="//images.ctfassets.net/alneenqid6w5/36HjG927orqVTwrFHt2KEx/18e923175d20cc82abf005444e3c62cb/tela17seriousblack.jpg" width="230" height="450">
 </p>
 
 Após esses passos, a entrega é finalizada e o  aplicativo  abre uma caixa de diálogo perguntando se você deseja iniciar a próxima entrega da lista. Caso deseje, clique em __SIM__. 
@@ -216,10 +216,10 @@ Após esses passos, a entrega é finalizada e o  aplicativo  abre uma caixa de d
   <table class="center">
     <tr>
       <td>
-        <img src="https://images.ctfassets.net/alneenqid6w5/7FjkM96pbKxqO0Rh82LhvE/9f732c45f20e4b6394f4db2ff02fceb1/tela18.png" width="230" height="450">
+        <img src="//images.ctfassets.net/alneenqid6w5/7FjkM96pbKxqO0Rh82LhvE/9f732c45f20e4b6394f4db2ff02fceb1/tela18.png" width="230" height="450">
       </td>
       <td>
-        <img src="https://images.ctfassets.net/alneenqid6w5/3U0mEzOmXvI7jKIiibjx9p/c984d37fe5b513a955e984d0b4117aa5/tela19.png" width="230" height="450">
+        <img src="//images.ctfassets.net/alneenqid6w5/3U0mEzOmXvI7jKIiibjx9p/c984d37fe5b513a955e984d0b4117aa5/tela19.png" width="230" height="450">
       </td>
     </tr>
   </table>

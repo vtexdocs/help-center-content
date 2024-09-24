@@ -44,8 +44,8 @@ To better understand the meaning of each category registration field, see the fu
 - __Score (used for search ordering):__ value used to set the priority on the search result page. To understand more about Score, access our article: [How does the score field work?](https://help.vtex.com/en/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcae).
 - __Product display mode:__ defines how SKUs will be displayed on the product page. See below the options for this field:
   - __List of SKUs:__ All SKUs in the department or category in question will be displayed in list format. Each one with its Buy button on the side.
-  ![1Lista.en](https://images.ctfassets.net/alneenqid6w5/52RUiCTYT5JeL6Huo53nSh/1b3c9713709f10be3e88ae5925128de5/Lista.en.png)
+  ![1Lista.en](//images.ctfassets.net/alneenqid6w5/52RUiCTYT5JeL6Huo53nSh/1b3c9713709f10be3e88ae5925128de5/Lista.en.png)
   - __Icons with radio selection (radio box)__ All SKUs in this department/category will need to be selected through radio selection.
-  ![RadioBox.en](https://images.ctfassets.net/alneenqid6w5/bbx5D8m5cXuac0w1LZGc2/9c91af75ed6af97eebf70207880e7708/RadioBox.en.png)
+  ![RadioBox.en](//images.ctfassets.net/alneenqid6w5/bbx5D8m5cXuac0w1LZGc2/9c91af75ed6af97eebf70207880e7708/RadioBox.en.png)
   - __Following definition of the SKU specification:__ all SKUs in this department/category will be selected according to the specification tab on the SKU registration form. The preconfigured options are Combo or Radio.
-  ![Campos.en](https://images.ctfassets.net/alneenqid6w5/4opYmeQPk3r8uux4ldosbh/d14bec6c5bdb9d6b0e6b4ab87bd20ef6/Campos.en.png)
+  ![Campos.en](//images.ctfassets.net/alneenqid6w5/4opYmeQPk3r8uux4ldosbh/d14bec6c5bdb9d6b0e6b4ab87bd20ef6/Campos.en.png)

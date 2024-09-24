@@ -3,8 +3,8 @@ title: 'Pagamentos Data Pipeline '
 id: 7LWkFaA1jPabzc5JAt1rGs
 status: PUBLISHED
 createdAt: 2024-02-02T17:53:35.949Z
-updatedAt: 2024-09-02T19:28:13.182Z
-publishedAt: 2024-09-02T19:28:13.182Z
+updatedAt: 2024-09-13T17:31:09.050Z
+publishedAt: 2024-09-13T17:31:09.050Z
 firstPublishedAt: 2024-05-27T19:26:59.478Z
 contentType: tutorial
 productTeam: Others
@@ -71,7 +71,7 @@ A tabela `transaction_transitions` armazena as transações, que estão vinculad
 | to_transition | character varying(64) | Novo estado da transação a partir da data e hora do evento. |
 | transaction_id | character varying(36) | Identificador único da transação. |
 
-## Análise com dados de Pagamentos  
+## Análise com dados de Pagamentos 
 
 As análises com o conjunto de dados de Pagamentos são as seguintes:  
 
@@ -94,4 +94,5 @@ Nos dados de pagamentos da plataforma VTEX, notam-se correlações com outros co
 - [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
 - [Preços](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
 - [Promoção](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
-
+- [Vale-presente](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Logs do Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

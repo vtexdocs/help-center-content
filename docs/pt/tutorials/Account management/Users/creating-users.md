@@ -20,5 +20,5 @@ Após a criação do ambiente, apenas o usuário que assinou o contrato tem aces
 Para isso, [é preciso acessar seu License Manager e associar usuários](/tutorial/gerenciando-usuarios/ "é preciso acessar seu License Manager e associar usuários").
 
 O vídeo abaixo ilustra todo o caminho para esta configuração.
-<video class="wp-video-shortcode" id="video-2548-13" width="840" height="473" preload="metadata" controls="controls"><source type="video/mp4" src="https://assets.contentful.com/alneenqid6w5/2WUdIzl9y8q6y8uaOSgOKA/cc3541d7834f8b2b8f8eaf09672361bf/2b-CriandoUsuario.mp4" />
+<video class="wp-video-shortcode" id="video-2548-13" width="840" height="473" preload="metadata" controls="controls"><source type="video/mp4" src="//assets.contentful.com/alneenqid6w5/2WUdIzl9y8q6y8uaOSgOKA/cc3541d7834f8b2b8f8eaf09672361bf/2b-CriandoUsuario.mp4" />
 

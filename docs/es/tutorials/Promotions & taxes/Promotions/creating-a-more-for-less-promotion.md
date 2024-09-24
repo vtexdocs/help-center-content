@@ -51,7 +51,7 @@ En esta sección se proporciona información detallada sobre los datos generales
 - **Información adicional (opcional):** permite incluir en la promoción información adicional compuesta por un nombre y un valor.
 - **Promoción resaltada:** inserta una tag con el nombre de la promoción utilizada en la vitrina y en la página del producto. La tag solo se inserta si se utiliza el control de visualización de promociones correcto en la plantilla: `<vtex.cmc:discountHightLight/>`. Campo obligatorio.
 
-![Dados gerais 1 - ES](https://images.ctfassets.net/alneenqid6w5/4Ara5CRqjivFlYltPnMGpN/9a0848ea2c4741f7fbba52db0138e7fb/Dados_gerais_1_-_ES.png)
+![Dados gerais 1 - ES](//images.ctfassets.net/alneenqid6w5/4Ara5CRqjivFlYltPnMGpN/9a0848ea2c4741f7fbba52db0138e7fb/Dados_gerais_1_-_ES.png)
 
 ### Restringir esta promoción a los productos de los sellers
 
@@ -64,7 +64,7 @@ Para que la promoción sea válida para todos los sellers, deja la selección si
 
 >⚠️ No es posible seleccionar directamente un <i>seller white label</i>. Hay dos opciones para incluir un <i>seller white label</i> en la promoción:1. Restringir los <i>sellers</i> a la tienda principal. Esta restricción agrega todos los <i>sellers white label</i> de tu tienda a la promoción.2. Dejar la selección sin marcar para incluir todos los <i>sellers</i>. En este caso, todos los tipos de <i>sellers, white label</i> y otros, se agregan a la promoción.
 
-![Restringir - ES](https://images.ctfassets.net/alneenqid6w5/7KJhtOylpPsj0g5Q1lF2T0/709b4d87b04c6bcdb845f948e27f46ed/Restringir_-_ES.png)
+![Restringir - ES](//images.ctfassets.net/alneenqid6w5/7KJhtOylpPsj0g5Q1lF2T0/709b4d87b04c6bcdb845f948e27f46ed/Restringir_-_ES.png)
 
 ### Política comercial
 
@@ -77,7 +77,7 @@ Esta sección establece las políticas comerciales válidas para la promoción. 
 
 Para que la promoción sea válida en todas las políticas comerciales, deja la selección sin marcar.
 
-![Politica - ES](https://images.ctfassets.net/alneenqid6w5/5fuMmvGh34BpTbj3t3AgdR/df186b6fa5750448e15cf7cae1e5c2bf/Politica_-_ES.png)
+![Politica - ES](//images.ctfassets.net/alneenqid6w5/5fuMmvGh34BpTbj3t3AgdR/df186b6fa5750448e15cf7cae1e5c2bf/Politica_-_ES.png)
 
 ## 2. Más por Menos
 
@@ -93,7 +93,7 @@ En esta sección se definen los productos, la cantidad y el descuento que serán
     - **Con un descuento de:**  el cliente se llevará la cantidad seleccionada de productos con un descuento porcentual definido en el campo.
     - **Con un precio máximo por ítem de:**  el cliente se llevará la cantidad seleccionada de productos con un precio máximo por ítem definido en el campo.
 
-![Leve Mais -ES](https://images.ctfassets.net/alneenqid6w5/65GpdBT4FEpUQSNtZ7NXEH/c765ca884eede6552e6f29c55e25aa8c/Leva_Mais_-_ES.png)
+![Leve Mais -ES](//images.ctfassets.net/alneenqid6w5/65GpdBT4FEpUQSNtZ7NXEH/c765ca884eede6552e6f29c55e25aa8c/Leva_Mais_-_ES.png)
 
 ### Configuración avanzada
 En esta sección puede especificar la aplicación del descuento.
@@ -106,7 +106,7 @@ Se debe aplicar el descuento:
         - **Los productos más baratos:** el descuento se aplicará a los ítems más baratos de la promoción.
         - **Los productos más caros:** el descuento se aplicará a los ítems más caros de la promoción.
 
-![Leve Mais por menos - ES](https://images.ctfassets.net/alneenqid6w5/7lIEbcThX12WgUZvtCgx6E/676669ab0baa7690e4097ad39325bb66/Leve_Mais_por_menos_-_ES.png)
+![Leve Mais por menos - ES](//images.ctfassets.net/alneenqid6w5/7lIEbcThX12WgUZvtCgx6E/676669ab0baa7690e4097ad39325bb66/Leve_Mais_por_menos_-_ES.png)
 
 #### ¿Cómo debe distribuirse el descuento?
 
@@ -128,7 +128,7 @@ En esta sección se proporciona información detallada sobre las condiciones que
 
  >ℹ️ El máximo predeterminado de medios de pago registrados por promoción es 20, aunque es posible crear una personalización para incluir hasta 100 medios de pago. Si necesitas utilizar más de 20, ponte en contacto con [nuestro equipo de soporte](https://support.vtex.com/hc/es-419/requests).
 
- ![Condições de promoção - ES](https://images.ctfassets.net/alneenqid6w5/1mPsbqBbsHGXaSKeoFL1vY/13714c02ac6369e9274f4045af6b208b/Condi__es_de_promo__o_-_ES.png)
+ ![Condições de promoção - ES](//images.ctfassets.net/alneenqid6w5/1mPsbqBbsHGXaSKeoFL1vY/13714c02ac6369e9274f4045af6b208b/Condi__es_de_promo__o_-_ES.png)
 
  ## 4. Restricciones y limitaciones de uso
 
@@ -140,5 +140,5 @@ En esta sección se proporciona información detallada sobre las condiciones que
 - **Aplicar con otras promociones:** permite que se conceda más de una promoción al mismo tiempo sin importar el tipo de descuento. Aprende más sobre cómo [funciona la competencia de promociones](https://help.vtex.com/es/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270#).
 - **Aplicar con precios manuales:** permite aplicar la promoción a productos cuyos precios hayan sido ingresados manualmente por el agente de televentas. Para activar la funcionalidad de precios manuales, utiliza el endpoint [Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm).
 
-![Restrições e limitações - ES](https://images.ctfassets.net/alneenqid6w5/5jrjtfnEkqiA9ipZEi1jjk/4c29419ba1d3639afcf175d3639b5ee2/Restri__es_e_limita__es_-_ES.png)
+![Restrições e limitações - ES](//images.ctfassets.net/alneenqid6w5/5jrjtfnEkqiA9ipZEi1jjk/4c29419ba1d3639afcf175d3639b5ee2/Restri__es_e_limita__es_-_ES.png)
 

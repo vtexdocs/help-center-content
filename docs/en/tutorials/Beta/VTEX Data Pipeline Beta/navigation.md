@@ -3,8 +3,8 @@ title: 'Navigation Data Pipeline '
 id: 4X4hK0zdIHN0Xn5x2MLYYd
 status: PUBLISHED
 createdAt: 2024-02-02T17:48:16.639Z
-updatedAt: 2024-09-02T19:28:13.230Z
-publishedAt: 2024-09-02T19:28:13.230Z
+updatedAt: 2024-09-13T17:51:19.060Z
+publishedAt: 2024-09-13T17:51:19.060Z
 firstPublishedAt: 2024-05-27T19:26:59.542Z
 contentType: tutorial
 productTeam: Others
@@ -40,7 +40,7 @@ This section includes the following information:
 >⚠️ Data Pipeline only provides data from sessions originating from VTEX storefront solutions: Legacy CMS, Store Framework, and FastStore. VTEX does not have access to sessions originating from third-party marketplaces or proprietary storefronts. Furthermore, storefront customizations   may interfere with or even disable the script, resulting in some sessions not being recorded, or in discrepancies in the conversion rate observed in the dashboard.
 > To minimize the impact on store performance, the script is configured to be the last element to load on the page. This means that very brief sessions may not be captured.
 
-## Table: sessions
+## Table: `sessions`
 
 This table only contains closed sessions, whether due to inactivity or because a purchase was completed. It's sorted by `session_id`, `session_end_time`, and `store_name`. Avoid filtering large data ranges by columns that are not part of this sorting strategy. The table fields are described below:
 
@@ -94,7 +94,7 @@ This table only contains closed sessions, whether due to inactivity or because a
 | **exit_page_type** | character varying(16383) | Page type of the last view in this session. |
 | **exit_page_checkout_step** | character varying(16383) | Checkout stage of the last page view in this session.  |
 
-## Table: pageviews
+## Table: `pageviews`
 
 Each item in this table corresponds to a page viewed by the buyer, such as homepage, product page, and checkout stage.  
 A page view is counted after the buyer's browser loads the page. Each page has specific attributes, however, because this table brings everything together in a single schema, many null values will appear. For example, product page attributes are expected to be null when the page view corresponds to a shopping cart stage. The table fields are described below:  
@@ -202,3 +202,5 @@ VTEX navigation data has significant interactions with other datasets that enric
 - [Orders](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
 - [Prices](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
 - [Promotions](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Gift cards](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Bridge logs](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

@@ -1,10 +1,10 @@
 ---
 title: 'Analytics'
 id: 3JcuptYAkwr1GLZEM3IQ2m
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-04-14T14:19:37.349Z
-updatedAt: 2023-03-31T11:48:02.004Z
-publishedAt: 2023-03-31T11:48:02.004Z
+updatedAt: 2024-09-06T20:10:25.799Z
+publishedAt: 
 firstPublishedAt: 2020-04-15T00:39:35.727Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -73,8 +73,8 @@ Para exportar un informe en formato CSV, debe seguir los pasos que se indican a 
 
 El informe CSV descargado tiene dos tablas. La primera tabla, que se muestra a continuación, contiene información sobre los términos de búsqueda y las métricas de embudo (desde la columna **ProductsClick** hasta la columna **ProductsSold**), si se ha seleccionado esa opción.
 
-![search-report-term](https://images.ctfassets.net/alneenqid6w5/5b8DWfBkXE9hZzugQ2LoaP/5910a3f67d31b5270841e5d4ef2f31bd/search-report-term.png)
+![search-report-term](//images.ctfassets.net/alneenqid6w5/5b8DWfBkXE9hZzugQ2LoaP/5910a3f67d31b5270841e5d4ef2f31bd/search-report-term.png)
 
 La segunda tabla, que se muestra a continuación, muestra los datos del periodo seleccionado, mostrando la columna **Date**, que indica la fecha de la búsqueda.
 
-![search-report-date](https://images.ctfassets.net/alneenqid6w5/1B1hwv5X36tvAv4Nt2Nxz1/50c65ac3ba4741c35fe820fd265b78de/search-report-date.png)
+![search-report-date](//images.ctfassets.net/alneenqid6w5/1B1hwv5X36tvAv4Nt2Nxz1/50c65ac3ba4741c35fe820fd265b78de/search-report-date.png)

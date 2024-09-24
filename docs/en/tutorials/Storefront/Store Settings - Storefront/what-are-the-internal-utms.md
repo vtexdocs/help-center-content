@@ -19,11 +19,11 @@ subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 
 Therefore, they do not aim to track traffic coming from external sites or services for purposes related to the marketing context. This is a function performed by the UTMs, as explained in the article [What are utm_source, utm_campaign and utm_medium](/en/faq/what-are-utm-source-utm-campaign-and-utm-medium).
 
-Normally, the internal UTMs are used as __cause of benefit__. In the Promotions & Taxes module, you can define that only closed orders with a given UTM applied to the URL will receive a certain benefit. See below the field to choose or create this internal UTM in the registration of a regular benefit.![utmi1](https://images.contentful.com/alneenqid6w5/16CfZDMc1A2IiiU2UcayS2/aaf51be21c48ee58b10066e7cb70c063/utmi1.jpg)
+Normally, the internal UTMs are used as __cause of benefit__. In the Promotions & Taxes module, you can define that only closed orders with a given UTM applied to the URL will receive a certain benefit. See below the field to choose or create this internal UTM in the registration of a regular benefit.![utmi1](//images.contentful.com/alneenqid6w5/16CfZDMc1A2IiiU2UcayS2/aaf51be21c48ee58b10066e7cb70c063/utmi1.jpg)
 
 In the Orders Management module, within the order details screen, you can rotate the Total Value card to view the data for __Sales and Marketing__. It contains the value of the internal UTM parameter used in the benefit.
 
-![utmi2](https://images.contentful.com/alneenqid6w5/41RwzsUqdOYWaYAokS6YiC/5774226a9a53769566cdefbcb2c0b171/utmi2.jpg)
+![utmi2](//images.contentful.com/alneenqid6w5/41RwzsUqdOYWaYAokS6YiC/5774226a9a53769566cdefbcb2c0b171/utmi2.jpg)
 
 VTEX works with three types of internal UTMs:
 - `utmi_cp`

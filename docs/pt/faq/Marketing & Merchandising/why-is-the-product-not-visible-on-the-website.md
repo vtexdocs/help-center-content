@@ -41,7 +41,7 @@ Recomendamos iniciar a investigação pelo **Catálogo**. Para verificar as conf
 1. Acesse o Admin VTEX e navegue até **Produtos > Catálogo > Produtos e SKUs** para verificar os produtos cadastrados na sua loja.
 2. Encontre na listagem o produto que você pretende exibir, conforme ilustrado a seguir.
 
-    ![01-produto-pt](https://images.ctfassets.net/alneenqid6w5/75SkVRup4MW0URypUVayEh/89bf951c58bd80765de8bfb480fd73df/01-produto-pt.png)
+    ![01-produto-pt](//images.ctfassets.net/alneenqid6w5/75SkVRup4MW0URypUVayEh/89bf951c58bd80765de8bfb480fd73df/01-produto-pt.png)
 
 3. Siga as instruções descritas nas próximas seções para verificar as seguintes informações:
    - [Produto](#produto)
@@ -83,16 +83,16 @@ Na página de SKUs, em **Produtos > Catálogo > Produtos e SKUs**, siga as instr
 
     |Botão | Descrição |
     |-|-|
-    | ![04-botao-precos](https://images.ctfassets.net/alneenqid6w5/7f0NyYsrdO9dRgW2OQb0ND/1343af5f40a6f0a64cdd8378385977c0/04-botao-precos.png) | Permite acessar a **Lista de preços** para verificar se existe um preço válido para a política comercial desejada associado aos SKUs do produto. Confira a seção de [Preços](#precos) para mais informações.|
-    | ![05-botao-logistica](https://images.ctfassets.net/alneenqid6w5/4Y2GdsvjxHYkVSBfElhVr9/17742a7ce2632fa9d800d942bb016283/05-botao-logistica.png) | Permite acessar a página **Gerenciar inventário** para verificar se o SKU está disponível em estoque. Confira a seção de [Logística](#logistica) para mais informações. |
-    | ![06-botao-indexed-info](https://images.ctfassets.net/alneenqid6w5/5G3dZgdVZDiPqADnodmHc7/e31e69a2333d82a74ca980303e93b690/06-botao-indexed-info.png) | Permite visualizar cada **Seller **que comercializa o SKU, a política comercial (**Policy**), o preço (**Value**) e a quantidade do SKU em estoque (**Quantity**). |
+    | ![04-botao-precos](//images.ctfassets.net/alneenqid6w5/7f0NyYsrdO9dRgW2OQb0ND/1343af5f40a6f0a64cdd8378385977c0/04-botao-precos.png) | Permite acessar a **Lista de preços** para verificar se existe um preço válido para a política comercial desejada associado aos SKUs do produto. Confira a seção de [Preços](#precos) para mais informações.|
+    | ![05-botao-logistica](//images.ctfassets.net/alneenqid6w5/4Y2GdsvjxHYkVSBfElhVr9/17742a7ce2632fa9d800d942bb016283/05-botao-logistica.png) | Permite acessar a página **Gerenciar inventário** para verificar se o SKU está disponível em estoque. Confira a seção de [Logística](#logistica) para mais informações. |
+    | ![06-botao-indexed-info](//images.ctfassets.net/alneenqid6w5/5G3dZgdVZDiPqADnodmHc7/e31e69a2333d82a74ca980303e93b690/06-botao-indexed-info.png) | Permite visualizar cada **Seller **que comercializa o SKU, a política comercial (**Policy**), o preço (**Value**) e a quantidade do SKU em estoque (**Quantity**). |
 
 2. Na linha do produto que corresponde ao SKU a ser verificado, clique na seta para baixo <i class="fas fa-caret-down"></i>, ao lado do botão `Alterar`.
 3. Clique na opção **Sku** para acessar a lista detalhada de SKUs.
 4. Na coluna **Status**, verifique se a situação indicada é `Ativa`. Se os SKUs estiverem ativos, prossiga para o passo 7.
 5. Caso algum SKU esteja com situação `Inativa`, clique em `Alterar` para visualizar as informações detalhadas do SKU.
 
-    ![07-catalogo-skus-pt](https://images.ctfassets.net/alneenqid6w5/6hs2pWjN8Mze7A274XRAm3/a1f33a9ce222d960b565f61d47dc1230/07-catalogo-skus-pt.png)
+    ![07-catalogo-skus-pt](//images.ctfassets.net/alneenqid6w5/6hs2pWjN8Mze7A274XRAm3/a1f33a9ce222d960b565f61d47dc1230/07-catalogo-skus-pt.png)
 
 6. Na página de informações do SKU, prossiga para a verificação dos itens listados a seguir:
     * **Ativar o SKU se possível:** verifique se esta opção está marcada. Caso contrário, o SKU não será exibido. Ativar esta opção significa determinar que o SKU será ativado se cumprir os requisitos necessários:
@@ -107,7 +107,7 @@ Na página de SKUs, em **Produtos > Catálogo > Produtos e SKUs**, siga as instr
 
 <img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/3StXGBCMW8ZExshcEhfF9m/71839095433fdf925be4cbe97710fb7c/08-aba-imagens-pt.png" alt="08-aba-imagens-pt" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Aba <strong>Imagens</strong></em></figcaption></figure>
 
-![09-sku-imagens-pt](https://images.ctfassets.net/alneenqid6w5/1JJflflW0ACgVn05sRv29x/ef6a125c561d518d683a942b15b3bf58/09-sku-imagens-pt.png)
+![09-sku-imagens-pt](//images.ctfassets.net/alneenqid6w5/1JJflflW0ACgVn05sRv29x/ef6a125c561d518d683a942b15b3bf58/09-sku-imagens-pt.png)
 
 ### Indexed Info
 
@@ -121,13 +121,13 @@ O registro de indexação apresenta o status de cada SKU do produto. Caso exista
 
 No exemplo abaixo, é possível concluir que o SKU está indisponível por causa da ausência de itens em estoque:
 
-![10-indexed-info-code](https://images.ctfassets.net/alneenqid6w5/3J8ZK4CikAYOwYh8GAzbWa/6c4b52fbcf0abaf0f53e3b49ca224e15/Group_1__7_.png)
+![10-indexed-info-code](//images.ctfassets.net/alneenqid6w5/3J8ZK4CikAYOwYh8GAzbWa/6c4b52fbcf0abaf0f53e3b49ca224e15/Group_1__7_.png)
 
 A partir disso, é possível tomar ações para corrigir o problema. No caso do exemplo, seria necessário ajustar a quantidade de itens em estoque no sistema de [Logística](#logistica).
 
 Um SKU ativo e sem erros terá o registro no indexador similar ao ilustrado a seguir:
 
-![11-indexed-info-code-active](https://images.ctfassets.net/alneenqid6w5/3Sd3Ta5gzKo0LY9dMHmCqp/a5c498ba9733244ba7d9c85cd02d801c/11-indexed-info-code-active.png)
+![11-indexed-info-code-active](//images.ctfassets.net/alneenqid6w5/3Sd3Ta5gzKo0LY9dMHmCqp/a5c498ba9733244ba7d9c85cd02d801c/11-indexed-info-code-active.png)
 
 >ℹ️ Se as informações de indexação não apontarem nenhum motivo para a indisponibilidade dos produtos e se você não tiver encontrado nenhum erro no cadastro dos produtos e dos SKUs, é possível que reindexar o produto resolva o problema.
 >
@@ -144,7 +144,7 @@ No módulo de **Preços**, é importante verificar se os SKUs do seu produto con
 
 No exemplo ilustrado a seguir, há três SKUs sem preço base cadastrado. Por isso, não há preço computado na coluna da política comercial – aparece apenas a informação _Preço não cadastrado_.
 
-![12-precos-pt](https://images.ctfassets.net/alneenqid6w5/3XrEvLWMmU3LlsxF75v9NN/13794723132a95851a9810320575adcf/12-precos-pt.png)
+![12-precos-pt](//images.ctfassets.net/alneenqid6w5/3XrEvLWMmU3LlsxF75v9NN/13794723132a95851a9810320575adcf/12-precos-pt.png)
 
 ### Criar preço base
 
@@ -172,13 +172,13 @@ O **Simulador de envio** serve para verificar se o item existe em estoque e se s
 2. Preencha as informações necessárias, descritas em [Simulador de envio](https://help.vtex.com/pt/tutorial/simulacao-de-frete).
 3. Clique em `Simular frete`.
 
-![13-simular-frete-pt](https://images.ctfassets.net/alneenqid6w5/rJE0n5ZijrAerIWzzf2Gy/4acf4052c5e41e259ef8374afae39472/13-simular-frete-pt.png)
+![13-simular-frete-pt](//images.ctfassets.net/alneenqid6w5/rJE0n5ZijrAerIWzzf2Gy/4acf4052c5e41e259ef8374afae39472/13-simular-frete-pt.png)
 
 >ℹ️ Para investigar um item específico, você deve realizar essa simulação com um **Código postal** atendido por todas as [Políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) cadastradas, pois saberá que, se o item não estiver disponível para esse CEP, não estará disponível para nenhum outro.
 
 O resultado obtido indica se o produto está disponível ou não para entrega no endereço informado e quais são as melhores opções de frete. Exemplo: caso não existam itens suficientes disponíveis em estoque, o simulador apresenta a seguinte mensagem:
 
-![14-simulador-motivos-pt](https://images.ctfassets.net/alneenqid6w5/4oVBH9r7Vs3jDWZF2MUqdO/36096b0e89ac6a6aa7236200be70fb59/14-simulador-motivos-pt.png)
+![14-simulador-motivos-pt](//images.ctfassets.net/alneenqid6w5/4oVBH9r7Vs3jDWZF2MUqdO/36096b0e89ac6a6aa7236200be70fb59/14-simulador-motivos-pt.png)
 
 Para mais informações sobre como utilizar o simulador, leia o tutorial [Simulador de envio](https://help.vtex.com/pt/tutorial/simulacao-de-frete).
 
@@ -199,7 +199,7 @@ Caso um produto não esteja disponível no site por falta de itens em estoque, v
 3. Para atualizar a contagem de estoque, escreva a quantidade atual na coluna **Atualizar contagem** na linha do SKU desejado, conforme ilustrado a seguir.
 4. Clique em `Salvar`.
 
-![15-gerenciar-inventario-pt](https://images.ctfassets.net/alneenqid6w5/7gcnOqUFhzOrvf0EPJTTeM/3f5d9cfcb6029899be80ba3b2a1d3c7e/15-gerenciar-inventario-pt.gif)
+![15-gerenciar-inventario-pt](//images.ctfassets.net/alneenqid6w5/7gcnOqUFhzOrvf0EPJTTeM/3f5d9cfcb6029899be80ba3b2a1d3c7e/15-gerenciar-inventario-pt.gif)
 
 Para mais informações, leia o tutorial [Gerenciar inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
 
@@ -242,7 +242,7 @@ Siga os passos abaixo para verificar o template que a sua página está utilizan
 
     No exemplo abaixo, o template padrão utilizado é `vtex.curbside-pickup@0.x:store.curbside-pickup` e não há template condicional.
 
-    ![16-templates-cms-pt](https://images.ctfassets.net/alneenqid6w5/5EMFVK2j0O7l6im1ZJIQQI/eb5a2372a8a1dd70d98b8d32676fd710/16-templates-cms-pt.png)
+    ![16-templates-cms-pt](//images.ctfassets.net/alneenqid6w5/5EMFVK2j0O7l6im1ZJIQQI/eb5a2372a8a1dd70d98b8d32676fd710/16-templates-cms-pt.png)
 
 4. Em seguida, é necessário conferir os blocos declarados no template utilizado, conforme descrito em [Templates](#templates).
 

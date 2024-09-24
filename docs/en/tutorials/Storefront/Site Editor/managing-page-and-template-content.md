@@ -30,7 +30,7 @@ In the VTEX Admin:
 
 1. Select the block to which you desire to create a new content. You can select it using the list on your right corner or through the interface:
 
-![seta-interface-en](https://images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/7969df97b1d05d70fe0a555052cf4011/img-two-en.png)
+![seta-interface-en](//images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/7969df97b1d05d70fe0a555052cf4011/img-two-en.png)
 
 2. Click on `Versions` on your top-right corner.
 
@@ -51,7 +51,7 @@ In the VTEX Admin:
 
 1. Select the desired block whose content will be overwritten. You can select it using the list on your right corner or through the interface:
 
-![seta-interface-en](https://images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/7969df97b1d05d70fe0a555052cf4011/img-two-en.png)
+![seta-interface-en](//images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/7969df97b1d05d70fe0a555052cf4011/img-two-en.png)
 
 2. The available content is from the current active one. Edit the fields with the new values or click on `Versions` to edit other contents' configurations. 
 3. Save your changes.
@@ -62,7 +62,7 @@ In the VTEX Admin:
 
 1. Select the desired block whose content will be deleted or reset. You can select it using the list on your right corner or through the interface:
 
-![seta-interface-en](https://images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/7969df97b1d05d70fe0a555052cf4011/img-two-en.png)
+![seta-interface-en](//images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/7969df97b1d05d70fe0a555052cf4011/img-two-en.png)
 
 2. Click on `Versions` on your top-right corner. 
 3. Click on the desired content's kebab menu (three points). 

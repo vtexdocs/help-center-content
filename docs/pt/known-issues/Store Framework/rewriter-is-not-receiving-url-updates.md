@@ -3,8 +3,8 @@ title: 'O reescritor não está recebendo atualizações de URL'
 id: 4c3S9s57SzQCv8zv4L77Fu
 status: PUBLISHED
 createdAt: 2024-07-16T19:24:56.813Z
-updatedAt: 2024-07-16T19:24:57.773Z
-publishedAt: 2024-07-16T19:24:57.773Z
+updatedAt: 2024-09-10T20:48:01.988Z
+publishedAt: 2024-09-10T20:48:01.988Z
 firstPublishedAt: 2024-07-16T19:24:57.773Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -42,7 +42,7 @@ Você também pode verificar como esse caminho está sendo retornado no pageType
 
 Tente excluir a rota manualmente do reescritor:
 
-      mutation{ internal{ delete(path:"/path"){ from id resolveAs } }}
+    mutation{ internal{ delete(path:"/path"){ from id resolveAs } }}
 
 
 Tente executar a consulta bootstrap para atualizar o reescritor:

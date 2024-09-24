@@ -1,10 +1,10 @@
 ---
 title: 'Integrações'
 id: 6wKQgKmu2FT6084BJT7z5V
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-04-14T13:28:52.687Z
-updatedAt: 2024-01-24T19:12:30.626Z
-publishedAt: 2024-01-24T19:12:30.626Z
+updatedAt: 2024-09-06T20:09:01.397Z
+publishedAt: 
 firstPublishedAt: 2020-04-14T23:53:14.582Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -24,6 +24,6 @@ Siga as instruções para iniciar o processo de integração:
 
 O processo de indexação será iniciado. Uma vez concluído, a tela ilustrada a seguir será exibida.
 
-![integracoes-is](https://images.ctfassets.net/alneenqid6w5/3biSEYFprYPdnhQpgfpGhV/43b9e3474b8f3046405278e34266e0fc/integracoes-is.PNG)
+![integracoes-is](//images.ctfassets.net/alneenqid6w5/3biSEYFprYPdnhQpgfpGhV/43b9e3474b8f3046405278e34266e0fc/integracoes-is.PNG)
 
 Não é necessário repetir esse processo. Depois de iniciar a integração, é possível acompanhar o status da indexação na página [Histórico da indexação](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).

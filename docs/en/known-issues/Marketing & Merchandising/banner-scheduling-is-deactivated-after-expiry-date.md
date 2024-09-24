@@ -38,7 +38,7 @@ When the scheduling of a banner works correctly, it is only a coincidence if the
 - Click on "Save Settings"
 - Click on "OK" when you see the confirmation message
 
-![Banner scheduling](https://images.contentful.com/alneenqid6w5/54556kzHKwMogwaMksMQ2a/e078030f450f7cdc666bcb5258ccb7d2/2017-03-16_23_06_36-Index.png)
+![Banner scheduling](//images.contentful.com/alneenqid6w5/54556kzHKwMogwaMksMQ2a/e078030f450f7cdc666bcb5258ccb7d2/2017-03-16_23_06_36-Index.png)
 
 ## Workaround
 

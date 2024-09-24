@@ -40,8 +40,8 @@ Vamos a ver cómo crear el producto.
 En el módulo __Catalog__, siga estos pasos:
 
 1. Pase el ratón en la pestaña __Regitro de Productos__.
-2. Vaya a la opción __Productos y SKUs__ y haga clic en __Registro de Productos y SKUs__.![Produto1](https://images.contentful.com/alneenqid6w5/4X1QYKrHz2ysAEAAW6gK6/85b81671add3f7573a9c4531b215ba82/Produto1.png)
-3. Haga clic en el botón __Agregar producto__.![Produto2](https://images.contentful.com/alneenqid6w5/2HhkAREgQMMAkIMm8GaGgQ/7038413048c0611edb9079acd73020ba/Produto2.png)
+2. Vaya a la opción __Productos y SKUs__ y haga clic en __Registro de Productos y SKUs__.![Produto1](//images.contentful.com/alneenqid6w5/4X1QYKrHz2ysAEAAW6gK6/85b81671add3f7573a9c4531b215ba82/Produto1.png)
+3. Haga clic en el botón __Agregar producto__.![Produto2](//images.contentful.com/alneenqid6w5/2HhkAREgQMMAkIMm8GaGgQ/7038413048c0611edb9079acd73020ba/Produto2.png)
 
 Se le llevará a la pantalla de registro de producto.
 

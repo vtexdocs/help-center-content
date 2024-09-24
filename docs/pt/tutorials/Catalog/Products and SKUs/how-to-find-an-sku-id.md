@@ -34,7 +34,7 @@ Para descobrir o ID de um SKU pelo Admin, siga os passos abaixo:
 
 No exemplo abaixo, o ID do SKU é __18__.
 
-![skuId-1](https://images.contentful.com/alneenqid6w5/3CEFOn0h8Ac6ciGgi6gmEK/2d64944b8added0ec12d5cdc7ebe9d9c/skuId-1.png)
+![skuId-1](//images.contentful.com/alneenqid6w5/3CEFOn0h8Ac6ciGgi6gmEK/2d64944b8added0ec12d5cdc7ebe9d9c/skuId-1.png)
 
 ## URL de cadastro do SKU
 

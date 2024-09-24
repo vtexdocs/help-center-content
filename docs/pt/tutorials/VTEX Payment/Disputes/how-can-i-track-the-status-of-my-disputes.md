@@ -25,7 +25,7 @@ Eis algumas delas.
 
 Quando o usuário acessa a seção **Disputas**, os processos são exibidos em uma única tela. Contudo, as disputas deixam de ser apresentadas na seção **Disputas** quando se tornam chargeback (7 dias após serem abertas). Ou seja, uma vez que a devolução do dinheiro é feita para o cliente, a disputa é fechada e “some” da exibição.
 
-![disputa-vtex-payment](https://images.ctfassets.net/alneenqid6w5/5E3vzxX10nWod99okmR5Ey/5afc15fd3c9b3bfb57d9d55ddd51f4f8/image.png)
+![disputa-vtex-payment](//images.ctfassets.net/alneenqid6w5/5E3vzxX10nWod99okmR5Ey/5afc15fd3c9b3bfb57d9d55ddd51f4f8/image.png)
 
 ## Consulta de disputa única
 

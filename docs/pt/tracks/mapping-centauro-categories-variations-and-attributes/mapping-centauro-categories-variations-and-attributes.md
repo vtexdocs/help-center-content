@@ -3,8 +3,8 @@ title: 'Mapeamento de categorias e atributos da Centauro'
 id: 5Lc42XVVABaidvEjm4Ki9
 status: PUBLISHED
 createdAt: 2020-10-20T19:20:09.544Z
-updatedAt: 2021-06-02T21:05:04.647Z
-publishedAt: 2021-06-02T21:05:04.647Z
+updatedAt: 2024-09-05T15:21:38.280Z
+publishedAt: 2024-09-05T15:21:38.280Z
 firstPublishedAt: 2020-10-20T19:53:25.808Z
 contentType: trackArticle
 productTeam: Channels
@@ -20,7 +20,7 @@ Esta funcionalidade agiliza o processo de catalogação dos seus produtos na Cen
 
 ## Entendendo a planilha de mapeamento
 
-Em primeiro lugar, [faça download da Planilha de Mapeamento da Centauro](https://drive.google.com/file/d/1ZtV6hbHwki22fyIsKwaSFjyOzAkC28Ws/view?usp=sharing) no formato `.xlsx`. Após preenchê-la conforme a [Planilha de Referência da Centauro](https://drive.google.com/uc?export=download&id=1BZjb2MeXOWCkGY6h1bVZaK7p6n0SvVT7), basta fazer o upload do mapeamento para a VTEX.
+Em primeiro lugar, faça download da [Planilha de Mapeamento da Centauro](//assets.ctfassets.net/alneenqid6w5/4Noj0QVEUM1rTcVI79I7DD/cfe7580fb53a899b93c4739509cd1502/planilhademapeamento_centauro.xlsx) no formato `.xlsx`. Após preenchê-la conforme a [Planilha de referência Centauro](//assets.ctfassets.net/alneenqid6w5/5ANncY3Q0KZuVVcIxmGhOx/fbaea2fb4409c9de0981ba404eb3a5eb/Varia__es_Centauro__1_.xlsx), basta fazer o upload do mapeamento para a VTEX.
 
 O objetivo da planilha de mapeamento é indicar para a integração a correspondência entre os padrões adotados pela sua loja e pelo marketplace. A Planilha de Referência da Centauro contém a listagem de todas as combinações de categorias e variações/atributos aceitas pela Centauro. Nas seções a seguir, indicamos como fazer esta correspondência.
 

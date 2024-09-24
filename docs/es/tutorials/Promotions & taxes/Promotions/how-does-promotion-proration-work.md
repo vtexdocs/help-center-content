@@ -38,7 +38,7 @@ Digamos que tenemos una promoción de descuento nominal de $ 156,00 para ser apl
 
 Considerando la lógica del cálculo anterior, quedaría como sigue:
 
-![tabelaex.es](https://images.ctfassets.net/alneenqid6w5/5G6XOjSgYmXK29ODCJf58A/077a633df92bc68da6b5032e493a6157/tabelaex.es.png)
+![tabelaex.es](//images.ctfassets.net/alneenqid6w5/5G6XOjSgYmXK29ODCJf58A/077a633df92bc68da6b5032e493a6157/tabelaex.es.png)
 
 Este cálculo se aplica a productos unitarios, como una blusa o una mesa, pero también hay productos que tienen en su registro una configuración llamada unidad multiplicadora, como una caja de piso de 2,5 m², por ejemplo.
 

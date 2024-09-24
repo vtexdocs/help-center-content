@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pago con BoletoFlex'
 id: 3ikLbJGXMI6bkAm6YiglOx
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2022-01-10T17:36:39.512Z
-updatedAt: 2024-01-23T15:50:34.329Z
-publishedAt: 2024-01-23T15:50:34.329Z
+updatedAt: 2024-09-19T19:52:21.494Z
+publishedAt: 
 firstPublishedAt: 2022-01-10T20:19:23.317Z
 contentType: tutorial
 productTeam: Financial

@@ -3,8 +3,8 @@ title: 'item.deliveryType do carrinho não foi enviado pelo checkout em Addition
 id: lV8VxXUPOzO9cSMgNV4fj
 status: PUBLISHED
 createdAt: 2024-03-19T12:59:17.599Z
-updatedAt: 2024-03-19T12:59:18.450Z
-publishedAt: 2024-03-19T12:59:18.450Z
+updatedAt: 2024-09-10T18:34:54.909Z
+publishedAt: 2024-09-10T18:34:54.909Z
 firstPublishedAt: 2024-03-19T12:59:18.450Z
 contentType: knownIssue
 productTeam: Checkout

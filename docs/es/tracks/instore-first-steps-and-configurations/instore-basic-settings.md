@@ -3,8 +3,8 @@ title: 'VTEX Sales App - Configuración básica'
 id: 4L5SoLxE8O3YkxF7FKymrO
 status: PUBLISHED
 createdAt: 2020-06-28T13:51:53.895Z
-updatedAt: 2023-07-26T18:42:22.814Z
-publishedAt: 2023-07-26T18:42:22.814Z
+updatedAt: 2024-09-05T16:26:14.722Z
+publishedAt: 2024-09-05T16:26:14.722Z
 firstPublishedAt: 2020-06-28T14:01:36.462Z
 contentType: trackArticle
 productTeam: Shopping
@@ -24,9 +24,9 @@ Para utilizar VTEX Sales App, debes seguir los pasos descritos a continuación e
 
 ## Instalar VTEX Sales App
 
-El primer paso es instalar la aplicación gratuita [VTEX Sales App Setup](https://apps.vtex.com/vtex-instore/p), disponible en VTEX App Store, en la cuenta principal de la marca.
+El primer paso es instalar la aplicación gratuita [VTEX Sales App Setup](https://apps.vtex.com/vtex-assisted-sales-admin/p), disponible en VTEX App Store, en la cuenta principal de la marca.
 
-1. Accede a la página de [VTEX Sales App Setup](https://apps.vtex.com/vtex-instore/p) en VTEX App Store.
+1. Accede a la página de [VTEX Sales App Setup](https://apps.vtex.com/vtex-assisted-sales-admin/p) en VTEX App Store.
 2. Haz clic en `Obtener app`.
 3. Introduce el nombre de tu cuenta principal VTEX y haz clic en `Confirmar`.
 4. Haz clic en `Finalizar compra`.
@@ -50,7 +50,7 @@ Después de la instalación, deberás realizar la configuración básica de la a
 
 ### Registrar la dirección de la tienda
 
-![cadastrar-loja-pt](https://images.contentful.com/alneenqid6w5/51ICHIzuWsMAwPCVwQuQoB/071ec5240f968e662badf4e828954072/cadastrar-loja-pt.png)
+![cadastrar-loja-pt](//images.contentful.com/alneenqid6w5/51ICHIzuWsMAwPCVwQuQoB/071ec5240f968e662badf4e828954072/cadastrar-loja-pt.png)
 
 En esta página, introduce el nombre de la primera tienda física donde se utilizará VTEX Sales App y la dirección completa de la tienda. Cuando hayas rellenado todos los campos, haz clic en `Confirmar`.
 
@@ -60,7 +60,7 @@ Si decides `Saltar este paso`, se creará una tienda ficticia con fines de prueb
 
 ### Registrar el email y el nombre del vendedor
 
-![registrar-vendedor-pt](https://images.contentful.com/alneenqid6w5/5PvZutdPYWkm7rj4HCrlPC/0316ea7fd74dae942a64e5fdb22f3807/registrar-vendedor-pt.png)
+![registrar-vendedor-pt](//images.contentful.com/alneenqid6w5/5PvZutdPYWkm7rj4HCrlPC/0316ea7fd74dae942a64e5fdb22f3807/registrar-vendedor-pt.png)
 
 Es necesario registrar un email y un nombre que se utilizarán como credenciales de inicio de sesión del vendedor. Haz clic en `Confirmar`.
 
@@ -74,7 +74,7 @@ Si decides `Saltar este paso`, se creará un vendedor ficticio con el email `ins
 
 El siguiente paso es configurar los métodos de pago que aceptarás en VTEX Sales App. Activa las opciones deseadas utilizando el botón <i class="fas fa-toggle-on"></i> como se ilustra a continuación.
 
-![configurar-meios-de-pagamento-pt](https://images.contentful.com/alneenqid6w5/3kjTg7Y2tUI5UErQBsGc02/5174724afd2987a4b8f578c1d74b87b9/configurar-meios-de-pagamento-pt.gif)
+![configurar-meios-de-pagamento-pt](//images.contentful.com/alneenqid6w5/3kjTg7Y2tUI5UErQBsGc02/5174724afd2987a4b8f578c1d74b87b9/configurar-meios-de-pagamento-pt.gif)
 
 Hay dos opciones:
 
@@ -83,7 +83,7 @@ Hay dos opciones:
 
 Después de seleccionar las opciones deseadas, haz clic en `Confirmar`. Verás el siguiente mensaje de confirmación:
 
-![sucesso-instore-pt](https://images.contentful.com/alneenqid6w5/nVSjiQuE0EXIYecELJJFQ/79a0d24adb51e7ad68f371afe5ca0491/sucesso-instore-pt.png)
+![sucesso-instore-pt](//images.contentful.com/alneenqid6w5/nVSjiQuE0EXIYecELJJFQ/79a0d24adb51e7ad68f371afe5ca0491/sucesso-instore-pt.png)
 
 ## Configurar condiciones de pago
 

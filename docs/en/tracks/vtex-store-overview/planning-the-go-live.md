@@ -34,7 +34,7 @@ The process of a store's go-live, including the necessary settings and tests, ca
 
 The following image shows the planning steps for the VTEX store go-live:
 
-![go-live-en](https://images.ctfassets.net/alneenqid6w5/3AA13R58ffQhNjBBoJm2kS/42ac375fd2ab83f78c34dfca3da81260/golive_1_EN.png)
+![go-live-en](//images.ctfassets.net/alneenqid6w5/3AA13R58ffQhNjBBoJm2kS/42ac375fd2ab83f78c34dfca3da81260/golive_1_EN.png)
 
 ### Define the MVP
 
@@ -54,7 +54,7 @@ Therefore, the whole planning process should start at least 45 days in advance, 
 
 To organize the teams involved and go live on the planned date, you need to create a _roadmap_, i.e., a document with the actions required for the go-live, indicating who is accountable for each step and the agreed deadlines. The following image shows a timeline as an example:
 
-![golive 2 EN](https://images.ctfassets.net/alneenqid6w5/Z0MHCvHc0dMND8dOCk7JJ/bae691008a305280c7c3d14aeb319b11/golive_2_EN.png)
+![golive 2 EN](//images.ctfassets.net/alneenqid6w5/Z0MHCvHc0dMND8dOCk7JJ/bae691008a305280c7c3d14aeb319b11/golive_2_EN.png)
 
 We recommend scheduling regular meetings with the [implementation teams](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners) to ensure alignment and, if necessary, establishing a _war room_ to deal with pending issues in the week before the go-live.
 

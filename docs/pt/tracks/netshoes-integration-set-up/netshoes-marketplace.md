@@ -20,6 +20,6 @@ A [Netshoes](https://www.netshoes.com.br/) é o maior e-commerce de lifestyle es
 
 Lojas que operam no Brasil podem usar a integração nativa com o Marketplace da Netshoes para expor e vender produtos de categorias como Calçados, Roupas, Acessórios, Equipamentos, Suplementos, Beleza e Eletrônicos. 
 
-![Netshoes Marketplace - Passo a Passo](https://images.ctfassets.net/alneenqid6w5/4l5uEyMSlfB55VHEmbm1sD/0bb6d4d15b6b7f586de32c899e208e2e/Screen_Shot_2020-06-04_at_23.24.51.png)
+![Netshoes Marketplace - Passo a Passo](//images.ctfassets.net/alneenqid6w5/4l5uEyMSlfB55VHEmbm1sD/0bb6d4d15b6b7f586de32c899e208e2e/Screen_Shot_2020-06-04_at_23.24.51.png)
 
 Antes de começar, é importante que você cadastre sua loja no [Netshoes Marketplace](https://www.netshoes.com.br/marketplace), aguarde a aprovação e prepare os documentos solicitados para preparação do seu contrato. Uma vez cadastrado, você poderá seguir os passos deste tutorial para montar seu catálogo e começar a vender.

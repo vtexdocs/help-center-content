@@ -21,7 +21,7 @@ internalReference:
 O filtro de preço está considerando o menor preço cadastrado sem considerar a política comercial a qual está atrelado. Esse caso é específico para produtos que possuem múltiplas tabelas de valores (associadas a diferentes políticas comerciais).
 
 <video preload="metadata" width="100%" controls="controls">
-  <source type="video/mp4" src="https://videos.contentful.com/alneenqid6w5/1VtdEXKfvekQeSKMmEeusY/d1b1d1cd6a2e902c0b297eed32ca205a/ProblemaConhecido.mp4">
+  <source type="video/mp4" src="//videos.contentful.com/alneenqid6w5/1VtdEXKfvekQeSKMmEeusY/d1b1d1cd6a2e902c0b297eed32ca205a/ProblemaConhecido.mp4">
 </video>
 
 Nesse cenário, o filtro foi feito considerando produtos para a região de São Paulo, mas ao buscar o preço com o desconto para o filtro, está considerando o menor preço que é o de Paraná, visto que o desconto que está de fato sendo aplicado é de 10%.

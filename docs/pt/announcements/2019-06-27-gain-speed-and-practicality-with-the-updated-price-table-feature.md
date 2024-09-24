@@ -21,7 +21,7 @@ Agora é possível criar Tabelas de Preços de forma mais intuitiva, prática e 
 
 Antes, para criar uma tabela de preços, era necessário ir até o filtro do módulo de Preços e digitar o nome da tabela a ser criada. Agora, adicionamos um novo botão __Tabelas de Preços__ que permite criar e selecionar as tabelas de preço que você deseja visualizar.
 
-![Annoucement Price table PT](https://images.ctfassets.net/alneenqid6w5/22qst5crxgQq0Mdih3XgnK/93c3034eabe8c139143bcb2fc92ec35f/Annoucement_Price_table_PT.png)
+![Annoucement Price table PT](//images.ctfassets.net/alneenqid6w5/22qst5crxgQq0Mdih3XgnK/93c3034eabe8c139143bcb2fc92ec35f/Annoucement_Price_table_PT.png)
 
 ## Vantagens
 

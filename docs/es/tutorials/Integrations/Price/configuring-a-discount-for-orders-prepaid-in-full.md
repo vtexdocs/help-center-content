@@ -3,8 +3,8 @@ title: 'Configurar descuento de precio al contado'
 id: 7Lfcj9Wb5dpYfA2gKkACIt
 status: PUBLISHED
 createdAt: 2020-12-18T19:16:46.225Z
-updatedAt: 2023-03-31T21:35:57.904Z
-publishedAt: 2023-03-31T21:35:57.904Z
+updatedAt: 2024-09-05T16:45:39.679Z
+publishedAt: 2024-09-05T16:45:39.679Z
 firstPublishedAt: 2021-05-04T20:05:58.585Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -22,7 +22,7 @@ La mayor ventaja de esta estrategia es que el precio al contado se calcula autom
 Para utilizar esta estrategia en la plataforma VTEX, además de indicar el descuento de precio al contado, se debe seleccionar el medio de pago en el que se aplicará el descuento. Por lo tanto, es necesario:
 
 1. Utilizar Checkout API para determinar el descuento de precio al contado y vincularlo a un medio de pago (vea el tutorial [Set a discount using the Checkout API](https://developers.vtex.com/vtex-rest-api/docs/set-a-discount-using-the-checkout-api)).
-2. Configurar el layout del CMS para que el descuento sea visible en el medio de pago seleccionado en la página de producto (vea a continuación).  
+2. Configurar el layout tanto para tiendas en CMS como en IO para que el descuento sea visible en el medio de pago seleccionado en la página de producto. (vea a continuación).  
 
 ## CMS
 
@@ -33,7 +33,7 @@ Después de determinar el descuento en Checkout, se debe vincular el SKU al medi
 3. Haga clic en el template de su página de producto en la lista de templates.
 4. En la propiedad `skuPrice`, añada la variable `paymentSystemId` con el ID del medio de pago deseado. 
 
-![Screenshot 2020-12-18 Crear precio al contado](https://images.ctfassets.net/alneenqid6w5/4X9sxu1jruXPgpJc5AthbD/ce74271f2f7ca41fa3f762b12a226bcb/Screenshot_2020-12-18_Criar_pre__o____vista.png)
+![Screenshot 2020-12-18 Crear precio al contado](//images.ctfassets.net/alneenqid6w5/4X9sxu1jruXPgpJc5AthbD/ce74271f2f7ca41fa3f762b12a226bcb/Screenshot_2020-12-18_Criar_pre__o____vista.png)
 
 6. Luego, haga clic en __Save Template__ en el campo superior, para guardar la alteración.
 

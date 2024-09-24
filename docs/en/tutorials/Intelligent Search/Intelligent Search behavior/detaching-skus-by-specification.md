@@ -25,7 +25,7 @@ This tool is useful for clothing stores as it allows you to display the products
 
 See the following example of detaching SKUs by color. In the image below, the featured sandals are available in two different colors in the search results:
 
-![screencapture-footnotes-sandals-2021-02-11-14 21 21](https://images.ctfassets.net/alneenqid6w5/3wDeiYyhcz0BNUyJrDo7zI/234e5508195490b55170e047dd6a9377/screencapture-footnotes-sandals-2021-02-11-14_21_21.png)
+![screencapture-footnotes-sandals-2021-02-11-14 21 21](//images.ctfassets.net/alneenqid6w5/3wDeiYyhcz0BNUyJrDo7zI/234e5508195490b55170e047dd6a9377/screencapture-footnotes-sandals-2021-02-11-14_21_21.png)
 
 >ℹ️ If search results are sorted by relevance, the SKUs of a given product will be grouped together. In other words, they will be displayed side by side.
 

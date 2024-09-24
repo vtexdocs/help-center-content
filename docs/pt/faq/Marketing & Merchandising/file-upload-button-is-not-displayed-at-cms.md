@@ -21,7 +21,7 @@ Se você tem este problema no Google Chrome, basta ativar o plugin do Flash faze
 1. Clicar no botão de informação ou no cadeado, que precede a URL atual;
 2. Na linha correspondente ao Flash, que normalmente está como "Perguntar (padrão)", selecionar "Sempre permitir neste site".
 
-![chrome-flash](https://images.contentful.com/alneenqid6w5/URF5k1wvQsaAiSoOeo4WI/5560f944b3b3fabb21bfbf4cebe21037/chrome-flash.jpg)
+![chrome-flash](//images.contentful.com/alneenqid6w5/URF5k1wvQsaAiSoOeo4WI/5560f944b3b3fabb21bfbf4cebe21037/chrome-flash.jpg)
 
 Normalmente esse problema está ligado à disponibilidade do Flash Player no navegador, e para o site acessado. 
 

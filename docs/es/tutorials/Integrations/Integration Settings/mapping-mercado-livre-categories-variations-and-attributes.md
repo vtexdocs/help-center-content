@@ -75,7 +75,7 @@ La segunda etapa para rellenar la plantilla de mapeo es hacer la correspondencia
 
 Las variaciones obligatorias son atributos indispensables para el mapeo de determinadas categorías del producto. Si se trata de un `calzado`, `ropa`, `bolsa`, `cinturón` o `electrodoméstico`, será necesario mapear las variaciones obligatorias. 
 
-El nombre de estas debe estar exactamente de acuerdo con los valores aceptados por el marketplace. [Descargue aquí](https://assets.ctfassets.net/alneenqid6w5/5nLnBUVonS8qgWqqeck4MQ/28d9a8e7ce08b03d243b43bb6b759c5d/Planilha_de_Atributos_do_Mercado_Livre.xlsx) la __Plantilla de Variaciones de Mercado Libre__ para verificar los valores aceptados de acuerdo con cada tipo de producto.
+El nombre de estas debe estar exactamente de acuerdo con los valores aceptados por el marketplace. [Descargue aquí](//assets.ctfassets.net/alneenqid6w5/5nLnBUVonS8qgWqqeck4MQ/28d9a8e7ce08b03d243b43bb6b759c5d/Planilha_de_Atributos_do_Mercado_Livre.xlsx) la __Plantilla de Variaciones de Mercado Libre__ para verificar los valores aceptados de acuerdo con cada tipo de producto.
 
 ### Variaciones personalizables 
 

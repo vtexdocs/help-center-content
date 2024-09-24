@@ -1,10 +1,10 @@
 ---
 title: 'Reglas de merchandising'
 id: 5tBSYXb9EIdePa0MWTnFd0
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-03-05T18:53:37.305Z
-updatedAt: 2024-01-29T17:07:18.414Z
-publishedAt: 2024-01-29T17:07:18.414Z
+updatedAt: 2024-09-06T20:09:38.815Z
+publishedAt: 
 firstPublishedAt: 2020-03-05T19:58:55.021Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -30,7 +30,7 @@ En el Admin VTEX, la página **Storefront** > **Intelligent Search** > **Reglas 
 * [Editar](#editar-reglas-de-merchandising)
 * [Eliminar](#eliminar-reglas-de-merchandising)
 
-![reglas-merch-es](https://images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/4624acb4cd7dbe4e2a4d858e570f1f92/reglas-merch-es.PNG)
+![reglas-merch-es](//images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/4624acb4cd7dbe4e2a4d858e570f1f92/reglas-merch-es.PNG)
 
 La página contiene la siguiente información: 
 

@@ -27,19 +27,19 @@ Configure o [binding da loja](https://help.vtex.com/en/tutorial/what-is-cms-layo
 
 Binding é o processo utilizado para vincular o seu site a uma loja. Para mais detalhes, consulte o artigo [Vincular uma loja a uma estrutura de pastas do CMS (binding)](https://help.vtex.com/en/tutorial/vincular-um-account-name-a-um-website-binding).
 
-![CMS - Sites and channels PT](https://images.ctfassets.net/alneenqid6w5/4mXskFs41ULqUjO0naKtPd/0c3d2414ac7931cc88b8e11264927765/cms-sites-and-channels-pt.png)
+![CMS - Sites and channels PT](//images.ctfassets.net/alneenqid6w5/4mXskFs41ULqUjO0naKtPd/0c3d2414ac7931cc88b8e11264927765/cms-sites-and-channels-pt.png)
 
 ## Páginas
 Em **[Páginas](https://help.vtex.com/pt/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc)**, crie uma nova URL e vincule-a a uma template já definido no [código do tema da loja](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates).
 
 Essa seção também contém a página **Redirecionamentos**, que redireciona usuários e mecanismos de pesquisa de uma URL para outra mais relevante ou similar. 
 
-![CMS - Páginas](https://images.ctfassets.net/alneenqid6w5/3f6BEwp3ifvCYNFpwMQjNn/43932eacc38cd05af0f1a913cd2eb488/cms-pages-pt.png)
+![CMS - Páginas](//images.ctfassets.net/alneenqid6w5/3f6BEwp3ifvCYNFpwMQjNn/43932eacc38cd05af0f1a913cd2eb488/cms-pages-pt.png)
 
 ## Site Editor
 O **[Site Editor](https://help.vtex.com/pt/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1)** é uma interface gráfica para o gerenciamento do conteúdo do storefront (frente de loja). Ele permite criar, editar, publicar e agendar mudanças nos seus componentes e no comportamento do storefront.
 
-![CMS - Site Editor PT](https://images.ctfassets.net/alneenqid6w5/5mh4dQ3fdbM4wTDcdx6Cb/4258f07e4ba21f1d2c0ade81579207e1/cms-siteeditor-pt.png)
+![CMS - Site Editor PT](//images.ctfassets.net/alneenqid6w5/5mh4dQ3fdbM4wTDcdx6Cb/4258f07e4ba21f1d2c0ade81579207e1/cms-siteeditor-pt.png)
 
 ## Estilos
 
@@ -49,12 +49,12 @@ A seção **[Estilos](https://help.vtex.com/pt/tutorial/styles-overview--v0Db5oh
   Esse recurso só funciona em <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-production-workspace">workspaces de produção</a>.
 </div>
 
-![CMS - Estilos](https://images.ctfassets.net/alneenqid6w5/6oMURjcDdxF2DCR1x59rR6/a58296966e9b912d16546bbd232d0800/cms-styles-pt.png)
+![CMS - Estilos](//images.ctfassets.net/alneenqid6w5/6oMURjcDdxF2DCR1x59rR6/a58296966e9b912d16546bbd232d0800/cms-styles-pt.png)
 
 ## Loja
 A seção **[Loja](https://help.vtex.com/pt/tutorial/cms-loja-visao-geral--3Eat287G6wUi6Mly5rW5Fs)** é responsável pelas configurações de SEO, marcadores de otimização de desempenho e notificações PWA na sua loja.
 
-![CMS - Loja](https://images.ctfassets.net/alneenqid6w5/6hUAHs42TAVSzXp5KgT34f/f5c8cf60d396197462842c2152d70e3b/cms-store-pt.png)
+![CMS - Loja](//images.ctfassets.net/alneenqid6w5/6hUAHs42TAVSzXp5KgT34f/f5c8cf60d396197462842c2152d70e3b/cms-store-pt.png)
 
 ## Referências
 - [Conceitos - VTEX IO](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6loFGF4nXvgIVIzsyyJA5c#concepts)

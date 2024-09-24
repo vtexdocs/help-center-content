@@ -3,8 +3,8 @@ title: 'Comportamento da busca'
 id: B9o3JbV6utAinBJ1ETujs
 status: PUBLISHED
 createdAt: 2024-06-27T17:30:43.356Z
-updatedAt: 2024-06-27T17:33:21.153Z
-publishedAt: 2024-06-27T17:33:21.153Z
+updatedAt: 2024-09-19T12:59:01.022Z
+publishedAt: 2024-09-19T12:59:01.022Z
 firstPublishedAt: 2024-06-27T17:33:21.153Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

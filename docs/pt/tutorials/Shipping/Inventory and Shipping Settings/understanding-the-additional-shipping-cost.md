@@ -29,7 +29,7 @@ Existem três formas de se adicionar um valor extra sobre o frete: adicional por
 
 O adicional por valor é calculado a partir do preço do produto. É definida uma porcentagem que se aplicará ao preço do produto, e esse valor resultante é adicionado ao valor inicialmente calculado pelo frete. 
 
-![adicionalfrete1 PT](https://images.ctfassets.net/alneenqid6w5/JRCo7yI9iwkS0uYW822eY/32044c9a1d1636d10d9eec1202625fc6/adicionalfrete1_PT.png)
+![adicionalfrete1 PT](//images.ctfassets.net/alneenqid6w5/JRCo7yI9iwkS0uYW822eY/32044c9a1d1636d10d9eec1202625fc6/adicionalfrete1_PT.png)
 
 No caso acima, o valor dos produtos totaliza R$ 80,00 e o valor cadastrado como __Valor adicional__ é 10%. Com isso, o valor calculado para ser adicionado ao valor do frete é de R$ 8,00. A soma do valor final de frete e o valor adicional, é de R$18,00.
 
@@ -46,7 +46,7 @@ O adicional por peso é calculado com base no peso do produto. O cálculo desse 
 
 A conta é a seguinte:
 
-![adicionalfrete2 PT](https://images.ctfassets.net/alneenqid6w5/19t4etUFuYCK0sM2SCK4g2/99a0bc4b935a1db688f94795ea3614b3/adicionalfrete2_PT.png)
+![adicionalfrete2 PT](//images.ctfassets.net/alneenqid6w5/19t4etUFuYCK0sM2SCK4g2/99a0bc4b935a1db688f94795ea3614b3/adicionalfrete2_PT.png)
 
 Ou seja, no exemplo, o limite mínimo da faixa de peso que o produto se encontra é de 100 gramas. O valor cadastrado no campo __Valor adicional por peso__ é de 0,1. Logo, o valor a ser adicionado ao cálculo de 14,00, o valor final ficou em R$ 24,00.
 
@@ -62,7 +62,7 @@ O adicional no frete é calculado sobre o valor final do frete, e não sobre o v
 
 O valor cadastrado na tabela de frete + o adicional por peso + o adicional por valor * o valor cadastrado no campo adicional no frete.
 
-![adicionalfrete3 PT](https://images.ctfassets.net/alneenqid6w5/Q9pu2UYMAEM0gs200yAmw/0442d1b40cba53fb7237b27df323fe08/adicionalfrete3_PT.png)
+![adicionalfrete3 PT](//images.ctfassets.net/alneenqid6w5/Q9pu2UYMAEM0gs200yAmw/0442d1b40cba53fb7237b27df323fe08/adicionalfrete3_PT.png)
 
 Nesse caso, o valor inserido no campo __Valor adicional__, será o valor percentual a ser somado ao valor final calculado do frete. Por exemplo: se o frete, com todos seus adicionais já calculados, der R$20,00 e o valor cadastrado no campo Adicional nos Fretes for 10, significa que será acrescentando R$2,00 aos R$20,00 do frete, totalizando R$ 22,00 a ser cobrado ao cliente pelo frete. Essa é uma maneira simples de conseguir uma margem sobre os fretes das compras.
 

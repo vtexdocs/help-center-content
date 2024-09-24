@@ -25,7 +25,7 @@ Al activar el HTTPS en una carpeta específica, la tag HTML _canonical_ permanec
 1. Activar HTTPS en una sola carpeta del sitio ([guía](https://help.vtex.com/tutorial/--frequentlyAskedQuestions_4378));
 2. Comprobar, en el HTML renderizado, la tag _canonical_.
 
-![image](https://images.contentful.com/alneenqid6w5/5B2i3p2lva8OO0I4geI8Qw/7321c0d4c0a2f8d20a7940ace91bcbff/image.png)
+![image](//images.contentful.com/alneenqid6w5/5B2i3p2lva8OO0I4geI8Qw/7321c0d4c0a2f8d20a7940ace91bcbff/image.png)
 
 ## Workaround
 

@@ -3,8 +3,8 @@ title: 'Sending products to Facebook'
 id: 41qzoa7TWIYTyIhABHdgzI
 status: PUBLISHED
 createdAt: 2021-02-08T19:45:07.202Z
-updatedAt: 2024-01-22T15:03:37.861Z
-publishedAt: 2024-01-22T15:03:37.861Z
+updatedAt: 2024-09-05T17:12:54.731Z
+publishedAt: 2024-09-05T17:12:54.731Z
 firstPublishedAt: 2021-02-08T20:10:14.152Z
 contentType: trackArticle
 productTeam: Channels
@@ -46,7 +46,7 @@ If you would like to send your product attributes to Facebook, please follow the
 
 Spreadsheet mapping allows you to match the attributes of your products on the VTEX platform with the standards used by Facebook.
 
-The first step in mapping is to download the file [Facebook Mapping Spreadsheet.xlsx](https://drive.google.com/uc?export=download&id=1XD8AO0VEzLXxmb8yjjkFQCNce1IfufkN).
+The first step in mapping is to download the file [Facebook Mapping Spreadsheet.xlsx](//assets.ctfassets.net/alneenqid6w5/52pBgj6plpcSAp1X2DqgJ9/88d38c6356792b529eb6121a307bebbf/Planilha_de_Mapeamento_Facebook.xlsx).
 
 ### Filling in the mapping spreadsheet
 

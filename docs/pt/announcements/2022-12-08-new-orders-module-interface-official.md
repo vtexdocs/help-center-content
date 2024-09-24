@@ -27,15 +27,15 @@ Em relação à versão beta, a interface que será oficial a partir de 1 de fev
 
 * **Busca de pedidos sem limite de data:** possibilidade de buscar pedidos sem definir um limite de data, o que retorna todos os pedidos relacionados ao critério utilizado, independente da data de criação do pedido. Essa busca não pode ser associada a outros filtros. No entanto, você pode selecionar um período de busca personalizado de até seis meses e então combiná-lo com os filtros. Saiba mais no artigo [Filtrar pedidos em Todos os pedidos](https://help.vtex.com/pt/tutorial/filtrar-todos-pedidos--tutorials_192).
 
-  ![busca_sem_limite_data_all_pt](https://images.ctfassets.net/alneenqid6w5/7mDlDQAgphKCmH12REooCx/b6fee3d3358a18d7fe217d8afc005ca3/busca_sem_limite_data_all_pt.png)
+  ![busca_sem_limite_data_all_pt](//images.ctfassets.net/alneenqid6w5/7mDlDQAgphKCmH12REooCx/b6fee3d3358a18d7fe217d8afc005ca3/busca_sem_limite_data_all_pt.png)
 
 * **Diagrama do pedido:** na seção _Status do pedido_ da nova interface, por padrão, o que é exibido é uma linha tempo com os eventos do pedido. Agora você pode também ver o _Diagrama do pedido_. Ao clicar em `Ver diagrama`, um modal é aberto e apresenta uma imagem como a seguinte:
 
-  ![diagrama_pedido_pt](https://images.ctfassets.net/alneenqid6w5/3to0oQYzjgz3Y5i4sDPIG3/20ac041bccaef4e607b082b1e6a346d0/diagrama_pedido_pt.png)
+  ![diagrama_pedido_pt](//images.ctfassets.net/alneenqid6w5/3to0oQYzjgz3Y5i4sDPIG3/20ac041bccaef4e607b082b1e6a346d0/diagrama_pedido_pt.png)
 
 Para quem ainda não usava a versão beta, a imagem abaixo é um mapeamento da correspondência de campos entre a versão antiga da página **Detalhes do pedido** e a versão oficial:
 
-![board_comparativo_interface_pedido_v2_pt](https://images.ctfassets.net/alneenqid6w5/30tYehAYOCvQoX0MpSIoNH/70f75ff7e98e67c9c403c32965ab4882/board_comparativo_interface_pedido_v2_pt.png)
+![board_comparativo_interface_pedido_v2_pt](//images.ctfassets.net/alneenqid6w5/30tYehAYOCvQoX0MpSIoNH/70f75ff7e98e67c9c403c32965ab4882/board_comparativo_interface_pedido_v2_pt.png)
 
 ## Por que fizemos essa mudança?
 

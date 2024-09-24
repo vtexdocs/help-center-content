@@ -26,7 +26,7 @@ A página **Todos os Pedidos** permite que lojistas acompanhem os pedidos da sua
 
 A seguir exploraremos os componentes e ações incluídos na página.
 
-![Order Listing EN](https://images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/90dad9da099d53164009d4a428d2f731/Order_Listing_EN.gif)
+![Order Listing EN](//images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/90dad9da099d53164009d4a428d2f731/Order_Listing_EN.gif)
 
 Além de pesquisar pedidos em **Pedidos > Todos os pedidos**, você pode buscar pedidos a partir de qualquer página no Admin VTEX usando a barra de busca global no topo da página. Por padrão, a busca está configurada para `Páginas`. Para buscar um pedido, clique sobre a barra, selecione a opção `Pedidos` e utilize algum dos seguintes critérios:
 
@@ -162,7 +162,7 @@ Confira a seguir mais detalhes sobre cada coluna:
 
 ## VTEX DO
 
-![VTEX Do overview PT](https://images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/76b1688496144fe90a8fc65f94a62bef/VTEX_Do_overview_PT.gif)
+![VTEX Do overview PT](//images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/76b1688496144fe90a8fc65f94a62bef/VTEX_Do_overview_PT.gif)
 
 O [VTEX DO](https://help.vtex.com/pt/tutorial/vtex-do--7KMbRL4OslN8DTX9oiuCiu) é um gerenciador de tarefas criadas automaticamente pelo Admin VTEX, que requerem uma ação manual da equipe de ecommerce. 
 

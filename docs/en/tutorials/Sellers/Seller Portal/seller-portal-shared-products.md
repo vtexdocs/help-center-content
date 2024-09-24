@@ -29,7 +29,7 @@ In the Shared Products page you will find two tabs:
 - Available  
 
  ## Imported
- ![Shared products Importados EN](https://images.ctfassets.net/alneenqid6w5/2mmTwK1Kn3g8TPOICMMMk8/00980934a6d88d6aeccc1d1ed66778a2/Shared_products_Importados_EN.jpg)
+ ![Shared products Importados EN](//images.ctfassets.net/alneenqid6w5/2mmTwK1Kn3g8TPOICMMMk8/00980934a6d88d6aeccc1d1ed66778a2/Shared_products_Importados_EN.jpg)
 
 The *Imported* tab displays products from the marketplace catalog that you have already imported and are ready to become offers. This is also where you activate your products. Above the list there is a search bar where you can search for products by name or SKU.  
 
@@ -38,7 +38,7 @@ The first time you access the Seller Portal the *Imported* tab will be empty bec
 When you click on a product in the list, you will be redirected to a page containing the [Product's Details](https://help.vtex.com/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP).
 
 ## Available
-![Shared products Disponíveis EN](https://images.ctfassets.net/alneenqid6w5/1MIr5t82Ncx9ssV5oT2eyw/5511033385ff07608a9eb279f1dae94f/Shared_products_Dispon__veis_EN.jpg)
+![Shared products Disponíveis EN](//images.ctfassets.net/alneenqid6w5/1MIr5t82Ncx9ssV5oT2eyw/5511033385ff07608a9eb279f1dae94f/Shared_products_Dispon__veis_EN.jpg)
 
 The *Available* tab displays products from the marketplace catalog that have been made available to the seller but which have not been added to the their catalog.  You can filter the available products by brand or category to facilitate the import process.
 

@@ -1,10 +1,10 @@
 ---
 title: 'Filters'
 id: 50Dh4mpv0Sax0XpbvsjAtP
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-03-05T17:44:58.362Z
-updatedAt: 2024-06-04T15:34:47.299Z
-publishedAt: 2024-06-04T15:34:47.299Z
+updatedAt: 2024-09-06T20:08:53.644Z
+publishedAt: 
 firstPublishedAt: 2020-03-05T19:54:44.962Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising

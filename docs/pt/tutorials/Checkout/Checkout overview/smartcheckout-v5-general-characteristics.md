@@ -25,7 +25,7 @@ Note que, apesar de estar em um iframe, ainda é possível aplicar CSS normalmen
 
 Em exemplo prático, para ocultar a opção "Pagar usando dois cartões", deve ser usado apenas `.ChangeNumberOfPayments {display: none}`.
 
-![2017-06-22 162341](https://images.contentful.com/alneenqid6w5/5Un86ot46Qg0kwKoUkSioG/fb3cc25e273d68ab27a3ccd2b254eea6/2017-06-22_162341.jpg)
+![2017-06-22 162341](//images.contentful.com/alneenqid6w5/5Un86ot46Qg0kwKoUkSioG/fb3cc25e273d68ab27a3ccd2b254eea6/2017-06-22_162341.jpg)
 
 ### Nova opção de cálculo de frete por geocoordenada
 

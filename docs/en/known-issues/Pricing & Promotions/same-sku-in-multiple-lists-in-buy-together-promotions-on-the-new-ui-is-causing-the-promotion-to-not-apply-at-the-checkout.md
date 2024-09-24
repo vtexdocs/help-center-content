@@ -3,8 +3,8 @@ title: "Same SKU in multiple lists in 'Buy Together' promotions on the new UI is
 id: 4M9UZhQqkU4Tl07lyLPtMt
 status: PUBLISHED
 createdAt: 2024-09-03T10:55:07.063Z
-updatedAt: 2024-09-03T16:20:49.709Z
-publishedAt: 2024-09-03T16:20:49.709Z
+updatedAt: 2024-09-10T12:15:48.590Z
+publishedAt: 2024-09-10T12:15:48.590Z
 firstPublishedAt: 2024-09-03T10:55:07.909Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: same-sku-in-multiple-lists-in-buy-together-promotions-on-the-new-ui-is-causing-the-promotion-to-not-apply-at-the-checkout
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1091209
 ---
 

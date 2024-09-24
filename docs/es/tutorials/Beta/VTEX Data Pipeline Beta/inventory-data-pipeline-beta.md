@@ -3,8 +3,8 @@ title: 'Stock Data Pipeline '
 id: 2IvKMZV9SNrE6ipBRQr8h2
 status: PUBLISHED
 createdAt: 2024-02-02T17:41:24.979Z
-updatedAt: 2024-09-02T19:28:13.286Z
-publishedAt: 2024-09-02T19:28:13.286Z
+updatedAt: 2024-09-13T17:28:37.925Z
+publishedAt: 2024-09-13T17:28:37.925Z
 firstPublishedAt: 2024-05-27T19:26:59.588Z
 contentType: tutorial
 productTeam: Others
@@ -93,3 +93,5 @@ Los datos de stock se correlacionan con los conjuntos de pedidos y productos, y 
 - [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
 - [Precios](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
 - [Promociones](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Tarjeta de regalo](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Registro del Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

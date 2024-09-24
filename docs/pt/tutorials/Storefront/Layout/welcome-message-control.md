@@ -19,7 +19,7 @@ O controle `<vtex.cmc:welcomeMessage/>` renderiza uma mensagem de boas vindas, q
 
 Veja um exemplo na imagem abaixo.
 
-![welcome1](https://images.contentful.com/alneenqid6w5/2z4iyUDAm0muKc4OCOUOa2/9e6f37d39596161bfe1721effdceb692/welcome1.png)
+![welcome1](//images.contentful.com/alneenqid6w5/2z4iyUDAm0muKc4OCOUOa2/9e6f37d39596161bfe1721effdceb692/welcome1.png)
 
 ## Código HTML renderizado
 

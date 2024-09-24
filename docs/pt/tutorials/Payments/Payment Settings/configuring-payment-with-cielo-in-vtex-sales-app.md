@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagamento com Cielo no VTEX Sales App'
 id: 2p8rALKTNojgEl8zKn5BtG
-status: PUBLISHED
+status: CHANGED
 createdAt: 2024-08-16T15:15:25.799Z
-updatedAt: 2024-08-26T12:47:35.631Z
-publishedAt: 2024-08-26T12:47:35.631Z
+updatedAt: 2024-09-24T13:59:36.764Z
+publishedAt: 2024-09-24T13:42:46.499Z
 firstPublishedAt: 2024-08-16T18:22:08.305Z
 contentType: tutorial
 productTeam: Financial
@@ -55,43 +55,41 @@ Os passos a seguir descrevem as configurações mínimas a serem realizadas para
 
 <blockquote><ui>7. Em <b>Controle de pagamento</b>, desative o ambiente de teste ao desmarcar a opção <b>Ativar modo de teste</b>.</ui>
 
-<blockquote><ui>8. Em <b>Liquidação automática</b>, selecione a opção <b>Usar comportamento recomendado pelo processador de pagamentos</b>.</ui>  
+<blockquote><ui>8. Mantenha desmarcada a opção <b>Ativar split de recebíveis e enviar recebedores de pagamento</b>.</ui>   
 
-<blockquote><ui>9. Mantenha desmarcada a opção <b>Ativar split de recebíveis e enviar recebedores de pagamento</b>.</ui>   
+<blockquote><ui>9. Em <b>Integration</b>, selecione a opção <b>Adquirencia</b> (clientes Cielo 3.0) ou <b>Gateway</b> (clientes Braspag).</ui>
 
-<blockquote><ui>10. Em <b>Integration</b>, selecione a opção <b>Adquirencia</b> (clientes Cielo 3.0) ou <b>Gateway</b> (clientes Braspag).</ui>
+<blockquote><ui>10. Em <b>Provider</b>, selecione a opção <b>Cielo</b> (clientes Cielo 3.0) ou <b>Cielo30</b> (clientes Braspag).</ui>
 
-<blockquote><ui>11. Em <b>Provider</b>, selecione a opção <b>Cielo</b> (clientes Cielo 3.0) ou <b>Cielo30</b> (clientes Braspag).</ui>
+<blockquote><ui>11. Em <b>IsSplit</b>, selecione a opção <b>False</b>.</ui>
 
-<blockquote><ui>12. Em <b>IsSplit</b>, selecione a opção <b>False</b>.</ui>
+<blockquote><ui>12. Em <b>useCieloMDR</b>, selecione a opção <b>Not Defined</b>.</ui> 
 
-<blockquote><ui>13. Em <b>useCieloMDR</b>, selecione a opção <b>Not Defined</b>.</ui> 
+<blockquote><ui>13. Em <b>UseMpi</b>, selecione a opção <b>False</b>.</ui> 
 
-<blockquote><ui>14. Em <b>UseMpi</b>, selecione a opção <b>False</b>.</ui> 
+<blockquote><ui>14. Mantenha em branco os seguintes campos: <b>MpiClientId</b>, <b>MpiClientSecret</b>, <b>MpiMerchantName</b>, <b>MpiMCC</b>, <b>MpiEstablishmentCode</b> e <b>SoftDescriptor</b>.</ui>
 
-<blockquote><ui>15. Mantenha em branco os seguintes campos: <b>MpiClientId</b>, <b>MpiClientSecret</b>, <b>MpiMerchantName</b>, <b>MpiMCC</b>, <b>MpiEstablishmentCode</b> e <b>SoftDescriptor</b>.</ui>
+<blockquote><ui>15. Em <b>AntifraudProvider</b>, selecione a opção <b>Not Defined</b>.</ui>  
 
-<blockquote><ui>16. Em <b>AntifraudProvider</b>, selecione a opção <b>Not Defined</b>.</ui>  
+<blockquote><ui>16. Em <b>Antifraud</b>, selecione a opção <b>Not Defined</b>.</ui>   
 
-<blockquote><ui>17. Em <b>Antifraud</b>, selecione a opção <b>Not Defined</b>.</ui>   
+<blockquote><ui>17. Em <b>AntifraudSequenceCriteria</b>, selecione a opção <b>Not Defined</b>.</ui> 
 
-<blockquote><ui>18. Em <b>AntifraudSequenceCriteria</b>, selecione a opção <b>Not Defined</b>.</ui> 
+<blockquote><ui>18. Em <b>Captura</b>, selecione a opção <b>Imediatamente</b>.</ui>   
 
-<blockquote><ui>19. Em <b>Captura</b>, selecione a opção <b>Imediatamente</b>.</ui>   
+<blockquote><ui>19. Em <b>UseVerifyCard</b>, selecione a opção <b>False</b>.</ui>
 
-<blockquote><ui>20. Em <b>UseVerifyCard</b>, selecione a opção <b>False</b>.</ui>
+<blockquote><ui>20. Em <b>AcceptInternationalCard</b>, selecione a opção <b>True</b>.</ui>
 
-<blockquote><ui>21. Em <b>AcceptInternationalCard</b>, selecione a opção <b>True</b>.</ui>
+<blockquote><ui>21. Em <b>AcceptPrePaidCard</b>, selecione a opção <b>True</b>.</ui>
 
-<blockquote><ui>22. Em <b>AcceptPrePaidCard</b>, selecione a opção <b>True</b>.</ui>
+<blockquote><ui>22. Em <b>SaveCard</b>, selecione a opção <b>False</b>.</ui>  
 
-<blockquote><ui>23. Em <b>SaveCard</b>, selecione a opção <b>False</b>.</ui>  
+<blockquote><ui>23. Em <b>CancelRefundType</b>, selecione a opção <b>Automático Sempre que possível</b>.</ui> 
 
-<blockquote><ui>24. Em <b>CancelRefundType</b>, selecione a opção <b>Automático Sempre que possível</b>.</ui> 
+<blockquote><ui>24. Em <b>CieloLIOClientId</b>, preencha a chave da Lio fornecida pela Cielo.</ui>   
 
-<blockquote><ui>25. Em <b>CieloLIOClientId</b>, preencha a chave da Lio fornecida pela Cielo.</ui>   
-
-<blockquote><ui>26. Clique em <b>Salvar</b>.</ui>
+<blockquote><ui>25. Clique em <b>Salvar</b>.</ui>
 
 ## Configurar condição de pagamento
 

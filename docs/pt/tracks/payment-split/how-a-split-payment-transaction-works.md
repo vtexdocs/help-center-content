@@ -60,4 +60,4 @@ Esses mesmos R$ 6,50 serão divididos entre marketplace e adquirente. Como o MDR
 
 Confira o diagrama abaixo:
 
-![Split de pagamento](https://images.ctfassets.net/alneenqid6w5/3D3Lso54Ho1lXbelILxaZO/ed7b92307403f708227bb85f492d0984/Split.png)
+![Split de pagamento](//images.ctfassets.net/alneenqid6w5/3D3Lso54Ho1lXbelILxaZO/ed7b92307403f708227bb85f492d0984/Split.png)

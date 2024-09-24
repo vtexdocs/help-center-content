@@ -41,7 +41,7 @@ Para crear un usuario con el rol de televentas, sigue los pasos a continuación:
 
 7. Haz clic en el botón **Guardar**.
 
-![GIF animado que muestra cómo crear un usuario de televentas](https://images.ctfassets.net/alneenqid6w5/3oF5zuTnHu0Db8EQ2KdPCY/4d432b47fca70a6203a566bbe9d61abc/Adicionar_perfil_ES.gif)
+![GIF animado que muestra cómo crear un usuario de televentas](//images.ctfassets.net/alneenqid6w5/3oF5zuTnHu0Db8EQ2KdPCY/4d432b47fca70a6203a566bbe9d61abc/Adicionar_perfil_ES.gif)
 
 >⚠️ Al crear un [perfil](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evita incluir [recursos](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televentas junto con otros recursos. De lo contrario, puede que el perfil no funcione de forma esperada.
 

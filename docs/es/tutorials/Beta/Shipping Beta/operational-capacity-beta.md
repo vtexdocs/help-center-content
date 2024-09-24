@@ -3,8 +3,8 @@ title: 'Capacidad operativa (Beta)'
 id: 2thSYLMAS8KAd8V4XuBLSy
 status: PUBLISHED
 createdAt: 2023-05-08T18:03:07.644Z
-updatedAt: 2024-04-08T18:59:56.706Z
-publishedAt: 2024-04-08T18:59:56.706Z
+updatedAt: 2024-09-05T17:50:56.209Z
+publishedAt: 2024-09-05T17:50:56.209Z
 firstPublishedAt: 2023-05-09T17:22:57.861Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,9 @@ legacySlug: modulo-localidades
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
->ℹ️ Esta funcionalidad se encuentra en la versión beta, por lo tanto, estamos trabajando para mejorarla. Si deseas utilizar la **Capacidad operativa (Beta)**, completa el [formulario de contacto](https://docs.google.com/forms/d/e/1FAIpQLScgmHPJEnVfd1EK9znevW-bcdxL2WVqzNZdrwri9auKayZDJA/viewform). El requisito para usar la funcionalidad es tener [cuentas franquicia](https://help.vtex.com/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) asociadas a la [cuenta principal](https://help.vtex.com/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-cuenta-vtex).
+>ℹ️ Esta funcionalidad se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarla. Si tienes alguna duda, ponte en contacto con <a href= "https://help.vtex.com/es/support">nuestro Soporte</a>.
+
+>⚠️ El requisito para usar la funcionalidad es tener [cuentas franquicia](https://help.vtex.com/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) asociadas a la [cuenta principal](https://help.vtex.com/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-cuenta-vtex).
 
 La página **Capacidad operativa** permite gestionar la capacidad de los sellers para recibir y preparar pedidos de la tienda, lo que te permite optimizar tu red logística. Puedes monitorear la distribución de pedidos entre los sellers y realizar [acciones](https://help.vtex.com/es/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#acciones-en-la-pagina-de-detalles-del-seller) para mejorarla.
 
@@ -27,7 +29,7 @@ Una buena gestión de la capacidad operativa de los sellers tiene los siguientes
 
 Al acceder a **Envío > Capacidad operativa** en el Admin VTEX, verás una página según se ilustra a continuación:
 
-![operational_capacity_image1_ES](https://images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/defaa51c729689fdd70aa1e00e018d40/operational_capacity_image1_ES.png)
+![operational_capacity_image1_ES](//images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/defaa51c729689fdd70aa1e00e018d40/operational_capacity_image1_ES.png)
 
 >⚠️ Los sellers que aparecen en la interfaz son los sellers de tu operación, configurados previamente por nuestro equipo. Para agregar un nuevo seller, ponte en contacto con [nuestro soporte](https://help.vtex.com/es/support).
 
@@ -117,7 +119,7 @@ En la esquina superior derecha de la página de detalles del seller, hay un bot�
 
 El gráfico **Status de la capacidad operativa** muestra en tiempo real el porcentaje utilizado de la capacidad del seller, como se ilustra a continuación:
 
-![operational_capacity_image2_ES](https://images.ctfassets.net/alneenqid6w5/510RtT3ugOksM3YD5tYSGc/1c6046c4c098cca52060888b61f53fa9/operational_capacity_image2_ES.png)
+![operational_capacity_image2_ES](//images.ctfassets.net/alneenqid6w5/510RtT3ugOksM3YD5tYSGc/1c6046c4c098cca52060888b61f53fa9/operational_capacity_image2_ES.png)
 
 El gráfico muestra los siguientes periodos:
 
@@ -139,7 +141,7 @@ Para editar la dirección o el nombre de identificación del seller en **Capacid
 
 En la sección **Capacidad operativa**, puedes ver la configuración actual de la capacidad operativa del seller para cada día de la semana, como se muestra a continuación:
 
-![operational_capacity_image3_ES](https://images.ctfassets.net/alneenqid6w5/70kbPFFifh8ykCHvIj6vEZ/d4019f9c94ab752050d6387e48b88a5c/operational_capacity_image3_ES.png)
+![operational_capacity_image3_ES](//images.ctfassets.net/alneenqid6w5/70kbPFFifh8ykCHvIj6vEZ/d4019f9c94ab752050d6387e48b88a5c/operational_capacity_image3_ES.png)
 
 Para modificar la configuración, sigue estos pasos:
 

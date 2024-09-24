@@ -20,7 +20,7 @@ internalReference:
 
 Actualmente, el escenario de exhibición de las opciones "Recibir | Retirar" está condicionado a la búsqueda del código postal en cualquiera de las pestañas. Esto significa que, si se busca en la pestaña "Recibir" un código postal que no se atienda en un punto de recogida, la pestaña "Retirar" no se mostrará al usuario.
 
-![Captura de Pantalla 2018-11-21 a las  14.25.40](https://images.ctfassets.net/alneenqid6w5/5kj7LZNmpiMsum4OSUc8mC/575006d7f6b4ad87dbeb60dea57b191c/Captura_de_Tela_2018-11-21_a__s_14.25.40.png)
+![Captura de Pantalla 2018-11-21 a las  14.25.40](//images.ctfassets.net/alneenqid6w5/5kj7LZNmpiMsum4OSUc8mC/575006d7f6b4ad87dbeb60dea57b191c/Captura_de_Tela_2018-11-21_a__s_14.25.40.png)
 
 
 ## Simulación

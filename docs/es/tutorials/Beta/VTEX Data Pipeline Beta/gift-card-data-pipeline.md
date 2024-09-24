@@ -3,8 +3,8 @@ title: 'Tarjeta de regalo Data Pipeline'
 id: 4XAnyc4scy3OG6RdnD7OEf
 status: PUBLISHED
 createdAt: 2024-09-02T18:39:23.356Z
-updatedAt: 2024-09-02T19:22:21.354Z
-publishedAt: 2024-09-02T19:22:21.354Z
+updatedAt: 2024-09-13T17:26:02.029Z
+publishedAt: 2024-09-13T17:26:02.029Z
 firstPublishedAt: 2024-09-02T19:20:54.808Z
 contentType: tutorial
 productTeam: Channels
@@ -64,3 +64,10 @@ El conjunto de datos de tarjetas de regalo se correlaciona con lo siguiente conj
 - **Tarjetas de regalo más usadas:** combinando este modelo de datos con los datos de [pedidos](https://help.vtex.com/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz), es posible entender cómo se están utilizando las tarjetas y monitorear su uso.  
 - **Impacto en las ventas:** de manera similar, al combinar con datos de [pedidos](https://help.vtex.com/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz), es posible evaluar cómo las tarjetas de regalo influyen en las ventas.  
 
+### Conheça outros Conjuntos de dados
+- [Inventário](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
+- [Navegação](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)
+- [Pagamentos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
+- [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)
+- [Promoção](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Logs do Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

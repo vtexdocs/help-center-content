@@ -1,10 +1,10 @@
 ---
 title: 'Regras de merchandising'
 id: 5tBSYXb9EIdePa0MWTnFd0
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-03-05T18:53:37.305Z
-updatedAt: 2024-01-29T17:07:18.414Z
-publishedAt: 2024-01-29T17:07:18.414Z
+updatedAt: 2024-09-06T20:09:38.815Z
+publishedAt: 
 firstPublishedAt: 2020-03-05T19:58:55.021Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -32,7 +32,7 @@ No Admin VTEX, a página **Storefront** > **Intelligent Search** > **Regras de m
 * [Editar regra de merchandising](#editar-regras-de-merchandising)
 * [Excluir regra de merchandising](#excluir-regras-de-merchandising)
 
-![regras-merch-pt](https://images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/725d7d991d98ca633d7efd56ec14a254/regras-merch-pt.PNG)
+![regras-merch-pt](//images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/725d7d991d98ca633d7efd56ec14a254/regras-merch-pt.PNG)
 
 | Coluna | Descrição |
 | - | - |

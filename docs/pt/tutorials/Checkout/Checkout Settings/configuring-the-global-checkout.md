@@ -49,7 +49,7 @@ Dois novos botões devem ser exibidos em seu Checkout:
 - "Não tenho CPF".
 - "Não tenho telefone brasileiro".
 
-![checkoutuniversal1](https://images.contentful.com/alneenqid6w5/5M3l0zai5ii4KiayKG4ooI/9a9d27ea50bb97fd248093a6972748e3/checkoutuniversal1.png)
+![checkoutuniversal1](//images.contentful.com/alneenqid6w5/5M3l0zai5ii4KiayKG4ooI/9a9d27ea50bb97fd248093a6972748e3/checkoutuniversal1.png)
 
 ## Exibindo novos endereços de entrega e fatura
 

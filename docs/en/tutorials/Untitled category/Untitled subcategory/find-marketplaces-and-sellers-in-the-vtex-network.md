@@ -21,7 +21,7 @@ Note that Marketplace Network is a tool that promotes interaction between potent
 
 ## Finding Sellers and Marketplaces
 
-![Marketplace network tour EN](https://images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/146b86b33573496be15b712459570277/Marketplace_network_tour_EN.gif)
+![Marketplace network tour EN](//images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/146b86b33573496be15b712459570277/Marketplace_network_tour_EN.gif)
 To see the list of available marketplaces and sellers, go to *Marketplace > Marketplace Network > Find Sellers / Find Marketplaces*. On both pages, you can search by keyword and filter the list for more exact results, as well as contact potential partners.
 
 ## Contact
@@ -41,7 +41,7 @@ To contact a member:
 >ℹ️ The potential business partner will receive an email with the information you entered. If both parties are interested, the person in charge of the seller or marketplace may contact you and negotiate a marketplace and seller agreement.
 
 ## Store Profile
-![Network profile EN](https://images.ctfassets.net/alneenqid6w5/0F1E1mqf6hD5FLzVGqBA7/17a2b46b39a8fc853755fc91e974b904/Marketplace_store_profile_EN.gif)
+![Network profile EN](//images.ctfassets.net/alneenqid6w5/0F1E1mqf6hD5FLzVGqBA7/17a2b46b39a8fc853755fc91e974b904/Marketplace_store_profile_EN.gif)
 
 1. In the *Marketplace* section of your store, click __Marketplace Network__.      
 2. Click the __Store Profile__ page.      

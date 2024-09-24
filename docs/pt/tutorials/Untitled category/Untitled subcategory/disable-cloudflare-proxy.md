@@ -23,7 +23,7 @@ Para desligar o proxy do CloudFlare (e consequentemente, desativar os serviços 
 
 Observe que, se o proxy estiver ligado, o ícone estará em laranja com o texto __*Proxied*__. Caso contrário, o ícone estará em cinza com o texto __*DNS Only*__.
 
-![Configuração do proxy da Cloudflare](https://images.contentful.com/alneenqid6w5/1pEYEd1KWlH0P97Pgwyb7n/e644144d4c98accd1c24649ac765a7be/DNS_Management.png)
+![Configuração do proxy da Cloudflare](//images.contentful.com/alneenqid6w5/1pEYEd1KWlH0P97Pgwyb7n/e644144d4c98accd1c24649ac765a7be/DNS_Management.png)
 
 É importante notar que o resultado da desabilitação do proxy da CloudFlare pode demorar um pouco para ser observado, pois é necessário que o cache seja renovado.
 

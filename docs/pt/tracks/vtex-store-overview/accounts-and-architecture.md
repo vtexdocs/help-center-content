@@ -27,7 +27,7 @@ Os tipos de conta que existem na VTEX são:
 
 A imagem a seguir é uma visão geral para auxiliar a [escolher entre contas padrão, franquia ou Seller Portal](https://help.vtex.com/pt/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78):
 
-![main_account_franchise_seller_portal_PT](https://images.ctfassets.net/alneenqid6w5/4NfyGbu9eVJFRc6EfCpTHr/dc7b2ca283b2613838a840589bf3b9d3/main_account_franchise_seller_portal_PT.png)
+![main_account_franchise_seller_portal_PT](//images.ctfassets.net/alneenqid6w5/4NfyGbu9eVJFRc6EfCpTHr/dc7b2ca283b2613838a840589bf3b9d3/main_account_franchise_seller_portal_PT.png)
 
 ## Recursos das contas
 
@@ -59,7 +59,7 @@ No entanto, o uso simultâneo de muitas políticas comerciais pode comprometer a
 
 A imagem a seguir é um exemplo de como conta principal, ambiente (subconta), multilojas (lojas) e políticas comerciais estão relacionados:
 
-![multistore_aditional_environment_PT](https://images.ctfassets.net/alneenqid6w5/6XOI59M49L18E99hSDpgWe/c91d697c801dd5fb42e7186e697b2abb/multistore_aditional_environment_PT.png)
+![multistore_aditional_environment_PT](//images.ctfassets.net/alneenqid6w5/6XOI59M49L18E99hSDpgWe/c91d697c801dd5fb42e7186e697b2abb/multistore_aditional_environment_PT.png)
 
 ### Multiloja
 

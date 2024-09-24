@@ -42,7 +42,7 @@ To activate Cartman manually, follow the steps below:
 
 1. Access any of your store's Checkout pages (`https://{accountname}.myvtex.com/checkout/`).
 2. Insira a query string `?cartman=on` no final da URL  (`https://accountname.myvtex.com/checkout?cartman=on`).
-3. In the lower right corner of the screen, click the button <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> to access Cartman.
+3. In the lower right corner of the screen, click the button <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> to access Cartman.
 
 ## Cartman features
 
@@ -56,7 +56,7 @@ To learn more about this tool, check the [Promotion Simulator](https://help.vtex
 
 By accessing the **View cart details** menu, it is possible to check the specific information of each of the selected products in the cart.
 
-![Item detail](https://images.ctfassets.net/alneenqid6w5/1EH9jYZZwOSTcCDKqoQocj/82b5f6305c4ea397b5aaaed9168e6d74/Item_detail.PNG)
+![Item detail](//images.ctfassets.net/alneenqid6w5/1EH9jYZZwOSTcCDKqoQocj/82b5f6305c4ea397b5aaaed9168e6d74/Item_detail.PNG)
 
 ### Add specific items to cart
 
@@ -66,7 +66,7 @@ In **Add items by SKU ID**, new items can be added to the cart according to thei
 - **Quantity of each item**: indication of how many SKU units will be added to the cart.
 - **Seller ID**: identification number of the seller who will deliver the item.
 
-![Add items by SKU ID](https://images.ctfassets.net/alneenqid6w5/3HfuNsrFblpnncoUW2UQl2/969209879fc26ab3ea769e75c8730bda/Add_items_by_SKU_ID.PNG)
+![Add items by SKU ID](//images.ctfassets.net/alneenqid6w5/3HfuNsrFblpnncoUW2UQl2/969209879fc26ab3ea769e75c8730bda/Add_items_by_SKU_ID.PNG)
 
 ### Add random items to cart
 
@@ -80,7 +80,7 @@ In **Add random items**, new items from the store catalog can be added to the ca
 - Seller ID
 - Price range (Price from / Price up to)
 
-![Add random items](https://images.ctfassets.net/alneenqid6w5/3vHoO3Pm1Vnsc2QXYOJMQW/66f12cfd13a5abb0e4e50251a719ccee/Add_random_items.PNG)
+![Add random items](//images.ctfassets.net/alneenqid6w5/3vHoO3Pm1Vnsc2QXYOJMQW/66f12cfd13a5abb0e4e50251a719ccee/Add_random_items.PNG)
 
 ### Define marketing data
 
@@ -92,7 +92,7 @@ In the **Set marketing data option**, you can apply discount coupons to specific
 - **utmi_cp**: internal utm used to define when a certain promotion will be applied, according to the utm described in the order URL. 
 - **Cupom**: discount coupon code to be added to cart.
 
-![Set marketing data](https://images.ctfassets.net/alneenqid6w5/5jutuQsztAkNGjFHdPk27a/03ea65c5ca723df8a38ab99dc78301c5/Set_marketing_data.PNG)
+![Set marketing data](//images.ctfassets.net/alneenqid6w5/5jutuQsztAkNGjFHdPk27a/03ea65c5ca723df8a38ab99dc78301c5/Set_marketing_data.PNG)
 
 To learn more about UTMs and UTMIs, go to [What are utm_source, utm_campaign, and utm_medium](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii#) and [What are the internal UTMs utmi_cp, utmi_pc and utmi_p](https://help.vtex.com/en/tutorial/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p#).
 
@@ -101,7 +101,7 @@ To learn more about UTMs and UTMIs, go to [What are utm_source, utm_campaign, an
 Cartman can be deactivated at any time as required by the merchant. To disable it, follow the steps below:
 
 1. Access any of your store's Checkout pages (`https://{accountname}.myvtex.com/checkout/`).
-2. In the lower right corner of the screen, click the button  <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
+2. In the lower right corner of the screen, click the button  <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
 3. At the bottom of Cartman's menu, click  `Disable Cartman`.
 
 >ℹ️ If you want to reactivate **Cartman**, re-add the query string `?cartman=on` in one of your store's Checkout pages. In this way, the blue icon will be available again in the lower right corner of the page.

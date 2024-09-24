@@ -19,7 +19,7 @@ Na página [Status VTEX](https://status.vtex.com/), você pode acompanhar a esta
 
 Os eventos são reportados pela nossa equipe sempre que nosso sistema automático de monitoramento identifica uma instabilidade nos módulos da plataforma. As manutenções programadas também são comunicadas em detalhes.
 
-![statuspage-1](https://images.ctfassets.net/alneenqid6w5/qECQAjnWxwGH47wzXDv6c/8fc52cd3637d63edbd9963962460e6dc/statuspage-1.png)
+![statuspage-1](//images.ctfassets.net/alneenqid6w5/qECQAjnWxwGH47wzXDv6c/8fc52cd3637d63edbd9963962460e6dc/statuspage-1.png)
 
 Abaixo, você encontra detalhes sobre os elementos da página de status da plataforma VTEX, desenvolvida com a ferramenta [incident.io](https://incident.io/):
 
@@ -41,7 +41,7 @@ A página de status apresenta o botão `Subscribe to updates `no canto superior 
 
 Ao escolher a inscrição por email, você pode optar por receber notificações apenas para impactos em componentes específicos. Para isso, marque a opção **Subscribe to specific components** e, em seguida, marque os componentes a acompanhar.
 
-![statuspage-2](https://images.ctfassets.net/alneenqid6w5/765OraMzYp5UPazSPX8JoP/a5d988626d923d454ef74bb60d7104c4/statuspage-2.png)
+![statuspage-2](//images.ctfassets.net/alneenqid6w5/765OraMzYp5UPazSPX8JoP/a5d988626d923d454ef74bb60d7104c4/statuspage-2.png)
 
 ## Status geral
 
@@ -49,23 +49,23 @@ Nesta seção, você pode visualizar o status geral da plataforma, que pode ser 
 
 Quando problemas ou manutenção estão afetando algum sistema, o componente impactado é apresentado, assim como uma explicação da ocorrência. Veja exemplos a seguir.
 
-![statuspage-3](https://images.ctfassets.net/alneenqid6w5/16vditkk4vdDH5NGhGp7zJ/f464e8250a0b198b4b0d5fd6daafd514/statuspage-3.png)
+![statuspage-3](//images.ctfassets.net/alneenqid6w5/16vditkk4vdDH5NGhGp7zJ/f464e8250a0b198b4b0d5fd6daafd514/statuspage-3.png)
 
-![statuspage-4](https://images.ctfassets.net/alneenqid6w5/6EpVdfEsrlzNk2qQNWDN2b/723008187b05b2c81eba0af564b7514d/statuspage-4.png)
+![statuspage-4](//images.ctfassets.net/alneenqid6w5/6EpVdfEsrlzNk2qQNWDN2b/723008187b05b2c81eba0af564b7514d/statuspage-4.png)
 
-![statuspage-5](https://images.ctfassets.net/alneenqid6w5/46ql2YGxhdGrZwrbhj9oe4/5d64281bddf023076fa17e84671a6cc9/statuspage-5.png)
+![statuspage-5](//images.ctfassets.net/alneenqid6w5/46ql2YGxhdGrZwrbhj9oe4/5d64281bddf023076fa17e84671a6cc9/statuspage-5.png)
 
 ## Status dos sistemas
 
 Nesta seção, é possível verificar, em tempo real, o status de cada sistema da plataforma e de seus componentes.
 
-![statuspage-6](https://images.ctfassets.net/alneenqid6w5/23cxCKAgrYgrHwsGeTWEFM/decc90536636cd0a50086535cb9f3450/statuspage-6.png)
+![statuspage-6](//images.ctfassets.net/alneenqid6w5/23cxCKAgrYgrHwsGeTWEFM/decc90536636cd0a50086535cb9f3450/statuspage-6.png)
 
 Ao clicar na seta <i class="fas fa-chevron-down"></i> ao lado do número de componentes, você pode visualizar o status de componentes específicos de cada sistema.
 
 Se houver uma manutenção agendada para uma data futura, você verá também o botão `Upcoming maintenance scheduled`, ilustrado a seguir. Ao passar o mouse sobre ele, aparece o evento de manutenção agendada, no qual é possível clicar para visualizar o registro dessa ocorrência.
 
-![statuspage-7](https://images.ctfassets.net/alneenqid6w5/01rsFj3g2ZIyQfGvVj1U3F/9e861753a2f77e368d0f32f262d98f26/statuspage-7.png)
+![statuspage-7](//images.ctfassets.net/alneenqid6w5/01rsFj3g2ZIyQfGvVj1U3F/9e861753a2f77e368d0f32f262d98f26/statuspage-7.png)
 
 Os estados possíveis para cada componente são:
 
@@ -123,7 +123,7 @@ Para navegar para meses anteriores, clique na seta `&lt;`.
 
 Para visualizar as ocorrências de um dia específico, passe o mouse sobre a data. Para acessar a página com o registro completo da ocorrência, clique no incidente ou na manutenção listada.
 
-![statuspage-8](https://images.ctfassets.net/alneenqid6w5/2aRBMeTVELfszcFQFpXyUJ/36a4d394c1fb447958eec18ceaa849d3/statuspage-8.png)
+![statuspage-8](//images.ctfassets.net/alneenqid6w5/2aRBMeTVELfszcFQFpXyUJ/36a4d394c1fb447958eec18ceaa849d3/statuspage-8.png)
 
 >⚠️ Se a manutenção agendada durar um período maior que um dia, somente a data de início estará marcada no calendário. É necessário abrir o [registro da manutenção](#registro-de-manutencao-agendada) para ver a data de início e a data de fim.
 
@@ -133,7 +133,7 @@ A seguir, detalhamos as informações disponíveis no [registro de incidente](#r
 
 A página de detalhes do incidente contém as seguintes informações:
 
-![statuspage-9](https://images.ctfassets.net/alneenqid6w5/2jNJB6z7HrvDzQMLi1W4KW/af16c15476205d3a3529d4a434bfdd8d/statuspage-9.png)
+![statuspage-9](//images.ctfassets.net/alneenqid6w5/2jNJB6z7HrvDzQMLi1W4KW/af16c15476205d3a3529d4a434bfdd8d/statuspage-9.png)
 
 * **Título:** título que descreve o incidente.
 * **Status:** cada incidente possui um ciclo definido, em que nossa equipe trabalha para identificar e solucionar os problemas. Conheça um pouco mais sobre cada etapa desse ciclo:
@@ -162,6 +162,6 @@ O registro de manutenção agendada apresenta as mesmas informações dos regist
 
 Veja a seguir exemplos do status e da linha do tempo de uma manutenção agendada.
 
-![statuspage-10](https://images.ctfassets.net/alneenqid6w5/1pf3IU5k6R0pHhC7xLeKu0/a2d673b455bd2ecc8f76745515609e5c/statuspage-10.png)
+![statuspage-10](//images.ctfassets.net/alneenqid6w5/1pf3IU5k6R0pHhC7xLeKu0/a2d673b455bd2ecc8f76745515609e5c/statuspage-10.png)
 
-![statuspage-11](https://images.ctfassets.net/alneenqid6w5/4GtphAcpvUEwKmhl7FuPiU/d54ae87af5467cc94d9978cf5bca6e93/statuspage-11.png)
+![statuspage-11](//images.ctfassets.net/alneenqid6w5/4GtphAcpvUEwKmhl7FuPiU/d54ae87af5467cc94d9978cf5bca6e93/statuspage-11.png)

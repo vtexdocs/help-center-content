@@ -27,7 +27,7 @@ O Kit com componentes baseia-se em um produto kit que possui um SKU que é um 
 
 Por exemplo, o produto kit de nome Colorido é composto por outros 10 SKUs. Cada um com sua quantidade necessária de 1 item de cada SKU para poder compor o KIT.
 
-![](https://images.contentful.com/alneenqid6w5/2zwcLWeIX2kwsiQ0GCYm6G/b11fa6ded4ffb56faed9bc0158e980ae/kitcolorido.png)
+![](//images.contentful.com/alneenqid6w5/2zwcLWeIX2kwsiQ0GCYm6G/b11fa6ded4ffb56faed9bc0158e980ae/kitcolorido.png)
 
 Se cada componente tiver 1 unidade em estoque, o kit estará em estoque, pois depende do estoque cadastrado em cada um de seus componentes.
 

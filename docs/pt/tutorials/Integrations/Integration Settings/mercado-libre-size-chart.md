@@ -1,9 +1,9 @@
 ---
 title: 'Tabela de medidas do Mercado Livre'
 id: 5dCc9IJ83SjllG75BVCWnr
-status: PUBLISHED
+status: CHANGED
 createdAt: 2024-07-23T20:28:35.058Z
-updatedAt: 2024-07-23T21:11:23.954Z
+updatedAt: 2024-09-23T19:29:15.671Z
 publishedAt: 2024-07-23T21:11:23.954Z
 firstPublishedAt: 2024-07-23T21:11:23.954Z
 contentType: tutorial
@@ -43,13 +43,17 @@ Para adicionar a tabela de medidas personalizada, você deve seguir os passos ab
     - __Sem gênero__  
     - __Sem gênero infantil__  
 
-10. No campo __Tamanho principal,__ escolha uma opção de modelo de tabela. Existem cinco modelos diferentes:  
+10. No campo **Tipo de medidas,** escolha uma opção do tipo de medida disponibilizada na planilha. Existem três tipos:
+    - **Medidas corporais**  
+    - **Medidas da peça**  
+    - **Ambas as medidas**  
+12. No campo __Tamanho principal,__ escolha uma opção de modelo de tabela. Existem cinco modelos diferentes:  
     - __BR:__ utiliza os tamanhos padrões de tamanho no Brasil.  
     - __Tamanho da marca:__ utiliza os tamanhos padrões da marca do produto selecionado.  
     - __US:__ utiliza as medidas padrões de tamanho nos Estados Unidos. As medidas podem variar de acordo com o gênero.  
     - __EU:__ utiliza as medidas padrões de tamanho na União Europeia.  
     - __UK:__ utiliza as medidas padrões de tamanho no Reino Unido.  
-11. No campo __Template,__ clique em CSV. Você realizará o download de um template de tabela que precisa ser preenchido conforme as instruções da seção [Preencher o template da Tabela de Medidas](#preencher-o-template-da-tabela-de-medidas).  
+13. No campo __Template,__ clique em CSV. Você realizará o download de um template de tabela que precisa ser preenchido conforme as instruções da seção [Preencher o template da Tabela de Medidas](#preencher-o-template-da-tabela-de-medidas).  
 
 ## Preencher o template da Tabela de medidas
 

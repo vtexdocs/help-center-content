@@ -42,7 +42,7 @@ Below are the main characteristics of triggers:
 
 Before [creating a trigger](#configuring-triggers), it's important to understand that configuring a trigger has four parts, which are explained below.
 
-![trigger](https://images.ctfassets.net/alneenqid6w5/5WbC7SD6aPFqaOHuHWgQoq/7c3bad97c814b7cb52393616ef58fa47/trigger-en.png)
+![trigger](//images.ctfassets.net/alneenqid6w5/5WbC7SD6aPFqaOHuHWgQoq/7c3bad97c814b7cb52393616ef58fa47/trigger-en.png)
 
 ### Action that fires the trigger
 
@@ -118,7 +118,7 @@ In this section, you must set the conditions that will fire the event(s) configu
 
    Select which fields and values are accepted or not for the trigger to be fired.
 
-   ![filters-en](https://images.ctfassets.net/alneenqid6w5/go7XW0mqWsuA4ygwYsoMS/c0d93fda52ba199ee2101c62028d1c33/filters-en.png)
+   ![filters-en](//images.ctfassets.net/alneenqid6w5/go7XW0mqWsuA4ygwYsoMS/c0d93fda52ba199ee2101c62028d1c33/filters-en.png)
 
 >ℹ️ Master Data v1 does not allow the configuration of trigger reattempts, unlike Master Data v2.
 
@@ -138,7 +138,7 @@ In this tab, you must configure the events to be triggered if the record that tr
 
 Sends an email to dynamic (specified in the record) or static recipients. The email content can be customized to include text, HTML, or even URL content. You can also add attachments, and the **Valid tags** field shows how to enter field values in the record.
 
-![send-email-en](https://images.ctfassets.net/alneenqid6w5/KsQUtktQoECEMiKEY6EU8/ed63e14a042e2e8b9ec80cc7303b7f00/send-email-en.png)
+![send-email-en](//images.ctfassets.net/alneenqid6w5/KsQUtktQoECEMiKEY6EU8/ed63e14a042e2e8b9ec80cc7303b7f00/send-email-en.png)
 
 #### Send an email using a VTEX Message Center template
 
@@ -154,7 +154,7 @@ Sends an HTTP request, allowing you to save the response details in Master Data.
 
 Complete the **Request information** section with the request details you want to send. In the **Response action** section, you can indicate how the response details should be saved in Master Data.
 
-![http-request-en](https://images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/63d495ea6217ad26f62c5d1f26b4d299/http-request-en.png)
+![http-request-en](//images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/63d495ea6217ad26f62c5d1f26b4d299/http-request-en.png)
 
 To configure the **Response action**, select the desired data entity and set the corresponding JSON path in the response for each field to be saved.
 

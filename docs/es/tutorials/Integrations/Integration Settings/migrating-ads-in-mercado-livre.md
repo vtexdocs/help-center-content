@@ -39,7 +39,7 @@ Durante la etapa [Registro del conector de Mercado Libre](https://help.vtex.com/
 
 En esta etapa, deberás hacer la equivalencia entre tus anuncios en Mercado Libre y los SKU de tu tienda. Esta información se envía a través de la plantilla de migración.
 
-Primero, descarga la [plantilla de migración](https://assets.ctfassets.net/alneenqid6w5/4tgBiQQeiAQGyys4OAuIGc/1bf6f64f485de43d2329db270c1303de/Planilha_de_Migrac__a__o_de_Anu__ncios_-_Mercado_Livre_BR.xlsx) y usa este archivo como modelo para rellenarla. Esta es la plantilla que rellenarás y enviarás a Mercado Libre.
+Primero, descarga la [plantilla de migración](//assets.ctfassets.net/alneenqid6w5/4tgBiQQeiAQGyys4OAuIGc/1bf6f64f485de43d2329db270c1303de/Planilha_de_Migrac__a__o_de_Anu__ncios_-_Mercado_Livre_BR.xlsx) y usa este archivo como modelo para rellenarla. Esta es la plantilla que rellenarás y enviarás a Mercado Libre.
 
 El producto registrado en VTEX solo se podrá mapear con un anuncio en Mercado Libre. En el caso de los [anuncios Clásicos y Premium](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/2MR2USqcvDGaoAkGNdCfGi), el mismo producto podrá anunciarse en ambos tipos de anuncios, ya que tienen configuraciones separadas.
 

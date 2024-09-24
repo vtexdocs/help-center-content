@@ -22,7 +22,7 @@ O adicional no frete é calculado sobre o valor final do frete, e não sobre o v
 
 O valor da tabela de frete + os demais adicionais ([por peso ou por valor](https://help.vtex.com/pt/tutorial/como-funciona-o-adicional-de-frete)) * o valor cadastrado no campo.
 
-![adicionalfrete3 PT](https://images.ctfassets.net/alneenqid6w5/Q9pu2UYMAEM0gs200yAmw/0442d1b40cba53fb7237b27df323fe08/adicionalfrete3_PT.png)
+![adicionalfrete3 PT](//images.ctfassets.net/alneenqid6w5/Q9pu2UYMAEM0gs200yAmw/0442d1b40cba53fb7237b27df323fe08/adicionalfrete3_PT.png)
 
 Nesse caso, o valor inserido no campo __Valor adicional__, é o valor percentual que será somado ao valor final calculado do frete. Por exemplo: se o frete, com todos seus adicionais já calculados, der R$20,00 e o valor cadastrado no campo Adicional nos Fretes for 10, significa que será acrescentando R$2,00 aos R$20,00 do frete, totalizando R$ 22,00 a ser cobrado ao cliente pelo frete. Essa é uma maneira simples de conseguir uma margem sobre os fretes das compras.
 

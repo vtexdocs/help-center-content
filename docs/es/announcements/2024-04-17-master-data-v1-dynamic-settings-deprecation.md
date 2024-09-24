@@ -33,7 +33,7 @@ El **Campo calculado** era una configuración dentro de los campos de [entidad d
 
 Este tipo de campo, ilustrado a continuación, ya no estará disponible a partir del 17 de junio de 2024. Los campos calculados creados anteriormente dejarán de funcionar en la misma fecha.
 
-![image6](https://images.ctfassets.net/alneenqid6w5/13NWpWtxQGLFfh0ecW4ZV6/981d72dc1c1cc713a12f2be8bb4e1658/image6.png)
+![image6](//images.ctfassets.net/alneenqid6w5/13NWpWtxQGLFfh0ecW4ZV6/981d72dc1c1cc713a12f2be8bb4e1658/image6.png)
 
 ### Editar el valor del campo
 
@@ -41,7 +41,7 @@ Al configurar acciones de triggers, existía la opción de **Editar el valor del
 
 La opción **Editar el valor del campo**, ilustrada a continuación, ya no estará disponible al configurar acciones de triggers a partir del 17 de junio de 2024. Los triggers configurados con esta acción continuarán operativos solo hasta esa fecha.
 
-![image1](https://images.ctfassets.net/alneenqid6w5/2meuBC8t6dnVAfg1YzZnwL/05a36119e4539dec726d1bdea30622d6/image1.png)
+![image1](//images.ctfassets.net/alneenqid6w5/2meuBC8t6dnVAfg1YzZnwL/05a36119e4539dec726d1bdea30622d6/image1.png)
 
 ## ¿Qué se necesita hacer?
 

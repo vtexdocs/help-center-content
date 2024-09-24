@@ -19,7 +19,7 @@ In an ecommerce store, both the interface that users see and interact with, and 
 - **Frontend**: The frontend consists of the visual layer of an application, such as a website's or mobile app's interface. It is through it that users interact with a store. On VTEX, three different technologies can be used to build storefronts: the CMS Portal (Legacy), the Store Framework, and FastStore.
 - **Backend**: The backend is the layer responsible for computing and processing all the data needed to execute the functionalities offered by a given application. On VTEX, the integration and backend application development are done mainly through VTEX IO and VTEX APIs.
 
-![storefront mockup](https://images.ctfassets.net/alneenqid6w5/35wyRHhSz4TC8CRjLQAhFF/9f957800cf3b303a7887421c75fb1f74/image1.png)
+![storefront mockup](//images.ctfassets.net/alneenqid6w5/35wyRHhSz4TC8CRjLQAhFF/9f957800cf3b303a7887421c75fb1f74/image1.png)
 
 In the following sections, we will further explore the key aspects and technologies related to store development on VTEX.
 

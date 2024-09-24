@@ -37,7 +37,7 @@ As configurações gerais apresentam as opções a seguir, relacionadas a [espec
 
 As configurações de filtros apresentam ajustes relacionados aos filtros exibidos para os clientes da sua loja durante a busca:
 
-![Configurações de filtros](https://images.ctfassets.net/alneenqid6w5/mSm3lqR5H5pTn1AVrhYk8/d30c6a13e65de39d0273a014abf55781/configuracoes_de_filtro_pt.png)
+![Configurações de filtros](//images.ctfassets.net/alneenqid6w5/mSm3lqR5H5pTn1AVrhYk8/d30c6a13e65de39d0273a014abf55781/configuracoes_de_filtro_pt.png)
 
 * **Ordenação dos filtros:** ordem em que os filtros serão exibidos na loja. Caso não tenha nenhum filtro selecionado na área, a ordem padrão é alfabética.
 
