@@ -16,7 +16,7 @@ We're so glad you're here! Thanks for being interested.
 
 In some situations, it may be necessary to insert images, GIFs, or videos into an article to help the user understand complex procedures.
 
-To ensure efficient page load times and adhere to GitHub space storage best practices, we set a maximum file size limit of **30 MB**.
+To ensure efficient page load times and adhere to [GitHub space storage best practices](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github), we set a maximum file size limit of **50 MB**.
 
 If you need to use an illustration that exceeds this value, you can compress it using tools such as [ILoveImg](https://www.iloveimg.com/pt) or [FreeConvert](https://www.freeconvert.com/pt), to reduce the final file size. Additionally, you can also adjust the article content to allow the illustration to be split into smaller file sizes.
 
