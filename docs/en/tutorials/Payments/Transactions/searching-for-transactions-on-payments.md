@@ -35,7 +35,7 @@ To return to the original list of transactions, just delete the value previously
 
 In the Orders Management, if you click on a given order, you'll see a page with its main information. There you'll find the link _See transaction details_. Click on it to know more about the order:
 
-![Link transação OMS (EN)](//images.ctfassets.net/alneenqid6w5/2CgW46clF6cSU0uQYGyA4s/7b61faff11c95caab8b01d65e7460c33/Link_transa____o_OMS__EN_.png)
+![Link transação OMS (EN)](https://images.ctfassets.net/alneenqid6w5/2CgW46clF6cSU0uQYGyA4s/7b61faff11c95caab8b01d65e7460c33/Link_transa____o_OMS__EN_.png)
 
 ## Payment TID and Payment ID
 

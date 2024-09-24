@@ -48,7 +48,7 @@ Para configurar una [regla de merchandising](https://help.vtex.com/es/tracks/vte
 
 El Editor visual de reglas de merchandising de VTEX Intelligent Search permite realizar las acciones que se ilustran en la imagen siguiente:
 
-![visual-merch-rules-ES-v2](//images.ctfassets.net/alneenqid6w5/1wQEvrFFEp5ixHPCVtHsxa/717c18f418806f9cda88166167928548/visual-merch-rules-ES-v2.png)
+![visual-merch-rules-ES-v2](https://images.ctfassets.net/alneenqid6w5/1wQEvrFFEp5ixHPCVtHsxa/717c18f418806f9cda88166167928548/visual-merch-rules-ES-v2.png)
 
 <ol class="mv7" type="I">
     <li class="t-body c-on-base mb5 lh-copy">Editar nombre de la regla de merchandising.</li>

@@ -25,7 +25,7 @@ Los productos add-on son soluciones que VTEX ofrece para satisfacer demandas esp
 - **Anunciantes:** marcas que pueden crear campañas de anuncios para promocionar productos en storefronts de tiendas VTEX que tengan esos mismos productos en sus catálogos, incrementando las ventas.
 - **Retailers:** son retailers que tienen tiendas VTEX que pueden ofrecer espacios en sus storefronts para que los anunciantes promocionen sus productos. Estos retailers recibirán una valor por cada clic recibido en anuncios de su tienda.
 
-![vtex_ad_network_sponsored_ES](//images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/bfec823e3960cac69bf878395437cdec/vtex_ad_network_sponsored.png)
+![vtex_ad_network_sponsored_ES](https://images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/bfec823e3960cac69bf878395437cdec/vtex_ad_network_sponsored.png)
 
 ## VTEX Assisted Sales
 

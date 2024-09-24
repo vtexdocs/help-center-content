@@ -35,7 +35,7 @@ Existen dos escenarios en los que se pueden agregar servicios a productos presen
 2. Selecciona la opción de servicio que deseas y haz clic en el botón **Continuar al carrito**.
 3. Una vez finalizado el proceso, podrás ver en tu carrito el servicio seleccionado, con el valor total del pedido.
 
-![Garantia estendida - ES](//images.ctfassets.net/alneenqid6w5/6x9bCRVpOcGLa8bilRpZ7I/700c85400ed179eb7aaeecfd963160ee/Cen_rio_1__T1__-_ES.png)
+![Garantia estendida - ES](https://images.ctfassets.net/alneenqid6w5/6x9bCRVpOcGLa8bilRpZ7I/700c85400ed179eb7aaeecfd963160ee/Cen_rio_1__T1__-_ES.png)
 
 ![Carrinho - ES](//images.ctfassets.net/alneenqid6w5/2w3D5PYdqlPZs4gtGOY0VM/2b1f4c689a2f9ff02705f9e2772c799f/Cen_rio_1__T2__-_ES.png)
 

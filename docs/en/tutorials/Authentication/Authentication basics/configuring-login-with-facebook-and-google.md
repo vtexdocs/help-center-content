@@ -37,7 +37,7 @@ After completing the configuration on Facebook and/or Google, you must configure
 
   You will be redirected to the **Webstore** tab of the **Authentication** page, which lists the login methods available in your store.
 
-  ![List Authentication](//images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/fdb1252e98fd1284278e4c83100ec111/autenticacao-en.png)
+  ![List Authentication](https://images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/fdb1252e98fd1284278e4c83100ec111/autenticacao-en.png)
 3. In the row of the desired login provider, click `Configure`.
 4. Complete the form with the `Client ID` and `Client Secret` from the [previous step](#obtaining-credentials-from-providers) and click `Save`.
 

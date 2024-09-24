@@ -19,7 +19,7 @@ En la plataforma VTEX, tienes la opción de registrar tiendas físicas, franquic
 
 La cuenta franquicia está asociada a una cuenta principal. En el caso de una marca que tenga varias tiendas físicas, franquiciados o representantes, cada uno de ellos puede tener una cuenta franquicia vinculada a la cuenta principal de la marca. Esto les permite entregar los productos vendidos por el ecommerce de la marca.
 
-![diagrama contas v2 - es](//images.ctfassets.net/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/38f2bac55f9150f6049aaa20193aa97e/diagrama_contas_v2_-_es.png)
+![diagrama contas v2 - es](https://images.ctfassets.net/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/38f2bac55f9150f6049aaa20193aa97e/diagrama_contas_v2_-_es.png)
 
 En este artículo, trataremos los siguientes temas:
 

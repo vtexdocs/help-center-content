@@ -26,7 +26,7 @@ That being said, check out the step-by-step on how to set it up:
 1. Enter the __Message Center__.
 2. Click __Templates__.
 
-  ![5NrtBpFRTxInFl4aY2FrVz-en](//images.ctfassets.net/alneenqid6w5/1l0OsDNW7teR6iaGoNgei0/588f1c7842ebdfce815de1890a561264/5NrtBpFRTxInFl4aY2FrVzt-en.png)
+  ![5NrtBpFRTxInFl4aY2FrVz-en](https://images.ctfassets.net/alneenqid6w5/1l0OsDNW7teR6iaGoNgei0/588f1c7842ebdfce815de1890a561264/5NrtBpFRTxInFl4aY2FrVzt-en.png)
 
 3. Click on the __Password Recovery__ template.
 4. Click the __SMS__ tab.

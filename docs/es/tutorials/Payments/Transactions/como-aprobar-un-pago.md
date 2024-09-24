@@ -25,7 +25,7 @@ Se puede hacer esa aprobación manualmente por el OMS de forma simple, conforme 
 2. Haga clic en la transaccione.
 3. Haga clic en el botón __Notificar el pago__.
 
-![NotificarES](//images.ctfassets.net/alneenqid6w5/3IfQ1FNhluYWWgcMUEaUq0/ea25ce5d59b8ff98c593bc9382312f85/NotificarES.png)
+![NotificarES](https://images.ctfassets.net/alneenqid6w5/3IfQ1FNhluYWWgcMUEaUq0/ea25ce5d59b8ff98c593bc9382312f85/NotificarES.png)
 
 **Después de la aprobación del pago, el pedido entrará en el flujo normal de compra.**
 

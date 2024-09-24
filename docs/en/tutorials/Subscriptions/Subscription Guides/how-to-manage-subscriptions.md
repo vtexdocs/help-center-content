@@ -35,7 +35,7 @@ The **Unique Subscriptions** section allows you to:
 - View a **dynamic chart** with the *active*, *canceled* and *all* subscriptions within the selected period. By hovering the cursor over the chart lines, you can see in detail the subscriptions variation per day.
 - **Export subscriptions** within the filtered period by clicking on the button in the upper right corner of the screen.
 
- ![EN Dashboard Assinatura única](//images.ctfassets.net/alneenqid6w5/1UiNoDxKut3m9UUbhDBZoa/5d6af9bbfcc2d46e751050f5c848f206/EN_Dashboard_Assinatura___nica.png)
+ ![EN Dashboard Assinatura única](https://images.ctfassets.net/alneenqid6w5/1UiNoDxKut3m9UUbhDBZoa/5d6af9bbfcc2d46e751050f5c848f206/EN_Dashboard_Assinatura___nica.png)
 
 ### Subscription Orders
 

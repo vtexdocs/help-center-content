@@ -25,7 +25,7 @@ Esta página te permite realizar las siguientes acciones:
 * [Buscar hoja de trabajo](#buscar-hoja-de-trabajo)
 * [Filtrar hojas de trabajo](#filtrar-hojas-de-trabajo)
 
-![pick-pack-ordem-servico-es](//images.ctfassets.net/alneenqid6w5/6mHohZLRFdkoTlltboN2pm/2f8d4456ad29068827c6eea06c74792a/image.png)
+![pick-pack-ordem-servico-es](https://images.ctfassets.net/alneenqid6w5/6mHohZLRFdkoTlltboN2pm/2f8d4456ad29068827c6eea06c74792a/image.png)
 
 Los pedidos se presentan en tarjetas que contienen la siguiente información:
 

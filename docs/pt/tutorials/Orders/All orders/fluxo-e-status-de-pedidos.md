@@ -36,7 +36,7 @@ Há quatro fluxos de pedidos possíveis na VTEX:
 
 ### Fluxo do marketplace
 
-![pedido_marketplace_pt](//images.ctfassets.net/alneenqid6w5/5XrrV8mQNzqESn0XKJHJW7/7916b546cd4e92b0bdddf0e9f4a2ec11/pedido_marketplace_pt.png)
+![pedido_marketplace_pt](https://images.ctfassets.net/alneenqid6w5/5XrrV8mQNzqESn0XKJHJW7/7916b546cd4e92b0bdddf0e9f4a2ec11/pedido_marketplace_pt.png)
 
 O fluxo do marketplace está integrado ao fluxo do seller. Quando um pedido que será entregue por um seller externo (não sendo o seller principal) é finalizado, o fluxo visto pelo marketplace é:
 

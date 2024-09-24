@@ -17,7 +17,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 Es a través de la lista de pedidos de Gestión de Pedidos que el administrador de la tienda puede acompañar las compras concretadas en su tienda. La lista está disponible en la primera pantalla del módulo de __Gestión de pedidos__.
 
-![todosospedidos.es](//images.ctfassets.net/alneenqid6w5/61CuVQRq34KRRF3snvvKaE/f0fefc688ca00abd418c042d01a655da/todosospedidos.es.png)
+![todosospedidos.es](https://images.ctfassets.net/alneenqid6w5/61CuVQRq34KRRF3snvvKaE/f0fefc688ca00abd418c042d01a655da/todosospedidos.es.png)
 
 En la vista predeterminada se muestran todos los pedidos de la tienda desde el más reciente. Usted puede cambiar el orden haciendo clic en el nombre de las columnas, así como buscar o filtrar los pedidos por datos específicos, y también exportar estos datos.
 

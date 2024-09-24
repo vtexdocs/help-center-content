@@ -20,7 +20,7 @@ Después de que su árbol de categorías está establecido, usted ya puede inser
 
 En VTEX, el registro de categorías se realiza en el módulo __Catalog__.
 
-1. En el menú de la topbar de su admin, haga clic en __Catalog__ (si ya no está allí).![Catalog](//images.contentful.com/alneenqid6w5/48wP1cDIw0EwoeOUY8OGWI/8874d5f10e57364c7d78852d5b48aed4/catalog.png)
+1. En el menú de la topbar de su admin, haga clic en __Catalog__ (si ya no está allí).![Catalog](https://images.contentful.com/alneenqid6w5/48wP1cDIw0EwoeOUY8OGWI/8874d5f10e57364c7d78852d5b48aed4/catalog.png)
 2. En las opciones de la pestaña __Cadastro de Productos__, haga clic en __Categoría __.![Categoria](//images.contentful.com/alneenqid6w5/2w0IBMGwik0AGauGA4Eu0G/260db5fed8cca932f10b194a05a5f9c1/Categoria.png)
 
 En la parte izquierda de la pantalla, usted verá el nivel más alto de categorías, que por defecto tiene el nombre __Categorías__. Es dentro de él que vamos a distribuir las categorías de su árbol.

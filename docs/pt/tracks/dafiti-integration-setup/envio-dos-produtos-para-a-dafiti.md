@@ -29,7 +29,7 @@ Para fazer o mapeamento, siga os passos abaixo:
 
 A Dafiti tem valores de referência para determinados atributos de produtos que devem ser levados em consideração durante o mapeamento de produtos.
 
-Para conhecer os valores aceitos pela Dafiti de acordo com cada coluna da planilha de mapeamento, é necessário fazer [download da planilha de consulta da Dafiti](//assets.ctfassets.net/alneenqid6w5/4bNMTdmnYeqwt3n2YJzOEi/c6bad43e85c0c1622a6b53e73e5be3fd/category_tree_export_2021-12-20_16-10-17.xlsx) para a categoria correspondente. Essa planilha será utilizada somente para fins de consulta.
+Para conhecer os valores aceitos pela Dafiti de acordo com cada coluna da planilha de mapeamento, é necessário fazer [download da planilha de consulta da Dafiti](https://assets.ctfassets.net/alneenqid6w5/4bNMTdmnYeqwt3n2YJzOEi/c6bad43e85c0c1622a6b53e73e5be3fd/category_tree_export_2021-12-20_16-10-17.xlsx) para a categoria correspondente. Essa planilha será utilizada somente para fins de consulta.
 
 - [Acessórios](//assets.ctfassets.net/alneenqid6w5/6Nlsbzz25DTtOQRaT4yp3d/bfe2beab9ab08659cc9e12697c22f4c3/Acess_rios_-_ProductCreationTemplate_2022-02-11_143128.xlsx)
 - [Beleza](//assets.ctfassets.net/alneenqid6w5/42GvRkF1nZrJbMoxD1mly8/72d457119b585ce92bf923e891fd7f7d/Beleza_-_ProductCreationTemplate_2022-02-11_143141.xlsx)

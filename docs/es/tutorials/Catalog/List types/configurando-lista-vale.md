@@ -26,7 +26,7 @@ Es necesaria una configuración de SKU con las siguientes características para 
 - El SKU debe tener el precio de R$0,01.
 - El SKU debe ser configurado para generar crédito en vale.
 
-![sku-opção-credito-vale es](//images.ctfassets.net/alneenqid6w5/5jtCFBYaME4muoOKg8eWQE/9f8da92008fd49aa99fc123b8141a0fc/sku-op____o-credito-vale_es.png)
+![sku-opção-credito-vale es](https://images.ctfassets.net/alneenqid6w5/5jtCFBYaME4muoOKg8eWQE/9f8da92008fd49aa99fc123b8141a0fc/sku-op____o-credito-vale_es.png)
 
 ## Configuraciones en el Tipos de Lista
 

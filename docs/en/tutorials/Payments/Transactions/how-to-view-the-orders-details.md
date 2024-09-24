@@ -30,7 +30,7 @@ On the right side there's a box containing the total value of the order, the cus
 
 The ID refers to the transaction on VTEX gateway, and it's part of the URL.
 
-![pci](//images.contentful.com/alneenqid6w5/65oy7tCoAoCMgGIi4CYau6/69e8caa34812349a09014157d0d27e33/pci.png)
+![pci](https://images.contentful.com/alneenqid6w5/65oy7tCoAoCMgGIi4CYau6/69e8caa34812349a09014157d0d27e33/pci.png)
 
 Above this box is a link to the order in the **Orders** module.
 

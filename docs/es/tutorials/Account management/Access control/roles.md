@@ -24,7 +24,7 @@ En la página **Roles** puedes realizar las siguientes acciones:
 * [Editar rol](#editar-rol)
 * [Eliminar rol](#eliminar-rol)
 
-![roles-es](//images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/61435c94a6654fd066e3b0f5f8cd2fd0/roles-es.png)
+![roles-es](https://images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/61435c94a6654fd066e3b0f5f8cd2fd0/roles-es.png)
 
 La página muestra en formato de tabla una lista con todos los roles registrados en la cuenta y su respectiva información: 
 

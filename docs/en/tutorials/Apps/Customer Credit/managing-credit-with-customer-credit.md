@@ -75,7 +75,7 @@ For a small number of registrations, the customer can create accounts one by one
 - Email
 - Credit limit
 
-![CustomerCredit1-EN.png?h=250](//images.ctfassets.net/alneenqid6w5/5nCFYt3M86PvAR6XYQkOjM/3dbfd3dcd28b1f6463be48f237092636/CustomerCredit1-EN.png_h_250)
+![CustomerCredit1-EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/5nCFYt3M86PvAR6XYQkOjM/3dbfd3dcd28b1f6463be48f237092636/CustomerCredit1-EN.png_h_250)
 
 If the database has a large number of accounts, it is best to import a spreadsheet in CSV format. You can download a template in the Accounts section and fill it with the required information. To do this, click on the Import button.
 

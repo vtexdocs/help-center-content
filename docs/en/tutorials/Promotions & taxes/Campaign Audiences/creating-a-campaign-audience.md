@@ -66,7 +66,7 @@ After clicking `Create New Target Audience`, you must follow the instructions be
     * **or:** The campaign audience will consist of customers fitting any target audience.
     * **and:** The campaign audience will consist of customers fitting all the target audiences, summing up all their criteria.
 
-![publico-alvo-e-ou-en](//images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/655312e51c8e30a847cb012d4382de39/en-publico-alvo.gif)
+![publico-alvo-e-ou-en](https://images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/655312e51c8e30a847cb012d4382de39/en-publico-alvo.gif)
 
 ### Define your target audience
 

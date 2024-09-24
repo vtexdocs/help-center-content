@@ -30,7 +30,7 @@ Issues in subscription cycles indicate that an obstacle prevented a subscription
 
 The **Cycles with an issue** tab displays subscription orders with such problems, as illustrated in the image below.
 
-![cicloscomproblema EN](//images.ctfassets.net/alneenqid6w5/5ijnWeUeqRzKWa2agsxK7O/8985fa930def4ec541d9127bc855740d/cicloscomproblema_EN.png)
+![cicloscomproblema EN](https://images.ctfassets.net/alneenqid6w5/5ijnWeUeqRzKWa2agsxK7O/8985fa930def4ec541d9127bc855740d/cicloscomproblema_EN.png)
 
 In this tab, you can manage orders with issues in subscription cycles and retry placing orders manually. For example, when a product is unavailable, you can edit its inventory and then try to order it again.
 

@@ -29,7 +29,7 @@ Siga o passo a passo abaixo para cadastrar uma nova coleção:
 
 A escolha dos produtos que vão compor uma coleção é feita através da criação de um __grupo__. Para isso, basta clicar em __New Group__ dentro da coleção desejada. 
 
-![2019-06-06 16 22 46-Layout](//images.ctfassets.net/alneenqid6w5/1HELFm1eBsSZVpq6EEQQJ4/29c77be34d91e4eac14b7bf3d4597fa4/2019-06-06_16_22_46-Layout.png)
+![2019-06-06 16 22 46-Layout](https://images.ctfassets.net/alneenqid6w5/1HELFm1eBsSZVpq6EEQQJ4/29c77be34d91e4eac14b7bf3d4597fa4/2019-06-06_16_22_46-Layout.png)
 
 Antes de escolher quais produtos farão parte do grupo, como veremos a seguir, é necessário atribuir um nome e especificar o tipo de grupo criado. 
 

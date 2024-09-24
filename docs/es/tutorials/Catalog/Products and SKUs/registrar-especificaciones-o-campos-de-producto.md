@@ -41,7 +41,7 @@ Antes de crear especificaciones, es importante entender que las especificaciones
 
 Tomemos como ejemplo el producto **Televisor**. En __Catálogo > Productos y SKU > Modificar > Especificaciones__, en la imagen que vemos a continuación, se puede ver que el grupo de especificaciones llamado **Características** está asociado a la categoría de televisor. Ese grupo incluye un campo llamado **Pulgadas** y un campo llamado **Rango etario** que son obligatorios.
 
-![especificaciones-es](//images.ctfassets.net/alneenqid6w5/3ZMzwADYCl7QnNomdpGnoH/1dba4d4f967811f7b3f0a22872a2734d/especificaciones-es.PNG)
+![especificaciones-es](https://images.ctfassets.net/alneenqid6w5/3ZMzwADYCl7QnNomdpGnoH/1dba4d4f967811f7b3f0a22872a2734d/especificaciones-es.PNG)
 
 Como se trata de una especificación de producto, la información seleccionada en esa página será válida para todas las variaciones del producto **Televisor**. Estas especificaciones también deben haber sido rellenadas en todos los productos registrados en la misma categoría de televisor porque son campos obligatorios.
 

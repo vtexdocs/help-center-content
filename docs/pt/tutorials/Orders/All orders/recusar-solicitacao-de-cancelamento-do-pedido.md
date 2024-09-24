@@ -30,7 +30,7 @@ Para conferir nosso conteúdo para desenvolvedores, veja [Order canceling improv
 ## Diagrama de cancelamento de pedido recusado
 A imagem a seguir mostra o fluxo de recusa da solicitação de cancelamento de um pedido após a janela para cancelamento:
 
-![order cancel diagram](//images.ctfassets.net/alneenqid6w5/6cGkrOT0G5sEeA3VaHKm4e/8f44049006390f2ef6a699cac00bd9d0/cancel_api_improvements_help_center_PT.png)
+![order cancel diagram](https://images.ctfassets.net/alneenqid6w5/6cGkrOT0G5sEeA3VaHKm4e/8f44049006390f2ef6a699cac00bd9d0/cancel_api_improvements_help_center_PT.png)
 
 Segue a descrição de cada etapa:
 

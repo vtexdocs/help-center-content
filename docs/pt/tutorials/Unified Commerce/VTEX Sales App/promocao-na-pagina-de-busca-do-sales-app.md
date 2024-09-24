@@ -31,5 +31,5 @@ Quando um produto tem múltiplas promoções associadas a ele, o vendedor de uma
 
 A imagem a seguir ilustra uma promoção disponível na Página de Listagem de Produtos (PLP).
 
-![promoção em destaque](//images.ctfassets.net/alneenqid6w5/2YpcrGEb1eHZ0IFeOzvAj4/df0ffa3d54135ee61a63643cc0b6702e/promo__o_em_destaque.png)
+![promoção em destaque](https://images.ctfassets.net/alneenqid6w5/2YpcrGEb1eHZ0IFeOzvAj4/df0ffa3d54135ee61a63643cc0b6702e/promo__o_em_destaque.png)
 

@@ -21,7 +21,7 @@ An assembly option is an [attachment](https://help.vtex.com/en/tutorial/what-is-
 
 In the example below, a store offers multiple assembly options for the Custom Bell product. These options are shown on the product page, where the customer can select the desired options. Depending on the choices, there may be an additional cost for the SKU.
 
-![assembly-option-EN](//images.ctfassets.net/alneenqid6w5/3A5QzqwSI6Z9CZk3EqPrZs/585aace6b147a8107f0f5d03faa5db5f/image.png)
+![assembly-option-EN](https://images.ctfassets.net/alneenqid6w5/3A5QzqwSI6Z9CZk3EqPrZs/585aace6b147a8107f0f5d03faa5db5f/image.png)
 
 You can combine [SKUs](https://help.vtex.com/en/tutorial/what-is-an-sku--1K75s4RXAQyOuGUYKMM68u) to provide assembly options, such as the Bells add-ons Roman or the Bells add-ons 1-3 lines in the example above. If an item is out of stock, it will be shown as unavailable.
 

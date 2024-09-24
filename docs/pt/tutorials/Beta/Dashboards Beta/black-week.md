@@ -27,7 +27,7 @@ Caso você utilize o novo Admin VTEX, para acessá-la, vá para **Dashboards > B
 
 Para ter acesso à pagina, é necessário conter o [recurso](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) *Insights Metrics* com a chave `view_metrics` em seu [perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Sem esse recurso configurado em seu perfil de acesso, você receberá um erro *403 - Não autorizado* ao tentar visualizar a página. 
 
-![Black Week](//images.ctfassets.net/alneenqid6w5/3IM9M6IwfycwTmUzJDEzem/2ce38a00422d16e12016eb0ba58edd9b/Screen_Shot_2022-11-18_at_16.11.09.png)
+![Black Week](https://images.ctfassets.net/alneenqid6w5/3IM9M6IwfycwTmUzJDEzem/2ce38a00422d16e12016eb0ba58edd9b/Screen_Shot_2022-11-18_at_16.11.09.png)
 
 Este artigo inclui as seguintes seções:
 
@@ -47,7 +47,7 @@ A página apoia operação do seu negócio para a black week ao permitir:
 Assista um vídeo para saber mais sobre a página:
 
 <video width="320" height="240" controls>
-  <source src="//videos.ctfassets.net/alneenqid6w5/1f4Q2e1yN2GCJuTqQlegv8/ecc24665257eaf5c1095bb4cc443a871/Screenshare_-_2022-11-18_4_17_34_PM.mp4" type="video/mp4">
+  <source src="https://videos.ctfassets.net/alneenqid6w5/1f4Q2e1yN2GCJuTqQlegv8/ecc24665257eaf5c1095bb4cc443a871/Screenshare_-_2022-11-18_4_17_34_PM.mp4" type="video/mp4">
 </video>
 
 ## Dados

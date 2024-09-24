@@ -30,7 +30,7 @@ Nesta página, você verá o passo a passo de como realizar as configurações g
 É possível adicionar métodos de pagamento que façam sentido para o seu negócio. Basta selecionar os métodos que deseja incluir em sua loja. 
 
 __Exemplo:__ Boleto, Cartão de Débito e Crédito, Crédito da loja. 
-![Configurando lojas B2B - General Settings + Payment Terms](//images.ctfassets.net/alneenqid6w5/7wvxJVXraGTFAheCAp8tGP/96c225444f6aec8c294d0cf836c1ead1/image1.jpg)
+![Configurando lojas B2B - General Settings + Payment Terms](https://images.ctfassets.net/alneenqid6w5/7wvxJVXraGTFAheCAp8tGP/96c225444f6aec8c294d0cf836c1ead1/image1.jpg)
 ## Tabelas de preço
 Você poderá adicionar um padrão de preços das lojas adicionadas. Os valores serão default. Para entender mais sobre a criação de tabelas, acesse [Pricing](https://developers.vtex.com/docs/guides/pricing-overview).
 

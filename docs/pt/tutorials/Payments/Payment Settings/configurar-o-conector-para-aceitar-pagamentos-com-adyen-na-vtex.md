@@ -77,7 +77,7 @@ Em seguida, é só recolher as informações da Adyen para cadastrar na VTEX. Ai
 
 7. Depois destes passos, seu usuário deverá ter sido criado com sucesso. O número 1 (indicado na imagem em vermelho) é o username. Já o número 2 é a senha (password) que deverá ser inserida no ambiente VTEX.
 
-    ![Adyen - Image 2](//images.ctfassets.net/alneenqid6w5/7jtKskh7uYiUuMnI6t7UqJ/ea01c037ad5c541a26fdef50b1a0d4fd/image2.png)
+    ![Adyen - Image 2](https://images.ctfassets.net/alneenqid6w5/7jtKskh7uYiUuMnI6t7UqJ/ea01c037ad5c541a26fdef50b1a0d4fd/image2.png)
 
 8. Envie um e-mail para o suporte da Adyen (suporte@adyen.com) solicitando as habilitações listadas no modelo abaixo:
 

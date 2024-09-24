@@ -23,7 +23,7 @@ Ao acessar o painel Admin, pode ser que sua loja não carregue métricas na **Vi
 - **Período de comparação inadequado:** o período selecionado no canto superior direito do dashboard pode não conter dados de pedidos suficientes para a comparação.
 - **Permissões de acesso insuficientes:** você pode não ter o perfil de acesso necessário para visualizar determinadas informações no dashboard.
 
-![Visão geral - PT](//images.ctfassets.net/alneenqid6w5/29XRCPWPEnqdR79xKebzv/466e5f7f843a9023750b32bb3397adbb/Vis_o_geral_-_PT.png)
+![Visão geral - PT](https://images.ctfassets.net/alneenqid6w5/29XRCPWPEnqdR79xKebzv/466e5f7f843a9023750b32bb3397adbb/Vis_o_geral_-_PT.png)
 
 ## Solução
 Para resolver inconsistências no dashboard inicial do painel administrativo, você pode testar as ações descritas abaixo:

@@ -34,7 +34,7 @@ Alternatively, you can browse to the configuration file from the VTEX Admin home
 
 In the main menu, click on __Checkout__ and then click on the store's gear symbol, as shown in the image below.
 
-![20. inStore Customizations - 1 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/6AXuX4eeuPus1uiuyFcXkp/ce21c3df39b94600d4165f0b357321c0/20._inStore_Customizations_-_1_-_EN.png_h_250)
+![20. inStore Customizations - 1 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/6AXuX4eeuPus1uiuyFcXkp/ce21c3df39b94600d4165f0b357321c0/20._inStore_Customizations_-_1_-_EN.png_h_250)
 
 Then click on the __Code__ tab and finally on the `checkout-instore-custom.js` file, which is in the file list on the right-hand side of the screen.
 

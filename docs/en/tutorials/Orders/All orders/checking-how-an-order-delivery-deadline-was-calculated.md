@@ -23,7 +23,7 @@ Let's say you want to know what criteria the platform used to calculate the deli
 
 First, let's enter the __All Orders__ module to see the order.
 
-![1](//images.ctfassets.net/alneenqid6w5/2tlBnsKXyuMxuCI2U2Ekyi/35c860bb303a575b221fd1662e749867/1.png)
+![1](https://images.ctfassets.net/alneenqid6w5/2tlBnsKXyuMxuCI2U2Ekyi/35c860bb303a575b221fd1662e749867/1.png)
 
 >In the upper right corner, you see the __date in which the order was made__ (MAY 6 2019).
 >And in the bottom of the screen, you see the __order delivery deadline__ (MAY 22 2019).

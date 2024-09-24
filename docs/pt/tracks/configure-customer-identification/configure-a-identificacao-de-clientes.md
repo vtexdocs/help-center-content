@@ -26,7 +26,7 @@ Para escolher quais métodos de identificação você deseja habilitar, acesse o
 
 Na caixa __Login do cliente__, você deve selecionar os métodos de identificação que deseja habilitar.
 
-![21. Configure client identification - 1](//images.ctfassets.net/alneenqid6w5/30Kb57zS5TKV5rHY851Xl2/d15329ea3a76733869ecefd3c861e150/21._Configure_client_identification_-_1.png)
+![21. Configure client identification - 1](https://images.ctfassets.net/alneenqid6w5/30Kb57zS5TKV5rHY851Xl2/d15329ea3a76733869ecefd3c861e150/21._Configure_client_identification_-_1.png)
 
 Você também pode alterar a ordem desses métodos. Para isso, basta arrastá-los, como mostra a imagem abaixo. A ordem dos métodos definida nessa tela determina a ordem em que eles aparecerão para o vendedor no aplicativo. Portanto, o primeiro método será o default.
 

@@ -37,7 +37,7 @@ There are four possible order flows on the VTEX platform:
 
 ### Marketplace flow
 
-![pedido_marketplace_en](//images.ctfassets.net/alneenqid6w5/5XrrV8mQNzqESn0XKJHJW7/315b6d8c70b8631d2be02c4dd659af98/pedido_marketplace_en.png)
+![pedido_marketplace_en](https://images.ctfassets.net/alneenqid6w5/5XrrV8mQNzqESn0XKJHJW7/315b6d8c70b8631d2be02c4dd659af98/pedido_marketplace_en.png)
 
 The marketplace flow is integrated with the seller flow. When an order delivered by an external seller (which is not the main seller) is finalized, this is the flow visible to the marketplace:
 

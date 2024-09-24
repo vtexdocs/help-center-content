@@ -39,7 +39,7 @@ La página **Detalles del anuncio** incluye las siguientes secciones:
 
 ## Encabezado
 
-![Offer details ES cabecalho](//images.ctfassets.net/alneenqid6w5/6XRh7RmJr7rfGUfVHER580/7daa6c6a14fa3f1bdb959526d5f33157/Offer_details_ES_cabecalho.jpg)
+![Offer details ES cabecalho](https://images.ctfassets.net/alneenqid6w5/6XRh7RmJr7rfGUfVHER580/7daa6c6a14fa3f1bdb959526d5f33157/Offer_details_ES_cabecalho.jpg)
 
 El encabezado presenta la información principal del anuncio para su rápida visualización, como imagen, nombre del canal, status, ID en VTEX e ID en el canal. También permite realizar las siguientes interacciones mediante el botón `Editar`:
 

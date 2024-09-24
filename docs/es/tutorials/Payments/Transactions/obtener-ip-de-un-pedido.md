@@ -21,7 +21,7 @@ Para recuperar la IP de un cliente que realizó un pedido en su tienda, basta an
 
 Al abrir una ordén, haga clic en "Ver detalles de la transacción" en la caja de pagos:
 
-![ip pedido1 ES](//images.ctfassets.net/alneenqid6w5/57bJimzndm6e0US0GywG6e/7830e3b7c8b98544013781daacc949d5/ip_pedido1_ES.png)
+![ip pedido1 ES](https://images.ctfassets.net/alneenqid6w5/57bJimzndm6e0US0GywG6e/7830e3b7c8b98544013781daacc949d5/ip_pedido1_ES.png)
 
 Finalmente, la IP se visualiza en la parte superior derecha:
 

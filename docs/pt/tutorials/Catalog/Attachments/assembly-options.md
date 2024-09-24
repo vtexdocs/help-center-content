@@ -21,7 +21,7 @@ Uma Assembly Option é um [anexo](https://help.vtex.com/pt/tutorial/o-que-e-um-a
 
 No exemplo abaixo, uma loja oferece várias Assembly Options para o produto _Custom Bell_. Essas opções são mostradas na página do produto, onde o cliente pode selecionar as opções desejadas. Dependendo das escolhas, pode haver um custo adicional.
 
-![assembly-option-PT](//images.ctfassets.net/alneenqid6w5/3A5QzqwSI6Z9CZk3EqPrZs/4d0d0db168c8a984a69fb6462ccc9084/image.png)
+![assembly-option-PT](https://images.ctfassets.net/alneenqid6w5/3A5QzqwSI6Z9CZk3EqPrZs/4d0d0db168c8a984a69fb6462ccc9084/image.png)
 
 Você pode combinar [SKUs](https://help.vtex.com/pt/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) para oferecer Assembly Options, como o _Bells add-ons Roman_ ou o _Bells add-ons 1-3 lines_ no exemplo acima. Se um item estiver esgotado, ele será exibido como indisponível.
 

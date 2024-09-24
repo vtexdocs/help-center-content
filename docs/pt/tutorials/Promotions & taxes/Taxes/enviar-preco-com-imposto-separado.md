@@ -22,7 +22,7 @@ Para isso, você pode utilizar a configuração de impostos em [__Pricing__](/pt
 Neste artigo, mostraremos como funciona o sistema para estes casos.
 **Cenário 1**: Meu ERP envia o preço já com o IVA para a VTEX, portanto, não preciso fazer o cálculo.
 
-1. Página de Categoria![CATEGORIASINIVA](//images.contentful.com/alneenqid6w5/OAT1GSzx4YUs4iuMKOsiE/61f68ef8a8f6ca0e52db228c53f0ede1/CATEGORIASINIVA.png)
+1. Página de Categoria![CATEGORIASINIVA](https://images.contentful.com/alneenqid6w5/OAT1GSzx4YUs4iuMKOsiE/61f68ef8a8f6ca0e52db228c53f0ede1/CATEGORIASINIVA.png)
 2. Página de Produto![PRODUTOSINIVA](//images.contentful.com/alneenqid6w5/2RW5XMDChOo2SaWWqcGGis/658b27601bff63231565921b5ccf9d48/PRODUCTOSINIVA.png)
 3. Carrinho![CARRINHOSINIVA](//images.contentful.com/alneenqid6w5/6aq95ChS2ke6yeqW8MKYWs/c6c3e4e8368a99a3ab65d0e4f8723fe3/CARRITOSINIVA.png)
 4. Checkout![CHECKOUTSINIVA](//images.contentful.com/alneenqid6w5/KD05AMNlKeEE2kMY2KsKw/e7d845e01d7e758da7395d3183e96461/CHECKOUTSINIVA.png)

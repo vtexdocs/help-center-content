@@ -33,7 +33,7 @@ These may be:
 
 Below, we can see a blueprint of how the concepts of *prices*, *price table* and *context* are related to one another:
 
-![Architecture-EN](//images.ctfassets.net/alneenqid6w5/6e0dbJq89EfPqJTKUiuju8/b0acbc822f1da5c78e100c075831982d/Architecture__2_.svg)
+![Architecture-EN](https://images.ctfassets.net/alneenqid6w5/6e0dbJq89EfPqJTKUiuju8/b0acbc822f1da5c78e100c075831982d/Architecture__2_.svg)
 
 ## Computed price
 

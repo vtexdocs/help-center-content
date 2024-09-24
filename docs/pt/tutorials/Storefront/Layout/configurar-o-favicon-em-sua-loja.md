@@ -21,7 +21,7 @@ Favicon é um pequeno ícone associado a um site. Ele é exibido na aba do naveg
 
 O favicon ajuda os usuários a identificar rapidamente um site quando tem várias abas abertas ou quando estão consultando os favoritos, melhorando a experiência do usuário e reforçar a identidade e a credibilidade de uma marca.
 
-![favicon-pt](//images.ctfassets.net/alneenqid6w5/6RVE5D9e9zbUogXZHvZPNQ/87f53f368630eac930bd32c55043f589/favicon-pt.png)
+![favicon-pt](https://images.ctfassets.net/alneenqid6w5/6RVE5D9e9zbUogXZHvZPNQ/87f53f368630eac930bd32c55043f589/favicon-pt.png)
 
 Para configurar o favicon em lojas CMS Portal Legado, siga as instruções abaixo:
 

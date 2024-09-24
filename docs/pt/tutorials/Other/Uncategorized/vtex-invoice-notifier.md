@@ -15,7 +15,7 @@ legacySlug: vtex-invoice-notifier
 subcategoryId: 54gbzsku02c4bKmgFbp3v3
 ---
 
-![invoice-flow](//images.ctfassets.net/alneenqid6w5/1J8NLy4mw7miEPixtV20G8/80c960a20017f2058209c58681fae862/invoice-flow.svg)
+![invoice-flow](https://images.ctfassets.net/alneenqid6w5/1J8NLy4mw7miEPixtV20G8/80c960a20017f2058209c58681fae862/invoice-flow.svg)
 
 ## Instalação da app - VTEX Invoice Notifier
 

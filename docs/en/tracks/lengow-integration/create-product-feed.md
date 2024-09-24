@@ -32,7 +32,7 @@ To make product updates available to Lengow, you must [configure an XML feed](ht
 
 The feed itself should then be filled in as seen in the image below:
 
-![image2](//images.ctfassets.net/alneenqid6w5/2TuXQFVWgd7liQ7jSxYHDu/c46858cd6a536d3f3290bafe2e105724/image2.png)
+![image2](https://images.ctfassets.net/alneenqid6w5/2TuXQFVWgd7liQ7jSxYHDu/c46858cd6a536d3f3290bafe2e105724/image2.png)
 
 ## Verify XML feed consistency
 

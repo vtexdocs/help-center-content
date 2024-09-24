@@ -26,7 +26,7 @@ Consulta en esta página los pasos para realizar la configuración general de tu
 - __Use modal to switch company:__ esta opción mejorará la experiencia del usuario al facilitar el mantenimiento de las tiendas. 
 - __Clear cart when switching company or logging in:__ al seleccionar esta opción, si cambias de tienda o inicias sesión en otras cuentas se limpiará el carrito automáticamente.
 ## Términos de pago
-![Tiendas B2B - General Settings + Payment Terms](//images.ctfassets.net/alneenqid6w5/7wvxJVXraGTFAheCAp8tGP/2fe3ea82f74231488ec3b9d0d3ce3d57/image1.jpg)
+![Tiendas B2B - General Settings + Payment Terms](https://images.ctfassets.net/alneenqid6w5/7wvxJVXraGTFAheCAp8tGP/2fe3ea82f74231488ec3b9d0d3ce3d57/image1.jpg)
 Puedes agregar medios de pago seleccionándolos según las necesidades de tu negocio.   
 Ejemplo: tarjeta de crédito, débito o pagarés. 
 ## Tablas de precios

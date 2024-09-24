@@ -36,7 +36,7 @@ Para registrar el Sitemap usted deberá de ejecutar las siguientes acciones:
 
 **2. Seleccione la opción de &#8220;Sitemaps&#8221; en el apartado llamado &#8220;Rastreo&#8221;**
 
-****![](//images.contentful.com/alneenqid6w5/4ZbMabhWNO6cWaqOKQauGA/e0a6c544f7990e7203a89c63761ce7ea/image00.png)****
+****![](https://images.contentful.com/alneenqid6w5/4ZbMabhWNO6cWaqOKQauGA/e0a6c544f7990e7203a89c63761ce7ea/image00.png)****
 
 **3. Haga click en el boton &#8220;Añadir o Probar Sitemap&#8221;**
 

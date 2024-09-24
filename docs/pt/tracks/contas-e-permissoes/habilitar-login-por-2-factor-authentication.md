@@ -78,7 +78,7 @@ Para modificar as configurações de verificação em duas etapas:
 
 1. Acesse suas configurações de usuário, clicando no círculo com suas iniciais no canto superior-direito do Admin.
 
-  ![2FA - User Initials - PT](//images.ctfassets.net/alneenqid6w5/3ktWD1KvDLV499l40SxUc2/09b0b09ce0766a877961adaeadb3d273/2FA_-_User_Initials_-_PT.png)
+  ![2FA - User Initials - PT](https://images.ctfassets.net/alneenqid6w5/3ktWD1KvDLV499l40SxUc2/09b0b09ce0766a877961adaeadb3d273/2FA_-_User_Initials_-_PT.png)
 
 2. Clique em **Verificação em 2 passos** para visualizar suas configurações.
 

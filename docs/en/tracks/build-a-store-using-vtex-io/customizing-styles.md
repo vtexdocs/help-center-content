@@ -48,7 +48,7 @@ Let's make some changes to our `style.json` file. We can change the colors a bit
 
 Now, see the results by `linking` our app:
 
-![style-json](//images.ctfassets.net/alneenqid6w5/1S0DU3mL8MxRVleCmUGGol/3594be77ecae98c6c223e04191f95def/style-json.svg)
+![style-json](https://images.ctfassets.net/alneenqid6w5/1S0DU3mL8MxRVleCmUGGol/3594be77ecae98c6c223e04191f95def/style-json.svg)
 
 Success! Now you know how to customize your store's styles.
 

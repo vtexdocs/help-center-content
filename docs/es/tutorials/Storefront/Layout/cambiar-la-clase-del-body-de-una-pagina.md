@@ -23,7 +23,7 @@ Los templates utilizados por los layouts de la tienda, de forma predeterminada, 
 
 Vea, por ejemplo, el código del template Department.
 
-![changeBodyClass1](//images.contentful.com/alneenqid6w5/pbQCDMUz3qO0q4SuwYaq4/7ebd6ca8a0af6cbce899535b83cd719a/changeBodyClass1.jpg)
+![changeBodyClass1](https://images.contentful.com/alneenqid6w5/pbQCDMUz3qO0q4SuwYaq4/7ebd6ca8a0af6cbce899535b83cd719a/changeBodyClass1.jpg)
 
 Tiene un `id`, pero no una `class`.
 

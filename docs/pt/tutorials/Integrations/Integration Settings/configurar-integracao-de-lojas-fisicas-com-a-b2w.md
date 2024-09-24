@@ -23,7 +23,7 @@ Existem duas modalidades de retirada em loja: **Pickup** e **Ship Store**. Nessa
 
 Os pedidos realizados e que utilizam a opção de retirada em loja, quando chegam à VTEX, são atribuídos à conta franquia que possui o ponto de retirada escolhido pelo cliente e o ponto de retirada terá seu estoque modificado.
 
-![fluxocriacaopup](//images.ctfassets.net/alneenqid6w5/1ifP8Kk4uQQu3jW2vuZpPK/32e76d55a97a98461889c3a2d7ee26ec/fluxocriacaopup.JPG)
+![fluxocriacaopup](https://images.ctfassets.net/alneenqid6w5/1ifP8Kk4uQQu3jW2vuZpPK/32e76d55a97a98461889c3a2d7ee26ec/fluxocriacaopup.JPG)
 
 Para criar os pontos de retirada, você vai precisar:
 

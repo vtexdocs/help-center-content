@@ -32,7 +32,7 @@ In [basic settings](#basic-settings), you can configure which sections will appe
 
 In this section, customers can manage their personal data saved in the store. They can [edit their profile information](#edit),[ set a new password](#password), and [choose whether to receive emails with promotions](#newsletter).
 
-![profile EN](//images.ctfassets.net/alneenqid6w5/6LUXeCU09v8EOyMXntPggz/a9f2ca072b2a08cb6cb1bc196b9c9f1e/profile_EN.png)
+![profile EN](https://images.ctfassets.net/alneenqid6w5/6LUXeCU09v8EOyMXntPggz/a9f2ca072b2a08cb6cb1bc196b9c9f1e/profile_EN.png)
 
 ### Edit
 

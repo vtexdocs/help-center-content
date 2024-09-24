@@ -26,7 +26,7 @@ Por padrão, o Cartman já vem habilitado e disponível para uso no Checkout de 
 Para desabilitar o Cartman, siga o passo a passo a seguir:
 
 1. Clique no ícone azul no canto inferior direito da tela
-![cartmantuto1](//images.ctfassets.net/alneenqid6w5/1DWwcldpXDu4fplLm6aLjD/6c588311f60b01e5cd1e76aceb257743/cartmantuto1.PNG)
+![cartmantuto1](https://images.ctfassets.net/alneenqid6w5/1DWwcldpXDu4fplLm6aLjD/6c588311f60b01e5cd1e76aceb257743/cartmantuto1.PNG)
 2. Clique em `Desativar o Cartman` na parte inferior da janela
 ![cartmantuto2](//images.ctfassets.net/alneenqid6w5/pzjFEx27xjbsRc1rWCotI/504771d0251a952769b043d17412250f/cartmantuto2.PNG)
 

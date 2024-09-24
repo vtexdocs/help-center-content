@@ -31,7 +31,7 @@ O consumidor realiza o agendamento por meio de um formulário preparado pela Ind
 
 O fluxo de agendamento percorrido pelo cliente se inicia na escolha da loja física onde ele deseja ser atendido. Na imagem abaixo, vemos apenas uma loja cadastrada. Mas você pode cadastrar quantas lojas físicas desejar.
 
-![indeva1](//images.ctfassets.net/alneenqid6w5/3QXzMhoJN1qYZZ6c8mlfcB/4cf28e34420ac49bfcaa6f78a9b2951a/indeva1.png)
+![indeva1](https://images.ctfassets.net/alneenqid6w5/3QXzMhoJN1qYZZ6c8mlfcB/4cf28e34420ac49bfcaa6f78a9b2951a/indeva1.png)
 
 >ℹ️ É possível também fornecer ao cliente um link que conduz diretamente ao formulário de uma loja física específica. Basta adicionar o ID da loja ao final da URL. Dessa forma, o vendedor pode compartilhar o link de sua loja – por exemplo, por meio de um QR Code ou nas mídias sociais.
 

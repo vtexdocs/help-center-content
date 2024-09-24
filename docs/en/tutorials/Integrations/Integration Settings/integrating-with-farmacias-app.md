@@ -35,7 +35,7 @@ _**Attention**: these fields must be filled out exactly as described above._
 
 The **role** will be: IntegrationProfile-Fulfillment_Oms, IntegrationProfile-Fulfillment_Gateway
 
-![Farmacias1](//images.contentful.com/alneenqid6w5/2rkEOHXVIEk4q8WiOWCsSs/46449655d8c76e01903a29ec6ed5492d/Farmacias1.png)
+![Farmacias1](https://images.contentful.com/alneenqid6w5/2rkEOHXVIEk4q8WiOWCsSs/46449655d8c76e01903a29ec6ed5492d/Farmacias1.png)
 
 Then, click on **Save**.
 

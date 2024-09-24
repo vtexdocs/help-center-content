@@ -42,7 +42,7 @@ Paralelamente, ocorre a otimização de imagens PNG utilizando [pngquant](https:
 
 Por fim, a VTEX entrega o menor arquivo, entre o WebP lossless e o PNG otimizado, conforme ilustrado no diagrama abaixo.
 
-![png-image-compression-pt](//images.ctfassets.net/alneenqid6w5/2i6UAp6HkiWl87Q7SDfIMB/fc5d276c114827f9692cf4b4bf8fd31b/png-image-compression-pt.PNG)
+![png-image-compression-pt](https://images.ctfassets.net/alneenqid6w5/2i6UAp6HkiWl87Q7SDfIMB/fc5d276c114827f9692cf4b4bf8fd31b/png-image-compression-pt.PNG)
 
 ## JPG / JPEG
 

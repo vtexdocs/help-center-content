@@ -25,7 +25,7 @@ A versão beta está aberta para todos que quiserem testar e é só a primeira d
 
 Uma das principais melhorias é a nova forma de selecionar SKUs em massa. Assim, você pode aprovar ou rejeitar todos eles de uma só vez. Alinhado com nosso [Styleguide](https://styleguide.vtex.com/ "Styleguide"), a seleção em massa vai trazer ainda mais agilidade e eficiência para o seu trabalho.
 
-![received-skus-bulk](//images.ctfassets.net/alneenqid6w5/5AoUTuM27q7LhWOOIzbPtT/26c63e97b66a252e570cadf36a8356f2/received-skus-bulk.gif)
+![received-skus-bulk](https://images.ctfassets.net/alneenqid6w5/5AoUTuM27q7LhWOOIzbPtT/26c63e97b66a252e570cadf36a8356f2/received-skus-bulk.gif)
 
 
 

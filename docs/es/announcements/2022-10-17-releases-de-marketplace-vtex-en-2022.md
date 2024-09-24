@@ -29,7 +29,7 @@ Nuestras nuevas funcionalidades permiten a los _marketplaces_:
 
 Ve más allá del ecommerce tradicional con las [novedades de Marketplace de VTEX](https://content.vtex.com/es/2022-marketplace-release/?utm_source=announcement&utm_medium=organic&utm_campaign=2022_marketplace_release).
 
-![capa de blog marketplace 2022](//images.ctfassets.net/alneenqid6w5/6U2cM7UiQOatP0A781yxEk/20f7d7d151a3dbd76d0d69e5858510d0/capa_de_blog.png)
+![capa de blog marketplace 2022](https://images.ctfassets.net/alneenqid6w5/6U2cM7UiQOatP0A781yxEk/20f7d7d151a3dbd76d0d69e5858510d0/capa_de_blog.png)
 
 ## ¿Qué estamos lanzando?
 

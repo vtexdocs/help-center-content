@@ -16,7 +16,7 @@ trackSlugPT: instore-usando-o-app
 
 Na etapa de pagamento do VTEX Sales App, aparecerão as [opções de pagamento que foram configuradas](https://help.vtex.com/pt/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy) na sua loja.
 
-![instore-payment-pt](//images.ctfassets.net/alneenqid6w5/1Kka7eQvf03YXWR5DA2NEJ/fd64b98d229c0079b017f9e926306b13/original_31f07de6-319b-454b-8c64-62dcc8ccc736_Screenshot_20220926-142455_instore.jpg)
+![instore-payment-pt](https://images.ctfassets.net/alneenqid6w5/1Kka7eQvf03YXWR5DA2NEJ/fd64b98d229c0079b017f9e926306b13/original_31f07de6-319b-454b-8c64-62dcc8ccc736_Screenshot_20220926-142455_instore.jpg)
 
 A barra superior da tela de pagamento exibe as opções a seguir:
 

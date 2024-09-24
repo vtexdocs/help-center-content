@@ -20,7 +20,7 @@ Esses casos podem acontecer quando alguma informação no pedido gravou com espa
 Abaixo um caso, onde a __UTM do facebook__ postado em algum local da internet levou o cliente para o site contendo um espaço na URL, o browser trata o espaço com um código "enconding" e deixa seguir o processo normal de navegação e compra no site.
 
 print1 - excel:
-![print1-oms](//images.contentful.com/alneenqid6w5/1VCM1e8XOMO88yCiokKGS2/929622ce8f009c1a6fff007f5225ddce/print1-oms.jpg)
+![print1-oms](https://images.contentful.com/alneenqid6w5/1VCM1e8XOMO88yCiokKGS2/929622ce8f009c1a6fff007f5225ddce/print1-oms.jpg)
 
 print2 - API:
 ![print2-oms](//images.contentful.com/alneenqid6w5/5uxbAw046W4mQuEQWkoEGe/dbd6b801f6706f5e7d57ba32b4df44f6/print2-oms.JPG)

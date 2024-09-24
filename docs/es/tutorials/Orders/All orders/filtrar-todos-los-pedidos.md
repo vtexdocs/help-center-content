@@ -19,7 +19,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 En el módulo **Pedidos**, la página **Todos los pedidos** permite acceder a todos los pedidos de la tienda y buscar utilizando la barra de búsqueda y filtros según se muestra en la imagen a continuación:
 
-![search_bar_ES](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/daa7bf97f15445140cba0433da887aa5/search_bar_ES.png)
+![search_bar_ES](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/daa7bf97f15445140cba0433da887aa5/search_bar_ES.png)
 
 Este artículo explica cómo utilizar estos recursos y se divide en:
 

@@ -36,7 +36,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 
 ### A vista
 
-![pagamento-a-vista es](//images.ctfassets.net/alneenqid6w5/2nH3F7oSW4OMiMQKcoAWeM/a5a96ec62da667f4f853cfc70d2def29/pago-a-vista.png)
+![pagamento-a-vista es](https://images.ctfassets.net/alneenqid6w5/2nH3F7oSW4OMiMQKcoAWeM/a5a96ec62da667f4f853cfc70d2def29/pago-a-vista.png)
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.

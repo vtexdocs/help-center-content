@@ -25,7 +25,7 @@ Para apagar uma pasta do CMS, siga os passoa abaixo:
 3. Clique no website desejado e depois na pasta raiz (/).
 4. Na linha da pasta que você deseja apagar, clique em __delete__.
 
-![erroDeletarPasta2](//images.contentful.com/alneenqid6w5/5LV3bGobResaCycAs4e4oS/0644cad6454dd3d6c0beb1eb8afc1da8/erroDeletarPasta2.png)
+![erroDeletarPasta2](https://images.contentful.com/alneenqid6w5/5LV3bGobResaCycAs4e4oS/0644cad6454dd3d6c0beb1eb8afc1da8/erroDeletarPasta2.png)
 
 >❗ Algumas pastas são obrigatórias. Sua loja não funcionará corretamente sem elas. Outras são importantes, portanto não é uma boa ideia apagá-las.
 >

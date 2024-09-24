@@ -27,7 +27,7 @@ A nova experiência de Cupons oferece os seguintes recursos:
 
 A nova [Lista de cupons](https://help.vtex.com/pt/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ) exibe todos os cupons cadastrados na sua loja, possibilitando gerenciar seus dados e analisar em quais pedidos foram utilizados.
 
-![listacupons pt](//images.ctfassets.net/alneenqid6w5/2uuixGwgV7WgvGhpwZnQiM/a883b91403037b62476bb53c0b905ad3/listacupons_pt.gif)
+![listacupons pt](https://images.ctfassets.net/alneenqid6w5/2uuixGwgV7WgvGhpwZnQiM/a883b91403037b62476bb53c0b905ad3/listacupons_pt.gif)
 
 ### Acesso mais fácil aos códigos de cupom
 

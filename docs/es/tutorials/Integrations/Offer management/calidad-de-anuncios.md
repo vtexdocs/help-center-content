@@ -21,7 +21,7 @@ Es importante para la operación del marketplace que haya criterios de calidad p
 
 **Calidad de anuncios** es la página donde los marketplaces registran y gestionan los grupos de requisitos aplicados al proceso de catalogación de SKU recibidos. Para accederla, en su VTEX Admin, haz clic en **Marketplace > Calidad de anuncios**, o escriba __"Calidad del anuncio"__ en la barra de búsqueda.
 
-![ES offer quality](//images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/890bb24504e8f6b809cd318fb85ed53a/ES_offer_quality.png)
+![ES offer quality](https://images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/890bb24504e8f6b809cd318fb85ed53a/ES_offer_quality.png)
 
 Con este tutorial, sepa cómo:
 

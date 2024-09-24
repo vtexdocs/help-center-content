@@ -25,7 +25,7 @@ In this article you will find the primary method for getting the orders you rece
 
 An order integration comprises four moments, each one being a small process in itself.
 
-![ERP Orders 1](//images.contentful.com/alneenqid6w5/7MtCGP7jpKOO2gKa8muGwO/481c6346e0d216f1cbe0588dc79eb617/ERP_Orders_1.png) 
+![ERP Orders 1](https://images.contentful.com/alneenqid6w5/7MtCGP7jpKOO2gKa8muGwO/481c6346e0d216f1cbe0588dc79eb617/ERP_Orders_1.png) 
 
 # Order integration steps
 

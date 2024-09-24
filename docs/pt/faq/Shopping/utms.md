@@ -24,7 +24,7 @@ Para que as **UTMS** configuradas funcionem corretamente, é necessário que **
 2 - utm\_medium.  
 3 - utm\_campaign.
 
-![UTMs1](//images.ctfassets.net/alneenqid6w5/3rxDnnXLJN8HFAeoDaD7Dz/5ef0ebc8475ef92c049fd998ff0e6f96/UTMs1.png)
+![UTMs1](https://images.ctfassets.net/alneenqid6w5/3rxDnnXLJN8HFAeoDaD7Dz/5ef0ebc8475ef92c049fd998ff0e6f96/UTMs1.png)
 
 Abaixo um exemplo de como o link deve ficar e como aparecerá no **RD Station**: 
 

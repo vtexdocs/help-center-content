@@ -31,7 +31,7 @@ Os conceitos de [Marketplace e Seller](https://help.vtex.com/pt/tutorial/estrate
 
 ## Fluxo do pedido no Marketplace
 
-![Screen Shot Fluxo de Marketplace](//images.ctfassets.net/alneenqid6w5/51d58fXMpuxCTqFCyLkdaV/21d945a4e3d519e1500a8b73f7c24c02/Screen_Shot_Fluxo_de_Marketplace.png)
+![Screen Shot Fluxo de Marketplace](https://images.ctfassets.net/alneenqid6w5/51d58fXMpuxCTqFCyLkdaV/21d945a4e3d519e1500a8b73f7c24c02/Screen_Shot_Fluxo_de_Marketplace.png)
 
 Ocorre quando a loja atua apenas como Marketplace no pedido. Ou seja, quando a loja vende produtos de outra loja - seu Seller.
 

@@ -33,7 +33,7 @@ O módulo Layout abrange a home, catálogo (busca, categorias e produtos), landi
 2. Acesse **Sites and channels**.
 3. Acesse o website desejado.
 4. Abra a pasta raiz do website.
-![instrução CMS -pt](//images.ctfassets.net/alneenqid6w5/1lAXv0QTpq4YOSg2cu86Yi/5e6c2e3cfe424806118b20a9ef5e7b7b/CMS_instru____o.png)
+![instrução CMS -pt](https://images.ctfassets.net/alneenqid6w5/1lAXv0QTpq4YOSg2cu86Yi/5e6c2e3cfe424806118b20a9ef5e7b7b/CMS_instru____o.png)
 5. A tela que foi aberta apresenta todas as pastas que estão no primeiro nível do site. Para cada pasta pertinente, clique em **Edit** - para a home, considere o botão do topo;
 ![CMS edit PT](//images.ctfassets.net/alneenqid6w5/1kHZcohcNawW2AEU6sKAAC/834bb139945132df8e23bd0b8dc9360f/edit_CMS.png)
 6. Na caixa de seleção **Protocol**, selecione a opção **HTTPS**;

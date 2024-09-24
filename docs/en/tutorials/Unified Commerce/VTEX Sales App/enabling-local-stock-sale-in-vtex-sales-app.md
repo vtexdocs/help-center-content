@@ -73,7 +73,7 @@ You will need to select a sales associate from the store where you want to test 
 1. With a [sales associate selected](https://help.vtex.com/en/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), open Sales App and log in.
 2. Search for an item that exists in the franchise account warehouse. The item should display the available quantity that corresponds to the seller inventory.
 
-![instore-pdp-en](//images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/064cb3f0b499da4533cacdbea0fee4eb/image.png)
+![instore-pdp-en](https://images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/064cb3f0b499da4533cacdbea0fee4eb/image.png)
 
 >ℹ️ If you enabled Infinite inventory, the item quantity will display as a number greater than one million, which can't be changed when a sale is completed.
 

@@ -21,7 +21,7 @@ Para realizar a integração, utilize uma das duas formas abaixo:
 
 1. No dashboard, clique em **Ver todas integrações** e em **SharpSrpring**.
 
-   ![SharpSpring_1](//images.ctfassets.net/alneenqid6w5/3GAphuPmnfRLWSwUj6kf2t/9b3a07ed03a91a5c7b56cbf813fd31b8/SharpSpring_1.png)
+   ![SharpSpring_1](https://images.ctfassets.net/alneenqid6w5/3GAphuPmnfRLWSwUj6kf2t/9b3a07ed03a91a5c7b56cbf813fd31b8/SharpSpring_1.png)
 
 2. Acesse **Configurações > Integrações > Marketing > Habilitar**.
 

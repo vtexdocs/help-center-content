@@ -25,7 +25,7 @@ Esta página permite que você realize as seguintes ações:
 * [Buscar ordem de serviço](#buscar-ordem-de-servico)
 * [Filtrar ordens de serviço](#filtrar-ordem-de-servico)
 
-![pick-pack-ordem-servico-pt](//images.ctfassets.net/alneenqid6w5/6mHohZLRFdkoTlltboN2pm/0d7875431b5940b7d94bcc7d156c4d7c/image.png)
+![pick-pack-ordem-servico-pt](https://images.ctfassets.net/alneenqid6w5/6mHohZLRFdkoTlltboN2pm/0d7875431b5940b7d94bcc7d156c4d7c/image.png)
 
 As ordens de pedido são apresentadas em cartões contendo as seguintes informações: 
 

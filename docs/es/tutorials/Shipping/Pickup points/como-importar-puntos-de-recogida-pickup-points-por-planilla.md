@@ -17,7 +17,7 @@ subcategoryId: 1c5Btie9ou2Gg2iUo0ggqM
 
 Los puntos de recogida, también conocidos como pickup points, son parte importante de cualquier estrategia [omnichannel](/es/announcement/cambie-su-negocio-con-la-experiencia-omnichannel-vtex).
 
-Puede [configurar puntos de recogida uno a uno](/es/tutorial/configurar-puntos-de-recogida-pickup-points) o hacer esto mediante la importación de una planilla XLS [(como la de este ejemplo)](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Usando un archivo XLS, usted registra todos los pickup points de una sola vez (siempre que no supere los 10 MB).
+Puede [configurar puntos de recogida uno a uno](/es/tutorial/configurar-puntos-de-recogida-pickup-points) o hacer esto mediante la importación de una planilla XLS [(como la de este ejemplo)](https://assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Usando un archivo XLS, usted registra todos los pickup points de una sola vez (siempre que no supere los 10 MB).
 
 >ℹ️ Un archivo XLS de **10 MB** permite el registro de, aproximadamente, **50 mil** puntos de recogida. Para importar un número mayor, es necesario dividirlos en más de una planilla y hacer un upload a la vez.
 

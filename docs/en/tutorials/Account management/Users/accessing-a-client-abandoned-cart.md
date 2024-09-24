@@ -29,7 +29,7 @@ Viewing these fields is very simple. Once logged in to your store Admin, just fo
 
 1. In the Admin sidebar, click __Master Data__;
 
-  ![Carrinho Abandonado - 1 - EN](//images.ctfassets.net/alneenqid6w5/4GdZSkwtm9f76BIVFnC65D/4e22ff4da9abc1b692ee236082a1c85d/4GdZSkwtm9f76BIVFnC65D_Masterdata_EN.jpg)
+  ![Carrinho Abandonado - 1 - EN](https://images.ctfassets.net/alneenqid6w5/4GdZSkwtm9f76BIVFnC65D/4e22ff4da9abc1b692ee236082a1c85d/4GdZSkwtm9f76BIVFnC65D_Masterdata_EN.jpg)
 
 2. Click the __Profile System__ Settings icon (gear);
 

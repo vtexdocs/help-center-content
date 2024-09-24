@@ -19,7 +19,7 @@ announcementSynopsisPT: 'Possibilidade de limitar perfis de acesso a tela Config
 
 Buscando garantir maior segurança, criamos a possibilidade de limitar perfis de acesso a tela de **Configurações** do módulo Gerenciamento de Pedidos, permitindo que somente alguns usuários editem as informações.
 
-![2019-06-07 17 23 36-Configurações.pt](//images.ctfassets.net/alneenqid6w5/45magq14vJ6nY1opKENj62/f7f22017b6c4fb359d5d0a0211669401/2019-06-07_17_23_36-Configura____es.pt.png)
+![2019-06-07 17 23 36-Configurações.pt](https://images.ctfassets.net/alneenqid6w5/45magq14vJ6nY1opKENj62/f7f22017b6c4fb359d5d0a0211669401/2019-06-07_17_23_36-Configura____es.pt.png)
 
 ## Principais Vantagens
 

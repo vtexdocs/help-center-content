@@ -28,7 +28,7 @@ El objetivo de este artículo es mostrar cómo el cliente de su tienda debe hace
 
 Al hacer clic en un enlace para autenticarse, el cliente verá la pantalla de login.
 
-![vtex-id-pt](//images.ctfassets.net/alneenqid6w5/32ihh602XeY6WyECG6YkwG/f856e8dbe763a72e566f65a00c45be6c/vtex-id-en.png)
+![vtex-id-pt](https://images.ctfassets.net/alneenqid6w5/32ihh602XeY6WyECG6YkwG/f856e8dbe763a72e566f65a00c45be6c/vtex-id-en.png)
 
 Hay tres formas estándar de entrar en una tienda VTEX:
 

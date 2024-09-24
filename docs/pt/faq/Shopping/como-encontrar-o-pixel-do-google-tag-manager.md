@@ -16,7 +16,7 @@ legacySlug: como-encontrar-o-pixel-do-google-tag-manager
 
 Faça login no Gerenciador de [tags do Google](https://www.google.com/intl/pt-BR/tagmanager/).
 
-![Gerenciador de Tags Google](//images.ctfassets.net/alneenqid6w5/6LoAdO0EywCYPEraFxwKb5/4e29b0762d74cc540d81c9fb6b64ef2a/Gerenciador_de_Tags_Google.png)
+![Gerenciador de Tags Google](https://images.ctfassets.net/alneenqid6w5/6LoAdO0EywCYPEraFxwKb5/4e29b0762d74cc540d81c9fb6b64ef2a/Gerenciador_de_Tags_Google.png)
 
 Na opção **Contâiner ID**, você encontrará o código. Copie-o.
 

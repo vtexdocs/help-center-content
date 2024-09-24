@@ -33,7 +33,7 @@ To add specifications, your store already needs to have departments, categories,
 7. Fill out the specification form fields. For more info on each field, access our article on [how to fill out product specification fields](https://help.vtex.com/en/tutorial/creating-a-product-field--tutorials_106).
 8. Click on **Save**.
 
-![EN.1novo](//images.ctfassets.net/alneenqid6w5/2dF0ogtrRK8JwAfpklyJ7I/2ff6abcfd3e119739d8d383524b6305b/EN.1novo.gif)
+![EN.1novo](https://images.ctfassets.net/alneenqid6w5/2dF0ogtrRK8JwAfpklyJ7I/2ff6abcfd3e119739d8d383524b6305b/EN.1novo.gif)
 
 The following steps will let you add specification values:
 

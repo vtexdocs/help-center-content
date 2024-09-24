@@ -36,7 +36,7 @@ Al principio del proyecto, antes de que cualquier producto sea insertado en la p
 
 Este, por lo tanto, podría ser el diseño inicial del árbol de categorías de su tienda:
 
-![ArbolCategorias](//images.contentful.com/alneenqid6w5/5PafF9e7i84ik0KGG6gAe8/e5b88d15993ef729b6f55c3b73b3ba93/ArbolCategorias.png)
+![ArbolCategorias](https://images.contentful.com/alneenqid6w5/5PafF9e7i84ik0KGG6gAe8/e5b88d15993ef729b6f55c3b73b3ba93/ArbolCategorias.png)
 
 __OBS__: la nomenclatura __Departamento / Categoría / Subcategoría__ es solamente una manera de ver su árbol, y que puede o no facilitar su trabajo. La plataforma no requiere este o cualquier otro patrón de nomenclatura. Para VTEX, los niveles que se crean para la distribución de sus productos sólo se toman como niveles de categoría.
 

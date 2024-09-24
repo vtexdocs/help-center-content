@@ -28,7 +28,7 @@ Existen tres formas de agregar un valor extra sobre el flete: valor adicional po
 
 El valor adicional por precio se calcula a partir del precio del producto. Se define un porcentaje que se aplicará al precio de este, y ese valor resultante se agrega al valor del flete inicialmente calculado.
 
-![adicionalfrete1 ES](//images.ctfassets.net/alneenqid6w5/7iLxQxdxAWMcm22yieiyc0/310afec9d0940032a726e33b47e490d4/adicionalfrete1_ES.png)
+![adicionalfrete1 ES](https://images.ctfassets.net/alneenqid6w5/7iLxQxdxAWMcm22yieiyc0/310afec9d0940032a726e33b47e490d4/adicionalfrete1_ES.png)
 
 En el caso anterior, el valor de los productos totaliza $ 80,00 y el valor registrado como __Valor adicional__ es de 10%. Es así que, el valor calculado que se agrega al valor del flete es de $ 8,00. La suma del valor final del flete y el valor adicional es de $18,00.
 

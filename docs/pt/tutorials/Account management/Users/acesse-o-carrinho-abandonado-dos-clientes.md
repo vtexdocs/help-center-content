@@ -29,7 +29,7 @@ Visualizar esses campos é bem simples. Uma vez logado no Admin da sua loja, bas
 
 1. Clique em __Master Data__
 
-  ![Carrinho Abandonado - 1 - PT](//images.ctfassets.net/alneenqid6w5/4GdZSkwtm9f76BIVFnC65D/deed48c41ae2ab64a4aa53c1b53d1962/4GdZSkwtm9f76BIVFnC65D_Masterdata_PT.jpg)
+  ![Carrinho Abandonado - 1 - PT](https://images.ctfassets.net/alneenqid6w5/4GdZSkwtm9f76BIVFnC65D/deed48c41ae2ab64a4aa53c1b53d1962/4GdZSkwtm9f76BIVFnC65D_Masterdata_PT.jpg)
 
 2. Clique no ícone de Configurações (engrenagem) de __Profile System__
 

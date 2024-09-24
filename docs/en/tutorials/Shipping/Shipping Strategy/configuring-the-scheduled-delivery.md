@@ -29,7 +29,7 @@ On **Inventory & shipping**, access **Dashboard** and select the desired **Carri
 Then on **Shipping method**, click on **Scheduled Delivery**.
 
 
-![entrega-agendada en](//images.ctfassets.net/alneenqid6w5/5o3hYPSCha8IuYs2QOIgIc/09756c4259fc66808dafd6ce07e39eb8/entrega-agendada_en.png)
+![entrega-agendada en](https://images.ctfassets.net/alneenqid6w5/5o3hYPSCha8IuYs2QOIgIc/09756c4259fc66808dafd6ce07e39eb8/entrega-agendada_en.png)
 For a better understandment about this sectin fields fulfillments, check out our document on how to [register a carrier](http://help.vtex.com/en/tutorial/registering-a-carrier).
 
 In this area, we have the following data:

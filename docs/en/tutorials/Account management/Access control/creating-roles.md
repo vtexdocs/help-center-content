@@ -42,7 +42,7 @@ To start using a predefined role, follow the instructions below:
 
     For example, the **Call center operator** profile has a _Catalog_ product resource that allows operations to be carried out in a store on behalf of a customer and an _OMS_ resource that allows verifying an order status:
 
-    ![New role saved](//images.ctfassets.net/alneenqid6w5/5biL3DriciSnHKbgHvV2PE/a4452a13454d847c991800db970f0a7e/New_role_saved.png)
+    ![New role saved](https://images.ctfassets.net/alneenqid6w5/5biL3DriciSnHKbgHvV2PE/a4452a13454d847c991800db970f0a7e/New_role_saved.png)
 
     Learn more about the available predefined roles and their associated resources in [Predefined roles](https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy).
 4. Add admin users to the role by entering the user email address in **Add users to this role** and click `Add`.

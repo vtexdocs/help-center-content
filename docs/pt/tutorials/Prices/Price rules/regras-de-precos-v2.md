@@ -20,7 +20,7 @@ As funcionalidades descritas neste artigo ainda não estão disponíveis para to
 
 Uma regra de preço é um modificador do preço-base cadastrado na tela Lista de preços.
 
-![new-dashboard-pricing-pt](//images.contentful.com/alneenqid6w5/1iEFJLw3xuKGiQS0W02cgm/5bcf2a65612a2fed4754352a7093dee8/new-dashboard-pricing-pt.gif)
+![new-dashboard-pricing-pt](https://images.contentful.com/alneenqid6w5/1iEFJLw3xuKGiQS0W02cgm/5bcf2a65612a2fed4754352a7093dee8/new-dashboard-pricing-pt.gif)
 
 ## Como funciona
 

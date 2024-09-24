@@ -21,7 +21,7 @@ In the tab *Shipping strategy* you can register your logistics route, including 
 The new features on the **Shipping policy** registration page give you more flexibility when setting up your delivery strategy. In the previous version, there was the section *Time setup*, in which you could select the *Working hours*, *Cut-off times* or *Scheduled Delivery* for a carrier. 
 
 **Previous version**
-![EN Configurações de tempo versão antiga](//images.ctfassets.net/alneenqid6w5/2n9RGrhtYEYrGsnsBN3Qlj/5c6dfcad4a2511c33c6f2a5a0f0d358a/EN_Configura____es_de_tempo_vers__o_antiga.jpg)
+![EN Configurações de tempo versão antiga](https://images.ctfassets.net/alneenqid6w5/2n9RGrhtYEYrGsnsBN3Qlj/5c6dfcad4a2511c33c6f2a5a0f0d358a/EN_Configura____es_de_tempo_vers__o_antiga.jpg)
 
 In the new version, we’ve:  
 - Changed option names to make it more clear to users.  

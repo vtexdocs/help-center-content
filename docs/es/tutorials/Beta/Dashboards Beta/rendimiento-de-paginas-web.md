@@ -23,7 +23,7 @@ El dashboard Rendimiento de las páginas web incorpora la herramienta [PageSpeed
 
 Aunque el _dashboard_ Rendimiento de las páginas web ofrece las mismas funcionalidades que PageSpeed Insights de Google, los comerciantes pueden agregar varias URL y hacerles un seguimiento constante únicamente en el Admin VTEX. 
 
-![Web page performance Dash ES](//images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/32c901997b6a96b00b197ce99d2dd146/Screen_Shot_2022-06-29_at_15.47.04.png)
+![Web page performance Dash ES](https://images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/32c901997b6a96b00b197ce99d2dd146/Screen_Shot_2022-06-29_at_15.47.04.png)
 
 ## ¿Por qué deberías hacer un seguimiento del rendimiento de una página web?
 

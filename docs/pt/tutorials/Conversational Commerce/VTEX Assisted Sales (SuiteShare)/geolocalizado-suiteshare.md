@@ -27,7 +27,7 @@ Uma empresa que possui lojas em vários cidades (Ex: São Paulo, Rio de Janeiro,
 
 Para começar você deve ter [criado os links](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB)  que serão utilizados no seu atendimento e um link âncora.  Depois de ter criado os links no painel do VTEX Assisted Sales (SuiteShare), acesse a opção _**Organizar > Geolocalização.**_
 
-![Geolocalizado 1](//images.ctfassets.net/alneenqid6w5/4l9dgcmAdSNdgj0PUaKVC8/db334a7cdc6a13954e62d94fbd7ebb0a/Screenshot_2022-08-29_at_17-59-43_Geolocalizado.png)
+![Geolocalizado 1](https://images.ctfassets.net/alneenqid6w5/4l9dgcmAdSNdgj0PUaKVC8/db334a7cdc6a13954e62d94fbd7ebb0a/Screenshot_2022-08-29_at_17-59-43_Geolocalizado.png)
 
 Clique em _**“Novo”**_.
 

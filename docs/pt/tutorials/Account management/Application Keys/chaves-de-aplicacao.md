@@ -58,7 +58,7 @@ Para criar chaves de aplicação internas na sua conta, siga os passos abaixo.
 
     Você será redirecionado(a) para a página **Minhas chaves**, ilustrada abaixo. Essa página lista todas as [chaves de aplicação internas](#chaves-de-aplicacao-internas).
 
-    ![Minhas chaves](//images.ctfassets.net/alneenqid6w5/1pSqVIzYaiCJO3RkJUoXZQ/56384e78cd25d545b8bfb8ee603a4c59/minhas-chaves-pt.png)
+    ![Minhas chaves](https://images.ctfassets.net/alneenqid6w5/1pSqVIzYaiCJO3RkJUoXZQ/56384e78cd25d545b8bfb8ee603a4c59/minhas-chaves-pt.png)
 
     Estes são os campos visíveis na página **Minhas chaves**:
 
@@ -156,4 +156,4 @@ Para reativar chaves de aplicação externas que tenham sido desativadas anterio
 
 Se necessário para uma auditoria de segurança, você pode exportar um arquivo CSV contendo os valores da **Chave** para todas as chaves de aplicação internas e externas que atualmente têm acesso à sua conta — ou seja, que têm perfis de acesso associadas a elas.
 
-Para exportar as chaves, acesse _Configurações da conta > Gerenciamento da conta > Chaves de aplicação_ e clique no botão <span style="display: inline-block;"><img src="//images.contentful.com/alneenqid6w5/25JqGWNUZPZattDX6ORXX6/742e99e17042024b9cae641564909171/image4.png" alt="export-button"/> <strong>Exportar</strong></span>.
+Para exportar as chaves, acesse _Configurações da conta > Gerenciamento da conta > Chaves de aplicação_ e clique no botão <span style="display: inline-block;"><img src="https://images.contentful.com/alneenqid6w5/25JqGWNUZPZattDX6ORXX6/742e99e17042024b9cae641564909171/image4.png" alt="export-button"/> <strong>Exportar</strong></span>.

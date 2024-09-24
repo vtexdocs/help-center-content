@@ -54,7 +54,7 @@ En esta sección se proporciona información detallada sobre los datos generales
 - **Información adicional (opcional):** permite incluir en la promoción información adicional que incluye un nombre y un valor.
 - **Promoción resaltada:** al elegir esta opción, se crea una tag que destaca el nombre de la promoción. Se implementa en la vitrina y en la página de producto, siempre y cuando se utilice el control de visualización de promociones correcto en la plantilla. `<vtex.cmc:discountHightLight>`.
 
-![Resumen de la promoción](//images.ctfassets.net/alneenqid6w5/4s7Zxlvv0aIThx2WW2JMO3/e10d90b18e8ce27fda6345f72b86a802/Resumen_de_la_promocion.png)
+![Resumen de la promoción](https://images.ctfassets.net/alneenqid6w5/4s7Zxlvv0aIThx2WW2JMO3/e10d90b18e8ce27fda6345f72b86a802/Resumen_de_la_promocion.png)
 
 ## Restringir esta promoción a los productos de los sellers
 

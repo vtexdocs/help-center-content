@@ -30,7 +30,7 @@ To solve the problem of promotions not being applied to marketplaces, review the
 3. Choose the desired trade policies associated with the marketplaces.
 4. Click `Save`.
 
-![Dados gerais promoção - EN](//images.ctfassets.net/alneenqid6w5/76vrpI7cmKuOXgErtBGxqO/4112967ef88605dc4dd1830d0a073208/Dados_gerais_promo__o_-_EN.png)
+![Dados gerais promoção - EN](https://images.ctfassets.net/alneenqid6w5/76vrpI7cmKuOXgErtBGxqO/4112967ef88605dc4dd1830d0a073208/Dados_gerais_promo__o_-_EN.png)
 
 ### Selecting affiliates
 To ensure a promotion is applied correctly in a marketplace, select the desired affiliat The affiliate is the partner associated with the marketplace that makes the promotional products available. Below are the steps for correctly selecting an affiliate when configuring a promotion.

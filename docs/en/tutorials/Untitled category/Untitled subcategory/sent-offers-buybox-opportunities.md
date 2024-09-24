@@ -35,7 +35,7 @@ On the [Offer Management](https://help.vtex.com/en/tutorial/offers-listing--7MRb
 
 ## Offer details
 
-![EN Oportunidades Offer details](//images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/6ed62b0628ffc356995b4aa59321f28c/EN_Oportunidades_Offer_details.jpg)
+![EN Oportunidades Offer details](https://images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/6ed62b0628ffc356995b4aa59321f28c/EN_Oportunidades_Offer_details.jpg)
 
 The [Offer details](https://help.vtex.com/en/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) page displays a message about the `Opportunity` at the top of the page. By clicking on `View opportunity`, you will be redirected to the following page.
 

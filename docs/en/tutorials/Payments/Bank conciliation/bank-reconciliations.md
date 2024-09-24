@@ -34,7 +34,7 @@ After receiving the bank file and saving it on your machine, as mentioned above
 
 Once you select the file, the platform will begin to process it, and record in the history how many payments were reconciled, with success or error. Payments that have been successfully reconciled will update the status of the orders to Approved Payment.
 
-![upload-file-ret](//images.ctfassets.net/alneenqid6w5/3KDKXLTwzYy1W9PNKGfIyT/b7dd94c343503e88caa9430ba9319e39/uploadret_EN.JPG)
+![upload-file-ret](https://images.ctfassets.net/alneenqid6w5/3KDKXLTwzYy1W9PNKGfIyT/b7dd94c343503e88caa9430ba9319e39/uploadret_EN.JPG)
 
 ## View history
 

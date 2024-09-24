@@ -37,7 +37,7 @@ The **Offer details** page contains the following sections:
 
 ## Header
 
-![Offer details EN cabecalho](//images.ctfassets.net/alneenqid6w5/6XRh7RmJr7rfGUfVHER580/95810a56417e12b9296cd728ac3cb326/Offer_details_EN_cabecalho.jpg)
+![Offer details EN cabecalho](https://images.ctfassets.net/alneenqid6w5/6XRh7RmJr7rfGUfVHER580/95810a56417e12b9296cd728ac3cb326/Offer_details_EN_cabecalho.jpg)
 
 The header displays the main information about the offer for quick viewing, such as its image, channel, name, status, ID on VTEX, and ID on the channel. You can also make the following changes by clicking on the `Edit` button:
 

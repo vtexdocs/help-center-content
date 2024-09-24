@@ -33,7 +33,7 @@ After reloading the inStore, when you print an order you will see that extra tex
 Quick Example:
 
 Before adding the extra text we would have an impression as follows:
-![inStore recommended text before](//images.ctfassets.net/alneenqid6w5/5AWqMIPwGc6aCSYGEsOAOq/6c1eda39348438463dc65a30fa56261e/inStore_recommended_text_before.png)
+![inStore recommended text before](https://images.ctfassets.net/alneenqid6w5/5AWqMIPwGc6aCSYGEsOAOq/6c1eda39348438463dc65a30fa56261e/inStore_recommended_text_before.png)
 
 By changing the `checkout-instore-custom.js` file by putting the following extra text:
 

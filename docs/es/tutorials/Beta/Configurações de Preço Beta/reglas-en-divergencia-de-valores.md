@@ -21,7 +21,7 @@ Las integraciones entre los sellers VTEX y los [conectores nativos](https://help
 
 Los pedidos que presentan errores por divergencia de valores mayores que los valores configurados en la integración con el marketplace, no se cargan automáticamente en el OMS. Por tanto, permanecen con el status de error en la sección `Pedidos` del módulo *INTEGRACIONES* del Admin, a la espera de ser reprocesados manualmente.
 
-![divergenciadepreçosES-01](//images.contentful.com/alneenqid6w5/2he3DSbVXaIpDMuAQu4094/66781d82b678c9b312bbd508cc6c2b92/divergenciadepre__osES-01.gif)
+![divergenciadepreçosES-01](https://images.contentful.com/alneenqid6w5/2he3DSbVXaIpDMuAQu4094/66781d82b678c9b312bbd508cc6c2b92/divergenciadepre__osES-01.gif)
 
 Para que los pedidos con divergencia de valores se carguen al OMS, se creó la regla de autorización (Beta). En esta regla, todos los pedidos con divergencia de valores se envían al OMS y deben ser aprobados manualmente por el administrador de la tienda, con el email registrado en *Gestión de la cuenta > Cuenta*. Se puede tener más de un email registrado.
 

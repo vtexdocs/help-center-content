@@ -32,7 +32,7 @@ In the Admin, you have the flexibility to customize your store's typography to m
 
 5. In the **Font family** field, create a name for the font.
 
-    ![familia-de-fontes-giff-en](//images.ctfassets.net/alneenqid6w5/5GVDDJvzXVmlkEbU1OHPoR/aa803a298788fc1b0a0304f5ab6cddeb/familia-de-fontes-giff-en.gif)
+    ![familia-de-fontes-giff-en](https://images.ctfassets.net/alneenqid6w5/5GVDDJvzXVmlkEbU1OHPoR/aa803a298788fc1b0a0304f5ab6cddeb/familia-de-fontes-giff-en.gif)
 
 6. Click **Upload** to upload the desired font file.
 

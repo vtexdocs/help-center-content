@@ -30,7 +30,7 @@ During the initial setup on VTEX, if your store uses[ external integrations with
 
 Once the initial product, price, and inventory integration has been set up and the middleware built, the information flow will be as shown in the diagram below.
 
-![back-office-en](//images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/1d2fe04cb3d2bd6c09b2fd000544d3e4/back-office-en.PNG)
+![back-office-en](https://images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/1d2fe04cb3d2bd6c09b2fd000544d3e4/back-office-en.PNG)
 
 During routine operations, responsibilities are divided as follows:
 

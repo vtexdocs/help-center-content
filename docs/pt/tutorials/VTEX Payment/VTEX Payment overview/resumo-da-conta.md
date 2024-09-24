@@ -36,7 +36,7 @@ Por fim, o lojista pode conferir os próximos recebíveis e suas últimas movime
 
 Esta seção é dividida em duas partes: a de recebíveis consolidados - para recebimentos já liquidados - e a de lançamentos futuros, para compras que ainda serão liquidadas. 
 
-![extrato_financeiro_vtex_payment](//images.ctfassets.net/alneenqid6w5/ylj1J2TQfTs24IyrxKJrI/884f3d2ad018b1d2888465818565a2f8/image.png)
+![extrato_financeiro_vtex_payment](https://images.ctfassets.net/alneenqid6w5/ylj1J2TQfTs24IyrxKJrI/884f3d2ad018b1d2888465818565a2f8/image.png)
 
 Vale ressaltar que a aba Lançamentos Futuros oferece a conciliação entre os recebíveis e seus respectivos pedidos. Caso o lojista clique em um dos recebimentos, uma tela contendo todas as transações referentes àquela movimentação financeira será exibida. 
 

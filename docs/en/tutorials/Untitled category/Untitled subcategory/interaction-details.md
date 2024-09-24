@@ -35,7 +35,7 @@ On the **Interaction details** page, you will see the following sections:
 >ℹ️ In **Offer Management** , you can track offers using [Mercado Libre](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic and Premium), [Netshoes](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) and VTEX marketplaces. For connectors to integrate via API, see [Offer Management Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
 
 ## Header
-![Interaction details PT cabeçalho](//images.ctfassets.net/alneenqid6w5/7zEocS2MW5dSRzZaaqNDUc/d28534c5926b61794e3b16ac91636f86/Interaction_details_EN_cabe__alho.jpg)
+![Interaction details PT cabeçalho](https://images.ctfassets.net/alneenqid6w5/7zEocS2MW5dSRzZaaqNDUc/d28534c5926b61794e3b16ac91636f86/Interaction_details_EN_cabe__alho.jpg)
 The *header* summarizes the offer’s main information for quick viewing, such as the SKU name, the logo of the channel it was sent to, its ID on the VTEX platform and on the channel.
 
 ## Interaction result

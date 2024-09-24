@@ -28,7 +28,7 @@ Anteriormente, lojas com [VTEX Intelligent Search](https://help.vtex.com/pt/trac
 * Fixar um produto nas primeiras posições dos resultados de busca.
 * Analisar as principais informações do produto.
 
-![visual-merch-rules-PT-announcement (1)](//images.ctfassets.net/alneenqid6w5/3QINWXoZCkcpqPq00SLR6q/618748bfb039c6a3e757b1655774a8e0/visual-merch-rules-PT-announcement__1_.png)
+![visual-merch-rules-PT-announcement (1)](https://images.ctfassets.net/alneenqid6w5/3QINWXoZCkcpqPq00SLR6q/618748bfb039c6a3e757b1655774a8e0/visual-merch-rules-PT-announcement__1_.png)
 
 Ao criar uma regra de merchandising no Admin VTEX em **Storefront > Intelligent Search > Regras de merchandising > Adicionar**, é possível escolher o tipo de editor a ser utilizado. Acesse o guia [Regras de merchandising](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao) para obter mais informações sobre as diferenças entre o editor manual e o editor visual.
 

@@ -87,7 +87,7 @@ Para adicionar um ou mais itens ao pedido, realize os seguintes passos:
 2. Na seção **A faturar**, clique em `Alterar itens`.
 3. Na página **Gerenciar itens do pedido**, clique na seta para cima <i class="fas fa-angle-up"></i> até o número da quantidade desejada, ou digite o número no campo. Feito isso, a página vai apresentar o preço e o número da quantidade anteriores tachados e vai aparecer a seguinte mensagem: _“Item editado”_.
 
-    ![change_order_adding_items_PT](//images.ctfassets.net/alneenqid6w5/5dqVuyGULGm5TJH2tliSoO/ac1af94d506fdcd6be258f23cb51bd75/change_order_adding_items_PT.png)
+    ![change_order_adding_items_PT](https://images.ctfassets.net/alneenqid6w5/5dqVuyGULGm5TJH2tliSoO/ac1af94d506fdcd6be258f23cb51bd75/change_order_adding_items_PT.png)
 
 4. Revise os [detalhes do valor da alteração](#consultar-detalhes-dos-valores-da-alteracao). É possível [reverter uma alteração](#reverter-acoes).
 5. Clique em `Revisar e aplicar`.

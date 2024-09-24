@@ -31,7 +31,7 @@ Más abajo se comparten ejemplos de donde encontrar las informaciones más comun
 
 En este evento vemos que VTEX comenzó el proceso de autorización con el gateway de pagos y este respondió que podemos comenzar la operación:
 
-![transaccion-autorizando](//images.contentful.com/alneenqid6w5/5t9nrVLHG0ImUq6KoG0kWS/cb760295e335e209642495a72f8a6c3a/transaccion-autorizando.png)
+![transaccion-autorizando](https://images.contentful.com/alneenqid6w5/5t9nrVLHG0ImUq6KoG0kWS/cb760295e335e209642495a72f8a6c3a/transaccion-autorizando.png)
 
 ## Transacción autorizada y aprobada
 

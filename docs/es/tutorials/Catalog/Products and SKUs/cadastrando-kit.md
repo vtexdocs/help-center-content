@@ -26,7 +26,7 @@ Un kit puede permitir o no que sus componentes se vendan por separado, entienda 
 
 Para configurar el Kit es necesario que los productos que harán parte de este – sus componentes – ya estén creados. Como en el siguiente ejemplo:
 
-![01-Componentes ES](//images.ctfassets.net/alneenqid6w5/1cgf40SaniUaYUIg4wuKyo/0f124e3ab1d1f881f5d0fe225b64d746/01-components_ES.png)
+![01-Componentes ES](https://images.ctfassets.net/alneenqid6w5/1cgf40SaniUaYUIg4wuKyo/0f124e3ab1d1f881f5d0fe225b64d746/01-components_ES.png)
 
 Luego de crear los productos componentes, podemos continuar con la configuración del Kit.
 

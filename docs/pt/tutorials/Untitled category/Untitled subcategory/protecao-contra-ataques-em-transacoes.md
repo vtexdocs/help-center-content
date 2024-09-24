@@ -35,7 +35,7 @@ Para habilitar a proteção, confira o passo a passo:
 4. No canto superior direito, clilque no ícone de configurações.
 5. Em __Proteção contra ataques__, clique no botão para habilitar (cor verde indica "habilitado").
 
-![proteção-botao-configurações](//images.ctfassets.net/alneenqid6w5/1jhGP8FOgMtkEp0O8AqOnX/c36c317b8cd30966cd76901c897219f3/prote____o-botao-configura____es.png)
+![proteção-botao-configurações](https://images.ctfassets.net/alneenqid6w5/1jhGP8FOgMtkEp0O8AqOnX/c36c317b8cd30966cd76901c897219f3/prote____o-botao-configura____es.png)
 
 ![proteção-opção-habilitar1](//images.ctfassets.net/alneenqid6w5/kk96NiBFAUzzuv23FbQeu/7f4c2e67f22c7aaa2886f9850a3fcc03/prote____o-op____o-habilitar1.png)
 

@@ -30,7 +30,7 @@ Basta incluir un atributo con el nombre `salesChannel`, conforme a lo ilustrado 
 
 Y entonces, los siguientes pedidos se crearán con el canal de ventas configurado. Si no hay stock para determinado ítem en este canal el ítem será excluido del pedido.  
 
-![posicao.es](//images.ctfassets.net/alneenqid6w5/1lTacScACYmqyzHKSZCydV/7a6e296f63afec40cf30c97a6a61e1ec/posicao.es.png)
+![posicao.es](https://images.ctfassets.net/alneenqid6w5/1lTacScACYmqyzHKSZCydV/7a6e296f63afec40cf30c97a6a61e1ec/posicao.es.png)
 
 *Pantalla donde se encuentra el ID del salesChannel*
 

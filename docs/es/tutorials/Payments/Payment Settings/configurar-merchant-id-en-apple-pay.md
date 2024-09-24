@@ -34,7 +34,7 @@ Dicho esto, verifique el siguiente procedimiento:
 
 1. Acceda a su __cuenta de desarrollador__ Apple en `https://developer.apple.com/account/#/overview/`.
 2. Seleccione la opción __Certificates, ID & Profiles__.
-![AP1](//images.ctfassets.net/alneenqid6w5/6LeAGbVL1w66i4QeoUikfC/912141350c1d591a9bb057d791e2f8d5/AP1.PNG)
+![AP1](https://images.ctfassets.net/alneenqid6w5/6LeAGbVL1w66i4QeoUikfC/912141350c1d591a9bb057d791e2f8d5/AP1.PNG)
 3. Haga clic en __ Identifiers__.
  ![AP2](//images.ctfassets.net/alneenqid6w5/23SE1jYWfCN6ZXTgQFYc1o/19fbe5f704aee658dd5a77f8e2f3b161/AP2.PNG)
 4. Al lado de Identifiers, haga clic en __botón azul +__.

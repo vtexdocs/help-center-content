@@ -44,7 +44,7 @@ Siga o passo a passo abaixo para filtrar os registros de um formulário e salvar
 
 Após seguir as instruções acima, a consulta vai aparecer como uma opção de visualização na listagem do formulário.
 
-![consultas-2-pt](//images.ctfassets.net/alneenqid6w5/4x2QAjHSxEZT0RyIUqv5kg/e75d69f663b3042804ad5057c8e66025/consultas-2-pt.png)
+![consultas-2-pt](https://images.ctfassets.net/alneenqid6w5/4x2QAjHSxEZT0RyIUqv5kg/e75d69f663b3042804ad5057c8e66025/consultas-2-pt.png)
 
 Você também pode acessar as consultas salvas clicando no botão Consultas, na listagem do formulário:
 

@@ -17,7 +17,7 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 
 The **Categories** page allows you to view and manage the category trees registered on Seller Portal. To access the page on VTEX Admin, go to **Catalog** > **Categories**.
 
-![categorias-en](//images.ctfassets.net/alneenqid6w5/1ViCOvDbtriF91lt0Z6ztZ/d9d795232e14fe8300461c0d32dfb10e/categorias-en.PNG)
+![categorias-en](https://images.ctfassets.net/alneenqid6w5/1ViCOvDbtriF91lt0Z6ztZ/d9d795232e14fe8300461c0d32dfb10e/categorias-en.PNG)
 
 From the category tree, you can:
 

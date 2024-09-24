@@ -102,7 +102,7 @@ Los pasos para la configuración se deben seguir en el orden indicado a continua
 
 Después de configurar la tienda y completar la integración con el middleware, el flujo general de información seguirá el formato que se muestra en la imagen:
 
-![ERP-integrations-es](//images.ctfassets.net/alneenqid6w5/7G5OqBkp2i7tpz19u6XBFy/fc870c6a2aedf5a3bebd4d0c33058794/Diagrama_do_fluxo_de_integra__o_com_o_ERP_-_Frame_3.jpg)
+![ERP-integrations-es](https://images.ctfassets.net/alneenqid6w5/7G5OqBkp2i7tpz19u6XBFy/fc870c6a2aedf5a3bebd4d0c33058794/Diagrama_do_fluxo_de_integra__o_com_o_ERP_-_Frame_3.jpg)
 
 Cada una de las solicitudes o procesos representados por las flechas en el diagrama anterior es accionado por un tipo diferente de evento en la operación cotidiana de una tienda online. Para más información sobre este flujo, consulta[ Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide#ongoing-middleware-flow).
 

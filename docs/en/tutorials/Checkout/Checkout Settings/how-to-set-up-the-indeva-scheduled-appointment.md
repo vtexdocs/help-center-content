@@ -31,7 +31,7 @@ The customer schedules the appointment using a form created by Indeva. Then you 
 
 Your customer’s schedule flow starts by choosing the physical store of his preference. In the image below, there is only one registered store. But you can register as many physical stores as you want.
 
-![indeva1](//images.ctfassets.net/alneenqid6w5/3QXzMhoJN1qYZZ6c8mlfcB/4cf28e34420ac49bfcaa6f78a9b2951a/indeva1.png)
+![indeva1](https://images.ctfassets.net/alneenqid6w5/3QXzMhoJN1qYZZ6c8mlfcB/4cf28e34420ac49bfcaa6f78a9b2951a/indeva1.png)
 
 >ℹ️ You can also provide your customers a link that takes them directly to a specific physical store form. You just have to add the store ID at the end of the URL. Hence, your seller can share your store’s link—for example, using a QR Code or on social media.
 

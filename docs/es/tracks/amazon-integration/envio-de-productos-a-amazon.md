@@ -37,7 +37,7 @@ La lista de categorías de tu tienda VTEX incluye el status del mapeo a través 
 
 | **Ícono** | **Status** | **Descripción** |
 |:---:|:---:|:---:|
-| ![mapeado mapper](//images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/069480d9eeb7b6108d5f6ec3d7ad1d78/mapeado_mapper.jpg) | **Mapeada** | Indica que el mapeo de categorías está completo. |
+| ![mapeado mapper](https://images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/069480d9eeb7b6108d5f6ec3d7ad1d78/mapeado_mapper.jpg) | **Mapeada** | Indica que el mapeo de categorías está completo. |
 | ![mapeamentoincompleto mapper](//images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/695f33c0eba4012f7e585ca1785ec17f/mapeamentoincompleto_mapper.jpg) | **Mapeo incompleto** | La categoría está parcialmente mapeada, por lo que es necesario ingresar sus atributos obligatorios (señalados con un asterisco) para realizar el mapeo. |
 | ![erromapeamento mapper](//images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/7036253cccb4415d9759867b28ff1695/erromapeamento_mapper.jpg) | **Error al realizar el mapeo** | El error de mapeo ocurre cuando el marketplace elimina o cambia la categoría del producto. Para resolver este problema, solo hay que rehacer el mapeo de categorías. |
 |![incompleto mapper](//images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/3eaea439ecfdbb54eaa8fefec12247ae/incompleto_mapper.jpg) | **No mapeada** | Indica que no se realizó el mapeo de la categoría. |  

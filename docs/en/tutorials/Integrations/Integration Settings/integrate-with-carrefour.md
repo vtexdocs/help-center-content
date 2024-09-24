@@ -28,7 +28,7 @@ On the upper right-hand corner, click on the e-mail (the same that you used for 
 
 The key that appears on the screen is the information that you will need to register the integration in the VTEX Bridge module.
 
-![Carrefour1](//images.contentful.com/alneenqid6w5/3J1VMlsGsMswagSeG2y0EK/d054fac671b13f5dca7f627aa5121c97/Carrefour1.png)
+![Carrefour1](https://images.contentful.com/alneenqid6w5/3J1VMlsGsMswagSeG2y0EK/d054fac671b13f5dca7f627aa5121c97/Carrefour1.png)
 
 ### Configuring integration in Bridge
 

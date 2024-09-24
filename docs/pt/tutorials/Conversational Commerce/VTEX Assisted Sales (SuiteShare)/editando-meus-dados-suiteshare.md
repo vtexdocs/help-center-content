@@ -17,7 +17,7 @@ subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 
 Para editar os dados de acesso, você deve acessar _**Configurações > Minha conta**_. 
 
-![Editar_dados_Suitshare_1](//images.ctfassets.net/alneenqid6w5/7GjD9aAHEpWeLMULbgIlN7/7373e8bfedf32a7c6c1fa965872b80a5/Editar_dados_1.png)
+![Editar_dados_Suitshare_1](https://images.ctfassets.net/alneenqid6w5/7GjD9aAHEpWeLMULbgIlN7/7373e8bfedf32a7c6c1fa965872b80a5/Editar_dados_1.png)
 
 Em **Profile**, edite informações como **Nome** e **Empresa**. 
 

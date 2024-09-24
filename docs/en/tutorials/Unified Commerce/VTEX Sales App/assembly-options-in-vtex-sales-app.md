@@ -35,7 +35,7 @@ There are two scenarios for adding services to products in a single cart:
 2. Select the service option you want and click the **Continue to Cart** button.
 3. After completing the process, you can view the selected services in your cart, along with the total order amount.
 
-![Garantia estendida - EN](//images.ctfassets.net/alneenqid6w5/6x9bCRVpOcGLa8bilRpZ7I/f81df1f138065b8954e3120a7fc0b4b7/Cen_rio_1__T1__-_EN.png)
+![Garantia estendida - EN](https://images.ctfassets.net/alneenqid6w5/6x9bCRVpOcGLa8bilRpZ7I/f81df1f138065b8954e3120a7fc0b4b7/Cen_rio_1__T1__-_EN.png)
 
 ![Carrinho - EN](//images.ctfassets.net/alneenqid6w5/2w3D5PYdqlPZs4gtGOY0VM/cec8bd9e2deaac996bf5dbe8af8ab620/Cen_rio_1__T2__-_EN.png)
 

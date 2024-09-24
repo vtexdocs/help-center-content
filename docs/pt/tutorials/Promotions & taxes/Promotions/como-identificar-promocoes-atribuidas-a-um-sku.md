@@ -22,7 +22,7 @@ Escrevemos este artigo para responder a uma dúvida recorrente dos usuários da 
 Para descobrir quais promoções estão sendo atribuídas a um SKU, devemos analisar suas `priceTags`.
 
 1. Acesse o carrinho com o produto.
-2. No Google Chrome, acesse **Ferramentas de Desenvolvedor** (`Ctrl+Shift+I`).![ferramentas-do-desenvolvedor](//images.contentful.com/alneenqid6w5/3NBGEPjXEkkSqA2WOYs8us/5219ffe6515a120ac0e6d489c78e5820/ferramentas-do-desenvolvedor.png)
+2. No Google Chrome, acesse **Ferramentas de Desenvolvedor** (`Ctrl+Shift+I`).![ferramentas-do-desenvolvedor](https://images.contentful.com/alneenqid6w5/3NBGEPjXEkkSqA2WOYs8us/5219ffe6515a120ac0e6d489c78e5820/ferramentas-do-desenvolvedor.png)
 3. Selecione a aba **Network** e pressione `F5` para gravar o carregamento da página.![network-f5](//images.contentful.com/alneenqid6w5/1TZRay17qkEO8As8w0MKOS/f4d88d06f2a3fd656aa41e3809f35d45/network-f5.png)
 4. Após o carregamento, pressione `Ctrl+F` para fazer uma busca na janela das __Ferramentas de Desenvolvedor__ e busque por `orderForm`.![order-form](//images.contentful.com/alneenqid6w5/jtqrcUjDAAqoMUGiYM4qE/94803953c1577a7954ba09f163738e0e/order-form.png)
 5. Clique em `orderForm` e vá em `items`. Após clicar em `items`, clique nos números (`0`, `1`, `2` etc.) para ver as características do produto desejado. Em nosso exemplo, como temos apenas um item, este é representado pelo número `0` no array.![items-0](//images.contentful.com/alneenqid6w5/DUtSiCdnrwSmoKqqYW8E6/ec7335a0c9308b17b9d8aa2274057220/items-0.png)

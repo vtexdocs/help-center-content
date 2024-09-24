@@ -30,7 +30,7 @@ En el lado derecho hay un cuadro que contiene el valor total del pedido, los dat
 
 El ID se refiere a la transacción en el Pagos de la plataforma VTEX, y es incluso parte de la URL.
 
-![pci](//images.contentful.com/alneenqid6w5/65oy7tCoAoCMgGIi4CYau6/69e8caa34812349a09014157d0d27e33/pci.png)
+![pci](https://images.contentful.com/alneenqid6w5/65oy7tCoAoCMgGIi4CYau6/69e8caa34812349a09014157d0d27e33/pci.png)
 
 Por encima de esta caja, hay un enlace al pedido en el módulo **Pedidos**.
 

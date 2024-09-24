@@ -17,7 +17,7 @@ announcementSynopsisES: 'FastCheckout: innovación en el checkout para experienc
 
 Con el compromiso continuo de innovar y ofrecer calidad de excelencia a nuestros clientes, VTEX presenta **FastCheckout**, la evolución más reciente de nuestro checkout. La nueva solución permite crear experiencias de checkout personalizadas de alta conversión, que siempre están actualizadas con nuevas funcionalidades.
 
-![fastcheckout](//images.ctfassets.net/alneenqid6w5/42O8ebq6UcdyuSyvUukhM/14df7a3c5d09bdf75b288dd352763515/image.png)
+![fastcheckout](https://images.ctfassets.net/alneenqid6w5/42O8ebq6UcdyuSyvUukhM/14df7a3c5d09bdf75b288dd352763515/image.png)
 
 ## ¿Qué cambió?
 

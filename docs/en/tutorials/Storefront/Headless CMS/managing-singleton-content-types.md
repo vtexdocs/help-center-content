@@ -18,7 +18,7 @@ subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 Singleton content types allow creating and managing a single page, ensuring that only one page of this content type exists in Headless CMS.
 
 This content type avoids potential conflicts and inconsistencies when multiple pages of the same content type are created. For example, you can use Singleton for your store's Home page to ensure that there is only one Home page and that all updates and requests to this page always return the same result.
-![singleton-en](//images.ctfassets.net/alneenqid6w5/6aMWhl66yiP8YLJr5Bzuo5/336d3df9b113a1b919209c304856c339/singleton-en.gif)
+![singleton-en](https://images.ctfassets.net/alneenqid6w5/6aMWhl66yiP8YLJr5Bzuo5/336d3df9b113a1b919209c304856c339/singleton-en.gif)
 
 >⚠️ To create the Singleton content type, check with your developer team if the <i>isSingleton</i> property is implemented or ask them to follow the instructions in [Using isSingleton in a content type](https://v1.faststore.dev/how-to-guides/cms/vtex-headless-cms/Using%20isSingleton%20property%20in%20a%20contenty%20type) to add it to the desired content type.
 

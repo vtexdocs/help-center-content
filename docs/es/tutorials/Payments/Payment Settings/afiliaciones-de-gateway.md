@@ -22,7 +22,7 @@ En la página de gestión de proveedores puedes:
 - [Registrar un nuevo proveedor](#registrar-proveedor)
 - [Ver los provedores registrados](#ver-proveedores-registrados)
 - [Editar la configuración de proveedores](#editar-configuracion-de-un-proveedor)  
-![interface_provedor_ES_1](//images.ctfassets.net/alneenqid6w5/6721j5gbs4JkxAFJ9QPQve/776404f95b88a2baef59270471016a6d/interface_provedor_ES_1.JPG)
+![interface_provedor_ES_1](https://images.ctfassets.net/alneenqid6w5/6721j5gbs4JkxAFJ9QPQve/776404f95b88a2baef59270471016a6d/interface_provedor_ES_1.JPG)
 
 ## Registrar proveedor
 

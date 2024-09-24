@@ -23,7 +23,7 @@ Para realizar a integração, utilize uma das duas formas abaixo:
 
 1. No dashboard, clique em **Ver todas integrações** e em **HubSpot**.
 
-   ![HubSpot_Suiteshare_1](//images.ctfassets.net/alneenqid6w5/6ohwamJ0xsLQsxtuTZrrxA/affa4804ec1386284ac220a82ec6622a/HubSpot_Suiteshare_1.png)
+   ![HubSpot_Suiteshare_1](https://images.ctfassets.net/alneenqid6w5/6ohwamJ0xsLQsxtuTZrrxA/affa4804ec1386284ac220a82ec6622a/HubSpot_Suiteshare_1.png)
 
 2. Acesse **Configurações > Integrações > HubSpot > Integrar**.
 

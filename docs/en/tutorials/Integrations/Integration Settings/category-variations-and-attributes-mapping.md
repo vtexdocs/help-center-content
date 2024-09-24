@@ -23,7 +23,7 @@ With this feature, you can categorize your products in Mercado Livre and also cr
 
 The mapping will only be done once for each category. This means that once you have done the mapping, new products will be integrated directly into the correct category (and their variations and attributes).
 
-- [Download here](//assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx) the __Mercado Livre Mapping Spreadsheet__ in the format `.xlsx`.
+- [Download here](https://assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx) the __Mercado Livre Mapping Spreadsheet__ in the format `.xlsx`.
 
 The same spreadsheet will be used in the three steps described below (categorization, variations and attributes). Follow the step by step, filling in the fields of the mapping spreadsheet as follows.
 

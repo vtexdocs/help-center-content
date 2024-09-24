@@ -24,7 +24,7 @@ Para entender __para qué__ crear condiciones, vea el artículo [Crear Precios C
 
 UTM (Marketing tag) es una información que se refiere al origen del tráfico del cliente. Entonces, en el app existe un bloque que comprueba este tipo de información.
 
-![utm_source_english](//images.ctfassets.net/alneenqid6w5/1eC4fEARZG84MYiSmekSIm/5c784e46e4ab63487f183f7cd2060ea9/utm_source_english.png)
+![utm_source_english](https://images.ctfassets.net/alneenqid6w5/1eC4fEARZG84MYiSmekSIm/5c784e46e4ab63487f183f7cd2060ea9/utm_source_english.png)
 
 >⚠️ **Nota: **
 > Es posible que su tienda utilice personalización y, por eso, las informaciones de UTM contenidas en la URL no se están pasando a nuestro sistema. Si utiliza personalización de Javascript, lea el artículo [¿Por qué las UTMs no se aplican al carrito?](https://help.vtex.com/es/faq/por-que-las-utms-no-se-aplican-al-carrito)

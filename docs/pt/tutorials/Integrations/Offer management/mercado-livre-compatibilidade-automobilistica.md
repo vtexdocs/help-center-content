@@ -25,7 +25,7 @@ Nos anúncios enviados ao Mercado Livre é possível identificar quais apresenta
 
 >⚠️ Os anúncios que apresentarem erro, não serão enviados ao Mercado Livre até que seja corrigido.  
 
-![Mercado Livre: Compatibilidade Automobilística](//images.ctfassets.net/alneenqid6w5/7JjKhuTHSN7j1V51FzjT5v/71bc2c07df8a14d172a0f58afb4e99f8/compatibilidade_automobilistica_1.png)  
+![Mercado Livre: Compatibilidade Automobilística](https://images.ctfassets.net/alneenqid6w5/7JjKhuTHSN7j1V51FzjT5v/71bc2c07df8a14d172a0f58afb4e99f8/compatibilidade_automobilistica_1.png)  
 
 Para acessar o módulo de Gerenciamento de anúncios, no Admin VTEX vá em Marketplace > Integrações > Gerenciamento de anúncios. Nesta página você pode filtrar os anúncios por, canal, marca, categoria ou status.
 

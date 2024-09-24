@@ -63,7 +63,7 @@ Para crear una página de anuncios para VTEX Sales App, sigue los pasos a contin
     - **Título de la vitrina:** nombre de la vitrina que se mostrará en la página.
     - **ID del producto:** número identificador del producto que deseas mostrar. Campo obligatorio.
     - **ID del SKU del producto:** número identificador del SKU del producto que deseas mostrar. Campo opcional.
-![vitrine-produto-es](//images.ctfassets.net/alneenqid6w5/6SREOFdog1AfNXqyhH0I5Z/99d80481198a5789b864e7b3cc621c9f/image.png)
+![vitrine-produto-es](https://images.ctfassets.net/alneenqid6w5/6SREOFdog1AfNXqyhH0I5Z/99d80481198a5789b864e7b3cc621c9f/image.png)
 Después de rellenar los campos, se mostrará la imagen del producto con precio "a partir de". Si incluyes el SKU, se mostrará el precio y la promoción del SKU indicado. Puedes incluir más productos al hacer clic en `+ NUEVO PRODUCTO`. Puedes agregar hasta 10 productos en cada vitrina.
 El resultado de la vitrina de productos se mostrará como en la siguiente imagen.
 ![vitrine-produto-2-es](//images.ctfassets.net/alneenqid6w5/3SY8POqXIAK0Qi2lWax8qq/2b1605234e989064a7c188b6f3ce31a8/image.png)

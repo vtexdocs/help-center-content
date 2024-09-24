@@ -32,7 +32,7 @@ A página __Minha Conta__ (__My Account__) oferece autonomia aos seus clientes p
 
 Nesta aba, o cliente pode gerenciar seus dados pessoais cadastrados na loja. É possível [editar as informações do perfil](#editar), [definir uma nova senha](#senha) e [escolher se deseja receber emails com promoções](#newsletter).
 
-![profile PT](//images.contentful.com/alneenqid6w5/6LUXeCU09v8EOyMXntPggz/beab12f450f93773234132305ec3f5b0/profile_PT.png)
+![profile PT](https://images.contentful.com/alneenqid6w5/6LUXeCU09v8EOyMXntPggz/beab12f450f93773234132305ec3f5b0/profile_PT.png)
 
 ### Editar
 

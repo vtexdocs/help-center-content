@@ -17,7 +17,7 @@ subcategoryId: unknown-subcategory
 
 O novo Order Placed traz um layout melhorado e totalmente mobile-friendly.
 
-![Nova página de Order Placed em versão desktop e mobile](//images.contentful.com/alneenqid6w5/6li99MH1AIqmOECuy8K4Ec/635952ed77d4630e1bd8c08f7761920d/cconf-announcement-0.png)
+![Nova página de Order Placed em versão desktop e mobile](https://images.contentful.com/alneenqid6w5/6li99MH1AIqmOECuy8K4Ec/635952ed77d4630e1bd8c08f7761920d/cconf-announcement-0.png)
 
 Para ativá-lo, vá até a aba **Meus Pedidos** do módulo Portal e acione o opt-in _Order Placed Upgrade_. A nova versão será ativada por default no dia 20/12/2017 e a antiga será descontinuada.
 

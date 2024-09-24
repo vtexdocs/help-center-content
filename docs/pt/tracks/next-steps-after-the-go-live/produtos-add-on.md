@@ -25,7 +25,7 @@ O [VTEX Ad Network](https://help.vtex.com/tutorial/vtex-ad-network-beta--2cgqXcB
 - **Anunciantes:** marcas, que podem criar campanhas de anúncios para promover seus produtos nas frentes de lojas VTEX que possuem aqueles produtos em seus catálogos, aumentando suas vendas.
 - **Lojas VTEX:** podem disponibilizar espaço publicitário para que marcas promovam seus produtos na sua frente de loja. Estas lojas receberão um valor por cada clique recebido em anúncios na sua loja.
 
-![vtex_ad_network_sponsored_PT](//images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/12e38a4f482a08d13f823b17a88fbf5b/vtex_ad_network_sponsored.png)
+![vtex_ad_network_sponsored_PT](https://images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/12e38a4f482a08d13f823b17a88fbf5b/vtex_ad_network_sponsored.png)
 
 ## VTEX Assisted Sales
 

@@ -34,7 +34,7 @@ Después de volver a cargar inStore, cada vez que un vendedor imprima un pedido,
 
 Antes de agregar texto adicional, la impresión del resumen del pedido tiene el siguiente formato:
 
-![28. Adding extra text to the order print - 1](//images.ctfassets.net/alneenqid6w5/6kSTTkw3pk8A7aiTJXqDJJ/ec86382eb7e27484f3f37a80752a6153/28._Adding_extra_text_to_the_order_print_-_1.png)
+![28. Adding extra text to the order print - 1](https://images.ctfassets.net/alneenqid6w5/6kSTTkw3pk8A7aiTJXqDJJ/ec86382eb7e27484f3f37a80752a6153/28._Adding_extra_text_to_the_order_print_-_1.png)
 
 En nuestro ejemplo, cambiamos el archivo `checkout-instore-custom.js` insertando el siguiente texto adicional:
 

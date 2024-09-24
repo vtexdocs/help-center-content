@@ -25,7 +25,7 @@ Existem dois fluxos de cadastro de SKU pelo Admin VTEX: criar um SKU logo após 
 ### Cadastrar SKU logo após o cadastro de um produto
 
 1. Na tela de cadastro de Produto, após preencher os campos, clique em `Salvar e Cadastrar novo SKU`.
-  ![foto1.pt](//images.ctfassets.net/alneenqid6w5/4hbOFLl4i0ItEagHpb0SQD/49b2bd614f938aef01f48444c07843f3/foto1.pt.png)
+  ![foto1.pt](https://images.ctfassets.net/alneenqid6w5/4hbOFLl4i0ItEagHpb0SQD/49b2bd614f938aef01f48444c07843f3/foto1.pt.png)
 2. Você será redirecionado(a) para a tela de cadastro de SKU. Preencha os campos do formulário de SKU. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [como preencher os campos de cadastro de SKU](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) 
 3. Clique em `Salvar`.
 

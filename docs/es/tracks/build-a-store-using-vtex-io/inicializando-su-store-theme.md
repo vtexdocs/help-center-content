@@ -28,7 +28,7 @@ Seleccione `store-theme` y confirme que desea descargar el proyecto template en 
 
 Usted recibirá información importante sobre la aplicación, como el vendor, el nombre, el título y la descripción de la app. Utilice el __account name__ de la tienda que está desarrollando como el __vendor__. Esto es importante para que posteriormente pueda publicar correctamente esta aplicación en esta cuenta. Para utilizar los valores predeterminados, simplemente presione Enter.
 
-![store-theme](//images.ctfassets.net/alneenqid6w5/6FEPaKbOMqkndELmvd0u6z/f47d4a3a04b5cf270372b5dbc72940a9/store-theme.svg)
+![store-theme](https://images.ctfassets.net/alneenqid6w5/6FEPaKbOMqkndELmvd0u6z/f47d4a3a04b5cf270372b5dbc72940a9/store-theme.svg)
 
 ## Entendiendo la estructura de la app
 

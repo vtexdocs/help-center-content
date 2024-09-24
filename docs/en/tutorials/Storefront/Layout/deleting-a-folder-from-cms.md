@@ -26,7 +26,7 @@ To delete a CMS folder, follow the steps below:
 3. Click the website that contains the folder you want to delete and then click the root folder (/).
 4. In the line corresponding to the folder you want to delete, click __delete__.
 
-![erroDeletarPasta2](//images.contentful.com/alneenqid6w5/5LV3bGobResaCycAs4e4oS/0644cad6454dd3d6c0beb1eb8afc1da8/erroDeletarPasta2.png)
+![erroDeletarPasta2](https://images.contentful.com/alneenqid6w5/5LV3bGobResaCycAs4e4oS/0644cad6454dd3d6c0beb1eb8afc1da8/erroDeletarPasta2.png)
 
 >❗ Some folders are required. Your store will not function properly without them. Others are important, so it's not a good idea to delete them.
 >

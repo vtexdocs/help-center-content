@@ -34,7 +34,7 @@ To understand and correct each error, see the solutions below:
 
 One error you might experience with Site Editor is when you go to the VTEX Admin, access **Storefront**, and click **Site Editor**. The Site Editor page either shows a blank screen or the message `Something went wrong`.
 
-![Site Editor - Something went wrong EN](//images.ctfassets.net/alneenqid6w5/6HAg54FmMXcxq7rfh1738y/e3db2a4576b949793256c5887829ae1a/img1-EN.png)
+![Site Editor - Something went wrong EN](https://images.ctfassets.net/alneenqid6w5/6HAg54FmMXcxq7rfh1738y/e3db2a4576b949793256c5887829ae1a/img1-EN.png)
 
 To solve this error, see the following instructions:
 

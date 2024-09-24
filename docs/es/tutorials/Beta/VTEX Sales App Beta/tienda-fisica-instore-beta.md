@@ -26,7 +26,7 @@ Esta página te permite realizar las siguientes acciones:
 * [Editar](#editar-tienda)
 * [Eliminar](#eliminar-tienda)
 
-![loja-fisica-ES](//images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/df72ba565c1eff2f92a4b6b74f27ad8d/image.png)
+![loja-fisica-ES](https://images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/df72ba565c1eff2f92a4b6b74f27ad8d/image.png)
 
 La página contiene la siguiente información:
 

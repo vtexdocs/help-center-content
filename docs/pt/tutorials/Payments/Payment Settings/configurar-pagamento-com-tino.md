@@ -71,7 +71,7 @@ Após instalar os aplicativos, você precisa realizar a configuração do Tino a
 
 >ℹ️ As informações inseridas não devem conter espaços em branco entre caracteres.
 
-![Tino app_4](//images.ctfassets.net/alneenqid6w5/5UliBe8XJBCddIOiY7a499/1c44b3d5716af79b63635e0b796ed029/Tino_app_4.png)
+![Tino app_4](https://images.ctfassets.net/alneenqid6w5/5UliBe8XJBCddIOiY7a499/1c44b3d5716af79b63635e0b796ed029/Tino_app_4.png)
 
 >⚠️ A opção **Enable Development Mode** deve ser mantida desmarcada. Caso esteja sinalizada, o aplicativo estará operando somente em modo de teste e não será possível processar transações de pagamento com a Tino durante o período.
 

@@ -18,7 +18,7 @@ trackSlugPT: habilitar-filtro-de-pedidos-por-vendedor
 
 No inStore, é possível ver a listagem de todos os pedidos finalizados em uma loja:
 
-![26. Enable order filter by salesperson - 1](//images.ctfassets.net/alneenqid6w5/4pI7zxSaInuVvjIqWUK3Uv/ef9c2555f36f9bed41970a85727c2059/26._Enable_order_filter_by_salesperson_-_1.png)
+![26. Enable order filter by salesperson - 1](https://images.ctfassets.net/alneenqid6w5/4pI7zxSaInuVvjIqWUK3Uv/ef9c2555f36f9bed41970a85727c2059/26._Enable_order_filter_by_salesperson_-_1.png)
 
 Porém, algumas vezes faz sentido que um vendedor veja apenas os pedidos finalizados por ele. Para habilitar essa opção é necessário editar o arquivo `checkout-instore-custom.js`.
 

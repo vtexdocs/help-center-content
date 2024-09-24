@@ -27,7 +27,7 @@ VTEX uses the same principle. The directory (folder) is where all the informatio
 
 We can create any number of templates but we have to specify in the directory which template is to be exhibited. Using the __Account__ page as an example:
 
-![cms-template-pagina EN](//images.ctfassets.net/alneenqid6w5/4Zu301bdyU2EsSIK0aGycG/1118a06dfeed0f9e11f6669c1bdef337/Produto_CMS_EN.png)
+![cms-template-pagina EN](https://images.ctfassets.net/alneenqid6w5/4Zu301bdyU2EsSIK0aGycG/1118a06dfeed0f9e11f6669c1bdef337/Produto_CMS_EN.png)
 
 Storefront > Layout > CMS Foulder > Sites and channels > Account Name > (/) Foulder > Account *(following the example)* > Click on the link with the red "ok" arrow.
 

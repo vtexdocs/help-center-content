@@ -23,7 +23,7 @@ A continuación, veremos cómo funciona el flujo básico de un pago con boleto r
  
 ## Emisión del Boleto
 
-![Frame 2](//images.contentful.com/alneenqid6w5/2CqwPgtFuIkgkkus2y8gg0/69c19ff0cf7116579b3e3b91342189b3/Frame_2.png)
+![Frame 2](https://images.contentful.com/alneenqid6w5/2CqwPgtFuIkgkkus2y8gg0/69c19ff0cf7116579b3e3b91342189b3/Frame_2.png)
 
 1. Su __e-commerce__ le informa al __Gateway__ que un pedido será pagado a través de boleto bancario.
 2. El gateway entra en contacto con el __Banco__ para realizar el registro del boleto.

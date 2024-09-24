@@ -20,7 +20,7 @@ Após o seu cliente clicar no chat, ele será direcionado a um formulário, onde
 
 Depois de preencher o  as informações ele será direcionado para o WhatsApp.
 
-![Capturar dados do lead antes de iniciar uma conversa no WhatsApp 1](//images.ctfassets.net/alneenqid6w5/3XFOXC4aO8kqu550uXLsCG/d957132af5ff3ac5b48f6a340625fb06/Screenshot_2022-08-25_at_14-57-08_Capturar_dados_do_lead_antes_de_iniciar_uma_conversa_no_WhatsApp.png)  
+![Capturar dados do lead antes de iniciar uma conversa no WhatsApp 1](https://images.ctfassets.net/alneenqid6w5/3XFOXC4aO8kqu550uXLsCG/d957132af5ff3ac5b48f6a340625fb06/Screenshot_2022-08-25_at_14-57-08_Capturar_dados_do_lead_antes_de_iniciar_uma_conversa_no_WhatsApp.png)  
 
 Para começar, você precisa criar um **link** para cada número que irá atender na sua empresa. Se você ainda não criou ou não sabe como criar, [leia mais sobre links.](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB) Mas, se você já possui todos os links criados, vamos começar a organizar o nosso processo de [**captura**.](https://help.vtex.com/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo)  
 

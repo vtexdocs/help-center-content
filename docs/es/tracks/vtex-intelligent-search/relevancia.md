@@ -23,7 +23,7 @@ Hay dos posibles escenarios de configuración de relevancia:
 - **Criterios de prioridad:** es la forma de forzar que uno o más criterios tengan mayor prioridad entre los demás. En esta situación no hay pesos, porque todos los productos que tienen esta característica se presentarán primero en el resultado de la búsqueda.
 - **Composición de criterios:** es la forma de distribuir los pesos de cada opción, que van de 0 a 10. Aquí no hay un orden entre los criterios, serán los pesos los que definan la relevancia.
 
-![criterios-es](//images.ctfassets.net/alneenqid6w5/2okH4XcNScAzf6PJIlOKqs/0b54c302ffac20ed831392a3c7d5135d/criterios-es.png)
+![criterios-es](https://images.ctfassets.net/alneenqid6w5/2okH4XcNScAzf6PJIlOKqs/0b54c302ffac20ed831392a3c7d5135d/criterios-es.png)
 
 La información aplicada para establecer la relevancia es:
 

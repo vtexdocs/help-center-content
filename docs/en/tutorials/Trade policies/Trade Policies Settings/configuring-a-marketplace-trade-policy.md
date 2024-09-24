@@ -39,7 +39,7 @@ Creating a new trade policy is the first step in defining the conditions that ap
 
 This configuration can be done in the *Store setup* module, on the *Trade policies* page. You must [create a new trade policy](https://help.vtex.com/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) when the settings for catalog, price, promotions, logistics and payments are different between the marketplaces in which sellers sell their products. 
 
-![EN Add Politica comercial](//images.ctfassets.net/alneenqid6w5/7sIaT2Sf52QFfZ5qOfESLa/e74c92388925fad7a099da236e616122/EN_Add_Politica_comercial.jpg)
+![EN Add Politica comercial](https://images.ctfassets.net/alneenqid6w5/7sIaT2Sf52QFfZ5qOfESLa/e74c92388925fad7a099da236e616122/EN_Add_Politica_comercial.jpg)
 
 ## Orders management
 After creating a trade policy, you must associate it with each marketplace in which the seller sells products by adding them as [affiliates](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). This is how sellers identify which trade policy operates in each marketplace. If your store sells products in three different marketplaces, you must create three affiliates: one for each marketplace.

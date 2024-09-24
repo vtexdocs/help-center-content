@@ -21,7 +21,7 @@ A página Visão Geral (Beta) em seu Admin VTEX fornece um acompanhamento em tem
 
 Essa ferramenta está disponível no Admin VTEX, na página de início. Para acessá-la, clique em **Dashboards > Visão Geral** no menu de navegação, ou digite _Visão Geral_ na barra de busca no topo da página.
 
-![PT Visão geral Beta](//images.ctfassets.net/alneenqid6w5/5C2Na8YDkwgIsMHqp28oGv/62aceefab415f246a39fcd604a89f080/PT_Visa__o_geral_Beta.png)
+![PT Visão geral Beta](https://images.ctfassets.net/alneenqid6w5/5C2Na8YDkwgIsMHqp28oGv/62aceefab415f246a39fcd604a89f080/PT_Visa__o_geral_Beta.png)
 
 Neste artigo, apresentamos as principais seções e ações presentes na página. Saiba mais sobre:
 

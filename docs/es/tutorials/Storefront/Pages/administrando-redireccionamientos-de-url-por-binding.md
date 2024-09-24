@@ -28,7 +28,7 @@ En el Admin VTEX:
 1. Acceda al módulo **Storefront > Páginas**.
 2. Haga clic en la pestaña `Redirecciones`.
 
-![es-redirect-tab](//images.ctfassets.net/alneenqid6w5/5TkQzPBMxi9Wh4SCBgVWZ1/ca140110fbe426d775814a1fd5ae4350/redirect-tab.png)
+![es-redirect-tab](https://images.ctfassets.net/alneenqid6w5/5TkQzPBMxi9Wh4SCBgVWZ1/ca140110fbe426d775814a1fd5ae4350/redirect-tab.png)
 
 ## Crear redirecciones manualmente
 

@@ -23,7 +23,7 @@ Esta seção apresenta o passo-a-passo de confirmação dos ERPs:
 
 Tudo o que você precisa é acessar a tela da integradora clicando em  e, em seguida, na filial utilizada para integrar com Ecommerce, você deve alterar os campos URL de integração e o campo Token, conforme os passos abaixo:
 
-![integra winthor-adaptador](//images.contentful.com/alneenqid6w5/32FkfE0nBRdrWM88p3enOA/7615e676fcc0f84f9a19d2a3e577ccc2/integra_winthor-adaptador.png)
+![integra winthor-adaptador](https://images.contentful.com/alneenqid6w5/32FkfE0nBRdrWM88p3enOA/7615e676fcc0f84f9a19d2a3e577ccc2/integra_winthor-adaptador.png)
 
 1. No campo URL da integração, insira o o endereço: `https://adapterstaging.ciashop.com.br`. 
 2. Após executar todo o processo de validação da integração com o ambiente de homologação (`https://adapterstaging.ciashop.com.br`), você deve requisitar ao time de suporte VTEX CURITIBA, para que seja liberado o acesso ao ambiente de produção do adapter.

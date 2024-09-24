@@ -29,7 +29,7 @@ Existem três formas de se adicionar um valor extra sobre o frete: adicional por
 
 O adicional por valor é calculado a partir do preço do produto. É definida uma porcentagem que se aplicará ao preço do produto, e esse valor resultante é adicionado ao valor inicialmente calculado pelo frete. 
 
-![adicionalfrete1 PT](//images.ctfassets.net/alneenqid6w5/JRCo7yI9iwkS0uYW822eY/32044c9a1d1636d10d9eec1202625fc6/adicionalfrete1_PT.png)
+![adicionalfrete1 PT](https://images.ctfassets.net/alneenqid6w5/JRCo7yI9iwkS0uYW822eY/32044c9a1d1636d10d9eec1202625fc6/adicionalfrete1_PT.png)
 
 No caso acima, o valor dos produtos totaliza R$ 80,00 e o valor cadastrado como __Valor adicional__ é 10%. Com isso, o valor calculado para ser adicionado ao valor do frete é de R$ 8,00. A soma do valor final de frete e o valor adicional, é de R$18,00.
 

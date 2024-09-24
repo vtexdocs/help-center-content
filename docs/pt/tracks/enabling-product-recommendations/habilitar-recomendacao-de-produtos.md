@@ -22,7 +22,7 @@ Por padrão, o inStore mostra uma lista de produtos sugeridos ao vendedor em dua
 - No carrinho
 - Na página de produto
 
-![25. Enable product recommendations - 1](//images.ctfassets.net/alneenqid6w5/4j8YWYRuwENptnipUat6Wj/44401abb84a8aba3c3c89282afafc511/25._Enable_product_recommendations_-_1.png)
+![25. Enable product recommendations - 1](https://images.ctfassets.net/alneenqid6w5/4j8YWYRuwENptnipUat6Wj/44401abb84a8aba3c3c89282afafc511/25._Enable_product_recommendations_-_1.png)
 
 Caso deseje ocultar essas recomendações, é necessário editar os arquivos `checkout-instore-custom.css` e `checkout-instore-custom.js`.
 

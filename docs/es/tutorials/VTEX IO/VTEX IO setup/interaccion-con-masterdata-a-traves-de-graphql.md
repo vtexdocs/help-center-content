@@ -26,7 +26,7 @@ Comienze asegurándose de tener la versión más reciente de la VTEX CLI y clona
 
 Ejecute el comando `vtex init` y seleccione `graphql get-started`.
 
-![Screen Shot 2019-01-16 at 15.00.29](//images.ctfassets.net/alneenqid6w5/6Ms4swzkPZ7zdyZyTllB78/f4fde23e90b0f4bc9845cbf86fd83431/Screen_Shot_2019-01-16_at_15.00.29.png)
+![Screen Shot 2019-01-16 at 15.00.29](https://images.ctfassets.net/alneenqid6w5/6Ms4swzkPZ7zdyZyTllB78/f4fde23e90b0f4bc9845cbf86fd83431/Screen_Shot_2019-01-16_at_15.00.29.png)
 
 Vamos a usar su estructura básica y adaptarla a nuestras necesidades.
 

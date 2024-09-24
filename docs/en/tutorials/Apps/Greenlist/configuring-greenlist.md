@@ -43,7 +43,7 @@ __A Greenlist is a list of customers previously approved by the store owner acco
 
 To mark a customer as trustworthy, the store owner uses certain criteria. These criteria are __purchase details making up the signature of an order__:
 
-![Greenlist - signature](//images.contentful.com/alneenqid6w5/3CvVVFRIJ22wS6o8sq6ok6/45cdf4a8259437d36aa74a40a8a04715/Greenlist_-_assinatura.png)
+![Greenlist - signature](https://images.contentful.com/alneenqid6w5/3CvVVFRIJ22wS6o8sq6ok6/45cdf4a8259437d36aa74a40a8a04715/Greenlist_-_assinatura.png)
 
 Let’s say you select three options from the above screen: __Email address__, __Delivery address__ and __Credit card number__. This means that for new orders from this customer not to have to pass through the antifraud, he will have to use the same email address, delivery address and credit card number for new purchases. 
 

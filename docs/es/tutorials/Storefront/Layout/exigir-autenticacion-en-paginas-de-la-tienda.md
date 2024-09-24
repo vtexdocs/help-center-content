@@ -19,7 +19,7 @@ Es posible que, para ciertas páginas de la tienda, los usuarios tengan que aute
 
 Algunas páginas vienen con esta configuración de forma predeterminada. Por ejemplo, las páginas `/Account` y `/Account/Orders`.
 
-![authenticationRequired](//images.contentful.com/alneenqid6w5/60cIIkiKDSEs2ocmqescgM/3f5a0c46d61c1002c22bc7b5469db7eb/authenticationRequired.png)
+![authenticationRequired](https://images.contentful.com/alneenqid6w5/60cIIkiKDSEs2ocmqescgM/3f5a0c46d61c1002c22bc7b5469db7eb/authenticationRequired.png)
 
 Pero usted puede tanto quitar el requisito de autenticación para estas páginas como insertarlo en otras páginas.
 

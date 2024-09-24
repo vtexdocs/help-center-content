@@ -27,7 +27,7 @@ After configuring the banner, you have to add it to a page on your store. To do 
 
 >ℹ️ This feature is available on VTEX Intelligent Search Multilanguage. For more information, please refer to our article [VTEX Intelligent Search: Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-multilanguage-settings-beta--2WahlTESLXIJ9XBdQMdTYO#banners).
 
-![banner-form-en](//images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/306bbd26bcadab589aeabe91903b0bcc/image.png)
+![banner-form-en](https://images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/306bbd26bcadab589aeabe91903b0bcc/image.png)
 
 ## Banner fields
 

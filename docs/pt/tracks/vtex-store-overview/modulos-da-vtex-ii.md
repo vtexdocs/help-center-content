@@ -54,7 +54,7 @@ A tabela a seguir apresenta os principais agentes e termos utilizados no context
 
 Quando uma compra é finalizada na VTEX, uma nova transação é criada e o fluxo de pagamento é iniciado. No exemplo abaixo, é possível verificar um fluxo de pagamento para uma compra realizada por cartão de crédito:
 
-![payments-pt](//images.ctfassets.net/alneenqid6w5/5QPFkvZhpZzRWuq15zlMoz/c40d02d7dd6be8f01dc8b9ed03c4741e/payments_image1_PT.jpg)
+![payments-pt](https://images.ctfassets.net/alneenqid6w5/5QPFkvZhpZzRWuq15zlMoz/c40d02d7dd6be8f01dc8b9ed03c4741e/payments_image1_PT.jpg)
 
 Conforme as informações vão sendo transmitidas entre os agentes responsáveis pelo processamento dos dados, o status da transação de pagamento é atualizado para indicar em qual momento do fluxo os recursos se encontram. Para o fluxo de pagamento por cartão de crédito, temos o seguinte exemplo de status da transação:
 

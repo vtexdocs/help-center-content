@@ -34,7 +34,7 @@ O que ele faz é criar um elemento configurável no local do código onde for in
 
 É importante inserir um valor de `id`. Este será o identificador desse placeholder no sistema.
 
-![6 1](//images.ctfassets.net/alneenqid6w5/5TcE6FWxp9xwmSl2fQCYMa/bb0a3544af3d95d1d59e9f484ba61984/6_1.png)
+![6 1](https://images.ctfassets.net/alneenqid6w5/5TcE6FWxp9xwmSl2fQCYMa/bb0a3544af3d95d1d59e9f484ba61984/6_1.png)
 
 ### Configurando o placeholder
 

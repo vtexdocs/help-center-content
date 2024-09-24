@@ -45,7 +45,7 @@ Confira o passo a passo:
 
 >ℹ️ Mais informações sobre **Configurações gerais** e **Configurações de busca e de filtro** podem ser encontradas na sessão **Como configurar** do artigo [Criar entidade de dados](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar).
 
-![criar campo master data ds](//images.ctfassets.net/alneenqid6w5/5cWru1fi0SyEAOoEbgShOI/95cabcfa4a60032d87c3294773ba4fd0/criar_campo_master_data_ds.gif)
+![criar campo master data ds](https://images.ctfassets.net/alneenqid6w5/5cWru1fi0SyEAOoEbgShOI/95cabcfa4a60032d87c3294773ba4fd0/criar_campo_master_data_ds.gif)
 
 Desse modo, você retornará para a página de principal da aba Entidade de Dados. Para finalizar, você precisa publicar o campo. Basta localizar a linha da entidade em que o campo foi adicionado e clicar no ícone disquete.
 

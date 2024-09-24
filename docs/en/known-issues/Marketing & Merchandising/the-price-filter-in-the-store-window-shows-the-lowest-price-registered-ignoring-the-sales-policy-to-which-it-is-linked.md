@@ -21,7 +21,7 @@ internalReference:
 The price filter shows the lowest price registered, ignoring the sales policy to which it is linked. This case is specific to products with multiple value tables (associated with different sales policies).
 
 <video preload="metadata" width="100%" controls="controls">
-  <source type="video/mp4" src="//videos.contentful.com/alneenqid6w5/1VtdEXKfvekQeSKMmEeusY/d1b1d1cd6a2e902c0b297eed32ca205a/ProblemaConhecido.mp4">
+  <source type="video/mp4" src="https://videos.contentful.com/alneenqid6w5/1VtdEXKfvekQeSKMmEeusY/d1b1d1cd6a2e902c0b297eed32ca205a/ProblemaConhecido.mp4">
 </video>
 
 In this case, the filter takes into account products for the São Paulo region, but when looking for the price with the discount for the file, it takes the lowest price, which is for Paraná, since the discount in fact being applied is 10%.

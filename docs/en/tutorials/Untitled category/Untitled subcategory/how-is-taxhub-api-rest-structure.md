@@ -53,7 +53,7 @@ Response:
 ```
 
 Evidence:
-![TaxHubAPIGetTax](//images.contentful.com/alneenqid6w5/4CaoACwzqEYcUQem6okKQO/0e295bc9101cc0b46e7669a49b6f99e3/TaxHubAPIGetTax.jpg)
+![TaxHubAPIGetTax](https://images.contentful.com/alneenqid6w5/4CaoACwzqEYcUQem6okKQO/0e295bc9101cc0b46e7669a49b6f99e3/TaxHubAPIGetTax.jpg)
 
 __2 Occupation Area__
 

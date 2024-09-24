@@ -26,7 +26,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 VTEX is always looking to use a modern stack to create products that deliver more value to the ecosystem. For this reason, we started using the React JS library in our most recent systems and features: the new **My Orders** feature is one example. The newest version comes with new features and design, and was created from scratch using React.
 
-![Order listing in the new My Orders](//images.contentful.com/alneenqid6w5/5iEOW4etrGO208I4gMiqmq/3db31b5565b297daff34247be23dc7f0/my-orders-blog-1.png)
+![Order listing in the new My Orders](https://images.contentful.com/alneenqid6w5/5iEOW4etrGO208I4gMiqmq/3db31b5565b297daff34247be23dc7f0/my-orders-blog-1.png)
 
 ### New navigation experience
 

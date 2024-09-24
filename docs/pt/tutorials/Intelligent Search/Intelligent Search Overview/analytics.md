@@ -74,7 +74,7 @@ Para exportar um relatório no formato CSV, você deve seguir os passos abaixo.
 
 O relatório CSV baixado apresenta duas tabelas. A primeira tabela, ilustrada abaixo, contém informações sobre termos pesquisados e as métricas de funil (da coluna **ProductsClick** até a coluna **ProductsSold**), caso essa opção tenha sido selecionada.
 
-![search-report-term](//images.ctfassets.net/alneenqid6w5/5b8DWfBkXE9hZzugQ2LoaP/8288fcbbc3e063a58a5118e0e582d5b8/search-report-term.png)
+![search-report-term](https://images.ctfassets.net/alneenqid6w5/5b8DWfBkXE9hZzugQ2LoaP/8288fcbbc3e063a58a5118e0e582d5b8/search-report-term.png)
 
 A segunda tabela, ilustrada abaixo, mostra dados referentes ao período selecionado, exibindo a coluna Date, que informa a data da busca.
 

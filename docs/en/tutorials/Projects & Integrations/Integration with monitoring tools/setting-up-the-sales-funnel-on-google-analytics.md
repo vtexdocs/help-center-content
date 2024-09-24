@@ -23,7 +23,7 @@ With the sales funnel configured, you can track and analyze the customer's steps
 
 For manual configuration or editing of an existing goal, the first step is to access Analytics and click on the __Administrator__ button in the lower left corner. Then go to the __Goals__ option, from the "View" column.
 
-![image](//images.ctfassets.net/alneenqid6w5/2lSqr5sq9cEJqQ8OrYeMrO/8bb8294a785ec55c4bc812780d010377/Screenshot_2019-10-28_14.59.53.png)
+![image](https://images.ctfassets.net/alneenqid6w5/2lSqr5sq9cEJqQ8OrYeMrO/8bb8294a785ec55c4bc812780d010377/Screenshot_2019-10-28_14.59.53.png)
 
 In the goal administration screen, choose to create a new goal or to edit an existing one.
 

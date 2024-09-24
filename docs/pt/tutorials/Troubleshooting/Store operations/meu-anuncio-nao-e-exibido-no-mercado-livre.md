@@ -36,7 +36,7 @@ Para validar se a política comercial está configurada corretamente no cadastro
 3. Na página de cadastro do produto, valide se a política comercial que atende o Mercado Livre está selecionada.
 4. Caso não esteja, marque a flag da política comercial.
 
-  ![politicas-comerciais-pt](//images.ctfassets.net/alneenqid6w5/dRDUjjHbk3Ui0ZQEX7SYd/973f3dd4441c0b4646d0139380d13666/politicas-comerciais-pt.png)
+  ![politicas-comerciais-pt](https://images.ctfassets.net/alneenqid6w5/dRDUjjHbk3Ui0ZQEX7SYd/973f3dd4441c0b4646d0139380d13666/politicas-comerciais-pt.png)
 
  5. Clique no botão `Salvar`.
 

@@ -28,7 +28,7 @@ El ejemplo utilizado es la API de consulta a los pedidos: http://{NOMBRETIENDA}.
 
 Utilizaremos el filtro por la fecha de creación del pedido en un intervalo que traiga todos los pedidos realizados **hace un mes** y que estén en el estado **listo para el manejo.**
 
-![](//images.contentful.com/alneenqid6w5/53zjSDeDBe20MkAQa2iqk0/ba1b8b24ddb63e121dd060a79aa1a534/OMS_Filtro5.png)
+![](https://images.contentful.com/alneenqid6w5/53zjSDeDBe20MkAQa2iqk0/ba1b8b24ddb63e121dd060a79aa1a534/OMS_Filtro5.png)
 
 ![](//images.contentful.com/alneenqid6w5/3AS1rSk36MAwSIMGkaqsSm/1c496620f9c9669b7c9ccd6078681f8e/OMS_Filtro.png)
 

@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 Un favicono es el pequeño ícono asociado a un sitio web que se muestra en la pestaña del navegador al lado del título de la página, en favoritos, en el historial de navegación y en otros lugares donde aparece la dirección del sitio web, como las páginas de resultados de búsqueda.
 
-![favicon-es](//images.ctfassets.net/alneenqid6w5/6RVE5D9e9zbUogXZHvZPNQ/2df7de2fe731dedb2fb0f1c8cd13f740/favicon-es.png)
+![favicon-es](https://images.ctfassets.net/alneenqid6w5/6RVE5D9e9zbUogXZHvZPNQ/2df7de2fe731dedb2fb0f1c8cd13f740/favicon-es.png)
 
 El favicono ayuda a los usuarios a identificar rápidamente un sitio web cuando tienen varias pestañas abiertas o cuando consultan sus favoritos, mejorando la experiencia y reforzando la identidad y credibilidad de la marca.
 

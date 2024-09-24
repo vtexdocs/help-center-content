@@ -39,7 +39,7 @@ VTEX Intelligent Search: Multilanguage allows you to customize the search experi
 ### Merchandising rules
 After installing the VTEX Intelligent Search: Multilanguage, the page for creating or editing Merchandising Rules — available on VTEX Admin through __Storefront__ > __Intelligent Search__ > __Merchandising rules__ —  will contain the additional __Locales__ field, which allows you to choose the locales to which the Merchandising Rules will apply, as shown in the image below.
 
-![img regrasmerch intelligentsearchmultilanguage EN](//images.ctfassets.net/alneenqid6w5/3Pv8xpcvB43bLALrijD1UO/1ff4219f9c71ad2dfe0ed7b897268a94/01-merchrules-en.png)
+![img regrasmerch intelligentsearchmultilanguage EN](https://images.ctfassets.net/alneenqid6w5/3Pv8xpcvB43bLALrijD1UO/1ff4219f9c71ad2dfe0ed7b897268a94/01-merchrules-en.png)
 
 To learn more about this field, read our article on [how to configure Merchandising rules in VTEX Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8).
 

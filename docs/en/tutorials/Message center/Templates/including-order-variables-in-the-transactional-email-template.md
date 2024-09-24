@@ -34,7 +34,7 @@ Let's say you want to enter the name of the carrier in the "product sent" email.
 
 To do this, enter the "product sent" template ("pedido enviado") and, in the __JSON Data__ field, search for the `courier` property.
 
-![templateCourierMC](//images.contentful.com/alneenqid6w5/5bUVtrYTugUiqKimU6COEK/a21db5630ee6febbd43493b2357c8172/templateCourierMC.png)
+![templateCourierMC](https://images.contentful.com/alneenqid6w5/5bUVtrYTugUiqKimU6COEK/a21db5630ee6febbd43493b2357c8172/templateCourierMC.png)
 
 The filled-in value for this property is just an example, but you can use it in the __HTML__ field so that when the email is sent the customer sees the carrier that is actually responsible for the order delivery.
 

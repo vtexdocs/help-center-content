@@ -34,7 +34,7 @@ To perform the initial Customer Credit settings, follow the steps below:
   	<li><b>Affiliation not authenticated</b>: click in <b>Authenticate</b> to be redirected to the configuration screen where you must fill in the information <b>Application Key</b> and <b>Application Token</b>. This action will allow payments made through Customer Credit to be processed in your store. Find out more at <a href="https://developers.vtex.com/docs/guides/authentication">Authentication</a>.</li>
 </ul>
 
-![CC Configuration 1 EN](//images.ctfassets.net/alneenqid6w5/6cDl5QeEatvpLW3kYxV7Yd/25a43afef349f6443a55820be9f17616/CC_Configuration_1_EN.JPG)
+![CC Configuration 1 EN](https://images.ctfassets.net/alneenqid6w5/6cDl5QeEatvpLW3kYxV7Yd/25a43afef349f6443a55820be9f17616/CC_Configuration_1_EN.JPG)
 
 ## App settings
 

@@ -75,7 +75,7 @@ La lista de cotizaciones y carritos guardados muestra la siguiente información:
 
 Los usuarios pueden hacer clic en cualquier fila o en el <i class="fas fa-ellipsis-v" aria-hidden="true"></i> y, a continuación, hacer clic en **Detalles** para ver y editar la información de una cotización, según sus permisos.
 
-![Minhas cotações - ES](//images.ctfassets.net/alneenqid6w5/53BQDZh9EBc8OrFTxfO1eD/95263971bac96765813a8473ff3b1e9e/Minhas_cota__es.png)
+![Minhas cotações - ES](https://images.ctfassets.net/alneenqid6w5/53BQDZh9EBc8OrFTxfO1eD/95263971bac96765813a8473ff3b1e9e/Minhas_cota__es.png)
 
 ## Crear una cotización o guardar un carrito
 Para crear una cotización o carrito guardado, es necesario tener el [permiso Crear cotizaciones y carritos](#permisos-de-acceso). Después de agregar productos al carrito en la tienda, utiliza el contenido del carrito para crear un carrito guardado o solicitar una cotización. Sigue las instrucciones a continuación:

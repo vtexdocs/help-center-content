@@ -33,6 +33,6 @@ You can set up Google Shopping via VTEX Admin by following the steps below:
   The URL to access the XML will be generated automatically.
 9. Save this XML to a .txt file and send the file to Google.
 
-![](//images.contentful.com/alneenqid6w5/3boyluRWTYA4C0s4qkSG2I/28be460a5f8a6340f0b389fe5000b27c/2.png)
+![](https://images.contentful.com/alneenqid6w5/3boyluRWTYA4C0s4qkSG2I/28be460a5f8a6340f0b389fe5000b27c/2.png)
 
 >⚠️ If the option **Show unavailable SKUs** is unchecked, out-of-stock products or SKUs will not be shown in the XML. Inactive products also do not appear in the XML.

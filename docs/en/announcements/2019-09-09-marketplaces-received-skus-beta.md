@@ -25,7 +25,7 @@ This open beta is the first in a series of product updates and improvements to c
 
 One of the first and principal improvements is the new way to select SKUs en masse — so you can approve or reject them in bulk. Aligned with our [Styleguide](https://styleguide.vtex.com/ "Styleguide"), the bulk selection will make your work faster and better.
 
-![received-skus-bulk](//images.ctfassets.net/alneenqid6w5/5AoUTuM27q7LhWOOIzbPtT/26c63e97b66a252e570cadf36a8356f2/received-skus-bulk.gif)
+![received-skus-bulk](https://images.ctfassets.net/alneenqid6w5/5AoUTuM27q7LhWOOIzbPtT/26c63e97b66a252e570cadf36a8356f2/received-skus-bulk.gif)
 
 
 

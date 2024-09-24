@@ -51,7 +51,7 @@ For example, a shopper adds two products to the same shopping cart. One of them 
 
 __The payment is distributed as follows:__
 
-![Payout Split](//images.ctfassets.net/alneenqid6w5/2Pqz4t4XkfA1WGZOi1VCX0/1694e5c9947473a360e50010881fee70/PAYOUT.png)
+![Payout Split](https://images.ctfassets.net/alneenqid6w5/2Pqz4t4XkfA1WGZOi1VCX0/1694e5c9947473a360e50010881fee70/PAYOUT.png)
 
 As you can see, our Gateway calculates and distributes payouts for each recipient when the order is invoiced and sends that info to the payment provider. The distribution is done according to the amount destined to each merchant in the order and the commissions taken by the marketplace.
 

@@ -23,7 +23,7 @@ O valor de frete é calculado com base em vários fatores: tabela de frete, adic
 3. Aqui, você verificará o valor cadastrado na planilha mais todos os [adicionais](/pt/tutorial/como-funciona-o-adicional-de-frete/) somados a esse valor.
 4. Caso o valor ainda não esteja condizente com o exibido na loja, siga os passos abaixo para verificar se não há nenhuma promoção alterando o valor do frete.
 
-![por-que-meu-valor-de-frete-esta-errado pt](//images.ctfassets.net/alneenqid6w5/4voY55RWlOO8m0wOmciwkk/2663f2b117d2ce1cfffcbc513602937b/por-que-meu-valor-de-frete-esta-errado_pt.jpg)
+![por-que-meu-valor-de-frete-esta-errado pt](https://images.ctfassets.net/alneenqid6w5/4voY55RWlOO8m0wOmciwkk/2663f2b117d2ce1cfffcbc513602937b/por-que-meu-valor-de-frete-esta-errado_pt.jpg)
 
 ### Promoção
 

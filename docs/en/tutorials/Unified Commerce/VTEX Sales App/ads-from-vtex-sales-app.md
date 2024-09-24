@@ -59,7 +59,7 @@ To create an offer page for VTEX Sales App, follow the steps below:
 4. In the **Sections** tab, click the + button to add a new section. Each section is a collection of products or search terms. Each section will be displayed as a carousel. You can reorder custom displays by clicking the Move down or Move up buttons.
 5. Select an offer type, either products or search results.
   - **Product custom display:** It will display each product and SKU (optional) that you specify. Add the following information: - **Custom display title:** Name of the custom display that will be displayed on the page. - **Product ID:** Identifier number of the product you want to display. Required field. - **Product SKU ID:** Iidentifier number of the product's SKU you want to display. Optional field.
-![vitrine-produto-en](//images.ctfassets.net/alneenqid6w5/6SREOFdog1AfNXqyhH0I5Z/055391c146dbfe153d0161eb1f9af701/image.png)
+![vitrine-produto-en](https://images.ctfassets.net/alneenqid6w5/6SREOFdog1AfNXqyhH0I5Z/055391c146dbfe153d0161eb1f9af701/image.png)
 After completing the fields, the product image will be displayed with the "starting at" price. If you include the SKU, the price and promotion of the indicated SKU will be displayed. You can add more products by clicking + NEW PRODUCT. You can add up to 10 products in each custom display. The result of the product custom display will be displayed as shown in the image below.
 ![vitrine-produto-2-en](//images.ctfassets.net/alneenqid6w5/3SY8POqXIAK0Qi2lWax8qq/f288b81bbd6f3f9e788afdccead5286e/image.png)
   - **Search results custom display:** It will display products from a search result that you define. Add the following information: 

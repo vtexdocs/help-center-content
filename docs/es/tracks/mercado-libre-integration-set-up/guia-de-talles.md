@@ -18,7 +18,7 @@ Al comprar ropa o calzados en línea, muchos usuarios suelen tener preguntas sob
 
 La guía de tallas de Mercado Libre es una tabla de medidas o equivalencias que permite que los usuarios vean las medidas exactas para que puedan elegir el producto ideal para ellos. 
 
-![MLB tamanosARG](//images.ctfassets.net/alneenqid6w5/4xmAfYyY7z2sVGNKAaR2XM/404d040e8a9bae57b462da40b78e2321/MLB_tamanosARG.gif)
+![MLB tamanosARG](https://images.ctfassets.net/alneenqid6w5/4xmAfYyY7z2sVGNKAaR2XM/404d040e8a9bae57b462da40b78e2321/MLB_tamanosARG.gif)
 
 ## Entendiendo la guía de tallas
 

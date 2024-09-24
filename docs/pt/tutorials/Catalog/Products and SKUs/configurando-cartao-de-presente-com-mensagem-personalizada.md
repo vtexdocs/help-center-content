@@ -45,7 +45,7 @@ No site da sua loja, é possível validar se a configuração foi efetuada corre
 3. Neste momento o tipo de serviço deve ser disponibilizado para seleção. A mensagem precisa ser escrita em até 150 caracteres.
 4. Selecione o serviço no carrinho clique no link para adicionar mensagem.
 
-![](//images.contentful.com/alneenqid6w5/3txxLHOWtqguWu4qmAqumA/e68ef2cf4881d3b9a01199244567c790/mensagem-carrinho.png)
+![](https://images.contentful.com/alneenqid6w5/3txxLHOWtqguWu4qmAqumA/e68ef2cf4881d3b9a01199244567c790/mensagem-carrinho.png)
 
 Você pode visualizar a mensagem escrita em __Minha Conta > Meus Pedidos__:
 

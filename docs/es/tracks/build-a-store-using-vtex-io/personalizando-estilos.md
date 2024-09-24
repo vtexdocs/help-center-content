@@ -48,7 +48,7 @@ Vamos a hacer algunos cambios en nuestro archivo `style.json`. Podemos cambiar u
 
 Ahora, vamos a ver los resultados al "linkar" nuestra aplicación:
 
-![style-json](//images.ctfassets.net/alneenqid6w5/1S0DU3mL8MxRVleCmUGGol/3594be77ecae98c6c223e04191f95def/style-json.svg)
+![style-json](https://images.ctfassets.net/alneenqid6w5/1S0DU3mL8MxRVleCmUGGol/3594be77ecae98c6c223e04191f95def/style-json.svg)
 
 Muy bien! Ahora usted sabe cómo personalizar los estilos de su tienda.
 

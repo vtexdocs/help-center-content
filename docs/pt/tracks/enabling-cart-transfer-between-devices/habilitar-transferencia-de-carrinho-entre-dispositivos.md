@@ -32,7 +32,7 @@ window.INSTORE_CONFIG = {
 
 Após realizar essa alteração, abra o menu do inStore e atualize os dados, clicando no botão __Restaurar dados__. Feito isso, aparecerão duas bolinhas ao fim da página de identificação do inStore:
 
-![24. Enable cart transfer between devices - 1](//images.ctfassets.net/alneenqid6w5/4HXR0QuEd2wa6GiRFL9gsm/4515dcc3ca2bb5a7d6d2304886724704/24._Enable_cart_transfer_between_devices_-_1.png)
+![24. Enable cart transfer between devices - 1](https://images.ctfassets.net/alneenqid6w5/4HXR0QuEd2wa6GiRFL9gsm/4515dcc3ca2bb5a7d6d2304886724704/24._Enable_cart_transfer_between_devices_-_1.png)
 
 Ao arrastar a tela para a direita, você verá a tela para __Capturar Carrinho__, conforme mostra a imagem abaixo.
 

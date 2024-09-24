@@ -20,7 +20,7 @@ De forma predeterminada, el CMS sólo muestra las __últimas 20 colecciones__ ac
 
 Por lo tanto, si su tienda tiene más de 20 colecciones, es normal que algunas de ellas no aparezcan en la lista mostrada en el CMS.
 
-![findCollection1](//images.contentful.com/alneenqid6w5/1DM1TNjCKYsY0KQkMgycGm/c49a70d5570d62c993539114d8596549/findCollection1.png)
+![findCollection1](https://images.contentful.com/alneenqid6w5/1DM1TNjCKYsY0KQkMgycGm/c49a70d5570d62c993539114d8596549/findCollection1.png)
 
 Pero usted puede buscar cualquier colección utilizando el campo de búsqueda (Find), incluyendo aquellos que no se muestran por defecto.
 

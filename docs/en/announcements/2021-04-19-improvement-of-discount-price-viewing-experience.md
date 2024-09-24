@@ -24,7 +24,7 @@ Before this change, customers could experience issues in the order summary if th
 Consider, for instance, a customer that wants to buy a product that costs US$ 600 and is eligible for a 10% discount for prepayment in full. The customer proceeds to checkout and lands on the order summary page, where they must select a payment option. Here are the three main error scenarios that could occur:
 
 - The customer has not selected a payment option yet, and the price is displayed without the discount in all options, even the one that is eligible for it.
-![O usuário ainda não selecionou um número de parcelas](//images.ctfassets.net/alneenqid6w5/4dFdvU6HcZGvBWSpr0VI04/fe470a5050d3c66d98b21d978f968036/image6.png)
+![O usuário ainda não selecionou um número de parcelas](https://images.ctfassets.net/alneenqid6w5/4dFdvU6HcZGvBWSpr0VI04/fe470a5050d3c66d98b21d978f968036/image6.png)
 
 - The customer has selected a payment option that is not eligible for the discount, and the price is displayed without the discount in all options, even the one that is eligible for it (prepayment in full).
 ![O usuário selecionou um número de parcelas não elegível para desconto](//images.ctfassets.net/alneenqid6w5/nY13uDOX3JBOJvCN5Oj2i/d931d2d73ffb7f1b8c8ddbf7310b7bc9/image8.png)

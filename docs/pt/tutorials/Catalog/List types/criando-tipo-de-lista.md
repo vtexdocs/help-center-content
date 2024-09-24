@@ -59,7 +59,7 @@ O lojista decide se a lista terá evento ou não. Uma vez salvo o tipo de lista 
 
 Ao selecionar **POSSUI EVENTO**, o formulário disponibiliza outras opções de configuração para o evento, onde será possível configurar todas as datas limites para criação desse tipo de lista, conforme imagem abaixo.
 
-![eventos.pt](//images.ctfassets.net/alneenqid6w5/KhcZ5meUIwnSqBaekhc9C/b8c2b20e083c529a5ae7b4fc63e8a6ab/eventos.pt.png)
+![eventos.pt](https://images.ctfassets.net/alneenqid6w5/KhcZ5meUIwnSqBaekhc9C/b8c2b20e083c529a5ae7b4fc63e8a6ab/eventos.pt.png)
 
 A área de evento é responsável por definir se a lista criada possui ou não um período preestabelecido para a data do evento. Listas de desejo ou listas de compras não necessitam de um período determinado para ocorrência do evento. De forma contrária, listas de casamento ou de chá de bebe, precisam levar em conta a data do evento, para que assim, todos os produtos comprados sejam entregues ao dono em período hábil à data do evento.
 

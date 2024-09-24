@@ -28,7 +28,7 @@ Veja a seguir como exportar a planilha com as especificações de produto ou de 
 1. No Admin VTEX, acesse __Catálogo__, ou digite __Catálogo__ na barra de busca no topo da página.
 2. Clique em __Importação e exportação__.
 3. Clique na aba __Especificações de produto__ ou __Especificações de SKU__, dependendo da sua necessidade.
-    ![skuexport.pt](//images.ctfassets.net/alneenqid6w5/2GmGsYDBCUlq01JyLJF6q/63708fe7dece1cf9ec100eeaf0851674/skuexport.pt.png)
+    ![skuexport.pt](https://images.ctfassets.net/alneenqid6w5/2GmGsYDBCUlq01JyLJF6q/63708fe7dece1cf9ec100eeaf0851674/skuexport.pt.png)
 4. Clique com o botão direito na categoria desejada.
     Não é possível exportar especificações de todas as categorias de uma só vez. É preciso escolher apenas uma categoria cujas especificações você deseja exportar.
 5. Clique na opção `Exportar`.

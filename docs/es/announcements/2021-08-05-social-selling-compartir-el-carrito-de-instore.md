@@ -27,7 +27,7 @@ Anteriormente no era posible compartir el carrito en inStore, [solo en el ecomme
 
 Con inStore Social Selling, los vendedores de su tienda física pueden seleccionar productos y generar un enlace para compartir la **Sugerencia de carrito** con uno o más clientes a través de WhatsApp, como se muestra a continuación. También es posible copiar el enlace y compartirlo en otras redes sociales.
 
-![socialselling-ES](//images.ctfassets.net/alneenqid6w5/1jdz7EIobEDMQqdRmdIVJY/7eb64840bde5bb1648e313d6277e872f/socialselling-ES.gif)
+![socialselling-ES](https://images.ctfassets.net/alneenqid6w5/1jdz7EIobEDMQqdRmdIVJY/7eb64840bde5bb1648e313d6277e872f/socialselling-ES.gif)
 
 El vendedor puede enviar el mismo enlace a varios clientes, tantas veces como lo desee. Cada vez que una persona acceda a este enlace, se generará un nuevo carrito de compra, exactamente igual al creado en inStore. Cada carrito también estará asociado a la cuenta del vendedor y, si lo hay, al código del vendedor.
 

@@ -80,7 +80,7 @@ Para pausar el envío de mensajes de una campaña:
 
 Puedes encontrar información sobre tus campañas en curso en el Admin VTEX.
 
-![Visão geral-ES](//images.ctfassets.net/alneenqid6w5/3QiT4K7FuFoTyhmlWYWKFl/27df78b45cdda1fd0aa89bde051172a3/Vis_o_geral-ES.png)
+![Visão geral-ES](https://images.ctfassets.net/alneenqid6w5/3QiT4K7FuFoTyhmlWYWKFl/27df78b45cdda1fd0aa89bde051172a3/Vis_o_geral-ES.png)
 
 A continuación se detallan las métricas disponibles:
 

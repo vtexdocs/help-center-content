@@ -25,7 +25,7 @@ Open up your favorite text editor and navigate to your project’s folder.
 
 Adding a simple `“admin/“` to the beginning of the page name as well as to the route path should make it look like this:
 
-![2 pages](//images.ctfassets.net/alneenqid6w5/1JbyPjpfd2m2Qg6YuIG0WG/c2e98ed69b39f41703c49cda8ee6f578/2_pages.png)
+![2 pages](https://images.ctfassets.net/alneenqid6w5/1JbyPjpfd2m2Qg6YuIG0WG/c2e98ed69b39f41703c49cda8ee6f578/2_pages.png)
 
 ## Fixing dependencies
 

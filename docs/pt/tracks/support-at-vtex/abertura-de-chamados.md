@@ -20,7 +20,7 @@ O acesso a uma conta VTEX possibilita acessar o [painel de suporte](https://supp
 - Acessando qualquer página do [Help Center](https://help.vtex.com/) e clicando em `Suporte`, no topo, ou em `Entrar em contato` no canto inferior da página.
 - Acessando o Admin VTEX, clicando no ícone interrogação `?` de **Central de Informações** e escolhendo a opção **Fale com nossos especialistas**.
 
-![Support imagem 1 - PT](//images.ctfassets.net/alneenqid6w5/75ezzwg9iant6cmq04FhTz/8b56af5455d0c5ce1879a98aaa6b6768/support_imagem1_PT.gif)
+![Support imagem 1 - PT](https://images.ctfassets.net/alneenqid6w5/75ezzwg9iant6cmq04FhTz/8b56af5455d0c5ce1879a98aaa6b6768/support_imagem1_PT.gif)
 
 >ℹ️ Para obter mais informações sobre como abrir um chamado e sobre tipos de chamado, basta acessar o artigo [Abrir chamados para o suporte VTEX](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex).
 

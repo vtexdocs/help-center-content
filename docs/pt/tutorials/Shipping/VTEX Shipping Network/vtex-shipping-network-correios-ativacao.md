@@ -23,7 +23,7 @@ Este artigo é sobre como ativar o **VTEX Shipping Network Correios**. Esta ativ
 
 O vídeo abaixo apresenta todas as etapas da ativação, e na seção seguinte você encontra o passo a passo:
 
-![vsncorreios_ativacao_PT](//images.ctfassets.net/alneenqid6w5/3jkyhn9NypaHZBeXAib7iz/410d76ca2ba8b25cbfce2c0adcb27813/vsncorreios_ativacao.gif)
+![vsncorreios_ativacao_PT](https://images.ctfassets.net/alneenqid6w5/3jkyhn9NypaHZBeXAib7iz/410d76ca2ba8b25cbfce2c0adcb27813/vsncorreios_ativacao.gif)
 
 >ℹ️ Se você deseja integrar a sua operação com outras transportadoras além dos Correios, temos o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/), com sugestões de parceiros selecionados pela nossa equipe com foco no seu modelo de negócio.
 

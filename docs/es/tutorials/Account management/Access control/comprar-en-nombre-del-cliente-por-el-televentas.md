@@ -21,7 +21,7 @@ La toolbar aparece una vez que el operador registrado haga login en el ambiente 
 
 Para comprar en nombre del cliente por el televentas, el operador debe hacer clic en **Entrar como**, ubicado en la esquina derecha de la toolbar.
 
-![Operador de televentas personificando el cliente con la barra](//images.contentful.com/alneenqid6w5/3rWoDmY4paceYWKEW2cg2S/c7edba682c7fd97b25d0fdc01faf1f9b/toolbar-1-1.png)
+![Operador de televentas personificando el cliente con la barra](https://images.contentful.com/alneenqid6w5/3rWoDmY4paceYWKEW2cg2S/c7edba682c7fd97b25d0fdc01faf1f9b/toolbar-1-1.png)
 
 Después, el e-mail del cliente será exibido en esta misma área.
 

@@ -25,7 +25,7 @@ Abajo reproducimos un trecho de CSS que puede usar como punto de partida para es
 
 Luego, vamos a enviar el archivo CSS grabado al servidor. Para eso, haga clic en el menú _Configurações__&gt; Portal_ dentro del Admin.
 
-![](//images.contentful.com/alneenqid6w5/3uLeF6wpvq4m4Wis48eeE8/4f79bf7753fb25309b670e9ea702a3ad/configuracao_zoom.gif)
+![](https://images.contentful.com/alneenqid6w5/3uLeF6wpvq4m4Wis48eeE8/4f79bf7753fb25309b670e9ea702a3ad/configuracao_zoom.gif)
 
 En la ventana que se despliega a la derecha, haga clic en el botón **Adicionar**.
 

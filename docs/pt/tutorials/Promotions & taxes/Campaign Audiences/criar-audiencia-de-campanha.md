@@ -66,7 +66,7 @@ Após clicar em `Criar novo público-alvo`, você precisa seguir as instruções
     * **ou:** a audiência de campanha será composta por clientes que se encaixarem em qualquer um dos públicos-alvo.
     * **e:** a audiência de campanha será composta por clientes que se encaixarem em todos os públicos-alvos, somando seus critérios.
 
-![publico-alvo-e-ou-pt](//images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/92a1ac37149d16f9b039cd1f024e6dff/image4.gif)
+![publico-alvo-e-ou-pt](https://images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/92a1ac37149d16f9b039cd1f024e6dff/image4.gif)
 
 ### Defina seu público-alvo
 

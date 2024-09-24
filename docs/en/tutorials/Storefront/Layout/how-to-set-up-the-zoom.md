@@ -19,7 +19,7 @@ A tool very commonly used in online stores is the zoom.
 
 It allows the customer to see a detailed image by passing the mouse over a photo of the product. Let us see how to set up and implement this function.
 
-![zoom-configurações](//images.ctfassets.net/alneenqid6w5/2syaIncF2UeOw0YgOcOSIq/02d931bb81ef413ad248f21e518fbd24/zoom.png)
+![zoom-configurações](https://images.ctfassets.net/alneenqid6w5/2syaIncF2UeOw0YgOcOSIq/02d931bb81ef413ad248f21e518fbd24/zoom.png)
 
 ## Setting up the CSS
 

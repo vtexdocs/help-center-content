@@ -34,7 +34,7 @@ Feito isso, a integração da sua loja VTEX com o Magalu Marketplace estará con
 
 | **Campo** | **Descrição** | **Exemplo**|
 |---|---|---|
-| **Integração*** | Marque como *Ativada* para que a integração comece a operar. Se optar por desativar a integração, toda a configuração, incluindo afiliado, serão excluídos. | ![Integração Magalu](//images.ctfassets.net/alneenqid6w5/3h6E673Nx6xsCpjbqGAjYd/d8b34130a2a85301b469a5f5fea55f45/integra____o_magalu.png) |
+| **Integração*** | Marque como *Ativada* para que a integração comece a operar. Se optar por desativar a integração, toda a configuração, incluindo afiliado, serão excluídos. | ![Integração Magalu](https://images.ctfassets.net/alneenqid6w5/3h6E673Nx6xsCpjbqGAjYd/d8b34130a2a85301b469a5f5fea55f45/integra____o_magalu.png) |
 | **CNPJ*** | CNPJ utilizado no cadastrado no portal Magalu Marketplace. Inserir apenas números, sem caracteres especiais. | **45121594000127** |
 | **Id do afiliado*** | Código identificador para criação de um [afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não. Vogais não são aceitas. A configuração do conector cria automaticamente o afiliado. | **MGZ** |
 | **Política Comercial*** | ID da [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será utilizada para a integração com o Magalu Marketplace. Todos os produtos vinculados a esta política comercial serão enviados para o marketplace. | **1** |

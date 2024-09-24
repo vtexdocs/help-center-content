@@ -57,7 +57,7 @@ En el cálculo del rendimiento, se consideran todos los paquetes que forman part
 
 El rendimiento es el resultado porcentual del cálculo entre la relación de paquetes entregados a tiempo y el total de paquetes entregados. Por lo tanto, el cálculo del rendimiento solo toma en cuenta los paquetes entregados. Veamos:
 
-![equation ES performance](//images.ctfassets.net/alneenqid6w5/24t2KA8ivoNmb4y3oaDDxf/a7c32e054f2b328ee9cbbf83a54a4c09/equation_ES_performance.gif)
+![equation ES performance](https://images.ctfassets.net/alneenqid6w5/24t2KA8ivoNmb4y3oaDDxf/a7c32e054f2b328ee9cbbf83a54a4c09/equation_ES_performance.gif)
 
  La herramienta de rendimiento de VTEX Shipping Network permite:
 

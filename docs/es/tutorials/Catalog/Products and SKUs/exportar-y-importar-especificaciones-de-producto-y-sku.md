@@ -30,7 +30,7 @@ Vea a continuación cómo exportar la plantilla con las especificaciones del pro
 1. En el Admin VTEX, accede a **Catálogo**, o escribe **Catálogo** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en **Importación y exportación**.
 3. Haz clic en la pestaña __Especificaciones de producto__ o **Especificaciones de SKU**, en función de sus necesidades.
-    ![skuexport1.es](//images.ctfassets.net/alneenqid6w5/6dlUefWP7lw3FzqWZjcLet/1d604f16ca07a32db13bdb1a3d52836a/skuexport1.es.png)
+    ![skuexport1.es](https://images.ctfassets.net/alneenqid6w5/6dlUefWP7lw3FzqWZjcLet/1d604f16ca07a32db13bdb1a3d52836a/skuexport1.es.png)
 4. Haz clic con el botón derecho en la categoría deseada.
     No puede exportar especificaciones de todas las categorías a la vez. Debe elegir sólo una categoría cuyas especificaciones desee exportar. 
 5. Haz clic en `Exportar`.

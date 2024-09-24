@@ -44,7 +44,7 @@ A continuación se muestra la lista de todos los atributos del control Search Re
 
 El código renderizado por el control Search Result tiene, de forma predeterminada, la siguiente estructura:
 
-![searchResult1](//images.ctfassets.net/alneenqid6w5/3BbGHkrGZi8KK4U82IAq6w/123f66c2caa97aca4fc60018cf295aca/searchResult1.jpg) 
+![searchResult1](https://images.ctfassets.net/alneenqid6w5/3BbGHkrGZi8KK4U82IAq6w/123f66c2caa97aca4fc60018cf295aca/searchResult1.jpg) 
 
 Y los elementos correspondientes que son renderizados por el control en su versión no personalizada siguen el patrón abajo:
 

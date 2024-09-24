@@ -25,7 +25,7 @@ Navegue até o projeto e abra o arquivo `pages.json`.
 
 Adicionamos o `“admin/“` ao nome da página, assim como à rota. É importante também adicionar `“admin/“` ao início do nome de todas as extensoes que serão usadas. Seu `pages.json` deve ficar assim:
 
-![2 pages](//images.ctfassets.net/alneenqid6w5/1JbyPjpfd2m2Qg6YuIG0WG/c2e98ed69b39f41703c49cda8ee6f578/2_pages.png)
+![2 pages](https://images.ctfassets.net/alneenqid6w5/1JbyPjpfd2m2Qg6YuIG0WG/c2e98ed69b39f41703c49cda8ee6f578/2_pages.png)
 
 ## Atualizar as dependências para usar o vtex.admin
 

@@ -23,7 +23,7 @@ Con el embudo de ventas configurado, es posible acompañar y analizar los pasos 
 
 Para la configuración manual o la edición de una meta existente, el primer paso es acceder a Analytics y hacer clic en el botón __Administrador__ en la esquina inferior izquierda. A continuación, vaya a la opción __Metas__, de la columna "Vista".
 
-![image](//images.ctfassets.net/alneenqid6w5/1br6W1yFRuMWoO2wW8Iu04/de2c4c8938a856821b25fde18b2632a7/image.png)
+![image](https://images.ctfassets.net/alneenqid6w5/1br6W1yFRuMWoO2wW8Iu04/de2c4c8938a856821b25fde18b2632a7/image.png)
 
 En la pantalla de administración de metas, opte por crear una nueva o editar una ya existente.
 

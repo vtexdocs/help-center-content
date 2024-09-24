@@ -25,7 +25,7 @@ This page allows you to:
 * [Search for worksheets](#search-for-worksheets)
 * [Filter worksheets](#filter-worksheets)
 
-![pick-pack-ordem-servico-en](//images.ctfassets.net/alneenqid6w5/6mHohZLRFdkoTlltboN2pm/f2df0910a4b7c2b1be73553b20394536/image.png)
+![pick-pack-ordem-servico-en](https://images.ctfassets.net/alneenqid6w5/6mHohZLRFdkoTlltboN2pm/f2df0910a4b7c2b1be73553b20394536/image.png)
 
 Orders are displayed in cards with the following information:
 

@@ -21,7 +21,7 @@ The toolbar appears once the registered operator logs on to the store environmen
 
 To order in the name of a customer using the callcenter, the operator needs to click on **Login as**, in the right-hand corner of the toolbar.
 
-![Callcenter operator personifying the customer with the toolbar](//images.contentful.com/alneenqid6w5/3rWoDmY4paceYWKEW2cg2S/c7edba682c7fd97b25d0fdc01faf1f9b/toolbar-1-1.png)
+![Callcenter operator personifying the customer with the toolbar](https://images.contentful.com/alneenqid6w5/3rWoDmY4paceYWKEW2cg2S/c7edba682c7fd97b25d0fdc01faf1f9b/toolbar-1-1.png)
 
 Having done this, the customer’s e-mail is displayed in this same area.
 

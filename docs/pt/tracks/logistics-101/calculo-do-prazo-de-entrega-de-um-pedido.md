@@ -23,7 +23,7 @@ O prazo de entrega de um pedido leva em consideração os __tempos de custo__ de
 
 Para cada uma das três etapas da rota logística, você pode definir um tempo de custo - e o prazo de entrega que o seu cliente verá no checkout é a soma desses tempos de custo (+ feriados, e ainda considerando os horários de corte).
 
-![deliveryCostTimes](//images.contentful.com/alneenqid6w5/hA6N4VPj440AEqEecIUck/0a6784f0c3d6f6d88b65547762600a7d/deliveryCostTimes.png)
+![deliveryCostTimes](https://images.contentful.com/alneenqid6w5/hA6N4VPj440AEqEecIUck/0a6784f0c3d6f6d88b65547762600a7d/deliveryCostTimes.png)
 
 Os tempos de custo do __estoque__ e da __doca__ são definidos nas telas de configuração de cada uma dessas etapas, no módulo Estoque & Entrega > Painéis.
 

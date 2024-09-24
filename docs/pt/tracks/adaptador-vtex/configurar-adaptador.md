@@ -20,7 +20,7 @@ Abaixo você encontrar informações sobre como você efetua a configuração do
 
 1. Para executar este procedimento você deve abrir o administrador da sua loja VTEX e a tela de configuração do adaptador. Sugerimos fazer isto em duas abas separadas do seu navegador preferido.
 2. No administrador da VTEX (`https://{suaconta}.myvtex.com.br/admin`), clique em **Gerenciamento de contas** e, em seguida, em **Contas**.
-![imagem-adaptador3](//images.contentful.com/alneenqid6w5/16pH131NlS4xUtpmPbXbTN/b2392494bf4b077eb3642b810617a06e/image.png)
+![imagem-adaptador3](https://images.contentful.com/alneenqid6w5/16pH131NlS4xUtpmPbXbTN/b2392494bf4b077eb3642b810617a06e/image.png)
 3. Digite o nome da sua conta na barra de pesquisa e pressione o botão `Enter`.
 4. Clique no nome da sua conta. Você será redirecionado para a página **Editar conta**.
 5. Na seção **Segurança**, clique em `Gerar appKey e appToken`.

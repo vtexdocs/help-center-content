@@ -19,7 +19,7 @@ O VTEX DO é um gerenciador de tarefas geradas pelos módulos da plataforma para
 
 Para visualizar a lista de tarefas, basta clicar no canto inferior direto da tela do Gerenciamento de Pedidos.  Alguns exemplos dessas tarefas são: __revisar pagamento para cancelar; estornar pagamento; autorizar pedido com alçada; cancelamento requisitado e muitas outras__, pois cada módulo existente na VTEX tem a autonomia e permissão para postar qualquer informação.
 
-![](//images.contentful.com/alneenqid6w5/6CypzWJhLye2OOW6QqEKu0/fce59ed1fedbb5f8889b1cb5f3ec4bf2/VtexDO_GifAbrir.gif)
+![](https://images.contentful.com/alneenqid6w5/6CypzWJhLye2OOW6QqEKu0/fce59ed1fedbb5f8889b1cb5f3ec4bf2/VtexDO_GifAbrir.gif)
 
 Essa funcionalidade permite ao usuário as seguintes ações: atribuir as tarefas a alguém (até para si próprio), marcá-las como resolvidas, adicionar um comentário e ver mais detalhes, que é o redirecionamento para onde a tarefa precisa ser feita. Existem os botões adiar e ignorar, mas são futuras ações que ainda estão sendo desenvolvidas.
 

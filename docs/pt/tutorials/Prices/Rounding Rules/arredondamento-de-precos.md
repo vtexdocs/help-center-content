@@ -60,7 +60,7 @@ Abaixo é possível ver exemplos dos fluxos de inclusão, edição e exclusão d
 
 *Fluxo de criação de uma regra*
 
-![config-arrendodamento-PT](//images.ctfassets.net/alneenqid6w5/6HPUHcVmPcDz90eXLbKrlV/16bd4ce06174eee79c58e998424f36dd/config-arrendodamento-PT.gif)
+![config-arrendodamento-PT](https://images.ctfassets.net/alneenqid6w5/6HPUHcVmPcDz90eXLbKrlV/16bd4ce06174eee79c58e998424f36dd/config-arrendodamento-PT.gif)
 
 *Fluxo de alteração de uma regra*
 

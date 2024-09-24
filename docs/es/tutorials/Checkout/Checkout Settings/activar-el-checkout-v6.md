@@ -28,7 +28,7 @@ Para actualizar el checkout de su tienda a la última versión (Checkout v6), de
 5. Haga clic en __Guardar__. 
 6. [Acceda a su tienda en ambiente beta](/tutorial/acceder-al-ambiente-beta--3BHM289568gcSwk2O80Asu) y haga los ajustes de estilo necesarios. El Checkout v6 posee nuevas clases _CSS_ que debem ser llevadas en consideración para personalización del estilo.
 
-![Checkoutv6_box](//images.ctfassets.net/alneenqid6w5/9hAJfi1LLwpFlcB5iWA3k/dbef571b8ec2baed5bbc8546effaed82/CheckoutV6_box_ES.png)
+![Checkoutv6_box](https://images.ctfassets.net/alneenqid6w5/9hAJfi1LLwpFlcB5iWA3k/dbef571b8ec2baed5bbc8546effaed82/CheckoutV6_box_ES.png)
 
 ## Activar el Checkout v6 en Ambiente de Producción
 

@@ -34,7 +34,7 @@ Agora, preencha os campos abaixo seguindo as instruções:
 
 Veja a imagem abaixo:
 
-![Novo Site](//images.ctfassets.net/alneenqid6w5/3PE7SFAdM4qIpXtPrxC7oV/9404083232d8cae1101fd1e4e4a18b98/Novo_Site.png)
+![Novo Site](https://images.ctfassets.net/alneenqid6w5/3PE7SFAdM4qIpXtPrxC7oV/9404083232d8cae1101fd1e4e4a18b98/Novo_Site.png)
 
 ![smartcheckout2.pt](//images.ctfassets.net/alneenqid6w5/6klkJKS7Jegp0YvISd4UFz/c84e643fa16420603a40a09f1942356f/smartcheckout2.pt.png)
 

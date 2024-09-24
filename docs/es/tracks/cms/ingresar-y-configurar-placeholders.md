@@ -34,7 +34,7 @@ Lo que hace es crear un elemento configurable en el lugar del código donde se i
 
 Es importante ingresar un valor de `id`. Este será el identificador para este placeholder en el sistema.
 
-![6 1](//images.ctfassets.net/alneenqid6w5/5TcE6FWxp9xwmSl2fQCYMa/bb0a3544af3d95d1d59e9f484ba61984/6_1.png)
+![6 1](https://images.ctfassets.net/alneenqid6w5/5TcE6FWxp9xwmSl2fQCYMa/bb0a3544af3d95d1d59e9f484ba61984/6_1.png)
 
 ### Configurando el placeholder
 

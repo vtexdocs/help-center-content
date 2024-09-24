@@ -31,7 +31,7 @@ A página inicial apresenta a lista de promoções em uma grade que permite visu
 - Duplicar ou arquivar promoções através do botão <i class="fas fa-ellipsis-v"></i>
 - Gerenciar as condições da promoção clicando em qualquer parte da linha do grid (veja [Nova promoção](#nova-promocao) para detalhamento das condições da promoção).
 
-![promobeta1 acoes lista promocoes PT](//images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/75ce08a03318ebe1cf47d3a01b5b7c62/promobeta1_acoes_lista_promocoes_PT.gif)
+![promobeta1 acoes lista promocoes PT](https://images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/75ce08a03318ebe1cf47d3a01b5b7c62/promobeta1_acoes_lista_promocoes_PT.gif)
 
 A lista de promoções pode ser filtrada e ordenada conforme a sua necessidade. A filtragem da lista pode ser feita por *Efeito*, *Estado*, *Data início*, *Data fim* ou *Política comercial*.
 

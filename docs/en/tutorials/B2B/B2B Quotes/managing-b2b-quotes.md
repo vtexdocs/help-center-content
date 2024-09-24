@@ -77,7 +77,7 @@ The list of quotes and saved carts displays the following information:
 
 Users can click any row or the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> and then click Details to view and edit the information of a quote, depending on their permissions.
 
-![My quotes - EN](//images.ctfassets.net/alneenqid6w5/53BQDZh9EBc8OrFTxfO1eD/9aa6c7d1954fbd7112da3c65220d70cb/My_Quotes.png)
+![My quotes - EN](https://images.ctfassets.net/alneenqid6w5/53BQDZh9EBc8OrFTxfO1eD/9aa6c7d1954fbd7112da3c65220d70cb/My_Quotes.png)
 
 ## Creating quotes or saving carts
 To create a quote or saved cart, you must have the [Create Quotes and Carts permission](#create-quotes-and-Carts-permission). After adding products to the cart, use the cart content to create a saved cart or request a quote. Follow the instructions below:

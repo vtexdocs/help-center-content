@@ -30,7 +30,7 @@ As sugestões são exibidas em duas categorias na listagem de sinônimos, confor
 * **Novas sugestões:** sugestões geradas pela plataforma que ainda não foram visualizadas.
 * **Sugestões salvas:** sugestões salvas para depois, como descrito no passo 5 da seção [Revisar sugestões](#revisar-sugestoes).
 
-![synonym-suggestion-list-pt](//images.ctfassets.net/alneenqid6w5/YxS5i9kNqByGvZkPXyioK/188a778320a17c36d1af8a39ab15d4f4/synonym-suggestion-list-pt.png)
+![synonym-suggestion-list-pt](https://images.ctfassets.net/alneenqid6w5/YxS5i9kNqByGvZkPXyioK/188a778320a17c36d1af8a39ab15d4f4/synonym-suggestion-list-pt.png)
 
 Você pode revisar as sugestões geradas e optar por salvar para depois, recusar, editar ou aprovar. Confira o passo a passo na seção a seguir.
 

@@ -30,7 +30,7 @@ Este guía le ayudará a usted a personalizar la configuración de su tienda par
 
 Al abrirse la aplicación por primera vez, ella pregunta cuál es el nombre de la tienda que será usada. Conforme a la pantalla a continuación, basta digitar el nombre de su tienda para tener cargadas para el app las configuraciónes.
 
-![instore-identificacao-loja](//images.contentful.com/alneenqid6w5/20IMJOo5Kc8Kw4OqicCQyc/8a76ed7d6c16d6b269518d430998ec44/instore-identificacao-loja.png)
+![instore-identificacao-loja](https://images.contentful.com/alneenqid6w5/20IMJOo5Kc8Kw4OqicCQyc/8a76ed7d6c16d6b269518d430998ec44/instore-identificacao-loja.png)
 
 ### Cómo registrar una tienda física
 

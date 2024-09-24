@@ -73,7 +73,7 @@ Deberás seleccionar un vendedor de la tienda en la que quieras probar Venta en 
 1. Tras [seleccionar un vendedor](https://help.vtex.com/es/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), accede a Sales App e inicia sesión.
 2. Busca un ítem que exista en el almacén de la cuenta franquicia registrada. Este ítem debe mostrar la cantidad disponible correspondiente en el stock del seller.
 
-![instore-pdp-es](//images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/b2feab0b2eb3c3893ed654801743e5cd/image.png)
+![instore-pdp-es](https://images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/b2feab0b2eb3c3893ed654801743e5cd/image.png)
 
 >ℹ️ Si has habilitado el stock infinito, el número mostrado será superior a 1 millón de ítems y no cambiará cuando se complete una venta.
 

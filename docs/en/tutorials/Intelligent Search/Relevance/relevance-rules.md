@@ -24,7 +24,7 @@ You can configure relevance in two ways:
   - __Priority Criteria__: it imposes that one or more criteria has a higher priority among the others. In this situation, there are no weights; all products that have this feature will be shown first in the search results.
   - __Criteria Composition__: it is a way to distribute weights for each option, ranging from 0 to 10. Here, there is no order between the criteria; the weights will define the relevance.
 
-![criterios-en](//images.ctfassets.net/alneenqid6w5/2okH4XcNScAzf6PJIlOKqs/56c8163ed9b449419c17db066dd4506e/criterios-en.png)
+![criterios-en](https://images.ctfassets.net/alneenqid6w5/2okH4XcNScAzf6PJIlOKqs/56c8163ed9b449419c17db066dd4506e/criterios-en.png)
 
 The information considered for the relevance is:
 

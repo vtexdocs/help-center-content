@@ -29,7 +29,7 @@ Para inserir os scripts que a Braspag/CyberSource exige para o device fingerprin
 
 ## Criação de variáveis (macros) e acionador
 
-- Crie a variável de nome `trasactionPaymentId`, tipo **Variável da camada de dados**, lendo a variável `transactionPayment.id` do datalayer.![](//images.contentful.com/alneenqid6w5/2iGloCXR32IMAyWAKe8qWy/cf1108ad17e944adc63f189e67cfa93d/gtm-cybersource-variavel1-1.png)
+- Crie a variável de nome `trasactionPaymentId`, tipo **Variável da camada de dados**, lendo a variável `transactionPayment.id` do datalayer.![](https://images.contentful.com/alneenqid6w5/2iGloCXR32IMAyWAKe8qWy/cf1108ad17e944adc63f189e67cfa93d/gtm-cybersource-variavel1-1.png)
 - Crie a variável de nome `cs_sessionId`, com o tipo **JavaScript personalizado** e o seguinte código:
 
 ```

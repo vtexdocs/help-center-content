@@ -24,7 +24,7 @@ No entanto, esses atributos são bastante claros (Cor principal, Cor secundária
 
 Se algum desses atributos for preenchido incorretamente (por exemplo, se você atribuiu um código referente a Tamanho de cinto para um calçado), o Integrações vai retornar um erro com o seguinte formato:
 
-![Shot1](//images.contentful.com/alneenqid6w5/7A7DwGFr0cw8Q2qek0EqMU/9cad02c847f5dc7be7df68ad14bba39e/Shot1.jpg)
+![Shot1](https://images.contentful.com/alneenqid6w5/7A7DwGFr0cw8Q2qek0EqMU/9cad02c847f5dc7be7df68ad14bba39e/Shot1.jpg)
 
 Neste caso, temos dois exemplos de erros na mesma mensagem.
 

@@ -19,7 +19,7 @@ From now on, your store can use a semicolon (`;`) to concatenate e-mail addresse
 
 This feature works for both the copy field (`Cc`) and the hidden copy field (`Bcc`), just as the comma already worked. The two concatenation options are now valid.
 
-![Message Center bug fix - EN](//images.ctfassets.net/alneenqid6w5/4P6PvvTcgEASE8ooUakoSG/73b01a7f5ebdaaebc66aa805dbe61169/Message_Center_bug_fix_-_EN.png)
+![Message Center bug fix - EN](https://images.ctfassets.net/alneenqid6w5/4P6PvvTcgEASE8ooUakoSG/73b01a7f5ebdaaebc66aa805dbe61169/Message_Center_bug_fix_-_EN.png)
 
 This simple change in the module responsible for sending transactional emails dramatically reduced the error rate on customer communications.
 

@@ -28,7 +28,7 @@ No Admin VTEX:
 1. Acesse **Storefront > Pages**.
 2. Clique na aba **Redirecionamentos**.
 
-![pt-redirecttab](//images.ctfassets.net/alneenqid6w5/5L8GV385HAeTQqBjQ3uAS4/e3a177caafdb271ce78b94c86f9add4f/pt-redirecttab.png)
+![pt-redirecttab](https://images.ctfassets.net/alneenqid6w5/5L8GV385HAeTQqBjQ3uAS4/e3a177caafdb271ce78b94c86f9add4f/pt-redirecttab.png)
 
 ## Criando redirecionamentos manualmente
 

@@ -19,7 +19,7 @@ A página **SKUs recebidos** permite que o [marketplace](https://help.vtex.com/p
 
 A catalogação pode ser feita manualmente ou automaticamente, [por meio de um ou mais matchers](https://help.vtex.com/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt), e também pelo [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). Além disso, também existe a possibilidade de usar ferramentas externas para realizar essa operação.  
 
-![Apresentação Anúncios Recebidos-PT](//downloads.ctfassets.net/alneenqid6w5/1qyRLboXsLXCwaoT3xfSwI/9882db31e2a68ebe127532f24cf4bcae/GIF_PT.gif)  
+![Apresentação Anúncios Recebidos-PT](https://downloads.ctfassets.net/alneenqid6w5/1qyRLboXsLXCwaoT3xfSwI/9882db31e2a68ebe127532f24cf4bcae/GIF_PT.gif)  
 
 Neste artigo você encontrará uma visão geral sobre a [Estrutura da página](#estrutura-da-pagina), [Priorizando a catalogação](#priorizando-a-catalogacao) e [Catalogação de itens](#catalogacao-de-itens).  
 

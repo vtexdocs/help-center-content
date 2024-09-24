@@ -39,7 +39,7 @@ Please remember that `htmlSeo` is the name of the control created above. This 
 
 **Examples**
 
-![](//images.contentful.com/alneenqid6w5/5LY7pZwZpe8iQiWccqCc26/d4c10dc57a8f6091dd5c23ec3fdad12e/2016-04-05_17_15_29-Index.png)
+![](https://images.contentful.com/alneenqid6w5/5LY7pZwZpe8iQiWccqCc26/d4c10dc57a8f6091dd5c23ec3fdad12e/2016-04-05_17_15_29-Index.png)
 
 ![](//images.contentful.com/alneenqid6w5/45kPL4QTfqMkYuAYQEeuC2/aed1934b3268ccb8310226e0e6ce9ff3/2016-04-05_17_15_58-Index.png)
 

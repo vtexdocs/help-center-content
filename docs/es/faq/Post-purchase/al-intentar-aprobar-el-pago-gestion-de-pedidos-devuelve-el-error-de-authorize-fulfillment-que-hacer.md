@@ -18,7 +18,7 @@ Un error común en la aprobación de pago, en el módulo **Pedidos**, es el de f
 
 En este caso, al intentar aprobar el pago en **Pedidos**, usted verá el siguiente error:
 
-![error authorize fulfillment](//images.contentful.com/alneenqid6w5/5Wvwem2kucqsOIYKq4WW00/23b0ffb4209565da148382c3299e2bac/error_authorize_fulfillment.png)
+![error authorize fulfillment](https://images.contentful.com/alneenqid6w5/5Wvwem2kucqsOIYKq4WW00/23b0ffb4209565da148382c3299e2bac/error_authorize_fulfillment.png)
 
 Para confirmar que el problema es este, en la [página de detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), haga clic en `Ver interacciones` para ver los detalles del pedido.
 

@@ -28,7 +28,7 @@ Ao combinar dados de diferentes fontes, ele é capaz de prever como suas vendas 
 ## Como o Predictor Bot funciona
 
 Começamos por uma ideia geral de como está o desempenho da sua loja.
-![sales data](//images.contentful.com/alneenqid6w5/4LVuTVHevYw6eaykMwQY4M/8b9a06a17479a1595c05d879071ad320/sales_data.png)
+![sales data](https://images.contentful.com/alneenqid6w5/4LVuTVHevYw6eaykMwQY4M/8b9a06a17479a1595c05d879071ad320/sales_data.png)
 
 Conforme ilustrado na imagem acima, cada loja típica tem um padrão - mesmo em uma base diária, ou por hora. Devemos identificar esse padrão para iniciar qualquer análise.
 

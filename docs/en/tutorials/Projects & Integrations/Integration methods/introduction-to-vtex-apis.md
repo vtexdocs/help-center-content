@@ -62,7 +62,7 @@ It must contain:
  
 In Postman, the URL must be included in the field informed below:
 
-![APIs1](//images.contentful.com/alneenqid6w5/f53Sv9BCZqK4EI0sYmW8A/63e512b825d47daa2f685ae5bb9df553/APIs1.png)
+![APIs1](https://images.contentful.com/alneenqid6w5/f53Sv9BCZqK4EI0sYmW8A/63e512b825d47daa2f685ae5bb9df553/APIs1.png)
 
 
 ****

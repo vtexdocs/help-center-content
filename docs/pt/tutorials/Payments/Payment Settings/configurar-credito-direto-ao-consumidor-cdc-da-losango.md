@@ -44,7 +44,7 @@ Tendo em mãos o script pré-aprovado de customização, siga as instruções ab
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Storefront** > **Checkout**, ou digite **Checkout** na barra de busca no topo da página.
 2. Clique no ícone <img src="https://images.ctfassets.net/alneenqid6w5/3d4KBPLr2piZGC48KD3qgh/6f808efc5450f36faa773d4c7d848b68/CDC-Losango-1.png" style="width: 23px;" /> correspondente ao site que será customizado
-    ![CDC-Losango-2](//images.ctfassets.net/alneenqid6w5/7iUE1B4xlYF96gMs0oMfUn/2a55fcd4cc8f0239a0785634e29a18df/CDC-Losango-2.png)
+    ![CDC-Losango-2](https://images.ctfassets.net/alneenqid6w5/7iUE1B4xlYF96gMs0oMfUn/2a55fcd4cc8f0239a0785634e29a18df/CDC-Losango-2.png)
 3. Clique na aba Código e selecione o arquivo `checkout6-custom.js`.
     ![CDC-Losango-3](//images.ctfassets.net/alneenqid6w5/248J5RJvoSq2olzQoPsNKn/3598c85f81649667f21d4d5fa40d71b4/CDC-Losango-3.png)
 4. Cole o script pré-aprovado de customização __no fim do campo de texto__.

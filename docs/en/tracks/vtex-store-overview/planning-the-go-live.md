@@ -34,7 +34,7 @@ The process of a store's go-live, including the necessary settings and tests, ca
 
 The following image shows the planning steps for the VTEX store go-live:
 
-![go-live-en](//images.ctfassets.net/alneenqid6w5/3AA13R58ffQhNjBBoJm2kS/42ac375fd2ab83f78c34dfca3da81260/golive_1_EN.png)
+![go-live-en](https://images.ctfassets.net/alneenqid6w5/3AA13R58ffQhNjBBoJm2kS/42ac375fd2ab83f78c34dfca3da81260/golive_1_EN.png)
 
 ### Define the MVP
 

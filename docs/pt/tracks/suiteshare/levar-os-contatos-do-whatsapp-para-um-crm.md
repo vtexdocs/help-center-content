@@ -26,7 +26,7 @@ Você provavelmente já definiu quais [links](https://help.vtex.com/pt/tutorial/
 
 1. No menu principal do seu painel admin na VTEX Assisted Sales (SuiteShare), clique em **Configurações**.
 2. Selecione a opção **Integrações**. 
-![Levar os contatos do WhatsApp para um CRM 1](//images.ctfassets.net/alneenqid6w5/1eVxgg7WRTzIhymKuIKHui/f03e6023c83e6bd24ac65f00e987ef5b/Screenshot_2022-08-24_at_17-59-46_Levar_os_contatos_do_WhatsApp_para_um_CRM.png)
+![Levar os contatos do WhatsApp para um CRM 1](https://images.ctfassets.net/alneenqid6w5/1eVxgg7WRTzIhymKuIKHui/f03e6023c83e6bd24ac65f00e987ef5b/Screenshot_2022-08-24_at_17-59-46_Levar_os_contatos_do_WhatsApp_para_um_CRM.png)
 3. Localize o seu CRM dentro das opções de integrações
 ![Levar os contatos do WhatsApp para um CRM 2](//images.ctfassets.net/alneenqid6w5/4owv76x3alggHV7HJsHgt8/f9ba71dcd084bdc03d6d7c4e160f2176/Screenshot_2022-08-24_at_17-59-37_Levar_os_contatos_do_WhatsApp_para_um_CRM.png)
 

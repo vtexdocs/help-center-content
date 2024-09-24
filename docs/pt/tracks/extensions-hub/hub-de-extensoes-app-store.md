@@ -18,7 +18,7 @@ A App Store é a página do Admin onde você pode buscar, visualizar e obter app
 
 ## Página inicial
 
-![Extensions Hub App Store página inicial](//images.ctfassets.net/alneenqid6w5/3wzHr69aCqLuPG2cuT2e6y/ba56f15ab8cc4041dd0d8cf3d10afa1d/Extensions_Hub_App_Store_home_page_PT.png)
+![Extensions Hub App Store página inicial](https://images.ctfassets.net/alneenqid6w5/3wzHr69aCqLuPG2cuT2e6y/ba56f15ab8cc4041dd0d8cf3d10afa1d/Extensions_Hub_App_Store_home_page_PT.png)
 
 Ao entrar na loja, você estará na página inicial. Nesta página estão disponíveis as seguintes opções:
 

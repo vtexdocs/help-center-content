@@ -61,7 +61,7 @@ After installing VTEX Insurance, you need to complete the Catalog setup to cover
 
 7. [Create an insurance product](https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
 
-8. [Create insurance SKUs](https://help.vtex.com/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY). We recommend creating more than three SKUs for each insurance.![Insurance - SKUs](//images.ctfassets.net/alneenqid6w5/7z6EX1cFT3l5wmnlX5LQk1/e1b53a46f844d679277074c59386b0de/image3.png)
+8. [Create insurance SKUs](https://help.vtex.com/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY). We recommend creating more than three SKUs for each insurance.![Insurance - SKUs](https://images.ctfassets.net/alneenqid6w5/7z6EX1cFT3l5wmnlX5LQk1/e1b53a46f844d679277074c59386b0de/image3.png)
 
 9. [Bind the created SKUs](https://help.vtex.com/en/tutorial/sku-bindings--1SmrVgNwjJX17hdqwLa0TX) to the Assurant seller.
 

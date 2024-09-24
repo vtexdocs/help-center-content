@@ -37,7 +37,7 @@ Here's how to import data in bulk into the VTEX platform:
 	<li>Once the import process is complete, you can click View Import Details to access the import report.</li>
 </ol>
 
-![Importação em massa - EN](//images.ctfassets.net/alneenqid6w5/3sWvUytkkonIe01tnvXwpK/255b9bf809653b7f66bdeff7e22c0c49/Bulk_import_vers_o_original-gif-EN.gif)
+![Importação em massa - EN](https://images.ctfassets.net/alneenqid6w5/3sWvUytkkonIe01tnvXwpK/255b9bf809653b7f66bdeff7e22c0c49/Bulk_import_vers_o_original-gif-EN.gif)
 
 # Import errors
 

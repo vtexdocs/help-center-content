@@ -26,7 +26,7 @@ In this article, we explain how to export and import spreadsheets with product a
 1. In the VTEX Admin, go to **Catalog**, or type **Catalog** in the search bar at the top of the page.
 2. Click **Import and export**.
 3. Click the **Product Specifications** or the **SKU Specifications** tab, according to your need.
-    ![skuexport1.en](//images.ctfassets.net/alneenqid6w5/2bM5OviaFXKxXxM8ggXEr3/8f45b5a59425898d0a66697480526899/skuexport1.en.png)
+    ![skuexport1.en](https://images.ctfassets.net/alneenqid6w5/2bM5OviaFXKxXxM8ggXEr3/8f45b5a59425898d0a66697480526899/skuexport1.en.png)
 4. Right-click on the desired category.
     You cannot export specifications from all categories at once. You must choose only one category whose specifications you want to export. 
 5. Click on `Export...`.

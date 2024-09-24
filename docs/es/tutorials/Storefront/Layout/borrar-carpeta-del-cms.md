@@ -25,7 +25,7 @@ Para borrar una carpeta de CMS, siga los pasos abajo:
 3. Haga clic en el web site que contiene la carpeta que desea borrar y luego en la carpeta raíz (/).
 4. En la línea de la carpeta que desea borrar, haga clic en __delete__.
 
-![erroDeletarPasta2](//images.contentful.com/alneenqid6w5/5LV3bGobResaCycAs4e4oS/0644cad6454dd3d6c0beb1eb8afc1da8/erroDeletarPasta2.png)
+![erroDeletarPasta2](https://images.contentful.com/alneenqid6w5/5LV3bGobResaCycAs4e4oS/0644cad6454dd3d6c0beb1eb8afc1da8/erroDeletarPasta2.png)
 
 >❗ Algunas carpetas son obligatorias. Su tienda no funcionará correctamente sin ellas. Otras son importantes, así que no es una buena idea borrarlas.
 >

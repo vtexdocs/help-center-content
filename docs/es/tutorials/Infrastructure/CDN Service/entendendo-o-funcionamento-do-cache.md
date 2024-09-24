@@ -19,7 +19,7 @@ El concepto de cache es bastante difundido como siendo un dispositivo de acceso 
 
 Cuando una página o archivo inicia su carga, a través de la URL, el browser realiza una solicitud para el servidor que, por su parte, tiene la función de responder con información relevante para aquella solicitud. La solicitud del browser se conoce como **request** y la respuesta del servidor como **response**. Esos términos serán bastante utilizados en el transcurso de este artículo. Vea el esquema abajo:
 
-![Como o cache funciona - comunicação entre servidor e navegador](//images.ctfassets.net/alneenqid6w5/6ONSKQqdEoIsHxcvfp5GoS/1d05717d54faede0fc00d75716d7def4/1_ES.png)
+![Como o cache funciona - comunicação entre servidor e navegador](https://images.ctfassets.net/alneenqid6w5/6ONSKQqdEoIsHxcvfp5GoS/1d05717d54faede0fc00d75716d7def4/1_ES.png)
 
 El cache está representado a través de una capa entre el browser y el servidor y, así, cuando un **request** ocurre, en vez del sistema ir a buscar la información directamente en el servidor, primero va a esa capa, lo que vuelve mucho más ágil a la respuesta. Vea el esquema abajo:
 

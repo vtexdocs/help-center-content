@@ -28,7 +28,7 @@ Los tipos de cuenta VTEX son:
 
 La siguiente imagen muestra una visión general para ayudarte a [elegir entre la cuenta estándar, franquicia o Seller Portal](https://help.vtex.com/es/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78):
 
-![main_account_franchise_seller_portal_ES](//images.ctfassets.net/alneenqid6w5/4NfyGbu9eVJFRc6EfCpTHr/befcaed2563320ca9280d44759fe4962/main_account_franchise_seller_portal_ES.png)
+![main_account_franchise_seller_portal_ES](https://images.ctfassets.net/alneenqid6w5/4NfyGbu9eVJFRc6EfCpTHr/befcaed2563320ca9280d44759fe4962/main_account_franchise_seller_portal_ES.png)
 
 ## Recursos de las cuentas
 

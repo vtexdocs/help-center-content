@@ -21,7 +21,7 @@ Para realizar a integração acesse no seu painel da VTEX Assisted Sales (Suite
 
 Na dashboard em **Integrações”**, clique em **Ver todas as integrações**. Ou clique em _**Configurações > Integrações**_.
 
-![Bitrix24_1](//images.ctfassets.net/alneenqid6w5/1FNycssXpEsblACNCy0eJx/5c5a7b399d4c6051e312e1b3b897a257/Bitrix24_1.png)
+![Bitrix24_1](https://images.ctfassets.net/alneenqid6w5/1FNycssXpEsblACNCy0eJx/5c5a7b399d4c6051e312e1b3b897a257/Bitrix24_1.png)
 
 Selecione o Bitrix24 sales e clique em **Integrar**.
 

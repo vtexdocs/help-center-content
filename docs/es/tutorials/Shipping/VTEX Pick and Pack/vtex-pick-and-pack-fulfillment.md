@@ -54,7 +54,7 @@ Para empezar a utilizar Pick and Pack, es necesario tener acceso a la [aplicaci�
 
 Ingresa tu usuario debidamente registrado, contraseña y haz clic en  **iniciar sesión**.
 
-![pick and pack 1](//images.ctfassets.net/alneenqid6w5/3tIH46Q7spSVEa1nDMBaHU/6c9cf04d64fe02a4a4e27c0cbcfe9ea2/image26.png)
+![pick and pack 1](https://images.ctfassets.net/alneenqid6w5/3tIH46Q7spSVEa1nDMBaHU/6c9cf04d64fe02a4a4e27c0cbcfe9ea2/image26.png)
 
 ## Página de inicio
 

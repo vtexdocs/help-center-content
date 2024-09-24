@@ -38,7 +38,7 @@ La aplicación crea tres tipos de páginas para los afiliados, que disponen de e
 
 La **página del afiliado** es la URL de la tienda VTEX que comparten con los clientes. Ve un ejemplo en la siguiente imagen:
 
-![url_pagina_es_3](//images.ctfassets.net/alneenqid6w5/3BxA8DMUUHVt7qZs5mYUhx/72903370216b4def73a08cc485c3c81d/url_pagina_es.png)
+![url_pagina_es_3](https://images.ctfassets.net/alneenqid6w5/3BxA8DMUUHVt7qZs5mYUhx/72903370216b4def73a08cc485c3c81d/url_pagina_es.png)
 
 La **página del perfil del afiliado** es una interfaz a través de la cual pueden seguir y gestionar sus pedidos y comisiones. Ve un ejemplo en la siguiente imagen:
 

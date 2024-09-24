@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Global launch of lead time, an optional SKU-level shipp
 
 VTEX has made [lead time](https://help.vtex.com/en/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B), a shipping time setting for inventory SKUs, available to all stores. In other words, you can set an additional shipping time at SKU level when calculating the shipping promises displayed to customers at checkout.
 
-![lead_time_image_total_time_EN](//images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/8a3f64f6c30a7a513bb98d0c97b355a3/lead_time_image_total_time_EN.png)
+![lead_time_image_total_time_EN](https://images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/8a3f64f6c30a7a513bb98d0c97b355a3/lead_time_image_total_time_EN.png)
 
 The store's shipping will remain unchanged when not configured, as lead time is optional. Note that the checkout consolidation rules are maintained, calculating the total shipping time of the order based on the longest shipping time among the items.
 

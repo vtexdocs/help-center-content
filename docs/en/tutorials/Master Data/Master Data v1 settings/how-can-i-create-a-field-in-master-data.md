@@ -44,7 +44,7 @@ Follow the step-by-step below:
 
 >ℹ️ More information about **General Settings** and **Search and Filter Configurations** can be found in our article on [Creating a data entity](https://help.vtex.com/en/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar), subsection **How to set up**.
 
-![criar campo master data ds](//images.ctfassets.net/alneenqid6w5/5cWru1fi0SyEAOoEbgShOI/95cabcfa4a60032d87c3294773ba4fd0/criar_campo_master_data_ds.gif)
+![criar campo master data ds](https://images.ctfassets.net/alneenqid6w5/5cWru1fi0SyEAOoEbgShOI/95cabcfa4a60032d87c3294773ba4fd0/criar_campo_master_data_ds.gif)
 
 You will then return to the main Data Entity page. To complete the process, you need to publish the field. Locate the entity line in which the field was added and click on the disk icon.
 

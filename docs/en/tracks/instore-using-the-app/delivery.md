@@ -27,7 +27,7 @@ You can choose between:
 - Pick up in a store.
 - Customize by item.
 
-![entrega-2-en](//images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/6acc2ea35a43a1056fc26336baff9db6/entrega-2-en.png)
+![entrega-2-en](https://images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/6acc2ea35a43a1056fc26336baff9db6/entrega-2-en.png)
 
 ### Pickup points
 

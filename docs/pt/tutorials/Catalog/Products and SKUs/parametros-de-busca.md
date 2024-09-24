@@ -19,7 +19,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 Ao realizar buscas na VTEX, existem algumas possibilidades de URLs. Temos as URLs de Departamentos e Categorias, que são formadas da seguinte maneira:
 
-![](//images.contentful.com/alneenqid6w5/1MhPmB1yxKS426UCsASUsY/eeaf45262ccde7b0a50ee6ef6b787afb/arvore_categoria.png)
+![](https://images.contentful.com/alneenqid6w5/1MhPmB1yxKS426UCsASUsY/eeaf45262ccde7b0a50ee6ef6b787afb/arvore_categoria.png)
 
 Na árvore de categorias acima, os links ficariam da seguintes forma:
 

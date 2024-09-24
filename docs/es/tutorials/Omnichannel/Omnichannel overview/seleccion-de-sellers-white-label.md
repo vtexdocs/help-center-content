@@ -103,7 +103,7 @@ Si hay un empate entre los _sellers_ con los criterios de menor costo o mejor pl
 
 Un cliente agregó cinco SKU al carrito. Cada uno de los _sellers_ que ofrece la opción de entrega en su región (_sellers_ A, B, C y D) tiene en su [inventario](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) solo una parte de los _ítems_, tal como se muestra en la imagen a continuación:
 
-![print_selecao_seller_white_label_1](//images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/4fdb2ed25e8d3d52eef96e5c0e2fd908/print_selecao_seller_white_label_1.png)
+![print_selecao_seller_white_label_1](https://images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/4fdb2ed25e8d3d52eef96e5c0e2fd908/print_selecao_seller_white_label_1.png)
 
 La plataforma VTEX selecciona al _seller_ que tiene disponible en su _stock_ el número máximo de SKU del carrito. En este caso, el _seller_ B es el único que entrega tres SKU. 
 

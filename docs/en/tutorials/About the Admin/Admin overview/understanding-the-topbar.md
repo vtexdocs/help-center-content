@@ -19,7 +19,7 @@ The sidebar is the starting point for all admin areas. See below the details reg
 
 **Browse the modules**: to do so, just click on the desired module in the Admin sidebar with all available module.
 
-![paginainicial.en](//images.ctfassets.net/alneenqid6w5/68DVYFXEFfShDhVJLoP90E/ab49f60e0a7fccda830f4f7cfccdc32b/paginainicial.en.png)
+![paginainicial.en](https://images.ctfassets.net/alneenqid6w5/68DVYFXEFfShDhVJLoP90E/ab49f60e0a7fccda830f4f7cfccdc32b/paginainicial.en.png)
 
 **Browse the sub-domains:** To browse the sub-domains of your store, just click on the current domain. You will view all options. To go to the admin of a sub-domain, just click on it on the menu.
 ![subdominios.en](//images.ctfassets.net/alneenqid6w5/14NnbogRz9imPMypMsSFSF/6c19b199374901b350a95eedf7094372/subdominios.en.png)

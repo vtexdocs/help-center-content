@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 Un marketplace es una plataforma virtual en la que diferentes vendedores anuncian sus productos. Estos vendedores se denominan sellers y, además, de ser propietarios de los productos, muchas veces también son los responsables del [proceso de fulfillment del producto](https://help.vtex.com/es/tutorial/fulfillment-logistics-vtex--53udnvI5eBy8DKo8FOjMoP).  
 
-![Estrategias de marketplace](//images.ctfassets.net/alneenqid6w5/1XaGifpW4ztfRM3XIkiACS/9558d99b892b53aa723f408d29734435/Ecommerce_web_page-pana.png)
+![Estrategias de marketplace](https://images.ctfassets.net/alneenqid6w5/1XaGifpW4ztfRM3XIkiACS/9558d99b892b53aa723f408d29734435/Ecommerce_web_page-pana.png)
 
 [VTEX promueve la colaboración digital](https://vtex.com/ar-es/marketplace/) en diferentes escenarios: no solo tienes la posibilidad de vender tus productos en otros marketplaces, sino que también puedes ofrecer los productos de otros sellers en tu propio entorno, convirtiéndote así en un marketplace.  
 

@@ -93,7 +93,7 @@ In some cases, connectors can be built for a specific solution. The references b
 
 After getting access information and implementing the backend, the provider has to install the Payment Provider Test Suite app to access the testing tool. The installation is done through the VTEX App Store.
 
-![ppp-vtex-store-en](//images.ctfassets.net/alneenqid6w5/2sZn44SfDSGcUkgouQ2iyu/ea2026578b79d3c5edd33c997b62efa9/image.png)
+![ppp-vtex-store-en](https://images.ctfassets.net/alneenqid6w5/2sZn44SfDSGcUkgouQ2iyu/ea2026578b79d3c5edd33c997b62efa9/image.png)
 
 >⚠️ To pass the homologation process, you need to implement specific logic to handle the test requirements. When sending requests to Test Suite, use the extra header `X-VTEX-API-Is-TestSuite = true` to identify them and mask any required case.
 >

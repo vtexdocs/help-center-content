@@ -31,7 +31,7 @@ Using Google Chrome, follow the steps below to generate the HAR file.
 
 1. Navigate to the URL where the problem is occurring.
 2. Right-click anywhere on the screen and then click __Inspect__.
-3. Dev Tools will open, so click the __Network__ tab.![HARfile2](//images.contentful.com/alneenqid6w5/7vSYRmkjduq6iCaiGgyIo/fd3f3eb23fa57582f8c8f5cd1ac725b5/HARfile2.png)
+3. Dev Tools will open, so click the __Network__ tab.![HARfile2](https://images.contentful.com/alneenqid6w5/7vSYRmkjduq6iCaiGgyIo/fd3f3eb23fa57582f8c8f5cd1ac725b5/HARfile2.png)
 4. The recording button should be red, which indicates it's enabled. If it's not, click it.![HARfile3](//images.contentful.com/alneenqid6w5/6YnW3ebd1mq2kQsm8uKG2q/97000a534abfabc66931d27ff9cd28b8/HARfile3.png)
 5. Check the __Preserve log__ flag.![HARfile5](//images.contentful.com/alneenqid6w5/xQAIiEuHIsaoSCUkSsOEE/e6dc32f580a2f50a5789ae39babfb540/HARfile5.png)
 6. Reload the page and repeat the navigation in which the problem occurs.

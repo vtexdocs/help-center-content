@@ -31,7 +31,7 @@ A partir desta página, você pode:
 
 Para acessá-la no Admin VTEX, clique em **Promoções > Cupons**.
 
-![lista-cupons](//images.ctfassets.net/alneenqid6w5/3KpOX5OW4oM5dBUNxkc0YP/74d61d0b59d9b69728c62b5e1dc5bae7/screencapture-coupons-pricingqa-myvtex-admin-coupons-2022-04-28-18_42_26.png)
+![lista-cupons](https://images.ctfassets.net/alneenqid6w5/3KpOX5OW4oM5dBUNxkc0YP/74d61d0b59d9b69728c62b5e1dc5bae7/screencapture-coupons-pricingqa-myvtex-admin-coupons-2022-04-28-18_42_26.png)
 
 A seguir, confira a descrição dos componentes e ações incluídos na página.
 

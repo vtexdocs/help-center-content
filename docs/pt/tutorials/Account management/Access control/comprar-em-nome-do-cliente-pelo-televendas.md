@@ -21,7 +21,7 @@ A toolbar de televendas aparece uma vez que o operador cadastrado faça o login 
 
 Para comprar em nome do cliente pelo televendas, o operador precisa clicar em **Entrar como**, no canto direito da toolbar.
 
-![Operador de televendas personificando cliente com a toolbar](//images.contentful.com/alneenqid6w5/3rWoDmY4paceYWKEW2cg2S/c7edba682c7fd97b25d0fdc01faf1f9b/toolbar-1-1.png)
+![Operador de televendas personificando cliente com a toolbar](https://images.contentful.com/alneenqid6w5/3rWoDmY4paceYWKEW2cg2S/c7edba682c7fd97b25d0fdc01faf1f9b/toolbar-1-1.png)
 
 Feito isso, o e-mail do cliente passa a ser exibido nesta mesma área.
 

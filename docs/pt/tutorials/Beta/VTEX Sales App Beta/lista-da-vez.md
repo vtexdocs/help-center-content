@@ -28,7 +28,7 @@ O aplicativo **Lista da Vez** permite organizar a fila de atendimento dos vended
 
 A aba Lista da Vez gerencia a ordem de atendimento dos vendedores da loja. Além de ordenar a fila de atendimento, também é possível identificar a situação de cada vendedor: [Esperando a vez](#esperando-a-vez), [Em atendimento](#em-atendimento) e [Fora da loja](#fora-da-loja).
 
-![lista-da-vez-PT](//images.ctfassets.net/alneenqid6w5/0hiWrn69rcSgwI8yHktBG/c13ca4d30a1c3aa36d7dbe117890dfcd/Screenshot_20220211-131959_DuckDuckGo.jpg)
+![lista-da-vez-PT](https://images.ctfassets.net/alneenqid6w5/0hiWrn69rcSgwI8yHktBG/c13ca4d30a1c3aa36d7dbe117890dfcd/Screenshot_20220211-131959_DuckDuckGo.jpg)
 
 ### Esperando a vez
 Nesta seção, os vendedores da loja estarão listados em ordem de atendimento. Para adicionar um vendedor na fila, arraste o vendedor para a coluna **Esperando a vez**.

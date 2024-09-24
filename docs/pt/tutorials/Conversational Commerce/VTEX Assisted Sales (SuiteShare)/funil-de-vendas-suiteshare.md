@@ -25,7 +25,7 @@ Nessa etapa, será possível localizar todas as informações necessárias para 
 
 Nessa página você irá encontrar todas as informações necessárias para realizar a integração.
 
-![Funil de vendas_1](//images.ctfassets.net/alneenqid6w5/Fk4RseF2XChIrFyoLy4k4/872ac7d142b8f47309be32cd84ea14ff/Funil_de_vendas_1.png)
+![Funil de vendas_1](https://images.ctfassets.net/alneenqid6w5/Fk4RseF2XChIrFyoLy4k4/872ac7d142b8f47309be32cd84ea14ff/Funil_de_vendas_1.png)
 
 Para realizar a integração com a Suiteshare, utilize uma das duas formas abaixo:
 

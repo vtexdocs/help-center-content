@@ -19,7 +19,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 O aplicativo móvel do [VTEX Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) auxilia o separador - profissional responsável por selecionar e empacotar itens na instalação - no manuseio de pedidos, abrangendo desde a separação dos itens até o envio. Assim, o fluxo de separação e entrega dos pedidos da loja torna-se mais organizado e fluido.
 
-![pickpack-mobile-pt](//images.ctfassets.net/alneenqid6w5/4VZJd6qfgBB45lcqptQ5L9/825577c3ee5232ac15408d243a20d04e/image.png)
+![pickpack-mobile-pt](https://images.ctfassets.net/alneenqid6w5/4VZJd6qfgBB45lcqptQ5L9/825577c3ee5232ac15408d243a20d04e/image.png)
 
 O manuseio do pedido é dividido em quatro etapas, seguindo o caminho normal de pedidos na loja:
 

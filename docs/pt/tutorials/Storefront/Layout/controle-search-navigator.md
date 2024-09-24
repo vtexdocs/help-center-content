@@ -40,7 +40,7 @@ Para que uma coleção seja exibida no menu pelo controle Search Navigator, ela 
 
 Essa flag fica nas configurações da própria coleção, dentro do CMS.
 
-![searchNavigator2](//images.contentful.com/alneenqid6w5/30xKS65fWMuoiQO4ac2EKM/921be3bc19a8cdff48dade515c354908/searchNavigator2.jpg)
+![searchNavigator2](https://images.contentful.com/alneenqid6w5/30xKS65fWMuoiQO4ac2EKM/921be3bc19a8cdff48dade515c354908/searchNavigator2.jpg)
 
 ## Categorias
 

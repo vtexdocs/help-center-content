@@ -17,7 +17,7 @@ subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
 
 Na página Visão Geral, os proprietários de lojas VTEX têm acesso às principais métricas que impactam a receita de suas lojas. Nesse painel, você pode acompanhar a evolução das suas vendas através dos recursos de análise de tendências de pedidos, taxa de conversão e gráficos de funil de vendas. Essa ferramenta está disponível no Admin VTEX. Para acessá-la, clique em __Dashboards > Visão Geral__ no menu de navegação, ou digite *Visão Geral* na barra de busca no topo da página.
 
-![Store overview gif PT](//images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b9a4a299f80286eadf1727cd5057a64c/Store_overview_gif_PT.gif)
+![Store overview gif PT](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b9a4a299f80286eadf1727cd5057a64c/Store_overview_gif_PT.gif)
 
 A página de Visão Geral traz um resumo do seu negócio com a VTEX. Para consultar análises mais profundas das métricas da sua loja, acesse [Performance de Vendas](https://help.vtex.com/pt/v4/docs/performance-de-vendas--6gx46RGRzWO8qgaVck7PRp).
 

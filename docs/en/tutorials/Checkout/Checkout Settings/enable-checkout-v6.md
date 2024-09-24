@@ -28,7 +28,7 @@ To update your store's checkout to the latest version (Checkout v6), you must en
 5. Click `Save`.
 6. [Access your store in beta/test environment](/tutorial/access-beta-environment-through-myvtex-com-domain--3BHM289568gcSwk2O80Asu) and implement the necessary style adjustments. Checkout v6 has new _CSS_ classes that you need to be mindful of when performing style customizations.
 
-![Checkoutv6_box](//images.ctfassets.net/alneenqid6w5/9hAJfi1LLwpFlcB5iWA3k/f185469ae22029d00f5d19f3b6a8cf1b/CheckoutV6_box_EN.png)
+![Checkoutv6_box](https://images.ctfassets.net/alneenqid6w5/9hAJfi1LLwpFlcB5iWA3k/f185469ae22029d00f5d19f3b6a8cf1b/CheckoutV6_box_EN.png)
 
 ## Activate Checkout v6 in Production Environment
 

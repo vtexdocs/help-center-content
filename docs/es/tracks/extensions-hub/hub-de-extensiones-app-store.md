@@ -20,7 +20,7 @@ App Store es la página del Admin VTEX donde puedes buscar, visualizar y obtener
 
 Al entrar en la tienda estarás en la página de inicio,  con las siguientes opciones disponibles: 
 
-![Extensions Hub App Store página de inicio](//images.ctfassets.net/alneenqid6w5/3wzHr69aCqLuPG2cuT2e6y/03756392e94a93e19546acc1f9e1bc75/Extensions_Hub_App_Store_home_page_ES.png)
+![Extensions Hub App Store página de inicio](https://images.ctfassets.net/alneenqid6w5/3wzHr69aCqLuPG2cuT2e6y/03756392e94a93e19546acc1f9e1bc75/Extensions_Hub_App_Store_home_page_ES.png)
 
 * **Buscar:** cuadro de texto donde puedes buscar aplicaciones en la tienda. Al escribir en el cuadro de texto y pulsar la tecla `Intro`, accederás a la [página de búsqueda](#buscar).
 * **Destacados:** aplicaciones y partners destacados. Los destacados aparecen en formato de tarjetas rectangulares, en las que se puede ver el título y el subtítulo. Al hacer clic en un elemento destacado, accederás a la página de una aplicación o a la de un partner.

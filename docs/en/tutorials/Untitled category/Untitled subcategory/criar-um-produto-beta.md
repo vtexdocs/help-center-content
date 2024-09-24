@@ -43,7 +43,7 @@ After that, the product will be activated and available in your store.
 In this tab, complete the fields described below to create the product.
 
 ### General information
-![image9](//images.ctfassets.net/alneenqid6w5/zuDEylLB51jEYDgupvInT/3cbd44a15e049422865dadb7169d0c38/image9.png)
+![image9](https://images.ctfassets.net/alneenqid6w5/zuDEylLB51jEYDgupvInT/3cbd44a15e049422865dadb7169d0c38/image9.png)
 - **Name:** Enter the product name. Use simple words, avoiding other languages or complex writing. This field is crucial for SEO and must respect the 150-character limit. Required field. **Example**: Ultralight Running Shoes.
 - **Substitute words:** Enter synonyms of terms related to the product name, separated by commas (`,`). This field is essential for a more comprehensive search and must respect the 8,000-character limit. **Example**: for the product `Ultralight Running Shoes`, synonyms could include `Light Running Shoes,Ultra Running Shoes`. If your store uses VTEX Intelligent Search, do not complete this field and read the[Synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) article.
 

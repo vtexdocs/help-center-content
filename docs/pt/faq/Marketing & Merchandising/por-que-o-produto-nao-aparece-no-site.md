@@ -41,7 +41,7 @@ Recomendamos iniciar a investigação pelo **Catálogo**. Para verificar as conf
 1. Acesse o Admin VTEX e navegue até **Produtos > Catálogo > Produtos e SKUs** para verificar os produtos cadastrados na sua loja.
 2. Encontre na listagem o produto que você pretende exibir, conforme ilustrado a seguir.
 
-    ![01-produto-pt](//images.ctfassets.net/alneenqid6w5/75SkVRup4MW0URypUVayEh/89bf951c58bd80765de8bfb480fd73df/01-produto-pt.png)
+    ![01-produto-pt](https://images.ctfassets.net/alneenqid6w5/75SkVRup4MW0URypUVayEh/89bf951c58bd80765de8bfb480fd73df/01-produto-pt.png)
 
 3. Siga as instruções descritas nas próximas seções para verificar as seguintes informações:
    - [Produto](#produto)

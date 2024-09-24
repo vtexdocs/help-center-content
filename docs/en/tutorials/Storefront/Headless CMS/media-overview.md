@@ -19,7 +19,7 @@ Media is a feature responsible for managing your store's media files, such as im
 
 >⚠️ For upload, files must have a lowercase extension (e.g., `store.png`) and be up to **5 MB**.
 
-![Media Overview](//images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/4151c07cdf6675310b41607256633894/en-media-overview.png)
+![Media Overview](https://images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/4151c07cdf6675310b41607256633894/en-media-overview.png)
 
 In addition, Media is integrated with **Site Editor** and **Headless CMS**. This integration allows you to access and manage Media directly through VTEX CMS solutions.
 

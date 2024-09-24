@@ -36,7 +36,7 @@ En la página [Gestión de anuncios](https://help.vtex.com/es/tutorial/offers-li
 
 ## Detalles del anuncio
 
-![ES Oportunidades Offer details](//images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/b27410f2f77ff4b0f4e2faa689cc2cf6/ES_Oportunidades_Offer_details.jpg)
+![ES Oportunidades Offer details](https://images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/b27410f2f77ff4b0f4e2faa689cc2cf6/ES_Oportunidades_Offer_details.jpg)
 
 La página [Detalles del anuncio](https://help.vtex.com/es/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) presenta una tarjeta de `Oportunidad` en la parte superior de la página. Al hacer clic en `Ver oportunidad`, será redirigido a la siguiente página.
 

@@ -26,7 +26,7 @@ Así la Prueba AB funcionará con éxito.
 Siguen las pantallas que ejemplifican el paso a paso:
 
 __Pantalla Control__:
-![](//images.contentful.com/alneenqid6w5/3GIGsJXbo4KAMikCqesM6s/e8231671043f3ce763c8faf87718d6d7/testeAB-controle1-300x138.png)
+![](https://images.contentful.com/alneenqid6w5/3GIGsJXbo4KAMikCqesM6s/e8231671043f3ce763c8faf87718d6d7/testeAB-controle1-300x138.png)
 
 __Pantalla Script__:
 ![](//images.contentful.com/alneenqid6w5/7gUgGNnvlmcQyiW4A0A6ao/dac8e58e0931686de3e9e4ae46c66afa/testeAB-script-300x148.png)

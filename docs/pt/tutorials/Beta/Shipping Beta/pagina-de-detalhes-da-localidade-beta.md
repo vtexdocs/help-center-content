@@ -19,7 +19,7 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 No [módulo Localidades](https://help.vtex.com/pt/tutorial/modulo-localidades--2thSYLMAS8KAd8V4XuBLSy) do seu Admin VTEX, em **Envio > Localidades**, ao clicar sobre uma localidade você é direcionado para sua página de detalhes, como a imagem a seguir:
 
-![pagina_detalhes_image_1_PT](//images.ctfassets.net/alneenqid6w5/6fehx8bwcHLXGXZFALiGSR/4fe303ef087c40b1eb7147ac39a949de/pagina_detalhes_image_1_PT.png)
+![pagina_detalhes_image_1_PT](https://images.ctfassets.net/alneenqid6w5/6fehx8bwcHLXGXZFALiGSR/4fe303ef087c40b1eb7147ac39a949de/pagina_detalhes_image_1_PT.png)
 
 No topo da página, existe o diagrama **Status da capacidade operacional**, que apresenta em tempo real a porcentagem da capacidade da localidade que já foi consumida. O diagrama apresenta os seguintes períodos:
 

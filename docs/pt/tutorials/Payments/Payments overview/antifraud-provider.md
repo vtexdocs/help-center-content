@@ -46,7 +46,7 @@ Antes de configurar o ambiente VTEX, o provedor deve implementar o serviço back
 ### 3. Portal de administração do Antifraud Provider
 Depois de receber os dados de acesso e implementar o back-end, o provedor pode acessar a ferramenta de aprovação por meio do Admin da VTEX. Para fazer isso, você deve intalar a App do Antifraud Provider no menu Apps:
 
-![print5](//images.ctfassets.net/alneenqid6w5/50yLGa6LOU0cuIMUOeSOKq/c236baf425467b8e14aabff5d8655c05/print5.png)
+![print5](https://images.ctfassets.net/alneenqid6w5/50yLGa6LOU0cuIMUOeSOKq/c236baf425467b8e14aabff5d8655c05/print5.png)
 
 Clique na App instalada ou acesse `https://{{AccountName}}.myvtex.com/admin/antifraud-provider`, substituindo `{{AccountName}}` pelo nome da sua conta na plataforma. Nesse ambiente, é possível registrar os dados de configuração do back-end do provedor e fazer testes de integração.
 

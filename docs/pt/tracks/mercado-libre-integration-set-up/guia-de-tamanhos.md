@@ -18,7 +18,7 @@ Ao comprar roupas ou calçados on-line, muitos usuários costumam ter dúvidas s
 
 O guia de tamanhos do Mercado Livre é uma tabela de medidas ou equivalências que permite aos usuários visualizar as medidas exatas para que possam escolher o produto que melhor se adaptem. 
 
-![MLB tamanos1](//images.ctfassets.net/alneenqid6w5/3kHkmPhrh50s9QhJQurtcD/f4ca7decdd70609953dbd842b55c24f7/MLB_tamanos1.gif)
+![MLB tamanos1](https://images.ctfassets.net/alneenqid6w5/3kHkmPhrh50s9QhJQurtcD/f4ca7decdd70609953dbd842b55c24f7/MLB_tamanos1.gif)
 
 ## Entendendo o guia de tamanhos
 

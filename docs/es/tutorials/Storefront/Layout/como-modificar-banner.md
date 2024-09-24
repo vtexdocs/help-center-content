@@ -22,7 +22,7 @@ Para ejemplo, usaremos un banner de la Home en el paso a paso, pero estas instru
 3. Haga clic en la carpeta **“Sites and Channels”**
 4. Haga clic en el **nombre de su tienda**.
 5. Haga clic en la **carpeta "/"**
-![cms_instrução ES](//images.ctfassets.net/alneenqid6w5/Eh2zwnOd0GqY0oGCw4Y6Y/b89d5aa3092d8d964469668cda783d9a/CMS_instru____o_-_ES.png)
+![cms_instrução ES](https://images.ctfassets.net/alneenqid6w5/Eh2zwnOd0GqY0oGCw4Y6Y/b89d5aa3092d8d964469668cda783d9a/CMS_instru____o_-_ES.png)
 6. Haga clic en el archivo **“home”**
 7. Haga clic en la pestaña **Settings**
 8. Haga clic en el “lápiz” de edición. 

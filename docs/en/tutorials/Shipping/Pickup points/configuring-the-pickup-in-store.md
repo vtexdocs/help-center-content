@@ -27,7 +27,7 @@ The store pickup configuration enables the customer to opt not to receive the pr
 3. For these carriers, it is recommended not to charge for freight.
 4. After creating all the carriers, you must create a carrier with the generic name _Retirada no local _to be used in programming the store front-end (in the freight selection option).
 
-![](//images.contentful.com/alneenqid6w5/1aPl4HkPD8IagOICkCuigu/185dffc5b9bfd322697b6bf7ae0e7942/1.jpg)
+![](https://images.contentful.com/alneenqid6w5/1aPl4HkPD8IagOICkCuigu/185dffc5b9bfd322697b6bf7ae0e7942/1.jpg)
 
 ## Visual Customization (Front-end)
 

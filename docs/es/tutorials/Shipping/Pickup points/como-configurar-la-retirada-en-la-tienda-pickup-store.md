@@ -26,7 +26,7 @@ La configuración de retirada en la tienda permite que el cliente opte por no re
 3. Para esas transportadores, se recomienda que no se cobre valor de flete.
 4. Una vez creadas todas las transportadoras, es necesario crear una transportadora con el nombre genérico de _Retirada no local _la que será usada en la programación del front-end de la tienda (en la opción de selección de flete).
 
-![](//images.contentful.com/alneenqid6w5/1aPl4HkPD8IagOICkCuigu/185dffc5b9bfd322697b6bf7ae0e7942/1.jpg)
+![](https://images.contentful.com/alneenqid6w5/1aPl4HkPD8IagOICkCuigu/185dffc5b9bfd322697b6bf7ae0e7942/1.jpg)
 
 ## Customización visual (Front-end)
 

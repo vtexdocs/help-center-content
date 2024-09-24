@@ -29,7 +29,7 @@ To enable Google Pay, follow the steps below.
 
 >ℹ️ The card brands supported by the Google Pay extension are the ones configured in the payment conditions.
 
-![google-pay-checkout-en](//images.ctfassets.net/alneenqid6w5/5EjOagjPXAeIAAN0Fpzkdq/2857562e61a935524807632c23be2e91/Screenshot_2024-08-01_at_14.21.39.png)
+![google-pay-checkout-en](https://images.ctfassets.net/alneenqid6w5/5EjOagjPXAeIAAN0Fpzkdq/2857562e61a935524807632c23be2e91/Screenshot_2024-08-01_at_14.21.39.png)
 
 Google Pay will then be available in your VTEX store's checkout as a new payment method. It may take around 10 minutes to be implemented.
 

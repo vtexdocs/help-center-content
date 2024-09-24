@@ -17,7 +17,7 @@ subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 
 To create the customization file, access the Portal through the topbar and create a new file named `checkout-instore-custom.js` This file will be loaded by inStore automatically. 
 
-![topbar-portal](//images.contentful.com/alneenqid6w5/2Xenr5P0EMKCAyOq2Qmiaw/98fa99c841313072099b11553785660e/topbar-portal.png)
+![topbar-portal](https://images.contentful.com/alneenqid6w5/2Xenr5P0EMKCAyOq2Qmiaw/98fa99c841313072099b11553785660e/topbar-portal.png)
 
 Open the Portal module and click on the button to edit the default site.  In the example below, the store’s accountname is  __Omniera__.
 

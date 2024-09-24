@@ -18,7 +18,7 @@ VTEX Sales App's [endless aisle](https://help.vtex.com/en/tracks/estrategias-de-
 
 >ℹ️ This feature uses the browser's cache to optimize searches in scenarios with slow internet connections.
 
-![Barra busca - EN](//images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/31aeb140714a23b6e5d0f958e90dcea2/Tela_1_barra_busca.gif)
+![Barra busca - EN](https://images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/31aeb140714a23b6e5d0f958e90dcea2/Tela_1_barra_busca.gif)
 
 VTEX Sales App features a unified search, which means that, when searching for a product in the app, search results will include not only the local inventory (of the current physical store) but also inventories of other physical stores and distribution centers associated with the ecommerce operation.
 

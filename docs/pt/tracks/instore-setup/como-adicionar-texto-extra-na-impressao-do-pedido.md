@@ -33,7 +33,7 @@ Após recarregar o inStore, quando for imprimir um pedido verá esse texto extra
 Exemplo rápido:
 
 Antes de adicionar o texto extra teriamos uma impressão da seguinte forma:
-![inStore recommended text before](//images.ctfassets.net/alneenqid6w5/5AWqMIPwGc6aCSYGEsOAOq/6c1eda39348438463dc65a30fa56261e/inStore_recommended_text_before.png)
+![inStore recommended text before](https://images.ctfassets.net/alneenqid6w5/5AWqMIPwGc6aCSYGEsOAOq/6c1eda39348438463dc65a30fa56261e/inStore_recommended_text_before.png)
 
 Ao alterar o arquivo `checkout-instore-custom.js` colocando o seguinte texto extra:
 

@@ -26,7 +26,7 @@ Collection at the beginning of the period is calculated as follows:
 1. i = Interest rate
 2. n = Number of installments
 3. PV = Present Value (total amount of the purchase without interest)
-4. Installment = ![juros-inicio-periodo](//images.contentful.com/alneenqid6w5/3JkoK4GMLYAWIwUcAC8W2G/59d18849c4ee9e59ff37cb09ac661c89/juros-inicio-periodo.png)
+4. Installment = ![juros-inicio-periodo](https://images.contentful.com/alneenqid6w5/3JkoK4GMLYAWIwUcAC8W2G/59d18849c4ee9e59ff37cb09ac661c89/juros-inicio-periodo.png)
 
 ## End of the period
 

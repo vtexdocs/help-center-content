@@ -35,7 +35,7 @@ A seção **Assinaturas Únicas** permite:
 - Visualizar um **gráfico dinâmico** com a relação entre assinaturas ativas, canceladas e o total de assinaturas, dentro do período filtrado. Passando o cursor em cima das linhas do gráfico, é possível ver com detalhes a movimentação de assinaturas por dia.
 - **Exportar assinaturas** únicas dentro do período filtrado, pelo botão no canto superior direito da tela.
 
- ![PT Dashboard Assinatura única](//images.ctfassets.net/alneenqid6w5/Dbqw5LPyrXvpT3tElkIXY/89e5fa3647a3e02e5b399e464ce03003/PT_Dashboard_Assinatura___nica.png)
+ ![PT Dashboard Assinatura única](https://images.ctfassets.net/alneenqid6w5/Dbqw5LPyrXvpT3tElkIXY/89e5fa3647a3e02e5b399e464ce03003/PT_Dashboard_Assinatura___nica.png)
 
 ### Pedidos de Assinatura
 

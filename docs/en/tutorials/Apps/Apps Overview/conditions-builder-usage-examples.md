@@ -25,7 +25,7 @@ To understand __what__ to create the conditions for, see the article [Create Con
 
 UTM (Marketing tag) is an information that relates to the origin of the customer's traffic. Therefore, the app has a block that checks for this type of information. 
 
-![utm_source_english](//images.ctfassets.net/alneenqid6w5/1eC4fEARZG84MYiSmekSIm/5c784e46e4ab63487f183f7cd2060ea9/utm_source_english.png)
+![utm_source_english](https://images.ctfassets.net/alneenqid6w5/1eC4fEARZG84MYiSmekSIm/5c784e46e4ab63487f183f7cd2060ea9/utm_source_english.png)
 
 >⚠️ **Note: **
 > It is possible that your store employs customizations and thereby the UTM information contained in the URL is not being passed on to our system. If you use JavaScript customization, read the article [Por que as utms não estão sendo aplicadas ao carrinho](https://help.vtex.com/pt/faq/por-que-as-utms-nao-estao-sendo-aplicadas-ao-carrinho)

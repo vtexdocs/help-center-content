@@ -36,7 +36,7 @@ Para iniciar la configuración de la integración, realiza los siguientes pasos:
 10. Haz clic en `Siguiente`.
 11. En la ventana abierta, aparecerá una confirmación de que la integración se ha realizado. Haz clic en `Listo`.
 
-![gif es v1](//images.ctfassets.net/alneenqid6w5/1FptUh8HMlsK1FvVPBw89H/aad4d60cb7baecae018ef1d38d25acef/gif_es_v1.gif)
+![gif es v1](https://images.ctfassets.net/alneenqid6w5/1FptUh8HMlsK1FvVPBw89H/aad4d60cb7baecae018ef1d38d25acef/gif_es_v1.gif)
 
 ## Envío de datos de productos a Facebook Business Extension
 

@@ -25,7 +25,7 @@ Previously, merchants could see the **Consider discount for boleto payment in th
 
 >⚠️ The **Apply discount to submitted price** setting is only available for VTEX stores in Brazil.
 
-![envio-de-precos-google-en](//images.ctfassets.net/alneenqid6w5/5ZZihnxaawRM55WkmZ8YJA/419f9830910ef18e14deec1eef56f5aa/envio-de-precos-google-en.png)  
+![envio-de-precos-google-en](https://images.ctfassets.net/alneenqid6w5/5ZZihnxaawRM55WkmZ8YJA/419f9830910ef18e14deec1eef56f5aa/envio-de-precos-google-en.png)  
 
 ## What needs to be done?
 

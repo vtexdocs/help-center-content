@@ -123,7 +123,7 @@ Ao cadastrar um produto, é necessário estabelecer uma quantidade mínima para 
 
 A categoria em questão exige o mapeamento de marca e modelo. Essas informações devem estar presentes na planilha de mapeamento. Formato de exemplo:
 
-![mercadolivre faq erro](//images.ctfassets.net/alneenqid6w5/0ohB2SiPHNmQMufVCfyou/21f9472e17fb15af9b910756ab6d0c89/mercadolivre_faq_erro.JPG)
+![mercadolivre faq erro](https://images.ctfassets.net/alneenqid6w5/0ohB2SiPHNmQMufVCfyou/21f9472e17fb15af9b910756ab6d0c89/mercadolivre_faq_erro.JPG)
 
 ### Por que meu anúncio está desativado no Mercado Livre?
 

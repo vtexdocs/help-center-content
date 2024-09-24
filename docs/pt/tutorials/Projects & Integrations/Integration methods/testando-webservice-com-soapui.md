@@ -35,7 +35,7 @@ O passo a passo de utilização é o seguinte:
 
 Substitua o valor {NOMEDALOJA} pelo nome de sua loja.
 
-![](//images.contentful.com/alneenqid6w5/WMZnCJCLg2WGSIesMOMKu/efed51a5c0e151d1ac1f7902600e522a/1.png)
+![](https://images.contentful.com/alneenqid6w5/WMZnCJCLg2WGSIesMOMKu/efed51a5c0e151d1ac1f7902600e522a/1.png)
 
 Efetue o login com os dados do Web Service desejado. Após efetuar o login, você visualizará todos os métodos existentes no [manual do Web Service](/pt/tutorial/manual-das-classes-e-metodos-usados-no-webservice/).
 

@@ -23,7 +23,7 @@ Para crear una colección, siga las siguientes instrucciones:
 2. Haga clic en **Layout**.
 3. Haga clic en **Product Clusters (Collections)**.
 4. Haga clic en el botón `new collection`, como se muestra a continuación.
-	![Layout 4](//images.ctfassets.net/alneenqid6w5/2qvwI8D3FKuEuyCaEEcu4I/4add6510a4fa136243f35bebabcaf14a/Layout_4.png)
+	![Layout 4](https://images.ctfassets.net/alneenqid6w5/2qvwI8D3FKuEuyCaEEcu4I/4add6510a4fa136243f35bebabcaf14a/Layout_4.png)
 5. Rellene la información requerida:
 	- **Product Cluster Id:** código identificador de la colección. Este campo no debe rellenarse ya que el sistema lo genera automáticamente al guardar.
 	- **Nombre:** nombre de la colección.

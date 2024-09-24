@@ -21,7 +21,7 @@ Note que o Marketplace Network é uma ferramenta que promove o contato entre pot
 
 ## Encontrar Sellers e Marketplaces
 
-![Marketplace network tour](//images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/884c2b263f35ef7e8fbffee7cb23ba84/Marketplace_network_tour.gif)
+![Marketplace network tour](https://images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/884c2b263f35ef7e8fbffee7cb23ba84/Marketplace_network_tour.gif)
 
 Para acessar a listagem de marketplaces e sellers cadastrados navegue em *Marketplace > Marketplace Network > Encontrar Sellers / Encontrar Marketplaces*. Em ambas abas, é possível  buscar por palavras-chave e filtrar a lista para obter resultados mais precisos, além de entrar em contato com potenciais parceiros.
 

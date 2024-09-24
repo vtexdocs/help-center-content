@@ -16,7 +16,7 @@ trackSlugPT: suiteshare
 
 Você já criou o [chat](https://help.vtex.com/pt/tutorial/chat--2HdGrTcSYL1ZIXy7QTWE5), criou os [links](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB), a [captura](https://help.vtex.com/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) está funcionando perfeitamente, agora só precisamos entender de onde vieram esses clientes. Para fazer isso é super tranquilo, acesse o seu painel admin e clique em “_**Analisar**_” 
 
-![Entenda como os clientes chegam até o seu WhatsApp 1](//images.ctfassets.net/alneenqid6w5/5wsUGreWmGzlbgMNYFiKmg/996bf462e45d3274236d3d70246dca78/Screenshot_2022-08-25_at_15-24-42_Entenda_como_os_clientes_chegam_at___o_seu_WhatsApp.png)
+![Entenda como os clientes chegam até o seu WhatsApp 1](https://images.ctfassets.net/alneenqid6w5/5wsUGreWmGzlbgMNYFiKmg/996bf462e45d3274236d3d70246dca78/Screenshot_2022-08-25_at_15-24-42_Entenda_como_os_clientes_chegam_at___o_seu_WhatsApp.png)
 
 Acessando o painel, você terá as seguintes opções: 
 

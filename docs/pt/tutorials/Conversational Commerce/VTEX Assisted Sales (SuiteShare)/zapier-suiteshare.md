@@ -19,7 +19,7 @@ Para realizar a integração, acesse a plataforma **Zapier** clicando [aqui](htt
 
 Fazendo **login** ou criando uma **conta**.
 
-![Zapier_1](//images.ctfassets.net/alneenqid6w5/EQrfjNlvuFJMEv38vvptl/dec4fdb4b6c09c6b0ce30f5097226727/Zapier_1.png)
+![Zapier_1](https://images.ctfassets.net/alneenqid6w5/EQrfjNlvuFJMEv38vvptl/dec4fdb4b6c09c6b0ce30f5097226727/Zapier_1.png)
 
 Após a criação, personalize sua conta com suas **informações**.
 

@@ -28,7 +28,7 @@ In VTEX Admin:
 1. Access **Storefront > Pages**.
 2. Click on the `Redirects` tab.
 
-![en-redirecttab](//images.ctfassets.net/alneenqid6w5/7G20PhFKWBFNKmvN2T8MFo/4b88bd44abc30aa3af4e0f9ca8557e3e/new-redirect.png)
+![en-redirecttab](https://images.ctfassets.net/alneenqid6w5/7G20PhFKWBFNKmvN2T8MFo/4b88bd44abc30aa3af4e0f9ca8557e3e/new-redirect.png)
 
 ## Manually creating redirects
 

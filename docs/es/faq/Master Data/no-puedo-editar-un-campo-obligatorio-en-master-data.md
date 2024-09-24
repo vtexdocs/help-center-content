@@ -18,7 +18,7 @@ Puede editar los campos que aparecen como obligatorios en el __Profile System__ 
 
 1. En el menú de admin, seleccione el módulo __Master Data__. 
 2. Asegúrese de que se encuentra en la pestaña Aplicaciones, dentro de __ Links Rápidos__.
-3. Haga clic en el __engranaje__ en __Profile System__. ![MasterDataTutorial 1 UM](//images.ctfassets.net/alneenqid6w5/6BwZrUrNopO6Nb3n49B8L9/ba74f6ae261e1d8f0fc7a32cf7ad321f/MasterDataTutorial_1_UM.jpg)
+3. Haga clic en el __engranaje__ en __Profile System__. ![MasterDataTutorial 1 UM](https://images.ctfassets.net/alneenqid6w5/6BwZrUrNopO6Nb3n49B8L9/ba74f6ae261e1d8f0fc7a32cf7ad321f/MasterDataTutorial_1_UM.jpg)
 4. Haga clic en el __lápiz__ al lado del ítem que desea configurar. ![MasterDataTutorial2](//images.ctfassets.net/alneenqid6w5/1OU9KjvK8sUUtHr5MZqbci/4297f3f56819f622d77845054b3dbb0d/MasterDataTutorial2.png)
 5. Haga clic en __Schemas de Layout__.
 6. En la __Sección 1__, escoja el ítem del campo que desea configurar.

@@ -21,7 +21,7 @@ According to the [2015 Update of the Specification for the Google Shopping feed
 
 The tags on the standard configuration of our XML form have been updated to create a new Google Merchant / Shopping feed; just select the option “Feed: Atom 1”:
 
-![](//images.contentful.com/alneenqid6w5/2ugQUy4xlaaUEOIYuu6UMe/41fd01c32b6954b14e1ef5818b94ca0c/atom1_xml_vtex_google.gif)
+![](https://images.contentful.com/alneenqid6w5/2ugQUy4xlaaUEOIYuu6UMe/41fd01c32b6954b14e1ef5818b94ca0c/atom1_xml_vtex_google.gif)
 
 Proper integration with Google Merchant / Shopping requires updating the xml with the new fields, beginning September 15, 2015.
 

@@ -54,7 +54,7 @@ Nesta seção, você precisa adicionar pelo menos uma política comercial para s
 
 Nesta etapa, você precisa escrever uma descrição das principais informações relacionadas ao produto. O texto deve ser um resumo simples e de fácil entendimento para o cliente. O editor de texto da descrição é rich text, ou seja, você pode utilizar diversos recursos de formatação utilizando a barra de ferramentas desse campo, ilustrada abaixo.
 
-![richtextdescription-PT](//images.contentful.com/alneenqid6w5/5ZsZ8w2bYbaM7yQ685K0QD/703ab1ea4e8618aeac8170938e79b43a/richtextdescription.gif)
+![richtextdescription-PT](https://images.contentful.com/alneenqid6w5/5ZsZ8w2bYbaM7yQ685K0QD/703ab1ea4e8618aeac8170938e79b43a/richtextdescription.gif)
 
 Veja quais são os recursos disponíveis a partir da barra de ferramentas:
 

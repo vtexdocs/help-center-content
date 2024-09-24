@@ -30,7 +30,7 @@ The home page displays the promotions list in a grid that allows you to easily v
 - Duplicate or archive promotions using the <i class="fas fa-ellipsis-v"></i>  button;
 - Manage promotion conditions by clicking anywhere in the grid row (see [New promotion](#new-promotion) for more details about promotion conditions).
 
-![promobeta1 acoes lista promocoes EN](//images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/b3f2216333e8dd4cbd084b6408524541/promobeta1_acoes_lista_promocoes_EN.gif)
+![promobeta1 acoes lista promocoes EN](https://images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/b3f2216333e8dd4cbd084b6408524541/promobeta1_acoes_lista_promocoes_EN.gif)
 
 You can filter and sort your promotion list according to your needs. The VTEX platform allows you to filter your promotions by *Effects*, *Status*, *Starting date*, *Ending date*, or *Trade policy*.
 

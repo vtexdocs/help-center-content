@@ -15,7 +15,7 @@ legacySlug: understanding-storebuilder-and-stylesbuilder
 subcategoryId: Z46a6rHVAaAucoiW0skQQ
 ---
 
-![UI Blocks Voando.mp4](//images.ctfassets.net/alneenqid6w5/4VRam6UukpPhsCBMtrhBbv/60bb012cd676ebcc8b8805de021529db/UI_Blocks_Voando.mp4.gif) 
+![UI Blocks Voando.mp4](https://images.ctfassets.net/alneenqid6w5/4VRam6UukpPhsCBMtrhBbv/60bb012cd676ebcc8b8805de021529db/UI_Blocks_Voando.mp4.gif) 
 
 This documentation is structured to explain Store 2.xx's StoreBuilder and StyleBuilder.  Throughout the documentation we will be using DreamStore (a `Store 2.xx` template) to understand key concepts that will allow you to successfully structure and style your store.
 

@@ -42,7 +42,7 @@ Diferente de los demás, estos controles necesitan una configuración imprescind
 
 En el registro de Categoria existe la opción de configurar la Avaliação (Evaluación) y normalmente esta configuración se hace en la categoría raíz:
 
-![avaliação-categoria ES](//images.ctfassets.net/alneenqid6w5/2iOensHpjSW8aYCqi2o2O8/548b7ff362e70275c73dbc9b0b2239d6/avalia____o_es.png)
+![avaliação-categoria ES](https://images.ctfassets.net/alneenqid6w5/2iOensHpjSW8aYCqi2o2O8/548b7ff362e70275c73dbc9b0b2239d6/avalia____o_es.png)
 
 Haga click en **Nueva Calificación** y rellene los datos Nome (Nombre) y Texto y después grabe.
 

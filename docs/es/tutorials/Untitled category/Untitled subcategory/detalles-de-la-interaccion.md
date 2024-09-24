@@ -36,7 +36,7 @@ La página **Detalles de la interacción** cuenta con las siguientes secciones:
 >ℹ️ **Gestión de anuncios** permite hacer un seguimiento de los anuncios con [Mercado Libre](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic y Premium), [Netshoes](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) y marketplaces VTEX. Para los conectores que desean integrarse a través de API, existe la [Guía de integración de Gestión de anuncios](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).  
 
 ## Encabezado
-![Interaction details PT cabeçalho](//images.ctfassets.net/alneenqid6w5/7zEocS2MW5dSRzZaaqNDUc/cc97295e6fa0f0d1cfaa76cd755904cb/Interaction_details_ES_cabe__alho.jpg)
+![Interaction details PT cabeçalho](https://images.ctfassets.net/alneenqid6w5/7zEocS2MW5dSRzZaaqNDUc/cc97295e6fa0f0d1cfaa76cd755904cb/Interaction_details_ES_cabe__alho.jpg)
 El *encabezado* contiene la información principal del anuncio para la visualización rápida, como nombre del SKU, logo del canal al que fue enviado, su ID en VTEX e ID en el canal.
 
 ## Resultado de la interacción

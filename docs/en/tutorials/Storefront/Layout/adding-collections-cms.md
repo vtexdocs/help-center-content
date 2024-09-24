@@ -29,7 +29,7 @@ Follow the steps below to add a new collection:
 
 Choosing the products that will make up a collection is done by clicking on __New Group__ in the desired collection, creating a __group__.
 
-![new-group-collection en](//images.ctfassets.net/alneenqid6w5/7tJUzscKOqsDSLv64f71KJ/49434a9c33f677cf4632f2145d4064b4/new-group-collection_en.png)
+![new-group-collection en](https://images.ctfassets.net/alneenqid6w5/7tJUzscKOqsDSLv64f71KJ/49434a9c33f677cf4632f2145d4064b4/new-group-collection_en.png)
 
 Before choosing which products to add to a group, you will need to give it a name and specify which type the created group falls under.
 

@@ -46,7 +46,7 @@ Para más información sobre el status y el flujo del pedido, consulta el artíc
 
 ## Barra superior
 
-![BarrasuperiorES](//images.ctfassets.net/alneenqid6w5/4iRT7cRVqHuZ7BzKScT76O/a5a4369cfa3231a289e6e40e606b53b8/BarrasuperiorES.jpg)
+![BarrasuperiorES](https://images.ctfassets.net/alneenqid6w5/4iRT7cRVqHuZ7BzKScT76O/a5a4369cfa3231a289e6e40e606b53b8/BarrasuperiorES.jpg)
 
 La barra superior de la página contiene la siguiente información y acciones:
 

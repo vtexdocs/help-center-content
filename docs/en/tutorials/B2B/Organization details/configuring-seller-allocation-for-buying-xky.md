@@ -30,7 +30,7 @@ To assign sellers to a particular buying organization, follow the steps below:
 <li>In the VTEX Admin, go to <b>Apps > B2B Organizations & Cost Centers > Organizations</b>, or type <b>Organizations</b> in the search bar at the top of the page.</li>
 <li>In the <b>Organizations</b> tab, click the name of the desired buying organization.</li>
 
-![Organization](//images.ctfassets.net/alneenqid6w5/1b6R9emKupGC3gv6BqKPbG/c127c65c00d63077e2a61463b8fcc2d7/ORGANIZACOES_-_EN.jpg)
+![Organization](https://images.ctfassets.net/alneenqid6w5/1b6R9emKupGC3gv6BqKPbG/c127c65c00d63077e2a61463b8fcc2d7/ORGANIZACOES_-_EN.jpg)
 
 <li>In the <b>Sellers</b> tab, under <b>Disponible</b>, select the desired sellers.</li>
 

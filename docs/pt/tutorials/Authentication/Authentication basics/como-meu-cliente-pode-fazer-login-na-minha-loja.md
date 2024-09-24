@@ -28,7 +28,7 @@ O objetivo deste artigo é mostrar como o cliente da sua loja deve fazer login n
 
 Ao clicar em um link para se autenticar, o cliente verá a tela de login.
 
-![vtex-id-pt](//images.ctfassets.net/alneenqid6w5/32ihh602XeY6WyECG6YkwG/d7e784ef2c14aad7a01faef0e94f5c19/vtex-id-en.png)
+![vtex-id-pt](https://images.ctfassets.net/alneenqid6w5/32ihh602XeY6WyECG6YkwG/d7e784ef2c14aad7a01faef0e94f5c19/vtex-id-en.png)
 
 Existem três formas padrão de se fazer login numa loja VTEX:
 

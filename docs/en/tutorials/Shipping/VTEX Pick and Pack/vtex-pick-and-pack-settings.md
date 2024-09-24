@@ -32,7 +32,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 In this tab, you'll find the settings related to the picking of order items. Here, you can set actions the picker can take during the picking process, including notifying you that an order item is unavailable and suggesting replacements.
 
-![pick-and-pack-separacao-en](//images.ctfassets.net/alneenqid6w5/31IMWfSufilPJHlkU7bLyh/0b5dd839ffadbb4fc7670bae7b6a1e27/image.png)
+![pick-and-pack-separacao-en](https://images.ctfassets.net/alneenqid6w5/31IMWfSufilPJHlkU7bLyh/0b5dd839ffadbb4fc7670bae7b6a1e27/image.png)
 
 ### Picking Strategy
 

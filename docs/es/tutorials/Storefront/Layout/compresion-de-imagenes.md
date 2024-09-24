@@ -42,7 +42,7 @@ Al mismo tiempo, las imágenes PNG se optimizan utilizando[ pngquant](https://pn
 
 Por último, VTEX entrega el archivo más compacto de entre el WebP sin pérdida y el PNG optimizado, como se ilustra en el siguiente diagrama.
 
-![png-image-compression-es](//images.ctfassets.net/alneenqid6w5/2i6UAp6HkiWl87Q7SDfIMB/ea1861651c0c3576bb865f2c050a3792/png-image-compression-es.PNG)
+![png-image-compression-es](https://images.ctfassets.net/alneenqid6w5/2i6UAp6HkiWl87Q7SDfIMB/ea1861651c0c3576bb865f2c050a3792/png-image-compression-es.PNG)
 
 ## JPG/JPEG
 

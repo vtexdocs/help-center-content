@@ -23,7 +23,7 @@ Digamos que você deseja saber quais foram os critérios que a plataforma usou p
 
 Em primeiro lugar, vamos entrar no módulo __Todos os pedidos__ para ver o pedido.
 
-![2019-06-05 13 51 56-Todos os pedidos](//images.ctfassets.net/alneenqid6w5/1v711UNCK6lLyGvqXkDkRs/046e6d1af8cb038a15bf1674ea86081c/2019-06-05_13_51_56-Todos_os_pedidos.png) 
+![2019-06-05 13 51 56-Todos os pedidos](https://images.ctfassets.net/alneenqid6w5/1v711UNCK6lLyGvqXkDkRs/046e6d1af8cb038a15bf1674ea86081c/2019-06-05_13_51_56-Todos_os_pedidos.png) 
 
 >No canto superior direito, você vê a __data em que o pedido foi realizado__ (6 MAI 2019).
 >E na seção de Itens a Faturar em baixo, você vê o __prazo de entrega do pedido__ (22 MAI 2019).

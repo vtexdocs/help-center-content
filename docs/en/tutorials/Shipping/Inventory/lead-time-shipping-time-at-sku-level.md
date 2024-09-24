@@ -33,7 +33,7 @@ This article covers the following:
 
 When configured, the lead time is an additional time comprising the shipping time for the order displayed to the customer at checkout. The image below shows how the total time is calculated:
 
-![lead_time_image_total_time_EN](//images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/8a3f64f6c30a7a513bb98d0c97b355a3/lead_time_image_total_time_EN.png)
+![lead_time_image_total_time_EN](https://images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/8a3f64f6c30a7a513bb98d0c97b355a3/lead_time_image_total_time_EN.png)
 
 - **Lead time:** The amount of time that can be configured for a warehouse SKU. For example, this period could correspond to the item's handling or manufacturing time. This configuration is optional and, by default, is set as zero days
 - [Warehouse time:](https://help.vtex.com/en/tutorial/gerenciar-estoque--tutorials_137) Time the SKU takes to leave a warehouse and arrive at a [loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). This configuration is required, but you can set the time to zero.

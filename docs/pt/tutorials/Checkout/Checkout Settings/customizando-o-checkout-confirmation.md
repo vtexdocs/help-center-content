@@ -15,7 +15,7 @@ legacySlug: customizando-o-checkout-confirmation
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-![Página de confirmação de pedido (Order Placed)](//images.contentful.com/alneenqid6w5/n7VvdVmseGQyGwCEQAIiW/90bd066111747fe05d722e6fad172d14/cconf-hml1.png) 
+![Página de confirmação de pedido (Order Placed)](https://images.contentful.com/alneenqid6w5/n7VvdVmseGQyGwCEQAIiW/90bd066111747fe05d722e6fad172d14/cconf-hml1.png) 
 
 A nova seção de Meus Pedidos vem acompanhada de uma nova página de confirmação de pedido (Order Placed), agora parte do **Checkout Confirmation**, feature responsável pelas páginas de confirmação do Checkout.
 

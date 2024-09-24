@@ -23,7 +23,7 @@ This article will show you the steps required to install the Masterpass extensio
 
 First, go to the **Explore** screen and click on the **Masterpass** extension.
 
-![Extension Store 1](//images.contentful.com/alneenqid6w5/6E480Kd4t2EqimaiKW8cii/ef5ba713601e5bdc4f97ff20133aa354/Extension_Store_1.png)
+![Extension Store 1](https://images.contentful.com/alneenqid6w5/6E480Kd4t2EqimaiKW8cii/ef5ba713601e5bdc4f97ff20133aa354/Extension_Store_1.png)
 
 Then, you will have access to the extension details page, where the following information will be displayed:
 

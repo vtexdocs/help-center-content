@@ -72,7 +72,7 @@ A configuração do antifraude ClearSale v3 exige a criação de uma tag no Goog
 10. Clique no botão __Criar Tag__, insira um nome para esta tag e salve.
 11. No canto superior direito, clique em __Publicar__.
 
-![Pasted image at 2017 10 20 01 11 PM](//images.contentful.com/alneenqid6w5/2kdI4xh9IYwKI2mSiU20yW/b850c070cc8de2ec09e690ffe6cc9c15/Pasted_image_at_2017_10_20_01_11_PM.png)
+![Pasted image at 2017 10 20 01 11 PM](https://images.contentful.com/alneenqid6w5/2kdI4xh9IYwKI2mSiU20yW/b850c070cc8de2ec09e690ffe6cc9c15/Pasted_image_at_2017_10_20_01_11_PM.png)
 
 ## Detalhes do campo customSLA
 

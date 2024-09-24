@@ -27,7 +27,7 @@ A configuração depende de dois pontos, listados abaixo.
 
 - O SKU precisa ser configurado para gerar crédito em vale.
 
-![sku-opção-credito-vale pt](//images.ctfassets.net/alneenqid6w5/JLjFssu5Q2awo2UyiuOEQ/2719360144a349ef7fcf68fc96a7dee6/sku-op____o-credito-vale_pt.png)
+![sku-opção-credito-vale pt](https://images.ctfassets.net/alneenqid6w5/JLjFssu5Q2awo2UyiuOEQ/2719360144a349ef7fcf68fc96a7dee6/sku-op____o-credito-vale_pt.png)
 
 
 ## Configurações no Tipo de Lista

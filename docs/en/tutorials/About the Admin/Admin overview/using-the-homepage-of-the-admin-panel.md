@@ -28,7 +28,7 @@ The metrics section is divided into three large groups:
 - Payment data;
 - Catalog Data.
 
-![Action Dashboard](//images.contentful.com/alneenqid6w5/5ir6pwnlyMeQEeSOmOyisw/dcad530fb9c0004d32a89a3a6d5492ef/Action_Dashboard.png)
+![Action Dashboard](https://images.contentful.com/alneenqid6w5/5ir6pwnlyMeQEeSOmOyisw/dcad530fb9c0004d32a89a3a6d5492ef/Action_Dashboard.png)
 
 ### Bridge
 

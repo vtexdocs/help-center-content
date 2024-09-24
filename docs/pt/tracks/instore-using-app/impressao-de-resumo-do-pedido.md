@@ -18,7 +18,7 @@ Ao concluir um pedido pelo VTEX Sales App, é possível imprimir um resumo do pe
 
 Para isso, o vendedor pode clicar no botão `Imprimir Pedido`, na tela de pedido finalizado, conforme ilustrado abaixo. Outra opção é configurar o VTEX Sales App para imprimir o resumo do pedido automaticamente, assim que o pedido for finalizado.
 
-![15. Configurar impressão de resumo do pedido - 1](//images.ctfassets.net/alneenqid6w5/I5tu0upqIMUVTCxTHFfmL/30253b60272652b911a9dfd03c9fe8ae/Group_1.png)
+![15. Configurar impressão de resumo do pedido - 1](https://images.ctfassets.net/alneenqid6w5/I5tu0upqIMUVTCxTHFfmL/30253b60272652b911a9dfd03c9fe8ae/Group_1.png)
 
 Para habilitar a impressão do resumo do pedido, é necessário seguir as etapas descritas abaixo.
 

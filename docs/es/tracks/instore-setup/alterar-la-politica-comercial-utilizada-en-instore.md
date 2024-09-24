@@ -16,7 +16,7 @@ trackSlugES: instore-setup
 
 Si usted ha configurado su tienda utilizando el flujo de __Easy Setup__ ya se ha creado una tienda en el __Admin de tiendas__ dentro del VTable de VTEX (https://{{AccountName}}.myvtex.com/admin/vtable).
 
-![inStore aplicacoes vtable](//images.ctfassets.net/alneenqid6w5/6BRkoPO2cMOQkYkuSOeCO6/641c901771af479df13a487c123aff23/inStore_aplicacoes_vtable.png)
+![inStore aplicacoes vtable](https://images.ctfassets.net/alneenqid6w5/6BRkoPO2cMOQkYkuSOeCO6/641c901771af479df13a487c123aff23/inStore_aplicacoes_vtable.png)
 
 Haga clic en __Admin de tiendas__ para abrir la tabla donde usted verá las tiendas físicas.
 

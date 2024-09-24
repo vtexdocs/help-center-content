@@ -36,7 +36,7 @@ Depois de instalar, você pode acessá-lo da barra lateral (seção de apps inst
 4. (Opcional) Escreva uma pequena descrição para sua condição. Essa descrição é apenas para controle interno, não será visível aos seus clientes.
 5. Clique em "Começar a construir".
 
-![criarCondicao](//images.ctfassets.net/alneenqid6w5/628KQZeFhY2GsQsgcEMmIm/2610dde91708bfbd304ea52458be6137/criarCondicao.gif)  
+![criarCondicao](https://images.ctfassets.net/alneenqid6w5/628KQZeFhY2GsQsgcEMmIm/2610dde91708bfbd304ea52458be6137/criarCondicao.gif)  
 
 
 Depois de apertar o botão "Começar a construir", você verá um editor e uma lista de blocos no lado esquerda da tela. Agora você só precisa arrastar os blocos para o editor e conectá-los, criando assim sua lógica. 

@@ -23,7 +23,7 @@ Existem dois cenários possíveis de configurações de relevância:
 - **Critérios prioritários:** é a forma de forçar que um ou mais critérios terão prioridade maior entre os demais. Nessa situação não existem pesos, pois todos os produtos que possuírem essa característica serão apresentados primeiro no resultado de busca.
 - **Composição de critérios:** é a forma de distribuir pesos para cada opção, variando de 0 a 10. Aqui, não existe uma ordem entre os critérios, serão os pesos que vão definir a relevância.
 
-![criterios-pt](//images.ctfassets.net/alneenqid6w5/2okH4XcNScAzf6PJIlOKqs/faefb674583084511a114faf0c39cdbd/criterios-pt.png)
+![criterios-pt](https://images.ctfassets.net/alneenqid6w5/2okH4XcNScAzf6PJIlOKqs/faefb674583084511a114faf0c39cdbd/criterios-pt.png)
 
 As informações aplicadas para compor a relevância são:
 

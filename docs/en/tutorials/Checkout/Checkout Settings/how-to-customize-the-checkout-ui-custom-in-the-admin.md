@@ -63,7 +63,7 @@ In this tab, you can configure the following:
 
 The Colors tab allows you to customize the checkout colors in your store, including backgrounds, buttons, text, and more. This standardization ensures consistent design.
 
-![Colors](//images.ctfassets.net/alneenqid6w5/4H44wWoSRkxqorAvMIIdtG/82c33725eabb61f10ba13b8d2406e4d8/Colors_-_EN.png)
+![Colors](https://images.ctfassets.net/alneenqid6w5/4H44wWoSRkxqorAvMIIdtG/82c33725eabb61f10ba13b8d2406e4d8/Colors_-_EN.png)
 
 ## JavaScript
 

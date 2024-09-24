@@ -27,7 +27,7 @@ With that, checkout will be able to assemble the orderForm considering the marke
 
 To make sure the content of the `utm_source` parameter, for example, is being passed to the checkout, you can follow the steps below:
 1. Access any page of the store with the utm in the querystring (eg: {AccountName}.com.br`?utm_source=facebook`)
-2. Enter the __developer tools__ (F12 in Chrome, if you are in Windows, or Cmd+Opt+I on a Mac), go to the __Application__ tab, open the store's website cookies and look for the __IPS__ cookie.![utmSource1](//images.contentful.com/alneenqid6w5/2tGleKs2b2Gge8oEoquSGm/17efaf14e42cd655b037c2bd009eb0d6/utmSource1.png)
+2. Enter the __developer tools__ (F12 in Chrome, if you are in Windows, or Cmd+Opt+I on a Mac), go to the __Application__ tab, open the store's website cookies and look for the __IPS__ cookie.![utmSource1](https://images.contentful.com/alneenqid6w5/2tGleKs2b2Gge8oEoquSGm/17efaf14e42cd655b037c2bd009eb0d6/utmSource1.png)
 3. Enter a product page and insert a product into the cart.
 4. Enter the cart.
 5. Refresh the page, and on the developer tools __Network__ tab, monitor the requests.

@@ -22,7 +22,7 @@ Além de organizar e distribuir os atendimentos, você pode definir horários de
 - [**Sequencial**](https://help.vtex.com/pt/tutorial/sequencial--212r1PKHPGdpbbRlpf2gY3): o atendente não receberá clientes durante o período.  
 - [**Geolocalizado**](https://help.vtex.com/pt/tutorial/geolocalizado--6XIfgaqXaPe5exQa9oVp6D): o atendente ou loja não receberão clientes durante o período. 
 
-![horario_suitshare_1](//images.ctfassets.net/alneenqid6w5/5SYhzGHjrNpxQbrJ93Op0b/388d8adf88bb0d50c43cccaa34bde610/horario_suitshare_1.png)
+![horario_suitshare_1](https://images.ctfassets.net/alneenqid6w5/5SYhzGHjrNpxQbrJ93Op0b/388d8adf88bb0d50c43cccaa34bde610/horario_suitshare_1.png)
 
 >⚠️ **Nota**: Para configurar o horário de atendimento você deve ter organizado seu atendimento de forma seletiva, sequencial ou geolocalizado.
 

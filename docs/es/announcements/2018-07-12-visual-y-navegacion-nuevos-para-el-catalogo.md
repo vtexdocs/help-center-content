@@ -23,7 +23,7 @@ La principal diferencia para la versión antigua está en la navegación. Cambie
 ## Que ha cambiado
 
 La mayoría de los elementos del Catálogo se pueden encontrar en _Catálogo_, que se encuentra en la sección _PRODUCTOS_ del menú lateral.
-![ES-Catálogo1](//images.ctfassets.net/alneenqid6w5/34XVA7oE408IGWg0ksG4qQ/7ac747eed47cc684526edd8a8e860ace/ES-Cat__logo1.png)
+![ES-Catálogo1](https://images.ctfassets.net/alneenqid6w5/34XVA7oE408IGWg0ksG4qQ/7ac747eed47cc684526edd8a8e860ace/ES-Cat__logo1.png)
 
 
 El ítem _Tarjeta de regallo_ (que antes se llamaba _Vales_ y se encontraba en _Controles de campañas_) ahora está en _Pagos_, dentro de la sección _TRANSACCIONES_ del menú lateral.

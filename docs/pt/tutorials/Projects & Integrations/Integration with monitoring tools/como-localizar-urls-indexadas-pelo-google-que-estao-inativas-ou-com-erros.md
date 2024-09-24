@@ -23,7 +23,7 @@ Caso contrário, as páginas indexadas pelo Google com o conteúdo antigo serão
 
 Você precisará acessar sua conta no Web Master Tools do Google. Lá você poderá verificar os números de páginas com erros.
 
-![locateURL1](//images.contentful.com/alneenqid6w5/qEYJuUx2hweIuuMCsQWmE/4667542aeafdfd92daecce10dd7853a6/locateURL1.jpg)
+![locateURL1](https://images.contentful.com/alneenqid6w5/qEYJuUx2hweIuuMCsQWmE/4667542aeafdfd92daecce10dd7853a6/locateURL1.jpg)
 
 Clique em **Rastreamento** e depois em **Erros de Rastreamentos**, como na imagem abaixo:
 

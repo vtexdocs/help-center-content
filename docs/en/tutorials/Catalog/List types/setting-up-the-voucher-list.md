@@ -26,7 +26,7 @@ To create this type of list, an SKU must be set up as follows:
 - The SKU price must be R$0.01.
 - The SKU must be set up to generate a credit voucher.
 
-![sku-opção-credito-vale en](//images.ctfassets.net/alneenqid6w5/4CQusNMh8csmAs6qOkYAIi/07ea9ef632ca04b3e8b39c170732e18b/sku-op____o-credito-vale_en.png)
+![sku-opção-credito-vale en](https://images.ctfassets.net/alneenqid6w5/4CQusNMh8csmAs6qOkYAIi/07ea9ef632ca04b3e8b39c170732e18b/sku-op____o-credito-vale_en.png)
 
 
 ## List Types Settings

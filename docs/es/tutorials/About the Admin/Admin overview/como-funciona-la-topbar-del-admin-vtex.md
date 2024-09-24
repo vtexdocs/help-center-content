@@ -19,7 +19,7 @@ La topbar es el punto de partida para todas las áreas del admin VTEX. A continu
 
 **Navegue entre los módulos**: Para ir a uno de los módulos, basta hacer clci sobre él en la sidebar del Admin.
 
-![paginainicial.es](//images.ctfassets.net/alneenqid6w5/207OIMwxY2Ilv2GgkiYWEj/05adb8d83d4038462a72912363e3ccd2/paginainicial.es.png)
+![paginainicial.es](https://images.ctfassets.net/alneenqid6w5/207OIMwxY2Ilv2GgkiYWEj/05adb8d83d4038462a72912363e3ccd2/paginainicial.es.png)
 
 **Navegue entre los sub-dominios**: Para navegar entre los sub-dominios de su tienda, basta hacer clic sobre el dominio actual. Usted visualizará todas las opciones. Para ir al admin de uno de los sub-dominios, basta hacer clic sobre él en el menú.
 

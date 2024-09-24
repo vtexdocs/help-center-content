@@ -81,7 +81,7 @@ In the steps below, we will use the credit card as an example of a payment condi
 14. To choose between compound interest and simple interest, select __Compound Interest applied. Change__. A selection box will appear allowing you to choose between the two options. 
 15. Click on __Save*__.
 
-![Juros - en](//images.ctfassets.net/alneenqid6w5/7IPLydgcKCsQUItYhn4LgD/efa95228eb34354425a0064491122b46/Juros_-_en.png)
+![Juros - en](https://images.ctfassets.net/alneenqid6w5/7IPLydgcKCsQUItYhn4LgD/efa95228eb34354425a0064491122b46/Juros_-_en.png)
 
 #### External Interest
 

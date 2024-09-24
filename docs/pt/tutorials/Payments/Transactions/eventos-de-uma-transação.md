@@ -32,7 +32,7 @@ Abaixo são compartilhados exemplos de onde encontrar as informações mais comu
 
 Neste evento, vemos que VTEX começou o processo de autorização com o gateway de pagamentos e respondeu que a operação pode começar:
 
-![transação-autorizando](//images.contentful.com/alneenqid6w5/2czvz4AZkECkCoC2CCmOME/92b9272bc3cf7302b3f51a69010591bf/transaccion-autorizada-aprobada.png)
+![transação-autorizando](https://images.contentful.com/alneenqid6w5/2czvz4AZkECkCoC2CCmOME/92b9272bc3cf7302b3f51a69010591bf/transaccion-autorizada-aprobada.png)
 
 
 ## Transação autorizada e aprovada

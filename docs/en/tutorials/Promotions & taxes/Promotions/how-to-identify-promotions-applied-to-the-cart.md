@@ -42,7 +42,7 @@ In the cart, you can move your mouse over the question mark icon below the price
 
 However, if more than one promotion is applied, what appears will be the sum of the discounts, making it difficult to analyze the scenario.
 
-![example-cart](//images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/324846b73794d9a19305cfb4d9486ab1/image6.png)
+![example-cart](https://images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/324846b73794d9a19305cfb4d9486ab1/image6.png)
 
 ## orderForm
 

@@ -35,7 +35,7 @@ El paso a paso de utilización es el siguiente:
 
 Sustitúa {AMBIENTEDELATIENDA} por el nombre de su tienda.
 
-![](//images.contentful.com/alneenqid6w5/WMZnCJCLg2WGSIesMOMKu/efed51a5c0e151d1ac1f7902600e522a/1.png)
+![](https://images.contentful.com/alneenqid6w5/WMZnCJCLg2WGSIesMOMKu/efed51a5c0e151d1ac1f7902600e522a/1.png)
 
 Efectúe el login con los datos de webservice deseado. Después de efectuar el login, se visualizarán todos los métodos existentes en el [manual de Webservice](/es/tutorial/manual-de-clases-y-metodos-utilizados-en-webservice/).
 

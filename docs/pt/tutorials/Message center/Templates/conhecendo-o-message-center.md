@@ -23,7 +23,7 @@ Os templates são as mensagens em si. As mensagens estão categorizadas conforme
 
 Entenda as informações que cada _card_ do template traz:
 
-![message center - card templates](//images.contentful.com/alneenqid6w5/4Npky1GjAs2OsoQ6oG6a8/c001d59b1eeca31d0342e52d79c58a3f/message-center-card-templates.png)
+![message center - card templates](https://images.contentful.com/alneenqid6w5/4Npky1GjAs2OsoQ6oG6a8/c001d59b1eeca31d0342e52d79c58a3f/message-center-card-templates.png)
 
 - Nome do template, para identificação interna (não se trata do assunto do e-mail enviado).
 - Aplicação/módulo ao qual ele pertence (em verde).

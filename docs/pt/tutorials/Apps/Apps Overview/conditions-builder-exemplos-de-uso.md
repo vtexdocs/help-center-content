@@ -23,7 +23,7 @@ Para entender __para que__ criar condições, veja o artigo [Criar Preços Condi
 
 UTM (Marketing tag) é uma informação que diz respeito a origem do tráfego do cliente. Então, no app existe um bloco que verifica esse tipo de informação.    
 
-![utm_source_port](//images.ctfassets.net/alneenqid6w5/1X8rOnz0wwOgMWKE2IccGe/97a3907728c129ec075f425c9e221230/utm_source_port.png)  
+![utm_source_port](https://images.ctfassets.net/alneenqid6w5/1X8rOnz0wwOgMWKE2IccGe/97a3907728c129ec075f425c9e221230/utm_source_port.png)  
 
 >⚠️ **Nota: **
 > É possível que sua loja utilize customização e por isso as informações de UTM contidas na URL não estão sendo passadas para o nosso sistema. Caso use customização de Javascript, leia o artigo [Por que as utms não estão sendo aplicadas ao carrinho](https://help.vtex.com/pt/faq/por-que-as-utms-nao-estao-sendo-aplicadas-ao-carrinho)

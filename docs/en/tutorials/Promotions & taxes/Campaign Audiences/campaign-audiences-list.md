@@ -17,7 +17,7 @@ subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 
 Your store's campaign audience list is available in the VTEX Admin, on the *Promotions > Campaign audience* page, illustrated below.
 
-![lista-audiencias-campanha-en](//images.ctfassets.net/alneenqid6w5/3OyfWyVN0MMA5qpgjxtGyM/cec59b7c69282287586b1db574aedfe7/lista-audiencias-campanha-en.png)
+![lista-audiencias-campanha-en](https://images.ctfassets.net/alneenqid6w5/3OyfWyVN0MMA5qpgjxtGyM/cec59b7c69282287586b1db574aedfe7/lista-audiencias-campanha-en.png)
 
 On this page, you can perform the following actions:
 

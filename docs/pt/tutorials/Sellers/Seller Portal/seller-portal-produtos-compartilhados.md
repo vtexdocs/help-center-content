@@ -29,7 +29,7 @@ Para acessar a funcionalidade Produtos Compartilhados, clique em *Preços > Cat�
 
 ## Importados
 
-![Shared products Importados PT](//images.ctfassets.net/alneenqid6w5/2mmTwK1Kn3g8TPOICMMMk8/e7b820dcb3cbbcc3031f58ec3e6dde20/Shared_products_Importados_PT.jpg)
+![Shared products Importados PT](https://images.ctfassets.net/alneenqid6w5/2mmTwK1Kn3g8TPOICMMMk8/e7b820dcb3cbbcc3031f58ec3e6dde20/Shared_products_Importados_PT.jpg)
 
 A aba *Importados* reúne produtos do catálogo do marketplace que já foram importados pelo seller, ou seja, que já podem virar anúncios. A lista contém uma barra de busca, para pesquisar produtos por nome ou SKU. É por meio dessa aba, que produtos são ativados.  
 

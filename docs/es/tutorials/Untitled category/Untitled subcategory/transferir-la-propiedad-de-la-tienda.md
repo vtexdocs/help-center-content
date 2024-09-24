@@ -25,7 +25,7 @@ La página de «Gestión de titular» le permite identificar al usuario titular 
 
 Debe ver una pantalla similar a la imagen a continuación que tiene la información del usuario titular actual, un descargo de responsabilidad que indica los riesgos asociados a la transferencia de la propiedad de la tienda y un botón para aceptar los riesgos y transferir la propiedad de todas maneras.
 
-![Panel de gestión de titular](//images.ctfassets.net/alneenqid6w5/7AiPMmn3NnMjg89WgEfBXP/8220a9866df4786fcff4fb3b5a29f6ca/Sponsor_Management_es.png)
+![Panel de gestión de titular](https://images.ctfassets.net/alneenqid6w5/7AiPMmn3NnMjg89WgEfBXP/8220a9866df4786fcff4fb3b5a29f6ca/Sponsor_Management_es.png)
 
 ## Pasos de la transferencia de propiedad
 

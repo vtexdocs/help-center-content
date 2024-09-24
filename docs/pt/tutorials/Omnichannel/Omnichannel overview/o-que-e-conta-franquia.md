@@ -19,7 +19,7 @@ Na plataforma VTEX, você tem a opção de cadastrar lojas físicas, franqueados
 
 A conta franquia é associada a uma conta principal. No caso de uma marca que possui múltiplas lojas físicas, franqueados ou representantes, cada um deles pode ter uma conta franquia vinculada à conta principal da marca. Isso permite que eles entreguem produtos vendidos pelo ecommerce da marca.
 
-![diagrama contas v2](//images.contentful.com/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/6a4d22cb3f55e2e97a1766bad65a7101/diagrama_contas_v2.png)
+![diagrama contas v2](https://images.contentful.com/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/6a4d22cb3f55e2e97a1766bad65a7101/diagrama_contas_v2.png)
 
 Neste artigo, você verá:
 

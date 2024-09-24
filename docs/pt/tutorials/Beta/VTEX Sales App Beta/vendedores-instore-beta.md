@@ -27,7 +27,7 @@ Esta página permite que você gerencia seus vendedores a partir das seguintes a
 * [Editar](#editar-vendedor)
 * [Excluir](#excluir-vendedor)
 
-![vendedores-pt](//images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/247cb80ead8132c0b82a5787328279dc/image.png)
+![vendedores-pt](https://images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/247cb80ead8132c0b82a5787328279dc/image.png)
 
 A página apresenta as seguintes informações: 
 

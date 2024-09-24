@@ -46,7 +46,7 @@ Exemplos de como fica no inStore o formulário com pessoa jurídica:
 
 __Formulário B2B__ opcional fechado:
 
-![b2b-opcional-fechado](//images.ctfassets.net/alneenqid6w5/5gFb3SBRocc6Gwcm4YusAA/86d15e9f80377edc8bda880c2fda829c/b2b-opcional-fechado.png)
+![b2b-opcional-fechado](https://images.ctfassets.net/alneenqid6w5/5gFb3SBRocc6Gwcm4YusAA/86d15e9f80377edc8bda880c2fda829c/b2b-opcional-fechado.png)
 
 __Formulário B2B__ opcional aberto:
 

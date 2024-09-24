@@ -38,7 +38,7 @@ Esto abrirá una ventana del navegador que solicitará sus credenciales.
 
 Cuando esté conectado, usted puede utilizar el comando `vtex whoami` para descubrir qué *cuenta* y *workspace* está utilizando actualmente.
 
-![Command Line](//images.ctfassets.net/alneenqid6w5/31AVvcWcRpL1CoKdUyARyu/9ea4d722d8955bb580a76402507e4013/Command_Line.svg)
+![Command Line](https://images.ctfassets.net/alneenqid6w5/31AVvcWcRpL1CoKdUyARyu/9ea4d722d8955bb580a76402507e4013/Command_Line.svg)
 
 >ℹ️ Sugerencia: Usted puede configurar su terminal para mostrar automáticamente su cuenta y workspace. La manera más fácil de hacer esto es usar nuestros [dotfiles](https://github.com/vtex/dotfiles), que configuran automáticamente la [Fish Shell](https://fishshell.com/) y añaden una [función de prompt](https://github.com/vtex/dotfiles/blob/master/fish/functions/fish_prompt.fish) para usted.
 

@@ -34,7 +34,7 @@ Veja abaixo algumas dicas para aproveitar ao máximo essa funcionalidade:
 
 Inicie ajustando o fuso horário e selecionando a loja que deseja monitorar na Visão geral em tempo real.
 
-![fuso-pt](//images.ctfassets.net/alneenqid6w5/7sfMnNC4GYLOU0tiiunxvR/27380d6a540c52fb03aaf6a19ccdafb4/fuso-pt.png)
+![fuso-pt](https://images.ctfassets.net/alneenqid6w5/7sfMnNC4GYLOU0tiiunxvR/27380d6a540c52fb03aaf6a19ccdafb4/fuso-pt.png)
 
 ### Filtro de referência
 

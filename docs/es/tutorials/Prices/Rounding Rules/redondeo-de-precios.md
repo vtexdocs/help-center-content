@@ -60,7 +60,7 @@ Debajo se muestran ejemplos de los flujos de inclusión, edición y exclusión d
 
 *Flujo de creación de una regla*
 
-![config-arrendodamento-ES](//images.ctfassets.net/alneenqid6w5/7wgWLaW6Dkkbzv5TwcRmkB/e03d3e914bc8d0caa79b9f01cceabf6a/config-arrendodamento-ES.gif)
+![config-arrendodamento-ES](https://images.ctfassets.net/alneenqid6w5/7wgWLaW6Dkkbzv5TwcRmkB/e03d3e914bc8d0caa79b9f01cceabf6a/config-arrendodamento-ES.gif)
 
 *Flujo de alteración de una regla*
 

@@ -18,7 +18,7 @@ subcategoryId: Se4oi5LroIII2Ei0uGAoE
 The Admin allows merchants to manage their entire digital commerce experience in one place, in a simple and smart way. 
 
 ## Homepage
-![Store Overview gif EN](//images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/27b257963a3bcd2e24374c78e8bcbc4a/Store_Overview_gif_EN.gif)
+![Store Overview gif EN](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/27b257963a3bcd2e24374c78e8bcbc4a/Store_Overview_gif_EN.gif)
 
 The Admin homepage has been redesigned to provide a high-level overview of your store, like a cockpit for your digital commerce operations, and is now called [Overview](https://help.vtex.com/en/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
 

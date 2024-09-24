@@ -17,7 +17,7 @@ subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 
 A página de **Conta** permite que você visualize e gerencie detalhes da sua conta VTEX. Para acessá-la, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e clique em **Configurações da conta** > **Conta.**
 
-![Admin v4 account settings menu PT](//images.ctfassets.net/alneenqid6w5/gMscIoImNJt51634ZQsRD/09a38ba629307a07ac8a37bb79d8c812/Admin_v4_account_settings_menu_PT.jpg)
+![Admin v4 account settings menu PT](https://images.ctfassets.net/alneenqid6w5/gMscIoImNJt51634ZQsRD/09a38ba629307a07ac8a37bb79d8c812/Admin_v4_account_settings_menu_PT.jpg)
 
 >⚠️ Esta tela não tem detalhes de chaves de aplicação. Saiba onde encontrar e gerenciar estas informações no artigo [Chaves de aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
 

@@ -31,7 +31,7 @@ Hay dos opciones de autenticación:
 - __App Google__ (clave generada por aplicación de autenticación)
 - __Mensaje SMS__ (clave enviada por mensaje de texto)
 
-![2FA - Select - ES](//images.ctfassets.net/alneenqid6w5/3WRZKKU8LuW00UkeoUoIEY/e608a2a64a982983619918e515bbdb73/2FA_-_Select_-_ES.png)
+![2FA - Select - ES](https://images.ctfassets.net/alneenqid6w5/3WRZKKU8LuW00UkeoUoIEY/e608a2a64a982983619918e515bbdb73/2FA_-_Select_-_ES.png)
 
 >⚠️ Recomendamos el uso de la [aplicación de autenticación](#habilitar-o-2fa-por-aplicativo) para que las fallas del servicio de su operador de telefonía no impidan su inicio de sesión. A través de la aplicación, la clave de acceso siempre estará disponible para que la utilice.
 

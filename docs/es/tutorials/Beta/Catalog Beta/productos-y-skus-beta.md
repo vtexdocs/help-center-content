@@ -19,7 +19,7 @@ subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 
 La página **Productos y SKUs** permite ver y gestionar toda la lista de productos registrados en la tienda, incluyendo la información de los SKU, fecha de actualización y status. Para acceder a la página, ve a **Catálogo > Productos y SKUs**. 
 
-![products-skus-es](//images.ctfassets.net/alneenqid6w5/3Euar7pKsXKgqIfz1MwOOa/1d07f47ff5411ae7b264cd9c74fbb21a/products-skus-es.png)
+![products-skus-es](https://images.ctfassets.net/alneenqid6w5/3Euar7pKsXKgqIfz1MwOOa/1d07f47ff5411ae7b264cd9c74fbb21a/products-skus-es.png)
 
 >ℹ️ Esta página solo está disponible para las tiendas que operan con el [nuevo Admin VTEX](https://help.vtex.com/es/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para acceder a esta página y formar parte de una nueva experiencia, únete al [programa Beta](https://content.vtex.com/participe-do-programa-beta-es/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta) del nuevo Admin VTEX.
 

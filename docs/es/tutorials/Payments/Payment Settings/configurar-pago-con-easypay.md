@@ -48,7 +48,7 @@ La información de configuración se divide en cuatro secciones:
 - [Personalización del checkout de easypay (opcional)](#personalizacion-del-checkout-de-easypay)
 - [Modo sandbox](#modo-sandbox)
 
-![easypay_pt_1](//images.ctfassets.net/alneenqid6w5/5SQRO4e7bYL1o8CG383UBE/03f939e9444e2655b4b9b540a4e521cc/easypay_pt_1.png)
+![easypay_pt_1](https://images.ctfassets.net/alneenqid6w5/5SQRO4e7bYL1o8CG383UBE/03f939e9444e2655b4b9b540a4e521cc/easypay_pt_1.png)
 
 >⚠️ Debes realizar la configuración en [el entorno easypay](https://backoffice.easypay.pt/). El control de estas configuraciones es responsabilidad de easypay, por lo tanto, VTEX no garantiza que los pasos a continuación estén siempre actualizados. Utiliza este documento como referencia y consulta tu cuenta en el [entorno de easypay](https://backoffice.easypay.pt/) para obtener información actualizada.
 

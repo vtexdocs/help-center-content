@@ -30,7 +30,7 @@ This guidebook will help you customize your store settings, so that it can run b
 
 When opened for the first time, the application will ask for the name of the store that will be used. Based on the table below, just type in the name of your store, and the settings will be loaded to the app.
 
-![instore-identificacao-loja](//images.contentful.com/alneenqid6w5/20IMJOo5Kc8Kw4OqicCQyc/8a76ed7d6c16d6b269518d430998ec44/instore-identificacao-loja.png)
+![instore-identificacao-loja](https://images.contentful.com/alneenqid6w5/20IMJOo5Kc8Kw4OqicCQyc/8a76ed7d6c16d6b269518d430998ec44/instore-identificacao-loja.png)
 
 ### How to register a physical store
 

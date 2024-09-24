@@ -33,7 +33,7 @@ For all the data of order variations, and also for the numbers of evolution in t
 
 >⚠️ Important: If the order comparison is done based on 0 orders in the past, the variation is 0%.
 
-![barra-status-oms en](//images.ctfassets.net/alneenqid6w5/3B36BC5ZO8q66GYEOoeOK4/051f7dea8deea96f4bdc321251cfca31/status_bar_en.png)
+![barra-status-oms en](https://images.ctfassets.net/alneenqid6w5/3B36BC5ZO8q66GYEOoeOK4/051f7dea8deea96f4bdc321251cfca31/status_bar_en.png)
 
 ### Filters
 

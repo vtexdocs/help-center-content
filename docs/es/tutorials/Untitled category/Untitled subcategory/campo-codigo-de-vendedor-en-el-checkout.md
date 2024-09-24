@@ -57,7 +57,7 @@ Después de crear la entidad *codigovendedor*, debes asociarla a una promoción.
 
 <blockquote><ui>3. En <b>¿Cuáles son las condiciones para que la promoción sea válida?</b>, haz clic en la opción <b>utm_campaign</b> e ingresa <i>codigovendedor</i> en el campo.</ui>
 
-![utm campaign codigovendedor](//images.ctfassets.net/alneenqid6w5/6jroNJYCvzunmfosErnmZF/5fac14ad4842791589bab32d955f480f/UTM_Campaign_codigovendedor.PNG)
+![utm campaign codigovendedor](https://images.ctfassets.net/alneenqid6w5/6jroNJYCvzunmfosErnmZF/5fac14ad4842791589bab32d955f480f/UTM_Campaign_codigovendedor.PNG)
 
 <blockquote><ui>4. En <b>Restricciones y limitaciones de uso</b>, agrega las demás restricciones disponibles, si así lo deseas. Selecciona la opción <b>Aplicar con otras promociones</b>.</ui>
 

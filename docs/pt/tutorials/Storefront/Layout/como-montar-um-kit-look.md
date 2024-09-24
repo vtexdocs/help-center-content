@@ -35,7 +35,7 @@ Ou seja, o Kit é um novo produto composto por outros que podem, ou não, estar 
 
 Esse termo é muito conhecido no segmento de Moda e Mobiliário. Um Kit Look é um modo que você consegue comprar vários produtos, visualizando apenas a tela de um produto.
 
-![](//images.contentful.com/alneenqid6w5/2WA6REAMecCaUiSEk2uoC6/999c983b772d8025d86f6ca2d1ebf3e4/kit-look-donadolook-exemplo.gif)
+![](https://images.contentful.com/alneenqid6w5/2WA6REAMecCaUiSEk2uoC6/999c983b772d8025d86f6ca2d1ebf3e4/kit-look-donadolook-exemplo.gif)
 
 No layout acima, é possível selecionar os itens do kit que o cliente gostaria de comprar e em seguida clicar em “Comprar Produtos Selecionados”.
 

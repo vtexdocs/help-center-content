@@ -22,7 +22,7 @@ subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 1. No aplicativo do Sales App, acesse a página principal do aplicativo. 
 2. Clique no botão <i class="fas fa-bars"></i>.
 3. Clique em **Performance de vendas**. 
-![Métricas da Loja](//images.ctfassets.net/alneenqid6w5/4DLSNWjwX0G26UoKr4K9wg/03d35f5197f748a3f9f3ca2138039c3f/vendas_totais.png)
+![Métricas da Loja](https://images.ctfassets.net/alneenqid6w5/4DLSNWjwX0G26UoKr4K9wg/03d35f5197f748a3f9f3ca2138039c3f/vendas_totais.png)
 Nessa página, você terá acesso às seguintes métricas:
 
 - **Valor total das vendas:** exibirá o valor total das vendas da loja referentes aos períodos selecionados no campo **Exibir** (azul) e do campo **Comparado a** (cinza), indicando a porcentagem de aumento ou decréscimo de venda nesta comparação.

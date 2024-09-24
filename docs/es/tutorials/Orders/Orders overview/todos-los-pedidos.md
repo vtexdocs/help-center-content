@@ -26,7 +26,7 @@ La página **Todos los pedidos** permite a los administradores de la tienda hace
 
 Las siguientes secciones proporcionan más detalles sobre cada componente de la página y sus acciones.
 
-![Order Listing EN](//images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/458efe24f7fcb7653eb23d1ea1d7110b/Order_Listing_EN.gif)
+![Order Listing EN](https://images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/458efe24f7fcb7653eb23d1ea1d7110b/Order_Listing_EN.gif)
 
 Además de buscar pedidos en **Pedidos > Todos los pedidos**, puede buscar pedidos desde cualquier página del Admin VTEX utilizando la barra de búsqueda global en la parte superior de la página. Por defecto, la búsqueda está configurada en `Páginas`. Para buscar un pedido, haga clic en la barra, seleccione la opción `Pedidos` y utilice cualquiera de los siguientes criterios:
 

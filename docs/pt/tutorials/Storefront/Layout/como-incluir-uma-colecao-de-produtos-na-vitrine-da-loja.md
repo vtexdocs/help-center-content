@@ -25,7 +25,7 @@ Realizadas as devidas definições, o vínculo da coleção com a vitrine é fei
 
 No exemplo a seguir, iremos definir a vitrine apresentada na Home, para isso, selecione **Settings**, depois **add object**, conforme na imagem a seguir.
 
-![coleção2](//images.ctfassets.net/alneenqid6w5/5JzAgUQ2NU4oIM88Kqm8AW/a4d8c175710d8542dc0099cd16c5168d/cole____o2.png)
+![coleção2](https://images.ctfassets.net/alneenqid6w5/5JzAgUQ2NU4oIM88Kqm8AW/a4d8c175710d8542dc0099cd16c5168d/cole____o2.png)
 
 Esse comando irá abrir o **Visual Controls**, ou seja, o controle correspondente à vitrine em que se deseja exibir a coleção. Adicione uma _Coleção_, porém não se esqueça de definir um nome para ela.
 

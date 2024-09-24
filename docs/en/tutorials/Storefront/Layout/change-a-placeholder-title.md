@@ -17,7 +17,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 The title of a placeholder is what appears in the right corner of the object, as the image below indicates.
 
-![cms-placeholder en](//images.ctfassets.net/alneenqid6w5/7kCsbNAZZ6kGiGe6IMGGye/02545dd609ed095ee074d85134668028/placeholder_destaque_EN.png)
+![cms-placeholder en](https://images.ctfassets.net/alneenqid6w5/7kCsbNAZZ6kGiGe6IMGGye/02545dd609ed095ee074d85134668028/placeholder_destaque_EN.png)
 
 The text that is entered in this field is what will be displayed as a placeholder title on the store's website.
 

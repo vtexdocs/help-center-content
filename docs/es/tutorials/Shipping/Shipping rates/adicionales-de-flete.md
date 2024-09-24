@@ -17,7 +17,7 @@ subcategoryId: 7uJcyu0VawEm8ggqKu404u
 
 Los adicionales de flete son importes que se añaden al costo de envío mediante las [políticas de envío](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). Así, al configurar un valor de costo para la entrega de los ítems de su tienda, puede establecer una tarifa fija e incluir valores adicionales. El costo de envío fijo más los adicionales constituyen el costo de la [tarifa de envío](https://help.vtex.com/pt/tutorial/gerenciar-valores-de-frete--tutorials_141).
 
-![Tarifa envio ES](//images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/d97d710440d9d301191074a193396a96/Tarifa_envio_ES.svg)
+![Tarifa envio ES](https://images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/d97d710440d9d301191074a193396a96/Tarifa_envio_ES.svg)
 
 Los valores adicionales pueden configurarse según:
 

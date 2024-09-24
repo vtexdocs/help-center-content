@@ -38,7 +38,7 @@ Não existem configurações prévias que devam ser realizadas antes das configu
 
 A arquitetura do Catálogo apresenta alguns conceitos fundamentais: categoria, marca, produto, SKU (_Stock Keeping Unit_) e especificação. A imagem abaixo ilustra a relação entre esses conceitos:
 
-![arquitetura-catalogo-PT](//images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/76c3c87942fb93c1022b4eacb748c6f8/PT.png)
+![arquitetura-catalogo-PT](https://images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/76c3c87942fb93c1022b4eacb748c6f8/PT.png)
 
 O catálogo da loja deve ser criado seguindo a ordem dos passos abaixo:
 

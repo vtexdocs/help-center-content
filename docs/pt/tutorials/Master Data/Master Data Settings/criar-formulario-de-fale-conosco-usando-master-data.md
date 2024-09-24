@@ -117,6 +117,6 @@ O plugin foi desenvolvido para facilitar a instalação do formulário no templa
 - jQuery
 - Bootstrap
 
-[Para maiores detalhes, acesse o exemplo em anexo](//assets.ctfassets.net/alneenqid6w5/6vHFk9dnVeUoqICKGiSqqC/70f380832091ceaae3576a82f56a87d5/contactMasterData.zip "Para maiores detalhes, acesse o exemplo em anexo").
+[Para maiores detalhes, acesse o exemplo em anexo](https://assets.ctfassets.net/alneenqid6w5/6vHFk9dnVeUoqICKGiSqqC/70f380832091ceaae3576a82f56a87d5/contactMasterData.zip "Para maiores detalhes, acesse o exemplo em anexo").
 
 **Importante**: esse plugin foi desenvolvido para auxiliar o desenvolvimento do formulário de Fale Conosco utilizando Master Data. A VTEX **NÃO** oferece suporte a essa extensão e seu código é aberto, podendo sofrer alterações e adaptações.

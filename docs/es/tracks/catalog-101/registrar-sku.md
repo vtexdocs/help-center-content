@@ -25,7 +25,7 @@ Existen dos flujos de registro de SKU por el admin: luego de registrar un produc
 ### Registrar SKU luego del registro de un producto
 
 1. En la pantalla de registro de Producto, después de rellenar los campos, haga clic en `Guardar y Crear SKU`.
-  ![1foto.es](//images.ctfassets.net/alneenqid6w5/5lYrKBh17OA6yUU5HHdZO7/cd48c8350405235a7526b16c0248083f/1foto.es.png)
+  ![1foto.es](https://images.ctfassets.net/alneenqid6w5/5lYrKBh17OA6yUU5HHdZO7/cd48c8350405235a7526b16c0248083f/1foto.es.png)
 2. Usted será redirigido a la pantalla de registro de SKU. Rellene los campos del formulario de SKU. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [cómo rellenar los campos de registro de SKU](https://help.vtex.com/es/tutorial/campos-de-registro-de-sku--21DDItuEQc6mseiW8EakcY).
 3. Haga clic en `Guardar`.
 

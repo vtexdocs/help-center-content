@@ -29,7 +29,7 @@ Esta página te permite gestionar tus vendedores a través de las siguientes acc
 * [Editar](#editar-vendedor)
 * [Eliminar](#eliminar-vendedor)
 
-![vendedores-es](//images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/7ca04713635ff6b9975ebbdddcd2ccc8/image.png)
+![vendedores-es](https://images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/7ca04713635ff6b9975ebbdddcd2ccc8/image.png)
 
 La página contiene la siguiente información:
 

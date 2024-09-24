@@ -21,7 +21,7 @@ A través de esta, será posible categorizar correctamente sus productos en Merc
 
 La asignación sólo se realizará una vez para cada categoría. De esta forma, aun habiendo hecho un mapeo, cuando nuevos productos sean creados, ellos serán integrados directamente en la categoría correcta y con sus respectivas variaciones y atributos.
 
-- [Descargue aquí](//assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx) la __Planilla de Mapeo del Mercado Libre__ en el formato `.xlsx`.
+- [Descargue aquí](https://assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx) la __Planilla de Mapeo del Mercado Libre__ en el formato `.xlsx`.
 
 La misma planilla se utilizará en las tres macroetapas siguientes (categorización, variaciones y atributos). Siga el paso a paso llenando los campos de la hoja de asignación de acuerdo con las indicaciones siguientes.
 

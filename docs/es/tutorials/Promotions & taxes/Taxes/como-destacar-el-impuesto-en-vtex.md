@@ -23,7 +23,7 @@ En este artículo vamos a mostrar como el sistema funciona para estos casos.
 
 **Escenario 1**: Mi ERP envía el precio ya con IVA a VTEX, entonces no necesito hacer el cálculo.
 
-1. Página de Categoría![CATEGORIASINIVA](//images.ctfassets.net/alneenqid6w5/5yDcEKh4VGYUuIu0W82A4o/15b1c183819fb83926b1f4dd88d9aace/1_CAT_E.png)
+1. Página de Categoría![CATEGORIASINIVA](https://images.ctfassets.net/alneenqid6w5/5yDcEKh4VGYUuIu0W82A4o/15b1c183819fb83926b1f4dd88d9aace/1_CAT_E.png)
 2. Página de Producto![PRODUCTOSINIVA](//images.ctfassets.net/alneenqid6w5/68zLscaDssq4WiAqYGkusc/1e0ec4b93ad2c7ff959094c1fef534fe/2_PROD_E.png)
 3. Carrito![CARRITOSINIVA](//images.ctfassets.net/alneenqid6w5/3khmyZuLjWycCs6eSgUmci/0f466b0981d5f982db6ee79ed9a1f2a0/3_CART_E.png)
 4. Checkout![CHECKOUTSINIVA](//images.ctfassets.net/alneenqid6w5/6CAjPrEJG0Gm2oGwoekYW4/a5281e57a934b1845357a2af9725e48c/4_CHECK_E.png)

@@ -19,7 +19,7 @@ On the [VTEX Status](https://status.vtex.com/) page, you can monitor the platfor
 
 Our team reports events whenever our automatic monitoring system identifies an instability in the platform modules. Scheduled maintenance is also reported in detail on this page.
 
-![statuspage-1](//images.ctfassets.net/alneenqid6w5/qECQAjnWxwGH47wzXDv6c/d8aea2fa393bfb699b6ea71b9b59d7a9/statuspage-1.png)
+![statuspage-1](https://images.ctfassets.net/alneenqid6w5/qECQAjnWxwGH47wzXDv6c/d8aea2fa393bfb699b6ea71b9b59d7a9/statuspage-1.png)
 
 Below, you can find details of the VTEX platform's status page elements, developed with the [incident.io](https://incident.io/) tool:
 

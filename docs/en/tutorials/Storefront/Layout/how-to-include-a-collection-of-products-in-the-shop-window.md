@@ -25,7 +25,7 @@ After the proper definitions, the collection is linked to the shop window at **S
 
 In the example below, we will define a shop window shown on the Home page. Therefore, select **Settings**, then **add object**, as in the following image.
 
-![coleção2](//images.ctfassets.net/alneenqid6w5/5JzAgUQ2NU4oIM88Kqm8AW/a4d8c175710d8542dc0099cd16c5168d/cole____o2.png)
+![coleção2](https://images.ctfassets.net/alneenqid6w5/5JzAgUQ2NU4oIM88Kqm8AW/a4d8c175710d8542dc0099cd16c5168d/cole____o2.png)
 
 This command will open the **Visual Controls**, that correspond to the showcase where you want to display the collection. Add a _Collection_, but be sure to set a name for it.
 

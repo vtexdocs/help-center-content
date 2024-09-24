@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 O controle `<vtex.cmc:fullTextSearchBox />` é responsável por gerar a caixa de busca. Além do campo de pesquisa o controle renderiza um combo para restringir uma busca em um departamento. Abaixo temos um exemplo do controle sem nenhuma aplicação de css:
 
-![Controle busca cru](//images.contentful.com/alneenqid6w5/4tvtNt1u0Mw8sgmwyAaOuW/2375499b868cfe4c24b3425fa0f33a8c/controle-busca-cru.png)
+![Controle busca cru](https://images.contentful.com/alneenqid6w5/4tvtNt1u0Mw8sgmwyAaOuW/2375499b868cfe4c24b3425fa0f33a8c/controle-busca-cru.png)
 
 A busca é uma funcionalidade que deve estar disponível em todas as páginas de uma loja e por isso é sugerido que o controle seja inserido dentro de um [subtemplate](http://help.vtex.com/pt/tutorial/subtemplates). Normalmente o controle de busca é usado dentro do subtemplate do header da loja.
 

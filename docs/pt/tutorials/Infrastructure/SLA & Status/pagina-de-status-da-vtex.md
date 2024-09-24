@@ -19,7 +19,7 @@ Na página [Status VTEX](https://status.vtex.com/), você pode acompanhar a esta
 
 Os eventos são reportados pela nossa equipe sempre que nosso sistema automático de monitoramento identifica uma instabilidade nos módulos da plataforma. As manutenções programadas também são comunicadas em detalhes.
 
-![statuspage-1](//images.ctfassets.net/alneenqid6w5/qECQAjnWxwGH47wzXDv6c/8fc52cd3637d63edbd9963962460e6dc/statuspage-1.png)
+![statuspage-1](https://images.ctfassets.net/alneenqid6w5/qECQAjnWxwGH47wzXDv6c/8fc52cd3637d63edbd9963962460e6dc/statuspage-1.png)
 
 Abaixo, você encontra detalhes sobre os elementos da página de status da plataforma VTEX, desenvolvida com a ferramenta [incident.io](https://incident.io/):
 

@@ -43,7 +43,7 @@ Para instalar o B2B Suite, siga os passos abaixo:
 2. Na página do App Store, localize o **B2B Suite** na lista de Apps exibidos ou digite **B2B Suite** na barra de busca da página.
 3. Em seguida, clique para instalar o App.
 
-![Instalação B2B Suite - PT](//images.ctfassets.net/alneenqid6w5/6FXd6YnL0yCzDalN9BlOTO/26332dc3085e6ff753cb644524a0ec61/Instala__o_B2B_Suite_-_PT.gif)
+![Instalação B2B Suite - PT](https://images.ctfassets.net/alneenqid6w5/6FXd6YnL0yCzDalN9BlOTO/26332dc3085e6ff753cb644524a0ec61/Instala__o_B2B_Suite_-_PT.gif)
 
 ## Conjunto de aplicativos do B2B Suite
 

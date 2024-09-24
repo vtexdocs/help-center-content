@@ -19,7 +19,7 @@ El [pasillo infinito](https://help.vtex.com/es/tracks/estrategias-de-comercio-un
 
 >ℹ️ Para mejorar la experiencia en situaciones en que la conexión de internet esté lenta, esta funcionalidad tiene recursos de optimización que utilizan la caché del navegador para agilizar la búsqueda.
 
-![Barra busca - ES](//images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/1ad8c720186c675630364918f1d9e0f1/Tela_1_barra_busca.gif)
+![Barra busca - ES](https://images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/1ad8c720186c675630364918f1d9e0f1/Tela_1_barra_busca.gif)
 
 La búsqueda de VTEX Sales App es unificada, lo que significa que al realizar una búsqueda los resultados se obtienen tanto del stock local (de la tienda física) como de otras tiendas físicas y centros de distribución asociados a la tienda de ecommerce.
 

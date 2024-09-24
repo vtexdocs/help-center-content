@@ -20,7 +20,7 @@ The **Lista Completa** link on the Categorias menu is frequently used in stores 
 
 Look at the following example, for "Departamento 2":
 
-![categoria.en](//images.ctfassets.net/alneenqid6w5/2GfnTZfCAPr9Baxn4dy1s/a6c97388bf36b6adc233112586d3e012/categoria.en.png)
+![categoria.en](https://images.ctfassets.net/alneenqid6w5/2GfnTZfCAPr9Baxn4dy1s/a6c97388bf36b6adc233112586d3e012/categoria.en.png)
 
 The store has preferred to show only a few of its many categories in the menu.
 

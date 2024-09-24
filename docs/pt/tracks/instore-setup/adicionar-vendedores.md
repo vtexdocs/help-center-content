@@ -18,7 +18,7 @@ Se você configurou sua loja utilizando o fluxo de __Easy Setup__ talvez já ten
 
 Ao entrar no VTable (https://{{AccountName}}.myvtex.com/admin/vtable) você verá duas aplicações, __Admin das lojas__ e __Admin dos vendedores__:
 
-![inStore aplicacoes vtable](//images.ctfassets.net/alneenqid6w5/6BRkoPO2cMOQkYkuSOeCO6/641c901771af479df13a487c123aff23/inStore_aplicacoes_vtable.png)
+![inStore aplicacoes vtable](https://images.ctfassets.net/alneenqid6w5/6BRkoPO2cMOQkYkuSOeCO6/641c901771af479df13a487c123aff23/inStore_aplicacoes_vtable.png)
 
 Clique em __Admin dos vendedores__ para abrir a tabela onde incluiremos um novo vendedor.
 

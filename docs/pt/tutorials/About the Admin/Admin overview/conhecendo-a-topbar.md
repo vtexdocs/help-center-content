@@ -19,7 +19,7 @@ A sidebar é o ponto de partida para todas as áreas do admin VTEX. Abaixo, voc�
 
 **Navegue entre os módulos**: Para isso, basta clicar sobre o simbolo da VTEX à sua esquerda. Na barra lateral que se abrirá, basta clicar sobre o nome do módulo desejado para acessá-lo.
 
-![paginainicial.pt](//images.ctfassets.net/alneenqid6w5/9od439KuVjDIGM1iFrBRc/75561521e641b3f19488b4e5e5897a9b/ppaginainicial.pt.png)
+![paginainicial.pt](https://images.ctfassets.net/alneenqid6w5/9od439KuVjDIGM1iFrBRc/75561521e641b3f19488b4e5e5897a9b/ppaginainicial.pt.png)
 
 **Navegue entre os subdomínios**: Para navegar entre os subdomínios de sua loja, basta clicar sobre o domínio atual. Você visualizará todas as opções. Para ir para o admin de um dos subdomínios, basta clicar sobre ele no menu.
 

@@ -35,7 +35,7 @@ To enable the protection, please follow the instructions below:
 4. In the upper right corner, click on the Settings icon.
 5. Under __Attack protection__, click on the button to enable it (green color indicates "enabled").
 
-![proteção-botao-configurações](//images.ctfassets.net/alneenqid6w5/1jhGP8FOgMtkEp0O8AqOnX/c36c317b8cd30966cd76901c897219f3/prote____o-botao-configura____es.png)
+![proteção-botao-configurações](https://images.ctfassets.net/alneenqid6w5/1jhGP8FOgMtkEp0O8AqOnX/c36c317b8cd30966cd76901c897219f3/prote____o-botao-configura____es.png)
 
 ![protection-option-enable1](//images.ctfassets.net/alneenqid6w5/QSVTQfbO9BDFUB33KXgj7/9ee748c43264183f31f071514862a068/protection-option-enable1.png)
 

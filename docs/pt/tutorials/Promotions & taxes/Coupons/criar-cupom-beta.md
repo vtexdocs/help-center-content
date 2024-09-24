@@ -40,7 +40,7 @@ O formulário para criar ou editar um cupom apresenta as seguintes seções:
 
 O painel superior do formulário de criação e edição de cupom, ilustrado abaixo, apresenta a quantidade de vezes em que o cupom foi utilizado e a quantidade de promoções vinculadas ao cupom.
 
-![usos-do-cupom-promocoes-vinculadas](//images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/7642e6bfa91548c82c851d849fd34a87/criar-cupom-1.png)
+![usos-do-cupom-promocoes-vinculadas](https://images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/7642e6bfa91548c82c851d849fd34a87/criar-cupom-1.png)
 
 Ao clicar em qualquer uma dessas informações no painel, você tem acesso ao modal **Ver detalhes de uso**, que apresenta os dados descritos a seguir:
 

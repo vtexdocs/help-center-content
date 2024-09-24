@@ -37,7 +37,7 @@ La mejora del sistema de suscripciones también trajo nuevas funcionalidades par
 #### Nueva página de detalles de suscripción 
 Nuestra página de detalles de suscripción fue rediseñada con el fin de mejorar la experiencia del consumidor al reducir el tiempo para encontrar información y realizar tareas.  Además, contamos con una nueva funcionalidad de agregar ítems a una suscripción existente. 
 
-![img1 subscriptions ES](//images.ctfassets.net/alneenqid6w5/YTLE4SVoIbfDCdH9BK97s/4af981552e541469c5e6e64cce65c0fe/img1_subscriptions_ES.png)
+![img1 subscriptions ES](https://images.ctfassets.net/alneenqid6w5/YTLE4SVoIbfDCdH9BK97s/4af981552e541469c5e6e64cce65c0fe/img1_subscriptions_ES.png)
 
 #### Barra de acciones
 Añadimos una barra de acciones para mejorar la comunicación con el usuario sobre lo que se necesita realizar o comunicar eventos importantes sobre su suscripción. 

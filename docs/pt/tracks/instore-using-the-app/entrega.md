@@ -18,7 +18,7 @@ Ao clicar em `Ir para a entrega`, o VTEX Sales App mostra os endereços disponí
 
 Alternativamente, o vendedor pode inserir um outro CEP no campo __Informe o CEP para ver as opções de entrega__ e, em seguida, clicar em `Confirmar`.
 
-![instore-entrega-1](//images.ctfassets.net/alneenqid6w5/6gysul2FyDXGWJRUC0nwJT/2b1d1f617824ddbac290d8ee0c98ead3/entrega-1.png)
+![instore-entrega-1](https://images.ctfassets.net/alneenqid6w5/6gysul2FyDXGWJRUC0nwJT/2b1d1f617824ddbac290d8ee0c98ead3/entrega-1.png)
 
 A tela seguinte permite definir escolhas de entrega. Como o VTEX Sales App lida com o estoque de múltiplas lojas, há diversas possibilidades de organização da entrega, dependendo de onde se encontram os produtos do carrinho.
 

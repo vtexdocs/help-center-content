@@ -19,7 +19,7 @@ Com essa integração é possível criar oportunidades via VTEX Assisted Sales (
 
 Para realizar está integração, clique na engrenagem que se encontra no canto superior direito e em seguida clique em **"Integrações"**.
 
-![RdStation CRM 1](//images.ctfassets.net/alneenqid6w5/4Wts5lWqc9NmkPrwjXSd5S/4da0068d32a5509dee6fb4ac230d74fc/Screenshot_2022-08-30_at_16-25-23_RdStation_CRM.png)  
+![RdStation CRM 1](https://images.ctfassets.net/alneenqid6w5/4Wts5lWqc9NmkPrwjXSd5S/4da0068d32a5509dee6fb4ac230d74fc/Screenshot_2022-08-30_at_16-25-23_RdStation_CRM.png)  
 
 Após clicar em integrações, localize o RD Station CRM e Clique em Habilitar.
 

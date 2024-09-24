@@ -21,7 +21,7 @@ Para realizar a integração, utilize uma das duas formas abaixo:
 
 1. No dashboard, clique em **Ver todas integrações** e em **Active Campaign**.
 
-   ![CRM Zen_1](//images.ctfassets.net/alneenqid6w5/6E4NMmioOrA8OupyVt9t8R/997fa4ac57496b21bbad96c2476b4b84/CRM_Zen_1.png)
+   ![CRM Zen_1](https://images.ctfassets.net/alneenqid6w5/6E4NMmioOrA8OupyVt9t8R/997fa4ac57496b21bbad96c2476b4b84/CRM_Zen_1.png)
 
 2. Acesse **Configurações > Integrações > Active Campaign > Integrar**.
 

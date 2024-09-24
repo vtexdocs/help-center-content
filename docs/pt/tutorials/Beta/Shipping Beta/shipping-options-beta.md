@@ -87,7 +87,7 @@ Para criar uma opção de envio, siga os passos abaixo:
     - **Frete grátis:** sem custos para o consumidor, não requer configurações adicionais.
 8. Clique no botão `Salvar`.
 
-![opcoes_envio_criacao_pt](//images.ctfassets.net/alneenqid6w5/6TOlNWWBTED41BXemhsvQE/a99720c733f07f383aa9cfcdd9a18e76/opcoes_envio_criacao_pt.png)
+![opcoes_envio_criacao_pt](https://images.ctfassets.net/alneenqid6w5/6TOlNWWBTED41BXemhsvQE/a99720c733f07f383aa9cfcdd9a18e76/opcoes_envio_criacao_pt.png)
 
 ### Editar opção de envio
 

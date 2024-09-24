@@ -27,7 +27,7 @@ Configure o [binding da loja](https://help.vtex.com/en/tutorial/what-is-cms-layo
 
 Binding é o processo utilizado para vincular o seu site a uma loja. Para mais detalhes, consulte o artigo [Vincular uma loja a uma estrutura de pastas do CMS (binding)](https://help.vtex.com/en/tutorial/vincular-um-account-name-a-um-website-binding).
 
-![CMS - Sites and channels PT](//images.ctfassets.net/alneenqid6w5/4mXskFs41ULqUjO0naKtPd/0c3d2414ac7931cc88b8e11264927765/cms-sites-and-channels-pt.png)
+![CMS - Sites and channels PT](https://images.ctfassets.net/alneenqid6w5/4mXskFs41ULqUjO0naKtPd/0c3d2414ac7931cc88b8e11264927765/cms-sites-and-channels-pt.png)
 
 ## Páginas
 Em **[Páginas](https://help.vtex.com/pt/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc)**, crie uma nova URL e vincule-a a uma template já definido no [código do tema da loja](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates).

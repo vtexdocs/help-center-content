@@ -34,7 +34,7 @@ Below are some tips to best leverage this feature:
 
 Start by setting the desired time zone and selecting the store you want to monitor in the real-time Overview.    
 
-![timezone-en](//images.ctfassets.net/alneenqid6w5/7sfMnNC4GYLOU0tiiunxvR/3693d76ead0495c35a66f8c099d60f9c/timezone-en.png)  
+![timezone-en](https://images.ctfassets.net/alneenqid6w5/7sfMnNC4GYLOU0tiiunxvR/3693d76ead0495c35a66f8c099d60f9c/timezone-en.png)  
 
 ### Reference filter  
 

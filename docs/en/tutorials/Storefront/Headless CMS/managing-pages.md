@@ -19,7 +19,7 @@ In **Headless CMS**, you can manage all the URL routes and page templates for yo
 
 ## Overview
 
-![New pages](//images.ctfassets.net/alneenqid6w5/7cftK7sS2epeqGjY6m0Cmj/7171a74a194bd96221f481de02d5599f/new_pages_-_en.png)
+![New pages](https://images.ctfassets.net/alneenqid6w5/7cftK7sS2epeqGjY6m0Cmj/7171a74a194bd96221f481de02d5599f/new_pages_-_en.png)
 
 | Option         | Description                                           |
 | -------------- | ----------------------------------------------------- |

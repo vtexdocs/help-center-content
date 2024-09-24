@@ -19,7 +19,7 @@ Los negocios digitales buscan cada vez más contar con herramientas que les perm
 
 Bienvenido a la [experiencia del nuevo Admin VTEX](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=organic&utm_campaign=new_admin_beta).
 
-![Store Overview gif ES](//images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b91a459e41bac28866c1165ca8fcc208/Store_Overview_gif_ES.gif)
+![Store Overview gif ES](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b91a459e41bac28866c1165ca8fcc208/Store_Overview_gif_ES.gif)
 
 ## ¿Qué cambió?
 

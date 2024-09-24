@@ -20,7 +20,7 @@ VTEX Sales App allows you to [enable the cart transfer functionality](https://he
 
 For the sales associate to share a cart, they can generate a numeric code or a QR Code. To do this, while on the cart screen, just click on the __Transfer__ button. See an example in the image below.
 
-![24. Enable cart transfer between devices - 3 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/2X6CjDIIvcp87PEln8076S/8e728587064d10fcd9caae506a6a963c/24._Enable_cart_transfer_between_devices_-_3_-_EN.png_h_250)
+![24. Enable cart transfer between devices - 3 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/2X6CjDIIvcp87PEln8076S/8e728587064d10fcd9caae506a6a963c/24._Enable_cart_transfer_between_devices_-_3_-_EN.png_h_250)
 
 When they click this button, the app shows a QR Code and a four-digit numeric code.
 

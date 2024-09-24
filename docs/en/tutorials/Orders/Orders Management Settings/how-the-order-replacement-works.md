@@ -61,7 +61,7 @@ Also, it's not possible to replace orders in the following statuses:
 
 With this feature, your store users get a redesigned My Orders page with change and cancellation options:
 
-![meus pedidos1 EN](//images.contentful.com/alneenqid6w5/6qCTCcaC2WSE8AgcGuI2YM/c435205525f59c10f5c04c664229044b/meus_pedidos1_EN.png)
+![meus pedidos1 EN](https://images.contentful.com/alneenqid6w5/6qCTCcaC2WSE8AgcGuI2YM/c435205525f59c10f5c04c664229044b/meus_pedidos1_EN.png)
 
 ![meus pedidos3 EN](//images.ctfassets.net/alneenqid6w5/r8wqLRzyGOEmGcMuWQYMg/3fa6aaad6bd888246457d9e96e704516/meus_pedidos3_EN.png)
 

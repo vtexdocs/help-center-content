@@ -21,7 +21,7 @@ Integrations between VTEX sellers and [native connectors](https://help.vtex.com/
 
 Orders whose price difference is greater than the values configured in the integration are not automatically sent to the OMS. This causes orders to remain on “error” status in the `Orders` section, in the *INTEGRATIONS* module of the Admin, waiting to be manually approved.
 
-![divergenciadepreçosEN-01](//images.contentful.com/alneenqid6w5/4mjfgTHC1DrhmprHMU4akp/7085908f63fefc87357e95f6bb363dd9/divergenciadepre__osEN-01.gif)
+![divergenciadepreçosEN-01](https://images.contentful.com/alneenqid6w5/4mjfgTHC1DrhmprHMU4akp/7085908f63fefc87357e95f6bb363dd9/divergenciadepre__osEN-01.gif)
 
 To send orders with price divergence to the OMS, we have created the price divergence rule (Beta). According to this rule, all orders that diverge in price are sent to the OMS and must be manually approved by the individual in charge — the person whose email address is listed under *Account management > Accounts*. You can add more than one email address.
 

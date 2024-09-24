@@ -23,7 +23,7 @@ Al acceder al Admin, es posible que tu tienda no cargue las métricas presentes 
 - **Periodo de comparación inadecuado:** es posible que el periodo seleccionado en la esquina superior derecha del dashboard no contenga suficientes datos de pedidos para realizar la comparación.
 - **Permisos de acceso limitados:** es posible que no dispongas del rol necesario para ver determinada información en el dashboard.
 
-![Visão geral - ES](//images.ctfassets.net/alneenqid6w5/29XRCPWPEnqdR79xKebzv/ab4d1113340d7b941580edc9dc7dacc5/Vis_o_geral_-_ES.png)
+![Visão geral - ES](https://images.ctfassets.net/alneenqid6w5/29XRCPWPEnqdR79xKebzv/ab4d1113340d7b941580edc9dc7dacc5/Vis_o_geral_-_ES.png)
 
 ## Solución
 Para resolver inconsistencias en el dashboard inicial del panel administrativo, prueba a realizar las acciones que se describen a continuación:

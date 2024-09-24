@@ -33,7 +33,7 @@ Para registrar las especificaciones, su tienda necesita tener departamentos, cat
  7. Rellene los campos del formulario de especificaciones. En el caso de los SKUs, el flag de campo obligatorio siempre está seleccionado por default. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [cómo rellenar los campos de especificaciones de SKU](https://help.vtex.com/es/tutorial/criando-campo-de-sku--tutorials_119)
  8.  Haga clic en **Guardar**
 
-![ES1](//images.ctfassets.net/alneenqid6w5/4cSrsR60RiWrSSllCFgbsQ/2d8e6ffab449e23f59c3521e67764568/ES1.gif)
+![ES1](https://images.ctfassets.net/alneenqid6w5/4cSrsR60RiWrSSllCFgbsQ/2d8e6ffab449e23f59c3521e67764568/ES1.gif)
 
 Para añadir valores a la especificación de SKU, siga los siguientes pasos:
 

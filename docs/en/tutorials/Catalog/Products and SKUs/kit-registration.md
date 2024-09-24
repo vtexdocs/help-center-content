@@ -26,7 +26,7 @@ A kit may or may not allow for its components to be sold separately. See the dif
 
 To set up the kit, all its products – that is, its components – must have already been created. See the example below:
 
-![01-components EN](//images.ctfassets.net/alneenqid6w5/3pQ4a93uZi8sqQA2oGywi4/4c0acd198d16920872025de5d95ed61f/01-components_EN.png)
+![01-components EN](https://images.ctfassets.net/alneenqid6w5/3pQ4a93uZi8sqQA2oGywi4/4c0acd198d16920872025de5d95ed61f/01-components_EN.png)
 
 After creating all component products, we can move on to defining the kit’s settings.
 

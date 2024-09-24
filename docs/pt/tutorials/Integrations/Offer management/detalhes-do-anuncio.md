@@ -38,7 +38,7 @@ A página **Detalhes do anúncio** apresenta as seguintes seções:
 
 ## Cabeçalho
 
-![Offer details PT cabecalho](//images.ctfassets.net/alneenqid6w5/6XRh7RmJr7rfGUfVHER580/1d3d99d4aa6204871518904c7abbef2b/Offer_details_PT_cabecalho.jpg)
+![Offer details PT cabecalho](https://images.ctfassets.net/alneenqid6w5/6XRh7RmJr7rfGUfVHER580/1d3d99d4aa6204871518904c7abbef2b/Offer_details_PT_cabecalho.jpg)
 
 O cabeçalho traz algumas informações principais do anúncio para rápida visualização, como imagem, canal nome, status, ID na VTEX e ID no canal. Permite também realizar as seguintes interações por meio do botão `Editar`:
 

@@ -87,7 +87,7 @@ Para agregar uno o más ítems al pedido, sigue estos pasos:
 2. En la sección **Facturación pendiente**, haz clic en `Modificar ítems`.
 3. En la página **Gestionar ítems del pedido**, haz clic en la flecha hacia arriba <i class="fas fa-angle-up"></i> hasta alcanzar la cantidad que desees, o ingresa el número en el campo. Después, la página mostrará el precio y la cantidad anterior tachados y aparecerá el siguiente mensaje: _"Ítem editado"_. 
 
-    ![change_order_adding_items_ES](//images.ctfassets.net/alneenqid6w5/5dqVuyGULGm5TJH2tliSoO/9ed7c426af47193fb9a731a9cfe9911e/change_order_adding_items_ES.png)
+    ![change_order_adding_items_ES](https://images.ctfassets.net/alneenqid6w5/5dqVuyGULGm5TJH2tliSoO/9ed7c426af47193fb9a731a9cfe9911e/change_order_adding_items_ES.png)
 
 4. Revisa los [detalles del valor modificado](#consultar-detalles-de-los-valores-modificados). Si es necesario, puedes [revertir una modificación](#deshacer-acciones).
 5. Haz clic en `Revisar y aplicar`.

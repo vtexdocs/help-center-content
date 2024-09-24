@@ -21,7 +21,7 @@ The Store Overview (Beta) page in your VTEX Admin provides real-time tracking of
 
 This tool is available on the homepage of the VTEX Admin. To view it, click **Dashboards > Overview** in the navigation menu, or type _Overview_ in the search bar at the top of the page.
 
-![EN visão geral beta](//images.ctfassets.net/alneenqid6w5/5C2Na8YDkwgIsMHqp28oGv/88b40023b0c9d38dae93d2ccb563e378/EN_visa__o_geral_beta.png)
+![EN visão geral beta](https://images.ctfassets.net/alneenqid6w5/5C2Na8YDkwgIsMHqp28oGv/88b40023b0c9d38dae93d2ccb563e378/EN_visa__o_geral_beta.png)
 
 In this article, we describe the main page sections and actions. You will learn more about:
 

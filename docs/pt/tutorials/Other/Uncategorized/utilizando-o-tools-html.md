@@ -20,7 +20,7 @@ Em alguns momentos o sistema pode ficar inacessível ocasionando assim algumas t
 
 Caso já tenha verificado o status e seja algo somente nesta loja voce pode seguir os passos abaixo para identificar melhor o erro e ter detalhes mais claros para acrescentar em usa comunicaáo com a VTEX .
 Por vezes poderá apresentada uma tela de erro como a mostrada abaixo:
-![IMAGEN1](//images.contentful.com/alneenqid6w5/69e3CvUZi08eyIYCcMKySu/de3d8e24d7e9da57ec26f92e7172e68d/IMAGEN1.png)
+![IMAGEN1](https://images.contentful.com/alneenqid6w5/69e3CvUZi08eyIYCcMKySu/de3d8e24d7e9da57ec26f92e7172e68d/IMAGEN1.png)
 
 Este é uma mensagem amigável  que é exibida quando o sistema não consegue responder a solicitação feita , com esta tela é quase que impossível identificar o erro logo de cara , porem temos como mostrar o que realmente esta ocorrendo por trás desta  mensagem.
 Entre na URL da loja e acrescente no final a terminação /tools.html 

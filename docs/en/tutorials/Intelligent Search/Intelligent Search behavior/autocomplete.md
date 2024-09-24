@@ -46,7 +46,7 @@ Another advantage for the store's manager is the increase in conversion due to t
 
 This section displays the most searched terms on the website by other customers.
 
-![top-busca-EN](//images.ctfassets.net/alneenqid6w5/2gToQi6Nms00oiWUKUbARZ/a935147445ee66de24f43b5c27498119/top-busca-EN.png)
+![top-busca-EN](https://images.ctfassets.net/alneenqid6w5/2gToQi6Nms00oiWUKUbARZ/a935147445ee66de24f43b5c27498119/top-busca-EN.png)
 
 ## Last searches
 

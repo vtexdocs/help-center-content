@@ -19,7 +19,7 @@ Feitas as configurações iniciais para a [integração com a Amazon](/pt/tutori
 
 O mapeamento só será feito uma vez para cada categoria. Desta forma, mesmo já tendo feito um mapeamento, quando novos produtos forem criados, eles serão integrados diretamente. Será feito um __de/para__ dos atributos cadastrados na VTEX com os atributos aceitos pela Amazon.
 
-1. Crie uma __planilha de upload__ no formato `.xlsx` e preencha o título das colunas conforme a imagem abaixo.![Modelo Atributos Amazon](//images.ctfassets.net/alneenqid6w5/1oqAPItLPaMc8gYICU6oWa/7d54955d0c179a2fbcb036e62ede9dc3/Modelo_Atributos_Amazon.png)
+1. Crie uma __planilha de upload__ no formato `.xlsx` e preencha o título das colunas conforme a imagem abaixo.![Modelo Atributos Amazon](https://images.ctfassets.net/alneenqid6w5/1oqAPItLPaMc8gYICU6oWa/7d54955d0c179a2fbcb036e62ede9dc3/Modelo_Atributos_Amazon.png)
 
 2. Preencha os campos da planilha de mapeamento de acordo com as indicações abaixo:
 

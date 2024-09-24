@@ -19,7 +19,7 @@ Following the evolution of VTEX platform, the viewpart of __My Orders__ is now a
 
 In order to perform the installation, you need to access the [VTEX App Store.](https://extensions.vtex.com/)
 
-![app store1 EN](//images.ctfassets.net/alneenqid6w5/4TNMg7DSxWco4KCyO6yaYU/941ee734d6e7a6ee93f85a6d59d8324c/app_store1_EN.png)
+![app store1 EN](https://images.ctfassets.net/alneenqid6w5/4TNMg7DSxWco4KCyO6yaYU/941ee734d6e7a6ee93f85a6d59d8324c/app_store1_EN.png)
 
 __After installing the app, you already have the following updates:__
 

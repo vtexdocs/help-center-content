@@ -17,7 +17,7 @@ subcategoryId: 14V5ezEX0cewOMg0o0cYM6
 
 Para ativar o login via Facebook, é necessário acessar **Configurações da conta > Autenticação** pelo Admin VTEX e preencher os campos **Client ID** e **Segredo do cliente**, conforme detalhado no artigo [Configurar login com Facebook e Google](https://help.vtex.com/pt/tutorial/configurar-login-com-facebook-e-google--tutorials_513).
 
-![Facebook OAuth PT](//images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/1dcbc9286c0245740194026e19ba5c9b/1-login-fb-pt.png)
+![Facebook OAuth PT](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/1dcbc9286c0245740194026e19ba5c9b/1-login-fb-pt.png)
 
 Para obter essas credenciais, siga as instruções de cada etapa abaixo:
 

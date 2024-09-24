@@ -31,7 +31,7 @@ It's important to understand these concepts because the Marketplace's order flow
 
 ## Marketplace Order Flow
 
-![screenshoot fluxo marketplace EN](//images.ctfassets.net/alneenqid6w5/6S7796dGpdWlRojJbrSgg/0ca93f3020f0393abafa75e7dd5951aa/screenshoot_fluxo_marketplace_EN.JPG)
+![screenshoot fluxo marketplace EN](https://images.ctfassets.net/alneenqid6w5/6S7796dGpdWlRojJbrSgg/0ca93f3020f0393abafa75e7dd5951aa/screenshoot_fluxo_marketplace_EN.JPG)
 
 It happens when the store acts exclusively as a Marketplace in the order. That is, when the store sells products from another store - its Seller.
 

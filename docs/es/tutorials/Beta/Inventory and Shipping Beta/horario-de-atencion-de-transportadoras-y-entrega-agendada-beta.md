@@ -20,7 +20,7 @@ El módulo *Inventario y envío* es donde usted realiza toda la gestión de la l
 Algunas secciones de la página de registro **Política de envío** cambiaron, para darle una mayor flexibilidad cuando configure su estrategia de entrega. En la anterior versión, había una sección denominada *Configuración de tiempo*, en la que era posible seleccionar *Horario de operación*, *Horario de corte* o *Entrega agendada* para cada transportadora. 
 
 __Anterior versión__
-![ES Configurações de tempo versão antiga](//images.ctfassets.net/alneenqid6w5/2n9RGrhtYEYrGsnsBN3Qlj/6afb6a15f8cc04c2167bc2a33ccf510d/ES_Configura____es_de_tempo_vers__o_antiga.jpg)
+![ES Configurações de tempo versão antiga](https://images.ctfassets.net/alneenqid6w5/2n9RGrhtYEYrGsnsBN3Qlj/6afb6a15f8cc04c2167bc2a33ccf510d/ES_Configura____es_de_tempo_vers__o_antiga.jpg)
 
 En la nueva versión:  
 - Cambiamos los nombres de las opciones para que sean más fáciles de entender.   

@@ -18,7 +18,7 @@ Com a [prateleira infinita](https://help.vtex.com/pt/tracks/estrategias-de-comer
 
 >ℹ️ Para melhorar a experiência em cenários em que a conexão com a internet esteja em baixa velocidade, esta funcionalidade conta com recursos otimizados que fazem uso do cache do navegador para otimizar a busca.
 
-![Barra busca - PT](//images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/3c7031056980ae911e2436933bee89fa/Tela_1_barra_busca.gif)
+![Barra busca - PT](https://images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/3c7031056980ae911e2436933bee89fa/Tela_1_barra_busca.gif)
 
 A busca do VTEX Sales App é unificada, o que significa que ao fazer uma busca no aplicativo a pesquisa é feita tanto no estoque local (da sua loja física) quanto no de outras lojas físicas e nos centros de distribuição associados ao ecommerce.
 

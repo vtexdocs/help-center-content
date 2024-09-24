@@ -53,7 +53,7 @@ Con esta *feature*, será posible categorizar correctamente y también crear var
 El mapeo debe realizarse siempre que un producto se envíe por primera vez a Dafiti. Esto significa que, ya habiendo hecho el mapeo una vez, los productos que ya fueron integrados no necesitará rehacer el mapeo. Y también que, los nuevos productos siempre deben hacer el mapeo.
 
 1. De acuerdo con __su país__, descargue abajo la __Planilla de Mapeo de Dafiti__ en el formato `.xlsx`.
-<br/>&bull; [Brasil](//assets.ctfassets.net/alneenqid6w5/2Vbi7VaYIowaaOYCCucsQq/fa94cd636b38e9810dd6a708c95e26ac/Planilha_de_Mapeamento_da_Dafiti.xlsx))
+<br/>&bull; [Brasil](https://assets.ctfassets.net/alneenqid6w5/2Vbi7VaYIowaaOYCCucsQq/fa94cd636b38e9810dd6a708c95e26ac/Planilha_de_Mapeamento_da_Dafiti.xlsx))
 <br/>&bull; [Colombia](//assets.ctfassets.net/alneenqid6w5/4d5y0N09IsKmy4MuAGygqs/0e43349d309fb556179dfac5f2f6c885/Planilha_de_Mapeamento_da_Dafiti_COL.xlsx)
 
 2. De acuerdo con __su país__, descargue abajo la __Planilla de Consulta de Dafiti__ para verificar los valores aceptados de acuerdo con cada columna de la Planilla de Mapeo del paso anterior. Esta hoja de trabajo se utilizará exclusivamente como __consulta__.

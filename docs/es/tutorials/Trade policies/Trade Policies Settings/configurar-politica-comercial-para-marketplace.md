@@ -39,7 +39,7 @@ La creación de una nueva política comercial es el primer paso para definir las
 
 Esta configuración se realiza en el módulo «Configuración de la tienda», en la página «Políticas comerciales». Debe crear [una nueva política comercial](https://help.vtex.com/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) cuando la configuración de catálogo, precios, promociones, logística y pagos sean diferentes entre los *marketplaces* en que los *sellers* venden sus productos. 
 
-![ES Add Politica comercial](//images.ctfassets.net/alneenqid6w5/7sIaT2Sf52QFfZ5qOfESLa/e6ae3d0e4f32b580ebda4800b173e981/ES_Add_Politica_comercial.jpg)
+![ES Add Politica comercial](https://images.ctfassets.net/alneenqid6w5/7sIaT2Sf52QFfZ5qOfESLa/e6ae3d0e4f32b580ebda4800b173e981/ES_Add_Politica_comercial.jpg)
 
 ## Gestión de pedidos
 Después de crear una política comercial, debe asociarla a cada *marketplace* en que el *seller* venda productos al registrar [afiliados](https://help.vtex.com/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). Así es como los *sellers* identifican la política comercial que opera en cada *marketplace*. Si su tienda vende productos en tres *marketplaces* diferentes, deberá crear tres afiliados, cada uno de los cuales representará un *marketplace*. 

@@ -27,7 +27,7 @@ This article will explain how to associate the Device Fingerprint feature with t
 
 1. Login on http://www.google.com/tagmanager/ for the stored to be set up;
 2. Enter the tags section to set up the device session id;
-3. Crete an “HTML Personalized” product with the following image:![payU 1](//images.contentful.com/alneenqid6w5/8Kc8zBKQFOmwK6G8ekgMa/2a26fa73a709b116cfdf899d4aee7a23/payU_1.png)
+3. Crete an “HTML Personalized” product with the following image:![payU 1](https://images.contentful.com/alneenqid6w5/8Kc8zBKQFOmwK6G8ekgMa/2a26fa73a709b116cfdf899d4aee7a23/payU_1.png)
 4. In the HTML field of the setup, find the HTML code that calls the code to send information to PayU:
 
 ```

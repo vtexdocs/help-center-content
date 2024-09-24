@@ -19,7 +19,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 La aplicación móvil de [VTEX Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) ayuda al alistador (profesional responsable de seleccionar y empacar los ítems en la instalación) en la preparación de los pedidos, desde el alistamiento de los ítems hasta el envío. Esto hace que el flujo de alistamiento y envío de los pedidos de la tienda sea más organizado y fluido.
 
-![pickpack-mobile-es](//images.ctfassets.net/alneenqid6w5/4VZJd6qfgBB45lcqptQ5L9/b4c69a98c2576d0f90e9b676d41b7ac6/image.png)
+![pickpack-mobile-es](https://images.ctfassets.net/alneenqid6w5/4VZJd6qfgBB45lcqptQ5L9/b4c69a98c2576d0f90e9b676d41b7ac6/image.png)
 
 La preparación de pedidos se divide en cuatro etapas, que siguen el flujo habitual de los pedidos en la tienda:
 

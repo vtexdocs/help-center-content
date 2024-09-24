@@ -23,7 +23,7 @@ Estudos comprovam que o remarketing é 7x mais barato do que impulsionar um anú
 
 Para começar acesse o painel da Suiteshare, escolha a opção \\"_**Atrair > Remarketing\\".**_
 
-![Remarketing 1](//images.ctfassets.net/alneenqid6w5/66Ky5eCdV4c52T5Dt9dLos/e73774f335c569358e12c9d3c0e86fee/Screenshot_2022-08-30_at_11-24-18_Remarketing.png)
+![Remarketing 1](https://images.ctfassets.net/alneenqid6w5/66Ky5eCdV4c52T5Dt9dLos/e73774f335c569358e12c9d3c0e86fee/Screenshot_2022-08-30_at_11-24-18_Remarketing.png)
 
 Na nova página, clique no botão _**“Novo”**_
 

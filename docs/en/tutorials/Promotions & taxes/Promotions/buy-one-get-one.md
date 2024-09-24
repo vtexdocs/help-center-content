@@ -52,7 +52,7 @@ In this section, we provide information on the promotion overview.
 - **Additional information (optional):** Allows you to add name and value details to the promotion.
 - **Promotion is highlighted:** Adds a tag with the promotion name,  which is displayed in the window display and on the product page. This tag will only be added if you use the right promotion display control in the template. `<vtex.cmc:discountHightLight>`.
 
-![Promotion Overview](//images.ctfassets.net/alneenqid6w5/4s7Zxlvv0aIThx2WW2JMO3/fb5019d7359026929f45631e94e2f454/Promotion_Overview.png)
+![Promotion Overview](https://images.ctfassets.net/alneenqid6w5/4s7Zxlvv0aIThx2WW2JMO3/fb5019d7359026929f45631e94e2f454/Promotion_Overview.png)
 
 ## Restrict this promotion to seller products
 

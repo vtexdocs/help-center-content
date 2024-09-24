@@ -21,7 +21,7 @@ A mensagem "__Request headers must contain only ASCII characters__" pode ser exi
 
 Este cenário ocorre se a página ou funcionalidade solicitada contém um cookie com caracteres especiais (não-ASCII).
 
-![ascii_1](//images.ctfassets.net/alneenqid6w5/geQO7G0cIDk7FmSjC9ZmQ/1001eedf70586fcfeaf7847eb641ee5a/ascii_1.png)
+![ascii_1](https://images.ctfassets.net/alneenqid6w5/geQO7G0cIDk7FmSjC9ZmQ/1001eedf70586fcfeaf7847eb641ee5a/ascii_1.png)
 
 Segundo as normas do [IETF](https://www.ietf.org/) (Internet Engineering Task Force), instituição responsável por documentar os padrões utilizados na internet, cookies não devem conter caracteres especiais (não-ASCII). Para mais informações sobre os caracteres aceitos em cookies e headers, acesse [IETF - Request for Comments 7230 - Section 3.2.6 - Field Value Components](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2.6). 
 

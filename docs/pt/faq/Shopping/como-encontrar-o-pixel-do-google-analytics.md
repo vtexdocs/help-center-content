@@ -16,7 +16,7 @@ legacySlug: como-encontrar-o-pixel-do-google-analytics
 
 Para encontrar o ID de acompanhamento faça login na sua conta do [Analytics](https://analytics.google.com/analytics/web/#/).
 
-![GoogleAnalyticsLogo](//images.ctfassets.net/alneenqid6w5/1ahGCXWIcYa4uTIo9RCtLO/bc57ebf9e9eed16c22431dc6b06939d0/GoogleAnalyticsLogo.png)
+![GoogleAnalyticsLogo](https://images.ctfassets.net/alneenqid6w5/1ahGCXWIcYa4uTIo9RCtLO/bc57ebf9e9eed16c22431dc6b06939d0/GoogleAnalyticsLogo.png)
 
 Clique em **Administrador**. 
 

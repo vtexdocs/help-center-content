@@ -17,7 +17,7 @@ subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 
 Tal como se muestra a continuación, podrás ver la lista de audiencias de campañas registradas en tu tienda desde la página *Promociones > Audiencia de campañas* del Admin VTEX.
 
-![lista-audiencias-campanha-es](//images.ctfassets.net/alneenqid6w5/3OyfWyVN0MMA5qpgjxtGyM/e4d2a074233382a8563b46391f15f446/lista-audiencias-campanha-es.png)
+![lista-audiencias-campanha-es](https://images.ctfassets.net/alneenqid6w5/3OyfWyVN0MMA5qpgjxtGyM/e4d2a074233382a8563b46391f15f446/lista-audiencias-campanha-es.png)
 
 Desde esta página, puedes realizar las acciones a continuación:
 

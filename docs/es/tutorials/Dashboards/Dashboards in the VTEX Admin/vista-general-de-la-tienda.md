@@ -17,7 +17,7 @@ subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
 
 En la página de Vista general del Admin VTEX los propietarios de las tiendas pueden obtener una rápida visión general de las métricas clave que afectan a sus ingresos. A través de este panel, puedes seguir la evolución de tus ventas mediante el análisis de tendencia de pedidos, la tasa de conversión y los gráficos de embudo de ventas. Puedes acceder a esta herramienta en el Admin VTEX, haciendo clic en **Dashboards > Vista general** en el menú de navegación, o escribe *Vista general* en la barra de búsqueda en la parte superior de la página.
 
-![Store Overview gif ES](//images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b91a459e41bac28866c1165ca8fcc208/Store_Overview_gif_ES.gif)
+![Store Overview gif ES](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b91a459e41bac28866c1165ca8fcc208/Store_Overview_gif_ES.gif)
 
 La página Vista General proporciona un resumen de su negocio con VTEX. Para un análisis más profundo de las métricas de su tienda, visite [Desenpeño de ventas](https://help.vtex.com/es/v4/docs/performance-de-vendas--6gx46RGRzWO8qgaVck7PRp).
 

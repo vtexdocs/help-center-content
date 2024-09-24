@@ -85,7 +85,7 @@ La selección de productos vía Admin VTEX se puede realizar a través de la lis
 
 Hay una variedad de filtros que se pueden seleccionar para reducir la cantidad de productos que se muestran en la lista. 
 
-![Colecciones - ES](//images.ctfassets.net/alneenqid6w5/3FPMxYUHhfXCFgdJ1YaWBA/01b312b5cec4047135e06017b227eec3/Colecciones_-_ES.PNG)
+![Colecciones - ES](https://images.ctfassets.net/alneenqid6w5/3FPMxYUHhfXCFgdJ1YaWBA/01b312b5cec4047135e06017b227eec3/Colecciones_-_ES.PNG)
 
 Usted puede crear nuevos filtros a partir de otros criterios que no se incluyen en los filtros predeterminados. Las siguientes imágenes muestran algunas opciones:
 

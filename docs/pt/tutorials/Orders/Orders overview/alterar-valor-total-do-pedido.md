@@ -26,7 +26,7 @@ Para fazer a alteração, siga os passos abaixo:
 3. Clique no pedido para acessar a página de **Detalhes do pedido**.   
 4. Vá à seção **Valor total do pedido**, localizada no lado direito da página Detalhes do pedido.
 5. Clique em `Alterar valor final`. A página **Alterar valor** ficará disponível
-![valorfinal](//images.ctfassets.net/alneenqid6w5/5VwpodKoIiDSWBwYQs2rDc/9165c911db34e8067f90734077f67080/valorfinal__2_.png)
+![valorfinal](https://images.ctfassets.net/alneenqid6w5/5VwpodKoIiDSWBwYQs2rDc/9165c911db34e8067f90734077f67080/valorfinal__2_.png)
 6. Preencha os campos obrigatórios: 
     *  **Valor:** Selecione entre Desconto e Aumento, e insira o valor correspondente ao que deseja alterar.  
     * **Motivo:** escreva as razões para a mudança.  

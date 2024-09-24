@@ -30,7 +30,7 @@ Existem duas possibilidades de troca de seller:
 
 | **Ativo** | **Desativo** |
 |----|
-| ![Recusar](//images.ctfassets.net/alneenqid6w5/3ko5d7jnhUZh4HDxx3hr6d/3acaa50706a0938f0cbd30446cfebff1/Recusar.png) | ![Cancelar](//images.ctfassets.net/alneenqid6w5/2ZS1DTLiKFlHJYBVyuYMhQ/4f13f9c482acaa7e7baddb7b4c0070eb/Cancelar.png) |
+| ![Recusar](https://images.ctfassets.net/alneenqid6w5/3ko5d7jnhUZh4HDxx3hr6d/3acaa50706a0938f0cbd30446cfebff1/Recusar.png) | ![Cancelar](//images.ctfassets.net/alneenqid6w5/2ZS1DTLiKFlHJYBVyuYMhQ/4f13f9c482acaa7e7baddb7b4c0070eb/Cancelar.png) |
 
 ## Troca automática de seller
 

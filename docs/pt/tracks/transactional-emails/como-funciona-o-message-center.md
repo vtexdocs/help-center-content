@@ -43,7 +43,7 @@ Ao entrar no Message Center e clicar em __Templates__, você encontra a lista de
 
 Vamos entender as informações presentes nesses cards.
 
-![Emails 1 1](//images.ctfassets.net/alneenqid6w5/2cuPA5D3ICgDt8TqlGY9fO/5dd2b918489d7a5fdaa9752f8518ecdd/Emails_1_1.png)
+![Emails 1 1](https://images.ctfassets.net/alneenqid6w5/2cuPA5D3ICgDt8TqlGY9fO/5dd2b918489d7a5fdaa9752f8518ecdd/Emails_1_1.png)
 
 - Nome do template para identificação interna. Este *não* é o assunto do e-mail.
 - Aplicação ou módulo ao qual o template pertence, sinalizado em verde.

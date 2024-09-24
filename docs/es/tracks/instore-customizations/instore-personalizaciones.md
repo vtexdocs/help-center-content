@@ -34,7 +34,7 @@ Alternativamente, puede buscar el archivo de configuración desde la página de 
 
 En el menú principal, haga clic en __Checkout__ y luego haga clic en el símbolo de engranaje de la tienda, como se muestra en la imagen a continuación.
 
-![20. inStore Customizations - 1 - ES.png?h=250](//images.ctfassets.net/alneenqid6w5/4EDg8NKDGXRYEG6C8t6TjM/5e7c8c88e79ad04b7c6b0a31795a0b20/20._inStore_Customizations_-_1_-_ES.png_h_250)
+![20. inStore Customizations - 1 - ES.png?h=250](https://images.ctfassets.net/alneenqid6w5/4EDg8NKDGXRYEG6C8t6TjM/5e7c8c88e79ad04b7c6b0a31795a0b20/20._inStore_Customizations_-_1_-_ES.png_h_250)
 
 Haga clic en la pestaña __Código__ y luego en el archivo `checkout-instore-custom.js`, que se encuentra en la lista de archivos a la derecha.
 

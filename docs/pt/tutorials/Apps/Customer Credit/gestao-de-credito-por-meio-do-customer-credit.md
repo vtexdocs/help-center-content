@@ -69,7 +69,7 @@ Para um número reduzido de cadastros, o cliente pode criar as contas uma a uma 
 - E-mail
 - Limite de crédito
 
-![CustomerCredit1](//images.ctfassets.net/alneenqid6w5/4qFEtQ96Ylr6isBrULX16Z/30921e212931852bc69c66e6d2cef62c/CustomerCredit1.png)
+![CustomerCredit1](https://images.ctfassets.net/alneenqid6w5/4qFEtQ96Ylr6isBrULX16Z/30921e212931852bc69c66e6d2cef62c/CustomerCredit1.png)
 
 Se, por outro lado, a base tem um número grande de contas, o mais indicado é importar uma planilha em formato CSV. Você pode baixar um modelo desse documento na seção Contas e preenchê-lo com as informações necessárias. Para isso, clique no botão __Importar__.
 

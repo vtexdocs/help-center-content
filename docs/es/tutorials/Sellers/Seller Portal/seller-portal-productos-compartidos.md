@@ -29,7 +29,7 @@ Para acceder a la funcionalidad «Productos compartidos», acceda a la pestaña 
 
 ## Importados
 
-![Shared products Importados EN](//images.ctfassets.net/alneenqid6w5/2mmTwK1Kn3g8TPOICMMMk8/cde09ee87d8f119009fbc0b8cb8c5fef/Shared_products_Importados_ES.jpg)
+![Shared products Importados EN](https://images.ctfassets.net/alneenqid6w5/2mmTwK1Kn3g8TPOICMMMk8/cde09ee87d8f119009fbc0b8cb8c5fef/Shared_products_Importados_ES.jpg)
 
 La pestaña «Importados» reúne los productos del catálogo del marketplace que ya han sido importados por el seller, es decir, que ya pueden convertirse en anuncios. La lista contiene una barra de búsqueda que permite buscar productos por nombre o SKU. А través de esta pestaña se activan los productos.  
 

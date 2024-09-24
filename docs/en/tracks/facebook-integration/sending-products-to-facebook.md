@@ -46,7 +46,7 @@ If you would like to send your product attributes to Facebook, please follow the
 
 Spreadsheet mapping allows you to match the attributes of your products on the VTEX platform with the standards used by Facebook.
 
-The first step in mapping is to download the file [Facebook Mapping Spreadsheet.xlsx](//assets.ctfassets.net/alneenqid6w5/52pBgj6plpcSAp1X2DqgJ9/88d38c6356792b529eb6121a307bebbf/Planilha_de_Mapeamento_Facebook.xlsx).
+The first step in mapping is to download the file [Facebook Mapping Spreadsheet.xlsx](https://assets.ctfassets.net/alneenqid6w5/52pBgj6plpcSAp1X2DqgJ9/88d38c6356792b529eb6121a307bebbf/Planilha_de_Mapeamento_Facebook.xlsx).
 
 ### Filling in the mapping spreadsheet
 

@@ -16,7 +16,7 @@ trackSlugES: instore-setup
 
 En inStore es posible ver el listado de todos los pedidos finalizados en una tienda:
 
-![pedidos finalizados](//images.ctfassets.net/alneenqid6w5/2bBNpiFuswIAqsc2EGuAMe/ee70cebba8bef3fe609f31dd5a7d905c/pedidos_finalizados.png)
+![pedidos finalizados](https://images.ctfassets.net/alneenqid6w5/2bBNpiFuswIAqsc2EGuAMe/ee70cebba8bef3fe609f31dd5a7d905c/pedidos_finalizados.png)
 
 Sin embargo, a veces tiene sentido que un vendedor vea sólo los pedidos finalizados por él. Para habilitar esta opción es necesario editar el archivo `checkout-instore-custom.js` presente en el Admin del Portal. Por tratarse de un JavaScript presente en diversos flujos de uso de la aplicación, es importante que usted tenga conocimientos de programación antes de cambiarlo, para evitar la ruptura de otras funcionalidades.
 

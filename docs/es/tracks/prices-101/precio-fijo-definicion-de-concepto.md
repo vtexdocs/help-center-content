@@ -72,7 +72,7 @@ Digamos que se registren dos precios fijos para el mismo SKU. Además, ambos tie
 
 Por ejemplo: el primer precio fijo es __$ 50.00__ y ​​su programación va de __10h a 16h__. Ya el segundo es __$ 25.00__, solo que está programado de __12h a 20h del mismo día__. En este caso, *entre las 12h y las 16h*, los dos precios fijos compiten entre sí. Por lo tanto, el valor de __$ 25.00__ será el precio de venta del SKU en este horario en común.
 
-![fixed price - example2](//images.ctfassets.net/alneenqid6w5/1GR4ZZSlxREEGHno3VXorQ/b014a5ed36bf608e9f582775ca06e507/fixed_price_-_example2.svg)
+![fixed price - example2](https://images.ctfassets.net/alneenqid6w5/1GR4ZZSlxREEGHno3VXorQ/b014a5ed36bf608e9f582775ca06e507/fixed_price_-_example2.svg)
 
 ### Competencia por el Criterio de Ítems Mínimos en el Carrito 
 

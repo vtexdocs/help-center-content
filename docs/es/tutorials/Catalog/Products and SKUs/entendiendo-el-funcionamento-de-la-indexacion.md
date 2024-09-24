@@ -31,7 +31,7 @@ Cada vez que se modifican los datos del listado de productos como se muestra a c
 
 Una vez que el producto esté marcado para reindexar, éste queda con el texto _indexação pendente_ en el listado de productos del admin. El indexador toma esos productos y los coloca en una fila, con un tiempo de espera de 2 minutos, para que sean procesados. Pasados los 2 minutos el producto queda disponible para el consumo de la indexación. En ese proceso, todos los módulos de VTEX son consultados, actualizando precio y disponibilidad para cada política comercial. El tempo medio hasta finalizar este proceso es de 4 minutos.
 
-![diagramaespanhol](//images.ctfassets.net/alneenqid6w5/SR9YuOnYK2Ku0CW2K2iEO/26f0b18db9ec54d5055cc377d911c2b0/diagramaespanhol.png)
+![diagramaespanhol](https://images.ctfassets.net/alneenqid6w5/SR9YuOnYK2Ku0CW2K2iEO/26f0b18db9ec54d5055cc377d911c2b0/diagramaespanhol.png)
 
 ## Informe de Indexación
 

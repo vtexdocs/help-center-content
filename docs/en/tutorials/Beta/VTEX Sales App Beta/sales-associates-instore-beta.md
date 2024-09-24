@@ -27,7 +27,7 @@ This page allows you to manage your sellers from the following actions:
 * [Edit](#editing-sales-associate-information)
 * [Delete](#deleting-a-sales-associate)
 
-![vendedores-en](//images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/da3c90c0dfb50c0b5c40b9743b421c8b/image.png)
+![vendedores-en](https://images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/da3c90c0dfb50c0b5c40b9743b421c8b/image.png)
 
 The page displays the following information: 
 

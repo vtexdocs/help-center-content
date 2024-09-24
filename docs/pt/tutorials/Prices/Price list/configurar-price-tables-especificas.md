@@ -74,7 +74,7 @@ No menu principal do Admin, acesse __Preços__ e escolha a opção __Lista de pr
 
 No filtro da busca, insira os nomes das tabelas criadas no __Master Data__.
 
-![Filtros](//images.ctfassets.net/alneenqid6w5/4sQMk2XLRyoQvFLNrGI0A7/623539da9a99dcfae6b6bf2a8ce1e6b0/Filtros_-_PT.png)
+![Filtros](https://images.ctfassets.net/alneenqid6w5/4sQMk2XLRyoQvFLNrGI0A7/623539da9a99dcfae6b6bf2a8ce1e6b0/Filtros_-_PT.png)
 
 As tabelas de preço são mostradas como colunas da lista de preços, assim como as políticas comerciais.
 

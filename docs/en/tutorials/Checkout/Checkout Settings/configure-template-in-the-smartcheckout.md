@@ -32,7 +32,7 @@ Now fill out the following fields according to the instructions:
 
 See picture below:
 
-![en.smartcheckout1](//images.ctfassets.net/alneenqid6w5/3AYhqb6FiwUChorOlxafDS/4d675c4f1310ba14a041f36ee49911ee/en.smartcheckout1.png) ![en.smartcheckout2](//images.ctfassets.net/alneenqid6w5/rm9LNEvgCOJvKAWpGf5XI/f520942d072cd958262f4c9961e7d9d7/en.smartcheckout2.png)
+![en.smartcheckout1](https://images.ctfassets.net/alneenqid6w5/3AYhqb6FiwUChorOlxafDS/4d675c4f1310ba14a041f36ee49911ee/en.smartcheckout1.png) ![en.smartcheckout2](//images.ctfassets.net/alneenqid6w5/rm9LNEvgCOJvKAWpGf5XI/f520942d072cd958262f4c9961e7d9d7/en.smartcheckout2.png)
 
 Click on Save to conclude the registration of the new site.
 

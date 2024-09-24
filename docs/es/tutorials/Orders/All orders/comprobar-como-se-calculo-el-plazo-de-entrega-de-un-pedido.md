@@ -23,7 +23,7 @@ Digamos que usted desea saber cuáles fueron los criterios que la plataforma uti
 
 En primer lugar, vamos a acceder a la página Todos los Pedidos para ver el pedido.
 
-![1](//images.ctfassets.net/alneenqid6w5/xkTs21R8sUe67U2UynJDC/047786ceb646c4545fd1bada4dec38a0/1.png)
+![1](https://images.ctfassets.net/alneenqid6w5/xkTs21R8sUe67U2UynJDC/047786ceb646c4545fd1bada4dec38a0/1.png)
 > En la esquina superior derecha, está la __fecha en la que se realizó el pedido__ (06 MAYO).
 > Y en el inferior, se puede ver el __plazo de entrega del pedido__ (22 MAYO).
 

@@ -40,7 +40,7 @@ No carrinho, você pode passar o mouse sobre o ícone de interrogação que fica
 
 Porém, caso mais de uma promoção seja aplicada, o que aparecerá será apenas o somatório dos descontos, dificultando a análise do cenário.
 
-![example-cart](//images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/58e4571f3ce7b0af86ecf17885799258/image6.png)
+![example-cart](https://images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/58e4571f3ce7b0af86ecf17885799258/image6.png)
 
 ## orderForm
 

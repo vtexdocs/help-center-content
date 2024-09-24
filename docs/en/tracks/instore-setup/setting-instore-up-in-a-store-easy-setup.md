@@ -26,7 +26,7 @@ You can find download links at: [http://instore.vtex.com/#download](http://insto
 
 When opening inStore for the first time, you will need to enter the VTEX account where you want to configure it and click on __Confirm__.
 
-![01 inStore selecione conta](//images.ctfassets.net/alneenqid6w5/4XB9P7AD4ICSyWqCo0MmKA/b654a9607224ee02376f65485edbbf45/01_inStore_selecione_conta.png)
+![01 inStore selecione conta](https://images.ctfassets.net/alneenqid6w5/4XB9P7AD4ICSyWqCo0MmKA/b654a9607224ee02376f65485edbbf45/01_inStore_selecione_conta.png)
 
 If inStore is not configured on this account, you will be redirected to the VTEX App Store where you will need to log in with your admin account in VTEX.
 

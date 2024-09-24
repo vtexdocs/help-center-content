@@ -19,7 +19,7 @@ Al crear una [promoción regular](https://help.vtex.com/es/tutorial/registro-pro
 
 Al seleccionar este tipo de descuento, deberás crear una fórmula para definir cuál será el cálculo del descuento que se aplicará. En este artículo, explicaremos cómo crear una fórmula que cumpla con los objetivos de tu promoción.
 
-![tipo-descuento-formula](//images.ctfassets.net/alneenqid6w5/5NTM35GkPQtUzA6CKDco9q/cb74d4e22b46f159aee6f51a09fe4646/desc-es.PNG)
+![tipo-descuento-formula](https://images.ctfassets.net/alneenqid6w5/5NTM35GkPQtUzA6CKDco9q/cb74d4e22b46f159aee6f51a09fe4646/desc-es.PNG)
 
 En general, la fórmula para calcular el descuento nominal de la promoción sigue la misma lógica que las [fórmulas de Microsoft Excel](https://support.microsoft.com/pt-br/office/f%C3%B3rmulas-e-fun%C3%A7%C3%B5es-294d9486-b332-48ed-b489-abe7d0f9eda9), es decir que puedes usar [variables](#variables) (`total`, ` freight` y `quantity`), hacer [operaciones](#operaciones) (suma, resta, multiplicación y división) y aplicar [funciones](#funciones) (`min` y `max`).
 

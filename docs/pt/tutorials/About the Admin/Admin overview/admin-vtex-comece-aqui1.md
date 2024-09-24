@@ -19,7 +19,7 @@ O Admin permite que os comerciantes gerenciem toda sua experiência de comércio
 
 ## Página inicial
 
-![Store overview gif PT](//images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b9a4a299f80286eadf1727cd5057a64c/Store_overview_gif_PT.gif)
+![Store overview gif PT](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b9a4a299f80286eadf1727cd5057a64c/Store_overview_gif_PT.gif)
 
 A página inicial do nosso Admin foi redesenhada para oferecer uma visão geral de alto nível da sua loja, como uma cabine de comando para as suas operações de comércio digital. Por isso, ela se chama [Visão Geral](https://help.vtex.com/pt/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
 

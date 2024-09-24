@@ -19,7 +19,7 @@ This article will help you complement your URL mapping. If your store did not se
 
 Access your Google Web Master Tools account. On this screen, you will already be able to check the numbers of pages that contain errors.
 
-![locateURL1](//images.contentful.com/alneenqid6w5/qEYJuUx2hweIuuMCsQWmE/4667542aeafdfd92daecce10dd7853a6/locateURL1.jpg)
+![locateURL1](https://images.contentful.com/alneenqid6w5/qEYJuUx2hweIuuMCsQWmE/4667542aeafdfd92daecce10dd7853a6/locateURL1.jpg)
 
 Click on **Tracking** and then on **Tracking Errors** as shown below:
 

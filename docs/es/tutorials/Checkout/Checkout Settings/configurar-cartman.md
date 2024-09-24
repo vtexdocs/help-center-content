@@ -42,7 +42,7 @@ Para activar Cartman manualmente, siga los pasos a continuación:
 
 1. Acceda a cualquier página de Checkout de su tienda (`https://{accountname}.myvtex.com/checkout/`).
 2. Inserte la query string `?cartman=on` al final de la URL (`https://accountname.myvtex.com/checkout?cartman=on`).
-3. En la esquina inferior derecha de la pantalla, haga clic en el botón <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> para acceder a Cartman.
+3. En la esquina inferior derecha de la pantalla, haga clic en el botón <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> para acceder a Cartman.
 
 ## Funciones Cartman
 
@@ -56,7 +56,7 @@ Para más información sobre esta herramienta, consulta el artículo [Simulador 
 
 Accediendo al **Ver detalles del carrito**, es posible consultar la información específica de cada uno de los productos seleccionados en el carrito.
 
-![Detalles del ítem](//images.ctfassets.net/alneenqid6w5/1EH9jYZZwOSTcCDKqoQocj/a643ad49b22b39430ab5b671288c4f7f/Detalles_del___tem.PNG)
+![Detalles del ítem](https://images.ctfassets.net/alneenqid6w5/1EH9jYZZwOSTcCDKqoQocj/a643ad49b22b39430ab5b671288c4f7f/Detalles_del___tem.PNG)
 
 ### Agregar ítems específicos al carrito
 
@@ -101,7 +101,7 @@ Para obtener más información sobre UTMs y UTMIs, vaya a [Qué son utm_source, 
 Cartman se puede desactivar en cualquier momento según lo requiera el lojista. Para deshabilitarlo, siga los pasos a continuación:
 
 1. Acceda a cualquier página de Checkout de su tienda   (`https://{accountname}.myvtex.com/checkout/`).
-2. En la esquina inferior derecha de la pantalla, haga clic en el botón <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
+2. En la esquina inferior derecha de la pantalla, haga clic en el botón <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
 3. En la parte inferior del menú de Cartman, haz clic en `Deshabilitar Cartman`.
 
 >ℹ️ Si desea reactivar **Cartman**, vuelva a agregar la query string `?cartman=on` en una de las páginas de pago de su tienda. De esta forma, el icono azul volverá a estar disponible en la esquina inferior derecha de la página.

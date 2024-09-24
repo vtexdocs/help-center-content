@@ -41,7 +41,7 @@ These controls, unlike the others, will only work if specifically configured, as
 
 In registering the Category, there is the option to configure the Rating feature, and this is normally done in the root category:
 
-![avaliação-categoria EN](//images.ctfassets.net/alneenqid6w5/QRc6IqC0gMkGMGyuces2S/91d41a3275a79250d08d375ba86add28/avalia____o_en.png)
+![avaliação-categoria EN](https://images.ctfassets.net/alneenqid6w5/QRc6IqC0gMkGMGyuces2S/91d41a3275a79250d08d375ba86add28/avalia____o_en.png)
 
 Click on **new rating** and fill in the Name and Text fields, then save.
 

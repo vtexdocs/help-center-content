@@ -26,7 +26,7 @@ This page allows you to:
 - [Filter orders](#filtering-orders)
 - [Export orders](#exporting-orders)
 
-![pick-and-pack-pedidos-EN](//images.ctfassets.net/alneenqid6w5/7oIngXdaDwQP0CQSHlQaPO/3ffa21f585d6c45e374ac2fb9c42f8aa/image.png)
+![pick-and-pack-pedidos-EN](https://images.ctfassets.net/alneenqid6w5/7oIngXdaDwQP0CQSHlQaPO/3ffa21f585d6c45e374ac2fb9c42f8aa/image.png)
 
 The page displays the following information in a table:
 

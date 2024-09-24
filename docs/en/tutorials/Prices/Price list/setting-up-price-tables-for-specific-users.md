@@ -74,7 +74,7 @@ In the Admin, go to __Prices__ > __Price List__.
 
 In the search filter, enter the names of the tables created in __Master Data__.
 
-![Filtros](//images.ctfassets.net/alneenqid6w5/4sQMk2XLRyoQvFLNrGI0A7/e57ad4523d95718b3152713093f9dbb0/Filtros.png)
+![Filtros](https://images.ctfassets.net/alneenqid6w5/4sQMk2XLRyoQvFLNrGI0A7/e57ad4523d95718b3152713093f9dbb0/Filtros.png)
 
 Price tables are shown as columns of the price list, as are trade policies.
 

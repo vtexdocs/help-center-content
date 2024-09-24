@@ -19,7 +19,7 @@ A **Migração Direta Magazine Luiza** foi desenvolvida para facilitar o process
 
 Utilizando a **Migração Direta,** a conta do seller no marketplace é reaproveitada e neste caso a relevância de vendas do seller é mantida.  
 
-![Fluxo da migração](//images.ctfassets.net/alneenqid6w5/7GdLQ0HFfZXJ7mxvqGgNeO/26fc293e4cf1592347635841669433b5/Fluxo_de_funcionamento_integra__o.png)
+![Fluxo da migração](https://images.ctfassets.net/alneenqid6w5/7GdLQ0HFfZXJ7mxvqGgNeO/26fc293e4cf1592347635841669433b5/Fluxo_de_funcionamento_integra__o.png)
 
 ## Integrando a loja VTEX com o Magazine Luiza marketplace
 

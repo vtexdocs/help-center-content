@@ -103,7 +103,7 @@ Se existir um empate entre sellers nos critérios de melhor custo ou prazo, o cr
 
 Um cliente adicionou ao carrinho cinco SKUs. Dentre os sellers que entregam na sua região, os sellers A, B, C e D, cada um possui no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) apenas parte dos itens, conforme a imagem a seguir:
 
-![print_selecao_seller_white_label_1](//images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/4fdb2ed25e8d3d52eef96e5c0e2fd908/print_selecao_seller_white_label_1.png)
+![print_selecao_seller_white_label_1](https://images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/4fdb2ed25e8d3d52eef96e5c0e2fd908/print_selecao_seller_white_label_1.png)
 
 A plataforma VTEX seleciona o seller que tem disponível no estoque a quantidade máxima de SKUs do carrinho. Neste caso, trata-se do Seller B, o único que entrega três SKUs. 
 

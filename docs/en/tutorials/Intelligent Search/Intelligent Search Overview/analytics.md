@@ -74,7 +74,7 @@ To export a report in .csv format, you must follow the steps below:
 
 The report (CSV file) you have downloaded contains two tables. The first table contains information about searched terms, as illustrated below. It also shows funnel metrics (from the **ProductsClick** column to the **ProductsSold** column) if you have selected this option.
 
-![search-report-term](//images.ctfassets.net/alneenqid6w5/5b8DWfBkXE9hZzugQ2LoaP/a16b574485adf9cb41ab258a3c169881/search-report-term.png)
+![search-report-term](https://images.ctfassets.net/alneenqid6w5/5b8DWfBkXE9hZzugQ2LoaP/a16b574485adf9cb41ab258a3c169881/search-report-term.png)
 
 The second table shows data for the selected period, as illustrated below. In the __Date__ column, you can see the date of the search.
 

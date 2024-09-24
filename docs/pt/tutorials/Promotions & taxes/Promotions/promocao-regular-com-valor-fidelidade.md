@@ -39,7 +39,7 @@ O **Valor fidelidade nominal** adiciona um valor fixo de crédito na conta do us
 
 No exemplo ilustrado a seguir, os clientes ganharão um crédito de R$10,00 na loja quando o status do pedido mudar para **Faturado**.
 
-![vf-nominal-pt](//images.ctfassets.net/alneenqid6w5/5i67rFawcAHCOpI84bBP2U/f2498f3f46cbafe7e1d8dd747422cce8/vf-nominal-pt.png)
+![vf-nominal-pt](https://images.ctfassets.net/alneenqid6w5/5i67rFawcAHCOpI84bBP2U/f2498f3f46cbafe7e1d8dd747422cce8/vf-nominal-pt.png)
 
 ### Valor fidelidade percentual
 

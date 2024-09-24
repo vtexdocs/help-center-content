@@ -49,7 +49,7 @@ Follow the steps below to create a [VTEX Ad Network campaign](https://help.vtex.
 6. Select the products you want to advertise using one of the following options:
 
    * __Search products by EAN:__ Search for products in your catalog by EAN.
-   * __Upload File:__ Upload a CSV file with a list of EAN codes, as in [this example](//assets.ctfassets.net/alneenqid6w5/37tlx8GVGFxhOS48l73Ehz/75958f41bc4628e283ab1d8e060a01ab/teste-ads.csv). EANs are mandatory and bids are optional in the file.
+   * __Upload File:__ Upload a CSV file with a list of EAN codes, as in [this example](https://assets.ctfassets.net/alneenqid6w5/37tlx8GVGFxhOS48l73Ehz/75958f41bc4628e283ab1d8e060a01ab/teste-ads.csv). EANs are mandatory and bids are optional in the file.
 
 7. In the *Budget, bid, and schedule* section, click the edit button <i class="fas fa-pencil-alt"></i>.
 8. Set the bid amount for each product. You can set each value individually.

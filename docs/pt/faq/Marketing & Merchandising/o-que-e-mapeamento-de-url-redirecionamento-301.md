@@ -20,7 +20,7 @@ Todos os mapeamentos cadastrados serão executados no tipo 301. O redirecionamen
 
 Os mapeamentos de URLs são cadastrados no **Gerenciador de Portal**. No módulo **Catalog**, acesse o menu “Configurações" -> "Portal”:
 
-![](//images.contentful.com/alneenqid6w5/2sLb71Ajkg8s4MIOgCymsO/de7f2f3747389d99ee8100d9cf8f1093/mapeamento1.png)
+![](https://images.contentful.com/alneenqid6w5/2sLb71Ajkg8s4MIOgCymsO/de7f2f3747389d99ee8100d9cf8f1093/mapeamento1.png)
 
 No Gerenciador de Portal, acesse **Mapeamento de URLs**:
 

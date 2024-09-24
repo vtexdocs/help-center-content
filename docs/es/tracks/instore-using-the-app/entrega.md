@@ -27,7 +27,7 @@ Puedes elegir entre:
 - Recoger en una tienda física.
 - Personalizar por ítem.
 
-![entrega-2-es](//images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/338f5137a3c8c920f612657fd7290f3d/entrega-2-es.png)
+![entrega-2-es](https://images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/338f5137a3c8c920f612657fd7290f3d/entrega-2-es.png)
 
 ### Puntos de recogida
 

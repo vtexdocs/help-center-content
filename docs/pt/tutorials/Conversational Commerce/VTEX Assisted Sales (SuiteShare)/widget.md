@@ -27,7 +27,7 @@ Para começar a configuração, você deve ter criado anteriormente os links da 
 
 Para configurar o Widget, acesse o menu **Atrair > Widget**:
 
-![Widget 1](//images.ctfassets.net/alneenqid6w5/plu5lwBYTbLY02fyz1orV/42c0462dfe1cf8bbb2990a684992cbb9/Screenshot_2022-08-26_at_16-48-30_Widget.png)
+![Widget 1](https://images.ctfassets.net/alneenqid6w5/plu5lwBYTbLY02fyz1orV/42c0462dfe1cf8bbb2990a684992cbb9/Screenshot_2022-08-26_at_16-48-30_Widget.png)
 
 Clique em **Novo**.
 

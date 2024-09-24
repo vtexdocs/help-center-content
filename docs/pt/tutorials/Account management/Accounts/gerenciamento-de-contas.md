@@ -78,7 +78,7 @@ Depois que um usuário preenche e salva **Nome** e **E-mail**, nos campos de co
 
 >ℹ️ O template deste e-mail automático pode ser alterado na [Central de mensagens](https://help.vtex.com/pt/tutorial/understanding-the-message-center--tutorials_84) modificando o template <i>account registration</i>.
 
-![cadastro de conta](//images.ctfassets.net/alneenqid6w5/5tBCNxqBxeWkqOgiIcEaQw/4e044e1f46911db85da4e5ea0a195226/cadastro_de_conta.jpg)
+![cadastro de conta](https://images.ctfassets.net/alneenqid6w5/5tBCNxqBxeWkqOgiIcEaQw/4e044e1f46911db85da4e5ea0a195226/cadastro_de_conta.jpg)
 
 ## Segurança
 

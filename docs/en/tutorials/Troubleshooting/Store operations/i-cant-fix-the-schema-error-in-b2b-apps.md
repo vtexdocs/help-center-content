@@ -48,4 +48,4 @@ To fix the Schema is invalid alert, follow the steps below to ensure the correct
 
 The image below shows the necessary steps to fix the configuration of the required fields in Master Data, solving the `Schema is invalid` alert.
 
-![B2B Suite - troubleshooting - EN](//images.ctfassets.net/alneenqid6w5/4s3sJXwHYCAkyGiYzWzOyE/1b28bb5a982c58ab235e456e6f6b449c/B2B_Suite_-_troubleshooting.gif)
+![B2B Suite - troubleshooting - EN](https://images.ctfassets.net/alneenqid6w5/4s3sJXwHYCAkyGiYzWzOyE/1b28bb5a982c58ab235e456e6f6b449c/B2B_Suite_-_troubleshooting.gif)

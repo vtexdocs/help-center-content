@@ -47,7 +47,7 @@ Para fazer o download da sua fatura, siga os passos abaixo:
 
 Feito isso, sua fatura estará disponível em outra aba.
 
-![baixar faturas pt](//images.ctfassets.net/alneenqid6w5/2v9nnJfdYMrIw9DhYsV6oz/8acb4b8fe2db1b1cf36500cd2bff7b09/baixar_faturas_pt.gif)
+![baixar faturas pt](https://images.ctfassets.net/alneenqid6w5/2v9nnJfdYMrIw9DhYsV6oz/8acb4b8fe2db1b1cf36500cd2bff7b09/baixar_faturas_pt.gif)
 
 ## Brasil
 

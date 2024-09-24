@@ -33,7 +33,7 @@ En este artículo, puedes explorar los siguientes temas:
 - [**Tipos de oportunidades**](#tipos-de-oportunidades)  
 - [**Analizar oportunidades**](#analizar-oportunidad)  
 
-![overview-match-meli-es](//images.ctfassets.net/alneenqid6w5/7hIgYNJ31ttYzsgyufAnbc/9d952bf0fd03b4c836b1dfcbbb394322/overview-match-meli-es.png)
+![overview-match-meli-es](https://images.ctfassets.net/alneenqid6w5/7hIgYNJ31ttYzsgyufAnbc/9d952bf0fd03b4c836b1dfcbbb394322/overview-match-meli-es.png)
 
 ## Estructura de la página
 

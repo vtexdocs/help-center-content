@@ -23,7 +23,7 @@ Para instalar o nosso widget no seu site, siga os passos abaixo:
 
 1. Em nosso CMS, acesse o menu **Widget** e depois em **Instalação**.
 
-   ![Widget_1](//images.ctfassets.net/alneenqid6w5/PvBIqUXXoy0HKgG9kHYQF/861a7781882e3459c3e4446c53bf3f7c/Widget_1.png)
+   ![Widget_1](https://images.ctfassets.net/alneenqid6w5/PvBIqUXXoy0HKgG9kHYQF/861a7781882e3459c3e4446c53bf3f7c/Widget_1.png)
 
 2. Clique no botão **COPIAR CÓDIGO** e salve esse código em um bloco de notas.
 

@@ -28,7 +28,7 @@ Exercite sua autonomia sobre o código e construa o cenário de loja desejado de
 
 1. Selecione o bloco para o qual deseja criar um novo conteúdo. Você pode selecioná-lo usando a lista no canto direito ou através da interface:
 
-![seta-interface-pt](//images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/533c69a0cd05f2a0c88e6df83ce13615/img-two.png)
+![seta-interface-pt](https://images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/533c69a0cd05f2a0c88e6df83ce13615/img-two.png)
 
 2. Clique em `Versões` no canto superior direito.
 

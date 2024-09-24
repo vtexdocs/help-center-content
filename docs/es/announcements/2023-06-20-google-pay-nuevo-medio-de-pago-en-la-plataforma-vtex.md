@@ -27,7 +27,7 @@ Google Pay es una plataforma de cartera digital y un sistema de pagos online des
 
 Ahora, puedes agregar Google Pay como medio de pago en tu tienda para proporcionar a tus clientes un proceso de checkout más ágil y conveniente.
 
-![google-pay-checkout-es](//images.ctfassets.net/alneenqid6w5/5EjOagjPXAeIAAN0Fpzkdq/35be7ad3c5e155d0af64fdf42611cc9d/image.png)
+![google-pay-checkout-es](https://images.ctfassets.net/alneenqid6w5/5EjOagjPXAeIAAN0Fpzkdq/35be7ad3c5e155d0af64fdf42611cc9d/image.png)
 
 ## ¿Qué se necesita hacer?
 

@@ -32,7 +32,7 @@ These configurations take place on your Google TagManager.
 8. Save the trigger;
 9. Click on the **Criar Tag **button, enter a name for this tag and Save.
 
-![](//images.contentful.com/alneenqid6w5/YndMcdc0aAw2GKYU0EyU2/c917ac451cfeb262d8354164c6caa285/MercadoPagoTransparente_1_PT.gif)
+![](https://images.contentful.com/alneenqid6w5/YndMcdc0aAw2GKYU0EyU2/c917ac451cfeb262d8354164c6caa285/MercadoPagoTransparente_1_PT.gif)
 
 ## Creating the second tag
 

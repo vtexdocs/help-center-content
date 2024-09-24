@@ -39,7 +39,7 @@ VTEX Intelligent Search Multidioma permite que personalice la experiencia de bú
 ### Reglas de merchandising
 Cuando tiene VTEX Intelligent Search Multidioma instalada, la página de edición o creación de Reglas de merchandising — que se accede en el Admin VTEX en __Storefront__ > __Intelligent Search__ > __Reglas de merchandising__ — exhibe el campo adicional __Regiones__, que permite elegir los idiomas a los que se aplicará la regla de merchandising mediante la selección de los idiomas deseados, como se muestra en la siguiente imagen.  
 
-![img regrasmerch intelligentsearchmultilanguage ES](//images.ctfassets.net/alneenqid6w5/3Pv8xpcvB43bLALrijD1UO/a0f959bcd8d52fe586e7b4ab4d91c63a/01-merchrules-es.png)
+![img regrasmerch intelligentsearchmultilanguage ES](https://images.ctfassets.net/alneenqid6w5/3Pv8xpcvB43bLALrijD1UO/a0f959bcd8d52fe586e7b4ab4d91c63a/01-merchrules-es.png)
 
 Para saber más sobre los campos, lea nuestro artículo sobre [cómo configurar Reglas de merchandising en VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8).
 

@@ -33,7 +33,7 @@ The Received SKUs page is divided in tabs that correspond to the different offer
 
 Each tab displays a SKU list, offer SKU specifications, and the percentage of offers that have that status. Additionally, the tab has filter options that you can apply to the offers.  
 
-![received-skus-tabs-en](//images.ctfassets.net/alneenqid6w5/4jNrRvJsZgja1LuSz204P1/09fa16e993ba58dffa27b8809bb22c8f/received-skus-tabs-en.png)
+![received-skus-tabs-en](https://images.ctfassets.net/alneenqid6w5/4jNrRvJsZgja1LuSz204P1/09fa16e993ba58dffa27b8809bb22c8f/received-skus-tabs-en.png)
 
 ### Pending
 

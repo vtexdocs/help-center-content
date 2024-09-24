@@ -27,7 +27,7 @@ Para fazer o mapeamento, você seguir os seguintes passos:
 
 A Casas Bahia Marketplace tem valores de referência para determinados atributos de produtos que devem ser levados em consideração durante o mapeamento de produtos. 
 
-Para conhecer os valores aceitos pela Casas Bahia Marketplace é necessário fazer download da [Planilha de Referência da Casas Bahia Marketplace](//downloads.ctfassets.net/alneenqid6w5/V8zddFJSgYjQTKVQC810o/7313e8727ddd1311df3f201f2c140215/viavarejo-categories__1_.csv). Essa planilha será utilizada somente para fins de consulta.
+Para conhecer os valores aceitos pela Casas Bahia Marketplace é necessário fazer download da [Planilha de Referência da Casas Bahia Marketplace](https://downloads.ctfassets.net/alneenqid6w5/V8zddFJSgYjQTKVQC810o/7313e8727ddd1311df3f201f2c140215/viavarejo-categories__1_.csv). Essa planilha será utilizada somente para fins de consulta.
 
 ## 2. Planilha de mapeamento
 

@@ -31,7 +31,7 @@ Check below how to perform this process:
 4. Proceed to the __What are the conditions for the benefit to be valid?__ section.
 5. Enter the coupon code in __utm_source__.
 
-  ![Sincronizar promoções no mesmo cupom - 1 - EN](//images.ctfassets.net/alneenqid6w5/7yJhwPnclx3tCiJdgpcYyv/8393ce300e19c709d554f7794ce06a43/7yJhwPnclx3tCiJdgpcYyv_-_EN.png)
+  ![Sincronizar promoções no mesmo cupom - 1 - EN](https://images.ctfassets.net/alneenqid6w5/7yJhwPnclx3tCiJdgpcYyv/8393ce300e19c709d554f7794ce06a43/7yJhwPnclx3tCiJdgpcYyv_-_EN.png)
 
 6. Click 'Create coupon from UTMs above'.
 7. Click 'Save'.

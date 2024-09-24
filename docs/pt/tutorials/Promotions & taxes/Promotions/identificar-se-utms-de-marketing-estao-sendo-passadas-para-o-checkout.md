@@ -27,7 +27,7 @@ Com isso o checkout poderá montar o orderForm considerando o marketingData usad
 
 Para se certificar de que o conteúdo do parâmetro `utm_source`, por exemplo, está sendo passado ao checkout, você pode seguir as etapas abaixo:
 1. Acesse qualquer página da loja com a utm na querystring (ex: {AccountName}.com.br`?utm_source=facebook`)
-2. Entre nos __developer tools__ (F12 no Chrome, se estiver no Windows, ou Cmd+Opt+I, no Mac), acesse a aba __Application__, abra os cookies do site da loja e procure o cookie __IPS__.![utmSource1](//images.contentful.com/alneenqid6w5/2tGleKs2b2Gge8oEoquSGm/17efaf14e42cd655b037c2bd009eb0d6/utmSource1.png)
+2. Entre nos __developer tools__ (F12 no Chrome, se estiver no Windows, ou Cmd+Opt+I, no Mac), acesse a aba __Application__, abra os cookies do site da loja e procure o cookie __IPS__.![utmSource1](https://images.contentful.com/alneenqid6w5/2tGleKs2b2Gge8oEoquSGm/17efaf14e42cd655b037c2bd009eb0d6/utmSource1.png)
 3. Entre numa página de produto e insira um produto no carrinho.
 4. Entre no carrinho.
 5. Atualize a página e, na aba __Network__ do developer tools, monitore os requests.

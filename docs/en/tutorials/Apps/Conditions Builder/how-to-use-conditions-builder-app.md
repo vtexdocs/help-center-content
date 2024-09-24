@@ -36,7 +36,7 @@ After installing it, you can access it from the sidebar (installed apps section)
 4. (Optional) Write a short description. This is for internal control only and will not be visible to your customers.
 5. Click on "Start Building".
 
-![createCondition](//images.ctfassets.net/alneenqid6w5/WkXz29OvGmQgEAYOGwiQk/68b1dea792bc5c988553d6ae4c5dbd58/createCondition.gif)
+![createCondition](https://images.ctfassets.net/alneenqid6w5/WkXz29OvGmQgEAYOGwiQk/68b1dea792bc5c988553d6ae4c5dbd58/createCondition.gif)
 
 After you hit the "Create button", you are going to see a workspace with a block list on the left side of the screen.  
 Now you only have to drag the blocks onto the workspace and conect them, and finally creating your logic. 

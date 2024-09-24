@@ -19,7 +19,7 @@ No modo Seletivo, cada cliente que clicar no link será direcionado para uma tel
 
 Para criar um atendimento seletivo, acesse: _**Organizar > Seletivo**_ 
 
-![Seletivo 1](//images.ctfassets.net/alneenqid6w5/5aqMlFa9eCrKjp4Rc6VEZF/fbb0948a7381804f786f3dd2dc501af4/Screenshot_2022-08-29_at_14-27-26_Seletivo.png)
+![Seletivo 1](https://images.ctfassets.net/alneenqid6w5/5aqMlFa9eCrKjp4Rc6VEZF/fbb0948a7381804f786f3dd2dc501af4/Screenshot_2022-08-29_at_14-27-26_Seletivo.png)
 
 **IMPORTANTE**:  Antes de começar, você já deverá ter criado um link para cada número de WhatsApp que deseja adicionar na central. Se ainda não fez isso, é só [acessar esse link.](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB)
 

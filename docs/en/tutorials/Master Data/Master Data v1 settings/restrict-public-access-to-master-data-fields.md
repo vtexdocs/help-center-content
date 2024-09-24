@@ -27,7 +27,7 @@ Depending on the data stored, public access without authentication can pose a ri
 2. In Master Data, click **Applications**.
 3. Click the gear <i class="fas fa-cog"></i> next to **Profile System**:
 
-   ![1-master-data-confidential-data-en](//images.ctfassets.net/alneenqid6w5/2Ulq3zVfRfAkmXYzC1fCCq/60f8fe775c03019223c0efb4c4b1974f/1-master-data-confidential-data-en.png)
+   ![1-master-data-confidential-data-en](https://images.ctfassets.net/alneenqid6w5/2Ulq3zVfRfAkmXYzC1fCCq/60f8fe775c03019223c0efb4c4b1974f/1-master-data-confidential-data-en.png)
 4. In **Settings**, click **Data structure**.
 
    ![2-master-data-confidential-data-en](//images.ctfassets.net/alneenqid6w5/3F2667ZvZymEE03zyoHSsh/43d3dad46261ca9248a3f0d1f0486045/2-master-data-confidential-data-en.png)

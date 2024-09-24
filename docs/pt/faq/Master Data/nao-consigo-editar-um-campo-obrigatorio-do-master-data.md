@@ -19,7 +19,7 @@ legacySlug: nao-consigo-editar-um-campo-obrigatorio-do-master-data
 1. No menu do admin, selecione o módulo __Master Data__. 
 2. Certifique-se que está na aba __Aplicações__, dentro de __Links Rápidos__.
 3. Clique na engrenagem em __Profile System__.
-![MasterDataTutorial 1 UM](//images.ctfassets.net/alneenqid6w5/6BwZrUrNopO6Nb3n49B8L9/ba74f6ae261e1d8f0fc7a32cf7ad321f/MasterDataTutorial_1_UM.jpg)
+![MasterDataTutorial 1 UM](https://images.ctfassets.net/alneenqid6w5/6BwZrUrNopO6Nb3n49B8L9/ba74f6ae261e1d8f0fc7a32cf7ad321f/MasterDataTutorial_1_UM.jpg)
 4. Clique no __lápis__ ao lado do item que deseja configurar.
 ![MasterDataTutorial2](//images.ctfassets.net/alneenqid6w5/1OU9KjvK8sUUtHr5MZqbci/4297f3f56819f622d77845054b3dbb0d/MasterDataTutorial2.png)
 5. Clique em __Schemas de Layout__.

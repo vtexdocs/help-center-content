@@ -19,7 +19,7 @@ Código QR é um código de barras bidimensional que pode ser facilmente escanea
 
 No VTEX Assisted Sales (SuiteShare) você conseguirá unir a tecnologia dos QRCODES com o Link de WhatsApp e fazer com que os clientes abram uma conversa com você no WhatsApp com apenas um escaneamento.
 
-![QR Code_1](//images.ctfassets.net/alneenqid6w5/2I4HDB3mTmDa7I0OPcmLH1/a9a86497f4a5a9e385a65d8ce422c3f1/QR_Code_1.png)
+![QR Code_1](https://images.ctfassets.net/alneenqid6w5/2I4HDB3mTmDa7I0OPcmLH1/a9a86497f4a5a9e385a65d8ce422c3f1/QR_Code_1.png)
 
 Se na sua empresa, você utiliza materiais impressos, esses códigos são a melhor opção para levar os clientes do offline para o online.
 

@@ -60,7 +60,7 @@ Siga os passos abaixo:
 
 Com as chaves de autenticação disponíveis, é o momento de realizar a configuração do app Cybersource IO no Admin. 
 
-![Cybersource Admin settings PT](//images.ctfassets.net/alneenqid6w5/53S98k6G5yOwOJrAO4ueiF/635fe1762fa5be2e9c6c118f5245cb39/Cybersource_Admin_settings_PT.JPG)
+![Cybersource Admin settings PT](https://images.ctfassets.net/alneenqid6w5/53S98k6G5yOwOJrAO4ueiF/635fe1762fa5be2e9c6c118f5245cb39/Cybersource_Admin_settings_PT.JPG)
 
 Siga os passos abaixo para configurar o app Cybersource IO:
 

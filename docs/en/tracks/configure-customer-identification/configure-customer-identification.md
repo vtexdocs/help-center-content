@@ -26,7 +26,7 @@ To choose which identification methods you want to enable, access the VTEX admin
 
 In the __Customer's login__ box, you must select the identification methods you want to enable.
 
-![21. Configure client identification - 1 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/3E5pzs9HJLG8lt2MhxU8ej/962eaa1511cc39f933da2a5c94c97974/21._Configure_client_identification_-_1_-_EN.png_h_250)
+![21. Configure client identification - 1 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/3E5pzs9HJLG8lt2MhxU8ej/962eaa1511cc39f933da2a5c94c97974/21._Configure_client_identification_-_1_-_EN.png_h_250)
 
 You can also change the order of these methods. To do this, just drag them, as shown in the image below. The order of the methods defined on this screen determines the order in which they will appear to the salespeople in the app. Therefore, the first method will be the default.
 

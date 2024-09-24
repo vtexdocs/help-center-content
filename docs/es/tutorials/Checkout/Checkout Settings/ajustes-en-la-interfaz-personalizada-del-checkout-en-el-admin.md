@@ -63,7 +63,7 @@ En esta pestaña puedes configurar los siguientes ajustes:
 
 La pestaña Colores facilita la personalización de los colores del checkout de tu tienda, lo que incluye la modificación de los colores del fondo, de los botones o del texto, por ejemplo. Esta estandarización garantiza una armonía visual consistente.
 
-![Colores](//images.ctfassets.net/alneenqid6w5/4H44wWoSRkxqorAvMIIdtG/a6ded356e1627c5cc91465aaca09c047/Colores_-_ES.png)
+![Colores](https://images.ctfassets.net/alneenqid6w5/4H44wWoSRkxqorAvMIIdtG/a6ded356e1627c5cc91465aaca09c047/Colores_-_ES.png)
 
 ## JavaScript
 

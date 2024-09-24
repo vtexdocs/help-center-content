@@ -85,7 +85,7 @@ Selecting products through the VTEX Admin can be made using the product list, se
 
 There are many filters that can be selected to reduce the number of products displayed on the list.
 
-![Collections-EN](//images.ctfassets.net/alneenqid6w5/7j4kfkpKZfrc6QwVNjrV6Z/5d19956173c19af3e823eec2b24869f3/Screenshot_2020-08-28_Collections.png)
+![Collections-EN](https://images.ctfassets.net/alneenqid6w5/7j4kfkpKZfrc6QwVNjrV6Z/5d19956173c19af3e823eec2b24869f3/Screenshot_2020-08-28_Collections.png)
 
 You can create new filters based on other criteria not covered by the predetermined filters. The images below show a few examples of these options:
 

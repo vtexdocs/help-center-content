@@ -33,7 +33,7 @@ Estos pueden ser:
 
 A continuación, vemos un esquema de cómo se relacionan los conceptos de *precios*, *tabla de precios* y *contextos*:
 
-![Architecture-ES](//images.ctfassets.net/alneenqid6w5/6bnxEox2mBlC6eFRoXv2B2/c8275d94ff8ec1867467a22eeed50464/Architecture__3_.svg)
+![Architecture-ES](https://images.ctfassets.net/alneenqid6w5/6bnxEox2mBlC6eFRoXv2B2/c8275d94ff8ec1867467a22eeed50464/Architecture__3_.svg)
 
 ## Precio calculado
 

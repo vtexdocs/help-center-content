@@ -63,6 +63,6 @@ Click a role available in the store.
 
 5. Click `Save`.
 
-![Gerenciamento de permissões - EN](//images.ctfassets.net/alneenqid6w5/287qksSZ46sMPwg4CuXQ8F/8cab9bcae960a2f30d855789b065a0ee/Gerenciamento_de_permiss_es_-_EN.gif)
+![Gerenciamento de permissões - EN](https://images.ctfassets.net/alneenqid6w5/287qksSZ46sMPwg4CuXQ8F/8cab9bcae960a2f30d855789b065a0ee/Gerenciamento_de_permiss_es_-_EN.gif)
 
 Once you have associated the roles with the desired permissions, you can assign them to users. Learn more in [B2B Organizations](https://developers.vtex.com/docs/guides/vtex-b2b-organizations#users).

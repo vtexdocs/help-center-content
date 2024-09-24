@@ -20,7 +20,7 @@ Una de las primeras acciones que usted necesita realizar en su web site es enlaz
 1. En el Admin VTEX, accede a **Storefront > Layout**.
 2. Haga clic en la carpeta __CMS__.
 3. Haga clic en la carpeta __Sites and channels__.
-4. Haga clic en el Website deseado.![websites](//images.contentful.com/alneenqid6w5/56BRjkYWyIwKogAI0oMmSM/0910a749d03b6fd8d596ce6361a21045/websites.png)
+4. Haga clic en el Website deseado.![websites](https://images.contentful.com/alneenqid6w5/56BRjkYWyIwKogAI0oMmSM/0910a749d03b6fd8d596ce6361a21045/websites.png)
 5. Haga clic en __Save Website__.
 6. Haga clic en __Add__.![addBinding](//images.contentful.com/alneenqid6w5/r0P8ZE9LNesKoeGewcWOu/527511bc3ae48875fe1a6421a1db5f42/addBinding.png)
 7. Seleccione el nombre de la tienda.![chooseBinding](//images.contentful.com/alneenqid6w5/3nFPaDlnaEG2EqIMM8gCe0/188754ebaa172cef01a9212eea168e46/chooseBinding.png)

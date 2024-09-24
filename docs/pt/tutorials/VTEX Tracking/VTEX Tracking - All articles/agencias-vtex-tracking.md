@@ -76,7 +76,7 @@ Para cada status de entrega, é enviado um e-mail e um SMS para o consumidor com
 *O corpo do email deve ser preenchido em HTML, CSS e Javascript. Já a mensagem SMS pode ser preenchida em texto normal, substituindo os valores variáveis pelas `{{tags}}`, que explicaremos a seguir.*   
  7. Clique em **Salvar**.  
 
-![PT Tracking Agencia Configurar email](//images.ctfassets.net/alneenqid6w5/3piB2Vv9Lwkk7dIg0pvZnx/577774614e73f3d37f420ed92a681f89/PT_Tracking_Agencia_Configurar_email.png)
+![PT Tracking Agencia Configurar email](https://images.ctfassets.net/alneenqid6w5/3piB2Vv9Lwkk7dIg0pvZnx/577774614e73f3d37f420ed92a681f89/PT_Tracking_Agencia_Configurar_email.png)
 
 #### Status 
 

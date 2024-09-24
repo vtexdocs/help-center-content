@@ -36,7 +36,7 @@ A tela de configuração da promoção oferece duas listas de SKUs, que podem se
 
 Você pode, então, definir um valor de desconto para a cada uma dessas listas. Se, por exemplo, a lista 1 tem 10% de desconto e a lista 2 tem 5% de desconto, quando o carrinho tiver pelo menos um produto de cada uma dessas listas, será concedido um total de 10% sobre o valor dos itens da lista 1 e um desconto de 5% sobre o valor dos itens da lista 2.
 
-![5 1](//images.ctfassets.net/alneenqid6w5/365uWey6OG9w1jMlIbi11L/108d507cd3957a5e9c6b128cd920d543/5_1.png)
+![5 1](https://images.ctfassets.net/alneenqid6w5/365uWey6OG9w1jMlIbi11L/108d507cd3957a5e9c6b128cd920d543/5_1.png)
 
 Dois exemplos desse tipo de promoção seriam "Compre uma calça e ganhe 10% na compra de um cinto" e "Compre um par de tênis + um par de meias e ganhe 15% de desconto".
 

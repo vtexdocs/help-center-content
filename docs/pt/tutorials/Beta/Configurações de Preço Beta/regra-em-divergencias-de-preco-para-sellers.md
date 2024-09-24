@@ -23,7 +23,7 @@ Os pedidos que apresentam erros por divergência de preço maior que os valores 
 
 Os pedidos apresentam um status de erro no módulo de *INTEGRAÇÕES* e ficam aguardando serem reprocessados manualmente.
 
-![Início (6)](//images.contentful.com/alneenqid6w5/3ew5jbEQLOWq35gB0H0rLx/1fa45e6308ecc1906fcff908df9ba0c2/In__cio__6_.gif)
+![Início (6)](https://images.contentful.com/alneenqid6w5/3ew5jbEQLOWq35gB0H0rLx/1fa45e6308ecc1906fcff908df9ba0c2/In__cio__6_.gif)
 
 Para que os pedidos com divergência de preço subam para o OMS, foi criada a regra de divergência de valores (Beta). Nessa regra, todos os pedidos com divergência de preço são enviados ao OMS e devem ser aprovados manualmente pelo responsável da loja, com e-mail cadastrado em *Gerenciamento de contas > Contas*. É possível ter mais de um e-mail cadastrado.
 

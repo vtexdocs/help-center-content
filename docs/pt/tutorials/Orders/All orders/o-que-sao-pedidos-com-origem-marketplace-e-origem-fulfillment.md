@@ -19,7 +19,7 @@ Ao acessar a seção __Todos os pedidos__, em __Gerenciamento de pedidos__, é p
 
 A coluna __Origem__ indica de onde partiu o pedido, diferenciando o mesmo em duas possíveis origens: __Marketplace__ e __Fulfillment__.
 
-![orders-list-origin-pt](//images.ctfassets.net/alneenqid6w5/38XgFUqPIlB8T8FDRLsSXc/8db60848bd28cee74c5177d425130d1c/oders-list-origin-pt.png)
+![orders-list-origin-pt](https://images.ctfassets.net/alneenqid6w5/38XgFUqPIlB8T8FDRLsSXc/8db60848bd28cee74c5177d425130d1c/oders-list-origin-pt.png)
 
 ## Marketplace
 

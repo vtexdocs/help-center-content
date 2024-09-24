@@ -19,7 +19,7 @@ Você pode exigir que, para determinadas páginas da loja, os usuários precisem
 
 Algumas páginas vêm com essa configuração por padrão. Por exemplo, as páginas `/Account` e `/Account/Orders`.
 
-![authenticationRequired](//images.contentful.com/alneenqid6w5/60cIIkiKDSEs2ocmqescgM/3f5a0c46d61c1002c22bc7b5469db7eb/authenticationRequired.png)
+![authenticationRequired](https://images.contentful.com/alneenqid6w5/60cIIkiKDSEs2ocmqescgM/3f5a0c46d61c1002c22bc7b5469db7eb/authenticationRequired.png)
 
 Mas você pode tanto retirar a exigência de autenticação para estas páginas como inseri-la em outras páginas.
 

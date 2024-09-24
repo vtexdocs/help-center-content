@@ -29,7 +29,7 @@ To enter the device fingerprint scripts required by Braspag/CyberSource, you wil
 
 ## Creation of variables (macros) and driver
 
-- Create a variable named `trasactionPaymentId`, ype **Variável da camada de dados**, by reading the detalayer `transactionPayment.id` variable.[]![](//images.contentful.com/alneenqid6w5/2iGloCXR32IMAyWAKe8qWy/cf1108ad17e944adc63f189e67cfa93d/gtm-cybersource-variavel1-1.png)
+- Create a variable named `trasactionPaymentId`, ype **Variável da camada de dados**, by reading the detalayer `transactionPayment.id` variable.[]![](https://images.contentful.com/alneenqid6w5/2iGloCXR32IMAyWAKe8qWy/cf1108ad17e944adc63f189e67cfa93d/gtm-cybersource-variavel1-1.png)
 - Create a variable named `cs_sessionId`, of type **JavaScript personalizado** and the following code:
 
 ```

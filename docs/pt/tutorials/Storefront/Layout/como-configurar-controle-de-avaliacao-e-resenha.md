@@ -44,7 +44,7 @@ Estes controles, diferentes dos demais, necessitam de uma configuração impresc
 
 No cadastro de Categoria existe a opção de configurar a Avaliação, e normalmente esta configuração é feita na categoria raiz:
 
-![avaliação-categoria PT](//images.ctfassets.net/alneenqid6w5/TtskX9FjmSS0C0UMAeIcM/36a5e64b42da3a23766d7256ade0d8c9/avalia____o_pt.png)
+![avaliação-categoria PT](https://images.ctfassets.net/alneenqid6w5/TtskX9FjmSS0C0UMAeIcM/36a5e64b42da3a23766d7256ade0d8c9/avalia____o_pt.png)
 
 Clique em **Nova Avaliação** e preencha os dados Nome e Texto e depois salve.
 

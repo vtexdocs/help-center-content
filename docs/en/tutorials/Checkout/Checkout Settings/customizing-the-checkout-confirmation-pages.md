@@ -15,7 +15,7 @@ legacySlug: customizing-the-checkout-confirmation-pages
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-![Página de confirmação de pedido (Order Placed)](//images.contentful.com/alneenqid6w5/n7VvdVmseGQyGwCEQAIiW/90bd066111747fe05d722e6fad172d14/cconf-hml1.png) 
+![Página de confirmação de pedido (Order Placed)](https://images.contentful.com/alneenqid6w5/n7VvdVmseGQyGwCEQAIiW/90bd066111747fe05d722e6fad172d14/cconf-hml1.png) 
 
 The new My Orders section comes with a new Order Placed page, which now integrates **Checkout Confirmation**, feature responsible for confirmation pages.
 

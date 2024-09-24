@@ -35,7 +35,7 @@ Para cadastar o Sitemap você deve executar as seguites ações:
 
 **2. Selecione a opção **Sitemaps** na sessão **Rastreamento****
 
-****![](//images.contentful.com/alneenqid6w5/4ZbMabhWNO6cWaqOKQauGA/e0a6c544f7990e7203a89c63761ce7ea/image00.png)****
+****![](https://images.contentful.com/alneenqid6w5/4ZbMabhWNO6cWaqOKQauGA/e0a6c544f7990e7203a89c63761ce7ea/image00.png)****
 
 **3. Clique no botão **Adicionar / Testar Sitemap****
 

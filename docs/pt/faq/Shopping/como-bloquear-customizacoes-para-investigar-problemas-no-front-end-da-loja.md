@@ -27,7 +27,7 @@ Para configurar o [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 1. Abra o [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) no seu computador.
 2. Clique no botão `F12` do seu teclado ou com o botão direito do mouse em qualquer lugar da tela e selecione **Inspecionar**.
 3. Clique nos três pontos verticais na parte superior direita da página, conforme indicado na imagem abaixo.
-![Customizations1 - PT](//images.ctfassets.net/alneenqid6w5/3fMKFRgHKwCa8dlwcMbnDk/cb8f01010eb287fcc5b63f2b9956a2ad/Captura_de_Tela_2022-09-20_a__s_14.51.15.png)
+![Customizations1 - PT](https://images.ctfassets.net/alneenqid6w5/3fMKFRgHKwCa8dlwcMbnDk/cb8f01010eb287fcc5b63f2b9956a2ad/Captura_de_Tela_2022-09-20_a__s_14.51.15.png)
 4. Selecione **Mais ferramentas** e, em seguida, **Bloqueios de solicitação de rede** para bloquear todas as customizações feitas via CSS, JavaScript e Google Tag Manager. 
 ![Customizations2 - PT](//images.ctfassets.net/alneenqid6w5/7wjDCIMx0j0VMLFBlJs4x3/cee054457174fb6309d84826753d7411/Captura_de_Tela_2022-09-20_a__s_14.59.20.png)
 5. A aba **Bloqueios de solicitação de rede** abrirá em seguida como mostra a imagem abaixo:

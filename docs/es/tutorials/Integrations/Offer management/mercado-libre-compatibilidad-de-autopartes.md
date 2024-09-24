@@ -25,7 +25,7 @@ En los anuncios enviados a Mercado Libre, se pueden identificar los que tengan e
 
 >⚠️ Los anuncios que tengan error no se envían a Mercado Libre hasta que se corrijan.  
 
-![Mercado Libre: compatibilidad de autopartes](//images.ctfassets.net/alneenqid6w5/7JjKhuTHSN7j1V51FzjT5v/df37ddb666928a86c4199ce98bfe7af6/comp_automobilistica.png) 
+![Mercado Libre: compatibilidad de autopartes](https://images.ctfassets.net/alneenqid6w5/7JjKhuTHSN7j1V51FzjT5v/df37ddb666928a86c4199ce98bfe7af6/comp_automobilistica.png) 
 
 Para acceder al módulo Gestión de anuncios, en el Admin VTEX, ve a __Marketplace > Integraciones > Gestión de anuncios.__ En esta página puedes filtrar por canal, marca, categoría o status.  
 

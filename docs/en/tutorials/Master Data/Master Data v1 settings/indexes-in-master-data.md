@@ -56,7 +56,7 @@ If only one field is configured as an index, the alternative key will not allow 
 
 For example, the **Customer** table has two columns: **ID** and **Name**. To make searching easier, the **Name** field (`firstName`) can be configured as an index and marked as **Unique values**, as illustrated below:
 
-![indices-1-en](//images.ctfassets.net/alneenqid6w5/3OsXbib7NQTwtjSzBlvR0a/73cc5f6e47530f8a25b428b858c3d0df/indices-1-en.png)
+![indices-1-en](https://images.ctfassets.net/alneenqid6w5/3OsXbib7NQTwtjSzBlvR0a/73cc5f6e47530f8a25b428b858c3d0df/indices-1-en.png)
 
 As a result, it will not be possible to enter a name that has already been entered in **Customer**:
 

@@ -36,7 +36,7 @@ You can view the **Calendar** page in three ways:
 
 In the following image, you will see the view per month and what you can do in the interface:
 
-![releases-calendar-monthly-view-en](//images.ctfassets.net/alneenqid6w5/BQCF0b8kNzGTOv06wCOde/6dc0c1f3eef1fa4aef0bbd7a6f462f63/releases-calendar-monthly-view-en.png)
+![releases-calendar-monthly-view-en](https://images.ctfassets.net/alneenqid6w5/BQCF0b8kNzGTOv06wCOde/6dc0c1f3eef1fa4aef0bbd7a6f462f63/releases-calendar-monthly-view-en.png)
 
 In this page, you can:
 

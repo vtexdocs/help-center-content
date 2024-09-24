@@ -23,7 +23,7 @@ The main difference to the old version is on how you navigate through it. We've 
 ## What has changed
 
 Most items of the old Catalog can now be found on the _Catalog_ option, on the sidebar's _PRODUCTS_ section.
-![EN-Catálogo1](//images.ctfassets.net/alneenqid6w5/6PWNLidc6AYwsIw4W8GcEQ/e5fb1c8e3aaf79fa05d895a920dd78c7/EN-Cat__logo1.png)
+![EN-Catálogo1](https://images.ctfassets.net/alneenqid6w5/6PWNLidc6AYwsIw4W8GcEQ/e5fb1c8e3aaf79fa05d895a920dd78c7/EN-Cat__logo1.png)
 
 
 The _Gift card_ subitem (formerly known as _Vouchers_ and previously located under the _Campaign Control_ tab) is now one of the _Payments_ drop-down options, on the sidebar's _TRANSACTIONS_ section. 

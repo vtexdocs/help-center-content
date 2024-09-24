@@ -26,7 +26,7 @@ To configure a PWA in your store, go to **Store Settings > Storefront > Store** 
 1. Click the **PWA** tab.
 2. Set the **Theme color**, **Background color** and add the **Android logo icon (512x512, PNG)** and **iOS logo icon (512x512, PNG)**. The colors must be specified in hexadecimal code (e.g., #F71963), and the icons must have a size of 512x512 px and a `.png` extension.
 
-  ![pwa-settings-1-en](//images.ctfassets.net/alneenqid6w5/2EscgymgyMjCL6nvKedrjk/8b7909e47d4ebe3906f12fc997dec948/pwa-settings-1-en.png)
+  ![pwa-settings-1-en](https://images.ctfassets.net/alneenqid6w5/2EscgymgyMjCL6nvKedrjk/8b7909e47d4ebe3906f12fc997dec948/pwa-settings-1-en.png)
 
 3. Scroll down and go to the **Other PWA settings** field. Click the arrow to show the other settings.
 

@@ -26,7 +26,7 @@ A partir de 1 de fevereiro de 2023, a nova interface será o padrão de todas as
 
 Você pode visualizar a correspondência de seções e campos entre a versão antiga da página **Detalhes do pedido** e a nova versão na imagem abaixo:
 
-![board_comparativo_interface_pedido_v2_pt](//images.ctfassets.net/alneenqid6w5/30tYehAYOCvQoX0MpSIoNH/70f75ff7e98e67c9c403c32965ab4882/board_comparativo_interface_pedido_v2_pt.png)
+![board_comparativo_interface_pedido_v2_pt](https://images.ctfassets.net/alneenqid6w5/30tYehAYOCvQoX0MpSIoNH/70f75ff7e98e67c9c403c32965ab4882/board_comparativo_interface_pedido_v2_pt.png)
 
 ## O que aconteceu com o filtro de busca de seis meses?
 

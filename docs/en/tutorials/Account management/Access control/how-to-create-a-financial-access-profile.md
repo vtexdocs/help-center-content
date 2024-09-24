@@ -31,7 +31,7 @@ To create a financial role, follow the walkthrough below:
 6. (Optional) Before saving, you can **add users to this role**.
 7. Click on **Save**.
 
-![gif perfildeacessoEN](//images.ctfassets.net/alneenqid6w5/6s1lN2aC88o56Ps2OSD9jy/1c0fbd165d803a9a6c0fddac7ce8d477/gif_perfildeacessoEN.gif)
+![gif perfildeacessoEN](https://images.ctfassets.net/alneenqid6w5/6s1lN2aC88o56Ps2OSD9jy/1c0fbd165d803a9a6c0fddac7ce8d477/gif_perfildeacessoEN.gif)
 
 After you’ve created the financial role, you can associate it with your existing users.
 

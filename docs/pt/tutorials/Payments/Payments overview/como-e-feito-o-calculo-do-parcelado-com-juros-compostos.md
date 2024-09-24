@@ -26,7 +26,7 @@ A cobrança no início do período é calculada da seguinte forma:
 1. i = Taxa de Juros
 2. n = Número de Parcelas
 3. PV = Valor Presente (valor total da compra sem juros)
-4. Parcela = ![juros-inicio-periodo](//images.contentful.com/alneenqid6w5/3JkoK4GMLYAWIwUcAC8W2G/59d18849c4ee9e59ff37cb09ac661c89/juros-inicio-periodo.png)
+4. Parcela = ![juros-inicio-periodo](https://images.contentful.com/alneenqid6w5/3JkoK4GMLYAWIwUcAC8W2G/59d18849c4ee9e59ff37cb09ac661c89/juros-inicio-periodo.png)
 
 ## Fim do período
 

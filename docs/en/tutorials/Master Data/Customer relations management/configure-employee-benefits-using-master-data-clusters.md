@@ -40,7 +40,7 @@ Here, the common property of the clients will be that they are also employees of
 This article assumes that the employees are properly registered with a boolean field `isEmployee` set to true in their respective documents for the CL data entity, as shown in the figure below. 
 
 If they are not, check the article [Creating a field in Master Data](https://help.vtex.com/en/tutorial/how-can-i-create-field-in-master-data) to create a field that identifies the employees and properly configure it for each document corresponding to the employees.
-![Employee field](//images.ctfassets.net/alneenqid6w5/58zHOX5joCiSGRfGH1QcVS/550d4899318a5728eb0d73f04a32b710/Employee_field.png)
+![Employee field](https://images.ctfassets.net/alneenqid6w5/58zHOX5joCiSGRfGH1QcVS/550d4899318a5728eb0d73f04a32b710/Employee_field.png)
 
 >ℹ️ There are many details to completely configure a benefit. If you need additional information on this matter, check out the article [Creating promotions](https://help.vtex.com/en/tutorial/creating-promotions-2).
 

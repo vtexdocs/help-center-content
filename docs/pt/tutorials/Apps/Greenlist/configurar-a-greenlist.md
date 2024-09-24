@@ -43,7 +43,7 @@ __A Greenlist é uma lista de clientes pré-aprovados pelo lojista de acordo com
 
 Para marcar um cliente como confiável, o lojista usa alguns critérios. Estes critérios são os __dados de compra que compõem a assinatura de um pedido__:
 
-![Greenlist - assinatura](//images.contentful.com/alneenqid6w5/3CvVVFRIJ22wS6o8sq6ok6/45cdf4a8259437d36aa74a40a8a04715/Greenlist_-_assinatura.png)
+![Greenlist - assinatura](https://images.contentful.com/alneenqid6w5/3CvVVFRIJ22wS6o8sq6ok6/45cdf4a8259437d36aa74a40a8a04715/Greenlist_-_assinatura.png)
 
 Digamos que você marque três das opções da tela acima: __E-mail__, __Endereço de entrega__ e __Cartão de crédito__. Isso significa que, para que novos pedidos desse cliente não passem pelo antifraude, ele precisa usar em novas compras os mesmos dados de e-mail, endereço e cartão de crédito. 
 

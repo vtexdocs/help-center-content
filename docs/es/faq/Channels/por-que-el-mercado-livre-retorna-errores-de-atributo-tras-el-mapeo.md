@@ -24,7 +24,7 @@ Sin embargo, esos atributos son muy claros (Color principal, Color secundario, T
 
 Si alguno de esos atributos es rellenado incorrectamente (por ejemplo, si usted ha atribuido un código relativo a Tamaño de cinturón para un calzado), el Integraciones va a retornar un error con el siguiente formato:
 
-![Shot1](//images.contentful.com/alneenqid6w5/7A7DwGFr0cw8Q2qek0EqMU/9cad02c847f5dc7be7df68ad14bba39e/Shot1.jpg)
+![Shot1](https://images.contentful.com/alneenqid6w5/7A7DwGFr0cw8Q2qek0EqMU/9cad02c847f5dc7be7df68ad14bba39e/Shot1.jpg)
 
 En este caso, tenemos dos ejemplos de errores en el mismo mensaje.
 

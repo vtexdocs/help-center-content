@@ -28,7 +28,7 @@ Uma alternativa para os passos acima é acessar o painel de configuração de ma
 
 Substitua STORENAME pelo accountName da sua loja.
 
-![Multiplus1](//images.contentful.com/alneenqid6w5/2NxVrnsnZCOuQOqEOIusOq/d5cd381241a842c29e81763ea6f8f506/Multiplus1.png)
+![Multiplus1](https://images.contentful.com/alneenqid6w5/2NxVrnsnZCOuQOqEOIusOq/d5cd381241a842c29e81763ea6f8f506/Multiplus1.png)
 
 Após clicar em **Integrar**, será aberto um formulário com alguns campos a serem preenchidos. Atente-se aos campos obrigatórios: são aqueles em que aparece um “\*” ao lado da caixa de texto.
 

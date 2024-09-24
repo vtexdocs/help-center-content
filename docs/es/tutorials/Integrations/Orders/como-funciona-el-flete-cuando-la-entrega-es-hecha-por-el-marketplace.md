@@ -44,7 +44,7 @@ Al igual que en la interfaz del OMS, la API trae la información `vtex:fob_1111`
 
 Es importante que el ERP sea adecuado para recibir los datos en este formato.
 
-![](//images.ctfassets.net/alneenqid6w5/5jPtBeUPHCUvgMco9FoKuZ/add1ce05e78a216f0aa7074c3ae4d444/slack-imgs.com.png)
+![](https://images.ctfassets.net/alneenqid6w5/5jPtBeUPHCUvgMco9FoKuZ/add1ce05e78a216f0aa7074c3ae4d444/slack-imgs.com.png)
 
 ## Etiqueta
 

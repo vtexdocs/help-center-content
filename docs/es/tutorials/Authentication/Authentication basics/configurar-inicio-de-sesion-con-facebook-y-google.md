@@ -39,7 +39,7 @@ Después de realizar la configuración en Facebook y Google, debes configurar la
 
   Se te redirigirá a la pestaña **Tienda virtual** de la página **Autenticación**, que lista los métodos de inicio de sesión disponibles en tu tienda.
 
-  ![Lista Autenticación](//images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/814b27712f00a7a00bcc3c717a3aee5f/autenticacao-es.png)
+  ![Lista Autenticación](https://images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/814b27712f00a7a00bcc3c717a3aee5f/autenticacao-es.png)
 3. En la fila del proveedor de inicio de sesión deseado, haz clic en `Configurar`.
 4. Rellena el formulario con el `Client ID` y el `Secreto del cliente` registrados en la [etapa anterior](#obtener-credenciales-de-los-proveedores) y haz clic en `Guardar`.
 

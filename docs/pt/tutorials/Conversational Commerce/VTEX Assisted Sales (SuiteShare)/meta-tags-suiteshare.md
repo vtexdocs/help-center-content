@@ -19,7 +19,7 @@ Meta Tags são informações que são carregadas juntamente com o seu link, assi
 
 Meta tag no WhatsApp:
 
-![Meta Tags_Suitshare_1](//images.ctfassets.net/alneenqid6w5/1vDto0Syulmk1FrMOc2i89/74ea4883a2c35c4149b76681f91f407d/Meta_Tags_Suitshare_1.png)
+![Meta Tags_Suitshare_1](https://images.ctfassets.net/alneenqid6w5/1vDto0Syulmk1FrMOc2i89/74ea4883a2c35c4149b76681f91f407d/Meta_Tags_Suitshare_1.png)
 
 Meta tag no Facebook:
 

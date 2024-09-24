@@ -24,7 +24,7 @@ Desse modo, as regras de prazo e parcelamento serão aplicadas ao(s) consumidor(
 
 Para configurá-las, escolha uma propriedade e, em seguida, selecione os parâmetros para criar um cluster.
 
-![UI - Pagamentos Clusterizados](//images.ctfassets.net/alneenqid6w5/5CqjpJpWRzVAPpTSUAIt8C/91425fe2c9d9d49b66655419b89abf9a/image.png)
+![UI - Pagamentos Clusterizados](https://images.ctfassets.net/alneenqid6w5/5CqjpJpWRzVAPpTSUAIt8C/91425fe2c9d9d49b66655419b89abf9a/image.png)
 
 ## Propriedade
 

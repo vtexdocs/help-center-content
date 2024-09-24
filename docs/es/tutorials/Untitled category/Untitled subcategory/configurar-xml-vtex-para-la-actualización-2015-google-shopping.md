@@ -21,7 +21,7 @@ Siguiendo la [Actualización de 2015 de la Especificación del feed del Google S
 
 La configuración patrón de nuestro formulario de XML ya está con las tags actualizadas, para crear un nuevo feed Google Merchant / Shopping basta seleccionar la opción “Feed: Atom 1”:
 
-![](//images.contentful.com/alneenqid6w5/2ugQUy4xlaaUEOIYuu6UMe/41fd01c32b6954b14e1ef5818b94ca0c/atom1_xml_vtex_google.gif)
+![](https://images.contentful.com/alneenqid6w5/2ugQUy4xlaaUEOIYuu6UMe/41fd01c32b6954b14e1ef5818b94ca0c/atom1_xml_vtex_google.gif)
 
 Para la correcta integración con el Google Merchant / Shopping será necesario actualizar el xml con los nuevos campos a partir del 15 de septiembre de 2015.
 

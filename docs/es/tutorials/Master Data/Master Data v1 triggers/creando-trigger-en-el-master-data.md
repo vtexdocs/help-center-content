@@ -42,7 +42,7 @@ Las principales características de los triggers son las siguientes:
 
 Antes de [crear un trigger](#configurar-trigger), es necesario comprender que su configuración consta de cuatro partes, que se explican a continuación.
 
-![trigger](//images.ctfassets.net/alneenqid6w5/5WbC7SD6aPFqaOHuHWgQoq/4dee23f7b89e1ce4acd9479dcd0babd9/trigger-es.png)
+![trigger](https://images.ctfassets.net/alneenqid6w5/5WbC7SD6aPFqaOHuHWgQoq/4dee23f7b89e1ce4acd9479dcd0babd9/trigger-es.png)
 
 ### Acción que activa el trigger
 

@@ -24,7 +24,7 @@ Antes desta mudança, era possível ocorrer erros de visualização no resumo do
 Considere, por exemplo, um usuário que vê um produto que custa R$ 600,00, elegível para um desconto de 10% em caso de pagamento à vista. A pessoa procede para o checkout e chega à página do resumo do pedido, na qual deverá selecionar as opções de pagamento. Estes são os três erros principais que poderiam ocorrer:
 
 - O usuário ainda não selecionou um número de parcelas e o preço é exibido sem descontos, mesmo na opção elegível.
-![O usuário ainda não selecionou um número de parcelas](//images.ctfassets.net/alneenqid6w5/4dFdvU6HcZGvBWSpr0VI04/fe470a5050d3c66d98b21d978f968036/image6.png)
+![O usuário ainda não selecionou um número de parcelas](https://images.ctfassets.net/alneenqid6w5/4dFdvU6HcZGvBWSpr0VI04/fe470a5050d3c66d98b21d978f968036/image6.png)
 
 - O usuário selecionou um número de parcelas não elegível para desconto e o preço é exibido sem descontos, mesmo na opção elegível (à vista).
 ![O usuário selecionou um número de parcelas não elegível para desconto](//images.ctfassets.net/alneenqid6w5/nY13uDOX3JBOJvCN5Oj2i/d931d2d73ffb7f1b8c8ddbf7310b7bc9/image8.png)

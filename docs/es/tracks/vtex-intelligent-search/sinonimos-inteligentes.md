@@ -29,7 +29,7 @@ Las sugerencias se muestran en dos categorías en la lista de sinónimos, como s
 * **Nuevas sugerencias:** son aquellas generadas por la plataforma que aún no se han revisado.
 * **Sugerencias guardadas:** son aquellas que se guardaron para su posterior revisión, tal como se describe en el paso 5 de la sección [Revisar sugerencias](#revisar-sugestoes).
 
-![synonym-suggestion-list-es](//images.ctfassets.net/alneenqid6w5/YxS5i9kNqByGvZkPXyioK/71bad7a9a6282275bc001b9c2437d2fd/synonym-suggestion-list-es.png)
+![synonym-suggestion-list-es](https://images.ctfassets.net/alneenqid6w5/YxS5i9kNqByGvZkPXyioK/71bad7a9a6282275bc001b9c2437d2fd/synonym-suggestion-list-es.png)
 
 Puedes revisar las sugerencias generadas y elegir guardar para más tarde, rechazar, editar o aprobar. Consulta el paso a paso en la siguiente sección.
 

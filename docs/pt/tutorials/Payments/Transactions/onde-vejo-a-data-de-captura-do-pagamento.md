@@ -23,4 +23,4 @@ Basta seguir os passos abaixo:
 2. Busque a transação desejada e clique nela.
 3. Nos __Eventos da Transação__, busque o evento de captura:
 
-![captura](//images.contentful.com/alneenqid6w5/Xb2INQA3Qqa2K06IK6YWs/e70dcb1fbec79e0fb180e27b204dc0e4/captura.png)
+![captura](https://images.contentful.com/alneenqid6w5/Xb2INQA3Qqa2K06IK6YWs/e70dcb1fbec79e0fb180e27b204dc0e4/captura.png)

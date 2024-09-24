@@ -59,7 +59,7 @@ The store owner decides if a list will be related to an event. Once the type of 
 
 When **Have an event** is selected, the form offers other configuration options for the event, including all the deadlines for creating this type of list, as shown below.
 
-![eventos.en](//images.ctfassets.net/alneenqid6w5/2ThHmo4PQitWv6EJAoVIdF/7eb8e5c05fee152945b70b3844f63ac0/eventos.en.png)
+![eventos.en](https://images.ctfassets.net/alneenqid6w5/2ThHmo4PQitWv6EJAoVIdF/7eb8e5c05fee152945b70b3844f63ac0/eventos.en.png)
 
 The events area must determine whether a list has a fixed date for the event. Wish lists and purchases lists do not require a fixed date. On the other hand, wedding lists or baby showers must take the date of the event into account, with all the products purchased being delivered in advance.
 

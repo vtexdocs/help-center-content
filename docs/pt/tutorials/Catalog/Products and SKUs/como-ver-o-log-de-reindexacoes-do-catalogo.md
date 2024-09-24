@@ -21,7 +21,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 Na verdade, qualquer ação tomada no Full Clean Up fica registrada nessa página.
 
-![fullcleanupLog](//images.contentful.com/alneenqid6w5/4imYxqJjWwog0UYwCIcWY4/a036d799b6de9d34a2e2f810f3780929/fullcleanupLog.png)
+![fullcleanupLog](https://images.contentful.com/alneenqid6w5/4imYxqJjWwog0UYwCIcWY4/a036d799b6de9d34a2e2f810f3780929/fullcleanupLog.png)
 
 O log apresenta as seguintes informações para cada ação:
 - __Data__: data e horário da ação.

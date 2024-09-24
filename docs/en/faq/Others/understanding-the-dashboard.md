@@ -22,7 +22,7 @@ To access the Dashboard, click on the **License Manager** in the top menu of the
 
 The Dashboard includes 3 charts. In the first chart, you can compare the average loading time of your store (in red) to the average loading time of all other VTEX stores (in blue). See below an example of this chart.
 
-![](//images.contentful.com/alneenqid6w5/2z4iBEY5UEkqcmsa0KEgoi/3d661f25118a2e876d20a565ebfc88f9/dashboard-chart1-560x320.png)
+![](https://images.contentful.com/alneenqid6w5/2z4iBEY5UEkqcmsa0KEgoi/3d661f25118a2e876d20a565ebfc88f9/dashboard-chart1-560x320.png)
 
 Based on this chart, you can notice if a slowness in the system is affecting only your store or all VTEX stores. You will also be able to view whether a potential peak in loading time still persists or if it was just momentary. _It is _also_ important to mention that peaks do not necessarily mean a problem, _since the chart naturally reflects the behavior of your customers and a greater number of accesses at certain times of the day. As time goes by, you will get used to the behavior of your store and be able to distinguish uncommon behaviors.
 

@@ -21,7 +21,7 @@ Com essa feature, será possível categorizar corretamente os seus produtos no M
 
 O mapeamento só será feito uma vez para cada categoria. Isso significa que, já tendo feito o mapeamento uma vez, os novos produtos que forem criados vão ser integrados diretamente na categoria correta (e com suas respectivas variações e atributos).
 
-- [Baixe aqui](//assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx) a __Planilha de Mapeamento do Mercado Livre__ no formato `.xlsx`.
+- [Baixe aqui](https://assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx) a __Planilha de Mapeamento do Mercado Livre__ no formato `.xlsx`.
 
 A mesma planilha será usada nas três macroetapas, descritas a seguir (categorização, variações e atributos). Siga o passo a passo, preenchendo os campos da planilha de mapeamento conforme as indicações abaixo.
 

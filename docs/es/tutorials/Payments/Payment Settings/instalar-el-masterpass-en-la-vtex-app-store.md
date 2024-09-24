@@ -23,7 +23,7 @@ Este artículo tiene el objetivo de mostrar el paso a paso para instalación de 
 
 En primer lugar, en la pantalla **Explorar**, haga clic en la extensión **Masterpass**.
 
-![Extension Store 1](//images.contentful.com/alneenqid6w5/6E480Kd4t2EqimaiKW8cii/ef5ba713601e5bdc4f97ff20133aa354/Extension_Store_1.png)
+![Extension Store 1](https://images.contentful.com/alneenqid6w5/6E480Kd4t2EqimaiKW8cii/ef5ba713601e5bdc4f97ff20133aa354/Extension_Store_1.png)
 
 Usted tendrá, entonces, acceso a la página de detalles de la extensión, en la que se muestra la siguiente información:
 

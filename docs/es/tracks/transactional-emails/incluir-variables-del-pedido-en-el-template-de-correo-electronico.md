@@ -28,7 +28,7 @@ Supongamos que desea ingresar el nombre de la transportadora en el correo electr
 
 Para hacer esto, entre en el template de pedido enviado y, en el campo __JSON Data__, busque la propiedad `courier`.
 
-![EN Incluir variáveis do pedido no template de e-mail - 1](//images.ctfassets.net/alneenqid6w5/3lkYWEKSwjz99oSGDCpapE/a8060a2a2c8dca9887178af7d6c97812/EN_Incluir_vari__veis_do_pedido_no_template_de_e-mail_-_1.png)  
+![EN Incluir variáveis do pedido no template de e-mail - 1](https://images.ctfassets.net/alneenqid6w5/3lkYWEKSwjz99oSGDCpapE/a8060a2a2c8dca9887178af7d6c97812/EN_Incluir_vari__veis_do_pedido_no_template_de_e-mail_-_1.png)  
 
 El valor ingresado para esta propiedad es apenas un ejemplo, pero puede usarlo en el campo __HTML__ para que, cuando se envíe el correo electrónico, el cliente vea la transportadora de hecho responsable de entregar el pedido.
 

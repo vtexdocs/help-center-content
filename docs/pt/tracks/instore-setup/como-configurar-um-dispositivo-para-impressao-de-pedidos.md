@@ -16,7 +16,7 @@ trackSlugPT: instore-setup
 
 Entre as opções oferecidas pela **inStore** ao concluir uma venda, existe uma que permite imprimir o resumo do pedido.
 
-![PT-Venda corfimada](//images.ctfassets.net/alneenqid6w5/4S51lvnSiCJIyH2IiG49Uy/2b3a3dfd3a7248080339e9e4a16efd93/PT-Venda_confirmada.png)
+![PT-Venda corfimada](https://images.ctfassets.net/alneenqid6w5/4S51lvnSiCJIyH2IiG49Uy/2b3a3dfd3a7248080339e9e4a16efd93/PT-Venda_confirmada.png)
 
 Para configurar esta opção, serão necessárias duas pequenas etapas:
   1. Pelo Admin VTEX, ative a opção de configuração do dispositivo no menu inStore

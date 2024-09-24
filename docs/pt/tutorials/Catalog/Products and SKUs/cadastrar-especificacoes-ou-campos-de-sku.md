@@ -41,7 +41,7 @@ Antes de criar especificações, é importante compreender que elas seguem uma l
 
 Exemplo: considere o produto **Camisa Masculina**. Em __Catálogo > Produtos e SKUs > SKU > Especificações__, página ilustrada a seguir, podemos ver que o grupo de especificações chamado **Características** está associado à categoria da camisa. Esse grupo inclui um campo de nome **Cor** e um campo de nome **Tamanho**.
 
-![heranca-especificacoes-sku-pt](//images.ctfassets.net/alneenqid6w5/1KPyqwiasQnbeEhBZ8K5ZJ/559bba5b55428ce03d7f1cda2c943b3a/image5.png)
+![heranca-especificacoes-sku-pt](https://images.ctfassets.net/alneenqid6w5/1KPyqwiasQnbeEhBZ8K5ZJ/559bba5b55428ce03d7f1cda2c943b3a/image5.png)
 
 Por se tratar de uma especificação de SKU, as informações selecionadas nessa página valerão somente para essa variação do produto **Camisa Masculina**. Todos os SKUs cadastrados no produto **Camisa Masculina** e todos os SKUs de produtos da mesma categoria devem ter essas especificações preenchidas também.
 

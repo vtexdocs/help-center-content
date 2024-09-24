@@ -144,7 +144,7 @@ Os Serviços ERP disponibilizam um endpoint para obter o arquivo da etiqueta de 
 5. Com a chave de acesso em maõs, faça uma requisição GET no seu provedor com o endpoint do campo `Endpoint`, substituindo `{vtex_order_id}` pelo ID do pedido na VTEX e utilizando no Header a chave de acesso obtida.
 6. Na resposta dessa requisição, no campo `base64Encoded` a etiqueta será disponibilizada no formato base64.
 
-  ![postman etiquetas shopee](//images.ctfassets.net/alneenqid6w5/fXwvkIp7rguIH22t04rAy/de4a888cd831e0f60917c30f23fb5602/postman_etiquetas_shopee.png)
+  ![postman etiquetas shopee](https://images.ctfassets.net/alneenqid6w5/fXwvkIp7rguIH22t04rAy/de4a888cd831e0f60917c30f23fb5602/postman_etiquetas_shopee.png)
 
 7. Selecione o arquivo no campo `base64Encoded`, copie e use um decodificador de arquivos formato base64 para fazer a conversão no formato do arquivo selecionado no campo `Tipo de etiqueta de envio`.
 8. No final da conversão, a etiqueta estará pronta para ser utilizada.

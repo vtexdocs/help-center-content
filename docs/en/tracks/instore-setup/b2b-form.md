@@ -46,7 +46,7 @@ Examples of how the form with legal entity is presented in inStore:
 
 __B2B Form__ - optional and closed:
 
-![b2b-opcional-fechado](//images.ctfassets.net/alneenqid6w5/5gFb3SBRocc6Gwcm4YusAA/86d15e9f80377edc8bda880c2fda829c/b2b-opcional-fechado.png)
+![b2b-opcional-fechado](https://images.ctfassets.net/alneenqid6w5/5gFb3SBRocc6Gwcm4YusAA/86d15e9f80377edc8bda880c2fda829c/b2b-opcional-fechado.png)
 
 __B2B Form__ - optional and open:
 

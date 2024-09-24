@@ -23,7 +23,7 @@ A seguir, veremos como funciona o fluxo básico de um pagamento com boleto regis
  
 ## Emissão do Boleto
 
-![Frame 2](//images.contentful.com/alneenqid6w5/2CqwPgtFuIkgkkus2y8gg0/69c19ff0cf7116579b3e3b91342189b3/Frame_2.png)
+![Frame 2](https://images.contentful.com/alneenqid6w5/2CqwPgtFuIkgkkus2y8gg0/69c19ff0cf7116579b3e3b91342189b3/Frame_2.png)
 
 1. Seu __e-commerce__ informa ao __Gateway__ que um pedido será pago através de boleto bancário.
 2. O gateway entra em contato com o __Banco__ para realizar o registro do boleto.

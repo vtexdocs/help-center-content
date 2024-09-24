@@ -41,7 +41,7 @@ Te recomendamos que empieces tu búsqueda de errores por el **Catálogo**. Para 
 1. Accede al Admin VTEX y navega hasta **Productos > Catálogo > Gestión de productos y SKU** para verificar los productos registrados en tu tienda.
 2. Busca el producto que deseas mostrar en la lista, tal como se ilustra en la imagen a continuación.
 
-    ![01-produto-es](//images.ctfassets.net/alneenqid6w5/75SkVRup4MW0URypUVayEh/b7bf043742b03bd0ea130f8541a8fbad/01-produto-es.PNG)
+    ![01-produto-es](https://images.ctfassets.net/alneenqid6w5/75SkVRup4MW0URypUVayEh/b7bf043742b03bd0ea130f8541a8fbad/01-produto-es.PNG)
 
 3. Sigue las instrucciones descriptas en las próximas secciones para verificar la información a continuación:
     * [Producto](#producto)

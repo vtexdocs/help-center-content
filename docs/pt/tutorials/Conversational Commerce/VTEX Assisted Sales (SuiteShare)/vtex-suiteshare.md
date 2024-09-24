@@ -19,7 +19,7 @@ Para instalar o script do **VTEX Assisted Sales (SuiteShare)** no seu site, bas
 
 Primeiro, acesse o painel administrativo da VTEX e, no menu à esquerda, siga para: **_CMS -> Layout -> CMS -> Custom Elements._**
 
-![VTEX 1](//images.ctfassets.net/alneenqid6w5/c6LgDxrCW3RPrrYoLcjlH/6e006379d1252dd7b128c914ae4660c8/Screenshot_2022-08-31_at_12-22-28_VTEX.png)
+![VTEX 1](https://images.ctfassets.net/alneenqid6w5/c6LgDxrCW3RPrrYoLcjlH/6e006379d1252dd7b128c914ae4660c8/Screenshot_2022-08-31_at_12-22-28_VTEX.png)
 
 Desça até encontrar a opção “Menu Footer - Primeiro”, ou somente “Menu Footer” caso não exista a divisão, clique em cima da linha para selecioná-la e depois clique em “Update”.
 

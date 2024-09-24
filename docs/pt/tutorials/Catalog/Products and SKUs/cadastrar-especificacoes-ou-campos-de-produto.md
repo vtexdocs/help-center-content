@@ -41,7 +41,7 @@ Antes de criar especificações, é importante compreender que as especificaçõ
 
 Considere o produto **Televisão** como exemplo. Em **Catálogo > Todos os produtos > Alterar > Especificações**, página ilustrada a seguir, podemos ver que o grupo de especificações chamado **Características** está associado à categoria da televisão. Esse grupo inclui um campo de nome **Polegadas** e um campo de nome **Faixa etária**, que são obrigatórios.
 
-![especificacoes-caracteristicas-pt](//images.ctfassets.net/alneenqid6w5/3ZMzwADYCl7QnNomdpGnoH/ac89c8d88e3188da9d6af758d0e6992a/image6.png)
+![especificacoes-caracteristicas-pt](https://images.ctfassets.net/alneenqid6w5/3ZMzwADYCl7QnNomdpGnoH/ac89c8d88e3188da9d6af758d0e6992a/image6.png)
 
 Por se tratar de uma especificação de produto, as informações selecionadas nessa página valerão para todas as variações do produto __Televisão__. Todos os produtos cadastrados na mesma categoria da televisão precisam ter essas especificações preenchidas também, visto que os campos são obrigatórios.
 

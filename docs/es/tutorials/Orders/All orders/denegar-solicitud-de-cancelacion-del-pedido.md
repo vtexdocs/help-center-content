@@ -31,7 +31,7 @@ Para contenido para desarrolladores, consulte [Order canceling improvements](htt
 
 En la siguiente imagen puedes consultar cómo se desarrolla la denegación de las solicitudes de cancelación del pedido, una vez finalizado el periodo de cancelación:
 
-![cancel_api_improvements_help_center_ES_v2](//images.ctfassets.net/alneenqid6w5/68eCO8cFvRz9NsvLaalNMe/716a0f4775bc8418b72578fd1e384130/cancel_api_improvements_help_center_ES_v2.png)
+![cancel_api_improvements_help_center_ES_v2](https://images.ctfassets.net/alneenqid6w5/68eCO8cFvRz9NsvLaalNMe/716a0f4775bc8418b72578fd1e384130/cancel_api_improvements_help_center_ES_v2.png)
 
 La descripción de cada paso es la siguiente:
 

@@ -20,7 +20,7 @@ The functions described in this article are not yet available for all clients.
 
 A pricing rule is a modifier of the base price, registered on the Price List screen.
 
-![new-dashboard-pricing-en](//images.contentful.com/alneenqid6w5/3OrKTf9XKE0WEAw2IW2Mae/696d2244b31a1858f42b48a88af9d780/new-dashboard-pricing-en.gif)
+![new-dashboard-pricing-en](https://images.contentful.com/alneenqid6w5/3OrKTf9XKE0WEAw2IW2Mae/696d2244b31a1858f42b48a88af9d780/new-dashboard-pricing-en.gif)
 
 ## How it works
 

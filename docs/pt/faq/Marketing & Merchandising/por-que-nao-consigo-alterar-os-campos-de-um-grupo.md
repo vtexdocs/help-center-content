@@ -28,7 +28,7 @@ Uma vez localizado o campo, prossiga com as instruções a seguir:
 
 1. Acesse o módulo __Catálogo__
 2. Do lado esquerdo da tela, clique em __Categorias__
-![campos1](//images.ctfassets.net/alneenqid6w5/5BKcfVdzklTK5ZIdPdjvvS/5a4f032447dadfc8a8e7aa129960c6a3/campos1.PNG)
+![campos1](https://images.ctfassets.net/alneenqid6w5/5BKcfVdzklTK5ZIdPdjvvS/5a4f032447dadfc8a8e7aa129960c6a3/campos1.PNG)
 3. Vá até o lado direito da página e clique no botão azul __Ações__
 4. Selecione a opção __Campos (Produto)__
 ![campos2](//images.ctfassets.net/alneenqid6w5/14Ak3SlbVXodLJr17Cd8Nu/00dfd546a9c2297250a1aec6fb74336a/campos2.PNG)

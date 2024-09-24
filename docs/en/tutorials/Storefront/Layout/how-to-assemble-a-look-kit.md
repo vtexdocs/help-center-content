@@ -33,7 +33,7 @@ Differences between kit and kit look:
 
 This term is widely known in the Fashion Segment. A Kit Look is a way through which you can buy several products viewing only one product screen. 
 
-![](//images.contentful.com/alneenqid6w5/2WA6REAMecCaUiSEk2uoC6/999c983b772d8025d86f6ca2d1ebf3e4/kit-look-donadolook-exemplo.gif)
+![](https://images.contentful.com/alneenqid6w5/2WA6REAMecCaUiSEk2uoC6/999c983b772d8025d86f6ca2d1ebf3e4/kit-look-donadolook-exemplo.gif)
 
 In the layout above, it is possible to choose the kit items the customer would like to buy and then click on “Comprar Produtos Selecionados”.
 

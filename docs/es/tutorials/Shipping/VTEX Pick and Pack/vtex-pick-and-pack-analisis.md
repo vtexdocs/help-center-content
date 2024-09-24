@@ -19,7 +19,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 **Análisis** es una página del Admin VTEX que muestra información sobre el desempeño de tu tienda en relación con VTEX Pick and Pack.
 
-![pick-pack-insights-es](//images.ctfassets.net/alneenqid6w5/3C3eQIIJczIaJjRLRpFTFK/acdc7944f550df2f4aef7ed7102deb7a/image.png)
+![pick-pack-insights-es](https://images.ctfassets.net/alneenqid6w5/3C3eQIIJczIaJjRLRpFTFK/acdc7944f550df2f4aef7ed7102deb7a/image.png)
 
 La página presenta las siguientes secciones:
 

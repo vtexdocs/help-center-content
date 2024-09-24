@@ -23,7 +23,7 @@ Por meio da tela de gerenciamento de provedores você pode:
 - [Visualizar provedores cadastrados](#visualizar-provedores-cadastrados)
 - [Editar configurações de provedores](#editar-configuracoes-de-provedores)
 
-![interface_provedor_PT_1](//images.ctfassets.net/alneenqid6w5/6721j5gbs4JkxAFJ9QPQve/d997ea6d0bf7807c1219d307933467e6/interface_provedor_PT_1.JPG)
+![interface_provedor_PT_1](https://images.ctfassets.net/alneenqid6w5/6721j5gbs4JkxAFJ9QPQve/d997ea6d0bf7807c1219d307933467e6/interface_provedor_PT_1.JPG)
 
 ## Cadastrar provedor
 

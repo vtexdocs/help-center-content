@@ -27,7 +27,7 @@ That's where you can register the relation between **[Warehouse](https://help.vt
 
 That's where you can register the set prices and delivery time for a particular ZIP code range, considering cubic weight, dimensions, among other factors.
 
-![tarifas-envioEN](//images.ctfassets.net/alneenqid6w5/6BuxCyz2bujSpqx9Mq0CcZ/217dcd115a91f09f1e2fd9735a1a6326/tarifas_envioEN.png)
+![tarifas-envioEN](https://images.ctfassets.net/alneenqid6w5/6BuxCyz2bujSpqx9Mq0CcZ/217dcd115a91f09f1e2fd9735a1a6326/tarifas_envioEN.png)
 
 - [Shipping rates](https://help.vtex.com/en/tutorial/shipping-rates--1Balpg3rv0854udEPedvMM)
 

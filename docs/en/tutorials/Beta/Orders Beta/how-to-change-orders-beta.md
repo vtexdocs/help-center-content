@@ -87,7 +87,7 @@ To add one or more items to the order, follow these steps:
 2. In the **Pending invoicing** section, click `Change Items`.
 3. On the **Manage order items** page, click the up arrow <i class="fas fa-angle-up"></i> to the number you want, or enter the number in the field. Then, the page will display the price and the previous number with a strikethrough, followed by the message: _"Item edited"_.
 
-    ![change_order_adding_items_EN](//images.ctfassets.net/alneenqid6w5/5dqVuyGULGm5TJH2tliSoO/d1f2ff7078f9a72db8ab25b8dda60e7c/change_order_adding_items_EN.png)
+    ![change_order_adding_items_EN](https://images.ctfassets.net/alneenqid6w5/5dqVuyGULGm5TJH2tliSoO/d1f2ff7078f9a72db8ab25b8dda60e7c/change_order_adding_items_EN.png)
 
 4. Review the [details of the amount change](#viewing-details-of-the-amount-change). You can [undo a change](#undoing-actions) if necessary.
 5. Click `Review and Apply`.

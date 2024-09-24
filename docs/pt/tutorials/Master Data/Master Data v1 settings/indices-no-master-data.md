@@ -55,7 +55,7 @@ Se houver somente um campo configurado como índice, a chave alternativa não va
 
 Por exemplo, a tabela **Cliente** possui duas colunas: **ID** e **Nome**. Para facilitar a busca, o campo **Nome** (`firstName`) pode ser configurado como índice e marcado como **Valores únicos**, conforme ilustrado a seguir:
 
-![indices-1-pt](//images.ctfassets.net/alneenqid6w5/3OsXbib7NQTwtjSzBlvR0a/cde79764d3fe7472eca9db660139a068/indices-1-pt.png)
+![indices-1-pt](https://images.ctfassets.net/alneenqid6w5/3OsXbib7NQTwtjSzBlvR0a/cde79764d3fe7472eca9db660139a068/indices-1-pt.png)
 
 Com isso, não será possível inserir um nome que já tenha sido cadastrado em __Cliente__:
 

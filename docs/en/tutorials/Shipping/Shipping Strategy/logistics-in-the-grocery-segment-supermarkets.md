@@ -27,7 +27,7 @@ Fulfillment is nothing else than the process of analysis of orders, separation (
 
 In most conventional e-commerce operations, we have a warehouse that represents the stock. But, on the majority of grocery operations, this warehouse is not practiced due to perishability, fast detriment of goods (validity) and the wide variety of product mix.
 
-![](//images.contentful.com/alneenqid6w5/5VsYaqLOz6iq2Q6KEGiOIw/ccca0432aef12d539de3d6d9301383df/mapaARMAZEM1.jpg)
+![](https://images.contentful.com/alneenqid6w5/5VsYaqLOz6iq2Q6KEGiOIw/ccca0432aef12d539de3d6d9301383df/mapaARMAZEM1.jpg)
 
 In this context, the existence of a warehouse that represents the stock would demand almost twice of the required space, together with a major order flow before the detriment of the products.
 

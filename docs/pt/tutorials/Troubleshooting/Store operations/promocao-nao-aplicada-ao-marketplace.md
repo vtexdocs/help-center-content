@@ -30,7 +30,7 @@ A [política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-c
 3. Escolha as políticas comerciais desejadas vinculadas aos marketplaces.
 4. Clique em `Salvar`.
 
-![Dados gerais da promoção - PT](//images.ctfassets.net/alneenqid6w5/76vrpI7cmKuOXgErtBGxqO/8d21f4c534aea384c1c50759e950ff4d/Dados_gerais_da_promo__o_-_PT.png)
+![Dados gerais da promoção - PT](https://images.ctfassets.net/alneenqid6w5/76vrpI7cmKuOXgErtBGxqO/8d21f4c534aea384c1c50759e950ff4d/Dados_gerais_da_promo__o_-_PT.png)
 
 ### Seleção de afiliados
 Para garantir que uma promoção seja aplicada corretamente em um marketplace, é necessário selecionar o afiliado desejado. O afiliado é o parceiro associado ao marketplace que disponibiliza os produtos promocionais. A seguir, estão os passos para selecionar corretamente um afiliado na configuração de uma promoção.

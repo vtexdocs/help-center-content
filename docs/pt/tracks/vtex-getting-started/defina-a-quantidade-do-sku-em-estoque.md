@@ -18,7 +18,7 @@ Você já tem um produto associado a uma categoria e a uma marca, tem um SKU par
 
 Para cadastrar o estoque, siga os passos abaixo.
 1. No módulo __Catalog__, passe o mouse sobre __Cadastro de Produtos__, vá até __Produtos e SKUs__ e clique na opção __Cadastro de Produtos e SKUs__.
-2. Na linha do SKU desejado, clique no símbolo de caminhão (você será levado ao módulo Logistics).![SKUstock](//images.contentful.com/alneenqid6w5/5HArBLp1qoq6cyUk8Oc8mO/473c1415e082ee2c644f5ab95f24ff73/SKUstock.png)
+2. Na linha do SKU desejado, clique no símbolo de caminhão (você será levado ao módulo Logistics).![SKUstock](https://images.contentful.com/alneenqid6w5/5HArBLp1qoq6cyUk8Oc8mO/473c1415e082ee2c644f5ab95f24ff73/SKUstock.png)
 
 Você verá uma tabela com informações sobre:
 - O SKU cujo estoque você está editando.

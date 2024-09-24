@@ -23,7 +23,7 @@ The provider management screen allows you to:
 - [View added providers](#viewing-added-providers)
 - [Edit provider settings](#editing-provider-settings)
 
-![interface_provedor_EN_1](//images.ctfassets.net/alneenqid6w5/6721j5gbs4JkxAFJ9QPQve/7a033eb73b124608c07471301501da64/artigo_interface_provedor_EN_1.jpg)
+![interface_provedor_EN_1](https://images.ctfassets.net/alneenqid6w5/6721j5gbs4JkxAFJ9QPQve/7a033eb73b124608c07471301501da64/artigo_interface_provedor_EN_1.jpg)
 
 ## Adding providers
 

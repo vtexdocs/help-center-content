@@ -35,7 +35,7 @@ It creates a configurable element in the part of the code where it is inserted.
 
 It is important to enter an `id` value. It will be the identifier of that placeholder in the system.
 
-![6 1](//images.ctfassets.net/alneenqid6w5/5TcE6FWxp9xwmSl2fQCYMa/bb0a3544af3d95d1d59e9f484ba61984/6_1.png)
+![6 1](https://images.ctfassets.net/alneenqid6w5/5TcE6FWxp9xwmSl2fQCYMa/bb0a3544af3d95d1d59e9f484ba61984/6_1.png)
 
 ### Configuring the placeholder
 

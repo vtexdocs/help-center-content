@@ -33,7 +33,7 @@ Este artigo aborda os seguintes aspectos:
 
 Quando configurado, o lead time é um tempo adicional que compõe o prazo de envio do pedido apresentado ao cliente no checkout. A imagem abaixo apresenta como esse prazo total é composto:
 
-![lead_time_image_total_time_PT](//images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/7aae98aad97be4947233c9ef489f266a/lead_time_image_total_time_PT.png)
+![lead_time_image_total_time_PT](https://images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/7aae98aad97be4947233c9ef489f266a/lead_time_image_total_time_PT.png)
 
 * **Lead time:** quantidade de tempo configurável para o SKU de um estoque. Este período pode corresponder ao tempo de manipulação ou fabricação do item, por exemplo. Essa configuração é opcional e, por padrão, está definida como zero dias.
 * [Tempo de estoque:](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137) tempo que o SKU leva para sair de um estoque para uma [doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). Essa configuração é obrigatória, mas você pode definir o tempo igual a zero.

@@ -28,7 +28,7 @@ Ver estos campos es muy simple. Una vez registrado en el Admin de su tienda, só
 
 1. En la _sidebar_ del Admin, haga clic en __Master Data__;
 
-  ![Carrinho Abandonado - 1 - ES](//images.ctfassets.net/alneenqid6w5/4GdZSkwtm9f76BIVFnC65D/76369f4dd2d1483fe5e4d3a501bc9d53/4GdZSkwtm9f76BIVFnC65D_Masterdata_ES.jpg)
+  ![Carrinho Abandonado - 1 - ES](https://images.ctfassets.net/alneenqid6w5/4GdZSkwtm9f76BIVFnC65D/76369f4dd2d1483fe5e4d3a501bc9d53/4GdZSkwtm9f76BIVFnC65D_Masterdata_ES.jpg)
 
 2. Haga clic en el icono de configuración (engranaje) del __Profile System__.
 

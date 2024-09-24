@@ -19,7 +19,7 @@ Since March 13th, 2020, VTEX IO and VTEX IO Store Framework documentation is no 
 
 The documentation can be accessed in [**VTEX IO Docs**](https://vtex.io/docs), our documentation platform where all content related to both solutions is available. 
 
-![vtex-io-docs](//images.ctfassets.net/alneenqid6w5/3mjm7jrAJybhh11YIBsU7Y/a78b3e5600bc5b7c1dcefcaa5da40fb6/vtex-io-docs.png)
+![vtex-io-docs](https://images.ctfassets.net/alneenqid6w5/3mjm7jrAJybhh11YIBsU7Y/a78b3e5600bc5b7c1dcefcaa5da40fb6/vtex-io-docs.png)
 
 ## Why the change?
 

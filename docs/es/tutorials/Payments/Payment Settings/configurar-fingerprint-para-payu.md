@@ -27,7 +27,7 @@ En este artículo, explicaremos cómo asociar Device Fingerprint con la afiliaci
 
 1. Hacer login en http://www.google.com/tagmanager/ para la tienda que vamos a configurar;
 2. Ingresar al apartado etiquetas (tags) para configurar el device sesión id;
-3. Crear un producto de “HTML Personalizado” como se en la siguiente imagen:![payU 1](//images.contentful.com/alneenqid6w5/8Kc8zBKQFOmwK6G8ekgMa/2a26fa73a709b116cfdf899d4aee7a23/payU_1.png)
+3. Crear un producto de “HTML Personalizado” como se en la siguiente imagen:![payU 1](https://images.contentful.com/alneenqid6w5/8Kc8zBKQFOmwK6G8ekgMa/2a26fa73a709b116cfdf899d4aee7a23/payU_1.png)
 4. En el campo HTML de la configuración debemos pegar el código HTML que manda a llamar el código para mandar la información a PayU:
 
 ```

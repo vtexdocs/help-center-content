@@ -21,7 +21,7 @@ Para saber qual o IP de um cliente que realizou um pedido na sua loja, basta ana
 
 Ao abrir um pedido, clique em __"Ver detalhes da transação"__ na caixa de pagamento:
 
-![ip pedido1 PT](//images.ctfassets.net/alneenqid6w5/6aXWqGSs9OSiaWaG4SYYcI/21acf3d8aa03a1d1133c776b85b76f09/ip_pedido1_PT.png)
+![ip pedido1 PT](https://images.ctfassets.net/alneenqid6w5/6aXWqGSs9OSiaWaG4SYYcI/21acf3d8aa03a1d1133c776b85b76f09/ip_pedido1_PT.png)
 
 O IP pode ser visualizado na parte superior direita:
 

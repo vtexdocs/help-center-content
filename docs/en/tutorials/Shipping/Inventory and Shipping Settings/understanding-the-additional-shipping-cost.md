@@ -29,7 +29,7 @@ There are three possible ways to add a value to the shipping rate: additional c
 
 In this field, a percentage of the product's price must be set, which will then be added to the shipping value.
 
-![adicionalfrete1 EN](//images.ctfassets.net/alneenqid6w5/OqyvMFeOU6OmsMGAMQ2km/ba3c318b0b158ccbccb511863dc7fc57/adicionalfrete1_EN.png)
+![adicionalfrete1 EN](https://images.ctfassets.net/alneenqid6w5/OqyvMFeOU6OmsMGAMQ2km/ba3c318b0b158ccbccb511863dc7fc57/adicionalfrete1_EN.png)
 
 In the example above, the product's price $ 80.00, and the percentage set in the __Additional value__ field is 10%. Therefore, $ 8.00 will be added to the shipping rate. The shipping rate plus this first additional fee results in a $ 18.00 total fee.
 

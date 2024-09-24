@@ -30,7 +30,7 @@ A página apresenta a lista com as promoções cadastradas na sua loja e suas in
 | `Até` | Data de término da promoção. |
 | `Status` | Status da promoção, que pode estar: <p> __Ativa:__ quando a promoção está ativada.</p> <p>__Programada:__ quando a promoção foi programada.</p> <p>__Pausada:__ quando a promoção estiver pausada. <p>__Finalizada:__ quando a promoção foi encerrada.</p> |
 
-![listadepromocoes pt](//images.ctfassets.net/alneenqid6w5/3vT0P63t0Kvm2heipqfpsT/5f4e74dae8d76243d8214588c2db247a/listadepromocoes_pt.gif)
+![listadepromocoes pt](https://images.ctfassets.net/alneenqid6w5/3vT0P63t0Kvm2heipqfpsT/5f4e74dae8d76243d8214588c2db247a/listadepromocoes_pt.gif)
 
 Você pode ordenar a exibição das promoções a partir do nome, das datas ou do status da promoção. Para isso, clique no título da coluna com a informação que você deseja utilizar como critério de ordenação.
 

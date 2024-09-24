@@ -23,7 +23,7 @@ Sea del computador, smartphone, tablet o notebook, el design es el mismo. Lo que
 
 El design de la versión mobile y toda su programación se hace pensando solamente en el mobile, siendo una segunda aplicación, o sea, una para navegadores comunes y otra para navegadores mobile. Al acceder a la tienda, se identifica el dispositivo y se dirige a programación específica.
 
-![Principales pantallas mobile utilizadas](//images.contentful.com/alneenqid6w5/4tOHOVzZO8w6a0mUAuqSk6/770a9f0ff450163bd3e30f32e8e56cd6/RESOLUTION.jpg)
+![Principales pantallas mobile utilizadas](https://images.contentful.com/alneenqid6w5/4tOHOVzZO8w6a0mUAuqSk6/770a9f0ff450163bd3e30f32e8e56cd6/RESOLUTION.jpg)
 
 Principales pantallas mobile utilizadas (puede haber variaciones según el dispositivo utilizado):
 

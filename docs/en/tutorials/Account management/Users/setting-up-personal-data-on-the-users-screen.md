@@ -21,7 +21,7 @@ To access it, follow the steps below:
 
 1. In the top bar of the Admin, in the right corner, click on the button with your initials;
 2. Select the __User Settings__ option.  
-![User Settings option User Management EN](//images.ctfassets.net/alneenqid6w5/t0xviJchq6iWQbtJc1OAX/f3e6f932c1db9f19103b8e0f4679e557/Op____o_Configura____es_de_usu__rio_User_Management_EN.png)
+![User Settings option User Management EN](https://images.ctfassets.net/alneenqid6w5/t0xviJchq6iWQbtJc1OAX/f3e6f932c1db9f19103b8e0f4679e557/Op____o_Configura____es_de_usu__rio_User_Management_EN.png)
 
 There are two menu options:
 

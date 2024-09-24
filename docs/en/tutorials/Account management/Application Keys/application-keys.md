@@ -58,7 +58,7 @@ To create internal app keys in your account, follow the steps below:
 
 	You will be redirected to the **My Keys** page, as shown below. This page lists all [internal app keys](#internal-application-keys).
 
-    ![My Keys](//images.ctfassets.net/alneenqid6w5/1pSqVIzYaiCJO3RkJUoXZQ/1c98224b6f50673c4567f21e22de4978/image3.png)
+    ![My Keys](https://images.ctfassets.net/alneenqid6w5/1pSqVIzYaiCJO3RkJUoXZQ/1c98224b6f50673c4567f21e22de4978/image3.png)
 
     These are the visible fields on the **My Keys** page:
 
@@ -156,4 +156,4 @@ To reactivate external application keys that have previously been deactivated, y
 
 If necessary for a security audit, you can export a CSV file containing the **Key** values for all internal and external app keys that currently have access to your account — that is, that have roles associated with them.
 
-To export the keys, go to _Account settings > Application keys_ and click the <span style="display: inline-block;"><img src="//images.contentful.com/alneenqid6w5/25JqGWNUZPZattDX6ORXX6/742e99e17042024b9cae641564909171/image4.png" alt="export-button"/> <strong>Export</strong></span> button.
+To export the keys, go to _Account settings > Application keys_ and click the <span style="display: inline-block;"><img src="https://images.contentful.com/alneenqid6w5/25JqGWNUZPZattDX6ORXX6/742e99e17042024b9cae641564909171/image4.png" alt="export-button"/> <strong>Export</strong></span> button.

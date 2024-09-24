@@ -28,7 +28,7 @@ Neste artigo, explicaremos como associar o recurso Device Fingerprint à afilia�
 Para inserir os scripts que a Stelo exige para o device fingerprint, é necessário usar o Google Tag Manager. Para isso, faça login na sua conta em [http://www.google.com/tagmanager](http://www.google.com/tagmanager). Depois, siga os passos abaixo:
 
 1. No menu inicial do Google Tag Manager, clique em **Nova tag**
-2. Selecione **Configuração da tag** e escolha o tipo **HTML personalizado**.![Tela1](//images.contentful.com/alneenqid6w5/2VjcP3lQ9aqceC82kgaAU8/68bffad6d79e91e7286c780ac16fffc7/Tela1.jpg)
+2. Selecione **Configuração da tag** e escolha o tipo **HTML personalizado**.![Tela1](https://images.contentful.com/alneenqid6w5/2VjcP3lQ9aqceC82kgaAU8/68bffad6d79e91e7286c780ac16fffc7/Tela1.jpg)
 
 Então insira o script abaixo:
 

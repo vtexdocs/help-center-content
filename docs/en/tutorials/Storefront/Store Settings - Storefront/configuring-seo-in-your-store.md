@@ -35,7 +35,7 @@ In all VTEX IO stores, you can configure these parameters natively by following 
   - **Meta description tag**: Provide a brief description of the page's content. It should be informative and contain relevant keywords.
   - **Meta robots tag**: Specify how search engines should crawl and index a specific page. The default values are `index, follow`. For additional values compatible with Google, see the [list of valid rules](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#directives). 
 
-  ![seo-en](//images.ctfassets.net/alneenqid6w5/4JajNswh0yiVmfWvsPWbEa/b545a83de82a94a5551a222f9b15b5a5/seo-en.png)
+  ![seo-en](https://images.ctfassets.net/alneenqid6w5/4JajNswh0yiVmfWvsPWbEa/b545a83de82a94a5551a222f9b15b5a5/seo-en.png)
 
 ### Favicons
 

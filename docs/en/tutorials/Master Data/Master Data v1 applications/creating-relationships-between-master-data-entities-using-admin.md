@@ -47,7 +47,7 @@ Check out the instructions below for the aforementioned example.
 8. Click the gear icon <i class="fas fa-cog"></i> next to the **Relationship** field to configure it.
 9. Under **Custom field type settings**, select the entity you want to link and the field that will be displayed in the relationship. In this example, the relationship will be with the **Customer** entity, and the **email** field will be displayed.
 
-   ![Relationship entity Shopping List](//images.ctfassets.net/alneenqid6w5/3YjtdLHluQz9ve11TkmylY/353fce7d63dcb871aad6b426723738c7/Lista_Compras_Relacionamento_EN.png)
+   ![Relationship entity Shopping List](https://images.ctfassets.net/alneenqid6w5/3YjtdLHluQz9ve11TkmylY/353fce7d63dcb871aad6b426723738c7/Lista_Compras_Relacionamento_EN.png)
 
 10. Click the `Save` button to save the settings.
 11. Click the publish icon <i class="fas fa-save"></i> to publish the entity.

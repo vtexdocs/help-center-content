@@ -19,7 +19,7 @@ Continuing with the improvements implemented for the [Mercado Libre certificatio
 
 On the new Mercado Libre **Promotions** page, you can manage a list of different promotional campaigns on the platform available for your store.
 
-![Promotions](//images.ctfassets.net/alneenqid6w5/1uv8mQZR9ey8oQsnhDbvCo/eae937e7894481e7f1e555f5a9993c61/Promotions.gif)
+![Promotions](https://images.ctfassets.net/alneenqid6w5/1uv8mQZR9ey8oQsnhDbvCo/eae937e7894481e7f1e555f5a9993c61/Promotions.gif)
 
 ## What has changed?
 

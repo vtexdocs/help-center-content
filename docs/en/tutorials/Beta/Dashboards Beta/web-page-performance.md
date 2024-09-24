@@ -23,7 +23,7 @@ Web Page Performance brings Google's [PageSpeed Insights](https://developers.goo
 
 Although the Web Page Performance dashboard offers the same features as Google's PageSpeed Insights tool, it is only on the VTEX Admin that merchants will be able to add multiple URLs and assess them constantly. 
 
-![Web page performance Dash EN](//images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/83d8891b5441de2d1c4c36b9b4c00317/Screen_Shot_2022-06-29_at_15.49.56.png)
+![Web page performance Dash EN](https://images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/83d8891b5441de2d1c4c36b9b4c00317/Screen_Shot_2022-06-29_at_15.49.56.png)
 
 ## Why should you track a web page's performance?
 

@@ -87,7 +87,7 @@ When talking about frontend implementation, remember that [VTEX IO](https://deve
 
 This means that with VTEX IO, you develop your code locally. However, when it comes to deploying and running the store, VTEX IO manages the infrastructure, CI/CD, and security and takes care of the deployment process. The image below shows how these concepts relate to each other:
 
-![Frontend development architecture](//images.ctfassets.net/alneenqid6w5/70awnhEGvAlpk5NBrGJJJ6/9d5da1e9f3ba8d7fe3f8808a0e8d639e/frontend_image1_EN.png)
+![Frontend development architecture](https://images.ctfassets.net/alneenqid6w5/70awnhEGvAlpk5NBrGJJJ6/9d5da1e9f3ba8d7fe3f8808a0e8d639e/frontend_image1_EN.png)
 
 ### Store Framework main features
 

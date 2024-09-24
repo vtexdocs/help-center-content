@@ -33,7 +33,7 @@ That's why we created Credit Control - so that it's done within the VTEX system,
 
 ## How it works
 
-![Credit Control basic flow](//images.contentful.com/alneenqid6w5/35jUk6EVksKUQi8EaU6caO/2f8f3ddb5ead2d2c9379fc340fb070f9/credit-control-flow_en.gif)
+![Credit Control basic flow](https://images.contentful.com/alneenqid6w5/35jUk6EVksKUQi8EaU6caO/2f8f3ddb5ead2d2c9379fc340fb070f9/credit-control-flow_en.gif)
 *Basic flow of how Credit Control works on VTEX stores.*
 
 Because it was developed in VTEX, Credit Control is fully integrated with the existing SmartCheckout system through its connector - which means that your customers' shopping experience remains the same. Credit Control's admin can be accessed through the main menu of the VTEX modules panel.

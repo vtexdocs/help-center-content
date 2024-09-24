@@ -17,7 +17,7 @@ subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 
 Para recuperar sua senha, acesse o site do [VTEX Assisted Sales (SuiteShare)](https://suiteshare.com) e clique em **Entrar**. 
 
-![Senha_Suitshare_1](//images.ctfassets.net/alneenqid6w5/4tYRuHpLYfRQNao1GV3Tix/dacb5d395c1e04aeaeb9fb438df56b27/Senha_Suitshare_1.png)
+![Senha_Suitshare_1](https://images.ctfassets.net/alneenqid6w5/4tYRuHpLYfRQNao1GV3Tix/dacb5d395c1e04aeaeb9fb438df56b27/Senha_Suitshare_1.png)
 
 Clique em **Esqueci minha senha**.
 

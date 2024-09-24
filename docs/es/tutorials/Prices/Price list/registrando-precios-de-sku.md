@@ -21,7 +21,7 @@ El proceso manual es el más indicado para cuando el operador de la tienda des
 
 ## Registro o alteración manual
 
-![](//images.contentful.com/alneenqid6w5/62eMKlDZ04As4ey46yiOeK/2d689eb25d9945a532d4447ba770649f/Tabela_de_Valores.gif)
+![](https://images.contentful.com/alneenqid6w5/62eMKlDZ04As4ey46yiOeK/2d689eb25d9945a532d4447ba770649f/Tabela_de_Valores.gif)
 
 ### Registrar un valor nuevo
 

@@ -17,7 +17,7 @@ announcementSynopsisPT: 'A nova versão da página de confirmação de pedido j�
 
 No início deste mês divulgamos o lançamento de uma das muitas novidades que a VTEX está desenvolvendo para melhorar ainda mais a experiência do usuário — a nova seção de Meus Pedidos. Hoje lançamos mais uma feature que integra essa seção: a nova versão da página de confirmação de pedido (Order Placed).
 
-![PedidoConfirmado](//images.contentful.com/alneenqid6w5/2Xr5mMmZMs0WAy4i6cK4EC/50c153cf99a137eb55f0d0dbc34ee820/PedidoConfirmado.png)
+![PedidoConfirmado](https://images.contentful.com/alneenqid6w5/2Xr5mMmZMs0WAy4i6cK4EC/50c153cf99a137eb55f0d0dbc34ee820/PedidoConfirmado.png)
 
 Ela agora faz parte do __Checkout Confirmation__, feature responsável pelas páginas de confirmação do Checkout. E traz vantagens importantes para sua loja:
 

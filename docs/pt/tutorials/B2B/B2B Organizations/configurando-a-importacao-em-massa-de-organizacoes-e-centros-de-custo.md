@@ -37,7 +37,7 @@ Veja abaixo como realizar a importação em massa de dados na plataforma VTEX:
 	<li>Após o processo de importação ser concluído, você pode clicar em  Exibir detalhes de importação para acessar o relatório de importação.</li>
 </ol>
 
-![Importação em massa - PT](//images.ctfassets.net/alneenqid6w5/3sWvUytkkonIe01tnvXwpK/5957afd8831ee93e55609e2b55b5b552/Bulk_import_vers_o_original-PT.gif)
+![Importação em massa - PT](https://images.ctfassets.net/alneenqid6w5/3sWvUytkkonIe01tnvXwpK/5957afd8831ee93e55609e2b55b5b552/Bulk_import_vers_o_original-PT.gif)
 
 # Erros de importação
 

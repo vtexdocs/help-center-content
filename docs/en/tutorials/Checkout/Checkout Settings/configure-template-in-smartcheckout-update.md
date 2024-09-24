@@ -35,7 +35,7 @@ The __Checkout__ module in the Admin, displays the sites that are registered for
 
 Creation of the new website:
 
-![en.smartcheckout1](//images.ctfassets.net/alneenqid6w5/3AYhqb6FiwUChorOlxafDS/4d675c4f1310ba14a041f36ee49911ee/en.smartcheckout1.png)
+![en.smartcheckout1](https://images.ctfassets.net/alneenqid6w5/3AYhqb6FiwUChorOlxafDS/4d675c4f1310ba14a041f36ee49911ee/en.smartcheckout1.png)
 
 Account Name Access:
 

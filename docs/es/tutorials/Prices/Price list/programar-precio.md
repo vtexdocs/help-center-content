@@ -56,7 +56,7 @@ También puede hacer la programación de precios importando una plantilla de pre
 
 1. En el Admin VTEX, accede a **Precios > Lista de precios** , o escribe **Lista de precios** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en el ícono 📥 para exportar la plantilla que se rellenará.
-![Agendar preço fixo - ES](//images.contentful.com/alneenqid6w5/71nENEY0RAQO9VKRdlQRiG/815eca5b71065052b89c8411af1a7329/image.png)
+![Agendar preço fixo - ES](https://images.contentful.com/alneenqid6w5/71nENEY0RAQO9VKRdlQRiG/815eca5b71065052b89c8411af1a7329/image.png)
 3. Seleccione solo la opción **Tabla de precios fijos**.
 4. Haga clic en `Exportar 1 tabla`.
 

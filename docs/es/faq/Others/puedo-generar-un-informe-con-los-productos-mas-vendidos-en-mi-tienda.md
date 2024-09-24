@@ -24,7 +24,7 @@ __Para acceder a esta hoja de trabajo, siga los siguientes pasos: __
 2. Haga clic en el icono __filtro__.
 3. Haga una búsqueda __por período__ (recordando que el rango máximo permitido es de hasta 6 meses. En el caso de querer hacer una búsqueda por período de 1 año, por ejemplo, haga la búsqueda 2 veces)
 4. Al regresar a la lista ya filtrada de pedidos, __clique en el icono de exportación .__
-! [ExportacaoOMS] (// images.contentful.com/alneenqid6w5/3pX1xFqvS0uMOEe8OUquci/81e2be7c1948d62a863cfccfc36f18a9/exportacaoOMS.png)
+! [ExportacaoOMS] (https:// images.contentful.com/alneenqid6w5/3pX1xFqvS0uMOEe8OUquci/81e2be7c1948d62a863cfccfc36f18a9/exportacaoOMS.png)
 5. Aparecerá una barra de progreso. Entonces, para finalizar, hay que hacer clic en __Exportar xxx solicitudes a correo electrónico.
 ! [ExportarOMS] (// images.contentful.com/alneenqid6w5/3Z7h82etgIuQcUI6iGsgyk/11bbadc4b3c2174c82844e9125af8e50/ExportarOMS.png)
 

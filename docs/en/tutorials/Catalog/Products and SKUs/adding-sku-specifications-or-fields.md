@@ -41,7 +41,7 @@ Before creating any specifications, it's important to understand that they follo
 
 Example: consider a **Men's shirt** product. In __Catalog > Products and SKUs > SKU > Specifications__, as illustrated in the page below, we can see that the specification group called **Characteristics** is associated with the Shirt category. This group includes a field named **Color** and a field named **Size**.
 
-![heranca-especificacoes-sku-en](//images.ctfassets.net/alneenqid6w5/1KPyqwiasQnbeEhBZ8K5ZJ/1dd8ca5d13bf8f288cac031795bf85ea/sku-specifications-inheritance-en.PNG)
+![heranca-especificacoes-sku-en](https://images.ctfassets.net/alneenqid6w5/1KPyqwiasQnbeEhBZ8K5ZJ/1dd8ca5d13bf8f288cac031795bf85ea/sku-specifications-inheritance-en.PNG)
 
 Since this is an SKU specification, the information selected on that page will apply only to the **Men's Shirt** product variations. All SKUs added to the **Men's Shirt** category and all product SKUs of the same category must also have these specifications filled out.
 

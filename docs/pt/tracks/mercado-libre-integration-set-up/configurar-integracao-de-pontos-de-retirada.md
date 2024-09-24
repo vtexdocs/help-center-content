@@ -20,7 +20,7 @@ Neste artigo, explicaremos como criar pontos de retirada no Mercado Livre, a par
 
 Quando os pedidos que utilizam a opção de retirada em loja chegam à VTEX, são atribuídos à conta franquia que possui o ponto de retirada escolhido pelo cliente e o ponto de retirada terá seu estoque modificado.
 
-![configurar pontosderetirada01 PT](//images.contentful.com/alneenqid6w5/6V2QIEoUaOUIqNLf5Nfrg6/4a10e2e330c1fa333bbd62f34cf6bcc5/configurar_pontosderetirada01_PT.JPG)
+![configurar pontosderetirada01 PT](https://images.contentful.com/alneenqid6w5/6V2QIEoUaOUIqNLf5Nfrg6/4a10e2e330c1fa333bbd62f34cf6bcc5/configurar_pontosderetirada01_PT.JPG)
 
 >ℹ️ Antes de criar os pontos de retirada, você deve solicitar ao Mercado Livre a ativação da modalidade de Retirada em Loja. Para isso, entre em contato com o seu assessor comercial do Mercado Livre ou abra um chamado com o time de [Suporte.](https://developers.mercadolivre.com.br/devcenter/support)
 

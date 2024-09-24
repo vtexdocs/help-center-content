@@ -32,7 +32,7 @@ Para enviar a fatura pelo Admin VTEX, realize os seguintes passos:
 2. Busque o pedido pela barra de busca ou [utilizando os filtros](https://help.vtex.com/pt/tutorial/como-filtrar-pedidos--tutorials_192).  
 3. Clique no pedido desejado.     
 4. Na seção **Itens para faturar,** clique no ícone de seta <i class="fas fa-chevron-right"></i> para expandir.
-![Itens faturar](//images.ctfassets.net/alneenqid6w5/2wScKr5ZaHShpyntCuN0jy/21fe424a4a5bcb066384dc79f99cf953/Itens_faturar__3_.png)
+![Itens faturar](https://images.ctfassets.net/alneenqid6w5/2wScKr5ZaHShpyntCuN0jy/21fe424a4a5bcb066384dc79f99cf953/Itens_faturar__3_.png)
 5. Clique no botão `Faturar`.   
 6. Clique na opção de faturamento desejada:    
     * **Enviar fatura referenciando itens:** para faturar o pedido referenciando os itens do pacote.    

@@ -63,7 +63,7 @@ Nesta aba é possível realizar as seguintes configurações:
 
 A aba Cores permite personalizar as cores do checkout de sua loja, permitindo alterar cores de fundo, botões, texto entre outros. Essa padronização garante uma harmonia visual consistente.
 
-![Cores ](//images.ctfassets.net/alneenqid6w5/4H44wWoSRkxqorAvMIIdtG/73b92d83429b6e2a0d61e2e7c1b4d20e/Cores_-_PT.png)
+![Cores ](https://images.ctfassets.net/alneenqid6w5/4H44wWoSRkxqorAvMIIdtG/73b92d83429b6e2a0d61e2e7c1b4d20e/Cores_-_PT.png)
 
 ## Javascript
 

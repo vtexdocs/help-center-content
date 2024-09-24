@@ -33,7 +33,7 @@ The **Calculated field** was a setting within the [data entity](https://help.vte
 
 This field type and the calculated fields created will no longer be available from June 17, 2024, as illustrated below. 
 
-![image5](//images.ctfassets.net/alneenqid6w5/13NWpWtxQGLFfh0ecW4ZV6/f0f168a3da476c6dfce2d74060569f98/image5.png)
+![image5](https://images.ctfassets.net/alneenqid6w5/13NWpWtxQGLFfh0ecW4ZV6/f0f168a3da476c6dfce2d74060569f98/image5.png)
 
 ### Change field value
 

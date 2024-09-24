@@ -34,7 +34,7 @@ Vea abajo una lista con las clases disponibles para customización:
 
 ### Lista de pedidos
 
-![Página de lista del pedido con clases para customización en destaque](//images.contentful.com/alneenqid6w5/1P5JMzt3jGIAKIOmC4ka4e/d7511d7273f4a957acc6f7e1322a81e6/my-orders-doc-1.png)
+![Página de lista del pedido con clases para customización en destaque](https://images.contentful.com/alneenqid6w5/1P5JMzt3jGIAKIOmC4ka4e/d7511d7273f4a957acc6f7e1322a81e6/my-orders-doc-1.png)
 
 CSS:
 ```

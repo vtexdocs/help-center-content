@@ -31,7 +31,7 @@ Para descobrir como acessar os pedidos que foram considerados na apuração da r
 
 Buscando facilitar sua visualização, todos os pedidos financeiramente aprovados terão essa marcação, que poderá ser vista no módulo gerenciamento de pedidos. 
 
-![image (3)](//images.ctfassets.net/alneenqid6w5/2hl6jNViPdxOaOqF9ZCrt7/ac5af18b2a91c8d3da149eff421991ea/image__3_.png)
+![image (3)](https://images.ctfassets.net/alneenqid6w5/2hl6jNViPdxOaOqF9ZCrt7/ac5af18b2a91c8d3da149eff421991ea/image__3_.png)
 
 Para acessar o módulo, siga os procedimentos abaixo:
 

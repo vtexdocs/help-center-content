@@ -21,7 +21,7 @@ Cuando el usuario realiza una búsqueda en una tienda VTEX utilizando [Intellige
 
 Ejemplo: al buscar en el sitio web de la tienda productos que contengan el término "Pendleton", los resultados de la búsqueda muestran 6 productos. Sin embargo, cuando accedemos al Admin VTEX (__Storefront > Intelligent Search > Explicación de la búsqueda__) e ingresamos el mismo término, se muestran 9 productos.
 
-![Filter_1](//images.ctfassets.net/alneenqid6w5/1bMAcWQEyVXBsUBZQp8H0K/fd5b87b16752fbec8cfaec8258bf22d4/Filter_1.png)
+![Filter_1](https://images.ctfassets.net/alneenqid6w5/1bMAcWQEyVXBsUBZQp8H0K/fd5b87b16752fbec8cfaec8258bf22d4/Filter_1.png)
 
 ![Filter_2](//images.ctfassets.net/alneenqid6w5/5TL7uaMv37zf7AGwohmAKu/d06e5b6d2114ea99424449d66eb3b887/Filter_2.png)
 

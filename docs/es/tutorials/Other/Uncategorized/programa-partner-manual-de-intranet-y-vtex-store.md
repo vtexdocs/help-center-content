@@ -21,7 +21,7 @@ El acceso URL: http://extrato.vtex.com
 
 ## Datos de registro
 Este es el primer paso. En él deberá completar todos los datos de registro de su agencia, los cuales serán replicados en el VTEX STORE.
-![partner intranet 1](//images.contentful.com/alneenqid6w5/6n5cqrsG3uEuqE0w88882M/87f7eb33ae50e6d0783dc1ea5a121aca/partner_intranet_1.png)
+![partner intranet 1](https://images.contentful.com/alneenqid6w5/6n5cqrsG3uEuqE0w88882M/87f7eb33ae50e6d0783dc1ea5a121aca/partner_intranet_1.png)
 
 ### Color del header
 En el primer paso tenemos algunos campos que requieren atención, como por ejemplo el color del header. ¿Dónde se solicita? En el VTEX STORE dentro de la página de su agencia como se muestra a continuación.

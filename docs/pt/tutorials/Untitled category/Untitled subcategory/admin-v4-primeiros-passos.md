@@ -26,7 +26,7 @@ Enquanto ainda estamos migrando as páginas para o Admin v4, você pode encontra
 ## Navegação aprimorada 
 Tudo que você precisa para administrar sua loja VTEX continua disponível no Admin v4, mas agora com uma organização mais simples. Nossos menus de navegação lateral e barra superior foram reformulados do zero, agrupando categorias similares de forma mais clara para reduzir as distrações e ajudar a sua equipe a encontrar o que precisa mais rapidamente. Também é possível utilizar a barra de busca para encontrar seções específicas no menu lateral.
 
-![New Admin Shell](//images.ctfassets.net/alneenqid6w5/4Q4sQVxNy82zlFT2rmqaCo/f5e423ed52f3d468227155b73d74f163/New_Admin_Shell__1_.png)
+![New Admin Shell](https://images.ctfassets.net/alneenqid6w5/4Q4sQVxNy82zlFT2rmqaCo/f5e423ed52f3d468227155b73d74f163/New_Admin_Shell__1_.png)
 
 ### Central de Informações
 É aqui que reunimos todos os links úteis do nosso ecossistema VTEX, para ajudá-lo a aproveitar a nossa plataforma ao máximo. Clicando no botão `?` na barra superior, você pode acessar nosso Help Center, Developer Portal, Status da Plataforma, blog e páginas de suporte.

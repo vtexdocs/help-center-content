@@ -33,7 +33,7 @@ Para obter as credenciais __Chave de aplicação__ e __Token de aplicação__ ne
 
 <blockquote><ui>2. Selecione a conta na qual deseja transacionar pagamentos na VTEX e clique em <b>Aplicar</b>. Guarde o número da conta, pois ele deve ser utilizado no campo <b>Chave de aplicação</b> na seção <a href="#configurar-itau-rede-na-vtex">Configurar Itaú Rede na VTEX</a>.</ui> 
 
-![Itaú Rede_1](//images.ctfassets.net/alneenqid6w5/gooU2CGrEsArx16vHLBAw/af69b2edd0c9361563fa4b624941f2d0/Itau_Rede_1.PNG)
+![Itaú Rede_1](https://images.ctfassets.net/alneenqid6w5/gooU2CGrEsArx16vHLBAw/af69b2edd0c9361563fa4b624941f2d0/Itau_Rede_1.PNG)
 
 <blockquote><ui>3. Após a tela atualizar para a conta desejada, no menu <b>para vender</b>, selecione a opção <b>e-commerce</b>.</ui>
 

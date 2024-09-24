@@ -34,7 +34,7 @@ Follow the steps below to register your Sitemap:
 Go to your store’s Search Console panel: 
 [https://search.google.com/search-console/sitemaps?resource_id=sc-domain%YOURDOMAIN.com&hl=en**]
 
-![Sitemaps](//images.ctfassets.net/alneenqid6w5/5VQWkkJc0TvsouCQ1Pts4e/646f489829a2854caad27ac326de0e2e/Screen_Shot_2019-08-08_at_15.25.23.png_h_250)
+![Sitemaps](https://images.ctfassets.net/alneenqid6w5/5VQWkkJc0TvsouCQ1Pts4e/646f489829a2854caad27ac326de0e2e/Screen_Shot_2019-08-08_at_15.25.23.png_h_250)
 
 Add your new sitemap and click on submit. The Search Console will access the XML and verify it.
  

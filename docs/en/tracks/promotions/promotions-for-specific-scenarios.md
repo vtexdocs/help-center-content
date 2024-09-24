@@ -35,7 +35,7 @@ The promotion configuration screen offers two SKU lists, which can be added manu
 
 You can define a discount value for each of these lists. If, for example, list 1 has a 10% discount and list 2 has a 5% discount, when the cart has at least one product from each of these lists, a total of 10% discount will be granted on the value of the items from list 1 and a 5% discount will be granted on the value of the items from list 2.
 
-![Compre junto - EN](//images.ctfassets.net/alneenqid6w5/5BDhbniC14qWJbV6L8e3Kk/c7fdc229614791d92043d350ca5b1319/Screenshot_2020-06-24_https_lojadobreno_myvtex_com_4_.png)
+![Compre junto - EN](https://images.ctfassets.net/alneenqid6w5/5BDhbniC14qWJbV6L8e3Kk/c7fdc229614791d92043d350ca5b1319/Screenshot_2020-06-24_https_lojadobreno_myvtex_com_4_.png)
 
 Two examples of this type of promotion would be "Buy a pair of pants and get 10% off when buying a belt" and "Buy a pair of sneakers + a pair of socks and get a 15% off".
 

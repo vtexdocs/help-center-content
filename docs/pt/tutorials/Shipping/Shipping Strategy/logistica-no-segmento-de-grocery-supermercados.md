@@ -27,7 +27,7 @@ O fulfillment nada mais é do que o processo da análise dos pedidos, separaçã
 
 Na maioria das operações convencionais de e-commerce, temos um armazém que representa o estoque. Já na maioria das operações de grocery, esse armazém não é praticado devido à perecibilidade, rápido detrimento das mercadorias (validade) e a grande variedade do mix de produtos.
 
-![](//images.contentful.com/alneenqid6w5/5VsYaqLOz6iq2Q6KEGiOIw/ccca0432aef12d539de3d6d9301383df/mapaARMAZEM1.jpg)
+![](https://images.contentful.com/alneenqid6w5/5VsYaqLOz6iq2Q6KEGiOIw/ccca0432aef12d539de3d6d9301383df/mapaARMAZEM1.jpg)
 
 Neste contexto, para a existência de um armazém que represente o estoque é praticamente necessário o dobro do espaço físico e um grande fluxo de pedidos para escoamento antes do detrimento dos produtos.
 Para evitar esta custosa e complexa operação, os grocerys de modo geral, utilizam os próprios pdvs como fonte de estoque, ou seja, os produtos que estão nas gôndolas são os produtos que alimentam o estoque da loja virtual. 

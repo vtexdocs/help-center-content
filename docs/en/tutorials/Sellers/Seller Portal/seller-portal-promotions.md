@@ -17,7 +17,7 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 
 The **Promotions** page in the Seller Portal allows you to view and manage the complete list of existing promotions, streamlining seller promotion management. Go to **Promotions > Promotions** in the VTEX Admin to access the page.
 
-![seller-portal-promo-en](//images.ctfassets.net/alneenqid6w5/266zLPS2IkGekYdMOz27Pz/9bef7119b64fec9b074b7f20f6659985/image.png)
+![seller-portal-promo-en](https://images.ctfassets.net/alneenqid6w5/266zLPS2IkGekYdMOz27Pz/9bef7119b64fec9b074b7f20f6659985/image.png)
 
 From the promotion list in the Seller Portal, you can do the following:
 

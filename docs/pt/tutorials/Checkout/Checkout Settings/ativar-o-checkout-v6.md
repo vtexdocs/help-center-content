@@ -28,7 +28,7 @@ Para atualizar o checkout da sua loja para a versão mais recente (Checkout v6),
 5. Clique em __Salvar__. 
 6. [Acesse sua loja em ambiente beta](https://help.vtex.com/pt/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu) e realize os ajustes de estilo necessários. O Checkout v6 possui novas classes _CSS_ que devem ser levadas em consideração para customização do estilo.
 
-![Checkoutv6_box](//images.ctfassets.net/alneenqid6w5/9hAJfi1LLwpFlcB5iWA3k/a1d6c6ab5e38fd7398ebc47b7ae32aa1/CheckoutV6_box_PT.png)
+![Checkoutv6_box](https://images.ctfassets.net/alneenqid6w5/9hAJfi1LLwpFlcB5iWA3k/a1d6c6ab5e38fd7398ebc47b7ae32aa1/CheckoutV6_box_PT.png)
 
 ## Ativar o Checkout v6 em Ambiente de Produção
 

@@ -42,7 +42,7 @@ The form for creating or editing a coupon has the following fields:
 
 The top dashboard of the form for creating and editing coupons indicates the number of times a coupon has been used, the number of remaining uses of that coupon, and the number of promotions associated with the coupon, as illustrated below.
 
-![create-coupon-1](//images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/12a3cfbee85e20584d8f110a419c6cfe/create-coupon-1.png)
+![create-coupon-1](https://images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/12a3cfbee85e20584d8f110a419c6cfe/create-coupon-1.png)
 
 By clicking on the information on the dashboard, you may access the modal **View usage details**, which displays the following details.
 

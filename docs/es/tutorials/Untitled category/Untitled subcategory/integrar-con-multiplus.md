@@ -28,7 +28,7 @@ Una alternativa para los pasos precedentes es acceder al panel de configuración
 
 Sustituya {NOMBREDELATIENDA} por el Account Name de su tienda.
 
-![Multiplus1](//images.contentful.com/alneenqid6w5/2NxVrnsnZCOuQOqEOIusOq/d5cd381241a842c29e81763ea6f8f506/Multiplus1.png)
+![Multiplus1](https://images.contentful.com/alneenqid6w5/2NxVrnsnZCOuQOqEOIusOq/d5cd381241a842c29e81763ea6f8f506/Multiplus1.png)
 
 Tras hacer clic en **Integrar**, se abrirá un formulario con algunos campos a llenar. Preste atención a los campos obligatorios: son aquéllos en los que aparece un “\*” al lado de la caja de texto.
 

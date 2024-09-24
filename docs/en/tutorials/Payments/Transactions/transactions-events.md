@@ -31,7 +31,7 @@ Below are examples of where to find the most common information to analyze the s
 
 In this event, we see that VTEX began the authorization process with the payment gateway and sent the response that the operation may begin:
 
-![transação-autorizando](//images.contentful.com/alneenqid6w5/2czvz4AZkECkCoC2CCmOME/92b9272bc3cf7302b3f51a69010591bf/transaccion-autorizada-aprobada.png)
+![transação-autorizando](https://images.contentful.com/alneenqid6w5/2czvz4AZkECkCoC2CCmOME/92b9272bc3cf7302b3f51a69010591bf/transaccion-autorizada-aprobada.png)
 
 
 ## Transaction authorized and approved

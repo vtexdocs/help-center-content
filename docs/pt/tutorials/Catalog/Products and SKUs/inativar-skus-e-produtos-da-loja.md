@@ -25,4 +25,4 @@ Para inativar o SKU de um produto, siga os passos abaixo:
 4. Clique no SKU que você deseja inativar.
 5. Desmarque a opção __Ativar o SKU se possível__.
 
-![inativarSKU](//images.contentful.com/alneenqid6w5/4On7ZXJXPyAUqqy2GaGEuu/04ebceeab81b47272be45f16679c7597/inativarSKU.png)
+![inativarSKU](https://images.contentful.com/alneenqid6w5/4On7ZXJXPyAUqqy2GaGEuu/04ebceeab81b47272be45f16679c7597/inativarSKU.png)

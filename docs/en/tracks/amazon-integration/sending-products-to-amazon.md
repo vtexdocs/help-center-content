@@ -38,7 +38,7 @@ This list includes icons to indicate the status of your mapping:
 
 | **Icon** | **Status**| **Description**|
 |:---:|:---:|:---:|
-|![mapeado mapper](//images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/94a47adb24232c9a88da68e951edfad4/mapeado_mapper.jpg)| **Mapped** |Indicates that the category mapping was completed.|
+|![mapeado mapper](https://images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/94a47adb24232c9a88da68e951edfad4/mapeado_mapper.jpg)| **Mapped** |Indicates that the category mapping was completed.|
 |![mapeamentoincompleto mapper](//images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/5c707e0427e064603b127ecffba75970/mapeamentoincompleto_mapper.jpg) | **Incomplete mapping** |The category is partially mapped.The required attributes, indicated by an asterisk, need to be added for completing the mapping. |
 |![erromapeamento mapper](//images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/f84c40b49563dacdf2f96c5ac20ad65e/erromapeamento_mapper.jpg) | **Error in mapping** |The mapping error occurs when the marketplace removes or changes the product category. To solve this, simply remap the category. |
 |![incompleto mapper](//images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/5c2bb3c9fd5f5d131b9a2e153d7857d0/incompleto_mapper.jpg) | **Not mapped** | Indicates that the category was not mapped. |  

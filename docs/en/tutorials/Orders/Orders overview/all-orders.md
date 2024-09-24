@@ -26,7 +26,7 @@ The **All Orders** page allows retailers to track their store's orders and extra
 
 The following sections provide more details about each page component and its actions.
 
-![Order Listing EN](//images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/e39aa9ff8eab7e0a031c2d7464dc2e87/Order_Listing_EN.gif)
+![Order Listing EN](https://images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/e39aa9ff8eab7e0a031c2d7464dc2e87/Order_Listing_EN.gif)
 
 Besides searching for orders in **Orders > All Orders**, you can search for orders from any page in the VTEX Admin using the global search bar at the top bar. By default, the search is configured as `Pages`. To search for an order, click on the bar, select `Orders`, and use one of the following criteria:
 

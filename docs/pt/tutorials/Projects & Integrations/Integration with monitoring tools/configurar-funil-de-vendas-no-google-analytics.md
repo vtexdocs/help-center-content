@@ -23,7 +23,7 @@ Com o funil de vendas configurado, é possível acompanhar e analisar os passos 
 
 Para configuração manual ou edição de uma meta já existente, o primeiro passo é acessar o Analytics e clicar no botão __Administrador__ no canto inferior esquerdo. Em seguida, ir na opção __Metas__, da coluna "Vista".
 
-![image](//images.ctfassets.net/alneenqid6w5/1br6W1yFRuMWoO2wW8Iu04/de2c4c8938a856821b25fde18b2632a7/image.png)
+![image](https://images.ctfassets.net/alneenqid6w5/1br6W1yFRuMWoO2wW8Iu04/de2c4c8938a856821b25fde18b2632a7/image.png)
 
 Na tela de administração de metas, opte por criar uma nova ou editar uma já existente.
 

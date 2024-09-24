@@ -19,7 +19,7 @@ Cada vez que se envía a Amazon un [SKU](https://help.vtex.com/es/tracks/catalog
 
 El EAN registrado en VTEX se utiliza para hacer la equivalencia con los [ASIN](https://afiliados.amazon.com.mx/) (*Amazon Standard Identification Number, o número de identificación estándar de Amazon*) correspondientes en Amazon. Para hacer el emparejamiento entre EAN y ASIN, es necesario realizar el matching manualmente. La correspondencia entre EAN y ASIN debe ser exacta para que los anuncios se vinculen correctamente.  
 
-![Presentación match de anuncios](//images.ctfassets.net/alneenqid6w5/3SrhTyS3Cpy2xxWvEA3M88/4c1f3a16c14e3201bd0724e0c6907cad/Match-an__ncios-Amazon.gif)
+![Presentación match de anuncios](https://images.ctfassets.net/alneenqid6w5/3SrhTyS3Cpy2xxWvEA3M88/4c1f3a16c14e3201bd0724e0c6907cad/Match-an__ncios-Amazon.gif)
 
 ## Pestaña Oportunidad  
 

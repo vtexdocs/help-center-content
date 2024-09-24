@@ -42,7 +42,7 @@ Outra vantagem para o gestor da loja é o aumento de conversão, resultado dessa
 
 Essa seção exibe os termos mais buscados por outros clientes dentro do site.
 
-![PT - Autocomplete termos mais pesquisados](//images.ctfassets.net/alneenqid6w5/6gBULnYzroBY96Ler918qJ/de1f57f6942d1c1ec554246917f524a0/PT_-_Autocomplete_termos_mais_pesquisados.png)
+![PT - Autocomplete termos mais pesquisados](https://images.ctfassets.net/alneenqid6w5/6gBULnYzroBY96Ler918qJ/de1f57f6942d1c1ec554246917f524a0/PT_-_Autocomplete_termos_mais_pesquisados.png)
 
 ## Últimas buscas efetuadas
 

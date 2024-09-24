@@ -37,7 +37,7 @@ A melhoria do sistema de assinaturas também trouxe novas funcionalidades para o
 #### Novo detalhamento de assinaturas 
 A nossa página de detalhamento de assinatura foi remodelada pensando em melhorar a experiência do consumidor ao reduzir o tempo para localizar informações e realizar tarefas. Além disso, contamos com a nova funcionalidade de adicionar itens a uma assinatura existente.
 
-![img1 subscriptions PT](//images.ctfassets.net/alneenqid6w5/YTLE4SVoIbfDCdH9BK97s/0578726c45d942f7960c7e3999649627/img1_subscriptions_PT.png)
+![img1 subscriptions PT](https://images.ctfassets.net/alneenqid6w5/YTLE4SVoIbfDCdH9BK97s/0578726c45d942f7960c7e3999649627/img1_subscriptions_PT.png)
 
 #### Barra de ações
 Adicionamos uma barra de ações para melhorar a comunicação com o usuário sobre o que precisa ser feito ou comunicar eventos importantes sobre a sua assinatura.

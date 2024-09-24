@@ -33,7 +33,7 @@ No Admin, você tem flexibilidade para personalizar a tipografia da sua loja de 
 
 5. No campo **Família de fontes**, crie um nome para a fonte.
 
-    ![familia-de-fontes-giff-pt](//images.ctfassets.net/alneenqid6w5/5GVDDJvzXVmlkEbU1OHPoR/d3a05b339370de4be136cc16685a0a99/familia-de-fontes-giff-pt.gif)
+    ![familia-de-fontes-giff-pt](https://images.ctfassets.net/alneenqid6w5/5GVDDJvzXVmlkEbU1OHPoR/d3a05b339370de4be136cc16685a0a99/familia-de-fontes-giff-pt.gif)
 
 6. Clique em **Enviar** para fazer o upload do arquivo da fonte desejada.
 

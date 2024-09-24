@@ -43,7 +43,7 @@ To create a price divergence rule, follow the steps below:
 
 You will see the following screen:
 
-![print_01_EN](//images.ctfassets.net/alneenqid6w5/6lp2IKdU8VvaFgOUhHv5GA/fa9641527537c42b23341371afd4952c/print_01_EN.png)
+![print_01_EN](https://images.ctfassets.net/alneenqid6w5/6lp2IKdU8VvaFgOUhHv5GA/fa9641527537c42b23341371afd4952c/print_01_EN.png)
 
 The **All** tab displays all configured authorization rules.
 

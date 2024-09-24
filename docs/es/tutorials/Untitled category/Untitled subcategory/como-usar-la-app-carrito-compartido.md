@@ -17,7 +17,7 @@ subcategoryId: unknown-subcategory
 
 La app [Carrito Compartible](https://apps.vtex.com/vtex-social-selling/p) permite a los vendedores seleccionar productos para sus clientes y compartir el carrito lleno por canales como WhatsApp, Facebook Messenger y correo electrónico (Social Selling).
 
-![Shareable Cart Demo](//images.ctfassets.net/alneenqid6w5/sf2zbYOG7janUXWbgkajd/93aa5f4ea002c5877a9620722af67890/Jy98kJ.gif)
+![Shareable Cart Demo](https://images.ctfassets.net/alneenqid6w5/sf2zbYOG7janUXWbgkajd/93aa5f4ea002c5877a9620722af67890/Jy98kJ.gif)
 
 Este artículo explica todos los pasos para utilizar esta funcionalidad: activar app, elegir los productos, agregar el código del vendedor, compartir y crear un nuevo carrito. Antes de comenzar, tienes que [activar esta funcionalidad en su tienda](https://help.vtex.com/es/tutorial/como-ativar-o-app-carrinho-compartilhavel--1lS3fQdXpOoC0BTeVhydfg).
 

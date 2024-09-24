@@ -25,7 +25,7 @@ Realizadas las debidas definiciones, se hace el vínculo de la colección con la
 
 En el ejemplo abajo, vamos a definir la vitrina presentada en la Home. Por lo tanto, seleccione **Settings**, luego **add object**, como en la siguiente imagen.
 
-![coleção2](//images.ctfassets.net/alneenqid6w5/5JzAgUQ2NU4oIM88Kqm8AW/a4d8c175710d8542dc0099cd16c5168d/cole____o2.png)
+![coleção2](https://images.ctfassets.net/alneenqid6w5/5JzAgUQ2NU4oIM88Kqm8AW/a4d8c175710d8542dc0099cd16c5168d/cole____o2.png)
 
 Este comando abrirá **Visual Controls**, que corresponden al escaparate en el que desea mostrar la colección. Agregue una _Collection_, pero asegúrese de establecer un nombre para ella.
 

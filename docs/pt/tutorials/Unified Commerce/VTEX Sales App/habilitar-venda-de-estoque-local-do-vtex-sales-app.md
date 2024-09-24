@@ -71,7 +71,7 @@ Para garantir que os vendedores da sua loja física tenham acesso correto ao est
 Para isso, escolha um vendedor cadastrado na loja em que deseja testar a Venda em Mãos e siga os passos descritos abaixo. 
 
 1. Com [o registro do vendedor escolhido](https://help.vtex.com/pt/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), acesse a aplicação do VTEX Sales App e faça o login.
-![instore-login-pt](//images.ctfassets.net/alneenqid6w5/5vKzjuYAYKGIVZz5aOyuPV/9049d57cf49ca1e753b69896ea5f348f/image.png)
+![instore-login-pt](https://images.ctfassets.net/alneenqid6w5/5vKzjuYAYKGIVZz5aOyuPV/9049d57cf49ca1e753b69896ea5f348f/image.png)
 2. Busque por um item que existe no estoque da conta franquia cadastrado. Este item deverá estar exibindo a quantidade disponível correspondente ao inventário do seller.
 ![instore-pdp-pt](//images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/861791e5b4f8f2304ae1a5a7ae577ad8/image.png)
 

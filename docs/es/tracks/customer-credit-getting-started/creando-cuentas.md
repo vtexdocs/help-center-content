@@ -36,7 +36,7 @@ Para registrar un nuevo cliente en Customer Credit, siga los pasos a continuaci�
 
 A partir de este momento, la nueva cuenta creada se mostrará en la pantalla __Cuentas__.
 
-![CC_nueva_cuenta_1_ES](//images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/137feed49de06cbae706252e4d6ef813/CC_nueva_cuenta_1_ES.JPG)
+![CC_nueva_cuenta_1_ES](https://images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/137feed49de06cbae706252e4d6ef813/CC_nueva_cuenta_1_ES.JPG)
 
 ## Crear varias cuentas (importación masiva)
 

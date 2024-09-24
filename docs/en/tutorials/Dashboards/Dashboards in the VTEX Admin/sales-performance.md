@@ -26,7 +26,7 @@ To access the page, go to __Dashboards__ and click on __Sales performance__.
 
 You can customize the view of chart and list data by filtering by period, dimensions and metrics.
 
-![Sales Perf Dash EN](//images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/2e794d37d8b2afe1d2d2b89d805ae736/Sales_Perf_Dash_EN.gif)
+![Sales Perf Dash EN](https://images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/2e794d37d8b2afe1d2d2b89d805ae736/Sales_Perf_Dash_EN.gif)
 
 ## Data 
 

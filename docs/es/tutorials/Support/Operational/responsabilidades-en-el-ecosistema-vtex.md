@@ -30,7 +30,7 @@ Durante la configuración inicial de VTEX, si tu tienda utiliza [integraciones e
 
 Después de configurar la integración de productos, precios y stock, así como de desarrollar el middleware, el flujo de información se dará como se ilustra en el diagrama a continuación.
 
-![back-office-en](//images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/0a0be8f8112538def94277ec0e3f176a/integracoes-es-1.PNG)
+![back-office-en](https://images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/0a0be8f8112538def94277ec0e3f176a/integracoes-es-1.PNG)
 
 Durante las operaciones rutinarias, las responsabilidades se dividen de la siguiente manera:
 

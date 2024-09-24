@@ -25,7 +25,7 @@ Neste artigo, você encontrará o principal método para entrada dos pedidos rec
 
 A integração de um pedido compreende quatro momentos distintos, cada um deles sendo um pequeno processo por si só.
 
-![ERP Orders 1](//images.contentful.com/alneenqid6w5/7MtCGP7jpKOO2gKa8muGwO/481c6346e0d216f1cbe0588dc79eb617/ERP_Orders_1.png) 
+![ERP Orders 1](https://images.contentful.com/alneenqid6w5/7MtCGP7jpKOO2gKa8muGwO/481c6346e0d216f1cbe0588dc79eb617/ERP_Orders_1.png) 
 
 ## Download de pedido
 

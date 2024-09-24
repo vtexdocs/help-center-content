@@ -19,7 +19,7 @@ announcementSynopsisEN: 'Possibility to limit user access to the Settings screen
 
 Seeking to ensure greater safety, we created the possibility to limit user access to the **Settings** screen on the Orders Management module, allowing information to be edited by selected users only. 
 
-![2019-06-07 17 24 10-Settings.en](//images.ctfassets.net/alneenqid6w5/6YfxLgI43YD5FwrXu92j2A/aca4f546516816fabd42f25a39450a6d/2019-06-07_17_24_10-Settings.en.png)
+![2019-06-07 17 24 10-Settings.en](https://images.ctfassets.net/alneenqid6w5/6YfxLgI43YD5FwrXu92j2A/aca4f546516816fabd42f25a39450a6d/2019-06-07_17_24_10-Settings.en.png)
 
 ## Main Advantages 
 

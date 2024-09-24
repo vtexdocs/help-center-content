@@ -67,7 +67,7 @@ Siga o passo a passo abaixo para criar um lançamento:
 
 8. Clique em `Criar`.
 
-![print_cms_paginas_pt](//images.ctfassets.net/alneenqid6w5/qAAAv5fblHtY8C930fegs/10a16411a1e4d6ac49fcdf0e5729c88b/print_cms_paginas.png)
+![print_cms_paginas_pt](https://images.ctfassets.net/alneenqid6w5/qAAAv5fblHtY8C930fegs/10a16411a1e4d6ac49fcdf0e5729c88b/print_cms_paginas.png)
 
 ### Criar usando o módulo Lançamentos
 

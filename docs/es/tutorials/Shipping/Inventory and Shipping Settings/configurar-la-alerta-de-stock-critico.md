@@ -23,7 +23,7 @@ La alerta de inventario crítico es una funcionalidad de logística que tiene el
 2. En **Configuración**, rellena lo campo de **Alerta de inventario crítico**.  
 3. Haga clic en **Salvar**.
 
-![alerta-estoque-critico es](//images.ctfassets.net/alneenqid6w5/3sIAJKB8AogSyQeEqYokCe/f696e3e2cc5ab214eeda18b7ce5f7098/alerta-estoque-critico_es.png)
+![alerta-estoque-critico es](https://images.ctfassets.net/alneenqid6w5/3sIAJKB8AogSyQeEqYokCe/f696e3e2cc5ab214eeda18b7ce5f7098/alerta-estoque-critico_es.png)
 
 Como usted puede ver por la imagen, ella puede ser marcada con flecha por cantidad de ítems o por porcentual.
 

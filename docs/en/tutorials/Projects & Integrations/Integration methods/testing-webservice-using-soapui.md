@@ -35,7 +35,7 @@ The step-by-step utilization is as follows:
  
 Substitute the value {STORENAME} with the name of your store.
 
-![](//images.contentful.com/alneenqid6w5/WMZnCJCLg2WGSIesMOMKu/efed51a5c0e151d1ac1f7902600e522a/1.png)
+![](https://images.contentful.com/alneenqid6w5/WMZnCJCLg2WGSIesMOMKu/efed51a5c0e151d1ac1f7902600e522a/1.png)
 
 Log in using the data of the webservice desired. After logging in, you will view all the methods to be found in the [Web Service manual](/en/tutorial/manual-of-classes-and-methods-used-on-webservice/)
 

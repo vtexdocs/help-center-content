@@ -32,7 +32,7 @@ Nesse artigo você pode explorar os seguintes tópicos:
 - [**Tipos de oportunidades**](#tipos-de-oportunidades)  
 - [**Analisar oportunidade**](#analisar-oportunidade)  
 
-![overview-match-meli-pt](//images.ctfassets.net/alneenqid6w5/7hIgYNJ31ttYzsgyufAnbc/98eaea28746fa7360360d3dc6faa31c3/overview-match-meli-pt.png)
+![overview-match-meli-pt](https://images.ctfassets.net/alneenqid6w5/7hIgYNJ31ttYzsgyufAnbc/98eaea28746fa7360360d3dc6faa31c3/overview-match-meli-pt.png)
 
 ## Estrutura da página
 A página **Match de anúncios Mercado Livre** é composta por duas abas, [Oportunidades](#aba-oportunidades) e [catálogos ativos](#aba-anuncios-vinculados). Veja a seguir quais as informações e dados disponíveis em cada uma.

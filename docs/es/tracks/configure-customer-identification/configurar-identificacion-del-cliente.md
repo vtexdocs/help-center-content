@@ -26,7 +26,7 @@ Para elegir qué métodos de identificación desea habilitar, acceda al panel ad
 
 En el cuadro __Inicio de sesión del cliente__, usted debe seleccionar los métodos de identificación que desea habilitar.
 
-![21. Configure client identification - 1 - ES.png?h=250](//images.ctfassets.net/alneenqid6w5/4efcT1xJ2naRxi5pUykS1M/4f9e6cd6f793a6126e956cbd023863e4/21._Configure_client_identification_-_1_-_ES.png_h_250)
+![21. Configure client identification - 1 - ES.png?h=250](https://images.ctfassets.net/alneenqid6w5/4efcT1xJ2naRxi5pUykS1M/4f9e6cd6f793a6126e956cbd023863e4/21._Configure_client_identification_-_1_-_ES.png_h_250)
 
 También puede cambiar el orden de estos métodos. Para hacer esto, arrástrelos como se muestra en la imagen a continuación. El orden de los métodos definidos en esta pantalla determina el orden en que aparecerán para el vendedor en la aplicación. Por lo tanto, el primer método será el predeterminado.
 

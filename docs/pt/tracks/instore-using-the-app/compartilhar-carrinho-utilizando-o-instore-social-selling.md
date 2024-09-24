@@ -37,7 +37,7 @@ Essa opção possibilita compartilhar um carrinho preenchido com um ou mais clie
 
 Veja o passo a passo ilustrado a seguir.
 
-![socialselling-sugestaocarrinho-pt](//images.ctfassets.net/alneenqid6w5/4UJM2FglGqcJGdFJqZ9AQg/e0ce46b332549816ac9ff81a99d39879/socialselling-sugestaocarrinho-pt.gif)
+![socialselling-sugestaocarrinho-pt](https://images.ctfassets.net/alneenqid6w5/4UJM2FglGqcJGdFJqZ9AQg/e0ce46b332549816ac9ff81a99d39879/socialselling-sugestaocarrinho-pt.gif)
 
 O vendedor pode enviar o mesmo link para vários clientes, quantas vezes desejar. Cada vez que uma pessoa acessar esse link, um novo carrinho será gerado, exatamente igual ao criado no inStore. Cada carrinho acessado também fica associado à conta do vendedor e, se houver, ao código do vendedor.
 

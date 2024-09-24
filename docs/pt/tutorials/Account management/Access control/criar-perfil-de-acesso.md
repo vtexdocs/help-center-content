@@ -43,7 +43,7 @@ Para começar a utilizar um perfil de acesso predefinido, siga as instruções a
 
     Por exemplo, o perfil **Call center operator** contém um recurso do produto _Catálogo_ que permite executar operações numa loja em nome de um cliente e um recurso do _OMS_ que permite checar o status de um pedido:
 
-    ![Novo perfil de acesso](//images.ctfassets.net/alneenqid6w5/5biL3DriciSnHKbgHvV2PE/1fe552a5c15c7c3dee8d54c88a60fafc/image_3.png)
+    ![Novo perfil de acesso](https://images.ctfassets.net/alneenqid6w5/5biL3DriciSnHKbgHvV2PE/1fe552a5c15c7c3dee8d54c88a60fafc/image_3.png)
 
     Saiba mais sobre os perfis predefinidos disponíveis e os recursos associados em [Perfis de acesso predefinidos](https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy).
 

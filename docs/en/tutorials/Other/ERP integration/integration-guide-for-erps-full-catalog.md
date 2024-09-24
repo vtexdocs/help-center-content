@@ -19,7 +19,7 @@ subcategoryId: 5fKgQZhrCw88ACy6Su6GUc
 
 This document is intended to assist on the catalog integration (department, category, brand, images, fields, field values, SKUs activation) of the ERP for a store hosted in VTEX. In this type of integration most of the store's management is ERP.
 
-![ERParchitecture](//images.ctfassets.net/alneenqid6w5/zUnuBAtUoo6CQcmCwkoEs/91110c5c16af13c0b9c4fa56f1a8d70b/ERParchitecture.png)
+![ERParchitecture](https://images.ctfassets.net/alneenqid6w5/zUnuBAtUoo6CQcmCwkoEs/91110c5c16af13c0b9c4fa56f1a8d70b/ERParchitecture.png)
 
 In this scenario of complete flow, most of product data and SKUs are handled through the ERP (brand, images, category, activation, etc). The handling of specification fields in this model can be done through REST API, but the best practice would be for the VTEX admin.
 

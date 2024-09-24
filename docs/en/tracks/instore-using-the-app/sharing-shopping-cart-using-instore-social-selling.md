@@ -37,7 +37,7 @@ This option allows sales associates to share shopping carts ready for purchase w
 
 See the step-by-step instructions illustrated below.
 
-![socialselling-sugestaocarrinho-en](//images.ctfassets.net/alneenqid6w5/4UJM2FglGqcJGdFJqZ9AQg/66a5a405d1c213ebe66d798799e972ef/socialselling-sugestaocarrinho-en.gif)
+![socialselling-sugestaocarrinho-en](https://images.ctfassets.net/alneenqid6w5/4UJM2FglGqcJGdFJqZ9AQg/66a5a405d1c213ebe66d798799e972ef/socialselling-sugestaocarrinho-en.gif)
 
 The same link is shareable with multiple customers as many times as they like. Each time a person accesses this link, a new shopping cart is generated, exactly like the one created in VTEX Sales App. Carts accessed are also associated with the sales associate account and their code, if they have one.
 

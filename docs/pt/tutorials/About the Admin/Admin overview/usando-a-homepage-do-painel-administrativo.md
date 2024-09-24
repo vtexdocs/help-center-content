@@ -28,7 +28,7 @@ A seção de métricas está organizada em três grandes grupos:
 - Dados de Pagamento;
 - Dados do Catálogo.
 
-![Action Dashboard](//images.contentful.com/alneenqid6w5/5ir6pwnlyMeQEeSOmOyisw/dcad530fb9c0004d32a89a3a6d5492ef/Action_Dashboard.png)
+![Action Dashboard](https://images.contentful.com/alneenqid6w5/5ir6pwnlyMeQEeSOmOyisw/dcad530fb9c0004d32a89a3a6d5492ef/Action_Dashboard.png)
 
 ### Bridge
 

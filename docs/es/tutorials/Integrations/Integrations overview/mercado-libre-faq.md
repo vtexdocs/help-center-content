@@ -94,7 +94,7 @@ Al registrar un producto, es necesario establecer una cantidad mínima de stock 
 
 La categoría en cuestión exige el mapeo de marca y modelo. Esta información debe estar presente en la plantilla de mapeo. Formato de ejemplo:
 
-![mercadolivre faq erro](//images.ctfassets.net/alneenqid6w5/0ohB2SiPHNmQMufVCfyou/21f9472e17fb15af9b910756ab6d0c89/mercadolivre_faq_erro.JPG)
+![mercadolivre faq erro](https://images.ctfassets.net/alneenqid6w5/0ohB2SiPHNmQMufVCfyou/21f9472e17fb15af9b910756ab6d0c89/mercadolivre_faq_erro.JPG)
 
 ## ¿Por qué mi anuncio está desactivado en Mercado Libre?
 

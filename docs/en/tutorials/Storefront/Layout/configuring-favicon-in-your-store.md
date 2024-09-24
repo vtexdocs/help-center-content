@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 Favicon is a small icon associated with a website, displayed on the browser tab next to the page title, in bookmarks, browsing histories, and other places where the website address appears, such as search results pages.
 
-![favicon-en](//images.ctfassets.net/alneenqid6w5/6RVE5D9e9zbUogXZHvZPNQ/4978d6190f58c2ad89225537ddc86688/favicon-en.png)
+![favicon-en](https://images.ctfassets.net/alneenqid6w5/6RVE5D9e9zbUogXZHvZPNQ/4978d6190f58c2ad89225537ddc86688/favicon-en.png)
 
 The favicon helps users quickly identify a website when multiple tabs are opened or when browsing their favorites, improving the user experience and reinforcing a brand's identity and reliability.
 

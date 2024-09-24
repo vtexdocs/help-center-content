@@ -25,7 +25,7 @@ A solicitação do browser é conhecida como **request**, e a resposta do servid
 
 Veja o esquema abaixo:
 
-![Como o cache funciona - comunicação entre servidor e browser](//images.ctfassets.net/alneenqid6w5/6ONSKQqdEoIsHxcvfp5GoS/51e191e174947c589ad4de6d4d56e474/1_PT.png)
+![Como o cache funciona - comunicação entre servidor e browser](https://images.ctfassets.net/alneenqid6w5/6ONSKQqdEoIsHxcvfp5GoS/51e191e174947c589ad4de6d4d56e474/1_PT.png)
 
 O cache é representado através de uma camada entre o browser e o servidor. Assim, quando um **request** acontece, em vez de o sistema ir buscar as informações diretamente no servidor, primeiramente ele vai até essa camada, o que torna a resposta muito mais ágil. Veja o esquema abaixo:
 

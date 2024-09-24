@@ -40,7 +40,7 @@ El formulario para crear o editar un cupón consta de las siguientes secciones:
 
 El panel superior del formulario de creación y edición del cupón, ilustrado a continuación, muestra el número de usos del cupón y el número de promociones vinculadas a él.
 
-![crear-cupon-1](//images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/e17457a01186b62c3b011796d0167c67/crear-cupon-1.png)
+![crear-cupon-1](https://images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/e17457a01186b62c3b011796d0167c67/crear-cupon-1.png)
 
 Al hacer clic sobre cualquier información del panel, tendrás acceso a la ventana __Ver detalles de uso__, donde aparecen los datos que se describen a continuación.
 

@@ -22,7 +22,7 @@ O módulo *Estoque & Entrega* é onde você faz todo o gerenciamento da logísti
 Algumas seções da página de cadastro de **Política de Envio** mudaram, para te dar mais flexibilidade ao configurar sua estratégia de entrega. Na versão anterior, havia uma seção chamada *Configuração de Tempo*, na qual era possível selecionar *Horário de Funcionamento*, *Horário de Corte* ou *Entrega Agendada* para cada transportadora. 
 
 **Versão anterior**
-![PT Configurações de tempo versão antiga](//images.ctfassets.net/alneenqid6w5/2n9RGrhtYEYrGsnsBN3Qlj/853e5c8125a87076697643bbb62848a0/PT_Configura____es_de_tempo_vers__o_antiga.jpg)
+![PT Configurações de tempo versão antiga](https://images.ctfassets.net/alneenqid6w5/2n9RGrhtYEYrGsnsBN3Qlj/853e5c8125a87076697643bbb62848a0/PT_Configura____es_de_tempo_vers__o_antiga.jpg)
 
 Na nova versão:
 - Mudamos os nomes das opções para facilitar seu entendimento.   

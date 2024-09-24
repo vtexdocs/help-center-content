@@ -33,7 +33,7 @@ O **Campo calculado** era uma configuração dentro dos campos de [entidade de d
 
 Esse tipo de campo, ilustrado abaixo, não estará mais disponível a partir de 17 de junho de 2024. Os campos calculados criados previamente deixarão de funcionar na mesma data.
 
-![md-deprecation-calculated-field-pt](//images.ctfassets.net/alneenqid6w5/13NWpWtxQGLFfh0ecW4ZV6/e25fa67f6207592c2893b3f86132c057/md-deprecation-calculated-field-pt.png)
+![md-deprecation-calculated-field-pt](https://images.ctfassets.net/alneenqid6w5/13NWpWtxQGLFfh0ecW4ZV6/e25fa67f6207592c2893b3f86132c057/md-deprecation-calculated-field-pt.png)
 
 ### Alterar valor do campo
 

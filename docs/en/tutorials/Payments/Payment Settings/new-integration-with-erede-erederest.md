@@ -25,7 +25,7 @@ To set up the new version, you must first request Rede to activate the __ERede__
 
 Once notified, go to the menu and then navigate through __e.Rede > Settings > Token generation__.
 
-![GerarToken](//images.ctfassets.net/alneenqid6w5/2W5UP5c9EIwe4Ayaa8kk0k/835f7771328d57ae7ed764fbcbf340aa/GerarToken.png)
+![GerarToken](https://images.ctfassets.net/alneenqid6w5/2W5UP5c9EIwe4Ayaa8kk0k/835f7771328d57ae7ed764fbcbf340aa/GerarToken.png)
 
 Then, click the button to create the token.
 

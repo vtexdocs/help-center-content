@@ -32,7 +32,7 @@ To add the specifications, your store already needs to have departments, categor
 7. Fill out the specification form fields. In the case of SKUs, the mandatory fields flag is selected by default. For more info on each field, access our article on [how to fill out SKU specification fields](https://help.vtex.com/en/tutorial/creating-sku-fields--tutorials_119) 
 8. Click on **Save**
 
-![EN.1novo](//images.ctfassets.net/alneenqid6w5/1UNDWQPmeRtLkc1VKqctAF/4e5526d5496d6f0b0fd0c1cc97d4bb05/EN.1novo.gif)
+![EN.1novo](https://images.ctfassets.net/alneenqid6w5/1UNDWQPmeRtLkc1VKqctAF/4e5526d5496d6f0b0fd0c1cc97d4bb05/EN.1novo.gif)
 
 The following steps will let you add SKU specification values:
 

@@ -37,7 +37,7 @@ Existem dois cenários nos quais é possível adicionar serviços a produtos pre
 
 3. Após finalizar o processo, é possível visualizar em seu carrinho o serviço que foi selecionado, com o valor total do pedido.
 
-![Garantia estendida - PT](//images.ctfassets.net/alneenqid6w5/6x9bCRVpOcGLa8bilRpZ7I/d7ed484879b2e99209db45d784227559/Cen_rio_1__T1__PT.png)
+![Garantia estendida - PT](https://images.ctfassets.net/alneenqid6w5/6x9bCRVpOcGLa8bilRpZ7I/d7ed484879b2e99209db45d784227559/Cen_rio_1__T1__PT.png)
 
 ![Carrinho - PT](//images.ctfassets.net/alneenqid6w5/2w3D5PYdqlPZs4gtGOY0VM/c208432eab7761f4b3ace4cd75ef30db/Cen_rio_1__T2__PT.png)
 

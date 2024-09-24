@@ -24,7 +24,7 @@ Hay varias aplicaciones y extensiones de Chrome que retiran las personalizacione
 
 1. Para abrir DevTools, ingrese a Chrome y oprima **F12** o haga clic en el **botón derecho del mouse > Inspeccionar**.
 
-![Customizations1](//images.ctfassets.net/alneenqid6w5/3fMKFRgHKwCa8dlwcMbnDk/6e445678697a809650b9185adb0df631/Customizations1.png)
+![Customizations1](https://images.ctfassets.net/alneenqid6w5/3fMKFRgHKwCa8dlwcMbnDk/6e445678697a809650b9185adb0df631/Customizations1.png)
 
 2. Vamos a buscar la función **Request Blocking** para bloquear todas las personalizaciones realizadas con CSS, JavaScript y Google Tag Manager. Haga clic en los tres puntos de la derecha, como se indica en la imagen, después en **More Tools** y, por último, en **Request Blocking**.
 

@@ -23,7 +23,7 @@ To continue enhancing this experience, we have included additional validation in
 
 Previously, customers could select an expired card, proceed with a purchase, and then the payment would be declined. We now flag expired cards and prevent them from being chosen at checkout, in order to offer a smoother shopping experience.
 
-![EN - Expired Cards](//images.ctfassets.net/alneenqid6w5/7HzPrSIeXAcZj1x5v7PFsB/857a5d45b665bbde2d646f06a32d8fe2/EN_-_Expired_Cards.png)
+![EN - Expired Cards](https://images.ctfassets.net/alneenqid6w5/7HzPrSIeXAcZj1x5v7PFsB/857a5d45b665bbde2d646f06a32d8fe2/EN_-_Expired_Cards.png)
 
 ## Why did we make this change?
 

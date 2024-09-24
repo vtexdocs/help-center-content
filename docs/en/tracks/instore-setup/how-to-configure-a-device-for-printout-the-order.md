@@ -27,7 +27,7 @@ Today this configuration is included in the portal administrator, more specifica
 
 To enable the _“Configure device”_ option, you must find the **_window.INSTORE_CONFIG_** object present in this file and add the **_configureDeviceEnabled_** property with the value **_true_**, and also add the **_printingConfig_** object to the **_printByBroker_** property with the value true, so that inStore allows you to use the option within the menu, as shown in the example image below:
 
-![EN-Configurar dispositivo](//images.ctfassets.net/alneenqid6w5/7sjOnFRRd3FFBFM4MQej7m/692f871ee51737c132a6df68e39591bd/EN-Configurar_dispositivo.png)
+![EN-Configurar dispositivo](https://images.ctfassets.net/alneenqid6w5/7sjOnFRRd3FFBFM4MQej7m/692f871ee51737c132a6df68e39591bd/EN-Configurar_dispositivo.png)
 
 Do not delete any of the other properties included in this object. The result should be something like:
 

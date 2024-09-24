@@ -26,7 +26,7 @@ Você pode encontrar links para download em: [http://instore.vtex.com/#download]
 
 Ao abrir o inStore pela primeira vez, você precisará digitar a conta VTEX onde deseja configurar o inStore e clicar em __Confirmar__.
 
-![01 inStore selecione conta](//images.ctfassets.net/alneenqid6w5/4XB9P7AD4ICSyWqCo0MmKA/b654a9607224ee02376f65485edbbf45/01_inStore_selecione_conta.png)
+![01 inStore selecione conta](https://images.ctfassets.net/alneenqid6w5/4XB9P7AD4ICSyWqCo0MmKA/b654a9607224ee02376f65485edbbf45/01_inStore_selecione_conta.png)
 
 Ao identificar que o inStore não está configurado nessa conta, você será redirecionado para a VTEX App Store onde precisará efetuar o login com sua conta de admin na VTEX.
 

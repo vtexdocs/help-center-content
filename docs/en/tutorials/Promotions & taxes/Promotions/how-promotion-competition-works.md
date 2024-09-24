@@ -82,7 +82,7 @@ However, they will be applied to the amount that has already been discounted by 
 
 Therefore, promotions will be applied in the following order:
 
-![promocao3 EN](//images.ctfassets.net/alneenqid6w5/6nz2KJuFk4aS0eU0OGg0sM/7cf285654ec80894e0a346c90918cd33/promocao3_EN.png)
+![promocao3 EN](https://images.ctfassets.net/alneenqid6w5/6nz2KJuFk4aS0eU0OGg0sM/7cf285654ec80894e0a346c90918cd33/promocao3_EN.png)
 
 >⚠️ Orders originating from the [Marketplace](https://help.vtex.com/en/tutorial/configurar-promocao-para-marketplace--tutorials_406) (provided by the store) or Fulfillment (delivered by the store) do not support cumulative promotions. This is because the use of promotions is restricted to specific types on both VTEX and external marketplaces.
 

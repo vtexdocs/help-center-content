@@ -36,7 +36,7 @@ Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condiç
 
 ### À vista
 
-![pagamento-a-vista pt](//images.ctfassets.net/alneenqid6w5/16U7FyAeXiC88gWCwkKmSU/b07c00338cbbf59430ec4e5a322e0159/pagamento-a-vista.png)
+![pagamento-a-vista pt](https://images.ctfassets.net/alneenqid6w5/16U7FyAeXiC88gWCwkKmSU/b07c00338cbbf59430ec4e5a322e0159/pagamento-a-vista.png)
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão __+__.

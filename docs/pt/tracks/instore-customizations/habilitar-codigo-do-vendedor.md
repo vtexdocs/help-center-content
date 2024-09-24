@@ -36,7 +36,7 @@ Depois de seguir essas recomendações, acesse o módulo __Configurações da lo
 
 Do lado direito da tela, você verá o arquivo `checkout-instore-custom.js`. 
 
-![vendorcode](//images.ctfassets.net/alneenqid6w5/ZvQVCvlacD2AYf9eHKcxl/53885297fc0e0882178a6230815b2b6e/vendorcode.PNG)
+![vendorcode](https://images.ctfassets.net/alneenqid6w5/ZvQVCvlacD2AYf9eHKcxl/53885297fc0e0882178a6230815b2b6e/vendorcode.PNG)
 
 Acesse-o e adicione o seguinte trecho ao objeto `window.INSTORE_CONFIG`:
 

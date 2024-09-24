@@ -14,7 +14,7 @@ locale: en
 legacySlug: what-deleting-a-sku-seller-means
 ---
 
-![excluir](//images.contentful.com/alneenqid6w5/3H8ijBZBEseoomo0wyMKoi/fea00e532fc957357b8794a1afc278ba/excluir.png)
+![excluir](https://images.contentful.com/alneenqid6w5/3H8ijBZBEseoomo0wyMKoi/fea00e532fc957357b8794a1afc278ba/excluir.png)
 
 When you delete a Seller SKU, it is removed from the Marketplace catalogue. This means that **it will no longer appear in the list of SKUs**.
 

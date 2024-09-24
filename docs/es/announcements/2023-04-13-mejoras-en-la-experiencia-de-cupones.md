@@ -27,7 +27,7 @@ La nueva experiencia de [Cupones](https://help.vtex.com/es/tutorial/cupons-beta-
 
 La nueva [lista de Cupones](https://help.vtex.com/es/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ) muestra todos los cupones registrados en tu tienda, permitiendo gestionar los datos y analizar en qué pedidos se han utilizado.
 
-![listacupons es](//images.ctfassets.net/alneenqid6w5/2BeCmFJ9bya2SOvx7wQHxC/7e1236597924f6ffd9c2f288884631b6/listacupons_es.gif)
+![listacupons es](https://images.ctfassets.net/alneenqid6w5/2BeCmFJ9bya2SOvx7wQHxC/7e1236597924f6ffd9c2f288884631b6/listacupons_es.gif)
 
 ### Acceso más fácil a los códigos de los cupones
 

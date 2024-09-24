@@ -29,7 +29,7 @@ Una buena gestión de la capacidad operativa de los sellers tiene los siguientes
 
 Al acceder a **Envío > Capacidad operativa** en el Admin VTEX, verás una página según se ilustra a continuación:
 
-![operational_capacity_image1_ES](//images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/defaa51c729689fdd70aa1e00e018d40/operational_capacity_image1_ES.png)
+![operational_capacity_image1_ES](https://images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/defaa51c729689fdd70aa1e00e018d40/operational_capacity_image1_ES.png)
 
 >⚠️ Los sellers que aparecen en la interfaz son los sellers de tu operación, configurados previamente por nuestro equipo. Para agregar un nuevo seller, ponte en contacto con [nuestro soporte](https://help.vtex.com/es/support).
 

@@ -28,7 +28,7 @@ Another option for the steps above is to access your store’s marketplace setti
 
 Replace NOMEDALOJA with the accountName of your store.
 
-![Multiplus1](//images.contentful.com/alneenqid6w5/2NxVrnsnZCOuQOqEOIusOq/d5cd381241a842c29e81763ea6f8f506/Multiplus1.png)
+![Multiplus1](https://images.contentful.com/alneenqid6w5/2NxVrnsnZCOuQOqEOIusOq/d5cd381241a842c29e81763ea6f8f506/Multiplus1.png)
 
 After clicking on **Integrate**, a form will be displayed with some fields that must be filled in. Be attentive to mandatory fields: these show “/*” next to the text box.
 

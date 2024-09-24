@@ -37,6 +37,6 @@ Con esta actualización, usted tiene más poder sobre el comportamiento de sus p
  6. Haga clic en **Utilizar configuraciones de recurrencia**
  7. Establezca la configuración deseable de días y horarios para la promoción
 
-![CRON 2 ES](//images.ctfassets.net/alneenqid6w5/7b6Kfpi1jxXcrr1qrPSycM/f08e20b7f69d579ff8b9d6f79bf19b01/CRON_2_ES.png)
+![CRON 2 ES](https://images.ctfassets.net/alneenqid6w5/7b6Kfpi1jxXcrr1qrPSycM/f08e20b7f69d579ff8b9d6f79bf19b01/CRON_2_ES.png)
 
  

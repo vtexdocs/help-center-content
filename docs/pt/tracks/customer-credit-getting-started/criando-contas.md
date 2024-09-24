@@ -36,7 +36,7 @@ Para cadastrar um novo cliente no Customer Credit, siga os passos abaixo:
 
 A partir deste momento, a nova conta criada será exibida na tela de __Contas__.
 
-![CC_criar_conta_1_PT](//images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/d260357ee6bb9151e7dfc99d8fc72e90/CC_criar_conta_1_PT.JPG)
+![CC_criar_conta_1_PT](https://images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/d260357ee6bb9151e7dfc99d8fc72e90/CC_criar_conta_1_PT.JPG)
 
 ## Criar múltiplas contas (importação em massa)
 

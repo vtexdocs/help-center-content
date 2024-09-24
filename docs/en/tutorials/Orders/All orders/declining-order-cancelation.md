@@ -31,7 +31,7 @@ For developer’s content, see [Order canceling improvements](https://developers
 
 The following image shows the flow of declining an order’s cancellation request outside the cancellation window:
 
-![cancel_api_improvements_help_center_EN](//images.ctfassets.net/alneenqid6w5/6qU0tP4gQxa2qh6JLjleoK/abdfe44471ce04c695bc0b1c50463afb/cancel_api_improvements_help_center_EN.png)
+![cancel_api_improvements_help_center_EN](https://images.ctfassets.net/alneenqid6w5/6qU0tP4gQxa2qh6JLjleoK/abdfe44471ce04c695bc0b1c50463afb/cancel_api_improvements_help_center_EN.png)
 
 The description of each step is the following:
 

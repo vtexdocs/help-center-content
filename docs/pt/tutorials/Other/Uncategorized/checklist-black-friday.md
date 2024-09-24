@@ -23,7 +23,7 @@ Mas a Black Friday é também uma data que traz boa dose de medo para os lojista
 
 Foi por isso que fizemos este post: para te ajudar a garantir que tudo esteja em ordem no tempo certo, de modo que seu negócio fique livre das pegadinhas em que todos os anos caem os lojistas menos preparados.
 
-![mike-petrucci-131817](//images.contentful.com/alneenqid6w5/5gCILEKQ80u0qWwo0SES6e/0d94e9fb47cbf373ec64f4209e202518/mike-petrucci-131817.jpg)
+![mike-petrucci-131817](https://images.contentful.com/alneenqid6w5/5gCILEKQ80u0qWwo0SES6e/0d94e9fb47cbf373ec64f4209e202518/mike-petrucci-131817.jpg)
 
 ### 1. A Black Friday já começou
 

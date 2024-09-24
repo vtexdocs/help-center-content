@@ -21,7 +21,7 @@ Até o momento, a integração possível de ser realizada é integrar cliente ou
 
 Para realizar a integração, selecione o app VTEX conforme imagem abaixo.
 
-![VTEX-zapier](//images.contentful.com/alneenqid6w5/51ebExxYL62U60EUsSIGGU/bceb8b8ef1dbe35a31e7d9d2dc9a0ade/Screen_Shot_2017-09-19_at_12.50.00_PM.png)
+![VTEX-zapier](https://images.contentful.com/alneenqid6w5/51ebExxYL62U60EUsSIGGU/bceb8b8ef1dbe35a31e7d9d2dc9a0ade/Screen_Shot_2017-09-19_at_12.50.00_PM.png)
 
 Depois, selecione qual das opções de integrção disponíveis você gostaria, conforme imagem abaixo.
 

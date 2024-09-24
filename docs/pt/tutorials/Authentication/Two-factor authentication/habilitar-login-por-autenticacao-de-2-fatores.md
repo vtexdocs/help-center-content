@@ -40,7 +40,7 @@ Há duas opções de autenticação:
 - Por chave gerada por um __aplicativo__ de autenticação.
 - Por chave enviada por mensagem de telefone (__SMS__).
 
-![2FA - Select - PT](//images.ctfassets.net/alneenqid6w5/3WRZKKU8LuW00UkeoUoIEY/d7db18f01bf30d5c5838f27b24f08e32/2FA_-_Select_-_PT.png)
+![2FA - Select - PT](https://images.ctfassets.net/alneenqid6w5/3WRZKKU8LuW00UkeoUoIEY/d7db18f01bf30d5c5838f27b24f08e32/2FA_-_Select_-_PT.png)
 
 >❗ Recomendamos fortemente que você **escolha a opção de autenticação por aplicativo**, uma vez que na autenticação por SMS você depende de que não haja falhas na operadora de telefonia. Pelo aplicativo, a chave de acesso estará sempre à disposição quando for necessária.
 

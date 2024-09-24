@@ -54,7 +54,7 @@ En la siguiente configuración, por ejemplo, solo los registros de ``empleados``
 
 De esta manera también se podría establecer `empleado=false`, donde solo los registros de `empleado` con un valor `false` en el campo obtendrían la promoción.
 
-![Campo funcionário Master Data ES](//images.ctfassets.net/alneenqid6w5/1GQftbj5FuIiQ4mUweacwa/8fdaea6b5ced25c76bea649ccc0e9e12/Campo_funcion__rio_Master_Data_ES.png)
+![Campo funcionário Master Data ES](https://images.ctfassets.net/alneenqid6w5/1GQftbj5FuIiQ4mUweacwa/8fdaea6b5ced25c76bea649ccc0e9e12/Campo_funcion__rio_Master_Data_ES.png)
 
 ![Cluster de clientes ES](//images.ctfassets.net/alneenqid6w5/1IOHFLD9w840WEuceWMk4Q/cb74a3f5ecba7fe987381e62543a13de/Cluster_de_clientes_ES.png)
 

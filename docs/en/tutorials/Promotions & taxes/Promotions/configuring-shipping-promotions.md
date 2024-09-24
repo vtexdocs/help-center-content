@@ -42,7 +42,7 @@ If you enable the option **Apply discount only to the cheapest shipping rate**, 
 If the store configures the __Pickup__ shipping strategy, which costs R$ 0.00 for the customer, the promotion may consider this value as the lowest and not apply the discount to the shipping fees. To ensure that the promotion works as expected, applying the free shipping discount to the shipping fees, select all methods in the box except __Pickup in Store__.
 
 #### Configuration
-![Apply the discount only to the cheapest shipping option - EN](//images.ctfassets.net/alneenqid6w5/7MjVSslJUZjkcKepNjene6/630faf430976850a15d833f09919e515/image.png)
+![Apply the discount only to the cheapest shipping option - EN](https://images.ctfassets.net/alneenqid6w5/7MjVSslJUZjkcKepNjene6/630faf430976850a15d833f09919e515/image.png)
 
 #### Result
 ![saggin frete ingles.PNG?h=250](//images.ctfassets.net/alneenqid6w5/fbTenTsRWQULggd7ET5Ng/6e0b5e52a20fe99e01ed786b4f90f5e6/saggin_frete_ingles.PNG_h_250)

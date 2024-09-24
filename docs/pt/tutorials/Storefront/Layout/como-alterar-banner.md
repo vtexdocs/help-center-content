@@ -22,7 +22,7 @@ Usaremos como exemplo um banner da Home no passo-a-passo. Porém, estas instruç
 3. Clique na pasta **Sites and Channels**.
 4. Clique no nome do website desejado.
 5. Clique na pasta **/**.
-![instrução CMS -pt](//images.ctfassets.net/alneenqid6w5/1lAXv0QTpq4YOSg2cu86Yi/5e6c2e3cfe424806118b20a9ef5e7b7b/CMS_instru____o.png)
+![instrução CMS -pt](https://images.ctfassets.net/alneenqid6w5/1lAXv0QTpq4YOSg2cu86Yi/5e6c2e3cfe424806118b20a9ef5e7b7b/CMS_instru____o.png)
 6. Clique no arquivo **Home**.
 7. Clique na aba **Settings**.
 8. Clique no ícone de lápis para editar.

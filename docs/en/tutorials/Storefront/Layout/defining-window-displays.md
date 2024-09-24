@@ -25,7 +25,7 @@ After defining this, link the collection to the window display in **Storefront >
 
 In the example below, we will define a window display on the home page, and to do so the following layout has to be changed:
 
-![cms_layout_home ](//images.ctfassets.net/alneenqid6w5/36BJckeyOAIYeEm8sOwQO0/e7a24fbbfe861550445a9f18dee77954/cms_layout_home.png)
+![cms_layout_home ](https://images.ctfassets.net/alneenqid6w5/36BJckeyOAIYeEm8sOwQO0/e7a24fbbfe861550445a9f18dee77954/cms_layout_home.png)
 
 In the selected layout, add the control for the window display where you want to display the collection by clicking on **Add Object**
 After selecting the type of control you want, set its name and click **Adicionar** (Add)

@@ -28,7 +28,7 @@ By combining data from different sources it's able to predict how your sales sho
 ## How Predictor Bot works
 
 We start off by getting an idea of how your store is performing.
-![sales data](//images.contentful.com/alneenqid6w5/4LVuTVHevYw6eaykMwQY4M/8b9a06a17479a1595c05d879071ad320/sales_data.png)
+![sales data](https://images.contentful.com/alneenqid6w5/4LVuTVHevYw6eaykMwQY4M/8b9a06a17479a1595c05d879071ad320/sales_data.png)
 
 As depicted by the image above, every typical store has a pattern - even on a daily basis, or hourly. We must identify that pattern to start any analysis.
 

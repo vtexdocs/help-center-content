@@ -25,7 +25,7 @@ Realizadas las debidas definiciones, el vínculo de la colección con la vitrina
 
 En el ejemplo abajo, vamos a definir la vitrina presentada en la Home, siendo así, se debe realizar la modificación en el siguiente layout:
 
-![cms_layout_home ](//images.ctfassets.net/alneenqid6w5/36BJckeyOAIYeEm8sOwQO0/e7a24fbbfe861550445a9f18dee77954/cms_layout_home.png)
+![cms_layout_home ](https://images.ctfassets.net/alneenqid6w5/36BJckeyOAIYeEm8sOwQO0/e7a24fbbfe861550445a9f18dee77954/cms_layout_home.png)
 
 En el layout seleccionado, agregue el control correspondiente a la vitrina en la que desea exhibir la colección haciendo clic en **Add object**.
 

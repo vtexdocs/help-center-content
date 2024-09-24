@@ -25,7 +25,7 @@ Navegue hasta el proyecto y abra el archivo `pages.json`.
 
 Añadimos el `"admin/"` al nombre de la página, así como a la ruta. Es importante también añadir `"admin/"` al principio del nombre de todas las extensiones que se utilizarán. Su `pages.json` debe quedar así:
 
-![2 pages](//images.ctfassets.net/alneenqid6w5/1JbyPjpfd2m2Qg6YuIG0WG/c2e98ed69b39f41703c49cda8ee6f578/2_pages.png)
+![2 pages](https://images.ctfassets.net/alneenqid6w5/1JbyPjpfd2m2Qg6YuIG0WG/c2e98ed69b39f41703c49cda8ee6f578/2_pages.png)
 
 ## Actualizar las dependencias para usar vtex.admin
 

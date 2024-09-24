@@ -88,7 +88,7 @@ The following images provide examples of how to complete the fields in the VTEX 
 
 * **Example of monthly frequency:** The image shows a monthly subscription where orders can be placed on the 1st, 15th, or 28th of each month.
 
-  ![EN Assinatura Exemplo Valores month](//images.ctfassets.net/alneenqid6w5/15AueDNpKyx3yBVjP0q7tY/415def684e81619e96155a1fb390a4f4/EN_Assinatura_Exemplo_Valores_month.png)
+  ![EN Assinatura Exemplo Valores month](https://images.ctfassets.net/alneenqid6w5/15AueDNpKyx3yBVjP0q7tY/415def684e81619e96155a1fb390a4f4/EN_Assinatura_Exemplo_Valores_month.png)
 
 * **Example of a frequency every 3 weeks:** The image shows a subscription that generates new orders every 3 weeks, with purchases occurring on Sundays, Tuesdays, or Saturdays.
 

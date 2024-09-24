@@ -19,7 +19,7 @@ A partir de ahora, su tiendna puede utilizar punto y coma (`;`) para concatenar 
 
 Esta feature funciona en los campos de copia (`CC`) y copia oculta (`CCO`), así como la coma ya funcionaba anteriormente. Ahora las dos opciones de concatenación son válidas.
 
-![Message Center bug fix - EN](//images.ctfassets.net/alneenqid6w5/4P6PvvTcgEASE8ooUakoSG/73b01a7f5ebdaaebc66aa805dbe61169/Message_Center_bug_fix_-_EN.png)
+![Message Center bug fix - EN](https://images.ctfassets.net/alneenqid6w5/4P6PvvTcgEASE8ooUakoSG/73b01a7f5ebdaaebc66aa805dbe61169/Message_Center_bug_fix_-_EN.png)
 
 Este cambio simple en el módulo responsable del envío de e-mails transaccionales redujo drásticamente la tasa de errores en comunicaciones con clientes.
 

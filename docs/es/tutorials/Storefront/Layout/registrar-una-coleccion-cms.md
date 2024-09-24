@@ -29,7 +29,7 @@ Realice el siguiente paso a paso para registrar una nueva colección:
 
 La elección de los productos que van a hacer parte de una colección se hace a través de la creación de un __grupo__. Para esto, basta con hacer clic en __New Group__ dentro de la colección deseada. 
 
-![2019-06-06 16 22 46-Layout](//images.ctfassets.net/alneenqid6w5/1HELFm1eBsSZVpq6EEQQJ4/29c77be34d91e4eac14b7bf3d4597fa4/2019-06-06_16_22_46-Layout.png)
+![2019-06-06 16 22 46-Layout](https://images.ctfassets.net/alneenqid6w5/1HELFm1eBsSZVpq6EEQQJ4/29c77be34d91e4eac14b7bf3d4597fa4/2019-06-06_16_22_46-Layout.png)
 
 Antes de escoger qué productos harán parte del grupo, como veremos a continuación, es necesario atribuir un nombre y especificar el tipo de grupo creado.
 

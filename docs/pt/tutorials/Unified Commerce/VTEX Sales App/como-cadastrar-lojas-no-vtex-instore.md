@@ -30,7 +30,7 @@ Esse guia auxilia o lojista a configurar sua loja para funcionar melhor com o VT
 
 Assim que o aplicativo é aberto pela primeira vez, ele pergunta qual é o nome da loja que será usada. Conforme a tela abaixo, basta digitar o nome da sua loja para ter as configurações carregadas para o app.
 
-![instore-identificacao-loja](//images.contentful.com/alneenqid6w5/20IMJOo5Kc8Kw4OqicCQyc/8a76ed7d6c16d6b269518d430998ec44/instore-identificacao-loja.png)
+![instore-identificacao-loja](https://images.contentful.com/alneenqid6w5/20IMJOo5Kc8Kw4OqicCQyc/8a76ed7d6c16d6b269518d430998ec44/instore-identificacao-loja.png)
 
 ### Como cadastrar uma loja física
 

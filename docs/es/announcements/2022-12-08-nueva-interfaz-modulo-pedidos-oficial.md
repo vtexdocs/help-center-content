@@ -27,7 +27,7 @@ En comparación con la versión beta, la interfaz que será oficial a partir del
 
 * **Búsqueda de pedidos sin límite de fecha:** se puede buscar pedidos sin límite de fecha y ver todos los pedidos relacionados con el criterio utilizado, independientemente de la fecha de creación del pedido. Esta búsqueda no puede ser asociada a otros filtros. Sin embargo, puedes seleccionar un periodo de búsqueda personalizado de hasta seis meses y combinarlo con los filtros. Aprende más en el artículo [Filtrar pedidos en Todos los pedidos](https://help.vtex.com/es/tutorial/filtrar-todos-pedidos--tutorials_192).
 
-  ![busca_sem_limite_data_all_es](//images.ctfassets.net/alneenqid6w5/7mDlDQAgphKCmH12REooCx/0a765124f8477dac5a676b872f2a2e7c/busca_sem_limite_data_all_es.png)
+  ![busca_sem_limite_data_all_es](https://images.ctfassets.net/alneenqid6w5/7mDlDQAgphKCmH12REooCx/0a765124f8477dac5a676b872f2a2e7c/busca_sem_limite_data_all_es.png)
 
 * **Diagrama del pedido:** en la sección _Status del pedido_ de la nueva interfaz, de forma predeterminada, se muestra una línea de tiempo con los eventos del pedido. Ahora también puedes ver el _Diagrama del pedido_. Al hacer clic en `Ver diagrama`, se abrirá una ventana modal que muestra una imagen similar a la siguiente:
 

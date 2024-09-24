@@ -25,7 +25,7 @@ Para começar você [deve ter criado os links](https://help.vtex.com/pt/tutoria
 
 Acesse “_**Atrair**_” > “_**Chat**_”  
 
-![Chat 1](//images.ctfassets.net/alneenqid6w5/7QkjjcJQEBynDhVtqSQHi/4a33ad632ba4d0c0913d2778e852cd6d/Screenshot_2022-08-29_at_17-02-02_Chat.png)
+![Chat 1](https://images.ctfassets.net/alneenqid6w5/7QkjjcJQEBynDhVtqSQHi/4a33ad632ba4d0c0913d2778e852cd6d/Screenshot_2022-08-29_at_17-02-02_Chat.png)
 
 Clique em “_**Novo**_”
 

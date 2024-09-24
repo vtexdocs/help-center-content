@@ -21,7 +21,7 @@ The manual process is more appropriate when the storeowner wants to alter the pr
 
 ## Manual registration or change
 
-![](//images.contentful.com/alneenqid6w5/62eMKlDZ04As4ey46yiOeK/2d689eb25d9945a532d4447ba770649f/Tabela_de_Valores.gif)
+![](https://images.contentful.com/alneenqid6w5/62eMKlDZ04As4ey46yiOeK/2d689eb25d9945a532d4447ba770649f/Tabela_de_Valores.gif)
 
 ### Registration for a new value
 

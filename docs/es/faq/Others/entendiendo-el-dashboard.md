@@ -22,7 +22,7 @@ Para acceder al Dashboard, haga clic en el módulo **License Manager** en el men
 
 Son 3 gráficos en total. En el primero de ellos es posible comparar el promedio del tiempo de carga total de su tienda (en rojo) con el promedio del tiempo de carga total de todas las demás tiendas de VTEX (en azul). A continuación usted puede ver un ejemplo de ese gráfio.
 
-![](//images.contentful.com/alneenqid6w5/2z4iBEY5UEkqcmsa0KEgoi/3d661f25118a2e876d20a565ebfc88f9/dashboard-chart1-560x320.png)
+![](https://images.contentful.com/alneenqid6w5/2z4iBEY5UEkqcmsa0KEgoi/3d661f25118a2e876d20a565ebfc88f9/dashboard-chart1-560x320.png)
 
 A partir de este gráfico es posible percibir si una eventual lentitud en el sistema está impactando solamente su tienda o todas las tiendas de VTEX. También es posible visualizar si un eventual pico en el tiempo de carga todavía persiste o si ha sido momentáneo. _Es importante destacar_también que _no todo pico significa necesariamente un problema_, pues es natural que el gráfico refleje el comportamiento de los clientes de su tienda, con un mayor número de acceso en determinados horarios. Con el tiempo, usted se acostumbrará al comportamiento de su tienda y estará más apto a discernir lo que se escapa a lo común.
 

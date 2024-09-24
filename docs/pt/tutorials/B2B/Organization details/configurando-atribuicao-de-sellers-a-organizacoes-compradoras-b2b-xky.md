@@ -30,7 +30,7 @@ Para atribuir sellers à uma determinada organização compradora, siga os passo
 <li>No Admin VTEX, acesse <b>Aplicativos > Organizações e centros de custo B2B > Organizações</b>, ou digite <b>Organizações</b> na barra de busca no topo da página.</li>
 <li>Na aba <b>Organizações</b>, clique sobre o nome da organização compradora desejada.</li>
 
-![Organizações](//images.ctfassets.net/alneenqid6w5/1b6R9emKupGC3gv6BqKPbG/b823f4c4377b5eee578e8d58ec9beb87/ORGANIZACOES.jpg)
+![Organizações](https://images.ctfassets.net/alneenqid6w5/1b6R9emKupGC3gv6BqKPbG/b823f4c4377b5eee578e8d58ec9beb87/ORGANIZACOES.jpg)
 
 <li>Na aba <b>Sellers</b>, em <b>Disponível</b>, selecione os sellers desejados.</li>
 

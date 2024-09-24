@@ -17,7 +17,7 @@ subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 
 A lista de audiências de campanhas cadastradas na sua loja está disponível no Admin VTEX, na página *Promoções > Audiências de campanhas*, ilustrada a seguir.
 
-![lista-audiencias-campanha-pt](//images.ctfassets.net/alneenqid6w5/3OyfWyVN0MMA5qpgjxtGyM/5c50543b3dc5698d0362a696b91302d2/lista-audiencias-campanha-pt.png)
+![lista-audiencias-campanha-pt](https://images.ctfassets.net/alneenqid6w5/3OyfWyVN0MMA5qpgjxtGyM/5c50543b3dc5698d0362a696b91302d2/lista-audiencias-campanha-pt.png)
 
 A partir desta página, você pode realizar as seguintes ações:
 

@@ -24,7 +24,7 @@ To do that, we will show you how to remove the customizations using a Chrome nat
 
 1. To open DevTools, open Chrome and click **F12** or **right-click** anywhere on the page and select **Inspect**.
 
-![Customizations1](//images.ctfassets.net/alneenqid6w5/3fMKFRgHKwCa8dlwcMbnDk/6e445678697a809650b9185adb0df631/Customizations1.png)
+![Customizations1](https://images.ctfassets.net/alneenqid6w5/3fMKFRgHKwCa8dlwcMbnDk/6e445678697a809650b9185adb0df631/Customizations1.png)
 
 2. Search for the **Request Blocking** function to block all customizations made via CSS, JavaScript, and Google Tag Manager. Click on the three vertical dots on the top right of the page, as indicated in the image below. Select **More Tools** and then **Request Blocking**.
 

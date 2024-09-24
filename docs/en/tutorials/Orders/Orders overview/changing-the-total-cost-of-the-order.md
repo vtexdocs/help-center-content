@@ -26,7 +26,7 @@ To make the change, follow the steps below:
 3. Click the order to access the **Order details page**.        
 4. Go to the **Total cost of the order** section on the right side of the Order Details page.    
 5. Click `Change final cost`.    
-![valorfinalEN](//images.ctfassets.net/alneenqid6w5/5VwpodKoIiDSWBwYQs2rDc/22a8836f14fd64c2f17257c60e711a8a/valorfinalEN__1_.png)  
+![valorfinalEN](https://images.ctfassets.net/alneenqid6w5/5VwpodKoIiDSWBwYQs2rDc/22a8836f14fd64c2f17257c60e711a8a/valorfinalEN__1_.png)  
 6. On the **Change value** page, fill in the required fields.  
 7. Fill in the required fields:  
     * **Value:** Select Discount or Increase and enter the amount corresponding to what you want to change.    

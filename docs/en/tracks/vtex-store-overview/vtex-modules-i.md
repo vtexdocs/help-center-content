@@ -38,7 +38,7 @@ There are no prior settings to make before configuring the Catalog, but the foll
 
 The Catalog architecture has some key concepts: category, brand, product, SKU (_Stock Keeping Unit_) and specification. The image below shows the relation between these concepts:
 
-![arquitetura-catalogo-EN](//images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/2bb87144a5e665c082374be39da9d7af/EN.png)
+![arquitetura-catalogo-EN](https://images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/2bb87144a5e665c082374be39da9d7af/EN.png)
 
 The store catalog must be created following the steps below:
 

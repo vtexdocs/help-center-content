@@ -36,7 +36,7 @@ To register a new customer in Customer Credit, follow the steps below:
 
 From this moment on, the new account created will be displayed on the __Accounts__ screen.
 
-![CC_new_account_1_EN](//images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/29c36c044a54c156d6dbf4d385da0dee/CC_new_account_1_EN.JPG)
+![CC_new_account_1_EN](https://images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/29c36c044a54c156d6dbf4d385da0dee/CC_new_account_1_EN.JPG)
 
 ## Create multiple accounts (bulk import)
 

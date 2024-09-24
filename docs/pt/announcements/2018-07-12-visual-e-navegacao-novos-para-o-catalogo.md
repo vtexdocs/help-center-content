@@ -23,7 +23,7 @@ A principal diferença para a versão antiga está na navegação. Rearranjamos 
 ## O que mudou
 
 A maior parte dos itens do Catálogo podem ser encontrados em _Catálogo_, que fica na seção _PRODUTOS_ do menu lateral.
-![Catálogo1](//images.ctfassets.net/alneenqid6w5/6zg0sXt3qwc8KGUuwEwsSI/0f3f2fafcc1a4addaabe3e5deb100296/Cat__logo1.png)
+![Catálogo1](https://images.ctfassets.net/alneenqid6w5/6zg0sXt3qwc8KGUuwEwsSI/0f3f2fafcc1a4addaabe3e5deb100296/Cat__logo1.png)
 
 
 O subitem _Vale-compra_ (que antes se chamava _Vales_ e ficava em _Controle de Campanhas_) está no item _Pagamentos_, dentro da seção _TRANSAÇÕES_ do menu lateral.

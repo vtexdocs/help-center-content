@@ -42,7 +42,7 @@ Once you have an API Key, proceed as follows:
 1. In the VTEX Admin, go to __Store Settings > Shipping > Geolocation Shipping__, or type __Geolocation Shipping__ in the search bar at the top of the page.
 2. Enter the API Key in the field indicated and click on __Register Key__.
 
-![Geolocalizacao 1 EN](//images.ctfassets.net/alneenqid6w5/6pPXB9VKz6aQIA8YUWyyKk/ae4f7acd4ed20feac7edf6d27960c902/Geolocalizacao_1_EN.png)
+![Geolocalizacao 1 EN](https://images.ctfassets.net/alneenqid6w5/6pPXB9VKz6aQIA8YUWyyKk/ae4f7acd4ed20feac7edf6d27960c902/Geolocalizacao_1_EN.png)
 
 >ℹ️ In some countries, Google Maps does not provide high quality mapping. Therefore it is possible that some addresses will be written wrongly, or Google may indicate an incorrect address. In these cases, you must correct the address on the map itself.
 

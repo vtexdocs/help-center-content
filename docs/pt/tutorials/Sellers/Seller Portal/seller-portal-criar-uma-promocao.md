@@ -22,7 +22,7 @@ Para criar uma nova promoção como seller no Seller Portal, siga o passo a pass
 3. Preencha as informações descritas em [Campos de cadastro da promoção](#campos-de-cadastro-da-promocao).
 4. Clique em `Salvar.`
 5. Revise as configurações da sua promoção antes de publicá-la.
-![seller-portal-promo-revisao-pt](//images.ctfassets.net/alneenqid6w5/76ttKMrp8E1XlK2QZ6OAJQ/b4bd761ce6c36f7165a88ca5ac46eae3/image.png)
+![seller-portal-promo-revisao-pt](https://images.ctfassets.net/alneenqid6w5/76ttKMrp8E1XlK2QZ6OAJQ/b4bd761ce6c36f7165a88ca5ac46eae3/image.png)
 6. Depois de revisar as informações, clique em `Confirmar`.
 
 Feito isso, a promoção será ativada e aplicada na sua loja.

@@ -39,7 +39,7 @@ Si habilita la opción **Aplicar el descuento solo para la opción de envío má
 Si la tienda configura la estrategia de envío __Retiro__, que tiene un costo de R$ 0,00 para el cliente, la promoción puede considerar este valor como el más bajo y no aplicar el descuento en los costos de envío. Para garantizar que la promoción funcione como se espera, aplicando el descuento de envío gratuito a los costos de envío, selecciona todos los métodos en el cuadro, excepto Retiro en Tienda.
 
 #### Configuración
-![Aplicar el descuento solo para la opción de envío más barata - ES](//images.contentful.com/alneenqid6w5/4dO4pM8BrIVl4r27K5xgqT/d8a5a9992eb31f05591aaf88c79f4268/image.png)
+![Aplicar el descuento solo para la opción de envío más barata - ES](https://images.contentful.com/alneenqid6w5/4dO4pM8BrIVl4r27K5xgqT/d8a5a9992eb31f05591aaf88c79f4268/image.png)
 
 #### Resultado
 ![saggincaso1.2](//images.ctfassets.net/alneenqid6w5/5YS2Iva3GwayZPPA3pqMmf/1b1f4d05ad16378b993a748e4923e12d/saggincaso1.2.png)

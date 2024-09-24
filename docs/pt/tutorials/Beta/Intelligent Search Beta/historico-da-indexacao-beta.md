@@ -19,7 +19,7 @@ subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 
 **Histórico da Indexação** é a página que monitora a situação de sincronização de todos os produtos do Catálogo enviados para o Intelligent Search. Ele permite visualizar de forma ampla o progresso da indexação da sua loja.
 
-![Histórico da Indexação 1 - PT](//images.ctfassets.net/alneenqid6w5/5xzFLcLomZTSXgdqyK2rH/eafd584f145b495cab5aee630f44fb8a/Screenshot_2022-09-01_at_12-47-19_Hist__rico_da_Indexa____o.png)
+![Histórico da Indexação 1 - PT](https://images.ctfassets.net/alneenqid6w5/5xzFLcLomZTSXgdqyK2rH/eafd584f145b495cab5aee630f44fb8a/Screenshot_2022-09-01_at_12-47-19_Hist__rico_da_Indexa____o.png)
 
 A seção **Status da indexação** exibe as seguintes informações:
 
@@ -33,7 +33,7 @@ A seção **Status da indexação** exibe as seguintes informações:
 
 Você pode filtrar a lista de produtos indexados para uma visualização customizada. Importante destacar que o tempo médio de indexação e a divisão dos status serão recalculados a partir dos produtos filtrados. 
 
-Para filtrar a lista de produtos indexados clique em `Filtro` <img src="//images.ctfassets.net/alneenqid6w5/7fFqJC2W7BQXSHlocRAqOM/dc6cf099d6add3b55d0353024dcc3ca8/Screenshot_2022-09-01_at_13-46-21_EDU-7374_-_Documenta____o_nova_tela_de_indexa____o.png" alt="filtros" width="25"/>. Selecione `Status` ou `Tempo de indexação` para definir o critério de filtragem. 
+Para filtrar a lista de produtos indexados clique em `Filtro` <img src="https://images.ctfassets.net/alneenqid6w5/7fFqJC2W7BQXSHlocRAqOM/dc6cf099d6add3b55d0353024dcc3ca8/Screenshot_2022-09-01_at_13-46-21_EDU-7374_-_Documenta____o_nova_tela_de_indexa____o.png" alt="filtros" width="25"/>. Selecione `Status` ou `Tempo de indexação` para definir o critério de filtragem. 
 
 ![Historico indexação 3 - PT](//images.ctfassets.net/alneenqid6w5/4lDygmJ2FzZsQF60nVb4fj/62e70bc865853961ce4d57456e7d3830/Screenshot_2022-09-01_at_13-08-05_EDU-7374_-_Documenta____o_nova_tela_de_indexa____o.png)
 

@@ -55,7 +55,7 @@ With this feature, it is possible to correctly categorize and also create variat
 The mapping should be done every time a product is sent to Dafiti for the first time. This means that, having already concluded the mapping once, the products that were already integrated do not need to repeat this process. At the same time, new products should always undergo mapping.
 
 1. According to __your country__, download the __Dafiti Mapping Spreadsheet__ in `.xlsx` format.
-<br/>&bull; [Brazil](//assets.ctfassets.net/alneenqid6w5/2Vbi7VaYIowaaOYCCucsQq/fa94cd636b38e9810dd6a708c95e26ac/Planilha_de_Mapeamento_da_Dafiti.xlsx)
+<br/>&bull; [Brazil](https://assets.ctfassets.net/alneenqid6w5/2Vbi7VaYIowaaOYCCucsQq/fa94cd636b38e9810dd6a708c95e26ac/Planilha_de_Mapeamento_da_Dafiti.xlsx)
 <br/>&bull; [Colombia](//assets.ctfassets.net/alneenqid6w5/4d5y0N09IsKmy4MuAGygqs/0e43349d309fb556179dfac5f2f6c885/Planilha_de_Mapeamento_da_Dafiti_COL.xlsx)
 
 2. Depending on __your country__, download the __Dafiti Query Spreadsheet__ to check the accepted value of each column of the Mapping Spreadsheet from the previous step. This spreadsheet is __exclusively to check__.

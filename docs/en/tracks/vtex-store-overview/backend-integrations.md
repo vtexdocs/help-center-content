@@ -102,7 +102,7 @@ You must follow the setup steps for this phase in the order shown below. A detai
 
 After configuring the store and integrating with the middleware, the general flow of information will follow this format:
 
-![ERP-integrations-en](//images.ctfassets.net/alneenqid6w5/7G5OqBkp2i7tpz19u6XBFy/8e7c022f2bfa116bccf9ccdc80ac2ca7/Diagrama_do_fluxo_de_integra__o_com_o_ERP_-_Frame_2.jpg)
+![ERP-integrations-en](https://images.ctfassets.net/alneenqid6w5/7G5OqBkp2i7tpz19u6XBFy/8e7c022f2bfa116bccf9ccdc80ac2ca7/Diagrama_do_fluxo_de_integra__o_com_o_ERP_-_Frame_2.jpg)
 
 Each request or process represented by the arrows in the diagram above is triggered by a different type of event in the operation of an ecommerce store. Learn more about this flow in the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide#ongoing-middleware-flow).
 

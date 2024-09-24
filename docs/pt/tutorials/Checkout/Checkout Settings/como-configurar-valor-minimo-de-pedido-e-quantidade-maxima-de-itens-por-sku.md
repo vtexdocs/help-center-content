@@ -30,7 +30,7 @@ Já em operações B2B, há necessidade de se manter relações com os comprador
 2. Na aba __Gerais__, preencha o valor desejado no campo __Valor mínimo total do carrinho__.
 3. Clique em `Salvar`.
 
-![Minimum Order Value - PT](//images.ctfassets.net/alneenqid6w5/6bJ49E109ewRg9VUoP16rP/4b4ff920a4c1a9a98ad3450e00f47d6c/Minimum_Order_Value_-_PT.png)
+![Minimum Order Value - PT](https://images.ctfassets.net/alneenqid6w5/6bJ49E109ewRg9VUoP16rP/4b4ff920a4c1a9a98ad3450e00f47d6c/Minimum_Order_Value_-_PT.png)
 
 >⚠️ Ao cliente é permitido montar um carrinho com um valor menor que o especificado na regra de "Valor mínimo total do carrinho". Entretanto, no momento de fechamento da compra, só serão concluídos os pedidos que estiverem com o valor igual ou acima do especificado.
 

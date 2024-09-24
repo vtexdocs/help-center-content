@@ -32,7 +32,7 @@ __Configuración__ es una página del Admin VTEX donde puedes realizar los ajust
 
 En esta sección se encuentran los ajustes relativos a la etapa de alistamiento, donde puedes definir las acciones que el alistador puede realizar durante el proceso de alistamiento, incluyendo la notificación de la falta de disponibilidad de un ítem del pedido y la sugerencia de otro para su sustitución.
 
-![pick-and-pack-separacao-es](//images.ctfassets.net/alneenqid6w5/31IMWfSufilPJHlkU7bLyh/c9c4916113ccf7f6252cb17d736a0ba9/image.png)
+![pick-and-pack-separacao-es](https://images.ctfassets.net/alneenqid6w5/31IMWfSufilPJHlkU7bLyh/c9c4916113ccf7f6252cb17d736a0ba9/image.png)
 
 ### Estrategia de alistamiento
 

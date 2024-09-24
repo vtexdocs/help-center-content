@@ -36,7 +36,7 @@ A página **Detalhes da interação** apresenta as seguintes seções:
 >ℹ️ O **Gerenciamento de anúncios** permite acompanhar anúncios com o [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic e Premium), [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e marketplaces VTEX. Para conectores que desejam integrar via API, existe o [Guia de integração da Gerenciamento de anúncios](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
 
 ## Cabeçalho
-![Interaction details PT cabeçalho](//images.ctfassets.net/alneenqid6w5/7zEocS2MW5dSRzZaaqNDUc/13e23260eaabde52ec1c38246a05be68/Interaction_details_PT_cabe__alho.jpg)
+![Interaction details PT cabeçalho](https://images.ctfassets.net/alneenqid6w5/7zEocS2MW5dSRzZaaqNDUc/13e23260eaabde52ec1c38246a05be68/Interaction_details_PT_cabe__alho.jpg)
 O *cabeçalho* traz informações principais do anúncio para rápida visualização, como nome do SKU, logo do canal para onde foi enviado, seu ID na VTEX e ID no canal.
 
 ## Resultado da Interação

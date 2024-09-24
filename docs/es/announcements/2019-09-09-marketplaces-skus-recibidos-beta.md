@@ -25,7 +25,7 @@ Esta beta abierta es la primera de una serie de mejoras y actualizaciones de pro
 
 Una de las primeras y principales mejoras es la nueva forma de seleccionar los SKUs en masa - para que pueda aprobarlos o rechazarlos en masa. Alineado con nuestra [Styleguide](https://styleguide.vtex.com/ "Styleguide"), la selección masiva hará que su trabajo sea más rápido y mejor.
 
-![received-skus-bulk](//images.ctfassets.net/alneenqid6w5/5AoUTuM27q7LhWOOIzbPtT/26c63e97b66a252e570cadf36a8356f2/received-skus-bulk.gif)
+![received-skus-bulk](https://images.ctfassets.net/alneenqid6w5/5AoUTuM27q7LhWOOIzbPtT/26c63e97b66a252e570cadf36a8356f2/received-skus-bulk.gif)
 
 
 

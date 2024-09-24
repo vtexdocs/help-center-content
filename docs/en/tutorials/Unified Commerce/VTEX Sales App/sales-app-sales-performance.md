@@ -23,7 +23,7 @@ You can access your store sales performance metrics by following the steps below
 2. 	Click the <i class="fas fa-bars"></i> button.
 3. 	Click **Sales Performance**.
 
-![Sales Performance (Store)](//images.ctfassets.net/alneenqid6w5/2YMohTrMzA23P64djqnLWb/dafd378b97bb9b972d78cd86879f6dc2/analytics_en.png)
+![Sales Performance (Store)](https://images.ctfassets.net/alneenqid6w5/2YMohTrMzA23P64djqnLWb/dafd378b97bb9b972d78cd86879f6dc2/analytics_en.png)
 
 On this page, you will have access to the following metrics:
 

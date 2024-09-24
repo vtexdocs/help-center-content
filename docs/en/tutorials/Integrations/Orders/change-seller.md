@@ -24,7 +24,7 @@ Sellers can be changed in two situations:
 - Seller cancels the order.
 - Marketplace decides to change the seller.
 
-![seller_cancela_pedido_EN](//images.ctfassets.net/alneenqid6w5/1w1If5Xirav4fZKLQlpkPn/de157152dd35da3598e6345114c7e90e/seller_cancela_pedido_EN.png)
+![seller_cancela_pedido_EN](https://images.ctfassets.net/alneenqid6w5/1w1If5Xirav4fZKLQlpkPn/de157152dd35da3598e6345114c7e90e/seller_cancela_pedido_EN.png)
 
 You can [set the time window to change seller from 0 to 30 days](https://developers.vtex.com/vtex-rest-api/reference/updatewindowtochangeseller); by default, it is two days. When the window to change seller is set to 0 days, there is not an actual period for switching sellers, so even though the feature is configured, it does not work in practice, and the order proceeds to cancellation.
 

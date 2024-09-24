@@ -24,7 +24,7 @@ Antes de este cambio, podían producirse errores de visualización en el resumen
 Considere, por ejemplo, un usuario que ve un producto que cuesta  US$ 600, con un descuento del 10% pagando al contado. La persona continúa para el checkout y llega a la página de resumen del pedido, donde debe seleccionar las opciones de pago. Estos son los tres principales errores que pueden producirse:
 
 - El usuario aún no ha seleccionado un número de cuotas y el precio se muestra sin descuentos, incluso en la opción elegible.
-![O usuário ainda não selecionou um número de parcelas](//images.ctfassets.net/alneenqid6w5/4dFdvU6HcZGvBWSpr0VI04/fe470a5050d3c66d98b21d978f968036/image6.png)
+![O usuário ainda não selecionou um número de parcelas](https://images.ctfassets.net/alneenqid6w5/4dFdvU6HcZGvBWSpr0VI04/fe470a5050d3c66d98b21d978f968036/image6.png)
 
 - El cliente ha seleccionado un número de cuotas no elegibles para el descuento, y el precio se muestra solo sin descuentos, incluso en la opción elegible para el descuento.
 ![O usuário selecionou um número de parcelas não elegível para desconto](//images.ctfassets.net/alneenqid6w5/nY13uDOX3JBOJvCN5Oj2i/d931d2d73ffb7f1b8c8ddbf7310b7bc9/image8.png)

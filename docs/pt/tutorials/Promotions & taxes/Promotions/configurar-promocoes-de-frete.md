@@ -42,7 +42,7 @@ Caso você habilite a opção **Aplicar o desconto somente no frete mais barato*
 Se a loja configurar a estratégia de envio __Retirada__, que tem custo de R$ 0,00 para o cliente, a promoção pode considerar esse valor como o mais barato e não aplicar o desconto nos fretes de envio. Para garantir que a promoção funcione conforme esperado, aplicando o desconto de frete grátis aos fretes de envio, selecione todos os métodos, exceto __Retirada na Loja__.
 
 #### Configuração
-![Aplicar o desconto somente no frete mais barato - PT](//images.contentful.com/alneenqid6w5/2Y0g5Ta6h4VL6uMRQouzjC/94aab036bb00a8162c934780cdfcb1c9/image.png)
+![Aplicar o desconto somente no frete mais barato - PT](https://images.contentful.com/alneenqid6w5/2Y0g5Ta6h4VL6uMRQouzjC/94aab036bb00a8162c934780cdfcb1c9/image.png)
 
 #### Resultado
 ![saggincaso1.2](//images.ctfassets.net/alneenqid6w5/5YS2Iva3GwayZPPA3pqMmf/1b1f4d05ad16378b993a748e4923e12d/saggincaso1.2.png)

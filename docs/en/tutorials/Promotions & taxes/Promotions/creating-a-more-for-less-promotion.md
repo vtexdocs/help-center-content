@@ -51,7 +51,7 @@ In this section, we provide information on the promotion overview.
 - **Additional information (optional):**: Allows you to add a name and value to the promotion.
 - **Promotion is highlighted:** Adds a tag with the promotion name to the window display and the product page. This tag will only be added if you use the right promotion display control in the template.<vtex.cmc:discountHightLight/>. Required field.
 
-![Dados gerais 1 - EN](//images.ctfassets.net/alneenqid6w5/4Ara5CRqjivFlYltPnMGpN/244f3cfaeed58c7d6b5ae309ca815089/Dados_gerais_1_-_EN.png)
+![Dados gerais 1 - EN](https://images.ctfassets.net/alneenqid6w5/4Ara5CRqjivFlYltPnMGpN/244f3cfaeed58c7d6b5ae309ca815089/Dados_gerais_1_-_EN.png)
 
 ### Restrict this promotion to products from sellers
 

@@ -34,7 +34,7 @@ Después de recibir el archivo del banco y guardarlo en su máquina, conforme ci
 
 Luego que seleccione el archivo, la plataforma empezará a procesarlo y registrará en histórico cuántos pagos se conciliaron con éxito o error. Los pagos que se concilien con éxito actualizarán los status de los pedidos para Pago Aprobado.
 
-![upload-archivo-ret](//images.ctfassets.net/alneenqid6w5/3KDKXLTwzYy1W9PNKGfIyT/b7ee6df418b9638eaab055282675b9f6/uploadret_ES.JPG)
+![upload-archivo-ret](https://images.ctfassets.net/alneenqid6w5/3KDKXLTwzYy1W9PNKGfIyT/b7ee6df418b9638eaab055282675b9f6/uploadret_ES.JPG)
 
 ## Visualizar el histórico
 

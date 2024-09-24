@@ -38,7 +38,7 @@ La relevancia manual se configura distribuyendo los pesos en la página **Reglas
 
 1. En el Admin VTEX, accede a **Storefront > Intelligent Search >** **Reglas de relevancia**  o ingresa **Reglas de relevancia** en la barra de búsqueda de la parte superior de la página.
 2. Selecciona la opción **Relevancia manual**.
-![relevancia-manual-es](//images.ctfassets.net/alneenqid6w5/5BSjswlkB1mMpR1MtCrEWL/eedc0f4e7adac60ba0e457a525c5e642/image.png)
+![relevancia-manual-es](https://images.ctfassets.net/alneenqid6w5/5BSjswlkB1mMpR1MtCrEWL/eedc0f4e7adac60ba0e457a525c5e642/image.png)
 3. Haz clic en `Guardar`.
 
 Para configurar la relevancia manual, consulta el artículo [Relevancia](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).

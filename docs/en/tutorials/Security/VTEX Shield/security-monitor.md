@@ -24,7 +24,7 @@ To access the dashboard, follow the steps below:
 1. In the VTEX Admin, go to **Dashboards**, or type **Dashboards** in the search bar.
 2. Under **Security Monitor**, click **Security Monitor Dashboard**.
 
-![1-security-monitor-en](//images.ctfassets.net/alneenqid6w5/k2BpYU2kF3p3grDdfy4aB/1593b6df63e997d6933dcfd3215d72b0/1-security-monitor-en__2_.png)
+![1-security-monitor-en](https://images.ctfassets.net/alneenqid6w5/k2BpYU2kF3p3grDdfy4aB/1593b6df63e997d6933dcfd3215d72b0/1-security-monitor-en__2_.png)
 
 Security Monitor displays the findings in three tabs based on their status:
 

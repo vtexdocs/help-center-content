@@ -18,7 +18,7 @@ If you have set up your store using the __Easy Setup__ flow you may have already
 
 When you enter VTable (https://{{AccountName}}.myvtex.com/admin/vtable) you will see two applications, __Stores Admin__ and __Vendors Admin__:
 
-![inStore aplicacoes vtable](//images.ctfassets.net/alneenqid6w5/6BRkoPO2cMOQkYkuSOeCO6/641c901771af479df13a487c123aff23/inStore_aplicacoes_vtable.png)
+![inStore aplicacoes vtable](https://images.ctfassets.net/alneenqid6w5/6BRkoPO2cMOQkYkuSOeCO6/641c901771af479df13a487c123aff23/inStore_aplicacoes_vtable.png)
 
 Click __Vendors Admin__ to open the table where we will add a new vendor.
 

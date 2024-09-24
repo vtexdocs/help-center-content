@@ -24,7 +24,7 @@ The first contact between the the physical store salesperson and inStore happens
 
 Here, the e-mail and password created for the salesperson in the [Basic Setup](https://help.vtex.com/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc) must be used. Remember that you cannot use emails that already have access to the administrative panel of VTEX stores.
 
-![31. inStore - Product Overview - 1 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/35HU0Wz5eJp53X7JSebBgx/608f3fa8cef774bee9106a997de71567/31._inStore_-_Product_Overview_-_1_-_EN.png_h_250)
+![31. inStore - Product Overview - 1 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/35HU0Wz5eJp53X7JSebBgx/608f3fa8cef774bee9106a997de71567/31._inStore_-_Product_Overview_-_1_-_EN.png_h_250)
 
 Upon logging in, the salesperson accesses the inStore application specific to a VTEX account. Although it is not a common scenario, the same salesperson may be linked to more than one account. If you need to switch accounts, just log out and, on the login screen, click on __Change Store__.
 

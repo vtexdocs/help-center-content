@@ -43,7 +43,7 @@ Para saber quais configurações logísticas são necessárias e como são reali
 
 >ℹ️ Note que o processo de envio dependerá das configurações realizadas na plataforma. Aqui apresentamos  os cenários para cada tipo de envio (entrega e retirada), mas há outros fluxos possíveis no processo de envio. Por exemplo, quando o envio é por retirada e o estoque coincide com o ponto de retirada, não é necessário o transporte dos pacotes entre esses locais.
 
-![Envio PT](//images.ctfassets.net/alneenqid6w5/2e2f4toAiFamlcXlAQfC3h/186ee5138e0d5d412c9eb50890708241/Envio_PT.svg)
+![Envio PT](https://images.ctfassets.net/alneenqid6w5/2e2f4toAiFamlcXlAQfC3h/186ee5138e0d5d412c9eb50890708241/Envio_PT.svg)
 
 ## Configuração do processo logístico
 

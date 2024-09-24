@@ -35,7 +35,7 @@ O **Calendário** apresenta somente [lançamentos agendados](https://help.vtex.c
 
 A imagem a seguir apresenta a visualização por mês e identifica o que você pode realizar pela interface:
 
-![releases-calendar-monthly-view-pt](//images.ctfassets.net/alneenqid6w5/BQCF0b8kNzGTOv06wCOde/6f066a16c87c6bccc2ac229dd83cca4b/releases-calendar-monthly-view-pt.png)
+![releases-calendar-monthly-view-pt](https://images.ctfassets.net/alneenqid6w5/BQCF0b8kNzGTOv06wCOde/6f066a16c87c6bccc2ac229dd83cca4b/releases-calendar-monthly-view-pt.png)
 
 Nesta tela, é possível:
 

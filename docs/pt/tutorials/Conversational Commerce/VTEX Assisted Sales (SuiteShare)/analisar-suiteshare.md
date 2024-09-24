@@ -23,7 +23,7 @@ Para começar a utilizar o “**Analisar**” você precisa ter pelo menos um li
 
 Acesse dentro do painel da **VTEX Assisted Sales (SuiteShare)** a opção de _**“Analisar”**_. 
 
-![Analisar 1](//images.ctfassets.net/alneenqid6w5/XOt7xPapUQ3iYaRLYsQQK/c3c07991814af5cc1e22cebabae6fe87/image.png)
+![Analisar 1](https://images.ctfassets.net/alneenqid6w5/XOt7xPapUQ3iYaRLYsQQK/c3c07991814af5cc1e22cebabae6fe87/image.png)
 
 Acessando o painel, você terá as seguintes opções:
 

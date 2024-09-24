@@ -28,7 +28,7 @@ The purpose of this article is to show you how your customers should log in to a
 
 When clicking on a link to authenticate, the client will see the login screen.
 
-![vtex-id-pt](//images.ctfassets.net/alneenqid6w5/32ihh602XeY6WyECG6YkwG/cfeadc0b744855b307b02718f7d4493f/vtex-id-en.png)
+![vtex-id-pt](https://images.ctfassets.net/alneenqid6w5/32ihh602XeY6WyECG6YkwG/cfeadc0b744855b307b02718f7d4493f/vtex-id-en.png)
 
 There are three standard ways to log in to a VTEX store:
 

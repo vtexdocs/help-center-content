@@ -17,7 +17,7 @@ subcategoryId: 7uJcyu0VawEm8ggqKu404u
 
 Additional shipping costs are extra charges added to the shipping rate as established in [shipping policies](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140). So, when configuring costs for shipping items, you can set a fixed rate and include additional charges. Together, these values will compose the [shipping rate](https://help.vtex.com/en/tutorial/gerenciar-valores-de-frete--tutorials_141). 
 
-![Tarifa envio EN](//images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/8aa8e3fcbe570f3862e3e31b3a7db0eb/Tarifa_envio_EN.svg)
+![Tarifa envio EN](https://images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/8aa8e3fcbe570f3862e3e31b3a7db0eb/Tarifa_envio_EN.svg)
 
 You can configure the following additional costs:
 

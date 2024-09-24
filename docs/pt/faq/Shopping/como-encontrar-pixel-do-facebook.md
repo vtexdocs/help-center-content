@@ -16,7 +16,7 @@ legacySlug: como-encontrar-pixel-do-facebook
 
 Para começar a capturar dados do público por meio do Link Manager, você precisa configurar os pixels para cada uma das suas plataformas de publicidade. Para encontrar seu ID de pixel no Facebook, siga as instruções abaixo. Não tem um pixel do Facebook configurado? [Siga as instruções aqui para começar](https://www.facebook.com/business/help/952192354843755).
 
-![Pixel Facebook](//images.ctfassets.net/alneenqid6w5/SyRmwIJcSHT6hub7cHL0i/57094d247c03c7768144dce07fc4f88c/Facebook1.png)
+![Pixel Facebook](https://images.ctfassets.net/alneenqid6w5/SyRmwIJcSHT6hub7cHL0i/57094d247c03c7768144dce07fc4f88c/Facebook1.png)
 
 Faça o login no Facebook e vá para sua conta do Gerenciador de Anúncios.
 

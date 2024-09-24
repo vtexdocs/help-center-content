@@ -35,7 +35,7 @@ Once you have authenticated using the chosen method, you enter the support panel
 
 To open a ticket, simply click the __Send a request__ red button.
 
-![chamado financeiro1 EN](//images.ctfassets.net/alneenqid6w5/fJpJBPNaKcMSkuKau28eA/16c703c7fe792f12fd996f557a21651d/chamado_financeiro1_EN.png)
+![chamado financeiro1 EN](https://images.ctfassets.net/alneenqid6w5/fJpJBPNaKcMSkuKau28eA/16c703c7fe792f12fd996f557a21651d/chamado_financeiro1_EN.png)
 
 You will be taken to the ticket opening form, where you must fill in:
 - Your name.

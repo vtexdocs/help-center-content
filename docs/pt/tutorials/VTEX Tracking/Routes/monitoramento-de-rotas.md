@@ -75,4 +75,4 @@ Caso precise mudar o status, ao final da página [Detalhes da rota](#detalhes-da
 
 >ℹ️ Para que esteja disponível uma Justificativa ela deve ser cadastrada previamente na aba de Configurações de Conta. Para saber mais confira [Justificativa de status](https://help.vtex.com/pt/tutorial/justificativa-de-status-vtex-tracking--4shboc7h5XPUpA8TQzXPRG).
 
-![Monitoramento de Rota](//images.ctfassets.net/alneenqid6w5/3cHz27dvHjO7ObLDxJTIuc/01103e99a288ab15935a7b453487fd7c/Monitoramento_Rota.gif)
+![Monitoramento de Rota](https://images.ctfassets.net/alneenqid6w5/3cHz27dvHjO7ObLDxJTIuc/01103e99a288ab15935a7b453487fd7c/Monitoramento_Rota.gif)

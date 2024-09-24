@@ -27,7 +27,7 @@ Select `store-theme` and confirm that you would like to download the template pr
 
 You will then be asked important app meta information like this app's vendor, name, title, and description. Use the __account name__ you're developing in as the __vendor__. This is important so you can correctly publish this app in this account later. You can use the default values by pressing enter.
 
-![store-theme](//images.ctfassets.net/alneenqid6w5/6FEPaKbOMqkndELmvd0u6z/f47d4a3a04b5cf270372b5dbc72940a9/store-theme.svg)
+![store-theme](https://images.ctfassets.net/alneenqid6w5/6FEPaKbOMqkndELmvd0u6z/f47d4a3a04b5cf270372b5dbc72940a9/store-theme.svg)
 
 ## Understanding the app structure
 

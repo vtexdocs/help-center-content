@@ -33,7 +33,7 @@ Para registrar las especificaciones, su tienda necesita tener departamentos, cat
  7. Rellene los campos del formulario de especificaciones. Para comprender mejor el significado de cada campo, acceda a nuestro  artículo sobre [cómo rellenar los campos de especificaciones de producto](https://help.vtex.com/es/tutorial/creando-un-campo-de-producto--tutorials_106)
  8.  Haga clic en **Guardar**.
 
-![ES1](//images.ctfassets.net/alneenqid6w5/26nmolyzhktK7RHFRIfeGn/bd9cc1425426b6f32212083f98760014/ES1.gif)
+![ES1](https://images.ctfassets.net/alneenqid6w5/26nmolyzhktK7RHFRIfeGn/bd9cc1425426b6f32212083f98760014/ES1.gif)
 
 Para añadir valores a la especificación de un producto, siga los pasos a continuación:
 

@@ -21,7 +21,7 @@ Para realizar a integração acesse no seu painel do **VTEX Assisted Sales (Sui
 
 Na dashboard em _**“Integrações”**_.
 
-![Pipedrive 1](//images.ctfassets.net/alneenqid6w5/2VCqCuAJgX4c5kqnBx3YnN/e9142c549e1f18a21005b50f10cf71b5/Screenshot_2022-08-30_at_11-33-50_Pipedrive.png)
+![Pipedrive 1](https://images.ctfassets.net/alneenqid6w5/2VCqCuAJgX4c5kqnBx3YnN/e9142c549e1f18a21005b50f10cf71b5/Screenshot_2022-08-30_at_11-33-50_Pipedrive.png)
 
  Ou clique em "_**configurações > Integrações"**_.
 

@@ -21,7 +21,7 @@ Access URL: http://extrato.vtex.com
 
 ## Profile
 This is the first step, you must fill out the information about your company. This is the information that will be displayed on the VTEX Store.
-![partner intranet 1](//images.contentful.com/alneenqid6w5/6n5cqrsG3uEuqE0w88882M/87f7eb33ae50e6d0783dc1ea5a121aca/partner_intranet_1.png)
+![partner intranet 1](https://images.contentful.com/alneenqid6w5/6n5cqrsG3uEuqE0w88882M/87f7eb33ae50e6d0783dc1ea5a121aca/partner_intranet_1.png)
 
 ### Header color
 In the first step there are some fields that deserve your attention, such as the header color. Where will it be applied? On your company’s page on the VTEX Store, as it is demonstrated in the image.

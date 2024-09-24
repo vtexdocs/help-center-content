@@ -26,7 +26,7 @@ La cobranza al inicio del periodo se calcula como sigue:
 1. i = Tasa de Intereses
 2. n = Número de Cuotas
 3. PV = Valor Presente (valor total de la compra sin intereses)
-4. Cuota = ![juros-inicio-periodo](//images.contentful.com/alneenqid6w5/3JkoK4GMLYAWIwUcAC8W2G/59d18849c4ee9e59ff37cb09ac661c89/juros-inicio-periodo.png)
+4. Cuota = ![juros-inicio-periodo](https://images.contentful.com/alneenqid6w5/3JkoK4GMLYAWIwUcAC8W2G/59d18849c4ee9e59ff37cb09ac661c89/juros-inicio-periodo.png)
 
 ## Fin del periodo
 

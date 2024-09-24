@@ -23,7 +23,7 @@ Here's how the basic flow of a registered ticket payment works. The flow is divi
  
 ## Ticket Issue
 
-![processo-boleto-registrado-en ex 2](//images.ctfassets.net/alneenqid6w5/3QIX0MyLCgqcmcsGgEAwsU/e7530c4c911dd93a995425db4a9e5fff/paint_bank_en_2.png)
+![processo-boleto-registrado-en ex 2](https://images.ctfassets.net/alneenqid6w5/3QIX0MyLCgqcmcsGgEAwsU/e7530c4c911dd93a995425db4a9e5fff/paint_bank_en_2.png)
 
 1. Your __e-commerce__ informs the __Gateway__ that an order will be paid via registered ticket.
 2. The gateway contacts the __Bank__ to register the ticket.

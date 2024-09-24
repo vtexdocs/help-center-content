@@ -21,7 +21,7 @@ Para realizar a integração acesse no seu painel da Suiteshare as integrações
 
 Na dashboard em **“Integrações”**.
 
-![Anapro 1](//images.ctfassets.net/alneenqid6w5/5Rx0RJ9BWA8p57KcBZcUSL/0c3e8ca37ea8e9cea03e89393101d19a/Screenshot_2022-08-31_at_14-42-19_Anapro.png)
+![Anapro 1](https://images.ctfassets.net/alneenqid6w5/5Rx0RJ9BWA8p57KcBZcUSL/0c3e8ca37ea8e9cea03e89393101d19a/Screenshot_2022-08-31_at_14-42-19_Anapro.png)
 
 Ou clique em _**"configurações > Integrações"**_.
 

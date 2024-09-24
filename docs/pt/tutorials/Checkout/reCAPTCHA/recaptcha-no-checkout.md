@@ -54,7 +54,7 @@ Você pode utilizar reCAPTCHA checkbox (v2). Ou seja, quando aplicável, o usuá
 
 Levando em consideração os fatores mencionados acima, a experiência de compra com cartão de débito ou crédito tende a seguir o fluxo abaixo. Isso minimiza a incidência de alguns tipos de fraudes e ataques com o mínimo de fricção para o usuário.
 
-![reCAPTCHA scenariosPT](//images.contentful.com/alneenqid6w5/3gA55NZPuxpKOxCZxvbhgj/383565089037ce6be7d7b0a05df2c8fe/reCAPTCHA_scenarios.jpg)
+![reCAPTCHA scenariosPT](https://images.contentful.com/alneenqid6w5/3gA55NZPuxpKOxCZxvbhgj/383565089037ce6be7d7b0a05df2c8fe/reCAPTCHA_scenarios.jpg)
 Como mostrado na imagem acima, existem diferentes possibilidades de resultado neste fluxo:
 
 1. Se o algoritmo do VTEX Criteria não considerar a sessão suspeita, a plataforma prossegue normalmente com a compra.

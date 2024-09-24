@@ -19,7 +19,7 @@ Acompañando la evolución de la plataforma VTEX, la viewpart de __Mis Pedidos__
 
 Para hacer la instalación, es necesario acceder a la [VTEX App Store.](https://extensions.vtex.com/)
 
-![app store1 ES](//images.ctfassets.net/alneenqid6w5/2GobyKLKZGwMwUCEG4EK4M/f0c80ce9e43715e0c095ffba7bfe7c86/app_store1_ES.png)
+![app store1 ES](https://images.ctfassets.net/alneenqid6w5/2GobyKLKZGwMwUCEG4EK4M/f0c80ce9e43715e0c095ffba7bfe7c86/app_store1_ES.png)
 
 __Al instalar la aplicación, uested ya cuenta con las siguientes actualizaciones:__
 

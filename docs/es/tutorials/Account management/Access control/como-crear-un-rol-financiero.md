@@ -31,7 +31,7 @@ Para crear un rol financiero:
 6. (Opcional) Antes de guardar, usted puede **Agregar usuarios a este rol**.
 7. Haga clic en **Guardar**.
 
-![gif perfildeacessoES](//images.ctfassets.net/alneenqid6w5/3JYWgBIlkkg4VFG1AgFHoc/9d68fb02cf08d64dda981ea3d1ff3935/gif_perfildeacessoES.gif)
+![gif perfildeacessoES](https://images.ctfassets.net/alneenqid6w5/3JYWgBIlkkg4VFG1AgFHoc/9d68fb02cf08d64dda981ea3d1ff3935/gif_perfildeacessoES.gif)
 
 El rol financiero ahora está creado y está disponible para asociarlo con usuarios existentes.
 

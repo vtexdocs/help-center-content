@@ -32,7 +32,7 @@ Ahora, rellene los campos abajo siguiendo las instrucciones:
 
 Vea imagen abajo:
 
-![ses.smartchackout1](//images.ctfassets.net/alneenqid6w5/KyggI6FeMn1nhKkrKekDj/55be5d1156b71333e640f7c75c693045/ses.smartchackout1.png) ![ses.smartchackout2](//images.ctfassets.net/alneenqid6w5/2NH2v4bG5DZZucsAYKLt3o/bf6bee1d305b72c30045e717d3d229aa/ses.smartchackout2.png)
+![ses.smartchackout1](https://images.ctfassets.net/alneenqid6w5/KyggI6FeMn1nhKkrKekDj/55be5d1156b71333e640f7c75c693045/ses.smartchackout1.png) ![ses.smartchackout2](//images.ctfassets.net/alneenqid6w5/2NH2v4bG5DZZucsAYKLt3o/bf6bee1d305b72c30045e717d3d229aa/ses.smartchackout2.png)
 
 Haga clic em Salvar para concluir el registro del nuevo sitio.
 

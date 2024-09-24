@@ -35,7 +35,7 @@ El módulo __Checkout__ en Admin, muestra los sitios que están registrados para
 
 Creación del nuevo sitio web: 
 
-![ses.smartchackout1](//images.ctfassets.net/alneenqid6w5/KyggI6FeMn1nhKkrKekDj/55be5d1156b71333e640f7c75c693045/ses.smartchackout1.png) 
+![ses.smartchackout1](https://images.ctfassets.net/alneenqid6w5/KyggI6FeMn1nhKkrKekDj/55be5d1156b71333e640f7c75c693045/ses.smartchackout1.png) 
 
 Acceso a __Nombre de cuenta__:
 

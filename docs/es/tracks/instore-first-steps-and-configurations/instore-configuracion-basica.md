@@ -50,7 +50,7 @@ Después de la instalación, deberás realizar la configuración básica de la a
 
 ### Registrar la dirección de la tienda
 
-![cadastrar-loja-pt](//images.contentful.com/alneenqid6w5/51ICHIzuWsMAwPCVwQuQoB/071ec5240f968e662badf4e828954072/cadastrar-loja-pt.png)
+![cadastrar-loja-pt](https://images.contentful.com/alneenqid6w5/51ICHIzuWsMAwPCVwQuQoB/071ec5240f968e662badf4e828954072/cadastrar-loja-pt.png)
 
 En esta página, introduce el nombre de la primera tienda física donde se utilizará VTEX Sales App y la dirección completa de la tienda. Cuando hayas rellenado todos los campos, haz clic en `Confirmar`.
 

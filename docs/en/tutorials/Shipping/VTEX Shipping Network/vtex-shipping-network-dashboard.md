@@ -57,7 +57,7 @@ For calculating the performance, the system considers all packages for delivery.
 
 Carrier performance is presented as a percentage and is calculated by dividing the number of packages delivered on time by the total number of packages delivered. Thus, the performance calculation only takes into account the packages that have been delivered.
 
-![equation EN performance](//images.ctfassets.net/alneenqid6w5/24t2KA8ivoNmb4y3oaDDxf/f899c821db95eef10472ae180e5b74e4/equation_EN_performance.gif)
+![equation EN performance](https://images.ctfassets.net/alneenqid6w5/24t2KA8ivoNmb4y3oaDDxf/f899c821db95eef10472ae180e5b74e4/equation_EN_performance.gif)
 
  The VTEX Shipping Network Performance tool allows you to:
 

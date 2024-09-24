@@ -30,7 +30,7 @@ La página muestra la lista con las promociones registradas en tu tienda y su in
 | `Hasta` | Fecha de fin de la promoción.  |
 | `Status` | Status de la promoción, que puede ser: <p> __Activa:__ la promoción está activada.</p> <p>__Programada:__ la promoción está programada.</p> <p>__Pausada:__ la promoción está pausada. <p>__Completada:__ la promoción ha finalizado.</p> |
 
-![listadepromocoes es](//images.ctfassets.net/alneenqid6w5/223hOuKKb0a23uFeYIr7UU/ae1fa5b782b350cdda3458e28459d51e/listadepromocoes_es.gif)
+![listadepromocoes es](https://images.ctfassets.net/alneenqid6w5/223hOuKKb0a23uFeYIr7UU/ae1fa5b782b350cdda3458e28459d51e/listadepromocoes_es.gif)
 
 Puedes ordernar la lista de promociones por nombre, fechas o status. Para ordenarlas, haz clic en el título de la columna que tiene la información que deseas utilizar como criterio de ordenación.
 

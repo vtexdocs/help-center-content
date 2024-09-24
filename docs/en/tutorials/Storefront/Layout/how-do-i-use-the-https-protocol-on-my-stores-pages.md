@@ -33,7 +33,7 @@ You can change the protocol in all folders at once by using our API, documented 
 2. Access **Sites and channels**.
 3. Access the desired website.
 4. Open the root folder of the website.
-![CMS instrução - EN](//images.ctfassets.net/alneenqid6w5/4hp4fJ22GIWmEQ2ggQGCaE/910148475de19dfac0b0bd451cee1f7a/CMS_instru____o_-_EN.png)
+![CMS instrução - EN](https://images.ctfassets.net/alneenqid6w5/4hp4fJ22GIWmEQ2ggQGCaE/910148475de19dfac0b0bd451cee1f7a/CMS_instru____o_-_EN.png)
 5. The screen that was opened displays all the folders that are on the first level of the site. For each pertinent folder, click **Edit** - for home, consider the top button;
 ![edit cms - EN](//images.ctfassets.net/alneenqid6w5/6ijmcqCYCIOmi2oeSSEaiy/c6f229d2a4727d5fbeb368e6b8282b2f/edit_CMS_EN.png)
 6. In the checkbox **Protocol**, select the option **HTTPS**;

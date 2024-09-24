@@ -37,7 +37,7 @@ The improvements to the Subscription system include new features for your end cu
 #### Subscription details 
 Our subscription details page has been redesigned to improve customer experience by reducing the time to find information and perform tasks. In addition, a new feature allows you to add items to an existing subscription.
 
-![img1 subscriptions EN](//images.ctfassets.net/alneenqid6w5/YTLE4SVoIbfDCdH9BK97s/01b71fce5ac6f65621c37a917a798050/img1_subscriptions_EN.png)
+![img1 subscriptions EN](https://images.ctfassets.net/alneenqid6w5/YTLE4SVoIbfDCdH9BK97s/01b71fce5ac6f65621c37a917a798050/img1_subscriptions_EN.png)
 
 #### Notification box
 Now you can use a notification box to improve your communication with users about actions they need to perform or to communicate important events about your subscriptions.

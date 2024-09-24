@@ -21,7 +21,7 @@ The PLPs are correlated as each product links back to a category page — Appare
 
 To improve the SEO performance of PLPs, you must allow web crawlers such as Google to notice this connection between PLPs. This way,  these crawlers will be able to browse different pages and access other products they show. 
 
-![Show more button](//images.ctfassets.net/alneenqid6w5/63jE8FYBJW8ssJOXwoADTZ/ec462ab024d44052f0eba3ddd360c00d/bt-show-more.png)
+![Show more button](https://images.ctfassets.net/alneenqid6w5/63jE8FYBJW8ssJOXwoADTZ/ec462ab024d44052f0eba3ddd360c00d/bt-show-more.png)
 
 See the section below on how to improve the SEO performance of PLPs [using the Site Editor](#using-the-site-editor).
 

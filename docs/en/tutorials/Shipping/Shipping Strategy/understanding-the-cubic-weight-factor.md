@@ -38,7 +38,7 @@ The calculation of the cubic weight is performed by multiplying Length x Width x
 
 Check out the following example:
 
-![example_cubic_weight_en](//images.contentful.com/alneenqid6w5/3KZDUQlPBYEY8mSwqQgW6k/15cef41598f4fc1359f482cddbcca756/pesocubado.jpg)
+![example_cubic_weight_en](https://images.contentful.com/alneenqid6w5/3KZDUQlPBYEY8mSwqQgW6k/15cef41598f4fc1359f482cddbcca756/pesocubado.jpg)
 
 - __Package size:__ `50cm x 15cm x 60cm`
 - __Minimum weight:__ `9kg`

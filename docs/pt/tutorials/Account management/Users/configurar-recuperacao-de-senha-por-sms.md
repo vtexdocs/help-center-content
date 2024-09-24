@@ -26,7 +26,7 @@ Dito isso, confira o passo a passo de como configurar essa modalidade:
 1. Acesse __Central de Mensagens__.
 2. Clique em __Templates__.
 
-  ![5NrtBpFRTxInFl4aY2FrVz-pt](//images.ctfassets.net/alneenqid6w5/1l0OsDNW7teR6iaGoNgei0/554312ca709ec61b03aee1fed2f16e24/5NrtBpFRTxInFl4aY2FrVz-pt.png)
+  ![5NrtBpFRTxInFl4aY2FrVz-pt](https://images.ctfassets.net/alneenqid6w5/1l0OsDNW7teR6iaGoNgei0/554312ca709ec61b03aee1fed2f16e24/5NrtBpFRTxInFl4aY2FrVz-pt.png)
 
 3. Clique no template __Password Recovery__.
 4. Clique na aba __SMS__.

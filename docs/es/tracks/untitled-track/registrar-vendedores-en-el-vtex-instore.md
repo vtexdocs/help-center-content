@@ -24,7 +24,7 @@ El registro del vendedor deja la app tener una asociación del vendedor identifi
 2. Cargar los precios, condiciones de pago y disponibilidad del producto de la tienda de la que forma parte el dependiente.
 
 La identificación del vendedor se obtiene como muestra la siguiente imagen:
-![identificacao-vendedor](//images.contentful.com/alneenqid6w5/2LhlUtsEYouEY4i4iYOIOq/d556be06047c26ee85f392ba7256f9f8/identificacao-vendedor.png)
+![identificacao-vendedor](https://images.contentful.com/alneenqid6w5/2LhlUtsEYouEY4i4iYOIOq/d556be06047c26ee85f392ba7256f9f8/identificacao-vendedor.png)
 
 Para registrar los vendedores que la pantalla arriba permite identificar basta acceder a su Masterdata. Cuando haya accedido al Masterdata, usted deberá buscar el área con el título `Profile System`. En esa área encuentre la palabra `Vendedores` y haga clic en `listar` como muestra la imagen a continuación.
 ![masterdata-home-vendedores](//images.contentful.com/alneenqid6w5/32iOuRESyIwEwSE4WcEWmu/b64645e6f940399933df3db5b40d6a4f/masterdata-home-vendedores.png)

@@ -26,7 +26,7 @@ A configuração de retirada na loja possibilita ao cliente a escolha de não re
 3. Para essas transportadores, é recomendado que não se cobre valor de frete.
 4. Após criadas todas as  transportadoras, é preciso criar uma transportadora com o nome genérico de _Retirada no local _a qual será usada na programação do front-end da loja (na opçao de seleção de frete).
 
-![](//images.contentful.com/alneenqid6w5/1aPl4HkPD8IagOICkCuigu/185dffc5b9bfd322697b6bf7ae0e7942/1.jpg)
+![](https://images.contentful.com/alneenqid6w5/1aPl4HkPD8IagOICkCuigu/185dffc5b9bfd322697b6bf7ae0e7942/1.jpg)
 
 ## Customização visual (Front-end)
 

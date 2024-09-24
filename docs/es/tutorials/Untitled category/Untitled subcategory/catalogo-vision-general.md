@@ -15,7 +15,7 @@ legacySlug: catalogo-vision-general
 subcategoryId: unknown-subcategory
 ---
 
-![Catalogo overview (tapa)](//images.ctfassets.net/alneenqid6w5/1OkPBtIH7KNPWFpCYVv89Y/acb839745dcafabbe9cfa2dfbd529484/image1.jpg)
+![Catalogo overview (tapa)](https://images.ctfassets.net/alneenqid6w5/1OkPBtIH7KNPWFpCYVv89Y/acb839745dcafabbe9cfa2dfbd529484/image1.jpg)
 El catálogo es el módulo de administración de tu tienda que te permite configurar las funcionalidades relacionadas con los productos de tu ecommerce. Para que tu cliente pueda ver los productos en el sitio web, debes registrarlos en este módulo. 
 
 En este artículo, encontrarás una visión general de los ítems del catálogo y su funcionalidad.

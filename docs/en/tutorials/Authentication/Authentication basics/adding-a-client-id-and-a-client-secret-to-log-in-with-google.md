@@ -17,7 +17,7 @@ subcategoryId: 14V5ezEX0cewOMg0o0cYM6
 
 To activate Google login with OAuth2, you must access the VTEX ID in your admin and fill in the `Client ID` and `Client Secret` fields, as described [in this article](/en/tutorial/configuring-user-id-with-facebook-and-google).
 
-![Google OAuth](//images.ctfassets.net/alneenqid6w5/67wXwVN1RaDZ5oOy6XrTSe/1dd69d7f89b79cbca4c0d3265e800c3c/google_EN.png)
+![Google OAuth](https://images.ctfassets.net/alneenqid6w5/67wXwVN1RaDZ5oOy6XrTSe/1dd69d7f89b79cbca4c0d3265e800c3c/google_EN.png)
 
 These values are derived from a project that needs to be created in the Google Cloud Platform API service.
 

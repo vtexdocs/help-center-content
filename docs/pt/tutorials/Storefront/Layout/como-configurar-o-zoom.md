@@ -22,7 +22,7 @@ _Se você já possui essa configuração ativa mas está com alguns problemas ve
 
 Abaixo um passo-a-passo de como configurar e implementar esta funcionalidade.
 
-![zoom-configurações](//images.ctfassets.net/alneenqid6w5/2syaIncF2UeOw0YgOcOSIq/02d931bb81ef413ad248f21e518fbd24/zoom.png)
+![zoom-configurações](https://images.ctfassets.net/alneenqid6w5/2syaIncF2UeOw0YgOcOSIq/02d931bb81ef413ad248f21e518fbd24/zoom.png)
 
 ## Configurando o CSS
 

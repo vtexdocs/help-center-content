@@ -20,7 +20,7 @@ One of the functions of sales policies is to make a differentiation of __catalog
 
 A single sales policy can be shared by more than one marketplace or between the main store and the marketplace. To do this, simply use the same sales policy ID in the [settings](/en/tutorial/integrating-with-marketplace). By doing so, the same catalog and the same logistics will be used for the stores or channels that are configured with the same sales policy.
 
-![carrefour.en2](//images.ctfassets.net/alneenqid6w5/5ZpCw7QeOoLULQmVMx1qil/ac520788fc2a7f4c7455c21fb9eb7a06/carrefour.en2.png)
+![carrefour.en2](https://images.ctfassets.net/alneenqid6w5/5ZpCw7QeOoLULQmVMx1qil/ac520788fc2a7f4c7455c21fb9eb7a06/carrefour.en2.png)
 
 In other words, if there is no need to define a specific catalog or logistics type for different sales channels, then you will not need to use separate sales policies. Simply associate your integration with the marketplace to the sales policy ID that already exists.
 

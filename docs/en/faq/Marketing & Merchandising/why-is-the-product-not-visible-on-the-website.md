@@ -41,7 +41,7 @@ We recommend beginning the investigation with **Catalog**. To check the **Catalo
 1. Access the VTEX Admin and go to **Products > Catalog > Products and SKUs** to check the products listed in your store.
 2. Find the product you want to display in the list, as illustrated below.
 
-    ![01-produto-en](//images.ctfassets.net/alneenqid6w5/75SkVRup4MW0URypUVayEh/8b6bbeb3f736a6e16c77b4b9889c6026/01-produto-en.PNG)
+    ![01-produto-en](https://images.ctfassets.net/alneenqid6w5/75SkVRup4MW0URypUVayEh/8b6bbeb3f736a6e16c77b4b9889c6026/01-produto-en.PNG)
 
 3. Follow the instructions described in the next sections to check this information:
     * [Product](#product)

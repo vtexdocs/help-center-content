@@ -25,7 +25,7 @@ Realizadas as devidas definições, o vínculo da coleção com a vitrine é fei
 
 No exemplo abaixo, iremos definir a vitrine apresentada na Home, sendo assim, deve-se realizar a alteração no seguinte layout:
 
-![cms_layout_home ](//images.ctfassets.net/alneenqid6w5/36BJckeyOAIYeEm8sOwQO0/e7a24fbbfe861550445a9f18dee77954/cms_layout_home.png)
+![cms_layout_home ](https://images.ctfassets.net/alneenqid6w5/36BJckeyOAIYeEm8sOwQO0/e7a24fbbfe861550445a9f18dee77954/cms_layout_home.png)
 
 No layout selecionado, adicione o controle correspondente à vitrine onde deseja exibir a coleção clicando em **Add object**.
 Após selecionar o tipo de controle desejado, defina seu nome e clique em **Adicionar**.

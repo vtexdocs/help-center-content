@@ -21,7 +21,7 @@ Após realizar o download, você deve acessar seu wordpress clicar em: **Plugin
 
 Selecione o arquivo que você acabou de fazer download e instale.
 
-![Wordpress 1](//images.ctfassets.net/alneenqid6w5/1QRLLMPv7aDIYIxyJ8wIoC/93e8387838b2f916cd5dc1b9097def28/Screenshot_2022-08-30_at_12-00-57_Wordpress.png)
+![Wordpress 1](https://images.ctfassets.net/alneenqid6w5/1QRLLMPv7aDIYIxyJ8wIoC/93e8387838b2f916cd5dc1b9097def28/Screenshot_2022-08-30_at_12-00-57_Wordpress.png)
 
 O próximo passo é clicar em **Plugins** no menu do seu Wordpress e ativar o plugin do VTEX Assisted Sales (SuiteShare).
 

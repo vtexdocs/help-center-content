@@ -19,7 +19,7 @@ Un recurso muy común en tiendas online es el zoom.
 
 Esto permite ver detalles de una imagen cuando el cliente va pasando el mouse sobre las fotos de un producto. Vamos a ver cómo configurar e implementar esta funcionalidad.
 
-![zoom-configurações](//images.ctfassets.net/alneenqid6w5/2syaIncF2UeOw0YgOcOSIq/02d931bb81ef413ad248f21e518fbd24/zoom.png)
+![zoom-configurações](https://images.ctfassets.net/alneenqid6w5/2syaIncF2UeOw0YgOcOSIq/02d931bb81ef413ad248f21e518fbd24/zoom.png)
 
 ## Configurando el CSS
 

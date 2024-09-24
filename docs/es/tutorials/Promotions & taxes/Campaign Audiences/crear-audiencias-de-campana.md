@@ -66,7 +66,7 @@ Luego de hacer clic en `Crear nuevo público-objetivo`, debes seguir las instruc
     * **o:** la audiencia de campaña estará compuesta por clientes que encajen en cualquiera de los públicos-objetivo.
     * **y:** la audiencia de campaña estará compuesta por clientes que encajen en todos los públicos-objetivo y sumen todos sus criterio
 
-![publico-alvo-e-ou-es](//images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/a3b67e255c3d65380455c6baeae20ad8/es-publico-alvo.gif)
+![publico-alvo-e-ou-es](https://images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/a3b67e255c3d65380455c6baeae20ad8/es-publico-alvo.gif)
 
 ### Define a tu público-objetivo
 

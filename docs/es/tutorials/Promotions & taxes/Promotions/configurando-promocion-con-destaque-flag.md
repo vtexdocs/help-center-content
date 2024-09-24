@@ -17,7 +17,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 El destaque de una promoción es un aviso visual que puede insertarse en las estanterías y en las páginas de productos, informando que el artículo es elegible para una promoción. Un ejemplo común es la indicación de envío gratuito debajo de la imagen del producto.
 
-![ExemploPromocaoDestaque2](//images.contentful.com/alneenqid6w5/jS31HBOW3YWsIYyUOE8o/3d0c108c84b2a7c5e6ae2d4254425e4b/ExemploPromocaoDestaque2.png)
+![ExemploPromocaoDestaque2](https://images.contentful.com/alneenqid6w5/jS31HBOW3YWsIYyUOE8o/3d0c108c84b2a7c5e6ae2d4254425e4b/ExemploPromocaoDestaque2.png)
 
 En esta guía puedes consultar las siguientes secciones:
 

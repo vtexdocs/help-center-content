@@ -25,7 +25,7 @@ De ahora en adelante, se aplicará el algoritmo de Luhn para garantizar que solo
 
 Si el cliente ingresa un número incorrecto, se mostrará un mensaje de error en el checkout. En ese caso, el cliente deberá comprobar el número ingresado y corregirlo para continuar con la finalización de la compra.
 
-![algoritmo_luhn_es](//images.ctfassets.net/alneenqid6w5/5HN1Iu9vKUmeglMLOV46Rd/b061baadc25eb3b451af06004a05a9d9/algoritmo_luhn_es.PNG)
+![algoritmo_luhn_es](https://images.ctfassets.net/alneenqid6w5/5HN1Iu9vKUmeglMLOV46Rd/b061baadc25eb3b451af06004a05a9d9/algoritmo_luhn_es.PNG)
 
 ## ¿Por qué realizamos este cambio?
 

@@ -33,7 +33,7 @@ La página SKUs recibidos se organiza en pestañas correspondientes a los distin
 
 Dentro de cada pestaña, además de visualizar la lista de SKU, es posible filtrar anuncios, revisar las especificaciones de cada uno y verificar el porcentaje de SKUs recibidos que se encuentran en ese status específico.  
 
-![skus-recibidos-pestanas-es](//images.ctfassets.net/alneenqid6w5/4jNrRvJsZgja1LuSz204P1/3757c1f533031f535b2c233eb55f3d08/skus-recibidos-pestanas-es.png)
+![skus-recibidos-pestanas-es](https://images.ctfassets.net/alneenqid6w5/4jNrRvJsZgja1LuSz204P1/3757c1f533031f535b2c233eb55f3d08/skus-recibidos-pestanas-es.png)
 
 ### Pendientes
 

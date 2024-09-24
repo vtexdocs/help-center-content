@@ -34,7 +34,7 @@ El proceso de go live de una tienda, incluyendo las configuraciones y pruebas ne
 
 En la siguiente imagen puedes ver las etapas de planificación del go live de una tienda VTEX:
 
-![go-live-es](//images.ctfassets.net/alneenqid6w5/3AA13R58ffQhNjBBoJm2kS/41e4c49c159b2a1d22c863808f3e382c/golive_1_ES.png)
+![go-live-es](https://images.ctfassets.net/alneenqid6w5/3AA13R58ffQhNjBBoJm2kS/41e4c49c159b2a1d22c863808f3e382c/golive_1_ES.png)
 
 ### Definir MVP
 

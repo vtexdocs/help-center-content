@@ -44,7 +44,7 @@ As with the OMS interface, the API shows `vtex:fob_1111` in the selectedSla, del
 
 It is important that the ERP is able to accept data in this format.
 
-![](//images.ctfassets.net/alneenqid6w5/5jPtBeUPHCUvgMco9FoKuZ/add1ce05e78a216f0aa7074c3ae4d444/slack-imgs.com.png)
+![](https://images.ctfassets.net/alneenqid6w5/5jPtBeUPHCUvgMco9FoKuZ/add1ce05e78a216f0aa7074c3ae4d444/slack-imgs.com.png)
 
 ## Label
 

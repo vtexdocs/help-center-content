@@ -43,7 +43,7 @@ Para criar uma regra de Divergência de valores, siga os passos abaixo:
 
 Você verá a seguinte tela:
 
-![print_01_PT](//images.ctfassets.net/alneenqid6w5/6lp2IKdU8VvaFgOUhHv5GA/97a35d8b97cc9bd3a9ccd7c9db67b87a/print_01_PT.png)
+![print_01_PT](https://images.ctfassets.net/alneenqid6w5/6lp2IKdU8VvaFgOUhHv5GA/97a35d8b97cc9bd3a9ccd7c9db67b87a/print_01_PT.png)
 
 A aba **Todas** apresenta todas as regras de autorização configuradas.
 

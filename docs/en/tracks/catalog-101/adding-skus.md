@@ -25,7 +25,7 @@ There are two flows which can be used to add SKUs through the VTEX Admin: creati
 ### Adding SKUs after creating a product
 
 1.	On the Product creation page, after filling out the fields, click on **Save and add new SKU**. 
-  ![picture1.en](//images.ctfassets.net/alneenqid6w5/3J1j18vSKiyJ4Bwy5ZLywM/bb8974140c754821ea0d10006a5f943a/picture1.en.png) 
+  ![picture1.en](https://images.ctfassets.net/alneenqid6w5/3J1j18vSKiyJ4Bwy5ZLywM/bb8974140c754821ea0d10006a5f943a/picture1.en.png) 
 2.	You will be redirected to the SKU form page, where you need to fill out fields. For more on each field’s meaning, access our article on [how to fill in SKU creation fields](https://help.vtex.com/en/tutorial/sku-fields--21DDItuEQc6mseiW8EakcY). 
 3.	Click on `Save`.
 

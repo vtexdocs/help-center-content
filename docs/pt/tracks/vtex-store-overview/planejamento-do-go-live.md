@@ -34,7 +34,7 @@ O processo para realizar o go-live de uma loja, incluindo as configurações e t
 
 A imagem a seguir apresenta as etapas de planejamento envolvidas no go-live de uma loja VTEX:
 
-![go-live-pt](//images.ctfassets.net/alneenqid6w5/3AA13R58ffQhNjBBoJm2kS/a758f107911697856c856d70192d2912/go-live-pt.png)
+![go-live-pt](https://images.ctfassets.net/alneenqid6w5/3AA13R58ffQhNjBBoJm2kS/a758f107911697856c856d70192d2912/go-live-pt.png)
 
 ### Definir MVP
 

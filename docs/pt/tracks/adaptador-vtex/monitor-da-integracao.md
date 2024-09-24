@@ -20,7 +20,7 @@ Quando o ERP envia as mensagens ao e-commerce, estas são enviadas em **LOTE** c
 
 Em alguns casos, um registro pode ser quebrado em partes para ser enviado corretamente para **VTEX**. Exemplo: o método de atualização de estoque que em alguns casos envia também o preço. Neste caso, o adaptador gera um registro para o estoque e outro registro para o preço, como ilustrado abaixo:
 
-![aa1-adaptador](//images.contentful.com/alneenqid6w5/6vuuIwtsVdgG9Qg1xKwQag/02b250ab85f489bda094ea042ddd24c5/aa1-adaptador.png)
+![aa1-adaptador](https://images.contentful.com/alneenqid6w5/6vuuIwtsVdgG9Qg1xKwQag/02b250ab85f489bda094ea042ddd24c5/aa1-adaptador.png)
 
 ## Usando o monitor de integração
 

@@ -23,7 +23,7 @@ A tela “Performance das páginas web” disponibiliza a ferramenta [PageSpeed 
 
 Embora o dashboard “Performance das páginas web” ofereça as mesmas funcionalidades da ferramenta PageSpeed Insights do Google, somente no Admin VTEX os comerciantes conseguem adicionar várias URLs e monitorá-las continuamente. 
 
-![Web page performance Dash PT](//images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/69b6c76024c031cda5ec2a557620d067/Screen_Shot_2022-06-29_at_15.37.19.png)
+![Web page performance Dash PT](https://images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/69b6c76024c031cda5ec2a557620d067/Screen_Shot_2022-06-29_at_15.37.19.png)
 
 ## Por que você deve ficar de olho no desempenho de uma página web?
 

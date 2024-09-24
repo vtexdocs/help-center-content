@@ -21,7 +21,7 @@ Las configuraciones básicas para exhibir **avíseme** cuando el producto está 
 
 Pero existe un caso en que, aun con los ítems arriba configurados, el avíseme no aparece, que es **cuando el tipo de exhibición de la Categoría está seleccionado como Lista de SKUs**.
 
-![categoria-lista-de-skus ES](//images.ctfassets.net/alneenqid6w5/2doqFhClnKAsqisO6qUeqA/fb3df652f2b63be1b27609322b4956bd/lista_de_skus_ES.png)
+![categoria-lista-de-skus ES](https://images.ctfassets.net/alneenqid6w5/2doqFhClnKAsqisO6qUeqA/fb3df652f2b63be1b27609322b4956bd/lista_de_skus_ES.png)
 
 En este caso, además de las configuraciones estándar, es necesario usar el control `vtex.cmc:SkuSelection`, aunque no exista más de un SKU por página.
 Luego, cuando la Categoría del producto deseado esté flechada para Lista de SKUs, como en la imagen arriba, es necesario que sea insertado el control `vtex.cmc:SkuSelection` en el template de página para que el avíseme sea exhibido.

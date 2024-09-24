@@ -20,7 +20,7 @@ As funcionalidades descritas neste artigo ainda não estão disponíveis para to
 
 As configurações dos Preços são acessadas pelo botão **Configurações**, do módulo **Preços**.
 
-![Preco24](//images.contentful.com/alneenqid6w5/5Wm20idGbCG0uKei00QQOi/5e18f35d0dd0790e5be98341c67ab4a6/Preco24.gif)
+![Preco24](https://images.contentful.com/alneenqid6w5/5Wm20idGbCG0uKei00QQOi/5e18f35d0dd0790e5be98341c67ab4a6/Preco24.gif)
 
 Nessa tela, é possível fazer o cadastro do markup mínimo. Entenda a seguir o que é markup e como configurá-lo.
 

@@ -23,7 +23,7 @@ Os templates usados pelos layouts da loja, por padrão, não carregam nenhuma cl
 
 Veja, por exemplo, o código do template Department.
 
-![changeBodyClass1](//images.contentful.com/alneenqid6w5/pbQCDMUz3qO0q4SuwYaq4/7ebd6ca8a0af6cbce899535b83cd719a/changeBodyClass1.jpg)
+![changeBodyClass1](https://images.contentful.com/alneenqid6w5/pbQCDMUz3qO0q4SuwYaq4/7ebd6ca8a0af6cbce899535b83cd719a/changeBodyClass1.jpg)
 
 Ele tem um `id`, mas não uma `class`.
 

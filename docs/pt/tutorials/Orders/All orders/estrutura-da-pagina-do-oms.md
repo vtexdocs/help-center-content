@@ -33,7 +33,7 @@ Para todos os dados de variações de pedidos, e também para os números de evo
 
 >⚠️ Importante: se a comparação de pedidos é feita com base em 0 pedidos no passado, a variação é de 0%.
 
-![barra-de-status-oms pt](//images.ctfassets.net/alneenqid6w5/4LWth3g02ACyIe4kAAgaW4/375d254b73d0fe7a0b2ae42da0a35b12/barra_de_status_pt.png)
+![barra-de-status-oms pt](https://images.ctfassets.net/alneenqid6w5/4LWth3g02ACyIe4kAAgaW4/375d254b73d0fe7a0b2ae42da0a35b12/barra_de_status_pt.png)
 
 ### Filtros
 

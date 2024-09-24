@@ -17,7 +17,7 @@ subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 
 Além de definir os textos do seu chat e/ou captura é possível também personalizar a aparência.  Para acessar essas configurações, acesse dentro do seu painel admin do **VTEX Assisted Sales (SuiteShare)** o campo **Configurações > minha conta**.
 
-![Personalizar 1](//images.ctfassets.net/alneenqid6w5/5FaGHXk7TYQh3ksA1d3V2y/13db76bc19548fee364bc5e0446f8a71/Screenshot_2022-08-31_at_15-05-25_Personalizar.png)
+![Personalizar 1](https://images.ctfassets.net/alneenqid6w5/5FaGHXk7TYQh3ksA1d3V2y/13db76bc19548fee364bc5e0446f8a71/Screenshot_2022-08-31_at_15-05-25_Personalizar.png)
 
 Clique em **“Aparência”**.
 

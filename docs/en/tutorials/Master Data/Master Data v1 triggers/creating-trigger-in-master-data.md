@@ -42,7 +42,7 @@ Below are the main characteristics of triggers:
 
 Before [creating a trigger](#configuring-triggers), it's important to understand that configuring a trigger has four parts, which are explained below.
 
-![trigger](//images.ctfassets.net/alneenqid6w5/5WbC7SD6aPFqaOHuHWgQoq/7c3bad97c814b7cb52393616ef58fa47/trigger-en.png)
+![trigger](https://images.ctfassets.net/alneenqid6w5/5WbC7SD6aPFqaOHuHWgQoq/7c3bad97c814b7cb52393616ef58fa47/trigger-en.png)
 
 ### Action that fires the trigger
 

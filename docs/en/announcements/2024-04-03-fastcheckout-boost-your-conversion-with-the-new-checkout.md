@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Introducing FastCheckout: Checkout innovation for custo
 
 Committed to continuously innovating and delivering excellence to our clients, VTEX introduces **FastCheckout**, the latest evolution of our checkout. This new solution allows us to create custom checkout experiences with high conversion rates and is constantly updated with new features.
 
-![fastcheckout](//images.ctfassets.net/alneenqid6w5/42O8ebq6UcdyuSyvUukhM/15f7c568ca3e481a52d3c93ecc9865bf/image.png)
+![fastcheckout](https://images.ctfassets.net/alneenqid6w5/42O8ebq6UcdyuSyvUukhM/15f7c568ca3e481a52d3c93ecc9865bf/image.png)
 
 ## What has changed?
 

@@ -17,7 +17,7 @@ subcategoryId: 5gtjaqCG7eIseyCI0aSqc2
 
 A imagem abaixo mostra o fluxo interno de salvamento de documentos no Master Data. Vamos explicar cada passo.
 
-![Save flow](//images.contentful.com/alneenqid6w5/5klqkN1OEwMEq0aEQeMyIY/2ba2b7cc8e29a5ee0baad8be92aeef9a/MDSaveDiagram.png)
+![Save flow](https://images.contentful.com/alneenqid6w5/5klqkN1OEwMEq0aEQeMyIY/2ba2b7cc8e29a5ee0baad8be92aeef9a/MDSaveDiagram.png)
 
 #### Salvar chamada de API
 Ocorre quando o usuário chama a API de salvamento de documentos (POST, PUT ou PATCH).

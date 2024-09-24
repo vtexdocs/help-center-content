@@ -35,7 +35,7 @@ La sección de **Suscripciones Únicas** permite:
 - Visualizar un **gráfico dinámico** con la relación entre las *suscripciones activas*, *canceladas*, y *total de suscripciones*, dentro del período filtrado. - Al pasar el cursor sobre las líneas del gráfico, se puede ver en detalle el movimiento de las suscripciones por día.   
 - **Exportar suscripciones**  únicas dentro del período filtrado pulsando el botón de la esquina superior derecha de la pantalla.
 
-![ES Dashboard Assinatura única](//images.ctfassets.net/alneenqid6w5/3BEDDrOsEARRJ1XfuwABDd/ecc8168966e3379654269a2d47b405c0/ES_Dashboard_Assinatura___nica.png)
+![ES Dashboard Assinatura única](https://images.ctfassets.net/alneenqid6w5/3BEDDrOsEARRJ1XfuwABDd/ecc8168966e3379654269a2d47b405c0/ES_Dashboard_Assinatura___nica.png)
 
 ### Pedidos de Suscripción
 

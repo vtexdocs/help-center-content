@@ -75,7 +75,7 @@ A lista de cotações e carrinhos salvos exibe as seguintes informações:
 
 Os usuários podem clicar em qualquer linha ou nos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> e, em seguida, clique em Detalhes para visualizar e editar os informações de uma cotação, conforme suas permissões.
 
-![Minhas cotações - PT](//images.ctfassets.net/alneenqid6w5/53BQDZh9EBc8OrFTxfO1eD/edc53f41d4d3bb19b3d85a44d9914fa0/Minhas_cota__es.png)
+![Minhas cotações - PT](https://images.ctfassets.net/alneenqid6w5/53BQDZh9EBc8OrFTxfO1eD/edc53f41d4d3bb19b3d85a44d9914fa0/Minhas_cota__es.png)
 
 ## Criar uma cotação ou salvando um carrinho
 Para criar uma cotação ou carrinho salvo, você precisa ter a [permissão](#permissoes-de-acesso) de [Criar Cotações e Carrinhos](#criar-cotações-e-carrinhos). Após adicionar produtos ao carrinho na loja, use o conteúdo do carrinho para criar um carrinho salvo ou solicitar uma cotação. Siga as instruções abaixo:

@@ -68,7 +68,7 @@ Para crear una nueva regla, siga los pasos a continuación:
 
   b. **Activar en condiciones específicas:** la tabla de precios se activará según las condiciones configuradas en la regla. Vea las alternativas de configuración en las siguientes imágenes: 
 
-  ![config-preco-ES](//images.ctfassets.net/alneenqid6w5/yNbbBH6crnGlgSflYJOuI/443a122a3b4909c114898816ae27e9b8/config-preco-ES.png)
+  ![config-preco-ES](https://images.ctfassets.net/alneenqid6w5/yNbbBH6crnGlgSflYJOuI/443a122a3b4909c114898816ae27e9b8/config-preco-ES.png)
 
   ![config-preco2-ES](//images.ctfassets.net/alneenqid6w5/4TUUMNundZb1RjgBDKHNUn/4b279c50a93f6911b705e83b3970f2c2/config-preco2-ES.png)
 

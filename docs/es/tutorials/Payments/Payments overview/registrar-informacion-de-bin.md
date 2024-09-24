@@ -17,7 +17,7 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 El número de identificación bancaria (BIN) se compone de los primeros seis u ocho dígitos de una tarjeta de crédito o débito y caracteriza la entidad emisora de la tarjeta.
 
-![BIN_image_digits_ES_2](//images.ctfassets.net/alneenqid6w5/56E0fyyarcKE5C68SXt7xQ/474de4b5b02f9be016dd9aae13d83b4a/BIN_image_digits_ES_2.png)
+![BIN_image_digits_ES_2](https://images.ctfassets.net/alneenqid6w5/56E0fyyarcKE5C68SXt7xQ/474de4b5b02f9be016dd9aae13d83b4a/BIN_image_digits_ES_2.png)
 
 Cuando la entidad emisora desea crear nuevos perfiles de tarjetas o emitir nuevas tarjetas para un modelo existente, debe crear nuevos BIN. Esto también se aplica cuando una [bandera de tarjeta](https://help.vtex.com/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito--4bNba5QYuIwKEmac88KwyI) es adquirida por otra.
 

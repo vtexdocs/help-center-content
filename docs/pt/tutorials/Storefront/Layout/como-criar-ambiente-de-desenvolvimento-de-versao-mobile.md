@@ -36,7 +36,7 @@ Para desenvolver uma versão mobile com um novo WebSite, você deve seguir os se
 
   Storefront > Layout > Pasta CMS > Sites and Channels > New Website
 
-![cms-new-website](//images.ctfassets.net/alneenqid6w5/62XyLdvzwsQaESok6EmUG8/e8a4597bed1e50d5ce24f350d46be96b/New_website.png)
+![cms-new-website](https://images.ctfassets.net/alneenqid6w5/62XyLdvzwsQaESok6EmUG8/e8a4597bed1e50d5ce24f350d46be96b/New_website.png)
 
 3. Criar estrutura de pastas do WebSite Mobile: Nesse passo será necessário criar as pastas padrões do sistema que serão utilizadas na versão mobile (busca, departamento, categoria, marca, produto etc.)
 

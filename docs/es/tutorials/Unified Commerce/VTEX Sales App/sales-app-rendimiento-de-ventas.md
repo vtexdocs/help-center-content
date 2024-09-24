@@ -23,7 +23,7 @@ Puedes acceder a las métricas de ventas de tu tienda que indican el desempeño 
 2. Haz clic en el botón <i class="fas fa-bars"></i>.
 3. Después, en **Desempeño de ventas**.
 
-![Sales Performance (Store)](//images.ctfassets.net/alneenqid6w5/2YMohTrMzA23P64djqnLWb/befba785d99d38ac7ae16e4a045ab32a/analytics_en.png)
+![Sales Performance (Store)](https://images.ctfassets.net/alneenqid6w5/2YMohTrMzA23P64djqnLWb/befba785d99d38ac7ae16e4a045ab32a/analytics_en.png)
 
 En esa página, tendrás acceso a las siguientes métricas:
 

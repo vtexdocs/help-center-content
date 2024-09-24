@@ -45,7 +45,7 @@ Verifique el procedimiento:
 
 >ℹ️ Puede encontrar más información sobre **Configuraciones generales** y **Configuraciones de búsqueda y filtro** en la sesión **Cómo configurar** del artículo [Crear entidad de datos](https://help.vtex.com/es/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar).
 
-![crear campo master data ds](//images.ctfassets.net/alneenqid6w5/5cWru1fi0SyEAOoEbgShOI/95cabcfa4a60032d87c3294773ba4fd0/criar_campo_master_data_ds.gif)
+![crear campo master data ds](https://images.ctfassets.net/alneenqid6w5/5cWru1fi0SyEAOoEbgShOI/95cabcfa4a60032d87c3294773ba4fd0/criar_campo_master_data_ds.gif)
 
 De este modo, volverá a la página principal de la pestaña Entidad de Datos. Para finalizar, es necesario publicar el campo. Basta localizar la línea de la entidad en la que se agregó el campo y hacer clic en el ícono de disquete.
 

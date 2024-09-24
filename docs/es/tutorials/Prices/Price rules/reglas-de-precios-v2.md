@@ -20,7 +20,7 @@ Las funcionalidades descritas en este artículo todavía no están disponibles�
 
 Una regla de precio es un modificador del precio base registrado en la Lista de precios.
 
-![new-dashboard-pricing-es](//images.contentful.com/alneenqid6w5/3EB6csYrKUiwQGGuikW0MA/ada36ea5a53b0d864561093817b76bf9/new-dashboard-pricing-es.gif)
+![new-dashboard-pricing-es](https://images.contentful.com/alneenqid6w5/3EB6csYrKUiwQGGuikW0MA/ada36ea5a53b0d864561093817b76bf9/new-dashboard-pricing-es.gif)
 
 ## Como funciona
 

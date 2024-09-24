@@ -83,7 +83,7 @@ Para que la promoción sea válida para todas las políticas comerciales, deje l
 
 En esta sección, debe elegir si la promoción se aplicará a todos los productos registrados en su tienda o solo a productos específicos, como se ilustra a continuación.
 
-![promocoes-restricao-es](//images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/83e378ce4788febd839ee10395e02f9f/image.png)
+![promocoes-restricao-es](https://images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/83e378ce4788febd839ee10395e02f9f/image.png)
 
 Si desea aplicar la promoción a todo su catálogo, seleccione la opción **Aplicar a todos los productos.**
 

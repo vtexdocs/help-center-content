@@ -28,12 +28,12 @@ The **Promotion Simulator** is available for all VTEX stores through [Cartman](h
     If you prefer, you can access it directly from the URL `https://{accountname}.myvtex.com/`, replacing `{accountname}` with the name of your VTEX account.
 
 2. Add products to the cart and access the checkout at `https://{accountname}.myvtex.com/checkout/#/cart`.
-3. Click the blue button <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> in the bottom right corner of the page to launch Cartman.
+3. Click the blue button <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> in the bottom right corner of the page to launch Cartman.
 4. Click **Promotion Simulator**.
 
    In the new window, you will find a list of the products in your cart and all the promotions that have been applied and are applicable to each item.
 
-![Simulator-promo-en-gif-1](//images.ctfassets.net/alneenqid6w5/66PaJF2TBi2T1VBEFPlLuz/c05b0c30d34a029e4bff69dff70de0d5/simulador-promo-en-230706.gif)
+![Simulator-promo-en-gif-1](https://images.ctfassets.net/alneenqid6w5/66PaJF2TBi2T1VBEFPlLuz/c05b0c30d34a029e4bff69dff70de0d5/simulador-promo-en-230706.gif)
 
 The **Promotion Simulator** interface displays the following information:
 

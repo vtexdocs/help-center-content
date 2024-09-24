@@ -19,7 +19,7 @@ O login da VTEX por meio de e-mail e senha agora conta com reCAPTCHA, que torna 
 
 Usamos o Invisible reCAPTCHA, uma tecnologia do Google que determina quando é necessário confirmar se a tentativa de acesso está sendo feita por um robô ou um humano.
 
-![reCAPTCHA](//images.contentful.com/alneenqid6w5/2obeayJZP6k8q8a6W68sQI/08bbf823714965fd207961a792a94f9f/reCAPTCHA.png)
+![reCAPTCHA](https://images.contentful.com/alneenqid6w5/2obeayJZP6k8q8a6W68sQI/08bbf823714965fd207961a792a94f9f/reCAPTCHA.png)
 
 Isto significa que o pedido de confirmação pode ou não aparecer, dependendo de diversos fatores.
 

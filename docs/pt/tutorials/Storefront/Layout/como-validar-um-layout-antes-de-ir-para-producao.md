@@ -34,7 +34,7 @@ Com isso, você pode:
 
 Para encontrar o `LID`, basta acessar o layout pelo Admin, no módulo CMS. Ele fica na seção __Properties__, como indica a imagem abaixo:
 
-![lid](//images.contentful.com/alneenqid6w5/4FISyY6wwg2asGE4Mog2sK/991b8c634b474c336de1754acdb414de/lid.png)
+![lid](https://images.contentful.com/alneenqid6w5/4FISyY6wwg2asGE4Mog2sK/991b8c634b474c336de1754acdb414de/lid.png)
 
 Para acessar a página da loja com o novo layout, você deve inserir um ponto de interrogação ao final da URL e depois o parâmetro `LID`.
 

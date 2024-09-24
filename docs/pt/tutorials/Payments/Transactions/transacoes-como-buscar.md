@@ -35,7 +35,7 @@ Para voltar à listagem original das transações, basta apagar o valor anterior
 
 Ao clicar em um pedido no Gerenciamento de Pedidos, você vai para a página que traz um resumo sobre ele. As principais informações estão lá, mas você pode ver ainda mais detalhes se clicar no link _Detalhes da transação_:
 
-![Link transação OMS (PT)](//images.ctfassets.net/alneenqid6w5/4HbLRjdyNyusgoSYAUmIee/c26af370c7be5288ab100d87a30d34ee/Link_transa____o_OMS__PT_.png)
+![Link transação OMS (PT)](https://images.ctfassets.net/alneenqid6w5/4HbLRjdyNyusgoSYAUmIee/c26af370c7be5288ab100d87a30d34ee/Link_transa____o_OMS__PT_.png)
 
 ## TID do Pagamento e ID do Pagamento
 

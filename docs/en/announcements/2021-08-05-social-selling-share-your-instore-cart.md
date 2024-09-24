@@ -27,7 +27,7 @@ Previously, cart sharing wasn’t possible on inStore, [only through ecommerce](
 
 With inStore Social Selling, your physical store sales reps can select products and generate a link to share the **Cart Suggestion** with one or more customers via WhatsApp, as shown below. It is also possible to copy the link and share it on other social media.
 
-![socialselling-EN2](//images.ctfassets.net/alneenqid6w5/1jdz7EIobEDMQqdRmdIVJY/e1fd62dd05b2468ba4cb198572a5bce8/socialselling-EN2.gif)
+![socialselling-EN2](https://images.ctfassets.net/alneenqid6w5/1jdz7EIobEDMQqdRmdIVJY/e1fd62dd05b2468ba4cb198572a5bce8/socialselling-EN2.gif)
 
 The sales rep can share the same link with several customers, as many times as they want. Every time someone opens this link, a new shopping cart is generated, exactly like the one created on inStore. Each cart accessed is also linked to the sales rep account and their code, if any.
 

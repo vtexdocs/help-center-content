@@ -19,7 +19,7 @@ The user management with access to the administrative environment of your VTEX s
 
 This page displays the list of users with their __Name__, __Email__ and __MFA__ configuration. There are also options to search for users, export users and create new ones. Other options available on this interface are to edit or delete each user.
 
-![Lista Usuários User Management EN](//images.ctfassets.net/alneenqid6w5/1IjRv0l2rDBrSWtHj82CDm/a8d2afc57a750d942cfe7e6e2cd98993/Lista_Usu__rios_User_Management_EN.png)
+![Lista Usuários User Management EN](https://images.ctfassets.net/alneenqid6w5/1IjRv0l2rDBrSWtHj82CDm/a8d2afc57a750d942cfe7e6e2cd98993/Lista_Usu__rios_User_Management_EN.png)
 
 >⚠️ Any user that wants to manage users or application keys must have a profile with the **Save User** [resource](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3?&utm_source=autocomplete). You can use the default profile [User Administrator - RESTRICTED](https://help.vtex.com/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted), for example.
 

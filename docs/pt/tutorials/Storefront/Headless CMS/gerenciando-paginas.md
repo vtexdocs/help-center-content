@@ -19,7 +19,7 @@ No **Headless CMS**, você pode gerenciar todas as rotas de URL e modelos de pá
 
 ## Visão geral
 
-![Novas páginas ](//images.ctfassets.net/alneenqid6w5/7cftK7sS2epeqGjY6m0Cmj/5e6068b5ae50645a857916be2d6e7caa/novas_pgs._pt.png)
+![Novas páginas ](https://images.ctfassets.net/alneenqid6w5/7cftK7sS2epeqGjY6m0Cmj/5e6068b5ae50645a857916be2d6e7caa/novas_pgs._pt.png)
 
 | Opção               | Descrição                                              |
 | ------------------- | ------------------------------------------------------ |

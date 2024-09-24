@@ -52,7 +52,7 @@ In the configuration below, for example, only `employee` entries with the value 
 
 You could also configure `employee=false`, where only `employee` entries with the value `false` in the field would receive the promotion.
 
-![Campo funcionário Master Data EN](//images.ctfassets.net/alneenqid6w5/1GQftbj5FuIiQ4mUweacwa/929dce6e74118345a2c9f17a9605e572/Campo_funcion__rio_Master_Data_EN.png)
+![Campo funcionário Master Data EN](https://images.ctfassets.net/alneenqid6w5/1GQftbj5FuIiQ4mUweacwa/929dce6e74118345a2c9f17a9605e572/Campo_funcion__rio_Master_Data_EN.png)
 
 ![Cluster de clientes EN](//images.ctfassets.net/alneenqid6w5/1IOHFLD9w840WEuceWMk4Q/653b3bf0087c0b78268a1231ebfcbf5f/Cluster_de_clientes_EN.png)
 

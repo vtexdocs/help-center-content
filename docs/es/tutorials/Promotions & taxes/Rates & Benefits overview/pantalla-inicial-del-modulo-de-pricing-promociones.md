@@ -21,7 +21,7 @@ Hay tres departamentos dentro del módulo que son responsables de la configuraci
 
 ## Audiencia de Campañas
 
-![campanha-es](//images.ctfassets.net/alneenqid6w5/78eGGuLQ9U5X8nJd21K46T/16b42ea9ae089696a8fab6986cf078ee/campanha-es.png)
+![campanha-es](https://images.ctfassets.net/alneenqid6w5/78eGGuLQ9U5X8nJd21K46T/16b42ea9ae089696a8fab6986cf078ee/campanha-es.png)
 
 La audiencia de campañas es una forma de definir el público objetivo al que una promoción puede ser aplicada. Es decir, usted puede crear segmentos de clientes basados en la definición de algunos criterios que serán elegibles para una determinada audiencia de campaña y consecuentemente a una o más promociones. Una audiencia de campaña puede asociarse a una o más [promociones de audiencias de campañas](https:///tutorial/promocao-de-campanha?locale=es "Crear promoción de campaña").
 

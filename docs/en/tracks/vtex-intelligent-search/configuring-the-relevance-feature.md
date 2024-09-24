@@ -34,7 +34,7 @@ The page is divided into two sections: __Priority criteria__ and __Criteria comp
   <li><b>Catalog Score:</b> 3</li>
 </ul>
 
-![default priority criteria EN](//images.ctfassets.net/alneenqid6w5/46WH9rGu8E2dpDry9i7uQ3/398cdb38b52d775d9fe9058ace66fdf2/screencapture-biggy-myvtex-admin-search-boost-settings-2021-06-23-16_22_18.png)
+![default priority criteria EN](https://images.ctfassets.net/alneenqid6w5/46WH9rGu8E2dpDry9i7uQ3/398cdb38b52d775d9fe9058ace66fdf2/screencapture-biggy-myvtex-admin-search-boost-settings-2021-06-23-16_22_18.png)
 
 To change Relevance settings, follow the steps below.
 

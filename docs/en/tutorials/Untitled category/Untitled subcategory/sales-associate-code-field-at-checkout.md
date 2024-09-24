@@ -57,7 +57,7 @@ After creating the salesassociatecode entity, you need to link it to a promotion
 
 <blockquote><ui>3. In <b>To which items will this promotion apply?</b>, click the <b>utm_campaign</b> option and type <i>salesassociatecode</i>.</ui>
 
-![utm campaign codigovendedor](//images.ctfassets.net/alneenqid6w5/6jroNJYCvzunmfosErnmZF/4886ffbd85e8e08257a5d8249a734a4f/UTM_Campaign_codigovendedor_en.PNG)
+![utm campaign codigovendedor](https://images.ctfassets.net/alneenqid6w5/6jroNJYCvzunmfosErnmZF/4886ffbd85e8e08257a5d8249a734a4f/UTM_Campaign_codigovendedor_en.PNG)
 
 <blockquote><ui>4. In <b>Restrictions and limitations of use</b>, add the other available restrictions if desired. Select the <b>Apply with other promotions</b> option.</ui>
 

@@ -35,7 +35,7 @@ O módulo __Checkout__ no Admin, exibe os sites que estão cadastrados para a su
 
 Criação do novo site: 
 
-![Novo Site](//images.ctfassets.net/alneenqid6w5/3PE7SFAdM4qIpXtPrxC7oV/9404083232d8cae1101fd1e4e4a18b98/Novo_Site.png)
+![Novo Site](https://images.ctfassets.net/alneenqid6w5/3PE7SFAdM4qIpXtPrxC7oV/9404083232d8cae1101fd1e4e4a18b98/Novo_Site.png)
 
 Acesso ao __Nome da Conta__: 
 

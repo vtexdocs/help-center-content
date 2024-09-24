@@ -19,7 +19,7 @@ Esa duda es muy común entre los comerciantes VTEX. Como el CMS es un módulo an
 
 Antes es necesario explicar rápidamente la estructura del CMS Layout, que queda en `{AccountName}.myvtex.com/admin/a`
 
-![cms_newadmin ES](//images.ctfassets.net/alneenqid6w5/3t6uV7zLoAmIyYWSckwgOK/bbbad86f93506d49757da4aef80ce6d6/CMS__newadmin_ES.png)
+![cms_newadmin ES](https://images.ctfassets.net/alneenqid6w5/3t6uV7zLoAmIyYWSckwgOK/bbbad86f93506d49757da4aef80ce6d6/CMS__newadmin_ES.png)
 
 La principal función del CMS Layout es permitir la administración del layout de su tienda. En él se crearán los Directorios y Templates que darán vida a su e-commerce.
 

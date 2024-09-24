@@ -64,7 +64,7 @@ High-risk alerts indicate that critical configurations or registration errors mu
 
 Example:
 
-![alert-alto-risco-EN](//images.ctfassets.net/alneenqid6w5/5RRucT5TJJKfoe39NsQvPx/6024c1bf2aee399450f05cbf2648798c/image.png)
+![alert-alto-risco-EN](https://images.ctfassets.net/alneenqid6w5/5RRucT5TJJKfoe39NsQvPx/6024c1bf2aee399450f05cbf2648798c/image.png)
 
 ### Medium risk
 Medium-risk alerts indicate that there are configurations that may cause undesired effects on the promotion.

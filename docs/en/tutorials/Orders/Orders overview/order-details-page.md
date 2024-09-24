@@ -46,7 +46,7 @@ To learn more about order flow and status, please check out the article [Order f
 
 ## Top bar
 
-![BarrasuperiorEN](//images.ctfassets.net/alneenqid6w5/4iRT7cRVqHuZ7BzKScT76O/ee97e23a21b0ba350ee47cf6ded14cde/BarrasuperiorEN.jpg)
+![BarrasuperiorEN](https://images.ctfassets.net/alneenqid6w5/4iRT7cRVqHuZ7BzKScT76O/ee97e23a21b0ba350ee47cf6ded14cde/BarrasuperiorEN.jpg)
 
 The top bar contains the following information and actions:
 

@@ -22,7 +22,7 @@ Esto sucede cuando hay algún error en el registro del SKU en el seller.
 
 Para identificar cuál es el error, siga los pasos abajo:
 1. Entre en el módulo __Sugerencias__.
-2. Haga clic en el SKU que el marketplace no aceptó.![erroSuggestion1](//images.contentful.com/alneenqid6w5/2T4ywpCeacosAGoQCS0k4M/f27f1729b879a02cd11f5bc916c8f8a6/erroSuggestion1.png)
+2. Haga clic en el SKU que el marketplace no aceptó.![erroSuggestion1](https://images.contentful.com/alneenqid6w5/2T4ywpCeacosAGoQCS0k4M/f27f1729b879a02cd11f5bc916c8f8a6/erroSuggestion1.png)
 3. Entre en el __developer tools__ del navegador (para eso, si está usando Google Chrome, presione `F12` en Windows o `Command + Option + I` en Mac).
 4. En developer tools, haga clic en la pestaña __Network__.
 5. Todavía en developer tools, haga clic en la opción __All__.![erroSuggestion2](//images.contentful.com/alneenqid6w5/tXLZF0IEO4KKa6O4WuQg6/58adc90c3afa5ce2d02238079cabd958/erroSuggestion2.png)

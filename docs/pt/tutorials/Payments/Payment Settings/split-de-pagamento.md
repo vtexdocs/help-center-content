@@ -53,7 +53,7 @@ Por exemplo, um cliente adiciona dois produtos ao mesmo carrinho de compras. Um 
 
 O pagamento é distribuído da seguinte forma:
 
-![Split de recebíveis](//images.ctfassets.net/alneenqid6w5/4XGw7jeLfayteKzZ9eMaUU/60f806b9ee7dc128b7b6b55e8cc114c7/Split_de_receb__veis.png)
+![Split de recebíveis](https://images.ctfassets.net/alneenqid6w5/4XGw7jeLfayteKzZ9eMaUU/60f806b9ee7dc128b7b6b55e8cc114c7/Split_de_receb__veis.png)
 
 Nosso gateway calcula e distribui os pagamentos para cada beneficiário quando o pedido é faturado e envia essas informações ao provedor de pagamento. A distribuição é feita considerando o valor destinado a cada parte envolvida no pedido e as comissões cobradas pelo marketplace.
 

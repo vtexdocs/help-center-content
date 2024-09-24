@@ -32,7 +32,7 @@ Essas configurações são realizadas em seu Google TagManager.
 8. Salve o acionador;
 9. Clique no botão **Criar Tag**, insira um nome para esta tag e Salve.
 
-![](//images.contentful.com/alneenqid6w5/YndMcdc0aAw2GKYU0EyU2/c917ac451cfeb262d8354164c6caa285/MercadoPagoTransparente_1_PT.gif)
+![](https://images.contentful.com/alneenqid6w5/YndMcdc0aAw2GKYU0EyU2/c917ac451cfeb262d8354164c6caa285/MercadoPagoTransparente_1_PT.gif)
 
 ## Criando a segunda tag
 

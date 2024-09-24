@@ -50,7 +50,7 @@ After installing, you will configure the basic settings of the VTEX Sales App ap
 
 ### Add the store address
 
-![cadastrar-loja-pt](//images.contentful.com/alneenqid6w5/51ICHIzuWsMAwPCVwQuQoB/071ec5240f968e662badf4e828954072/cadastrar-loja-pt.png)
+![cadastrar-loja-pt](https://images.contentful.com/alneenqid6w5/51ICHIzuWsMAwPCVwQuQoB/071ec5240f968e662badf4e828954072/cadastrar-loja-pt.png)
 
 On this screen, enter the name of the first physical store where VTEX Sales App will be used and the full address of the store. After filling out all the fields, click on `Confirm`.
 

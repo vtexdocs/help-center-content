@@ -175,7 +175,7 @@ See below the spreadsheet columns content to understand each field in detail.
 >ℹ️ We used the term "weight" when referring to "mass" in this documentation for readability.
 
 Here is an example of how to fill in the fields in the spreadsheet.
-![modelo_planilhanumerica](//images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
+![modelo_planilhanumerica](https://images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
 
 ## Upload the spreadsheet in VTEX Admin
 

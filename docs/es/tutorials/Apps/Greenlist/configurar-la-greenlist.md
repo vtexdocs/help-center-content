@@ -45,7 +45,7 @@ Cuanto más datos de suscripción exijas, más estrictas serán tus reglas, y me
 
 Para marcar un cliente como confiable, el propietario de la tienda usa algunos criterios. Estos criterios son los __datos de compra que componen la firma de un pedido__
 
-![Greenlist - suscripción](//images.contentful.com/alneenqid6w5/3CvVVFRIJ22wS6o8sq6ok6/45cdf4a8259437d36aa74a40a8a04715/Greenlist_-_assinatura.png) 
+![Greenlist - suscripción](https://images.contentful.com/alneenqid6w5/3CvVVFRIJ22wS6o8sq6ok6/45cdf4a8259437d36aa74a40a8a04715/Greenlist_-_assinatura.png) 
 
 Digamos que marques tres de las opciones arriba: __E-mail__, __Dirección de entrega__ y __Tarjeta de crédito__. Esto significa que, para que nuevos pedidos de ese cliente no pasen por el antifraude, él tiene que usar en nuevas compras los mismos datos de email, dirección y tarjeta de crédito. 
 

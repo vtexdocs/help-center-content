@@ -87,7 +87,7 @@ Follow the steps below to create a shipping option:
     - **Free shipping:** Free of charge for the consumer; no additional configuration is required.
 8. Click `Save`.
 
-![opcoes_envio_criacao_en](//images.ctfassets.net/alneenqid6w5/6TOlNWWBTED41BXemhsvQE/3f6e3be89d0d3b4c22216df25aa2c875/opcoes_envio_criacao_en.png)
+![opcoes_envio_criacao_en](https://images.ctfassets.net/alneenqid6w5/6TOlNWWBTED41BXemhsvQE/3f6e3be89d0d3b4c22216df25aa2c875/opcoes_envio_criacao_en.png)
 
 ## Editing a shipping option
 

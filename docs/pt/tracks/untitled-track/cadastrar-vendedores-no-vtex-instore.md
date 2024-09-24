@@ -24,7 +24,7 @@ O cadastro do vendedor permite o app ter uma associação de um vendedor com uma
 2. Carregar os preços, condições de pagamento e disponibilidade do produto da loja que o vendedor faz parte;
 
 A identificação do vendedor é feita assim que o inStore é aberto pela primeira vez no dia:
-![identificacao-vendedor](//images.contentful.com/alneenqid6w5/2LhlUtsEYouEY4i4iYOIOq/d556be06047c26ee85f392ba7256f9f8/identificacao-vendedor.png)
+![identificacao-vendedor](https://images.contentful.com/alneenqid6w5/2LhlUtsEYouEY4i4iYOIOq/d556be06047c26ee85f392ba7256f9f8/identificacao-vendedor.png)
 
 Para cadastrar os vendedores que a tela acima permite identificar basta acessar o seu Masterdata.
 

@@ -21,7 +21,7 @@ Para acessá-la, siga os passos abaixo:
 
 1. Na topbar do Admin, no canto direito, clique no botão com a letra inicial do seu nome;
 2. Clique na opção __Configurações de usuário__.  
-![Opção Configurações de usuário User Management PT](//images.ctfassets.net/alneenqid6w5/t0xviJchq6iWQbtJc1OAX/44c8a24a6ac48c1aeedc6c8adba9f908/Op____o_Configura____es_de_usu__rio_User_Management_PT.png)
+![Opção Configurações de usuário User Management PT](https://images.ctfassets.net/alneenqid6w5/t0xviJchq6iWQbtJc1OAX/44c8a24a6ac48c1aeedc6c8adba9f908/Op____o_Configura____es_de_usu__rio_User_Management_PT.png)
 
 Há duas opções no menu:
 

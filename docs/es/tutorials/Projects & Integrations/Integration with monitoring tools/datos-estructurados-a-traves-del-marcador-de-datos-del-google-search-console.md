@@ -65,7 +65,7 @@ Con ese tipo de información, el usuario indicará a Google información sobre l
 - <en style="color: gray">Fecha de la re-contraseña:_
 
 **Paso 1**
-![](//images.contentful.com/alneenqid6w5/2auEIkvBGMO8gqWqgA4u8q/0c53485d350f622ae184852c88688f0c/marcadordedados_step1.gif)****
+![](https://images.contentful.com/alneenqid6w5/2auEIkvBGMO8gqWqgA4u8q/0c53485d350f622ae184852c88688f0c/marcadordedados_step1.gif)****
 
 **Paso 2**
 ![](//images.contentful.com/alneenqid6w5/62T28aRiUM0cOwOmiOQ2UA/8584923dd2b3c1f9f9bc7a782caee223/marcadordedados_step2_url_type.gif)

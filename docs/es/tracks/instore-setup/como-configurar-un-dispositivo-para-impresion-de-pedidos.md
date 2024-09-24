@@ -16,7 +16,7 @@ trackSlugES: instore-setup
 
 Dentro de las opciones que ofrece **inStore** al momento de completar una venta, se encuentra una que permite imprimir el resumen del pedido.
 
-![ES-Venda confirmada](//images.ctfassets.net/alneenqid6w5/54Z1ETTtBXkSxJsWu16UKV/fe90bb4197cce83777fd9f4fee75bbd7/ES-Venda_confirmada.png)
+![ES-Venda confirmada](https://images.ctfassets.net/alneenqid6w5/54Z1ETTtBXkSxJsWu16UKV/fe90bb4197cce83777fd9f4fee75bbd7/ES-Venda_confirmada.png)
 
 Para configurar esta opción, serán necesarios dos pequeños pasos:
   1. Por el Admin VTEX, active la opción de configuración del dispositivo en el menú inStore.

@@ -21,7 +21,7 @@ Com essa integração via **VTEX Assisted Sales (SuiteShare)** (através do for
 
 Na dashboard em _**“Integrações”**_.
 
-![RdStation 1](//images.ctfassets.net/alneenqid6w5/2eZU6639ayDOZ8QCPfhvIm/b58704b43e43079e466f0c51e2902866/image.png)
+![RdStation 1](https://images.ctfassets.net/alneenqid6w5/2eZU6639ayDOZ8QCPfhvIm/b58704b43e43079e466f0c51e2902866/image.png)
 
 Ou clique em "_**configurações > Integrações"**_.
 

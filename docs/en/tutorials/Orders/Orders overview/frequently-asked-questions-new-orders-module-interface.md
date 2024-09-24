@@ -26,7 +26,7 @@ From February 1st, 2023, the new interface will be the default for all VTEX stor
 
 You can see the sections and fields correspondence between the old version of the **Order Details** page and the new version in the image below:
 
-![board_comparativo_interface_pedido_v2_en](//images.ctfassets.net/alneenqid6w5/30tYehAYOCvQoX0MpSIoNH/c0bd90681544108bd26da14f7091fc1d/board_comparativo_interface_pedido_v2_en.png)
+![board_comparativo_interface_pedido_v2_en](https://images.ctfassets.net/alneenqid6w5/30tYehAYOCvQoX0MpSIoNH/c0bd90681544108bd26da14f7091fc1d/board_comparativo_interface_pedido_v2_en.png)
 
 ## What happened to the six-month search filter?
 

@@ -25,7 +25,7 @@ Below we reproduce an excerpt of CSS that you can use as a starting point for th
 
 Next we are going to send the saved CSS file to the server. To do this, click on the _Configurações&gt; Portal_ menu in Admin.
 
-![](//images.contentful.com/alneenqid6w5/3uLeF6wpvq4m4Wis48eeE8/4f79bf7753fb25309b670e9ea702a3ad/configuracao_zoom.gif)
+![](https://images.contentful.com/alneenqid6w5/3uLeF6wpvq4m4Wis48eeE8/4f79bf7753fb25309b670e9ea702a3ad/configuracao_zoom.gif)
 
 In the window that opens on the right, click on **Adicionar**.
 

@@ -17,7 +17,7 @@ announcementSynopsisEN: 'The new version of the order confirmation page is now a
 
 Earlier this month we announced the release of one of the many new features that VTEX is developing to further enhance the user experience - the new My Orders section. Today we released another feature that integrates this section: the new version of the Order Placed page.
 
-![RequestConfirmed](// images.contentful.com/alneenqid6w5/2Xr5mMmZMs0WAy4i6cK4EC/50c153cf99a137eb55f0d0dbc34ee820/ConfirmedPosition.png)
+![RequestConfirmed](https:// images.contentful.com/alneenqid6w5/2Xr5mMmZMs0WAy4i6cK4EC/50c153cf99a137eb55f0d0dbc34ee820/ConfirmedPosition.png)
 
 It is now part of __Checkout Confirmation__, feature that's responsible for the Checkout confirmation pages. And it brings important advantages to your store:
 

@@ -18,7 +18,7 @@ trackSlugPT: cms
 
 A seção [Layout](https://help.vtex.com/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) permite que você crie seu storefront usando HTML e CSS. Ela é organizada em pastas e arquivos com as funções descritas abaixo.
 
-![CMS - Layout PT](//images.ctfassets.net/alneenqid6w5/4YnFtKkC8exlv3vm8VTCqh/ce15ae6de766c7856a26d9c2f7e21cbc/cms-layout-pt.png)
+![CMS - Layout PT](https://images.ctfassets.net/alneenqid6w5/4YnFtKkC8exlv3vm8VTCqh/ce15ae6de766c7856a26d9c2f7e21cbc/cms-layout-pt.png)
 
 - **HTML Templates:** criar o código HTML e os arquivos JavaScript e CSS de referência que serão usados nas páginas do site.
 

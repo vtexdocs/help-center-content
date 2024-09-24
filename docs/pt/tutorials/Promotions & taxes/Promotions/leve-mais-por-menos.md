@@ -50,7 +50,7 @@ Nesta seção, fornecemos informações detalhadas sobre os dados gerais desta p
 - **Informações adicionais (opcional):** permite  incluir informações adicionais a promoção composto de um nome e valor.
 - **Destaque nos produtos:** insere uma tag com o nome da promoção, utilizada na vitrine e na página do produto. Essa flag só será inserida caso use o controle correto de exibição de promoção no template: `<vtex.cmc:discountHightLight/>`. Campo de preenchimento obrigatório.
 
-![Dados gerais 1 - PT](//images.ctfassets.net/alneenqid6w5/4Ara5CRqjivFlYltPnMGpN/39c1ba28770bab08c1c8eebcdcf2c5a5/Dados_gerais_1_-_PT.png)
+![Dados gerais 1 - PT](https://images.ctfassets.net/alneenqid6w5/4Ara5CRqjivFlYltPnMGpN/39c1ba28770bab08c1c8eebcdcf2c5a5/Dados_gerais_1_-_PT.png)
 
 ### Restringir esta promoção a produtos dos sellers
 

@@ -19,7 +19,7 @@ Editing the fields that appear as mandatory in __Profile System__ in __Master Da
 1. In the admin menu, select the __Master Data__ module.
 2. Make sure that you're in the __Applications__ tab, in __Quick Links__.
 3. Click on settings in __Profile System__.
-![MasterDataTutorial 1 UM](//images.ctfassets.net/alneenqid6w5/6BwZrUrNopO6Nb3n49B8L9/ba74f6ae261e1d8f0fc7a32cf7ad321f/MasterDataTutorial_1_UM.jpg)
+![MasterDataTutorial 1 UM](https://images.ctfassets.net/alneenqid6w5/6BwZrUrNopO6Nb3n49B8L9/ba74f6ae261e1d8f0fc7a32cf7ad321f/MasterDataTutorial_1_UM.jpg)
 4. Click on the __pencil__ next to the item you wish to configure.
 ![MasterDataTutorial2](//images.ctfassets.net/alneenqid6w5/1OU9KjvK8sUUtHr5MZqbci/4297f3f56819f622d77845054b3dbb0d/MasterDataTutorial2.png)
 5. Click on __Layout Outlines__.

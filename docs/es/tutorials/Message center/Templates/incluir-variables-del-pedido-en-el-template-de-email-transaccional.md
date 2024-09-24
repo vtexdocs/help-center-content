@@ -34,7 +34,7 @@ Digamos que usted desea insertar el nombre del transportista en el e-mail de ped
 
 Para ello, entre en la plantilla de pedido enviado y, en el campo __JSON Data__, busque la propiedad `courier`.
 
-![templateCourierMCEspanhol](//images.contentful.com/alneenqid6w5/5bUVtrYTugUiqKimU6COEK/d73394e8e6f37fe56ea7ec6718c7edf6/templateCourierMCEspanhol.png)
+![templateCourierMCEspanhol](https://images.contentful.com/alneenqid6w5/5bUVtrYTugUiqKimU6COEK/d73394e8e6f37fe56ea7ec6718c7edf6/templateCourierMCEspanhol.png)
 
 El valor llenado para esta propiedad es sólo un ejemplo, pero puede utilizarlo en el campo __HTML__ para que, cuando se envía el e-mail, el cliente vea el transportista de hecho responsable de la entrega del pedido.
 

@@ -39,7 +39,7 @@ Feito isso, o produto será ativado e estará disponível na sua loja.
 Nesta aba, você vai realizar o cadastro do produto preenchendo os campos descritos abaixo com as características do item.
 
 ## Informações gerais
-![image9](//images.ctfassets.net/alneenqid6w5/zuDEylLB51jEYDgupvInT/3cbd44a15e049422865dadb7169d0c38/image9.png)
+![image9](https://images.ctfassets.net/alneenqid6w5/zuDEylLB51jEYDgupvInT/3cbd44a15e049422865dadb7169d0c38/image9.png)
 
 - **Nome**: informe o título do produto na loja. Use palavras simples e evite outros idiomas ou escrita complexa. Esse campo é importante para SEO e deve respeitar o limite de 150 caracteres. Campo obrigatório. 
 **Exemplo**: Tênis Esportivo Ultralight.

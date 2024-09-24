@@ -60,7 +60,7 @@ Below you can see examples of the flows of adding, editing and deleting rounding
 
 *_Procedure for creating a rule_*
 
-![config-arrendodamento-EN](//images.ctfassets.net/alneenqid6w5/77tOZFjGCbkDjfCbPVeg4c/cf07a45f811bd5bfd6c80ddbc478c2a4/config-arrendodamento-EN.gif)
+![config-arrendodamento-EN](https://images.ctfassets.net/alneenqid6w5/77tOZFjGCbkDjfCbPVeg4c/cf07a45f811bd5bfd6c80ddbc478c2a4/config-arrendodamento-EN.gif)
 
 *_Procedure for modifying a rule_*
 

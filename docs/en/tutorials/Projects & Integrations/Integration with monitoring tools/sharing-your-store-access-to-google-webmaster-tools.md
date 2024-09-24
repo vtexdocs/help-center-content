@@ -19,7 +19,7 @@ For our consultancy and operations teams to do a better job and give you better 
 
 After accessing your account, you will be directed to the list of your websites; so, just select the website whose access you intend to share by clicking on your website link.
 
-![web1](//images.contentful.com/alneenqid6w5/3sjO5gPjcA2uCms8KskmU4/484df9e2d251c709169c88a626e2b575/web1.png)
+![web1](https://images.contentful.com/alneenqid6w5/3sjO5gPjcA2uCms8KskmU4/484df9e2d251c709169c88a626e2b575/web1.png)
 
 Now, go to the admin panel of our page. There are several options available on the left-side menu, however, to share the access, you must select the gear icon on the top menu, and click on **Site users and owners.**
 

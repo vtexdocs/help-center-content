@@ -25,7 +25,7 @@ The browser submits a **request** and the server’s reply is its **response**. 
 
 See the schematic chart shown below:
 
-![How the cache works - communication between server and browser](//images.ctfassets.net/alneenqid6w5/6ONSKQqdEoIsHxcvfp5GoS/c0dd7b6c39dd72bc71c60185e926fa67/1_EN.png)
+![How the cache works - communication between server and browser](https://images.ctfassets.net/alneenqid6w5/6ONSKQqdEoIsHxcvfp5GoS/c0dd7b6c39dd72bc71c60185e926fa67/1_EN.png)
 
 The cache is represented by a layer between the browser and server. So when a **request** is made, instead of the system going straight to the server to find the information, it first goes to this layer, which makes the response much quicker. A schematic diagram is shown below:
 

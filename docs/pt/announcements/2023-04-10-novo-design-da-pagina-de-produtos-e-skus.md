@@ -28,7 +28,7 @@ A nova interface de **Produtos & SKUs** possibilita:
 * Acompanhar status de produtos e SKUs de forma mais direta e visual, com ícones e status de SKUs diretamente na listagem.
 * Identificar com mais facilidade produtos e SKUs com informações pendentes para ficarem disponíveis para venda, a partir do novo status **Pendente**.
 
-![catalog-products-skus-pt](//images.ctfassets.net/alneenqid6w5/20sC1yswkFmqokxll0ehi1/269a128e08a453ce564041ceb39bea9e/screencapture-catalog-sandboxintegracao-myvtex-admin-catalog-2023-04-10-10_25_56_1.png)
+![catalog-products-skus-pt](https://images.ctfassets.net/alneenqid6w5/20sC1yswkFmqokxll0ehi1/269a128e08a453ce564041ceb39bea9e/screencapture-catalog-sandboxintegracao-myvtex-admin-catalog-2023-04-10-10_25_56_1.png)
 
 ## Por que fizemos essa mudança?
 

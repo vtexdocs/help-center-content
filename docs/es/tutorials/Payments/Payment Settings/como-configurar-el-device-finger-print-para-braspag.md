@@ -29,7 +29,7 @@ Para insertar  los scripts que Braspag/CyberSource requiere para el device finge
 
 ## Creación de variables (macros) y disparadores
 
-- Cree la variable de nombre `trasactionPaymentId`, tipo **Variable de la capa de datos**, leyendo la variable `transactionPayment.id` del datalayer.![](//images.contentful.com/alneenqid6w5/2iGloCXR32IMAyWAKe8qWy/cf1108ad17e944adc63f189e67cfa93d/gtm-cybersource-variavel1-1.png)
+- Cree la variable de nombre `trasactionPaymentId`, tipo **Variable de la capa de datos**, leyendo la variable `transactionPayment.id` del datalayer.![](https://images.contentful.com/alneenqid6w5/2iGloCXR32IMAyWAKe8qWy/cf1108ad17e944adc63f189e67cfa93d/gtm-cybersource-variavel1-1.png)
 - Cree la variable de nombre `cs_sessionId`, con el tipo **JavaScript personalizado** y el siguiente código:
 
 ```

@@ -37,7 +37,7 @@ Esta opción permite compartir un carrito lleno de ítems con uno o más cliente
 
 Vea el paso a paso que se muestra a continuación.
 
-![socialselling-sugestaocarrinho-es](//images.ctfassets.net/alneenqid6w5/4UJM2FglGqcJGdFJqZ9AQg/dccf53fd6fdac19cd750717c4dd4a0be/socialselling-sugestaocarrinho-es.gif)
+![socialselling-sugestaocarrinho-es](https://images.ctfassets.net/alneenqid6w5/4UJM2FglGqcJGdFJqZ9AQg/dccf53fd6fdac19cd750717c4dd4a0be/socialselling-sugestaocarrinho-es.gif)
 
 El vendedor puede enviar el mismo enlace a varios clientes, tantas veces como lo desee. Cada vez que una persona acceda a este enlace, se generará un nuevo carrito de compra, exactamente igual al creado en VTEX Sales App. Cada carrito al que se accede también está asociado a la cuenta del vendedor y, si existe, al código del vendedor.
 

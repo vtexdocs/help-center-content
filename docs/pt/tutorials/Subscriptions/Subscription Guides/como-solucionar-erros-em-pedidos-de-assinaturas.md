@@ -30,7 +30,7 @@ Problemas em ciclos de assinaturas acontecem quando há um problema que impede a
 
 A aba **Ciclos com problema**, ilustrada na imagem abaixo, reúne os pedidos de assinaturas que apresentam problemas desse tipo.
 
-![cicloscomproblema PT](//images.ctfassets.net/alneenqid6w5/5ijnWeUeqRzKWa2agsxK7O/ee04171d3d9c785e049382f1e927b715/cicloscomproblema_PT.png)
+![cicloscomproblema PT](https://images.ctfassets.net/alneenqid6w5/5ijnWeUeqRzKWa2agsxK7O/ee04171d3d9c785e049382f1e927b715/cicloscomproblema_PT.png)
 
 A partir dessa aba, é possível gerenciar os pedidos que apresentam ciclos com problema e fazer novas tentativas manuais de criação de pedidos. Por exemplo, quando um produto está indisponível, você pode ajustar o estoque e, em seguida, fazer a nova tentativa.
 

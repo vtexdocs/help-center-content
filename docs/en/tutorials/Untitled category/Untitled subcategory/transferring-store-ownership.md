@@ -25,7 +25,7 @@ The Sponsor management page allows you to identify the current Sponsor user, tra
 
 You should see a screen that is similar to the image below, with contact information for the current Sponsor user, a disclaimer indicating the risks associated with transferring store ownership and a button that allows you to acknowledge the risks and transfer ownership anyway.
 
-![Sponsor management panel](//images.ctfassets.net/alneenqid6w5/7AiPMmn3NnMjg89WgEfBXP/b4b9533827aeb3d03960c24eb092cb98/Sponsor_Management_en.png)
+![Sponsor management panel](https://images.ctfassets.net/alneenqid6w5/7AiPMmn3NnMjg89WgEfBXP/b4b9533827aeb3d03960c24eb092cb98/Sponsor_Management_en.png)
 
 ## Steps in the ownership transfer flow
 

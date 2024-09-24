@@ -36,7 +36,7 @@ Hay cuatro tipos de flujo de pedidos en VTEX:
 
 ### Flujo de marketplace
 
-![pedido_marketplace_es](//images.ctfassets.net/alneenqid6w5/5XrrV8mQNzqESn0XKJHJW7/390a09b29e0385c23be5ce5228e8b9f4/pedido_marketplace_es.png)
+![pedido_marketplace_es](https://images.ctfassets.net/alneenqid6w5/5XrrV8mQNzqESn0XKJHJW7/390a09b29e0385c23be5ce5228e8b9f4/pedido_marketplace_es.png)
 
 El flujo del _marketplace_ está integrado con el flujo del _seller_. Cuando se finaliza un pedido que será enviado por un _seller_ externo (que no es el _seller_ principal), el flujo visto por el _marketplace_ es el siguiente: 
 

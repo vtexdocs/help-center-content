@@ -23,7 +23,7 @@ El plazo de entrega de un pedido tiene en cuenta los __tiempos de costo__ defini
 
 Para cada una de las tres etapas de la ruta logística, puede establecer un tiempo de costo - y el tiempo de entrega que verá su cliente en el checkout es la suma de estos tiempos de costo (+ feriados, y considerando también los horarios de corte).
 
-![deliveryCostTimes](//images.contentful.com/alneenqid6w5/hA6N4VPj440AEqEecIUck/0a6784f0c3d6f6d88b65547762600a7d/deliveryCostTimes.png)
+![deliveryCostTimes](https://images.contentful.com/alneenqid6w5/hA6N4VPj440AEqEecIUck/0a6784f0c3d6f6d88b65547762600a7d/deliveryCostTimes.png)
 
 Los tiempos de costo del __stock__ y del __muelle__ se definen en las pantallas de configuración de cada una de estas etapas, en el módulo Inventario y Envío > Paneles.
 

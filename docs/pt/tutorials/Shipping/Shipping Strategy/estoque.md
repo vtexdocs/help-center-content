@@ -19,7 +19,7 @@ Para a plataforma VTEX o estoque é a identificação do espaço físico de arma
 
 É importante atentar-se à etapa logística do estoque e como as configurações na plataforma VTEX influenciam na entrega de pedidos. A partir do estoque os pedidos saem para as docas, e nas docas são retirados pelas transportadoras. 
 
-![EstrategiaEnvio](//images.ctfassets.net/alneenqid6w5/91iqVknOpCjUKO1XQaYvq/02cad4cbd4829e774e2b51474e4675cf/Frame_2__1_.svg)
+![EstrategiaEnvio](https://images.ctfassets.net/alneenqid6w5/91iqVknOpCjUKO1XQaYvq/02cad4cbd4829e774e2b51474e4675cf/Frame_2__1_.svg)
 
 >ℹ️ A transportadora que realizará a entrega de um certo pedido é definida pela [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). Para que uma transportadora seja escolhida para a realização da entrega do pedido, é preciso que a política de envio dessa transportadora satisfaça as condições necessárias para a entrega do pedido. A política de envio é vinculada ao estoque pela Doca.
 

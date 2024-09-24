@@ -29,7 +29,7 @@ Basta incluir um atributo com o nome `salesChannel`, conforme ilustrado na rota
 
 A partir de então, os próximos pedidos serão criados com o canal de vendas configurado. Caso não tenha estoque para determinado item neste canal o item será excluido do pedido.   
 
-![posicao.pt](//images.ctfassets.net/alneenqid6w5/7aFEnASwXi9emVUzKJr4pm/8c5f2727be50812817612850e19769cb/posicao.pt.png)
+![posicao.pt](https://images.ctfassets.net/alneenqid6w5/7aFEnASwXi9emVUzKJr4pm/8c5f2727be50812817612850e19769cb/posicao.pt.png)
 
 *Tela onde se encontra o ID do salesChannel*
 

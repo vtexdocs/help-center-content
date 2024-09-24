@@ -19,7 +19,7 @@ A partir de agora, sua loja pode usar ponto e vírgula (`;`) para concatenar end
 
 Esse recurso funciona nos campos de cópia (`Destinatário (CC)`) e cópia oculta (`Destinatário (CCO)`), assim como a vírgula já funcionava anteriormente. Agora as duas opções de concatenação são válidas.
 
-![Message Center bug fix](//images.ctfassets.net/alneenqid6w5/1DCmh5JlI4cGyIEgwuQQUk/068e65871809d2810df7ec0427773b56/Message_Center_bug_fix.png)
+![Message Center bug fix](https://images.ctfassets.net/alneenqid6w5/1DCmh5JlI4cGyIEgwuQQUk/068e65871809d2810df7ec0427773b56/Message_Center_bug_fix.png)
 
 Essa mudança simples no módulo responsável pelo envio de e-mails transacionais reduziu drasticamente a taxa de erros em comunicações com clientes.
 

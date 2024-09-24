@@ -35,7 +35,7 @@ Una vez que se haya autenticado por el método elegido, usted accederá al panel
 
 Para abrir un ticket, simplemente haga clic en el botón __Enviar una solicitud__.
 
-![chamado financeiro1 ES](//images.ctfassets.net/alneenqid6w5/5yMKtmj6Hm4IiIuwmW0yiw/ae68f5d5b54c92aa65e57774501e6c26/chamado_financeiro1_ES.png)
+![chamado financeiro1 ES](https://images.ctfassets.net/alneenqid6w5/5yMKtmj6Hm4IiIuwmW0yiw/ae68f5d5b54c92aa65e57774501e6c26/chamado_financeiro1_ES.png)
 
 Usted será llevado al formulario de envío de ticket, donde debe llenar:
 - Su nombre.

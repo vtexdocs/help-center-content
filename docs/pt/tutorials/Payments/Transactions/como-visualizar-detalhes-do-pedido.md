@@ -30,7 +30,7 @@ No lado direito há uma caixa que contém o valor total do pedido, os dados do c
 
 O ID é referente à transação no gateway da plataforma VTEX, e é inclusive parte da URL.
 
-![pci](//images.contentful.com/alneenqid6w5/65oy7tCoAoCMgGIi4CYau6/69e8caa34812349a09014157d0d27e33/pci.png)
+![pci](https://images.contentful.com/alneenqid6w5/65oy7tCoAoCMgGIi4CYau6/69e8caa34812349a09014157d0d27e33/pci.png)
 
 Acima dessa caixa, há um link para o pedido no módulo **Pedidos**.
 

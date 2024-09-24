@@ -28,7 +28,7 @@ The example used is the query API related to orders: [http://{STORENAME}.vtexcom
 
 We will use a filter based on the date of creation of the order, within a range that may bring all orders marked as “**há um mês**” and whose status is “**pronto para manuseio.”**
 
-![](//images.contentful.com/alneenqid6w5/53zjSDeDBe20MkAQa2iqk0/ba1b8b24ddb63e121dd060a79aa1a534/OMS_Filtro5.png)
+![](https://images.contentful.com/alneenqid6w5/53zjSDeDBe20MkAQa2iqk0/ba1b8b24ddb63e121dd060a79aa1a534/OMS_Filtro5.png)
 
 ![](//images.contentful.com/alneenqid6w5/3AS1rSk36MAwSIMGkaqsSm/1c496620f9c9669b7c9ccd6078681f8e/OMS_Filtro.png)
 

@@ -46,7 +46,7 @@ To download your invoice, follow the steps below:
 
 The invoice will then be appear in another tab.
 
-![baixar faturas en](//images.ctfassets.net/alneenqid6w5/4kge4ovIXcBv8EYizjg2ro/cd75e5882e47da9114a87979c13c1f9b/baixar_faturas_en.gif)
+![baixar faturas en](https://images.ctfassets.net/alneenqid6w5/4kge4ovIXcBv8EYizjg2ro/cd75e5882e47da9114a87979c13c1f9b/baixar_faturas_en.gif)
 
 ## Brazil 
 

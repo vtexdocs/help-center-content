@@ -28,7 +28,7 @@ Configura el [binding de la tienda](https://help.vtex.com/en/tutorial/what-is-cm
 
 Binding es el proceso para vincular tu sitio web a una tienda. Para más detalles, consulta el artículo [Vincular una tienda a una estructura de carpetas en CMS (binding)](https://help.vtex.com/en/tutorial/vincular-um-account-name-a-um-website-binding).
 
-![CMS - Layout ES](//images.ctfassets.net/alneenqid6w5/4YnFtKkC8exlv3vm8VTCqh/b79de6b1ecd88c672cd7f004666e4106/cms-layout-es.png)
+![CMS - Layout ES](https://images.ctfassets.net/alneenqid6w5/4YnFtKkC8exlv3vm8VTCqh/b79de6b1ecd88c672cd7f004666e4106/cms-layout-es.png)
 
 ## Páginas
 En **[Páginas](https://help.vtex.com/es/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc)**, crea una nueva URL y enlázala a una plantilla ya definida en el [código del tema de la tienda](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates).

@@ -28,7 +28,7 @@ O exemplo utilizado é a API de consulta aos pedidos: http://{NOMEDALOJA}.vtex
 
 Usaremos o filtro pela data de criação do pedido em um intervalo que traga todos os pedidos realizados **há um mês** e que estejam no status **pronto ****para manuseio.**
 
-![](//images.contentful.com/alneenqid6w5/53zjSDeDBe20MkAQa2iqk0/ba1b8b24ddb63e121dd060a79aa1a534/OMS_Filtro5.png)
+![](https://images.contentful.com/alneenqid6w5/53zjSDeDBe20MkAQa2iqk0/ba1b8b24ddb63e121dd060a79aa1a534/OMS_Filtro5.png)
 
 ![](//images.contentful.com/alneenqid6w5/3AS1rSk36MAwSIMGkaqsSm/1c496620f9c9669b7c9ccd6078681f8e/OMS_Filtro.png)
 

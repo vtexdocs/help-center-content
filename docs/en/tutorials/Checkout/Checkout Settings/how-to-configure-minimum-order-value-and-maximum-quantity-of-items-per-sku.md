@@ -30,7 +30,7 @@ In B2B operations, there is a need to maintain relationships with buyers who req
 2. On the tab __General__, fill in the desired value in the field __Minimum total amount in cart__.
 3. Click `Save`.
 
-![Minimum Order Value - EN](//images.ctfassets.net/alneenqid6w5/6bJ49E109ewRg9VUoP16rP/871fa991d270c1e64c12f0cdf3c5a4ab/Minimum_Order_Value_-_EN.png)
+![Minimum Order Value - EN](https://images.ctfassets.net/alneenqid6w5/6bJ49E109ewRg9VUoP16rP/871fa991d270c1e64c12f0cdf3c5a4ab/Minimum_Order_Value_-_EN.png)
 
 >⚠️ The customer is allowed to assemble a cart with a value less than that specified in the "Minimum total amount in cart" rule. However, at the time of closing the purchase, only orders that are equal to or greater than the specified amount will be completed.
 

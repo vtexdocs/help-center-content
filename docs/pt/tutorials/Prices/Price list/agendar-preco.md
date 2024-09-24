@@ -56,7 +56,7 @@ Você também pode realizar o agendamento de preços por importação de planilh
 
 1. No Admin VTEX, acesse **Preços > Lista de preços**, ou digite **Lista de preços** na barra de busca no topo da página.
 2. Clique no ícone 📥 para exportar a planilha que será preenchida.
-![Agendar preço fixo - PT](//images.contentful.com/alneenqid6w5/49YjTAWw59Mglg2DMUT65w/08b89d10517f3bbddc78569650ebc09d/Screenshot_2021-08-05_at_17-11-39_-EDU-4229-_Agendar_pre__o_fixo.png)
+![Agendar preço fixo - PT](https://images.contentful.com/alneenqid6w5/49YjTAWw59Mglg2DMUT65w/08b89d10517f3bbddc78569650ebc09d/Screenshot_2021-08-05_at_17-11-39_-EDU-4229-_Agendar_pre__o_fixo.png)
 3. Selecione apenas a opção **Tabela de preços fixos**.
 4. Clique em `Exportar 1 tabela` para finalizar.
 

@@ -18,7 +18,7 @@ Usted ya tiene un producto asociado a una categoría y una marca, tiene un SKU p
 
 Para registrar el stock, siga estos pasos.
 1. En el módulo __Catalog__, pase el ratón sobre __Registro de Productos__, vaya a __Productos y SKUs__ y haga clic en la opción __Registro de Productos y SKUs__.
-2. En la línea del SKU, haga clic en el símbolo del carrito (se le llevará al módulo Logistics).![SKUstock](//images.contentful.com/alneenqid6w5/5HArBLp1qoq6cyUk8Oc8mO/473c1415e082ee2c644f5ab95f24ff73/SKUstock.png)
+2. En la línea del SKU, haga clic en el símbolo del carrito (se le llevará al módulo Logistics).![SKUstock](https://images.contentful.com/alneenqid6w5/5HArBLp1qoq6cyUk8Oc8mO/473c1415e082ee2c644f5ab95f24ff73/SKUstock.png)
 
 Usted verá una tabla con información acerca de:
 - El SKU cuya acción está editando.

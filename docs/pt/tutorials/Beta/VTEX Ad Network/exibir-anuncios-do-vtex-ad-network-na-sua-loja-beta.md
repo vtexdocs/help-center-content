@@ -27,7 +27,7 @@ Para aderir ao VTEX Ad Network e exibir anúncios na sua loja, basta instalar o 
 
 Na tela inicial do aplicativo [VTEX Ad Network para lojas](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#lojas), você pode acompanhar os resultados de anúncios na sua loja.
 
-![vtex_ad_network_admin_PT](//images.ctfassets.net/alneenqid6w5/7nvJI9GTv53buxMMyvarRa/c479a1adcfce1ab838edfa17aeb6aca7/vtex_ad_network_admin.png)
+![vtex_ad_network_admin_PT](https://images.ctfassets.net/alneenqid6w5/7nvJI9GTv53buxMMyvarRa/c479a1adcfce1ab838edfa17aeb6aca7/vtex_ad_network_admin.png)
 
 Na parte superior, estão dados agregados:
 

@@ -25,7 +25,7 @@ Antes, el registro de la [integración con Google Shopping](https://help.vtex.co
 
 >⚠️ La configuración **Aplicar descuento al precio enviado** solo está disponible para tiendas VTEX en Brasil.
 
-![envio-de-precos-google-es](//images.ctfassets.net/alneenqid6w5/5ZZihnxaawRM55WkmZ8YJA/afc4f30ca92f564cb47326e9956b21df/envio-de-precos-google-es.png)
+![envio-de-precos-google-es](https://images.ctfassets.net/alneenqid6w5/5ZZihnxaawRM55WkmZ8YJA/afc4f30ca92f564cb47326e9956b21df/envio-de-precos-google-es.png)
 
 ## ¿Qué se necesita hacer?
 

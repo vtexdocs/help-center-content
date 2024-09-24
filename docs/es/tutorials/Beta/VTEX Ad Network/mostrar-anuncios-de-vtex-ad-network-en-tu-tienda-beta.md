@@ -27,7 +27,7 @@ Para unirte a VTEX Ad Network y publicar anuncios en tu tienda, solo tienes que 
 
 En la pantalla de inicio de la aplicación [VTEX Ad Network para retailers](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#retailers), puedes dar seguimiento a los resultados de los anuncios en tu tienda.
 
-![vtex_ad_network_admin_ES](//images.ctfassets.net/alneenqid6w5/7nvJI9GTv53buxMMyvarRa/2bc7abac921ebb2cf334a5cdaf855e9a/vtex_ad_network_admin.png)
+![vtex_ad_network_admin_ES](https://images.ctfassets.net/alneenqid6w5/7nvJI9GTv53buxMMyvarRa/2bc7abac921ebb2cf334a5cdaf855e9a/vtex_ad_network_admin.png)
 
 En la parte superior se muestran los datos agregados:
 

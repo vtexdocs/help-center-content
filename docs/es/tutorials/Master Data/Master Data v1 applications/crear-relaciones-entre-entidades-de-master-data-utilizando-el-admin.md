@@ -46,7 +46,7 @@ Ilustramos a continuación los pasos a seguir con este mismo ejemplo:
 8. Haz clic en el ícono de engranaje <i class="fas fa-cog"></i> situado al lado del campo **Relationship** para configurarlo.
 9. En **Configuración de campo personalizado**, selecciona la entidad a la que deseas hacer referencia y el campo que se mostrará en la relación. En este ejemplo, la relación se realizará con la entidad **Cliente** y se mostrará el campo **email**.
 
-   ![Relación entidad Lista de Compras](//images.ctfassets.net/alneenqid6w5/3YjtdLHluQz9ve11TkmylY/e93299cbfa8d2f570345af87a0b783a9/Lista_Compras_Relacionamento_ES.png)
+   ![Relación entidad Lista de Compras](https://images.ctfassets.net/alneenqid6w5/3YjtdLHluQz9ve11TkmylY/e93299cbfa8d2f570345af87a0b783a9/Lista_Compras_Relacionamento_ES.png)
 
 10. Haz clic en el botón `Guardar` para guardar la configuración.
 11. Haz clic en el ícono de publicación <i class="fas fa-save"></i> para publicar la entidad.

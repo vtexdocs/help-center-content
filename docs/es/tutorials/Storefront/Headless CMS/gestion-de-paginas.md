@@ -19,7 +19,7 @@ En **Headless CMS**, puedes gestionar todas las rutas de URL y los modelos de p�
 
 ## Visión general
 
-![New pages - es](//images.ctfassets.net/alneenqid6w5/7cftK7sS2epeqGjY6m0Cmj/76783d200466eafd99f1972a60068298/novas_pgs._es.png)
+![New pages - es](https://images.ctfassets.net/alneenqid6w5/7cftK7sS2epeqGjY6m0Cmj/76783d200466eafd99f1972a60068298/novas_pgs._es.png)
 
 | Opção               | Descrição                                              |
 | ------------------- | ------------------------------------------------------ |

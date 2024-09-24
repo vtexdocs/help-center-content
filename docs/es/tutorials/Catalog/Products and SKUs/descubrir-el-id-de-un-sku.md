@@ -34,7 +34,7 @@ Para descubrir el ID de un SKU por el Admin VTEX, siga estos pasos:
 
 En el ejemplo siguiente, el ID del SKU es __18__.
 
-![skuId-1](//images.contentful.com/alneenqid6w5/3CEFOn0h8Ac6ciGgi6gmEK/2d64944b8added0ec12d5cdc7ebe9d9c/skuId-1.png)
+![skuId-1](https://images.contentful.com/alneenqid6w5/3CEFOn0h8Ac6ciGgi6gmEK/2d64944b8added0ec12d5cdc7ebe9d9c/skuId-1.png)
 
 ## URL de registro de SKU
 

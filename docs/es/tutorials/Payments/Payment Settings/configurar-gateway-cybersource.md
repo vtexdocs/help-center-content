@@ -60,7 +60,7 @@ Siga los pasos a continuación:
 
 Con las claves de autenticación disponibles, es hora de configurar la aplicación Cybersource IO en el Admin. 
 
-![Cybersource Admin settings ES](//images.ctfassets.net/alneenqid6w5/53S98k6G5yOwOJrAO4ueiF/ea8ae3e57058eb5c6da45af22a652ebd/Cybersource_Admin_settings_ES.JPG)
+![Cybersource Admin settings ES](https://images.ctfassets.net/alneenqid6w5/53S98k6G5yOwOJrAO4ueiF/ea8ae3e57058eb5c6da45af22a652ebd/Cybersource_Admin_settings_ES.JPG)
 
 Siga los pasos a continuación para configurar la aplicación Cybersource IO:
 

@@ -19,7 +19,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 **Insights** é uma página do Admin VTEX que exibe informações sobre o desempenho da sua loja em relação ao VTEX Pick and Pack.
 
-![pick-pack-insights-pt](//images.ctfassets.net/alneenqid6w5/3C3eQIIJczIaJjRLRpFTFK/2764b70414073ede61f4481cd159ae6e/image.png)
+![pick-pack-insights-pt](https://images.ctfassets.net/alneenqid6w5/3C3eQIIJczIaJjRLRpFTFK/2764b70414073ede61f4481cd159ae6e/image.png)
 
 A página apresenta as seguintes seções:
 

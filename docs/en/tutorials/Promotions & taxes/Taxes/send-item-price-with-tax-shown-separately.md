@@ -23,7 +23,7 @@ In this article we will show how the system works in these cases.
 
 **Scenario 1**: My ERP sends the price including VAT to VTEX, so I do not need to calculate it.
 
-1. Category page![CATEGORIASINIVA](//images.ctfassets.net/alneenqid6w5/jdugsMibXU6SO6momcYka/ecfb35f914fe9bbdc137ef5a5e932da4/1_cat.png)
+1. Category page![CATEGORIASINIVA](https://images.ctfassets.net/alneenqid6w5/jdugsMibXU6SO6momcYka/ecfb35f914fe9bbdc137ef5a5e932da4/1_cat.png)
 2. Product page![PRODUCTOSINIVA](//images.ctfassets.net/alneenqid6w5/hoE9OYL65aaiaqyuUssAI/cdc7633cc4eb4ac2c4ea033e2e0e25c5/2_prod.png)
 3. Shopping cart![CARRITOSINIVA](//images.ctfassets.net/alneenqid6w5/xX5Coy1UVUc0weEoY4Gik/c7131a671b35316aba28aaf7e8bbbb75/3_cart.png)
 4. Checkout![CHECKOUTSINIVA](//images.ctfassets.net/alneenqid6w5/5QoFlwnTGg0WG86a6ekYu4/20de3c81acb0967787aaa10565e13d2f/4_check.png)

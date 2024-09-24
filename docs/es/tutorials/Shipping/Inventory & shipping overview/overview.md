@@ -27,7 +27,7 @@ Aquí podremos registrar la relación de **[Almacén](https://help.vtex.com/es/t
 
 Aquí conseguiremos levantar la definición de valores de precio y tiempo de entrega para una determinada rango de código ZIP con relación al peso cúbico del producto, dimensiones, entre otros factores. 
 
-![tarifas-envioES](//images.ctfassets.net/alneenqid6w5/6BuxCyz2bujSpqx9Mq0CcZ/c390be3b109d17a73293fc3e7b3a9105/tarifas_envioES.png)
+![tarifas-envioES](https://images.ctfassets.net/alneenqid6w5/6BuxCyz2bujSpqx9Mq0CcZ/c390be3b109d17a73293fc3e7b3a9105/tarifas_envioES.png)
 
 - [Tarifas de envío](https://help.vtex.com/es/tutorial/shipping-rates--1Balpg3rv0854udEPedvMM)
 

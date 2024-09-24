@@ -31,7 +31,7 @@ window.INSTORE_CONFIG = {
 
 Ao realizar essa alteração, você deve perceber que aparecerão duas bolinhas no fim da página de identificação do inStore:
 
-![01 inStore slider transferencia](//images.ctfassets.net/alneenqid6w5/5h4AVCw4sE4oAIsMEMskU0/a5739c88008a9029755adadc58a332bf/01_inStore_slider_transferencia.png)
+![01 inStore slider transferencia](https://images.ctfassets.net/alneenqid6w5/5h4AVCw4sE4oAIsMEMskU0/a5739c88008a9029755adadc58a332bf/01_inStore_slider_transferencia.png)
 
 Ao arrastar a tela para a lateral você verá a tela para __“Capturar carrinho”__:
 

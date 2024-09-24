@@ -27,7 +27,7 @@ En **Inventario y envío**, acceda **Paneles** y haga clic en la **Transportador
 
 En **Tipo de Entrega**, haga clic en **Entrega agendada**.
 
-![entrega-agendada es](//images.ctfassets.net/alneenqid6w5/PF5fC5oPoiAmsK0KAW2G2/aee508bb7392ef5c0dfd62d3a607f25d/entrega-agendada_es.png)
+![entrega-agendada es](https://images.ctfassets.net/alneenqid6w5/PF5fC5oPoiAmsK0KAW2G2/aee508bb7392ef5c0dfd62d3a607f25d/entrega-agendada_es.png)
 Para compreender mejor sobre la cumplimentación del resto de los campos, vea también nuestro documento de cómo [registrar una transportadora](http://help.vtex.com/es/tutorial/gestionar-transportista).
 
 

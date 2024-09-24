@@ -35,7 +35,7 @@ En todas las tiendas VTEX IO se pueden configurar estos parámetros de forma nat
   - **Metatag de descripción**: ingresa una descripción breve del contenido de la página que sea informativa y contenga palabras clave relevantes.
   - **Metatag robots**: define cómo los motores de búsqueda deben rastrear e indexar una página específica. Los valores predeterminados son `index, follow`. Para ver los otros valores compatibles con Google, consulta la [lista de reglas válidas](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=es-419#directives).
 
-  ![seo-es](//images.ctfassets.net/alneenqid6w5/4JajNswh0yiVmfWvsPWbEa/614ecc04bb0994fbab579bc917aeaafa/seo-es.png)
+  ![seo-es](https://images.ctfassets.net/alneenqid6w5/4JajNswh0yiVmfWvsPWbEa/614ecc04bb0994fbab579bc917aeaafa/seo-es.png)
 
 #### Faviconos
 

@@ -30,7 +30,7 @@ Durante a configuração inicial da VTEX, caso a sua loja utilize [integrações
 
 Uma vez configurada a integração inicial de produtos, preços e inventário, e desenvolvido o middleware, o fluxo de informações será conforme o diagrama a seguir.
 
-![back-office-pt](//images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/6bc291243b2b38f8a570d404d88e055e/back-office-pt.PNG)
+![back-office-pt](https://images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/6bc291243b2b38f8a570d404d88e055e/back-office-pt.PNG)
 
 Durante a rotina da operação, as responsabilidades são divididas da seguinte forma:
 

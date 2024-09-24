@@ -33,7 +33,7 @@ Para cadastrar as especificações sua loja precisa ter departamentos, categoria
  7. Preencha os campos do formulário de especificações. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [como preencher campos de especificações de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).
  8.  Clique em **Salvar**.
 
-![1.PT](//images.ctfassets.net/alneenqid6w5/5Y8LnWHVXSvRbqtMNBLSRq/309fc619d5f3fa5dfc472ea31336b646/1.PT.gif)
+![1.PT](https://images.ctfassets.net/alneenqid6w5/5Y8LnWHVXSvRbqtMNBLSRq/309fc619d5f3fa5dfc472ea31336b646/1.PT.gif)
 
 Para adicionar valores à especificação de um produto, siga os passos abaixo:
 

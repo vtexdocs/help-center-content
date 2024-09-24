@@ -38,7 +38,7 @@ The app creates three types of affiliate pages, available to them without any ac
 
 The **affiliate page** is the VTEX store URL that they will share with the customers. The following image shows an example:
 
-![print_affiliates_url_en](//images.ctfassets.net/alneenqid6w5/63BnppaNSakcI7YJVX2mAV/6d0e53ff26c4f9c7f3d9fbd3cebf4db9/print_affiliates_url_en.png)
+![print_affiliates_url_en](https://images.ctfassets.net/alneenqid6w5/63BnppaNSakcI7YJVX2mAV/6d0e53ff26c4f9c7f3d9fbd3cebf4db9/print_affiliates_url_en.png)
 
 The **affiliate profile page** is an interface where the affiliate can track and manage their orders and commissions. The image below shows an example:
 

@@ -30,7 +30,7 @@ Utilice la autonomía que tiene sobre el código y cree el escenario de *storefr
 
 1. Seleccione el bloque para el que desea crear nuevo contenido. Puede seleccionarlo utilizando la lista en la esquina derecha o a través de la interfaz:
 
-![seta-interface-es](//images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/a3e4c77ec2b3203740be27c7e8f150b7/img-two-es.png)
+![seta-interface-es](https://images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/a3e4c77ec2b3203740be27c7e8f150b7/img-two-es.png)
 
 2. Haga clic en `Versiones` en la esquina superior derecha. 
 

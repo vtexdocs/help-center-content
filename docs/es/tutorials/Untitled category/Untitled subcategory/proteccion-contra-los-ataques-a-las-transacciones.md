@@ -35,7 +35,7 @@ Para activar la protección, mira el paso a paso que se muestra a continuación.
 4. En la esquina superior derecha, haz clic en el ícono de configuración;
 5. En __Protección contra ataques__, haz clic en el botón para activarla (el color verde indica "activada").
 
-![proteção-botao-configurações](//images.ctfassets.net/alneenqid6w5/1jhGP8FOgMtkEp0O8AqOnX/c36c317b8cd30966cd76901c897219f3/prote____o-botao-configura____es.png)
+![proteção-botao-configurações](https://images.ctfassets.net/alneenqid6w5/1jhGP8FOgMtkEp0O8AqOnX/c36c317b8cd30966cd76901c897219f3/prote____o-botao-configura____es.png)
 
 ![opción-de-protección-habilitada1](//images.ctfassets.net/alneenqid6w5/6svPWoUMebewsgVcBGkig5/c5aa662b0d3f17f6131e1bf702f0e49a/opci__n-de-protecci__n-habilitada1.png)
 

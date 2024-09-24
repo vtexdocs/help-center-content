@@ -21,7 +21,7 @@ When integrating with a marketplace, you have to define which products are to be
 
 One possibility is to work with the entire product catalog on the marketplace. To do this, just associate the main store’s sales policy ID which will always be **ID 1**, [when asked to do so during configuration](/en/tutorial/integrating-with-marketplace/).
 
-![ExemploPoliticaComercial](//images.contentful.com/alneenqid6w5/37CzxbrZ9KciYm4G2gK0MK/54a58d8fa3a53dcf310caa2769e53174/ExemploPoliticaComercial.png)
+![ExemploPoliticaComercial](https://images.contentful.com/alneenqid6w5/37CzxbrZ9KciYm4G2gK0MK/54a58d8fa3a53dcf310caa2769e53174/ExemploPoliticaComercial.png)
 
 This sales policy does not require a configured collection of products, since the system already understands that it refers to all products.
 

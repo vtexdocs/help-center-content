@@ -29,7 +29,7 @@ Sigue estos pasos para realizar el mapeo:
 
 Al mapear los productos, debes tener en cuenta que Dafiti tiene valores de referencia para ciertos atributos de los productos.
 
-Para conocer los valores aceptados por Dafiti según cada columna de la plantilla de mapeo, debes descargar [la plantilla de consulta de Dafiti](//assets.ctfassets.net/alneenqid6w5/4bNMTdmnYeqwt3n2YJzOEi/69ed2fa3fcca285c92b0643f1fb62dac/category_tree_export_2021-12-20_16-10-17.xlsx) para la categoría correspondiente. Esa plantilla solo se usará para consultas.
+Para conocer los valores aceptados por Dafiti según cada columna de la plantilla de mapeo, debes descargar [la plantilla de consulta de Dafiti](https://assets.ctfassets.net/alneenqid6w5/4bNMTdmnYeqwt3n2YJzOEi/69ed2fa3fcca285c92b0643f1fb62dac/category_tree_export_2021-12-20_16-10-17.xlsx) para la categoría correspondiente. Esa plantilla solo se usará para consultas.
 
 - [Accesorios](//assets.ctfassets.net/alneenqid6w5/6Nlsbzz25DTtOQRaT4yp3d/ee511056fab51d837f8693abf22c4b5c/Acess_rios_-_ProductCreationTemplate_2022-02-11_143128.xlsx)
 - [Belleza](//assets.ctfassets.net/alneenqid6w5/42GvRkF1nZrJbMoxD1mly8/0a4b6e317acc09450f2eb9470c1dc3de/Beleza_-_ProductCreationTemplate_2022-02-11_143141.xlsx)

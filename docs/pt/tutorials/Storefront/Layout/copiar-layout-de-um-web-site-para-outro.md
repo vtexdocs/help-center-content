@@ -25,7 +25,7 @@ Para isto, no Admin VTEX, acesse **Storefront > Layout > CMS** e clicar no layou
 
 O botão fica no canto superior direito, como mostra a imagem abaixo.
 
-!![copiar layout](//images.ctfassets.net/alneenqid6w5/796Zfon1lYOc4Kyg2QeqQg/55aa8b65fb505e09b8088eb7bed884bc/copiar_layout.png)
+!![copiar layout](https://images.ctfassets.net/alneenqid6w5/796Zfon1lYOc4Kyg2QeqQg/55aa8b65fb505e09b8088eb7bed884bc/copiar_layout.png)
 
 O sistema vai perguntar para qual web site você quer copiar o layout.
 

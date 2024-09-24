@@ -32,7 +32,7 @@ window.INSTORE_CONFIG = {
 
 After making this change, open the inStore menu and update the data by clicking on the __Reset app local data__ button. Once this is done, a slider will appear at the bottom of the inStore identification page:
 
-![24. Enable cart transfer between devices - 1 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/6n8QGjNTdsUv8LYa5BS9k4/adb1f076df8c7c02a7210249f258016f/24._Enable_cart_transfer_between_devices_-_1_-_EN.png_h_250)
+![24. Enable cart transfer between devices - 1 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/6n8QGjNTdsUv8LYa5BS9k4/adb1f076df8c7c02a7210249f258016f/24._Enable_cart_transfer_between_devices_-_1_-_EN.png_h_250)
 
 When you drag the screen to the right, you will see the screen for __Cart Capture__, as shown in the image below.
 

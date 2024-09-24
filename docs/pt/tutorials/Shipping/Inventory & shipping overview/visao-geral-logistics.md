@@ -27,7 +27,7 @@ Onde é possível cadastrar a relação de **[Estoque](https://help.vtex.com/pt
 
 Onde é cadastrada a definição de valores de preço e tempo de entrega para uma determinada faixa de CEP em relação ao peso cúbico do produto, dimensões, entre outros fatores.
 
-![tarifas-envioPT](//images.ctfassets.net/alneenqid6w5/6BuxCyz2bujSpqx9Mq0CcZ/7a4f1f361c762cc7efa4f283f5e496e7/tarifas_envio.png)
+![tarifas-envioPT](https://images.ctfassets.net/alneenqid6w5/6BuxCyz2bujSpqx9Mq0CcZ/7a4f1f361c762cc7efa4f283f5e496e7/tarifas_envio.png)
 - [Tarifas de envio](https://help.vtex.com/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM)
 
 ## Simulador de envio

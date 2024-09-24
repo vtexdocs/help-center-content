@@ -25,7 +25,7 @@ En ocasiones puede ocurrir una falla de comunicación entre VTEX y el aliado. Ha
 Casos como ése generan logs o mantienen el pedido en un looping. Una vez que se identifique un comportamiento errático, el camino más rápido es verificar si el status del pedido está igual en ambas plataformas. Como, por ejemplo, el Gateway haber atualizado el Status como "Settling", pero posteriormente contestar que el Status no está correcto para captura, sin embargo el Status estaría correcto. Vea el ejemplo:
 
 El día 08 de febrero, VTEX recibió una notificación del Gateway en la que hay un cambio de Status.
-![2017-04-11-17 28 32-4820587- -VTEX-PCI-Gateway-300x65](//images.contentful.com/alneenqid6w5/7us92BzXFYwyQsUqWQa0sM/9c8e7dc490e5497bf8cfa16e0f7874ce/2017-04-11-17_28_32-4820587-_-VTEX-PCI-Gateway-300x65.png) 
+![2017-04-11-17 28 32-4820587- -VTEX-PCI-Gateway-300x65](https://images.contentful.com/alneenqid6w5/7us92BzXFYwyQsUqWQa0sM/9c8e7dc490e5497bf8cfa16e0f7874ce/2017-04-11-17_28_32-4820587-_-VTEX-PCI-Gateway-300x65.png) 
 
 El día 03 de abril el gateway retorna error en el Status
 ![2017-04-11-17 26 40-4820587- -VTEX-PCI-Gateway-300x87](//images.contentful.com/alneenqid6w5/35WTOXDAC4WgS0Ki866SSS/6d7f6ed699ef653d79d709c97320d10c/2017-04-11-17_26_40-4820587-_-VTEX-PCI-Gateway-300x87.png)

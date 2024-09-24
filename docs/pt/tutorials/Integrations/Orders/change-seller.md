@@ -24,7 +24,7 @@ A troca de seller pode ocorrer em duas situações:
 - Seller cancela o pedido.
 - Marketplace decide trocar o seller.
 
-![seller_cancela_pedido_PT](//images.ctfassets.net/alneenqid6w5/1w1If5Xirav4fZKLQlpkPn/ec1baf2bf28bddace01121efce7c05a8/seller_cancela_pedido_PT.png)
+![seller_cancela_pedido_PT](https://images.ctfassets.net/alneenqid6w5/1w1If5Xirav4fZKLQlpkPn/ec1baf2bf28bddace01121efce7c05a8/seller_cancela_pedido_PT.png)
 
 Você pode [configurar a janela de tempo para mudar seller de 0 a 30 dias](https://developers.vtex.com/vtex-rest-api/reference/updatewindowtochangeseller), sendo que, por padrão, são dois dias. Ao configurar a janela em 0 dias, não existe um período efetivo para a troca de sellers e a feature, apesar de configurada, não funciona na prática, fazendo com que o pedido siga para cancelamento.
 

@@ -17,7 +17,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 Using the list of orders from the Orders Managment, stores owner can monitor purchases made in their store. The list is available on the first screen of the Orders Managment module.
 
-![todosospedidos.en](//images.ctfassets.net/alneenqid6w5/4ovDqNLqLNMUxrwjgQ8oDx/2557b8aa39c07af3ce23f85508b49de3/todosospedidos.en.png)
+![todosospedidos.en](https://images.ctfassets.net/alneenqid6w5/4ovDqNLqLNMUxrwjgQ8oDx/2557b8aa39c07af3ce23f85508b49de3/todosospedidos.en.png)
 
 The standard view lists all store orders, beginning with the most recent. You can change the order by clicking on the column names, as well as by searching or filtering the orders using specific data, in addition to exporting this data.
 

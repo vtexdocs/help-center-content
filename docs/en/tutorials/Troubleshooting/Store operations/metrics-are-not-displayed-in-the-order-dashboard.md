@@ -23,7 +23,7 @@ When accessing the Admin dashboard, it may fail to load metrics in the **Overvie
 - **Inadequate comparison period:** The period selected in the top right corner of the dashboard may not contain sufficient order data for comparison.
 - **Insufficient access permissions:** You might not have the necessary role to view certain information on the dashboard.
 
-![Visão geral - EN](//images.ctfassets.net/alneenqid6w5/29XRCPWPEnqdR79xKebzv/92d249251094dd01515b571876066e7c/Vis_o_geral_-_EN.png)
+![Visão geral - EN](https://images.ctfassets.net/alneenqid6w5/29XRCPWPEnqdR79xKebzv/92d249251094dd01515b571876066e7c/Vis_o_geral_-_EN.png)
 
 ## Solution
 To solve inconsistencies in the initial dashboard of the Admin, you can try the following:

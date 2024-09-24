@@ -33,7 +33,7 @@ Para cadastrar as especificações sua loja precisa ter departamentos, categoria
  7. Preencha os campos do formulário de especificações. No caso dos SKUs,  a flag de campo obrigatório sempre está selecionada por default. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [como preencher campos de especificações de SKU](https://help.vtex.com/pt/tutorial/criando-campo-de-sku--tutorials_119)
  8.  Clique em **Salvar**
 
-![1.PT](//images.ctfassets.net/alneenqid6w5/5b2UFRxvAQ6BoL6eStxf0D/fa7b4836240b18cd3d941f6260b512b8/1.PT.gif)
+![1.PT](https://images.ctfassets.net/alneenqid6w5/5b2UFRxvAQ6BoL6eStxf0D/fa7b4836240b18cd3d941f6260b512b8/1.PT.gif)
 
 Para adicionar valores à especificação de SKU, siga os passos abaixo:
 

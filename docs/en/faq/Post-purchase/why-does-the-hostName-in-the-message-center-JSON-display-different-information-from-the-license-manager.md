@@ -18,6 +18,6 @@ The JSON used by the Message Center, that is, the source of information to be se
 
 When viewing the `hostName` variable in MessageCenter JSON, doubts may arise as to where this data is loaded from. No matter that the name of the variable is host, it bears the - unchangeable - name of the site created in the Accounts tab of the Account management.
 
-![VTEX - License Manager](//images.contentful.com/alneenqid6w5/5sZb9Mvw4wcK6oM40CKEak/eee7f0e5848c179c678761a418a978b4/2017-03-22-12_33_29-VTEX-License-Manager.png)
+![VTEX - License Manager](https://images.contentful.com/alneenqid6w5/5sZb9Mvw4wcK6oM40CKEak/eee7f0e5848c179c678761a418a978b4/2017-03-22-12_33_29-VTEX-License-Manager.png)
 
 In other words, the value inserted will not be loaded in the Hosts area, rather, as shown in the image above, the value registered under **Nome da Loja** will be loaded to the email template.

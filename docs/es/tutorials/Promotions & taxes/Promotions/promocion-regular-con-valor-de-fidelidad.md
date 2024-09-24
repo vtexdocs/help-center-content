@@ -38,7 +38,7 @@ El **valor de fidelidad nominal** agrega un valor fijo como crédito a la cuenta
 
 En el ejemplo que se muestra a continuación, los clientes obtendrán un crédito de USD 10 en la tienda cuando el status del pedido cambie a **Facturado**.
 
-![vf-nominal-es](//images.ctfassets.net/alneenqid6w5/5i67rFawcAHCOpI84bBP2U/e281a28760551bfc2a2b2b270f61de9e/vf-nominal-es.png)
+![vf-nominal-es](https://images.ctfassets.net/alneenqid6w5/5i67rFawcAHCOpI84bBP2U/e281a28760551bfc2a2b2b270f61de9e/vf-nominal-es.png)
 
 ### Valor de fidelidad porcentual
 

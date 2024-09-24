@@ -44,7 +44,7 @@ On the website, it is possible to confirm whether the settings are correct. To d
 3. Here, the type of service must be make available for selection. The text must have a maximum of 150 characters.
 4. Select the service in the cart and click on the link to add a message.
 
-![](//images.contentful.com/alneenqid6w5/3txxLHOWtqguWu4qmAqumA/e68ef2cf4881d3b9a01199244567c790/mensagem-carrinho.png)
+![](https://images.contentful.com/alneenqid6w5/3txxLHOWtqguWu4qmAqumA/e68ef2cf4881d3b9a01199244567c790/mensagem-carrinho.png)
 
 You can view the written message on __My Account > My Orders__:
 

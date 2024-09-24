@@ -29,7 +29,7 @@ Para enviar dados de pedidos para sistemas externos, como dashboards e data lake
 
 Quando um pedido é fechado no inStore, a identificação do usuário logado no aplicativo fica visível na parte superior da tela de detalhes do pedido no Admin. No exemplo abaixo, o nome do usuário é `A123456`.
 
-![PT - ID do vendedor inStore](//images.ctfassets.net/alneenqid6w5/2VlKApkaFLzzxl6wRrcNkw/b46bb2740a82a8fab8988f7dd752f7ce/PT_-_ID_do_vendedor_inStore.png)
+![PT - ID do vendedor inStore](https://images.ctfassets.net/alneenqid6w5/2VlKApkaFLzzxl6wRrcNkw/b46bb2740a82a8fab8988f7dd752f7ce/PT_-_ID_do_vendedor_inStore.png)
 
 Quando os detalhes do pedido são obtidos pela [Orders API](https://developers.vtex.com/vtex-developer-docs/reference/orders), o nome do usuário está disponível no campo `callCenterOperatorData.userName`. Também é possível acessar o e-mail deste usuário em  `callCenterOperatorData.email`.
 

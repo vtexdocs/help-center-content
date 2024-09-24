@@ -87,7 +87,7 @@ Ao falar de implementação de frontend, é preciso lembrar que o [VTEX IO](http
 
 Isso significa que ao trabalhar com VTEX IO, a pessoa desenvolve seu código localmente. Porém, quando se trata de implantar e executar a loja, o VTEX IO gerencia a infraestrutura, CI/CD e segurança, além de cuidar do processo de implantação. A imagem abaixo apresenta como estes conceitos se relacionam entre si:
 
-![Arquitetura de desenvolvimento frontend](//images.ctfassets.net/alneenqid6w5/70awnhEGvAlpk5NBrGJJJ6/a552a6ae6c50ef92304ff8f11e651cbf/frontend_image2_PT.png)
+![Arquitetura de desenvolvimento frontend](https://images.ctfassets.net/alneenqid6w5/70awnhEGvAlpk5NBrGJJJ6/a552a6ae6c50ef92304ff8f11e651cbf/frontend_image2_PT.png)
 
 ### Principais funcionalidades do Store Framework
 

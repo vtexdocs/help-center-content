@@ -26,7 +26,7 @@ Before setting up the affiliation in VTEX Admin, first you need to have your **S
 
 1. Go to the [Amazon seller central website](https://sellercentral.amazon.com) and login in your account.
 2. Open the menu on the left side.  
-![AmazonPay Panel EN](//images.contentful.com/alneenqid6w5/6KFdDouUaoD4UJaLQAsqSz/3297af465b1ae0ee5d6fad4deb750b56/AmazonPay_Panel_EN.png)
+![AmazonPay Panel EN](https://images.contentful.com/alneenqid6w5/6KFdDouUaoD4UJaLQAsqSz/3297af465b1ae0ee5d6fad4deb750b56/AmazonPay_Panel_EN.png)
 3. Go to **Integration** > **Integration Central**.  
 ![AmazonPay Integration Central Menu EN](//images.contentful.com/alneenqid6w5/7DmM4Mih9CvaetzlZhRqzS/fe6bdc50584f121e913383f15c111b51/AmazonPay_Integration_Central_Menu_EN.png)
 4. In this screen, fill it with the following options:

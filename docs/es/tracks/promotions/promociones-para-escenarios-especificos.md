@@ -36,7 +36,7 @@ La pantalla de configuración de la promoción ofrece dos listas de SKUs, que pu
 
 Puede, entonces, definir un valor de descuento para cada una de estas listas. Si, por ejemplo, la lista 1 tiene un 10% de descuento y la lista 2 un 5% de descuento, cuando el carrito tenga al menos un producto de cada una de estas listas, se concederá un descuento total del 10% sobre el valor de los ítems de la lista 1 y un descuento del 5% sobre el valor de los ítems de la lista 2.
 
-![Compre Junto - ES](//images.ctfassets.net/alneenqid6w5/6Heut08iWTOC9Ph1CpVjJ0/255d0f4409b49327640aebba743afe6b/Screenshot_2020-06-24_https_lojadobreno_myvtex_com.png)
+![Compre Junto - ES](https://images.ctfassets.net/alneenqid6w5/6Heut08iWTOC9Ph1CpVjJ0/255d0f4409b49327640aebba743afe6b/Screenshot_2020-06-24_https_lojadobreno_myvtex_com.png)
 
 Dos ejemplos de este tipo de promoción serían "Compre un pantalón y gane 10% de descuento en la compra de un cinturón" y "Compre un par de zapatos + un par de calcetines y gane 15% de descuento".
 

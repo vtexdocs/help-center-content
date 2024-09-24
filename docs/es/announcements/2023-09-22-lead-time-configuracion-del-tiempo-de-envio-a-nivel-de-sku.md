@@ -17,7 +17,7 @@ announcementSynopsisES: 'Lanzamiento global del lead time, una configuración op
 
 VTEX ha puesto a disposición de todas las tiendas el [lead time](https://help.vtex.com/es/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B), una configuración del tiempo de envío de un SKU en un determinado stock. En otras palabras, puedes definir a nivel de SKU un tiempo de envío adicional en el cálculo de las promesas de envío que se muestran a los clientes en el checkout.
 
-![lead_time_image_total_time_ES](//images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/f9610838cce53ee740054bee68e634d1/lead_time_image_total_time_ES.png)
+![lead_time_image_total_time_ES](https://images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/f9610838cce53ee740054bee68e634d1/lead_time_image_total_time_ES.png)
 
 El uso del lead time es opcional y, cuando no se configura, el envío de pedidos de la tienda permanece sin cambios. Cabe señalar que las reglas de consolidación del checkout, que calculan el plazo de envío total del pedido tomando en consideración el tiempo más largo de uno de los ítems, se mantienen.
 

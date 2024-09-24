@@ -27,7 +27,7 @@ A VTEX usa o mesmo princípio. O diretório (pasta) é onde deve ser guardada to
 
 Podemos criar inúmeros templates mas devemos especificar no diretório qual template será exibido. Usando a página de __Produto__ como exemplo:
 
-![cms-template-pagina PT](//images.ctfassets.net/alneenqid6w5/5f0VY6nFAAecUce6SQq02m/266795c901433c282669bbb1af7ccb7e/Produto_CMS.png)
+![cms-template-pagina PT](https://images.ctfassets.net/alneenqid6w5/5f0VY6nFAAecUce6SQq02m/266795c901433c282669bbb1af7ccb7e/Produto_CMS.png)
 
 Storefront > Layout > Pasta CMS > Sites and channels > Nome da Loja > Pasta raíz (/) > Produto (por exemplo) > Clicar no link que estiver com a setinha vermelha de "ok"
 

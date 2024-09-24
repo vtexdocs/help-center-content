@@ -73,7 +73,7 @@ En el menú principal del Admin, ingrese a __Precios__ y elija la opción __List
 
 En el filtro de búsqueda, introduzca los nombres de las tablas creadas en el Master Data. Las tablas de precio se muestran como columnas de la lista de precios, así como las políticas comerciales.
 
-![Filtros - ES](//images.ctfassets.net/alneenqid6w5/4sQMk2XLRyoQvFLNrGI0A7/ba496e9ee7014e06fd7ed4a248e2d422/Filtros_-_ES.png)
+![Filtros - ES](https://images.ctfassets.net/alneenqid6w5/4sQMk2XLRyoQvFLNrGI0A7/ba496e9ee7014e06fd7ed4a248e2d422/Filtros_-_ES.png)
 
 Para actualizar el precio fijo en una tabla específica, haga clic en la columna de esa tabla y, a continuación, en __Definir precios fijos__.
 

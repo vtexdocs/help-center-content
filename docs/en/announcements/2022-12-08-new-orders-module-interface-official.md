@@ -27,7 +27,7 @@ The new interface, which will be official as of February 1st, has two main new f
 
 * **No-date limit order search:** You can search for orders without setting a date limit, which returns all orders related to the criteria used, regardless of the order creation date. This search cannot be combined with other filters. However, you can select a custom search period of up to 6 months and then combine it with the filters. Learn more in the article [Filter orders on All orders](https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192).
 
-  ![busca_sem_limite_data_all_en](//images.ctfassets.net/alneenqid6w5/7mDlDQAgphKCmH12REooCx/38b0d6578851aa2dedf8ef6914aff921/busca_sem_limite_data_all_en.png)
+  ![busca_sem_limite_data_all_en](https://images.ctfassets.net/alneenqid6w5/7mDlDQAgphKCmH12REooCx/38b0d6578851aa2dedf8ef6914aff921/busca_sem_limite_data_all_en.png)
 
 * **Order diagram:** In the _Order status_ section of the new interface, by default, a timeline with the events of the order is displayed. Now you can also see the _Order diagram_. When you click `View diagram`, a modal opens and displays the following image:
 

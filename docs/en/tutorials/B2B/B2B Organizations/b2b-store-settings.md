@@ -28,7 +28,7 @@ On this page, you will see the instructions on how to configure the general sett
 ## Payment Terms
 You can add payment methods by selecting them based on your business needs.  
 Example: debit card, credit card, promissory.
-![ B2B Store Settings - General Settings + Payment Terms](//images.ctfassets.net/alneenqid6w5/7wvxJVXraGTFAheCAp8tGP/4efe4d1a37c7b2858fb8f528388e45e5/image1.jpg)
+![ B2B Store Settings - General Settings + Payment Terms](https://images.ctfassets.net/alneenqid6w5/7wvxJVXraGTFAheCAp8tGP/4efe4d1a37c7b2858fb8f528388e45e5/image1.jpg)
 
 ## Price Tables
 You can add default prices for the stores you add. Learn more about Price Tables on [Pricing](https://developers.vtex.com/docs/guides/pricing-overview).

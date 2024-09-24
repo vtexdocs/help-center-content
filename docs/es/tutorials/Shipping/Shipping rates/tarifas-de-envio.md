@@ -20,7 +20,7 @@ Las tarifas de envío son los costos de envío que su tienda ofrece a los client
 
 >⚠️ El [costo final del envío](https://help.vtex.com/es/tutorial/costo-final-del-envio--5bwhIO108VA5Y2YOpef9lV) para el cliente incluye la tarifa de envío, los [adicionales de flete](https://help.vtex.com/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV) y el costo del muelle con stock.
 
-![Tarifa envio ES](//images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/d97d710440d9d301191074a193396a96/Tarifa_envio_ES.svg)
+![Tarifa envio ES](https://images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/d97d710440d9d301191074a193396a96/Tarifa_envio_ES.svg)
 
 En el Admin VTEX, hay dos maneras de registrar las tarifas de envío:
 

@@ -42,7 +42,7 @@ Follow the steps below to filter the form records and save a custom query.
 
 After following the instructions above, the query will appear as a display option in the form list.
 
-![queries-2-en](//images.ctfassets.net/alneenqid6w5/4x2QAjHSxEZT0RyIUqv5kg/adb4b03eeb9c6060ac18eece60b2fff8/queries-2-en__1_.png)
+![queries-2-en](https://images.ctfassets.net/alneenqid6w5/4x2QAjHSxEZT0RyIUqv5kg/adb4b03eeb9c6060ac18eece60b2fff8/queries-2-en__1_.png)
 
 You can also access the saved queries by clicking the __Queries__ button in the form list:
 

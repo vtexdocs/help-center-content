@@ -19,7 +19,7 @@ Não perca clientes que acessam o seu site, ou sua página de vendas e tenha ale
 
 Para configurar, acesse seu painel do VTEX Assisted Sales (SuiteShare) e clique em Atrair > Call to Action.
 
-![Call to Action 1](//images.ctfassets.net/alneenqid6w5/797KHplQqNwIEOwQLzPAO8/425cc4da8f450beb2543b27b65cfd817/Screenshot_2022-08-29_at_17-35-16_Call_to_Action.png)
+![Call to Action 1](https://images.ctfassets.net/alneenqid6w5/797KHplQqNwIEOwQLzPAO8/425cc4da8f450beb2543b27b65cfd817/Screenshot_2022-08-29_at_17-35-16_Call_to_Action.png)
 
 Clique em _**“Novo”**_.
 

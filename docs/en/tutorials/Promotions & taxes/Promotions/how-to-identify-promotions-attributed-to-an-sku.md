@@ -22,7 +22,7 @@ We have written this article in response to a frequent query from users of the V
 To find out what promotions are being attributed to an SKU, we have to analyze its `priceTags`.
 
 1. Go to the product shopping cart.
-2. In Google Chrome, go to **Developer Tools** (`Ctrl+Shift+I`).![ferramentas-do-desenvolvedor](//images.contentful.com/alneenqid6w5/3NBGEPjXEkkSqA2WOYs8us/5219ffe6515a120ac0e6d489c78e5820/ferramentas-do-desenvolvedor.png)
+2. In Google Chrome, go to **Developer Tools** (`Ctrl+Shift+I`).![ferramentas-do-desenvolvedor](https://images.contentful.com/alneenqid6w5/3NBGEPjXEkkSqA2WOYs8us/5219ffe6515a120ac0e6d489c78e5820/ferramentas-do-desenvolvedor.png)
 3. Select the tab **Network** and press `F5` to record the reload.![network-f5](//images.contentful.com/alneenqid6w5/1TZRay17qkEO8As8w0MKOS/f4d88d06f2a3fd656aa41e3809f35d45/network-f5.png)
 4. After loading, press `Ctrl+F` to search in the Developer Tools window, and look for “orderform”. ![order-form](//images.contentful.com/alneenqid6w5/jtqrcUjDAAqoMUGiYM4qE/94803953c1577a7954ba09f163738e0e/order-form.png)
 5. Click on `orderform` and go to `items` After clicking on `items`, click on the numbers (`0`, `1`, `2` etc.) to see the details of the product you want. In our example, since there is only one item, it is represented by the number `0` in the array.![items-0](//images.contentful.com/alneenqid6w5/DUtSiCdnrwSmoKqqYW8E6/ec7335a0c9308b17b9d8aa2274057220/items-0.png)

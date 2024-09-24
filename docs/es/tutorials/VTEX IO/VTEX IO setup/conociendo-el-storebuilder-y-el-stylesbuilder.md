@@ -15,7 +15,7 @@ legacySlug: conociendo-el-storebuilder-y-el-stylesbuilder
 subcategoryId: Z46a6rHVAaAucoiW0skQQ
 ---
 
-![UI Blocks Voando.mp4](//images.ctfassets.net/alneenqid6w5/4VRam6UukpPhsCBMtrhBbv/60bb012cd676ebcc8b8805de021529db/UI_Blocks_Voando.mp4.gif) 
+![UI Blocks Voando.mp4](https://images.ctfassets.net/alneenqid6w5/4VRam6UukpPhsCBMtrhBbv/60bb012cd676ebcc8b8805de021529db/UI_Blocks_Voando.mp4.gif) 
 
 Esta documentación se ha estructurado para explicar los conceptos detrás del StoreBuilder y StyleBuilder de la Store 2.xx. Durante toda la documentación, utilizaremos la DreamStore (una tienda template que utiliza la `Store 2.xx`) para entender los principales conceptos que le permitirán estructurar y estilizar su tienda.
 

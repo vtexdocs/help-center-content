@@ -25,4 +25,4 @@ Para realizar esta configuración, en el panel administrativo (Admin) de la cuen
 4. Seleccione la opción __VTEX Store__.
 5. Marque la casilla de selección __“Enables B2B behaviour”__ y guarde las alteraciones.
 
-![Habilitar escenario B2B](//images.ctfassets.net/alneenqid6w5/Kxh1UuEyCT52qprSkBkeH/49fd977f929e7422641030804973cf2f/Habilitar_B2B.gif)
+![Habilitar escenario B2B](https://images.ctfassets.net/alneenqid6w5/Kxh1UuEyCT52qprSkBkeH/49fd977f929e7422641030804973cf2f/Habilitar_B2B.gif)

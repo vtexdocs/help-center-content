@@ -20,7 +20,7 @@ O VTEX Sales App permite [habilitar uma funcionalidade de transferência de carr
 
 Para o vendedor compartilhar um carrinho, ele pode gerar um código numérico ou um QR Code. Para isso, estando na tela do carrinho, basta clicar no botão __Transferir__. Veja um exemplo na imagem abaixo.
 
-![24. Enable cart transfer between devices - 3](//images.ctfassets.net/alneenqid6w5/1rk5DOgk5a0XAWwWqLCO4t/dcc5225d218120953155432b30f43c21/24._Enable_cart_transfer_between_devices_-_3.png)
+![24. Enable cart transfer between devices - 3](https://images.ctfassets.net/alneenqid6w5/1rk5DOgk5a0XAWwWqLCO4t/dcc5225d218120953155432b30f43c21/24._Enable_cart_transfer_between_devices_-_3.png)
 
 Ao clicar nesse botão, o aplicativo mostra um QR Code e um código numérico de quatro dígitos.
 

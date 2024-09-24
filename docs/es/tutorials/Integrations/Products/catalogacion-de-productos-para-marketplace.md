@@ -21,7 +21,7 @@ Al integrarse con un marketplace, es necesario definir qué productos serán env
 
 Una posibilidad es trabajar todo el catálogo de productos junto al marketplace. Para ello, basta con asociar el ID de la política comercial de la tienda principal, que será siempre la de **ID 1**, [cuando solicitado en la configuración](/es/tutorial/integrando-con-marketplace).
 
-![ExemploPoliticaComercial](//images.contentful.com/alneenqid6w5/37CzxbrZ9KciYm4G2gK0MK/54a58d8fa3a53dcf310caa2769e53174/ExemploPoliticaComercial.png)
+![ExemploPoliticaComercial](https://images.contentful.com/alneenqid6w5/37CzxbrZ9KciYm4G2gK0MK/54a58d8fa3a53dcf310caa2769e53174/ExemploPoliticaComercial.png)
 
 Esta política comercial no demanda una colección de productos configurada, porque el sistema ya entiende que se refiere a todos los productos.
 

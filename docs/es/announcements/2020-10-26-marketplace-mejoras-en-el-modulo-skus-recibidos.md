@@ -29,7 +29,7 @@ No se requiere ninguna configuración para activar esta funcionalidad, se instal
 
 Cabe señalar que esta acción puede ser deshecha. Es posible aprobar un SKU por API REST, si el marketplace quiere recibirlo de nuevo como una sugerencia del seller. Para obtener más información sobre la aprobación de SKUs, acceda a nuestra documentación de API en el Portal del Desarrollador.
 
-![ES SKUs Recebidos Announcement](//images.ctfassets.net/alneenqid6w5/5UdF6jOSwSvqYQIng9w7mS/d4b04317dc8e786079db0c7fe8127a4a/ES_SKUs_Recebidos_Announcement.jpg)
+![ES SKUs Recebidos Announcement](https://images.ctfassets.net/alneenqid6w5/5UdF6jOSwSvqYQIng9w7mS/d4b04317dc8e786079db0c7fe8127a4a/ES_SKUs_Recebidos_Announcement.jpg)
 
 ## Configuración de aprobación automática de SKUs
 

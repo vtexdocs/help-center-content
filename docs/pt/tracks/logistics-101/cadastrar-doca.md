@@ -28,7 +28,7 @@ Siga o passo a passo abaixo para cadastrar uma Doca na sua loja:
 4.  Preencha os campos do formulário de cadastro. Para entender melhor o significado de cada campo, veja abaixo a seção [Campos de Cadastro](#campos-de-cadastro).
 5.  Clique no botão  **Salvar**.
 
-![PT Cadastrar Doca GIF](//images.ctfassets.net/alneenqid6w5/4GWA3i4x5LSitJRR2nPSF/518140a1c67b5382bcd2042148f2b05c/PT_Cadastrar_Doca.gif)
+![PT Cadastrar Doca GIF](https://images.ctfassets.net/alneenqid6w5/4GWA3i4x5LSitJRR2nPSF/518140a1c67b5382bcd2042148f2b05c/PT_Cadastrar_Doca.gif)
 
 ### Campos de cadastro
 

@@ -31,7 +31,7 @@ Es importante comprender estos conceptos porque el flujo de pedidos en el Market
 
 ## Flujo del pedido en el Marketplace
 
-![screenshoot fluxo marketplace ES](//images.ctfassets.net/alneenqid6w5/2ehRbL33XqtPTTF8DoHtvT/49e8aad025ddba81b5f3d169a040d9f2/screenshoot_fluxo_marketplace_ES.JPG)
+![screenshoot fluxo marketplace ES](https://images.ctfassets.net/alneenqid6w5/2ehRbL33XqtPTTF8DoHtvT/49e8aad025ddba81b5f3d169a040d9f2/screenshoot_fluxo_marketplace_ES.JPG)
 
 Se produce cuando la tienda actúa solamente como Marketplace en el pedido. O sea, es cuando la tienda vende productos de otra tienda: su Seller.
 

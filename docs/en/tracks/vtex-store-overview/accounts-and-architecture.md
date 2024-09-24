@@ -28,7 +28,7 @@ VTEX account types are:
 
 The following image is an overview to help you [choose between standard, franchise, or Seller Portal accounts](https://help.vtex.com/en/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78):
 
-![main_account_franchise_seller_portal_EN](//images.ctfassets.net/alneenqid6w5/4NfyGbu9eVJFRc6EfCpTHr/b8f887b2f84c72b3c20a38a020f9c53f/main_account_franchise_seller_portal_EN.png)
+![main_account_franchise_seller_portal_EN](https://images.ctfassets.net/alneenqid6w5/4NfyGbu9eVJFRc6EfCpTHr/b8f887b2f84c72b3c20a38a020f9c53f/main_account_franchise_seller_portal_EN.png)
 
 ## Account characteristics
 

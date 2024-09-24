@@ -53,7 +53,7 @@ The table below shows the main agents and terms used in the Payments context:
 
 When a purchase is completed on VTEX, a new transaction is created and the payment flow begins. In the example below, you can see the payment flow for a credit card purchase:
 
-![payments-en](//images.ctfassets.net/alneenqid6w5/6rqeRDDqm3rijRrwpG6Lb1/8df497f70d26352352a11d942887afa7/payments_image1_EN__1_.JPG)
+![payments-en](https://images.ctfassets.net/alneenqid6w5/6rqeRDDqm3rijRrwpG6Lb1/8df497f70d26352352a11d942887afa7/payments_image1_EN__1_.JPG)
 
 As the data is transferred among the agents responsible for data processing, the payment transaction status is updated to reflect the current stage of the resources in the flow. In the credit card payment flow, we can consider the following example of transaction statuses:
 

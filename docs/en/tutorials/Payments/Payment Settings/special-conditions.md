@@ -19,7 +19,7 @@ Special conditions are part of the configuration of payment conditions which all
 
 To identify the special conditions applicable to each payment method, in the VTEX Admin, access  __Payments > Settings > Payment Conditions__, select the desired payment method and check the options as shown in the illustration below.
 
-![special payment conditions](//images.ctfassets.net/alneenqid6w5/1DllASa2BBHO7VjL1krOqD/5f674ce32524424a33df81b671e04e5c/Special_payment_conditions.png)
+![special payment conditions](https://images.ctfassets.net/alneenqid6w5/1DllASa2BBHO7VjL1krOqD/5f674ce32524424a33df81b671e04e5c/Special_payment_conditions.png)
 
 ## Commercial condition
 

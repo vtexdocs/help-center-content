@@ -16,7 +16,7 @@ legacySlug: localize-o-pixel-do-google-ads
 
 Para localizar o ID do pixel de remarketing é necessário realizar o login dentro do Google ads.
 
-![Google_Ads](//images.ctfassets.net/alneenqid6w5/3WHxCxHMQ7glNyc32wFa8G/3de7c855fa9574725c9df93eaf555ff9/Google_Ads.png)
+![Google_Ads](https://images.ctfassets.net/alneenqid6w5/3WHxCxHMQ7glNyc32wFa8G/3de7c855fa9574725c9df93eaf555ff9/Google_Ads.png)
 
 O próximo passo, é acessar o menu **Ferramentas e Definições** e em **Biblioteca Partilhada**, acesse **Gestor de públicos-alvo**, conforme a imagem abaixo:
 

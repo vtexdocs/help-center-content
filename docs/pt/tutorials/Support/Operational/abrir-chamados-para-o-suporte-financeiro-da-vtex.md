@@ -35,7 +35,7 @@ Depois de se autenticar pelo método escolhido, você entra no painel de suporte
 
 Para abrir um chamado, basta clicar no botão __Enviar uma solicitação__.
 
-![chamado financeiro1 PT](//images.ctfassets.net/alneenqid6w5/51uuDEcQzKOkoOUEImoGqO/c8df51e5c79445754b132ca7cef1c12c/chamado_financeiro1_PT.png)
+![chamado financeiro1 PT](https://images.ctfassets.net/alneenqid6w5/51uuDEcQzKOkoOUEImoGqO/c8df51e5c79445754b132ca7cef1c12c/chamado_financeiro1_PT.png)
 
 Você será levado para o formulário de abertura de chamado, onde deve preencher:
 - Seu nome.

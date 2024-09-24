@@ -26,7 +26,7 @@ Esta página te permite realizar las siguientes acciones:
 * [Filtrar pedidos](#filtrar-pedidos) 
 * [Exportar pedidos](#exportar-pedidos)
 
-![pick-and-pack-pedidos-ES](//images.ctfassets.net/alneenqid6w5/7oIngXdaDwQP0CQSHlQaPO/0b19e96e2057462deca476086792e17d/image.png)
+![pick-and-pack-pedidos-ES](https://images.ctfassets.net/alneenqid6w5/7oIngXdaDwQP0CQSHlQaPO/0b19e96e2057462deca476086792e17d/image.png)
 
 La página presenta la siguiente información en forma de tabla: 
 

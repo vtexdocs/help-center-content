@@ -23,7 +23,7 @@ Pensando nisso e também em aumentar as suas vendas, o VTEX Assisted Sales (Suit
 
 Para criar seu link é muito fácil, acesse seu painel do VTEX Assisted Sales (SuiteShare) e clique em **Atrair** e depois em **Links**.
 
-![Links 1](//images.ctfassets.net/alneenqid6w5/33OwHBb0Nhs6sIGzWSsni5/a2b02a88970460ae4f9864408623e93e/Screenshot_2022-08-26_at_12-51-46_Links.png)
+![Links 1](https://images.ctfassets.net/alneenqid6w5/33OwHBb0Nhs6sIGzWSsni5/a2b02a88970460ae4f9864408623e93e/Screenshot_2022-08-26_at_12-51-46_Links.png)
 
 Clique no botão **Novo**.
 

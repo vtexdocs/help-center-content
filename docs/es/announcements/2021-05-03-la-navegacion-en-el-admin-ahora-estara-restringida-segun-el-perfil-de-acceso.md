@@ -27,7 +27,7 @@ Ahora, los usuarios sólo verán los ítems del menú de la barra lateral a los 
 
 La imagen a continuación ilustra cómo la barra lateral cambiaría al aplicar esta modificación de mantenimiento para mejorar la seguridad y la experiencia de usuario de su tienda.
 
-![ES Sidebar permissions announcement screenshot](//images.ctfassets.net/alneenqid6w5/1dnqc48HsZDxmiUygavYHZ/e099126ea9483ee64e156948b6bd1695/ES_Sidebar_permissions_announcement_screenshot__1_.png)
+![ES Sidebar permissions announcement screenshot](https://images.ctfassets.net/alneenqid6w5/1dnqc48HsZDxmiUygavYHZ/e099126ea9483ee64e156948b6bd1695/ES_Sidebar_permissions_announcement_screenshot__1_.png)
 
 ## ¿Por qué realizamos este cambio?
 

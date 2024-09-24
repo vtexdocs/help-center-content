@@ -27,7 +27,7 @@ Dependiendo de los datos almacenados, el acceso público sin autenticación pued
 2. En Master Data, haz clic en **Aplicaciones**.
 3. Haz clic en el engranaje <i class="fas fa-cog"></i> al lado de **Profile System**:
 
-   ![1-master-data-confidential-data-es](//images.ctfassets.net/alneenqid6w5/2Ulq3zVfRfAkmXYzC1fCCq/74b070908ad01d2f304ef85b3336d90a/1-master-data-confidential-data-es.png)
+   ![1-master-data-confidential-data-es](https://images.ctfassets.net/alneenqid6w5/2Ulq3zVfRfAkmXYzC1fCCq/74b070908ad01d2f304ef85b3336d90a/1-master-data-confidential-data-es.png)
 4. En **Configuración**, haz clic en **Estructura de datos**.
 
    ![2-master-data-confidential-data-es](//images.ctfassets.net/alneenqid6w5/3F2667ZvZymEE03zyoHSsh/af70a12de57c62150baa2889bfcbbeb3/2-master-data-confidential-data-es.png)

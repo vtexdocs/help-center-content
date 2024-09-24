@@ -31,7 +31,7 @@ window.INSTORE_CONFIG = {
 
 When making this change, you should notice that two polyesters appear at the bottom of the inStore ID page:
 
-![01 inStore slider transferencia](//images.ctfassets.net/alneenqid6w5/5h4AVCw4sE4oAIsMEMskU0/a5739c88008a9029755adadc58a332bf/01_inStore_slider_transferencia.png)
+![01 inStore slider transferencia](https://images.ctfassets.net/alneenqid6w5/5h4AVCw4sE4oAIsMEMskU0/a5739c88008a9029755adadc58a332bf/01_inStore_slider_transferencia.png)
 
 When dragging the screen to the side you will see the screen for __ "Capture Cart" __:
 

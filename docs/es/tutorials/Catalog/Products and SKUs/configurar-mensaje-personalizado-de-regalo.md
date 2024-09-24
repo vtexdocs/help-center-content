@@ -44,7 +44,7 @@ En el sitio es posible validar si la configuración se ha efectuado correctament
 3. En este momento el tipo de servicio debe estar disponible para selección. El mensaje debe ser escrito en hasta 150 caracteres.
 4. Seleccione el servicio en el carrito y haga clic en el link para agregar mensaje.
 
-![](//images.contentful.com/alneenqid6w5/3txxLHOWtqguWu4qmAqumA/e68ef2cf4881d3b9a01199244567c790/mensagem-carrinho.png)
+![](https://images.contentful.com/alneenqid6w5/3txxLHOWtqguWu4qmAqumA/e68ef2cf4881d3b9a01199244567c790/mensagem-carrinho.png)
 
 Puede ver el mensaje escrito en la página de __Mi Cuenta > Mis Pedidos__:
 

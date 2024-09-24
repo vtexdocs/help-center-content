@@ -17,7 +17,7 @@ announcementSynopsisPT: 'A nova seção do Admin VTEX para encontrar parceiros, 
 
 Hub de Extensões é a nova seção do Admin VTEX que reúne desenvolvedores parceiros e merchants que querem estender as funcionalidades da sua operação. Pelo Hub de Extensões, parceiros podem publicar suas extensões e merchants podem visualizar, comprar, instalar e gerenciar extensões. O Hub de Extensões estará disponível globalmente em todas as lojas VTEX durante o terceiro trimestre (Q3) de 2023. Caso você queira habilitar o Hub de Extensões na sua loja imediatamente, você pode fazer o pedido [abrindo um ticket para o nosso suporte](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
-![Extensions Hub GIF](//images.ctfassets.net/alneenqid6w5/2J9kCcwWYl36mQjphjpoOv/e5d1491570f8676841390e1899c54250/Extensions_Hub.gif)
+![Extensions Hub GIF](https://images.ctfassets.net/alneenqid6w5/2J9kCcwWYl36mQjphjpoOv/e5d1491570f8676841390e1899c54250/Extensions_Hub.gif)
 
 ## O que mudou?
 

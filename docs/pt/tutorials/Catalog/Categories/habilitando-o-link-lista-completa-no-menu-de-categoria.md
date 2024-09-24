@@ -20,7 +20,7 @@ O link de **Lista Completa** no menu de categorias é muito usado em lojas que 
 
 Como, por exemplo, no caso abaixo, o "Departamento 2" :
 
-![categoria.pt](//images.ctfassets.net/alneenqid6w5/Z4sxAcNhnYK8zHQ46Viti/809614206fc51a87a108432c546ce5a3/categoria.pt.png)
+![categoria.pt](https://images.ctfassets.net/alneenqid6w5/Z4sxAcNhnYK8zHQ46Viti/809614206fc51a87a108432c546ce5a3/categoria.pt.png)
 
 De todas as categorias, a loja preferiu exibir no menu somente algumas.
 

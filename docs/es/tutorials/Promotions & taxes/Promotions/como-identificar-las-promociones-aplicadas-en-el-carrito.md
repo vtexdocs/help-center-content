@@ -40,7 +40,7 @@ En el carrito, puedes pasar el mouse sobre el ícono de interrogación que está
 
 Sin embargo, si se aplicó más de una promoción, aparecerá solo la sumatoria de todos los descuentos, lo cual dificultará el análisis del escenario.
 
-![example-cart](//images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/8d5f5572c67f308480e9e4b1f65dc9e7/image6.png)
+![example-cart](https://images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/8d5f5572c67f308480e9e4b1f65dc9e7/image6.png)
 
 ## orderForm
 

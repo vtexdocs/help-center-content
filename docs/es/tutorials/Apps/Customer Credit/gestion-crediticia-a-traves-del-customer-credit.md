@@ -69,7 +69,7 @@ Para un número reducido de registros, el cliente puede crear las cuentas una po
 - Correo electrónico
 - Límite de crédito
 
-![CustomerCredit1-ES.png h 250?h=250](//images.ctfassets.net/alneenqid6w5/5i2WziEg0CmHZ1yZGSId6q/88cc7d5c78daa86685773aa3ce28da38/CustomerCredit1-ES.png_h_250_h_250)
+![CustomerCredit1-ES.png h 250?h=250](https://images.ctfassets.net/alneenqid6w5/5i2WziEg0CmHZ1yZGSId6q/88cc7d5c78daa86685773aa3ce28da38/CustomerCredit1-ES.png_h_250_h_250)
 
 Si, por otro lado, la base tiene un gran número de cuentas, lo más indicado es importar una plantilla en formato CSV. Puede descargar un modelo de este documento en la sección de Cuentas y rellenarlo con la información necesaria. Para esto, haga clic en el botón __Importar__.
 

@@ -55,7 +55,7 @@ Após a instalação do VTEX Insurance, é necessário realizar a preparação d
 5. Após a criação do campo **Garantia do Fabricante**, defina o período desejado de garantia. No campo **Valor Padrão**, é recomendado o valor 12, representando um período de 12 meses.
 6. [Crie uma categoria](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3UYjVS03JbleGPh0Ckpic1?&utm_source=autocomplete) específica para o produto de seguro.
 7. [Crie o produto](https://help.vtex.com/pt/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By?&utm_source=autocomplete#criar-produto) de seguro.
-8. [Crie SKUs](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) de seguro. É recomendada a criação de mais de três SKUs para cada seguro.![Insurance - SKUs](//images.ctfassets.net/alneenqid6w5/7z6EX1cFT3l5wmnlX5LQk1/763ed10aa72e1f453bca4e858b4347e1/image1.png)
+8. [Crie SKUs](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) de seguro. É recomendada a criação de mais de três SKUs para cada seguro.![Insurance - SKUs](https://images.ctfassets.net/alneenqid6w5/7z6EX1cFT3l5wmnlX5LQk1/763ed10aa72e1f453bca4e858b4347e1/image1.png)
 9. [Vincule os SKUs criados](https://help.vtex.com/pt/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX?&utm_source=autocomplete) com o seller da Assurant.
 10.  [Vincule o seguro com o produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#preencher-especificacoes-de-produto) desejado.
 

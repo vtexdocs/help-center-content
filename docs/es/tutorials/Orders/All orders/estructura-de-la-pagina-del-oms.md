@@ -33,7 +33,7 @@ Para todos los datos de variaciones de pedidos, y también para los números de 
 
 >⚠️ Importante: si la comparación de pedidos se realiza en base a 0 pedidos en el pasado, la variación es de 0%.
 
-![barra-status-oms es](//images.ctfassets.net/alneenqid6w5/6fv6Fd07ra6KMOwS0ecgUm/02d1b532b5fb183d420ced0ecbb6d235/barra_de_status.png)
+![barra-status-oms es](https://images.ctfassets.net/alneenqid6w5/6fv6Fd07ra6KMOwS0ecgUm/02d1b532b5fb183d420ced0ecbb6d235/barra_de_status.png)
 
 ### Filtros
 

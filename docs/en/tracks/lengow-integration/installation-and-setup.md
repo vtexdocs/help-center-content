@@ -40,7 +40,7 @@ To get started, we will fill out basic settings that allow VTEX and Lengow to co
 
 Once this is done, as seen in the image below, press **Save** to store the settings and move on to the next step.
 
-![Lengow Basic Setup](//images.ctfassets.net/alneenqid6w5/47hHUySqAFsoAXKSX0ec8N/9be820ddefcc9e6893c634d7fe627b16/Screen_Shot_2020-07-01_at_22.44.34.png)
+![Lengow Basic Setup](https://images.ctfassets.net/alneenqid6w5/47hHUySqAFsoAXKSX0ec8N/9be820ddefcc9e6893c634d7fe627b16/Screen_Shot_2020-07-01_at_22.44.34.png)
 
 ### Configure VTEX affiliate for Lengow
 

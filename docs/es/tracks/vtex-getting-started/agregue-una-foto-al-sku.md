@@ -20,7 +20,7 @@ Todo SKU necesita al menos una imagen para que aparezca en la tienda.
 
 Por lo tanto, después de terminar de llenar la configuración de su nuevo SKU y hacer clic en __Guardar__, usted será llevado a la pantalla de registro de imagen, donde se muestra el mensaje siguiente.
 
-![SKUimg](//images.contentful.com/alneenqid6w5/2lV4fLbTJqEiCmUQOaaOOm/c7480c2c8095f51c8236d2022991fe43/SKUimg.png)
+![SKUimg](https://images.contentful.com/alneenqid6w5/2lV4fLbTJqEiCmUQOaaOOm/c7480c2c8095f51c8236d2022991fe43/SKUimg.png)
 
 Para asociar una imagen a ese SKU, siga estos pasos:
 1. Haga clic en el botón __Insertar__.

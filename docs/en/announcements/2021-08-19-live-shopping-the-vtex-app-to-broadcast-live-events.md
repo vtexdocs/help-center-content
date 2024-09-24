@@ -17,7 +17,7 @@ announcementSynopsisEN: 'The app allows stores to carry out live broadcasts, pro
 
 The Live Shopping app is responsible for revolutionizing your relationship with your customers: use it to broadcast live on your store’s website, promoting product collections, increasing selling rates, and enhancing user experience simultaneously and in real-time.
 
-![live-shopping-overviewen](//images.contentful.com/alneenqid6w5/6QNneCank2FRHN1M5pZVF1/ba18d4b047e7bad242dd8d739cc1f34a/-Official_Sales_Deck-_VTEX_Live_Shopping_App.png)
+![live-shopping-overviewen](https://images.contentful.com/alneenqid6w5/6QNneCank2FRHN1M5pZVF1/ba18d4b047e7bad242dd8d739cc1f34a/-Official_Sales_Deck-_VTEX_Live_Shopping_App.png)
 
 The application is available on the [VTEX App Store](https://apps.vtex.com/) and can be downloaded for a fair subscription price by all stores running on VTEX IO and Legacy.
 

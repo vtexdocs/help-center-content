@@ -24,7 +24,7 @@ However, these attributes are quite clear (Primary color, Secondary color, Size 
 
 If any of these attributes is wrongly entered (for example, if you attribute a code for belt size to a pair of shoes), the Integrations will return an error in the following format:
 
-![Shot1](//images.contentful.com/alneenqid6w5/7A7DwGFr0cw8Q2qek0EqMU/9cad02c847f5dc7be7df68ad14bba39e/Shot1.jpg)
+![Shot1](https://images.contentful.com/alneenqid6w5/7A7DwGFr0cw8Q2qek0EqMU/9cad02c847f5dc7be7df68ad14bba39e/Shot1.jpg)
 
 In this case, we have examples of two errors in the same message.
 

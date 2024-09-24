@@ -33,7 +33,7 @@ To obtain the __App key__ and __App token__ credentials necessary to configure I
 
 <blockquote><ui>2. Select the account in which you want to transact payments at VTEX and click <b>Aplicar</b>. Save the account number, as it must be used in the <b>App key</b> field in the <a href="#setting-up-itau-rede-on-vtex">Setting up Itaú Rede on VTEX</a>.</ui> 
 
-![Itaú Rede_1](//images.ctfassets.net/alneenqid6w5/gooU2CGrEsArx16vHLBAw/af69b2edd0c9361563fa4b624941f2d0/Itau_Rede_1.PNG)
+![Itaú Rede_1](https://images.ctfassets.net/alneenqid6w5/gooU2CGrEsArx16vHLBAw/af69b2edd0c9361563fa4b624941f2d0/Itau_Rede_1.PNG)
 
 <blockquote><ui>3. After the screen updates to the desired account, in the <b>para vender</b> menu, select the <b>e-commerce</b> option.
 

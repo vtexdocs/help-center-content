@@ -27,7 +27,7 @@ Selecione `store-theme` e confirme que você gostaria de fazer o download do pro
 
 Você receberá informações importantes sobre o aplicativo, como o vendor, o nome, o título e a descrição do aplicativo. Use o __account name__ da loja que você está desenvolvendo como o __vendor__. Isso é importante para que posteriormente você consiga publicar corretamente essa app nesta conta. Para usar os valores padrão, basta pressionar Enter.
 
-![store-theme](//images.ctfassets.net/alneenqid6w5/6FEPaKbOMqkndELmvd0u6z/f47d4a3a04b5cf270372b5dbc72940a9/store-theme.svg)
+![store-theme](https://images.ctfassets.net/alneenqid6w5/6FEPaKbOMqkndELmvd0u6z/f47d4a3a04b5cf270372b5dbc72940a9/store-theme.svg)
 
 ## Entendendo a estrutura da app
 

@@ -28,6 +28,6 @@ The following table shows the main topics related to technical support:
 
 If the user needs technical support and can't find solutions on the portals and documentation mentioned, they can contact us via the [Support page](https://support.vtex.com/hc/pt-br/requests) and select the **Technical** option via the VTEX IA Support Bot, a chatbot focused on technical assistance, as shown in the image below:
 
-![Support imagem 2 -EN](//images.ctfassets.net/alneenqid6w5/6rCMM1fwSMHqDJFtaP4IF2/bebfbb302b01ba80644d77e460136f99/support_imagem2_EN.png)
+![Support imagem 2 -EN](https://images.ctfassets.net/alneenqid6w5/6rCMM1fwSMHqDJFtaP4IF2/bebfbb302b01ba80644d77e460136f99/support_imagem2_EN.png)
 
 If the user needs support beyond the VTEX IA Support Bot, they can open a ticket by clicking `OPEN TICKET`. For more information on how to complete a ticket for technical support, read the [Opening tickets to VTEX Support - Technical](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#technical) article.

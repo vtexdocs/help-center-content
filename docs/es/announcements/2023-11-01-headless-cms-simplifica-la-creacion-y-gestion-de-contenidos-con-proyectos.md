@@ -17,7 +17,7 @@ announcementSynopsisES: 'Headless CMS - Administre sus proyectos de manera centr
 
 **Proyectos** es una nueva funcionalidad en Headless CMS que agiliza la gestión de múltiples experiencias digitales, tales como aplicaciones móviles, sitios web y email marketing desde un solo dashboard.
 
-![Projects overview](//images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/fa66fd00d9a29e3eeb835369c70277d7/projects-two-es-outro.png)
+![Projects overview](https://images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/fa66fd00d9a29e3eeb835369c70277d7/projects-two-es-outro.png)
 
 Proyectos te permite personalizar la configuración, contenido y marca de cada proyecto para ajustarlo a públicos u objetivos específicos.
 

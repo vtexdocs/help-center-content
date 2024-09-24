@@ -16,7 +16,7 @@ trackSlugPT: suiteshare
 
 Após realizar o seu cadastro na **VTEX Assisted Sales (SuiteShare)**, você pode estar em uma dessas duas situações: No trial de 7 dias do plano Enterprise ou no plano que você já contratou conosco. 
 
-![Suitshare-Como começar](//images.ctfassets.net/alneenqid6w5/8fSuhGRJ2V9P3SJUz2lgB/211f16f93cc9b6b056171968f45db640/Screenshot_2022-08-24_at_17-39-46_Como_come__ar.png)
+![Suitshare-Como começar](https://images.ctfassets.net/alneenqid6w5/8fSuhGRJ2V9P3SJUz2lgB/211f16f93cc9b6b056171968f45db640/Screenshot_2022-08-24_at_17-39-46_Como_come__ar.png)
 
 Caso você não não saiba em que situação está o seu plano, você pode consultar em **Minha conta**: 
 

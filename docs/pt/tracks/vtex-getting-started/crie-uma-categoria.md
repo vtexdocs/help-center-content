@@ -20,7 +20,7 @@ Depois que a sua árvore de categorias estiver definida, você já pode inserir 
 
 Na VTEX, o cadastro de categorias é feito no módulo __Catalog__.
 
-1. No menu da topbar do seu admin, clique em __Catalog__ (se você já não estiver lá).![Catalog](//images.contentful.com/alneenqid6w5/48wP1cDIw0EwoeOUY8OGWI/8874d5f10e57364c7d78852d5b48aed4/catalog.png)
+1. No menu da topbar do seu admin, clique em __Catalog__ (se você já não estiver lá).![Catalog](https://images.contentful.com/alneenqid6w5/48wP1cDIw0EwoeOUY8OGWI/8874d5f10e57364c7d78852d5b48aed4/catalog.png)
 2. Nas opções da aba __Cadastro de Produtos__, clique em __Categoria__.![Categoria](//images.contentful.com/alneenqid6w5/2w0IBMGwik0AGauGA4Eu0G/260db5fed8cca932f10b194a05a5f9c1/Categoria.png)
 
 No lado esquerdo da tela, você vê o nível mais alto de categorias, que por padrão tem o nome __Categorias__. É dentro dele que vamos distribuir as categorias da sua árvore.

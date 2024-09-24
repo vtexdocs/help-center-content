@@ -30,7 +30,7 @@ La página de inicio presenta la lista de promociones en una malla que permite v
 - Duplicar o archivar promociones a través del botón <i class="fas fa-ellipsis-v"></i>
 - Gestionar las condiciones de la promoción haciendo clic en cualquier lugar de la línea de la malla (consulte la sección [Nueva promoción](#nueva-promocion) para obtener detalles sobre las condiciones de la promoción).
 
-![promobeta1 acoes lista promocoes ES](//images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/b8b32c9c2d6f39763ade1630fc34023f/promobeta1_acoes_lista_promocoes_ES.gif)
+![promobeta1 acoes lista promocoes ES](https://images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/b8b32c9c2d6f39763ade1630fc34023f/promobeta1_acoes_lista_promocoes_ES.gif)
 
 La lista de promociones se puede filtrar y ordenar según sus necesidades. Es posible filtrar por *Efecto*, *Estado*, *Fecha de inicio*, *Fecha de caducidad* o *Política comercial*.
 

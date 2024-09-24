@@ -71,7 +71,7 @@ Let's suppose that an SKU has two fixed prices linked to it. In addition, both p
 
 For example, the first fixed price is set at __U$ 50,00__ and its schedule runs from __10AM__ to __4PM__. The second price is set at __U$ 25,00__ and is scheduled from __noon__ to __8PM of the same day__. Therefore, the prices compete for the same schedule between *noon and 4PM*, which means that the __U$ 25,00__ SKU sales price will prevail during this time.
 
-![fixed price - example2](//images.ctfassets.net/alneenqid6w5/1GR4ZZSlxREEGHno3VXorQ/b014a5ed36bf608e9f582775ca06e507/fixed_price_-_example2.svg)
+![fixed price - example2](https://images.ctfassets.net/alneenqid6w5/1GR4ZZSlxREEGHno3VXorQ/b014a5ed36bf608e9f582775ca06e507/fixed_price_-_example2.svg)
 
 ### Competing criteria for minimum number of cart items
 

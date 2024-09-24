@@ -34,7 +34,7 @@ Há duas áreas de configuração dessa funcionalidade: __Critérios prioritári
   <li><b>Score do Catálogo:</b> 3</li>
 </ul>
 
-![default priority criteria PT](//images.ctfassets.net/alneenqid6w5/46WH9rGu8E2dpDry9i7uQ3/092139dbd13f66e3b061fba36704450a/screencapture-biggy-myvtex-admin-search-boost-settings-2021-06-23-16_19_41.png)
+![default priority criteria PT](https://images.ctfassets.net/alneenqid6w5/46WH9rGu8E2dpDry9i7uQ3/092139dbd13f66e3b061fba36704450a/screencapture-biggy-myvtex-admin-search-boost-settings-2021-06-23-16_19_41.png)
 
 Para alterar a configuração de Relevância, siga os passos abaixo.
 

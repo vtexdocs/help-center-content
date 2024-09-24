@@ -26,7 +26,7 @@ This page allows you to perform the following actions:
 * [Edit](#editing-a-store)
 * [Delete](#editing-a-store)
 
-![loja-fisica-EN](//images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/516078c3146ebc1f4a7905faed445098/image.png)
+![loja-fisica-EN](https://images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/516078c3146ebc1f4a7905faed445098/image.png)
 
 The page displays the following information: 
 

@@ -27,7 +27,7 @@ A partir de la lista de promociones del Seller Portal puedes llevar a cabo diver
 * [Acceder al menú de acciones de la promoción](#acceder-al-menu-de-acciones-de-la-promocion)
 * [Acceder a promociones archivadas](#acceder-a-promociones-archivadas)
 
-![seller-portal-promo-es](//images.ctfassets.net/alneenqid6w5/266zLPS2IkGekYdMOz27Pz/a65cab7ea0ee0983f80894668ca050d0/image.png)
+![seller-portal-promo-es](https://images.ctfassets.net/alneenqid6w5/266zLPS2IkGekYdMOz27Pz/a65cab7ea0ee0983f80894668ca050d0/image.png)
 
 En la siguiente tabla puedes consultar la información de la página **Promociones**: 
 

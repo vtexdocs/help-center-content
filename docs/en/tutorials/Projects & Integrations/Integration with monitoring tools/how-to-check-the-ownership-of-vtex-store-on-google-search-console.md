@@ -17,7 +17,7 @@ subcategoryId: 1luKrYptdi8WoMYckakUaM
 
 In order to have the access to **Search Console** data, you must check the ownership of your store. After some simple steps, you will have access to data on your store indexation performance on Google.
 
-1. Access the Search Console using a Google account through the URL: [https://www.google.com/webmasters/tools/](https://www.google.com/webmasters/tools/ "https://www.google.com/webmasters/tools/")![Primeiro passo - Verificação de Propriedade Google Search Console](//images.contentful.com/alneenqid6w5/53nfBOKjXOMGacqQIGuYKY/5d9bed2fd41df4956e89a5e52c00acc4/step_1.jpg)
+1. Access the Search Console using a Google account through the URL: [https://www.google.com/webmasters/tools/](https://www.google.com/webmasters/tools/ "https://www.google.com/webmasters/tools/")![Primeiro passo - Verificação de Propriedade Google Search Console](https://images.contentful.com/alneenqid6w5/53nfBOKjXOMGacqQIGuYKY/5d9bed2fd41df4956e89a5e52c00acc4/step_1.jpg)
 2. Select the option **Add property** and enter the URL of your store:![](//images.contentful.com/alneenqid6w5/5z5kYNIrzUo2mumc6WU6sC/d5e408a19b2ec6cf3c261ce490b43cab/step_2.jpg)
 3. Checking method: the Search Console makes available several methods for checking the ownership of your stores. The method indicated for VTEX stores is the **HTML Tag**, in the option **Alternate methods**.![](//images.contentful.com/alneenqid6w5/5QvujnxhluSkW8UOkOwUOM/86022ea4ffb6dad43f421af5ea130568/step_3.jpg)
 4. **HTML Tag** will generate a meta tag that must be entered in the template of your store’s homepage. Copy the tag shown, and enter it on the `<head>` of your store’s template:![](//images.contentful.com/alneenqid6w5/3uDOqrv56oMGUK6mAewgSO/bd820d0abd57ef29c88cccc5669e314f/step_4.jpg)

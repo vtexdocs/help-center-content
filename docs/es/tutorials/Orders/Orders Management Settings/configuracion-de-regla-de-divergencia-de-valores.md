@@ -43,7 +43,7 @@ Para crear una regla de divergencia de precios, sigue los pasos a continuación:
 
 Verás la siguiente pantalla:
 
-![print_01_ES](//images.ctfassets.net/alneenqid6w5/6lp2IKdU8VvaFgOUhHv5GA/9f087e8080a0a18dbb9caeb890a4beae/print_01_ES.png)
+![print_01_ES](https://images.ctfassets.net/alneenqid6w5/6lp2IKdU8VvaFgOUhHv5GA/9f087e8080a0a18dbb9caeb890a4beae/print_01_ES.png)
 
 La pestaña **Todas** muestra todas las reglas de autorización configuradas.
 

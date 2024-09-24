@@ -62,7 +62,7 @@ Além disso, não é possível fazer a substituição nos seguintes status de pe
 
 Com essa funcionalidade, os usuários da sua loja ganham uma página de Meus Pedidos redesenhada, com opções de alteração e cancelamento:
 
-![meu pedidos1 PT](//images.contentful.com/alneenqid6w5/3HQW2z7EfmokwYcWWCae8C/f0b0a251aecf8b2e140ad9a1ec2ee3c9/meu_pedidos1_PT.png)
+![meu pedidos1 PT](https://images.contentful.com/alneenqid6w5/3HQW2z7EfmokwYcWWCae8C/f0b0a251aecf8b2e140ad9a1ec2ee3c9/meu_pedidos1_PT.png)
 
 ![meus pedidos3 PT](//images.ctfassets.net/alneenqid6w5/Np1Rhp4HIsQ6ocyOcqG4i/291263f717dd3da2ef8a027b5a1534e6/meus_pedidos3_PT.png)
 

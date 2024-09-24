@@ -35,7 +35,7 @@ Para comprobar que la política comercial esté configurada correctamente en el 
 3. En la página de registro del producto, comprueba que la política comercial que se utiliza para Mercado Libre esté seleccionada.
 4. Si no lo está, marca la casilla de la política comercial.
 
-  ![politicas-comerciales-es](//images.ctfassets.net/alneenqid6w5/dRDUjjHbk3Ui0ZQEX7SYd/0840562553e4b05d584a9d0a0d453c4b/politicas-comerciales-es.png)
+  ![politicas-comerciales-es](https://images.ctfassets.net/alneenqid6w5/dRDUjjHbk3Ui0ZQEX7SYd/0840562553e4b05d584a9d0a0d453c4b/politicas-comerciales-es.png)
 
  5. Haz clic en el botón `Guardar`.
 

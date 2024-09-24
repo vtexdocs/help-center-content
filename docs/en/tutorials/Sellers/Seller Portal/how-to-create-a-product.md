@@ -54,7 +54,7 @@ In this section, you need to add at least one trade policy to apply to the produ
 
 In this step, you must write a description with the main information related to the product. The text should contain a clear and simple product description. This is a rich text editor, which means that you can use several formatting features using the toolbar, as illustrated below.
 
-![richtext-EN](//images.contentful.com/alneenqid6w5/5qza9JxGS1DIAKpZ6LkAwC/2e79ac8b7ddffefc466714db3046c29c/richttext-EN.gif)
+![richtext-EN](https://images.contentful.com/alneenqid6w5/5qza9JxGS1DIAKpZ6LkAwC/2e79ac8b7ddffefc466714db3046c29c/richttext-EN.gif)
 
 Here are the features available:
 

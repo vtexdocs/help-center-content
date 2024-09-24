@@ -18,7 +18,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 O objetivo deste artigo é explicar os passos para adicionar e configurar o conector Mercado Pago Transparente.
 
 Primeiro, você deve acessar o módulo Pagamentos e clicar em **Configurações**, que fica à direita na barra superior.
-![2017-01-26 19_04_37-Transações _ VTEX PCI Gateway](//images.contentful.com/alneenqid6w5/6Gxdu2Z0NqyggYkEe8A8q0/7fd3e1c15fd89ec76c90473329ff1439/2017-01-26-19_04_37-Transa_C3_A7_C3_B5es-_-VTEX-PCI-Gateway-300x105.png)
+![2017-01-26 19_04_37-Transações _ VTEX PCI Gateway](https://images.contentful.com/alneenqid6w5/6Gxdu2Z0NqyggYkEe8A8q0/7fd3e1c15fd89ec76c90473329ff1439/2017-01-26-19_04_37-Transa_C3_A7_C3_B5es-_-VTEX-PCI-Gateway-300x105.png)
 
 Depois, clique no item **Afiliações de Gateways** e, então, no ícone **+**, que fica à direita. Uma tela com todos os conectores disponíveis vai se abrir e você deve selecionar o card do Mercado Pago Transparente (__MercadoPagoV1__).
 ![2017-01-26 19_12_51-Conectores _ VTEX PCI Gateway](//images.contentful.com/alneenqid6w5/69Wai0Un0A0S4C0EyuCsme/8bcdc06f9863147fb04c403e83125fea/2017-01-26-19_12_51-Conectores-_-VTEX-PCI-Gateway-300x245.png)

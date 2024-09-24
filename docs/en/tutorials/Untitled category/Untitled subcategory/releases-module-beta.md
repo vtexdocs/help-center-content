@@ -66,7 +66,7 @@ To create a release, follow the step-by-step instructions below:
 
 8. Click `Create`.
 
-![print_cms_beta_en](//images.ctfassets.net/alneenqid6w5/3E9inm1oqSRWqfBly8puW6/9c938423b576e80d181f0cc8d32a6b46/print_cms_beta_en.png)
+![print_cms_beta_en](https://images.ctfassets.net/alneenqid6w5/3E9inm1oqSRWqfBly8puW6/9c938423b576e80d181f0cc8d32a6b46/print_cms_beta_en.png)
 
 ### How to create a release using the Releases module
 

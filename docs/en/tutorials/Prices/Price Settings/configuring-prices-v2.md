@@ -20,7 +20,7 @@ The functions described in this article are not yet available for all clients.
 
 Price configurations are accessed by the **Settings** button in the **Prices** module.
 
-![Preco24](//images.contentful.com/alneenqid6w5/5Wm20idGbCG0uKei00QQOi/5e18f35d0dd0790e5be98341c67ab4a6/Preco24.gif)
+![Preco24](https://images.contentful.com/alneenqid6w5/5Wm20idGbCG0uKei00QQOi/5e18f35d0dd0790e5be98341c67ab4a6/Preco24.gif)
 
 &nbsp;
 

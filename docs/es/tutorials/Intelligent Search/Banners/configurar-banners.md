@@ -27,7 +27,7 @@ Después de configurar el banner, debes agregarlo a una página de tu tienda. Pa
 
 >ℹ️ Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo [VTEX Intelligent Search: configuración Multidioma (Beta)](https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracion-multidioma-beta--2WahlTESLXIJ9XBdQMdTYO#banners)para saber más.
 
-![banner-form-es](//images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/ae3e6e5ffd311ad1c25e3cd7104bc874/image.png)
+![banner-form-es](https://images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/ae3e6e5ffd311ad1c25e3cd7104bc874/image.png)
 
 ## Campos de registro del banner
 

@@ -28,7 +28,7 @@ Configure the [store’s binding](https://help.vtex.com/en/tutorial/what-is-cms-
 
 Binding is the process to link your website to a store. For more details , please refer to the article [Linking a store to a folder structure in CMS (binding)](https://help.vtex.com/en/tutorial/vincular-um-account-name-a-um-website-binding).
 
-![CMS - Sites and channels EN](//images.ctfassets.net/alneenqid6w5/4mXskFs41ULqUjO0naKtPd/73e1c8e48c93825b917c547c624ff8de/cms-sites-and-channels-en.png)
+![CMS - Sites and channels EN](https://images.ctfassets.net/alneenqid6w5/4mXskFs41ULqUjO0naKtPd/73e1c8e48c93825b917c547c624ff8de/cms-sites-and-channels-en.png)
 
 ## Pages
 In **[Pages](https://help.vtex.com/en/tutorial/pages-overview--5iBUUJbK5NqG6OxlDrGNzc)**, create a new URL and link it to a template already defined in your [Store theme code](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates).

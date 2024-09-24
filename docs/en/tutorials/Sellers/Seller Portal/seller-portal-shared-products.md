@@ -29,7 +29,7 @@ In the Shared Products page you will find two tabs:
 - Available  
 
  ## Imported
- ![Shared products Importados EN](//images.ctfassets.net/alneenqid6w5/2mmTwK1Kn3g8TPOICMMMk8/00980934a6d88d6aeccc1d1ed66778a2/Shared_products_Importados_EN.jpg)
+ ![Shared products Importados EN](https://images.ctfassets.net/alneenqid6w5/2mmTwK1Kn3g8TPOICMMMk8/00980934a6d88d6aeccc1d1ed66778a2/Shared_products_Importados_EN.jpg)
 
 The *Imported* tab displays products from the marketplace catalog that you have already imported and are ready to become offers. This is also where you activate your products. Above the list there is a search bar where you can search for products by name or SKU.  
 

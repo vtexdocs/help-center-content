@@ -38,7 +38,7 @@ The **nominal reward value** adds a fixed credit amount to the user's account in
 
 In the following example, the customers will earn R$10,00 in store credit when the order status changes to **Invoiced**.
 
-![vf-nominal-en](//images.ctfassets.net/alneenqid6w5/5i67rFawcAHCOpI84bBP2U/fc3a24297d99657c141f3b8d295f6f69/vf-nominal-en.png)
+![vf-nominal-en](https://images.ctfassets.net/alneenqid6w5/5i67rFawcAHCOpI84bBP2U/fc3a24297d99657c141f3b8d295f6f69/vf-nominal-en.png)
 
 ### Percentage reward value
 

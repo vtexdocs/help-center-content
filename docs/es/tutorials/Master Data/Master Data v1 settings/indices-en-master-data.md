@@ -56,7 +56,7 @@ Si solo hay un campo configurado como índice, la clave alternativa evitará que
 
 Por ejemplo, la tabla **Cliente** tiene dos columnas: **ID** y **nombre**. Para facilitar la búsqueda, el campo **Nombre** (`name`) puede configurarse como índice y marcarse como **Valores únicos**, como se ilustra a continuación:
 
-![indices-1-es](//images.ctfassets.net/alneenqid6w5/3OsXbib7NQTwtjSzBlvR0a/2a87ed75f094011598e43f6b019b9aac/indices-1-es.png)
+![indices-1-es](https://images.ctfassets.net/alneenqid6w5/3OsXbib7NQTwtjSzBlvR0a/2a87ed75f094011598e43f6b019b9aac/indices-1-es.png)
 
 Como resultado, no será posible ingresar un nombre que ya haya sido registrado en **Cliente**:
 

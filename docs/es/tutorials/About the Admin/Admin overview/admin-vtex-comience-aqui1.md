@@ -18,7 +18,7 @@ subcategoryId: Se4oi5LroIII2Ei0uGAoE
 El Admin renovado permite a los comerciantes gestionar todas sus experiencias de comercio digital en un solo lugar, de forma sencilla e inteligente.
 
 ## Página de inicio
-![Store Overview gif ES](//images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b91a459e41bac28866c1165ca8fcc208/Store_Overview_gif_ES.gif)
+![Store Overview gif ES](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b91a459e41bac28866c1165ca8fcc208/Store_Overview_gif_ES.gif)
 
 La página de inicio del admin ha sido rediseñada para proporcionar una visión general de alto nivel de tu tienda, como una cabina de mando para tus operaciones de comercio digital, y ahora se llama [Vista general](https://help.vtex.com/es/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
 

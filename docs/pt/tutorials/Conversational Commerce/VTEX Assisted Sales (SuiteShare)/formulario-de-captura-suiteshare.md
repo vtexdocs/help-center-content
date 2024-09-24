@@ -23,7 +23,7 @@ Para criar um formulário de Captura é preciso ter o link criado, se você não
 
 Acesse o painel do **VTEX Assisted Sales (SuiteShare)** e clique em _**“Capturar”**_.
 
-![Formulário de Captura 1](//images.ctfassets.net/alneenqid6w5/a7m5uiN0a4g2Sp0o8oU5H/c7f814fde6c2497d9521b99c9e7cf10c/Screenshot_2022-08-31_at_12-47-31_Formul__rio_de_Captura.png)
+![Formulário de Captura 1](https://images.ctfassets.net/alneenqid6w5/a7m5uiN0a4g2Sp0o8oU5H/c7f814fde6c2497d9521b99c9e7cf10c/Screenshot_2022-08-31_at_12-47-31_Formul__rio_de_Captura.png)
 
 Clique no botão _**“Novo”**_.
 

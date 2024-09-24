@@ -32,7 +32,7 @@ Es posible configurar qué pestañas aparecen para el consumidor en las [configu
 
 En esta pestaña, el cliente puede gestionar sus datos personales registrados en la tienda. Es posible [editar la información del perfil](#editar), [definir una nueva contraseña](#contrasena) y [elegir si desea recibir emails con promociones](#boletin-informativo).
 
-![profile ES](//images.ctfassets.net/alneenqid6w5/6LUXeCU09v8EOyMXntPggz/98d696bdb6ca27fdcb6125d6ad83d60c/profile_ES.png)
+![profile ES](https://images.ctfassets.net/alneenqid6w5/6LUXeCU09v8EOyMXntPggz/98d696bdb6ca27fdcb6125d6ad83d60c/profile_ES.png)
 
 ### Editar
 

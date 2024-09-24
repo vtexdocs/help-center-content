@@ -19,7 +19,7 @@ If you want regular promotion to be applied only for a limited number of times,
 
 >⚠️ Orders with status `Canceling` or `Canceled` do not count in the defined limit.
 
-![promotion-with-restriction-en](//images.ctfassets.net/alneenqid6w5/5yz4Gzh3nao86gISu8OsCu/d7a18088185d781c140916bc1bf2299e/Promotion_with_restriction_-_EN.png)
+![promotion-with-restriction-en](https://images.ctfassets.net/alneenqid6w5/5yz4Gzh3nao86gISu8OsCu/d7a18088185d781c140916bc1bf2299e/Promotion_with_restriction_-_EN.png)
 
 You can also set the limit per customer, rather than a general usage limit. To do so, simply perform the configuration above, then click on **Enable usage limit per customer**.
 

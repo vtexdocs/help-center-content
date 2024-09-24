@@ -25,7 +25,7 @@ Para configurar a nova versão, você precisa primeiro solicitar à Rede a ativa
 
 Uma vez notificado, acesse o menu __e.Rede > Configurações > Geração de token__.
 
-![GerarToken](//images.ctfassets.net/alneenqid6w5/2W5UP5c9EIwe4Ayaa8kk0k/835f7771328d57ae7ed764fbcbf340aa/GerarToken.png)
+![GerarToken](https://images.ctfassets.net/alneenqid6w5/2W5UP5c9EIwe4Ayaa8kk0k/835f7771328d57ae7ed764fbcbf340aa/GerarToken.png)
 
 Depois, basta clicar no botão __Gerar Token__.
 

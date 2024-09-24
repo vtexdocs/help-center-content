@@ -21,7 +21,7 @@ Para realizar a integração, utilize uma das duas formas abaixo:
 
 1. No dashboard, clique em **Ver todas integrações** e em **Piperun**.
 
-   ![Piperun - Suiteshare_1](//images.ctfassets.net/alneenqid6w5/6FkPhokvfKkWwpjUMNF2MF/a2a8aa6ef4cfaa3cf39337769f94232c/Piperun_-_Suiteshare_1.png)
+   ![Piperun - Suiteshare_1](https://images.ctfassets.net/alneenqid6w5/6FkPhokvfKkWwpjUMNF2MF/a2a8aa6ef4cfaa3cf39337769f94232c/Piperun_-_Suiteshare_1.png)
 
 2. Acesse **Configurações > Integrações > Piperun > Integrar**.
 

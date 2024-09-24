@@ -24,7 +24,7 @@ Registering a salesperson will let the app associate the person identified with 
 2. Load the prices, payment conditions and product availability regarding the store in which the salesperson operates.
 
 The salesperson identification is obtained as shown in the image below:
-![identificacao-vendedor](//images.contentful.com/alneenqid6w5/2LhlUtsEYouEY4i4iYOIOq/d556be06047c26ee85f392ba7256f9f8/identificacao-vendedor.png)
+![identificacao-vendedor](https://images.contentful.com/alneenqid6w5/2LhlUtsEYouEY4i4iYOIOq/d556be06047c26ee85f392ba7256f9f8/identificacao-vendedor.png)
 
 To register the salesperons identified in the screen above, just access your Masterdata. After accessing the Masterdata, search for the area named `Profile System`. In this area, search for the word `Vendedores` and click on `listar` as shown in the image below.
 ![masterdata-home-vendedores](//images.contentful.com/alneenqid6w5/32iOuRESyIwEwSE4WcEWmu/b64645e6f940399933df3db5b40d6a4f/masterdata-home-vendedores.png)

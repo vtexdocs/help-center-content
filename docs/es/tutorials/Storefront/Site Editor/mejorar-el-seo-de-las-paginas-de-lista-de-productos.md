@@ -21,7 +21,7 @@ Las PLP están correlacionadas porque cada producto tiene un enlace a una págin
 
 Para mejorar el rendimiento SEO de las PLP, debes permitir que los rastreadores web, como Google, noten esta conexión entre las PLP. De esta manera, estos rastreadores podrán navegar por diferentes páginas y acceder a los diferentes productos que muestran.
 
-![Button mostrar más](//images.ctfassets.net/alneenqid6w5/63jE8FYBJW8ssJOXwoADTZ/8723224ebef9b883e645b3d366e54d48/bt-mostrar-m__s.png)
+![Button mostrar más](https://images.ctfassets.net/alneenqid6w5/63jE8FYBJW8ssJOXwoADTZ/8723224ebef9b883e645b3d366e54d48/bt-mostrar-m__s.png)
 
 Ve a continuación cómo mejorar el rendimiento SEO de las PLP [utilizando el Site Editor](#utilizando-site-editor).
 

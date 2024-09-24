@@ -32,7 +32,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 Nesta aba, você encontrará as configurações relacionadas à etapa de separação de itens do pedido. Nela você consegue definir ações que o separador pode realizar durante o processo de separação, incluindo informar que um item do pedido não estava disponível e sugerir uma substituição.
 
-![pick-and-pack-separacao-pt](//images.ctfassets.net/alneenqid6w5/31IMWfSufilPJHlkU7bLyh/a57a373de5dc0b3875f2e4286ab039b4/image.png)
+![pick-and-pack-separacao-pt](https://images.ctfassets.net/alneenqid6w5/31IMWfSufilPJHlkU7bLyh/a57a373de5dc0b3875f2e4286ab039b4/image.png)
 
 ### Estratégia de separação
 

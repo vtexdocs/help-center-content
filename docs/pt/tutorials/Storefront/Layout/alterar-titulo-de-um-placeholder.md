@@ -17,7 +17,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 O título de um placeholder é o que aparece no canto direito do objeto, como indica a imagem abaixo.
 
-![cms-placeholder pt](//images.ctfassets.net/alneenqid6w5/2B81NqQBPqi6MgEAawOU4I/00578c25664eab1bded200712d574959/placeholder_destaque.png)
+![cms-placeholder pt](https://images.ctfassets.net/alneenqid6w5/2B81NqQBPqi6MgEAawOU4I/00578c25664eab1bded200712d574959/placeholder_destaque.png)
 
 O texto que for inserido nesse campo é o que será exibido como título do placeholder no site da loja.
 

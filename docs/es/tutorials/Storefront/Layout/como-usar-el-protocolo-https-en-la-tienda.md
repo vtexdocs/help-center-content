@@ -33,7 +33,7 @@ Es posible cambiar el protocolo en todas las carpetas de una sola vez con el uso
 2. Acceda a **Sites and channels**;
 3. Acceda el website deseado;
 4. Abra la carpeta raíz del website;
-![cms_instrução ES](//images.ctfassets.net/alneenqid6w5/Eh2zwnOd0GqY0oGCw4Y6Y/b89d5aa3092d8d964469668cda783d9a/CMS_instru____o_-_ES.png)
+![cms_instrução ES](https://images.ctfassets.net/alneenqid6w5/Eh2zwnOd0GqY0oGCw4Y6Y/b89d5aa3092d8d964469668cda783d9a/CMS_instru____o_-_ES.png)
 5. La pantalla que se abre muestra todas las carpetas que están en el primer nivel del sitio. Para cada carpeta pertinente, haga clic en **Edit** - para la home, considera el botón superior;
 ![cms_edit ES](//images.ctfassets.net/alneenqid6w5/5w8bfK8O3egookYkO80uum/af60a80fbf62a154124b05496c1773cf/edit_CMS_ES.png)
 6. En el cuadro de selección **Protocol**, seleccione la opción **HTTPS**;

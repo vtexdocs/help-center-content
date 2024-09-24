@@ -83,7 +83,7 @@ Para agregar imágenes al producto, siga las instrucciones a continuación:
 
 Puede hacer clic en una imagen y arrastrarla para posicionarla antes o después de las otras si desea reorganizar las imágenes y cambiar el orden de visualización en la página del producto, como se ilustra a continuación.
 
-![imagens-sku-ES](//images.contentful.com/alneenqid6w5/ePL8umUhPBzy7RCTx6blG/75dba8571076bf8e2d972da51a02c224/imagens-sku-ES.gif)
+![imagens-sku-ES](https://images.contentful.com/alneenqid6w5/ePL8umUhPBzy7RCTx6blG/75dba8571076bf8e2d972da51a02c224/imagens-sku-ES.gif)
 
 Puede modificar la información de cada imagen haciendo clic en el botón <i class="fas fa-ellipsis-v"></i> en la fila de cada una, esto abre un menú con las siguientes opciones.
 

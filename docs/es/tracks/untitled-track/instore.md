@@ -24,7 +24,7 @@ El primer contacto entre el vendedor de la tienda física y el inStore se produc
 
 Aquí, se debe utilizar el correo electrónico y la contraseña creados para el vendedor en el paso de [Configuración Básica](https://help.vtex.com/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO). Recuerde que no está permitido usar correos electrónicos que ya tengan acceso al panel administrativo de las tiendas VTEX.
 
-![31. inStore - Product Overview - 1 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/35HU0Wz5eJp53X7JSebBgx/608f3fa8cef774bee9106a997de71567/31._inStore_-_Product_Overview_-_1_-_EN.png_h_250)
+![31. inStore - Product Overview - 1 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/35HU0Wz5eJp53X7JSebBgx/608f3fa8cef774bee9106a997de71567/31._inStore_-_Product_Overview_-_1_-_EN.png_h_250)
 
 Al iniciar sesión, el vendedor accede al inStore específico de una cuenta VTEX. Aunque no es un escenario común, el mismo vendedor puede estar vinculado a más de una cuenta. Si necesita cambiar de cuenta, simplemente cierre sesión y, en la pantalla de inicio de sesión, haga clic en __Cambiar tienda__.
 

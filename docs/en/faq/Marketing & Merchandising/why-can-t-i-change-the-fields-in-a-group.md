@@ -26,7 +26,7 @@ Once that field has been located, follow the instructions below:
 
 1. Access the __Catalog__ module
 2. Click on __Categories__
-![ENgrupo1](//images.ctfassets.net/alneenqid6w5/1FV4cfZ09pHFMm5PQQjh7I/67df4c591f88db3ae47f057ad81b5d49/ENgrupo1.PNG)
+![ENgrupo1](https://images.ctfassets.net/alneenqid6w5/1FV4cfZ09pHFMm5PQQjh7I/67df4c591f88db3ae47f057ad81b5d49/ENgrupo1.PNG)
 3. Click on __Actions__
 4. Select __Product Fields__
 ![ENSgrupo2](//images.ctfassets.net/alneenqid6w5/3F6DH1j52N2e1oUBMKoSNf/8d5b1a3644ae4700f1eb99fc065d2464/ENSgrupo2.png)

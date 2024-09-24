@@ -34,7 +34,7 @@ A continuación puedes consultar algunos consejos para aprovechar al máximo est
 
 Empieza ajustando la zona horaria deseada y selecciona la tienda que deseas monitorear en Vista general en tiempo real.  
 
-![zona-horaria-es](//images.ctfassets.net/alneenqid6w5/7sfMnNC4GYLOU0tiiunxvR/7d760ad2226fec81b75c0e524b6a8220/zona-horaria-es.png)
+![zona-horaria-es](https://images.ctfassets.net/alneenqid6w5/7sfMnNC4GYLOU0tiiunxvR/7d760ad2226fec81b75c0e524b6a8220/zona-horaria-es.png)
 
 ### Filtro de referencia  
 

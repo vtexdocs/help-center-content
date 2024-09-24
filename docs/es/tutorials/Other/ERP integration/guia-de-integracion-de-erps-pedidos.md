@@ -25,7 +25,7 @@ En este artículo, usted encontrará el método principal para la entrada de los
 
 La integración de un pedido comprende cuatro momentos distintos, cada uno de ellos siendo un pequeño proceso por sí solo.
 
-![ERP Orders 1](//images.contentful.com/alneenqid6w5/7MtCGP7jpKOO2gKa8muGwO/481c6346e0d216f1cbe0588dc79eb617/ERP_Orders_1.png) 
+![ERP Orders 1](https://images.contentful.com/alneenqid6w5/7MtCGP7jpKOO2gKa8muGwO/481c6346e0d216f1cbe0588dc79eb617/ERP_Orders_1.png) 
 
 # Pasos de la integración de pedidos
 

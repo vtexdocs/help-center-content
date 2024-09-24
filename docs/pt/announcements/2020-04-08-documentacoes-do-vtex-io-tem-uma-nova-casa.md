@@ -19,7 +19,7 @@ Desde 13 de março de 2020, as documentações do  VTEX IO e VTEX IO Store Frame
 
 Agora, elas devem ser acessadas através do [**VTEX IO Docs**](https://vtex.io/docs), plataforma de documentação que reúne todos os conteúdos disponíveis sobre ambas soluções. 
 
-![vtex-io-docs](//images.ctfassets.net/alneenqid6w5/3mjm7jrAJybhh11YIBsU7Y/3b50ae0f6b3b3252901ad7597f128c2a/vtex-io-docs.png)
+![vtex-io-docs](https://images.ctfassets.net/alneenqid6w5/3mjm7jrAJybhh11YIBsU7Y/3b50ae0f6b3b3252901ad7597f128c2a/vtex-io-docs.png)
 
 ## Por que estamos realizando esta mudança?
 

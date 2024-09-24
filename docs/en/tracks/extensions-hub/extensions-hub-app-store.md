@@ -18,7 +18,7 @@ The App Store is the Admin page where you can search, view and get apps to expan
 
 ## Home page
 
-![Extensions Hub App Store home page](//images.ctfassets.net/alneenqid6w5/3wzHr69aCqLuPG2cuT2e6y/3ee2d2f5b9ece590e163aad7fb5123ea/Extensions_Hub_App_Store_home_page_EN.png)
+![Extensions Hub App Store home page](https://images.ctfassets.net/alneenqid6w5/3wzHr69aCqLuPG2cuT2e6y/3ee2d2f5b9ece590e163aad7fb5123ea/Extensions_Hub_App_Store_home_page_EN.png)
 
 When you log in to the store, you will see the home page with the following available options:
 

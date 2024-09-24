@@ -48,7 +48,7 @@ Los status son los siguientes:
 
 - **Inactivo:** la organización ha sido desactivada por los administradores de la tienda, por lo que sus usuarios no podrán iniciar sesión.
 
-![Status- ES](//images.ctfassets.net/alneenqid6w5/2UywOtrYrvizJEY5LjQgau/c3472217083893e427bd505924a3317a/Status-_ES.gif)
+![Status- ES](https://images.ctfassets.net/alneenqid6w5/2UywOtrYrvizJEY5LjQgau/c3472217083893e427bd505924a3317a/Status-_ES.gif)
 
 ## Agregar una nueva organización 
 

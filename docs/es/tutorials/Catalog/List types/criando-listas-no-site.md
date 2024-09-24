@@ -27,7 +27,7 @@ Abajo va un ejemplo de cómo aparece el link, cuando su tienda sea creada y aún
 
 El link “Minha Lista” hace disponibles tres opciones: Buscar uma lista, Criar uma nova lista y Gerenciar minhas listas. Entienda las particularidades de cada una de ellas:
 
-![](//images.contentful.com/alneenqid6w5/3lEYA5uyJGSuMkMGqOmi0c/55f5091aa3eeff82db785b283518b3f3/Como_criar_lista_no_site_1.jpg)
+![](https://images.contentful.com/alneenqid6w5/3lEYA5uyJGSuMkMGqOmi0c/55f5091aa3eeff82db785b283518b3f3/Como_criar_lista_no_site_1.jpg)
 
 ## **Buscar una Lista**
 

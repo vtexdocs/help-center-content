@@ -24,7 +24,7 @@ To achieve this, we are redesigning multiple parts of the experience and making 
 ## Improved navigation 
 Everything you need to manage your VTEX store is still available in Admin v4, only now with a more straightforward organization. Our left and top navigation menu were rebuilt from scratch, grouping similar categories in a clearer way to reduce distractions and help your team find what they need faster. It is also possible to use the search bar to find specific sections on the menu.
 
-![New Admin Shell](//images.ctfassets.net/alneenqid6w5/4Q4sQVxNy82zlFT2rmqaCo/f5e423ed52f3d468227155b73d74f163/New_Admin_Shell__1_.png)
+![New Admin Shell](https://images.ctfassets.net/alneenqid6w5/4Q4sQVxNy82zlFT2rmqaCo/f5e423ed52f3d468227155b73d74f163/New_Admin_Shell__1_.png)
 
 ### Information Center
 This is where we group all useful links from our VTEX ecosystem, to help you get the best out of our VTEX platform. By clicking on the `?` button on the top bar, you can access our Help Center, blog, Developer Portal, Platform Status and support pages.    

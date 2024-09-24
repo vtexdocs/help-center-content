@@ -54,7 +54,7 @@ Para criar uma nova regra, siga os passos a seguir:
     - **Sempre ativar:** a tabela de preço está constantemente ativada, independente de condições.
     - **Ativar em condições específicas:** a tabela de preço será ativada segundo as condições configuradas na regra. Veja as possibilidades de configuração com as imagens a seguir:
     
-    ![PT-regra-tabela-de-preco3](//images.ctfassets.net/alneenqid6w5/45Vklz3dKi6SH0o1Rcz33I/93beeac027a6f9ab037f348a63d2ba03/PT-regra-tabela-de-preco3.png)
+    ![PT-regra-tabela-de-preco3](https://images.ctfassets.net/alneenqid6w5/45Vklz3dKi6SH0o1Rcz33I/93beeac027a6f9ab037f348a63d2ba03/PT-regra-tabela-de-preco3.png)
     
     ![PT-regra-tabela-de-preco](//images.ctfassets.net/alneenqid6w5/3ClC00TNkMXFIgflRdepP/d46d2298cf13f37cbbbd71acca0d39ae/PT-regra-tabela-de-preco.png)
   

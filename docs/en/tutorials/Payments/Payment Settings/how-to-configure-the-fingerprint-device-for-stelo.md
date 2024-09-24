@@ -28,7 +28,7 @@ This article will explain how to associate the Device Fingerprint feature with t
 To enter the scripts that Stelo requires for the fingerprint device, you must use Google Tag Manager. To do this, log into your account at [http://www.google.com/tagmanager](http://www.google.com/tagmanager "http://www.google.com/tagmanager"). Then proceed as follows:
 
 1. In the opening menu in Google Tag Manager, click on **Nova tag**.
-2. Select **Configuração da tag** and then type **HTML personalizado**.![Tela1](//images.contentful.com/alneenqid6w5/2VjcP3lQ9aqceC82kgaAU8/68bffad6d79e91e7286c780ac16fffc7/Tela1.jpg)
+2. Select **Configuração da tag** and then type **HTML personalizado**.![Tela1](https://images.contentful.com/alneenqid6w5/2VjcP3lQ9aqceC82kgaAU8/68bffad6d79e91e7286c780ac16fffc7/Tela1.jpg)
 3. Enter the following script:
 
 ```

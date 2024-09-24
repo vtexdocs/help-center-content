@@ -19,7 +19,7 @@ subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 
 The **Products and SKUs** page allows you to view and manage the list of all products in your store, including information about SKUs, last updated, and status. To access it, go to **Catalog > Products and SKUs**.
 
-![products-skus-en](//images.ctfassets.net/alneenqid6w5/3Euar7pKsXKgqIfz1MwOOa/f02b69940302cf42cf3eefd80ec56445/products-skus-en.png)
+![products-skus-en](https://images.ctfassets.net/alneenqid6w5/3Euar7pKsXKgqIfz1MwOOa/f02b69940302cf42cf3eefd80ec56445/products-skus-en.png)
 
 >ℹ️ This page is only available to stores operating with the [New VTEX Admin](https://help.vtex.com/en/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). To access this page and be part of the new experience, join the New VTEX Admin [Beta program](https://content.vtex.com/participe-do-programa-beta-en/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta).
 

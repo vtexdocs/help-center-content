@@ -27,7 +27,7 @@ En este escenario, si un cliente de Mercado Libre realiza una compra con dos o m
 
 VTEX no recomienda este tipo de configuración porque los pedidos no se integrarán.
 
-![cenario problemaES](//images.contentful.com/alneenqid6w5/7Dq2eWaMl08r5O0ntzRRGM/5c9f9c1c94a09c75ad3b22da4988942e/cenario_problemaES.JPG)
+![cenario problemaES](https://images.contentful.com/alneenqid6w5/7Dq2eWaMl08r5O0ntzRRGM/5c9f9c1c94a09c75ad3b22da4988942e/cenario_problemaES.JPG)
 
 Sin embargo, en la integración de las tiendas VTEX con Mercado Libre, hay dos escenarios para evitar este error. Por eso es necesario que su tienda tenga la siguiente configuración:
 

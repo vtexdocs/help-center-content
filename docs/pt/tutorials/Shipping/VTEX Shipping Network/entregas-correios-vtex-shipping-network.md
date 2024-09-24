@@ -46,7 +46,7 @@ Além disso, ao final do artigo você vai encontrar informações sobre:
 
 No Admin VTEX, em **Envio > Entregas Correios**, a página **Informações dos Pedidos** apresenta uma listagem de todos os pacotes postados. Na lista, é possível acompanhar as seguintes informações:
 
-![order_information_shipping_network_PT](//images.ctfassets.net/alneenqid6w5/2B9Ofd5hFwPkSxl31szyzU/d348694f06824d1e46b995bc712406af/order_information_shipping_network_PT.png)
+![order_information_shipping_network_PT](https://images.ctfassets.net/alneenqid6w5/2B9Ofd5hFwPkSxl31szyzU/d348694f06824d1e46b995bc712406af/order_information_shipping_network_PT.png)
 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">

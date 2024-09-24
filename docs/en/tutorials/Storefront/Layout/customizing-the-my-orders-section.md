@@ -34,7 +34,7 @@ See below a list of the classes available to aid in the customization.
 
 ### Order list
 
-![Order list with customization classes highlighted on top of the elements](//images.contentful.com/alneenqid6w5/1P5JMzt3jGIAKIOmC4ka4e/d7511d7273f4a957acc6f7e1322a81e6/my-orders-doc-1.png) 
+![Order list with customization classes highlighted on top of the elements](https://images.contentful.com/alneenqid6w5/1P5JMzt3jGIAKIOmC4ka4e/d7511d7273f4a957acc6f7e1322a81e6/my-orders-doc-1.png) 
 
 CSS:
 ```

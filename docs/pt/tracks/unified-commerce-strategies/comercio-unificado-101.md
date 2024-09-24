@@ -16,7 +16,7 @@ trackSlugPT: estrategias-de-comercio-unificado
 
 A evolução do varejo online trouxe uma série de melhorias à experiência do cliente, e uma das mais relevantes talvez seja a que transformou a relação multicanal entre cliente e loja em uma relação de omnicanalidade.
 
-![32. Unified Commerce 101 - 2](//images.ctfassets.net/alneenqid6w5/hZLcXdCI6EXa4lR4cNShc/1bb91baac796afbdedb890b1c6362e90/32._Unified_Commerce_101_-_2.png)
+![32. Unified Commerce 101 - 2](https://images.ctfassets.net/alneenqid6w5/hZLcXdCI6EXa4lR4cNShc/1bb91baac796afbdedb890b1c6362e90/32._Unified_Commerce_101_-_2.png)
 
 Em uma arquitetura __multicanal__, cada canal se comunica de forma independente com a loja, seja o ecomerce, as lojas físicas, o SAC, as mídias sociais etc. Quando um cliente interage com um desses canais, a loja não tem conhecimento algum sobre quem é esse cliente.
 

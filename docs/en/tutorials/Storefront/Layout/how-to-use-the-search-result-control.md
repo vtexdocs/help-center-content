@@ -44,7 +44,7 @@ See below the list of all attributes of the Search Result control:
 
 The code rendered by the Search Result control has the following structure by default:
 
-![searchResult1](//images.ctfassets.net/alneenqid6w5/3BbGHkrGZi8KK4U82IAq6w/123f66c2caa97aca4fc60018cf295aca/searchResult1.jpg) 
+![searchResult1](https://images.ctfassets.net/alneenqid6w5/3BbGHkrGZi8KK4U82IAq6w/123f66c2caa97aca4fc60018cf295aca/searchResult1.jpg) 
 
 And the corresponding elements that are rendered by the control in its non-customized version follow the pattern below:
 

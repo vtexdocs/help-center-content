@@ -19,7 +19,7 @@ Para instalar o script do VTEX Assisted Sales (SuiteShare) no seu site do Wix, �
 
 Para isso, você deve acessar seu painel do Wix e clicar em **_Configurações > Acompanhamento e Análises_**.
 
-![Wix_1](//images.ctfassets.net/alneenqid6w5/7H7h9u61B7hV52gAJlzOtv/bf8fb87c8ee103a11575009809a83510/Wix_1.png)
+![Wix_1](https://images.ctfassets.net/alneenqid6w5/7H7h9u61B7hV52gAJlzOtv/bf8fb87c8ee103a11575009809a83510/Wix_1.png)
 
 Na janela que será aberta, o próximo passo é clicar em **_Nova Ferramenta > Personalizado_**.
 

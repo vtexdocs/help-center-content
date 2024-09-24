@@ -34,7 +34,7 @@ Alternativamente, você pode navegar até o arquivo de configuração a partir d
 
 No menu principal, clique em __Checkout__ e, em seguida, clique no símbolo de engrenagem da loja, como indica a imagem abaixo.
 
-![20. inStore Customizations (intro) - 1](//images.ctfassets.net/alneenqid6w5/4LKGRGjbprogSqW8fZfFDS/2a0919796851d030aa6dd86d93942620/20._inStore_Customizations__intro__-_1.png)
+![20. inStore Customizations (intro) - 1](https://images.ctfassets.net/alneenqid6w5/4LKGRGjbprogSqW8fZfFDS/2a0919796851d030aa6dd86d93942620/20._inStore_Customizations__intro__-_1.png)
 
 Clique, então, na aba __Código__ e depois no arquivo checkout-instore-custom.js, que se encontra na lista de arquivos à direita.
 

@@ -34,7 +34,7 @@ With that you can:
 
 To find the `LID`, simply access the layout in the CMS module Admin. It's in the __Properties__ section, as the image below indicates:
 
-![lid](//images.contentful.com/alneenqid6w5/4FISyY6wwg2asGE4Mog2sK/991b8c634b474c336de1754acdb414de/lid.png)
+![lid](https://images.contentful.com/alneenqid6w5/4FISyY6wwg2asGE4Mog2sK/991b8c634b474c336de1754acdb414de/lid.png)
 
 To access the store page with the new layout, you must enter a question mark at the end of the URL and then the `LID` parameter.
 

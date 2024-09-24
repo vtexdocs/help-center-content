@@ -16,7 +16,7 @@ subcategoryId: unknown-subcategory
 ---
 
 Para registrar un attachment primero ingrese al módulo “E-commerce”, después al menu Registro de productos y entonces a Anexos de servicio y SKU conforme el print abajo.
-![PRINT1](//images.contentful.com/alneenqid6w5/2COCe9qS3iaaQWQIUQm4um/823e4c93ba405b26c8aa9ec2c92ab1c8/PRINT1.png)
+![PRINT1](https://images.contentful.com/alneenqid6w5/2COCe9qS3iaaQWQIUQm4um/823e4c93ba405b26c8aa9ec2c92ab1c8/PRINT1.png)
 
 Para crear un nuevo, haga click en **Novo Anexo**
 ![PRINT2](//images.contentful.com/alneenqid6w5/1JB8o3N6MMwqQeoSCgYMOW/67dceded6d349782c8427ecc3c50c797/PRINT2.png)

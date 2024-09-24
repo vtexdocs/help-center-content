@@ -32,7 +32,7 @@ A continuación se muestran diferentes comprobaciones de resolución de problema
 
 Este es uno de los errores que puedes experimentar cuando, en el Admin VTEX, accedes a **Storefront** y haces clic en **Site Editor**. En lugar de cargarse, la página de Site Editor muestra una pantalla en blanco o el mensaje `Se produjo un error`.
 
-![Site Editor - Something went wrong ES](//images.ctfassets.net/alneenqid6w5/6HAg54FmMXcxq7rfh1738y/99a8f8f022dbcb8f926b9dc19db5f517/img1-ES.png)
+![Site Editor - Something went wrong ES](https://images.ctfassets.net/alneenqid6w5/6HAg54FmMXcxq7rfh1738y/99a8f8f022dbcb8f926b9dc19db5f517/img1-ES.png)
 
 Para solucionar este error, consulta las instrucciones a continuación:
 

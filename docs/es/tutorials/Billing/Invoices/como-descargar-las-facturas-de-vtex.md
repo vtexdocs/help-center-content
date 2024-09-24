@@ -46,7 +46,7 @@ Para descargar su factura, realice los siguientes pasos:
 
 Una vez hecho esto, su factura estará disponible en otra pestaña.
 
-![baixar faturas es](//images.ctfassets.net/alneenqid6w5/5sIBQUq8c2OKi0PHOb7qhs/8554b546c31d52e5f1a897a99c9341eb/baixar_faturas_es.gif)
+![baixar faturas es](https://images.ctfassets.net/alneenqid6w5/5sIBQUq8c2OKi0PHOb7qhs/8554b546c31d52e5f1a897a99c9341eb/baixar_faturas_es.gif)
 
 ## Brasil 
 

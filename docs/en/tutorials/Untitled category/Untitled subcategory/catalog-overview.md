@@ -15,7 +15,7 @@ legacySlug: catalog-overview
 subcategoryId: unknown-subcategory
 ---
 
-![Catalog overview (header)](//images.ctfassets.net/alneenqid6w5/1OkPBtIH7KNPWFpCYVv89Y/ecec695214ce50acf65453efb6668247/image1.jpg)
+![Catalog overview (header)](https://images.ctfassets.net/alneenqid6w5/1OkPBtIH7KNPWFpCYVv89Y/ecec695214ce50acf65453efb6668247/image1.jpg)
 Catalog is your store's administration module for configuring the features related to your ecommerce products. To make products available for customers on your website, you need to add them to this module. 
 
 In this article, you will find an overview of the catalog items and its features.

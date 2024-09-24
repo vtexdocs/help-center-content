@@ -29,7 +29,7 @@ El consumidor programa una atención por medio de un formulario preparado por In
 
 El flujo de la programación que recorre el cliente comienza en la elección de la tienda física donde prefiere ser atendido. En la siguiente imagen, solo observamos una tienda registrada; sin embargo, su marca puede registrar las tiendas físicas que desee.
 
-![indeva1](//images.ctfassets.net/alneenqid6w5/3QXzMhoJN1qYZZ6c8mlfcB/4cf28e34420ac49bfcaa6f78a9b2951a/indeva1.png)
+![indeva1](https://images.ctfassets.net/alneenqid6w5/3QXzMhoJN1qYZZ6c8mlfcB/4cf28e34420ac49bfcaa6f78a9b2951a/indeva1.png)
 
 >ℹ️ También es posible proporcionar al cliente un enlace que conduce directamente al formulario de una tienda física específica. Simplemente agregue el ID de la tienda al final de la URL. Con eso, el vendedor puede compartir el enlace de su tienda, por ejemplo, a través de un código QR o en los medios sociales.
 

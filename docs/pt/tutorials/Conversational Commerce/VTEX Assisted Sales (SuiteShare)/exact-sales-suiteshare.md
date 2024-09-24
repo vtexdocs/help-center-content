@@ -21,7 +21,7 @@ Para realizar a integração acesse as informações de integrações no seu pai
 
 No dashboard, em **Integrações**, clique em **Ver todas as integrações**. Ou clique em **Configurações > Integrações**.
 
-![Exact Sales_1](//images.ctfassets.net/alneenqid6w5/4BIijO0GTioTrQTMcJ9RHK/43c3fa8faf82688d8b81349ffddb126e/Exact_Sales_1.png)
+![Exact Sales_1](https://images.ctfassets.net/alneenqid6w5/4BIijO0GTioTrQTMcJ9RHK/43c3fa8faf82688d8b81349ffddb126e/Exact_Sales_1.png)
 
 Selecione o **Exact sales** e clique em **Integrar**.
 

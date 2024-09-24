@@ -22,7 +22,7 @@ We will use a banner on the Home Page as an example, but these step-by-step inst
 3. Click the **Sites and Channels** folder.
 4. Click the **name of your store**.
 5. Click the **"/" folder**.
-![CMS instrução - EN](//images.ctfassets.net/alneenqid6w5/4hp4fJ22GIWmEQ2ggQGCaE/910148475de19dfac0b0bd451cee1f7a/CMS_instru____o_-_EN.png)
+![CMS instrução - EN](https://images.ctfassets.net/alneenqid6w5/4hp4fJ22GIWmEQ2ggQGCaE/910148475de19dfac0b0bd451cee1f7a/CMS_instru____o_-_EN.png)
 6. Click on the **Home** file.
 7. Click on the **Settings** tab.
 8. Click on the “pencil” for editing.

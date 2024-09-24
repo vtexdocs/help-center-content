@@ -47,7 +47,7 @@ Each organization can have one of the following status:
 
 - **Inactive:** Store admins have deactivated the organization, so your users won't be able to log in.
 
-![Status- EN](//images.ctfassets.net/alneenqid6w5/2UywOtrYrvizJEY5LjQgau/075f575659ca723e1fd8ac6f1400eb5c/Status-_EN.gif)
+![Status- EN](https://images.ctfassets.net/alneenqid6w5/2UywOtrYrvizJEY5LjQgau/075f575659ca723e1fd8ac6f1400eb5c/Status-_EN.gif)
 
 ## Adding a new organization
 

@@ -26,7 +26,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 VTEX busca usar estrategias modernas para crear productos que atiendan cada vez mejor al mercado de e-commerce. Por esa razón, comenzamos a usar las librerías de desarrollo React JS en nuestras features más recientes: la nueva página de **Mis Pedidos** es un ejemplo. Ella viene con nuevas features y nuevo diseño, y fue creada de cero usando React.
 
-![Pantalla de lista del nuevo mis pedidos](//images.contentful.com/alneenqid6w5/6qzQL3eb7iAiMSqoMYkAKy/0d23fe714fd46a18e1372d4c2aa54356/MO1.png)
+![Pantalla de lista del nuevo mis pedidos](https://images.contentful.com/alneenqid6w5/6qzQL3eb7iAiMSqoMYkAKy/0d23fe714fd46a18e1372d4c2aa54356/MO1.png)
 
 ### Nueva experiencia de navegación
 

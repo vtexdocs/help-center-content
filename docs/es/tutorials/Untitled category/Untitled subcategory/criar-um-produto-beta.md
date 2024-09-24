@@ -39,7 +39,7 @@ Una vez hecho esto, el producto se activará y estará disponible en tu tienda.
 En esta pestaña se realiza el registro del producto, para lo que es necesario rellenar los campos que se describen a continuación con las características del ítem.
 
 ### Información general
-![image9](//images.ctfassets.net/alneenqid6w5/zuDEylLB51jEYDgupvInT/3cbd44a15e049422865dadb7169d0c38/image9.png)
+![image9](https://images.ctfassets.net/alneenqid6w5/zuDEylLB51jEYDgupvInT/3cbd44a15e049422865dadb7169d0c38/image9.png)
 **- Nombre**: ingresa el título del producto en la tienda. Utiliza vocabulario sencillo y evita términos en otro idioma o redacción compleja. Este campo es importante para SEO y se debe respetar el límite de 150 caracteres. Campo obligatorio. Ejemplo: Calzado deportivo Ultralight.
 
 **- Palabras sustitutas**: ingresa sinónimos de términos relacionados con el nombre asignado al producto, separados por comas (`,`). Este campo es importante para ampliar el alcance de las búsquedas y debe respetarse el límite de 8000 caracteres.

@@ -53,7 +53,7 @@ You can use reCAPTCHA checkbox (v2). So, when applicable, the user should click 
 ### Shopping experience with VTEX Criteria and reCAPTCHA v2
 
 The shopping experience with debit or credit cards tends to follow the flow below. It minimizes the occurrence of some types of fraud and attacks with minimal friction for the user.
-![reCAPTCHA scenariosEN](//images.ctfassets.net/alneenqid6w5/3gA55NZPuxpKOxCZxvbhgj/21964354890c244b42bc479983335b9d/reCAPTCHA_scenarios__1_.jpg)
+![reCAPTCHA scenariosEN](https://images.ctfassets.net/alneenqid6w5/3gA55NZPuxpKOxCZxvbhgj/21964354890c244b42bc479983335b9d/reCAPTCHA_scenarios__1_.jpg)
 As shown in the image above, there are different possible results in this flow:
 
 1. If the VTEX Criteria algorithm does not consider the session suspicious, the platform proceeds normally with the purchase.

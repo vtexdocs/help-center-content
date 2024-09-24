@@ -19,7 +19,7 @@ announcementSynopsisES: 'Posibilidad de limitar perfiles de acceso a la pantalla
 
 Con el fin de garantizar una mayor seguridad, creamos la posibilidad de limitar perfiles de acceso en la pantalla **Configuración**, permitiendo que solo algunos usuarios editen las informaciones.
 
-![2019-06-07 17 24 38-Configuración.es](//images.ctfassets.net/alneenqid6w5/1SrUApvjjUxaUZRJfJnqwB/b597be4eb4343dbf03e74feee5cb5cdc/2019-06-07_17_24_38-Configuraci__n.es.png)
+![2019-06-07 17 24 38-Configuración.es](https://images.ctfassets.net/alneenqid6w5/1SrUApvjjUxaUZRJfJnqwB/b597be4eb4343dbf03e74feee5cb5cdc/2019-06-07_17_24_38-Configuraci__n.es.png)
 
 ## Principales ventajas
 

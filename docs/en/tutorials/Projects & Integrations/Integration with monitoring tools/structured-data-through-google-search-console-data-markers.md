@@ -66,7 +66,7 @@ With this type of information, users are able to send to Google information abou
 
 **
 ****Step 1**
-****![](//images.contentful.com/alneenqid6w5/2auEIkvBGMO8gqWqgA4u8q/0c53485d350f622ae184852c88688f0c/marcadordedados_step1.gif)****
+****![](https://images.contentful.com/alneenqid6w5/2auEIkvBGMO8gqWqgA4u8q/0c53485d350f622ae184852c88688f0c/marcadordedados_step1.gif)****
 
 ****Step 2****
 

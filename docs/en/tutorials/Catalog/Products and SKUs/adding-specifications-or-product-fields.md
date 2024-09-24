@@ -41,7 +41,7 @@ Before creating any specifications, it's important to understand that they follo
 
 Consider the **TV** product for example. In __Catalog > All products > Edit > Specifications__, as illustrated in the page below, we can see that the specification group called **Characteristics** is associated with the TV's category. This group includes a field named **Inches** and a field named **Age group**, which are mandatory.
 
-![specifications-en](//images.ctfassets.net/alneenqid6w5/3ZMzwADYCl7QnNomdpGnoH/abd1962c5063aa7f66d4ca8c743216c9/specifications-en.PNG)
+![specifications-en](https://images.ctfassets.net/alneenqid6w5/3ZMzwADYCl7QnNomdpGnoH/abd1962c5063aa7f66d4ca8c743216c9/specifications-en.PNG)
 
 Since this is a product specification, the information selected on that page will apply to all **TV** product variations. All products added to the TV's category must have these specifications filled out, since they are required fields.
 

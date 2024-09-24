@@ -23,7 +23,7 @@ The templates used by store layouts, by default, don't carry any class in their 
 
 See, for example, the Department template code.
 
-![changeBodyClass1](//images.contentful.com/alneenqid6w5/pbQCDMUz3qO0q4SuwYaq4/7ebd6ca8a0af6cbce899535b83cd719a/changeBodyClass1.jpg)
+![changeBodyClass1](https://images.contentful.com/alneenqid6w5/pbQCDMUz3qO0q4SuwYaq4/7ebd6ca8a0af6cbce899535b83cd719a/changeBodyClass1.jpg)
 
 It has an `id`, but not a `class`.
 

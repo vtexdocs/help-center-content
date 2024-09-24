@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Headless CMS - Gerencie seus projetos de forma centrali
 
 **Projetos** é a nova funcionalidade do Headless CMS que simplifica o gerenciamento de diversas experiências digitais, como aplicativos móveis, sites e email marketing em uma única tela.
 
-![Projects overview](//images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/c5a1f1ba3077c11504d9f78c1712c59e/projects-two-pt.png)
+![Projects overview](https://images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/c5a1f1ba3077c11504d9f78c1712c59e/projects-two-pt.png)
 
 Com ele, você pode personalizar as configurações, o conteúdo e a marca de cada projeto para públicos ou objetivos específicos.
 

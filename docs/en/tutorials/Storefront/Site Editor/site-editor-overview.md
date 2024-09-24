@@ -23,7 +23,7 @@ Site Editor is a graphical interface for managing your storefront content. It al
 
 In your VTEX Admin, access **Storefront > Site Editor** and you’ll see the main tools available in the graphical interface.
 
-![Site Editor - EN](//images.ctfassets.net/alneenqid6w5/5K3z9KH8VLYFh0iYA4UFDX/216b3664d5d3f8b6d901a0b8cf427906/site-editor-ui-en.png)
+![Site Editor - EN](https://images.ctfassets.net/alneenqid6w5/5K3z9KH8VLYFh0iYA4UFDX/216b3664d5d3f8b6d901a0b8cf427906/site-editor-ui-en.png)
 
 | **Tool**    | **Description** |
 | ----------  | ----------    |

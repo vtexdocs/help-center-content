@@ -19,7 +19,7 @@ You can configure one of your store’s banners to redirect users to a page of y
 
 ## Internal URLs
 
-![internal-url](//images.ctfassets.net/alneenqid6w5/76tw5q9jP5kqkEhkFMIAOE/3a727394e2f315558ccb783aa9cccb20/image2.png)
+![internal-url](https://images.ctfassets.net/alneenqid6w5/76tw5q9jP5kqkEhkFMIAOE/3a727394e2f315558ccb783aa9cccb20/image2.png)
 
 1. In the VTEX Admin, access **Storefront > Site Editor**.
 2. Select a __Carousel__ block and choose the banner whose content you want to edit.

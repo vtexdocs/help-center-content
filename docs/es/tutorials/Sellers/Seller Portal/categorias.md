@@ -17,7 +17,7 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 
 La página **Categorías** te permite ver y gestionar el árbol de categorías registradas en Seller Portal. Puedes acceder a la página en VTEX Admin en **Productos** > **Categorías**.
 
-![categorias-es](//images.ctfassets.net/alneenqid6w5/1ViCOvDbtriF91lt0Z6ztZ/efff0f39ab9b9e36ed69ec8f9cf928ec/categorias-es.PNG)
+![categorias-es](https://images.ctfassets.net/alneenqid6w5/1ViCOvDbtriF91lt0Z6ztZ/efff0f39ab9b9e36ed69ec8f9cf928ec/categorias-es.PNG)
 
 En el árbol de categorías, puedes realizar diversas acciones:
 

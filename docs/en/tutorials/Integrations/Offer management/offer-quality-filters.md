@@ -21,7 +21,7 @@ Quality criteria are important for the marketplace's operation so that the offer
 
 **Offer quality filters** is the page where marketplaces add and manage the requirement groups applied to the received SKU cataloging process. To access it, in your VTEX Admin, go to **Marketplace > Offer Quality** or type __"Offer Quality"__ in the search bar.
 
-![EN offer quality](//images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/73ac6313be9a602772446d24f0dbd8ba/EN_offer_quality.png)
+![EN offer quality](https://images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/73ac6313be9a602772446d24f0dbd8ba/EN_offer_quality.png)
 
 In this article, learn how to:
 

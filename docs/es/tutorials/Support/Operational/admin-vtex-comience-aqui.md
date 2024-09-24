@@ -18,7 +18,7 @@ subcategoryId: 1VvCpaa8NCA6a0MK6W6oWg
 El Admin VTEX permite a los administradores de la tienda gestionar todas sus experiencias de comercio digital en un solo lugar, de forma sencilla e inteligente. Aquí dan seguimiento a los pedidos, registran productos, configuran fulfillment y llevan a cabo los demás aspectos de una operación de comercio unificado.
 
 ## Página de inicio
-![Store Overview gif ES](//images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b91a459e41bac28866c1165ca8fcc208/Store_Overview_gif_ES.gif)
+![Store Overview gif ES](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b91a459e41bac28866c1165ca8fcc208/Store_Overview_gif_ES.gif)
 
 La página de inicio proporciona una vista de alto nivel de tu tienda, como una cabina de mando para tus operaciones de comercio digital, y por eso se llama [Vista general](https://help.vtex.com/es/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
 

@@ -19,7 +19,7 @@ You may require that for certain pages of the store users need to authenticate t
 
 Some pages come with this setting by default. For example, the `/Account` and `/Account/Orders` pages.
 
-![authenticationRequired](//images.contentful.com/alneenqid6w5/60cIIkiKDSEs2ocmqescgM/3f5a0c46d61c1002c22bc7b5469db7eb/authenticationRequired.png)
+![authenticationRequired](https://images.contentful.com/alneenqid6w5/60cIIkiKDSEs2ocmqescgM/3f5a0c46d61c1002c22bc7b5469db7eb/authenticationRequired.png)
 
 But you can either remove the authentication requirement for these pages or insert it into other pages.
 

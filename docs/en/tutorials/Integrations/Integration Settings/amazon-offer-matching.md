@@ -19,7 +19,7 @@ Every time a [SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIF
 
 On VTEX, the EAN is used to map the products with the corresponding [ASINs](https://associados.amazon.com.br/resource-center/asin-amazon?ac-ms-src=rc-home-card) (*Amazon Standard Identification Number*) on Amazon. To map the equivalence between the EAN and the ASIN, manual matching is required. EAN and ASIN matches need to be exact for the offers to be linked correctly.  
 
-![Offer match overview](//images.ctfassets.net/alneenqid6w5/3SrhTyS3Cpy2xxWvEA3M88/263c3f6248e2b8d2cc07807c4800fd97/Match-an__ncios-Amazon.gif)
+![Offer match overview](https://images.ctfassets.net/alneenqid6w5/3SrhTyS3Cpy2xxWvEA3M88/263c3f6248e2b8d2cc07807c4800fd97/Match-an__ncios-Amazon.gif)
 
 ## Opportunity tab  
 

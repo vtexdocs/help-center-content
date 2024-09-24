@@ -16,7 +16,7 @@ legacySlug:
 
 Existe um caso em que, mesmo com o Avise-me [corretamente configurado](/pt/tutorial/configurar-o-avise-me), ele não aparece. É **quando o tipo de exibição da categoria está selecionado como Lista de SKUs**.
 
-![categoria-lista-de-skus PT](//images.ctfassets.net/alneenqid6w5/bZSp5aNwWsAiSIYU8Oso0/a647479f70fa0e760ff4f3064bbbd421/lista_de_skus.png)
+![categoria-lista-de-skus PT](https://images.ctfassets.net/alneenqid6w5/bZSp5aNwWsAiSIYU8Oso0/a647479f70fa0e760ff4f3064bbbd421/lista_de_skus.png)
 
 Neste caso, além das configurações padrão, é necessário o uso do controle `vtex.cmc:SkuSelection`, mesmo que não exista mais de um SKU por página.
 

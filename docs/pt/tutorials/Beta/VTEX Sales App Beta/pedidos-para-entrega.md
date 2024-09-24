@@ -25,7 +25,7 @@ subcategoryId: 5SE2asHiQtHKfbnFru8RWH
 
 Você pode buscar por um pedido clicando no ícone da lupa 🔍. Você pode clicar em <i class="fas fa-ellipsis-v" alt="elipses"></i> para receber pedidos de outra origem ou gerar um relatório de pedidos.
 
-![Pedidos para entrega - PT](//images.ctfassets.net/alneenqid6w5/6yMDBApwvfHclrY5DS3fVk/d1bad3ebb121029d42034109b5d9154e/Screenshot_2022-06-01_at_17-09-12_Figma.png)
+![Pedidos para entrega - PT](https://images.ctfassets.net/alneenqid6w5/6yMDBApwvfHclrY5DS3fVk/d1bad3ebb121029d42034109b5d9154e/Screenshot_2022-06-01_at_17-09-12_Figma.png)
 
 As categorias de etapas do pedido são as seguintes: 
 

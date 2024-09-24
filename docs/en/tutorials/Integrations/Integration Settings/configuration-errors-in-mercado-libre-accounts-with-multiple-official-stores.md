@@ -27,7 +27,7 @@ In this scenario, if a Mercado Libre customer makes a purchase with products fro
 
 VTEX does not recommend this type of configuration because orders will not be integrated.
 
-![cenario problemaENN](//images.contentful.com/alneenqid6w5/1kGjXEcmRvASXHl0WBrgXh/26449573e080d2c6e11953cdc9eeefae/cenario_problemaENN.JPG)
+![cenario problemaENN](https://images.contentful.com/alneenqid6w5/1kGjXEcmRvASXHl0WBrgXh/26449573e080d2c6e11953cdc9eeefae/cenario_problemaENN.JPG)
 
 However, in the integration of VTEX stores with Mercado Libre, two scenarios can prevent this error. To fit within those scenarios, your store must have the following configurations:
 

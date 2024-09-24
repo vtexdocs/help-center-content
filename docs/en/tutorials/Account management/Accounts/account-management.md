@@ -79,7 +79,7 @@ After a user has filled in and saved the **Name** and **E-mail** in the contacts
 
 >ℹ️ The template for this automatic email can be changed in the [Message Center](https://help.vtex.com/en/tutorial/understanding-the-message-center--tutorials_84) by modifying the <i>account registration</i> template.
 
-![account registration](//images.ctfassets.net/alneenqid6w5/I0CttFz6ayQW2Q8uOkKmc/19184a55a9a8de5cb3e04088251a9c93/account_registration.jpg)
+![account registration](https://images.ctfassets.net/alneenqid6w5/I0CttFz6ayQW2Q8uOkKmc/19184a55a9a8de5cb3e04088251a9c93/account_registration.jpg)
 
 ## Security
 

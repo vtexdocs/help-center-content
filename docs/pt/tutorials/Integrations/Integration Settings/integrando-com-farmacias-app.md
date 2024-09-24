@@ -49,7 +49,7 @@ Depois, será necessário:
 Por fim, deve ser realizado o cadastro do afiliado, que serve como identificação única do marketplace em sua loja. Para fazer isso, siga os passos abaixo:
 
 1. Acesse o menu **Configurações da loja > Pedidos**;
-2. Clique no botão **Conigurações**;![Farmacias2](//images.contentful.com/alneenqid6w5/7Mekt0KzpmaS4M4uoEu2kC/d0b13138a044072b6ba2c7c89808eacc/Farmacias2.png)
+2. Clique no botão **Conigurações**;![Farmacias2](https://images.contentful.com/alneenqid6w5/7Mekt0KzpmaS4M4uoEu2kC/d0b13138a044072b6ba2c7c89808eacc/Farmacias2.png)
 3. Clique na aba **Afiliados**;
 4. Clique no botão **Novo afiliado**;
 5. Preencha os campos da seguinte forma:

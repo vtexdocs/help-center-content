@@ -56,7 +56,7 @@ You can also schedule prices by importing a fixed price template. To do this, pl
 
 1. In the VTEX Admin, go to **Prices > Price list**, or type **Price list** in the search bar at the top of the page.
 2. Click on the 📥 icon to export the template to be filled in.
-![Agendar preços - EN](//images.contentful.com/alneenqid6w5/5pBmnKfaoig59962PcNFQq/1fea4935c2c88aebabfa0a505fe4245d/image.png)
+![Agendar preços - EN](https://images.contentful.com/alneenqid6w5/5pBmnKfaoig59962PcNFQq/1fea4935c2c88aebabfa0a505fe4245d/image.png)
 3. Select only the **Fixed prices table** option.
 4. Click on `Export 1 table`.
 

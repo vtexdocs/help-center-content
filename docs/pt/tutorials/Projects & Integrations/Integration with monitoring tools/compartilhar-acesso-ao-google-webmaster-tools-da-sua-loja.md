@@ -19,7 +19,7 @@ Para possibilitar um trabalho mais eficiente de nosso time de consultoria e oper
 
 Após acessar sua conta, você será direcionado à lista de seus sites, assim basta selecionar o site cujo acesso deseja compartilhar, clicando sobre o link do site.
 
-![web1](//images.contentful.com/alneenqid6w5/3sjO5gPjcA2uCms8KskmU4/484df9e2d251c709169c88a626e2b575/web1.png)
+![web1](https://images.contentful.com/alneenqid6w5/3sjO5gPjcA2uCms8KskmU4/484df9e2d251c709169c88a626e2b575/web1.png)
 
 Assim, agora acessamos o painel administrativo da nossa página. Diversas opções são possíveis no menu lateral esquerdo, porém para compartilhar o acesso, devemos selecionar a engrenagem no menu superior e clicar em **Usuários e proprietários de site**.
 

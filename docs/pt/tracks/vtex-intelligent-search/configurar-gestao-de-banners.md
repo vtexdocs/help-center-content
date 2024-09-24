@@ -26,7 +26,7 @@ Depois de realizar as configurações do banner, você deve adicioná-lo a uma p
 
 >ℹ️ Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo [VTEX Intelligent Search: configurações Multi-idioma (Beta)](https://help.vtex.com/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO#banners) para saber mais.
 
-![banner-form-pt](//images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/4be57613a6396be3b68aeee7084eba3a/image.png)
+![banner-form-pt](https://images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/4be57613a6396be3b68aeee7084eba3a/image.png)
 
 ## Campos de cadastro do banner
 

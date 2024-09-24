@@ -25,7 +25,7 @@ Abaixo reproduzimos um trecho de CSS que você pode utilizar como ponto de parti
 
 Em seguida, vamos enviar o arquivo CSS salvo para o servidor. Para isso, clique no menu _Configurações&gt; Portal_ dentro do Admin.
 
-![](//images.contentful.com/alneenqid6w5/3uLeF6wpvq4m4Wis48eeE8/4f79bf7753fb25309b670e9ea702a3ad/configuracao_zoom.gif)
+![](https://images.contentful.com/alneenqid6w5/3uLeF6wpvq4m4Wis48eeE8/4f79bf7753fb25309b670e9ea702a3ad/configuracao_zoom.gif)
 
 Na janela que se abrirá à direita, clique no botão **Adicionar**.
 

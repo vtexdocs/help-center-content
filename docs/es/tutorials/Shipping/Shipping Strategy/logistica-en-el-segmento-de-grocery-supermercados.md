@@ -27,7 +27,7 @@ El fulfillment nada más es que el proceso del análisis de los pedidos, separac
 
 En la mayoría de las operaciones convencionales de eCommerce, tenemos un almacén que representa el inventario. Ya en la mayoría de las operaciones de grocery, ese almacén no es practicado debido a su capacidad de perecer, rápido detrimento de las mercancías (validez) y la gran variedad del mix de productos.
 
-![](//images.contentful.com/alneenqid6w5/5VsYaqLOz6iq2Q6KEGiOIw/ccca0432aef12d539de3d6d9301383df/mapaARMAZEM1.jpg)
+![](https://images.contentful.com/alneenqid6w5/5VsYaqLOz6iq2Q6KEGiOIw/ccca0432aef12d539de3d6d9301383df/mapaARMAZEM1.jpg)
 
 En este contexto, para la existencia de un almacén que represente el inventario es prácticamente necesario el doble del espacio físico y un gran flujo de pedidos para desagüe antes del detrimento de los productos.
 

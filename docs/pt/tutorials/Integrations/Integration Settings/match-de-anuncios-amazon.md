@@ -19,7 +19,7 @@ Toda vez que um [SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeo
 
 O EAN cadastrado na VTEX é utilizado para fazer a equivalência com os [ASINs](https://associados.amazon.com.br/resource-center/asin-amazon?ac-ms-src=rc-home-card) (*Amazon Standard Identification Number, ou, Número de Identificação Padrão da Amazon*) correspondentes na Amazon. Para realizar o pareamento entre o EAN e o ASIN, é necessário realizar o matching manual. A correspondência entre EAN e ASINs precisa ser exata para que os anúncios sejam vinculados corretamente.   
 
-![Overview match de anúncios](//images.ctfassets.net/alneenqid6w5/3SrhTyS3Cpy2xxWvEA3M88/61c986c2318575171d6f248e70aa7f15/Match-an__ncios-Amazon.gif)
+![Overview match de anúncios](https://images.ctfassets.net/alneenqid6w5/3SrhTyS3Cpy2xxWvEA3M88/61c986c2318575171d6f248e70aa7f15/Match-an__ncios-Amazon.gif)
 
 ## Aba Oportunidade  
 Na aba __Oportunidade__, o seller pode realizar o match dos produtos enviados à Amazon individualmente ou em massa, realizar busca por nome do produto e clicando no ícone <i class="fas fa-ellipsis-v"></i> o seller poderá escolher entre `ver detalhes` dos produtos e `ver anúncio` do produto correspondente na Amazon. 

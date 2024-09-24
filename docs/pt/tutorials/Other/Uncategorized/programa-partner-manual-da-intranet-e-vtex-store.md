@@ -21,7 +21,7 @@ URL de Acesso: http://extrato.vtex.com
 
 ## Dados cadastrais
 Este é o primeiro passo, nele você deve preencher os dados cadastrais da sua agência. Estes dados serão replicados na VTEX STORE.
-![partner intranet 1](//images.contentful.com/alneenqid6w5/6n5cqrsG3uEuqE0w88882M/87f7eb33ae50e6d0783dc1ea5a121aca/partner_intranet_1.png)
+![partner intranet 1](https://images.contentful.com/alneenqid6w5/6n5cqrsG3uEuqE0w88882M/87f7eb33ae50e6d0783dc1ea5a121aca/partner_intranet_1.png)
 
 ### Cor do Header
 No primeiro passo temos alguns campos que merecem atenção, o primeiro é a cor do header. Onde se aplica? Na VTEX STORE dentro da pagina da sua agencia como é demonstrado ao lado.
