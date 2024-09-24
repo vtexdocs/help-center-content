@@ -766,21 +766,9 @@ ${textPT}
     // Construct the paths
     const localeFolder = path.join('./docs', locales[i]);
     const baseFolder = path.join(localeFolder, fileFolders);
-    let subFolder = fileSubFolder ? path.join(baseFolder, fileSubFolder).replace(": ", " - ") : null;
-    let subcategoryFolder = fileSubcategoryFolder ? path.join(subFolder, fileSubcategoryFolder).replace(": ", " - ") : null;
+    const subFolder = fileSubFolder ? path.join(baseFolder, fileSubFolder).replace(": ", " - ").trim() : null;
+    const subcategoryFolder = fileSubcategoryFolder ? path.join(subFolder, fileSubcategoryFolder).replace(": ", " - ").trim() : null;
     const filePath = fileSubcategoryFolder ? path.join(subcategoryFolder, fileNameEN).replace(": ", " - ") : fileSubFolder ? path.join(subFolder, fileNameEN).replace(": ", " - ") : path.join(baseFolder, fileNameEN).replace(": ", " - ");
-    if (subFolder){
-      if (subFolder.endsWith(' ')) {
-        console.log('subFolder: ',subFolder)
-      }
-    }
-    if (subcategoryFolder){
-      if (subcategoryFolder.endsWith(' ')) {
-        console.log('subcategoryFolder: ',subcategoryFolder)
-      }
-    }
-    subFolder = subFolder.trim()
-    subcategoryFolder = subcategoryFolder.trim()
 
     // Array of folders to create
     const foldersToCreate = [localeFolder, baseFolder, subFolder, subcategoryFolder].filter(Boolean);
