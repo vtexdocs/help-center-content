@@ -1,8 +1,9 @@
 const fs = require('fs')
 const path = require('path')
+// const frontmatter = require('front-matter')
 const imageDownloader = require('image-downloader')
 
-const baseURL = 'https://raw.githubusercontent.com/vtexdocs/help-center-content/main/'
+const baseURL = 'https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/'
 
 const isValidExtension = (ext) => {
   return /^[a-zA-Z0-9]*$/.test(ext)
@@ -28,19 +29,21 @@ const updateImages = async (filepath) => {
     const isMarkdownBlock = match.startsWith('![')
     if (url.startsWith(baseURL)) return match
 
+    if (url.startsWith('//')) {
+      url = `https:${url}`
+    }
+
     let newURL = ''
-    if (url.startsWith('http://') || url.startsWith('https://')) {
-      const ext = getExtension(url)
-      
-      const newfilepath = `${filepath.split('.')[0]}_${imageIndex}.${ext}`
-      images.push({
-        filepath: path.resolve(newfilepath),
-        url
-      })
-      
-      newURL = `${baseURL}${filepath.split('.')[0]}_${imageIndex}.${ext}`
-      imageIndex++
-    } 
+    const ext = getExtension(url)
+    
+    const newfilepath = `${filepath.split('.')[0]}_${imageIndex}.${ext}`
+    images.push({
+      filepath: path.resolve(newfilepath),
+      url
+    })
+    
+    newURL = `${baseURL}${filepath.split('.')[0]}_${imageIndex}.${ext}`
+    imageIndex++
     
     return isMarkdownBlock ? `![${extra}](${newURL})` : `<img ${extra}src="${newURL}"`
   }
