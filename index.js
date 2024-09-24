@@ -51,11 +51,11 @@ async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
         // Recursively delete markdown files in subdirectories
         await deleteMarkdownFiles(filePath, false);
         await fs.rmdir(filePath); // Delete folder after processing
-        console.log(`Deleted folder: ${filePath}`);
+        // console.log(`Deleted folder: ${filePath}`);
       } else if (file.endsWith('.md')) {
         // Delete markdown files
         await fs.unlink(filePath);
-        console.log(`Deleted: ${filePath}`);
+        // console.log(`Deleted: ${filePath}`);
       }
     });
 
