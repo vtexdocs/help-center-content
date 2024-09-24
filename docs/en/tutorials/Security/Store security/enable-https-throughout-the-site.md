@@ -39,7 +39,7 @@ These HTTP requests are:: references to images, CSS files, JS and any resource t
 
 - Calling a script with the following snippet would result in problems: `<script src="http://www.site.com/arquivos/funcao.js"></script>`
 - The correct implementation would be: `<script src="https://www.site.com/arquivos/funcao.js"></script>`
-- You can also use the relative protocol, in order to follow the same one in which the page is accessed: `<script src="https://www.site.com/arquivos/funcao.js"></script>`
+- You can also use the relative protocol, in order to follow the same one in which the page is accessed: `<script src="//www.site.com/arquivos/funcao.js"></script>`
 - For files hosted on VTEX the following format must always be used, which relates to the protocol and to the domain accessed: `<script src="/arquivos/funcao.js"></script>`
 
 **Caution:** to call external routes to VTEX, first check whether the destination supports HTTPS.

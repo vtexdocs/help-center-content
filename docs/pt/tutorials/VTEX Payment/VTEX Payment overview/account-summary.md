@@ -36,23 +36,23 @@ Por fim, o lojista pode conferir os próximos recebíveis e suas últimas movime
 
 Esta seção é dividida em duas partes: a de recebíveis consolidados - para recebimentos já liquidados - e a de lançamentos futuros, para compras que ainda serão liquidadas. 
 
-![extrato_financeiro_vtex_payment](https://images.ctfassets.net/alneenqid6w5/ylj1J2TQfTs24IyrxKJrI/884f3d2ad018b1d2888465818565a2f8/image.png)
+![extrato_financeiro_vtex_payment](//images.ctfassets.net/alneenqid6w5/ylj1J2TQfTs24IyrxKJrI/884f3d2ad018b1d2888465818565a2f8/image.png)
 
 Vale ressaltar que a aba Lançamentos Futuros oferece a conciliação entre os recebíveis e seus respectivos pedidos. Caso o lojista clique em um dos recebimentos, uma tela contendo todas as transações referentes àquela movimentação financeira será exibida. 
 
-![tela_extrato-financeiro](https://images.ctfassets.net/alneenqid6w5/5vpMPvl2dz4fT8OvgjYrAC/a9a8e07e94b40dffd714c3b317d35111/image.png)
+![tela_extrato-financeiro](//images.ctfassets.net/alneenqid6w5/5vpMPvl2dz4fT8OvgjYrAC/a9a8e07e94b40dffd714c3b317d35111/image.png)
 
 Além disso, para consultar os detalhes do pedido que compõe a transação, basta clicar na linha correspondente. Assim, a tela apresentará dados como: produto vendido, data e número de parcelas, por exemplo.
 
-![tela_extrato_financeiro](https://images.ctfassets.net/alneenqid6w5/3OjfgHkS4kMDX7zEhoaHMF/27d2fabc1014e9371475b8aea1c0f2ba/image.png)
+![tela_extrato_financeiro](//images.ctfassets.net/alneenqid6w5/3OjfgHkS4kMDX7zEhoaHMF/27d2fabc1014e9371475b8aea1c0f2ba/image.png)
 
 O lojista pode ainda consultar o pedido diretamente no módulo Gerenciamento de Pedidos, caso clique em "Ver detalhes do pedido".
 
-![items_pedido](https://images.ctfassets.net/alneenqid6w5/1IiebFvYL9GfppgW77E6op/0df3ba415c65662c08d6ff329970555b/image.png)
+![items_pedido](//images.ctfassets.net/alneenqid6w5/1IiebFvYL9GfppgW77E6op/0df3ba415c65662c08d6ff329970555b/image.png)
 
 Por fim, ainda nessa tela, o lojista pode baixar dois relatórios: extrato financeiro e recebimentos de vendas. Para isso, basta clicar no botão "Exportar", selecionar o documento e o mês desejado.
 
-![image](https://images.ctfassets.net/alneenqid6w5/I8zH7rdrRmiDoFYzSEgMh/5bcc566709369dc12904e7e95c31a725/image.png)
+![image](//images.ctfassets.net/alneenqid6w5/I8zH7rdrRmiDoFYzSEgMh/5bcc566709369dc12904e7e95c31a725/image.png)
 
 Os dados são:
 
@@ -65,13 +65,13 @@ Por mais que em “Resumo de Contas” a plataforma apresente uma pequena sínte
 
 Ao clicar nessa seção, o lojista pode conferir suas disputas em aberto. Contudo, ao clicar em uma transação específica, a plataforma o direciona para uma página que mostra o extrato do pedido.
 
-![tela_disputas](https://images.ctfassets.net/alneenqid6w5/1SdbVyFFMPrsn5IvCeGK7T/aa82183f3bfadbd9aa5a450cf903512c/image.png)
+![tela_disputas](//images.ctfassets.net/alneenqid6w5/1SdbVyFFMPrsn5IvCeGK7T/aa82183f3bfadbd9aa5a450cf903512c/image.png)
 
 São quatro quadros que detalham o recebível em disputa. Em “Transação”, o lojista confere os dados da compra. Assim como acessa a descrição do pedido em si no quadro logo abaixo, “Itens do Pedido”.
 
 Do lado esquerdo, temos os quadros “Recebíveis”, que apresentam os detalhes das parcelas daquela transação, e “Valor Total”. Este último detalha o histórico, assim como a soma de todos os recebíveis que compõem o pedido.
 
-![disputa_extrato](https://images.ctfassets.net/alneenqid6w5/7x3zwBsaDR6VEItmoSzWhy/21b909bf626e7a1e17c97d32957cf86f/image.png)
+![disputa_extrato](//images.ctfassets.net/alneenqid6w5/7x3zwBsaDR6VEItmoSzWhy/21b909bf626e7a1e17c97d32957cf86f/image.png)
 
 ## Antecipação avulsa de recebíveis
 

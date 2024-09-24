@@ -1,10 +1,10 @@
 ---
 title: 'Configurar Sinônimos'
 id: 3ExbC3QKNF4zH7Gs8jD1cL
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2019-11-29T12:04:33.557Z
-updatedAt: 2024-01-30T22:46:15.605Z
-publishedAt: 2024-01-30T22:46:15.605Z
+updatedAt: 2024-09-06T20:09:28.386Z
+publishedAt: 
 firstPublishedAt: 2020-03-05T19:56:02.826Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising

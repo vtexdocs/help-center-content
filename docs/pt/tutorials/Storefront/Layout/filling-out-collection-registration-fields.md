@@ -3,8 +3,8 @@ title: 'Preencher campos de cadastro de Coleção'
 id: 7eKL7CFRW3yGKlnDfQetbj
 status: PUBLISHED
 createdAt: 2019-06-03T20:13:01.481Z
-updatedAt: 2020-12-11T16:42:53.909Z
-publishedAt: 2020-12-11T16:42:53.909Z
+updatedAt: 2024-09-09T14:09:09.775Z
+publishedAt: 2024-09-09T14:09:09.775Z
 firstPublishedAt: 2019-06-13T20:25:06.424Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -25,7 +25,7 @@ Para entender melhor o significado dos campos de cadastro de uma coleção de pr
 
 - __Highlight?__: essa opção deve ser marcada para que a coleção seja destacada na sua loja, através do controle `$product.HightLight`. Para entender melhor sobre o uso desse controle, acesse nosso artigo [Controles do template de prateleira](https://help.vtex.com/pt/tutorial/controles-do-template-de-prateleira--tutorials_550).
 
-- __Searchable?__: essa opção deve ser marcada para que a coleção possa ser retornada na [API de Busca da VTEX](https://developers.vtex.com/reference/facets-1#facetscategoryandspecification). 
+- __Searchable?__: essa opção deve ser marcada para que a coleção possa ser retornada na [API de Busca da VTEX](https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/search/-search-?endpoint=get-/api/catalog_system/pub/products/search/-search-). 
 
 - __From/To__: intervalo de tempo em que a coleção de produtos estará ativa na sua loja. 
 

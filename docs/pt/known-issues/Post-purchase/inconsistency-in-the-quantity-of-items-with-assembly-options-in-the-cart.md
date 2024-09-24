@@ -28,7 +28,7 @@ Nos produtos com customização do Assembly options, um item pai possui componen
 3. Selecione o item filho do produto, na mesma quantidade;
 4. Confira os itens no carrinho de compras.
 
-![KI assembly](https://images.contentful.com/alneenqid6w5/1xmOq4gUrxUjJLMMox7WQj/b2d02da26c27f468b43e32e0d3a81f61/KI_assembly.png)
+![KI assembly](//images.contentful.com/alneenqid6w5/1xmOq4gUrxUjJLMMox7WQj/b2d02da26c27f468b43e32e0d3a81f61/KI_assembly.png)
 Observe que o carrinho contém uma unidade a mais do item filho em relação ao item pai.
 
 

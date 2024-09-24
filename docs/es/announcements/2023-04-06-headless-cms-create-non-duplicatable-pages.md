@@ -16,7 +16,7 @@ announcementSynopsisES: 'Singleton: el tipo de content type en Headless CMS que 
 ---
 
 Singleton es un nuevo tipo de content type que permite que el comerciante (administrador de la tienda) pueda crear y gestionar una única página de un content type en el Headless CMS. Los content types de Singleton no pueden duplicarse, lo que garantiza que solo haya una página de ese tipo de contenido y que sea coherente en toda la tienda.
-![singleton-es](https://images.ctfassets.net/alneenqid6w5/6aMWhl66yiP8YLJr5Bzuo5/7e816ec8a05d8731dfaee66ca0258641/singleton-es.gif)
+![singleton-es](//images.ctfassets.net/alneenqid6w5/6aMWhl66yiP8YLJr5Bzuo5/7e816ec8a05d8731dfaee66ca0258641/singleton-es.gif)
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
 El content type Singleton solo está disponible para tiendas que utilicen <a href="https://help.vtex.com/es/tutorial/managing-pages-beta--3DO6rBhZ1p3zndnFu5BgRt">VTEX Headless CMS</a> (Actualmente se encuentra en fase beta).

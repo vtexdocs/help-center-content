@@ -25,10 +25,10 @@ This feature is commonly used to create scenarios like: The **X** refrigerator s
 The known issue is evident in the following example, in which the marketplace can not reflect the same rules of installment as the seller:
 
 ## Marketplace - Up to 12x without interest
-![Marketplace Marketplace](https://images.contentful.com/alneenqid6w5/c7CtSlVToIIQScyiM4AiS/e9f1415ccbe79d8fe34af8e9901b6570/Geladeira_Marketplace.png)
+![Marketplace Marketplace](//images.contentful.com/alneenqid6w5/c7CtSlVToIIQScyiM4AiS/e9f1415ccbe79d8fe34af8e9901b6570/Geladeira_Marketplace.png)
 
 ## Seller - Up to 10x without interest
-![2017-06-16 18 15 44-Refrigerator 540 Liters Evox Brastemp Side Inverse - Brastemp](https://images.contentful.com/alneenqid6w5/6HZs1prIVaUsOYCWeEMG8U/169a380f8e4c43cd0c644d280da0d126/2017-06-16_18_15_44-Geladeira_540_Litros_Evox_Brastemp_Side_Inverse_-Brastemp.png)
+![2017-06-16 18 15 44-Refrigerator 540 Liters Evox Brastemp Side Inverse - Brastemp](//images.contentful.com/alneenqid6w5/6HZs1prIVaUsOYCWeEMG8U/169a380f8e4c43cd0c644d280da0d126/2017-06-16_18_15_44-Geladeira_540_Litros_Evox_Brastemp_Side_Inverse_-Brastemp.png)
 
 The display in the marketplace is wrong. The installments in 11x and 12x do not show interest, when in reality they should.
 

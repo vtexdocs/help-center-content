@@ -3,8 +3,8 @@ title: 'Configurar pagos con Tino'
 id: 5526MMHBskrFC4X4soQlzT
 status: PUBLISHED
 createdAt: 2024-09-04T21:07:35.889Z
-updatedAt: 2024-09-04T21:47:44.364Z
-publishedAt: 2024-09-04T21:47:44.364Z
+updatedAt: 2024-09-06T14:57:34.115Z
+publishedAt: 2024-09-06T14:57:34.115Z
 firstPublishedAt: 2024-09-04T21:44:23.265Z
 contentType: tutorial
 productTeam: Financial

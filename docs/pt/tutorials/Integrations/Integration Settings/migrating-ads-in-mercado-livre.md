@@ -39,7 +39,7 @@ Durante a etapa [Cadastro do conector Mercado Livre](https://help.vtex.com/pt/tr
 
 Nessa etapa você precisará fazer a equivalência entre seus anúncios no Mercado Livre e os SKUs da sua loja. O envio dessas informações é feito por meio da planilha de migração.
 
-Primeiro, faça download da [Planilha de migração](https://assets.ctfassets.net/alneenqid6w5/4tgBiQQeiAQGyys4OAuIGc/1bf6f64f485de43d2329db270c1303de/Planilha_de_Migrac__a__o_de_Anu__ncios_-_Mercado_Livre_BR.xlsx) e utilize o arquivo como modelo para preenchimento. Esta é a planilha que será preenchida e enviada para o Mercado Livre.
+Primeiro, faça download da [Planilha de migração](//assets.ctfassets.net/alneenqid6w5/4tgBiQQeiAQGyys4OAuIGc/1bf6f64f485de43d2329db270c1303de/Planilha_de_Migrac__a__o_de_Anu__ncios_-_Mercado_Livre_BR.xlsx) e utilize o arquivo como modelo para preenchimento. Esta é a planilha que será preenchida e enviada para o Mercado Livre.
 
 O produto cadastrado na VTEX só poderá ser mapeado com um anúncio no Mercado Livre. No caso de [anúncios dos tipos Clássico e Premium](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/2MR2USqcvDGaoAkGNdCfGi), por serem configurações separadas, o mesmo produto pode estar anunciado em ambos tipos de anúncios.
 

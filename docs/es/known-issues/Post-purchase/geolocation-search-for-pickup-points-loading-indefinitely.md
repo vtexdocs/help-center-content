@@ -35,7 +35,7 @@ Si la ubicación de su navegador satisface la condición anterior, siga los paso
 5. Durante el _checkout_, seleccione la opción de entrega «punto de recogida». 
 6. Observe que la página se queda cargando, mostrando el mensaje «Esperando permiso para obtener su ubicación actual».
 
-![erro Es](https://images.contentful.com/alneenqid6w5/4MVL2ctjpB3TRIfQt1ht3O/c9b547445063ca5893288590621944c9/erro_Es.png)
+![erro Es](//images.contentful.com/alneenqid6w5/4MVL2ctjpB3TRIfQt1ht3O/c9b547445063ca5893288590621944c9/erro_Es.png)
 
 ## Workaround
 

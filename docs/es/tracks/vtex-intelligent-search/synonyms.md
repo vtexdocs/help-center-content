@@ -1,10 +1,10 @@
 ---
 title: 'Sinónimos'
 id: 1pxAWPEglBey1UFdvcetZV
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2019-11-29T12:01:19.985Z
-updatedAt: 2023-05-16T14:15:36.596Z
-publishedAt: 2023-05-16T14:15:36.596Z
+updatedAt: 2024-09-06T20:09:17.226Z
+publishedAt: 
 firstPublishedAt: 2020-03-05T19:55:04.962Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising

@@ -19,7 +19,7 @@ Shipping rates are the shipping options your store offers to customers, and they
 
 >⚠️ The [total shipping cost](https://help.vtex.com/en/tutorial/total-shipping-cost--5bwhIO108VA5Y2YOpef9lV) to the customer includes the shipping rate, [additional shipping costs](https://help.vtex.com/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV) and, a loading dock fee.
 
-![Tarifa envio EN](https://images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/8aa8e3fcbe570f3862e3e31b3a7db0eb/Tarifa_envio_EN.svg)
+![Tarifa envio EN](//images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/8aa8e3fcbe570f3862e3e31b3a7db0eb/Tarifa_envio_EN.svg)
 
 You can add shipping rates in the Admin by using:
 

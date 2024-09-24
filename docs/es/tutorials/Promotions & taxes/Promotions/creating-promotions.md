@@ -78,7 +78,7 @@ Puedes cambiar las configuraciones y los datos de cualquier promoción siguiendo
 La programación de una promoción se produce cuando esta se crea (o modifica) con una fecha y hora de validez posteriores al momento actual. La hora considerada es la del sistema del computador en el que se creó la promoción, sin tener en cuenta los ajustes de zona horaria.
 Estas promociones se pueden identificar fácilmente en la página principal de Promociones, ya que tienen una franja naranja con la palabra programada en la esquina superior derecha de la tarjeta, como se muestra a continuación:
 
-![programada](https://images.ctfassets.net/alneenqid6w5/illvXlc6M10IO8p8IfL7J/cc495af0c2c31c27cc53870ed7a95aee/programada..png)
+![programada](//images.ctfassets.net/alneenqid6w5/illvXlc6M10IO8p8IfL7J/cc495af0c2c31c27cc53870ed7a95aee/programada..png)
 
 Para programar una promoción, sigue los pasos descritos en la sección [Programar promociones](https://help.vtex.com/es/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI?&utm_source=autocomplete#programar-promociones) del artículo [Programación de funcionalidades para eventos especiales](https://help.vtex.com/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI).
 

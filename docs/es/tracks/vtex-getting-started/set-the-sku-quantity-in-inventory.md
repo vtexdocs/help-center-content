@@ -18,12 +18,12 @@ Usted ya tiene un producto asociado a una categoría y una marca, tiene un SKU p
 
 Para registrar el stock, siga estos pasos.
 1. En el módulo __Catalog__, pase el ratón sobre __Registro de Productos__, vaya a __Productos y SKUs__ y haga clic en la opción __Registro de Productos y SKUs__.
-2. En la línea del SKU, haga clic en el símbolo del carrito (se le llevará al módulo Logistics).![SKUstock](https://images.contentful.com/alneenqid6w5/5HArBLp1qoq6cyUk8Oc8mO/473c1415e082ee2c644f5ab95f24ff73/SKUstock.png)
+2. En la línea del SKU, haga clic en el símbolo del carrito (se le llevará al módulo Logistics).![SKUstock](//images.contentful.com/alneenqid6w5/5HArBLp1qoq6cyUk8Oc8mO/473c1415e082ee2c644f5ab95f24ff73/SKUstock.png)
 
 Usted verá una tabla con información acerca de:
 - El SKU cuya acción está editando.
-- Las cantidades de ese SKU para cada uno de sus inventarios (es probable que por el momento usted tenga solamente 1 inventario).![SKUstock3](https://images.contentful.com/alneenqid6w5/1L6j4KnLm80OGIeamy2G6S/c0e141d79feed20965dd038e06ad21b7/SKUstock3.png)
+- Las cantidades de ese SKU para cada uno de sus inventarios (es probable que por el momento usted tenga solamente 1 inventario).![SKUstock3](//images.contentful.com/alneenqid6w5/1L6j4KnLm80OGIeamy2G6S/c0e141d79feed20965dd038e06ad21b7/SKUstock3.png)
 
-En la columna __Actalizar conteo__, introduzca la cantidad de items del SKU. A continuación, haga clic en __Guardar__.![SKUstock2](https://images.contentful.com/alneenqid6w5/vOnvVfbYHIu6yEgoe0gwS/2de31b3086df606783c38ded788733ae/SKUstock2.gif)
+En la columna __Actalizar conteo__, introduzca la cantidad de items del SKU. A continuación, haga clic en __Guardar__.![SKUstock2](//images.contentful.com/alneenqid6w5/vOnvVfbYHIu6yEgoe0gwS/2de31b3086df606783c38ded788733ae/SKUstock2.gif)
 
 Listo, su SKU ahora tiene stock y ya está disponible para sus clientes.

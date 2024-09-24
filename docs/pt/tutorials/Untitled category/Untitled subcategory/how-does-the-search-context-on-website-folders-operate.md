@@ -39,7 +39,7 @@ Usando o mesmo exemplo anterior, se criarmos uma pasta chamada **minha-landing-p
 
 ### Configuração
 
-![](https://images.contentful.com/alneenqid6w5/ZvEGMDPUs0OsuCkoUsqqS/4411604b8b78124edcbacd46cc45ed53/ContextoDeBusca.PNG)
+![](//images.contentful.com/alneenqid6w5/ZvEGMDPUs0OsuCkoUsqqS/4411604b8b78124edcbacd46cc45ed53/ContextoDeBusca.PNG)
 
 **Importante**:
 

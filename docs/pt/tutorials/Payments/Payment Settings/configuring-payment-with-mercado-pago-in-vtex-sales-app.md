@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Mercado Pago no VTEX Sales App'
 id: 51fgSydGGOnlBdtwTfE8BE
 status: PUBLISHED
 createdAt: 2024-08-26T12:36:03.781Z
-updatedAt: 2024-09-03T13:41:09.309Z
-publishedAt: 2024-09-03T13:41:09.309Z
+updatedAt: 2024-09-24T13:53:43.655Z
+publishedAt: 2024-09-24T13:53:43.655Z
 firstPublishedAt: 2024-08-26T18:37:41.187Z
 contentType: tutorial
 productTeam: Financial

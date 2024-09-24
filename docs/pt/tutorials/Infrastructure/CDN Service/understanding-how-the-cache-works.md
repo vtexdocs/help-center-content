@@ -25,11 +25,11 @@ A solicitação do browser é conhecida como **request**, e a resposta do servid
 
 Veja o esquema abaixo:
 
-![Como o cache funciona - comunicação entre servidor e browser](https://images.ctfassets.net/alneenqid6w5/6ONSKQqdEoIsHxcvfp5GoS/51e191e174947c589ad4de6d4d56e474/1_PT.png)
+![Como o cache funciona - comunicação entre servidor e browser](//images.ctfassets.net/alneenqid6w5/6ONSKQqdEoIsHxcvfp5GoS/51e191e174947c589ad4de6d4d56e474/1_PT.png)
 
 O cache é representado através de uma camada entre o browser e o servidor. Assim, quando um **request** acontece, em vez de o sistema ir buscar as informações diretamente no servidor, primeiramente ele vai até essa camada, o que torna a resposta muito mais ágil. Veja o esquema abaixo:
 
-![Como o cache funciona - comunicação com cache (sem expirar)](https://images.ctfassets.net/alneenqid6w5/15ss3biutJhXX2WkG9k8xG/bb35e006ee78f624c403a0d81aefb65a/2_PT.png)
+![Como o cache funciona - comunicação com cache (sem expirar)](//images.ctfassets.net/alneenqid6w5/15ss3biutJhXX2WkG9k8xG/bb35e006ee78f624c403a0d81aefb65a/2_PT.png)
 
 No entanto, como o dado atualizado está no servidor, de tempos em tempos o cache precisa ser atualizado. Esse tempo varia de acordo com o tipo de **request**, ou seja, se o **request** for uma página, o tempo é um, se for um arquivo javascript ou CSS é outro e, ainda, se for uma imagem, outro.
 
@@ -60,7 +60,7 @@ Quando o cache de um **request** (página ou arquivo) expira, ao realizar uma no
 
 Depois de atualizada, a versão cacheada volta a ser retornada para novas solicitações da URL. Veja o esquema ilustrando esse caso:
 
-![Como o cache funciona - comunicação com cache (expirado)](https://images.ctfassets.net/alneenqid6w5/e5oS6cve6yw1tS81PYkBK/369d7e767ed2f09583955cea2d432a36/3_PT.png)
+![Como o cache funciona - comunicação com cache (expirado)](//images.ctfassets.net/alneenqid6w5/e5oS6cve6yw1tS81PYkBK/369d7e767ed2f09583955cea2d432a36/3_PT.png)
 
 Nesse aspecto, podemos separar as respostas em dois grupos: Cacheadas e não cacheadas.
 
@@ -73,7 +73,7 @@ Ao clicar no request, o primeiro ao recarregar a página, localize, entre os hea
 
 Se o valor for `MISS`, significa que o conteúdo exibido não é um conteúdo cacheado e foi retornado diretamente do servidor. Mais uma informação relevante que pode ser identificada nos headers dos **requests** é a data em que o cache foi criado. Essa informação está disponível na propriedade `X-vtex-processed-at`.
 
-[]![](https://images.contentful.com/alneenqid6w5/5GPSsb4UWA28QS4soyguSI/8772946997cc979ddf9c2297f2ca8bb6/cache.png)
+[]![](//images.contentful.com/alneenqid6w5/5GPSsb4UWA28QS4soyguSI/8772946997cc979ddf9c2297f2ca8bb6/cache.png)
 
 Apesar de arquivos JavaScript e CSS também terem a duração de cache estabelecida, como esses tipos de arquivo são utilizados na formatação dos layouts e, por isso, em alguns casos, precisam ter sua atualização mais ágil, o portal possui uma inteligência que identifica alterações em seus conteúdos, rompendo com a camada de cache. 
 

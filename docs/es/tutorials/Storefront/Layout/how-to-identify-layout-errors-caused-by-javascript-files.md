@@ -25,7 +25,7 @@ Para eso, siga los siguientes pasos:
 
 1. Para deshabilitar el JavaScript de la página basta colocar el `/tools.html` al final de la URL. Ej: {AccountName}.myvtex.com/tools.html
 2. Haga clic en __Disable__ en la pestaña __Client JavaScript is__.
-![javascript-disable ](https://images.ctfassets.net/alneenqid6w5/2rDNQsznK8umymyKaOoYkA/1c4306998c4d580505dfaffe20ca66fa/js_enabled.png)
+![javascript-disable ](//images.ctfassets.net/alneenqid6w5/2rDNQsznK8umymyKaOoYkA/1c4306998c4d580505dfaffe20ca66fa/js_enabled.png)
 
 3. Después retirar el `/tools.html` da URL y actualizar la página.
 

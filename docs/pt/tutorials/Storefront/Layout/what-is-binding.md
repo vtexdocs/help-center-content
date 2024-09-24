@@ -19,7 +19,7 @@ O Website binding é o que faz a ponte entre o CMS (Portal) e as informações d
 
 Ou seja, é ele que define que um __account name__ (configurado no License Manager) está atrelado à estrutura de pastas e arquivos de determinado __Website__ (construída no CMS). 
 
-![Binding](https://images.contentful.com/alneenqid6w5/2selXSrkaoWaqUug24Mewm/bfea4f2413f1433c6cc2b80d8c7c9a93/Binding-min.png)
+![Binding](//images.contentful.com/alneenqid6w5/2selXSrkaoWaqUug24Mewm/bfea4f2413f1433c6cc2b80d8c7c9a93/Binding-min.png)
 
 Esta é a configuração realizada quando uma conta deseja ter mais de uma loja. Para cada uma dessas lojas (que chamamos de [multilojas](/pt/tutorial/como-criar-multiloja-multidominio)), é feito um binding.
 

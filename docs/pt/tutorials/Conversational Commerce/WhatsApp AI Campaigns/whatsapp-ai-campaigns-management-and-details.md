@@ -80,7 +80,7 @@ Para pausar o envio de mensagens de uma campanha:
 
 Você pode encontrar informações relativas às suas campanhas em andamento no Admin VTEX.
 
-![Visão geral-PT](https://images.ctfassets.net/alneenqid6w5/3QiT4K7FuFoTyhmlWYWKFl/5b970054cd95f9bd75086f1df4fca02d/Vis_o_geral-PT.png)
+![Visão geral-PT](//images.ctfassets.net/alneenqid6w5/3QiT4K7FuFoTyhmlWYWKFl/5b970054cd95f9bd75086f1df4fca02d/Vis_o_geral-PT.png)
 
 Abaixo estão os detalhes das métricas disponíveis:
 

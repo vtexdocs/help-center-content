@@ -17,7 +17,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 En el módulo de gestión de pedidos, __La Autorización de pedidos__ permite el control y la aprobación de pedidos con divergencias de precios en su tienda.
 
-![autorização-de-pedidos ES](https://images.ctfassets.net/alneenqid6w5/7bov7XWzWzQ2qFPZ5OnJg7/3044ddd44a533fbd7a5d2499e7353374/autoriza____o-de-pedidos__ES.png)
+![autorização-de-pedidos ES](//images.ctfassets.net/alneenqid6w5/7bov7XWzWzQ2qFPZ5OnJg7/3044ddd44a533fbd7a5d2499e7353374/autoriza____o-de-pedidos__ES.png)
  
 Las divergencias de precios entre pedidos se pueden encontrar en dos escenarios principales:
 

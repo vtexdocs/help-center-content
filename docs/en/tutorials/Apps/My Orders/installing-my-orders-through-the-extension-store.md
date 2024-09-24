@@ -19,7 +19,7 @@ Following the evolution of VTEX platform, the viewpart of __My Orders__ is now a
 
 In order to perform the installation, you need to access the [VTEX App Store.](https://extensions.vtex.com/)
 
-![app store1 EN](https://images.ctfassets.net/alneenqid6w5/4TNMg7DSxWco4KCyO6yaYU/941ee734d6e7a6ee93f85a6d59d8324c/app_store1_EN.png)
+![app store1 EN](//images.ctfassets.net/alneenqid6w5/4TNMg7DSxWco4KCyO6yaYU/941ee734d6e7a6ee93f85a6d59d8324c/app_store1_EN.png)
 
 __After installing the app, you already have the following updates:__
 
@@ -29,7 +29,7 @@ __After installing the app, you already have the following updates:__
 - Trace information for multiple items.
 - Minor Bug Fix.
 
-![app store2 EN](https://images.ctfassets.net/alneenqid6w5/uWM5x8qG5ia6okQ0kgIak/1caf4e8275bb8e8514b7073396553b6a/app_store2_EN.png)
+![app store2 EN](//images.ctfassets.net/alneenqid6w5/uWM5x8qG5ia6okQ0kgIak/1caf4e8275bb8e8514b7073396553b6a/app_store2_EN.png)
 
 In addition, with the new app you can perform version tests and update it whenever a new version is available, receiving continuous improvements and updates of new features.
 
@@ -42,4 +42,4 @@ To test the customizations on your page, you may work on a different workspace w
 5. Ready! Now you will see how your page will behave before you upload it.
 6. To move My Orders to the production environment (where your customers can actually use it), you must publish the change. To do that, just click on the __Publish__ button.
 
-![app store3 EN](https://images.ctfassets.net/alneenqid6w5/Dhrybc8B7qCwacYMmAwcC/7970fef7fc718f082683ad218603a829/app_store3_EN.png)
+![app store3 EN](//images.ctfassets.net/alneenqid6w5/Dhrybc8B7qCwacYMmAwcC/7970fef7fc718f082683ad218603a829/app_store3_EN.png)

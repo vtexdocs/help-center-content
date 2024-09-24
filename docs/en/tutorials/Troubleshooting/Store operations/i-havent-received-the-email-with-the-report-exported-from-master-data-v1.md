@@ -29,7 +29,7 @@ You can access the report in Master Data by following the steps below:
 4. In **Export Status**, identify the row of the report you want to access.
 5. If the **Status** is **Completed - Download**, click `Download` to download the file.
 
-    ![download-report-en](https://images.ctfassets.net/alneenqid6w5/5fL8dTuacGUYYFfhwx8eSh/0cc88c11f479fda554a2520750c8da2d/download-report-en.png)
+    ![download-report-en](//images.ctfassets.net/alneenqid6w5/5fL8dTuacGUYYFfhwx8eSh/0cc88c11f479fda554a2520750c8da2d/download-report-en.png)
 
     If the **Status** is **Running**, wait for the export to complete and then repeat the steps.
 

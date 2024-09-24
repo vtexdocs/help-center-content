@@ -3,8 +3,8 @@ title: 'Navegação Data Pipeline '
 id: 4X4hK0zdIHN0Xn5x2MLYYd
 status: PUBLISHED
 createdAt: 2024-02-02T17:48:16.639Z
-updatedAt: 2024-09-02T19:28:13.230Z
-publishedAt: 2024-09-02T19:28:13.230Z
+updatedAt: 2024-09-13T17:51:19.060Z
+publishedAt: 2024-09-13T17:51:19.060Z
 firstPublishedAt: 2024-05-27T19:26:59.542Z
 contentType: tutorial
 productTeam: Others
@@ -39,7 +39,7 @@ Cada `session` permanece ativa até que não ocorra uma nova `pageview` por um p
 >⚠️ O <i>script</i> em um site não é capaz de capturar dados de sessões que se originam em marketplaces, aplicativos ou implementações <i>headless</i>, nas quais não gerenciamos o <i>frontend</i>. Além disso, personalizações realizadas no <i>frontend</i> da loja podem interferir ou mesmo inativar o <i>script</i> levando à falta de registro de algumas sessões, ou taxa de conversão observada no dashboard.</br>
 > Para minimizar o impacto no desempenho da loja, o <i>script</i> é configurado para ser o último elemento a carregar na página, o que significa que sessões muito breves podem não ser capturadas.</br>
 
-## Tabela sessions
+## Tabela `sessions`
 
 Esta tabela contém apenas sessões fechadas, seja por inatividade ou porque terminaram em uma compra. E é ordenada por `session_id`, `session_end_time` e `store_name`; portanto, evite filtrar grandes intervalos de dados por colunas que não estão nesta estratégia de ordenação. Veja os campos que compõem a tabela.  
 
@@ -93,7 +93,7 @@ Esta tabela contém apenas sessões fechadas, seja por inatividade ou porque ter
 | exit_page_type | character varying(16383) | Tipo de página da última visualização nesta sessão. |
 | exit_page_checkout_step | character varying(16383) | Etapa de checkout da última visualização de página nesta sessão. |
 
-## Tabela pageviews
+## Tabela `pageviews`
 
 Cada item nesta tabela corresponde a uma página visualizada pelo comprador, como a página inicial, página de produto e etapa de checkout.  
 Uma visualização de página é contabilizada após o navegador do comprador carregar a página, em vez de quando o pedido ou clique acontece.  
@@ -203,3 +203,5 @@ Nos dados de navegação da VTEX, observamos interações significativas com out
 - [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
 - [Preços](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
 - [Promoção](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Vale-presente](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Logs do Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

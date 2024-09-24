@@ -36,7 +36,7 @@ If the Delete button is not active and the timeout has not expired, you can quic
 
 If the void or refund request has already been sent by the system to the issuing bank, we will no longer be able to delete/stop it in any way.
 
-![PayU Romania](https://images.ctfassets.net/alneenqid6w5/eR53ZeK0Le8UMeQQs2osq/03a5bad4e5f9269dc12159b28fd27dd8/PayU_Romania.png)
+![PayU Romania](//images.ctfassets.net/alneenqid6w5/eR53ZeK0Le8UMeQQs2osq/03a5bad4e5f9269dc12159b28fd27dd8/PayU_Romania.png)
 
 Once PayU has sent the void or refund request to the issuing bank, the status of the order will be updated in the PayU cPanel as `REVERSE` (for voids) or `REFUND`. And VTEX is going to receive a webhook from PaymentsOS, so the order status can also be updated on the platform (on Payments and consequently reflected in the OMS).
 

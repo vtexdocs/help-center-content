@@ -31,7 +31,7 @@ Para crear un rol financiero:
 6. (Opcional) Antes de guardar, usted puede **Agregar usuarios a este rol**.
 7. Haga clic en **Guardar**.
 
-![gif perfildeacessoES](https://images.ctfassets.net/alneenqid6w5/3JYWgBIlkkg4VFG1AgFHoc/9d68fb02cf08d64dda981ea3d1ff3935/gif_perfildeacessoES.gif)
+![gif perfildeacessoES](//images.ctfassets.net/alneenqid6w5/3JYWgBIlkkg4VFG1AgFHoc/9d68fb02cf08d64dda981ea3d1ff3935/gif_perfildeacessoES.gif)
 
 El rol financiero ahora está creado y está disponible para asociarlo con usuarios existentes.
 
@@ -47,7 +47,7 @@ Es posible asociar un usuario con el rol Finance ya existente:
 6. Haga clic en el botón <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2jZogtT8WT3XVmv5U6yXh/2dc70b446b9aad1b27840e64b2cf15ce/bot__o_adicionar.png" /> al lado del rol seleccionado para agregarlo.
 7. Para finalizar, haga clic en **Guardar**.
 
-![gif usuárioES](https://images.ctfassets.net/alneenqid6w5/gRA4oVVbG7Z8ksFX4QiWm/f097214bc3c314a36dc384efcbc51980/gif_usu__rioES.gif)
+![gif usuárioES](//images.ctfassets.net/alneenqid6w5/gRA4oVVbG7Z8ksFX4QiWm/f097214bc3c314a36dc384efcbc51980/gif_usu__rioES.gif)
 
 El usuario seleccionado ahora está asociado con el rol Financiero y podrá acceder a facturas, información sobre contratos, cobros y otra información financiera.
 

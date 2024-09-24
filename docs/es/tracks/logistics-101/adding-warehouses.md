@@ -29,7 +29,7 @@ Siga el siguiente procedimiento para registrar un inventario en su tienda:
 4. Rellene los campos del formulario de inventario. Para entender mejor el significado de cada campo, consulte abajo la sección [Campos de Registro](#campos-de-registro).
 5. Haga clic en el botón **Guardar**
 
-![ES Cadastrar Estoque GIF](https://images.ctfassets.net/alneenqid6w5/29hDNueQOJgRlg6rLIk8T5/ee2fba7fcb9da60690df299825e0cdef/ES_Cadastrar_Estoque_GIF.gif)
+![ES Cadastrar Estoque GIF](//images.ctfassets.net/alneenqid6w5/29hDNueQOJgRlg6rLIk8T5/ee2fba7fcb9da60690df299825e0cdef/ES_Cadastrar_Estoque_GIF.gif)
 
 ### Campos de registro
 

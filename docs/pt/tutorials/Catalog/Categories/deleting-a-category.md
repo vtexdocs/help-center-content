@@ -26,7 +26,7 @@ Para que uma categoria não apareça para os clientes da loja, você pode torná
 3. Clique na categoria que você deseja inativar.
 4. Clique no botão `Ações`.
 5. Clique em `Alterar`.
-6. Desmarcar o campo __Ativo | Categoria está ativa no site__, conforme a imagem abaixo: ![img inativarcategoria PT](https://images.ctfassets.net/alneenqid6w5/6SzDebwe2AzOlz9PjlaHNP/c13fcfdbd38d3355b8541fff3f215890/img_inativarcategoria_PT.png)
+6. Desmarcar o campo __Ativo | Categoria está ativa no site__, conforme a imagem abaixo: ![img inativarcategoria PT](//images.ctfassets.net/alneenqid6w5/6SzDebwe2AzOlz9PjlaHNP/c13fcfdbd38d3355b8541fff3f215890/img_inativarcategoria_PT.png)
 7. Clique em `Salvar`.
 
 ## Apagar todas as categorias

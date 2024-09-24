@@ -20,7 +20,7 @@ internalReference:
 
 El campo NIF (documento) del checkout de Portugal (IU) está permitiendo introducir caracteres especiales en sus valores. Sin embargo, los pedidos que se cierran con caracteres especiales quedan bloqueados con error en el OMS.
 
-![OMS](https://images.ctfassets.net/alneenqid6w5/19LgQNhPlIIAoA62k06ac2/2b394138cd21e4ad76c21e0ea871417f/OMS.png)
+![OMS](//images.ctfassets.net/alneenqid6w5/19LgQNhPlIIAoA62k06ac2/2b394138cd21e4ad76c21e0ea871417f/OMS.png)
 
 ## Simulación
 

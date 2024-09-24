@@ -27,7 +27,7 @@ The new [Coupons](https://help.vtex.com/en/tutorial/cupons-beta--1aAEN3ADpz19ss5
 
 The new [coupon list](https://help.vtex.com/en/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ) shows all the existing coupons in your store. This allows you to manage coupon data and analyze in which orders they were used.
 
-![listacupons en](https://images.ctfassets.net/alneenqid6w5/3EL3TmEa9iBuABSPWAkT0B/1cfe126f85df72b7c9e30f8e4cb85606/listacupons_en.gif)
+![listacupons en](//images.ctfassets.net/alneenqid6w5/3EL3TmEa9iBuABSPWAkT0B/1cfe126f85df72b7c9e30f8e4cb85606/listacupons_en.gif)
 
 ### Easier access to coupon codes
 
@@ -44,7 +44,7 @@ The new filters allow you to view coupons that meet specific criteria. The avail
 - Last modified
 - Coupon type
 
-![filtroscupons en](https://images.ctfassets.net/alneenqid6w5/5ImK8Og5MsOnruVxkwblJ6/b2abce2b73d9facd5edcf6f589dad039/filtroscupons_en.gif)
+![filtroscupons en](//images.ctfassets.net/alneenqid6w5/5ImK8Og5MsOnruVxkwblJ6/b2abce2b73d9facd5edcf6f589dad039/filtroscupons_en.gif)
 
 ### Coupon groups for agile management
 

@@ -60,7 +60,7 @@ Siga os passos abaixo:
 
 Com as chaves de autenticação disponíveis, é o momento de realizar a configuração do app Cybersource IO no Admin. 
 
-![Cybersource Admin settings PT](https://images.ctfassets.net/alneenqid6w5/53S98k6G5yOwOJrAO4ueiF/635fe1762fa5be2e9c6c118f5245cb39/Cybersource_Admin_settings_PT.JPG)
+![Cybersource Admin settings PT](//images.ctfassets.net/alneenqid6w5/53S98k6G5yOwOJrAO4ueiF/635fe1762fa5be2e9c6c118f5245cb39/Cybersource_Admin_settings_PT.JPG)
 
 Siga os passos abaixo para configurar o app Cybersource IO:
 
@@ -182,7 +182,7 @@ document.body.appendChild(noScript);
 
 Adicionalmente, você pode definir campos customizados que serão incluídos em pedidos encaminhados da VTEX para a Cybersource. 
 
-![Cybersource Admin merchant define fields PT](https://images.ctfassets.net/alneenqid6w5/5KPPO5k4to3sH9amCFyp7B/107a5ce54fb0f218e8bed5918499d9b4/Cybersource_Admin_merchant_define_fields_PT.JPG)
+![Cybersource Admin merchant define fields PT](//images.ctfassets.net/alneenqid6w5/5KPPO5k4to3sH9amCFyp7B/107a5ce54fb0f218e8bed5918499d9b4/Cybersource_Admin_merchant_define_fields_PT.JPG)
 
 Veja abaixo como criar estes campos:
 

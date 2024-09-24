@@ -18,7 +18,7 @@ Ao comprar roupas ou calçados on-line, muitos usuários costumam ter dúvidas s
 
 O guia de tamanhos do Mercado Livre é uma tabela de medidas ou equivalências que permite aos usuários visualizar as medidas exatas para que possam escolher o produto que melhor se adaptem. 
 
-![MLB tamanos1](https://images.ctfassets.net/alneenqid6w5/3kHkmPhrh50s9QhJQurtcD/f4ca7decdd70609953dbd842b55c24f7/MLB_tamanos1.gif)
+![MLB tamanos1](//images.ctfassets.net/alneenqid6w5/3kHkmPhrh50s9QhJQurtcD/f4ca7decdd70609953dbd842b55c24f7/MLB_tamanos1.gif)
 
 ## Entendendo o guia de tamanhos
 
@@ -46,7 +46,7 @@ Feita a escolha das categorias, preencha a coluna `CategoryID` com o ID da Categ
 
 Na segunda etapa do preenchimento escolha os nomes que deseja dar para as suas tabelas. Você deve definir um nome para cada tabela que será criada. É possível vincular a mesma tabela a várias categorias. A imagem abaixo ilustra como este nome aparece na criação manual no Mercado Livre - neste caso, a tabela seria Camisetas esportivas.
 
-![Screen Shot 2020-10-06 at 12.07.57](https://images.ctfassets.net/alneenqid6w5/1gGCEZMpgye7A26vQF2faX/61530c84cd32534c8ec26f92a19bde52/Screen_Shot_2020-10-06_at_12.07.57.png)
+![Screen Shot 2020-10-06 at 12.07.57](//images.ctfassets.net/alneenqid6w5/1gGCEZMpgye7A26vQF2faX/61530c84cd32534c8ec26f92a19bde52/Screen_Shot_2020-10-06_at_12.07.57.png)
 
 Feita a escolha das tabelas, preencha a coluna `TableName` com o nome do guia de tamanhos que será usado para cada categoria.
 
@@ -54,7 +54,7 @@ Feita a escolha das tabelas, preencha a coluna `TableName` com o nome do guia de
 
 Na terceira etapa do preenchimento escolha o nome que desejar dar para os tamanhos da sua tabela. A imagem abaixo ilustra como estes tamanhos aparecem na criação manual no Mercado Livre - neste caso, os tamanhos seriam P e M.
 
-![Screen Shot 2020-10-06 at 12.08.39](https://images.ctfassets.net/alneenqid6w5/6KvJFDknNoKqgL32Rs9R58/9f29afbc7690b6e67bde3201e88112b0/Screen_Shot_2020-10-06_at_12.08.39.png)
+![Screen Shot 2020-10-06 at 12.08.39](//images.ctfassets.net/alneenqid6w5/6KvJFDknNoKqgL32Rs9R58/9f29afbc7690b6e67bde3201e88112b0/Screen_Shot_2020-10-06_at_12.08.39.png)
 
 Feita a escolha das tabelas, preencha a coluna `SizeName` com o nome dos tamanhos que serão usados para cada guia de tamanhos. 
 
@@ -62,7 +62,7 @@ Feita a escolha das tabelas, preencha a coluna `SizeName` com o nome dos tamanho
 
 Na quarta etapa do preenchimento é definir as colunas que gostaria de incluir no guia de tamanhos.  A imagem abaixo ilustra como estes tamanhos aparecem na criação manual no Mercado Livre - note que é possível vincular até 5 colunas por tabela.
 
-![Screen Shot 2020-10-06 at 12.07.49](https://images.ctfassets.net/alneenqid6w5/190jdCD4Tgmp6xGfLm0nlT/c387fda654105b81532fcc79e64087da/Screen_Shot_2020-10-06_at_12.07.49.png)
+![Screen Shot 2020-10-06 at 12.07.49](//images.ctfassets.net/alneenqid6w5/190jdCD4Tgmp6xGfLm0nlT/c387fda654105b81532fcc79e64087da/Screen_Shot_2020-10-06_at_12.07.49.png)
 
 Na planilha de mapeamento, é necessário utilizar códigos específicos para indicar as colunas que devem ser incluídas no Guia de Tamanhos:
 
@@ -185,4 +185,4 @@ Agora, é necessário acessar sua conta do Mercado Livre para ativar o guia de t
 6. Na opção Guia de Tamanhos, selecione a tabela que você criou.
 7. Clique em **Confirmar**.
 
-![Início (2)](https://images.ctfassets.net/alneenqid6w5/4hTDDEGYuZscACtdLiYNhW/d8781adfeab2a6c7326fba9aed7aa52b/Mercado_Livre_Brasil.gif)
+![Início (2)](//images.ctfassets.net/alneenqid6w5/4hTDDEGYuZscACtdLiYNhW/d8781adfeab2a6c7326fba9aed7aa52b/Mercado_Livre_Brasil.gif)

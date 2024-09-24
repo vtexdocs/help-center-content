@@ -24,7 +24,7 @@ El primer contacto entre el vendedor de la tienda física y el inStore se produc
 
 Aquí, se debe utilizar el correo electrónico y la contraseña creados para el vendedor en el paso de [Configuración Básica](https://help.vtex.com/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO). Recuerde que no está permitido usar correos electrónicos que ya tengan acceso al panel administrativo de las tiendas VTEX.
 
-![31. inStore - Product Overview - 1 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/35HU0Wz5eJp53X7JSebBgx/608f3fa8cef774bee9106a997de71567/31._inStore_-_Product_Overview_-_1_-_EN.png_h_250)
+![31. inStore - Product Overview - 1 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/35HU0Wz5eJp53X7JSebBgx/608f3fa8cef774bee9106a997de71567/31._inStore_-_Product_Overview_-_1_-_EN.png_h_250)
 
 Al iniciar sesión, el vendedor accede al inStore específico de una cuenta VTEX. Aunque no es un escenario común, el mismo vendedor puede estar vinculado a más de una cuenta. Si necesita cambiar de cuenta, simplemente cierre sesión y, en la pantalla de inicio de sesión, haga clic en __Cambiar tienda__.
 
@@ -46,7 +46,7 @@ Usted puede [configurar qué métodos de identificación desea habilitar](https:
 
 En el ejemplo de la imagen a continuación, E-mail y CPF están habilitados.
 
-![31. inStore - Product Overview - 2 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/f15d5d5556b31f7ce78eb3d77994c722/31._inStore_-_Product_Overview_-_2_-_EN.png_h_250)
+![31. inStore - Product Overview - 2 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/f15d5d5556b31f7ce78eb3d77994c722/31._inStore_-_Product_Overview_-_2_-_EN.png_h_250)
 
 Ingrese uno de estos datos en el campo y haga clic en el botón __Confirmar__.
 
@@ -58,11 +58,11 @@ Alternativamente, si ha habilitado Usuario anónimo, es posible continuar sin id
 
 La barra superior de la aplicación de inStore ofrece algunas opciones utilizadas frecuentemente por el vendedor. Una de ellas es la búsqueda de SKU, disponible en la esquina superior derecha.
 
-![31. inStore - Product Overview - 3 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/5zBP54Dt2s7P6514vC1K8z/f0680a6383e525a329089eb247501d4d/31._inStore_-_Product_Overview_-_3_-_EN.png_h_250)
+![31. inStore - Product Overview - 3 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/5zBP54Dt2s7P6514vC1K8z/f0680a6383e525a329089eb247501d4d/31._inStore_-_Product_Overview_-_3_-_EN.png_h_250)
 
 La búsqueda de inStore es omnicanal. Es decir, cuando realiza una búsqueda en la aplicación, el vendedor busca tanto en el stock local (de la tienda física en sí) como en el catálogo de otras tiendas físicas y del e-commerce.
 
-![31. inStore - Product Overview - 4 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/5jBZMQOVW1n0ObtiwMYDtV/37bc53a81fea4d2db3cc61e5ccc0dd51/31._inStore_-_Product_Overview_-_4_-_EN.png_h_250)
+![31. inStore - Product Overview - 4 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/5jBZMQOVW1n0ObtiwMYDtV/37bc53a81fea4d2db3cc61e5ccc0dd51/31._inStore_-_Product_Overview_-_4_-_EN.png_h_250)
 
 Las opciones de disponibilidad de entrega y recogida se mostrarán más adelante, en la etapa de entrega.
 
@@ -70,11 +70,11 @@ Las opciones de disponibilidad de entrega y recogida se mostrarán más adelante
 
 Después de identificar al cliente, el vendedor es llevado directamente al carrito. Allí, si está utilizando la versión para computadora de inStore, conectada a un lector de código de barras, simplemente lea los productos para que aparezcan en el carrito.
 
-![31. inStore - Product Overview - 5 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/5QbuILII93SyE4j7ovXed5/0390993518b96fb07f68c19345470413/31._inStore_-_Product_Overview_-_5_-_EN.png_h_250)
+![31. inStore - Product Overview - 5 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/5QbuILII93SyE4j7ovXed5/0390993518b96fb07f68c19345470413/31._inStore_-_Product_Overview_-_5_-_EN.png_h_250)
 
 Si el vendedor está usando un tablet o smartphone, verá un botón de lectura de código de barras en la barra superior de la aplicación.
 
-![31. inStore - Product Overview - 6 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/4yAzpm3JHk9Ksjku7FbVcO/b1b41cfb9a3cfb9266383011e793c175/31._inStore_-_Product_Overview_-_6_-_EN.png_h_250)
+![31. inStore - Product Overview - 6 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/4yAzpm3JHk9Ksjku7FbVcO/b1b41cfb9a3cfb9266383011e793c175/31._inStore_-_Product_Overview_-_6_-_EN.png_h_250)
 
 Al hacer clic en él, el vendedor puede usar la cámara para emitir leer un producto y, con eso, pasar automáticamente a la pantalla de detalles de ese producto.
 
@@ -117,7 +117,7 @@ Es bueno recordar que toda esta información se refiere no solo a la experiencia
 
 Al hacer clic en los detalles de un producto que aparece en los resultados de búsqueda de inStore, o al leer el código de un producto, el vendedor se dirige a la pantalla de detalles del producto.
 
-![31. inStore - Product Overview - 7 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/fSLOfLn7bnpFyAfujZ8GN/52e0133e7222676d105e4444ce83ea96/31._inStore_-_Product_Overview_-_7_-_EN.png_h_250)
+![31. inStore - Product Overview - 7 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/fSLOfLn7bnpFyAfujZ8GN/52e0133e7222676d105e4444ce83ea96/31._inStore_-_Product_Overview_-_7_-_EN.png_h_250)
 
 Esta pantalla muestra el nombre del producto, su galería de fotos, variaciones, descripción y disponibilidad. El vendedor puede, en esta pantalla, agregar el producto al carrito.
 
@@ -135,7 +135,7 @@ InStore permite [habilitar una funcionalidad de transferencia de carrito](https:
 
 Una vez en un carrito, el vendedor tiene acceso al botón __Transferir__. Al hacer clic en este botón, la aplicación muestra un código QR y un código numérico de cuatro dígitos.
 
-![31. inStore - Product Overview - 8 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/4DIaRH9gE7NVSsFMQINg4x/2531727e3528f275e02919c9939c5c09/31._inStore_-_Product_Overview_-_8_-_EN.png_h_250)
+![31. inStore - Product Overview - 8 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/4DIaRH9gE7NVSsFMQINg4x/2531727e3528f275e02919c9939c5c09/31._inStore_-_Product_Overview_-_8_-_EN.png_h_250)
 
 Otro vendedor vinculado a la misma tienda puede capturar ese carrito y continuar la venta desde su dispositivo.
 
@@ -153,21 +153,21 @@ La siguiente pantalla muestra las opciones de entrega. Como inStore tiene acceso
 
 El siguiente ejemplo muestra dos opciones: recibir todos los artículos en casa a través de una entrega económica o recogerlos en otra tienda física dentro de 5 días hábiles.
 
-![31. inStore - Product Overview - 10](https://images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/476f54c1dba26c76fc90a691f33baa0c/31._inStore_-_Product_Overview_-_10.png)
+![31. inStore - Product Overview - 10](//images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/476f54c1dba26c76fc90a691f33baa0c/31._inStore_-_Product_Overview_-_10.png)
 
 ### Puntos de recogida
 
 Para los puntos de recogida, el sistema selecciona las tiendas que tienen los SKUs en stock y muestra la tienda más cercana al código postal del cliente, como sugerencia. Si el vendedor quiere cambiar la tienda donde el cliente recogerá los productos, solo hay que hacer clic en el botón __Cambiar punto de recogida__.
 
-![31. inStore - Product Overview - 11](https://images.ctfassets.net/alneenqid6w5/2lmJceEfryZV6OBtgGc3Tq/167a7c3f169dab3ffbf49c30d670702e/31._inStore_-_Product_Overview_-_11.png)
+![31. inStore - Product Overview - 11](//images.ctfassets.net/alneenqid6w5/2lmJceEfryZV6OBtgGc3Tq/167a7c3f169dab3ffbf49c30d670702e/31._inStore_-_Product_Overview_-_11.png)
 
 Al hacer clic en ese botón, el vendedor primero tiene acceso al punto de recogida sugerido por el sistema. Para ver todos los puntos de recogida disponibles, hay que hacer clic en __Ver todos los puntos de recogida__.
 
-![31. inStore - Product Overview - 12](https://images.ctfassets.net/alneenqid6w5/1ZUGWgHe2jI2ROLpIZ1HnN/e6a59ee600f6ae05a2d3e2a27cc8501e/31._inStore_-_Product_Overview_-_12.png)
+![31. inStore - Product Overview - 12](//images.ctfassets.net/alneenqid6w5/1ZUGWgHe2jI2ROLpIZ1HnN/e6a59ee600f6ae05a2d3e2a27cc8501e/31._inStore_-_Product_Overview_-_12.png)
 
 La aplicación mostrará la lista de puntos de recogida ordenados por la distancia más corta desde el código postal del cliente. También es posible elegir el punto de recogida en el mapa.
 
-![31. inStore - Product Overview - 13](https://images.ctfassets.net/alneenqid6w5/uT46sKKgmyT4Lmh8usLO3/3aa559f183e4d5dda3254844aac2fd19/31._inStore_-_Product_Overview_-_13.png)
+![31. inStore - Product Overview - 13](//images.ctfassets.net/alneenqid6w5/uT46sKKgmyT4Lmh8usLO3/3aa559f183e4d5dda3254844aac2fd19/31._inStore_-_Product_Overview_-_13.png)
 
 ## 12. Pago
 
@@ -175,17 +175,17 @@ En el paso de pago, las [opciones de pago que se han configurado](https://help.v
 
 Una feature importante permitida por inStore son los pagos múltiples. Por ejemplo, al elegir Efectivo y luego hacer clic en __Agregar otro pago__, el vendedor puede cobrar parte del importe en efectivo y parte con tarjeta de crédito.
 
-![31. inStore - Product Overview - 14](https://images.ctfassets.net/alneenqid6w5/1Kka7eQvf03YXWR5DA2NEJ/6701ce986792dce02f88bfc4a18c0d9d/31._inStore_-_Product_Overview_-_14.png)
+![31. inStore - Product Overview - 14](//images.ctfassets.net/alneenqid6w5/1Kka7eQvf03YXWR5DA2NEJ/6701ce986792dce02f88bfc4a18c0d9d/31._inStore_-_Product_Overview_-_14.png)
 
 La barra superior de la pantalla de pago le permite agregar cupones y gift cards. También permite cambiar el número de identificación del cliente que aparecerá en la factura.
 
-![31. inStore - Product Overview - 15](https://images.ctfassets.net/alneenqid6w5/3CymGlJlWQ9I9w5tiheXQk/577fb68901d2e0a8b17ae11fb55ed98f/31._inStore_-_Product_Overview_-_15.png)
+![31. inStore - Product Overview - 15](//images.ctfassets.net/alneenqid6w5/3CymGlJlWQ9I9w5tiheXQk/577fb68901d2e0a8b17ae11fb55ed98f/31._inStore_-_Product_Overview_-_15.png)
 
 ## 13. Pedido completado
 
 El vendedor puede ver esta misma pantalla haciendo clic en __Pedidos completos__ en el menú principal de inStore, y buscando el pedido por número de pedido o cliente.
 
-![31. inStore - Product Overview - 16](https://images.ctfassets.net/alneenqid6w5/1WzildtkElOIkalZuY3hkI/3bda7ef00a309b1e57081ad805adb889/31._inStore_-_Product_Overview_-_16.png)
+![31. inStore - Product Overview - 16](//images.ctfassets.net/alneenqid6w5/1WzildtkElOIkalZuY3hkI/3bda7ef00a309b1e57081ad805adb889/31._inStore_-_Product_Overview_-_16.png)
 
 ## 14. Impresión de factura
 

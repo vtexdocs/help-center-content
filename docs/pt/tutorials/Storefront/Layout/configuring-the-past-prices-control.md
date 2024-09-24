@@ -33,7 +33,7 @@ Veja [aqui](http://help.vtex.com/tutorial/lista-de-controles-para-templates/ "aq
 
 O modo de exibição padrão dos valores segue o modelo da imagem abaixo. São exibidos em sequência o ano, o mês e o menor valor faturado neste mês.
 
-![HistPrecos](https://images.contentful.com/alneenqid6w5/2AX7uKU4zW66sA0AICcEM2/81042cedd7d0ef937b1c56a8878d8d0c/HistPrecos.png)
+![HistPrecos](//images.contentful.com/alneenqid6w5/2AX7uKU4zW66sA0AICcEM2/81042cedd7d0ef937b1c56a8878d8d0c/HistPrecos.png)
 
 Caso a loja deseje exibir os dados de outra forma, será necessário fazer a customização por meio de uma agência de layout.
 

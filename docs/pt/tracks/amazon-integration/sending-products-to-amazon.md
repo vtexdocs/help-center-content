@@ -3,8 +3,8 @@ title: 'Envio e mapeamento de categorias dos produtos para a Amazon'
 id: 5xklf2wSdeztQh4iy5kJvD
 status: PUBLISHED
 createdAt: 2019-02-28T23:12:40.204Z
-updatedAt: 2024-08-27T17:55:46.602Z
-publishedAt: 2024-08-27T17:55:46.602Z
+updatedAt: 2024-09-05T16:15:52.507Z
+publishedAt: 2024-09-05T16:15:52.507Z
 firstPublishedAt: 2019-02-28T23:13:35.624Z
 contentType: trackArticle
 productTeam: Channels
@@ -38,10 +38,10 @@ A lista de categorias da sua loja VTEX inclui o status de seu mapeamento por mei
 
 | **Ícone** | **Status** | **Descrição** |
 |:---:|:---:|:---:|
-| ![mapeado mapper](https://images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/43ace44c1e31c69157dc8ad5ec12529d/mapeado_mapper.jpg) | **Mapeado** | Indica que o mapeamento da categoria foi concluído. |
-| ![mapeamentoincompleto mapper](https://images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/3cc09ec0f77d42f3277dd90e2f3167f9/mapeamentoincompleto_mapper.jpg) | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. |
-| ![erromapeamento mapper](https://images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/136543f594ca05eec7be6bfc545cd10f/erromapeamento_mapper.jpg) | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto. Para solucionar esse problema basta refazer o mapeamento da categoria. |
-| ![não mapeado mapper](https://images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/79bf968ab2d73471ee6e96b41b6a75d9/incompleto_mapper.jpg) | **Não mapeado** | Indica que a categoria não foi mapeada. |  
+| ![mapeado mapper](//images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/43ace44c1e31c69157dc8ad5ec12529d/mapeado_mapper.jpg) | **Mapeado** | Indica que o mapeamento da categoria foi concluído. |
+| ![mapeamentoincompleto mapper](//images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/3cc09ec0f77d42f3277dd90e2f3167f9/mapeamentoincompleto_mapper.jpg) | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. |
+| ![erromapeamento mapper](//images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/136543f594ca05eec7be6bfc545cd10f/erromapeamento_mapper.jpg) | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto. Para solucionar esse problema basta refazer o mapeamento da categoria. |
+| ![não mapeado mapper](//images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/79bf968ab2d73471ee6e96b41b6a75d9/incompleto_mapper.jpg) | **Não mapeado** | Indica que a categoria não foi mapeada. |  
 
 Para realizar o mapeamento de categorias:  
 
@@ -50,7 +50,7 @@ Para realizar o mapeamento de categorias:
 3. Selecione a categoria correspondente na Amazon do produto que deseja enviar.  
 4. Faça a correspondência dos atributos na janela lateral, conforme imagem abaixo:  
 
-![Mapper Amazon Atributos](https://downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/7724063f4b499153958aadf44ee0a704/mapper_amazon_atributos.gif)
+![Mapper Amazon Atributos](//downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/7724063f4b499153958aadf44ee0a704/mapper_amazon_atributos.gif)
 
 5. Clique no botão __`Salvar Alterações`__.  
 
@@ -72,13 +72,13 @@ Para realizar o mapeamento via planilha o seller deve seguir os passos abaixo:
 
 A Amazon utiliza a [categoria global](https://help.vtex.com/pt/tutorial/configurando-a-categoria-global--tutorials_188) cadastrada na VTEX para fazer o mapeamento dos produtos, por isso, é importante que seja feita de maneira correta a equivalência entre a categoria global da VTEX e as categorias gerais na Amazon.
 
-Para conhecer as categorias aceitas pela Amazon é necessário fazer o download da [Planilha de categorias gerais da Amazon.xlsx](https://drive.google.com/uc?export=download&id=1GC5Guic4k_8C2ZnEGQUoDqT2cdJzp-Ti), essa planilha será utilizada somente para fins de consulta.
+Para conhecer as categorias aceitas pela Amazon é necessário fazer o download da [Planilha de categorias gerais da Amazon](//assets.ctfassets.net/alneenqid6w5/3hkQxrFAjCJ5qU5MdJyte6/adb5e058afd78b3d2331e8a5f972f7b6/Nomenclatura-Amazon-Cat-Global__1___1_.xlsx), essa planilha será utilizada somente para fins de consulta.
 
 #### 2. Planilha de atributos obrigatórios da Amazon
 
 A Amazon tem valores de referência para determinadas características de produtos que devem ser considerads no mapeamento dos produtos. 
 
-Para conhecer os valores aceitos pela Amazon de acordo com cada coluna da planilha de mapeamento, é necessário fazer download da [Planilha de atributos obrigatórios da Amazon.xlsx](https://drive.google.com/uc?export=download&id=1UkcrfPopMg-cnrSDOF0qt51NRIXgzi0r). Essa planilha será utilizada somente para fins de consulta.
+Para conhecer os valores aceitos pela Amazon de acordo com cada coluna da planilha de mapeamento, é necessário fazer download da [Planilha de atributos obrigatórios da Amazon](//assets.ctfassets.net/alneenqid6w5/2ScwSV0UILobt9eGaiZAvh/78e8aa16d768b0e7df168b50680ae85e/Atributos_Obrigat_rios_-_Todas_Categorias__ReHo__.xlsx). Essa planilha será utilizada somente para fins de consulta.
 
 Nesta planilha, cada aba corresponde a uma categoria global na Amazon. Ao clicar em uma aba, a planilha apresenta as subcategorias presentes dentro da categoria global selecionada.
 
@@ -114,13 +114,13 @@ Para configurar a categoria global no seu ambiente VTEX, a partir das categorias
 #### Exemplo de consulta das planilhas 
 
 Na Planilha de atributos obrigatórios da Amazon, iremos utilizar a categoria **Health** focando em produtos para saúde:
-![categoriageral01](https://images.contentful.com/alneenqid6w5/154htyPg3K3IZ6Wxej3kek/a446c9815c249dda3084aa1773b76b3a/categoriageral01.JPG)
+![categoriageral01](//images.contentful.com/alneenqid6w5/154htyPg3K3IZ6Wxej3kek/a446c9815c249dda3084aa1773b76b3a/categoriageral01.JPG)
 
 Na Planilha de categorias gerais da Amazon, filtre a coluna “I” Cat-Amazon-Geral, clicando em **Filtro > Health > OK**.
-![categoriageral02](https://images.contentful.com/alneenqid6w5/2PTS1fxztRjYHaAicwVH7W/f44b94c30ca7401ec08a19c467ee8912/categoriageral02.JPG)
+![categoriageral02](//images.contentful.com/alneenqid6w5/2PTS1fxztRjYHaAicwVH7W/f44b94c30ca7401ec08a19c467ee8912/categoriageral02.JPG)
 
 Seguindo o exemplo anterior, filtre as colunas B, C e D da árvore de **Saúde e beleza> Cuidados pessoais > Massagem e relaxamento**.
-![categoriageral03](https://images.contentful.com/alneenqid6w5/1p0cIHz7bp8HHuzud1H4zE/e79bf00cbe09f7b1fb155730cfc401f8/categoriageral03.JPG)
+![categoriageral03](//images.contentful.com/alneenqid6w5/1p0cIHz7bp8HHuzud1H4zE/e79bf00cbe09f7b1fb155730cfc401f8/categoriageral03.JPG)
 
 Agora que você encontrou a categoria geral da Amazon, volte ao Admin para [configurar a categoria global](https://help.vtex.com/pt/tutorial/configurando-a-categoria-global--tutorials_188) da VTEX de acordo com a categoria geral da Amazon.
 

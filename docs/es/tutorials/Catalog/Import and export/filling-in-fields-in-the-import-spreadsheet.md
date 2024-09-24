@@ -3,8 +3,8 @@ title: 'Rellenar campos de la planilla de importación de productos y SKUs'
 id: 4nYhx63Q5yokQWaMguaIgI
 status: PUBLISHED
 createdAt: 2018-02-06T20:09:19.608Z
-updatedAt: 2021-12-03T18:43:12.902Z
-publishedAt: 2021-12-03T18:43:12.902Z
+updatedAt: 2024-09-19T13:30:38.118Z
+publishedAt: 2024-09-19T13:30:38.118Z
 firstPublishedAt: 2018-02-06T20:23:29.492Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -80,7 +80,7 @@ __ShowOnSite:__ esta función activa o desactiva la visibilidad de un producto e
 
 __CaptionLink:__ campo utilizado para crear la URL del producto. Es recomendable es uso de la estructura sin acento y con palabras separadas por guion. Cada producto debe contener un _CaptionLink_ diferente. Campo obligatorio.
 
-__ProductDescription:__ descripción de las principales informaciones relacionadas con el producto. Un resumen sencillo y de fácil comprensión para el cliente. Si no se ha rellenado este campo, el sistema replicará el valor del campo _ProductName_ para completar el registro.
+__ProductDescription:__ descripción de las principales informaciones relacionadas con el producto. Un resumen sencillo y de fácil comprensión para el cliente.
 
 __ProductLaunchDate:__ campo utilizado para programar la fecha de activación de un producto, en formato _dd/mm/aaaa_.
 

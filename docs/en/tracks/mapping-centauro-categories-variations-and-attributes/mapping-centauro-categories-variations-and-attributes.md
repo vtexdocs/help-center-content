@@ -3,8 +3,8 @@ title: 'Mapping Centauro categories, variations and attributes'
 id: 5Lc42XVVABaidvEjm4Ki9
 status: PUBLISHED
 createdAt: 2020-10-20T19:20:09.544Z
-updatedAt: 2021-06-02T21:05:04.647Z
-publishedAt: 2021-06-02T21:05:04.647Z
+updatedAt: 2024-09-05T15:21:38.280Z
+publishedAt: 2024-09-05T15:21:38.280Z
 firstPublishedAt: 2020-10-20T19:53:25.808Z
 contentType: trackArticle
 productTeam: Channels

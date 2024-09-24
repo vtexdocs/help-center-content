@@ -3,8 +3,8 @@ title: 'Programación de precios'
 id: 4vVha6TGzYkguWuMOqCcCk
 status: PUBLISHED
 createdAt: 2017-12-27T16:18:43.304Z
-updatedAt: 2023-06-02T20:58:08.343Z
-publishedAt: 2023-06-02T20:58:08.343Z
+updatedAt: 2024-09-06T19:59:43.713Z
+publishedAt: 2024-09-06T19:59:43.713Z
 firstPublishedAt: 2018-01-04T15:12:09.343Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -54,9 +54,9 @@ Para hacer la programación por el Admin, siga los pasos a continuación.
 
 También puede hacer la programación de precios importando una plantilla de precios fijos. Para ello, siga los pasos a continuación.
 
-1. En el Admin VTEX, accede a *Precios > Lista de precios* , o escribe *Lista de precios* en la barra de búsqueda en la parte superior de la página.
+1. En el Admin VTEX, accede a **Precios > Lista de precios** , o escribe **Lista de precios** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en el ícono 📥 para exportar la plantilla que se rellenará.
-![Agendar preço fixo - ES](https://images.contentful.com/alneenqid6w5/71nENEY0RAQO9VKRdlQRiG/815eca5b71065052b89c8411af1a7329/image.png)
+![Agendar preço fixo - ES](//images.contentful.com/alneenqid6w5/71nENEY0RAQO9VKRdlQRiG/815eca5b71065052b89c8411af1a7329/image.png)
 3. Seleccione solo la opción **Tabla de precios fijos**.
 4. Haga clic en `Exportar 1 tabla`.
 
@@ -70,7 +70,9 @@ La plantilla se enviará a su email y podrá descargarla allí. Después de desc
 - **Date From:** la fecha y la hora de inicio, en formato [RFC3339](https://www.ietf.org/rfc/rfc3339.txt), de la programación del precio fijo. 
 - **Date To:** la fecha y la hora de término, en formato [RFC3339](https://www.ietf.org/rfc/rfc3339.txt), de la programación del precio fijo. 
 
-![Agendar preço fixo planilha PT](https://images.contentful.com/alneenqid6w5/7g3wkpsDPcdjYHT2xSqGhS/1895766def1ed02971f47f003d115491/Screenshot_2021-08-05_at_17-17-11_-EDU-4229-_Agendar_pre__o_fixo.png)
+>ℹ️ Los campos **Date From** y **Date To** siguen el formato [RFC3339](https://www.ietf.org/rfc/rfc3339.txt" target="_blank), que incluye la zona horaria. Por ejemplo, si una promoción comienza o termina a las 22:00 horas el 30 de diciembre de 2024, en Argentina (zona horaria GMT-3), el valor que debe ingresarse será: `2024-12-30T22:00:00-03:00`. Si no se especifica la zona horaria, el sistema asumirá UTC. Para indicar un precio válido a partir de la medianoche (00:00) UTC del mismo día, el campo debe contener: `2024-12-30T00:00:00Z`.
+
+![Agendar preço fixo planilha PT](//images.contentful.com/alneenqid6w5/7g3wkpsDPcdjYHT2xSqGhS/1895766def1ed02971f47f003d115491/Screenshot_2021-08-05_at_17-17-11_-EDU-4229-_Agendar_pre__o_fixo.png)
 
 Una vez que haya terminado de rellenar la plantilla, debe importarla a la tienda. Siga los pasos a continuación.
 

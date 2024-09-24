@@ -17,7 +17,7 @@ announcementSynopsisES: 'Mantente informado sobre las etapas de publicación de 
 
 Headless CMS ofrece ahora una funcionalidad de notificaciones que te mantiene informado durante cada etapa del proceso de publicación. Las nuevas notificaciones proporcionan actualizaciones sobre cada etapa de las publicaciones en el VTEX Headless CMS, manteniendo a los usuarios informados acerca de las fases de compilación (build) de las publicaciones en Releases, VTEX Headless CMS y FastStore. 
 
-![Headless CMS - Notificaciones](https://images.ctfassets.net/alneenqid6w5/3snUhFhKzrzE71wg5GJRws/1da7e60b1ebb7b74b67140a0832581a4/headless-cms-publish-es.gif)
+![Headless CMS - Notificaciones](//images.ctfassets.net/alneenqid6w5/3snUhFhKzrzE71wg5GJRws/1da7e60b1ebb7b74b67140a0832581a4/headless-cms-publish-es.gif)
 
 Esta funcionalidad también te ayuda a identificar y notificar errores durante el deploy, indicando la etapa exacta en la que se produjo el error. También ofrece la opción de reintentar los deploys si es necesario.
 
@@ -35,7 +35,7 @@ Con la funcionalidad de notificaciones, ahora puedes mantenerte informado sobre 
 
 Si se produce un error durante el deploy, el mensaje de la notificación indicará en qué etapa ocurrió. Puedes hacer clic en `Reintentar` para repetir el deploy.
 
-![Headless CMS - Novo deploy](https://images.ctfassets.net/alneenqid6w5/wxnKpmFM0GRlSAB7uboMK/5f9ba3184bd15234a1a4a0d4a09a78c3/headless-cms-redeploy-es.gif)
+![Headless CMS - Novo deploy](//images.ctfassets.net/alneenqid6w5/wxnKpmFM0GRlSAB7uboMK/5f9ba3184bd15234a1a4a0d4a09a78c3/headless-cms-redeploy-es.gif)
 
 ## ¿Por qué realizamos este cambio?
 La funcionalidad de notificaciones te da más autonomía para comprender y abordar los problemas relacionados con las publicaciones de tu tienda, permitiendo identificar e informar con precisión los problemas y reintentar el proceso de publicación.

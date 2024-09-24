@@ -31,7 +31,7 @@ Para se abrir uma disputa, o lojista deve enviar um email com o assunto Defesa D
 
 Os documentos devem ser enviados compilados em um único arquivo PDF, com no máximo 10 páginas e 7MB, com largura máxima de 21,59 cm e altura máxima de 27,59 cm. O nome do arquivo deve ser obrigatoriamente o ID da **Autorização da Transação (authld)**, como está no Admin da VTEX. A foto abaixo ilustra onde esse campo pode ser encontrado.
 
-![Transação disputa VTEX Payment PT](https://images.contentful.com/alneenqid6w5/6Ll2HqxD17m89Vq3mZcazq/36fbb81cff88c9e83ae399902ebada74/image1.png)
+![Transação disputa VTEX Payment PT](//images.contentful.com/alneenqid6w5/6Ll2HqxD17m89Vq3mZcazq/36fbb81cff88c9e83ae399902ebada74/image1.png)
 
 Caso haja algum problema no formato dos arquivos ou nos dados enviados, o lojista receberá um email automático, indicando que o email está fora dos padrões, possibilitando que o ele reenvie a documentação de maneira correta. Se os documentos estiverem corretos, serão enviados imediatamente para a adquirente. Caso a documentação já esteja correta, o envio é automático e não há retorno para o lojista de que o envio para a adquirente foi realizado.
 

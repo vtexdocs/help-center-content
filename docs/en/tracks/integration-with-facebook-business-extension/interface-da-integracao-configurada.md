@@ -3,8 +3,8 @@ title: 'Interface of the configured integration'
 id: DmcxFAdyCC7t0a72hIXeT
 status: PUBLISHED
 createdAt: 2021-09-30T16:44:47.202Z
-updatedAt: 2021-10-04T17:47:07.516Z
-publishedAt: 2021-10-04T17:47:07.516Z
+updatedAt: 2024-09-05T15:27:53.730Z
+publishedAt: 2024-09-05T15:27:53.730Z
 firstPublishedAt: 2021-09-30T18:49:28.436Z
 contentType: trackArticle
 productTeam: Channels
@@ -18,7 +18,7 @@ Once the integration with the _Facebook Business Extension and Conversions API_ 
 
 In this interface, there are three main sections: [Status](#status), [Features](#features), and [Catalog](#catalog).
 
-![print_interface_en](https://drive.google.com/uc?export=download&id=12pV_a7zbBuSxsKAtCNRr-ABLyUqIIiDz)
+![Facebook business Extension](//images.ctfassets.net/alneenqid6w5/0FVc54WxGh3BorDpQkkzI/c8f361520bb7cc8b7678de112ad67b1d/print_interface_en.png)
 
 ## Status
 

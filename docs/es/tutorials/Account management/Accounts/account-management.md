@@ -78,7 +78,7 @@ Después que un usuario llena y guarda **Nombre** e **E-mail**, en los campos de
 
 >ℹ️ La plantilla para este correo electrónico automático se puede cambiar en el [Centro de mensajes](https://help.vtex.com/es/tutorial/understanding-the-message-center--tutorials_84) modificando la plantilla de <i>registro de cuenta</i>.
 
-![registro de cuenta](https://images.ctfassets.net/alneenqid6w5/7uIJliLTJ6wEMeeoqiSMQ/6c37511bd70d8035b11e18abc99b36d0/registro_de_cuenta.jpg)
+![registro de cuenta](//images.ctfassets.net/alneenqid6w5/7uIJliLTJ6wEMeeoqiSMQ/6c37511bd70d8035b11e18abc99b36d0/registro_de_cuenta.jpg)
 
 ## Seguridad
 

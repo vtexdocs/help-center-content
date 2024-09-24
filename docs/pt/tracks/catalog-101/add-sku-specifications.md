@@ -33,7 +33,7 @@ Para cadastrar as especificações sua loja precisa ter departamentos, categoria
  7. Preencha os campos do formulário de especificações. No caso dos SKUs,  a flag de campo obrigatório sempre está selecionada por default. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [como preencher campos de especificações de SKU](https://help.vtex.com/pt/tutorial/criando-campo-de-sku--tutorials_119)
  8.  Clique em **Salvar**
 
-![1.PT](https://images.ctfassets.net/alneenqid6w5/5b2UFRxvAQ6BoL6eStxf0D/fa7b4836240b18cd3d941f6260b512b8/1.PT.gif)
+![1.PT](//images.ctfassets.net/alneenqid6w5/5b2UFRxvAQ6BoL6eStxf0D/fa7b4836240b18cd3d941f6260b512b8/1.PT.gif)
 
 Para adicionar valores à especificação de SKU, siga os passos abaixo:
 
@@ -47,7 +47,7 @@ Para adicionar valores à especificação de SKU, siga os passos abaixo:
  8. Clique em **Novo Valor**
  9. Escreva o **Nome** do valor desejado e clique em **Salvar**
 
-![2.PT](https://images.ctfassets.net/alneenqid6w5/5MwO6aTSuIzCbxlrnzjTHQ/8f8ee16b8a59dd7be5e5b77f358fba0c/2.PT.gif)
+![2.PT](//images.ctfassets.net/alneenqid6w5/5MwO6aTSuIzCbxlrnzjTHQ/8f8ee16b8a59dd7be5e5b77f358fba0c/2.PT.gif)
 
 ### Vincular as especificações a um SKU
 
@@ -63,7 +63,7 @@ Para incluir as especificações em um **SKU** siga os seguintes passos:
  6. Clique na aba **Especificações** e escolha o valor da especificação para esse SKU
  7. Clique em **Salvar**
 
-![3.PT](https://images.ctfassets.net/alneenqid6w5/6mV0lyVG6Z2ywmtNheePEf/f1a986c79116835f7abb23853b51278e/3.PT.gif)
+![3.PT](//images.ctfassets.net/alneenqid6w5/6mV0lyVG6Z2ywmtNheePEf/f1a986c79116835f7abb23853b51278e/3.PT.gif)
 
 ## Planilha 
 
@@ -92,7 +92,7 @@ Depois de preencher os dados da planilha, siga o passo a passo para Importar sua
 5. Clique em **Select** para selecionar a planilha preenchida
 6.  Clique em **Importar**
 
-![4.PT](https://images.ctfassets.net/alneenqid6w5/6apU0Qp7SqnH6ZfPT5lzrr/39b16e05c0e7f952fed25892902da30e/4.PT.gif)
+![4.PT](//images.ctfassets.net/alneenqid6w5/6apU0Qp7SqnH6ZfPT5lzrr/39b16e05c0e7f952fed25892902da30e/4.PT.gif)
 
 ## API 
 

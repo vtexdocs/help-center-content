@@ -24,7 +24,7 @@ A partir da página de perfis de acesso, você pode realizar as seguintes açõe
 * [Editar um perfil de acesso](#editar-um-perfil-de-acesso)
 * [Excluir um perfil de acesso](#excluir-um-perfil-de-acesso)
 
-![roles-pt](https://images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/943f5df380f3fb685bb369014b435454/roles-pt.png)
+![roles-pt](//images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/943f5df380f3fb685bb369014b435454/roles-pt.png)
 
 A página apresenta uma lista com todos os perfis de acesso cadastrados na conta e suas respectivas informações em uma tabela: 
 

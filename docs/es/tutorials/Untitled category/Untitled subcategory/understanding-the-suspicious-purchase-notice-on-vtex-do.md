@@ -27,7 +27,7 @@ Cuando el SherlockBOT identifica un pedido cerrado de manera que puede indicar a
 
 Vea un ejemplo de esa alerta en el screenshot a continuación:
 
-![sherlock (1)](https://images.contentful.com/alneenqid6w5/6CsvYu9nfG0E4QowAEu86/c69b772065781ddc98bc85eeee37ef01/sherlock-1.png)
+![sherlock (1)](//images.contentful.com/alneenqid6w5/6CsvYu9nfG0E4QowAEu86/c69b772065781ddc98bc85eeee37ef01/sherlock-1.png)
 
 El comerciante puede aún ser incluido en las barreras de seguridad del Gateway, o sea, VTEX puede aplicar a su tienda unas reglas de protección contra pruebas de tarjeta de crédito. 
 

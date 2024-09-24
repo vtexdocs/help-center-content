@@ -1,10 +1,10 @@
 ---
 title: 'Redirects'
 id: 7x52Q9iHzGmFDLyyVOIcz6
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2019-11-22T20:53:27.423Z
-updatedAt: 2023-04-13T22:47:01.871Z
-publishedAt: 2023-04-13T22:47:01.871Z
+updatedAt: 2024-09-06T20:13:58.054Z
+publishedAt: 
 firstPublishedAt: 2019-11-25T17:28:09.193Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising

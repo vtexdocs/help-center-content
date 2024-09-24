@@ -17,7 +17,7 @@ subcategoryId: 5gtjaqCG7eIseyCI0aSqc2
 
 La siguiente imagen muestra el flujo para guardar documentos en Master Data. Vamos a explicar cada paso.
 
-![Save flow](https://images.contentful.com/alneenqid6w5/5klqkN1OEwMEq0aEQeMyIY/2ba2b7cc8e29a5ee0baad8be92aeef9a/MDSaveDiagram.png)
+![Save flow](//images.contentful.com/alneenqid6w5/5klqkN1OEwMEq0aEQeMyIY/2ba2b7cc8e29a5ee0baad8be92aeef9a/MDSaveDiagram.png)
 
 #### Guardar llamada de API
 Ocurre cuando el usuario llama a la API para guardar documentos (POST, PUT o PATCH).

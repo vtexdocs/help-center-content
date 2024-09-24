@@ -48,4 +48,4 @@ Neste caso, ao comparar o peso real com o peso cubado do pacote, a transportador
 
 Ao realizar o cadastro da sua transportadora, esse é o valor que você deve preencher no campo Fator Cúbico de Peso.
 
-![PesoCubado](https://images.contentful.com/alneenqid6w5/ZzHF9fwwec6c6m2AiyYGS/37343a8bb4858cdf296f5a3c450567f3/PesoCubado.png)
+![PesoCubado](//images.contentful.com/alneenqid6w5/ZzHF9fwwec6c6m2AiyYGS/37343a8bb4858cdf296f5a3c450567f3/PesoCubado.png)

@@ -33,7 +33,7 @@ Por eso creamos el Credit Control - para que el control de crédito sea hecho de
 
 ## Como funciona
 
-![Credit Control basic flow](https://images.contentful.com/alneenqid6w5/35jUk6EVksKUQi8EaU6caO/2f8f3ddb5ead2d2c9379fc340fb070f9/credit-control-flow_en.gif)
+![Credit Control basic flow](//images.contentful.com/alneenqid6w5/35jUk6EVksKUQi8EaU6caO/2f8f3ddb5ead2d2c9379fc340fb070f9/credit-control-flow_en.gif)
 *Flujo básico de cómo funciona el Credit Control en las tiendas VTEX.*
 
 1. La tienda enciende el conector de control de crédito y realiza las configuraciones iniciales.

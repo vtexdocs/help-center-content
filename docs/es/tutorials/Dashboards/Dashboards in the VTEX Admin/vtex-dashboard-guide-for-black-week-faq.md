@@ -34,7 +34,7 @@ A continuación puedes consultar algunos consejos para aprovechar al máximo est
 
 Empieza ajustando la zona horaria deseada y selecciona la tienda que deseas monitorear en Vista general en tiempo real.  
 
-![zona-horaria-es](https://images.ctfassets.net/alneenqid6w5/7sfMnNC4GYLOU0tiiunxvR/7d760ad2226fec81b75c0e524b6a8220/zona-horaria-es.png)
+![zona-horaria-es](//images.ctfassets.net/alneenqid6w5/7sfMnNC4GYLOU0tiiunxvR/7d760ad2226fec81b75c0e524b6a8220/zona-horaria-es.png)
 
 ### Filtro de referencia  
 
@@ -51,26 +51,26 @@ Para configurar la referencia sigue los pasos a continuación:
 >
 > Esta opción está dirigida a clientes que utilizaron el Admin VTEX durante ese periodo el año pasado.</br>  
 
-![referencia-es](https://images.ctfassets.net/alneenqid6w5/1ba2BbD9ANCJfHj5o4jwQC/4466f9301343f19f0ff79d89f5c44821/referencia-es.png)  
+![referencia-es](//images.ctfassets.net/alneenqid6w5/1ba2BbD9ANCJfHj5o4jwQC/4466f9301343f19f0ff79d89f5c44821/referencia-es.png)  
 
 ### Filtro de vista  
 
 - **Realiza un seguimiento del desempeño del día con la Vista Acumulado:** esta vista muestra el monitoreo del desempeño de ventas de tu tienda online minuto a minuto, proporcionando insights para ajustes rápidos en la operación.  
 Para seleccionar el modo **Acumulado** en el dashboard, haz clic en **Vista<i class="fas fa-angle-down"></i> > Acumulado.**   
 
-![acumulado-es](https://images.ctfassets.net/alneenqid6w5/12S4L4jhi6FwkoW3TsNnAP/754d3fdb3071c9daef2acd282b8d3733/acumulado-es.png)  
+![acumulado-es](//images.ctfassets.net/alneenqid6w5/12S4L4jhi6FwkoW3TsNnAP/754d3fdb3071c9daef2acd282b8d3733/acumulado-es.png)  
 
 - **Monitorea el desempeño de las últimas horas:** la **vista Últimas 2 horas** presenta las métricas minuto a minuto, importante para garantizar la estabilidad operacional de tu tienda durante el evento.  
 Para seleccionar el modo **Últimas 2 Horas** en el dashboard, haz clic en **Vista<i class="fas fa-angle-down"></i> > Últimas 2 horas.**
 
-![horas-es](https://images.ctfassets.net/alneenqid6w5/7lFOUhQFyRgGFjooVOuvDy/368a2857ec9b9636011031ae989f8bb9/horas-es.png)  
+![horas-es](//images.ctfassets.net/alneenqid6w5/7lFOUhQFyRgGFjooVOuvDy/368a2857ec9b9636011031ae989f8bb9/horas-es.png)  
 
 ### Métricas  
 
 La **Vista general en tiempo real** otorga insights importantes sobre tu estrategia de ventas. Por ejemplo, puedes utilizar los datos presentes en Productos más vendidos como referencia para impulsar campañas y potenciar aún más tus resultados.  
 Para consultar los productos más vendidos, en la sección **Métricas**  haz clic en  <i class="fas fa-ellipsis-v"></i> y selecciona **Productos más vendidos.**  
 
-![mas-vendidos-es](https://images.ctfassets.net/alneenqid6w5/1sooXuFeV0NyhByWoLegHb/22b06efc2dd15dded404a1c4b1f23f2c/mas-vendidos-es.png)   
+![mas-vendidos-es](//images.ctfassets.net/alneenqid6w5/1sooXuFeV0NyhByWoLegHb/22b06efc2dd15dded404a1c4b1f23f2c/mas-vendidos-es.png)   
 
 >❗ Para análisis o seguimientos de periodos más extensos, recomendamos el uso de nuestro dashboard Desempeño de ventas, que se detalla en la siguiente pregunta.
 
@@ -82,7 +82,7 @@ Para un seguimiento efectivo de tu tienda online más allá del día actual, el 
 
 - **Fecha**  
 Al acceder al dashboard, el primer paso es definir el **Periodo principal** y **Comparar con.** Si estás realizando el análisis una vez finalizada la Black Week, selecciona Semana pasada para comparar con la Black Week del año anterior (opción disponible si ya eras cliente de VTEX). Durante la Black Week, elige Personalizar y selecciona los días específicos para el análisis.  
-![ventas-fecha-es](https://images.ctfassets.net/alneenqid6w5/1ohgIwKBI0qsKrScdHUdE4/2b20340d6c7237d5d9b1056ea3371896/ventas-fecha-es.png)   
+![ventas-fecha-es](//images.ctfassets.net/alneenqid6w5/1ohgIwKBI0qsKrScdHUdE4/2b20340d6c7237d5d9b1056ea3371896/ventas-fecha-es.png)   
 
 - **Filtros combinados**  
 La información proporcionada en el dashboard de ventas se puede segmentar mediante filtros combinados, como, por ejemplo, el filtro Categorías. Si deseas agregar un nuevo filtro, sigue los pasos que se detallan a continuación:  
@@ -93,7 +93,7 @@ La información proporcionada en el dashboard de ventas se puede segmentar media
 
 Puedes explorar diferentes filtros de acuerdo con las necesidades y aspectos específicos de tu tienda online.  
 
-![agregar-filtro-es](https://images.ctfassets.net/alneenqid6w5/71V1UF9tUvs1BtIFw9BRgZ/ddc34564c2379083779ead2e8eb36f9f/agregar-filtro-es.png)   
+![agregar-filtro-es](//images.ctfassets.net/alneenqid6w5/71V1UF9tUvs1BtIFw9BRgZ/ddc34564c2379083779ead2e8eb36f9f/agregar-filtro-es.png)   
 
 ### Métricas  
 
@@ -107,22 +107,22 @@ Durante la Black Week, este dashboard es una herramienta clave para analizar las
 - Ticket promedio (aprobado)  
 - Pedidos (cancelados)  
 
-![cambio-de-metrica-es](https://images.ctfassets.net/alneenqid6w5/VI0G6Wp0QYu85mUQN9hA9/10826d203b100064613c3c8df5cecd07/cambio-de-metrica-es.png)  
+![cambio-de-metrica-es](//images.ctfassets.net/alneenqid6w5/VI0G6Wp0QYu85mUQN9hA9/10826d203b100064613c3c8df5cecd07/cambio-de-metrica-es.png)  
 
 - **Desempeño de la semana**   
 Después de realizar los ajustes, compara el desempeño de la semana actual con la Black Week del año pasado para identificar tendencias y oportunidades.  
 
-![desenpeno-de-la-semana-es](https://images.ctfassets.net/alneenqid6w5/5UOlx5RSYyY9LQbryuMlYw/6e7b2320f5a89ea5f1873d5655e60ea9/desenpeno-de-la-semana-es.png)  
+![desenpeno-de-la-semana-es](//images.ctfassets.net/alneenqid6w5/5UOlx5RSYyY9LQbryuMlYw/6e7b2320f5a89ea5f1873d5655e60ea9/desenpeno-de-la-semana-es.png)  
 
 - **Análisis de la tabla**   
 Analiza los datos de la tabla para obtener insights más profundos. Por ejemplo, el análisis por SKU puede revelar qué productos deben destacarse en futuras campañas.  
 
-![analisis-de-la-tabla-es](https://images.ctfassets.net/alneenqid6w5/5bcuf4WK9hCMAyrKjfvUUV/d584956e1fb744a7a006a3128ecd0fb4/analisis-de-la-tabla-es.png)  
+![analisis-de-la-tabla-es](//images.ctfassets.net/alneenqid6w5/5bcuf4WK9hCMAyrKjfvUUV/d584956e1fb744a7a006a3128ecd0fb4/analisis-de-la-tabla-es.png)  
 
 - **Guarda la vista de tu interés**  
 Guarda la configuración de tu dashboard para futuras consultas. Haz clic en **Gestión de ventas > <i class="fas fa-plus"></i>  > Nombre de la vista > `Crear`,** para guardar tu vista personalizada.  
 
-![crear-vista-es](https://images.ctfassets.net/alneenqid6w5/4JFfJdUqSKhh3vqO2Jdq2Q/635dfd2f1cb8b7f6f31e95e36704baa3/crear-vista-es.png)    
+![crear-vista-es](//images.ctfassets.net/alneenqid6w5/4JFfJdUqSKhh3vqO2Jdq2Q/635dfd2f1cb8b7f6f31e95e36704baa3/crear-vista-es.png)    
 
 ## ¿Por qué mis métricas son diferentes de las del menú Pedidos del Admin?  
 
@@ -133,7 +133,7 @@ Hay varias razones por las cuales las métricas de la Vista general en tiempo re
 - **Tiempo de actualización diferente:** la pantalla Vista general en tiempo real puede demorar en actualizarse de 1 a 3 minutos. Por lo tanto, es normal que haya una pequeña discrepancia (de 1 a 3 % del total) entre ambas pantallas.  
 - **Fórmula de cálculo de ingresos:** las métricas en Vista general en tiempo real no consideran descuentos, envíos, tarifas ni promociones en el cálculo de ingresos, mientras que las métricas presentes en Pedidos sí que tienen en cuenta esos factores.  
 
-![selecion-de-tiendas-es](https://images.ctfassets.net/alneenqid6w5/1REIeF2xgDkIW8JuxjIWwx/6921089644b0d5821da2692011534c9e/selecion-de-tiendas-es.png)  
+![selecion-de-tiendas-es](//images.ctfassets.net/alneenqid6w5/1REIeF2xgDkIW8JuxjIWwx/6921089644b0d5821da2692011534c9e/selecion-de-tiendas-es.png)  
 
 Para obtener una visión completa de las métricas combinadas de todas las tiendas, te recomendamos acceder al dashboard Desempeño de ventas. Este dashboard ofrece datos agregados con una tasa de actualización de aproximadamente 90 minutos.  
 
@@ -141,11 +141,11 @@ Para obtener una visión completa de las métricas combinadas de todas las tiend
 >
 > Para comparar con la pantalla **Pedidos,** debes sumar el total de pedidos en todas las monedas.</br>    
 
-![todos-los-pedidos-es](https://images.ctfassets.net/alneenqid6w5/4tG8VMrSZU45ZRsDHifGPV/7207f5239991e648867ab5b201629a8b/todos-los-pedidos-es.png)
+![todos-los-pedidos-es](//images.ctfassets.net/alneenqid6w5/4tG8VMrSZU45ZRsDHifGPV/7207f5239991e648867ab5b201629a8b/todos-los-pedidos-es.png)
 
 - **Zona horaria:** este filtro puede aplicarse en el dashboard **Vista general** en tiempo real; en caso de que la zona horaria sea diferente a la definida en la pantalla Pedidos (que es tu zona horaria actual), las métricas no serán iguales. Ajusta la zona horaria si fuera necesario.  
 
-![ventas-zona-horaria](https://images.ctfassets.net/alneenqid6w5/3PQegjpVrlr4JlBs7fR2Cv/26a44df390eaf73e4e16889540dd46ab/ventas-zona-horaria.png)   
+![ventas-zona-horaria](//images.ctfassets.net/alneenqid6w5/3PQegjpVrlr4JlBs7fR2Cv/26a44df390eaf73e4e16889540dd46ab/ventas-zona-horaria.png)   
 
 ## ¿Por qué no tengo datos de sesiones o tasas de conversión?  
 
@@ -155,7 +155,7 @@ Sin embargo, es importante saber que nuestro script no captura datos de sesiones
 
 Si percibes la ausencia de estos datos, podría deberse a una de las limitaciones anteriormente mencionadas. Recomendamos verificar las configuraciones del script y cualquier personalización en el frontend que pueda estar afectando la captura de datos.  
 
-![vision-general-es](https://images.ctfassets.net/alneenqid6w5/2Lywp5C24kGVVhUHriyug8/ac409a2e6f8df8dd575f67aea6cac85c/vision-general-es.png)
+![vision-general-es](//images.ctfassets.net/alneenqid6w5/2Lywp5C24kGVVhUHriyug8/ac409a2e6f8df8dd575f67aea6cac85c/vision-general-es.png)
 
 ## ¿Por qué mis métricas de tasa de conversión, nuevas sesiones o embudo de ventas no coinciden con los números de mis herramientas internas?  
 
@@ -173,9 +173,9 @@ Para determinar qué moneda mostrar, evaluamos cuál es la moneda más utilizada
 
 Como resultado, si operas con más de una moneda, es importante sumar el total de pedidos de la sección Pedidos del Admin en todas tus monedas para que coincida con los datos mostrados en los pedidos dentro de Vista general en tiempo real.  
 
-![todos-los-pedidos-es](https://images.ctfassets.net/alneenqid6w5/4tG8VMrSZU45ZRsDHifGPV/7207f5239991e648867ab5b201629a8b/todos-los-pedidos-es.png)
+![todos-los-pedidos-es](//images.ctfassets.net/alneenqid6w5/4tG8VMrSZU45ZRsDHifGPV/7207f5239991e648867ab5b201629a8b/todos-los-pedidos-es.png)
 
-![monitoreo-es](https://images.ctfassets.net/alneenqid6w5/3Kmi0wL5ie28LIIFZlLIzN/03430c27c5ed46f970ad711c18b8042a/monitoreo-es.png)    
+![monitoreo-es](//images.ctfassets.net/alneenqid6w5/3Kmi0wL5ie28LIIFZlLIzN/03430c27c5ed46f970ad711c18b8042a/monitoreo-es.png)    
 
 ## ¿Por qué el número de pedidos en el análisis del embudo de ventas no coincide con el de la sección Monitoreo?  
 
@@ -185,8 +185,8 @@ Por otro lado, los datos del embudo de ventas se recopilan de la base de navegac
 
 Como resultado, es común que el número de pedidos en el embudo de ventas sea menor que en la sección Monitoreo, que proporciona una visión más amplia de las ventas de la tienda, incluyendo canales externos a la plataforma VTEX.  
 
-![tasa-de-conversion-es](https://images.ctfassets.net/alneenqid6w5/3PTACRp0lgoWd35Mavp9Fj/43cf092b352a825a20d12692909c6f1c/tasa-de-conversion-es.png)  
-![nuevas-sesiones-es](https://images.ctfassets.net/alneenqid6w5/2mMweozEf0zpcmSTxLiU94/8b3df33b3054de0743e95db323eeefd2/nuevas-sesiones-es.png)  
+![tasa-de-conversion-es](//images.ctfassets.net/alneenqid6w5/3PTACRp0lgoWd35Mavp9Fj/43cf092b352a825a20d12692909c6f1c/tasa-de-conversion-es.png)  
+![nuevas-sesiones-es](//images.ctfassets.net/alneenqid6w5/2mMweozEf0zpcmSTxLiU94/8b3df33b3054de0743e95db323eeefd2/nuevas-sesiones-es.png)  
 
 ## ¿Por qué la nueva Vista general se encuentra en una URL separada?  
 

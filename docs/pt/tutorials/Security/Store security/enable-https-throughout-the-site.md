@@ -39,7 +39,7 @@ Nessas chamadas HTTP se enquadram: referências a imagens, arquivos CSS, JS e qu
 
 - Chamar um script com o seguinte snippet resultaria em problemas: `<script src="http://www.site.com/arquivos/funcao.js"></script>`
 - A implementação correta seria: `<script src="https://www.site.com/arquivos/funcao.js"></script>`
-- Também é possível usar o protocolo relativo, de modo a seguir o mesmo em que a página for acessada: `<script src="https://www.site.com/arquivos/funcao.js"></script>`
+- Também é possível usar o protocolo relativo, de modo a seguir o mesmo em que a página for acessada: `<script src="//www.site.com/arquivos/funcao.js"></script>`
 - Para arquivos hospedados na VTEX sempre deve ser usado o seguinte formato, que é relativo ao protocolo e ao domínio acessado: `<script src="/arquivos/funcao.js"></script>`
 
 **Atenção:** para chamar rotas externas à VTEX, verifique antes se o destino suporta HTTPS.

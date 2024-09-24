@@ -21,6 +21,6 @@ A conta do desconto é: `monthly fee dividido pelo número de dias do mês de co
 
 Então, se a sua mensalidade teve um valor de R$ 750 no mês de maio - 31 dias - e você contratou a VTEX no dia 06 de maio, serão descontados R$ 145,16 em sua próxima fatura.
 
-![prorata PT](https://images.ctfassets.net/alneenqid6w5/3FEz6ikQqcaQmkys4Wgq0U/4a992dad8bcb8e6db9cdcfa8ccddbfe5/prorata_PT.png)
+![prorata PT](//images.ctfassets.net/alneenqid6w5/3FEz6ikQqcaQmkys4Wgq0U/4a992dad8bcb8e6db9cdcfa8ccddbfe5/prorata_PT.png)
 
 A conta feita foi: `R$ 750/31 = R$ 24,19 x 3 (dias) = R$ 145,16`

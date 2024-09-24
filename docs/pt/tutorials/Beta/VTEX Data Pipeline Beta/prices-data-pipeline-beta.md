@@ -3,8 +3,8 @@ title: 'Preços Data Pipeline '
 id: 3NMGJ8dtv73Bwvo9PSz1fz
 status: PUBLISHED
 createdAt: 2024-06-21T14:58:43.084Z
-updatedAt: 2024-09-02T19:28:12.994Z
-publishedAt: 2024-09-02T19:28:12.994Z
+updatedAt: 2024-09-13T17:37:25.152Z
+publishedAt: 2024-09-13T17:37:25.152Z
 firstPublishedAt: 2024-06-21T15:27:43.768Z
 contentType: tutorial
 productTeam: Channels
@@ -17,9 +17,7 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 
 O conjunto de dados de preços contém informações históricas de preços para cada SKU da loja de um seller, permitindo a análise dos valores de markup e das tendências mensais de preços.  
 
-<div class=alert alert-warning>
-Os dados disponibilizados em histórico de preços, são somente os dados da tabela <code>price_table_main</code>.
-</div>  
+>⚠️ Os dados disponibilizados em histórico de preços, são somente os dados da tabela `price_table_main`.  
 
 Neste artigo você encontra as seguintes informações:
 [Características dos dados](#caracteristicas-dos-dados)
@@ -52,7 +50,7 @@ A tabela `pricing_latest` contém dados dos preços atuais dos produtos da loja.
 | basePrice| double precision | Preço-base do SKU. |
 | fixedPrices| super | Preço fixo.|
 
-## Tabela: pricing_historical
+## Tabela pricing_historical
 
 A tabela `pricing_historical` apresenta registro histórico dos preços da sua loja. Veja abaixo seguir os campos que compõem essa tabela.  
 
@@ -93,3 +91,5 @@ O conjunto de dados de preços possui correlações com os seguintes conjuntos d
 - [Pagamentos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
 - [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
 - [Promoção](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Vale-presente](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Logs do Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

@@ -38,7 +38,7 @@ Si el botón Eliminar no está activo y el tiempo de espera no ha caducado, pued
 
 Si el sistema ya ha enviado la solicitud de reembolso o anulación al banco emisor, ya no podremos eliminarlo / detenerlo de ninguna manera.
 
-![PayU Romania](https://images.ctfassets.net/alneenqid6w5/eR53ZeK0Le8UMeQQs2osq/03a5bad4e5f9269dc12159b28fd27dd8/PayU_Romania.png)
+![PayU Romania](//images.ctfassets.net/alneenqid6w5/eR53ZeK0Le8UMeQQs2osq/03a5bad4e5f9269dc12159b28fd27dd8/PayU_Romania.png)
 
 Una vez que PayU haya enviado la solicitud de cancelación o reembolso al banco emisor, el estado de la orden se actualizará en el panel de PayU como "REVERSE" (para anulaciones) o "REFUND". Y VTEX va a recibir un webhook de PaymentsOS, por lo que el estado del pedido también puede actualizarse en la plataforma (en Pagos y, por lo tanto, reflejado en el OMS).
 

@@ -3,8 +3,8 @@ title: 'Entrega programada'
 id: 22g3HAVCGLFiU7xugShOBi
 status: PUBLISHED
 createdAt: 2021-04-19T13:26:44.564Z
-updatedAt: 2024-03-25T19:12:45.519Z
-publishedAt: 2024-03-25T19:12:45.519Z
+updatedAt: 2024-09-23T13:33:32.959Z
+publishedAt: 2024-09-23T13:33:32.959Z
 firstPublishedAt: 2021-05-24T17:01:23.885Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -43,7 +43,7 @@ El periodo de entrega, también denominado ventana de entrega, especifica los pe
 
 Los periodos/ventanas se definen a partir de las horas de inicio y fin de la operación para cada día de la semana. Además, puede definir un valor adicional para el flete en determinados días de la semana. 
 
->ℹ️ Una entrega de entrega no está disponible para su selección después de que ha iniciado. Solo estarán disponibles para los clientes las ventanas de entrega cercanas (aún no iniciadas).
+>ℹ️ Una ventana de entrega no está disponible para su selección después de que ha iniciado. Solo estarán disponibles para los clientes las ventanas de entrega cercanas (aún no iniciadas).
 
 ## Capacidad de entrega
 

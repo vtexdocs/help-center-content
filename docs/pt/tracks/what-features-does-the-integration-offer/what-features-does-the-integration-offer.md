@@ -3,8 +3,8 @@ title: 'Quais são as funcionalidades que a integração oferece?'
 id: 5DIYlh0eXB9ClfQFC3l3Mr
 status: PUBLISHED
 createdAt: 2023-03-28T19:41:03.487Z
-updatedAt: 2024-08-19T17:59:52.123Z
-publishedAt: 2024-08-19T17:59:52.123Z
+updatedAt: 2024-09-09T15:19:01.082Z
+publishedAt: 2024-09-09T15:19:01.082Z
 firstPublishedAt: 2023-03-28T21:41:26.632Z
 contentType: trackArticle
 productTeam: Channels
@@ -21,10 +21,9 @@ Além da integração básica, veja a seguir quais são as funcionalidades dispo
 
 | **Funcionalidade** | **Descrição** |
 |:-:|:-----------:|
-| [Migrar anúncios no Mercado Livre](https://help.vtex.com/pt/tutorial/migrating-ads-in-mercado-livre--2TuhYgqZr2CAAi2oQaWQcO) | Para os sellers que estão migrando de plataforma de ecommerce, nessa documentação, você aprenderá como migrar os anúncios já cadastrados no Mercado Livre para a VTEX. |  
-| [Gerenciamento de anúncios](https://help.vtex.com/pt/tutorial/gerenciamento-de-anuncios--7MRb9S78aBdZjFGpbuffpE) | O Gerenciamento de anúncios é utilizado para que o seller possa acompanhar o envio e a sincronização dos anúncios cadastrados no Mercado Livre.  |  
+| [Migrar anúncios no Mercado Livre](https://help.vtex.com/pt/tutorial/migrating-ads-in-mercado-livre--2TuhYgqZr2CAAi2oQaWQcO) | Para os sellers que estão migrando de plataforma de ecommerce, nessa documentação, você aprenderá como migrar os anúncios já cadastrados no Mercado Livre para a VTEX. |    
 | [Notas fiscais no Mercado Livre](https://help.vtex.com/pt/tutorial/notas-fiscais-do-mercado-livre--2JgchgbNXjcVjuFzm6j2sx) | Os sellers já integrados ao Mercado Livre, poderão consultar e fazer download das notas fiscais geradas na plataforma do marketplace. |  
-| [Gerenciamento de anúncios: oportunidades de Buybox](https://help.vtex.com/pt/tutorial/anuncios-enviados-oportunidades-de-buybox--1hO9eI1th47EGxQoTzGewC) | Avalia os anúncios que são compatíveis com produtos já presentes no Mercado Livre, para que sejam adicionados ao seu Buybox. |  
+| [Match de anúncios Mercado Livre](https://help.vtex.com/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/43uD4LPU5PLUWe11IaWwyR) | Avalia os anúncios do seller para sugerir oportunidades de catálogo no Mercado Livre. |  
 | [Promoções no Mercado Livre](https://help.vtex.com/pt/tutorial/promocoes-do-mercado-livre--3pEqEnru6H2JcZzYVioT5f) | Através dessa funcionalidade o seller encontrará as promoções que o Mercado Livre oferece para os produtos que estão cadastrados em seu catálogo. |  
 | [Como configurar loja guarda-chuva na integração com o Mercado Livre?](https://help.vtex.com/pt/faq/how-to-configure-a-top-level-store-in-the-integration-with-mercado-livre--5KINOatgzeS48IGwaAK8IE) | O seller tem a oportunidade de cadastrar seus produtos em lojas oficiais do Mercado Livre, segmentando por categoria, marca ou da forma como for necessária. |  
 | [Como configurar múltiplas contas na integração com o Mercado Livre](https://help.vtex.com/pt/faq/how-to-set-up-multiple-accounts-in-the-mercado-livre-integration--aO9gr94WJ26K4SweiIEiA) | Para utilizar o mesmo catálogo, segmentando-os em 2 lojas diferentes no Mercado Livre, você fará a configuração de __múltiplas contas__, mas ainda fazendo a gestão dos pedidos em um único lugar, o [OMS](https://help.vtex.com/pt/category/gerenciamento-de-pedidos--2663q96EyQuYc20y0yYAEE). |  

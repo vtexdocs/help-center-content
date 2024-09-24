@@ -19,7 +19,7 @@ A partir de 31 de maio, estamos lançando para todas as lojas VTEX a versão bet
 
 As páginas da **Estratégia de envio** foram atualizadas para o novo design system da VTEX, como pode ser visto a seguir:
 
-![nova_estrategia_envio_announcement_boards_PT](https://images.ctfassets.net/alneenqid6w5/7gWgtAG6jo0wXjKCUKYGnj/b93bbe35c2870827dd761f244cb447dc/nova_estrategia_envio_announcement_boards_PT.png)
+![nova_estrategia_envio_announcement_boards_PT](//images.ctfassets.net/alneenqid6w5/7gWgtAG6jo0wXjKCUKYGnj/b93bbe35c2870827dd761f244cb447dc/nova_estrategia_envio_announcement_boards_PT.png)
 
 ## O que mudou?
 

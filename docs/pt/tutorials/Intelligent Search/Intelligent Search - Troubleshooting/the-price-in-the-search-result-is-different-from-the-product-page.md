@@ -1,10 +1,10 @@
 ---
 title: 'Preço do resultado de busca é diferente da página de produto'
 id: 1108Xha3zw6ZvVUINfY7HR
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2022-11-22T14:26:20.489Z
-updatedAt: 2024-06-04T12:45:41.670Z
-publishedAt: 2024-06-04T12:45:41.670Z
+updatedAt: 2024-09-20T18:17:33.199Z
+publishedAt: 
 firstPublishedAt: 2022-11-22T14:42:50.738Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
