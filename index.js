@@ -398,11 +398,11 @@ function createMarkdownFile(entry,categories,subcategories) {
   // create .md files in locale folders for each item
 
   let fileNameEN = `${slugEN}.md`;
-  fileNameEN = fileNameEN.replace(/\?/g, ""); // remove all "?" characters
+  fileNameEN = fileNameEN.replace(/\?/g, "").substring(0, 249); // remove all "?" characters and trim if necessary to avoid "filename too long" git error (250 characters)
   let fileNameES = `${slugES}.md`;
-  fileNameES = fileNameES.replace(/\?/g, "");
+  fileNameES = fileNameES.replace(/\?/g, "").substring(0, 249);
   let fileNamePT = `${slugPT}.md`;
-  fileNamePT = fileNamePT.replace(/\?/g, "");
+  fileNamePT = fileNamePT.replace(/\?/g, "").substring(0, 249);
 
   let fileContentEN = "";
   let fileContentES = "";
