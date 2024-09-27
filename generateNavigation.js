@@ -1,7 +1,8 @@
 const contentful = require("contentful-management");
+require("dotenv").config();
 
 const client = contentful.createClient({
-  accessToken: "INSERT TOKEN HERE",
+  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
 });
 
 const fs = require("fs");
@@ -209,7 +210,7 @@ async function getEntries() {
 
         const endpointObj = {
           name: file.fields.title,
-          slug: file.fields.slug ? file.fields.slug.en: '',
+          slug: file.fields.slug,
           origin: ''
         };
 
