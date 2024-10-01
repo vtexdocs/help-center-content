@@ -38,7 +38,7 @@ If you need to use an illustration that exceeds this value, you can compress it 
 
 ![Raw_link_information](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/readme-images/readme-download-illustration-3.png)
 
-> ℹ️ Address link example: `https://github.com/vtexdocs/help-center-content/raw/{branch-name}/docs/pt/tutorials/Payments/Payment%20Settings/Payment%20Provider%20x%20Countries%20-%20August%202024.xlsx`
+> ℹ️ Address link example: `https://github.com/vtexdocs/help-center-content/raw/main/docs/pt/tutorials/Payments/Payment%20Settings/Payment%20Provider%20x%20Countries%20-%20August%202024.xlsx`
 
 6. Access the article where you want to add the file and insert the link obtained in the previous step in the desired location.
 
