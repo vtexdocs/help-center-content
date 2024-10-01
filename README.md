@@ -12,7 +12,7 @@ You will find the following folders in this repository:
 
 We're so glad you're here! Thanks for being interested.
 
-### What is the maximum illustration size should I use in an article?
+### What is the maximum image size I can use in an article?
 
 In some situations, it may be necessary to insert images, GIFs, or videos into an article to help the user understand complex procedures.
 
