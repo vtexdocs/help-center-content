@@ -35,6 +35,11 @@ const navigation = { navbar: [
     slugPrefix: 'announcements',
     categories: []
   },
+  {
+    documentation: 'FAQs',
+    slugPrefix: 'faq',
+    categories: []
+  }
 ] };
 
 function getTutorialEndpoints(endpointIds) {
@@ -237,6 +242,80 @@ function getNews() {
   return newsCategories;
 }
 
+function getFaq() {
+  const enDir = 'docs/en/faq';
+  const ptDir = 'docs/pt/faq';
+  const esDir = 'docs/es/faq';
+
+  const enCategories = fs.readdirSync(enDir, { withFileTypes: true }).filter(dirent => dirent.isDirectory());
+  const faq = {};
+
+  enCategories.forEach(category => {
+    const enCategoryPath = path.join(enDir, category.name);
+    const ptCategoryPath = path.join(ptDir, category.name);
+    const esCategoryPath = path.join(esDir, category.name);
+
+    const enFiles = fs.readdirSync(enCategoryPath);
+    const ptFiles = fs.existsSync(ptCategoryPath) ? fs.readdirSync(ptCategoryPath) : [];
+    const esFiles = fs.existsSync(esCategoryPath) ? fs.readdirSync(esCategoryPath) : [];
+
+    faq[category.name] = [];
+
+    enFiles.forEach(file => {
+      const filePath = path.join(enCategoryPath, file);
+      const content = fs.readFileSync(filePath, 'utf8');
+      const enSlug = file.replace('.md', '');
+      const titleMatch = content.match(/(?:^|\n)title:\s*["'](.*?)["']/);
+      const title = titleMatch ? titleMatch[1] : '';
+
+      const ptFile = ptFiles.find(f => {
+        const ptContent = fs.readFileSync(path.join(ptCategoryPath, f), 'utf8');
+        const slugMatch = ptContent.match(/^slugEN:\s*(\S+)$/m);
+        return slugMatch && slugMatch[1].trim().toLowerCase() === enSlug.trim().toLowerCase();
+      });
+
+      const esFile = esFiles.find(f => {
+        const esContent = fs.readFileSync(path.join(esCategoryPath, f), 'utf8');
+        const slugMatch = esContent.match(/^slugEN:\s*(\S+)$/m);
+        return slugMatch && slugMatch[1].trim().toLowerCase() === enSlug.trim().toLowerCase();
+      });
+
+      faq[category.name].push({
+        name: {
+          en: title,
+          pt: ptFile ? fs.readFileSync(path.join(ptCategoryPath, ptFile), 'utf8').match(/(?:^|\n)title:\s*["'](.*?)["']/)[1] : '',
+          es: esFile ? fs.readFileSync(path.join(esCategoryPath, esFile), 'utf8').match(/(?:^|\n)title:\s*["'](.*?)["']/)[1] : '',
+        },
+        slug: {
+          en: enSlug,
+          pt: ptFile ? ptFile.replace('.md', '') : '',
+          es: esFile ? esFile.replace('.md', '') : ''
+        },
+        origin: '',
+        type: 'markdown',
+        children: []
+      });
+    });
+  });
+
+  const faqCategories = [];
+  for (const category in faq) {
+    faqCategories.push({
+      name: {
+        en: category,
+        pt: category,
+        es: category
+      },
+      slug: `faq/${category}`,
+      origin: '',
+      type: 'category',
+      children: faq[category]
+    });
+  }
+
+  return faqCategories;
+}
+
 async function getEntries() {
   try {
     const space = await client.getSpace("alneenqid6w5");
@@ -315,14 +394,13 @@ async function getEntries() {
       skip += limit;
     } while (skip < totalCount)
 
-    // Tracks
     navigation.navbar[0].categories = getTrackTopics();
 
-    // Tutorial
     navigation.navbar[1].categories = getTutorialCategories();
 
-    // News
     navigation.navbar[2].categories = getNews();
+
+    navigation.navbar[3].categories = getFaq();
 
     fs.writeFile('errorDocs.json', JSON.stringify(errorDocs), (err) => console.error(err));
     fs.writeFile('navigation.json', JSON.stringify(navigation), (err) => console.error(err));
