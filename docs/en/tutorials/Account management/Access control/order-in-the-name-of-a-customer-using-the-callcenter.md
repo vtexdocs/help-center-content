@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:38:41.781Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_84
-slug: order-in-the-name-of-a-customer-using-the-callcenter
+slugEN: order-in-the-name-of-a-customer-using-the-callcenter
 locale: en
 legacySlug: order-in-the-name-of-a-customer-using-the-callcenter
 subcategoryId: 1HSqkejwuYcQSMC400uY84
@@ -27,5 +27,5 @@ Having done this, the customer’s e-mail is displayed in this same area.
 
 To log on as another user, just click on the **Change customer** button.
 
-![Customer personified with the toolbar](https://images.contentful.com/alneenqid6w5/TwHPvbhB8Os02kO4IaS66/d70f2a05303502043ae4d7be3dfce59f/Toolbar2.png)
+![Customer personified with the toolbar](//images.contentful.com/alneenqid6w5/TwHPvbhB8Os02kO4IaS66/d70f2a05303502043ae4d7be3dfce59f/Toolbar2.png)
 

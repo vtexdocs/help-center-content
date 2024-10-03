@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: autocomplete-not-answering-to-cold-starts
+slugEN: autocomplete-not-answering-to-cold-starts
 locale: en
 kiStatus: Fixed
 internalReference: 418573

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-06-20T21:05:50.346Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7kumplNTMIsWYGeeegCqO8
-slug: how-to-create-conditional-prices
+slugEN: how-to-create-conditional-prices
 locale: en
 legacySlug: creating-conditional-prices
 subcategoryId: unknown-subcategory

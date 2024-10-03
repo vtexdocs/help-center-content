@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: transliteration-only-being-saved-in-vbase-and-not-into-rewriter
+slugEN: transliteration-only-being-saved-in-vbase-and-not-into-rewriter
 locale: en
 kiStatus: No Fix
 internalReference: 738334

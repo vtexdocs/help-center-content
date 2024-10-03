@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-16T17:21:19.815Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_4
-slug: creating-customer-and-address-forms-in-new-stores
+slugEN: creating-customer-and-address-forms-in-new-stores
 locale: en
 legacySlug: creating-customer-and-address-forms-in-new-stores
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-22T22:29:45.368Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: set-up-user-authentication-for-recurring-payments
+slugEN: set-up-user-authentication-for-recurring-payments
 locale: en
 legacySlug: set-up-user-authentication-for-recurring-payments
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k

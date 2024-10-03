@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: the-template-relatoriodeimportacaodeestoque-does-not-support-multilanguage
+slugEN: the-template-relatoriodeimportacaodeestoque-does-not-support-multilanguage
 locale: en
 kiStatus: No Fix
 internalReference: 585906

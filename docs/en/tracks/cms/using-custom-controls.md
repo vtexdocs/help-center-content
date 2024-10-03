@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-01-13T14:29:53.371Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: using-custom-controls
+slugEN: using-custom-controls
 locale: en
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms

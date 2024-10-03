@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-22T01:44:52.262Z
 contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
-slug: what-does-publishing-an-app-mean
+slugEN: what-does-publishing-an-app-mean
 locale: en
 legacySlug: what-does-publishing-an-app-mean
 ---

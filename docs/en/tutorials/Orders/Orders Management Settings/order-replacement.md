@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-20T20:24:08.083Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: order-replacement
+slugEN: order-replacement
 locale: en
 legacySlug: allow-to-change-already-closed-orders, how-the-order-replacement-works
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k

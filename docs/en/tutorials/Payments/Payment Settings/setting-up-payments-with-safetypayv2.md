@@ -9,7 +9,7 @@ firstPublishedAt: 2024-03-14T17:41:17.188Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-safetypayv2
+slugEN: setting-up-payments-with-safetypayv2
 locale: en
 legacySlug: setting-up-payments-with-safetypayv2
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

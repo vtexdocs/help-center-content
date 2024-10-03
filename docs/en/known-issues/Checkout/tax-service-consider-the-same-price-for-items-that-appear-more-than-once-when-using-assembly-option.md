@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: tax-service-consider-the-same-price-for-items-that-appear-more-than-once-when-using-assembly-option
+slugEN: tax-service-consider-the-same-price-for-items-that-appear-more-than-once-when-using-assembly-option
 locale: en
 kiStatus: Fixed
 internalReference: 906518

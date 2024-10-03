@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:22.826Z
 contentType: tutorial
 productTeam: Channels
 author: authors_3
-slug: adding-a-seller
+slugEN: adding-a-seller
 locale: en
 legacySlug: configuring-the-seller
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu

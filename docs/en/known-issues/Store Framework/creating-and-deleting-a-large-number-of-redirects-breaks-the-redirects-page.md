@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: creating-and-deleting-a-large-number-of-redirects-breaks-the-redirects-page
+slugEN: creating-and-deleting-a-large-number-of-redirects-breaks-the-redirects-page
 locale: en
 kiStatus: Backlog
 internalReference: 1010392

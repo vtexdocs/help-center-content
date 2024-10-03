@@ -9,7 +9,7 @@ firstPublishedAt: 2021-03-08T16:29:32.443Z
 contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slug: enabling-3ds2-for-redsys-v2-integration
+slugEN: enabling-3ds2-for-redsys-v2-integration
 locale: en
 legacySlug: enabling-3ds2-for-redsys-v2-integration
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

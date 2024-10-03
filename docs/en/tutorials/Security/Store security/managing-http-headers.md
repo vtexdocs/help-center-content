@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-07T18:40:52.927Z
 contentType: tutorial
 productTeam: Reliability
 author: YRJ73j8mt38D5TUleocQB
-slug: managing-http-headers
+slugEN: managing-http-headers
 locale: en
 legacySlug: managing-http-headers
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn

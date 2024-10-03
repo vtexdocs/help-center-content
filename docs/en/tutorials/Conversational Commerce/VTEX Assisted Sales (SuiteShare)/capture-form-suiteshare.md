@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-31T16:07:35.919Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: capture-form-suiteshare
+slugEN: capture-form-suiteshare
 locale: en
 legacySlug: capture-form
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

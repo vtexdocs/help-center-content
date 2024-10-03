@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:35.791Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
-slug: why-was-an-inactive-product-sold-on-the-marketplace
+slugEN: why-was-an-inactive-product-sold-on-the-marketplace
 locale: en
 legacySlug: why-was-an-inactive-product-sold-on-the-marketplace
 ---

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 tag: Checkout,Payments,Store Framework
-slug: vtex-admin-and-the-storefront-might-experience-some-trouble-on-firefox-89-0
+slugEN: vtex-admin-and-the-storefront-might-experience-some-trouble-on-firefox-89-0
 locale: en
 kiStatus: Backlog
 internalReference: 
@@ -40,6 +40,6 @@ Don’t worry: turning off this option will not make your store unprotected.
 
 >ℹ️ If after these steps your Admin or store is still not loading, we advise you to try another browser.
 
-![Firefox bug EN](https://images.ctfassets.net/alneenqid6w5/4EZo0FaHBx1DfbSrGVpbku/06a078dc34744d8e07cf858e2288679a/Firefox_bug_EN.jpg)
+![Firefox bug EN](//images.ctfassets.net/alneenqid6w5/4EZo0FaHBx1DfbSrGVpbku/06a078dc34744d8e07cf858e2288679a/Firefox_bug_EN.jpg)
 
 

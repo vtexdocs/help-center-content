@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:00:23.608Z
 contentType: tutorial
 productTeam: Channels
 author: authors_59
-slug: mercado-livre-faq
+slugEN: mercado-livre-faq
 locale: en
 legacySlug: mercado-livre-faq
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq

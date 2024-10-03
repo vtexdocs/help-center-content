@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: stucked-not-found-routes-on-platform
+slugEN: stucked-not-found-routes-on-platform
 locale: en
 kiStatus: Backlog
 internalReference: 793457

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:42:57.707Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: order-cancellation-requested-by-the-customer
+slugEN: order-cancellation-requested-by-the-customer
 locale: en
 legacySlug: how-does-cancellation-work-when-requested-by-the-customer
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

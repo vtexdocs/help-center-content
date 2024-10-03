@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: gift-card-page-ui-loading-indefinitely-preventing-users-with-permission-from-accessing-it-properly
+slugEN: gift-card-page-ui-loading-indefinitely-preventing-users-with-permission-from-accessing-it-properly
 locale: es
 kiStatus: Backlog
 internalReference: 325007

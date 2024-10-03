@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: coupons-created-as-archived-temporarrily
+slugEN: coupons-created-as-archived-temporarrily
 locale: en
 kiStatus: Backlog
 internalReference: 892041

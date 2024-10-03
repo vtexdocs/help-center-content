@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: price-range-title-forces-real-as-currency
+slugEN: price-range-title-forces-real-as-currency
 locale: en
 kiStatus: Backlog
 internalReference: 

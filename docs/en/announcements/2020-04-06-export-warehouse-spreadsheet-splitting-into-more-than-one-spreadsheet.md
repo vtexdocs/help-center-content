@@ -8,7 +8,7 @@ publishedAt: 2020-04-07T19:16:41.020Z
 contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: export-warehouse-spreadsheet-splitting-into-more-than-one-spreadsheet
+slugEN: 2020-04-06-export-warehouse-spreadsheet-splitting-into-more-than-one-spreadsheet
 locale: en
 legacySlug: export-warehouse-spreadsheet-splitting-into-more-than-one-spreadsheet
 announcementImageID: ''

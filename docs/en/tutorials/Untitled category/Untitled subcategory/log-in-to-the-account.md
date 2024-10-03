@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Identity
 author: 
-slug: log-in-to-the-account
+slugEN: log-in-to-the-account
 locale: en
 legacySlug: log-in-to-the-account
 subcategoryId: unknown-subcategory

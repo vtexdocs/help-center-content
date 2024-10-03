@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:23.530Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-integrate-the-navegg-solution
+slugEN: how-to-integrate-the-navegg-solution
 locale: en
 legacySlug: 
 ---

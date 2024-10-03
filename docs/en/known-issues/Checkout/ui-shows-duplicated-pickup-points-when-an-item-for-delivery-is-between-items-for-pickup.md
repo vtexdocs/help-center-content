@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: ui-shows-duplicated-pickup-points-when-an-item-for-delivery-is-between-items-for-pickup
+slugEN: ui-shows-duplicated-pickup-points-when-an-item-for-delivery-is-between-items-for-pickup
 locale: en
 kiStatus: Backlog
 internalReference: 906549

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:55:07.896Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: how-to-define-the-url-for-a-product-page
+slugEN: how-to-define-the-url-for-a-product-page
 locale: en
 legacySlug: how-is-a-product-url-set-up
 subcategoryId: pwxWmUu7T222QyuGogs68

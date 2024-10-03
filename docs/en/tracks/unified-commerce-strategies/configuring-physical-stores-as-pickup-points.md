@@ -8,7 +8,7 @@ publishedAt: 2023-07-26T18:51:23.201Z
 firstPublishedAt: 2021-08-23T17:12:50.884Z
 contentType: trackArticle
 productTeam: Shopping
-slug: configuring-physical-stores-as-pickup-points
+slugEN: configuring-physical-stores-as-pickup-points
 locale: en
 trackId: 3WGDRRhc3vf1MJb9zGncnv
 trackSlugEN: unified-commerce-strategies

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T22:59:50.388Z
 contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
-slug: what-does-linking-an-app-mean
+slugEN: what-does-linking-an-app-mean
 locale: en
 legacySlug: what-does-linking-an-app-mean
 ---

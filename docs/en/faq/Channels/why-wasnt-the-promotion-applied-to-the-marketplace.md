@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:27.428Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
-slug: why-wasnt-the-promotion-applied-to-the-marketplace
+slugEN: why-wasnt-the-promotion-applied-to-the-marketplace
 locale: en
 legacySlug: why-wasnt-the-promotion-applied-to-the-marketplace
 ---

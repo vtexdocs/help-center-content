@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: installment-options-not-updating-automatically-on-pdpplp
+slugEN: installment-options-not-updating-automatically-on-pdpplp
 locale: en
 kiStatus: Backlog
 internalReference: 987467

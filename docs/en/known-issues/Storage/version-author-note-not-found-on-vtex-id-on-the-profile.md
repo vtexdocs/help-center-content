@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: version-author-note-not-found-on-vtex-id-on-the-profile
+slugEN: version-author-note-not-found-on-vtex-id-on-the-profile
 locale: en
 kiStatus: Scheduled
 internalReference: 914314

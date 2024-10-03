@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:11.198Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: creating-a-type-of-list
+slugEN: creating-a-type-of-list
 locale: en
 legacySlug: creating-a-type-of-list
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
@@ -77,7 +77,7 @@ The following options are available:
 
 After creating the type of list, you will be directed to the screen showing the types of list already registered in the store. This screen provides the following information and functions:
 
-![listagem.en](https://images.ctfassets.net/alneenqid6w5/4vHN91gXTrDhXKKa5hEc42/2f28b377bbfcb2cc548b3ce80155037f/listagem.en.png)
+![listagem.en](//images.ctfassets.net/alneenqid6w5/4vHN91gXTrDhXKKa5hEc42/2f28b377bbfcb2cc548b3ce80155037f/listagem.en.png)
 
 - **Export to Excel**: Allows data for list types to be exported to Excel;
 - **Version**: Identifies lists created in a previous version, with limited functions. The latest version is the “V2”;

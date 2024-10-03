@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: buy-together-promotions-with-price-range-restriction-impact-in-gift-promotions
+slugEN: buy-together-promotions-with-price-range-restriction-impact-in-gift-promotions
 locale: en
 kiStatus: Backlog
 internalReference: 676382

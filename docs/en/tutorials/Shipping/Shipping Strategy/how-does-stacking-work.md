@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:43.968Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: how-does-stacking-work
+slugEN: how-does-stacking-work
 locale: en
 legacySlug: how-does-stacking-work
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

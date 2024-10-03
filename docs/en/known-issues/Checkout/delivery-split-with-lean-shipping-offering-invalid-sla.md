@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: delivery-split-with-lean-shipping-offering-invalid-sla
+slugEN: delivery-split-with-lean-shipping-offering-invalid-sla
 locale: en
 kiStatus: Backlog
 internalReference: 990155

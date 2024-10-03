@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: products-showing-flag-and-discount-after-promotion-ended
+slugEN: products-showing-flag-and-discount-after-promotion-ended
 locale: en
 kiStatus: Backlog
 internalReference: 383911

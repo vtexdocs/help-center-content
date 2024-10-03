@@ -9,7 +9,7 @@ firstPublishedAt: 2018-06-12T23:52:22.765Z
 contentType: tutorial
 productTeam: Others
 author: 5dYWGfGKUwkI86Gomk6AcQ
-slug: settings-schema
+slugEN: settings-schema
 locale: en
 legacySlug: settings-schema
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

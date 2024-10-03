@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slug: the-saml-solution-doesnt-allow-sending-the-samlrequest-as-query-string-in-the-crm-login
+slugEN: the-saml-solution-doesnt-allow-sending-the-samlrequest-as-query-string-in-the-crm-login
 locale: en
 kiStatus: Backlog
 internalReference: 789146

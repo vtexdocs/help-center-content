@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-19T00:11:57.369Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-easypay-marketplace
+slugEN: setting-up-payments-with-easypay-marketplace
 locale: en
 legacySlug: setting-up-payments-with-easypay-marketplace
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

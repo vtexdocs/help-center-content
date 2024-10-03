@@ -9,7 +9,7 @@ firstPublishedAt: 2022-10-04T21:41:08.638Z
 contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: best-practices-application-keys
+slugEN: best-practices-application-keys
 locale: en
 legacySlug: best-practices-for-using-application-keys
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn

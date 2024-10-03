@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-06-25T21:42:16.370Z
 contentType: trackArticle
 productTeam: Shopping
-slug: electronic-labels
+slugEN: electronic-labels
 locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup

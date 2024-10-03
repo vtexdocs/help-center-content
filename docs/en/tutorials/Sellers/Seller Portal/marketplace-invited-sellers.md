@@ -9,7 +9,7 @@ firstPublishedAt: 2021-08-12T15:49:50.572Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: marketplace-invited-sellers
+slugEN: marketplace-invited-sellers
 locale: en
 legacySlug: marketplace-invited-sellers-beta
 subcategoryId: 4hisB47iAVZk4r3SEmMoG

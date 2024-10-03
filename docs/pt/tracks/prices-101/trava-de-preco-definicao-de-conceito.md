@@ -8,7 +8,7 @@ publishedAt: 2020-02-13T15:45:22.885Z
 firstPublishedAt: 2019-07-17T19:47:20.847Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: trava-de-preco-definicao-de-conceito
+slugEN: trava-de-preco-definicao-de-conceito
 locale: pt
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugPT: precos-101

@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: VTEX IO
 author: 
-slug: what-publishing-an-app-means
+slugEN: what-publishing-an-app-means
 locale: en
 legacySlug: what-publishing-an-app-means
 subcategoryId: unknown-subcategory

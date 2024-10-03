@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-06-28T16:38:25.545Z
 contentType: trackArticle
 productTeam: Shopping
-slug: integrating-instore-to-a-new-payment-acquirer
+slugEN: integrating-instore-to-a-new-payment-acquirer
 locale: en
 trackId: 6NTqymtXmL9cNy8w1ouAod
 trackSlugEN: integrating-instore-to-a-new-payment-acquirer

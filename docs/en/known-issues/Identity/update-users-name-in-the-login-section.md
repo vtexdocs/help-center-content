@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slug: update-users-name-in-the-login-section
+slugEN: update-users-name-in-the-login-section
 locale: en
 kiStatus: No Fix
 internalReference: 542029

@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-18T20:56:20.706Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: my-store-order-was-not-created
+slugEN: my-store-order-was-not-created
 locale: en
 legacySlug: my-store-order-was-not-created
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB

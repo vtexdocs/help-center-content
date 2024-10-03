@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: seller-portal-product-doesnt-load-when-without-images
+slugEN: seller-portal-product-doesnt-load-when-without-images
 locale: en
 kiStatus: Backlog
 internalReference: 800480

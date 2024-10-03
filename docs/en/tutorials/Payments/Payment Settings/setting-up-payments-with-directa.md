@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-29T16:32:12.456Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-directa
+slugEN: setting-up-payments-with-directa
 locale: en
 legacySlug: setting-up-payments-with-directa
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

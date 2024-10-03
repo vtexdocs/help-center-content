@@ -3,13 +3,13 @@ title: 'Regular Promotion'
 id: tutorials_327
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:59.690Z
-updatedAt: 2024-05-15T16:38:18.730Z
-publishedAt: 2024-05-15T16:38:18.730Z
+updatedAt: 2024-09-30T17:08:36.641Z
+publishedAt: 2024-09-30T17:08:36.641Z
 firstPublishedAt: 2017-04-27T23:03:15.647Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: regular-promotion
+slugEN: regular-promotion
 locale: en
 legacySlug: regular-promotion
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
@@ -46,7 +46,8 @@ In this section, you must configure the general information of your promotion. T
   - **Percentage shipping**: Percentage discount to be applied for shipping value. 
   - **Maximum shipping**: Shipping maximum value. 
   - **Free Shipping**: 100% discount on shipping value.
-  - **Gift**: Total discount on the product value set as a gift. You can choose more than one SKU as a gift or more than one unit of an SKU. To set more than one gift, select **Activate gift multiplier** and set the maximum selectable quantity.  For more information, read this [article](https://help.vtex.com/en/tutorial/gift-multiplier-in-promotions--1gydgkmjEWcoo2CskUwuYK#).
+  - **Gift**: total discount applied to the value of the product defined as a gift. The maximum quantity refers to the number of different SKUs the user can select. For example, if there is only 1 SKU available, the user will only be able to select one unit of that SKU, even if the maximum quantity is greater than 1. If there are 8 SKUs available and the maximum quantity is 3, the user can choose up to 3 different SKUs. Even if the allowed maximum quantity is higher than the number of available SKUs, the user can only select one unit of each SKU. The flag [Activate gift multiplier](https://help.vtex.com/en/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK) only works in Buy and Get promotions. In regular promotions, the flag is available for selection but has no effect in the cart.
+
 >ℹ️ The gift also needs to have a nominal price, even if it's given for free to the customer.
   - **Nominal discount based on formula**: the discount is calculated based on the a formula that you can create using the products' total price (`total`), shipping fees (`freight`), and quantity of items (`quantity`) as variables. Note that the shipping value in the formula will be the lowest available for the order, regardless of the customer's selection. The decimal separator symbol must always be the decimal point. For example: if the discount is 30% of the total product value + shipping value, the formula should be `(total + freight) * 0.3`. For more information on the formula, read our [documentation](https://help.vtex.com/en/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV).
   - **Nominal reward value**: Nominal value for rewards program. Read [Regular promotion with reward value](https://help.vtex.com/en/tutorial/regular-promotion-with-reward-value--3FCip23ZtvG0sDt0rVGVmR) for more information.
@@ -93,7 +94,7 @@ You can add or remove **Categories**, **Brands**, **Collections**, **Products** 
 
 See an example below. In this case, the promotion includes all products from the category **Home Appliances** whose brand is **Brastemp**, except the product **Refrigerator 100**.
 
-![exemplo-en](https://images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
+![exemplo-en](//images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
 
 In the **Products** and **SKUs** fields, you can opt to upload a **.txt** file with one product or SKU ID per row instead of selecting one product or one SKU at a time. To do this, click on **Choose file** and select your **.txt** file.
 
@@ -141,7 +142,7 @@ The customer's request must meet the conditions added in this section to be vali
       - **Frequency**: A selection of the frequency of subscription orders - weekly, monthly and yearly.
       - **Cycle number**: A selection of the subscription cycles that will be included in the promotion. This option is unlocked only if **Recurring orders** is selected.
 
-- **Apply the discount even if the user is not logged in?:** This field is available when the field **Only on the first buy**; is selected. If this field is selected, the promotion will apply even if the consumer has not entered their email and password. If it is not selected, the promotion will only apply if the customer is browsing while logged in with the previously added email and password.
+- **Apply the discount even if the user is not logged in?:** this field becomes available when the **First purchase only** option is selected. When this option is enabled, the promotion will be applied to the customer even if they haven't entered their email and password. However, the discount will be applied as soon as the shopper is identified, without the need for them to be logged in. If the option is unchecked, the promotion will only be applied if the customer logs in with a previously registered email and password.
 
 ## 4. Restrictions and limitations of use
 

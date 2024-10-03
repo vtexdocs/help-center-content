@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: my-account-receiver-name-field-doesnt-recognize-input
+slugEN: my-account-receiver-name-field-doesnt-recognize-input
 locale: en
 kiStatus: Scheduled
 internalReference: 568527

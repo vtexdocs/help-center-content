@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: inactive-product-still-appearing-on-pdp-or-checkout
+slugEN: inactive-product-still-appearing-on-pdp-or-checkout
 locale: en
 kiStatus: Backlog
 internalReference: 542264

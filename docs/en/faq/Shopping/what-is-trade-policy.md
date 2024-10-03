@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-18T13:57:04.560Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_84
-slug: what-is-trade-policy
+slugEN: what-is-trade-policy
 locale: en
 legacySlug: 
 ---

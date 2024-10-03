@@ -8,7 +8,7 @@ publishedAt: 2023-09-22T20:08:35.507Z
 firstPublishedAt: 2019-11-19T17:27:37.060Z
 contentType: trackArticle
 productTeam: Channels
-slug: what-to-configure-in-wish-prior-to-the-integration
+slugEN: what-to-configure-in-wish-prior-to-the-integration
 locale: en
 trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugEN: wish-integration

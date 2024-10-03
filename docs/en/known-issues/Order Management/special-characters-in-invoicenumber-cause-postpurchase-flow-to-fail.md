@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: special-characters-in-invoicenumber-cause-postpurchase-flow-to-fail
+slugEN: special-characters-in-invoicenumber-cause-postpurchase-flow-to-fail
 locale: en
 kiStatus: Backlog
 internalReference: 953285

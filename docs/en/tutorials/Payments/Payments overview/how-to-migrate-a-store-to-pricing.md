@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:09:39.222Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: how-to-migrate-a-store-to-pricing
+slugEN: how-to-migrate-a-store-to-pricing
 locale: en
 legacySlug: how-to-migrate-a-store-to-pricing-v2
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

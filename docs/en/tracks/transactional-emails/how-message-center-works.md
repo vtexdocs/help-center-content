@@ -8,7 +8,7 @@ publishedAt: 2020-02-13T14:58:16.503Z
 firstPublishedAt: 2020-01-13T14:38:21.495Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: how-message-center-works
+slugEN: how-message-center-works
 locale: en
 trackId: 6IkJwttMw5T84mlY9RifRP
 trackSlugEN: transactional-emails

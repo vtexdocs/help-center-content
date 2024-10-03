@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: metatagdescription-field-cannot-be-deleted-through-admin
+slugEN: metatagdescription-field-cannot-be-deleted-through-admin
 locale: en
 kiStatus: Backlog
 internalReference: 979691

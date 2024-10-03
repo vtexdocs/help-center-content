@@ -9,7 +9,7 @@ firstPublishedAt: 2018-11-06T20:05:39.224Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: why-a-Max-Price-by-Item-promotion-wasn't-applied? 
+slugEN: why-a-Max-Price-by-Item-promotion-wasn't-applied? 
 locale: en
 legacySlug: por-que-uma-promocao-de-preco-maximo-por-item-nao-foi-aplicada
 ---

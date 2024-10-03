@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:10.600Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: creating-a-specification-group-in-a-category
+slugEN: creating-a-specification-group-in-a-category
 locale: en
 legacySlug: creating-category-groups
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec

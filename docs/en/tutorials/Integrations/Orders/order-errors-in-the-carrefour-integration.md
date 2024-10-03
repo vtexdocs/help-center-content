@@ -9,7 +9,7 @@ firstPublishedAt: 2021-08-10T19:48:48.112Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: order-errors-in-the-carrefour-integration
+slugEN: order-errors-in-the-carrefour-integration
 locale: en
 legacySlug: carrefour-integration-orders-erros
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky

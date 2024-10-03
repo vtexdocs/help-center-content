@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-25T19:53:01.303Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: set-the-store-display-language
+slugEN: set-the-store-display-language
 locale: en
 legacySlug: set-the-store-display-language
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc

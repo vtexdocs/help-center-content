@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: portal-dont-respect-the-tag-principal-of-skus-image
+slugEN: portal-dont-respect-the-tag-principal-of-skus-image
 locale: en
 kiStatus: Backlog
 internalReference: 712443

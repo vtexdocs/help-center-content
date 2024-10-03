@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: advanced-searchs-file-import-not-functioning-on-catalog-filters
+slugEN: advanced-searchs-file-import-not-functioning-on-catalog-filters
 locale: en
 kiStatus: Backlog
 internalReference: 1086454

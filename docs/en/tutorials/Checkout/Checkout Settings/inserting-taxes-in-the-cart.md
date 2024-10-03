@@ -9,7 +9,7 @@ firstPublishedAt: 2020-05-29T14:10:33.147Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_24
-slug: inserting-taxes-in-the-cart
+slugEN: inserting-taxes-in-the-cart
 locale: en
 legacySlug: inserting-taxes-in-the-cart
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

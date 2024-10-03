@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T22:37:54.481Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: creating-a-development-workspace
+slugEN: creating-a-development-workspace
 locale: en
 legacySlug: creating-a-development-workspace
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

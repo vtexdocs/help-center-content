@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: autocomplete-bringing-suggestion-products-shown-with-delay
+slugEN: autocomplete-bringing-suggestion-products-shown-with-delay
 locale: en
 kiStatus: No Fix
 internalReference: 615616

@@ -8,7 +8,7 @@ publishedAt: 2024-02-23T00:42:01.506Z
 firstPublishedAt: 2024-02-22T14:07:05.427Z
 contentType: trackArticle
 productTeam: Others
-slug: vtex-modules-i
+slugEN: vtex-modules-i
 locale: en
 trackId: eSDNk26pdvemF3XKM0nK9
 trackSlugEN: vtex-store-overview
@@ -73,7 +73,7 @@ __Example__: Department `Women`, Category `Shirts and T-shirts`, and Sub-categor
 
 Before importing the store catalog to VTEX, we recommend that you start working on the category tree by creating a table such as the one below. This allows you to better view the tree's organization and the display of specifications.
 
-![catalog_arquitecture_table_EN](https://images.ctfassets.net/alneenqid6w5/6Vg5pVKydPdMipVEqj1Spq/f539ab283449f2aa2163be8b8ddd957e/catalog_arquitecture_table_EN.png)
+![catalog_arquitecture_table_EN](//images.ctfassets.net/alneenqid6w5/6Vg5pVKydPdMipVEqj1Spq/f539ab283449f2aa2163be8b8ddd957e/catalog_arquitecture_table_EN.png)
 
 >ℹ️ For more information on how to import back-office specifications, read the [Backend integrations](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) article.
 
@@ -152,7 +152,7 @@ Prices are the sales value information for your SKUs. These prices are stored in
 
 The image below illustrates the relationship between prices, the price table, and the context in which they will be applied:
 
-![Conceito de Preços-EN](https://images.ctfassets.net/alneenqid6w5/5xPmlWSbROFajhSkaUt7ya/c229973cb7f6f135570b309d23af10a3/Conceito_de_Pre_os-EN.png)
+![Conceito de Preços-EN](//images.ctfassets.net/alneenqid6w5/5xPmlWSbROFajhSkaUt7ya/c229973cb7f6f135570b309d23af10a3/Conceito_de_Pre_os-EN.png)
 
 You can create price tables for your SKUs in three ways:
 
@@ -268,7 +268,7 @@ The set of essential logistics settings for a VTEX store is called [Shipping Str
 
 The image below shows how these concepts relate to each other when selling a product:
 
-![shipping_strategy_EN](https://images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/9f3db7829e85f1c910daf1b81bacd127/shipping_strategy_EN.png)
+![shipping_strategy_EN](//images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/9f3db7829e85f1c910daf1b81bacd127/shipping_strategy_EN.png)
 
 The following table shows the store's main logistics settings on VTEX:
 
@@ -319,7 +319,7 @@ The [main use cases](https://help.vtex.com/en/tutorial/lead_time-shipping-time-a
 
 The VTEX platform considers the following settings to [calculate the order shipping time](https://help.vtex.com/en/tutorial/how-shipping-calculation-works--tutorials_116):
 
-![Shipping Calculation_EN](https://images.ctfassets.net/alneenqid6w5/CwtKVwOkH8NMV0v2IYjlX/7088aadd2ae56175b3a9b57ae0af38a8/Shipping_Calculation_EN.png)
+![Shipping Calculation_EN](//images.ctfassets.net/alneenqid6w5/CwtKVwOkH8NMV0v2IYjlX/7088aadd2ae56175b3a9b57ae0af38a8/Shipping_Calculation_EN.png)
 
 - [Lead time](https://help.vtex.com/en/tutorial/lead-time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B): Configurable amount of time for an SKU in stock. This configuration is optional and is set to zero days by default.
 - [Warehouse time](https://help.vtex.com/en/tutorial/managing-warehouses--tutorials_137): time it takes for an SKU to move from a warehouse to a [loading dock](https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj). This configuration is required, but you can set the time to zero.

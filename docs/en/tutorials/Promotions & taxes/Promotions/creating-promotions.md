@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:14.651Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: creating-promotions
+slugEN: creating-promotions
 locale: en
 legacySlug: creating-promotions
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq

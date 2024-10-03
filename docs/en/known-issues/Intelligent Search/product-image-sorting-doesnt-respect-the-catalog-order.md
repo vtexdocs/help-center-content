@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: product-image-sorting-doesnt-respect-the-catalog-order
+slugEN: product-image-sorting-doesnt-respect-the-catalog-order
 locale: en
 kiStatus: Backlog
 internalReference: 682177

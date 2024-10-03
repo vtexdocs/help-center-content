@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: redirects-are-being-counted-multiple-times
+slugEN: redirects-are-being-counted-multiple-times
 locale: en
 kiStatus: Fixed
 internalReference: 1066548

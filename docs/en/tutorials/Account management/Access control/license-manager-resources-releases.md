@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-16T20:51:11.454Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: license-manager-resources-releases
+slugEN: license-manager-resources-releases
 locale: en
 legacySlug: 
 subcategoryId: 1HSqkejwuYcQSMC400uY84

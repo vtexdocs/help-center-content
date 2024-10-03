@@ -8,7 +8,7 @@ publishedAt: 2024-08-20T13:48:57.885Z
 firstPublishedAt: 2019-07-17T19:46:38.452Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: adding-a-fixed-price
+slugEN: adding-a-fixed-price
 locale: en
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugEN: prices-101

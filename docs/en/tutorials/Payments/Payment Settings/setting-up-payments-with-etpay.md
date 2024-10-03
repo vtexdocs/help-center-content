@@ -9,7 +9,7 @@ firstPublishedAt: 2022-10-18T17:56:29.587Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-etpay
+slugEN: setting-up-payments-with-etpay
 locale: en
 legacySlug: setting-up-payments-with-etpay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

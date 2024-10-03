@@ -9,7 +9,7 @@ firstPublishedAt: 2021-07-02T21:07:36.096Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: integrating-with-renner-and-camicado
+slugEN: integrating-with-renner-and-camicado
 locale: en
 legacySlug: integrating-with-renner-and-camicado
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

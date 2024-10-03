@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: site-editor-doesnt-allow-changes-on-the-conditional-template
+slugEN: site-editor-doesnt-allow-changes-on-the-conditional-template
 locale: en
 kiStatus: Backlog
 internalReference: 861920

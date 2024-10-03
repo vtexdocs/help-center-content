@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: carts-created-from-order-replacement-do-not-receive-promotions-correctly
+slugEN: carts-created-from-order-replacement-do-not-receive-promotions-correctly
 locale: en
 kiStatus: Backlog
 internalReference: 473424

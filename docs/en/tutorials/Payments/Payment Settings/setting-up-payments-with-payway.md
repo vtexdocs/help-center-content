@@ -9,7 +9,7 @@ firstPublishedAt: 2024-03-07T19:10:55.092Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-payway
+slugEN: setting-up-payments-with-payway
 locale: en
 legacySlug: setting-up-payments-with-payway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

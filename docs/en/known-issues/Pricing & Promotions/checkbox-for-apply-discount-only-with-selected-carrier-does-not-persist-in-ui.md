@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: checkbox-for-apply-discount-only-with-selected-carrier-does-not-persist-in-ui
+slugEN: checkbox-for-apply-discount-only-with-selected-carrier-does-not-persist-in-ui
 locale: en
 kiStatus: Backlog
 internalReference: 1085241

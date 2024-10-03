@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: roundingmode-ceilingfloor-not-working-properly-among-items-with-unitmultiplier-other-than-1
+slugEN: roundingmode-ceilingfloor-not-working-properly-among-items-with-unitmultiplier-other-than-1
 locale: en
 kiStatus: Backlog
 internalReference: 968349

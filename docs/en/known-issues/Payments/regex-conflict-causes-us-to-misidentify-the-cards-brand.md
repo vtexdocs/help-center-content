@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: regex-conflict-causes-us-to-misidentify-the-cards-brand
+slugEN: regex-conflict-causes-us-to-misidentify-the-cards-brand
 locale: en
 kiStatus: Backlog
 internalReference: 316213

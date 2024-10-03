@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_2
-slug: untitled-entry-2017-07-03-at-18-55-27
+slugEN: untitled-entry-2017-07-03-at-18-55-27
 locale: en
 legacySlug: untitled-entry-2017-07-03-at-18-55-27
 ---

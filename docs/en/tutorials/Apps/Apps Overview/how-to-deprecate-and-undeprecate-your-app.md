@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-22T21:44:14.004Z
 contentType: tutorial
 productTeam: Post-purchase
 author: TnXcuQydAAOuwWACo864E
-slug: how-to-deprecate-and-undeprecate-your-app
+slugEN: how-to-deprecate-and-undeprecate-your-app
 locale: en
 legacySlug: how-to-deprecate-and-undeprecate-your-app
 subcategoryId: 3e2VLdLao8GGk4sAmMmwmi

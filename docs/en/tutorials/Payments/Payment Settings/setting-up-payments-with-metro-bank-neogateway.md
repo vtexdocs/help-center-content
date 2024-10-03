@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-11T20:02:59.215Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-metro-bank-neogateway
+slugEN: setting-up-payments-with-metro-bank-neogateway
 locale: en
 legacySlug: setting-up-payments-with-metro-bank-neogateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

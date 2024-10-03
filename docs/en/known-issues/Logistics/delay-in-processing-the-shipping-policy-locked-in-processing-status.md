@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: delay-in-processing-the-shipping-policy-locked-in-processing-status
+slugEN: delay-in-processing-the-shipping-policy-locked-in-processing-status
 locale: en
 kiStatus: Backlog
 internalReference: 396914

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-01T21:57:47.670Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: how-does-the-delivery-flow-work
+slugEN: how-does-the-delivery-flow-work
 locale: en
 legacySlug: how-does-the-delivery-flow-work
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

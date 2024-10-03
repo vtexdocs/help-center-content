@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: product-specification-import-with-type-text-does-not-trigger-the-products-indexation
+slugEN: product-specification-import-with-type-text-does-not-trigger-the-products-indexation
 locale: en
 kiStatus: Backlog
 internalReference: 998658

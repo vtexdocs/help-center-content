@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-27T16:54:23.587Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: analytics
+slugEN: analytics
 locale: en
 legacySlug: analytics
 subcategoryId: l3DubpOCHBfKyF2ueg2Vs
@@ -78,4 +78,4 @@ The report (CSV file) you have downloaded contains two tables. The first table c
 
 The second table shows data for the selected period, as illustrated below. In the __Date__ column, you can see the date of the search.
 
-![search-report-date](https://images.ctfassets.net/alneenqid6w5/1B1hwv5X36tvAv4Nt2Nxz1/354c3c4357d578dc2492b89a78c2a272/search-report-date.png)
+![search-report-date](//images.ctfassets.net/alneenqid6w5/1B1hwv5X36tvAv4Nt2Nxz1/354c3c4357d578dc2492b89a78c2a272/search-report-date.png)

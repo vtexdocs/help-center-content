@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: autocomplete-on-search-not-always-updating-when-changed-multiple-times
+slugEN: autocomplete-on-search-not-always-updating-when-changed-multiple-times
 locale: en
 kiStatus: Backlog
 internalReference: 793275

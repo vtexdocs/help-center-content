@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-13T16:51:05.020Z
 contentType: tutorial
 productTeam: Financial
 author: 5fYXkMJagMwcSAeMAsAuOI
-slug: setting-up-the-type-of-interest-rate
+slugEN: setting-up-the-type-of-interest-rate
 locale: en
 legacySlug: setting-up-the-type-of-interest-rate
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

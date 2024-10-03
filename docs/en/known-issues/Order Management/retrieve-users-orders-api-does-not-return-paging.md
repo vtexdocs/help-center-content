@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: retrieve-users-orders-api-does-not-return-paging
+slugEN: retrieve-users-orders-api-does-not-return-paging
 locale: en
 kiStatus: Backlog
 internalReference: 516699

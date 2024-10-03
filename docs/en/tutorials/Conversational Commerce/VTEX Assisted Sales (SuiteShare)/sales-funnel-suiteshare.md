@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-31T12:39:28.258Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: sales-funnel-suiteshare
+slugEN: sales-funnel-suiteshare
 locale: en
 legacySlug: sales-funnel-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

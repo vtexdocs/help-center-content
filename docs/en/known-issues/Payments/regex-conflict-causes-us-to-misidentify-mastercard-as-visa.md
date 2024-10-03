@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: regex-conflict-causes-us-to-misidentify-mastercard-as-visa
+slugEN: regex-conflict-causes-us-to-misidentify-mastercard-as-visa
 locale: en
 kiStatus: Backlog
 internalReference: 893588

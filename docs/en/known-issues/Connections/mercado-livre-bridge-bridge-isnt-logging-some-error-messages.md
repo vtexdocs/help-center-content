@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: mercado-livre-bridge-bridge-isnt-logging-some-error-messages
+slugEN: mercado-livre-bridge-bridge-isnt-logging-some-error-messages
 locale: en
 kiStatus: Backlog
 internalReference: 1053742

@@ -3,19 +3,19 @@ title: 'Managing Projects'
 id: 42IpDFqTVTESH8DCypJMPM
 status: PUBLISHED
 createdAt: 2023-11-01T13:45:57.091Z
-updatedAt: 2024-06-21T14:14:20.212Z
-publishedAt: 2024-06-21T14:14:20.212Z
+updatedAt: 2024-09-11T14:05:18.500Z
+publishedAt: 2024-09-11T14:05:18.500Z
 firstPublishedAt: 2023-11-01T19:38:50.237Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: managing-projects
+slugEN: managing-projects
 locale: en
 legacySlug: managing-projects
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 ---
 
-Projects is a feature in the VTEX Headless CMS that simplifies the management of multiple frontend projects like mobile apps, websites, and email marketing from one control panel.
+Projects is a feature in the VTEX Headless CMS that simplifies the management of multiple frontend projects, such as mobile apps, websites, and email marketing, from one control panel.
 
 ![Projects pages](https://images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/9d484d193a357cf0a0ac5e8a3aa16e9a/projects-one-en.gif)
 
@@ -31,12 +31,12 @@ For the Headless CMS management, make sure the [resources](https://help.vtex.com
 ## Overview
 To access **Projects**, go to the VTEX Admin and access **Storefront > Headless CMS**.
 
-![Projects overview](https://images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/c7ccee21dc6cae85a41886c49d9a3d8f/projects-two-en.png)
+![Projects overview](//images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/c7ccee21dc6cae85a41886c49d9a3d8f/projects-two-en.png)
 
 | Option         | Description                                           |
 | -------------- | ----------------------------------------------------- |
 | Project card   | Opens the selected project, allowing you to create and edit pages for the project content.      |
-| Settings (⚙️)  | Opens a modal that displays project configurations organized into three tabs: <ul><li>**General:** Edits the project ID and API settings or archives the project.</li> <li>**Content-Types:** Connects the Headless CMS project with your code source through webhooks by setting up the content types and sections.</li> <li>**Build:** Initiates and manages website builds. Set a webhook URL for build notifications and an endpoint to preview the page versions. </li></ul>| 
+| Settings (⚙️)  | Opens a modal that displays project configurations organized into three tabs: <ul><li>**General:** Edits the project ID and API settings or archives the project.</li> <li>**Content-Types:** Connects the Headless CMS project with your code source through webhooks by setting up the content types and sections.</li> <li>**Build:** Initiates and manages website builds. Set a webhook URL for build notifications and an endpoint to preview the page versions. </li></ul>       |
 | Create new       | Opens a page to configure a new project from scratch. |
 
 ## Creating a new project
@@ -111,7 +111,7 @@ To archive a project, follow the steps below:
 1. Go to **Storefront > Projects**.
 2. Choose the project you want to archive and click **Settings** (⚙️) to open a modal.
 3. Click `Archive project` on the `General` page. A pop-up message will appear to confirm that you want to archive the project.
-![Archive project](https://images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/018e5e76e204d63fd86fdb9abe8ee82c/projects-three-en.png)
+![Archive project](//images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/018e5e76e204d63fd86fdb9abe8ee82c/projects-three-en.png)
 4. Click `Archive`. A message informing that the project was successfully archived will appear.
 
 If you want to restore an archived project, follow the steps in [Restoring a project](#restoring-the-project).

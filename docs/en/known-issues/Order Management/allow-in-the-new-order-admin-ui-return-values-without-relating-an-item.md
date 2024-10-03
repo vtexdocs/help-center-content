@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: allow-in-the-new-order-admin-ui-return-values-without-relating-an-item
+slugEN: allow-in-the-new-order-admin-ui-return-values-without-relating-an-item
 locale: en
 kiStatus: Fixed
 internalReference: 519576

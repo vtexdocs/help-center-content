@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:11:20.233Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: information-about-chile-custom-payments
+slugEN: information-about-chile-custom-payments
 locale: en
 legacySlug: information-about-chile-custom-payments
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

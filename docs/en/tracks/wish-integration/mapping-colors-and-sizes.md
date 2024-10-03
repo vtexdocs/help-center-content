@@ -8,7 +8,7 @@ publishedAt: 2020-03-19T22:03:12.923Z
 firstPublishedAt: 2019-11-19T17:30:16.718Z
 contentType: trackArticle
 productTeam: Channels
-slug: mapping-colors-and-sizes
+slugEN: mapping-colors-and-sizes
 locale: en
 trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugEN: wish-integration

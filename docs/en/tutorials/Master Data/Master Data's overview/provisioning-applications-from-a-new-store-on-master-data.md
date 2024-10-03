@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:22:21.304Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_4
-slug: provisioning-applications-from-a-new-store-on-master-data
+slugEN: provisioning-applications-from-a-new-store-on-master-data
 locale: en
 legacySlug: 
 subcategoryId: 5gtjaqCG7eIseyCI0aSqc2

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-10-14T14:47:28.848Z
 contentType: trackArticle
 productTeam: Channels
-slug: size-chart
+slugEN: size-chart
 locale: en
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugEN: mercado-libre-integration-set-up

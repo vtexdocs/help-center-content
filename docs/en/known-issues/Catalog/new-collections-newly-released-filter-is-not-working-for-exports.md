@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: new-collections-newly-released-filter-is-not-working-for-exports
+slugEN: new-collections-newly-released-filter-is-not-working-for-exports
 locale: en
 kiStatus: Backlog
 internalReference: 

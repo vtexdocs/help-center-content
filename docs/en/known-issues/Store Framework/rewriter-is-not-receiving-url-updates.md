@@ -3,14 +3,14 @@ title: 'Rewriter is not receiving URL updates'
 id: 4c3S9s57SzQCv8zv4L77Fu
 status: PUBLISHED
 createdAt: 2024-07-16T19:24:56.813Z
-updatedAt: 2024-07-16T19:24:57.773Z
-publishedAt: 2024-07-16T19:24:57.773Z
+updatedAt: 2024-09-10T20:48:01.988Z
+publishedAt: 2024-09-10T20:48:01.988Z
 firstPublishedAt: 2024-07-16T19:24:57.773Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: rewriter-is-not-receiving-url-updates
+slugEN: rewriter-is-not-receiving-url-updates
 locale: en
 kiStatus: Backlog
 internalReference: 1066527
@@ -46,7 +46,7 @@ You can also check how this path is being returned on the pageType; if it is a f
 
 Try deleting the route manually from the rewriter:
 
-      mutation{ internal{   delete(path:"/path"){     from     id     resolveAs   } }}
+    mutation{ internal{   delete(path:"/path"){     from     id     resolveAs   } }}
 
 
 Try running the bootstrap query to update the rewriter:

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: products-in-the-productlist-that-have-an-itemattachment-duplicate-when-the-quantity-is-increased
+slugEN: products-in-the-productlist-that-have-an-itemattachment-duplicate-when-the-quantity-is-increased
 locale: en
 kiStatus: Backlog
 internalReference: 337069

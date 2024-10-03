@@ -8,7 +8,7 @@ publishedAt: 2024-07-29T14:50:02.445Z
 firstPublishedAt: 2019-11-24T21:05:50.533Z
 contentType: trackArticle
 productTeam: Financial
-slug: configuring-payment-connectors
+slugEN: configuring-payment-connectors
 locale: en
 trackId: 6GAS7ZzGAm7AGoEAwDbwJG
 trackSlugEN: payments

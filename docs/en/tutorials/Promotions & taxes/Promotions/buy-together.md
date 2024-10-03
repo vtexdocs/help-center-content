@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:15.238Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: buy-together
+slugEN: buy-together
 locale: en
 legacySlug: buy-together
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq

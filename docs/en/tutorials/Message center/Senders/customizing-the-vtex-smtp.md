@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:54.566Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_3
-slug: customizing-the-vtex-smtp
+slugEN: customizing-the-vtex-smtp
 locale: en
 legacySlug: customizing-the-vtex-smtp
 subcategoryId: 1wsCJz4swMsK4QSsGeIgic

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: large-indexed-text-and-indexed-text-not-being-changed-by-specification-import
+slugEN: large-indexed-text-and-indexed-text-not-being-changed-by-specification-import
 locale: en
 kiStatus: Backlog
 internalReference: 322657

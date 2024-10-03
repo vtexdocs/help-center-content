@@ -9,7 +9,7 @@ firstPublishedAt: 2018-10-02T15:36:47.671Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
-slug: searching-for-old-orders
+slugEN: searching-for-old-orders
 locale: en
 legacySlug: searching-for-old-orders
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

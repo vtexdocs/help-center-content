@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-03T21:39:05.205Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: how-to-check-your-statement
+slugEN: how-to-check-your-statement
 locale: en
 legacySlug: how-to-check-your-statement
 subcategoryId: 29ZPBdZOTSg6NdzprcqBfb

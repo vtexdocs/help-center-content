@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: applying-a-coupon-removes-initial-utm-campaign-promotion-from-cart
+slugEN: applying-a-coupon-removes-initial-utm-campaign-promotion-from-cart
 locale: en
 kiStatus: Backlog
 internalReference: 1088010

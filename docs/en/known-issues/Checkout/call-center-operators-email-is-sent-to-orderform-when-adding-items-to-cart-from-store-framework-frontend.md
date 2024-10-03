@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: call-center-operators-email-is-sent-to-orderform-when-adding-items-to-cart-from-store-framework-frontend
+slugEN: call-center-operators-email-is-sent-to-orderform-when-adding-items-to-cart-from-store-framework-frontend
 locale: en
 kiStatus: Backlog
 internalReference: 1066571

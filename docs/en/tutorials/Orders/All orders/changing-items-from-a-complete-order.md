@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:47.264Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: changing-items-from-a-complete-order
+slugEN: changing-items-from-a-complete-order
 locale: en
 legacySlug: altering-items-skus-in-the-order, changing-completed-orders
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

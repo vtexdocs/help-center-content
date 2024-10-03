@@ -8,7 +8,7 @@ publishedAt: 2023-06-04T21:44:47.078Z
 firstPublishedAt: 2023-06-04T21:44:47.078Z
 contentType: trackArticle
 productTeam: Apps
-slug: extensions-hub-1
+slugEN: extensions-hub-1
 locale: en
 trackId: AW7klkYMh557y5IUOgzco
 trackSlugEN: extensions-hub

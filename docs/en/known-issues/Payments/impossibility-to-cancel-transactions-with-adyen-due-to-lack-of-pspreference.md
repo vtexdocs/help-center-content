@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: impossibility-to-cancel-transactions-with-adyen-due-to-lack-of-pspreference
+slugEN: impossibility-to-cancel-transactions-with-adyen-due-to-lack-of-pspreference
 locale: en
 kiStatus: Backlog
 internalReference: 506914

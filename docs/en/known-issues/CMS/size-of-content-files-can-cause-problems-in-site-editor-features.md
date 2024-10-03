@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: size-of-content-files-can-cause-problems-in-site-editor-features
+slugEN: size-of-content-files-can-cause-problems-in-site-editor-features
 locale: en
 kiStatus: Backlog
 internalReference: 715480

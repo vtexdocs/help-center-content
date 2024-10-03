@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: mercado-livre-error-downloading-invoices-in-the-invoices-module
+slugEN: mercado-livre-error-downloading-invoices-in-the-invoices-module
 locale: en
 kiStatus: Backlog
 internalReference: 1087545

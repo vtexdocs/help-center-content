@@ -9,7 +9,7 @@ firstPublishedAt: 2022-01-26T21:27:07.735Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: payments-in-vtex-marketplaces
+slugEN: payments-in-vtex-marketplaces
 locale: en
 legacySlug: payments-in-vtex-marketplaces
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-04-11T22:24:38.940Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: request-deletion-of-customer-personal-data-under-international-data-privacy
+slugEN: request-deletion-of-customer-personal-data-under-international-data-privacy
 locale: en
 legacySlug: request-deletion-of-customer-personal-data-under-international-data-privacy
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn

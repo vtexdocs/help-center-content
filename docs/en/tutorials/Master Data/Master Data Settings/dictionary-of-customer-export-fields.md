@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:10:59.946Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: dictionary-of-customer-export-fields
+slugEN: dictionary-of-customer-export-fields
 locale: en
 legacySlug: dictionary-of-customer-export-fields
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

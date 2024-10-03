@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:43.772Z
 contentType: tutorial
 productTeam: Others
 author: authors_1
-slug: community-code-of-conduct
+slugEN: community-code-of-conduct
 locale: en
 legacySlug: community-code-of-conduct
 subcategoryId: 1VvCpaa8NCA6a0MK6W6oWg

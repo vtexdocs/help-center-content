@@ -3,13 +3,13 @@ title: 'Configuring a discount for orders prepaid in full'
 id: 7Lfcj9Wb5dpYfA2gKkACIt
 status: PUBLISHED
 createdAt: 2020-12-18T19:16:46.225Z
-updatedAt: 2023-03-31T21:35:57.904Z
-publishedAt: 2023-03-31T21:35:57.904Z
+updatedAt: 2024-09-05T16:45:39.679Z
+publishedAt: 2024-09-05T16:45:39.679Z
 firstPublishedAt: 2021-05-04T20:05:58.585Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: configuring-a-discount-for-orders-prepaid-in-full
+slugEN: configuring-a-discount-for-orders-prepaid-in-full
 locale: en
 legacySlug: configuring-a-discount-for-orders-prepaid-in-full
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS
@@ -23,7 +23,7 @@ To use this strategy in the VTEX platform, besides indicating the discount for o
 
 1. Use the Checkout API to determine the discount and link it to a payment method (see our tutorial [Set a discount using the Checkout API](https://developers.vtex.com/vtex-rest-api/docs/set-a-discount-using-the-checkout-api)).
 
-2. Configure the layout in the CMS so that the discount appears on the selected payment method on the product page (see details in the following section).
+2. Configure the layout for both CMS and IO stores, ensuring that the discount is displayed in the selected payment method on the product page (see details in the following section).
 
 ## CMS
 

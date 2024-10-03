@@ -8,7 +8,7 @@ publishedAt: 2023-10-23T17:08:04.859Z
 firstPublishedAt: 2020-01-22T15:01:20.187Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: promotions-for-specific-scenarios
+slugEN: promotions-for-specific-scenarios
 locale: en
 trackId: 6asfF1vFYiZgTQtOzwJchR
 trackSlugEN: promotions
@@ -47,7 +47,7 @@ The More for Less promotion is used to grant a discount when the customer adds s
 
 In the configuration of the More for Less promotion, the store must define which collections or SKUs it will apply to. Then, it must choose the minimum number of items in the cart for it to apply and the number of items that get a discount.
 
-![More less](https://images.ctfassets.net/alneenqid6w5/5LQErZWrN4WyX8ZuIBEMPM/823b88ebf22ca83427e4c9c809d31d2e/More_less.png)
+![More less](//images.ctfassets.net/alneenqid6w5/5LQErZWrN4WyX8ZuIBEMPM/823b88ebf22ca83427e4c9c809d31d2e/More_less.png)
 
 For example:
 - For every `3` products, the customer will get `1` `free` product.
@@ -65,7 +65,7 @@ When configuring the Progressive Discount promotion, the store must define which
 
 To add more details to the progressive discount promotion, click on the "+" button. A new line will be added, and then you can add a new discount. For example: for the next 2 products, the customer will receive an additional 5% discount. And so on.
 
-![Desconto progressivo - EN](https://images.ctfassets.net/alneenqid6w5/7qZXWf05OIow5vgX5eYulO/808c44fcd80666575444d3d9d6afd560/Screenshot_2020-06-24_https_lojadobreno_myvtex_com_6_.png)
+![Desconto progressivo - EN](//images.ctfassets.net/alneenqid6w5/7qZXWf05OIow5vgX5eYulO/808c44fcd80666575444d3d9d6afd560/Screenshot_2020-06-24_https_lojadobreno_myvtex_com_6_.png)
 
 To understand the Progressive Discount promotion in more detail, read our article on <a href="https://help.vtex.com/en/tutorial/progressive-discount--tutorials_324">How progressive discount works</a>.
 
@@ -75,7 +75,7 @@ The Buy One Get One promotion is used to offer free shipping or a freebie when a
 
 The applied discount (free shipping or freebie) must be defined in the promotion's general data. Then the store must choose the collections or SKUs to which it will apply. Finally, you must define the minimum number of items in the cart for the promotion to apply.
 
-![Compre um e leve outro - EN](https://images.ctfassets.net/alneenqid6w5/L17yG5ZAgaGnCuamDWLwk/141c68c306baa0b2bedec04ee3d0c894/Screenshot_2020-06-24_https_lojadobreno_myvtex_com_7_.png)
+![Compre um e leve outro - EN](//images.ctfassets.net/alneenqid6w5/L17yG5ZAgaGnCuamDWLwk/141c68c306baa0b2bedec04ee3d0c894/Screenshot_2020-06-24_https_lojadobreno_myvtex_com_7_.png)
 
 To understand the Buy One Get One promotion in more detail, read our article on <a href="https://help.vtex.com/en/tutorial/buy-and-win--tutorials_322">How the Buy and Win promotion works</a>.
 
@@ -87,22 +87,22 @@ This setting determines how many items in the cart will be affected by a promoti
 
 After filling in all the [regular promotion fields](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327) with the percentage discount, you can __set a maximum number of items affected per cart__ by checking the box for this option, found in the __restrictions__ section.
 
-![Limite itens - EN](https://images.ctfassets.net/alneenqid6w5/1W6ZYterIepCud41XJr4UQ/98c764ea9fd40bd809d3b7bf55c7a313/Limite_itens_-_EN.png)
+![Limite itens - EN](//images.ctfassets.net/alneenqid6w5/1W6ZYterIepCud41XJr4UQ/98c764ea9fd40bd809d3b7bf55c7a313/Limite_itens_-_EN.png)
 
 By default, the __unlimited__ selection is active, applying the promotion to all items in the cart, as illustrated in the diagram below:  
 
-![Caso ilimitado EN](https://images.ctfassets.net/alneenqid6w5/3H9q2Ywy6uPZmQaff7LgO2/5f69462ef9ecf3d57817ad0fba44a337/Caso_ilimitado_EN.png)
+![Caso ilimitado EN](//images.ctfassets.net/alneenqid6w5/3H9q2Ywy6uPZmQaff7LgO2/5f69462ef9ecf3d57817ad0fba44a337/Caso_ilimitado_EN.png)
 
 To restrict the number of items in the cart, you can choose one from the following options:
 
 - __Items by cart__: this setting restrict a promotion to a predetermined number of items in the cart. Once the limit is reached, the promotion will apply to the rest of the cart. The system uses price as a selection criterion so the items with the lowest prices will be affected first.
 
-![Caso por itens EN](https://images.ctfassets.net/alneenqid6w5/2UUHQC3AZW5g0QzFouGw0u/f414491e89bbd9f08b96914243584be2/Caso_por_itens_EN.png)
+![Caso por itens EN](//images.ctfassets.net/alneenqid6w5/2UUHQC3AZW5g0QzFouGw0u/f414491e89bbd9f08b96914243584be2/Caso_por_itens_EN.png)
 
 - __Items by product__: this setting restricts the promotion to a number of units per product. As in the example below, only two units per product will be eligible for the promotion. The lowest price determines which product items are eligible first.   
 
-![Caso por produto EN](https://images.ctfassets.net/alneenqid6w5/2WN8gDLFhTSjcpx16S3bjb/c4221f0b4901a7df2432d3951deec983/Caso_por_produto_EN.png)
+![Caso por produto EN](//images.ctfassets.net/alneenqid6w5/2WN8gDLFhTSjcpx16S3bjb/c4221f0b4901a7df2432d3951deec983/Caso_por_produto_EN.png)
 
 - __Items by SKU__: this setting restricts the promotion to a predetermined number of units for each SKU in the cart. As in the example below, only two units per SKU will be eligible. As seen in the previous case, the lowest price will determine the eligible items. 
 
-![Caso por SKU EN](https://images.ctfassets.net/alneenqid6w5/huuzHYSvrVxk2THs7zx2P/0a513d9fbd247797218c25089372c450/Caso_por_SKU_EN.png)
+![Caso por SKU EN](//images.ctfassets.net/alneenqid6w5/huuzHYSvrVxk2THs7zx2P/0a513d9fbd247797218c25089372c450/Caso_por_SKU_EN.png)

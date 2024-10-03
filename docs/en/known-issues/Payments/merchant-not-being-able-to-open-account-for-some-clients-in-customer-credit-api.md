@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: merchant-not-being-able-to-open-account-for-some-clients-in-customer-credit-api
+slugEN: merchant-not-being-able-to-open-account-for-some-clients-in-customer-credit-api
 locale: en
 kiStatus: Backlog
 internalReference: 906509

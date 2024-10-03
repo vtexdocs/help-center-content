@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: gift-card-hub-is-adding-an-extra-backslash-when-calling-providers
+slugEN: gift-card-hub-is-adding-an-extra-backslash-when-calling-providers
 locale: en
 kiStatus: No Fix
 internalReference: 669575

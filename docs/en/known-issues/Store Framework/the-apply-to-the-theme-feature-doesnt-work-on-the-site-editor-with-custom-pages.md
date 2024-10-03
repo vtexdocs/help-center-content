@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: the-apply-to-the-theme-feature-doesnt-work-on-the-site-editor-with-custom-pages
+slugEN: the-apply-to-the-theme-feature-doesnt-work-on-the-site-editor-with-custom-pages
 locale: en
 kiStatus: Backlog
 internalReference: 580543

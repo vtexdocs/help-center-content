@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 tag: Pricing & Promotions
-slug: you-cannot-archive-a-promotion-via-the-create-or-update-promotion-endpoint
+slugEN: you-cannot-archive-a-promotion-via-the-create-or-update-promotion-endpoint
 locale: en
 kiStatus: Backlog
 internalReference: 

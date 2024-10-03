@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:49.803Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_3
-slug: data-entity
+slugEN: data-entity
 locale: en
 legacySlug: creating-data-entity
 subcategoryId: 1l3IVVYwrrG5YOtdt7R2SN

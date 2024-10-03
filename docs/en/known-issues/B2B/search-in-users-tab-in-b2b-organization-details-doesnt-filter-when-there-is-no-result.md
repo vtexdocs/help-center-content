@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: search-in-users-tab-in-b2b-organization-details-doesnt-filter-when-there-is-no-result
+slugEN: search-in-users-tab-in-b2b-organization-details-doesnt-filter-when-there-is-no-result
 locale: en
 kiStatus: Backlog
 internalReference: 1079002

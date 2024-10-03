@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:03:00.444Z
 contentType: tutorial
 productTeam: Others
 author: authors_35
-slug: how-to-change-a-cookie
+slugEN: how-to-change-a-cookie
 locale: en
 legacySlug: how-to-change-a-cookie
 subcategoryId: 1luKrYptdi8WoMYckakUaM

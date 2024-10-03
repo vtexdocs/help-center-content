@@ -9,7 +9,7 @@ firstPublishedAt: 2024-03-13T22:21:24.967Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-pagbrasilv2
+slugEN: setting-up-payments-with-pagbrasilv2
 locale: en
 legacySlug: setting-up-payments-with-pagbrasilv2
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

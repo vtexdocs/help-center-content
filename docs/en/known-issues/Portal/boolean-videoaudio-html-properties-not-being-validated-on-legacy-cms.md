@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: boolean-videoaudio-html-properties-not-being-validated-on-legacy-cms
+slugEN: boolean-videoaudio-html-properties-not-being-validated-on-legacy-cms
 locale: en
 kiStatus: No Fix
 internalReference: 491898

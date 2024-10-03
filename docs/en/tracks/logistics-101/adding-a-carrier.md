@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-10-21T12:51:47.591Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: adding-a-carrier
+slugEN: adding-a-carrier
 locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101

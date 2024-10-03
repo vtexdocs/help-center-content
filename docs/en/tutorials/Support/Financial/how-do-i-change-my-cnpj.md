@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:55:37.869Z
 contentType: tutorial
 productTeam: Identity
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: how-do-i-change-my-cnpj
+slugEN: how-do-i-change-my-cnpj
 locale: en
 legacySlug: how-do-i-change-my-cnpj
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm

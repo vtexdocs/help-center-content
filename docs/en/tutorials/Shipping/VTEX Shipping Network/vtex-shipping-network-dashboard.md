@@ -9,7 +9,7 @@ firstPublishedAt: 2020-04-16T21:37:18.831Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: vtex-shipping-network-dashboard
+slugEN: vtex-shipping-network-dashboard
 locale: en
 legacySlug: vtex-log-dashboard
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
@@ -93,4 +93,4 @@ You can download a report with data from the carriers and package deliveries. To
 2. Wait until you receive the spreadsheet by email.
 3.  Download the spreadsheet.
 
-![Resumo de performance EN](https://images.ctfassets.net/alneenqid6w5/7Ml4WafUUCfuL5zCQeICqk/786e60dd75dc0118711259b8ab4bbd7d/Resumo_de_performance_EN.png)
+![Resumo de performance EN](//images.ctfassets.net/alneenqid6w5/7Ml4WafUUCfuL5zCQeICqk/786e60dd75dc0118711259b8ab4bbd7d/Resumo_de_performance_EN.png)

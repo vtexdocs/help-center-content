@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-06T19:41:32.060Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-99pay
+slugEN: setting-up-payments-with-99pay
 locale: en
 legacySlug: setting-up-payments-with-99pay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-02T17:39:15.192Z
 contentType: tutorial
 productTeam: Shopping
 author: 1nsS1IgG3WWQ4cA8e2qsw6
-slug: how-to-assemble-the-cart-url
+slugEN: how-to-assemble-the-cart-url
 locale: en
 legacySlug: how-to-assemble-the-cart-url
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

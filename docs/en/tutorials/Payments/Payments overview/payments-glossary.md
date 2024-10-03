@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slug: payments-glossary
+slugEN: payments-glossary
 locale: en
 legacySlug: payments-glossary
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

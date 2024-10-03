@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: b2w-freight-value-in-oms-vtex
+slugEN: b2w-freight-value-in-oms-vtex
 locale: en
 kiStatus: No Fix
 internalReference: 671748

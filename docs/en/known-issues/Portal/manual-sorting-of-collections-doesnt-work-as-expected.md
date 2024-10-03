@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: manual-sorting-of-collections-doesnt-work-as-expected
+slugEN: manual-sorting-of-collections-doesnt-work-as-expected
 locale: en
 kiStatus: Backlog
 internalReference: 295245

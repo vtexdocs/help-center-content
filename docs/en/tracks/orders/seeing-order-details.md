@@ -8,7 +8,7 @@ publishedAt: 2023-11-08T14:56:01.508Z
 firstPublishedAt: 2019-11-18T12:20:18.851Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: seeing-order-details
+slugEN: seeing-order-details
 locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders

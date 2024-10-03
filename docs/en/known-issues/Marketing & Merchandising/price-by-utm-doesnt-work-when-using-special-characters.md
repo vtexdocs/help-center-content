@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_35
 tag: Catalog,Pricing & Promotions
-slug: price-by-utm-doesnt-work-when-using-special-characters
+slugEN: price-by-utm-doesnt-work-when-using-special-characters
 locale: en
 kiStatus: Backlog
 internalReference: 

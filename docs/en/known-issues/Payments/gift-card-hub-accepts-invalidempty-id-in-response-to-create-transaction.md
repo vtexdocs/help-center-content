@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: gift-card-hub-accepts-invalidempty-id-in-response-to-create-transaction
+slugEN: gift-card-hub-accepts-invalidempty-id-in-response-to-create-transaction
 locale: en
 kiStatus: Backlog
 internalReference: 855864

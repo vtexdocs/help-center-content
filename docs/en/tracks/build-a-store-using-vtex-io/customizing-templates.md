@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-02-19T19:57:33.579Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: customizing-templates
+slugEN: customizing-templates
 locale: en
 trackId: 5qJr8BIQXAKec9CpBWrTNv
 trackSlugEN: build-a-store-using-vtex-io

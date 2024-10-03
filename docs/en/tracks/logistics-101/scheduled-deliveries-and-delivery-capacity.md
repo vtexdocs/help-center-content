@@ -8,7 +8,7 @@ publishedAt: 2024-03-25T20:07:20.150Z
 firstPublishedAt: 2022-03-08T18:37:54.630Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: scheduled-deliveries-and-delivery-capacity
+slugEN: scheduled-deliveries-and-delivery-capacity
 locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101

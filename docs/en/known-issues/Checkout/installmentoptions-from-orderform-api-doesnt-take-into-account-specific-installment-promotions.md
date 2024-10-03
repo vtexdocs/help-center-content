@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: installmentoptions-from-orderform-api-doesnt-take-into-account-specific-installment-promotions
+slugEN: installmentoptions-from-orderform-api-doesnt-take-into-account-specific-installment-promotions
 locale: en
 kiStatus: No Fix
 internalReference: 644563

@@ -9,7 +9,7 @@ firstPublishedAt: 2024-01-31T00:54:58.302Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: managing-shipping-policies
+slugEN: managing-shipping-policies
 locale: en
 legacySlug: managing-shipping-policies
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
@@ -35,7 +35,7 @@ You can also create shipping policies. Read the instructions in the [Creating a 
 
 In the VTEX Admin, by going to **Shipping > Shipping Strategy** in the **Shipping Policies** tab, you will see a list as shown in the image below:
 
-![shipping_policy_EN](https://images.ctfassets.net/alneenqid6w5/uiwwWTGlS60kPjMDLNfzY/68d66c99a43db25f4e297fbc238f0375/shipping_policy_EN.png)
+![shipping_policy_EN](//images.ctfassets.net/alneenqid6w5/uiwwWTGlS60kPjMDLNfzY/68d66c99a43db25f4e297fbc238f0375/shipping_policy_EN.png)
 
 The information displayed on this page is described in the table below:
 

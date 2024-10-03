@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: benefit-with-restricted-number-of-installments-displays-discount-in-other-installments-in-the-combo-box
+slugEN: benefit-with-restricted-number-of-installments-displays-discount-in-other-installments-in-the-combo-box
 locale: en
 kiStatus: Backlog
 internalReference: 323525

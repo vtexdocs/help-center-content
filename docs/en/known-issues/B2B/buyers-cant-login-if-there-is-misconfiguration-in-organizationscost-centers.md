@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: buyers-cant-login-if-there-is-misconfiguration-in-organizationscost-centers
+slugEN: buyers-cant-login-if-there-is-misconfiguration-in-organizationscost-centers
 locale: en
 kiStatus: Backlog
 internalReference: 945609

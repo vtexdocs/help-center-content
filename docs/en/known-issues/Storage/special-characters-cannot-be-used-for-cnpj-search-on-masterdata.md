@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: special-characters-cannot-be-used-for-cnpj-search-on-masterdata
+slugEN: special-characters-cannot-be-used-for-cnpj-search-on-masterdata
 locale: en
 kiStatus: Backlog
 internalReference: 602054

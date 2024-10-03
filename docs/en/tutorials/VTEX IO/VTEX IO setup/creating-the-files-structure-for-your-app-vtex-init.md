@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T23:02:06.319Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: creating-the-files-structure-for-your-app-vtex-init
+slugEN: creating-the-files-structure-for-your-app-vtex-init
 locale: en
 legacySlug: creating-the-files-structure-for-your-app-vtex-init
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

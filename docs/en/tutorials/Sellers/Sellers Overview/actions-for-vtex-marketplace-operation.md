@@ -9,7 +9,7 @@ firstPublishedAt: 2022-01-26T23:23:49.548Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: actions-for-vtex-marketplace-operation
+slugEN: actions-for-vtex-marketplace-operation
 locale: en
 legacySlug: actions-for-vtex-marketplace-operation
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm

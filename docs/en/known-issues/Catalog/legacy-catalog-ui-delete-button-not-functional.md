@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: legacy-catalog-ui-delete-button-not-functional
+slugEN: legacy-catalog-ui-delete-button-not-functional
 locale: en
 kiStatus: Backlog
 internalReference: 326408

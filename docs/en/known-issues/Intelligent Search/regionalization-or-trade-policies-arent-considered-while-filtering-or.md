@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: authors_84
 tag: Intelligent Search
-slug: regionalization-or-trade-policies-arent-considered-while-filtering-or
+slugEN: regionalization-or-trade-policies-arent-considered-while-filtering-or
 locale: en
 kiStatus: Backlog
 internalReference: 571101

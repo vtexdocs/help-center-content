@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
-slug: my-account-page-does-not-work-on-domain-myvtex-com
+slugEN: my-account-page-does-not-work-on-domain-myvtex-com
 locale: en
 kiStatus: Closed
 internalReference: 

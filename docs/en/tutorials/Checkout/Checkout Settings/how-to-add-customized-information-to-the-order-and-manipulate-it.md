@@ -9,7 +9,7 @@ firstPublishedAt: 2020-05-29T12:20:21.210Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_24
-slug: how-to-add-customized-information-to-the-order-and-manipulate-it
+slugEN: how-to-add-customized-information-to-the-order-and-manipulate-it
 locale: en
 legacySlug: how-to-add-customized-information-to-the-order-and-manipulate-it
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

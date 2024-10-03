@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: impersonation-is-ignored-after-one-purchase-is-completed
+slugEN: impersonation-is-ignored-after-one-purchase-is-completed
 locale: en
 kiStatus: Backlog
 internalReference: 1003545

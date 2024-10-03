@@ -9,7 +9,7 @@ firstPublishedAt: 2017-11-06T20:54:28.487Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: why-isnt-the-product-or-sku-field-filter-bringing-any-result-in-the-search
+slugEN: why-isnt-the-product-or-sku-field-filter-bringing-any-result-in-the-search
 locale: en
 legacySlug: why-isnt-the-product-or-sku-field-filter-bringing-any-result-in-the-search
 ---

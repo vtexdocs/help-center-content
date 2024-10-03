@@ -8,7 +8,7 @@ publishedAt: 2022-02-02T20:32:35.347Z
 firstPublishedAt: 2022-02-02T20:30:34.607Z
 contentType: trackArticle
 productTeam: Channels
-slug: defining-the-shipping-strategy-b2w
+slugEN: defining-the-shipping-strategy-b2w
 locale: en
 trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugEN: b2w-integration-set-up

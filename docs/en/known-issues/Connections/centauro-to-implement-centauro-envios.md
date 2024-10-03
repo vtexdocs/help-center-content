@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: centauro-to-implement-centauro-envios
+slugEN: centauro-to-implement-centauro-envios
 locale: en
 kiStatus: No Fix
 internalReference: 618941

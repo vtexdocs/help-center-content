@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-25T21:05:20.600Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: price-divergence-rule
+slugEN: price-divergence-rule
 locale: en
 legacySlug: price-divergence-rule
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k

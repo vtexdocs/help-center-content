@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-01T21:53:29.140Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slug: setting-up-the-paymee-gateway
+slugEN: setting-up-the-paymee-gateway
 locale: en
 legacySlug: setting-up-the-paymee-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

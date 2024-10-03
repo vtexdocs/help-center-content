@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: orders-seller-1-has-no-notifications-on-hook-type-fromorders-for-state-payment-approved
+slugEN: orders-seller-1-has-no-notifications-on-hook-type-fromorders-for-state-payment-approved
 locale: en
 kiStatus: Backlog
 internalReference: 640925

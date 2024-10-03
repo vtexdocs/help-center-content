@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-02T18:02:20.130Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
-slug: what-are-placeholders
+slugEN: what-are-placeholders
 locale: en
 legacySlug: what-are-placeholders
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

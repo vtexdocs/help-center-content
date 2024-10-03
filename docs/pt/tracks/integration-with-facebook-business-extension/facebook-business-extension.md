@@ -8,7 +8,7 @@ publishedAt: 2023-04-10T13:52:16.703Z
 firstPublishedAt: 2021-09-30T18:46:40.188Z
 contentType: trackArticle
 productTeam: Channels
-slug: facebook-business-extension
+slugEN: facebook-business-extension
 locale: pt
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
 trackSlugPT: integracao-com-o-facebook-business-extension

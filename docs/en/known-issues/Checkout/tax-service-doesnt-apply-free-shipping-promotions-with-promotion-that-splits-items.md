@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: tax-service-doesnt-apply-free-shipping-promotions-with-promotion-that-splits-items
+slugEN: tax-service-doesnt-apply-free-shipping-promotions-with-promotion-that-splits-items
 locale: en
 kiStatus: Backlog
 internalReference: 995527

@@ -8,7 +8,7 @@ publishedAt: 2024-04-30T17:15:44.935Z
 contentType: updates
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: offer-add-on-services-to-products-sold-in-vtex-sales-app
+slugEN: 2024-04-30-offer-add-on-services-to-products-sold-in-vtex-sales-app
 locale: en
 legacySlug: offer-add-on-services-to-products-sold-in-vtex-sales-app
 announcementImageID: ''

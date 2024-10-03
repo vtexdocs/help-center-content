@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: productcomparison-doesnt-allow-changing-checkboxes-if-you-keep-the-drawer-open
+slugEN: productcomparison-doesnt-allow-changing-checkboxes-if-you-keep-the-drawer-open
 locale: en
 kiStatus: Backlog
 internalReference: 568409

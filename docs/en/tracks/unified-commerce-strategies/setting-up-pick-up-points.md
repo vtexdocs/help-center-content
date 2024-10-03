@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: Shopping
-slug: setting-up-pick-up-points
+slugEN: setting-up-pick-up-points
 locale: en
 trackId: 3WGDRRhc3vf1MJb9zGncnv
 trackSlugEN: unified-commerce-strategies

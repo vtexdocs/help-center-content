@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:16.147Z
 contentType: updates
 productTeam: Reliability
 author: 245tA425AIeioKAk2eaiwS
-slug: check-your-stores-caa-record
+slugEN: 2018-11-01-check-your-stores-caa-record
 locale: en
 legacySlug: check-your-stores-caa-record
 announcementImageID: ''

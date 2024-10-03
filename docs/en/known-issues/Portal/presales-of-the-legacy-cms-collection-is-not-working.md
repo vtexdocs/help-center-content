@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: presales-of-the-legacy-cms-collection-is-not-working
+slugEN: presales-of-the-legacy-cms-collection-is-not-working
 locale: en
 kiStatus: Backlog
 internalReference: 885693

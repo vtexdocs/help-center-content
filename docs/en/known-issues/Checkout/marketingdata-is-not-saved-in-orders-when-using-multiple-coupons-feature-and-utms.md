@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: marketingdata-is-not-saved-in-orders-when-using-multiple-coupons-feature-and-utms
+slugEN: marketingdata-is-not-saved-in-orders-when-using-multiple-coupons-feature-and-utms
 locale: en
 kiStatus: Fixed
 internalReference: 936458

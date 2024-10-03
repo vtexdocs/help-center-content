@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T20:30:45.618Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 5fYXkMJagMwcSAeMAsAuOI
-slug: what-to-do-when-the-notify-me-option-is-not-displayed
+slugEN: what-to-do-when-the-notify-me-option-is-not-displayed
 locale: en
 legacySlug: what-to-do-when-the-avise-me-doesnt-show
 ---

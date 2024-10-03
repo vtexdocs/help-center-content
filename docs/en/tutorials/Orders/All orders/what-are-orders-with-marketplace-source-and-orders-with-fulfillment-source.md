@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:38:41.806Z
 contentType: tutorial
 productTeam: Others
 author: authors_24
-slug: what-are-orders-with-marketplace-source-and-orders-with-fulfillment-source
+slugEN: what-are-orders-with-marketplace-source-and-orders-with-fulfillment-source
 locale: en
 legacySlug: what-are-orders-with-marketplace-source-and-orders-with-fulfillment-source
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

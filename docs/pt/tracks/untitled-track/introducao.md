@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: unknown
-slug: introducao
+slugEN: introducao
 locale: pt
 trackId: 
 trackSlugPT: untitled-track

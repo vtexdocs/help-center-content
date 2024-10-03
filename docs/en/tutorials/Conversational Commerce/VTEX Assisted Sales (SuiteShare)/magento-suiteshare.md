@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-31T14:35:56.504Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: magento-suiteshare
+slugEN: magento-suiteshare
 locale: en
 legacySlug: magento-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

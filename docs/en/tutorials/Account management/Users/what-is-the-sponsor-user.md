@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:00:34.038Z
 contentType: tutorial
 productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
-slug: what-is-the-sponsor-user
+slugEN: what-is-the-sponsor-user
 locale: en
 legacySlug: what-is-the-master-user
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M

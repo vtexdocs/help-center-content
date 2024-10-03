@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-06T19:25:08.827Z
 contentType: tutorial
 productTeam: Master Data
 author: 3vtAArasKQiuQKUg6AAuqq
-slug: vtable
+slugEN: vtable
 locale: es
 legacySlug: vtable
 subcategoryId: 5gtjaqCG7eIseyCI0aSqc2

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: legacy-collections-cms-special-character-validation-diverges-from-new-collections
+slugEN: legacy-collections-cms-special-character-validation-diverges-from-new-collections
 locale: en
 kiStatus: Backlog
 internalReference: 450569

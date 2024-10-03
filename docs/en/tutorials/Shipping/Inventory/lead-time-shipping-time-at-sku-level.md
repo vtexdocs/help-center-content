@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-22T01:35:53.577Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: lead-time-shipping-time-at-sku-level
+slugEN: lead-time-shipping-time-at-sku-level
 locale: en
 legacySlug: lead-time-shipping-time-at-sku-level
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE
@@ -78,7 +78,7 @@ To configure the lead time for a SKU, follow the steps below:
 1. In the VTEX Admin, go to **Catalog > Inventory > Inventory Management**, or type **Inventory Management** in the search bar at the top of the page.
 2. Select the SKU you want to configure. You can use the search bar and filters.
 3. In the SKU row and the **Lead time (days)** column, enter the days you want.
-  ![lead_time_inventory_management_EN](https://images.ctfassets.net/alneenqid6w5/mfWUVzj7tgHMQxJTnVjGX/34a3c9f845038312b1b3cdb273102562/lead_time_inventory_management_EN.png)
+  ![lead_time_inventory_management_EN](//images.ctfassets.net/alneenqid6w5/mfWUVzj7tgHMQxJTnVjGX/34a3c9f845038312b1b3cdb273102562/lead_time_inventory_management_EN.png)
 4. Click `Save` at the bottom of the page.
 
 >ℹ️ In the VTEX Admin, lead time is always configured in days, but you can configure it in hours, minutes, and seconds using the endpoints [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-) and [Update inventory lead time by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#patch-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-/lead-time).

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
-slug: products-remain-in-the-collection-after-their-removal
+slugEN: products-remain-in-the-collection-after-their-removal
 locale: en
 kiStatus: Fixed
 internalReference: 

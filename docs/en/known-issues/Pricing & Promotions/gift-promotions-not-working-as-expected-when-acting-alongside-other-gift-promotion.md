@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: gift-promotions-not-working-as-expected-when-acting-alongside-other-gift-promotion
+slugEN: gift-promotions-not-working-as-expected-when-acting-alongside-other-gift-promotion
 locale: en
 kiStatus: No Fix
 internalReference: 729980

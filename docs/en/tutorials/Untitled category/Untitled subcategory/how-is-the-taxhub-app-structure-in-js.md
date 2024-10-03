@@ -9,7 +9,7 @@ firstPublishedAt: 2017-07-26T17:52:25.165Z
 contentType: tutorial
 productTeam: Others
 author: 2Y2pnNkWfSoUMMYcwemq4A
-slug: how-is-the-taxhub-app-structure-in-js
+slugEN: how-is-the-taxhub-app-structure-in-js
 locale: en
 legacySlug: how-is-the-taxhub-app-structure-in-js
 subcategoryId: unknown-subcategory

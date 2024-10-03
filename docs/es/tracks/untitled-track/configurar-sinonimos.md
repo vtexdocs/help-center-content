@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: unknown
-slug: configurar-sinonimos
+slugEN: configurar-sinonimos
 locale: es
 trackId: 
 trackSlugES: untitled-track

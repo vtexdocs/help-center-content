@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: product-insertupdate-api-allows-n-in-the-textlink-field
+slugEN: product-insertupdate-api-allows-n-in-the-textlink-field
 locale: en
 kiStatus: No Fix
 internalReference: 486459

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: nderstand-why-some-orders-placed-at-magalu-were-as-incomplet
+slugEN: nderstand-why-some-orders-placed-at-magalu-were-as-incomplet
 locale: pt
 kiStatus: Backlog
 internalReference: 597771

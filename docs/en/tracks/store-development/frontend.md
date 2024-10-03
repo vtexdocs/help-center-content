@@ -8,7 +8,7 @@ publishedAt: 2023-04-25T19:15:45.158Z
 firstPublishedAt: 2022-12-22T19:57:08.694Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: frontend
+slugEN: frontend
 locale: en
 trackId: 3fHF3GIjK8UugnQKIakpl9
 trackSlugEN: store-development

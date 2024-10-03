@@ -8,7 +8,7 @@ publishedAt: 2023-03-28T17:46:07.434Z
 firstPublishedAt: 2019-06-25T19:06:13.355Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: creating-categories
+slugEN: creating-categories
 locale: en
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugEN: catalog-101

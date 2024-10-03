@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: export-lots-of-productsskus-takes-long-time-and-sometimes-the-request-can-not-completed
+slugEN: export-lots-of-productsskus-takes-long-time-and-sometimes-the-request-can-not-completed
 locale: en
 kiStatus: No Fix
 internalReference: 284386

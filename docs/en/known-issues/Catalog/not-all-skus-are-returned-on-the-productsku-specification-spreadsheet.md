@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: not-all-skus-are-returned-on-the-productsku-specification-spreadsheet
+slugEN: not-all-skus-are-returned-on-the-productsku-specification-spreadsheet
 locale: en
 kiStatus: Fixed
 internalReference: 649316

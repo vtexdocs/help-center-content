@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: differences-between-specification-value-on-apis-and-portal
+slugEN: differences-between-specification-value-on-apis-and-portal
 locale: en
 kiStatus: Backlog
 internalReference: 853184

@@ -8,7 +8,7 @@ publishedAt: 2023-04-10T13:32:13.651Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: redesigned-products-and-skus-page
+slugEN: 2023-04-10-redesigned-products-and-skus-page
 locale: en
 legacySlug: redesigned-products-and-skus-page
 announcementImageID: ''

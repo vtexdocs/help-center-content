@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-25T21:36:19.571Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: what-is-a-category
+slugEN: what-is-a-category
 locale: en
 legacySlug: what-is-a-category
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec

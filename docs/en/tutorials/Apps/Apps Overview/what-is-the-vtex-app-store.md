@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-15T20:22:27.547Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-the-vtex-app-store
+slugEN: what-is-the-vtex-app-store
 locale: en
 legacySlug: what-is-the-vtex-app-store
 subcategoryId: 3e2VLdLao8GGk4sAmMmwmi

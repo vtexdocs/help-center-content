@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:03:18.967Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slug: order-report
+slugEN: order-report
 locale: en
 legacySlug: orders-worksheet
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

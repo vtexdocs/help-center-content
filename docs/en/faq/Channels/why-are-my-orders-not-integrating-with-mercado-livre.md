@@ -9,7 +9,7 @@ firstPublishedAt: 2019-03-26T19:21:47.846Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 71cQH3Q0oKXzeY2DmMZRKX
-slug: why-are-my-orders-not-integrating-with-mercado-livre
+slugEN: why-are-my-orders-not-integrating-with-mercado-livre
 locale: en
 legacySlug: untitled-entry-2019-03-26-at-07-10-38
 ---

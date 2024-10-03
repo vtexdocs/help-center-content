@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: order-filter-doesnt-work-properly-due-to-double-quotes-in-the-promotion-name-or-sku-name
+slugEN: order-filter-doesnt-work-properly-due-to-double-quotes-in-the-promotion-name-or-sku-name
 locale: en
 kiStatus: Backlog
 internalReference: 1045623

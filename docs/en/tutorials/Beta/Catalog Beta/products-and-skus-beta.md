@@ -9,7 +9,7 @@ firstPublishedAt: 2022-11-30T19:04:31.183Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: products-and-skus-beta
+slugEN: products-and-skus-beta
 locale: en
 legacySlug: products-and-skus-beta
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
@@ -59,7 +59,7 @@ To find a specific product, you can type one of the following in the search bar:
 
 Then, click on the criteria you want to use for the search, as illustrated in the following image:
 
-![products-skus-search-en](https://images.ctfassets.net/alneenqid6w5/3XkJPsJihm6flcVxPksPPO/f0f028bb188ed98868f4fc9738e96511/search-en.gif)
+![products-skus-search-en](//images.ctfassets.net/alneenqid6w5/3XkJPsJihm6flcVxPksPPO/f0f028bb188ed98868f4fc9738e96511/search-en.gif)
 
 The list of products displayed will then be refreshed according to your search. 
 
@@ -97,7 +97,7 @@ To view the status of a product's SKUs, read the section [Viewing the SKU List](
 
 When you click the arrow <i class="fas fa-chevron-right"></i> in the product row in the list, the platform displays a list with all the SKUs of that product: 
 
-![sku-actions-en](https://images.ctfassets.net/alneenqid6w5/wv1FevJRrT0GwvKvvNb2W/06822a59851d6f677c47c4cd3d1d4230/sku-actions-en.gif)
+![sku-actions-en](//images.ctfassets.net/alneenqid6w5/wv1FevJRrT0GwvKvvNb2W/06822a59851d6f677c47c4cd3d1d4230/sku-actions-en.gif)
 
 In the SKU list, you will find the following information:
 
@@ -142,7 +142,7 @@ When clicking the menu on a product line and choosing **View indexed info**, you
 
 This modal tab displays the SKU list associated with the product and its corresponding indexed information.
 
-![catalog-price-inventory-en](https://images.ctfassets.net/alneenqid6w5/4JWODR51ILI7KhEnzVC2t2/b3968e801767f2d06423bc507f2ea6b5/price-inventory-en.PNG)
+![catalog-price-inventory-en](//images.ctfassets.net/alneenqid6w5/4JWODR51ILI7KhEnzVC2t2/b3968e801767f2d06423bc507f2ea6b5/price-inventory-en.PNG)
 
 By clicking the arrow `>` in each SKU row, you can view a table with the following information:
 
@@ -157,7 +157,7 @@ By clicking the arrow `>` in each SKU row, you can view a table with the followi
 
 This modal tab displays the log, in other words, the detailed technical indexing record for the product and related SKUs.
 
-![indexed-log-en](https://images.ctfassets.net/alneenqid6w5/4pPJmvun6SB9jTFqSR7XSX/4c2095af6dec446e27db570e067b4d5f/indexed-log-en.PNG)
+![indexed-log-en](//images.ctfassets.net/alneenqid6w5/4pPJmvun6SB9jTFqSR7XSX/4c2095af6dec446e27db570e067b4d5f/indexed-log-en.PNG)
 
 ## Learn more
 

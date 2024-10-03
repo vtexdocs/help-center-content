@@ -9,7 +9,7 @@ firstPublishedAt: 2021-08-17T21:15:23.028Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: order-errors-in-the-via-integration
+slugEN: order-errors-in-the-via-integration
 locale: en
 legacySlug: via-integration-orders-erros
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky

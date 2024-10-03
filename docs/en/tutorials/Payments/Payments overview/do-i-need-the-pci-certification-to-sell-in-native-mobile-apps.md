@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:07:01.366Z
 contentType: tutorial
 productTeam: Financial
 author: 2LFh4Ox3XiWIqUMWw4MOGw
-slug: do-i-need-the-pci-certification-to-sell-in-native-mobile-apps
+slugEN: do-i-need-the-pci-certification-to-sell-in-native-mobile-apps
 locale: en
 legacySlug: do-i-need-the-pci-certification-to-sell-in-native-mobile-apps
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

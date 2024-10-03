@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:14:28.069Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: custom-payment-information-for-argentina
+slugEN: custom-payment-information-for-argentina
 locale: en
 legacySlug: custom-payment-information-for-argentina
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-10-17T19:43:17.176Z
 contentType: tutorial
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: why-was-a-customer-able-to-register-a-cpf-in-a-cnpj-field
+slugEN: why-was-a-customer-able-to-register-a-cpf-in-a-cnpj-field
 locale: en
 legacySlug: why-was-a-customer-able-to-register-a-cpf-in-a-cnpj-field
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l

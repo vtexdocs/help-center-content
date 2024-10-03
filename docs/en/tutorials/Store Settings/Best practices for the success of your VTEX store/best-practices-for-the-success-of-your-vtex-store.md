@@ -9,7 +9,7 @@ firstPublishedAt: 2024-05-24T22:42:51.899Z
 contentType: tutorial
 productTeam: Others
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: best-practices-for-the-success-of-your-vtex-store
+slugEN: best-practices-for-the-success-of-your-vtex-store
 locale: en
 legacySlug: best-practices-for-the-success-of-your-vtex-store
 subcategoryId: 4PeX73EGpmULh9Ip5F4XER

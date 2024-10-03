@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: purchase-cant-be-finished-and-is-stuck-on-freight-type-has-changed
+slugEN: purchase-cant-be-finished-and-is-stuck-on-freight-type-has-changed
 locale: en
 kiStatus: Backlog
 internalReference: 449341

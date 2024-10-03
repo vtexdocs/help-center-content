@@ -8,7 +8,7 @@ publishedAt: 2024-07-30T16:23:50.641Z
 firstPublishedAt: 2024-02-22T14:09:20.283Z
 contentType: trackArticle
 productTeam: Others
-slug: other-vtex-module-settings
+slugEN: other-vtex-module-settings
 locale: en
 trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: next-steps-after-the-go-live

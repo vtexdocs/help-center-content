@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-21T23:00:12.259Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: how-to-add-the-pci-ssc-certificate-to-the-store
+slugEN: how-to-add-the-pci-ssc-certificate-to-the-store
 locale: en
 legacySlug: how-to-add-the-pci-ssc-certificate-to-the-store
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

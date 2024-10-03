@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-06-28T19:22:31.049Z
 contentType: trackArticle
 productTeam: Shopping
-slug: customizing-instores-layout
+slugEN: customizing-instores-layout
 locale: en
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugEN: customizing-instores-layout

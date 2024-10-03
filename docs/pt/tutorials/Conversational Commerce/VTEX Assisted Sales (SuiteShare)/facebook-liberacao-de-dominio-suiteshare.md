@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T18:22:24.429Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: facebook-liberacao-de-dominio-suiteshare
+slugEN: facebook-liberacao-de-dominio-suiteshare
 locale: pt
 legacySlug: facebook-liberacao-de-dominio
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-05-05T13:44:32.122Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-55pay
+slugEN: setting-up-payments-with-55pay
 locale: en
 legacySlug: setting-up-payments-with-55pay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

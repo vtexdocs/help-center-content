@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: after-clicking-to-review-a-product-the-user-cant-exit-the-login-screen
+slugEN: after-clicking-to-review-a-product-the-user-cant-exit-the-login-screen
 locale: en
 kiStatus: Backlog
 internalReference: 

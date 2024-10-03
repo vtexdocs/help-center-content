@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-16T15:25:22.332Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: license-manager-resources-billing
+slugEN: license-manager-resources-billing
 locale: en
 legacySlug: license-manager-resources-billing
 subcategoryId: 1HSqkejwuYcQSMC400uY84

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:34.481Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
-slug: why-were-products-not-sent-to-the-marketplace
+slugEN: why-were-products-not-sent-to-the-marketplace
 locale: en
 legacySlug: why-were-products-not-sent-to-the-marketplace
 ---

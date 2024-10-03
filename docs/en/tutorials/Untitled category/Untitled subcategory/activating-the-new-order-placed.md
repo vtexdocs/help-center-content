@@ -9,7 +9,7 @@ firstPublishedAt: 2017-05-23T13:33:29.739Z
 contentType: tutorial
 productTeam: Others
 author: authors_6
-slug: activating-the-new-order-placed
+slugEN: activating-the-new-order-placed
 locale: en
 legacySlug: activating-the-new-order-placed
 subcategoryId: unknown-subcategory
@@ -21,6 +21,6 @@ The new Order Placed page brings an enhanced and fully mobile-friendly layout.
 
 To activate it, go to the **Orders** tab the Portal module and activate the opt-in _Order Placed Upgrade_. The new version will be activated by default on 12/20/2017 and the old version will be discontinued.
 
-![Opt in no Portal V2](https://images.contentful.com/alneenqid6w5/Ce7a3zePdIkEWcMy8m2w8/396ecacbc62a5a1883d2faf0197f4090/cconf-announcement-1.png)
+![Opt in no Portal V2](//images.contentful.com/alneenqid6w5/Ce7a3zePdIkEWcMy8m2w8/396ecacbc62a5a1883d2faf0197f4090/cconf-announcement-1.png)
 
 To learn how to upgrade your customization, check the tutorial [Customizing the Checkout Confirmation pages](http://help.vtex.com/en/tutorial/customizing-the-checkout-confirmation-pages).

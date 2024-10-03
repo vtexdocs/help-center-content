@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:01:45.229Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: i-received-the-message-error-the-limit-of-activated-calculators-has-been-reached-what-to-do
+slugEN: i-received-the-message-error-the-limit-of-activated-calculators-has-been-reached-what-to-do
 locale: en
 legacySlug: i-received-the-message-error-the-limit-of-activated-calculators-has-been-reached-what-to-do
 ---

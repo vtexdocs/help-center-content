@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: space-in-street-property-in-postal-code-json-affects-address-field-display-at-checkout
+slugEN: space-in-street-property-in-postal-code-json-affects-address-field-display-at-checkout
 locale: en
 kiStatus: No Fix
 internalReference: 872935

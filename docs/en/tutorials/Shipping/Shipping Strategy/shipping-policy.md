@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:45.247Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: shipping-policy
+slugEN: shipping-policy
 locale: en
 legacySlug: adding-a-carrier, manage-carrier
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

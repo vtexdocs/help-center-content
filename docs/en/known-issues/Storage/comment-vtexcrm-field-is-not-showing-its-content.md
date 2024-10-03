@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: comment-vtexcrm-field-is-not-showing-its-content
+slugEN: comment-vtexcrm-field-is-not-showing-its-content
 locale: en
 kiStatus: Backlog
 internalReference: 565919

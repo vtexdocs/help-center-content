@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-mapper-incorrectly-sending-product-specification-as-variation
+slugEN: meli-mapper-incorrectly-sending-product-specification-as-variation
 locale: en
 kiStatus: Backlog
 internalReference: 851021

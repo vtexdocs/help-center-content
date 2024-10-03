@@ -3,13 +3,13 @@ title: 'Filling in fields in the product and SKU import spreadsheet'
 id: 4nYhx63Q5yokQWaMguaIgI
 status: PUBLISHED
 createdAt: 2018-02-06T20:09:19.608Z
-updatedAt: 2021-12-03T18:43:12.902Z
-publishedAt: 2021-12-03T18:43:12.902Z
+updatedAt: 2024-09-19T13:30:38.118Z
+publishedAt: 2024-09-19T13:30:38.118Z
 firstPublishedAt: 2018-02-06T20:23:29.492Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: filling-in-fields-in-the-import-spreadsheet
+slugEN: filling-in-fields-in-the-import-spreadsheet
 locale: en
 legacySlug: filling-in-fields-in-the-import-spreadsheet
 subcategoryId: 2u48reCb68K48EAcm86ccM
@@ -80,7 +80,7 @@ On the VTEX platform, you can [import products and SKUs in bulk using a spreadsh
 
 **CaptionLink:** field used to create the product URL. It is recommended not to use accent marks and to separate words by a hyphen. Each product must contain a different _CaptionLink_. Required field.
 
-**ProductDescription:** a description with the main information related to the product. It’s a clear and simple product description for customers. If you do not fill in this field, the system will replicate the _ProductName_ to complete the product registration.
+**ProductDescription:** a description with the main information related to the product. It’s a clear and simple product description for customers.
 
 **ProductLaunchDate:** field used to schedule the product’s activation date in the format _dd/mm/yyyy_.
 

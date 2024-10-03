@@ -8,7 +8,7 @@ publishedAt: 2022-12-08T20:38:10.079Z
 firstPublishedAt: 2021-02-08T20:10:25.219Z
 contentType: trackArticle
 productTeam: Channels
-slug: defining-a-trade-policy
+slugEN: defining-a-trade-policy
 locale: en
 trackId: 7h8KvIC4DbRRc8VlyJ8PFc
 trackSlugEN: facebook-integration

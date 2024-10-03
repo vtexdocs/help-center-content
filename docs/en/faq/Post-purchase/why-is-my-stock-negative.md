@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:01:42.612Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
-slug: why-is-my-stock-negative
+slugEN: why-is-my-stock-negative
 locale: en
 legacySlug: why-is-my-stock-negative
 ---

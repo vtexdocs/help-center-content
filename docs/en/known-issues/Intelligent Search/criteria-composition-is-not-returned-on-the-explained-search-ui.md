@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: criteria-composition-is-not-returned-on-the-explained-search-ui
+slugEN: criteria-composition-is-not-returned-on-the-explained-search-ui
 locale: en
 kiStatus: Backlog
 internalReference: 852898

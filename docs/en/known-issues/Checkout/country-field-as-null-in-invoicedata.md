@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: country-field-as-null-in-invoicedata
+slugEN: country-field-as-null-in-invoicedata
 locale: en
 kiStatus: Fixed
 internalReference: 382175

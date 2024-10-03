@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:27.686Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: how-to-view-transactions-on-pci-gateway
+slugEN: how-to-view-transactions-on-pci-gateway
 locale: en
 legacySlug: how-to-view-transactions-on-pci-gateway
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu

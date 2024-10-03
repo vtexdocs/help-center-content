@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: audit-pricing-logs-showing-unknow-information
+slugEN: audit-pricing-logs-showing-unknow-information
 locale: en
 kiStatus: Backlog
 internalReference: 856420

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: promotion-usage-counter-not-working-as-expected
+slugEN: promotion-usage-counter-not-working-as-expected
 locale: en
 kiStatus: Backlog
 internalReference: 1090367

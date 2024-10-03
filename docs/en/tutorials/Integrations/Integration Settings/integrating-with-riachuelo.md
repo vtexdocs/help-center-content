@@ -9,7 +9,7 @@ firstPublishedAt: 2021-07-12T21:56:47.310Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: integrating-with-riachuelo
+slugEN: integrating-with-riachuelo
 locale: en
 legacySlug: integrating-with-riachuelo
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

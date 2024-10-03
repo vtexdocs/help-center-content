@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: ui-doesnt-show-the-form-to-edit-address-when-selecting-to-add-a-new-address-first
+slugEN: ui-doesnt-show-the-form-to-edit-address-when-selecting-to-add-a-new-address-first
 locale: en
 kiStatus: Fixed
 internalReference: 747772

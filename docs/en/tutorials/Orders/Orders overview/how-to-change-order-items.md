@@ -9,7 +9,7 @@ firstPublishedAt: 2020-12-28T21:20:33.832Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: how-to-change-order-items
+slugEN: how-to-change-order-items
 locale: en
 legacySlug: how-to-change-order-items-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ

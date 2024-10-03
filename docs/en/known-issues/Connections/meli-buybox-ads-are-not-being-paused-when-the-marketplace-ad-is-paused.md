@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-buybox-ads-are-not-being-paused-when-the-marketplace-ad-is-paused
+slugEN: meli-buybox-ads-are-not-being-paused-when-the-marketplace-ad-is-paused
 locale: en
 kiStatus: Fixed
 internalReference: 910371

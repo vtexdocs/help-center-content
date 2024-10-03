@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: untitled
+slugEN: untitled
 locale: pt
 kiStatus: Fixed
 internalReference: 631970

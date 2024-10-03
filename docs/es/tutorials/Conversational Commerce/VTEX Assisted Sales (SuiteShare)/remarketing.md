@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T14:31:36.868Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: remarketing
+slugEN: remarketing
 locale: es
 legacySlug: remarketing
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

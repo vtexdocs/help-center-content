@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:01:57.938Z
 contentType: tutorial
 productTeam: Channels
 author: authors_84
-slug: what-is-an-affiliate
+slugEN: what-is-an-affiliate
 locale: en
 legacySlug: what-is-affiliate
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: alert-for-fill-the-scheduled-delivery-selection-appears-only-once
+slugEN: alert-for-fill-the-scheduled-delivery-selection-appears-only-once
 locale: en
 kiStatus: No Fix
 internalReference: 565982

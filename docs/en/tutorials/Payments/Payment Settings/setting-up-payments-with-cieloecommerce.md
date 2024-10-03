@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-18T15:29:57.321Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-cieloecommerce
+slugEN: setting-up-payments-with-cieloecommerce
 locale: en
 legacySlug: setting-up-payments-with-cieloecommerce
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

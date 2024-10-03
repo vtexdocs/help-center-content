@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:42.389Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: configuring-the-additional-freight
+slugEN: configuring-the-additional-freight
 locale: en
 legacySlug: configuring-the-additional-freight
 subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi

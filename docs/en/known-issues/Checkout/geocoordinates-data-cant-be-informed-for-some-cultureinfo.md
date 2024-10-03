@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: geocoordinates-data-cant-be-informed-for-some-cultureinfo
+slugEN: geocoordinates-data-cant-be-informed-for-some-cultureinfo
 locale: en
 kiStatus: No Fix
 internalReference: 582065

@@ -8,7 +8,7 @@ publishedAt: 2021-11-22T18:37:59.401Z
 firstPublishedAt: 2020-01-13T14:32:22.601Z
 contentType: trackArticle
 productTeam: Identity
-slug: understanding-your-account
+slugEN: understanding-your-account
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: contas-e-permissoes

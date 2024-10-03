@@ -9,7 +9,7 @@ firstPublishedAt: 2019-05-16T17:44:09.660Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: promoting-a-workspace-to-master
+slugEN: promoting-a-workspace-to-master
 locale: en
 legacySlug: promoting-a-workspace-to-master
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

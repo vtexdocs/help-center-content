@@ -9,7 +9,7 @@ firstPublishedAt: 2021-07-28T19:55:21.464Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: out-of-stock-errors-in-marketplace-integration-orders
+slugEN: out-of-stock-errors-in-marketplace-integration-orders
 locale: en
 legacySlug: out-of-stock-errors-in-marketplace-integration-orders
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP

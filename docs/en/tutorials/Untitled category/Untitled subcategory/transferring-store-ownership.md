@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
-slug: transferring-store-ownership
+slugEN: transferring-store-ownership
 locale: en
 legacySlug: transferring-store-ownership
 subcategoryId: unknown-subcategory
@@ -51,7 +51,7 @@ This will complete the ownership transfer – cancelling the invitation will no 
 
 The Sponsor user is responsible for critical maintenance and authorization actions, and mistakes made by this user role can have drastic consequences. Therefore, it is essential to track  changes related to this user role. To monitor and audit  account ownership transfers, you can access the activity log on the Sponsor management page by clicking on the **Activity Log** button. 
 
-![Activity Log](https://images.ctfassets.net/alneenqid6w5/6iXw7ib1Wsq4BiyR4Dgp8C/a4d638c4dac1442a317acc1e40686326/Activity_Log_en.gif)
+![Activity Log](//images.ctfassets.net/alneenqid6w5/6iXw7ib1Wsq4BiyR4Dgp8C/a4d638c4dac1442a317acc1e40686326/Activity_Log_en.gif)
 
 All events related to the transfer of account ownership are logged in the activity log with the date they occurred and the user associated with the event.
 

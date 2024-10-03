@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-06-28T19:11:02.443Z
 contentType: trackArticle
 productTeam: Shopping
-slug: forcing-stock-availability
+slugEN: forcing-stock-availability
 locale: en
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugEN: forcing-stock-availability

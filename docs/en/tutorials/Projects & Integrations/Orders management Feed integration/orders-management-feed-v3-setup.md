@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-30T20:37:00.666Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
-slug: orders-management-feed-v3-setup
+slugEN: orders-management-feed-v3-setup
 locale: en
 legacySlug: orders-management-feed-v3
 subcategoryId: 3Y8xzVGMXcuPTuzfFI0vUp

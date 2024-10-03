@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: shipping-options-gets-frozen-when-trying-to-select-an-option
+slugEN: shipping-options-gets-frozen-when-trying-to-select-an-option
 locale: en
 kiStatus: Fixed
 internalReference: 898888

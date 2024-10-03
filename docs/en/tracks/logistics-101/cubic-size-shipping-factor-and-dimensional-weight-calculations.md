@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-10-23T14:42:24.088Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: cubic-size-shipping-factor-and-dimensional-weight-calculations
+slugEN: cubic-size-shipping-factor-and-dimensional-weight-calculations
 locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101

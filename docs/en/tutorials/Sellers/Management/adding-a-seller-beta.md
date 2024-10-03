@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-02T18:34:51.208Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: adding-a-seller-beta
+slugEN: adding-a-seller-beta
 locale: en
 legacySlug: adding-a-seller-beta
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu

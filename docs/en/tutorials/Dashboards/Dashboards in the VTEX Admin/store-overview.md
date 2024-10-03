@@ -9,7 +9,7 @@ firstPublishedAt: 2021-11-18T22:53:28.982Z
 contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: store-overview
+slugEN: store-overview
 locale: en
 legacySlug: store-overview
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
@@ -55,7 +55,7 @@ To compare data from different periods, on the top of the page, select the date 
 
 ## Metrics
 
-![Store overview Metricas EN](https://images.ctfassets.net/alneenqid6w5/75FnGMAHaNQxfcHmKM7Jjf/e607a9f5f31572420c0e149195f17f3a/Metricas_EN.png)
+![Store overview Metricas EN](//images.ctfassets.net/alneenqid6w5/75FnGMAHaNQxfcHmKM7Jjf/e607a9f5f31572420c0e149195f17f3a/Metricas_EN.png)
 The table below describes the key metrics available in the homepage dashboard. All metrics refer to purchase flows made in VTEX stores in a given time frame.
 
 | Metric                               | Description                                                                                                                                                                                                                                                                               |
@@ -69,7 +69,7 @@ The table below describes the key metrics available in the homepage dashboard. A
 | Orders in the past hour              | Orders placed in your store in the past hour. By clicking on this metric, you are redirected to the All Orders page.                                                                                                                                                                      |
 
 ## Highest grossing products
-![Store overview Growing products PT](https://images.ctfassets.net/alneenqid6w5/5J5U85LjLuTt6MRFSaisZG/12b76c6938510fc269a4fe561021690a/Store_overview_Growing_products_EN.jpg)  
+![Store overview Growing products PT](//images.ctfassets.net/alneenqid6w5/5J5U85LjLuTt6MRFSaisZG/12b76c6938510fc269a4fe561021690a/Store_overview_Growing_products_EN.jpg)  
 
 This component lists your highest grossing products and products with the highest number of units sold in the selected period. 
 
@@ -80,16 +80,16 @@ Know more about the metrics:
 - __Highest sold units products:__ the products with most units sold in the selected period. This list shows the quantity of sold units, and a percentage indicating the increase or decrease in sold units, comparing the selected periods.
 
 ## Performed orders
-![Store overview Pedidos realizados EN](https://images.ctfassets.net/alneenqid6w5/54DyQfUdOlf3VZdwIUdQjT/b10ae305893dc43f313b412731c7d356/Pedidos_realizados_EN.png)
+![Store overview Pedidos realizados EN](//images.ctfassets.net/alneenqid6w5/54DyQfUdOlf3VZdwIUdQjT/b10ae305893dc43f313b412731c7d356/Pedidos_realizados_EN.png)
 
 This chart displays the number of orders that were received by your store in the selected period. The thick blue line represents the orders placed in the more recent period. The thin gray line represents the orders placed in the period selected for comparison. By hovering the mouse over the chart, the number of orders captured at a specific time is displayed.
 
 ## Canceled orders
-![Store overview Pedidos cancelados EN](https://images.ctfassets.net/alneenqid6w5/2RUKzEeb2SvpktBvQJoUQk/fff4e13c813fd3daf99aa0cd839a2259/Pedidos_cancelados_EN.png)
+![Store overview Pedidos cancelados EN](//images.ctfassets.net/alneenqid6w5/2RUKzEeb2SvpktBvQJoUQk/fff4e13c813fd3daf99aa0cd839a2259/Pedidos_cancelados_EN.png)
 This chart displays the number of orders that have been canceled in your store in the selected period. The thick blue line represents the orders canceled in the more recent period. The thin gray line represents the orders canceled in the period selected for comparison. By hovering the mouse over the chart, the number of canceled orders at a specific time is displayed.  
 
 ## Order trend analysis
-![Store overview Order trend EN](https://images.ctfassets.net/alneenqid6w5/5c3eFasw5spgqeynh4Q9c5/694055732b0c694049732420163291a8/Store_overview_Order_trend_EN.jpg)  
+![Store overview Order trend EN](//images.ctfassets.net/alneenqid6w5/5c3eFasw5spgqeynh4Q9c5/694055732b0c694049732420163291a8/Store_overview_Order_trend_EN.jpg)  
 
 This chart shows your store’s order trend, indicating the number of orders placed by shoppers in the selected period.
 
@@ -98,13 +98,13 @@ The line indicates the order curve for the selected period. By hovering the mous
 The number shown on top of the chart refers to the orders placed in the last hour and it is updated every five minutes.  The label on top of the chart indicates whether orders are being placed at a `normal`, `low` or `high` rate when compared to your store’s usual performance for that period. 
 
 ## Conversion rate
-![Store overview Conversion rate EN](https://images.ctfassets.net/alneenqid6w5/1S5WA2yR00R1GuBU0NoKaZ/f6435fce96325abc0e8c4f11021234bf/Store_overview_Conversion_rate_EN.jpg)  
+![Store overview Conversion rate EN](//images.ctfassets.net/alneenqid6w5/1S5WA2yR00R1GuBU0NoKaZ/f6435fce96325abc0e8c4f11021234bf/Store_overview_Conversion_rate_EN.jpg)  
 
 This chart shows your store’s conversion rate in the selected periods you wish to compare. The conversion rate is calculated by dividing the total number of orders by the total number of sessions in your store. The thick blue line indicates the conversion rate for the most recent period. The thin blue line indicates the conversion rate for the the period selected for comparison. The chart also indicates the percentage (%) and percentual points (p.p) of increase or decrease for this metric. By hovering the mouse over the chart, you can see the value of that metric at specific times. 
 
 ## Sales funnel
 
-![Store overview sales funnel EN](https://images.ctfassets.net/alneenqid6w5/3jSzBfJ4nQa8iI2f1opyds/a477554ecdb6d2e8eccc427f06503b2b/Store_overview_sales_funnel_EN.jpg)  
+![Store overview sales funnel EN](//images.ctfassets.net/alneenqid6w5/3jSzBfJ4nQa8iI2f1opyds/a477554ecdb6d2e8eccc427f06503b2b/Store_overview_sales_funnel_EN.jpg)  
 
 This chart allows you to track the volume of sessions in the intermediate stages of the purchase flow and view opportunities for optimizing the store's conversion rate. The table below describes the intermediate stages of the purchase flow.
 
@@ -120,7 +120,7 @@ This chart allows you to track the volume of sessions in the intermediate stages
 Each blue bar in the chart represents the volume of sessions that have reached a certain stage of the purchase flow. This volume is represented as an absolute value (above), and as a percentage of the number of sessions (below), together with the percentual points (p.p) of increase or decrease in the sales funnel. By hovering the mouse over the percentage, you can view more details about that intermediate stage.
 
 ## Highest grossing categories
-![Categorias EN](https://images.ctfassets.net/alneenqid6w5/1jkVQ63kTKC7EWYNpZ2M5i/0bd3ce0bde40ba19ea5f6c246236878f/Categorias_EN.png)
+![Categorias EN](//images.ctfassets.net/alneenqid6w5/1jkVQ63kTKC7EWYNpZ2M5i/0bd3ce0bde40ba19ea5f6c246236878f/Categorias_EN.png)
 
 This chart indicates the ten categories in your store which generated the most revenue in the selected period. The blue bar indicates the revenue generated on the most recent date. The gray bar indicates the revenue generated on the period selected for comparison. By hovering the mouse over the chart, the conversion rate for each compared period is displayed. 
 By clicking on the chart title it is possible to change the view to __Highest sold categories by orders__.

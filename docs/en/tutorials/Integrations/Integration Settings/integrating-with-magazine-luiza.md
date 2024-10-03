@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:15.212Z
 contentType: tutorial
 productTeam: Channels
 author: authors_24
-slug: integrating-with-magazine-luiza
+slugEN: integrating-with-magazine-luiza
 locale: en
 legacySlug: integrating-with-magazine-luiza
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

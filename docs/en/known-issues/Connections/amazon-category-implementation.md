@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: amazon-category-implementation
+slugEN: amazon-category-implementation
 locale: en
 kiStatus: No Fix
 internalReference: 549924

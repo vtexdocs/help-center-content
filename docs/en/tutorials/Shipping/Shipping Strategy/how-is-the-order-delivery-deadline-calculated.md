@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-12T14:42:26.502Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
-slug: how-is-the-order-delivery-deadline-calculated
+slugEN: how-is-the-order-delivery-deadline-calculated
 locale: en
 legacySlug: how-is-the-order-delivery-deadline-calculated
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

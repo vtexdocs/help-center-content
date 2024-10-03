@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-10-21T12:49:06.433Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: loading-dock-concept-definition
+slugEN: loading-dock-concept-definition
 locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101

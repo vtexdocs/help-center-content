@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: pickuppoint-and-schedule-delivery-in-the-same-cart-are-not-working-correctly
+slugEN: pickuppoint-and-schedule-delivery-in-the-same-cart-are-not-working-correctly
 locale: en
 kiStatus: Backlog
 internalReference: 482256

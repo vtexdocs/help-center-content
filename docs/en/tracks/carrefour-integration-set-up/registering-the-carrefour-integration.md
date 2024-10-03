@@ -8,7 +8,7 @@ publishedAt: 2024-07-02T19:27:42.975Z
 firstPublishedAt: 2018-10-08T23:51:59.055Z
 contentType: trackArticle
 productTeam: Channels
-slug: registering-the-carrefour-integration
+slugEN: registering-the-carrefour-integration
 locale: en
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugEN: carrefour-integration-set-up

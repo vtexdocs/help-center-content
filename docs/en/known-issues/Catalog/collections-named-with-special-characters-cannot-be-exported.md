@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: collections-named-with-special-characters-cannot-be-exported
+slugEN: collections-named-with-special-characters-cannot-be-exported
 locale: en
 kiStatus: Backlog
 internalReference: 683343

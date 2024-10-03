@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-14T15:51:18.814Z
 contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: deadline-indicators
+slugEN: deadline-indicators
 locale: en
 legacySlug: deadline-indicators
 subcategoryId: 2A1RNDhwU4kqCN3XimtaD2

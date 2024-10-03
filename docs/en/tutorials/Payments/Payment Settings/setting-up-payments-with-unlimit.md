@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-06T15:38:46.103Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-unlimit
+slugEN: setting-up-payments-with-unlimit
 locale: en
 legacySlug: setting-up-payments-with-unlimit
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

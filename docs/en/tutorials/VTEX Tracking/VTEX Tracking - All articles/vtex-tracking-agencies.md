@@ -9,7 +9,7 @@ firstPublishedAt: 2020-08-06T19:17:32.028Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: vtex-tracking-agencies
+slugEN: vtex-tracking-agencies
 locale: en
 legacySlug: vtex-tracking-agencies
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP

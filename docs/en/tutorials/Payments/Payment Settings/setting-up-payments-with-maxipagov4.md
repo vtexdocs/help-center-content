@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-10T19:30:35.767Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-maxipagov4
+slugEN: setting-up-payments-with-maxipagov4
 locale: en
 legacySlug: setting-up-payments-with-maxipagov4
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

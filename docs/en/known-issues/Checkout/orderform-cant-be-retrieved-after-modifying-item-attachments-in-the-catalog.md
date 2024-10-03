@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: orderform-cant-be-retrieved-after-modifying-item-attachments-in-the-catalog
+slugEN: orderform-cant-be-retrieved-after-modifying-item-attachments-in-the-catalog
 locale: en
 kiStatus: Backlog
 internalReference: 320044

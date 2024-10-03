@@ -8,7 +8,7 @@ publishedAt: 2023-03-30T15:01:36.099Z
 firstPublishedAt: 2019-11-26T20:29:18.064Z
 contentType: trackArticle
 productTeam: Financial
-slug: viewing-transaction-details
+slugEN: viewing-transaction-details
 locale: en
 trackId: 6GAS7ZzGAm7AGoEAwDbwJG
 trackSlugEN: payments

@@ -8,7 +8,7 @@ publishedAt: 2024-04-22T13:23:15.737Z
 firstPublishedAt: 2020-01-22T13:55:43.369Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: creating-regular-promotions
+slugEN: creating-regular-promotions
 locale: en
 trackId: 6asfF1vFYiZgTQtOzwJchR
 trackSlugEN: promotions

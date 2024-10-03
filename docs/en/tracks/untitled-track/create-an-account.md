@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-04-26T21:05:35.530Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: create-an-account
+slugEN: create-an-account
 locale: en
 trackId: 
 trackSlugEN: untitled-track

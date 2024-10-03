@@ -9,7 +9,7 @@ firstPublishedAt: 2022-07-12T23:51:23.186Z
 contentType: tutorial
 productTeam: Others
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: order-allocation-algorithm-beta
+slugEN: order-allocation-algorithm-beta
 locale: pt
 legacySlug: order-allocation-algorithm-beta
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh

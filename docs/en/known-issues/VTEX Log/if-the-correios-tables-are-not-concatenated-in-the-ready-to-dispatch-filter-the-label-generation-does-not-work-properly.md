@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: VTEX Log
 author: 2mXZkbi0oi061KicTExNjo
 tag: VTEX Shipping Network
-slug: if-the-correios-tables-are-not-concatenated-in-the-ready-to-dispatch-filter-the-label-generation-does-not-work-properly
+slugEN: if-the-correios-tables-are-not-concatenated-in-the-ready-to-dispatch-filter-the-label-generation-does-not-work-properly
 locale: en
 kiStatus: Backlog
 internalReference: 517449

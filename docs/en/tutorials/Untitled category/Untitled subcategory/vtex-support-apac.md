@@ -9,7 +9,7 @@ firstPublishedAt: 2024-04-29T23:36:32.127Z
 contentType: tutorial
 productTeam: Billing
 author: 5l3eEiSz8MpcppCxcnijGz
-slug: vtex-support-apac
+slugEN: vtex-support-apac
 locale: en
 legacySlug: vtex-support-apac
 subcategoryId: unknown-subcategory

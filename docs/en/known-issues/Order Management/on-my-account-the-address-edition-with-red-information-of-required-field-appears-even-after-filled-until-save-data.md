@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: on-my-account-the-address-edition-with-red-information-of-required-field-appears-even-after-filled-until-save-data
+slugEN: on-my-account-the-address-edition-with-red-information-of-required-field-appears-even-after-filled-until-save-data
 locale: en
 kiStatus: Backlog
 internalReference: 870891

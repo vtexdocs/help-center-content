@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-11T01:26:05.255Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: amazon-token-permission-errors
+slugEN: amazon-token-permission-errors
 locale: en
 legacySlug: amazon-token-permission-errors
 subcategoryId: 4HBbKdnwneGew2qGGykSM8

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: bad-request-when-trying-to-access-an-inventory-with-a-huge-quantity-of-reserved-items
+slugEN: bad-request-when-trying-to-access-an-inventory-with-a-huge-quantity-of-reserved-items
 locale: en
 kiStatus: Fixed
 internalReference: 296066

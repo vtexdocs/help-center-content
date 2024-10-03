@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: incorrect-refund-calculation-in-payout-split-value-in-recipients-is-different-than-operation-value
+slugEN: incorrect-refund-calculation-in-payout-split-value-in-recipients-is-different-than-operation-value
 locale: en
 kiStatus: Backlog
 internalReference: 1072285

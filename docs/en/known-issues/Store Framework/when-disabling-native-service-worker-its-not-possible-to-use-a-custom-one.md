@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: when-disabling-native-service-worker-its-not-possible-to-use-a-custom-one
+slugEN: when-disabling-native-service-worker-its-not-possible-to-use-a-custom-one
 locale: en
 kiStatus: Backlog
 internalReference: 770949

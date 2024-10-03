@@ -8,7 +8,7 @@ publishedAt: 2021-03-18T19:30:46.167Z
 firstPublishedAt: 2018-11-06T02:08:03.031Z
 contentType: trackArticle
 productTeam: Channels
-slug: adding-the-magazine-luiza-integration
+slugEN: adding-the-magazine-luiza-integration
 locale: en
 trackId: 5Yx5IrNa7Y48c6aSC8wu2Y
 trackSlugEN: magazine-luiza-integration-set-up

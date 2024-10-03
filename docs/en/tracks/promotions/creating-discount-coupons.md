@@ -8,7 +8,7 @@ publishedAt: 2020-02-13T16:36:15.347Z
 firstPublishedAt: 2020-01-14T13:10:26.077Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: creating-discount-coupons
+slugEN: creating-discount-coupons
 locale: en
 trackId: 6asfF1vFYiZgTQtOzwJchR
 trackSlugEN: promotions

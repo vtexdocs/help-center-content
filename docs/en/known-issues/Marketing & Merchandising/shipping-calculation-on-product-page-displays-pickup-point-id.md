@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: shipping-calculation-on-product-page-displays-pickup-point-id
+slugEN: shipping-calculation-on-product-page-displays-pickup-point-id
 locale: en
 kiStatus: Backlog
 internalReference: 

@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Financial
 author: 
-slug: como-fazer-pagamentos-pelo-vtex-payment
+slugEN: como-fazer-pagamentos-pelo-vtex-payment
 locale: es
 legacySlug: como-fazer-pagamentos-pelo-vtex-payment
 subcategoryId: 18xYXhZbElixqnashigi5k

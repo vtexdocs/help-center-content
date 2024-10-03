@@ -8,7 +8,7 @@ publishedAt: 2024-02-22T14:58:02.855Z
 firstPublishedAt: 2024-02-22T13:59:50.803Z
 contentType: trackArticle
 productTeam: Others
-slug: introduction-to-vtex
+slugEN: introduction-to-vtex
 locale: en
 trackId: eSDNk26pdvemF3XKM0nK9
 trackSlugEN: vtex-store-overview

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-11T13:59:42.333Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-paga-mas-tarde-gateway
+slugEN: setting-up-paga-mas-tarde-gateway
 locale: en
 legacySlug: setting-up-paga-mas-tarde-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

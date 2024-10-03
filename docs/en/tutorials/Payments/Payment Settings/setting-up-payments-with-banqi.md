@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-30T13:04:03.008Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-banqi
+slugEN: setting-up-payments-with-banqi
 locale: en
 legacySlug: setting-up-payments-with-banqi
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

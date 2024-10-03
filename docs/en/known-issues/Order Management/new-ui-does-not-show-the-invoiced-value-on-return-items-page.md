@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: new-ui-does-not-show-the-invoiced-value-on-return-items-page
+slugEN: new-ui-does-not-show-the-invoiced-value-on-return-items-page
 locale: en
 kiStatus: No Fix
 internalReference: 664838

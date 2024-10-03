@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: duplicated-organizations-in-modal-to-switch-between-organizations
+slugEN: duplicated-organizations-in-modal-to-switch-between-organizations
 locale: en
 kiStatus: Backlog
 internalReference: 986868

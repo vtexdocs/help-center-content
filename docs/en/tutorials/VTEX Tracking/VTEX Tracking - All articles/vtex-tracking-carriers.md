@@ -9,7 +9,7 @@ firstPublishedAt: 2020-08-03T21:40:46.908Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: vtex-tracking-carriers
+slugEN: vtex-tracking-carriers
 locale: en
 legacySlug: vtex-tracking-carriers
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP

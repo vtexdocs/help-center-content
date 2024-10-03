@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:17.373Z
 contentType: tutorial
 productTeam: Others
 author: authors_35
-slug: tools-to-help-the-performance-of-your-e-commerce
+slugEN: tools-to-help-the-performance-of-your-e-commerce
 locale: en
 legacySlug: tools-to-help-the-performance-of-your-e-commerce
 subcategoryId: wz3FvYTctwuCwG206QUAi

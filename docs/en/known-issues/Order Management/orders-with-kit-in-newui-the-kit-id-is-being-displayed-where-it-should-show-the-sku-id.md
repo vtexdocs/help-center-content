@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: orders-with-kit-in-newui-the-kit-id-is-being-displayed-where-it-should-show-the-sku-id
+slugEN: orders-with-kit-in-newui-the-kit-id-is-being-displayed-where-it-should-show-the-sku-id
 locale: en
 kiStatus: Fixed
 internalReference: 618388

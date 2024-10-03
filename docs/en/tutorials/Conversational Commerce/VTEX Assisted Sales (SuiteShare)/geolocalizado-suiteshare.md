@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-29T21:04:53.073Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: geolocalizado-suiteshare
+slugEN: geolocalizado-suiteshare
 locale: en
 legacySlug: geolocalizado
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

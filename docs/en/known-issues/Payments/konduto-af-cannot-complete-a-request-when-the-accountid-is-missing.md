@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: konduto-af-cannot-complete-a-request-when-the-accountid-is-missing
+slugEN: konduto-af-cannot-complete-a-request-when-the-accountid-is-missing
 locale: en
 kiStatus: Backlog
 internalReference: 496298

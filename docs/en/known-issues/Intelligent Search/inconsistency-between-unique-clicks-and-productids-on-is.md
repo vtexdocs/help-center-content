@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: inconsistency-between-unique-clicks-and-productids-on-is
+slugEN: inconsistency-between-unique-clicks-and-productids-on-is
 locale: en
 kiStatus: Backlog
 internalReference: 501802

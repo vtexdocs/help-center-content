@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: skuservicoformaspx-not-listing-value-tables-at-first-for-a-value-type
+slugEN: skuservicoformaspx-not-listing-value-tables-at-first-for-a-value-type
 locale: en
 kiStatus: No Fix
 internalReference: 335819

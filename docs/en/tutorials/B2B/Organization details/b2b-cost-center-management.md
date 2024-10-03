@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-25T13:38:42.344Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: b2b-cost-center-management
+slugEN: b2b-cost-center-management
 locale: en
 legacySlug: b2b-cost-center-management
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd

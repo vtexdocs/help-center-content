@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
-slug: ordering-main-category-groups-is-not-allowed
+slugEN: ordering-main-category-groups-is-not-allowed
 locale: en
 kiStatus: Backlog
 internalReference: 

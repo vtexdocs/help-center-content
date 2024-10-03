@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
-slug: pickup-point-not-visible-for-selection-in-shipping-policy-ui
+slugEN: pickup-point-not-visible-for-selection-in-shipping-policy-ui
 locale: pt
 kiStatus: No Fix
 internalReference: 449813

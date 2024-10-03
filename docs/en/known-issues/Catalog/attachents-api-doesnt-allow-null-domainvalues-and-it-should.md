@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: attachents-api-doesnt-allow-null-domainvalues-and-it-should
+slugEN: attachents-api-doesnt-allow-null-domainvalues-and-it-should
 locale: en
 kiStatus: Backlog
 internalReference: 897480

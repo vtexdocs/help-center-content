@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: cms-settings-does-not-allow-removing-value-from-the-unit-of-mass-field
+slugEN: cms-settings-does-not-allow-removing-value-from-the-unit-of-mass-field
 locale: en
 kiStatus: No Fix
 internalReference: 540756

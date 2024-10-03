@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:01:43.712Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: why-does-my-product-appear-as-unavailable-at-the-store
+slugEN: why-does-my-product-appear-as-unavailable-at-the-store
 locale: en
 legacySlug: 
 ---

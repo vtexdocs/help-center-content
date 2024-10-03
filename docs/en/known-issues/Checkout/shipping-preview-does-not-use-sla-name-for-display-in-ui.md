@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: shipping-preview-does-not-use-sla-name-for-display-in-ui
+slugEN: shipping-preview-does-not-use-sla-name-for-display-in-ui
 locale: en
 kiStatus: No Fix
 internalReference: 574651

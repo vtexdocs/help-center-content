@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:50.752Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: how-to-archive-ratestaxes
+slugEN: how-to-archive-ratestaxes
 locale: en
 legacySlug: how-to-archive-ratestaxes
 subcategoryId: 18Gsips3u48UYCu0Ku2sWm

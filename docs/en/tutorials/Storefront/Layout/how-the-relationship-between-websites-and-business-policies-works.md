@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:07:42.559Z
 contentType: tutorial
 productTeam: Channels
 author: authors_59
-slug: how-the-relationship-between-websites-and-business-policies-works
+slugEN: how-the-relationship-between-websites-and-business-policies-works
 locale: en
 legacySlug: how-the-relationship-between-websites-and-business-policies-works
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:02:00.724Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slug: credit-card-basic-payment-flow
+slugEN: credit-card-basic-payment-flow
 locale: en
 legacySlug: credit-card-basic-payment-flow
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

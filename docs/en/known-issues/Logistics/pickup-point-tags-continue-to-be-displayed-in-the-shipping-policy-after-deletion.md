@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: pickup-point-tags-continue-to-be-displayed-in-the-shipping-policy-after-deletion
+slugEN: pickup-point-tags-continue-to-be-displayed-in-the-shipping-policy-after-deletion
 locale: en
 kiStatus: Backlog
 internalReference: 1015158

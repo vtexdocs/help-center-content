@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: availablequantity-value-inconsistent-due-to-the-large-number-of-routes-created-to-deliver-the-item
+slugEN: availablequantity-value-inconsistent-due-to-the-large-number-of-routes-created-to-deliver-the-item
 locale: en
 kiStatus: Backlog
 internalReference: 1034211

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: maximum-number-of-eligible-items-for-each-cart-more-for-less-applies-incorrect-discount-when-using-the-same-item
+slugEN: maximum-number-of-eligible-items-for-each-cart-more-for-less-applies-incorrect-discount-when-using-the-same-item
 locale: en
 kiStatus: Backlog
 internalReference: 1073080

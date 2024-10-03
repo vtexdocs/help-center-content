@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: search-api-not-working-properly-after-login-in-using-the-call-center-operator
+slugEN: search-api-not-working-properly-after-login-in-using-the-call-center-operator
 locale: en
 kiStatus: No Fix
 internalReference: 304586

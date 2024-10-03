@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-28T23:00:56.209Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-alignet
+slugEN: setting-up-payments-with-alignet
 locale: en
 legacySlug: setting-up-payments-with-alignet
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -8,7 +8,7 @@ publishedAt: 2023-04-25T18:27:47.860Z
 firstPublishedAt: 2022-01-10T20:56:23.487Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: glossary
+slugEN: glossary
 locale: en
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms

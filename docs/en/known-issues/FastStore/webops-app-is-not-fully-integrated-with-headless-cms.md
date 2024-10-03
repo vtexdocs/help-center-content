@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: webops-app-is-not-fully-integrated-with-headless-cms
+slugEN: webops-app-is-not-fully-integrated-with-headless-cms
 locale: en
 kiStatus: Backlog
 internalReference: 1048810

@@ -8,7 +8,7 @@ publishedAt: 2024-05-07T19:41:05.528Z
 firstPublishedAt: 2020-11-18T17:37:30.544Z
 contentType: trackArticle
 productTeam: Financial
-slug: what-are-clustered-payment-conditions
+slugEN: what-are-clustered-payment-conditions
 locale: en
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugEN: clustered-payment-conditions

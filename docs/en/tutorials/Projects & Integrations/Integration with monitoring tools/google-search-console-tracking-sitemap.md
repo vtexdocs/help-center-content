@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:39.911Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: google-search-console-tracking-sitemap
+slugEN: google-search-console-tracking-sitemap
 locale: en
 legacySlug: google-search-console-tracking-sitemap
 subcategoryId: 1luKrYptdi8WoMYckakUaM
@@ -38,7 +38,7 @@ Go to your store’s Search Console panel:
 
 Add your new sitemap and click on submit. The Search Console will access the XML and verify it.
  
-After successfully adding the sitemap to Search Console, the tool will show you a list of all the URLs:![Sitemap URL List](https://images.ctfassets.net/alneenqid6w5/6CHMG0wWwSoEmGJSrYhxua/79d8edd09363539cd5cf196e2e35d61e/Screen_Shot_2019-08-08_at_15.46.59.png_h_250)
+After successfully adding the sitemap to Search Console, the tool will show you a list of all the URLs:![Sitemap URL List](//images.ctfassets.net/alneenqid6w5/6CHMG0wWwSoEmGJSrYhxua/79d8edd09363539cd5cf196e2e35d61e/Screen_Shot_2019-08-08_at_15.46.59.png_h_250)
 
 
 

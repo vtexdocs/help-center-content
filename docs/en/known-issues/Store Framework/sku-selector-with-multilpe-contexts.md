@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: sku-selector-with-multilpe-contexts
+slugEN: sku-selector-with-multilpe-contexts
 locale: en
 kiStatus: Fixed
 internalReference: 341322

@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-10T17:57:34.714Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: vtex-pick-and-pack-fulfillment
+slugEN: vtex-pick-and-pack-fulfillment
 locale: en
 legacySlug: vtex-pick-and-pack-fulfillment
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt

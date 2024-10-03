@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-02T18:02:00.341Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
-slug: what-are-shelves
+slugEN: what-are-shelves
 locale: en
 legacySlug: what-are-shelves
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

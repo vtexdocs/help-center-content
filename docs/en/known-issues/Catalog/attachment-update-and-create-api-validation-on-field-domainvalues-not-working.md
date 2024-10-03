@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: attachment-update-and-create-api-validation-on-field-domainvalues-not-working
+slugEN: attachment-update-and-create-api-validation-on-field-domainvalues-not-working
 locale: en
 kiStatus: No Fix
 internalReference: 751091

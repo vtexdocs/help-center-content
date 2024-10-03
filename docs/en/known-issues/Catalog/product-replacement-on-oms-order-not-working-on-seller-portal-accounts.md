@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: product-replacement-on-oms-order-not-working-on-seller-portal-accounts
+slugEN: product-replacement-on-oms-order-not-working-on-seller-portal-accounts
 locale: en
 kiStatus: No Fix
 internalReference: 753484

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: matcher-does-not-work-as-expected-when-the-productsku-name-contains-special-characters
+slugEN: matcher-does-not-work-as-expected-when-the-productsku-name-contains-special-characters
 locale: en
 kiStatus: Fixed
 internalReference: 736164

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_4
 tag: Order Management
-slug: denied-payment-email-is-not-sent
+slugEN: denied-payment-email-is-not-sent
 locale: en
 kiStatus: Backlog
 internalReference: 

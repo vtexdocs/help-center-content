@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-12T21:39:25.215Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-payu-south-africa
+slugEN: setting-up-payments-with-payu-south-africa
 locale: en
 legacySlug: setting-up-payments-with-payu-south-africa
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-06T18:43:16.588Z
 contentType: tutorial
 productTeam: Others
 author: authors_64
-slug: hooks-de-entidades-de-dados
+slugEN: hooks-de-entidades-de-dados
 locale: en
 legacySlug: hooks-de-entidades-de-dados
 subcategoryId: unknown-subcategory

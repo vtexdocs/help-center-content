@@ -8,7 +8,7 @@ publishedAt: 2021-04-08T14:56:54.583Z
 firstPublishedAt: 2020-01-13T14:32:53.804Z
 contentType: trackArticle
 productTeam: Identity
-slug: creating-and-editing-access-profiles
+slugEN: creating-and-editing-access-profiles
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: contas-e-permissoes

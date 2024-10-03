@@ -9,7 +9,7 @@ firstPublishedAt: 2019-11-05T18:40:57.634Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
-slug: creating-a-subscription-promotion
+slugEN: creating-a-subscription-promotion
 locale: en
 legacySlug: creating-a-subscription-promotion
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq

@@ -9,7 +9,7 @@ firstPublishedAt: 2020-09-10T17:37:50.007Z
 contentType: tutorial
 productTeam: Management
 author: 56yU9Wz6mLwmzo82TjgAHy
-slug: tracking-your-sales-analytics
+slugEN: tracking-your-sales-analytics
 locale: en
 legacySlug: tracking-your-sales-analytics
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq

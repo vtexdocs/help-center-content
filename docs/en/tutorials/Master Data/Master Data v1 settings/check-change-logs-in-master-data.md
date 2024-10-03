@@ -9,7 +9,7 @@ firstPublishedAt: 2019-03-18T15:42:39.203Z
 contentType: tutorial
 productTeam: Master Data
 author: 5Bd75kMNAzARxg0DCUjwal
-slug: check-change-logs-in-master-data
+slugEN: check-change-logs-in-master-data
 locale: en
 legacySlug: check-change-logs-in-master-data
 subcategoryId: WpbGhubuRZaNZilJSXnqu

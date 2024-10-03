@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: departments-name-not-loading-on-seller-management-commissions-ui
+slugEN: departments-name-not-loading-on-seller-management-commissions-ui
 locale: en
 kiStatus: Backlog
 internalReference: 1005799

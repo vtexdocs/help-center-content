@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-11T01:05:06.948Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: errors-in-the-category-and-attribute-mapping-worksheet
+slugEN: errors-in-the-category-and-attribute-mapping-worksheet
 locale: en
 legacySlug: errors-in-the-category-and-attribute-mapping-worksheet
 subcategoryId: 4HBbKdnwneGew2qGGykSM8

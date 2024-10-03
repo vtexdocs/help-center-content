@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: button-to-download-xml-is-hidden
+slugEN: button-to-download-xml-is-hidden
 locale: en
 kiStatus: Backlog
 internalReference: 

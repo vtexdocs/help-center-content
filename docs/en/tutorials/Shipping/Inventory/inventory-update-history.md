@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-01T15:06:58.792Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: inventory-update-history
+slugEN: inventory-update-history
 locale: en
 legacySlug: how-to-analyze-the-stock-movement-history
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE

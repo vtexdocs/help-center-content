@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: incorrect-value-on-package-due-discount-division
+slugEN: incorrect-value-on-package-due-discount-division
 locale: en
 kiStatus: Backlog
 internalReference: 605517

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
-slug: cannot-filter-by-period-in-the-bridge-list-or-export
+slugEN: cannot-filter-by-period-in-the-bridge-list-or-export
 locale: en
 kiStatus: Backlog
 internalReference: 

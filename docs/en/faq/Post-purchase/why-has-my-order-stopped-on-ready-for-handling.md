@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:01:44.420Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
-slug: why-has-my-order-stopped-on-ready-for-handling
+slugEN: why-has-my-order-stopped-on-ready-for-handling
 locale: en
 legacySlug: why-has-my-order-stopped-on-ready-for-handling
 ---

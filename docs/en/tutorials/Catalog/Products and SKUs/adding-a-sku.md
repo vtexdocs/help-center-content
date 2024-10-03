@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:10.124Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: adding-a-sku
+slugEN: adding-a-sku
 locale: en
 legacySlug: registering-an-sku
 subcategoryId: pwxWmUu7T222QyuGogs68

@@ -3,13 +3,13 @@ title: 'Events available in Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2024-08-16T20:08:11.733Z
-publishedAt: 2024-08-16T20:08:11.733Z
+updatedAt: 2024-09-19T19:45:23.075Z
+publishedAt: 2024-09-19T19:45:23.075Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
-slug: events-available-in-audit
+slugEN: events-available-in-audit
 locale: en
 legacySlug: events-available-in-audit
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
@@ -32,6 +32,7 @@ Below, you will find a list of the potential events available in [Audit](https:/
 * [Portal CMS](#portal-cms)
 * [License Manager](#license-manager)
 * [VTEX ID](#vtex-id)
+* [Master Data](#master-data)
 * [Headless CMS](#headless-cms)
 * [Seller Management](#seller-management)
 * [Site Editor](#site-editor)
@@ -221,6 +222,8 @@ Below, you will find a list of the potential events available in [Audit](https:/
 | Action | Event description | Event details |
 |---|---|---|
 | DeleteDocument | Deleted document. | Document ID. |
+| UpdateSchema | Created or updated schema on Master Data v2. | Schema name. |
+| DeleteSchema | Deleted schema on Master Data v2. | Schema name. |
 
 ## Headless CMS
 

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-01T18:39:26.915Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: list-of-payment-providers-by-country
+slugEN: list-of-payment-providers-by-country
 locale: en
 legacySlug: list-of-payment-providers-by-country
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

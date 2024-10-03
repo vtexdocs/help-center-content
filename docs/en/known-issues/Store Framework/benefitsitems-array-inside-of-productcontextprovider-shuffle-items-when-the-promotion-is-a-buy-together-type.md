@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: benefitsitems-array-inside-of-productcontextprovider-shuffle-items-when-the-promotion-is-a-buy-together-type
+slugEN: benefitsitems-array-inside-of-productcontextprovider-shuffle-items-when-the-promotion-is-a-buy-together-type
 locale: en
 kiStatus: Backlog
 internalReference: 915213

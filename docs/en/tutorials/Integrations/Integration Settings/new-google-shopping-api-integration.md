@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:42.177Z
 contentType: tutorial
 productTeam: Channels
 author: authors_41
-slug: new-google-shopping-api-integration
+slugEN: new-google-shopping-api-integration
 locale: en
 legacySlug: new-google-shopping-api-integration
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

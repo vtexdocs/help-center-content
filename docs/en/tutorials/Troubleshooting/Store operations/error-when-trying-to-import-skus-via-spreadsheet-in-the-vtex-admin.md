@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-01T18:24:23.096Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l3eEiSz8MpcppCxcnijGz
-slug: error-when-trying-to-import-skus-via-spreadsheet-in-the-vtex-admin
+slugEN: error-when-trying-to-import-skus-via-spreadsheet-in-the-vtex-admin
 locale: en
 legacySlug: error-when-trying-to-import-skus-via-spreadsheet-in-the-vtex-admin
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB

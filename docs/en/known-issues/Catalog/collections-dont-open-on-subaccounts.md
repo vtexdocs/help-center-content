@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: collections-dont-open-on-subaccounts
+slugEN: collections-dont-open-on-subaccounts
 locale: en
 kiStatus: Backlog
 internalReference: 649948

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-11T00:54:44.665Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: products-errors-in-the-amazon-integration
+slugEN: products-errors-in-the-amazon-integration
 locale: en
 legacySlug: products-errors-in-the-amazon-integration
 subcategoryId: 4HBbKdnwneGew2qGGykSM8

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:34.518Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
-slug: why-was-the-marketplace-order-not-integrated
+slugEN: why-was-the-marketplace-order-not-integrated
 locale: en
 legacySlug: why-was-the-marketplace-order-not-integrated
 ---

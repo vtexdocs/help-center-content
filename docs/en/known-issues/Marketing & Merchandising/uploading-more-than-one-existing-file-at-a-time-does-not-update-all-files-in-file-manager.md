@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: uploading-more-than-one-existing-file-at-a-time-does-not-update-all-files-in-file-manager
+slugEN: uploading-more-than-one-existing-file-at-a-time-does-not-update-all-files-in-file-manager
 locale: en
 kiStatus: Backlog
 internalReference: 
@@ -32,7 +32,7 @@ When you upload two or more existing files to File Manager simultaneously, only 
 
 After saving, the following message will be displayed:
 
-![File manager](https://images.contentful.com/alneenqid6w5/4Z7tY3FKCDV1Cz6Whji6HI/d730b6accf6caeb81b373745b20c337d/image.png)
+![File manager](//images.contentful.com/alneenqid6w5/4Z7tY3FKCDV1Cz6Whji6HI/d730b6accf6caeb81b373745b20c337d/image.png)
 
 This means that only one file was identified; the others are not being validated. All files are uploaded, but only one will replace its previous version.
 

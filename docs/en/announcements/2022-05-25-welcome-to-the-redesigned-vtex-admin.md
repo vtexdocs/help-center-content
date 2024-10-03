@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: welcome-to-the-redesigned-vtex-admin
+slugEN: 2022-05-25-welcome-to-the-redesigned-vtex-admin
 locale: en
 legacySlug: welcome-to-the-redesigned-vtex-admin
 announcementImageID: ''

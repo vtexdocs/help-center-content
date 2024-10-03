@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: order-refund-email-not-getting-sent-when-additional-amount-is-refunded-using-new-ui-oms
+slugEN: order-refund-email-not-getting-sent-when-additional-amount-is-refunded-using-new-ui-oms
 locale: en
 kiStatus: Fixed
 internalReference: 563300

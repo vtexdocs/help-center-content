@@ -9,7 +9,7 @@ firstPublishedAt: 2020-12-28T21:01:55.107Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: how-to-manually-invoice-an-order
+slugEN: how-to-manually-invoice-an-order
 locale: en
 legacySlug: how-to-manually-invoice-an-order-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
@@ -62,7 +62,7 @@ To send the invoice via VTEX Admin, follow the steps below:
 
 After the order is `Invoiced`, go to the **Invoice** section to check the invoices added, as shown in the image below:
 
-![FaturaEN](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/1f68c545e4a42383d85aa82b7dd6ba96/FaturaEN.png)
+![FaturaEN](//images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/1f68c545e4a42383d85aa82b7dd6ba96/FaturaEN.png)
 
 For [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), when [changing or removing items from an order](https://help.vtex.com/en/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), the order total will be updated after invoicing and will correspond to what is captured by the VTEX payment gateway.
 

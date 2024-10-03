@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: pickup-point-selector-search-will-not-working-with-enterreturn
+slugEN: pickup-point-selector-search-will-not-working-with-enterreturn
 locale: en
 kiStatus: Backlog
 internalReference: 829955

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: order-card-info-causing-confusing-on-status
+slugEN: order-card-info-causing-confusing-on-status
 locale: en
 kiStatus: No Fix
 internalReference: 619778

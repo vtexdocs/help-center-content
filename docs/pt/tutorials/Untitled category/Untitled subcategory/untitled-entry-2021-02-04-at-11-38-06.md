@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: unknown
 author: 
-slug: untitled-entry-2021-02-04-at-11-38-06
+slugEN: untitled-entry-2021-02-04-at-11-38-06
 locale: pt
 legacySlug: untitled-entry-2021-02-04-at-11-38-06
 subcategoryId: unknown-subcategory

@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-08T20:28:25.462Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-liquido-payment
+slugEN: setting-up-payments-with-liquido-payment
 locale: en
 legacySlug: setting-up-payments-with-liquido-payment
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

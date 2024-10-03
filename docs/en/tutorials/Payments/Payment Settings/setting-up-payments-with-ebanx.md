@@ -1,15 +1,15 @@
 ---
 title: 'Setting up payments with Ebanx'
 id: 4yKdQrt57AW7aElfHH4QKM
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-03-22T14:27:42.440Z
-updatedAt: 2024-01-23T18:07:19.598Z
-publishedAt: 2024-01-23T18:07:19.598Z
+updatedAt: 2024-10-03T15:16:43.293Z
+publishedAt: 
 firstPublishedAt: 2023-03-22T17:04:49.283Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-ebanx
+slugEN: setting-up-payments-with-ebanx
 locale: en
 legacySlug: setting-up-payments-with-ebanx
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

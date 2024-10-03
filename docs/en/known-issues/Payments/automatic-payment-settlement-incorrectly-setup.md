@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: automatic-payment-settlement-incorrectly-setup
+slugEN: automatic-payment-settlement-incorrectly-setup
 locale: en
 kiStatus: Backlog
 internalReference: 1053010

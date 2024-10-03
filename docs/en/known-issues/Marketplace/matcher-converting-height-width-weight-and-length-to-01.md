@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: matcher-converting-height-width-weight-and-length-to-01
+slugEN: matcher-converting-height-width-weight-and-length-to-01
 locale: en
 kiStatus: Fixed
 internalReference: 886168

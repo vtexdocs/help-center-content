@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:59:45.397Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_24
-slug: how-can-i-create-callcenter-user
+slugEN: how-can-i-create-callcenter-user
 locale: en
 legacySlug: how-can-i-create-call-center-user
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M

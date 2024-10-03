@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: unable-to-upload-spreadsheet-images-with-host-services-using-protocol-encryption-protocol-ssl13
+slugEN: unable-to-upload-spreadsheet-images-with-host-services-using-protocol-encryption-protocol-ssl13
 locale: en
 kiStatus: Backlog
 internalReference: 851911

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-09-14T02:54:29.210Z
 contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: 1E4UkWguFZAXjkguvNHPIv
-slug: best-practices-for-secure-user-management
+slugEN: best-practices-for-secure-user-management
 locale: en
 legacySlug: metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja
 ---

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: cart-with-multiple-country-addresses-lose-the-pickup-address-if-store-cant-ship-to-all-the-countries
+slugEN: cart-with-multiple-country-addresses-lose-the-pickup-address-if-store-cant-ship-to-all-the-countries
 locale: en
 kiStatus: Backlog
 internalReference: 1068197

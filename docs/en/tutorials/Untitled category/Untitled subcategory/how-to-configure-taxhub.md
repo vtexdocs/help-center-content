@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-02T13:17:42.392Z
 contentType: tutorial
 productTeam: Others
 author: 2Y2pnNkWfSoUMMYcwemq4A
-slug: how-to-configure-taxhub
+slugEN: how-to-configure-taxhub
 locale: en
 legacySlug: how-to-configure-taxhub
 subcategoryId: unknown-subcategory

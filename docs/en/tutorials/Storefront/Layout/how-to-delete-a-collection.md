@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:10:06.845Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: how-to-delete-a-collection
+slugEN: how-to-delete-a-collection
 locale: en
 legacySlug: how-to-delete-a-collection
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

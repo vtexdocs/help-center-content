@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-26T18:46:07.935Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: b2b-checkout-settings
+slugEN: b2b-checkout-settings
 locale: en
 legacySlug: b2b-checkout-settings
 subcategoryId: 6sgdAY3pCuZ7qNws6gnzDX

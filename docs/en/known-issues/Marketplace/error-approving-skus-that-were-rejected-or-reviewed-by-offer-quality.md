@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: error-approving-skus-that-were-rejected-or-reviewed-by-offer-quality
+slugEN: error-approving-skus-that-were-rejected-or-reviewed-by-offer-quality
 locale: en
 kiStatus: Fixed
 internalReference: 940998

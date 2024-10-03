@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: email-not-autofilling-for-new-users-on-checkoutui
+slugEN: email-not-autofilling-for-new-users-on-checkoutui
 locale: en
 kiStatus: Backlog
 internalReference: 887949

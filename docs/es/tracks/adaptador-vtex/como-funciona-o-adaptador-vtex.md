@@ -8,7 +8,7 @@ publishedAt: 2023-02-27T17:45:10.553Z
 firstPublishedAt: 2021-10-06T16:13:28.202Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: como-funciona-o-adaptador-vtex
+slugEN: como-funciona-o-adaptador-vtex
 locale: es
 trackId: 132YFN170Jvs6ZUBGh8w2e
 trackSlugES: adaptador-vtex

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: buscacep-not-working-in-create-giftlist-form
+slugEN: buscacep-not-working-in-create-giftlist-form
 locale: en
 kiStatus: No Fix
 internalReference: 342418

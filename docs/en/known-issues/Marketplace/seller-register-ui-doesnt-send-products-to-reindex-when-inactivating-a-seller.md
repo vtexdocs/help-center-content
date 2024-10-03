@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: seller-register-ui-doesnt-send-products-to-reindex-when-inactivating-a-seller
+slugEN: seller-register-ui-doesnt-send-products-to-reindex-when-inactivating-a-seller
 locale: en
 kiStatus: Backlog
 internalReference: 915970

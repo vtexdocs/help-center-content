@@ -9,7 +9,7 @@ firstPublishedAt: 2020-12-04T12:24:18.019Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: manage-the-sales-comissions-report
+slugEN: manage-the-sales-comissions-report
 locale: en
 legacySlug: manage-the-sales-comissions-report
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

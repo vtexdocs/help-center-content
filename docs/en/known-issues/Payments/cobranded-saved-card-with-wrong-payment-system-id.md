@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: cobranded-saved-card-with-wrong-payment-system-id
+slugEN: cobranded-saved-card-with-wrong-payment-system-id
 locale: en
 kiStatus: Backlog
 internalReference: 833400

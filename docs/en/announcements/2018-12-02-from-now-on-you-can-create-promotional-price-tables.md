@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
-slug: from-now-on-you-can-create-promotional-price-tables
+slugEN: 2018-12-02-from-now-on-you-can-create-promotional-price-tables
 locale: en
 legacySlug: from-now-on-you-can-create-promotional-price-tables
 announcementImageID: ''

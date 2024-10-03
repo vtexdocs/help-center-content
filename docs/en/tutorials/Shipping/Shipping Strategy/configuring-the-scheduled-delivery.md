@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:42.972Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: configuring-the-scheduled-delivery
+slugEN: configuring-the-scheduled-delivery
 locale: en
 legacySlug: configuring-the-scheduled-delivery
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
@@ -43,7 +43,7 @@ In this area, we have the following data:
 Using the same situation of the store mentioned above, this would be the carrier configuration suitable to their demand:
 
 
-![entrega-agendada-exemplo en](https://images.ctfassets.net/alneenqid6w5/1VBGSFNpZ6KcM6wU0y62k0/956e0301532b9d2d615572e215d47e81/entrega-agendada-exemplo_en.png)
+![entrega-agendada-exemplo en](//images.ctfassets.net/alneenqid6w5/1VBGSFNpZ6KcM6wU0y62k0/956e0301532b9d2d615572e215d47e81/entrega-agendada-exemplo_en.png)
 
 Assuming that Inventory time is 2 days, Dock time is 1 day, and Freight Timetable previews 5 days, the first day available for delivery will be **8** days after the date the request was made and, since the maximum delivery time is 10 days, the last day available for customer's choice will be the **18th** day after the date the request was made.
 

@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-27T17:00:52.914Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: target-audience-settings
+slugEN: target-audience-settings
 locale: en
 legacySlug: target-audience-settings
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys

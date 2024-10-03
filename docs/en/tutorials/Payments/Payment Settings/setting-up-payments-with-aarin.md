@@ -9,7 +9,7 @@ firstPublishedAt: 2022-06-22T13:00:38.494Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-aarin
+slugEN: setting-up-payments-with-aarin
 locale: en
 legacySlug: setting-up-payments-with-aarin
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

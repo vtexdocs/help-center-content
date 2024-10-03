@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T22:55:21.295Z
 contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
-slug: how-is-the-structure-of-an-app
+slugEN: how-is-the-structure-of-an-app
 locale: en
 legacySlug: how-is-the-structure-of-an-app
 ---

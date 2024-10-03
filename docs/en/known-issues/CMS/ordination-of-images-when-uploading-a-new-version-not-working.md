@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: ordination-of-images-when-uploading-a-new-version-not-working
+slugEN: ordination-of-images-when-uploading-a-new-version-not-working
 locale: en
 kiStatus: No Fix
 internalReference: 739814

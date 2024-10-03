@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-07-05T23:28:10.831Z
 contentType: trackArticle
 productTeam: Shopping
-slug: how-to-change-the-sales-policy-used-by-instore
+slugEN: how-to-change-the-sales-policy-used-by-instore
 locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup
@@ -24,7 +24,7 @@ If you have not used the __Easy Setup__ and so don't see any registered stores, 
 
 If you have already registered a store through __Easy Setup__, you will see the registry of this store created as in the following image.
 
-![vtable-admin-das-lojas-2](https://images.ctfassets.net/alneenqid6w5/5cPD8WQ7aweMmwEoksiEC4/2380695922f3ca7f7288e921bf859a78/vtable-admin-das-lojas-2.png)
+![vtable-admin-das-lojas-2](//images.ctfassets.net/alneenqid6w5/5cPD8WQ7aweMmwEoksiEC4/2380695922f3ca7f7288e921bf859a78/vtable-admin-das-lojas-2.png)
 
 To change any data, including the store's sales policy, simply change the related cell and then click the __Save__ button.
 

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-09-11T22:05:36.380Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: integration-guide-for-erps
+slugEN: integration-guide-for-erps
 locale: en
 legacySlug: integration-guide-for-erps
 subcategoryId: 5fKgQZhrCw88ACy6Su6GUc

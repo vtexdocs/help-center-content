@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: unavailable-products-pdp-are-still-being-returned
+slugEN: unavailable-products-pdp-are-still-being-returned
 locale: en
 kiStatus: Backlog
 internalReference: 1041920

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: when-loading-a-product-page-with-a-selection-of-skus-by-parameter-url-the-price-is-not-correctly-updated
+slugEN: when-loading-a-product-page-with-a-selection-of-skus-by-parameter-url-the-price-is-not-correctly-updated
 locale: en
 kiStatus: Backlog
 internalReference: 
@@ -22,7 +22,7 @@ When you access a product page with a change (more than one SKU) with the querys
 
 However if the SKU selected (from the parameter) is unavailable (out of stock / not deliverable), when the user selects another available SKU in the SKU selector, price details are not shown.
 
-![Price not updated on selection of SKU](https://images.contentful.com/alneenqid6w5/1GKcK5NUSoEcmMuesmiGiM/6ddb61d748aa566c6eb5607711a0ae3d/preco.gif)
+![Price not updated on selection of SKU](//images.contentful.com/alneenqid6w5/1GKcK5NUSoEcmMuesmiGiM/6ddb61d748aa566c6eb5607711a0ae3d/preco.gif)
 
 ## Simulation
 

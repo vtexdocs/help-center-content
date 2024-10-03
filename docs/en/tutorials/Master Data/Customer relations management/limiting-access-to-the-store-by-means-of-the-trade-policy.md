@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:54.732Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_3
-slug: limiting-access-to-the-store-by-means-of-the-trade-policy
+slugEN: limiting-access-to-the-store-by-means-of-the-trade-policy
 locale: en
 legacySlug: limiting-access-to-the-store-by-means-of-the-sales-policy
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l

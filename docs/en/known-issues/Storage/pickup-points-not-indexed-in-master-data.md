@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: pickup-points-not-indexed-in-master-data
+slugEN: pickup-points-not-indexed-in-master-data
 locale: en
 kiStatus: Fixed
 internalReference: 530824

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-06-16T19:47:07.428Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_35
-slug: setting-up-vtex-instore-logistics
+slugEN: setting-up-vtex-instore-logistics
 locale: en
 legacySlug: setting-up-vtex-instore-logistics
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G

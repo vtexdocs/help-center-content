@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-25T16:25:30.288Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 1LdVGl3YH8PuhBMJYvUmFL
-slug: why-was-my-ad-paused-in-mercado-libre?
+slugEN: why-was-my-ad-paused-in-mercado-libre?
 locale: en
 legacySlug: why-was-my-ad-paused-in-mercado-libre?
 ---

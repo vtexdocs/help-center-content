@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: invalid-postal-code-message-in-checkout-ui-when-address-is-in-available-addresses-with-different-country
+slugEN: invalid-postal-code-message-in-checkout-ui-when-address-is-in-available-addresses-with-different-country
 locale: en
 kiStatus: Backlog
 internalReference: 1053959

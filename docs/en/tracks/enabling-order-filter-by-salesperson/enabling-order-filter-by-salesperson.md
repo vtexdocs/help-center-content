@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-06-28T19:06:04.684Z
 contentType: trackArticle
 productTeam: Shopping
-slug: enabling-order-filter-by-salesperson
+slugEN: enabling-order-filter-by-salesperson
 locale: en
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugEN: enabling-order-filter-by-salesperson

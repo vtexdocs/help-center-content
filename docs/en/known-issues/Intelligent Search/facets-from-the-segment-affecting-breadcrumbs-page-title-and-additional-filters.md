@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: facets-from-the-segment-affecting-breadcrumbs-page-title-and-additional-filters
+slugEN: facets-from-the-segment-affecting-breadcrumbs-page-title-and-additional-filters
 locale: en
 kiStatus: Backlog
 internalReference: 1057254

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: regions-api-doesnt-calculate-the-seller-1-correctly-while-requesting-nonwhitelabel-sellers
+slugEN: regions-api-doesnt-calculate-the-seller-1-correctly-while-requesting-nonwhitelabel-sellers
 locale: en
 kiStatus: Backlog
 internalReference: 551402

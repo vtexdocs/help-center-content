@@ -9,7 +9,7 @@ firstPublishedAt: 2017-07-31T21:14:22.770Z
 contentType: tutorial
 productTeam: Channels
 author: authors_84
-slug: how-to-integrate-with-facebook
+slugEN: how-to-integrate-with-facebook
 locale: en
 legacySlug: how-to-integrate-with-facebook
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

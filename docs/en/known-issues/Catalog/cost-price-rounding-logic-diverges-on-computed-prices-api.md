@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: cost-price-rounding-logic-diverges-on-computed-prices-api
+slugEN: cost-price-rounding-logic-diverges-on-computed-prices-api
 locale: en
 kiStatus: Backlog
 internalReference: 842336

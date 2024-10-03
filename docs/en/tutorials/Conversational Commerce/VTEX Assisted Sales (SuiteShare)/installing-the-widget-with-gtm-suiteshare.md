@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T18:32:09.838Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: installing-the-widget-with-gtm-suiteshare
+slugEN: installing-the-widget-with-gtm-suiteshare
 locale: en
 legacySlug: installing-the-widget-with-gtm
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

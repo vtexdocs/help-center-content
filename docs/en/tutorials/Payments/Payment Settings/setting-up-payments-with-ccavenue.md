@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-29T16:53:44.484Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-ccavenue
+slugEN: setting-up-payments-with-ccavenue
 locale: en
 legacySlug: setting-up-payments-with-ccavenue
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

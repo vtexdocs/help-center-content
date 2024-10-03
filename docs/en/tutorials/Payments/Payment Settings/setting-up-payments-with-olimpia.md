@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-30T13:21:01.173Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-olimpia
+slugEN: setting-up-payments-with-olimpia
 locale: en
 legacySlug: setting-up-payments-with-olimpia
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

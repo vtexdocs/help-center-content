@@ -8,7 +8,7 @@ publishedAt: 2022-10-06T19:38:54.469Z
 firstPublishedAt: 2022-08-26T14:31:57.400Z
 contentType: trackArticle
 productTeam: Shopping
-slug: capturar-dados-do-lead-antes-de-iniciar-uma-conversa-no-whatsapp
+slugEN: capturar-dados-do-lead-antes-de-iniciar-uma-conversa-no-whatsapp
 locale: en
 trackId: khP0p8mjIYRIpvM7Cb4Zr
 trackSlugEN: suiteshare

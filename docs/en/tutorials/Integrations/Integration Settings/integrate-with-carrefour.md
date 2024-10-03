@@ -9,7 +9,7 @@ firstPublishedAt: 2017-05-10T19:07:44.997Z
 contentType: tutorial
 productTeam: Channels
 author: authors_84
-slug: integrate-with-carrefour
+slugEN: integrate-with-carrefour
 locale: en
 legacySlug: integrate-with-carrefour
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

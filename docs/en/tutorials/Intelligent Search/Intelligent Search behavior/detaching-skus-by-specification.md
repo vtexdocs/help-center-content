@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-27T16:47:01.429Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: detaching-skus-by-specification
+slugEN: detaching-skus-by-specification
 locale: en
 legacySlug: detaching-skus-by-specification
 subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7

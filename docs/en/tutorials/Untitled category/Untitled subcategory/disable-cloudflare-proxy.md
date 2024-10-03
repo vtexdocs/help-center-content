@@ -9,7 +9,7 @@ firstPublishedAt: 2021-11-22T15:19:34.246Z
 contentType: tutorial
 productTeam: Reliability
 author: 4SqDPmUJIIz2KMMKgiyqKl
-slug: disable-cloudflare-proxy
+slugEN: disable-cloudflare-proxy
 locale: en
 legacySlug: disable-cloudflare-proxy
 subcategoryId: unknown-subcategory

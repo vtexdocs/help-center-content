@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_41
 tag: Order Management
-slug: error-accessing-transaction-in-the-order-detail
+slugEN: error-accessing-transaction-in-the-order-detail
 locale: en
 kiStatus: Fixed
 internalReference: 

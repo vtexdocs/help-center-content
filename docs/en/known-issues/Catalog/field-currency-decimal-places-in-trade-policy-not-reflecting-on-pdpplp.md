@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: field-currency-decimal-places-in-trade-policy-not-reflecting-on-pdpplp
+slugEN: field-currency-decimal-places-in-trade-policy-not-reflecting-on-pdpplp
 locale: en
 kiStatus: No Fix
 internalReference: 695044

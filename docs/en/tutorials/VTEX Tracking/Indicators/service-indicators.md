@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-14T15:52:16.327Z
 contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: service-indicators
+slugEN: service-indicators
 locale: en
 legacySlug: service-indicators
 subcategoryId: 2A1RNDhwU4kqCN3XimtaD2

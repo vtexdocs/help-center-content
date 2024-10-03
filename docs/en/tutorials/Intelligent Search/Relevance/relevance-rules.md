@@ -3,13 +3,13 @@ title: 'Relevance rules'
 id: 1o9jtVGjSIiptbqdNXIlNK
 status: PUBLISHED
 createdAt: 2024-06-27T17:12:27.900Z
-updatedAt: 2024-06-27T17:13:52.839Z
-publishedAt: 2024-06-27T17:13:52.839Z
+updatedAt: 2024-09-20T20:56:15.445Z
+publishedAt: 2024-09-20T20:56:15.445Z
 firstPublishedAt: 2024-06-27T17:13:52.839Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: relevance-rules
+slugEN: relevance-rules
 locale: en
 legacySlug: relevance-rules
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
@@ -39,9 +39,13 @@ The information considered for the relevance is:
 
 The set of weights and criteria distribution generates a score for the product, which determines its position in the search result ranking.
 
->⚠️ IIf you want to use priority criteria, we recommend adding only one criterion in this field. Adding more criteria compromises the ordering or search results, since only the first criterion will be considered.
-
 So you can tailor the behavior of the search results to a specific strategy.
+
+>⚠️ If you want to use priority criteria, place the most relevant one first, as the ranking will always be based on it.
+>
+> The first priority criterion has more weight than the others, so it can neutralize the other priority criteria and the criteria composition.
+>
+> In case of a tie, the other criteria will be considered to determine the final ranking of the results (the other priorities will be first, followed by the criteria composition).
 
 ## Example
 
@@ -101,6 +105,6 @@ To change relevance settings, follow the steps below.
 
    If you want to change a criterion from **Criteria Composition** to **Priority Criteria**, click on the <i class="fas fa-grip-vertical"></i> icon and drag it to the top of the page, as shown below. Note that when the criterion is set as a priority, you can no longer change its weight. 
 
-   ![criterios-prioritarios-en](https://images.ctfassets.net/alneenqid6w5/c6CNsiZOSl7WnmP7k8Ffa/326edf2ab5b2c2ee3050a97a98090dd9/criterios-prioritarios-en.gif)
+   ![criterios-prioritarios-en](//images.ctfassets.net/alneenqid6w5/c6CNsiZOSl7WnmP7k8Ffa/326edf2ab5b2c2ee3050a97a98090dd9/criterios-prioritarios-en.gif)
 5. Click `Save` to finish.
 

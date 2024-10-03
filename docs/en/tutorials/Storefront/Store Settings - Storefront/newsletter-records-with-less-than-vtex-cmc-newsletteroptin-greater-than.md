@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:16:54.823Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: TAUXpa4XWCsIaUOoksGIE
-slug: newsletter-records-with-less-than-vtex-cmc-newsletteroptin-greater-than
+slugEN: newsletter-records-with-less-than-vtex-cmc-newsletteroptin-greater-than
 locale: en
 legacySlug: newsletter-records-with-less-than-vtex-cmc-newsletteroptin-greater-than
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc

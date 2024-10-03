@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:16:03.041Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_84
-slug: how-to-sell-to-other-countries
+slugEN: how-to-sell-to-other-countries
 locale: en
 legacySlug: how-to-sell-to-other-countries
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

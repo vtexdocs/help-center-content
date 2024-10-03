@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-29T15:56:35.764Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 6ZIASoEIeITT63epPauz12
-slug: apps-overview
+slugEN: apps-overview
 locale: en
 legacySlug: apps-overview
 subcategoryId: unknown-subcategory

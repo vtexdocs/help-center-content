@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-11T01:11:29.602Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: asin-ean-brand-errors-on-amazon
+slugEN: asin-ean-brand-errors-on-amazon
 locale: en
 legacySlug: asin-ean-brand-errors-on-amazon
 subcategoryId: 4HBbKdnwneGew2qGGykSM8

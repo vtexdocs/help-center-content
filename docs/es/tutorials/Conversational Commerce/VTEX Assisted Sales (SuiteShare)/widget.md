@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-29T15:13:03.109Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: widget
+slugEN: widget
 locale: es
 legacySlug: widget
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: search-by-ean-not-working-on-received-skus
+slugEN: search-by-ean-not-working-on-received-skus
 locale: en
 kiStatus: No Fix
 internalReference: 510907

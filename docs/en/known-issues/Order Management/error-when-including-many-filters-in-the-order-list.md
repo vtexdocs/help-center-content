@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: error-when-including-many-filters-in-the-order-list
+slugEN: error-when-including-many-filters-in-the-order-list
 locale: en
 kiStatus: Fixed
 internalReference: 347932

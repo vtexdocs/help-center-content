@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: missing-translation-for-the-price-facetfilter-at-intelligent-search
+slugEN: missing-translation-for-the-price-facetfilter-at-intelligent-search
 locale: en
 kiStatus: Backlog
 internalReference: 974840

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-29T20:03:23.976Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: how-to-find-facebook-pixel
+slugEN: how-to-find-facebook-pixel
 locale: en
 legacySlug: how-to-find-facebook-pixel
 ---

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T22:50:51.817Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: listing-apps-installed-in-the-store
+slugEN: listing-apps-installed-in-the-store
 locale: en
 legacySlug: listing-apps-installed-in-the-store
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

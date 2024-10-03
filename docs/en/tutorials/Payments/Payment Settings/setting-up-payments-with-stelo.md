@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-05T19:08:32.807Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-stelo
+slugEN: setting-up-payments-with-stelo
 locale: en
 legacySlug: setting-up-payments-with-stelo
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

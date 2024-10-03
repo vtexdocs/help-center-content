@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: cache-layer-of-5-minutes-when-creating-or-deleting-merchandising-rules
+slugEN: cache-layer-of-5-minutes-when-creating-or-deleting-merchandising-rules
 locale: en
 kiStatus: Backlog
 internalReference: 841197

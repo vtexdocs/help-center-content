@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:54.918Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
-slug: configuring-viewed-product-email
+slugEN: configuring-viewed-product-email
 locale: en
 legacySlug: configuring-product-visited
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i

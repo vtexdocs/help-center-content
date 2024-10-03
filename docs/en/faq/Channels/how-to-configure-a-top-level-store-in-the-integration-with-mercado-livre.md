@@ -9,7 +9,7 @@ firstPublishedAt: 2018-09-19T20:37:21.847Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
-slug: how-to-configure-a-top-level-store-in-the-integration-with-mercado-livre
+slugEN: how-to-configure-a-top-level-store-in-the-integration-with-mercado-livre
 locale: en
 legacySlug: how-to-configure-a-top-level-store-in-the-integration-with-mercado-livre
 ---

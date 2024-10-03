@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-11T13:39:18.676Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: my-admin-is-blocked-what-do-i-do
+slugEN: my-admin-is-blocked-what-do-i-do
 locale: en
 legacySlug: my-admin-is-blocked-what-do-i-do
 ---

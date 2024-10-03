@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: special-character-in-seller-name-report
+slugEN: special-character-in-seller-name-report
 locale: en
 kiStatus: Backlog
 internalReference: 756243

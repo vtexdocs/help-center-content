@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
-slug: untitled
+slugEN: untitled
 locale: es
 kiStatus: No Fix
 internalReference: 481402

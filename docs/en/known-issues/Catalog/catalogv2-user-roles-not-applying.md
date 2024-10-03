@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalogv2-user-roles-not-applying
+slugEN: catalogv2-user-roles-not-applying
 locale: en
 kiStatus: No Fix
 internalReference: 489297

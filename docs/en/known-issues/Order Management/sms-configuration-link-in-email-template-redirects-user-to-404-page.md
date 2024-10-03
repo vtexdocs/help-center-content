@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: sms-configuration-link-in-email-template-redirects-user-to-404-page
+slugEN: sms-configuration-link-in-email-template-redirects-user-to-404-page
 locale: en
 kiStatus: Backlog
 internalReference: 1054007

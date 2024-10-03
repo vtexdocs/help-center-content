@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: video-component-doesnt-work-properly-on-ios-devices
+slugEN: video-component-doesnt-work-properly-on-ios-devices
 locale: en
 kiStatus: No Fix
 internalReference: 609462

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:23.819Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: marketplace-strategies-at-vtex
+slugEN: marketplace-strategies-at-vtex
 locale: en
 legacySlug: integrating-with-marketplace
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
@@ -70,7 +70,7 @@ The process to configure your store as [a VTEX marketplace](https://help.vtex.co
 
 See below for the main VTEX marketplaces:  
 
-![mkt br](https://images.ctfassets.net/alneenqid6w5/6DB08TtDzQ0tuesrK1I1XU/d42c1c45fff7301eea1e2fe7160274b5/mkt_br.png)
+![mkt br](//images.ctfassets.net/alneenqid6w5/6DB08TtDzQ0tuesrK1I1XU/d42c1c45fff7301eea1e2fe7160274b5/mkt_br.png)
 
 The __Marketplaces and Integrations__ module also promotes and enables contact between VTEX marketplaces and certified VTEX sellers interested in collaborations.  
 

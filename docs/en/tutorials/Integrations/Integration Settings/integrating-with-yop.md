@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:14.915Z
 contentType: tutorial
 productTeam: Channels
 author: authors_3
-slug: integrating-with-yop
+slugEN: integrating-with-yop
 locale: en
 legacySlug: integrating-with-yop
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

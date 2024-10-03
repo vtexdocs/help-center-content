@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:15:10.749Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: what-is-a-workspace
+slugEN: what-is-a-workspace
 locale: en
 legacySlug: what-is-a-workspace
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

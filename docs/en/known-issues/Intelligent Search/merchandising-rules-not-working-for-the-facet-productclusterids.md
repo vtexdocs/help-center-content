@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: merchandising-rules-not-working-for-the-facet-productclusterids
+slugEN: merchandising-rules-not-working-for-the-facet-productclusterids
 locale: en
 kiStatus: Backlog
 internalReference: 1062457

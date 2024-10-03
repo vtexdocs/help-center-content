@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-03T19:45:51.230Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_64
-slug: sending-emails-with-triggers
+slugEN: sending-emails-with-triggers
 locale: en
 legacySlug: sending-emails-with-triggers
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

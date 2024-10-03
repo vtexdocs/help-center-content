@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: storefront-permissions-app-sets-documenttype-as-cpf
+slugEN: storefront-permissions-app-sets-documenttype-as-cpf
 locale: en
 kiStatus: Fixed
 internalReference: 798330

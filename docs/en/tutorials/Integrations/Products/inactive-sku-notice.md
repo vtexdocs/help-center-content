@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-11T01:40:27.117Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: inactive-sku-notice
+slugEN: inactive-sku-notice
 locale: en
 legacySlug: inactive-sku-notice
 subcategoryId: 4HBbKdnwneGew2qGGykSM8

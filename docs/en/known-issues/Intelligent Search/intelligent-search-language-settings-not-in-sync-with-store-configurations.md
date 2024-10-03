@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: intelligent-search-language-settings-not-in-sync-with-store-configurations
+slugEN: intelligent-search-language-settings-not-in-sync-with-store-configurations
 locale: en
 kiStatus: Backlog
 internalReference: 990343

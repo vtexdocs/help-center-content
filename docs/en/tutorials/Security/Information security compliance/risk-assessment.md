@@ -9,7 +9,7 @@ firstPublishedAt: 2022-05-26T13:17:48.374Z
 contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slug: risk-assessment
+slugEN: risk-assessment
 locale: en
 legacySlug: the-risk-assessment-process
 subcategoryId: vONCJSxwN5qZiElOEtKkH

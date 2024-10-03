@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:46.992Z
 contentType: tutorial
 productTeam: Channels
 author: authors_84
-slug: configuring-affiliates
+slugEN: configuring-affiliates
 locale: en
 legacySlug: configuring-affiliates
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k

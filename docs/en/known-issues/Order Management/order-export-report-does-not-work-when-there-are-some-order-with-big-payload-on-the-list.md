@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: order-export-report-does-not-work-when-there-are-some-order-with-big-payload-on-the-list
+slugEN: order-export-report-does-not-work-when-there-are-some-order-with-big-payload-on-the-list
 locale: en
 kiStatus: Backlog
 internalReference: 832429

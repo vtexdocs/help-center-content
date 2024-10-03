@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: order-again-from-b2b-orders-history-doesnt-work
+slugEN: order-again-from-b2b-orders-history-doesnt-work
 locale: en
 kiStatus: Fixed
 internalReference: 819920

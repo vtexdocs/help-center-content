@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-login-flow-allows-changing-email-but-flow-is-not-supported
+slugEN: checkout-login-flow-allows-changing-email-but-flow-is-not-supported
 locale: en
 kiStatus: Backlog
 internalReference: 258447

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: sku-file-update-does-not-update-v-version-tags
+slugEN: sku-file-update-does-not-update-v-version-tags
 locale: en
 kiStatus: No Fix
 internalReference: 852869

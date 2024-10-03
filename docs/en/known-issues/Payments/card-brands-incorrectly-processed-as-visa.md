@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: card-brands-incorrectly-processed-as-visa
+slugEN: card-brands-incorrectly-processed-as-visa
 locale: en
 kiStatus: Backlog
 internalReference: 1024823

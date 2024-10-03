@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:11.364Z
 contentType: tutorial
 productTeam: Identity
 author: authors_3
-slug: understanding-how-the-cache-works
+slugEN: understanding-how-the-cache-works
 locale: en
 legacySlug: understanding-how-the-cache-works
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
@@ -29,7 +29,7 @@ See the schematic chart shown below:
 
 The cache is represented by a layer between the browser and server. So when a **request** is made, instead of the system going straight to the server to find the information, it first goes to this layer, which makes the response much quicker. A schematic diagram is shown below:
 
-![How cache works - communication with cache (without expiring)](https://images.ctfassets.net/alneenqid6w5/15ss3biutJhXX2WkG9k8xG/fa4aaef1190355a31e8afb5b08a85630/2_EN.png)
+![How cache works - communication with cache (without expiring)](//images.ctfassets.net/alneenqid6w5/15ss3biutJhXX2WkG9k8xG/fa4aaef1190355a31e8afb5b08a85630/2_EN.png)
 
 However, since the latest information is in the server, the cache has to be updated from time to time. The frequency varies according to the type of **request**: it is different for a single page, for a java script or CSS file, or for an image.
 
@@ -58,7 +58,7 @@ As mentioned the cache duration time varies for each type of **request**. The fo
 
 When a **request** cache (page or file) expires, and you make a new request (i.e. load the URL again) the system goes to the server, collects the latest information and updates the content of the URL in the cache. Once updated, the cached version will be returned for a new request for the URL. The following illustrates how this works:
 
-![How cache works - communication with cache (expired)](https://images.ctfassets.net/alneenqid6w5/e5oS6cve6yw1tS81PYkBK/5ab850cc08928054e7c5133016702c17/3_EN.png)
+![How cache works - communication with cache (expired)](//images.ctfassets.net/alneenqid6w5/e5oS6cve6yw1tS81PYkBK/5ab850cc08928054e7c5133016702c17/3_EN.png)
 
 So we can separate responses into two groups: cached and not cached.
 
@@ -71,7 +71,7 @@ When you click on the request, upon the first page reload, find among the header
 
 If the value is “MISS”, it means that the content is not cached but was returned directly by the server. Another important detail that can be found from the **request** headers is the date when the cache was created. This is shown in the property `X-vtex-processed-at`.
 
-![](https://images.contentful.com/alneenqid6w5/5GPSsb4UWA28QS4soyguSI/8772946997cc979ddf9c2297f2ca8bb6/cache.png)
+![](//images.contentful.com/alneenqid6w5/5GPSsb4UWA28QS4soyguSI/8772946997cc979ddf9c2297f2ca8bb6/cache.png)
 
 JavaScript and CSS files also have a fixed cache duration, but as they are used in formatting layouts and thus sometimes need to work more quickly, the portal is able to identify changes in their content, and break through the cache layer. 
 

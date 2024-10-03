@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
-slug: sku-active-even-without-registered-specifications
+slugEN: sku-active-even-without-registered-specifications
 locale: en
 kiStatus: Closed
 internalReference: 

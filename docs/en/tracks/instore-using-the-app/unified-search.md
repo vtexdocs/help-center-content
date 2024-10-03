@@ -8,7 +8,7 @@ publishedAt: 2024-05-03T12:35:21.520Z
 firstPublishedAt: 2021-08-05T14:45:51.056Z
 contentType: trackArticle
 productTeam: Shopping
-slug: unified-search
+slugEN: unified-search
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-using-the-app
@@ -24,7 +24,7 @@ VTEX Sales App features a unified search, which means that, when searching for a
 
 Search results are organized to improve customer experience, displaying images that facilitate product identification and providing relevant information for sales associates.
 
-![Busca unificada - EN](https://images.ctfassets.net/alneenqid6w5/2xcAiK7XONko8bTJrQPRNR/89c5c59cc9e5ce4f86f3d97966439ed7/Busca_unificada_VTEX_Sales_App.png)
+![Busca unificada - EN](//images.ctfassets.net/alneenqid6w5/2xcAiK7XONko8bTJrQPRNR/89c5c59cc9e5ce4f86f3d97966439ed7/Busca_unificada_VTEX_Sales_App.png)
 
 When you click the `Add to Cart` option, the following product information will be displayed:
 - Product variations, SKUs.
@@ -33,7 +33,7 @@ When you click the `Add to Cart` option, the following product information will 
 
 To add a product to the cart, select the desired variation, shipping option, and quantity, then click `Add to Cart`.
 
-![Carrinho - EN](https://images.ctfassets.net/alneenqid6w5/3lUWtqtEAZZCsJhTYVkYBO/4e2090b5e30f545a65f35c7faefd67ac/Adicionar_ao_carrinho_VTEX_Sales_App.png)
+![Carrinho - EN](//images.ctfassets.net/alneenqid6w5/3lUWtqtEAZZCsJhTYVkYBO/4e2090b5e30f545a65f35c7faefd67ac/Adicionar_ao_carrinho_VTEX_Sales_App.png)
 
 ## Filters
 

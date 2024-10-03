@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: viewcart-event-is-triggered-twice-when-we-change-product-quantity-in-minicart
+slugEN: viewcart-event-is-triggered-twice-when-we-change-product-quantity-in-minicart
 locale: en
 kiStatus: Fixed
 internalReference: 1040772

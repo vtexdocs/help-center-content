@@ -3,16 +3,16 @@ title: 'Intelligent Search Redirect settings search bar is case sensitive'
 id: 5QEkcyhCQWyw093UkDCeOq
 status: PUBLISHED
 createdAt: 2023-09-26T23:50:50.661Z
-updatedAt: 2023-09-26T23:50:51.661Z
-publishedAt: 2023-09-26T23:50:51.661Z
+updatedAt: 2024-10-01T14:15:09.795Z
+publishedAt: 2024-10-01T14:15:09.795Z
 firstPublishedAt: 2023-09-26T23:50:51.661Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: intelligent-search-redirect-settings-search-bar-is-case-sensitive
+slugEN: intelligent-search-redirect-settings-search-bar-is-case-sensitive
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 361894
 ---
 

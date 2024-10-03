@@ -9,7 +9,7 @@ firstPublishedAt: 2021-09-02T19:30:32.642Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: mapping-mercado-livre-categories-variations-and-attributes
+slugEN: mapping-mercado-livre-categories-variations-and-attributes
 locale: en
 legacySlug: mapping-mercado-livre-categories-variations-and-attributes
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

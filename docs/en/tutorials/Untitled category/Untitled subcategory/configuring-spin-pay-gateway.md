@@ -9,7 +9,7 @@ firstPublishedAt: 2021-04-19T14:13:34.952Z
 contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slug: configuring-spin-pay-gateway
+slugEN: configuring-spin-pay-gateway
 locale: en
 legacySlug: configuring-spin-pay-gateway
 subcategoryId: unknown-subcategory

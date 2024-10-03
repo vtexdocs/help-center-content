@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: braspag-error-when-capturing-or-canceling-due-to-an-error-with-code-bp901
+slugEN: braspag-error-when-capturing-or-canceling-due-to-an-error-with-code-bp901
 locale: en
 kiStatus: Backlog
 internalReference: 490428

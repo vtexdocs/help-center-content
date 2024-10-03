@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: single-installment-payment-condition-does-not-appear-at-chekout
+slugEN: single-installment-payment-condition-does-not-appear-at-chekout
 locale: en
 kiStatus: Backlog
 internalReference: 605568

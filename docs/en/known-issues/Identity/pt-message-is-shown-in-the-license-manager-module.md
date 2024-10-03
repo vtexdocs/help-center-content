@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slug: pt-message-is-shown-in-the-license-manager-module
+slugEN: pt-message-is-shown-in-the-license-manager-module
 locale: en
 kiStatus: No Fix
 internalReference: 620782

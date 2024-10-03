@@ -9,7 +9,7 @@ firstPublishedAt: 2020-02-11T14:56:17.333Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: how-to-manage-subscriptions
+slugEN: how-to-manage-subscriptions
 locale: en
 legacySlug: how-to-manage-subscriptions
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
@@ -47,12 +47,12 @@ The **Subscription Orders** section allows you to:
 - Monitor the **absolute number and corresponding percentage** of Subscription Orders that were *scheduled*, *processed*, *generated* and *completed* per period.
 - View a **chart** with the percentage of *skipped* orders, *cycles with an issue* and *payment errors*.
 
-![EN Dashboard Pedidos Assinatura](https://images.ctfassets.net/alneenqid6w5/hZxhtReMjrrwi4VQl8Pyu/bb2e62f626072108fba24e78db87dc15/EN_Dashboard_Pedidos_Assinatura.png)
+![EN Dashboard Pedidos Assinatura](//images.ctfassets.net/alneenqid6w5/hZxhtReMjrrwi4VQl8Pyu/bb2e62f626072108fba24e78db87dc15/EN_Dashboard_Pedidos_Assinatura.png)
 
 - When accessing each tab of the **Subscription Orders** table, you can view the flow and details of the orders that were *skipped*, those that presented *Cycles with an issue*, those that contain a *Payment Error* and the *Completed* orders. 
 - In addition to listing the details of the errors that occurred during the  Subscription orders flow, it is also possible to perform a **manual retry** of orders with errors. Check out our article on [Troubleshooting of Subscription orders issues](https://help.vtex.com/tutorial/como-solucionar-pedidos-de-assinatura-com-erros--uLL8AYBGdtAmbbdL5gRCf) to learn more.
 
-![EN Log Pedidos Assinatura](https://images.ctfassets.net/alneenqid6w5/X9H4zlZTb6t7hpAKvbJ7L/9592cb74a6690ea5c76001bfa0218c33/EN_Log_Pedidos_Assinatura.png)
+![EN Log Pedidos Assinatura](//images.ctfassets.net/alneenqid6w5/X9H4zlZTb6t7hpAKvbJ7L/9592cb74a6690ea5c76001bfa0218c33/EN_Log_Pedidos_Assinatura.png)
 
 ### Subscribers
 

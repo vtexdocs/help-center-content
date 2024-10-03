@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-13T19:36:37.769Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-picpay
+slugEN: setting-up-payments-with-picpay
 locale: en
 legacySlug: setting-up-payments-with-picpay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

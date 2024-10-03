@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: search-navigator-filter-price-range-yielding-incorrect-results
+slugEN: search-navigator-filter-price-range-yielding-incorrect-results
 locale: en
 kiStatus: No Fix
 internalReference: 504992

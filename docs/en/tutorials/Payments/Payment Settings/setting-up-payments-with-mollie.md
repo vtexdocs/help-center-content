@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-12T19:58:27.531Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-mollie
+slugEN: setting-up-payments-with-mollie
 locale: en
 legacySlug: setting-up-payments-with-mollie
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

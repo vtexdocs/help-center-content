@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-07T16:34:46.797Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
-slug: registering-holidays
+slugEN: registering-holidays
 locale: en
 legacySlug: registering-holidays
 subcategoryId: 6F0Qup9onmEM2wsEsEsUQa

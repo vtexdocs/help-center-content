@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: autocomplete-suggestion-api-removes-the-dot-from-the-product-name
+slugEN: autocomplete-suggestion-api-removes-the-dot-from-the-product-name
 locale: en
 kiStatus: Backlog
 internalReference: 1014701

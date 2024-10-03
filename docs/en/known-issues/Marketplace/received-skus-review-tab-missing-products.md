@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: received-skus-review-tab-missing-products
+slugEN: received-skus-review-tab-missing-products
 locale: en
 kiStatus: Fixed
 internalReference: 939877

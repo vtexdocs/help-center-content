@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: App Platform
 author: 2mXZkbi0oi061KicTExNjo
 tag: App Platform
-slug: cold-start-requests-failing-with-timeout-and-courier-retries-not-working-as-expected
+slugEN: cold-start-requests-failing-with-timeout-and-courier-retries-not-working-as-expected
 locale: en
 kiStatus: Backlog
 internalReference: 789499

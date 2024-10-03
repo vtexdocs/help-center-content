@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: export-from-order-list-in-column-creation-date-is-at-utc-0
+slugEN: export-from-order-list-in-column-creation-date-is-at-utc-0
 locale: en
 kiStatus: Backlog
 internalReference: 619890

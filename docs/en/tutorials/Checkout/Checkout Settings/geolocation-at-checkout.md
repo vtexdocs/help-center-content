@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:15.960Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_24
-slug: geolocation-at-checkout
+slugEN: geolocation-at-checkout
 locale: en
 legacySlug: geolocation-at-checkout
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
@@ -59,7 +59,7 @@ Once you've created the polygon and entered your ID in the shipping worksheet, y
 3. In the blue options menu located at the top of the page, click on __Checkout__.
 4. In the __Google Maps API Key__ field insert the API Key given in the logistics step.
 
-![Google map keys](https://images.ctfassets.net/alneenqid6w5/5Fly0uJ3DE9SmlK6I1oRNx/a0449abd0a356e5afa7cbb87a7101fc5/google_maps_api_key_en.PNG)
+![Google map keys](//images.ctfassets.net/alneenqid6w5/5Fly0uJ3DE9SmlK6I1oRNx/a0449abd0a356e5afa7cbb87a7101fc5/google_maps_api_key_en.PNG)
 
 Once the API Key has been included in the Checkout configuration, the geolocation will be visible in your store checkout.
 

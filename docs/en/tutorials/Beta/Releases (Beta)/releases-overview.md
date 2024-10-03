@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-24T11:51:01.889Z
 contentType: tutorial
 productTeam: Others
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: releases-overview
+slugEN: releases-overview
 locale: en
 legacySlug: releases-overview
 subcategoryId: 3vXj7HrnYK8V5riTOwUuYv

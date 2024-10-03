@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-08-13T15:21:19.620Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: inventory-and-shipping-module-overview
+slugEN: inventory-and-shipping-module-overview
 locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101

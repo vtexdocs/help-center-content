@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-25T22:06:50.574Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: visao-geral-da-estrutura-do-catalogo
+slugEN: visao-geral-da-estrutura-do-catalogo
 locale: pt
 legacySlug: visao-geral-da-estrutura-do-catalogo
 subcategoryId: 209mOqb3iL1vhCFrvFLfSA

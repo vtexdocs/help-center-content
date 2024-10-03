@@ -8,7 +8,7 @@ publishedAt: 2020-09-15T19:56:20.299Z
 firstPublishedAt: 2019-07-31T21:48:07.014Z
 contentType: trackArticle
 productTeam: Channels
-slug: performance-optimization
+slugEN: performance-optimization
 locale: en
 trackId: 47kz5PRQPK0IEaqGqiIuA
 trackSlugEN: how-to-campaign-through-google-ads

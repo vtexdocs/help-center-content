@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:51.704Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: plan-your-project
+slugEN: plan-your-project
 locale: en
 legacySlug: plan-your-project
 subcategoryId: wz3FvYTctwuCwG206QUAi

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:01:54.751Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_35
-slug: how-to-know-which-javascript-file-is-being-applied-to-a-page
+slugEN: how-to-know-which-javascript-file-is-being-applied-to-a-page
 locale: en
 legacySlug: how-to-know-which-javascript-file-is-being-applied-to-a-page
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

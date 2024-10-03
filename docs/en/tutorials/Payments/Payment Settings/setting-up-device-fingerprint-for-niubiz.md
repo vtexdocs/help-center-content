@@ -9,7 +9,7 @@ firstPublishedAt: 2021-01-07T15:34:38.735Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: setting-up-device-fingerprint-for-niubiz
+slugEN: setting-up-device-fingerprint-for-niubiz
 locale: en
 legacySlug: setting-up-device-fingerprint-for-niubz
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

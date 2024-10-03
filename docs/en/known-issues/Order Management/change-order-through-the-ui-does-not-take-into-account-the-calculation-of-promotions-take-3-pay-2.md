@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: change-order-through-the-ui-does-not-take-into-account-the-calculation-of-promotions-take-3-pay-2
+slugEN: change-order-through-the-ui-does-not-take-into-account-the-calculation-of-promotions-take-3-pay-2
 locale: en
 kiStatus: No Fix
 internalReference: 472882

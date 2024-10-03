@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:25.241Z
 contentType: tutorial
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
-slug: understanding-vtex-matcher-scoring
+slugEN: understanding-vtex-matcher-scoring
 locale: en
 legacySlug: understanding-vtex-matcher-scoring
 subcategoryId: znvlXLHC80EKkugQaiMI4

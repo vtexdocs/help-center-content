@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: orders-placed-with-gift-card-generate-transactions-with-brazilian-currency-r
+slugEN: orders-placed-with-gift-card-generate-transactions-with-brazilian-currency-r
 locale: en
 kiStatus: Backlog
 internalReference: 1083379

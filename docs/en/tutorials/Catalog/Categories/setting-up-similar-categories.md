@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:46.323Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: setting-up-similar-categories
+slugEN: setting-up-similar-categories
 locale: en
 legacySlug: setting-up-similar-categories
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec

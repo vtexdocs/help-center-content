@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-05T20:43:53.372Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-getnet-acquirer
+slugEN: setting-up-getnet-acquirer
 locale: en
 legacySlug: setting-up-getnet-acquirer
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

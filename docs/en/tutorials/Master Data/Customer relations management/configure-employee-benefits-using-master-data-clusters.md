@@ -9,7 +9,7 @@ firstPublishedAt: 2020-08-28T15:15:56.627Z
 contentType: tutorial
 productTeam: Master Data
 author: 4ubliktPJIsvyl1hq91RdK
-slug: configure-employee-benefits-using-master-data-clusters
+slugEN: configure-employee-benefits-using-master-data-clusters
 locale: en
 legacySlug: configure-employee-benefits-using-master-data-clusters
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l
@@ -55,4 +55,4 @@ With the field configured, the benefit can be created by following the steps bel
 7. In the end of the page, click on the **Save** button.
 
 After that, the benefit should already be working as configured. The discount is shown only in the shopping cart. The image below shows an example with 99% off.
-![Shopping cart with discount](https://images.ctfassets.net/alneenqid6w5/475MwMGUzp7GzqF0xYFVUq/599d65a4eb894d02d8cfb0a6c1a55463/Carrinho_com_desconto.png)
+![Shopping cart with discount](//images.ctfassets.net/alneenqid6w5/475MwMGUzp7GzqF0xYFVUq/599d65a4eb894d02d8cfb0a6c1a55463/Carrinho_com_desconto.png)

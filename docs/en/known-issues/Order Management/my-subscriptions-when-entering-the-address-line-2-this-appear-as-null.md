@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: my-subscriptions-when-entering-the-address-line-2-this-appear-as-null
+slugEN: my-subscriptions-when-entering-the-address-line-2-this-appear-as-null
 locale: en
 kiStatus: No Fix
 internalReference: 588046

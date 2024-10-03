@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-25T17:17:16.417Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: offers-sent-from-the-same-vtex-sellers-and-marketplaces
+slugEN: offers-sent-from-the-same-vtex-sellers-and-marketplaces
 locale: en
 legacySlug: product-shipping-architecture-between-vtex-marketplaces-and-sellers
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T14:50:16.583Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: pipedrive-suiteshare
+slugEN: pipedrive-suiteshare
 locale: es
 legacySlug: pipedrive
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

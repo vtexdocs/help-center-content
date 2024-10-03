@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: VTEX Shipping Network (VTEX Log)
 author: 2mXZkbi0oi061KicTExNjo
 tag: VTEX Shipping Network (VTEX Log)
-slug: order-not-notified-carrier-leaves-label-barcode-incomplete
+slugEN: order-not-notified-carrier-leaves-label-barcode-incomplete
 locale: en
 kiStatus: Backlog
 internalReference: 872530

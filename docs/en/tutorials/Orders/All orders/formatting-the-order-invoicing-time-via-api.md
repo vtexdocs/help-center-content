@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-18T21:12:57.335Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
-slug: formatting-the-order-invoicing-time-via-api
+slugEN: formatting-the-order-invoicing-time-via-api
 locale: en
 legacySlug: formatting-the-orders-time-of-billing-via-api
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

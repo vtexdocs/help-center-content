@@ -9,7 +9,7 @@ firstPublishedAt: 2018-06-25T18:37:29.930Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 7kumplNTMIsWYGeeegCqO8
-slug: conditions-builder-usage-examples
+slugEN: conditions-builder-usage-examples
 locale: en
 legacySlug: conditions-builder-usage-examples
 subcategoryId: 3e2VLdLao8GGk4sAmMmwmi
@@ -42,7 +42,7 @@ __utm_campaign__ informs in __which campaign__ your customer specifically clicke
 
 __utm_medium__ informs which __advertising channel__ , that can be E-mail or a Banner on a site, reached your customer. In the case of images, the block checks if the channel was *email*.  
 
-![utmenglish](https://images.ctfassets.net/alneenqid6w5/4lFJ73jp9Cysoes6igUKO2/6e099fe8ff1600fc165ef4c1b008bdaa/utmenglish.png)
+![utmenglish](//images.ctfassets.net/alneenqid6w5/4lFJ73jp9Cysoes6igUKO2/6e099fe8ff1600fc165ef4c1b008bdaa/utmenglish.png)
   
 For each one of these blocks, you can check to see if: 
 
@@ -87,7 +87,7 @@ This block analyzes the total value which exists in the cart.
 Let’s assume that your wanted to put a cheaper price on a shampoo if your customer would buy __exactly 3 units__, but apart from this would also buy __at least 150 reais__ worth of goods.
 The condition to be created will be: 
 
-![Exemplo2](https://images.ctfassets.net/alneenqid6w5/11Z9LujUl66G80yGQyKI6S/fa33819d9e0ef37113466e3612d370d5/exemplo2.png)  
+![Exemplo2](//images.ctfassets.net/alneenqid6w5/11Z9LujUl66G80yGQyKI6S/fa33819d9e0ef37113466e3612d370d5/exemplo2.png)  
 
 *quantity of this item in the cart is **exactly** 3 
 **and** 

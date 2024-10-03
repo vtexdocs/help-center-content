@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-02T18:38:56.879Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-conductor-gateway
+slugEN: setting-up-conductor-gateway
 locale: en
 legacySlug: setting-up-conductor-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

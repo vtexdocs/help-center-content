@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-02T19:49:35.201Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: configuring-cielo-acquirer
+slugEN: configuring-cielo-acquirer
 locale: en
 legacySlug: configuring-cielo-acquirer
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

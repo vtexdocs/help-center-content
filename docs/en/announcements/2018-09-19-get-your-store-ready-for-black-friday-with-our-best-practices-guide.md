@@ -8,7 +8,7 @@ publishedAt: 2020-01-21T18:13:05.112Z
 contentType: updates
 productTeam: Others
 author: authors_24
-slug: get-your-store-ready-for-black-friday-with-our-best-practices-guide
+slugEN: 2018-09-19-get-your-store-ready-for-black-friday-with-our-best-practices-guide
 locale: en
 legacySlug: get-your-store-ready-for-black-friday-with-our-best-practices-guide
 announcementImageID: ''

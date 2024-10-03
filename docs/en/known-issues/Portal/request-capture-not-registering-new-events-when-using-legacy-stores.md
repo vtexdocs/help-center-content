@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: request-capture-not-registering-new-events-when-using-legacy-stores
+slugEN: request-capture-not-registering-new-events-when-using-legacy-stores
 locale: en
 kiStatus: Backlog
 internalReference: 604254

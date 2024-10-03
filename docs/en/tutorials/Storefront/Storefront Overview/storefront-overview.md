@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-23T17:49:06.557Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: storefront-overview
+slugEN: storefront-overview
 locale: en
 legacySlug: storefront-overview
 subcategoryId: 3PNmhq67KMmGTBSfIWJdcQ

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:13:50.154Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6dI9ZPE1e80iq8IuIsww2s
-slug: what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion
+slugEN: what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion
 locale: en
 legacySlug: what-does -it-mean-to-activate-a-gift-multiplier-on-a-promotion
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq

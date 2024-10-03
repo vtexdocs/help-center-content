@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-02T12:47:50.707Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-netpay-and-netpay-checkout
+slugEN: setting-up-payments-with-netpay-and-netpay-checkout
 locale: en
 legacySlug: setting-up-payments-with-netpay-and-netpay-checkout
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

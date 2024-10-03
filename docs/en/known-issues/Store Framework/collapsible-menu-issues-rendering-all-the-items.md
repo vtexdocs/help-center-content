@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: collapsible-menu-issues-rendering-all-the-items
+slugEN: collapsible-menu-issues-rendering-all-the-items
 locale: en
 kiStatus: No Fix
 internalReference: 542091

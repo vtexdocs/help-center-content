@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: modals-deprecated-divergences-setup-shipping-policy
+slugEN: modals-deprecated-divergences-setup-shipping-policy
 locale: en
 kiStatus: No Fix
 internalReference: 445866

@@ -8,7 +8,7 @@ publishedAt: 2023-02-02T16:09:30.231Z
 contentType: updates
 productTeam: Channels
 author: authors_59
-slug: vtex-announces-its-integration-with-amazon
+slugEN: 2017-10-27-vtex-announces-its-integration-with-amazon
 locale: en
 legacySlug: vtex-announces-its-integration-with-amazon
 announcementImageID: ''

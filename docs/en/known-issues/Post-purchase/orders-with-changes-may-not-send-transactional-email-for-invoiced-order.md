@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_41
 tag: Pricing & Promotions
-slug: orders-with-changes-may-not-send-transactional-email-for-invoiced-order
+slugEN: orders-with-changes-may-not-send-transactional-email-for-invoiced-order
 locale: en
 kiStatus: Backlog
 internalReference: 

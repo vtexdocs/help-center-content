@@ -9,7 +9,7 @@ firstPublishedAt: 2023-07-18T19:55:46.688Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: seller-monitoring
+slugEN: seller-monitoring
 locale: en
 legacySlug: seller-monitoring
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu

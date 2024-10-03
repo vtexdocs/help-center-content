@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: api-shipping-estimate-returns-wrong-info-when-sc-is-null
+slugEN: api-shipping-estimate-returns-wrong-info-when-sc-is-null
 locale: en
 kiStatus: No Fix
 internalReference: 554948

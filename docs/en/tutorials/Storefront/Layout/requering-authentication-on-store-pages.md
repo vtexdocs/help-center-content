@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-23T13:07:24.636Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: requering-authentication-on-store-pages
+slugEN: requering-authentication-on-store-pages
 locale: en
 legacySlug: requering-authentication-on-store-pages
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -26,8 +26,8 @@ But you can either remove the authentication requirement for these pages or inse
 To do this, follow the steps below:
 1. Access the __CMS__ module.
 2. Click the folder for the desired page.
-3. Click the __Edit__ button.![editFolder](https://images.contentful.com/alneenqid6w5/2DSRmQFQxeAYcoiWCAaU62/bc08bd32b394545d8af716338d55a0be/editFolder.png)
-4. Check or uncheck the __Authentication Required__ flag.![authenticationRequiredFlag](https://images.contentful.com/alneenqid6w5/3iK3iGguAUg84KuAsC4MYW/1dcdae221b886b4a4d1cdc4eb87af9a4/authenticationRequiredFlag.png)
+3. Click the __Edit__ button.![editFolder](//images.contentful.com/alneenqid6w5/2DSRmQFQxeAYcoiWCAaU62/bc08bd32b394545d8af716338d55a0be/editFolder.png)
+4. Check or uncheck the __Authentication Required__ flag.![authenticationRequiredFlag](//images.contentful.com/alneenqid6w5/3iK3iGguAUg84KuAsC4MYW/1dcdae221b886b4a4d1cdc4eb87af9a4/authenticationRequiredFlag.png)
 5. Click __Save Folder__.
 
 Note that whenever the __Authentication Required__ flag is checked for a folder, the URL of this page will be created with the `_secure` route. Ex: `http://{AccountName}.vtexcommercestable.com.br/_secure/account/`

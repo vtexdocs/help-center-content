@@ -8,7 +8,7 @@ publishedAt: 2021-10-28T18:37:43.166Z
 firstPublishedAt: 2020-01-13T14:33:41.637Z
 contentType: trackArticle
 productTeam: Identity
-slug: configuring-login-with-facebook
+slugEN: configuring-login-with-facebook
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: contas-e-permissoes

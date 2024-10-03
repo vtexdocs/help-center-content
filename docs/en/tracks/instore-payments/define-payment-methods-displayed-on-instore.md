@@ -8,7 +8,7 @@ publishedAt: 2023-07-05T17:16:01.041Z
 firstPublishedAt: 2021-09-27T20:57:59.730Z
 contentType: trackArticle
 productTeam: Shopping
-slug: define-payment-methods-displayed-on-instore
+slugEN: define-payment-methods-displayed-on-instore
 locale: en
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: instore-payments

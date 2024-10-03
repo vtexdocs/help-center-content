@@ -9,7 +9,7 @@ firstPublishedAt: 2021-08-12T16:10:25.331Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: shipping-rates
+slugEN: shipping-rates
 locale: en
 legacySlug: shipping-rates
 subcategoryId: 7uJcyu0VawEm8ggqKu404u

@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:43.972Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_24
-slug: mudanca-na-concatenacao-reduz-erros-no-envio-de-e-mails
+slugEN: 2018-08-13-mudanca-na-concatenacao-reduz-erros-no-envio-de-e-mails
 locale: en
 legacySlug: mudanca-na-concatenacao-reduz-erros-no-envio-de-e-mails
 announcementImageID: ''
@@ -25,8 +25,8 @@ This simple change in the module responsible for sending transactional emails dr
 
 The chart below shows the error rate of a store before we implemented the support for semicolon concatenation. More than 90% of e-mails failed every day.
 
-![Message Center bug fix 2](https://images.ctfassets.net/alneenqid6w5/2WTicguBZ6ucAO2a48QKum/fb0774ca2f6d2b746a702813c95126a2/Message_Center_bug_fix_2.png)
+![Message Center bug fix 2](//images.ctfassets.net/alneenqid6w5/2WTicguBZ6ucAO2a48QKum/fb0774ca2f6d2b746a702813c95126a2/Message_Center_bug_fix_2.png)
 
 After the improvement was implemented, the errors in sending transactional emails from the same store were completely eliminated, as this other chart shows:
 
-![Message Center bug fix 3](https://images.ctfassets.net/alneenqid6w5/1OmAZMSyp2cm8K4e6aKs8S/bf862028ae01ed3cb1b77cab375ebdf4/Message_Center_bug_fix_3.png)
+![Message Center bug fix 3](//images.ctfassets.net/alneenqid6w5/1OmAZMSyp2cm8K4e6aKs8S/bf862028ae01ed3cb1b77cab375ebdf4/Message_Center_bug_fix_3.png)

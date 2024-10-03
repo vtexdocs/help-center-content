@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: the-system-doesnt-work-with-more-than-one-extension-payment-affiliation-for-debit-online-method
+slugEN: the-system-doesnt-work-with-more-than-one-extension-payment-affiliation-for-debit-online-method
 locale: en
 kiStatus: No Fix
 internalReference: 319750

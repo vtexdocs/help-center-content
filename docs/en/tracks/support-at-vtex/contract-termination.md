@@ -8,7 +8,7 @@ publishedAt: 2024-02-22T14:08:21.680Z
 firstPublishedAt: 2024-02-22T14:08:21.680Z
 contentType: trackArticle
 productTeam: Others
-slug: contract-termination
+slugEN: contract-termination
 locale: en
 trackId: 4AXsGdGHqExp9ZkiNq9eMy
 trackSlugEN: support-at-vtex

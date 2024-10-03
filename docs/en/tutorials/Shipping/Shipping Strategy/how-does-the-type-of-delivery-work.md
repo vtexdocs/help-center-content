@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:44.173Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: how-does-the-type-of-delivery-work
+slugEN: how-does-the-type-of-delivery-work
 locale: en
 legacySlug: how-does-the-type-of-delivery-work
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

@@ -9,7 +9,7 @@ firstPublishedAt: 2024-08-22T18:57:59.895Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: delivery-promise-beta
+slugEN: delivery-promise-beta
 locale: pt
 legacySlug: delivery-promise-beta
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-28T20:45:46.045Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 4tz85APeKIwMEk6amWS0ou
-slug: what-is-vtex-io
+slugEN: what-is-vtex-io
 locale: en
 legacySlug: what-is-vtex-io
 subcategoryId: 5eBwrcLFVSwYGSOQqGKQYW

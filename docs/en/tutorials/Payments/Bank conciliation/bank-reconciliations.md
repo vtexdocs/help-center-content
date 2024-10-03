@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:27.431Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: bank-reconciliations
+slugEN: bank-reconciliations
 locale: en
 legacySlug: bank-reconciliations
 subcategoryId: 2tEO9ytK1aMO0i2oMayoQq
@@ -46,7 +46,7 @@ Among the details, it is possible to know the bank to which the slip belongs, th
 3. In **History**, click on one of the dates of the bank reconciliation operations performed.
 4. In **More Details**, click **Successfully Reconciled** or **Not Able to Reconcile** to check the details of the transactions carried out in a particular bank. 
 
-![historic-conciliation](https://images.ctfassets.net/alneenqid6w5/7K6sF9KZlBA00tbSp4q0pC/2e2ebac6f5612baa7935e99758612f66/historico_conciliacao_EN.jpg)
+![historic-conciliation](//images.ctfassets.net/alneenqid6w5/7K6sF9KZlBA00tbSp4q0pC/2e2ebac6f5612baa7935e99758612f66/historico_conciliacao_EN.jpg)
 
 ## Payclub
 
@@ -57,4 +57,4 @@ Here you can download the payments on the day they were made through redirection
 4. Select the date you want from the calendar.
 5. Click on **Download file**.
 
-![donwload-file-conciliation](https://images.ctfassets.net/alneenqid6w5/78K7wW5QAaA0tVCJTBwpDH/fa25f9754480cf2e41b72b70f95d5740/Download_Concilia____o_EN.JPG)
+![donwload-file-conciliation](//images.ctfassets.net/alneenqid6w5/78K7wW5QAaA0tVCJTBwpDH/fa25f9754480cf2e41b72b70f95d5740/Download_Concilia____o_EN.JPG)

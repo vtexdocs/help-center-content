@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-10-21T12:48:16.576Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: adding-warehouses
+slugEN: adding-warehouses
 locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101

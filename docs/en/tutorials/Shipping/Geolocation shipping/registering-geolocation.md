@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:44.871Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: registering-geolocation
+slugEN: registering-geolocation
 locale: en
 legacySlug: registering-geolocation
 subcategoryId: 5ckGPo3O5OG4AESKucmAaS

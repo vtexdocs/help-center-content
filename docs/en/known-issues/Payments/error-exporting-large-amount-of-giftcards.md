@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: error-exporting-large-amount-of-giftcards
+slugEN: error-exporting-large-amount-of-giftcards
 locale: en
 kiStatus: Backlog
 internalReference: 550658

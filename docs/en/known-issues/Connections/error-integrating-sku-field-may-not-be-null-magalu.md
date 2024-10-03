@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: error-integrating-sku-field-may-not-be-null-magalu
+slugEN: error-integrating-sku-field-may-not-be-null-magalu
 locale: en
 kiStatus: Backlog
 internalReference: 639272

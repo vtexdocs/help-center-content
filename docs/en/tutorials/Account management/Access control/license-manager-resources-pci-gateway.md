@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-16T20:32:51.172Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: license-manager-resources-pci-gateway
+slugEN: license-manager-resources-pci-gateway
 locale: en
 legacySlug: license-manager-resources-pci-gateway
 subcategoryId: 1HSqkejwuYcQSMC400uY84

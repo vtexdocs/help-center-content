@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-orders-not-being-cancelled-in-vtex-oms-for-multiples-accounts-scenario
+slugEN: meli-orders-not-being-cancelled-in-vtex-oms-for-multiples-accounts-scenario
 locale: en
 kiStatus: Backlog
 internalReference: 977453

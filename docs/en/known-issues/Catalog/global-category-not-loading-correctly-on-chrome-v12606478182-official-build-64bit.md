@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: global-category-not-loading-correctly-on-chrome-v12606478182-official-build-64bit
+slugEN: global-category-not-loading-correctly-on-chrome-v12606478182-official-build-64bit
 locale: en
 kiStatus: Backlog
 internalReference: 1075366

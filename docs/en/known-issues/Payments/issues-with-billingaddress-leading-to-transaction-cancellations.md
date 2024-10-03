@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: issues-with-billingaddress-leading-to-transaction-cancellations
+slugEN: issues-with-billingaddress-leading-to-transaction-cancellations
 locale: en
 kiStatus: Backlog
 internalReference: 1027901

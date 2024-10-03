@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: orderform-not-returning-customers-data-even-for-authorized-credentials
+slugEN: orderform-not-returning-customers-data-even-for-authorized-credentials
 locale: en
 kiStatus: Fixed
 internalReference: 582070

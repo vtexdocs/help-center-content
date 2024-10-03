@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slug: timeout-generating-internal-application-keys
+slugEN: timeout-generating-internal-application-keys
 locale: en
 kiStatus: Fixed
 internalReference: 1029425

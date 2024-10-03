@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: some-addresses-autocompleted-by-google-are-not-able-to-be-saved-on-my-account
+slugEN: some-addresses-autocompleted-by-google-are-not-able-to-be-saved-on-my-account
 locale: en
 kiStatus: Fixed
 internalReference: 415388

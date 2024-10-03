@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: admin-is-showing-image-extension-as-jpg-even-when-the-image-is-png
+slugEN: admin-is-showing-image-extension-as-jpg-even-when-the-image-is-png
 locale: en
 kiStatus: No Fix
 internalReference: 516269

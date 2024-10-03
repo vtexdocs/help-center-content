@@ -9,7 +9,7 @@ firstPublishedAt: 2018-12-03T16:52:03.595Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
-slug: campaign-promotion
+slugEN: campaign-promotion
 locale: en
 legacySlug: campaign-promotion
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
@@ -126,7 +126,7 @@ You can add or remove **Categories**, **Brands**, **Collections**, **Products** 
 
 See an example below. In this case, the promotion includes all products from the category **Home Appliances** whose brand is **Brastemp**, except the product **Refrigerator 100**.
 
-![exemplo-en](https://images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
+![exemplo-en](//images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
 
 In the **Products** and **SKUs** fields, you can opt to upload a **.txt** file with one product or SKU ID per row instead of selecting one product or one SKU at a time. To do this, click on **Choose file** and select your **.txt** file.
 

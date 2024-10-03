@@ -1,15 +1,15 @@
 ---
 title: 'Setting up payments with SteloM1V2'
 id: 1lO9Rn87U0iyBTCpgBlqYD
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2024-03-14T13:56:38.010Z
-updatedAt: 2024-03-14T14:05:14.839Z
-publishedAt: 2024-03-14T14:05:14.839Z
+updatedAt: 2024-10-03T16:11:32.486Z
+publishedAt: 
 firstPublishedAt: 2024-03-14T14:05:14.839Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-stelom1v2
+slugEN: setting-up-payments-with-stelom1v2
 locale: en
 legacySlug: setting-up-payments-with-stelom1v2
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

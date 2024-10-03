@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: orderform-api-preventing-the-shipping-method-selection-for-the-same-item-under-different-sellers
+slugEN: orderform-api-preventing-the-shipping-method-selection-for-the-same-item-under-different-sellers
 locale: en
 kiStatus: Fixed
 internalReference: 742139

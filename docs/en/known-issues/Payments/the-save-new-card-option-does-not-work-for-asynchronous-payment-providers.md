@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: the-save-new-card-option-does-not-work-for-asynchronous-payment-providers
+slugEN: the-save-new-card-option-does-not-work-for-asynchronous-payment-providers
 locale: en
 kiStatus: Fixed
 internalReference: 308892

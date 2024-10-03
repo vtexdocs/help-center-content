@@ -8,7 +8,7 @@ publishedAt: 2023-03-28T18:18:49.018Z
 firstPublishedAt: 2019-05-22T18:19:34.194Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: create-brands
+slugEN: create-brands
 locale: en
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugEN: catalog-101

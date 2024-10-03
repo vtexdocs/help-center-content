@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: nominal-discount-more-for-less-split-for-second-item-incorrect-discount
+slugEN: nominal-discount-more-for-less-split-for-second-item-incorrect-discount
 locale: en
 kiStatus: Backlog
 internalReference: 1071119

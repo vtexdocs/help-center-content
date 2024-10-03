@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_6
 tag: My Orders
-slug: my-orders-layout-breaking-without-customization
+slugEN: my-orders-layout-breaking-without-customization
 locale: en
 kiStatus: Fixed
 internalReference: 
@@ -25,7 +25,7 @@ internalReference:
 
 ---
 
-![Screen Shot 2017-05-26 at 12.01.58](https://images.contentful.com/alneenqid6w5/qUqOq8ZyGOCAAoiUM0600/66a6bf0fa60bbd65fa9abd1ca7c825ae/Screen_Shot_2017-05-26_at_12.01.58.png)
+![Screen Shot 2017-05-26 at 12.01.58](//images.contentful.com/alneenqid6w5/qUqOq8ZyGOCAAoiUM0600/66a6bf0fa60bbd65fa9abd1ca7c825ae/Screen_Shot_2017-05-26_at_12.01.58.png)
 
 If the layout of the new My Orders presents problems in your store _out of the box_, without any customization, it may be that your store's CSS is interfering with it.
 

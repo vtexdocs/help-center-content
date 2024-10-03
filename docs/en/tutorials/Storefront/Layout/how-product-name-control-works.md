@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:14:36.647Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: how-product-name-control-works
+slugEN: how-product-name-control-works
 locale: en
 legacySlug: how-product-name-control-works
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

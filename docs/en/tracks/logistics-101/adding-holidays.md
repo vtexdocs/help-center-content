@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-10-23T15:21:27.021Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: adding-holidays
+slugEN: adding-holidays
 locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101

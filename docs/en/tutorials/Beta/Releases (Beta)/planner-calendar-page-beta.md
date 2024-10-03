@@ -9,7 +9,7 @@ firstPublishedAt: 2022-09-20T22:37:14.741Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: planner-calendar-page-beta
+slugEN: planner-calendar-page-beta
 locale: en
 legacySlug: planner-calendar-page-beta
 subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
@@ -54,7 +54,7 @@ In this page, you can:
 
 In the following image, you'll see the view per week and what you can do in the interface:
 
-![releases-calendar-weekly-view-en](https://images.ctfassets.net/alneenqid6w5/QHZDKB0IX07GLoEO84NJv/a968361f0e0d1f0eece420ff190c1a94/releases-calendar-weekly-view-en.png)
+![releases-calendar-weekly-view-en](//images.ctfassets.net/alneenqid6w5/QHZDKB0IX07GLoEO84NJv/a968361f0e0d1f0eece420ff190c1a94/releases-calendar-weekly-view-en.png)
 
 In this page, you can:
 
@@ -72,7 +72,7 @@ In this page, you can:
 
 In the following image, you'll see the view per day and what you can do in the interface:
 
-![daily view v2 en](https://images.ctfassets.net/alneenqid6w5/5dwgo1qqTYNFMKV4sBNW0Q/b41cc39641404cceacfee3fb47d35615/daily_view_v2_en.png)
+![daily view v2 en](//images.ctfassets.net/alneenqid6w5/5dwgo1qqTYNFMKV4sBNW0Q/b41cc39641404cceacfee3fb47d35615/daily_view_v2_en.png)
 
 Apart from viewing information about the release, in this page, you can:
 

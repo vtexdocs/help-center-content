@@ -9,7 +9,7 @@ firstPublishedAt: 2021-08-30T18:37:05.901Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: order-errors-in-the-mercado-livre-integration
+slugEN: order-errors-in-the-mercado-livre-integration
 locale: en
 legacySlug: mercado-livre-integration-orders-erros
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky

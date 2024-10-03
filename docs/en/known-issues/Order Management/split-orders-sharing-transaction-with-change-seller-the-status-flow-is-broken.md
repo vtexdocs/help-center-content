@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: split-orders-sharing-transaction-with-change-seller-the-status-flow-is-broken
+slugEN: split-orders-sharing-transaction-with-change-seller-the-status-flow-is-broken
 locale: en
 kiStatus: Backlog
 internalReference: 1082298

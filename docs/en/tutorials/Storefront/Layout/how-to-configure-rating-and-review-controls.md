@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:59:55.793Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-configure-rating-and-review-controls
+slugEN: how-to-configure-rating-and-review-controls
 locale: en
 legacySlug: how-to-configure-rating-and-review-controls
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -45,6 +45,6 @@ In registering the Category, there is the option to configure the Rating feature
 
 Click on **new rating** and fill in the Name and Text fields, then save.
 
-![new-rating-categorias EN](https://images.ctfassets.net/alneenqid6w5/k7zFwGh3bM8C6io8yicYU/7568bf49b49455acbf564e33146b2396/new_rating.png)
+![new-rating-categorias EN](//images.ctfassets.net/alneenqid6w5/k7zFwGh3bM8C6io8yicYU/7568bf49b49455acbf564e33146b2396/new_rating.png)
 
 Now your Review and Rating controls are ready to be used.

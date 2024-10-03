@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:05:07.777Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-an-e-wallet
+slugEN: what-is-an-e-wallet
 locale: en
 legacySlug: what-is-an-e-wallet
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

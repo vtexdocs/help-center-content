@@ -9,7 +9,7 @@ firstPublishedAt: 2022-05-12T21:10:56.246Z
 contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: smartcheckout-security
+slugEN: smartcheckout-security
 locale: en
 legacySlug: smartcheckout-security
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: custom-attribute-mapper-mercado-livre
+slugEN: custom-attribute-mapper-mercado-livre
 locale: en
 kiStatus: No Fix
 internalReference: 521197

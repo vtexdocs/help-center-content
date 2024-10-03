@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: validatecartmutation-failing-when-large-payload
+slugEN: validatecartmutation-failing-when-large-payload
 locale: en
 kiStatus: Backlog
 internalReference: 985867

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: removing-an-sku-attachment-by-importing-products-via-spreadsheet-has-no-effect
+slugEN: removing-an-sku-attachment-by-importing-products-via-spreadsheet-has-no-effect
 locale: en
 kiStatus: Backlog
 internalReference: 

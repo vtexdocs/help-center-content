@@ -3,13 +3,13 @@ title: 'Setting up payments with PSE'
 id: 7dRChubn7TqdEyWrHQEQp6
 status: PUBLISHED
 createdAt: 2022-05-18T17:13:25.207Z
-updatedAt: 2023-03-14T14:51:46.607Z
-publishedAt: 2023-03-14T14:51:46.607Z
+updatedAt: 2024-09-30T16:31:19.626Z
+publishedAt: 2024-09-30T16:31:19.626Z
 firstPublishedAt: 2023-03-14T14:51:46.607Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-pse
+slugEN: setting-up-payments-with-pse
 locale: en
 legacySlug: setting-up-payments-with-pse
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
@@ -56,3 +56,6 @@ To enable PSE in your store, the following actions are required:
 8. In the **Process with affiliation** field, choose the connector that will process payments with PSE. Only connectors that support this payment method will be available for selection.
 9. If you wish, you can also [configure payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
 10. Click `Save`.
+
+>ℹ️ You can also create a regular promotion that can be applied specifically to payments made through PSE. Find out more at [Creating promotions for PSE payments](https://help.vtex.com/en/tutorial/creating-promotions-for-pse-payments--6YIp1fJ76gq667PQWjuj5T).
+

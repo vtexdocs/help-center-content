@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: magalu-order-not-created-in-oms-and-without-log-in-bridge
+slugEN: magalu-order-not-created-in-oms-and-without-log-in-bridge
 locale: en
 kiStatus: Backlog
 internalReference: 667547

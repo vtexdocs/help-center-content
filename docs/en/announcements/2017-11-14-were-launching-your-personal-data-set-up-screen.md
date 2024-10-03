@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:13.826Z
 contentType: updates
 productTeam: Others
 author: authors_59
-slug: were-launching-your-personal-data-set-up-screen
+slugEN: 2017-11-14-were-launching-your-personal-data-set-up-screen
 locale: en
 legacySlug: were-launching-your-personal-data-set-up-screen
 announcementImageID: ''

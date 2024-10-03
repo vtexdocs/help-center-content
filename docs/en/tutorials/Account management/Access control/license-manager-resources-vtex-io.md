@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-16T21:07:01.597Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: license-manager-resources-vtex-io
+slugEN: license-manager-resources-vtex-io
 locale: en
 legacySlug: 
 subcategoryId: 1HSqkejwuYcQSMC400uY84

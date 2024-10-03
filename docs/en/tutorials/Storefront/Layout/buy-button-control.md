@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-09T18:20:00.228Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: buy-button-control
+slugEN: buy-button-control
 locale: en
 legacySlug: buy-button-control
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-integration-listing-types-for-peru-venezuela-equador-and-uruguai
+slugEN: meli-integration-listing-types-for-peru-venezuela-equador-and-uruguai
 locale: en
 kiStatus: Backlog
 internalReference: 925139

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-27T20:27:49.319Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-decidir-gateway
+slugEN: setting-up-decidir-gateway
 locale: en
 legacySlug: setting-up-decidir-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

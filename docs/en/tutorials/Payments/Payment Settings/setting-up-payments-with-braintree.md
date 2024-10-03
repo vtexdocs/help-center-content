@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-11T12:27:01.656Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-braintree
+slugEN: setting-up-payments-with-braintree
 locale: en
 legacySlug: setting-up-payments-with-braintree
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

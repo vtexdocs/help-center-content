@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-30T20:59:34.810Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: netshoes-inventory-integration-errors
+slugEN: netshoes-inventory-integration-errors
 locale: en
 legacySlug: netshoes-inventory-integration-errors
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP

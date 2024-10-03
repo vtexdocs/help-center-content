@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: problems-with-payment-condition-storage
+slugEN: problems-with-payment-condition-storage
 locale: en
 kiStatus: Backlog
 internalReference: 377684

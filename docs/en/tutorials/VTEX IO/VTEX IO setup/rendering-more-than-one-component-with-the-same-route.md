@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T23:07:44.321Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: rendering-more-than-one-component-with-the-same-route
+slugEN: rendering-more-than-one-component-with-the-same-route
 locale: en
 legacySlug: rendering-more-than-one-component-with-the-same-route
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

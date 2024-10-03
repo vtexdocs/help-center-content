@@ -9,7 +9,7 @@ firstPublishedAt: 2019-06-18T15:44:00.577Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
-slug: how-to-create-a-benefit-using-price-table
+slugEN: how-to-create-a-benefit-using-price-table
 locale: en
 legacySlug: how-to-create-a-benefit-using-price-table
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq

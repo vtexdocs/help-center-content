@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-06T22:39:03.183Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_59
-slug: setting-up-instores-page-and-template
+slugEN: setting-up-instores-page-and-template
 locale: en
 legacySlug: setting-up-instores-page-and-template
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G

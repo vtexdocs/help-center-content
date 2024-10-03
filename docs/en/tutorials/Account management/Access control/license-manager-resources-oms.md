@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-16T20:24:20.962Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: license-manager-resources-oms
+slugEN: license-manager-resources-oms
 locale: en
 legacySlug: license-manager-resources-oms
 subcategoryId: 1HSqkejwuYcQSMC400uY84

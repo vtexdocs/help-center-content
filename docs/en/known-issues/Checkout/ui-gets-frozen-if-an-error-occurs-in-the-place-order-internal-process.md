@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: ui-gets-frozen-if-an-error-occurs-in-the-place-order-internal-process
+slugEN: ui-gets-frozen-if-an-error-occurs-in-the-place-order-internal-process
 locale: en
 kiStatus: Backlog
 internalReference: 943771

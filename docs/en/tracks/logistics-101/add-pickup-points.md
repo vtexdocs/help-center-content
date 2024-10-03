@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-09-16T13:52:23.078Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: add-pickup-points
+slugEN: add-pickup-points
 locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101

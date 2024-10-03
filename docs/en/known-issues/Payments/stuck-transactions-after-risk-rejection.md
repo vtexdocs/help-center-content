@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: stuck-transactions-after-risk-rejection
+slugEN: stuck-transactions-after-risk-rejection
 locale: en
 kiStatus: Backlog
 internalReference: 1092563

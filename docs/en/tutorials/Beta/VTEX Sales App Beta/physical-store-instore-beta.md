@@ -9,7 +9,7 @@ firstPublishedAt: 2022-12-02T18:01:41.438Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: physical-store-instore-beta
+slugEN: physical-store-instore-beta
 locale: en
 legacySlug: physical-store-instore-beta
 subcategoryId: 5SE2asHiQtHKfbnFru8RWH
@@ -51,7 +51,7 @@ You can add a physical store by following the steps below:
 
 ### Physical store fields
 
-![loja-fisica2-en](https://images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/6a50e8a8cd3f452b4102af5871ede996/image.png)
+![loja-fisica2-en](//images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/6a50e8a8cd3f452b4102af5871ede996/image.png)
 
 #### Identification
 

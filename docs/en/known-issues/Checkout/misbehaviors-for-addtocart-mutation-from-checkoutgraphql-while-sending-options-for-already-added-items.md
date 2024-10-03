@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: misbehaviors-for-addtocart-mutation-from-checkoutgraphql-while-sending-options-for-already-added-items
+slugEN: misbehaviors-for-addtocart-mutation-from-checkoutgraphql-while-sending-options-for-already-added-items
 locale: en
 kiStatus: Fixed
 internalReference: 452053

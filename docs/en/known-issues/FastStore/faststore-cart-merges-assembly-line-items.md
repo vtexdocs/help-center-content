@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: faststore-cart-merges-assembly-line-items
+slugEN: faststore-cart-merges-assembly-line-items
 locale: en
 kiStatus: Backlog
 internalReference: 1050068

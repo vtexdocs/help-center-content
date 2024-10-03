@@ -9,7 +9,7 @@ firstPublishedAt: 2021-06-08T18:36:46.591Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: conecta-la-integration
+slugEN: conecta-la-integration
 locale: en
 legacySlug: conecta-la-integration
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

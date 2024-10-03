@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: orders-without-invoiceaddress-created-through-native-ui
+slugEN: orders-without-invoiceaddress-created-through-native-ui
 locale: en
 kiStatus: Fixed
 internalReference: 306140

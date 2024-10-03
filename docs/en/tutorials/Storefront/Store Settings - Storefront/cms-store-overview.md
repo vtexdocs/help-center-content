@@ -9,7 +9,7 @@ firstPublishedAt: 2022-01-06T14:09:01.062Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slug: cms-store-overview
+slugEN: cms-store-overview
 locale: en
 legacySlug: cms-store-overview
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc

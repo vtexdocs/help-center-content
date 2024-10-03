@@ -1,39 +1,33 @@
 ---
 title: 'Intelligent Search'
 id: 3qgT47zY08biLP3d5os3DG
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-03-05T14:47:05.068Z
-updatedAt: 2023-08-22T17:03:02.484Z
-publishedAt: 2023-08-22T17:01:21.074Z
+updatedAt: 2024-09-06T20:31:00.380Z
+publishedAt: 2024-09-06T20:31:00.380Z
 firstPublishedAt: 2020-03-05T19:53:38.701Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: overview-intelligent-search
+slugEN: overview-intelligent-search
 locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
 ---
 
->ℹ️ This app is only available for stores developed using VTEX IO. Before proceeding, you need to install and configure Intelligent Search in your store.
+Intelligent Search is VTEX's native intelligent search tool, designed to improve the digital shopping experience. It supports customers throughout their shopping journey across various channels (website, mobile app, conversational commerce, etc.).
 
-Intelligent Search is an intelligent search platform for digital commerce. It is a native VTEX platform search solution, which helps the customer throughout their shopping journey, regardless of the channel (website, mobile app, conversational, etc.).
+It returns relevant results from the user's first interaction with the store through the search bar, browsing categories, or exploring product listing pages, providing a seamless and intuitive experience.
 
-It simply and intuitively displays relevant results based on the catalog from the user's first interaction with the store through the search bar, browsing categories, or even through the window displays.
+In this track, we will present the necessary steps to configure and begin using Intelligent Search in your VTEX store.
 
-The tool also offers features such as autocomplete, displaying search and product suggestions based on the shopper's context, and filters that help when searching for the desired product.
+>ℹ️ Explore all available features and learn more about the tool's behavior in the section [Intelligent Search - Overview](https://help.vtex.com/en/tutorial/intelligent-search-overview--5o8ixTpYIxx3uJD0B1xp3z).
 
-In addition, Intelligent Search uses historical click and order data to dynamically improve search and handles misspellings, plural/singular, and gender errors. Finally, its configuration makes it possible to improve the customer experience and meet the merchant's business needs.
+## Requirements
 
-VTEX Intelligent Search supports the following languages: Arabic, Armenian, Basque, Bengali, Brazilian Portuguese, Bulgarian, Catalan, Chinese, Czech, Danish, Dutch, Estonian, Finnish, French, Galician, German, Greek, Hindi, Hungarian, Indonesian, Irish, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Sorani, Spanish, Swedish, Thai, Turkish, and Urdu.
+Before you start using Intelligent Search, make sure your store meets the following requirements:
 
-In the articles listed below, you will find an overview of each Intelligent Search feature.
+* The store must have been developed using [Store Framework](https://developers.vtex.com/docs/guides/store-framework) or [FastStore](https://developers.vtex.com/docs/guides/faststore), i.e., it must use a version of [Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) vtex.edition-store@3.x or newer.
 
-- **Explained search**: It is a feature that interprets a search term and displays the product list as a search result.
-- **Autocomplete**: It is based on the information obtained from the historical search for terms related to the Catalog.
-- **Merchandising rules**: It handles results in a search.
-- **Filters**: It is a feature that displays in groups the specifications of search results.
-- **Indexing**: This is a process that prepares general SKU details, such as catalog, price, and inventory information, and updates the information to be used as the basis for website searches and shelf configuration. You can view the Indexing Status and History by accessing Intelligent Search in your store.
-- **Relevance**: Relevance is a feature that defines the order in which products are shown in search results.
-- **Redirects**: Redirects is a feature that directs the customer to any other page, whether it is internal or external to your website. This redirect is done in the search area using selected terms or filters. Within the Admin, redirect is called Redirect.
-- **Synonyms**: This feature allows you to add synonyms and relate them to a specific search term, increasing the chance of a successful search.
-- **Analytics**: It organizes the data related to the searches carried out in the store and allows you to export it in a CSV file.
+  >ℹ️ The above requirement does not apply to headless implementation scenarios, in which VTEX does not provide the frontend technology. In these cases, you will need to implement the sending of search events. For more details, see [VTEX Intelligent Search Events API - Headless](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless).
+
+* The store must have active [products and SKUs in the Catalog](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL).

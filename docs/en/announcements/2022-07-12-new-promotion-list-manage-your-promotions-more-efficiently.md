@@ -8,7 +8,7 @@ publishedAt: 2022-07-27T11:00:51.505Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: new-promotion-list-manage-your-promotions-more-efficiently
+slugEN: 2022-07-12-new-promotion-list-manage-your-promotions-more-efficiently
 locale: en
 legacySlug: new-promotion-list-manage-your-promotions-more-efficiently
 announcementImageID: ''

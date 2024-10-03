@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: search-resolver-applying-messages-translations-over-already-translated-content
+slugEN: search-resolver-applying-messages-translations-over-already-translated-content
 locale: en
 kiStatus: Backlog
 internalReference: 865918

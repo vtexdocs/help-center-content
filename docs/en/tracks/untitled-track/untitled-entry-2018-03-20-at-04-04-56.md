@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: Channels
-slug: untitled-entry-2018-03-20-at-04-04-56
+slugEN: untitled-entry-2018-03-20-at-04-04-56
 locale: en
 trackId: 
 trackSlugEN: untitled-track

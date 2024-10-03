@@ -8,7 +8,7 @@ publishedAt: 2021-09-28T10:10:28.471Z
 contentType: updates
 productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
-slug: now-its-easier-to-sell-the-products-from-your-physical-stores-in
+slugEN: 2019-03-12-now-its-easier-to-sell-the-products-from-your-physical-stores-in
 locale: en
 legacySlug: now-it's-easier-to-sell-the-products-from-your-physical-stores-in
 announcementImageID: ''

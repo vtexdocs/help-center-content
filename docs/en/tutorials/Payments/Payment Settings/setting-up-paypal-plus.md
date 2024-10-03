@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-20T22:56:13.192Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slug: setting-up-paypal-plus
+slugEN: setting-up-paypal-plus
 locale: en
 legacySlug: setting-up-paypal-plus
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:55.184Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_3
-slug: using-the-remarks-field-at-checkout
+slugEN: using-the-remarks-field-at-checkout
 locale: en
 legacySlug: using-the-remarks-field-at-checkout
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk

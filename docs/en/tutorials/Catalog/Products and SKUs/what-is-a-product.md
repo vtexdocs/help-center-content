@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-25T21:57:29.709Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: what-is-a-product
+slugEN: what-is-a-product
 locale: en
 legacySlug: what-is-a-product
 subcategoryId: pwxWmUu7T222QyuGogs68

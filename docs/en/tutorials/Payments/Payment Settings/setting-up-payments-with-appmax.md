@@ -9,7 +9,7 @@ firstPublishedAt: 2023-12-18T14:32:23.030Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-appmax
+slugEN: setting-up-payments-with-appmax
 locale: en
 legacySlug: setting-up-payments-with-appmax
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-08T17:00:10.078Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
-slug: how-to-use-messages-on-your-io-apps
+slugEN: how-to-use-messages-on-your-io-apps
 locale: en
 legacySlug: how-to-use-messages-on-your-io-apps
 subcategoryId: 54gbzsku02c4bKmgFbp3v3

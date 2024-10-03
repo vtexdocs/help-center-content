@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:04:58.918Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: how-to-set-up-the-device-fingerprint-for-braspag
+slugEN: how-to-set-up-the-device-fingerprint-for-braspag
 locale: en
 legacySlug: how-to-set-up-the-device-fingerprint-for-braspagcybersource
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
@@ -41,11 +41,11 @@ function() {
 
 - Create the variables `cs_orgId` and `cs_merchantId` of type **Permanente.** The values of these two variables should be filled out with the contents informed by Braspag.
 
-![gtm-cybersource-variavel3-permanente](https://images.contentful.com/alneenqid6w5/5EFSTIM6TCKUE4GEOA66kc/8c2f37cdd8cc94571f6f2ac72ec1d35b/gtm-cybersource-variavel3-permanente.png)
+![gtm-cybersource-variavel3-permanente](//images.contentful.com/alneenqid6w5/5EFSTIM6TCKUE4GEOA66kc/8c2f37cdd8cc94571f6f2ac72ec1d35b/gtm-cybersource-variavel3-permanente.png)
 
 - Create or edit a driver for the orderPlaced screen (screen that shows purchases successfully closed) for it to be compatible with the **Evento personalizado** type and the **orderPlaced** value.
 
-![gtm-cybersource-acionador-orderplaced](https://images.contentful.com/alneenqid6w5/51IPOyaAjmowkEQ24sYyw4/7b11cddfb71c200dd1cd2c85149c7726/gtm-cybersource-acionador-orderplaced.png)
+![gtm-cybersource-acionador-orderplaced](//images.contentful.com/alneenqid6w5/51IPOyaAjmowkEQ24sYyw4/7b11cddfb71c200dd1cd2c85149c7726/gtm-cybersource-acionador-orderplaced.png)
 
 ## Creation of a Braspag tag
 
@@ -64,6 +64,6 @@ Fill it out with the HTML below:
 <script src="https://h.online-metrix.net/fp/check.js?org_id={{cs_orgId}}&amp;session_id={{cs_merchantId}}{{cs_sessionId}}" type="text/javascript"></script>
 ```
 
-![braspag fingerprint](https://images.ctfassets.net/alneenqid6w5/JTnL01Ko0DMc7Pu8Bp1CQ/84f93e14dac3c4471bb1d30b09fbf62e/image.png_h_250)
+![braspag fingerprint](//images.ctfassets.net/alneenqid6w5/JTnL01Ko0DMc7Pu8Bp1CQ/84f93e14dac3c4471bb1d30b09fbf62e/image.png_h_250)
 
 At last, post the changes.

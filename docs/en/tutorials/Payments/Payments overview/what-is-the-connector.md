@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-08T22:18:43.418Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-the-connector
+slugEN: what-is-the-connector
 locale: en
 legacySlug: what-is-the-connector
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 5S2MYtrgEoSGaGMqsICaEC
 tag: Suggestions
-slug: marketplace-vtex-nao-considera-o-preco-mais-barato-quando-o-seller-tambem
+slugEN: marketplace-vtex-nao-considera-o-preco-mais-barato-quando-o-seller-tambem
 locale: en
 kiStatus: Open
 internalReference: 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: exporting-spreadsheet-not-working-on-received-skus-processing-tab
+slugEN: exporting-spreadsheet-not-working-on-received-skus-processing-tab
 locale: en
 kiStatus: Backlog
 internalReference: 792511

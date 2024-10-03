@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: component-drawer-doesnt-work-when-implemented-in-productsummary-for-ios
+slugEN: component-drawer-doesnt-work-when-implemented-in-productsummary-for-ios
 locale: en
 kiStatus: Backlog
 internalReference: 833338

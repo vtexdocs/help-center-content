@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:24.177Z
 contentType: tutorial
 productTeam: Channels
 author: authors_3
-slug: integrating-with-walmart
+slugEN: integrating-with-walmart
 locale: en
 legacySlug: integrating-with-walmart
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

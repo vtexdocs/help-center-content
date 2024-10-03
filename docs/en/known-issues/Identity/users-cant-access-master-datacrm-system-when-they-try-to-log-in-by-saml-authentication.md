@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slug: users-cant-access-master-datacrm-system-when-they-try-to-log-in-by-saml-authentication
+slugEN: users-cant-access-master-datacrm-system-when-they-try-to-log-in-by-saml-authentication
 locale: en
 kiStatus: Backlog
 internalReference: 465652

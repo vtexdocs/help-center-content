@@ -8,7 +8,7 @@ publishedAt: 2022-02-02T21:09:18.803Z
 firstPublishedAt: 2022-02-02T21:04:33.822Z
 contentType: trackArticle
 productTeam: Channels
-slug: integration-overview-b2w
+slugEN: integration-overview-b2w
 locale: en
 trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugEN: b2w-integration-set-up

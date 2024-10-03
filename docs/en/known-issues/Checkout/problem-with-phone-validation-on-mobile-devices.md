@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: problem-with-phone-validation-on-mobile-devices
+slugEN: problem-with-phone-validation-on-mobile-devices
 locale: en
 kiStatus: Backlog
 internalReference: 964802

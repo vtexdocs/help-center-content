@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-01T21:32:30.114Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: what-is-dock
+slugEN: what-is-dock
 locale: en
 legacySlug: what-is-dock
 subcategoryId: 3RSSKdmS4MY2ycsu8WoyC2

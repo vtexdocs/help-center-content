@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:23.902Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: configuring-promotions-for-marketplaces
+slugEN: configuring-promotions-for-marketplaces
 locale: en
 legacySlug: configure-a-promotion-for-a-marketplace
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq

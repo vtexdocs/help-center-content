@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: error-occurs-when-attempting-to-perform-a-search-using-the-all-field-in-vtex-crm
+slugEN: error-occurs-when-attempting-to-perform-a-search-using-the-all-field-in-vtex-crm
 locale: en
 kiStatus: Backlog
 internalReference: 925679

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-24T19:47:19.057Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: configuring-kushki-gateway
+slugEN: configuring-kushki-gateway
 locale: en
 legacySlug: setting-up-kushki-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

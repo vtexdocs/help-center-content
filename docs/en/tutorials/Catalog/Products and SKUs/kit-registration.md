@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:48.663Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: kit-registration
+slugEN: kit-registration
 locale: en
 legacySlug: kit-registration
 subcategoryId: pwxWmUu7T222QyuGogs68
@@ -37,7 +37,7 @@ After creating all component products, we can move on to defining the kit’s se
 5. If you would like a look kit, click on the option __Bundle with SKUs sold separately__.
 6. Click on `Save`.
 
-![02-kit EN](https://images.ctfassets.net/alneenqid6w5/5O4ZP4iGI0YE60aMOkAI4Q/830694f23e7b6b7d2e4b0cd6c2438c41/02-kit_EN.png)
+![02-kit EN](//images.ctfassets.net/alneenqid6w5/5O4ZP4iGI0YE60aMOkAI4Q/830694f23e7b6b7d2e4b0cd6c2438c41/02-kit_EN.png)
 
 ## Associating components
 
@@ -52,9 +52,9 @@ After the kit product has been created, you must associate the components, accor
 7. Enter the SKU unit price inside the kit.
 6. Click on `Save`.
 
-![03-add component to kit EN](https://images.ctfassets.net/alneenqid6w5/1qBz4qjkAQ8OE8kMMeiw0o/eb5437d1d8a7c40e30998f2ad3723c5e/03-add_component_to_kit_EN.gif)
+![03-add component to kit EN](//images.ctfassets.net/alneenqid6w5/1qBz4qjkAQ8OE8kMMeiw0o/eb5437d1d8a7c40e30998f2ad3723c5e/03-add_component_to_kit_EN.gif)
 
-![04-kit in cart ALL](https://images.ctfassets.net/alneenqid6w5/4yJVbkTnDyIC2c682UskYw/8cad5dc5512f49e73a10abb31184ba8e/04-kit_in_cart_ALL.png)
+![04-kit in cart ALL](//images.ctfassets.net/alneenqid6w5/4yJVbkTnDyIC2c682UskYw/8cad5dc5512f49e73a10abb31184ba8e/04-kit_in_cart_ALL.png)
 
 ## Kit Weight
 
@@ -81,7 +81,7 @@ You may only change the final price of the kit by directly accessing the pricing
 Please note that any change in any component will generate a new final price, updating what had been previously registered. 
 
 Merely changing the final price will not update the price of the components.
-![06-price list EN](https://images.ctfassets.net/alneenqid6w5/1OFwACSPPuCiiWA4YqYa28/5b4ef3a2e50e78b0be869c97288e5778/06-price_list_EN.png)
+![06-price list EN](//images.ctfassets.net/alneenqid6w5/1OFwACSPPuCiiWA4YqYa28/5b4ef3a2e50e78b0be869c97288e5778/06-price_list_EN.png)
 
 ### Learn more
 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: specification-filters-with-character-restriction
+slugEN: specification-filters-with-character-restriction
 locale: en
 kiStatus: Backlog
 internalReference: 

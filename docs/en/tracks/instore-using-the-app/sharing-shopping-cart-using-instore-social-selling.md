@@ -8,7 +8,7 @@ publishedAt: 2023-07-26T19:00:02.450Z
 firstPublishedAt: 2021-08-05T15:08:06.961Z
 contentType: trackArticle
 productTeam: Shopping
-slug: sharing-shopping-cart-using-instore-social-selling
+slugEN: sharing-shopping-cart-using-instore-social-selling
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-using-the-app
@@ -61,4 +61,4 @@ In this case, the sales associate needs to add items to the cart, fill in the cu
 
 See the step-by-step instructions illustrated below.
 
-![socialselling-paymentlink-en](https://images.ctfassets.net/alneenqid6w5/hCgVTtE5YrsUFA2WHKrny/13e08b6558e7c4b2ecd22c242d4f7247/socialselling-paymentlink-en.gif)
+![socialselling-paymentlink-en](//images.ctfassets.net/alneenqid6w5/hCgVTtE5YrsUFA2WHKrny/13e08b6558e7c4b2ecd22c242d4f7247/socialselling-paymentlink-en.gif)

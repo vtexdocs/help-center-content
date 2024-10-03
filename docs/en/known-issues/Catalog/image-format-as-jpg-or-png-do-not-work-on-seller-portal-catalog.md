@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: image-format-as-jpg-or-png-do-not-work-on-seller-portal-catalog
+slugEN: image-format-as-jpg-or-png-do-not-work-on-seller-portal-catalog
 locale: en
 kiStatus: Backlog
 internalReference: 1020505

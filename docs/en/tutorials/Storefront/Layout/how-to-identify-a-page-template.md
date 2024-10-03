@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:08:36.556Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_35
-slug: how-to-identify-a-page-template
+slugEN: how-to-identify-a-page-template
 locale: en
 legacySlug: how-to-identify-a-page-template
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -39,13 +39,13 @@ To make this more flexible, it is also possible to include subtemplates and any 
 
 Now a real example: I want to know what page I am browsing on right now:
 
-![página-loja EN](https://images.ctfassets.net/alneenqid6w5/8rd8A3NxvOeaSYqqa2Wyy/75863ff3536180f32ed8388435175940/exemplo_loja_em_ingles.png)
+![página-loja EN](//images.ctfassets.net/alneenqid6w5/8rd8A3NxvOeaSYqqa2Wyy/75863ff3536180f32ed8388435175940/exemplo_loja_em_ingles.png)
 
 The domain itself often helps me identify it, but some stores may customize this, making this identification more difficult. If I am unsure if I am on a __Departament__ or __Category__ page, this may well be that the shelf has been customized. 
 
 The best way is checking the Source Code for the page (Ctrl + U). VTEX stores will have an indication of the directory to which the page belongs.
 
-![template-cms-exemplo en](https://images.ctfassets.net/alneenqid6w5/emC1qyMArCYWKcKg0M2UM/3cb37ecc2ae2f01f265d8b4dd25cbfff/exemplo_loja_em_ingles_PRODUCT.png)
+![template-cms-exemplo en](//images.ctfassets.net/alneenqid6w5/emC1qyMArCYWKcKg0M2UM/3cb37ecc2ae2f01f265d8b4dd25cbfff/exemplo_loja_em_ingles_PRODUCT.png)
 
 In the example above: `<!-- CommerceContext.Current.VirtualFolder.Name: @Produto@ -->`
 Now that we know that it is a category page, we have to find out which template is active for Categoria. To this, you need only repeat the process described in the previous example.

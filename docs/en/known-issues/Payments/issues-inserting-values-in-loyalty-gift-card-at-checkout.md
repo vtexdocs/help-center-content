@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: issues-inserting-values-in-loyalty-gift-card-at-checkout
+slugEN: issues-inserting-values-in-loyalty-gift-card-at-checkout
 locale: en
 kiStatus: Backlog
 internalReference: 943629

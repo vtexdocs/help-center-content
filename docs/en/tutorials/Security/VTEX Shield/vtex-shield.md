@@ -9,7 +9,7 @@ firstPublishedAt: 2024-04-25T01:19:00.025Z
 contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slug: vtex-shield
+slugEN: vtex-shield
 locale: en
 legacySlug: vtex-shield
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS

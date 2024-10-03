@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: giftlist-data-de-evento-salva-na-ui-nao-e-a-mesma-que-reflete-no-bd
+slugEN: giftlist-data-de-evento-salva-na-ui-nao-e-a-mesma-que-reflete-no-bd
 locale: en
 kiStatus: No Fix
 internalReference: 402134

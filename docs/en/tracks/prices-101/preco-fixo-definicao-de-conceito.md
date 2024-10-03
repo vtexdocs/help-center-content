@@ -8,7 +8,7 @@ publishedAt: 2021-05-26T17:20:58.165Z
 firstPublishedAt: 2019-07-17T19:42:19.813Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: preco-fixo-definicao-de-conceito
+slugEN: preco-fixo-definicao-de-conceito
 locale: en
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugEN: prices-101
@@ -81,7 +81,7 @@ Let's suppose that you've added a fixed price of U$ 200,00 for __two of more ite
 
 Which price would in this case be applied to five or more items? The sales price would be the lower one, U$ 100,00. 
 
-![fixed price - example1](https://images.ctfassets.net/alneenqid6w5/60d7Vr6w08B8XZt9FCk4AG/8a577583a2df4290c2acfaa08b97b71f/fixed_price_-_example1.svg)
+![fixed price - example1](//images.ctfassets.net/alneenqid6w5/60d7Vr6w08B8XZt9FCk4AG/8a577583a2df4290c2acfaa08b97b71f/fixed_price_-_example1.svg)
 
 ## Examples 
 

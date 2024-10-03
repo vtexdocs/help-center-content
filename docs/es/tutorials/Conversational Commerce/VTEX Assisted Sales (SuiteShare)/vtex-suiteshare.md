@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-31T15:42:20.699Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: vtex-suiteshare
+slugEN: vtex-suiteshare
 locale: es
 legacySlug: vtex-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
-slug: untitled
+slugEN: untitled
 locale: pt
 kiStatus: Backlog
 internalReference: 308613

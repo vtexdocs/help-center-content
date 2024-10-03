@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-19T01:28:44.397Z
 contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_24
-slug: what-to-do-with-error-when-accessing-orders-module
+slugEN: what-to-do-with-error-when-accessing-orders-module
 locale: en
 legacySlug: error-accessing-oms
 ---

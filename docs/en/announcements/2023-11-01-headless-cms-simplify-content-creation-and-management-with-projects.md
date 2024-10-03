@@ -8,7 +8,7 @@ publishedAt: 2023-11-16T14:17:47.228Z
 contentType: updates
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: headless-cms-simplify-content-creation-and-management-with-projects
+slugEN: 2023-11-01-headless-cms-simplify-content-creation-and-management-with-projects
 locale: en
 legacySlug: headless-cms-simplify-content-creation-and-management-with-projects
 announcementImageID: ''
@@ -26,7 +26,7 @@ Before, to handle different projects with distinct target audiences or solutions
 
 Now, the **Projects** interface allows you to manage all your projects from a single dashboard, providing a centralized control panel where you can manage all projects. You can now easily switch between projects, adjusting settings, content, and identity in one place. This improvement makes you more adaptable, catering to different audiences and objectives.
 
-![Projects pages](https://images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/9d484d193a357cf0a0ac5e8a3aa16e9a/projects-one-en.gif)
+![Projects pages](//images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/9d484d193a357cf0a0ac5e8a3aa16e9a/projects-one-en.gif)
 
 ## Why are we making this change?
 The **Projects** interface brings the following improvements:

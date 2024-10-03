@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_4
 tag: Checkout
-slug: duplicate-transactions-being-recorded-in-google-analytics
+slugEN: duplicate-transactions-being-recorded-in-google-analytics
 locale: en
 kiStatus: Backlog
 internalReference: 

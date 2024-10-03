@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-06T15:55:33.546Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-stelom1v2
+slugEN: setting-up-stelom1v2
 locale: en
 legacySlug: setting-up-stelom1v2
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

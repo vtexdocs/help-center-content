@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:15.959Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: configuring-the-past-prices-control
+slugEN: configuring-the-past-prices-control
 locale: en
 legacySlug: configuring-the-past-prices-control
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

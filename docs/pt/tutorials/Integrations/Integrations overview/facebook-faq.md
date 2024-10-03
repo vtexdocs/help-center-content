@@ -9,7 +9,7 @@ firstPublishedAt: 2021-06-16T19:43:11.993Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: facebook-faq
+slugEN: facebook-faq
 locale: pt
 legacySlug: facebook-faq
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq

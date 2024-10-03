@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:01:02.686Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
-slug: setting-the-grace-period-for-order-cancellation
+slugEN: setting-the-grace-period-for-order-cancellation
 locale: en
 legacySlug: setting-the-grace-period-for-order-cancellation
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-04-15T00:09:42.774Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: configuring-the-relevance-feature
+slugEN: configuring-the-relevance-feature
 locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
@@ -42,7 +42,7 @@ To change Relevance settings, follow the steps below.
 2. Click on __Relevance settings__.
 3. Choose the criterion whose weight you want to change.
 4. Drag the slider to choose its weight, as shown in the image below.
-  ![composicao-criterios-en](https://images.ctfassets.net/alneenqid6w5/6qRT6JsD2MecPTXHksGIMa/4ab581d6ffbed81312d9d853dc79f917/composicao-criterios-en.gif)
+  ![composicao-criterios-en](//images.ctfassets.net/alneenqid6w5/6qRT6JsD2MecPTXHksGIMa/4ab581d6ffbed81312d9d853dc79f917/composicao-criterios-en.gif)
   If you want to change a criterion from __Criteria composition__ to __Priority criteria__, click on the <i class="fas fa-bars"></i> icon and drag it to the Priority criteria block at the top of the page, as shown below. Note that when the criterion is set as a priority, you can no longer change its weight.
-  ![priority-criteria-en](https://images.ctfassets.net/alneenqid6w5/51sDib8UqJmQJmcqyIDSIE/e81fd3673b90c0a48d166712f6017bdf/priority-criteria-en.gif)
+  ![priority-criteria-en](//images.ctfassets.net/alneenqid6w5/51sDib8UqJmQJmcqyIDSIE/e81fd3673b90c0a48d166712f6017bdf/priority-criteria-en.gif)
 5. Click on __Save__.

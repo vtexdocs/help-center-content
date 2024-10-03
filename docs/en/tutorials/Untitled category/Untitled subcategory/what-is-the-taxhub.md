@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-02T13:12:41.251Z
 contentType: tutorial
 productTeam: Others
 author: 2Y2pnNkWfSoUMMYcwemq4A
-slug: what-is-the-taxhub
+slugEN: what-is-the-taxhub
 locale: en
 legacySlug: what-is-the-taxhub
 subcategoryId: unknown-subcategory

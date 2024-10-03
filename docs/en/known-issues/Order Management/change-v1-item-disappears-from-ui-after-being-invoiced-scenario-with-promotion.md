@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: change-v1-item-disappears-from-ui-after-being-invoiced-scenario-with-promotion
+slugEN: change-v1-item-disappears-from-ui-after-being-invoiced-scenario-with-promotion
 locale: en
 kiStatus: No Fix
 internalReference: 1080187

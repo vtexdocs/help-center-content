@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: inconsistencies-in-billingaddress-field-sent-to-gateway
+slugEN: inconsistencies-in-billingaddress-field-sent-to-gateway
 locale: en
 kiStatus: Scheduled
 internalReference: 291688

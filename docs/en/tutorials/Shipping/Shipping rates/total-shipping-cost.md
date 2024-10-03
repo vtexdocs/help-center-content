@@ -9,7 +9,7 @@ firstPublishedAt: 2021-08-25T13:08:08.704Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: total-shipping-cost
+slugEN: total-shipping-cost
 locale: en
 legacySlug: total-shipping-cost
 subcategoryId: 7uJcyu0VawEm8ggqKu404u

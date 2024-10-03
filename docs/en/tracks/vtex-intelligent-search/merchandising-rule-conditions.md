@@ -1,14 +1,14 @@
 ---
 title: 'Merchandising rule conditions'
 id: 3Dvava8LSVcFKeS2S6J7XW
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-04-03T17:57:24.274Z
-updatedAt: 2023-04-03T21:52:13.203Z
-publishedAt: 2023-04-03T21:52:13.203Z
+updatedAt: 2024-09-06T20:10:13.972Z
+publishedAt: 
 firstPublishedAt: 2023-04-03T18:28:34.244Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: merchandising-rule-conditions
+slugEN: merchandising-rule-conditions
 locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search

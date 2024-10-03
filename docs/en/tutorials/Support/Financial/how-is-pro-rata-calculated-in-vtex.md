@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:55:34.804Z
 contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: how-is-pro-rata-calculated-in-vtex
+slugEN: how-is-pro-rata-calculated-in-vtex
 locale: en
 legacySlug: how-is-pro-rata-calculated-in-vtex
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm

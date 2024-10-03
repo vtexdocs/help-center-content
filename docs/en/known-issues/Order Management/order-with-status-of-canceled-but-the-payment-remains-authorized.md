@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: order-with-status-of-canceled-but-the-payment-remains-authorized
+slugEN: order-with-status-of-canceled-but-the-payment-remains-authorized
 locale: en
 kiStatus: Fixed
 internalReference: 420019

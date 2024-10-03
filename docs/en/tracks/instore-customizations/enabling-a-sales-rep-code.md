@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2021-02-26T12:14:28.917Z
 contentType: trackArticle
 productTeam: Shopping
-slug: enabling-a-sales-rep-code
+slugEN: enabling-a-sales-rep-code
 locale: en
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugEN: instore-customizations
@@ -56,7 +56,7 @@ The properties of the `window.INSTORE_CONFIG` object must be filled in according
 
 Click on the __Save__ blue button at the top of the page. 
 
-![codevendor2EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/4T3vxA5Yatu9icLNPGuyCX/f456976ff81339225eef6bd0c458e6db/codevendor2EN.png)
+![codevendor2EN.png?h=250](//images.ctfassets.net/alneenqid6w5/4T3vxA5Yatu9icLNPGuyCX/f456976ff81339225eef6bd0c458e6db/codevendor2EN.png)
 
 ## Understanding the priorities
 

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:14.297Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: creating-an-xml-with-promotional-price-using-a-price-table
+slugEN: creating-an-xml-with-promotional-price-using-a-price-table
 locale: en
 legacySlug: creating-an-xml-with-promotional-price-using-a-price-table
 subcategoryId: 4id9W3RDyw02CasOm2C2iy
@@ -33,4 +33,4 @@ After finishing the XML registration and saving the changes, you can check the i
 
 Example of updated XML:
 
-![XML-exemplo](https://images.ctfassets.net/alneenqid6w5/6VFUKpMkQdW1mdUTn4XE77/a4d00c7382bb91d26a813eda5946a62d/XML-exemplo.png)
+![XML-exemplo](//images.ctfassets.net/alneenqid6w5/6VFUKpMkQdW1mdUTn4XE77/a4d00c7382bb91d26a813eda5946a62d/XML-exemplo.png)

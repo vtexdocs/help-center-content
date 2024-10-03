@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-05T22:01:49.141Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-pagosweb
+slugEN: setting-up-payments-with-pagosweb
 locale: en
 legacySlug: setting-up-payments-with-pagosweb
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

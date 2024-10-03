@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-25T21:21:03.197Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: removing-error-message-request-headers-must-only-contain-ascii
+slugEN: removing-error-message-request-headers-must-only-contain-ascii
 locale: en
 legacySlug: removing-error-message-request-headers-must-only-contain-ascii
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
@@ -41,19 +41,19 @@ On the page where the message "__Request headers must contain only ASCII charact
 
   <blockquote><ui>2. In the top bar of the screen, go to the <b>Network</b> tab and sort the requests by clicking <b>Status</b>. The <b>400</b> information in the status indicates that a request has not been processed correctly, and there may be incorrect cookies among the possible errors.</ui>  
 
-![ascii 2](https://images.ctfassets.net/alneenqid6w5/KAwQG2JiXozFU5Pjgjv3Z/eb74d2c115b78d65dd60b70da67bfd5b/ascii_2.png)
+![ascii 2](//images.ctfassets.net/alneenqid6w5/KAwQG2JiXozFU5Pjgjv3Z/eb74d2c115b78d65dd60b70da67bfd5b/ascii_2.png)
 
 <blockquote><ui>3. Click a request and then the <b>Preview</b> tab to identify whether the error found refers to the message "<b>Request headers must contain only ASCII characters</b>".</ui>
 
-![ascii 3](https://images.ctfassets.net/alneenqid6w5/16XPfE6SIwVO8SkTxl9yuR/2151b1260e9f10a1327b5b6f4441ef23/ascii_3.png)
+![ascii 3](//images.ctfassets.net/alneenqid6w5/16XPfE6SIwVO8SkTxl9yuR/2151b1260e9f10a1327b5b6f4441ef23/ascii_3.png)
 
 <blockquote><ui>4. Click the <b>Headers</b> tab and copy the cookie details.</ui>
 
-![ascii 4](https://images.ctfassets.net/alneenqid6w5/1CwUNkSO895RfPCTTaO29l/305a23cbb5b90bfde1ca139c83978a92/ascii_4.png) 
+![ascii 4](//images.ctfassets.net/alneenqid6w5/1CwUNkSO895RfPCTTaO29l/305a23cbb5b90bfde1ca139c83978a92/ascii_4.png) 
 
 <blockquote><ui>5. Go to <a href="https://pages.cs.wisc.edu/~markm/ascii.html">online ASCII character validator</a> and enter the cookie information. If one or more special characters are identified, the types and positions will be displayed at the bottom of the character validator.</ui>     
 
-![ascii 5](https://images.ctfassets.net/alneenqid6w5/2xwztAmvtrxpJQeusgwlpH/917872a195c9cce233a183a4f44b4677/ascii_5.png)  
+![ascii 5](//images.ctfassets.net/alneenqid6w5/2xwztAmvtrxpJQeusgwlpH/917872a195c9cce233a183a4f44b4677/ascii_5.png)  
 
 <blockquote><ui>6. Repeat steps 3 to 5 with all the requests that have errors to identify which of them contain cookies with special characters.</ui>      
 

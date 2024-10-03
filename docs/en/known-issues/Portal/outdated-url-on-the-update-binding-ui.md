@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: outdated-url-on-the-update-binding-ui
+slugEN: outdated-url-on-the-update-binding-ui
 locale: en
 kiStatus: Backlog
 internalReference: 890791

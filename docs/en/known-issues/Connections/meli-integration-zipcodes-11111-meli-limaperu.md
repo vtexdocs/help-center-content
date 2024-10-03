@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-integration-zipcodes-11111-meli-limaperu
+slugEN: meli-integration-zipcodes-11111-meli-limaperu
 locale: en
 kiStatus: Fixed
 internalReference: 826566

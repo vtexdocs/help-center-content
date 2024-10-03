@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: order-stuck-in-payment-pending-status-due-to-missing-payment-approved-notification
+slugEN: order-stuck-in-payment-pending-status-due-to-missing-payment-approved-notification
 locale: en
 kiStatus: Backlog
 internalReference: 1031035

@@ -9,7 +9,7 @@ firstPublishedAt: 2020-09-21T22:32:34.864Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
-slug: setting-up-future-inventory
+slugEN: setting-up-future-inventory
 locale: en
 legacySlug: setting-up-future-inventory
 subcategoryId: 32vrn4K2ZscjUaIBe6w5fm

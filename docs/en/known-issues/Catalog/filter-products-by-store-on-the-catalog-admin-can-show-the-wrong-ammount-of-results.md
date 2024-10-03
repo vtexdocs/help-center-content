@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: filter-products-by-store-on-the-catalog-admin-can-show-the-wrong-ammount-of-results
+slugEN: filter-products-by-store-on-the-catalog-admin-can-show-the-wrong-ammount-of-results
 locale: en
 kiStatus: Backlog
 internalReference: 756461

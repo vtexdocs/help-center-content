@@ -9,7 +9,7 @@ firstPublishedAt: 2021-03-30T18:51:13.424Z
 contentType: tutorial
 productTeam: B2B
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: store-access-permission
+slugEN: store-access-permission
 locale: en
 legacySlug: store-access-permission
 subcategoryId: 3dBbxrpmrGP2D7AgQeviAR

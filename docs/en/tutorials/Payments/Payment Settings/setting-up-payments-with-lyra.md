@@ -9,7 +9,7 @@ firstPublishedAt: 2022-10-18T16:31:23.474Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-lyra
+slugEN: setting-up-payments-with-lyra
 locale: en
 legacySlug: setting-up-payments-with-lyra
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

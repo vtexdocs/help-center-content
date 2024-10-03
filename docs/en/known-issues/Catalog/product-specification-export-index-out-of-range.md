@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: product-specification-export-index-out-of-range
+slugEN: product-specification-export-index-out-of-range
 locale: en
 kiStatus: Backlog
 internalReference: 481095

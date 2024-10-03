@@ -8,7 +8,7 @@ publishedAt: 2024-06-25T21:02:43.540Z
 firstPublishedAt: 2023-06-28T14:13:24.803Z
 contentType: trackArticle
 productTeam: Shopping
-slug: apple-pay
+slugEN: apple-pay
 locale: es
 trackId: 6X8YyZBoVJpz5R8oXciTyu
 trackSlugES: cartera-digital-e-wallet

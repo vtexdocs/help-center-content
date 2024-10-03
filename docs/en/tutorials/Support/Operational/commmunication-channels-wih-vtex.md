@@ -9,7 +9,7 @@ firstPublishedAt: 2017-11-27T16:35:56.104Z
 contentType: tutorial
 productTeam: Others
 author: authors_24
-slug: commmunication-channels-wih-vtex
+slugEN: commmunication-channels-wih-vtex
 locale: en
 legacySlug: commmunication-channels-wih-vtex
 subcategoryId: 1VvCpaa8NCA6a0MK6W6oWg

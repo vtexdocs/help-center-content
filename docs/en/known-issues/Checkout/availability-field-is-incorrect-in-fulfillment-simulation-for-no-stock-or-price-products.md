@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: availability-field-is-incorrect-in-fulfillment-simulation-for-no-stock-or-price-products
+slugEN: availability-field-is-incorrect-in-fulfillment-simulation-for-no-stock-or-price-products
 locale: en
 kiStatus: Backlog
 internalReference: 773537

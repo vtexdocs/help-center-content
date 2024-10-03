@@ -9,7 +9,7 @@ firstPublishedAt: 2021-03-30T18:15:39.897Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: editing-price-tables
+slugEN: editing-price-tables
 locale: en
 legacySlug: update-price-table
 subcategoryId: 4id9W3RDyw02CasOm2C2iy

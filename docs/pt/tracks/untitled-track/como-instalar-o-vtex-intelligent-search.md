@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: como-instalar-o-vtex-intelligent-search
+slugEN: como-instalar-o-vtex-intelligent-search
 locale: pt
 trackId: 
 trackSlugPT: untitled-track

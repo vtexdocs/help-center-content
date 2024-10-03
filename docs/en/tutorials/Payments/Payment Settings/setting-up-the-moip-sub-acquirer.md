@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-28T16:53:22.407Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-the-moip-sub-acquirer
+slugEN: setting-up-the-moip-sub-acquirer
 locale: en
 legacySlug: setting-up-the-moip-sub-acquirer
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

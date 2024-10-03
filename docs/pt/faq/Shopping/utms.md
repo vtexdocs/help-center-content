@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-29T19:54:21.386Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: utms
+slugEN: utms
 locale: pt
 legacySlug: utms
 ---
@@ -30,6 +30,6 @@ Abaixo um exemplo de como o link deve ficar e como aparecerá no **RD Station**
 
 **[https://whts.co/marcelows](\"https://whts.co/marcelows\")**utm\_source=**facebook**&utm\_medium=cpc&utm\_campaign=nomecampanhaexemplo&utm\_term=palavrachaveYou
 
-![UTMs2](https://images.ctfassets.net/alneenqid6w5/49FZ9GtBTiNiXhNYMla6Hd/b14036e3cbe534ea449dd9b9e7011752/UTMs2.png)
+![UTMs2](//images.ctfassets.net/alneenqid6w5/49FZ9GtBTiNiXhNYMla6Hd/b14036e3cbe534ea449dd9b9e7011752/UTMs2.png)
 
 Após estar com o link configurado, as origens de leads convertidos nesse link respeitarão as configurações inseridas por você.

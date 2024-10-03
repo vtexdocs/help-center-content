@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:33.099Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_3
-slug: why-doesnt-the-payment-method-appear-on-the-order-on-vtex
+slugEN: why-doesnt-the-payment-method-appear-on-the-order-on-vtex
 locale: en
 legacySlug: why-doesnt-the-payment-method-appear-on-the-order-on-vtex
 ---

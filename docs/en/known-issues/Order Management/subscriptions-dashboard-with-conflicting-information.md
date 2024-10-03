@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: subscriptions-dashboard-with-conflicting-information
+slugEN: subscriptions-dashboard-with-conflicting-information
 locale: en
 kiStatus: No Fix
 internalReference: 587579

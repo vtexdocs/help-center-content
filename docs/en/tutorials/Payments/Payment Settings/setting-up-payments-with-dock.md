@@ -9,7 +9,7 @@ firstPublishedAt: 2022-07-19T20:12:07.212Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-dock
+slugEN: setting-up-payments-with-dock
 locale: en
 legacySlug: setting-up-payments-with-dock
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

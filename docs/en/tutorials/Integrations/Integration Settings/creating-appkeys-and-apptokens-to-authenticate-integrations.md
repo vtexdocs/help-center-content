@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-24T14:19:50.327Z
 contentType: tutorial
 productTeam: Channels
 author: authors_24
-slug: creating-appkeys-and-apptokens-to-authenticate-integrations
+slugEN: creating-appkeys-and-apptokens-to-authenticate-integrations
 locale: en
 legacySlug: creating-appkeys-and-apptokens-to-authenticate-integrations
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

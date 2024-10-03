@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-11T01:23:11.478Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: amazon-missing-required-attributes-errors
+slugEN: amazon-missing-required-attributes-errors
 locale: en
 legacySlug: amazon-missing-required-attributes-errors
 subcategoryId: 4HBbKdnwneGew2qGGykSM8

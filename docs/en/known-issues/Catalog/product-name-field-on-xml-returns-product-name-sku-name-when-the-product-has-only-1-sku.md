@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: product-name-field-on-xml-returns-product-name-sku-name-when-the-product-has-only-1-sku
+slugEN: product-name-field-on-xml-returns-product-name-sku-name-when-the-product-has-only-1-sku
 locale: en
 kiStatus: No Fix
 internalReference: 661089

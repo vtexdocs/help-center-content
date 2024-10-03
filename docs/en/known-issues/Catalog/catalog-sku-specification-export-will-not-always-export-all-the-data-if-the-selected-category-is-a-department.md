@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-sku-specification-export-will-not-always-export-all-the-data-if-the-selected-category-is-a-department
+slugEN: catalog-sku-specification-export-will-not-always-export-all-the-data-if-the-selected-category-is-a-department
 locale: en
 kiStatus: Backlog
 internalReference: 465445

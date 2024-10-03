@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: ui-does-not-reflect-invoice-address-selection-markup
+slugEN: ui-does-not-reflect-invoice-address-selection-markup
 locale: en
 kiStatus: Backlog
 internalReference: 522946

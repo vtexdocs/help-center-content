@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: sellers-order-invoiced-with-problem-in-the-payment-capture
+slugEN: sellers-order-invoiced-with-problem-in-the-payment-capture
 locale: en
 kiStatus: Backlog
 internalReference: 376646

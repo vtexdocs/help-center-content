@@ -9,7 +9,7 @@ firstPublishedAt: 2022-01-21T16:38:10.049Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-braspagv2
+slugEN: setting-up-payments-with-braspagv2
 locale: en
 legacySlug: setting-up-payments-with-braspagv2
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

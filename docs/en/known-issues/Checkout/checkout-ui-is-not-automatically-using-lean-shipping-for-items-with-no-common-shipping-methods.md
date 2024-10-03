@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-ui-is-not-automatically-using-lean-shipping-for-items-with-no-common-shipping-methods
+slugEN: checkout-ui-is-not-automatically-using-lean-shipping-for-items-with-no-common-shipping-methods
 locale: en
 kiStatus: Backlog
 internalReference: 329846

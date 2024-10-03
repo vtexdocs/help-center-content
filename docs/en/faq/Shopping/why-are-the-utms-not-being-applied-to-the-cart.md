@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-20T20:06:11.308Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_24
-slug: why-are-the-utms-not-being-applied-to-the-cart
+slugEN: why-are-the-utms-not-being-applied-to-the-cart
 locale: en
 legacySlug: why-are-the-utms-not-being-applied-to-the-cart
 ---

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-05-19T12:20:03.919Z
 contentType: trackArticle
 productTeam: Shopping
-slug: instore-faq
+slugEN: instore-faq
 locale: pt
 trackId: 6N0QlieWqboSVU2ehgAVAb
 trackSlugPT: instore-setup

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-03-15T21:33:22.835Z
 contentType: trackArticle
 productTeam: Shopping
-slug: setting-up-vendors-access-permission-to-instore
+slugEN: setting-up-vendors-access-permission-to-instore
 locale: en
 trackId: 
 trackSlugEN: untitled-track

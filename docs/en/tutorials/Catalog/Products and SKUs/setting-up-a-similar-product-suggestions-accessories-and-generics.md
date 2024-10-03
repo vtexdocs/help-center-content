@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:13.377Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: setting-up-a-similar-product-suggestions-accessories-and-generics
+slugEN: setting-up-a-similar-product-suggestions-accessories-and-generics
 locale: en
 legacySlug: setting-up-a-similar-product-suggestions-accessories-and-generics
 subcategoryId: pwxWmUu7T222QyuGogs68

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: stockkeepingunit-catalog-api-allows-invalid-commercial-condition-values
+slugEN: stockkeepingunit-catalog-api-allows-invalid-commercial-condition-values
 locale: en
 kiStatus: No Fix
 internalReference: 769053

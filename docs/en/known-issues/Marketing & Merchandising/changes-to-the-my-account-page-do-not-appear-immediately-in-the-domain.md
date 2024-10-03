@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
-slug: changes-to-the-my-account-page-do-not-appear-immediately-in-the-domain
+slugEN: changes-to-the-my-account-page-do-not-appear-immediately-in-the-domain
 locale: en
 kiStatus: Closed
 internalReference: 

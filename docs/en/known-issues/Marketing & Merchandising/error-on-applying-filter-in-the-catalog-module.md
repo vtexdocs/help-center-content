@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_31
 tag: Catalog
-slug: error-on-applying-filter-in-the-catalog-module
+slugEN: error-on-applying-filter-in-the-catalog-module
 locale: en
 kiStatus: Fixed
 internalReference: 

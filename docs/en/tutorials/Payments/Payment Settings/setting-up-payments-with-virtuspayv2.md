@@ -1,15 +1,15 @@
 ---
 title: 'Setting up payments with VirtusPayV2'
 id: 1tbcLRNIB5Bz0oWl8LnayB
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-03-27T12:14:53.392Z
-updatedAt: 2024-01-23T21:52:05.259Z
-publishedAt: 2024-01-23T21:52:05.259Z
+updatedAt: 2024-10-03T16:12:55.368Z
+publishedAt: 
 firstPublishedAt: 2023-03-27T12:56:49.578Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-virtuspayv2
+slugEN: setting-up-payments-with-virtuspayv2
 locale: en
 legacySlug: setting-up-payments-with-virtuspayv2
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

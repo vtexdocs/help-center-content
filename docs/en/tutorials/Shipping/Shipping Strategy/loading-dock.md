@@ -9,7 +9,7 @@ firstPublishedAt: 2021-09-23T21:20:17.177Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: loading-dock
+slugEN: loading-dock
 locale: en
 legacySlug: loading-dock
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

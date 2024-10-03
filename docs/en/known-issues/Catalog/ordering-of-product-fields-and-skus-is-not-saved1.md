@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: ordering-of-product-fields-and-skus-is-not-saved1
+slugEN: ordering-of-product-fields-and-skus-is-not-saved1
 locale: en
 kiStatus: Backlog
 internalReference: 

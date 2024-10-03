@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-08T20:58:53.097Z
 contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: vtex-tracking-holidays
+slugEN: vtex-tracking-holidays
 locale: en
 legacySlug: vtex-tracking-holidays
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP

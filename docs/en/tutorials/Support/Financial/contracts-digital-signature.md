@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-03T22:29:52.382Z
 contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: contracts-digital-signature
+slugEN: contracts-digital-signature
 locale: en
 legacySlug: contracts-digital-signature
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm

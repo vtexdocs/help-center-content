@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: incorrect-refund-for-purchases-with-3-payment-methods-one-of-them-being-gc
+slugEN: incorrect-refund-for-purchases-with-3-payment-methods-one-of-them-being-gc
 locale: en
 kiStatus: Backlog
 internalReference: 464837

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-06-28T18:35:12.789Z
 contentType: trackArticle
 productTeam: Shopping
-slug: changing-the-instore-language
+slugEN: changing-the-instore-language
 locale: en
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugEN: changing-the-instore-language

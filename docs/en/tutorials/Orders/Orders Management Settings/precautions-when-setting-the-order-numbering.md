@@ -9,7 +9,7 @@ firstPublishedAt: 2019-10-29T17:23:28.798Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 1E4UkWguFZAXjkguvNHPIv
-slug: precautions-when-setting-the-order-numbering
+slugEN: precautions-when-setting-the-order-numbering
 locale: en
 legacySlug: precautions-when-setting-the-order-numbering
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k

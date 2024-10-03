@@ -9,7 +9,7 @@ firstPublishedAt: 2017-09-27T22:59:25.573Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_4
-slug: configuring-an-xml-domain
+slugEN: configuring-an-xml-domain
 locale: en
 legacySlug: configuring-an-xml-domain
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

@@ -8,7 +8,7 @@ publishedAt: 2020-07-02T03:52:50.580Z
 firstPublishedAt: 2020-06-30T01:10:20.660Z
 contentType: trackArticle
 productTeam: Apps
-slug: update-and-import-product-feed
+slugEN: update-and-import-product-feed
 locale: en
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugEN: lengow-integration

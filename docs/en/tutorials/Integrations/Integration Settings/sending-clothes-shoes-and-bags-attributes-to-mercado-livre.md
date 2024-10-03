@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-26T19:26:36.713Z
 contentType: tutorial
 productTeam: Channels
 author: authors_59
-slug: sending-clothes-shoes-and-bags-attributes-to-mercado-livre
+slugEN: sending-clothes-shoes-and-bags-attributes-to-mercado-livre
 locale: en
 legacySlug: sending-clothes-shoes-and-bags-attributes-to-mercado-livre
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
@@ -28,9 +28,9 @@ To send the attributes of the products of type __Clothes__, __Shoes__ and __Bags
 __Links with the values accepted by Mercado Livre__:
 
 - [Brazil](https://assets.contentful.com/alneenqid6w5/6BHWQLL9bGuMq2ycMye0uc/76e64b67cb7352d95d6bb977b33394d4/Brasil-2.zip)
-- [Argentina](https://assets.contentful.com/alneenqid6w5/3c61gJrH7GWOywMCGMECg4/dc7a2ce73a99d41345dde2092eb1fec6/Argentina.rar)
-- [Colombia](https://assets.contentful.com/alneenqid6w5/5RePTJoKrYi4qA66WCCYKw/33910300057806b554d566210aa2310a/Colombia.rar)
-- [Mexico](https://assets.contentful.com/alneenqid6w5/3Z3xgpPyvuYEAIO2me4GSG/e4f4198463d8a3ba05124a30031302fa/Mexico.rar)
+- [Argentina](//assets.contentful.com/alneenqid6w5/3c61gJrH7GWOywMCGMECg4/dc7a2ce73a99d41345dde2092eb1fec6/Argentina.rar)
+- [Colombia](//assets.contentful.com/alneenqid6w5/5RePTJoKrYi4qA66WCCYKw/33910300057806b554d566210aa2310a/Colombia.rar)
+- [Mexico](//assets.contentful.com/alneenqid6w5/3Z3xgpPyvuYEAIO2me4GSG/e4f4198463d8a3ba05124a30031302fa/Mexico.rar)
 
 When your spreadsheet is filled with the correct values, just do the __upload on VTEX Bridge__. To do this, follow these steps:
 
@@ -45,7 +45,7 @@ __That's it!__ Now the attributes of your products of types __Clothes__, __Shoes
 
 In Brazil, for example, a *yellow* footwear with *blue* details of *size 39* must be sent to Mercado Livre with the corresponding __SKU ID__ and the codes __33000_Amarelo_52007__, __43000_Azul_52092__ and __23000_39_22039__, relating to *main color*, *secondary color* and *size*. See more examples in the image below:
 
-![Planilha modelo ML](https://images.contentful.com/alneenqid6w5/1Z4UPfR5beG6SoMucASAm0/132e8316128421a2c98da7ee8fdb81b4/Planilha-modelo-ML.png)
+![Planilha modelo ML](//images.contentful.com/alneenqid6w5/1Z4UPfR5beG6SoMucASAm0/132e8316128421a2c98da7ee8fdb81b4/Planilha-modelo-ML.png)
 
 ## Go further
 

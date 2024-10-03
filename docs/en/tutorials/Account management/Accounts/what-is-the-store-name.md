@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-06T21:34:19.758Z
 contentType: tutorial
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-the-store-name
+slugEN: what-is-the-store-name
 locale: en
 legacySlug: what-is-the-store-name
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma

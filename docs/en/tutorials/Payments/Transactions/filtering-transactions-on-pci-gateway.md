@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:38:42.695Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slug: filtering-transactions-on-pci-gateway
+slugEN: filtering-transactions-on-pci-gateway
 locale: en
 legacySlug: filtering-transactions-on-pci-gateway
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu

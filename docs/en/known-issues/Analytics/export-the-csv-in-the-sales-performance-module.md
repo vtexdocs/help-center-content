@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
-slug: export-the-csv-in-the-sales-performance-module
+slugEN: export-the-csv-in-the-sales-performance-module
 locale: en
 kiStatus: Backlog
 internalReference: 823878

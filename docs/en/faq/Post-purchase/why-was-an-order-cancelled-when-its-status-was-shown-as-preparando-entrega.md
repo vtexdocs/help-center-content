@@ -9,7 +9,7 @@ firstPublishedAt: 2017-05-18T19:20:59.326Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_59
-slug: why-was-an-order-cancelled-when-its-status-was-shown-as-preparando-entrega
+slugEN: why-was-an-order-cancelled-when-its-status-was-shown-as-preparando-entrega
 locale: en
 legacySlug: why-was-an-order-cancelled-when-its-status-was-shown-as-preparando-entrega
 ---

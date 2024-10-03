@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:12:54.753Z
 contentType: updates
 productTeam: Identity
 author: authors_24
-slug: vtex-login-now-needs-2-factor-authentication
+slugEN: 2017-11-09-vtex-login-now-needs-2-factor-authentication
 locale: en
 legacySlug: vtex-login-now-needs-2-factor-authentication
 announcementImageID: ''

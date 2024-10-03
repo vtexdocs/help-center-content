@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:13:57.539Z
 contentType: tutorial
 productTeam: Reliability
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: vtex-operation-service-level-agreement-sla
+slugEN: vtex-operation-service-level-agreement-sla
 locale: en
 legacySlug: what-the-platform-s-operation-sla-is
 subcategoryId: 5PYkoNDZyo2G80yiiqG2YW

@@ -9,7 +9,7 @@ firstPublishedAt: 2020-12-22T12:00:47.453Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: setting-up-3ds-2-authentication-flow
+slugEN: setting-up-3ds-2-authentication-flow
 locale: en
 legacySlug: setting-up-3ds-2-authentication-flow
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

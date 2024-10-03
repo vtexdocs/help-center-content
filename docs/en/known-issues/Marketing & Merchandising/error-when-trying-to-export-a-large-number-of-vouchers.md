@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: error-when-trying-to-export-a-large-number-of-vouchers
+slugEN: error-when-trying-to-export-a-large-number-of-vouchers
 locale: en
 kiStatus: Backlog
 internalReference: 

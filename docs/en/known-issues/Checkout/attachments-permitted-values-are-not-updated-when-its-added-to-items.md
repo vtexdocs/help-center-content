@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: attachments-permitted-values-are-not-updated-when-its-added-to-items
+slugEN: attachments-permitted-values-are-not-updated-when-its-added-to-items
 locale: en
 kiStatus: Backlog
 internalReference: 920970

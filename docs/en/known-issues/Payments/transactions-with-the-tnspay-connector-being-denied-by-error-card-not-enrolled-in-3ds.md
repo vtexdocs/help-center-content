@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds
+slugEN: transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds
 locale: en
 kiStatus: No Fix
 internalReference: 541687

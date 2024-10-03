@@ -1,15 +1,15 @@
 ---
 title: 'Configurar Tarjeta de regalo'
 id: tutorials_995
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T21:57:54.816Z
-updatedAt: 2024-01-19T19:16:50.349Z
-publishedAt: 2024-01-12T12:46:20.978Z
+updatedAt: 2024-09-25T20:41:36.406Z
+publishedAt: 2024-09-25T20:41:36.406Z
 firstPublishedAt: 2017-04-27T23:03:42.674Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: gift-card
+slugEN: gift-card
 locale: es
 legacySlug: gift-card
 subcategoryId: 3qWeS7abxCyC0G0GMq42gA
@@ -101,12 +101,13 @@ Después de crear el vale de compra, debe configurarse como método de pago. De 
 Siga los pasos a continuación para configurar el vale de compra:
 
 1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
-2. En la pestana __Condiciones de pago__, haga clic en el botón `+`.
+2. En la pestana __Condiciones de proveedor__, haga clic en el botón `+`.
 3. Haga clic en conector __Vale__.
 4. Al inicio de la página, cree un __nombre__ para esta condición de pago.
 5. Active la condición en el campo __Status__.
 6. En __Procesar con afiliación__, seleccione el proveedor de giftcard deseado.
-7. Haga clic en `Salvar`.
+7. Si desea utilizar un sistema antifraude, seleccione la opción __Utilizar antifraude__.
+8. Haga clic en `Salvar`.
 
 También puede agregar condiciones especiales de pago a su Vale de Compra. No hay límites en las condiciones que pueden aplicarse a un método de pago, especificamos cómo configurar cada una de estas [aquí](https://help.vtex.com/es/tutorial/condicoes-especiais--tutorials_456?locale=es "aquí"). 
 

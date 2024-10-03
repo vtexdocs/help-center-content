@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-07T21:23:16.559Z
 contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: veiculos-vtex-tracking
+slugEN: veiculos-vtex-tracking
 locale: en
 legacySlug: veiculos-vtex-tracking
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP

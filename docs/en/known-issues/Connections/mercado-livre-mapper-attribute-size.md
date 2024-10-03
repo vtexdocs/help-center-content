@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: mercado-livre-mapper-attribute-size
+slugEN: mercado-livre-mapper-attribute-size
 locale: en
 kiStatus: No Fix
 internalReference: 592577

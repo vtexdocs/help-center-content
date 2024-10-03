@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-03T19:46:44.286Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_64
-slug: sending-http-requests-with-triggers
+slugEN: sending-http-requests-with-triggers
 locale: en
 legacySlug: sending-http-requests-with-triggers
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

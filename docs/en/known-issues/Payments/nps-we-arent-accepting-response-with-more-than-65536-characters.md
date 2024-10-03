@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: nps-we-arent-accepting-response-with-more-than-65536-characters
+slugEN: nps-we-arent-accepting-response-with-more-than-65536-characters
 locale: en
 kiStatus: Backlog
 internalReference: 317389

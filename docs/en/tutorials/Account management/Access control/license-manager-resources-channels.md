@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-16T15:46:00.168Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: license-manager-resources-channels
+slugEN: license-manager-resources-channels
 locale: en
 legacySlug: 
 subcategoryId: 1HSqkejwuYcQSMC400uY84

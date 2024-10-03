@@ -1,14 +1,14 @@
 ---
 title: 'Creating merchandising rules - Visual Editor'
 id: 2ejly01m1w28RsZlCKowEr
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2024-01-29T17:01:20.082Z
-updatedAt: 2024-02-01T13:22:55.562Z
-publishedAt: 2024-02-01T13:22:55.562Z
+updatedAt: 2024-09-06T20:10:01.897Z
+publishedAt: 
 firstPublishedAt: 2024-01-29T17:04:11.061Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: creating-merchandising-rules-visual-editor
+slugEN: creating-merchandising-rules-visual-editor
 locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search

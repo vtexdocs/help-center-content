@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: first-address-in-the-address-list-incomplete-does-not-fill-the-profileshipping-data-at-checkout
+slugEN: first-address-in-the-address-list-incomplete-does-not-fill-the-profileshipping-data-at-checkout
 locale: en
 kiStatus: Backlog
 internalReference: 366975

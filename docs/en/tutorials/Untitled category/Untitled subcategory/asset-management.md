@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: asset-management
+slugEN: asset-management
 locale: en
 legacySlug: asset-management
 subcategoryId: unknown-subcategory

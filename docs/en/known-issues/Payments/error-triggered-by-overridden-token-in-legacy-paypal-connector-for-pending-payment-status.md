@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: error-triggered-by-overridden-token-in-legacy-paypal-connector-for-pending-payment-status
+slugEN: error-triggered-by-overridden-token-in-legacy-paypal-connector-for-pending-payment-status
 locale: en
 kiStatus: No Fix
 internalReference: 308214

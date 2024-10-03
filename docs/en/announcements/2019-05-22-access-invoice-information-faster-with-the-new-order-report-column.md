@@ -8,7 +8,7 @@ publishedAt: 2020-09-04T21:14:07.344Z
 contentType: updates
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
-slug: access-invoice-information-faster-with-the-new-order-report-column
+slugEN: 2019-05-22-access-invoice-information-faster-with-the-new-order-report-column
 locale: en
 legacySlug: access-invoice-information-faster-with-the-new-order-report-column
 announcementImageID: ''

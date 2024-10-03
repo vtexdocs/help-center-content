@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: delivery-method-selector-disappears-in-specific-flow-when-there-is-only-scheduled-delivery
+slugEN: delivery-method-selector-disappears-in-specific-flow-when-there-is-only-scheduled-delivery
 locale: en
 kiStatus: Fixed
 internalReference: 296786

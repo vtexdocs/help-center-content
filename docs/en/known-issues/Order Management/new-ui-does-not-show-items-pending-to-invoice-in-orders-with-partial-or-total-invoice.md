@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: new-ui-does-not-show-items-pending-to-invoice-in-orders-with-partial-or-total-invoice
+slugEN: new-ui-does-not-show-items-pending-to-invoice-in-orders-with-partial-or-total-invoice
 locale: en
 kiStatus: Backlog
 internalReference: 646253

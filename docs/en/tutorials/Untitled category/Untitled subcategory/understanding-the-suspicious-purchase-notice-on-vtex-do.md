@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:20.650Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: understanding-the-suspicious-purchase-notice-on-vtex-do
+slugEN: understanding-the-suspicious-purchase-notice-on-vtex-do
 locale: en
 legacySlug: understanding-the-suspicious-purchase-notice-on-vtex-do
 subcategoryId: unknown-subcategory

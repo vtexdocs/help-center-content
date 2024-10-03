@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-12T15:12:01.050Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-onebuy
+slugEN: setting-up-payments-with-onebuy
 locale: en
 legacySlug: setting-up-payments-with-onebuy
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

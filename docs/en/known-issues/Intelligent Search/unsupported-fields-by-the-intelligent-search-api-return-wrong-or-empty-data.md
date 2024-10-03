@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: unsupported-fields-by-the-intelligent-search-api-return-wrong-or-empty-data
+slugEN: unsupported-fields-by-the-intelligent-search-api-return-wrong-or-empty-data
 locale: en
 kiStatus: Backlog
 internalReference: 1032531

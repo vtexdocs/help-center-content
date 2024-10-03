@@ -9,7 +9,7 @@ firstPublishedAt: 2017-05-09T14:02:28.368Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_35
-slug: why-is-the-thumb-image-of-poor-quality
+slugEN: why-is-the-thumb-image-of-poor-quality
 locale: en
 legacySlug: why-is-the-thumb-image-of-poor-quality
 ---

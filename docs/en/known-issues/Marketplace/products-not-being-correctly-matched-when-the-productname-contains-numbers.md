@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: products-not-being-correctly-matched-when-the-productname-contains-numbers
+slugEN: products-not-being-correctly-matched-when-the-productname-contains-numbers
 locale: en
 kiStatus: Fixed
 internalReference: 762525

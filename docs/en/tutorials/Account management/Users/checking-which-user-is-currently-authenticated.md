@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:29:51.891Z
 contentType: tutorial
 productTeam: Identity
 author: authors_4
-slug: checking-which-user-is-currently-authenticated
+slugEN: checking-which-user-is-currently-authenticated
 locale: en
 legacySlug: 
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M

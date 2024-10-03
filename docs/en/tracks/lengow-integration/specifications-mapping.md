@@ -8,7 +8,7 @@ publishedAt: 2020-07-02T03:46:25.783Z
 firstPublishedAt: 2020-06-30T01:10:16.779Z
 contentType: trackArticle
 productTeam: Apps
-slug: specifications-mapping
+slugEN: specifications-mapping
 locale: en
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugEN: lengow-integration

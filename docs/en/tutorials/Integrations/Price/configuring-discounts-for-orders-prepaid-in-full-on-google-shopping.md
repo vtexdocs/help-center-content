@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-04T20:06:46.945Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: configuring-discounts-for-orders-prepaid-in-full-on-google-shopping
+slugEN: configuring-discounts-for-orders-prepaid-in-full-on-google-shopping
 locale: en
 legacySlug: configuring-discounts-for-orders-prepaid-in-full-on-google-shopping
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS

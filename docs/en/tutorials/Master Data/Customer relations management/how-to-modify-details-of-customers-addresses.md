@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:10:21.264Z
 contentType: tutorial
 productTeam: Master Data
 author: TAUXpa4XWCsIaUOoksGIE
-slug: how-to-modify-details-of-customers-addresses
+slugEN: how-to-modify-details-of-customers-addresses
 locale: en
 legacySlug: how-to-modify-details-of-customers-addresses
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l

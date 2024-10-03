@@ -8,7 +8,7 @@ publishedAt: 2022-04-26T12:50:22.592Z
 firstPublishedAt: 2022-04-18T11:51:47.460Z
 contentType: trackArticle
 productTeam: Channels
-slug: installing-the-tiktok-for-business-app
+slugEN: installing-the-tiktok-for-business-app
 locale: en
 trackId: 1r0yJSO11nrer1YVu3WTFd
 trackSlugEN: tiktok-integration

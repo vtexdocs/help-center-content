@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-26T22:10:07.502Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: why-cant-i-search-old-orders
+slugEN: why-cant-i-search-old-orders
 locale: en
 legacySlug: why-cant-i-search-old-orders
 ---

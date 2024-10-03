@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: advanced-store-settings-being-registered-globally-insted-of-by-binding
+slugEN: advanced-store-settings-being-registered-globally-insted-of-by-binding
 locale: en
 kiStatus: Backlog
 internalReference: 783835

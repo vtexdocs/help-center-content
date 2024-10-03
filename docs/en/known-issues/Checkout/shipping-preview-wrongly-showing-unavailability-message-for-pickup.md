@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: shipping-preview-wrongly-showing-unavailability-message-for-pickup
+slugEN: shipping-preview-wrongly-showing-unavailability-message-for-pickup
 locale: en
 kiStatus: Backlog
 internalReference: 764457

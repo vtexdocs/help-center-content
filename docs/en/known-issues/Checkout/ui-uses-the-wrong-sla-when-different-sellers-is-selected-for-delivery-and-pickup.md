@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: ui-uses-the-wrong-sla-when-different-sellers-is-selected-for-delivery-and-pickup
+slugEN: ui-uses-the-wrong-sla-when-different-sellers-is-selected-for-delivery-and-pickup
 locale: en
 kiStatus: Backlog
 internalReference: 797023

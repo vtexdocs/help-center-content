@@ -9,7 +9,7 @@ firstPublishedAt: 2017-06-27T14:40:29.106Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_4
-slug: import-customer-data-brazil
+slugEN: import-customer-data-brazil
 locale: en
 legacySlug: import-customer-data-brazil
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: error-when-settling-transaction-with-2-cards-mercadopagov1
+slugEN: error-when-settling-transaction-with-2-cards-mercadopagov1
 locale: en
 kiStatus: No Fix
 internalReference: 395943

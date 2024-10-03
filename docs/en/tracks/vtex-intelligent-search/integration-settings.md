@@ -1,14 +1,14 @@
 ---
 title: 'Integrations'
 id: 6wKQgKmu2FT6084BJT7z5V
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-04-14T13:28:52.687Z
-updatedAt: 2024-01-24T19:12:30.626Z
-publishedAt: 2024-01-24T19:12:30.626Z
+updatedAt: 2024-09-06T20:09:01.397Z
+publishedAt: 
 firstPublishedAt: 2020-04-14T23:53:14.582Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: integration-settings
+slugEN: integration-settings
 locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search

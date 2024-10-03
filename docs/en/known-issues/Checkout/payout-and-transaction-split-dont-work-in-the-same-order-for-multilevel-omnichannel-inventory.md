@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: payout-and-transaction-split-dont-work-in-the-same-order-for-multilevel-omnichannel-inventory
+slugEN: payout-and-transaction-split-dont-work-in-the-same-order-for-multilevel-omnichannel-inventory
 locale: en
 kiStatus: No Fix
 internalReference: 777201

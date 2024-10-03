@@ -9,7 +9,7 @@ firstPublishedAt: 2021-10-13T20:57:01.457Z
 contentType: tutorial
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
-slug: what-is-a-franchise-account
+slugEN: what-is-a-franchise-account
 locale: en
 legacySlug: what-is-a-franchise-account
 subcategoryId: 3vhg10rO4MSmy06KeIYMIa
@@ -38,7 +38,7 @@ In addition, when using the franchise account you can manage prices and payment 
 
 A franchise account does not have its own website. Consumers browse directly on the main account website, which functions as a marketplace in this situation. Customer data is stored in the Master Data of the main account.
 
-![diagrama admin contas - en](https://images.ctfassets.net/alneenqid6w5/226ePm8TzkWPFnTvJj2Sej/34a3ac170c1d3f7db9f4f03d27fa2a03/diagrama_admin_contas_-_en.png)
+![diagrama admin contas - en](//images.ctfassets.net/alneenqid6w5/226ePm8TzkWPFnTvJj2Sej/34a3ac170c1d3f7db9f4f03d27fa2a03/diagrama_admin_contas_-_en.png)
 
 ## Relationship between franchise account and White Label Seller
 

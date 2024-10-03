@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-04T17:55:43.768Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
-slug: setting-up-sku-specifications
+slugEN: setting-up-sku-specifications
 locale: en
 legacySlug: setting-up-sku-specifications
 subcategoryId: pwxWmUu7T222QyuGogs68

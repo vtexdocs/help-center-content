@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 tag: Master Data
-slug: masterdata-doesnt-load-after-successfully-authenticating
+slugEN: masterdata-doesnt-load-after-successfully-authenticating
 locale: en
 kiStatus: Fixed
 internalReference: 

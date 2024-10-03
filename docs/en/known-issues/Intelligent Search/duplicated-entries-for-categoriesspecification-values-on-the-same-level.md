@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: duplicated-entries-for-categoriesspecification-values-on-the-same-level
+slugEN: duplicated-entries-for-categoriesspecification-values-on-the-same-level
 locale: en
 kiStatus: No Fix
 internalReference: 562588

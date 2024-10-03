@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: individual-warehouse-inventory-exports-do-not-work-on-seller-portal-accounts
+slugEN: individual-warehouse-inventory-exports-do-not-work-on-seller-portal-accounts
 locale: en
 kiStatus: No Fix
 internalReference: 684464

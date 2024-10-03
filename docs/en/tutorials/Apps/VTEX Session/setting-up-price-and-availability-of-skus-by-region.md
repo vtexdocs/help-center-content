@@ -9,7 +9,7 @@ firstPublishedAt: 2018-09-10T22:03:44.263Z
 contentType: tutorial
 productTeam: Identity
 author: authors_59
-slug: setting-up-price-and-availability-of-skus-by-region
+slugEN: setting-up-price-and-availability-of-skus-by-region
 locale: en
 legacySlug:  setting-up-price-and-availability-of-skus-by-region
 subcategoryId: dajK0sARX2c0MISKKoGoc

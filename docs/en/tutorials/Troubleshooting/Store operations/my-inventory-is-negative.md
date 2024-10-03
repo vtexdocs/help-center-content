@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-10T17:21:47.755Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: my-inventory-is-negative
+slugEN: my-inventory-is-negative
 locale: en
 legacySlug: my-inventory-is-negative
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB

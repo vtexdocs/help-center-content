@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: searching-not-return-document-when-the-value-contains-a-plus-symbol
+slugEN: searching-not-return-document-when-the-value-contains-a-plus-symbol
 locale: en
 kiStatus: No Fix
 internalReference: 828170

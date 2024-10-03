@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
-slug: tags-title-and-description-are-ignored-in-static-template
+slugEN: tags-title-and-description-are-ignored-in-static-template
 locale: en
 kiStatus: Backlog
 internalReference: 

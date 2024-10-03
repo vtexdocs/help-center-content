@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: tax-hub-request-doesnt-sum-discounts-when-manual-price-is-applied
+slugEN: tax-hub-request-doesnt-sum-discounts-when-manual-price-is-applied
 locale: en
 kiStatus: No Fix
 internalReference: 932667

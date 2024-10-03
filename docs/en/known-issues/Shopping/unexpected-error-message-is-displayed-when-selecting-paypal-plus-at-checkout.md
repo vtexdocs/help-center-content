@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: unexpected-error-message-is-displayed-when-selecting-paypal-plus-at-checkout
+slugEN: unexpected-error-message-is-displayed-when-selecting-paypal-plus-at-checkout
 locale: en
 kiStatus: Backlog
 internalReference: 

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-06T21:44:16.041Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_59
-slug: setting-up-stores-and-vendors-registration-forms-for-instore
+slugEN: setting-up-stores-and-vendors-registration-forms-for-instore
 locale: en
 legacySlug: setting-up-stores-and-vendors-registration-forms-for-instore
 subcategoryId: unknown-subcategory

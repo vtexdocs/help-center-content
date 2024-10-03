@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: error-when-changing-delivery-type-when-seller-has-recursion
+slugEN: error-when-changing-delivery-type-when-seller-has-recursion
 locale: en
 kiStatus: No Fix
 internalReference: 597915

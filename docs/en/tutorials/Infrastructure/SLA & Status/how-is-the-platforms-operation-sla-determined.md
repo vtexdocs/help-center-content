@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:11:03.028Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: how-is-the-platforms-operation-sla-determined
+slugEN: how-is-the-platforms-operation-sla-determined
 locale: en
 legacySlug: how-is-the-platforms-operation-sla-determined
 subcategoryId: 5PYkoNDZyo2G80yiiqG2YW

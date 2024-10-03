@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-12T21:38:25.357Z
 contentType: tutorial
 productTeam: Financial
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: how-merge-payments-works
+slugEN: how-merge-payments-works
 locale: en
 legacySlug: how-merge-payments-works
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

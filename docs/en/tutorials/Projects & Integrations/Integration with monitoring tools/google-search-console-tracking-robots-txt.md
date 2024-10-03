@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:39.731Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: google-search-console-tracking-robots-txt
+slugEN: google-search-console-tracking-robots-txt
 locale: en
 legacySlug: google-search-console-tracking-robots-txt
 subcategoryId: 1luKrYptdi8WoMYckakUaM

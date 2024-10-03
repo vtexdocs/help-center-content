@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: google-customer-reviews-component-iframe-has-inconsistent-rendering
+slugEN: google-customer-reviews-component-iframe-has-inconsistent-rendering
 locale: en
 kiStatus: No Fix
 internalReference: 578443

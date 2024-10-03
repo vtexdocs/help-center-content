@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: gift-card-it-does-not-return-fields-caption-and-relationname-when-we-make-a-get-request
+slugEN: gift-card-it-does-not-return-fields-caption-and-relationname-when-we-make-a-get-request
 locale: en
 kiStatus: No Fix
 internalReference: 428725

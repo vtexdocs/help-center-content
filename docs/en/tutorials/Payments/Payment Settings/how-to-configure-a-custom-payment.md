@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:25.828Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: how-to-configure-a-custom-payment
+slugEN: how-to-configure-a-custom-payment
 locale: en
 legacySlug: how-to-configure-a-custom-payment
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

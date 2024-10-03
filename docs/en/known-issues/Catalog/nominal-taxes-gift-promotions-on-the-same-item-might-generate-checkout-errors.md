@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: nominal-taxes-gift-promotions-on-the-same-item-might-generate-checkout-errors
+slugEN: nominal-taxes-gift-promotions-on-the-same-item-might-generate-checkout-errors
 locale: en
 kiStatus: Backlog
 internalReference: 1089066

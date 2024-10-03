@@ -8,7 +8,7 @@ publishedAt: 2023-09-05T16:32:32.516Z
 contentType: updates
 productTeam: VTEX IO
 author: 4ubliktPJIsvyl1hq91RdK
-slug: new-permission-required-to-manage-redirects-in-store-framework-cms
+slugEN: 2023-08-31-new-permission-required-to-manage-redirects-in-store-framework-cms
 locale: en
 legacySlug: store-framework-cms-new-permission-required-to-manage-redirects
 announcementImageID: ''

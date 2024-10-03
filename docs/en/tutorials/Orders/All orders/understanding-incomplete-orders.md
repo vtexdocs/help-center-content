@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:13.801Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: understanding-incomplete-orders
+slugEN: understanding-incomplete-orders
 locale: en
 legacySlug: understanding-incomplete-orders
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

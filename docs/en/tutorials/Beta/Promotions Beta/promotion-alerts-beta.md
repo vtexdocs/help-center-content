@@ -9,7 +9,7 @@ firstPublishedAt: 2022-11-18T17:06:00.781Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: promotion-alerts-beta
+slugEN: promotion-alerts-beta
 locale: en
 legacySlug: promotion-alerts-beta
 subcategoryId: 6iTRZiMeCGXYiO2ckABFZi

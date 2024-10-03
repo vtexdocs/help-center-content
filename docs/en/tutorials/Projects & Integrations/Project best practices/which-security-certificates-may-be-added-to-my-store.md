@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:15:04.845Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: which-security-certificates-may-be-added-to-my-store
+slugEN: which-security-certificates-may-be-added-to-my-store
 locale: en
 legacySlug: which-security-certificates-may-be-added-to-my-store
 subcategoryId: wz3FvYTctwuCwG206QUAi

@@ -9,7 +9,7 @@ firstPublishedAt: 2020-06-16T21:22:44.494Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_24
-slug: how-to-set-up-the-indeva-scheduled-appointment
+slugEN: how-to-set-up-the-indeva-scheduled-appointment
 locale: en
 legacySlug: how-to-set-up-the-indeva-scheduled-appointment
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
@@ -46,7 +46,7 @@ By clicking on a store, your customer is automatically redirected to the form. T
 
 Finally, your customer must click on the Schedule appointment button. Now this visit will be in the appointment queue displayed in the seller’s app.
 
-![indeva2](https://images.ctfassets.net/alneenqid6w5/sD5kRl2jv7QxksElwMibF/5aa5ec8582c10891ee90bfcf556144aa/indeva2.png)
+![indeva2](//images.ctfassets.net/alneenqid6w5/sD5kRl2jv7QxksElwMibF/5aa5ec8582c10891ee90bfcf556144aa/indeva2.png)
 
 <div class=”alert alert-warning”>
 For now, you will have to confirm the appointment manually in the store. Your customer does not receive automatic messages.
@@ -56,13 +56,13 @@ For now, you will have to confirm the appointment manually in the store. Your cu
 
 Indeva Store’s app organizes the appointment queue for every physical store. Sellers and managers can use it to control the next appointments and view the history of already done visits. 
 
-![indeva3](https://images.ctfassets.net/alneenqid6w5/71ZOQFSA8uKJKMdjrfsaX1/ae2b7836ab6e76efe752cfd3cdca0dd4/indeva3.png)
+![indeva3](//images.ctfassets.net/alneenqid6w5/71ZOQFSA8uKJKMdjrfsaX1/ae2b7836ab6e76efe752cfd3cdca0dd4/indeva3.png)
 
 By selecting a specific appointment, the seller can see all appointment details: date and time of the visit, customer’s name, the message they sent, the number of people, and the customer’s phone number.
 
 If you want to contact your customer through this screen, you just have to click on the Open WhatsApp button. Then you will be redirected to a chat with that specific customer on the messaging app.
 
-![indeva4](https://images.ctfassets.net/alneenqid6w5/6xnGRcIBINTYj7n9HDnTJ4/97e54074b046a5295936d66bd17761fe/indeva4.png)
+![indeva4](//images.ctfassets.net/alneenqid6w5/6xnGRcIBINTYj7n9HDnTJ4/97e54074b046a5295936d66bd17761fe/indeva4.png)
 
 <div class=”alert alert-info”>
 You can install the app on multiple devices of the same store, but we recommend that your team use one app per store, not one per seller. 
@@ -112,7 +112,7 @@ The app for store’s sellers and managers is available for both Android and iOS
 
 After installing and opening the app, the seller must inform a 10-digit token to synchronize the device and log in.
 
-![indeva5](https://images.ctfassets.net/alneenqid6w5/8K9WlmZVH3omGfWus5jke/ce2eb6f9b3b9ba58ba119d285184aca5/indeva5.png)
+![indeva5](//images.ctfassets.net/alneenqid6w5/8K9WlmZVH3omGfWus5jke/ce2eb6f9b3b9ba58ba119d285184aca5/indeva5.png)
 
 To receive the token, please contact the Indeva support team via:
 - __Phone__: +55(21)3609-2830

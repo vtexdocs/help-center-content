@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: magalu-sku-being-integrated-with-specifications-from-another-marketplace
+slugEN: magalu-sku-being-integrated-with-specifications-from-another-marketplace
 locale: en
 kiStatus: Fixed
 internalReference: 689151

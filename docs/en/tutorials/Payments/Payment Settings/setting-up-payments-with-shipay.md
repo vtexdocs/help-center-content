@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-27T14:44:22.502Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-shipay
+slugEN: setting-up-payments-with-shipay
 locale: en
 legacySlug: setting-up-payments-with-shipay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

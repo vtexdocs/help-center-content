@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: deactivated-payment-system-rendering-at-checkout
+slugEN: deactivated-payment-system-rendering-at-checkout
 locale: en
 kiStatus: Backlog
 internalReference: 1049543

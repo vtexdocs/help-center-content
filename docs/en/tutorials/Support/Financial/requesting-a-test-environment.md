@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:55:13.463Z
 contentType: tutorial
 productTeam: Others
 author: authors_24
-slug: requesting-a-test-environment
+slugEN: requesting-a-test-environment
 locale: en
 legacySlug: hiring-a-test-environment
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm

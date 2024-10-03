@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: delivery-schedule-date-getting-empty-when-item-is-a-gift-added
+slugEN: delivery-schedule-date-getting-empty-when-item-is-a-gift-added
 locale: en
 kiStatus: Backlog
 internalReference: 586143

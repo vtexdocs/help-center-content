@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: final-domain-different-from-myvtex-due-to-old-component-version-on-site-editor
+slugEN: final-domain-different-from-myvtex-due-to-old-component-version-on-site-editor
 locale: en
 kiStatus: Backlog
 internalReference: 948071

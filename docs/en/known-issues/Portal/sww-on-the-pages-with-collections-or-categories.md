@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: sww-on-the-pages-with-collections-or-categories
+slugEN: sww-on-the-pages-with-collections-or-categories
 locale: en
 kiStatus: Backlog
 internalReference: 785324

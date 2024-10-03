@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-05-19T12:28:17.920Z
 contentType: trackArticle
 productTeam: Shopping
-slug: instore-download
+slugEN: instore-download
 locale: es
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugES: instore-setup

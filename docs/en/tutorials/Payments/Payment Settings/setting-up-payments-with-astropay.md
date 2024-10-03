@@ -1,15 +1,15 @@
 ---
 title: 'Setting up payments with Astropay'
 id: 1A5hrnp3wLTlkUkYLlielB
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2022-08-15T18:20:38.640Z
-updatedAt: 2024-01-25T19:07:17.927Z
-publishedAt: 2024-01-25T19:07:17.927Z
+updatedAt: 2024-10-03T15:02:33.527Z
+publishedAt: 
 firstPublishedAt: 2022-08-15T18:39:51.774Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-astropay
+slugEN: setting-up-payments-with-astropay
 locale: en
 legacySlug: setting-up-payments-with-astropay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

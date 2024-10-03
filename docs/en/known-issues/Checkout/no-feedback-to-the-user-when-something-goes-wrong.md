@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: no-feedback-to-the-user-when-something-goes-wrong
+slugEN: no-feedback-to-the-user-when-something-goes-wrong
 locale: en
 kiStatus: Backlog
 internalReference: 339072

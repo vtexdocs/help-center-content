@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: addressid-mismatch-causes-invalid-address-for-an-item-error
+slugEN: addressid-mismatch-causes-invalid-address-for-an-item-error
 locale: en
 kiStatus: Backlog
 internalReference: 992503

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: search-banners-not-following-the-operator-and-for-trigger-conditions
+slugEN: search-banners-not-following-the-operator-and-for-trigger-conditions
 locale: en
 kiStatus: Backlog
 internalReference: 1053614

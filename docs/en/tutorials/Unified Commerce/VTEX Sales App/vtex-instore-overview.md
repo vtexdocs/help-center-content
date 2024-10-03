@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-20T15:21:02.173Z
 contentType: tutorial
 productTeam: Shopping
 author: 68ARpKKMdqoaiOAAQs2kYO
-slug: vtex-instore-overview
+slugEN: vtex-instore-overview
 locale: en
 legacySlug: vtex-instore-overview
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G

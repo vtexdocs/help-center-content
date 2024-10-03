@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-19T17:49:00.650Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
-slug: including-order-variables-in-the-transactional-email-template
+slugEN: including-order-variables-in-the-transactional-email-template
 locale: en
 legacySlug: including-order-variables-in-the-transactional-email-template
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee
@@ -42,7 +42,7 @@ Note that the `courier` property is inside the `package` object. Therefore, you 
 
 `{{package.courier}}`
 
-![courier3](https://images.contentful.com/alneenqid6w5/2yzopAVuU46I2UICEQ0y2S/69e4a43fa202c90cb9996f4a3eea19aa/courier3.png)
+![courier3](//images.contentful.com/alneenqid6w5/2yzopAVuU46I2UICEQ0y2S/69e4a43fa202c90cb9996f4a3eea19aa/courier3.png)
 
 As you see, the sample value ("Transportadora Teste Courier S.A.") was inserted in the preview screen, below the __HTML__ and __JSON Data__ fields.
 

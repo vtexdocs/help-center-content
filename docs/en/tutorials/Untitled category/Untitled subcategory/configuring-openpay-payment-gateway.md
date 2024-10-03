@@ -9,7 +9,7 @@ firstPublishedAt: 2021-07-06T17:54:12.638Z
 contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slug: configuring-openpay-payment-gateway
+slugEN: configuring-openpay-payment-gateway
 locale: en
 legacySlug: configuring-openpay-payment-gateway
 subcategoryId: unknown-subcategory

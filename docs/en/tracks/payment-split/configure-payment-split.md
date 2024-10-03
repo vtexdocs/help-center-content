@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-11-06T19:14:51.014Z
 contentType: trackArticle
 productTeam: Financial
-slug: configure-payment-split
+slugEN: configure-payment-split
 locale: en
 trackId: 1ouDg8q56Kuz1AgtJUY9nv
 trackSlugEN: payment-split

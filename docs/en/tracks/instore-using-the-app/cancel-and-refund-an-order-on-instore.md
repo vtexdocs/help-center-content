@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T16:06:08.789Z
 firstPublishedAt: 2021-11-09T14:09:59.855Z
 contentType: trackArticle
 productTeam: Shopping
-slug: cancel-and-refund-an-order-on-instore
+slugEN: cancel-and-refund-an-order-on-instore
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-using-the-app

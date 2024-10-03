@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_24
-slug: untitled-entry-2018-03-06-at-02-03-12
+slugEN: untitled-entry-2018-03-06-at-02-03-12
 locale: en
 legacySlug: untitled-entry-2018-03-06-at-02-03-12
 ---

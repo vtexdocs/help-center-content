@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
-slug: untitled
+slugEN: untitled
 locale: en
 kiStatus: Backlog
 internalReference: 414238

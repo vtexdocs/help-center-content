@@ -8,7 +8,7 @@ publishedAt: 2024-03-04T19:21:14.936Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: offer-status-module-for-integrations-with-vtex-marketplaces
+slugEN: 2024-02-07-offer-status-module-for-integrations-with-vtex-marketplaces
 locale: en
 legacySlug: offer-status-module-for-integrations-with-vtex-marketplaces
 announcementImageID: ''

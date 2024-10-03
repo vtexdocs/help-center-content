@@ -9,7 +9,7 @@ firstPublishedAt: 2020-03-24T15:15:38.486Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: how-to-check-your-balance
+slugEN: how-to-check-your-balance
 locale: en
 legacySlug: how-to-check-your-balance-on-vtex-payment
 subcategoryId: 29ZPBdZOTSg6NdzprcqBfb

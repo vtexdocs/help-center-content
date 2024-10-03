@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-04T13:17:13.380Z
 contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: deliveries-progress-vtex-shipping-network
+slugEN: deliveries-progress-vtex-shipping-network
 locale: en
 legacySlug: deliveries-progress-vtex-log
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib

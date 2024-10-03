@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: problem-to-pay-with-giftcard-two-cards-option
+slugEN: problem-to-pay-with-giftcard-two-cards-option
 locale: en
 kiStatus: Backlog
 internalReference: 393958

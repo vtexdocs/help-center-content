@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: delivery-flag-in-my-orders-due-to-an-error-in-filling-the-invoice
+slugEN: delivery-flag-in-my-orders-due-to-an-error-in-filling-the-invoice
 locale: en
 kiStatus: Backlog
 internalReference: 547053

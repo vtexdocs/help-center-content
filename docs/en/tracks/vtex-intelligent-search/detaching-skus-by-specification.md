@@ -1,14 +1,14 @@
 ---
 title: 'Detaching SKUs by specification'
 id: 5uVxuWxTA8VvLX3G8UCcUE
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-09-09T16:19:19.390Z
-updatedAt: 2021-03-10T18:03:14.865Z
-publishedAt: 2021-03-10T18:03:14.865Z
+updatedAt: 2024-09-06T20:14:37.216Z
+publishedAt: 
 firstPublishedAt: 2020-09-28T20:54:49.196Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: detaching-skus-by-specification
+slugEN: detaching-skus-by-specification
 locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search

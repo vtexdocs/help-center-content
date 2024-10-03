@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: transaction-stuck-in-a-status-prior-to-the-state-that-it-should-be
+slugEN: transaction-stuck-in-a-status-prior-to-the-state-that-it-should-be
 locale: en
 kiStatus: Backlog
 internalReference: 1037765

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-06-22T14:36:44.545Z
 contentType: trackArticle
 productTeam: Shopping
-slug: delivery-at-home-endless-aisle
+slugEN: delivery-at-home-endless-aisle
 locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup

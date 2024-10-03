@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-does-not-support-encoding-assembly-options-names
+slugEN: checkout-does-not-support-encoding-assembly-options-names
 locale: en
 kiStatus: Backlog
 internalReference: 378842

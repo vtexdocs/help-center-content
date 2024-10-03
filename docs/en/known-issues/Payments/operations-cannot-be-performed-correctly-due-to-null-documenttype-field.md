@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: operations-cannot-be-performed-correctly-due-to-null-documenttype-field
+slugEN: operations-cannot-be-performed-correctly-due-to-null-documenttype-field
 locale: en
 kiStatus: Backlog
 internalReference: 697107

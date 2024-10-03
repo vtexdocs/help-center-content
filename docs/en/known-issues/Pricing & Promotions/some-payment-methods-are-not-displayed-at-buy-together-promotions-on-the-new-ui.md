@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: some-payment-methods-are-not-displayed-at-buy-together-promotions-on-the-new-ui
+slugEN: some-payment-methods-are-not-displayed-at-buy-together-promotions-on-the-new-ui
 locale: en
 kiStatus: Backlog
 internalReference: 1091169

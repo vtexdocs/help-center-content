@@ -8,7 +8,7 @@ publishedAt: 2021-05-12T14:48:27.386Z
 contentType: updates
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: vtex-is-now-available-in-dutch-french-and-korean
+slugEN: 2021-05-10-vtex-is-now-available-in-dutch-french-and-korean
 locale: en
 legacySlug: vtex-is-now-available-in-dutch-french-and-korean
 announcementImageID: ''

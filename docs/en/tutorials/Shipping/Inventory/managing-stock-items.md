@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:44.889Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: managing-stock-items
+slugEN: managing-stock-items
 locale: en
 legacySlug: managing-stock-items
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE

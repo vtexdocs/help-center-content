@@ -9,7 +9,7 @@ firstPublishedAt: 2024-01-04T18:28:45.989Z
 contentType: tutorial
 productTeam: Shopping
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: how-to-customize-the-checkout-ui-custom-in-the-admin
+slugEN: how-to-customize-the-checkout-ui-custom-in-the-admin
 locale: en
 legacySlug: how-to-customize-the-checkout-ui-custom-in-the-admin
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
@@ -69,18 +69,18 @@ The Colors tab allows you to customize the checkout colors in your store, includ
 
 The JavaScript tab adds an additional layer of customization to the interface by allowing you to add scripts.
 
-![Java - EN](https://images.ctfassets.net/alneenqid6w5/2Uz2vqftUh4RvMsMwuO6OR/045facf9e300f701eb07395dbfbb1570/Java_-_EN.png)
+![Java - EN](//images.ctfassets.net/alneenqid6w5/2Uz2vqftUh4RvMsMwuO6OR/045facf9e300f701eb07395dbfbb1570/Java_-_EN.png)
 
 ## CSS
 
 The CSS tab allows the store layout customization by adding CSS code.
 
-![CSS - EN](https://images.ctfassets.net/alneenqid6w5/70CMxJWujBZ9qK4bCseGeH/6911348bbacbba2fee4c7bc0bfd8a1df/CSS_-_EN.png)
+![CSS - EN](//images.ctfassets.net/alneenqid6w5/70CMxJWujBZ9qK4bCseGeH/6911348bbacbba2fee4c7bc0bfd8a1df/CSS_-_EN.png)
 
 ## History
 
 It allows you to view and restore previously created and published customizations.
 
-![Histórico - EN](https://images.ctfassets.net/alneenqid6w5/6C0VthFtBjKP4S3aSS2BaX/85741110e6bd7c7ad0914adce2124bcb/Hist_rico_-_EN.png)
+![Histórico - EN](//images.ctfassets.net/alneenqid6w5/6C0VthFtBjKP4S3aSS2BaX/85741110e6bd7c7ad0914adce2124bcb/Hist_rico_-_EN.png)
 
 To ensure that your configuration is successfully applied, complete the necessary settings and click `Publish`.

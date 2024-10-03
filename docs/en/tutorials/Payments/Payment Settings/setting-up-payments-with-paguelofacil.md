@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-22T14:18:45.831Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-paguelofacil
+slugEN: setting-up-payments-with-paguelofacil
 locale: en
 legacySlug: setting-up-payments-with-paguelofacil
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

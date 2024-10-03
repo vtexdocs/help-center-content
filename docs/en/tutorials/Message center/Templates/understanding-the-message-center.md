@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:42.423Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: understanding-the-message-center
+slugEN: understanding-the-message-center
 locale: en
 legacySlug: understanding-the-message-center
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee

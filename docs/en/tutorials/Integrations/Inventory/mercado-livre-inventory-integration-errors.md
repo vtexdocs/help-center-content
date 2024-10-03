@@ -9,7 +9,7 @@ firstPublishedAt: 2021-11-01T22:14:56.937Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: mercado-livre-inventory-integration-errors
+slugEN: mercado-livre-inventory-integration-errors
 locale: en
 legacySlug: mercado-livre-inventory-integration-errors
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP

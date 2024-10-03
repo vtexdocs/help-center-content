@@ -352,8 +352,11 @@ function createMarkdownFile(entry,categories,subcategories) {
   let legacySlugES = fields.legacySlug?.es || "";
   let legacySlugPT = fields.legacySlug?.pt || "";
   let textEN = fields.text?.en || "";
+  textEN = textEN.replace('(//', '(https://').replace('[//', '[https://')
   let textES = fields.text?.es || "";
+  textES = textES.replace('(//', '(https://').replace('[//', '[https://')
   let textPT = fields.text?.pt || "";
+  textPT = textPT.replace('(//', '(https://').replace('[//', '[https://')
   let subcategoryId = fields.subcategory?.pt.sys.id || "unknown-subcategory";
 
   // Initialize category and subcategory variables
@@ -397,10 +400,12 @@ function createMarkdownFile(entry,categories,subcategories) {
 
   // create .md files in locale folders for each item
 
-  let fileNameEN = `${slugEN}.md`;
-  fileNameEN = fileNameEN.replace(/\?/g, ""); // remove all "?" characters
-  //  let fileNameES = `${slugES}.md`;
-  //  let fileNamePT = `${slugPT}.md`;
+  let fileNameEN = slugEN.substring(0, 147).replace(/-$/, "") + ".md";
+  fileNameEN = fileNameEN.replace(/\?/g, ""); // remove all "?" characters and trim if necessary to avoid "filename too long" git error
+  let fileNameES = slugES.substring(0, 147).replace(/-$/, "") + ".md";
+  fileNameES = fileNameES.replace(/\?/g, "");
+  let fileNamePT = slugPT.substring(0, 147).replace(/-$/, "") + ".md";
+  fileNamePT = fileNamePT.replace(/\?/g, "");
 
   let fileContentEN = "";
   let fileContentES = "";
@@ -424,7 +429,7 @@ contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
 tag: ${tag}
-slug: ${slugEN}
+slugEN: ${slugEN}
 locale: en
 kiStatus: ${kiStatusEN}
 internalReference: ${internalReference}
@@ -455,7 +460,7 @@ contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
 tag: ${tag}
-slug: ${slugES}
+slugEN: ${slugEN}
 locale: es
 kiStatus: ${kiStatusES}
 internalReference: ${internalReference}
@@ -486,7 +491,7 @@ contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
 tag: ${tag}
-slug: ${slugPT}
+slugEN: ${slugEN}
 locale: pt
 kiStatus: ${kiStatusPT}
 internalReference: ${internalReference}
@@ -520,7 +525,7 @@ firstPublishedAt: ${firstPublishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
-slug: ${slugEN}
+slugEN: ${slugEN}
 locale: en
 legacySlug: ${legacySlugEN}
 subcategoryId: ${subcategoryId}
@@ -539,7 +544,7 @@ firstPublishedAt: ${firstPublishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
-slug: ${slugES}
+slugEN: ${slugEN}
 locale: es
 legacySlug: ${legacySlugES}
 subcategoryId: ${subcategoryId}
@@ -558,7 +563,7 @@ firstPublishedAt: ${firstPublishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
-slug: ${slugPT}
+slugEN: ${slugEN}
 locale: pt
 legacySlug: ${legacySlugPT}
 subcategoryId: ${subcategoryId}
@@ -581,7 +586,7 @@ publishedAt: ${publishedAt}
 firstPublishedAt: ${firstPublishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
-slug: ${slugEN}
+slugEN: ${slugEN}
 locale: en
 trackId: ${trackId}
 trackSlugEN: ${trackSlugEN}
@@ -599,7 +604,7 @@ publishedAt: ${publishedAt}
 firstPublishedAt: ${firstPublishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
-slug: ${slugES}
+slugEN: ${slugEN}
 locale: es
 trackId: ${trackId}
 trackSlugES: ${trackSlugES}
@@ -617,7 +622,7 @@ publishedAt: ${publishedAt}
 firstPublishedAt: ${firstPublishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
-slug: ${slugPT}
+slugEN: ${slugEN}
 locale: pt
 trackId: ${trackId}
 trackSlugPT: ${trackSlugPT}
@@ -640,7 +645,7 @@ firstPublishedAt: ${firstPublishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
-slug: ${slugEN}
+slugEN: ${slugEN}
 locale: en
 legacySlug: ${legacySlugEN}
 ---
@@ -658,7 +663,7 @@ firstPublishedAt: ${firstPublishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
-slug: ${slugES}
+slugEN: ${slugEN}
 locale: es
 legacySlug: ${legacySlugES}
 ---
@@ -676,7 +681,7 @@ firstPublishedAt: ${firstPublishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
-slug: ${slugPT}
+slugEN: ${slugEN}
 locale: pt
 legacySlug: ${legacySlugPT}
 ---
@@ -688,6 +693,9 @@ ${textPT}
     contentTypes.faqs.push(entry);
   } else if (contentType === "updates") {
     fileNameEN = createdAt.split("T")[0] + "-" + fileNameEN;
+    fileNamePT = createdAt.split("T")[0] + "-" + fileNamePT;
+    fileNameES = createdAt.split("T")[0] + "-" + fileNameES;
+    datedSlugEN = createdAt.split("T")[0] + "-" + slugEN;
     fileContentEN = `---
 title: ${titleEN.includes("'") ? `"${titleEN}"` : `'${titleEN}'`}
 id: ${entryId}
@@ -698,7 +706,7 @@ publishedAt: ${publishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
-slug: ${slugEN}
+slugEN: ${datedSlugEN}
 locale: en
 legacySlug: ${legacySlugEN}
 announcementImageID: '${announcementImageID}'
@@ -717,7 +725,7 @@ publishedAt: ${publishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
-slug: ${slugES}
+slugEN: ${datedSlugEN}
 locale: es
 legacySlug: ${legacySlugES}
 announcementImageID: '${announcementImageID}'
@@ -736,7 +744,7 @@ publishedAt: ${publishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
-slug: ${slugPT}
+slugEN: ${datedSlugEN}
 locale: pt
 legacySlug: ${legacySlugPT}
 announcementImageID: '${announcementImageID}'
@@ -768,8 +776,16 @@ ${textPT}
     const baseFolder = path.join(localeFolder, fileFolders);
     const subFolder = fileSubFolder ? path.join(baseFolder, fileSubFolder).replace(": ", " - ").trim() : null;
     const subcategoryFolder = fileSubcategoryFolder ? path.join(subFolder, fileSubcategoryFolder).replace(": ", " - ").trim() : null;
-    const filePath = fileSubcategoryFolder ? path.join(subcategoryFolder, fileNameEN).replace(": ", " - ") : fileSubFolder ? path.join(subFolder, fileNameEN).replace(": ", " - ") : path.join(baseFolder, fileNameEN).replace(": ", " - ");
+    let filePath = fileSubcategoryFolder ? path.join(subcategoryFolder, fileNameEN).replace(": ", " - ") : fileSubFolder ? path.join(subFolder, fileNameEN).replace(": ", " - ") : path.join(baseFolder, fileNameEN).replace(": ", " - ");
 
+    if (locales[i] == "en") {
+        filePath = fileSubcategoryFolder ? path.join(subcategoryFolder, fileNameEN).replace(": ", " - ") : fileSubFolder ? path.join(subFolder, fileNameEN).replace(": ", " - ") : path.join(baseFolder, fileNameEN).replace(": ", " - ");
+      } else if (locales[i] == "pt") {
+        filePath = fileSubcategoryFolder ? path.join(subcategoryFolder, fileNamePT).replace(": ", " - ") : fileSubFolder ? path.join(subFolder, fileNamePT).replace(": ", " - ") : path.join(baseFolder, fileNamePT).replace(": ", " - ");
+      } else if (locales[i] == "es") {
+        filePath = fileSubcategoryFolder ? path.join(subcategoryFolder, fileNameES).replace(": ", " - ") : fileSubFolder ? path.join(subFolder, fileNameES).replace(": ", " - ") : path.join(baseFolder, fileNameES).replace(": ", " - ");
+      }
+  
     // Array of folders to create
     const foldersToCreate = [localeFolder, baseFolder, subFolder, subcategoryFolder].filter(Boolean);
   

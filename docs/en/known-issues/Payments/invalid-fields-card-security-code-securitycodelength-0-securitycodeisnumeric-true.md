@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: invalid-fields-card-security-code-securitycodelength-0-securitycodeisnumeric-true
+slugEN: invalid-fields-card-security-code-securitycodelength-0-securitycodeisnumeric-true
 locale: en
 kiStatus: Backlog
 internalReference: 442772

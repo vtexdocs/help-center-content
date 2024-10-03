@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: free-shipping-promotion-being-applied-on-split-orders-outside-promotion-restriction
+slugEN: free-shipping-promotion-being-applied-on-split-orders-outside-promotion-restriction
 locale: en
 kiStatus: No Fix
 internalReference: 732302

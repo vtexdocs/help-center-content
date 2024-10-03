@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-20T22:54:16.566Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-an-acquirer
+slugEN: what-is-an-acquirer
 locale: en
 legacySlug: what-is-an-acquirer
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

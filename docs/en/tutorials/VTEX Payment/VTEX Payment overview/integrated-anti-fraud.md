@@ -9,7 +9,7 @@ firstPublishedAt: 2020-06-12T21:28:53.576Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: integrated-anti-fraud
+slugEN: integrated-anti-fraud
 locale: en
 legacySlug: integrated-anti-fraud
 subcategoryId: 6uIlQ5imochc5LFi3dzCSv

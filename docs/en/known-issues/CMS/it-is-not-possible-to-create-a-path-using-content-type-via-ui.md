@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: it-is-not-possible-to-create-a-path-using-content-type-via-ui
+slugEN: it-is-not-possible-to-create-a-path-using-content-type-via-ui
 locale: en
 kiStatus: No Fix
 internalReference: 923619

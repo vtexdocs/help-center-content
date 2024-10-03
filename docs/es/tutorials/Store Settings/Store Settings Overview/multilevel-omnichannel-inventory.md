@@ -9,7 +9,7 @@ firstPublishedAt: 2020-12-08T19:12:43.325Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: multilevel-omnichannel-inventory
+slugEN: multilevel-omnichannel-inventory
 locale: es
 legacySlug: marketplace-recursivo-v2
 subcategoryId: 5RAUzLD6X9Wa1maenj1eGA

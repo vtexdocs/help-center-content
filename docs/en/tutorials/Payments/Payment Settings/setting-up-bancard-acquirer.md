@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-04T18:20:49.216Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-bancard-acquirer
+slugEN: setting-up-bancard-acquirer
 locale: en
 legacySlug: setting-up-bancard-acquirer
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

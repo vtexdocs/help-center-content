@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:17.955Z
 contentType: tutorial
 productTeam: Channels
 author: authors_41
-slug: returns-from-api-for-entering-skus-in-the-suggestion-module
+slugEN: returns-from-api-for-entering-skus-in-the-suggestion-module
 locale: en
 legacySlug: returns-from-api-for-entering-skus-in-the-suggestion-module
 subcategoryId: 2P4LrAbvyEiCaekmaWaEOk

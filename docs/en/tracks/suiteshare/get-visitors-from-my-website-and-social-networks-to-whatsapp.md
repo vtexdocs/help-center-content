@@ -8,7 +8,7 @@ publishedAt: 2022-09-30T19:48:11.238Z
 firstPublishedAt: 2022-08-26T14:34:18.036Z
 contentType: trackArticle
 productTeam: Shopping
-slug: get-visitors-from-my-website-and-social-networks-to-whatsapp
+slugEN: get-visitors-from-my-website-and-social-networks-to-whatsapp
 locale: en
 trackId: khP0p8mjIYRIpvM7Cb4Zr
 trackSlugEN: suiteshare

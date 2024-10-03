@@ -3,12 +3,12 @@ title: ' Facebook'
 id: 7kNXlgUr0A4HRFXTCX8TYb
 status: PUBLISHED
 createdAt: 2021-02-08T18:11:30.928Z
-updatedAt: 2021-10-06T19:03:42.267Z
-publishedAt: 2021-10-06T19:03:42.267Z
+updatedAt: 2024-09-05T17:15:28.307Z
+publishedAt: 2024-09-05T17:15:28.307Z
 firstPublishedAt: 2021-02-08T20:10:31.820Z
 contentType: trackArticle
 productTeam: Channels
-slug: facebook
+slugEN: facebook
 locale: en
 trackId: 7h8KvIC4DbRRc8VlyJ8PFc
 trackSlugEN: facebook-integration
@@ -18,7 +18,7 @@ trackSlugEN: facebook-integration
 
 [Facebook](https://about.fb.com) is the social network with the largest number of users in the world. Created in 2004, it is the platform where more than three billion people connect and share information every day.
 
-<img src="https://drive.google.com/uc?export=download&id=1cjUKeFmyLwTorni7aBwh5Ql4YHTjIxc1"/>
+![Logo Facebook](https://images.ctfassets.net/alneenqid6w5/O8m2gKVxHDZwdd3VAmixX/a7cccc844a32302789bff0768ec4c62f/facebook_logo_4.png)
 
 There are different strategies to promote your store on Facebook. Business Manager is a free tool created to make it easier for you to manage your actions on the social network. In just one place, you can manage organic posts, paid ads, content libraries, and more.
 

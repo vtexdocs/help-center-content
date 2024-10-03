@@ -9,7 +9,7 @@ firstPublishedAt: 2023-10-19T13:27:04.087Z
 contentType: tutorial
 productTeam: B2B
 author: 5l3eEiSz8MpcppCxcnijGz
-slug: b2b-store-settings
+slugEN: b2b-store-settings
 locale: en
 legacySlug: b2b-store-settings
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl
@@ -34,7 +34,7 @@ Example: debit card, credit card, promissory.
 You can add default prices for the stores you add. Learn more about Price Tables on [Pricing](https://developers.vtex.com/docs/guides/pricing-overview).
 
 ## Trade Policies
- ![ B2B - Políticas comerciais EN](https://images.ctfassets.net/alneenqid6w5/AsCTmvTHbdWfOnVeIiGkj/7d93cbc41f2011d2ca1f1f3090458b2d/image2.jpg)
+ ![ B2B - Políticas comerciais EN](//images.ctfassets.net/alneenqid6w5/AsCTmvTHbdWfOnVeIiGkj/7d93cbc41f2011d2ca1f1f3090458b2d/image2.jpg)
 You can directly link your store to trade policies and sales channels.
 
 1. In the **Available trade policies** list, click the trade policy you want to add to your store and then click `Add to Trade Policy`, which will then be displayed in the **Selected trade policies** list.

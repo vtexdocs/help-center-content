@@ -9,7 +9,7 @@ firstPublishedAt: 2020-11-17T17:03:21.123Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: understanding-b2b-orders
+slugEN: understanding-b2b-orders
 locale: en
 legacySlug: understanding-b2b-orders
 subcategoryId: 1WkESJBcI6r61dS82PQKF9

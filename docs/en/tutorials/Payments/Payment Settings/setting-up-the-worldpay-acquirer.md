@@ -1,15 +1,15 @@
 ---
 title: 'Setting up payments with Worldpay-Payments-Via-WPG'
 id: 7GCtigwhNYMi604UM0KeO6
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2018-02-28T22:09:45.321Z
-updatedAt: 2024-03-18T17:20:43.467Z
-publishedAt: 2024-03-18T17:20:43.467Z
+updatedAt: 2024-10-03T16:17:26.721Z
+publishedAt: 
 firstPublishedAt: 2018-02-28T22:38:14.737Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-the-worldpay-acquirer
+slugEN: setting-up-the-worldpay-acquirer
 locale: en
 legacySlug: setting-up-the-worldpay-acquirer
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

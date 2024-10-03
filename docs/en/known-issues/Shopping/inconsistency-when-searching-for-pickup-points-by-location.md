@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 tag: Checkout
-slug: inconsistency-when-searching-for-pickup-points-by-location
+slugEN: inconsistency-when-searching-for-pickup-points-by-location
 locale: en
 kiStatus: Fixed
 internalReference: 

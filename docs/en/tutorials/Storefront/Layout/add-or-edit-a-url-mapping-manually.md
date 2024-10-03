@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-04T15:08:34.366Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: add-or-edit-a-url-mapping-manually
+slugEN: add-or-edit-a-url-mapping-manually
 locale: en
 legacySlug: add-or-edit-a-url-mapping-manually
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

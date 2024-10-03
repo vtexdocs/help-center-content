@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:03:52.175Z
 contentType: tutorial
 productTeam: Channels
 author: authors_59
-slug: white-label-seller
+slugEN: white-label-seller
 locale: en
 legacySlug: what-are-franchise-account-and-seller-white-label
 subcategoryId: 3vhg10rO4MSmy06KeIYMIa

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: ew-ui-does-not-suggest-the-correct-item-to-be-returned-once-the-order-has-a-change
+slugEN: ew-ui-does-not-suggest-the-correct-item-to-be-returned-once-the-order-has-a-change
 locale: en
 kiStatus: Backlog
 internalReference: 735854

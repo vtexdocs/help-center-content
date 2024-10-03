@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:03:09.865Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-create-a-page-template
+slugEN: how-to-create-a-page-template
 locale: en
 legacySlug: how-to-create-a-page-template
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

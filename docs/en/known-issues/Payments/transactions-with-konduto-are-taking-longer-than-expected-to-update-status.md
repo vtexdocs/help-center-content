@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: transactions-with-konduto-are-taking-longer-than-expected-to-update-status
+slugEN: transactions-with-konduto-are-taking-longer-than-expected-to-update-status
 locale: en
 kiStatus: Backlog
 internalReference: 541149

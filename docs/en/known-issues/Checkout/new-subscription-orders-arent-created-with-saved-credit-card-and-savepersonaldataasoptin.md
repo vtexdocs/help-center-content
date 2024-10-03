@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: new-subscription-orders-arent-created-with-saved-credit-card-and-savepersonaldataasoptin
+slugEN: new-subscription-orders-arent-created-with-saved-credit-card-and-savepersonaldataasoptin
 locale: en
 kiStatus: Backlog
 internalReference: 1087876

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: ordering-of-specification-groups-from-the-root-category-does-not-work
+slugEN: ordering-of-specification-groups-from-the-root-category-does-not-work
 locale: en
 kiStatus: No Fix
 internalReference: 634129

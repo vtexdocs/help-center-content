@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:05:41.666Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-can-i-create-cluster-of-customers
+slugEN: how-can-i-create-cluster-of-customers
 locale: en
 legacySlug: how-can-i-create-cluster-of-customers
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l

@@ -8,7 +8,7 @@ publishedAt: 2024-02-09T12:30:53.684Z
 firstPublishedAt: 2024-02-07T21:44:30.527Z
 contentType: trackArticle
 productTeam: Financial
-slug: managing-customer-credit-invoices
+slugEN: managing-customer-credit-invoices
 locale: en
 trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugEN: customer-credit-getting-started

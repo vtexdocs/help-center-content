@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: error-exporting-prices-with-metadata
+slugEN: error-exporting-prices-with-metadata
 locale: en
 kiStatus: Backlog
 internalReference: 860290

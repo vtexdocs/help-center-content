@@ -9,7 +9,7 @@ firstPublishedAt: 2021-07-07T14:57:45.358Z
 contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slug: configuring-tuna-gateway-affiliation
+slugEN: configuring-tuna-gateway-affiliation
 locale: en
 legacySlug: configuring-tuna-gateway-affiliation
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

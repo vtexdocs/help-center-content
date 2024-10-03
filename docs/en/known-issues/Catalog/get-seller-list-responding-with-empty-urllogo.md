@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: get-seller-list-responding-with-empty-urllogo
+slugEN: get-seller-list-responding-with-empty-urllogo
 locale: en
 kiStatus: Fixed
 internalReference: 387508

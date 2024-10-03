@@ -9,7 +9,7 @@ firstPublishedAt: 2020-01-24T21:50:41.946Z
 contentType: tutorial
 productTeam: Channels
 author: authors_84
-slug: como-funciona-a-integracao-da-magazine-luiza
+slugEN: como-funciona-a-integracao-da-magazine-luiza
 locale: pt
 legacySlug: como-funciona-a-integracao-da-magazine-luiza
 subcategoryId: unknown-subcategory

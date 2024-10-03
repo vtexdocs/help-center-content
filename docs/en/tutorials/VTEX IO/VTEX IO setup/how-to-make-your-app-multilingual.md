@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-06T15:46:31.018Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 1iryp847AQgmKGKIASeW8Y
-slug: how-to-make-your-app-multilingual
+slugEN: how-to-make-your-app-multilingual
 locale: en
 legacySlug: how-to-make-your-app-multilingual
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

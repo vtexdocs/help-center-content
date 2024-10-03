@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: tax-form-ui-is-not-displayng-marketing-tags-dropdown
+slugEN: tax-form-ui-is-not-displayng-marketing-tags-dropdown
 locale: en
 kiStatus: Backlog
 internalReference: 1058148

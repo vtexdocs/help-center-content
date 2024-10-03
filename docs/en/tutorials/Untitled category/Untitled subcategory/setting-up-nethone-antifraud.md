@@ -9,7 +9,7 @@ firstPublishedAt: 2021-06-16T17:19:21.268Z
 contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slug: setting-up-nethone-antifraud
+slugEN: setting-up-nethone-antifraud
 locale: en
 legacySlug: setting-up-nethone-antifraud
 subcategoryId: unknown-subcategory

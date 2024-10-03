@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: checkout-ui-sends-hyphen-in-the-postal-code-to-orderform
+slugEN: checkout-ui-sends-hyphen-in-the-postal-code-to-orderform
 locale: en
 kiStatus: Fixed
 internalReference: 937692

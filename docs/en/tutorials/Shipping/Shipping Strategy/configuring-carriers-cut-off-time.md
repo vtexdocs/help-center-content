@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-07T23:14:17.882Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: configuring-carriers-cut-off-time
+slugEN: configuring-carriers-cut-off-time
 locale: en
 legacySlug: setting-the-carriers-cut-off-time
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

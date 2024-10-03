@@ -9,7 +9,7 @@ firstPublishedAt: 2023-05-03T17:09:07.242Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: marketplaces-and-integrations
+slugEN: marketplaces-and-integrations
 locale: en
 legacySlug: marketplaces-and-integrations
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

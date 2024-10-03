@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-05-03T20:52:22.560Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: create-the-app
+slugEN: create-the-app
 locale: en
 trackId: 2qYWraccosS2ayg2kusaUo
 trackSlugEN: vtex-io-getting-started

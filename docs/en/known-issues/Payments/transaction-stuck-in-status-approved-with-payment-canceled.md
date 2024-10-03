@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: transaction-stuck-in-status-approved-with-payment-canceled
+slugEN: transaction-stuck-in-status-approved-with-payment-canceled
 locale: en
 kiStatus: Backlog
 internalReference: 1046365

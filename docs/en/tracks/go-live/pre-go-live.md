@@ -8,7 +8,7 @@ publishedAt: 2023-05-25T17:29:40.880Z
 firstPublishedAt: 2022-12-09T22:07:50.195Z
 contentType: trackArticle
 productTeam: Reliability
-slug: pre-go-live
+slugEN: pre-go-live
 locale: en
 trackId: 4Ns5FxIiksmjsdX2yOTduM
 trackSlugEN: go-live

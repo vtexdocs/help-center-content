@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: in-some-cases-where-there-is-a-discount-on-the-order-we-have-a-discrepancy-in-the-total-value-of-the-items-to-invoice-field-in-the-order-ui
+slugEN: in-some-cases-where-there-is-a-discount-on-the-order-we-have-a-discrepancy-in-the-total-value-of-the-items-to-invoice-field-in-the-order-ui
 locale: en
 kiStatus: Backlog
 internalReference: 1028210

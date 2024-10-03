@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slug: master-datas-scroll-endpoint-sometimes-returns-a-408-error
+slugEN: master-datas-scroll-endpoint-sometimes-returns-a-408-error
 locale: en
 kiStatus: Backlog
 internalReference: 

@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-16T17:04:14.266Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slug: scheduling-content-updates
+slugEN: scheduling-content-updates
 locale: en
 legacySlug: scheduling-content-updates
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3

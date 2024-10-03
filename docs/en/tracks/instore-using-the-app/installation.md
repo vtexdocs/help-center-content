@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T16:03:40.603Z
 firstPublishedAt: 2021-08-05T16:04:21.172Z
 contentType: trackArticle
 productTeam: Shopping
-slug: installation
+slugEN: installation
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-using-the-app

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-05-31T17:14:23.589Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: sku-bindings
+slugEN: sku-bindings
 locale: en
 legacySlug: sku-bindings
 subcategoryId: FTLNAWyLmuaIiAq4CQKS6

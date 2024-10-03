@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: calculated-price-table-export-not-bringing-all-skus
+slugEN: calculated-price-table-export-not-bringing-all-skus
 locale: en
 kiStatus: Backlog
 internalReference: 722005

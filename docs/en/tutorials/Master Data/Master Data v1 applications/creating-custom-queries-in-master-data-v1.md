@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:43.119Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
-slug: creating-custom-queries-in-master-data-v1
+slugEN: creating-custom-queries-in-master-data-v1
 locale: en
 legacySlug: creating-a-personalized-master-data-query
 subcategoryId: 2AThnkEZAYbk4G4EIs53rL
@@ -46,7 +46,7 @@ After following the instructions above, the query will appear as a display optio
 
 You can also access the saved queries by clicking the __Queries__ button in the form list:
 
-![queries-en](https://images.ctfassets.net/alneenqid6w5/Cj2YVA2pZ64Sscy0O2MA0/5f6ac592a3157c4285e4f818a20f349b/queries-en__1_.png)
+![queries-en](//images.ctfassets.net/alneenqid6w5/Cj2YVA2pZ64Sscy0O2MA0/5f6ac592a3157c4285e4f818a20f349b/queries-en__1_.png)
 
 ## Configuring a default query
 

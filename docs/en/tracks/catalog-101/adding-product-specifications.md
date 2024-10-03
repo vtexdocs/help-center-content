@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-06-25T19:06:35.046Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: adding-product-specifications
+slugEN: adding-product-specifications
 locale: en
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugEN: catalog-101
@@ -47,7 +47,7 @@ The following steps will let you add specification values:
 8. Click on **New Value**.
 9. Type in the **Name** of the desired value and click on **Save**.
 
-![EN.2novo](https://images.ctfassets.net/alneenqid6w5/2LBqRIgwrRKGFRZI1k66xV/c225f4b00ecd036deb541355d10278e8/EN.2novo.gif)
+![EN.2novo](//images.ctfassets.net/alneenqid6w5/2LBqRIgwrRKGFRZI1k66xV/c225f4b00ecd036deb541355d10278e8/EN.2novo.gif)
 
 ### Linking specifications to a product
 
@@ -61,7 +61,7 @@ To include specifications to a **Product**, complete the following steps:
 4. Select the **Specifications** tab and choose the specification value for this product.
 5. Click on the **Product** tab and then on **Save**.
 
-![EN.3novo](https://images.ctfassets.net/alneenqid6w5/6aLqyJEcn1gn7ZY6D1HOBR/b98761150ff82fce355480c78f7693e6/EN.3novo.gif)
+![EN.3novo](//images.ctfassets.net/alneenqid6w5/6aLqyJEcn1gn7ZY6D1HOBR/b98761150ff82fce355480c78f7693e6/EN.3novo.gif)
 
 ## Spreadsheet
 
@@ -90,7 +90,7 @@ After filling in the spreadsheet data, follow the instructions below to import y
 5. Click on **Select** to choose the filled-out spreadsheet.
 6. Click on **Import**.
 
-![EN.4](https://images.ctfassets.net/alneenqid6w5/38zcVf51x9HpqztCxmfgRy/d4d6d36b35f4d0717c3d97fcc9c9223b/EN.4.gif)
+![EN.4](//images.ctfassets.net/alneenqid6w5/38zcVf51x9HpqztCxmfgRy/d4d6d36b35f4d0717c3d97fcc9c9223b/EN.4.gif)
 
 ## API 
 

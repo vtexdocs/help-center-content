@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
-slug: seller-name-is-not-provided-in-native-mkp-integrations
+slugEN: seller-name-is-not-provided-in-native-mkp-integrations
 locale: en
 kiStatus: Backlog
 internalReference: 

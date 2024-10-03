@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: canonical-tags-are-not-applied-after-3rd-category-level
+slugEN: canonical-tags-are-not-applied-after-3rd-category-level
 locale: en
 kiStatus: Backlog
 internalReference: 932349

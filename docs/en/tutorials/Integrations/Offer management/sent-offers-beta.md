@@ -9,7 +9,7 @@ firstPublishedAt: 2021-03-17T00:31:26.933Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: sent-offers-beta
+slugEN: sent-offers-beta
 locale: en
 legacySlug: sent-offers-beta
 subcategoryId: 2zVauFUkYn8vgS0y0MfWeK

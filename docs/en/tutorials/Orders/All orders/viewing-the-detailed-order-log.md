@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-07T16:33:47.650Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: viewing-the-detailed-order-log
+slugEN: viewing-the-detailed-order-log
 locale: en
 legacySlug: viewing-the-detailed-order-log-in-the-oms-flow
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

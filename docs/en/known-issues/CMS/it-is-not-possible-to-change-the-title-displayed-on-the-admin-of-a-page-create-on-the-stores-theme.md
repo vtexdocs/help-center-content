@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: it-is-not-possible-to-change-the-title-displayed-on-the-admin-of-a-page-create-on-the-stores-theme
+slugEN: it-is-not-possible-to-change-the-title-displayed-on-the-admin-of-a-page-create-on-the-stores-theme
 locale: en
 kiStatus: Backlog
 internalReference: 1077069

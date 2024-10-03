@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-08T15:45:11.373Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-stark-bank
+slugEN: setting-up-payments-with-stark-bank
 locale: en
 legacySlug: setting-up-payments-with-stark-bank
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

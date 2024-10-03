@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-28T12:23:42.837Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: order-tracking
+slugEN: order-tracking
 locale: en
 legacySlug: order-tracking
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: decidirv1-transaction-got-reprocessed-after-some-retries-to-authorization
+slugEN: decidirv1-transaction-got-reprocessed-after-some-retries-to-authorization
 locale: en
 kiStatus: Backlog
 internalReference: 384009

@@ -8,7 +8,7 @@ publishedAt: 2024-09-04T13:35:11.425Z
 firstPublishedAt: 2024-05-31T20:51:41.392Z
 contentType: trackArticle
 productTeam: Channels
-slug: configuring-the-integration-rappi
+slugEN: configuring-the-integration-rappi
 locale: en
 trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugEN: rappi-integration

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-09-20T19:45:39.811Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: brand-registration-fields
+slugEN: brand-registration-fields
 locale: en
 legacySlug: brand-registration-fields
 subcategoryId: fUHfjTEwyOcIQuyeUsIIu

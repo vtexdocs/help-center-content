@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: VTEX IO
 author: 
-slug: untitled-entry-2017-11-21-at-08-21-46
+slugEN: untitled-entry-2017-11-21-at-08-21-46
 locale: es
 legacySlug: untitled-entry-2017-11-21-at-08-21-46
 subcategoryId: unknown-subcategory

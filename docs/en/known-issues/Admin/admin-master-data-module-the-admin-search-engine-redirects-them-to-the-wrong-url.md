@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
-slug: admin-master-data-module-the-admin-search-engine-redirects-them-to-the-wrong-url
+slugEN: admin-master-data-module-the-admin-search-engine-redirects-them-to-the-wrong-url
 locale: en
 kiStatus: Fixed
 internalReference: 889045

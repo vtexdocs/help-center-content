@@ -9,7 +9,7 @@ firstPublishedAt: 2021-09-24T15:26:07.314Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: integration-with-vtex-tracking
+slugEN: integration-with-vtex-tracking
 locale: en
 legacySlug: integration-with-vtex-tracking
 subcategoryId: t5ai1r0dN7J4U1IYLbHmG

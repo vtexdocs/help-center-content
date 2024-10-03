@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: facebook-review-skus-load-route-behavior-on-facebook
+slugEN: facebook-review-skus-load-route-behavior-on-facebook
 locale: en
 kiStatus: Fixed
 internalReference: 660874

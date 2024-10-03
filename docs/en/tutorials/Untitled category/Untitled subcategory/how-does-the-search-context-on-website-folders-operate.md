@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:38.176Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: how-does-the-search-context-on-website-folders-operate
+slugEN: how-does-the-search-context-on-website-folders-operate
 locale: en
 legacySlug: 
 subcategoryId: unknown-subcategory

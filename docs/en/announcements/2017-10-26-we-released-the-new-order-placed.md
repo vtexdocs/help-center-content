@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:09.159Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_24
-slug: we-released-the-new-order-placed
+slugEN: 2017-10-26-we-released-the-new-order-placed
 locale: en
 legacySlug: we-released-the-new-order-placed
 announcementImageID: ''
@@ -29,7 +29,7 @@ Activating this update is simple: just access the Orders tab in your admin's Por
 
 After August 24, 2017, the new version will be activated by default, and the old one will be discontinued. So stay tuned!
 
-![RequestConfirmed2](https:// images.contentful.com/alneenqid6w5/5xM0PRucykSa84SWWO4k2S/0dcf664d17697bdbf8a32b074578af27/Confirmed2.png)
+![RequestConfirmed2](// images.contentful.com/alneenqid6w5/5xM0PRucykSa84SWWO4k2S/0dcf664d17697bdbf8a32b074578af27/Confirmed2.png)
 
 You may want to update your customization. To learn how, see the tutorial [Customize Checkout Confirmation Pages](/en/tutorial/customizing-the-checkout-confirmation-pages).
 

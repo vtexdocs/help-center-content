@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: VTEX IO
 author: 
 tag: 
-slug: authorization-error-when-running-one-of-the-vtex-init-examples-react-pages
+slugEN: authorization-error-when-running-one-of-the-vtex-init-examples-react-pages
 locale: en
 kiStatus: 
 internalReference: 

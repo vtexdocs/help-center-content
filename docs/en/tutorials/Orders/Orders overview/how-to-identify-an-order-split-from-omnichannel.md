@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:29:55.002Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_35
-slug: how-to-identify-an-order-split-from-omnichannel
+slugEN: how-to-identify-an-order-split-from-omnichannel
 locale: en
 legacySlug: how-to-identify-an-order-split-from-omnichannel
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ

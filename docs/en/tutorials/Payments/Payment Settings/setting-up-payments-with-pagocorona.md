@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-15T15:06:43.823Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-pagocorona
+slugEN: setting-up-payments-with-pagocorona
 locale: en
 legacySlug: setting-up-payments-with-pagocorona
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

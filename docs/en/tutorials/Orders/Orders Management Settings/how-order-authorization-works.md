@@ -9,7 +9,7 @@ firstPublishedAt: 2019-03-25T17:24:44.319Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_41
-slug: how-order-authorization-works
+slugEN: how-order-authorization-works
 locale: en
 legacySlug: Learn-how-to-create-flows-for-order-release-or-approval
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k

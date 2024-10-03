@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-02T20:17:14.474Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-sub-acquirer-stelo
+slugEN: setting-up-sub-acquirer-stelo
 locale: en
 legacySlug: setting-up-sub-acquirer-stelo
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

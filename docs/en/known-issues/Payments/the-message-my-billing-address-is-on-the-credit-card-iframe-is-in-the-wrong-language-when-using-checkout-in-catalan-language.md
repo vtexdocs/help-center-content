@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: the-message-my-billing-address-is-on-the-credit-card-iframe-is-in-the-wrong-language-when-using-checkout-in-catalan-language
+slugEN: the-message-my-billing-address-is-on-the-credit-card-iframe-is-in-the-wrong-language-when-using-checkout-in-catalan-language
 locale: en
 kiStatus: Fixed
 internalReference: 481181

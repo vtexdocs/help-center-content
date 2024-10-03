@@ -9,7 +9,7 @@ firstPublishedAt: 2023-11-16T14:54:41.647Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-culqi
+slugEN: setting-up-payments-with-culqi
 locale: en
 legacySlug: setting-up-payments-with-culqi
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

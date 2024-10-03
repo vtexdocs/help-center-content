@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T17:52:50.919Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: locate-the-google-ads-pixel
+slugEN: locate-the-google-ads-pixel
 locale: en
 legacySlug: locate-the-google-ads-pixel
 ---

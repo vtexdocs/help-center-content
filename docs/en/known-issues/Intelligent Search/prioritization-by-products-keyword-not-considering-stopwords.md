@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: prioritization-by-products-keyword-not-considering-stopwords
+slugEN: prioritization-by-products-keyword-not-considering-stopwords
 locale: en
 kiStatus: Backlog
 internalReference: 1041743

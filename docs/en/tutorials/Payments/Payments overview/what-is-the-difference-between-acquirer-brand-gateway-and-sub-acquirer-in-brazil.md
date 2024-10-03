@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-11T19:34:43.203Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil
+slugEN: what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil
 locale: en
 legacySlug: what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

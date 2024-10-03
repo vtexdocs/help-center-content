@@ -9,7 +9,7 @@ firstPublishedAt: 2018-12-11T17:59:44.827Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-itau-registered-ticket-itau-registrado
+slugEN: setting-up-itau-registered-ticket-itau-registrado
 locale: en
 legacySlug: setting-up-itau-registered-ticket-itau-registrado
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

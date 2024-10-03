@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slug: customers-cant-see-products-catalog-page-after-logging-in
+slugEN: customers-cant-see-products-catalog-page-after-logging-in
 locale: en
 kiStatus: Backlog
 internalReference: 550112

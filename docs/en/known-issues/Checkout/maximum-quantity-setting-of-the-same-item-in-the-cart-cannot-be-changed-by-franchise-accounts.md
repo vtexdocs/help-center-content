@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: maximum-quantity-setting-of-the-same-item-in-the-cart-cannot-be-changed-by-franchise-accounts
+slugEN: maximum-quantity-setting-of-the-same-item-in-the-cart-cannot-be-changed-by-franchise-accounts
 locale: en
 kiStatus: Backlog
 internalReference: 325273

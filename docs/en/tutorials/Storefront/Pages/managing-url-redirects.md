@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-03T14:42:10.000Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slug: managing-url-redirects
+slugEN: managing-url-redirects
 locale: en
 legacySlug: managing-url-redirects
 subcategoryId: 1znnjA17XqaUNdNFr42PW5

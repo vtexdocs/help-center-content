@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_41
 tag: Order Management
-slug: orders-management-filter-doesnt-bring-the-orders-made-on-02-18-2018
+slugEN: orders-management-filter-doesnt-bring-the-orders-made-on-02-18-2018
 locale: en
 kiStatus: Backlog
 internalReference: 

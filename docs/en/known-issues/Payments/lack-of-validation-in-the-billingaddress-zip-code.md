@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: lack-of-validation-in-the-billingaddress-zip-code
+slugEN: lack-of-validation-in-the-billingaddress-zip-code
 locale: en
 kiStatus: Backlog
 internalReference: 375481

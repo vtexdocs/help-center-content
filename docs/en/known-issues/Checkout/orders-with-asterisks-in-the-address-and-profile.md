@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: orders-with-asterisks-in-the-address-and-profile
+slugEN: orders-with-asterisks-in-the-address-and-profile
 locale: en
 kiStatus: Backlog
 internalReference: 360783

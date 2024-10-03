@@ -9,7 +9,7 @@ firstPublishedAt: 2022-07-20T17:07:25.186Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-cielov4
+slugEN: setting-up-payments-with-cielov4
 locale: en
 legacySlug: setting-up-payments-with-cielov4
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

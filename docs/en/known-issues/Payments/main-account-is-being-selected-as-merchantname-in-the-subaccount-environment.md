@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: main-account-is-being-selected-as-merchantname-in-the-subaccount-environment
+slugEN: main-account-is-being-selected-as-merchantname-in-the-subaccount-environment
 locale: en
 kiStatus: Backlog
 internalReference: 780767

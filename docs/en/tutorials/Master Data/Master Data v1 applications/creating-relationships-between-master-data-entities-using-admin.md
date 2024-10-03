@@ -9,7 +9,7 @@ firstPublishedAt: 2020-08-18T19:47:29.772Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
-slug: creating-relationships-between-master-data-entities-using-admin
+slugEN: creating-relationships-between-master-data-entities-using-admin
 locale: en
 legacySlug: creating-relationships-between-master-data-entities-using-admin
 subcategoryId: 2AThnkEZAYbk4G4EIs53rL
@@ -94,4 +94,4 @@ To do this, you need to add the value `{relationship_entity_acronym}.{relationsh
 
 Relationships are kept through document IDs. Trying to insert the relationship's field value as a filter in the form will return only the IDs of the referred documents, and not each document's value for the chosen field. The image below shows this result. For more information, see [How to filter data in Master Data](https://help.vtex.com/en/tutorial/filtering-data-on-master-data--tutorials_778).
 
-![Filter relationship ID](https://images.ctfassets.net/alneenqid6w5/4O1qpGWOrnnM3Zzmyqzymu/cc8c2639c1f1c806c97392e7a97da165/filters-en.png)
+![Filter relationship ID](//images.ctfassets.net/alneenqid6w5/4O1qpGWOrnnM3Zzmyqzymu/cc8c2639c1f1c806c97392e7a97da165/filters-en.png)

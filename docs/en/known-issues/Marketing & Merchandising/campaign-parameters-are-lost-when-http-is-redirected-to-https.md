@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_31
 tag: Catalog
-slug: campaign-parameters-are-lost-when-http-is-redirected-to-https
+slugEN: campaign-parameters-are-lost-when-http-is-redirected-to-https
 locale: en
 kiStatus: Fixed
 internalReference: 

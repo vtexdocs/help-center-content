@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: VTEX IO
 author: 
-slug: the-apps-anatomy
+slugEN: the-apps-anatomy
 locale: en
 legacySlug: the-apps-anatomy
 subcategoryId: unknown-subcategory

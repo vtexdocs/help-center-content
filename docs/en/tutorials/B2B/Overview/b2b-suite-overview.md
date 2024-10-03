@@ -9,7 +9,7 @@ firstPublishedAt: 2024-05-10T11:07:09.230Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: b2b-suite-overview
+slugEN: b2b-suite-overview
 locale: en
 legacySlug: b2b-suite-overview
 subcategoryId: 1PSq4adEARlFaK5Mdv74Y7

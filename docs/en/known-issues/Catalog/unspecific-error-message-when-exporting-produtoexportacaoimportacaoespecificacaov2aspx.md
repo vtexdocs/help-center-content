@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: unspecific-error-message-when-exporting-produtoexportacaoimportacaoespecificacaov2aspx
+slugEN: unspecific-error-message-when-exporting-produtoexportacaoimportacaoespecificacaov2aspx
 locale: en
 kiStatus: No Fix
 internalReference: 314227

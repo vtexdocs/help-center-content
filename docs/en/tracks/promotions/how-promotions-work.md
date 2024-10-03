@@ -8,7 +8,7 @@ publishedAt: 2020-02-14T16:17:30.202Z
 firstPublishedAt: 2019-12-10T19:17:50.250Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: how-promotions-work
+slugEN: how-promotions-work
 locale: en
 trackId: 6asfF1vFYiZgTQtOzwJchR
 trackSlugEN: promotions

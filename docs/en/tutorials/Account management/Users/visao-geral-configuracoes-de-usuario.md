@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-28T19:28:17.517Z
 contentType: tutorial
 productTeam: Identity
 author: authors_84
-slug: visao-geral-configuracoes-de-usuario
+slugEN: visao-geral-configuracoes-de-usuario
 locale: en
 legacySlug: visao-geral-configuracoes-de-usuario
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M

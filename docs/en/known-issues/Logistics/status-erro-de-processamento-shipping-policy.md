@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: status-erro-de-processamento-shipping-policy
+slugEN: status-erro-de-processamento-shipping-policy
 locale: en
 kiStatus: Backlog
 internalReference: 445793

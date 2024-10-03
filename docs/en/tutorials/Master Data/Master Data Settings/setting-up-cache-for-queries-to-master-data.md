@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-01T20:59:50.024Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_24
-slug: setting-up-cache-for-queries-to-master-data
+slugEN: setting-up-cache-for-queries-to-master-data
 locale: en
 legacySlug: setting-up-cache-for-queries-to-master-data
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2023-01-25T14:42:22.919Z
 contentType: trackArticle
 productTeam: Shopping
-slug: dashboard
+slugEN: dashboard
 locale: en
 trackId: 5UZ9BdvwwtZm2t9QTXcbZs
 trackSlugEN: conversational-commerce

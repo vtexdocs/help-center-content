@@ -8,7 +8,7 @@ publishedAt: 2023-08-21T15:36:01.683Z
 contentType: updates
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: headless-cms-stay-informed-on-your-publication-progress
+slugEN: 2023-08-21-headless-cms-stay-informed-on-your-publication-progress
 locale: en
 legacySlug: headless-cms-stay-informed-on-your-publication-progress
 announcementImageID: ''
@@ -35,7 +35,7 @@ With the notification feature, you can now stay informed about the status of eac
 
 If an error occurs during deployment, the notification card will indicate the stage at which the error occurred. You can click `Try again` to redeploy.
 
-![Headless CMS - Redeploy](https://images.ctfassets.net/alneenqid6w5/wxnKpmFM0GRlSAB7uboMK/2e950f93b204d1ce40d67b0f8516b327/headless-cms-redeploy-en.gif)
+![Headless CMS - Redeploy](//images.ctfassets.net/alneenqid6w5/wxnKpmFM0GRlSAB7uboMK/2e950f93b204d1ce40d67b0f8516b327/headless-cms-redeploy-en.gif)
 
 ## Why are we making this change?
 The notification feature gives you more autonomy to understand and address issues related to store publications. It enables you to precisely identify and report issues and retry the publication process.

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-06-22T17:51:37.670Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-pagarmev3
+slugEN: setting-up-payments-with-pagarmev3
 locale: en
 legacySlug: setting-up-payments-with-pagarmev3
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

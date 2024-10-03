@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: notifyme-report-generates-a-corrupted-file-when-there-are-no-skus-found
+slugEN: notifyme-report-generates-a-corrupted-file-when-there-are-no-skus-found
 locale: en
 kiStatus: Backlog
 internalReference: 956264

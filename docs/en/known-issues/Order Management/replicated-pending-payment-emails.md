@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: replicated-pending-payment-emails
+slugEN: replicated-pending-payment-emails
 locale: en
 kiStatus: No Fix
 internalReference: 348932

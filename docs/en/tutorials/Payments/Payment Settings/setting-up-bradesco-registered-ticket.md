@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-21T17:27:23.026Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slug: setting-up-bradesco-registered-ticket
+slugEN: setting-up-bradesco-registered-ticket
 locale: en
 legacySlug: setting-up-bradesco-registered-ticket
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

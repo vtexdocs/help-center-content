@@ -8,7 +8,7 @@ publishedAt: 2022-12-22T20:22:52.264Z
 firstPublishedAt: 2022-12-22T19:57:15.523Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: backend
+slugEN: backend
 locale: es
 trackId: 3fHF3GIjK8UugnQKIakpl9
 trackSlugES: desarrollo-de-la-tienda

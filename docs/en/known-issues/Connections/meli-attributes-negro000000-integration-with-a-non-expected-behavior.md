@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-attributes-negro000000-integration-with-a-non-expected-behavior
+slugEN: meli-attributes-negro000000-integration-with-a-non-expected-behavior
 locale: en
 kiStatus: No Fix
 internalReference: 660703

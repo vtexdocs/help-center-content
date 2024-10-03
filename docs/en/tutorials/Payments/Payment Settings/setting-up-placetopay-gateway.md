@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-07T20:58:14.903Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-placetopay-gateway
+slugEN: setting-up-placetopay-gateway
 locale: en
 legacySlug: setting-up-placetopay-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

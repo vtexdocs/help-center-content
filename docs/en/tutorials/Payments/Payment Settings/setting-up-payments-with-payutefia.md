@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-22T19:09:43.286Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-payutefia
+slugEN: setting-up-payments-with-payutefia
 locale: en
 legacySlug: setting-up-payments-with-payutefia
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

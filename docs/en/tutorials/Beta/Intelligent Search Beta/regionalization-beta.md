@@ -9,7 +9,7 @@ firstPublishedAt: 2021-10-25T20:06:30.150Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: regionalization-beta
+slugEN: regionalization-beta
 locale: en
 legacySlug: regionalization-beta
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF

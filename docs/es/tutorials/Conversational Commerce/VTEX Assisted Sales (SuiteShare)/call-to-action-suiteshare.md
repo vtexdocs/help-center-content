@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-29T20:54:39.941Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: call-to-action-suiteshare
+slugEN: call-to-action-suiteshare
 locale: es
 legacySlug: call-to-action
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

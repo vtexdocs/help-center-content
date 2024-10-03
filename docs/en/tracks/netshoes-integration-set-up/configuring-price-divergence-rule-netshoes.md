@@ -8,7 +8,7 @@ publishedAt: 2022-01-04T21:56:25.237Z
 firstPublishedAt: 2022-01-04T21:56:25.237Z
 contentType: trackArticle
 productTeam: Channels
-slug: configuring-price-divergence-rule-netshoes
+slugEN: configuring-price-divergence-rule-netshoes
 locale: en
 trackId: 5Ua87lhFg4m0kEcuyqmcCm
 trackSlugEN: netshoes-integration-set-up

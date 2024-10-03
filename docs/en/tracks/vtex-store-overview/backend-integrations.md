@@ -8,7 +8,7 @@ publishedAt: 2024-02-23T02:06:48.878Z
 firstPublishedAt: 2024-02-22T14:06:58.203Z
 contentType: trackArticle
 productTeam: Others
-slug: backend-integrations
+slugEN: backend-integrations
 locale: en
 trackId: eSDNk26pdvemF3XKM0nK9
 trackSlugEN: vtex-store-overview
@@ -164,7 +164,7 @@ There are three types of specifications, which should be created in the followin
 
 The diagram below illustrates this procedure.
 
-![catalog_specification_diagram_EN](https://images.ctfassets.net/alneenqid6w5/16tZGd00Gxeqk5awp711gz/2f813d423b73074446a2e2a743e22328/catalog_specification_diagram_EN.png)
+![catalog_specification_diagram_EN](//images.ctfassets.net/alneenqid6w5/16tZGd00Gxeqk5awp711gz/2f813d423b73074446a2e2a743e22328/catalog_specification_diagram_EN.png)
 
 Specifications follow the Catalog hierarchy. When a group is created within a department or category, it will be inherited by the subsequent lower levels. 
 

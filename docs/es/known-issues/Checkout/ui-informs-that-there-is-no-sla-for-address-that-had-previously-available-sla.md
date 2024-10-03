@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: ui-informs-that-there-is-no-sla-for-address-that-had-previously-available-sla
+slugEN: ui-informs-that-there-is-no-sla-for-address-that-had-previously-available-sla
 locale: es
 kiStatus: Fixed
 internalReference: 585249

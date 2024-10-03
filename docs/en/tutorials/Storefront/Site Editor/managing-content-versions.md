@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-16T16:27:38.316Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slug: managing-content-versions
+slugEN: managing-content-versions
 locale: en
 legacySlug: managing-content-versions
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3

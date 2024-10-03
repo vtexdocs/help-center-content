@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-indexing-report-total-section-calculation-error
+slugEN: catalog-indexing-report-total-section-calculation-error
 locale: en
 kiStatus: No Fix
 internalReference: 499450

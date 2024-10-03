@@ -9,7 +9,7 @@ firstPublishedAt: 2020-11-18T21:03:41.790Z
 contentType: tutorial
 productTeam: Financial
 author: 6MG4UmqXWpy4nggXB7KIai
-slug: pix-faq
+slugEN: pix-faq
 locale: en
 legacySlug: pix-faq
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

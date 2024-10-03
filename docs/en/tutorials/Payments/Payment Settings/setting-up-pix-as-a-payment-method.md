@@ -9,7 +9,7 @@ firstPublishedAt: 2020-11-11T12:32:03.317Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: setting-up-pix-as-a-payment-method
+slugEN: setting-up-pix-as-a-payment-method
 locale: en
 legacySlug: setting-up-pix-as-a-payment-method
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

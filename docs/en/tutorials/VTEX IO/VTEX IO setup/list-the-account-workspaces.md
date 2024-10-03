@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T22:46:32.112Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: list-the-account-workspaces
+slugEN: list-the-account-workspaces
 locale: en
 legacySlug: list-the-account-workspaces
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

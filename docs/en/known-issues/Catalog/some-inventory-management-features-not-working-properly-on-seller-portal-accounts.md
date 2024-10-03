@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: some-inventory-management-features-not-working-properly-on-seller-portal-accounts
+slugEN: some-inventory-management-features-not-working-properly-on-seller-portal-accounts
 locale: en
 kiStatus: Backlog
 internalReference: 1001665

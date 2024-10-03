@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 3rl7f1zxpm0O8MWgKEm6Qi
 tag: Logistics
-slug: freight-cutoff-time-isnt-respected-when-typed
+slugEN: freight-cutoff-time-isnt-respected-when-typed
 locale: en
 kiStatus: Fixed
 internalReference: 

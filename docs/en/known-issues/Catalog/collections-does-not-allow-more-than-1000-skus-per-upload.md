@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: collections-does-not-allow-more-than-1000-skus-per-upload
+slugEN: collections-does-not-allow-more-than-1000-skus-per-upload
 locale: en
 kiStatus: Backlog
 internalReference: 793274

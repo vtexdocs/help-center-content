@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-03-15T21:37:39.581Z
 contentType: trackArticle
 productTeam: Shopping
-slug: setting-up-the-logistics-for-instore
+slugEN: setting-up-the-logistics-for-instore
 locale: en
 trackId: 
 trackSlugEN: untitled-track

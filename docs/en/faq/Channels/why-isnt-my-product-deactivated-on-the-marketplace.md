@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:27.442Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
-slug: why-isnt-my-product-deactivated-on-the-marketplace
+slugEN: why-isnt-my-product-deactivated-on-the-marketplace
 locale: en
 legacySlug: why-isnt-my-product-deactivated-on-the-marketplace
 ---

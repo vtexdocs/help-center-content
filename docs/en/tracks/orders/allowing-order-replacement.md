@@ -8,7 +8,7 @@ publishedAt: 2024-04-01T17:58:20.948Z
 firstPublishedAt: 2019-11-18T12:20:58.872Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: allowing-order-replacement
+slugEN: allowing-order-replacement
 locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders

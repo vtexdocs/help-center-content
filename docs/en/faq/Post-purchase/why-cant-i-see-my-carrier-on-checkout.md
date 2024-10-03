@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:01:43.444Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
-slug: why-cant-i-see-my-carrier-on-checkout
+slugEN: why-cant-i-see-my-carrier-on-checkout
 locale: en
 legacySlug: why-cant-i-see-my-carrier-on-checkout
 ---

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-11T01:18:14.434Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: divergence-errors-between-vtex-and-amazon-catalogs-matching
+slugEN: divergence-errors-between-vtex-and-amazon-catalogs-matching
 locale: en
 legacySlug: divergence-errors-between-vtex-and-amazon-catalogs-matching
 subcategoryId: 4HBbKdnwneGew2qGGykSM8

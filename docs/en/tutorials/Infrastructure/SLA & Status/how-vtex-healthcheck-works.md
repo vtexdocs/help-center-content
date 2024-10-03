@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:13:46.649Z
 contentType: tutorial
 productTeam: Others
 author: authors_59
-slug: how-vtex-healthcheck-works
+slugEN: how-vtex-healthcheck-works
 locale: en
 legacySlug: how-vtex-healthcheck-works
 subcategoryId: 5PYkoNDZyo2G80yiiqG2YW

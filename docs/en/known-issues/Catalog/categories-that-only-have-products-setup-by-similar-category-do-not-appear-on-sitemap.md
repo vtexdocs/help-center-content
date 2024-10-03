@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: categories-that-only-have-products-setup-by-similar-category-do-not-appear-on-sitemap
+slugEN: categories-that-only-have-products-setup-by-similar-category-do-not-appear-on-sitemap
 locale: en
 kiStatus: Backlog
 internalReference: 1091727

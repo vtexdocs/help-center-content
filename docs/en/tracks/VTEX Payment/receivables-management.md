@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-05-29T17:50:17.208Z
 contentType: trackArticle
 productTeam: Financial
-slug: receivables-management
+slugEN: receivables-management
 locale: en
 trackId: 7iCCIoIZFmd9OabU6QlmXu
 trackSlugEN: VTEX Payment

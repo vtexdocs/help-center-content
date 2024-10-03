@@ -9,7 +9,7 @@ firstPublishedAt: 2022-05-05T16:29:41.407Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-aditum
+slugEN: setting-up-payments-with-aditum
 locale: en
 legacySlug: setting-up-payments-with-aditum
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

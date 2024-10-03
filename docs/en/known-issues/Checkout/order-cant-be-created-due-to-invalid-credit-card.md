@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: order-cant-be-created-due-to-invalid-credit-card
+slugEN: order-cant-be-created-due-to-invalid-credit-card
 locale: en
 kiStatus: Backlog
 internalReference: 607742

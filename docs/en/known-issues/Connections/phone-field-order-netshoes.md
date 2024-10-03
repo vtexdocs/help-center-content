@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: phone-field-order-netshoes
+slugEN: phone-field-order-netshoes
 locale: en
 kiStatus: Backlog
 internalReference: 599271

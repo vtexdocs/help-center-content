@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: delaytoautosettleafterantifraud-triggering-automatic-capture-even-without-antifraud
+slugEN: delaytoautosettleafterantifraud-triggering-automatic-capture-even-without-antifraud
 locale: en
 kiStatus: Backlog
 internalReference: 369633

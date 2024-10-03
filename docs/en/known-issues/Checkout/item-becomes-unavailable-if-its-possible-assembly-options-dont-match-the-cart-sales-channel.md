@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: item-becomes-unavailable-if-its-possible-assembly-options-dont-match-the-cart-sales-channel
+slugEN: item-becomes-unavailable-if-its-possible-assembly-options-dont-match-the-cart-sales-channel
 locale: en
 kiStatus: Fixed
 internalReference: 1083848

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-17T19:56:03.675Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_41
-slug: what-deleting-a-sku-seller-means
+slugEN: what-deleting-a-sku-seller-means
 locale: en
 legacySlug: what-deleting-a-sku-seller-means
 ---

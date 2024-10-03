@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:45.952Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: managing-warehouses
+slugEN: managing-warehouses
 locale: en
 legacySlug: registering-a-stock, managing-warehouses
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

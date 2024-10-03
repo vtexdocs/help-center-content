@@ -9,7 +9,7 @@ firstPublishedAt: 2023-02-09T02:16:48.830Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: importing-amazon-dba-orders
+slugEN: importing-amazon-dba-orders
 locale: en
 legacySlug: importing-amazon-dba-orders
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

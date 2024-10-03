@@ -8,7 +8,7 @@ publishedAt: 2024-09-04T13:41:08.540Z
 firstPublishedAt: 2024-05-31T20:52:02.358Z
 contentType: trackArticle
 productTeam: Channels
-slug: mapping-rappi-product-categories-and-attributes
+slugEN: mapping-rappi-product-categories-and-attributes
 locale: en
 trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugEN: rappi-integration

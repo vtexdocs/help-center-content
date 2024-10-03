@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: product-taxpercentage-value-saved-by-searchresolver-is-incorrect-due-to-rounding
+slugEN: product-taxpercentage-value-saved-by-searchresolver-is-incorrect-due-to-rounding
 locale: en
 kiStatus: No Fix
 internalReference: 470143

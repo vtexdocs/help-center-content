@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: put-price-overwrites-kit-price-logic
+slugEN: put-price-overwrites-kit-price-logic
 locale: en
 kiStatus: Backlog
 internalReference: 404486

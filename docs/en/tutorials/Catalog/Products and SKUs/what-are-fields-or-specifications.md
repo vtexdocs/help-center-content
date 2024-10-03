@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-25T21:40:16.186Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: what-are-fields-or-specifications
+slugEN: what-are-fields-or-specifications
 locale: en
 legacySlug: what-are-fields-or-specifications
 subcategoryId: pwxWmUu7T222QyuGogs68

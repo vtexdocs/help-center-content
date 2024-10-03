@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: dafiti-orders-that-are-in-awaiting-authorization-to-dispatch-at-vtex-but-are-still-paymentpending-at-dafiti
+slugEN: dafiti-orders-that-are-in-awaiting-authorization-to-dispatch-at-vtex-but-are-still-paymentpending-at-dafiti
 locale: en
 kiStatus: Fixed
 internalReference: 719606

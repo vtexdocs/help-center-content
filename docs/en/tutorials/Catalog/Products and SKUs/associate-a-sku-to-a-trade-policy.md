@@ -9,7 +9,7 @@ firstPublishedAt: 2021-03-30T17:34:49.644Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: associate-a-sku-to-a-trade-policy
+slugEN: associate-a-sku-to-a-trade-policy
 locale: en
 legacySlug: associate-a-sku-to-a-trade-policy
 subcategoryId: pwxWmUu7T222QyuGogs68

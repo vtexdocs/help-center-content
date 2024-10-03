@@ -8,7 +8,7 @@ publishedAt: 2022-11-18T22:40:52.699Z
 firstPublishedAt: 2019-06-25T19:06:00.689Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: catalog-architecture
+slugEN: catalog-architecture
 locale: en
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugEN: catalog-101

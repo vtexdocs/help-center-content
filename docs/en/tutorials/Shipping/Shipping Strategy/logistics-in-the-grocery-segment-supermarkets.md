@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:45.231Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: logistics-in-the-grocery-segment-supermarkets
+slugEN: logistics-in-the-grocery-segment-supermarkets
 locale: en
 legacySlug: logistics-in-the-grocery-segment-supermarkets
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
@@ -53,7 +53,7 @@ From average volumes (over 30 daily requests) on, the most recommended picking m
 1. Group all products, without order distinction. This reduces changes in product addressing.
 2. After the separation of the products, direct them to the area where orders are assembled. These waves can be organized by carrier, routes, docks or lot.
 
-![](https://images.contentful.com/alneenqid6w5/5rrGJF8WL60uOmgeEia08o/5b66179fe04f4fd6c1cddcd9c12f774f/pickingonda2.jpg)
+![](//images.contentful.com/alneenqid6w5/5rrGJF8WL60uOmgeEia08o/5b66179fe04f4fd6c1cddcd9c12f774f/pickingonda2.jpg)
 
 ## _Wave_ Picking _by lot_ favors packing
 
@@ -67,7 +67,7 @@ Due to the wide range of salable products in the grocery, "wave picking by lot" 
 6. Fragile
 7. Frozen
 
-![](https://images.contentful.com/alneenqid6w5/tepJVna9uoiKUqeUeOQM4/e9b1e3bca826f9a4bb8f662d34108339/mapa.jpg)
+![](//images.contentful.com/alneenqid6w5/tepJVna9uoiKUqeUeOQM4/e9b1e3bca826f9a4bb8f662d34108339/mapa.jpg)
 
 Besides being essential for separation, the lot is very important for Packing, once each lot type has its particular characteristics and requirements:
 
@@ -86,7 +86,7 @@ Examples: eggs, fruits, bomboniere, potatoes etc
 **7. Frozen: **must be transported in coolers, and remain preserved for up to 6 hours with the aid of ice. Ice should preferably be sealed in plastic containers in order to avoid water contact and to allow input reuse.
 Examples: Ice cream, desserts, breaded products, ready meals, burgers, snacks, etc.
 
-![](https://images.contentful.com/alneenqid6w5/ptgKUEgHBu4syuiuS46mS/ae31c4cbd90a04a8d0dc19a3e2a6b669/packing.jpg)
+![](//images.contentful.com/alneenqid6w5/ptgKUEgHBu4syuiuS46mS/ae31c4cbd90a04a8d0dc19a3e2a6b669/packing.jpg)
 
 ## Dispatch, transport and delivery
 

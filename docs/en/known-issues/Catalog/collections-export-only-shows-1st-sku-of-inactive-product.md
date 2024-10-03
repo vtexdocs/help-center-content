@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: collections-export-only-shows-1st-sku-of-inactive-product
+slugEN: collections-export-only-shows-1st-sku-of-inactive-product
 locale: en
 kiStatus: Backlog
 internalReference: 1040753

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-ui-shows-free-shipping-when-the-user-switches-the-delivery-options
+slugEN: checkout-ui-shows-free-shipping-when-the-user-switches-the-delivery-options
 locale: en
 kiStatus: Backlog
 internalReference: 897109

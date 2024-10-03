@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:42.979Z
 contentType: updates
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
-slug: b2w-integration-automate-picking-request-with-b2w-coleta
+slugEN: 2019-11-01-b2w-integration-automate-picking-request-with-b2w-coleta
 locale: en
 legacySlug: b2w-integration-automate-picking-request-with-b2w-coleta
 announcementImageID: ''

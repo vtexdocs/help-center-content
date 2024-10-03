@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-freight-quotation-for-multiple-officialstoreids
+slugEN: meli-freight-quotation-for-multiple-officialstoreids
 locale: en
 kiStatus: Fixed
 internalReference: 978358

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: diacritics-are-removed-on-catalogapi
+slugEN: diacritics-are-removed-on-catalogapi
 locale: en
 kiStatus: No Fix
 internalReference: 623345

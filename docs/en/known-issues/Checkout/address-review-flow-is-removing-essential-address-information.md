@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: address-review-flow-is-removing-essential-address-information
+slugEN: address-review-flow-is-removing-essential-address-information
 locale: en
 kiStatus: No Fix
 internalReference: 618756

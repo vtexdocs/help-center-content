@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:26:12.132Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_64
-slug: schemas-on-master-data
+slugEN: schemas-on-master-data
 locale: en
 legacySlug: 
 subcategoryId: 5gtjaqCG7eIseyCI0aSqc2

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-05-31T18:53:28.695Z
 contentType: tutorial
 productTeam: Others
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: shipping-options-beta
+slugEN: shipping-options-beta
 locale: pt
 legacySlug: delivery-options-beta
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
@@ -111,7 +111,7 @@ Além de editar uma opção de envio, no ícone menu <i class="fas fa-ellipsis-v
 
 Uma vez que você tenha opções de envio configuradas, elas vão aparecer em uma listagem em **Configurações da loja > Envio > Opções de envio**, conforme a imagem a seguir:
 
-![opcoes_envio_listagem_pt](https://images.ctfassets.net/alneenqid6w5/2MAxFwYr86Y2ErCyo7GRIN/713a7a5fa03c809e2bd0ad8b8abe60f5/opcoes_envio_listagem_pt.png)
+![opcoes_envio_listagem_pt](//images.ctfassets.net/alneenqid6w5/2MAxFwYr86Y2ErCyo7GRIN/713a7a5fa03c809e2bd0ad8b8abe60f5/opcoes_envio_listagem_pt.png)
 
 A tabela abaixo contém a descrição das colunas apresentadas:
 

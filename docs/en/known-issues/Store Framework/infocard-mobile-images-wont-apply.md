@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: infocard-mobile-images-wont-apply
+slugEN: infocard-mobile-images-wont-apply
 locale: en
 kiStatus: Backlog
 internalReference: 909647

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: change-the-number-of-characters-in-the-braspag-slip
+slugEN: change-the-number-of-characters-in-the-braspag-slip
 locale: en
 kiStatus: Backlog
 internalReference: 771045

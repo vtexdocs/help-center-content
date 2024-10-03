@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-20T22:13:13.268Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: amaro-integration
+slugEN: amaro-integration
 locale: en
 legacySlug: amaro-integration
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

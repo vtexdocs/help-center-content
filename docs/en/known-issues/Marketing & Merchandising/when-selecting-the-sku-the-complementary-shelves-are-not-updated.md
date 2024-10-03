@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: when-selecting-the-sku-the-complementary-shelves-are-not-updated
+slugEN: when-selecting-the-sku-the-complementary-shelves-are-not-updated
 locale: en
 kiStatus: Backlog
 internalReference: 

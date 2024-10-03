@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:00:42.453Z
 contentType: tutorial
 productTeam: Financial
 author: authors_24
-slug: how-to-configure-the-fingerprint-device-for-stelo
+slugEN: how-to-configure-the-fingerprint-device-for-stelo
 locale: en
 legacySlug: how-to-configure-the-fingerprint-device-for-stelo
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
@@ -44,13 +44,13 @@ window.vtex.deviceFingerprint = match[1];
 </script>
 ```
 
-1. Click on **Acionamento**, Novo acionador (**+** symbol in the top right corner) and on **Configuração do acionador.**![Tela2](https://images.contentful.com/alneenqid6w5/6uwEr6KGJyOCcigIMCcUoS/4142ad24f3121bee1fea9d55069d10a6/Tela2.jpg)
+1. Click on **Acionamento**, Novo acionador (**+** symbol in the top right corner) and on **Configuração do acionador.**![Tela2](//images.contentful.com/alneenqid6w5/6uwEr6KGJyOCcigIMCcUoS/4142ad24f3121bee1fea9d55069d10a6/Tela2.jpg)
 2. Select **Evento personalizado** and enter the name **payment**.
 2. Select the flag **Alguns eventos personalizados**.
-3. In the first two boxes underneath, select: **Event** and **é igual a**. In the third one, type **payment**.![Tela3](https://images.contentful.com/alneenqid6w5/5sbXgbm4g0yysWKSwmYWI0/e7d605639093f30aff58bff0efef2ae4/Tela3.jpg)
+3. In the first two boxes underneath, select: **Event** and **é igual a**. In the third one, type **payment**.![Tela3](//images.contentful.com/alneenqid6w5/5sbXgbm4g0yysWKSwmYWI0/e7d605639093f30aff58bff0efef2ae4/Tela3.jpg)
 4. Save the trigger and the tag.
 5. In the side menu, click on **Variáveis** and then **Nova**.
-6. Click on **Configuração da variável** and select **JavaScript personalizado**.![Tela4](https://images.contentful.com/alneenqid6w5/3I7Eq6Jt2wkYg6EoKAkCqC/91cca1c81534bbbc76e70db8f94be13a/Tela4.jpg)
+6. Click on **Configuração da variável** and select **JavaScript personalizado**.![Tela4](//images.contentful.com/alneenqid6w5/3I7Eq6Jt2wkYg6EoKAkCqC/91cca1c81534bbbc76e70db8f94be13a/Tela4.jpg)
 
 Enter the following script:
 

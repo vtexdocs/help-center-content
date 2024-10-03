@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-14T13:21:45.782Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-yuno
+slugEN: setting-up-payments-with-yuno
 locale: en
 legacySlug: setting-up-payments-with-yuno
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

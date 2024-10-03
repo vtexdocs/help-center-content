@@ -9,7 +9,7 @@ firstPublishedAt: 2022-04-06T19:23:22.326Z
 contentType: tutorial
 productTeam: Reliability
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: best-practices-against-virtual-attacks
+slugEN: best-practices-against-virtual-attacks
 locale: en
 legacySlug: best-practices-against-virtual-attacks
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: using-many-filters-in-the-oms-list-affects-the-results-in-the-report
+slugEN: using-many-filters-in-the-oms-list-affects-the-results-in-the-report
 locale: en
 kiStatus: Fixed
 internalReference: 756198

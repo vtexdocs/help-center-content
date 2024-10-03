@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:43.488Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_3
-slug: importing-data-into-master-data
+slugEN: importing-data-into-master-data
 locale: en
 legacySlug: importing-data-into-master-data
 subcategoryId: 2AThnkEZAYbk4G4EIs53rL

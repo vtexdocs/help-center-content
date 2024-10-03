@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-15T14:55:42.314Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-zip
+slugEN: setting-up-payments-with-zip
 locale: en
 legacySlug: setting-up-payments-with-zip
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

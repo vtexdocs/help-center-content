@@ -9,7 +9,7 @@ firstPublishedAt: 2022-06-02T18:56:44.116Z
 contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slug: faq-security-restricted-content
+slugEN: faq-security-restricted-content
 locale: en
 legacySlug: faq-security-restricted-content
 subcategoryId: unknown-subcategory

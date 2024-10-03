@@ -8,7 +8,7 @@ publishedAt: 2024-05-03T21:12:11.696Z
 firstPublishedAt: 2024-05-03T20:57:29.358Z
 contentType: trackArticle
 productTeam: Others
-slug: technical-and-administrative-measures
+slugEN: technical-and-administrative-measures
 locale: en
 trackId: 4Lc0i0an0DgnEtB0AUwlcq
 trackSlugEN: data-and-privacy

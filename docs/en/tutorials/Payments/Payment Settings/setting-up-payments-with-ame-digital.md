@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-14T17:35:18.865Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-ame-digital
+slugEN: setting-up-payments-with-ame-digital
 locale: en
 legacySlug: setting-up-payments-with-ame-digital
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: something-went-wrong-error-is-displayed-in-the-catalog-admin
+slugEN: something-went-wrong-error-is-displayed-in-the-catalog-admin
 locale: en
 kiStatus: Backlog
 internalReference: 907567

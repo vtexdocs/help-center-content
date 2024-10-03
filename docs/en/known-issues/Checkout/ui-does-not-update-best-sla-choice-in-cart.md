@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: ui-does-not-update-best-sla-choice-in-cart
+slugEN: ui-does-not-update-best-sla-choice-in-cart
 locale: en
 kiStatus: No Fix
 internalReference: 550201

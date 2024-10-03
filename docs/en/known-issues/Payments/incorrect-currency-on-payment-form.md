@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: incorrect-currency-on-payment-form
+slugEN: incorrect-currency-on-payment-form
 locale: en
 kiStatus: No Fix
 internalReference: 449286

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-search-api-limited-to-2500-results
+slugEN: catalog-search-api-limited-to-2500-results
 locale: en
 kiStatus: Backlog
 internalReference: 891184

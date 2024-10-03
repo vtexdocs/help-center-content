@@ -9,7 +9,7 @@ firstPublishedAt: 2019-05-16T17:47:39.017Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: is-it-possible-to-change-data-directly-in-a-master-workspace
+slugEN: is-it-possible-to-change-data-directly-in-a-master-workspace
 locale: en
 legacySlug: is-it-possible-to-change-data-directly-in-a-master-workspace
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

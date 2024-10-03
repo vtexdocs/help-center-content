@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: meta-tag-description-is-cut-in-google-search-results
+slugEN: meta-tag-description-is-cut-in-google-search-results
 locale: en
 kiStatus: Backlog
 internalReference: 

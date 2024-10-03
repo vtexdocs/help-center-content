@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: some-functions-of-the-sticky-layout-component-wont-work-as-expected-when-viewed-through-safari-browser
+slugEN: some-functions-of-the-sticky-layout-component-wont-work-as-expected-when-viewed-through-safari-browser
 locale: en
 kiStatus: Backlog
 internalReference: 868535

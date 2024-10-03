@@ -9,7 +9,7 @@ firstPublishedAt: 2022-09-19T21:40:22.913Z
 contentType: tutorial
 productTeam: Reliability
 author: 1malnhMX0vPThsaJaZMYm2
-slug: redirect-from-other-addresses
+slugEN: redirect-from-other-addresses
 locale: en
 legacySlug: 
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy

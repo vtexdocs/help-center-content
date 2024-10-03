@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: price-export-incomplete-when-using-category-filters
+slugEN: price-export-incomplete-when-using-category-filters
 locale: en
 kiStatus: Backlog
 internalReference: 753466

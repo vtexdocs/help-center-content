@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: error-sww-on-product-pdp
+slugEN: error-sww-on-product-pdp
 locale: en
 kiStatus: Backlog
 internalReference: 738108

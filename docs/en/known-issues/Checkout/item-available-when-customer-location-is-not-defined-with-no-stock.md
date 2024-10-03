@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: item-available-when-customer-location-is-not-defined-with-no-stock
+slugEN: item-available-when-customer-location-is-not-defined-with-no-stock
 locale: en
 kiStatus: Backlog
 internalReference: 1073363

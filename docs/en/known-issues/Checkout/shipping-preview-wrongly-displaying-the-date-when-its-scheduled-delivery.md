@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: shipping-preview-wrongly-displaying-the-date-when-its-scheduled-delivery
+slugEN: shipping-preview-wrongly-displaying-the-date-when-its-scheduled-delivery
 locale: en
 kiStatus: No Fix
 internalReference: 743774

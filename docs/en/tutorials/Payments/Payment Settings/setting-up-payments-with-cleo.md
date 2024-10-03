@@ -9,7 +9,7 @@ firstPublishedAt: 2022-10-18T18:49:30.316Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-cleo
+slugEN: setting-up-payments-with-cleo
 locale: en
 legacySlug: setting-up-payments-with-cleo
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:25.817Z
 contentType: tutorial
 productTeam: Financial
 author: authors_24
-slug: how-to-configure-notifications
+slugEN: how-to-configure-notifications
 locale: en
 legacySlug: how-to-configure-notifications
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

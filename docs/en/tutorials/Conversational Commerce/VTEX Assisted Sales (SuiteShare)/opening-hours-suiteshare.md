@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-31T13:30:23.320Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: opening-hours-suiteshare
+slugEN: opening-hours-suiteshare
 locale: en
 legacySlug: opening-hours-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

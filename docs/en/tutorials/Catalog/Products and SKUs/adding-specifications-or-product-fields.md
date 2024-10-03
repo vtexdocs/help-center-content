@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:43.197Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: adding-specifications-or-product-fields
+slugEN: adding-specifications-or-product-fields
 locale: en
 legacySlug: creating-a-product-field
 subcategoryId: pwxWmUu7T222QyuGogs68
@@ -78,7 +78,7 @@ To create a product field, follow the steps below:
     * **Active**: Inserts or removes this field when adding the product (**Specifications** tab).
 7. Click `Save`. 
 
-![product-spec-1](https://images.ctfassets.net/alneenqid6w5/5Y8LnWHVXSvRbqtMNBLSRq/d63d7b135d47717c567f77769ded7998/EN_ProdutoGif_1_Alterado.gif)
+![product-spec-1](//images.ctfassets.net/alneenqid6w5/5Y8LnWHVXSvRbqtMNBLSRq/d63d7b135d47717c567f77769ded7998/EN_ProdutoGif_1_Alterado.gif)
 
 #### Product field types
 
@@ -144,7 +144,7 @@ For the **Combo**, **Radio** and **CheckBox** field types, you must add preset v
 
     The created values will be displayed in the Product **Specifications** tab.
 
-![product-spec-2](https://images.ctfassets.net/alneenqid6w5/5F0K7fQTFOf2b7opIrgpP6/c8c76e2f734ee038be20a6c273fdf987/EN_ProdutoGif_2_Alterado.gif)
+![product-spec-2](//images.ctfassets.net/alneenqid6w5/5F0K7fQTFOf2b7opIrgpP6/c8c76e2f734ee038be20a6c273fdf987/EN_ProdutoGif_2_Alterado.gif)
 
 >ℹ️ If you are adding values for the first time in a field, you must return to the form of that specific field and check the **Active** option.
 
@@ -184,7 +184,7 @@ To fill in the specifications for each product individually, follow the instruct
 
 6. Click `Save`.
 
-![product-spec-3](https://images.ctfassets.net/alneenqid6w5/7B2L2oEoPQkPU2EJDowsxx/80503bcee1eddc3c30cc9b6eee05a4f5/EN_ProdutoGif_3_Alterado.gif)
+![product-spec-3](//images.ctfassets.net/alneenqid6w5/7B2L2oEoPQkPU2EJDowsxx/80503bcee1eddc3c30cc9b6eee05a4f5/EN_ProdutoGif_3_Alterado.gif)
 
 #### Spreadsheet
 
@@ -207,7 +207,7 @@ To fill in product specifications in bulk by spreadsheet, you need to export the
 9. Click **Select** to select the file with the completed spreadsheet on your computer.
 10. Click `Import`.
 
-![product-spec-4](https://images.ctfassets.net/alneenqid6w5/747pr0ISwE9GrNBjC4kKjL/0bc27b7b0d9e41dc649b057c20aaf90f/EN_ProdutoGif_4_Alterado.gif)
+![product-spec-4](//images.ctfassets.net/alneenqid6w5/747pr0ISwE9GrNBjC4kKjL/0bc27b7b0d9e41dc649b057c20aaf90f/EN_ProdutoGif_4_Alterado.gif)
 
 ## Learn more
 - [Adding SKU specifications or fields](https://help.vtex.com/en/tutorial/adding-sku-specifications-or-fields--tutorials_119)

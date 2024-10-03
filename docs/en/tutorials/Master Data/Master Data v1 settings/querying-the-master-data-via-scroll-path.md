@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:18.176Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_64
-slug: querying-the-master-data-via-scroll-path
+slugEN: querying-the-master-data-via-scroll-path
 locale: en
 legacySlug: querying-the-master-data-via-scroll-path
 subcategoryId: WpbGhubuRZaNZilJSXnqu

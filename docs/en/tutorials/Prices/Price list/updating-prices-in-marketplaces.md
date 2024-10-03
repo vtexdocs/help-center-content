@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:22.797Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 56yU9Wz6mLwmzo82TjgAHy
-slug: updating-prices-in-marketplaces
+slugEN: updating-prices-in-marketplaces
 locale: en
 legacySlug: updating-prices-for-marketplace
 subcategoryId: 4id9W3RDyw02CasOm2C2iy

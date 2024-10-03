@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-11T11:44:57.116Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: how-to-delete-a-website
+slugEN: how-to-delete-a-website
 locale: en
 legacySlug: how-to-delete-a-website
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

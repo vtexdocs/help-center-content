@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-17T14:23:01.073Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-puntos-colombia
+slugEN: setting-up-payments-with-puntos-colombia
 locale: en
 legacySlug: setting-up-payments-with-puntos-colombia
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

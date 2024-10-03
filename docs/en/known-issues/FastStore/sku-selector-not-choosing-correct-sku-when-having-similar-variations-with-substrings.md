@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: sku-selector-not-choosing-correct-sku-when-having-similar-variations-with-substrings
+slugEN: sku-selector-not-choosing-correct-sku-when-having-similar-variations-with-substrings
 locale: en
 kiStatus: Fixed
 internalReference: 1047992

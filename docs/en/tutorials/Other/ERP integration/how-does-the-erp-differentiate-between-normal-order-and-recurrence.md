@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:06:32.659Z
 contentType: tutorial
 productTeam: Others
 author: authors_61
-slug: how-does-the-erp-differentiate-between-normal-order-and-recurrence
+slugEN: how-does-the-erp-differentiate-between-normal-order-and-recurrence
 locale: en
 legacySlug: how-does-the-erp-differentiate-between-normal-order-and-recurrence
 subcategoryId: 5fKgQZhrCw88ACy6Su6GUc

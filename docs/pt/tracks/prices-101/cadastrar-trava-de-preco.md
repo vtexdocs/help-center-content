@@ -8,7 +8,7 @@ publishedAt: 2024-08-26T18:38:52.888Z
 firstPublishedAt: 2019-07-17T19:48:12.477Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: cadastrar-trava-de-preco
+slugEN: cadastrar-trava-de-preco
 locale: pt
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugPT: precos-101

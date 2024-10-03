@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
-slug: magazine-luiza-tracking-erro-data-de-entrega-ao-cliente-deve-ser-maior-que-a-data-de-despacho-e-deve-ser-igual-ou-menor-a-data-de-hoje
+slugEN: magazine-luiza-tracking-erro-data-de-entrega-ao-cliente-deve-ser-maior-que-a-data-de-despacho-e-deve-ser-igual-ou-menor-a-data-de-hoje
 locale: pt
 kiStatus: Backlog
 internalReference: 856984

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:13.181Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: deleting-a-category
+slugEN: deleting-a-category
 locale: en
 legacySlug: deleting-a-category
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec

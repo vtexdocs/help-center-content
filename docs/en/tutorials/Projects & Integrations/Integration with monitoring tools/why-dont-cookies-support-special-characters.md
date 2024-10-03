@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:55:08.804Z
 contentType: tutorial
 productTeam: Reliability
 author: authors_35
-slug: why-dont-cookies-support-special-characters
+slugEN: why-dont-cookies-support-special-characters
 locale: en
 legacySlug: why-dont-cookies-support-special-characters
 subcategoryId: 1luKrYptdi8WoMYckakUaM

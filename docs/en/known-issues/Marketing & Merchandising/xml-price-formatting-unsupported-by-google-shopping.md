@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: xml-price-formatting-unsupported-by-google-shopping
+slugEN: xml-price-formatting-unsupported-by-google-shopping
 locale: en
 kiStatus: Backlog
 internalReference: 

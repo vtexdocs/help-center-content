@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: unknown
-slug: o-que-e-gestao-de-banners
+slugEN: o-que-e-gestao-de-banners
 locale: pt
 trackId: 
 trackSlugPT: untitled-track

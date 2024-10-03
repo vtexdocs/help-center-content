@@ -3,13 +3,13 @@ title: 'Payment Provider Protocol '
 id: RdsT2spdq80MMwwOeEq0m
 status: PUBLISHED
 createdAt: 2018-01-02T15:40:00.920Z
-updatedAt: 2024-07-24T13:58:10.009Z
-publishedAt: 2024-07-24T13:58:10.009Z
+updatedAt: 2024-09-27T19:03:03.280Z
+publishedAt: 2024-09-27T19:03:03.280Z
 firstPublishedAt: 2018-01-02T17:53:48.934Z
 contentType: tutorial
 productTeam: Financial
 author: 4PrB9ACaQ8S0oO4wOmOuUu
-slug: payment-provider-protocol
+slugEN: payment-provider-protocol
 locale: en
 legacySlug: payment-provider-protocol
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
@@ -114,7 +114,7 @@ Then, you will find a form with three sections: Service information, Payment met
 
 >ℹ️ The gateway saves the store credentials configured in the affiliation and sends them in the X-VTEX-API-AppKey and X-VTEX-API-AppToken headers. The exceptions are integrations developed using VTEX IO, for which the headers will be sent as x-provider-api-appKey and x-provider-api-appToken. If you are developing using the [Payment Provider Framework (IO)](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework), this is configured by the usesProviderHeadersName option. See the available settings [here](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework#available-configurable-options).
 
-![Payment Provider Test Suite 0](https://images.ctfassets.net/alneenqid6w5/3V1eMOFEQ8Mg4ygC46G4AY/15d41dae35aaa91f3dd9b55e1bdcee1f/Payment_Provider_Test_Suite_0.jpg)
+![Payment Provider Test Suite 0](//images.ctfassets.net/alneenqid6w5/3V1eMOFEQ8Mg4ygC46G4AY/15d41dae35aaa91f3dd9b55e1bdcee1f/Payment_Provider_Test_Suite_0.jpg)
 
 #### Payment method
 
@@ -124,7 +124,7 @@ After completing the Service URL field, Test Suite will validate the[ Manifest e
 
 In this section, you need to select the cases you want to test. If you are testing a credit card method, your integration must pass the Approved, Denied, Cancellation, Async Approved, and Async Denied cases. Only the Redirect flow is required for a payment method with [redirect](https://developers.vtex.com/docs/guides/payments-integration-purchase-flows#redirect).
 
-![ppp-config-en](https://images.ctfassets.net/alneenqid6w5/5s70iVRPAnrikX88iv8fn1/d49d66d80caa61f70720395a5dfca49b/image.png)
+![ppp-config-en](//images.ctfassets.net/alneenqid6w5/5s70iVRPAnrikX88iv8fn1/d49d66d80caa61f70720395a5dfca49b/image.png)
 
 ### 4. Testing
 
@@ -153,20 +153,22 @@ Use the following numbers to identify how to correctly respond to each credit ca
 
 After running the tests, the system will display the Test Report, where you can see the detailed results of each test case. This way, you can have more visibility into what should be adjusted if an error occurs.
 
-![Payment Provider Test Suite 2_EN](https://images.ctfassets.net/alneenqid6w5/6o9b9Wz3tSKiU6mwEssEgs/ee1f759bf436aa38fff080f561ce4eb7/Payment_Provider_Test_Suite_2_EN.JPG)
+![Payment Provider Test Suite 2_EN](//images.ctfassets.net/alneenqid6w5/6o9b9Wz3tSKiU6mwEssEgs/ee1f759bf436aa38fff080f561ce4eb7/Payment_Provider_Test_Suite_2_EN.JPG)
 
 To see the messages exchanged between Test Suite and the payment provider implementation, click the Inspect Log button for the test case you want. A modal will open showing the message list and the payload of each request and response. The button in the upper right corner allows you to copy the code to the clipboard.
 
-![Payment Provider Test Suite Logs_EN](https://images.ctfassets.net/alneenqid6w5/3FCFc1FA7L6ILyXB8NSmA3/87c2ba89961c5bf5a73532ea073b4083/Payment_Provider_Test_Suite_Logs_en.JPG)
+![Payment Provider Test Suite Logs_EN](//images.ctfassets.net/alneenqid6w5/3FCFc1FA7L6ILyXB8NSmA3/87c2ba89961c5bf5a73532ea073b4083/Payment_Provider_Test_Suite_Logs_en.JPG)
 
 ## Payment protocol flow
 Here we explain the integrated payment stream in detail. The image below illustrates the entire flow, showing VTEX Payments and the responsibilities of your supplier.
 
 It all starts with requesting a new payment after the creation of a new order. VTEX creates a new payment representation and proceeds to the payments processing.
 
-![fluxo-atualizado-ppp](https://images.ctfassets.net/alneenqid6w5/7lQZhSFEff1iaN7t2UVVNE/2890bc7073210c268d7d429d0162c9b7/FLUXO1.png)
+![fluxo-atualizado-ppp](//images.ctfassets.net/alneenqid6w5/7lQZhSFEff1iaN7t2UVVNE/2890bc7073210c268d7d429d0162c9b7/FLUXO1.png)
 
 >ℹ️ The default period of 7 days for asynchronous payment retries is only applied when the user does not specify a value in the `delayToCancel` field of the [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments) endpoint or when sending the callbackURL.
+
+>⚠️ The maximum value allowed for the `delayToCancel` field is 30 days (2592000 seconds).  
 
 ### Payment Authorization
 
@@ -181,7 +183,7 @@ In any case, once the processing is completed and the provider has a final statu
 
 The complete flow with __undefined__ status and use of notification can be seen below:
 
-![Payment authorization callback notification flow](https://images.ctfassets.net/alneenqid6w5/2jMjUV7EZuzqN5L1OCQgIJ/a72be587d650da053ecbe220a5daa642/image1.png)
+![Payment authorization callback notification flow](//images.ctfassets.net/alneenqid6w5/2jMjUV7EZuzqN5L1OCQgIJ/a72be587d650da053ecbe220a5daa642/image1.png)
 
 1. The payment authorization is initiated when the gateway calls the Create Payment (__/payment__) endpoint for the provider. The `callbackUrl` field is submitted in the body of the request and contains the URL to send the notification.
 2. The payment occurs asynchronously (it does not generate the final status when the transaction is initiated). The gateway then receives the response with __undefined__ status and waits for the payment processing to be completed. Finally, once the processing is completed, the final status (__approved__ or __denied__) is updated.
@@ -190,7 +192,7 @@ The complete flow with __undefined__ status and use of notification can be seen 
 
 The complete flow with __undefined__ status and use of __retry__ can be seen below:
 
-![Payment authorization callback retry flow](https://images.ctfassets.net/alneenqid6w5/5kGkX4QGLUPNfclwMdibax/3f43bcbf5d48a9c459b553ca6ad7b216/image2.png)
+![Payment authorization callback retry flow](//images.ctfassets.net/alneenqid6w5/5kGkX4QGLUPNfclwMdibax/3f43bcbf5d48a9c459b553ca6ad7b216/image2.png)
 
 1. The payment authorization is initiated when the gateway calls the Create Payment (__/payment__) endpoint for the provider. The `callbackUrl` field is submitted in the body of the request and contains the URL of the retry endpoint.
 2. The payment occurs asynchronously (it does not generate the final status when the transaction is initiated). The gateway then receives the response with __undefined__ status and waits for the payment processing to be completed. Finally, once the processing is completed, the final status (__approved__ or __denied__) is updated.

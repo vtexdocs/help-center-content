@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: orderbybestdiscount-returns-the-wrong-sorting-order
+slugEN: orderbybestdiscount-returns-the-wrong-sorting-order
 locale: en
 kiStatus: Backlog
 internalReference: 

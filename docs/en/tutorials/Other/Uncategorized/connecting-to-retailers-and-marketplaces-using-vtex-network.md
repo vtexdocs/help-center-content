@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:18.046Z
 contentType: tutorial
 productTeam: Others
 author: authors_24
-slug: connecting-to-retailers-and-marketplaces-using-vtex-network
+slugEN: connecting-to-retailers-and-marketplaces-using-vtex-network
 locale: en
 legacySlug: connecting-to-retailers-and-marketplaces-using-vtex-network
 subcategoryId: 54gbzsku02c4bKmgFbp3v3

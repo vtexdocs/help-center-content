@@ -8,7 +8,7 @@ publishedAt: 2020-12-29T15:20:14.835Z
 contentType: updates
 productTeam: Financial
 author: 5WE9zkDdoqqUMRbxIgmp1o
-slug: affiliations-with-native-split-and-seller-change
+slugEN: 2020-12-22-affiliations-with-native-split-and-seller-change
 locale: en
 legacySlug: affiliations-with-native-split-and-seller-change
 announcementImageID: ''

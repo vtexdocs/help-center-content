@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:37.766Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-work-with-different-layouts-for-the-same-page
+slugEN: how-to-work-with-different-layouts-for-the-same-page
 locale: en
 legacySlug: how-to-work-with-different-layouts-for-the-same-page
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

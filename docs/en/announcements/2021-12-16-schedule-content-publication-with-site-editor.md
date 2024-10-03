@@ -8,7 +8,7 @@ publishedAt: 2021-12-21T17:23:48.504Z
 contentType: updates
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slug: schedule-content-publication-with-site-editor
+slugEN: 2021-12-16-schedule-content-publication-with-site-editor
 locale: en
 legacySlug: schedule-content-publication-with-site-editor
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T15:56:36.034Z
 firstPublishedAt: 2021-08-05T14:45:44.463Z
 contentType: trackArticle
 productTeam: Shopping
-slug: customer-identification
+slugEN: customer-identification
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-using-the-app

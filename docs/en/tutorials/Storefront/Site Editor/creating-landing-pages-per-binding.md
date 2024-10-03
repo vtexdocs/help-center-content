@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-07T02:16:57.065Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 6AcGyun1hSWewU8YcaQiO
-slug: creating-landing-pages-per-binding
+slugEN: creating-landing-pages-per-binding
 locale: en
 legacySlug: creating-landing-pages-per-binding
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3

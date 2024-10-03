@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-19T16:36:22.221Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-the-issuing-bank
+slugEN: what-is-the-issuing-bank
 locale: en
 legacySlug: what-is-the-issuing-bank
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

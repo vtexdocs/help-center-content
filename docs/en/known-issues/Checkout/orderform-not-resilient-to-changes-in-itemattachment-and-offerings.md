@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: orderform-not-resilient-to-changes-in-itemattachment-and-offerings
+slugEN: orderform-not-resilient-to-changes-in-itemattachment-and-offerings
 locale: en
 kiStatus: Backlog
 internalReference: 334191

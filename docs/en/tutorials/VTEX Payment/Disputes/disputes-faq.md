@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-30T18:48:57.352Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: disputes-faq
+slugEN: disputes-faq
 locale: en
 legacySlug: disputes-faq
 subcategoryId: 204Hz794zvcUIJXLcShY43

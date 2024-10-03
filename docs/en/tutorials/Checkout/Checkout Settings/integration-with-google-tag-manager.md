@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:13:48.493Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: integration-with-google-tag-manager
+slugEN: integration-with-google-tag-manager
 locale: en
 legacySlug: integration-with-google-tag-manager
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

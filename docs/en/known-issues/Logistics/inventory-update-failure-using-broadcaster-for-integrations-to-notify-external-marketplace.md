@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: inventory-update-failure-using-broadcaster-for-integrations-to-notify-external-marketplace
+slugEN: inventory-update-failure-using-broadcaster-for-integrations-to-notify-external-marketplace
 locale: en
 kiStatus: Fixed
 internalReference: 549645

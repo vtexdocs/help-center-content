@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:33.970Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
-slug: why-isnt-the-order-invoiced-on-the-marketplace
+slugEN: why-isnt-the-order-invoiced-on-the-marketplace
 locale: en
 legacySlug: why-isnt-the-order-invoiced-on-the-marketplace
 ---

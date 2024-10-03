@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: sitemap-isnt-being-generatedupdated
+slugEN: sitemap-isnt-being-generatedupdated
 locale: en
 kiStatus: Fixed
 internalReference: 827104

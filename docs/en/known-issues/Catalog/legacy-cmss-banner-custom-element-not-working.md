@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: legacy-cmss-banner-custom-element-not-working
+slugEN: legacy-cmss-banner-custom-element-not-working
 locale: en
 kiStatus: Backlog
 internalReference: 978466

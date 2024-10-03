@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-03T15:04:37.336Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-bluepay
+slugEN: setting-up-payments-with-bluepay
 locale: en
 legacySlug: setting-up-payments-with-bluepay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

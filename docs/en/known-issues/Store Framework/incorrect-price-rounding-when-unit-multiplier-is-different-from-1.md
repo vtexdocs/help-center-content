@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: incorrect-price-rounding-when-unit-multiplier-is-different-from-1
+slugEN: incorrect-price-rounding-when-unit-multiplier-is-different-from-1
 locale: en
 kiStatus: Backlog
 internalReference: 426275

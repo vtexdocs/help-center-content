@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:39.005Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: shelf-template-controls
+slugEN: shelf-template-controls
 locale: en
 legacySlug: shelf-template-controls
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

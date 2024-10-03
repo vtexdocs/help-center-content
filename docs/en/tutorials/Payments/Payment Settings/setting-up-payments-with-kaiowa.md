@@ -1,15 +1,15 @@
 ---
 title: 'Setting up payments with Kaiowa'
 id: 1QfsSpAF0CHQFVd9qSGcA5
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-04-06T18:20:04.972Z
-updatedAt: 2024-01-23T17:58:45.045Z
-publishedAt: 2024-01-23T17:58:45.045Z
+updatedAt: 2024-10-03T15:19:03.459Z
+publishedAt: 
 firstPublishedAt: 2023-04-06T18:26:07.966Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-kaiowa
+slugEN: setting-up-payments-with-kaiowa
 locale: en
 legacySlug: setting-up-payments-with-kaiowa
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

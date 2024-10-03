@@ -9,7 +9,7 @@ firstPublishedAt: 2022-06-22T19:48:18.050Z
 contentType: tutorial
 productTeam: Apps
 author: 1malnhMX0vPThsaJaZMYm2
-slug: assembly-options-app
+slugEN: assembly-options-app
 locale: en
 legacySlug: assembly-options-app
 subcategoryId: 3xpuy7xGlzKKg6vxqiExZ2

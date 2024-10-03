@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: authors_63
 tag: My Orders
-slug: untitled
+slugEN: untitled
 locale: es
 kiStatus: Open
 internalReference: 

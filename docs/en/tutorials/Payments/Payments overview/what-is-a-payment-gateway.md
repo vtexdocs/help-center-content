@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-20T16:14:02.150Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-a-payment-gateway
+slugEN: what-is-a-payment-gateway
 locale: en
 legacySlug: what-is-a-payment-gateway
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

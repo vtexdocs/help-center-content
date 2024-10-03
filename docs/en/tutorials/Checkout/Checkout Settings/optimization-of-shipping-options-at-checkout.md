@@ -9,7 +9,7 @@ firstPublishedAt: 2022-05-27T12:33:12.618Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: optimization-of-shipping-options-at-checkout
+slugEN: optimization-of-shipping-options-at-checkout
 locale: en
 legacySlug: optimization-of-shipping-options-at-checkout
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-size-chart-not-working-for-sizes-with-letters
+slugEN: meli-size-chart-not-working-for-sizes-with-letters
 locale: en
 kiStatus: Fixed
 internalReference: 867262

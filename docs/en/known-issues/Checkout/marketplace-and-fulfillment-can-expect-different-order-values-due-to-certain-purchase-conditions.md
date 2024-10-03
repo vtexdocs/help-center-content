@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: marketplace-and-fulfillment-can-expect-different-order-values-due-to-certain-purchase-conditions
+slugEN: marketplace-and-fulfillment-can-expect-different-order-values-due-to-certain-purchase-conditions
 locale: en
 kiStatus: Backlog
 internalReference: 1032473

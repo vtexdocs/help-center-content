@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: authors_84
 tag: Intelligent Search
-slug: promotions-resulting-in-wrong-sorting-filtering-by-price-or-discount
+slugEN: promotions-resulting-in-wrong-sorting-filtering-by-price-or-discount
 locale: en
 kiStatus: Backlog
 internalReference: 888304

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T22:26:53.081Z
 contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
-slug: what-is-an-account-for-vtex-io
+slugEN: what-is-an-account-for-vtex-io
 locale: en
 legacySlug: what-is-an-account-for-vtex-io
 ---

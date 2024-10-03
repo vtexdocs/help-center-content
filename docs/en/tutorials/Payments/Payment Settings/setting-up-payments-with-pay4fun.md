@@ -9,7 +9,7 @@ firstPublishedAt: 2024-02-05T15:29:05.357Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-pay4fun
+slugEN: setting-up-payments-with-pay4fun
 locale: en
 legacySlug: setting-up-payments-with-pay4fun
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

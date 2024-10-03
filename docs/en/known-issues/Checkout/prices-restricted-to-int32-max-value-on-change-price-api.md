@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: prices-restricted-to-int32-max-value-on-change-price-api
+slugEN: prices-restricted-to-int32-max-value-on-change-price-api
 locale: en
 kiStatus: No Fix
 internalReference: 566142

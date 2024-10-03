@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:13:55.908Z
 contentType: tutorial
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: how-do-i-request-a-duplicate-of-my-boleto
+slugEN: how-do-i-request-a-duplicate-of-my-boleto
 locale: en
 legacySlug: how-do-i-request-a-duplicate-of-my-boleto
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M

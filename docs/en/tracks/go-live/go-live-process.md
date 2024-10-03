@@ -8,7 +8,7 @@ publishedAt: 2024-01-31T13:30:12.446Z
 firstPublishedAt: 2022-12-09T22:09:43.345Z
 contentType: trackArticle
 productTeam: Reliability
-slug: go-live-process
+slugEN: go-live-process
 locale: en
 trackId: 4Ns5FxIiksmjsdX2yOTduM
 trackSlugEN: go-live
@@ -26,7 +26,7 @@ Here you will find detailed step-by-step instructions on how to go live with you
 
 Before going live, you need to ensure that you have set up all configurations for your store to run smoothly.
 
-Copy this [Store configuration checklist](https://assets.ctfassets.net/alneenqid6w5/3yv1ofQRJ5xeX7J5EGglGy/be48d84768e5fb014f3903ad23927a11/Store_configuration_checklist_EN.xlsx) and check if you have configured each item according to your desired operation.
+Copy this [Store configuration checklist](//assets.ctfassets.net/alneenqid6w5/3yv1ofQRJ5xeX7J5EGglGy/be48d84768e5fb014f3903ad23927a11/Store_configuration_checklist_EN.xlsx) and check if you have configured each item according to your desired operation.
 
 >⚠️ The checklist above lists the basic features and configurations required to run a VTEX store. It is your team's responsibility to determine which features to implement in your store and how to configure them to create the desired store experience. Therefore, this list may only cover some of the features your store uses, and you must check all aspects of your store's operation, even if they are not on the suggested list.
 

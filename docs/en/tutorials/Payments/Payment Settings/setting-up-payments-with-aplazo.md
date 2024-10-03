@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-12T17:16:22.029Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-aplazo
+slugEN: setting-up-payments-with-aplazo
 locale: en
 legacySlug: setting-up-payments-with-aplazo
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

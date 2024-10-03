@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:43.159Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_3
-slug: creating-an-application-in-master-data
+slugEN: creating-an-application-in-master-data
 locale: en
 legacySlug: creating-an-application-in-master-data
 subcategoryId: 2AThnkEZAYbk4G4EIs53rL

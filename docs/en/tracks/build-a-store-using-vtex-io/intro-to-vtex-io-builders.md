@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-02-19T19:54:43.718Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: intro-to-vtex-io-builders
+slugEN: intro-to-vtex-io-builders
 locale: en
 trackId: 5qJr8BIQXAKec9CpBWrTNv
 trackSlugEN: build-a-store-using-vtex-io

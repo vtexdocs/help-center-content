@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-25T19:14:38.840Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: price-table-management-in-b2b-organizations
+slugEN: price-table-management-in-b2b-organizations
 locale: en
 legacySlug: price-table-management-in-b2b-organizations
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd

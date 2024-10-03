@@ -9,7 +9,7 @@ firstPublishedAt: 2023-02-13T14:12:54.200Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-egetnetv2
+slugEN: setting-up-payments-with-egetnetv2
 locale: en
 legacySlug: setting-up-payments-with-egetnetv2
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: filter-productclusterids-is-overwritten-by-productclusternames-while-applying-additional-filters
+slugEN: filter-productclusterids-is-overwritten-by-productclusternames-while-applying-additional-filters
 locale: en
 kiStatus: Backlog
 internalReference: 899508

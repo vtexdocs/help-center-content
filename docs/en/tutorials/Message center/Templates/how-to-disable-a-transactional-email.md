@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:02:41.053Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 3lcZDoqCF7Q4hYHye4y1YM
-slug: how-to-disable-a-transactional-email
+slugEN: how-to-disable-a-transactional-email
 locale: en
 legacySlug: how-to-disable-a-transactional-email
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee

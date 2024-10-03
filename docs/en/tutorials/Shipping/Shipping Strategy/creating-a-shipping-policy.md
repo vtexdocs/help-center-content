@@ -9,7 +9,7 @@ firstPublishedAt: 2024-01-31T01:09:33.011Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: creating-a-shipping-policy
+slugEN: creating-a-shipping-policy
 locale: en
 legacySlug: creating-a-shipping-policy
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

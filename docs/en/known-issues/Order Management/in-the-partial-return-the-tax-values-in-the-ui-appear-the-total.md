@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: in-the-partial-return-the-tax-values-in-the-ui-appear-the-total
+slugEN: in-the-partial-return-the-tax-values-in-the-ui-appear-the-total
 locale: en
 kiStatus: No Fix
 internalReference: 559458

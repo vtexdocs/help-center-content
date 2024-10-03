@@ -9,7 +9,7 @@ firstPublishedAt: 2018-10-03T18:56:12.298Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: updating-quantity-of-skus-in-inventory
+slugEN: updating-quantity-of-skus-in-inventory
 locale: en
 legacySlug: updating-quantity-of-skus-in-stock
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE

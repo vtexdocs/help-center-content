@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
-slug: how-recursive-marketplace-works
+slugEN: how-recursive-marketplace-works
 locale: en
 legacySlug: how-recursive-marketplace-works
 subcategoryId: unknown-subcategory

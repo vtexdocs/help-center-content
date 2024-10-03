@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:06:08.323Z
 contentType: tutorial
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: how-to-use-the-same-stock-of-another-store-in-the-marketplace
+slugEN: how-to-use-the-same-stock-of-another-store-in-the-marketplace
 locale: en
 legacySlug: how-to-use-the-same-stock-of-another-store-in-the-marketplace
 subcategoryId: 5AxJjgQO1Uc0kWKMwyi08W

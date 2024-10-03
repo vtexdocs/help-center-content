@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-29T21:31:56.588Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: shipping-overview
+slugEN: shipping-overview
 locale: en
 legacySlug: shipping-overview
 subcategoryId: 63f22GypJIBLnMGh1QZUi0

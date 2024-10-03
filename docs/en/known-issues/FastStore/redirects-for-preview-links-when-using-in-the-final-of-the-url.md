@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: redirects-for-preview-links-when-using-in-the-final-of-the-url
+slugEN: redirects-for-preview-links-when-using-in-the-final-of-the-url
 locale: en
 kiStatus: Backlog
 internalReference: 927041

@@ -1,14 +1,14 @@
 ---
 title: 'Analytics'
 id: 3JcuptYAkwr1GLZEM3IQ2m
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-04-14T14:19:37.349Z
-updatedAt: 2023-03-31T11:48:02.004Z
-publishedAt: 2023-03-31T11:48:02.004Z
+updatedAt: 2024-09-06T20:10:25.799Z
+publishedAt: 
 firstPublishedAt: 2020-04-15T00:39:35.727Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: reports-vtex-intelligent-search
+slugEN: reports-vtex-intelligent-search
 locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
@@ -77,4 +77,4 @@ The report (CSV file) you have downloaded contains two tables. The first table c
 
 The second table shows data for the selected period, as illustrated below. In the __Date__ column, you can see the date of the search.
 
-![search-report-date](https://images.ctfassets.net/alneenqid6w5/1B1hwv5X36tvAv4Nt2Nxz1/354c3c4357d578dc2492b89a78c2a272/search-report-date.png)
+![search-report-date](//images.ctfassets.net/alneenqid6w5/1B1hwv5X36tvAv4Nt2Nxz1/354c3c4357d578dc2492b89a78c2a272/search-report-date.png)

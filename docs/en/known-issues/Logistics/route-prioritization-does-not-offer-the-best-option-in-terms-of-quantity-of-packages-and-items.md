@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: route-prioritization-does-not-offer-the-best-option-in-terms-of-quantity-of-packages-and-items
+slugEN: route-prioritization-does-not-offer-the-best-option-in-terms-of-quantity-of-packages-and-items
 locale: en
 kiStatus: Backlog
 internalReference: 927747

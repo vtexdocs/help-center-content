@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: subscription-plan-is-stuck-in-importing-after-uploading-the-skus-association-spreadsheet
+slugEN: subscription-plan-is-stuck-in-importing-after-uploading-the-skus-association-spreadsheet
 locale: en
 kiStatus: Fixed
 internalReference: 571080

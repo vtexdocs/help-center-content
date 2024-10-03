@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: manual-price-input-restricted-to-work-with-2digit-decimal-precision
+slugEN: manual-price-input-restricted-to-work-with-2digit-decimal-precision
 locale: en
 kiStatus: Backlog
 internalReference: 627719

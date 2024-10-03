@@ -8,7 +8,7 @@ publishedAt: 2020-11-26T13:48:06.793Z
 contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: update-your-version-of-the-mercado-pago-pro-payment-method
+slugEN: 2020-11-23-update-your-version-of-the-mercado-pago-pro-payment-method
 locale: en
 legacySlug: update-your-version-of-the-mercado-pago-pro-payment-method
 announcementImageID: ''

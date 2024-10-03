@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-11T19:21:26.209Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-oney
+slugEN: setting-up-payments-with-oney
 locale: en
 legacySlug: setting-up-payments-with-oney
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

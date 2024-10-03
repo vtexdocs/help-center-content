@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: tax-service-request-uses-shippingdataaddress-even-when-a-cart-has-two-selected-address
+slugEN: tax-service-request-uses-shippingdataaddress-even-when-a-cart-has-two-selected-address
 locale: en
 kiStatus: Backlog
 internalReference: 1074168

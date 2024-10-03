@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-24T17:38:02.446Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-dm-pag
+slugEN: setting-up-payments-with-dm-pag
 locale: en
 legacySlug: setting-up-payments-with-dm-pag
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

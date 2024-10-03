@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-17T12:07:03.757Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slug: configuring-telesales-features
+slugEN: configuring-telesales-features
 locale: en
 legacySlug: configuring-telesales-features
 subcategoryId: 6SEjoixhY5LlA7G15W6oZS

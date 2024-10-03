@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-12-17T18:35:36.153Z
 contentType: trackArticle
 productTeam: Shopping
-slug: hide-product-suggestions-recommendation
+slugEN: hide-product-suggestions-recommendation
 locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup

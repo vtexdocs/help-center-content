@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-31T16:25:57.832Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: search-with-specification-parameter-returns-empty
+slugEN: search-with-specification-parameter-returns-empty
 locale: en
 legacySlug: search-with-specification-parameter-returns-empty
 ---

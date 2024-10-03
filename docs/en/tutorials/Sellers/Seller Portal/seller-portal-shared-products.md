@@ -9,7 +9,7 @@ firstPublishedAt: 2021-09-15T20:52:51.767Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: seller-portal-shared-products
+slugEN: seller-portal-shared-products
 locale: en
 legacySlug: seller-portal-shared-products
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
@@ -38,7 +38,7 @@ The first time you access the Seller Portal the *Imported* tab will be empty bec
 When you click on a product in the list, you will be redirected to a page containing the [Product's Details](https://help.vtex.com/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP).
 
 ## Available
-![Shared products Disponíveis EN](https://images.ctfassets.net/alneenqid6w5/1MIr5t82Ncx9ssV5oT2eyw/5511033385ff07608a9eb279f1dae94f/Shared_products_Dispon__veis_EN.jpg)
+![Shared products Disponíveis EN](//images.ctfassets.net/alneenqid6w5/1MIr5t82Ncx9ssV5oT2eyw/5511033385ff07608a9eb279f1dae94f/Shared_products_Dispon__veis_EN.jpg)
 
 The *Available* tab displays products from the marketplace catalog that have been made available to the seller but which have not been added to the their catalog.  You can filter the available products by brand or category to facilitate the import process.
 

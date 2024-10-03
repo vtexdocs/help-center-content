@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:05:49.842Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-create-a-development-environment-with-a-mobile-version
+slugEN: how-to-create-a-development-environment-with-a-mobile-version
 locale: en
 legacySlug: how-to-create-a-development-environment-with-a-mobile-version
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

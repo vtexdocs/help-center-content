@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T12:01:38.854Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: what-is-the-whatsapp-link
+slugEN: what-is-the-whatsapp-link
 locale: en
 legacySlug: what-is-the-whatsapp-link
 ---

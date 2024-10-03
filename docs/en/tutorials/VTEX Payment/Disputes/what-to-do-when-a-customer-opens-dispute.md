@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-20T18:20:10.860Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: what-to-do-when-a-customer-opens-dispute
+slugEN: what-to-do-when-a-customer-opens-dispute
 locale: en
 legacySlug: what-to-do-when-a-customer-opens-a-vtex-payment-dispute
 subcategoryId: 204Hz794zvcUIJXLcShY43

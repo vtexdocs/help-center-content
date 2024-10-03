@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: incorrect-apportionment-of-kit-value-when-discount-is-applied
+slugEN: incorrect-apportionment-of-kit-value-when-discount-is-applied
 locale: en
 kiStatus: Backlog
 internalReference: 

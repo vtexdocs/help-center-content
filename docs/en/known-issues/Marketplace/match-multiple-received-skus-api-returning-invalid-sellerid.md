@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: match-multiple-received-skus-api-returning-invalid-sellerid
+slugEN: match-multiple-received-skus-api-returning-invalid-sellerid
 locale: en
 kiStatus: Fixed
 internalReference: 506660

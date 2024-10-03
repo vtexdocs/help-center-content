@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
-slug: untitled
+slugEN: untitled
 locale: es
 kiStatus: Backlog
 internalReference: 388640

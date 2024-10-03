@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-01T19:25:40.136Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: pickup-points
+slugEN: pickup-points
 locale: en
 legacySlug: how-pickup-points-work
 subcategoryId: 1c5Btie9ou2Gg2iUo0ggqM
@@ -79,7 +79,7 @@ VTEX considers the pickup point to be a shipping method, and therefore the setti
     - Step 1: In the VTEX Admin, go to **Store settings > Storefront > Checkout**, or type *Checkout* in the search bar at the top of the page.  
     - Step 2: Select the configuration used in the store and click the <i class="fas fa-cog"></i> icon.
     - Step 3: Click the **Checkout** tab in the top bar.
-    - Step 4: Select the <i class="fas fa-toggle-on"></i> from the **Invoice address in pickup**.![NFpontoretiradaEN](https://images.ctfassets.net/alneenqid6w5/7yOdSylqbRcHEfT9c9OfwX/a221ea377c5b7629eba243f55cf80058/NFpontoretiradaEN.png)>⚠️ The option of **Invoice address in pickup** must be enabled in all stores in Brazil, as it is a requirement that the invoice issued contains the customer's address information, even if the option to delivery of the order is at the pick-up point. The address filled in by the customer will be recorded in the `invoiceData` field of the [orderForm](https://developers.vtex.com/vtex-rest-api/reference/orderform-fields#invoicedata).
+    - Step 4: Select the <i class="fas fa-toggle-on"></i> from the **Invoice address in pickup**.![NFpontoretiradaEN](//images.ctfassets.net/alneenqid6w5/7yOdSylqbRcHEfT9c9OfwX/a221ea377c5b7629eba243f55cf80058/NFpontoretiradaEN.png)>⚠️ The option of **Invoice address in pickup** must be enabled in all stores in Brazil, as it is a requirement that the invoice issued contains the customer's address information, even if the option to delivery of the order is at the pick-up point. The address filled in by the customer will be recorded in the `invoiceData` field of the [orderForm](https://developers.vtex.com/vtex-rest-api/reference/orderform-fields#invoicedata).
 
 6. Set the amount of pickup points that are displayed at checkout:
     - Step 1: In the VTEX Admin, go to **Store settings > Shipping > Settings**, or type *Shipping* in the search bar at the top of the page and select *Store settings / Shipping*.    

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-05-11T18:35:14.080Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: configuring-a-seller-on-vtex-marketplace
+slugEN: configuring-a-seller-on-vtex-marketplace
 locale: en
 legacySlug: configuring-a-seller-on-vtex-marketplace
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm

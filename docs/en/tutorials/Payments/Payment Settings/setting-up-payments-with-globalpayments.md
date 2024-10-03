@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-16T19:36:24.472Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-globalpayments
+slugEN: setting-up-payments-with-globalpayments
 locale: en
 legacySlug: setting-up-payments-with-globalpayments
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

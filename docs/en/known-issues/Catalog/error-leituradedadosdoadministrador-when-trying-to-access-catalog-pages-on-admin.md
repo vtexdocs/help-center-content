@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: error-leituradedadosdoadministrador-when-trying-to-access-catalog-pages-on-admin
+slugEN: error-leituradedadosdoadministrador-when-trying-to-access-catalog-pages-on-admin
 locale: en
 kiStatus: Backlog
 internalReference: 1055578

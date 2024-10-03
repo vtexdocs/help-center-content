@@ -9,7 +9,7 @@ firstPublishedAt: 2018-07-02T18:04:41.389Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-private-label-payments
+slugEN: setting-up-private-label-payments
 locale: en
 legacySlug: setting-up-private-label-payments
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

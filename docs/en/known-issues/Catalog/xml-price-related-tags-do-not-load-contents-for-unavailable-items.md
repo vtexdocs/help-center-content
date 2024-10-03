@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: xml-price-related-tags-do-not-load-contents-for-unavailable-items
+slugEN: xml-price-related-tags-do-not-load-contents-for-unavailable-items
 locale: en
 kiStatus: Backlog
 internalReference: 974722

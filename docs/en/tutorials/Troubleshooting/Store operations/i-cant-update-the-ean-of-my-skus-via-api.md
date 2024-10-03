@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-18T17:28:22.909Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: i-cant-update-the-ean-of-my-skus-via-api
+slugEN: i-cant-update-the-ean-of-my-skus-via-api
 locale: en
 legacySlug: i-cant-update-the-ean-of-my-skus-via-api
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB

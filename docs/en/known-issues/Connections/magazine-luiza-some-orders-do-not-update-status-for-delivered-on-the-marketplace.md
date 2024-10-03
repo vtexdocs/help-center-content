@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: magazine-luiza-some-orders-do-not-update-status-for-delivered-on-the-marketplace
+slugEN: magazine-luiza-some-orders-do-not-update-status-for-delivered-on-the-marketplace
 locale: en
 kiStatus: Backlog
 internalReference: 864232

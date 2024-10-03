@@ -8,7 +8,7 @@ publishedAt: 2020-02-13T15:02:21.694Z
 firstPublishedAt: 2019-11-18T12:20:12.356Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: the-reservation
+slugEN: the-reservation
 locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders

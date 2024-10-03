@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: attribute-melishippingmode-not-being-updated-in-meli-integration
+slugEN: attribute-melishippingmode-not-being-updated-in-meli-integration
 locale: en
 kiStatus: Fixed
 internalReference: 873993

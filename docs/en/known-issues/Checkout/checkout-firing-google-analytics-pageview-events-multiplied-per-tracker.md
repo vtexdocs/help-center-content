@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-firing-google-analytics-pageview-events-multiplied-per-tracker
+slugEN: checkout-firing-google-analytics-pageview-events-multiplied-per-tracker
 locale: en
 kiStatus: Fixed
 internalReference: 350780

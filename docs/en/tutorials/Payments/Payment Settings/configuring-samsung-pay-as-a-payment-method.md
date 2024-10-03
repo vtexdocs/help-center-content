@@ -9,7 +9,7 @@ firstPublishedAt: 2020-08-26T16:30:52.180Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: configuring-samsung-pay-as-a-payment-method
+slugEN: configuring-samsung-pay-as-a-payment-method
 locale: en
 legacySlug: configuring-samsung-pay-as-a-payment-method
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

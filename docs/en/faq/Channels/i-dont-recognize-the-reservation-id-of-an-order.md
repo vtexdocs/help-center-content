@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-05T22:28:55.349Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: i-dont-recognize-the-reservation-id-of-an-order
+slugEN: i-dont-recognize-the-reservation-id-of-an-order
 locale: en
 legacySlug: i-dont-recognize-the-reservation-id-of-an-order
 ---

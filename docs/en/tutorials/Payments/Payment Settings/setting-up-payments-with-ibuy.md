@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-12T18:16:50.935Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-ibuy
+slugEN: setting-up-payments-with-ibuy
 locale: en
 legacySlug: setting-up-payments-with-ibuy
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

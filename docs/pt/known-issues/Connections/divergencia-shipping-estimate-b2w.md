@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: divergencia-shipping-estimate-b2w
+slugEN: divergencia-shipping-estimate-b2w
 locale: pt
 kiStatus: Backlog
 internalReference: 642448

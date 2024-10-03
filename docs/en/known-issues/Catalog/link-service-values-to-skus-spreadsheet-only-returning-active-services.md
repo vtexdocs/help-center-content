@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: link-service-values-to-skus-spreadsheet-only-returning-active-services
+slugEN: link-service-values-to-skus-spreadsheet-only-returning-active-services
 locale: en
 kiStatus: Backlog
 internalReference: 886486

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:37.271Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_3
-slug: why-was-the-user-id-requested-at-checkout-when-the-purchase-was-concluded
+slugEN: why-was-the-user-id-requested-at-checkout-when-the-purchase-was-concluded
 locale: en
 legacySlug: why-was-the-user-id-requested-at-checkout-when-the-purchase-was-concluded
 ---

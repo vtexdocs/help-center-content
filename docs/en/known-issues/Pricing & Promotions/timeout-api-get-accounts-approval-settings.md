@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: timeout-api-get-accounts-approval-settings
+slugEN: timeout-api-get-accounts-approval-settings
 locale: en
 kiStatus: Fixed
 internalReference: 772840

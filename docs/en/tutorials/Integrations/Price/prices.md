@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:16.737Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: prices
+slugEN: prices
 locale: en
 legacySlug: prices-v2
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS

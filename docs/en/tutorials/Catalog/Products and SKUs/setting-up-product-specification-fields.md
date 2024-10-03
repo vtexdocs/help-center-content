@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:12.445Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
-slug: setting-up-product-specification-fields
+slugEN: setting-up-product-specification-fields
 locale: en
 legacySlug: setting-up-product-specification-fields
 subcategoryId: pwxWmUu7T222QyuGogs68

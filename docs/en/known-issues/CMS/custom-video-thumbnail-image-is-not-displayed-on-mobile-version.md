@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: custom-video-thumbnail-image-is-not-displayed-on-mobile-version
+slugEN: custom-video-thumbnail-image-is-not-displayed-on-mobile-version
 locale: en
 kiStatus: No Fix
 internalReference: 412632

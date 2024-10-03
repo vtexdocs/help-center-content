@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
-slug: price-filter-considers-prize-zero-from-unavailable-products
+slugEN: price-filter-considers-prize-zero-from-unavailable-products
 locale: en
 kiStatus: Backlog
 internalReference: 

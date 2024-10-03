@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: webanalytics-viewpart-shows-success-even-when-it-isnt-working
+slugEN: webanalytics-viewpart-shows-success-even-when-it-isnt-working
 locale: en
 kiStatus: No Fix
 internalReference: 768059

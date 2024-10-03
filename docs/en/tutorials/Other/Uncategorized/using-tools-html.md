@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:16:01.157Z
 contentType: tutorial
 productTeam: Others
 author: 5V92cmF9jG8KG600EwUgEg
-slug: using-tools-html
+slugEN: using-tools-html
 locale: en
 legacySlug: 
 subcategoryId: 54gbzsku02c4bKmgFbp3v3

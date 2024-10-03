@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: weight-registered-in-the-kit-via-api-is-not-visible-in-the-interface
+slugEN: weight-registered-in-the-kit-via-api-is-not-visible-in-the-interface
 locale: en
 kiStatus: Backlog
 internalReference: 

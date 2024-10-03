@@ -8,7 +8,7 @@ publishedAt: 2024-04-01T18:04:36.603Z
 firstPublishedAt: 2019-11-18T12:20:50.741Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: canceling-an-order
+slugEN: canceling-an-order
 locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders

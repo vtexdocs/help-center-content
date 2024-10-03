@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-full-orders-not-creating-invoice-in-vtex
+slugEN: meli-full-orders-not-creating-invoice-in-vtex
 locale: en
 kiStatus: Backlog
 internalReference: 976614

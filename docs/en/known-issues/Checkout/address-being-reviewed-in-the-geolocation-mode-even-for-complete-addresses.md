@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: address-being-reviewed-in-the-geolocation-mode-even-for-complete-addresses
+slugEN: address-being-reviewed-in-the-geolocation-mode-even-for-complete-addresses
 locale: en
 kiStatus: Backlog
 internalReference: 618724

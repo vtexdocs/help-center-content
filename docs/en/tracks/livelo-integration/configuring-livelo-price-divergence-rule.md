@@ -8,7 +8,7 @@ publishedAt: 2024-02-19T19:09:00.244Z
 firstPublishedAt: 2023-08-11T01:56:55.359Z
 contentType: trackArticle
 productTeam: Channels
-slug: configuring-livelo-price-divergence-rule
+slugEN: configuring-livelo-price-divergence-rule
 locale: en
 trackId: 4ZSHEiuTkh8HR9ubJQj8BP
 trackSlugEN: livelo-integration

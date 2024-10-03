@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: inventory-notifications-to-indexer-are-cached
+slugEN: inventory-notifications-to-indexer-are-cached
 locale: en
 kiStatus: Fixed
 internalReference: 914545

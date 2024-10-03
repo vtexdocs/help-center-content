@@ -8,7 +8,7 @@ publishedAt: 2024-09-03T19:37:30.309Z
 firstPublishedAt: 2022-04-18T11:49:25.270Z
 contentType: trackArticle
 productTeam: Channels
-slug: tiktok-for-business
+slugEN: tiktok-for-business
 locale: es
 trackId: 1r0yJSO11nrer1YVu3WTFd
 trackSlugES: integracion-de-tiktok

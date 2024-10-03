@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-21T19:54:17.610Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: thszKx2EVIuqw0seVYsHK
-slug: inserting-images-into-let-me-know-email
+slugEN: inserting-images-into-let-me-know-email
 locale: en
 legacySlug: untitled-entry-2019-02-21-at-07-52-16
 subcategoryId: pwxWmUu7T222QyuGogs68

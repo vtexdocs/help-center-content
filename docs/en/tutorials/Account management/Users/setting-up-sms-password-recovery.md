@@ -9,7 +9,7 @@ firstPublishedAt: 2019-03-07T21:04:24.196Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5mp4SUVpZYa02A8QOqYySu
-slug: setting-up-sms-password-recovery
+slugEN: setting-up-sms-password-recovery
 locale: en
 legacySlug: 
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
@@ -32,7 +32,7 @@ That being said, check out the step-by-step on how to set it up:
 4. Click the __SMS__ tab.
 5. Choose the option __"Enable SMS sending?"__.
 
-  ![password-recovery-sms-tab-en](https://images.ctfassets.net/alneenqid6w5/6bGbc4Wo9IJcKld5wBXYoi/68638513852254018741915f68cfa795/password-recovery-sms-tab-en.gif)
+  ![password-recovery-sms-tab-en](//images.ctfassets.net/alneenqid6w5/6bGbc4Wo9IJcKld5wBXYoi/68638513852254018741915f68cfa795/password-recovery-sms-tab-en.gif)
 
   *After clicking on "Enable SMS sending", the platform presents the other sending settings.*
 
@@ -40,7 +40,7 @@ That being said, check out the step-by-step on how to set it up:
 7. Fill in the __Destination__ field with the variable `{{_accountInfo.Telephone}}`.
 8. Fill in the __Message Text__ field with the message content. The information `Name: {{name}}`, `Login: {{login}}` and `Password: {{password}}` are essential.
 
-  ![password-recovery-sms-fields-en](https://images.ctfassets.net/alneenqid6w5/7D17OjBCwC4FWnpMJ5hlys/ab09b49184ae0bc382ab26bc551d4b6e/password-recovery-sms-fields-en.png)
+  ![password-recovery-sms-fields-en](//images.ctfassets.net/alneenqid6w5/7D17OjBCwC4FWnpMJ5hlys/ab09b49184ae0bc382ab26bc551d4b6e/password-recovery-sms-fields-en.png)
 
 9. Review the SMS content in __Preview__.
 10. Click __Save__.

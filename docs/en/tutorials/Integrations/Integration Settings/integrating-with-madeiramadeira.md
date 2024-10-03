@@ -9,7 +9,7 @@ firstPublishedAt: 2021-11-05T21:34:03.556Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: integrating-with-madeiramadeira
+slugEN: integrating-with-madeiramadeira
 locale: en
 legacySlug: integrating-with-madeiramadeira
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

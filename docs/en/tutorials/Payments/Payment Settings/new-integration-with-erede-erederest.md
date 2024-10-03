@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-12T15:15:34.194Z
 contentType: tutorial
 productTeam: Channels
 author: 72qloUCfZuqoIaeiG4OsY
-slug: new-integration-with-erede-erederest
+slugEN: new-integration-with-erede-erederest
 locale: en
 legacySlug: new-integration-with-erede-erederest
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
@@ -29,7 +29,7 @@ Once notified, go to the menu and then navigate through __e.Rede > Settings > To
 
 Then, click the button to create the token.
 
-![GerarToken Click](https://images.ctfassets.net/alneenqid6w5/36eVS4dU3CMa0qqiuaaICg/5e2e2f8e9bba46837ad973914c40d222/GerarToken_Click.png)
+![GerarToken Click](//images.ctfassets.net/alneenqid6w5/36eVS4dU3CMa0qqiuaaICg/5e2e2f8e9bba46837ad973914c40d222/GerarToken_Click.png)
 
 With this, you will have access to the token that must be informed in the ERedeRest gateway affiliation configuration form. In addition to the token, you will also need to inform the PV, which is  the identification number of the establishment on Rede's website.
 
@@ -39,10 +39,10 @@ To do this configuration in VTEX, follow the steps below:
 2. Click on __Settings__ and access __Gateways Affiliations__; 
 3. Click on the green button __+__ _I want to receive payment by the connector..._ and search for the connector __ERedeRest .__
 
-![erederestEN](https://images.ctfassets.net/alneenqid6w5/6LI5jh2u5OcYaGQ4cikuE2/29031380ce30470072c9b06db0d14118/erederestEN.jpg) 
+![erederestEN](//images.ctfassets.net/alneenqid6w5/6LI5jh2u5OcYaGQ4cikuE2/29031380ce30470072c9b06db0d14118/erederestEN.jpg) 
 
-![erederestEN-config](https://images.ctfassets.net/alneenqid6w5/2I770mrYbeueky266cqooO/cf6ffb075ece540e7b3224c99e9c415c/erederestEN-config.jpg)
+![erederestEN-config](//images.ctfassets.net/alneenqid6w5/2I770mrYbeueky266cqooO/cf6ffb075ece540e7b3224c99e9c415c/erederestEN-config.jpg)
 
-![PegarPV](https://images.ctfassets.net/alneenqid6w5/5YuBm2nzkQ8oeqmGKGwUOy/fbadf9ac541985fce57139e764a4d0ed/PegarPV.png)
+![PegarPV](//images.ctfassets.net/alneenqid6w5/5YuBm2nzkQ8oeqmGKGwUOy/fbadf9ac541985fce57139e764a4d0ed/PegarPV.png)
 
 This new connector offers a number of configuration options, including ApplePay support. 

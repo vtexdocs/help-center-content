@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-05-03T20:34:34.311Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: publish-and-install
+slugEN: publish-and-install
 locale: en
 trackId: 2qYWraccosS2ayg2kusaUo
 trackSlugEN: vtex-io-getting-started

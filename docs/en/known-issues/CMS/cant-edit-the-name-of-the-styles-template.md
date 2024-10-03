@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: cant-edit-the-name-of-the-styles-template
+slugEN: cant-edit-the-name-of-the-styles-template
 locale: en
 kiStatus: Backlog
 internalReference: 882147

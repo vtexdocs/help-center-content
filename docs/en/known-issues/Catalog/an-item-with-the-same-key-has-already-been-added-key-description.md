@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: an-item-with-the-same-key-has-already-been-added-key-description
+slugEN: an-item-with-the-same-key-has-already-been-added-key-description
 locale: en
 kiStatus: Backlog
 internalReference: 1084015

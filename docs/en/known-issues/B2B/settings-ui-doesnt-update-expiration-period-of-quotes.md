@@ -3,16 +3,16 @@ title: "Settings UI doesn't update "expiration period' of quotes"
 id: 4CmuAYwDn7tcCiR9DQHSFb
 status: PUBLISHED
 createdAt: 2023-08-07T19:42:22.810Z
-updatedAt: 2024-05-08T18:04:41.362Z
-publishedAt: 2024-05-08T18:04:41.362Z
+updatedAt: 2024-09-27T13:22:47.719Z
+publishedAt: 2024-09-27T13:22:47.719Z
 firstPublishedAt: 2023-08-07T19:43:56.788Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: settings-ui-doesnt-update-expiration-period-of-quotes
+slugEN: settings-ui-doesnt-update-expiration-period-of-quotes
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 876576
 ---
 

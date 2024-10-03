@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: portal-reloads-all-search-results-when-accessing-the-url-with-pagination-parameter
+slugEN: portal-reloads-all-search-results-when-accessing-the-url-with-pagination-parameter
 locale: en
 kiStatus: No Fix
 internalReference: 342378

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: via-integration-not-sending-the-description-in-card
+slugEN: via-integration-not-sending-the-description-in-card
 locale: en
 kiStatus: Fixed
 internalReference: 826488

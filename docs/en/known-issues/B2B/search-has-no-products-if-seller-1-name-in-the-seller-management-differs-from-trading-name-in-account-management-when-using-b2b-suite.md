@@ -3,16 +3,16 @@ title: 'Search has no products if seller 1 name in the Seller Management differs
 id: 7a3bwqRmeSClHMoFmyIY2a
 status: PUBLISHED
 createdAt: 2023-12-01T20:06:13.492Z
-updatedAt: 2023-12-01T20:15:07.659Z
-publishedAt: 2023-12-01T20:15:07.659Z
+updatedAt: 2024-09-25T13:37:16.037Z
+publishedAt: 2024-09-25T13:37:16.037Z
 firstPublishedAt: 2023-12-01T20:06:14.083Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: search-has-no-products-if-seller-1-name-in-the-seller-management-differs-from-trading-name-in-account-management-when-using-b2b-suite
+slugEN: search-has-no-products-if-seller-1-name-in-the-seller-management-differs-from-trading-name-in-account-management-when-using-b2b-suite
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 946391
 ---
 
@@ -38,6 +38,7 @@ B2B organizations use the sellers' names from the Seller Management. If an organ
 ## Workaround
 
 
+**This issue has been fixed in version** `vtex.b2b-organizations@1.35.0`**, released on September 10th. All sellers associated after the release will be correct, but associations before that must still apply the workaround.**
 
 - Access GraphQL IDE and select vtex.b2b-organizations-graphql;
 - Use the query below to get all the organization details:

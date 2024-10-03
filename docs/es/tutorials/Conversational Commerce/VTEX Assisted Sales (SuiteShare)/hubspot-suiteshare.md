@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-31T16:35:00.164Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: hubspot-suiteshare
+slugEN: hubspot-suiteshare
 locale: es
 legacySlug: hubspot-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

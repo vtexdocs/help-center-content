@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: auto-approve-api-accepts-any-values
+slugEN: auto-approve-api-accepts-any-values
 locale: en
 kiStatus: No Fix
 internalReference: 713704

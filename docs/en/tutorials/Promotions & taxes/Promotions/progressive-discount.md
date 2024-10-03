@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:15.195Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: progressive-discount
+slugEN: progressive-discount
 locale: en
 legacySlug: progressive-discount
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq

@@ -8,7 +8,7 @@ publishedAt: 2023-03-08T20:38:03.932Z
 firstPublishedAt: 2019-02-28T23:02:20.905Z
 contentType: trackArticle
 productTeam: Channels
-slug: amazon-account-settings
+slugEN: amazon-account-settings
 locale: en
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugEN: amazon-integration

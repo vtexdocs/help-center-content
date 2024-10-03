@@ -9,7 +9,7 @@ firstPublishedAt: 2022-07-21T21:52:30.978Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: campaign-audiences-list
+slugEN: campaign-audiences-list
 locale: en
 legacySlug: campaign-audiences-list
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
@@ -48,7 +48,7 @@ The campaign audiences are displayed in _cards_ containing the following informa
 
 To view the [archived](#archiving-a-campaign-audience) campaign audiences, next to the **Show** option, click **Archived**, as illustrated below:
 
-![toggle-audiencias-campanha-arquivadas-en](https://images.ctfassets.net/alneenqid6w5/7CMyMTQVHoWU7h8NMGlmwA/853066310add51cccf742dc10ea0283b/toggle-audiencias-campanha-arquivadas-en.png)
+![toggle-audiencias-campanha-arquivadas-en](//images.ctfassets.net/alneenqid6w5/7CMyMTQVHoWU7h8NMGlmwA/853066310add51cccf742dc10ea0283b/toggle-audiencias-campanha-arquivadas-en.png)
 
 To return to the campaign audiences which have not been archived, click **Not Archived**.
 

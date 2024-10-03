@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: button-cancel-inside-the-mycards-page-not-translated-to-spanish
+slugEN: button-cancel-inside-the-mycards-page-not-translated-to-spanish
 locale: en
 kiStatus: No Fix
 internalReference: 431200

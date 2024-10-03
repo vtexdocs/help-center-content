@@ -9,7 +9,7 @@ firstPublishedAt: 2020-06-12T21:28:40.777Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: payment-methods
+slugEN: payment-methods
 locale: en
 legacySlug: payment-methods
 subcategoryId: 6uIlQ5imochc5LFi3dzCSv

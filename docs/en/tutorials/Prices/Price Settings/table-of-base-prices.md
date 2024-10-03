@@ -9,7 +9,7 @@ firstPublishedAt: 2019-07-15T13:22:43.670Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5DnIDwto7E6PRpdH1Kpdyu
-slug: table-of-base-prices
+slugEN: table-of-base-prices
 locale: en
 legacySlug: filling-out-base-price-import-spreadsheet-fields
 subcategoryId: 3O1NvPgBPqE0qU88MSQaie

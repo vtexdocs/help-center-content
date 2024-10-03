@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-06T14:28:36.372Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_24
-slug: my-site-is-slow
+slugEN: my-site-is-slow
 locale: en
 legacySlug: my-site-is-slow
 ---

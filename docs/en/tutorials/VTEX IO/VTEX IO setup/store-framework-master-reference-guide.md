@@ -9,7 +9,7 @@ firstPublishedAt: 2019-04-09T18:12:50.599Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
-slug: store-framework-master-reference-guide
+slugEN: store-framework-master-reference-guide
 locale: en
 legacySlug: store-framework-master-reference-guide
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

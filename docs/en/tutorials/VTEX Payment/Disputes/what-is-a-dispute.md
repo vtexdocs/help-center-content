@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-20T18:18:15.752Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: what-is-a-dispute
+slugEN: what-is-a-dispute
 locale: en
 legacySlug: what-is-a-dispute
 subcategoryId: 204Hz794zvcUIJXLcShY43

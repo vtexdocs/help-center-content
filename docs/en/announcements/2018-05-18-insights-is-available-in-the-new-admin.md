@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:10.414Z
 contentType: updates
 productTeam: Others
 author: authors_24
-slug: insights-is-available-in-the-new-admin
+slugEN: 2018-05-18-insights-is-available-in-the-new-admin
 locale: en
 legacySlug: insights-is-available-in-the-new-admin
 announcementImageID: ''

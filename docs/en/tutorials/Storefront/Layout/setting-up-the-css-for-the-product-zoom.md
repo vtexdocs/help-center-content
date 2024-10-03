@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-12T15:42:39.994Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: setting-up-the-css-for-the-product-zoom
+slugEN: setting-up-the-css-for-the-product-zoom
 locale: en
 legacySlug: setting-up-the-css-for-the-product-zoom
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -33,4 +33,4 @@ Then find the CSS file you saved and send it to the server, clicking on **Locali
 
 Your file will then be listed in the window, as shown below:
 
-![](https://images.contentful.com/alneenqid6w5/2pWBIqL3So2wm04oU8CyQ8/ab9f623fd28f15e2708cc3fcbecafe03/gerenciador_arq_css-560x373.jpg)
+![](//images.contentful.com/alneenqid6w5/2pWBIqL3So2wm04oU8CyQ8/ab9f623fd28f15e2708cc3fcbecafe03/gerenciador_arq_css-560x373.jpg)

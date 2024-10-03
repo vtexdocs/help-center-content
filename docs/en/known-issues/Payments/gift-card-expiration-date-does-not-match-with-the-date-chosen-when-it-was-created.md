@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: gift-card-expiration-date-does-not-match-with-the-date-chosen-when-it-was-created
+slugEN: gift-card-expiration-date-does-not-match-with-the-date-chosen-when-it-was-created
 locale: en
 kiStatus: No Fix
 internalReference: 378436

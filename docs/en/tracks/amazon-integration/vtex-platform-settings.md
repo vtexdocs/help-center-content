@@ -8,7 +8,7 @@ publishedAt: 2022-10-07T19:03:13.682Z
 firstPublishedAt: 2019-02-28T23:11:20.994Z
 contentType: trackArticle
 productTeam: Channels
-slug: vtex-platform-settings
+slugEN: vtex-platform-settings
 locale: en
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugEN: amazon-integration

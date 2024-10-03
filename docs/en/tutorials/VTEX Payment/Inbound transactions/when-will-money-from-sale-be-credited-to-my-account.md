@@ -9,7 +9,7 @@ firstPublishedAt: 2020-06-19T21:43:39.118Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: when-will-money-from-sale-be-credited-to-my-account
+slugEN: when-will-money-from-sale-be-credited-to-my-account
 locale: en
 legacySlug: when-will-money-from-sale-be-credited-to-my-account
 subcategoryId: 23PYStKNPteW4CqklwXXQN

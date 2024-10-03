@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:15.957Z
 contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: understanding-the-value-of-approved-revenues
+slugEN: understanding-the-value-of-approved-revenues
 locale: en
 legacySlug: understanding-the-value-of-approved-revenues
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

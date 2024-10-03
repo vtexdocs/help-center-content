@@ -9,7 +9,7 @@ firstPublishedAt: 2021-07-29T20:20:39.780Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: sent-offers-buybox-opportunities
+slugEN: sent-offers-buybox-opportunities
 locale: en
 legacySlug: sent-offers-buybox-opportunities-beta
 subcategoryId: unknown-subcategory
@@ -41,7 +41,7 @@ The [Offer details](https://help.vtex.com/en/tutorial/detalhes-do-anuncio--4FF9Q
 
 ## Offer opportunities
 
-![EN Oportunidades oportunidades do anúncio](https://images.ctfassets.net/alneenqid6w5/6Atuthxay11bdJrmSQxEM9/f4ca300fea32688a1dcb606f92104cb9/EN_Oportunidades_oportunidades_do_an__ncio.jpg)
+![EN Oportunidades oportunidades do anúncio](//images.ctfassets.net/alneenqid6w5/6Atuthxay11bdJrmSQxEM9/f4ca300fea32688a1dcb606f92104cb9/EN_Oportunidades_oportunidades_do_an__ncio.jpg)
 
 The **Offer opportunities** page displays the Buybox-eligible offer next to the one already available for sale on the marketplace. On this page, you can compare the data of both offers, such as their brand information, specifications, and dimensions.
 

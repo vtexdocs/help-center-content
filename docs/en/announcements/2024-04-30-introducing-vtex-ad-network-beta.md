@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: introducing-vtex-ad-network-beta
+slugEN: 2024-04-30-introducing-vtex-ad-network-beta
 locale: en
 legacySlug: introducing-vtex-ad-network-beta
 announcementImageID: ''

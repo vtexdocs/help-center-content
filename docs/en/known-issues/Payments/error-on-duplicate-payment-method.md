@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: error-on-duplicate-payment-method
+slugEN: error-on-duplicate-payment-method
 locale: en
 kiStatus: Backlog
 internalReference: 929428

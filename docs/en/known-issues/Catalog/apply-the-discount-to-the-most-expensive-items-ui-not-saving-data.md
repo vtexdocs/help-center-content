@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: apply-the-discount-to-the-most-expensive-items-ui-not-saving-data
+slugEN: apply-the-discount-to-the-most-expensive-items-ui-not-saving-data
 locale: en
 kiStatus: Backlog
 internalReference: 1011071

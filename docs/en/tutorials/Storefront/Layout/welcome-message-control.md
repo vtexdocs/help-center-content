@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-07T17:03:19.936Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: welcome-message-control
+slugEN: welcome-message-control
 locale: en
 legacySlug: welcome-message-control
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

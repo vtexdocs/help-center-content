@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: get-product-by-refid-returning-null-when-not-found
+slugEN: get-product-by-refid-returning-null-when-not-found
 locale: en
 kiStatus: No Fix
 internalReference: 826702

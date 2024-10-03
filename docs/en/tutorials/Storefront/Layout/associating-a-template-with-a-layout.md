@@ -9,7 +9,7 @@ firstPublishedAt: 2022-01-10T22:10:43.500Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1DedyaVUPp5wLAvjY7wKKv
-slug: associating-a-template-with-a-layout
+slugEN: associating-a-template-with-a-layout
 locale: en
 legacySlug: associating-a-template-with-a-layout
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

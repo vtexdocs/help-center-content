@@ -9,7 +9,7 @@ firstPublishedAt: 2024-08-20T13:54:03.140Z
 contentType: tutorial
 productTeam: Shopping
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: promotions-on-the-sales-app-search-page
+slugEN: promotions-on-the-sales-app-search-page
 locale: en
 legacySlug: promotions-on-the-sales-app-search-page
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G

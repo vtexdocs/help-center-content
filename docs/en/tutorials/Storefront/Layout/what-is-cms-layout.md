@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:11:38.588Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-cms-layout
+slugEN: what-is-cms-layout
 locale: en
 legacySlug: what-is-cms
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

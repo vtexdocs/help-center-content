@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
-slug: magazine-luiza-some-skus-do-not-update-price
+slugEN: magazine-luiza-some-skus-do-not-update-price
 locale: en
 kiStatus: Backlog
 internalReference: 882919

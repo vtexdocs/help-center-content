@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-attribute-is-being-sent-to-meli-without-being-mapped-from-seller
+slugEN: meli-attribute-is-being-sent-to-meli-without-being-mapped-from-seller
 locale: en
 kiStatus: Fixed
 internalReference: 791380

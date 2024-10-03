@@ -9,7 +9,7 @@ firstPublishedAt: 2019-03-07T20:24:17.610Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5Bd75kMNAzARxg0DCUjwal
-slug: how-to-export-a-product-spreadsheet
+slugEN: how-to-export-a-product-spreadsheet
 locale: en
 legacySlug: 
 subcategoryId: pwxWmUu7T222QyuGogs68

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slug: issue-with-session-apis-using-public-properties-beginning-with-the-same-prefix
+slugEN: issue-with-session-apis-using-public-properties-beginning-with-the-same-prefix
 locale: en
 kiStatus: Backlog
 internalReference: 885011

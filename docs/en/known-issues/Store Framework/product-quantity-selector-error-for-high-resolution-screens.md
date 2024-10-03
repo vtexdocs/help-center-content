@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: product-quantity-selector-error-for-high-resolution-screens
+slugEN: product-quantity-selector-error-for-high-resolution-screens
 locale: en
 kiStatus: Backlog
 internalReference: 561921

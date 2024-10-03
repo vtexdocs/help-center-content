@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_41
 tag: Order Management
-slug: divergence-in-quantity-of-exported-orders-x-displayed-orders-in-the-oms
+slugEN: divergence-in-quantity-of-exported-orders-x-displayed-orders-in-the-oms
 locale: en
 kiStatus: Backlog
 internalReference: 

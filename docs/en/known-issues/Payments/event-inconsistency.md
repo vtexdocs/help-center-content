@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: event-inconsistency
+slugEN: event-inconsistency
 locale: en
 kiStatus: Fixed
 internalReference: 267299

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-promotion-center-not-linking-skus-to-promotion
+slugEN: meli-promotion-center-not-linking-skus-to-promotion
 locale: en
 kiStatus: Backlog
 internalReference: 801348

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: service-type-name-field-wrongly-returned-via-api
+slugEN: service-type-name-field-wrongly-returned-via-api
 locale: en
 kiStatus: Backlog
 internalReference: 961278

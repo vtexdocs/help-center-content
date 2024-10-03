@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: returned-itens-with-same-skuid-on-different-uniqueid-arrays-it-is-not-visible-properly
+slugEN: returned-itens-with-same-skuid-on-different-uniqueid-arrays-it-is-not-visible-properly
 locale: en
 kiStatus: Backlog
 internalReference: 1050294

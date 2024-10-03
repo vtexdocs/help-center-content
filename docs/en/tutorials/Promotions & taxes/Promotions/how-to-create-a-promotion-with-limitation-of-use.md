@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:13:40.303Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-create-a-promotion-with-limitation-of-use
+slugEN: how-to-create-a-promotion-with-limitation-of-use
 locale: en
 legacySlug: how-to-create-a-promotion-with-limitation-of-use
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq

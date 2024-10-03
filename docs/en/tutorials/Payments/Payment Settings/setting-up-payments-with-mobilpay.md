@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-22T19:37:58.721Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-mobilpay
+slugEN: setting-up-payments-with-mobilpay
 locale: en
 legacySlug: setting-up-payments-with-mobilpay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

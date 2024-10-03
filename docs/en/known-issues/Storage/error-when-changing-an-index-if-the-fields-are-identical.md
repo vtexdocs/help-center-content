@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: error-when-changing-an-index-if-the-fields-are-identical
+slugEN: error-when-changing-an-index-if-the-fields-are-identical
 locale: en
 kiStatus: Backlog
 internalReference: 854634

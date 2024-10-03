@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: banner-scheduling-is-deactivated-after-expiry-date
+slugEN: banner-scheduling-is-deactivated-after-expiry-date
 locale: en
 kiStatus: Backlog
 internalReference: 
@@ -38,7 +38,7 @@ When the scheduling of a banner works correctly, it is only a coincidence if the
 - Click on "Save Settings"
 - Click on "OK" when you see the confirmation message
 
-![Banner scheduling](https://images.contentful.com/alneenqid6w5/54556kzHKwMogwaMksMQ2a/e078030f450f7cdc666bcb5258ccb7d2/2017-03-16_23_06_36-Index.png)
+![Banner scheduling](//images.contentful.com/alneenqid6w5/54556kzHKwMogwaMksMQ2a/e078030f450f7cdc666bcb5258ccb7d2/2017-03-16_23_06_36-Index.png)
 
 ## Workaround
 

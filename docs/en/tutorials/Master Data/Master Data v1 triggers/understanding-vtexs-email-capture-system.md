@@ -9,7 +9,7 @@ firstPublishedAt: 2022-10-17T19:53:55.523Z
 contentType: tutorial
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: understanding-vtexs-email-capture-system
+slugEN: understanding-vtexs-email-capture-system
 locale: en
 legacySlug: understanding-vtexs-email-capture-system
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i

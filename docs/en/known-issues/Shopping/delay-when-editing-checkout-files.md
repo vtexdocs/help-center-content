@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: delay-when-editing-checkout-files
+slugEN: delay-when-editing-checkout-files
 locale: en
 kiStatus: Backlog
 internalReference: 

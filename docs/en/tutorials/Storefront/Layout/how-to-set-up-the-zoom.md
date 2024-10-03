@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:11:42.343Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-set-up-the-zoom
+slugEN: how-to-set-up-the-zoom
 locale: en
 legacySlug: how-to-set-up-the-zoom
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -35,7 +35,7 @@ Next we are going to send the saved CSS file to the server. To do this, click on
 
 Then find the CSS file you saved and send it to the server, clicking on **Localizar** ("Find") and then on **Salvar arquivo** ("Save File")
 
-![add-cms-.css ](https://images.ctfassets.net/alneenqid6w5/ZXAryRqp4AAosaKM2qmQa/40058a1db81bde2207c60158c682b667/add_.css.png)
+![add-cms-.css ](//images.ctfassets.net/alneenqid6w5/ZXAryRqp4AAosaKM2qmQa/40058a1db81bde2207c60158c682b667/add_.css.png)
 
 Your file will then be listed in the window, as shown above.
 
@@ -52,4 +52,4 @@ Now all you have to do is insert `zoom="on"` in the product tag, like this:
 
 You also have to set up the standard size for the zoom image. You can do this in **CMS** module > **Settings** > **File Types**. By default, this type of zoom image is set up with 1000×1000 pixels.
 
-![zoom-tiposdearquivos EN](https://images.ctfassets.net/alneenqid6w5/36CmHtsFyg0Ue2wuwYw8QG/de092d8f46a6e304744482144561747d/zoom_file_types.png)
+![zoom-tiposdearquivos EN](//images.ctfassets.net/alneenqid6w5/36CmHtsFyg0Ue2wuwYw8QG/de092d8f46a6e304744482144561747d/zoom_file_types.png)

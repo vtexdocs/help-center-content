@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:35.077Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: why-isnt-my-product-indexed
+slugEN: why-isnt-my-product-indexed
 locale: en
 legacySlug: why-isnt-my-product-indexed
 ---

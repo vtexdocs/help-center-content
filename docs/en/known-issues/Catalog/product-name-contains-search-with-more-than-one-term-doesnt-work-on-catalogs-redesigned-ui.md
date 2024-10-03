@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: product-name-contains-search-with-more-than-one-term-doesnt-work-on-catalogs-redesigned-ui
+slugEN: product-name-contains-search-with-more-than-one-term-doesnt-work-on-catalogs-redesigned-ui
 locale: en
 kiStatus: Backlog
 internalReference: 1044571

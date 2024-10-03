@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:15:57.881Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-define-the-order-of-lookkit
+slugEN: how-to-define-the-order-of-lookkit
 locale: en
 legacySlug: how-to-define-the-order-of-lookkit
 subcategoryId: pwxWmUu7T222QyuGogs68

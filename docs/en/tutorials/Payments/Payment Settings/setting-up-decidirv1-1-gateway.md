@@ -9,7 +9,7 @@ firstPublishedAt: 2018-06-27T17:18:18.115Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-decidirv1-1-gateway
+slugEN: setting-up-decidirv1-1-gateway
 locale: en
 legacySlug: setting-up-decidirv1-1-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

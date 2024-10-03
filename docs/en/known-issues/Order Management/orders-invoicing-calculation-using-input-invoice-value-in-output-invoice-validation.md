@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: orders-invoicing-calculation-using-input-invoice-value-in-output-invoice-validation
+slugEN: orders-invoicing-calculation-using-input-invoice-value-in-output-invoice-validation
 locale: en
 kiStatus: Fixed
 internalReference: 930491

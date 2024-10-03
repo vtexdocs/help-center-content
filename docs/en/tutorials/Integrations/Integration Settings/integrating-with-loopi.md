@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-07T20:52:41.626Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: integrating-with-loopi
+slugEN: integrating-with-loopi
 locale: en
 legacySlug: integrating-with-loopi
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

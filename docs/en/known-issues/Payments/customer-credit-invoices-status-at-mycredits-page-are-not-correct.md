@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: customer-credit-invoices-status-at-mycredits-page-are-not-correct
+slugEN: customer-credit-invoices-status-at-mycredits-page-are-not-correct
 locale: en
 kiStatus: No Fix
 internalReference: 369457

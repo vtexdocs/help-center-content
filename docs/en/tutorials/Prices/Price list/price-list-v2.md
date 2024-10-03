@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:16.058Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: price-list-v2
+slugEN: price-list-v2
 locale: en
 legacySlug: price-list-v2
 subcategoryId: 4id9W3RDyw02CasOm2C2iy

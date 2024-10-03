@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-05T17:35:10.870Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slug: setting-up-sitef-gateway
+slugEN: setting-up-sitef-gateway
 locale: en
 legacySlug: setting-up-sitef-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

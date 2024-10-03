@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-31T17:52:33.702Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: anapro-suiteshare
+slugEN: anapro-suiteshare
 locale: en
 legacySlug: anapro
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: pdp-does-not-load-when-special-characters-are-passed-on-the-link
+slugEN: pdp-does-not-load-when-special-characters-are-passed-on-the-link
 locale: en
 kiStatus: Backlog
 internalReference: 770893

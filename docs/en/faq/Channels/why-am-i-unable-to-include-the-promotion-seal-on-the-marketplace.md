@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:33.692Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
-slug: why-am-i-unable-to-include-the-promotion-seal-on-the-marketplace
+slugEN: why-am-i-unable-to-include-the-promotion-seal-on-the-marketplace
 locale: en
 legacySlug: why-am-i-unable-to-include-the-promotion-seal-on-the-marketplace
 ---

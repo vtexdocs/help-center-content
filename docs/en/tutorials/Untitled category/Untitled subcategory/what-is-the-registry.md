@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: VTEX IO
 author: 
-slug: what-is-the-registry
+slugEN: what-is-the-registry
 locale: en
 legacySlug: what-is-the-registry
 subcategoryId: unknown-subcategory

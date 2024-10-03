@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-29T20:26:36.111Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: chat
+slugEN: chat
 locale: en
 legacySlug: chat
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

@@ -8,7 +8,7 @@ publishedAt: 2021-10-15T13:25:13.760Z
 firstPublishedAt: 2021-10-06T16:13:45.865Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: configurar-erps
+slugEN: configurar-erps
 locale: en
 trackId: 132YFN170Jvs6ZUBGh8w2e
 trackSlugEN: adaptador-vtex

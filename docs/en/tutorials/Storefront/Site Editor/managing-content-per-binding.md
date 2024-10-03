@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-05T19:49:13.458Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 6AcGyun1hSWewU8YcaQiO
-slug: managing-content-per-binding
+slugEN: managing-content-per-binding
 locale: en
 legacySlug: managing-content-per-binding
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-02T18:34:52.667Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: seller-management
+slugEN: seller-management
 locale: en
 legacySlug: seller-management-beta
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu
@@ -47,7 +47,7 @@ This feature allows merchants to better monitor their operations by:
 
 You can create groups manually by clicking on Add sellers or Manage groups. Once created, you can edit and delete each one.  
 
-![Seller management](https://images.ctfassets.net/alneenqid6w5/1dkekloSl228CxABGgylD7/fc25e05f46cc203be9777110c6bacbde/seller_management_en.png)  
+![Seller management](//images.ctfassets.net/alneenqid6w5/1dkekloSl228CxABGgylD7/fc25e05f46cc203be9777110c6bacbde/seller_management_en.png)  
 
 ## Managing groups  
 

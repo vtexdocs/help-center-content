@@ -9,7 +9,7 @@ firstPublishedAt: 2019-09-24T17:11:42.043Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 1nsS1IgG3WWQ4cA8e2qsw6
-slug: integrating-with-multiplus
+slugEN: integrating-with-multiplus
 locale: en
 legacySlug: integrating-with-multiplus
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq

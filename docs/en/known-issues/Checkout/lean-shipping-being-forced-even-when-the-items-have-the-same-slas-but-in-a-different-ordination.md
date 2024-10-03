@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: lean-shipping-being-forced-even-when-the-items-have-the-same-slas-but-in-a-different-ordination
+slugEN: lean-shipping-being-forced-even-when-the-items-have-the-same-slas-but-in-a-different-ordination
 locale: en
 kiStatus: Fixed
 internalReference: 455218

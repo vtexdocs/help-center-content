@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-10T17:28:51.238Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: i-cant-import-the-price-table
+slugEN: i-cant-import-the-price-table
 locale: en
 legacySlug: i-cant-import-the-price-table
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB

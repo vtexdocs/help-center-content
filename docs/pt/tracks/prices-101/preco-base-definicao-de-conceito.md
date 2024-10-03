@@ -8,7 +8,7 @@ publishedAt: 2020-02-13T15:43:23.130Z
 firstPublishedAt: 2019-07-17T19:41:02.693Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: preco-base-definicao-de-conceito
+slugEN: preco-base-definicao-de-conceito
 locale: pt
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugPT: precos-101

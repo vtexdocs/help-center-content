@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: gift-card-creation-error-via-admin
+slugEN: gift-card-creation-error-via-admin
 locale: en
 kiStatus: Backlog
 internalReference: 986327

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-22T12:58:23.819Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: how-to-use-the-unavailable-product-class
+slugEN: how-to-use-the-unavailable-product-class
 locale: en
 legacySlug: how-to-use-the-unavailable-product-class
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

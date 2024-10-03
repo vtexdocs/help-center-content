@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2024-04-02T13:04:21.646Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: intelligent-synonyms
+slugEN: intelligent-synonyms
 locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
@@ -45,7 +45,7 @@ Follow these instructions to view the synonym suggestions and choose whether to 
     If you click `Not Now`, the suggestions will remain in the **New suggestions** box, indicating the number of generated suggestions. To review them, click `Review`. 
 4. A modal will display the first synonym suggestion. Each suggestion shows the searched term, the proposed synonym, and the number of times customers have used the second term to replace the original term in the last 30 days.
 
-   ![synonym-suggestion-en](https://images.ctfassets.net/alneenqid6w5/187mlOYBTMHniFVEJGgUP3/0937f850f1c2f9b0eae863065f486d1b/synonym-suggestion-en.png)
+   ![synonym-suggestion-en](//images.ctfassets.net/alneenqid6w5/187mlOYBTMHniFVEJGgUP3/0937f850f1c2f9b0eae863065f486d1b/synonym-suggestion-en.png)
 
 5. To review each suggestion, choose one of the following actions:
     * <i class="fas fa-bookmark"></i> **Save for Later:** Removes the suggestion from the **New suggestions** count and stores it in the **Saved suggestions** box. To review the saved suggestions later, click `Review`.

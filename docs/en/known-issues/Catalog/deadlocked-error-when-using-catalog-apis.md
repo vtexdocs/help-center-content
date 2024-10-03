@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: deadlocked-error-when-using-catalog-apis
+slugEN: deadlocked-error-when-using-catalog-apis
 locale: en
 kiStatus: Backlog
 internalReference: 862626

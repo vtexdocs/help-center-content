@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: get-coupon-usage-api-doesnt-list-multiple-orders-for-the-same-coupon
+slugEN: get-coupon-usage-api-doesnt-list-multiple-orders-for-the-same-coupon
 locale: en
 kiStatus: Backlog
 internalReference: 326662

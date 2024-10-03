@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 tag: Catalog,Gift Card,Portal (CMS),Suggestions
-slug: confirm-action-unavailable-in-catalog-sellers-cms-and-gift-card-modules-for
+slugEN: confirm-action-unavailable-in-catalog-sellers-cms-and-gift-card-modules-for
 locale: en
 kiStatus: Fixed
 internalReference:  

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: error-when-install-customer-credit-app
+slugEN: error-when-install-customer-credit-app
 locale: en
 kiStatus: Backlog
 internalReference: 336533

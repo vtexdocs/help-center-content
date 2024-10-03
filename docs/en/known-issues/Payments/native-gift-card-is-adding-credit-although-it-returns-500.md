@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: native-gift-card-is-adding-credit-although-it-returns-500
+slugEN: native-gift-card-is-adding-credit-although-it-returns-500
 locale: en
 kiStatus: Backlog
 internalReference: 760896

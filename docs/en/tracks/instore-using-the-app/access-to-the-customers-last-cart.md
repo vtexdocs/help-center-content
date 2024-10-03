@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T15:09:02.341Z
 firstPublishedAt: 2021-08-05T14:46:10.377Z
 contentType: trackArticle
 productTeam: Shopping
-slug: access-to-the-customers-last-cart
+slugEN: access-to-the-customers-last-cart
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-using-the-app

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-24T22:08:30.103Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-ipay88
+slugEN: setting-up-payments-with-ipay88
 locale: en
 legacySlug: setting-up-payments-with-ipay88
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

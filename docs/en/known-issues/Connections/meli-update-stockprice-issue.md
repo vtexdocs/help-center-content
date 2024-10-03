@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-update-stockprice-issue
+slugEN: meli-update-stockprice-issue
 locale: en
 kiStatus: Fixed
 internalReference: 939329

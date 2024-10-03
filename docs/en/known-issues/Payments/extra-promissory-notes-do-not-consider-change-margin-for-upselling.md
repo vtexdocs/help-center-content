@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: extra-promissory-notes-do-not-consider-change-margin-for-upselling
+slugEN: extra-promissory-notes-do-not-consider-change-margin-for-upselling
 locale: en
 kiStatus: Fixed
 internalReference: 525987

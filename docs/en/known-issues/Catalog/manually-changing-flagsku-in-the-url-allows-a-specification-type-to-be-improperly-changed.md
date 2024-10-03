@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: manually-changing-flagsku-in-the-url-allows-a-specification-type-to-be-improperly-changed
+slugEN: manually-changing-flagsku-in-the-url-allows-a-specification-type-to-be-improperly-changed
 locale: en
 kiStatus: Backlog
 internalReference: 1083333

@@ -8,7 +8,7 @@ publishedAt: 2024-07-23T21:39:55.195Z
 firstPublishedAt: 2018-08-13T14:27:50.859Z
 contentType: trackArticle
 productTeam: Channels
-slug: mapping-product-categories-and-attributes-to-mercado-libre
+slugEN: mapping-product-categories-and-attributes-to-mercado-libre
 locale: en
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugEN: mercado-libre-integration-set-up

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-01-04T22:27:33.513Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slug: styles-overview
+slugEN: styles-overview
 locale: en
 legacySlug: styles-overview
 subcategoryId: 5HsDDU48ZP58JHWU3WbCPc

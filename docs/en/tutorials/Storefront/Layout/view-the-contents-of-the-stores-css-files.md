@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:05:09.943Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: view-the-contents-of-the-stores-css-files
+slugEN: view-the-contents-of-the-stores-css-files
 locale: en
 legacySlug: view-the-contents-of-the-stores-css-files
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

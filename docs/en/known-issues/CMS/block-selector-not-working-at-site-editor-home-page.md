@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: block-selector-not-working-at-site-editor-home-page
+slugEN: block-selector-not-working-at-site-editor-home-page
 locale: en
 kiStatus: Backlog
 internalReference: 431941

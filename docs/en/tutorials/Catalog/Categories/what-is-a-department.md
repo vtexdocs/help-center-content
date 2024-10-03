@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-25T21:28:24.229Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: what-is-a-department
+slugEN: what-is-a-department
 locale: en
 legacySlug: what-is-a-department
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec

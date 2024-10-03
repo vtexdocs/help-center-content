@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-17T19:22:10.702Z
 contentType: tutorial
 productTeam: Channels
 author: authors_35
-slug: how-the-integration-with-b2w-works
+slugEN: how-the-integration-with-b2w-works
 locale: en
 legacySlug: how-the-integration-with-b2w-works
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky

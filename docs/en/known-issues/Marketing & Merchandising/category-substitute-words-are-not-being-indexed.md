@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: category-substitute-words-are-not-being-indexed
+slugEN: category-substitute-words-are-not-being-indexed
 locale: en
 kiStatus: Backlog
 internalReference: 

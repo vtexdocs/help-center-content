@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slug: login-preference-with-password-cannot-be-undone-in-admin
+slugEN: login-preference-with-password-cannot-be-undone-in-admin
 locale: en
 kiStatus: Backlog
 internalReference: 1020548

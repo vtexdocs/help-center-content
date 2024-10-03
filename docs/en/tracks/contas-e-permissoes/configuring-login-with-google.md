@@ -8,7 +8,7 @@ publishedAt: 2021-10-28T18:41:34.218Z
 firstPublishedAt: 2020-01-13T14:32:39.158Z
 contentType: trackArticle
 productTeam: Identity
-slug: configuring-login-with-google
+slugEN: configuring-login-with-google
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: contas-e-permissoes

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-09-11T22:54:17.078Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: integration-guide-for-erps-full-catalog
+slugEN: integration-guide-for-erps-full-catalog
 locale: en
 legacySlug: integration-guide-for-erps-full-catalog
 subcategoryId: 5fKgQZhrCw88ACy6Su6GUc

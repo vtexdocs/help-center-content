@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T18:46:03.660Z
 contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: accounts-payable-international
+slugEN: accounts-payable-international
 locale: en
 legacySlug: accounts-payable-procedures-international
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC

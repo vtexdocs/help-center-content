@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: categorycommissionpercentage-on-seller-api-allowing-any-value
+slugEN: categorycommissionpercentage-on-seller-api-allowing-any-value
 locale: en
 kiStatus: Backlog
 internalReference: 382680

@@ -9,7 +9,7 @@ firstPublishedAt: 2023-12-18T15:02:08.524Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-argonpay
+slugEN: setting-up-payments-with-argonpay
 locale: en
 legacySlug: setting-up-payments-with-argonpay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

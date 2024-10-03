@@ -3,16 +3,16 @@ title: 'Cost center dropdown shows only 25 options in B2B Admin Customers'
 id: 1ynkpOppe8iqbwB3CF0euV
 status: PUBLISHED
 createdAt: 2023-10-17T23:11:29.713Z
-updatedAt: 2023-10-17T23:11:30.187Z
-publishedAt: 2023-10-17T23:11:30.187Z
+updatedAt: 2024-09-30T15:37:06.331Z
+publishedAt: 2024-09-30T15:37:06.331Z
 firstPublishedAt: 2023-10-17T23:11:30.187Z
 contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: cost-center-dropdown-shows-only-25-options-in-b2b-admin-customers
+slugEN: cost-center-dropdown-shows-only-25-options-in-b2b-admin-customers
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 921115
 ---
 

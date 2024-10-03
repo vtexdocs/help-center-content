@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-28T21:48:56.044Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-the-yamisplitmoipv1-gateway
+slugEN: setting-up-the-yamisplitmoipv1-gateway
 locale: en
 legacySlug: setting-up-the-yamisplitmoipv1-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

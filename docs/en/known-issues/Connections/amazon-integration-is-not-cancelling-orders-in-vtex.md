@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: amazon-integration-is-not-cancelling-orders-in-vtex
+slugEN: amazon-integration-is-not-cancelling-orders-in-vtex
 locale: en
 kiStatus: Backlog
 internalReference: 588456

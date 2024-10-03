@@ -9,7 +9,7 @@ firstPublishedAt: 2021-10-25T21:39:46.746Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: assembly-options
+slugEN: assembly-options
 locale: es
 legacySlug: assembly-options-es
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
@@ -57,7 +57,7 @@ El primer `[x-y]` corresponde a las reglas que se aplican al grupo, y entre cada
 | \[0-3\]#10000\[1-2\]**\[1\]**pricetable1;#20000\[0-2\]**\[0\]**pricetable2;#30000\[0-2\]**\[0\]**pricetable3 | Este segmento define la cantidad seleccionada por defecto para cada SKU.  |
 | \[0-3\]#10000\[1-2\]\[1\]**pricetable1**;#20000\[0-2\]\[0\]**pricetable2**;#30000\[0-2\]\[0\]**pricetable3** | El último segmento indica la tabla de precios de cada ítem.                    |
 
-![assembly-option-exemplo-ES](https://images.ctfassets.net/alneenqid6w5/2c4cfwQo0KisXQhlzYoxGC/3f3dbae528ee506cf1eddf109168bf1a/image.png)
+![assembly-option-exemplo-ES](//images.ctfassets.net/alneenqid6w5/2c4cfwQo0KisXQhlzYoxGC/3f3dbae528ee506cf1eddf109168bf1a/image.png)
 
 #### Configuración del anexo
 

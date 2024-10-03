@@ -9,7 +9,7 @@ firstPublishedAt: 2018-08-20T18:55:19.400Z
 contentType: tutorial
 productTeam: Financial
 author: authors_24
-slug: payu-romania-refund-details
+slugEN: payu-romania-refund-details
 locale: en
 legacySlug: payu-romania-refund-details
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu

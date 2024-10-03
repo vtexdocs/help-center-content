@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:13.594Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: setting-up-the-category-field-type
+slugEN: setting-up-the-category-field-type
 locale: en
 legacySlug: setting-up-the-category-field-type
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec

@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-06T14:27:39.314Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: how-to-setup-google-analytics-4-in-vtex-stores-in-legacy-cms-portal
+slugEN: how-to-setup-google-analytics-4-in-vtex-stores-in-legacy-cms-portal
 locale: en
 legacySlug: how-to-setup-google-analytics-4-in-vtex-stores-in-legacy-cms-portal
 subcategoryId: 1luKrYptdi8WoMYckakUaM

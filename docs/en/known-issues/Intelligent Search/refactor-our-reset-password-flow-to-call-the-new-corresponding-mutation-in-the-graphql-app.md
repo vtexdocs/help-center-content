@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: refactor-our-reset-password-flow-to-call-the-new-corresponding-mutation-in-the-graphql-app
+slugEN: refactor-our-reset-password-flow-to-call-the-new-corresponding-mutation-in-the-graphql-app
 locale: en
 kiStatus: Scheduled
 internalReference: 577825

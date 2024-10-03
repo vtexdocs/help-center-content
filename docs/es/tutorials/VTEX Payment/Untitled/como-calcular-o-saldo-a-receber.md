@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Financial
 author: 
-slug: como-calcular-o-saldo-a-receber
+slugEN: como-calcular-o-saldo-a-receber
 locale: es
 legacySlug: como-calcular-o-saldo-a-receber
 subcategoryId: 18xYXhZbElixqnashigi5k

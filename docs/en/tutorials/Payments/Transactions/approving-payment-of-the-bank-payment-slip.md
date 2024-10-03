@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:46.699Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: approving-payment-of-the-bank-payment-slip
+slugEN: approving-payment-of-the-bank-payment-slip
 locale: en
 legacySlug: approving-payment-of-the-bank-payment-slip
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu

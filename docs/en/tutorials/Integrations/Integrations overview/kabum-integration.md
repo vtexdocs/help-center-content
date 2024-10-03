@@ -9,7 +9,7 @@ firstPublishedAt: 2022-11-11T18:05:29.647Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: kabum-integration
+slugEN: kabum-integration
 locale: en
 legacySlug: kabum-integration
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq

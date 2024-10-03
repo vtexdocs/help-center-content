@@ -8,7 +8,7 @@ publishedAt: 2023-03-28T18:13:42.997Z
 firstPublishedAt: 2019-06-25T15:06:05.521Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: adding-skus
+slugEN: adding-skus
 locale: en
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugEN: catalog-101
@@ -43,7 +43,7 @@ There are two flows which can be used to add SKUs through the VTEX Admin: creati
 After adding a SKU you’ll need to also link an image to it in order to activate it. Follow the steps below to add an image:
 
 1.	On the page where you added a SKU, click on the **Images** tab
-![picture6.en](https://images.ctfassets.net/alneenqid6w5/o99jKS63EZgaeahw9fQvn/47726c30833fd390f2c93f7ec6c0d404/picture6.en.png)
+![picture6.en](//images.ctfassets.net/alneenqid6w5/o99jKS63EZgaeahw9fQvn/47726c30833fd390f2c93f7ec6c0d404/picture6.en.png)
 2.	Click on `Insert` and choose the image you want to add.
 3.	Fill out the **Text** (image alt tag) and **Label** fields. The label will be used to assist with your site’s page template organization, by referencing the value contained within, i.e. front, side, upper side, etc.
 4.	Click on `Send`.
@@ -53,7 +53,7 @@ After adding a SKU you’ll need to also link an image to it in order to activat
 After adding the images, you must add the SKU specifications. The next step on this track will explain how to add specifications.
 
 1.	Click on the **Specifications** tab.
-![picture7.en](https://images.ctfassets.net/alneenqid6w5/4rKSynG7dNq1iwcwLZBKQo/6180b20ecf55cc6a841ac81757dd0f26/picture7.en.png) 
+![picture7.en](//images.ctfassets.net/alneenqid6w5/4rKSynG7dNq1iwcwLZBKQo/6180b20ecf55cc6a841ac81757dd0f26/picture7.en.png) 
 2.	Fill out the mandatory fields. Specifications may vary according to the selected SKU category.
 3.	Click on `Save`.
 

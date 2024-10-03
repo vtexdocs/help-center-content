@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:12:17.899Z
 contentType: tutorial
 productTeam: Financial
 author: authors_35
-slug: how-does-one-omit-a-payment-condition
+slugEN: how-does-one-omit-a-payment-condition
 locale: en
 legacySlug: how-does-one-omit-a-payment-condition
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

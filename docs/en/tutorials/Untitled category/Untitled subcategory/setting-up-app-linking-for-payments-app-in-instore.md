@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-26T20:04:50.239Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_59
-slug: setting-up-app-linking-for-payments-app-in-instore
+slugEN: setting-up-app-linking-for-payments-app-in-instore
 locale: en
 legacySlug: setting-up-app-linking-for-payments-app-in-instore
 subcategoryId: unknown-subcategory

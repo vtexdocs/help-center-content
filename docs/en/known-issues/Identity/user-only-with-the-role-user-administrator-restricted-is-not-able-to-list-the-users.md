@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slug: user-only-with-the-role-user-administrator-restricted-is-not-able-to-list-the-users
+slugEN: user-only-with-the-role-user-administrator-restricted-is-not-able-to-list-the-users
 locale: en
 kiStatus: Backlog
 internalReference: 932666

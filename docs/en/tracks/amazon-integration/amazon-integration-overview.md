@@ -8,7 +8,7 @@ publishedAt: 2021-09-14T20:00:38.897Z
 firstPublishedAt: 2021-07-19T20:20:16.684Z
 contentType: trackArticle
 productTeam: Channels
-slug: amazon-integration-overview
+slugEN: amazon-integration-overview
 locale: en
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugEN: amazon-integration

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: inconsistency-in-the-quantity-of-items-with-assembly-options-in-the-cart
+slugEN: inconsistency-in-the-quantity-of-items-with-assembly-options-in-the-cart
 locale: en
 kiStatus: Fixed
 internalReference: 417098

@@ -9,7 +9,7 @@ firstPublishedAt: 2023-07-14T18:11:24.293Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-inswitch
+slugEN: setting-up-payments-with-inswitch
 locale: en
 legacySlug: setting-up-payments-with-inswitch
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

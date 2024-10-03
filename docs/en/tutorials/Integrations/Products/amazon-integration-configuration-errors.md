@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-11T01:31:04.294Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: amazon-integration-configuration-errors
+slugEN: amazon-integration-configuration-errors
 locale: en
 legacySlug: amazon-integration-configuration-errors
 subcategoryId: 4HBbKdnwneGew2qGGykSM8

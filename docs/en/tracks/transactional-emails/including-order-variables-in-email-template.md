@@ -8,7 +8,7 @@ publishedAt: 2020-11-25T01:12:13.540Z
 firstPublishedAt: 2020-01-13T14:38:37.451Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: including-order-variables-in-email-template
+slugEN: including-order-variables-in-email-template
 locale: en
 trackId: 6IkJwttMw5T84mlY9RifRP
 trackSlugEN: transactional-emails
@@ -36,6 +36,6 @@ Note that the `courier` property is inside the `package` object. Therefore, you 
 
 `{{package.courier}}`
 
-![EN Incluir variáveis do pedido no template de e-mail - 2](https://images.ctfassets.net/alneenqid6w5/5MhBjWokAHVHZKXgvswn6X/cf78d7e9f4408c7eec101e5768aaef4b/EN_Incluir_vari__veis_do_pedido_no_template_de_e-mail_-_2.png)
+![EN Incluir variáveis do pedido no template de e-mail - 2](//images.ctfassets.net/alneenqid6w5/5MhBjWokAHVHZKXgvswn6X/cf78d7e9f4408c7eec101e5768aaef4b/EN_Incluir_vari__veis_do_pedido_no_template_de_e-mail_-_2.png)
 
 See that the example value ("Carrier Teste Courier S.A.") was inserted in the preview screen, below the __HTML__ and __JSON Data__ fields.

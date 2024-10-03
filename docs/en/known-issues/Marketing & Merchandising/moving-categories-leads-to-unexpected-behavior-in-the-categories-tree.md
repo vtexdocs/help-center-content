@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: moving-categories-leads-to-unexpected-behavior-in-the-categories-tree
+slugEN: moving-categories-leads-to-unexpected-behavior-in-the-categories-tree
 locale: en
 kiStatus: Backlog
 internalReference: 

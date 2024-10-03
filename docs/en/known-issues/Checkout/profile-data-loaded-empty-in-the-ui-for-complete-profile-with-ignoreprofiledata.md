@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: profile-data-loaded-empty-in-the-ui-for-complete-profile-with-ignoreprofiledata
+slugEN: profile-data-loaded-empty-in-the-ui-for-complete-profile-with-ignoreprofiledata
 locale: en
 kiStatus: Backlog
 internalReference: 1016582

@@ -9,7 +9,7 @@ firstPublishedAt: 2023-11-09T16:51:03.796Z
 contentType: frequentlyAskedQuestion
 productTeam: Billing
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: vtex-support-emea
+slugEN: vtex-support-emea
 locale: en
 legacySlug: vtex-support-emea
 ---

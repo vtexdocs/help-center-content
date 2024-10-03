@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-22T15:12:57.862Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slug: setup-safetypay
+slugEN: setup-safetypay
 locale: en
 legacySlug: setup-safetypay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

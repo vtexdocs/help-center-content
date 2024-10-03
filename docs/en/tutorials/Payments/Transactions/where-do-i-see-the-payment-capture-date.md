@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:05:52.821Z
 contentType: tutorial
 productTeam: Financial
 author: authors_24
-slug: where-do-i-see-the-payment-capture-date
+slugEN: where-do-i-see-the-payment-capture-date
 locale: en
 legacySlug: where-do-i-see-the-payment-capture-date
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu

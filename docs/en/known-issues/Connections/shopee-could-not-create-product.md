@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: shopee-could-not-create-product
+slugEN: shopee-could-not-create-product
 locale: en
 kiStatus: Fixed
 internalReference: 685149

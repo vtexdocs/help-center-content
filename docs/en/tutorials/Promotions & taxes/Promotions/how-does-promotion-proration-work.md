@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:04:52.363Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: how-does-promotion-proration-work
+slugEN: how-does-promotion-proration-work
 locale: en
 legacySlug: how-does-apportionment-of-promotions-work
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq

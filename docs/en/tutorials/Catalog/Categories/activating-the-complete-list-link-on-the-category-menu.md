@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:14.200Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: activating-the-complete-list-link-on-the-category-menu
+slugEN: activating-the-complete-list-link-on-the-category-menu
 locale: en
 legacySlug: activating-the-complete-list-link-on-the-category-menu
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
@@ -29,6 +29,6 @@ You can configure this when registering the category, selecting **Menu with acti
 - If it is checked, the category appears in the menu.
 - If it is not checked, the category does not appear and the Lista Completa option will appear on the site.
 
-![categoria2.en](https://images.ctfassets.net/alneenqid6w5/3KtFDmEUqs71YobX8VOibJ/6b3709cb7741069a6ead068b9eb40a4c/categoria2.en.png)
+![categoria2.en](//images.ctfassets.net/alneenqid6w5/3KtFDmEUqs71YobX8VOibJ/6b3709cb7741069a6ead068b9eb40a4c/categoria2.en.png)
 
 

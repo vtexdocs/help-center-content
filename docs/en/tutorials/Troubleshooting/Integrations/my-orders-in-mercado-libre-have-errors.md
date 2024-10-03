@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-28T16:04:14.266Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: my-orders-in-mercado-libre-have-errors
+slugEN: my-orders-in-mercado-libre-have-errors
 locale: en
 legacySlug: my-orders-in-mercado-libre-have-errors
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS

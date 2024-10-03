@@ -8,7 +8,7 @@ publishedAt: 2021-04-15T17:41:20.460Z
 firstPublishedAt: 2021-04-15T17:41:20.460Z
 contentType: trackArticle
 productTeam: Channels
-slug: authenticating-your-google-shopping-account
+slugEN: authenticating-your-google-shopping-account
 locale: en
 trackId: 25Sl7iOqq58PGfVfTAo8Xw
 trackSlugEN: integrating-with-google-shopping

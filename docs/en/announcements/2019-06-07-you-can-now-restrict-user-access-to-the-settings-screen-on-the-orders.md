@@ -8,7 +8,7 @@ publishedAt: 2021-03-22T20:31:47.345Z
 contentType: updates
 productTeam: Others
 author: 5DnIDwto7E6PRpdH1Kpdyu
-slug: you-can-now-restrict-user-access-to-the-settings-screen-on-the-orders
+slugEN: 2019-06-07-you-can-now-restrict-user-access-to-the-settings-screen-on-the-orders
 locale: en
 legacySlug: you-can-now-restrict-user-access-to-the-settings-screen-on-the-orders
 announcementImageID: ''
@@ -39,7 +39,7 @@ In order to do this, you need to add a product called `Checkout` to the desired 
 6. Choose the type of permission you wish to grant: either `Save Order Configuration` if you want to allow the user to edit the **Orders** secction, or `Save OrderForm Configuration` if you want the user to edit the **Cart** section.
 7. Finally, click on **Save**.
 
-![GIT-Checkout.en](https://images.ctfassets.net/alneenqid6w5/1stGxj4wiW6Ijfl4f5QFry/481f3c628d303dc72a40db8bbb81a89e/GIT-Checkout.en.gif)
+![GIT-Checkout.en](//images.ctfassets.net/alneenqid6w5/1stGxj4wiW6Ijfl4f5QFry/481f3c628d303dc72a40db8bbb81a89e/GIT-Checkout.en.gif)
 
 Upon adding this new product to a profile, ensure that the desired users are in fact linked to this profile.
 

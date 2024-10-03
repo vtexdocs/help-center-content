@@ -8,7 +8,7 @@ publishedAt: 2024-08-06T14:24:02.734Z
 firstPublishedAt: 2021-04-15T17:41:23.772Z
 contentType: trackArticle
 productTeam: Channels
-slug: sending-products-to-google-shopping
+slugEN: sending-products-to-google-shopping
 locale: en
 trackId: 25Sl7iOqq58PGfVfTAo8Xw
 trackSlugEN: integrating-with-google-shopping

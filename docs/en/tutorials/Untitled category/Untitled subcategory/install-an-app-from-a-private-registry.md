@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Others
 author: 
-slug: install-an-app-from-a-private-registry
+slugEN: install-an-app-from-a-private-registry
 locale: en
 legacySlug: install-an-app-from-a-private-registry
 subcategoryId: unknown-subcategory

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: breadcrumb-not-being-read-by-crawlers-due-ssr-timeout
+slugEN: breadcrumb-not-being-read-by-crawlers-due-ssr-timeout
 locale: en
 kiStatus: Backlog
 internalReference: 460999

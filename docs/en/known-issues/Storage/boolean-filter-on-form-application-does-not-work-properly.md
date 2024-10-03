@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: boolean-filter-on-form-application-does-not-work-properly
+slugEN: boolean-filter-on-form-application-does-not-work-properly
 locale: en
 kiStatus: Backlog
 internalReference: 918537

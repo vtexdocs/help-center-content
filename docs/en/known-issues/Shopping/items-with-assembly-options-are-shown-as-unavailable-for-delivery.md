@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: items-with-assembly-options-are-shown-as-unavailable-for-delivery
+slugEN: items-with-assembly-options-are-shown-as-unavailable-for-delivery
 locale: en
 kiStatus: Backlog
 internalReference: 

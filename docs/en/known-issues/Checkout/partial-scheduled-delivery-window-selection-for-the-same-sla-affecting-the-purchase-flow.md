@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: partial-scheduled-delivery-window-selection-for-the-same-sla-affecting-the-purchase-flow
+slugEN: partial-scheduled-delivery-window-selection-for-the-same-sla-affecting-the-purchase-flow
 locale: en
 kiStatus: Backlog
 internalReference: 627261

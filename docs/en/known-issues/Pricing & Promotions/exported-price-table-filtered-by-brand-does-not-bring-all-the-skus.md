@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: exported-price-table-filtered-by-brand-does-not-bring-all-the-skus
+slugEN: exported-price-table-filtered-by-brand-does-not-bring-all-the-skus
 locale: en
 kiStatus: Fixed
 internalReference: 594075

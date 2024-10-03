@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:04:13.713Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: order-status-table-oms
+slugEN: order-status-table-oms
 locale: en
 legacySlug: from-to-for-order-status
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

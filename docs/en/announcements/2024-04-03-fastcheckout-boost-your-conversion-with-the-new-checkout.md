@@ -8,7 +8,7 @@ publishedAt: 2024-04-23T10:00:03.018Z
 contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: fastcheckout-boost-your-conversion-with-the-new-checkout
+slugEN: 2024-04-03-fastcheckout-boost-your-conversion-with-the-new-checkout
 locale: en
 legacySlug: fastcheckout-boost-your-conversion-with-the-new-checkout
 announcementImageID: ''
@@ -54,7 +54,7 @@ We allow you to add fully custom elements, without having to be familiar with Ja
 
 The new purchase flow in FastCheckout is designed to be dynamic and intuitive, providing your customers with a more fluid and streamlined buying experience. We've made the checkout process more efficient with clear steps and intuitive navigation.
 
-![GIFCheckout](https://images.ctfassets.net/alneenqid6w5/3BruRej7wHet2sTobFDLBD/0f6cf76a12a01a77905195ba835d5028/GIFCheckout.gif)
+![GIFCheckout](//images.ctfassets.net/alneenqid6w5/3BruRej7wHet2sTobFDLBD/0f6cf76a12a01a77905195ba835d5028/GIFCheckout.gif)
 
 ## Why did we make this change?
 

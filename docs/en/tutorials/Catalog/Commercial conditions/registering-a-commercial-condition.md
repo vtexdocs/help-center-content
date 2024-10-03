@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:25.137Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: registering-a-commercial-condition
+slugEN: registering-a-commercial-condition
 locale: en
 legacySlug: registering-a-commercial-conditioin
 subcategoryId: 6312YEqn0AGYCsOOESSIQM

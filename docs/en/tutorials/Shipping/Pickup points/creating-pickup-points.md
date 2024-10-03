@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-30T18:28:31.695Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: creating-pickup-points
+slugEN: creating-pickup-points
 locale: en
 legacySlug: how-to-import-pickup-points-using-spreadsheets, adding-pickup-points
 subcategoryId: 1c5Btie9ou2Gg2iUo0ggqM

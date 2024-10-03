@@ -8,7 +8,7 @@ publishedAt: 2020-09-15T19:45:43.519Z
 firstPublishedAt: 2020-01-13T21:02:12.253Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: campaigns-what-are-they-and-how-to-create-them
+slugEN: campaigns-what-are-they-and-how-to-create-them
 locale: en
 trackId: 6asfF1vFYiZgTQtOzwJchR
 trackSlugEN: promotions

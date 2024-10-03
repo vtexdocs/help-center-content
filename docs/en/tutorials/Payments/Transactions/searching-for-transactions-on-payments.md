@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:27.019Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: searching-for-transactions-on-payments
+slugEN: searching-for-transactions-on-payments
 locale: en
 legacySlug: searching-for-transactions-on-pci-gateway
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
@@ -41,7 +41,7 @@ In the Orders Management, if you click on a given order, you'll see a page with 
 
 The search using these codes must necessarily contain all digits, or your search will return empty. Here's how to find them:
 
-![Códigos EN](https://images.ctfassets.net/alneenqid6w5/3TyYDhqphmKCCEGce8o6EE/6a2fe4bb481b991e2d9c0d8d25d3c3d3/C__digos_EN.png)
+![Códigos EN](//images.ctfassets.net/alneenqid6w5/3TyYDhqphmKCCEGce8o6EE/6a2fe4bb481b991e2d9c0d8d25d3c3d3/C__digos_EN.png)
 
 These values, within the transaction detail, represent the communication with the respective connector. At [transaction events](/en/tutorial/how-to-view-the-orders-details), it is possible to validate each contact made.
 

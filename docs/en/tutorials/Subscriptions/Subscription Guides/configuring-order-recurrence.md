@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-28T19:23:44.020Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_61
-slug: configuring-order-recurrence
+slugEN: configuring-order-recurrence
 locale: en
 legacySlug: configuring-order-recurrence
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM

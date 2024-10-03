@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:14:26.579Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: carries-on-vtex
+slugEN: carries-on-vtex
 locale: en
 legacySlug: what-is-a-carrier
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

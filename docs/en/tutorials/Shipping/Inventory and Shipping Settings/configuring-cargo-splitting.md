@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:42.951Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: configuring-cargo-splitting
+slugEN: configuring-cargo-splitting
 locale: en
 legacySlug: configuring-cargo-splitting
 subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi

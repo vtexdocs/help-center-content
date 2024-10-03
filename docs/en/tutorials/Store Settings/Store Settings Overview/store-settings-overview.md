@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-29T23:07:38.446Z
 contentType: tutorial
 productTeam: Management
 author: authors_84
-slug: store-settings-overview
+slugEN: store-settings-overview
 locale: en
 legacySlug: store-settings-overview
 subcategoryId: 5RAUzLD6X9Wa1maenj1eGA

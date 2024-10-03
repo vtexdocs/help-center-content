@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-03T14:07:40.683Z
 contentType: tutorial
 productTeam: Shopping
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: what-is-the-shared-cart
+slugEN: what-is-the-shared-cart
 locale: en
 legacySlug: what-is-the-shared-cart
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk

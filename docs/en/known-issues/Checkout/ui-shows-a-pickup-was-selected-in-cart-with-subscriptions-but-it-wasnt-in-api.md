@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: ui-shows-a-pickup-was-selected-in-cart-with-subscriptions-but-it-wasnt-in-api
+slugEN: ui-shows-a-pickup-was-selected-in-cart-with-subscriptions-but-it-wasnt-in-api
 locale: en
 kiStatus: Backlog
 internalReference: 996976

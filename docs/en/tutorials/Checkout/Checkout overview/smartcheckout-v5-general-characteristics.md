@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:15.321Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_65
-slug: smartcheckout-v5-general-characteristics
+slugEN: smartcheckout-v5-general-characteristics
 locale: en
 legacySlug: migrating-to-the-new-version-of-smart-checkout
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk

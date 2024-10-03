@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-03T21:38:42.376Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: understand-your-balance
+slugEN: understand-your-balance
 locale: en
 legacySlug: understand-your-balance
 subcategoryId: 29ZPBdZOTSg6NdzprcqBfb

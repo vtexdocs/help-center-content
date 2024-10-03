@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: 12-digits-cardnumber-being-accepted-in-checkout-and-causing-stuck-transactions
+slugEN: 12-digits-cardnumber-being-accepted-in-checkout-and-causing-stuck-transactions
 locale: en
 kiStatus: Backlog
 internalReference: 452392

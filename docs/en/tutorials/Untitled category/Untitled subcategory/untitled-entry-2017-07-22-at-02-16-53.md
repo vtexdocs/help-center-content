@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:22:17.766Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
-slug: untitled-entry-2017-07-22-at-02-16-53
+slugEN: untitled-entry-2017-07-22-at-02-16-53
 locale: en
 legacySlug: untitled-entry-2017-07-22-at-02-16-53
 subcategoryId: unknown-subcategory

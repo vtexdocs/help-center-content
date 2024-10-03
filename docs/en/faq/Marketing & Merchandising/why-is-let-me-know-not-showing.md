@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:25.457Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: why-is-let-me-know-not-showing
+slugEN: why-is-let-me-know-not-showing
 locale: en
 legacySlug: why-is-let-me-know-not-showing
 ---

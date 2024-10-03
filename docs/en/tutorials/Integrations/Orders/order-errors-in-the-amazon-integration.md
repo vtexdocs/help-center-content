@@ -9,7 +9,7 @@ firstPublishedAt: 2021-08-31T16:03:20.021Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: order-errors-in-the-amazon-integration
+slugEN: order-errors-in-the-amazon-integration
 locale: en
 legacySlug: order-errors-in-the-amazon-integration
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky

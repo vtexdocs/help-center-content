@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:12.436Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: how-to-assemble-a-look-kit
+slugEN: how-to-assemble-a-look-kit
 locale: en
 legacySlug: how-to-assemble-a-look-kit
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -39,7 +39,7 @@ In the layout above, it is possible to choose the kit items the customer would l
 
 Alternatively, if you prefer, you may buy the complete kit, with all selected items.
 
-![](https://images.contentful.com/alneenqid6w5/4ol1nKNyx2WYw26wQscgEE/986c00a0096dd93ac7c3ce206ecf049e/kit-look-jackthebarber-exemplo.gif)
+![](//images.contentful.com/alneenqid6w5/4ol1nKNyx2WYw26wQscgEE/986c00a0096dd93ac7c3ce206ecf049e/kit-look-jackthebarber-exemplo.gif)
 
 In this layout, for each item there is a button “Comprar Separadamente”.
 

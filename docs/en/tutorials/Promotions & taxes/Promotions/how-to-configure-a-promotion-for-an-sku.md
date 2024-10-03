@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:53:56.366Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-configure-a-promotion-for-an-sku
+slugEN: how-to-configure-a-promotion-for-an-sku
 locale: en
 legacySlug: how-to-configure-a-promotion-for-a-sku
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq

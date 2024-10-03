@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-27T16:42:56.071Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: autocomplete
+slugEN: autocomplete
 locale: pt
 legacySlug: autocomplete
 subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7
@@ -49,16 +49,16 @@ Essa seção exibe os termos mais buscados por outros clientes dentro do site.
 
 Essa seção exibe as últimas buscas efetuadas pelo cliente. Assim, é possível  iniciar a interação com a busca instantaneamente.
 
-![PT - Autocomplete historico](https://images.ctfassets.net/alneenqid6w5/1GXQ879Y9rEMXFKjVquys1/4f68e9d2277b02d56cb155ecf29fcfc6/PT_-_Autocomplete_historico.png)
+![PT - Autocomplete historico](//images.ctfassets.net/alneenqid6w5/1GXQ879Y9rEMXFKjVquys1/4f68e9d2277b02d56cb155ecf29fcfc6/PT_-_Autocomplete_historico.png)
 
 ## Sugestão de buscas
 
 Essa seção apresenta os termos pesquisados por outros usuários que se relacionam com a busca efetuada naquele momento. Além de termos, também são sugeridas categorias que estejam relacionadas com a busca.
 
-![PT - Autocomplete sugestao termos](https://images.ctfassets.net/alneenqid6w5/2rOg8Q94A0F8VEbueLkXDS/34faeaa87bbf7989072e3dddec7f9b04/PT_-_Autocomplete_sugestao_termos.png)
+![PT - Autocomplete sugestao termos](//images.ctfassets.net/alneenqid6w5/2rOg8Q94A0F8VEbueLkXDS/34faeaa87bbf7989072e3dddec7f9b04/PT_-_Autocomplete_sugestao_termos.png)
 
 ## Sugestão de produtos
 
 Essa seção apresenta os produtos que correspondem a busca efetuada naquele momento. Dessa forma, ao mostrar produtos relacionados a sua busca durante a sua digitação, diminui as desistências e dá a possibilidade do usuário efetuar uma compra mais dinâmica.
 
-![PT - Autocomplete sugestao de produtos](https://images.ctfassets.net/alneenqid6w5/1wXXgJr59cCCjz00DHA3nU/49288947b9326f3309ed7bea482a2331/PT_-_Autocomplete_sugestao_de_produtos.png)
+![PT - Autocomplete sugestao de produtos](//images.ctfassets.net/alneenqid6w5/1wXXgJr59cCCjz00DHA3nU/49288947b9326f3309ed7bea482a2331/PT_-_Autocomplete_sugestao_de_produtos.png)

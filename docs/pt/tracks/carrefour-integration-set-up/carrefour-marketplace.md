@@ -8,7 +8,7 @@ publishedAt: 2021-12-27T17:29:56.537Z
 firstPublishedAt: 2021-12-27T17:11:27.174Z
 contentType: trackArticle
 productTeam: Channels
-slug: carrefour-marketplace
+slugEN: carrefour-marketplace
 locale: pt
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugPT: configurar-integracao-do-carrefour

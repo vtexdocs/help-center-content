@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
-slug: group-by-delivery-method-on-sales-performance-not-working-as-expected
+slugEN: group-by-delivery-method-on-sales-performance-not-working-as-expected
 locale: en
 kiStatus: No Fix
 internalReference: 639294

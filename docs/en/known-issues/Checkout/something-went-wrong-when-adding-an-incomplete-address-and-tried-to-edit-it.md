@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: something-went-wrong-when-adding-an-incomplete-address-and-tried-to-edit-it
+slugEN: something-went-wrong-when-adding-an-incomplete-address-and-tried-to-edit-it
 locale: en
 kiStatus: Backlog
 internalReference: 960064

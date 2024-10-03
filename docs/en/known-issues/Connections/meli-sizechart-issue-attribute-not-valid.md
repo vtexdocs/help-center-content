@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-sizechart-issue-attribute-not-valid
+slugEN: meli-sizechart-issue-attribute-not-valid
 locale: en
 kiStatus: Fixed
 internalReference: 996639

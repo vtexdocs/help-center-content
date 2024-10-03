@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: intl-not-considering-custom-currency-in-formatcurrency
+slugEN: intl-not-considering-custom-currency-in-formatcurrency
 locale: en
 kiStatus: Backlog
 internalReference: 736695

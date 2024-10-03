@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: cms-settings-role-not-working-as-expected
+slugEN: cms-settings-role-not-working-as-expected
 locale: en
 kiStatus: Backlog
 internalReference: 538706

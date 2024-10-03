@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: inconsistency-when-searching-for-facets-that-contains-results-with-large-specification-values
+slugEN: inconsistency-when-searching-for-facets-that-contains-results-with-large-specification-values
 locale: en
 kiStatus: Backlog
 internalReference: 824198

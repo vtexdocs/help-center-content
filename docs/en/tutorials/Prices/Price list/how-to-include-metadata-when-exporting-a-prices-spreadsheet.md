@@ -9,7 +9,7 @@ firstPublishedAt: 2019-05-27T22:04:09.462Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
-slug: how-to-include-metadata-when-exporting-a-prices-spreadsheet
+slugEN: how-to-include-metadata-when-exporting-a-prices-spreadsheet
 locale: en
 legacySlug: how-to-include-metadata-when-exporting-a-prices-spreadsheet
 subcategoryId: 4id9W3RDyw02CasOm2C2iy
@@ -24,6 +24,6 @@ To include metadata when exporting a SKU prices spreadsheet, follow the steps be
 4. In the newly opened tab, on the left side, hover over and click on the **Export Prices Spreadsheet** button
 5. A new window will slide onto the screen, mark the box next to **include metadata in exported tables**
 6. Click on the blue **export table** button
-![2019 05 27 18 57 59 Price list.jpg?h=250](https://images.ctfassets.net/alneenqid6w5/3fhLCNPgh0gZO03Hwd9doY/a9dca1de548aa67081bbe578ac75d57d/2019_05_27_18_57_59_Price_list.jpg_h_250)
+![2019 05 27 18 57 59 Price list.jpg?h=250](//images.ctfassets.net/alneenqid6w5/3fhLCNPgh0gZO03Hwd9doY/a9dca1de548aa67081bbe578ac75d57d/2019_05_27_18_57_59_Price_list.jpg_h_250)
 
 You'll receive an email with the exported table shortly.

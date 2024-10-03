@@ -9,7 +9,7 @@ firstPublishedAt: 2017-11-22T02:37:19.330Z
 contentType: tutorial
 productTeam: Others
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: opening-tickets-to-vtex-support
+slugEN: opening-tickets-to-vtex-support
 locale: en
 legacySlug: opening-tickets-to-vtex-support
 subcategoryId: 1VvCpaa8NCA6a0MK6W6oWg

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: subscriptions-when-the-seller-is-a-pickup-point-and-does-not-have-one-of-the-skus
+slugEN: subscriptions-when-the-seller-is-a-pickup-point-and-does-not-have-one-of-the-skus
 locale: en
 kiStatus: Backlog
 internalReference: 666701

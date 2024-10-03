@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: sitemap-from-subaccounts-including-products-from-other-subaccounts-and-mainaccount
+slugEN: sitemap-from-subaccounts-including-products-from-other-subaccounts-and-mainaccount
 locale: en
 kiStatus: Backlog
 internalReference: 617974

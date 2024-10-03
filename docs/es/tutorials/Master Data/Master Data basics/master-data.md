@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: master-data
+slugEN: master-data
 locale: es
 legacySlug: que-es-el-master-data
 subcategoryId: 1l3IVVYwrrG5YOtdt7R2SN

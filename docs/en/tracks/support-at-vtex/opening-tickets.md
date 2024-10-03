@@ -8,7 +8,7 @@ publishedAt: 2024-02-22T14:09:13.418Z
 firstPublishedAt: 2024-02-22T14:09:13.418Z
 contentType: trackArticle
 productTeam: Others
-slug: opening-tickets
+slugEN: opening-tickets
 locale: en
 trackId: 4AXsGdGHqExp9ZkiNq9eMy
 trackSlugEN: support-at-vtex

@@ -8,7 +8,7 @@ publishedAt: 2021-12-29T17:25:49.754Z
 firstPublishedAt: 2021-12-27T17:11:48.631Z
 contentType: trackArticle
 productTeam: Channels
-slug: carrefour-integration-overview
+slugEN: carrefour-integration-overview
 locale: en
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugEN: carrefour-integration-set-up

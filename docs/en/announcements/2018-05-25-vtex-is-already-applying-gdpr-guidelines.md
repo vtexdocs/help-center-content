@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:59.464Z
 contentType: updates
 productTeam: Others
 author: authors_24
-slug: vtex-is-already-applying-gdpr-guidelines
+slugEN: 2018-05-25-vtex-is-already-applying-gdpr-guidelines
 locale: en
 legacySlug: vtex-is-already-applying-gdpr-guidelines
 announcementImageID: ''

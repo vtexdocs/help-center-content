@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: orderform-remains-with-credit-card-that-were-removed-via-myaccount-page
+slugEN: orderform-remains-with-credit-card-that-were-removed-via-myaccount-page
 locale: en
 kiStatus: Fixed
 internalReference: 276823

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-31T18:29:04.116Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: customize-suiteshare
+slugEN: customize-suiteshare
 locale: en
 legacySlug: customize
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

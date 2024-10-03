@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-incorrectly-sending-item-details-to-transaction
+slugEN: checkout-incorrectly-sending-item-details-to-transaction
 locale: en
 kiStatus: No Fix
 internalReference: 535859

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: sku-insert-file-api-is-not-responding-with-the-text-property
+slugEN: sku-insert-file-api-is-not-responding-with-the-text-property
 locale: en
 kiStatus: Fixed
 internalReference: 1014787

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: adjust-processing-tab-export
+slugEN: adjust-processing-tab-export
 locale: en
 kiStatus: Backlog
 internalReference: 649311

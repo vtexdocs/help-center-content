@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:18.705Z
 contentType: tutorial
 productTeam: Identity
 author: authors_84
-slug: setting-up-alternative-accounts
+slugEN: setting-up-alternative-accounts
 locale: en
 legacySlug: setting-up-alternative-accounts
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

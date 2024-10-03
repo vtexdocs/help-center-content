@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-08T04:14:58.939Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 4tz85APeKIwMEk6amWS0ou
-slug: vtex-io-2018-3-release-notes-and-migration-guide
+slugEN: vtex-io-2018-3-release-notes-and-migration-guide
 locale: en
 legacySlug: vtex-io-2018-3-release-notes-and-migration-guide
 subcategoryId: 5eBwrcLFVSwYGSOQqGKQYW

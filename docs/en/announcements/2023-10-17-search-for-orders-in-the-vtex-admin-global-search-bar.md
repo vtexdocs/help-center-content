@@ -8,7 +8,7 @@ publishedAt: 2023-10-17T21:04:22.374Z
 contentType: updates
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: search-for-orders-in-the-vtex-admin-global-search-bar
+slugEN: 2023-10-17-search-for-orders-in-the-vtex-admin-global-search-bar
 locale: en
 legacySlug: la-barra-de-busqueda-global-del-admin-vtex-ahora-permite-buscar-pedidos
 announcementImageID: ''

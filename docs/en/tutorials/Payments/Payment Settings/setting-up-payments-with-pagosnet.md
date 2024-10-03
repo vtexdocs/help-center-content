@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-05T22:52:12.806Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-pagosnet
+slugEN: setting-up-payments-with-pagosnet
 locale: en
 legacySlug: setting-up-payments-with-pagosnet
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

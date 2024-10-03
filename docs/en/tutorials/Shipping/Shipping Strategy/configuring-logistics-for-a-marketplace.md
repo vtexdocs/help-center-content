@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:22.672Z
 contentType: tutorial
 productTeam: Channels
 author: authors_3
-slug: configuring-logistics-for-a-marketplace
+slugEN: configuring-logistics-for-a-marketplace
 locale: en
 legacySlug: configuring-logistics-for-a-marketplace
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

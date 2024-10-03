@@ -8,7 +8,7 @@ publishedAt: 2023-03-29T18:29:21.378Z
 firstPublishedAt: 2019-07-17T19:41:10.765Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: cadastrar-preco-base
+slugEN: cadastrar-preco-base
 locale: pt
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugPT: precos-101

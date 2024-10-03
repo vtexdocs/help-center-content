@@ -8,7 +8,7 @@ publishedAt: 2021-03-16T16:39:05.311Z
 firstPublishedAt: 2020-06-05T02:16:01.490Z
 contentType: trackArticle
 productTeam: Channels
-slug: netshoes-marketplace
+slugEN: netshoes-marketplace
 locale: en
 trackId: 5Ua87lhFg4m0kEcuyqmcCm
 trackSlugEN: netshoes-integration-set-up

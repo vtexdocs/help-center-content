@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:55:12.448Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 4tz85APeKIwMEk6amWS0ou
-slug: what-is-vtex-render
+slugEN: what-is-vtex-render
 locale: en
 legacySlug: what-is-vtex-render
 subcategoryId: 5eBwrcLFVSwYGSOQqGKQYW

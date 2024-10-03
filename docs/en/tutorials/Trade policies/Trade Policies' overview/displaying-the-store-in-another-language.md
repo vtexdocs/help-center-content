@@ -9,7 +9,7 @@ firstPublishedAt: 2018-12-11T19:17:51.367Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_3
-slug: displaying-the-store-in-another-language
+slugEN: displaying-the-store-in-another-language
 locale: en
 legacySlug: displaying-the-store-in-another-language
 subcategoryId: 6J3wx7KM4oysymsWuUACyY

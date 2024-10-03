@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: api-to-list-pickup-points-does-not-return-additionalinfo-field
+slugEN: api-to-list-pickup-points-does-not-return-additionalinfo-field
 locale: en
 kiStatus: No Fix
 internalReference: 650714

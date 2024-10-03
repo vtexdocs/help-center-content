@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-22T15:36:33.971Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: tQE5om2IkUGJTtk7aX8Yl
-slug: how-to-associate-two-promotions-to-the-same-coupon
+slugEN: how-to-associate-two-promotions-to-the-same-coupon
 locale: en
 legacySlug: how-to-sync-two-benefits-to-the-same-coupon
 ---
@@ -39,6 +39,6 @@ Check below how to perform this process:
 9. Repeat the process with the second regular promotion.
 10. In the end, both promotions must present the same UTM.
 
-  ![Sincronizar promoções no mesmo cupom - 2 - EN](https://images.ctfassets.net/alneenqid6w5/5nhdQy1Y4YWs4pHHokSA44/491e1a1df904baa955571eed701be5f5/5nhdQy1Y4YWs4pHHokSA44_-_EN.png)
+  ![Sincronizar promoções no mesmo cupom - 2 - EN](//images.ctfassets.net/alneenqid6w5/5nhdQy1Y4YWs4pHHokSA44/491e1a1df904baa955571eed701be5f5/5nhdQy1Y4YWs4pHHokSA44_-_EN.png)
 
 With this, the customer can get a full discount of both values before closing the purchase.

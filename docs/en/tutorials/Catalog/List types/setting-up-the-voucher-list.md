@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:13.396Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: setting-up-the-voucher-list
+slugEN: setting-up-the-voucher-list
 locale: en
 legacySlug: setting-up-the-voucher-list
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
@@ -33,7 +33,7 @@ To create this type of list, an SKU must be set up as follows:
 
 The creation of this type of list requires that in the List Types settings the delivery is marked as “Value of products purchased will be converted into a gift card voucher”. See the example image.
 
-![entrega-tipos-lista en](https://images.ctfassets.net/alneenqid6w5/3WBtZ9m8zSsUmaIgYaIUSq/00be0c7191f283fa2f4ef1abdab917b6/entrega-tipos-lista_en.png)
+![entrega-tipos-lista en](//images.ctfassets.net/alneenqid6w5/3WBtZ9m8zSsUmaIgYaIUSq/00be0c7191f283fa2f4ef1abdab917b6/entrega-tipos-lista_en.png)
 
 
 Save your list after you have defined all settings.

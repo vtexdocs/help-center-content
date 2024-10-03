@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-24T18:55:15.925Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: i-cant-view-the-product-in-the-search-results
+slugEN: i-cant-view-the-product-in-the-search-results
 locale: en
 legacySlug: i-cant-view-the-product-in-the-search-results
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
@@ -23,7 +23,7 @@ Example scenario: When searching the store's website for products containing the
 
 ![Filter_1](https://images.ctfassets.net/alneenqid6w5/1bMAcWQEyVXBsUBZQp8H0K/568f6f3868b13d54ed4335b4574ac434/Filter_1.png)
 
-![Filter_2](https://images.ctfassets.net/alneenqid6w5/5TL7uaMv37zf7AGwohmAKu/06017d321b1996515da01c11ea53403c/Filter_2.png)
+![Filter_2](//images.ctfassets.net/alneenqid6w5/5TL7uaMv37zf7AGwohmAKu/06017d321b1996515da01c11ea53403c/Filter_2.png)
 
 This behavior can occur due to the following reasons:
 
@@ -79,7 +79,7 @@ To remove the restriction on searching by *brand* and allow products to be found
 
 <blockquote><ui>4. Under <b>Choose an app</b>, click the Rewriter app option (<b>vtex.rewriter@{app-version-number}</b>).</ui>
 
-![Graphql_ide_en](https://images.ctfassets.net/alneenqid6w5/1IBr0HvF5xxf2nfxIwW4YC/6e0774e72b9a6e4a6b85a4c47986fe84/Graphql_ide_en.png)
+![Graphql_ide_en](//images.ctfassets.net/alneenqid6w5/1IBr0HvF5xxf2nfxIwW4YC/6e0774e72b9a6e4a6b85a4c47986fe84/Graphql_ide_en.png)
 
 <blockquote><ui>5. In the query input field (below <b>GraphiQL</b>), enter the details of the <i>saveInternal</i> mutation function.<ui>
 

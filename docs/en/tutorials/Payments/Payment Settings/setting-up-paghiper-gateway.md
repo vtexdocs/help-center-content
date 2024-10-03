@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-09T22:43:35.309Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-paghiper-gateway
+slugEN: setting-up-paghiper-gateway
 locale: en
 legacySlug: setting-up-paghiper-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

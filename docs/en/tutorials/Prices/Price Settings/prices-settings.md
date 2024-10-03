@@ -9,7 +9,7 @@ firstPublishedAt: 2020-10-22T19:38:48.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: prices-settings
+slugEN: prices-settings
 locale: en
 legacySlug: price-configuration
 subcategoryId: 3O1NvPgBPqE0qU88MSQaie

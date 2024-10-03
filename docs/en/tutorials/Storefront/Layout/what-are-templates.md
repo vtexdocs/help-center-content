@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-02T18:01:16.862Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
-slug: what-are-templates
+slugEN: what-are-templates
 locale: en
 legacySlug: what-are-templates
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

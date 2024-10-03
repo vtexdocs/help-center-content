@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: wrong-translation-for-different-fields-under-the-same-original-value
+slugEN: wrong-translation-for-different-fields-under-the-same-original-value
 locale: en
 kiStatus: Backlog
 internalReference: 982848

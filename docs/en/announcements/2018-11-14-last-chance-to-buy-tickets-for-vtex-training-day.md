@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T14:54:35.479Z
 contentType: updates
 productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
-slug: last-chance-to-buy-tickets-for-vtex-training-day
+slugEN: 2018-11-14-last-chance-to-buy-tickets-for-vtex-training-day
 locale: en
 legacySlug: last-chance-to-buy-tickets-for-vtex-training-day
 announcementImageID: ''

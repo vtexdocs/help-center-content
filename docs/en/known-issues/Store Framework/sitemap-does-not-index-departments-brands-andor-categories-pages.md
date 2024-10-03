@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: sitemap-does-not-index-departments-brands-andor-categories-pages
+slugEN: sitemap-does-not-index-departments-brands-andor-categories-pages
 locale: en
 kiStatus: Backlog
 internalReference: 1076965

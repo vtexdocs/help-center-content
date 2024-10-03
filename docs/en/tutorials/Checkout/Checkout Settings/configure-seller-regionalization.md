@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-26T18:34:14.924Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: configure-seller-regionalization
+slugEN: configure-seller-regionalization
 locale: en
 legacySlug: configure-seller-regionalization
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

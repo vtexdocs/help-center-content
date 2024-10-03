@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: error-in-the-cancellation-process-erederest-and-erede-v2-only-allows-cancelation-when-the-returncode-is-359
+slugEN: error-in-the-cancellation-process-erederest-and-erede-v2-only-allows-cancelation-when-the-returncode-is-359
 locale: en
 kiStatus: Backlog
 internalReference: 740084

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: sales-channel-configured-in-b2b-settings-is-not-assigned-after-approving-organizations
+slugEN: sales-channel-configured-in-b2b-settings-is-not-assigned-after-approving-organizations
 locale: en
 kiStatus: Backlog
 internalReference: 866933

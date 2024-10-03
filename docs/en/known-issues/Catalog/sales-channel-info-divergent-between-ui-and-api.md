@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: sales-channel-info-divergent-between-ui-and-api
+slugEN: sales-channel-info-divergent-between-ui-and-api
 locale: en
 kiStatus: Backlog
 internalReference: 802560

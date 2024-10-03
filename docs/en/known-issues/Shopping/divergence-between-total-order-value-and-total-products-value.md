@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: divergence-between-total-order-value-and-total-products-value
+slugEN: divergence-between-total-order-value-and-total-products-value
 locale: en
 kiStatus: Backlog
 internalReference: 
@@ -26,7 +26,7 @@ The order is closed and normally transacted at VTEX. But, depending on the exter
 
 Example of occurrence:
 
-![image](https://images.ctfassets.net/alneenqid6w5/4sJOKvC97OggkWYoCQaa6G/c6b38b60fc500436bb36a5ae6409094e/image.png)
+![image](//images.ctfassets.net/alneenqid6w5/4sJOKvC97OggkWYoCQaa6G/c6b38b60fc500436bb36a5ae6409094e/image.png)
 
 In this case, the total value of the order charged to the customer was `R$ 7.98`. However, when adding the sales figures recorded in each product, the total would be `R$ 7.95`.
 

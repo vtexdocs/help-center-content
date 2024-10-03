@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-10T16:35:43.623Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: vtex-pick-and-pack-last-mile
+slugEN: vtex-pick-and-pack-last-mile
 locale: es
 legacySlug: vtex-pick-and-pack-last-mile
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt

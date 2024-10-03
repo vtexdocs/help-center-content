@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-06T17:40:32.746Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-paycash
+slugEN: setting-up-payments-with-paycash
 locale: en
 legacySlug: setting-up-payments-with-paycash
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

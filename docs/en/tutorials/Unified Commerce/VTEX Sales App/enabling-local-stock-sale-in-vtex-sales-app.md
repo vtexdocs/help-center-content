@@ -9,7 +9,7 @@ firstPublishedAt: 2023-05-22T23:31:37.597Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: enabling-local-stock-sale-in-vtex-sales-app
+slugEN: enabling-local-stock-sale-in-vtex-sales-app
 locale: en
 legacySlug: enabling-on-hands-in-vtex-sales-app
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
@@ -86,9 +86,9 @@ You can also enable On Hands to ignore stock quantity and force item availabilit
 2. Click the gear <i class="fas fa-cog"></i> button to edit.
 3. Select the **Code** tab.
 4. In the side tab, select the `checkout-instore-custom-js` file.
-![instore-custom-js-en](https://images.ctfassets.net/alneenqid6w5/5a70caO8nFFF25CrSXPXkx/45e6d1e73997a0ff4a4872fdc502a17c/image.png)
+![instore-custom-js-en](//images.ctfassets.net/alneenqid6w5/5a70caO8nFFF25CrSXPXkx/45e6d1e73997a0ff4a4872fdc502a17c/image.png)
 5. In the `window.INSTORE_CONFIG` key, add the `sellWithoutStockInHands: true` flag.
-![sellWithoutStockInHands-en](https://images.ctfassets.net/alneenqid6w5/3yfRFSG0QgIwnXvyxwhsLo/642bf1e6d79d00ce46275ac1924d03c0/image.png)
+![sellWithoutStockInHands-en](//images.ctfassets.net/alneenqid6w5/3yfRFSG0QgIwnXvyxwhsLo/642bf1e6d79d00ce46275ac1924d03c0/image.png)
 6. Click <i class="fas fa-save"></i> `Save`.
 
 ## Enabling mixed cart sales (optional)

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:11:54.868Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: how-are-the-payments-made-through-bank-slips-approved
+slugEN: how-are-the-payments-made-through-bank-slips-approved
 locale: en
 legacySlug: how-are-the-payments-made-through-bank-slips-approved
 subcategoryId: 2tEO9ytK1aMO0i2oMayoQq

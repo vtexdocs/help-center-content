@@ -9,7 +9,7 @@ firstPublishedAt: 2021-11-22T13:53:56.929Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: magazine-luiza-inventory-integration-errors
+slugEN: magazine-luiza-inventory-integration-errors
 locale: en
 legacySlug: magazine-luiza-inventory-integration-errors
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP

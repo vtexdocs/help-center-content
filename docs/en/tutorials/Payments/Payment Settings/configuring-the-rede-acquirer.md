@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-22T23:18:26.819Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slug: configuring-the-rede-acquirer
+slugEN: configuring-the-rede-acquirer
 locale: en
 legacySlug: configuring-the-rede-acquirer
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

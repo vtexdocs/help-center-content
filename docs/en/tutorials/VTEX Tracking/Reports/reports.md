@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-14T16:27:44.928Z
 contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: reports
+slugEN: reports
 locale: en
 legacySlug: reports
 subcategoryId: 37YF86noTwhDdEuhUyW3LH

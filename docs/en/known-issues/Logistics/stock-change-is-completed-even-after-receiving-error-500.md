@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: stock-change-is-completed-even-after-receiving-error-500
+slugEN: stock-change-is-completed-even-after-receiving-error-500
 locale: en
 kiStatus: No Fix
 internalReference: 388176

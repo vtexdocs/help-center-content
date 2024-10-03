@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 tag: VTEX IO
-slug: vtex-io-toolbelt-hangs-when-running-windows
+slugEN: vtex-io-toolbelt-hangs-when-running-windows
 locale: en
 kiStatus: Open
 internalReference: 

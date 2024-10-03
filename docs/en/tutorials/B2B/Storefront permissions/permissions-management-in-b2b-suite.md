@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-06T10:57:21.290Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: permissions-management-in-b2b-suite
+slugEN: permissions-management-in-b2b-suite
 locale: en
 legacySlug: permissions-management-in-b2b-suite
 subcategoryId: 1qGLxbxcX8kwKSWESbLZca

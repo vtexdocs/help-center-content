@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: clientprofiledata-gets-empty-if-request-add-client-profile-is-performed-twice
+slugEN: clientprofiledata-gets-empty-if-request-add-client-profile-is-performed-twice
 locale: en
 kiStatus: Backlog
 internalReference: 911203

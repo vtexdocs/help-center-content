@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: time-out-on-category-keywords-change-with-many-products
+slugEN: time-out-on-category-keywords-change-with-many-products
 locale: en
 kiStatus: No Fix
 internalReference: 497335

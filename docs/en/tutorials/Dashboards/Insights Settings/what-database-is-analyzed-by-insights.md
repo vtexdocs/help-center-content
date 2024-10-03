@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:13:36.706Z
 contentType: tutorial
 productTeam: Others
 author: authors_59
-slug: what-database-is-analyzed-by-insights
+slugEN: what-database-is-analyzed-by-insights
 locale: en
 legacySlug: what-database-is-analyzed-by-iInsights
 subcategoryId: 1e4CZPstbwqEW8a0amEWS0

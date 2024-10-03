@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: cashback-promotions-do-not-consider-items-removed-from-orders
+slugEN: cashback-promotions-do-not-consider-items-removed-from-orders
 locale: en
 kiStatus: Backlog
 internalReference: 1019864

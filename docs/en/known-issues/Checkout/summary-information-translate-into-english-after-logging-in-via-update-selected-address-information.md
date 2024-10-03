@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: summary-information-translate-into-english-after-logging-in-via-update-selected-address-information
+slugEN: summary-information-translate-into-english-after-logging-in-via-update-selected-address-information
 locale: en
 kiStatus: Backlog
 internalReference: 978571

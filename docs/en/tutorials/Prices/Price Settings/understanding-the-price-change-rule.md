@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:42.161Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: understanding-the-price-change-rule
+slugEN: understanding-the-price-change-rule
 locale: en
 legacySlug: understanding-the-price-change-rule
 subcategoryId: 3O1NvPgBPqE0qU88MSQaie

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:10.483Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: setting-up-product-comparison
+slugEN: setting-up-product-comparison
 locale: en
 legacySlug: setting-up-product-comparison
 subcategoryId: pwxWmUu7T222QyuGogs68

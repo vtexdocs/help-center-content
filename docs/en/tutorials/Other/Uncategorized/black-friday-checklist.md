@@ -9,7 +9,7 @@ firstPublishedAt: 2017-11-07T03:58:27.524Z
 contentType: tutorial
 productTeam: Others
 author: authors_24
-slug: black-friday-checklist
+slugEN: black-friday-checklist
 locale: en
 legacySlug: checklist-black-friday
 subcategoryId: 54gbzsku02c4bKmgFbp3v3

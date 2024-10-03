@@ -8,7 +8,7 @@ publishedAt: 2024-04-17T12:48:51.570Z
 contentType: updates
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
-slug: master-data-v1-dynamic-settings-deprecation
+slugEN: 2024-04-17-master-data-v1-dynamic-settings-deprecation
 locale: en
 legacySlug: master-data-v1-dynamic-settings-deprecation
 announcementImageID: ''
@@ -41,7 +41,7 @@ When configuring triggers, the **Change field value** option allows you to add C
 
 The **Change field value** option, illustrated below, will no longer be available when configuring trigger actions from June 17, 2024. Triggers previously created with this option will continue to work until that date.
 
-![image2](https://images.ctfassets.net/alneenqid6w5/2meuBC8t6dnVAfg1YzZnwL/cb208350954b305141787aa0b4c65407/image2.png)
+![image2](//images.ctfassets.net/alneenqid6w5/2meuBC8t6dnVAfg1YzZnwL/cb208350954b305141787aa0b4c65407/image2.png)
 
 ## What needs to be done?
 

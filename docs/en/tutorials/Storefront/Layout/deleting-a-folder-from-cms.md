@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:04:21.998Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: deleting-a-folder-from-cms
+slugEN: deleting-a-folder-from-cms
 locale: en
 legacySlug: deleting-a-folder-from-cms
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -36,6 +36,6 @@ To delete a CMS folder, follow the steps below:
 
 If a folder contains other folders, you must delete all internal folders before deleting the more external one. Otherwise, the system will return the error "Object reference not set to an instance of an object", as in the image below.
 
-![erroDeletarPasta](https://images.contentful.com/alneenqid6w5/6g2MBbZJUQUQM2YQQ88MQE/9159df93c82fc1e89199aaf1922a5044/erroDeletarPasta.png)
+![erroDeletarPasta](//images.contentful.com/alneenqid6w5/6g2MBbZJUQUQM2YQQ88MQE/9159df93c82fc1e89199aaf1922a5044/erroDeletarPasta.png)
 
 For example, if you want to delete folder A, and within it are folders A1 and A2, first delete folders A1 and A2, and then delete folder A.

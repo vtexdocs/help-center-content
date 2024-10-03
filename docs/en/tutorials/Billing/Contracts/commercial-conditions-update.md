@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-29T14:34:02.091Z
 contentType: tutorial
 productTeam: Others
 author: D0eIlynYFqaWQOMM6mmY6
-slug: commercial-conditions-update
+slugEN: commercial-conditions-update
 locale: en
 legacySlug: commercial-conditions-update
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC

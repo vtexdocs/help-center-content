@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-21T14:48:49.434Z
 contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: why-dont-marketplace-orders-integrate-with-my-store
+slugEN: why-dont-marketplace-orders-integrate-with-my-store
 locale: en
 legacySlug: why-dont-marketplace-orders-integrate-with-my-store
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS

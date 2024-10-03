@@ -8,7 +8,7 @@ publishedAt: 2021-09-04T11:15:32.103Z
 firstPublishedAt: 2021-08-10T20:55:40.994Z
 contentType: trackArticle
 productTeam: Channels
-slug: defining-the-shipping-strategy
+slugEN: defining-the-shipping-strategy
 locale: en
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugEN: mercado-libre-integration-set-up

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: consider-map-parameter-in-the-creation-of-canonical-tag
+slugEN: consider-map-parameter-in-the-creation-of-canonical-tag
 locale: en
 kiStatus: Backlog
 internalReference: 

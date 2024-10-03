@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-06-28T18:40:29.042Z
 contentType: trackArticle
 productTeam: Shopping
-slug: enabling-the-remarks-field-in-the-order-screen
+slugEN: enabling-the-remarks-field-in-the-order-screen
 locale: en
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugEN: enabling-the-remarks-field-in-the-order-screen

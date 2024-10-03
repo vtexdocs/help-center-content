@@ -9,7 +9,7 @@ firstPublishedAt: 2022-09-06T01:42:40.106Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: shopee-integration
+slugEN: shopee-integration
 locale: en
 legacySlug: shopee-integration
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

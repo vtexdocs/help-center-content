@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: shipping-previews-postal-code-input-field-is-not-hidden
+slugEN: shipping-previews-postal-code-input-field-is-not-hidden
 locale: en
 kiStatus: Fixed
 internalReference: 821984

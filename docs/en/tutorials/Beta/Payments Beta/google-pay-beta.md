@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-26T20:03:44.992Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: google-pay-beta
+slugEN: google-pay-beta
 locale: en
 legacySlug: google-pay-beta
 subcategoryId: 3lZEaiSilZPwa3eCUUzwyr

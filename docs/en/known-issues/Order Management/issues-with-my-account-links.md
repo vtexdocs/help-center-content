@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: issues-with-my-account-links
+slugEN: issues-with-my-account-links
 locale: en
 kiStatus: Backlog
 internalReference: 522514

@@ -8,7 +8,7 @@ publishedAt: 2023-10-19T14:10:07.750Z
 firstPublishedAt: 2020-10-20T19:51:02.327Z
 contentType: trackArticle
 productTeam: Channels
-slug: defining-centauro-trade-policy
+slugEN: defining-centauro-trade-policy
 locale: en
 trackId: D8Qnjbr5lfLkUfMRhsfbj
 trackSlugEN: centauro-integration

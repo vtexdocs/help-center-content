@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T20:24:33.848Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: sharpspring-suiteshare
+slugEN: sharpspring-suiteshare
 locale: en
 legacySlug: sharpspring-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: addresses-from-the-profile-system-is-shown-when-impersonated-using-vtex-telemarketing
+slugEN: addresses-from-the-profile-system-is-shown-when-impersonated-using-vtex-telemarketing
 locale: en
 kiStatus: No Fix
 internalReference: 860375

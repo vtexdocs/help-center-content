@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:18.994Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
-slug: adding-a-record-on-a-master-data-form
+slugEN: adding-a-record-on-a-master-data-form
 locale: en
 legacySlug: how-to-include-a-registration-on-a-master-data-form
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l

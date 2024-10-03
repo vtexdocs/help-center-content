@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: promotions-microrounding-divergence
+slugEN: promotions-microrounding-divergence
 locale: en
 kiStatus: Backlog
 internalReference: 957369

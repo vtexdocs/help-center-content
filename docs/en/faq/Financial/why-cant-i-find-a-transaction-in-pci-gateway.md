@@ -9,7 +9,7 @@ firstPublishedAt: 2017-05-09T14:08:06.540Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_35
-slug: why-cant-i-find-a-transaction-in-pci-gateway
+slugEN: why-cant-i-find-a-transaction-in-pci-gateway
 locale: en
 legacySlug: why-cant-i-find-a-transaction-in-pci-gateway
 ---

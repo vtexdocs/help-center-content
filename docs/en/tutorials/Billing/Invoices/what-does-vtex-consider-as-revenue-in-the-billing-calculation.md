@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:05:40.851Z
 contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: what-does-vtex-consider-as-revenue-in-the-billing-calculation
+slugEN: what-does-vtex-consider-as-revenue-in-the-billing-calculation
 locale: en
 legacySlug: what-does-vtex-consider-as-revenue-in-the-billing-calculations
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M

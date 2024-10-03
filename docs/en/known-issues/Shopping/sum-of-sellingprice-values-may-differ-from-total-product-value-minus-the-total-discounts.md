@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: sum-of-sellingprice-values-may-differ-from-total-product-value-minus-the-total-discounts
+slugEN: sum-of-sellingprice-values-may-differ-from-total-product-value-minus-the-total-discounts
 locale: en
 kiStatus: Backlog
 internalReference: 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: two-different-workflows-for-the-same-order-resulting-in-status-detailstatenull
+slugEN: two-different-workflows-for-the-same-order-resulting-in-status-detailstatenull
 locale: es
 kiStatus: Fixed
 internalReference: 680919

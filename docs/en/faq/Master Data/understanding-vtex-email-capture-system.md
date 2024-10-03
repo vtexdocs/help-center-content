@@ -9,7 +9,7 @@ firstPublishedAt: 2018-10-10T21:54:45.519Z
 contentType: frequentlyAskedQuestion
 productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
-slug: understanding-vtex-email-capture-system
+slugEN: understanding-vtex-email-capture-system
 locale: en
 legacySlug: understanding-vtex-email-capture-system
 ---

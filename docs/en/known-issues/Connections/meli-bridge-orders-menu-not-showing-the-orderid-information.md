@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-bridge-orders-menu-not-showing-the-orderid-information
+slugEN: meli-bridge-orders-menu-not-showing-the-orderid-information
 locale: en
 kiStatus: Fixed
 internalReference: 881733

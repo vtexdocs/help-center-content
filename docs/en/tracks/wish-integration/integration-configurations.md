@@ -8,7 +8,7 @@ publishedAt: 2020-02-13T15:01:19.456Z
 firstPublishedAt: 2019-11-19T17:28:38.037Z
 contentType: trackArticle
 productTeam: Channels
-slug: integration-configurations
+slugEN: integration-configurations
 locale: en
 trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugEN: wish-integration

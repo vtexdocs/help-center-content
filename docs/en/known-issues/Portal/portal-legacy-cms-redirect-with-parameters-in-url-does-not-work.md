@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: portal-legacy-cms-redirect-with-parameters-in-url-does-not-work
+slugEN: portal-legacy-cms-redirect-with-parameters-in-url-does-not-work
 locale: en
 kiStatus: No Fix
 internalReference: 444496

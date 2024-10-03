@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: search-analytics-report-divergences-between-versions-withwithout-funnel-metrics
+slugEN: search-analytics-report-divergences-between-versions-withwithout-funnel-metrics
 locale: en
 kiStatus: Backlog
 internalReference: 980297

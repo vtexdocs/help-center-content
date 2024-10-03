@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:46.100Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: setting-up-the-global-category
+slugEN: setting-up-the-global-category
 locale: en
 legacySlug: setting-up-the-global-category
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:08:52.000Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_24
-slug: how-to-change-the-sorting-of-delivery-types-in-the-cart
+slugEN: how-to-change-the-sorting-of-delivery-types-in-the-cart
 locale: en
 legacySlug: how-to-change-the-sorting-of-delivery-types-in-the-cart
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

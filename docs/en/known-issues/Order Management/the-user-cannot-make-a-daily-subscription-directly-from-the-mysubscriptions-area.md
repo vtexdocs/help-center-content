@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: the-user-cannot-make-a-daily-subscription-directly-from-the-mysubscriptions-area
+slugEN: the-user-cannot-make-a-daily-subscription-directly-from-the-mysubscriptions-area
 locale: en
 kiStatus: No Fix
 internalReference: 430650

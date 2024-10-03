@@ -9,7 +9,7 @@ firstPublishedAt: 2021-03-02T01:09:50.358Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
-slug: vtex-support-brazil
+slugEN: vtex-support-brazil
 locale: en
 legacySlug: vtex-support-brazil
 ---

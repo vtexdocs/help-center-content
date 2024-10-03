@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-22T18:16:10.272Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 5Bd75kMNAzARxg0DCUjwal
-slug: why-doesnt-my-benefit-work-for-a-client-cluster
+slugEN: why-doesnt-my-benefit-work-for-a-client-cluster
 locale: en
 legacySlug: 
 ---

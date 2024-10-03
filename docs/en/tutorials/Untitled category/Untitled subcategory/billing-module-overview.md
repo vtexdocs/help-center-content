@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial
 productTeam: Billing
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: billing-module-overview
+slugEN: billing-module-overview
 locale: en
 legacySlug: billing-module-overview
 subcategoryId: unknown-subcategory

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: vtexeventsadddata-adding-pageurl-parameter-using-http-not-https
+slugEN: vtexeventsadddata-adding-pageurl-parameter-using-http-not-https
 locale: en
 kiStatus: Backlog
 internalReference: 348128

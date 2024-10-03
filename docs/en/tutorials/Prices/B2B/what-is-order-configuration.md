@@ -9,7 +9,7 @@ firstPublishedAt: 2020-09-04T16:23:11.568Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: what-is-order-configuration
+slugEN: what-is-order-configuration
 locale: en
 legacySlug: what-is-order-configuration
 subcategoryId: 1GujN7Pa7NESCz0sB8srX4

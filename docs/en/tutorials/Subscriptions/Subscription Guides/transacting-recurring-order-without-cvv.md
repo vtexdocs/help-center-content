@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-29T16:29:02.503Z
 contentType: tutorial
 productTeam: Others
 author: authors_39
-slug: transacting-recurring-order-without-cvv
+slugEN: transacting-recurring-order-without-cvv
 locale: en
 legacySlug: transacting-recurring-order-without-cvv
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM

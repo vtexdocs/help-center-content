@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-14T14:39:34.847Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-the-moipv2-sub-acquirer
+slugEN: setting-up-the-moipv2-sub-acquirer
 locale: en
 legacySlug: setting-up-the-moipv2-sub-acquirer
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

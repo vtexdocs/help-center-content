@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-22T22:47:09.416Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_59
-slug: why-dont-i-receive-vtex-emails
+slugEN: why-dont-i-receive-vtex-emails
 locale: en
 legacySlug: why-dont-I-receive-vtex-emails
 ---

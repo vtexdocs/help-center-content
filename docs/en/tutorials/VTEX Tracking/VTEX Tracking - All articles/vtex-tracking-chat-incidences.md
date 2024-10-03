@@ -9,7 +9,7 @@ firstPublishedAt: 2020-08-03T21:44:21.176Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: vtex-tracking-chat-incidences
+slugEN: vtex-tracking-chat-incidences
 locale: en
 legacySlug: vtex-tracking-chat-incidences
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP

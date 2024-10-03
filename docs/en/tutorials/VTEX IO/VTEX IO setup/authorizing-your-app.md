@@ -9,7 +9,7 @@ firstPublishedAt: 2018-06-19T19:47:07.125Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 5dYWGfGKUwkI86Gomk6AcQ
-slug: authorizing-your-app
+slugEN: authorizing-your-app
 locale: en
 legacySlug: authorizing-your-app
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

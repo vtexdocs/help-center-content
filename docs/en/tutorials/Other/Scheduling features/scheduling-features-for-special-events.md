@@ -9,7 +9,7 @@ firstPublishedAt: 2021-08-18T16:16:38.061Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: scheduling-features-for-special-events
+slugEN: scheduling-features-for-special-events
 locale: en
 legacySlug: scheduling-features-for-special-events
 subcategoryId: 6JKhEq9rlIFpyrLoOBERot

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-03T19:46:23.597Z
 contentType: tutorial
 productTeam: Financial
 author: authors_64
-slug: setting-up-a-b-test
+slugEN: setting-up-a-b-test
 locale: en
 legacySlug: setting-up-a-b-test
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-09-20T19:53:09.375Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-payu-europe
+slugEN: setting-up-payments-with-payu-europe
 locale: en
 legacySlug: setting-up-payments-with-payu-europe
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

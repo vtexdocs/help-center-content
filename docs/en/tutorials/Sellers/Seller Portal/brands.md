@@ -9,7 +9,7 @@ firstPublishedAt: 2021-11-25T16:18:00.648Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l3eEiSz8MpcppCxcnijGz
-slug: brands
+slugEN: brands
 locale: en
 legacySlug: brands-beta
 subcategoryId: 4hisB47iAVZk4r3SEmMoG

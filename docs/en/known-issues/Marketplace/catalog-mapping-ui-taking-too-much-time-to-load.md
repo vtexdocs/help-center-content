@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: catalog-mapping-ui-taking-too-much-time-to-load
+slugEN: catalog-mapping-ui-taking-too-much-time-to-load
 locale: en
 kiStatus: Backlog
 internalReference: 823218

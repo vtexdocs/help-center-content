@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: order-stuck-at-seller-status-cancellationrequestdeniedffm
+slugEN: order-stuck-at-seller-status-cancellationrequestdeniedffm
 locale: en
 kiStatus: Backlog
 internalReference: 1004978

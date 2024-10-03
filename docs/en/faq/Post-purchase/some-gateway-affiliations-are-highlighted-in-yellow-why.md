@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:22.667Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
-slug: some-gateway-affiliations-are-highlighted-in-yellow-why
+slugEN: some-gateway-affiliations-are-highlighted-in-yellow-why
 locale: en
 legacySlug: some-gateway-affiliations-are-highlighted-in-yellow-why
 ---

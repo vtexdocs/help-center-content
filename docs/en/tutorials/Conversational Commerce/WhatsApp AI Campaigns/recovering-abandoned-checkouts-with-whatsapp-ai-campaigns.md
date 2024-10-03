@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-25T15:29:15.011Z
 contentType: tutorial
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: recovering-abandoned-checkouts-with-whatsapp-ai-campaigns
+slugEN: recovering-abandoned-checkouts-with-whatsapp-ai-campaigns
 locale: en
 legacySlug: recovering-abandoned-checkouts-with-whatsapp-ai-campaigns
 subcategoryId: 4SC2gPmUH3cHD5HjGfQ5Vg

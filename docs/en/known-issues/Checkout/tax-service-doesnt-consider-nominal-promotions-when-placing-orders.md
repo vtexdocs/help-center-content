@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: tax-service-doesnt-consider-nominal-promotions-when-placing-orders
+slugEN: tax-service-doesnt-consider-nominal-promotions-when-placing-orders
 locale: en
 kiStatus: Backlog
 internalReference: 900120

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2021-05-10T16:56:02.874Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: basic-concepts
+slugEN: basic-concepts
 locale: en
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms

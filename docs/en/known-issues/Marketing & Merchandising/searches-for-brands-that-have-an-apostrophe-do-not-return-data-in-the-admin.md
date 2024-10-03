@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: searches-for-brands-that-have-an-apostrophe-do-not-return-data-in-the-admin
+slugEN: searches-for-brands-that-have-an-apostrophe-do-not-return-data-in-the-admin
 locale: en
 kiStatus: Backlog
 internalReference: 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-automatic-messages-mercado-livre-messages
+slugEN: meli-automatic-messages-mercado-livre-messages
 locale: en
 kiStatus: Backlog
 internalReference: 615164

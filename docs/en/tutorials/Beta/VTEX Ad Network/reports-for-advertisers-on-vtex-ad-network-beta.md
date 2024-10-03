@@ -9,7 +9,7 @@ firstPublishedAt: 2024-08-09T21:56:08.145Z
 contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slug: reports-for-advertisers-on-vtex-ad-network-beta
+slugEN: reports-for-advertisers-on-vtex-ad-network-beta
 locale: en
 legacySlug: reports-for-advertisers-on-vtex-ad-network-beta
 subcategoryId: 2AksvvAtAsbAfE7HsBIVDU

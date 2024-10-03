@@ -8,7 +8,7 @@ publishedAt: 2024-02-22T20:29:57.019Z
 firstPublishedAt: 2024-02-22T14:06:26.997Z
 contentType: trackArticle
 productTeam: Others
-slug: initial-setup
+slugEN: initial-setup
 locale: en
 trackId: eSDNk26pdvemF3XKM0nK9
 trackSlugEN: vtex-store-overview

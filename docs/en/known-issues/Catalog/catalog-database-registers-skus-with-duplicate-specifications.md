@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-database-registers-skus-with-duplicate-specifications
+slugEN: catalog-database-registers-skus-with-duplicate-specifications
 locale: en
 kiStatus: Backlog
 internalReference: 536133

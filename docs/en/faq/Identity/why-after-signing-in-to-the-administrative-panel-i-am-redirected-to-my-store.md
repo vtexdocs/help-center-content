@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-01T03:43:27.490Z
 contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_4
-slug: why-after-signing-in-to-the-administrative-panel-i-am-redirected-to-my-store
+slugEN: why-after-signing-in-to-the-administrative-panel-i-am-redirected-to-my-store
 locale: en
 legacySlug: why-after-signing-in-to-the-administrative-panel-i-am-redirected-to-my-store
 ---
