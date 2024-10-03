@@ -39,6 +39,11 @@ const navigation = { navbar: [
     documentation: 'FAQs',
     slugPrefix: 'faq',
     categories: []
+  },
+  {
+    documentation: 'Known Issues',
+    slugPrefix: 'known-issues',
+    categories: []
   }
 ] };
 
@@ -316,6 +321,80 @@ function getFaq() {
   return faqCategories;
 }
 
+function getKnownIssues() {
+  const enDir = 'docs/en/known-issues';
+  const ptDir = 'docs/pt/known-issues';
+  const esDir = 'docs/es/known-issues';
+
+  const enCategories = fs.readdirSync(enDir, { withFileTypes: true }).filter(dirent => dirent.isDirectory());
+  const knownIssues = {};
+
+  enCategories.forEach(category => {
+    const enCategoryPath = path.join(enDir, category.name);
+    const ptCategoryPath = path.join(ptDir, category.name);
+    const esCategoryPath = path.join(esDir, category.name);
+
+    const enFiles = fs.readdirSync(enCategoryPath);
+    const ptFiles = fs.existsSync(ptCategoryPath) ? fs.readdirSync(ptCategoryPath) : [];
+    const esFiles = fs.existsSync(esCategoryPath) ? fs.readdirSync(esCategoryPath) : [];
+
+    knownIssues[category.name] = [];
+
+    enFiles.forEach(file => {
+      const filePath = path.join(enCategoryPath, file);
+      const content = fs.readFileSync(filePath, 'utf8');
+      const enSlug = file.replace('.md', '');
+      const titleMatch = content.match(/(?:^|\n)title:\s*["'](.*?)["']/);
+      const title = titleMatch ? titleMatch[1] : '';
+
+      const ptFile = ptFiles.find(f => {
+        const ptContent = fs.readFileSync(path.join(ptCategoryPath, f), 'utf8');
+        const slugMatch = ptContent.match(/^slugEN:\s*(\S+)$/m);
+        return slugMatch && slugMatch[1].trim().toLowerCase() === enSlug.trim().toLowerCase();
+      });
+
+      const esFile = esFiles.find(f => {
+        const esContent = fs.readFileSync(path.join(esCategoryPath, f), 'utf8');
+        const slugMatch = esContent.match(/^slugEN:\s*(\S+)$/m);
+        return slugMatch && slugMatch[1].trim().toLowerCase() === enSlug.trim().toLowerCase();
+      });
+
+      knownIssues[category.name].push({
+        name: {
+          en: title,
+          pt: ptFile ? fs.readFileSync(path.join(ptCategoryPath, ptFile), 'utf8').match(/(?:^|\n)title:\s*["'](.*?)["']/)[1] : '',
+          es: esFile ? fs.readFileSync(path.join(esCategoryPath, esFile), 'utf8').match(/(?:^|\n)title:\s*["'](.*?)["']/)[1] : '',
+        },
+        slug: {
+          en: enSlug,
+          pt: ptFile ? ptFile.replace('.md', '') : '',
+          es: esFile ? esFile.replace('.md', '') : ''
+        },
+        origin: '',
+        type: 'markdown',
+        children: []
+      });
+    });
+  });
+
+  const knownIssuesCategories = [];
+  for (const category in knownIssues) {
+    knownIssuesCategories.push({
+      name: {
+        en: category,
+        pt: category,
+        es: category
+      },
+      slug: `known-issues/${category}`,
+      origin: '',
+      type: 'category',
+      children: knownIssues[category]
+    });
+  }
+
+  return knownIssuesCategories;
+}
+
 async function getEntries() {
   try {
     const space = await client.getSpace("alneenqid6w5");
@@ -401,6 +480,8 @@ async function getEntries() {
     navigation.navbar[2].categories = getNews();
 
     navigation.navbar[3].categories = getFaq();
+
+    navigation.navbar[4].categories = getKnownIssues();
 
     fs.writeFile('errorDocs.json', JSON.stringify(errorDocs), (err) => console.error(err));
     fs.writeFile('navigation.json', JSON.stringify(navigation), (err) => console.error(err));
