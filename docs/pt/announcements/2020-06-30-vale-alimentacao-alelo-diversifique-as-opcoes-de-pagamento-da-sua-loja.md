@@ -8,7 +8,7 @@ publishedAt: 2020-07-20T20:38:10.522Z
 contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slugEN: alelo-grocery-voucher-card-add-more-options-to-your-stores-payment-methods
+slugEN: 2020-06-30-alelo-grocery-voucher-card-add-more-options-to-your-stores-payment-methods
 locale: pt
 legacySlug: vale-alimentacao-alelo-diversifique-as-opcoes-de-pagamento-da-sua-loja
 announcementImageID: ''

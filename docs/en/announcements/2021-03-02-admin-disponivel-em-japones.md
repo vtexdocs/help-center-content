@@ -8,7 +8,7 @@ publishedAt: 2021-03-05T18:10:09.715Z
 contentType: updates
 productTeam: Others
 author: 5WE9zkDdoqqUMRbxIgmp1o
-slugEN: admin-disponivel-em-japones
+slugEN: 2021-03-02-admin-disponivel-em-japones
 locale: en
 legacySlug: konnichiwa-the-admin-is-now-available-in-japanese
 announcementImageID: ''

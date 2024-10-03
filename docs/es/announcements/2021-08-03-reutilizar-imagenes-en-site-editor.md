@@ -8,7 +8,7 @@ publishedAt: 2021-08-04T20:43:22.120Z
 contentType: updates
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slugEN: reusing-images-in-site-editor
+slugEN: 2021-08-03-reusing-images-in-site-editor
 locale: es
 legacySlug: reutilizar-imagenes-en-site-editor
 announcementImageID: ''

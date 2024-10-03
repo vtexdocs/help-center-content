@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: assembly-options-new-app-to-simplify-product-customization-teste
+slugEN: 2022-06-14-assembly-options-new-app-to-simplify-product-customization-teste
 locale: en
 legacySlug: assembly-options-new-app-to-simplify-product-customization11-teste
 announcementImageID: ''

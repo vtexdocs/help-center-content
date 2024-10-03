@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:00.785Z
 contentType: updates
 productTeam: Channels
 author: authors_24
-slugEN: rede-has-a-new-integration-with-vtex
+slugEN: 2018-04-13-rede-has-a-new-integration-with-vtex
 locale: es
 legacySlug: rede-tiene-una-nueva-integracion-con-vtex
 announcementImageID: ''

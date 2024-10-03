@@ -8,7 +8,7 @@ publishedAt: 2023-05-03T21:02:00.660Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slugEN: marketplacenetwork-and-integrations-are-now-a-single-page
+slugEN: 2023-04-18-marketplacenetwork-and-integrations-are-now-a-single-page
 locale: es
 legacySlug: marketplace-network-e-integraciones-ahora-en-una-sola-pagina
 announcementImageID: ''

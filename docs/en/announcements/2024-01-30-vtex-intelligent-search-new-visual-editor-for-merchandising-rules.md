@@ -8,7 +8,7 @@ publishedAt: 2024-01-31T17:00:02.465Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: vtex-intelligent-search-new-visual-editor-for-merchandising-rules
+slugEN: 2024-01-30-vtex-intelligent-search-new-visual-editor-for-merchandising-rules
 locale: en
 legacySlug: vtex-intelligent-search-new-visual-editor-for-merchandising-rules
 announcementImageID: ''

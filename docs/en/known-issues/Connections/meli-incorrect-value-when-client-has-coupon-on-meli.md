@@ -3,8 +3,8 @@ title: 'MELI incorrect value when client has Coupon on MELI'
 id: 3PvNKqG2BMZDBLLVuriIHy
 status: PUBLISHED
 createdAt: 2024-01-22T11:58:00.747Z
-updatedAt: 2024-01-22T11:58:01.431Z
-publishedAt: 2024-01-22T11:58:01.431Z
+updatedAt: 2024-10-01T12:14:48.088Z
+publishedAt: 2024-10-01T12:14:48.088Z
 firstPublishedAt: 2024-01-22T11:58:01.431Z
 contentType: knownIssue
 productTeam: Connections
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: meli-incorrect-value-when-client-has-coupon-on-meli
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 969297
 ---
 

@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T14:55:56.072Z
 contentType: updates
 productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
-slugEN: shift-your-business-with-vtexs-omnichannel-experience
+slugEN: 2018-07-26-shift-your-business-with-vtexs-omnichannel-experience
 locale: pt
 legacySlug: mude-seu-negocio-com-a-experiencia-omnichannel-vtex
 announcementImageID: ''

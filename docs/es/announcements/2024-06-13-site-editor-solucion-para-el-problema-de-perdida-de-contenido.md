@@ -8,7 +8,7 @@ publishedAt: 2024-06-13T13:29:05.308Z
 contentType: updates
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slugEN: site-editor-fixed-content-loss-issue
+slugEN: 2024-06-13-site-editor-fixed-content-loss-issue
 locale: es
 legacySlug: site-editor-solucion-para-el-problema-de-perdida-de-contenido
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2024-09-19T01:19:33.218Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2Gy429C47ie3tL9XUEjeFL
-slugEN: change-to-the-availablequantity-field-in-the-search-api
+slugEN: 2024-09-18-change-to-the-availablequantity-field-in-the-search-api
 locale: en
 legacySlug: change-to-the-availablequantity-field-in-the-search-api
 announcementImageID: ''

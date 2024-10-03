@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Post-purchase
 author: 
-slugEN: new-returned-object-in-api-get-order-cancelreason
+slugEN: 2019-04-08-new-returned-object-in-api-get-order-cancelreason
 locale: pt
 legacySlug: novo-objeto-retornado-na-api-get-order-cancelreason
 announcementImageID: ''

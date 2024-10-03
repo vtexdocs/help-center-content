@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:12:58.100Z
 contentType: updates
 productTeam: Reliability
 author: authors_24
-slugEN: jquery-update
+slugEN: 2018-07-10-jquery-update
 locale: pt
 legacySlug: atualizacao-do-jquery
 announcementImageID: ''

@@ -1,10 +1,10 @@
 ---
 title: 'Match de anúncios Mercado Livre'
 id: 43uD4LPU5PLUWe11IaWwyR
-status: PUBLISHED
+status: CHANGED
 createdAt: 2024-09-09T15:11:51.966Z
-updatedAt: 2024-09-09T15:16:41.777Z
-publishedAt: 2024-09-09T15:16:41.777Z
+updatedAt: 2024-09-26T13:45:03.913Z
+publishedAt: 2024-09-26T13:38:29.627Z
 firstPublishedAt: 2024-09-09T15:16:41.777Z
 contentType: trackArticle
 productTeam: Channels
@@ -13,8 +13,6 @@ locale: pt
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugPT: configurar-integracao-do-mercado-livre
 ---
-
->ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue).  
 
 Antes de iniciar a leitura do artigo, é importante a leitura da tabela abaixo para compreendimento de alguns termos de uso específico da funcionalidade **Match de anúncios Mercado Livre.**
 
@@ -25,6 +23,7 @@ Antes de iniciar a leitura do artigo, é importante a leitura da tabela abaixo p
 |**Oportunidades**| Oportunidade é quando um produto do seller pode ser associado a um produto do catálogo Mercado Livre. O objetivo da oportunidade é fornecer ao seller uma ferramenta que possa fazer essa associação entre os produtos.|
 
 Ao realizar a integração com o Mercado Livre, o seller envia para o marketplace os anúncios que deseja vender na plataforma. Com os anúncios enviados, o Mercado Livre oferece ao seller oportunidades de match com anúncios do tipo **catálogo,** que é quando um anúncio pode estar em um espaço de destaque no marketplace.
+
 Nesse artigo você pode explorar os seguintes tópicos:
 
 - [**Estrutura da página**](#estrutura-da-pagina)  

@@ -8,7 +8,7 @@ publishedAt: 2020-05-12T15:39:59.845Z
 contentType: updates
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
-slugEN: from-now-on-you-can-export-up-to-3-thousand-orders
+slugEN: 2018-10-24-from-now-on-you-can-export-up-to-3-thousand-orders
 locale: pt
 legacySlug: a-partir-de-agora-voce-vai-poder-exportar-ate-3-mil-pedidos
 announcementImageID: ''

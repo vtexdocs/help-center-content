@@ -8,7 +8,7 @@ publishedAt: 2023-06-01T13:29:56.788Z
 contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: vtex-launches-the-new-version-of-instore-vtex-sales-app
+slugEN: 2023-05-31-vtex-launches-the-new-version-of-instore-vtex-sales-app
 locale: pt
 legacySlug: vtex-apresenta-a-nova-versao-do-instore-o-vtex-sales-app
 announcementImageID: ''
@@ -29,7 +29,7 @@ O novo menu traz vários benefícios significativos, que destacamos abaixo:
 * **Navegação intuitiva:** organização aprimorada para encontrar rapidamente o que precisa.
 * **Consistência visual:** aparência harmonizada com outras atualizações recentes em nossa plataforma.
 
-<img src="https://images.ctfassets.net/alneenqid6w5/pcXNfExZYZML7AHP57tzz/36a4fd0238f6c0844a533ffdc5750ed7/image.png" alt= “menu-sales-app-pt” width="35%" height="35%">
+<img src="//images.ctfassets.net/alneenqid6w5/pcXNfExZYZML7AHP57tzz/36a4fd0238f6c0844a533ffdc5750ed7/image.png" alt= “menu-sales-app-pt” width="35%" height="35%">
 
 ### Área de anúncios
 
@@ -37,13 +37,13 @@ A área de anúncios permite que os lojistas exibam produtos ou resultados de pe
 
 Um dos principais recursos dessa atualização é a opção de os lojistas definirem a área do anúncio como sua página inicial. Isso permite uma experiência de usuário mais personalizada, pois os clientes são imediatamente recebidos com conteúdo selecionado e recomendações de produtos. Saiba mais no artigo [Anúncios do VTEX Sales App](https://help.vtex.com/pt/tutorial/anuncios-do-vtex-sales-app--3UtOFwbwD4muz3p72RBPmC).
 
-<img src="https://images.ctfassets.net/alneenqid6w5/XXJQykcV9p6yNN6Q5mB5u/ad226528000d3cd143de46bd47a7cd12/image.png" alt= “anuncio-sale-app-pt” width="35%" height="35%">
+<img src="//images.ctfassets.net/alneenqid6w5/XXJQykcV9p6yNN6Q5mB5u/ad226528000d3cd143de46bd47a7cd12/image.png" alt= “anuncio-sale-app-pt” width="35%" height="35%">
 
 ### Performance de vendas
 
 Performance de vendas permite que o lojista tenha acesso às métricas de vendas de sua loja, tornando possível a comparação de performance entre períodos de venda e desempenho de funcionários. Saiba mais no artigo [VTEX Sales App: Performance de vendas](https://help.vtex.com/pt/tutorial/sales-app-performance-de-vendas--7i4Elt835tatBM6iqZoc56).
 
-<img src="https://images.ctfassets.net/alneenqid6w5/3UWhX6QODOG8pQ6Xi0QXKV/705391db8cbbe18c8c139a1640bc6ba4/image.png" alt= “vendas-da-loja-sales-app-pt” width="35%" height="35%">
+<img src="//images.ctfassets.net/alneenqid6w5/3UWhX6QODOG8pQ6Xi0QXKV/705391db8cbbe18c8c139a1640bc6ba4/image.png" alt= “vendas-da-loja-sales-app-pt” width="35%" height="35%">
 
 ## O que precisa ser feito?
 

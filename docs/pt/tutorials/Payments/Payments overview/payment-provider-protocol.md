@@ -3,8 +3,8 @@ title: 'Payment Provider Protocol'
 id: RdsT2spdq80MMwwOeEq0m
 status: PUBLISHED
 createdAt: 2018-01-02T15:40:00.920Z
-updatedAt: 2024-07-24T13:58:10.009Z
-publishedAt: 2024-07-24T13:58:10.009Z
+updatedAt: 2024-09-27T19:03:03.280Z
+publishedAt: 2024-09-27T19:03:03.280Z
 firstPublishedAt: 2018-01-02T17:53:48.934Z
 contentType: tutorial
 productTeam: Financial
@@ -158,6 +158,8 @@ Tudo começa com a solicitação de um novo pagamento, após a criação de um n
 ![fluxo-atualizado-ppp](//images.ctfassets.net/alneenqid6w5/7lQZhSFEff1iaN7t2UVVNE/2890bc7073210c268d7d429d0162c9b7/FLUXO1.png)
 
 >ℹ️ O período padrão de 7 dias para novas tentativas de pagamento assíncronas só é aplicado quando o usuário não especifica um valor no campo `delayToCancel` do endpoint [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments) ou ao enviar o callbackURL.
+
+>⚠️ O valor máximo permitido para o campo `delayToCancel` é de 30 dias (2592000 segundos).  
 
 ### Autorização de pagamento
 Nesse ponto a VTEX chama o endpoint __*/payments*__ e envia um payload com os dados de pagamento para o seu provedor. O provedor deve processar esses dados e enviar de volta a resposta, que deve conter um dos valores de status: __approved__, __denied__ ou __undefined__.

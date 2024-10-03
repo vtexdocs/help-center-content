@@ -8,7 +8,7 @@ publishedAt: 2020-06-02T02:43:45.605Z
 contentType: updates
 productTeam: Others
 author: authors_24
-slugEN: new-tutorials-help-b2b-stores-to-implement-their-business-on-vtex
+slugEN: 2020-06-02-new-tutorials-help-b2b-stores-to-implement-their-business-on-vtex
 locale: pt
 legacySlug: novos-tutoriais-ajudam-lojas-b2b-a-implantarem-seus-negocios-na-vtex
 announcementImageID: ''

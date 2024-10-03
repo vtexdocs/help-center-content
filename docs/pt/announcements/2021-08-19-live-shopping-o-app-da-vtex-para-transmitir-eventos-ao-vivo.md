@@ -8,7 +8,7 @@ publishedAt: 2021-12-21T00:20:50.430Z
 contentType: updates
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slugEN: live-shopping-the-vtex-app-to-broadcast-live-events
+slugEN: 2021-08-19-live-shopping-the-vtex-app-to-broadcast-live-events
 locale: pt
 legacySlug: live-shopping-o-app-da-vtex-para-transmitir-eventos-ao-vivo
 announcementImageID: ''

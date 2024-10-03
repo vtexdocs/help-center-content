@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:27.138Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
-slugEN: gain-more-practicality-when-adding-prices-by-spreadsheet-using-sku-metadata
+slugEN: 2019-05-27-gain-more-practicality-when-adding-prices-by-spreadsheet-using-sku-metadata
 locale: es
 legacySlug: obtenga-mas-practicidad-para-registrar-precios-por-plantilla-utilizando-metadatos-de-skus
 announcementImageID: ''

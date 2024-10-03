@@ -8,7 +8,7 @@ publishedAt: 2023-04-24T12:03:54.198Z
 contentType: updates
 productTeam: Management
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: welcome-to-the-redesigned-vtex-admin-new
+slugEN: 2023-04-20-welcome-to-the-redesigned-vtex-admin-new
 locale: es
 legacySlug: de-as-boas-vindas-ao-novo-admin-vtex
 announcementImageID: ''

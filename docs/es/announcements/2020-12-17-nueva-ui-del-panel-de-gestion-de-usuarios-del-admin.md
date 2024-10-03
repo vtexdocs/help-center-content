@@ -8,7 +8,7 @@ publishedAt: 2021-01-18T17:00:45.372Z
 contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
-slugEN: new-ui-for-the-admins-user-management-dashboard
+slugEN: 2020-12-17-new-ui-for-the-admins-user-management-dashboard
 locale: es
 legacySlug: nueva-ui-del-panel-de-gestion-de-usuarios-del-admin
 announcementImageID: ''

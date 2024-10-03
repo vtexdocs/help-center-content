@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:34.440Z
 contentType: updates
 productTeam: Reliability
 author: authors_24
-slugEN: new-cdn-gives-more-security-and-speed
+slugEN: 2017-12-12-new-cdn-gives-more-security-and-speed
 locale: pt
 legacySlug: nova-cdn-oferece-mais-seguranca-e-velocidade
 announcementImageID: ''

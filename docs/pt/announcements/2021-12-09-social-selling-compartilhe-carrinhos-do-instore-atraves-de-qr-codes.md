@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T14:56:55.617Z
 contentType: updates
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: social-selling-share-instore-carts-using-qr-codes
+slugEN: 2021-12-09-social-selling-share-instore-carts-using-qr-codes
 locale: pt
 legacySlug: social-selling-compartilhe-carrinhos-do-instore-atraves-de-qr-codes
 announcementImageID: ''

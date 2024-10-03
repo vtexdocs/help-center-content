@@ -3,8 +3,8 @@ title: 'Manutenção de Base (Full Cleanup)'
 id: 34P9LGs7BCIQK6acQom802
 status: PUBLISHED
 createdAt: 2018-02-07T14:32:22.879Z
-updatedAt: 2023-08-02T16:15:41.168Z
-publishedAt: 2023-08-02T16:15:41.168Z
+updatedAt: 2024-09-30T15:15:49.788Z
+publishedAt: 2024-09-30T15:15:49.788Z
 firstPublishedAt: 2018-02-07T16:44:48.971Z
 contentType: tutorial
 productTeam: Others
@@ -29,10 +29,13 @@ Estas são as operações disponíveis:
 
 - __Apagar Produtos do Indexador:__ ao apagar produtos do indexador, sua loja ficará sem produtos para serem visualizados.
 
-  >⚠️ As seguintes regras se aplicam ao botão **Apagar Produtos do Indexador**:
-> <UL> <LI>Apenas lojas com menos de 10 mil produtos podem realizar essa ação. Lojas com um catálogo maior devem [abrir um chamado para o suporte VTEX](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) para realizar a limpeza do indexador e reindexação da base de dados.</LI>
-> <LI>Quando um usuário apaga produtos do indexador, a conta é bloqueada de executar essa ação por 24 horas.</LI>
-> <LI>Existe uma fila para processar as solicitações geradas pelo botão <i>Apagar Produtos do Indexador</i>. Você pode visualizar o tempo estimado de espera na interface da página. A fila é global e se aplica a todos os usuários, para garantir a segurança da plataforma VTEX.</LI></UL>
+  >⚠️ As regras a seguir se aplicam ao botão **Apagar Produtos do Indexador**:
+>
+> * Apenas lojas com menos de 10 mil produtos podem realizar essa ação. Lojas com um catálogo maior devem [abrir um chamado para o suporte VTEX](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) para realizar a limpeza do indexador e reindexação da base de dados.
+>
+> *Quando um usuário apaga produtos do indexador, a conta é bloqueada de executar essa ação por 24 horas.
+>
+> *Existe uma fila para processar as solicitações geradas pelo botão <i>Apagar Produtos do Indexador</i>. Após clicar no botão, o tempo estimado de espera aparece em um log no final da página. A fila é global e se aplica a todos os usuários, para garantir a segurança da plataforma VTEX.
 
 - __Apagar Produtos/Skus e itens relacionados:__ ao apagar esses elementos, seus produtos e SKUs, além dos seus itens relacionados, serão removidos de forma definitiva da sua loja.
 
@@ -42,4 +45,4 @@ Estas são as operações disponíveis:
 
 - __Agendar reindexação Completa:__ ao reindexar a base, você entra em uma fila para iniciar o processo de indexação dos seus produtos. Os produtos da loja continuam à venda durante o processo de indexação. Eles apenas entram em uma fila para atualização de dados e seguem disponíveis no site para venda. Após clicar em __Reindexar Base__, o processo é iniciado automaticamente.
 
->⚠️ <p>É importante **Apagar Produtos do Indexador** após realizar qualquer outra operação nesta página. Caso contrário, sua loja pode apresentar erros ao acessar páginas de produtos, de categorias ou resultados de busca. Não é necessário **Apagar Produtos do Indexador** após **Agendar reindexação completa**.
+>⚠️ <p>É importante **Apagar Produtos do Indexador** após realizar qualquer outra operação nesta página, exceto após **Agendar reindexação completa**. Caso contrário, sua loja pode apresentar erros ao acessar páginas de produtos, de categorias ou resultados de busca.

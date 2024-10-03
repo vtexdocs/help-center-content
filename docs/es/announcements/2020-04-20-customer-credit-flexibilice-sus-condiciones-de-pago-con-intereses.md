@@ -8,7 +8,7 @@ publishedAt: 2020-06-19T13:43:27.495Z
 contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slugEN: customer-credit-make-your-payment-terms-more-flexible-by-adding-interest
+slugEN: 2020-04-20-customer-credit-make-your-payment-terms-more-flexible-by-adding-interest
 locale: es
 legacySlug: customer-credit-flexibilice-sus-condiciones-de-pago-con-intereses
 announcementImageID: ''

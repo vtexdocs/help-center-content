@@ -8,7 +8,7 @@ publishedAt: 2020-05-12T15:37:47.782Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_41
-slugEN: get-order-and-list-orders-apis-may-now-return-orders-with-the-null-status
+slugEN: 2018-12-28-get-order-and-list-orders-apis-may-now-return-orders-with-the-null-status
 locale: es
 legacySlug: las-api-de-get-order-y-list-orders-pueden-devolver-pedidos-con-status-null
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2023-01-17T13:30:43.243Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slugEN: improvements-in-exporting-prices-via-spreadsheet
+slugEN: 2023-01-13-improvements-in-exporting-prices-via-spreadsheet
 locale: en
 legacySlug: improvements-in-exporting-prices-via-spreadsheet
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2023-11-20T20:39:16.159Z
 contentType: updates
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
-slugEN: black-week-vtex-dashboards-analysis-strategies
+slugEN: 2023-11-20-black-week-vtex-dashboards-analysis-strategies
 locale: es
 legacySlug: black-week-estrategias-de-analisis-de-dashboards-vtex
 announcementImageID: ''

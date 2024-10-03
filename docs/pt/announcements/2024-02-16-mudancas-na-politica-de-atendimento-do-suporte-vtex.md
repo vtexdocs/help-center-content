@@ -8,7 +8,7 @@ publishedAt: 2024-02-22T21:12:09.365Z
 contentType: updates
 productTeam: Billing
 author: 5l3eEiSz8MpcppCxcnijGz
-slugEN: changes-in-vtex-support-service-policy
+slugEN: 2024-02-16-changes-in-vtex-support-service-policy
 locale: pt
 legacySlug: mudancas-na-politica-de-atendimento-do-suporte-vtex
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2021-04-26T18:55:47.087Z
 contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: changes-in-the-types-of-conversation-tracker-masks
+slugEN: 2021-04-26-changes-in-the-types-of-conversation-tracker-masks
 locale: en
 legacySlug: changes-in-the-types-of-conversation-tracker-masks
 announcementImageID: ''

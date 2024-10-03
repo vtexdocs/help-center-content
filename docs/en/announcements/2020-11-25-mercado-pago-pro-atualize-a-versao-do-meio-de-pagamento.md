@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slugEN: mercado-pago-pro-atualize-a-versao-do-meio-de-pagamento
+slugEN: 2020-11-25-mercado-pago-pro-atualize-a-versao-do-meio-de-pagamento
 locale: en
 legacySlug: mercado-pago-pro-atualize-a-versao-do-meio-de-pagamento
 announcementImageID: ''

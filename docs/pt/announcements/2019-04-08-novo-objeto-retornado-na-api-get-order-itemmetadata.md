@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:21.597Z
 contentType: updates
 productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
-slugEN: New-returned-object-in-API-Get-Order-itemMetadata
+slugEN: 2019-04-08-New-returned-object-in-API-Get-Order-itemMetadata
 locale: pt
 legacySlug: novo-objeto-retornado-na-api-get-order-itemmetadata
 announcementImageID: ''

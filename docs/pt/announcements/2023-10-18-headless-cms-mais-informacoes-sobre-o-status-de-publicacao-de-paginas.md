@@ -8,7 +8,7 @@ publishedAt: 2023-10-18T20:56:21.584Z
 contentType: updates
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slugEN: headless-cms-deeper-insights-into-page-publication-status
+slugEN: 2023-10-18-headless-cms-deeper-insights-into-page-publication-status
 locale: pt
 legacySlug: headless-cms-mais-informacoes-sobre-o-status-de-publicacao-de-paginas
 announcementImageID: ''

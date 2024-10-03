@@ -8,7 +8,7 @@ publishedAt: 2024-02-26T18:06:13.754Z
 contentType: updates
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slugEN: site-editor-and-media-new-authorization-requirement
+slugEN: 2024-02-26-site-editor-and-media-new-authorization-requirement
 locale: en
 legacySlug: site-editor-and-media-new-authorization-requirement
 announcementImageID: ''

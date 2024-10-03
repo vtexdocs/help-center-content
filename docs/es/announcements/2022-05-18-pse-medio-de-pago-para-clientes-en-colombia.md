@@ -8,7 +8,7 @@ publishedAt: 2023-03-14T20:29:31.269Z
 contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slugEN: pse-payment-method-for-customers-in-colombia
+slugEN: 2022-05-18-pse-payment-method-for-customers-in-colombia
 locale: es
 legacySlug: pse-medio-de-pago-para-clientes-en-colombia
 announcementImageID: ''

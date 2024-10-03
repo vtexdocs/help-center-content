@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:55.578Z
 contentType: updates
 productTeam: Post-purchase
 author: 1E4UkWguFZAXjkguvNHPIv
-slugEN: increase-your-sales-with-a-new-order-authorization-screen
+slugEN: 2019-03-26-increase-your-sales-with-a-new-order-authorization-screen
 locale: es
 legacySlug: aumenta-sus-ventas-con-la-nueva-pantalla-autorizacion-de-pedidos
 announcementImageID: ''

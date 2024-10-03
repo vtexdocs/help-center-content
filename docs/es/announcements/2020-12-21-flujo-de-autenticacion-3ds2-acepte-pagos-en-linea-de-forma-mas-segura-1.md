@@ -8,7 +8,7 @@ publishedAt: 2021-05-20T17:06:23.794Z
 contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slugEN: 3ds2-authentication-flow-accept-online-payments-more-securely-1
+slugEN: 2020-12-21-3ds2-authentication-flow-accept-online-payments-more-securely-1
 locale: es
 legacySlug: flujo-de-autenticacion-3ds2-acepte-pagos-en-linea-de-forma-mas-segura
 announcementImageID: ''

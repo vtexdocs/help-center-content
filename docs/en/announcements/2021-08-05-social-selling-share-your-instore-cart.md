@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T14:55:33.958Z
 contentType: updates
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: social-selling-share-your-instore-cart
+slugEN: 2021-08-05-social-selling-share-your-instore-cart
 locale: en
 legacySlug: social-selling-share-your-instore-cart
 announcementImageID: ''

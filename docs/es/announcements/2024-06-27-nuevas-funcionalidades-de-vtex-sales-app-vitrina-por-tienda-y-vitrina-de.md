@@ -8,7 +8,7 @@ publishedAt: 2024-06-28T12:58:10.676Z
 contentType: updates
 productTeam: Shopping
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: new-features-for-vtex-sales-app-custom-displays-by-store-and-collection
+slugEN: 2024-06-27-new-features-for-vtex-sales-app-custom-displays-by-store-and-collection
 locale: es
 legacySlug: nuevas-funcionalidades-de-vtex-sales-app-vitrina-por-tienda-y-vitrina-de
 announcementImageID: ''

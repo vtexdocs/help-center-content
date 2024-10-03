@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
-slugEN: effortlessly-create-backend-apps-with-the-new-typedql-builder
+slugEN: 2019-02-18-effortlessly-create-backend-apps-with-the-new-typedql-builder
 locale: pt
 legacySlug: facilite-a-criacao-de-apps-backend-em-graphql-typescript-para-o-vtex-io-com
 announcementImageID: ''

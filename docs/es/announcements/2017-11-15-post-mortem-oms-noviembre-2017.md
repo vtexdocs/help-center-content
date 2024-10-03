@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:52.527Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_59
-slugEN: post-mortem-oms-november-2017
+slugEN: 2017-11-15-post-mortem-oms-november-2017
 locale: es
 legacySlug: post-mortem-oms-noviembre-2017
 announcementImageID: ''

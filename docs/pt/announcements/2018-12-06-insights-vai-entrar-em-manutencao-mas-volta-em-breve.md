@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:06.933Z
 contentType: updates
 productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
-slugEN: insights-will-be-out-for-maintenance-but-will-be-back-soon
+slugEN: 2018-12-06-insights-will-be-out-for-maintenance-but-will-be-back-soon
 locale: pt
 legacySlug: insights-vai-entrar-em-manutencao-mas-volta-em-breve
 announcementImageID: ''

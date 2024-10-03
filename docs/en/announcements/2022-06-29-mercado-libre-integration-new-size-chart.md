@@ -8,7 +8,7 @@ publishedAt: 2022-06-29T19:49:05.460Z
 contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slugEN: mercado-libre-integration-new-size-chart
+slugEN: 2022-06-29-mercado-libre-integration-new-size-chart
 locale: en
 legacySlug: mercado-libre-integration-new-size-chart
 announcementImageID: ''

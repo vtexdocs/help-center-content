@@ -8,7 +8,7 @@ publishedAt: 2020-10-01T15:19:08.164Z
 contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slugEN: make-your-payments-more-flexible-and-secure-with-automatic-payment-capture
+slugEN: 2020-09-30-make-your-payments-more-flexible-and-secure-with-automatic-payment-capture
 locale: es
 legacySlug: captura-automatica-haga-sus-pagos-mas-flexibles-y-seguros
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2021-01-29T17:18:43.937Z
 contentType: updates
 productTeam: Identity
 author: authors_24
-slugEN: vtex-login-now-features-recaptcha
+slugEN: 2017-10-25-vtex-login-now-features-recaptcha
 locale: pt
 legacySlug: login-da-vtex-agora-tem-recaptcha
 announcementImageID: ''

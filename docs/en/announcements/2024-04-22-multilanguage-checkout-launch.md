@@ -8,7 +8,7 @@ publishedAt: 2024-04-26T15:32:14.356Z
 contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: multilanguage-checkout-launch
+slugEN: 2024-04-22-multilanguage-checkout-launch
 locale: en
 legacySlug: multilanguage-checkout-launch
 announcementImageID: ''

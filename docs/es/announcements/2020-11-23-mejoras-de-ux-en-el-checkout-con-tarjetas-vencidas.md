@@ -8,7 +8,7 @@ publishedAt: 2020-12-03T11:53:48.584Z
 contentType: updates
 productTeam: Shopping
 author: 56yU9Wz6mLwmzo82TjgAHy
-slugEN: ux-improvements-at-checkout-for-expired-cards
+slugEN: 2020-11-23-ux-improvements-at-checkout-for-expired-cards
 locale: es
 legacySlug: mejoras-de-ux-en-el-checkout-con-tarjetas-vencidas
 announcementImageID: ''

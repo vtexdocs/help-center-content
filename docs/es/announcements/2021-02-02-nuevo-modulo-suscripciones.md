@@ -8,7 +8,7 @@ publishedAt: 2022-01-03T16:06:38.858Z
 contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: new-subscriptions-module
+slugEN: 2021-02-02-new-subscriptions-module
 locale: es
 legacySlug: nuevo-modulo-de-suscripciones
 announcementImageID: ''

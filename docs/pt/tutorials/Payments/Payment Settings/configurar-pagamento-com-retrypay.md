@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagamento com Retrypay'
 id: 3QGioVKVI1Qnk3JbbJlJVY
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-03-30T19:35:06.661Z
-updatedAt: 2024-02-08T14:23:02.038Z
-publishedAt: 2024-02-08T14:23:02.038Z
+updatedAt: 2024-10-03T16:10:27.675Z
+publishedAt: 
 firstPublishedAt: 2023-03-30T20:01:51.283Z
 contentType: tutorial
 productTeam: Financial

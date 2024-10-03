@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T16:59:19.986Z
 contentType: updates
 productTeam: Shopping
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slugEN: get-to-know-cartman-the-new-checkout-investigation-tool
+slugEN: 2019-09-03-get-to-know-cartman-the-new-checkout-investigation-tool
 locale: es
 legacySlug: conozca-cartman-la-nueva-herramienta-de-investigacion-del-checkout
 announcementImageID: ''

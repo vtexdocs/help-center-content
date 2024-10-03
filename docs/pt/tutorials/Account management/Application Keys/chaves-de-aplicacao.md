@@ -156,4 +156,4 @@ Para reativar chaves de aplicação externas que tenham sido desativadas anterio
 
 Se necessário para uma auditoria de segurança, você pode exportar um arquivo CSV contendo os valores da **Chave** para todas as chaves de aplicação internas e externas que atualmente têm acesso à sua conta — ou seja, que têm perfis de acesso associadas a elas.
 
-Para exportar as chaves, acesse _Configurações da conta > Gerenciamento da conta > Chaves de aplicação_ e clique no botão <span style="display: inline-block;"><img src="https://images.contentful.com/alneenqid6w5/25JqGWNUZPZattDX6ORXX6/742e99e17042024b9cae641564909171/image4.png" alt="export-button"/> <strong>Exportar</strong></span>.
+Para exportar as chaves, acesse _Configurações da conta > Gerenciamento da conta > Chaves de aplicação_ e clique no botão <span style="display: inline-block;"><img src="//images.contentful.com/alneenqid6w5/25JqGWNUZPZattDX6ORXX6/742e99e17042024b9cae641564909171/image4.png" alt="export-button"/> <strong>Exportar</strong></span>.

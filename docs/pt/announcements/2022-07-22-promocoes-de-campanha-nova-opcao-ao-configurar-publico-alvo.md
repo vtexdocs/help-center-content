@@ -8,7 +8,7 @@ publishedAt: 2022-07-25T13:00:56.738Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: campaign-promotions-new-option-when-configuring-target-audience
+slugEN: 2022-07-22-campaign-promotions-new-option-when-configuring-target-audience
 locale: pt
 legacySlug: promocoes-de-campanha-nova-opcao-ao-configurar-publico-alvo
 announcementImageID: ''

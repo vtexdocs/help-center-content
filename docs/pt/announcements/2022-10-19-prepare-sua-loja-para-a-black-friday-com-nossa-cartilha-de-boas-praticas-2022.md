@@ -8,7 +8,7 @@ publishedAt: 2022-10-19T22:18:08.179Z
 contentType: updates
 productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
-slugEN: get-your-store-ready-for-shopping-season-with-our-best-practices-guide-2022
+slugEN: 2022-10-19-get-your-store-ready-for-shopping-season-with-our-best-practices-guide-2022
 locale: pt
 legacySlug: 
 announcementImageID: ''

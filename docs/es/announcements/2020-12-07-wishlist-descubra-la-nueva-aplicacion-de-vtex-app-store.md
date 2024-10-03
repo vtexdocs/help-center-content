@@ -8,7 +8,7 @@ publishedAt: 2020-12-21T12:00:50.140Z
 contentType: updates
 productTeam: Apps
 author: LSspaTnBWFvnlgdBYPyog
-slugEN: wishlist-discover-the-new-vtex-app-store-app
+slugEN: 2020-12-07-wishlist-discover-the-new-vtex-app-store-app
 locale: es
 legacySlug: wishlist-descubra-la-nueva-aplicacion-de-vtex-app-store
 announcementImageID: ''

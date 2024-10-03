@@ -1,10 +1,10 @@
 ---
 title: 'Setting up payments with VirtusPay'
 id: 2Agqwp19cwyIbxuHErVG8I
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2022-08-11T15:02:59.728Z
-updatedAt: 2024-01-23T21:50:25.883Z
-publishedAt: 2024-01-23T21:50:25.883Z
+updatedAt: 2024-10-03T16:13:22.122Z
+publishedAt: 
 firstPublishedAt: 2022-08-11T16:38:04.718Z
 contentType: tutorial
 productTeam: Financial

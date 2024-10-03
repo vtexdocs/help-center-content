@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagamento com WompiCoV2'
 id: SnkXNUXkESqKxfFZu0LS4
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-04-14T13:55:18.776Z
-updatedAt: 2024-01-24T13:54:46.662Z
-publishedAt: 2024-01-24T13:54:46.662Z
+updatedAt: 2024-10-03T16:15:31.213Z
+publishedAt: 
 firstPublishedAt: 2023-04-14T14:23:30.858Z
 contentType: tutorial
 productTeam: Financial

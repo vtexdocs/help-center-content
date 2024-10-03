@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:14:04.669Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
-slugEN: registering-pickup-points-is-now-easier-and-faster
+slugEN: 2018-12-18-registering-pickup-points-is-now-easier-and-faster
 locale: en
 legacySlug: registering-pickup-points-is-now-easier-and-faster
 announcementImageID: ''

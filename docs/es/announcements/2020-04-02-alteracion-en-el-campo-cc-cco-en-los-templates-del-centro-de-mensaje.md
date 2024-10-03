@@ -8,7 +8,7 @@ publishedAt: 2020-04-02T17:31:40.116Z
 contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: change-in-cc-bcc-field-in-message-center-templates
+slugEN: 2020-04-02-change-in-cc-bcc-field-in-message-center-templates
 locale: es
 legacySlug: alteracion-en-el-campo-cc-cco-en-los-templates-del-centro-de-mensaje
 announcementImageID: ''

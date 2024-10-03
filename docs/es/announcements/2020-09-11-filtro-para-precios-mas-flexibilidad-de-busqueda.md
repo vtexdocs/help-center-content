@@ -8,7 +8,7 @@ publishedAt: 2020-09-28T21:14:24.488Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: price-filters-more-search-flexibility
+slugEN: 2020-09-11-price-filters-more-search-flexibility
 locale: es
 legacySlug: filtro-para-precios-mas-flexibilidad-de-busqueda
 announcementImageID: ''

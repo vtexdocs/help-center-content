@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:47.039Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: authors_24
-slugEN: catalogs-new-visual-and-navigation
+slugEN: 2018-07-12-catalogs-new-visual-and-navigation
 locale: es
 legacySlug: visual-y-navegacion-nuevos-para-el-catalogo
 announcementImageID: ''

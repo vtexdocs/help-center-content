@@ -8,7 +8,7 @@ publishedAt: 2022-07-14T10:30:43.600Z
 contentType: updates
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: sales-performance-new-filters-metrics-and-date-selection
+slugEN: 2022-07-05-sales-performance-new-filters-metrics-and-date-selection
 locale: en
 legacySlug: sales-performance-new-filters-metrics-and-date-selection
 announcementImageID: ''

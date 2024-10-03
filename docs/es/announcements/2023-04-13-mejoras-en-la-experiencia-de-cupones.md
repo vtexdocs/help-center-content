@@ -8,7 +8,7 @@ publishedAt: 2023-04-19T13:21:05.124Z
 contentType: updates
 productTeam: Others
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slugEN: coupon-experience-improvements
+slugEN: 2023-04-13-coupon-experience-improvements
 locale: es
 legacySlug: mejoras-en-la-experiencia-de-cupones
 announcementImageID: ''

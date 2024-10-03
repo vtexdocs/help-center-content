@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:12:58.712Z
 contentType: updates
 productTeam: Channels
 author: authors_24
-slugEN: changes-in-the-orderplaced-provide-more-precision-to-google-analytics-data
+slugEN: 2018-09-04-changes-in-the-orderplaced-provide-more-precision-to-google-analytics-data
 locale: es
 legacySlug: cambios-en-orderplaced-proporcionan-datos-mas-precisos-en-google-analytics
 announcementImageID: ''

@@ -3,8 +3,8 @@ title: 'Cuentas y arquitectura'
 id: 4yPqZQyj0t675QpcG7H6yl
 status: PUBLISHED
 createdAt: 2024-01-09T00:00:08.724Z
-updatedAt: 2024-08-30T12:37:37.809Z
-publishedAt: 2024-08-30T12:37:37.809Z
+updatedAt: 2024-10-03T13:14:47.433Z
+publishedAt: 2024-10-03T13:14:47.433Z
 firstPublishedAt: 2024-02-22T14:06:20.581Z
 contentType: trackArticle
 productTeam: Others
@@ -61,13 +61,13 @@ Sin embargo, el uso simultáneo de muchas políticas comerciales puede afectar e
 - [Multitiendas](#multitienda)  
 - [Entornos adicionales](#entorno-adicional)
 
-La siguiente imagen es un ejemplo de la relación entre la cuenta principal, entorno (subcuenta), multitiendas (tiendas) y políticas comerciales:  
+La siguiente imagen es un ejemplo de la relación entre la cuenta principal, entorno, multitiendas y políticas comerciales:
 
 ![multistore_aditional_environment_ES](//images.ctfassets.net/alneenqid6w5/6XOI59M49L18E99hSDpgWe/a0d486cc33bba9057698b54eb2f8eaf4/multistore_aditional_environment_ES.png)
 
 ### Multitienda
 
-[Multitienda o multidominio ](https://help.vtex.com/es/tutorial/escolhendo-entre-arquitetura-multi-loja-ou-ambiente-adicional--4HRNpa1OCKZ5YzP8yiilBL)es la funcionalidad que permite crear otras tiendas asociadas a la cuenta principal cuya gestión se llevará a cabo en el mismo entorno administrativo. Esto significa que cada tienda tendrá su propio [storefront](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) y dominio, aunque pueden compartir la configuración de módulos, como catálogo, logística, precios, entre otros.  
+[Multitienda o multidominio](https://help.vtex.com/es/tutorial/escolhendo-entre-arquitetura-multi-loja-ou-ambiente-adicional--4HRNpa1OCKZ5YzP8yiilBL) es la funcionalidad que permite crear otras tiendas asociadas a la cuenta principal cuya gestión se llevará a cabo en el mismo entorno administrativo. Esto significa que cada tienda tendrá su propio [storefront](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) y dominio, aunque pueden compartir la configuración de módulos, como catálogo, logística, precios, entre otros.  
 
 Algunas de las principales ventajas de [crear multitiendas](https://help.vtex.com/es/tutorial/como-criar-multiloja-multidominio--tutorials_510) son la facilidad que le brinda a la empresa de comercializar productos con nichos diferentes, la practicidad al vender múltiples marcas y la agilidad al ofrecer diversos productos en tiendas y canales distintos.  
 
@@ -89,7 +89,7 @@ Algunos casos de uso comunes para contratar un nuevo entorno son cuando se quier
 
 La siguiente tabla presenta los puntos importantes que se deben tomar en cuenta al decidir entre una arquitectura multitienda, entorno adicional o una combinación de ambas:
 
-| **Tema** | **Multitienda (tiendas)** | **Entorno adicional (subcuentas)** |
+| **Tema** | **Multitienda** | **Entorno adicional** |
 | :---: | :--- | :--- |
 | Arquitectura | Un __solo entorno administrativo__ en el Admin VTEX asociado a dos o más tiendas [store names](https://help.vtex.com/es/tutorial/o-que-e-store-name--3gh9mTNeMgs6Qe44e8IqQK). Todas las tiendas están vinculadas al **mismo [account name](https://help.vtex.com/es/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC)**. | **Múltiples entornos administrativos** en el Admin VTEX con configuraciones completamente independientes. Cada entorno tiene un **[account name](https://help.vtex.com/es/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) propio.** |
 | Mapa del sitio | Un único **[mapa del sitio](https://help.vtex.com/es/tutorial/rastreamento-google-search-console-sitemap--tutorials_575) para la cuenta principal que se comparte** entre todas las tiendas.| Cada cuenta tiene un **[mapa del sitio](https://help.vtex.com/es/tutorial/rastreamento-google-search-console-sitemap--tutorials_575) propio**. |

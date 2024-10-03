@@ -3,8 +3,8 @@ title: 'Specification Values not being translated in Intelligent Search side'
 id: 3z40dVHozP36jrMvxq3TKe
 status: PUBLISHED
 createdAt: 2024-09-23T20:47:41.373Z
-updatedAt: 2024-09-23T20:47:42.169Z
-publishedAt: 2024-09-23T20:47:42.169Z
+updatedAt: 2024-09-26T21:39:53.046Z
+publishedAt: 2024-09-26T21:39:53.046Z
 firstPublishedAt: 2024-09-23T20:47:42.169Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -20,7 +20,7 @@ internalReference: 784129
 
 
 
-Translating fields from one language to another using `vtex.catalog-graphql` app and making them available to be searched inside the Intelligent Search is not working properly
+Translating fields from one language to another using `vtex.catalog-graphql` app and making them available to be searched inside the Intelligent Search is not working properly.
 
 The indexing process and the `vtex.catalog-graphql`_ _app differ when handling Specification Values. The difference is that when calling `vtex.messages`, the indexing process uses the Specification Value's _FieldValueId_, and when registering translations, the `vtex.catalog-graphql` uses the Specification's _FieldId_. This subtle difference results in translations of Specification Values created using the `vtex.catalog-graphql `app not being picked up during the indexing process.
 
@@ -31,9 +31,7 @@ The indexing process and the `vtex.catalog-graphql`_ _app differ when handling S
 
 
 
-Follow the guide about translation specification values:
-
-https://developers.vtex.com/docs/guides/catalog-internationalization
+Follow the guide about translation specification values: https://developers.vtex.com/docs/guides/catalog-internationalization
 
 Check that the translation won't reflect on facets on the IS side.
 
@@ -54,11 +52,13 @@ Check that the translation won't reflect on facets on the IS side.
 
 - Create a new translation using the FieldValueId as context and the translate mutation (in the example below, 11 is the _FieldValueId_ for the Specification Value _Red_).
 
-
     mutation Save($saveArgs: SaveArgsV2!) {saveV2(args: $saveArgs)}{"saveArgs": { "to": "pt-BR", "messages": [   {      "srcLang": "en-US",      "srcMessage": "Red",      "context": "11",      "targetMessage": "Vermelho"    }]}}
 
 
-Basically, instead of saving the reference based on `fieldValueId`, you will need to save the reference in the messages' context using the `fieldId`.
+In summary, instead of saving the "context" property based only on `fieldValueId`, you will also need to save it in the messages' context using the `fieldId`.
+
+Note that both translations are required since different parts of the store will use different ways to query it; the "FieldValueId" is used by the Catalog/Search information, and the "FieldId" may be used directly by the Store Framework.
+
 
 
 

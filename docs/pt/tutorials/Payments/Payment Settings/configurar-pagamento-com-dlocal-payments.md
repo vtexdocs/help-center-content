@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagamento com DLocal Payments'
 id: 50DpZAd6td8oJaAIzHfQB5
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-04-03T13:40:15.432Z
-updatedAt: 2024-01-23T18:09:56.316Z
-publishedAt: 2024-01-23T18:09:56.316Z
+updatedAt: 2024-10-03T15:14:29.291Z
+publishedAt: 
 firstPublishedAt: 2023-04-03T14:03:12.910Z
 contentType: tutorial
 productTeam: Financial

@@ -3,12 +3,12 @@ title: 'Descontinuidade de conectores legados de pagamento'
 id: 11SHyRwcAr4fs46K7PccOr
 status: PUBLISHED
 createdAt: 2024-03-15T10:19:40.450Z
-updatedAt: 2024-08-20T13:27:49.613Z
-publishedAt: 2024-08-20T13:27:49.613Z
+updatedAt: 2024-10-02T21:17:59.207Z
+publishedAt: 2024-10-02T21:17:59.207Z
 contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slugEN: discontinuation-of-legacy-payment-connectors
+slugEN: 2024-03-15-discontinuation-of-legacy-payment-connectors
 locale: pt
 legacySlug: descontinuidade-de-conectores-legados-de-pagamento
 announcementImageID: ''
@@ -19,31 +19,31 @@ Em prosseguimento ao processo de [descontinuidade dos conectores legados de paga
 
 | **Conector legado** | **Nova versão (Conector PPP)** |
 | :---: | :---: |
-| Adyen | AdyenV3 |
+| Adyen | [AdyenV3](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-adyenv3--7xAz67E2Eg63LWCQNjVdwv) |
 | AuthorizeNet/AuthorizeDotNet | - |
-| BankInvoiceItau/BankIssuedInvoiceItau | MaxiPagoV4 |
-| BankInvoiceSantander/BankIssuedInvoiceSantander | Egetnet |
-| Bradesco/RegisteredBankInvoiceBradesco | ShopfacilPayment |
-| Braspag/BraspagV2 | CieloEcommerce |
-| Cielo/CieloV3 | CieloEcommerce |
+| BankInvoiceItau/BankIssuedInvoiceItau | [MaxiPagoV4](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-maxipagov4--4pWPhTago6uDxjFMB6kln3) |
+| BankInvoiceSantander/BankIssuedInvoiceSantander | [Egetnet](https://help.vtex.com/pt/tutorial/configurar-adquirente-getnet-com-o-conector-egetnet--75kwGKPKnK8mwiEmQGYiWq) |
+| Bradesco/RegisteredBankInvoiceBradesco | [ShopfacilPayment](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-shopfacil--4v3z3CLrgZ2bByMx7uoMeG) |
+| Braspag/BraspagV2 | [CieloEcommerce](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-cieloecommerce--6zuELBqEo0QzApbU4l7L4) |
+| Cielo/CieloV3 | [CieloEcommerce](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-cieloecommerce--6zuELBqEo0QzApbU4l7L4) |
 | Credomatic | - |
-| CyberSource | Cybersource IO |
-| Decidir/DecidirV1 | Payway |
-| ERede/E-Rede V2/ERedeRest | Itaú Rede |
+| CyberSource | [Cybersource IO](https://help.vtex.com/pt/tutorial/configurar-gateway-cybersource--6nhvUTrLxeacsoYG6GkGM) |
+| Decidir/DecidirV1 | [Payway](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-payway--wHkvX7olfPPsAdeFq7obp) |
+| ERede/E-Rede V2/ERedeRest | [Itaú Rede](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-itau-rede--77BYOKxVzONWulAf8dTVSX) |
 | Firstdata | - |
-| ItauShopline | MaxiPagoV4 |
-| MaxiPago | MaxiPagoV4 |
-| MercadoPagoV1 | MercadoPagoV2 |
-| PagHiper | PagHiperV2 ou PagHiperV3 |
-| PagoEfectivo | PagoEfectivoV2  |
+| ItauShopline | [MaxiPagoV4](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-maxipagov4--4pWPhTago6uDxjFMB6kln3) |
+| MaxiPago | [MaxiPagoV4](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-maxipagov4--4pWPhTago6uDxjFMB6kln3) |
+| MercadoPagoV1 | [MercadoPagoV2](https://help.vtex.com/pt/tutorial/configurar-o-subadquirente-mercadopagov2--1y6k8lCSzJYfPs2yObNFo4) |
+| PagHiper | [PagHiperV2](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-paghiperv2--131E6zBcTTkzZtL82cZh1x) ou [PagHiperV3](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-paghiperv3--1dYVbSK0yHNY5vp0gJj4fC) |
+| PagoEfectivo | [PagoEfectivoV2](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-pagoefectivov2--63Raoh7hlWoWbMJOAacfMV)  |
 | PagosNet | - |
-| PagosWeb | bamboo |
-| PagSeguro/PagSeguroDirect | PagBankV3 |
-| PayPal/PayPalPlus | PayPalV2 |
-| PayU/PayUGlobal | PayUv2 |
-| Redsys/RedsysV2 | RedsysEXP |
-| Sitef/SitefDirectSale/SitefPreauth | ESITEF |
-| WebPay/WebPay2P | Transbank Webpay |
+| PagosWeb | [Bamboo-Payments](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-bamboo-payments--33TDZBp1wmgzJdiZtvu1xY) |
+| PagSeguro/PagSeguroDirect | [PagBankV3](https://help.vtex.com/pt/tutorial/configurar-o-pagseguro-v3--5Noi1mUbBQ6CyqdeDQtWfw) |
+| PayPal/PayPalPlus | [PayPalV2](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-paypalv2--2nGiQVk3YKvOAu8Zg4RKFr) |
+| PayU/PayUGlobal | [PayUv2](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-payuv2--7twMgKUZZtJGmR72wS1k3n) |
+| Redsys/RedsysV2 | [RedsysEXP](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-redsysexp--7DSQeUbDEgH6yUvtXg4wly) |
+| Sitef/SitefDirectSale/SitefPreauth | [ESITEF](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-e-sitef--6UEi0QAlU6BXz5RgWj34Ac) |
+| WebPay/WebPay2P | [Transbank Webpay](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-transbank-webpay--3uVwZ1gUx2g5TXGt0CHb44) |
 
 ## O que precisa ser feito?
 

@@ -8,7 +8,7 @@ publishedAt: 2022-04-19T12:12:37.482Z
 contentType: updates
 productTeam: Channels
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: tiktok-for-business-advertise-your-products-on-tiktok
+slugEN: 2022-04-14-tiktok-for-business-advertise-your-products-on-tiktok
 locale: pt
 legacySlug: tiktok-for-business-anuncie-seus-produtos-no-tiktok
 announcementImageID: ''

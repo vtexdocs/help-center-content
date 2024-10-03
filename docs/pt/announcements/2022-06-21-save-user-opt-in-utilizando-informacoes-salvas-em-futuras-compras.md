@@ -8,7 +8,7 @@ publishedAt: 2022-10-21T16:44:56.661Z
 contentType: updates
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slugEN: save-user-opt-in-using-stored-information-for-future-purchases
+slugEN: 2022-06-21-save-user-opt-in-using-stored-information-for-future-purchases
 locale: pt
 legacySlug: save-user-opt-in-utilizando-informacoes-salvas-em-futuras-compras
 announcementImageID: ''

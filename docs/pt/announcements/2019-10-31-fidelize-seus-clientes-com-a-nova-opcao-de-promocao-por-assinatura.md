@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T16:59:16.517Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
-slugEN: build-customer-loyalty-with-the-new-subscription-promotion-option
+slugEN: 2019-10-31-build-customer-loyalty-with-the-new-subscription-promotion-option
 locale: pt
 legacySlug: fidelize-seus-clientes-com-a-nova-opcao-de-promocao-por-assinatura
 announcementImageID: ''

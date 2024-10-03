@@ -8,7 +8,7 @@ publishedAt: 2022-08-26T18:00:02.539Z
 contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: partial-invoice-settlements-in-oms
+slugEN: 2022-06-27-partial-invoice-settlements-in-oms
 locale: en
 legacySlug: partial-invoice-settlements-in-oms
 announcementImageID: ''

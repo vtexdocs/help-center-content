@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:46.401Z
 contentType: updates
 productTeam: Reliability
 author: authors_24
-slugEN: new-deadline-activate-the-new-cdn-until-may-31
+slugEN: 2018-04-20-new-deadline-activate-the-new-cdn-until-may-31
 locale: es
 legacySlug: nuevo-plazo-active-la-nueva-cdn-hasta-el-31-05
 announcementImageID: ''

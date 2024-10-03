@@ -8,7 +8,7 @@ publishedAt: 2021-03-22T20:46:37.109Z
 contentType: updates
 productTeam: Others
 author: authors_59
-slugEN: integrations-with-vtex-apis-now-need-token-authentication
+slugEN: 2017-10-25-integrations-with-vtex-apis-now-need-token-authentication
 locale: es
 legacySlug: integraciones-con-apis-vtex-ya-no-podran-autenticarse-por-email-y-contrasena
 announcementImageID: ''

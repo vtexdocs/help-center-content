@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:38.602Z
 contentType: updates
 productTeam: Identity
 author: authors_24
-slugEN: facebook-and-google-login-settings-have-changed
+slugEN: 2017-10-25-facebook-and-google-login-settings-have-changed
 locale: pt
 legacySlug: mudamos-a-configuracao-do-login-por-facebook-google
 announcementImageID: ''

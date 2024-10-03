@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:12:50.508Z
 contentType: updates
 productTeam: Reliability
 author: authors_24
-slugEN: vtex-will-only-give-support-to-tls-1-2
+slugEN: 2018-06-22-vtex-will-only-give-support-to-tls-1-2
 locale: pt
 legacySlug: vtex-so-vai-dar-suporte-ao-tls-1-2
 announcementImageID: ''

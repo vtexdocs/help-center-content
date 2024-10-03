@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T14:56:25.614Z
 contentType: updates
 productTeam: Shopping
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slugEN: sales-rep-code-instore-customization-improvements
+slugEN: 2021-02-04-sales-rep-code-instore-customization-improvements
 locale: en
 legacySlug: sales-rep-code-instore-customization-improvements
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:41.446Z
 contentType: updates
 productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
-slugEN: close-bigger-deals-with-the-shared-cart
+slugEN: 2019-02-18-close-bigger-deals-with-the-shared-cart
 locale: es
 legacySlug: haga-ventas-mas-grandes-con-el-carrito-compartido
 announcementImageID: ''

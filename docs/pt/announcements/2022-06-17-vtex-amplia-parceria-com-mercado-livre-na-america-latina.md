@@ -8,7 +8,7 @@ publishedAt: 2022-08-04T23:16:18.523Z
 contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slugEN: vtex-expands-its-partnership-with-mercado-libre-in-latin-america
+slugEN: 2022-06-17-vtex-expands-its-partnership-with-mercado-libre-in-latin-america
 locale: pt
 legacySlug: vtex-amplia-parceria-com-mercado-livre-na-america-latina
 announcementImageID: ''

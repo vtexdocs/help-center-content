@@ -3,8 +3,8 @@ title: 'As atualizações da comissão do vendedor não indexam os skus vinculad
 id: GNX6sFV0thQkMLWEwxya9
 status: PUBLISHED
 createdAt: 2023-08-31T14:44:39.162Z
-updatedAt: 2023-08-31T14:44:39.748Z
-publishedAt: 2023-08-31T14:44:39.748Z
+updatedAt: 2024-09-30T15:10:05.104Z
+publishedAt: 2024-09-30T15:10:05.104Z
 firstPublishedAt: 2023-08-31T14:44:39.748Z
 contentType: knownIssue
 productTeam: Catalog
@@ -23,9 +23,9 @@ internalReference: 891162
 
 Quando o comerciante atualiza a comissão do vendedor na interface do usuário de gerenciamento do vendedor, os skus vinculados relacionados a esse vendedor não são indexados automaticamente.
 
-Nosso sistema de checkout usa a API stockkeepingunitbyid para obter as informações atualizadas do sku.
+Nosso sistema de checkout usa a API `stockkeepingunitbyid` para obter as informações atualizadas do sku.
 
-Nessa API, temos o objeto SkuSellers que contém as informações de comissão. Mas se o sku não for indexado, esse objeto ficará desatualizado.
+Nessa API, temos o objeto SkuSellers que contém as informações de comissão. Mas se a sku não for indexada, esse objeto ficará desatualizado.
 
 Isso faz com que o checkout obtenha o valor antigo da comissão.
 
@@ -41,7 +41,6 @@ Isso faz com que o checkout obtenha o valor antigo da comissão.
 
 
 Para evitar o fechamento de pedidos com o valor de comissão desatualizado, o comerciante pode indexar manualmente os skus afetados.
-
 
 
 

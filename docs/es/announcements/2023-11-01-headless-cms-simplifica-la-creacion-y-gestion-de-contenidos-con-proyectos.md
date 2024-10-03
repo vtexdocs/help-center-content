@@ -8,7 +8,7 @@ publishedAt: 2023-11-16T14:17:47.228Z
 contentType: updates
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slugEN: headless-cms-simplify-content-creation-and-management-with-projects
+slugEN: 2023-11-01-headless-cms-simplify-content-creation-and-management-with-projects
 locale: es
 legacySlug: headless-cms-simplifica-la-creacion-y-gestion-de-contenidos-con-proyectos
 announcementImageID: ''

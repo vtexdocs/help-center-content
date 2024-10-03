@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T18:35:53.868Z
 contentType: updates
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: introducing-the-new-shipping-strategy-interfaces
+slugEN: 2023-05-31-introducing-the-new-shipping-strategy-interfaces
 locale: es
 legacySlug: descubre-las-nuevas-interfaces-de-estrategia-de-envio
 announcementImageID: ''

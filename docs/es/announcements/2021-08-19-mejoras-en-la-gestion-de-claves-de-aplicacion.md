@@ -8,7 +8,7 @@ publishedAt: 2021-12-10T02:40:04.550Z
 contentType: updates
 productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
-slugEN: improvements-in-application-key-management
+slugEN: 2021-08-19-improvements-in-application-key-management
 locale: es
 legacySlug: mejoras-en-la-gestion-de-claves-de-aplicacion
 announcementImageID: ''

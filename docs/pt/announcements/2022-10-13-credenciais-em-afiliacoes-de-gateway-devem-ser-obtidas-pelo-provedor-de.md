@@ -8,7 +8,7 @@ publishedAt: 2023-04-03T14:13:18.199Z
 contentType: updates
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
-slugEN: credentials-in-gateway-affiliations-must-be-provided-by-the-payment-provider
+slugEN: 2022-10-13-credentials-in-gateway-affiliations-must-be-provided-by-the-payment-provider
 locale: pt
 legacySlug: credenciais-em-afiliacoes-de-gateway-devem-ser-obtidas-pelo-provedor-de
 announcementImageID: ''

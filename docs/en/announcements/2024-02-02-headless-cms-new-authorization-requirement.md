@@ -8,7 +8,7 @@ publishedAt: 2024-02-02T14:14:58.237Z
 contentType: updates
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slugEN: headless-cms-new-authorization-requirement
+slugEN: 2024-02-02-headless-cms-new-authorization-requirement
 locale: en
 legacySlug: headless-cms-new-authorization-requirement
 announcementImageID: ''

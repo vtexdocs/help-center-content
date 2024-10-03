@@ -8,7 +8,7 @@ publishedAt: 2024-04-17T12:48:51.570Z
 contentType: updates
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: master-data-v1-dynamic-settings-deprecation
+slugEN: 2024-04-17-master-data-v1-dynamic-settings-deprecation
 locale: es
 legacySlug: master-data-v1-descontinuacion-de-configuraciones-dinamicas
 announcementImageID: ''

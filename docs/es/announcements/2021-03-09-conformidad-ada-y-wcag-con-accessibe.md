@@ -8,7 +8,7 @@ publishedAt: 2021-05-06T19:57:08.978Z
 contentType: updates
 productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
-slugEN: ada-and-wcag-compliance-with-accessibe
+slugEN: 2021-03-09-ada-and-wcag-compliance-with-accessibe
 locale: es
 legacySlug: conformidad-con-ada-y-wcag-en-vtex
 announcementImageID: ''

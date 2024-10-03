@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:12:52.626Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_59
-slugEN: vtex-releases-new-pickup-points-feature
+slugEN: 2017-10-30-vtex-releases-new-pickup-points-feature
 locale: es
 legacySlug: vtex-lanza-nueva-feature-de-puntos-de-recogida-pickup-points
 announcementImageID: ''

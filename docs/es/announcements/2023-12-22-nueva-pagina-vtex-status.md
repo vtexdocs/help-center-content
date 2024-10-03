@@ -8,7 +8,7 @@ publishedAt: 2023-12-22T13:57:46.734Z
 contentType: updates
 productTeam: Reliability
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: get-to-know-the-new-vtex-status-page
+slugEN: 2023-12-22-get-to-know-the-new-vtex-status-page
 locale: es
 legacySlug: nueva-pagina-vtex-status
 announcementImageID: ''

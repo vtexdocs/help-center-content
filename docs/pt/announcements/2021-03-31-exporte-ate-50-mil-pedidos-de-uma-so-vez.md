@@ -8,7 +8,7 @@ publishedAt: 2021-04-05T13:00:57.489Z
 contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: exporting-up-to-50-000-orders-at-once
+slugEN: 2021-03-31-exporting-up-to-50-000-orders-at-once
 locale: pt
 legacySlug: exporte-ate-50-mil-pedidos-de-uma-so-vez
 announcementImageID: ''

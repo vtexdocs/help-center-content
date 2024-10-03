@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
-slugEN: new-way-of-adding-multilingual-support-to-your-vtex-io-app
+slugEN: 2018-12-13-new-way-of-adding-multilingual-support-to-your-vtex-io-app
 locale: pt
 legacySlug: nova-forma-de-organizar-os-arquivos-de-traducao-em-sua-app-io
 announcementImageID: ''

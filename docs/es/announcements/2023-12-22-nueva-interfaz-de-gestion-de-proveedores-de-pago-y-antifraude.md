@@ -8,7 +8,7 @@ publishedAt: 2024-01-22T20:43:27.828Z
 contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slugEN: new-payment-provider-and-anti-fraud-management-interface
+slugEN: 2023-12-22-new-payment-provider-and-anti-fraud-management-interface
 locale: es
 legacySlug: nueva-interfaz-de-gestion-de-proveedores-de-pago-y-antifraude
 announcementImageID: ''

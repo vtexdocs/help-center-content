@@ -8,7 +8,7 @@ publishedAt: 2022-05-03T18:15:16.054Z
 contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slugEN: checkout-setting-up-the-cardholder-document-id-field
+slugEN: 2022-04-29-checkout-setting-up-the-cardholder-document-id-field
 locale: pt
 legacySlug: checkout-configuracao-do-campo-de-identificacao-do-titular-do-cartao
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: subscriptions-app-available-on-the-vtex-app-store
+slugEN: 2022-07-26-subscriptions-app-available-on-the-vtex-app-store
 locale: es
 legacySlug: suscripciones-aplicacion-disponible-en-vtex-app-store
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2024-07-01T16:01:07.956Z
 contentType: updates
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: new-feature-product-feedback-in-the-vtex-admin
+slugEN: 2024-07-01-new-feature-product-feedback-in-the-vtex-admin
 locale: es
 legacySlug: nueva-funcionalidad-feedback-de-producto-en-el-admin-vtex
 announcementImageID: ''

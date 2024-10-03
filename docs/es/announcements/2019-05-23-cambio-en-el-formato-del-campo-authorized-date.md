@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:08.423Z
 contentType: updates
 productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
-slugEN: changes-in-format-for-the-orders-export-spreadsheet-authorized-date-field
+slugEN: 2019-05-23-changes-in-format-for-the-orders-export-spreadsheet-authorized-date-field
 locale: es
 legacySlug: cambio-en-el-formato-del-campo-authorized-date-de-la-plantilla-de
 announcementImageID: ''

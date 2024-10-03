@@ -8,7 +8,7 @@ publishedAt: 2021-11-22T13:49:13.294Z
 contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slugEN: mercado-libre-integration-new-interface-for-mapping-categories-and
+slugEN: 2021-11-19-mercado-libre-integration-new-interface-for-mapping-categories-and
 locale: pt
 legacySlug: integracao-com-o-mercado-livre-nova-interface-para-mapear-categorias-e
 announcementImageID: ''

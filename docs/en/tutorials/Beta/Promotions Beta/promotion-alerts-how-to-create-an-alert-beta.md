@@ -3,8 +3,8 @@ title: 'Promotion alerts: How to create an alert (Beta)'
 id: 14nC51OlGoCSBLlBkZhkRR
 status: PUBLISHED
 createdAt: 2022-11-18T17:08:57.812Z
-updatedAt: 2023-03-30T17:20:58.855Z
-publishedAt: 2023-03-30T17:20:58.855Z
+updatedAt: 2024-09-27T14:06:11.570Z
+publishedAt: 2024-09-27T14:06:11.570Z
 firstPublishedAt: 2022-11-18T19:07:21.814Z
 contentType: tutorial
 productTeam: Channels
@@ -39,6 +39,8 @@ Follow the instructions below to create an alert:
 7. Click `Save`.
 
 Then, the new promotion alert will be successfully created.
+
+>ℹ️ When setting up alerts for products with unit multipliers, such as items sold in fractions (e.g., 0.5 kg), it is important to know that the system may incorrectly flag promotions for these products. This happens because it cannot accurately identify the price per gram or other unit fractions. Therefore, we recommend carefully reviewing the alerts when managing weighable items.
 
 ## Conditions
 

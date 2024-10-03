@@ -8,7 +8,7 @@ publishedAt: 2021-08-13T19:47:05.952Z
 contentType: updates
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slugEN: vtex-app-store-pay-by-credit-card-and-manage-app-subscriptions
+slugEN: 2021-08-13-vtex-app-store-pay-by-credit-card-and-manage-app-subscriptions
 locale: es
 legacySlug: vtex-app-store-pague-con-tarjeta-de-credito-y-gestione-las-suscripciones-de
 announcementImageID: ''

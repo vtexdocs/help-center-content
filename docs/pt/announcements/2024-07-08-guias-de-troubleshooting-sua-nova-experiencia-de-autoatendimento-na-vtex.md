@@ -8,7 +8,7 @@ publishedAt: 2024-07-08T21:47:04.455Z
 contentType: updates
 productTeam: Others
 author: 4oTZzwYoyhy1tDBwLuemdG
-slugEN: troubleshooting-guides-your-new-vtex-self-service-experience
+slugEN: 2024-07-08-troubleshooting-guides-your-new-vtex-self-service-experience
 locale: pt
 legacySlug: guias-de-troubleshooting-sua-nova-experiencia-de-autoatendimento-na-vtex
 announcementImageID: ''

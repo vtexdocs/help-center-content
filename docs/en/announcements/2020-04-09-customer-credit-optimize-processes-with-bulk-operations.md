@@ -8,7 +8,7 @@ publishedAt: 2020-04-09T18:29:25.856Z
 contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slugEN: customer-credit-optimize-processes-with-bulk-operations
+slugEN: 2020-04-09-customer-credit-optimize-processes-with-bulk-operations
 locale: en
 legacySlug: customer-credit-optimize-processes-with-bulk-updates
 announcementImageID: ''

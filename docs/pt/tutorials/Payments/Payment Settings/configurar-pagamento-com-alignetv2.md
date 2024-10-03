@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagamento com AlignetV2'
 id: 1rZU7cexTYdzB4SHWjr3eJ
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2024-03-07T16:37:07.030Z
-updatedAt: 2024-03-07T16:56:11.973Z
-publishedAt: 2024-03-07T16:56:11.973Z
+updatedAt: 2024-10-03T15:01:49.995Z
+publishedAt: 
 firstPublishedAt: 2024-03-07T16:56:11.973Z
 contentType: tutorial
 productTeam: Financial

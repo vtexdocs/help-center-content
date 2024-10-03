@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: unknown
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slugEN: integracao-entre-vtex-intelligence-search-e-instore-alavanca-resultados-de
+slugEN: 2021-01-21-integracao-entre-vtex-intelligence-search-e-instore-alavanca-resultados-de
 locale: pt
 legacySlug: integracao-entre-vtex-intelligence-search-e-instore-alavanca-resultados-de
 announcementImageID: ''

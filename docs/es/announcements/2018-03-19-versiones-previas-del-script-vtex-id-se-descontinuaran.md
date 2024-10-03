@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:29.533Z
 contentType: updates
 productTeam: Identity
 author: authors_24
-slugEN: old-versions-of-the-vtex-id-script-will-be-deprecated
+slugEN: 2018-03-19-old-versions-of-the-vtex-id-script-will-be-deprecated
 locale: es
 legacySlug: versiones-previas-del-script-vtex-id-se-descontinuaran
 announcementImageID: ''

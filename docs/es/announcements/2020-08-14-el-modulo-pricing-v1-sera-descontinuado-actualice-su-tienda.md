@@ -8,7 +8,7 @@ publishedAt: 2021-11-17T18:09:13.896Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: pricing-v1-module-will-be-discontinued-update-your-store-by-september
+slugEN: 2020-08-14-pricing-v1-module-will-be-discontinued-update-your-store-by-september
 locale: es
 legacySlug: el-modulo-pricing-v1-sera-descontinuado-actualice-su-tienda-hasta-el-fin-de, el-modulo-pricing-v1-sera-descontinuado-actualice-su-tienda
 announcementImageID: ''

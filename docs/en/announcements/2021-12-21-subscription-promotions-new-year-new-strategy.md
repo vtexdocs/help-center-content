@@ -8,7 +8,7 @@ publishedAt: 2022-01-04T13:30:54.185Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 5l3eEiSz8MpcppCxcnijGz
-slugEN: subscription-promotions-new-year-new-strategy
+slugEN: 2021-12-21-subscription-promotions-new-year-new-strategy
 locale: en
 legacySlug: subscription-promotions-new-year-new-strategy
 announcementImageID: ''

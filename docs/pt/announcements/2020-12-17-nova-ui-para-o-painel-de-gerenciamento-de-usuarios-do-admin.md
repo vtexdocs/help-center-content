@@ -8,7 +8,7 @@ publishedAt: 2021-01-18T17:00:45.372Z
 contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
-slugEN: new-ui-for-the-admins-user-management-dashboard
+slugEN: 2020-12-17-new-ui-for-the-admins-user-management-dashboard
 locale: pt
 legacySlug: nova-ui-para-o-painel-de-gerenciamento-de-usuarios-do-admin
 announcementImageID: ''

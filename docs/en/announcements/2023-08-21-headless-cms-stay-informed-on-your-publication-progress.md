@@ -8,7 +8,7 @@ publishedAt: 2023-08-21T15:36:01.683Z
 contentType: updates
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slugEN: headless-cms-stay-informed-on-your-publication-progress
+slugEN: 2023-08-21-headless-cms-stay-informed-on-your-publication-progress
 locale: en
 legacySlug: headless-cms-stay-informed-on-your-publication-progress
 announcementImageID: ''

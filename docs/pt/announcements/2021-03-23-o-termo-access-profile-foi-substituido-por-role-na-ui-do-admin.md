@@ -8,7 +8,7 @@ publishedAt: 2021-03-31T14:51:48.211Z
 contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
-slugEN: the-term-access-profile-has-been-replaced-by-the-term-role-in-your-admin-ui
+slugEN: 2021-03-23-the-term-access-profile-has-been-replaced-by-the-term-role-in-your-admin-ui
 locale: pt
 legacySlug: o-termo-access-profile-foi-substituido-por-role-na-ui-do-admin
 announcementImageID: ''

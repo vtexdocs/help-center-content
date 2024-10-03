@@ -8,7 +8,7 @@ publishedAt: 2021-07-09T00:48:43.696Z
 contentType: updates
 productTeam: Others
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slugEN: practical-guides-for-b2b-commerce
+slugEN: 2021-04-07-practical-guides-for-b2b-commerce
 locale: es
 legacySlug: guias-practicas-para-comercio-b2b
 announcementImageID: ''

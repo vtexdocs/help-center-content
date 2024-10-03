@@ -8,7 +8,7 @@ publishedAt: 2021-05-04T13:32:30.685Z
 contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: marketplace-new-sidebar-with-received-sku-details
+slugEN: 2021-05-03-marketplace-new-sidebar-with-received-sku-details
 locale: en
 legacySlug: marketplace-new-sidebar-with-received-sku-details
 announcementImageID: ''

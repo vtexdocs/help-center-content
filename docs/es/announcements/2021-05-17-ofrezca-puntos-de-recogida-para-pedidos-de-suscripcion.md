@@ -8,7 +8,7 @@ publishedAt: 2021-05-17T20:58:48.244Z
 contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: offer-pickup-points-for-subscription-orders
+slugEN: 2021-05-17-offer-pickup-points-for-subscription-orders
 locale: es
 legacySlug: ofrezca-puntos-de-recogida-para-pedidos-de-suscripcion
 announcementImageID: ''

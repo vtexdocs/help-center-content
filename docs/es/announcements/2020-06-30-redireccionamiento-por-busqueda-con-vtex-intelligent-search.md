@@ -8,7 +8,7 @@ publishedAt: 2020-07-14T16:52:08.780Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: redirecting-by-search-with-vtex-intelligent-search
+slugEN: 2020-06-30-redirecting-by-search-with-vtex-intelligent-search
 locale: es
 legacySlug: redireccionamiento-por-busqueda-con-vtex-intelligent-search
 announcementImageID: ''

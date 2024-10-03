@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 
-slugEN: maximum-price-per-item-promotion-will-be-disabled
+slugEN: 2017-10-30-maximum-price-per-item-promotion-will-be-disabled
 locale: es
 legacySlug: promoción-del-tipo-precio-maximo-por-articulo-dejara-de-existir
 announcementImageID: ''

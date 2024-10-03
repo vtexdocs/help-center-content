@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Shopping
 author: authors_59
-slugEN: checkout-api-improvements-part-1
+slugEN: 2019-05-15-checkout-api-improvements-part-1
 locale: pt
 legacySlug: melhorias-na-api-do-checkout-parte-1
 announcementImageID: ''

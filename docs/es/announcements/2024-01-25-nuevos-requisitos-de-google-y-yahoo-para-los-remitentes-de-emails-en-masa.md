@@ -8,7 +8,7 @@ publishedAt: 2024-01-26T00:23:10.235Z
 contentType: updates
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: new-google-and-yahoo-requirements-for-bulk-email-senders
+slugEN: 2024-01-25-new-google-and-yahoo-requirements-for-bulk-email-senders
 locale: es
 legacySlug: nuevos-requisitos-de-google-y-yahoo-para-los-remitentes-de-emails-en-masa
 announcementImageID: ''

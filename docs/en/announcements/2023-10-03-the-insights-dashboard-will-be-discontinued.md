@@ -8,7 +8,7 @@ publishedAt: 2023-10-04T15:06:15.480Z
 contentType: updates
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slugEN: the-insights-dashboard-will-be-discontinued
+slugEN: 2023-10-03-the-insights-dashboard-will-be-discontinued
 locale: en
 legacySlug: the-insights-dashboard-will-be-discontinued
 announcementImageID: ''

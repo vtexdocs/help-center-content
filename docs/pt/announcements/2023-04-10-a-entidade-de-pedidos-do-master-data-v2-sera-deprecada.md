@@ -8,7 +8,7 @@ publishedAt: 2023-04-11T12:53:40.163Z
 contentType: updates
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
-slugEN: master-data-v2-order-entity-will-be-deprecated
+slugEN: 2023-04-10-master-data-v2-order-entity-will-be-deprecated
 locale: pt
 legacySlug: a-entidade-de-pedidos-do-master-data-v2-sera-deprecada
 announcementImageID: ''

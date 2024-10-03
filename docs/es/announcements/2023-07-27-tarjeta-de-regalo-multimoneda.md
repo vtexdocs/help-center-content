@@ -8,7 +8,7 @@ publishedAt: 2023-07-27T16:13:02.651Z
 contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slugEN: multi-currency-gift-card
+slugEN: 2023-07-27-multi-currency-gift-card
 locale: es
 legacySlug: tarjeta-de-regalo-multimoneda
 announcementImageID: ''

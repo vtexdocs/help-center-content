@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:32.347Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_24
-slugEN: my-orders-is-now-available-on-extension-store
+slugEN: 2018-02-15-my-orders-is-now-available-on-extension-store
 locale: pt
 legacySlug: my-orders-ja-esta-disponivel-na-extension-store
 announcementImageID: ''

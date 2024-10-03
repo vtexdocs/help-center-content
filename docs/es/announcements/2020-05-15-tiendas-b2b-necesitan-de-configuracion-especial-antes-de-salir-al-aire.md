@@ -8,7 +8,7 @@ publishedAt: 2020-05-20T15:44:44.161Z
 contentType: updates
 productTeam: Reliability
 author: 127RQ7SUoFfyTh5gbXUpdM
-slugEN: b2b-stores-need-special-configuration-before-going-live
+slugEN: 2020-05-15-b2b-stores-need-special-configuration-before-going-live
 locale: es
 legacySlug: tiendas-b2b-necesitan-de-configuracion-especial-antes-de-salir-al-aire
 announcementImageID: ''

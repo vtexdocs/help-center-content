@@ -8,7 +8,7 @@ publishedAt: 2024-05-03T14:59:47.895Z
 contentType: updates
 productTeam: Financial
 author: 5kCzbURAoPwM0YJGmMCLyD
-slugEN: pix-get-ready-to-offer-this-new-payment-method-on-your-e-commerce
+slugEN: 2020-10-28-pix-get-ready-to-offer-this-new-payment-method-on-your-e-commerce
 locale: es
 legacySlug: pix-preparate-para-el-nuevo-medio-de-pago-para-tu-e-commerce
 announcementImageID: ''

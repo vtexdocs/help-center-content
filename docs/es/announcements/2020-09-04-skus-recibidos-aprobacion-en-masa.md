@@ -8,7 +8,7 @@ publishedAt: 2021-03-26T15:49:22.429Z
 contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: received-skus-bulk-approval
+slugEN: 2020-09-04-received-skus-bulk-approval
 locale: es
 legacySlug: skus-recibidos-aprobacion-en-masa
 announcementImageID: ''

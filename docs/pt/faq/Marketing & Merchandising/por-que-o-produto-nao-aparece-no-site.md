@@ -3,8 +3,8 @@ title: 'Por que o produto não aparece no site?'
 id: frequentlyAskedQuestions_382
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:11.456Z
-updatedAt: 2022-09-12T15:00:59.250Z
-publishedAt: 2022-09-12T15:00:59.250Z
+updatedAt: 2024-09-30T14:42:39.397Z
+publishedAt: 2024-09-30T14:42:39.397Z
 firstPublishedAt: 2017-04-27T23:01:46.278Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
@@ -14,25 +14,29 @@ locale: pt
 legacySlug: por-que-o-produto-nao-aparece-no-site
 ---
 
-Para um produto aparecer como disponível na loja, é preciso garantir as seguintes configurações:
+Para que um produto apareça na vitrine da loja, ele precisa estar disponível para vendas, o que ocorre quando as seguintes configurações são feitas corretamente:
 
-* O produto e seus respectivos [SKUs](https://help.vtex.com/pt/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) precisam estar cadastrados no **Catálogo** de forma completa e correta, como explicado no tutorial [Cadastrar Produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL).
-* O produto precisa ter [preços](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) cadastrados.
-* O produto precisa estar contemplado na logística configurada para a loja. Isso significa que todas as configurações de [estoque](https://help.vtex.com/pt/tutorial/visao-geral-logistics), [doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj), [transportadora](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE), [peso, dimensões](https://help.vtex.com/pt/tutorial/como-o-peso-cubado-e-calculado--tutorials_128), entre outras, precisam atender ao produto em questão.
-* Os templates do [CMS](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) da sua loja precisam estar configurados de forma correta para que os produtos apareçam no site.
+* O [produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) e seus [SKUs](https://help.vtex.com/pt/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) estão cadastrados no Catálogo.
+* O produto tem [preço](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu).
+* As configurações de [logística](#logistica) possibilitam o envio do produto para o cliente. Estas configurações incluem [estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), [doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj), [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140), entre outras.
+* Com relação ao [inventário](https://help.vtex.com/pt/tutorial/gerenciar-inventario--tutorials_139), o produto se enquadra em uma das seguintes situações:
+    * Existe contagem do produto disponível para vendas (itens [reservados](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92) não contam como disponíveis).
+    * O estoque infinito está configurado para o produto.
+    * A opção para exibir o produto quando esgotado está habilitada.
+* Os templates de *[Content Management System (CMS)](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC)* da loja estão configurados.
 
-Quando um produto não aparece na loja ou aparece como indisponível, é necessário ajustar uma ou mais dessas configurações.
+Quando um produto não aparece na vitrine, é necessário ajustar uma ou mais destas configurações. 
 
-Este artigo explica os principais meios de investigar no Admin VTEX o que deve ser corrigido nas configurações do produto:
+O artigo atual explica como investigar erros de indisponibilidade do produto na vitrine e como resolvê-los. As seções foram divididas da seguinte forma:
 
-- [Catálogo](#catalogo)
-- [Preços](#precos)
-- [Logística](#logistica)
-- [CMS](#cms)
+* [Catálogo](#catalogo)
+* [Preços](#precos)
+* [Logística](#logistica)
+* [CMS](#cms)
 
->ℹ️ Após ajustar qualquer informação de produtos e SKUs ou alterar configurações de Logística, aguarde a indexação do produto. Você pode verificar o status da indexação a partir da [fila de indexação](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao) em **Catálogo > Relatórios > Indexação de produtos**.
->
-> Quando a indexação for concluída, tente acessar a página do produto por uma aba anônima no seu navegador, para visualizar a página na sua versão mais atualizada, evitando problemas com cache.
+>⚠️ Após ajustar as informações de produto e SKU, ou alterar configurações de logística, é necessário aguardar a indexação do produto. Você pode acompanhar o status por meio da [fila de indexação](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao) do Admin VTEX, em **Catálogo > Relatórios > Produtos indexados**. Após a conclusão da indexação, recomendamos acessar a página do produto no site da loja usando uma aba anônima do navegador, para visualizar a versão atualizada e sem cache.
+
+Existem situações nas quais o produto aparece na vitrine, mas se torna indisponível quando adicionado ao carrinho. Diversas configurações da sua logística podem estar envolvidas, saiba mais no artigo [Quais configurações logísticas impactam na disponibilidade do produto no carrinho?](https://help.vtex.com/pt/tutorial/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho--NAyBFToRdvlDyOzeeAeNw).
 
 ## Catálogo
 
@@ -162,46 +166,34 @@ Também é possível criar preços base por planilha ou pela Pricing API. Para m
 
 ## Logística
 
-Para verificar se as configurações de logística contemplam o seu produto, recomendamos testar as configurações no **Simulador de envio** e verificar a quantidade de itens em estoque na página **Gerenciar inventário**.
+Diferentes aspectos da [logística](https://help.vtex.com/pt/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) podem estar envolvidos na indisponibilidade do produto na vitrine. O produto pode estar indisponível porque a [estratégia de envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) da loja não permite a entrega para a localidade do cliente, ou porque não existe quantidade suficiente do produto para vendas no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-inventario--tutorials_139).
+
+>ℹ️ Caso o produto apareça como disponível na vitrine, mas se torne indisponível ao ser adicionado no carrinho, veja o artigo [Quais configurações logísticas impactam na disponibilidade do produto no carrinho?](https://help.vtex.com/pt/tutorial/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho--NAyBFToRdvlDyOzeeAeNw).
 
 ### Simulador de envio
 
-O **Simulador de envio** serve para verificar se o item existe em estoque e se sua entrega para determinado endereço é possível a partir de todas as configurações de logística atuais. Se pelo menos um dos critérios não for atendido, o simulador interpreta que o item está indisponível. Siga os passos descritos abaixo para utilizá-lo:
+Uma forma de testar a existência de uma rota de entrega viável, validar configurações logísticas da loja e conferir o inventário é usando o **Simulador de envio**. 
 
-1. Acesse **Pedidos > Estoque & entrega > Simulador de envio**.
-2. Preencha as informações necessárias, descritas em [Simulador de envio](https://help.vtex.com/pt/tutorial/simulacao-de-frete).
-3. Clique em `Simular frete`.
+Para realizar a simulação do envio de um item para uma localidade, acesse o Admin VTEX em **Envio > Simulador de envio**. Você encontra o passo a passo completo no artigo [Simulador de envio](https://help.vtex.com/pt/tutorial/simulador-de-envio--tutorials_144).
 
-![13-simular-frete-pt](//images.ctfassets.net/alneenqid6w5/rJE0n5ZijrAerIWzzf2Gy/4acf4052c5e41e259ef8374afae39472/13-simular-frete-pt.png)
+>⚠️ Ao investigar a disponibilidade de um item pelo **Simulador de envio**, recomendamos que o endereço utilizado seja atendido por todas as suas [políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). Se o item não estiver disponível para esta localidade, então não estará para nenhuma outra.
 
->ℹ️ Para investigar um item específico, você deve realizar essa simulação com um **Código postal** atendido por todas as [Políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) cadastradas, pois saberá que, se o item não estiver disponível para esse CEP, não estará disponível para nenhum outro.
+Quando as configurações de logística relacionadas à [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140), [estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) foram feitas corretamente e a política de envio atende a localidade do cliente, o item pode não aparecer na vitrine devido ao seu inventário, como será visto a seguir.
 
-O resultado obtido indica se o produto está disponível ou não para entrega no endereço informado e quais são as melhores opções de frete. Exemplo: caso não existam itens suficientes disponíveis em estoque, o simulador apresenta a seguinte mensagem:
+### Inventário
 
-![14-simulador-motivos-pt](//images.ctfassets.net/alneenqid6w5/4oVBH9r7Vs3jDWZF2MUqdO/36096b0e89ac6a6aa7236200be70fb59/14-simulador-motivos-pt.png)
+Ao adotar qualquer uma das estratégias a seguir, você mantém a disponibilidade do produto na vitrine com relação ao inventário:
 
-Para mais informações sobre como utilizar o simulador, leia o tutorial [Simulador de envio](https://help.vtex.com/pt/tutorial/simulacao-de-frete).
+* Garantir a contagem suficiente de itens para vendas (itens [reservados](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92) não são considerados disponíveis).
+    * No Admin VTEX, acesse **Catálogo > Inventário > Gerenciamento de inventário**, altere o valor na coluna *Atualizar contagem* na linha referente ao produto e clique em `Salvar`.
+* Habilitar a configuração [estoque infinito](https://help.vtex.com/pt/tutorial/gerenciar-inventario--tutorials_139) para o produto. 
+    * No Admin VTEX, acesse **Catálogo > Inventário > Gerenciamento de inventário**, habilite o toggle da coluna *Estoque infinito* na linha referente ao produto e clique em `Salvar`. 
+* Configurar o produto para aparecer na vitrine quando esgotado. 
+    * No Admin VTEX, acesse **Catálogo > Todos os produtos** e na página de configuração do produto, aba *Produto*, marque a opção `Sim` do campo `Mostrar produto esgotado`.
 
-### Gerenciar inventário
+Se o [estoque futuro](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) estiver configurado para o SKU, o abastecimento desse item pode levar um tempo a mais que o previsto e, nesse período, a indisponibilidade do produto na vitrine poderia ser devido ao inventário.
 
-Caso um produto não esteja disponível no site por falta de itens em estoque, você precisa ajustar essa informação no módulo** Estoque & entrega**. Para isso, siga os passos abaixo:
-
-1. No Admin VTEX, acesse **Pedidos > Estoque & entrega > Gerenciar inventário**.
-
-    Nesta página, você pode visualizar os SKUs cadastrados no **Catálogo **e sua respectiva quantidade em estoque.
-
-2. Encontre o SKU desejado e verifique a sua quantidade em estoque na coluna **Disponível**.
-
-    Se for _1_ ou mais, o item está disponível.
-
-    Se for _0_ ou um valor negativo, você precisa ajustar essa informação.
-
-3. Para atualizar a contagem de estoque, escreva a quantidade atual na coluna **Atualizar contagem** na linha do SKU desejado, conforme ilustrado a seguir.
-4. Clique em `Salvar`.
-
-![15-gerenciar-inventario-pt](//images.ctfassets.net/alneenqid6w5/7gcnOqUFhzOrvf0EPJTTeM/3f5d9cfcb6029899be80ba3b2a1d3c7e/15-gerenciar-inventario-pt.gif)
-
-Para mais informações, leia o tutorial [Gerenciar inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+>⚠️ Caso a sua loja tenha [contas franquia](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), para que o inventário dessas contas esteja disponível para vendas, os produtos precisam estar vinculados à mesma [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) usada na sua vitrine.
 
 ## CMS
 
@@ -256,6 +248,7 @@ Nos arquivos do [tema da sua loja](https://developers.vtex.com/vtex-developer-do
 ## Saiba mais
 
 * [Por que o produto não aparece no site? Como analisar: passo a passo e indexed info - VTEX Community](https://community.vtex.com/t/por-que-o-produto-nao-aparece-no-site-como-analisar-passo-a-passo-e-indexed-info/26610)
+* [Quais configurações logísticas impactam na disponibilidade do produto no carrinho?](https://help.vtex.com/pt/tutorial/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho--NAyBFToRdvlDyOzeeAeNw)
 * [Catálogo - Definição de conceito](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ)
 * [Como funciona a indexação](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao)
 * [Módulo de Preços - Visão Geral](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)

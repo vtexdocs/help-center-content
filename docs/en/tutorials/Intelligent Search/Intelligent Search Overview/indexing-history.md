@@ -31,7 +31,7 @@ The **Indexing status** section displays the following information:
 
 You can filter the list of indexed products for a custom view. It is important to note that the average indexing time and status breakdown will be recalculated from the products filtered. 
 
-To filter the list of indexed products, click on `Filter` <img src="https://images.ctfassets.net/alneenqid6w5/7fFqJC2W7BQXSHlocRAqOM/dc6cf099d6add3b55d0353024dcc3ca8/Screenshot_2022-09-01_at_13-46-21_EDU-7374_-_Documenta____o_nova_tela_de_indexa____o.png" alt="filtros" width="25"/>. Select `Status` or `Indexing time` to set the filtering criteria. 
+To filter the list of indexed products, click on `Filter` <img src="//images.ctfassets.net/alneenqid6w5/7fFqJC2W7BQXSHlocRAqOM/dc6cf099d6add3b55d0353024dcc3ca8/Screenshot_2022-09-01_at_13-46-21_EDU-7374_-_Documenta____o_nova_tela_de_indexa____o.png" alt="filtros" width="25"/>. Select `Status` or `Indexing time` to set the filtering criteria. 
 
 ![Historico indexação 3 - PT](//images.ctfassets.net/alneenqid6w5/4lDygmJ2FzZsQF60nVb4fj/09caff4ffeaa1012d0827b8748a52a58/Captura_de_Tela_2022-09-01_a__s_13.12.32.png)
 

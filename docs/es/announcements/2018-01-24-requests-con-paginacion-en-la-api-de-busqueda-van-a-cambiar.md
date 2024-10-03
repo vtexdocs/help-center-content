@@ -8,7 +8,7 @@ publishedAt: 2023-12-15T13:03:53.872Z
 contentType: updates
 productTeam: Identity
 author: authors_24
-slugEN: requests-with-pagination-will-change-in-the-search-api
+slugEN: 2018-01-24-requests-with-pagination-will-change-in-the-search-api
 locale: es
 legacySlug: requests-con-paginacion-en-la-api-de-busqueda-van-a-cambiar
 announcementImageID: ''

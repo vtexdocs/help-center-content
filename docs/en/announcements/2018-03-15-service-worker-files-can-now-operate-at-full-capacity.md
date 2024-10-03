@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:49.926Z
 contentType: updates
 productTeam: Others
 author: authors_24
-slugEN: service-worker-files-can-now-operate-at-full-capacity
+slugEN: 2018-03-15-service-worker-files-can-now-operate-at-full-capacity
 locale: en
 legacySlug: service-worker-files-can-now-operate-at-full-capacity
 announcementImageID: ''

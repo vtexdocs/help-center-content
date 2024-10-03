@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:09.159Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_24
-slugEN: we-released-the-new-order-placed
+slugEN: 2017-10-26-we-released-the-new-order-placed
 locale: pt
 legacySlug: lancamos-o-novo-order-placed
 announcementImageID: ''

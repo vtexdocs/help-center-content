@@ -1,10 +1,10 @@
 ---
 title: 'Setting up payments with Ebanx-Local'
 id: 6vVYppbwct3B4j8KuCAvUR
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-03-22T17:09:50.665Z
-updatedAt: 2024-01-23T18:06:33.564Z
-publishedAt: 2024-01-23T18:06:33.564Z
+updatedAt: 2024-10-03T15:16:21.093Z
+publishedAt: 
 firstPublishedAt: 2023-03-22T17:34:38.586Z
 contentType: tutorial
 productTeam: Financial

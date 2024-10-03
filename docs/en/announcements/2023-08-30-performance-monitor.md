@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: unknown
 author: 
-slugEN: performance-monitor
+slugEN: 2023-08-30-performance-monitor
 locale: en
 legacySlug: performance-monitor
 announcementImageID: ''

@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pago con PaymentezV2'
 id: 6MQiFTLnSaQoCswRUN1SVe
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2024-03-14T12:48:31.013Z
-updatedAt: 2024-03-14T13:10:44.458Z
-publishedAt: 2024-03-14T13:10:44.458Z
+updatedAt: 2024-10-03T16:08:43.031Z
+publishedAt: 
 firstPublishedAt: 2024-03-14T13:10:44.458Z
 contentType: tutorial
 productTeam: Financial

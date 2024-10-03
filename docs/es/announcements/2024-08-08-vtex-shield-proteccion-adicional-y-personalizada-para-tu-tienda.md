@@ -8,7 +8,7 @@ publishedAt: 2024-08-08T14:02:23.915Z
 contentType: updates
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: vtex-shield-additional-and-customized-protection-for-your-store
+slugEN: 2024-08-08-vtex-shield-additional-and-customized-protection-for-your-store
 locale: es
 legacySlug: vtex-shield-proteccion-adicional-y-personalizada-para-tu-tienda
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2023-05-25T15:28:11.643Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: optimized-indexing-increased-efficiency-for-omnichannel-operations
+slugEN: 2023-05-10-optimized-indexing-increased-efficiency-for-omnichannel-operations
 locale: en
 legacySlug: optimized-indexing-increased-efficiency-for-omnichannel-operations
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2023-12-21T18:13:37.674Z
 contentType: updates
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: custom-selection-of-sellers-for-b2b-purchases
+slugEN: 2023-12-21-custom-selection-of-sellers-for-b2b-purchases
 locale: es
 legacySlug: seleccion-personalizada-de-sellers-para-compras-b2b
 announcementImageID: ''

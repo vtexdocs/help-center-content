@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pago con Guatapay'
 id: 57ilA6k1VKZjy0dgwSs7pu
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-09-18T15:35:35.188Z
-updatedAt: 2024-01-25T17:04:24.009Z
-publishedAt: 2024-01-25T17:04:24.009Z
+updatedAt: 2024-10-03T15:18:19.508Z
+publishedAt: 
 firstPublishedAt: 2023-09-18T16:33:40.921Z
 contentType: tutorial
 productTeam: Financial

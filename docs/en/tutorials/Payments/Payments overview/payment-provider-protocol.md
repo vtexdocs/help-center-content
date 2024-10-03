@@ -3,8 +3,8 @@ title: 'Payment Provider Protocol '
 id: RdsT2spdq80MMwwOeEq0m
 status: PUBLISHED
 createdAt: 2018-01-02T15:40:00.920Z
-updatedAt: 2024-07-24T13:58:10.009Z
-publishedAt: 2024-07-24T13:58:10.009Z
+updatedAt: 2024-09-27T19:03:03.280Z
+publishedAt: 2024-09-27T19:03:03.280Z
 firstPublishedAt: 2018-01-02T17:53:48.934Z
 contentType: tutorial
 productTeam: Financial
@@ -167,6 +167,8 @@ It all starts with requesting a new payment after the creation of a new order. V
 ![fluxo-atualizado-ppp](//images.ctfassets.net/alneenqid6w5/7lQZhSFEff1iaN7t2UVVNE/2890bc7073210c268d7d429d0162c9b7/FLUXO1.png)
 
 >ℹ️ The default period of 7 days for asynchronous payment retries is only applied when the user does not specify a value in the `delayToCancel` field of the [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments) endpoint or when sending the callbackURL.
+
+>⚠️ The maximum value allowed for the `delayToCancel` field is 30 days (2592000 seconds).  
 
 ### Payment Authorization
 

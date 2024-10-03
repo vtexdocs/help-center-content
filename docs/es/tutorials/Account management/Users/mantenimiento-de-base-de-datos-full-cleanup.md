@@ -3,8 +3,8 @@ title: 'Mantenimiento de Base de Datos (Full Cleanup)'
 id: 34P9LGs7BCIQK6acQom802
 status: PUBLISHED
 createdAt: 2018-02-07T14:32:22.879Z
-updatedAt: 2023-08-02T16:15:41.168Z
-publishedAt: 2023-08-02T16:15:41.168Z
+updatedAt: 2024-09-30T15:15:49.788Z
+publishedAt: 2024-09-30T15:15:49.788Z
 firstPublishedAt: 2018-02-07T16:44:48.971Z
 contentType: tutorial
 productTeam: Others
@@ -30,9 +30,12 @@ Estas son las operaciones disponibles:
 -  __Eliminar Productos del Indexador:__ al eliminar productos del indexador, ya no habrá productos que visualizar en su tienda.
 
   >⚠️ Las siguientes reglas se aplican al botón **Eliminar productos del indexador**:
->   <UL> <LI>Solamente las tiendas que tengan menos de 10 mil productos pueden realizar esta acción. Las tiendas que tengan un catálogo mayor deben [abrir un ticket con el equipo de soporte VTEX](https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) para realizar la limpieza del indexador y la reindexación de la base de datos.</LI>
->    <LI>Cuando un usuario elimina productos del indexador, se bloquea la cuenta para que no se pueda realizar esta acción por 24 horas.</LI>
->    <LI>Hay una fila para procesar las solicitudes generadas por el botón <i>Eliminar productos del indexador</i>. Puede ver el tiempo de espera aproximado en la interfaz de la página. La fila es global y se aplica a todos los usuarios para garantizar la seguridad de la plataforma VTEX.</LI></UL>
+>
+> * Solamente las tiendas que tengan menos de 10 mil productos pueden realizar esta acción. Las tiendas que tengan un catálogo mayor deben [abrir un ticket con el equipo de soporte VTEX](https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) para realizar la limpieza del indexador y la reindexación de la base de datos.
+>
+> * Cuando un usuario elimina productos del indexador, se bloquea la cuenta para que no se pueda realizar esta acción por 24 horas.
+>
+> * Hay una fila para procesar las solicitudes generadas por el botón <i>Eliminar productos del indexador</i>. Después de hacer clic en el botón, el tiempo de espera estimado aparece en un registro en la parte inferior de la página. La fila es global y se aplica a todos los usuarios para garantizar la seguridad de la plataforma VTEX.
 
 - __Eliminar Productos/SKU e ítems relacionados:__ al borrar productos y SKU, además de sus ítems relacionados, se eliminarán de forma definitiva de su tienda.
 
@@ -42,4 +45,4 @@ Estas son las operaciones disponibles:
 
 - __Programar reindexación completa:__ al reindexar la base, usted entra en una fila para iniciar el proceso de indexación de sus productos. __Los productos de la tienda continúan disponibles para la venta durante el proceso de indexación__. Estos apenas entran en una fila para la actualización de datos y siguen disponibles en el sitio web para su venta. Atención: después de hacer clic en __Reindexar base__, el proceso se inicia automáticamente.
 
->⚠️ Es importante **Borrar productos del indexador** después de realizar cualquier otra operación en esta página. De lo contrario, su tienda puede experimentar errores al acceder a las páginas de productos, categorías o resultados de búsqueda. No es necesario **Borrar productos del indexador** después de **Programar reindexación completa**.
+>⚠️ Es importante **Borrar productos del indexador** después de realizar cualquier otra operación en esta página, excepto después de **Programar reindexación completa**. De lo contrario, su tienda puede experimentar errores al acceder a las páginas de productos, categorías o resultados de búsqueda.

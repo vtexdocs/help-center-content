@@ -8,7 +8,7 @@ publishedAt: 2020-09-16T13:49:49.376Z
 contentType: updates
 productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
-slugEN: new-object-returned-to-api-get-order-cancelreason
+slugEN: 2019-04-10-new-object-returned-to-api-get-order-cancelreason
 locale: en
 legacySlug: new-object-returned-to-api-get-order-cancelreason
 announcementImageID: ''

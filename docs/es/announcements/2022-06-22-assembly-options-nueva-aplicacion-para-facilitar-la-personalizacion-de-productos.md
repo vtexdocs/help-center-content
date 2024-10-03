@@ -8,7 +8,7 @@ publishedAt: 2022-06-22T22:22:35.106Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: assembly-options-new-app-to-simplify-product-customization
+slugEN: 2022-06-22-assembly-options-new-app-to-simplify-product-customization
 locale: es
 legacySlug: assembly-options-nueva-aplicacion-para-facilitar-la-personalizacion-de
 announcementImageID: ''

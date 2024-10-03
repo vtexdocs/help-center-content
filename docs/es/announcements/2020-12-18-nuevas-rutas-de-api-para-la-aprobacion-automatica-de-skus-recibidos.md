@@ -8,7 +8,7 @@ publishedAt: 2020-12-18T22:15:29.469Z
 contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: new-api-routes-for-automatic-approval-of-received-skus
+slugEN: 2020-12-18-new-api-routes-for-automatic-approval-of-received-skus
 locale: es
 legacySlug: nuevas-rutas-de-api-para-la-aprobacion-automatica-de-skus-recibidos
 announcementImageID: ''

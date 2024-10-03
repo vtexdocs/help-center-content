@@ -8,7 +8,7 @@ publishedAt: 2021-03-22T20:31:47.345Z
 contentType: updates
 productTeam: Others
 author: 5DnIDwto7E6PRpdH1Kpdyu
-slugEN: you-can-now-restrict-user-access-to-the-settings-screen-on-the-orders
+slugEN: 2019-06-07-you-can-now-restrict-user-access-to-the-settings-screen-on-the-orders
 locale: es
 legacySlug: ahora-es-posible-restringir-el-acceso-de-los-usuarios-en-la-en-la-pantalla
 announcementImageID: ''

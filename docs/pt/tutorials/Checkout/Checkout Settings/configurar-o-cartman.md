@@ -42,7 +42,7 @@ Para ativar o Cartman manualmente, siga os passos abaixo:
 
 1. Acesse uma página de Checkout da sua loja (`https://{accountname}.myvtex.com/checkout/`).
 2. Insira a query string `?cartman=on` no final da URL (`https://accountname.myvtex.com/checkout?cartman=on`).
-3. No canto inferior direito da tela, clique no botão <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> para acessar o Cartman.
+3. No canto inferior direito da tela, clique no botão <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> para acessar o Cartman.
 
 ## Funções do Cartman
 
@@ -101,7 +101,7 @@ Para saber mais sobre UTMs e UTMIs , acesse [O que são utm_source, utm_campaign
 O Cartman pode ser desativado a qualquer momento, conforme a necessidade do lojista. Para desativá-lo, siga os passos abaixo:
 
 1. Acesse uma página de Checkout da sua loja (`https://{accountname}.myvtex.com/checkout/`).
-2. No canto inferior direito da tela, clique no botão <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
+2. No canto inferior direito da tela, clique no botão <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
 3. Na parte inferior do menu do Cartman, clique em `Desativar o Cartman`.
 
 >ℹ️ Caso deseje reativar o **Cartman**, adicione novamente a query string `?cartman=on` em uma das páginas do Checkout de sua loja. Desta forma, o ícone azul estará novamente disponível no canto inferior direito da página.

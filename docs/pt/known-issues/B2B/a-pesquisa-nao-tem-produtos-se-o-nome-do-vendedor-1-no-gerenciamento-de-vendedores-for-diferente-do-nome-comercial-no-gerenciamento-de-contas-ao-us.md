@@ -3,8 +3,8 @@ title: 'A pesquisa não tem produtos se o nome do vendedor 1 no Gerenciamento de
 id: 7a3bwqRmeSClHMoFmyIY2a
 status: PUBLISHED
 createdAt: 2023-12-01T20:06:13.492Z
-updatedAt: 2023-12-01T20:15:07.659Z
-publishedAt: 2023-12-01T20:15:07.659Z
+updatedAt: 2024-09-25T13:37:16.037Z
+publishedAt: 2024-09-25T13:37:16.037Z
 firstPublishedAt: 2023-12-01T20:06:14.083Z
 contentType: knownIssue
 productTeam: B2B
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slugEN: search-has-no-products-if-seller-1-name-in-the-seller-management-differs-from-trading-name-in-account-management-when-using-b2b-suite
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 946391
 ---
 
@@ -34,6 +34,7 @@ As organizações B2B usam os nomes dos vendedores do Gerenciamento de vendedore
 ## Workaround
 
 
+**Esse problema foi corrigido na versão** `vtex.b2b-organizations@1.35.0`**, lançada em 10 de setembro. Todos os vendedores associados após o lançamento estarão corretos, mas as associações anteriores ainda devem aplicar a solução alternativa.
 
 - Acesse o GraphQL IDE e selecione vtex.b2b-organizations-graphql;
 - Use a consulta abaixo para obter todos os detalhes da organização:

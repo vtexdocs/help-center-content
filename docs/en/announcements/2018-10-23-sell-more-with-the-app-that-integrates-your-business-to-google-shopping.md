@@ -8,7 +8,7 @@ publishedAt: 2020-08-17T22:24:25.104Z
 contentType: updates
 productTeam: Shopping
 author: authors_24
-slugEN: sell-more-with-the-app-that-integrates-your-business-to-google-shopping
+slugEN: 2018-10-23-sell-more-with-the-app-that-integrates-your-business-to-google-shopping
 locale: en
 legacySlug: sell-more-with-the-app-that-integrates-your-business-to-google-shopping
 announcementImageID: ''

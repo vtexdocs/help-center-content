@@ -8,7 +8,7 @@ publishedAt: 2023-12-18T15:49:17.763Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slugEN: amazon-new-category-mapping-model
+slugEN: 2023-11-27-amazon-new-category-mapping-model
 locale: es
 legacySlug: amazon-nuevo-modelo-de-mapeo-de-categorias
 announcementImageID: ''

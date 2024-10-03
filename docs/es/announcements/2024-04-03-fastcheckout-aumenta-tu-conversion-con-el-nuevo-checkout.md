@@ -8,7 +8,7 @@ publishedAt: 2024-04-23T10:00:03.018Z
 contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: fastcheckout-boost-your-conversion-with-the-new-checkout
+slugEN: 2024-04-03-fastcheckout-boost-your-conversion-with-the-new-checkout
 locale: es
 legacySlug: fastcheckout-aumenta-tu-conversion-con-el-nuevo-checkout
 announcementImageID: ''

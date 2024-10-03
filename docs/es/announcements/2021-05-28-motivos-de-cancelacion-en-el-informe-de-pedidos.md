@@ -8,7 +8,7 @@ publishedAt: 2022-08-29T23:27:11.506Z
 contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: reasons-for-cancellation-in-order-reports
+slugEN: 2021-05-28-reasons-for-cancellation-in-order-reports
 locale: es
 legacySlug: motivos-de-cancelacion-en-el-informe-de-pedidos
 announcementImageID: ''

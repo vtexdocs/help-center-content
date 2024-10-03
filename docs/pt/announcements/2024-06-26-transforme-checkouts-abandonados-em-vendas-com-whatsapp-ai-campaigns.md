@@ -8,7 +8,7 @@ publishedAt: 2024-06-26T11:27:29.365Z
 contentType: updates
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: convert-abandoned-checkouts-into-sales-with-whatsapp-ai-campaigns
+slugEN: 2024-06-26-convert-abandoned-checkouts-into-sales-with-whatsapp-ai-campaigns
 locale: pt
 legacySlug: transforme-checkouts-abandonados-em-vendas-com-whatsapp-ai-campaigns
 announcementImageID: ''

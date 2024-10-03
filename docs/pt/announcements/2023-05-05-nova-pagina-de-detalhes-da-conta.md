@@ -8,7 +8,7 @@ publishedAt: 2023-05-25T12:58:47.710Z
 contentType: updates
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slugEN: new-account-details-page
+slugEN: 2023-05-05-new-account-details-page
 locale: pt
 legacySlug: nova-pagina-de-detalhes-da-conta
 announcementImageID: ''

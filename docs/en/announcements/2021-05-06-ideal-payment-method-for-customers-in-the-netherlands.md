@@ -8,7 +8,7 @@ publishedAt: 2021-05-10T13:49:51.741Z
 contentType: updates
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slugEN: ideal-payment-method-for-customers-in-the-netherlands
+slugEN: 2021-05-06-ideal-payment-method-for-customers-in-the-netherlands
 locale: en
 legacySlug: ideal-payment-method-for-customers-in-the-netherlands
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2021-06-28T18:32:07.650Z
 contentType: updates
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slugEN: lendico-installment-loans-expand-your-payment-options
+slugEN: 2021-01-06-lendico-installment-loans-expand-your-payment-options
 locale: es
 legacySlug: boleto-en-plazos-lendico-la-novedad-que-expandira-sus-opciones-de-pago
 announcementImageID: ''

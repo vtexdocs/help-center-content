@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:09.802Z
 contentType: updates
 productTeam: Others
 author: authors_24
-slugEN: the-best-practices-guide-for-black-friday-2017-has-been-published
+slugEN: 2017-11-09-the-best-practices-guide-for-black-friday-2017-has-been-published
 locale: en
 legacySlug: the-best-practices-guide-for-black-friday-2017-has-been-published
 announcementImageID: ''

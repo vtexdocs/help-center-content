@@ -8,7 +8,7 @@ publishedAt: 2020-04-16T00:19:33.201Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_31
-slugEN: urgente-migracao-do-sistema-de-pedidos-para-manter-sua-operacao-funcionando
+slugEN: 2019-07-30-urgente-migracao-do-sistema-de-pedidos-para-manter-sua-operacao-funcionando
 locale: en
 legacySlug: urgente-migracao-do-sistema-de-pedidos-para-manter-sua-operacao-funcionando
 announcementImageID: ''

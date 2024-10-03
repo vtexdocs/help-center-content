@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:28.374Z
 contentType: updates
 productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
-slugEN:  Get-Order-Json-now-delivers-new-variables-in-order-calculations
+slugEN: 2019-03-20- Get-Order-Json-now-delivers-new-variables-in-order-calculations
 locale: pt
 legacySlug: json-do-get-order-entrega-agora-novas-variaveis-de-calculos-do-pedido
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Post-purchase
 author: authors_41
-slugEN: new-working-hours-setup-is-now-available-for-carriers
+slugEN: 2019-02-18-new-working-hours-setup-is-now-available-for-carriers
 locale: es
 legacySlug: nuevo-horario-de-funcionamiento-en-las-transportadoras
 announcementImageID: ''

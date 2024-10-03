@@ -8,7 +8,7 @@ publishedAt: 2024-01-04T15:05:24.804Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
-slugEN: weve-released-our-new-cross-selling-and-up-selling-apis
+slugEN: 2017-12-04-weve-released-our-new-cross-selling-and-up-selling-apis
 locale: es
 legacySlug: lanzamos-nuestras-nuevas-api-de-cross-selling-y-up-selling
 announcementImageID: ''

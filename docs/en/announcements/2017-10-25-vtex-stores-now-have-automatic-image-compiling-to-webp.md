@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:35.154Z
 contentType: updates
 productTeam: Others
 author: authors_24
-slugEN: vtex-stores-now-have-automatic-image-compiling-to-webp
+slugEN: 2017-10-25-vtex-stores-now-have-automatic-image-compiling-to-webp
 locale: en
 legacySlug: vtex-stores-now-have-automatic-image-compiling-to-webp
 announcementImageID: ''

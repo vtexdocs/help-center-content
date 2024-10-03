@@ -8,7 +8,7 @@ publishedAt: 2023-05-12T16:42:03.697Z
 contentType: updates
 productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
-slugEN: erp-integration-guides-have-a-new-home
+slugEN: 2020-06-03-erp-integration-guides-have-a-new-home
 locale: en
 legacySlug: integration-guide-for-erps-orders, integration-guide-for-erps-express-catalog, integration-guide-for-erps-full-catalog, integration-guide-for-erps-catalog-architecture, integration-interfaces
 announcementImageID: ''

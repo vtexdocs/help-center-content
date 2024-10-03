@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:51.717Z
 contentType: updates
 productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
-slugEN: web-service-methods-will-be-deprecated
+slugEN: 2017-11-03-web-service-methods-will-be-deprecated
 locale: es
 legacySlug: metodos-web-service-se-descontinuan
 announcementImageID: ''

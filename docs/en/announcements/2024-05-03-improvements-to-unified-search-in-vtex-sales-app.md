@@ -8,7 +8,7 @@ publishedAt: 2024-05-06T13:37:06.301Z
 contentType: updates
 productTeam: Shopping
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: improvements-to-unified-search-in-vtex-sales-app
+slugEN: 2024-05-03-improvements-to-unified-search-in-vtex-sales-app
 locale: en
 legacySlug: improvements-to-unified-search-in-vtex-sales-app
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2023-02-28T13:41:42.082Z
 contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: marketplace-new-offer-quality-filters
+slugEN: 2023-02-27-marketplace-new-offer-quality-filters
 locale: en
 legacySlug: marketplace-new-offer-quality-filters
 announcementImageID: ''

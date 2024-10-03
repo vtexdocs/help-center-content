@@ -8,7 +8,7 @@ publishedAt: 2023-06-28T13:00:03.123Z
 contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: google-pay-new-payment-method-available-on-vtex
+slugEN: 2023-06-20-google-pay-new-payment-method-available-on-vtex
 locale: es
 legacySlug: google-pay-nuevo-medio-de-pago-en-la-plataforma-vtex
 announcementImageID: ''

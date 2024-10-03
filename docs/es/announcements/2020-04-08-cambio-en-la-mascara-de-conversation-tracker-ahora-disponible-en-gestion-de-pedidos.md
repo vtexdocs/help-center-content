@@ -8,7 +8,7 @@ publishedAt: 2020-04-10T16:36:23.095Z
 contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: changing-the-conversation-tracker-mask-now-available-in-orders-management
+slugEN: 2020-04-08-changing-the-conversation-tracker-mask-now-available-in-orders-management
 locale: es
 legacySlug: cambio-en-la-mascara-de-conversation-tracker-ahora-disponible-en-gestion-de-pedidos
 announcementImageID: ''

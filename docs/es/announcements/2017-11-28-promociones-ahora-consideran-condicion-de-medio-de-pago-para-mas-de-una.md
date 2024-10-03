@@ -8,7 +8,7 @@ publishedAt: 2020-09-15T21:39:08.410Z
 contentType: updates
 productTeam: Channels
 author: authors_24
-slugEN: benefits-now-consider-condition-of-payment-system-for-more-than-one-trade
+slugEN: 2017-11-28-benefits-now-consider-condition-of-payment-system-for-more-than-one-trade
 locale: es
 legacySlug: promociones-ahora-consideran-condicion-de-medio-de-pago-para-mas-de-una
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2020-04-15T16:41:54.670Z
 contentType: updates
 productTeam: Shopping
 author: authors_24
-slugEN: the-newsletter-opt-in-flag-in-the-checkout-will-now-be-unchecked-by-default
+slugEN: 2020-04-15-the-newsletter-opt-in-flag-in-the-checkout-will-now-be-unchecked-by-default
 locale: es
 legacySlug: el-flag-de-newsletter-del-checkout-ahora-vendra-deseleccionado-por-defecto
 announcementImageID: ''

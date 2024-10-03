@@ -8,7 +8,7 @@ publishedAt: 2020-09-10T14:31:34.207Z
 contentType: updates
 productTeam: Shopping
 author: authors_24
-slugEN: smartcheckout-tm-new-version-already-available-for-all-stores
+slugEN: 2018-01-12-smartcheckout-tm-new-version-already-available-for-all-stores
 locale: es
 legacySlug: nueva-versión-de-smartcheckout-tm-ha-sido-lanzada-para-todas-las-tiendas
 announcementImageID: ''

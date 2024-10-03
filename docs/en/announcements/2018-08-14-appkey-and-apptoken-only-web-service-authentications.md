@@ -8,7 +8,7 @@ publishedAt: 2020-06-12T21:58:07.026Z
 contentType: updates
 productTeam: Reliability
 author: authors_24
-slugEN: appkey-and-apptoken-only-web-service-authentications
+slugEN: 2018-08-14-appkey-and-apptoken-only-web-service-authentications
 locale: en
 legacySlug: appkey-and-apptoken-only-web-service-authentications
 announcementImageID: ''

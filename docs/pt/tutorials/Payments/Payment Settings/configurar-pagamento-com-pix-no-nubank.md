@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagamento com Pix no Nubank'
 id: 2pJBJdtkvyn645rL2sxyJy
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2022-07-19T16:38:08.465Z
-updatedAt: 2024-01-23T19:11:23.258Z
-publishedAt: 2024-01-23T19:11:23.258Z
+updatedAt: 2024-10-03T16:07:49.174Z
+publishedAt: 
 firstPublishedAt: 2022-07-19T16:56:30.888Z
 contentType: tutorial
 productTeam: Financial

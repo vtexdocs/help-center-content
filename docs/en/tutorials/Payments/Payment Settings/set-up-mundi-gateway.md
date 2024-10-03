@@ -1,10 +1,10 @@
 ---
 title: 'Set up Mundi gateway'
 id: 2yn9dKzvZOF5tn4RCX2Nbq
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2019-04-04T21:12:48.808Z
-updatedAt: 2024-01-23T19:02:29.463Z
-publishedAt: 2024-01-23T19:02:29.463Z
+updatedAt: 2024-10-03T15:22:47.590Z
+publishedAt: 
 firstPublishedAt: 2019-04-04T21:20:22.149Z
 contentType: tutorial
 productTeam: Financial

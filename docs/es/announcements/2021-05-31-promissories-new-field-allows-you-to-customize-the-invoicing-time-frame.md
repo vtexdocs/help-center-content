@@ -8,7 +8,7 @@ publishedAt: 2021-06-28T18:32:43.471Z
 contentType: updates
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slugEN: pagares-el-nuevo-campo-de-configuracion-permite-personalizar-el-plazo-de
+slugEN: 2021-05-31-pagares-el-nuevo-campo-de-configuracion-permite-personalizar-el-plazo-de
 locale: es
 legacySlug: promissories-new-field-allows-you-to-customize-the-invoicing-time-frame
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2022-10-20T19:39:59.077Z
 contentType: updates
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slugEN: security-improvements-to-checkout-cookies
+slugEN: 2022-09-19-security-improvements-to-checkout-cookies
 locale: en
 legacySlug: security-improvements-to-checkout-cookies
 announcementImageID: ''

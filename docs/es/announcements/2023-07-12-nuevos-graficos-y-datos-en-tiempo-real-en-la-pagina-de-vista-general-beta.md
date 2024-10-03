@@ -8,7 +8,7 @@ publishedAt: 2023-08-07T15:31:50.283Z
 contentType: updates
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: new-charts-and-real-time-data-in-store-overview-beta-admin-page
+slugEN: 2023-07-12-new-charts-and-real-time-data-in-store-overview-beta-admin-page
 locale: es
 legacySlug: nuevos-graficos-y-datos-en-tiempo-real-en-la-pagina-de-vista-general-beta
 announcementImageID: ''

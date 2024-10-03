@@ -8,7 +8,7 @@ publishedAt: 2020-01-07T22:08:24.665Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: authors_24
-slugEN: on-vtex-png-to-webp-conversion-is-now-lossless
+slugEN: 2018-02-20-on-vtex-png-to-webp-conversion-is-now-lossless
 locale: es
 legacySlug: en-vtex-la-conversion-de-png-a-webp-ahora-es-lossless
 announcementImageID: ''

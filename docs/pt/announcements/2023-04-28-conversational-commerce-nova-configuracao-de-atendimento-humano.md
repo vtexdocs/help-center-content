@@ -8,7 +8,7 @@ publishedAt: 2023-05-03T17:17:40.211Z
 contentType: updates
 productTeam: Shopping
 author: 5l3eEiSz8MpcppCxcnijGz
-slugEN: conversational-commerce-new-live-support-configuration
+slugEN: 2023-04-28-conversational-commerce-new-live-support-configuration
 locale: pt
 legacySlug: conversational-commerce-nova-configuracao-de-atendimento-humano
 announcementImageID: ''

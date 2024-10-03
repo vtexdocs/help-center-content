@@ -8,7 +8,7 @@ publishedAt: 2020-04-09T03:08:06.174Z
 contentType: updates
 productTeam: VTEX IO
 author: 6AcGyun1hSWewU8YcaQiO
-slugEN: vtex-io-documentation-has-a-new-home
+slugEN: 2020-04-08-vtex-io-documentation-has-a-new-home
 locale: pt
 legacySlug: documentacoes-do-vtex-io-tem-uma-nova-casa
 announcementImageID: ''

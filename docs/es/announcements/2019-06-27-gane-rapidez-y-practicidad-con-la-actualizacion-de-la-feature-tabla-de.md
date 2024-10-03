@@ -8,7 +8,7 @@ publishedAt: 2020-02-19T16:20:40.684Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
-slugEN: gain-speed-and-practicality-with-the-updated-price-table-feature
+slugEN: 2019-06-27-gain-speed-and-practicality-with-the-updated-price-table-feature
 locale: es
 legacySlug: gane-rapidez-y-practicidad-con-la-actualizacion-de-la-feature-tabla-de
 announcementImageID: ''

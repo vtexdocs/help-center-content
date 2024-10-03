@@ -8,7 +8,7 @@ publishedAt: 2022-01-11T20:41:00.728Z
 contentType: updates
 productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
-slugEN: intermediary-information-for-sales-on-vtex-marketplaces
+slugEN: 2021-06-10-intermediary-information-for-sales-on-vtex-marketplaces
 locale: en
 legacySlug: intermediary-information-for-sales-on-vtex-marketplaces
 announcementImageID: ''

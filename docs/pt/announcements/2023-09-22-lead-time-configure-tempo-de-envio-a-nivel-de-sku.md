@@ -8,7 +8,7 @@ publishedAt: 2023-09-28T17:47:25.398Z
 contentType: updates
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: lead-time-configuring-shipping-time-at-sku-level
+slugEN: 2023-09-22-lead-time-configuring-shipping-time-at-sku-level
 locale: pt
 legacySlug: lead-time-configure-tempo-de-envio-a-nivel-de-sku
 announcementImageID: ''

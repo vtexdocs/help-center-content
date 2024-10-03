@@ -8,7 +8,7 @@ publishedAt: 2020-07-29T17:43:54.102Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_24
-slugEN: now-you-can-export-up-to-20-thousand-orders-at-the-same-time
+slugEN: 2020-07-24-now-you-can-export-up-to-20-thousand-orders-at-the-same-time
 locale: es
 legacySlug: ahora-es-posible-exportar-hasta-20-mil-pedidos-al-mismo-tiempo
 announcementImageID: ''

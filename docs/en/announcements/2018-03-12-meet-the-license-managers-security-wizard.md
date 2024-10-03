@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:54.946Z
 contentType: updates
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
-slugEN: meet-the-license-managers-security-wizard
+slugEN: 2018-03-12-meet-the-license-managers-security-wizard
 locale: en
 legacySlug: meet-the-license-managers-security-wizard
 announcementImageID: ''

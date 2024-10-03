@@ -8,7 +8,7 @@ publishedAt: 2022-08-01T10:00:49.322Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: new-sku-bindings-interface
+slugEN: 2022-07-26-new-sku-bindings-interface
 locale: es
 legacySlug: nueva-interface-de-vinculos-de-sku
 announcementImageID: ''

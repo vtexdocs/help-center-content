@@ -3,8 +3,8 @@ title: 'Regular Promotion'
 id: tutorials_327
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:59.690Z
-updatedAt: 2024-09-24T15:36:21.958Z
-publishedAt: 2024-09-24T15:36:21.958Z
+updatedAt: 2024-09-30T17:08:36.641Z
+publishedAt: 2024-09-30T17:08:36.641Z
 firstPublishedAt: 2017-04-27T23:03:15.647Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -46,7 +46,8 @@ In this section, you must configure the general information of your promotion. T
   - **Percentage shipping**: Percentage discount to be applied for shipping value. 
   - **Maximum shipping**: Shipping maximum value. 
   - **Free Shipping**: 100% discount on shipping value.
-  - **Gift**: Total discount on the product value set as a gift. You can choose more than one SKU as a gift or more than one unit of an SKU. To set more than one gift, select **Activate gift multiplier** and set the maximum selectable quantity.  For more information, read this [article](https://help.vtex.com/en/tutorial/gift-multiplier-in-promotions--1gydgkmjEWcoo2CskUwuYK#).
+  - **Gift**: total discount applied to the value of the product defined as a gift. The maximum quantity refers to the number of different SKUs the user can select. For example, if there is only 1 SKU available, the user will only be able to select one unit of that SKU, even if the maximum quantity is greater than 1. If there are 8 SKUs available and the maximum quantity is 3, the user can choose up to 3 different SKUs. Even if the allowed maximum quantity is higher than the number of available SKUs, the user can only select one unit of each SKU. The flag [Activate gift multiplier](https://help.vtex.com/en/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK) only works in Buy and Get promotions. In regular promotions, the flag is available for selection but has no effect in the cart.
+
 >ℹ️ The gift also needs to have a nominal price, even if it's given for free to the customer.
   - **Nominal discount based on formula**: the discount is calculated based on the a formula that you can create using the products' total price (`total`), shipping fees (`freight`), and quantity of items (`quantity`) as variables. Note that the shipping value in the formula will be the lowest available for the order, regardless of the customer's selection. The decimal separator symbol must always be the decimal point. For example: if the discount is 30% of the total product value + shipping value, the formula should be `(total + freight) * 0.3`. For more information on the formula, read our [documentation](https://help.vtex.com/en/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV).
   - **Nominal reward value**: Nominal value for rewards program. Read [Regular promotion with reward value](https://help.vtex.com/en/tutorial/regular-promotion-with-reward-value--3FCip23ZtvG0sDt0rVGVmR) for more information.

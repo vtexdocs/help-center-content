@@ -8,7 +8,7 @@ publishedAt: 2020-01-07T22:08:03.837Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
-slugEN: update-grants-in-the-promotions-module
+slugEN: 2019-08-12-update-grants-in-the-promotions-module
 locale: es
 legacySlug: actualizacion-permite-mayor-personalizacion-en-el-modulo-promociones
 announcementImageID: ''

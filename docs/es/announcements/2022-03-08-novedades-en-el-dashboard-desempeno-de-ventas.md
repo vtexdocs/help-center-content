@@ -8,7 +8,7 @@ publishedAt: 2022-03-17T12:55:14.395Z
 contentType: updates
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: sales-performance-dashboard-updates
+slugEN: 2022-03-08-sales-performance-dashboard-updates
 locale: es
 legacySlug: novedades-en-el-dashboard-desempeno-de-ventas
 announcementImageID: ''

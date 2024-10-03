@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:37.967Z
 contentType: updates
 productTeam: Others
 author: authors_24
-slugEN: integration-methods-with-the-catalog-through-web-service-will-be
+slugEN: 2018-08-21-integration-methods-with-the-catalog-through-web-service-will-be
 locale: en
 legacySlug: integration-methods-with-the-catalog-through-web-service-will-be
 announcementImageID: ''

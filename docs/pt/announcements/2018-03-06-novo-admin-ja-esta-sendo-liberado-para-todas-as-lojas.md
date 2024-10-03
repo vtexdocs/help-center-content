@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:51.179Z
 contentType: updates
 productTeam: Others
 author: authors_24
-slugEN: the-new-admin-is-already-being-deployed-to-all-stores
+slugEN: 2018-03-06-the-new-admin-is-already-being-deployed-to-all-stores
 locale: pt
 legacySlug: novo-admin-ja-esta-sendo-liberado-para-todas-as-lojas
 announcementImageID: ''

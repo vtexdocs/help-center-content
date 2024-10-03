@@ -8,7 +8,7 @@ publishedAt: 2023-02-06T14:08:09.172Z
 contentType: updates
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slugEN: the-owner-admin-super-user-role-no-longer-has-permission-to-create-users
+slugEN: 2023-02-03-the-owner-admin-super-user-role-no-longer-has-permission-to-create-users
 locale: en
 legacySlug: 
 announcementImageID: ''

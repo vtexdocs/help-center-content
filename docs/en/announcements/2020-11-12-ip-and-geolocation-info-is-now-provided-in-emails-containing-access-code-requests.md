@@ -8,7 +8,7 @@ publishedAt: 2020-12-02T14:17:36.292Z
 contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
-slugEN: ip-and-geolocation-info-is-now-provided-in-emails-containing-access-code-requests
+slugEN: 2020-11-12-ip-and-geolocation-info-is-now-provided-in-emails-containing-access-code-requests
 locale: en
 legacySlug: ip-and-geolocation-info-is-now-provided-in-emails-containing-login-access
 announcementImageID: ''

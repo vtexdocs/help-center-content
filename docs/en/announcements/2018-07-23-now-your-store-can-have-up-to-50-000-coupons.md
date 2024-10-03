@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:58.912Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_24
-slugEN: now-your-store-can-have-up-to-50-000-coupons
+slugEN: 2018-07-23-now-your-store-can-have-up-to-50-000-coupons
 locale: en
 legacySlug: now-your-store-can-have-up-to-50-000-coupons
 announcementImageID: ''

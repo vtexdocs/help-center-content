@@ -8,7 +8,7 @@ publishedAt: 2023-04-10T13:32:13.651Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: redesigned-products-and-skus-page
+slugEN: 2023-04-10-redesigned-products-and-skus-page
 locale: es
 legacySlug: nuevo-diseno-de-la-pagina-productos-y-sku
 announcementImageID: ''

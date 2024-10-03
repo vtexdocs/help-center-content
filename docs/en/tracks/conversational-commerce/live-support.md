@@ -38,8 +38,8 @@ If you choose not to provide it, you need to define an unavailability message in
 >ℹ️ In case of bank or regional holidays or other dates when support will be unavailable, indicate the date and time. If the windows repeat yearly, you can select "Yearly recurrence," presetting the configuration for future windows.
 
 <ol start="4">
-  <li>If there are any service exceptions, indicate the unavailability windows.<br><img src="https://images.ctfassets.net/alneenqid6w5/2z0LWtsZqBbxpjbf060Hvu/21c42d8dfb5bb4657ee02d5595431f66/image_3_en.png" alt="exceções ou feriados"></li>
-  <li>Create an unavailability message. This message will be displayed to the users when they contact via WhatsApp during unavailable hours.<br><img src="https://images.ctfassets.net/alneenqid6w5/16iLFjlXSqrrAW34s8PIXn/029fcd7b9d0eb4f7dfe59fbb2abebcbb/unaviability.png" alt="Mensagem de indisponibilidade"></li>
+  <li>If there are any service exceptions, indicate the unavailability windows.<br><img src="//images.ctfassets.net/alneenqid6w5/2z0LWtsZqBbxpjbf060Hvu/21c42d8dfb5bb4657ee02d5595431f66/image_3_en.png" alt="exceções ou feriados"></li>
+  <li>Create an unavailability message. This message will be displayed to the users when they contact via WhatsApp during unavailable hours.<br><img src="//images.ctfassets.net/alneenqid6w5/16iLFjlXSqrrAW34s8PIXn/029fcd7b9d0eb4f7dfe59fbb2abebcbb/unaviability.png" alt="Mensagem de indisponibilidade"></li>
   <li>Click <code>Save</code>.</li>
 </ol> 
 

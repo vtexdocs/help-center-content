@@ -8,7 +8,7 @@ publishedAt: 2020-03-06T14:33:53.099Z
 contentType: updates
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slugEN: now-you-can-choose-the-interest-type-used-on-installments
+slugEN: 2019-01-03-now-you-can-choose-the-interest-type-used-on-installments
 locale: es
 legacySlug: ahora-usted-puede-elegir-el-tipo-de-interes-utilizado-en-las-cuotas-de-su
 announcementImageID: ''

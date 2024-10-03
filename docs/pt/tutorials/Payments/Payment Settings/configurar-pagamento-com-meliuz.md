@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagamento com Méliuz'
 id: 6ajsvgOtRWnKhmgZjnOmZN
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2022-07-19T12:45:45.247Z
-updatedAt: 2024-01-23T18:53:00.570Z
-publishedAt: 2024-01-23T18:53:00.570Z
+updatedAt: 2024-10-03T15:21:28.390Z
+publishedAt: 
 firstPublishedAt: 2022-07-19T13:15:41.771Z
 contentType: tutorial
 productTeam: Financial

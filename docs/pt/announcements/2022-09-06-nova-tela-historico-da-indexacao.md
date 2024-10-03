@@ -8,7 +8,7 @@ publishedAt: 2022-09-15T13:30:03.033Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: new-indexation-history-screen
+slugEN: 2022-09-06-new-indexation-history-screen
 locale: pt
 legacySlug: nova-tela-historico-da-indexacao
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2023-04-18T20:46:27.347Z
 contentType: updates
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
-slugEN: new-events-available-in-the-audit-module
+slugEN: 2023-04-18-new-events-available-in-the-audit-module
 locale: es
 legacySlug: nuevos-eventos-disponibles-en-el-modulo-audit
 announcementImageID: ''

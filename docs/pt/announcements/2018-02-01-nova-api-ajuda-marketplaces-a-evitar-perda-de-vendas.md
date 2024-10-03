@@ -8,7 +8,7 @@ publishedAt: 2021-08-30T17:48:30.491Z
 contentType: updates
 productTeam: Channels
 author: authors_24
-slugEN: this-new-api-helps-marketplaces-avoid-losing-sales
+slugEN: 2018-02-01-this-new-api-helps-marketplaces-avoid-losing-sales
 locale: pt
 legacySlug: nova-api-ajuda-marketplaces-a-evitar-perda-de-vendas
 announcementImageID: ''

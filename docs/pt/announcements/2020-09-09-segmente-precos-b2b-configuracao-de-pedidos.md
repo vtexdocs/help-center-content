@@ -8,7 +8,7 @@ publishedAt: 2020-09-10T13:04:39.820Z
 contentType: updates
 productTeam: Others
 author: vztwQkZv4z6EwDVwdqbsw
-slugEN: segment-prices-b2b-order-configuration
+slugEN: 2020-09-09-segment-prices-b2b-order-configuration
 locale: pt
 legacySlug: segmente-precos-b2b-configuracao-de-pedidos
 announcementImageID: ''

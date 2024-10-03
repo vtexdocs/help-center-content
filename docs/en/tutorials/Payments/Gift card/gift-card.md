@@ -1,10 +1,10 @@
 ---
 title: 'Setting up Gift cards'
 id: tutorials_995
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T21:57:54.816Z
-updatedAt: 2024-01-19T19:16:50.349Z
-publishedAt: 2024-01-12T12:46:20.978Z
+updatedAt: 2024-09-25T20:41:36.406Z
+publishedAt: 2024-09-25T20:41:36.406Z
 firstPublishedAt: 2017-04-27T23:03:42.674Z
 contentType: tutorial
 productTeam: Financial
@@ -105,8 +105,9 @@ Follow the steps below to set up the Gift card:
 3. Click on the __Vale__ connector.
 4. On the top of the page, create a __name__ to this payment condition.
 5. Activate the condition in the __Status__ field.
-6. Under __Process with affiliation__, select the desired giftcard provider.
-7. Click on `Save`.
+6. Under __Process with provider__, select the desired giftcard provider.
+7. If you want to use an anti-fraud system, select the option __Use anti-fraud solution__.
+8. Click on `Save`.
 
 You can also add to the Gift Card special payment conditions. There is no limit on the conditions that can be applied to a payment method. We describe how to set each one of them [here](https://help.vtex.com/en/tutorial/condicoes-especiais--tutorials_456?locale=pt "here"). 
 

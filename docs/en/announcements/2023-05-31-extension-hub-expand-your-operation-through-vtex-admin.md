@@ -8,7 +8,7 @@ publishedAt: 2023-08-02T14:37:08.083Z
 contentType: updates
 productTeam: Apps
 author: 4ubliktPJIsvyl1hq91RdK
-slugEN: extension-hub-expand-your-operation-through-vtex-admin
+slugEN: 2023-05-31-extension-hub-expand-your-operation-through-vtex-admin
 locale: en
 legacySlug: extension-hub-expand-your-operation-through-vtex-admin
 announcementImageID: ''

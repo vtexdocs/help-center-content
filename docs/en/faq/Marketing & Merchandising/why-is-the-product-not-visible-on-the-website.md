@@ -3,8 +3,8 @@ title: 'Why is the product not visible on the website?'
 id: frequentlyAskedQuestions_382
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:11.456Z
-updatedAt: 2022-09-12T15:00:59.250Z
-publishedAt: 2022-09-12T15:00:59.250Z
+updatedAt: 2024-09-30T14:42:39.397Z
+publishedAt: 2024-09-30T14:42:39.397Z
 firstPublishedAt: 2017-04-27T23:01:46.278Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
@@ -14,25 +14,29 @@ locale: en
 legacySlug: why-is-the-product-not-shown-on-the-website
 ---
 
-For a product to be displayed as available in the store, the following settings must be configured:
+For a product to be displayed on the product listing page, it needs to be available for sale, which happens when the following settings are correctly configured:
 
-* The product and its [SKUs](https://help.vtex.com/en/tutorial/what-is-an-sku--1K75s4RXAQyOuGUYKMM68u) must be in the **Catalog** with all the details filled in correctly, as explained in the [Adding products](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) tutorial.
-* The product must have a  [price](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)  associated with it.
-* The product must be included in the store’s logistics settings. This means that all settings for [inventory](https://help.vtex.com/en/tutorial/visao-geral-logistics), [loading docks](https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj), [carrier](https://help.vtex.com/en/tutorial/carries-on-vtex--7u9duMD5UQa2QQwukAWMcE), [weight, dimensions,](https://help.vtex.com/en/tutorial/understanding-the-cubic-weight-factor--tutorials_128) etc, must correspond to the product in question.
-* Your store's [CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) templates must be configured correctly.
+* The [product](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) and its [SKUs](https://help.vtex.com/en/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) are added to the Catalog.
+* The product has a [price](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu).
+* The logistics settings make it possible to ship the product to customers, which includes configuring the [warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), [loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj), [shipping policies](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140), etc.
+* Regarding [inventory](https://help.vtex.com/en/tutorial/gerenciar-inventario--tutorials_139), the product must meet one of the following conditions:
+    * There is stock available for sale ([reserved](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92) items are not considered available).
+    * Unlimited inventory is configured for the product.
+    * The option to display the product when it is sold out is active.
+* The store [Content Management System (CMS)](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) templates are configured.
 
-When a product is not visible in the store or when it is displayed as unavailable,  you must adjust one or several of the above settings.
+You must adjust one or more of these settings when a product is not displayed on the product listing page.
 
-This article explains the main means of investigating, in the VTEX Admin, what adjustments must be made to the product settings:
+This article explains how to investigate and fix product unavailability errors on the product listing page. The sections are divided as follows:
 
 * [Catalog](#catalog)
 * [Prices](#prices)
 * [Logistics](#logistics)
 * [CMS](#cms)
 
->ℹ️ After adjusting any of the product and SKU details or after changing the Logistics settings, you must wait for the product to be indexed. You can check the indexing status in the [indexing queue](https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256) in **Catalog > Reports > Product indexing**.
->
-> When the indexing is finished, try accessing the product page from an anonymous tab to view the updated page version avoiding cache issues.
+>⚠️ After adjusting the product and SKU details or changing logistics settings, wait for the product to be indexed. You can track the status via the [indexing queue](https://help.vtex.com/en/tutorial/entendendo-o-funcionamento-da-indexacao) in the VTEX Admin, under **Catalog > Reports > Indexed Products**. Once indexing is complete, we recommend accessing the product page on the store website using an anonymous browser tab to view the updated, uncached version.
+
+There are cases in which the product is displayed on the product listing page but becomes unavailable when added to the cart. This may be due to different logistics configurations. Learn more in the article [Which logistics settings can impact the product availability in the cart?](https://help.vtex.com/en/tutorial/which-logistics-settings-can-impact-the-product-availability-in-the-cart--NAyBFToRdvlDyOzeeAeNw).
 
 ## Catalog
 
@@ -162,46 +166,34 @@ You can also create base prices using a spreadsheet or the Pricing API. For more
 
 ## Logistics
 
-To see if the logistics settings apply to your product, we recommend running a test in the **Shipping simulator** and check the item quantity on the **Inventory management** page.
+Different aspects of [logistics](https://help.vtex.com/en/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) can cause the product's unavailability on the product listing page. The product may be unavailable because the store [shipping strategy](https://help.vtex.com/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) does not allow shipping to the customer's location or because there is not enough quantity of the product in the [inventory](https://help.vtex.com/en/tutorial/gerenciar-inventario--tutorials_139).
 
-### Shipping simulator
+>ℹ️ If the product is displayed as available on the product listing page but becomes unavailable when added to the cart, see the article [Which logistics settings can impact the product availability in the cart?](https://help.vtex.com/en/tutorial/which-logistics-settings-can-impact-the-product-availability-in-the-cart--NAyBFToRdvlDyOzeeAeNw). 
 
-The **Shipping simulator** allows you to check if the item exists in the inventory and if it can be delivered using the current logistics settings. If one of the criteria is not met, the simulator assumes that the item is unavailable. To use it, follow the steps below.
+### Shipping Simulator
 
-1. Access **Orders > Inventory & shipping > Shipping simulator**.
-2. Fill in the necessary information, as described in [Shipping simulator](https://help.vtex.com/en/tutorial/shipping-simulation--tutorials_144).
-3. Click `Shipping simulation`.
+One way to test if there is a feasible delivery route is using the **Shipping Simulator** to validate the store's logistical settings and check your inventory.
 
-![13-simular-frete-pt](//images.ctfassets.net/alneenqid6w5/rJE0n5ZijrAerIWzzf2Gy/0fbc4b15077d4ea265c82c0a70f5f064/13-simular-frete-en.PNG)
+To simulate shipping an item to a location, in the VTEX Admin, go to **Shipping > Shipping Simulator**. You can find the instructions in the article [Shipping Simulator](https://help.vtex.com/en/tutorial/simulador-de-envio--tutorials_144).
 
->ℹ️ To investigate a specific item, you must perform the simulation using a **zip code** included in all the [trade policies](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140). If you find out the item is not available for that zip code, it means it will not be available for any other one.
+>⚠️ When investigating the availability of an item through the **Shipping Simulator**, we recommend using an address covered by all your [shipping policies](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140). If the item is unavailable for this location, it won't be available for any other.
 
-The simulation result shows whether the product is available for delivery at the provided address and which are the best shipping options. For example, if there are not enough available items in stock, the simulator will display the following message:
+When the logistics settings for the [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140), [warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), and [loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) are configured correctly, and the shipping policy covers the customer's location, the item may not be displayed on the product listing page due to its inventory, as explained below.
 
-![14-simulador-motivos-en](//images.ctfassets.net/alneenqid6w5/4oVBH9r7Vs3jDWZF2MUqdO/68f0e61b7646bb685b5f28278856512b/14-simulador-motivos-en.PNG)
+### Inventory
 
-For more information on using the simulator, please read the article [Shipping simulator](https://help.vtex.com/en/tutorial/shipping-simulation--tutorials_144).
+By adopting any of the following inventory strategies, you can ensure product availability on the product listing page:
 
-### Inventory management
+* Ensure sufficient item count for sales ([reserved](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92) items are not considered available).
+    * In the VTEX Admin, go to **Catalog > Inventory > Inventory Management**, change the value in the *Update Count* column in the product row, and click `Save`.
+* Activate the [unlimited inventory](https://help.vtex.com/en/tutorial/gerenciar-inventario--tutorials_139) option for the product.
+    * In the VTEX Admin, go to **Catalog > Inventory > Inventory Management**, activate the toggle in the *Infinite Inventory* column in the product row, and click `Save`.
+* Configure the product to be displayed on the product listing page when out of stock.
+    * In the VTEX Admin, go to **Catalog > All Products**, and click a product to go to its configuration page. In the *Product* tab, check the `Yes` option in the `Show when out of stock` field.
 
-If a product is not available on the website because it is out of stock, you must adjust this information in the **Inventory & shipping** module. Follow the steps below:
+If [future inventory](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) is configured for the SKU, the supply of this item could take longer than expected. In this period, the product unavailability on the product listing page could be due to a lack of stock.
 
-1. In the VTEX Admin, access **Orders > Inventory & shipping > Inventory management**.
-
-    On this page, you can view the SKUs added to the **Catalog** and their respective stock quantities. 
-
-2. Find the desired SKU and check the quantity in stock in the **Available** column.
-
-    If the value is _1_ or more, the item is available.
-
-    If it is _0_ or a negative value, you must adjust the information.
-
-3. To update the stock count, go to the desired SKU row and write the current quantity in the **Update count** column, as illustrated below.
-4. Click `Save`.
-
-![15-gerenciar-inventario-en](//images.ctfassets.net/alneenqid6w5/7gcnOqUFhzOrvf0EPJTTeM/1ef88e4a10e7cac64efaca80a3fe37fa/15-gerenciar-inventario-en.gif)
-
-For more information, please read the [Inventory management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139) tutorial.
+>⚠️ If your store has [franchise accounts](https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), for the inventory of these accounts to be available for sale, the products must be linked to the same [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) used in your storefront.
 
 ## CMS
 
@@ -256,6 +248,7 @@ For stores developed with VTEX IO, you need to check the following items in [you
 ## Learn more
 
 * [Catalog - concept definition](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR)
+* [Which logistics settings can impact the product availability in the cart?](https://help.vtex.com/en/tutorial/which-logistics-settings-can-impact-the-product-availability-in-the-cart--NAyBFToRdvlDyOzeeAeNw)
 * [How indexing works](https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256)
 * [Pricing module - Overview](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
 * [Inventory management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139)

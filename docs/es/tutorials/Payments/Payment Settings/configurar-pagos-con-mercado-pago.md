@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagos con Mercado Pago'
 id: 2FPdhTma6QywUmwEcEUGoS
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2018-03-08T21:11:28.158Z
-updatedAt: 2024-01-23T11:46:52.226Z
-publishedAt: 2024-01-23T11:46:52.226Z
+updatedAt: 2024-10-03T15:20:39.300Z
+publishedAt: 
 firstPublishedAt: 2018-03-08T22:43:32.092Z
 contentType: tutorial
 productTeam: Financial

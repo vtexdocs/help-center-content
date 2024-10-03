@@ -8,7 +8,7 @@ publishedAt: 2021-07-16T20:46:58.983Z
 contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: marketplace-network-has-been-improved
+slugEN: 2021-06-09-marketplace-network-has-been-improved
 locale: es
 legacySlug: mejoras-a-marketplace-network
 announcementImageID: ''

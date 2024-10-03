@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:46.401Z
 contentType: updates
 productTeam: Reliability
 author: authors_24
-slugEN: new-deadline-activate-the-new-cdn-until-may-31
+slugEN: 2018-04-20-new-deadline-activate-the-new-cdn-until-may-31
 locale: pt
 legacySlug: novo-prazo-voce-tem-ate-31-05-para-ativar-a-nova-cdn
 announcementImageID: ''

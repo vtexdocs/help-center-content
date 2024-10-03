@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:41.446Z
 contentType: updates
 productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
-slugEN: close-bigger-deals-with-the-shared-cart
+slugEN: 2019-02-18-close-bigger-deals-with-the-shared-cart
 locale: en
 legacySlug: close-bigger-deals-with-the-shared-cart
 announcementImageID: ''

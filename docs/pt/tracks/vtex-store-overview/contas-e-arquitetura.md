@@ -3,8 +3,8 @@ title: 'Contas e arquitetura'
 id: 4yPqZQyj0t675QpcG7H6yl
 status: PUBLISHED
 createdAt: 2024-01-09T00:00:08.724Z
-updatedAt: 2024-08-30T12:37:37.809Z
-publishedAt: 2024-08-30T12:37:37.809Z
+updatedAt: 2024-10-03T13:14:47.433Z
+publishedAt: 2024-10-03T13:14:47.433Z
 firstPublishedAt: 2024-02-22T14:06:20.581Z
 contentType: trackArticle
 productTeam: Others
@@ -57,7 +57,7 @@ No entanto, o uso simultâneo de muitas políticas comerciais pode comprometer a
 - [Multilojas](#multiloja)
 - [Ambientes adicionais](#ambiente-adicional)
 
-A imagem a seguir é um exemplo de como conta principal, ambiente (subconta), multilojas (lojas) e políticas comerciais estão relacionados:
+A imagem a seguir é um exemplo de como conta principal, ambiente, multilojas e políticas comerciais estão relacionados:
 
 ![multistore_aditional_environment_PT](//images.ctfassets.net/alneenqid6w5/6XOI59M49L18E99hSDpgWe/c91d697c801dd5fb42e7186e697b2abb/multistore_aditional_environment_PT.png)
 
@@ -85,7 +85,7 @@ Alguns casos de uso comuns para contratar um novo ambiente são quando se deseja
 
 A tabela a seguir apresenta aspectos importantes para considerar na hora de decidir sobre ter uma arquitetura multiloja, ambiente adicional ou uma combinação de ambos:  
 
-| **Aspecto** | **Multiloja (lojas)** | **Ambiente adicional (subcontas)** |
+| **Aspecto** | **Multiloja** | **Ambiente adicional** |
 | :---: | :--- | :--- |
 | Arquitetura | Um **único ambiente administrativo** no Admin VTEX associado a duas ou mais lojas ([store names](https://help.vtex.com/pt/tutorial/o-que-e-store-name--3gh9mTNeMgs6Qe44e8IqQK)). Todas as lojas estão vinculadas ao **mesmo [account name](https://help.vtex.com/pt/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC)**. | **Múltiplos ambientes administrativos** no Admin VTEX com configurações inteiramente independentes. Cada ambiente possui **[account name](https://help.vtex.com/pt/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) próprio**. |
 | Sitemap | Tem um único **[sitemap](https://help.vtex.com/pt/tutorial/rastreamento-google-search-console-sitemap--tutorials_575) da conta principal compartilhado** entre todas as lojas. | Cada conta tem **[sitemap](https://help.vtex.com/pt/tutorial/rastreamento-google-search-console-sitemap--tutorials_575) próprio**. |
@@ -94,10 +94,6 @@ A tabela a seguir apresenta aspectos importantes para considerar na hora de deci
 | Custos | **Não existe um custo** na criação de novas lojas, mas para criar storefronts diferentes, é necessário [contratar uma política comercial adicional](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), o que tem um custo. | **Existe um custo** para [contratar um ambiente adicional](https://help.vtex.com/pt/tutorial/contratar-novo-ambiente--tutorials_2542), mas isso já inclui uma política comercial. |
 
 Para obter mais informações, basta acessar o artigo [Escolhendo entre arquitetura multiloja ou ambiente adicional](https://help.vtex.com/pt/tutorial/escolhendo-entre-arquitetura-multi-loja-ou-ambiente-adicional--4HRNpa1OCKZ5YzP8yiilBL).  
-
-## Questionário sobre arquitetura
-
-Para auxiliar decisões sobre quais produtos e configurações incluir no planejamento da arquitetura da loja, criamos uma série de perguntas, como pode ser visto na tabela a seguir:
 
 ## Questionário sobre arquitetura
 

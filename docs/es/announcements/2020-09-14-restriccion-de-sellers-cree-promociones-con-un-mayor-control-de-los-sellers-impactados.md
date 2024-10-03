@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: seller-restriction-create-promotions-with-more-control-over-affected-sellers
+slugEN: 2020-09-14-seller-restriction-create-promotions-with-more-control-over-affected-sellers
 locale: es
 legacySlug: restriccion-de-sellers-cree-promociones-con-un-mayor-control-de-los-sellers-impactados
 announcementImageID: ''

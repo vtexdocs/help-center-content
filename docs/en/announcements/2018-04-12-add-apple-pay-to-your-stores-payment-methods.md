@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:47.601Z
 contentType: updates
 productTeam: Financial
 author: authors_24
-slugEN: add-apple-pay-to-your-stores-payment-methods
+slugEN: 2018-04-12-add-apple-pay-to-your-stores-payment-methods
 locale: en
 legacySlug: add-apple-pay-to-your-stores-payment-methods
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2021-08-24T13:09:46.935Z
 contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slugEN: vtex-is-now-officially-a-certified-mercado-libre-partner-in-brazil
+slugEN: 2021-08-23-vtex-is-now-officially-a-certified-mercado-libre-partner-in-brazil
 locale: es
 legacySlug: vtex-es-ahora-oficialmente-un-partner-certificado-de-mercado-libre-en-brasil
 announcementImageID: ''

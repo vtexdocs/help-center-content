@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slugEN: improved-security-for-the-customers-first-purchase
+slugEN: 2023-07-03-improved-security-for-the-customers-first-purchase
 locale: pt
 legacySlug: melhoria-de-seguranca-na-primeira-compra-do-cliente
 announcementImageID: ''

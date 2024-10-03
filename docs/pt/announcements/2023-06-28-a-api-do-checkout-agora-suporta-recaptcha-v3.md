@@ -8,7 +8,7 @@ publishedAt: 2023-08-25T23:36:39.909Z
 contentType: updates
 productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
-slugEN: checkout-api-now-supports-recaptcha-v3
+slugEN: 2023-06-28-checkout-api-now-supports-recaptcha-v3
 locale: pt
 legacySlug: a-api-do-checkout-agora-suporta-recaptcha-v3
 announcementImageID: ''

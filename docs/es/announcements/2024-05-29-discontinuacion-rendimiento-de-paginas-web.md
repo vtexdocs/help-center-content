@@ -8,7 +8,7 @@ publishedAt: 2024-05-29T19:04:53.248Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slugEN: web-page-performance-deprecation
+slugEN: 2024-05-29-web-page-performance-deprecation
 locale: es
 legacySlug: discontinuacion-del-modulo-rendimiento-de-paginas-web
 announcementImageID: ''

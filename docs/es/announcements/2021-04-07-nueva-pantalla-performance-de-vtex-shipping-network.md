@@ -8,7 +8,7 @@ publishedAt: 2022-04-08T20:17:34.187Z
 contentType: updates
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
-slugEN: new-vtex-shipping-network-performance-page
+slugEN: 2021-04-07-new-vtex-shipping-network-performance-page
 locale: es
 legacySlug: nueva-pantalla-performance-de-vtex-log
 announcementImageID: ''

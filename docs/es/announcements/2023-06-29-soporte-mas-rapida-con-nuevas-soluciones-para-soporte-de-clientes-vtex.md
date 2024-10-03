@@ -8,7 +8,7 @@ publishedAt: 2023-06-29T13:23:21.815Z
 contentType: updates
 productTeam: Billing
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: faster-customer-support-with-new-solutions-for-vtex-clients
+slugEN: 2023-06-29-faster-customer-support-with-new-solutions-for-vtex-clients
 locale: es
 legacySlug: soporte-mas-rapida-con-nuevas-soluciones-para-soporte-de-clientes-vtex
 announcementImageID: ''

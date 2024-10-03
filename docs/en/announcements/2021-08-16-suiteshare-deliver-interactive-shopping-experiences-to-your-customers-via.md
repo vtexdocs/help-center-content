@@ -8,7 +8,7 @@ publishedAt: 2021-08-16T22:18:08.617Z
 contentType: updates
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slugEN: suiteshare-deliver-interactive-shopping-experiences-to-your-customers-via
+slugEN: 2021-08-16-suiteshare-deliver-interactive-shopping-experiences-to-your-customers-via
 locale: en
 legacySlug: suiteshare-deliver-interactive-shopping-experiences-to-your-customers-via
 announcementImageID: ''

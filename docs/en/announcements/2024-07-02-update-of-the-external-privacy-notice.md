@@ -8,7 +8,7 @@ publishedAt: 2024-07-03T14:07:13.062Z
 contentType: updates
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: update-of-the-external-privacy-notice
+slugEN: 2024-07-02-update-of-the-external-privacy-notice
 locale: en
 legacySlug: update-of-the-external-privacy-notice
 announcementImageID: ''

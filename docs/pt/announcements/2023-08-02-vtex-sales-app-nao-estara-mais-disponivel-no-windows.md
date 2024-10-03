@@ -8,7 +8,7 @@ publishedAt: 2023-08-03T16:00:53.203Z
 contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: vtex-sales-app-will-no-longer-be-available-for-windows
+slugEN: 2023-08-02-vtex-sales-app-will-no-longer-be-available-for-windows
 locale: pt
 legacySlug: vtex-sales-app-nao-estara-mais-disponivel-no-windows
 announcementImageID: ''

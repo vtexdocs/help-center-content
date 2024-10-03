@@ -1,10 +1,10 @@
 ---
 title: 'Setting up payments with Pine Labs'
 id: 6cmZ0Qs9HUpN7AUBZQDmc0
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-04-03T17:01:53.868Z
-updatedAt: 2024-01-25T19:11:09.123Z
-publishedAt: 2024-01-25T19:11:09.123Z
+updatedAt: 2024-10-03T16:09:47.735Z
+publishedAt: 
 firstPublishedAt: 2023-04-03T17:17:06.240Z
 contentType: tutorial
 productTeam: Financial

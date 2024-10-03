@@ -8,7 +8,7 @@ publishedAt: 2024-03-13T19:02:02.287Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: promotion-simulator-understand-the-promotions-applied-to-the-cart
+slugEN: 2024-03-13-promotion-simulator-understand-the-promotions-applied-to-the-cart
 locale: pt
 legacySlug: simulador-de-promocoes-entenda-as-promocoes-aplicadas-ao-carrinho
 announcementImageID: ''
@@ -47,7 +47,7 @@ Para começar a utilizar o simulador, siga os passos abaixo:
     Se preferir, você pode acessá-la diretamente pela URL `https://{nomedaconta}.myvtex.com/`, substituindo `{nomedaconta}` pelo nome da sua conta VTEX.
 
 2. Adicione produtos no carrinho e acesse o checkout em `https://{nomedaconta}.myvtex.com/checkout/#/cart`.
-3. Clique no botão azul <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> no canto inferior direito da página para iniciar o Cartman.
+3. Clique no botão azul <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> no canto inferior direito da página para iniciar o Cartman.
 4. Clique em **Simulador de promoções**.
 
    Na nova janela, você verá os detalhes das promoções aplicadas e não aplicadas ao carrinho.

@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:30.887Z
 contentType: updates
 productTeam: Others
 author: authors_24
-slugEN: meet-vtex-helps-new-content-format-the-tracks
+slugEN: 2018-05-09-meet-vtex-helps-new-content-format-the-tracks
 locale: pt
 legacySlug: conheca-as-tracks-o-novo-formato-de-conteudo-do-help
 announcementImageID: ''

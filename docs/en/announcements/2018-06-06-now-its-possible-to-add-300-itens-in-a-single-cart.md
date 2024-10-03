@@ -8,7 +8,7 @@ publishedAt: 2021-05-18T20:23:05.812Z
 contentType: updates
 productTeam: Shopping
 author: authors_24
-slugEN: now-its-possible-to-add-300-itens-in-a-single-cart
+slugEN: 2018-06-06-now-its-possible-to-add-300-itens-in-a-single-cart
 locale: en
 legacySlug: now-its-possible-to-add-300-itens-in-a-single-cart
 announcementImageID: ''

@@ -1,10 +1,10 @@
 ---
 title: 'Setting up payments with MSC Payment'
 id: 6hPTXSe57DSCuo7i2r3cjV
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-09-11T14:04:54.926Z
-updatedAt: 2024-01-25T17:06:19.483Z
-publishedAt: 2024-01-25T17:06:19.483Z
+updatedAt: 2024-10-03T15:22:05.758Z
+publishedAt: 
 firstPublishedAt: 2023-09-11T14:17:31.484Z
 contentType: tutorial
 productTeam: Financial

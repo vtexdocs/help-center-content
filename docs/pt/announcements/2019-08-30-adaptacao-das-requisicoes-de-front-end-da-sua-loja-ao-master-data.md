@@ -8,7 +8,7 @@ publishedAt: 2020-04-02T16:47:26.778Z
 contentType: updates
 productTeam: Master Data
 author: authors_31
-slugEN: adapting-your-stores-front-end-requisites-to-master-data
+slugEN: 2019-08-30-adapting-your-stores-front-end-requisites-to-master-data
 locale: pt
 legacySlug: adaptacao-das-requisicoes-de-front-end-da-sua-loja-ao-master-data
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2020-10-21T19:00:50.126Z
 contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
-slugEN: news-on-how-to-configure-login-providers-for-your-store
+slugEN: 2020-10-06-news-on-how-to-configure-login-providers-for-your-store
 locale: pt
 legacySlug: novidades-em-como-configurar-provedores-de-login-para-sua-loja
 announcementImageID: ''

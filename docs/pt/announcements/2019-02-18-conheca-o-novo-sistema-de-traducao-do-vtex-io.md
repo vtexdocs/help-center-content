@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
-slugEN: vtex-ios-new-translation-system
+slugEN: 2019-02-18-vtex-ios-new-translation-system
 locale: pt
 legacySlug: conheca-o-novo-sistema-de-traducao-do-vtex-io
 announcementImageID: ''

@@ -22,7 +22,7 @@ The **Promotions Simulator** allows you to view the promotions applied to shoppi
 To use this feature, you need to [configure Cartman](https://help.vtex.com/en/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451), a tool that simulates, shares, and explores carts. Once Cartman has been configured, follow the steps below to access the **Promotions Simulator**.
 
 1. Add products included in your store's promotions to your shopping cart.
-2. In the cart, click the following button <img src="https://images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> to open Cartman.
+2. In the cart, click the following button <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/> to open Cartman.
 3. Select `View promotion details`.
 4. This window displays the promotions applied to the cart. For more details, click <i class="fas fa-search"></i>`View details`.
 ![cartman-analisador-promoção-EN](https://images.ctfassets.net/alneenqid6w5/43LSTCKfLxf0Buvbc3mNpQ/5e79f607478f8e4174edde1e1a1d6028/Screen_Shot_2022-03-07_at_11.13.45.png)

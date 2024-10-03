@@ -8,7 +8,7 @@ publishedAt: 2020-07-13T16:11:08.593Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: vtex-intelligent-search-export-more-complex-search-results-reports
+slugEN: 2020-06-30-vtex-intelligent-search-export-more-complex-search-results-reports
 locale: pt
 legacySlug: vtex-intelligent-search-exporte-relatorios-mais-completos-sobre-os
 announcementImageID: ''

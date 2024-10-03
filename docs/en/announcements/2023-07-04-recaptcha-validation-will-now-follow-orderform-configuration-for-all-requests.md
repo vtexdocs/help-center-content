@@ -8,7 +8,7 @@ publishedAt: 2023-07-05T18:40:32.146Z
 contentType: updates
 productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
-slugEN: recaptcha-validation-will-now-follow-orderform-configuration-for-all-requests
+slugEN: 2023-07-04-recaptcha-validation-will-now-follow-orderform-configuration-for-all-requests
 locale: en
 legacySlug: recaptcha-validation-will-now-follow-orderform-configuration-for-all
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:26.534Z
 contentType: updates
 productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
-slugEN: vtex-now-gives-full-support-to-the-tls-1-2-protocol
+slugEN: 2018-03-01-vtex-now-gives-full-support-to-the-tls-1-2-protocol
 locale: en
 legacySlug: vtex-now-gives-full-support-to-the-tls-1-2-protocol
 announcementImageID: ''

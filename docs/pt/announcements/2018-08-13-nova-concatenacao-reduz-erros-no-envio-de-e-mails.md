@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:43.972Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_24
-slugEN: mudanca-na-concatenacao-reduz-erros-no-envio-de-e-mails
+slugEN: 2018-08-13-mudanca-na-concatenacao-reduz-erros-no-envio-de-e-mails
 locale: pt
 legacySlug: nova-concatenacao-reduz-erros-no-envio-de-e-mails
 announcementImageID: ''

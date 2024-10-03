@@ -8,7 +8,7 @@ publishedAt: 2020-11-11T15:16:04.418Z
 contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: marketplace-improvements-on-received-skus
+slugEN: 2020-10-26-marketplace-improvements-on-received-skus
 locale: es
 legacySlug: marketplace-mejoras-en-el-modulo-skus-recibidos
 announcementImageID: ''

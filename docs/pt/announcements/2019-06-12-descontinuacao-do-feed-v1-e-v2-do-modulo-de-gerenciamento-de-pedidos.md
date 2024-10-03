@@ -8,7 +8,7 @@ publishedAt: 2020-09-22T00:53:40.981Z
 contentType: updates
 productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
-slugEN: order-management-module-feed-v1-and-v2-discontinuation
+slugEN: 2019-06-12-order-management-module-feed-v1-and-v2-discontinuation
 locale: pt
 legacySlug: descontinuacao-do-feed-v1-e-v2-do-modulo-de-gerenciamento-de-pedidos
 announcementImageID: ''

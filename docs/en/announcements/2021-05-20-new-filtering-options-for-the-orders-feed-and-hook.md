@@ -8,7 +8,7 @@ publishedAt: 2021-05-28T18:00:19.312Z
 contentType: updates
 productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
-slugEN: new-filtering-options-for-the-orders-feed-and-hook
+slugEN: 2021-05-20-new-filtering-options-for-the-orders-feed-and-hook
 locale: en
 legacySlug: new-filtering-options-for-the-orders-feed-and-hook
 announcementImageID: ''

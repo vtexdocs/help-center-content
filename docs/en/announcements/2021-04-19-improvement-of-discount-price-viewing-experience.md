@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
-slugEN: improvement-of-discount-price-viewing-experience
+slugEN: 2021-04-19-improvement-of-discount-price-viewing-experience
 locale: en
 legacySlug: improvement-of-discount-price-viewing-experience
 announcementImageID: ''

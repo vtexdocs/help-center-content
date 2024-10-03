@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:13.826Z
 contentType: updates
 productTeam: Others
 author: authors_59
-slugEN: were-launching-your-personal-data-set-up-screen
+slugEN: 2017-11-14-were-launching-your-personal-data-set-up-screen
 locale: es
 legacySlug: lanzamos-la-pantalla-de-configuracion-de-sus-datos-personales
 announcementImageID: ''

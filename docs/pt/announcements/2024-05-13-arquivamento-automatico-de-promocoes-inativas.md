@@ -8,7 +8,7 @@ publishedAt: 2024-05-20T12:14:24.232Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: automatic-archiving-inactive-promotions
+slugEN: 2024-05-13-automatic-archiving-inactive-promotions
 locale: pt
 legacySlug: arquivamento-automatico-de-promocoes-inativas
 announcementImageID: ''

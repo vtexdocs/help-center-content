@@ -8,7 +8,7 @@ publishedAt: 2021-04-09T13:56:32.437Z
 contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: new-tax-information-in-order-reports
+slugEN: 2021-04-08-new-tax-information-in-order-reports
 locale: es
 legacySlug: nueva-informacion-sobre-tasas-en-el-informe-de-pedidos
 announcementImageID: ''

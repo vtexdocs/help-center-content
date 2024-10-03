@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:35.747Z
 contentType: updates
 productTeam: Channels
 author: vztwQkZv4z6EwDVwdqbsw
-slugEN: marketplaces-received-skus-beta
+slugEN: 2019-09-09-marketplaces-received-skus-beta
 locale: es
 legacySlug: marketplaces-skus-recibidos-beta
 announcementImageID: ''

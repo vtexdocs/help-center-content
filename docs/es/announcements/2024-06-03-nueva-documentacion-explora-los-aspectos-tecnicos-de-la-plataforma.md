@@ -8,7 +8,7 @@ publishedAt: 2024-06-05T17:29:34.519Z
 contentType: updates
 productTeam: VTEX IO
 author: YRJ73j8mt38D5TUleocQB
-slugEN: new-documentation-explore-the-technical-aspects-of-the-platform
+slugEN: 2024-06-03-new-documentation-explore-the-technical-aspects-of-the-platform
 locale: es
 legacySlug: nueva-documentacion-explora-los-aspectos-tecnicos-de-la-plataforma
 announcementImageID: ''

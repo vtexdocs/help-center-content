@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T14:45:09.293Z
 contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: sales-app-improvements-new-features-to-improve-customer-experience-in
+slugEN: 2023-05-25-sales-app-improvements-new-features-to-improve-customer-experience-in
 locale: en
 legacySlug: sales-app-improvements-new-features-to-improve-customer-experience-in
 announcementImageID: ''

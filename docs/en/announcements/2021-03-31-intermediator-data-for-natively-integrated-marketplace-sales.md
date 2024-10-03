@@ -8,7 +8,7 @@ publishedAt: 2021-05-25T21:13:24.704Z
 contentType: updates
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slugEN: intermediator-data-for-natively-integrated-marketplace-sales
+slugEN: 2021-03-31-intermediator-data-for-natively-integrated-marketplace-sales
 locale: en
 legacySlug: intermediator-data-for-natively-integrated-marketplace-sales
 announcementImageID: ''

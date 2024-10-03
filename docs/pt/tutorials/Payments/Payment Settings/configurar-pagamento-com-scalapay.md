@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagamento com Scalapay'
 id: 6SCh3WUqjeqIrOl209MENA
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2022-08-12T19:31:38.569Z
-updatedAt: 2024-01-25T18:03:45.856Z
-publishedAt: 2024-01-25T18:03:45.856Z
+updatedAt: 2024-10-03T16:11:00.738Z
+publishedAt: 
 firstPublishedAt: 2022-08-12T19:39:58.598Z
 contentType: tutorial
 productTeam: Financial

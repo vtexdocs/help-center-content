@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Shopping
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: new-checkout-settings-for-bot-attack-protection
+slugEN: 2023-09-11-new-checkout-settings-for-bot-attack-protection
 locale: es
 legacySlug: nuevas-opciones-de-configuracion-en-el-checkout-para-proteccion-contra
 announcementImageID: ''

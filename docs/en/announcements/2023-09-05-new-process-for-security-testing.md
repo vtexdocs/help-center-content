@@ -8,7 +8,7 @@ publishedAt: 2023-09-05T13:57:39.737Z
 contentType: updates
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: new-process-for-security-testing
+slugEN: 2023-09-05-new-process-for-security-testing
 locale: en
 legacySlug: new-process-for-security-testing
 announcementImageID: ''

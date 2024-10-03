@@ -8,7 +8,7 @@ publishedAt: 2020-01-08T19:28:41.329Z
 contentType: updates
 productTeam: Reliability
 author: authors_31
-slugEN: configuring-your-networks-firewall-access-rules-to-allow-the-new-domain
+slugEN: 2020-01-06-configuring-your-networks-firewall-access-rules-to-allow-the-new-domain
 locale: pt
 legacySlug: liberacao-de-novo-dominio-nas-regras-do-firewall-da-sua-rede
 announcementImageID: ''

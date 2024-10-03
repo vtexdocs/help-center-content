@@ -8,7 +8,7 @@ publishedAt: 2023-05-23T13:15:09.967Z
 contentType: updates
 productTeam: Shopping
 author: 5l3eEiSz8MpcppCxcnijGz
-slugEN: new-sales-app-checkout
+slugEN: 2023-05-22-new-sales-app-checkout
 locale: pt
 legacySlug: novo-checkout-do-vtex-sales-app
 announcementImageID: ''

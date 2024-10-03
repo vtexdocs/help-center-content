@@ -1,9 +1,9 @@
 ---
 title: 'CMS - Visão geral'
 id: 6OCY6S9tqBXPD5mgpbBInC
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-01-08T13:23:56.157Z
-updatedAt: 2023-04-25T19:27:34.938Z
+updatedAt: 2024-10-03T14:11:49.558Z
 publishedAt: 2023-04-25T19:27:34.938Z
 firstPublishedAt: 2020-01-13T14:28:47.464Z
 contentType: trackArticle
@@ -20,13 +20,14 @@ CMS (Content Management System, em Português, Sistema de Gerenciamento de Conte
 
 Na VTEX, o CMS é responsável pela gestão das páginas que constituem o site da sua loja, oferecendo autonomia para criar, organizar, editar e definir toda a estrutura das pastas, arquivos e componentes que compõem a sua vitrine.
 
-O CMS oferece um conjunto de ferramentas que variam de acordo com a tecnologia que você utiliza em sua loja: **Store Framework - Site Editor**, **Legacy Portal - Layout**, ou **FastStore - VTEX Headless CMS**. 
+O CMS oferece um conjunto de ferramentas que variam de acordo com a tecnologia que você utiliza em sua loja: **FastStore - VTEX Headless CMS**, **Store Framework - Site Editor** ou **Legacy Portal - Layout**.
 
 Neste artigo você encontrará uma visão geral dos itens do CMS e suas funcionalidades.
 
 ## Banners
 Banners é a funcionalidade responsável por exibir banners, como ações promocionais, na página de resultado de busca do cliente. Isso é feito por meio da associação entre as palavras e filtros selecionados na busca e da configuração de banners na sua loja.
 Para saber como utilizar esse módulo, acesse o tutorial de [Banners](https://help.vtex.com/pt/v4/docs/banners--51nNoJABZ5NtvJQCucCXCy).
+
 ## Páginas
 Esse é o módulo de gerenciamento das páginas do seu site. Para acessá-lo, entre no Admin da sua loja e clique em Páginas. 
 

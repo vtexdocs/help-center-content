@@ -8,7 +8,7 @@ publishedAt: 2021-03-19T14:17:41.461Z
 contentType: updates
 productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
-slugEN: displaying-pickup-points-on-google-maps
+slugEN: 2021-03-19-displaying-pickup-points-on-google-maps
 locale: en
 legacySlug: displaying-pickup-points-on-google-maps
 announcementImageID: ''

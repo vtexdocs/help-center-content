@@ -8,7 +8,7 @@ publishedAt: 2024-04-04T19:35:42.974Z
 contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: new-payment-features-enhancements-for-an-improved-shopping-experience
+slugEN: 2023-05-29-new-payment-features-enhancements-for-an-improved-shopping-experience
 locale: es
 legacySlug: nuevas-funcionalidades-de-pagos-mejoras-para-una-experiencia-de-compra
 announcementImageID: ''

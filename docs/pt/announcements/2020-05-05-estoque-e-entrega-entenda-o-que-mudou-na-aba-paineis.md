@@ -8,7 +8,7 @@ publishedAt: 2020-05-14T14:38:09.360Z
 contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: inventory-and-shipping-see-what-has-changed-in-the-dashboard-tab
+slugEN: 2020-05-05-inventory-and-shipping-see-what-has-changed-in-the-dashboard-tab
 locale: pt
 legacySlug: estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis
 announcementImageID: ''

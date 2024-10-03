@@ -8,7 +8,7 @@ publishedAt: 2022-07-18T22:12:01.781Z
 contentType: updates
 productTeam: Others
 author: 4SqDPmUJIIz2KMMKgiyqKl
-slugEN: transparency-and-security-with-the-new-audit-module
+slugEN: 2021-10-21-transparency-and-security-with-the-new-audit-module
 locale: es
 legacySlug: transparencia-y-seguridad-con-el-nuevo-modulo-audit
 announcementImageID: ''

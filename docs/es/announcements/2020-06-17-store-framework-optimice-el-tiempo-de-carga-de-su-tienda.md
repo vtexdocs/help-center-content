@@ -8,7 +8,7 @@ publishedAt: 2021-01-22T15:52:03.092Z
 contentType: updates
 productTeam: VTEX IO
 author: 6AcGyun1hSWewU8YcaQiO
-slugEN: store-framework-optimize-your-stores-loading-time
+slugEN: 2020-06-17-store-framework-optimize-your-stores-loading-time
 locale: es
 legacySlug: store-framework-optimice-el-tiempo-de-carga-de-su-tienda
 announcementImageID: ''

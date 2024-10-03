@@ -8,7 +8,7 @@ publishedAt: 2022-01-14T21:08:20.856Z
 contentType: updates
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: rate-vtexs-service-in-your-admin
+slugEN: 2022-01-13-rate-vtexs-service-in-your-admin
 locale: pt
 legacySlug: avalie-o-atendimento-da-vtex-pelo-seu-admin
 announcementImageID: ''

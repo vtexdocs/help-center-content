@@ -8,7 +8,7 @@ publishedAt: 2023-06-07T20:17:16.432Z
 contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: vtex-marketplace-launches-in-2022
+slugEN: 2022-10-17-vtex-marketplace-launches-in-2022
 locale: es
 legacySlug: releases-de-marketplace-vtex-en-2022
 announcementImageID: ''

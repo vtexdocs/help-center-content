@@ -3,8 +3,8 @@ title: 'Seller commission updates does not index binded skus'
 id: GNX6sFV0thQkMLWEwxya9
 status: PUBLISHED
 createdAt: 2023-08-31T14:44:39.162Z
-updatedAt: 2023-08-31T14:44:39.748Z
-publishedAt: 2023-08-31T14:44:39.748Z
+updatedAt: 2024-09-30T15:10:05.104Z
+publishedAt: 2024-09-30T15:10:05.104Z
 firstPublishedAt: 2023-08-31T14:44:39.748Z
 contentType: knownIssue
 productTeam: Catalog
@@ -21,7 +21,7 @@ internalReference: 891162
 
 When the merchant updates the seller commission on the Seller Management UI the binded skus related to this seller are not automatically indexed.
 
-Our checkout system uses the stockkeepingunitbyid API to get the updated information of the sku.
+Our checkout system uses the `stockkeepingunitbyid` API to get the updated information of the sku.
 
 On this API we have the object SkuSellers that contains the commission information. But if the sku is not indexed this object gets outdated.
 
@@ -45,7 +45,6 @@ This implicates in the checkout getting the old value for the commission.
 
 
 To prevent closing orders with the outdated commission value, the merchant can manually index the affected skus.
-
 
 
 

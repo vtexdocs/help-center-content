@@ -1,10 +1,10 @@
 ---
 title: 'Setting up payments with Wompi'
 id: 40d6lWEyzLViHS7aYvcsqV
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2022-02-21T18:22:13.804Z
-updatedAt: 2024-01-24T13:49:31.304Z
-publishedAt: 2024-01-24T13:49:31.304Z
+updatedAt: 2024-10-03T16:15:16.464Z
+publishedAt: 
 firstPublishedAt: 2022-02-21T19:06:12.105Z
 contentType: tutorial
 productTeam: Financial

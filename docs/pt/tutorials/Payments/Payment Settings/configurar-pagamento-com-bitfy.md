@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagamento com Bitfy'
 id: 2PSTfW4PsMh19K9y3DkQec
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2022-08-15T17:30:29.886Z
-updatedAt: 2024-01-23T18:24:11.153Z
-publishedAt: 2024-01-23T18:24:11.153Z
+updatedAt: 2024-10-03T15:03:22.678Z
+publishedAt: 
 firstPublishedAt: 2022-08-15T17:41:45.501Z
 contentType: tutorial
 productTeam: Financial

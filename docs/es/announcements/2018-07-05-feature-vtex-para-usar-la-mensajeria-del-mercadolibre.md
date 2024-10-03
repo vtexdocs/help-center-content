@@ -8,7 +8,7 @@ publishedAt: 2020-08-17T22:18:27.674Z
 contentType: updates
 productTeam: Channels
 author: authors_24
-slugEN: a-new-feature-to-use-mercado-livres-messaging-service
+slugEN: 2018-07-05-a-new-feature-to-use-mercado-livres-messaging-service
 locale: es
 legacySlug: feature-vtex-para-usar-la-mensajeria-del-mercadolibre
 announcementImageID: ''

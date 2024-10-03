@@ -8,7 +8,7 @@ publishedAt: 2020-09-15T21:40:47.661Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
-slugEN: use-the-nominal-tax-and-avoid-customers-abandoning-their-shopping-cart
+slugEN: 2019-12-12-use-the-nominal-tax-and-avoid-customers-abandoning-their-shopping-cart
 locale: es
 legacySlug: utilice-la-tasa-nominal-y-evite-que-sus-clientes-abandonen-el-carrito-de
 announcementImageID: ''

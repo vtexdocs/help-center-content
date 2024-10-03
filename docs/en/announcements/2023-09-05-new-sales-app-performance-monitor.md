@@ -8,7 +8,7 @@ publishedAt: 2023-09-06T13:06:33.383Z
 contentType: updates
 productTeam: Shopping
 author: 5l3eEiSz8MpcppCxcnijGz
-slugEN: new-sales-app-performance-monitor
+slugEN: 2023-09-05-new-sales-app-performance-monitor
 locale: en
 legacySlug: new-sales-app-performance-monitor
 announcementImageID: ''

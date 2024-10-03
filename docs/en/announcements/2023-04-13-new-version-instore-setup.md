@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T14:55:11.722Z
 contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugEN: new-version-instore-setup
+slugEN: 2023-04-13-new-version-instore-setup
 locale: en
 legacySlug: new-version-instore-setup
 announcementImageID: ''

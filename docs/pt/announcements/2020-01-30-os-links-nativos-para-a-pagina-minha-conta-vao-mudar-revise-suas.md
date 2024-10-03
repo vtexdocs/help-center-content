@@ -8,7 +8,7 @@ publishedAt: 2020-05-27T15:11:12.565Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_31
-slugEN: the-native-links-to-my-account-page-will-change-review-your-settings
+slugEN: 2020-01-30-the-native-links-to-my-account-page-will-change-review-your-settings
 locale: pt
 legacySlug: os-links-nativos-para-a-pagina-minha-conta-vao-mudar-revise-suas
 announcementImageID: ''

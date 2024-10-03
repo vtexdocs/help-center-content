@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slugEN: customize-your-payment-conditions-with-the-new-card-level-functionality
+slugEN: 2019-09-16-customize-your-payment-conditions-with-the-new-card-level-functionality
 locale: es
 legacySlug: personalice-sus-condiciones-de-pago-con-la-nueva-funcionalidad-card-level 
 announcementImageID: ''

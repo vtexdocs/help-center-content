@@ -8,7 +8,7 @@ publishedAt: 2021-10-19T18:01:48.574Z
 contentType: updates
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: new-sales-performance-dashboard
+slugEN: 2021-10-19-new-sales-performance-dashboard
 locale: pt
 legacySlug: novo-dashboard-performance-de-vendas
 announcementImageID: ''

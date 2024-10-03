@@ -8,7 +8,7 @@ publishedAt: 2020-11-01T22:07:15.296Z
 contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: inventory-and-shipping-learn-what-has-changed-in-the-inventory-management
+slugEN: 2020-10-29-inventory-and-shipping-learn-what-has-changed-in-the-inventory-management
 locale: es
 legacySlug: inventario-y-envio-entienda-lo-que-cambio-en-la-pestana-gestion-del
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2022-07-28T12:34:14.003Z
 contentType: updates
 productTeam: Apps
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slugEN: facebook-business-extension-conversions-api-updates
+slugEN: 2022-07-27-facebook-business-extension-conversions-api-updates
 locale: en
 legacySlug: facebook-business-extension-conversions-api-updates
 announcementImageID: ''

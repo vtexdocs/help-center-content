@@ -8,7 +8,7 @@ publishedAt: 2022-06-17T15:03:32.167Z
 contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slugEN: mercado-libre-integration-new-promotion-management-interface
+slugEN: 2022-06-15-mercado-libre-integration-new-promotion-management-interface
 locale: pt
 legacySlug: integracao-com-o-mercado-livre-nova-interface-para-gerir-promocoes
 announcementImageID: ''

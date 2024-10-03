@@ -8,7 +8,7 @@ publishedAt: 2023-12-14T13:10:09.812Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slugEN: google-shopping-new-option-to-submit-prices
+slugEN: 2023-12-13-google-shopping-new-option-to-submit-prices
 locale: es
 legacySlug: google-shopping-nueva-opcion-de-envio-de-precios
 announcementImageID: ''

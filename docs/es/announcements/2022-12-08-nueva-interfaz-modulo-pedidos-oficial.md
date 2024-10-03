@@ -8,7 +8,7 @@ publishedAt: 2023-01-05T14:44:28.868Z
 contentType: updates
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: new-orders-module-interface-official
+slugEN: 2022-12-08-new-orders-module-interface-official
 locale: es
 legacySlug: la-nueva-interfaz-del-modulo-de-pedidos-sera-oficial
 announcementImageID: ''

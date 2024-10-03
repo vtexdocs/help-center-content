@@ -8,7 +8,7 @@ publishedAt: 2020-11-25T10:49:29.518Z
 contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slugEN: clustered-payment-conditions-customize-payment-options-for-b2b-customers
+slugEN: 2020-11-18-clustered-payment-conditions-customize-payment-options-for-b2b-customers
 locale: en
 legacySlug: clustered-payment-conditions-customize-payment-options-for-b2b-customers
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2022-01-03T15:38:03.027Z
 contentType: updates
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: new-orders-authorization-flow-for-native-connectors
+slugEN: 2021-12-28-new-orders-authorization-flow-for-native-connectors
 locale: es
 legacySlug: nuevo-flujo-de-autorizacion-de-pedidos-para-conectores-nativos
 announcementImageID: ''

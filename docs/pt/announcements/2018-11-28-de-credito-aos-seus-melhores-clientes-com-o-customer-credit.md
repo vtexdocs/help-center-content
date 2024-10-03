@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:19.913Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
-slugEN: offer-credit-to-your-best-customers-with-customer-credit
+slugEN: 2018-11-28-offer-credit-to-your-best-customers-with-customer-credit
 locale: pt
 legacySlug: de-credito-aos-seus-melhores-clientes-com-o-customer-credit
 announcementImageID: ''

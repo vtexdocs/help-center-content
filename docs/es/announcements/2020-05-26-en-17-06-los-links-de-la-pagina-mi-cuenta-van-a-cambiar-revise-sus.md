@@ -8,7 +8,7 @@ publishedAt: 2020-06-04T13:39:08.653Z
 contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: on-06-17-the-native-links-to-your-stores-my-account-page-will-change-review
+slugEN: 2020-05-26-on-06-17-the-native-links-to-your-stores-my-account-page-will-change-review
 locale: es
 legacySlug: en-17-06-los-links-de-la-pagina-mi-cuenta-van-a-cambiar-revise-sus
 announcementImageID: ''

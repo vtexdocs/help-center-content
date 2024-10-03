@@ -3,8 +3,8 @@ title: 'Promoção Regular'
 id: tutorials_327
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:59.690Z
-updatedAt: 2024-09-24T15:36:21.958Z
-publishedAt: 2024-09-24T15:36:21.958Z
+updatedAt: 2024-09-30T17:08:36.641Z
+publishedAt: 2024-09-30T17:08:36.641Z
 firstPublishedAt: 2017-04-27T23:03:15.647Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -46,7 +46,8 @@ Nesta seção, você deve configurar as informações gerais da sua promoção. 
   - **Frete percentual**: percentual de desconto que será concedido ao valor do frete. 
   - **Frete máximo**: valor máximo que o frete poderá assumir. 
   - **Frete grátis**: desconto total sobre o valor do frete.
-  - **Brinde**: desconto total sobre o valor do produto definido como brinde. Você pode selecionar um ou mais SKUs como brinde ou mais de uma unidade do mesmo SKU. Para definir mais de um brinde, selecione a opção **Ativar multiplicador de brindes** e defina a quantidade desejada. Saiba mais sobre essa opção neste [artigo](https://help.vtex.com/pt/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK#).
+  - **Brinde**: desconto total sobre o valor do produto definido como brinde. A quantidade máxima refere-se ao número de SKUs diferentes que o usuário pode selecionar. Por exemplo, se houver apenas 1 SKU disponível, o usuário poderá selecionar apenas uma unidade desse SKU, mesmo que a quantidade máxima seja superior a 1. Se houver 8 SKUs disponíveis e a quantidade máxima for 3, o usuário poderá escolher até 3 SKUs diferentes. Mesmo que a quantidade máxima permitida seja maior que o número de SKUs disponíveis, o usuário poderá selecionar apenas uma unidade de cada SKU. A flag [Ativar multiplicador de brindes](https://help.vtex.com/pt/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK) só funciona em promoções do tipo Compre e Ganhe. Em promoções regulares, embora a flag esteja disponível para seleção, ela não tem efeito no carrinho.
+
   >ℹ️ O produto Brinde também precisa ter um preço cadastrado, mesmo sendo oferecido gratuitamente ao cliente.
 
   - **Desconto nominal baseado em fórmula**: o desconto é calculado com base na fórmula que você pode criar usando como variáveis a soma dos preços de produtos, o frete e a quantidade de itens. Observe que o frete considerado pela fórmula será o menor disponível para o pedido, independentemente da seleção do cliente. O separador decimal deve ser sempre o ponto. Exemplo: se o desconto for 30% do valor total do produto + valor do frete, a fórmula deve ser `(total + freight) * 0.3`. Para obter mais informações sobre a fórmula, leia nossa [documentação](https://help.vtex.com/pt/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV).

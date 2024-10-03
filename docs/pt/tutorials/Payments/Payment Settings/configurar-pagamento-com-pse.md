@@ -3,8 +3,8 @@ title: 'Configurar pagamento com PSE'
 id: 7dRChubn7TqdEyWrHQEQp6
 status: PUBLISHED
 createdAt: 2022-05-18T17:13:25.207Z
-updatedAt: 2023-03-14T14:51:46.607Z
-publishedAt: 2023-03-14T14:51:46.607Z
+updatedAt: 2024-09-30T16:31:19.626Z
+publishedAt: 2024-09-30T16:31:19.626Z
 firstPublishedAt: 2023-03-14T14:51:46.607Z
 contentType: tutorial
 productTeam: Financial
@@ -56,3 +56,6 @@ Para habilitar o PSE em sua loja são necessárias as seguintes ações:
 8. Em **Processar com a afiliação**, escolha o conector que irá processar os pagamentos com o PSE. Somente estarão disponíveis para seleção os conectores que suportem este meio de pagamento.
 9. Se desejar, você também pode configurar [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
 10. Clique em `Salvar`.
+
+>ℹ️ Você também pode criar uma promoção regular que pode ser aplicada especificamente a pagamentos realizados por meio do PSE. Saiba mais em [Criar promoção para pagamentos com o PSE](https://help.vtex.com/pt/tutorial/criar-promocao-para-pagamentos-com-o-pse--6YIp1fJ76gq667PQWjuj5T).
+

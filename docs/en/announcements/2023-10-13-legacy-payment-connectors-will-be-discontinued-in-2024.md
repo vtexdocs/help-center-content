@@ -8,7 +8,7 @@ publishedAt: 2024-09-24T18:40:15.413Z
 contentType: updates
 productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
-slugEN: legacy-payment-connectors-will-be-discontinued-in-2024
+slugEN: 2023-10-13-legacy-payment-connectors-will-be-discontinued-in-2024
 locale: en
 legacySlug: legacy-payment-connectors-will-be-discontinued-in-2024
 announcementImageID: ''

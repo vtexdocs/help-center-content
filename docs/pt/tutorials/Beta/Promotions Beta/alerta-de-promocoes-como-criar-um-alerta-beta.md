@@ -3,8 +3,8 @@ title: 'Alerta de promoções: como criar um alerta (Beta)'
 id: 14nC51OlGoCSBLlBkZhkRR
 status: PUBLISHED
 createdAt: 2022-11-18T17:08:57.812Z
-updatedAt: 2023-03-30T17:20:58.855Z
-publishedAt: 2023-03-30T17:20:58.855Z
+updatedAt: 2024-09-27T14:06:11.570Z
+publishedAt: 2024-09-27T14:06:11.570Z
 firstPublishedAt: 2022-11-18T19:07:21.814Z
 contentType: tutorial
 productTeam: Channels
@@ -39,6 +39,8 @@ Confira as instruções a seguir para criar um novo alerta:
 7. Clique em `Salvar`.
 
 Ao concluir, o novo alerta de promoção terá sido criado com sucesso.
+
+>ℹ️ Ao configurar alertas para produtos com multiplicadores de unidade, como itens vendidos em frações (ex: 0,5 kg), é importante saber que o sistema pode sinalizar promoções incorretamente para esses produtos. Isso ocorre porque ele não consegue identificar com precisão o preço por grama ou outras frações de unidade. Por isso, recomendamos revisar os alertas com cuidado ao gerenciar itens pesáveis.
 
 ## Condições
 

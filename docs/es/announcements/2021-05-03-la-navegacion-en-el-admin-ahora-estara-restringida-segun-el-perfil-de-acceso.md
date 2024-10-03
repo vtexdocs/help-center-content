@@ -8,7 +8,7 @@ publishedAt: 2021-05-04T14:40:47.552Z
 contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: admin-navigation-will-now-be-restricted-by-user-role
+slugEN: 2021-05-03-admin-navigation-will-now-be-restricted-by-user-role
 locale: es
 legacySlug: la-navegacion-en-el-admin-ahora-estara-restringida-segun-el-perfil-de-acceso
 announcementImageID: ''

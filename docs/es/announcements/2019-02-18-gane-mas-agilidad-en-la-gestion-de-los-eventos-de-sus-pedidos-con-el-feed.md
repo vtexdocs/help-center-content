@@ -8,7 +8,7 @@ publishedAt: 2024-01-03T18:00:45.130Z
 contentType: updates
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
-slugEN: get-more-agility-managing-your-orders-events-with-feed-v3
+slugEN: 2019-02-18-get-more-agility-managing-your-orders-events-with-feed-v3
 locale: es
 legacySlug: gane-mas-agilidad-en-la-gestion-de-los-eventos-de-sus-pedidos-con-el-feed
 announcementImageID: ''

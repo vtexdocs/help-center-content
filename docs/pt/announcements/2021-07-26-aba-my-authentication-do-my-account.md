@@ -8,7 +8,7 @@ publishedAt: 2021-09-27T20:51:42.279Z
 contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
-slugEN: my-authentication-section-in-my-account
+slugEN: 2021-07-26-my-authentication-section-in-my-account
 locale: pt
 legacySlug: aba-my-authentication-do-my-account
 announcementImageID: ''

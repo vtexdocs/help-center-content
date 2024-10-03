@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:12:59.744Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 6AcGyun1hSWewU8YcaQiO
-slugEN: provide-your-customers-with-a-better-self-service-experience-with-the-new-my-account
+slugEN: 2019-04-12-provide-your-customers-with-a-better-self-service-experience-with-the-new-my-account
 locale: pt
 legacySlug: de-aos-seus-clientes-uma-nova-experiencia-de-auto-atendimento-com-o-novo-my-account
 announcementImageID: ''

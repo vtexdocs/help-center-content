@@ -8,7 +8,7 @@ publishedAt: 2021-03-22T20:31:43.835Z
 contentType: updates
 productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
-slugEN: ensure-more-safety-and-control-on-your-order-authorization-screen
+slugEN: 2019-06-06-ensure-more-safety-and-control-on-your-order-authorization-screen
 locale: pt
 legacySlug: garanta-mais-seguranca-e-controle-na-tela-de-autorizacao-de-pedidos
 announcementImageID: ''

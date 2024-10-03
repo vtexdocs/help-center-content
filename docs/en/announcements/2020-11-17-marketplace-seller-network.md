@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Apps
 author: vztwQkZv4z6EwDVwdqbsw
-slugEN: marketplace-seller-network
+slugEN: 2020-11-17-marketplace-seller-network
 locale: en
 legacySlug: marketplace-seller-network
 announcementImageID: ''

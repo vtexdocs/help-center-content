@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pago con Zenki'
 id: 6LK7wMg0OB39UQKoZILoNL
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-03-30T17:34:01.758Z
-updatedAt: 2024-01-25T18:50:47.590Z
-publishedAt: 2024-01-25T18:50:47.590Z
+updatedAt: 2024-10-03T16:17:56.963Z
+publishedAt: 
 firstPublishedAt: 2023-03-30T18:02:25.796Z
 contentType: tutorial
 productTeam: Financial

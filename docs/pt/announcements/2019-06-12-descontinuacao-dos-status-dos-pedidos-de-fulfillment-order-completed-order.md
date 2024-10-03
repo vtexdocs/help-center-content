@@ -8,7 +8,7 @@ publishedAt: 2020-04-02T16:45:58.231Z
 contentType: updates
 productTeam: Reliability
 author: 5DnIDwto7E6PRpdH1Kpdyu
-slugEN: discontinuation-of-order-completed-order-create-error-and-order-creation
+slugEN: 2019-06-12-discontinuation-of-order-completed-order-create-error-and-order-creation
 locale: pt
 legacySlug: descontinuacao-dos-status-dos-pedidos-de-fulfillment-order-completed-order
 announcementImageID: ''

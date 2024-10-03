@@ -8,7 +8,7 @@ publishedAt: 2022-04-07T21:30:14.659Z
 contentType: updates
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
-slugEN: new-ready-to-dispatch-functionality
+slugEN: 2022-02-14-new-ready-to-dispatch-functionality
 locale: en
 legacySlug: new-ready-to-dispatch-functionality
 announcementImageID: ''

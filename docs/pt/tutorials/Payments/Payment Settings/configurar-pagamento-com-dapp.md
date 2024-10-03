@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagamento com Dapp'
 id: 1p0FGViQcgCinPyi0GNXYM
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-09-08T17:59:03.453Z
-updatedAt: 2024-01-25T18:09:29.307Z
-publishedAt: 2024-01-25T18:09:29.307Z
+updatedAt: 2024-10-03T15:04:25.739Z
+publishedAt: 
 firstPublishedAt: 2023-09-08T18:08:01.746Z
 contentType: tutorial
 productTeam: Financial

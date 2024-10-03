@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:33.705Z
 contentType: updates
 productTeam: Channels
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slugEN: optimize-your-invoicing-with-the-new-b2w-deliveries-multiple-tags-resource
+slugEN: 2019-08-15-optimize-your-invoicing-with-the-new-b2w-deliveries-multiple-tags-resource
 locale: es
 legacySlug: optimiza-tu-sistema-de-facturacion-con-el-nuevo-recurso-de-multiples
 announcementImageID: ''

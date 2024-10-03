@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:56.666Z
 contentType: updates
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slugEN: now-you-can-activate-external-interest-in-payment-conditions
+slugEN: 2018-02-01-now-you-can-activate-external-interest-in-payment-conditions
 locale: es
 legacySlug: ahora-usted-puede-activar-intereses-externos-en-los-planes-de-pago
 announcementImageID: ''

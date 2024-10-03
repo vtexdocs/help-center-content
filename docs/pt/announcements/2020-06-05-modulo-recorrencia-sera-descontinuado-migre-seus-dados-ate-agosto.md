@@ -8,7 +8,7 @@ publishedAt: 2021-11-17T18:09:58.310Z
 contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: recurrences-module-will-be-discontinued-migrate-your-data-until-august
+slugEN: 2020-06-05-recurrences-module-will-be-discontinued-migrate-your-data-until-august
 locale: pt
 legacySlug: modulo-recorrencia-sera-descontinuado-migre-seus-dados-ate-agosto
 announcementImageID: ''

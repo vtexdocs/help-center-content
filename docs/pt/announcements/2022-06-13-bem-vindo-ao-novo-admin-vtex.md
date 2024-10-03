@@ -8,7 +8,7 @@ publishedAt: 2022-07-20T11:33:40.454Z
 contentType: updates
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
-slugEN: welcome-to-the-redesigned-vtex-admin
+slugEN: 2022-06-13-welcome-to-the-redesigned-vtex-admin
 locale: pt
 legacySlug: bem-vindo-ao-novo-admin-vtex
 announcementImageID: ''

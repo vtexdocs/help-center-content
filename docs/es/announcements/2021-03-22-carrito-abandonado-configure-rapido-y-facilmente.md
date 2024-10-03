@@ -8,7 +8,7 @@ publishedAt: 2022-10-11T14:34:02.803Z
 contentType: updates
 productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
-slugEN: abandoned-cart-app-configure-it-quickly-and-easily
+slugEN: 2021-03-22-abandoned-cart-app-configure-it-quickly-and-easily
 locale: es
 legacySlug: carrito-abandonado-configure-rapido-y-facilmente
 announcementImageID: ''

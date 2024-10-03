@@ -8,7 +8,7 @@ publishedAt: 2024-05-22T20:16:57.592Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slugEN: google-catalog-migration
+slugEN: 2024-05-22-google-catalog-migration
 locale: es
 legacySlug: migracion-del-catalogo-google
 announcementImageID: ''

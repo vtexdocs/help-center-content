@@ -8,7 +8,7 @@ publishedAt: 2023-11-17T19:45:14.488Z
 contentType: updates
 productTeam: Others
 author: 1u80f14cWqneWquMc8tUq1
-slugEN: shopping-season-get-your-store-ready-with-our-best-practices-guide-2023
+slugEN: 2023-10-03-shopping-season-get-your-store-ready-with-our-best-practices-guide-2023
 locale: pt
 legacySlug: 
 announcementImageID: ''

@@ -8,7 +8,7 @@ publishedAt: 2020-02-19T20:50:19.014Z
 contentType: updates
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
-slugEN: receive-payments-with-bitcoin-in-your-store
+slugEN: 2018-05-02-receive-payments-with-bitcoin-in-your-store
 locale: pt
 legacySlug: receba-pagamentos-com-bitcoin-na-sua-loja
 announcementImageID: ''

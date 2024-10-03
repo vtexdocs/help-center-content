@@ -3,8 +3,8 @@ title: 'Promoción Regular'
 id: tutorials_327
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:59.690Z
-updatedAt: 2024-09-24T15:36:21.958Z
-publishedAt: 2024-09-24T15:36:21.958Z
+updatedAt: 2024-09-30T17:08:36.641Z
+publishedAt: 2024-09-30T17:08:36.641Z
 firstPublishedAt: 2017-04-27T23:03:15.647Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -46,7 +46,8 @@ En esta sección, debe configurar los datos generales de la promoción. Los camp
   - **Carga porcentual**: porcentaje de descuento que se concederá al valor del flete.
   - **Envío máximo**: es el valor máximo establecido para el flete. 
   - **Flete gratis**: es el descuento total sobre el valor del flete.
-  - **Regalo**: es el descuento total sobre el valor del producto definido como regalo. Puede seleccionar uno o más SKU como regalos, o más de una unidad para el mismo SKU. Para definir más de un regalo, escoja la opción **Activar multiplicador de regalo** y defina la cantidad deseada. Lea más sobre esta opción en este [artículo](https://help.vtex.com/es/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK#).
+  - **Regalo**: es el descuento total sobre el valor del producto definido como regalo. La cantidad máxima se refiere al número de SKUs diferentes que el usuario puede seleccionar. Por ejemplo, si solo hay 1 SKU disponible, el usuario solo podrá seleccionar una unidad de ese SKU, incluso si la cantidad máxima es mayor que 1. Si hay 8 SKUs disponibles y la cantidad máxima es 3, el usuario puede elegir hasta 3 SKUs diferentes. Incluso si la cantidad máxima permitida es mayor que el número de SKUs disponibles, el usuario solo podrá seleccionar una unidad de cada SKU. La bandera [Activar multiplicador de regalos](https://help.vtex.com/es/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK) solo funciona en promociones del tipo Compra y Gana. En promociones regulares, la bandera aparece disponible para selección, pero no tiene efecto en el carrito.
+
 >ℹ️ El producto de regalo también debe tener un precio registrado aunque se dé al cliente de forma gratuita.
   - **Descuento nominal basado en la fórmula**: el descuento se calcula en base a la fórmula que puede crear utilizando como variables la suma de los precios de los productos (`total`), el flete (`freight`) y la cantidad de artículos (`quantity`). Tenga en cuenta que el flete considerado por la fórmula será el más bajo disponible para el pedido, independientemente de la selección del cliente. El separador decimal debe ser siempre un punto. Ejemplo: si el descuento es del 30% del valor total del producto + el valor del flete, la fórmula debe ser `(total + flete) * 0,3`. Para más información sobre la fórmula, lea nuestra [documentación](https://help.vtex.com/es/tutorial/promocion-regular-con-descuento-nominal-basado-en-la-formula--2Pwrq6THyGViNedQG381jV).
   - **Valor de fidelidad nominal:** es el crédito que será añadido al programa de fidelidad de la tienda. Lea [Promoción regular con valor de fidelidad](https://help.vtex.com/es/tutorial/promocion-regular-con-valor-de-fidelidad--3FCip23ZtvG0sDt0rVGVmR) para más información.

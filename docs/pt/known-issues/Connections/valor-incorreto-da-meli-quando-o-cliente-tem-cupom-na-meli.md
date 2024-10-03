@@ -3,8 +3,8 @@ title: 'Valor incorreto da MELI quando o cliente tem cupom na MELI'
 id: 3PvNKqG2BMZDBLLVuriIHy
 status: PUBLISHED
 createdAt: 2024-01-22T11:58:00.747Z
-updatedAt: 2024-01-22T11:58:01.431Z
-publishedAt: 2024-01-22T11:58:01.431Z
+updatedAt: 2024-10-01T12:14:48.088Z
+publishedAt: 2024-10-01T12:14:48.088Z
 firstPublishedAt: 2024-01-22T11:58:01.431Z
 contentType: knownIssue
 productTeam: Connections
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: meli-incorrect-value-when-client-has-coupon-on-meli
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 969297
 ---
 
@@ -28,7 +28,9 @@ Atualmente, o cliente usou um cupom no MELI, há uma variedade de tipos de cupom
 
 
 
-Na VTEX OMS, o valor da ordem pode ser diferente do que a MELI vendeu ao cliente, devido a alguns tipos de cupons que não estão sendo considerados durante a criação da ordem na VTEX
+Na VTEX OMS, o valor da ordem pode ser diferente do que a MELI vendeu ao cliente, devido a alguns tipos de cupons que não estão sendo considerados durante a criação da ordem na VTEX.
+
+
 
 ## Workaround
 
