@@ -695,6 +695,7 @@ ${textPT}
     fileNameEN = createdAt.split("T")[0] + "-" + fileNameEN;
     fileNamePT = createdAt.split("T")[0] + "-" + fileNamePT;
     fileNameES = createdAt.split("T")[0] + "-" + fileNameES;
+    datedSlugEN = createdAt.split("T")[0] + "-" + slugEN;
     fileContentEN = `---
 title: ${titleEN.includes("'") ? `"${titleEN}"` : `'${titleEN}'`}
 id: ${entryId}
@@ -705,7 +706,7 @@ publishedAt: ${publishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
-slugEN: ${slugEN}
+slugEN: ${datedSlugEN}
 locale: en
 legacySlug: ${legacySlugEN}
 announcementImageID: '${announcementImageID}'
@@ -724,7 +725,7 @@ publishedAt: ${publishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
-slugEN: ${slugEN}
+slugEN: ${datedSlugEN}
 locale: es
 legacySlug: ${legacySlugES}
 announcementImageID: '${announcementImageID}'
@@ -743,7 +744,7 @@ publishedAt: ${publishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
-slugEN: ${slugEN}
+slugEN: ${datedSlugEN}
 locale: pt
 legacySlug: ${legacySlugPT}
 announcementImageID: '${announcementImageID}'
