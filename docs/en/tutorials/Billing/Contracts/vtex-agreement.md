@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:07:46.230Z
 contentType: tutorial
 productTeam: Billing
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: vtex-agreement
+slugEN: vtex-agreement
 locale: en
 legacySlug: why-didnt-i-receive-the-signed-contract-from-vtex
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC

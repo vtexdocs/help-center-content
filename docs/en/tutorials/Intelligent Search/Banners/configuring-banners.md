@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-27T16:33:39.573Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: configuring-banners
+slugEN: configuring-banners
 locale: en
 legacySlug: configuring-banners
 subcategoryId: z6qcw06Z38YDu1fOcu9Jn
@@ -58,7 +58,7 @@ To add a banner, the following fields need to be completed:
 
 Click <i class="fas-solid fa-link"></i> `Autofill from URL` to add the URL of the search page to the trigger rules that will be applied.
 
-![banner-url-en](https://images.ctfassets.net/alneenqid6w5/2ldGnmahkPao4EbISls3gu/326bfe62f7a49e6f1bd34c7cbe5f6b6a/image.png)
+![banner-url-en](//images.ctfassets.net/alneenqid6w5/2ldGnmahkPao4EbISls3gu/326bfe62f7a49e6f1bd34c7cbe5f6b6a/image.png)
 
 Click <i class="fas fa-plus"></i> `Add condition` to create a rule. Rules can be of two types:
 

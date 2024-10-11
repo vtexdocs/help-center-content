@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:05:56.560Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_84
-slug: how-can-i-export-my-customer-base
+slugEN: how-can-i-export-my-customer-base
 locale: en
 legacySlug: how-can-i-export-my-customer-base
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T16:36:24.257Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-a-credit-card-brand
+slugEN: what-is-a-credit-card-brand
 locale: en
 legacySlug: what-is-a-credit-card-brand
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

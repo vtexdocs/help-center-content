@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: inference-invoice-system-is-not-working-properly-when-there-are-same-skuid-in-different-array-items
+slugEN: inference-invoice-system-is-not-working-properly-when-there-are-same-skuid-in-different-array-items
 locale: en
 kiStatus: Backlog
 internalReference: 1008459

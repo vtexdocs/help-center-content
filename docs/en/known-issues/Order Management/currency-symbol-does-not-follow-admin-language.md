@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: currency-symbol-does-not-follow-admin-language
+slugEN: currency-symbol-does-not-follow-admin-language
 locale: en
 kiStatus: Backlog
 internalReference: 1000915

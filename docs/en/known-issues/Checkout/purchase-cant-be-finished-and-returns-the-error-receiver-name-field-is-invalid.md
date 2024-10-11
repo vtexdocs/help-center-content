@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: purchase-cant-be-finished-and-returns-the-error-receiver-name-field-is-invalid
+slugEN: purchase-cant-be-finished-and-returns-the-error-receiver-name-field-is-invalid
 locale: en
 kiStatus: Fixed
 internalReference: 313945

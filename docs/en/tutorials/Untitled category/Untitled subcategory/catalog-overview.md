@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-07T13:44:12.589Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l3eEiSz8MpcppCxcnijGz
-slug: catalog-overview
+slugEN: catalog-overview
 locale: en
 legacySlug: catalog-overview
 subcategoryId: unknown-subcategory
@@ -25,7 +25,7 @@ Category is the second categorization level of your store, under [Departments](h
 
 The **Categories** page allows you to view and manage your store's category trees, as illustrated below.
 
-![Catalog structure](https://images.ctfassets.net/alneenqid6w5/6x2Nbxv5BvPZ9XW2Q4pTHa/1716c9232b7a09d5477021ac875fe690/image4.png)
+![Catalog structure](//images.ctfassets.net/alneenqid6w5/6x2Nbxv5BvPZ9XW2Q4pTHa/1716c9232b7a09d5477021ac875fe690/image4.png)
 
 Learn how to add a category in the tutorial [Registering a category](https://help.vtex.com/en/tutorial/registering-a-category--tutorials_206). If you want to change or disable a category, follow the steps in the tutorial [Disabling and reorganizing categories](https://help.vtex.com/en/tutorial/disabling-and-reorganizing-categories--tutorials_264).
 

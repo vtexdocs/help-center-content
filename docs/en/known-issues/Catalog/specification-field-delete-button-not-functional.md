@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: specification-field-delete-button-not-functional
+slugEN: specification-field-delete-button-not-functional
 locale: en
 kiStatus: Backlog
 internalReference: 328943

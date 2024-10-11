@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-16T14:58:34.694Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: license-manager-resources-audit
+slugEN: license-manager-resources-audit
 locale: en
 legacySlug: 
 subcategoryId: 1HSqkejwuYcQSMC400uY84

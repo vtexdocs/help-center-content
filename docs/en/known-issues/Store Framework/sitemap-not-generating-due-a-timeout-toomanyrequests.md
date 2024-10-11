@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: sitemap-not-generating-due-a-timeout-toomanyrequests
+slugEN: sitemap-not-generating-due-a-timeout-toomanyrequests
 locale: en
 kiStatus: Backlog
 internalReference: 1077009

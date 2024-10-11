@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: shipping-step-may-display-an-unavailability-message-while-the-shipping-options-are-being-calculated
+slugEN: shipping-step-may-display-an-unavailability-message-while-the-shipping-options-are-being-calculated
 locale: en
 kiStatus: Backlog
 internalReference: 650038

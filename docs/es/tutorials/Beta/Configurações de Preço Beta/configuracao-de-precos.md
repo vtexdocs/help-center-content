@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: configuracao-de-precos
+slugEN: configuracao-de-precos
 locale: es
 legacySlug: configuracao-de-precos
 subcategoryId: 4ZBiXqnPntLbsijZ0djFcD

@@ -8,7 +8,7 @@ publishedAt: 2022-02-02T20:54:32.209Z
 firstPublishedAt: 2018-09-27T22:40:49.064Z
 contentType: trackArticle
 productTeam: Channels
-slug: apis-registration
+slugEN: apis-registration
 locale: en
 trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugEN: b2w-integration-set-up

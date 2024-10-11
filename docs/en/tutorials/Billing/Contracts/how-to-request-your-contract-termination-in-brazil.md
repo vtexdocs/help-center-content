@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:59:21.624Z
 contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: how-to-request-your-contract-termination-in-brazil
+slugEN: how-to-request-your-contract-termination-in-brazil
 locale: en
 legacySlug: how-to-request-your-contractual-termination-brazil
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC

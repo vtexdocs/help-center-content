@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: shipping-policy-not-prioritized-due-reason-dismissed-as-a-matter-of-priority-even-with-better-cost
+slugEN: shipping-policy-not-prioritized-due-reason-dismissed-as-a-matter-of-priority-even-with-better-cost
 locale: en
 kiStatus: Backlog
 internalReference: 379685

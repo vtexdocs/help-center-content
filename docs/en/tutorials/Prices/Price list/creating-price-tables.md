@@ -9,7 +9,7 @@ firstPublishedAt: 2018-12-02T21:36:28.350Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
-slug: creating-price-tables
+slugEN: creating-price-tables
 locale: en
 legacySlug: creating-price-tables
 subcategoryId: 4id9W3RDyw02CasOm2C2iy

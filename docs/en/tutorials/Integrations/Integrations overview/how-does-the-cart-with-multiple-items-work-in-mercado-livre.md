@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:08:07.847Z
 contentType: tutorial
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
-slug: how-does-the-cart-with-multiple-items-work-in-mercado-livre
+slugEN: how-does-the-cart-with-multiple-items-work-in-mercado-livre
 locale: en
 legacySlug: how-does-the-cart-with-multiple-items-work-in-mercado-livre
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq

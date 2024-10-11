@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: unknown
 author: 
-slug: freely-develop-custom-storefront-components-in-vtex-io
+slugEN: 2021-03-11-freely-develop-custom-storefront-components-in-vtex-io
 locale: en
 legacySlug: freely-develop-custom-storefront-components-in-vtex-io
 announcementImageID: ''

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: order-with-interest-has-problems-when-trying-to-return-all-the-items-and-refund-the-total-payment
+slugEN: order-with-interest-has-problems-when-trying-to-return-all-the-items-and-refund-the-total-payment
 locale: en
 kiStatus: Backlog
 internalReference: 376077

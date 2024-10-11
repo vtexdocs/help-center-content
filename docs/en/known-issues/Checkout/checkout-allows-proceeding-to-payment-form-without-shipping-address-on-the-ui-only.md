@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-allows-proceeding-to-payment-form-without-shipping-address-on-the-ui-only
+slugEN: checkout-allows-proceeding-to-payment-form-without-shipping-address-on-the-ui-only
 locale: en
 kiStatus: No Fix
 internalReference: 699317

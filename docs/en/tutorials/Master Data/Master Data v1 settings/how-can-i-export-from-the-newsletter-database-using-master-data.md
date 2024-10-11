@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:00:56.109Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_84
-slug: how-can-i-export-from-the-newsletter-database-using-master-data
+slugEN: how-can-i-export-from-the-newsletter-database-using-master-data
 locale: en
 legacySlug: how-can-i-export-from-the-newsletter-database-using-master-data
 subcategoryId: WpbGhubuRZaNZilJSXnqu

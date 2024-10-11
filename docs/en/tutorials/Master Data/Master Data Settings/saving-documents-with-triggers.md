@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-03T19:45:36.448Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_64
-slug: saving-documents-with-triggers
+slugEN: saving-documents-with-triggers
 locale: en
 legacySlug: saving-documents-with-triggers
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

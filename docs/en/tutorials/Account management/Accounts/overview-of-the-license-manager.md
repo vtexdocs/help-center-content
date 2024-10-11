@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:27.977Z
 contentType: tutorial
 productTeam: Identity
 author: authors_84
-slug: overview-of-the-license-manager
+slugEN: overview-of-the-license-manager
 locale: en
 legacySlug: overview-of-the-license-manager
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma

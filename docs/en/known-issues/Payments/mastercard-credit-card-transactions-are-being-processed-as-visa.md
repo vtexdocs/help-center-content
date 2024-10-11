@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: mastercard-credit-card-transactions-are-being-processed-as-visa
+slugEN: mastercard-credit-card-transactions-are-being-processed-as-visa
 locale: en
 kiStatus: Backlog
 internalReference: 1026263

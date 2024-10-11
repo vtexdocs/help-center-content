@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: customer-information-being-lost-when-it-has-some-order-with-profileerroronloading
+slugEN: customer-information-being-lost-when-it-has-some-order-with-profileerroronloading
 locale: en
 kiStatus: Backlog
 internalReference: 340036

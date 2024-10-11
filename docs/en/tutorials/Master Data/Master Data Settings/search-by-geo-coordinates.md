@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-27T14:20:45.626Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_64
-slug: search-by-geo-coordinates
+slugEN: search-by-geo-coordinates
 locale: en
 legacySlug: search-by-geo-coordinates
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

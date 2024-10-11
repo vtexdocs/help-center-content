@@ -9,7 +9,7 @@ firstPublishedAt: 2023-10-03T21:26:29.611Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: seller-portal-promotions
+slugEN: seller-portal-promotions
 locale: en
 legacySlug: seller-portal-promotions
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
@@ -75,7 +75,7 @@ To view the number of active promotions in your store and the remaining quota fo
 
 By default, the maximum number of active promotions is 100. If you need to increase this limit, please contact [our Support](https://support.vtex.com/hc/en-us/requests) team.
 
- ![seller-portal-promo-ativas-en](https://images.ctfassets.net/alneenqid6w5/3tnyz6u3HxC6Qjezn9PvLr/6e62fdd0fa7a104df792d27d8a4496e1/image.png)
+ ![seller-portal-promo-ativas-en](//images.ctfassets.net/alneenqid6w5/3tnyz6u3HxC6Qjezn9PvLr/6e62fdd0fa7a104df792d27d8a4496e1/image.png)
 
 ## Accessing the promotion action menu
 

@@ -9,7 +9,7 @@ firstPublishedAt: 2021-09-03T12:55:40.215Z
 contentType: tutorial
 productTeam: Identity
 author: 1DedyaVUPp5wLAvjY7wKKv
-slug: enabling-pwa-push-notifications-in-your-store
+slugEN: enabling-pwa-push-notifications-in-your-store
 locale: en
 legacySlug: enabling-pwa-push-notifications-in-your-store
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc

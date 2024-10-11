@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-pipeline-doesnt-update-taxes-considering-the-correct-seller-when-merging-cart-information
+slugEN: checkout-pipeline-doesnt-update-taxes-considering-the-correct-seller-when-merging-cart-information
 locale: en
 kiStatus: Backlog
 internalReference: 759842

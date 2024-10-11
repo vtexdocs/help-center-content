@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-01T21:30:00.544Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-todo-pago
+slugEN: setting-up-payments-with-todo-pago
 locale: en
 legacySlug: setting-up-payments-with-todo-pago
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: inconsistency-in-the-quantity-of-items-with-assembly-options-in-the-cart
+slugEN: inconsistency-in-the-quantity-of-items-with-assembly-options-in-the-cart
 locale: en
 kiStatus: Backlog
 internalReference: 
@@ -28,7 +28,7 @@ In products with assembly options customization, a parent item has components, w
 3. Select the child item of the product, in the same quantity;
 4. Check the items in the cart.
 
-![KI assembly](https://images.ctfassets.net/alneenqid6w5/1xmOq4gUrxUjJLMMox7WQj/2296bfc12736ff882e99f2bf70645470/KI_assembly.png)
+![KI assembly](//images.ctfassets.net/alneenqid6w5/1xmOq4gUrxUjJLMMox7WQj/2296bfc12736ff882e99f2bf70645470/KI_assembly.png)
 
 Notice that the cart contains one more unit of the child item relative to the parent item.
 

@@ -9,7 +9,7 @@ firstPublishedAt: 2020-11-18T21:03:41.790Z
 contentType: tutorial
 productTeam: Financial
 author: 6MG4UmqXWpy4nggXB7KIai
-slug: pix-faq
+slugEN: pix-faq
 locale: pt
 legacySlug: pix-faq
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
@@ -66,7 +66,7 @@ Quando o usuário clicar no Pix, um QR Code que comporta as informações da com
 
 ![Checkout_Pix](https://images.ctfassets.net/alneenqid6w5/8wd0gOpf8bsODhLIgZWSS/c57d465dca70e9362f3a3f9a485ae9ac/Checkout_Pix.png)
 
-![QRCode_Pix](https://images.ctfassets.net/alneenqid6w5/5aHNT7dd5nIXellY6L7Y74/97796620983d212cc6f063860df6734f/QRCode_Pix.png)
+![QRCode_Pix](//images.ctfassets.net/alneenqid6w5/5aHNT7dd5nIXellY6L7Y74/97796620983d212cc6f063860df6734f/QRCode_Pix.png)
 
 ### É possível dividir um pagamento entre Pix e outra forma de pagamento?
 

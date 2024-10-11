@@ -9,7 +9,7 @@ firstPublishedAt: 2024-08-12T11:35:39.422Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-malga
+slugEN: setting-up-payments-with-malga
 locale: en
 legacySlug: setting-up-payments-with-malga
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

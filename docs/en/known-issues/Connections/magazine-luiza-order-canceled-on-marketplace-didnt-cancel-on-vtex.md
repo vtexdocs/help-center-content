@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: magazine-luiza-order-canceled-on-marketplace-didnt-cancel-on-vtex
+slugEN: magazine-luiza-order-canceled-on-marketplace-didnt-cancel-on-vtex
 locale: en
 kiStatus: Backlog
 internalReference: 792618

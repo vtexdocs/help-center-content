@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-22T19:36:22.375Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: shipping-rate-template
+slugEN: shipping-rate-template
 locale: en
 legacySlug: building-a-freight-spreadsheet, importing-the-shipping-spreadsheet
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
@@ -188,7 +188,7 @@ Follow the steps below:
 4. In both cases, download the spreadsheet and [complete its fields](#fill-in-the-fields-in-the-spreadsheet). Then, upload the file in the **Upload shipping rates** section, as illustrated in the image below.
 5. After completing these steps, click on `Save changes`.
 
-![upload tarifas envioEN](https://images.ctfassets.net/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/38cfc78b89a4e0e68bfec882af0ea9f4/upload_tarifas_envioEN.png)
+![upload tarifas envioEN](//images.ctfassets.net/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/38cfc78b89a4e0e68bfec882af0ea9f4/upload_tarifas_envioEN.png)
 
 >⚠️ For **new** shipping policies, other steps are required. Check out the article [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) for more information.
 

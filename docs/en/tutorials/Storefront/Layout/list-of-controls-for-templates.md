@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:39.646Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: list-of-controls-for-templates
+slugEN: list-of-controls-for-templates
 locale: en
 legacySlug: list-of-controls-for-templates
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: unknown
 author: 127RQ7SUoFfyTh5gbXUpdM
-slug: testse
+slugEN: testse
 locale: en
 legacySlug: testse
 subcategoryId: unknown-subcategory

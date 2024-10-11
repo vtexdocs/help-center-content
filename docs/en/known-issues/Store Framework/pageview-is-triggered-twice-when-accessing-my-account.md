@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: pageview-is-triggered-twice-when-accessing-my-account
+slugEN: pageview-is-triggered-twice-when-accessing-my-account
 locale: en
 kiStatus: Backlog
 internalReference: 854480

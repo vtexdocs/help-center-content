@@ -8,7 +8,7 @@ publishedAt: 2021-06-28T18:32:07.650Z
 contentType: updates
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slug: lendico-installment-loans-expand-your-payment-options
+slugEN: 2021-01-06-lendico-installment-loans-expand-your-payment-options
 locale: en
 legacySlug: lendico-boleto-installments-expand-your-payment-options-with-this-brand-new
 announcementImageID: ''

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T23:06:21.883Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: linking-your-development-app
+slugEN: linking-your-development-app
 locale: en
 legacySlug: linking-your-development-app
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

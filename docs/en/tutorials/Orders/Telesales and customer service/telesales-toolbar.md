@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:19.311Z
 contentType: tutorial
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
-slug: telesales-toolbar
+slugEN: telesales-toolbar
 locale: en
 legacySlug: using-and-customizing-the-callcenter-toolbar
 subcategoryId: 6SEjoixhY5LlA7G15W6oZS

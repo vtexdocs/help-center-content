@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: total-reservation-item-with-negative-value-in-inventory-ui
+slugEN: total-reservation-item-with-negative-value-in-inventory-ui
 locale: en
 kiStatus: Backlog
 internalReference: 991735

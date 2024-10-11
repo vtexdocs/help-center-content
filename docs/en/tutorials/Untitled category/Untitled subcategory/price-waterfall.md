@@ -9,7 +9,7 @@ firstPublishedAt: 2018-06-20T22:08:14.680Z
 contentType: tutorial
 productTeam: Others
 author: 7kumplNTMIsWYGeeegCqO8
-slug: price-waterfall
+slugEN: price-waterfall
 locale: en
 legacySlug: price-waterfall
 subcategoryId: unknown-subcategory

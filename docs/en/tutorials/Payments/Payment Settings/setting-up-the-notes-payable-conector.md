@@ -9,7 +9,7 @@ firstPublishedAt: 2018-06-22T19:10:55.195Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-the-notes-payable-conector
+slugEN: setting-up-the-notes-payable-conector
 locale: en
 legacySlug: setting-up-the-notes-payable-conector
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

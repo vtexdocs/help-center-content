@@ -9,7 +9,7 @@ firstPublishedAt: 2024-08-16T18:52:24.803Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: my-stores-order-still-has-the-status-verifying-invoice
+slugEN: my-stores-order-still-has-the-status-verifying-invoice
 locale: en
 legacySlug: my-stores-order-still-has-the-status-verifying-invoice
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB

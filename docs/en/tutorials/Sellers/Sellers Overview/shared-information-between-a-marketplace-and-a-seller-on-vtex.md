@@ -9,7 +9,7 @@ firstPublishedAt: 2022-04-07T14:23:25.578Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: shared-information-between-a-marketplace-and-a-seller-on-vtex
+slugEN: shared-information-between-a-marketplace-and-a-seller-on-vtex
 locale: en
 legacySlug: shared-information-between-a-marketplace-and-a-seller-on-vtex
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm

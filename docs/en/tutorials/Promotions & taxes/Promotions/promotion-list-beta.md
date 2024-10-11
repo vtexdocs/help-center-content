@@ -9,7 +9,7 @@ firstPublishedAt: 2022-05-05T13:52:17.590Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: promotion-list-beta
+slugEN: promotion-list-beta
 locale: en
 legacySlug: promotions-list-beta
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
@@ -82,7 +82,7 @@ The file contains the following information about each promotion:
 
 ## Promotion usage
 
-![usodaspromoções en](https://images.ctfassets.net/alneenqid6w5/5cvRZbj2TqwHuQcx6jjqm4/d94a8916fcd88257d83f8c8edd0a0dbf/usodaspromo____es_en.JPG)
+![usodaspromoções en](//images.ctfassets.net/alneenqid6w5/5cvRZbj2TqwHuQcx6jjqm4/d94a8916fcd88257d83f8c8edd0a0dbf/usodaspromo____es_en.JPG)
 
 To view the total of your active promotions and the remaining quota for new promotions, click `Promotion usage`. 
 
@@ -90,7 +90,7 @@ By default, the maximum number of active promotions is 100. If you need to incre
 
 ## Filter promotions
 
-![filtrodepromocoes en](https://images.ctfassets.net/alneenqid6w5/5ejpdUDVPbixeLp6nmDB1q/d637dba80b4cbda6194cae7cbf630785/filtrodepromocoes_en.gif)
+![filtrodepromocoes en](//images.ctfassets.net/alneenqid6w5/5ejpdUDVPbixeLp6nmDB1q/d637dba80b4cbda6194cae7cbf630785/filtrodepromocoes_en.gif)
 
 The promotion list can be filtered according to your needs by using the following filters:
 

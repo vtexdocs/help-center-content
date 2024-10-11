@@ -9,7 +9,7 @@ firstPublishedAt: 2018-06-12T23:36:33.096Z
 contentType: tutorial
 productTeam: Others
 author: 5dYWGfGKUwkI86Gomk6AcQ
-slug: app-pricing-options
+slugEN: app-pricing-options
 locale: en
 legacySlug: app-pricing-options
 subcategoryId: 3e2VLdLao8GGk4sAmMmwmi

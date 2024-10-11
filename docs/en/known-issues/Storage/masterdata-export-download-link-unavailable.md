@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: masterdata-export-download-link-unavailable
+slugEN: masterdata-export-download-link-unavailable
 locale: en
 kiStatus: Backlog
 internalReference: 613864

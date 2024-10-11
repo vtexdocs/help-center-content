@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Post-purchase
 author: 
-slug: master-data-allows-searches-using-geo-coordinates
+slugEN: 2018-05-03-master-data-allows-searches-using-geo-coordinates
 locale: en
 legacySlug: 
 announcementImageID: ''

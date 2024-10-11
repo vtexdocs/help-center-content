@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: faststore-v1-dont-return-seo-information-on-graphql-query
+slugEN: faststore-v1-dont-return-seo-information-on-graphql-query
 locale: en
 kiStatus: No Fix
 internalReference: 929029

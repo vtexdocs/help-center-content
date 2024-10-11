@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:25.730Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: how-to-configure-the-anti-fraud
+slugEN: how-to-configure-the-anti-fraud
 locale: en
 legacySlug: how-to-configure-the-anti-fraud
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

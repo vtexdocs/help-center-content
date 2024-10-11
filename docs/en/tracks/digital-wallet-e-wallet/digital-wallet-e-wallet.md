@@ -8,7 +8,7 @@ publishedAt: 2024-08-06T18:38:03.613Z
 firstPublishedAt: 2023-06-27T21:47:02.764Z
 contentType: trackArticle
 productTeam: Shopping
-slug: digital-wallet-e-wallet
+slugEN: digital-wallet-e-wallet
 locale: en
 trackId: 6X8YyZBoVJpz5R8oXciTyu
 trackSlugEN: digital-wallet-e-wallet

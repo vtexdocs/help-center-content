@@ -8,7 +8,7 @@ publishedAt: 2020-04-02T16:44:45.173Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: promotions-segmentation-by-country
+slugEN: 2020-02-20-promotions-segmentation-by-country
 locale: en
 legacySlug: promotions-segmentation-by-country
 announcementImageID: ''

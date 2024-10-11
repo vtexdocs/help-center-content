@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-30T19:33:55.811Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 62vZqGGY3y5ptmG8gYo2r9
-slug: improvements-in-the-checkout-api-part-1
+slugEN: improvements-in-the-checkout-api-part-1
 locale: en
 legacySlug: which-parts-of-the-checkout-api-can-be-replaced-in-the-next-version
 ---

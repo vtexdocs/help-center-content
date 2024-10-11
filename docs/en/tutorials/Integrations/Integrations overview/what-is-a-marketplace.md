@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:10:17.566Z
 contentType: tutorial
 productTeam: Channels
 author: authors_59
-slug: what-is-a-marketplace
+slugEN: what-is-a-marketplace
 locale: en
 legacySlug: what-is-a-marketplace
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq

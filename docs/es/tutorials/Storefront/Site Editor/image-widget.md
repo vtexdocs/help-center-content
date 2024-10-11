@@ -9,7 +9,7 @@ firstPublishedAt: 2021-07-02T21:20:16.653Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slug: image-widget
+slugEN: image-widget
 locale: es
 legacySlug: image-widget
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3

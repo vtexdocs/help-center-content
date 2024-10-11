@@ -9,7 +9,7 @@ firstPublishedAt: 2019-03-13T18:09:17.724Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: what-is-url-mapping-301-redirect
+slugEN: what-is-url-mapping-301-redirect
 locale: en
 legacySlug: what-is-url-mapping-301-redirect
 ---
@@ -24,7 +24,7 @@ URL mapping is recorded in the Portal Manager. In the “E-Commerce” module, g
 
 In the Portal Management, go to “Mapeamento de Urls”:
 
-![](https://images.contentful.com/alneenqid6w5/5xi3Mase2skUgcI0cU2e28/8459c10133f623d74d55d7c28075b408/mapeamento2.png)
+![](//images.contentful.com/alneenqid6w5/5xi3Mase2skUgcI0cU2e28/8459c10133f623d74d55d7c28075b408/mapeamento2.png)
 
 There are two ways to Add/Change a URL Mapping:
 1. Manually

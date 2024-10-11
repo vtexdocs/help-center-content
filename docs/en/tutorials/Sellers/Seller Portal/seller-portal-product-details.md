@@ -9,7 +9,7 @@ firstPublishedAt: 2021-09-15T20:53:14.476Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: seller-portal-product-details
+slugEN: seller-portal-product-details
 locale: en
 legacySlug: seller-portal-product-details
 subcategoryId: 4hisB47iAVZk4r3SEmMoG

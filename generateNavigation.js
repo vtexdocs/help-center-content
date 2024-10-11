@@ -1,10 +1,11 @@
 const contentful = require("contentful-management");
+const fs = require("fs");
+const path = require("path");
+require("dotenv").config();
 
 const client = contentful.createClient({
-  accessToken: "INSERT TOKEN HERE",
+  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
 });
-
-const fs = require("fs");
 
 const tutorialCategories = [];
 const tutorialSubcategories = {};
@@ -13,8 +14,6 @@ const tutorialEndpoints = {};
 const trackTopics = [];
 const tracks = {};
 const trackArticles = {};
-
-const news = [];
 
 const errorDocs = {
   docs: []
@@ -33,9 +32,19 @@ const navigation = { navbar: [
   },
   {
     documentation: 'News',
-    slugPrefix: 'updates/announcements',
+    slugPrefix: 'announcements',
     categories: []
   },
+  {
+    documentation: 'FAQs',
+    slugPrefix: 'faq',
+    categories: []
+  },
+  {
+    documentation: 'Known Issues',
+    slugPrefix: 'known-issues',
+    categories: []
+  }
 ] };
 
 function getTutorialEndpoints(endpointIds) {
@@ -126,11 +135,7 @@ function getTrackTopics() {
 }
 
 function getNews() {
-  news.sort((a, b) => b.year - a.year);
-  news.forEach((yearCategory) => {
-    yearCategory.children.sort((a, b) => b.publishedAt - a.publishedAt)
-  });
-  const newsCategories = [];
+
   const months = [
     { en: 'January', es: 'Enero', pt: 'Janeiro' },
     { en: 'February', es: 'Febrero', pt: 'Fevereiro' },
@@ -146,46 +151,248 @@ function getNews() {
     { en: 'December', es: 'Diciembre', pt: 'Dezembro' },
   ];
 
-  for (let i = 0; i < news.length; i++) {
-    const value = news[i];
-    const monthCategories = months.map((month) => {
-      return {
+  const enDir = 'docs/en/announcements';
+  const ptDir = 'docs/pt/announcements';
+  const esDir = 'docs/es/announcements';
+
+  const enFiles = fs.readdirSync(enDir)
+  const ptFiles = fs.readdirSync(ptDir)
+  const esFiles = fs.readdirSync(esDir)
+
+  const news = {};
+
+  enFiles.forEach(file => {
+    const filePath = enDir + '/' + file;
+//    console.log("File path:" + filePath);
+    const content = fs.readFileSync(filePath, 'utf8');
+//    console.log("Content:" + content);
+    const fileDate = new Date(file.substring(0, 10)); // Extract date from file name prefix
+    const year = fileDate.getUTCFullYear();
+    const month = fileDate.getUTCMonth();
+  
+    if (!news[year]) {
+      news[year] = months.map((month) => ({
         name: month,
-        slug: `news-category-${value.year}-${month.en}`,
+        slug: `announcements-${year}-${month.en}`,
         origin: '',
         type: 'category',
         children: []
+      }));
+    }
+  
+    const enSlug = file.replace('.md', '');
+    const titleMatch = content.match(/(?:^|\n)title:\s*["'](.*?)["']/);
+    const title = titleMatch[1];
+//    console.log("Title:" + title)
+
+    const ptFile = ptFiles.find(f => {
+      const ptContent = fs.readFileSync((ptDir + '/' + f), 'utf8');
+      const slugMatch = ptContent.match(/^slugEN:\s*(\S+)$/m);
+      if (slugMatch) {
+        const slugENTrimmed = slugMatch[1].trim().toLowerCase();
+        const enSlugTrimmed = enSlug.trim().toLowerCase();
+        return slugENTrimmed === enSlugTrimmed;
+      }
+      else {
+        return false;
       }
     });
 
-    value.children.forEach(({ name, slug, publishedAt }) => {
-      const fileDate = new Date(publishedAt);
-      const month = fileDate.getUTCMonth();
-      monthCategories[month].children.push({
-        name,
-        slug,
+    
+    const esFile = esFiles.find(f => {
+      const esContent = fs.readFileSync((esDir + '/' + f), 'utf8');
+      const slugMatch = esContent.match(/^slugEN:\s*(\S+)$/m);
+      if (slugMatch) {
+        const slugENTrimmed = slugMatch[1].trim().toLowerCase();
+        const enSlugTrimmed = enSlug.trim().toLowerCase();
+        return slugENTrimmed === enSlugTrimmed;
+      }
+      else {
+        return false;
+      }
+    });
+
+    news[year][month].children.push({
+      name: {
+        en: title,
+        pt: ptFile ? fs.readFileSync((ptDir + '/' + ptFile), 'utf8').match(/(?:^|\n)title:\s*["'](.*?)["']/)[1] : '',
+        es: esFile ? fs.readFileSync((esDir + '/' + esFile), 'utf8').match(/(?:^|\n)title:\s*["'](.*?)["']/)[1] : '',
+      },
+      slug: {
+        en: enSlug,
+        pt: ptFile ? ptFile.replace('.md', '') : '',
+        es: esFile ? esFile.replace('.md', '') : ''
+      },
+      origin: '',
+      type: 'markdown',
+      children: []
+    });
+  });
+  
+  const newsCategories = [];
+  for (const year in news) {
+    newsCategories.push({
+      name: {
+        "en": `${year}`,
+        "es": `${year}`,
+        "pt": `${year}`
+      },
+      slug: `announcements-${year}`,
+      origin: '',
+      type: 'category',
+      children: news[year].filter((e) => e.children.length > 0)
+    });
+  }
+
+  return newsCategories;
+}
+
+function getFaq() {
+  const enDir = 'docs/en/faq';
+  const ptDir = 'docs/pt/faq';
+  const esDir = 'docs/es/faq';
+
+  const enCategories = fs.readdirSync(enDir, { withFileTypes: true }).filter(dirent => dirent.isDirectory());
+  const faq = {};
+
+  enCategories.forEach(category => {
+    const enCategoryPath = path.join(enDir, category.name);
+    const ptCategoryPath = path.join(ptDir, category.name);
+    const esCategoryPath = path.join(esDir, category.name);
+
+    const enFiles = fs.readdirSync(enCategoryPath);
+    const ptFiles = fs.existsSync(ptCategoryPath) ? fs.readdirSync(ptCategoryPath) : [];
+    const esFiles = fs.existsSync(esCategoryPath) ? fs.readdirSync(esCategoryPath) : [];
+
+    faq[category.name] = [];
+
+    enFiles.forEach(file => {
+      const filePath = path.join(enCategoryPath, file);
+      const content = fs.readFileSync(filePath, 'utf8');
+      const enSlug = file.replace('.md', '');
+      const titleMatch = content.match(/(?:^|\n)title:\s*["'](.*?)["']/);
+      const title = titleMatch ? titleMatch[1] : '';
+
+      const ptFile = ptFiles.find(f => {
+        const ptContent = fs.readFileSync(path.join(ptCategoryPath, f), 'utf8');
+        const slugMatch = ptContent.match(/^slugEN:\s*(\S+)$/m);
+        return slugMatch && slugMatch[1].trim().toLowerCase() === enSlug.trim().toLowerCase();
+      });
+
+      const esFile = esFiles.find(f => {
+        const esContent = fs.readFileSync(path.join(esCategoryPath, f), 'utf8');
+        const slugMatch = esContent.match(/^slugEN:\s*(\S+)$/m);
+        return slugMatch && slugMatch[1].trim().toLowerCase() === enSlug.trim().toLowerCase();
+      });
+
+      faq[category.name].push({
+        name: {
+          en: title,
+          pt: ptFile ? fs.readFileSync(path.join(ptCategoryPath, ptFile), 'utf8').match(/(?:^|\n)title:\s*["'](.*?)["']/)[1] : '',
+          es: esFile ? fs.readFileSync(path.join(esCategoryPath, esFile), 'utf8').match(/(?:^|\n)title:\s*["'](.*?)["']/)[1] : '',
+        },
+        slug: {
+          en: enSlug,
+          pt: ptFile ? ptFile.replace('.md', '') : '',
+          es: esFile ? esFile.replace('.md', '') : ''
+        },
         origin: '',
         type: 'markdown',
         children: []
       });
-    })
+    });
+  });
 
-    const newsCategory = {
+  const faqCategories = [];
+  for (const category in faq) {
+    faqCategories.push({
       name: {
-        "en": `${value.year}`,
-        "es": `${value.year}`,
-        "pt": `${value.year}`
+        en: category,
+        pt: category,
+        es: category
       },
-      slug: `news-category-${value.year}`,
+      slug: `faq/${category}`,
       origin: '',
       type: 'category',
-      children: monthCategories.filter((e) => e.children.length > 0)
-    };
-
-    newsCategories.push(newsCategory);
+      children: faq[category]
+    });
   }
 
-  return newsCategories;
+  return faqCategories;
+}
+
+function getKnownIssues() {
+  const enDir = 'docs/en/known-issues';
+  const ptDir = 'docs/pt/known-issues';
+  const esDir = 'docs/es/known-issues';
+
+  const enCategories = fs.readdirSync(enDir, { withFileTypes: true }).filter(dirent => dirent.isDirectory());
+  const knownIssues = {};
+
+  enCategories.forEach(category => {
+    const enCategoryPath = path.join(enDir, category.name);
+    const ptCategoryPath = path.join(ptDir, category.name);
+    const esCategoryPath = path.join(esDir, category.name);
+
+    const enFiles = fs.readdirSync(enCategoryPath);
+    const ptFiles = fs.existsSync(ptCategoryPath) ? fs.readdirSync(ptCategoryPath) : [];
+    const esFiles = fs.existsSync(esCategoryPath) ? fs.readdirSync(esCategoryPath) : [];
+
+    knownIssues[category.name] = [];
+
+    enFiles.forEach(file => {
+      const filePath = path.join(enCategoryPath, file);
+      const content = fs.readFileSync(filePath, 'utf8');
+      const enSlug = file.replace('.md', '');
+      const titleMatch = content.match(/(?:^|\n)title:\s*["'](.*?)["']/);
+      const title = titleMatch ? titleMatch[1] : '';
+
+      const ptFile = ptFiles.find(f => {
+        const ptContent = fs.readFileSync(path.join(ptCategoryPath, f), 'utf8');
+        const slugMatch = ptContent.match(/^slugEN:\s*(\S+)$/m);
+        return slugMatch && slugMatch[1].trim().toLowerCase() === enSlug.trim().toLowerCase();
+      });
+
+      const esFile = esFiles.find(f => {
+        const esContent = fs.readFileSync(path.join(esCategoryPath, f), 'utf8');
+        const slugMatch = esContent.match(/^slugEN:\s*(\S+)$/m);
+        return slugMatch && slugMatch[1].trim().toLowerCase() === enSlug.trim().toLowerCase();
+      });
+
+      knownIssues[category.name].push({
+        name: {
+          en: title,
+          pt: ptFile ? fs.readFileSync(path.join(ptCategoryPath, ptFile), 'utf8').match(/(?:^|\n)title:\s*["'](.*?)["']/)[1] : '',
+          es: esFile ? fs.readFileSync(path.join(esCategoryPath, esFile), 'utf8').match(/(?:^|\n)title:\s*["'](.*?)["']/)[1] : '',
+        },
+        slug: {
+          en: enSlug,
+          pt: ptFile ? ptFile.replace('.md', '') : '',
+          es: esFile ? esFile.replace('.md', '') : ''
+        },
+        origin: '',
+        type: 'markdown',
+        children: []
+      });
+    });
+  });
+
+  const knownIssuesCategories = [];
+  for (const category in knownIssues) {
+    knownIssuesCategories.push({
+      name: {
+        en: category,
+        pt: category,
+        es: category
+      },
+      slug: `known-issues/${category}`,
+      origin: '',
+      type: 'category',
+      children: knownIssues[category]
+    });
+  }
+
+  return knownIssuesCategories;
 }
 
 async function getEntries() {
@@ -209,7 +416,7 @@ async function getEntries() {
 
         const endpointObj = {
           name: file.fields.title,
-          slug: file.fields.slug ? file.fields.slug.en: '',
+          slug: file.fields.slug,
           origin: ''
         };
 
@@ -234,21 +441,6 @@ async function getEntries() {
               type: 'category',
               children: [],
               trackChildren: file.fields.tracks.pt
-            });
-          }
-        } else if (type === 'updates') {
-          const fileDate = new Date(file.sys.publishedAt);
-          const fileYear = fileDate.getUTCFullYear();
-          const yearIndex = news.findIndex((e) => e.year === fileYear);
-          if(yearIndex >= 0) {
-            news[yearIndex].children.push({
-              ...endpointObj,
-              publishedAt:file.sys.publishedAt
-            });
-          } else {
-            news.push({
-              year: fileYear,
-              children: [{ ...endpointObj, type: 'markdown', children: [], publishedAt:file.sys.publishedAt }]
             });
           }
         } else if(type === 'tutorial') {
@@ -281,14 +473,15 @@ async function getEntries() {
       skip += limit;
     } while (skip < totalCount)
 
-    // Tracks
     navigation.navbar[0].categories = getTrackTopics();
 
-    // Tutorial
     navigation.navbar[1].categories = getTutorialCategories();
 
-    // News
     navigation.navbar[2].categories = getNews();
+
+    navigation.navbar[3].categories = getFaq();
+
+    navigation.navbar[4].categories = getKnownIssues();
 
     fs.writeFile('errorDocs.json', JSON.stringify(errorDocs), (err) => console.error(err));
     fs.writeFile('navigation.json', JSON.stringify(navigation), (err) => console.error(err));

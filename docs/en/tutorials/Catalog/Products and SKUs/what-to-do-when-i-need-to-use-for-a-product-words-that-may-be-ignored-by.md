@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:02:21.596Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_31
-slug: what-to-do-when-i-need-to-use-for-a-product-words-that-may-be-ignored-by
+slugEN: what-to-do-when-i-need-to-use-for-a-product-words-that-may-be-ignored-by
 locale: en
 legacySlug: what-to-do-when-i-need-to-use-for-a-product-words-that-may-be-ignored-by
 subcategoryId: pwxWmUu7T222QyuGogs68

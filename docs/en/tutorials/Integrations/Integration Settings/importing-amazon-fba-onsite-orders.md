@@ -9,7 +9,7 @@ firstPublishedAt: 2024-08-30T13:59:25.499Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: importing-amazon-fba-onsite-orders
+slugEN: importing-amazon-fba-onsite-orders
 locale: en
 legacySlug: importing-amazon-fba-onsite-orders
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

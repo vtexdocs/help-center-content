@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: collections-ui-doesnt-allow-to-search-for-products-with-special-characters
+slugEN: collections-ui-doesnt-allow-to-search-for-products-with-special-characters
 locale: en
 kiStatus: Backlog
 internalReference: 344451

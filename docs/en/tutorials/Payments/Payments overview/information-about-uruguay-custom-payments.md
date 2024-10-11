@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:01:06.326Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: information-about-uruguay-custom-payments
+slugEN: information-about-uruguay-custom-payments
 locale: en
 legacySlug: information-about-uruguay-custom-payments
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

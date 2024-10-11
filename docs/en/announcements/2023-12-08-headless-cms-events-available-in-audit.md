@@ -8,7 +8,7 @@ publishedAt: 2023-12-08T14:57:21.295Z
 contentType: updates
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
-slug: headless-cms-events-available-in-audit
+slugEN: 2023-12-08-headless-cms-events-available-in-audit
 locale: en
 legacySlug: headless-cms-events-available-in-audit
 announcementImageID: ''

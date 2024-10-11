@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:44.419Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: understanding-the-cubic-weight-factor
+slugEN: understanding-the-cubic-weight-factor
 locale: en
 legacySlug: understanding-the-cubic-weight-factor
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
@@ -53,7 +53,7 @@ That is, if the value offered by your carrier is `6,000`, you must perform the d
 
 This is the value you must fill out the **Cubic weight factor** field in your [shipping policy](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
 
-![cubic_weight_EN](https://images.ctfassets.net/alneenqid6w5/44WaAckgByWYgyYGXtEoOj/dc63a437a83448eaafd90e0fb545879e/cubic_weight_EN.png)
+![cubic_weight_EN](//images.ctfassets.net/alneenqid6w5/44WaAckgByWYgyYGXtEoOj/dc63a437a83448eaafd90e0fb545879e/cubic_weight_EN.png)
 
 Therefore, the final calculation will be:
 

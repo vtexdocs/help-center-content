@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-02T18:02:05.289Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
-slug: what-are-layouts
+slugEN: what-are-layouts
 locale: en
 legacySlug: what-are-layouts
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

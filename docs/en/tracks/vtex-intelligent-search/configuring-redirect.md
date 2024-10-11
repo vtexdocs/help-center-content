@@ -1,14 +1,14 @@
 ---
 title: 'Configuring Redirects'
 id: 4Gd2wLQFbCwTsh8RUDwSoL
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2019-11-22T23:40:25.940Z
-updatedAt: 2024-06-17T12:20:22.176Z
-publishedAt: 2024-06-17T12:20:22.176Z
+updatedAt: 2024-09-06T20:14:13.631Z
+publishedAt: 
 firstPublishedAt: 2019-11-25T17:36:44.905Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: configuring-redirect
+slugEN: configuring-redirect
 locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search

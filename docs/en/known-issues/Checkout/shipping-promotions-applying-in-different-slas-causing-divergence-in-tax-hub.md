@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: shipping-promotions-applying-in-different-slas-causing-divergence-in-tax-hub
+slugEN: shipping-promotions-applying-in-different-slas-causing-divergence-in-tax-hub
 locale: en
 kiStatus: Fixed
 internalReference: 916423

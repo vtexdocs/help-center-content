@@ -8,7 +8,7 @@ publishedAt: 2024-09-04T13:50:40.248Z
 firstPublishedAt: 2024-05-31T20:51:50.382Z
 contentType: trackArticle
 productTeam: Channels
-slug: configuring-rappi-price-divergence-rule
+slugEN: configuring-rappi-price-divergence-rule
 locale: en
 trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugEN: rappi-integration

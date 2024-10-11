@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: price-range-disregards-sales-policy
+slugEN: price-range-disregards-sales-policy
 locale: en
 kiStatus: Backlog
 internalReference: 322764

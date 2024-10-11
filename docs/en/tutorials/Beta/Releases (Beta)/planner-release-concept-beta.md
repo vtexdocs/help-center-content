@@ -9,7 +9,7 @@ firstPublishedAt: 2022-09-19T23:25:39.523Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: planner-release-concept-beta
+slugEN: planner-release-concept-beta
 locale: en
 legacySlug: planner-release-concept-beta
 subcategoryId: 3vXj7HrnYK8V5riTOwUuYv

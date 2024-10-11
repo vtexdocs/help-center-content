@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: inconsistency-payment-terms-information-between-cost-center-details-in-my-organization-and-b2b-checkout-settings
+slugEN: inconsistency-payment-terms-information-between-cost-center-details-in-my-organization-and-b2b-checkout-settings
 locale: en
 kiStatus: Fixed
 internalReference: 847340

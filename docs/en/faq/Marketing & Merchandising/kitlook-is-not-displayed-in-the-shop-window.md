@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-20T17:50:10.749Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 46GzPBzfVykEtIav6Pn2J8
-slug: kitlook-is-not-displayed-in-the-shop-window
+slugEN: kitlook-is-not-displayed-in-the-shop-window
 locale: en
 legacySlug: untitled-entry-2019-02-20-at-05-47-19
 ---

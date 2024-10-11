@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: banner-scheduling-is-deactivated-after-expiry-date
+slugEN: banner-scheduling-is-deactivated-after-expiry-date
 locale: en
 kiStatus: Backlog
 internalReference: 301023

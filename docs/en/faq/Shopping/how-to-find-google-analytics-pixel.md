@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T12:10:01.331Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: how-to-find-google-analytics-pixel
+slugEN: how-to-find-google-analytics-pixel
 locale: en
 legacySlug: how-to-find-google-analytics-pixel
 ---

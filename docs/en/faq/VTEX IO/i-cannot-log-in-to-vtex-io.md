@@ -9,7 +9,7 @@ firstPublishedAt: 2018-06-15T19:24:32.575Z
 contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
-slug: i-cannot-log-in-to-vtex-io
+slugEN: i-cannot-log-in-to-vtex-io
 locale: en
 legacySlug: i-cannot-log-in-to-vtex-io
 ---

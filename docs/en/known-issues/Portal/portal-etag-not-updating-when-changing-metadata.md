@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: portal-etag-not-updating-when-changing-metadata
+slugEN: portal-etag-not-updating-when-changing-metadata
 locale: en
 kiStatus: Backlog
 internalReference: 411434

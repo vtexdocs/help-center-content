@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-17T13:43:23.975Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: synonym-list
+slugEN: synonym-list
 locale: en
 legacySlug: synonym-list
 subcategoryId: BBzMtJan1UTxC9QZODnlN

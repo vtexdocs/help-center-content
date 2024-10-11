@@ -8,7 +8,7 @@ publishedAt: 2023-07-26T18:46:19.274Z
 firstPublishedAt: 2020-06-30T21:36:39.077Z
 contentType: trackArticle
 productTeam: Shopping
-slug: endless-aisle
+slugEN: endless-aisle
 locale: en
 trackId: 3WGDRRhc3vf1MJb9zGncnv
 trackSlugEN: unified-commerce-strategies

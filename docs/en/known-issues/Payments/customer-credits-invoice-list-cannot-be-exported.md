@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: customer-credits-invoice-list-cannot-be-exported
+slugEN: customer-credits-invoice-list-cannot-be-exported
 locale: en
 kiStatus: Backlog
 internalReference: 327219

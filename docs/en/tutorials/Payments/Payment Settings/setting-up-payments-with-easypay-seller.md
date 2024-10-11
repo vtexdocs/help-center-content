@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-19T00:26:38.480Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-easypay-seller
+slugEN: setting-up-payments-with-easypay-seller
 locale: en
 legacySlug: setting-up-payments-with-seller
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

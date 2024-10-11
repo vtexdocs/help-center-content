@@ -1,14 +1,14 @@
 ---
 title: 'Search configuration'
 id: 5t75L6lYNwix93l41s1Yrx
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-08-17T19:50:20.729Z
-updatedAt: 2024-04-25T17:06:18.124Z
-publishedAt: 2024-04-25T17:06:18.124Z
+updatedAt: 2024-09-06T20:14:21.133Z
+publishedAt: 
 firstPublishedAt: 2020-09-28T20:51:58.291Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: search-settings
+slugEN: search-settings
 locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search

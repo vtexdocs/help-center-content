@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: price-swapped-if-the-same-item-is-in-the-cart-twice-and-one-is-from-assembly-options
+slugEN: price-swapped-if-the-same-item-is-in-the-cart-twice-and-one-is-from-assembly-options
 locale: en
 kiStatus: Backlog
 internalReference: 1070336

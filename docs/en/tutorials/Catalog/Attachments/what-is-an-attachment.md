@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-16T17:56:14.431Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: what-is-an-attachment
+slugEN: what-is-an-attachment
 locale: en
 legacySlug: what-is-an-attachment
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy

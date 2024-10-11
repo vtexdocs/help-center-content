@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slug: master-data-trigger-custom-utms-do-not-reflect-accordingly
+slugEN: master-data-trigger-custom-utms-do-not-reflect-accordingly
 locale: en
 kiStatus: Backlog
 internalReference: 

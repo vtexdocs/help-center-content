@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:49.328Z
 contentType: updates
 productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
-slug: announcements-hit-the-spotlight-in-the-new-admin
+slugEN: 2018-03-09-announcements-hit-the-spotlight-in-the-new-admin
 locale: en
 legacySlug: announcements-hit-the-spotlight-in-the-new-admin
 announcementImageID: ''

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:38:43.264Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slug: checking-for-errors-or-problems-in-a-transaction
+slugEN: checking-for-errors-or-problems-in-a-transaction
 locale: en
 legacySlug: checking-for-errors-or-problems-in-a-transaction
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu

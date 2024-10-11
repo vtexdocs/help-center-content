@@ -9,7 +9,7 @@ firstPublishedAt: 2021-10-25T21:39:46.746Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: assembly-options
+slugEN: assembly-options
 locale: en
 legacySlug: assembly-options-en
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
@@ -57,7 +57,7 @@ The first elements `[x-y]` are group rules, and between each `#` and `;` are SKU
 | \[0-3\]#10000\[1-2\]**\[1\]**pricetable1;#20000\[0-2\]**\[0\]**pricetable2;#30000\[0-2\]**\[0\]**pricetable3 | This segment defines the default selected quantity for each SKU.  |
 | \[0-3\]#10000\[1-2\]\[1\]**pricetable1**;#20000\[0-2\]\[0\]**pricetable2**;#30000\[0-2\]\[0\]**pricetable3** | The final segment indicates the price table for each item.  | 
 
-![assembly-option-exemplo-EN](https://images.ctfassets.net/alneenqid6w5/2c4cfwQo0KisXQhlzYoxGC/939c084743ddf02d3903af57104f0b39/image.png)
+![assembly-option-exemplo-EN](//images.ctfassets.net/alneenqid6w5/2c4cfwQo0KisXQhlzYoxGC/939c084743ddf02d3903af57104f0b39/image.png)
 
 #### Attachment Settings
 

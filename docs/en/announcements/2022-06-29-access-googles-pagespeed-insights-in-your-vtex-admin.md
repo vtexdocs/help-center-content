@@ -8,7 +8,7 @@ publishedAt: 2022-07-18T12:01:08.877Z
 contentType: updates
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: access-googles-pagespeed-insights-in-your-vtex-admin
+slugEN: 2022-06-29-access-googles-pagespeed-insights-in-your-vtex-admin
 locale: en
 legacySlug: access-googles-pagespeed-insights-in-your-vtex-admin
 announcementImageID: ''

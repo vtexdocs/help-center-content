@@ -9,7 +9,7 @@ firstPublishedAt: 2019-07-15T13:22:32.402Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5DnIDwto7E6PRpdH1Kpdyu
-slug: filling-out-an-import-spreadsheets-fixed-price-fields
+slugEN: filling-out-an-import-spreadsheets-fixed-price-fields
 locale: en
 legacySlug: filling-out-an-import-spreadsheets-fixed-price-fields
 subcategoryId: 4id9W3RDyw02CasOm2C2iy

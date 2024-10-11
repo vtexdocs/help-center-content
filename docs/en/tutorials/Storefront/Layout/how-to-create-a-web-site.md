@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-25T20:47:38.192Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
-slug: how-to-create-a-web-site
+slugEN: how-to-create-a-web-site
 locale: en
 legacySlug: how-to-create-a-web-site
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

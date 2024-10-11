@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: sku-admin-breaks-when-sending-a-reference-code-longer-than-50-characters
+slugEN: sku-admin-breaks-when-sending-a-reference-code-longer-than-50-characters
 locale: en
 kiStatus: Backlog
 internalReference: 884789

@@ -8,7 +8,7 @@ publishedAt: 2022-09-30T19:52:25.418Z
 firstPublishedAt: 2022-08-26T14:25:51.544Z
 contentType: trackArticle
 productTeam: Shopping
-slug: how-to-get-started
+slugEN: how-to-get-started
 locale: en
 trackId: khP0p8mjIYRIpvM7Cb4Zr
 trackSlugEN: suiteshare

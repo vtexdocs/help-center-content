@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: vtexcontentplaceholder-idacessorios-is-not-working
+slugEN: vtexcontentplaceholder-idacessorios-is-not-working
 locale: en
 kiStatus: Backlog
 internalReference: 466147

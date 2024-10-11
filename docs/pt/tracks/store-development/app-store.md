@@ -8,7 +8,7 @@ publishedAt: 2022-12-22T19:57:32.179Z
 firstPublishedAt: 2022-12-22T19:57:32.179Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: app-store
+slugEN: app-store
 locale: pt
 trackId: 3fHF3GIjK8UugnQKIakpl9
 trackSlugPT: desenvolvimento-de-loja

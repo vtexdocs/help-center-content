@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: product-availability-display-delayed-when-using-multiple-sales-channels
+slugEN: product-availability-display-delayed-when-using-multiple-sales-channels
 locale: en
 kiStatus: Backlog
 internalReference: 949411

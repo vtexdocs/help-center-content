@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-16T17:33:35.621Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_59
-slug: accessing-a-customer-giftlist-with-a-callcenter-user
+slugEN: accessing-a-customer-giftlist-with-a-callcenter-user
 locale: en
 legacySlug: accessing-a-customer-giftlist-with-a-callcenter-user
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs

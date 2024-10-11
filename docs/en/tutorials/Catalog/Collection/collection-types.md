@@ -9,7 +9,7 @@ firstPublishedAt: 2020-09-02T15:21:27.419Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: collection-types
+slugEN: collection-types
 locale: en
 legacySlug: collection-types
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx

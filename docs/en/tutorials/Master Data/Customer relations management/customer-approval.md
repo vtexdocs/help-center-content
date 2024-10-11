@@ -9,7 +9,7 @@ firstPublishedAt: 2021-03-30T17:14:26.769Z
 contentType: tutorial
 productTeam: Master Data
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: customer-approval
+slugEN: customer-approval
 locale: en
 legacySlug: customer-approval
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l

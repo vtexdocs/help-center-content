@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:40.959Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: subtemplates
+slugEN: subtemplates
 locale: es
 legacySlug: subtemplates
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

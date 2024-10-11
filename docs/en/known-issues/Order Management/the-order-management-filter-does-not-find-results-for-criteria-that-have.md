@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Logistics
-slug: the-order-management-filter-does-not-find-results-for-criteria-that-have
+slugEN: the-order-management-filter-does-not-find-results-for-criteria-that-have
 locale: en
 kiStatus: Backlog
 internalReference: Zendesk Ticket #353656

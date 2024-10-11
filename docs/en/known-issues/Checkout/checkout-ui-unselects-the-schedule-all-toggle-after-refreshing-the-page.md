@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-ui-unselects-the-schedule-all-toggle-after-refreshing-the-page
+slugEN: checkout-ui-unselects-the-schedule-all-toggle-after-refreshing-the-page
 locale: en
 kiStatus: Backlog
 internalReference: 784693

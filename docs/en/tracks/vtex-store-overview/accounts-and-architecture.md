@@ -3,12 +3,12 @@ title: 'Accounts and architecture'
 id: 4yPqZQyj0t675QpcG7H6yl
 status: PUBLISHED
 createdAt: 2024-01-09T00:00:08.724Z
-updatedAt: 2024-08-30T12:37:37.809Z
-publishedAt: 2024-08-30T12:37:37.809Z
+updatedAt: 2024-10-03T13:14:47.433Z
+publishedAt: 2024-10-03T13:14:47.433Z
 firstPublishedAt: 2024-02-22T14:06:20.581Z
 contentType: trackArticle
 productTeam: Others
-slug: accounts-and-architecture
+slugEN: accounts-and-architecture
 locale: en
 trackId: eSDNk26pdvemF3XKM0nK9
 trackSlugEN: vtex-store-overview
@@ -61,9 +61,9 @@ However, using many trade policies simultaneously can compromise the store's per
 - [Multistores](#multistore)  
 - [Additional environments](#additional-environment) 
 
-The image below is an example of how the main account, environment (sub-account), multi-store (stores), and trade policies are related:
+The image below is an example of how the main account, environment, multi-store, and trade policies are related:
 
-![multistore_aditional_environment_EN](https://images.ctfassets.net/alneenqid6w5/6XOI59M49L18E99hSDpgWe/4bf1e15428b5db24e4658c446eb5e2cf/multistore_aditional_environment_EN.png)
+![multistore_aditional_environment_EN](//images.ctfassets.net/alneenqid6w5/6XOI59M49L18E99hSDpgWe/4bf1e15428b5db24e4658c446eb5e2cf/multistore_aditional_environment_EN.png)
 
 ### Multistore
 
@@ -89,7 +89,7 @@ Some typical use cases for requesting a new environment are when you want an [en
 
 The table below highlights important aspects to consider when deciding whether to have a multistore architecture, an additional environment, or a combination of both:  
 
-| **Characteristic** | **Multistore (stores)** | **Additional environment (subaccounts)**|
+| **Characteristic** | **Multistore** | **Additional environment** |
 | :---: | :--- | :--- |
 | Architecture | A **single admin environment** in the VTEXAdmin associated with two or more stores ([store names](https://help.vtex.com/en/tutorial/o-que-e-store-name--3gh9mTNeMgs6Qe44e8IqQK)). All stores are linked to the **same [account name](https://help.vtex.com/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC)**. | **Multiple admin environments** in the VTEX Admin with fully independent settings. Each environment has its own **[account name](https://help.vtex.com/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC)**. |
 | Sitemap | Has a single main account **[sitemap](https://help.vtex.com/en/tutorial/rastreamento-google-search-console-sitemap--tutorials_575) shared** among all stores. | Each account has its own **[sitemap](https://help.vtex.com/pt/tutorial/rastreamento-google-search-console-sitemap--tutorials_575)**. |

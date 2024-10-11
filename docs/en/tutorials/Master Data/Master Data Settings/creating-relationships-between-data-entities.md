@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-06T18:39:34.826Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_64
-slug: creating-relationships-between-data-entities
+slugEN: creating-relationships-between-data-entities
 locale: en
 legacySlug: creating-relationships-between-data-entities
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

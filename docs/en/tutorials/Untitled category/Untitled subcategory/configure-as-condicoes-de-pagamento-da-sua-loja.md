@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: configure-as-condicoes-de-pagamento-da-sua-loja
+slugEN: configure-as-condicoes-de-pagamento-da-sua-loja
 locale: en
 legacySlug: configure-as-condicoes-de-pagamento-da-sua-loja
 subcategoryId: unknown-subcategory

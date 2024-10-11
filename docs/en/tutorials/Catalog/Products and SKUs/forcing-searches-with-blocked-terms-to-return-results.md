@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-23T20:35:50.068Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: forcing-searches-with-blocked-terms-to-return-results
+slugEN: forcing-searches-with-blocked-terms-to-return-results
 locale: en
 legacySlug: forcing-searches-with-blocked-terms-to-return-results
 subcategoryId: pwxWmUu7T222QyuGogs68

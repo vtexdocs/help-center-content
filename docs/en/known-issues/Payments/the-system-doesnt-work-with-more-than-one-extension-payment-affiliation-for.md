@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: the-system-doesnt-work-with-more-than-one-extension-payment-affiliation-for
+slugEN: the-system-doesnt-work-with-more-than-one-extension-payment-affiliation-for
 locale: en
 kiStatus: Backlog
 internalReference: 319750

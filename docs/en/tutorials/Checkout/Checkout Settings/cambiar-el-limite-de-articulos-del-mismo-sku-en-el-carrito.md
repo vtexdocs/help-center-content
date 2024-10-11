@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-21T16:56:03.042Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_24
-slug: cambiar-el-limite-de-articulos-del-mismo-sku-en-el-carrito
+slugEN: cambiar-el-limite-de-articulos-del-mismo-sku-en-el-carrito
 locale: en
 legacySlug: cambiar-el-limite-de-articulos-del-mismo-sku-en-el-carrito
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

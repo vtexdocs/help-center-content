@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-17T21:46:29.655Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-redsys-gateway
+slugEN: setting-up-redsys-gateway
 locale: en
 legacySlug: setting-up-redsys-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

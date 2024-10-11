@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-31T14:47:46.420Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: shopify-suiteshare
+slugEN: shopify-suiteshare
 locale: pt
 legacySlug: shopify-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

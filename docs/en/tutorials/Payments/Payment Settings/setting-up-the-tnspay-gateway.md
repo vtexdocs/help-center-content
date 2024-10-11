@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-02T15:56:49.389Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-the-tnspay-gateway
+slugEN: setting-up-the-tnspay-gateway
 locale: en
 legacySlug: setting-up-the-tnspay-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

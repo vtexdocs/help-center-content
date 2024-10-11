@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: available-addresses-list-on-checkout-ui-missing-data-for-newly-created-address
+slugEN: available-addresses-list-on-checkout-ui-missing-data-for-newly-created-address
 locale: en
 kiStatus: Backlog
 internalReference: 1061630

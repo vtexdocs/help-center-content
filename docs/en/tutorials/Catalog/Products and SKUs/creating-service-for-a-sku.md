@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:11.914Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: creating-service-for-a-sku
+slugEN: creating-service-for-a-sku
 locale: en
 legacySlug: creating-a-service-for-a-sku
 subcategoryId: pwxWmUu7T222QyuGogs68

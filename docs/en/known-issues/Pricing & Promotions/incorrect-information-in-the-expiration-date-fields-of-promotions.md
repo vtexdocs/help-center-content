@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: incorrect-information-in-the-expiration-date-fields-of-promotions
+slugEN: incorrect-information-in-the-expiration-date-fields-of-promotions
 locale: en
 kiStatus: Backlog
 internalReference: 611284

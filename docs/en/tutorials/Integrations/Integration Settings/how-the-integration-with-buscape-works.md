@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:21:14.733Z
 contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
-slug: how-the-integration-with-buscape-works
+slugEN: how-the-integration-with-buscape-works
 locale: en
 legacySlug: how-the-integration-with-buscape-works
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

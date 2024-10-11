@@ -9,7 +9,7 @@ firstPublishedAt: 2022-05-11T15:08:00.893Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: mapping-categories-and-brands-for-the-marketplace-beta
+slugEN: mapping-categories-and-brands-for-the-marketplace-beta
 locale: en
 legacySlug: mapping-categories-and-brands-for-the-marketplace-beta
 subcategoryId: 24EN0qRBg4yK0uusGUGosu

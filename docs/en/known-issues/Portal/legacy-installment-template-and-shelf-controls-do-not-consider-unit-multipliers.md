@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: legacy-installment-template-and-shelf-controls-do-not-consider-unit-multipliers
+slugEN: legacy-installment-template-and-shelf-controls-do-not-consider-unit-multipliers
 locale: en
 kiStatus: Backlog
 internalReference: 979205

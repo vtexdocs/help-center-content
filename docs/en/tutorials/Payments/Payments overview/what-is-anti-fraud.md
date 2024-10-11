@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-09T17:29:13.275Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-anti-fraud
+slugEN: what-is-anti-fraud
 locale: en
 legacySlug: what-is-anti-fraud
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

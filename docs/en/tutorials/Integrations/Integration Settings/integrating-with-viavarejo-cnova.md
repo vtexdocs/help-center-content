@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:15:37.714Z
 contentType: tutorial
 productTeam: Channels
 author: authors_4
-slug: integrating-with-viavarejo-cnova
+slugEN: integrating-with-viavarejo-cnova
 locale: en
 legacySlug: integrating-with-viavarejo-cnova
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

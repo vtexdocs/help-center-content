@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-09T15:09:10.272Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-vtex-standard-promissory-gateway
+slugEN: setting-up-vtex-standard-promissory-gateway
 locale: en
 legacySlug: setting-up-vtex-standard-promissory-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

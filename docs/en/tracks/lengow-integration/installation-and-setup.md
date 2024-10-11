@@ -8,7 +8,7 @@ publishedAt: 2020-08-17T22:19:28.791Z
 firstPublishedAt: 2020-06-30T01:07:27.553Z
 contentType: trackArticle
 productTeam: Apps
-slug: installation-and-setup
+slugEN: installation-and-setup
 locale: en
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugEN: lengow-integration
@@ -46,7 +46,7 @@ Once this is done, as seen in the image below, press **Save** to store the setti
 
 To fill out the **Prefix to imported orders - Affilitiate ID** field you should configure an [affiliate](https://help.vtex.com/en/tutorial/configuring-affiliates--tutorials_187) for the Lengow connector in *Orders > Orders Management > Settings*. We recommend using the settings below, with LNG as the affiliate ID and your own e-mail address for notifications.
 
-![Lengow affiliate](https://images.ctfassets.net/alneenqid6w5/7384AJaO2ZFcECDGFqWHPT/78a10bd0370a43cdd65116f067fc814c/image9.png)
+![Lengow affiliate](//images.ctfassets.net/alneenqid6w5/7384AJaO2ZFcECDGFqWHPT/78a10bd0370a43cdd65116f067fc814c/image9.png)
 
 ### Get Lengow authentication credentials
 

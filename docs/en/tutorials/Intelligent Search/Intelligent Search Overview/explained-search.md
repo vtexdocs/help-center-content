@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-27T16:55:37.629Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: explained-search
+slugEN: explained-search
 locale: en
 legacySlug: explained-search
 subcategoryId: l3DubpOCHBfKyF2ueg2Vs

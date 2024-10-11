@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: received-skus-export-function-not-working-for-admins-in-other-languages-only-pt-en-es
+slugEN: received-skus-export-function-not-working-for-admins-in-other-languages-only-pt-en-es
 locale: en
 kiStatus: Fixed
 internalReference: 668122

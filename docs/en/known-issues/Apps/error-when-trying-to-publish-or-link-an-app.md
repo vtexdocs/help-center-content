@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
 tag: Apps
-slug: error-when-trying-to-publish-or-link-an-app
+slugEN: error-when-trying-to-publish-or-link-an-app
 locale: en
 kiStatus: Backlog
 internalReference: 1056882

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: D0eIlynYFqaWQOMM6mmY6
 tag: Order Management
-slug: partial-issue-of-invoice-changes-date-of-payment-authorization
+slugEN: partial-issue-of-invoice-changes-date-of-payment-authorization
 locale: en
 kiStatus: Backlog
 internalReference: 

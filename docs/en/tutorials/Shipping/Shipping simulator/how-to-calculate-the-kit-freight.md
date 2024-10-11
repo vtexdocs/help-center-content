@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:00:52.623Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: how-to-calculate-the-kit-freight
+slugEN: how-to-calculate-the-kit-freight
 locale: en
 legacySlug: how-to-calculate-the-kit-freight
 subcategoryId: 1O8AEORWOcgIiMosGoousQ

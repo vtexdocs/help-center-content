@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-22T22:03:18.347Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: why-are-my-store-images-being-displayed-in-poor-quality
+slugEN: why-are-my-store-images-being-displayed-in-poor-quality
 locale: en
 legacySlug: images-with-poor-quality
 ---

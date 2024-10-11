@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-19T21:29:24.549Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2JdGRHS4OGcDWQoxRjEHcn
-slug: accessing-product-reviews
+slugEN: accessing-product-reviews
 locale: en
 legacySlug: accessing-product-reviews
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa

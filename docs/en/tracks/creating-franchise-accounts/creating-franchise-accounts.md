@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T16:16:24.472Z
 firstPublishedAt: 2022-04-04T15:31:49.220Z
 contentType: trackArticle
 productTeam: Shopping
-slug: creating-franchise-accounts
+slugEN: creating-franchise-accounts
 locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: creating-franchise-accounts

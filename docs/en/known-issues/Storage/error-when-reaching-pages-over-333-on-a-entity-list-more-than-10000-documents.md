@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: error-when-reaching-pages-over-333-on-a-entity-list-more-than-10000-documents
+slugEN: error-when-reaching-pages-over-333-on-a-entity-list-more-than-10000-documents
 locale: en
 kiStatus: Backlog
 internalReference: 334407

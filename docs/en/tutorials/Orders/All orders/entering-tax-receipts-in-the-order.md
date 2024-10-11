@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:47.395Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: entering-tax-receipts-in-the-order
+slugEN: entering-tax-receipts-in-the-order
 locale: en
 legacySlug: entering-tax-receipts-in-the-order
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

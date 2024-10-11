@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 
 tag: 
-slug: untitled
+slugEN: untitled
 locale: es
 kiStatus: 
 internalReference: 

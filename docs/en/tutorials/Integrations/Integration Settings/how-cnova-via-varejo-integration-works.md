@@ -1,15 +1,15 @@
 ---
 title: 'How CNova/Via Varejo integration works'
 id: 1vFbUZUL80SQ0SoySGO8E6
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-07-09T17:57:16.106Z
-updatedAt: 2021-03-05T20:19:54.695Z
-publishedAt: 2021-03-05T20:19:54.695Z
+updatedAt: 2024-09-05T18:32:34.083Z
+publishedAt: 
 firstPublishedAt: 2018-07-09T18:32:09.384Z
 contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
-slug: how-cnova-via-varejo-integration-works
+slugEN: how-cnova-via-varejo-integration-works
 locale: en
 legacySlug: how-cnova-via-varejo-integration-works
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

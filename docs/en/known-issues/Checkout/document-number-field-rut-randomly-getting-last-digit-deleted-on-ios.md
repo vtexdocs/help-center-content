@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: document-number-field-rut-randomly-getting-last-digit-deleted-on-ios
+slugEN: document-number-field-rut-randomly-getting-last-digit-deleted-on-ios
 locale: en
 kiStatus: Backlog
 internalReference: 921944

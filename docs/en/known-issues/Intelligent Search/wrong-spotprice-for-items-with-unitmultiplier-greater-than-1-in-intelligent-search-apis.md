@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: wrong-spotprice-for-items-with-unitmultiplier-greater-than-1-in-intelligent-search-apis
+slugEN: wrong-spotprice-for-items-with-unitmultiplier-greater-than-1-in-intelligent-search-apis
 locale: en
 kiStatus: Backlog
 internalReference: 934687

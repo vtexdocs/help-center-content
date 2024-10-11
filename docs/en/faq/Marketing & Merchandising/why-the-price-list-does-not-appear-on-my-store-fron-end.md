@@ -9,7 +9,7 @@ firstPublishedAt: 2019-03-25T20:46:55.655Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 6JCq5z9N5xvlHKhhoEcvjM
-slug: why-the-price-list-does-not-appear-on-my-store-fron-end
+slugEN: why-the-price-list-does-not-appear-on-my-store-fron-end
 locale: en
 legacySlug: untitled-entry-2019-03-25-at-08-41-57
 ---

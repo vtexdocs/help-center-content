@@ -8,7 +8,7 @@ publishedAt: 2023-04-10T19:41:12.838Z
 contentType: updates
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: build-and-scale-your-fulfillment-operation-with-vtex-pick-and-pack
+slugEN: 2023-04-06-build-and-scale-your-fulfillment-operation-with-vtex-pick-and-pack
 locale: en
 legacySlug: build-and-scale-your-fulfillment-operation-with-vtex-pick-and-pack
 announcementImageID: ''

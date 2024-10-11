@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-04-26T20:34:35.807Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: introduction-to-vtex-io
+slugEN: introduction-to-vtex-io
 locale: en
 trackId: 2qYWraccosS2ayg2kusaUo
 trackSlugEN: vtex-io-getting-started

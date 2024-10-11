@@ -8,7 +8,7 @@ publishedAt: 2024-06-17T15:10:57.072Z
 firstPublishedAt: 2020-01-13T14:33:11.563Z
 contentType: trackArticle
 productTeam: Identity
-slug: creating-and-editing-users
+slugEN: creating-and-editing-users
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: contas-e-permissoes

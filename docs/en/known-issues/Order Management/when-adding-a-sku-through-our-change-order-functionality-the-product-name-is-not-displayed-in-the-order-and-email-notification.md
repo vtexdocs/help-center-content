@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: when-adding-a-sku-through-our-change-order-functionality-the-product-name-is-not-displayed-in-the-order-and-email-notification
+slugEN: when-adding-a-sku-through-our-change-order-functionality-the-product-name-is-not-displayed-in-the-order-and-email-notification
 locale: en
 kiStatus: No Fix
 internalReference: 557978

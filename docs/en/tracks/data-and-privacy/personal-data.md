@@ -8,7 +8,7 @@ publishedAt: 2024-05-03T21:13:09.925Z
 firstPublishedAt: 2024-05-03T16:42:08.464Z
 contentType: trackArticle
 productTeam: Others
-slug: personal-data
+slugEN: personal-data
 locale: en
 trackId: 65ZqZlNWcmFSOqZQxr8gha
 trackSlugEN: data-and-privacy

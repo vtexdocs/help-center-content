@@ -8,7 +8,7 @@ publishedAt: 2024-03-07T17:10:29.946Z
 firstPublishedAt: 2024-02-22T14:07:19.178Z
 contentType: trackArticle
 productTeam: Others
-slug: frontend-implementation
+slugEN: frontend-implementation
 locale: en
 trackId: eSDNk26pdvemF3XKM0nK9
 trackSlugEN: vtex-store-overview
@@ -220,7 +220,7 @@ The development team must start a new project with FastStore through the [Onboar
 - *Product Details Page* (PDP)
 - *Minicart*
 
-![FastStore template](https://images.ctfassets.net/alneenqid6w5/gRMxctAER60dhr8UEIEh2/56b79e81aae806bf7ab17d6088267f90/frontend_image4_ALL.png)
+![FastStore template](//images.ctfassets.net/alneenqid6w5/gRMxctAER60dhr8UEIEh2/56b79e81aae806bf7ab17d6088267f90/frontend_image4_ALL.png)
 
 #### FastStore MVP requirements
 
@@ -273,7 +273,7 @@ The development team must start a new project with Store Framework by cloning an
 - Product Listing Page (PLP)
 - Product Details Page (PDP)
 
-![Store Framework template](https://images.ctfassets.net/alneenqid6w5/5TpA31coQ1lu5ZoMkj8boS/d1f1bfb2f0e46ff3755375e00658a466/frontend_image5_ALL.png)
+![Store Framework template](//images.ctfassets.net/alneenqid6w5/5TpA31coQ1lu5ZoMkj8boS/d1f1bfb2f0e46ff3755375e00658a466/frontend_image5_ALL.png)
 
 #### Store Framework MVP requirements
 

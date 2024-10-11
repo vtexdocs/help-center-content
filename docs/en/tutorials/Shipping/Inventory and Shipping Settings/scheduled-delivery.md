@@ -3,13 +3,13 @@ title: 'Scheduled delivery'
 id: 22g3HAVCGLFiU7xugShOBi
 status: PUBLISHED
 createdAt: 2021-04-19T13:26:44.564Z
-updatedAt: 2024-03-25T19:12:45.519Z
-publishedAt: 2024-03-25T19:12:45.519Z
+updatedAt: 2024-09-23T13:33:32.959Z
+publishedAt: 2024-09-23T13:33:32.959Z
 firstPublishedAt: 2021-05-24T17:01:23.885Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: scheduled-delivery
+slugEN: scheduled-delivery
 locale: en
 legacySlug: scheduled-delivery, configuring-the-scheduled-delivery
 subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi

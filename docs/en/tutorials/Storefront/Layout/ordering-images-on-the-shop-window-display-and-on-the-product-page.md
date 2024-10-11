@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:12.826Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: ordering-images-on-the-shop-window-display-and-on-the-product-page
+slugEN: ordering-images-on-the-shop-window-display-and-on-the-product-page
 locale: en
 legacySlug: ordering-images-on-the-shop-window-display-and-on-the-product-page
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: status-on-transactions-list-doesnt-match-actual-state
+slugEN: status-on-transactions-list-doesnt-match-actual-state
 locale: en
 kiStatus: Backlog
 internalReference: 1004883

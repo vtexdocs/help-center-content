@@ -9,7 +9,7 @@ firstPublishedAt: 2017-06-26T23:15:02.601Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5fYXkMJagMwcSAeMAsAuOI
-slug: good-practices-for-the-golive-of-my-store
+slugEN: good-practices-for-the-golive-of-my-store
 locale: en
 legacySlug: good-practices-for-the-golive-of-my-store
 subcategoryId: wz3FvYTctwuCwG206QUAi

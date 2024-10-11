@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: admin-collection-brand-list-timeout
+slugEN: admin-collection-brand-list-timeout
 locale: en
 kiStatus: No Fix
 internalReference: 639905

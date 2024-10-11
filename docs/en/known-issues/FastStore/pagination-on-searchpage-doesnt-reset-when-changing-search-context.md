@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: pagination-on-searchpage-doesnt-reset-when-changing-search-context
+slugEN: pagination-on-searchpage-doesnt-reset-when-changing-search-context
 locale: en
 kiStatus: Scheduled
 internalReference: 857392

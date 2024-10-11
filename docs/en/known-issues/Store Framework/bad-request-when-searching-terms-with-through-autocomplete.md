@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: bad-request-when-searching-terms-with-through-autocomplete
+slugEN: bad-request-when-searching-terms-with-through-autocomplete
 locale: en
 kiStatus: Backlog
 internalReference: 978136

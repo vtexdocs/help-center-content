@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:24.938Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: how-to-integrate-an-external-gift-card-provider-with-vtex
+slugEN: how-to-integrate-an-external-gift-card-provider-with-vtex
 locale: en
 legacySlug: how-to-integrate-with-a-gift-card
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

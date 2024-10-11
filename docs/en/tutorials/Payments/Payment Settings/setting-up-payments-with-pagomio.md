@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-25T14:39:57.459Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-pagomio
+slugEN: setting-up-payments-with-pagomio
 locale: en
 legacySlug: setting-up-payments-with-pagomio
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

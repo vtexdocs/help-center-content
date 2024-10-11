@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-15T14:38:06.151Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-payu-india
+slugEN: setting-up-payments-with-payu-india
 locale: en
 legacySlug: setting-up-payments-with-payu-india
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

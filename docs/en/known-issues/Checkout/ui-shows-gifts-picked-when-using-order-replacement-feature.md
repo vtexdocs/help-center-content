@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: ui-shows-gifts-picked-when-using-order-replacement-feature
+slugEN: ui-shows-gifts-picked-when-using-order-replacement-feature
 locale: en
 kiStatus: Backlog
 internalReference: 909137

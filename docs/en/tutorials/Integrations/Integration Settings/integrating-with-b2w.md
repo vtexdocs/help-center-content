@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:23.750Z
 contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
-slug: integrating-with-b2w
+slugEN: integrating-with-b2w
 locale: en
 legacySlug: integrating-with-b2w
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

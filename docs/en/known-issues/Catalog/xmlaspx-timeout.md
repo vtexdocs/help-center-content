@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: xmlaspx-timeout
+slugEN: xmlaspx-timeout
 locale: en
 kiStatus: Backlog
 internalReference: 384719

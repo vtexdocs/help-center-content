@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:25.310Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: shopping-cart-summary-control
+slugEN: shopping-cart-summary-control
 locale: en
 legacySlug: using-the-shopping-cart-summary-control
 ---

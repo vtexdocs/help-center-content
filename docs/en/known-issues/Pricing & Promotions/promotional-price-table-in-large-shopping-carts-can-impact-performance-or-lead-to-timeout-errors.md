@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: promotional-price-table-in-large-shopping-carts-can-impact-performance-or-lead-to-timeout-errors
+slugEN: promotional-price-table-in-large-shopping-carts-can-impact-performance-or-lead-to-timeout-errors
 locale: en
 kiStatus: Backlog
 internalReference: 949389

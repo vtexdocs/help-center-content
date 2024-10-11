@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:03.247Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: understanding-the-task-list-vtex-do
+slugEN: understanding-the-task-list-vtex-do
 locale: en
 legacySlug: understanding-the-task-list-vtex-do
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
@@ -25,7 +25,7 @@ This functionality allows users the following actions: allocating tasks to someo
 
 ## Assign and unassign a task to yourself
 
-![](https://images.contentful.com/alneenqid6w5/hSiaD565VuWwKUmWuwucO/a7f7a04e378a43e14cc0ed8469deb573/VtexDO_GifAtribuirTarefaProprio.gif)
+![](//images.contentful.com/alneenqid6w5/hSiaD565VuWwKUmWuwucO/a7f7a04e378a43e14cc0ed8469deb573/VtexDO_GifAtribuirTarefaProprio.gif)
 
 ### Assign a task
 Open **VTEX DO**;
@@ -38,7 +38,7 @@ Open **VTEX DO**;
 
 ## Assign and unassign a task to other user
 
-![](https://images.contentful.com/alneenqid6w5/xTb2Dtb79ueKEiESCWi2y/05af0e238ac055a992b612381d3acd42/VtexDO_GifAtribuirTarefaTerceiros.gif)
+![](//images.contentful.com/alneenqid6w5/xTb2Dtb79ueKEiESCWi2y/05af0e238ac055a992b612381d3acd42/VtexDO_GifAtribuirTarefaTerceiros.gif)
 
 ### Assign a task
 - Open **VTEX DO**;
@@ -55,7 +55,7 @@ _The tasks assigned to you appear in the tab entitled “MINHAS”. Another deta
 
 ## Filter a task
 
-![](https://images.contentful.com/alneenqid6w5/1o6DK8SFHiuWwcESKScaqE/a616812c5d48431cf5383dbd204c511f/VtexDO_GifFiltro.gif)
+![](//images.contentful.com/alneenqid6w5/1o6DK8SFHiuWwcESKScaqE/a616812c5d48431cf5383dbd204c511f/VtexDO_GifFiltro.gif)
 
 Filtering is possible through the search bar by using the name of the task and the name of the user attributed to them or by entering observations. It also permits filtering according to the module that posted the task.
 
@@ -73,7 +73,7 @@ Filtering is possible through the search bar by using the name of the task and t
 
 Since the purpose of the functionality is to perform the tasks, one facility it provides is that of redirecting to the module that posted the task within the order, transaction or any other specific address of the respective module that created the task.
 
-![](https://images.contentful.com/alneenqid6w5/5nxobC9IVUGUe8CQoaI02I/84ac62df3673e85a379d3c9f409ef999/VtexDO_GifFazerTarefa.gif)
+![](//images.contentful.com/alneenqid6w5/5nxobC9IVUGUe8CQoaI02I/84ac62df3673e85a379d3c9f409ef999/VtexDO_GifFazerTarefa.gif)
 
 1. Open VTEX DO;
 2. Click on the task you wish to perform;
@@ -85,7 +85,7 @@ Since the purpose of the functionality is to perform the tasks, one facility it 
 
 In order to maintain VTEX DO organized, the ideal is to conclude the task after performing it, so as to avoid reworking or wasting time in the future when revisiting the list of tasks. Another possibility would be to conclude a task even without performing it, for example, if cancellation of an order is requested, but you managed to turn the situation around. Should you need to reopen a task that was improperly concluded, don’t worry, because you can reopen it at any time. Just search for it on the list and follow the steps of the following gif.
 
-![](https://images.contentful.com/alneenqid6w5/5Uc9dUfGusGcoAW6iw4EOa/52d9aa14d083b08e66fd4f9453cf1813/VtexDO_GifFinalizarTarefa.gif)
+![](//images.contentful.com/alneenqid6w5/5Uc9dUfGusGcoAW6iw4EOa/52d9aa14d083b08e66fd4f9453cf1813/VtexDO_GifFinalizarTarefa.gif)
 
 ### Conclude a task
 - Open **VTEX DO**;
@@ -101,7 +101,7 @@ In order to maintain VTEX DO organized, the ideal is to conclude the task after 
 
 Also with a view to organizing these tasks and using them to formalize communication, there is a function for entering comments, as needed, on a case-by-case basis.
 
-![](https://images.contentful.com/alneenqid6w5/5SrDSFwNIkokms4ayga2oo/86862b1896fabd96b34344318fd553fb/VtexDO_GifInserirComentario.gif)
+![](//images.contentful.com/alneenqid6w5/5SrDSFwNIkokms4ayga2oo/86862b1896fabd96b34344318fd553fb/VtexDO_GifInserirComentario.gif)
 
 1. Open **VTEX DO**;
 2. Click on the task on which you wish to comment;
@@ -110,4 +110,4 @@ Also with a view to organizing these tasks and using them to formalize communica
 
 Since it is possible to execute VTEX DO actions with it open, to close it you have to click on the down arrow, as shown in the gif below:
 
-![](https://images.contentful.com/alneenqid6w5/6N34IAYvdKyYAa6KCIM2AO/670277853327aa793c851d8a0ce99b2a/VtexDO_GifFechar.gif)
+![](//images.contentful.com/alneenqid6w5/6N34IAYvdKyYAa6KCIM2AO/670277853327aa793c851d8a0ce99b2a/VtexDO_GifFechar.gif)

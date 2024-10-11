@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:01:30.892Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: what-is-the-purpose-of-the-customized-control
+slugEN: what-is-the-purpose-of-the-customized-control
 locale: en
 legacySlug: what-is-the-purpose-of-the-customized-control
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

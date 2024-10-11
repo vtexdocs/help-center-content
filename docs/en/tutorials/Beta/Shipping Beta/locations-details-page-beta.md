@@ -9,7 +9,7 @@ firstPublishedAt: 2023-05-09T20:47:55.824Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: locations-details-page-beta
+slugEN: locations-details-page-beta
 locale: en
 legacySlug: locations-details-page
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh

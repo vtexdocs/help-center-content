@@ -8,7 +8,7 @@ publishedAt: 2023-10-05T13:51:31.119Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: the-offer-management-module-will-be-discontinued
+slugEN: 2023-10-05-the-offer-management-module-will-be-discontinued
 locale: en
 legacySlug: the-offer-management-module-will-be-discontinued
 announcementImageID: ''

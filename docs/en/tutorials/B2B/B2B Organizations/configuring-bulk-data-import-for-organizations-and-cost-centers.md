@@ -9,7 +9,7 @@ firstPublishedAt: 2024-04-29T18:38:46.485Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: configuring-bulk-data-import-for-organizations-and-cost-centers
+slugEN: configuring-bulk-data-import-for-organizations-and-cost-centers
 locale: en
 legacySlug: configuring-bulk-data-import-for-organizations-and-cost-centers
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl
@@ -51,7 +51,7 @@ To get a detailed overview of the detected problems, follow the steps below:
 
 >ℹ️ Make sure you only upload the file with corrections to the previously detected errors to ensure a successful import.
 
-![Bulk import - EN](https://images.ctfassets.net/alneenqid6w5/xXZgwvWu4ngsY9D9hjQsO/f15af7d4180b8949ef33c25c761122a8/Bulk_import_vers_o_error-gif-EN.gif)
+![Bulk import - EN](//images.ctfassets.net/alneenqid6w5/xXZgwvWu4ngsY9D9hjQsO/f15af7d4180b8949ef33c25c761122a8/Bulk_import_vers_o_error-gif-EN.gif)
 
 # Bulk Import via API
 

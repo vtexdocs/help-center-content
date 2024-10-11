@@ -8,7 +8,7 @@ publishedAt: 2023-06-07T20:17:16.432Z
 contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: vtex-marketplace-launches-in-2022
+slugEN: 2022-10-17-vtex-marketplace-launches-in-2022
 locale: en
 legacySlug: vtex-marketplace-launches-in-2022
 announcementImageID: ''
@@ -78,7 +78,7 @@ Learn more about each one below.
 
 ### Seller Portal 
 
-![Seller Portal gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/ff02b9c926398dcfa69683bcfbf5b02f/Seller_Portal.gif)
+![Seller Portal gif 2022 launch](//images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/ff02b9c926398dcfa69683bcfbf5b02f/Seller_Portal.gif)
 
 The Seller Portal is a VTEX platform edition for [sellers](https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402) to connect and sell their products on VTEX marketplaces. The portal allows sellers to access all the key features necessary to operate ecommerce on big storefronts, increasing visibility and sales conversion. 
 
@@ -126,7 +126,7 @@ To facilitate new sellers joining the Seller Portal, we have also launched the [
 
 ### Seller management
 
-![Seller management gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/6nedzBeTr3y9d47ArKh40r/d280e61590f95fcd669cf45b137790f8/Seller_Management.gif)
+![Seller management gif 2022 launch](//images.ctfassets.net/alneenqid6w5/6nedzBeTr3y9d47ArKh40r/d280e61590f95fcd669cf45b137790f8/Seller_Management.gif)
 
 We launched the redesigned experience of the [Seller Management](https://help.vtex.com/en/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv) page, where marketplace operators can [add sellers](https://help.vtex.com/en/tutorial/adicionar-seller-beta--6q4G4RNqVENr5YMJyindwL) and their respective information and manage their status. 
 

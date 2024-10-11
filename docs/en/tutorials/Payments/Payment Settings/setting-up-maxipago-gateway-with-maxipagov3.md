@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-24T15:43:45.560Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-maxipago-gateway-with-maxipagov3
+slugEN: setting-up-maxipago-gateway-with-maxipagov3
 locale: en
 legacySlug: setting-up-maxipago-gateway-with-maxipagov3
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

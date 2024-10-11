@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: large-importexport-spreadsheet-error-on-new-collections-admin
+slugEN: large-importexport-spreadsheet-error-on-new-collections-admin
 locale: en
 kiStatus: Fixed
 internalReference: 362017

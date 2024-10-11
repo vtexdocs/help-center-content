@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T14:56:39.879Z
 contentType: updates
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
-slug: search-filters-in-instores-endless-aisle
+slugEN: 2021-12-02-search-filters-in-instores-endless-aisle
 locale: en
 legacySlug: search-filters-in-instores-endless-aisle
 announcementImageID: ''

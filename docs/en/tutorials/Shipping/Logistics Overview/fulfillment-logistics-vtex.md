@@ -9,7 +9,7 @@ firstPublishedAt: 2022-01-05T21:37:17.296Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: fulfillment-logistics-vtex
+slugEN: fulfillment-logistics-vtex
 locale: en
 legacySlug: logistics
 subcategoryId: 63f22GypJIBLnMGh1QZUi0

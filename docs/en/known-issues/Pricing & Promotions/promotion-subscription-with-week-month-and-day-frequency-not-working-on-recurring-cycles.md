@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: promotion-subscription-with-week-month-and-day-frequency-not-working-on-recurring-cycles
+slugEN: promotion-subscription-with-week-month-and-day-frequency-not-working-on-recurring-cycles
 locale: en
 kiStatus: Backlog
 internalReference: 965484

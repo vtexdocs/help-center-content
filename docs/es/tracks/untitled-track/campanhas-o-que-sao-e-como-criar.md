@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: unknown
-slug: campanhas-o-que-sao-e-como-criar
+slugEN: campanhas-o-que-sao-e-como-criar
 locale: es
 trackId: 
 trackSlugES: untitled-track

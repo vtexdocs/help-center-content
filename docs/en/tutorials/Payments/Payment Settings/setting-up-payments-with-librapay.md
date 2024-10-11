@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-11T14:34:12.702Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-librapay
+slugEN: setting-up-payments-with-librapay
 locale: en
 legacySlug: setting-up-payments-with-librapay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

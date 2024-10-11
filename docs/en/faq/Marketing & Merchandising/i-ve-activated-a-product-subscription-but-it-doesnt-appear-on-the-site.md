@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-28T19:20:54.475Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: i-ve-activated-a-product-subscription-but-it-doesnt-appear-on-the-site
+slugEN: i-ve-activated-a-product-subscription-but-it-doesnt-appear-on-the-site
 locale: en
 legacySlug: i-ve-activated-a-product-recurrence-but-it-doesnt-appear-on-the-site
 ---

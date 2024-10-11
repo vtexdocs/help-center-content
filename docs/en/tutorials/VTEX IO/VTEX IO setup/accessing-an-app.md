@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-22T02:05:44.120Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: accessing-an-app
+slugEN: accessing-an-app
 locale: en
 legacySlug: accessing-the-app
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

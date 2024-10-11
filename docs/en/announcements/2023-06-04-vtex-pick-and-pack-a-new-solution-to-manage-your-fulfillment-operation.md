@@ -8,7 +8,7 @@ publishedAt: 2023-06-04T21:59:28.794Z
 contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: vtex-pick-and-pack-a-new-solution-to-manage-your-fulfillment-operation
+slugEN: 2023-06-04-vtex-pick-and-pack-a-new-solution-to-manage-your-fulfillment-operation
 locale: en
 legacySlug: vtex-pick-and-pack-a-new-solution-to-manage-your-fulfillment-operation
 announcementImageID: ''

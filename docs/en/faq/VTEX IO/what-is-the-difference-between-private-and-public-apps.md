@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T22:57:33.296Z
 contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
-slug: what-is-the-difference-between-private-and-public-apps
+slugEN: what-is-the-difference-between-private-and-public-apps
 locale: en
 legacySlug: what-is-the-difference-between-private-and-public-apps
 ---

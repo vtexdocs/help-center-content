@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-31T04:03:55.888Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: deactivating-store-skus-and-products
+slugEN: deactivating-store-skus-and-products
 locale: en
 legacySlug: deactivating-store-skus-and-products
 subcategoryId: pwxWmUu7T222QyuGogs68

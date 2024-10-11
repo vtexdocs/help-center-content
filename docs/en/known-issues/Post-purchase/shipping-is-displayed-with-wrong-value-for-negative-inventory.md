@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: shipping-is-displayed-with-wrong-value-for-negative-inventory
+slugEN: shipping-is-displayed-with-wrong-value-for-negative-inventory
 locale: en
 kiStatus: Backlog
 internalReference: 

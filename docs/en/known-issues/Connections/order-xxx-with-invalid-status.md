@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: order-xxx-with-invalid-status
+slugEN: order-xxx-with-invalid-status
 locale: en
 kiStatus: Backlog
 internalReference: 514613

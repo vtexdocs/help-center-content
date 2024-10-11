@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-15T18:59:46.828Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-crecoscorp
+slugEN: setting-up-payments-with-crecoscorp
 locale: en
 legacySlug: setting-up-payments-with-crecoscorp
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

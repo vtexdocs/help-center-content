@@ -9,7 +9,7 @@ firstPublishedAt: 2018-11-08T19:14:39.491Z
 contentType: tutorial
 productTeam: Financial
 author: 6xBnaVsQ7K60kemi2U2Q6w
-slug: customer-credit-overview
+slugEN: customer-credit-overview
 locale: en
 legacySlug: credit-control-overview
 subcategoryId: 7EWKfPIGfmI0G8iMYK8Aiy

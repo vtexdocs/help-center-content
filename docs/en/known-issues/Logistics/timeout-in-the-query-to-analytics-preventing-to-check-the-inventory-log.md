@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: timeout-in-the-query-to-analytics-preventing-to-check-the-inventory-log
+slugEN: timeout-in-the-query-to-analytics-preventing-to-check-the-inventory-log
 locale: en
 kiStatus: Fixed
 internalReference: 984482

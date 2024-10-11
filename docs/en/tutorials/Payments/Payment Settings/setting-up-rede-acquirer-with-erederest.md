@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-13T15:41:42.879Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-rede-acquirer-with-erederest
+slugEN: setting-up-rede-acquirer-with-erederest
 locale: en
 legacySlug: setting-up-rede-acquirer-with-erederest
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

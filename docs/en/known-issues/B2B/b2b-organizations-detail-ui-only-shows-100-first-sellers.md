@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: b2b-organizations-detail-ui-only-shows-100-first-sellers
+slugEN: b2b-organizations-detail-ui-only-shows-100-first-sellers
 locale: en
 kiStatus: Fixed
 internalReference: 966450

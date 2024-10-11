@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:48.283Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: understanding-the-conversation-tracker
+slugEN: understanding-the-conversation-tracker
 locale: en
 legacySlug: understanding-the-conversation-tracker
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee

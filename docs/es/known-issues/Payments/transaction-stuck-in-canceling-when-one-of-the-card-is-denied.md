@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: transaction-stuck-in-canceling-when-one-of-the-card-is-denied
+slugEN: transaction-stuck-in-canceling-when-one-of-the-card-is-denied
 locale: es
 kiStatus: No Fix
 internalReference: 429082

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-01-13T14:29:48.260Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: using-vtex-native-controls
+slugEN: using-vtex-native-controls
 locale: en
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms

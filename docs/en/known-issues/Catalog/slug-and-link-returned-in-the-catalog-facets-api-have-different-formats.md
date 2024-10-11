@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: slug-and-link-returned-in-the-catalog-facets-api-have-different-formats
+slugEN: slug-and-link-returned-in-the-catalog-facets-api-have-different-formats
 locale: en
 kiStatus: Backlog
 internalReference: 998397

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-05-22T18:19:40.922Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_59
-slug: enable-checkout-v6
+slugEN: enable-checkout-v6
 locale: en
 legacySlug: enable-checkout-v6
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
@@ -42,7 +42,7 @@ After the necessary adjustments are completed, you can activate Checkout v6 in t
 
 After this step, Checkout v6 would be installed in your store.
 
-![checkoutv6_box_2](https://images.ctfassets.net/alneenqid6w5/1gXZSHO1C5yRDF6GL6h5IK/f38745c904dfcb233ec0b09d3c01b2a2/CheckoutV6_box2_EN.png)
+![checkoutv6_box_2](//images.ctfassets.net/alneenqid6w5/1gXZSHO1C5yRDF6GL6h5IK/f38745c904dfcb233ec0b09d3c01b2a2/CheckoutV6_box2_EN.png)
 
 ## How to ascertain whether Checkout v6 was properly installed?
 

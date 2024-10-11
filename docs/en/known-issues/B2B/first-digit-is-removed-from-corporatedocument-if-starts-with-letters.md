@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: first-digit-is-removed-from-corporatedocument-if-starts-with-letters
+slugEN: first-digit-is-removed-from-corporatedocument-if-starts-with-letters
 locale: en
 kiStatus: Fixed
 internalReference: 920703

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: wrong-error-message-for-place-order-api-when-the-payload-request-is-invalid
+slugEN: wrong-error-message-for-place-order-api-when-the-payload-request-is-invalid
 locale: en
 kiStatus: Backlog
 internalReference: 709180

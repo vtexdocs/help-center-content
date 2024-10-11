@@ -9,7 +9,7 @@ firstPublishedAt: 2018-06-15T15:07:08.584Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: viewing-the-order-information
+slugEN: viewing-the-order-information
 locale: en
 legacySlug: viewing-the-order-information
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-06-28T18:55:50.482Z
 contentType: trackArticle
 productTeam: Shopping
-slug: enabling-product-recommendations
+slugEN: enabling-product-recommendations
 locale: en
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugEN: enabling-product-recommendations

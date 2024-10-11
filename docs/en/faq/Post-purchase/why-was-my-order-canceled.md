@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:22.347Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
-slug: why-was-my-order-canceled
+slugEN: why-was-my-order-canceled
 locale: en
 legacySlug: why-was-my-order-cancelled
 ---

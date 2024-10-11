@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-05-02T20:48:14.991Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: create-the-category-tree
+slugEN: create-the-category-tree
 locale: en
 trackId: 7sORw9I7QIka24MCQaIO2g
 trackSlugEN: vtex-getting-started

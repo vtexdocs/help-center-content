@@ -8,7 +8,7 @@ publishedAt: 2023-03-29T14:47:12.594Z
 firstPublishedAt: 2019-06-14T16:20:32.543Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: adding-products
+slugEN: adding-products
 locale: en
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugEN: catalog-101

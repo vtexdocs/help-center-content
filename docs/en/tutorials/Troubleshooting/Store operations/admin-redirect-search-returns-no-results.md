@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-24T14:13:11.586Z
 contentType: tutorial
 productTeam: Others
 author: 4ubliktPJIsvyl1hq91RdK
-slug: admin-redirect-search-returns-no-results
+slugEN: admin-redirect-search-returns-no-results
 locale: en
 legacySlug: admin-redirect-search-returns-no-results
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB

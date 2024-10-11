@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: negative-amounts-in-split-recipients
+slugEN: negative-amounts-in-split-recipients
 locale: en
 kiStatus: Backlog
 internalReference: 388580

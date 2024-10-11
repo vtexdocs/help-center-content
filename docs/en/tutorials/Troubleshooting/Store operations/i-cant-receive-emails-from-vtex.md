@@ -9,7 +9,7 @@ firstPublishedAt: 2024-05-29T13:14:04.884Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: i-cant-receive-emails-from-vtex
+slugEN: i-cant-receive-emails-from-vtex
 locale: en
 legacySlug: i-cant-receive-emails-from-vtex
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB

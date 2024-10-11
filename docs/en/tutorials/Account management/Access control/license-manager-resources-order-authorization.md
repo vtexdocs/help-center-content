@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-16T20:29:24.242Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: license-manager-resources-order-authorization
+slugEN: license-manager-resources-order-authorization
 locale: en
 legacySlug: 
 subcategoryId: 1HSqkejwuYcQSMC400uY84

@@ -9,7 +9,7 @@ firstPublishedAt: 2023-07-19T20:41:17.099Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: find-sellers
+slugEN: find-sellers
 locale: en
 legacySlug: find-sellers
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq

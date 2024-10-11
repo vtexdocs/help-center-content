@@ -8,7 +8,7 @@ publishedAt: 2023-04-19T13:21:05.124Z
 contentType: updates
 productTeam: Others
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: coupon-experience-improvements
+slugEN: 2023-04-13-coupon-experience-improvements
 locale: en
 legacySlug: coupon-experience-improvements
 announcementImageID: ''
@@ -44,7 +44,7 @@ The new filters allow you to view coupons that meet specific criteria. The avail
 - Last modified
 - Coupon type
 
-![filtroscupons en](https://images.ctfassets.net/alneenqid6w5/5ImK8Og5MsOnruVxkwblJ6/b2abce2b73d9facd5edcf6f589dad039/filtroscupons_en.gif)
+![filtroscupons en](//images.ctfassets.net/alneenqid6w5/5ImK8Og5MsOnruVxkwblJ6/b2abce2b73d9facd5edcf6f589dad039/filtroscupons_en.gif)
 
 ### Coupon groups for agile management
 

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:45.450Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: shipping-simulation
+slugEN: shipping-simulation
 locale: en
 legacySlug: freight-simulation
 subcategoryId: 1O8AEORWOcgIiMosGoousQ

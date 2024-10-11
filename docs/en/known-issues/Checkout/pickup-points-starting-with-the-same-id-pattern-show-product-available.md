@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: pickup-points-starting-with-the-same-id-pattern-show-product-available
+slugEN: pickup-points-starting-with-the-same-id-pattern-show-product-available
 locale: en
 kiStatus: Backlog
 internalReference: 964036

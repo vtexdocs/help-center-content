@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: order-replacement-feature-doesnt-work-when-the-replaced-cart-and-original-order-have-the-same-value
+slugEN: order-replacement-feature-doesnt-work-when-the-replaced-cart-and-original-order-have-the-same-value
 locale: en
 kiStatus: Fixed
 internalReference: 866622

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: error-in-checkout-error-message
+slugEN: error-in-checkout-error-message
 locale: en
 kiStatus: No Fix
 internalReference: 409895

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: moving-categories-does-not-update-the-department-id-on-the-products
+slugEN: moving-categories-does-not-update-the-department-id-on-the-products
 locale: en
 kiStatus: Backlog
 internalReference: 316694

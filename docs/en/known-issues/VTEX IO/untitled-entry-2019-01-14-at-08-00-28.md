@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 tag: VTEX IO
-slug: untitled-entry-2019-01-14-at-08-00-28
+slugEN: untitled-entry-2019-01-14-at-08-00-28
 locale: en
 kiStatus: 
 internalReference: 

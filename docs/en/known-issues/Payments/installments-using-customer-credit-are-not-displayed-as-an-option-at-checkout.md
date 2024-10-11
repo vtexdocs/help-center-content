@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: installments-using-customer-credit-are-not-displayed-as-an-option-at-checkout
+slugEN: installments-using-customer-credit-are-not-displayed-as-an-option-at-checkout
 locale: en
 kiStatus: Backlog
 internalReference: 1078804

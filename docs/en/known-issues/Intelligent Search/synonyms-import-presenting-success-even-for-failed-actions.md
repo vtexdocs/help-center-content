@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: synonyms-import-presenting-success-even-for-failed-actions
+slugEN: synonyms-import-presenting-success-even-for-failed-actions
 locale: en
 kiStatus: Backlog
 internalReference: 984557

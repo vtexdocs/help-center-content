@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-29T22:34:49.769Z
 contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: names-of-vtex-branches-worldwide
+slugEN: names-of-vtex-branches-worldwide
 locale: en
 legacySlug: names-of-vtex-branches-worldwide
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC

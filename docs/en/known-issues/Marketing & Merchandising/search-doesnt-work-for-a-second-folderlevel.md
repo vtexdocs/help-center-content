@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: search-doesnt-work-for-a-second-folderlevel
+slugEN: search-doesnt-work-for-a-second-folderlevel
 locale: en
 kiStatus: Backlog
 internalReference: 

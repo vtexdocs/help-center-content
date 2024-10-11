@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-does-not-correctly-calculate-shipping-value-for-single-item-that-has-free-shipping-and-scheduled-delivery
+slugEN: checkout-does-not-correctly-calculate-shipping-value-for-single-item-that-has-free-shipping-and-scheduled-delivery
 locale: en
 kiStatus: No Fix
 internalReference: 529043

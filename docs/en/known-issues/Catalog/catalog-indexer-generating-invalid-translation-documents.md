@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-indexer-generating-invalid-translation-documents
+slugEN: catalog-indexer-generating-invalid-translation-documents
 locale: en
 kiStatus: No Fix
 internalReference: 991494

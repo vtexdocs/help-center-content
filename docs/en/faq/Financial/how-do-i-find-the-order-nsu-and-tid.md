@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-19T21:07:32.439Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_84
-slug: how-do-i-find-the-order-nsu-and-tid
+slugEN: how-do-i-find-the-order-nsu-and-tid
 locale: en
 legacySlug: how-do-i-find-the-order-nsu-and-tid
 ---

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-error-sku-integration-input-string-was-not-in-a-correct-format
+slugEN: meli-error-sku-integration-input-string-was-not-in-a-correct-format
 locale: en
 kiStatus: Backlog
 internalReference: 664010

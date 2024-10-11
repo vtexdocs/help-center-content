@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-25T21:21:09.213Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: what-is-a-group
+slugEN: what-is-a-group
 locale: en
 legacySlug: what-is-a-group
 subcategoryId: pwxWmUu7T222QyuGogs68

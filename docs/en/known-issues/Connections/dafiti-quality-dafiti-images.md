@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: dafiti-quality-dafiti-images
+slugEN: dafiti-quality-dafiti-images
 locale: en
 kiStatus: Fixed
 internalReference: 675317

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: addresses-are-shown-in-the-checkout-when-buyer-has-can-add-shipping-permission
+slugEN: addresses-are-shown-in-the-checkout-when-buyer-has-can-add-shipping-permission
 locale: en
 kiStatus: Backlog
 internalReference: 1037067

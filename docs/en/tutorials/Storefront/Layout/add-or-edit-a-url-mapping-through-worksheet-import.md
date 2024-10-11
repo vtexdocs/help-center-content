@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-04T15:12:12.019Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: add-or-edit-a-url-mapping-through-worksheet-import
+slugEN: add-or-edit-a-url-mapping-through-worksheet-import
 locale: en
 legacySlug: add-or-edit-a-url-mapping-through-worksheet-import
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

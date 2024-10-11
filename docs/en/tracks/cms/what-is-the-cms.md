@@ -1,14 +1,14 @@
 ---
 title: 'CMS - Overview'
 id: 6OCY6S9tqBXPD5mgpbBInC
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-01-08T13:23:56.157Z
-updatedAt: 2023-04-25T19:27:34.938Z
+updatedAt: 2024-10-03T14:11:49.558Z
 publishedAt: 2023-04-25T19:27:34.938Z
 firstPublishedAt: 2020-01-13T14:28:47.464Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: what-is-the-cms
+slugEN: what-is-the-cms
 locale: en
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms

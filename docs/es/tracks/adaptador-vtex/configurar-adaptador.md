@@ -8,7 +8,7 @@ publishedAt: 2021-10-06T16:21:21.766Z
 firstPublishedAt: 2021-10-06T16:13:39.161Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: configurar-adaptador
+slugEN: configurar-adaptador
 locale: es
 trackId: 132YFN170Jvs6ZUBGh8w2e
 trackSlugES: adaptador-vtex

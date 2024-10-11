@@ -8,7 +8,7 @@ publishedAt: 2023-08-11T18:10:58.039Z
 firstPublishedAt: 2021-02-23T21:41:19.622Z
 contentType: trackArticle
 productTeam: Channels
-slug: defining-dafiti-trade-policy
+slugEN: defining-dafiti-trade-policy
 locale: en
 trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugEN: dafiti-integration-setup

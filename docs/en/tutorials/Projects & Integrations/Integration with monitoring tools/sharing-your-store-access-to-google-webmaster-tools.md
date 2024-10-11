@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:08:13.093Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: sharing-your-store-access-to-google-webmaster-tools
+slugEN: sharing-your-store-access-to-google-webmaster-tools
 locale: en
 legacySlug: sharing-your-store-access-to-google-webmaster-tools
 subcategoryId: 1luKrYptdi8WoMYckakUaM
@@ -23,14 +23,14 @@ After accessing your account, you will be directed to the list of your websites;
 
 Now, go to the admin panel of our page. There are several options available on the left-side menu, however, to share the access, you must select the gear icon on the top menu, and click on **Site users and owners.**
 
-![web2](https://images.contentful.com/alneenqid6w5/kk9u4aygFyAG4EkKsYIw0/67bd8a6966fafea49f6c50f81d36c49d/web2.png)
+![web2](//images.contentful.com/alneenqid6w5/kk9u4aygFyAG4EkKsYIw0/67bd8a6966fafea49f6c50f81d36c49d/web2.png)
 
 The list of users already authorized to access the website will be displayed; then, in order to add a new user, just click on the top of the screen on the **Add New User** button.
 
-![web3](https://images.contentful.com/alneenqid6w5/1MLOKUoQliKsMc88EQUcmK/3e7dc118b07c2f23282ba48e63c1aee0/web3.png)
+![web3](//images.contentful.com/alneenqid6w5/1MLOKUoQliKsMc88EQUcmK/3e7dc118b07c2f23282ba48e63c1aee0/web3.png)
 
 Then, a pop-up will be displayed requesting information about the e-mail of the user that will be added, and the type of authorization &#8211; full or restricted – that the user will have.
 
-![web4](https://images.contentful.com/alneenqid6w5/hINzOyisNy0GyaMSOMEMq/b629abc8ff70a3820ab37f8a57f974e2/web4.png)
+![web4](//images.contentful.com/alneenqid6w5/hINzOyisNy0GyaMSOMEMq/b629abc8ff70a3820ab37f8a57f974e2/web4.png)
 
 Do not forget to click on **Add** to save the information.

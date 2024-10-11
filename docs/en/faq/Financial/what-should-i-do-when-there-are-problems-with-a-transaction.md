@@ -9,7 +9,7 @@ firstPublishedAt: 2017-05-09T13:44:57.343Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_35
-slug: what-should-i-do-when-there-are-problems-with-a-transaction
+slugEN: what-should-i-do-when-there-are-problems-with-a-transaction
 locale: en
 legacySlug: what-should-i-do-when-there-are-problems-with-a-transaction
 ---
@@ -28,7 +28,7 @@ On February 8, VTEX received a notification from Gateway of a change of Status.
 ![2017-04-11-17 28 32-4820587- -VTEX-PCI-Gateway-300x65](https://images.contentful.com/alneenqid6w5/7us92BzXFYwyQsUqWQa0sM/9c8e7dc490e5497bf8cfa16e0f7874ce/2017-04-11-17_28_32-4820587-_-VTEX-PCI-Gateway-300x65.png) 
 
 On April 3, the gateway returns an error in the Status.
-![2017-04-11-17 26 40-4820587- -VTEX-PCI-Gateway-300x87](https://images.contentful.com/alneenqid6w5/35WTOXDAC4WgS0Ki866SSS/6d7f6ed699ef653d79d709c97320d10c/2017-04-11-17_26_40-4820587-_-VTEX-PCI-Gateway-300x87.png)
+![2017-04-11-17 26 40-4820587- -VTEX-PCI-Gateway-300x87](//images.contentful.com/alneenqid6w5/35WTOXDAC4WgS0Ki866SSS/6d7f6ed699ef653d79d709c97320d10c/2017-04-11-17_26_40-4820587-_-VTEX-PCI-Gateway-300x87.png)
 
 Another example would be if the Gateway (partner) reports that it does not have full details of a credit card to complete a purchase. However, the transaction details at the top of the page show that the information exists - the order could not have been completed without this information. The solution here would be the same, to contact your Gateway.
 

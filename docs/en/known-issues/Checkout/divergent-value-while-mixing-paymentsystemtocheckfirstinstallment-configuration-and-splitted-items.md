@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: divergent-value-while-mixing-paymentsystemtocheckfirstinstallment-configuration-and-splitted-items
+slugEN: divergent-value-while-mixing-paymentsystemtocheckfirstinstallment-configuration-and-splitted-items
 locale: en
 kiStatus: Backlog
 internalReference: 766454

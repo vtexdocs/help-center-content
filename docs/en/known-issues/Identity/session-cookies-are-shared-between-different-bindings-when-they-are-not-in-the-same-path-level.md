@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slug: session-cookies-are-shared-between-different-bindings-when-they-are-not-in-the-same-path-level
+slugEN: session-cookies-are-shared-between-different-bindings-when-they-are-not-in-the-same-path-level
 locale: en
 kiStatus: No Fix
 internalReference: 925071

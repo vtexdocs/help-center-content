@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: selection-of-sellers-available-in-the-commercial-policy-is-not-working-properly
+slugEN: selection-of-sellers-available-in-the-commercial-policy-is-not-working-properly
 locale: en
 kiStatus: Backlog
 internalReference: 515480

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-10T00:04:19.239Z
 contentType: tutorial
 productTeam: Reliability
 author: authors_4
-slug: best-practices-on-spf
+slugEN: best-practices-on-spf
 locale: en
 legacySlug: best-practices-on-spf
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy

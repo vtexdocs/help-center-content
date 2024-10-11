@@ -9,7 +9,7 @@ firstPublishedAt: 2017-07-04T19:16:21.471Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
-slug: how-to-use-the-index-report
+slugEN: how-to-use-the-index-report
 locale: en
 legacySlug: how-to-use-the-index-report
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa

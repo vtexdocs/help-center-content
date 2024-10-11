@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-07T19:58:45.529Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: configuring-my-account-conversational-commerce
+slugEN: configuring-my-account-conversational-commerce
 locale: en
 legacySlug: configuring-my-account-conversational-commerce
 subcategoryId: 5bBAgUbHdh6ovdZ4kGsN7O

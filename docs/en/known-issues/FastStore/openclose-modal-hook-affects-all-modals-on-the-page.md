@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: openclose-modal-hook-affects-all-modals-on-the-page
+slugEN: openclose-modal-hook-affects-all-modals-on-the-page
 locale: en
 kiStatus: Backlog
 internalReference: 1042165

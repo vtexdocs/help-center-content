@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-17T18:30:56.599Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: changing-tracking-data
+slugEN: changing-tracking-data
 locale: en
 legacySlug: changing-tracking-data-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ

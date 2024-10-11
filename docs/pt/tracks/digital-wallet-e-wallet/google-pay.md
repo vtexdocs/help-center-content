@@ -8,7 +8,7 @@ publishedAt: 2024-08-02T13:49:01.227Z
 firstPublishedAt: 2023-06-27T21:46:39.537Z
 contentType: trackArticle
 productTeam: Shopping
-slug: google-pay
+slugEN: google-pay
 locale: pt
 trackId: 6X8YyZBoVJpz5R8oXciTyu
 trackSlugPT: carteira-digital-e-wallet
@@ -48,11 +48,11 @@ Feito isso, o Google Pay estará disponível no checkout da sua loja VTEX como n
 
 Para consultar e verificar transações que foram finalizadas com o Google Pay no pagamento, siga os passos descritos no artigo [Ver detalhes da transação](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy). Na barra de busca da página de transações, digite **Google Pay** para filtrar as transações realizadas com este tipo de pagamento.
 
-![Google Pay Transaction_1](https://images.ctfassets.net/alneenqid6w5/3N6LkrdAmAEfmDDsuLaWz5/7529f5dce8a104bc97e546cb31a47843/Google_Pay_Transaction1_PT.png)
+![Google Pay Transaction_1](//images.ctfassets.net/alneenqid6w5/3N6LkrdAmAEfmDDsuLaWz5/7529f5dce8a104bc97e546cb31a47843/Google_Pay_Transaction1_PT.png)
 
 Após acessar a transação desejada, clique em `+ Informações` para verificar a informação **Google Pay** descrita no campo `paymentOrigin`.
 
-![Google Pay Transaction_2](https://images.ctfassets.net/alneenqid6w5/6nLdqOG38LEUbmSKth5FRP/904607c6df63c9168c35435b9bb5068e/Google_Pay_Transaction2_PT.png)
+![Google Pay Transaction_2](//images.ctfassets.net/alneenqid6w5/6nLdqOG38LEUbmSKth5FRP/904607c6df63c9168c35435b9bb5068e/Google_Pay_Transaction2_PT.png)
 
 >⚠️ Também é possível identificar transações realizadas com o Google Pay por meio da página **Todos os pedidos** no Admin. Você precisa somente selecionar o período desejado de busca, [exportar os pedidos](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/6rVCf9KLn1jgTaxS0xuByu) em um relatório no formato .csv e localizar a informação Google Pay no campo "payment origin".
 

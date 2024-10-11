@@ -9,7 +9,7 @@ firstPublishedAt: 2019-08-05T16:04:44.610Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 3uCjaRpzeMieQWwWycYAMG
-slug: vtex-invoice-notifier
+slugEN: vtex-invoice-notifier
 locale: es
 legacySlug: vtex-invoice-notifier
 subcategoryId: 54gbzsku02c4bKmgFbp3v3
@@ -31,7 +31,7 @@ El operador debe, en el pedido, seleccionar el paquete o los ítems que desea fa
 
 ![notify-invoicer1](https://images.ctfassets.net/alneenqid6w5/1pTJ8sEgLo7cpyYcVFQKxR/7a0b066fc646d1941f3ac704023ea5f7/notify-invoicer1.png)
 
-![notify-invoicer2](https://images.ctfassets.net/alneenqid6w5/59qqed77NuvF0rrlpdABe9/1108b18f8eba54bf25c6766803578b42/notify-invoicer2.png)
+![notify-invoicer2](//images.ctfassets.net/alneenqid6w5/59qqed77NuvF0rrlpdABe9/1108b18f8eba54bf25c6766803578b42/notify-invoicer2.png)
 
 Cuando el usuario del OMS presione el botón __Request Invoice__, el app realizará un request POST en el endpoint registrado en el APP con el siguiente BODY, ejemplo:
 

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:13:17.357Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_37
-slug: how-to-check-error-details-in-the-orders
+slugEN: how-to-check-error-details-in-the-orders
 locale: en
 legacySlug: how-to-check-error-details-in-the-orders
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

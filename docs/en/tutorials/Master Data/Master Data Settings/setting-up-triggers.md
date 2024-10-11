@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-03T19:46:07.420Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_64
-slug: setting-up-triggers
+slugEN: setting-up-triggers
 locale: en
 legacySlug: setting-up-triggers
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

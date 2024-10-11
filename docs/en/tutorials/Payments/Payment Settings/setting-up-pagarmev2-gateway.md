@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-11T21:51:25.333Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-pagarmev2-gateway
+slugEN: setting-up-pagarmev2-gateway
 locale: en
 legacySlug: setting-up-pagarmev2-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

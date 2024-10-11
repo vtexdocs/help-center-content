@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-06T18:46:01.372Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_64
-slug: setting-up-alternate-keys
+slugEN: setting-up-alternate-keys
 locale: en
 legacySlug: setting-up-alternate-keys
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

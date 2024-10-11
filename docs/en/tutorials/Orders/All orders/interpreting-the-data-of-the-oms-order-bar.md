@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:19.805Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: interpreting-the-data-of-the-oms-order-bar
+slugEN: interpreting-the-data-of-the-oms-order-bar
 locale: en
 legacySlug: interpreting-the-data-of-the-oms-order-bar
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

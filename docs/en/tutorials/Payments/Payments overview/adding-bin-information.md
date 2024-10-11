@@ -9,7 +9,7 @@ firstPublishedAt: 2024-05-02T19:44:35.388Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: adding-bin-information
+slugEN: adding-bin-information
 locale: en
 legacySlug: adding-bin-information
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
@@ -39,4 +39,4 @@ In the ticket, you should attach a spreadsheet with the following information:
 
 Template example:
 
-![Bin_spreadsheet](https://images.ctfassets.net/alneenqid6w5/1bYkI1ppRO3r7VtpFyDPfA/3c5b160ad784b2fdf80b57f99a375050/Bin_spreadsheet.PNG)
+![Bin_spreadsheet](//images.ctfassets.net/alneenqid6w5/1bYkI1ppRO3r7VtpFyDPfA/3c5b160ad784b2fdf80b57f99a375050/Bin_spreadsheet.PNG)

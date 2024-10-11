@@ -9,7 +9,7 @@ firstPublishedAt: 2023-12-21T18:07:21.012Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: configuring-seller-allocation-for-buying-xky
+slugEN: configuring-seller-allocation-for-buying-xky
 locale: en
 legacySlug: configuring-seller-allocation-for-buying-xky
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
@@ -34,11 +34,11 @@ To assign sellers to a particular buying organization, follow the steps below:
 
 <li>In the <b>Sellers</b> tab, under <b>Disponible</b>, select the desired sellers.</li>
 
-![Details Organization](https://images.ctfassets.net/alneenqid6w5/185XmP4eH8WdgFT5T7CONb/860e494a5cb6ed7c25ed7f7423ae082e/ORGANIZACOES-DETALHES2_-_EN__com_clique_.jpg)
+![Details Organization](//images.ctfassets.net/alneenqid6w5/185XmP4eH8WdgFT5T7CONb/860e494a5cb6ed7c25ed7f7423ae082e/ORGANIZACOES-DETALHES2_-_EN__com_clique_.jpg)
 
 <li>Click the <b>ADD TO ORG</b> button.</li>
 
-![Details Organizations 2](https://images.ctfassets.net/alneenqid6w5/2assMBtPIxiA80ldC1yNwu/ba7c7629dda12d95e114ecb0570e4927/ORGANIZACOES-DETALHES2_-_EN.jpg)
+![Details Organizations 2](//images.ctfassets.net/alneenqid6w5/2assMBtPIxiA80ldC1yNwu/ba7c7629dda12d95e114ecb0570e4927/ORGANIZACOES-DETALHES2_-_EN.jpg)
 
 <li>Click <b>Save</b>.</li>
 

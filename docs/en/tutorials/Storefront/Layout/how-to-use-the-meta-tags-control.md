@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:06:45.424Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: how-to-use-the-meta-tags-control
+slugEN: how-to-use-the-meta-tags-control
 locale: en
 legacySlug: how-to-use-the-meta-tags-control
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

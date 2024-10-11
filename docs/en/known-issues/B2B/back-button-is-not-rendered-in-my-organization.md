@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: back-button-is-not-rendered-in-my-organization
+slugEN: back-button-is-not-rendered-in-my-organization
 locale: en
 kiStatus: Fixed
 internalReference: 797003

@@ -8,7 +8,7 @@ publishedAt: 2023-01-30T20:40:34.273Z
 firstPublishedAt: 2020-01-13T14:33:19.010Z
 contentType: trackArticle
 productTeam: Identity
-slug: what-is-the-master-user
+slugEN: what-is-the-master-user
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: contas-e-permissoes

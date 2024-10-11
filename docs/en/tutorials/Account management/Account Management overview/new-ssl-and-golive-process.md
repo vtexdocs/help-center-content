@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:15.006Z
 contentType: tutorial
 productTeam: Reliability
 author: authors_4
-slug: new-ssl-and-golive-process
+slugEN: new-ssl-and-golive-process
 locale: en
 legacySlug: 
 subcategoryId: 4i9qIf0r8IKSOkqoSmEssu

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:26:19.150Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_35
-slug: creating-a-contingency-pickup-point-to-guarantee-it-as-an-option-at-checkout
+slugEN: creating-a-contingency-pickup-point-to-guarantee-it-as-an-option-at-checkout
 locale: en
 legacySlug: creating-a-contingency-pickup-point-to-guarantee-it-as-an-option-at-checkout
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk

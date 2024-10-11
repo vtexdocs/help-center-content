@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:18.364Z
 contentType: tutorial
 productTeam: Channels
 author: authors_24
-slug: integrating-with-farmacias-app
+slugEN: integrating-with-farmacias-app
 locale: en
 legacySlug: integrating-with-farmacias-app
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
@@ -51,7 +51,7 @@ Afterwards, you will have to:
 Lastly, the affiliate must be registered, as it is the unique identity of the marketplace in your store. To do this, follow the steps below:
 
 1. Access the **Orders Managment** module;
-2. Click on the **Settings** button;![Farmacias2](https://images.contentful.com/alneenqid6w5/7Mekt0KzpmaS4M4uoEu2kC/d0b13138a044072b6ba2c7c89808eacc/Farmacias2.png)
+2. Click on the **Settings** button;![Farmacias2](//images.contentful.com/alneenqid6w5/7Mekt0KzpmaS4M4uoEu2kC/d0b13138a044072b6ba2c7c89808eacc/Farmacias2.png)
 3. Click on the **Affiliates** tab;
 4. Click on the **New Affiliate** button;
 5. Complete the fields as follows:
@@ -62,7 +62,7 @@ Lastly, the affiliate must be registered, as it is the unique identity of the ma
 **E-mail for notifications**: _e-mail of the person responsible for the integration_;
 **Search Endpoint**: https://integrador.farmaciasapp.com.br/Vtex/api/notification
 
-![Farmacias3](https://images.contentful.com/alneenqid6w5/6pnQjxLuhO8cUogU6oYoig/953a840b59416974f9a3baeff39d47cd/Farmacias3.png)
+![Farmacias3](//images.contentful.com/alneenqid6w5/6pnQjxLuhO8cUogU6oYoig/953a840b59416974f9a3baeff39d47cd/Farmacias3.png)
 
 _When the payments are processed using Farmácias App, the **Usar meu meio de pagamento** option must be disabled. Check this option only for payments processed in different environments, such as payments processed on the VTEX platform._
 

@@ -8,7 +8,7 @@ publishedAt: 2022-04-07T21:31:16.973Z
 firstPublishedAt: 2022-03-07T13:52:25.531Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: getting-started-with-logistics
+slugEN: getting-started-with-logistics
 locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101

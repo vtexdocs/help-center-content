@@ -9,7 +9,7 @@ firstPublishedAt: 2021-03-17T01:05:49.343Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: offer-management
+slugEN: offer-management
 locale: en
 legacySlug: offers-listing
 subcategoryId: 2zVauFUkYn8vgS0y0MfWeK
@@ -27,11 +27,11 @@ In **Offer Management**, you can track offers sent to the following channels: [M
 
 To access the module, in the VTEX Admin go to **Marketplace > Connections > Offer Management**. The following interface is displayed:
 
-![sent-offers-en_2](https://images.ctfassets.net/alneenqid6w5/4NEuTkSW9kSb6SQa3I7QPc/ab112c902aff07dd90b1271dbac0cfae/sent-offers-en_2.png)
+![sent-offers-en_2](//images.ctfassets.net/alneenqid6w5/4NEuTkSW9kSb6SQa3I7QPc/ab112c902aff07dd90b1271dbac0cfae/sent-offers-en_2.png)
 
 The **Offer Management** interface displays a list of your offers, and you can click on any of the offers to access the [offer details](https://help.vtex.com/en/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) and check the [interaction details](https://help.vtex.com/en/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf). Interactions are the offer logs when sending and syncing them with the sales channel and are available for consultation for ten days.
 
-![diagrama ju meyer sent offers en](https://images.ctfassets.net/alneenqid6w5/1v1nQSOtb5hekGMB4sQCiW/4537ebb6b68838ee6ee4d1bc03dd87c8/diagrama_ju_meyer_sent_offers_en.png)
+![diagrama ju meyer sent offers en](//images.ctfassets.net/alneenqid6w5/1v1nQSOtb5hekGMB4sQCiW/4537ebb6b68838ee6ee4d1bc03dd87c8/diagrama_ju_meyer_sent_offers_en.png)
 
 On the **Offer Management** page, you can perform the following actions:
 

@@ -8,7 +8,7 @@ publishedAt: 2024-09-02T20:16:09.210Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: received-skus-new-sku-management-experience
+slugEN: 2024-09-02-received-skus-new-sku-management-experience
 locale: en
 legacySlug: received-skus-new-sku-management-experience
 announcementImageID: ''

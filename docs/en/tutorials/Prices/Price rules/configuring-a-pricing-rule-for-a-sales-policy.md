@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-19T18:26:04.279Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: configuring-a-pricing-rule-for-a-sales-policy
+slugEN: configuring-a-pricing-rule-for-a-sales-policy
 locale: en
 legacySlug: setting-a-pricing-rule-for-a-sales-policy
 subcategoryId: wUepkh8pzimEywO8oGUIc

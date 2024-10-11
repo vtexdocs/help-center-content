@@ -9,7 +9,7 @@ firstPublishedAt: 2023-05-30T18:01:54.161Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: media-overview
+slugEN: media-overview
 locale: en
 legacySlug: media-overview
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
@@ -41,7 +41,7 @@ There are three ways to access Media:
 
 In the following image, you can see an overview of the Media interface and the actions available for managing your media files:
 
-![Media Features](https://images.ctfassets.net/alneenqid6w5/2teyzkUy2zP5vjMLPxlXgD/7466fed34ed8183fde0b9d61e68b9e1f/en-media-features.png)
+![Media Features](//images.ctfassets.net/alneenqid6w5/2teyzkUy2zP5vjMLPxlXgD/7466fed34ed8183fde0b9d61e68b9e1f/en-media-features.png)
 
 | Field | Description |
 | ---------- | ------------- |

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:16.876Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_65
-slug: improving-the-performance-of-product-images
+slugEN: improving-the-performance-of-product-images
 locale: en
 legacySlug: improving-the-performance-of-product-images
 subcategoryId: pwxWmUu7T222QyuGogs68

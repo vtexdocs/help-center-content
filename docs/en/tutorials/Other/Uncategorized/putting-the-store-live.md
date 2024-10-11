@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:53.720Z
 contentType: tutorial
 productTeam: Others
 author: authors_6
-slug: putting-the-store-live
+slugEN: putting-the-store-live
 locale: en
 legacySlug: putting-the-store-live
 subcategoryId: 54gbzsku02c4bKmgFbp3v3

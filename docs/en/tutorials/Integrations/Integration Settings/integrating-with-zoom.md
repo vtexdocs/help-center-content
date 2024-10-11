@@ -9,7 +9,7 @@ firstPublishedAt: 2017-05-19T18:04:32.420Z
 contentType: tutorial
 productTeam: Channels
 author: authors_84
-slug: integrating-with-zoom
+slugEN: integrating-with-zoom
 locale: en
 legacySlug: integrating-with-zoom
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

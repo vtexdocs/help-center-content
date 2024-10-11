@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: shippingvalue-viewpart-incorrectly-displays-delivery-times-in-hours
+slugEN: shippingvalue-viewpart-incorrectly-displays-delivery-times-in-hours
 locale: en
 kiStatus: Backlog
 internalReference: 

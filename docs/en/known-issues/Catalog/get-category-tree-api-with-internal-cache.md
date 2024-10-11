@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: get-category-tree-api-with-internal-cache
+slugEN: get-category-tree-api-with-internal-cache
 locale: en
 kiStatus: Backlog
 internalReference: 480892

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-01T15:11:15.880Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: analyze-a-products-reservations
+slugEN: analyze-a-products-reservations
 locale: en
 legacySlug: analyze-a-products-reservations
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-11-19T22:44:09.933Z
 contentType: tutorial
 productTeam: Identity
 author: 6LC2rhKOT6njHIo2w4cMu1
-slug: using-session-manager-to-track-browsing-sessions-in-vtex-stores
+slugEN: using-session-manager-to-track-browsing-sessions-in-vtex-stores
 locale: en
 legacySlug: using-session-manager-to-track-browsing-sessions-in-vtex-stores
 subcategoryId: dajK0sARX2c0MISKKoGoc

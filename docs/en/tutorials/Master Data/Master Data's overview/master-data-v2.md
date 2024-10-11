@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-06T18:49:21.256Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_64
-slug: master-data-v2
+slugEN: master-data-v2
 locale: en
 legacySlug: master-data-v2
 subcategoryId: 5gtjaqCG7eIseyCI0aSqc2
@@ -27,7 +27,7 @@ The JSON Schema indicates how to validate and index. A data entity may or may no
 ![master-data-data-entity-schemas](https://images.contentful.com/alneenqid6w5/5Ms8eS24xOsGWcEGY0WKwu/724d0585090ee2d3bf6fc47dad7a3859/master-data-data-entity-schemas.jpg)
 
 A document could be compliant with none or multiple schemas.
-![master-data-documents-compliant](https://images.contentful.com/alneenqid6w5/7m7NMV5Hc4Wq8aKeGeWiAY/29301b6873e1549c244d56e15cf4caf7/master-data-documents-compliant.jpg)
+![master-data-documents-compliant](//images.contentful.com/alneenqid6w5/7m7NMV5Hc4Wq8aKeGeWiAY/29301b6873e1549c244d56e15cf4caf7/master-data-documents-compliant.jpg)
 
 This means that JSON Schema is a format of documents in data entities.
 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: buttons-may-not-work-on-the-first-try-in-fullcleanup-admin
+slugEN: buttons-may-not-work-on-the-first-try-in-fullcleanup-admin
 locale: en
 kiStatus: Backlog
 internalReference: 790828

@@ -9,7 +9,7 @@ firstPublishedAt: 2020-06-19T21:45:23.401Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: understand-vtex-payment-fees
+slugEN: understand-vtex-payment-fees
 locale: en
 legacySlug: understand-vtex-payment-fees
 subcategoryId: 23PYStKNPteW4CqklwXXQN

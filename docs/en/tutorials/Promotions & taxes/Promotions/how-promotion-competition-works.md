@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:50.791Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: how-promotion-competition-works
+slugEN: how-promotion-competition-works
 locale: en
 legacySlug: understanding-competition-of-promotions
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq

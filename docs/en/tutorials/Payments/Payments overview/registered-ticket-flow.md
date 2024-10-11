@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:38:41.989Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slug: registered-ticket-flow
+slugEN: registered-ticket-flow
 locale: en
 legacySlug: registered-ticket-flow
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
@@ -35,7 +35,7 @@ At this time, the ticket has not yet been paid by the customer.
 
 ## Ticket Payment and Bank Reconciliation
 
-![processo-boleto-registrado-en ex 1](https://images.ctfassets.net/alneenqid6w5/1c6VvblROiioeMmacWkuii/37a83bad6931c6ae6a8fa89a5b773127/paint_bank_en.png)
+![processo-boleto-registrado-en ex 1](//images.ctfassets.net/alneenqid6w5/1c6VvblROiioeMmacWkuii/37a83bad6931c6ae6a8fa89a5b773127/paint_bank_en.png)
 
 1. the __Client__ pays the ticket directly to the __Bank__.
 2. The bank sends the [bank reconciliation](/en/tutorial/bank-reconciliations) files to the __Gateway__ with information on the tickets payment status.

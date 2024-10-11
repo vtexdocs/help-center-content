@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
-slug: productinsertsku-control-is-not-following-the-set-order-of-the-product-registry
+slugEN: productinsertsku-control-is-not-following-the-set-order-of-the-product-registry
 locale: en
 kiStatus: Backlog
 internalReference: 

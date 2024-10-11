@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-02T19:46:03.221Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-webpay2p-gateway
+slugEN: setting-up-webpay2p-gateway
 locale: en
 legacySlug: setting-up-webpay2p-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

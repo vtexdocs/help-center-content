@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-06T19:19:16.993Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: why-doesnt-my-benefit-work-for-all-types-of-delivery
+slugEN: why-doesnt-my-benefit-work-for-all-types-of-delivery
 locale: en
 legacySlug: why-doesnt-my-benefit-work-for-all-types-of-delivery
 ---

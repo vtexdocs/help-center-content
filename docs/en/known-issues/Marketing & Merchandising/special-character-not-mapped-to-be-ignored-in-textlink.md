@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_63
 tag: Catalog
-slug: special-character-not-mapped-to-be-ignored-in-textlink
+slugEN: special-character-not-mapped-to-be-ignored-in-textlink
 locale: en
 kiStatus: Backlog
 internalReference: 

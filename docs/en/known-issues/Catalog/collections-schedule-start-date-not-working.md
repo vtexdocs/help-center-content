@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: collections-schedule-start-date-not-working
+slugEN: collections-schedule-start-date-not-working
 locale: en
 kiStatus: Fixed
 internalReference: 667328

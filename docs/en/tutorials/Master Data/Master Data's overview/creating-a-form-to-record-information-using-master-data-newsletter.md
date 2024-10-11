@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:16:56.064Z
 contentType: tutorial
 productTeam: Master Data
 author: TAUXpa4XWCsIaUOoksGIE
-slug: creating-a-form-to-record-information-using-master-data-newsletter
+slugEN: creating-a-form-to-record-information-using-master-data-newsletter
 locale: en
 legacySlug: untitled-entry-2017-06-08-at-01-15-53
 subcategoryId: 5gtjaqCG7eIseyCI0aSqc2

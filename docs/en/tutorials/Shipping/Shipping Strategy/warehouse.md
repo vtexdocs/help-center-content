@@ -9,7 +9,7 @@ firstPublishedAt: 2021-08-26T16:51:57.435Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: warehouse
+slugEN: warehouse
 locale: en
 legacySlug: warehouse
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

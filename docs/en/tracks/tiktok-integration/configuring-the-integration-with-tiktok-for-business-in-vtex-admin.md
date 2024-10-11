@@ -8,7 +8,7 @@ publishedAt: 2024-09-03T19:34:18.900Z
 firstPublishedAt: 2022-04-18T11:52:11.581Z
 contentType: trackArticle
 productTeam: Channels
-slug: configuring-the-integration-with-tiktok-for-business-in-vtex-admin
+slugEN: configuring-the-integration-with-tiktok-for-business-in-vtex-admin
 locale: en
 trackId: 1r0yJSO11nrer1YVu3WTFd
 trackSlugEN: tiktok-integration

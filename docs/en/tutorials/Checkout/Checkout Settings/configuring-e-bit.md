@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:53.875Z
 contentType: tutorial
 productTeam: Others
 author: authors_3
-slug: configuring-e-bit
+slugEN: configuring-e-bit
 locale: en
 legacySlug: configuring-e-bit
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

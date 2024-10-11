@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: unknown
-slug: untitled-entry-2019-07-04-at-01-51-57
+slugEN: untitled-entry-2019-07-04-at-01-51-57
 locale: en
 trackId: 
 trackSlugEN: untitled-track

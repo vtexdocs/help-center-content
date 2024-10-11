@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-01T15:02:40.977Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: updating-the-quantity-of-items-in-inventory
+slugEN: updating-the-quantity-of-items-in-inventory
 locale: en
 legacySlug: how-to-update-stock, updating-quantity-of-skus-in-inventory
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE

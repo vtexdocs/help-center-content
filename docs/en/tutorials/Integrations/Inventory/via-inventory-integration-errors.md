@@ -9,7 +9,7 @@ firstPublishedAt: 2021-10-27T00:08:05.224Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: via-inventory-integration-errors
+slugEN: via-inventory-integration-errors
 locale: en
 legacySlug: via-inventory-integration-errors
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-05-02T19:01:38.688Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_6
-slug: customizing-the-my-orders-section
+slugEN: customizing-the-my-orders-section
 locale: en
 legacySlug: customizing-the-my-orders-section
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -69,7 +69,7 @@ CSS:
 
 ### Order detail
 
-![Order details page with customization classes highlighted on top of the elements](https://images.contentful.com/alneenqid6w5/5szHUT7x9CAOseYGkcEskS/e8a846072846d20648c65a1cd00059c4/my-orders-doc-2.png)
+![Order details page with customization classes highlighted on top of the elements](//images.contentful.com/alneenqid6w5/5szHUT7x9CAOseYGkcEskS/e8a846072846d20648c65a1cd00059c4/my-orders-doc-2.png)
 
 CSS:
 ```
@@ -84,7 +84,7 @@ CSS:
 
 ### Order cancellation
 
-![Order cancellation page with customization classes highlighted on top of the elements](https://images.contentful.com/alneenqid6w5/5mUVzR5n7aMScoSs4auem4/05bfeea119bb4fc42afe448c66c9674f/my-orders-doc-3.png)
+![Order cancellation page with customization classes highlighted on top of the elements](//images.contentful.com/alneenqid6w5/5mUVzR5n7aMScoSs4auem4/05bfeea119bb4fc42afe448c66c9674f/my-orders-doc-3.png)
 
 CSS:
 ```

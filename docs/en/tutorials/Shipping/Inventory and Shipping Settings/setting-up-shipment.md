@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:43.407Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: setting-up-shipment
+slugEN: setting-up-shipment
 locale: en
 legacySlug: setting-up-shipment
 subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi

@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T14:45:04.181Z
 firstPublishedAt: 2021-08-05T14:45:57.555Z
 contentType: trackArticle
 productTeam: Shopping
-slug: barcode-reading
+slugEN: barcode-reading
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-using-the-app

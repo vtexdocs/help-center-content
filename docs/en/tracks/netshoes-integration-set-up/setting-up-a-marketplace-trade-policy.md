@@ -8,7 +8,7 @@ publishedAt: 2021-02-24T15:53:02.071Z
 firstPublishedAt: 2018-08-13T14:29:58.221Z
 contentType: trackArticle
 productTeam: Channels
-slug: setting-up-a-marketplace-trade-policy
+slugEN: setting-up-a-marketplace-trade-policy
 locale: en
 trackId: 5Yx5IrNa7Y48c6aSC8wu2Y
 trackSlugEN: netshoes-integration-set-up
@@ -24,7 +24,7 @@ A single sales policy can be shared by more than one marketplace or between the 
 
 In other words, if there is no need to define a specific catalog or logistics type for different sales channels, then you will not need to use separate sales policies. Simply associate your integration with the marketplace to the sales policy ID that already exists.
 
-![carrefour.en3](https://images.ctfassets.net/alneenqid6w5/8lImGnaG3epR5OtYHyykP/7c11964cda1bfc0eab26adec48027cc4/carrefour.en3.png)
+![carrefour.en3](//images.ctfassets.net/alneenqid6w5/8lImGnaG3epR5OtYHyykP/7c11964cda1bfc0eab26adec48027cc4/carrefour.en3.png)
 
 So before setting up a new sales policy in your store, make sure you need to do that. If the answer is yes, follow the guidelines in the article [How to hire a new sales policy](https://help.vtex.com/en/faq/how-to-configure-a-new-trade-policy--frequentlyAskedQuestions_700) before moving on to the next configuration step. If your sales policy already meets the conditions you need for integration with the marketplace, follow the instructions below.
 

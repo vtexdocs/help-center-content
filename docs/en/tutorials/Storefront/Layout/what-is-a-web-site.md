@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-02T18:01:52.139Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-a-web-site
+slugEN: what-is-a-web-site
 locale: en
 legacySlug: what-is-a-web-site
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

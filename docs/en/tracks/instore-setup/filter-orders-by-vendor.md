@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-06-28T16:55:25.065Z
 contentType: trackArticle
 productTeam: Shopping
-slug: filter-orders-by-vendor
+slugEN: filter-orders-by-vendor
 locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup
@@ -37,4 +37,4 @@ __IMPORTANT__: Do not remove any of the other properties present in the `window.
 
 After reloading inStore the result should be as follows:
 
-![pedidos finalizados filtrados por vendedor](https://images.ctfassets.net/alneenqid6w5/HhNBrdQZA2YAWQa8aUm6U/4f71b847a38caabe9b708bc070fda396/pedidos_finalizados_filtrados_por_vendedor.png)
+![pedidos finalizados filtrados por vendedor](//images.ctfassets.net/alneenqid6w5/HhNBrdQZA2YAWQa8aUm6U/4f71b847a38caabe9b708bc070fda396/pedidos_finalizados_filtrados_por_vendedor.png)

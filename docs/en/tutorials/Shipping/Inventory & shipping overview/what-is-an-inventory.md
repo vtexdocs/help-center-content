@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-01T15:40:11.636Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: what-is-an-inventory
+slugEN: what-is-an-inventory
 locale: en
 legacySlug: what-is-an-inventory
 subcategoryId: 3RSSKdmS4MY2ycsu8WoyC2

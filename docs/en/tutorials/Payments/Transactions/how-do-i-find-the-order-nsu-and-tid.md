@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:08:43.214Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: how-do-i-find-the-order-nsu-and-tid
+slugEN: how-do-i-find-the-order-nsu-and-tid
 locale: en
 legacySlug: how-do-i-find-the-order-nsu-and-tid
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu

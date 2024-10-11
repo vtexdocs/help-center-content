@@ -9,7 +9,7 @@ firstPublishedAt: 2018-09-17T15:45:39.870Z
 contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
-slug: how-mercado-livre-integration-works
+slugEN: how-mercado-livre-integration-works
 locale: en
 legacySlug: how-mercado-livre-integration-works
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

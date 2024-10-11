@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Others
 author: 
-slug: install-the-cli-using-yarn
+slugEN: install-the-cli-using-yarn
 locale: en
 legacySlug: install-the-cli-using-yarn
 subcategoryId: unknown-subcategory

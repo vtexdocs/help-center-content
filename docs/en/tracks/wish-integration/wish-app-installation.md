@@ -8,7 +8,7 @@ publishedAt: 2021-07-28T14:31:54.381Z
 firstPublishedAt: 2019-11-19T17:27:59.799Z
 contentType: trackArticle
 productTeam: Channels
-slug: wish-app-installation
+slugEN: wish-app-installation
 locale: en
 trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugEN: wish-integration

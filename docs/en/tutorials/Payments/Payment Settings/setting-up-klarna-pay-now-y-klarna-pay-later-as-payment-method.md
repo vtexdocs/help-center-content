@@ -9,7 +9,7 @@ firstPublishedAt: 2020-12-04T19:45:04.488Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: setting-up-klarna-pay-now-y-klarna-pay-later-as-payment-method
+slugEN: setting-up-klarna-pay-now-y-klarna-pay-later-as-payment-method
 locale: en
 legacySlug: setting-up-klarna-pay-now-y-klarna-pay-later-as-a-payment-method
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

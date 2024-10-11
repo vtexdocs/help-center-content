@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:02:18.230Z
 contentType: tutorial
 productTeam: Channels
 author: authors_3
-slug: how-to-configure-xml-for-google-shopping
+slugEN: how-to-configure-xml-for-google-shopping
 locale: en
 legacySlug: how-to-configure-xml-for-google-shopping
 subcategoryId: 2OCA7SVfWoMSiAi0GEGwKo

@@ -8,7 +8,7 @@ publishedAt: 2023-10-18T14:41:42.080Z
 firstPublishedAt: 2019-11-25T15:33:37.696Z
 contentType: trackArticle
 productTeam: Financial
-slug: how-to-configure-a-custom-payment
+slugEN: how-to-configure-a-custom-payment
 locale: en
 trackId: 6GAS7ZzGAm7AGoEAwDbwJG
 trackSlugEN: payments

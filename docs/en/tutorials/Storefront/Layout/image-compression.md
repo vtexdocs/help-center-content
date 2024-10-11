@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-17T23:30:18.772Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: image-compression
+slugEN: image-compression
 locale: en
 legacySlug: how-the-automatic-compacting-of-images-works
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -50,7 +50,7 @@ For images in the **JPG/JPEG** formats, which are ideal for photos, the conversi
 
 VTEX delivers the image with the smallest file size to the customer, choosing between the original and the one converted to lossless WebP, as illustrated in the diagram below.
 
-![webp-image-compression](https://images.ctfassets.net/alneenqid6w5/6fZVHgF3ExpBr4XOpjw2pi/0a711ec8fb9135cbddeada05f9191d95/webp-image-compression.PNG)
+![webp-image-compression](//images.ctfassets.net/alneenqid6w5/6fZVHgF3ExpBr4XOpjw2pi/0a711ec8fb9135cbddeada05f9191d95/webp-image-compression.PNG)
 
 ## Related articles
 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: time-out-at-relatorioindexacaoaspx
+slugEN: time-out-at-relatorioindexacaoaspx
 locale: en
 kiStatus: Backlog
 internalReference: 547844

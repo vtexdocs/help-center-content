@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-22T02:18:00.508Z
 contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
-slug: vtex-io-cheatsheet
+slugEN: vtex-io-cheatsheet
 locale: en
 legacySlug: vtex-io-cheatsheet
 ---

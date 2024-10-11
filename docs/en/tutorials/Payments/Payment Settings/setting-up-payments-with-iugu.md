@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-31T19:22:31.835Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-iugu
+slugEN: setting-up-payments-with-iugu
 locale: en
 legacySlug: setting-up-payments-with-iugu
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

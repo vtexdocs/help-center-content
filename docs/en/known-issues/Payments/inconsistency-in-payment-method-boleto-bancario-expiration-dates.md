@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: inconsistency-in-payment-method-boleto-bancario-expiration-dates
+slugEN: inconsistency-in-payment-method-boleto-bancario-expiration-dates
 locale: en
 kiStatus: Backlog
 internalReference: 489460

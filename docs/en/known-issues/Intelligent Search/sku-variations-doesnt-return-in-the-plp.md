@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: sku-variations-doesnt-return-in-the-plp
+slugEN: sku-variations-doesnt-return-in-the-plp
 locale: en
 kiStatus: Backlog
 internalReference: 569563

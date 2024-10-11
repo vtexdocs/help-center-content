@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: error-the-specified-root-directory-name-does-not-exist-when-using-version-tags
+slugEN: error-the-specified-root-directory-name-does-not-exist-when-using-version-tags
 locale: en
 kiStatus: Fixed
 internalReference: 1083941

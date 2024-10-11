@@ -9,7 +9,7 @@ firstPublishedAt: 2021-07-06T15:07:38.880Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slug: subscription-plans
+slugEN: subscription-plans
 locale: en
 legacySlug: subscription-plans-beta
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM

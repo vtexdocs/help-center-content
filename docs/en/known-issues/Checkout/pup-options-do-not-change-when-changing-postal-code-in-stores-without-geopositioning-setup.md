@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: pup-options-do-not-change-when-changing-postal-code-in-stores-without-geopositioning-setup
+slugEN: pup-options-do-not-change-when-changing-postal-code-in-stores-without-geopositioning-setup
 locale: en
 kiStatus: Fixed
 internalReference: 648604

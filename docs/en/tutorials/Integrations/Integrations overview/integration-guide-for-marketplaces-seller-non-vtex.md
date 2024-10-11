@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-14T22:00:36.965Z
 contentType: tutorial
 productTeam: Channels
 author: authors_84
-slug: integration-guide-for-marketplaces-seller-non-vtex
+slugEN: integration-guide-for-marketplaces-seller-non-vtex
 locale: en
 legacySlug: integration-guide-for-marketplaces-seller-non-vtex
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq

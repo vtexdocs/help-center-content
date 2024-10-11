@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-10T22:28:29.095Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-feenicia
+slugEN: setting-up-payments-with-feenicia
 locale: en
 legacySlug: setting-up-payments-with-feenicia
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

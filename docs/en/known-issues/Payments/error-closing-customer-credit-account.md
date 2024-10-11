@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: error-closing-customer-credit-account
+slugEN: error-closing-customer-credit-account
 locale: en
 kiStatus: Backlog
 internalReference: 904432

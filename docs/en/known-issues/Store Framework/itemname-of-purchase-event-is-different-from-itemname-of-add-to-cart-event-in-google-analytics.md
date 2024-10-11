@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: itemname-of-purchase-event-is-different-from-itemname-of-add-to-cart-event-in-google-analytics
+slugEN: itemname-of-purchase-event-is-different-from-itemname-of-add-to-cart-event-in-google-analytics
 locale: en
 kiStatus: Backlog
 internalReference: 878629

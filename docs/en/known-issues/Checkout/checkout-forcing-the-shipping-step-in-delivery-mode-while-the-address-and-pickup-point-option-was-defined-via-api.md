@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-forcing-the-shipping-step-in-delivery-mode-while-the-address-and-pickup-point-option-was-defined-via-api
+slugEN: checkout-forcing-the-shipping-step-in-delivery-mode-while-the-address-and-pickup-point-option-was-defined-via-api
 locale: en
 kiStatus: Fixed
 internalReference: 287444

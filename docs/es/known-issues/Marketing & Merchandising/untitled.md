@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 
 tag: 
-slug: untitled
+slugEN: untitled
 locale: es
 kiStatus: 
 internalReference: 
@@ -25,22 +25,6 @@ internalReference:
 
 
 ## Workaround
-
-
-
-
-
-
-## Workaround
-
-
-
-
-orkaround
-
-
-
-
 
 
 

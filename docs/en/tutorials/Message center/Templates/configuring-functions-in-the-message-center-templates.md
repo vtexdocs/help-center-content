@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:24.692Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: configuring-functions-in-the-message-center-templates
+slugEN: configuring-functions-in-the-message-center-templates
 locale: en
 legacySlug: configuring-functions-in-the-message-center-templates
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee
@@ -130,4 +130,4 @@ em até{{#hasSubStr shippingEstimate 'bd'}}
 ```
 
 **Result:**
-![](https://images.contentful.com/alneenqid6w5/5cRmcM2692G60Ok6gSAWmo/f7196556f5360f632dbccf47f837b5b9/3.1.jpg)
+![](//images.contentful.com/alneenqid6w5/5cRmcM2692G60Ok6gSAWmo/f7196556f5360f632dbccf47f837b5b9/3.1.jpg)

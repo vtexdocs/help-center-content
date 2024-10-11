@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: unknown
-slug: packing-definicao-de-conceito
+slugEN: packing-definicao-de-conceito
 locale: es
 trackId: 
 trackSlugES: untitled-track

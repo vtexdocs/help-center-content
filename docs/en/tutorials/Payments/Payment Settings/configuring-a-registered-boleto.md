@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:08:27.705Z
 contentType: tutorial
 productTeam: Financial
 author: authors_3
-slug: configuring-a-registered-boleto
+slugEN: configuring-a-registered-boleto
 locale: en
 legacySlug: configuring-a-registered-boleto
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

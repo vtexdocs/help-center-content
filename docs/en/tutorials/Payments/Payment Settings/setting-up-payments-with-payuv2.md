@@ -9,7 +9,7 @@ firstPublishedAt: 2024-03-08T18:47:05.125Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-payuv2
+slugEN: setting-up-payments-with-payuv2
 locale: en
 legacySlug: setting-up-payments-with-payuv2
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

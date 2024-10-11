@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:09:25.396Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
-slug: how-to-rank-the-best-selling-items
+slugEN: how-to-rank-the-best-selling-items
 locale: en
 legacySlug: how-to-rank-the-best-selling-items
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

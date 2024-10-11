@@ -9,7 +9,7 @@ firstPublishedAt: 2022-04-14T13:50:08.688Z
 contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: erasing-customer-data
+slugEN: erasing-customer-data
 locale: en
 legacySlug: deleting-customer-data
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn

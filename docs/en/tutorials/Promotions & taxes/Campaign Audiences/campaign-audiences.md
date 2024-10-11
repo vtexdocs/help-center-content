@@ -9,7 +9,7 @@ firstPublishedAt: 2022-07-21T21:35:01.366Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: campaign-audiences
+slugEN: campaign-audiences
 locale: en
 legacySlug: campaign-audiences
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys

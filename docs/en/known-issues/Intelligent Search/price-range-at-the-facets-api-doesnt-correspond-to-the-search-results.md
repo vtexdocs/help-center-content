@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: price-range-at-the-facets-api-doesnt-correspond-to-the-search-results
+slugEN: price-range-at-the-facets-api-doesnt-correspond-to-the-search-results
 locale: en
 kiStatus: Backlog
 internalReference: 997121

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: Shopping
-slug: register-the-barcode-of-the-skus-for-the-instore
+slugEN: register-the-barcode-of-the-skus-for-the-instore
 locale: en
 trackId: 
 trackSlugEN: untitled-track

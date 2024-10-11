@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:03:04.913Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: view-reindex-log
+slugEN: view-reindex-log
 locale: en
 legacySlug: view-reindex-log
 subcategoryId: pwxWmUu7T222QyuGogs68

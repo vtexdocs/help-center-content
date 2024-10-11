@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: amazon-integration-attribute-number-of-itens
+slugEN: amazon-integration-attribute-number-of-itens
 locale: en
 kiStatus: No Fix
 internalReference: 557788

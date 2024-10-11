@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 
-slug: criar-campanha
+slugEN: criar-campanha
 locale: pt
 legacySlug: criar-campanha
 subcategoryId: unknown-subcategory

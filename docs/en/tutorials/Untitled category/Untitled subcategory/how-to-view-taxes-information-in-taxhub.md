@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-02T13:20:02.165Z
 contentType: tutorial
 productTeam: Apps
 author: 2Y2pnNkWfSoUMMYcwemq4A
-slug: how-to-view-taxes-information-in-taxhub
+slugEN: how-to-view-taxes-information-in-taxhub
 locale: en
 legacySlug: how-to-view-taxes-information-in-taxhub
 subcategoryId: unknown-subcategory

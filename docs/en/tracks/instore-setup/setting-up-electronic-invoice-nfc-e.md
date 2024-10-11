@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-06-25T22:40:47.613Z
 contentType: trackArticle
 productTeam: Shopping
-slug: setting-up-electronic-invoice-nfc-e
+slugEN: setting-up-electronic-invoice-nfc-e
 locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup

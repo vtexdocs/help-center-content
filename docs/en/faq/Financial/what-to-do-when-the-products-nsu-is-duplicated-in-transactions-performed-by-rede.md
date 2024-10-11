@@ -9,7 +9,7 @@ firstPublishedAt: 2019-02-27T21:00:00.706Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: 10Jj3Ca0hIsTVp4BEeef6Q
-slug: what-to-do-when-the-products-nsu-is-duplicated-in-transactions-performed-by-rede
+slugEN: what-to-do-when-the-products-nsu-is-duplicated-in-transactions-performed-by-rede
 locale: en
 legacySlug: 
 ---

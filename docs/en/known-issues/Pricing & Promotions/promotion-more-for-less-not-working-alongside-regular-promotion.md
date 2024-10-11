@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: promotion-more-for-less-not-working-alongside-regular-promotion
+slugEN: promotion-more-for-less-not-working-alongside-regular-promotion
 locale: en
 kiStatus: Backlog
 internalReference: 637586

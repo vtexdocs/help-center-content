@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-16T18:07:14.177Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: license-manager-resources-credit-control
+slugEN: license-manager-resources-credit-control
 locale: en
 legacySlug: license-manager-resources-credit-control
 subcategoryId: 1HSqkejwuYcQSMC400uY84

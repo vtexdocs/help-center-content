@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-25T17:15:35.225Z
 contentType: tutorial
 productTeam: Financial
 author: 56yU9Wz6mLwmzo82TjgAHy
-slug: configuring-a-santander-registered-boleto
+slugEN: configuring-a-santander-registered-boleto
 locale: en
 legacySlug: untitled-entry-2017-12-04-at-07-04-02
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: catalog-access-profile-gives-access-to-the-gift-card-module
+slugEN: catalog-access-profile-gives-access-to-the-gift-card-module
 locale: en
 kiStatus: Backlog
 internalReference: 362165

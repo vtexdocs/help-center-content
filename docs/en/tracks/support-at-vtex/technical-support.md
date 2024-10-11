@@ -8,7 +8,7 @@ publishedAt: 2024-02-22T14:08:41.465Z
 firstPublishedAt: 2024-02-22T14:08:41.465Z
 contentType: trackArticle
 productTeam: Others
-slug: technical-support
+slugEN: technical-support
 locale: en
 trackId: 4AXsGdGHqExp9ZkiNq9eMy
 trackSlugEN: support-at-vtex

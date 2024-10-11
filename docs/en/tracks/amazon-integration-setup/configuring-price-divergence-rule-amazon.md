@@ -8,7 +8,7 @@ publishedAt: 2022-01-05T15:47:12.676Z
 firstPublishedAt: 2022-01-04T20:33:45.370Z
 contentType: trackArticle
 productTeam: Channels
-slug: configuring-price-divergence-rule-amazon
+slugEN: configuring-price-divergence-rule-amazon
 locale: en
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugEN: amazon-integration-setup

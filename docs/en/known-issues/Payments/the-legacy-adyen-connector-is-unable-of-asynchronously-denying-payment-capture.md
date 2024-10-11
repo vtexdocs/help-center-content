@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: the-legacy-adyen-connector-is-unable-of-asynchronously-denying-payment-capture
+slugEN: the-legacy-adyen-connector-is-unable-of-asynchronously-denying-payment-capture
 locale: en
 kiStatus: Backlog
 internalReference: 976005

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-06-28T15:34:21.331Z
 contentType: trackArticle
 productTeam: Shopping
-slug: setting-up-the-pagar-me-acquirer-for-instore
+slugEN: setting-up-the-pagar-me-acquirer-for-instore
 locale: en
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: setting-up-the-pagar-me-acquirer-for-instore

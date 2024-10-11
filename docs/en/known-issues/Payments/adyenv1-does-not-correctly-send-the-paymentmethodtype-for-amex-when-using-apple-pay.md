@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: adyenv1-does-not-correctly-send-the-paymentmethodtype-for-amex-when-using-apple-pay
+slugEN: adyenv1-does-not-correctly-send-the-paymentmethodtype-for-amex-when-using-apple-pay
 locale: en
 kiStatus: Backlog
 internalReference: 920563

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:10.145Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: setting-up-the-price-range-filter
+slugEN: setting-up-the-price-range-filter
 locale: en
 legacySlug: setting-up-the-price-range-filter
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec

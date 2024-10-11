@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: tags-wont-sometimes-appear-on-list-format-plp-view
+slugEN: tags-wont-sometimes-appear-on-list-format-plp-view
 locale: en
 kiStatus: No Fix
 internalReference: 982200

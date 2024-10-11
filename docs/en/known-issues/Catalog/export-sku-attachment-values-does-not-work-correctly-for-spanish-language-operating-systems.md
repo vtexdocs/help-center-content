@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: export-sku-attachment-values-does-not-work-correctly-for-spanish-language-operating-systems
+slugEN: export-sku-attachment-values-does-not-work-correctly-for-spanish-language-operating-systems
 locale: en
 kiStatus: Backlog
 internalReference: 566393

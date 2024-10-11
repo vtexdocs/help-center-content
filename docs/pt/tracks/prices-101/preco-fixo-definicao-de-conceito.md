@@ -8,7 +8,7 @@ publishedAt: 2021-05-26T17:20:58.165Z
 firstPublishedAt: 2019-07-17T19:42:19.813Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: preco-fixo-definicao-de-conceito
+slugEN: preco-fixo-definicao-de-conceito
 locale: pt
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugPT: precos-101
@@ -81,7 +81,7 @@ Imagine que cadastramos um preço fixo de R$ 200,00 para __dois ou mais itens no
 
 Qual seria o preço aplicado para 5 ou mais itens? O preço de venda será de R$ 100,00, visto que o sistema prioriza o menor valor.
 
-![fixed price - example1](https://images.ctfassets.net/alneenqid6w5/60d7Vr6w08B8XZt9FCk4AG/8a577583a2df4290c2acfaa08b97b71f/fixed_price_-_example1.svg)
+![fixed price - example1](//images.ctfassets.net/alneenqid6w5/60d7Vr6w08B8XZt9FCk4AG/8a577583a2df4290c2acfaa08b97b71f/fixed_price_-_example1.svg)
 
 ## Exemplos
 

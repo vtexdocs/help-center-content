@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:38.657Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: setting-up-google-adwords
+slugEN: setting-up-google-adwords
 locale: en
 legacySlug: setting-up-google-adwords
 subcategoryId: 1luKrYptdi8WoMYckakUaM

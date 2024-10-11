@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: search-api-does-not-accept-special-characters
+slugEN: search-api-does-not-accept-special-characters
 locale: en
 kiStatus: Backlog
 internalReference: 754363

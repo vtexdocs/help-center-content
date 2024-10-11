@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T18:56:26.063Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: zapier-suiteshare
+slugEN: zapier-suiteshare
 locale: es
 legacySlug: zapier
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

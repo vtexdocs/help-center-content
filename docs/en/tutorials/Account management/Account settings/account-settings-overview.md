@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-28T18:48:11.473Z
 contentType: tutorial
 productTeam: Identity
 author: authors_84
-slug: account-settings-overview
+slugEN: account-settings-overview
 locale: en
 legacySlug: account-settings-overview
 subcategoryId: 1Y8OlvUk7MDhJzmD6Hk6S6

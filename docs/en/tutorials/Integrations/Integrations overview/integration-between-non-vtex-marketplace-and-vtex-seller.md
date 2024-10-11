@@ -9,7 +9,7 @@ firstPublishedAt: 2019-10-16T14:43:50.013Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: integration-between-non-vtex-marketplace-and-vtex-seller
+slugEN: integration-between-non-vtex-marketplace-and-vtex-seller
 locale: en
 legacySlug: integration-between-non-vtex-marketplace-and-vtex-seller
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq

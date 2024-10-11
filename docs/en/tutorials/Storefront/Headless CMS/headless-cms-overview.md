@@ -9,7 +9,7 @@ firstPublishedAt: 2023-12-18T13:33:50.044Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: headless-cms-overview
+slugEN: headless-cms-overview
 locale: en
 legacySlug: headless-cms-overview
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO

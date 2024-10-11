@@ -9,7 +9,7 @@ firstPublishedAt: 2020-06-30T14:57:57.023Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: set-up-alelo-payment-method-for-cielo-v3
+slugEN: set-up-alelo-payment-method-for-cielo-v3
 locale: en
 legacySlug: set-up-alelo-payment-method-for-cielo-v3
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

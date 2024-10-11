@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:43.216Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_3
-slug: exporting-data
+slugEN: exporting-data
 locale: en
 legacySlug: exporting-data
 subcategoryId: 2AThnkEZAYbk4G4EIs53rL

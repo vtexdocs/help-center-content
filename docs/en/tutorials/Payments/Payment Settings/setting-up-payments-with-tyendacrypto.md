@@ -9,7 +9,7 @@ firstPublishedAt: 2023-05-26T18:43:41.573Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-tyendacrypto
+slugEN: setting-up-payments-with-tyendacrypto
 locale: en
 legacySlug: setting-up-payments-with-tyendacrypto
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

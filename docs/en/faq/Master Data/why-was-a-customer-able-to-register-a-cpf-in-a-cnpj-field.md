@@ -9,7 +9,7 @@ firstPublishedAt: 2018-07-25T18:21:00.959Z
 contentType: frequentlyAskedQuestion
 productTeam: Master Data
 author: authors_59
-slug: why-was-a-customer-able-to-register-a-cpf-in-a-cnpj-field
+slugEN: why-was-a-customer-able-to-register-a-cpf-in-a-cnpj-field
 locale: en
 legacySlug: why-was-a-customer-able-to-register-a-cpf-in-a-cnpj-field
 ---

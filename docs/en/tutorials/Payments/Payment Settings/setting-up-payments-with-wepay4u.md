@@ -9,7 +9,7 @@ firstPublishedAt: 2024-02-05T20:29:59.689Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-wepay4u
+slugEN: setting-up-payments-with-wepay4u
 locale: en
 legacySlug: setting-up-payments-with-wepay4u
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

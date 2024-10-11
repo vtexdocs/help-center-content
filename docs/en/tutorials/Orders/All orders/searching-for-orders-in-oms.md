@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:46.573Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: searching-for-orders-in-oms
+slugEN: searching-for-orders-in-oms
 locale: en
 legacySlug: searching-for-orders-in-oms
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: user-can-still-see-and-access-cms-features-even-without-the-correct-permission
+slugEN: user-can-still-see-and-access-cms-features-even-without-the-correct-permission
 locale: en
 kiStatus: Backlog
 internalReference: 1046263

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:18.015Z
 contentType: tutorial
 productTeam: Identity
 author: authors_24
-slug: authentication-with-user-and-password-on-the-rest-interface
+slugEN: authentication-with-user-and-password-on-the-rest-interface
 locale: en
 legacySlug: authentication-with-user-and-password-on-the-rest-interface
 subcategoryId: 54gbzsku02c4bKmgFbp3v3

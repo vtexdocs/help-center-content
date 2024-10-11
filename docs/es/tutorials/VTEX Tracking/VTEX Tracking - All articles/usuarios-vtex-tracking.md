@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-07T21:16:14.114Z
 contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: usuarios-vtex-tracking
+slugEN: usuarios-vtex-tracking
 locale: es
 legacySlug: usuarios-vtex-tracking
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP

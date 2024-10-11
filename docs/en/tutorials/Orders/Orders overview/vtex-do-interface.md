@@ -9,7 +9,7 @@ firstPublishedAt: 2022-04-04T21:58:08.236Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: vtex-do-interface
+slugEN: vtex-do-interface
 locale: en
 legacySlug: vtex-do-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
@@ -113,7 +113,7 @@ Tasks managed through VTEX DO can include messages from all VTEX systems. Some e
 
 ## Task details
 
-![VTEX Do details EN](https://images.ctfassets.net/alneenqid6w5/mPby3BuhZYAwGyFuII8mr/9bb5a8bb66f10645c751d11ae95b4ee0/VTEX_Do_details_EN.jpg)
+![VTEX Do details EN](//images.ctfassets.net/alneenqid6w5/mPby3BuhZYAwGyFuII8mr/9bb5a8bb66f10645c751d11ae95b4ee0/VTEX_Do_details_EN.jpg)
 
 By clicking on the name of a task in the list, you are redirected to the task details modal, which displays more information about the task and actions to solve it. The following fields are displayed:
 

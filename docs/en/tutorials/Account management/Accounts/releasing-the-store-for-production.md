@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:49.713Z
 contentType: tutorial
 productTeam: Identity
 author: authors_84
-slug: releasing-the-store-for-production
+slugEN: releasing-the-store-for-production
 locale: en
 legacySlug: releasing-the-store-for-production
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma

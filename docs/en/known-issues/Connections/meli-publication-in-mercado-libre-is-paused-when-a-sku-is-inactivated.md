@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-publication-in-mercado-libre-is-paused-when-a-sku-is-inactivated
+slugEN: meli-publication-in-mercado-libre-is-paused-when-a-sku-is-inactivated
 locale: en
 kiStatus: Backlog
 internalReference: 557293

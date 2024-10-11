@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: stockkeepingunitinsertupdate-webservice-method-allows-to-insert-existent-refid
+slugEN: stockkeepingunitinsertupdate-webservice-method-allows-to-insert-existent-refid
 locale: en
 kiStatus: No Fix
 internalReference: 419460

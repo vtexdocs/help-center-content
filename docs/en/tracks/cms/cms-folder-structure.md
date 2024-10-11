@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-01-13T14:28:57.365Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: cms-folder-structure
+slugEN: cms-folder-structure
 locale: en
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms

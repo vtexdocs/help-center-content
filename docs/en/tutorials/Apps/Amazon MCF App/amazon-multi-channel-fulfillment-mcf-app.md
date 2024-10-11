@@ -9,7 +9,7 @@ firstPublishedAt: 2021-09-20T14:18:16.966Z
 contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: amazon-multi-channel-fulfillment-mcf-app
+slugEN: amazon-multi-channel-fulfillment-mcf-app
 locale: en
 legacySlug: amazon-multi-channel-fulfillment-mcf-app
 subcategoryId: 1P1vFnzQ4TQJsBRDoPVKUI

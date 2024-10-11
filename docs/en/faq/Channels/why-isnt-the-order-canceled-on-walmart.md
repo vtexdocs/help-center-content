@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:27.310Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
-slug: why-isnt-the-order-canceled-on-walmart
+slugEN: why-isnt-the-order-canceled-on-walmart
 locale: en
 legacySlug: why-isnt-the-order-canceled-on-walmart
 ---

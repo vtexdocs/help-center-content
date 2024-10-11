@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:01:12.633Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: what-are-the-internal-utms
+slugEN: what-are-the-internal-utms
 locale: en
 legacySlug: what-are-the-internal-utms
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc
@@ -23,7 +23,7 @@ Normally, the internal UTMs are used as __cause of benefit__. In the Promotions 
 
 In the Orders Management module, within the order details screen, you can rotate the Total Value card to view the data for __Sales and Marketing__. It contains the value of the internal UTM parameter used in the benefit.
 
-![utmi2](https://images.contentful.com/alneenqid6w5/41RwzsUqdOYWaYAokS6YiC/5774226a9a53769566cdefbcb2c0b171/utmi2.jpg)
+![utmi2](//images.contentful.com/alneenqid6w5/41RwzsUqdOYWaYAokS6YiC/5774226a9a53769566cdefbcb2c0b171/utmi2.jpg)
 
 VTEX works with three types of internal UTMs:
 - `utmi_cp`

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:52.675Z
 contentType: tutorial
 productTeam: Identity
 author: authors_84
-slug: filling-in-your-company-information
+slugEN: filling-in-your-company-information
 locale: en
 legacySlug: filling-in-your-company-information
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma

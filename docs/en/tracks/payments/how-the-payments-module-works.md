@@ -8,7 +8,7 @@ publishedAt: 2024-07-24T18:38:45.637Z
 firstPublishedAt: 2019-11-21T22:49:51.417Z
 contentType: trackArticle
 productTeam: Financial
-slug: how-the-payments-module-works
+slugEN: how-the-payments-module-works
 locale: en
 trackId: 6GAS7ZzGAm7AGoEAwDbwJG
 trackSlugEN: payments

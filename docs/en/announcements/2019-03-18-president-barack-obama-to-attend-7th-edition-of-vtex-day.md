@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:42.068Z
 contentType: updates
 productTeam: Others
 author: authors_84
-slug: president-barack-obama-to-attend-7th-edition-of-vtex-day
+slugEN: 2019-03-18-president-barack-obama-to-attend-7th-edition-of-vtex-day
 locale: en
 legacySlug: president-barack-obama-to-attend-7th-edition-of-vtex-day
 announcementImageID: ''

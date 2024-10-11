@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-does-not-display-shipping-promotion-at-first-instant-for-specific-condition
+slugEN: checkout-does-not-display-shipping-promotion-at-first-instant-for-specific-condition
 locale: en
 kiStatus: No Fix
 internalReference: 280144

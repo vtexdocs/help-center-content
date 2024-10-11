@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-05T18:22:20.252Z
 contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
-slug: configuring-sign-in-with-apple-id-beta
+slugEN: configuring-sign-in-with-apple-id-beta
 locale: en
 legacySlug: configuring-sign-in-with-apple-id-beta
 subcategoryId: 5uXA9a0laSLMkfbv6jQRDS

@@ -8,7 +8,7 @@ publishedAt: 2023-03-31T21:36:08.804Z
 firstPublishedAt: 2019-11-18T12:20:30.431Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: how-the-orders-module-filters-work
+slugEN: how-the-orders-module-filters-work
 locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders

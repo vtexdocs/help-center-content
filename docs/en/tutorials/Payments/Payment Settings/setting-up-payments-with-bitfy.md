@@ -1,15 +1,15 @@
 ---
 title: 'Setting up payments with Bitfy'
 id: 2PSTfW4PsMh19K9y3DkQec
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2022-08-15T17:30:29.886Z
-updatedAt: 2024-01-23T18:24:11.153Z
-publishedAt: 2024-01-23T18:24:11.153Z
+updatedAt: 2024-10-03T15:03:22.678Z
+publishedAt: 
 firstPublishedAt: 2022-08-15T17:41:45.501Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-bitfy
+slugEN: setting-up-payments-with-bitfy
 locale: en
 legacySlug: setting-up-payments-with-bitfy
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

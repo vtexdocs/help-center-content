@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-24T18:00:08.767Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: availability
+slugEN: availability
 locale: en
 legacySlug: availability
 subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7

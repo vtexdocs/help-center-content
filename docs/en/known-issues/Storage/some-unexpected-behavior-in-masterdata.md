@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: some-unexpected-behavior-in-masterdata
+slugEN: some-unexpected-behavior-in-masterdata
 locale: en
 kiStatus: Backlog
 internalReference: 669048

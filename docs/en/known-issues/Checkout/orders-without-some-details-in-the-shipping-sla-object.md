@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: orders-without-some-details-in-the-shipping-sla-object
+slugEN: orders-without-some-details-in-the-shipping-sla-object
 locale: en
 kiStatus: Backlog
 internalReference: 575219

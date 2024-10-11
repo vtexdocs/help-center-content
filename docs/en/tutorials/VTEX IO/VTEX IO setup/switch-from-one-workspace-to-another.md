@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T22:43:51.555Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: switch-from-one-workspace-to-another
+slugEN: switch-from-one-workspace-to-another
 locale: en
 legacySlug: switch-from-one-workspace-to-another
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

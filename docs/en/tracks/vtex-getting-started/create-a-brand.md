@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-05-02T20:50:43.610Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: create-a-brand
+slugEN: create-a-brand
 locale: en
 trackId: 7sORw9I7QIka24MCQaIO2g
 trackSlugEN: vtex-getting-started

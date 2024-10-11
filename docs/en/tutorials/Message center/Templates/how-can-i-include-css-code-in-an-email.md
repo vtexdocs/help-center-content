@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:16:01.974Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_3
-slug: how-can-i-include-css-code-in-an-email
+slugEN: how-can-i-include-css-code-in-an-email
 locale: en
 legacySlug: how-can-i-include-css-code-in-an-email
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee

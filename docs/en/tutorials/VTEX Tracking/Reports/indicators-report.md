@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-14T15:53:44.159Z
 contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: indicators-report
+slugEN: indicators-report
 locale: en
 legacySlug: indicators-report
 subcategoryId: 37YF86noTwhDdEuhUyW3LH

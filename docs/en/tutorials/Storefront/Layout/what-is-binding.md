@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-29T20:20:44.103Z
 contentType: tutorial
 productTeam: Identity
 author: authors_24
-slug: what-is-binding
+slugEN: what-is-binding
 locale: en
 legacySlug: what-is-binding
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

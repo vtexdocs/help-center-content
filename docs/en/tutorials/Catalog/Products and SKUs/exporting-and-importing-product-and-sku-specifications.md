@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:12.428Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: exporting-and-importing-product-and-sku-specifications
+slugEN: exporting-and-importing-product-and-sku-specifications
 locale: en
 legacySlug: importing-and-exporting-product-and-sku-specifications
 subcategoryId: pwxWmUu7T222QyuGogs68
@@ -33,7 +33,7 @@ In this article, we explain how to export and import spreadsheets with product a
     A green rectangle will appear on the screen.
 6. Click `Click here to download the file` to export the spreadsheet.
 
-![skuexport2.en](https://images.ctfassets.net/alneenqid6w5/6oBhxWWjktsofR8XGRzl3E/87e1859f2f3ece16f3c0e1c527a392ee/skuexport2.en.png)
+![skuexport2.en](//images.ctfassets.net/alneenqid6w5/6oBhxWWjktsofR8XGRzl3E/87e1859f2f3ece16f3c0e1c527a392ee/skuexport2.en.png)
 
 >ℹ️ The exported spreadsheet will be available in your email for one week. If you exceed this period, follow the export step-by-step again to generate a new spreadsheet.
 
@@ -53,7 +53,7 @@ Follow the steps below to import the spreadsheet:
 2. Click **Select** to select the file with the completed spreadsheet on your computer.
 3. Click `Import`.
 
-![skuexport3.en](https://images.ctfassets.net/alneenqid6w5/3xrInPyr70kdXCGgVfj4q1/8b4ff4d98df714f62d97d765edee8600/skuexport3.en.png)
+![skuexport3.en](//images.ctfassets.net/alneenqid6w5/3xrInPyr70kdXCGgVfj4q1/8b4ff4d98df714f62d97d765edee8600/skuexport3.en.png)
 
 ## Learn more
 - [Product and SKU Specifications](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)

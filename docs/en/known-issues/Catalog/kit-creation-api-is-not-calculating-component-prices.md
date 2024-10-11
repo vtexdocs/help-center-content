@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: kit-creation-api-is-not-calculating-component-prices
+slugEN: kit-creation-api-is-not-calculating-component-prices
 locale: en
 kiStatus: Backlog
 internalReference: 739693

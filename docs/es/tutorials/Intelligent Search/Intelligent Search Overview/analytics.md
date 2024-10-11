@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-27T16:54:23.587Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: analytics
+slugEN: analytics
 locale: es
 legacySlug: analytics
 subcategoryId: l3DubpOCHBfKyF2ueg2Vs
@@ -78,4 +78,4 @@ El informe CSV descargado tiene dos tablas. La primera tabla, que se muestra a c
 
 La segunda tabla, que se muestra a continuación, muestra los datos del periodo seleccionado, mostrando la columna **Date**, que indica la fecha de la búsqueda.
 
-![search-report-date](https://images.ctfassets.net/alneenqid6w5/1B1hwv5X36tvAv4Nt2Nxz1/50c65ac3ba4741c35fe820fd265b78de/search-report-date.png)
+![search-report-date](//images.ctfassets.net/alneenqid6w5/1B1hwv5X36tvAv4Nt2Nxz1/50c65ac3ba4741c35fe820fd265b78de/search-report-date.png)

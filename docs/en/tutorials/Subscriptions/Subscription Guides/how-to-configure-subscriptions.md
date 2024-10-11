@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-31T16:01:57.927Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: how-to-configure-subscriptions
+slugEN: how-to-configure-subscriptions
 locale: en
 legacySlug: how-to-configure-subscription-v2
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM

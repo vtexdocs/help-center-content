@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-18T16:05:40.588Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-nexxpago-gateway
+slugEN: setting-up-nexxpago-gateway
 locale: en
 legacySlug: setting-up-nexxpago-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

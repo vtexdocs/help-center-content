@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:14:07.054Z
 contentType: updates
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
-slug: now-you-can-take-part-on-building-a-better-vtex-help
+slugEN: 2018-03-22-now-you-can-take-part-on-building-a-better-vtex-help
 locale: en
 legacySlug: now-you-can-take-part-on-building-a-better-vtex-help
 announcementImageID: ''

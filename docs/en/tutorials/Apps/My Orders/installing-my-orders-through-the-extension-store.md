@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-15T18:24:05.638Z
 contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: installing-my-orders-through-the-extension-store
+slugEN: installing-my-orders-through-the-extension-store
 locale: en
 legacySlug: installing-my-orders-through-the-extension-store
 subcategoryId: 2ia4HGBE6MQ0qe2Si2uQgm
@@ -29,7 +29,7 @@ __After installing the app, you already have the following updates:__
 - Trace information for multiple items.
 - Minor Bug Fix.
 
-![app store2 EN](https://images.ctfassets.net/alneenqid6w5/uWM5x8qG5ia6okQ0kgIak/1caf4e8275bb8e8514b7073396553b6a/app_store2_EN.png)
+![app store2 EN](//images.ctfassets.net/alneenqid6w5/uWM5x8qG5ia6okQ0kgIak/1caf4e8275bb8e8514b7073396553b6a/app_store2_EN.png)
 
 In addition, with the new app you can perform version tests and update it whenever a new version is available, receiving continuous improvements and updates of new features.
 
@@ -42,4 +42,4 @@ To test the customizations on your page, you may work on a different workspace w
 5. Ready! Now you will see how your page will behave before you upload it.
 6. To move My Orders to the production environment (where your customers can actually use it), you must publish the change. To do that, just click on the __Publish__ button.
 
-![app store3 EN](https://images.ctfassets.net/alneenqid6w5/Dhrybc8B7qCwacYMmAwcC/7970fef7fc718f082683ad218603a829/app_store3_EN.png)
+![app store3 EN](//images.ctfassets.net/alneenqid6w5/Dhrybc8B7qCwacYMmAwcC/7970fef7fc718f082683ad218603a829/app_store3_EN.png)

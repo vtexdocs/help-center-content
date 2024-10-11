@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-01T16:21:19.864Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-vindi-gateway
+slugEN: setting-up-vindi-gateway
 locale: en
 legacySlug: setting-up-vindi-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

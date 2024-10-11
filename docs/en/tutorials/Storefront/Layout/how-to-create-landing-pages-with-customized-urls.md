@@ -9,7 +9,7 @@ firstPublishedAt: 2018-10-02T21:24:34.630Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: how-to-create-landing-pages-with-customized-urls
+slugEN: how-to-create-landing-pages-with-customized-urls
 locale: en
 legacySlug: how-does-the-search-context-work
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

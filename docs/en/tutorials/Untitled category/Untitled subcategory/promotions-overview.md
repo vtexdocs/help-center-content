@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-29T19:31:43.053Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6ZIASoEIeITT63epPauz12
-slug: promotions-overview
+slugEN: promotions-overview
 locale: en
 legacySlug: promotions-overview
 subcategoryId: unknown-subcategory

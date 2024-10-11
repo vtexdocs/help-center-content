@@ -9,7 +9,7 @@ firstPublishedAt: 2021-08-18T19:54:49.257Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: additional-shipping-costs
+slugEN: additional-shipping-costs
 locale: en
 legacySlug: additional-shipping-costs, understanding-the-additional-shipping-cost
 subcategoryId: 7uJcyu0VawEm8ggqKu404u
@@ -26,7 +26,7 @@ You can configure the following additional costs:
 * [Insurance charge](https://help.vtex.com/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#additional-insurance-charge);
 * [Extra shipping charge](https://help.vtex.com/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#additional-shipping-charge).
 
-![adicionais frete EN](https://images.ctfassets.net/alneenqid6w5/3j3VNUKq6qTGJRfGWGbc14/eee27446335556a96fece61f8d2f0e8f/adicionais_frete_EN.svg)
+![adicionais frete EN](//images.ctfassets.net/alneenqid6w5/3j3VNUKq6qTGJRfGWGbc14/eee27446335556a96fece61f8d2f0e8f/adicionais_frete_EN.svg)
 
 >❗ Note that all of them can be simultaneously considered for composing the shipping rate. The final calculation of the [shipping rate](https://help.vtex.com/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) is the sum of all additional charges plus the flat rate. 
 > The shipping rate is not the total shipping cost.
@@ -67,7 +67,7 @@ There are two ways to configure the weight-based additional charge:
 
 To learn more, access their tutorials.
 
-![faixa-peso EN](https://images.ctfassets.net/alneenqid6w5/4s9nSGox3lNthbGiDUdOFq/df911253923073437cf3708e1d2b753b/faixa-peso_EN.png)
+![faixa-peso EN](//images.ctfassets.net/alneenqid6w5/4s9nSGox3lNthbGiDUdOFq/df911253923073437cf3708e1d2b753b/faixa-peso_EN.png)
 
 ## Price-based additional charge
 
@@ -157,4 +157,4 @@ To configure the additional shipping charge, go to the left-side menu in the VTE
     If you want to include a 10% fee, fill in the field with 10. Use a period to indicate the decimal place, such as 1.67.
 3. Click on `Save`.
 
-![adicional configuracoes EN](https://images.ctfassets.net/alneenqid6w5/2pVEQFyDHdXcZYpkQW85m0/2a2708eaac81731568792959f167bdd9/adicional_configuracoes_EN.png)
+![adicional configuracoes EN](//images.ctfassets.net/alneenqid6w5/2pVEQFyDHdXcZYpkQW85m0/2a2708eaac81731568792959f167bdd9/adicional_configuracoes_EN.png)

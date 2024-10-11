@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: first-search-in-a-store-is-not-considered-on-ui-last-searches
+slugEN: first-search-in-a-store-is-not-considered-on-ui-last-searches
 locale: en
 kiStatus: Backlog
 internalReference: 570971

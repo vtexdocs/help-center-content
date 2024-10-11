@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-11T01:36:42.413Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: vtex-global-category-submission-errors
+slugEN: vtex-global-category-submission-errors
 locale: en
 legacySlug: vtex-global-category-submission-errors
 subcategoryId: 4HBbKdnwneGew2qGGykSM8

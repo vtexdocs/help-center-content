@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-01T16:13:33.089Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: google-integration-warnings
+slugEN: google-integration-warnings
 locale: en
 legacySlug: google-integration-warnings
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

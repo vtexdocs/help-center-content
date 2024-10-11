@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:15:27.116Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-alter-a-banner
+slugEN: how-to-alter-a-banner
 locale: en
 legacySlug: how-to-alter-a-banner
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -26,10 +26,10 @@ We will use a banner on the Home Page as an example, but these step-by-step inst
 6. Click on the **Home** file.
 7. Click on the **Settings** tab.
 8. Click on the “pencil” for editing.
-![cms-home-settings EN](https://images.ctfassets.net/alneenqid6w5/1Gs6bDdZs4eqaiQmK6qScC/272aa7943884746f32c66b75bb86b58d/banner_home_settings_-_EN.png)
+![cms-home-settings EN](//images.ctfassets.net/alneenqid6w5/1Gs6bDdZs4eqaiQmK6qScC/272aa7943884746f32c66b75bb86b58d/banner_home_settings_-_EN.png)
 9. The banner window will open.
 10. Click on the pencil that appears on the screen.
-![cms_home_settings_lapis EN](https://images.ctfassets.net/alneenqid6w5/5Js48igaXuycwYaMEkSG2k/80d3bcf1f1fa41134cd65bacfd9cda6d/cms_settings_lapis_EN.png)
+![cms_home_settings_lapis EN](//images.ctfassets.net/alneenqid6w5/5Js48igaXuycwYaMEkSG2k/80d3bcf1f1fa41134cd65bacfd9cda6d/cms_settings_lapis_EN.png)
 11. This will open the banner form.
 
 **Change the content of the form:**

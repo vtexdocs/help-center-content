@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: collections-page-in-organization-details-shows-only-20-collections
+slugEN: collections-page-in-organization-details-shows-only-20-collections
 locale: en
 kiStatus: Fixed
 internalReference: 891511

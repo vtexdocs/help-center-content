@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:07.598Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
-slug: novo-layout-no-e-mail-de-codigo-de-acesso
+slugEN: 2019-08-23-novo-layout-no-e-mail-de-codigo-de-acesso
 locale: pt
 legacySlug: novo-layout-no-e-mail-de-codigo-de-acesso
 announcementImageID: ''

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-05T14:10:53.091Z
 contentType: tutorial
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: change-seller
+slugEN: change-seller
 locale: pt
 legacySlug: veja-como-utilizar-o-change-seller
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
@@ -30,7 +30,7 @@ Você pode [configurar a janela de tempo para mudar seller de 0 a 30 dias](https
 
 Ao ser notificado pelo seller sobre o cancelamento, o marketplace pode configurar quantos dias deseja para tomar uma ação e decidir entre cancelar a compra ou mudar de seller. Mas atenção: caso escolha pela troca, é de responsabilidade do próprio marketplace a decisão de informar a mudança ao cliente final.
 
-![mkt_cancela_seller_PT](https://images.ctfassets.net/alneenqid6w5/3jMZldSV2RLu4P0xoUyrE/55e6407af7ab3ffc3adec059e393f45c/mkt_cancela_seller_PT.png)
+![mkt_cancela_seller_PT](//images.ctfassets.net/alneenqid6w5/3jMZldSV2RLu4P0xoUyrE/55e6407af7ab3ffc3adec059e393f45c/mkt_cancela_seller_PT.png)
 
 ## Limitações
 

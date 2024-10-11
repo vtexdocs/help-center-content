@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:02:42.931Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_35
-slug: how-to-identify-order-closing-errors
+slugEN: how-to-identify-order-closing-errors
 locale: en
 legacySlug: how-to-identify-order-closing-errors
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

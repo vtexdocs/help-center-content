@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:15.652Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: creating-promotion-for-a-customer-cluster
+slugEN: creating-promotion-for-a-customer-cluster
 locale: en
 legacySlug: creating-promotions-for-a-cluster-of-customers
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
@@ -54,7 +54,7 @@ You could also configure `employee=false`, where only `employee` entries with th
 
 ![Campo funcionário Master Data EN](https://images.ctfassets.net/alneenqid6w5/1GQftbj5FuIiQ4mUweacwa/929dce6e74118345a2c9f17a9605e572/Campo_funcion__rio_Master_Data_EN.png)
 
-![Cluster de clientes EN](https://images.ctfassets.net/alneenqid6w5/1IOHFLD9w840WEuceWMk4Q/653b3bf0087c0b78268a1231ebfcbf5f/Cluster_de_clientes_EN.png)
+![Cluster de clientes EN](//images.ctfassets.net/alneenqid6w5/1IOHFLD9w840WEuceWMk4Q/653b3bf0087c0b78268a1231ebfcbf5f/Cluster_de_clientes_EN.png)
 
 Given a field of type **[Varchar](https://help.vtex.com/en/tutorial/criando-entidade-de-dados--tutorials_1265)**, we could configure `employee="yes"` so that only customers with the value `"yes"` in the field receive the promotion.
 
@@ -68,8 +68,8 @@ The expression `{propertyname} contains {"value"}` must be used when the informa
 
 For example, if you want to create a cluster with only customers whose emails contain `@test.com`, the configuration will follow the example below.
 
-![Campo Email Master Data](https://images.ctfassets.net/alneenqid6w5/5aeXd0Ro72P1GlzVeBiVVZ/4d8feac02a228d44de71cb2fa28e954f/Campo_Email_Master_Data.png)
+![Campo Email Master Data](//images.ctfassets.net/alneenqid6w5/5aeXd0Ro72P1GlzVeBiVVZ/4d8feac02a228d44de71cb2fa28e954f/Campo_Email_Master_Data.png)
 
-![cluster email EN](https://images.ctfassets.net/alneenqid6w5/5LKj1wrG3zL54lfh4R2MzQ/85c04dff4d5ebf184cd9bd1f82f1bdfb/cluster_email.png)
+![cluster email EN](//images.ctfassets.net/alneenqid6w5/5LKj1wrG3zL54lfh4R2MzQ/85c04dff4d5ebf184cd9bd1f82f1bdfb/cluster_email.png)
 
 In this case, `email contains test.com` will be `true`, for example, when the value is `john@test.com`, and `false` when the value is `john@test.org`.

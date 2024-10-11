@@ -8,7 +8,7 @@ publishedAt: 2022-02-21T16:30:53.405Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: search-resolve-hides-number-product-stock
+slugEN: 2022-02-18-search-resolve-hides-number-product-stock
 locale: en
 legacySlug: search-resolve-hides-number-product-stock
 announcementImageID: ''

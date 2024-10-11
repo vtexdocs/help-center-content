@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: similar-products-ui-brokes-with-too-many-products
+slugEN: similar-products-ui-brokes-with-too-many-products
 locale: en
 kiStatus: Backlog
 internalReference: 868425

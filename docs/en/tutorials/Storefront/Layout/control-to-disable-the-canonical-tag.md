@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:03:32.817Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: control-to-disable-the-canonical-tag
+slugEN: control-to-disable-the-canonical-tag
 locale: en
 legacySlug: control-to-disable-the-canonical-tag
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

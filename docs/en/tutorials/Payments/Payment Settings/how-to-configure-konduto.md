@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:55.168Z
 contentType: tutorial
 productTeam: Channels
 author: authors_3
-slug: how-to-configure-konduto
+slugEN: how-to-configure-konduto
 locale: en
 legacySlug: how-to-configure-konduto
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

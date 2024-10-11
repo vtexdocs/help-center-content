@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T22:24:16.584Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: installing-vtex-io-cli
+slugEN: installing-vtex-io-cli
 locale: en
 legacySlug: installing-vtex-io-cli
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

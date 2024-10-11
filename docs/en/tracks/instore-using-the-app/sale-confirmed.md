@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T15:41:53.703Z
 firstPublishedAt: 2021-08-05T14:47:05.559Z
 contentType: trackArticle
 productTeam: Shopping
-slug: sale-confirmed
+slugEN: sale-confirmed
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-using-the-app

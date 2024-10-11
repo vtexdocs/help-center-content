@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:53:54.764Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: why-is-the-order-in-the-verifying-invoice-status
+slugEN: why-is-the-order-in-the-verifying-invoice-status
 locale: en
 legacySlug: why-is-the-order-in-the-verifying-invoice-status
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

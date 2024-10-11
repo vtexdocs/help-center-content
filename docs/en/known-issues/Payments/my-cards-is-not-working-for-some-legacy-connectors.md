@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: my-cards-is-not-working-for-some-legacy-connectors
+slugEN: my-cards-is-not-working-for-some-legacy-connectors
 locale: en
 kiStatus: Backlog
 internalReference: 373636

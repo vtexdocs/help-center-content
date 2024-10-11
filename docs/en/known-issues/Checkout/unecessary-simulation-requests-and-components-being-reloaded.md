@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: unecessary-simulation-requests-and-components-being-reloaded
+slugEN: unecessary-simulation-requests-and-components-being-reloaded
 locale: en
 kiStatus: No Fix
 internalReference: 648298

@@ -1,14 +1,14 @@
 ---
 title: 'Explained Search'
 id: 4uSFqyJVCMVMIvVrtz3lxZ
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2020-04-14T14:17:45.913Z
-updatedAt: 2023-03-30T16:49:17.220Z
-publishedAt: 2023-03-30T16:49:17.220Z
+updatedAt: 2024-09-06T20:10:35.692Z
+publishedAt: 
 firstPublishedAt: 2020-04-15T00:39:40.691Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: explained-search
+slugEN: explained-search
 locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search

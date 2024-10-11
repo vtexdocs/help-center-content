@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-01T14:11:11.825Z
 contentType: tutorial
 productTeam: Channels
 author: authors_59
-slug: integrating-with-netshoes
+slugEN: integrating-with-netshoes
 locale: en
 legacySlug: integrating-with-netshoes
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

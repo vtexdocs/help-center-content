@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: order-authorization-lessthan-100-goes-with-the-flow
+slugEN: order-authorization-lessthan-100-goes-with-the-flow
 locale: en
 kiStatus: Backlog
 internalReference: 983031

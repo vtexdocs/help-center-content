@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-16T21:04:40.715Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: license-manager-resources-vtex-bridge
+slugEN: license-manager-resources-vtex-bridge
 locale: en
 legacySlug: license-manager-resources-vtex-bridge
 subcategoryId: 1HSqkejwuYcQSMC400uY84

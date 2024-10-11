@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:06:56.404Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
-slug: how-to-know-if-an-order-was-successfully-placed
+slugEN: how-to-know-if-an-order-was-successfully-placed
 locale: en
 legacySlug: how-to-know-if-an-order-was-successfully-placed
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:20.477Z
 contentType: updates
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
-slug: vtexs-integration-with-magazine-luiza-is-already-available-to-all-stores
+slugEN: 2018-12-19-vtexs-integration-with-magazine-luiza-is-already-available-to-all-stores
 locale: en
 legacySlug: vtexs-integration-with-magazine-luiza-is-already-available-to-all-stores
 announcementImageID: ''

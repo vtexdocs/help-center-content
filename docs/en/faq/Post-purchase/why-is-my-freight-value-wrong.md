@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:01:43.243Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
-slug: why-is-my-freight-value-wrong
+slugEN: why-is-my-freight-value-wrong
 locale: en
 legacySlug: why-is-my-freight-value-wrong
 ---
@@ -32,4 +32,4 @@ Freight calculation is based on several factors: freight table, additional freig
 3. Observe the box **Total Value** box.
 4. Check if, among sales, there is one offering a freight discount. To check that, simply access the sale and verify the type of discount offered.
 
-![valortotal en](https://images.ctfassets.net/alneenqid6w5/5MBxhrcMi4wMgKCIOWckWg/b767465dc888b24295de98b036e2eefe/valortotal_en.jpg)
+![valortotal en](//images.ctfassets.net/alneenqid6w5/5MBxhrcMi4wMgKCIOWckWg/b767465dc888b24295de98b036e2eefe/valortotal_en.jpg)

@@ -9,7 +9,7 @@ firstPublishedAt: 2020-02-17T21:15:14.903Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: transactional-emails-for-subscription-orders
+slugEN: transactional-emails-for-subscription-orders
 locale: en
 legacySlug: transactional-emails-for-subscription-orders
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM

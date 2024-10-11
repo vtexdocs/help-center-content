@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: productsskus-import-does-not-support-lb
+slugEN: productsskus-import-does-not-support-lb
 locale: en
 kiStatus: No Fix
 internalReference: 337860

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:11.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: importing-images-from-a-spreadsheet
+slugEN: importing-images-from-a-spreadsheet
 locale: en
 legacySlug: importing-images-via-a-worksheet
 subcategoryId: pwxWmUu7T222QyuGogs68

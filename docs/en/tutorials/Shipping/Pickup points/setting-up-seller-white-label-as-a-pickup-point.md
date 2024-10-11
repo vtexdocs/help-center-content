@@ -9,7 +9,7 @@ firstPublishedAt: 2018-09-05T20:38:04.270Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
-slug: setting-up-seller-white-label-as-a-pickup-point
+slugEN: setting-up-seller-white-label-as-a-pickup-point
 locale: en
 legacySlug: setting-up-seller-white-label-as-a-pickup-point
 subcategoryId: 1c5Btie9ou2Gg2iUo0ggqM

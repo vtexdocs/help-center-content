@@ -8,7 +8,7 @@ publishedAt: 2022-01-04T20:06:36.794Z
 firstPublishedAt: 2022-01-04T19:14:43.796Z
 contentType: trackArticle
 productTeam: Channels
-slug: configuring-price-divergence-rule
+slugEN: configuring-price-divergence-rule
 locale: en
 trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugEN: b2w-integration-set-up

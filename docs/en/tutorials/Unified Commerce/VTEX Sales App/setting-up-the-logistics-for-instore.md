@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-15T15:20:36.982Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_59
-slug: setting-up-the-logistics-for-instore
+slugEN: setting-up-the-logistics-for-instore
 locale: en
 legacySlug: setting-up-the-logistics-for-instore
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G

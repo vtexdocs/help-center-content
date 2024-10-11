@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-10T17:39:18.212Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_64
-slug: how-the-documents-saving-flow-works
+slugEN: how-the-documents-saving-flow-works
 locale: en
 legacySlug: how-the-documents-saving-flow-works
 subcategoryId: 5gtjaqCG7eIseyCI0aSqc2

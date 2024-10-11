@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-20T16:19:00.365Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-meo-wallet
+slugEN: setting-up-payments-with-meo-wallet
 locale: en
 legacySlug: setting-up-payments-with-meo-wallet
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

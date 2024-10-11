@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-16T17:57:04.275Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: license-manager-resources-conditions-evaluator
+slugEN: license-manager-resources-conditions-evaluator
 locale: en
 legacySlug: 
 subcategoryId: 1HSqkejwuYcQSMC400uY84

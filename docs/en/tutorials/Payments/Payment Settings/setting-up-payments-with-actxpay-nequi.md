@@ -9,7 +9,7 @@ firstPublishedAt: 2022-05-05T17:59:50.717Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-actxpay-nequi
+slugEN: setting-up-payments-with-actxpay-nequi
 locale: en
 legacySlug: setting-up-payments-with-actxpay-nequi
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

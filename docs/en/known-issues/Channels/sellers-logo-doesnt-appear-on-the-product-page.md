@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Portal
-slug: sellers-logo-doesnt-appear-on-the-product-page
+slugEN: sellers-logo-doesnt-appear-on-the-product-page
 locale: en
 kiStatus: Backlog
 internalReference: 

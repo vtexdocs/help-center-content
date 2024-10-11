@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: new-ui-does-not-show-the-customers-id-document-for-example-cpf
+slugEN: new-ui-does-not-show-the-customers-id-document-for-example-cpf
 locale: en
 kiStatus: No Fix
 internalReference: 713480

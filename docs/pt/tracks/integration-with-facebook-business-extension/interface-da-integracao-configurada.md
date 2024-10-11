@@ -3,12 +3,12 @@ title: 'Interface da integração configurada'
 id: DmcxFAdyCC7t0a72hIXeT
 status: PUBLISHED
 createdAt: 2021-09-30T16:44:47.202Z
-updatedAt: 2021-10-04T17:47:07.516Z
-publishedAt: 2021-10-04T17:47:07.516Z
+updatedAt: 2024-09-05T15:27:53.730Z
+publishedAt: 2024-09-05T15:27:53.730Z
 firstPublishedAt: 2021-09-30T18:49:28.436Z
 contentType: trackArticle
 productTeam: Channels
-slug: interface-da-integracao-configurada
+slugEN: interface-da-integracao-configurada
 locale: pt
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
 trackSlugPT: integracao-com-o-facebook-business-extension
@@ -18,7 +18,7 @@ Concluída a integração com a app _Facebook Business Extension e Conversions A
 
 Nesta interface, há três seções principais: [Status](#status), [Funcionalidades](#funcionalidades) e [Catálogo](#catalogo).
 
-![print_interface_pt](https://drive.google.com/uc?export=download&id=1nyXwzXR_pw8nCz9HiDgflFZpNfxkx3yo)
+![Facebook business Extension](https://images.ctfassets.net/alneenqid6w5/0FVc54WxGh3BorDpQkkzI/4ce29da78c0004ab73cc9b554235bb07/print_interface_pt.png)
 
 ## Status
 

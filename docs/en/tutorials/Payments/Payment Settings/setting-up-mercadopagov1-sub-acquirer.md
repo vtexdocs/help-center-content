@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-08T19:45:23.370Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-mercadopagov1-sub-acquirer
+slugEN: setting-up-mercadopagov1-sub-acquirer
 locale: en
 legacySlug: setting-up-mercadopagov1-sub-acquirer
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

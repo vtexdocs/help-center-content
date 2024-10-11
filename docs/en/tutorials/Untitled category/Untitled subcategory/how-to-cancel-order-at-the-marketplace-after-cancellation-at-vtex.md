@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Others
 author: 
-slug: how-to-cancel-order-at-the-marketplace-after-cancellation-at-vtex
+slugEN: how-to-cancel-order-at-the-marketplace-after-cancellation-at-vtex
 locale: en
 legacySlug: how-to-cancel-order-at-the-marketplace-after-cancellation-at-vtex
 subcategoryId: unknown-subcategory

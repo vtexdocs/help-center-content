@@ -8,7 +8,7 @@ publishedAt: 2020-02-13T16:01:14.664Z
 firstPublishedAt: 2019-05-21T19:08:27.121Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: brands-concept-definition
+slugEN: brands-concept-definition
 locale: en
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugEN: catalog-101

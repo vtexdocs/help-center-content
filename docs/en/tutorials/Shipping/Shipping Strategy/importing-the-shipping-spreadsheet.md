@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-28T21:32:16.417Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: importing-the-shipping-spreadsheet
+slugEN: importing-the-shipping-spreadsheet
 locale: en
 legacySlug: importing-the-shipping-spreadsheet
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

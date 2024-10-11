@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:46.401Z
 contentType: updates
 productTeam: Reliability
 author: authors_24
-slug: new-deadline-activate-the-new-cdn-until-may-31
+slugEN: 2018-04-20-new-deadline-activate-the-new-cdn-until-may-31
 locale: en
 legacySlug: new-deadline-activate-the-new-cdn-until-may-31
 announcementImageID: ''

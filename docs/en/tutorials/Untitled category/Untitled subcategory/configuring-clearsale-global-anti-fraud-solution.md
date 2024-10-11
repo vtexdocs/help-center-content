@@ -9,7 +9,7 @@ firstPublishedAt: 2021-07-06T18:27:48.978Z
 contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slug: configuring-clearsale-global-anti-fraud-solution
+slugEN: configuring-clearsale-global-anti-fraud-solution
 locale: en
 legacySlug: configuring-clearsale-global-anti-fraud-solution
 subcategoryId: unknown-subcategory

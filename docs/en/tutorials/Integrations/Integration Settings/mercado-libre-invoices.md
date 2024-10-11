@@ -9,7 +9,7 @@ firstPublishedAt: 2023-01-31T21:27:35.035Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: mercado-libre-invoices
+slugEN: mercado-libre-invoices
 locale: en
 legacySlug: mercado-libre-invoices
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

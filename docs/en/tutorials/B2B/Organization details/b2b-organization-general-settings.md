@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-07T11:44:14.228Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: b2b-organization-general-settings
+slugEN: b2b-organization-general-settings
 locale: en
 legacySlug: b2b-organization-general-settings
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd

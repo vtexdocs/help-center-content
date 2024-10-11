@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: gift-card-view-only-role-not-available
+slugEN: gift-card-view-only-role-not-available
 locale: en
 kiStatus: Backlog
 internalReference: 1074878

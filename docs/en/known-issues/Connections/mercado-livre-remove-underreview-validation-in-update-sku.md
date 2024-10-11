@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: mercado-livre-remove-underreview-validation-in-update-sku
+slugEN: mercado-livre-remove-underreview-validation-in-update-sku
 locale: en
 kiStatus: Backlog
 internalReference: 890658

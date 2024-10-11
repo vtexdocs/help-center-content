@@ -1,15 +1,15 @@
 ---
 title: 'Setting up Intelligent Search integration with the Catalog'
 id: 3Nt5cIdwISSlzVtnYfLeIH
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2024-06-27T16:56:47.833Z
-updatedAt: 2024-06-27T17:01:32.662Z
-publishedAt: 2024-06-27T17:01:32.662Z
+updatedAt: 2024-09-06T20:44:02.902Z
+publishedAt: 
 firstPublishedAt: 2024-06-27T16:57:41.295Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: setting-up-intelligent-search-integration-with-the-catalog
+slugEN: setting-up-intelligent-search-integration-with-the-catalog
 locale: en
 legacySlug: integrations
 subcategoryId: 1EmKjP83dy0RWD9GzZkYsG

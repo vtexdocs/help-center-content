@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-22T01:59:57.413Z
 contentType: tutorial
 productTeam: Others
 author: authors_24
-slug: installing-an-app
+slugEN: installing-an-app
 locale: en
 legacySlug: installing-the-app
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

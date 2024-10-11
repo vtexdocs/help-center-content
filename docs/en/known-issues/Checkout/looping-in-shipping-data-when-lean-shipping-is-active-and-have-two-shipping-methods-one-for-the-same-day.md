@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: looping-in-shipping-data-when-lean-shipping-is-active-and-have-two-shipping-methods-one-for-the-same-day
+slugEN: looping-in-shipping-data-when-lean-shipping-is-active-and-have-two-shipping-methods-one-for-the-same-day
 locale: en
 kiStatus: Fixed
 internalReference: 373868

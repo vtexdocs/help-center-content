@@ -8,7 +8,7 @@ publishedAt: 2023-12-13T14:03:46.024Z
 contentType: updates
 productTeam: Billing
 author: 5l3eEiSz8MpcppCxcnijGz
-slug: new-rules-for-activating-vtex-support
+slugEN: 2023-12-01-new-rules-for-activating-vtex-support
 locale: en
 legacySlug: new-rules-for-activating-vtex-support
 announcementImageID: ''

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: checkbox-requires-authentication-doesnt-work-on-pages-module
+slugEN: checkbox-requires-authentication-doesnt-work-on-pages-module
 locale: en
 kiStatus: Backlog
 internalReference: 577306

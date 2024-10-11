@@ -9,7 +9,7 @@ firstPublishedAt: 2018-05-23T21:47:31.912Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-banamex-gateway
+slugEN: setting-up-banamex-gateway
 locale: en
 legacySlug: setting-up-banamex-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -8,7 +8,7 @@ publishedAt: 2024-05-23T17:44:36.531Z
 firstPublishedAt: 2024-02-22T14:09:33.306Z
 contentType: trackArticle
 productTeam: Billing
-slug: vtex-support
+slugEN: vtex-support
 locale: en
 trackId: 4AXsGdGHqExp9ZkiNq9eMy
 trackSlugEN: support-at-vtex

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-04T20:10:52.259Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: lista-da-vez
+slugEN: lista-da-vez
 locale: es
 legacySlug: lista-da-vez
 subcategoryId: 5SE2asHiQtHKfbnFru8RWH

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: unavailable-items-breaking-the-orderform-calculation-in-a-specific-scenario-while-using-whitelabel-sellers
+slugEN: unavailable-items-breaking-the-orderform-calculation-in-a-specific-scenario-while-using-whitelabel-sellers
 locale: en
 kiStatus: Backlog
 internalReference: 745047

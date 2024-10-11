@@ -8,7 +8,7 @@ publishedAt: 2020-04-02T16:47:32.151Z
 contentType: updates
 productTeam: Channels
 author: 5DnIDwto7E6PRpdH1Kpdyu
-slug: discontinuation-of-waiting-for-seller-confirmation-and-order-completed
+slugEN: 2019-06-28-discontinuation-of-waiting-for-seller-confirmation-and-order-completed
 locale: en
 legacySlug: discontinuation-of-waiting-for-seller-confirmation-and-order-completed
 announcementImageID: ''

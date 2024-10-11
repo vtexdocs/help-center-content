@@ -8,7 +8,7 @@ publishedAt: 2024-08-06T13:44:01.046Z
 firstPublishedAt: 2021-05-26T15:28:12.852Z
 contentType: trackArticle
 productTeam: Channels
-slug: dafiti-marketplace
+slugEN: dafiti-marketplace
 locale: pt
 trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugPT: configurar-integracao-da-dafiti

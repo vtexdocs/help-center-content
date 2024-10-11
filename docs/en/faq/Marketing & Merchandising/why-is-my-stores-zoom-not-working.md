@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:45.500Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: why-is-my-stores-zoom-not-working
+slugEN: why-is-my-stores-zoom-not-working
 locale: en
 legacySlug: why-is-my-stores-zoom-not-working
 ---

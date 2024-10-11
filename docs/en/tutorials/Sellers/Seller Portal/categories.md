@@ -9,7 +9,7 @@ firstPublishedAt: 2021-11-03T13:31:03.376Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: categories
+slugEN: categories
 locale: en
 legacySlug: categories-beta
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
@@ -51,7 +51,7 @@ To find a category, you must type the name of the category in the search bar abo
 ## Browsing the category tree
 The categories page displays the outermost levels of the categories. Click on the <i class="fas fa-angle-right"></i> icon to access the subcategories, as shown below.
 
-![arvore-categoria-EN](https://images.ctfassets.net/alneenqid6w5/4bcSzxVEs4GAn1INLdjP8E/362b5e61773ad44d2e00d7f0813339d0/arvore-categoria-EN.gif)
+![arvore-categoria-EN](//images.ctfassets.net/alneenqid6w5/4bcSzxVEs4GAn1INLdjP8E/362b5e61773ad44d2e00d7f0813339d0/arvore-categoria-EN.gif)
 
 To view the information for a category, click on its name. 
 

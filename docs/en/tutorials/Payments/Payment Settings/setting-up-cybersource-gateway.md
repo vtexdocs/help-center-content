@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-30T20:20:44.704Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-cybersource-gateway
+slugEN: setting-up-cybersource-gateway
 locale: en
 legacySlug: setting-up-cybersource-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
@@ -182,7 +182,7 @@ document.body.appendChild(noScript);
 
 Additionally, you can define custom fields that will be included in orders forwarded from VTEX to Cybersource. 
 
-![Cybersource Admin merchant define fields EN](https://images.ctfassets.net/alneenqid6w5/5KPPO5k4to3sH9amCFyp7B/176d6380fb7ef021d18822973f392ab0/Cybersource_Admin_merchant_define_fields_EN.JPG)
+![Cybersource Admin merchant define fields EN](//images.ctfassets.net/alneenqid6w5/5KPPO5k4to3sH9amCFyp7B/176d6380fb7ef021d18822973f392ab0/Cybersource_Admin_merchant_define_fields_EN.JPG)
 
 See below how to create these fields:
 

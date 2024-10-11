@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-16T19:50:41.826Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: recursos-do-license-manager-message-center
+slugEN: recursos-do-license-manager-message-center
 locale: es
 legacySlug: 
 subcategoryId: 1HSqkejwuYcQSMC400uY84

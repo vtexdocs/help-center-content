@@ -8,7 +8,7 @@ publishedAt: 2023-03-29T20:33:28.498Z
 firstPublishedAt: 2019-07-17T19:47:09.101Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: adding-rounding-rules
+slugEN: adding-rounding-rules
 locale: en
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugEN: prices-101

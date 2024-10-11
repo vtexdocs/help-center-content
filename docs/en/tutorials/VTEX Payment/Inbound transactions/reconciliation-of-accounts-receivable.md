@@ -9,7 +9,7 @@ firstPublishedAt: 2020-06-19T21:43:58.066Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: reconciliation-of-accounts-receivable
+slugEN: reconciliation-of-accounts-receivable
 locale: en
 legacySlug: reconciliation-of-accounts-receivable
 subcategoryId: 23PYStKNPteW4CqklwXXQN

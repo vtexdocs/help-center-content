@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:39.657Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: google-search-console-tracking-tracking-errors
+slugEN: google-search-console-tracking-tracking-errors
 locale: en
 legacySlug: google-search-console-tracking-tracking-errors
 subcategoryId: 1luKrYptdi8WoMYckakUaM

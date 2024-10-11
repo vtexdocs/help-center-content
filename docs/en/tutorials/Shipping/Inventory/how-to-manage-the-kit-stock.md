@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:03:46.311Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-to-manage-the-kit-stock
+slugEN: how-to-manage-the-kit-stock
 locale: en
 legacySlug: how-to-manage-the-kit-stock
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE

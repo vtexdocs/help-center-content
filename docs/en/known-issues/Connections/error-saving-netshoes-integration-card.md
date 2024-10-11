@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: error-saving-netshoes-integration-card
+slugEN: error-saving-netshoes-integration-card
 locale: en
 kiStatus: Backlog
 internalReference: 591921

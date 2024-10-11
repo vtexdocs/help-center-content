@@ -9,7 +9,7 @@ firstPublishedAt: 2018-10-24T13:49:54.100Z
 contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: migrating-ads-in-mercado-livre
+slugEN: migrating-ads-in-mercado-livre
 locale: en
 legacySlug: migrating-ads-in-mercado-livre
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

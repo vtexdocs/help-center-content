@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_35
 tag: Portal (CMS)
-slug: voucher-cannot-be-configured-for-restricted-use-in-the-case-of-a-cnpj
+slugEN: voucher-cannot-be-configured-for-restricted-use-in-the-case-of-a-cnpj
 locale: en
 kiStatus: Backlog
 internalReference: 

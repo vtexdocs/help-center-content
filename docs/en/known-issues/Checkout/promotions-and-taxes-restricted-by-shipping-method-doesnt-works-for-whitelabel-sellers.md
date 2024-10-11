@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: promotions-and-taxes-restricted-by-shipping-method-doesnt-works-for-whitelabel-sellers
+slugEN: promotions-and-taxes-restricted-by-shipping-method-doesnt-works-for-whitelabel-sellers
 locale: en
 kiStatus: Backlog
 internalReference: 315485

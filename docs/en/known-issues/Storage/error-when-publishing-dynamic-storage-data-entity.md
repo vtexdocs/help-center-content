@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slug: error-when-publishing-dynamic-storage-data-entity
+slugEN: error-when-publishing-dynamic-storage-data-entity
 locale: en
 kiStatus: Backlog
 internalReference: 666357

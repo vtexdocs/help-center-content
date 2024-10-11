@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: client-document-value-will-not-update-correctly-sometimes-in-global-checkout-setting
+slugEN: client-document-value-will-not-update-correctly-sometimes-in-global-checkout-setting
 locale: en
 kiStatus: Backlog
 internalReference: 863726

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-30T21:37:59.582Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-credomatic-gateway
+slugEN: setting-up-credomatic-gateway
 locale: en
 legacySlug: setting-up-credomatic-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

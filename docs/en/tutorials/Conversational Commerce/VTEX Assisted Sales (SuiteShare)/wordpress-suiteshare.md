@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T18:06:25.443Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: wordpress-suiteshare
+slugEN: wordpress-suiteshare
 locale: en
 legacySlug: wordpress
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

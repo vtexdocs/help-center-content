@@ -3,13 +3,13 @@ title: 'Split Payment'
 id: 6k5JidhYRUxileNolY2VLx
 status: PUBLISHED
 createdAt: 2021-04-06T20:03:53.443Z
-updatedAt: 2024-06-18T17:50:44.146Z
-publishedAt: 2024-06-18T17:50:44.146Z
+updatedAt: 2024-09-12T14:18:25.108Z
+publishedAt: 2024-09-12T14:18:25.108Z
 firstPublishedAt: 2021-04-07T18:57:19.713Z
 contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slug: split-payment
+slugEN: split-payment
 locale: en
 legacySlug: split-payment
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
@@ -55,7 +55,7 @@ __The payment is distributed as follows:__
 
 As you can see, our Gateway calculates and distributes payouts for each recipient when the order is invoiced and sends that info to the payment provider. The distribution is done according to the amount destined to each merchant in the order and the commissions taken by the marketplace.
 
-![Receivables](https://images.ctfassets.net/alneenqid6w5/1rJ1dG3TMX9UqjPr5H4GMR/1b024e71291ab003f9b6379d0ffcecca/RECEBIVEIS.png)
+![Receivables](//images.ctfassets.net/alneenqid6w5/1rJ1dG3TMX9UqjPr5H4GMR/1b024e71291ab003f9b6379d0ffcecca/RECEBIVEIS.png)
 
 Our __Payout Split__ solution has some limitations that are important to consider:
 
@@ -82,11 +82,11 @@ Meaning that the marketplace has less control over the payment flow. Unlike the 
 
 For example, a shopper adds two products to the same shopping cart. One of them will be fulfilled by the marketplace itself and the other one belongs to a seller called __Seller A__.
 
-![Transaction Split](https://images.ctfassets.net/alneenqid6w5/3uiBeqiyYlaneMksnW4G0v/8a47d871bdc64ccec3d812b4449b053e/TRANSACTION.png)
+![Transaction Split](//images.ctfassets.net/alneenqid6w5/3uiBeqiyYlaneMksnW4G0v/8a47d871bdc64ccec3d812b4449b053e/TRANSACTION.png)
 
 In the __Transaction Split__, the marketplace has no need to make any configuration. The seller is the one that needs to configure their own payment method in the affiliation with a given marketplace. Check our documentation [Send the Seller White Label payment methods to the Marketplace](https://help.vtex.com/en/tutorial/enviar-os-meios-de-pagamento-do-seller-white-label-para-o-marketplace--bfvtPzZyikacSqgkgeGW) for more details. 
 
-![Report](https://images.ctfassets.net/alneenqid6w5/3YX8MmCPvAWyJpZ7tFAHt4/7276a3b6c1ff1cf1d4d6fe5ccd7bdba9/REPORT.png)
+![Report](//images.ctfassets.net/alneenqid6w5/3YX8MmCPvAWyJpZ7tFAHt4/7276a3b6c1ff1cf1d4d6fe5ccd7bdba9/REPORT.png)
 
 The transaction split has a few __limitations__ that must be taken into account:
 
@@ -97,7 +97,6 @@ The transaction split has a few __limitations__ that must be taken into account:
 - __For non-VTEX sellers__: if the seller is a non-VTEX seller it is necessary that it uses a Gateway account, which is a type of account that allows the seller to configure payment methods.
 - __Parties Involved__: it does not allow to Split the payment with recipients who are not selling products in the cart. For example: to split the freight directly to the carrier.
 - __VTEX Subscriptions__: it does not support marketplace orders.
-- __Combining Split Models__: when combined with the other Split model - Payout Split -, the Transaction Split will prevail. That is, for sellers who choose to use their payment methods, their portion of the transaction will be processed at their own gateway and the values of the other sales participants will continue to be processed by the marketplace.
 
 ## Combining Split Models
 

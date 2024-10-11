@@ -9,7 +9,7 @@ firstPublishedAt: 2021-10-21T21:55:42.939Z
 contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slug: audit
+slugEN: audit
 locale: es
 legacySlug: como-encontrar-eventos-en-audit
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
@@ -50,7 +50,7 @@ Para consultar un evento utilizando los filtros disponibles en Audit, sigue esto
 
     Por ejemplo, la consulta que corresponde a la siguiente imagen devuelve resultados cuyas acciones son _Change Promotion Configuration_ o _Change Coupon Configuration_ y cuyo autor es `email@mail.com`.
 
-    ![filtros-es (1)](https://images.ctfassets.net/alneenqid6w5/LQkBnce7aFlx8T1zjXYdm/2898f4f9247621f62bbe7fa00a65a313/filtros-es__1_.png)
+    ![filtros-es (1)](//images.ctfassets.net/alneenqid6w5/LQkBnce7aFlx8T1zjXYdm/2898f4f9247621f62bbe7fa00a65a313/filtros-es__1_.png)
 
 7. Haz clic en el botón `Aplicar` para obtener los eventos encontrados.
 

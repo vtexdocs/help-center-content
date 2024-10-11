@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-allows-users-to-jump-to-payment-step-with-an-empty-shippingdata-when-using-geolocation
+slugEN: checkout-allows-users-to-jump-to-payment-step-with-an-empty-shippingdata-when-using-geolocation
 locale: en
 kiStatus: Backlog
 internalReference: 343056

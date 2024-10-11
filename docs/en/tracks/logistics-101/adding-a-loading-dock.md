@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-10-21T12:49:51.424Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: adding-a-loading-dock
+slugEN: adding-a-loading-dock
 locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101

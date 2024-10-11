@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-07T13:06:36.569Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: logistics-glossary
+slugEN: logistics-glossary
 locale: en
 legacySlug: logistics-glossary
 subcategoryId: 63f22GypJIBLnMGh1QZUi0

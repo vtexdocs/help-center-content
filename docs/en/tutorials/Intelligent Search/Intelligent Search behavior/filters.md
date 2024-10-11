@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-27T16:44:34.723Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: filters
+slugEN: filters
 locale: en
 legacySlug: filters
 subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:12.307Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: filling-in-system-settings
+slugEN: filling-in-system-settings
 locale: en
 legacySlug: filling-in-system-settings
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc

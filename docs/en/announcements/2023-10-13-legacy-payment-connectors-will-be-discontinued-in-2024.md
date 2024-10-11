@@ -3,12 +3,12 @@ title: 'Legacy payment connectors will be discontinued in 2024'
 id: 4R5YIjUu1IWkiOHzXtQU14
 status: PUBLISHED
 createdAt: 2023-10-13T12:52:48.753Z
-updatedAt: 2023-10-17T20:57:39.669Z
-publishedAt: 2023-10-17T20:57:39.669Z
+updatedAt: 2024-09-24T18:40:15.413Z
+publishedAt: 2024-09-24T18:40:15.413Z
 contentType: updates
 productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: legacy-payment-connectors-will-be-discontinued-in-2024
+slugEN: 2023-10-13-legacy-payment-connectors-will-be-discontinued-in-2024
 locale: en
 legacySlug: legacy-payment-connectors-will-be-discontinued-in-2024
 announcementImageID: ''
@@ -16,6 +16,8 @@ announcementSynopsisEN: 'In 2024, VTEX will discontinue legacy payment connector
 ---
 
 To integrate payment methods to the VTEX platform, payment providers can create payment connectors using the [Payment Provider Protocol](https://help.vtex.com/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) (PPP). However, several legacy connectors are using older versions of our payment integration architecture, which are less stable and less performant.
+
+>⚠️ **Update (03/15/2024): **[List of connectors available for migration](https://help.vtex.com/en/announcements/discontinuation-of-legacy-payment-connectors--11SHyRwcAr4fs46K7PccOr).
 
 ## What has changed?
 

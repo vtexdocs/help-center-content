@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-18T20:58:03.675Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-mundipagg-gateway
+slugEN: setting-up-mundipagg-gateway
 locale: en
 legacySlug: setting-up-mundipagg-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

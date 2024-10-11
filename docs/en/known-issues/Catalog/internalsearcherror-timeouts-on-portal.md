@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: internalsearcherror-timeouts-on-portal
+slugEN: internalsearcherror-timeouts-on-portal
 locale: en
 kiStatus: Backlog
 internalReference: 1043003

@@ -3,13 +3,13 @@ title: 'Fulfillment Magalu'
 id: 7ckyEv4Z8HmiCRydo0a9P6
 status: PUBLISHED
 createdAt: 2023-12-19T19:09:47.849Z
-updatedAt: 2024-01-05T11:58:20.772Z
-publishedAt: 2024-01-05T11:58:20.772Z
+updatedAt: 2024-09-12T18:33:18.932Z
+publishedAt: 2024-09-12T18:33:18.932Z
 firstPublishedAt: 2023-12-19T19:44:22.896Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: fulfillment-magalu
+slugEN: fulfillment-magalu
 locale: pt
 legacySlug: fulfillment-magalu
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 Ao finalizar a [integração](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y/3tZ4qVuMDDsC2jx2DCmjdA) de uma loja VTEX com o Magalu, um seller poderá compartilhar produtos, gerenciar os pedidos realizados no marketplace, as atualizações de preços e produtos, pontos de retirada e o inventário dos produtos em um só lugar.
 
-Além da integração básica, lojistas VTEX podem integrar com o [**Fulfillment Magalu**](https://unimagalu.com.br/full/), que é um serviço disponível a lojistas que já vendem no Magalu Marketplace. Este serviço disponibiliza a operação de armazenamento e entrega do Magalu para seus produtos mais vendidos no marketplace. 
+Além da integração básica, lojistas VTEX podem integrar com o [**Fulfillment Magalu**](https://unimagalu.com.br/full/), que é um serviço disponível a lojistas que já vendem no Magalu Marketplace. Este serviço disponibiliza a operação de armazenamento e entrega do Magalu para seus produtos mais vendidos no marketplace.  
 
 >⚠️ Somente os produtos mais vendidos de uma loja, podem ser configurados com a opção de venda pelo Fulfillment Magalu.
 

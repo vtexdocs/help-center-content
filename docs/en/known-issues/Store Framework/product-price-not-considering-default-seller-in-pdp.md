@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: product-price-not-considering-default-seller-in-pdp
+slugEN: product-price-not-considering-default-seller-in-pdp
 locale: en
 kiStatus: No Fix
 internalReference: 429888

@@ -9,7 +9,7 @@ firstPublishedAt: 2021-09-27T19:07:23.186Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: comprehensive-seller
+slugEN: comprehensive-seller
 locale: en
 legacySlug: comprehensive-seller
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm

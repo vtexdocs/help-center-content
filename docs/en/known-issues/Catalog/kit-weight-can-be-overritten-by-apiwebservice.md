@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: kit-weight-can-be-overritten-by-apiwebservice
+slugEN: kit-weight-can-be-overritten-by-apiwebservice
 locale: en
 kiStatus: No Fix
 internalReference: 429993

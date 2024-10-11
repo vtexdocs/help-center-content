@@ -9,7 +9,7 @@ firstPublishedAt: 2020-09-24T17:54:32.771Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: beta-price-configuration
+slugEN: beta-price-configuration
 locale: en
 legacySlug: price-configuration-beta
 subcategoryId: 2XTQ6yFYeU5bGHK8Qq3f4I
@@ -69,9 +69,9 @@ To create a new rule, follow the steps below:
 
   ![config-preco-EN](https://images.ctfassets.net/alneenqid6w5/2sDqS10pMIv7tmDTgP96si/10028ff45ae241863445061a871e98dd/config-preco-EN.png)
 
-  ![config-preco2-EN](https://images.ctfassets.net/alneenqid6w5/13jaqi9EY1SZ7CdShElb7r/e9ce4f8ca7b2322aacd556fbf5f7cd50/config-preco2-EN.png)
+  ![config-preco2-EN](//images.ctfassets.net/alneenqid6w5/13jaqi9EY1SZ7CdShElb7r/e9ce4f8ca7b2322aacd556fbf5f7cd50/config-preco2-EN.png)
 
-![config-preco3-EN](https://images.ctfassets.net/alneenqid6w5/3EC7hLAQO43LoPlijbXFKM/42d35e6f525408f2920da790b08bd88d/config-preco3-EN.png)
+![config-preco3-EN](//images.ctfassets.net/alneenqid6w5/3EC7hLAQO43LoPlijbXFKM/42d35e6f525408f2920da790b08bd88d/config-preco3-EN.png)
 
   7. Click on **Confirm**.
 

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-09T15:39:13.088Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-vtex-b2w-gateway
+slugEN: setting-up-vtex-b2w-gateway
 locale: en
 legacySlug: setting-up-vtex-b2w-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

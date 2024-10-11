@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-18T12:56:36.170Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-koin-payments
+slugEN: setting-up-payments-with-koin-payments
 locale: en
 legacySlug: setting-up-payments-with-koin-payments
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

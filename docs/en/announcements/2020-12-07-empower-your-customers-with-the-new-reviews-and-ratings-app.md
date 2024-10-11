@@ -8,7 +8,7 @@ publishedAt: 2020-12-14T18:55:53.898Z
 contentType: updates
 productTeam: Apps
 author: LSspaTnBWFvnlgdBYPyog
-slug: empower-your-customers-with-the-new-reviews-and-ratings-app
+slugEN: 2020-12-07-empower-your-customers-with-the-new-reviews-and-ratings-app
 locale: en
 legacySlug: empower-your-customers-with-the-new-reviews-and-ratings-app
 announcementImageID: ''

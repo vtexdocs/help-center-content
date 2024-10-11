@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: authors_35
 tag: PCI Gateway
-slug: untitled
+slugEN: untitled
 locale: es
 kiStatus: Open
 internalReference: 

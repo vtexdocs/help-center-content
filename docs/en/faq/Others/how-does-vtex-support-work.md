@@ -9,7 +9,7 @@ firstPublishedAt: 2019-03-10T19:08:36.723Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: how-does-vtex-support-work
+slugEN: how-does-vtex-support-work
 locale: en
 legacySlug: support-plans
 ---

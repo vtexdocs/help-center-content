@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: my-cards-footer-is-shivering-when-trying-to-add-a-new-card
+slugEN: my-cards-footer-is-shivering-when-trying-to-add-a-new-card
 locale: en
 kiStatus: Backlog
 internalReference: 1012542

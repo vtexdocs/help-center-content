@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: error-in-viewing-the-orders-ui-after-requesting-the-invoice-via-app
+slugEN: error-in-viewing-the-orders-ui-after-requesting-the-invoice-via-app
 locale: en
 kiStatus: Backlog
 internalReference: 1070299

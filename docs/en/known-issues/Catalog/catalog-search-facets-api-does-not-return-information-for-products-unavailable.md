@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-search-facets-api-does-not-return-information-for-products-unavailable
+slugEN: catalog-search-facets-api-does-not-return-information-for-products-unavailable
 locale: en
 kiStatus: No Fix
 internalReference: 583623

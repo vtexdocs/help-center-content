@@ -9,7 +9,7 @@ firstPublishedAt: 2023-06-19T17:10:43.124Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: dpan-and-fpan-understanding-security-in-the-online-tokenized-payment-flow
+slugEN: dpan-and-fpan-understanding-security-in-the-online-tokenized-payment-flow
 locale: en
 legacySlug: dpan-and-fpan-understanding-security-in-the-online-tokenized-payment-flow
 subcategoryId: unknown-subcategory

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-07-26T18:43:10.906Z
 contentType: tutorial
 productTeam: Reliability
 author: authors_59
-slug: accessing-the-beta-environment
+slugEN: accessing-the-beta-environment
 locale: en
 legacySlug: accessing-the-beta-environment
 subcategoryId: Se4oi5LroIII2Ei0uGAoE

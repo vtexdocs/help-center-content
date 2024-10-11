@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: when-shippingestimate-is-0-the-deliveryslainminutes-calculation-returns-null
+slugEN: when-shippingestimate-is-0-the-deliveryslainminutes-calculation-returns-null
 locale: en
 kiStatus: No Fix
 internalReference: 514835

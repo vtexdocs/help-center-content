@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
-slug: new-roles-page
+slugEN: 2023-11-30-new-roles-page
 locale: en
 legacySlug: new-roles-page
 announcementImageID: ''

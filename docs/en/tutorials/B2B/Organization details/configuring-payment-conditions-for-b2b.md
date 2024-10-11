@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-25T17:07:27.442Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: configuring-payment-conditions-for-b2b
+slugEN: configuring-payment-conditions-for-b2b
 locale: en
 legacySlug: configuring-payment-conditions-for-b2b
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd

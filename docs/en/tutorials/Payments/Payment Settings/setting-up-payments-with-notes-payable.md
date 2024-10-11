@@ -9,7 +9,7 @@ firstPublishedAt: 2018-06-25T15:42:31.515Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payments-with-notes-payable
+slugEN: setting-up-payments-with-notes-payable
 locale: en
 legacySlug: setting-up-payments-with-notes-payable
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

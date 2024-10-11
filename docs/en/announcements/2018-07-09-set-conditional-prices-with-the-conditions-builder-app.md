@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: VTEX IO
 author: 
-slug: set-conditional-prices-with-the-conditions-builder-app
+slugEN: 2018-07-09-set-conditional-prices-with-the-conditions-builder-app
 locale: en
 legacySlug: 
 announcementImageID: ''

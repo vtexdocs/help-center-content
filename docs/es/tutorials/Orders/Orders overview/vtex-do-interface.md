@@ -9,7 +9,7 @@ firstPublishedAt: 2022-04-04T21:58:08.236Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: vtex-do-interface
+slugEN: vtex-do-interface
 locale: es
 legacySlug: vtex-do-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
@@ -113,7 +113,7 @@ Las tareas gestionadas a través de VTEX DO pueden incluir mensajes de todos los
 
 ## Detalles de la tarea
 
-![VTEX Do details ES](https://images.ctfassets.net/alneenqid6w5/mPby3BuhZYAwGyFuII8mr/d72c3000996192d5f687c6adf8b0b381/VTEX_Do_details_ES.jpg)
+![VTEX Do details ES](//images.ctfassets.net/alneenqid6w5/mPby3BuhZYAwGyFuII8mr/d72c3000996192d5f687c6adf8b0b381/VTEX_Do_details_ES.jpg)
 
 Al hacer clic en el nombre de una tarea de la lista, se te redirige al modal de detalles de la tarea que presenta más información sobre la misma y las acciones para resolverla. Se muestran los siguientes campos:
 

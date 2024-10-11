@@ -9,7 +9,7 @@ firstPublishedAt: 2022-06-13T18:10:50.488Z
 contentType: tutorial
 productTeam: Others
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: releases-module-beta
+slugEN: releases-module-beta
 locale: en
 legacySlug: releases-module-beta
 subcategoryId: unknown-subcategory
@@ -84,7 +84,7 @@ To create a release, follow the step-by-step instructions below:
 
 All the releases are listed in the VTEX Admin, in **Store Settings > Releases**. The page displays two tabs, `SCHEDULED` and `UNSCHEDULED`, depending on whether the release has been created with a set publish date. 
 
-![print_releases_en](https://images.ctfassets.net/alneenqid6w5/14ZhiyhghBKjaoHuab8bcH/4895efa9b36315602d5b877de0a8a60c/print_releases_en.png)
+![print_releases_en](//images.ctfassets.net/alneenqid6w5/14ZhiyhghBKjaoHuab8bcH/4895efa9b36315602d5b877de0a8a60c/print_releases_en.png)
 
 On the `SCHEDULED` tab, each column is described as follows:
 

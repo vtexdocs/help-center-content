@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-25T21:50:17.657Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: what-is-a-brand
+slugEN: what-is-a-brand
 locale: en
 legacySlug: what-is-a-brand
 subcategoryId: fUHfjTEwyOcIQuyeUsIIu

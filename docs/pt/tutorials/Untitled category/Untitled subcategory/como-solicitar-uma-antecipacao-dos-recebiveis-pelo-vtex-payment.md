@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Financial
 author: 
-slug: como-solicitar-uma-antecipacao-dos-recebiveis-pelo-vtex-payment
+slugEN: como-solicitar-uma-antecipacao-dos-recebiveis-pelo-vtex-payment
 locale: pt
 legacySlug: como-solicitar-uma-antecipacao-dos-recebiveis-pelo-vtex-payment
 subcategoryId: unknown-subcategory

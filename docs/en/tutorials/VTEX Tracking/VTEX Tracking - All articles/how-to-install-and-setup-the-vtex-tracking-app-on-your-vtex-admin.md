@@ -9,7 +9,7 @@ firstPublishedAt: 2020-12-22T14:53:00.575Z
 contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: how-to-install-and-setup-the-vtex-tracking-app-on-your-vtex-admin
+slugEN: how-to-install-and-setup-the-vtex-tracking-app-on-your-vtex-admin
 locale: en
 legacySlug: how-to-install-and-setup-the-vtex-tracking-app-on-your-vtex-admin
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP

@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:12:53.931Z
 contentType: updates
 productTeam: Others
 author: authors_24
-slug: become-an-expert-in-vtex-with-training-day
+slugEN: 2018-10-01-become-an-expert-in-vtex-with-training-day
 locale: en
 legacySlug: become-an-expert-in-vtex-with-training-day
 announcementImageID: ''

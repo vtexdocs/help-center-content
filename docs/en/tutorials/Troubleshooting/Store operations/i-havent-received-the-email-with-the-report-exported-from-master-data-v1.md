@@ -9,7 +9,7 @@ firstPublishedAt: 2022-10-17T19:59:15.174Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
-slug: i-havent-received-the-email-with-the-report-exported-from-master-data-v1
+slugEN: i-havent-received-the-email-with-the-report-exported-from-master-data-v1
 locale: en
 legacySlug: what-to-do-when-my-report-does-not-reach-my-inbox
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB

@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-15T17:21:20.017Z
 contentType: tutorial
 productTeam: Channels
 author: 1DedyaVUPp5wLAvjY7wKKv
-slug: site-editor-overview
+slugEN: site-editor-overview
 locale: en
 legacySlug: site-editor-overview
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3

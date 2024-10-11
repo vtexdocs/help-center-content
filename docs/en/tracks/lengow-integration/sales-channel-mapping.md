@@ -8,7 +8,7 @@ publishedAt: 2020-07-02T03:46:35.168Z
 firstPublishedAt: 2020-06-30T01:10:12.866Z
 contentType: trackArticle
 productTeam: Apps
-slug: sales-channel-mapping
+slugEN: sales-channel-mapping
 locale: en
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugEN: lengow-integration

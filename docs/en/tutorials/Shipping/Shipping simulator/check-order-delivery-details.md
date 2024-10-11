@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:02:44.864Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
-slug: check-order-delivery-details
+slugEN: check-order-delivery-details
 locale: en
 legacySlug: check-order-delivery-details
 subcategoryId: 1O8AEORWOcgIiMosGoousQ

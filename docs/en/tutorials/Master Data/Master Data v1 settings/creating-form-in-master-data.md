@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:43.083Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_3
-slug: creating-form-in-master-data
+slugEN: creating-form-in-master-data
 locale: en
 legacySlug: creating-form-in-master-data
 subcategoryId: WpbGhubuRZaNZilJSXnqu

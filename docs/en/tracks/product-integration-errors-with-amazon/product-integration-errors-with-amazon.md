@@ -8,7 +8,7 @@ publishedAt: 2023-09-26T15:02:03.011Z
 firstPublishedAt: 2023-06-29T22:27:35.313Z
 contentType: trackArticle
 productTeam: Channels
-slug: product-integration-errors-with-amazon
+slugEN: product-integration-errors-with-amazon
 locale: en
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugEN: product-integration-errors-with-amazon

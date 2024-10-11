@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:01:19.953Z
 contentType: tutorial
 productTeam: Shopping
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: determine-the-minimum-number-of-items-in-a-cart
+slugEN: determine-the-minimum-number-of-items-in-a-cart
 locale: en
 legacySlug: determine-the-minimum-number-of-items-in-a-cart
 subcategoryId: unknown-subcategory

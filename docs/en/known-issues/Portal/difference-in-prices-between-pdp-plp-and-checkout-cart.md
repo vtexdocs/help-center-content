@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: difference-in-prices-between-pdp-plp-and-checkout-cart
+slugEN: difference-in-prices-between-pdp-plp-and-checkout-cart
 locale: en
 kiStatus: Backlog
 internalReference: 853175

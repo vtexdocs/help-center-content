@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: the-clustered-payment-conditions-app-is-causing-sync-problems-of-payment-rules
+slugEN: the-clustered-payment-conditions-app-is-causing-sync-problems-of-payment-rules
 locale: en
 kiStatus: Backlog
 internalReference: 391569

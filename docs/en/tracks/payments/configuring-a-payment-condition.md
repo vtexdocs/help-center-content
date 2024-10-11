@@ -8,7 +8,7 @@ publishedAt: 2024-03-13T21:42:43.233Z
 firstPublishedAt: 2019-11-26T20:43:48.321Z
 contentType: trackArticle
 productTeam: Financial
-slug: configuring-a-payment-condition
+slugEN: configuring-a-payment-condition
 locale: en
 trackId: 6GAS7ZzGAm7AGoEAwDbwJG
 trackSlugEN: payments

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-10-17T19:50:55.489Z
 contentType: tutorial
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: defining-mandatory-fields-in-master-data-v1-forms
+slugEN: defining-mandatory-fields-in-master-data-v1-forms
 locale: en
 legacySlug: i-can-not-edit-a-required-field-on-master-data
 subcategoryId: WpbGhubuRZaNZilJSXnqu

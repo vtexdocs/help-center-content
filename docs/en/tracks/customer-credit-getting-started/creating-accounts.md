@@ -8,7 +8,7 @@ publishedAt: 2024-02-08T19:08:32.443Z
 firstPublishedAt: 2018-11-06T21:15:02.053Z
 contentType: trackArticle
 productTeam: Financial
-slug: creating-accounts
+slugEN: creating-accounts
 locale: en
 trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugEN: customer-credit-getting-started
@@ -53,7 +53,7 @@ To create multiple accounts at the same time (in bulk) in Customer Credit, you c
   <li>Columns <b>Credit limit</b> and <b>Tolerance rate</b>: values available to each customer. The <b>Tolerance rate</b> must be entered in decimal format, for example, a tolerance of 5% must be indicated as 0.05.</li>
 </ul>
 
-![CC_criar_conta_2_ALL](https://images.ctfassets.net/alneenqid6w5/2KwguLYrq4sasC46xAIUfV/9b504a53cbf5796f78fafc77c5125e22/CC_criar_conta_2_ALL.JPG)
+![CC_criar_conta_2_ALL](//images.ctfassets.net/alneenqid6w5/2KwguLYrq4sasC46xAIUfV/9b504a53cbf5796f78fafc77c5125e22/CC_criar_conta_2_ALL.JPG)
 
 <blockquote><ui>6. Save the .csv spreadsheet.</ui>
 

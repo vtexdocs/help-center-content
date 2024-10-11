@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Financial
 author: 
-slug: como-consultar-os-detalhes-das-movimentacoes-financeiras
+slugEN: como-consultar-os-detalhes-das-movimentacoes-financeiras
 locale: es
 legacySlug: como-consultar-os-detalhes-das-movimentacoes-financeiras
 subcategoryId: 18xYXhZbElixqnashigi5k

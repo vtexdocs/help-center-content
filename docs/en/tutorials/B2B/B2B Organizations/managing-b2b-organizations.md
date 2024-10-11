@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-12T17:36:48.744Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: managing-b2b-organizations
+slugEN: managing-b2b-organizations
 locale: en
 legacySlug: managing-b2b-organizations
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl
@@ -71,7 +71,7 @@ To add a new organization, follow the steps below:
     - **Recipient:** Name of the person who will receive the orders at the address provided.
 4. Click the `Add` button.
 
-![Adiconar organização- EN](https://images.ctfassets.net/alneenqid6w5/7vp9NX3NLvSWErVBlYzbNI/9f298b8d96c542d3c45aadef5cc67b80/Adiconar_organiza__o-_EN.gif)
+![Adiconar organização- EN](//images.ctfassets.net/alneenqid6w5/7vp9NX3NLvSWErVBlYzbNI/9f298b8d96c542d3c45aadef5cc67b80/Adiconar_organiza__o-_EN.gif)
 
 ## Email notifications
 

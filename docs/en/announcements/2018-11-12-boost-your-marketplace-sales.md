@@ -8,7 +8,7 @@ publishedAt: 2020-09-04T21:12:19.603Z
 contentType: updates
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
-slug: boost-your-marketplace-sales
+slugEN: 2018-11-12-boost-your-marketplace-sales
 locale: en
 legacySlug: boost-your-marketplace-sales
 announcementImageID: ''

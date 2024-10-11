@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: incorrect-shippingestimatedate-for-order-fob
+slugEN: incorrect-shippingestimatedate-for-order-fob
 locale: en
 kiStatus: No Fix
 internalReference: 269104

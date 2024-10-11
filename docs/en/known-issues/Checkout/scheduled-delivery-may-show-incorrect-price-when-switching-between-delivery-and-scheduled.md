@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: scheduled-delivery-may-show-incorrect-price-when-switching-between-delivery-and-scheduled
+slugEN: scheduled-delivery-may-show-incorrect-price-when-switching-between-delivery-and-scheduled
 locale: en
 kiStatus: Backlog
 internalReference: 770250

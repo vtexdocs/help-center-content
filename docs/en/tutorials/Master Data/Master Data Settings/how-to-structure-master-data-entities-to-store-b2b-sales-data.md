@@ -9,7 +9,7 @@ firstPublishedAt: 2020-05-29T12:50:42.308Z
 contentType: tutorial
 productTeam: Master Data
 author: 127RQ7SUoFfyTh5gbXUpdM
-slug: how-to-structure-master-data-entities-to-store-b2b-sales-data
+slugEN: how-to-structure-master-data-entities-to-store-b2b-sales-data
 locale: en
 legacySlug: how-to-structure-master-data-entities-to-store-b2b-sales-data
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

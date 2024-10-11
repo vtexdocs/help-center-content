@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: error-in-custom-payments-creation
+slugEN: error-in-custom-payments-creation
 locale: en
 kiStatus: No Fix
 internalReference: 995110

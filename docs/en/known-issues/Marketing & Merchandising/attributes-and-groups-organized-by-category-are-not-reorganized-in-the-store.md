@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: attributes-and-groups-organized-by-category-are-not-reorganized-in-the-store
+slugEN: attributes-and-groups-organized-by-category-are-not-reorganized-in-the-store
 locale: en
 kiStatus: Backlog
 internalReference: 

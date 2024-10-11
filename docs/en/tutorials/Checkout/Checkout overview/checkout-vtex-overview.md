@@ -9,7 +9,7 @@ firstPublishedAt: 2022-07-13T18:28:12.662Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: checkout-vtex-overview
+slugEN: checkout-vtex-overview
 locale: en
 legacySlug: checkout-vtex-overview
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-03T02:09:58.361Z
 contentType: tutorial
 productTeam: Reliability
 author: authors_4
-slug: activating-new-vtex-cdn
+slugEN: activating-new-vtex-cdn
 locale: en
 legacySlug: activating-new-vtex-cdn
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy

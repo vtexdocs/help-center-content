@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-01-13T14:29:26.705Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: associating-a-template-with-a-layout
+slugEN: associating-a-template-with-a-layout
 locale: en
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms

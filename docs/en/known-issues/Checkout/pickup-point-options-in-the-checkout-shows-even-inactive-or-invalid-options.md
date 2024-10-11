@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: pickup-point-options-in-the-checkout-shows-even-inactive-or-invalid-options
+slugEN: pickup-point-options-in-the-checkout-shows-even-inactive-or-invalid-options
 locale: en
 kiStatus: Backlog
 internalReference: 328464

@@ -9,7 +9,7 @@ firstPublishedAt: 2021-04-12T18:21:27.025Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: product-list
+slugEN: product-list
 locale: en
 legacySlug: product-list-beta
 subcategoryId: 4hisB47iAVZk4r3SEmMoG

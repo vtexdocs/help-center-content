@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:14:53.121Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: generating-coupons-in-bulk
+slugEN: generating-coupons-in-bulk
 locale: en
 legacySlug: generating-coupons-in-bulk
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi

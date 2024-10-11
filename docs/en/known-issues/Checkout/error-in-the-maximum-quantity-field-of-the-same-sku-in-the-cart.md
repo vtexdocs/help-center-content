@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: error-in-the-maximum-quantity-field-of-the-same-sku-in-the-cart
+slugEN: error-in-the-maximum-quantity-field-of-the-same-sku-in-the-cart
 locale: en
 kiStatus: Backlog
 internalReference: 587394

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:55:06.983Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: how-do-i-change-the-logo-on-the-payment-slip
+slugEN: how-do-i-change-the-logo-on-the-payment-slip
 locale: en
 legacySlug: how-do-i-change-the-logo-on-the-payment-slip
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma

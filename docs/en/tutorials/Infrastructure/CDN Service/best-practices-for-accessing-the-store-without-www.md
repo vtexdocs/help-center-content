@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:15.960Z
 contentType: tutorial
 productTeam: Reliability
 author: 1malnhMX0vPThsaJaZMYm2
-slug: best-practices-for-accessing-the-store-without-www
+slugEN: best-practices-for-accessing-the-store-without-www
 locale: en
 legacySlug: configuring-access-without-www
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy

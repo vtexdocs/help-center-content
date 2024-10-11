@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: the-cardui-generates-an-error-when-the-user-chooses-to-pay-with-two-cards-changes-the-payment-method-and-returns-to-the-payment-with-two-cards
+slugEN: the-cardui-generates-an-error-when-the-user-chooses-to-pay-with-two-cards-changes-the-payment-method-and-returns-to-the-payment-with-two-cards
 locale: en
 kiStatus: Fixed
 internalReference: 670424

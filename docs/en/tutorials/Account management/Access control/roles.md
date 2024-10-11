@@ -9,7 +9,7 @@ firstPublishedAt: 2020-04-08T20:52:12.334Z
 contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
-slug: roles
+slugEN: roles
 locale: en
 legacySlug: configuring-access-profiles, access-profiles
 subcategoryId: 1HSqkejwuYcQSMC400uY84

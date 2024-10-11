@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-15T19:49:57.726Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: changing-the-total-cost-of-the-order
+slugEN: changing-the-total-cost-of-the-order
 locale: en
 legacySlug: changing-the-total-cost-of-the-order-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
@@ -32,7 +32,7 @@ To make the change, follow the steps below:
     * **Value:** Select Discount or Increase and enter the amount corresponding to what you want to change.    
     * **Reason:** indicate why you are making this change.  
 8. On the right side of the page click `Submit`.  
-![Alterar valorEN](https://images.ctfassets.net/alneenqid6w5/15TldKoBz42ds5fJswW13O/91ea6db5cdf47879f616f2a17e31c542/Alterar_valorEN.png)
+![Alterar valorEN](//images.ctfassets.net/alneenqid6w5/15TldKoBz42ds5fJswW13O/91ea6db5cdf47879f616f2a17e31c542/Alterar_valorEN.png)
 
 Changes to the order cost will be updated in the "Items to invoice" and "Order History" sections. Note that the order total will also change.
 

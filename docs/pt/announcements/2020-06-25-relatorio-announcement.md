@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: relatorio-announcement
+slugEN: 2020-06-25-relatorio-announcement
 locale: pt
 legacySlug: relatorio-announcement
 announcementImageID: ''

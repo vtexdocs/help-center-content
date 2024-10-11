@@ -9,7 +9,7 @@ firstPublishedAt: 2021-10-19T12:55:27.227Z
 contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: sales-performance
+slugEN: sales-performance
 locale: en
 legacySlug: sales-performance
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
@@ -152,7 +152,7 @@ In addition to applying filters, you can also perform the actions below.
 
 ## Views
 
-![Sales perf update EN](https://images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/c2573e700f0400eb44176cb4cee696bf/Sales_perf_update_EN.gif)
+![Sales perf update EN](//images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/c2573e700f0400eb44176cb4cee696bf/Sales_perf_update_EN.gif)
 
 The Sales Performance dashboard can be customized by applying different filters and selecting the metrics that will be displayed in the chart and in the list. To facilitate your data exploration on a daily basis, we have created views, which save the filters and metrics applied on the page for your direct viewing. You can save, edit, and share different dashboard views. The page comes with the following views configured by default:
 

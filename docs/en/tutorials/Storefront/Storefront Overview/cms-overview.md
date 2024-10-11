@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-29T18:38:26.442Z
 contentType: tutorial
 productTeam: Others
 author: 6ZIASoEIeITT63epPauz12
-slug: cms-overview
+slugEN: cms-overview
 locale: en
 legacySlug: cms-overview
 subcategoryId: 3PNmhq67KMmGTBSfIWJdcQ

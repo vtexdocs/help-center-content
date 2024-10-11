@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-28T17:31:02.205Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: catalog-overview-2
+slugEN: catalog-overview-2
 locale: en
 legacySlug: catalog-overview-2
 subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF

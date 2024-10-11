@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-allows-to-add-2-different-addresses-for-delivery
+slugEN: checkout-allows-to-add-2-different-addresses-for-delivery
 locale: en
 kiStatus: Backlog
 internalReference: 931225

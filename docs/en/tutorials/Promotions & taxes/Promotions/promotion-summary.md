@@ -9,7 +9,7 @@ firstPublishedAt: 2021-11-25T20:46:15.787Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: promotion-summary
+slugEN: promotion-summary
 locale: en
 legacySlug: promotion-summary
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
@@ -71,12 +71,12 @@ Medium-risk alerts indicate that there are configurations that may cause undesir
 
 Example:
 
-![alert-medio-risco-EN](https://images.ctfassets.net/alneenqid6w5/1vYDqk4ZK3X2jjfGBY0voq/38a07c0774736c5005638e78987d4a23/image.png)
+![alert-medio-risco-EN](//images.ctfassets.net/alneenqid6w5/1vYDqk4ZK3X2jjfGBY0voq/38a07c0774736c5005638e78987d4a23/image.png)
 
 ### Low risk
 Low-risk alerts present relevant information about the promotion configuration, which can contribute to better performance.
 
 Example:
 
-![alert-baixo-risco-EN](https://images.ctfassets.net/alneenqid6w5/tvjluVBbsK78ozr29Fgfb/65f04416a92b8c5bd606064165803313/image.png)
+![alert-baixo-risco-EN](//images.ctfassets.net/alneenqid6w5/tvjluVBbsK78ozr29Fgfb/65f04416a92b8c5bd606064165803313/image.png)
 

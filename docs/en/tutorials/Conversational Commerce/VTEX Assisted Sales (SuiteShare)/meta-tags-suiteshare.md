@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T21:59:50.102Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: meta-tags-suiteshare
+slugEN: meta-tags-suiteshare
 locale: en
 legacySlug: meta-tags-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Undefined
 author: 
-slug: kr1-test
+slugEN: kr1-test
 locale: pt
 legacySlug: kr1-test
 subcategoryId: unknown-subcategory

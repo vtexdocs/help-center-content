@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-29T21:18:04.195Z
 contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: dashboards-overview
+slugEN: dashboards-overview
 locale: en
 legacySlug: dashboards-overview
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq

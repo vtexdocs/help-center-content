@@ -8,7 +8,7 @@ publishedAt: 2023-09-19T16:47:51.216Z
 contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: luhn-algorithm-for-credit-and-debit-cards-at-checkout
+slugEN: 2023-09-19-luhn-algorithm-for-credit-and-debit-cards-at-checkout
 locale: en
 legacySlug: luhn-algorithm-for-credit-and-debit-cards-at-checkout
 announcementImageID: ''

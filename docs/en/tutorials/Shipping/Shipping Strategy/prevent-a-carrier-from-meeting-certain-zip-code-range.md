@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:03:33.994Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
-slug: prevent-a-carrier-from-meeting-certain-zip-code-range
+slugEN: prevent-a-carrier-from-meeting-certain-zip-code-range
 locale: en
 legacySlug: prevent-a-carrier-from-meeting-certain-zip-code-range
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

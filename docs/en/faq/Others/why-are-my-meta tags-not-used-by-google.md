@@ -9,7 +9,7 @@ firstPublishedAt: 2018-06-25T14:25:42.622Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 6qOjO5gpEs8scQ8OugaEaW
-slug: why-are-my-meta tags-not-used-by-google
+slugEN: why-are-my-meta tags-not-used-by-google
 locale: en
 legacySlug: why-are-my-meta tags-not-used-by-google
 ---

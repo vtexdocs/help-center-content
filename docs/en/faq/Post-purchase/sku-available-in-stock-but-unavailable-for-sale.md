@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-15T15:49:19.393Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: sku-available-in-stock-but-unavailable-for-sale
+slugEN: sku-available-in-stock-but-unavailable-for-sale
 locale: en
 legacySlug: sku-available-in-stock-but-unavailable-for-sale
 ---

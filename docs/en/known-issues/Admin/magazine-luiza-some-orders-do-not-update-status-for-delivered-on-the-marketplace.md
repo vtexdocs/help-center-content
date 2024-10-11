@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
-slug: magazine-luiza-some-orders-do-not-update-status-for-delivered-on-the-marketplace
+slugEN: magazine-luiza-some-orders-do-not-update-status-for-delivered-on-the-marketplace
 locale: en
 kiStatus: Backlog
 internalReference: 827440

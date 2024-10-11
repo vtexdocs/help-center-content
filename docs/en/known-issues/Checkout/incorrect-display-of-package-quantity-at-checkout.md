@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: incorrect-display-of-package-quantity-at-checkout
+slugEN: incorrect-display-of-package-quantity-at-checkout
 locale: en
 kiStatus: Backlog
 internalReference: 520369

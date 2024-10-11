@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: custom-elements-on-legacy-cms-not-working-with-more-than-one-html
+slugEN: custom-elements-on-legacy-cms-not-working-with-more-than-one-html
 locale: en
 kiStatus: Backlog
 internalReference: 871480

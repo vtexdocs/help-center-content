@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-14T16:17:20.642Z
 contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: sms-and-email-report
+slugEN: sms-and-email-report
 locale: en
 legacySlug: sms-and-email-report
 subcategoryId: 37YF86noTwhDdEuhUyW3LH

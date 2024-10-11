@@ -9,7 +9,7 @@ firstPublishedAt: 2022-04-28T20:24:24.046Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: coupons-beta
+slugEN: coupons-beta
 locale: en
 legacySlug: coupons-beta
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi

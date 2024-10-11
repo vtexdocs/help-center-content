@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-api-catalog-pvt-stockkeepingunit-with-query-parameter-refid-return
+slugEN: catalog-api-catalog-pvt-stockkeepingunit-with-query-parameter-refid-return
 locale: pt
 kiStatus: No Fix
 internalReference: 388869

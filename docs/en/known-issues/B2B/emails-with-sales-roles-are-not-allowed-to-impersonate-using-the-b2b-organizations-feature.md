@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: emails-with-sales-roles-are-not-allowed-to-impersonate-using-the-b2b-organizations-feature
+slugEN: emails-with-sales-roles-are-not-allowed-to-impersonate-using-the-b2b-organizations-feature
 locale: en
 kiStatus: Fixed
 internalReference: 910328

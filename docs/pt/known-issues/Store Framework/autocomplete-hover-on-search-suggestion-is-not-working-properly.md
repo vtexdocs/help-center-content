@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: autocomplete-hover-on-search-suggestion-is-not-working-properly
+slugEN: autocomplete-hover-on-search-suggestion-is-not-working-properly
 locale: pt
 kiStatus: Backlog
 internalReference: 697406

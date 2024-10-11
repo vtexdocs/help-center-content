@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-26T19:50:54.254Z
 contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: data-subject-rights
+slugEN: data-subject-rights
 locale: en
 legacySlug: data-subject-rights
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn

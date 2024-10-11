@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:18.953Z
 contentType: tutorial
 productTeam: Identity
 author: authors_2
-slug: account-management
+slugEN: account-management
 locale: en
 legacySlug: how-to-manage-accounts
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: insert-sku-file-api-doesnt-accept-urls-from-servers-that-require-user-agents
+slugEN: insert-sku-file-api-doesnt-accept-urls-from-servers-that-require-user-agents
 locale: en
 kiStatus: Backlog
 internalReference: 1069222

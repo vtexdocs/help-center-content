@@ -9,7 +9,7 @@ firstPublishedAt: 2024-04-25T02:41:44.798Z
 contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
-slug: security-monitor
+slugEN: security-monitor
 locale: es
 legacySlug: security-monitor
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
@@ -46,7 +46,7 @@ La pestaña **Abiertos** muestra las amenazas identificadas por Security Monitor
 
 La barra superior muestra el número total de hallazgos y el número de amenazas por nivel de gravedad (alto, medio o bajo).
 
-![2-findings-es](https://images.ctfassets.net/alneenqid6w5/4wpzGuNHIyqAaRGuv5Dt8E/630a7a558c2c57d07e6b8b68de359a4b/2-findings-es.png)
+![2-findings-es](//images.ctfassets.net/alneenqid6w5/4wpzGuNHIyqAaRGuv5Dt8E/630a7a558c2c57d07e6b8b68de359a4b/2-findings-es.png)
 
 La pestaña muestra la lista completa de hallazgos abiertos en una tabla, del más reciente al más antiguo: 
 
@@ -77,7 +77,7 @@ Para mover un hallazgo a la pestaña **Pospuestos**, es decir, removerlo de la p
 3. Elige el periodo de tiempo, en días, durante el cual deseas mantener este hallazgo en la pestaña **Pospuestos**. Las opciones disponibles son: **7**, **90** o **120** días.
 4. Haz clic en `Posponer`.
 
-![3-snooze-finding-es](https://images.ctfassets.net/alneenqid6w5/1neaA5XmCxK4EB3HAVxcud/38af2109f1f98bfcb771fbb654b4113b/3-snooze-finding-es.png)
+![3-snooze-finding-es](//images.ctfassets.net/alneenqid6w5/1neaA5XmCxK4EB3HAVxcud/38af2109f1f98bfcb771fbb654b4113b/3-snooze-finding-es.png)
 
 ## Pospuestos
 
@@ -106,7 +106,7 @@ En la barra de búsqueda, ingresa la dirección de email del usuario o el nombre
 
 Al hacer clic en `Tipo` <i class="fas fa-chevron-down"></i>, puedes elegir uno de los tipos de hallazgo para filtrar los resultados mostrados en la lista. Haz clic en `Aplicar` para confirmar el filtro elegido y la lista se actualizará.
 
-![4-filter-findings-es](https://images.ctfassets.net/alneenqid6w5/1qJnJBy5YHJzQKynw783W7/9718adf02a9fe3d71842848d87dca37c/4-filter-findings-es.png)
+![4-filter-findings-es](//images.ctfassets.net/alneenqid6w5/1qJnJBy5YHJzQKynw783W7/9718adf02a9fe3d71842848d87dca37c/4-filter-findings-es.png)
 
 ## Editar configuración de las notificaciones
 
@@ -118,7 +118,7 @@ Para editar aquellos usuarios administrativos que recibirán notificaciones en c
    Para remover un usuario, haz clic en la `X` junto al email relacionado.
 3. Haz clic en `Guardar`.
 
-![5-edit-notifications-es](https://images.ctfassets.net/alneenqid6w5/1CmMhWokQgzxRAqk1Jvqn4/b68c5dab3fabde1021d0c41db8ba2673/5-edit-notifications-es__1_.png)
+![5-edit-notifications-es](//images.ctfassets.net/alneenqid6w5/1CmMhWokQgzxRAqk1Jvqn4/b68c5dab3fabde1021d0c41db8ba2673/5-edit-notifications-es__1_.png)
 
 ## Más información
 

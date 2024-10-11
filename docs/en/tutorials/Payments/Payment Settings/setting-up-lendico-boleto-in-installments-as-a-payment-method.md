@@ -9,7 +9,7 @@ firstPublishedAt: 2020-12-02T12:54:57.731Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: setting-up-lendico-boleto-in-installments-as-a-payment-method
+slugEN: setting-up-lendico-boleto-in-installments-as-a-payment-method
 locale: en
 legacySlug: setting-up-lendico-boleto-in-installments-as-a-payment-method
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

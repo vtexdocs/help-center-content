@@ -8,7 +8,7 @@ publishedAt:
 contentType: updates
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: headless-cms-create-non-duplicatable-pages
+slugEN: 2023-04-06-headless-cms-create-non-duplicatable-pages
 locale: en
 legacySlug: headless-cms-create-non-duplicatable-pages
 announcementImageID: ''

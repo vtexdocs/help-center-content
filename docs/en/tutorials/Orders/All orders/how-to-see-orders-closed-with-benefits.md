@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-26T20:16:00.934Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: how-to-see-orders-closed-with-benefits
+slugEN: how-to-see-orders-closed-with-benefits
 locale: en
 legacySlug: how-to-see-orders-closed-with-benefits
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

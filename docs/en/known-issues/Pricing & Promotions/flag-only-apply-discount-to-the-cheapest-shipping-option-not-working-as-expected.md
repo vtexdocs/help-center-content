@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: flag-only-apply-discount-to-the-cheapest-shipping-option-not-working-as-expected
+slugEN: flag-only-apply-discount-to-the-cheapest-shipping-option-not-working-as-expected
 locale: en
 kiStatus: Backlog
 internalReference: 672567

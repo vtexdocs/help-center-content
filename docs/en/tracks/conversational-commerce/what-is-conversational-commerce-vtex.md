@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2022-08-23T17:46:55.444Z
 contentType: trackArticle
 productTeam: Shopping
-slug: what-is-conversational-commerce-vtex
+slugEN: what-is-conversational-commerce-vtex
 locale: en
 trackId: 5UZ9BdvwwtZm2t9QTXcbZs
 trackSlugEN: conversational-commerce

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: url-logo-field-in-the-update-seller-request-not-updating
+slugEN: url-logo-field-in-the-update-seller-request-not-updating
 locale: en
 kiStatus: Fixed
 internalReference: 271480

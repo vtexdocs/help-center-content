@@ -9,7 +9,7 @@ firstPublishedAt: 2019-05-21T19:48:15.019Z
 contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
-slug: how-my-account-works
+slugEN: how-my-account-works
 locale: en
 legacySlug: how-does-my-account-work
 subcategoryId: 1RWR7qSyaREbD5RfgCjdYG
@@ -79,7 +79,7 @@ The `Add address` button allows customers to include new addresses besides the o
 
 This section displays a list of all orders placed by the customer in your store. The list is sorted by creation date and displays details such as order date, total price of the order, order ID, status, and items purchased.
 
-![orders EN](https://images.ctfassets.net/alneenqid6w5/1VTgMxrq3WI02LZt21wuw6/29e797af3e99000a06d906bf5e3ae0d1/orders_EN.png)
+![orders EN](//images.ctfassets.net/alneenqid6w5/1VTgMxrq3WI02LZt21wuw6/29e797af3e99000a06d906bf5e3ae0d1/orders_EN.png)
 
 The **Orders** section allows customers to track the progress of their orders and offers options such as cancel or change orders. See below all available options.
 
@@ -103,7 +103,7 @@ By clicking on an order in the list, the customer will be able to view the detai
 
 Customers can also use the option [Order again](#order-again) in this page. By clicking on [More options](#more-options), the [Change order](#change-order) and [Request cancellation](#request-cancellation) features will be displayed (if enabled in your store and the order is in the `Handling shipping` status).
 
-![order details EN](https://images.ctfassets.net/alneenqid6w5/JQbiFPVtCl1Q8F6PaM0A0/ee071c1cc75a884c9daecb85072d3453/order_details_EN.png)
+![order details EN](//images.ctfassets.net/alneenqid6w5/JQbiFPVtCl1Q8F6PaM0A0/ee071c1cc75a884c9daecb85072d3453/order_details_EN.png)
 
 #### Change order
 
@@ -130,7 +130,7 @@ To add new cards, follow the steps below:
 6. Solve the reCaptcha challenge.
 7. The card validation process will happen automatically. If there is no problem, you will be redirected to the card list and the new card will appear on the list.
 
-![Card ReCaptcha](https://images.ctfassets.net/alneenqid6w5/2xGRuG3f5S56POV684Q2Y3/ab1e37db8b01f154e80f8d2f4f562d7d/Card_ReCaptcha_EN.gif)
+![Card ReCaptcha](//images.ctfassets.net/alneenqid6w5/2xGRuG3f5S56POV684Q2Y3/ab1e37db8b01f154e80f8d2f4f562d7d/Card_ReCaptcha_EN.gif)
 
 However, there are limitations for stores using [3DS](https://help.vtex.com/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) authentication (V1 or V2) in their acquirers:
 
@@ -152,7 +152,7 @@ In this section, customers can manage all their subscriptions, as well as modify
 
 This section can be accessed on the left side menu by clicking on **Authentication** in the user profile settings. It offers options for password and session management.
 
-![My Authentication app EN](https://images.ctfassets.net/alneenqid6w5/20aIW7imMlRsfDbKYu9IuM/945cc2ade2766758e484814c3e380708/My_Authentication_app_EN.png)
+![My Authentication app EN](//images.ctfassets.net/alneenqid6w5/20aIW7imMlRsfDbKYu9IuM/945cc2ade2766758e484814c3e380708/My_Authentication_app_EN.png)
 
 ### Password management
 
@@ -162,7 +162,7 @@ The **Password** component allows users to create their passwords, if they do no
 2. In the **Code** field, enter the verification code received by email.
 3. In the **New password** field, enter a new password. Below those fields, you will see the requirements for setting a valid password. As the user types the password meeting those requirements, their symbols will change from red to green. The password will be valid only if all symbols are green.
 4. Once you have entered a valid password, click on the `SAVE PASSWORD` button.  
-![My Authentication create password EN](https://images.ctfassets.net/alneenqid6w5/5EDsOOYVAUmNolMnzs22FD/fb226bc32cfc48422cec830332d10762/My_Authentication_create_password_EN.png)
+![My Authentication create password EN](//images.ctfassets.net/alneenqid6w5/5EDsOOYVAUmNolMnzs22FD/fb226bc32cfc48422cec830332d10762/My_Authentication_create_password_EN.png)
 
 To change an existing password, follow the instructions below:
 
@@ -170,7 +170,7 @@ To change an existing password, follow the instructions below:
 2. Enter the current password in the corresponding field.
 3. Enter the new password in the corresponding field, following all the requirements.
 4. Click on `SAVE PASSWORD`.
-![My Authentication change password EN](https://images.ctfassets.net/alneenqid6w5/7qyiWDAjdSBEjppq6Ti94c/4a055c06066c293502ffb9652d220c93/My_Authentication_change_password_EN.png)
+![My Authentication change password EN](//images.ctfassets.net/alneenqid6w5/7qyiWDAjdSBEjppq6Ti94c/4a055c06066c293502ffb9652d220c93/My_Authentication_change_password_EN.png)
 
 >ℹ️ If you have forgotten your password, you cannot recover it using the option for resetting passwords. To recover your password, you must log out of your current session, try to log in using your email address and password, and click on **I forgot my password**.
 
@@ -182,7 +182,7 @@ To view active sessions, click on the `VIEW SESSIONS` button, and you will be re
 
 To revoke access from other sessions, click on the `LOG OUT` button of that session.
 
-![My Authentication Session Management EN](https://images.ctfassets.net/alneenqid6w5/3qxpIRREWnGmRmv97jhOML/ebcd1548b887d23b0fd661a0e05a0a73/My_Authentication_Session_Management_EN_blur.png)
+![My Authentication Session Management EN](//images.ctfassets.net/alneenqid6w5/3qxpIRREWnGmRmv97jhOML/ebcd1548b887d23b0fd661a0e05a0a73/My_Authentication_Session_Management_EN_blur.png)
 
 ## Basic settings 
 
@@ -193,7 +193,7 @@ In **My Orders**, you determine which sections will be visible to the customer i
 * In **ORDERS**, the <a class="far fa-check-square"></a> _Visible_ option determines whether the customer has the [Orders](#orders) section to track their orders. 
 * In **ADDRESSES**, the <a class="far fa-check-square"></a> _Visible_ option defines whether the customer will have the [Addresses](#addresses) section with their address’ details.
 
-![vtex-my-account_EN](https://images.ctfassets.net/alneenqid6w5/4x5BM7dpNcnjHagpycIeWt/9605097215fa1591bfc7e49de4b48735/vtex-my-account_EN.png)
+![vtex-my-account_EN](//images.ctfassets.net/alneenqid6w5/4x5BM7dpNcnjHagpycIeWt/9605097215fa1591bfc7e49de4b48735/vtex-my-account_EN.png)
 
 By default, the **CARDS** and **ORDERS** options are configured as visible. To change these settings or enable others, follow the steps below: 
 

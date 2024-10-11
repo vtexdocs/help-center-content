@@ -8,7 +8,7 @@ publishedAt: 2024-07-26T18:36:22.560Z
 firstPublishedAt: 2023-08-11T01:56:55.389Z
 contentType: trackArticle
 productTeam: Channels
-slug: configuring-the-integration
+slugEN: configuring-the-integration
 locale: en
 trackId: 4ZSHEiuTkh8HR9ubJQj8BP
 trackSlugEN: livelo-integration

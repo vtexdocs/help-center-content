@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: out-of-stock-products-are-displayed-as-available-for-purchase-on-the-product-page
+slugEN: out-of-stock-products-are-displayed-as-available-for-purchase-on-the-product-page
 locale: en
 kiStatus: Backlog
 internalReference: 

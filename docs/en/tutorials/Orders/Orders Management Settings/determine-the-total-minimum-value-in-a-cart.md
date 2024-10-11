@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:08:35.329Z
 contentType: tutorial
 productTeam: Shopping
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: determine-the-total-minimum-value-in-a-cart
+slugEN: determine-the-total-minimum-value-in-a-cart
 locale: en
 legacySlug: determine-the-total-minimum-value-in-a-cart
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k

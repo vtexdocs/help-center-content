@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:15:32.298Z
 contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
-slug: making-a-master-data-field-editable
+slugEN: making-a-master-data-field-editable
 locale: en
 legacySlug: how-can-i-make-master-data-field-editable
 subcategoryId: WpbGhubuRZaNZilJSXnqu

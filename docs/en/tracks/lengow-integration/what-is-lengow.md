@@ -8,7 +8,7 @@ publishedAt: 2023-01-10T15:30:21.560Z
 firstPublishedAt: 2020-06-30T00:42:04.632Z
 contentType: trackArticle
 productTeam: Apps
-slug: what-is-lengow
+slugEN: what-is-lengow
 locale: en
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugEN: lengow-integration

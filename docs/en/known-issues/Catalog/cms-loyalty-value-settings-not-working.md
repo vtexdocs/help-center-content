@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: cms-loyalty-value-settings-not-working
+slugEN: cms-loyalty-value-settings-not-working
 locale: en
 kiStatus: Backlog
 internalReference: 726849

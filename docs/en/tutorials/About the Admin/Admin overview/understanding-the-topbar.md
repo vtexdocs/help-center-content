@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:50.699Z
 contentType: tutorial
 productTeam: Others
 author: authors_84
-slug: understanding-the-topbar
+slugEN: understanding-the-topbar
 locale: en
 legacySlug: understanding-the-topbar
 subcategoryId: Se4oi5LroIII2Ei0uGAoE
@@ -22,15 +22,15 @@ The sidebar is the starting point for all admin areas. See below the details reg
 ![paginainicial.en](https://images.ctfassets.net/alneenqid6w5/68DVYFXEFfShDhVJLoP90E/ab49f60e0a7fccda830f4f7cfccdc32b/paginainicial.en.png)
 
 **Browse the sub-domains:** To browse the sub-domains of your store, just click on the current domain. You will view all options. To go to the admin of a sub-domain, just click on it on the menu.
-![subdominios.en](https://images.ctfassets.net/alneenqid6w5/14NnbogRz9imPMypMsSFSF/6c19b199374901b350a95eedf7094372/subdominios.en.png)
+![subdominios.en](//images.ctfassets.net/alneenqid6w5/14NnbogRz9imPMypMsSFSF/6c19b199374901b350a95eedf7094372/subdominios.en.png)
 
 **Select the admin language:** to select a language, just click on the language icon and select a language.
-![idioma.en](https://images.ctfassets.net/alneenqid6w5/3wBMDVQVe1C1lILiOFPSG8/ec5ff60fd97703e88e229190f8d65d17/idioma.en.png)
+![idioma.en](//images.ctfassets.net/alneenqid6w5/3wBMDVQVe1C1lILiOFPSG8/ec5ff60fd97703e88e229190f8d65d17/idioma.en.png)
 
 
 **Access new knowledge bases: **to access one of our bases, click on your support profile and select the site you intend to access just clicking on it.
 
-![support.en](https://images.ctfassets.net/alneenqid6w5/4SvEqHGVINK4P0gwGaZlXB/139f810e98f3f1ef0ca45d767d1e4aab/support.en.png)
+![support.en](//images.ctfassets.net/alneenqid6w5/4SvEqHGVINK4P0gwGaZlXB/139f810e98f3f1ef0ca45d767d1e4aab/support.en.png)
 
 
 **Logging off: **to log off, click on your name and then on the link **Sair.**

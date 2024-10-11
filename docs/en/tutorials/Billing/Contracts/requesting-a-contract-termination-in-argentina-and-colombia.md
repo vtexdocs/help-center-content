@@ -9,7 +9,7 @@ firstPublishedAt: 2020-06-25T22:16:43.939Z
 contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: requesting-a-contract-termination-in-argentina-and-colombia
+slugEN: requesting-a-contract-termination-in-argentina-and-colombia
 locale: en
 legacySlug: requesting-a-contract-termination-in-argentina-and-colombia
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC

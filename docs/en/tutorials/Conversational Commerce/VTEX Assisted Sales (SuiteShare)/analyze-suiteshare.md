@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T19:21:38.368Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: analyze-suiteshare
+slugEN: analyze-suiteshare
 locale: en
 legacySlug: analyze
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

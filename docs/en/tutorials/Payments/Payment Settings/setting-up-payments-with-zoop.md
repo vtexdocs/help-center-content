@@ -9,7 +9,7 @@ firstPublishedAt: 2023-02-13T18:50:09.746Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-zoop
+slugEN: setting-up-payments-with-zoop
 locale: en
 legacySlug: setting-up-payments-with-zoop
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

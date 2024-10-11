@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: changing-accessories-is-not-triggering-indexation
+slugEN: changing-accessories-is-not-triggering-indexation
 locale: en
 kiStatus: Backlog
 internalReference: 1037800

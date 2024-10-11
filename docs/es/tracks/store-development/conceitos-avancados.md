@@ -8,7 +8,7 @@ publishedAt: 2022-12-22T19:57:22.738Z
 firstPublishedAt: 2022-12-22T19:57:22.738Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: conceitos-avancados
+slugEN: conceitos-avancados
 locale: es
 trackId: 3fHF3GIjK8UugnQKIakpl9
 trackSlugES: desarrollo-de-la-tienda

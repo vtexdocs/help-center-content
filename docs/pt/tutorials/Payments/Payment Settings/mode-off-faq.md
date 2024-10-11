@@ -9,7 +9,7 @@ firstPublishedAt: 2021-01-21T17:54:12.941Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: mode-off-faq
+slugEN: mode-off-faq
 locale: pt
 legacySlug: mode-off-faq
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T22:29:14.967Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: logging-in-to-the-account-with-vtex-io
+slugEN: logging-in-to-the-account-with-vtex-io
 locale: en
 legacySlug: log-in-to-the-account-with-vtex-io
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

@@ -8,7 +8,7 @@ publishedAt: 2020-02-13T16:02:15.593Z
 firstPublishedAt: 2019-06-25T15:06:19.665Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
-slug: sku-concept-definition
+slugEN: sku-concept-definition
 locale: en
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugEN: catalog-101

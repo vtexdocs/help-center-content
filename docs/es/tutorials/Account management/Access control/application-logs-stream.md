@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-16T14:22:23.295Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: application-logs-stream
+slugEN: application-logs-stream
 locale: es
 legacySlug: application-logs-stream
 subcategoryId: 1HSqkejwuYcQSMC400uY84

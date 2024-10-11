@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T14:45:11.158Z
 firstPublishedAt: 2021-08-05T14:46:59.026Z
 contentType: trackArticle
 productTeam: Shopping
-slug: payment
+slugEN: payment
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-using-the-app
@@ -45,7 +45,7 @@ To configure a payment method, follow the [VTEX Sales App - Payments](https://he
 
 The customer must select the **Cash** option and click `Complete Sale`. 
 
-![instore-dinheiro-en](https://images.ctfassets.net/alneenqid6w5/1Tz1XMpd6ObLZbyBcluOti/868ca0e64245ec78ed6794e0e4e5726f/Screenshot_2022-10-21_at_14-57-55_VTEX_VTEX Sales App_Checkout.png)
+![instore-dinheiro-en](//images.ctfassets.net/alneenqid6w5/1Tz1XMpd6ObLZbyBcluOti/868ca0e64245ec78ed6794e0e4e5726f/Screenshot_2022-10-21_at_14-57-55_VTEX_VTEX Sales App_Checkout.png)
 
 Then, you must complete the transaction with the sales associate. Depending on the store's configuration, it can be either [manual or automatic](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT). 
 
@@ -53,21 +53,21 @@ Then, you must complete the transaction with the sales associate. Depending on t
 
 The customer must select **Pix** and click `Complete Sale`. 
 
-![instore-pix-en](https://images.ctfassets.net/alneenqid6w5/1A1uD4bC5JfDii4ih7gdED/a65732c1fb0af5e4f5a161b8b64c6186/Screenshot_2022-10-21_at_14-58-22_VTEX_VTEX Sales App_Checkout.png)
+![instore-pix-en](//images.ctfassets.net/alneenqid6w5/1A1uD4bC5JfDii4ih7gdED/a65732c1fb0af5e4f5a161b8b64c6186/Screenshot_2022-10-21_at_14-58-22_VTEX_VTEX Sales App_Checkout.png)
 
 After completing the sale, the QR Code will be displayed on the VTEX Sales App screen. The customer must scan it using their phone to proceed with payment. 
 
-![instore-pix2-en](https://images.ctfassets.net/alneenqid6w5/3hZIPLWRJoOPnh5Pw5N8vK/f252d0b00eff1385cc1e14cb7dbdf3bf/image.png)
+![instore-pix2-en](//images.ctfassets.net/alneenqid6w5/3hZIPLWRJoOPnh5Pw5N8vK/f252d0b00eff1385cc1e14cb7dbdf3bf/image.png)
 
 After payment, the sale will be processed and confirmed on the order page, as shown in the image below.
 
-![instore-pix3-en](https://images.ctfassets.net/alneenqid6w5/4lRaRqYX4eqB07IMj7IGay/0c648cce0a942b1eb2d86420372d9729/Screenshot_2022-10-21_at_14-58-53_VTEX_VTEX Sales App_Checkout.png)
+![instore-pix3-en](//images.ctfassets.net/alneenqid6w5/4lRaRqYX4eqB07IMj7IGay/0c648cce0a942b1eb2d86420372d9729/Screenshot_2022-10-21_at_14-58-53_VTEX_VTEX Sales App_Checkout.png)
 
 ### Boleto (Brazil)
 
 The customer must select **Boleto** and click `Complete Sale`. 
 
-![instore-boleto-en](https://images.ctfassets.net/alneenqid6w5/3OonA4B8NNyKrINN0SY2Q/61116b8b732842719e8783ec3711e22f/Screenshot_2022-10-21_at_14-57-50_VTEX_VTEX Sales App_Checkout.png)
+![instore-boleto-en](//images.ctfassets.net/alneenqid6w5/3OonA4B8NNyKrINN0SY2Q/61116b8b732842719e8783ec3711e22f/Screenshot_2022-10-21_at_14-57-50_VTEX_VTEX Sales App_Checkout.png)
 
 The boleto will be sent to the customer by email. Once the boleto payment is confirmed, so is the purchase.
 
@@ -75,7 +75,7 @@ The boleto will be sent to the customer by email. Once the boleto payment is con
 
 The customer must select the **Credit Card** option, choose the number of installments for the purchase, and click `Complete Sale`. 
 
-![instore-credito-en](https://images.ctfassets.net/alneenqid6w5/4GGFgdlEpYIKYbdjG74C4g/ef042ee59ae511b33c95c708597f6f99/Screenshot_2022-10-21_at_14-58-11_VTEX_VTEX Sales App_Checkout.png)
+![instore-credito-en](//images.ctfassets.net/alneenqid6w5/4GGFgdlEpYIKYbdjG74C4g/ef042ee59ae511b33c95c708597f6f99/Screenshot_2022-10-21_at_14-58-11_VTEX_VTEX Sales App_Checkout.png)
 
 VTEX Sales App will display a waiting screen while the payment is made though the store's card machine. Once the system accepts the payment, the transaction will be confirmed.
 
@@ -83,6 +83,6 @@ VTEX Sales App will display a waiting screen while the payment is made though th
 
 The customer must select **Debit Card** and click `Complete Sale`. 
 
-![instore-debito-en](https://images.ctfassets.net/alneenqid6w5/6XEmL7UR7K7L3YdfsPLY8q/73fb933dcd5a70d63c7bc1c73bbad4c3/Screenshot_2022-10-21_at_14-58-01_VTEX_VTEX Sales App_Checkout.png)
+![instore-debito-en](//images.ctfassets.net/alneenqid6w5/6XEmL7UR7K7L3YdfsPLY8q/73fb933dcd5a70d63c7bc1c73bbad4c3/Screenshot_2022-10-21_at_14-58-01_VTEX_VTEX Sales App_Checkout.png)
 
 VTEX Sales App will display a waiting screen while the payment is made through the store's card machine. Once the system accepts the payment, the transaction will be confirmed.

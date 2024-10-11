@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-05-02T22:27:45.869Z
 contentType: trackArticle
 productTeam: Shopping
-slug: introduction
+slugEN: introduction
 locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: intro-instore

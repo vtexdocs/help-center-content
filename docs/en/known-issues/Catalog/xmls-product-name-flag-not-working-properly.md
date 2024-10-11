@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: xmls-product-name-flag-not-working-properly
+slugEN: xmls-product-name-flag-not-working-properly
 locale: en
 kiStatus: Backlog
 internalReference: 925965

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:26.882Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: pci-gateway-overview
+slugEN: pci-gateway-overview
 locale: en
 legacySlug: pci-gateway-overview
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

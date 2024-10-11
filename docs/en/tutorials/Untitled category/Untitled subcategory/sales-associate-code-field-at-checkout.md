@@ -9,7 +9,7 @@ firstPublishedAt: 2023-06-20T15:04:21.346Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: sales-associate-code-field-at-checkout
+slugEN: sales-associate-code-field-at-checkout
 locale: en
 legacySlug: sales-associate-code-field-at-checkout
 subcategoryId: unknown-subcategory
@@ -85,4 +85,4 @@ Additionally, you need to complete the following steps:
 
 After completing all the above steps, the **Sales associate code** field will be available on the Checkout page.
 
-![Sales associate code](https://images.ctfassets.net/alneenqid6w5/kWi3gE5Q9gyHP2pa8XFpv/6f6627b73ef728a83841ed4017256925/Checkout_UI_-_EN_2.png)  
+![Sales associate code](//images.ctfassets.net/alneenqid6w5/kWi3gE5Q9gyHP2pa8XFpv/6f6627b73ef728a83841ed4017256925/Checkout_UI_-_EN_2.png)  

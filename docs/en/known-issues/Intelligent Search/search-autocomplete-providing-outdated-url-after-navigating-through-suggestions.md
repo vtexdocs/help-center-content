@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: search-autocomplete-providing-outdated-url-after-navigating-through-suggestions
+slugEN: search-autocomplete-providing-outdated-url-after-navigating-through-suggestions
 locale: en
 kiStatus: Backlog
 internalReference: 968604

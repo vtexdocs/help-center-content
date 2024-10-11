@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-24T18:50:49.083Z
 contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
-slug: how-the-skyhub-integration-works
+slugEN: how-the-skyhub-integration-works
 locale: en
 legacySlug: how-the-skyhub-integration-works
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA

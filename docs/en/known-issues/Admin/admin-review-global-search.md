@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
-slug: admin-review-global-search
+slugEN: admin-review-global-search
 locale: en
 kiStatus: Backlog
 internalReference: 889993

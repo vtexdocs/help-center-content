@@ -9,7 +9,7 @@ firstPublishedAt: 2019-09-09T19:48:16.996Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: warehouse-data-entry-fields
+slugEN: warehouse-data-entry-fields
 locale: en
 legacySlug: warehouse-data-entry-fields
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

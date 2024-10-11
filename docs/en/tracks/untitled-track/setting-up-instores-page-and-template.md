@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-03-15T21:30:04.098Z
 contentType: trackArticle
 productTeam: Shopping
-slug: setting-up-instores-page-and-template
+slugEN: setting-up-instores-page-and-template
 locale: en
 trackId: 
 trackSlugEN: untitled-track

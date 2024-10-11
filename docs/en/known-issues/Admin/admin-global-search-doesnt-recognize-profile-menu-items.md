@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
-slug: admin-global-search-doesnt-recognize-profile-menu-items
+slugEN: admin-global-search-doesnt-recognize-profile-menu-items
 locale: en
 kiStatus: Backlog
 internalReference: 969645

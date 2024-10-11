@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: shipping-policy-stuck-in-processing-status-is-displayed-as-active-in-the-new-logistics-ui
+slugEN: shipping-policy-stuck-in-processing-status-is-displayed-as-active-in-the-new-logistics-ui
 locale: en
 kiStatus: Fixed
 internalReference: 925914

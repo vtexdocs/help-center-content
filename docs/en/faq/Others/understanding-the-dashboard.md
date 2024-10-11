@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:24.505Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_84
-slug: understanding-the-dashboard
+slugEN: understanding-the-dashboard
 locale: en
 legacySlug: understand-the-dashboard
 ---
@@ -30,7 +30,7 @@ Based on this chart, you can notice if a slowness in the system is affecting onl
 
 In the second chart, you can also view your store’s average loading time, but, this time, it will be divided in the different factors that make up a webpage uploading time: network time (in blue), DOM tree processing (in red) and page rendering in the browser (yellow).
 
-![](https://images.contentful.com/alneenqid6w5/2DMi5uS3awigGGIAEKCqea/b95fc4689141764c25b5fd506eeaac33/2.jpg)
+![](//images.contentful.com/alneenqid6w5/2DMi5uS3awigGGIAEKCqea/b95fc4689141764c25b5fd506eeaac33/2.jpg)
 
 You will be able to distinguish whether a delay in page loading is being caused, for example, by a delay in response from server (NetworkTime), an error in JavaScript (DomProcessing), or a heavy image (PageRendering).
 

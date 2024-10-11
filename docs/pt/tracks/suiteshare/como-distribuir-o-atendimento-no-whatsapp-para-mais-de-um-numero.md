@@ -8,7 +8,7 @@ publishedAt: 2022-08-31T20:40:35.655Z
 firstPublishedAt: 2022-08-26T14:29:25.792Z
 contentType: trackArticle
 productTeam: Shopping
-slug: como-distribuir-o-atendimento-no-whatsapp-para-mais-de-um-numero
+slugEN: como-distribuir-o-atendimento-no-whatsapp-para-mais-de-um-numero
 locale: pt
 trackId: khP0p8mjIYRIpvM7Cb4Zr
 trackSlugPT: suiteshare
@@ -24,7 +24,7 @@ Para começar, você precisa criar um link para cada número que irá atender na
 
 Acesse “_**Organizar**_” e escolha como será distribuído o atendimento, você pode escolher entre **Sequencial, Geolocalizado** (Apenas para o plano Enterprise) e **Seletivo**.
 
-![Como distribuir o atendimento no WhatsApp para mais de um número 2](https://images.ctfassets.net/alneenqid6w5/6ODYG6o8SZUk9dQvx0Lps/e73c6dca3304220e27815eef943928bc/Screenshot_2022-08-25_at_14-55-02_Como_distribuir_o_atendimento_no_WhatsApp_para_mais_de_um_n__mero.png)
+![Como distribuir o atendimento no WhatsApp para mais de um número 2](//images.ctfassets.net/alneenqid6w5/6ODYG6o8SZUk9dQvx0Lps/e73c6dca3304220e27815eef943928bc/Screenshot_2022-08-25_at_14-55-02_Como_distribuir_o_atendimento_no_WhatsApp_para_mais_de_um_n__mero.png)
 
 No modo **sequencial**, cada cliente que clica nesse link cairá para um atendente diferente, a distribuição é feita de forma sequencial, onde cada atendente terá a sua vez de forma igualitária.  Como se fosse uma fila de espera, cada cliente será direcionado para um atendente, numa espécie de central de atendimento (ou como alguns gostam de chamar), em um call-center de WhatsApp.
 

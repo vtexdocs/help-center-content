@@ -9,7 +9,7 @@ firstPublishedAt: 2024-04-29T19:26:31.511Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: YRJ73j8mt38D5TUleocQB
-slug: configuring-seo-in-your-store
+slugEN: configuring-seo-in-your-store
 locale: en
 legacySlug: configuring-seo-in-your-store
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc
@@ -43,7 +43,7 @@ In all VTEX IO stores, you can configure these parameters natively by following 
 2. Click the **General** tab.
 3. Click **Add**.
 
-  ![favicon-en](https://images.ctfassets.net/alneenqid6w5/3NtSCr6cKVn7dDqsXn8jBN/bba39b30bedfe404b3111a06853a42de/favicons-en.png)
+  ![favicon-en](//images.ctfassets.net/alneenqid6w5/3NtSCr6cKVn7dDqsXn8jBN/bba39b30bedfe404b3111a06853a42de/favicons-en.png)
 
 4. A new screen will open for completion based on the following guidelines:
 
@@ -54,7 +54,7 @@ In all VTEX IO stores, you can configure these parameters natively by following 
 
     See the example below:
 
-    ![relacao-favicon-en](https://images.ctfassets.net/alneenqid6w5/4gJkfubRqf9lhtRiryrMMA/9d4f662c2be71d1d33ec68495b594049/relacao-favicon-en.png)
+    ![relacao-favicon-en](//images.ctfassets.net/alneenqid6w5/4gJkfubRqf9lhtRiryrMMA/9d4f662c2be71d1d33ec68495b594049/relacao-favicon-en.png)
 
 5. Click **Apply** to reflect the settings in your store. This process may take a few minutes.
 

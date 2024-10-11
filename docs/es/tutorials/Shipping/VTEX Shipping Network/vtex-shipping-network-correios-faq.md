@@ -9,7 +9,7 @@ firstPublishedAt: 2023-06-01T14:47:24.289Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: vtex-shipping-network-correios-faq
+slugEN: vtex-shipping-network-correios-faq
 locale: es
 legacySlug: vtex-shipping-network-correios-faq
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib

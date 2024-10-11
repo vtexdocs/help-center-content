@@ -1,15 +1,15 @@
 ---
 title: 'Setting up payments with Fpay'
 id: 6BaLIO2R7tOh6E1MmNoDXj
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2022-10-18T19:13:32.326Z
-updatedAt: 2024-01-24T17:26:52.492Z
-publishedAt: 2024-01-24T17:26:52.492Z
+updatedAt: 2024-10-03T15:17:27.495Z
+publishedAt: 
 firstPublishedAt: 2022-10-18T19:42:03.523Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-fpay
+slugEN: setting-up-payments-with-fpay
 locale: en
 legacySlug: setting-up-payments-with-fpay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -9,7 +9,7 @@ firstPublishedAt: 2022-06-02T20:26:20.805Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: order-to-delivery
+slugEN: order-to-delivery
 locale: en
 legacySlug: order-to-delivery
 subcategoryId: 5SE2asHiQtHKfbnFru8RWH

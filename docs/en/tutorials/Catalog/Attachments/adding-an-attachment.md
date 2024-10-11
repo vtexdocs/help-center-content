@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:06:25.639Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: adding-an-attachment
+slugEN: adding-an-attachment
 locale: en
 legacySlug: registering-an-attachment
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy

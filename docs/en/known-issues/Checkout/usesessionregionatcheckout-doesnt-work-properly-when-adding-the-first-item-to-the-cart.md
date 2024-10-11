@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: usesessionregionatcheckout-doesnt-work-properly-when-adding-the-first-item-to-the-cart
+slugEN: usesessionregionatcheckout-doesnt-work-properly-when-adding-the-first-item-to-the-cart
 locale: en
 kiStatus: Backlog
 internalReference: 925049

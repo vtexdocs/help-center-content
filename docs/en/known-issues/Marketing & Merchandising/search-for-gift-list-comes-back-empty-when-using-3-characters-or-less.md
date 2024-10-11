@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: search-for-gift-list-comes-back-empty-when-using-3-characters-or-less
+slugEN: search-for-gift-list-comes-back-empty-when-using-3-characters-or-less
 locale: en
 kiStatus: Backlog
 internalReference: 

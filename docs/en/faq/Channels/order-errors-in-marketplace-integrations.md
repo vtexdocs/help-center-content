@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-13T20:19:28.398Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: order-errors-in-marketplace-integrations
+slugEN: order-errors-in-marketplace-integrations
 locale: en
 legacySlug: errors-in-bridge-how-to-solve
 ---

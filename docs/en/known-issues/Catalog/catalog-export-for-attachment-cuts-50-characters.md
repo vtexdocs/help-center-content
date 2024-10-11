@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-export-for-attachment-cuts-50-characters
+slugEN: catalog-export-for-attachment-cuts-50-characters
 locale: en
 kiStatus: Backlog
 internalReference: 953161

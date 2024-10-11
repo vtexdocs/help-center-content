@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-18T15:49:26.862Z
 contentType: tutorial
 productTeam: Others
 author: YRJ73j8mt38D5TUleocQB
-slug: configuring-pwa-in-your-store-framework-store
+slugEN: configuring-pwa-in-your-store-framework-store
 locale: en
 legacySlug: configuring-pwa-in-your-store-framework-store
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc
@@ -30,7 +30,7 @@ To configure a PWA in your store, go to **Store Settings > Storefront > Store** 
 
 3. Scroll down and go to the **Other PWA settings** field. Click the arrow to show the other settings.
 
-  ![pwa-settings-2-en](https://images.ctfassets.net/alneenqid6w5/2UJAVrnwSn3NPNxxi42nk8/7e6e92b83cdc7af103e35f19d740343d/pwa-settings-2-en.png)
+  ![pwa-settings-2-en](//images.ctfassets.net/alneenqid6w5/2UJAVrnwSn3NPNxxi42nk8/7e6e92b83cdc7af103e35f19d740343d/pwa-settings-2-en.png)
 
 4. In **Other PWA settings**, complete the fields as indicated below:
 
@@ -60,7 +60,7 @@ To configure a PWA in your store, go to **Store Settings > Storefront > Store** 
     - **Add to home screen**: When activated, it allows the user to install the PWA.
     - **"Add to home screen" prompt**: Defines the moment when the PWA installation will be recommended to the user. One of the following values can be assigned: On the first visit, On the first item added to the cart, or On the first order. This option only applies when **Add to Home Screen** is activated.
 
-   ![pwa-settings-3-en](https://images.ctfassets.net/alneenqid6w5/2wVkAwUIy6E33I6pUoXMVT/8496511fdfbe7d9bdd30915bd0d4e3b9/pwa-settings-3-en.png)
+   ![pwa-settings-3-en](//images.ctfassets.net/alneenqid6w5/2wVkAwUIy6E33I6pUoXMVT/8496511fdfbe7d9bdd30915bd0d4e3b9/pwa-settings-3-en.png)
 
 5. Save changes by clicking `SAVE`.
 

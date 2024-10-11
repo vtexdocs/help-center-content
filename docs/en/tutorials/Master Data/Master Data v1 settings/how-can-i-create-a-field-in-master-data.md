@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:09:07.683Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_84
-slug: how-can-i-create-a-field-in-master-data
+slugEN: how-can-i-create-a-field-in-master-data
 locale: en
 legacySlug: how-can-i-create-field-in-master-data
 subcategoryId: WpbGhubuRZaNZilJSXnqu
@@ -69,6 +69,6 @@ To achieve this, follow the instructions below:
 7. Drag the field from the list entitled "available fields" to the columns entitled "column Fields 1" or "column Fields 2";
 8. In the lower part of the screen, click on the blue Save button.
 
-![criar campo master data CRM](https://images.ctfassets.net/alneenqid6w5/2ykQ9Vx7FCZLehkQpxMMmp/0b52e7bc11fc024e74c5223b8e534b65/criar_campo_master_data_CRM.gif)
+![criar campo master data CRM](//images.ctfassets.net/alneenqid6w5/2ykQ9Vx7FCZLehkQpxMMmp/0b52e7bc11fc024e74c5223b8e534b65/criar_campo_master_data_CRM.gif)
 
 Done! The fields will be displayed on the form.

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: scroll-issues-when-swiping-in-mobile-in-quick-view-when-theres-a-slider-layout-on-background
+slugEN: scroll-issues-when-swiping-in-mobile-in-quick-view-when-theres-a-slider-layout-on-background
 locale: en
 kiStatus: Backlog
 internalReference: 985097

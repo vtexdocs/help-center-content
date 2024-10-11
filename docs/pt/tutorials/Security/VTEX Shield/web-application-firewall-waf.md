@@ -9,7 +9,7 @@ firstPublishedAt: 2024-04-25T01:16:27.468Z
 contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slug: web-application-firewall-waf
+slugEN: web-application-firewall-waf
 locale: pt
 legacySlug: web-application-firewall-waf
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS

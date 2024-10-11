@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-oms-label-printing
+slugEN: meli-oms-label-printing
 locale: en
 kiStatus: Backlog
 internalReference: 546542

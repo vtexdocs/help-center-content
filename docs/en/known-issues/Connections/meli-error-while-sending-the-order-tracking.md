@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-error-while-sending-the-order-tracking
+slugEN: meli-error-while-sending-the-order-tracking
 locale: en
 kiStatus: Fixed
 internalReference: 764885

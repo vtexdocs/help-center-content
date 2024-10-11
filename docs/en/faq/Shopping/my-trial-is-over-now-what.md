@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-29T21:06:54.435Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: my-trial-is-over-now-what
+slugEN: my-trial-is-over-now-what
 locale: en
 legacySlug: my-trial-is-over-now-what
 ---

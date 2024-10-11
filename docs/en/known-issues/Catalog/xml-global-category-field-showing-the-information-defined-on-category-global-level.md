@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: xml-global-category-field-showing-the-information-defined-on-category-global-level
+slugEN: xml-global-category-field-showing-the-information-defined-on-category-global-level
 locale: en
 kiStatus: No Fix
 internalReference: 282231

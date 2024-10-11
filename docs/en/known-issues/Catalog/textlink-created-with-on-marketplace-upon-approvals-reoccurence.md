@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: textlink-created-with-on-marketplace-upon-approvals-reoccurence
+slugEN: textlink-created-with-on-marketplace-upon-approvals-reoccurence
 locale: en
 kiStatus: Fixed
 internalReference: 795900

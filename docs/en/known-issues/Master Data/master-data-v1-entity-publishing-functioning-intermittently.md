@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slug: master-data-v1-entity-publishing-functioning-intermittently
+slugEN: master-data-v1-entity-publishing-functioning-intermittently
 locale: en
 kiStatus: Backlog
 internalReference: 

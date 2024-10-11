@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-25T14:48:18.366Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: how-to-change-the-product-of-an-sku
+slugEN: how-to-change-the-product-of-an-sku
 locale: en
 legacySlug: how-to-change-the-product-of-an-sku
 subcategoryId: pwxWmUu7T222QyuGogs68

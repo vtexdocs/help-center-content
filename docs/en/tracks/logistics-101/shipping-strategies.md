@@ -8,7 +8,7 @@ publishedAt: 2022-03-10T16:12:39.772Z
 firstPublishedAt: 2022-03-07T18:16:31.599Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: shipping-strategies
+slugEN: shipping-strategies
 locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101

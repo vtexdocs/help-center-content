@@ -9,7 +9,7 @@ firstPublishedAt: 2024-04-23T19:11:42.313Z
 contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: vtex-ad-network-beta
+slugEN: vtex-ad-network-beta
 locale: pt
 legacySlug: vtex-ad-network-beta
 subcategoryId: 2AksvvAtAsbAfE7HsBIVDU

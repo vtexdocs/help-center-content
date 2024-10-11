@@ -9,7 +9,7 @@ firstPublishedAt: 2021-03-30T19:54:13.259Z
 contentType: tutorial
 productTeam: B2B
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: facilitating-b2b-store-operation
+slugEN: facilitating-b2b-store-operation
 locale: en
 legacySlug: facilitating-b2b-store-operation
 subcategoryId: 2LrbEY7MFeKqmdfYLBCnfi

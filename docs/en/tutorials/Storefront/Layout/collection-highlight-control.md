@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T20:51:49.939Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: collection-highlight-control
+slugEN: collection-highlight-control
 locale: en
 legacySlug: collection-highlight-control
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

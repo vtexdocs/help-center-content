@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:51.625Z
 contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
-slug: configuring-the-store-domain
+slugEN: configuring-the-store-domain
 locale: en
 legacySlug: configuring-domains-in-license-manager
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma

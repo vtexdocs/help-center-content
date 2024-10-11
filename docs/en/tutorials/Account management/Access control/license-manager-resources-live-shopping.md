@@ -9,7 +9,7 @@ firstPublishedAt: 2022-04-22T20:53:08.511Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: license-manager-resources-live-shopping
+slugEN: license-manager-resources-live-shopping
 locale: en
 legacySlug: license-manager-resources-live-shopping
 subcategoryId: 1HSqkejwuYcQSMC400uY84

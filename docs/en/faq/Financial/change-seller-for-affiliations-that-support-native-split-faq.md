@@ -9,7 +9,7 @@ firstPublishedAt: 2021-02-04T18:32:32.831Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slug: change-seller-for-affiliations-that-support-native-split-faq
+slugEN: change-seller-for-affiliations-that-support-native-split-faq
 locale: en
 legacySlug: change-seller-for-affiliations-that-support-native-split-faq
 ---

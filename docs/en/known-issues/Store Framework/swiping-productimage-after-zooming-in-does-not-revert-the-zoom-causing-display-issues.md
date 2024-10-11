@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: swiping-productimage-after-zooming-in-does-not-revert-the-zoom-causing-display-issues
+slugEN: swiping-productimage-after-zooming-in-does-not-revert-the-zoom-causing-display-issues
 locale: en
 kiStatus: Backlog
 internalReference: 491180

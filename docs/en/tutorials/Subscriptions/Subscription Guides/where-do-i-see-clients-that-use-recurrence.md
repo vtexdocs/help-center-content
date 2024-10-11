@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:04:58.040Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
-slug: where-do-i-see-clients-that-use-recurrence
+slugEN: where-do-i-see-clients-that-use-recurrence
 locale: en
 legacySlug: where-do-i-see-clients-that-use-recurrence
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM

@@ -9,7 +9,7 @@ firstPublishedAt: 2021-07-15T17:27:37.590Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: shipping-strategy
+slugEN: shipping-strategy
 locale: en
 legacySlug: shipping-strategy, what-is-the-difference-between-inventory-and-warehouse-dock
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC

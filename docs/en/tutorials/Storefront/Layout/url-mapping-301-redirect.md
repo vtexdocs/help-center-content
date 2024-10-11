@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:13:49.408Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: url-mapping-301-redirect
+slugEN: url-mapping-301-redirect
 locale: en
 legacySlug: url-mapping-301-redirect
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: not-able-to-open-proper-detached-sku-on-pdp-in-a-new-tab
+slugEN: not-able-to-open-proper-detached-sku-on-pdp-in-a-new-tab
 locale: en
 kiStatus: Backlog
 internalReference: 871848

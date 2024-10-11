@@ -8,7 +8,7 @@ publishedAt: 2022-01-25T18:04:08.465Z
 contentType: updates
 productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
-slug: changes-in-the-name-and-restricted-actions-available-to-the-master-user
+slugEN: 2021-11-08-changes-in-the-name-and-restricted-actions-available-to-the-master-user
 locale: en
 legacySlug: changes-in-the-name-and-restricted-actions-available-to-the-master-user
 announcementImageID: ''

@@ -9,7 +9,7 @@ firstPublishedAt: 2021-03-01T18:22:14.950Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
-slug: vtex-support-united-states
+slugEN: vtex-support-united-states
 locale: en
 legacySlug: vtex-support-united-states
 ---

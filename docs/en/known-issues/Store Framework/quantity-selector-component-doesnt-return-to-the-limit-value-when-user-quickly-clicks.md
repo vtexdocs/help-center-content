@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: quantity-selector-component-doesnt-return-to-the-limit-value-when-user-quickly-clicks
+slugEN: quantity-selector-component-doesnt-return-to-the-limit-value-when-user-quickly-clicks
 locale: en
 kiStatus: No Fix
 internalReference: 659909

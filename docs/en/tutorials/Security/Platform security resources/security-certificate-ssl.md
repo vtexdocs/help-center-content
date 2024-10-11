@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:50.121Z
 contentType: tutorial
 productTeam: Identity
 author: authors_84
-slug: security-certificate-ssl
+slugEN: security-certificate-ssl
 locale: en
 legacySlug: hiring-the-security-certificate-sll
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu

@@ -8,7 +8,7 @@ publishedAt: 2021-09-09T13:28:39.935Z
 firstPublishedAt: 2021-09-09T13:28:39.935Z
 contentType: trackArticle
 productTeam: Shopping
-slug: order-delivery
+slugEN: order-delivery
 locale: en
 trackId: 3WGDRRhc3vf1MJb9zGncnv
 trackSlugEN: unified-commerce-strategies

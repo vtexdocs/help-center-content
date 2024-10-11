@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:12:46.811Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: change-a-placeholder-title
+slugEN: change-a-placeholder-title
 locale: en
 legacySlug: change-a-placeholder-title
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -26,7 +26,7 @@ To change the title of a placeholder, just follow the steps below:
 1. Click the title.
 
 2. Insert the new title.
-![placeholder-change-name en](https://images.ctfassets.net/alneenqid6w5/2T3rBaF3RYIukMyeWOacI/e17ee1fd57027e899f409194f9bfe99e/change_name_E.png)
+![placeholder-change-name en](//images.ctfassets.net/alneenqid6w5/2T3rBaF3RYIukMyeWOacI/e17ee1fd57027e899f409194f9bfe99e/change_name_E.png)
 
 3. Click __Rename__.
 

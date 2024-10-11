@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-19T15:13:11.172Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: the-order-was-split-into-packages-with-separate-deliveries
+slugEN: the-order-was-split-into-packages-with-separate-deliveries
 locale: en
 legacySlug: the-order-was-split-into-packages-with-separate-deliveries
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB

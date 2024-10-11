@@ -8,7 +8,7 @@ publishedAt: 2022-05-25T20:18:22.193Z
 firstPublishedAt: 2022-04-18T11:51:17.410Z
 contentType: trackArticle
 productTeam: Channels
-slug: compatibility-and-requirements-for-integration
+slugEN: compatibility-and-requirements-for-integration
 locale: en
 trackId: 1r0yJSO11nrer1YVu3WTFd
 trackSlugEN: tiktok-integration

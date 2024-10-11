@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: shopee-failed-to-create-product-variations
+slugEN: shopee-failed-to-create-product-variations
 locale: en
 kiStatus: No Fix
 internalReference: 685160

@@ -8,7 +8,7 @@ publishedAt: 2023-10-24T15:32:07.852Z
 firstPublishedAt: 2019-11-14T15:38:27.680Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: order-flow
+slugEN: order-flow
 locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders
@@ -45,7 +45,7 @@ The dispatch is then authorized and the order enters the status `Window to Cance
 
 ## Seller Order Flow
 
-![screenshoot fluxo seller EN](https://images.ctfassets.net/alneenqid6w5/14SsrA3HbuAxsYerakdGGf/9a50dbe872d8712670ce7a1ddbbf2e6e/screenshoot_fluxo_seller_EN.JPG)
+![screenshoot fluxo seller EN](//images.ctfassets.net/alneenqid6w5/14SsrA3HbuAxsYerakdGGf/9a50dbe872d8712670ce7a1ddbbf2e6e/screenshoot_fluxo_seller_EN.JPG)
 
 It happens when the store acts as a Seller. That is, when it is the owner of the product.
 
@@ -59,7 +59,7 @@ The next status is then `Handling Shipping`, when the Seller prepares the invoic
 
 ## Complete Order Flow
 
-![screenshoot fluxo completo EN](https://images.ctfassets.net/alneenqid6w5/5uYoEIqMJxUMFZzXKf72Sh/2cf49ed2ddd0cceac3f429e1f4492422/screenshoot_fluxo_completo_EN.JPG)
+![screenshoot fluxo completo EN](//images.ctfassets.net/alneenqid6w5/5uYoEIqMJxUMFZzXKf72Sh/2cf49ed2ddd0cceac3f429e1f4492422/screenshoot_fluxo_completo_EN.JPG)
 
 It happens when the store is both the Marketplace and the Seller. That is, it's when the order was closed in the store and the store itself is the owner of the product, being responsible for the fulfillment.
 

@@ -1,15 +1,15 @@
 ---
 title: 'Setting up payments with Woovi'
 id: a61xxlOLJTQRrPx2MrVfs
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-09-08T17:29:33.321Z
-updatedAt: 2024-01-23T21:54:32.467Z
-publishedAt: 2024-01-23T21:54:32.467Z
+updatedAt: 2024-10-03T16:16:28.395Z
+publishedAt: 
 firstPublishedAt: 2023-09-08T17:49:01.961Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-woovi
+slugEN: setting-up-payments-with-woovi
 locale: en
 legacySlug: setting-up-payments-with-woovi
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

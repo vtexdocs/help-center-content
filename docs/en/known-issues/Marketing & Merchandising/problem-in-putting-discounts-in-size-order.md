@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: problem-in-putting-discounts-in-size-order
+slugEN: problem-in-putting-discounts-in-size-order
 locale: en
 kiStatus: Backlog
 internalReference: 

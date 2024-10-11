@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-06-28T19:07:28.945Z
 contentType: trackArticle
 productTeam: Shopping
-slug: b2b-form
+slugEN: b2b-form
 locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup
@@ -50,8 +50,8 @@ __B2B Form__ - optional and closed:
 
 __B2B Form__ - optional and open:
 
-![b2b-opcional-aberto](https://images.ctfassets.net/alneenqid6w5/5KlFHUrxhmWmiK468eogck/f13e50591cb44afb21c804c6f3d7618b/b2b-opcional-aberto.png)
+![b2b-opcional-aberto](//images.ctfassets.net/alneenqid6w5/5KlFHUrxhmWmiK468eogck/f13e50591cb44afb21c804c6f3d7618b/b2b-opcional-aberto.png)
 
 __B2B Form__ - mandatory (all fields come already open):
 
-![b2b-obrigatorio](https://images.ctfassets.net/alneenqid6w5/1t7EvHWtg0AiSsUSkaAqUi/3f704862cc694d3feeaf540fabfba228/b2b-obrigatorio.png)
+![b2b-obrigatorio](//images.ctfassets.net/alneenqid6w5/1t7EvHWtg0AiSsUSkaAqUi/3f704862cc694d3feeaf540fabfba228/b2b-obrigatorio.png)

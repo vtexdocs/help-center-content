@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: paymentsystems-are-not-returned-in-orderform-when-a-cart-price-comes-exclusively-from-manualprice
+slugEN: paymentsystems-are-not-returned-in-orderform-when-a-cart-price-comes-exclusively-from-manualprice
 locale: en
 kiStatus: Backlog
 internalReference: 1025321

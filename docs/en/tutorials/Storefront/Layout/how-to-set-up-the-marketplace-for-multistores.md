@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:55:19.554Z
 contentType: tutorial
 productTeam: Channels
 author: authors_59
-slug: how-to-set-up-the-marketplace-for-multistores
+slugEN: how-to-set-up-the-marketplace-for-multistores
 locale: en
 legacySlug: how-to-set-up-the-marketplace-for-multistores
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

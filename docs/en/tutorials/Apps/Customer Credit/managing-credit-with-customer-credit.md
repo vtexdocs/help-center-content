@@ -9,7 +9,7 @@ firstPublishedAt: 2020-05-29T13:00:01.098Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: managing-credit-with-customer-credit
+slugEN: managing-credit-with-customer-credit
 locale: en
 legacySlug: managing-credit-with-customer-credit
 subcategoryId: 7EWKfPIGfmI0G8iMYK8Aiy
@@ -79,7 +79,7 @@ For a small number of registrations, the customer can create accounts one by one
 
 If the database has a large number of accounts, it is best to import a spreadsheet in CSV format. You can download a template in the Accounts section and fill it with the required information. To do this, click on the Import button.
 
-![CustomerCredit2-EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/3dOP4y1k14B70DhB07n7zx/f2bd8cb4463b5132c176875373b5daf7/CustomerCredit2-EN.png_h_250)
+![CustomerCredit2-EN.png?h=250](//images.ctfassets.net/alneenqid6w5/3dOP4y1k14B70DhB07n7zx/f2bd8cb4463b5132c176875373b5daf7/CustomerCredit2-EN.png_h_250)
 
 ### Large databases
 

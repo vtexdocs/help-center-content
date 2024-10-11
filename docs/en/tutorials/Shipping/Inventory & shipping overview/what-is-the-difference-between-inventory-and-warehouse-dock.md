@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-07T18:56:46.230Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: what-is-the-difference-between-inventory-and-warehouse-dock
+slugEN: what-is-the-difference-between-inventory-and-warehouse-dock
 locale: en
 legacySlug: what-is-the-difference-between-inventory-and-warehouse-dock
 subcategoryId: 3RSSKdmS4MY2ycsu8WoyC2

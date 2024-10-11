@@ -9,7 +9,7 @@ firstPublishedAt: 2022-01-26T23:06:58.565Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: configuring-vtex-marketplace
+slugEN: configuring-vtex-marketplace
 locale: en
 legacySlug: setting-up-vtex-marketplace
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm

@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T16:04:15.374Z
 firstPublishedAt: 2021-08-05T14:46:46.816Z
 contentType: trackArticle
 productTeam: Shopping
-slug: cart-transfer-and-capture
+slugEN: cart-transfer-and-capture
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-using-the-app
@@ -24,7 +24,7 @@ For the sales associate to share a cart, they can generate a numeric code or a Q
 
 When they click this button, the app shows a QR Code and a four-digit numeric code.
 
-![31. inStore - Product Overview - 8 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/4DIaRH9gE7NVSsFMQINg4x/2531727e3528f275e02919c9939c5c09/31._inStore_-_Product_Overview_-_8_-_EN.png_h_250)
+![31. inStore - Product Overview - 8 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/4DIaRH9gE7NVSsFMQINg4x/2531727e3528f275e02919c9939c5c09/31._inStore_-_Product_Overview_-_8_-_EN.png_h_250)
 
 Another sales associate logged into the same store can then capture that cart and continue selling from their device.
 
@@ -34,7 +34,7 @@ To capture a cart, enter the VTEX Sales App main menu and click on `Capture Cart
 
 Alternatively, on the app's home screen, the sales associate can slide the screen to the right. When they drag the screen to the right, they will see the __Cart Capture__ option, as shown in the image below.
 
-![24. Enable cart transfer between devices - 2 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/4HFA0E3oefpFShXIpygidj/63c8ce16230f02347fe36420fd578d4d/24._Enable_cart_transfer_between_devices_-_2_-_EN.png_h_250)
+![24. Enable cart transfer between devices - 2 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/4HFA0E3oefpFShXIpygidj/63c8ce16230f02347fe36420fd578d4d/24._Enable_cart_transfer_between_devices_-_2_-_EN.png_h_250)
 
 On this screen, they can capture a cart using one of three methods:
 

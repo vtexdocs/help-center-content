@@ -8,7 +8,7 @@ publishedAt: 2023-08-02T14:33:05.047Z
 firstPublishedAt: 2023-08-02T14:33:05.047Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: extensions-hub-partners
+slugEN: extensions-hub-partners
 locale: en
 trackId: AW7klkYMh557y5IUOgzco
 trackSlugEN: extensions-hub

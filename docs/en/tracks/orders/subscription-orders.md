@@ -8,7 +8,7 @@ publishedAt: 2023-03-22T23:57:21.402Z
 firstPublishedAt: 2019-11-18T12:21:06.649Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: subscription-orders
+slugEN: subscription-orders
 locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: checkout-simulation-returns-value-0-in-slastax-field-for-shipping-percentage-taxes
+slugEN: checkout-simulation-returns-value-0-in-slastax-field-for-shipping-percentage-taxes
 locale: en
 kiStatus: Backlog
 internalReference: 1012724

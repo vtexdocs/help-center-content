@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-07T12:28:18.865Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: breadcrumb-control
+slugEN: breadcrumb-control
 locale: en
 legacySlug: breadcrumb-control
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -42,4 +42,4 @@ Here is an example of the HTML code rendered by the breadcrumb control:
 
 The code above renders the following breadcrumb in the site:
 
-![breadcrumb2](https://images.contentful.com/alneenqid6w5/1PxrLYlhNaaUYYoi6oOCe6/06d276039e7e73a39fa15061befffd38/breadcrumb2.png)
+![breadcrumb2](//images.contentful.com/alneenqid6w5/1PxrLYlhNaaUYYoi6oOCe6/06d276039e7e73a39fa15061befffd38/breadcrumb2.png)

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-14T12:19:43.139Z
 contentType: tutorial
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
-slug: how-to-change-upgrade-or-rollback-a-specific-dependency-version-within-a
+slugEN: how-to-change-upgrade-or-rollback-a-specific-dependency-version-within-a
 locale: en
 legacySlug: how-to-change-upgrade-or-rollback-a-specific-dependency-version-within-a
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

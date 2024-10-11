@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: error-in-refund-value-cannot-be-null-parameter-name-value
+slugEN: error-in-refund-value-cannot-be-null-parameter-name-value
 locale: en
 kiStatus: Backlog
 internalReference: 1049494

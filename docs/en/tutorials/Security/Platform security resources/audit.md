@@ -9,7 +9,7 @@ firstPublishedAt: 2021-10-21T21:55:42.939Z
 contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slug: audit
+slugEN: audit
 locale: en
 legacySlug: searching-for-events-on-audit
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
@@ -48,7 +48,7 @@ Follow the instructions to search for an event using the filters available in Au
 
     For example, the query in the image below returns results for `Change Promotion Configuration` or `Change Coupon Configuration` actions whose author is `email@mail.com`.
 
-    ![filtros-en (1)](https://images.ctfassets.net/alneenqid6w5/LQkBnce7aFlx8T1zjXYdm/266db3f0a88fe7e35268d8e2410c0052/filtros-en__1_.png)
+    ![filtros-en (1)](//images.ctfassets.net/alneenqid6w5/LQkBnce7aFlx8T1zjXYdm/266db3f0a88fe7e35268d8e2410c0052/filtros-en__1_.png)
 
 7. Click the `Apply` button to obtain the events found.
 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: faststore-search-api-considering-fuzzy-as-auto-as-default
+slugEN: faststore-search-api-considering-fuzzy-as-auto-as-default
 locale: en
 kiStatus: Fixed
 internalReference: 889321

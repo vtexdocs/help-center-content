@@ -9,7 +9,7 @@ firstPublishedAt: 2022-11-11T21:43:37.865Z
 contentType: tutorial
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: black-week
+slugEN: black-week
 locale: en
 legacySlug: black-week
 subcategoryId: QPnz120TdtLcXSh65c4Gs

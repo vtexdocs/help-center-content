@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: replacing-orders-with-different-sales-channel
+slugEN: replacing-orders-with-different-sales-channel
 locale: en
 kiStatus: Backlog
 internalReference: 982965

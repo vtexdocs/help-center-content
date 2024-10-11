@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-16T20:49:04.616Z
 contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
-slug: license-manager-resources-rates-and-benefits
+slugEN: license-manager-resources-rates-and-benefits
 locale: en
 legacySlug: license-manager-resources-rates-and-benefits
 subcategoryId: 1HSqkejwuYcQSMC400uY84

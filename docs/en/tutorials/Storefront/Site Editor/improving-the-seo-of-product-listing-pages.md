@@ -9,7 +9,7 @@ firstPublishedAt: 2021-11-04T20:18:26.040Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slug: improving-the-seo-of-product-listing-pages
+slugEN: improving-the-seo-of-product-listing-pages
 locale: en
 legacySlug: improving-the-seo-of-product-listing-pages
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
@@ -39,7 +39,7 @@ To improve the SEO performance of PLPs via Site Editor, you have to configure th
 4. Click on __Fetch more.__
 5. On __Button behavior,__ select the option __Link to page - Improves SEO, may change how the button looks.__
 
-![bt-config-en](https://images.ctfassets.net/alneenqid6w5/6LQJMtP8loMFop3pp5NgFt/4ac3a699c734b39ebc5bfae46c27696a/bt-config-en.gif)
+![bt-config-en](//images.ctfassets.net/alneenqid6w5/6LQJMtP8loMFop3pp5NgFt/4ac3a699c734b39ebc5bfae46c27696a/bt-config-en.gif)
 
 6. Click on `SAVE`.
 7. To configure the __Fetch previous__ item, expand the __Search Result Flexible Layout__ block.

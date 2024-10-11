@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-11-06T19:14:25.813Z
 contentType: trackArticle
 productTeam: Financial
-slug: what-is-the-payment-split
+slugEN: what-is-the-payment-split
 locale: en
 trackId: 1ouDg8q56Kuz1AgtJUY9nv
 trackSlugEN: payment-split

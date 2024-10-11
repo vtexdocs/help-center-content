@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-27T18:52:38.519Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slug: setting-up-braspag-gateway
+slugEN: setting-up-braspag-gateway
 locale: en
 legacySlug: setting-up-braspag-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slug: orderform-not-updating-after-order-is-placed
+slugEN: orderform-not-updating-after-order-is-placed
 locale: en
 kiStatus: Backlog
 internalReference: 1056870

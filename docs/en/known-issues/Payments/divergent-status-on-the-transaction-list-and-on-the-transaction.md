@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: divergent-status-on-the-transaction-list-and-on-the-transaction
+slugEN: divergent-status-on-the-transaction-list-and-on-the-transaction
 locale: en
 kiStatus: Fixed
 internalReference: 308919

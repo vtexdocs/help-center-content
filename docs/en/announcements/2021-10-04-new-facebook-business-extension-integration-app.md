@@ -8,7 +8,7 @@ publishedAt: 2021-10-07T13:30:52.945Z
 contentType: updates
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: new-facebook-business-extension-integration-app
+slugEN: 2021-10-04-new-facebook-business-extension-integration-app
 locale: en
 legacySlug: 
 announcementImageID: ''

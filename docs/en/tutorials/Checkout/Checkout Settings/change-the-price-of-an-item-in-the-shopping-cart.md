@@ -9,7 +9,7 @@ firstPublishedAt: 2022-05-23T22:23:55.815Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: change-the-price-of-an-item-in-the-shopping-cart
+slugEN: change-the-price-of-an-item-in-the-shopping-cart
 locale: en
 legacySlug: change-the-price-of-an-item-in-the-shopping-cart
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs

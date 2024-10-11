@@ -9,7 +9,7 @@ firstPublishedAt: 2021-07-06T17:39:43.728Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slug: creating-a-subscription-plan
+slugEN: creating-a-subscription-plan
 locale: en
 legacySlug: creating-a-subscription-plan-beta
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM

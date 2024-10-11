@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-30T14:26:53.089Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: configuring-clearsale-v3-antifraud
+slugEN: configuring-clearsale-v3-antifraud
 locale: en
 legacySlug: configuring-clearsale-v3-antifraud
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

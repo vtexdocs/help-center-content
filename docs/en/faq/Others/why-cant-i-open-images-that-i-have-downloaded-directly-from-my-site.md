@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-17T22:37:34.372Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_4
-slug: why-cant-i-open-images-that-i-have-downloaded-directly-from-my-site
+slugEN: why-cant-i-open-images-that-i-have-downloaded-directly-from-my-site
 locale: en
 legacySlug: why-cant-i-open-images-that-i-have-downloaded-directly-from-my-site
 ---

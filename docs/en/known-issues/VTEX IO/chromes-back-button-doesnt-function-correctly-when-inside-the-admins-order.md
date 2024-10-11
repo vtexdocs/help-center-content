@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 tag: VTEX IO,OMS
-slug: chromes-back-button-doesnt-function-correctly-when-inside-the-admins-order
+slugEN: chromes-back-button-doesnt-function-correctly-when-inside-the-admins-order
 locale: en
 kiStatus: Open
 internalReference: 

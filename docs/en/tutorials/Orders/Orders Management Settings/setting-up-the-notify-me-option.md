@@ -9,7 +9,7 @@ firstPublishedAt: 2017-10-17T20:57:40.778Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slug: setting-up-the-notify-me-option
+slugEN: setting-up-the-notify-me-option
 locale: en
 legacySlug: set-up-the-notify-me
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:13.247Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: understanding-the-security-report
+slugEN: understanding-the-security-report
 locale: en
 legacySlug: understanding-the-security-report
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: clicks-on-the-numericstepper-not-working
+slugEN: clicks-on-the-numericstepper-not-working
 locale: en
 kiStatus: Backlog
 internalReference: 537245

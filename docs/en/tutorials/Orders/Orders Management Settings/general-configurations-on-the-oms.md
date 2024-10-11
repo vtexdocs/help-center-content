@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:47.468Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: general-configurations-on-the-oms
+slugEN: general-configurations-on-the-oms
 locale: en
 legacySlug: general-configurations-on-the-oms
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k

@@ -8,7 +8,7 @@ publishedAt: 2021-05-04T18:11:05.378Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: catalog-api-new-restrictions-to-activate-an-sku
+slugEN: 2021-01-28-catalog-api-new-restrictions-to-activate-an-sku
 locale: en
 legacySlug: catalog-api-new-restrictions-to-activate-a-sku
 announcementImageID: ''

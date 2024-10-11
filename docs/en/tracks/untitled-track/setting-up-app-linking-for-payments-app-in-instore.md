@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-03-15T20:36:28.499Z
 contentType: trackArticle
 productTeam: unknown
-slug: setting-up-app-linking-for-payments-app-in-instore
+slugEN: setting-up-app-linking-for-payments-app-in-instore
 locale: en
 trackId: 
 trackSlugEN: untitled-track

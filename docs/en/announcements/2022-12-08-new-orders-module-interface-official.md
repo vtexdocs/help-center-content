@@ -8,7 +8,7 @@ publishedAt: 2023-01-05T14:44:28.868Z
 contentType: updates
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: new-orders-module-interface-official
+slugEN: 2022-12-08-new-orders-module-interface-official
 locale: en
 legacySlug: the-new-orders-module-interface-will-be-official
 announcementImageID: ''
@@ -31,11 +31,11 @@ The new interface, which will be official as of February 1st, has two main new f
 
 * **Order diagram:** In the _Order status_ section of the new interface, by default, a timeline with the events of the order is displayed. Now you can also see the _Order diagram_. When you click `View diagram`, a modal opens and displays the following image:
 
-  ![diagrama_pedido_en](https://images.ctfassets.net/alneenqid6w5/3to0oQYzjgz3Y5i4sDPIG3/cd9d746e2ac2104e5657ec55c1229bb0/diagrama_pedido_en.png)
+  ![diagrama_pedido_en](//images.ctfassets.net/alneenqid6w5/3to0oQYzjgz3Y5i4sDPIG3/cd9d746e2ac2104e5657ec55c1229bb0/diagrama_pedido_en.png)
 
 For those not using the beta version yet, the image below maps the  fields between the old and new versions of the **Order Details** page:
 
-![board_comparativo_interface_pedido_v2_en](https://images.ctfassets.net/alneenqid6w5/30tYehAYOCvQoX0MpSIoNH/c0bd90681544108bd26da14f7091fc1d/board_comparativo_interface_pedido_v2_en.png)
+![board_comparativo_interface_pedido_v2_en](//images.ctfassets.net/alneenqid6w5/30tYehAYOCvQoX0MpSIoNH/c0bd90681544108bd26da14f7091fc1d/board_comparativo_interface_pedido_v2_en.png)
 
 ## Why did we make this change?
 

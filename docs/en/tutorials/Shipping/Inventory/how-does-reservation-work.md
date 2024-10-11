@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:00:42.751Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
-slug: how-does-reservation-work
+slugEN: how-does-reservation-work
 locale: en
 legacySlug: how-does-reservation-work, analyze-a-products-reservations
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE

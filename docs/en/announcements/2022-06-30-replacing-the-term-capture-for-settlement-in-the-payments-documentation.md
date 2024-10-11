@@ -8,7 +8,7 @@ publishedAt: 2022-07-19T19:15:52.201Z
 contentType: updates
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
-slug: replacing-the-term-capture-for-settlement-in-the-payments-documentation
+slugEN: 2022-06-30-replacing-the-term-capture-for-settlement-in-the-payments-documentation
 locale: en
 legacySlug: replacing-the-term-capture-for-settlement-in-the-payments-documentation
 announcementImageID: ''

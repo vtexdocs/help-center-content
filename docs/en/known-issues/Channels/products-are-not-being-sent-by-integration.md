@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 tag: Connections
-slug: products-are-not-being-sent-by-integration
+slugEN: products-are-not-being-sent-by-integration
 locale: en
 kiStatus: Backlog
 internalReference: 

@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-02-19T20:13:24.873Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: customizing-styles
+slugEN: customizing-styles
 locale: en
 trackId: 5qJr8BIQXAKec9CpBWrTNv
 trackSlugEN: build-a-store-using-vtex-io
@@ -98,4 +98,4 @@ Let’s type some CSS inside, giving us a nice solid red line:
 ```
 Our new category menu will now have a solid red line along the bottom of our menu.
 
-![red-line](https://images.ctfassets.net/alneenqid6w5/2zVZNpUFepCptn5Zuo3YNa/1d939c7f78544c6b716bfc57db774b79/red-line.svg)
+![red-line](//images.ctfassets.net/alneenqid6w5/2zVZNpUFepCptn5Zuo3YNa/1d939c7f78544c6b716bfc57db774b79/red-line.svg)

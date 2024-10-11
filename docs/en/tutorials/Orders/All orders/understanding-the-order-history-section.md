@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:47.584Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
-slug: understanding-the-order-history-section
+slugEN: understanding-the-order-history-section
 locale: en
 legacySlug: understanding-the-order-time-line
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

@@ -9,7 +9,7 @@ firstPublishedAt: 2021-10-21T21:55:42.939Z
 contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
-slug: audit
+slugEN: audit
 locale: pt
 legacySlug: como-encontrar-eventos-no-audit
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
@@ -48,7 +48,7 @@ Confira o passo a passo para buscar por um evento utilizando os filtros disponí
 
     Por exemplo, a busca correspondente à figura abaixo encontra resultados cujas ações são _Change Promotion Configuration_ ou _Change Coupon Configuration_ e cujo autor é `email@email.com`.
 
-    ![filtros-pt](https://images.ctfassets.net/alneenqid6w5/LQkBnce7aFlx8T1zjXYdm/3f1ad9727d1f0eb54168e9e68895533b/filtros-pt.png)
+    ![filtros-pt](//images.ctfassets.net/alneenqid6w5/LQkBnce7aFlx8T1zjXYdm/3f1ad9727d1f0eb54168e9e68895533b/filtros-pt.png)
 
 7. Clique no botão `Aplicar` para obter os eventos que foram encontrados.
 
@@ -113,7 +113,7 @@ Para buscar se uma transportadora foi deletada em determinada data:
 
 ## Verificar últimas buscas realizadas no Audit
 
-Toda busca realizada no Audit é salva na aba **Últimas buscas**. Para refazer uma busca nessa aba, clique no botão <img src="https://images.ctfassets.net/alneenqid6w5/4gWsOnbLMOUeWh0r5YRDz/9b7148d995c03ca84b39473f266b46a9/refresh.png" width="15"> correspondente à busca que você deseja refazer.
+Toda busca realizada no Audit é salva na aba **Últimas buscas**. Para refazer uma busca nessa aba, clique no botão <img src="//images.ctfassets.net/alneenqid6w5/4gWsOnbLMOUeWh0r5YRDz/9b7148d995c03ca84b39473f266b46a9/refresh.png" width="15"> correspondente à busca que você deseja refazer.
 
 Confira a seguir as informações disponíveis nesta aba:
 

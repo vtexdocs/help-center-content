@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: items-not-displayed-in-item-association-listing-in-subscription-plans-configuration
+slugEN: items-not-displayed-in-item-association-listing-in-subscription-plans-configuration
 locale: en
 kiStatus: Backlog
 internalReference: 648117

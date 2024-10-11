@@ -9,7 +9,7 @@ firstPublishedAt: 2018-09-10T20:18:17.982Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
-slug: how-to-set-up-multiple-accounts-in-the-mercado-livre-integration
+slugEN: how-to-set-up-multiple-accounts-in-the-mercado-livre-integration
 locale: en
 legacySlug: 
 ---

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-19T15:42:15.992Z
 contentType: tutorial
 productTeam: Master Data
 author: authors_64
-slug: setting-up-an-auto-increment-field
+slugEN: setting-up-an-auto-increment-field
 locale: en
 legacySlug: setting-up-an-auto-increment-field
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q

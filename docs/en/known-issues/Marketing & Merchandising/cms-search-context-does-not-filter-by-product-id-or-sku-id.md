@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 tag: Portal (CMS)
-slug: cms-search-context-does-not-filter-by-product-id-or-sku-id
+slugEN: cms-search-context-does-not-filter-by-product-id-or-sku-id
 locale: en
 kiStatus: Backlog
 internalReference: 

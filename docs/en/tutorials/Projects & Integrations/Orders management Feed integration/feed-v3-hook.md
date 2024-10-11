@@ -9,7 +9,7 @@ firstPublishedAt: 2019-06-10T20:51:18.121Z
 contentType: tutorial
 productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
-slug: feed-v3-hook
+slugEN: feed-v3-hook
 locale: en
 legacySlug: configuring-hook-feed-v3,configuring-feed-v3-hook
 subcategoryId: 3Y8xzVGMXcuPTuzfFI0vUp

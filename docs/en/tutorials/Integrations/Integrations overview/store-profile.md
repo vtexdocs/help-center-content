@@ -9,7 +9,7 @@ firstPublishedAt: 2023-07-19T21:29:37.370Z
 contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: store-profile
+slugEN: store-profile
 locale: en
 legacySlug: store-profile
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq

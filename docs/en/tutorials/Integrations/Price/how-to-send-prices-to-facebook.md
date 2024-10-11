@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:10:43.360Z
 contentType: tutorial
 productTeam: Channels
 author: authors_59
-slug: how-to-send-prices-to-facebook
+slugEN: how-to-send-prices-to-facebook
 locale: en
 legacySlug: how-to-send-prices-to-facebook
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS

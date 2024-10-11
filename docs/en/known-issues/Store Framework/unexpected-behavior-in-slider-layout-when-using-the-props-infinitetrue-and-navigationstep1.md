@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: unexpected-behavior-in-slider-layout-when-using-the-props-infinitetrue-and-navigationstep1
+slugEN: unexpected-behavior-in-slider-layout-when-using-the-props-infinitetrue-and-navigationstep1
 locale: en
 kiStatus: Backlog
 internalReference: 462895

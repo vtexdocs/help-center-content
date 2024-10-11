@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-11-25T12:43:17.689Z
 contentType: trackArticle
 productTeam: Shopping
-slug: how-to-configure-a-device-for-printout-the-order
+slugEN: how-to-configure-a-device-for-printout-the-order
 locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup
@@ -60,7 +60,7 @@ printPageAutomatically: true
   3. In the “Settings” block inside the inStore menu, the option “Configure device” should appear. Click there.
   4. You will find the summary of the configured device. If this is the first time, the information will be empty. If a device has been configured previously, some information about the device will appear _(Device Name and Standard Printer)_. Click on the "Edit" option.
   
-![EN-Device via Broadcast](https://images.ctfassets.net/alneenqid6w5/7DuIhb5gjLHpCoLx48DMvl/d51a551e1d23f6dae131ec9b34c184b7/EN-Device_via_Broadcast.png)
+![EN-Device via Broadcast](//images.ctfassets.net/alneenqid6w5/7DuIhb5gjLHpCoLx48DMvl/d51a551e1d23f6dae131ec9b34c184b7/EN-Device_via_Broadcast.png)
 
   5. A form will appear indicating the data of _AppKey_, _AppToken_ and the name by which you want to identify the device. After entering this data, click on “Configure”.
   6. Finally, after including the above data, it will be possible to select the printer from the list of options. The idea is to select one of these options and then click on “Configure” again.

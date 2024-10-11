@@ -9,7 +9,7 @@ firstPublishedAt: 2021-06-17T16:29:09.807Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: become-a-certified-connector-partner
+slugEN: become-a-certified-connector-partner
 locale: en
 legacySlug: become-a-certified-vtex-partner
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq

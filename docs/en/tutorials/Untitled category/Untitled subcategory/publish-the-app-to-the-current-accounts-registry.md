@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Others
 author: 
-slug: publish-the-app-to-the-current-accounts-registry
+slugEN: publish-the-app-to-the-current-accounts-registry
 locale: en
 legacySlug: publish-the-app-to-the-current-accounts-registry
 subcategoryId: unknown-subcategory

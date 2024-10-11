@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-21T17:54:19.079Z
 contentType: tutorial
 productTeam: Financial
 author: authors_59
-slug: setting-up-payment-with-paypal
+slugEN: setting-up-payment-with-paypal
 locale: en
 legacySlug: setting-up-payment-with-paypal
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

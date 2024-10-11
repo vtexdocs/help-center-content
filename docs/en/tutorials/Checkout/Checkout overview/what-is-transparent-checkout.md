@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-27T20:40:08.480Z
 contentType: tutorial
 productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-transparent-checkout
+slugEN: what-is-transparent-checkout
 locale: en
 legacySlug: what-is-transparent-checkout
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk

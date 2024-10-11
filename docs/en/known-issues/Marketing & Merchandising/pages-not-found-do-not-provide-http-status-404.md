@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: pages-not-found-do-not-provide-http-status-404
+slugEN: pages-not-found-do-not-provide-http-status-404
 locale: en
 kiStatus: Backlog
 internalReference: 

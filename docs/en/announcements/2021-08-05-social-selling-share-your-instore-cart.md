@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T14:55:33.958Z
 contentType: updates
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
-slug: social-selling-share-your-instore-cart
+slugEN: 2021-08-05-social-selling-share-your-instore-cart
 locale: en
 legacySlug: social-selling-share-your-instore-cart
 announcementImageID: ''
@@ -35,7 +35,7 @@ The customers can access the cart, make the payment, and complete the purchase o
 
 The sales rep can also fill in the customer's delivery information, choose the payment method, and then share a **Payment Link**. That way, the shared cart link will have all the personal information already filled in, so the customer will only need to fill in the payment information to complete the purchase on their own device.  Check out how it works.
 
-![paymentlink EN](https://images.ctfassets.net/alneenqid6w5/7FjwJywOLKl0WjdC8U1IFc/b20493f0a9350f2ae8574441fc6bbc9f/paymentlink_EN.gif)
+![paymentlink EN](//images.ctfassets.net/alneenqid6w5/7FjwJywOLKl0WjdC8U1IFc/b20493f0a9350f2ae8574441fc6bbc9f/paymentlink_EN.gif)
 
 ## Why did we make this change?
 

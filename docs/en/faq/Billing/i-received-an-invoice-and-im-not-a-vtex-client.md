@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-28T19:00:36.900Z
 contentType: frequentlyAskedQuestion
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
-slug: i-received-an-invoice-and-im-not-a-vtex-client
+slugEN: i-received-an-invoice-and-im-not-a-vtex-client
 locale: en
 legacySlug: i-received-an-invoice-and-im-not-a-vtex-client
 ---

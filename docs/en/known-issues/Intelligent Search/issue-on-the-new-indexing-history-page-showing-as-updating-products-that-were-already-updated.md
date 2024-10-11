@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: issue-on-the-new-indexing-history-page-showing-as-updating-products-that-were-already-updated
+slugEN: issue-on-the-new-indexing-history-page-showing-as-updating-products-that-were-already-updated
 locale: en
 kiStatus: Backlog
 internalReference: 680241

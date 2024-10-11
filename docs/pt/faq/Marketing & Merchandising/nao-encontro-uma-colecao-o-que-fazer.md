@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-24T18:57:50.665Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: nao-encontro-uma-colecao-o-que-fazer
+slugEN: nao-encontro-uma-colecao-o-que-fazer
 locale: pt
 legacySlug: nao-encontro-uma-colecao-o-que-fazer
 ---
@@ -24,4 +24,4 @@ Portanto, se sua loja tem mais do que 20 coleções, é normal que algumas delas
 
 Mas você pode buscar qualquer coleção utilizando o __campo de busca__ (Find), incluindo as que não são exibidas por padrão.
 
-![findCollection2](https://images.contentful.com/alneenqid6w5/6LBUTpvCH64Uc2CQEwiigk/5739b97f92b27ec9fc40fb4e93ffb2af/findCollection2.png)
+![findCollection2](//images.contentful.com/alneenqid6w5/6LBUTpvCH64Uc2CQEwiigk/5739b97f92b27ec9fc40fb4e93ffb2af/findCollection2.png)

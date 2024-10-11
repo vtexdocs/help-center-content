@@ -9,7 +9,7 @@ firstPublishedAt: 2022-02-02T14:41:53.952Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
-slug: creating-landing-pages
+slugEN: creating-landing-pages
 locale: en
 legacySlug: creating-landing-pages
 subcategoryId: 1znnjA17XqaUNdNFr42PW5

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:11:15.330Z
 contentType: tutorial
 productTeam: Channels
 author: authors_84
-slug: integrating-with-csu-opte-2
+slugEN: integrating-with-csu-opte-2
 locale: en
 legacySlug: integrating-with-csu-opte-2
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k

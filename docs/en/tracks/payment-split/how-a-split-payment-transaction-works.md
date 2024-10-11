@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2020-11-06T19:14:38.444Z
 contentType: trackArticle
 productTeam: Financial
-slug: how-a-split-payment-transaction-works
+slugEN: how-a-split-payment-transaction-works
 locale: en
 trackId: 1ouDg8q56Kuz1AgtJUY9nv
 trackSlugEN: payment-split

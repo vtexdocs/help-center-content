@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slug: inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive
+slugEN: inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive
 locale: en
 kiStatus: Backlog
 internalReference: 346163

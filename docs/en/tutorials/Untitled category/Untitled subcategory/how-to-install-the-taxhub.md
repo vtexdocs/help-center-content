@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-02T13:15:16.982Z
 contentType: tutorial
 productTeam: Others
 author: 2Y2pnNkWfSoUMMYcwemq4A
-slug: how-to-install-the-taxhub
+slugEN: how-to-install-the-taxhub
 locale: en
 legacySlug: how-to-install-the-taxhub
 subcategoryId: unknown-subcategory

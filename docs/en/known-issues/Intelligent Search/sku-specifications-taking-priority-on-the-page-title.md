@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: sku-specifications-taking-priority-on-the-page-title
+slugEN: sku-specifications-taking-priority-on-the-page-title
 locale: en
 kiStatus: Backlog
 internalReference: 1089440

@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:14:32.959Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_84
-slug: what-is-the-google-analytics-sales-funnel
+slugEN: what-is-the-google-analytics-sales-funnel
 locale: en
 legacySlug: what-is-the-google-analytics-sales-funnel
 subcategoryId: 1luKrYptdi8WoMYckakUaM

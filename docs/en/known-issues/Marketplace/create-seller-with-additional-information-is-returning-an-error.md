@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slug: create-seller-with-additional-information-is-returning-an-error
+slugEN: create-seller-with-additional-information-is-returning-an-error
 locale: en
 kiStatus: Fixed
 internalReference: 741110

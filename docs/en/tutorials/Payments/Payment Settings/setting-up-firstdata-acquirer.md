@@ -9,7 +9,7 @@ firstPublishedAt: 2018-04-26T22:08:51.029Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-firstdata-acquirer
+slugEN: setting-up-firstdata-acquirer
 locale: en
 legacySlug: setting-up-firstdata-acquirer
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: multiple-sku-promotion-api-not-working
+slugEN: multiple-sku-promotion-api-not-working
 locale: en
 kiStatus: No Fix
 internalReference: 729990

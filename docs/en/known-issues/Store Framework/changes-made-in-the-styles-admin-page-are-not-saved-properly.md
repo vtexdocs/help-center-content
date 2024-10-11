@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: changes-made-in-the-styles-admin-page-are-not-saved-properly
+slugEN: changes-made-in-the-styles-admin-page-are-not-saved-properly
 locale: en
 kiStatus: No Fix
 internalReference: 971948

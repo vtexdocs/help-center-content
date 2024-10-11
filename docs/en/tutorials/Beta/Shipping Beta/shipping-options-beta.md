@@ -9,7 +9,7 @@ firstPublishedAt: 2022-05-31T18:53:28.695Z
 contentType: tutorial
 productTeam: Others
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: shipping-options-beta
+slugEN: shipping-options-beta
 locale: en
 legacySlug: delivery-options-beta
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
@@ -111,7 +111,7 @@ Besides editing a shipping option from the menu icon <i class="fas fa-ellipsis-v
 
 Once you have configured the shipping options, they will be listed under **Store Settings > Shipping > Shipping Options**, as shown in the following image:
 
-![opcoes_envio_listagem_en](https://images.ctfassets.net/alneenqid6w5/2MAxFwYr86Y2ErCyo7GRIN/7c6c0928864ee46602bdf7799c9f00b1/opcoes_envio_listagem_en.png)
+![opcoes_envio_listagem_en](//images.ctfassets.net/alneenqid6w5/2MAxFwYr86Y2ErCyo7GRIN/7c6c0928864ee46602bdf7799c9f00b1/opcoes_envio_listagem_en.png)
 
 The table below contains the description of the columns shown:
 

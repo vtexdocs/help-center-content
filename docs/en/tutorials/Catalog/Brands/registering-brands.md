@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:49.756Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: registering-brands
+slugEN: registering-brands
 locale: en
 legacySlug: registering-brands
 subcategoryId: fUHfjTEwyOcIQuyeUsIIu

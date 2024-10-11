@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: components-in-a-kit-with-the-same-price
+slugEN: components-in-a-kit-with-the-same-price
 locale: en
 kiStatus: Backlog
 internalReference: 989371

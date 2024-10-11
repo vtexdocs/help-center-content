@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:01:48.915Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: how-to-use-the-page-title-control
+slugEN: how-to-use-the-page-title-control
 locale: en
 legacySlug: how-to-use-the-page-title-control
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-05-05T18:31:08.941Z
 contentType: tutorial
 productTeam: Financial
 author: 5fYXkMJagMwcSAeMAsAuOI
-slug: how-to-set-up-visa-debit
+slugEN: how-to-set-up-visa-debit
 locale: en
 legacySlug: how-to-set-up-visa-debit
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
@@ -26,13 +26,13 @@ To do so, in **Settings** access the menu of **Payment conditions** options:
 
 Select Visa Electron to create the payment condition:
 
-![4.2](https://images.ctfassets.net/alneenqid6w5/4e2znPWITSSKSmumCyaeG2/d655f5b0b44f4a48fb7236a6f8d46a1a/4.2.png)
+![4.2](//images.ctfassets.net/alneenqid6w5/4e2znPWITSSKSmumCyaeG2/d655f5b0b44f4a48fb7236a6f8d46a1a/4.2.png)
 
 ### Configure payment condition
 
 Select the desired affiliation to transact the payments; enable the payment condition; and, finally, save the changes: 
 
-![3.2](https://images.ctfassets.net/alneenqid6w5/7lW3rrIqbYcgsW8agM00qk/a8309e05cde5ac3f72ca724da4142e48/3.2.png)
+![3.2](//images.ctfassets.net/alneenqid6w5/7lW3rrIqbYcgsW8agM00qk/a8309e05cde5ac3f72ca724da4142e48/3.2.png)
 
 ### Display credit cards in Checkout
 

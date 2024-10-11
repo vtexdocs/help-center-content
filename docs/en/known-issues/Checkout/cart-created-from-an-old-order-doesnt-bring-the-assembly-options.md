@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: cart-created-from-an-old-order-doesnt-bring-the-assembly-options
+slugEN: cart-created-from-an-old-order-doesnt-bring-the-assembly-options
 locale: en
 kiStatus: Backlog
 internalReference: 1020278

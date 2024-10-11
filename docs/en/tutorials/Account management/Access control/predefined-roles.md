@@ -9,7 +9,7 @@ firstPublishedAt: 2022-04-07T21:48:28.951Z
 contentType: tutorial
 productTeam: Identity
 author: 127RQ7SUoFfyTh5gbXUpdM
-slug: predefined-roles
+slugEN: predefined-roles
 locale: en
 legacySlug: 
 subcategoryId: 1HSqkejwuYcQSMC400uY84

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-22T01:35:29.950Z
 contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
-slug: what-is-the-production-mode
+slugEN: what-is-the-production-mode
 locale: en
 legacySlug: what-is-the-production-mode
 ---

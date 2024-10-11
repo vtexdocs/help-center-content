@@ -3,84 +3,117 @@ title: 'Configuring promotions with highlights / flags'
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
-updatedAt: 2024-08-05T17:14:38.358Z
-publishedAt: 2024-08-05T17:14:38.358Z
+updatedAt: 2024-09-17T16:24:52.963Z
+publishedAt: 2024-09-17T16:24:52.963Z
 firstPublishedAt: 2017-04-27T23:03:51.539Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slug: configuring-promotions-with-a-highlightflag
+slugEN: configuring-promotions-with-a-highlightflag
 locale: en
 legacySlug: configuring-promotions-with-a-highlightflag
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
->⚠️ Tutorial valid only for Legacy CMS Stores.
-
-The promotion highlight is a notice that can be placed on shelves and product pages stating that the product is eligible for a promotion. A common example is an image below a product picture indicating free shipping.
+The highlight of a promotion is a visual notification that can be placed on shelves and product pages, informing customers that the item is eligible for a promotion. A common example is the indication of free shipping below the product image.
 
 ![ExemploPromocaoDestaque2](https://images.contentful.com/alneenqid6w5/jS31HBOW3YWsIYyUOE8o/3d0c108c84b2a7c5e6ae2d4254425e4b/ExemploPromocaoDestaque2.png)
 
-Not all promotions are eligible to be featured. This possibility is limited to the types below:
+In this guide, you will find the following sections:
 
-- Percentage
-- Percentage shipping
-- Maximum shipping
-- Free shipping
-- Gift
+- [Promotions eligible for highlight](#promotions-eligible-for-highlight)
+- [Restrictions](#restrictions)
+- [Configuring a promotion](#configuring-a-promotion)
+- [Promotion highlight in Store Framework](#promotion-highlight-in-store-framework)
+- [Promotion highlight in Legacy CMS Portal](#promotion-highlight-in-legacy-cms-portal)
+    - [Page template](#page-template)
+    - [Shelves template](#Shelves-template)
 
-In addition, **it is not possible to configure a highlight when the promotion has restrictions in the cart**, such as:
+## Promotions eligible for highlight
 
-- Zip code range;
-- Accumulated value of purchases;
-- Promotion restriction by BIN;
-- Cluster of customers;
-- Shipping type;
-- Payment method;
-- Maximum number of installments, only on the first purchase.
+The promotion highlight can be applied to different types of promotions and discounts. This highlight will be displayed on shelves and product pages, alerting customers that the item is part of a special promotion.
 
-This is because all these promotions have restrictions, which means that they are not eligible for all buyers. In this way, it is necessary for the consumers to provide some information (e.g. the delivery zip code) for the promotion to be applicable.
+The following types of discounts are eligible for a highlight application:
 
-This configuration comprises three parts, one in Promotions and two in your store’s templates, in the CMS module. Your CSS must also be configured for this function. See below how to configure it.
+- [Percentage discount](https://help.vtex.com/en/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): offers a percentage reduction on the product’s price.
+- [Percentage shipping discount](https://help.vtex.com/en/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): applies a discount to a portion of the shipping cost, allowing customers to pay less for shipping and encouraging the purchase decision.
+- [Maximum shipping](https://help.vtex.com/en/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): sets a maximum shipping cost, regardless of factors such as distance or order weight.
+- [Free shipping](https://help.vtex.com/en/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): completely eliminates the shipping cost.
+- **Free gift**: offers an extra product at no cost to the customer when purchasing a certain item or reaching a minimum purchase value.
 
-### Configuring the promotion
+To learn more, see the [Promotions](https://help.vtex.com/en/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq) section.
 
-1. In the VTEX Admin, go to *Promotions > Promotions*, or type *Promotions* in the search bar at the top of the page.
-2. Search for the promotion you want to configure.
-3. In **Featured in the product**, select the **Highlight** option.
-4. Click on `Save`.
+## Restrictions
 
-### Configuring the page template
+You cannot configure the highlight in promotions with restrictions in the cart, such as:
 
-This configuration consists of editing the page template used for the product page layout and including the tag ``<vtex.cmc:discountHightLight />`` in it.
+- Postal code range
+- Accumulated purchase value
+- BIN
+- Customer clusters
+- Shipping method
+- Payment method
+- Max installments, first purchase only
 
-1. In the VTEX Admin, go to *Storefront > Layout*, or type *Layout* in the search bar at the top of the page.
-3. Click on the **CMS** folder.
-4. Click on the **Sites and channels** folder.
-5. Click on the desired website.
-6. Click on **/**.
-7. Click on **Product**.
-8. Click on **@Product@**.
-9. On the right side of the screen, click on **New Layout**.
-10. In the side menu, click on the layout with a red check mark, and in the __Template__ field check the name of the template used.
+These promotions are not eligible for all customers. This means that customers need to provide additional information (e.g., postal code) for the promotion to be applicable. Therefore, highlights cannot be configured in these cases.
 
-![Layout com check - PT](https://images.ctfassets.net/alneenqid6w5/4GmSglkpk78c4M5hDZEgZX/ab47d3105213471fe370be0b11afcfab/image.png)
+## Configuring a promotion
 
-![Template](https://images.contentful.com/alneenqid6w5/2OzzBkU2YwsgCGeICsgIcg/61aaf502c787cb4f0468ab8cee821072/Template.png)
+Follow the instructions below to configure promotions in your store.
 
-11. Go back to the side menu and click on the **HTML Templates** folder.
-12. Click on the template you found in @Product@.
-13. Insert the code <vtex.cmc:discountHightLight/> according to your HTML structure.
-14. Click on the **Save Template** button.
+1.  In the VTEX Admin, go to **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page.
+2.  Search for the promotion you want to configure.
+3.  In the **Promotion is highlighted** option, select **Yes**.
+4.  Configure the promotion with the desired specifications.
+5.  Click the `Save` button.
+6. Follow the instructions corresponding to the frontend technology used by your store:
 
-### Configuring the shelf template
+- [Store Framework](#promotion-highlight-in-store-framework)
+- [Legacy CMS Portal](#promotion-highlight-in-legacy-cms-portal)
 
-1. In the VTEX Admin, go to *Storefront > Layout*, or type *Layout* in the search bar at the top of the page.
-2. Click on the **CMS** folder.
-3. Click on **Shelves Template**.
-4. Click on the desired template. 
-5. Enter the code $product.DiscountHightLight.
-6. Click on the **Save Template** button.
+## Promotion highlight in Store Framework
 
-After you’ve configured it, a class will be created in HTML with the promotion name. Thus it is necessary to include, through CSS, a text or an image for the flag.
+For stores developed using Store Framework, after configuring the promotion highlight, follow the instructions in the documentation for the [Product Highlights](https://developers.vtex.com/docs/apps/vtex.product-highlights) component.
 
+## Promotion highlight in Legacy CMS Portal
+
+For Legacy CMS Portal stores, after configuring the promotion highlight, configure the [page template](#configure-the-page-template) and [shelves template](#configure-the-shelves-template) in the CMS module. In addition, your CSS must be configured for this function.
+
+### Page template
+
+This configuration involves editing the page template used for the product page layout and including the `<vtex.cmc:discountHighLight/>` tag.
+
+1. In the VTEX Admin, go to **Storefront > Layout**, or type **Layout** in the search bar at the top of the page.
+2. Click **CMS > Sites and channels**.
+3. Click the name of the **website** you want.
+4. Click **/ > Product > @Product@**.
+5. Click the layout with a red checkmark.
+
+    ![template-pagina](//images.ctfassets.net/alneenqid6w5/37poO6Jxhn6Mc1nLeMIbB1/093b30ca6d0cff84cd7d5bb0b221957f/template-pagina.gif)
+
+6. In the __Template__ field, check the name of the template used:
+
+    ![template-produto](//images.ctfassets.net/alneenqid6w5/3GST4wBaoqbW84ryZ7y1Y5/50ed5ddef8301cc433f3fe4b041a9eff/template-produto.png)
+
+7.  In the side menu, click the **HTML Templates** folder.
+8.  Click the template found at **@Product@**.
+
+    ![save-template](//images.ctfassets.net/alneenqid6w5/5n0wxeIf8uVM26GRVkQ5Ty/94bc01183a21136e0d31d038f5f5b228/save-template.gif)
+
+9.  Enter the code `<vtex.cmc:discountHightLight/>` based on your HTML structure.
+10.  Click **Save Template**.
+
+### Shelves template
+
+1.  In the VTEX Admin, go to **Storefront > Layout**, or type **Layout** in the search bar at the top of the page.
+2.  Click **CMS > Shelves Templtes**.
+
+    ![shelves-templates](//images.ctfassets.net/alneenqid6w5/9F4rv410hc9HxXowv9EAX/60ad5506cf0a0a584a5b1419a0ed289c/shelves-templates.png)
+
+3.  Click the desired template.
+4.  Enter the `$product.DiscountHightLight` code.
+5.  Click **Save Template**.
+
+After making the settings in the VTEX Admin and adding the appropriate tags to the templates, a CSS class with the name of each promotion that meets the requirements will be automatically generated in the HTML. For example, if the promotion is called "BlackFriday," a class called `.BlackFriday` will be generated in the HTML of the product or shelf.
+
+Once the class is generated, you will need to define your CSS styles, customizing a text or image for the flag directly in the templates.

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: time-out-import-and-export-admin
+slugEN: time-out-import-and-export-admin
 locale: en
 kiStatus: Backlog
 internalReference: 424902

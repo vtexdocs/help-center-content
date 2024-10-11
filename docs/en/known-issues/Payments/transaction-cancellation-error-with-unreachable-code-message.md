@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: transaction-cancellation-error-with-unreachable-code-message
+slugEN: transaction-cancellation-error-with-unreachable-code-message
 locale: en
 kiStatus: Backlog
 internalReference: 998435

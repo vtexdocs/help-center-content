@@ -9,7 +9,7 @@ firstPublishedAt: 2022-03-17T15:53:14.973Z
 contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: seller-portal-getting-started-for-the-marketplace
+slugEN: seller-portal-getting-started-for-the-marketplace
 locale: en
 legacySlug: seller-portal-getting-started-for-the-marketplace
 subcategoryId: 4hisB47iAVZk4r3SEmMoG

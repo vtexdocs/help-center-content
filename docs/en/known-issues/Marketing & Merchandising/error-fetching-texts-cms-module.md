@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 5V92cmF9jG8KG600EwUgEg
 tag: Portal (CMS)
-slug: error-fetching-texts-cms-module
+slugEN: error-fetching-texts-cms-module
 locale: en
 kiStatus: Backlog
 internalReference: 

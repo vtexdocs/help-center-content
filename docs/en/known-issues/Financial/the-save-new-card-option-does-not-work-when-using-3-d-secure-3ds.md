@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 tag: Order Management
-slug: the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds
+slugEN: the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds
 locale: en
 kiStatus: Backlog
 internalReference: 

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: card-facebook-doesnt-save-some-settings
+slugEN: card-facebook-doesnt-save-some-settings
 locale: en
 kiStatus: No Fix
 internalReference: 548763

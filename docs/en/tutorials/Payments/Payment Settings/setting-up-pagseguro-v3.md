@@ -9,7 +9,7 @@ firstPublishedAt: 2021-12-02T19:18:21.251Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-pagseguro-v3
+slugEN: setting-up-pagseguro-v3
 locale: en
 legacySlug: setting-up-pagseguro-v3
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

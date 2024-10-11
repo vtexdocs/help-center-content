@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:09:15.076Z
 contentType: tutorial
 productTeam: Channels
 author: authors_59
-slug: what-is-the-difference-between-sales-policy-affiliate-and-seller
+slugEN: what-is-the-difference-between-sales-policy-affiliate-and-seller
 locale: en
 legacySlug: what-is-the-difference-between-sales-policy-affiliate-and-seller
 subcategoryId: 6J3wx7KM4oysymsWuUACyY

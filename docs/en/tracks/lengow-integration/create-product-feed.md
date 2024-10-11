@@ -8,7 +8,7 @@ publishedAt: 2020-07-02T03:20:31.139Z
 firstPublishedAt: 2020-06-30T01:10:09.032Z
 contentType: trackArticle
 productTeam: Apps
-slug: create-product-feed
+slugEN: create-product-feed
 locale: en
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugEN: lengow-integration
@@ -42,7 +42,7 @@ Your product feed should now be available at the following URL:
 
 If you visit this URL in your browser, you should see an XML document tree like this:
 
-![image8](https://images.ctfassets.net/alneenqid6w5/7fBOjuxHDkRYtIoLPSnJcp/038cfb985ae364a3af5068ed5f69e489/image8.png)
+![image8](//images.ctfassets.net/alneenqid6w5/7fBOjuxHDkRYtIoLPSnJcp/038cfb985ae364a3af5068ed5f69e489/image8.png)
 
 The numbers seen in the XML feed correspond to the Product ID for all products in the collection you created for the Lengow connector.
 

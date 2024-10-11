@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: pagination-links-on-search-results-not-working-on-giftlist-pages
+slugEN: pagination-links-on-search-results-not-working-on-giftlist-pages
 locale: en
 kiStatus: No Fix
 internalReference: 481330

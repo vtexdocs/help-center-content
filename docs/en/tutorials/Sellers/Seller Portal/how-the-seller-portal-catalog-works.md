@@ -9,7 +9,7 @@ firstPublishedAt: 2021-09-15T20:53:40.080Z
 contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: how-the-seller-portal-catalog-works
+slugEN: how-the-seller-portal-catalog-works
 locale: en
 legacySlug: how-the-seller-portal-catalog-works
 subcategoryId: 4hisB47iAVZk4r3SEmMoG

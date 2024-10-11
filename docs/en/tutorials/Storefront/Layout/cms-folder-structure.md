@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-25T14:56:56.161Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: cms-folder-structure
+slugEN: cms-folder-structure
 locale: en
 legacySlug: cms-folder-structure
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW

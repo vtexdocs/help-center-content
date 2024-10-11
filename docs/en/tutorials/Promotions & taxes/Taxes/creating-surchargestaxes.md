@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:14.603Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: creating-surchargestaxes
+slugEN: creating-surchargestaxes
 locale: en
 legacySlug: creating-surchargestaxes
 subcategoryId: 18Gsips3u48UYCu0Ku2sWm

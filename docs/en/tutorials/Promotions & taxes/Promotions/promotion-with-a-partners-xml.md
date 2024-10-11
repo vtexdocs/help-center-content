@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:49.767Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: promotion-with-a-partners-xml
+slugEN: promotion-with-a-partners-xml
 locale: en
 legacySlug: promotion-with-a-partners-xml
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: order-export-report-is-not-working-properly-due-double-space-on-promotion-name
+slugEN: order-export-report-is-not-working-properly-due-double-space-on-promotion-name
 locale: en
 kiStatus: Fixed
 internalReference: 786216

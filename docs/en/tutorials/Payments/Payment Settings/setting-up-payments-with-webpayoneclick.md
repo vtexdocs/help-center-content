@@ -1,15 +1,15 @@
 ---
 title: 'Setting up payments with WebpayOneClick'
 id: 7jIwDOcBbF3cxIyHKaj4LF
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2024-03-07T14:01:33.652Z
-updatedAt: 2024-03-07T15:06:06.370Z
-publishedAt: 2024-03-07T15:06:06.370Z
+updatedAt: 2024-10-03T16:14:09.657Z
+publishedAt: 
 firstPublishedAt: 2024-03-07T15:06:06.370Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-webpayoneclick
+slugEN: setting-up-payments-with-webpayoneclick
 locale: en
 legacySlug: setting-up-payments-with-webpayoneclick
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

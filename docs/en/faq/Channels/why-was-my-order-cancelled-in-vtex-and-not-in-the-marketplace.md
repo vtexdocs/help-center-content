@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:02:27.269Z
 contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
-slug: why-was-my-order-cancelled-in-vtex-and-not-in-the-marketplace
+slugEN: why-was-my-order-cancelled-in-vtex-and-not-in-the-marketplace
 locale: en
 legacySlug: why-was-my-order-cancelled-in-vtex-and-not-in-the-marketplace
 ---

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slug: schema-doesnt-present-price-in-outofstock-items-unavailable
+slugEN: schema-doesnt-present-price-in-outofstock-items-unavailable
 locale: en
 kiStatus: Backlog
 internalReference: 
@@ -24,7 +24,7 @@ Unavailable products (outOfstock) do not have price information in Schema.
 
 - Take an item with no stock being displayed on the website as unavailable;
 - See in Schema that it will be displayed as outOfstock and will not show the price.
-![schema  outOfstock ](https://images.contentful.com/alneenqid6w5/6PgCuzUXXGo0iC6UeAMUA6/4390b013aaf5d3083ffef407180cd484/ItemTypes-duplicidade.png)
+![schema  outOfstock ](//images.contentful.com/alneenqid6w5/6PgCuzUXXGo0iC6UeAMUA6/4390b013aaf5d3083ffef407180cd484/ItemTypes-duplicidade.png)
 
 ## Workaround
 

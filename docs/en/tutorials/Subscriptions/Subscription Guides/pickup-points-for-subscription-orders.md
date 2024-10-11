@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-17T20:55:05.477Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
-slug: pickup-points-for-subscription-orders
+slugEN: pickup-points-for-subscription-orders
 locale: en
 legacySlug: pickup-points-for-subscription-orders-beta
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM

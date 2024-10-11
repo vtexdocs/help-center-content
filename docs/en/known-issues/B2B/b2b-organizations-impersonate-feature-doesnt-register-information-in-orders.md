@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: b2b-organizations-impersonate-feature-doesnt-register-information-in-orders
+slugEN: b2b-organizations-impersonate-feature-doesnt-register-information-in-orders
 locale: en
 kiStatus: Backlog
 internalReference: 1056736

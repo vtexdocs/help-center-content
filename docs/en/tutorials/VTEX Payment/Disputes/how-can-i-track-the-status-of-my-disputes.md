@@ -9,7 +9,7 @@ firstPublishedAt: 2020-07-20T18:19:15.318Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: how-can-i-track-the-status-of-my-disputes
+slugEN: how-can-i-track-the-status-of-my-disputes
 locale: en
 legacySlug: how-can-i-track-the-status-of-my-disputes
 subcategoryId: 204Hz794zvcUIJXLcShY43

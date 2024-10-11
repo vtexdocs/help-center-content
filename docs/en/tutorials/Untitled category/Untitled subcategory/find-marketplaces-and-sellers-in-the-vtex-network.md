@@ -9,7 +9,7 @@ firstPublishedAt: 2020-09-14T23:03:21.356Z
 contentType: tutorial
 productTeam: Apps
 author: 46G4yHIZerH7B9Jo0Iw5KI
-slug: find-marketplaces-and-sellers-in-the-vtex-network
+slugEN: find-marketplaces-and-sellers-in-the-vtex-network
 locale: en
 legacySlug: find-marketplaces-and-sellers-in-the-vtex-network
 subcategoryId: unknown-subcategory
@@ -41,7 +41,7 @@ To contact a member:
 >ℹ️ The potential business partner will receive an email with the information you entered. If both parties are interested, the person in charge of the seller or marketplace may contact you and negotiate a marketplace and seller agreement.
 
 ## Store Profile
-![Network profile EN](https://images.ctfassets.net/alneenqid6w5/0F1E1mqf6hD5FLzVGqBA7/17a2b46b39a8fc853755fc91e974b904/Marketplace_store_profile_EN.gif)
+![Network profile EN](//images.ctfassets.net/alneenqid6w5/0F1E1mqf6hD5FLzVGqBA7/17a2b46b39a8fc853755fc91e974b904/Marketplace_store_profile_EN.gif)
 
 1. In the *Marketplace* section of your store, click __Marketplace Network__.      
 2. Click the __Store Profile__ page.      

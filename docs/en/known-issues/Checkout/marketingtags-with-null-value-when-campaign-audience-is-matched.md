@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: marketingtags-with-null-value-when-campaign-audience-is-matched
+slugEN: marketingtags-with-null-value-when-campaign-audience-is-matched
 locale: en
 kiStatus: Backlog
 internalReference: 1052895

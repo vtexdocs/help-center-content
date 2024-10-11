@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Order Management
-slug: tx-id-link-in-orders-management-doesnt-redirect-to-payment-module-in
+slugEN: tx-id-link-in-orders-management-doesnt-redirect-to-payment-module-in
 locale: en
 kiStatus: Backlog
 internalReference: 

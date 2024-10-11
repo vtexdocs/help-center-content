@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T17:23:14.836Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: where-to-use-whatsapp-link
+slugEN: where-to-use-whatsapp-link
 locale: en
 legacySlug: where-to-use-whatsapp-link
 ---

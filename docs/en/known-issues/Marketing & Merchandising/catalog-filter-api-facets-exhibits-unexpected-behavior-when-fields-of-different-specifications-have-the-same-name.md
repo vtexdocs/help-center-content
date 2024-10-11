@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-filter-api-facets-exhibits-unexpected-behavior-when-fields-of-different-specifications-have-the-same-name
+slugEN: catalog-filter-api-facets-exhibits-unexpected-behavior-when-fields-of-different-specifications-have-the-same-name
 locale: en
 kiStatus: Backlog
 internalReference: 

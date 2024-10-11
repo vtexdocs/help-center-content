@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: pickup-point-modal-doesnt-utilize-geocoordinates-without-a-google-maps-key
+slugEN: pickup-point-modal-doesnt-utilize-geocoordinates-without-a-google-maps-key
 locale: en
 kiStatus: Backlog
 internalReference: 1041462

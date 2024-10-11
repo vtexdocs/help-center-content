@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-24T18:57:50.665Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: nao-encontro-uma-colecao-o-que-fazer
+slugEN: nao-encontro-uma-colecao-o-que-fazer
 locale: es
 legacySlug: nao-encontro-uma-colecao-o-que-fazer
 ---
@@ -24,4 +24,4 @@ Por lo tanto, si su tienda tiene más de 20 colecciones, es normal que algunas d
 
 Pero usted puede buscar cualquier colección utilizando el campo de búsqueda (Find), incluyendo aquellos que no se muestran por defecto.
 
-![findCollection2](https://images.contentful.com/alneenqid6w5/6LBUTpvCH64Uc2CQEwiigk/5739b97f92b27ec9fc40fb4e93ffb2af/findCollection2.png)
+![findCollection2](//images.contentful.com/alneenqid6w5/6LBUTpvCH64Uc2CQEwiigk/5739b97f92b27ec9fc40fb4e93ffb2af/findCollection2.png)

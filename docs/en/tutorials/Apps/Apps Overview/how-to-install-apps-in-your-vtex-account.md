@@ -9,7 +9,7 @@ firstPublishedAt: 2017-06-19T19:36:03.927Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 4ZWjZh1Z6MWsMgKqQ0KcwU
-slug: how-to-install-apps-in-your-vtex-account
+slugEN: how-to-install-apps-in-your-vtex-account
 locale: en
 legacySlug: how-to-install-apps-in-your-vtex-account
 subcategoryId: 3e2VLdLao8GGk4sAmMmwmi

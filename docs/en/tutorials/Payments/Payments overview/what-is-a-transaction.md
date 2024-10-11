@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-26T20:24:17.085Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: what-is-a-transaction
+slugEN: what-is-a-transaction
 locale: en
 legacySlug: what-is-a-transaction
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8

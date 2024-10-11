@@ -9,7 +9,7 @@ firstPublishedAt: 2023-04-06T19:11:57.614Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: managing-singleton-content-types
+slugEN: managing-singleton-content-types
 locale: en
 legacySlug: managing-singleton-content-types
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO

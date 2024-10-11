@@ -9,7 +9,7 @@ firstPublishedAt: 2023-09-08T19:50:37.486Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-powerpay
+slugEN: setting-up-payments-with-powerpay
 locale: en
 legacySlug: setting-up-payments-with-powerpay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

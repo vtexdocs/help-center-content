@@ -9,7 +9,7 @@ firstPublishedAt: 2017-12-20T17:06:52.323Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_24
-slug: how-to-find-customers-that-has-ordered-the-most
+slugEN: how-to-find-customers-that-has-ordered-the-most
 locale: en
 legacySlug: how-to-find-customers-that-has-ordered-the-most
 ---

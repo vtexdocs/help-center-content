@@ -9,7 +9,7 @@ firstPublishedAt: 2019-03-12T16:38:58.550Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 523NSmHfn2IKEoiy2Q44YS
-slug: how-order-authorization-workss
+slugEN: how-order-authorization-workss
 locale: en
 legacySlug: untitled-entry-2019-03-12-at-04-37-03
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

@@ -8,7 +8,7 @@ publishedAt: 2024-01-05T19:59:15.811Z
 firstPublishedAt: 2023-04-25T20:13:04.431Z
 contentType: trackArticle
 productTeam: Shopping
-slug: managing-sales-associates-in-instore
+slugEN: managing-sales-associates-in-instore
 locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-first-steps-and-configurations

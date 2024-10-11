@@ -9,7 +9,7 @@ firstPublishedAt: 2023-03-23T20:06:47.380Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
-slug: managing-pages
+slugEN: managing-pages
 locale: en
 legacySlug: managing-pages-beta
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
@@ -40,7 +40,7 @@ To create and manage a page, follow these steps:
 3. Under `Untitled`, name the page.
 
 4. Click on `Sections` and select the desired section.
-![Gif - Pages](https://images.ctfassets.net/alneenqid6w5/1JOLEO3RErUiJ8AYroKwTe/d35ca90a8b65f2f436173375fee0bf9d/Ingles_gif_da_pag.gif)
+![Gif - Pages](//images.ctfassets.net/alneenqid6w5/1JOLEO3RErUiJ8AYroKwTe/d35ca90a8b65f2f436173375fee0bf9d/Ingles_gif_da_pag.gif)
 5. Add more sections if needed and fill them out.
 
 6. Click `Publish`. 

@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
-slug: orderform-settings
+slugEN: orderform-settings
 locale: en
 legacySlug: orderform-settings
 subcategoryId: unknown-subcategory

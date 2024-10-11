@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: specifications-with-the-same-name-affecting-the-filter-visibility-at-the-intelligent-search
+slugEN: specifications-with-the-same-name-affecting-the-filter-visibility-at-the-intelligent-search
 locale: en
 kiStatus: Backlog
 internalReference: 1078576

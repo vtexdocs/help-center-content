@@ -9,7 +9,7 @@ firstPublishedAt: 2022-10-18T18:28:35.755Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-ventipay
+slugEN: setting-up-payments-with-ventipay
 locale: en
 legacySlug: setting-up-payments-with-ventipay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

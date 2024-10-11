@@ -9,7 +9,7 @@ firstPublishedAt: 2024-02-05T20:10:35.385Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-pagoexpress
+slugEN: setting-up-payments-with-pagoexpress
 locale: en
 legacySlug: setting-up-payments-with-pagoexpress
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

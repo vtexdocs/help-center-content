@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:10.539Z
 contentType: tutorial
 productTeam: Others
 author: authors_3
-slug: setting-up-b2b-on-vtex
+slugEN: setting-up-b2b-on-vtex
 locale: en
 legacySlug: setting-up-b2b-on-vtex
 subcategoryId: 2LrbEY7MFeKqmdfYLBCnfi
@@ -49,13 +49,13 @@ Check out the basic characteristics of each type of user:
 
 Thus, to have a B2B environment, the **401** and **403** folders, under the **system** folder, must be customized.
 
-![](https://images.contentful.com/alneenqid6w5/4eOGUWH7nWqyQGCmIou6WO/1910b62f54515007e85aa3a82d04fb9e/2.png)
+![](//images.contentful.com/alneenqid6w5/4eOGUWH7nWqyQGCmIou6WO/1910b62f54515007e85aa3a82d04fb9e/2.png)
 
 Browsing by Anonymous users (when attempting to access any page, they will be redirected to 401):
-![](https://images.contentful.com/alneenqid6w5/1bxTbhKatws2mgGiOGSUYW/8bf8e626bf53a8e785ffdcc5f2ffc813/3.png)
+![](//images.contentful.com/alneenqid6w5/1bxTbhKatws2mgGiOGSUYW/8bf8e626bf53a8e785ffdcc5f2ffc813/3.png)
 
 Browsing by non-approved users (when attempting to access any page, they will be redirected to 403):
-![](https://images.contentful.com/alneenqid6w5/1Ep24Fgl1SIG6Uw8Wmkq42/2a995f8d9c2be0e92629447c1e6d3948/4.png)
+![](//images.contentful.com/alneenqid6w5/1Ep24Fgl1SIG6Uw8Wmkq42/2a995f8d9c2be0e92629447c1e6d3948/4.png)
 
 ## 3. Define pre-registration fields
 
@@ -67,7 +67,7 @@ Accordingly, all pre-registration fields must be defined. B2B usually uses clien
 
 ## 4. Create a pre-registration form
 
-Upon the definition of fields, the pre-registration form must be created on the **system/401** folder, since this is the only folder to which anonymous users will be redirected. The information included in the form will be sent to CRM through the Master Data APIs ([see documentation](https://developers.vtex.com/reference/master-data-api-v2-overview)), that is, the development of a JavaScript file will be required for using this function. Check out [examples of HTML and JavaScript files](https://assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar "Example of HTML and JS")[ templates](https://assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar " templates") serving this purpose.
+Upon the definition of fields, the pre-registration form must be created on the **system/401** folder, since this is the only folder to which anonymous users will be redirected. The information included in the form will be sent to CRM through the Master Data APIs ([see documentation](https://developers.vtex.com/reference/master-data-api-v2-overview)), that is, the development of a JavaScript file will be required for using this function. Check out [examples of HTML and JavaScript files](//assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar "Example of HTML and JS")[ templates](//assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar " templates") serving this purpose.
 
 ## 5. Operation
 

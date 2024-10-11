@@ -9,7 +9,7 @@ firstPublishedAt: 2018-10-24T22:16:38.366Z
 contentType: tutorial
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
-slug: vtex-app-submission-guidelines-technical-requirements-for-a-successful-app
+slugEN: vtex-app-submission-guidelines-technical-requirements-for-a-successful-app
 locale: en
 legacySlug: vtex-app-submission-guidelines-technical-requirements-for-a-successful-app
 subcategoryId: 3e2VLdLao8GGk4sAmMmwmi

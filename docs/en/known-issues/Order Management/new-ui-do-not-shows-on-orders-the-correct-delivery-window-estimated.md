@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slug: new-ui-do-not-shows-on-orders-the-correct-delivery-window-estimated
+slugEN: new-ui-do-not-shows-on-orders-the-correct-delivery-window-estimated
 locale: en
 kiStatus: Backlog
 internalReference: 620668

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: my-credits-doesnt-show-the-paymentlink-invoice-even-if-the-field-is-set
+slugEN: my-credits-doesnt-show-the-paymentlink-invoice-even-if-the-field-is-set
 locale: en
 kiStatus: Fixed
 internalReference: 546267

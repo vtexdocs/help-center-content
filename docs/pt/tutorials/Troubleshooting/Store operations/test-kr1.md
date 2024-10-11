@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: VTEX IO
 author: 
-slug: test-kr1
+slugEN: test-kr1
 locale: pt
 legacySlug: test-kr1
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB

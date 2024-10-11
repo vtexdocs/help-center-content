@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: unexpected-reload-happening-when-registeringupdating-a-product
+slugEN: unexpected-reload-happening-when-registeringupdating-a-product
 locale: en
 kiStatus: Backlog
 internalReference: 863542

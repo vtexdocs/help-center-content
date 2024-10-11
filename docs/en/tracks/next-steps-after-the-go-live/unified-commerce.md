@@ -8,7 +8,7 @@ publishedAt: 2024-04-03T12:14:19.783Z
 firstPublishedAt: 2024-02-22T14:08:56.252Z
 contentType: trackArticle
 productTeam: Others
-slug: unified-commerce
+slugEN: unified-commerce
 locale: en
 trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: next-steps-after-the-go-live

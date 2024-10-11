@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:22.814Z
 contentType: tutorial
 productTeam: Channels
 author: authors_3
-slug: sending-products-to-the-marketplace
+slugEN: sending-products-to-the-marketplace
 locale: en
 legacySlug: sending-products-to-the-marketplace
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
@@ -33,7 +33,7 @@ Another possibility is to work with a specific mix. Through some differentiated 
 4. Check the checkbox of the sales policies to which this product should belong.
 5. Click on **Save**.
 
-![](https://images.contentful.com/alneenqid6w5/2Fp2Y3qFF6SCwQaQI2iEiC/fae0654d1685f1f625794180044ae6a6/loja-cadastro-produto.gif)
+![](//images.contentful.com/alneenqid6w5/2Fp2Y3qFF6SCwQaQI2iEiC/fae0654d1685f1f625794180044ae6a6/loja-cadastro-produto.gif)
 _If there are products that have no value indicated in the **loja** field in the product register or price register, such products will be send to all sales policies configured without a collection._
 
 ## Product indexation

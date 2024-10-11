@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2021-08-19T15:16:01.224Z
 contentType: trackArticle
 productTeam: Channels
-slug: configure-integration-of-pick-up-points
+slugEN: configure-integration-of-pick-up-points
 locale: en
 trackId: 
 trackSlugEN: mercado-libre-integration-set-up

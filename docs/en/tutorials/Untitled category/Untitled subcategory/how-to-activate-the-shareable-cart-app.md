@@ -9,7 +9,7 @@ firstPublishedAt: 2020-05-01T23:33:47.947Z
 contentType: tutorial
 productTeam: Apps
 author: 56yU9Wz6mLwmzo82TjgAHy
-slug: how-to-activate-the-shareable-cart-app
+slugEN: how-to-activate-the-shareable-cart-app
 locale: en
 legacySlug: how-to-activate-the-shareable-cart-app
 subcategoryId: unknown-subcategory
@@ -84,7 +84,7 @@ You can change the button colors on your store's cart sharing interface through 
 
 In the image below, option A shows the original colors and option B shows one possible customization.
 
-![shareable-cart-ui-customization](https://images.ctfassets.net/alneenqid6w5/7qzGILGsBqu6sD2n052VQl/ba27c3afc9c744907ac707f10658e8e1/shareable-cart-ui-customization.png)
+![shareable-cart-ui-customization](//images.ctfassets.net/alneenqid6w5/7qzGILGsBqu6sD2n052VQl/ba27c3afc9c744907ac707f10658e8e1/shareable-cart-ui-customization.png)
 
 The code below must be added at the end of the `checkout5-custom.css` or `checkout6-custom.css` file, available for customization in *Store Settings > Checkout > Code*. The file that should be edited depends on the version of the Checkout used by your store.
 

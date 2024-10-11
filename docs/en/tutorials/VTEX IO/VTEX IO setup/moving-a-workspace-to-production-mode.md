@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-22T01:41:19.074Z
 contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
-slug: moving-a-workspace-to-production-mode
+slugEN: moving-a-workspace-to-production-mode
 locale: en
 legacySlug: moving-a-workspace-to-production-mode
 subcategoryId: Z46a6rHVAaAucoiW0skQQ

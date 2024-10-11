@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
-slug: creating-a-campaign-benefit-teste
+slugEN: creating-a-campaign-benefit-teste
 locale: en
 legacySlug: creating-a-campaign-benefit-teste
 subcategoryId: unknown-subcategory

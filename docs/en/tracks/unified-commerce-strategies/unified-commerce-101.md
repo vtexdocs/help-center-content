@@ -8,7 +8,7 @@ publishedAt: 2023-07-26T18:50:02.780Z
 firstPublishedAt: 2020-06-30T20:45:00.959Z
 contentType: trackArticle
 productTeam: Shopping
-slug: unified-commerce-101
+slugEN: unified-commerce-101
 locale: en
 trackId: 3WGDRRhc3vf1MJb9zGncnv
 trackSlugEN: unified-commerce-strategies
@@ -26,7 +26,7 @@ In omnichannel, however, orders are still processed in isolation. Although there
 
 The __Unified Commerce__ solves this problem.
 
-![32. Unified Commerce 101 - 2 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/6IuAQNFiyqaUgcRLA2mSDP/673202ebbfa44580a9e737269b738b9c/32._Unified_Commerce_101_-_2_-_EN.png_h_250)
+![32. Unified Commerce 101 - 2 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/6IuAQNFiyqaUgcRLA2mSDP/673202ebbfa44580a9e737269b738b9c/32._Unified_Commerce_101_-_2_-_EN.png_h_250)
 
 Unified Commerce is an evolution of omnichannel: in addition to data sharing, this strategy also involves __unifying the order processing and management system__. In practice, this means that every order placed on one store channel is not only visible by other channels but can be processed by them.
 

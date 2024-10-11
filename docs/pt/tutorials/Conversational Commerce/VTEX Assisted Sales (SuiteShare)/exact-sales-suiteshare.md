@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T20:06:04.584Z
 contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: exact-sales-suiteshare
+slugEN: exact-sales-suiteshare
 locale: pt
 legacySlug: exact-sales-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
@@ -27,11 +27,11 @@ Selecione o **Exact sales** e clique em **Integrar**.
 
 Selecione o [**Formulário de captura**](https://help.vtex.com/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) que deseje conectar.
 
-![Exact Sales_2](https://images.ctfassets.net/alneenqid6w5/0GPE5ktROtM3W1vK8TXN1/06650c897c805a8fe61433efb6b37621/Exact_Sales_2.png)
+![Exact Sales_2](//images.ctfassets.net/alneenqid6w5/0GPE5ktROtM3W1vK8TXN1/06650c897c805a8fe61433efb6b37621/Exact_Sales_2.png)
 
 Dentro do Exact Sales, clique em **Configurações** e em [**“Integrações”**](https://app.exactsales.com.br/Configuracao/ConfiguracaoIntegracoes/Index).
 
-![Exact Sales_3](https://images.ctfassets.net/alneenqid6w5/36Q38y7U71P7DB6ZlomAi5/6421cdc93d6292958e5fddadf464dadc/Exact_Sales_3.png)
+![Exact Sales_3](//images.ctfassets.net/alneenqid6w5/36Q38y7U71P7DB6ZlomAi5/6421cdc93d6292958e5fddadf464dadc/Exact_Sales_3.png)
 
 Copie o token fornecido pela Exact Sales e cole dentro da VTEX Assisted Sales (SuiteShare). 
 

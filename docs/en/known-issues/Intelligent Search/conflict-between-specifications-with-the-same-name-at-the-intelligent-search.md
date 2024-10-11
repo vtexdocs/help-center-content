@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: conflict-between-specifications-with-the-same-name-at-the-intelligent-search
+slugEN: conflict-between-specifications-with-the-same-name-at-the-intelligent-search
 locale: en
 kiStatus: Fixed
 internalReference: 933958

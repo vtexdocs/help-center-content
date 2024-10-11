@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: seller-portal-promotion-minimum-item-price-condition-not-working-as-expected
+slugEN: seller-portal-promotion-minimum-item-price-condition-not-working-as-expected
 locale: en
 kiStatus: Backlog
 internalReference: 928558

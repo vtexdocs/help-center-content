@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: license-manager-access-for-sales-channel-management-is-not-working
+slugEN: license-manager-access-for-sales-channel-management-is-not-working
 locale: en
 kiStatus: Backlog
 internalReference: 380904

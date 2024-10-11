@@ -9,7 +9,7 @@ firstPublishedAt: 2018-06-21T22:31:36.348Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-vtex-standard-gateway
+slugEN: setting-up-vtex-standard-gateway
 locale: en
 legacySlug: setting-up-vtex-standard-gateway
 subcategoryId: unknown-subcategory

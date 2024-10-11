@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:52.166Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: how-to-set-up-the-connector-to-accept-payments-with-adyen-at-vtex
+slugEN: how-to-set-up-the-connector-to-accept-payments-with-adyen-at-vtex
 locale: en
 legacySlug: how-to-configure-the-adyen-gateway-on-vtex
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
@@ -96,7 +96,7 @@ If you intend Adyen's platform to manually revise the anti-fraud analysis of imp
 
 <ui>5. The configuration should appear as in the image below. Don't forget to click on **Save configuration** to save the changes.</ui>
 
-![Adyen - Image 1](https://images.ctfassets.net/alneenqid6w5/1K5aqITpHU74XYQ5eO7wKc/a29d285086d15dd28a596ab344d72763/image1.png)
+![Adyen - Image 1](//images.ctfassets.net/alneenqid6w5/1K5aqITpHU74XYQ5eO7wKc/a29d285086d15dd28a596ab344d72763/image1.png)
 
 ## VTEX Configuration
 

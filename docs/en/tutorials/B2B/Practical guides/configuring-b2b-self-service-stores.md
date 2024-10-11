@@ -9,7 +9,7 @@ firstPublishedAt: 2021-03-30T19:15:32.844Z
 contentType: tutorial
 productTeam: B2B
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: configuring-b2b-self-service-stores
+slugEN: configuring-b2b-self-service-stores
 locale: en
 legacySlug: configuring-b2b-self-service-stores
 subcategoryId: 2LrbEY7MFeKqmdfYLBCnfi

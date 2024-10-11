@@ -8,7 +8,7 @@ publishedAt: 2021-04-08T14:56:26.279Z
 firstPublishedAt: 2020-01-13T14:32:45.916Z
 contentType: trackArticle
 productTeam: Identity
-slug: what-are-permissions-and-access-profiles
+slugEN: what-are-permissions-and-access-profiles
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: accounts-and-permissions

@@ -8,7 +8,7 @@ publishedAt: 2024-02-08T11:31:30.622Z
 firstPublishedAt: 2018-11-06T20:24:15.191Z
 contentType: trackArticle
 productTeam: Financial
-slug: installing-customer-credit
+slugEN: installing-customer-credit
 locale: en
 trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugEN: customer-credit-getting-started

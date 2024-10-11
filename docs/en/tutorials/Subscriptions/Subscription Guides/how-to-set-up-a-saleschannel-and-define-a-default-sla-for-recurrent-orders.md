@@ -9,7 +9,7 @@ firstPublishedAt: 2017-05-05T18:28:48.785Z
 contentType: tutorial
 productTeam: Others
 author: 12efi1hBSg0ag6yCQMiaQu
-slug: how-to-set-up-a-saleschannel-and-define-a-default-sla-for-recurrent-orders
+slugEN: how-to-set-up-a-saleschannel-and-define-a-default-sla-for-recurrent-orders
 locale: en
 legacySlug: how-to-set-up-a-saleschannel-and-define-a-default-sla-for-recurrent-orders
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
@@ -40,5 +40,5 @@ Just include an attribute with the name `defaultSLA`, as illustrated in the setu
 
 Thereafter, the SLA set up will take preference over the cheaper SLA for the next orders created – whereby, if it has a delivery window, the first interval available will be selected.
 
-![transportadora.en](https://images.ctfassets.net/alneenqid6w5/5qOOw2KsCHgxP5XmbjmEMd/7b6d0aa40ae6f9e28c269ac42f5313d5/transportadora.en.png)
+![transportadora.en](//images.ctfassets.net/alneenqid6w5/5qOOw2KsCHgxP5XmbjmEMd/7b6d0aa40ae6f9e28c269ac42f5313d5/transportadora.en.png)
 *The screen showing the ID of the SLA*

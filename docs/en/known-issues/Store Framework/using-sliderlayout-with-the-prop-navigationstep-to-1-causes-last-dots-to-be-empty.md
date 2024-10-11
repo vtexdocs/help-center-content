@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: using-sliderlayout-with-the-prop-navigationstep-to-1-causes-last-dots-to-be-empty
+slugEN: using-sliderlayout-with-the-prop-navigationstep-to-1-causes-last-dots-to-be-empty
 locale: en
 kiStatus: Backlog
 internalReference: 910125

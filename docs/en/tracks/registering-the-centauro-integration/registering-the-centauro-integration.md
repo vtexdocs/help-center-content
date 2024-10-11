@@ -8,7 +8,7 @@ publishedAt: 2024-07-02T19:28:22.448Z
 firstPublishedAt: 2020-10-20T19:51:24.705Z
 contentType: trackArticle
 productTeam: Channels
-slug: registering-the-centauro-integration
+slugEN: registering-the-centauro-integration
 locale: en
 trackId: D8Qnjbr5lfLkUfMRhsfbj
 trackSlugEN: registering-the-centauro-integration

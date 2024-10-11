@@ -9,7 +9,7 @@ firstPublishedAt:
 contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
-slug: skus
+slugEN: skus
 locale: es
 legacySlug: skus
 subcategoryId: oMrzcOMVbBpH0reeMFHFg

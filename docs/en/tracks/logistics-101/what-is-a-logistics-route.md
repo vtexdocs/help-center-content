@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-10-21T12:45:29.271Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: what-is-a-logistics-route
+slugEN: what-is-a-logistics-route
 locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101

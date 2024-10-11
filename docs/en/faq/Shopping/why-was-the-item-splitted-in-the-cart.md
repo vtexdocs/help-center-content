@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:01:45.290Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_84
-slug: why-was-the-item-splitted-in-the-cart
+slugEN: why-was-the-item-splitted-in-the-cart
 locale: en
 legacySlug: why-was-the-item-splitted-in-the-cart
 ---

@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-export-does-not-show-sales-channels-when-none-are-tagged
+slugEN: catalog-export-does-not-show-sales-channels-when-none-are-tagged
 locale: en
 kiStatus: Backlog
 internalReference: 722001

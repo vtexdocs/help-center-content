@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-27T17:15:56.346Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
-slug: creating-merchandising-rules-manual-editor
+slugEN: creating-merchandising-rules-manual-editor
 locale: en
 legacySlug: creating-merchandising-rules-manual-editor
 subcategoryId: 32zXHBMygA2dB6TbCjQJej

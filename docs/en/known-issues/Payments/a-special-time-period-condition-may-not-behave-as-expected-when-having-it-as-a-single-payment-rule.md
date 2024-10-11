@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slug: a-special-time-period-condition-may-not-behave-as-expected-when-having-it-as-a-single-payment-rule
+slugEN: a-special-time-period-condition-may-not-behave-as-expected-when-having-it-as-a-single-payment-rule
 locale: en
 kiStatus: Backlog
 internalReference: 712575

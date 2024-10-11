@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T19:40:44.398Z
 contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: rdstation-crm-suiteshare
+slugEN: rdstation-crm-suiteshare
 locale: en
 legacySlug: rdstation-crm
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix

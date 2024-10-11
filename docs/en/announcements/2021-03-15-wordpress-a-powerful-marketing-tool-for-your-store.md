@@ -8,7 +8,7 @@ publishedAt: 2021-03-15T12:54:07.366Z
 contentType: updates
 productTeam: Others
 author: 5WE9zkDdoqqUMRbxIgmp1o
-slug: wordpress-a-powerful-marketing-tool-for-your-store
+slugEN: 2021-03-15-wordpress-a-powerful-marketing-tool-for-your-store
 locale: en
 legacySlug: wordpress-a-powerful-marketing-tool-for-your-store
 announcementImageID: ''

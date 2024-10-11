@@ -8,7 +8,7 @@ publishedAt: 2023-03-21T20:52:23.012Z
 firstPublishedAt: 2019-11-18T12:20:37.060Z
 contentType: trackArticle
 productTeam: Post-purchase
-slug: invoicing-an-order
+slugEN: invoicing-an-order
 locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-01T16:58:04.306Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: add-3ds-support-to-the-integration-with-adyen
+slugEN: add-3ds-support-to-the-integration-with-adyen
 locale: en
 legacySlug: add-3ds-support-to-the-integration-with-adyen
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

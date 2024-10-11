@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-08T18:18:09.369Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_24
-slug: identifying-whether-marketing-utms-are-being-passed-to-checkout
+slugEN: identifying-whether-marketing-utms-are-being-passed-to-checkout
 locale: en
 legacySlug: identifying-whether-marketing-utms-are-being-passed-to-checkout
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
@@ -33,7 +33,7 @@ To make sure the content of the `utm_source` parameter, for example, is being pa
 5. Refresh the page, and on the developer tools __Network__ tab, monitor the requests.
 6. Select the request __orderForm__.
 7. In the preview, open the `marketingData` node.
-8. Check the value of the `utmSource` field.![utmSource2](https://images.contentful.com/alneenqid6w5/3k5685cAUwy4uk4S2I6qGm/6595f50415b17965047c2023ffb46658/utmSource2.png)
+8. Check the value of the `utmSource` field.![utmSource2](//images.contentful.com/alneenqid6w5/3k5685cAUwy4uk4S2I6qGm/6595f50415b17965047c2023ffb46658/utmSource2.png)
 
 In the example above, note that the value of the `utm_source` parameter was correctly passed to the checkout, which entered this parameter in the orderForm, within the `utmSource` field.
 

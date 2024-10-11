@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: problems-adding-items-to-cart-in-io-that-have-attachments
+slugEN: problems-adding-items-to-cart-in-io-that-have-attachments
 locale: en
 kiStatus: Backlog
 internalReference: 429724

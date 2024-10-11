@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_41
 tag: OMS
-slug: discounts-on-recurring-purchases-v1-being-considered-as-manual-price
+slugEN: discounts-on-recurring-purchases-v1-being-considered-as-manual-price
 locale: en
 kiStatus: Open
 internalReference: 

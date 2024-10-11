@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:01:47.269Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_84
-slug: how-to-configure-mercadopago-transparente
+slugEN: how-to-configure-mercadopago-transparente
 locale: en
 legacySlug: 
 ---
@@ -49,4 +49,4 @@ These configurations take place on your Google TagManager.
 9. Click on the **Criar Tag **button, enter a name for this tag and Save;
 10. In the upper right-hand corner, click on **Publicar** and then on **Publicar****.**
 
-![](https://images.contentful.com/alneenqid6w5/32NgyD7KNqicqiASoIUEkK/892ab0a77b4bf2295dcb72d6335de49e/MercadoPagoTransparente_2_PT.gif)
+![](//images.contentful.com/alneenqid6w5/32NgyD7KNqicqiASoIUEkK/892ab0a77b4bf2295dcb72d6335de49e/MercadoPagoTransparente_2_PT.gif)

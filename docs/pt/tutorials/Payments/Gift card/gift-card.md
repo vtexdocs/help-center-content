@@ -1,15 +1,15 @@
 ---
 title: 'Configurar Vale-presente'
 id: tutorials_995
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T21:57:54.816Z
-updatedAt: 2024-01-19T19:16:50.349Z
-publishedAt: 2024-01-12T12:46:20.978Z
+updatedAt: 2024-09-25T20:41:36.406Z
+publishedAt: 2024-09-25T20:41:36.406Z
 firstPublishedAt: 2017-04-27T23:03:42.674Z
 contentType: tutorial
 productTeam: Financial
 author: authors_84
-slug: gift-card
+slugEN: gift-card
 locale: pt
 legacySlug: gift-card
 subcategoryId: 3qWeS7abxCyC0G0GMq42gA
@@ -104,8 +104,9 @@ Siga os passos abaixo para configurar o vale-presente:
 3. Clique no conector __Vale__.
 4. No topo da página, crie um __nome__ para essa condição de pagamento.
 5. Ative a condição no campo __Status__.
-6. Em __Processar com afiliação__, selecione o provedor de giftcard desejado.
-7. Clique em `Salvar`.
+6. Em __Processar com o provedor__, selecione o provedor de giftcard desejado.
+7. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
+8. Clique em `Salvar`.
 
 Além disso, você ainda pode definir condições especiais de pagamento para o vale-presente. Não há limite de condições de podem ser aplicadas a um meio de pagamento e especificamos como configurar cada uma delas [aqui](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456?locale=pt "aqui."). 
 
@@ -115,7 +116,7 @@ Por fim, clique no botão azul Salvar.
 
 Uma vez que o vale for criado, é possível gerenciá-lo de algumas formas pelo Admin. Desse modo, o usuário pode: 
 
-- Adicionar ou remover valor, desde que o vale seja “Recarregável”;
+- Adicionar ou remover valor, desde que o vale seja "Recarregável";
 - Visualizar o extrato;
 - Conferir em qual compra o vale foi utilizado;
 - Cancelar um vale.

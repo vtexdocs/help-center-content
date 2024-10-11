@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: meli-variation-attribute-is-duplicated-allowed-unique-attributes-combinations
+slugEN: meli-variation-attribute-is-duplicated-allowed-unique-attributes-combinations
 locale: en
 kiStatus: Backlog
 internalReference: 758331

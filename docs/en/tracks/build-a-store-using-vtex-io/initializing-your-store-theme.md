@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2019-02-19T19:50:29.572Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: initializing-your-store-theme
+slugEN: initializing-your-store-theme
 locale: en
 trackId: 5qJr8BIQXAKec9CpBWrTNv
 trackSlugEN: build-a-store-using-vtex-io
@@ -84,7 +84,7 @@ During a `link`, any changes you make to your code are automatically uploaded an
 
 Run `vtex link`  and watch your template app be compiled and published to the account and workspace you just created.
 
-![vtex-link](https://images.ctfassets.net/alneenqid6w5/1peFxCLM0kF9JvC8AmPeFi/9cef3e4e5e5877a744c15ca3f6e8db18/vtex-link.svg)
+![vtex-link](//images.ctfassets.net/alneenqid6w5/1peFxCLM0kF9JvC8AmPeFi/9cef3e4e5e5877a744c15ca3f6e8db18/vtex-link.svg)
 
 >ℹ️ Remember: run `vtex whoami` to make sure you are in the correct account and in a test workspace, otherwise `VTEX Toolbelt` will complain about linking directly to master.
 
@@ -100,4 +100,4 @@ The `{{account}}.myvtex.com` is your private domain for testing new workspaces, 
 
 Congratulations on linking your first VTEX IO App!
 
-![dreamstore](https://images.ctfassets.net/alneenqid6w5/7G77GAWEmdysNJ2JBYaAI8/6b2bc7f47f994242c8a853e84e3f0b67/dreamstore.svg)
+![dreamstore](//images.ctfassets.net/alneenqid6w5/7G77GAWEmdysNJ2JBYaAI8/6b2bc7f47f994242c8a853e84e3f0b67/dreamstore.svg)

@@ -9,7 +9,7 @@ firstPublishedAt: 2018-03-27T22:13:40.899Z
 contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
-slug: setting-up-payu-gateway
+slugEN: setting-up-payu-gateway
 locale: en
 legacySlug: setting-up-payu-gateway
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

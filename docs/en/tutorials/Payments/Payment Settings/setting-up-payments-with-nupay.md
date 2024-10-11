@@ -9,7 +9,7 @@ firstPublishedAt: 2022-07-19T18:24:09.993Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-nupay
+slugEN: setting-up-payments-with-nupay
 locale: en
 legacySlug: setting-up-payments-with-nupay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

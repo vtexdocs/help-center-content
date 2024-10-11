@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slug: payment-terms-changes-not-applied-in-the-b2b-checkout-settings
+slugEN: payment-terms-changes-not-applied-in-the-b2b-checkout-settings
 locale: en
 kiStatus: Fixed
 internalReference: 1019548

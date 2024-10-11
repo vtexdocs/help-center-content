@@ -9,7 +9,7 @@ firstPublishedAt: 2021-07-05T13:34:09.043Z
 contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
-slug: configuring-mercado-pagos-device-fingerprint
+slugEN: configuring-mercado-pagos-device-fingerprint
 locale: en
 legacySlug: configuring-mercado-pagos-device-fingerprint
 subcategoryId: unknown-subcategory
@@ -67,7 +67,7 @@ To ensure the Device Fingerprint feature is operating properly, you must analyze
 6. Then, send the transaction ID to the Mercado Pago support team. You can find this ID in the <b>authorizationConnectorResponse</b> field.
   </ui>
 
-![Authorization](https://images.ctfassets.net/alneenqid6w5/5FTRfpgGc7HJZUNaZicEb4/1d84e9df5bb987aa4b3acf9a0f1904e1/AUTHORIZATION.png)
+![Authorization](//images.ctfassets.net/alneenqid6w5/5FTRfpgGc7HJZUNaZicEb4/1d84e9df5bb987aa4b3acf9a0f1904e1/AUTHORIZATION.png)
 
 <ui>
 7. Copy the ID and <a href=https://www.mercadopago.com.br/developers/en/support>send an email</a> with this information to Mercado Pago requesting them to validate the transaction. 

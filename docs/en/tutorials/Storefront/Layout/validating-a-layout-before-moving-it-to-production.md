@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:11:50.821Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
-slug: validating-a-layout-before-moving-it-to-production
+slugEN: validating-a-layout-before-moving-it-to-production
 locale: en
 legacySlug: validating-a-layout-before-moving-it-to-production
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -53,7 +53,7 @@ Another alternative that allows you to test layout changes before moving to prod
 
 To find the `WID`, visit the web site. It sits on the first field of the webpage screen: __WebSite Id__.
 
-![wid](https://images.contentful.com/alneenqid6w5/ghvd0wl9HqGu2KCWW2Yu2/5e27a13e79134f7ba89863ccd54031a6/wid.png)
+![wid](//images.contentful.com/alneenqid6w5/ghvd0wl9HqGu2KCWW2Yu2/5e27a13e79134f7ba89863ccd54031a6/wid.png)
 
 Remember that although with the duplication of the web site you can change the layouts of the new web site independently, they will consume the same templates as the original web site. 
 

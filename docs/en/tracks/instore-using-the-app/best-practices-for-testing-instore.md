@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T16:11:02.310Z
 firstPublishedAt: 2021-12-08T17:57:54.529Z
 contentType: trackArticle
 productTeam: Shopping
-slug: best-practices-for-testing-instore
+slugEN: best-practices-for-testing-instore
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-using-the-app

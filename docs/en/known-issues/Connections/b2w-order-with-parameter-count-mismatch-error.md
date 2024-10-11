@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: b2w-order-with-parameter-count-mismatch-error
+slugEN: b2w-order-with-parameter-count-mismatch-error
 locale: en
 kiStatus: Fixed
 internalReference: 776361

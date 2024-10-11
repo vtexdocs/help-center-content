@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: reorder-collection-failing-for-large-collections
+slugEN: reorder-collection-failing-for-large-collections
 locale: en
 kiStatus: Backlog
 internalReference: 408140

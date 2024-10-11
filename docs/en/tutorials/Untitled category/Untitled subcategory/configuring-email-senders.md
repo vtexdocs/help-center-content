@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:54.929Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_6
-slug: configuring-email-senders
+slugEN: configuring-email-senders
 locale: en
 legacySlug: configuring-email-senders
 subcategoryId: unknown-subcategory
@@ -19,4 +19,4 @@ This step assures that emails sent by the store arrive to customers with the sen
 
 _The video presented in this tutorial has not yet been translated to english. We are working to offer more english-language content. Thank you for the comprehension._
 
-<video class="wp-video-shortcode" id="video-2578-2" width="840" height="473" preload="metadata" controls="controls"><source type="video/mp4" src="https://assets.contentful.com/alneenqid6w5/2yTQrL86mE62mI2UgCoqkC/cedc4f1ebe8ffcd2521f96338907dc3d/remetente.mp4?_=2" /></video>
+<video class="wp-video-shortcode" id="video-2578-2" width="840" height="473" preload="metadata" controls="controls"><source type="video/mp4" src="//assets.contentful.com/alneenqid6w5/2yTQrL86mE62mI2UgCoqkC/cedc4f1ebe8ffcd2521f96338907dc3d/remetente.mp4?_=2" /></video>

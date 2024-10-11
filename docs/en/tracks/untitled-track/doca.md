@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 
 contentType: trackArticle
 productTeam: unknown
-slug: doca
+slugEN: doca
 locale: en
 trackId: 
 trackSlugEN: untitled-track

@@ -9,7 +9,7 @@ firstPublishedAt: 2017-08-14T23:19:38.584Z
 contentType: tutorial
 productTeam: Shopping
 author: 3uCjaRpzeMieQWwWycYAMG
-slug: how-to-configure-extra-fields-in-instore-cart
+slugEN: how-to-configure-extra-fields-in-instore-cart
 locale: en
 legacySlug: how-to-configure-extra-fields-in-instore-cart
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
@@ -27,4 +27,4 @@ Example used for the "inStore" store:
 
 Example of POST request:
 
-![2017-08-14 20 11 18-Postman](https://images.contentful.com/alneenqid6w5/6QIwIi5IBiy4qCyu2qseey/538d03ceb7f47ea0e47eb8047b931da6/2017-08-14_20_11_18-Postman.png)
+![2017-08-14 20 11 18-Postman](//images.contentful.com/alneenqid6w5/6QIwIi5IBiy4qCyu2qseey/538d03ceb7f47ea0e47eb8047b931da6/2017-08-14_20_11_18-Postman.png)

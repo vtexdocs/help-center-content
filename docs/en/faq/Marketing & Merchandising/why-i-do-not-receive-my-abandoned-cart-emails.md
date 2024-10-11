@@ -9,7 +9,7 @@ firstPublishedAt: 2019-03-15T17:15:34.657Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 6JCq5z9N5xvlHKhhoEcvjM
-slug: why-i-do-not-receive-my-abandoned-cart-emails
+slugEN: why-i-do-not-receive-my-abandoned-cart-emails
 locale: en
 legacySlug: why-i-do-not-receive-my-abandoned-cart-emails
 ---

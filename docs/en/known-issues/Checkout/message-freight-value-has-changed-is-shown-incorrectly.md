@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: message-freight-value-has-changed-is-shown-incorrectly
+slugEN: message-freight-value-has-changed-is-shown-incorrectly
 locale: en
 kiStatus: Backlog
 internalReference: 775515

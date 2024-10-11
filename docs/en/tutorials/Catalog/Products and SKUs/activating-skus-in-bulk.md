@@ -9,7 +9,7 @@ firstPublishedAt: 2018-01-30T14:20:27.722Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
-slug: activating-skus-in-bulk
+slugEN: activating-skus-in-bulk
 locale: en
 legacySlug: activating-bulk-skus
 subcategoryId: pwxWmUu7T222QyuGogs68

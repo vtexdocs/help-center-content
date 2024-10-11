@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:40.648Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: search-control-fulltextsearchbox
+slugEN: search-control-fulltextsearchbox
 locale: en
 legacySlug: search-control-fulltextsearchbox
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
@@ -73,9 +73,9 @@ The autocomplete functionality is already provided for in this control, and it i
 
 Examples of how the control can be customized:
 
-![](https://images.contentful.com/alneenqid6w5/BMzmz8NA0o4SQqUO8ow4Y/5c6d179a8fca8a3efaf981c05203c061/controle-busca-autocomplete-560x318.png)
+![](//images.contentful.com/alneenqid6w5/BMzmz8NA0o4SQqUO8ow4Y/5c6d179a8fca8a3efaf981c05203c061/controle-busca-autocomplete-560x318.png)
 
-![](https://images.contentful.com/alneenqid6w5/5TiDgTywScWuAcC24wmeIu/58acad8f8151f8803251679453627968/controle-busca-exemplo-560x43.png)
+![](//images.contentful.com/alneenqid6w5/5TiDgTywScWuAcC24wmeIu/58acad8f8151f8803251679453627968/controle-busca-exemplo-560x43.png)
 
-![](https://images.contentful.com/alneenqid6w5/2X2lkCGHdSIaok08yYKCYO/6bef8f3e0c0b11313479226c0174e093/controle-busca-exemplo1.png)
+![](//images.contentful.com/alneenqid6w5/2X2lkCGHdSIaok08yYKCYO/6bef8f3e0c0b11313479226c0174e093/controle-busca-exemplo1.png)
 

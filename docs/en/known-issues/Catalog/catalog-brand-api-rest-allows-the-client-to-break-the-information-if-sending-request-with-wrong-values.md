@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: catalog-brand-api-rest-allows-the-client-to-break-the-information-if-sending-request-with-wrong-values
+slugEN: catalog-brand-api-rest-allows-the-client-to-break-the-information-if-sending-request-with-wrong-values
 locale: en
 kiStatus: Fixed
 internalReference: 269109

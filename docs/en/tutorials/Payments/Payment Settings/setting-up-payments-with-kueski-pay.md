@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-10T17:13:39.881Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: setting-up-payments-with-kueski-pay
+slugEN: setting-up-payments-with-kueski-pay
 locale: en
 legacySlug: setting-up-payments-with-kueski-pay
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

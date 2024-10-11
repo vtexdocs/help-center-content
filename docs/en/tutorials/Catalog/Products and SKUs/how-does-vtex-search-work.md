@@ -9,7 +9,7 @@ firstPublishedAt: 2017-04-27T23:03:37.560Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slug: how-does-vtex-search-work
+slugEN: how-does-vtex-search-work
 locale: en
 legacySlug: how-does-vtex-search-work
 subcategoryId: pwxWmUu7T222QyuGogs68

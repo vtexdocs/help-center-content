@@ -8,7 +8,7 @@ publishedAt:
 firstPublishedAt: 2018-06-14T19:49:34.062Z
 contentType: trackArticle
 productTeam: VTEX IO
-slug: production
+slugEN: production
 locale: en
 trackId: 2qYWraccosS2ayg2kusaUo
 trackSlugEN: vtex-io-getting-started

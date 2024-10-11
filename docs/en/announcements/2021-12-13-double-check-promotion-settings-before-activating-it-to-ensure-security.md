@@ -8,7 +8,7 @@ publishedAt: 2021-12-14T13:00:47.182Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slug: double-check-promotion-settings-before-activating-it-to-ensure-security
+slugEN: 2021-12-13-double-check-promotion-settings-before-activating-it-to-ensure-security
 locale: en
 legacySlug: double-check-promotion-settings
 announcementImageID: ''

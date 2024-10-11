@@ -8,7 +8,7 @@ publishedAt: 2019-12-31T15:13:31.749Z
 contentType: updates
 productTeam: Reliability
 author: authors_24
-slug: all-stores-have-until-april-20th-to-activate-the-new-cdn
+slugEN: 2018-01-19-all-stores-have-until-april-20th-to-activate-the-new-cdn
 locale: en
 legacySlug: all-stores-have-until-april-20th-to-activate-the-new-cdn
 announcementImageID: ''

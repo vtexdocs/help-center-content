@@ -9,7 +9,7 @@ firstPublishedAt: 2018-02-06T21:34:32.094Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
-slug: how-to-create-a-store-name
+slugEN: how-to-create-a-store-name
 locale: en
 legacySlug: how-to-create-a-store-name
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma

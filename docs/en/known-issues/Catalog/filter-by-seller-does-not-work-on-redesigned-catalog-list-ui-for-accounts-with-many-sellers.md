@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: filter-by-seller-does-not-work-on-redesigned-catalog-list-ui-for-accounts-with-many-sellers
+slugEN: filter-by-seller-does-not-work-on-redesigned-catalog-list-ui-for-accounts-with-many-sellers
 locale: en
 kiStatus: Backlog
 internalReference: 1075106

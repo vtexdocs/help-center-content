@@ -8,7 +8,7 @@ publishedAt: 2020-09-15T21:42:08.090Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
-slug: feature-removal-discontinuing-the-use-of-maximum-price-per-item-feature
+slugEN: 2019-04-05-feature-removal-discontinuing-the-use-of-maximum-price-per-item-feature
 locale: en
 legacySlug: feature-removal-discontinuing-the-use-of-maximun-price-per-item-feature
 announcementImageID: ''

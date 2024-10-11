@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: exclude-products-from-collection-not-working
+slugEN: exclude-products-from-collection-not-working
 locale: en
 kiStatus: Backlog
 internalReference: 923016

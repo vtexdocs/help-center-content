@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: cart-itens-are-kept-in-orders-with-total-value-zero
+slugEN: cart-itens-are-kept-in-orders-with-total-value-zero
 locale: en
 kiStatus: Backlog
 internalReference: 1054999

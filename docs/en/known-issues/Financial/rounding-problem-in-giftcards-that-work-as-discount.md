@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: authors_84
 tag: Checkout,Order Management
-slug: rounding-problem-in-giftcards-that-work-as-discount
+slugEN: rounding-problem-in-giftcards-that-work-as-discount
 locale: en
 kiStatus: Backlog
 internalReference: 

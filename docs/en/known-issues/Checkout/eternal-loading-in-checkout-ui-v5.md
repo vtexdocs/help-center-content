@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: eternal-loading-in-checkout-ui-v5
+slugEN: eternal-loading-in-checkout-ui-v5
 locale: en
 kiStatus: Backlog
 internalReference: 332740

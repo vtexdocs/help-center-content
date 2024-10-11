@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: minicart-error-when-updating-promotion
+slugEN: minicart-error-when-updating-promotion
 locale: en
 kiStatus: Backlog
 internalReference: 552633

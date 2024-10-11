@@ -9,7 +9,7 @@ firstPublishedAt: 2020-09-22T14:37:14.174Z
 contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
-slug: configuring-maximum-automatic-payment-settlement-time-frame
+slugEN: configuring-maximum-automatic-payment-settlement-time-frame
 locale: en
 legacySlug: configuring-maximum-payment-capture-time-frame
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw

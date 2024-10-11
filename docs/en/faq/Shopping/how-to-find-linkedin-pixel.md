@@ -9,7 +9,7 @@ firstPublishedAt: 2022-08-30T17:38:12.643Z
 contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
-slug: how-to-find-linkedin-pixel
+slugEN: how-to-find-linkedin-pixel
 locale: en
 legacySlug: how-to-find-linkedin-pixel
 ---

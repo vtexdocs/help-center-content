@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:55:45.541Z
 contentType: tutorial
 productTeam: Post-purchase
 author: authors_41
-slug: how-to-capture-the-ip-of-an-order
+slugEN: how-to-capture-the-ip-of-an-order
 locale: en
 legacySlug: how-to-capture-the-ip-of-an-order
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
@@ -25,7 +25,7 @@ When you open an order, click "See transaction details" in the payment box:
 
 Finally, the IP is visualized on the top right corner:
 
-![ip pedido2 EN](https://images.ctfassets.net/alneenqid6w5/5TFz9FxDAQiwcuGCmcYoCu/315612e531df7562d33b80398bc80ef9/ip_pedido2_EN.png)
+![ip pedido2 EN](//images.ctfassets.net/alneenqid6w5/5TFz9FxDAQiwcuGCmcYoCu/315612e531df7562d33b80398bc80ef9/ip_pedido2_EN.png)
 
 See more details on [How to visualize the order detail](/en/tutorial/how-to-view-the-orders-details)
 

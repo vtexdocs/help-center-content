@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T22:02:37.712Z
 contentType: tutorial
 productTeam: Identity
 author: authors_84
-slug: how-can-i-change-the-domain-of-my-store
+slugEN: how-can-i-change-the-domain-of-my-store
 locale: en
 legacySlug: how-can-i-change-the-domain-of-my-store
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma

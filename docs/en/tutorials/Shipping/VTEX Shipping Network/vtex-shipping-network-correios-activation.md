@@ -9,7 +9,7 @@ firstPublishedAt: 2023-08-31T14:36:56.281Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slug: vtex-shipping-network-correios-activation
+slugEN: vtex-shipping-network-correios-activation
 locale: en
 legacySlug: vtex-shipping-network-correios-activation
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib

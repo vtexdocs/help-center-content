@@ -9,7 +9,7 @@ firstPublishedAt: 2024-06-25T16:11:51.825Z
 contentType: tutorial
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slug: whatsapp-ai-campaigns-management-and-details
+slugEN: whatsapp-ai-campaigns-management-and-details
 locale: en
 legacySlug: whatsapp-ai-campaigns-management-and-details
 subcategoryId: 4SC2gPmUH3cHD5HjGfQ5Vg

@@ -9,7 +9,7 @@ firstPublishedAt: 2021-05-25T20:17:12.408Z
 contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
-slug: how-trade-policies-work
+slugEN: how-trade-policies-work
 locale: en
 legacySlug: how-does-a-trade-policy-work
 subcategoryId: 6J3wx7KM4oysymsWuUACyY
