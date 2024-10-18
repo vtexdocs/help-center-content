@@ -169,7 +169,7 @@ function getNews() {
     const fileDate = new Date(file.substring(0, 10)); // Extract date from file name prefix
     const year = fileDate.getUTCFullYear();
     const month = fileDate.getUTCMonth();
-  
+
     if (!news[year]) {
       news[year] = months.map((month) => ({
         name: month,
@@ -179,7 +179,7 @@ function getNews() {
         children: []
       }));
     }
-  
+
     const enSlug = file.replace('.md', '');
     const titleMatch = content.match(/(?:^|\n)title:\s*["'](.*?)["']/);
     const title = titleMatch[1];
@@ -228,7 +228,7 @@ function getNews() {
       children: []
     });
   });
-  
+
   const newsCategories = [];
   for (const year in news) {
     newsCategories.push({
@@ -243,6 +243,14 @@ function getNews() {
       children: news[year].filter((e) => e.children.length > 0)
     });
   }
+
+  // Sort years from most recent to oldest
+  newsCategories.sort((a, b) => b.name.en - a.name.en);
+
+  // Sort months within each year from most recent to oldest
+  newsCategories.forEach(yearCategory => {
+    yearCategory.children.sort((a, b) => months.findIndex(m => m.en === b.name.en) - months.findIndex(m => m.en === a.name.en));
+  });
 
   return newsCategories;
 }
