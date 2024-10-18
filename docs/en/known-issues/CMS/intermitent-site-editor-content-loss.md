@@ -3,8 +3,8 @@ title: 'Intermitent Site Editor content loss'
 id: 3a5MlAoD2Z7Gu6HDS8wihD
 status: PUBLISHED
 createdAt: 2022-07-05T17:07:24.733Z
-updatedAt: 2024-10-03T15:25:39.202Z
-publishedAt: 2024-10-03T15:25:39.202Z
+updatedAt: 2024-10-07T18:02:10.882Z
+publishedAt: 2024-10-07T18:02:10.882Z
 firstPublishedAt: 2022-07-05T17:07:25.091Z
 contentType: knownIssue
 productTeam: CMS
@@ -32,7 +32,7 @@ The content from the workspace is not taken into the master environment after th
 The scenario is intermittent. However, it has been reported in two different scenarios:
 
 **1. When promoting a production workspace to master:**
-This is the step to step where normally this issue occurs:
+This issue is new and different from the previous one that originated this KI. This has been happening since Jan/2024 when we introduced the `content_render.json`.  This is the step to step where normally this issue occurs:
 
 1.1 Creation of a production workspace;
 
@@ -44,12 +44,12 @@ This is the step to step where normally this issue occurs:
 
 
 
-Remember that in this case, the `content.json` file and the `content_render.js `file can have different information, so the content will only be "lost" after updating something on the site editor. This means the content will not necessarily be lost right after promoting the workspace.
+Remember that in this case, the `content.json` file and the `content_render.js `file can have different information, so the content will only be "lost" after updating something on the site editor. This means the content will not necessarily be lost right after promoting the workspace. It is also important to notice that the loss is just partial (only the content created on the workspace is affected).
 
 **2. When installing a new version in a test workspace:**
 Customers reported that when installing a new theme version in a test workspace, the content of the category pages was deleted.
 
-_Update: This scenario was solved due to a fix made on the_ `pages-graphql`_app_
+This normally happens due to changes in the project structure, such as treepaths. It is important to remember that if a change in the treepath is required, the content should be added again.
 
 
 ##

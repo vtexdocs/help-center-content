@@ -3,8 +3,8 @@ title: 'Web Application Firewall (WAF)'
 id: 6BZYLlU03ws72iqIFF6jdn
 status: PUBLISHED
 createdAt: 2024-04-25T00:17:16.172Z
-updatedAt: 2024-04-30T15:03:41.186Z
-publishedAt: 2024-04-30T15:03:41.186Z
+updatedAt: 2024-10-18T17:04:59.360Z
+publishedAt: 2024-10-18T17:04:59.360Z
 firstPublishedAt: 2024-04-25T01:16:27.468Z
 contentType: tutorial
 productTeam: Others
@@ -47,9 +47,9 @@ Para solicitar la activación de WAF en tu tienda, ponte en contacto con el[ sop
 
 * URL que se añadirán a WAF.
 * Nombre y datos de contacto de la persona que será el punto de contacto con el equipo de seguridad de VTEX durante el proceso de activación.
-* Proveedor: para tener acceso a WAF, todo el tráfico de URL de la tienda debe pasar por [Azion](https://www.azion.com/es/), el proveedor que VTEX utiliza actualmente. De no ser ese el caso, debes llevar a cabo un procedimiento con el equipo de tráfico de VTEX que puede durar entre una y dos semanas.
+* Proveedor: para tener acceso a WAF, todo el tráfico de URL de la tienda debe pasar por el proveedor que VTEX utiliza actualmente. De no ser ese el caso, debes llevar a cabo un procedimiento con el equipo de tráfico de VTEX que puede durar entre una y dos semanas.
 
-Después de la solicitud, el plazo de activación de WAF en las URL de la tienda es de cuatro semanas, además del plazo necesario para la migración a [Azion](https://www.azion.com/es/), de ser necesario.
+Después de la solicitud, el plazo de activación de WAF en las URL de la tienda es de cuatro semanas, además del plazo necesario para la migración al proveedor, de ser necesario.
 
 ## Más información
 

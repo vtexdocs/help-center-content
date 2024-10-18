@@ -3,8 +3,8 @@ title: 'Search behavior'
 id: B9o3JbV6utAinBJ1ETujs
 status: PUBLISHED
 createdAt: 2024-06-27T17:30:43.356Z
-updatedAt: 2024-09-19T12:59:01.022Z
-publishedAt: 2024-09-19T12:59:01.022Z
+updatedAt: 2024-10-03T23:11:03.742Z
+publishedAt: 2024-10-03T23:11:03.742Z
 firstPublishedAt: 2024-06-27T17:33:21.153Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -76,9 +76,9 @@ Determines which product information is searchable. From this configuration, eve
 
 | Information | Configuration |
 | - | - |
-| Product name, brand, product ID (`ProductID`), product reference code (`ProductRefID`), SKU ID (`SKUID`), SKU reference code (`SKURefID`), and EAN  | This information is searchable by default in VTEX Intelligent Search. To remove any of this information, please contact our [Support](https://help.vtex.com/support?/cultureInfo=en-us). |
-| Product and SKU specifications | To include the desired specifications as searchable fields, you must configure the **Searchable specifications** option in the VTEX Admin, under **Intelligent Search > Search Settings**.<br /><br /> For example, if a shirt doesn't have the color in the product name or SKU, by default, Intelligent Search won't identify this attribute in a search for "blue shirt", displaying shirts of different colors as results. However, if the color specification is configured as searchable, the search will likely return blue shirts at the top of search results.<br /><br /> For more details about defining searchable specifications, check out the [Search configuration](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#general-settings) guide. Learn more about specifications in [Product and SKU specifications](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP). |
-| Manufacturer code (`ManufactureID`) | Please contact our [Support](https://help.vtex.com/support?/cultureInfo=en-us) to set this field as searchable. |
+| <ul><li>Product name</li><li>Brand</li><li>Product ID (`ProductID`)</li><li>Product reference code (`ProductRefID`)</li><li>SKU ID (`SKUID`)</li><li>SKU reference code (`SKURefID`)</li><li>EAN</li></ul>  | Information that is searchable by default in VTEX Intelligent Search. To remove any of this information, please contact our [Support](https://help.vtex.com/support?/cultureInfo=en-us). |
+| <ul><li>Product specifications</li><li>SKU specifications</li></ul> | To include the desired specifications as searchable fields, you must configure the **Searchable specifications** option in the VTEX Admin, under **Intelligent Search > Search Settings**.<br /><br /> For example, if a shirt doesn't have the color in the product name or SKU, by default, Intelligent Search won't identify this attribute in a search for "blue shirt", displaying shirts of different colors as results. However, if the color specification is configured as searchable, the search will likely return blue shirts at the top of search results.<br /><br /> For more details about defining searchable specifications, check out the [Search configuration](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#general-settings) guide. Learn more about specifications in [Product and SKU specifications](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP). |
+| <ul><li>Manufacturer code (`ManufactureID`)</li><li>Department</li><li>Category</li><li>Subcategory</li></ul> | Please contact our [Support](https://help.vtex.com/support?/cultureInfo=en-us) to set these fields as searchable. |
 
 For example: The "color" specification is set as searchable and the product was added with the name "Nike Total 90 Sneakers" and the color "black". If a customer searches for "Black Sneakers", the tool will return products that have the term "sneakers" and the color "black" at the top of search results.
 

@@ -3,8 +3,8 @@ title: 'Las etiquetas canónicas no se aplican a partir del tercer nivel de cate
 id: 6HU8WLT5yVRBqeBmGgYRsi
 status: PUBLISHED
 createdAt: 2023-11-08T13:31:23.182Z
-updatedAt: 2024-02-19T19:24:10.757Z
-publishedAt: 2024-02-19T19:24:10.757Z
+updatedAt: 2024-10-10T14:50:38.058Z
+publishedAt: 2024-10-10T14:50:38.058Z
 firstPublishedAt: 2023-11-08T13:31:24.275Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -21,7 +21,7 @@ internalReference: 932349
 >ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
-Las etiquetas canónicas no se aplican después del 3er nivel de categoría cuando se tiene un árbol de categorías con más de 3 niveles (departamento, categoría y subcategoría), los otros niveles por encima no se muestran en canónica
+Las etiquetas canónicas no se aplican después del 3er nivel de categoría cuando se tiene un árbol de categorías con más de 3 niveles (departamento, categoría y subcategoría), los otros niveles por encima no se muestran en canónica. La única excepción es cuando las rutas se almacenan en rewriter.
 
 
 ##
@@ -39,9 +39,8 @@ Las etiquetas canónicas no se aplican después del 3er nivel de categoría cuan
 ## Workaround
 
 
-No hay ninguna solución disponible.
+Ejecute la consulta bootstrap en la regrabadora vtex.routes-bootstrap@0.x:
 
 
-
-
+    {bootstrap{categories}}
 

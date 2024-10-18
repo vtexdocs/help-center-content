@@ -1,9 +1,9 @@
 ---
 title: 'Marketplace Magazine Luiza'
 id: 5CEVGKgtrMuifbjNoo8jKX
-status: PUBLISHED
+status: CHANGED
 createdAt: 2021-03-16T19:41:45.000Z
-updatedAt: 2024-09-16T20:17:08.702Z
+updatedAt: 2024-10-08T21:59:47.278Z
 publishedAt: 2024-09-16T20:17:08.702Z
 firstPublishedAt: 2021-03-18T14:15:52.422Z
 contentType: trackArticle

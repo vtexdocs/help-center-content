@@ -3,8 +3,8 @@ title: 'Security Monitor'
 id: 5LOVNLrrtmgSj99pM1NS4x
 status: PUBLISHED
 createdAt: 2024-04-25T00:42:30.944Z
-updatedAt: 2024-04-25T03:01:13.448Z
-publishedAt: 2024-04-25T03:01:13.448Z
+updatedAt: 2024-10-10T14:12:24.884Z
+publishedAt: 2024-10-10T14:12:24.884Z
 firstPublishedAt: 2024-04-25T02:41:44.798Z
 contentType: tutorial
 productTeam: Identity
@@ -53,7 +53,7 @@ A aba apresenta a listagem completa de descobertas abertas em uma tabela, da mai
 | Colunas | Descrição |
 | --- | --- |
 | Descoberta | Email de usuário ou chave de aplicação relacionada à descoberta. |
-| Tipo | Tipo de descoberta detectada:<br/><ul><li><strong>Chaves de App antigas:</strong> <a href="https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">chaves de aplicação</a> que foram criadas há mais de 6 meses.</li><li><strong>Super Admin Excessivos:</strong> usuários ou chaves de aplicação com o <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">perfil de acesso</a> <strong>Owner (Admin Super)</strong>.</li><li><strong>Chaves de App Vazadas:</strong> <a href="https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">chaves de aplicação</a> que foram expostas na web, encontradas pelo time de Segurança da VTEX.</li><li><strong>Usuários Inativos:</strong> usuário que não acessou o Admin nos últimos 30 dias.</li></ul> |
+| Tipo | Tipo de descoberta detectada:<br/><ul><li><strong>Chaves de App antigas:</strong> <a href="https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">chaves de aplicação</a> que foram criadas há mais de 6 meses.</li><li><strong>Super Admin Excessivos:</strong> usuários ou chaves de aplicação com o <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">perfil de acesso</a> <strong>Owner (Admin Super)</strong>.</li><li><strong>Chaves de App Vazadas:</strong> <a href="https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">chaves de aplicação</a> que foram expostas na web, encontradas pelo time de Segurança da VTEX.</li><li><strong>Usuários Inativos:</strong> usuário que não acessou o Admin nos últimos 30 dias.</li><li><strong>Permissões Excessivas:</strong> usuários ou chaves de aplicação com acesso a recursos que não utilizaram nos últimos 30 dias.</li></ul> |
 | Detectada | Data em que a descoberta foi detectada. |
 | Sensor | Sensor que detectou a ameaça: <br/><ul><li><strong>VTEX Identity</strong></li></ul> |
 | Severidade | Nível de severidade da ameaça, determinado pelo impacto ou potencial risco: <br/><ul><li><strong>Alta</strong></li> <li><strong>Média</strong></li><li><strong>Baixa</strong></li></ul> |

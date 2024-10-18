@@ -3,8 +3,8 @@ title: 'Promoção na página de busca do Sales App'
 id: 2g9JmTLKYASz8jxme2pyc9
 status: PUBLISHED
 createdAt: 2024-08-19T11:11:42.781Z
-updatedAt: 2024-08-20T13:54:03.140Z
-publishedAt: 2024-08-20T13:54:03.140Z
+updatedAt: 2024-10-18T12:07:33.298Z
+publishedAt: 2024-10-18T12:07:33.298Z
 firstPublishedAt: 2024-08-20T13:54:03.140Z
 contentType: tutorial
 productTeam: Shopping

@@ -3,13 +3,13 @@ title: 'Recusar solicitação de cancelamento do pedido'
 id: F2n0h1TeQ5td540Gjyff4
 status: PUBLISHED
 createdAt: 2023-09-21T02:29:56.663Z
-updatedAt: 2024-04-01T15:47:27.833Z
-publishedAt: 2024-04-01T15:47:27.833Z
+updatedAt: 2024-10-11T21:30:57.446Z
+publishedAt: 2024-10-11T21:30:57.446Z
 firstPublishedAt: 2023-09-21T16:08:07.567Z
 contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: declining-order-cancelation
+slugEN: declining-order-cancellation
 locale: pt
 legacySlug: negacao-de-cancelamento-de-pedido
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY

@@ -3,8 +3,8 @@ title: 'Configurar pago con EgetnetV2'
 id: 6jfBE8ocN5T0xQo8BTGH31
 status: PUBLISHED
 createdAt: 2023-02-13T13:55:05.519Z
-updatedAt: 2024-03-14T18:21:39.711Z
-publishedAt: 2024-03-14T18:21:39.711Z
+updatedAt: 2024-10-11T13:52:26.975Z
+publishedAt: 2024-10-11T13:52:26.975Z
 firstPublishedAt: 2023-02-13T14:12:54.200Z
 contentType: tutorial
 productTeam: Financial

@@ -3,8 +3,8 @@ title: 'Llenar campos de registro de producto'
 id: 4dYXWIK3zyS8IceKkQseke
 status: PUBLISHED
 createdAt: 2017-09-21T14:48:54.657Z
-updatedAt: 2023-02-24T20:32:34.623Z
-publishedAt: 2023-02-24T20:32:34.623Z
+updatedAt: 2024-10-17T14:54:19.793Z
+publishedAt: 2024-10-17T14:54:19.793Z
 firstPublishedAt: 2017-09-21T15:09:23.192Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

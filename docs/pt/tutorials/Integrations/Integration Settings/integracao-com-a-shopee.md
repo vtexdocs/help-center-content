@@ -3,8 +3,8 @@ title: 'Integração com a Shopee '
 id: 5OV9idUY6fHu3P8grnCnqj
 status: PUBLISHED
 createdAt: 2022-09-05T19:33:02.717Z
-updatedAt: 2024-09-04T13:20:57.644Z
-publishedAt: 2024-09-04T13:20:57.644Z
+updatedAt: 2024-10-08T16:04:59.374Z
+publishedAt: 2024-10-08T16:04:59.374Z
 firstPublishedAt: 2022-09-06T01:42:40.106Z
 contentType: tutorial
 productTeam: Channels
@@ -149,7 +149,7 @@ Os Serviços ERP disponibilizam um endpoint para obter o arquivo da etiqueta de 
 7. Selecione o arquivo no campo `base64Encoded`, copie e use um decodificador de arquivos formato base64 para fazer a conversão no formato do arquivo selecionado no campo `Tipo de etiqueta de envio`.
 8. No final da conversão, a etiqueta estará pronta para ser utilizada.
 
-### Configuração dos Níveis
+### Configuração dos níveis
 
 Nessa seção, você poderá visualizar como serão exibidas as imagens, o nome, preço, informações sobre envio e especificações dos SKUs que serão enviados para a Shopee para serem comercializados.
 
@@ -253,7 +253,7 @@ Para enviar seus produtos para a Shoope, siga os passos a seguir:
 
 Ao finalizar a importação, o processo de envio de produtos pode demorar um pouco. Acesse a seção *Status de sincronização de produtos* para visualizar o status do envio.
 
-### Desativar Produtos
+### Excluir produtos
 
 Para excluir seus produtos da Shoope, siga os passos a seguir:
 
@@ -262,7 +262,19 @@ Para excluir seus produtos da Shoope, siga os passos a seguir:
 4. Selecione o produto que deseja excluir.
 5. Clique em `Remover produto`.
 
-### Status de Sincronização de Produtos
+#### Produtos excluídos
+
+Uma vez que um produto foi excluído na Shopee, não é possível enviá-lo novamente. Isto se aplica a:
+
+- Produtos excluídos da política comercial da Shopee.
+- Produtos excluídos na Shopee.
+- Produtos desativados na seção [Gerenciar produtos](#gerenciar-produtos) do app.
+
+Se deseja enviar um produto que já foi excluído na Shopee, você deve criar um novo produto, cópia do anterior, e enviar a cópia para a Shopee.
+
+>ℹ️ Ao tentar reenviar um produto excluído, pode ser que a URL do SKU na Shopee fique indisponível ou retorne a mensagem "O produto não existe."
+
+### Status de sincronização de produtos
 
 A lista de status da sincronização das categorias da sua loja VTEX que foram importadas para a Shopee inclui os seguintes status por meio dos ícones:
 

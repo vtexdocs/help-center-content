@@ -3,8 +3,8 @@ title: 'Security Monitor'
 id: 5LOVNLrrtmgSj99pM1NS4x
 status: PUBLISHED
 createdAt: 2024-04-25T00:42:30.944Z
-updatedAt: 2024-04-25T03:01:13.448Z
-publishedAt: 2024-04-25T03:01:13.448Z
+updatedAt: 2024-10-10T14:12:24.884Z
+publishedAt: 2024-10-10T14:12:24.884Z
 firstPublishedAt: 2024-04-25T02:41:44.798Z
 contentType: tutorial
 productTeam: Identity
@@ -53,7 +53,7 @@ The tab displays the full list of open findings in a table, from the most recent
 | Column fields | Description |
 | --- | --- |
 | Finding | User email or application key related to the finding. |
-| Type | Type of finding detected:<br/><ul><li><strong>Old app keys:</strong> <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Application keys</a> that were created more than 6 months ago.</li><li><strong>Excessive Super Admins:</strong> Users or application keys with the <strong>Owner (Admin Super)</strong>  <a href="https://help.vtex.com/en/tutorial/role--7HKK5Uau2H6wxE1rH5oRbc" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">role</a>.</li><li><strong>Leaked App Keys:</strong> <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Application keys</a> that have been leaked on the web and identified by the VTEX Security team.</li><li><strong>Inactive Users:</strong> Users who have not accessed the Admin in the last 30 days.</li></ul> |
+| Type | Type of finding detected:<br/><ul><li><strong>Old app keys:</strong> <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Application keys</a> that were created more than 6 months ago.</li><li><strong>Excessive Super Admins:</strong> Users or application keys with the <strong>Owner (Admin Super)</strong>  <a href="https://help.vtex.com/en/tutorial/role--7HKK5Uau2H6wxE1rH5oRbc" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">role</a>.</li><li><strong>Leaked App Keys:</strong> <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Application keys</a> that have been leaked on the web and identified by the VTEX Security team.</li><li><strong>Inactive Users:</strong> Users who have not accessed the Admin in the last 30 days.</li><li><strong>Excessive Permissions:</strong> Users or application keys with access to resources they did not use in the last 30 days.</li></ul> |
 | Detected | Date the finding was detected. |
 | Sensor | Sensor that detected the threat: <br/><ul><li><strong>VTEX Identity</strong></li></ul> |
 | Severity| Level of threat severity, determined by the impact or potential risk associated with the threat: <br /><ul><li><strong>High</strong></li><li><strong>Medium</strong></li><li><strong>Low</strong></li></ul> |

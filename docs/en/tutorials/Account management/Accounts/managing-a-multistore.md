@@ -3,8 +3,8 @@ title: 'Managing a multistore'
 id: 4S0lFVBPylRS5KpVgdyDhJ
 status: PUBLISHED
 createdAt: 2024-09-06T12:35:51.501Z
-updatedAt: 2024-09-06T13:40:05.306Z
-publishedAt: 2024-09-06T13:40:05.306Z
+updatedAt: 2024-10-17T22:44:02.759Z
+publishedAt: 2024-10-17T22:44:02.759Z
 firstPublishedAt: 2024-09-06T13:11:49.620Z
 contentType: tutorial
 productTeam: Others
