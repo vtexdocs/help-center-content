@@ -3,8 +3,8 @@ title: 'Adaptando sua integração para a Alterar pedido (Beta)'
 id: 6kGQWs0IvpwIZoyeoLMjlp
 status: PUBLISHED
 createdAt: 2024-06-03T18:54:30.094Z
-updatedAt: 2024-07-09T17:18:19.900Z
-publishedAt: 2024-07-09T17:18:19.900Z
+updatedAt: 2024-10-10T18:56:55.745Z
+publishedAt: 2024-10-10T18:56:55.745Z
 firstPublishedAt: 2024-06-03T20:02:10.248Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -54,6 +54,8 @@ Na **Alterar pedido (Beta)**, o endpoint [Create order change](https://developer
 * [Get order change history](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes)
 * [Retry order change](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/retry)
 * [Cancel order change](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/cancel)
+* [Update Change order settings](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/order-system/orders/changes/settings)
+* [Get Change order settings](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/changes/settings)
 
 Após alterar o pedido usando o endpoint [Create order change](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes), para novas requisições aos endpoints da **Alterar pedido (Beta)** existem as seguintes alternativas para o integrador:
 

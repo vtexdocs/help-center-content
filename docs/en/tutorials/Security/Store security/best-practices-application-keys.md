@@ -1,10 +1,10 @@
 ---
 title: 'Best practices for using application keys'
 id: 7b6nD1VMHa49aI5brlOvJm
-status: CHANGED
+status: PUBLISHED
 createdAt: 2022-10-04T21:36:57.185Z
-updatedAt: 2024-03-19T14:22:43.610Z
-publishedAt: 2022-10-04T21:41:08.638Z
+updatedAt: 2024-10-14T18:40:07.826Z
+publishedAt: 2024-10-14T18:40:07.826Z
 firstPublishedAt: 2022-10-04T21:41:08.638Z
 contentType: tutorial
 productTeam: Others

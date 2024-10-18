@@ -3,8 +3,8 @@ title: 'Descontinuación de conectores de pago legados'
 id: 11SHyRwcAr4fs46K7PccOr
 status: PUBLISHED
 createdAt: 2024-03-15T10:19:40.450Z
-updatedAt: 2024-10-02T21:17:59.207Z
-publishedAt: 2024-10-02T21:17:59.207Z
+updatedAt: 2024-10-07T20:51:34.352Z
+publishedAt: 2024-10-07T20:51:34.352Z
 contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
@@ -30,7 +30,7 @@ Como parte del proceso en curso para descontinuar [conectores de pago legados](h
 | CyberSource | [Cybersource IO](https://help.vtex.com/es/tutorial/configurar-gateway-cybersource--6nhvUTrLxeacsoYG6GkGM) |
 | Decidir/DecidirV1 | [Payway](https://help.vtex.com/es/tutorial/configurar-pago-con-payway--wHkvX7olfPPsAdeFq7obp) |
 | ERede/E-Rede V2/ERedeRest | [Itaú Rede](https://help.vtex.com/es/tutorial/configurar-pago-con-itau-rede--77BYOKxVzONWulAf8dTVSX) |
-| Firstdata | - |
+| Firstdata | [Fiserv AR](https://help.vtex.com/es/tutorial/configurar-pago-con-fiserv-ar--1qF6HiMShBpMCyzz53edlx) o [Fiserv MX](https://help.vtex.com/es/tutorial/configurar-pago-con-fiserv-mx--3vcYUO1y0Zp9DWVI1AcvfK) |
 | ItauShopline | [MaxiPagoV4](https://help.vtex.com/es/tutorial/configurar-pago-con-maxipagov4--4pWPhTago6uDxjFMB6kln3) |
 | MaxiPago | [MaxiPagoV4](https://help.vtex.com/es/tutorial/configurar-pago-con-maxipagov4--4pWPhTago6uDxjFMB6kln3) |
 | MercadoPagoV1 | [MercadoPagoV2](https://help.vtex.com/es/tutorial/configurar-el-subadquirente-mercadopagov2--1y6k8lCSzJYfPs2yObNFo4) |

@@ -3,8 +3,8 @@ title: 'Prices Settings'
 id: 3hbBtCzNUBrj8GaWgCtSWN
 status: PUBLISHED
 createdAt: 2020-10-14T18:43:49.750Z
-updatedAt: 2023-08-21T17:13:42.982Z
-publishedAt: 2023-08-21T17:13:42.982Z
+updatedAt: 2024-10-14T19:01:25.144Z
+publishedAt: 2024-10-14T19:01:25.144Z
 firstPublishedAt: 2020-10-22T19:38:48.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -29,8 +29,17 @@ See all the available configurations below:
   - **Always:** the account will always inherit all the prices from the parent account.
   - **Only for non-existent prices:** the parent account prices will be inherited only if they are non-existent in the current account.
 
-  >ℹ️ The option to **Inherit prices from parent account** is only available for child accounts.
+  >ℹ️ The **Inherit prices from parent account** setting is available only for child accounts. The parent account is defined when the child account is created. Ensuring that the correct parent account is associated helps avoid issues related to pricing or stock availability.
 
 - **Overwrite seller prices:** this option overwrites all seller prices with the ones from the current account. 
 
   >ℹ️ The configuration **Overwrite prices for sellers** is not available for white label sellers.
+
+## Consulting the Parent Account
+To check the parent account linked to a child account, use the following URL, replacing {AccountName} with the child account's name:
+
+```
+http://{AccountName}.myvtex.com/api/vlm/account
+```
+
+Upon accessing this URL, the API will return various account-related information. To identify the parent account, locate the `accountName` field in the API response. This field contains the name of the parent account linked to the specified child account.

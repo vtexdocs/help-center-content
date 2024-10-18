@@ -3,8 +3,8 @@ title: 'Discontinuation of legacy payment connectors'
 id: 11SHyRwcAr4fs46K7PccOr
 status: PUBLISHED
 createdAt: 2024-03-15T10:19:40.450Z
-updatedAt: 2024-10-02T21:17:59.207Z
-publishedAt: 2024-10-02T21:17:59.207Z
+updatedAt: 2024-10-07T20:51:34.352Z
+publishedAt: 2024-10-07T20:51:34.352Z
 contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
@@ -30,7 +30,7 @@ As another step in the process of [discontinuing legacy payment connectors](http
 | CyberSource | [Cybersource IO](https://help.vtex.com/en/tutorial/setting-up-cybersource-gateway--6nhvUTrLxeacsoYG6GkGM) |
 | Decidir/DecidirV1 | [Payway](https://help.vtex.com/en/tutorial/setting-up-payments-with-payway--wHkvX7olfPPsAdeFq7obp) |
 | ERede/E-Rede V2/ERedeRest | [Itaú Rede](https://help.vtex.com/en/tutorial/setting-up-payments-with-itau-rede--77BYOKxVzONWulAf8dTVSX) |
-| Firstdata | - |
+| Firstdata | [Fiserv AR](https://help.vtex.com/en/tutorial/setting-up-payments-with-fiserv-ar--1qF6HiMShBpMCyzz53edlx) or [Fiserv MX](https://help.vtex.com/en/tutorial/setting-up-payments-with-fiserv-mx--3vcYUO1y0Zp9DWVI1AcvfK) |
 | ItauShopline | [MaxiPagoV4](https://help.vtex.com/en/tutorial/setting-up-payments-with-maxipagov4--4pWPhTago6uDxjFMB6kln3) |
 | MaxiPago | [MaxiPagoV4](https://help.vtex.com/en/tutorial/setting-up-payments-with-maxipagov4--4pWPhTago6uDxjFMB6kln3) |
 | MercadoPagoV1 | [MercadoPagoV2](https://help.vtex.com/en/tutorial/setting-up-mercadopagov2-sub-acquirer--1y6k8lCSzJYfPs2yObNFo4) |

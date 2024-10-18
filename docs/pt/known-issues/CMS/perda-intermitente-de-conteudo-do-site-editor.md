@@ -3,8 +3,8 @@ title: 'Perda intermitente de conteúdo do Site Editor'
 id: 3a5MlAoD2Z7Gu6HDS8wihD
 status: PUBLISHED
 createdAt: 2022-07-05T17:07:24.733Z
-updatedAt: 2024-10-03T15:25:39.202Z
-publishedAt: 2024-10-03T15:25:39.202Z
+updatedAt: 2024-10-07T18:02:10.882Z
+publishedAt: 2024-10-07T18:02:10.882Z
 firstPublishedAt: 2022-07-05T17:07:25.091Z
 contentType: knownIssue
 productTeam: CMS
@@ -23,7 +23,7 @@ internalReference: 610533
 
 Cada alteração de conteúdo no Site Editor insere alterações no arquivo content.json, armazenado em um bucket no AWS S3 e no content_render.js. Alguns clientes relataram uma perda de conteúdo do Site Editor após alguns procedimentos padrão, como a promoção do espaço de trabalho.
 
-O conteúdo do espaço de trabalho não é levado para o ambiente mestre após o processo de promoção. Como a política de promoção padrão para lidar com conflitos é "masterWins", o conteúdo do espaço de trabalho não é levado para a produção em casos de conflito.
+O conteúdo do espaço de trabalho não é levado para o ambiente mestre após o processo de promoção. Como a política de promoção padrão para lidar com conflitos é "masterWins", o conteúdo do espaço de trabalho não é levado à produção em casos de conflito.
 
 ## Simulação
 
@@ -31,7 +31,7 @@ O conteúdo do espaço de trabalho não é levado para o ambiente mestre após o
 O cenário é intermitente. No entanto, ele foi relatado em dois cenários diferentes:
 
 **1. Ao promover um espaço de trabalho de produção para mestre:**
-Esse é o passo a passo em que normalmente esse problema ocorre:
+Esse problema é novo e diferente do anterior que originou esse KI. Isso vem ocorrendo desde janeiro de 2024, quando introduzimos o `content_render.json`.  Este é o passo a passo em que normalmente esse problema ocorre:
 
 1.1 Criação de um espaço de trabalho de produção;
 
@@ -43,12 +43,12 @@ Esse é o passo a passo em que normalmente esse problema ocorre:
 
 
 
-Lembre-se de que, nesse caso, o arquivo `content.json` e o arquivo `content_render.js` podem ter informações diferentes, de modo que o conteúdo só será "perdido" depois de atualizar algo no editor do site. Isso significa que o conteúdo não será necessariamente perdido logo após a promoção do espaço de trabalho.
+Lembre-se de que, nesse caso, o arquivo `content.json` e o arquivo `content_render.js` podem ter informações diferentes, de modo que o conteúdo só será "perdido" após a atualização de algo no editor do site. Isso significa que o conteúdo não será necessariamente perdido logo após a promoção do espaço de trabalho. Também é importante observar que a perda é apenas parcial (somente o conteúdo criado no espaço de trabalho é afetado).
 
 **2. Ao instalar uma nova versão em um espaço de trabalho de teste:**
 Os clientes relataram que, ao instalar uma nova versão do tema em um espaço de trabalho de teste, o conteúdo das páginas de categoria era excluído.
 
-Atualização: esse cenário foi resolvido devido a uma correção feita no aplicativo_ `pages-graphql`_app
+Isso normalmente acontece devido a alterações na estrutura do projeto, como caminhos de árvore. É importante lembrar que, se for necessária uma alteração no caminho da árvore, o conteúdo deverá ser adicionado novamente
 
 ## Workaround
 

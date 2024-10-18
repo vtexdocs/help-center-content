@@ -3,8 +3,8 @@ title: 'Google Analytics: FAQ'
 id: 2VRtB07muo3vwO6KEmMVn0
 status: PUBLISHED
 createdAt: 2021-12-17T18:41:26.175Z
-updatedAt: 2023-07-31T18:35:26.120Z
-publishedAt: 2023-07-31T18:35:26.120Z
+updatedAt: 2024-10-17T15:04:11.365Z
+publishedAt: 2024-10-17T15:04:11.365Z
 firstPublishedAt: 2021-12-17T18:53:43.536Z
 contentType: tutorial
 productTeam: Others
@@ -57,7 +57,7 @@ Also, integrations can be built in such a way that they end up not triggering ce
 
 It is normal that there are differences between attribution data as seen in VTEX modules and Google Analytics, as they are different tools with different [attribution models](#what-are-attribution-models) and that capture information through different cookies.
 
-The UTM information recognized by VTEX can be verified in the developer tools panel of your browser, in the `marketingData` object of the [OrderForm](https://developers.vtex.com/docs/guides/orderform-fields). For more information, read the article [Marketing UTMs at checkout](https://help.vtex.com/en/tutorial/identificar-se-utms-de-marketing-estao-sendo-passadas-para-o-checkout--6kjHHfOWIgeI26qcQSU4Wg#).
+The UTM information recognized by VTEX can be verified in the developer tools panel of your browser, in the `marketingData` object of the [OrderForm](https://developers.vtex.com/docs/guides/orderform-fields). For more information, read the article [Marketing UTMs at checkout](https://developers.vtex.com/docs/guides/check-marketing-utms-used-at-checkout).
 
 Google Analytics uses the Last Interaction model by default.
 You can choose between different models, which are described in [Google’s documentation on attribution models](https://support.google.com/analytics/answer/1662518?hl=en).

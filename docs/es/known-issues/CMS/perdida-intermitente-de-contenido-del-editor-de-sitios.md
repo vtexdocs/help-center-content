@@ -3,8 +3,8 @@ title: 'Pérdida intermitente de contenido del Editor de Sitios'
 id: 3a5MlAoD2Z7Gu6HDS8wihD
 status: PUBLISHED
 createdAt: 2022-07-05T17:07:24.733Z
-updatedAt: 2024-10-03T15:25:39.202Z
-publishedAt: 2024-10-03T15:25:39.202Z
+updatedAt: 2024-10-07T18:02:10.882Z
+publishedAt: 2024-10-07T18:02:10.882Z
 firstPublishedAt: 2022-07-05T17:07:25.091Z
 contentType: knownIssue
 productTeam: CMS
@@ -30,10 +30,10 @@ El contenido del espacio de trabajo no se lleva al entorno maestro después del 
 ## Simulación
 
 
-La situación es intermitente. Sin embargo, se ha reportado en dos escenarios diferentes:
+El escenario es intermitente. Sin embargo, se ha reportado en dos escenarios diferentes:
 
-**1. Al promover un espacio de trabajo de producción a maestro:**
-Este es el paso a paso donde normalmente se produce este problema:
+**1. Cuando se promueve un espacio de trabajo de producción a maestro:**
+Este problema es nuevo y diferente del anterior que originó este KI. Esto ha estado sucediendo desde Ene/2024 cuando introdujimos el `content_render.json`.  Este es el paso a paso donde normalmente ocurre este problema:
 
 1.1 Creación de un espacio de trabajo de producción;
 
@@ -41,16 +41,16 @@ Este es el paso a paso donde normalmente se produce este problema:
 
 1.3 Actualizar el maestro; esto creará un conflicto. La referencia creada anteriormente empieza a apuntar al maestro, por lo que se produce el problema. Sólo vuelve a la normalidad tras la resolución del conflicto;
 
-1.4 Realice el proceso de promoción en el área de trabajo. Seguirá apuntando al contenido maestro pero invalidará el contenido del espacio de trabajo.
+1.4 Realice el proceso de promoción en el espacio de trabajo. Seguirá apuntando al contenido maestro pero invalidará el contenido del espacio de trabajo.
 
 
 
-Recuerde que en este caso, el archivo `content.json` y el archivo `content_render.js` pueden tener información diferente, por lo que el contenido sólo se "perderá" después de actualizar algo en el editor del sitio. Esto significa que el contenido no se perderá necesariamente justo después de promover el espacio de trabajo.
+Recuerde que en este caso, el archivo `content.json` y el archivo `content_render.js` pueden tener información diferente, por lo que el contenido sólo se "perderá" después de actualizar algo en el editor del sitio. Esto significa que el contenido no se perderá necesariamente justo después de promocionar el espacio de trabajo. También es importante tener en cuenta que la pérdida es sólo parcial (sólo el contenido creado en el espacio de trabajo se ve afectado).
 
 **2. Al instalar una nueva versión en un espacio de trabajo de prueba:**
 Los clientes informaron de que al instalar una nueva versión del tema en un espacio de trabajo de prueba, se eliminaba el contenido de las páginas de categorías.
 
-Actualización: este problema se ha resuelto gracias a una corrección realizada en la aplicación `pages-graphql`.
+Esto ocurre normalmente debido a cambios en la estructura del proyecto, como las rutas de árbol. Es importante recordar que si se requiere un cambio en el treepath, el contenido debe ser añadido de nuevo.
 
 
 

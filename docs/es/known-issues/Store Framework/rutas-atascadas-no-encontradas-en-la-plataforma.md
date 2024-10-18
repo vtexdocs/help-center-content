@@ -3,8 +3,8 @@ title: 'Rutas atascadas no encontradas en la plataforma'
 id: iAGlRJtK1KMBGxH2tAsrX
 status: PUBLISHED
 createdAt: 2023-04-19T15:54:48.241Z
-updatedAt: 2023-06-28T15:56:47.493Z
-publishedAt: 2023-06-28T15:56:47.493Z
+updatedAt: 2024-10-14T14:15:52.667Z
+publishedAt: 2024-10-14T14:15:52.667Z
 firstPublishedAt: 2023-04-19T15:54:48.788Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slugEN: stucked-not-found-routes-on-platform
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 793457
 ---
 
@@ -33,21 +33,36 @@ Este es un problema intermitente, por lo que, básicamente, no es fácil de simu
 
 
 
-
 ## Workaround
 
 
 Para los productos,
 
 - Intenta no almacenar rutas dentro del rewriter, a menos que sea estrictamente necesario
-- Restablecer o eliminar rutas en vbase entrando en la aplicación rewriter - admin/apps/vtex.rewriter@x.x.x/setup/ - y actualizando su versión de rutas a una nueva
-- Reindexar las rutas usando store-indexer
-- Guardar el producto para notificar al emisor que el producto ha cambiado y que debe enviar nuevas notificaciones
-Para otras rutas
+- Comprobar si la ruta se almacena en rewriter como no encontrada (tipo: notFoundProduct) si se actualiza por nuevos valores:
 
-- Compruebe si la ruta se almacena en rewriter como no encontrada si se actualiza para nuevos valores
+`{`
+` interno{`
+` get(ruta: "/juego-de-cama-gris-extradoble-fenissa-082031/p"){`
+` from`
+` resolveAs`
+` type`
+` }`
+` }`
+`}`
+  - Si la ruta está atascada en rewriter con no encontrado, puede simplemente ejecutar esta mutación para eliminar que a partir de ahí:
+
+`mutation{`
+` internal{`
+delete(ruta: "slugDeTuProducto/p"){``
+desde
+` }`
+` }`
+`}`
 - Comprueba si la API de tipo de página está atascada en un no encontrado y notifica al equipo de catálogo: `https://.vtexcommercestable.com.br/api/catalog_system/pub/portal/pagetype/`
-
+- Restablecer o eliminar rutas en vbase entrando en la aplicación rewriter - admin/apps/vtex.rewriter@x.x.x/setup/ - y actualizando su versión de rutas a una diferente - No se perderá ningún contenido
+- Reindexar las rutas usando store-indexer
+- Guardar el producto para notificar directamente a la emisora que el producto ha cambiado y entonces tiene que enviar nuevas notificaciones
 
 
 

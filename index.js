@@ -771,6 +771,14 @@ ${textPT}
 
   let fileContents = [fileContentEN, fileContentES, fileContentPT];
   for (let i = 0; i < locales.length; i++) {
+    
+    // Adjust folder structure for troubleshooting articles
+    if (categoryNameEN == 'Troubleshooting') {
+      fileFolders = 'troubleshooting'
+      fileSubFolder = subcategoryNameEN
+      fileSubcategoryFolder = ''
+    }
+
     // Construct the paths
     const localeFolder = path.join('./docs', locales[i]);
     const baseFolder = path.join(localeFolder, fileFolders);

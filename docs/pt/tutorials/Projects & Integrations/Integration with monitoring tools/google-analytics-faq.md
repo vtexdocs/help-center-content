@@ -3,8 +3,8 @@ title: 'Google Analytics: FAQ'
 id: 2VRtB07muo3vwO6KEmMVn0
 status: PUBLISHED
 createdAt: 2021-12-17T18:41:26.175Z
-updatedAt: 2023-07-31T18:35:26.120Z
-publishedAt: 2023-07-31T18:35:26.120Z
+updatedAt: 2024-10-17T15:04:11.365Z
+publishedAt: 2024-10-17T15:04:11.365Z
 firstPublishedAt: 2021-12-17T18:53:43.536Z
 contentType: tutorial
 productTeam: Others
@@ -58,7 +58,7 @@ Além disso, integrações podem ser construídas de modo que acabem não dispar
 
 É normal que existam diferenças entre a atribuição nas visualizações de dados da plataforma VTEX e no Google Analytics, pois são ferramentas diferentes com [modelos de atribuição](https://help.vtex.com/pt/tutorial/google-analytics-faq--2VRtB07muo3vwO6KEmMVn0#o-que-sao-modelos-de-atribuicao) diferentes e que captam informações através de cookies diferentes.
 
-As informações de UTM reconhecidas pela VTEX podem ser verificadas no painel de ferramentas de desenvolvedor do seu navegador, no objeto `marketingData` do [OrderForm](https://developers.vtex.com/docs/guides/orderform-fields). Saiba mais neste artigo sobre [UTMs de marketing no Checkout](https://help.vtex.com/pt/tutorial/identificar-se-utms-de-marketing-estao-sendo-passadas-para-o-checkout--6kjHHfOWIgeI26qcQSU4Wg#).
+As informações de UTM reconhecidas pela VTEX podem ser verificadas no painel de ferramentas de desenvolvedor do seu navegador, no objeto `marketingData` do [OrderForm](https://developers.vtex.com/docs/guides/orderform-fields). Saiba mais neste artigo sobre [UTMs de marketing no Checkout](https://developers.vtex.com/docs/guides/check-marketing-utms-used-at-checkout).
 
 Já o Google Analytics, usa, por padrão, o modelo de Última interação.
 Também é possível utilizar diferentes modelos, descritos na [documentação do Google Analytics sobre modelos de atribuição](https://support.google.com/analytics/answer/1662518?hl=pt-br).

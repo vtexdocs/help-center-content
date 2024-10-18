@@ -3,8 +3,8 @@ title: 'Promotions on the Sales App search page'
 id: 2g9JmTLKYASz8jxme2pyc9
 status: PUBLISHED
 createdAt: 2024-08-19T11:11:42.781Z
-updatedAt: 2024-08-20T13:54:03.140Z
-publishedAt: 2024-08-20T13:54:03.140Z
+updatedAt: 2024-10-18T12:07:33.298Z
+publishedAt: 2024-10-18T12:07:33.298Z
 firstPublishedAt: 2024-08-20T13:54:03.140Z
 contentType: tutorial
 productTeam: Shopping
@@ -29,4 +29,4 @@ When a product has multiple promotions, the sales associate in a physical store 
 
 The following image shows a promotion available on the Product Listing Page (PLP).
 
-![promoção em destaque](https://images.ctfassets.net/alneenqid6w5/2YpcrGEb1eHZ0IFeOzvAj4/00f7a287cb76d6ad3301364e8bdfa79a/promo__o_em_destaque.png)
+![promoção em destaque](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)

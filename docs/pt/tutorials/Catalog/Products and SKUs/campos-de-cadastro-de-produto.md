@@ -3,8 +3,8 @@ title: 'Preencher campos de cadastro de produto'
 id: 4dYXWIK3zyS8IceKkQseke
 status: PUBLISHED
 createdAt: 2017-09-21T14:48:54.657Z
-updatedAt: 2023-02-24T20:32:34.623Z
-publishedAt: 2023-02-24T20:32:34.623Z
+updatedAt: 2024-10-17T14:54:19.793Z
+publishedAt: 2024-10-17T14:54:19.793Z
 firstPublishedAt: 2017-09-21T15:09:23.192Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -21,7 +21,7 @@ Para entender como preencher o formulário de [cadastro de um novo produto](http
 
 __Nome:__ relacionado ao produto que estiver cadastrando. Use palavras simples e evite outros idiomas ou escrita complexa. Esse campo é importante para SEO e deve respeitar o limite de 150 caracteres. Campo obrigatório.
 
-__Palavras Substitutas:__ sinônimos de termos relacionados ao nome dado para seu departamento ou categoria. "Televisão", por exemplo, pode ter como palavra substituta "TV" ou "Tevê".  Esse campo é importante para tornar suas buscas mais abrangentes e deve respeitar o limite de 8000 caracteres.
+__Palavras similares:__ sinônimos de termos relacionados ao nome dado para seu produto. "Televisão", por exemplo, pode ter como palavra substituta "TV" ou "Tevê".  Esse campo é importante para tornar suas buscas mais abrangentes e deve respeitar o limite de 8000 caracteres.
 
 __TextLink:__ utilizado para criar a URL do produto. Campo obrigatório. Para mais informações, confira o artigo [Como definir a URL de um produto](https://help.vtex.com/pt/tutorial/como-a-url-de-produto-e-montada--frequentlyAskedQuestions_368).
 

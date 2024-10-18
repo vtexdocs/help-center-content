@@ -3,8 +3,8 @@ title: 'Comportamiento de búsqueda'
 id: B9o3JbV6utAinBJ1ETujs
 status: PUBLISHED
 createdAt: 2024-06-27T17:30:43.356Z
-updatedAt: 2024-09-19T12:59:01.022Z
-publishedAt: 2024-09-19T12:59:01.022Z
+updatedAt: 2024-10-03T23:11:03.742Z
+publishedAt: 2024-10-03T23:11:03.742Z
 firstPublishedAt: 2024-06-27T17:33:21.153Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -76,9 +76,9 @@ Determina la información de producto que se puede buscar. A partir de la config
 
 | Información | Configuración |
 | - | - |
-| Nombre del producto, marca, ID de producto (`ProductID`), código de referencia del producto (`ProductRefID`), ID del SKU (`SKUID`), código de referencia del SKU (`SKURefID`) y EAN | Se pueden realizar búsquedas en estos datos de forma predeterminada en VTEX Intelligent Search. Para remover alguno de ellos, ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support). |
-| Especificaciones de producto y SKU | Para incluir las especificaciones deseadas como campos que se pueden buscar, debes configurar la opción __Especificaciones buscables__ en el Admin VTEX a través de __Configuración de la tienda__ > __Intelligent Search__ > __Configuración de la búsqueda__. <br /><br /> Por ejemplo, si una camisa no tiene el color en el nombre del producto o del SKU, de forma predeterminada, Intelligent Search no identifica ese atributo cuando se busque “camisa azul” y devolverá como resultado camisas de diferentes colores. Sin embargo, si la especificación de color se configura de manera que se pueden realizar búsquedas sobre la especificación de color, la búsqueda podrá devolver camisas azules en las primeras posiciones. <br /><br /> Para más detalles sobre la definición de especificaciones buscables, accede a la guía [Configuración de la búsqueda](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#configuracion-general). Puedes ver más información sobre especificaciones en [Especificaciones de producto y SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP). |
-| Código del fabricante (`ManufactureID`) | Ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support) para configurar la realización de búsquedas en este campo. |
+| <ul><li>Nombre del producto</li><li>Marca</li><li>ID de producto (`ProductID`)</li><li>Código de referencia del producto (`ProductRefID`)</li><li>ID del SKU (`SKUID`)</li><li>Código de referencia del SKU (`SKURefID`)</li><li>EAN</li></ul> | Se pueden realizar búsquedas en estos datos de forma predeterminada en VTEX Intelligent Search. Para remover alguno de ellos, ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support). |
+| <ul><li>Especificaciones de producto</li><li>Especificaciones de SKU</li></ul> | Para incluir las especificaciones deseadas como campos que se pueden buscar, debes configurar la opción __Especificaciones buscables__ en el Admin VTEX a través de __Configuración de la tienda__ > __Intelligent Search__ > __Configuración de la búsqueda__. <br /><br /> Por ejemplo, si una camisa no tiene el color en el nombre del producto o del SKU, de forma predeterminada, Intelligent Search no identifica ese atributo cuando se busque “camisa azul” y devolverá como resultado camisas de diferentes colores. Sin embargo, si la especificación de color se configura de manera que se pueden realizar búsquedas sobre la especificación de color, la búsqueda podrá devolver camisas azules en las primeras posiciones. <br /><br /> Para más detalles sobre la definición de especificaciones buscables, accede a la guía [Configuración de la búsqueda](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#configuracion-general). Puedes ver más información sobre especificaciones en [Especificaciones de producto y SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP). |
+| <ul><li>Código del fabricante (`ManufactureID`)</li><li>Departamiento</li><li>Categoría</li><li>Subcategoría</li></ul> | Ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support) para configurar la realización de búsquedas en estes campos. |
 
 Ejemplo: se configuró que la especificación “color” se puede buscar y el producto está registrado con el nombre “Zapatilla Nike Total 90” y con el color “negro”. Si un cliente busca “Zapatilla Negra”, la herramienta devolverá productos que tengan el término “zapatilla” y el color “negra” en la parte superior del resultado de búsqueda.
 

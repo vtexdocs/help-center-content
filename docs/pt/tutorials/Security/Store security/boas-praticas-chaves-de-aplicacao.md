@@ -1,10 +1,10 @@
 ---
 title: 'Boas práticas na utilização de chaves de aplicação'
 id: 7b6nD1VMHa49aI5brlOvJm
-status: CHANGED
+status: PUBLISHED
 createdAt: 2022-10-04T21:36:57.185Z
-updatedAt: 2024-03-19T14:22:43.610Z
-publishedAt: 2022-10-04T21:41:08.638Z
+updatedAt: 2024-10-14T18:40:07.826Z
+publishedAt: 2024-10-14T18:40:07.826Z
 firstPublishedAt: 2022-10-04T21:41:08.638Z
 contentType: tutorial
 productTeam: Others
@@ -48,3 +48,7 @@ A realização de campanhas de conscientização em segurança da informação �
 Note que parte do código que compõe a sua loja, é executado no cliente, ou seja, no navegador de usuários. Portanto, é normal que esta parte do código fique exposta a pessoas de fora da sua operação.
 
 Dessa forma, é essencial instruir seu time de desenvolvimento que não utilize este código para fazer integrações, já que este uso costuma incluir no código as [chaves de aplicação](https://help.vtex.com/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet).
+
+## Não compartilhe tokens de chaves de aplicação
+
+Proteja os seus pares de chaves e tokens de aplicação com o mesmo nível de sigilo que aplicaria a credenciais de login, como nomes de usuário e senhas. Para reduzir riscos, evite compartilhá-los por emails, tickets, chats ou outros canais de comunicação.

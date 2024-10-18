@@ -1,10 +1,10 @@
 ---
 title: 'Mercado Libre promotions'
 id: 3pEqEnru6H2JcZzYVioT5f
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2022-04-07T15:22:59.827Z
-updatedAt: 2023-02-27T22:25:51.962Z
-publishedAt: 2023-02-27T22:25:51.962Z
+updatedAt: 2024-10-17T20:54:14.042Z
+publishedAt: 
 firstPublishedAt: 2022-04-07T21:16:20.581Z
 contentType: tutorial
 productTeam: Channels
