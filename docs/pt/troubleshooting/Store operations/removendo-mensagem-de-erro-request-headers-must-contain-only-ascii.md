@@ -21,7 +21,7 @@ A mensagem "__Request headers must contain only ASCII characters__" pode ser exi
 
 Este cenário ocorre se a página ou funcionalidade solicitada contém um cookie com caracteres especiais (não-ASCII).
 
-![ascii_1](https://images.ctfassets.net/alneenqid6w5/geQO7G0cIDk7FmSjC9ZmQ/1001eedf70586fcfeaf7847eb641ee5a/ascii_1.png)
+![ascii_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Segundo as normas do [IETF](https://www.ietf.org/) (Internet Engineering Task Force), instituição responsável por documentar os padrões utilizados na internet, cookies não devem conter caracteres especiais (não-ASCII). Para mais informações sobre os caracteres aceitos em cookies e headers, acesse [IETF - Request for Comments 7230 - Section 3.2.6 - Field Value Components](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2.6). 
 
@@ -41,19 +41,19 @@ Na página em que a mensagem "__Request headers must contain only ASCII characte
 
 <blockquote><ui>2. Na barra superior da tela, acesse a aba <b>Rede</b> e ordene as requisições clicando em <b>Status</b>. A informação <b>400</b> no status indica que uma requisição não foi processada corretamente e, dentre os erros possíveis, pode haver cookies incorretos.</ui>  
 
-![ascii 2](//images.ctfassets.net/alneenqid6w5/KAwQG2JiXozFU5Pjgjv3Z/151a66fb0ce501c47e77869a8b4b6de3/ascii_2.png)    
+![ascii 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)    
 
 <blockquote><ui>3. Clique sobre uma requisição e depois na aba <b>Visualização</b> para identificar se o erro encontrado é referente à mensagem "<b>Request headers must contain only ASCII characters</b>".</ui>
 
-![ascii 3](//images.ctfassets.net/alneenqid6w5/16XPfE6SIwVO8SkTxl9yuR/05f662484ece5d1e5876684319b32c62/ascii_3.png)
+![ascii 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 <blockquote><ui>4. Clique na aba <b>Cabeçalhos</b> e copie os dados do cookie.</ui>  
 
-![ascii 4](//images.ctfassets.net/alneenqid6w5/1CwUNkSO895RfPCTTaO29l/eab317339dfe8c29f82d9987e3f28980/ascii_4.png)    
+![ascii 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)    
 
 <blockquote><ui>5. Acesse um <a href="https://pages.cs.wisc.edu/~markm/ascii.html">validador online de caracteres ASCII</a> e insira a informação do cookie. Se um ou mais caracteres especiais forem identificados, os tipos e posições serão exibidas na parte inferior do validador de caracteres.</ui>     
 
-![ascii 5](//images.ctfassets.net/alneenqid6w5/2xwztAmvtrxpJQeusgwlpH/917872a195c9cce233a183a4f44b4677/ascii_5.png)  
+![ascii 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)  
 
 <blockquote><ui>6. Repita os passos 3 a 5 com todas as requisições com erro para identificar quais delas contêm cookies com caracteres especiais.</ui>      
 

@@ -69,7 +69,7 @@ A continuación se listan las tags de los canales de venta que generan el pedido
 
 La siguiente imagen muestra como se asignan las tags de origen de pedido en el caso de marketplaces y sellers:
 
-![marcacao_pedidos_ES](https://images.ctfassets.net/alneenqid6w5/3q4rRQ1ATOB7vJGm2AfwNL/67cb1c34478f7e4573d1b001bd37d721/marcacao_pedidos_ES.png)
+![marcacao_pedidos_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 >⚠️ El flujo de `IsMarketplace` marca pedidos en el entorno del seller y el flujo `IsSeller` marca pedidos en el entorno del marketplace.
 

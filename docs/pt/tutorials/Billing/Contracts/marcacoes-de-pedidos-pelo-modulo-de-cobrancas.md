@@ -69,7 +69,7 @@ Veja a seguir quais marcações existem relacionadas ao canal no qual o pedido �
 
 A imagem abaixo apresenta como é feita a marcação do pedido com relação à origem do pedido para o marketplace e para o seller:
 
-![marcacao_pedidos_PT](https://images.ctfassets.net/alneenqid6w5/3q4rRQ1ATOB7vJGm2AfwNL/3db88a4045040b0fa96ca427d0829551/marcacao_pedidos_PT.png)
+![marcacao_pedidos_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 >⚠️ O fluxo a partir de `IsMarketplace` existe para marcar os pedidos no ambiente do seller e o fluxo de `IsSeller` para marcar os pedidos no ambiente do marketplace.
 

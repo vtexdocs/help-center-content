@@ -115,4 +115,4 @@ For accounts with 100,000 or more products, please contact [VTEX Support](https:
 
 Learn more in [Database Maintenance (Full Cleanup)](https://help.vtex.com/en/tutorial/database-maintenance-full-cleanup--34P9LGs7BCIQK6acQom802).
 
-![Schedule full reindexing](https://images.ctfassets.net/alneenqid6w5/65cBrSeyPnEY1FgnRUvnU8/080fed5de879388ff7b2077981a044c5/Schedule_full_reindexing.png)
+![Schedule full reindexing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)

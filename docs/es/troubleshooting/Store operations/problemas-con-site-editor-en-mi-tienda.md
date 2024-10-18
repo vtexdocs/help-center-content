@@ -32,7 +32,7 @@ A continuación se muestran diferentes comprobaciones de resolución de problema
 
 Este es uno de los errores que puedes experimentar cuando, en el Admin VTEX, accedes a **Storefront** y haces clic en **Site Editor**. En lugar de cargarse, la página de Site Editor muestra una pantalla en blanco o el mensaje `Se produjo un error`.
 
-![Site Editor - Something went wrong ES](https://images.ctfassets.net/alneenqid6w5/6HAg54FmMXcxq7rfh1738y/99a8f8f022dbcb8f926b9dc19db5f517/img1-ES.png)
+![Site Editor - Something went wrong ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Para solucionar este error, consulta las instrucciones a continuación:
 
@@ -46,7 +46,7 @@ El error puede deberse a que [Intelligent Search](https://help.vtex.com/es/track
 1. En el Admin VTEX, accede a **Configuración de la tienda > Intelligent Search > Integraciones**.
 2. En la página **Integraciones**, comprueba que todos los status estén verificados, como en la imagen a continuación. 
 
-![Site Editor - IS integrations ES](//images.ctfassets.net/alneenqid6w5/5hQJjnkLuCwRA2VVtKvEEC/c4f779063128579ce7d98b86d5feede0/img2-ES.png)
+![Site Editor - IS integrations ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 3. Si todos los status están verificados y sigues sin poder abrir Site Editor, consulta la sección [Comprobar la configuración del inquilino](#comprobar-la-configuracion-del-inquilino). En caso contrario, procede al siguiente paso.
 4. Si la página Integraciones no coincide con la imagen mostrada anteriormente, consulta a continuación los posibles motivos y cómo solucionarlos:
@@ -88,7 +88,7 @@ Otra posible causa de este error está relacionada con la configuración de la r
 1. En el Admin VTEX, accede a **Configuración de la tienda > Canales > Políticas comerciales**.
 2. En la página **Políticas comerciales**, selecciona la política comercial asociada a tu cuenta y consulta el campo **Región**.
 
-![Site Editor - Locale ES](//images.ctfassets.net/alneenqid6w5/6i6EbEw6OXr2BnOzh4mVE2/1d8280d2b78edd9f55c7bec6846d0721/img3-ES.png)
+![Site Editor - Locale ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 3. Se considera que la región es incorrecta si se da cualquiera de los siguientes casos:
 - La región es diferente de la que debería utilizar la cuenta. Por ejemplo, la región configurada es `es-CO`, pero la cuenta debería ser `es-MX`.
