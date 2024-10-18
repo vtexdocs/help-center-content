@@ -771,14 +771,23 @@ ${textPT}
 
   let fileContents = [fileContentEN, fileContentES, fileContentPT];
   for (let i = 0; i < locales.length; i++) {
+    
+    // Adjust folder structure for troubleshooting articles
+    if (categoryNameEN == 'Troubleshooting') {
+      console.log('------------Troubleshooting found----------------')
+      fileFolders = 'troubleshooting'
+      fileSubFolder = subcategoryNameEN
+      fileSubcategoryFolder = ''
+    } else {
+      console.log('Something else found')
+    }
+
     // Construct the paths
     const localeFolder = path.join('./docs', locales[i]);
     const baseFolder = path.join(localeFolder, fileFolders);
     const subFolder = fileSubFolder ? path.join(baseFolder, fileSubFolder).replace(": ", " - ").trim() : null;
     const subcategoryFolder = fileSubcategoryFolder ? path.join(subFolder, fileSubcategoryFolder).replace(": ", " - ").trim() : null;
     let filePath = fileSubcategoryFolder ? path.join(subcategoryFolder, fileNameEN).replace(": ", " - ") : fileSubFolder ? path.join(subFolder, fileNameEN).replace(": ", " - ") : path.join(baseFolder, fileNameEN).replace(": ", " - ");
-
-    console.log(category)
 
     if (locales[i] == "en") {
         filePath = fileSubcategoryFolder ? path.join(subcategoryFolder, fileNameEN).replace(": ", " - ") : fileSubFolder ? path.join(subFolder, fileNameEN).replace(": ", " - ") : path.join(baseFolder, fileNameEN).replace(": ", " - ");
