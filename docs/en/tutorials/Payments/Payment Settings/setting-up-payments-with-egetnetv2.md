@@ -3,8 +3,8 @@ title: 'Setting up payments with EgetnetV2'
 id: 6jfBE8ocN5T0xQo8BTGH31
 status: PUBLISHED
 createdAt: 2023-02-13T13:55:05.519Z
-updatedAt: 2024-03-14T18:21:39.711Z
-publishedAt: 2024-03-14T18:21:39.711Z
+updatedAt: 2024-10-11T13:52:26.975Z
+publishedAt: 2024-10-11T13:52:26.975Z
 firstPublishedAt: 2023-02-13T14:12:54.200Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ legacySlug: setting-up-payments-with-egetnetv2
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the EgetnetV2 payment provider. With thisprovider, your store can make sales through credit cards, bank invoice and PIX.
+At VTEX, it is possible to integrate with the EgetnetV2 payment provider. With this provider, your store can make sales through credit cards, bank invoice and PIX.
 
 To configure EgetnetV2, follow the steps below:
 

@@ -3,8 +3,8 @@ title: 'Web Application Firewall (WAF)'
 id: 6BZYLlU03ws72iqIFF6jdn
 status: PUBLISHED
 createdAt: 2024-04-25T00:17:16.172Z
-updatedAt: 2024-04-30T15:03:41.186Z
-publishedAt: 2024-04-30T15:03:41.186Z
+updatedAt: 2024-10-18T17:04:59.360Z
+publishedAt: 2024-10-18T17:04:59.360Z
 firstPublishedAt: 2024-04-25T01:16:27.468Z
 contentType: tutorial
 productTeam: Others
@@ -47,9 +47,9 @@ Para solicitar a ativação do WAF na sua loja, entre em contato com o [Suporte 
 
 * URLs a serem adicionadas ao WAF.
 * Nome e informações de contato da pessoa que será o ponto de contato com a equipe de Segurança da VTEX durante o processo de ativação.
-* Provedor: para ter acesso ao WAF, todo o tráfego de URLs da loja deve passar pela [Azion](https://www.azion.com/), o provedor atualmente utilizado pela VTEX. Se isso não ocorrer, é preciso seguir um procedimento com a equipe de Tráfego da VTEX, que pode durar entre 1 e 2 semanas.
+* Provedor: para ter acesso ao WAF, todo o tráfego de URLs da loja deve passar pelo provedor atualmente utilizado pela VTEX. Se isso não ocorrer, é preciso seguir um procedimento com a equipe de Tráfego da VTEX, que pode durar entre 1 e 2 semanas.
 
-Após a solicitação, o prazo para a ativação do WAF nas URLs da loja é de 4 semanas, além do período necessário para migrar para a [Azion](https://www.azion.com/), quando aplicável.
+Após a solicitação, o prazo para a ativação do WAF nas URLs da loja é de 4 semanas, além do período necessário para migrar para o provedor, quando aplicável.
 
 ## Saiba mais
 

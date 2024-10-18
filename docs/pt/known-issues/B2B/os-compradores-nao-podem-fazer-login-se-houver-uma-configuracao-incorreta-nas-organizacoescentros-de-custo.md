@@ -3,8 +3,8 @@ title: 'Os compradores não podem fazer login se houver uma configuração incor
 id: r5p7K15FkbZUDSOUQ6hGz
 status: PUBLISHED
 createdAt: 2023-11-30T22:21:39.852Z
-updatedAt: 2023-12-01T20:19:35.375Z
-publishedAt: 2023-12-01T20:19:35.375Z
+updatedAt: 2024-10-18T18:14:54.658Z
+publishedAt: 2024-10-18T18:14:54.658Z
 firstPublishedAt: 2023-11-30T22:21:40.638Z
 contentType: knownIssue
 productTeam: B2B
