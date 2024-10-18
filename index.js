@@ -774,12 +774,9 @@ ${textPT}
     
     // Adjust folder structure for troubleshooting articles
     if (categoryNameEN == 'Troubleshooting') {
-      console.log('------------Troubleshooting found----------------')
       fileFolders = 'troubleshooting'
       fileSubFolder = subcategoryNameEN
       fileSubcategoryFolder = ''
-    } else {
-      console.log('Something else found')
     }
 
     // Construct the paths
