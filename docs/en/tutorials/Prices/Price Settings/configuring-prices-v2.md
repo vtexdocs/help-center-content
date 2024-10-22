@@ -20,7 +20,7 @@ The functions described in this article are not yet available for all clients.
 
 Price configurations are accessed by the **Settings** button in the **Prices** module.
 
-![Preco24](https://images.contentful.com/alneenqid6w5/5Wm20idGbCG0uKei00QQOi/5e18f35d0dd0790e5be98341c67ab4a6/Preco24.gif)
+![Preco24](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price Settings/configuring-prices-v2_1.gif)
 
 &nbsp;
 
@@ -43,4 +43,4 @@ Minimum markup is entered on the Configurações screen as a benchmark for two s
 
 The initial minimum markup, for each commercial policy, is always zero, and can be freely adjusted to positive or negative values.
 
-![Preco25](//images.contentful.com/alneenqid6w5/12nLR9a2AMwCeuYmmIagCI/94ff929a610a22b1fec685acfc0aec7c/Preco25.gif)
+![Preco25](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price Settings/configuring-prices-v2_2.gif)

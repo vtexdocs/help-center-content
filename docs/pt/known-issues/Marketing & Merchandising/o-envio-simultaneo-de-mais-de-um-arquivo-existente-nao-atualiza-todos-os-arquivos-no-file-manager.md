@@ -32,7 +32,7 @@ Ao enviar simultaneamente dois ou mais arquivos existentes no File Manager, apen
 
 Depois disso, você receberá o seguinte aviso:
 
-![File manager](//images.contentful.com/alneenqid6w5/4Z7tY3FKCDV1Cz6Whji6HI/d730b6accf6caeb81b373745b20c337d/image.png)
+![File manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing & Merchandising/o-envio-simultaneo-de-mais-de-um-arquivo-existente-nao-atualiza-todos-os-arquivos-no-file-manager_1.png)
 
 Isto significa que apenas um arquivo é identificado; os outros não estão sendo validados. Todos os arquivos são carregados, mas apenas um substituirá sua versão anterior.
 

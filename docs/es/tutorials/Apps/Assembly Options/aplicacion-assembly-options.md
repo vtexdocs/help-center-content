@@ -33,7 +33,7 @@ Una vez instalada, la página **Catálogo > Opciones de ensamblaje** estará dis
 
 En el Admin VTEX, en **Catálogo > Opciones de ensamblaje**, tendrás acceso a una lista con todas las Opciones de ensamblaje registradas en tu tienda cuando uses la aplicación.
 
-![assembly-options-app-es](https://images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/322bc4f9209983c3fc2f5c7bc85321d6/assembly-options-app-es.PNG)
+![assembly-options-app-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Assembly Options/aplicacion-assembly-options_1.PNG)
 
 La información que aparecerá en la lista será:
 

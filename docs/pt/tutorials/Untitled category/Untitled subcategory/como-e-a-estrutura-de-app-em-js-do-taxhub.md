@@ -34,7 +34,7 @@ Defina o nome do arquivo inicial, com o mesmo país da loja.
 Exemplo: argentina.js ou mexico.js, o arquivo .js da pasta principal e a pasta tem que ter o mesmo nome. A pasta IVA pode ter qualquer nome.
 
 A ordem de chamada que deve seguir também para o desenvolvimento:
-![TaxHubTree](https://images.contentful.com/alneenqid6w5/5hPFG8m6pUCMuIg8e2Iymm/957b9c89844099db690e82abe53c2b7a/TxHubTree.jpg)
+![TaxHubTree](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-e-a-estrutura-de-app-em-js-do-taxhub_1.jpg)
 
 Depois de fazer as alterações, é necessário fazer upload do arquivo à VTEX no formato .zip sempre com a mesma estrutura de pastas.
 

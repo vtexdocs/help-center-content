@@ -25,7 +25,7 @@ Neste artigo, você encontrará o principal método para entrada dos pedidos rec
 
 A integração de um pedido compreende quatro momentos distintos, cada um deles sendo um pequeno processo por si só.
 
-![ERP Orders 1](https://images.contentful.com/alneenqid6w5/7MtCGP7jpKOO2gKa8muGwO/481c6346e0d216f1cbe0588dc79eb617/ERP_Orders_1.png) 
+![ERP Orders 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/ERP integration/guia-de-integracao-de-erps-pedidos_1.png) 
 
 ## Download de pedido
 
@@ -35,7 +35,7 @@ Após decidir que é hora de levar um pedido para sua plataforma de fulfillment,
 
 No fim, para os pedidos processados, você envia ao OMS uma mensagem de "Start Handling".
 
-![ERP Orders 2](//images.contentful.com/alneenqid6w5/3SUWupt48gSG2iqM2q8qEA/28a578fa22944fac74f7f9d9121506ca/orders-integration-download.png) 
+![ERP Orders 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/ERP integration/guia-de-integracao-de-erps-pedidos_2.png) 
 
 ### Chamadas de API
 
@@ -102,7 +102,7 @@ Agora o pedido está sendo processado por sua plataforma de fulfillment. Durante
 
 Quando você estiver pronto para a entrega do pedido, é hora de informar isso à VTEX. Assim, a autorização de pagamento poderá ser capturada e o consumidor será notificado sobre o progresso.
 
-![ERP Orders 3](//images.contentful.com/alneenqid6w5/5UGtFvC0UwoEoEcqQk8kGa/249a691293a7f195257f5c161565cf5c/ERP_Orders_3.png)
+![ERP Orders 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/ERP integration/guia-de-integracao-de-erps-pedidos_3.png)
 
 ### Chamadas de API
 
@@ -176,7 +176,7 @@ Não há limite para o número de mensagens de rastreamento que podem ser adicio
 
 É importante ressaltar que essa informação é, na verdade, um conjunto de atributos de uma fatura. Portanto, pode ser enviada junto à fatura, no momento de envio à loja, caso você tenha essa informação nessa etapa.
 
-![ERP Orders 4](//images.contentful.com/alneenqid6w5/1v0Mk0y5a0uAmgcGmgAks4/6d416ec4b79faa89330d683a32c6905c/ERP_Orders_4.png) 
+![ERP Orders 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/ERP integration/guia-de-integracao-de-erps-pedidos_4.png) 
 
 ### Chamadas de API
 

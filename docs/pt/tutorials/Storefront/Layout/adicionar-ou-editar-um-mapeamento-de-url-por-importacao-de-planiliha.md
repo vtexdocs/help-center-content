@@ -26,4 +26,4 @@ A estrutura do arquivo deve ser a seguinte:
 - Coluna D: Data Inicial (Formato: DD/MM/AAAA)
 - Coluna E: Data Final (Formato: DD/MM/AAAA)
 
-![urlbuilder1](https://images.ctfassets.net/alneenqid6w5/5lgNG0muqcMmS2coOkyKgw/f96b218bfbe58e04ae16869a11f174e8/urlbuilder1.png)
+![urlbuilder1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/adicionar-ou-editar-um-mapeamento-de-url-por-importacao-de-planiliha_1.png)

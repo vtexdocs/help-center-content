@@ -23,7 +23,7 @@ Now you can filter prices by combining multiple Categories and Brands, as well a
 
 This update enables you to export more specific prices from filter selection.
 
-![filtro preco-EN](https://images.ctfassets.net/alneenqid6w5/6zuHx35ldRSPGIGMCw61VH/f16a50faf4cfba4d806f8d6aa7430735/filtro_preco-EN.png)
+![filtro preco-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020-09-11-price-filters-more-search-flexibility_1.png)
 
 ## What do I need to do?
 To use this new configuration, follow the steps below:

@@ -23,7 +23,7 @@ En el Admin, puede crear páginas de destino personalizadas según el [*binding*
 2. Seleccione el *binding* en el que debe crearse la nueva página de destino en el menú desplegable de la página.
 3. Haga clic en el botón `Crear nueva`.
 
-  ![es-landing-page-binding](https://images.ctfassets.net/alneenqid6w5/4VS1mFcJKaXeex3Cwr8V2/f22a1f99d5fe04ec192e8467ff7957cb/es-landing-page-binding.png)
+  ![es-landing-page-binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Site Editor/crear-paginas-de-destino-segun-el-binding_1.png)
 
 4. En la sección `Detalles de la página`, rellene los campos y defina los metadatos de su nueva página de destino según los valores esperados:
 

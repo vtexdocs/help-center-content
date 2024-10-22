@@ -29,6 +29,6 @@ In the VTEX Admin, go to **Apps > B2B Organizations and Cost Centers > Organizat
     - Status: Indicates whether the buyer organization is active.
     - Custom fields: Contains additional fields for an organization.
 
-![Configurações gerais organizações - EN](https://images.ctfassets.net/alneenqid6w5/27AqRCa9LbipRF1iFa0kXT/c2c35b3eb340e1aa5603eafd55c0568a/Configura__es_gerais_organiza__es_-_EN.gif)
+![Configurações gerais organizações - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/Organization details/b2b-organization-general-settings_1.gif)
 
 Make sure you click the `Save` button at the top right corner to apply the changes.

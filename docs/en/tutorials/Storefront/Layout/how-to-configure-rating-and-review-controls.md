@@ -41,10 +41,10 @@ These controls, unlike the others, will only work if specifically configured, as
 
 In registering the Category, there is the option to configure the Rating feature, and this is normally done in the root category:
 
-![avaliação-categoria EN](https://images.ctfassets.net/alneenqid6w5/QRc6IqC0gMkGMGyuces2S/91d41a3275a79250d08d375ba86add28/avalia____o_en.png)
+![avaliação-categoria EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-to-configure-rating-and-review-controls_1.png)
 
 Click on **new rating** and fill in the Name and Text fields, then save.
 
-![new-rating-categorias EN](//images.ctfassets.net/alneenqid6w5/k7zFwGh3bM8C6io8yicYU/7568bf49b49455acbf564e33146b2396/new_rating.png)
+![new-rating-categorias EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-to-configure-rating-and-review-controls_2.png)
 
 Now your Review and Rating controls are ready to be used.

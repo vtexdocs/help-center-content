@@ -34,7 +34,7 @@ Há duas áreas de configuração dessa funcionalidade: __Critérios prioritári
   <li><b>Score do Catálogo:</b> 3</li>
 </ul>
 
-![default priority criteria PT](https://images.ctfassets.net/alneenqid6w5/46WH9rGu8E2dpDry9i7uQ3/092139dbd13f66e3b061fba36704450a/screencapture-biggy-myvtex-admin-search-boost-settings-2021-06-23-16_19_41.png)
+![default priority criteria PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-intelligent-search/configurar-relevancia_1.png)
 
 Para alterar a configuração de Relevância, siga os passos abaixo.
 
@@ -42,7 +42,7 @@ Para alterar a configuração de Relevância, siga os passos abaixo.
 2. Clique em __Configuração de relevância__.
 3. Escolha o critério cujo peso você deseja alterar.
 4. Arraste o indicador para o número desejado, utilizando o cursor, conforme demonstrado na imagem abaixo.
-  ![composicao-criterios-pt](//images.ctfassets.net/alneenqid6w5/6qRT6JsD2MecPTXHksGIMa/008effff0981f64be5a28b8b4cc53063/composicao-criterios-pt.gif)
+  ![composicao-criterios-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-intelligent-search/configurar-relevancia_2.gif)
   Caso você queira mudar a posição de um critério de __Composição de critérios__ para __Critérios prioritários__, basta arrastá-lo pelo ícone <i class="fas fa-bars"></i> para a área superior, conforme demonstrado abaixo. Note que quando o critério se torna prioritário, não é mais possível alterar seu peso.
-  ![criterios-prioritarios-pt](//images.ctfassets.net/alneenqid6w5/51sDib8UqJmQJmcqyIDSIE/4cf717f0197e391b10d723dc13bfb57b/criterios-prioritarios-pt.gif)
+  ![criterios-prioritarios-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-intelligent-search/configurar-relevancia_3.gif)
 5. Para finalizar, clique em __Salvar__.

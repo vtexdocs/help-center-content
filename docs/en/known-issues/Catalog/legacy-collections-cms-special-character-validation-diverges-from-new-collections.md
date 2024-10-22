@@ -43,7 +43,7 @@ This behavior might lead the user to mistakenly think it items were added to the
 
 5) A special character validation prompt will be shown and no data will be saved
 
- ![](https://vtexhelp.zendesk.com/attachments/token/pwqKP9iXeEaIFRjUGN93jwOOw/?name=inline773082053.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/legacy-collections-cms-special-character-validation-diverges-from-new-collections_1.png)
 
 
 

@@ -22,7 +22,7 @@ internalReference: 741110
 
 When trying to create a seller through Admin and fulfilling the optional Additional Information form, an error is returned like this:
 `The seller has been successfully added, but some information could not be saved.`
- ![](https://vtexhelp.zendesk.com/attachments/token/FYe7irRht0psXP4PwkEH7fm05/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/create-seller-with-additional-information-is-returning-an-error_1.png)
 
 Despite the message, the seller was not actually saved.
 

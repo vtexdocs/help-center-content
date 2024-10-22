@@ -32,7 +32,7 @@ Los clientes no pueden utilizar la función de arrastrar y soltar en el editor d
 
 Ir a cualquier cuenta y tratar de subir una imagen de banner a través de arrastrar y soltar
 
- ![](https://vtexhelp.zendesk.com/attachments/token/VImrMx2X11Cyb9sePaOFJJbj2/?name=inline785506209.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/problema-de-arrastrar-y-soltar-en-el-editor-de-sitios_1.png)
 https://share.vidyard.com/watch/RXWHL4QYir7i5h1U4zuEuJ
 
 

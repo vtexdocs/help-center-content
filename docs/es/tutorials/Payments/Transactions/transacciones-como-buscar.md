@@ -35,13 +35,13 @@ Para volver a la lista original de las transacciones, basta apagar el valor ante
 
 Al hacer clic en una solicitud en el Gestión de Pedidos, usted va a la página que trae un resumen sobre él. Las principales informaciones están ahí, pero usted puede ver aún más detalles si hace clic en el enlace _Ver detalles de la transacción_:
 
-![Link transação OMS (ES)](https://images.ctfassets.net/alneenqid6w5/4lCG7cxc8MacMYQgmecqG6/33669bc2490b6732d50b1e9769129c33/Link_transa____o_OMS__ES_.png)
+![Link transação OMS (ES)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Transactions/transacciones-como-buscar_1.png)
 
 ## TID del Pago e ID del Pago
 
 La búsqueda utilizando esos códigos necesariamente necesita contener todos los dígitos, o su búsqueda regresará vacía. Vea abajo como encontrarlo:
 
-![Códigos ES](//images.ctfassets.net/alneenqid6w5/X1c6jZ4yomYGoE8U4o86u/d68575f5fa61a6b38517920f247cc460/C__digos_ES.png)
+![Códigos ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Transactions/transacciones-como-buscar_2.png)
 
 Estos valores, dentro del detalle de la transacción representarán la comunicación junto al respectivo conector. En los Eventos de la transacción será posible validar cada contacto hecho utilizando estos como identificador.
 

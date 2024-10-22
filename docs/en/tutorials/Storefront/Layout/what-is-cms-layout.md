@@ -37,7 +37,7 @@ Before you begin to organize the content of your Web Site, it must be linked to 
 
 This is a fundamental process for the perfect functioning of your store, but it is also very simple. Just follow the steps [of this article](/en/tutorial/linking-an-account-name-to-a-website-binding).
 
-![Binding](https://images.contentful.com/alneenqid6w5/2selXSrkaoWaqUug24Mewm/bfea4f2413f1433c6cc2b80d8c7c9a93/Binding-min.png)
+![Binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/what-is-cms-layout_1.png)
 
 ## Layouts and templates
 

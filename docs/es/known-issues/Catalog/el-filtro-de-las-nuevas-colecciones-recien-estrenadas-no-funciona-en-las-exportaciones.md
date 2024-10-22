@@ -23,7 +23,7 @@ internalReference: 576760
 
 El filtro de productos "Lanzamiento reciente" en el nuevo módulo de colecciones recupera los productos que se establecieron con la variable de fecha de lanzamiento en el pasado reciente. Está presente en el siguiente componente de la interfaz de usuario:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/pFLlcE3tDbGcA0bgmlAhPNccB/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/el-filtro-de-las-nuevas-colecciones-recien-estrenadas-no-funciona-en-las-exportaciones_1.png)
 
 Sin embargo, al combinar esta funcionalidad con la exportación de hojas, este filtro se ignora, trayendo todos los productos dentro de la colección.
 

@@ -34,7 +34,7 @@ Veja abaixo algumas dicas para aproveitar ao máximo essa funcionalidade:
 
 Inicie ajustando o fuso horário e selecionando a loja que deseja monitorar na Visão geral em tempo real.
 
-![fuso-pt](https://images.ctfassets.net/alneenqid6w5/7sfMnNC4GYLOU0tiiunxvR/27380d6a540c52fb03aaf6a19ccdafb4/fuso-pt.png)
+![fuso-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_1.png)
 
 ### Filtro de referência
 
@@ -51,26 +51,26 @@ Para configurar a referência, siga os passos a seguir:
 >
 > Esta opção está disponível para clientes que utilizavam a plataforma VTEX nesse período no ano passado.</br>
 
-![referencia-pt](//images.ctfassets.net/alneenqid6w5/1ba2BbD9ANCJfHj5o4jwQC/c92d901550424a6ce3e095a28fd1f8db/referencia-pt.png)
+![referencia-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_2.png)
 
 ### Filtro de visualização
 
 - **Acompanhe a performance do dia com a visão acumulada:** a **visão acumulada** mostra o monitoramento da performance de vendas do seu ecommerce minuto a minuto, trazendo insights para ajustes rápidos na operação.  
 Para selecionar o modo **visão acumulada** no dashboard, clique em **Visualização<i class="fas fa-angle-down"></i> > Acumulado.**   
 
-![acumulada-pt](//images.ctfassets.net/alneenqid6w5/12S4L4jhi6FwkoW3TsNnAP/90c6937f448f6b02da0721181b8ae552/acumulada-pt.png)
+![acumulada-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_3.png)
 
 - **Acompanhe a performance das últimas horas:** a **visão das últimas 2 horas** apresenta as métricas isoladas minuto a minuto, o que é importante para assegurar a estabilidade operacional da sua loja durante o evento.  
 Para selecionar o modo **Últimas 2 horas** no dashboard, clique em **Visualização <i class="fas fa-angle-down"></i> > Últimas 2 horas.**
 
-![horas-pt](//images.ctfassets.net/alneenqid6w5/7lFOUhQFyRgGFjooVOuvDy/76b3ea0dbacfa045ebd05cd6ae939796/horas-pt.png)
+![horas-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_4.png)
 
 ### Métricas  
 
 Com a **Visão geral em tempo real,** obtenha insights importantes sobre sua estratégia de vendas. Por exemplo, use os "produtos mais vendidos" como referência para impulsionar campanhas e alavancar ainda mais seus resultados.  
 Para visualizar os produtos mais vendidos, no quadro de **Métricas,** clique no botão <i class="fas fa-ellipsis-v"></i> e selecione **Produtos mais vendidos.**
 
-![mais-vendidos-pt](//images.ctfassets.net/alneenqid6w5/1sooXuFeV0NyhByWoLegHb/9c99acbbf617a57ef431bfec05873aa9/mais-vendidos-pt.png)
+![mais-vendidos-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_5.png)
 
 >ℹ️ Para análises ou acompanhamentos de períodos maiores, recomendamos o uso do nosso dashboard de performance de vendas, que será detalhado na próxima pergunta.
 
@@ -82,7 +82,7 @@ Para um acompanhamento diário da operação do seu ecommerce, o [dashboard de P
 - **Data**  
 Ao acessar o dashboard, o primeiro passo é definir o **Período principal** e **Comparar com**. Se estiver analisando após a Black Week, selecione `Última semana` para comparar com a Black Week do ano passado (opção disponível se você já era cliente VTEX). Durante a Black Week, prefira `Personalizar` e escolha os dias específicos para análise.
 
-![vendas-data-pt](//images.ctfassets.net/alneenqid6w5/1ohgIwKBI0qsKrScdHUdE4/e55170c03fa62f9df615a8be66d0dcd6/vendas-data-pt.png)
+![vendas-data-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_6.png)
 
 - **Filtros combinados**  
 Os dados apresentados no dashboard de vendas podem ser segmentados através dos filtros combinados, um exemplo é o filtro de categoria. Para adicionar um novo filtro, siga os seguintes passos:  
@@ -93,7 +93,7 @@ Os dados apresentados no dashboard de vendas podem ser segmentados através dos 
 
 É possível explorar outros filtros conforme a necessidade e os aspectos do seu ecommerce.  
 
-![adicionar-filtro-pt](//images.ctfassets.net/alneenqid6w5/71V1UF9tUvs1BtIFw9BRgZ/f6e9ab2ea49d191a99cabda460179bc7/adicionar-filtro-pt.png)
+![adicionar-filtro-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_7.png)
 
 ### Métricas  
 
@@ -107,22 +107,22 @@ Durante a Black Week, esse dashboard pode ser utilizado para analisar as seguint
 - Ticket médio (aprovado)
 - Pedidos (cancelados)
 
-![mudar-metrica-pt](//images.ctfassets.net/alneenqid6w5/VI0G6Wp0QYu85mUQN9hA9/0c821bba0f892f370cb964c3066ca260/mudar-metrica-pt.png)
+![mudar-metrica-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_8.png)
 
 - **Performance da semana**  
 Após os ajustes, compare o desempenho da semana atual com a Black Week do ano passado para identificar tendências e oportunidades.  
 
-![performance-semana-pt](//images.ctfassets.net/alneenqid6w5/5UOlx5RSYyY9LQbryuMlYw/b6f43694faee09f289227978a311a797/performance-semana-pt.png)
+![performance-semana-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_9.png)
 
 - **Análise da tabela**   
 Analise a tabela detalhada para obter insights mais profundos. Por exemplo, a análise por SKU pode revelar quais produtos devem ser destacados em futuras campanhas.
 
-![analise-tabela-pt](//images.ctfassets.net/alneenqid6w5/5bcuf4WK9hCMAyrKjfvUUV/05e608c70c457650ee826c85cb7a18b5/analise-tabela-pt.png)
+![analise-tabela-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_10.png)
 
 - **Salve sua visualização**   
 Para consultas futuras, salve a configuração do seu dashboard. Clique em **Gestão de vendas > <i class="fas fa-plus"></i>  > Adicione um nome > `Criar`** para guardar sua visualização personalizada.  
 
-![criar-exibição-pt](//images.ctfassets.net/alneenqid6w5/4JFfJdUqSKhh3vqO2Jdq2Q/f3f76fdffa9837442e414b42aae75ac3/criar-exibi__o-pt.png)
+![criar-exibição-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_11.png)
 
 ## Por que minhas métricas estão diferentes da tela de Pedidos do Admin?  
 
@@ -133,7 +133,7 @@ Há alguns motivos que podem levar a diferenças entre as métricas da Visão ge
 - **Tempo de atualização diferente:** a tela Visão geral em tempo real tem um tempo de atualização de cerca de 1 a 3 minutos. Portanto, é comum haver uma pequena discrepância (de 1 a 3% do total) entre as duas telas.  
 - **Fórmula de cálculo de receita:** as métricas na Visão geral em tempo real não consideram descontos, frete, taxas e promoções no cálculo da receita, enquanto a tela de Pedidos considera esses fatores.  
 
-![selecao-loja-pt](//images.ctfassets.net/alneenqid6w5/1REIeF2xgDkIW8JuxjIWwx/89439bd5b253d4c38eacbdb441df0d5a/selecao-loja-pt.png)
+![selecao-loja-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_12.png)
 
 Para ver as métricas combinadas de todas as lojas,acesse o dashboard **Performance de vendas,** que apresenta dados agregados com uma taxa de atualização de aproximadamente 90 minutos. 
 
@@ -141,11 +141,11 @@ Para ver as métricas combinadas de todas as lojas,acesse o dashboard **Performa
 >
 > Para comparar com a tela de **Pedidos,** você deve somar o total de pedidos de todas as suas moedas.</br>  
 
-![todos-os-pedidos-pt](//images.ctfassets.net/alneenqid6w5/4tG8VMrSZU45ZRsDHifGPV/9891a93c18c0a1858c4d96340e17ac21/todos-os-pedidos-pt.png)
+![todos-os-pedidos-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_13.png)
 
 - **Fuso horário:** este filtro está disponível na **Visão geral.** Se usar um fuso horário diferente do padrão da tela de Pedidos (que é seu fuso horário atual), as métricas não serão iguais. Ajuste o fuso horário conforme necessário.  
 
-![vendas-fuso-pt](//images.ctfassets.net/alneenqid6w5/3PQegjpVrlr4JlBs7fR2Cv/cb0e95d1cb6606230099bc85855254c6/vendas-fuso-pt.png)
+![vendas-fuso-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_14.png)
 
 ## Por que não tenho dados de sessões ou taxa de conversão?  
 
@@ -155,7 +155,7 @@ No entanto, é importante saber que nosso script não captura dados de sessões 
 
 Se você notar a ausência desses dados, é possível que isso se deva a uma dessas limitações. Recomendamos verificar as configurações do script e possíveis personalizações no frontend que possam estar afetando a captura de dados.
 
-![vendas-visao-geral-pt](//images.ctfassets.net/alneenqid6w5/2Lywp5C24kGVVhUHriyug8/c20776ac629c196881678e0a720f5e86/vendas-visao-geral-pt.png)  
+![vendas-visao-geral-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_15.png)  
 
 ## Por que as minhas métricas de taxa de conversão, novas sessões ou funil de vendas não batem com os números das minhas ferramentas internas?  
 
@@ -173,8 +173,8 @@ Para definir qual moeda será exibida, avaliamos qual é a moeda mais utilizada 
 
 Como resultado, se você opera com mais de uma moeda, é importante somar o total de pedidos da tela de Pedidos do Admin de todas as suas moedas para corresponder ao dado de pedidos apresentado na Visão geral em tempo real.  
 
-![todos-os-pedidos-pt](//images.ctfassets.net/alneenqid6w5/4tG8VMrSZU45ZRsDHifGPV/9891a93c18c0a1858c4d96340e17ac21/todos-os-pedidos-pt.png)  
-![monitoramento-pt](//images.ctfassets.net/alneenqid6w5/3Kmi0wL5ie28LIIFZlLIzN/cd0ac69320e37428e59c1a7770895632/monitoramento-pt.png)  
+![todos-os-pedidos-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_16.png)  
+![monitoramento-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_17.png)  
 
 ## Por que o número de pedidos da análise de funil de vendas não bate com o da parte de Monitoramento?
 
@@ -184,8 +184,8 @@ Por outro lado, os dados do funil de vendas são coletados da base de navegaçã
 
 Como resultado, é comum que o número de pedidos no funil de vendas seja menor do que na parte de monitoramento, que apresenta uma visão mais ampla das vendas da loja, incluindo canais externos à plataforma VTEX.  
 
-![taxa-conversão-pt](//images.ctfassets.net/alneenqid6w5/3PTACRp0lgoWd35Mavp9Fj/837f35d360d6b1c7fad1089e39fb4119/taxa-convers_o-pt.png)  
-![novas-sessoes-pt](//images.ctfassets.net/alneenqid6w5/2mMweozEf0zpcmSTxLiU94/7f9a00ffd9e4bf2cf5c6718403e0c0ab/novas-sessoes-pt.png)  
+![taxa-conversão-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_18.png)  
+![novas-sessoes-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_19.png)  
 
 ## Por que a nova Visão geral está em uma URL separada?
 

@@ -88,11 +88,11 @@ Las siguientes imágenes muestran ejemplos de cómo rellenar estos valores en el
 
 * **Ejemplo de frecuencia mensual:** la imagen muestra una suscripción mensual con pedidos que se pueden realizar todos los días 1, 15 o 28 de cada mes:
 
-  ![ES Assinatura Exemplo Valores month](https://images.ctfassets.net/alneenqid6w5/5tbntKlv4WeYUXQtM8EMGz/84d58a31d1b449fdbdfad60fae5dec0d/ES_Assinatura_Exemplo_Valores_month.png)
+  ![ES Assinatura Exemplo Valores month](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription Guides/como-crear-un-anexo-de-suscripcion-en-el-modulo-catalogo_1.png)
 
 * **Ejemplo de frecuencia cada 3 semanas:** la imagen muestra una suscripción que crea nuevos pedidos cada 3 semanas, y la compra puede realizarse los domingos, martes o sábados.
 
-  ![ES Assinatura Exemplo Valores week](//images.ctfassets.net/alneenqid6w5/1KDaD3iRFBwt7xrikkB8V9/ecfe9cb9da8bb798d410f5d709c8b04d/ES_Assinatura_Exemplo_Valores_week.png)
+  ![ES Assinatura Exemplo Valores week](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription Guides/como-crear-un-anexo-de-suscripcion-en-el-modulo-catalogo_2.png)
 
 ## 3. Asociar SKU con anexo de suscripción
 

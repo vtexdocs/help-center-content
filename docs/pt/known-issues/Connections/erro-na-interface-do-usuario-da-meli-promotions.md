@@ -33,7 +33,7 @@ Isso se deve aos limites de solicitação do MELI, e investigaremos mais a fundo
 
 Dentro do menu "Mercado Livre" - "Promoções", às vezes pode ocorrer o erro abaixo:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/nTFCikj9ovOIsLA0QqkjuAwkU/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/erro-na-interface-do-usuario-da-meli-promotions_1.png)
 
 ## Workaround
 

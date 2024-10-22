@@ -39,7 +39,7 @@ The prop sortVariationsByLabel from sku selector might be able to solve some cas
 
 https://developers.vtex.com/docs/guides/vtex-store-components-skuselector
 
- ![](https://vtexhelp.zendesk.com/attachments/token/tcCXWNHIw8KJupddSHiMElnxl/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Intelligent Search/intelligent-search-not-returning-correct-sku-order_1.png)
 
 
 

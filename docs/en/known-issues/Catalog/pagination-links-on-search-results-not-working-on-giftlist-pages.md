@@ -29,7 +29,7 @@ Pagination links on `SearchResult` not working on `Giftlist`.
 - Access a Giftlist with enough products to have pagination, use a default template without any customization;
 - Check the Pagination links:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/LAmUCIdMsybPqVkRGh9TcNq99/?name=inline-998244926.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/pagination-links-on-search-results-not-working-on-giftlist-pages_1.png)
 
 - These links don't work.
 

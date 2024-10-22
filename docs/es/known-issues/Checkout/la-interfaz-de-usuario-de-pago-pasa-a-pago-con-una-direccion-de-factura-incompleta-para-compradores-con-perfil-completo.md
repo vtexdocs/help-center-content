@@ -31,7 +31,7 @@ Cuando un comprador tiene un perfil completo y la tienda está configurada para 
 
 
 - Configurar la dirección de factura para la recogida;
- ![](https://vtexhelp.zendesk.com/attachments/token/1zJ19Lq9oJ5CHdkaHUfw4SAka/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Checkout/la-interfaz-de-usuario-de-pago-pasa-a-pago-con-una-direccion-de-factura-incompleta-para-compradores-con-perfil-completo_1.png)
 
 - Después de añadir productos a la cesta, utilice un correo electrónico con un perfil completo;
 - La interfaz de usuario pasará al pago incluso con una dirección de factura incompleta en el sistema de perfiles.

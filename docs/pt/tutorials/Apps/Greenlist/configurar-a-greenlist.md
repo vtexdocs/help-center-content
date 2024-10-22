@@ -43,7 +43,7 @@ __A Greenlist é uma lista de clientes pré-aprovados pelo lojista de acordo com
 
 Para marcar um cliente como confiável, o lojista usa alguns critérios. Estes critérios são os __dados de compra que compõem a assinatura de um pedido__:
 
-![Greenlist - assinatura](https://images.contentful.com/alneenqid6w5/3CvVVFRIJ22wS6o8sq6ok6/45cdf4a8259437d36aa74a40a8a04715/Greenlist_-_assinatura.png)
+![Greenlist - assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Greenlist/configurar-a-greenlist_1.png)
 
 Digamos que você marque três das opções da tela acima: __E-mail__, __Endereço de entrega__ e __Cartão de crédito__. Isso significa que, para que novos pedidos desse cliente não passem pelo antifraude, ele precisa usar em novas compras os mesmos dados de e-mail, endereço e cartão de crédito. 
 
@@ -55,7 +55,7 @@ A recorrência da assinatura define o número de pedidos que um cliente deve faz
 
 Este número deve ser definido pelo próprio lojista, e pode variar de __1 a 10__.
 
-![Greenlist - recorrencia](//images.contentful.com/alneenqid6w5/2TFJUnw1Cw8I0KcqCcAsmS/6aaec62228ec8ff5a38093e743a4229b/Greenlist_-_recorrencia.png)
+![Greenlist - recorrencia](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Greenlist/configurar-a-greenlist_2.png)
 
 Se você definir a recorrência para 6, por exemplo, todos os clientes da sua loja que fizerem seis compras usando os mesmos dados definidos na assinatura deixam de passar pelo antifraude a partir da próxima compra.
 
@@ -63,7 +63,7 @@ Se você definir a recorrência para 6, por exemplo, todos os clientes da sua lo
 
 Você pode configurar um valor máximo para que a Greenlist seja válida. Isto porque mesmo que um cliente já tenha sido marcado como confiável, você pode preferir que - para valores muito altos, em que o risco de perda é maior - o antifraude atue independentemente do histórico de compras desse cliente.
 
-![Greenlist - valor maximo](//images.contentful.com/alneenqid6w5/1CG6Wm74qIu4Qam2WekkE4/02f3e165b7970651406d667ae66e4589/Greenlist_-_valor_maximo.png)
+![Greenlist - valor maximo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Greenlist/configurar-a-greenlist_3.png)
 
 ### Prazo de segurança para Chargeback
 
@@ -71,7 +71,7 @@ Você pode configurar um valor máximo para que a Greenlist seja válida. Isto p
 
 Neste caso, é interessante definir uma margem de segurança para a análise do Greenlist. Ao escolher, por exemplo, um prazo de segurança de 30 dias, o lojista está dizendo que todo pedido aprovado pelo antifraude será avaliado pela Greenlist apenas depois de 30 dias.
 
-![Greenlist - chargeback](//images.contentful.com/alneenqid6w5/314Ig5HLCU2uy0kyYEu4gC/105ed241ac49923035a7b4d441d698e0/Greenlist_-_chargeback.png)
+![Greenlist - chargeback](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Greenlist/configurar-a-greenlist_4.png)
 
 ### Ativando a Greenlist
 
@@ -90,6 +90,6 @@ Se você identificar o pedido de um cliente integrante da Greenlist (ou qualquer
 2. Na lista de transações, clique na transação que você deseja marcar como fruade;
 3. Clique no botão __Marcar o pagamento como fraude__.
 
-![Marcar como fraude](//images.contentful.com/alneenqid6w5/3EiAcGulosCgQq4qCIGqQE/d0be6c70e7129f63b189c56bdb79012b/fraud.png)
+![Marcar como fraude](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Greenlist/configurar-a-greenlist_5.png)
 
 Uma vez que uma transação é marcada como fraude, o cliente que fez o pedido é retirado da Greenlist. 

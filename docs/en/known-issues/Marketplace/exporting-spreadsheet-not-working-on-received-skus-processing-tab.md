@@ -32,7 +32,7 @@ When trying to export the list of skus that are on the processing tab of Receive
 
 
 - Go to the processing tab on Received Skus
- ![](https://vtexhelp.zendesk.com/attachments/token/qdzTWsYKa2blXNzj2cp3idUe7/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/exporting-spreadsheet-not-working-on-received-skus-processing-tab_1.png)
 
 - Try to export the spreadsheet
 - Check that the error message appears.

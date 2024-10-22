@@ -23,7 +23,7 @@ internalReference: 1053609
 
 Un comprador puede buscar diferentes puntos de recogida en diferentes códigos postales. Al utilizar lean shipping, después de añadir un código postal con puntos de recogida disponibles y cambiar a un código postal sin puntos de recogida, el paso de envío se bloquea con el mensaje "Algo ha ido mal".
 
- ![](https://vtexhelp.zendesk.com/attachments/token/i0jCDFlz5EGPnKyk5Nfw0Etl0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Checkout/lean-shipping-provoca-algo-salio-mal-tras-cambiar-los-puntos-de-recogida_1.png)
 
 
 ##

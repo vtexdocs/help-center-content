@@ -20,7 +20,7 @@ internalReference: 751091
 
 
 Via UI (directly on VTEX admin) is possible to create an attachment without the field **Permitted values** filled:
- ![](https://vtexhelp.zendesk.com/attachments/token/8rFw6593yoVr64CViajezsXW0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/attachment-update-and-create-api-validation-on-field-domainvalues-not-working_1.png)
 
 However, via API there is this validation for this field:
 

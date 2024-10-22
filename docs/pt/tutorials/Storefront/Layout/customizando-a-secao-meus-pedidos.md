@@ -34,7 +34,7 @@ Veja abaixo uma lista com as classes disponíveis para customização.
 
 ### Lista de pedidos
 
-![Página de lista de pedidos com classes para customização destacadas sobre ela](https://images.contentful.com/alneenqid6w5/1P5JMzt3jGIAKIOmC4ka4e/d7511d7273f4a957acc6f7e1322a81e6/my-orders-doc-1.png) 
+![Página de lista de pedidos com classes para customização destacadas sobre ela](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/customizando-a-secao-meus-pedidos_1.png) 
 
 CSS:
 ```
@@ -49,7 +49,7 @@ CSS:
 
 ### Detalhe do pedido
 
-![Página de detalhe do pedido com classes para customização destacadas sobre ela](//images.contentful.com/alneenqid6w5/5szHUT7x9CAOseYGkcEskS/e8a846072846d20648c65a1cd00059c4/my-orders-doc-2.png)
+![Página de detalhe do pedido com classes para customização destacadas sobre ela](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/customizando-a-secao-meus-pedidos_2.png)
 
 CSS:
 ```
@@ -59,7 +59,7 @@ CSS:
 
 ### Cancelamento de pedido
 
-![Página de cancelamento do pedido com classes para customização destacadas sobre ela](//images.contentful.com/alneenqid6w5/5mUVzR5n7aMScoSs4auem4/05bfeea119bb4fc42afe448c66c9674f/my-orders-doc-3.png)
+![Página de cancelamento do pedido com classes para customização destacadas sobre ela](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/customizando-a-secao-meus-pedidos_3.png)
 
 CSS:
 ```

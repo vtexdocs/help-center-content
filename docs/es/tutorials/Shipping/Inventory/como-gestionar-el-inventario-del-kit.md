@@ -27,7 +27,7 @@ El kit con componentes se fundamenta en un Producto kit que posee un SKU que es 
 
 Por ejemplo, un producto Kit Colorido se compone por otros diez SKUs. Cada uno con su precio y la cantidad necesaria de 1 ítem de cada SKU para que se pueda componer el Kit:
 
-![](https://images.contentful.com/alneenqid6w5/2zwcLWeIX2kwsiQ0GCYm6G/b11fa6ded4ffb56faed9bc0158e980ae/kitcolorido.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory/como-gestionar-el-inventario-del-kit_1.png)
 
 En este tipo de kit, el precio y el Inventario del kit en sí es la suma de estos valores de sus respectivos componentes. Esto es, no se actualiza directamente el SKU del kit, pero sus respectivos componentes.
 

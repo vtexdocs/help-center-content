@@ -28,7 +28,7 @@ Para conferir o saldo da sua conta, siga o passo a passo:
 - Clique em __Resumo da Conta__;
 - Do lado esquerdo da tela, encontre o box de __Saldo__.
 
-![saldodisponivelPT](https://images.ctfassets.net/alneenqid6w5/wP9JUmFgAaH3svDApS1hi/0da1d892f79292d1c9fce55bfbc9c2f5/image.png)
+![saldodisponivelPT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX Payment/Corporate account/como-consultar-seu-saldo_1.png)
 
 A box apresenta dois valores. O primeiro, __Disponível__, apresenta o saldo em conta livre para movimentações. Já o segundo, __Saldo a receber__, consta o soma dos futuros pagamentos que serão lançados na conta digital corporativa. 
 

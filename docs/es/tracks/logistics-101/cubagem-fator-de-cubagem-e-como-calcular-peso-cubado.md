@@ -48,4 +48,4 @@ En este caso, al comparar el peso real con el peso cúbico del paquete, la trans
 Al realizar el registro de su transportadora, ese es el valor que debe completar  en el campo Factor Cúbico de Peso.
 
 
-![PesoCubado](https://images.contentful.com/alneenqid6w5/ZzHF9fwwec6c6m2AiyYGS/37343a8bb4858cdf296f5a3c450567f3/PesoCubado.png)
+![PesoCubado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/logistics-101/cubagem-fator-de-cubagem-e-como-calcular-peso-cubado_1.png)

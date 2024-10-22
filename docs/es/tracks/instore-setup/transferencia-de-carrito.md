@@ -31,14 +31,14 @@ window.INSTORE_CONFIG = {
 
 Al realizar este cambio, debe darse cuenta de que aparecerán dos bolitas al final de la página de identificación del inStore:
 
-![01 inStore slider transferencia](https://images.ctfassets.net/alneenqid6w5/5h4AVCw4sE4oAIsMEMskU0/a5739c88008a9029755adadc58a332bf/01_inStore_slider_transferencia.png)
+![01 inStore slider transferencia](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-setup/transferencia-de-carrito_1.png)
 
 Al arrastrar la pantalla hacia el lateral verá la pantalla para __ "Capturar carrito" __:
 
-![02 inStore capturar carrinho](//images.ctfassets.net/alneenqid6w5/1hfTK0X9dg4CgSKEqYm0gG/637365736b1bb04e0dae621e2a7022b9/02_inStore_capturar_carrinho.png)
+![02 inStore capturar carrinho](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-setup/transferencia-de-carrito_2.png)
 
 En ella es posible capturar un carrito por el código del carrito, QR code o incluso por vendedor.
 
 Para generar un código o código QR de un carro usted debe usar la opción __ "Transferir" __ presente en el carrito del inStore:
 
-![03 inStore transferir](//images.ctfassets.net/alneenqid6w5/5fpW69RgkgAgaig46S6kwu/72442a8c5d24f48861881f2a884c065a/03_inStore_transferir.png)
+![03 inStore transferir](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-setup/transferencia-de-carrito_3.png)

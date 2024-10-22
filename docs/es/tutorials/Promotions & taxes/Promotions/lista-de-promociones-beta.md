@@ -30,7 +30,7 @@ La página muestra la lista con las promociones registradas en tu tienda y su in
 | `Hasta` | Fecha de fin de la promoción.  |
 | `Status` | Status de la promoción, que puede ser: <p> __Activa:__ la promoción está activada.</p> <p>__Programada:__ la promoción está programada.</p> <p>__Pausada:__ la promoción está pausada. <p>__Completada:__ la promoción ha finalizado.</p> |
 
-![listadepromocoes es](https://images.ctfassets.net/alneenqid6w5/223hOuKKb0a23uFeYIr7UU/ae1fa5b782b350cdda3458e28459d51e/listadepromocoes_es.gif)
+![listadepromocoes es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/lista-de-promociones-beta_1.gif)
 
 Puedes ordernar la lista de promociones por nombre, fechas o status. Para ordenarlas, haz clic en el título de la columna que tiene la información que deseas utilizar como criterio de ordenación.
 
@@ -82,7 +82,7 @@ El archivo contiene la siguiente información sobre cada promoción:
 
 ## Uso de las promociones
 
-![usodaspromoções en](//images.ctfassets.net/alneenqid6w5/51IiIaxilx3SqfVdRtiX1A/15a27215629ed81ae47e6582bd6d9261/usodaspromo____es_en.JPG)
+![usodaspromoções en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/lista-de-promociones-beta_2.JPG)
 
 Para ver el total de promociones activas en tu tienda y el espacio restante para nuevas promociones, haz clic en <i class="fas fa-chart-line"></i> `Uso de las promociones`.
 
@@ -90,7 +90,7 @@ El número máximo de promociones activas por defecto es de 100. Si necesitas au
 
 ## Filtrar promociones
 
-![filtrodepromocoes es](//images.ctfassets.net/alneenqid6w5/6EuQui1lZ8MfnkvdvXh87S/2e90d2071d83698429988c2124acf67f/filtrodepromocoes_es.gif)
+![filtrodepromocoes es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/lista-de-promociones-beta_3.gif)
 
 La lista de promociones se puede filtrar según tus necesidades, utilizando los siguientes filtros:  
 

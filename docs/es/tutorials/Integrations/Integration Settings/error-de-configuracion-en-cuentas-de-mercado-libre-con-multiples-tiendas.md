@@ -27,7 +27,7 @@ En este escenario, si un cliente de Mercado Libre realiza una compra con dos o m
 
 VTEX no recomienda este tipo de configuración porque los pedidos no se integrarán.
 
-![cenario problemaES](https://images.contentful.com/alneenqid6w5/7Dq2eWaMl08r5O0ntzRRGM/5c9f9c1c94a09c75ad3b22da4988942e/cenario_problemaES.JPG)
+![cenario problemaES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Integration Settings/error-de-configuracion-en-cuentas-de-mercado-libre-con-multiples-tiendas_1.JPG)
 
 Sin embargo, en la integración de las tiendas VTEX con Mercado Libre, hay dos escenarios para evitar este error. Por eso es necesario que su tienda tenga la siguiente configuración:
 
@@ -40,7 +40,7 @@ El seller utiliza una única subcuenta en VTEX y solo se integra con una cuenta 
 
 En este escenario, si un cliente de Mercado Libre realiza una compra y el carrito contiene dos o más productos de diferentes tiendas oficiales del seller, el pedido se importará en VTEX correctamente. Esto se debe a que los productos que se anuncian en Mercado Libre forman parte del catálogo de una única subcuenta VTEX.
 
-![cenario unicousuarioES](//images.contentful.com/alneenqid6w5/2ioz7uT9i8krPZEmXC9HVw/7fafd490d3be84cdb63270afde292b27/cenario_unicousuarioES.JPG)
+![cenario unicousuarioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Integration Settings/error-de-configuracion-en-cuentas-de-mercado-libre-con-multiples-tiendas_2.JPG)
 
 ## Múltiples subaccounts VTEX y diversas tiendas oficiales
 
@@ -48,4 +48,4 @@ El seller VTEX tiene dos o varias subaccounts y utiliza cada una de ellas para i
 
 En este escenario, si un usuario realiza una compra en Mercado Libre y el carrito contiene dos o más productos que pertenecen a diferentes subaccounts, los pedidos se integrarán normalmente en cada subcuenta VTEX. Esto ocurre porque cada pedido generado en Mercado Libre está vinculado a una subcuenta diferente en VTEX, por eso los productos vendidos coinciden con el catálogo de cada subcuenta.
 
-![cenario multiplosES](//images.contentful.com/alneenqid6w5/2CEz1Aa9kesmkS0BU8A1HH/8f42b09ce80f940eb6280555d3f600c0/cenario_multiplosES.JPG)
+![cenario multiplosES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Integration Settings/error-de-configuracion-en-cuentas-de-mercado-libre-con-multiples-tiendas_3.JPG)

@@ -32,7 +32,7 @@ Siga os passos abaixo para validar as informações:
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Storefront** > **Master Data**.
 2. Na caixa __Profile System__, clique em __Clientes__.
-3. Selecione a opção __E-mail__ e busque pelo e-mail do cliente.![e-mail - Master Data](https://images.ctfassets.net/alneenqid6w5/cjpYKSZ1i8USYqs8Yga4E/df2c4793391483458ffcf8209a222f69/e-mail_-_Master_Data.png)
+3. Selecione a opção __E-mail__ e busque pelo e-mail do cliente.![e-mail - Master Data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master Data/Customer relations management/por-que-um-cliente-conseguiu-cadastrar-um-cpf-num-campo-de-cnpj_1.png)
 4. Clique no registro do cliente para acessar os detalhes do perfil.
 
 Na seção __Contato__, você verá que a opção `É Empresa?` está preenchida com o valor `Não`. Ao mesmo tempo, na seção __Dados da empresa__, você verá que o campo `Tipo documento` está preenchido com o valor `cnpj`. 

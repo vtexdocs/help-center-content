@@ -32,7 +32,7 @@ When applying a brand filter to it the selector will not move its min value to t
 2- Select a filter by checking it on the left (category2/3/4)
 3- With the filter applied, notice that the price range slider will keep the min value as before and will be out of the slider range.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/RuhwOHLwbPslKpeZ4VUq4Y995/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store Framework/price-range-slider-defaults-to-minimum-value-after-selecting-a-filter_1.png)
 
 Filter with the behavior as described for the min value.
 

@@ -30,5 +30,5 @@ When adding/removing a filter within the Product and SKUs creation page, the lay
 
 You should click on where the *Filter results or search* button was and then click on the blue button in the lower left corner, thus normalizing the page layout.
 
-![Image](//images.contentful.com/alneenqid6w5/2HUT45Pgcgqack2CMg22ug/0073487d59c786e3f959e608f9015e38/Exemplo.jpg)
+![Image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing & Merchandising/layout-malfunctions-when-adding-or-removing-a-filter_1.jpg)
 

@@ -18,7 +18,7 @@ trackSlugEN: prices-101
 
 A SKU's base price is the value which results from merging the **Cost Price** with the **Markup**, the desired profit margin with the SKU's sale. It represents the SKU's __reference price__ for all price tables. 
 
-![base-price-en](https://images.ctfassets.net/alneenqid6w5/cbmJa638a5NuZHtjF1FPN/4bb70f39b01a19c15ec07525e8372329/base-price-en.png)
+![base-price-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/prices-101/preco-base-definicao-de-conceito_1.png)
 
 This **base price** can be combined with a price table's applied **price rule**. If there are no registered price rules, a price table's selling price will be equal to the base price itself.
 

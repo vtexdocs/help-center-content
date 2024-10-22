@@ -28,7 +28,7 @@ Correct context: In some cases, seller is unable to integrate the SKU, as the er
 ## Simulation
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/8b6ggO2OjPCsPZlU5NanwK645/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/mercado-livre-sku-bridge-isnt-logging-some-error-messages_1.png)
 
 
 ##

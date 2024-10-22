@@ -33,7 +33,7 @@ El informe de imágenes SKU, /admin/Site/ProdutoImagemExportacao.aspx, para nomb
 
 Por ejemplo, si la cuenta se llama "testaccount":
 
- ![](https://vtexhelp.zendesk.com/attachments/token/3VxPtxFSDjU1obEtgqkS16BXM/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/al-exportar-imagenes-sku-para-cuentas-que-empiezan-por-ht-o-p-se-corta-este-caracter-en-las-filas-url-de-la-imagen_1.png)
 
 
 

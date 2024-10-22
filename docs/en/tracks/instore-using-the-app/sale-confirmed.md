@@ -16,4 +16,4 @@ trackSlugEN: instore-using-the-app
 
 The sales associate can see the __Sale confirmed__ page with the order summary when they finish a sale, or by clicking on a sale in the __Latest sales__ page, which they can access through VTEX Sales App's main menu. In the __Latest sales__ page, they can search for the order by order number or customer name.
 
-![order-placed-en](https://images.ctfassets.net/alneenqid6w5/1WzildtkElOIkalZuY3hkI/50395e206f1f6eb47f02a8f5a271a8d9/order-placed-en.png)
+![order-placed-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-using-the-app/sale-confirmed_1.png)

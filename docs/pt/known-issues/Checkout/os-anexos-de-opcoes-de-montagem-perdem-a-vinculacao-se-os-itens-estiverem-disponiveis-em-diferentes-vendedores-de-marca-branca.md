@@ -25,7 +25,7 @@ Os anexos das opções de montagem perdem a vinculação quando dois itens são 
 
 O comportamento esperado é que cada anexo seja entregue de acordo com suas opções de montagem. No entanto, ambos os acessórios serão entregues pelo mesmo vendedor, fazendo com que todos os acessórios das opções de montagem e o segundo item sejam exibidos como indisponíveis.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/pAnVC0tyWPYhIrtDBJJXfERRR/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Checkout/os-anexos-de-opcoes-de-montagem-perdem-a-vinculacao-se-os-itens-estiverem-disponiveis-em-diferentes-vendedores-de-marca-branca_1.png)
 
 ## Simulação
 

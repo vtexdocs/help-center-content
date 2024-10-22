@@ -33,13 +33,13 @@ Quando o armazenamento cria ou atualiza uma entidade de dados e tenta publicá-l
 
 - Acesse o aplicativo Sistema de armazenamento dinâmico / Estrutura de dados (https://my-account-here.ds.vtexcrm.com.br);
 - Acesse a guia Data Entities (Entidades de dados):
- ![](https://vtexhelp.zendesk.com/attachments/token/65UPKYKl3vuaeweF46K91bpI5/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/erro-ao-publicar-entidade-de-dados-de-armazenamento-dinamico_1.png)
 
 - Clique no ícone do disco para publicar a entidade de dados que foi criada ou atualizada:
- ![](https://vtexhelp.zendesk.com/attachments/token/C1nUZnpG8lmDWOL8wrXRBiGj0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/erro-ao-publicar-entidade-de-dados-de-armazenamento-dinamico_2.png)
 
 - Em seguida, a seguinte mensagem será exibida:
- ![](https://vtexhelp.zendesk.com/attachments/token/DFKVanOk3noBMaN8aBd6CQssp/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/erro-ao-publicar-entidade-de-dados-de-armazenamento-dinamico_3.png)
 
     Erro inesperado. Tente novamente ou entre em contato com o suporte ao cliente.
 

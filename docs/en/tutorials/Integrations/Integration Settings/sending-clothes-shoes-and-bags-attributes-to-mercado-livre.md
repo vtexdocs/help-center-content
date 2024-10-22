@@ -45,7 +45,7 @@ __That's it!__ Now the attributes of your products of types __Clothes__, __Shoes
 
 In Brazil, for example, a *yellow* footwear with *blue* details of *size 39* must be sent to Mercado Livre with the corresponding __SKU ID__ and the codes __33000_Amarelo_52007__, __43000_Azul_52092__ and __23000_39_22039__, relating to *main color*, *secondary color* and *size*. See more examples in the image below:
 
-![Planilha modelo ML](//images.contentful.com/alneenqid6w5/1Z4UPfR5beG6SoMucASAm0/132e8316128421a2c98da7ee8fdb81b4/Planilha-modelo-ML.png)
+![Planilha modelo ML](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integration Settings/sending-clothes-shoes-and-bags-attributes-to-mercado-livre_1.png)
 
 ## Go further
 

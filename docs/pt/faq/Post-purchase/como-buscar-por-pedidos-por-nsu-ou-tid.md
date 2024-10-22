@@ -18,6 +18,6 @@ Para quem utiliza o conector __CieloV3__ é possível buscar por pedidos pelos c
 
 Para isso, basta abrir a aba de filtros e ir na seção Outros > Campo Buscado
 
-![filtro nsu e tid](https://images.contentful.com/alneenqid6w5/1uXWcfrnn6oYgUcMGSiWCq/6c78582fcdf126706ab592470abf66e3/2017-07-03_16_05_45-Vendas___VTEX_OMS.png)
+![filtro nsu e tid](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Post-purchase/como-buscar-por-pedidos-por-nsu-ou-tid_1.png)
 
 A exportação do OMS também traz as informações de TIS e NSU para pedidos transacionados com o conector CieloV3.

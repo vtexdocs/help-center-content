@@ -39,7 +39,7 @@ To simulate the described scenario, at least two shipping policies serving the s
 4. See which pickup point has been selected;
 5. Check which pickup points were disregarded and note the message displayed.
 
-![KIpontoderetirada ES](//images.ctfassets.net/alneenqid6w5/6TLSPTSA7E5EG2sevnDYXf/3a5671abaf682e8a0a52e73e5db41896/KIpontoderetirada_ES.png)
+![KIpontoderetirada ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Post-purchase/puntos-de-recogida-descartados-segun-la-prioridad_1.png)
 
 The pickup point was disregarded because there was another shipping method already named as **SCS Mall**.
 

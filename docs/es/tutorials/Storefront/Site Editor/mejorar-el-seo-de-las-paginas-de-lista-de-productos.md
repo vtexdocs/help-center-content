@@ -21,7 +21,7 @@ Las PLP están correlacionadas porque cada producto tiene un enlace a una págin
 
 Para mejorar el rendimiento SEO de las PLP, debes permitir que los rastreadores web, como Google, noten esta conexión entre las PLP. De esta manera, estos rastreadores podrán navegar por diferentes páginas y acceder a los diferentes productos que muestran.
 
-![Button mostrar más](https://images.ctfassets.net/alneenqid6w5/63jE8FYBJW8ssJOXwoADTZ/8723224ebef9b883e645b3d366e54d48/bt-mostrar-m__s.png)
+![Button mostrar más](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Site Editor/mejorar-el-seo-de-las-paginas-de-lista-de-productos_1.png)
 
 Ve a continuación cómo mejorar el rendimiento SEO de las PLP [utilizando el Site Editor](#utilizando-site-editor).
 
@@ -39,7 +39,7 @@ Para mejorar el rendimiento SEO de las PLP a través del Site Editor, debes conf
 4. Haz clic en __Mostrar más.__
 5. En __Comportamiento del botón,__ selecciona la opción __Link a la página - Mejora el SEO, puede cambiar el aspecto del botón.__
 
-![bt-config-es](//images.ctfassets.net/alneenqid6w5/6LQJMtP8loMFop3pp5NgFt/528fc1e6393d25e09346b28e93aedd97/bt-config-es.gif)
+![bt-config-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Site Editor/mejorar-el-seo-de-las-paginas-de-lista-de-productos_2.gif)
 
 6. Haz clic en `GUARDAR`.
 7.  Para configurar el ítem __Mostrar anterior,__ amplíe el bloque Resultado de búsqueda flexible.

@@ -22,7 +22,7 @@ _Se você já possui essa configuração ativa mas está com alguns problemas ve
 
 Abaixo um passo-a-passo de como configurar e implementar esta funcionalidade.
 
-![zoom-configurações](https://images.ctfassets.net/alneenqid6w5/2syaIncF2UeOw0YgOcOSIq/02d931bb81ef413ad248f21e518fbd24/zoom.png)
+![zoom-configurações](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/como-configurar-o-zoom_1.png)
 
 ## Configurando o CSS
 
@@ -36,7 +36,7 @@ Abaixo reproduzimos um trecho de CSS que você pode utilizar como ponto de parti
 
 Em seguida, vamos enviar o arquivo CSS salvo para o servidor. Para isso, acesse no menu **CMS** > Acesse **Layout** > Entre na pasta **CMS** > Entre em **Files Manager** > Entre em **.css** > Na janela que se abrirá à direita, clique no botão **Add**.
 
-![add-cms-.css ](//images.ctfassets.net/alneenqid6w5/ZXAryRqp4AAosaKM2qmQa/40058a1db81bde2207c60158c682b667/add_.css.png)
+![add-cms-.css ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/como-configurar-o-zoom_2.png)
 
 Em seguida, localize o arquivo CSS salvo acima e envie-o para o servidor clicando no botão **Localizar** e em seguida no botão **Salvar arquivo**; dessa forma, seu arquivo aparecerá listado como mostra a imagem acima. 
 
@@ -54,4 +54,4 @@ Agora basta inserir `zoom="on"` na tag do produto, conforme abaixo:
 É necessário configurar o tamanho padrão da imagem de zoom. Você pode definir isso em **CMS** > **Configurações** > **Tipos de Arquivos**.
 Por padrão, esse tipo de imagem de zoom vem configurada com 1000×1000 pixels.
 
-![zoom-tiposdearquivo pt](//images.ctfassets.net/alneenqid6w5/3kUqg5mLCUkewseUmA0yK2/cb469406f4cec605ed3e05d9ec487c23/zoom_tipos_de_arquivo.png)
+![zoom-tiposdearquivo pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/como-configurar-o-zoom_3.png)

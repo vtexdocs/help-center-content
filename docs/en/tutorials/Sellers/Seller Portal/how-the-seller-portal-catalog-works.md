@@ -21,7 +21,7 @@ The Seller Portal Catalog is the module where you configure your store's product
 
 The Seller Portal Catalogue architecture is based on fundamental concepts distributed throughout the following hierarchy:
 
-![ilustra-catalogoEN](https://images.ctfassets.net/alneenqid6w5/3U5oa9w94stDXltSJPqF1V/0b0ac21f576210cc1acc7acac5391a93/ilustra-catalogoEN.png)
+![ilustra-catalogoEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Seller Portal/how-the-seller-portal-catalog-works_1.png)
 
 - **Categories:** ways in which your products can be organized. You cannot add your own categories; the marketplace defines the categories that are available to classify your products under. Each product will necessarily be linked to an already existing category.  
 - **Brands:** part of the attributes that characterize your store's products, allowing your customers to also find what they are looking for in a more specific way. You cannot add your own brands, the ones shown in the *Brands* tab have already been imported from the marketplace.    

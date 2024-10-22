@@ -53,11 +53,11 @@ The table below shows the main agents and terms used in the Payments context:
 
 When a purchase is completed on VTEX, a new transaction is created and the payment flow begins. In the example below, you can see the payment flow for a credit card purchase:
 
-![payments-en](https://images.ctfassets.net/alneenqid6w5/6rqeRDDqm3rijRrwpG6Lb1/8df497f70d26352352a11d942887afa7/payments_image1_EN__1_.JPG)
+![payments-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-store-overview/vtex-modules-ii_1.JPG)
 
 As the data is transferred among the agents responsible for data processing, the payment transaction status is updated to reflect the current stage of the resources in the flow. In the credit card payment flow, we can consider the following example of transaction statuses:
 
-![payments-flow-en](//images.ctfassets.net/alneenqid6w5/6fsbJZ07a18ea8I1pk7UFo/14fa9b346e6a041fa934f2cfa9d94ace/payments_image2_ALL.JPG)
+![payments-flow-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-store-overview/vtex-modules-ii_2.JPG)
 
 ### Configuring payments in your store
 
@@ -176,7 +176,7 @@ In the VTEX Admin, under **Orders > [All Orders](https://help.vtex.com/en/tutori
 
 On the order details page, you can also track the progress of the [order flow](https://help.vtex.com/en/tutorial/order-flow-and-status--tutorials_196). The image below illustrates an example of this flow when the store acts as both a marketplace and a seller:
 
-![order-flow-en](//images.ctfassets.net/alneenqid6w5/5ObTRbhlsYxoaW0Lzw7RmS/3ea6fe2efb78e9b449acb2dac8b1700f/pedido_fluxo_completo_en.png)
+![order-flow-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-store-overview/vtex-modules-ii_3.png)
 
 To find a purchase record in the VTEX Admin, you can either [filter orders](https://help.vtex.com/en/tutorial/filtering-all-orders--tutorials_192) on the **All Orders** page or use the global search bar, which is accessible from any page within the VTEX Admin. To search, simply select the `Orders` option in the right corner of the search bar and enter any of the following values:
 
@@ -229,7 +229,7 @@ Checkout is the last stage in the online shopping process, playing a significant
 
 To ensure the checkout will work properly, the following modules must be correctly configured: [Catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), [Logistics](https://help.vtex.com/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx), [Prices](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promotions](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Payments](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#), and [Orders](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE).
 
-![checkout-en](//images.ctfassets.net/alneenqid6w5/57AJQIGKk5fuwN8SRMenM0/fd3e825135b5ca4f2a1c3b976bf9d9ad/checkout_image_EN.jpg)
+![checkout-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-store-overview/vtex-modules-ii_4.jpg)
 
 Sharing information allows processing details regarding availability, prices, applicable promotions, shipping options, and payment methods.
 

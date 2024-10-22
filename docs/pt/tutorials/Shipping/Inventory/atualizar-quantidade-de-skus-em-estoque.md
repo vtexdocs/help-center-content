@@ -56,7 +56,7 @@ Lembrando que um pedido pode ter reserva ativa do produto. Caso o produto não t
 
 Os pedidos com itens reservados, continuarão listados como reservados e impossibilitados de serem vendidos. No exemplo abaixo temos o caso em que 10 unidades de Gatorade estão reservadas e os pedidos ainda não faturados. A medida que atualizamos a contagem em estoque, o sistema já simula qual será o resultado. No exemplo, até 10 itens temos estoque negativo, pois os pedidos com reserva ativa continuam listados. [Entenda melhor como funcionam as reservas.](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona/)
 
-![Atualizar Estoque GIF](https://images.contentful.com/alneenqid6w5/1lorbuip9ewo8gY8qg8wU0/07e97e612b4711f0f21c205b50e74867/InventoryUpdate.gif)
+![Atualizar Estoque GIF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Inventory/atualizar-quantidade-de-skus-em-estoque_1.gif)
 
 
 

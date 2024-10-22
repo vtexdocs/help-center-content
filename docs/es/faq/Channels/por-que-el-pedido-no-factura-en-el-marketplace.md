@@ -30,7 +30,7 @@ El impacto de esto es que conseguimos ir hasta el status facturado sólo en VTEX
 
 La clave de acceso de la factura es un instrumento auxiliar para la consulta de la NF-y que permite al titular de ese documento confirmar su efectiva existencia, nombre del campo Invoice Key:
 
-[]![ChaveDeAcesso](https://images.contentful.com/alneenqid6w5/447ljGvDxuW0mmQoAumGOg/f1f246378401f4c9a56655974300ab04/ChaveDeAcesso-1.png)
+[]![ChaveDeAcesso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Channels/por-que-el-pedido-no-factura-en-el-marketplace_1.png)
 
 __ ¡Recuerde! __ Este elemento de información se crea cuando se genera la factura fiscal y funciona en ERP. Si tiene uno, solicítelo.
 

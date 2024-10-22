@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Promotion summary allows you to review information abou
 
 Mistakes can happen when configuring a new promotion and filling in information. To avoid activating promotions with incorrect information, we created the promotion summary. The new feature allows you to confirm the promotion settings before activating it.
 
-![resumo-promo-EN](https://images.ctfassets.net/alneenqid6w5/5dJybcC7bLKUDnhP2r6ezx/b9caef1451ab9b973ec678b858945652/image.png)
+![resumo-promo-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-12-08-double-check-promotion-settings-before-activating-it-to-ensure-security1_1.png)
 
 ## What has changed?
 Previously, a promotion was automatically activated when saved with **Active** status. With the new feature, you can view a summary of the settings configured before activating a new promotion. This allows you to make sure that all data in the promotion is correct, avoiding implementation errors.

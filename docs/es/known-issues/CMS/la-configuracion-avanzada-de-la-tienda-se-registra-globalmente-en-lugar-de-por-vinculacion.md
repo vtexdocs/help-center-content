@@ -35,7 +35,7 @@ https://github.com/vtex-apps/store/blob/46e3df3ecba20170fc3a6eebf12370969e3b5abf
 
 Necesitará una tienda con enlace múltiple y habilitar el enlace para la configuración de la tienda en admin/cms/store:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/CNgIedTpUI7LPWqCEfA10HIxz/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/la-configuracion-avanzada-de-la-tienda-se-registra-globalmente-en-lugar-de-por-vinculacion_1.png)
 
 Guarde su configuración avanzada y compruebe la configuración de su tienda vtex:
 
@@ -52,7 +52,7 @@ Observará que los ajustes avanzados estarán fuera de los contextos de los enla
 
 Añade la configuración que desees a través de un PUT en la clave settings dentro de uno de los objetos del binding:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/JYKSnxOk9qHdm8RGGp9IutNB3/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/la-configuracion-avanzada-de-la-tienda-se-registra-globalmente-en-lugar-de-por-vinculacion_2.png)
 
 
 

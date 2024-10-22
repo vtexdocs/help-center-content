@@ -18,7 +18,7 @@ Para a correta configuração de uma nova transportadora, é importante detalhar
 
 Ela é usada para registrar os CEPs atendidos, os valores cobrados, as faixas de peso consideradas e os valores adicionais de cada transportadora.
 
-![planilha-frete-pt](https://images.ctfassets.net/alneenqid6w5/xwa6iEK6ekMSeLLEZhBZL/325dda4a071d57baaf8dd8e3299cec41/planilha-frete-pt.png)
+![planilha-frete-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/logistics-101/gerenciar-tarifas-de-envio_1.png)
 
 ## Como montar a planilha
 

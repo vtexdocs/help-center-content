@@ -38,7 +38,7 @@ Se o botão Excluir não estiver ativo e o tempo limite não tiver expirado, voc
 
 Se o pedido de reembolso ou de reembolso já tiver sido enviado pelo sistema ao banco emissor, não poderemos mais excluir / interromper o pedido de forma alguma.
 
-![PayU Romania](https://images.ctfassets.net/alneenqid6w5/eR53ZeK0Le8UMeQQs2osq/03a5bad4e5f9269dc12159b28fd27dd8/PayU_Romania.png)
+![PayU Romania](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/detalhes-de-reembolso-da-payu-romênia_1.png)
 
 Depois que a PayU enviar o pedido de reembolso ou de reembolso ao banco emissor, o status do pedido será atualizado no PayP cPanel como "REVERSE" (para vazios) ou "REEMBOLSO". E a VTEX receberá um webhook do PaymentsOS, portanto, o status do pedido também pode ser atualizado na plataforma (no Pagamentos e, consequentemente, refletido no OMS).
 

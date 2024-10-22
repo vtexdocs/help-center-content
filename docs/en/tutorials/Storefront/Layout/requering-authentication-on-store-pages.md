@@ -19,15 +19,15 @@ You may require that for certain pages of the store users need to authenticate t
 
 Some pages come with this setting by default. For example, the `/Account` and `/Account/Orders` pages.
 
-![authenticationRequired](https://images.contentful.com/alneenqid6w5/60cIIkiKDSEs2ocmqescgM/3f5a0c46d61c1002c22bc7b5469db7eb/authenticationRequired.png)
+![authenticationRequired](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/requering-authentication-on-store-pages_1.png)
 
 But you can either remove the authentication requirement for these pages or insert it into other pages.
 
 To do this, follow the steps below:
 1. Access the __CMS__ module.
 2. Click the folder for the desired page.
-3. Click the __Edit__ button.![editFolder](//images.contentful.com/alneenqid6w5/2DSRmQFQxeAYcoiWCAaU62/bc08bd32b394545d8af716338d55a0be/editFolder.png)
-4. Check or uncheck the __Authentication Required__ flag.![authenticationRequiredFlag](//images.contentful.com/alneenqid6w5/3iK3iGguAUg84KuAsC4MYW/1dcdae221b886b4a4d1cdc4eb87af9a4/authenticationRequiredFlag.png)
+3. Click the __Edit__ button.![editFolder](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/requering-authentication-on-store-pages_2.png)
+4. Check or uncheck the __Authentication Required__ flag.![authenticationRequiredFlag](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/requering-authentication-on-store-pages_3.png)
 5. Click __Save Folder__.
 
 Note that whenever the __Authentication Required__ flag is checked for a folder, the URL of this page will be created with the `_secure` route. Ex: `http://{AccountName}.vtexcommercestable.com.br/_secure/account/`

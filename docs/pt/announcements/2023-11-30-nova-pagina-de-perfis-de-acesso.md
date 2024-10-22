@@ -28,7 +28,7 @@ Além de todas as funcionalidades da versão anterior, a nova página de **Perfi
 * Acessar a listagem completa dos perfis de acesso cadastrados na sua loja com um design mais moderno e intuitivo, atualizado para o [Novo Admin VTEX](https://help.vtex.com/pt/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw).
 * Visualizar informações úteis para o gerenciamento de perfis de acesso diretamente na listagem, como a quantidade de usuários associados a cada perfil, o tipo de perfil (predefinido ou personalizado) e a data de criação do perfil.
 
-![roles-pt](https://images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/943f5df380f3fb685bb369014b435454/roles-pt.png)
+![roles-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023-11-30-nova-pagina-de-perfis-de-acesso_1.png)
 
 ## O que precisa ser feito?
 

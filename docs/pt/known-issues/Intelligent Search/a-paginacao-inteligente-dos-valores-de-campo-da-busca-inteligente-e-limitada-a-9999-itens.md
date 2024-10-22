@@ -33,11 +33,11 @@ https://{accountName}.myvtex.com/admin/search/custom-result/create/
 
 No caso abaixo, o campo "marca" (marca) tem mais de 9.999 entradas, portanto, quando o valor "JEIBAO" é digitado, ele não aparece no dropdown a ser selecionado.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/sNrA3WpRgNna0svXUmZ9zUriO/?name=inline-1946343279.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Intelligent Search/a-paginacao-inteligente-dos-valores-de-campo-da-busca-inteligente-e-limitada-a-9999-itens_1.png)
 
 A consulta do graphQL que carrega esta lista em Admin só é capaz de obter um máximo de 9.999 registros.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/4p6FFv3vW1ZPFKuvV8dbkyCCj/?name=inline-564811771.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Intelligent Search/a-paginacao-inteligente-dos-valores-de-campo-da-busca-inteligente-e-limitada-a-9999-itens_2.png)
 
 
 

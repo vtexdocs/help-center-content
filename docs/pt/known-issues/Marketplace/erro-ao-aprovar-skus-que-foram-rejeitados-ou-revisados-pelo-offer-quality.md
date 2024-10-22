@@ -26,7 +26,7 @@ Quando um sku é reprovado nas regras de Qualidade da Oferta criadas pelo Market
 No entanto, ao tentar aprovar o sku, uma mensagem de erro é retornada: "Desculpe, algo deu errado no Catálogo. Tente novamente ou entre em contato com a VTEX se o problema persistir."
 
 Isso acontece porque o módulo Matcher não conseguiu preencher as informações do produto e do sku depois de enviar o sku para essas guias (você pode verificar isso usando as APIs):
- ![](https://vtexhelp.zendesk.com/attachments/token/0Dti3ak7twOpuVzvzntmPCGit/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketplace/erro-ao-aprovar-skus-que-foram-rejeitados-ou-revisados-pelo-offer-quality_1.png)
 
 ## Simulação
 

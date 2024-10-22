@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 Um marketplace é uma plataforma virtual por meio da qual diferentes vendedores anunciam seus produtos. Esses vendedores são chamados de sellers, que além de serem os donos dos produtos, muitas vezes são também os responsáveis pelo [processo de fulfillment do produto](https://help.vtex.com/pt/tutorial/fulfillment-logistics-vtex--53udnvI5eBy8DKo8FOjMoP).  
 
-![Estratégias de marketplace](https://images.ctfassets.net/alneenqid6w5/1XaGifpW4ztfRM3XIkiACS/a528c80c87b9e97b323f71f7608da296/Ecommerce_web_page-pana.png)
+![Estratégias de marketplace](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration Settings/estrategias-de-marketplace-na-vtex_1.png)
 
 [A VTEX promove a colaboração digital](https://vtex.com/br-pt/marketplace/) em diferentes cenários. Você pode não apenas vender seus produtos em outros marketplaces, mas também vender produtos de outros sellers no seu ambiente, tornando-se um marketplace.
 
@@ -70,7 +70,7 @@ A configuração da para [se tornar um marketplace VTEX](https://help.vtex.com/p
 
 Veja abaixo os principais marketplaces VTEX:  
 
-![mkt br](//images.ctfassets.net/alneenqid6w5/6DB08TtDzQ0tuesrK1I1XU/d42c1c45fff7301eea1e2fe7160274b5/mkt_br.png)
+![mkt br](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration Settings/estrategias-de-marketplace-na-vtex_2.png)
 
 Além disso, a página __Marketplaces e integrações__ promove e facilita o contato entre marketplaces VTEX e certificados com sellers VTEX interessados em colaborações.
 

@@ -33,7 +33,7 @@ Mercado Livre > Puente > OrderId
 
 Dentro del menú de pedidos del puente, algunos mensajes de error no están registrando el orderID, lo que da la impresión de que algunos pedidos no están en VTEX brige, pero los vendedores pueden encontrar los pedidos buscando por el shipmentID.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/OZk1c79PgvKBKq6wGldvIbHM6/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/mercado-livre-el-menu-de-pedidos-del-puente-no-muestra-la-informacion-del-id-de-envio_1.png)
 
 
 

@@ -34,7 +34,7 @@ These orders are stuck in the status "Awaiting authorization to dispatch" here a
 - Log doesn't show any errors in the flow;
 - Bridge doesn't show any error;
 
- ![](https://vtexhelp.zendesk.com/attachments/token/aRop2JlmVaPoBgPJIRLQcA0Pg/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/magazine-luiza-orders-with-approved-status-on-the-marketplace-are-not-being-approved-on-vtex_1.png)
 
 
 ##

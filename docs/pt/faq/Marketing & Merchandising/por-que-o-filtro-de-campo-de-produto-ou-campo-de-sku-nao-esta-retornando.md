@@ -30,4 +30,4 @@ Para acessar essa tela, siga os passos abaixo:
 
 A flag Filtro fica na tela de configuração do campo de produto.
 
-![Filtro Campo de produto](https://images.contentful.com/alneenqid6w5/3XSX1nXvjW8kuCi20GaueM/d81f6eea3d6d53c78e00b3e367cbf99b/Filtro_Campo_de_produto.png)
+![Filtro Campo de produto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing & Merchandising/por-que-o-filtro-de-campo-de-produto-ou-campo-de-sku-nao-esta-retornando_1.png)

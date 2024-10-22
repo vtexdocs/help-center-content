@@ -15,7 +15,7 @@ legacySlug: cms-visao-geral
 subcategoryId: 3PNmhq67KMmGTBSfIWJdcQ
 ---
 
-![CMS Capa overview](https://images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/e241b8b8231499bfec4c8ce67fb27d0b/CAPA_OVERVIEW_CMS.png)
+![CMS Capa overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Storefront Overview/cms-visao-geral_1.png)
 
 CMS (Content Management System) é uma funcionalidade voltada para o gerenciamento de conteúdo de forma prática e constante.
 

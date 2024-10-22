@@ -27,7 +27,7 @@ En la esquina superior derecha, haga clic en el email (es aquél que usted utili
 
 La clave que aparece en la pantalla es el dato que usted necesitará para registrar la integración dentro del módulo Bridge de VTEX.
 
-![Carrefour1](https://images.contentful.com/alneenqid6w5/3J1VMlsGsMswagSeG2y0EK/d054fac671b13f5dca7f627aa5121c97/Carrefour1.png)
+![Carrefour1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Integration Settings/integrar-con-carrefour_1.png)
 
 ### Configurando la integración en el Bridge
 

@@ -19,7 +19,7 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 # Starting to use
 
-![new-admin-payments](https://images.ctfassets.net/alneenqid6w5/7w2PFtni9ykY0qGuasgU84/32d9c5341fb170a8b02abbea0ee3c628/NEW_ADMIN_PAGAMENTOS_EN.png)
+![new-admin-payments](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payments overview/pci-gateway-overview_1.png)
 
 Designed to provide maximum flexibility when it comes to payment configurations, VTEX Payments module processes transactions based on some business concepts. Understand each one:
 

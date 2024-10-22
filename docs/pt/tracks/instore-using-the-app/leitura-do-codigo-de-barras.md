@@ -18,6 +18,6 @@ Após fazer a identificação do cliente, o vendedor é levado já diretamente p
 
 Se o vendedor estiver usando um tablet ou smartphone, ele verá, na barra superior do aplicativo, um botão de código de barras <i class="fas fa-barcode"></i>.
 
-![31. VTEX Sales App - Product Overview - 6 - EN](https://images.ctfassets.net/alneenqid6w5/4yAzpm3JHk9Ksjku7FbVcO/543f300da71b929ff7e6d57581040128/barcode.png)
+![31. VTEX Sales App - Product Overview - 6 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-using-the-app/leitura-do-codigo-de-barras_1.png)
 
 Ao clicar nele, o vendedor pode usar a câmera para bipar um produto e, com isso, ser levado automaticamente à tela de detalhes deste produto.

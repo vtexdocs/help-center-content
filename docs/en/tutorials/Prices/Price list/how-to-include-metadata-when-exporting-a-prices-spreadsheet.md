@@ -18,12 +18,12 @@ subcategoryId: 4id9W3RDyw02CasOm2C2iy
 To include metadata when exporting a SKU prices spreadsheet, follow the steps below:
 
 1. Click on **Prices**, in the menu on the left side of the page
-![2019 05 27 18 56 22 Price list.jpg?h=250](https://images.ctfassets.net/alneenqid6w5/084YLwZ0JF1ptBlurtbNQ/15c9ed54e664eac0eebd3af720494acb/2019_05_27_18_56_22_Price_list.jpg_h_250)
+![2019 05 27 18 56 22 Price list.jpg?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price list/how-to-include-metadata-when-exporting-a-prices-spreadsheet_1.png)
 2. Click on **Price List**
 3. In the  upper left side of the page, select the **arrow down** button
 4. In the newly opened tab, on the left side, hover over and click on the **Export Prices Spreadsheet** button
 5. A new window will slide onto the screen, mark the box next to **include metadata in exported tables**
 6. Click on the blue **export table** button
-![2019 05 27 18 57 59 Price list.jpg?h=250](//images.ctfassets.net/alneenqid6w5/3fhLCNPgh0gZO03Hwd9doY/a9dca1de548aa67081bbe578ac75d57d/2019_05_27_18_57_59_Price_list.jpg_h_250)
+![2019 05 27 18 57 59 Price list.jpg?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price list/how-to-include-metadata-when-exporting-a-prices-spreadsheet_2.png)
 
 You'll receive an email with the exported table shortly.

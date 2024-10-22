@@ -31,11 +31,11 @@ https://{accountName}.myvtex.com/admin/search/custom-result/create/
 
 In the case below, the field "marca" (brand) has more than 9,999 entries, so when the "JEIBAO" value is typed, it does not appear in the dropdown to be selected.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/sNrA3WpRgNna0svXUmZ9zUriO/?name=inline-1946343279.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Intelligent Search/intelligent-searchs-pagination-of-field-values-is-limited-to-9999-items_1.png)
 
 The graphQL query that loads this list in Admin is only capable of fetching a maximum of 9,999 records.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/4p6FFv3vW1ZPFKuvV8dbkyCCj/?name=inline-564811771.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Intelligent Search/intelligent-searchs-pagination-of-field-values-is-limited-to-9999-items_2.png)
 
 
 

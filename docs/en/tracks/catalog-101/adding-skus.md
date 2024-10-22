@@ -25,7 +25,7 @@ There are two flows which can be used to add SKUs through the VTEX Admin: creati
 ### Adding SKUs after creating a product
 
 1.	On the Product creation page, after filling out the fields, click on **Save and add new SKU**. 
-  ![picture1.en](https://images.ctfassets.net/alneenqid6w5/3J1j18vSKiyJ4Bwy5ZLywM/bb8974140c754821ea0d10006a5f943a/picture1.en.png) 
+  ![picture1.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/catalog-101/adding-skus_1.png) 
 2.	You will be redirected to the SKU form page, where you need to fill out fields. For more on each field’s meaning, access our article on [how to fill in SKU creation fields](https://help.vtex.com/en/tutorial/sku-fields--21DDItuEQc6mseiW8EakcY). 
 3.	Click on `Save`.
 
@@ -43,7 +43,7 @@ There are two flows which can be used to add SKUs through the VTEX Admin: creati
 After adding a SKU you’ll need to also link an image to it in order to activate it. Follow the steps below to add an image:
 
 1.	On the page where you added a SKU, click on the **Images** tab
-![picture6.en](//images.ctfassets.net/alneenqid6w5/o99jKS63EZgaeahw9fQvn/47726c30833fd390f2c93f7ec6c0d404/picture6.en.png)
+![picture6.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/catalog-101/adding-skus_2.png)
 2.	Click on `Insert` and choose the image you want to add.
 3.	Fill out the **Text** (image alt tag) and **Label** fields. The label will be used to assist with your site’s page template organization, by referencing the value contained within, i.e. front, side, upper side, etc.
 4.	Click on `Send`.
@@ -53,7 +53,7 @@ After adding a SKU you’ll need to also link an image to it in order to activat
 After adding the images, you must add the SKU specifications. The next step on this track will explain how to add specifications.
 
 1.	Click on the **Specifications** tab.
-![picture7.en](//images.ctfassets.net/alneenqid6w5/4rKSynG7dNq1iwcwLZBKQo/6180b20ecf55cc6a841ac81757dd0f26/picture7.en.png) 
+![picture7.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/catalog-101/adding-skus_3.png) 
 2.	Fill out the mandatory fields. Specifications may vary according to the selected SKU category.
 3.	Click on `Save`.
 

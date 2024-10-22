@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 Un favicono es el pequeño ícono asociado a un sitio web que se muestra en la pestaña del navegador al lado del título de la página, en favoritos, en el historial de navegación y en otros lugares donde aparece la dirección del sitio web, como las páginas de resultados de búsqueda.
 
-![favicon-es](https://images.ctfassets.net/alneenqid6w5/6RVE5D9e9zbUogXZHvZPNQ/2df7de2fe731dedb2fb0f1c8cd13f740/favicon-es.png)
+![favicon-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/configurar-el-favicono-de-tu-tienda_1.png)
 
 El favicono ayuda a los usuarios a identificar rápidamente un sitio web cuando tienen varias pestañas abiertas o cuando consultan sus favoritos, mejorando la experiencia y reforzando la identidad y credibilidad de la marca.
 
@@ -27,11 +27,11 @@ Para configurar el favicono en tiendas CMS Portal Legado, sigue las instruccione
 
 1. En el Admin VTEX, accede a **Storefront > Layout > CMS > Files Manager > imagens**.
 
-    ![files-manager](//images.ctfassets.net/alneenqid6w5/4uQN2LoOBbID1KLD63B3jA/b1747475f569cae1d4b830cda1f7bd80/files-manager.png)
+    ![files-manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/configurar-el-favicono-de-tu-tienda_2.png)
 
 2. En la segunda columna, haz clic en `Add`.
 
-    ![add-image](//images.ctfassets.net/alneenqid6w5/34MLMbESt4MynXCF301zLc/770e51a6928134e55d1c25dca1f8c34a/add-image.png)
+    ![add-image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/configurar-el-favicono-de-tu-tienda_3.png)
 
 3. Haz clic en `Browse for file`para agregar el archivo de imagen en formato `.ico`.
 

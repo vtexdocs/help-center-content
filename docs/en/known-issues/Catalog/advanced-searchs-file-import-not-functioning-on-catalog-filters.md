@@ -33,11 +33,11 @@ However, this import currently is not properly filtering data and ends up simply
 
 2 - In the brand section, click the "Advanced Search Button"
 
- ![](https://vtexhelp.zendesk.com/attachments/token/evO2TGKzaTk0f0HBGqVrqemLF/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/advanced-searchs-file-import-not-functioning-on-catalog-filters_1.png)
 
 3 - A prompt will be displayed, select the "file import" tab
 
- ![](https://vtexhelp.zendesk.com/attachments/token/5zCBQ3MpC27ZGN6pnfKBycFwu/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/advanced-searchs-file-import-not-functioning-on-catalog-filters_2.png)
 
 4 - attempt importing a file with a brand list, the said list will not be added to the filters.
 

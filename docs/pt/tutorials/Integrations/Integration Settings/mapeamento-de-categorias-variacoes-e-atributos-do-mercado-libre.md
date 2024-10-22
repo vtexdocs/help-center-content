@@ -174,7 +174,7 @@ Ao concluir as etapas de preenchimento da planilha de mapeamento, você deve seg
 1. Acesse o Admin.
 2. No módulo Marketplace, clique em Integrações.
 3. Selecione a opção Configurações.
-4. Na integração Mercado Livre, clique na engrenagem<img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+4. Na integração Mercado Livre, clique na engrenagem<img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Integrations/Integration Settings/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre_1.JPG" />.
 5. Escolha a opção **Upload do mapeamento**.
 6. Selecione a opção **Escolher um arquivo**.
 7. Agora, selecione a planilha de mapeamento de categorias, atributos e variações do Mercado Livre.

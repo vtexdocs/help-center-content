@@ -17,7 +17,7 @@ subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 
 Projetos é uma funcionalidade do VTEX Headless CMS que simplifica o gerenciamento de vários projetos de frontend, como aplicativos móveis, sites e email marketing em uma única tela.
 
-![Projects pages](https://images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/b5bd29ece472c96fceb0aefb71a5365a/projects-one-pt-certo.gif)
+![Projects pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Headless CMS/gerenciando-projetos_1.gif)
 
 Cada projeto tem suas configurações, conteúdo e marca personalizados de acordo com públicos ou objetivos específicos.
 
@@ -31,7 +31,7 @@ Certifique-se de que os [recursos](https://help.vtex.com/pt/tutorial/license-man
 ## Visão geral
 Para acessar a página de **Projetos**, entre no VTEX Admin e clique em **Storefront > Headless CMS**.
 
-![Projects overview](//images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/c5a1f1ba3077c11504d9f78c1712c59e/projects-two-pt.png)
+![Projects overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Headless CMS/gerenciando-projetos_2.png)
 
 | Opção               | Descrição                                              |
 | ------------------- | ------------------------------------------------------ |
@@ -114,7 +114,7 @@ Para arquivar um projeto, siga os passos abaixo:
 2. Escolha o projeto que deseja arquivar e clique em **Configurações** (⚙️). Isso abrirá um modal.
 
 3. No modal, clique em `Arquivar projeto` na página `Geral`. Uma mensagem pop-up aparecerá confirmando se você deseja arquivar o projeto.
-![Arquivar projeto](//images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/c7410dbcff84549da3a15720a0ce68ed/projects-three-pt.png)
+![Arquivar projeto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Headless CMS/gerenciando-projetos_3.png)
 4. Clique em `Arquivar`. Em seguida, será exibida uma mensagem informando que o projeto foi arquivado com sucesso.
 
 Para restaurar um projeto arquivado, siga os passos em [Restaurar projeto](#restaurar-projeto).

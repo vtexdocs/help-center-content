@@ -38,11 +38,11 @@ La aplicación crea tres tipos de páginas para los afiliados, que disponen de e
 
 La **página del afiliado** es la URL de la tienda VTEX que comparten con los clientes. Ve un ejemplo en la siguiente imagen:
 
-![url_pagina_es_3](https://images.ctfassets.net/alneenqid6w5/3BxA8DMUUHVt7qZs5mYUhx/72903370216b4def73a08cc485c3c81d/url_pagina_es.png)
+![url_pagina_es_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Affiliates Program App/aplicacion-affiliates-program_1.png)
 
 La **página del perfil del afiliado** es una interfaz a través de la cual pueden seguir y gestionar sus pedidos y comisiones. Ve un ejemplo en la siguiente imagen:
 
-![profile_pagina_es_3](//images.ctfassets.net/alneenqid6w5/37jFSHHD7RweXxkvOzelPL/25c11f8c83fe7871282c513bef26c2ee/profile_pagina_es.png)
+![profile_pagina_es_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Affiliates Program App/aplicacion-affiliates-program_2.png)
 
 La página de **registro** permite que los interesados en convertirse en afiliados completen sus datos para solicitar el registro en su tienda VTEX.
 
@@ -68,7 +68,7 @@ La página **de Gestión de afiliados** permite realizar las siguientes acciones
 - [Ver detalles del afiliado](#ver-detalles-del-afiliado)
 - [Editar afiliado](#editar-afiliado)
 
-![affiliates_management_page_es](//images.ctfassets.net/alneenqid6w5/7E41Gki569BjcMFnhsttH9/de5a0b8ff2c25569692f4c2eb99c730d/affiliates_management_page_es.jpg)
+![affiliates_management_page_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Affiliates Program App/aplicacion-affiliates-program_3.jpg)
 
 ### Agregar afiliado
 
@@ -113,7 +113,7 @@ La página de **Gestión de pedidos** permite realizar las siguientes acciones:
 - [Exportar plantilla de pedidos](#exportar-lista-de-pedidos)
 - [Ver detalles del pedido](#ver-detalles-del-pedido)
 
-![orders_management_page_es](//images.ctfassets.net/alneenqid6w5/4oecP3rDffWqrP0KtvOhrp/56d938c239cb62d2396e4152adf5df08/orders_management_page_es.jpg)
+![orders_management_page_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Affiliates Program App/aplicacion-affiliates-program_4.jpg)
 
 ### Seguir dashboard
 
@@ -162,7 +162,7 @@ La página de **Gestión de comisiones** permite realizar las siguientes accione
 - [Importar comisiones](#importar-comisiones)
 - [Descargar la última importación](#descargar-la-ultima-importacion)
 
-![commissions_ management_page_es](//images.ctfassets.net/alneenqid6w5/4sPaoOQE8vAbN9tsCMS7zt/a87a79d01580e58605e0a21461d8a381/commissions__management_page_en.png)
+![commissions_ management_page_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Affiliates Program App/aplicacion-affiliates-program_5.png)
 
 ### Buscar comisiones
 

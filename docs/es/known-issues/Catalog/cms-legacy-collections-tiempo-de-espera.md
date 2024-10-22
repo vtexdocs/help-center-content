@@ -24,7 +24,7 @@ A menudo, al intentar guardar los datos de un grupo de colecciones utilizando la
 
 `{cuenta}.myvtex.com/admin/a/`
 
- ![](https://vtexhelp.zendesk.com/attachments/token/pBcpo1sWfBMio0mpL5iMc4Iek/?name=inline-1265713773.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/cms-legacy-collections-tiempo-de-espera_1.png)
 
 ## Simulación
 

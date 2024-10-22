@@ -29,7 +29,7 @@ You can get the Segment Cookie data through the segment token:
 - Open the browser's console;
 - Decode the segment token presented in the render runtime object;
 - In the console, run:` atob(__RUNTIME__.segmentToken)`
- ![](https://vtexhelp.zendesk.com/attachments/token/wHuslnrutSh5W2CZS4FlHBm0d/?name=Captura+de+Tela+2022-09-23+a%CC%80s+14.09.57.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store Framework/segment-cookie-updated-only-after-refreshing-the-page_1.png)
 
 
 ##

@@ -24,13 +24,13 @@ Un cambio de <i>seller</i> puede ocurrir en dos situaciones:
 - <i>Seller</i> cancela un pedido.
 - <i>Marketplace</i> decide cambiar el <i>seller</i>.
 
-![seller_cancela_pedido_ES](https://images.ctfassets.net/alneenqid6w5/1w1If5Xirav4fZKLQlpkPn/9a1899752e5df76040cbcbdb12aaf456/seller_cancela_pedido_ES.png)
+![seller_cancela_pedido_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Orders/change-seller_1.png)
 
 Puede [configurar el periodo para cambiar de seller de 0 a 30 días](https://developers.vtex.com/vtex-rest-api/reference/updatewindowtochangeseller), por defecto, la ventana de cambio es de dos días. Al configurar la ventana a 0 días, no hay un período efectivo para el cambio de _sellers_ y la _feature_, aunque configurada, no funciona en la práctica, lo que provoca que el pedido proceda a la cancelación.
 
 Cuando el <i>seller</i> le notifica la cancelación, el <i>marketplace</i> puede configurar el número de días para actuar y decidir entre cancelar la compra o cambiar de <i> seller.</i> Tenga en cuenta que si opta por el cambio, el <i>marketplace</i> es el responsable de comunicarlo al cliente final.
 
-![mkt_cancela_seller_ES](//images.ctfassets.net/alneenqid6w5/3jMZldSV2RLu4P0xoUyrE/28c420f005191ccba061053f44833275/mkt_cancela_seller_ES.png)
+![mkt_cancela_seller_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Orders/change-seller_2.png)
 
 ## Limitaciones
 

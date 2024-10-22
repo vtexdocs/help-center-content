@@ -30,12 +30,12 @@ Por meio dele você pode gerar um __arquivo HAR__, que contém informações det
 Usando o Google Chrome, siga os passos abaixo para gerar o arquivo HAR.
 
 1. Navegue até a URL onde o problema está ocorrendo.
-2. Clique com o botão direito em qualquer lugar da tela e então em __Inspecionar__.![HARfile1](https://images.contentful.com/alneenqid6w5/3BZmZ6hkXuueWCMuM4Ykke/e58e1a4fb669de93808ceee862847f56/HARfile1.png)
-3. O Dev Tools será aberto, então clique na aba __Network__.![HARfile2](//images.contentful.com/alneenqid6w5/7vSYRmkjduq6iCaiGgyIo/fd3f3eb23fa57582f8c8f5cd1ac725b5/HARfile2.png)
-4. O botão de gravação deve estar vermelho, o que indica que está ativado. Se não estiver, clique nele.![HARfile3](//images.contentful.com/alneenqid6w5/6YnW3ebd1mq2kQsm8uKG2q/97000a534abfabc66931d27ff9cd28b8/HARfile3.png)
-5. Marque a flag __Preserve log__.![HARfile5](//images.contentful.com/alneenqid6w5/xQAIiEuHIsaoSCUkSsOEE/e6dc32f580a2f50a5789ae39babfb540/HARfile5.png)
+2. Clique com o botão direito em qualquer lugar da tela e então em __Inspecionar__.![HARfile1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/gerar-arquivo-har-para-debugar-problemas-na-loja_1.png)
+3. O Dev Tools será aberto, então clique na aba __Network__.![HARfile2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/gerar-arquivo-har-para-debugar-problemas-na-loja_2.png)
+4. O botão de gravação deve estar vermelho, o que indica que está ativado. Se não estiver, clique nele.![HARfile3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/gerar-arquivo-har-para-debugar-problemas-na-loja_3.png)
+5. Marque a flag __Preserve log__.![HARfile5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/gerar-arquivo-har-para-debugar-problemas-na-loja_4.png)
 6. Recarregue a página e reproduza a navegação na qual ocorre o problema.
-7. Clique com o botão direito em qualquer lugar dentro da área do Network e depois clique na opção __Save as HAR with content__.![HARfile4](//images.contentful.com/alneenqid6w5/hR0VTzzNFmyQc4A4KS02G/b1f15e2131e21b80f5f2c97023cd0a5b/HARfile4.png)
+7. Clique com o botão direito em qualquer lugar dentro da área do Network e depois clique na opção __Save as HAR with content__.![HARfile4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/gerar-arquivo-har-para-debugar-problemas-na-loja_5.png)
 
 Será gerado um arquivo com extensão HAR, cujo nome é o endereço da página.
 

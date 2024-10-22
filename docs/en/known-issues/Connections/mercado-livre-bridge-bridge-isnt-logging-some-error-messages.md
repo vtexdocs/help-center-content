@@ -34,7 +34,7 @@ Error in the update flow sku isn't being logged into the bridge
 
 Admin > Marketplace > Products > Amazon
 
- ![](https://vtexhelp.zendesk.com/attachments/token/3MxTLEnmPv9lgG7UE8iUEd1Ft/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/mercado-livre-bridge-bridge-isnt-logging-some-error-messages_1.png)
 
 
 ##

@@ -27,6 +27,6 @@ Sin embargo, una vez que el producto en cuestión tenga alguna referencia a otra
 
 En este caso, el siguiente mensaje de error aparece al intentar excluirlo:
 
-![erroExcluir](https://images.contentful.com/alneenqid6w5/19vbt8GlfOK0IMEMEo86Gu/75d44c69a5d553d485daa668d1ab19bc/erroExcluir.png)
+![erroExcluir](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Products and SKUs/excluir-un-producto-de-la-tienda_1.png)
 
 La solución es desactivar el producto. Ver cómo en el artículo [Desactivar SKUs y productos de la tienda](/es/tutorial/desactivar-skus-y-productos-de-la-tienda).

@@ -23,7 +23,7 @@ internalReference: 639294
 
 Quando se tenta agrupar pelo Método de Entrega no Painel de Desempenho de Vendas, aparece um erro:
 _"Incapaz de carregar dados. Por favor, clique no botão abaixo para recarregar as informações"_
- ![](https://vtexhelp.zendesk.com/attachments/token/aT7lkza6qQLaDyFJvy5G0YYED/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Analytics/metodo-de-entrega-por-grupo-no-desempenho-de-vendas-nao-funciona-como-esperado_1.png)
 
 ##
 

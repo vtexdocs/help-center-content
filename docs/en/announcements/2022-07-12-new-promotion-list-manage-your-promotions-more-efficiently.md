@@ -30,7 +30,7 @@ We developed a new interface for the Promotion List, which includes:
 * Exporting your active promotions list.
 * Duplicating active or archived promotions for a faster creation process.
 
-![lista-promocoes-en](https://images.ctfassets.net/alneenqid6w5/5J9dSnkUhLm1gTUjhUftrP/f08b0d232c4b386e29cc75c436f91471/promotions-list-en.PNG)
+![lista-promocoes-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022-07-12-new-promotion-list-manage-your-promotions-more-efficiently_1.PNG)
 
 ## Why did we make this change?
 

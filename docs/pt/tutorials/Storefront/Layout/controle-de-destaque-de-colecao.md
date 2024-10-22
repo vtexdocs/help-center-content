@@ -26,7 +26,7 @@ Em primeiro lugar, vamos ver onde se encontra a flag Highlight:
 3. Clique em uma coleção.
 4. Marque a flag __Highlight__, que fica na tela da coleção, e clique em __Save Product Cluster__.
 
-![CollectionHighlightFlag](https://images.contentful.com/alneenqid6w5/4ced6Gcbeg662KewckyQka/77aaef77fc87cf8112f759c867a6bd4b/CollectionHighlightFlag.png)
+![CollectionHighlightFlag](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/controle-de-destaque-de-colecao_1.png)
 
 Ao marcar a flag, você informa ao sistema que sempre que o controle de destaque for usado no template de uma página, os produtos exibidos nessa página que fizerem parte da coleção em questão devem aparecer com o elemento HTML abaixo, onde no lugar de `{nomeDaColecao}` aparece o nome da coleção cadastrada no CMS:
 

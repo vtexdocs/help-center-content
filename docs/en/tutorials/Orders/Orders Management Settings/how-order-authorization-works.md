@@ -17,7 +17,7 @@ subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 
 In the VTEX Admin, in **Store Settings > Orders > Order Authorization**, you can control and approve orders that have a price divergence in your store.
 
-![print_autorizacao_pedidos_EN](https://images.ctfassets.net/alneenqid6w5/3OSC6hxQchdd8SoWYwRI6l/4fc80cda8d50acff5ed646a00dc5f01f/print_autorizacao_pedidos_EN.png)
+![print_autorizacao_pedidos_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders Management Settings/how-order-authorization-works_1.png)
 
 Price divergence errors may occur in two main scenarios:
 

@@ -28,7 +28,7 @@ Besides all features from the previous version, the new **Roles** page allows yo
 *	Access the complete list of roles added to your store with a more intuitive and elegant design, updated for the [New VTEX Admin](https://help.vtex.com/en/tutorial/admin-vtex-start-here--531cHtUCUi3puRXNDmKziw).
 *	View useful information for managing roles directly in the list, such as the number of users associated with each profile, the type of profile (predefined or customized), and the date the profile was created.
 
-![roles-en](https://images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/d0c8e68b433a987fb1d0c9f031726d6f/roles-en.png)
+![roles-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023-11-30-new-roles-page_1.png)
 
 ## What needs to be done?
 

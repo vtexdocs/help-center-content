@@ -20,11 +20,11 @@ internalReference: 926969
 
 
 The marketplace can create groups with some sellers on the Seller Management UI.
- ![](https://vtexhelp.zendesk.com/attachments/token/Mi9PZxDSnInogb65PbJ3fEduu/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/seller-group-creation-does-not-add-selected-sellers_1.png)
 
 However, when adding a group name and sellers on this UI, only the group name is being saved. An error message appears:
 "Sorry, something went wrong when adding the sellers to the XXX group."
- ![](https://vtexhelp.zendesk.com/attachments/token/Gd0FRbqKLDnCGFmIjuXIctxwX/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/seller-group-creation-does-not-add-selected-sellers_2.png)
 
 
 ##

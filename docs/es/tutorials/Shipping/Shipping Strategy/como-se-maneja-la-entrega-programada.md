@@ -27,7 +27,7 @@ En **Inventario y envío**, acceda **Paneles** y haga clic en la **Transportador
 
 En **Tipo de Entrega**, haga clic en **Entrega agendada**.
 
-![entrega-agendada es](https://images.ctfassets.net/alneenqid6w5/PF5fC5oPoiAmsK0KAW2G2/aee508bb7392ef5c0dfd62d3a607f25d/entrega-agendada_es.png)
+![entrega-agendada es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping Strategy/como-se-maneja-la-entrega-programada_1.png)
 Para compreender mejor sobre la cumplimentación del resto de los campos, vea también nuestro documento de cómo [registrar una transportadora](http://help.vtex.com/es/tutorial/gestionar-transportista).
 
 
@@ -42,7 +42,7 @@ En esta estructura, tenemos los siguientes datos:
 Utilizando igual ejemplo de la tienda más arriba, sigue la configuración de la transportadora según su demanda:
 
 
-![entrega-agendada-exemplo es](//images.ctfassets.net/alneenqid6w5/1kwunX9pCYUUQUSQ8QO42u/bab6a450319e8ddcd081db0aebb9b9fe/entrega-agendada-exemplo_es.png)
+![entrega-agendada-exemplo es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping Strategy/como-se-maneja-la-entrega-programada_2.png)
 
 
 Suponiendo que el Inventario tiene 2 días de plazo, el Muelle 1 día y la Tabla de Flete 5 días, el primer día que se pondrá a disposición será 8 días después de la fecha en que se está realizando el pedido y cómo el Tiempo máximo de entrega es de 10 días, el último día disponible para la elección será el 18º día después de la fecha en que se está efectuando el pedido.

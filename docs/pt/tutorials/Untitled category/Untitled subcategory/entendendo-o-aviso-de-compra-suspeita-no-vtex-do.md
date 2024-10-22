@@ -27,7 +27,7 @@ Quando o SherlockBOT identifica um pedido fechado de maneira que pode indicar at
 
 Veja um exemplo desse alerta no screenshot abaixo:
 
-![sherlock (1)](https://images.contentful.com/alneenqid6w5/6CsvYu9nfG0E4QowAEu86/c69b772065781ddc98bc85eeee37ef01/sherlock-1.png)
+![sherlock (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/entendendo-o-aviso-de-compra-suspeita-no-vtex-do_1.png)
 
 O lojista pode ainda ser incluído nas barreiras de segurança do Gateway, ou seja, a VTEX pode aplicar à sua loja regras de proteção contra testes de cartão de crédito. 
 

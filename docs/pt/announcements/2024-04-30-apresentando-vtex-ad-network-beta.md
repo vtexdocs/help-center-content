@@ -23,7 +23,7 @@ Anunciantes podem [criar campanhas](https://help.vtex.com/pt/tutorial/anunciando
 
 Ao criar campanhas para um produto da sua marca, seu anúncio poderá aparecer em espaços de destaque em diversas lojas VTEX que já possuem aquele produto em seu catálogo.
 
-![vtex_ad_network_admin_PT](https://images.ctfassets.net/alneenqid6w5/7nvJI9GTv53buxMMyvarRa/c479a1adcfce1ab838edfa17aeb6aca7/vtex_ad_network_admin.png)
+![vtex_ad_network_admin_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024-04-30-apresentando-vtex-ad-network-beta_1.png)
 
 ## Lojas
 
@@ -31,7 +31,7 @@ Podem disponibilizar espaço publicitário para que anunciantes promovam seus pr
 
 A VTEX selecionará para a sua loja anúncios de produtos que já compõem o seu catálogo, garantindo uma jornada de compra fluida e sem quebras. Esta seleção é feita com base no contexto de navegação dos clientes da sua loja.
 
-![vtex_ad_network_sponsored_PT](//images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/12e38a4f482a08d13f823b17a88fbf5b/vtex_ad_network_sponsored.png)
+![vtex_ad_network_sponsored_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024-04-30-apresentando-vtex-ad-network-beta_2.png)
 
 ## O que precisa ser feito?
 

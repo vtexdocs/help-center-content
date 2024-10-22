@@ -33,7 +33,7 @@ O **Campo calculado** era uma configuração dentro dos campos de [entidade de d
 
 Esse tipo de campo, ilustrado abaixo, não estará mais disponível a partir de 17 de junho de 2024. Os campos calculados criados previamente deixarão de funcionar na mesma data.
 
-![md-deprecation-calculated-field-pt](https://images.ctfassets.net/alneenqid6w5/13NWpWtxQGLFfh0ecW4ZV6/e25fa67f6207592c2893b3f86132c057/md-deprecation-calculated-field-pt.png)
+![md-deprecation-calculated-field-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024-04-17-master-data-v1-deprecacao-de-configuracoes-dinamicas_1.png)
 
 ### Alterar valor do campo
 
@@ -41,7 +41,7 @@ Ao configurar ações de triggers na aba **Ativação**, havia a opção de **Al
 
 A opção **Alterar valor do campo**, ilustrada abaixo, não estará mais disponível ao configurar ações de triggers a partir de 17 de junho de 2024. Os triggers criados anteriormente com essa ação continuarão funcionando somente até essa data.
 
-![md-deprecation-trigger-pt](//images.ctfassets.net/alneenqid6w5/2meuBC8t6dnVAfg1YzZnwL/267ad58ad21c7ba83b7182d3bc4c581b/md-deprecation-trigger-pt.png)
+![md-deprecation-trigger-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024-04-17-master-data-v1-deprecacao-de-configuracoes-dinamicas_2.png)
 
 ## O que precisa ser feito?
 
