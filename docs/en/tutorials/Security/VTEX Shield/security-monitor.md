@@ -3,8 +3,8 @@ title: 'Security Monitor'
 id: 5LOVNLrrtmgSj99pM1NS4x
 status: PUBLISHED
 createdAt: 2024-04-25T00:42:30.944Z
-updatedAt: 2024-04-25T03:01:13.448Z
-publishedAt: 2024-04-25T03:01:13.448Z
+updatedAt: 2024-10-10T14:12:24.884Z
+publishedAt: 2024-10-10T14:12:24.884Z
 firstPublishedAt: 2024-04-25T02:41:44.798Z
 contentType: tutorial
 productTeam: Identity
@@ -24,7 +24,7 @@ To access the dashboard, follow the steps below:
 1. In the VTEX Admin, go to **Dashboards**, or type **Dashboards** in the search bar.
 2. Under **Security Monitor**, click **Security Monitor Dashboard**.
 
-![1-security-monitor-en](https://images.ctfassets.net/alneenqid6w5/k2BpYU2kF3p3grDdfy4aB/1593b6df63e997d6933dcfd3215d72b0/1-security-monitor-en__2_.png)
+![1-security-monitor-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Security Monitor displays the findings in three tabs based on their status:
 
@@ -46,14 +46,14 @@ The **Open** tab displays the threats detected by the Security Monitor that have
 
 The top bar displays the total number of findings and the number of threats by severity level (high, medium, or low).
 
-![2-findings-en](//images.ctfassets.net/alneenqid6w5/4wpzGuNHIyqAaRGuv5Dt8E/08aac5eda3f4d38354ba6a003b72016d/2-findings-en.png)
+![2-findings-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 The tab displays the full list of open findings in a table, from the most recent to the oldest:
 
 | Column fields | Description |
 | --- | --- |
 | Finding | User email or application key related to the finding. |
-| Type | Type of finding detected:<br/><ul><li><strong>Old app keys:</strong> <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Application keys</a> that were created more than 6 months ago.</li><li><strong>Excessive Super Admins:</strong> Users or application keys with the <strong>Owner (Admin Super)</strong>  <a href="https://help.vtex.com/en/tutorial/role--7HKK5Uau2H6wxE1rH5oRbc" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">role</a>.</li><li><strong>Leaked App Keys:</strong> <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Application keys</a> that have been leaked on the web and identified by the VTEX Security team.</li><li><strong>Inactive Users:</strong> Users who have not accessed the Admin in the last 30 days.</li></ul> |
+| Type | Type of finding detected:<br/><ul><li><strong>Old app keys:</strong> <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Application keys</a> that were created more than 6 months ago.</li><li><strong>Excessive Super Admins:</strong> Users or application keys with the <strong>Owner (Admin Super)</strong>  <a href="https://help.vtex.com/en/tutorial/role--7HKK5Uau2H6wxE1rH5oRbc" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">role</a>.</li><li><strong>Leaked App Keys:</strong> <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Application keys</a> that have been leaked on the web and identified by the VTEX Security team.</li><li><strong>Inactive Users:</strong> Users who have not accessed the Admin in the last 30 days.</li><li><strong>Excessive Permissions:</strong> Users or application keys with access to resources they did not use in the last 30 days.</li></ul> |
 | Detected | Date the finding was detected. |
 | Sensor | Sensor that detected the threat: <br/><ul><li><strong>VTEX Identity</strong></li></ul> |
 | Severity| Level of threat severity, determined by the impact or potential risk associated with the threat: <br /><ul><li><strong>High</strong></li><li><strong>Medium</strong></li><li><strong>Low</strong></li></ul> |
@@ -77,7 +77,7 @@ To move a finding to the **Snoozed** tab, removing it temporarily from the **Ope
 3. Choose the number of days you want the finding to remain in the **Snoozed** tab. The options available are: **7**, **90**, or **120** days.
 4. Click `Snooze`.
 
-![3-snooze-finding-en](//images.ctfassets.net/alneenqid6w5/1neaA5XmCxK4EB3HAVxcud/ae0ac9742c235ac0bc1299efd0017521/3-snooze-finding-en.png)
+![3-snooze-finding-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 ## Snoozed
 
@@ -106,7 +106,7 @@ In the search bar, enter the user's email address or the name of the application
 
 By clicking `Type` <i class="fas fa-chevron-down"></i>, you can choose one of the finding types to filter the results displayed in the list. Click `Apply` to confirm the chosen filter, and the list will be updated.
 
-![4-filter-findings-en](//images.ctfassets.net/alneenqid6w5/1qJnJBy5YHJzQKynw783W7/f6f39af22a936af16bde30ed57f35f99/4-filter-findings-en.png)
+![4-filter-findings-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 ## Editing notification settings
 
@@ -118,7 +118,7 @@ To edit the admin users who will be notified about the findings, follow the step
    To remove a user, click the `X` next to their email.
 3. Click `Save`.
 
-![5-edit-notifications-en](//images.ctfassets.net/alneenqid6w5/1CmMhWokQgzxRAqk1Jvqn4/0c5ecc5bccd18569a94b72781632d3f2/5-edit-notifications-en.png)
+![5-edit-notifications-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 ## Learn more
 

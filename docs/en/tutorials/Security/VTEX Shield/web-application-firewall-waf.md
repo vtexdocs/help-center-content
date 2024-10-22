@@ -3,8 +3,8 @@ title: 'Web Application Firewall (WAF)'
 id: 6BZYLlU03ws72iqIFF6jdn
 status: PUBLISHED
 createdAt: 2024-04-25T00:17:16.172Z
-updatedAt: 2024-04-30T15:03:41.186Z
-publishedAt: 2024-04-30T15:03:41.186Z
+updatedAt: 2024-10-18T17:04:59.360Z
+publishedAt: 2024-10-18T17:04:59.360Z
 firstPublishedAt: 2024-04-25T01:16:27.468Z
 contentType: tutorial
 productTeam: Others
@@ -21,7 +21,7 @@ The Web Application Firewall (WAF) is a security layer designed to protect web a
 
 The WAF is aimed at HTTP (Hypertext Transfer Protocol) and HTTPS (HTTP Secure) communications, scanning inbound and outbound data to detect and block possible threats.
 
-![waf-en](https://images.ctfassets.net/alneenqid6w5/6yRQRFGEYBnfbynGxcNJrU/19c4af7d54a4e27985a697270e5ea662/waf-en.png)
+![waf-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 The WAF's operation begins with the VTEX Security team defining [security rules](#security-rules) based on the analysis of information flow patterns. Based on these rules, the WAF continuously monitors web traffic. When it detects potentially harmful activity, it can block the traffic, thus preventing vulnerabilities in the web application.
 
@@ -47,9 +47,9 @@ To request WAF activation for your store, please contact [VTEX Support](https://
 
 * URLs to be added to the WAF.
 * Name and contact information of the point of contact with the VTEX Security team during the activation process.
-* Provider: To access the WAF, all store URL traffic must go through [Azion](https://www.azion.com/), the provider currently used by VTEX. If that's not the case, a procedure must be followed with the VTEX Traffic team, which can take between 1 and 2 weeks.
+* Provider: To access the WAF, all store URL traffic must go through the provider currently used by VTEX. If that's not the case, a procedure must be followed with the VTEX Traffic team, which can take between 1 and 2 weeks.
 
-After submitting the request, the deadline for activating the WAF on the store URLs is 4 weeks, plus the period needed to migrate to [Azion](https://www.azion.com/), if applicable.
+After submitting the request, the deadline for activating the WAF on the store URLs is 4 weeks, plus the period needed to migrate to the provider, if applicable.
 
 ## Learn more
 

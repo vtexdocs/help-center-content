@@ -39,3 +39,17 @@ Para configurar Scalapay, siga os passos abaixo:
 Para configurar as condições de pagamento, acesse [Configurar condições de pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento#). Para a opção de cartão de crédito, selecione a afiliação __vtex-integration-scalapay-v0__.
 
 Depois de seguir os passos indicados, Scalapay pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 
+os do provedor__, selecione __Pay in 3__ ou __Pay in 4__ em __Product Type__.  
+9. Clique em `Salvar`.
+
+## Configurar condição de pagamento
+
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
+2. Na aba __Condições de Pagamentos__, clique no botão `+`.
+3. Clique em __Scalapay Pay in 3__ ou __Scalapay Pay in 4__.
+4. Ative a condição no campo __Status__.
+5. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
+6. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456).
+7. Clique em `Salvar`.
+
+Depois de seguir os passos indicados, Scalapay pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

@@ -3,8 +3,8 @@ title: 'Web Application Firewall (WAF)'
 id: 6BZYLlU03ws72iqIFF6jdn
 status: PUBLISHED
 createdAt: 2024-04-25T00:17:16.172Z
-updatedAt: 2024-04-30T15:03:41.186Z
-publishedAt: 2024-04-30T15:03:41.186Z
+updatedAt: 2024-10-18T17:04:59.360Z
+publishedAt: 2024-10-18T17:04:59.360Z
 firstPublishedAt: 2024-04-25T01:16:27.468Z
 contentType: tutorial
 productTeam: Others
@@ -21,7 +21,7 @@ Web Application Firewall (WAF) es una capa de seguridad diseñada para proteger 
 
 WAF se enfoca en las comunicaciones que se llevan a cabo a través de los protocolos HTTP (Hypertext Transfer Protocol) y HTTPS (HTTP Secure), analizando los datos de entrada y salida para detectar y bloquear posibles amenazas.
 
-![waf-es](https://images.ctfassets.net/alneenqid6w5/6yRQRFGEYBnfbynGxcNJrU/c54a99dcdc86451d6cfcd72bc7b9cf07/waf-es.png)
+![waf-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 WAF opera a partir de la configuración de [reglas de seguridad](#reglas-de-seguridad) definidas por el equipo de seguridad de VTEX basándose en el análisis de patrones de circulación de datos. Dichas reglas sirven para que WAF monitoree constantemente el tráfico web y cuando detecte una actividad potencialmente perjudicial, pueda bloquear el tráfico, impidiendo que los atacantes aprovechen las vulnerabilidades en la aplicación web.
 
@@ -47,9 +47,9 @@ Para solicitar la activación de WAF en tu tienda, ponte en contacto con el[ sop
 
 * URL que se añadirán a WAF.
 * Nombre y datos de contacto de la persona que será el punto de contacto con el equipo de seguridad de VTEX durante el proceso de activación.
-* Proveedor: para tener acceso a WAF, todo el tráfico de URL de la tienda debe pasar por [Azion](https://www.azion.com/es/), el proveedor que VTEX utiliza actualmente. De no ser ese el caso, debes llevar a cabo un procedimiento con el equipo de tráfico de VTEX que puede durar entre una y dos semanas.
+* Proveedor: para tener acceso a WAF, todo el tráfico de URL de la tienda debe pasar por el proveedor que VTEX utiliza actualmente. De no ser ese el caso, debes llevar a cabo un procedimiento con el equipo de tráfico de VTEX que puede durar entre una y dos semanas.
 
-Después de la solicitud, el plazo de activación de WAF en las URL de la tienda es de cuatro semanas, además del plazo necesario para la migración a [Azion](https://www.azion.com/es/), de ser necesario.
+Después de la solicitud, el plazo de activación de WAF en las URL de la tienda es de cuatro semanas, además del plazo necesario para la migración al proveedor, de ser necesario.
 
 ## Más información
 

@@ -3,8 +3,8 @@ title: 'Managing a multistore'
 id: 4S0lFVBPylRS5KpVgdyDhJ
 status: PUBLISHED
 createdAt: 2024-09-06T12:35:51.501Z
-updatedAt: 2024-09-06T13:40:05.306Z
-publishedAt: 2024-09-06T13:40:05.306Z
+updatedAt: 2024-10-17T22:44:02.759Z
+publishedAt: 2024-10-17T22:44:02.759Z
 firstPublishedAt: 2024-09-06T13:11:49.620Z
 contentType: tutorial
 productTeam: Others
@@ -55,7 +55,7 @@ To allow customers to access the new store, follow the instructions below to cre
 7. Click `Save Website`.
 8. In the **Links** field, click `Add`.
 
-    ![cms-layout](https://images.ctfassets.net/alneenqid6w5/4bVAAc3Fs8ArVYy1qSCAnX/2376e2c489b5894681626ef26bf58d47/cms-layout.png)
+    ![cms-layout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 9. Complete the **Store name from License Manager** field with the value of the subaccount previously created in the [Account Management] module (#creating-a-store).
 10. Complete the **Available sales channel** field by selecting the trade policies that will be associated with this store.

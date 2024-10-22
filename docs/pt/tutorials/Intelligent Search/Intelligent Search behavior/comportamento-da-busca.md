@@ -3,8 +3,8 @@ title: 'Comportamento da busca'
 id: B9o3JbV6utAinBJ1ETujs
 status: PUBLISHED
 createdAt: 2024-06-27T17:30:43.356Z
-updatedAt: 2024-09-19T12:59:01.022Z
-publishedAt: 2024-09-19T12:59:01.022Z
+updatedAt: 2024-10-03T23:11:03.742Z
+publishedAt: 2024-10-03T23:11:03.742Z
 firstPublishedAt: 2024-06-27T17:33:21.153Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -76,9 +76,9 @@ Determina quais informações de produto são pesquisáveis. A partir da configu
 
 | Informações | Configuração |
 | - | - |
-| Nome do produto, marca, ID do produto (`ProductID`), código de referência do produto (`ProductRefID`), ID do SKU (`SKUID`), código de referência do SKU (`SKURefID`) e EAN | Essas informações são pesquisáveis por **padrão** no VTEX Intelligent Search. Para remover alguma delas, entre em contato com o nosso [Suporte](https://help.vtex.com/support?/cultureInfo=en-us). |
-| Especificações de produto e de SKU | Para incluir as especificações desejadas como campos pesquisáveis, é preciso configurar a opção **Especificações pesquisáveis** no Admin VTEX, em **Intelligent Search** > **Configurações da busca**.<br /><br /> Por exemplo, se uma camisa não tiver a cor no nome do produto ou do SKU, por padrão, o Intelligent Search não identifica esse atributo em uma pesquisa por "camisa azul", trazendo como resultado camisas de diversas cores. Contudo, se a especificação de cor estiver configurada como pesquisável, a busca consegue trazer camisas azuis nas primeiras posições.<br /><br /> Para mais detalhes sobre a definição de especificações pesquisáveis, acesse o guia [Configurações da busca](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#configuracoes-gerais). Saiba mais sobre especificações em [Especificações de produto e de SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP). |
-| Código do fabricante (`ManufactureID`) | Entre em contato com o nosso [Suporte](https://help.vtex.com/support?/cultureInfo=en-us) para definir esse campo como pesquisável. | 
+| <ul><li>Nome do produto</li> <li>Marca</li><li>ID do produto (`ProductID`)</li><li>Código de referência do produto (`ProductRefID`)</li><li>ID do SKU (`SKUID`)</li><li>Código de referência do SKU (`SKURefID`)</li><li>EAN</li></ul> | Informações pesquisáveis por **padrão** no VTEX Intelligent Search. Para remover alguma delas, entre em contato com o nosso [Suporte](https://help.vtex.com/support?/cultureInfo=pt-br). |
+| <ul><li>Especificações de produto</li><li>Especificações de SKU</li></ul> | Para incluir as especificações desejadas como campos pesquisáveis, é necessário configurar a opção **Especificações pesquisáveis** no Admin VTEX, em **Intelligent Search** > **Configurações da busca**.<br /><br /> Por exemplo: se uma camisa não tiver a cor no nome do produto ou do SKU, por padrão, o Intelligent Search não identifica esse atributo em uma pesquisa por "camisa azul", trazendo como resultado camisas de diversas cores. Contudo, se a especificação de cor estiver configurada como pesquisável, a busca consegue trazer camisas azuis nas primeiras posições.<br /><br /> Para mais detalhes sobre a definição de especificações pesquisáveis, acesse o guia [Configurações da busca](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#configuracoes-gerais). Saiba mais sobre especificações em [Especificações de produto e de SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP). |
+| <ul><li>Código do fabricante (`ManufactureID`)</li><li>Departamento</li><li>Categoria</li><li>Subcategoria</li></ul> | Entre em contato com o nosso [Suporte](https://help.vtex.com/support?/cultureInfo=en-us) para definir esses campos como pesquisáveis. | 
 
 _Exemplo_: foi configurado que a especificação "cor" é pesquisável e o produto está cadastrado com o nome "Tênis Nike Total 90" e com a cor "preta". Se um cliente pesquisar por "Tenis Preto", a ferramenta retornará produtos que possuem o termo "tenis" e cor "preta" no topo do resultado de busca.
 

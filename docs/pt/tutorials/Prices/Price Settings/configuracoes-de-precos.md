@@ -3,8 +3,8 @@ title: 'Configurações de preços'
 id: 3hbBtCzNUBrj8GaWgCtSWN
 status: PUBLISHED
 createdAt: 2020-10-14T18:43:49.750Z
-updatedAt: 2023-08-21T17:13:42.982Z
-publishedAt: 2023-08-21T17:13:42.982Z
+updatedAt: 2024-10-14T19:01:25.144Z
+publishedAt: 2024-10-14T19:01:25.144Z
 firstPublishedAt: 2020-10-22T19:38:48.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -30,9 +30,18 @@ Veja as configurações disponíveis a seguir:
   - **Apenas para preços inexistentes:** os preços da conta-pai serão herdados apenas se forem inexistentes na conta atual.
 
   <div class = "alet alert-info">
-    <p>A configuração <b>Herdar preços da conta-pai</b> é disponível apenas para contas-filhas.</p>
+    <p>A configuração <b>Herdar preços da conta-pai</b> é disponível apenas para contas-filhas. A definição da conta-pai ocorre durante a criação da conta-filha. Verificar se a conta-pai associada está correta evita problemas relacionados a preços ou à disponibilidade de estoque.</p>
   </div>
 
 - **Sobrescrever preços de sellers:** permite sobrescrever todos os preços de sellers com os da conta atual.
 
   >ℹ️ A configuração **Sobrescrever preços de sellers** não é disponível para sellers white label.
+
+## Consultar a Conta-Pai associada
+Para consultar a conta-pai vinculada a uma conta-filha, utilize a URL abaixo, substituindo `{AccountName}` pelo nome da conta-filha que deseja consultar:
+
+```
+http://{AccountName}.myvtex.com/api/vlm/account
+```
+
+Ao acessar essa URL, a API retornará um resultado com várias informações sobre a conta. Para identificar a conta-pai associada, localize o campo `accountName` no retorno da API. Esse campo contém o nome da conta-pai vinculada à conta-filha consultada.

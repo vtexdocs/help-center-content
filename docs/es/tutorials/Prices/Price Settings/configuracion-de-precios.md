@@ -3,8 +3,8 @@ title: 'Configuración de precios'
 id: 3hbBtCzNUBrj8GaWgCtSWN
 status: PUBLISHED
 createdAt: 2020-10-14T18:43:49.750Z
-updatedAt: 2023-08-21T17:13:42.982Z
-publishedAt: 2023-08-21T17:13:42.982Z
+updatedAt: 2024-10-14T19:01:25.144Z
+publishedAt: 2024-10-14T19:01:25.144Z
 firstPublishedAt: 2020-10-22T19:38:48.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -29,10 +29,17 @@ Consulte los ajustes disponibles a continuación:
   - **Siempre:** la cuenta siempre heredará todos los precios de la cuenta padre. 
   - **Solo para precios inexistentes:** los precios de la cuenta padre se heredan solo si los precios de la cuenta actual son inexistentes. 
 
-  <div class = "alet alert-info">
-    <p>La configuración <b>Heredar precios de cuenta padre</b> solo está disponible para la cuentas hijas.</p>
-  </div>
+  >ℹ️ La configuración **Heredar precios de la cuenta principal** está disponible solo para cuentas secundarias. La cuenta principal se define cuando se crea la cuenta secundaria. Asegurarse de que la cuenta principal asociada sea la correcta ayuda a evitar problemas relacionados con los precios o la disponibilidad de stock.
 
 - **Sobrescribir precios de sellers:**  esta opción sobrescribe todos los precios de sellers con los de la cuenta actual.
 
   >ℹ️ La configuración **Sobrescribir precios de sellers** no está disponible para sellers White label.
+
+## Consultar la Cuenta-Padre asociada
+Para consultar la cuenta-padre vinculada a una cuenta-hija, utilice la siguiente URL, sustituyendo {AccountName} por el nombre de la cuenta-hija que desea consultar:
+
+```
+http://{AccountName}.myvtex.com/api/vlm/account
+```
+
+Al acceder a esta URL, la API devolverá un resultado con varias informaciones sobre la cuenta. Para identificar la cuenta-padre asociada, localice el campo `accountName` en la respuesta de la API. Este campo contiene el nombre de la cuenta-padre vinculada a la cuenta-hija consultada.
