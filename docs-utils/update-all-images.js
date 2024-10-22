@@ -1,6 +1,6 @@
 const fs = require('fs').promises;
 const path = require('path');
-const { updateImages } = require('update-images');
+const { updateImages } = require('./update-images.js');
 
 // The root folder to process
 const rootFolder = 'docs';
@@ -14,6 +14,7 @@ let fileQueue = [];
 
 // Function to process each Markdown file
 async function processFile(filePath) {
+    console.log('Running processFile: ',filePath)
     activeFiles++;
     try {
         updateImages(filePath)
@@ -30,11 +31,17 @@ async function processFile(filePath) {
 
 // Recursive function to process all markdown files in the directory
 async function processDirectory(directory) {
+    console.log('Running processDirectory: ',directory)
     try {
+        console.log('try')
+        console.log('|',directory,'|')
         const files = await fs.readdir(directory);
+        console.log('files: ',files)
         for (const file of files) {
             const filePath = path.join(directory, file);
+            console.log('filePath: ',filePath)
             const stats = await fs.stat(filePath);
+            console.log('stats: ',stats)
 
             if (stats.isDirectory()) {
                 await processDirectory(filePath);
@@ -51,11 +58,13 @@ async function processDirectory(directory) {
     }
 }
 
-async function updateImages() {
-    console.log("Updating images...");
+async function updateAllImages() {
+    console.log("Updating all images...");
     await processDirectory(rootFolder);
     while (activeFiles > 0 || fileQueue.length > 0) {
         await new Promise(resolve => setTimeout(resolve, 100));
     }
     console.log("Finished updating images in markdown files.");
 }
+
+updateAllImages()
