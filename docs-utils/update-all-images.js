@@ -1,3 +1,4 @@
+// This script has an error: it passes absolute paths to the function updateImages. So the updated image links are wrong. This can be fixed manually using VSCode search.
 const fs = require('fs').promises;  // Use the promise-based version of fs
 const path = require('path');
 const { updateImages } = require('./update-images.js'); // Ensure this returns a promise or is async
