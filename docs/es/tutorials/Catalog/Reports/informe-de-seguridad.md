@@ -31,7 +31,7 @@ Es posible filtrarlo de diversas formas, a partir de las casillas abajo, conside
 
 En el ejemplo abajo hago el filtro para una alteración (ya sea creación o actualización) de precio de un SKU. Para eso, utilicé las casillas “Datos” con el Id del SKU, “Pantalla” con el lugar de la plataforma donde ocurre esa alteración y un período de tiempo específico. De acuerdo con el informe que se desea, puede ser necesario utilizar otras casillas en conjunto o en sustitución a esos que utilizo en el ejemplo.
 
-![relatorioseguran aPT.gif h 250?h=250](https://images.ctfassets.net/alneenqid6w5/9t5KxHdSwTGYy84KmJIq7/bfa1170fd5dbf3fe62f736a136db18b5/relatorio-seguranca-es.gif)
+![relatorioseguran aPT.gif h 250?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Reports/informe-de-seguridad_1.gif)
 
 ## Campos disponibles para el filtro
 

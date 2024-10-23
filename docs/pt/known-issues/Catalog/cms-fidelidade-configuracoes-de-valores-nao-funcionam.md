@@ -36,7 +36,7 @@ Ir para mystore.myvtex.com/admin/Site/ConfigForm.aspx
 
 Há uma caixa de seleção do programa de recompensa sob esta guia
 
- ![](https://vtexhelp.zendesk.com/attachments/token/YrxEGPufx4nulpDiecqhCqlnC/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/cms-fidelidade-configuracoes-de-valores-nao-funcionam_1.png)
 
 Mesmo sem controle, se você configurar uma promoção de recompensa ou um valor diretamente sobre um produto, os créditos serão dados à compra, ignorando esta configuração na administração.
 

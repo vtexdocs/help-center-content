@@ -18,7 +18,7 @@ Si usted ha configurado su tienda utilizando el flujo de __Easy Setup__, tal vez
 
 Al entrar en el VTable (https://{{AccountName}}.myvtex.com/admin/vtable) usted verá dos aplicaciones, __Admin de las tiendas__ y __Admin de los vendedores__:
 
-![inStore aplicacoes vtable](https://images.ctfassets.net/alneenqid6w5/6BRkoPO2cMOQkYkuSOeCO6/641c901771af479df13a487c123aff23/inStore_aplicacoes_vtable.png)
+![inStore aplicacoes vtable](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-setup/anadir-vendedores_1.png)
 
 Haga clic en __Admin de los vendedores__ para abrir la tabla donde incluiremos un nuevo vendedor.
 
@@ -26,7 +26,7 @@ En el caso de que ya haya registrado un vendedor a través del __Easy Setup__, s
 
 > __IMPORTANTE__: el e-mail de cada vendedor __NO__ puede ser el mismo utilizado en la plataforma VTEX, porque su e-mail de administrador tiene permisos que un vendedor no debería tener, por lo que es necesario utilizar algún otro e-mail sin privilegios en la plataforma.
 
-![inStore adicionando vendedor](//images.ctfassets.net/alneenqid6w5/3WGuWnOeY8emcmuIqcE0uE/74586856739dcee97163835710a85780/inStore_adicionando_vendedor.png)
+![inStore adicionando vendedor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-setup/anadir-vendedores_2.png)
 
 Si ha saltado el paso de creación de vendedor en el __Easy Setup__ y no tiene ningún vendedor creado, usted necesitará recoger el ID de __Tienda__ en el __Admin de las Tiendas__ en el VTable.
 

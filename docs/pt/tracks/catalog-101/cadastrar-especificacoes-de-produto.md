@@ -33,7 +33,7 @@ Para cadastrar as especificações sua loja precisa ter departamentos, categoria
  7. Preencha os campos do formulário de especificações. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [como preencher campos de especificações de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).
  8.  Clique em **Salvar**.
 
-![1.PT](https://images.ctfassets.net/alneenqid6w5/5Y8LnWHVXSvRbqtMNBLSRq/309fc619d5f3fa5dfc472ea31336b646/1.PT.gif)
+![1.PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/catalog-101/cadastrar-especificacoes-de-produto_1.gif)
 
 Para adicionar valores à especificação de um produto, siga os passos abaixo:
 
@@ -47,7 +47,7 @@ Para adicionar valores à especificação de um produto, siga os passos abaixo:
  9. Clique em **Novo Valor**.
  10. Escreva o **Nome** do valor desejado e clique em **Salvar**.
 
-![2.PT](//images.ctfassets.net/alneenqid6w5/5F0K7fQTFOf2b7opIrgpP6/38de1f08c0bab9de62b6003688e678e5/2.PT.gif)
+![2.PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/catalog-101/cadastrar-especificacoes-de-produto_2.gif)
 
 ### Vincular as especificações a um produto
 
@@ -61,7 +61,7 @@ Para incluir as especificações em um **Produto** siga os seguintes passos:
  4. Clique na aba **Especificações** e escolha o valor da especificação para esse produto.
  5. Clique na aba **Produto** e depois clique em **Salvar**.
 
-![3.PT](//images.ctfassets.net/alneenqid6w5/7B2L2oEoPQkPU2EJDowsxx/e884dd25a34b8dc9ffeade1e8dc9b9bd/3.PT.gif)
+![3.PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/catalog-101/cadastrar-especificacoes-de-produto_3.gif)
 
 ## Planilha 
 
@@ -90,7 +90,7 @@ Depois de preencher os dados da planilha, siga o passo a passo para Importar sua
 5. Clique em **Select** para selecionar a planilha de Importação.
 6.  Clique em **Importar**.
 
-![4.PT](//images.ctfassets.net/alneenqid6w5/747pr0ISwE9GrNBjC4kKjL/33cb6da8c5fc3f57f84e9559e4a9867a/4.PT.gif)
+![4.PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/catalog-101/cadastrar-especificacoes-de-produto_4.gif)
 
 ## API 
 

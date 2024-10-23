@@ -34,7 +34,7 @@ Define the name of the initial file with the same country of the store.
 Example: argentina.js or mexico.js, the .js file of the main folder and folder must have the same name. The IVA folder can have any name. 
 
 The call order should be also followed for development:
-![TaxHubTree](https://images.contentful.com/alneenqid6w5/5hPFG8m6pUCMuIg8e2Iymm/957b9c89844099db690e82abe53c2b7a/TxHubTree.jpg)
+![TaxHubTree](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/how-is-the-taxhub-app-structure-in-js_1.jpg)
 
 After the changes, the file should be uploaded to VTEX in the .zip format always with the same folder structure.
 

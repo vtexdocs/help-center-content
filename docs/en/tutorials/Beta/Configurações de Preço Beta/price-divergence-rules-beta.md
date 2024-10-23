@@ -21,7 +21,7 @@ Integrations between VTEX sellers and [native connectors](https://help.vtex.com/
 
 Orders whose price difference is greater than the values configured in the integration are not automatically sent to the OMS. This causes orders to remain on “error” status in the `Orders` section, in the *INTEGRATIONS* module of the Admin, waiting to be manually approved.
 
-![divergenciadepreçosEN-01](https://images.contentful.com/alneenqid6w5/4mjfgTHC1DrhmprHMU4akp/7085908f63fefc87357e95f6bb363dd9/divergenciadepre__osEN-01.gif)
+![divergenciadepreçosEN-01](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Configurações de Preço Beta/price-divergence-rules-beta_1.gif)
 
 To send orders with price divergence to the OMS, we have created the price divergence rule (Beta). According to this rule, all orders that diverge in price are sent to the OMS and must be manually approved by the individual in charge — the person whose email address is listed under *Account management > Accounts*. You can add more than one email address.
 
@@ -42,7 +42,7 @@ You can configure the price divergence rule by:
 
 ### Creating rules
 
-![barra regradivergenciaEN](//images.contentful.com/alneenqid6w5/DqcEZulHBr5XuNbF8LWDn/3aa409e8d104ed4beb73a5dd33886d97/barra_regradivergenciaEN.JPG)
+![barra regradivergenciaEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Configurações de Preço Beta/price-divergence-rules-beta_2.JPG)
 
 To create a rule, follow the steps below:
 
@@ -55,7 +55,7 @@ To create a rule, follow the steps below:
    * The system automatically configures a rule with a percentage of divergence between 0% and 30%, corresponding to the light blue bar.
 6. hoose one of the following options for the authorization rule: `Automatically authorize`, `Automatically deny`, or `Create a VTEX DO task to approve`.
 7. To increase or decrease the divergence percentage, click on the bar and drag its extremities considering the symbols "<" (less than) and ">" (greater than).
-8. To create the second rule, click on the icon <img class="shadow-4" src="https:////images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" /> and repeat steps 6 and 7.
+8. To create the second rule, click on the icon <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/en/tutorials/Beta/Configurações de Preço Beta/price-divergence-rules-beta_6.JPG" /> and repeat steps 6 and 7.
 9. Click on `Save rules`.
 
 During the process of creating rules, you will see the following tabs:
@@ -74,7 +74,7 @@ To edit existing rules, follow the steps below:
 5. Edit the rule you want by changing the percentage bar.
 6. Then click on `Save rules`.
 
-![divergenciadepreçosEN-02](//images.contentful.com/alneenqid6w5/19JIIISSI8aKitR5Alvzfy/9f0135552d26f4353df30374a361c6a6/divergenciadepre__osEN-02.gif)
+![divergenciadepreçosEN-02](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Configurações de Preço Beta/price-divergence-rules-beta_3.gif)
 
 ## Order authorization
 
@@ -95,7 +95,7 @@ To authorize orders manually, follow the steps below:
 4. Select the order with the status `Waiting for manual authorization` that you want to approve. 
 5. Click on `Approve order`.
 
-![divergenciadepreçosEN-03](//images.contentful.com/alneenqid6w5/5HVasmtuyHSGDmVAlPnl8T/3f1e507a2f00ca82e1ebc43dcdc5809c/divergenciadepre__osEN-03.gif)
+![divergenciadepreçosEN-03](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Configurações de Preço Beta/price-divergence-rules-beta_4.gif)
 
 ### Authorizing orders via VTEX DO
 
@@ -109,4 +109,4 @@ To authorize orders manually, follow the steps below:
 6. Click on `Close`.
 7. Click on `Authorize`.
 
-![divergenciadepreçosEN-04](//images.contentful.com/alneenqid6w5/4Hy0li6MdpqLRQiDqkQOyi/055b6a1120bc50793625319db6aa30d4/divergenciadepre__osEN-04.gif)
+![divergenciadepreçosEN-04](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Configurações de Preço Beta/price-divergence-rules-beta_5.gif)

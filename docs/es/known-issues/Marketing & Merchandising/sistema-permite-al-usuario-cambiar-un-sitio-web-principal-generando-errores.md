@@ -22,7 +22,7 @@ En el módulo CMS, el sistema deja al usuario manipular un sitio web A y apuntar
 
 Si el usuario desea regresar, no hay la posibilidad de apuntar el sitio B al A, como padre. Con eso, genera errores en el sitio como el error abajo, y el admin queda inaccesible.
 
-![KI erro website](//images.contentful.com/alneenqid6w5/17hdmuW8qis8kyKUs6e8SG/2234b8f8916038ce6e8ccf98b6ff14a9/KI_erro_website.png)
+![KI erro website](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing & Merchandising/sistema-permite-al-usuario-cambiar-un-sitio-web-principal-generando-errores_1.png)
 
 ## Simulación
 
@@ -31,7 +31,7 @@ Si el usuario desea regresar, no hay la posibilidad de apuntar el sitio B al A, 
 - En el primer Web Site > campo Web Site Padre, insertar el Web Site referente al Web Site 2;
 - En el segundo sitio web> campo Web Site Padre, inserte el Web Site referente al Web Site 1.
 
-![KI erro website2](//images.contentful.com/alneenqid6w5/a6SpuvdBT2KOIiaSO6EGq/e98a7e9081262e773f63f165f7344ecc/KI_erro_website2.png)
+![KI erro website2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing & Merchandising/sistema-permite-al-usuario-cambiar-un-sitio-web-principal-generando-errores_2.png)
 
 ## Workaround
 

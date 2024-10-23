@@ -86,5 +86,5 @@ Depois de baixar o modelo é preciso preencher os campos com as informações do
 >
 > </body>
 
-![menu importação de serviços](https://images.ctfassets.net/alneenqid6w5/6VXBtxVKQvnNvqEwCI09dZ/15a4abddec959d9efdd9ae97f4116b97/importacao_servi__os.png)
+![menu importação de serviços](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX Tracking/Services/importacao-de-servicos_1.png)
 

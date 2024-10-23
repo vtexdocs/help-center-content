@@ -20,11 +20,11 @@ Todos os mapeamentos cadastrados serão executados no tipo 301. O redirecionamen
 
 Os mapeamentos de URLs são cadastrados no **Gerenciador de Portal**. No módulo **Catalog**, acesse o menu “Configurações" -> "Portal”:
 
-![](https://images.contentful.com/alneenqid6w5/2sLb71Ajkg8s4MIOgCymsO/de7f2f3747389d99ee8100d9cf8f1093/mapeamento1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing & Merchandising/o-que-e-mapeamento-de-url-redirecionamento-301_1.png)
 
 No Gerenciador de Portal, acesse **Mapeamento de URLs**:
 
-![](//images.contentful.com/alneenqid6w5/5xi3Mase2skUgcI0cU2e28/8459c10133f623d74d55d7c28075b408/mapeamento2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing & Merchandising/o-que-e-mapeamento-de-url-redirecionamento-301_2.png)
 
 Existem duas formas de adicionar / alterar um Mapeamento de URL:
 1. Manualmente

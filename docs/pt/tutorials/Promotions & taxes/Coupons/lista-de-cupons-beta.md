@@ -31,7 +31,7 @@ A partir desta página, você pode:
 
 Para acessá-la no Admin VTEX, clique em **Promoções > Cupons**.
 
-![lista-cupons](https://images.ctfassets.net/alneenqid6w5/3KpOX5OW4oM5dBUNxkc0YP/74d61d0b59d9b69728c62b5e1dc5bae7/screencapture-coupons-pricingqa-myvtex-admin-coupons-2022-04-28-18_42_26.png)
+![lista-cupons](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Coupons/lista-de-cupons-beta_1.png)
 
 A seguir, confira a descrição dos componentes e ações incluídos na página.
 
@@ -83,7 +83,7 @@ O arquivo gerado contém as informações descritas a seguir.
 
 Veja um exemplo de arquivo CSV exportado a seguir:
 
-![cupons-exportados](//images.ctfassets.net/alneenqid6w5/3BiCzXoNpaMM1ZpkBoa3Nr/921b74b837ae69f974aef332dc8d816a/image3.png)
+![cupons-exportados](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Coupons/lista-de-cupons-beta_2.png)
 
 #### Exportar códigos de um grupo de cupons
 
@@ -100,13 +100,13 @@ Para visualizar ou exportar todos os códigos de um grupo, é necessário seguir
     * <i class="far fa-clone"></i> **Copiar tudo:** permite copiar os códigos gerados para a sua área de transferência. Também é possível copiar cada código clicando sobre ele.
     * **Exportar:** permite exportar os códigos gerados para um arquivo CSV. O arquivo exportado contém uma coluna, com um código por linha.
 
-![exportar-cupons](//images.ctfassets.net/alneenqid6w5/P8bIJHkyTTi2jVZ325rko/27a207fd3f7adc0ebe4493cd5ea15f0f/exportarcupons.PNG)
+![exportar-cupons](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Coupons/lista-de-cupons-beta_3.PNG)
 
 ### Ver uso dos cupons
 
 Para visualizar o total de cupons ativos e a cota de espaço restante para novos cupons, clique em <i class="fas fa-chart-line"></i> `Uso dos cupons`.
 
-![uso-dos-cupons](//images.ctfassets.net/alneenqid6w5/CaNOtLMQXu26MGYfaAe4o/7c4529a241f54d4e3203ce5c1237bdfc/usodoscupons.PNG)
+![uso-dos-cupons](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Coupons/lista-de-cupons-beta_4.PNG)
 
 O número máximo de cupons ativos que você pode ter é 5 mil. Para liberar espaço, você pode arquivar cupons a partir da [Lista de cupons](#lista-de-cupons). Caso precise aumentar o limite de cupons ativos, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
@@ -155,13 +155,13 @@ O modal **Ver detalhes de uso** apresenta os dados de utilização de cada cupom
 
     Esta seção também apresenta a lista de pedidos em que o código foi utilizado e permite buscar pelo número de um pedido. Ao clicar no número de um pedido, você será conduzido para a página de detalhes do pedido no **Gerenciamento de pedidos**.
 
-![ver-detalhes-uso](//images.ctfassets.net/alneenqid6w5/4dVuN6fKsu3WRsMSQbZT4e/648e8a2216470558beddea7e9fb0087b/Group_1__4_.png)
+![ver-detalhes-uso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Coupons/lista-de-cupons-beta_5.png)
 
 * **Uso geral dos códigos de cupom** (grupos de cupons): exibe a quantidade total de usos dos códigos de um grupo de cupons e a quantidade de usos restantes, caso você tenha limitado a quantidade de usos.
 
     Esta seção também apresenta a lista de códigos do grupo de cupons e permite buscar por um código específico. Ao clicar em um código, você tem acesso à lista de pedidos em que o código foi utilizado e pode buscar pelo número de um pedido. Ao clicar no número de um pedido, você será conduzido para a página de detalhes do pedido no **Gerenciamento de pedidos**.
 
-![selecione-o-codigo-grupo-cupons](//images.ctfassets.net/alneenqid6w5/25yE4tmkHYDm4MISaz9upH/87b9f4e806c8d2c0b4399d64524658b4/Group_2__4_.png)
+![selecione-o-codigo-grupo-cupons](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Coupons/lista-de-cupons-beta_6.png)
 
 ## Saiba mais
 

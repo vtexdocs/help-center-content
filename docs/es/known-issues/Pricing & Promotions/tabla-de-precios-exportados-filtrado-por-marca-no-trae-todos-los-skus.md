@@ -24,7 +24,7 @@ internalReference: 594075
 Al exportar la tabla de precios filtrada por Marca para obtener un resultado más específico, la hoja de cálculo llega incompleta al cliente.
 
 Sólo se exportan los skus con precio mostrado en la primera página (cuando la página está configurada con el máximo de 20 resultados).
- ![](https://vtexhelp.zendesk.com/attachments/token/Yfc9U3wsVoOTEIsYsxInZAVcn/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing & Promotions/tabla-de-precios-exportados-filtrado-por-marca-no-trae-todos-los-skus_1.png)
 
 
 ##

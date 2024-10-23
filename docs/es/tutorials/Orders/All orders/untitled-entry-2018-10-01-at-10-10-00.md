@@ -18,7 +18,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 Para buscar sus pedidos antiguos, siga los pasos a continuación:
 1. En el menú lateral del admin, haga clic en __Gestión de pedidos__.
 2. Haga clic en __Todos los pedidos__.
-3. Haga clic en el botón de filtro ![filter](https://images.ctfassets.net/alneenqid6w5/1TVmDkKRDOe88o8oqqYMqu/e20881562b722c81f062efe4f2015101/filter.png).
+3. Haga clic en el botón de filtro ![filter](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All orders/untitled-entry-2018-10-01-at-10-10-00_1.png).
 4. Escoja un filtro *por periodos*: __Fecha de factura__, __Fecha de pedido__, __Fecha de autorización__ o **Fecha de entrega**.
 5. En el filtro escogido, haga clic en el __ícono de calendario__, al lado del texto __Todas las fechas__.
 6. Escoja una fecha/hora inicial y una fecha/hora final. 

@@ -38,17 +38,17 @@ This list includes icons to indicate the status of your mapping:
 
 | **Icon** | **Status**| **Description**|
 |:---:|:---:|:---:|
-|![mapeado mapper](https://images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/94a47adb24232c9a88da68e951edfad4/mapeado_mapper.jpg)| **Mapped** |Indicates that the category mapping was completed.|
-|![mapeamentoincompleto mapper](//images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/5c707e0427e064603b127ecffba75970/mapeamentoincompleto_mapper.jpg) | **Incomplete mapping** |The category is partially mapped.The required attributes, indicated by an asterisk, need to be added for completing the mapping. |
-|![erromapeamento mapper](//images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/f84c40b49563dacdf2f96c5ac20ad65e/erromapeamento_mapper.jpg) | **Error in mapping** |The mapping error occurs when the marketplace removes or changes the product category. To solve this, simply remap the category. |
-|![incompleto mapper](//images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/5c2bb3c9fd5f5d131b9a2e153d7857d0/incompleto_mapper.jpg) | **Not mapped** | Indicates that the category was not mapped. |  
+|![mapeado mapper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/amazon-integration/sending-products-to-amazon_1.jpg)| **Mapped** |Indicates that the category mapping was completed.|
+|![mapeamentoincompleto mapper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/amazon-integration/sending-products-to-amazon_2.jpg) | **Incomplete mapping** |The category is partially mapped.The required attributes, indicated by an asterisk, need to be added for completing the mapping. |
+|![erromapeamento mapper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/amazon-integration/sending-products-to-amazon_3.jpg) | **Error in mapping** |The mapping error occurs when the marketplace removes or changes the product category. To solve this, simply remap the category. |
+|![incompleto mapper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/amazon-integration/sending-products-to-amazon_4.jpg) | **Not mapped** | Indicates that the category was not mapped. |  
 
 To map a category, follow these steps:  
 
 1. In the Admin, go to **Marketplace > Marketplaces and Integrations > Amazon > Perform Mapping.**  
 2. Select the category you want to map.
 3. Select the corresponding category on Amazon for the product you want to send.
-4. Match the attributes in the side window, as shown in the image below: ![Amazon Mapper Attributes](//downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/da4ea7365efc744b036e55305feaea6f/mapper_amazon_atributos.gif)  
+4. Match the attributes in the side window, as shown in the image below: ![Amazon Mapper Attributes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/amazon-integration/sending-products-to-amazon_5.gif)  
 5. Click the `Save Changes` button.  
 
 >❗ Fields with an asterisk (`*`) are required.
@@ -112,13 +112,13 @@ To configure a global category in the VTEX environment according to the global c
 
 **Example of a spreadsheet query**
 In the Amazon required attributes template, we will use the **Health** category as an example:  
-![categoriageral01](//images.contentful.com/alneenqid6w5/154htyPg3K3IZ6Wxej3kek/a446c9815c249dda3084aa1773b76b3a/categoriageral01.JPG)
+![categoriageral01](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/amazon-integration/sending-products-to-amazon_6.JPG)
 
 In the Amazon general categories template, filter column "I" Cat-Amazon-General by clicking on **Filter > Health > OK**.
-![categoriageral02](//images.contentful.com/alneenqid6w5/2PTS1fxztRjYHaAicwVH7W/f44b94c30ca7401ec08a19c467ee8912/categoriageral02.JPG)
+![categoriageral02](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/amazon-integration/sending-products-to-amazon_7.JPG)
 
 Following the previous example, filter columns B, C, and D in the **Health & Beauty > Personal care > Massage & Relaxation** tree.
-![categoriageral03](//images.contentful.com/alneenqid6w5/1p0cIHz7bp8HHuzud1H4zE/e79bf00cbe09f7b1fb155730cfc401f8/categoriageral03.JPG)
+![categoriageral03](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/amazon-integration/sending-products-to-amazon_8.JPG)
 
 Now that you have found the Amazon general category, go back to the Admin to [configure the VTEX global category](https://help.vtex.com/es/tutorial/configurando-a-categoria-global--tutorials_188) according to the Amazon general category. 
 

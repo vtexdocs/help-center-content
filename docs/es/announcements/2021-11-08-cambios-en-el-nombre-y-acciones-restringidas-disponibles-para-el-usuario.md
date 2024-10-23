@@ -27,7 +27,7 @@ Tenga la seguridad de que no nos equivocamos. Tras un cuidadoso análisis, nuest
 
 Pero eso no es todo. También renovamos por completo el proceso para cambiar el usuario titular de una cuenta, transformándolo en un flujo de transferencia basado en invitaciones que es totalmente auditable. 
 
-![Gestion titular gif](https://images.ctfassets.net/alneenqid6w5/ha7KIfmy1QJQvmpnXJN5R/0faedf49cfdee92ffdaabbdb3a624b04/Announcement_ES.gif)
+![Gestion titular gif](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021-11-08-cambios-en-el-nombre-y-acciones-restringidas-disponibles-para-el-usuario_1.gif)
 
 Consulte [Transferir la propiedad de la tienda](https://help.vtex.com/es/tutorial/transferir-la-propiedad-de-la-tienda) para conocer más detalles sobre este nuevo proceso. 
 

@@ -30,7 +30,7 @@ Utilice la autonomía que tiene sobre el código y cree el escenario de *storefr
 
 1. Seleccione el bloque para el que desea crear nuevo contenido. Puede seleccionarlo utilizando la lista en la esquina derecha o a través de la interfaz:
 
-![seta-interface-es](https://images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/a3e4c77ec2b3203740be27c7e8f150b7/img-two-es.png)
+![seta-interface-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Site Editor/gestionar-contenido-de-paginas-y-templates_1.png)
 
 2. Haga clic en `Versiones` en la esquina superior derecha. 
 
@@ -51,7 +51,7 @@ Utilice la autonomía que tiene sobre el código y cree el escenario de *storefr
 
 1. Seleccione el bloque cuyo contenido desea sobrescribir. Puede seleccionarlo utilizando la lista en la esquina derecha o a través de la interfaz:
 
-![seta-interface-es](//images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/a3e4c77ec2b3203740be27c7e8f150b7/img-two-es.png)
+![seta-interface-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Site Editor/gestionar-contenido-de-paginas-y-templates_2.png)
 
 2. El contenido disponible corresponde al que está activo ahora. Modifique los campos con los nuevos valores o haga clic en `Versiones` para cambiar la configuración de otro contenido. 
 3. Guarde los cambios.
@@ -62,7 +62,7 @@ Utilice la autonomía que tiene sobre el código y cree el escenario de *storefr
 
 1. Seleccione el bloque cuyo contenido desea eliminar o restablecer. Puede seleccionarlo utilizando la lista en la esquina derecha o a través de la interfaz:
 
-![seta-interface-es](//images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/a3e4c77ec2b3203740be27c7e8f150b7/img-two-es.png)
+![seta-interface-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Site Editor/gestionar-contenido-de-paginas-y-templates_3.png)
 
 2. Haga clic en `Versiones` en la esquina superior derecha. 
 3. Haga clic en el menú del contenido deseado (tres puntos verticales). 

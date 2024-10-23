@@ -34,11 +34,11 @@ Esse comportamento não afeta o perfil ou a experiência do comprador, uma vez q
 - Clique no botão "_Alterar registro_";
 - Abrir uma versão recente;
 - Verifique o "_Version author_", que será um ID de usuário, e o nome "`Note: Not found on VTEX ID.`", por exemplo:
- ![](https://vtexhelp.zendesk.com/attachments/token/9ngSibhlO4er0Df3Fi7oQAhot/?name=image.png)
- ![](https://vtexhelp.zendesk.com/attachments/token/8tlsDbxNSFFHdJMVHf2yvctem/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/autor-da-versao-note-not-found-on-vtex-id-no-perfil_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/autor-da-versao-note-not-found-on-vtex-id-no-perfil_2.png)
 
 - Verificação pela API Get version:
- ![](https://vtexhelp.zendesk.com/attachments/token/MRrTRox5E0t91F3OpsDcRmJ9z/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/autor-da-versao-note-not-found-on-vtex-id-no-perfil_3.png)
 
     "updatedBy_USER": "{\"Id\":\"d6d8269f-e7cc-4e4b-8b89-3b46a1407937\",\"Login\":\"vtex-service::checkout::stable\",\"Name\":null}",
 

@@ -18,7 +18,7 @@ Esse cenário acontece quando mais de um item do mesmo SKU é separado em mais d
 
 Porém, existem cenários em que o valor do desconto é indivisível pelo número de itens, principalmente em casos em que o SKU possui uma unidade multiplicadora e, por isso, é preciso dar descontos diferentes para itens de um mesmo SKU para que o valor do desconto fique correto. O que acaba por deixar os preços diferentes e separando cada unidade em uma linha. Visualize melhor essa explicação com exemplo abaixo:
 
-![Por_que_o_item_do_carrinho_foi_separado](https://images.ctfassets.net/alneenqid6w5/5XCSjyHOKsKI4GaQqYMUcs/9f522427584df5bf97156641a1ac2bb3/Por_que_o_item_do_carrinho_foi_separado.jpg)
+![Por_que_o_item_do_carrinho_foi_separado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Shopping/por-que-o-item-do-carrinho-foi-separado_1.jpg)
 
 1. Unidade multiplicadora.
 2. Preço do produto após o desconto.

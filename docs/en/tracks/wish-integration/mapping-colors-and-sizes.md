@@ -60,7 +60,7 @@ You should choose the closest color match, which in Wish's case can be "White/Ic
 
 >ℹ️ The table's header should be filled in exactly as in the example below. Remember to not add any special characters such as "enter" or "space" when filling this table in.
 
-![PT - Tabela Wish](https://images.ctfassets.net/alneenqid6w5/5fvuqSjSRGHwbFVNUSTM3T/6f8f13054b1be01cbd1340d7b5b90bbd/Tabela_Wish.png)
+![PT - Tabela Wish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/wish-integration/mapping-colors-and-sizes_1.png)
 
 ## Uploading the spreadsheet
 

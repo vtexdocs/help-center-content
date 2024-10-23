@@ -26,7 +26,7 @@ Ao clicar sobre o nome de uma conta específica, a tela __Detalhes da conta__ ex
 - [Encerramento de conta](#encerramento-da-conta)
 <br>
 <br>
-![Conta_PT](https://images.ctfassets.net/alneenqid6w5/3Wu6HcL5NbC5XS5YdiF3Dx/7a4da3fc9797c2256f03e5811b06475d/Contas_PT.png)
+![Conta_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-getting-started/gerenciando-contas_1.png)
 
 ## Titular
 

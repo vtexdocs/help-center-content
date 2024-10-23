@@ -33,7 +33,7 @@ After installation, the **Catalog > Assembly Options** page will become availabl
 
 In the VTEX Admin, go to **Catalog > Assembly Options** to access a list with all the assembly options available in your store.
 
-![assembly-options-app-en](https://images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/b65d786da2a92266eb107b3eeac0f048/assembly-options-app-en.PNG)
+![assembly-options-app-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Assembly Options/assembly-options-app_1.PNG)
 
 Below, you will find the information displayed in the list:
 

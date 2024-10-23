@@ -23,7 +23,7 @@ Puedes cambiar el campo **textLink** de un producto existente en cualquier momen
 
 Consulta la sección [Reglas de llenado](#reglas-de-llenado) para conocer las restricciones de este campo.
 
-![textlink.es](https://images.ctfassets.net/alneenqid6w5/7Fn3c82EFti8PUc2qME3Xa/74abc336ae433344083479d28014696d/textlink.es.png)
+![textlink.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Products and SKUs/como-definir-la-url-de-un-producto_1.png)
 
 >ℹ️ También puedes cambiar la URL de un producto utilizando la[ API del Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#overview). En este caso, el campo a modificar es `LinkId`. Consulta el artículo[ Update product](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-put-product) para obtener más información.
 

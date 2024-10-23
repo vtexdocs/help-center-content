@@ -36,19 +36,19 @@ Na página [Gerenciamento de anúncios](https://help.vtex.com/pt/tutorial/offers
 
 ## Detalhes do Anúncio
 
-![PT Oportunidades Offer details](https://images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/c50404811bbb7be69e463f97cdc4408e/PT_Oportunidades_Offer_details.jpg)
+![PT Oportunidades Offer details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/anuncios-enviados-oportunidades-de-buybox_1.jpg)
 
 A página de [Detalhes do anúncio](https://help.vtex.com/pt/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) apresenta um card de `Oportunidade` no topo. Ao clicar em `Ver Oportunidade`, você será redirecionado para a página a seguir.
 
 ## Oportunidades do Anúncio
 
-![PT Oportunidades oportunidades do anúncio](//images.ctfassets.net/alneenqid6w5/6Atuthxay11bdJrmSQxEM9/753c2b80a4bf68ca6f82aa6f23cca363/PT_Oportunidades_oportunidades_do_an__ncio.jpg)
+![PT Oportunidades oportunidades do anúncio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/anuncios-enviados-oportunidades-de-buybox_2.jpg)
 
 A página **Oportunidades do anúncio** apresenta o anúncio elegível para o Catálogo MeLi ao lado do anúncio já presente no marketplace. A página permite comparar os dados dos dois anúncios, incluindo informações das marcas, especificações e dimensões.
 
 Além da oportunidade de adicionar anúncios, há o __Auto Optin (criação automática de anúncios Catálogo MeLi)__, nesta opção o Mercado Livre irá avaliar as publicações dos sellers, caso cumpra com todos os requisitos para se tornar um anúncio de Catálogo MeLi, ele será feito automaticamente e o seller visualizará a mensagem da imagem abaixo.
 
-![Auto Optin MELI](//images.ctfassets.net/alneenqid6w5/2Hiw11uUW5n5QHvwIlpo0C/95e691c69a8a8afccdf50abd0f0d09c4/Captura_de_tela_2023-06-27_175316.png)
+![Auto Optin MELI](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/anuncios-enviados-oportunidades-de-buybox_3.png)
 
 ## Adicionar anúncios ao Catálogo MeLi
 
@@ -84,4 +84,4 @@ A seção de *Oportunidades Ativas* da página [Detalhes do anúncio](https://he
 - **Status da oportunidade:** incluindo `Ganhando` ou `Perdendo`.  
 - **Lista de configurações:** ações necessárias para que seu anúncio esteja ganhando na Catálogo MeLi. As instruções listadas incluem alterar preço, promover frete grátis, entrega rápida ou oferecer pagamento com parcelamento sem juros, por exemplo. Cada item da lista apresenta uma sugestão de configuração  que tornará o anúncio mais atrativo, posicionando-o em primeiro lugar no Catálogo MeLi. 
 
-![PT Oportunidades oportunidades ativas](//images.ctfassets.net/alneenqid6w5/1e5ozasXAVsjNrH7RBjq71/6e7672dc863d4150b4e8b8efe600187a/PT_Oportunidades_oportunidades_ativas.jpg)
+![PT Oportunidades oportunidades ativas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/anuncios-enviados-oportunidades-de-buybox_4.jpg)

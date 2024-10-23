@@ -53,7 +53,7 @@ There are two ways to add and change URL mapping:
 3. Click on the **URL Builder** folder.
 4. Click on `Import` to import the spreadsheet.
 5. Download the spreadsheet template illustrated below by clicking on `Export`.
-![exemplo-planilha](https://images.contentful.com/alneenqid6w5/2Z63gJkADcR2gveT3lncQb/9bbd790becd99acb7b647537eb71c6a9/Screenshot_5.png)
+![exemplo-planilha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/url-mapping-301-redirect_1.png)
 6. Fill in the [spreadsheet fields](#spreadsheet-fields).
 7. After populating the spreadsheet template, click on the `Localize` button on the import page to upload the template.
 8. Select the file you want to upload. The filename extension must be `.xls` in the format `Excel 97-2003 Workbook`.

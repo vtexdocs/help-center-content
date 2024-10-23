@@ -24,7 +24,7 @@ Isso acontece quando o pedido está no status `Pronto para manuseio` e o cliente
 
 Exemplo com o fluxo do pedido:
 
-![2017-06-13 182850](//images.contentful.com/alneenqid6w5/5Skd8YsCcMIicCcEGyoqwG/1a1a839dc36cdb9f818240b68817de3e/2017-06-13_182850.jpg)
+![2017-06-13 182850](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Post-purchase/estoque-reservado-em-pedidos-faturados_1.jpg)
 
 Na etapa circulada do fluxo do pedido, o produto é faturado sem o reconhecimento da reserva.
 

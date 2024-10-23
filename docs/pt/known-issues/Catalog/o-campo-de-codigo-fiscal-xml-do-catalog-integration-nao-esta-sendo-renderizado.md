@@ -29,7 +29,7 @@ Atualmente, a configuração XML do catálogo para o campo de código fiscal nã
 1 - Registre um código fiscal em um produto de sua loja.
 2 - Na configuração XML de sua conta https://myaccountname.myvtex.com/admin/Site/Xml.aspx, configure o campo XML do código fiscal
 
- ![](https://vtexhelp.zendesk.com/attachments/token/LHjBFETlon2zWcRX7pXYF0xjP/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/o-campo-de-codigo-fiscal-xml-do-catalog-integration-nao-esta-sendo-renderizado_1.png)
 
 3 - Carregue o XML gerado e, apesar de o produto ter dados válidos, as tags do XML do código fiscal não carregarão conteúdo válido
 

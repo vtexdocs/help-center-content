@@ -23,7 +23,7 @@ internalReference: 560014
 
 Se você acessar uma loja e clicar em mostrar mais, navegar por algumas páginas, e depois clicar novamente no link "categoria" para reiniciar a navegação, o fetch mais trará o status (página) da última navegação, não retornando ao início.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/h61bZkQCRjKATjmc4d1VyUQ4V/?name=image+%283%29.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Intelligent Search/buscar-mais-mantendo-o-status-da-proxima-pagina-e-bloqueando-a-paginacao_1.png)
 
 
 ## Simulação

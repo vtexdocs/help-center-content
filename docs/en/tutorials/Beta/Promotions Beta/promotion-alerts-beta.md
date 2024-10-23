@@ -27,7 +27,7 @@ Suppose you only configure the email alert action, further orders with the unwan
 
 To access the page in the VTEX Admin, go to *Promotions > Promotion Alert*. You will see the following interface:
 
-![simuladordepromocoes gerenciar](https://images.ctfassets.net/alneenqid6w5/4E0oZf13zNjKgj5MNRYiuf/94c9af89ae0bad5601b316dfc73a6caf/simuladordepromocoes_gerenciar.gif)
+![simuladordepromocoes gerenciar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Promotions Beta/promotion-alerts-beta_1.gif)
 
 The table below shows the column descriptions for the promotion list:
 

@@ -27,9 +27,9 @@ Com o estoque já cadastrado, siga os passos a seguir:
 2. No módulo **Estoque & Entrega**, clique em **Estratégia de Envio**.
 3. Em Estratégia de Envio, selecione a aba Estoques e copie o ID do estoque que você deseja utilizar. 
 4. Vá para o  módulo **Marketplace**, selecione a opção **Integrações** e clique em **Configurações**.
-5. Na integração Mercado Livre, clique na engrenagem<img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+5. Na integração Mercado Livre, clique na engrenagem<img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Integrations/Inventory/selecionando-estoque-para-pedidos-do-mercado-envios-full_2.JPG" />.
 6. Selecione a opção **Editar configuração**.
 7. Insira o ID do estoque selecionado no campo **Armazém Mercado Full**.
 8. Clique em **Salvar Configuração**.
 
-![Início (3)](https://images.ctfassets.net/alneenqid6w5/4iKrvuMuXZBzVzrZU7hWev/3f1bcba69b69cce6b56ff2afac670c6d/In__cio__3_.gif)
+![Início (3)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Inventory/selecionando-estoque-para-pedidos-do-mercado-envios-full_1.gif)

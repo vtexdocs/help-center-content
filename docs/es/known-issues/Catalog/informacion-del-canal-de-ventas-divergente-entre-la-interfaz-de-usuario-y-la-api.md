@@ -34,7 +34,7 @@ Este escenario no ocurre siempre. Suele ocurrir cuando la indexación falla o no
 Compruebe el canal de ventas al que pertenece el producto a través de la interfaz de usuario.
 Compruebe el canal de ventas al que pertenece el producto a través de la API:
 https://{accountName}.{environment}.com.br/api/catalog_system/pvt/sku/stockkeepingunitbyid/{skuId}
- ![](https://vtexhelp.zendesk.com/attachments/token/F8f1Y1fSQVsq5JubtoILmeZjz/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/informacion-del-canal-de-ventas-divergente-entre-la-interfaz-de-usuario-y-la-api_1.png)
 
 
 

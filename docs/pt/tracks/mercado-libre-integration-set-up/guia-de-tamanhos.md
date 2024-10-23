@@ -18,7 +18,7 @@ Ao comprar roupas ou calçados on-line, muitos usuários costumam ter dúvidas s
 
 O guia de tamanhos do Mercado Livre é uma tabela de medidas ou equivalências que permite aos usuários visualizar as medidas exatas para que possam escolher o produto que melhor se adaptem. 
 
-![MLB tamanos1](https://images.ctfassets.net/alneenqid6w5/3kHkmPhrh50s9QhJQurtcD/f4ca7decdd70609953dbd842b55c24f7/MLB_tamanos1.gif)
+![MLB tamanos1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/mercado-libre-integration-set-up/guia-de-tamanhos_1.gif)
 
 ## Entendendo o guia de tamanhos
 
@@ -46,7 +46,7 @@ Feita a escolha das categorias, preencha a coluna `CategoryID` com o ID da Categ
 
 Na segunda etapa do preenchimento escolha os nomes que deseja dar para as suas tabelas. Você deve definir um nome para cada tabela que será criada. É possível vincular a mesma tabela a várias categorias. A imagem abaixo ilustra como este nome aparece na criação manual no Mercado Livre - neste caso, a tabela seria Camisetas esportivas.
 
-![Screen Shot 2020-10-06 at 12.07.57](//images.ctfassets.net/alneenqid6w5/1gGCEZMpgye7A26vQF2faX/61530c84cd32534c8ec26f92a19bde52/Screen_Shot_2020-10-06_at_12.07.57.png)
+![Screen Shot 2020-10-06 at 12.07.57](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/mercado-libre-integration-set-up/guia-de-tamanhos_2.png)
 
 Feita a escolha das tabelas, preencha a coluna `TableName` com o nome do guia de tamanhos que será usado para cada categoria.
 
@@ -54,7 +54,7 @@ Feita a escolha das tabelas, preencha a coluna `TableName` com o nome do guia de
 
 Na terceira etapa do preenchimento escolha o nome que desejar dar para os tamanhos da sua tabela. A imagem abaixo ilustra como estes tamanhos aparecem na criação manual no Mercado Livre - neste caso, os tamanhos seriam P e M.
 
-![Screen Shot 2020-10-06 at 12.08.39](//images.ctfassets.net/alneenqid6w5/6KvJFDknNoKqgL32Rs9R58/9f29afbc7690b6e67bde3201e88112b0/Screen_Shot_2020-10-06_at_12.08.39.png)
+![Screen Shot 2020-10-06 at 12.08.39](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/mercado-libre-integration-set-up/guia-de-tamanhos_3.png)
 
 Feita a escolha das tabelas, preencha a coluna `SizeName` com o nome dos tamanhos que serão usados para cada guia de tamanhos. 
 
@@ -62,7 +62,7 @@ Feita a escolha das tabelas, preencha a coluna `SizeName` com o nome dos tamanho
 
 Na quarta etapa do preenchimento é definir as colunas que gostaria de incluir no guia de tamanhos.  A imagem abaixo ilustra como estes tamanhos aparecem na criação manual no Mercado Livre - note que é possível vincular até 5 colunas por tabela.
 
-![Screen Shot 2020-10-06 at 12.07.49](//images.ctfassets.net/alneenqid6w5/190jdCD4Tgmp6xGfLm0nlT/c387fda654105b81532fcc79e64087da/Screen_Shot_2020-10-06_at_12.07.49.png)
+![Screen Shot 2020-10-06 at 12.07.49](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/mercado-libre-integration-set-up/guia-de-tamanhos_4.png)
 
 Na planilha de mapeamento, é necessário utilizar códigos específicos para indicar as colunas que devem ser incluídas no Guia de Tamanhos:
 
@@ -167,7 +167,7 @@ Ao concluir as etapas de preenchimento da planilha de mapeamento, você deve seg
 1. Acesse o Admin.
 2. No módulo Marketplace, clique em Integrações.
 3. Selecione a opção Configurações.
-4. Na integração Mercado Livre, clique na engrenagem<img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+4. Na integração Mercado Livre, clique na engrenagem<img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tracks/mercado-libre-integration-set-up/guia-de-tamanhos_6.JPG" />.
 5. Escolha a opção **Upload do mapeamento**.
 6. Selecione a opção **Escolher um arquivo**.
 7. Agora, selecione a planilha de mapeamento de categorias, atributos e variações do Mercado Livre.
@@ -180,9 +180,9 @@ Agora, é necessário acessar sua conta do Mercado Livre para ativar o guia de t
 1. Acessar sua conta no Mercado Livre.
 2. Clique na opção **Vendas**.
 3. No menu no canto esquerdo, selecione a opção **Anúncios**.
-4. Clique nos 3 pontos <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/5h4riyTF3EAYAM2e04up4O/73040d1e9e6892c6feea96a9bcc6560e/3_pontos.JPG" />
+4. Clique nos 3 pontos <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tracks/mercado-libre-integration-set-up/guia-de-tamanhos_7.JPG" />
 5. Selecione a opção **Alterar**.
 6. Na opção Guia de Tamanhos, selecione a tabela que você criou.
 7. Clique em **Confirmar**.
 
-![Início (2)](//images.ctfassets.net/alneenqid6w5/4hTDDEGYuZscACtdLiYNhW/d8781adfeab2a6c7326fba9aed7aa52b/Mercado_Livre_Brasil.gif)
+![Início (2)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/mercado-libre-integration-set-up/guia-de-tamanhos_5.gif)

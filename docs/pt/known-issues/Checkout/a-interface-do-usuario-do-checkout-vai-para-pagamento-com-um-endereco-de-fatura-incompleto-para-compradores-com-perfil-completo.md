@@ -28,7 +28,7 @@ Quando um comprador tiver um perfil completo e a loja estiver configurada para u
 
 
 - Configure o endereço da fatura para retirada;
- ![](https://vtexhelp.zendesk.com/attachments/token/1zJ19Lq9oJ5CHdkaHUfw4SAka/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Checkout/a-interface-do-usuario-do-checkout-vai-para-pagamento-com-um-endereco-de-fatura-incompleto-para-compradores-com-perfil-completo_1.png)
 
 - Depois de adicionar produtos ao carrinho, use um e-mail com um perfil completo;
 - A interface do usuário avançará para o pagamento mesmo com um endereço de fatura incompleto no sistema de perfil

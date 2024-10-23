@@ -20,7 +20,7 @@ internalReference:
 
 When performing a GiftCard query in the Admin by ID (document), the customer's voucher is not listed.
 
-![vale](//images.contentful.com/alneenqid6w5/78Mt2DDgaIwg2I66gSYGgM/66de95f8e3b3b73d20a0165f4da67f88/vale.png)
+![vale](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing & Merchandising/customer-giftcard-not-located-in-the-administrative-module-when-performing--cpf-query_1.png)
 
 ## Simulation
 
@@ -41,5 +41,5 @@ To query an ID with no dots or hyphens (created using the API), follow these ste
 2. Remove the dots and the hyphen;
 3. Click "Search".
 
-![vale animado](//images.contentful.com/alneenqid6w5/p5ybSG51tYmIe2qCu2GGg/2c68720ce41c517630b7049c49daf3f9/vale.gif)
+![vale animado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing & Merchandising/customer-giftcard-not-located-in-the-administrative-module-when-performing--cpf-query_2.gif)
 

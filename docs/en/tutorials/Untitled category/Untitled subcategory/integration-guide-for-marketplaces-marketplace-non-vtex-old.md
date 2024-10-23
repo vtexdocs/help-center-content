@@ -85,7 +85,7 @@ This model includes catalog exchange, updating of commercial condition (price, i
 
 SKU FLOW: price, inventory, shipping, delivery SLAs:
 
-![](https://images.contentful.com/alneenqid6w5/2rsft4dyVWggCk88IWusG/229b96fe3ca44d907bba857900771210/sku-sugestion-canal-nao-vtex.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/integration-guide-for-marketplaces-marketplace-non-vtex-old_1.png)
 
 ### Insertion and SKU Update - Flow
 
@@ -397,7 +397,7 @@ When a product is inserted into the cart in the Marketplace that isn't VTEX, or 
 
 _Cart and Payment Request Flow:_
 
-![](https://images.contentful.com/alneenqid6w5/4p1SjwzKvCegCe4AUKm2Q6/954a6a85dba6a4d0789ecdd6bcc5da39/fechato-canal-nvtex.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/integration-guide-for-marketplaces-marketplace-non-vtex-old_2.png)
 
 ### Cart Simulation
 
@@ -529,7 +529,7 @@ If someone want a different commercial condition for the Marketplace that isn't 
 
 _Send order and authorize dispatch request flow:_
 
-![](https://images.contentful.com/alneenqid6w5/8Okv8JXjSoiwAYSiokO4m/135fef672a650d4d6b581fa7a9f2b3dc/order-canal-naum-vtex.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/integration-guide-for-marketplaces-marketplace-non-vtex-old_3.png)
 
 
 <a name="a7"></a>

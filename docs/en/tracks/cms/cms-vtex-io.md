@@ -28,19 +28,19 @@ Configure the [store’s binding](https://help.vtex.com/en/tutorial/what-is-cms-
 
 Binding is the process to link your website to a store. For more details , please refer to the article [Linking a store to a folder structure in CMS (binding)](https://help.vtex.com/en/tutorial/vincular-um-account-name-a-um-website-binding).
 
-![CMS - Sites and channels EN](https://images.ctfassets.net/alneenqid6w5/4mXskFs41ULqUjO0naKtPd/73e1c8e48c93825b917c547c624ff8de/cms-sites-and-channels-en.png)
+![CMS - Sites and channels EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/cms/cms-vtex-io_1.png)
 
 ## Pages
 In **[Pages](https://help.vtex.com/en/tutorial/pages-overview--5iBUUJbK5NqG6OxlDrGNzc)**, create a new URL and link it to a template already defined in your [Store theme code](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates).
 
-![CMS - Pages](//images.ctfassets.net/alneenqid6w5/3f6BEwp3ifvCYNFpwMQjNn/0e439bd649959c6b451120e21fb95f75/cms-pages-en.png)
+![CMS - Pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/cms/cms-vtex-io_2.png)
 
 Also, this section contains the **Redirects** page, which redirects users and search engines from one URL to a more relevant or similar one. 
 
 ## Site Editor
 The **[Site Editor](https://help.vtex.com/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1)** is a graphical interface for managing your storefront content. It allows you to create, edit, publish, and schedule changes in your storefront components and behavior.
 
-![CMS - Site Editor EN](//images.ctfassets.net/alneenqid6w5/5mh4dQ3fdbM4wTDcdx6Cb/223fd5b5913716fa5d972779a2ee90ce/cms-siteeditor-en.png)
+![CMS - Site Editor EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/cms/cms-vtex-io_3.png)
 
 ## Styles
 
@@ -50,12 +50,12 @@ The **[Styles](https://help.vtex.com/en/tutorial/styles-overview--v0Db5ohEKSFIkT
   This feature only works in <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-production-workspace">production workspaces</a>.
 </div>
 
-![CMS - Styles](//images.ctfassets.net/alneenqid6w5/6oMURjcDdxF2DCR1x59rR6/7922d221d3e07ae06655f6f99a8b9882/cms-styles-en.png)
+![CMS - Styles](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/cms/cms-vtex-io_4.png)
 
 ## Store
 The **[Store](https://help.vtex.com/en/tutorial/cms-loja-visao-geral--3Eat287G6wUi6Mly5rW5Fs)** section is responsible for SEO configurations, performance optimization flags, and enabling PWA push notifications in your store.
 
-![CMS - Store](//images.ctfassets.net/alneenqid6w5/6hUAHs42TAVSzXp5KgT34f/11c316fb6a30988b9db10be80defa05d/cms-store-en.png)
+![CMS - Store](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/cms/cms-vtex-io_5.png)
 
 ## References
 - [Concepts - VTEX IO](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6loFGF4nXvgIVIzsyyJA5c#concepts)

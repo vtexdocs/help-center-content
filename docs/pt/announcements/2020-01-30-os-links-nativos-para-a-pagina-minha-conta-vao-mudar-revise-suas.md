@@ -35,7 +35,7 @@ A revisão e o eventual ajuste desta mudança devem ser aplicados através dos t
 
 Passos necessários para a revisão e adaptação:
 
-1. __Configuração básica__: revise se o template da página "/account" (ilustração abaixo) já utiliza a view part `<vtex.cmc:accountUserProfile />` e a atualize se houver necessidade. Esta view part é responsável por carregar todas as informações do cliente, incluindo seus pedidos. As view parts anteriores, `<vtex.cmc:accountAddress/>` e `<vtex.cmc:orderList />` devem ser removidas deste template.![account](https://images.ctfassets.net/alneenqid6w5/LIki0Pf7j1gOUi01EIajh/f7089fece0b6b10921fcb969066e2f4a/account.png)
+1. __Configuração básica__: revise se o template da página "/account" (ilustração abaixo) já utiliza a view part `<vtex.cmc:accountUserProfile />` e a atualize se houver necessidade. Esta view part é responsável por carregar todas as informações do cliente, incluindo seus pedidos. As view parts anteriores, `<vtex.cmc:accountAddress/>` e `<vtex.cmc:orderList />` devem ser removidas deste template.![account](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020-01-30-os-links-nativos-para-a-pagina-minha-conta-vao-mudar-revise-suas_1.png)
 2. __Customização__: se a página "/account/orders" possuir alguma customização de front-end, esta deve ser migrada e adaptada para a nova URL "/account#/orders". Revise e realize todos os testes necessários garantindo funcionamento de todas as recursos personalizados;  
 3. __Links do site__: Revise e atualize todos os links customizados do site e dos e-mails transacionais que antes direcionavam o usuário para a URL "/account/orders". Estes links agora devem direcionar o usuário para "/account#/orders".
 

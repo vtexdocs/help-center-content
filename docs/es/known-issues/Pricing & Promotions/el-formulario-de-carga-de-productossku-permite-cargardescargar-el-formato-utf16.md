@@ -33,7 +33,7 @@ Actualmente, si un usuario intenta cargar una lista de SKU en el formulario de p
 
 1) Cree una promoción regular y en la sección #2 "¿A qué **artículos** se aplicará esta promoción?", cargue una lista de SKU válida con formato UTF-16 en los archivos SKU o Producto
 
- ![](https://vtexhelp.zendesk.com/attachments/token/v2q7rCm249CNqnRQjXxKRdjnx/?name=inline-242501829.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing & Promotions/el-formulario-de-carga-de-productossku-permite-cargardescargar-el-formato-utf16_1.png)
 
 2) Guarde la promoción
 

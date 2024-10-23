@@ -42,10 +42,10 @@ Diferente de los demás, estos controles necesitan una configuración imprescind
 
 En el registro de Categoria existe la opción de configurar la Avaliação (Evaluación) y normalmente esta configuración se hace en la categoría raíz:
 
-![avaliação-categoria ES](https://images.ctfassets.net/alneenqid6w5/2iOensHpjSW8aYCqi2o2O8/548b7ff362e70275c73dbc9b0b2239d6/avalia____o_es.png)
+![avaliação-categoria ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/como-configurar-el-control-de-validacion-y-resena_1.png)
 
 Haga click en **Nueva Calificación** y rellene los datos Nome (Nombre) y Texto y después grabe.
 
-![nueva-calificacion-categorias ES](//images.ctfassets.net/alneenqid6w5/5A1DGDfYGI4syYkYGkAI86/c9fd86d9e6bbe8c61828e28e4cd0f5de/Nueva_calificacion.png)
+![nueva-calificacion-categorias ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/como-configurar-el-control-de-validacion-y-resena_2.png)
 
 ¡Listo! Sus controles de Reseña y Evaluación están listos para usarse.

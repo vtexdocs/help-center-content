@@ -32,7 +32,7 @@ la búsqueda global no encuentra información sobre "usuarios"
 Pasos:
 Admin > búsqueda global > Datos maestros > Usuario
 
- ![](https://vtexhelp.zendesk.com/attachments/token/bT7SSj1ApVwcvNCxCwtOB8yJj/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Admin/admin-revisar-busqueda-global_1.png)
 
 
 ##

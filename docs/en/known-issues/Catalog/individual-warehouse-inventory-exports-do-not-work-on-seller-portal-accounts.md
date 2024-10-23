@@ -22,11 +22,11 @@ internalReference: 684464
 
 When trying to export an individual inventory on a seller portal account a success message appears on the UI but the email never arrives.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/jZNSStiS1PxKHZpHPNmMrRKNl/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/individual-warehouse-inventory-exports-do-not-work-on-seller-portal-accounts_1.png)
 
 However, if you try to export all the warehouses the problem does not happen.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/xy8qVAYlE7VlMoSTge7HAVOaz/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/individual-warehouse-inventory-exports-do-not-work-on-seller-portal-accounts_2.png)
 
 
 

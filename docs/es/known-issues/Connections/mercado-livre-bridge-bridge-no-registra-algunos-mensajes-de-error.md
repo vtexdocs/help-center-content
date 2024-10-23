@@ -36,7 +36,7 @@ Error en el flujo de actualización sku no se está registrando en el puente
 
 Admin > Mercado > Productos > Amazon
 
- ![](https://vtexhelp.zendesk.com/attachments/token/3MxTLEnmPv9lgG7UE8iUEd1Ft/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/mercado-livre-bridge-bridge-no-registra-algunos-mensajes-de-error_1.png)
 
 
 

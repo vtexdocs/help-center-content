@@ -22,7 +22,7 @@ In the CMS module, the system lets the user manipulate a Web Site A and point to
 
 If the user wants to return, there is no possibility to point the Web Site B to A, as a parent. With this, it generates errors in the site like the error below, and the admin becomes inaccessible.
 
-![KI erro website](//images.contentful.com/alneenqid6w5/17hdmuW8qis8kyKUs6e8SG/2234b8f8916038ce6e8ccf98b6ff14a9/KI_erro_website.png)
+![KI erro website](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing & Merchandising/system-allows-the-user-to-change-a-main-web-site-generating-errors_1.png)
 
 ## Simulation
 
@@ -31,7 +31,7 @@ If the user wants to return, there is no possibility to point the Web Site B to 
 - In the first Web Site > Parent Web Site field, insert the Web Site referring to the Web Site 2;
 - In the second Web Site > Parent Web Site field, insert the Web Site referring to the Web Site 1.
 
-![KI erro website2](//images.contentful.com/alneenqid6w5/a6SpuvdBT2KOIiaSO6EGq/e98a7e9081262e773f63f165f7344ecc/KI_erro_website2.png)
+![KI erro website2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing & Merchandising/system-allows-the-user-to-change-a-main-web-site-generating-errors_2.png)
 
 ## Workaround
 

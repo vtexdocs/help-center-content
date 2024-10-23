@@ -39,7 +39,7 @@ VTEX Intelligent Search Multidioma permite que personalice la experiencia de bú
 ### Reglas de merchandising
 Cuando tiene VTEX Intelligent Search Multidioma instalada, la página de edición o creación de Reglas de merchandising — que se accede en el Admin VTEX en __Storefront__ > __Intelligent Search__ > __Reglas de merchandising__ — exhibe el campo adicional __Regiones__, que permite elegir los idiomas a los que se aplicará la regla de merchandising mediante la selección de los idiomas deseados, como se muestra en la siguiente imagen.  
 
-![img regrasmerch intelligentsearchmultilanguage ES](https://images.ctfassets.net/alneenqid6w5/3Pv8xpcvB43bLALrijD1UO/a0f959bcd8d52fe586e7b4ab4d91c63a/01-merchrules-es.png)
+![img regrasmerch intelligentsearchmultilanguage ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Intelligent Search Beta/vtex-intelligent-search-configuracion-multidioma-beta_1.png)
 
 Para saber más sobre los campos, lea nuestro artículo sobre [cómo configurar Reglas de merchandising en VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8).
 
@@ -51,7 +51,7 @@ Hay dos formas de configurar Sinónimos en una tienda multidioma en el Admin: co
 #### Crear Sinónimos vía formulario
 Cuando tiene VTEX Intelligent Search Multidioma instalada,  la página de edición o creación de Sinónimos — que se accede en el Admin VTEX en __Storefront__ > __Intelligent Search__ > __Sinónimos__ — exhibe el campo adicional __Regiones__, que permite elegir los idiomas a los que se aplicará los sinónimos registrados, como se muestra en la siguiente imagen. Haga clic en los idiomas deseados para seleccionarlos.  
 
-![img sinonimos intelligentsearchmultilanguage ES](//images.ctfassets.net/alneenqid6w5/12CjlIh67TyloFOBPkE72x/3fe16ea17b2f435094c2cb823831e57b/image_4.png)
+![img sinonimos intelligentsearchmultilanguage ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Intelligent Search Beta/vtex-intelligent-search-configuracion-multidioma-beta_2.png)
 
 Para saber más sobre los campos, lea nuestro artículo sobre [cómo configurar Sinónimos en VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL).
 
@@ -73,7 +73,7 @@ Para saber más sobre la importación de una plantilla de Sinónimos, lea nuestr
 
 Cuando tiene VTEX Intelligent Search Multidioma instalada, la página de edición o creación de Redireccionamientos  — que se accede en el Admin VTEX en __Storefront__ > __Intelligent Search__ > __Redireccionamientos__ — exhibe el campo adicional __Regiones__, que permite elegir los idiomas a los que se aplicará las redirecciones registradas, como se muestra en la siguiente imagen. Haga clic en los idiomas deseados para seleccionarlos.  
 
-![img redirecionamentos intelligentsearchmultilanguage ES](//images.ctfassets.net/alneenqid6w5/2f245NNeb0APEgeQGj6bTg/84213b8bd9f82c318b08f54813358fa4/03-redirecionamento-en.png)
+![img redirecionamentos intelligentsearchmultilanguage ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Intelligent Search Beta/vtex-intelligent-search-configuracion-multidioma-beta_3.png)
 
 Para saber más sobre los campos, lea nuestro artículo sobre [cómo configurar Redireccionamientos en VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4Gd2wLQFbCwTsh8RUDwSoL).
 
@@ -81,6 +81,6 @@ Para saber más sobre los campos, lea nuestro artículo sobre [cómo configurar 
 
 Cuando tiene VTEX Intelligent Search Multidioma instalada, la página de edición o creación de Banners — que se accede en el Admin VTEX en __Storefront__ > __Banners__ — exhibe el campo adicional __Regiones__, que permite elegir los idiomas a los que se aplicará los banners registrados, como se muestra en la siguiente imagen. Haga clic en los idiomas deseados para seleccionarlos.  
 
-![img banner intelligentsearchmultilanguage ES](//images.ctfassets.net/alneenqid6w5/2TeFZzq8LxaVApotGBfemL/8231d24b62009bf4afeb9ce8299650a7/image_9.png)
+![img banner intelligentsearchmultilanguage ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Intelligent Search Beta/vtex-intelligent-search-configuracion-multidioma-beta_4.png)
 
 Para saber más sobre los campos, lea nuestro artículo sobre [cómo configurar Banners en VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).

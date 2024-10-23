@@ -39,5 +39,5 @@ No se preocupe: desactivar esta opción no significa que su tienda estará despr
 
 >ℹ️ Si después de estos pasos su Admin VTEX o tienda aún no se carga, le sugerimos que intente acceder con otro navegador.
 
-![Firefox bug ES](//images.ctfassets.net/alneenqid6w5/4EZo0FaHBx1DfbSrGVpbku/5d89ca13799da3ada490e383f0913573/Firefox_bug_ES.jpg)
+![Firefox bug ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Others/algunos-modulos-del-admin-vtex-y-storefront-pueden-presentar-problemas-en_1.jpg)
 

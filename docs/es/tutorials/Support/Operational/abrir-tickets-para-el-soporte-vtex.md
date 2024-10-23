@@ -65,7 +65,7 @@ Al seleccionar esta opción de soporte, deberás rellenar la información que se
    * *Tengo una duda y quisiera hacer una pregunta*
    * *Quisiera solicitar una configuración*
 2. En el campo **Asunto de la solicitud**, rellena con la información relacionada con el tipo de problema para el que necesitas ayuda. En base a la descripción de tu problema, te indicaremos algunos artículos del [Centro de Ayuda](https://help.vtex.com/es/) que podrían serte útiles para solucionar tu problema. Si crees que ninguno de los artículos puede ayudarte a resolver el problema, avanza al paso siguiente.
-![https help.vtex.com es support](https://images.ctfassets.net/alneenqid6w5/6th3vu5w61nnzp8NE1Xiza/e1e53143d8559adad86d03e8550ba258/https___help.vtex.com_es_support.gif)
+![https help.vtex.com es support](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Support/Operational/abrir-tickets-para-el-soporte-vtex_1.gif)
 3. Haz clic en el botón `Seguir`.
 Serás direccionado a otra página.
 4. .En el campo **Impacto del problema**, selecciona la opción que mejor se adapte al impacto del problema:

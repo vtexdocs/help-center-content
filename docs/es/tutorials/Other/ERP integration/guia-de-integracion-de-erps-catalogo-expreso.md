@@ -31,7 +31,7 @@ Después de definir las variaciones y la estructura de mercado de la tienda, el 
 
 _Flujo:_
 
-![](https://images.contentful.com/alneenqid6w5/40MeR2z0hq2CY2KyUOeAAO/f524ae4caaf01fb40d50e0e0ca954df6/ERP-catalogo-expresso.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Other/ERP integration/guia-de-integracion-de-erps-catalogo-expreso_1.png)
 
 ### Producto
 

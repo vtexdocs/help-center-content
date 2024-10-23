@@ -15,7 +15,7 @@ legacySlug: vtex-invoice-notifier
 subcategoryId: 54gbzsku02c4bKmgFbp3v3
 ---
 
-![invoice-flow](https://images.ctfassets.net/alneenqid6w5/1J8NLy4mw7miEPixtV20G8/80c960a20017f2058209c58681fae862/invoice-flow.svg)
+![invoice-flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/Uncategorized/vtex-invoice-notifier_1.svg)
 
 ## Instalação da app - VTEX Invoice Notifier
 
@@ -25,7 +25,7 @@ Usuário deve fazer instalação da APP através da VTEX App Store - apps.vtex.c
 
 Ao realizar a instalação, uma página de configuração será exibida, nela o usuário insere o endpoint de comunicação com o sistema responsável pela emissão das notas.
 
-![install-app](//images.ctfassets.net/alneenqid6w5/1QCqfd7Yc3lBF2BWUjPQ2g/888f9a2e18a90fa92f7b8ad32048d17d/install-app.png)
+![install-app](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/Uncategorized/vtex-invoice-notifier_2.png)
 
 ## OMS notificar faturador
 
@@ -33,9 +33,9 @@ Com o endpoint cadastrado na APP o OMS passa a reconhecer que está habilitado p
 
 O operador deve, no pedido, selecionar o pacote ou os itens que deseja faturar e gerar uma nova notificação:
 
-![notify-invoicer1](//images.ctfassets.net/alneenqid6w5/1pTJ8sEgLo7cpyYcVFQKxR/7a0b066fc646d1941f3ac704023ea5f7/notify-invoicer1.png)
+![notify-invoicer1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/Uncategorized/vtex-invoice-notifier_3.png)
 
-![notify-invoicer2](//images.ctfassets.net/alneenqid6w5/59qqed77NuvF0rrlpdABe9/1108b18f8eba54bf25c6766803578b42/notify-invoicer2.png)
+![notify-invoicer2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/Uncategorized/vtex-invoice-notifier_4.png)
 
 quando o usuário do OMS apertar o botão __Request Invoice__, a app irá realizar um request POST no endpoint cadastrado na APP com o seguinte BODY exemplo:
 
@@ -59,7 +59,7 @@ Essa propriedade deve ser utilizada para saber qual endereço enviar o Invoice.
 
 Uma vez notificado com sucesso, a APP grava no Banco de Dados (VBASE) essa notificação.
 
-![callBackProperty](//images.ctfassets.net/alneenqid6w5/POhuHliun9MO0hYgTmPvr/1df598855b888b113ef035df3502134d/callBackProperty.png)
+![callBackProperty](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/Uncategorized/vtex-invoice-notifier_5.png)
 
 ## Faturador pegar detalhes da nota
 
@@ -170,7 +170,7 @@ Pedidos de Pickup podem conter a identificação do cliente ou não. Um pedido f
 
 A forma base de identificar se um pedido é Delivery ou Pickup é através do objeto __shippingData.logisticsInfo[0].deliveryChannel__
 
-![shipping-type](//images.ctfassets.net/alneenqid6w5/6p9yfYsHRbz4xCX9sjrGx9/cfeb4ae8afe0d47f53e49a556c51ccc6/shipping-type.png)
+![shipping-type](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/Uncategorized/vtex-invoice-notifier_6.png)
 
 ## Inserir nota fiscal no pedido
 

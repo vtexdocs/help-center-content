@@ -22,7 +22,7 @@ O primeiro passo é fazer um request GET na rota [Get Product by Id da Catalog A
 
 A resposta desta chamada traz as informações de `DepartmentId` e `CategoryId`, como vemos na imagem abaixo:
 
-![department-id-category-id](https://images.contentful.com/alneenqid6w5/1wJqRKDEcYkGqqsMAGy0aA/bf3521922d99fe678031a1898326b1ea/department-id-category-id.png)
+![department-id-category-id](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing & Merchandising/por-que-meu-produto-esta-aparecendo-na-categoria-errada_1.png)
 
 Depois, você deve comparar esta resposta com os Ids exibidos em sua árvore de categoria. Para acessar sua árvore de categorias, siga os passos a seguir:
 

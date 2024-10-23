@@ -39,21 +39,21 @@ Actualizar el tiempo y el coste del muelle de carga mediante la API con el id "t
     POST https://{accountName}.{environment}.com.br/api/logistics/pvt/configuration/warehouses{ "id": "test", "name": "TEST", "warehouseDocks": [{"dockId": "dock-test", "time": "08:00:00", "cost": 0.00 }]}
 
 Aunque el id es el mismo, al distinguir entre mayúsculas y minúsculas se creará otro almacén:
- ![](https://vtexhelp.zendesk.com/attachments/token/9rtOZ4rvyimyhR8a4SPYiKkcV/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Logistics/divergencia-de-inventario-en-ui-x-api-debido-a-que-el-id-de-almacen-distingue-entre-mayusculas-y-minusculas_1.png)
 
 Sin embargo, para la interfaz de usuario del inventario, el id no distingue entre mayúsculas y minúsculas, por lo que para ambos inventarios se mostrará la misma información:
- ![](https://vtexhelp.zendesk.com/attachments/token/0yAKYzWYy5Sn023Hk28QqcDDR/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Logistics/divergencia-de-inventario-en-ui-x-api-debido-a-que-el-id-de-almacen-distingue-entre-mayusculas-y-minusculas_2.png)
 
 Pero comprobando en la API, cada inventario está separado, como se esperaba:
- ![](https://vtexhelp.zendesk.com/attachments/token/LFPgP1tbhl81JA0e7zeW6lrwv/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Logistics/divergencia-de-inventario-en-ui-x-api-debido-a-que-el-id-de-almacen-distingue-entre-mayusculas-y-minusculas_3.png)
 
 Y luego, al eliminar el primer registro del almacén (con mayúscula "TEST"), la información del inventario en la UI sigue mostrando esa cantidad disponible para el inventario id "test" (minúscula), cuando en realidad es 0:
- ![](https://vtexhelp.zendesk.com/attachments/token/nhn5tLzAlpiTrfRTSaZNu058S/?name=image.png)
- ![](https://vtexhelp.zendesk.com/attachments/token/YI35cmEAkxMVHpaqTE0KrHHS1/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Logistics/divergencia-de-inventario-en-ui-x-api-debido-a-que-el-id-de-almacen-distingue-entre-mayusculas-y-minusculas_4.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Logistics/divergencia-de-inventario-en-ui-x-api-debido-a-que-el-id-de-almacen-distingue-entre-mayusculas-y-minusculas_5.png)
 
 Y como consecuencia de esto, la indexación de la SKU obtiene una cantidad 0, y muestra fuera de stock en la caja:
- ![](https://vtexhelp.zendesk.com/attachments/token/Q3SECpqLt5hNL4OIkp5s55BpK/?name=image.png)
- ![](https://vtexhelp.zendesk.com/attachments/token/j3LH5atDUaQL8RzTJug42Wqq7/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Logistics/divergencia-de-inventario-en-ui-x-api-debido-a-que-el-id-de-almacen-distingue-entre-mayusculas-y-minusculas_6.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Logistics/divergencia-de-inventario-en-ui-x-api-debido-a-que-el-id-de-almacen-distingue-entre-mayusculas-y-minusculas_7.png)
 
 
 ## Workaround

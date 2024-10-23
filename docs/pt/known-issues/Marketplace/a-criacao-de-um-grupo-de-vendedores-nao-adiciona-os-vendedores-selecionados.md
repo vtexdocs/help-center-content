@@ -22,11 +22,11 @@ internalReference: 926969
 
 
 O marketplace pode criar grupos com alguns vendedores na interface de gerenciamento do vendedor.
- ![](https://vtexhelp.zendesk.com/attachments/token/Mi9PZxDSnInogb65PbJ3fEduu/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketplace/a-criacao-de-um-grupo-de-vendedores-nao-adiciona-os-vendedores-selecionados_1.png)
 
 No entanto, ao adicionar um nome de grupo e vendedores nessa interface do usuário, somente o nome do grupo está sendo salvo. É exibida uma mensagem de erro:
 "Desculpe, algo deu errado ao adicionar os vendedores ao grupo XXX."
- ![](https://vtexhelp.zendesk.com/attachments/token/Gd0FRbqKLDnCGFmIjuXIctxwX/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketplace/a-criacao-de-um-grupo-de-vendedores-nao-adiciona-os-vendedores-selecionados_2.png)
 
 ## Simulação
 

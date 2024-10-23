@@ -19,7 +19,7 @@ subcategoryId: 5fKgQZhrCw88ACy6Su6GUc
 
 Este documento tiene como objetivo auxiliar en la integración de catálogo (departamento, categoría, marca, imágenes, campos, valores de campo, activación de SKU) del ERP a una tienda alojada en VTEX. En este tipo de integración la mayoría de la administración de la tienda está ERP.
 
-![](https://images.contentful.com/alneenqid6w5/fEe1mx0WnmMkMSMoUYwsq/817979633616370581b3421f2e0e8187/erp-catalogo-completo.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Other/ERP integration/guia-de-integracion-de-erps-catalogo-completo_1.png)
 
 En este escenario de flujo completo, la mayoría de los datos de productos y SKU se manipulan por el ERP. La manipulación de campos de especificación en este modelo es posible hacer por API REST, pero la mejor práctica sería por el administrador de VTEX.
 

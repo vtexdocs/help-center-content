@@ -21,6 +21,12 @@ const getExtension = (url) => {
 }
 
 const updateImages = async (filepath) => {
+
+  console.log ('Running update-images.js')
+  if (!filepath) {
+    console.error('Received undefined filePath in updateImages');
+    return; // Early return if filePath is undefined
+  }
   const content = fs.readFileSync(filepath, 'utf-8')
   
   const images = []
@@ -62,9 +68,11 @@ const updateImages = async (filepath) => {
   
     fs.writeFileSync(filepath, newContent)
   } catch (err) {
-    console.log("Couldn't download some of the images, leaving file as it is...")
+    console.log("Couldn't download some of the images, leaving file as it is...\n\t",filepath)
   }
 }
 
 const filepath = process.argv[2]
 updateImages(filepath)
+
+module.exports = { updateImages };

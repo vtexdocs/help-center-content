@@ -105,7 +105,7 @@ Você pode incluir ou excluir **Categorias**, **Marcas**, **Coleções**, **Prod
 
 Para serem válidos na promoção, os produtos precisam atender a todas as condições cadastradas nesta seção.
 
-![A quais itens esta promoção será aplicada - PT](https://images.ctfassets.net/alneenqid6w5/7lxp9shJsZD5LBMzXldQnz/811aa40a0ac7caaf32b2e04e9dd438f6/A_quais_itens.png)
+![A quais itens esta promoção será aplicada - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/promotions/criar-promocao-regular_1.png)
 
 # 3. Quais as condições para a promoção ser válida?
 

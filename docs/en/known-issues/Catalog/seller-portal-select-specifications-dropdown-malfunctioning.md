@@ -25,7 +25,7 @@ When the user attempts to choose a value, sometimes, the input below is selected
 
 For instance, you have 2 options, color and size. Upon clicking on color, you, sometimes, have size selected instead:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/PpTFjmsH4i975D0uQSLD7WmkO/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/seller-portal-select-specifications-dropdown-malfunctioning_1.png)
 
 
 ##

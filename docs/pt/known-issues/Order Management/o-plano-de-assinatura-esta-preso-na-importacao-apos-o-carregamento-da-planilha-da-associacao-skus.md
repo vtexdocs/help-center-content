@@ -28,7 +28,7 @@ Dentro das opções **Planos** para assinaturas, temos uma funcionalidade que pe
 
 Para a importação, a planilha base indicada mostra duas colunas com exemplos dos valores que devem ser colocados. Na primeira coluna o ID da SKU e na segunda o valor define se esta SKU está ou não associada. Aqui está um exemplo de como ele é exibido:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/64TRpBZfKZcCRKRouDVWJPSGq/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Order Management/o-plano-de-assinatura-esta-preso-na-importacao-apos-o-carregamento-da-planilha-da-associacao-skus_1.png)
 
 Neste caso, o problema ocorre porque **nosso serviço******actualmente aceita apenas um valor numérico na coluna "associado "**, ou seja, apenas **0 para falso*** ou **1 para verdadeiro***. Ao carregar a planilha com texto na coluna "**associado**", o plano permanecerá no estado "**importante***" indefinidamente, o que atualmente bloqueia a capacidade de editar ou carregar uma nova planilha.
 
@@ -52,7 +52,7 @@ Para simular, você pode:
 
 Para evitar este comportamento, recomenda-se **carregar a planilha com o formato numérico indicado (0 ou 1) na coluna "associar "** e garantir que esta célula esteja, de fato, no formato numérico. Aqui está um exemplo:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/nsnccGKCNs13yG1X3uOgr3pfM/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Order Management/o-plano-de-assinatura-esta-preso-na-importacao-apos-o-carregamento-da-planilha-da-associacao-skus_2.png)
 
 Caso o plano seja "bloqueado", a idéia é que, no momento, seja aberto um ingresso para a equipe **Order Management***, para tentar "desbloquear" o Plano específico.
 

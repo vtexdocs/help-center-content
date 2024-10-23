@@ -25,7 +25,7 @@ Abaixo reproduzimos um trecho de CSS que você pode utilizar como ponto de parti
 
 Em seguida, vamos enviar o arquivo CSS salvo para o servidor. Para isso, clique no menu _Configurações&gt; Portal_ dentro do Admin.
 
-![](https://images.contentful.com/alneenqid6w5/3uLeF6wpvq4m4Wis48eeE8/4f79bf7753fb25309b670e9ea702a3ad/configuracao_zoom.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/configurar-o-css-do-zoom-do-produto_1.gif)
 
 Na janela que se abrirá à direita, clique no botão **Adicionar**.
 
@@ -33,4 +33,4 @@ Em seguida, localize o arquivo CSS salvo acima e envie-o para o servidor clicand
 
 Então, o seu arquivo será lista na janela, conforme a imagem abaixo:
 
-![](//images.contentful.com/alneenqid6w5/2pWBIqL3So2wm04oU8CyQ8/ab9f623fd28f15e2708cc3fcbecafe03/gerenciador_arq_css-560x373.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/configurar-o-css-do-zoom-do-produto_2.jpg)

@@ -16,7 +16,7 @@ trackSlugEN: instore-setup
 
 By default inStore includes a list of suggested products in the cart and in the product page.
 
-![inStore recommendation](https://images.ctfassets.net/alneenqid6w5/5hN8l2xFTGMU4Gw8YGq0E8/dc9f7e8e4f02db0ae31dd50b08cacd31/inStore_recommendation.png)
+![inStore recommendation](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-setup/hide-product-suggestions-recommendation_1.png)
 
 If you want to hide the recommendations, you need to edit the `checkout-instore-custom.css` and `checkout-instore-custom.js` files in the Portal admin. This files are used across the application, so it is important that you have some programming knowledge before editing them, to avoid breaking other functionalities.
 

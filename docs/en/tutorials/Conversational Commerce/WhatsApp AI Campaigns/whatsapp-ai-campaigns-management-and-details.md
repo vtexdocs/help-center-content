@@ -80,7 +80,7 @@ To pause sending messages from a campaign, follow the steps below:
 
 You can find information about your active campaigns in the VTEX Admin.
 
-![Visão geral-EN](https://images.ctfassets.net/alneenqid6w5/3QiT4K7FuFoTyhmlWYWKFl/0ec14467b481aeba99f2d0f3fc461ff4/Vis_o_geral-EN.png)
+![Visão geral-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Conversational Commerce/WhatsApp AI Campaigns/whatsapp-ai-campaigns-management-and-details_1.png)
 
 Below are the details of the available metrics:
 

@@ -35,7 +35,7 @@ No entanto, quando você seleciona a opção "**Delete**" e instala o aplicativo
 - Siga as instruções para instalar o aplicativo;
 - Preencha as configurações (se aplicável) e "Salvar";
 - Clique em "Delete" (Excluir). A seguinte mensagem será exibida:
- ![](https://vtexhelp.zendesk.com/attachments/token/kM5EhsfVaHLlISckht8rRYumU/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Apps/as-configuracoes-do-aplicativo-nao-sao-apagadas-quando-voce-exclui-o-aplicativo_1.png)
 
 > _**Do you want to remove the app X?**_
 >

@@ -25,7 +25,7 @@ Now, the Luhn algorithm will ensure that only a valid card number can be used fo
 
 If a customer enters an incorrect number, an error message is displayed at checkout. In such cases, the customer must check and correct the number to complete the purchase.
 
-![algoritmo_luhn_en](https://images.ctfassets.net/alneenqid6w5/5HN1Iu9vKUmeglMLOV46Rd/ccd302d3086caaeca01c5725bdbd8b2d/algoritmo_luhn_en.PNG)
+![algoritmo_luhn_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023-09-19-luhn-algorithm-for-credit-and-debit-cards-at-checkout_1.PNG)
 
 ## Why did we make this change?
 

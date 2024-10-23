@@ -45,4 +45,4 @@ Após a exportação e edição da planilha exportada, é hora de realizar a imp
 5. Escolha o arquivo.
 6. Clique no botão **Importar** no canto inferior da tela.
 
-![Importando](https://images.contentful.com/alneenqid6w5/3xkB2DzbqoeIsk2Qice8sM/71d3c7d0379e03a8641180ccbe97dc77/Importando-1.gif)
+![Importando](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master Data/Master Data v1 applications/importando-dados-no-master-data_1.gif)

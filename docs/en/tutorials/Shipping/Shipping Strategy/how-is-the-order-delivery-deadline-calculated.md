@@ -22,7 +22,7 @@ The shipping time calculation for an order takes into account the following aspe
 - [Dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
 - [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)
 
-![lead_time_image_total_time_EN](https://images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/8a3f64f6c30a7a513bb98d0c97b355a3/lead_time_image_total_time_EN.png)
+![lead_time_image_total_time_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping Strategy/how-is-the-order-delivery-deadline-calculated_1.png)
 
 You configure e time frame for each one of them and what your customer sees at checkout is a shipping time calculated adding those configurationn.
 

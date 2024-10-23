@@ -31,9 +31,9 @@ This case happens with entities containing a large number of fields and millions
 1. Access `https://.vtexcrm.com.br/`.
 2. Navigate to a view that represents an entity with millions of records.
 3. Initiate a search using the "All" field.
- ![](https://vtexhelp.zendesk.com/attachments/token/NGWvp5vsTzd31GA07N6vp0Wev/?name=Captura+de+Tela+2023-10-25+a%CC%80s+15.42.35.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-occurs-when-attempting-to-perform-a-search-using-the-all-field-in-vtex-crm_1.png)
 4. Observe the system's response and check if it returns an error or experiences significant performance issues.
- ![](https://vtexhelp.zendesk.com/attachments/token/aFWGBmUtDtl9ppgmMNOkDX8Fu/?name=Captura+de+Tela+2023-10-25+a%CC%80s+15.40.50.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-occurs-when-attempting-to-perform-a-search-using-the-all-field-in-vtex-crm_2.png)
 5. Repeat the search with a specific searchable field to confirm if the issue is related to the "All" field's search mechanism.
 
 

@@ -24,16 +24,16 @@ Antes de este cambio, podían producirse errores de visualización en el resumen
 Considere, por ejemplo, un usuario que ve un producto que cuesta  US$ 600, con un descuento del 10% pagando al contado. La persona continúa para el checkout y llega a la página de resumen del pedido, donde debe seleccionar las opciones de pago. Estos son los tres principales errores que pueden producirse:
 
 - El usuario aún no ha seleccionado un número de cuotas y el precio se muestra sin descuentos, incluso en la opción elegible.
-![O usuário ainda não selecionou um número de parcelas](https://images.ctfassets.net/alneenqid6w5/4dFdvU6HcZGvBWSpr0VI04/fe470a5050d3c66d98b21d978f968036/image6.png)
+![O usuário ainda não selecionou um número de parcelas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021-04-19-mejora-en-la-visualizacion-de-precios-con-descuentos_1.png)
 
 - El cliente ha seleccionado un número de cuotas no elegibles para el descuento, y el precio se muestra solo sin descuentos, incluso en la opción elegible para el descuento.
-![O usuário selecionou um número de parcelas não elegível para desconto](//images.ctfassets.net/alneenqid6w5/nY13uDOX3JBOJvCN5Oj2i/d931d2d73ffb7f1b8c8ddbf7310b7bc9/image8.png)
+![O usuário selecionou um número de parcelas não elegível para desconto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021-04-19-mejora-en-la-visualizacion-de-precios-con-descuentos_2.png)
 
 - El usuario seleccionó un número de cuotas válido para aplicar el descuento y el descuento se muestra incluso en las opciones no elegibles.
-![O usuário selecionou um número de parcelas elegível para desconto (à vista)](//images.ctfassets.net/alneenqid6w5/3hRThIcKzoGWirn17UIXqV/bd64d486417ca73e2d510fc03e4ddd05/image2.png)
+![O usuário selecionou um número de parcelas elegível para desconto (à vista)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021-04-19-mejora-en-la-visualizacion-de-precios-con-descuentos_3.png)
 
 Con este cambio, el descuento se mostrará siempre solo en las opciones de pago en cuotas  elegibles.
-![O desconto será sempre exibido corretamente apenas nas opções de parcelamento elegíveis.](//images.ctfassets.net/alneenqid6w5/XBFP0W5B1wlGwpoz3In3W/99a531d3dbd3eeae102536126c849212/image4.png)
+![O desconto será sempre exibido corretamente apenas nas opções de parcelamento elegíveis.](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021-04-19-mejora-en-la-visualizacion-de-precios-con-descuentos_4.png)
 
 ## ¿Por qué realizamos este cambio?  
 

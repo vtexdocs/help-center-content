@@ -24,22 +24,22 @@ To achieve this, we are redesigning multiple parts of the experience and making 
 ## Improved navigation 
 Everything you need to manage your VTEX store is still available in Admin v4, only now with a more straightforward organization. Our left and top navigation menu were rebuilt from scratch, grouping similar categories in a clearer way to reduce distractions and help your team find what they need faster. It is also possible to use the search bar to find specific sections on the menu.
 
-![New Admin Shell](https://images.ctfassets.net/alneenqid6w5/4Q4sQVxNy82zlFT2rmqaCo/f5e423ed52f3d468227155b73d74f163/New_Admin_Shell__1_.png)
+![New Admin Shell](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/admin-v4-getting-started_1.png)
 
 ### Information Center
 This is where we group all useful links from our VTEX ecosystem, to help you get the best out of our VTEX platform. By clicking on the `?` button on the top bar, you can access our Help Center, blog, Developer Portal, Platform Status and support pages.    
 
-![Information center](//images.ctfassets.net/alneenqid6w5/6lVqieCabdmgG53teixwyg/06dbecc541f55c4644134af302bdfd0c/Information_center.gif)
+![Information center](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/admin-v4-getting-started_2.gif)
 
 ### Store Settings
 For this new experience, we have grouped all settings, from all sections under a specific tab: Store Settings. Through this improvement, you can easily access all settings that affect every service in your account.
 
-![Store settings](//images.ctfassets.net/alneenqid6w5/3Mypjey9ors57oaq2wKQc3/9fc79445cb6a43dc62ccc99751d5981a/Store_settings.gif)
+![Store settings](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/admin-v4-getting-started_3.gif)
 
 ### Profile Settings
 Your profile avatar, on the upper right corner now hosts all the settings related to your user and account. Through the avatar you can access user settings, account settings, billing information, change your Admin’s locale,  switch to the Admin’s previous version and logout of your account and logout. Through this improvement, we separated your profile settings from the configurations that affect your actual store. Now you have more control and visibility over actions that affect your business, and those that affect your profile. 
 
-![Avatar settings](//images.ctfassets.net/alneenqid6w5/mAIHwG3IM1E0BfcDg7orj/5542e02ec58e87d97f7e14960f5de69c/Avatar_settings.gif)
+![Avatar settings](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/admin-v4-getting-started_4.gif)
 
 ## Refreshed home page
 
@@ -47,7 +47,7 @@ Our admin home page was redesigned to give you a high level overview of your sto
 
 As soon as you log in to Admin v4, you will see useful metrics and charts to monitor your store's performance, such as revenue and number of orders, sales funnel and conversion rates, and your top 10 highest grossing products. Check out all components on the new Dashboard, and learn how they work, looking through the list below.
 
-![Dashboard v4](//images.ctfassets.net/alneenqid6w5/4BdhVile9g8esXtlAt2wfd/51be029026157f666f83e4df1cf08519/Dashboard_v4.gif)
+![Dashboard v4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/admin-v4-getting-started_5.gif)
 
 - **Orders:**  number of orders placed.  All data about orders and revenue comes from VTEX’s Order Management System.  
 - **Sessions:** Number of visits to store  

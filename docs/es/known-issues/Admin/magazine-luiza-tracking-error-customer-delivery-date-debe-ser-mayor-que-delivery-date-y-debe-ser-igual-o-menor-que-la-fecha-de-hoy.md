@@ -37,7 +37,7 @@ En el paso de seguimiento algunos pedidos están devolviendo el siguiente error 
 2. Puente
 3. Seguimiento
 
- ![](https://vtexhelp.zendesk.com/attachments/token/mlpzu59MIDWuvUP6n8zJc8GI6/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Admin/magazine-luiza-tracking-error-customer-delivery-date-debe-ser-mayor-que-delivery-date-y-debe-ser-igual-o-menor-que-la-fecha-de-hoy_1.png)
 
 
 

@@ -20,7 +20,7 @@ internalReference: 1005799
 
 
 When selecting a department to set a specific commission on the seller management the table is not loading the department's name. The behavior does not happen for child categories.
- ![](https://vtexhelp.zendesk.com/attachments/token/irbcBV8R7kNO4F5XsLHtaxUMO/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/departments-name-not-loading-on-seller-management-commissions-ui_1.png)
 
 
 ##

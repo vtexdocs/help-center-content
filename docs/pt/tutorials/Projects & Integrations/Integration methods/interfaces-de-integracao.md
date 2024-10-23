@@ -19,7 +19,7 @@ As interfaces de integração permitem realizar o controle de estoque com relaç
 
 No sistema da VTEX, você conseguirá realizar as integrações através de diferentes Interfaces: __API REST__ (linguagem em JSON) e __Web Service__ (linguagem em SOAP - XML) - que está em desuso.
 
-![](https://images.contentful.com/alneenqid6w5/KWUcU5mICWqCSgk8moqIa/dab6ed22c22231405712fc87f768450b/V_integra__oERP_docs.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects & Integrations/Integration methods/interfaces-de-integracao_1.png)
 
 Para que a integração aconteça, é necessário que exista um sistema para fazer a comunicação entre o ERP (ou outros sistemas) e a VTEX. Esse sistema específico é chamado de __Integrador__ ou __Middleware__. Geralmente, o próprio fornecedor do sistema desenvolve seu integrador, mas também pode ser desenvolvido pela própria loja ou por uma agência contratada pela loja.
 

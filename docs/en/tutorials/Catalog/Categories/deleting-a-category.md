@@ -26,7 +26,7 @@ If you do not want to display a specific category to your customers, you can dea
 3. Select the category you want to deactivate.
 4. Click on the `Actions` button.
 5. Click on `Edit`.
-6. Uncheck the box that says __Active | Category is active on site__, as illustrated in the image below: ![img inativarcategoria EN](https://images.ctfassets.net/alneenqid6w5/6SzDebwe2AzOlz9PjlaHNP/b1056e64bedc8a7f495dde49b87b735e/img_inativarcategoria_EN.png)
+6. Uncheck the box that says __Active | Category is active on site__, as illustrated in the image below: ![img inativarcategoria EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Categories/deleting-a-category_1.png)
 7. Click on `Save`.
 
 ## Deleting all categories

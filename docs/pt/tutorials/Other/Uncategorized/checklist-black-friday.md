@@ -23,7 +23,7 @@ Mas a Black Friday é também uma data que traz boa dose de medo para os lojista
 
 Foi por isso que fizemos este post: para te ajudar a garantir que tudo esteja em ordem no tempo certo, de modo que seu negócio fique livre das pegadinhas em que todos os anos caem os lojistas menos preparados.
 
-![mike-petrucci-131817](https://images.contentful.com/alneenqid6w5/5gCILEKQ80u0qWwo0SES6e/0d94e9fb47cbf373ec64f4209e202518/mike-petrucci-131817.jpg)
+![mike-petrucci-131817](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/Uncategorized/checklist-black-friday_1.jpg)
 
 ### 1. A Black Friday já começou
 
@@ -93,7 +93,7 @@ Entre outros motivos, isso é importante porque – devido ao tempo de atualiza�
 
 De fato, a principal queixa dos consumidores durante a Black Friday é a mudança de preço ao finalizar a compra, o que mostra que muitas lojas ainda enfrentam esse problema.
 
-![BF1](//images.contentful.com/alneenqid6w5/47Do1iY4gwqsgIIeeYeuKE/75120669c5cc26106ccdba6b9db4013e/BF1.png)
+![BF1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/Uncategorized/checklist-black-friday_2.png)
 
 Para evitar mal-entendidos com seus clientes, recomendamos que você insira um aviso no rodapé da loja de que o preço válido será aquele apresentado na finalização da compra.
 
@@ -148,7 +148,7 @@ Tamanha volatilidade significa também uma enorme oportunidade para lojistas pre
 
 Garanta que seus clientes serão avisados por e-mail sobre pedidos incompletos.
 
-![BF3](//images.contentful.com/alneenqid6w5/nFjCLZiRkOMsA8gAIkEw0/481b1b669973eb4f6285f8c562f31a5e/BF3.png)
+![BF3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/Uncategorized/checklist-black-friday_3.png)
 
 
 ### 12. Use ferramentas de medição
@@ -214,7 +214,7 @@ Uma dica é instalar um add-on como o Ghostery em seu navegador. Ele identifica 
 
 Na Black Friday do ano passado, 19,8% das compras online foram feitas em dispositivos móveis. E, para 2017, não há por que duvidar que esse número continuará crescendo consideravelmente.
 
-![BF4 (1)](//images.contentful.com/alneenqid6w5/5pQ24DnsycCeOYw4uasu28/dca829ad79b54f6ea8fe71c052526550/BF4__1_.png)
+![BF4 (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/Uncategorized/checklist-black-friday_4.png)
 
 Portanto, ser mobile-first não é mais apenas uma boa ideia – é uma necessidade para qualquer profissional que leve e-commerce a sério.
 

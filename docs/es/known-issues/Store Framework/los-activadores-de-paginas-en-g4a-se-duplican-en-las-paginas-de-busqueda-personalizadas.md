@@ -51,11 +51,11 @@ También encontré algo curioso en la página del departamento con pageView y pa
 
 https://storetheme.vtex.com/apparel---accessories/
 
- ![](https://vtexhelp.zendesk.com/attachments/token/dXFuDY5Q9XhZ7hgIvA8m8ugJ3/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store Framework/los-activadores-de-paginas-en-g4a-se-duplican-en-las-paginas-de-busqueda-personalizadas_1.png)
 
 Pero, este problema específico es replicable en
 
 https://www.dzarm.com.br/outlet
 
- ![](https://vtexhelp.zendesk.com/attachments/token/EVakZYSBKtcrCQoNXBe92uAzQ/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store Framework/los-activadores-de-paginas-en-g4a-se-duplican-en-las-paginas-de-busqueda-personalizadas_2.png)
 

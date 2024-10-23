@@ -21,7 +21,7 @@ Para localizar o script da Suiteshare, acesse **Configurações** no canto supe
 
 Com o script da Suiteshare em mãos, acesse em sua conta Shopify o menu localizado no canto inferior esquerdo **My Store**, depois em **Themes**, clique em **Edit HTML/CSS** conforme a imagem abaixo:
 
-![Shopify - Suiteshare](https://images.ctfassets.net/alneenqid6w5/45EPnxpruUgUqIUl9cDR3t/894418df9be3fab2755c2f895fc9145e/Shopify_-_Suiteshare.png)
+![Shopify - Suiteshare](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/shopify-suiteshare_1.png)
 
 O próximo passo é acessar no canto esquerdo **Layout**, a opção **Theme Liquid**.
 

@@ -30,7 +30,7 @@ internalReference: 1061637
 - Vá para o checkout, identifique-se como um comprador com um perfil completo e prossiga para a etapa de envio;
 - Escolha a opção de entrega em um novo endereço;
 
- ![](https://vtexhelp.zendesk.com/attachments/token/TFgWp6jleflU5LlPZ3rd4KcTQ/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Checkout/o-formulario-de-endereco-nao-e-exibido-quando-o-comprador-opta-por-inserir-um-novo-endereco_1.png)
 
 
 - Digite o código postal e uma mensagem solicitando autenticação será exibida.

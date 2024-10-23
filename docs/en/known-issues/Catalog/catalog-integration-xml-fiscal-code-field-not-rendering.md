@@ -30,7 +30,7 @@ Currently, the catalog XML configuration for the fiscal code field is not render
 1 - Register a fiscal code in a product of your store.
 2 - In your account's XML configuration https://myaccountname.myvtex.com/admin/Site/Xml.aspx, set up the XML fiscal code field
 
- ![](https://vtexhelp.zendesk.com/attachments/token/LHjBFETlon2zWcRX7pXYF0xjP/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-integration-xml-fiscal-code-field-not-rendering_1.png)
 
 3 - Load the generated XML and, despite the product having valid data in it, the fiscal code XML tags will not load valid content.
 

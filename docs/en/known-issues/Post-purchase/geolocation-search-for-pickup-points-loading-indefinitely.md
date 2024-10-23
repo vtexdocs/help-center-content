@@ -34,7 +34,7 @@ After making sure your browser meets the said condition, follow the steps below:
 5. At checkout, select the **pickup point** delivery option. 
 6. Note that the page is stuck on loading, displaying the message "Awaiting permission to get your current location".
 
-![erro EN](//images.ctfassets.net/alneenqid6w5/4MVL2ctjpB3TRIfQt1ht3O/22bc5539ee83ef63668f4ad01c7e0933/erro_EN.png)
+![erro EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Post-purchase/geolocation-search-for-pickup-points-loading-indefinitely_1.png)
 
 ## Workaround
 

@@ -18,7 +18,7 @@ Um erro comum na aprovação do pagamento, no módulo **Pedidos**, é o de falta
 
 Neste caso, ao tentar aprovar o pagamento em **Pedidos**, você verá um erro parecido com os seguintes:
 
-![error authorize fulfillment](https://images.contentful.com/alneenqid6w5/5Wvwem2kucqsOIYKq4WW00/23b0ffb4209565da148382c3299e2bac/error_authorize_fulfillment.png)
+![error authorize fulfillment](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Post-purchase/ao-tentar-aprovar-pagamento-gerenciamento-de-pedidos-retorna-erro_1.png)
 
 Para confirmar se o problema é este, na página de [detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), clique em `Ver interações` para ver os detalhes do pedido.
 

@@ -46,7 +46,7 @@ Fije el siguiente precio:
 
 La respuesta será:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/P3rVVQbx6nfqtX2W1UMAbb0V8/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-api-de-precios-permite-valores-negativos_1.png)
 
 Lo que rompe la lógica de precios y hace que el producto no esté disponible, ya que las aplicaciones de pago y catálogo no son capaces de tratar con valores de precio negativos.
 

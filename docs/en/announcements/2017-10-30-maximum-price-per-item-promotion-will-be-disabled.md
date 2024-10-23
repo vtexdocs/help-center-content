@@ -33,7 +33,7 @@ There are two possible ways to achieve the same effect of the Maximum Price per 
 
 You can set up a [Regular Promotion](/en/tutorial/regular-promotion) with the __Maximum Price per Item__ discount.
 
-![PrecoMaximoEN](https://images.contentful.com/alneenqid6w5/ZqS2JBJtEkgusUu4qOsEE/ab84f34757924220efe4d44250d499a5/PrecoMaximoEN.png)
+![PrecoMaximoEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2017-10-30-maximum-price-per-item-promotion-will-be-disabled_1.png)
 
 This is a better scenario than the previous one, since retailers have more options for grouping, for example, by product category.
 

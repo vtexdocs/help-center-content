@@ -45,7 +45,7 @@ Este comportamento pode levar o usuário a pensar erroneamente que os itens fora
 
 5) Um prompt de validação de caráter especial será exibido e nenhum dado será salvo.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/pwqKP9iXeEaIFRjUGN93jwOOw/?name=inline773082053.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/colecoes-legadas-cms-a-validacao-de-carateres-especiais-diverge-das-colecoes-novas_1.png)
 
 
 

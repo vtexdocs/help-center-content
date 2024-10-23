@@ -52,7 +52,7 @@ Se o vendedor apagar o afiliado (ou mudar a identificação do afiliado) de seu 
 
 A fim de poder pausar o vendedor, existem 3 soluções:
 
-1. Eliminar as informações sobre a seção do vendedor chamada "Integração" na IU ![](https://vtexhelp.zendesk.com/attachments/token/Pp9HF1oSjoUYYJdnmKBUSnYVO/?name=image.png)
+1. Eliminar as informações sobre a seção do vendedor chamada "Integração" na IU ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketplace/incapaz-de-pausar-o-vendedor_1.png)
 2. Peça ao vendedor para criar novamente o afiliado como era antes e depois disso pausar o vendedor. (depois que o vendedor puder apagar o afiliado novamente);
 3. Use a antiga interface de administração do vendedor para prosseguir com esta ação: www.myaccount.myvtex.com/admin/site/seller.aspx
 

@@ -21,7 +21,7 @@ Os passos a seguir deverão ser feitos dentro do app.
 1. No seletor, escolha a política comercial que será usada na Wish ([pré definida no passo 2](https://help.vtex.com/pt/tracks/configurar-integracao-da-wish--50hbG4bzhSIhjz1lzqI1g43OHGQIQmt1dKw9RwKruE7H#definindo-politica-comercial))
 2. Após selecionar a política comercial, clique em "Continuar".
 
-![PT - Configurar Wish](https://images.ctfassets.net/alneenqid6w5/3EGGUHCj7UViCY8Jjct3UY/1172fa1d438d6d0ecaf35a01b57959f1/PT_-_Configurar_Wish.png)
+![PT - Configurar Wish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/wish-integration/configuracoes-da-integracao_1.png)
 
 ## Configurações de envio
 

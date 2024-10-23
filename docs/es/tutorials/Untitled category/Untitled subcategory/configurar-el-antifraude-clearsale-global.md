@@ -76,7 +76,7 @@ Para configurar ClearSale Global, deberá:
 <br>  
   <ui>11. En la esquina superior derecha, hacer clic en <b>Publicar</br>.</ui>
 
-![Fingerprint ClearSalve_Pantalla](https://images.ctfassets.net/alneenqid6w5/1cCBNxfRXCGQr4QxBsPgg6/2f5d30cbf3147be7da09d3f86186dafc/Fingerprint_ClearSalve_Pantalla.png)
+![Fingerprint ClearSalve_Pantalla](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/configurar-el-antifraude-clearsale-global_1.png)
 
 Para más detalles sobre el código introducido en Google Tag Manager, recomendamos leer [esta documentación](https://api.clearsale.com.br/docs/behavior-analytics) de ClearSale.
 

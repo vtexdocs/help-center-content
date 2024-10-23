@@ -31,7 +31,7 @@ El objetivo de un anexo es [complementar el producto con una información person
 Después de realizar el registro inicial del anexo, es necesario añadir las claves y los **Valores permitidos** relacionados con el anexo creado. Puede añadir las claves que desee. Para añadir las claves y los **Valores permitidos**, realice los siguientes pasos.
 
 1. En la página **Campos personalizados**, identifique la línea del anexo creado y haga clic en `Editar`, como se ilustra en la siguiente imagen.
-    ![anexos.pt](https://images.ctfassets.net/alneenqid6w5/4hSZgKMwFjJ3fE2Tfek60C/e56ba5ba51d3c9e60593faa82eb4d790/custom-product-attributes-es.PNG)
+    ![anexos.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Attachments/registrar-un-anexo_1.PNG)
 2. Complete los campos indicados a continuación.
     * **Nombre de la clave:** nombre de la información personalizada. Este campo es obligatorio y no puede contener caracteres especiales, solo letras, números o puntos. Ejemplo: si el producto personalizable es una camiseta de la selección brasileña, los nombres de sus claves pueden ser `Nombre` y `Número`.
     * **Máximo de caracteres:** número máximo de caracteres que el cliente puede digitar para introducir una información personalizada en el producto. Este campo es obligatorio. Ejemplo: en este campo puede definir el límite de caracteres para el nombre que se imprimirá en una camiseta.

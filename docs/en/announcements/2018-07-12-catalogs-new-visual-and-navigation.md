@@ -23,16 +23,16 @@ The main difference to the old version is on how you navigate through it. We've 
 ## What has changed
 
 Most items of the old Catalog can now be found on the _Catalog_ option, on the sidebar's _PRODUCTS_ section.
-![EN-Catálogo1](https://images.ctfassets.net/alneenqid6w5/6PWNLidc6AYwsIw4W8GcEQ/e5fb1c8e3aaf79fa05d895a920dd78c7/EN-Cat__logo1.png)
+![EN-Catálogo1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018-07-12-catalogs-new-visual-and-navigation_1.png)
 
 
 The _Gift card_ subitem (formerly known as _Vouchers_ and previously located under the _Campaign Control_ tab) is now one of the _Payments_ drop-down options, on the sidebar's _TRANSACTIONS_ section. 
-![EN-Catálogo2](//images.ctfassets.net/alneenqid6w5/mYzfITNdIWSQ00qaewAsQ/0a9fd430c40271c4f4d6ed9574bf13fd/EN-Cat__logo2.png)
+![EN-Catálogo2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018-07-12-catalogs-new-visual-and-navigation_2.png)
 
 
 The _Settings_ item (formerly a tab of its own) is now one of the _CMS_ drop-down options, on the sidebar's _STORE SETUP_ section. 
-![EN-Catálogo3](//images.ctfassets.net/alneenqid6w5/5mVP1uxDzi2e28ym2o0IEO/3c72b956fb706517dacd2bc3d473550f/EN-Cat__logo3.png)
+![EN-Catálogo3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018-07-12-catalogs-new-visual-and-navigation_3.png)
 
 
 The former _Marketplace_ tab continues independent (even the name remains the same), with a section of its own on the sidebar.
-![EN-Catálogo4](//images.ctfassets.net/alneenqid6w5/2BjYZAd5PKACmiiOum64O4/a9379e8f4bb1cb762b744db5a2cae42a/EN-Cat__logo4.png)
+![EN-Catálogo4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018-07-12-catalogs-new-visual-and-navigation_4.png)

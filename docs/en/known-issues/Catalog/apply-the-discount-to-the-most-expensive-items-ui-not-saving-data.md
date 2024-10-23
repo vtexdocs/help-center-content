@@ -21,7 +21,7 @@ internalReference: 1011071
 
 When using the promotions UI, manually attempting to save the "Apply to the most expensive items" option will not work and the selector will remain at the cheapest type option.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/ofDGJuHHbNRwvbYDMOSSCznvB/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/apply-the-discount-to-the-most-expensive-items-ui-not-saving-data_1.png)
 
 
 ##

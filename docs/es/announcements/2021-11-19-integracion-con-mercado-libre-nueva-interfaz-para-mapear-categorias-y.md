@@ -19,7 +19,7 @@ Continuando con las mejoras realizadas para la [certificación de Mercado Libre]
 
 Antes de la certificación, los sellers tenían que rellenar la [plantilla de mapeo](https://help.vtex.com/es/tutorial/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre--4xNFUZZmboCSUVdLCFo6eA) con las categorías y los atributos de los productos que deseaban anunciar en Mercado Libre. La nueva interfaz para mapear categorías y atributos llega para sustituir a la plantilla de mapeo.
 
-![announcement mapperES2](https://images.contentful.com/alneenqid6w5/6paqLHxIDlX6t02g7L8qOu/6b22c6d9dace59cd549a632cb2b81706/announcement_mapperES2.gif)
+![announcement mapperES2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021-11-19-integracion-con-mercado-libre-nueva-interfaz-para-mapear-categorias-y_1.gif)
 
 ## ¿Qué cambió?
 

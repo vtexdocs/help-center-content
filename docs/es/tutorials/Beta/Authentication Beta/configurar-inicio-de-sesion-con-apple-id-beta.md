@@ -54,7 +54,7 @@ Después de registrarte en Apple, debes activar la opción de inicio de sesión 
 
     Para más información sobre cómo obtener estas credenciales, consulta nuestra guía para desarrolladores [Registering credentials to set up Apple ID login](https://developers.vtex.com/docs/guides/registering-credentials-to-set-up-apple-id-login).
 
-    ![apple-id-setup-es](https://images.ctfassets.net/alneenqid6w5/3llgZRzP1yyUiqgZjagXyT/83719fc4ecc831b785e06d485eb13188/apple-id-setup-pt.png)
+    ![apple-id-setup-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Authentication Beta/configurar-inicio-de-sesion-con-apple-id-beta_1.png)
 
 5. Haz clic en `Guardar`.
 6. Haz clic en `Proveedores de tienda virtual` para volver a la página anterior.

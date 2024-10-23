@@ -36,7 +36,7 @@ No início do projeto, antes que qualquer produto seja inserido na plataforma, v
 
 Este, portanto, poderia ser o desenho inicial da árvore de categorias da sua loja:
 
-![diagrama-help](https://images.contentful.com/alneenqid6w5/5W7d9NCYCscs6wks2gGQW8/176a2ae08c349fd0473ae796dead9d29/diagrama-help.png)
+![diagrama-help](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-getting-started/crie-a-arvore-de-categorias_1.png)
 
 __OBS__: a nomenclatura __Departamento / Categoria / Subcategoria__ é apenas uma maneira de enxergar a sua árvore, e que pode ou não facilitar seu trabalho. A plataforma não exige este ou qualquer outro padrão de nomenclatura. Para a VTEX, quaisquer níveis que venham a ser criados para a distribuição dos seus produtos são tomados apenas como níveis de categoria.
 

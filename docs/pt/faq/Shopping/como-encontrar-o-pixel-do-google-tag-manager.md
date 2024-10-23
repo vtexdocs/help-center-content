@@ -16,12 +16,12 @@ legacySlug: como-encontrar-o-pixel-do-google-tag-manager
 
 Faça login no Gerenciador de [tags do Google](https://www.google.com/intl/pt-BR/tagmanager/).
 
-![Gerenciador de Tags Google](https://images.ctfassets.net/alneenqid6w5/6LoAdO0EywCYPEraFxwKb5/4e29b0762d74cc540d81c9fb6b64ef2a/Gerenciador_de_Tags_Google.png)
+![Gerenciador de Tags Google](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Shopping/como-encontrar-o-pixel-do-google-tag-manager_1.png)
 
 Na opção **Contâiner ID**, você encontrará o código. Copie-o.
 
 >⚠️ **Atenção**: Seu ID deve conter o prefixo do GTM.
 
-![Gerenciador de tags Goggle 2](//images.ctfassets.net/alneenqid6w5/4UqVluoy3i3PraHgP3upQ3/5f45d8f38635a803a00b417667102433/Gerenciador_de_Tags_Google_2.png)
+![Gerenciador de tags Goggle 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Shopping/como-encontrar-o-pixel-do-google-tag-manager_2.png)
 
 Pronto! Agora você poderá adicionar o seu Pixel do Google Tag Manager na opção de _**Atrair > Remarketing**_ da **VTEX Assisted Sales (SuiteShare)**.

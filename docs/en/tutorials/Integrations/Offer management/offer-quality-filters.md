@@ -21,7 +21,7 @@ Quality criteria are important for the marketplace's operation so that the offer
 
 **Offer quality filters** is the page where marketplaces add and manage the requirement groups applied to the received SKU cataloging process. To access it, in your VTEX Admin, go to **Marketplace > Offer Quality** or type __"Offer Quality"__ in the search bar.
 
-![EN offer quality](https://images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/73ac6313be9a602772446d24f0dbd8ba/EN_offer_quality.png)
+![EN offer quality](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer management/offer-quality-filters_1.png)
 
 In this article, learn how to:
 
@@ -46,7 +46,7 @@ The feature allows the marketplace operator to perform many actions, each offeri
 | Bring more transparency to the cataloging criteria for submitted offers and how sellers and offers do or do not comply.                                                                     | It allows you to identify which sellers and offer types do not meet the requirements, speeding up corrections.         |
 
 ## Viewing Default requirements
-![EN Default requirements](//images.ctfassets.net/alneenqid6w5/6OxPTO8QO6o9zZ8kTt5tVG/83dd62ff723ec843269ea0919c31633d/EN_Default_requirements.png)
+![EN Default requirements](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer management/offer-quality-filters_2.png)
 
 The page, by default, has some pre-configured requirements that will apply to all categories, sellers, and brands, called _Default requirements_. Some of these criteria are natively configured in [VTEX Matcher](https://help.vtex.com/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), the tool applied to VTEX marketplaces to support the cataloging process of submitted offers.
 

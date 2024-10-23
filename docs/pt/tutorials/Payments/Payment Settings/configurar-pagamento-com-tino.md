@@ -71,7 +71,7 @@ Após instalar os aplicativos, você precisa realizar a configuração do Tino a
 
 >ℹ️ As informações inseridas não devem conter espaços em branco entre caracteres.
 
-![Tino app_4](https://images.ctfassets.net/alneenqid6w5/5UliBe8XJBCddIOiY7a499/1c44b3d5716af79b63635e0b796ed029/Tino_app_4.png)
+![Tino app_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-tino_1.png)
 
 >⚠️ A opção **Enable Development Mode** deve ser mantida desmarcada. Caso esteja sinalizada, o aplicativo estará operando somente em modo de teste e não será possível processar transações de pagamento com a Tino durante o período.
 
@@ -111,7 +111,7 @@ A Tino disponibiliza a opção de coletar dados de navegação e métricas relac
 4. No canto direito da tela, em __Arquivos__, clique sobre a opção __checkout6-custom.js__.
 5. Insira o código JavaScript fornecido pelo suporte da Tino.
 
-![Tino app_5](//images.ctfassets.net/alneenqid6w5/1N5qr5pfavc7CK07deORX5/1ed2be9a5ae86c60ba0e2001f2ac4dbd/Tino_app_5.png)
+![Tino app_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-tino_2.png)
 
 6. Clique em `Salvar`.
 

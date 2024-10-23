@@ -21,7 +21,7 @@ One of the first things you need to do on your website is to _link it to an acco
 To link it, check out our [article about linking an account name to a website.](https://help.vtex.com/en/tutorial/linking-an-account-name-to-a-website-binding--PxjfleOw6suCSO2uGWMMs)
 
 
-![Binding](https://images.contentful.com/alneenqid6w5/2selXSrkaoWaqUug24Mewm/bfea4f2413f1433c6cc2b80d8c7c9a93/Binding-min.png)
+![Binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/contas-e-permissoes/como-a-conta-se-relaciona-as-paginas-do-site_1.png)
 
 The configuration shown above is for when you want an account to have more than one store.
 

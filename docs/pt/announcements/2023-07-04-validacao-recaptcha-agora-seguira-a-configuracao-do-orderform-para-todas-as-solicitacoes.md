@@ -46,7 +46,7 @@ Peça à sua equipe de desenvolvimento para revisar as integrações que usam a 
 
 Ela poderá seguir o diagrama abaixo para avaliar se uma integração precisa ser ajustada, de acordo com a [configuração de reCAPTCHA do orderForm](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm) da sua loja e como as solicitações feitas a esses endpoints são [autenticadas](https://developers.vtex.com/docs/guides/authentication-overview):
 
-![reCAPTCHA diagram](https://images.ctfassets.net/alneenqid6w5/46F1byxPKdYgWcf1lSkPMn/bfd89311bfff3e2597bb5fbf2862d6da/recaptcha-config-PT.png)
+![reCAPTCHA diagram](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023-07-04-validacao-recaptcha-agora-seguira-a-configuracao-do-orderform-para-todas-as-solicitacoes_1.png)
 
 - __Caso 1__: *não são necessárias alterações na integração, mas sua loja pode estar em risco.*
 

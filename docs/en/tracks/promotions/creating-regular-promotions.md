@@ -103,7 +103,7 @@ You can include or exclude **categories**, **brands**, **collections**, **produc
 
 To be eligible for the promotion, products must meet all the conditions added in this section.
 
-![A quais itens esta promoção será aplicada - EN](https://images.ctfassets.net/alneenqid6w5/7lxp9shJsZD5LBMzXldQnz/2b8a18cfaa26f45756354a1a081cd2a0/A_quais_itens_-_EN.png)
+![A quais itens esta promoção será aplicada - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/promotions/creating-regular-promotions_1.png)
 
 # 3. Conditions for the promotion to be valid
 

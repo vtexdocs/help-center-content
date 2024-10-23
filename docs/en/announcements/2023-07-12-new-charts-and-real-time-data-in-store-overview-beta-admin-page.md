@@ -17,7 +17,7 @@ announcementSynopsisEN: "We've redesigned the Admin home page, which now feature
 
 The [Overview (beta)](https://help.vtex.com/en/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) page in your VTEX Admin has been redesigned and now offers new charts, metrics, and views. These new features allow you to monitor your operation in real time, providing insights on metrics for you and your team to get quick feedback on the actions taken in the store and act promptly on improvements.
 
-![EN visão geral beta](https://images.ctfassets.net/alneenqid6w5/5C2Na8YDkwgIsMHqp28oGv/88b40023b0c9d38dae93d2ccb563e378/EN_visa__o_geral_beta.png)
+![EN visão geral beta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023-07-12-new-charts-and-real-time-data-in-store-overview-beta-admin-page_1.png)
 
 ## What has changed?
 

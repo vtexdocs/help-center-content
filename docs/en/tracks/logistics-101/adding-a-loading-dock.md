@@ -29,7 +29,7 @@ Follow the steps below to add a loading dock to your store:
 4. Fill out the data entry fields. For more details on each field's meaning, refer to section [data entry fields](#data-entry-fields) below.;
 5. **Save** changes.
 
-![EN Cadastrar Doca GIF](https://images.ctfassets.net/alneenqid6w5/5RGUQFBMdcOPn3xV49SSqW/202dce17e72e2fb8da79961326626f03/EN_Cadastrar_Doca_GIF.gif)
+![EN Cadastrar Doca GIF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/logistics-101/adding-a-loading-dock_1.gif)
 
 ### Data entry fields
 

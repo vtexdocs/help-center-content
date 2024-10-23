@@ -24,7 +24,7 @@ internalReference: 525616
 
 Actualmente, al acceder a la interfaz de usuario de la página del catálogo para guardar los valores de las especificaciones (https://myaccount.myvtex.com/admin/Site/CampoValor.aspx), el botón de guardar sólo funciona cuando se hace clic dos veces, lo que podría, en el caso de las conexiones de Internet más lentas, inducir a error al usuario de que los datos no se guardan.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/4GJaTvjIaioudlMMG1RKKIS0J/?name=inline-576344148.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/el-boton-de-guardar-de-campovalorformaspx-requiere-dos-clics_1.png)
 
 
 

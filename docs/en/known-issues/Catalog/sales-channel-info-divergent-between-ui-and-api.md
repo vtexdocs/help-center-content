@@ -32,7 +32,7 @@ This scenario does not happen all the time. Is usually when the indexation fails
 Check the sales channel that the product belongs via UI.
 Check the sales channel that the product belongs via API:
 https://{accountName}.{environment}.com.br/api/catalog_system/pvt/sku/stockkeepingunitbyid/{skuId}
- ![](https://vtexhelp.zendesk.com/attachments/token/F8f1Y1fSQVsq5JubtoILmeZjz/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/sales-channel-info-divergent-between-ui-and-api_1.png)
 
 
 
