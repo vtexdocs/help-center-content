@@ -4,6 +4,9 @@ const matter = require('gray-matter');
 const csv = require('csv-parser');
 const csvFilePath = path.join(__dirname, '../redirects-vtexhelp-20241024.csv'); // exported from https://vtexhelp.myvtex.com/admin/cms/redirects
 
+// Set to keep track of unique redirects
+const redirectsSet = new Set();
+
 // Initial content for netlify.toml
 let netlifyTomlContent = `
 [functions]
@@ -26,13 +29,14 @@ function addRedirect(from, to) {
     }
 
     if (from !== to) {
-        netlifyTomlContent += `
+        const redirectEntry = `
 [[redirects]]
 force = true
 from = "${from}"
 status = 308
 to = "${to}"
 `;
+        redirectsSet.add(redirectEntry);
     }
 }
 
@@ -131,6 +135,10 @@ async function main() {
         console.log('CSV file has been processed.');
         await iterateDocsDirectory(path.join('./docs'));
         console.log('Docs directory has been processed.');
+
+        // Convert the Set to a string and append to netlifyTomlContent
+        netlifyTomlContent += Array.from(redirectsSet).join('');
+        
         // Write the netlify.toml content to a file
         await fs.promises.writeFile('./netlify.toml', netlifyTomlContent, 'utf8');
         console.log('netlify.toml has been generated.');
