@@ -1,6 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
+const csv = require('csv-parser');
+const csvFilePath = path.join(__dirname, '../redirects-vtexhelp-20241024.csv'); // exported from https://vtexhelp.myvtex.com/admin/cms/redirects
 
 // Initial content for netlify.toml
 let netlifyTomlContent = `
@@ -14,6 +16,16 @@ included_files = ["node_modules/sharp/**/*", "./github.pem"]
 
 // Function to add a redirect if from and to are different
 function addRedirect(from, to) {
+
+    // Remove base URL if present
+    const baseUrl = 'https://help.vtex.com';
+    if (from.startsWith(baseUrl)) {
+        from = from.replace(baseUrl, '');
+    }
+    if (to.startsWith(baseUrl)) {
+        to = to.replace(baseUrl, '');
+    }
+    
     if (from !== to) {
         netlifyTomlContent += `
 [[redirects]]
@@ -88,7 +100,32 @@ function iterateDocsDirectory(directory) {
     });
 }
 
-// Start processing
+// Function to process each line of the CSV file
+function processCsvLine(line) {
+    const from = line.from;
+    const to = line.to;
+
+    addRedirect(from, to);
+}
+
+// Read and process the CSV file
+function processCsvFile(filePath) {
+    fs.createReadStream(filePath)
+        .pipe(csv({ separator: ';' }))
+        .on('data', (line) => {
+            processCsvLine(line);
+    })
+    .on('end', () => {
+        // Write the netlify.toml content to a file
+        fs.writeFileSync(path.join(__dirname, '../netlify.toml'), netlifyTomlContent, 'utf8');
+        console.log('netlify.toml has been generated.');
+    });
+}
+
+// Start processing the CSV file
+processCsvFile(csvFilePath); // 11k
+
+// Start processing markdown files
 iterateDocsDirectory('./docs');
 
 // Tests
