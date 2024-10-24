@@ -52,7 +52,14 @@ function processMarkdownFile(filePath) {
 
             addRedirect(`/${locale}/${contentType}/${trackSlug}--${trackId}/${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
             addRedirect(`/${contentType}/${trackSlug}--${trackId}/${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
-        } else { 
+        } else if (contentType === 'troubleshooting') {
+            addRedirect(`/${locale}/tutorial/${localizedSlug}--${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+            addRedirect(`/${locale}/tutorial/--${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+            addRedirect(`/tutorial/--${idContentful}`, `/en/${contentTypeNew}/${localizedSlug}`);
+            addRedirect(`/${locale}/tutorial/${localizedSlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+            addRedirect(`/tutorial/${localizedSlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+            addRedirect(`/tutorial/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+        } else {
             addRedirect(`/${locale}/${contentType}/${localizedSlug}--${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
             addRedirect(`/${locale}/${contentType}/--${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
             addRedirect(`/${contentType}/--${idContentful}`, `/en/${contentTypeNew}/${localizedSlug}`);
