@@ -16,7 +16,6 @@ included_files = ["node_modules/sharp/**/*", "./github.pem"]
 
 // Function to add a redirect if from and to are different
 function addRedirect(from, to) {
-
     // Remove base URL if present
     const baseUrl = 'https://help.vtex.com';
     if (from.startsWith(baseUrl)) {
@@ -25,7 +24,7 @@ function addRedirect(from, to) {
     if (to.startsWith(baseUrl)) {
         to = to.replace(baseUrl, '');
     }
-    
+
     if (from !== to) {
         netlifyTomlContent += `
 [[redirects]]
@@ -85,19 +84,19 @@ function processMarkdownFile(filePath) {
 }
 
 // Function to recursively iterate through the docs directory
-function iterateDocsDirectory(directory) {
-    const files = fs.readdirSync(directory);
+async function iterateDocsDirectory(directory) {
+    const files = await fs.promises.readdir(directory);
 
-    files.forEach(file => {
+    for (const file of files) {
         const filePath = path.join(directory, file);
-        const stat = fs.statSync(filePath);
+        const stat = await fs.promises.stat(filePath);
 
         if (stat.isDirectory()) {
-        iterateDocsDirectory(filePath);
+            await iterateDocsDirectory(filePath);
         } else if (file.endsWith('.md')) {
-        processMarkdownFile(filePath);
+            processMarkdownFile(filePath);
         }
-    });
+    }
 }
 
 // Function to process each line of the CSV file
@@ -110,30 +109,35 @@ function processCsvLine(line) {
 
 // Read and process the CSV file
 function processCsvFile(filePath) {
-    fs.createReadStream(filePath)
-        .pipe(csv({ separator: ';' }))
-        .on('data', (line) => {
-            processCsvLine(line);
-    })
-    .on('end', () => {
-        // Write the netlify.toml content to a file
-        fs.writeFileSync(path.join(__dirname, '../netlify.toml'), netlifyTomlContent, 'utf8');
-        console.log('netlify.toml has been generated.');
+    return new Promise((resolve, reject) => {
+        fs.createReadStream(filePath)
+            .pipe(csv({ separator: ';' }))
+            .on('data', (line) => {
+                processCsvLine(line);
+            })
+            .on('end', () => {
+                resolve();
+            })
+            .on('error', (error) => {
+                reject(error);
+            });
     });
 }
 
-// Start processing the CSV file
-processCsvFile(csvFilePath); // 11k
+// Main function to run the tasks sequentially
+async function main() {
+    try {
+        await processCsvFile(csvFilePath);
+        console.log('CSV file has been processed.');
+        await iterateDocsDirectory(path.join('./docs'));
+        console.log('Docs directory has been processed.');
+        // Write the netlify.toml content to a file
+        await fs.promises.writeFile('./netlify.toml', netlifyTomlContent, 'utf8');
+        console.log('netlify.toml has been generated.');
+    } catch (error) {
+        console.error('Error:', error);
+    }
+}
 
-// Start processing markdown files
-iterateDocsDirectory('./docs');
-
-// Tests
-// processMarkdownFile('./docs/en/announcements/2017-10-25-facebook-and-google-login-settings-have-changed.md');
-// processMarkdownFile('./docs/en/tutorials/Authentication/Authentication basics/adding-a-client-id-and-a-client-secret-to-log-in-with-google.md');
-// processMarkdownFile('./docs/en/tracks/data-and-privacy/data-protection-roles.md');
-
-// Write the netlify.toml content to a file
-fs.writeFileSync('./netlify.toml', netlifyTomlContent, 'utf8');
-
-console.log('netlify.toml has been generated.');
+// Start the main function
+main();
