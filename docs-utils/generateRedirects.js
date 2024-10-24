@@ -12,6 +12,19 @@ included_files = ["node_modules/sharp/**/*", "./github.pem"]
     package = "@netlify/plugin-nextjs"
 `;
 
+// Function to add a redirect if from and to are different
+function addRedirect(from, to) {
+    if (from !== to) {
+        netlifyTomlContent += `
+[[redirects]]
+force = true
+from = "${from}"
+status = 308
+to = "${to}"
+`;
+    }
+}
+
 // Function to process each markdown file
 function processMarkdownFile(filePath) {
     try {
@@ -37,57 +50,15 @@ function processMarkdownFile(filePath) {
             let trackSlug = data.trackSlugEN || data.trackSlugPT || data.trackSlugES;
             let trackId = data.trackId;
 
-            netlifyTomlContent += `
-[[redirects]]
-force = true
-from = "/${locale}/${contentType}/${trackSlug}--${trackId}/${idContentful}"
-status = 308
-to = "/${locale}/${contentTypeNew}/${localizedSlug}"
-
-[[redirects]]
-force = true
-from = "/${contentType}/${trackSlug}--${trackId}/${idContentful}"
-status = 308
-to = "/${locale}/${contentTypeNew}/${localizedSlug}"
-`
+            addRedirect(`/${locale}/${contentType}/${trackSlug}--${trackId}/${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+            addRedirect(`/${contentType}/${trackSlug}--${trackId}/${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
         } else { 
-            netlifyTomlContent += `
-[[redirects]]
-force = true
-from = "/${locale}/${contentType}/${localizedSlug}--${idContentful}"
-status = 308
-to = "/${locale}/${contentTypeNew}/${localizedSlug}"
-
-[[redirects]]
-force = true
-from = "/${locale}/${contentType}/--${idContentful}"
-status = 308
-to = "/${locale}/${contentTypeNew}/${localizedSlug}"
-
-[[redirects]]
-force = true
-from = "/${contentType}/--${idContentful}"
-status = 308
-to = "/en/${contentTypeNew}/${localizedSlug}"
-
-[[redirects]]
-force = true
-from = "/${locale}/${contentType}/${localizedSlug}"
-status = 308
-to = "/${locale}/${contentTypeNew}/${localizedSlug}"
-
-[[redirects]]
-force = true
-from = "/${contentType}/${localizedSlug}"
-status = 308
-to = "/${locale}/${contentTypeNew}/${localizedSlug}"
-
-[[redirects]]
-force = true
-from = "/${contentType}/${legacySlug}"
-status = 308
-to = "/${locale}/${contentTypeNew}/${localizedSlug}"
-`
+            addRedirect(`/${locale}/${contentType}/${localizedSlug}--${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+            addRedirect(`/${locale}/${contentType}/--${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+            addRedirect(`/${contentType}/--${idContentful}`, `/en/${contentTypeNew}/${localizedSlug}`);
+            addRedirect(`/${locale}/${contentType}/${localizedSlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+            addRedirect(`/${contentType}/${localizedSlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+            addRedirect(`/${contentType}/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
         }
     } catch (error) {
         console.error(`Error processing file ${filePath}:`, error.message);
