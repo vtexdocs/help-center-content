@@ -3,14 +3,16 @@ title: 'Dashboards'
 id: insights
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-05T23:35:05.792Z
+updatedAt: 2024-11-05T23:41:09.286Z
 contentType: tutorial
 productTeam: Dashboards
 slugEN: insights
 locale: en
 ---
 
-- Dashboards in the VTEX Admin
-    - [Dashboards Overview](/en/docs/tutorials/dashboards-overview)
-    - [Sales Performance](/en/docs/tutorials/sales-performance)
-    - [Store Overview](/en/docs/tutorials/store-overview)
+## Dashboards in the VTEX Admin
+
+- [Dashboards Overview](https://help.vtex.com/en/docs/tutorials/dashboards-overview)
+- [Sales Performance](https://help.vtex.com/en/docs/tutorials/sales-performance)
+- [Store Overview](https://help.vtex.com/en/docs/tutorials/store-overview)
+

@@ -3,17 +3,21 @@ title: 'Políticas comerciais'
 id: trade-policies
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-05T23:35:05.792Z
+updatedAt: 2024-11-05T23:41:09.286Z
 contentType: tutorial
 productTeam: Políticas comerciais
 slugEN: trade-policies
 locale: pt
 ---
 
-- Visão geral de Políticas Comerciais
-    - [Qual é a diferença entre política comercial, seller e afiliado?](/pt/docs/tutorials/qual-a-diferenca-entre-politica-comercial-afiliado-e-seller)
-    - [Criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial)
-    - [Contratação de política comercial adicional](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional)
-- Configurações de Políticas Comerciais
-    - [Usando o mesmo estoque de outra loja no marketplace](/pt/docs/tutorials/usar-o-mesmo-estoque-de-outra-loja-no-marketplace)
-    - [Configurar política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace)
+## Visão geral de Políticas Comerciais
+
+- [Qual é a diferença entre política comercial, seller e afiliado?](https://help.vtex.com/pt/docs/tutorials/qual-a-diferenca-entre-politica-comercial-afiliado-e-seller)
+- [Criar uma política comercial](https://help.vtex.com/pt/docs/tutorials/criar-uma-politica-comercial)
+- [Contratação de política comercial adicional](https://help.vtex.com/pt/docs/tutorials/contratacao-de-politica-comercial-adicional)
+
+## Configurações de Políticas Comerciais
+
+- [Usando o mesmo estoque de outra loja no marketplace](https://help.vtex.com/pt/docs/tutorials/usar-o-mesmo-estoque-de-outra-loja-no-marketplace)
+- [Configurar política comercial para marketplace](https://help.vtex.com/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace)
+

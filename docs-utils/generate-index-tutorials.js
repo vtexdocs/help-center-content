@@ -80,16 +80,18 @@ function createCategoyIndexes(navigation) {
         
         const subcategoryName = subcategory.name[locale]
         
-        markdown += `- ${subcategoryName}\n`
+        markdown += `## ${subcategoryName}\n\n`
 
         const articleData = subcategory.children
         for (article of articleData) {
           
           const articleName = article.name[locale]
         
-          markdown += `    - [${articleName}](/${locale}/docs/tutorials/${article.slug[locale]})\n`
+          markdown += `- [${articleName}](https://help.vtex.com/${locale}/docs/tutorials/${article.slug[locale]})\n`
 
         }
+
+        markdown += `\n`
 
       }
       

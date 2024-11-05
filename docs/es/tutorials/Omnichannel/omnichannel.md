@@ -3,16 +3,20 @@ title: 'Omnichannel'
 id: omnichannel
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-05T23:35:05.792Z
+updatedAt: 2024-11-05T23:41:09.286Z
 contentType: tutorial
 productTeam: Omnichannel
 slugEN: omnichannel
 locale: es
 ---
 
-- Visión general de Omnichannel
-    - [¿Qué es una cuenta franquicia?](/es/docs/tutorials/que-es-una-cuenta-franquicia)
-    - [Seller white label](/es/docs/tutorials/seller-white-label)
-    - [Selección de sellers white label](/es/docs/tutorials/seleccion-de-sellers-white-label)
-- Configuración de Omnichannel
-    - [Enviar los medios de pago del Seller White Label al Marketplace](/es/docs/tutorials/enviar-los-medios-de-pago-del-seller-white-label-al-marketplace)
+## Visión general de Omnichannel
+
+- [¿Qué es una cuenta franquicia?](https://help.vtex.com/es/docs/tutorials/que-es-una-cuenta-franquicia)
+- [Seller white label](https://help.vtex.com/es/docs/tutorials/seller-white-label)
+- [Selección de sellers white label](https://help.vtex.com/es/docs/tutorials/seleccion-de-sellers-white-label)
+
+## Configuración de Omnichannel
+
+- [Enviar los medios de pago del Seller White Label al Marketplace](https://help.vtex.com/es/docs/tutorials/enviar-los-medios-de-pago-del-seller-white-label-al-marketplace)
+
