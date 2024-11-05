@@ -14,4 +14,4 @@ trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: test-file
 ---
 
-To organize the permissions of users who have access to the VTEX store administrative environment, the platform works with **roles**.
+This is a test file to check the connection between the documentation repository and the webpage repository.
