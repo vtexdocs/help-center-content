@@ -1,2 +1,0 @@
-# Vtex io Tutorials Index
-

@@ -1,2 +1,0 @@
-# Vtex payment Tutorials Index
-
