@@ -1,11 +1,11 @@
 ---
 title: 'Comércio Unificado Tutorial Index'
-id: t630afatfcs
+id: 79kuqsnbjku
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.118Z
-updatedAt: 2024-10-31T17:06:48.118Z
+createdAt: 2024-11-05T15:13:25.008Z
+updatedAt: 2024-11-05T15:13:25.008Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.118Z
+firstPublishedAt: 2024-11-05T15:13:25.008Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: unified-commerce

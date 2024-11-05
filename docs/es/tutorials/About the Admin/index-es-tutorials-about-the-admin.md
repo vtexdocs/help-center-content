@@ -1,11 +1,11 @@
 ---
 title: 'Admin Tutorial Index'
-id: qo5y4p6qct
+id: 9n88zf9p9j
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.518Z
-updatedAt: 2024-10-31T17:06:48.518Z
+createdAt: 2024-11-05T15:13:26.076Z
+updatedAt: 2024-11-05T15:13:26.076Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.518Z
+firstPublishedAt: 2024-11-05T15:13:26.076Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: about-the-admin

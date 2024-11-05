@@ -1,11 +1,11 @@
 ---
-title: 'Trade policies Tutorial Index'
-id: b9j9u0v71s
+title: 'Trade policies'
+id: bl23nvxjen
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.470Z
-updatedAt: 2024-10-31T17:06:48.470Z
+createdAt: 2024-11-05T15:13:25.899Z
+updatedAt: 2024-11-05T15:13:25.899Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.470Z
+firstPublishedAt: 2024-11-05T15:13:25.899Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: trade-policies
@@ -26,5 +26,5 @@ locale: en
   - [What is the difference between sales policy, seller and affiliate?](en/docs/tutorial/what-is-the-difference-between-sales-policy-affiliate-and-seller)
 
 
-  - [Trade policies Tutorial Index](en/docs/tutorial/index-en-tutorial-trade-policies)
+  - [Trade policies](en/docs/tutorial/index-en-tutorial-trade-policies)
 

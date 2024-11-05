@@ -1,11 +1,11 @@
 ---
 title: 'Comercio Unificado Tutorial Index'
-id: kn8amj98n4
+id: b7x2gcavpzp
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.862Z
-updatedAt: 2024-10-31T17:06:48.862Z
+createdAt: 2024-11-05T15:13:27.184Z
+updatedAt: 2024-11-05T15:13:27.184Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.862Z
+firstPublishedAt: 2024-11-05T15:13:27.184Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: unified-commerce

@@ -1,11 +1,11 @@
 ---
 title: 'Catálogo Tutorial Index'
-id: 3lstkwa00nu
+id: pe2ocpa6okf
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:47.804Z
-updatedAt: 2024-10-31T17:06:47.804Z
+createdAt: 2024-11-05T15:13:23.952Z
+updatedAt: 2024-11-05T15:13:23.952Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:47.804Z
+firstPublishedAt: 2024-11-05T15:13:23.952Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: catalog

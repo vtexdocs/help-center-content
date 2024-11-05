@@ -1,11 +1,11 @@
 ---
-title: 'Other Tutorial Index'
-id: cniliunahfv
+title: 'Other'
+id: 1ob5cc8b6vxh
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.332Z
-updatedAt: 2024-10-31T17:06:48.332Z
+createdAt: 2024-11-05T15:13:25.597Z
+updatedAt: 2024-11-05T15:13:25.597Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.332Z
+firstPublishedAt: 2024-11-05T15:13:25.597Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: other
@@ -23,5 +23,5 @@ locale: en
   - [VTEX Network](en/docs/tutorial/connecting-to-retailers-and-marketplaces-using-vtex-network)
 
 
-  - [Other Tutorial Index](en/docs/tutorial/index-en-tutorial-other)
+  - [Other](en/docs/tutorial/index-en-tutorial-other)
 

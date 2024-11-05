@@ -1,11 +1,11 @@
 ---
-title: 'Security Tutorial Index'
-id: nm45tv1hrtg
+title: 'Security'
+id: hj6i86ivqxh
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.409Z
-updatedAt: 2024-10-31T17:06:48.409Z
+createdAt: 2024-11-05T15:13:25.778Z
+updatedAt: 2024-11-05T15:13:25.778Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.409Z
+firstPublishedAt: 2024-11-05T15:13:25.778Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: security
@@ -44,5 +44,5 @@ locale: en
   - [Web Application Firewall (WAF)](en/docs/tutorial/web-application-firewall-waf)
 
 
-  - [Security Tutorial Index](en/docs/tutorial/index-en-tutorial-security)
+  - [Security](en/docs/tutorial/index-en-tutorial-security)
 

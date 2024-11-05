@@ -1,11 +1,11 @@
 ---
 title: 'Pagos Tutorial Index'
-id: u2yuzzy1q7i
+id: 9k5fu5qgui
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.771Z
-updatedAt: 2024-10-31T17:06:48.771Z
+createdAt: 2024-11-05T15:13:26.879Z
+updatedAt: 2024-11-05T15:13:26.879Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.771Z
+firstPublishedAt: 2024-11-05T15:13:26.879Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: payments

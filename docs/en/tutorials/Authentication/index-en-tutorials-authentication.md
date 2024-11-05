@@ -1,11 +1,11 @@
 ---
-title: 'Authentication Tutorial Index'
-id: qx9bu2lkylt
+title: 'Authentication'
+id: slq0tf7w3u
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.185Z
-updatedAt: 2024-10-31T17:06:48.185Z
+createdAt: 2024-11-05T15:13:25.197Z
+updatedAt: 2024-11-05T15:13:25.197Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.185Z
+firstPublishedAt: 2024-11-05T15:13:25.197Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: authentication
@@ -32,5 +32,5 @@ locale: en
   - [Resetting your two-factor authentication app configuration](en/docs/tutorial/resetting-your-two-factor-authentication-app-configuration)
 
 
-  - [Authentication Tutorial Index](en/docs/tutorial/index-en-tutorial-authentication)
+  - [Authentication](en/docs/tutorial/index-en-tutorial-authentication)
 

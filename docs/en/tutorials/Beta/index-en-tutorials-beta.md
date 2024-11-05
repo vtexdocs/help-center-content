@@ -1,11 +1,11 @@
 ---
-title: 'Beta Tutorial Index'
-id: qskr5ckdon
+title: 'Beta'
+id: los49qbmis9
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.204Z
-updatedAt: 2024-10-31T17:06:48.204Z
+createdAt: 2024-11-05T15:13:25.259Z
+updatedAt: 2024-11-05T15:13:25.259Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.204Z
+firstPublishedAt: 2024-11-05T15:13:25.259Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: beta
@@ -102,5 +102,5 @@ locale: en
   - [Orders to delivery (Beta)](en/docs/tutorial/order-to-delivery)
 
 
-  - [Beta Tutorial Index](en/docs/tutorial/index-en-tutorial-beta)
+  - [Beta](en/docs/tutorial/index-en-tutorial-beta)
 

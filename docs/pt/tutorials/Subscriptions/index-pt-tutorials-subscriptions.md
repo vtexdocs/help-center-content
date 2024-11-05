@@ -1,11 +1,11 @@
 ---
 title: 'Assinaturas Tutorial Index'
-id: pldfv0lzzwg
+id: u7r6kq3j25
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.104Z
-updatedAt: 2024-10-31T17:06:48.104Z
+createdAt: 2024-11-05T15:13:24.977Z
+updatedAt: 2024-11-05T15:13:24.977Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.104Z
+firstPublishedAt: 2024-11-05T15:13:24.977Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: subscriptions

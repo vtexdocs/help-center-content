@@ -1,11 +1,11 @@
 ---
 title: 'Infraestrutura Tutorial Index'
-id: q0a5b9gnbs
+id: oj20a59gcse
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:47.858Z
-updatedAt: 2024-10-31T17:06:47.858Z
+createdAt: 2024-11-05T15:13:24.144Z
+updatedAt: 2024-11-05T15:13:24.144Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:47.858Z
+firstPublishedAt: 2024-11-05T15:13:24.144Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: infrastructure

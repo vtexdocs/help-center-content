@@ -1,11 +1,11 @@
 ---
 title: 'Integraciones Tutorial Index'
-id: 3e9pfvtoijp
+id: mqdthuwt2ls
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.674Z
-updatedAt: 2024-10-31T17:06:48.674Z
+createdAt: 2024-11-05T15:13:26.560Z
+updatedAt: 2024-11-05T15:13:26.560Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.674Z
+firstPublishedAt: 2024-11-05T15:13:26.560Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: integrations

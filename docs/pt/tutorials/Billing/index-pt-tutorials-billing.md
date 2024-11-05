@@ -1,11 +1,11 @@
 ---
 title: 'Faturas Tutorial Index'
-id: 986ne1okcku
+id: yinfrr4rkb
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:47.777Z
-updatedAt: 2024-10-31T17:06:47.777Z
+createdAt: 2024-11-05T15:13:23.869Z
+updatedAt: 2024-11-05T15:13:23.869Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:47.777Z
+firstPublishedAt: 2024-11-05T15:13:23.869Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: billing

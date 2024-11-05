@@ -1,11 +1,11 @@
 ---
 title: 'Proyectos e Integraciones Tutorial Index'
-id: 1vox9zth75h
+id: vh3to09cwjm
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.783Z
-updatedAt: 2024-10-31T17:06:48.783Z
+createdAt: 2024-11-05T15:13:26.925Z
+updatedAt: 2024-11-05T15:13:26.925Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.783Z
+firstPublishedAt: 2024-11-05T15:13:26.925Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: projects-&-integrations

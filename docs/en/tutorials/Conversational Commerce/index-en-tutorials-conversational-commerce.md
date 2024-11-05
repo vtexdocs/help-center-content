@@ -1,11 +1,11 @@
 ---
-title: 'Conversational Commerce Tutorial Index'
-id: anv0csz055u
+title: 'Conversational Commerce'
+id: tg9nc1ml1jq
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.247Z
-updatedAt: 2024-10-31T17:06:48.247Z
+createdAt: 2024-11-05T15:13:25.433Z
+updatedAt: 2024-11-05T15:13:25.433Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.247Z
+firstPublishedAt: 2024-11-05T15:13:25.433Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: conversational-commerce
@@ -59,5 +59,5 @@ locale: en
   - [WhatsApp AI Campaigns management and details](en/docs/tutorial/whatsapp-ai-campaigns-management-and-details)
 
 
-  - [Conversational Commerce Tutorial Index](en/docs/tutorial/index-en-tutorial-conversational-commerce)
+  - [Conversational Commerce](en/docs/tutorial/index-en-tutorial-conversational-commerce)
 

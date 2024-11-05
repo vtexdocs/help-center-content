@@ -1,11 +1,11 @@
 ---
-title: 'Beta Tutorial Index'
-id: e3oitfmd96l
+title: 'Beta'
+id: dbj5juj89j5
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:47.772Z
-updatedAt: 2024-10-31T17:06:47.772Z
+createdAt: 2024-11-05T15:13:23.851Z
+updatedAt: 2024-11-05T15:13:23.851Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:47.772Z
+firstPublishedAt: 2024-11-05T15:13:23.851Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: beta
@@ -102,5 +102,5 @@ locale: pt
   - [Trocar seller de um pedido do VTEX Sales App - (Beta)](pt/docs/tutorial/trocar-seller-de-um-pedido-do-vtex-sales-app-beta)
 
 
-  - [Beta Tutorial Index](pt/docs/tutorial/index-pt-tutorial-beta)
+  - [Beta](pt/docs/tutorial/index-pt-tutorial-beta)
 

@@ -1,11 +1,11 @@
 ---
 title: 'Segurança Tutorial Index'
-id: jcd4owlkgqf
+id: gto0o7ky8uv
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.034Z
-updatedAt: 2024-10-31T17:06:48.034Z
+createdAt: 2024-11-05T15:13:24.706Z
+updatedAt: 2024-11-05T15:13:24.706Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.034Z
+firstPublishedAt: 2024-11-05T15:13:24.706Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: security

@@ -1,11 +1,11 @@
 ---
 title: 'Gerenciamento da conta Tutorial Index'
-id: dhdfg8ih9s
+id: y7sxcq3kzug
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:47.725Z
-updatedAt: 2024-10-31T17:06:47.725Z
+createdAt: 2024-11-05T15:13:23.624Z
+updatedAt: 2024-11-05T15:13:23.624Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:47.725Z
+firstPublishedAt: 2024-11-05T15:13:23.624Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: account-management

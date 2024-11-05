@@ -1,11 +1,11 @@
 ---
 title: 'Catálogo Tutorial Index'
-id: 3hvfra9vl4a
+id: hsnqjos8bxv
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.586Z
-updatedAt: 2024-10-31T17:06:48.586Z
+createdAt: 2024-11-05T15:13:26.387Z
+updatedAt: 2024-11-05T15:13:26.387Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.586Z
+firstPublishedAt: 2024-11-05T15:13:26.387Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: catalog

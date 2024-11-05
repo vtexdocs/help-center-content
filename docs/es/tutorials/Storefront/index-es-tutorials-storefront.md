@@ -1,11 +1,11 @@
 ---
-title: 'Storefront Tutorial Index'
-id: vgnewhtdhtq
+title: 'Storefront'
+id: 2whhbr2h98t
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.847Z
-updatedAt: 2024-10-31T17:06:48.847Z
+createdAt: 2024-11-05T15:13:27.137Z
+updatedAt: 2024-11-05T15:13:27.137Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.847Z
+firstPublishedAt: 2024-11-05T15:13:27.137Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: storefront
@@ -135,5 +135,5 @@ locale: es
   - [Personalizar la tipografía de tu tienda](es/docs/tutorial/personalizar-la-tipografia-de-tu-tienda)
 
 
-  - [Storefront Tutorial Index](es/docs/tutorial/index-es-tutorial-storefront)
+  - [Storefront](es/docs/tutorial/index-es-tutorial-storefront)
 

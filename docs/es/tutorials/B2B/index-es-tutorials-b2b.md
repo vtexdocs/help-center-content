@@ -1,11 +1,11 @@
 ---
-title: 'B2B Tutorial Index'
-id: 8n6tp5il7eu
+title: 'B2B'
+id: q1ob7idymdn
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.546Z
-updatedAt: 2024-10-31T17:06:48.546Z
+createdAt: 2024-11-05T15:13:26.237Z
+updatedAt: 2024-11-05T15:13:26.237Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.546Z
+firstPublishedAt: 2024-11-05T15:13:26.237Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: b2b
@@ -65,5 +65,5 @@ locale: es
   - [Gestionar permisos en B2B Suite](es/docs/tutorial/gestionar-permisos-en-b2b-suite)
 
 
-  - [B2B Tutorial Index](es/docs/tutorial/index-es-tutorial-b2b)
+  - [B2B](es/docs/tutorial/index-es-tutorial-b2b)
 

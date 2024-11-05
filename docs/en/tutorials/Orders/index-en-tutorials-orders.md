@@ -1,11 +1,11 @@
 ---
-title: 'Orders Tutorial Index'
-id: 15j2x1qhrw5
+title: 'Orders'
+id: 9elxvj5qosk
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.325Z
-updatedAt: 2024-10-31T17:06:48.325Z
+createdAt: 2024-11-05T15:13:25.591Z
+updatedAt: 2024-11-05T15:13:25.591Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.325Z
+firstPublishedAt: 2024-11-05T15:13:25.591Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: orders
@@ -83,5 +83,5 @@ locale: en
   - [Telesales toolbar](en/docs/tutorial/telesales-toolbar)
 
 
-  - [Orders Tutorial Index](en/docs/tutorial/index-en-tutorial-orders)
+  - [Orders](en/docs/tutorial/index-en-tutorial-orders)
 

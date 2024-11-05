@@ -1,11 +1,11 @@
 ---
 title: 'Pagamentos Tutorial Index'
-id: v1hvfkd2iwg
+id: ce1bdar2bk7
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:47.999Z
-updatedAt: 2024-10-31T17:06:47.999Z
+createdAt: 2024-11-05T15:13:24.626Z
+updatedAt: 2024-11-05T15:13:24.626Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:47.999Z
+firstPublishedAt: 2024-11-05T15:13:24.626Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: payments

@@ -1,11 +1,11 @@
 ---
-title: 'Sellers Tutorial Index'
-id: 0ecme3lk9kcc
+title: 'Sellers'
+id: klad3pcjdp
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.805Z
-updatedAt: 2024-10-31T17:06:48.805Z
+createdAt: 2024-11-05T15:13:27.011Z
+updatedAt: 2024-11-05T15:13:27.011Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.805Z
+firstPublishedAt: 2024-11-05T15:13:27.011Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: sellers
@@ -64,5 +64,5 @@ locale: es
   - [¿Cuál es la diferencia entre desvincular y remover un SKU Seller?](es/docs/tutorial/cual-es-la-diferencia-entre-desvincular-y-remover-un-sku-seller)
 
 
-  - [Sellers Tutorial Index](es/docs/tutorial/index-es-tutorial-sellers)
+  - [Sellers](es/docs/tutorial/index-es-tutorial-sellers)
 

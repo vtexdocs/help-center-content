@@ -1,11 +1,11 @@
 ---
-title: 'Untitled category Tutorial Index'
-id: tyupqxanlve
+title: 'Untitled category'
+id: 4hdopl4tgza
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.884Z
-updatedAt: 2024-10-31T17:06:48.884Z
+createdAt: 2024-11-05T15:13:27.227Z
+updatedAt: 2024-11-05T15:13:27.227Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.884Z
+firstPublishedAt: 2024-11-05T15:13:27.227Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: untitled-category
@@ -34,5 +34,5 @@ locale: es
   - [Visión General Promociones](es/docs/tutorial/vision-general-promociones)
 
 
-  - [Untitled category Tutorial Index](es/docs/tutorial/index-es-tutorial-untitled-category)
+  - [Untitled category](es/docs/tutorial/index-es-tutorial-untitled-category)
 

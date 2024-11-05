@@ -1,11 +1,11 @@
 ---
-title: 'Beta Tutorial Index'
-id: 0jkklqvyswhf
+title: 'Beta'
+id: e5683j1c7b
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.560Z
-updatedAt: 2024-10-31T17:06:48.560Z
+createdAt: 2024-11-05T15:13:26.306Z
+updatedAt: 2024-11-05T15:13:26.306Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.560Z
+firstPublishedAt: 2024-11-05T15:13:26.306Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: beta
@@ -102,5 +102,5 @@ locale: es
   - [Pedidos de entrega (Beta)](es/docs/tutorial/pedidos-de-entrega)
 
 
-  - [Beta Tutorial Index](es/docs/tutorial/index-es-tutorial-beta)
+  - [Beta](es/docs/tutorial/index-es-tutorial-beta)
 

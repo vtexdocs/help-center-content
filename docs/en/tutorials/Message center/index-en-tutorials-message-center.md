@@ -1,11 +1,11 @@
 ---
-title: 'Message center Tutorial Index'
-id: 8vwuu35z6xm
+title: 'Message center'
+id: hz62ovr5hkl
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.305Z
-updatedAt: 2024-10-31T17:06:48.305Z
+createdAt: 2024-11-05T15:13:25.547Z
+updatedAt: 2024-11-05T15:13:25.547Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.305Z
+firstPublishedAt: 2024-11-05T15:13:25.547Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: message-center
@@ -27,5 +27,5 @@ locale: en
   - [Which style of CSS should be used in emails?](en/docs/tutorial/how-can-i-include-css-code-in-an-email)
 
 
-  - [Message center Tutorial Index](en/docs/tutorial/index-en-tutorial-message-center)
+  - [Message center](en/docs/tutorial/index-en-tutorial-message-center)
 

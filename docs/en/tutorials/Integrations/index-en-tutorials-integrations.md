@@ -1,11 +1,11 @@
 ---
-title: 'Integrations Tutorial Index'
-id: 6j7ah4vhy2w
+title: 'Integrations'
+id: burnf1xbh2a
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.274Z
-updatedAt: 2024-10-31T17:06:48.274Z
+createdAt: 2024-11-05T15:13:25.500Z
+updatedAt: 2024-11-05T15:13:25.500Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.274Z
+firstPublishedAt: 2024-11-05T15:13:25.500Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: integrations
@@ -114,5 +114,5 @@ locale: en
   - [Sending products to the marketplace](en/docs/tutorial/sending-products-to-the-marketplace)
 
 
-  - [Integrations Tutorial Index](en/docs/tutorial/index-en-tutorial-integrations)
+  - [Integrations](en/docs/tutorial/index-en-tutorial-integrations)
 

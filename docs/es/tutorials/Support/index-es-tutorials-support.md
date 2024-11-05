@@ -1,11 +1,11 @@
 ---
-title: 'Support Tutorial Index'
-id: 0gkaqcx06ioa
+title: 'Support'
+id: 5hb3umyud7q
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.856Z
-updatedAt: 2024-10-31T17:06:48.856Z
+createdAt: 2024-11-05T15:13:27.157Z
+updatedAt: 2024-11-05T15:13:27.157Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.856Z
+firstPublishedAt: 2024-11-05T15:13:27.157Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: support
@@ -34,5 +34,5 @@ locale: es
   - [Responsabilidades en el ecosistema VTEX](es/docs/tutorial/responsabilidades-en-el-ecosistema-vtex)
 
 
-  - [Support Tutorial Index](es/docs/tutorial/index-es-tutorial-support)
+  - [Support](es/docs/tutorial/index-es-tutorial-support)
 

@@ -1,11 +1,11 @@
 ---
-title: 'Subscriptions Tutorial Index'
-id: rd45fzvykmb
+title: 'Subscriptions'
+id: xyfvshw67dr
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.460Z
-updatedAt: 2024-10-31T17:06:48.460Z
+createdAt: 2024-11-05T15:13:25.859Z
+updatedAt: 2024-11-05T15:13:25.859Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.460Z
+firstPublishedAt: 2024-11-05T15:13:25.859Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: subscriptions
@@ -24,5 +24,5 @@ locale: en
   - [Troubleshooting errors in subscription orders](en/docs/tutorial/troubleshooting-errors-in-subscription-orders)
 
 
-  - [Subscriptions Tutorial Index](en/docs/tutorial/index-en-tutorial-subscriptions)
+  - [Subscriptions](en/docs/tutorial/index-en-tutorial-subscriptions)
 

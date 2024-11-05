@@ -1,11 +1,11 @@
 ---
-title: 'Unified Commerce Tutorial Index'
-id: 590e5padg5h
+title: 'Unified Commerce'
+id: arououeymdm
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.474Z
-updatedAt: 2024-10-31T17:06:48.474Z
+createdAt: 2024-11-05T15:13:25.947Z
+updatedAt: 2024-11-05T15:13:25.947Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.474Z
+firstPublishedAt: 2024-11-05T15:13:25.947Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: unified-commerce
@@ -21,5 +21,5 @@ locale: en
   - [VTEX Sales App Offers](en/docs/tutorial/ads-from-vtex-sales-app)
 
 
-  - [Unified Commerce Tutorial Index](en/docs/tutorial/index-en-tutorial-unified-commerce)
+  - [Unified Commerce](en/docs/tutorial/index-en-tutorial-unified-commerce)
 

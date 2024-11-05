@@ -1,11 +1,11 @@
 ---
-title: 'Billing Tutorial Index'
-id: z9ilmtmtptf
+title: 'Billing'
+id: 5rets8431kt
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.207Z
-updatedAt: 2024-10-31T17:06:48.207Z
+createdAt: 2024-11-05T15:13:25.271Z
+updatedAt: 2024-11-05T15:13:25.271Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.207Z
+firstPublishedAt: 2024-11-05T15:13:25.271Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: billing
@@ -30,5 +30,5 @@ locale: en
   - [What is the period considered for calculating my billing?](en/docs/tutorial/what-is-the-period-considered-for-calculating-my-billing)
 
 
-  - [Billing Tutorial Index](en/docs/tutorial/index-en-tutorial-billing)
+  - [Billing](en/docs/tutorial/index-en-tutorial-billing)
 

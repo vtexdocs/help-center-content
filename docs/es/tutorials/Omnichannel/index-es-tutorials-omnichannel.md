@@ -1,11 +1,11 @@
 ---
-title: 'Omnichannel Tutorial Index'
-id: ynqz4543uyg
+title: 'Omnichannel'
+id: 8j56uj2rsho
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.695Z
-updatedAt: 2024-10-31T17:06:48.695Z
+createdAt: 2024-11-05T15:13:26.639Z
+updatedAt: 2024-11-05T15:13:26.639Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.695Z
+firstPublishedAt: 2024-11-05T15:13:26.639Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: omnichannel
@@ -24,5 +24,5 @@ locale: es
   - [Enviar los medios de pago del Seller White Label al Marketplace](es/docs/tutorial/enviar-los-medios-de-pago-del-seller-white-label-al-marketplace)
 
 
-  - [Omnichannel Tutorial Index](es/docs/tutorial/index-es-tutorial-omnichannel)
+  - [Omnichannel](es/docs/tutorial/index-es-tutorial-omnichannel)
 

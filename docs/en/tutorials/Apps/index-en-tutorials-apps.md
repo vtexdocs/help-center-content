@@ -1,11 +1,11 @@
 ---
-title: 'Apps Tutorial Index'
-id: ihadbfzeq1
+title: 'Apps'
+id: n6qmhvqa4k
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.181Z
-updatedAt: 2024-10-31T17:06:48.181Z
+createdAt: 2024-11-05T15:13:25.183Z
+updatedAt: 2024-11-05T15:13:25.183Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.181Z
+firstPublishedAt: 2024-11-05T15:13:25.183Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: apps
@@ -55,5 +55,5 @@ locale: en
   - [ Setting up price and availability of SKUs by Region](en/docs/tutorial/setting-up-price-and-availability-of-skus-by-region)
 
 
-  - [Apps Tutorial Index](en/docs/tutorial/index-en-tutorial-apps)
+  - [Apps](en/docs/tutorial/index-en-tutorial-apps)
 

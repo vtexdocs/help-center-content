@@ -1,11 +1,11 @@
 ---
-title: 'Catalog Tutorial Index'
-id: 8xi1fzgn4ki
+title: 'Catalog'
+id: 4x50fx0cdt3
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.223Z
-updatedAt: 2024-10-31T17:06:48.223Z
+createdAt: 2024-11-05T15:13:25.348Z
+updatedAt: 2024-11-05T15:13:25.348Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.223Z
+firstPublishedAt: 2024-11-05T15:13:25.348Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: catalog
@@ -122,5 +122,5 @@ locale: en
   - [Understanding the updating of the XML](en/docs/tutorial/understanding-the-updating-of-the-xml)
 
 
-  - [Catalog Tutorial Index](en/docs/tutorial/index-en-tutorial-catalog)
+  - [Catalog](en/docs/tutorial/index-en-tutorial-catalog)
 

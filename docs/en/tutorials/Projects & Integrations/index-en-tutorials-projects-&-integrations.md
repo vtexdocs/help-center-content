@@ -1,11 +1,11 @@
 ---
-title: 'Projects & Integrations Tutorial Index'
-id: pqcd3tgnjj8
+title: 'Projects & Integrations'
+id: 0lijmakmhbi9
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.392Z
-updatedAt: 2024-10-31T17:06:48.392Z
+createdAt: 2024-11-05T15:13:25.737Z
+updatedAt: 2024-11-05T15:13:25.737Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.392Z
+firstPublishedAt: 2024-11-05T15:13:25.737Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: projects-&-integrations
@@ -32,5 +32,5 @@ locale: en
   - [Why dont Cookies support special characters?](en/docs/tutorial/why-dont-cookies-support-special-characters)
 
 
-  - [Projects & Integrations Tutorial Index](en/docs/tutorial/index-en-tutorial-projects-&-integrations)
+  - [Projects & Integrations](en/docs/tutorial/index-en-tutorial-projects-&-integrations)
 

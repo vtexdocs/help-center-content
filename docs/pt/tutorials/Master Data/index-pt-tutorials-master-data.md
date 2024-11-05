@@ -1,11 +1,11 @@
 ---
-title: 'Master Data Tutorial Index'
-id: veqzkw7y7b
+title: 'Master Data'
+id: ebr0nektt0w
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:47.908Z
-updatedAt: 2024-10-31T17:06:47.908Z
+createdAt: 2024-11-05T15:13:24.348Z
+updatedAt: 2024-11-05T15:13:24.348Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:47.908Z
+firstPublishedAt: 2024-11-05T15:13:24.348Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: master-data
@@ -69,5 +69,5 @@ locale: pt
   - [Provisionando aplicações de uma nova loja no Master Data](pt/docs/tutorial/provisionando-aplicacoes-nova-loja-master-data)
 
 
-  - [Master Data Tutorial Index](pt/docs/tutorial/index-pt-tutorial-master-data)
+  - [Master Data](pt/docs/tutorial/index-pt-tutorial-master-data)
 

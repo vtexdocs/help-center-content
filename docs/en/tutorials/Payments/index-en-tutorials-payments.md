@@ -1,11 +1,11 @@
 ---
-title: 'Payments Tutorial Index'
-id: 7safl5nwdhl
+title: 'Payments'
+id: 4bdysxe0ivl
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.381Z
-updatedAt: 2024-10-31T17:06:48.381Z
+createdAt: 2024-11-05T15:13:25.712Z
+updatedAt: 2024-11-05T15:13:25.712Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.381Z
+firstPublishedAt: 2024-11-05T15:13:25.712Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: payments
@@ -223,5 +223,5 @@ locale: en
   - [Where do I see the payment settlement date?](en/docs/tutorial/where-do-i-see-the-payment-capture-date)
 
 
-  - [Payments Tutorial Index](en/docs/tutorial/index-en-tutorial-payments)
+  - [Payments](en/docs/tutorial/index-en-tutorial-payments)
 

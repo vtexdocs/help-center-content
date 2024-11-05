@@ -1,11 +1,11 @@
 ---
 title: 'Facturas Tutorial Index'
-id: s82ht581eud
+id: gxp6y0qxttr
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.567Z
-updatedAt: 2024-10-31T17:06:48.567Z
+createdAt: 2024-11-05T15:13:26.334Z
+updatedAt: 2024-11-05T15:13:26.334Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.567Z
+firstPublishedAt: 2024-11-05T15:13:26.334Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: billing

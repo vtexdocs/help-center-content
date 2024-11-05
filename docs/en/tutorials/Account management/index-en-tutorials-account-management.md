@@ -1,11 +1,11 @@
 ---
-title: 'Account management Tutorial Index'
-id: 1bsyvckkwlu
+title: 'Account management'
+id: cq3ovfjc3gp
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.172Z
-updatedAt: 2024-10-31T17:06:48.172Z
+createdAt: 2024-11-05T15:13:25.150Z
+updatedAt: 2024-11-05T15:13:25.150Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.172Z
+firstPublishedAt: 2024-11-05T15:13:25.150Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: account-management
@@ -52,5 +52,5 @@ locale: en
   - [User settings Overview](en/docs/tutorial/visao-geral-configuracoes-de-usuario)
 
 
-  - [Account management Tutorial Index](en/docs/tutorial/index-en-tutorial-account-management)
+  - [Account management](en/docs/tutorial/index-en-tutorial-account-management)
 

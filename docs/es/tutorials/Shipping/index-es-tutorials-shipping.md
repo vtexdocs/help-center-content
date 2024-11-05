@@ -1,11 +1,11 @@
 ---
 title: 'Envío Tutorial Index'
-id: ve7oe0i15l
+id: 7l27z68sff6
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.822Z
-updatedAt: 2024-10-31T17:06:48.822Z
+createdAt: 2024-11-05T15:13:27.087Z
+updatedAt: 2024-11-05T15:13:27.087Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.822Z
+firstPublishedAt: 2024-11-05T15:13:27.087Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: shipping

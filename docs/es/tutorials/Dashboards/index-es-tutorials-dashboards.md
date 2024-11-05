@@ -1,11 +1,11 @@
 ---
-title: 'Dashboards Tutorial Index'
-id: v53wrfb7pl
+title: 'Dashboards'
+id: hghosdw6ml
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.635Z
-updatedAt: 2024-10-31T17:06:48.635Z
+createdAt: 2024-11-05T15:13:26.422Z
+updatedAt: 2024-11-05T15:13:26.422Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.635Z
+firstPublishedAt: 2024-11-05T15:13:26.422Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: dashboards
@@ -20,5 +20,5 @@ locale: es
   - [Vista General de la Tienda](es/docs/tutorial/vista-general-de-la-tienda)
 
 
-  - [Dashboards Tutorial Index](es/docs/tutorial/index-es-tutorial-dashboards)
+  - [Dashboards](es/docs/tutorial/index-es-tutorial-dashboards)
 

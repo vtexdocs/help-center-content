@@ -1,11 +1,11 @@
 ---
-title: 'Checkout Tutorial Index'
-id: 0dry7hnsvr8u
+title: 'Checkout'
+id: afc3ncsz5yj
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:47.820Z
-updatedAt: 2024-10-31T17:06:47.820Z
+createdAt: 2024-11-05T15:13:24.013Z
+updatedAt: 2024-11-05T15:13:24.013Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:47.820Z
+firstPublishedAt: 2024-11-05T15:13:24.013Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: checkout
@@ -52,5 +52,5 @@ locale: pt
   - [reCAPTCHA no Checkout](pt/docs/tutorial/recaptcha-no-checkout)
 
 
-  - [Checkout Tutorial Index](pt/docs/tutorial/index-pt-tutorial-checkout)
+  - [Checkout](pt/docs/tutorial/index-pt-tutorial-checkout)
 

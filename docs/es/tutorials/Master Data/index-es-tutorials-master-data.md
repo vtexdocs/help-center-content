@@ -1,11 +1,11 @@
 ---
-title: 'Master Data Tutorial Index'
-id: e8j6jfvojvs
+title: 'Master Data'
+id: 4rutfgyzyto
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.690Z
-updatedAt: 2024-10-31T17:06:48.690Z
+createdAt: 2024-11-05T15:13:26.616Z
+updatedAt: 2024-11-05T15:13:26.616Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.690Z
+firstPublishedAt: 2024-11-05T15:13:26.616Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: master-data
@@ -69,5 +69,5 @@ locale: es
   - [Habilitando aplicaciones de una nueva tienda en el Master Data ](es/docs/tutorial/habilitando-aplicaciones-de-una-nueva-tienda-en-el-master-data )
 
 
-  - [Master Data Tutorial Index](es/docs/tutorial/index-es-tutorial-master-data)
+  - [Master Data](es/docs/tutorial/index-es-tutorial-master-data)
 

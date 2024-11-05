@@ -1,11 +1,11 @@
 ---
-title: 'Promotions & taxes Tutorial Index'
-id: wc1xb4fnkz
+title: 'Promotions & taxes'
+id: gscebp9r3x7
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.405Z
-updatedAt: 2024-10-31T17:06:48.405Z
+createdAt: 2024-11-05T15:13:25.765Z
+updatedAt: 2024-11-05T15:13:25.765Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.405Z
+firstPublishedAt: 2024-11-05T15:13:25.765Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: promotions-&-taxes
@@ -67,5 +67,5 @@ locale: en
   - [Send the item price, with tax shown separately, to the Gateway or the ERP](en/docs/tutorial/send-item-price-with-tax-shown-separately)
 
 
-  - [Promotions & taxes Tutorial Index](en/docs/tutorial/index-en-tutorial-promotions-&-taxes)
+  - [Promotions & taxes](en/docs/tutorial/index-en-tutorial-promotions-&-taxes)
 

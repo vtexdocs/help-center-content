@@ -1,11 +1,11 @@
 ---
 title: 'Central de mensagens Tutorial Index'
-id: 5chm3344c0y
+id: q8b9klqt84
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:47.913Z
-updatedAt: 2024-10-31T17:06:47.913Z
+createdAt: 2024-11-05T15:13:24.376Z
+updatedAt: 2024-11-05T15:13:24.376Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:47.913Z
+firstPublishedAt: 2024-11-05T15:13:24.376Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: message-center

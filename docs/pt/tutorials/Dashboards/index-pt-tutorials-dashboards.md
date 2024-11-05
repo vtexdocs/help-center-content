@@ -1,11 +1,11 @@
 ---
-title: 'Dashboards Tutorial Index'
-id: 9wh9ph1oq4i
+title: 'Dashboards'
+id: ttc18tu1qdi
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:47.853Z
-updatedAt: 2024-10-31T17:06:47.853Z
+createdAt: 2024-11-05T15:13:24.118Z
+updatedAt: 2024-11-05T15:13:24.118Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:47.853Z
+firstPublishedAt: 2024-11-05T15:13:24.118Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: dashboards
@@ -20,5 +20,5 @@ locale: pt
   - [Visão Geral da Loja](pt/docs/tutorial/visao-geral-da-loja)
 
 
-  - [Dashboards Tutorial Index](pt/docs/tutorial/index-pt-tutorial-dashboards)
+  - [Dashboards](pt/docs/tutorial/index-pt-tutorial-dashboards)
 

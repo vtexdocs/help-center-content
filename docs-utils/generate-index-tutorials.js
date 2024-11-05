@@ -1,5 +1,40 @@
 const fs = require('fs');
 const path = require('path');
+const https = require('https');
+
+// Initiate a GET request to the specified URL
+async function getNavigation() {
+  return new Promise((resolve, reject) => {
+    https.get('https://raw.githubusercontent.com/vtexdocs/helpcenter/refs/heads/main/public/navigation.json', (res) => {
+      let data = '';
+
+      // 'data' event is triggered when a chunk of data is received from the server
+      res.on('data', (chunk) => {
+        // Append each chunk of data to the 'data' variable
+        data += chunk;
+      });
+
+      // 'end' event is triggered when the entire response has been received
+      res.on('end', () => {
+        try {
+          // Parse the data and resolve the promise
+          resolve(JSON.parse(data));
+        } catch (err) {
+          // If there's an error parsing the JSON, reject the promise
+          reject(new Error('Error parsing JSON: ' + err.message));
+        }
+      });
+    }).on('error', (err) => {
+      // If there's an error with the request, reject the promise
+      reject(err);
+    });
+  });
+}
+
+const navigation = await getNavigation()
+
+console.log(navigation)
+
 
 const locales = ['pt', 'en', 'es']; // List of locales
 const baseDirectories = locales.map(locale => path.join(__dirname, '..', 'docs', locale, 'tutorials')); // Base paths for tutorial folders
@@ -570,7 +605,7 @@ function createIndexFilesInSubfolders(directory, locale) {
         const indexFilePath = path.join(itemPath, indexFileName);
 
         const createdAt = new Date().toISOString(); // Current date and time
-        const title = titleMap[item]?.[locale] || `${item} Tutorial Index`; // Localized title or fallback
+        const title = titleMap[item]?.[locale] || item; // Localized title or fallback
 
         // Prepare content for the index file
         const content = `---\n` +
@@ -589,7 +624,7 @@ function createIndexFilesInSubfolders(directory, locale) {
                         `${subMarkdown}`;
 
         fs.writeFileSync(indexFilePath, content, 'utf8'); // Create the index file
-        console.log(`Index generated at ${indexFilePath}`); // Log the creation of the index
+        //console.log(`Index generated at ${indexFilePath}`); // Log the creation of the index
       }
     }
   });
@@ -606,7 +641,7 @@ locales.forEach(locale => {
 
   // Check if the directory exists before processing
   if (fs.existsSync(baseDirectory)) {
-    console.log(`Processing directory: ${baseDirectory}`); // Debugging log
+    //console.log(`Processing directory: ${baseDirectory}`); // Debugging log
     createIndexFilesInSubfolders(baseDirectory, locale); // Create index files for the locale
   } else {
     console.error(`Directory does not exist: ${baseDirectory}`); // Log error if directory doesn't exist

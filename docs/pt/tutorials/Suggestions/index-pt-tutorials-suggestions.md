@@ -1,11 +1,11 @@
 ---
-title: 'Suggestions Tutorial Index'
-id: uskft85jc1i
+title: 'Suggestions'
+id: nrnhpqtjwf
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.105Z
-updatedAt: 2024-10-31T17:06:48.105Z
+createdAt: 2024-11-05T15:13:24.980Z
+updatedAt: 2024-11-05T15:13:24.980Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.105Z
+firstPublishedAt: 2024-11-05T15:13:24.980Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: suggestions
@@ -22,5 +22,5 @@ locale: pt
   - [Retornos da API de inserção de SKUs no módulo Suggestion](pt/docs/tutorial/retornos-da-api-de-insercao-de-skus-no-modulo-suggestion)
 
 
-  - [Suggestions Tutorial Index](pt/docs/tutorial/index-pt-tutorial-suggestions)
+  - [Suggestions](pt/docs/tutorial/index-pt-tutorial-suggestions)
 

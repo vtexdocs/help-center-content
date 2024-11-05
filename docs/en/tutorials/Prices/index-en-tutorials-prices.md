@@ -1,11 +1,11 @@
 ---
-title: 'Prices Tutorial Index'
-id: plwqy8clchj
+title: 'Prices'
+id: rfrfluymhqm
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.386Z
-updatedAt: 2024-10-31T17:06:48.386Z
+createdAt: 2024-11-05T15:13:25.720Z
+updatedAt: 2024-11-05T15:13:25.720Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.386Z
+firstPublishedAt: 2024-11-05T15:13:25.720Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: prices
@@ -46,5 +46,5 @@ locale: en
   - [Rounding Rules](en/docs/tutorial/rounding-rules)
 
 
-  - [Prices Tutorial Index](en/docs/tutorial/index-en-tutorial-prices)
+  - [Prices](en/docs/tutorial/index-en-tutorial-prices)
 

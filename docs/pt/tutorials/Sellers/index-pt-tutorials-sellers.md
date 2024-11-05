@@ -1,11 +1,11 @@
 ---
-title: 'Sellers Tutorial Index'
-id: cz0dfn3ikb
+title: 'Sellers'
+id: pytujx7a3zl
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.043Z
-updatedAt: 2024-10-31T17:06:48.043Z
+createdAt: 2024-11-05T15:13:24.742Z
+updatedAt: 2024-11-05T15:13:24.742Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.043Z
+firstPublishedAt: 2024-11-05T15:13:24.742Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: sellers
@@ -65,5 +65,5 @@ locale: pt
   - [Vínculos de SKU](pt/docs/tutorial/vinculos-de-sku)
 
 
-  - [Sellers Tutorial Index](pt/docs/tutorial/index-pt-tutorial-sellers)
+  - [Sellers](pt/docs/tutorial/index-pt-tutorial-sellers)
 

@@ -1,11 +1,11 @@
 ---
-title: 'Untitled category Tutorial Index'
-id: 5eo5md0pzi9
+title: 'Untitled category'
+id: eoz7wy5t8ja
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.499Z
-updatedAt: 2024-10-31T17:06:48.499Z
+createdAt: 2024-11-05T15:13:26.047Z
+updatedAt: 2024-11-05T15:13:26.047Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.499Z
+firstPublishedAt: 2024-11-05T15:13:26.047Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: untitled-category
@@ -34,5 +34,5 @@ locale: en
   - [VTEX Support - APAC](en/docs/tutorial/vtex-support-apac)
 
 
-  - [Untitled category Tutorial Index](en/docs/tutorial/index-en-tutorial-untitled-category)
+  - [Untitled category](en/docs/tutorial/index-en-tutorial-untitled-category)
 

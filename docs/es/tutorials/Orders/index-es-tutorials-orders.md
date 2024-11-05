@@ -1,11 +1,11 @@
 ---
 title: 'Pedidos Tutorial Index'
-id: vo6nsdqq8ak
+id: 7m2d3r2lcv
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.710Z
-updatedAt: 2024-10-31T17:06:48.710Z
+createdAt: 2024-11-05T15:13:26.731Z
+updatedAt: 2024-11-05T15:13:26.731Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.710Z
+firstPublishedAt: 2024-11-05T15:13:26.731Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: orders

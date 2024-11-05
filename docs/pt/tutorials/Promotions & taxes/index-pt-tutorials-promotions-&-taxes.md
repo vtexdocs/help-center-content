@@ -1,11 +1,11 @@
 ---
 title: 'Promoções e taxas Tutorial Index'
-id: 4jjtaub1q0r
+id: mkrgnzggvbb
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.027Z
-updatedAt: 2024-10-31T17:06:48.027Z
+createdAt: 2024-11-05T15:13:24.698Z
+updatedAt: 2024-11-05T15:13:24.698Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.027Z
+firstPublishedAt: 2024-11-05T15:13:24.698Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: promotions-&-taxes

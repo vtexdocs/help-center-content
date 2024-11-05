@@ -1,11 +1,11 @@
 ---
-title: 'Support Tutorial Index'
-id: 31vkh2sgbgx
+title: 'Support'
+id: x1u8nhd8md
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.467Z
-updatedAt: 2024-10-31T17:06:48.467Z
+createdAt: 2024-11-05T15:13:25.881Z
+updatedAt: 2024-11-05T15:13:25.881Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.467Z
+firstPublishedAt: 2024-11-05T15:13:25.881Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: support
@@ -34,5 +34,5 @@ locale: en
   - [VTEX Admin: Start Here](en/docs/tutorial/vtex-admin-start-here)
 
 
-  - [Support Tutorial Index](en/docs/tutorial/index-en-tutorial-support)
+  - [Support](en/docs/tutorial/index-en-tutorial-support)
 

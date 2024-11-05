@@ -1,11 +1,11 @@
 ---
-title: 'About the Admin Tutorial Index'
-id: pooijnlckb
+title: 'About the Admin'
+id: bz2zo1vtcmq
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.160Z
-updatedAt: 2024-10-31T17:06:48.160Z
+createdAt: 2024-11-05T15:13:25.117Z
+updatedAt: 2024-11-05T15:13:25.117Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.160Z
+firstPublishedAt: 2024-11-05T15:13:25.117Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: about-the-admin
@@ -18,5 +18,5 @@ locale: en
   - [Marketplace Overview](en/docs/tutorial/marketplace-overview)
 
 
-  - [About the Admin Tutorial Index](en/docs/tutorial/index-en-tutorial-about-the-admin)
+  - [About the Admin](en/docs/tutorial/index-en-tutorial-about-the-admin)
 

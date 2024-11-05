@@ -1,11 +1,11 @@
 ---
-title: 'Storefront Tutorial Index'
-id: djuiifz5tud
+title: 'Storefront'
+id: jkys88hsw3
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.457Z
-updatedAt: 2024-10-31T17:06:48.457Z
+createdAt: 2024-11-05T15:13:25.853Z
+updatedAt: 2024-11-05T15:13:25.853Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.457Z
+firstPublishedAt: 2024-11-05T15:13:25.853Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: storefront
@@ -135,5 +135,5 @@ locale: en
   - [Styles - Overview](en/docs/tutorial/styles-overview)
 
 
-  - [Storefront Tutorial Index](en/docs/tutorial/index-en-tutorial-storefront)
+  - [Storefront](en/docs/tutorial/index-en-tutorial-storefront)
 

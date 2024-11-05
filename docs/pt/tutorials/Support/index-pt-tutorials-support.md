@@ -1,11 +1,11 @@
 ---
-title: 'Support Tutorial Index'
-id: 632xovlgexs
+title: 'Support'
+id: pgospi82t7n
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.109Z
-updatedAt: 2024-10-31T17:06:48.109Z
+createdAt: 2024-11-05T15:13:24.992Z
+updatedAt: 2024-11-05T15:13:24.992Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.109Z
+firstPublishedAt: 2024-11-05T15:13:24.992Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: support
@@ -34,5 +34,5 @@ locale: pt
   - [Responsabilidades no ecossistema VTEX](pt/docs/tutorial/responsabilidades-no-ecossistema-vtex)
 
 
-  - [Support Tutorial Index](pt/docs/tutorial/index-pt-tutorial-support)
+  - [Support](pt/docs/tutorial/index-pt-tutorial-support)
 

@@ -1,11 +1,11 @@
 ---
-title: 'Conversational Commerce Tutorial Index'
-id: dxpuvazh5f4
+title: 'Conversational Commerce'
+id: 0ajv0rg42w9q
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:47.842Z
-updatedAt: 2024-10-31T17:06:47.842Z
+createdAt: 2024-11-05T15:13:24.102Z
+updatedAt: 2024-11-05T15:13:24.102Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:47.842Z
+firstPublishedAt: 2024-11-05T15:13:24.102Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: conversational-commerce
@@ -59,5 +59,5 @@ locale: pt
   - [Recupere checkouts abandonados com WhatsApp AI Campaigns](pt/docs/tutorial/recupere-checkouts-abandonados-com-whatsapp-ai-campaigns)
 
 
-  - [Conversational Commerce Tutorial Index](pt/docs/tutorial/index-pt-tutorial-conversational-commerce)
+  - [Conversational Commerce](pt/docs/tutorial/index-pt-tutorial-conversational-commerce)
 

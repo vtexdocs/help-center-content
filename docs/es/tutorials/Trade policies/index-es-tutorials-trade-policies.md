@@ -1,11 +1,11 @@
 ---
 title: 'Políticas comerciales Tutorial Index'
-id: k19h90tg0vd
+id: 9r5l4m83er
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.858Z
-updatedAt: 2024-10-31T17:06:48.858Z
+createdAt: 2024-11-05T15:13:27.168Z
+updatedAt: 2024-11-05T15:13:27.168Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.858Z
+firstPublishedAt: 2024-11-05T15:13:27.168Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: trade-policies

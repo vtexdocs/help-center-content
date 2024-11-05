@@ -1,11 +1,11 @@
 ---
 title: 'Envio Tutorial Index'
-id: lh7wp3rpvim
+id: 590oh6o7t9
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.065Z
-updatedAt: 2024-10-31T17:06:48.065Z
+createdAt: 2024-11-05T15:13:24.846Z
+updatedAt: 2024-11-05T15:13:24.846Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.065Z
+firstPublishedAt: 2024-11-05T15:13:24.846Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: shipping

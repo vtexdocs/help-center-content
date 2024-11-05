@@ -1,11 +1,11 @@
 ---
-title: 'Master Data Tutorial Index'
-id: v3wjtg35chc
+title: 'Master Data'
+id: tupf29q58e
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.302Z
-updatedAt: 2024-10-31T17:06:48.302Z
+createdAt: 2024-11-05T15:13:25.543Z
+updatedAt: 2024-11-05T15:13:25.543Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.302Z
+firstPublishedAt: 2024-11-05T15:13:25.543Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: master-data
@@ -69,5 +69,5 @@ locale: en
   - [Provisioning applications from a new store on Master Data](en/docs/tutorial/provisioning-applications-from-a-new-store-on-master-data)
 
 
-  - [Master Data Tutorial Index](en/docs/tutorial/index-en-tutorial-master-data)
+  - [Master Data](en/docs/tutorial/index-en-tutorial-master-data)
 

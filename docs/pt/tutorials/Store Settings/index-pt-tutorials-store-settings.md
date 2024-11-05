@@ -1,11 +1,11 @@
 ---
 title: 'Configurações da loja Tutorial Index'
-id: e2z6l6vaftg
+id: m9iu7n30s
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.069Z
-updatedAt: 2024-10-31T17:06:48.069Z
+createdAt: 2024-11-05T15:13:24.857Z
+updatedAt: 2024-11-05T15:13:24.857Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.069Z
+firstPublishedAt: 2024-11-05T15:13:24.857Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: store-settings

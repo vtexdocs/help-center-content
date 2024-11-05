@@ -1,11 +1,11 @@
 ---
-title: 'Apps Tutorial Index'
-id: wltwola5llg
+title: 'Apps'
+id: oatslqu3ago
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.536Z
-updatedAt: 2024-10-31T17:06:48.536Z
+createdAt: 2024-11-05T15:13:26.174Z
+updatedAt: 2024-11-05T15:13:26.174Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.536Z
+firstPublishedAt: 2024-11-05T15:13:26.174Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: apps
@@ -55,5 +55,5 @@ locale: es
   - [ Configurar el precio y la disponibilidad de SKUs por Region](es/docs/tutorial/configurar-el-precio-y-la-disponibilidad-de-skus-por-region)
 
 
-  - [Apps Tutorial Index](es/docs/tutorial/index-es-tutorial-apps)
+  - [Apps](es/docs/tutorial/index-es-tutorial-apps)
 

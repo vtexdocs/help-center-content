@@ -1,11 +1,11 @@
 ---
-title: 'Intelligent Search Tutorial Index'
-id: xmwqmc7tty
+title: 'Intelligent Search'
+id: 68nrcm59obm
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.283Z
-updatedAt: 2024-10-31T17:06:48.283Z
+createdAt: 2024-11-05T15:13:25.515Z
+updatedAt: 2024-11-05T15:13:25.515Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.283Z
+firstPublishedAt: 2024-11-05T15:13:25.515Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: intelligent-search
@@ -65,5 +65,5 @@ locale: en
   - [Synonyms](en/docs/tutorial/synonyms)
 
 
-  - [Intelligent Search Tutorial Index](en/docs/tutorial/index-en-tutorial-intelligent-search)
+  - [Intelligent Search](en/docs/tutorial/index-en-tutorial-intelligent-search)
 

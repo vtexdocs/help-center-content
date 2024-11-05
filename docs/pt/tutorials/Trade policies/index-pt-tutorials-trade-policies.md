@@ -1,11 +1,11 @@
 ---
 title: 'Políticas de comércio Tutorial Index'
-id: 5jqtc9cf2cj
+id: emydcsj75j7
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.112Z
-updatedAt: 2024-10-31T17:06:48.112Z
+createdAt: 2024-11-05T15:13:24.995Z
+updatedAt: 2024-11-05T15:13:24.995Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.112Z
+firstPublishedAt: 2024-11-05T15:13:24.995Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: trade-policies

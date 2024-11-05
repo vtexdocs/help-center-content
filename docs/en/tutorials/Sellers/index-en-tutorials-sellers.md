@@ -1,11 +1,11 @@
 ---
-title: 'Sellers Tutorial Index'
-id: kiqe6xwo68c
+title: 'Sellers'
+id: ln5jtqgoc0j
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.417Z
-updatedAt: 2024-10-31T17:06:48.417Z
+createdAt: 2024-11-05T15:13:25.790Z
+updatedAt: 2024-11-05T15:13:25.790Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.417Z
+firstPublishedAt: 2024-11-05T15:13:25.790Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: sellers
@@ -64,5 +64,5 @@ locale: en
   - [What is the difference between unbinding and removing a seller SKU?](en/docs/tutorial/what-is-the-difference-between-unbinding-and-removing-seller-sku)
 
 
-  - [Sellers Tutorial Index](en/docs/tutorial/index-en-tutorial-sellers)
+  - [Sellers](en/docs/tutorial/index-en-tutorial-sellers)
 

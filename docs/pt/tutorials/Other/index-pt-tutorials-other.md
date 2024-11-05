@@ -1,11 +1,11 @@
 ---
-title: 'Other Tutorial Index'
-id: 1znrdb7x5lf
+title: 'Other'
+id: pvb746zjtr
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:47.941Z
-updatedAt: 2024-10-31T17:06:47.941Z
+createdAt: 2024-11-05T15:13:24.461Z
+updatedAt: 2024-11-05T15:13:24.461Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:47.941Z
+firstPublishedAt: 2024-11-05T15:13:24.461Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: other
@@ -23,5 +23,5 @@ locale: pt
   - [VTEX Network](pt/docs/tutorial/vtex-network)
 
 
-  - [Other Tutorial Index](pt/docs/tutorial/index-pt-tutorial-other)
+  - [Other](pt/docs/tutorial/index-pt-tutorial-other)
 

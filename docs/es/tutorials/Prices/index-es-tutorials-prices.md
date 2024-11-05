@@ -1,11 +1,11 @@
 ---
 title: 'Precios Tutorial Index'
-id: ht07uvd464
+id: 99v5ce0y9gj
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.775Z
-updatedAt: 2024-10-31T17:06:48.775Z
+createdAt: 2024-11-05T15:13:26.897Z
+updatedAt: 2024-11-05T15:13:26.897Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.775Z
+firstPublishedAt: 2024-11-05T15:13:26.897Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: prices

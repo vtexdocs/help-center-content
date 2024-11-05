@@ -1,11 +1,11 @@
 ---
-title: 'Shipping Tutorial Index'
-id: kgzymfnvrm
+title: 'Shipping'
+id: ooie7xaqucn
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.434Z
-updatedAt: 2024-10-31T17:06:48.434Z
+createdAt: 2024-11-05T15:13:25.819Z
+updatedAt: 2024-11-05T15:13:25.819Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.434Z
+firstPublishedAt: 2024-11-05T15:13:25.819Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: shipping
@@ -114,5 +114,5 @@ locale: en
   - [VTEX Shipping Network: Ready to dispatch](en/docs/tutorial/ready-to-dispatch)
 
 
-  - [Shipping Tutorial Index](en/docs/tutorial/index-en-tutorial-shipping)
+  - [Shipping](en/docs/tutorial/index-en-tutorial-shipping)
 

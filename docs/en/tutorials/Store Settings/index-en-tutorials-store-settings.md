@@ -1,11 +1,11 @@
 ---
-title: 'Store Settings Tutorial Index'
-id: zvc2dpk93n
+title: 'Store Settings'
+id: wpd4ympiwg
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.436Z
-updatedAt: 2024-10-31T17:06:48.436Z
+createdAt: 2024-11-05T15:13:25.821Z
+updatedAt: 2024-11-05T15:13:25.821Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.436Z
+firstPublishedAt: 2024-11-05T15:13:25.821Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: store-settings
@@ -23,5 +23,5 @@ locale: en
   - [Store Settings Overview](en/docs/tutorial/store-settings-overview)
 
 
-  - [Store Settings Tutorial Index](en/docs/tutorial/index-en-tutorial-store-settings)
+  - [Store Settings](en/docs/tutorial/index-en-tutorial-store-settings)
 

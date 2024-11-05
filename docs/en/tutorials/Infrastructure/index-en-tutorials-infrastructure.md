@@ -1,11 +1,11 @@
 ---
-title: 'Infrastructure Tutorial Index'
-id: 8skre915rtr
+title: 'Infrastructure'
+id: p52fnr2pmdq
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.256Z
-updatedAt: 2024-10-31T17:06:48.256Z
+createdAt: 2024-11-05T15:13:25.455Z
+updatedAt: 2024-11-05T15:13:25.455Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.256Z
+firstPublishedAt: 2024-11-05T15:13:25.455Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: infrastructure
@@ -30,5 +30,5 @@ locale: en
   - [VTEX operation Service Level Agreement (SLA)](en/docs/tutorial/vtex-operation-service-level-agreement-sla)
 
 
-  - [Infrastructure Tutorial Index](en/docs/tutorial/index-en-tutorial-infrastructure)
+  - [Infrastructure](en/docs/tutorial/index-en-tutorial-infrastructure)
 

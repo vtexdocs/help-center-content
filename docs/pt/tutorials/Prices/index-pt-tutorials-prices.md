@@ -1,11 +1,11 @@
 ---
 title: 'Preços Tutorial Index'
-id: dgmrwtdmzyk
+id: l7pc805jzko
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.006Z
-updatedAt: 2024-10-31T17:06:48.006Z
+createdAt: 2024-11-05T15:13:24.646Z
+updatedAt: 2024-11-05T15:13:24.646Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.006Z
+firstPublishedAt: 2024-11-05T15:13:24.646Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: prices

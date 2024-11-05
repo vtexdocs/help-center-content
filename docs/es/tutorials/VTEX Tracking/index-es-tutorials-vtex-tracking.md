@@ -1,11 +1,11 @@
 ---
-title: 'VTEX Tracking Tutorial Index'
-id: 9kt0m5z5sn5
+title: 'VTEX Tracking'
+id: ob9u7jbj4wg
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.901Z
-updatedAt: 2024-10-31T17:06:48.901Z
+createdAt: 2024-11-05T15:13:27.252Z
+updatedAt: 2024-11-05T15:13:27.252Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.901Z
+firstPublishedAt: 2024-11-05T15:13:27.252Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: vtex-tracking
@@ -69,5 +69,5 @@ locale: es
   - [Vehículos (VTEX Tracking)](es/docs/tutorial/veiculos-vtex-tracking)
 
 
-  - [VTEX Tracking Tutorial Index](es/docs/tutorial/index-es-tutorial-vtex-tracking)
+  - [VTEX Tracking](es/docs/tutorial/index-es-tutorial-vtex-tracking)
 

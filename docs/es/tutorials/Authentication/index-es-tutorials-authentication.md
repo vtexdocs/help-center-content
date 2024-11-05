@@ -1,11 +1,11 @@
 ---
 title: 'Autenticación Tutorial Index'
-id: rmgav32kj7n
+id: zkvk06d5m0p
 status: PUBLISHED
-createdAt: 2024-10-31T17:06:48.540Z
-updatedAt: 2024-10-31T17:06:48.540Z
+createdAt: 2024-11-05T15:13:26.191Z
+updatedAt: 2024-11-05T15:13:26.191Z
 publishedAt: 
-firstPublishedAt: 2024-10-31T17:06:48.540Z
+firstPublishedAt: 2024-11-05T15:13:26.191Z
 contentType: tutorial
 productTeam: To be defined
 slugEN: authentication
