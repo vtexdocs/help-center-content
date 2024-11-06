@@ -3,7 +3,7 @@ title: 'Master Data'
 id: master-data
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-05T23:41:09.286Z
+updatedAt: 2024-11-06T19:28:52.287Z
 contentType: tutorial
 productTeam: Master Data
 slugEN: master-data

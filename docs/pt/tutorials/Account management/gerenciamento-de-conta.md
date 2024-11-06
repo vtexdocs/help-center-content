@@ -3,9 +3,9 @@ title: 'Gerenciamento da conta'
 id: account-management
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-05T23:41:09.286Z
+updatedAt: 2024-11-06T19:28:52.287Z
 contentType: tutorial
-productTeam: Gerenciamento da conta
+productTeam: Identity
 slugEN: account-management
 locale: pt
 ---

@@ -3,9 +3,9 @@ title: 'Intelligent Search'
 id: intelligent-search
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-05T23:41:09.286Z
+updatedAt: 2024-11-06T19:28:52.287Z
 contentType: tutorial
-productTeam: Intelligent Search
+productTeam: Marketing & Merchandising
 slugEN: intelligent-search
 locale: es
 ---
