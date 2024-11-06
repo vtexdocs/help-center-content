@@ -62,7 +62,34 @@ function createCategoyIndexes(navigation) {
       const catSlug = category.slug[locale]
       const filePath = `docs/${locale}/tutorials/${categoryNameEn}/${catSlug}.md`
       const absoluteFilePath = path.resolve(filePath)
-      
+    
+      // Get productTeam from one of the articles in the category. If the navigation is displaying an article that doesn't exist in the repo, the script moves on to the next article or subcategory
+      let subCatIndex = 0
+      let articleIndex = 0
+      let productTeam = ''
+      while (1 == 1) {
+        try {
+          const givenSubcategoryNameEn = category.children[subCatIndex].name.en
+          const givenArticleSlug = category.children[subCatIndex].children[articleIndex].slug[locale]
+          const productTeamFilePath = path.resolve(`docs/${locale}/tutorials/${categoryNameEn}/${givenSubcategoryNameEn}/${givenArticleSlug}.md`)
+          const fileContent = fs.readFileSync(productTeamFilePath, 'utf8')
+          productTeam = fileContent.split('productTeam: ')[1].split('\n')[0]
+
+          break
+        } catch {
+          const numberOfArticlesInSubcat = category.children[subCatIndex].children.length
+
+          if (articleIndex >= numberOfArticlesInSubcat) {
+            subCatIndex += 1
+            articleIndex = 0
+          } else {
+            articleIndex += 1
+          }
+          continue
+        }
+      }
+
+      // Begin assembling markdown content by the frontmatter      
       let markdown = `---\n` +
       `title: '${category.name[locale]}'\n` +
       `id: ${category.slug.en}\n` +
@@ -70,7 +97,7 @@ function createCategoyIndexes(navigation) {
       `createdAt: 2024-11-05T19:06:37.704Z\n` +
       `updatedAt: ${updatedAt}\n`+
       `contentType: tutorial\n` +
-      `productTeam: ${category.name[locale]}\n` +
+      `productTeam: ${productTeam}\n` +
       `slugEN: ${category.slug.en}\n` +
       `locale: ${locale}\n` +
       `---\n\n`
