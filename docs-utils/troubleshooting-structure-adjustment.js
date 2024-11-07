@@ -11,11 +11,9 @@ for (locale of locales) {
   }
 }
 
-function moveArticleTagsToFrontmatter() {
+function moveArticleTagsToFrontmatter(filePath) {
 
-    const testingPath = path.resolve(`../help-center-content/docs/en/troubleshooting/Integrations/integration-errors-in-amazon-orders.md`)
-
-    const fileContent = fs.readFileSync(testingPath, 'utf-8')
+    const fileContent = fs.readFileSync(filePath, 'utf-8')
 
     const tags = fileContent.split('**Tags:**')[1].split('\n')[0]
     const frontMatter = fileContent.split('---')[1]
@@ -24,11 +22,26 @@ function moveArticleTagsToFrontmatter() {
     // Assemble everything
     const newContent = '---'+frontMatter+`tags: ${tags}\n---\n\n`+text
 
-    console.log(newContent)
+    fs.writeFileSync(filePath, newContent)
 }
 
-function moveAllTags() {}
+function moveAllTags(folderPath) {
+    
+    const folderContent = fs.readdirSync(folderPath)
+    for (dir of folderContent) {
+        dir = `${folderPath}/${dir}`
+        console.log(dir)
+        if (fs.statSync(dir).isFile() && (dir.endsWith('.md') || dir.endsWith('.mdx'))) {
+            console.log('if')
+            moveArticleTagsToFrontmatter(dir)
+        } else {
+            moveAllTags(dir)
+        }
+    }
+}
 
 // moveContent()
-// moveAllTags()
-moveArticleTagsToFrontmatter()
+for (locale of locales) {
+    const newPath = path.resolve(`../help-center-content/docs/${locale}/troubleshooting`)
+    moveAllTags(newPath)
+}
