@@ -3,14 +3,6 @@ const path = require('path');
 
 const locales = ['en', 'pt', 'es']
 
-function moveContent() {
-for (locale of locales) {
-      const oldPath = path.resolve(`../help-center-content/docs/${locale}/tutorials/troubleshooting`)
-      const newPath = path.resolve(`../help-center-content/docs/${locale}/troubleshooting`)
-      fs.renameSync(oldPath, newPath)
-  }
-}
-
 function moveArticleTagsToFrontmatter(filePath) {
 
     const fileContent = fs.readFileSync(filePath, 'utf-8')
@@ -40,8 +32,9 @@ function moveAllTags(folderPath) {
     }
 }
 
-// moveContent()
 for (locale of locales) {
+    const oldPath = path.resolve(`../help-center-content/docs/${locale}/tutorials/troubleshooting`)
     const newPath = path.resolve(`../help-center-content/docs/${locale}/troubleshooting`)
+    fs.renameSync(oldPath, newPath)
     moveAllTags(newPath)
 }
