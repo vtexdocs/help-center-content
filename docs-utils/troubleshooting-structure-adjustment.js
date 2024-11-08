@@ -32,9 +32,13 @@ function moveAllTags(folderPath) {
     }
 }
 
-for (locale of locales) {
-    const oldPath = path.resolve(`../help-center-content/docs/${locale}/tutorials/troubleshooting`)
-    const newPath = path.resolve(`../help-center-content/docs/${locale}/troubleshooting`)
-    fs.renameSync(oldPath, newPath)
-    moveAllTags(newPath)
+async function adjustTroubleshootingContent() {
+    for (locale of locales) {
+        const oldPath = path.resolve(`../help-center-content/docs/${locale}/tutorials/troubleshooting`)
+        const newPath = path.resolve(`../help-center-content/docs/${locale}/troubleshooting`)
+        fs.renameSync(oldPath, newPath)
+        moveAllTags(newPath)
+    }
 }
+
+module.exports = { adjustTroubleshootingContent }
