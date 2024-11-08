@@ -6,15 +6,17 @@ const locales = ['en', 'pt', 'es']
 function moveArticleTagsToFrontmatter(filePath) {
 
     const fileContent = fs.readFileSync(filePath, 'utf-8')
-
-    const tags = fileContent.split('**Tags:**')[1].split('\n')[0]
-    const frontMatter = fileContent.split('---')[1]
-    const text = fileContent.split('---')[2].replace(/^.*Tags:.*$/m, '').trim()
-
-    // Assemble everything
-    const newContent = '---'+frontMatter+`tags: ${tags}\n---\n\n`+text
-
-    fs.writeFileSync(filePath, newContent)
+    
+    if (fileContent.includes('**Tags:**')) {
+        const tags = fileContent.split('**Tags:**')[1].split('\n')[0]
+        const frontMatter = fileContent.split('---')[1]
+        const text = fileContent.split('---')[2].replace(/^.*Tags:.*$/m, '').trim()
+    
+        // Assemble everything
+        const newContent = '---'+frontMatter+`tags: ${tags}\n---\n\n`+text
+    
+        fs.writeFileSync(filePath, newContent)
+    }
 }
 
 function moveAllTags(folderPath) {
@@ -24,7 +26,6 @@ function moveAllTags(folderPath) {
         dir = `${folderPath}/${dir}`
         console.log(dir)
         if (fs.statSync(dir).isFile() && (dir.endsWith('.md') || dir.endsWith('.mdx'))) {
-            console.log('if')
             moveArticleTagsToFrontmatter(dir)
         } else {
             moveAllTags(dir)
