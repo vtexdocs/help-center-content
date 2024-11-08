@@ -8,6 +8,20 @@ You will find the following folders in this repository:
 
 -TBD
 
+## Troubleshooting tags
+
+We use tags in troubleshooting articles to make it easier for our readers to filter and find content.
+
+When publishing a troubleshooting article, you can add up to five tags, by adding them in the `tags` frontmatter field, separated by comma. See an example below:
+
+```
+---
+...
+tags:  Orders, Integration, Marketplace, Amazon
+...
+---
+```
+
 ## Contributing with Help Center Portal documentation
 
 We're so glad you're here! Thanks for being interested.
