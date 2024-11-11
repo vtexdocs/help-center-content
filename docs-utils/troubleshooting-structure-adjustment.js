@@ -36,6 +36,7 @@ function moveAllTags(folderPath) {
 }
 
 async function adjustTroubleshootingContent() {
+    console.log('Adjusting troubleshooting content')
     for (locale of locales) {
         const oldPath = path.resolve(`../help-center-content/docs/${locale}/tutorials/troubleshooting`)
         const newPath = path.resolve(`../help-center-content/docs/${locale}/troubleshooting`)
