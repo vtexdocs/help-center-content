@@ -26,8 +26,10 @@ function moveAllTags(folderPath) {
         dir = `${folderPath}/${dir}`
         console.log(dir)
         if (fs.statSync(dir).isFile() && (dir.endsWith('.md') || dir.endsWith('.mdx'))) {
+            console.log('FILE')
             moveArticleTagsToFrontmatter(dir)
         } else {
+            console.log('FOLDER')
             moveAllTags(dir)
         }
     }
