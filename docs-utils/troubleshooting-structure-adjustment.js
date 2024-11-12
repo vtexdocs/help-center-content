@@ -21,6 +21,7 @@ function moveArticleTagsToFrontmatter(filePath) {
 
 function moveAllTags(folderPath) {
     
+    console.log('Adjusting tags')
     const folderContent = fs.readdirSync(folderPath)
     for (dir of folderContent) {
         dir = `${folderPath}/${dir}`
@@ -38,9 +39,9 @@ function moveAllTags(folderPath) {
 async function adjustTroubleshootingContent() {
     console.log('Adjusting troubleshooting content...')
     for (locale of locales) {
-        // const oldPath = path.join(__dirname,`../../docs/${locale}/tutorials/troubleshooting`)
+        const oldPath = path.join(__dirname,`../../docs/${locale}/tutorials/troubleshooting`)
         const newPath = path.join(__dirname,`../../docs/${locale}/troubleshooting`)
-        // fs.renameSync(oldPath, newPath)
+        fs.renameSync(oldPath, newPath)
         moveAllTags(newPath)
     }
 }
