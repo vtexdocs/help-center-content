@@ -1,3 +1,4 @@
+// We couldn't get this to work by being called at index.js. This has to be run manually
 const fs = require('fs');
 const path = require('path');
 
@@ -39,11 +40,13 @@ function moveAllTags(folderPath) {
 async function adjustTroubleshootingContent() {
     console.log('Adjusting troubleshooting content...')
     for (locale of locales) {
-        // const oldPath = path.resolve(`/docs/${locale}/tutorials/troubleshooting`)
+        const oldPath = path.resolve(`/docs/${locale}/tutorials/troubleshooting`)
         const newPath = path.resolve(`../docs/${locale}/troubleshooting`)
         fs.renameSync(oldPath, newPath)
         moveAllTags(newPath)
     }
 }
+
+adjustTroubleshootingContent()
 
 module.exports = { adjustTroubleshootingContent }
