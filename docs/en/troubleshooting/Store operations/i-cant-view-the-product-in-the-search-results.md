@@ -13,9 +13,8 @@ slugEN: i-cant-view-the-product-in-the-search-results
 locale: en
 legacySlug: i-cant-view-the-product-in-the-search-results
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:  Product, Search, Catalog, Intelligent search, Rewriter
 ---
-
-**Tags:** Product, Search, Catalog, Intelligent search, Rewriter
 
 When the user searches in a VTEX store using [Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), the desired product may not be found, even if the search term is included in the item's information.
 

@@ -13,9 +13,8 @@ slugEN: admin-redirect-search-returns-no-results
 locale: en
 legacySlug: admin-redirect-search-returns-no-results
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:  Redirects
 ---
-
-**Tags:** Redirects
 
 When the number of redirects is too high, the Redirects page in the Admin can't process the search. This results in no returned results when the search is run. For more details on the Redirects page, see [Managing URL redirects by binding](https://help.vtex.com/en/tutorial/managing-redirects-per-binding--67GAK2TCQgjvmtPXxAqREb).
 

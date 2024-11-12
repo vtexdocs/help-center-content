@@ -13,9 +13,8 @@ slugEN: i-havent-received-the-email-with-the-report-exported-from-master-data-v1
 locale: es
 legacySlug: que-hacer-cuando-mi-informe-de-exportaciones-no-llega-al-email
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:  Master Data v1, Informe, Exportación
 ---
-
-**Tags:** Master Data v1, Informe, Exportación
 
 Cuando se [exporta un informe con datos de Master Data v1](https://help.vtex.com/es/tutorial/exportando-dados--tutorials_1125), dicho informe se envía al email ingresado durante la exportación. Sin embargo, es posible que el email tarde más de lo previsto en llegar a la bandeja de entrada.
 

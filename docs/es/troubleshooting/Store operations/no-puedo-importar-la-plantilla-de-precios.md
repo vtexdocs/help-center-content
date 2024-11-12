@@ -13,9 +13,8 @@ slugEN: i-cant-import-the-price-table
 locale: es
 legacySlug: no-puedo-importar-la-plantilla-de-precios
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:  Precios, Importación de plantillas
 ---
-
-**Tags:** Precios, Importación de plantillas
 
 Las [tablas o plantillas de precio](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) almacenan información de SKU que tras aplicarse en determinados contextos, como políticas comerciales, promociones o clústeres de clientes, permiten calcular los valores de venta de los productos en una tienda VTEX. Para más información, consulta [Precio base](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) y [Precio fijo](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy).
 
