@@ -45,6 +45,4 @@ async function adjustTroubleshootingContent() {
     }
 }
 
-adjustTroubleshootingContent()
-
 module.exports = { adjustTroubleshootingContent }
