@@ -3,8 +3,8 @@ title: 'Promotion not applied to the marketplace'
 id: 2pxlVpzgThuw2wTEISRwA2
 status: PUBLISHED
 createdAt: 2024-08-15T11:38:33.808Z
-updatedAt: 2024-08-16T11:47:50.872Z
-publishedAt: 2024-08-16T11:47:50.872Z
+updatedAt: 2024-11-08T19:26:57.952Z
+publishedAt: 2024-11-08T19:26:57.952Z
 firstPublishedAt: 2024-08-15T19:18:48.612Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: promotion-not-applied-to-the-marketplace
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-__Tags/Keywords:__ promotion, marketplace, trade policy, affiliate.
+**Tags:** Promotions, Marketplace, Trade policy, Affiliate
 
 Users may experience difficulties when configuring promotions for marketplaces due to incorrect settings in the trade policy or affiliate field. This document provides guidelines to ensure the promotion is configured and applied correctly.
 
@@ -30,7 +30,7 @@ To solve the problem of promotions not being applied to marketplaces, review the
 3. Choose the desired trade policies associated with the marketplaces.
 4. Click `Save`.
 
-![Dados gerais promoção - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![Dados gerais promoção - EN](https://images.ctfassets.net/alneenqid6w5/76vrpI7cmKuOXgErtBGxqO/4112967ef88605dc4dd1830d0a073208/Dados_gerais_promo__o_-_EN.png)
 
 ### Selecting affiliates
 To ensure a promotion is applied correctly in a marketplace, select the desired affiliat The affiliate is the partner associated with the marketplace that makes the promotional products available. Below are the steps for correctly selecting an affiliate when configuring a promotion.
@@ -40,7 +40,7 @@ To ensure a promotion is applied correctly in a marketplace, select the desired 
   <li>Complete the <strong>Affiliates</strong> field with the name of the affiliate associated with the desired marketplace.</li>
 </ol>
 
-![condições para promoção - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
+![condições para promoção - EN](//images.ctfassets.net/alneenqid6w5/44j7gMDkkJVNZ0uhrDKpAr/340f8e92945f3b7682ec80b0b33df514/condi__es_para_promo__o_-_EN.png)
 
 <ol start="3">
   <li>In the <strong>Trade policy</strong> section, select the <code>Equal to</code> and <strong>Delivered by me (other stores)</strong> options.</li>

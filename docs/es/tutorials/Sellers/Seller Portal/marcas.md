@@ -17,7 +17,7 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 
 La página **Marcas** te permite ver, gestionar y registrar marcas en Seller Portal. Puedes acceder a la página en el Admin VTEX en **Catálogo** > **Marcas**.
 
-![brands-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Sellers/Seller Portal/marcas_1.PNG)
+![brands-es](https://images.ctfassets.net/alneenqid6w5/5fhVobFAoo4vZiNqjEIh8u/b663576009bbc4719d4091ba8ef46b5d/brands-es.PNG)
 
 ## Crear marcas 
 Para registrar una nueva marca, haz clic en el botón `Crear marca`. Mira a continuación cómo rellenar los campos en la pantalla __Nueva marca__.

@@ -3,8 +3,8 @@ title: 'Como identificar promoções aplicadas no carrinho?'
 id: frequentlyAskedQuestions_345
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:52.336Z
-updatedAt: 2023-02-14T21:10:00.343Z
-publishedAt: 2023-02-14T21:10:00.343Z
+updatedAt: 2024-11-11T16:52:36.224Z
+publishedAt: 2024-11-11T16:52:36.224Z
 firstPublishedAt: 2019-01-24T22:08:49.142Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

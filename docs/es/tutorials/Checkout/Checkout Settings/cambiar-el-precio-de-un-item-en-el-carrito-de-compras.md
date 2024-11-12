@@ -31,7 +31,7 @@ Después de [habilitar la funcionalidad](https://developers.vtex.com/vtex-rest-a
 3. Cambie el precio al valor deseado y presione `ENTER`.
 4. Haga clic en `Cerrar pedido`.
 
-![manualprice](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout Settings/cambiar-el-precio-de-un-item-en-el-carrito-de-compras_1.gif)
+![manualprice](https://images.ctfassets.net/alneenqid6w5/6lKNt1yT41wOQCRv5Yv6ge/a2c63f9fd22cbc180cb95ca790ab7b61/manualprice.gif)
 
 Además de la configuración en la pantalla de Checkout , el precio de un producto también se puede modificar a través de la API [Change Price](https://developers.vtex.com/vtex-rest-api/reference/pricechange), obtenga más información en [Setting the price of an item manually](https://developers.vtex.com/vtex-rest-api/docs/enable-the-manual-price#setting-the-price-of-an-item-manually).
 

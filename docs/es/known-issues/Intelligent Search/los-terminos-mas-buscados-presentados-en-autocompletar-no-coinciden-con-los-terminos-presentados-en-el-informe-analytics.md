@@ -3,8 +3,8 @@ title: 'Los términos más buscados presentados en autocompletar no coinciden co
 id: 6nVNhs1r0jD7ozJmW37PjU
 status: PUBLISHED
 createdAt: 2023-01-27T19:33:51.552Z
-updatedAt: 2023-01-27T19:33:51.953Z
-publishedAt: 2023-01-27T19:33:51.953Z
+updatedAt: 2024-10-30T16:04:38.219Z
+publishedAt: 2024-10-30T16:04:38.219Z
 firstPublishedAt: 2023-01-27T19:33:51.953Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: top-searches-terms-presented-in-autocomplete-are-not-in-accordance-with-terms-presented-in-the-analytics-report
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 741999
 ---
 

@@ -3,8 +3,8 @@ title: 'Busca de redirects no Admin não retorna resultados'
 id: 2u5cJhUSVM6bbEAFkgUww7
 status: PUBLISHED
 createdAt: 2024-07-24T13:41:02.016Z
-updatedAt: 2024-07-24T14:33:50.131Z
-publishedAt: 2024-07-24T14:33:50.131Z
+updatedAt: 2024-11-08T19:06:54.349Z
+publishedAt: 2024-11-08T19:06:54.349Z
 firstPublishedAt: 2024-07-24T14:13:11.586Z
 contentType: tutorial
 productTeam: Others
@@ -15,7 +15,7 @@ legacySlug: busca-de-redirects-no-admin-nao-retorna-resultados
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags/Palavras-chave:** redirect
+**Tags:** Redirects
 
 Quando o número de redirects é muito grande, a página Redirecionamentos no Admin não consegue processar a busca. Então, ao tentar realizar a busca, ela não retorna resultados. Para mais detalhes sobre a página Redirecionamentos, veja o artigo [Gerenciando redirecionamentos de URL por binding](https://help.vtex.com/pt/tutorial/gerenciando-redirecionamentos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb).
 

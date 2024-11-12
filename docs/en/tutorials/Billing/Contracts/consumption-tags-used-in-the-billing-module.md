@@ -1,10 +1,10 @@
 ---
 title: 'Consumption tags used in the billing module'
 id: 4v33NVnAEe6HTgbF6sOBF2
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-10-04T20:18:55.246Z
-updatedAt: 2024-10-10T20:11:50.273Z
-publishedAt: 2024-10-04T21:47:59.759Z
+updatedAt: 2024-10-31T18:40:41.214Z
+publishedAt: 2024-10-31T18:40:41.214Z
 firstPublishedAt: 2024-10-04T21:40:07.736Z
 contentType: tutorial
 productTeam: Billing
@@ -69,11 +69,11 @@ Below are the tags related to the channel through which the order is placed:
 
 The image below shows how the order is tagged based on its origin, both for the marketplace and the seller:
 
-![marcacao_pedidos_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![marcacao_pedidos_EN](https://images.ctfassets.net/alneenqid6w5/3q4rRQ1ATOB7vJGm2AfwNL/98b2b9314b3be0ce4f5bb74b9caf9157/marcacao_pedidos_EN.png)
 
->⚠️ The flow from `IsMarketplace` tags orders in the seller environment, while the flow from `IsSeller` tags orders in the marketplace environment.
+>⚠️ Due to commercial agreements, VTEX grants a type of certification to certain channels. When an order is generated in a channel that does not have this level of certification, there are no consumption tags by origin, and the order is tagged as `IsB2C`. In other words, only certified channels have consumption tags by origin.
 
-Each of these tags is described below.
+The flow from `IsMarketplace` tags orders in the seller environment, while the flow from `IsSeller` tags orders in the marketplace environment. Each of these tags is described below.
 
 ### Marketplace
 

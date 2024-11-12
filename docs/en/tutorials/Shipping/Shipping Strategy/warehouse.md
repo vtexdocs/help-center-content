@@ -3,8 +3,8 @@ title: 'Warehouse'
 id: 6oIxvsVDTtGpO7y6zwhGpb
 status: PUBLISHED
 createdAt: 2021-08-25T20:44:37.199Z
-updatedAt: 2021-10-26T20:21:12.244Z
-publishedAt: 2021-10-26T20:21:12.244Z
+updatedAt: 2024-11-05T18:01:30.919Z
+publishedAt: 2024-11-05T18:01:30.919Z
 firstPublishedAt: 2021-08-26T16:51:57.435Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -20,7 +20,7 @@ On the VTEX platform, warehouses are physical storage spaces for goods sold by t
 
 It is important to pay attention to the inventory logistics and how the settings on the VTEX platform affect order delivery. From the warehouse, orders are sent to loading docks, where they are picked up by the carriers. 
 
-![EstrategiaEnvio_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping Strategy/warehouse_1.svg)
+![EstrategiaEnvio_EN](https://images.ctfassets.net/alneenqid6w5/91iqVknOpCjUKO1XQaYvq/950f5a0342bba5b62dcd0bee100e8a71/Frame_2__3_.svg)
 
 >ℹ️ The carrier that will deliver a certain order is defined by the [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140). For a carrier to be selected to deliver the order, its shipping policy must meet the conditions required for the delivery of the order. The shipping policy is linked to the warehouse by the Loading dock.
 
@@ -41,12 +41,10 @@ Learn more about how to manage logistics components on the VTEX platform:
 >⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order:
 > <body>
 >
-> [Trade policy;](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+> [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)
 >
-> 2. [Shipping policy;](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)
+> [Loading dock](https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj)
 >
-> 3. [Loading dock;](https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj)
->
-> Warehouse.
+> Warehouse
 >
 > </body>

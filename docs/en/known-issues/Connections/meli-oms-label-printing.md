@@ -30,7 +30,7 @@ We are having some issues when clicking directly inside the button "etiqueta de 
 
 **Open the OMS order link and try to open "Correios" link.**
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/meli-oms-label-printing_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/0MMTMqtCADHwEFIb5KMcsYQWE/?name=image.png)
 
 
 

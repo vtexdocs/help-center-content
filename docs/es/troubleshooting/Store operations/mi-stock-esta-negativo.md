@@ -3,8 +3,8 @@ title: 'Mi stock está negativo'
 id: JSFHaWsASXbnrX9dgNEeP
 status: PUBLISHED
 createdAt: 2024-06-10T11:08:39.990Z
-updatedAt: 2024-06-10T17:21:47.755Z
-publishedAt: 2024-06-10T17:21:47.755Z
+updatedAt: 2024-11-08T18:37:40.459Z
+publishedAt: 2024-11-08T18:37:40.459Z
 firstPublishedAt: 2024-06-10T17:21:47.755Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: mi-stock-esta-negativo
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags/Palabras clave:** *stock, reserva, política comercial, admin VTEX, gestión de stock.*
+**Tags** Stock, Reserva, Política comercial, Admin VTEX
 
 Cuando la cantidad disponible de un producto se muestra negativa, es posible que haya más ítems [reservados](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92) de la cantidad indicada para el total de stock. Generalmente, este problema ocurre al registrar (dar de baja) un ítem en un pedido que todavía no está reservado por el sistema.
 

@@ -3,8 +3,8 @@ title: 'Formularios Cliente y Dirección no existen en multitienda'
 id: 46ETfuaGogKwaMau4ESAAM
 status: PUBLISHED
 createdAt: 2017-08-16T16:57:24.708Z
-updatedAt: 2024-10-03T22:05:45.312Z
-publishedAt: 2024-10-03T22:05:45.312Z
+updatedAt: 2024-11-08T19:34:18.052Z
+publishedAt: 2024-11-08T19:34:18.052Z
 firstPublishedAt: 2017-08-16T17:21:19.815Z
 contentType: tutorial
 productTeam: Master Data
@@ -15,7 +15,7 @@ legacySlug: creating-customer-and-address-forms-in-new-stores
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags / Keywords:** Master Data v1, customer, address, multistore
+**Tags:** Master Data v1, Customer, Address, Multistore
 
 In Master Data v1, the Customer and Address forms are, by default, only created in the account's main store. For this reason, when creating a [multistore](https://help.vtex.com/pt/tutorial/criar-subconta-multiloja-multidominio--tutorials_510), the forms are not created automatically.
 

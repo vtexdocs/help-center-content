@@ -29,9 +29,9 @@ Actualizar el nombre del usuario en la sección de inicio de sesión
 
 
 Cuando entramos por primera vez y rellenamos los datos nos trae un nombre en este apartado que es correcto.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Identity/actualizar-el-nombre-del-usuario-en-la-seccion-de-inicio-de-sesion_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/IJpYVAT1XewQUx4YnGtvGBL40/?name=image.png)
 Pero cuando editamos la información, la información que aparece no es la misma.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Identity/actualizar-el-nombre-del-usuario-en-la-seccion-de-inicio-de-sesion_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/uOiJZWmfl9qmC12H2ryHBQ3EA/?name=image.png)
 
 
 

@@ -31,5 +31,5 @@ Create a new dictionary in the CMS Module that has no previously registered Host
 
 In the CMS module, click on the magnifying glass and then on the "Clear" button to unlock the "Add" new host button.
 
-![PT - Criar dicionário não disponibiliza opção de "Add"](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing & Merchandising/add-option-not-available-when-creating-dictionary_1.png)
+![PT - Criar dicionário não disponibiliza opção de "Add"](//images.ctfassets.net/alneenqid6w5/7bUb8P0cVAGpEb2Do9oRLz/f1e0765bbcb26d36981c3fe76d268cd3/image__2_.png)
 

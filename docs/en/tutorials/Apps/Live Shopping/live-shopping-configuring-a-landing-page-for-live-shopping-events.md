@@ -17,7 +17,7 @@ subcategoryId: 6cSdymcqmJQIWXQKB1XJ54
 
 The Global Page feature provides a comprehensive view of past, present, and upcoming events associated with your account, enabling enhanced engagement and sales opportunities even after the events have concluded or before they occur. See the following example of a Global Page:
 
-![ls-global-page](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![ls-global-page](https://images.ctfassets.net/alneenqid6w5/wVAbH4INonaRzLuznTp3S/422f37bc2c16feb4994f439563e984c5/image.png)
 
 The Global Page incorporates the following key features:
 

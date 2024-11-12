@@ -35,7 +35,7 @@ La integración XML carga cualquier etiqueta relacionada con el precio, como min
 
 El resultado será un artículo no disponible, aún mostrándose en el XML, pero sin ninguna etiqueta de precio:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/las-etiquetas-xml-precio-relacionadas-no-cargan-el-contenido-de-los-articulos-no-disponibles_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/1CzUarsM3O05aG9z5otDZZ1Yg/?name=image.png)
 
 
 

@@ -20,7 +20,7 @@ Access to a VTEX account gives you access to the [support dashboard](https://sup
 - Going to any [Help Center](https://help.vtex.com/) page and click `Support` at the top or `Contact Us` at the bottom of the page.
 - Accessing the VTEX Admin, click the `?` question mark icon in the **Information Center** and choose the **Talk to Our Experts** option.
 
-![Support imagem 1 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/support-at-vtex/opening-tickets_1.gif)
+![Support imagem 1 - EN](https://images.ctfassets.net/alneenqid6w5/75ezzwg9iant6cmq04FhTz/c0f1b4654f82949a438f82b2416a11c7/support_imagem1_EN.gif)
 
 >ℹ️ Learn more about how to open a ticket and ticket types in the article [Opening tickets to VTEX support. ](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM)
 

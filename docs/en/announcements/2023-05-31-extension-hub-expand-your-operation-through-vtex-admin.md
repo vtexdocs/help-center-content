@@ -17,7 +17,7 @@ announcementSynopsisEN: 'The new VTEX Admin section to find partners, add featur
 
 Extensions Hub is a new section of VTEX Admin that gathers partner developers and merchants who want to expand their operation capabilities. Through Extensions Hub, partners can publish extensions, and merchants can view, purchase, install, and manage them. Extensions Hub will be available globally in all VTEX stores during the third quarter (Q3) of 2023. If you want to enable Extensions Hub in your store immediately, you can request it by [opening a ticket to our support](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
-![Extensions Hub GIF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023-05-31-extension-hub-expand-your-operation-through-vtex-admin_1.gif)
+![Extensions Hub GIF](https://images.ctfassets.net/alneenqid6w5/2J9kCcwWYl36mQjphjpoOv/e48b0ef19071288b6ed0cf7f6880dc16/Extensions_Hub.gif)
 
 ## What has changed?
 
@@ -47,7 +47,7 @@ The [Partner Portal website](https://partnerportal.vtex.com/) will remain unchan
 
 Extensions Hub will be available for all stores in the third quarter (Q3) of 2023. If you want to enable Extensions Hub in your store immediately, you can request it by [opening a ticket to our support](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM). Then, to start using the Extensions Hub, access it in your Admin. On the VTEX Admin left side menu, click the **Extensions** icon, and the Extensions Hub will be visible at the top of the menu.
 
-![Extensions Hub panel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023-05-31-extension-hub-expand-your-operation-through-vtex-admin_2.png)
+![Extensions Hub panel](//images.ctfassets.net/alneenqid6w5/6agEF92xgLL9slUgOgnI8j/3834f464b390752e71c65d675f6d4361/Extensions_Hub_panel_EN.png)
 
 ## Why did we make this change?
 

@@ -3,8 +3,8 @@ title: 'Boas práticas na utilização de chaves de aplicação'
 id: 7b6nD1VMHa49aI5brlOvJm
 status: PUBLISHED
 createdAt: 2022-10-04T21:36:57.185Z
-updatedAt: 2024-10-14T18:40:07.826Z
-publishedAt: 2024-10-14T18:40:07.826Z
+updatedAt: 2024-10-23T00:04:22.825Z
+publishedAt: 2024-10-23T00:04:22.825Z
 firstPublishedAt: 2022-10-04T21:41:08.638Z
 contentType: tutorial
 productTeam: Others
@@ -15,7 +15,7 @@ legacySlug: boas-praticas-na-utilizacao-de-chaves-de-aplicacao
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
-A VTEX dispõe de diversas APIs para que clientes e parceiros possam desenvolver integrações altamente personalizáveis ​​com a plataforma.  [Chaves de aplicação](https://help.vtex.com/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) são usadas para fornecer acesso seguro a dados consumidos por integrações, sem expor sua conta a usuários ou aplicativos não autorizados.
+A VTEX dispõe de diversas APIs para que clientes e parceiros possam desenvolver integrações altamente personalizáveis com a plataforma.  [Chaves de aplicação](https://help.vtex.com/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) são usadas para fornecer acesso seguro a dados consumidos por integrações, sem expor sua conta a usuários ou aplicativos não autorizados.
 
 >ℹ️ Este tipo de credencial é utilizado para autenticação de identidade via API.
 

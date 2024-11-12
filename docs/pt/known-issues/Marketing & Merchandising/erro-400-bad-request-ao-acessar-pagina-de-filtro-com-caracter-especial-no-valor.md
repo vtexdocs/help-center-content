@@ -20,7 +20,7 @@ internalReference:
 
 Ao aplicar um filtro por especificação (menu lateral) com caracter especial, o sistema retorna tela branca com o seguinte erro 400: "Bad Request! Scripts are not allowed!"
 
-![Filtro com erro 400](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing & Merchandising/erro-400-bad-request-ao-acessar-pagina-de-filtro-com-caracter-especial-no-valor_1.png)
+![Filtro com erro 400](//images.contentful.com/alneenqid6w5/zFVBtySVCoYSoCqEQioOw/b0ac0afcad2eb753d0c02cf14850e087/erro_400.png)
 
 ## Simulação
 

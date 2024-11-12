@@ -3,8 +3,8 @@ title: 'Importar y exportar plantilla de stock'
 id: tutorials_2034
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:43.488Z
-updatedAt: 2023-07-24T15:03:49.647Z
-publishedAt: 2023-07-24T15:03:49.647Z
+updatedAt: 2024-11-04T21:14:43.597Z
+publishedAt: 2024-11-04T21:14:43.597Z
 firstPublishedAt: 2017-04-27T23:03:50.695Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -64,10 +64,10 @@ A continuación, vea el significado de cada campo en la plantilla de almacén.
 - **WarehouseName** (texto): nombre del almacén, tal y como se registró en el módulo de estrategia de envío.  
 - **RefId** (texto): código de referencia del SKU.  
 - **IsActive** (texto): indica si el SKU está activo (`true`) o inactivo  (`false`) en el catálogo.  
-- **UnlimitedQuantity** (texto): indica si el stock del SKU se ha definido como stock infinito (true) o no (false).  
+- **UnlimitedQuantity** (texto): indica si el stock del SKU se ha definido como stock ilimitado (true) o no (false).  
 - **LockIds** (texto): código identificador de la reserva.  
 - **DispatchedReservations** (número): número de ítems del SKU que ya pasaron al status `Listo para preparar`, es decir, cuyas reservas ya se pagaron.  
 
 <div class = "alert alert-info">
-  Para incluir un artículo con stock infinito, debe rellenar el campo <b>TotalQuantity</b> con el valor <code>1000000</code> y cambiar el campo <b>UnlimitedQuantity</b> a <code>True</code>. 
+  Para incluir un artículo con stock ilimitado, debe rellenar el campo <b>TotalQuantity</b> con el valor <code>1000000</code> y cambiar el campo <b>UnlimitedQuantity</b> a <code>True</code>. 
 </code>

@@ -3,8 +3,8 @@ title: "How to remove the error message 'Request headers must only contain ASCII
 id: 19psKZvLXrBqqK1bPaTIHG
 status: PUBLISHED
 createdAt: 2024-07-25T16:54:41.663Z
-updatedAt: 2024-07-25T21:25:10.665Z
-publishedAt: 2024-07-25T21:25:10.665Z
+updatedAt: 2024-11-08T19:21:54.243Z
+publishedAt: 2024-11-08T19:21:54.243Z
 firstPublishedAt: 2024-07-25T21:21:03.197Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,13 +15,13 @@ legacySlug: removing-error-message-request-headers-must-only-contain-ascii
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-__Tags/Palavras-chave__: *request headers, ascii, special characters, devtools, headers, utm, custom javascript, script.*
+**Tags:** Request headers, UTM, Custom javascript
 
 The message "__Request headers must contain only ASCII characters__" can be displayed in the user's browser when they navigate the store and try to access a new page or perform an action on the site, such as adding items to the shopping cart.
 
 This scenario occurs if the requested page or feature contains a cookie with special characters (non-ASCII).
 
-![ascii_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![ascii_1](https://images.ctfassets.net/alneenqid6w5/geQO7G0cIDk7FmSjC9ZmQ/d2137c6c3021d640daf3631e02f941a8/ascii_1.png)
 
 Per [IETF](https://www.ietf.org/) (Internet Engineering Task Force) standards, the institution that documents the standards used on the internet, cookies should not contain special characters (non-ASCII). For more information on the characters accepted in cookies and headers, see [IETF - Request for Comments 7230 - Section 3.2.6 - Field Value Components](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2.6).
 
@@ -41,19 +41,19 @@ On the page where the message "__Request headers must contain only ASCII charact
 
   <blockquote><ui>2. In the top bar of the screen, go to the <b>Network</b> tab and sort the requests by clicking <b>Status</b>. The <b>400</b> information in the status indicates that a request has not been processed correctly, and there may be incorrect cookies among the possible errors.</ui>  
 
-![ascii 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
+![ascii 2](//images.ctfassets.net/alneenqid6w5/KAwQG2JiXozFU5Pjgjv3Z/eb74d2c115b78d65dd60b70da67bfd5b/ascii_2.png)
 
 <blockquote><ui>3. Click a request and then the <b>Preview</b> tab to identify whether the error found refers to the message "<b>Request headers must contain only ASCII characters</b>".</ui>
 
-![ascii 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
+![ascii 3](//images.ctfassets.net/alneenqid6w5/16XPfE6SIwVO8SkTxl9yuR/2151b1260e9f10a1327b5b6f4441ef23/ascii_3.png)
 
 <blockquote><ui>4. Click the <b>Headers</b> tab and copy the cookie details.</ui>
 
-![ascii 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png) 
+![ascii 4](//images.ctfassets.net/alneenqid6w5/1CwUNkSO895RfPCTTaO29l/305a23cbb5b90bfde1ca139c83978a92/ascii_4.png) 
 
 <blockquote><ui>5. Go to <a href="https://pages.cs.wisc.edu/~markm/ascii.html">online ASCII character validator</a> and enter the cookie information. If one or more special characters are identified, the types and positions will be displayed at the bottom of the character validator.</ui>     
 
-![ascii 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)  
+![ascii 5](//images.ctfassets.net/alneenqid6w5/2xwztAmvtrxpJQeusgwlpH/917872a195c9cce233a183a4f44b4677/ascii_5.png)  
 
 <blockquote><ui>6. Repeat steps 3 to 5 with all the requests that have errors to identify which of them contain cookies with special characters.</ui>      
 

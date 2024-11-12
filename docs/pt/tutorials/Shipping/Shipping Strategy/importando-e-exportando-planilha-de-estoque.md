@@ -3,8 +3,8 @@ title: 'Importar e exportar planilha de estoque'
 id: tutorials_2034
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:43.488Z
-updatedAt: 2023-07-24T15:03:49.647Z
-publishedAt: 2023-07-24T15:03:49.647Z
+updatedAt: 2024-11-04T21:14:43.597Z
+publishedAt: 2024-11-04T21:14:43.597Z
 firstPublishedAt: 2017-04-27T23:03:50.695Z
 contentType: tutorial
 productTeam: Post-purchase

@@ -22,7 +22,7 @@ internalReference: 751091
 
 
 Via UI (diretamente na VTEX admin) é possível criar um anexo sem o campo **Valores permitidos** preenchidos:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/atualizacao-de-anexos-e-criacao-de-validacao-api-em-campos-de-valores-de-dominio-que-nao-funcionam_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/8rFw6593yoVr64CViajezsXW0/?name=image.png)
 
 Entretanto, via API existe esta validação para este campo:
 

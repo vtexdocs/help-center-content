@@ -25,4 +25,4 @@ To configure this feature in your store, access the Admin and follow the instruc
 4. Select the __VTEX Store__ option.
 5. Check the box next to __"Enables B2B behavior"__ and save the changes.
 
-![Enable B2B scenario](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/Tutorials/store-access-permission_1.gif)
+![Enable B2B scenario](https://images.ctfassets.net/alneenqid6w5/Kxh1UuEyCT52qprSkBkeH/49fd977f929e7422641030804973cf2f/Habilitar_B2B.gif)

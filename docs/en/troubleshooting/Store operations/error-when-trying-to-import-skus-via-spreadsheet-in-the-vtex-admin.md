@@ -3,8 +3,8 @@ title: 'Error when trying to import SKUs via spreadsheet in the VTEX Admin'
 id: 1TDF87s7P1UJT1hNDGZsuk
 status: PUBLISHED
 createdAt: 2024-07-01T15:07:50.982Z
-updatedAt: 2024-07-22T18:56:05.856Z
-publishedAt: 2024-07-22T18:56:05.856Z
+updatedAt: 2024-11-08T18:35:44.943Z
+publishedAt: 2024-11-08T18:35:44.943Z
 firstPublishedAt: 2024-07-01T18:24:23.096Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -16,9 +16,7 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
 
-**Product tags:** *Catalog*, *SKU*
-
-**Keywords:** *catalog, sku, spreadsheet, import*
+**Product tags:** Catalog, SKU, Spreadsheet, Import
 
 After setting the category tree and adding [product specifications and SKUs](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#product-specification) to your store, you must complete the values for the specifications you created. In the VTEX Admin, you can do this process manually or using a spreadsheet when [adding products and SKUs](https://help.vtex.com/en/tutorial/adding-sku-specifications-or-fields--tutorials_119).
 If you get the message `"An error occurred in the data writing process. Make sure your worksheet data is consistent with the instructions and try again."` when importing SKUs via spreadsheet, this may be due to:

@@ -30,7 +30,7 @@ On VTEX Admin, the page **Storefront** > **Intelligent Search** > **Merchandisin
 * [Edit](#editing-merchandising-rules)
 * [Delete](#deleting-merchandising-rules)
 
-![merch-rules-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-intelligent-search/merchandising-rules_1.PNG)
+![merch-rules-en](https://images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/6b6dc34a4127cd654dab40fa17a70664/merch-rules-en.PNG)
 
 The page displays the following information: 
 

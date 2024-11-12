@@ -22,7 +22,7 @@ Primeiro, você já deve ter criado os links, caso não tenha criado clique aqui
 
 Agora é só criar seus anúncios no Facebook, Instagram e outras redes que utilizar, e inserir seu link no campo de texto. Seu cliente irá diretamente para a conversa no WhatsApp com a sua empresa.
 
-![Levar os visitantes do meu site e redes sociais para o WhatsApp 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/suiteshare/levar-os-visitantes-do-meu-site-e-redes-sociais-para-o-whatsapp_1.png)
+![Levar os visitantes do meu site e redes sociais para o WhatsApp 1](https://images.ctfassets.net/alneenqid6w5/44eCSKO1yJcy816ZA4wKlR/2f95d30387906b9d67ee953c6d484e31/Screenshot_2022-08-25_at_15-09-21_Levar_os_visitantes_do_meu_site_e_redes_sociais_para_o_WhatsApp.png)
 
 Além de levar o seu cliente diretamente para o WhatsApp de forma rápida e fácil, você ainda pode capturar informações diretamente para o seu CRM, analisar quais redes estão lhe trazendo mais clientes, além do Remarketing no seu link. 
 

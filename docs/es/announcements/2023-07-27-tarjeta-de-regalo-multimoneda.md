@@ -39,7 +39,7 @@ Para crear una tarjeta de regalo en una moneda concreta, sigue los pasos que se 
 4. Rellena los demás campos para crear la tarjeta de regalo.
 5. Haz clic en `Guardar`.
 
-![Tarjeta de regalo multimoneda](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023-07-27-tarjeta-de-regalo-multimoneda_1.PNG)
+![Tarjeta de regalo multimoneda](https://images.ctfassets.net/alneenqid6w5/5OBq7L6L2IeSOz5fBe6aRK/8908f1e2a6d350ebdbc3ae648aad5eec/GiftCard_Multicurrency_ES_1.PNG)
 
 Las monedas disponibles serán las mismas que las registradas en las [políticas comerciales](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) de cada tienda.
 

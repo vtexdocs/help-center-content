@@ -50,9 +50,9 @@ Es decir, estoy usando las variables `preposicaonomeloja2` y `nomeloja`.
 >⚠️ >
 > Al utilizar variables para crear un texto, reemplace el símbolo `#` por `@`. Es decir, **#variable#** se convierte **@variable@**.
 
-![textos-importantes es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Store Settings - Storefront/cambiar-los-textos-predeterminados-del-sistema_1.png)
+![textos-importantes es](https://images.ctfassets.net/alneenqid6w5/3Trct11oXCGe0EigiUA4g0/f701207101145a1222f5e45cb61d4073/textos_importantes_es.png)
 
-![exemplo-textos-da-loja es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Store Settings - Storefront/cambiar-los-textos-predeterminados-del-sistema_2.png)
+![exemplo-textos-da-loja es](//images.ctfassets.net/alneenqid6w5/vKgZfyW6dieKAqUy242OC/f57ed59d90b2db3ae86d77b62dea3a69/3_es.png)
 
 Como defini que el contenido de la primera variable es "a" y el de la segunda es "VtexArgentina", el texto final renderizado en el sitio será "Bienvenido a VtexArgentina".
 

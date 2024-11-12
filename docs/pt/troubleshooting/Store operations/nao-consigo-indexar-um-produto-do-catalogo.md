@@ -3,8 +3,8 @@ title: 'Não consigo indexar um produto do catálogo'
 id: 5ZKLTqnCyGbWEYGPTCBIxI
 status: PUBLISHED
 createdAt: 2024-09-06T13:35:52.255Z
-updatedAt: 2024-09-09T13:47:11.853Z
-publishedAt: 2024-09-09T13:47:11.853Z
+updatedAt: 2024-11-08T20:16:41.657Z
+publishedAt: 2024-11-08T20:16:41.657Z
 firstPublishedAt: 2024-09-06T20:54:50.631Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: nao-consigo-indexar-um-produto-do-catalogo
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags/Palavras-chave**: catálogo, indexação, produto, SKU, preço, estoque, coleção, política comercial.
+**Tags:** Catálogo, Indexação, Produto, SKU, Política comercial
 
 O processo de indexação permite que dados de um produto, tais como informações de catálogo, preço e estoque, sejam reunidos e organizados para serem exibidos aos clientes na busca e na prateleira da loja.
 
@@ -115,5 +115,5 @@ Contas com 100 mil produtos ou mais cadastrados devem entrar em contato com o [S
 
 Saiba mais em [Manutenção de base (full cleanup)](https://help.vtex.com/pt/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
 
-![Agendar reindexação completa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)  
+![Agendar reindexação completa](https://images.ctfassets.net/alneenqid6w5/65cBrSeyPnEY1FgnRUvnU8/c81ed93159d45d9a9e7569113dec445c/Agendar_reindexa__o_completa.png)  
 

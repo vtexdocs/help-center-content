@@ -3,8 +3,8 @@ title: 'O pedido foi dividido em pacotes com entregas distintas'
 id: 3OCOC82543vOsc3Ex32XTY
 status: PUBLISHED
 createdAt: 2024-06-19T15:03:37.373Z
-updatedAt: 2024-06-19T15:13:11.172Z
-publishedAt: 2024-06-19T15:13:11.172Z
+updatedAt: 2024-11-08T18:54:00.106Z
+publishedAt: 2024-11-08T18:54:00.106Z
 firstPublishedAt: 2024-06-19T15:13:11.172Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: o-pedido-foi-dividido-em-pacotes-com-entregas-distintas
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags / Palavras-chave:** entregas distintas, split de pedido, pacotes, remessa, produtos de pré-venda.
+**Tags:** Entregas distintas, Split de pedido, Pacotes, Remessa, Pré-venda
 
 Na VTEX, há situações em que o cliente recebe seu pedido dividido em vários pacotes, independentemente de haver ou não uma [divisão do pedido](https://help.vtex.com/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV) na plataforma. O cliente pode receber os itens do pedido em pacotes distintos nos seguintes casos:
 

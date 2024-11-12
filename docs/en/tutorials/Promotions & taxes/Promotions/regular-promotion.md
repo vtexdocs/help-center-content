@@ -3,8 +3,8 @@ title: 'Regular Promotion'
 id: tutorials_327
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:59.690Z
-updatedAt: 2024-09-30T17:08:36.641Z
-publishedAt: 2024-09-30T17:08:36.641Z
+updatedAt: 2024-11-11T17:41:11.457Z
+publishedAt: 2024-11-11T17:41:11.457Z
 firstPublishedAt: 2017-04-27T23:03:15.647Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -84,7 +84,7 @@ For the promotion to be valid for all sales policies, leave the checkboxes empty
 
 In this section, you need to choose whether this promotion will apply to all products in your store or only to specific products, as illustrated below.
 
-![promocoes-restricao-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/regular-promotion_1.png)
+![promocoes-restricao-en](https://images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/adc5cdd25eb79636530e31e668b765e3/image.png)
 
 If you want the promotion to apply to your entire catalog, select the **Apply to all products** option.
 
@@ -94,7 +94,7 @@ You can add or remove **Categories**, **Brands**, **Collections**, **Products** 
 
 See an example below. In this case, the promotion includes all products from the category **Home Appliances** whose brand is **Brastemp**, except the product **Refrigerator 100**.
 
-![exemplo-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/regular-promotion_2.png)
+![exemplo-en](//images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
 
 In the **Products** and **SKUs** fields, you can opt to upload a **.txt** file with one product or SKU ID per row instead of selecting one product or one SKU at a time. To do this, click on **Choose file** and select your **.txt** file.
 
@@ -149,5 +149,5 @@ The customer's request must meet the conditions added in this section to be vali
 - **How many times will your promotion be applied in your store:** Limits how many times the promotion can be applied. When the **unlimited** option is not selected, a field becomes available to set how many times you want the limit to be. Once the promotion is created, this condition will only be applied from the day it was configured, not affecting previous orders.
 - **How many times will your promotion be applied in your store for each client:** This restriction is not related to the global usage of the promotion, but to how many times each customer can receive this promotion. If the field above is also selected, its priority will come before this limit.
 - **Define maximum quantity of affected items by cart**: Sets how many items will be affected by the promotion from those present in the shopping cart. Find out how to configure this field in [this article](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#limite-de-itens-com-promocao-no-carrinho).
-- **Allow accumulated promotions:** Allows more than one promotion with the same discount type to apply concomitantly. For more information, read our articles on the [competition of promotions](https://help.vtex.com/en/tutorial/about-promotions-competition--tutorials_2270#).
-- **Allow to accumulate with manual prices:** Allows the promotion to apply to products whose prices have been manually added by a call-center operator. To enable manual pricing functionality, use the endpoint [Update orderForm configuration](https://developers.vtex.com/reference/configuration#updateorderformconfiguration).
+- **Allow combined promotions:** Allows more than one promotion with the same discount type to apply concomitantly. For more information, read our articles on the [competition of promotions](https://help.vtex.com/en/tutorial/about-promotions-competition--tutorials_2270#).
+- **Allow to combination with manual prices:** Allows the promotion to apply to products whose prices have been manually added by a call-center operator. To enable manual pricing functionality, use the endpoint [Update orderForm configuration](https://developers.vtex.com/reference/configuration#updateorderformconfiguration).

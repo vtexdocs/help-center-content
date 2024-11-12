@@ -22,6 +22,6 @@ Mas lembre-se: uma recorrência só aparece na listagem depois que seu pagamento
 1. Acesse o módulo __Gerenciamento de Pedidos__.
 2. Clique na aba __Assinaturas__.
 
-![subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription Guides/onde-vejo-os-clientes-que-usam-recorrencia_1.png)
+![subscriptions PT](https://images.ctfassets.net/alneenqid6w5/yF4h1Bs3Ys2gU4kYGCkyK/feb155bc4414f904db25aea5dc0f12e8/subscriptions_PT.png)
 
 

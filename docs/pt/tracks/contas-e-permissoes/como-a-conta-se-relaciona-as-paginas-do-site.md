@@ -20,7 +20,7 @@ O **website binding** é o que faz a ponte entre o CMS e as informações defini
 
 Para vinculá-lo, basta conferir nosso [artigo sobre vincular um account name a um website.](https://help.vtex.com/pt/tutorial/vincular-um-account-name-a-um-website-binding?locale=pt)  
 
-![Binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/contas-e-permissoes/como-a-conta-se-relaciona-as-paginas-do-site_1.png)
+![Binding](https://images.contentful.com/alneenqid6w5/2selXSrkaoWaqUug24Mewm/bfea4f2413f1433c6cc2b80d8c7c9a93/Binding-min.png)
 
 A configuração acima é realizada quando uma conta deseja ter mais de uma loja.
 **Multiloja** ou multidomínio é quando mais de uma loja é administrada dentro de um mesmo painel administrativo VTEX.

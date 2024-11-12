@@ -17,7 +17,7 @@ subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 
 Your store's campaign audience list is available in the VTEX Admin, on the *Promotions > Campaign audience* page, illustrated below.
 
-![lista-audiencias-campanha-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Campaign Audiences/campaign-audiences-list_1.png)
+![lista-audiencias-campanha-en](https://images.ctfassets.net/alneenqid6w5/3OyfWyVN0MMA5qpgjxtGyM/cec59b7c69282287586b1db574aedfe7/lista-audiencias-campanha-en.png)
 
 On this page, you can perform the following actions:
 
@@ -48,7 +48,7 @@ The campaign audiences are displayed in _cards_ containing the following informa
 
 To view the [archived](#archiving-a-campaign-audience) campaign audiences, next to the **Show** option, click **Archived**, as illustrated below:
 
-![toggle-audiencias-campanha-arquivadas-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Campaign Audiences/campaign-audiences-list_2.png)
+![toggle-audiencias-campanha-arquivadas-en](//images.ctfassets.net/alneenqid6w5/7CMyMTQVHoWU7h8NMGlmwA/853066310add51cccf742dc10ea0283b/toggle-audiencias-campanha-arquivadas-en.png)
 
 To return to the campaign audiences which have not been archived, click **Not Archived**.
 
