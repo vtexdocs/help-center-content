@@ -19,13 +19,13 @@ Vtex DO es un administrador de tareas generadas por los módulos de la plataform
 
 Para visualizar el listado de tareas, basta hacer clic en el canto inferior derecho de la pantalla del Gestión de Pedidos.  Algunos ejemplos de esas tareas son: __revisar pago para cancelar; extornar pago; autorizar pedido con alzada, cancelación requerida y muchas otras,__ pues cada módulo existente en Vtex tiene la autonomía y permiso para publicar cualquier información.
 
-![](https://images.contentful.com/alneenqid6w5/6CypzWJhLye2OOW6QqEKu0/fce59ed1fedbb5f8889b1cb5f3ec4bf2/VtexDO_GifAbrir.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 Esa funcionalidad permite al usuario las siguientes acciones: asignar las tareas a alguien (hasta para sí propio), señalarlas como resueltas, añadir un comentario y ver más detalles, que es la redirección para donde es necesario hacer la tarea. Existen los botones adiar e ignorar, pero son futuras acciones que se están desarrollándose todavía.
 
 ## Asignar y desasignar una tarea a sí propio
 
-![](//images.contentful.com/alneenqid6w5/hSiaD565VuWwKUmWuwucO/a7f7a04e378a43e14cc0ed8469deb573/VtexDO_GifAtribuirTarefaProprio.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 
 ### Asignar una tarea:
 - Abra el Vtex DO;
@@ -38,7 +38,7 @@ Esa funcionalidad permite al usuario las siguientes acciones: asignar las tareas
 
 ## Asignar y desasignar una tarea a otro usuario
 
-![](//images.contentful.com/alneenqid6w5/xTb2Dtb79ueKEiESCWi2y/05af0e238ac055a992b612381d3acd42/VtexDO_GifAtribuirTarefaTerceiros.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.gif)
 
 ### Asignar una tarea:
 - Abra el VTEX DO;
@@ -55,7 +55,7 @@ _Las tareas que son asignadas a usted surgen en la pestaña denominada “MÍAS�
 
 ## Filtrar una tarea
 
-![](//images.contentful.com/alneenqid6w5/1o6DK8SFHiuWwcESKScaqE/a616812c5d48431cf5383dbd204c511f/VtexDO_GifFiltro.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.gif)
 
 Es posible filtrar a través de la barra de búsqueda utilizando: el nombre de la tarea, nombre del usuario que está asignado a ellas o comentario insertado. Permite aún filtrar de acuerdo con el módulo que publicó la tarea.
 
@@ -73,7 +73,7 @@ Como el objetivo de la funcionalidad es realizar las tareas, una facilidad que e
 
 ## Realizar la tarea
 
-![](//images.contentful.com/alneenqid6w5/5nxobC9IVUGUe8CQoaI02I/84ac62df3673e85a379d3c9f409ef999/VtexDO_GifFazerTarefa.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.gif)
 
 1. Abra el Vtex DO;
 2. Haga clic sobre la tarea que desea realizar;
@@ -85,7 +85,7 @@ Para que se mantenga el VTEX DO de forma organizada, el ideal es finalizar la ta
 
 ## Finalizar o reabrir una tarea
 
-![](//images.contentful.com/alneenqid6w5/5Uc9dUfGusGcoAW6iw4EOa/52d9aa14d083b08e66fd4f9453cf1813/VtexDO_GifFinalizarTarefa.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.gif)
 
 ### Para finalizar una tarea:
 - Abra el VTEX DO;
@@ -101,7 +101,7 @@ Aún con el intuito de organizar esas tareas y formalizar la comunicación a tra
 
 ## Insertar un comentario
 
-![](//images.contentful.com/alneenqid6w5/5SrDSFwNIkokms4ayga2oo/86862b1896fabd96b34344318fd553fb/VtexDO_GifInserirComentario.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.gif)
 
 1. Abra el VTEX DO;
 2. Haga clic sobre la tarea que desea realizar un comentario;
@@ -110,4 +110,4 @@ Aún con el intuito de organizar esas tareas y formalizar la comunicación a tra
 
 Como hay la posibilidad de ejecutar las acciones del Vtex DO con él abierto, para cerrarlo es necesario hacer clic en la saeta para bajo, conforme en el gif abajo:
 
-![](//images.contentful.com/alneenqid6w5/6N34IAYvdKyYAa6KCIM2AO/670277853327aa793c851d8a0ce99b2a/VtexDO_GifFechar.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_8.gif)

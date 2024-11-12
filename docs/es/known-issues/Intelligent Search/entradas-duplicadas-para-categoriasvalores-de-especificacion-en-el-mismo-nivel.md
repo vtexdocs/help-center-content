@@ -24,7 +24,7 @@ internalReference: 562588
 
 No es posible identificar la diferencia (id) entre las especificaciones en los módulos IS cuando tienen el mismo nombre y están en el mismo nivel
 
- ![](https://vtexhelp.zendesk.com/attachments/token/4IkRStz0ewiubTt0pwHLx5SJ0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

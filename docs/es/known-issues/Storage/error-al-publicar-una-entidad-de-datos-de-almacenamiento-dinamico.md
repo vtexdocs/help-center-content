@@ -35,13 +35,13 @@ Cuando la tienda crea o actualiza una Entidad de Datos y luego intenta publicarl
 
 - Acceda a la aplicación Sistema de almacenamiento dinámico / Estructura de datos (https://my-account-here.ds.vtexcrm.com.br);
 - Accede a la pestaña Entidades de Datos:
- ![](https://vtexhelp.zendesk.com/attachments/token/65UPKYKl3vuaeweF46K91bpI5/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 - Haga clic en el icono del disco para publicar la Entidad de Datos que fue creada o actualizada:
- ![](https://vtexhelp.zendesk.com/attachments/token/C1nUZnpG8lmDWOL8wrXRBiGj0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 - A continuación se mostrará el siguiente mensaje:
- ![](https://vtexhelp.zendesk.com/attachments/token/DFKVanOk3noBMaN8aBd6CQssp/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
     Error inesperado. Vuelva a intentarlo o póngase en contacto con el servicio de atención al cliente.
 

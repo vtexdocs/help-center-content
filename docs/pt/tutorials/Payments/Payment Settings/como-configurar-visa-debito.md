@@ -22,17 +22,17 @@ Para realizar a configuração o pagamento por Visa Débito em sua loja, no Admi
 Em primeiro lugar, devemos criar uma condição de pagamentos para habilitar o Visa Débito no Checkout.
 Para isso, em **Configurações** acesse o menu de opções de **Condições de pagamento**:
 
-![visa debito](https://images.ctfassets.net/alneenqid6w5/4oOYYq29TmER7mOldlakl2/ba1eefbd08406217ce0567d3dc18d21f/visa_debito.png)
+![visa debito](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Selecione Visa Electron para criar a condição de pagamento:
 
-![Visa Debito 3](//images.contentful.com/alneenqid6w5/7iNwRHWjewEqqYAas0kGw/ae76ec6f4a0361dbb2c8e0b41db85cd2/VD3.png)
+![Visa Debito 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 ### Configurar condição de pagamento
 
 Deve-se selecionar a afiliação desejada para transacionar os pagamentos, ativar a condição de pagamentos e finalmente salvar as mudanças:
 
-![visa debito.2](//images.ctfassets.net/alneenqid6w5/3IC7m6dgtk2t7jjVKhQTkJ/330c8f3b81c16501f52a619874c84349/visa_debito.2.png)
+![visa debito.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 ### Visualizando os cartões de débito no Checkout
 

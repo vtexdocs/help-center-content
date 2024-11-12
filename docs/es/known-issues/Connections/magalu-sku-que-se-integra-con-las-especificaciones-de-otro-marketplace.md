@@ -32,7 +32,7 @@ Por ejemplo, al integrar nuestro catálogo en magalu, enviamos todo lo que tiene
 
 Ejemplo de especificación que se envía a Magalu
 
- ![](https://vtexhelp.zendesk.com/attachments/token/22vLwpFtB3XtuJPNFA2aDpqvf/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ## Workaround

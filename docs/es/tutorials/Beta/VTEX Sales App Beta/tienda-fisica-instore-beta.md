@@ -26,7 +26,7 @@ Esta página te permite realizar las siguientes acciones:
 * [Editar](#editar-tienda)
 * [Eliminar](#eliminar-tienda)
 
-![loja-fisica-ES](https://images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/df72ba565c1eff2f92a4b6b74f27ad8d/image.png)
+![loja-fisica-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 La página contiene la siguiente información:
 
@@ -51,7 +51,7 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 
 ### Campos de registro de la tienda física
 
-![loja-fisica2-es](//images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/d27ac78354af709db771a00656578353/image.png)
+![loja-fisica2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 #### Identificación
 

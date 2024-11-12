@@ -38,5 +38,5 @@ Acesso Admin > Pedidos > Inventário e Expedição > Pronto para despacho > filt
 Existe uma solução para este bug? Se sim, descreva aqui.
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/HEOqvAUXkaIEDYgVRStQJCuWT/?name=inline1320005424.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 

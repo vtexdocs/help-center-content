@@ -33,7 +33,7 @@ Algunas cuentas muestran el error "No se pueden cargar los datos. Por favor, hag
 
 Admin > Panel > Rendimiento de ventas
 
- ![](https://vtexhelp.zendesk.com/attachments/token/v4JRdMCm3Y37Vz3euoIwEYz5c/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

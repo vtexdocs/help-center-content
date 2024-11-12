@@ -21,10 +21,10 @@ A toolbar de televendas aparece uma vez que o operador cadastrado faça o login 
 
 Para comprar em nome do cliente pelo televendas, o operador precisa clicar em **Entrar como**, no canto direito da toolbar.
 
-![Operador de televendas personificando cliente com a toolbar](https://images.contentful.com/alneenqid6w5/3rWoDmY4paceYWKEW2cg2S/c7edba682c7fd97b25d0fdc01faf1f9b/toolbar-1-1.png)
+![Operador de televendas personificando cliente com a toolbar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Feito isso, o e-mail do cliente passa a ser exibido nesta mesma área.
 
 Para logar como outro usuário, basta clicar no botão **Trocar de cliente**.
 
-![Cliente personificado na toolbar](//images.contentful.com/alneenqid6w5/2n3J0YmqxCQq8mW64iQmMG/3e75e00fbeb5fdd0b23dcfc31135e69d/toolbar-2-1.png)
+![Cliente personificado na toolbar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)

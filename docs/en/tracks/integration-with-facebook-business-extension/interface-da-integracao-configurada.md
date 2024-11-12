@@ -18,7 +18,7 @@ Once the integration with the _Facebook Business Extension and Conversions API_ 
 
 In this interface, there are three main sections: [Status](#status), [Features](#features), and [Catalog](#catalog).
 
-![Facebook business Extension](https://images.ctfassets.net/alneenqid6w5/0FVc54WxGh3BorDpQkkzI/c8f361520bb7cc8b7678de112ad67b1d/print_interface_en.png)
+![Facebook business Extension](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Status
 

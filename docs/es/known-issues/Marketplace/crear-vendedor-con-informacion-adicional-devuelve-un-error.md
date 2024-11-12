@@ -24,7 +24,7 @@ internalReference: 741110
 
 Al intentar crear un vendedor a través de Admin y cumplimentar el formulario opcional de Información Adicional, se devuelve un error como este:
 `El vendedor se ha añadido correctamente, pero no se ha podido guardar cierta información.`
- ![](https://vtexhelp.zendesk.com/attachments/token/FYe7irRht0psXP4PwkEH7fm05/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 A pesar del mensaje, el vendedor no se ha guardado realmente.
 

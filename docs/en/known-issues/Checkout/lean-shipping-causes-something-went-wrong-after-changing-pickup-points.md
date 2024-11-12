@@ -21,7 +21,7 @@ internalReference: 1053609
 
 A shopper can search for different pick-up points in different postal codes. When using lean shipping, after adding a postal code with pick-up points available and changing to a postal code without pick-up points, the shipping step is blocked with the message "Something went wrong".
 
- ![](https://vtexhelp.zendesk.com/attachments/token/i0jCDFlz5EGPnKyk5Nfw0Etl0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

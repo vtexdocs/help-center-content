@@ -23,7 +23,7 @@ A partir de agora você poderá acessar de forma mais rápida as informações d
 
 A tela que permite adicionar um novo provedor, editar configurações e realizar busca de provedores, também foi aprimorada para permitir uma melhor experiência de navegação.
 
-![nova_interface_provedores_admin](https://images.ctfassets.net/alneenqid6w5/pRDw2IDO4F6G7SadBNwLp/339b129737e2bbf0167d892a50de7f8e/nova_interface_provedores_admin.JPG)
+![nova_interface_provedores_admin](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.JPG)
 
 ## O que precisa ser feito?
 

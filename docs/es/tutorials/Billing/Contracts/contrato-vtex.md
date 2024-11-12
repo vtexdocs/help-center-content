@@ -17,7 +17,7 @@ subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 
 El contrato VTEX o acuerdo comercial consta de dos partes, el [MSA (Master Service Agreement)](https://vtex.com/mx-es/privacy-and-agreements/agreements/) y el **Anexo 1 Order Form** para la prestación de servicios a empresas o [MPA (Master Partner Agreement)](https://vtex.com/mx-es/privacy-and-agreements/agreements/#:~:text=Master%20Services%20Agreement,Partner%20Agreement) y **Términos y condiciones específicos de la asociación**.
 
-![Contrato VTEX](https://images.ctfassets.net/alneenqid6w5/3PQyLQGwJQ4iS28cP5C4Bf/8c31246d19b7238ab6c87db7e2521ffe/es.png)
+![Contrato VTEX](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 El [Master Services Agreement](https://vtex.com/mx-es/privacy-and-agreements/agreements/) y el [Master Partner Agreement](https://vtex.com/mx-es/privacy-and-agreements/agreements/#:~:text=Master%20Services%20Agreement,Partner%20Agreement) son los contratos marco de servicio y de asociación, respectivamente, que regulan la relación entre VTEX y el cliente o VTEX y el partner. Ambos varían en función de la región en la que se encuentra la empresa o el partner. 
 

@@ -17,15 +17,15 @@ subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 
 Além de definir os textos do seu chat e/ou captura é possível também personalizar a aparência.  Para acessar essas configurações, acesse dentro do seu painel admin do **VTEX Assisted Sales (SuiteShare)** o campo **Configurações > minha conta**.
 
-![Personalizar 1](https://images.ctfassets.net/alneenqid6w5/5FaGHXk7TYQh3ksA1d3V2y/13db76bc19548fee364bc5e0446f8a71/Screenshot_2022-08-31_at_15-05-25_Personalizar.png)
+![Personalizar 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Clique em **“Aparência”**.
 
-![Personalizar 2](//images.ctfassets.net/alneenqid6w5/5BXY8UssL3Ad0IGZImI894/0202e3d65872d3d586c2c4a2c4de4add/Screenshot_2022-08-31_at_15-05-32_Personalizar.png)
+![Personalizar 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Nesta tela é possível editar o logo, cor e fundo.
 
-![Personalizar 3](//images.ctfassets.net/alneenqid6w5/6AjaiWD8IaEXvtSQuDZ7Eq/6b862f5a8fe54cf15d40a77a49cb8941/Screenshot_2022-08-31_at_15-05-37_Personalizar.png)
+![Personalizar 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 Recomendamos que o logo seja enviado em PNG e em tamanhos quadrados, como por exemplo 1:1.
 
@@ -33,21 +33,21 @@ Defina a cor que será o seu chat, você pode enviar diretamente o código das c
 
 Escolha a cor do texto.
 
-![Personalizar 4](//images.ctfassets.net/alneenqid6w5/1cpsT10zhmEKWF5WmhIPwh/92d609f5942746ddb489e9777957e48c/Screenshot_2022-08-31_at_15-05-41_Personalizar.png)
+![Personalizar 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 Selecione o tema desejado.
 
-![Personalizar 5](//images.ctfassets.net/alneenqid6w5/4sKPJCYclbPfNahy7hWP9g/28815a7fc765486b54efa6f18579780a/Screenshot_2022-08-31_at_15-05-45_Personalizar.png)
+![Personalizar 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 Pronto!
 
 Essas alterações estarão disponivéis nos [**formulários de captura**](https://help.vtex.com/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo).
 
-![Personalizar 6](//images.ctfassets.net/alneenqid6w5/6plXqoT7agynflbxaU5PaS/9d5ea2cb5a58fb03f382a209acd0a239/Screenshot_2022-08-31_at_15-05-49_Personalizar.png)
+![Personalizar 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
 
 E no [**seletivo**](\"http://help.suiteshare.com/support/solutions/articles/67000214752-seletivo\"). 
 
-![Personalizar 7](//images.ctfassets.net/alneenqid6w5/MA1CvcFrwxcIfbJIY1YTz/d670011df1acae80ce75b174e8f863d2/Screenshot_2022-08-31_at_15-05-54_Personalizar.png)
+![Personalizar 7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.png)
 
 Não esqueça de clicar em "_**Salvar"**_.
 

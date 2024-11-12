@@ -45,7 +45,7 @@ Confira o passo a passo a seguir, ilustrado com esse exemplo:
 8. Clique no ícone de engrenagem <i class="fas fa-cog"></i> ao lado do campo de **Relacionamento** para configurá-lo.
 9. Em **Configurações de campo personalizado**, selecione a entidade à qual deseja fazer referência e o campo que será mostrado no relacionamento. Neste exemplo, o relacionamento será feito com a entidade **Cliente** e será exibido o campo **email**.
 
-   ![Relacionamento entidade Lista de Compras](https://images.ctfassets.net/alneenqid6w5/3YjtdLHluQz9ve11TkmylY/41cb881fc6bfe93744e4a68cca8ea43a/Lista_Compras_Relacionamento.png)
+   ![Relacionamento entidade Lista de Compras](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 10. Clique no botão `Salvar` para salvar as configurações.
 11. Clique no ícone de publicação <i class="fas fa-save"></i> para publicar a entidade.
@@ -91,5 +91,5 @@ Para isso, você precisa adicionar ao formulário da entidade o valor `{acronimo
 
 Os relacionamentos são mantidos através dos IDs dos documentos. Então, ao tentar inserir o valor do campo de relacionamento como filtro no formulário, obteremos apenas os valores dos IDs dos documentos referidos, e não os valores do campo escolhido para cada documento. As imagem abaixo mostra esse resultado. Veja mais informações no artigo [Filtrar dados no Master Data](https://help.vtex.com/pt/tutorial/filtrando-dados-no-master-data--tutorials_778).
 
-![Filtro relacionamento ID](//images.ctfassets.net/alneenqid6w5/4O1qpGWOrnnM3Zzmyqzymu/a9e179027658143481e6a6f3444e24cd/Filtro_relacionamento_ID.png)
+![Filtro relacionamento ID](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 

@@ -57,4 +57,4 @@ The $ 6.50 will be split between the marketplace and the acquirer. As the MDR wa
 
 Check the diagram below:
 
-![Payment Split](https://images.ctfassets.net/alneenqid6w5/71DjeU0CjjxlDE1qrwr3n9/c228dc62dc40e68c34337c0d21fc8cce/Split-EN.png)
+![Payment Split](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)

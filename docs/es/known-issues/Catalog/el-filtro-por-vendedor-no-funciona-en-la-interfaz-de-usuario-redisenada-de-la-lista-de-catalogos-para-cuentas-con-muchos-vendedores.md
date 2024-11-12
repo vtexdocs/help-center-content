@@ -22,7 +22,7 @@ internalReference: 1075106
 
 
 La interfaz de usuario rediseñada de la lista de catálogos proporciona algunos filtros:
- ![](https://vtexhelp.zendesk.com/attachments/token/thTgoerwSeWWJKuVZNfhqevew/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 El filtro de vendedor no se carga para cuentas que tienen muchos vendedores.
 
@@ -36,7 +36,7 @@ El filtro de vendedor no se carga para cuentas que tienen muchos vendedores.
 1. Vaya a https://accountName.myvtex.com/admin/catalog-products
 2. Intenta filtrar por vendedores (en una cuenta con muchos vendedores)
 El resultado debería ser algo así
- ![](https://vtexhelp.zendesk.com/attachments/token/wbqVyWPVd9xCmgbzWWhirmvkK/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 ##

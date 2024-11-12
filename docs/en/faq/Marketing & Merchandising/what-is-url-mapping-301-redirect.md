@@ -20,11 +20,11 @@ All mapping activities recorded will be executed within the 301 type. The 301 re
 
 URL mapping is recorded in the Portal Manager. In the “E-Commerce” module, go to the menu “Configurações &gt; Portal”:
 
-![](https://images.contentful.com/alneenqid6w5/2sLb71Ajkg8s4MIOgCymsO/de7f2f3747389d99ee8100d9cf8f1093/mapeamento1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 In the Portal Management, go to “Mapeamento de Urls”:
 
-![](//images.contentful.com/alneenqid6w5/5xi3Mase2skUgcI0cU2e28/8459c10133f623d74d55d7c28075b408/mapeamento2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 There are two ways to Add/Change a URL Mapping:
 1. Manually

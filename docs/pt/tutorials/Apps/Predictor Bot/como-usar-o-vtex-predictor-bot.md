@@ -28,18 +28,18 @@ Ao combinar dados de diferentes fontes, ele é capaz de prever como suas vendas 
 ## Como o Predictor Bot funciona
 
 Começamos por uma ideia geral de como está o desempenho da sua loja.
-![sales data](https://images.contentful.com/alneenqid6w5/4LVuTVHevYw6eaykMwQY4M/8b9a06a17479a1595c05d879071ad320/sales_data.png)
+![sales data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Conforme ilustrado na imagem acima, cada loja típica tem um padrão - mesmo em uma base diária, ou por hora. Devemos identificar esse padrão para iniciar qualquer análise.
 
 Mas nem tudo é flores. Muitas vezes vemos algo mais ou menos assim:
-![crazy sales data](//images.contentful.com/alneenqid6w5/K7vwyviY4S6Q4CwSOSsaW/a644e1f182e82da152d69c661f3f44b7/crazy_sales_data.png)
+![crazy sales data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Neste caso, devemos remover discrepâncias e comparar novos conjuntos de dados contra outros períodos. Continuamos iterando assim até que nosso algoritmo saiba que temos um conjunto seguro de dados. Nesse ponto, podemos analisar e __identificar os eventos que fogem ao padrão__.
 
 Ao final, nosso gráfico previsto é algo como a curva abaixo. A linha azul é o resultado do nosso modelo. Esta curva está contida dentro de um intervalo de confiança (área azul).
 
-![unnamed](//images.contentful.com/alneenqid6w5/4dyeHM6ycoSGs0kgMUSQqo/56ff4ea1a3478dfea3fc8c4d9860280c/unnamed.png)
+![unnamed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 Sempre que encontramos algo, nós lhe informamos! Se o seu desempenho atual se afastar do nosso modelo mas estiver dentro dos intervalos, enviamos apenas um __ALERTA__. Se for além, você recebe um aviso __CRÍTICO__.
 
@@ -47,7 +47,7 @@ Sempre que encontramos algo, nós lhe informamos! Se o seu desempenho atual se a
 
 Podemos mandar três tipos de e-mails. Aqui está um exemplo:
 
-![Vtex Predictor Bot template](//images.contentful.com/alneenqid6w5/1Ft1I0ibI4g86okS4IYKy0/293929eb488252dabe8cdadee29c86e7/Vtex_Predictor_Bot_template.png)
+![Vtex Predictor Bot template](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 Como você pode ver, este é um exemplo de notificação enviada quando a anomalia não existe mais e as vendas da sua loja voltaram ao normal.
 

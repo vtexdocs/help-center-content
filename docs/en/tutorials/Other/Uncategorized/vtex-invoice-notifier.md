@@ -15,7 +15,7 @@ legacySlug: vtex-invoice-notifier
 subcategoryId: 54gbzsku02c4bKmgFbp3v3
 ---
 
-![chart EN](https://images.ctfassets.net/alneenqid6w5/3OMTqAs3Zhp1GFeBEtX8q0/4bcd68580be161fc3e98fc2877357e1a/chart.jpg_h_250)
+![chart EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## App installation - VTEX Invoice Notifier
 
@@ -25,7 +25,7 @@ User should install the App from VTEX App Store - app.vtex.com
 
 When proceeding with the installation, a setup page will appear, in which the user should insert the endpoint responsible for communication with the invoice issuing system.
 
-![install-app](//images.ctfassets.net/alneenqid6w5/1QCqfd7Yc3lBF2BWUjPQ2g/888f9a2e18a90fa92f7b8ad32048d17d/install-app.png)
+![install-app](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 ## OMS notify invoice issuer
 
@@ -33,9 +33,9 @@ Once the endpoint is added to the App, OMS recognizes that the store is able to 
 
 In the order, the operator must select the already invoiced package or items and create a new notification: 
 
-![notify-invoicer1](//images.ctfassets.net/alneenqid6w5/1pTJ8sEgLo7cpyYcVFQKxR/7a0b066fc646d1941f3ac704023ea5f7/notify-invoicer1.png)
+![notify-invoicer1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
-![notify-invoicer2](//images.ctfassets.net/alneenqid6w5/59qqed77NuvF0rrlpdABe9/1108b18f8eba54bf25c6766803578b42/notify-invoicer2.png)
+![notify-invoicer2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 When the OMS user clicks the __Request Invoice__ button, the app would perform a POST request to the registered App endpoint with the following BODY example:
 
@@ -57,7 +57,7 @@ This property should be used to know which address sends the Invoice.
 
 Once successfully notified, the APP records this notification in VBASE (databank).
 
-![callBackProperty](//images.ctfassets.net/alneenqid6w5/POhuHliun9MO0hYgTmPvr/1df598855b888b113ef035df3502134d/callBackProperty.png)
+![callBackProperty](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 ## Invoice issuer gets invoice details
 
@@ -168,7 +168,7 @@ Pickup orders may or may not contain a client's identification. An order placed 
 
 The way to identify if an order is Delivery or Pickup is by looking at the __shippingData.logisticsInfo[0].deliveryChannel__ object.
 
-![shipping-type](//images.ctfassets.net/alneenqid6w5/6p9yfYsHRbz4xCX9sjrGx9/cfeb4ae8afe0d47f53e49a556c51ccc6/shipping-type.png)
+![shipping-type](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
 
 ## Inserting the tax invoice into an order
 

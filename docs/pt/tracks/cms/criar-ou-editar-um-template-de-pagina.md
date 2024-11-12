@@ -42,8 +42,8 @@ Confira o passo a passo a seguir:
 >
 > *`admin`
 > 
-7. Em seguida, preencha o box __Template XHTML__ com o código do seu template.![4 1](https://images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
-8. No canto superior direito, clique no botão __Save Template__.![4 2](//images.ctfassets.net/alneenqid6w5/58ZckRTKZ2e6BbXPtx54xK/a638e74bf68dc437257a6c220d5a2c1c/4_2.png)
+7. Em seguida, preencha o box __Template XHTML__ com o código do seu template.![4 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+8. No canto superior direito, clique no botão __Save Template__.![4 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Para editar um template já existente, o processo é quase idêntico.
 

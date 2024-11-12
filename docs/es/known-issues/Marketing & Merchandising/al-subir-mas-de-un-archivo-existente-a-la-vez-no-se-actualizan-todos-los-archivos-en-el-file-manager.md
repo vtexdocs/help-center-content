@@ -32,7 +32,7 @@ Cuando se envían simultáneamente dos o más archivos existentes en el File Man
 
 A continuación, se mostrará el siguiente mensaje:
 
-![File manager](//images.contentful.com/alneenqid6w5/4Z7tY3FKCDV1Cz6Whji6HI/d730b6accf6caeb81b373745b20c337d/image.png)
+![File manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Esto significa que solo se identifica un archivo; los demás no se validan. Se cargan todos los archivos, pero solo uno de ellos sustituirá a su versión anterior.
 

@@ -33,13 +33,13 @@ Así que con esto, los "Fines de semana y días festivos" no desprecian las pol�
 Tener una política de envío en la que la opción "**Fines de semana y festivos**" esté **desmarcada** (entrega en sábado, entrega en domingo y/o entrega en festivo) y la única opción de entrega (horario comercial) de esta política de envío sea el sábado y/o el domingo. Este es un ejemplo:
 
 No hay entrega los sábados, domingos y festivos:
- ![](https://vtexhelp.zendesk.com/attachments/token/bCySQokwEktvbjouwE8O0e9Jj/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 El horario comercial se establece sólo para los sábados:
- ![](https://vtexhelp.zendesk.com/attachments/token/0IEYFx0IeeCa39loJzekErluI/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Aunque la política de envío no es capaz de entregar los sábados, está disponible porque el sábado está incluido en su horario de funcionamiento, pero el tiempo es mucho mayor que el definido:
- ![](https://vtexhelp.zendesk.com/attachments/token/jefQyreOWL8Ty0V1vPTTS270v/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 
 

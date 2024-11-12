@@ -30,11 +30,11 @@ Esta diferencia se detalla aquí: https://help.vtex.com/en/tracks/catalogo-101--
 
 El módulo heredado tiene dos grupos de datos distintos, la colección (A) y el nombre del grupo (B)
 
- ![](https://vtexhelp.zendesk.com/attachments/token/Wb85umTatjLPwTTdZ53985WHt/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Sin embargo, el nuevo módulo de colecciones sólo desplaza el nombre de la colección, no su nombre de grupo:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/dXcYFigMd8BCKPCaF5wlvcUhZ/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Los resultados de la búsqueda inteligente se basan en el nombre del grupo, por lo que, en los casos en que las actualizaciones se realizan únicamente en la nueva interfaz de usuario, los resultados no se reflejan en la interfaz de usuario ni en las consultas de búsqueda.
 

@@ -21,11 +21,11 @@ The toolbar appears once the registered operator logs on to the store environmen
 
 To order in the name of a customer using the callcenter, the operator needs to click on **Login as**, in the right-hand corner of the toolbar.
 
-![Callcenter operator personifying the customer with the toolbar](https://images.contentful.com/alneenqid6w5/3rWoDmY4paceYWKEW2cg2S/c7edba682c7fd97b25d0fdc01faf1f9b/toolbar-1-1.png)
+![Callcenter operator personifying the customer with the toolbar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Having done this, the customer’s e-mail is displayed in this same area.
 
 To log on as another user, just click on the **Change customer** button.
 
-![Customer personified with the toolbar](//images.contentful.com/alneenqid6w5/TwHPvbhB8Os02kO4IaS66/d70f2a05303502043ae4d7be3dfce59f/Toolbar2.png)
+![Customer personified with the toolbar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 

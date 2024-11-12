@@ -25,7 +25,7 @@ internalReference: 691803
 Às vezes, ao tentar importar uma planilha de imagem com URLs do vteximg.com.br ou vtexassets.com que são definidos como "https://" em vez de "http://", a importação falha. A mensagem de erro é:
 
 "Falha no processamento de registros. Certifique-se de que os dados de sua folha de trabalho estejam consistentes e tente novamente. Detalhes do erro: Ocorreu um erro ao enviar o pedido".
- ![](https://vtexhelp.zendesk.com/attachments/token/fenodCFcwpVyXYWUj6kgoi1fx/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

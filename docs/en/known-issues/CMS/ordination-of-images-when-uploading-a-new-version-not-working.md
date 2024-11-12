@@ -31,7 +31,7 @@ Go to the site editor
 Add a new image
 Try to order
 
- ![](https://vtexhelp.zendesk.com/attachments/token/Wx1y1CbhbAkyUIH8peG9xiLtJ/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

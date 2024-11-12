@@ -26,7 +26,7 @@ O pedido é fechado e transacionado normalmente na VTEX mas, dependendo dos flux
 
 Exemplo de ocorrência:
 
-![image](//images.ctfassets.net/alneenqid6w5/4sJOKvC97OggkWYoCQaa6G/c6b38b60fc500436bb36a5ae6409094e/image.png)
+![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Nesse caso, o valor total do pedido cobrado do cliente ficou em `R$ 7,98`. No entanto, ao somar os valores de venda registrados em cada produto, o total seria de `R$ 7,95`.
 

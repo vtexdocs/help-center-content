@@ -40,7 +40,7 @@ La prop sortVariationsByLabel del selector sku podría resolver algunos casos
 
 https://developers.vtex.com/docs/guides/vtex-store-components-skuselector
 
- ![](https://vtexhelp.zendesk.com/attachments/token/tcCXWNHIw8KJupddSHiMElnxl/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

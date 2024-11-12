@@ -32,7 +32,7 @@ A veces, después de desplegar algunos cambios en su tienda Webops, el estado de
 
 - Intenta desplegar algo
 - Comprueba el estado en el status de Webops, puede permanecer en blanco pero en Github podrás seguir el proceso de construcción
- ![](https://vtexhelp.zendesk.com/attachments/token/bZAviGkL4If4NmvveJD6lynFs/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

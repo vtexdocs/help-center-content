@@ -23,4 +23,4 @@ Para registrar una marca, siga los pasos abajo:
 4. Llene los [Campos de registro de marca](https://help.vtex.com/es/tutorial/campos-de-registro-de-marca--37Ky7lTbEkiWIAYA80EMyI).
 5. Haga clic en el botón `Guardar`.
 
-![ENcadastrarmarcas3.PNG?h=250](https://images.ctfassets.net/alneenqid6w5/5TTFejR7WZ2F7i150fdgbM/6f923d6a96e4e36c6aae76dc39b036e3/ENcadastrarmarcas3.PNG_h_250)
+![ENcadastrarmarcas3.PNG?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)

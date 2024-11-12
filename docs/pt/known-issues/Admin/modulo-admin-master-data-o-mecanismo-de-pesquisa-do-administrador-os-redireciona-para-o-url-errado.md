@@ -30,7 +30,7 @@ No módulo Master Data, o mecanismo de pesquisa do administrador redireciona par
 Etapas:
 Admin > Pesquisar > Dados mestre >
 
- ![](https://vtexhelp.zendesk.com/attachments/token/DhvSEUDDmPjgGdIlWV4PJvh0A/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
  ![](https://vtexhelp.zendesk.com/attachments/token/9nUmLbZLPdCzBgvNziUi1WCvw/?name=image.png
 
@@ -41,7 +41,7 @@ Admin > Pesquisar > Dados mestre >
 é possível acessá-lo normalmente usando o menu lateral:
 Admin > Frente de loja > Dados mestre
 
- ![](https://vtexhelp.zendesk.com/attachments/token/59KwJCdK91ol1f4edT4hjNBHQ/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 

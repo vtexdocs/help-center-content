@@ -27,7 +27,7 @@ Además de permitir enviar invitaciones, la página tiene una lista de sellers, 
 
 Para que nuevos sellers se integren en su marketplace, es necesario realizar algunas acciones en su entorno VTEX: [Invitar](#invitar-seller) y [Conectar](#conectar-seller).
 
-![ES Seller invite](https://images.ctfassets.net/alneenqid6w5/3kCM8CHXpzssH5MWf6txLh/7c9dd1931913f57b7bef76df6faad117/ES_seller_invite.jpg)
+![ES Seller invite](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.jpg)
 
 ## Invitar Seller
 

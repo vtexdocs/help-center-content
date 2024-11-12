@@ -34,7 +34,7 @@ En la mayoría de los casos hay que añadir nuevos mensajes de error y es necesa
 
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/eYonQgTAztJkamUFq1URhSM8T/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

@@ -24,7 +24,7 @@ internalReference: 594075
 Ao exportar a tabela de preços filtrada pela Marca para obter um resultado mais específico, a planilha está ficando incompleta para o cliente.
 
 Somente os skus com preço mostrado na primeira página (quando a página é definida com o máximo de 20 resultados) são exportados.
- ![](https://vtexhelp.zendesk.com/attachments/token/Yfc9U3wsVoOTEIsYsxInZAVcn/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

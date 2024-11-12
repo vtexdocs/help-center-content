@@ -34,7 +34,7 @@ These orders are stuck in the status "Awaiting authorization to dispatch" here a
 - Log doesn't show any errors in the flow;
 - Bridge doesn't show any error;
 
- ![](https://vtexhelp.zendesk.com/attachments/token/aRop2JlmVaPoBgPJIRLQcA0Pg/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

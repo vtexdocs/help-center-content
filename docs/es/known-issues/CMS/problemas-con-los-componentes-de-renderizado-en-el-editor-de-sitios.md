@@ -22,13 +22,13 @@ internalReference: 415674
 
 
 Debido a la cantidad de información en la página, el editor del sitio puede tener problemas al renderizar bloques. Este comportamiento ocurre de forma intermitente, a veces los componentes no se renderizan y otras veces se renderizan dos veces. Puede ocurrir que no aparezca ningún bloque en el editor del sitio:
- ![](https://vtexhelp.zendesk.com/attachments/token/miNCNkBPcmbXcVHmb9f5HWxIS/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 O puede ocurrir que aparezcan menos bloques.
 
 También puede ocurrir que se produzca un retraso después de guardar un nuevo contenido. El contenido se guarda pero la pantalla se sigue cargando:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/BwlA7jzWiWCxYMLOGxMb0N84N/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 ##

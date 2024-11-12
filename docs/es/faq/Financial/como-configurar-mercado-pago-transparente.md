@@ -32,7 +32,7 @@ Estas configuraciones deben ser realizadas en su Google TagManager.
 8. Guarde el control;
 9. Haga click en el botón **Crear Tag**, coloque un nombre para esta tag y guarde.
 
-![](https://images.contentful.com/alneenqid6w5/YndMcdc0aAw2GKYU0EyU2/c917ac451cfeb262d8354164c6caa285/MercadoPagoTransparente_1_PT.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 ## Creando la segunda tag
 
@@ -49,4 +49,4 @@ Estas configuraciones deben ser realizadas en su Google TagManager.
 9. Haga click en el botón **Crear Tag**, inserte un nombre para esta tag y Guarde;
 10. En el margen superior derecho, haga click en **Publicar** y luego también en **Publicar.**
 
-![](//images.contentful.com/alneenqid6w5/32NgyD7KNqicqiASoIUEkK/892ab0a77b4bf2295dcb72d6335de49e/MercadoPagoTransparente_2_PT.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)

@@ -64,19 +64,19 @@ High-risk alerts indicate that critical configurations or registration errors mu
 
 Example:
 
-![alert-alto-risco-EN](https://images.ctfassets.net/alneenqid6w5/5RRucT5TJJKfoe39NsQvPx/6024c1bf2aee399450f05cbf2648798c/image.png)
+![alert-alto-risco-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ### Medium risk
 Medium-risk alerts indicate that there are configurations that may cause undesired effects on the promotion.
 
 Example:
 
-![alert-medio-risco-EN](//images.ctfassets.net/alneenqid6w5/1vYDqk4ZK3X2jjfGBY0voq/38a07c0774736c5005638e78987d4a23/image.png)
+![alert-medio-risco-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 ### Low risk
 Low-risk alerts present relevant information about the promotion configuration, which can contribute to better performance.
 
 Example:
 
-![alert-baixo-risco-EN](//images.ctfassets.net/alneenqid6w5/tvjluVBbsK78ozr29Fgfb/65f04416a92b8c5bd606064165803313/image.png)
+![alert-baixo-risco-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 

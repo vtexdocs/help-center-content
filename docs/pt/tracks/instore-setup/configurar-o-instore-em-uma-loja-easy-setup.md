@@ -26,31 +26,31 @@ Você pode encontrar links para download em: [http://instore.vtex.com/#download]
 
 Ao abrir o inStore pela primeira vez, você precisará digitar a conta VTEX onde deseja configurar o inStore e clicar em __Confirmar__.
 
-![01 inStore selecione conta](https://images.ctfassets.net/alneenqid6w5/4XB9P7AD4ICSyWqCo0MmKA/b654a9607224ee02376f65485edbbf45/01_inStore_selecione_conta.png)
+![01 inStore selecione conta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Ao identificar que o inStore não está configurado nessa conta, você será redirecionado para a VTEX App Store onde precisará efetuar o login com sua conta de admin na VTEX.
 
 Após o login, você conseguirá instalar o inStore na sua conta.
 
-![02 inStore instalar](//images.ctfassets.net/alneenqid6w5/2Fb8nICP8IEk62mO8yOSKg/e7ae4a24ba325b34b90e0abd92b51e03/02_inStore_instalar.png)
+![02 inStore instalar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Um formulário de configuração será exibido, sendo a primeira etapa a informação de endereço.
 
-![03 inStore endereco](//images.ctfassets.net/alneenqid6w5/ZdkjzNMxs2iOsCCSWECQm/8c696c8f7c96894b75c68ea89acf0a3e/03_inStore_endereco.png)
+![03 inStore endereco](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 Depois você deve definir um email e senha a serem utilizados como login de vendedor.
 
 > __IMPORTANTE__: esse e-mail __NÃO__ pode ser o mesmo utilizado na plataforma VTEX, isso porque o seu e-mail de admin possui permissões que um vendedor não deveria ter, por isso é necessário utilizar algum outro e-mail sem privilégios na plataforma.
 
-![04 inStore registre vendedor](//images.ctfassets.net/alneenqid6w5/1sWVQqJBU8aKQCcS2U8I4S/9bb4e876b020c39598d7b3ebab3cd2a1/04_inStore_registre_vendedor.png)
+![04 inStore registre vendedor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 Depois de configurar o vendedor e confirmar o código de ativação recebido por e-mail, você poderá definir as formas de pagamento.
 
-![05 inStore configure pagamento](//images.ctfassets.net/alneenqid6w5/3xd7WlTuRiKWSgaMMimCaQ/6d10e2dca27e2d2370c12f6b9926a119/05_inStore_configure_pagamento.png)
+![05 inStore configure pagamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 Caso ainda não tenha contrato com uma adquirente, você pode manter apenas a opção __Dinheiro__ ativa. Ao clicar em __Confirmar__ verá a tela de sucesso.
 
-![06 inStore sucesso](//images.ctfassets.net/alneenqid6w5/7JnAUV1oIwie4c84g8wC6C/df253c5a2d85701945f8b036b7bc09e1/06_inStore_sucesso.png)
+![06 inStore sucesso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
 
 Agora basta voltar para o aplicativo, logar com as credenciais de vendedor e começar a vender!
 

@@ -30,7 +30,7 @@ No lado direito há uma caixa que contém o valor total do pedido, os dados do c
 
 O ID é referente à transação no gateway da plataforma VTEX, e é inclusive parte da URL.
 
-![pci](https://images.contentful.com/alneenqid6w5/65oy7tCoAoCMgGIi4CYau6/69e8caa34812349a09014157d0d27e33/pci.png)
+![pci](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Acima dessa caixa, há um link para o pedido no módulo **Pedidos**.
 
@@ -50,19 +50,19 @@ Seguem abaixo exemplos de como visualizar os cenários mais comuns que necessita
 
 ### Evento de aprovação
 
-![](//images.contentful.com/alneenqid6w5/2P90PVqJl6qOWGkc6icoss/fba44bb1bd12c7e42d1658d91d6edd73/2.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.jpg)
 
 Nesse exemplo, vemos a aprovação de um pagamento. Ou seja, vemos que a operadora autorizou o fechamento da compra com estes dados de pagamento.
 
 ### Evento de aprovação de antifraude
 
-![](//images.contentful.com/alneenqid6w5/2kCKR8mx3KUGW60cSs0wmo/d4cb6c1271069fd4f85e8ccb0813ef27/3.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.jpg)
 
 Neste exemplo, vemos o retorno do antifraude recebendo a transação e posteriormente o retorno com a análise de risco realizada, aprovando a mesma. Em casos de reprovação, o log exibirá a informação `RiskRejected`.
 
 ### Evento de fatura
 
-![](//images.contentful.com/alneenqid6w5/5v6fzCwSCkeqO8g24kSkqS/5e8d39795949ce428153a0e18bcdf558/4.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.jpg)
 
 Neste exemplo, a operadora retorna o evento de liquidação do valor, ou seja, informa que realizou a fatura do pedido.
 
@@ -70,7 +70,7 @@ Neste exemplo, a operadora retorna o evento de liquidação do valor, ou seja, i
 
 O exemplo abaixo mostra uma transação de cartão de crédito que gerou erro ao ser processada pela adquirente Redecard. Os afiliados costumam retornar um código (`ConnectorCode`) junto a uma mensagem. Para encontrar informações detalhadas do erro, recomendamos consultar a documentação do adquirente. Por meio de uma rápida busca no Google é possível encontrar a lista de códigos e mensagens de cada afiliado.
 
-![2017-01-26 20_23_37-634883 _ VTEX PCI Gateway](//images.contentful.com/alneenqid6w5/4CR2xqOZMkEEKoq0Q4008W/0088088b1a2167314ee31ab1078435b6/2017-01-26-20_23_37-634883-_-VTEX-PCI-Gateway.png)
+![2017-01-26 20_23_37-634883 _ VTEX PCI Gateway](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 ## Liquidação automática agendada
 
@@ -80,7 +80,7 @@ Caso o pedido seja cancelado, o estorno ocorrerá normalmente.
 
 Veja como visualizar a data do agendamento da liquidação automática:
 
-![](//images.contentful.com/alneenqid6w5/3cUrT8OgtiiiKGiaySoO4Q/5abbea075f47b3c3334954a3fa53f006/5.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.jpg)
 
 ## TID de pagamento
 
@@ -90,22 +90,22 @@ Essa informação é importante sempre que for necessário confirmar algo com a 
 
 Para encontrar esse código na transação, veja a ilustração abaixo.
 
-![](//images.contentful.com/alneenqid6w5/4UGw2BvqvewicmA4sYq64a/488e64d672529ed30b56e364efd4e89f/6.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.jpg)
 
 ## IP do cliente
 
 O IP do cliente é coletado no momento da compra e pode ser visto no campo superior da tela da transação, conforme imagem abaixo.
 
-![](//images.contentful.com/alneenqid6w5/3luCOyDKZ2a22y2q26S6E/1b77e158a83d51f43a4e9bb74981a512/7.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_8.jpg)
 
 ## ID do antifraude
 
 É o ID da transação para o antifraude. Para buscas no antifraude, deve-se consultar esse valor no PCI Gateway.
 
-![IDAntifraude](//images.contentful.com/alneenqid6w5/6KrRXQocKWy6kQosaOgiyU/77e8ae4f52c586280a17a08373675301/IDAntifraude-1.gif)
+![IDAntifraude](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_9.gif)
 
 ## Mais informações
 
 Além das informações acima, existem outros dados retirados das interações com a operadora, com o gateway e/ou com o antifraude que são identificados e disponibilizados de forma mais clara no box **+ informações** logo abaixo do topo de informações. Veja na imagem abaixo como visualizá-las:
 
-![](//images.contentful.com/alneenqid6w5/2fHaJACApyyUsIGueGkckU/edade2f60187dc9aed87942e8030d938/8.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_10.jpg)

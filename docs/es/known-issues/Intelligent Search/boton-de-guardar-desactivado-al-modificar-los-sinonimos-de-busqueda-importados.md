@@ -23,11 +23,11 @@ internalReference: 508893
 
 Al intentar hacer cualquier cambio en una configuración de sinónimos que fue importada previamente por un archivo csv, el botón de guardar siempre se desactiva, sin importar el cambio:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/brdXbHb75jSVJae7gJcCY8QVH/?name=inline1786590037.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Esto sucede porque al importar un archivo, la información de la configuración regional no se rellena automáticamente, como en el ejemplo siguiente:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/2CvsG56Jprt18bNjvIU8Mt07m/?name=inline-2007024263.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 

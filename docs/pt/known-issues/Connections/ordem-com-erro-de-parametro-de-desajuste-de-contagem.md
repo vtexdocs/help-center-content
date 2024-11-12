@@ -35,7 +35,7 @@ Impacto:**_ Ocorre com alguns pedidos
 
 Admin > Ponte > Pedidos
 
- ![](https://vtexhelp.zendesk.com/attachments/token/cT90VMDIz1kZblPQWMpmmB93D/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

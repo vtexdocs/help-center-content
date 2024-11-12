@@ -22,13 +22,13 @@ internalReference: 1118712
 
 
 Al buscar un punto de recogida en Logística, puede producirse el siguiente error:
- ![](https://vtexhelp.zendesk.com/attachments/token/tGzdaXqZCHcgtcGaPagLU0yZu/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
     Se ha producido un error al cargar los puntos de recogida. Por favor, vuelva a cargar la página.
 
 
 También en este mismo escenario, hay un impacto en la tienda web, que utiliza la aplicación Store Locator para listar sus tiendas, entonces la lista de tiendas no se mostrará:
- ![](https://vtexhelp.zendesk.com/attachments/token/Dv85rVttxoEMwVXMsMmTxWoI1/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 ##

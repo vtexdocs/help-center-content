@@ -33,7 +33,7 @@ Another unexpected behavior is that other modules continue to be available for t
   - CMS menu on the top-bar;
   - CMS Settings.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/fbpObVoVdnEYGeYjd3GDh9Qqf/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 - Associate this role to a user;

@@ -19,7 +19,7 @@ Ficou mais fácil editar suas configurações pessoais de acesso ao Admin VTEX.
 
 O time do VTEX ID criou a tela My User, que pode ser facilmente acessada pela topbar do Admin.
 
-![dadosPessoais](https://images.contentful.com/alneenqid6w5/3c85FBDbJumIgA0smG4Q2S/2af591bd4d724dadae3adebd7525311b/dadosPessoais.png)
+![dadosPessoais](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Nela você pode:
 - Ver seu e-mail cadastrado no Admin.

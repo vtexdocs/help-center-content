@@ -18,7 +18,7 @@ You already have a product associated with a category and a brand, have a SKU fo
 
 To register the stock, follow the steps below.
 1. In the __Catalog__ module, hover over __Products Management__, go to __Products and SKUs__ and click the __Products and SKUs Management__ option.
-2. In the line of the SKU you want, click on the truck symbol (you will be taken to the Logistics module).![SKUstock](https://images.contentful.com/alneenqid6w5/5HArBLp1qoq6cyUk8Oc8mO/473c1415e082ee2c644f5ab95f24ff73/SKUstock.png)
+2. In the line of the SKU you want, click on the truck symbol (you will be taken to the Logistics module).![SKUstock](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 You will see a table with information about:
 - The SKU whose stock you are editing.

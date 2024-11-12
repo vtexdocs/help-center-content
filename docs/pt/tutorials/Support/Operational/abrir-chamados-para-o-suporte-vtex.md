@@ -67,7 +67,7 @@ Ao selecionar essa opção de suporte, você precisa preencher as informações 
    * *Tenho uma dúvida e gostaria de fazer uma pergunta*
    * *Gostaria de solicitar uma configuração*
 2. No campo **Assunto da solicitação**, preencha com informações relacionadas ao tipo de problema que você precisa de ajuda. Baseada na descrição do seu problema, iremos indicar alguns artigos do [Help Center](https://help.vtex.com/pt/) que podem ajudar a solucionar seu problema. Caso você entenda que nenhum artigo pode ajudar a resolver o problema, siga para o próximo passo.
-![https help.vtex.com pt support](https://images.ctfassets.net/alneenqid6w5/1R5JgnPNiJWbG8IDU0MQmm/ae29e8a323aae90c3e6cb11b36baed8d/https___help.vtex.com_pt_support.gif)
+![https help.vtex.com pt support](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 3. Clique no botão `Continuar`.
 Você será direcionado para outra página.
 4. No campo **Impacto do problema**, selecione a opção que melhor corresponde ao impacto do problema:

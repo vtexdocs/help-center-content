@@ -20,7 +20,7 @@ internalReference: 890791
 
 
 When the merchant is updating a biding the UI is like it follows:
- ![](https://vtexhelp.zendesk.com/attachments/token/UfffIyuM7K7isQMiPnAqRvSiW/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 When trying to go to the license manager link, they are redirected to a SWW page.
 

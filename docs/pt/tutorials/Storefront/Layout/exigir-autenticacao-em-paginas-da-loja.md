@@ -19,15 +19,15 @@ Você pode exigir que, para determinadas páginas da loja, os usuários precisem
 
 Algumas páginas vêm com essa configuração por padrão. Por exemplo, as páginas `/Account` e `/Account/Orders`.
 
-![authenticationRequired](https://images.contentful.com/alneenqid6w5/60cIIkiKDSEs2ocmqescgM/3f5a0c46d61c1002c22bc7b5469db7eb/authenticationRequired.png)
+![authenticationRequired](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Mas você pode tanto retirar a exigência de autenticação para estas páginas como inseri-la em outras páginas.
 
 Para isso, siga os passos abaixo:
 1. Acesse o módulo __CMS__.
 2. Clique na pasta referente à página desejada.
-3. Clique no botão __Edit__.![editFolder](//images.contentful.com/alneenqid6w5/2DSRmQFQxeAYcoiWCAaU62/bc08bd32b394545d8af716338d55a0be/editFolder.png)
-4. Marque ou desmarque a flag __Authentication Required__.![authenticationRequiredFlag](//images.contentful.com/alneenqid6w5/3iK3iGguAUg84KuAsC4MYW/1dcdae221b886b4a4d1cdc4eb87af9a4/authenticationRequiredFlag.png)
+3. Clique no botão __Edit__.![editFolder](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
+4. Marque ou desmarque a flag __Authentication Required__.![authenticationRequiredFlag](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 5. Clique em __Save Folder__.
 
 Note que sempre que a flag __Authentication Required__ estiver marcada para uma pasta, a URL desta página será montada com a rota `_secure`. Ex: `http://{AccountName}.vtexcommercestable.com.br/_secure/account/`

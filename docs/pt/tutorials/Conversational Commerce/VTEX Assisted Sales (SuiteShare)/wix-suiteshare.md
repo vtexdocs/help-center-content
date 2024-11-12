@@ -19,11 +19,11 @@ Para instalar o script do VTEX Assisted Sales (SuiteShare) no seu site do Wix, �
 
 Para isso, você deve acessar seu painel do Wix e clicar em **_Configurações > Acompanhamento e Análises_**.
 
-![Wix_1](https://images.ctfassets.net/alneenqid6w5/7H7h9u61B7hV52gAJlzOtv/bf8fb87c8ee103a11575009809a83510/Wix_1.png)
+![Wix_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Na janela que será aberta, o próximo passo é clicar em **_Nova Ferramenta > Personalizado_**.
 
-![Wix_2](//images.ctfassets.net/alneenqid6w5/26eIVGEMNUEfq9FmPzE2T1/46e34a3251d12d5471d45d37d2cffa81/Wix_2.png)
+![Wix_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Preencha então os seguintes campos:
 - **Cole o trecho do código aqui**: insira seu código de instalação (script) do VTEX Assisted Sales (SuiteShare).
@@ -33,7 +33,7 @@ Preencha então os seguintes campos:
 
 Salve a nova configuração.
 
-![Wix_3](//images.ctfassets.net/alneenqid6w5/1HQbRhPZamrTy4qwMtR1iM/0b9835329e68004479cf4d8cf49212a9/Wix_3.png)
+![Wix_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 Pronto! Agora o chat do VTEX Assisted Sales (SuiteShare) estará disponível no seu site do Wix.
 

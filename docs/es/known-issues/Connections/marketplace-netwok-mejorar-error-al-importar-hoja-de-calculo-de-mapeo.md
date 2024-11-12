@@ -30,7 +30,7 @@ Al intentar importar una hoja de cálculo, el usuario recibe un error genérico,
 
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/ocxWNQ2WYbzEeXm0E3mVqrXPu/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

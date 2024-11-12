@@ -45,7 +45,7 @@ __Pronto!__ Agora os atributos dos seus produtos do tipo __Roupa__, __Calçados_
 
 Um calçado *amarelo* com *detalhes azuis* de *tamanho 39* deve ser enviado para o Mercado Livre com o __ID do SKU__ correspondente e os códigos __33000_Amarelo_52007__, __43000_Azul_52092__ e __23000_39_22039__, relativos a *cor principal*, *cor secundária* e *tamanho*. Veja mais exemplos na imagem abaixo:
 
-![Planilha modelo ML](//images.contentful.com/alneenqid6w5/1Z4UPfR5beG6SoMucASAm0/132e8316128421a2c98da7ee8fdb81b4/Planilha-modelo-ML.png)
+![Planilha modelo ML](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Para saber mais
 

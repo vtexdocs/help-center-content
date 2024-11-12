@@ -20,11 +20,11 @@ internalReference:
 
 Em algumas ocasiões o link existente dentro do pedido que leva à transação do PCI não funciona corretamente. 
 
-![detalhe pedido](//images.contentful.com/alneenqid6w5/3wD4jkx5t6SEqEAsw88iqi/751f764bfc82431cbbfebd048c284cb8/detalhe_pedido.png) 
+![detalhe pedido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png) 
 
 Esse erro, apesar de raro, ocorre com mais frequência quando um pedido foi cancelado. Apesar da transação existir no PCI Gateway, o link entre ele e o OMS não consegue mostrar a transação: 
 
-![TID undefined PCI](//images.contentful.com/alneenqid6w5/2Are5aGSNOMQIoSgUYoKEa/7e0a27ecda09da8077160ba82d064aa8/TID_undefined_PCI.png)
+![TID undefined PCI](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Contudo, todo pedido possui pelo menos uma transação, mesmo que o pedido já tenha sido criado com erro, como uma tentativa de fechar pedido com dados incompletos no checkout. Essa transação também é salva no PCI. Se você procurar pelo número da transação diretamente no módulo PCI, irá encontrar a info que deseja.
 

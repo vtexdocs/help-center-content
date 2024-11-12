@@ -28,7 +28,7 @@ When trying to import a spreadsheet, the user receives a generic error, such as:
 
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/ocxWNQ2WYbzEeXm0E3mVqrXPu/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

@@ -22,7 +22,7 @@ As lojas VTEX podem se tornar [sellers](https://help.vtex.com/pt/tutorial/estrat
 
 Isso acontece porque produtos que são vendidos tanto pelo marketplace como pelos seus sellers não são reconhecidos pelo sistema ao serem enviados. Só é possível enviar produtos que são vendidos por apenas uma das lojas.
 
-![arquitetura circular](//images.contentful.com/alneenqid6w5/56mCQjosVr8YmmMpcv67gj/371206531ea37589ffe30f7c0db64b57/arquitetura_circular.JPG)
+![arquitetura circular](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.JPG)
 
 ## Simulação
 

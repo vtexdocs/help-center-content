@@ -31,9 +31,9 @@ La interfaz de usuario de CRM no elimina los documentos, aunque se muestra el me
 
 
 - Acceda al sistema de aplicación (.vtexcrm.com.br)
-- Seleccione una vista, como Clientes, haga clic en ![](https://vtexhelp.zendesk.com/attachments/token/l2EMLx8PT4mDFNKGPAtZQVGxt/?name=image.png)
+- Seleccione una vista, como Clientes, haga clic en ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 - A continuación, el sistema mostrará los documentos que pertenecen a los datos de la entidad seleccionada
-- Seleccione un documento y haga clic en el botón eliminar ![](https://vtexhelp.zendesk.com/attachments/token/ipkMJC5WWN1LRfeRAkxr7RUCG/?name=image.png)
+- Seleccione un documento y haga clic en el botón eliminar ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 - Después de eso, el sistema le pedirá que confirme la acción
 - Después de la confirmación, aparece el mensaje "_Registro excluído com sucesso!_".
 - Pero el documento sigue en la lista al hacer clic en el botón OK

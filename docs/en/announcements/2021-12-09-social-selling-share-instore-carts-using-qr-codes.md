@@ -27,7 +27,7 @@ Previously, the Social Selling feature in inStore consisted of generating a link
 
 With the change, inStore now also generates a QR code that can be scanned by customers' devices, in addition to the shareable link.
 
-![instore-social-selling-qr-code-share-en](https://images.ctfassets.net/alneenqid6w5/3JOA4Ar1iW4PudeTYWzaQD/f3ec6fdf7a587799dcf51ebdf30cf6f7/image2.png)
+![instore-social-selling-qr-code-share-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Why did we make this change?
 

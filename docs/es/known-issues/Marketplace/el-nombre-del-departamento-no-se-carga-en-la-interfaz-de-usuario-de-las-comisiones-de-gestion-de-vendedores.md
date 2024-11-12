@@ -22,7 +22,7 @@ internalReference: 1005799
 
 
 Al seleccionar un departamento para establecer una comisión específica en la gestión de vendedores la tabla no está cargando el nombre del departamento. Este comportamiento no ocurre con las categorías inferiores.
- ![](https://vtexhelp.zendesk.com/attachments/token/irbcBV8R7kNO4F5XsLHtaxUMO/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

@@ -41,7 +41,7 @@ Antes de criar especificações, é importante compreender que elas seguem uma l
 
 Exemplo: considere o produto **Camisa Masculina**. Em __Catálogo > Produtos e SKUs > SKU > Especificações__, página ilustrada a seguir, podemos ver que o grupo de especificações chamado **Características** está associado à categoria da camisa. Esse grupo inclui um campo de nome **Cor** e um campo de nome **Tamanho**.
 
-![heranca-especificacoes-sku-pt](https://images.ctfassets.net/alneenqid6w5/1KPyqwiasQnbeEhBZ8K5ZJ/559bba5b55428ce03d7f1cda2c943b3a/image5.png)
+![heranca-especificacoes-sku-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Por se tratar de uma especificação de SKU, as informações selecionadas nessa página valerão somente para essa variação do produto **Camisa Masculina**. Todos os SKUs cadastrados no produto **Camisa Masculina** e todos os SKUs de produtos da mesma categoria devem ter essas especificações preenchidas também.
 
@@ -79,7 +79,7 @@ Para criar um campo de SKU, siga as instruções abaixo:
     * **Ativo**: insere ou remove este campo no cadastro do SKU.
 7. Clique em `Salvar`.
 
-![sku-spec-1](//images.ctfassets.net/alneenqid6w5/5b2UFRxvAQ6BoL6eStxf0D/f79bf71a242604110e96e435c58d1170/pt-sku-spec-1.gif)
+![sku-spec-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 
 #### Tipos de campo de SKU
 
@@ -124,13 +124,13 @@ Os **Valores** dos campos de SKU irão variar de acordo com o tipo do campo esco
 
     Insira um valor por linha e tecle `Enter` entre cada valor, conforme ilustrado na imagem a seguir.
 
-    ![valores-campo-sku-pt](//images.ctfassets.net/alneenqid6w5/7puatHudsAbkAY9NUKpWYh/c513840f0f21b2f76ec2215b239f3395/image9.png)
+    ![valores-campo-sku-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 8. Clique em `Salvar`.
 
     Os valores cadastrados serão exibidos na [interface do cadastro de SKU](#preencher-especificacoes-de-sku).
 
-![sku-spec-2](//images.ctfassets.net/alneenqid6w5/5MwO6aTSuIzCbxlrnzjTHQ/066317aa51dbd5521e83f85d9923782f/pt-sku-spec-2.gif)
+![sku-spec-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.gif)
 
 >ℹ️ Caso esteja cadastrando os primeiros valores de um campo, é necessário voltar no formulário daquele campo específico e marcar a opção **Ativo**.
 
@@ -173,7 +173,7 @@ Para preencher as especificações de cada SKU de forma individual, siga as inst
 
 8. Clique em `Salvar`.
 
-![sku-spec-3](//images.ctfassets.net/alneenqid6w5/6mV0lyVG6Z2ywmtNheePEf/448631dcf3653ce0af8373b24e353a5a/pt-sku-spec-3.gif)
+![sku-spec-3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.gif)
 
 #### Planilha
 
@@ -196,7 +196,7 @@ Para preencher especificações de SKUs em massa por planilha, você precisa exp
 9. Clique em **Selecionar** para selecionar o arquivo com a planilha preenchida no seu computador.
 10. Clique em `Importar`.
 
-![sku-spec-4](//images.ctfassets.net/alneenqid6w5/6apU0Qp7SqnH6ZfPT5lzrr/d71e8d6726d70416fa50bba58fcb1cfc/pt-sku-spec-4.gif)
+![sku-spec-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.gif)
 
 ## Saiba mais
 - [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)

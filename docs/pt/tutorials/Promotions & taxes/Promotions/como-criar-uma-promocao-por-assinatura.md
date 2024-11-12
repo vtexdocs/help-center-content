@@ -22,7 +22,7 @@ Neste artigo, você encontrará o passo a passo para criar promoções de assina
 3. Clique no botão `Nova Promoção`.
 4. Selecione o botão `Promoção Regular`.
 5. Selecione o campo **É um pedido de assinatura** na seção **Quais as condições para a promoção ser válida?**. Essa opção define que a promoção será aplicada em pedidos de assinatura. Apenas os produtos com assinatura no carrinho receberão o desconto. Para entender as possibilidades de configuração, veja as condições a seguir:
- ![frequenciapt](https://images.ctfassets.net/alneenqid6w5/3H1wS4j8dpkRfI0Le2A2CO/f4eb96b416f69ce48d712463b1d7bd16/image1__2_.png)
+ ![frequenciapt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 - **Pedido original**: pedidos que geram as assinaturas, mas ainda não fazem parte dos ciclos de assinatura.
 - **Pedidos recorrentes**: pedidos que fazem parte dos ciclos de assinatura.
 - **Filtrar por**: seleção que filtra quais pedidos de assinatura que serão válidos para a promoção.

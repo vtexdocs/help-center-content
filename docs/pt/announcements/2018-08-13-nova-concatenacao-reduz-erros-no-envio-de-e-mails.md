@@ -19,14 +19,14 @@ A partir de agora, sua loja pode usar ponto e vírgula (`;`) para concatenar end
 
 Esse recurso funciona nos campos de cópia (`Destinatário (CC)`) e cópia oculta (`Destinatário (CCO)`), assim como a vírgula já funcionava anteriormente. Agora as duas opções de concatenação são válidas.
 
-![Message Center bug fix](https://images.ctfassets.net/alneenqid6w5/1DCmh5JlI4cGyIEgwuQQUk/068e65871809d2810df7ec0427773b56/Message_Center_bug_fix.png)
+![Message Center bug fix](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Essa mudança simples no módulo responsável pelo envio de e-mails transacionais reduziu drasticamente a taxa de erros em comunicações com clientes.
 
 O gráfico abaixo mostra a taxa de erros de uma loja antes de implementarmos o suporte à concatenação com ponto e vírgula. Mais de 90% dos e-mails falhavam todos os dias.
 
-![Message Center bug fix 2](//images.ctfassets.net/alneenqid6w5/2WTicguBZ6ucAO2a48QKum/fb0774ca2f6d2b746a702813c95126a2/Message_Center_bug_fix_2.png)
+![Message Center bug fix 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Depois de implementada a melhoria, os erros no envio de e-mails transacionais da mesma loja foram completamente eliminados, como mostra este outro gráfico:
 
-![Message Center bug fix 3](//images.ctfassets.net/alneenqid6w5/1OmAZMSyp2cm8K4e6aKs8S/bf862028ae01ed3cb1b77cab375ebdf4/Message_Center_bug_fix_3.png)
+![Message Center bug fix 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)

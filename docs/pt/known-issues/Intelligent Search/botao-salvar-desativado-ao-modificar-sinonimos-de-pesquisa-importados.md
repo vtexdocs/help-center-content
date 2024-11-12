@@ -23,11 +23,11 @@ internalReference: 508893
 
 Ao tentar fazer qualquer mudança em uma configuração de sinônimo que era anteriormente importada por um arquivo csv, o botão salvar é sempre desativado, não importando a mudança:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/brdXbHb75jSVJae7gJcCY8QVH/?name=inline1786590037.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Isto está acontecendo porque ao importar um arquivo, as informações locais não estão sendo automaticamente preenchidas, conforme o exemplo abaixo:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/2CvsG56Jprt18bNjvIU8Mt07m/?name=inline-2007024263.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 

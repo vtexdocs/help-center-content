@@ -22,11 +22,11 @@ O botão <i class="fas fa-info-circle"></i> disponível na listagem de **Produto
 
 **Produto não disponível**
 
-![info vazia](//images.contentful.com/alneenqid6w5/7KB0N2iRtVhLHkGNx3phPh/762ff4e2e1986c8438c5c1f2ee2f9a29/image.png)
+![info vazia](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 **Produto disponível**
 
-![info preenchida](//images.contentful.com/alneenqid6w5/4TsjOjvtlZ6gn8k26X0Vpr/d71ae910c0726c0643a5f7ad9e6f7e52/image.png)
+![info preenchida](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 ## Simulação
 
@@ -43,5 +43,5 @@ O botão <i class="fas fa-info-circle"></i> disponível na listagem de **Produto
 4. Clique no botão `Indexed Info`.
 5. Verifique as informações do SKU no item Sales Channel como mostrado na imagem abaixo.
 
-![indexed info](//images.contentful.com/alneenqid6w5/7oC2oM6doEqm0pXVAN6Y6u/558f152a4d9c05442178db25e1e4c582/image.png)
+![indexed info](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 

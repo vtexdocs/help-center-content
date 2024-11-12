@@ -41,7 +41,7 @@ Currently, when saving data in the "Comentar" field in a Master Data form, the i
 3. Open the comment field
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/tUX7c40L6Mucgl7J60Ba4Ysn5/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 4. Try inserting any data in it and save

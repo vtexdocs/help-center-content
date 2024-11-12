@@ -22,7 +22,7 @@ internalReference: 890791
 
 
 Quando o comerciante está atualizando uma oferta, a interface do usuário é a seguinte:
- ![](https://vtexhelp.zendesk.com/attachments/token/UfffIyuM7K7isQMiPnAqRvSiW/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Ao tentar acessar o link do gerenciador de licenças, ele é redirecionado para uma página SWW.
 

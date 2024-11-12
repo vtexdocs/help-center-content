@@ -34,7 +34,7 @@ El **Calendario** muestra solamente [releases programados](https://help.vtex.com
 
 La imagen a continuación muestra la vista por mes y señala qué puedes hacer en esta interfaz:
 
-![releases-calendar-monthly-view-es](https://images.ctfassets.net/alneenqid6w5/BQCF0b8kNzGTOv06wCOde/8b589697f708bf34d7eac2b15c832b67/releases-calendar-monthly-view-es.png)
+![releases-calendar-monthly-view-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 En esta pantalla, puedes:
 
@@ -52,7 +52,7 @@ En esta pantalla, puedes:
 
 La imagen a continuación muestra la vista por semana y señala qué puedes hacer en esta interfaz:
 
-![releases-calendar-weekly-view-es](//images.ctfassets.net/alneenqid6w5/QHZDKB0IX07GLoEO84NJv/56000b0f86260f9e461695eab592be75/releases-calendar-weekly-view-es.png)
+![releases-calendar-weekly-view-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 En esta pantalla, puedes:
 
@@ -70,7 +70,7 @@ En esta pantalla, puedes:
 
 La imagen a continuación muestra la vista por día y señala qué puedes hacer en esta interfaz:
 
-![daily view v2 es](//images.ctfassets.net/alneenqid6w5/5dwgo1qqTYNFMKV4sBNW0Q/91fa4db8315a31fdf1187edf74e19d61/daily_view_v2_es.png)
+![daily view v2 es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 Además de ver información sobre el release, en esta pantalla, puedes:
 

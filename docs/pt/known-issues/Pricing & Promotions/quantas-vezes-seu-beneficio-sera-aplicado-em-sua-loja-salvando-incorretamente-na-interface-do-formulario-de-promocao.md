@@ -24,11 +24,11 @@ internalReference: 268304
 
 Na primeira caixa da seção "Restrições e Limitações de Uso" do formulário de promoção Regular, quando você salva a primeira caixa com um valor que não seja ilimitado e todas as outras caixas de seleção são marcadas, assim:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/XPIZEznRNirizqLBs0Bk3F2ns/?name=inline1741007227.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 E você revisita a promoção depois de salvar, os dados "mudam" para a caixa abaixo:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/QH2S7TuWMuQ2DRdr78J2YbZvS/?name=inline137244708.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 
@@ -54,7 +54,7 @@ Quando você revisita a promoção, ela "desce" na forma e a salva novamente, o 
 
 **2)** O preenchimento da segunda caixa com dados substitutos para "ilimitado" (em outras palavras, um número elevado, como 9999999) também funciona:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/7J5orWNE31sV3vzBFhy6pwWXs/?name=inline-1533850111.png) ![](https://vtexhelp.zendesk.com/attachments/token/vZMkrn7uS56cywlx1nDO3g7vz/?name=inline-468944681.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/7J5orWNE31sV3vzBFhy6pwWXs/?name=inline-1533850111.png) ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 3) Finalmente, a última solução seria economizar diretamente via API, em nosso pedido de SaveBenefit documentado em nosso centro de ajuda: https://developers.vtex.com/reference/benefits#createorupdatecalculatorconfiguration
 

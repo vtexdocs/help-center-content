@@ -28,7 +28,7 @@ Let's say you want to enter the carrier's name in the order sent email.
 
 To do this, go to the order sent template and, in the __JSON Data__ field, look for the `courier` property.
 
-![EN Incluir variáveis do pedido no template de e-mail - 1](https://images.ctfassets.net/alneenqid6w5/3lkYWEKSwjz99oSGDCpapE/338873a8e5b2558b0fa0df9c2bc3b4c6/EN_Incluir_vari__veis_do_pedido_no_template_de_e-mail_-_1.png)
+![EN Incluir variáveis do pedido no template de e-mail - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 The value entered for this property is just an example, but you can use it in the __HTML__ field so that when the email is sent, the customer will see the carrier actually responsible for delivering the order.
 
@@ -36,6 +36,6 @@ Note that the `courier` property is inside the `package` object. Therefore, you 
 
 `{{package.courier}}`
 
-![EN Incluir variáveis do pedido no template de e-mail - 2](//images.ctfassets.net/alneenqid6w5/5MhBjWokAHVHZKXgvswn6X/cf78d7e9f4408c7eec101e5768aaef4b/EN_Incluir_vari__veis_do_pedido_no_template_de_e-mail_-_2.png)
+![EN Incluir variáveis do pedido no template de e-mail - 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 See that the example value ("Carrier Teste Courier S.A.") was inserted in the preview screen, below the __HTML__ and __JSON Data__ fields.

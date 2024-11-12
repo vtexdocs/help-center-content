@@ -78,4 +78,4 @@ Após fazer a alteração no código, salve o arquivo `checkout-instore-custom.j
 
 Em seguida, no aplicativo inStore, para ver as alterações refletidas, entre no menu e clique no botão __Restaurar dados__, como mostra a reprodução abaixo.
 
-![22. Change the inStore language - 1](https://images.ctfassets.net/alneenqid6w5/6kMdyIyQkEUJ9HYKSLSFj4/55748d5b159dc83944dc211e95833669/22._Change_the_inStore_language_-_1.png)
+![22. Change the inStore language - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)

@@ -62,7 +62,7 @@ It must contain:
  
 In Postman, the URL must be included in the field informed below:
 
-![APIs1](https://images.contentful.com/alneenqid6w5/f53Sv9BCZqK4EI0sYmW8A/63e512b825d47daa2f685ae5bb9df553/APIs1.png)
+![APIs1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ****
@@ -81,7 +81,7 @@ But you do not need to come to this conclusion alone.  When making an API availa
  
 In Postman, the method is selected on the left of the URL field.
 
-![APIs2](//images.contentful.com/alneenqid6w5/wDClzNRJDiCE6OKecOAs4/8545dbce3bc2ee546b8cf497750360b5/APIs2.png)
+![APIs2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 ****
 
@@ -93,7 +93,7 @@ When a new user is created for your store, a specific profile of access to the m
  
 In Postman, AppKey and AppToken must be entered in the **Headers** tab. In the first header, enter `X-VTEX-API-AppKey` and then AppKey. In the second line, enter `X-VTEX-API-AppToken` and then your AppToken. To know how to generate your AppKey and your AppToken, read the article [Creating appKeys and appTokens to authenticate integrations](/en/tutorial/creating-appkeys-and-apptokens-to-authenticate-integrations).
 
-![APIs3](//images.contentful.com/alneenqid6w5/4z9W9DYJEcYa2WGIoSceEE/166d8adc70a8176af1a7fb04e5cdbb65/APIs3.png)
+![APIs3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 ****
 
@@ -113,11 +113,11 @@ VTEX’s APIs are available at our Help Center, in section [Developer Docs](/en/
  
 They are divided by module or functionality.  Click on one of them to find the corresponding APIs, as well as indications about their relevant method, URL and Headers. Some APIs also include the code that must be informed in the Body.
  
-![APIs4](//images.contentful.com/alneenqid6w5/1JZCBHsm6UGS2EwuGqoGm4/a61e000b81acd2f06a1021f70c12e31b/APIs4.png)
+![APIs4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
  
 On the right side of these indications, Postman displays one Sample Request for each API. In accordance with the wording selected on the check box placed above it, the Sample Request shows the application of the request in the code.
 
-![sample request](//images.ctfassets.net/alneenqid6w5/3wK9xsMZmwca8IeygiYOyO/fc875afab27a1abb9c812ec62e511ec9/sample_request.png)
+![sample request](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
  
 Some APIs also have a Sample Response, which is an example of a response to that request.
  

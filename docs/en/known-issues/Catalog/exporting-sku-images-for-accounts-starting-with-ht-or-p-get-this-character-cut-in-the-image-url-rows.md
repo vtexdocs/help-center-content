@@ -32,7 +32,7 @@ The SKU image report, /admin/Site/ProdutoImagemExportacao.aspx, for accountnames
 
 For instance, if the account is named "testaccount":
 
- ![](https://vtexhelp.zendesk.com/attachments/token/3VxPtxFSDjU1obEtgqkS16BXM/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

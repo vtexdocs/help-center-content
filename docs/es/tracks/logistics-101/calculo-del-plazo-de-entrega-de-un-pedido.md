@@ -23,17 +23,17 @@ El plazo de entrega de un pedido tiene en cuenta los __tiempos de costo__ defini
 
 Para cada una de las tres etapas de la ruta logística, puede establecer un tiempo de costo - y el tiempo de entrega que verá su cliente en el checkout es la suma de estos tiempos de costo (+ feriados, y considerando también los horarios de corte).
 
-![deliveryCostTimes](https://images.contentful.com/alneenqid6w5/hA6N4VPj440AEqEecIUck/0a6784f0c3d6f6d88b65547762600a7d/deliveryCostTimes.png)
+![deliveryCostTimes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Los tiempos de costo del __stock__ y del __muelle__ se definen en las pantallas de configuración de cada una de estas etapas, en el módulo Inventario y Envío > Paneles.
 
-![calculoPrazoEntrega1](//images.contentful.com/alneenqid6w5/4QgQlroxxCK4iu6YoU2uIQ/a2df01bdbe2449e924a6380b5a39a19b/calculoPrazoEntrega1.png) 
+![calculoPrazoEntrega1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png) 
 
-![calculoPrazoEntrega2](//images.contentful.com/alneenqid6w5/6xAiBHXxwA2cMIaaK4AKm2/bfff8d81b7363121cc84de1149cfd587/calculoPrazoEntrega2.png)
+![calculoPrazoEntrega2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 El tiempo de costo de la __transportadora__ se define en la tabla de flete, que se envía a VTEX a través de la pantalla de configuración de la transportadora, también en el módulo Inventario y Envío.
 
-![calculoPrazoEntrega3](//images.contentful.com/alneenqid6w5/2bL9Gw0AeswGAeKSqYCYw4/57c492eb08239d61e463839a768101ad/calculoPrazoEntrega3.png)
+![calculoPrazoEntrega3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 ## Ejemplos
 

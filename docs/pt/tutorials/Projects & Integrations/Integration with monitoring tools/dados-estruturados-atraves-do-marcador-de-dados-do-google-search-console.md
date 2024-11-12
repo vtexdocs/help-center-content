@@ -65,13 +65,13 @@ Com esse tipo de informação o usuário indicará ao Google informações sobre
 - <em style="color: gray">Data da resenha:_
 
 **Passo 1**
-![](https://images.contentful.com/alneenqid6w5/2auEIkvBGMO8gqWqgA4u8q/0c53485d350f622ae184852c88688f0c/marcadordedados_step1.gif)****
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)****
 
 **Passo 2**
-![](//images.contentful.com/alneenqid6w5/62T28aRiUM0cOwOmiOQ2UA/8584923dd2b3c1f9f9bc7a782caee223/marcadordedados_step2_url_type.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 
 **Passo 3**
-![](//images.contentful.com/alneenqid6w5/5YhbETD9mMMgsAeKGE2SMG/622bccd0df4e05462f7db9ae7bb05cf9/marcadordedados_step3_markup_business.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.gif)
 
 ### Produtos
 
@@ -90,10 +90,10 @@ Com esse tipo de informação o usuário indicará ao Google informações sobre
 - <em style="color: gray">Data da resenha:_
 
 **Passo 1**
-![](//images.contentful.com/alneenqid6w5/5ARq4O3nna8gqGM8KasC4K/57999e6c592e985550758aaab1c15c06/marcadordedados_step2_url_type_product.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.gif)
 
 **Passo 2**
-![](//images.contentful.com/alneenqid6w5/1TNyUZzqLSOOO48gmCOQ26/d78f4f460a7d6caf864498db7f1ce2b2/marcadordedados_step3_markup_product.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.gif)
 
 **Passo 3**
 Lembrando que o **Marcador de Dados** apenas identifica os dados para o Google, para as demais ferramentas de busca será necessário estruturar os dados através de tags inseridas no código fonte.

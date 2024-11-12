@@ -25,7 +25,7 @@ This approval can be done manually through the Orders Management module as shown
 2. Click on the transaction.
 3. Click on **Notify Payment** button.
 
-![NotificarEN](https://images.ctfassets.net/alneenqid6w5/19t11NnJzs40wGQqkaeKIu/1d7fee23772ca875bccb59286859c415/NotificarEN.png)
+![NotificarEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 **After approval of the payment, the order will go through the normal purchase flow.**
 

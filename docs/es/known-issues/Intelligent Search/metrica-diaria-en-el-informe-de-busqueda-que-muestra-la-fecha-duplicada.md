@@ -23,7 +23,7 @@ internalReference: 508883
 
 Cuando se descarga un informe de búsqueda, la tabla que contiene métricas como búsquedas, clics y clics únicos al final del informe contiene una columna de fecha que muestra entradas duplicadas sin una razón aparente como se puede ver en la imagen:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/5c2UeFN2SuSga7svfBs5UPNF5/?name=inline-1918989527.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

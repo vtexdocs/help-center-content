@@ -23,8 +23,8 @@ __Para acessar essa planilha, siga os passos abaixo:__
 1. Acesse o módulo __OMS__
 2. Clique no ícone de __filtro__
 3. Faça uma busca __por período__ (lembrando que o range máximo permitido é de até 6 meses. No caso de querer fazer uma busca por perído de 1 ano, por exemplo, faça a busca 2 vezes) 
-4. Ao retornar para a lista já filtrada de pedidos, __clique no ícone de exportação__.![exportacaoOMS](https://images.contentful.com/alneenqid6w5/3pX1xFqvS0uMOEe8OUquci/81e2be7c1948d62a863cfccfc36f18a9/exportacaoOMS.png)
-5. Será exibida uma barra de progresso. Então, para finalizar, é preciso clicar em __Exportar xxx pedidos para e-mail__.![ExportarOMS](//images.contentful.com/alneenqid6w5/3Z7h82etgIuQcUI6iGsgyk/11bbadc4b3c2174c82844e9125af8e50/ExportarOMS.png)
+4. Ao retornar para a lista já filtrada de pedidos, __clique no ícone de exportação__.![exportacaoOMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+5. Será exibida uma barra de progresso. Então, para finalizar, é preciso clicar em __Exportar xxx pedidos para e-mail__.![ExportarOMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Sua solicitação irá para uma fila, que pode ser acompanhada pelo OMS. Quando chegar sua vez, você receberá a planilha de pedidos no seu e-mail.
 

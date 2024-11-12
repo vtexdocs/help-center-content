@@ -26,14 +26,14 @@ Once that field has been located, follow the instructions below:
 
 1. Access the __Catalog__ module
 2. Click on __Categories__
-![ENgrupo1](https://images.ctfassets.net/alneenqid6w5/1FV4cfZ09pHFMm5PQQjh7I/67df4c591f88db3ae47f057ad81b5d49/ENgrupo1.PNG)
+![ENgrupo1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.PNG)
 3. Click on __Actions__
 4. Select __Product Fields__
-![ENSgrupo2](//images.ctfassets.net/alneenqid6w5/3F6DH1j52N2e1oUBMKoSNf/8d5b1a3644ae4700f1eb99fc065d2464/ENSgrupo2.png)
+![ENSgrupo2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 5. Find the __group__ you wish to make changes to
 6. Click on __Edit__
-![ENgrupo3](//images.ctfassets.net/alneenqid6w5/4GBCyFv6QYipoaBROwGxbN/0d5050a3e8bd6021e8a6cca3ca8606ad/ENgrupo3.png)
+![ENgrupo3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 7. After performing the required changes, click on __Save__ 
-![ENgrupo4](//images.ctfassets.net/alneenqid6w5/6O7gv1HlM2P2cD0lj6y1Fg/7531c48a52521c1cca9dc4bc2225bd30/ENgrupo4.png)
+![ENgrupo4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 Done, fields have been changed! Don't forget to save the settings for the changes to be displayed on your store's front end.

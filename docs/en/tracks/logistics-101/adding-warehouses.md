@@ -29,7 +29,7 @@ Follow the steps below to add a warehouse to your store:
 4. Fill out the inventory form fields. For more on each field's meaning, see the [Data Entry Fields](#data-entry-fields) section below.
 5. **Save**.
 
-![EN Cadastrar Estoque GIF](https://images.ctfassets.net/alneenqid6w5/4teusm8ha4Qp7z2SJ8C6R6/d1e9f85854f1da52135f6920b1ad8aaa/EN_Cadastrar_Estoque_GIF.gif)
+![EN Cadastrar Estoque GIF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 ### Data Entry Fields
 

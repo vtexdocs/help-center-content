@@ -19,10 +19,10 @@ internalReference:
 ## Sumário
 
 Quando um item é removido do pedido:
-![item removido](//images.ctfassets.net/alneenqid6w5/6Z4eZwTaE00c4IoWWwgoAE/c280b06fb2912bad51afceac5db4c4d0/tozOd3.jpg)
+![item removido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.jpg)
 
 O email transacional não considera o item removido e apresenta os dois itens no e-mail:
-![email transacional](//images.ctfassets.net/alneenqid6w5/77NEYq80oM6Umm44KO8Uc/625b13837f9ff4b4333e2e28a0745431/zbXg5s.jpg)
+![email transacional](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.jpg)
 
 
 

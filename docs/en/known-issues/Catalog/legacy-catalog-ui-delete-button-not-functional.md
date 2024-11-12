@@ -21,7 +21,7 @@ internalReference: 326408
 
 The button to delete products on the catalog is not working, it simply doesn't recognize any user clicks
 
- ![](https://vtexhelp.zendesk.com/attachments/token/ZR7ogOzhfLN3yC61V9RzTMRlZ/?name=inline-652081372.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 This action might work if the product was just created and no skus, images or any other kind of data is associated with it.
 

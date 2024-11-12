@@ -28,7 +28,7 @@ Los tipos de cuenta VTEX son:
 
 La siguiente imagen muestra una visión general para ayudarte a [elegir entre la cuenta estándar, franquicia o Seller Portal](https://help.vtex.com/es/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78):
 
-![main_account_franchise_seller_portal_ES](https://images.ctfassets.net/alneenqid6w5/4NfyGbu9eVJFRc6EfCpTHr/befcaed2563320ca9280d44759fe4962/main_account_franchise_seller_portal_ES.png)
+![main_account_franchise_seller_portal_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Recursos de las cuentas
 
@@ -63,7 +63,7 @@ Sin embargo, el uso simultáneo de muchas políticas comerciales puede afectar e
 
 La siguiente imagen es un ejemplo de la relación entre la cuenta principal, entorno, multitiendas y políticas comerciales:
 
-![multistore_aditional_environment_ES](//images.ctfassets.net/alneenqid6w5/6XOI59M49L18E99hSDpgWe/a0d486cc33bba9057698b54eb2f8eaf4/multistore_aditional_environment_ES.png)
+![multistore_aditional_environment_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 ### Multitienda
 

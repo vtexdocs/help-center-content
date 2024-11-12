@@ -22,7 +22,7 @@ internalReference: 751091
 
 
 A través de la interfaz de usuario (directamente en VTEX admin) es posible crear un archivo adjunto sin el campo **Valores permitidos** lleno:
- ![](https://vtexhelp.zendesk.com/attachments/token/8rFw6593yoVr64CViajezsXW0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Sin embargo, a través de la API existe esta validación para este campo:
 

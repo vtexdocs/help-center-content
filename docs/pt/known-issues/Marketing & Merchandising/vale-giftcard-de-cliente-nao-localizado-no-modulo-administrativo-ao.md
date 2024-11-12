@@ -20,7 +20,7 @@ internalReference:
 
 Ao realizar uma consulta de vales, no admin, por CPF (documento), o vale do cliente não é listado.
 
-![vale](//images.contentful.com/alneenqid6w5/78Mt2DDgaIwg2I66gSYGgM/66de95f8e3b3b73d20a0165f4da67f88/vale.png)
+![vale](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Simulação
 
@@ -41,5 +41,5 @@ Para consultar um CPF sem pontos e hífen (criados por API), então:
 2. Remova os pontos e o hífen;
 3. Clique em "Buscar";
 
-![vale animado](//images.contentful.com/alneenqid6w5/p5ybSG51tYmIe2qCu2GGg/2c68720ce41c517630b7049c49daf3f9/vale.gif)
+![vale animado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 

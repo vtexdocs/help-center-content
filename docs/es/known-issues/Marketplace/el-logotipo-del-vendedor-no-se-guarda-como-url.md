@@ -26,7 +26,7 @@ La información del logo del vendedor en la base de datos no se está guardando 
 
 Actualmente nuestra documentación de formulario de pedido indica que este campo se supone que es una URL:
 https://developers.vtex.com/docs/guides/orderform-fields#sellers
- ![](https://vtexhelp.zendesk.com/attachments/token/SNx3LvZCcZAZHXrEnMaa5EUkh/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Pero en nuestra base de datos se está guardando en un formato diferente.
 

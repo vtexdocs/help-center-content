@@ -43,7 +43,7 @@ Al entrar en el Message Center y hacer clic en __Templates__, encontrará una li
 
 Comprendamos la información presente en estos cards.
 
-![Emails 1 1](https://images.ctfassets.net/alneenqid6w5/2cuPA5D3ICgDt8TqlGY9fO/5dd2b918489d7a5fdaa9752f8518ecdd/Emails_1_1.png)
+![Emails 1 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 - Nombre del template para identificación interna. Este *no* es el asunto del correo electrónico.  
 - Aplicación o módulo al que pertenece el template, indicado en verde.  
@@ -53,7 +53,7 @@ Comprendamos la información presente en estos cards.
   
 Para buscar templates, puede utilizar filtros por aplicación (módulo) y tipo (mensaje estándar o personalizado).
 
-![Emails 1 2](//images.ctfassets.net/alneenqid6w5/3tUJ7WpRbHOjUne8tGBaNa/cf9705309d6be38c06fa895ee59268e4/Emails_1_2.png)
+![Emails 1 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 ### Remitentes
 
@@ -61,7 +61,7 @@ Aquí, el usuario verifica y edita la información - nombre, correo electrónico
 
 Esta es la información que se muestra en los cards de los remitentes:
 
-![Emails 1 3](//images.ctfassets.net/alneenqid6w5/2zJnpHTT74AzVysxE5Q6k1/4abac7e5feef61e4495288126f74cc86/Emails_1_3.png)
+![Emails 1 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 - Nombre del remitente, para identificación interna.  
 - Tipo de servidor SMTP, que puede ser de VTEX o de la propia tienda.  

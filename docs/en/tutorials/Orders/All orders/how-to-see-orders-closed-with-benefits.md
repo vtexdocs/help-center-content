@@ -20,7 +20,7 @@ In the section __Orders management__ you can filter the orders made in a certain
 If you want to see the orders that were closed with this benefit applied, just follow the steps below:
 
 1. In the admin menu, click on __Orders management__
-2. Click the filter button and, under the __Others__ section, click the __Promotions & Taxes__ option.![promo-filter-en](https://images.ctfassets.net/alneenqid6w5/1JFiP4ZNhmu4cWcOK4Ugs8/cdebe29a683b1561ddaacd034bbaeb1b/promo-filter-en.png)
+2. Click the filter button and, under the __Others__ section, click the __Promotions & Taxes__ option.![promo-filter-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 3. Select this benefit and click on __Confirm__
 
 In the order list, you'll see all orders closed with this benefit.

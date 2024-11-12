@@ -26,7 +26,7 @@ internalReference:
 ---
 
 
-![Screen Shot 2017-05-26 at 12.01.58](//images.contentful.com/alneenqid6w5/qUqOq8ZyGOCAAoiUM0600/66a6bf0fa60bbd65fa9abd1ca7c825ae/Screen_Shot_2017-05-26_at_12.01.58.png)
+![Screen Shot 2017-05-26 at 12.01.58](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Se o layout do novo Meus Pedidos apresentar problemas em sua loja _out of the box_, sem nenhuma customização, pode ser que o CSS de sua loja esteja interferindo com ele.
 

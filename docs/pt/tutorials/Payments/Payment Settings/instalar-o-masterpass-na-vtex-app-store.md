@@ -23,7 +23,7 @@ Este artigo tem o objetivo de mostrar o passo-a-passo para instalação da exten
 
 Em primeiro lugar, na tela **Explorar**, clique na extensão **Masterpass**.
 
-![Extension Store 1](https://images.contentful.com/alneenqid6w5/6E480Kd4t2EqimaiKW8cii/ef5ba713601e5bdc4f97ff20133aa354/Extension_Store_1.png)
+![Extension Store 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Você terá então acesso à página de detalhes da extensão, onde as seguintes informações são mostradas:
 
@@ -38,17 +38,17 @@ Para instalar o Masterpass, basta clicar no botão verde à direita do ícone da
 
 O botão de instalação leva à tela de permissões, onde é possível visualizar todos os dados e locais a que a extensão deseja ter acesso.
 
-![Masterpass1](//images.contentful.com/alneenqid6w5/qxOKuZ9dZY2Gy8osWg26A/f553a03370fb198e8dd38d95bd20bb35/Masterpass1.gif)
+![Masterpass1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 
 Uma vez que você aceite as permissões, a extensão será instalada.
 
-![Masterpass2](//images.contentful.com/alneenqid6w5/4rxdPuNq0oO2QuCiMaISAy/e8cca1acea0db1e87a0573b8c23f2013/Masterpass2.png)
+![Masterpass2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 ## Configuração
 
 Para funcionar corretamente, você precisa cumprir uma etapa de configuração. Basta preencher alguns campos, como os mostrados na imagem abaixo, e clicar em **Criar conta**.
 
-![Masterpass3](//images.contentful.com/alneenqid6w5/5XbYGeSd2gy4QEaIiMeqQ0/a20d27e9aa18af9a95767fb604e82d7c/Masterpass3.png)
+![Masterpass3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 ## Preview
 
@@ -58,7 +58,7 @@ Além disso, a Extension Store disponibiliza um ambiete de preview do Masterpass
 
 Esse ambiente funciona como um rascunho. Nenhuma alteração feita nele afeta sua loja em produção.
 
-![Masterpass4](//images.contentful.com/alneenqid6w5/7Ki5CoHPvUusGuU4UEE2U4/7d8d02434118b7c3b6c295edc9efbb18/Masterpass4.gif)
+![Masterpass4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.gif)
 
 ## Publicação
 
@@ -66,4 +66,4 @@ Para mover o Masterpass para o ambiente em produção (onde seus clientes podem 
 
 Para isso, basta clicar no botão **Publicar** da top bar.
 
-![Extension Store 3 - Publishing](//images.contentful.com/alneenqid6w5/39BcR4BFkk8kGEKiaEWICU/f195532be2243b35168ac69e72226d20/Extension_Store_3_-_Publishing.png)
+![Extension Store 3 - Publishing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)

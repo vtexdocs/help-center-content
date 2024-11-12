@@ -45,7 +45,7 @@ Para ver esses detalhes, basta fazer uma [simulação de frete](/pt/tutorial/sim
 6. Informe o CEP do pedido.
 7. Clique em __Simular frete__.
 
-![simular-frete-pt](https://images.ctfassets.net/alneenqid6w5/6TPVNOKh1uKmmMGGQAoeY2/e437d4fcd8f91d28f05813f936d30f4a/simular-frete-pt.png)
+![simular-frete-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Para cada transportadora considerada na simulação, você pode ver os detalhes do pedido correspondente. Para isso, clique em __detalhar__.
 

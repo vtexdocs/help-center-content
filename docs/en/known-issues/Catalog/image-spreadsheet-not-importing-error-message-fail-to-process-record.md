@@ -23,7 +23,7 @@ internalReference: 691803
 Sometimes, when trying to import a image spreadsheet with URLs from vteximg.com.br or vtexassets.com that are set as "https://' instead of "http://" the import fails. The error message is:
 
 `"Fail to process record. Make sure your worksheet data is consistent and try again. Error details: An error ocurred while sending the request."`
- ![](https://vtexhelp.zendesk.com/attachments/token/fenodCFcwpVyXYWUj6kgoi1fx/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

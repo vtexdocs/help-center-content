@@ -22,7 +22,7 @@ O módulo *Estoque & Entrega* é onde você faz todo o gerenciamento da logísti
 Algumas seções da página de cadastro de **Política de Envio** mudaram, para te dar mais flexibilidade ao configurar sua estratégia de entrega. Na versão anterior, havia uma seção chamada *Configuração de Tempo*, na qual era possível selecionar *Horário de Funcionamento*, *Horário de Corte* ou *Entrega Agendada* para cada transportadora. 
 
 **Versão anterior**
-![PT Configurações de tempo versão antiga](https://images.ctfassets.net/alneenqid6w5/2n9RGrhtYEYrGsnsBN3Qlj/853e5c8125a87076697643bbb62848a0/PT_Configura____es_de_tempo_vers__o_antiga.jpg)
+![PT Configurações de tempo versão antiga](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.jpg)
 
 Na nova versão:
 - Mudamos os nomes das opções para facilitar seu entendimento.   
@@ -30,7 +30,7 @@ Na nova versão:
 - Adicionamos a opção de configurar capacidade de entrega, para que a entrega agendada seja feita com base na realidade da sua operação.   
 
 **Versão Beta**
-![PT Horário de funcionamento transportadora beta](//images.ctfassets.net/alneenqid6w5/7p1pOc8ng4KJCVIUUOZMtJ/e5ae82ee60854de23f4b3142720c3aa7/PT_Hor__rio_de_funcionamento_transportadora_beta.jpg)
+![PT Horário de funcionamento transportadora beta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.jpg)
 
 ## Horário de coleta
 
@@ -47,7 +47,7 @@ Assim como na versão anterior, não é possível configurar as opções de *Per
 Antes só era possível optar pela funcionalidade de *Entrega Agendada* abrindo mão do *Horário de Funcionamento*. Agora é possível configurar a opção de *Entrega Agendada* juntamente com o *Horário de Funcionamento* para que seu cliente opte por esse método de entrega durante o checkout de seu pedido. Confira os campos de preenchimento para configurar essa opção.
 
 **Versão Beta**
-![PT entrega agendada](//images.ctfassets.net/alneenqid6w5/5NEf2aJHHPmQTIFgvDt19H/2de3b092c9265fce7aa6d5478f2de5dd/PT_entrega_agendada.jpg)
+![PT entrega agendada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.jpg)
 
 - **Tempo máximo de entrega**: esse campo deve ser preenchido de acordo com a sua operação logística. Defina qual é o maior período de tempo que aquela transportadora gasta para realizar uma entrega agendada, entre a confirmação do pedido e a confirmação da entrega.
 - **Configurar capacidade de entrega**: dependendo das características da sua operação, e de como a transportadora envia os seus produtos, pode fazer mais sentido definir uma capacidade de entrega em número de itens, ou em número de pedidos. Se sua loja for do segmento de supermercado, por exemplo, e o meio de transporte para a entrega agendada for por moto, existe um número limite de itens que cabem na armazenagem daquele veículo, portanto sugerimos que selecione `itens` como unidade. Já se sua operação tiver poucos itens por pedido, fará mais sentido determinar `pedidos` como unidade, por exemplo.

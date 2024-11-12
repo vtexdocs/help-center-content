@@ -32,7 +32,7 @@ Currently, for data entities with several fields, when there's an attempt to exp
 
 2 - the download link will not generate a file onto your browser
 
- ![](https://vtexhelp.zendesk.com/attachments/token/nQdUqbk7BiOK5RcigZhNZR9Rr/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

@@ -19,11 +19,11 @@ Las `UTMi`s son UTMs internas, es decir, parámetros de URL que tienen el objeti
 
 Por lo tanto, no tienen el objetivo de rastrear el tráfico que viene de sitios o servicios externos, con propósitos relacionados con el contexto de marketing. Esta es una función ejercida por las UTMs, como se explica en el artículo [Qué son utm_source, utm_campaign y utm_medium](/es/faq/que-son-utm-source-utm-campaign-y-utm-medium).
 
-Normalmente, las UTMs internas se utilizan como __causa de promoción__. En el módulo Tasas y Promociones, usted puede definir que sólo los pedidos cerrados con determinada UTM aplicada en la URL recibirán la promoción. Vea abajo el campo para elegir o crear esta UTM interna en el registro de una promoción regular.![utmi1](https://images.contentful.com/alneenqid6w5/16CfZDMc1A2IiiU2UcayS2/aaf51be21c48ee58b10066e7cb70c063/utmi1.jpg)
+Normalmente, las UTMs internas se utilizan como __causa de promoción__. En el módulo Tasas y Promociones, usted puede definir que sólo los pedidos cerrados con determinada UTM aplicada en la URL recibirán la promoción. Vea abajo el campo para elegir o crear esta UTM interna en el registro de una promoción regular.![utmi1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.jpg)
 
 En el modulo Gestión de Pedidos, dentro de la pantalla de detalles del pedido, usted puede girar la carta de Valor Total para ver los datos de __Promociones y Marketing__. En él figura el valor del parámetro de la UTM interna usada en la promoción.
 
-![utmi2](//images.contentful.com/alneenqid6w5/41RwzsUqdOYWaYAokS6YiC/5774226a9a53769566cdefbcb2c0b171/utmi2.jpg)
+![utmi2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.jpg)
 
 VTEX trabaja con tres tipos de UTMs internas:
 - `utmi_cp`

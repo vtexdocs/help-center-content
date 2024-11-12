@@ -35,9 +35,9 @@ To enable the protection, please follow the instructions below:
 4. In the upper right corner, click on the Settings icon.
 5. Under __Attack protection__, click on the button to enable it (green color indicates "enabled").
 
-![proteção-botao-configurações](https://images.ctfassets.net/alneenqid6w5/1jhGP8FOgMtkEp0O8AqOnX/c36c317b8cd30966cd76901c897219f3/prote____o-botao-configura____es.png)
+![proteção-botao-configurações](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
-![protection-option-enable1](//images.ctfassets.net/alneenqid6w5/QSVTQfbO9BDFUB33KXgj7/9ee748c43264183f31f071514862a068/protection-option-enable1.png)
+![protection-option-enable1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 ### How to disable protection against transaction attacks?
 
@@ -67,13 +67,13 @@ To access this information, please follow the instructions below.
 6. To select __Detected threats__ or __Neutralized threats__, click on one of the arrows on the right.
 7. Check the details of the events in the popup window displayed.
 
-![protection-option-historic1](//images.ctfassets.net/alneenqid6w5/6oUr155OKf1tKDw3O3i2ZD/a0a2156aa0b0b791992c67cc21f71279/protection-option-historic1.png)
+![protection-option-historic1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
-![protection-screen-historic1](//images.ctfassets.net/alneenqid6w5/6mjiUMYjTQ2nmU7NZKGnyk/c92c6fe16f49fab604337c8749c10657/protection-screen-historic1.png)
+![protection-screen-historic1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
-![screen-threat-potential1](//images.ctfassets.net/alneenqid6w5/4ZyYbA7qHIc5PvpxxiHlKk/22a6858af2e7a5acac9ef3d5bb6ff106/screen-threat-potential1.png)
+![screen-threat-potential1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
-![screen-threat-neutralized1](//images.ctfassets.net/alneenqid6w5/EhBQQcXklgecc5X2dwHR7/d67780094c2c7cfeaacd2935c2516854/screen-threat-neutralized1.png)
+![screen-threat-neutralized1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
 
 ### Related Articles
 - [What is an anti-fraud solution?](https://help.vtex.com/en/tutorial/o-que-e-antifraude)

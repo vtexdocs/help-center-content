@@ -15,7 +15,7 @@ legacySlug: seller-portal-product-details
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
-![Shared products product details EN](https://images.ctfassets.net/alneenqid6w5/6H2NihfYF5QWfj60VjFueu/cc3f300460749e515607a49f6e6d2bc2/Shared_products_product_details_EN.jpg)
+![Shared products product details EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.jpg)
 
 On the product details page of the [Shared Products](https://help.vtex.com/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) module, you can view all information about a specific product, including: 
 

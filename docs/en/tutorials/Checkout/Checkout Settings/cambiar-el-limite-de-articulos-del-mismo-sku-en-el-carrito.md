@@ -25,4 +25,4 @@ To do this, follow the steps below:
 For White Label Sellers there is a limit of 50 items with the same SKU in the shopping cart. You can change this limit upon request to customer
  [support](https://help.vtex.com/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe).
 
-![Carrinho Max EN](https://images.ctfassets.net/alneenqid6w5/2NKRULRqqck8QmGg8oOSCs/d7b5c44cca5cc1e4ca19abcb80dfd379/Carrinho_Max_EN.png)
+![Carrinho Max EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)

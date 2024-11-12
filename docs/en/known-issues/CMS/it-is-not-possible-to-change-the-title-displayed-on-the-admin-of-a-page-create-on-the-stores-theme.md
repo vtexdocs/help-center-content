@@ -28,13 +28,13 @@ If you go to the CMS's pages module and try creating a page manually via the adm
 
 
 Create a new page on your theme, and try changing your title. In my example, I added the word "tema":
- ![](https://vtexhelp.zendesk.com/attachments/token/fSZvyE7PZzzqiBkPo0RFeMWOh/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Go to the pages module and check if the title changed, you will see that we received the change, but it is not displayed on the title above:
- ![](https://vtexhelp.zendesk.com/attachments/token/OheWJWbzKLJ88IWGndejy3kDT/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 The same is on the page's list:
- ![](https://vtexhelp.zendesk.com/attachments/token/Eh11X7Z9HLzLsbp1vmbtOA7VK/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 If you try changing the title directly on the admin the result will be the same.
 

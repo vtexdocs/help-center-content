@@ -25,7 +25,7 @@ Existen dos flujos de registro de SKU por el admin: luego de registrar un produc
 ### Registrar SKU luego del registro de un producto
 
 1. En la pantalla de registro de Producto, después de rellenar los campos, haga clic en `Guardar y Crear SKU`.
-  ![1foto.es](https://images.ctfassets.net/alneenqid6w5/5lYrKBh17OA6yUU5HHdZO7/cd48c8350405235a7526b16c0248083f/1foto.es.png)
+  ![1foto.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 2. Usted será redirigido a la pantalla de registro de SKU. Rellene los campos del formulario de SKU. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [cómo rellenar los campos de registro de SKU](https://help.vtex.com/es/tutorial/campos-de-registro-de-sku--21DDItuEQc6mseiW8EakcY).
 3. Haga clic en `Guardar`.
 
@@ -43,7 +43,7 @@ Existen dos flujos de registro de SKU por el admin: luego de registrar un produc
 Después del registro de un SKU, es necesario agregar una imagen para que se active. Para esto, realice el siguiente procedimiento:
 
 1. En la página de registro de SKU, haga clic en la pestaña **Imágenes**.
-  ![6foto.es](//images.ctfassets.net/alneenqid6w5/5AgORlEQzTGpvxSKSuGUl7/f363abad82ee975e0a0dab1448f47348/6foto.es.png)
+  ![6foto.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 2. Haga clic en `Insertar` y elija la imagen deseada.
 3. Rellene los campos **Texto** (tag alt de la imagen) y **Label** (la “etiqueta” utilizada para facilitar la organización del template de las páginas de su sitio web, a través de la referencia del valor rellenado en esta. Ej.: Frontal, lateral, superior, etc.)
 4. Haga clic en `Enviar`.
@@ -53,7 +53,7 @@ Después del registro de un SKU, es necesario agregar una imagen para que se act
 Después de registrar las imágenes, debe registrar las especificaciones del SKU. El registro de las especificaciones se detallará en el próximo paso de esta guía. 
 
 1. Haga clic en la pestaña **Especificaciones**.
-  ![7foto.es](//images.ctfassets.net/alneenqid6w5/3OdYoTaGUSznx0PsVyrKaX/b89adf4357e466db3d9a9efcb3109b4d/7foto.es.png)
+  ![7foto.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 2. Rellene los campos solicitados. Los valores de las especificaciones se configuran en el nivel de la Categoría.
 3. Haga clic en `Guardar`.
 

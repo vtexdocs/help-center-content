@@ -25,11 +25,11 @@ Esta página permite que você realize as seguintes ações:
 * [Buscar ordem de serviço](#buscar-ordem-de-servico)
 * [Filtrar ordens de serviço](#filtrar-ordem-de-servico)
 
-![pick-pack-ordem-servico-pt](https://images.ctfassets.net/alneenqid6w5/6mHohZLRFdkoTlltboN2pm/0d7875431b5940b7d94bcc7d156c4d7c/image.png)
+![pick-pack-ordem-servico-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 As ordens de pedido são apresentadas em cartões contendo as seguintes informações: 
 
-![pick-pack-ordem-servico-2-pt](//images.ctfassets.net/alneenqid6w5/2LZZpv41eVop7ajXNrkfC4/c8143a8bf5b02f69cf6906531e46b755/image.png)
+![pick-pack-ordem-servico-2-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 * ID da ordem de serviço.
 * Quantidade de pedidos contidos na ordem de serviço.
@@ -47,7 +47,7 @@ Você pode criar uma nova ordem de serviço seguindo os passos descritos abaixo:
 3. Clique na aba **Manual** para criar manualmente a ordem de serviço.
 4. Clique em `+` para criar uma ordem de serviço. Você pode criar mais de uma ordem de serviço.
 5. Arraste os pedidos que deseja para a ordem de serviço.
-  ![pick-pack-ordem-servico-3-pt](//images.ctfassets.net/alneenqid6w5/1xxnRTbuVnfvto7Q8czn8i/9fff8b6632fe20c3b5e8b6b568b5adc1/image.png)
+  ![pick-pack-ordem-servico-3-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 6. Clique em `Criar` para finalizar.
 
 ## Consultar ordem de serviço
@@ -62,7 +62,7 @@ Você pode otimizar a consulta por ordens de serviço a partir das seguintes aba
 
 Você também pode acessar mais informações de cada ordem de serviço clicando no botão <i class="fas fa-chevron-down"></i> no bloco.
 
-![pick-pack-ordem-servico-4-pt](//images.ctfassets.net/alneenqid6w5/1sQ1kwEN7xnPeL7Kb9rPIq/bb8e751deeb457a5f2d73a941ef05689/image.png)
+![pick-pack-ordem-servico-4-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 ## Buscar ordem de serviço
 

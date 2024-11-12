@@ -38,7 +38,7 @@ This will open a browser window and ask for your credentials.
 
 When you are logged in, you can use the `vtex whoami` command to find out which *account* and *workspace* you are currently using.
 
-![Command Line](https://images.ctfassets.net/alneenqid6w5/31AVvcWcRpL1CoKdUyARyu/9ea4d722d8955bb580a76402507e4013/Command_Line.svg)
+![Command Line](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.svg)
 
 >ℹ️ PROTIP: You can configure your terminal to display your current account and workspace automatically. The easiest way to do it is to use our [dotfiles](https://github.com/vtex/dotfiles), which automatically configure [Fish Shell](https://fishshell.com/) and add a [prompt function](https://github.com/vtex/dotfiles/blob/master/fish/functions/fish_prompt.fish) for you.
 
@@ -52,7 +52,7 @@ By default, when you log in to a store you are in the `master` workspace. You ca
 $ vtex ls
 ```
 
-![Command Line vtex ls](//images.ctfassets.net/alneenqid6w5/4AH5vzt1JfOCzIDtB0fRvR/110dda0479f9aa9891062ece2766837f/Command_Line_vtex_ls.svg)
+![Command Line vtex ls](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.svg)
 
 ## Creating your own workspace
 
@@ -68,6 +68,6 @@ This switches your toolbelt to a workspace called `yourname`, and creates it if 
 
 Workspaces can be named arbitrarily, but we find it’s usually convenient to name it after yourself when you want to develop something in your own environment.
 
-![command line workspace](//images.ctfassets.net/alneenqid6w5/1Urbt6L0XfNEWukSvdKRdK/41e7e9c9f900fb96ddf5fc3aa6d7c2af/command_line_workspace.svg)
+![command line workspace](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.svg)
 
 Now you have your own workspace. You can call `vtex list` again and notice that the installed apps mirror those in `master`. Now, let’s `link` a local version of the store theme so you can start editing it.

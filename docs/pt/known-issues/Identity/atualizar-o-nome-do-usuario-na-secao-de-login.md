@@ -29,9 +29,9 @@ Atualizar o nome do usuário na seção de login
 
 
 Quando nos conectamos e preenchemos os dados pela primeira vez, ele traz um nome nesta seção que está correto.
- ![](https://vtexhelp.zendesk.com/attachments/token/IJpYVAT1XewQUx4YnGtvGBL40/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 Mas quando editamos as informações, as informações exibidas não são as mesmas.
- ![](https://vtexhelp.zendesk.com/attachments/token/uOiJZWmfl9qmC12H2ryHBQ3EA/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 

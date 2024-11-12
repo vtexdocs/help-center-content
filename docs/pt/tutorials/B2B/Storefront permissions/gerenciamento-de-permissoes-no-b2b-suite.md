@@ -61,7 +61,7 @@ Para gerenciar perfis de acesso e permissões de aplicativos, configure as permi
 
 5. Clique em `Salvar`.
 
-![Gerenciamento de permissões - PT](https://images.ctfassets.net/alneenqid6w5/287qksSZ46sMPwg4CuXQ8F/8c88c345288f6092061820e2193e104f/Gerenciamento_de_permiss_es_-_PT.gif)
+![Gerenciamento de permissões - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 Depois de associar os perfis com as permissões desejadas, você pode atribuir funções aos usuários. Para saber mais, acesse [Organizações B2B](https://developers.vtex.com/docs/guides/vtex-b2b-organizations#users).
 

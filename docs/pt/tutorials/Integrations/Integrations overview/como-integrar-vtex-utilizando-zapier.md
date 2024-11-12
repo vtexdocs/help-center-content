@@ -21,15 +21,15 @@ Até o momento, a integração possível de ser realizada é integrar cliente ou
 
 Para realizar a integração, selecione o app VTEX conforme imagem abaixo.
 
-![VTEX-zapier](https://images.contentful.com/alneenqid6w5/51ebExxYL62U60EUsSIGGU/bceb8b8ef1dbe35a31e7d9d2dc9a0ade/Screen_Shot_2017-09-19_at_12.50.00_PM.png)
+![VTEX-zapier](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Depois, selecione qual das opções de integrção disponíveis você gostaria, conforme imagem abaixo.
 
-![VTEX-Zapier-integration](//images.contentful.com/alneenqid6w5/47a6W7SdmgEA2YYCACiIoE/e9d75043a99783af1afae5c2662ef209/Screen_Shot_2017-09-19_at_12.51.28_PM.png)
+![VTEX-Zapier-integration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Na tela seguinte, você precisará dar acesso ao Zapier para que ele se conecte ao seu ambiente VTEX. Para isso, clique em CONNECT AN ACCOUNT e entre com APP Key, APP Token e o Accountname do seu ambiente.
 
-![VTEX-Zapier-connecting-account](//images.contentful.com/alneenqid6w5/5bsgVVWF5mosKCosC424c0/7b0ad9c5141ca6a05818ea46c021b5f8/Screen_Shot_2017-09-19_at_12.52.46_PM.png)
+![VTEX-Zapier-connecting-account](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 Leia o artigo [ONDE ENCONTRAR A APP KEY TOKEN E APP KEY DA SUA LOJA](http://help.vtex.com/pt/tutorial/onde-encontrar-appkey-e-o-apptoken-de-sua-loja) para mais detalhes.
 

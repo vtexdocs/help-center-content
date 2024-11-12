@@ -26,13 +26,13 @@ The GET Product Specification response JSON lacks an essential property to updat
 
 In this example, we have the following response: 
 
-![](https://vtexhelp.zendesk.com/attachments/token/Wf7NUwNPNVp9HWS6cpyjKO1Ht/?name=inline-981699939.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Notice that I can get the "Value", "Id" and "name" with this req. This is currently the only way to get this kind of data via REST API. 
 
 2) I've used the following request to  update this (after getting which is the fielded and fieldvalueid by consulting the category APIs):  https://merch.vtexcommercestable.com.br/api/catalog/pvt/product/17/specification?an=merch 
 
-![](https://vtexhelp.zendesk.com/attachments/token/v7KbNJfqfW1t4Ccl82x6ZTzpo/?name=inline-2136871145.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Notice that an unique ID is returned in the response, this is the association ID of the specification with the product.
 
@@ -44,7 +44,7 @@ This issue is the opening of the acknowledgement of this problem and tracking of
 
 Use the catalog specification export (https://merch.myvtex.com/admin/Site/ProdutoExportacaoImportacaoEspecificacaoV2.aspx) to get the desired ID association ID:
 
-![](https://vtexhelp.zendesk.com/attachments/token/f2mM8DIYgkgBGsNdDiBmE4dW6/?name=inline1262577879.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 OR
 

@@ -28,13 +28,13 @@ A resposta da GET Product Specification JSON carece de uma propriedade essencial
 
 Neste exemplo, temos a seguinte resposta:
 
-![](https://vtexhelp.zendesk.com/attachments/token/Wf7NUwNPNVp9HWS6cpyjKO1Ht/?name=inline-981699939.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Note que posso obter o "Valor", "Id" e "nome" com este requisito. Esta é atualmente a única maneira de obter este tipo de dados via REST API.
 
 2) Eu usei o seguinte pedido para atualizar isto (depois de obter qual é o valor de campo e de campo, consultando a categoria APIs): https://merch.vtexcommercestable.com.br/api/catalog/pvt/product/17/specification?an=merch
 
-![](https://vtexhelp.zendesk.com/attachments/token/v7KbNJfqfW1t4Ccl82x6ZTzpo/?name=inline-2136871145.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Observe que uma identificação única é devolvida na resposta, esta é a identificação da associação da especificação com o produto.
 
@@ -46,7 +46,7 @@ Esta questão é a abertura do reconhecimento deste problema e o acompanhamento 
 
 Use a exportação de especificação de catálogo (https://merch.myvtex.com/admin/Site/ProdutoExportacaoImportacaoEspecificacaoV2.aspx) para obter a ID de associação desejada:
 
-![](https://vtexhelp.zendesk.com/attachments/token/f2mM8DIYgkgBGsNdDiBmE4dW6/?name=inline1262577879.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 OU
 

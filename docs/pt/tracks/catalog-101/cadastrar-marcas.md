@@ -39,7 +39,7 @@ As informações preenchidas no cadastro podem ser atualizadas a qualquer moment
 
 Para excluir o cadastro de alguma marca, você deve clicar na seta ao lado de  `Alterar ` e selecionar a opção `Excluir`. 
 
-![editar-marca pt](https://images.ctfassets.net/alneenqid6w5/3lz8nIX88GLSISJCiFk1h7/c45e2225e20611d450e91f3e97bc24c9/editar-marca_PT.png)
+![editar-marca pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## API
 

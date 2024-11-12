@@ -28,11 +28,11 @@ Os clientes não conseguem excluir templates do CMS antigo.
 4. Clique na pasta **HTML Templates**.
 5. Clique no botão `delete` em qualquer template.
 
-![HTML templates](//images.contentful.com/alneenqid6w5/6PWmj8jj0YJyi0tJ2h1Ay5/788bfa080f071df9f16adb8a1e7af67d/image.png)
+![HTML templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Quando você tenta excluir um template, a seguinte mensagem é exibida:
 
-![Messagem CMS](//images.contentful.com/alneenqid6w5/579ZOpaYA2XeRW60bXcVow/7f915c8ec079be49f159c4f8a959efa1/image.png)
+![Messagem CMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 ## Workaround
 

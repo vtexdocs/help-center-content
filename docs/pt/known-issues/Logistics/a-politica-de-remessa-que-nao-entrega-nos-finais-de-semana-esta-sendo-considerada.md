@@ -33,13 +33,13 @@ Assim, com isto, os "fins de semana e feriados" não desconsideram as políticas
 Ter uma política de envio que a opção "**Fins de semana e feriados**" é **uncheed** (entrega ao sábado, entrega ao domingo e/ou entrega no feriado) e a única opção de entrega (horário comercial) desta política de envio é sábado e/ou domingo. Aqui está um exemplo:
 
 Nenhuma entrega aos sábados, domingos e feriados:
- ![](https://vtexhelp.zendesk.com/attachments/token/bCySQokwEktvbjouwE8O0e9Jj/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 O horário comercial é estabelecido apenas para o sábado:
- ![](https://vtexhelp.zendesk.com/attachments/token/0IEYFx0IeeCa39loJzekErluI/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Embora a política de embarque não seja capaz de entregar aos sábados, ela está disponível porque o sábado está incluído em seu horário de funcionamento, mas o tempo é muito maior do que o definido:
- ![](https://vtexhelp.zendesk.com/attachments/token/jefQyreOWL8Ty0V1vPTTS270v/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 
 

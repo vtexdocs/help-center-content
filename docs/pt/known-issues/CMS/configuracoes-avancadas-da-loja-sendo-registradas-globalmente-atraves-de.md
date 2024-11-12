@@ -35,7 +35,7 @@ https://github.com/vtex-apps/store/blob/46e3df3ecba20170fc3a6eebf12370969e3b5abf
 
 Você precisará de uma loja com encadernação múltipla e habilitar a encadernação para as configurações da loja em admin/cms/store:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/CNgIedTpUI7LPWqCEfA10HIxz/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Salve suas configurações avançadas e verifique as configurações de sua loja vtex:
 
@@ -53,7 +53,7 @@ Você notará que as configurações avançadas estarão fora dos contextos de v
 
 Adicione as configurações que você deseja através de um PUT na chave de configurações dentro de um dos objetos da encadernação:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/JYKSnxOk9qHdm8RGGp9IutNB3/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 

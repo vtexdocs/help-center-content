@@ -43,13 +43,13 @@ Para crear una regla de divergencia de precios, sigue los pasos a continuación:
 
 Verás la siguiente pantalla:
 
-![print_01_ES](https://images.ctfassets.net/alneenqid6w5/6lp2IKdU8VvaFgOUhHv5GA/9f087e8080a0a18dbb9caeb890a4beae/print_01_ES.png)
+![print_01_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 La pestaña **Todas** muestra todas las reglas de autorización configuradas.
 
 Para crear la primera regla de autorización, haz clic en **CREAR REGLAS**. Se mostrará una nueva pestaña, llamada **1ª regla**. Al clicar en esta pestaña, aparecerán las opciones de configuración.
 
-![print_02_ES](//images.ctfassets.net/alneenqid6w5/Q8TwzIWNwQPg13tcaALd6/b44238cace132525165ab84ba6eacf7c/print_02_ES.png)
+![print_02_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Para configurar la **1ª regla**, puedes aumentar o disminuir el porcentaje de divergencia arrastrando los extremos de la barra. El signo > define el inicio del intervalo y el signo < determina su fin. El intervalo elegido puede ser del 0% al 100%.
 
@@ -65,7 +65,7 @@ Para configurar una jerarquía de usuarios responsables de aprobar los pedidos, 
 
 Para crear la **segunda regla**, haz clic en el <i class="fas fa-plus" aria-hidden="true"></i> signo más. Lo mismo se aplica a la creación de una tercera o cuarta regla, y así en adelante. Tras hacer clic en el ícono, se mostrará la siguiente interfaz:
 
-![print_03_ES](//images.ctfassets.net/alneenqid6w5/6Yxvh93ja2V69Yywn3CyWt/4c61f021b61f9147dbf87ff2a68b474f/print_03_ES.png)
+![print_03_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 Configura la nueva regla de autorización y, después de definir todas las reglas que desees, haz clic en el botón **GUARDAR REGLAS**. Verás el siguiente mensaje: _Después de guardar las reglas, puedes editarlas o eliminarlas cuando quieras_. Haz clic en **OK** para confirmar. Una vez que hayas hecho esto, se creará la regla de divergencia de precios.
 

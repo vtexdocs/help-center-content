@@ -25,7 +25,7 @@ Actualmente, la categoría global de productos no carga correctamente los datos 
 
 Se puede ver la siguiente pantalla
 
- ![](https://vtexhelp.zendesk.com/attachments/token/kAdyffwxv7HiGYHQf7LnLmFvI/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

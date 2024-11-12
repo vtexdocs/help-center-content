@@ -42,7 +42,7 @@ Caso o pedido cancelado tenha sido pago em dinheiro, o vendedor precisa estornar
 
 Após os passos descritos [anteriormente](#cenario-2-o-cliente-esta-na-loja), o vendedor verá a tela abaixo, que informa que o pagamento **Dinheiro** já foi estornado.
 
-![estornar-pagamentos-instore-PT](https://images.contentful.com/alneenqid6w5/3B51VlNXxKyfwvWMstcAtY/5f1b4407bcd67cb098427cdaf1fd7171/image3.png)
+![estornar-pagamentos-instore-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Para retornar para a página de detalhes do pedido cancelado, é preciso clicar na seta <i class="fas fa-arrow-left"></i> na barra superior do VTEX Sales App.
 

@@ -24,7 +24,7 @@ The seller logo information on the database is not being saved as an URL, but as
 
 Currently our orderform documentation states that this field is supposed to be an URL:
 https://developers.vtex.com/docs/guides/orderform-fields#sellers
- ![](https://vtexhelp.zendesk.com/attachments/token/SNx3LvZCcZAZHXrEnMaa5EUkh/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 But on our database is being saved in a different format.
 

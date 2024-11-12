@@ -35,7 +35,7 @@ Para crear roles personalizados, lea más detalles en [Recursos del License Mana
 
 Los roles de acceso pueden ser gestionados a través del panel administrativo de su cuenta VTEX.  Para acceder a esta sección, en la barra superior de VTEX Admin, haz clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Roles de usuario**.
 
-![Lista roles](https://images.ctfassets.net/alneenqid6w5/5SsjVcIztKJQ3yxY1udwOH/1b6a2abc5a10006d758e31806564d378/last_with_shadow_Wed_Apr__8_16_55_01_-03_2020.png)
+![Lista roles](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Esta pantalla muestra una lista de todos los **roles** registrados para la cuenta. En una cuenta recién creada, apenas el rol de *Owner (Admin Super)* se listará. Este perfil da al usuario acceso sin restricciones a todos los **recursos** de la plataforma.
 
@@ -47,33 +47,33 @@ La cantidad de usuarios con el rol *Owner (Admin Super)* debe ser la menor posib
 
 En el caso de los usuarios que no deben tener acceso sin restricciones a la plataforma, es importante crear **roles** que limiten los recursos disponibles solo a los estrictamente necesarios para aquel tipo de usuario. Esto es posible haciendo clic en **Nuevo rol**.
 
-![Nuevo perfil de acceso](//images.ctfassets.net/alneenqid6w5/5biL3DriciSnHKbgHvV2PE/377d5de0c9b4af5667a4e8f10c171ae0/last_with_shadow_Wed_Apr__8_17_06_18_-03_2020.png)
+![Nuevo perfil de acceso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Esta pantalla le permite crear un nuevo rol. Esto puede hacerse en base a formatos ya definidos, creados por el equipo de VTEX para atender escenarios comunes en las operaciones, o de forma personalizada, seleccionando a qué recursos de cada producto deben tener acceso todos aquellos que tengan este rol asociado a su usuario.
 
 Haciendo clic en **Elegir rol**, el menú *desplegable* presenta una lista de roles predefinidos.  
 
-![Menú roles predefinidos](//images.ctfassets.net/alneenqid6w5/4XGZb5WvW216z8RfX5Vp3c/f4a7c9ba96cdf8f522b9fe60f6fcba3d/last_with_shadow_Wed_Apr__8_17_01_46_-03_2020.png)
+![Menú roles predefinidos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 Seleccionar uno de los roles listados permite inspeccionar qué recursos están incluidos en este rol, separados por producto.
 
 >ℹ️ Vea aquí todos los [Roles de usuario predefinidos](https://help.vtex.com/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy).
 
-![Nuevo rol salvo](//images.ctfassets.net/alneenqid6w5/5biL3DriciSnHKbgHvV2PE/377d5de0c9b4af5667a4e8f10c171ae0/last_with_shadow_Wed_Apr__8_17_06_18_-03_2020.png)
+![Nuevo rol salvo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 El rol **Call center operator**, por ejemplo, contiene un recurso del producto *Catálogo* que le permite ejecutar operaciones en una tienda en nombre de un cliente y un recurso de *OMS* que permite verificar el status de un pedido.
 
 Para crear un rol personalizado, el administrador puede elegir la opción **Custom** del menú desplegable **Elegir rol.** Al hacer clic en el menú desplegable en **Elija un producto**, se listan todos los recursos asociados a cada producto.
 
-![Configurando producto](//images.ctfassets.net/alneenqid6w5/1VE4awGJHyrsR2OkYwAzRQ/8a2512bebc4fa0ac44731d6a2ecfac6b/last_with_shadow_Wed_Apr__8_17_11_58_-03_2020.png)
+![Configurando producto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 Se puede añadir al rol tantos productos como se necesiten. Basta con hacer clic en el botón **Configure otro producto** al final de la lista de productos y recursos.
 
-![Configurar otro producto](//images.ctfassets.net/alneenqid6w5/Dsc2k29SxUDKB8t6VXScn/6669a063adc5974cc1441e5764a69c41/last_with_shadow_Wed_Apr__8_17_12_07_-03_2020.png)
+![Configurar otro producto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
 
 Al terminar la configuración de los productos y recursos, el administrador puede elegir un nombre para el perfil en **Nombre del rol** si se trata de una configuración personalizada.
 
-![Nombre del rol](//images.ctfassets.net/alneenqid6w5/gTuv92HFXKn4jklYX0Hzj/2478849865fe4e5041eb97b7d3dd5dce/last_with_shadow_Wed_Apr__8_17_17_02_-03_2020.png)
+![Nombre del rol](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.png)
 
 >⚠️ Es importante elegir nombres descriptivos para los roles de acceso, para dejar claro qué tipo de usuario debe tener ese acceso. Lo ideal sería indicar la posición en la empresa o la actividad dentro del producto.
 
@@ -81,12 +81,12 @@ Las buenas prácticas en la gestión de los roles de usuario aumentan la segurid
 
 También es posible añadir usuarios al rol, personalizado o predefinido, completando el correo electrónico del usuario que se incluirá en **Agregar usuarios a este rol**. Si el usuario no existe, se creará un nuevo usuario utilizando el correo electrónico como nombre también (el nombre y el correo electrónico serán iguales).
 
-![Usuarios](//images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/bfbc7ba812a8d8e306eb9adca5f53e31/last_with_shadow_Wed_Apr__8_17_25_47_-03_2020.png)
+![Usuarios](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_8.png)
 
 Cuando haya terminado de configurar el rol, debe guardar el nuevo rol haciendo clic en el botón azul en la parte inferior de la página.
 
-![Guardar rol](//images.ctfassets.net/alneenqid6w5/68NycUF3T52sg96R6HDIna/89a4b047d9eecbfb65c4078e16adaa5a/last_with_shadow_Wed_Apr__8_17_32_59_-03_2020.png)
+![Guardar rol](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_9.png)
 
 Una vez creado, el nuevo rol se listará junto con los otros roles de usuario. Para verlo, en la barra superior de VTEX Admin, haz clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Roles de usuario**.
 
-![Nueva lista roles de usuario](//images.ctfassets.net/alneenqid6w5/3uQ5SvsqjpFCSJimcg9naY/845ea841f71c1d74d2467cc782fd935e/last_with_shadow_Wed_Apr__8_17_43_02_-03_2020.png)
+![Nueva lista roles de usuario](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_10.png)

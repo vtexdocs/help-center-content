@@ -29,7 +29,7 @@ We are having issues when trying to export the CSV in the sales performance modu
 
 Inside Sales performance module, their is a button to export the CSV and it says it will be sent by e-mail, but for some cases it's not being sent.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/3somzO1egT0LfYDZNFaEABpyF/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

@@ -35,7 +35,7 @@ O facebook do cartão não salva algumas configurações.
 4. Retorno ao cartão de integração
 5. Não salvou a categoria selecionada
 
- ![](https://vtexhelp.zendesk.com/attachments/token/VuJT08v4GZINqVjGrGnvIywCL/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

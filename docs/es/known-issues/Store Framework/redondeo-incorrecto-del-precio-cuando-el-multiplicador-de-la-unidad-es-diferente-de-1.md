@@ -34,7 +34,7 @@ En este caso, 11,87*4 = 47,48.
 
 Un efecto secundario causado por este problema es que el precio de venta se considera diferente al precio de lista del producto, y entonces el precio de lista se muestra también.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/7K0amWgevdGtQcfZd1UdYaFkn/?name=inline1146427484.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Este comportamiento sólo se produce en el contexto de búsqueda, pero no en el PDP. En este caso, el precio de venta es correcto.
 

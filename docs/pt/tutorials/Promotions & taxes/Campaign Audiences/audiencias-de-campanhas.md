@@ -27,7 +27,7 @@ Exemplo: no segmento de moda, ao cadastrar uma audiência de campanha, é possí
 
 O público-alvo segmenta os usuários e condições elegíveis da audiência de campanha. Caso a audiência de campanha esteja ativa, ao atender todos os critérios definidos no público-alvo, as promoções associadas à audiência de campanha serão ativadas.
 
-![campanha-pt](https://images.ctfassets.net/alneenqid6w5/6Cxe95BqKrrMxwMiEVSvTJ/d8bfd2a4e7f082f2cd1b865bda2f85b0/campanha-pt.png)
+![campanha-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Quando todas as restrições da campanha forem atingidas e ela estiver ativada e elegível ao contexto de compra, não significa necessariamente que as promoções de audiências de campanhas associadas a ela serão aplicadas. Para isso, as restrições definidas na [promoção de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume) também devem ser atendidas.
 

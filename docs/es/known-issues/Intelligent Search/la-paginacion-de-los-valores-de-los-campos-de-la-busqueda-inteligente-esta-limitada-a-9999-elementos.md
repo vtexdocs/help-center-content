@@ -33,11 +33,11 @@ https://{accountName}.myvtex.com/admin/search/custom-result/create/
 
 En el caso siguiente, el campo "marca" tiene más de 9.999 entradas, por lo que al escribir el valor "JEIBAO" no aparece en el desplegable para ser seleccionado.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/sNrA3WpRgNna0svXUmZ9zUriO/?name=inline-1946343279.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 La consulta graphQL que carga esta lista en Admin sólo es capaz de obtener un máximo de 9.999 registros.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/4p6FFv3vW1ZPFKuvV8dbkyCCj/?name=inline-564811771.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 

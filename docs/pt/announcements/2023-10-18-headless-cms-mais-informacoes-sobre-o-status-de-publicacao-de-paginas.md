@@ -19,7 +19,7 @@ A partir de 01 de novembro de 2023, o status **Publicando** em Páginas no Headl
 
 Quando uma nova página é criada, ela recebe o status de **Rascunho**, indicando que ainda não foi feito o deploy. Após o deploy da página, o status é atualizado para **Publicado**, o que significa que o processo de compilação (build) poderá ser iniciado. Após a conclusão da compilação, a página ficará disponível para os usuários finais.
 
-![Build Status - PT](https://images.ctfassets.net/alneenqid6w5/4oOFiKgKpuTVaBics5MaI0/3b495e096d368969817a01eaea027f08/publishing-status-pt.gif)
+![Build Status - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 ## O que mudou?
 

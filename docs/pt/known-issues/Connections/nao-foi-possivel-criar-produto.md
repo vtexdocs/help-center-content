@@ -38,7 +38,7 @@ na integração `Não poderia criar produto. {"error": "product.error_param", "m
 
 Admin > APP Instalado > Calçados > Gerenciar Produtos > Status de Sincronização de Produtos
 
- ![](https://vtexhelp.zendesk.com/attachments/token/t5CjjlTerPxIk72GBrQXTbuzh/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

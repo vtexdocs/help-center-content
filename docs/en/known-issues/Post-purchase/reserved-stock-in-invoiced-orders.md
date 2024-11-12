@@ -24,7 +24,7 @@ This happens when the order is in the `Pronto para Manuseio` status (Ready for H
 
 Example with order flow:
 
-![2017-06-13 182850](//images.contentful.com/alneenqid6w5/5Skd8YsCcMIicCcEGyoqwG/1a1a839dc36cdb9f818240b68817de3e/2017-06-13_182850.jpg)
+![2017-06-13 182850](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.jpg)
 
 In the circulated step of the order flow, the product is invoiced without acknowledgment of the reservation.
 

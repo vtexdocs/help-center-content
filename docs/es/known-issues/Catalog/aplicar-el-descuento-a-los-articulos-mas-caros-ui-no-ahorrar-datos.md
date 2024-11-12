@@ -23,7 +23,7 @@ internalReference: 1011071
 
 Al utilizar la interfaz de usuario de promociones, al intentar guardar manualmente la opción "Aplicar a los artículos más caros" no funcionará y el selector permanecerá en la opción de tipo más barato.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/ofDGJuHHbNRwvbYDMOSSCznvB/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

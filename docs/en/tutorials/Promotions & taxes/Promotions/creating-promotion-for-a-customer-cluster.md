@@ -52,9 +52,9 @@ In the configuration below, for example, only `employee` entries with the value 
 
 You could also configure `employee=false`, where only `employee` entries with the value `false` in the field would receive the promotion.
 
-![Campo funcionário Master Data EN](https://images.ctfassets.net/alneenqid6w5/1GQftbj5FuIiQ4mUweacwa/929dce6e74118345a2c9f17a9605e572/Campo_funcion__rio_Master_Data_EN.png)
+![Campo funcionário Master Data EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
-![Cluster de clientes EN](//images.ctfassets.net/alneenqid6w5/1IOHFLD9w840WEuceWMk4Q/653b3bf0087c0b78268a1231ebfcbf5f/Cluster_de_clientes_EN.png)
+![Cluster de clientes EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Given a field of type **[Varchar](https://help.vtex.com/en/tutorial/criando-entidade-de-dados--tutorials_1265)**, we could configure `employee="yes"` so that only customers with the value `"yes"` in the field receive the promotion.
 
@@ -68,8 +68,8 @@ The expression `{propertyname} contains {"value"}` must be used when the informa
 
 For example, if you want to create a cluster with only customers whose emails contain `@test.com`, the configuration will follow the example below.
 
-![Campo Email Master Data](//images.ctfassets.net/alneenqid6w5/5aeXd0Ro72P1GlzVeBiVVZ/4d8feac02a228d44de71cb2fa28e954f/Campo_Email_Master_Data.png)
+![Campo Email Master Data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
-![cluster email EN](//images.ctfassets.net/alneenqid6w5/5LKj1wrG3zL54lfh4R2MzQ/85c04dff4d5ebf184cd9bd1f82f1bdfb/cluster_email.png)
+![cluster email EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 In this case, `email contains test.com` will be `true`, for example, when the value is `john@test.com`, and `false` when the value is `john@test.org`.

@@ -24,7 +24,7 @@ subcategoryId: 5bBAgUbHdh6ovdZ4kGsN7O
 
 ## Campos de configuración de conversación
 
-![my account - conversational commerce - ES](https://images.ctfassets.net/alneenqid6w5/6HpER9MIEWSWz1ULYD22h8/78adcfa1fc6e5d221e9bcd57aee82a28/image.png)
+![my account - conversational commerce - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 - **Idioma: **el idioma predeterminado para los mensajes del bot con los clientes en VTEX Conversational Commerce. Campo obligatorio.
 

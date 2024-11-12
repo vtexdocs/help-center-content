@@ -36,7 +36,7 @@ Estos pedidos están atascados en el estado "A la espera de autorización para e
 - El registro no muestra ningún error en el flujo;
 - Bridge no muestra ningún error;
 
- ![](https://vtexhelp.zendesk.com/attachments/token/aRop2JlmVaPoBgPJIRLQcA0Pg/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

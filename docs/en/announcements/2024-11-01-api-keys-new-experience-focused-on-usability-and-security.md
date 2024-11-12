@@ -19,7 +19,7 @@ We've introduced a new [API Key](https://help.vtex.com/en/tutorial/api-keys--4bF
 
 This update includes an optimized interface for easier management and new security-oriented features, such as setting token duration, renewing tokens, and deleting unused keys.
 
-![apikeys-en](https://images.ctfassets.net/alneenqid6w5/i11jP2Y0BPyf9wp8A1joi/4dc24b7eb344a8b2828466a451995179/apikeys-en.png)
+![apikeys-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## What has changed?
 

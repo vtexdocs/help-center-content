@@ -33,7 +33,7 @@ The XML integration loads any tag related to price, such as minPrice, maxPrice, 
 
 The result will be an unavailable item, still showing in the XML, but without any price tags:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/1CzUarsM3O05aG9z5otDZZ1Yg/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

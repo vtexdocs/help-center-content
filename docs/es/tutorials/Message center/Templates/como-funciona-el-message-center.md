@@ -31,7 +31,7 @@ Entienda la información que trae cada _card_ de plantilla :
 
 Para facilitar la navegación, la interfaz pone a disposición, además del campo de búsqueda por texto libre, filtros por aplicaciones (módulos) y tipo (mensaje estándar o personalizado/modificado).
 
-![busca-templates-central-mensagens es](https://images.ctfassets.net/alneenqid6w5/7LOOmw6SWIaY0SQO28Oc2k/b5b9e138dd014e087d34d75a57c96bf2/busca-templates-central-mensagens_es.png)
+![busca-templates-central-mensagens es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Después de entender lo básico sobre los templates, usted ya puede ver cómo editarlos. Este paso no es obligatorio, pues VTEX suministra un layout básico y responsivo para todos los mensajes, con los datos necesarios para una buena comunicación con su cliente, pero es natural que las tiendas los adapten al estándar de comunicación ya usado para la marca.
 

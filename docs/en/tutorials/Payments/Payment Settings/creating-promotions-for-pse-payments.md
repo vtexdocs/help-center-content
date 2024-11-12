@@ -42,7 +42,7 @@ Each bank that makes payment transactions associated with PSE has a specific ide
 9. In the __data__ component, select the __banks__ component.
 10. Click the name of the bank for which you want to create the promotion and note down the 4-digit number described in the __code__ field.
 
-![PSE Dev Tool en](https://images.ctfassets.net/alneenqid6w5/F2ucfedyA57R4t5H6Bfab/5fe8e0b467264987a13bc1b0180c8d82/PSE_Dev_tool_en.png)
+![PSE Dev Tool en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Creating a PSE promotion
 

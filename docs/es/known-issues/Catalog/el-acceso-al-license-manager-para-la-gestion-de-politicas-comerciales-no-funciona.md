@@ -30,13 +30,13 @@ En la configuración del Gestor de Licencias, podemos seleccionar a qué recurso
 
 - Cambie el rol de un usuario para que sólo acceda a la gestión de los canales de venta:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/QdfNIgaeWKO0TQNp7JHBXuhtW/?name=inline-650484840.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 - Intente acceder a esta página: `account.myvtex.com/admin/Site/Store.aspx`.
 
 La página no estará disponible en el menú:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/uomLWmfD9EIbUO6HnbljCA7e3/?name=inline671843796.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 

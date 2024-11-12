@@ -27,13 +27,13 @@ Se você acessar o módulo de páginas do CMS e tentar criar uma página manualm
 
 
 Crie uma nova página em seu tema e tente alterar seu título. Em meu exemplo, adicionei a palavra "tema":
- ![](https://vtexhelp.zendesk.com/attachments/token/fSZvyE7PZzzqiBkPo0RFeMWOh/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Vá para o módulo de páginas e verifique se o título foi alterado. Você verá que recebemos a alteração, mas ela não é exibida no título acima:
- ![](https://vtexhelp.zendesk.com/attachments/token/OheWJWbzKLJ88IWGndejy3kDT/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 O mesmo ocorre na lista da página:
- ![](https://vtexhelp.zendesk.com/attachments/token/Eh11X7Z9HLzLsbp1vmbtOA7VK/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 Se você tentar alterar o título diretamente no administrador, o resultado será o mesmo
 

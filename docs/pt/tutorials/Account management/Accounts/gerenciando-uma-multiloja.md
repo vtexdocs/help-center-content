@@ -55,7 +55,7 @@ Para que os clientes possam acessar a nova loja, siga as instruções abaixo par
 7. Clique em `Save Website`.
 8. No campo **Links**, clique em `Add`.
 
-    ![cms-layout](https://images.ctfassets.net/alneenqid6w5/4bVAAc3Fs8ArVYy1qSCAnX/c2e122871755da52a3dad51d8aa10593/cms-layout.png)
+    ![cms-layout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 9. Preencha o campo **Store name from License Manager** com o valor da subconta criada anteriormente no módulo de [Gerenciamento de conta](#configurar-nova-loja).
 10. Preencha o campo **Available sales channel** selecionando as políticas comerciais que serão associadas a esta loja.

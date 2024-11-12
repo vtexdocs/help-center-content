@@ -29,7 +29,7 @@ Para enviar dados de pedidos para sistemas externos, como dashboards e data lake
 
 Quando um pedido é fechado no inStore, a identificação do usuário logado no aplicativo fica visível na parte superior da tela de detalhes do pedido no Admin. No exemplo abaixo, o nome do usuário é `A123456`.
 
-![PT - ID do vendedor inStore](https://images.ctfassets.net/alneenqid6w5/2VlKApkaFLzzxl6wRrcNkw/b46bb2740a82a8fab8988f7dd752f7ce/PT_-_ID_do_vendedor_inStore.png)
+![PT - ID do vendedor inStore](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Quando os detalhes do pedido são obtidos pela [Orders API](https://developers.vtex.com/vtex-developer-docs/reference/orders), o nome do usuário está disponível no campo `callCenterOperatorData.userName`. Também é possível acessar o e-mail deste usuário em  `callCenterOperatorData.email`.
 
@@ -43,7 +43,7 @@ Quando os detalhes do pedido são obtidos pela [Orders API](https://developers.v
 
 Caso o usuário logado no aplicativo seja compartilhado entre vendedores da mesma loja, é possível ainda incluir a identificação do vendedor no campo de observação do cliente.
 
-![PT - ID do vendedor inStore (alt)](//images.ctfassets.net/alneenqid6w5/2VFGuKA7ZUgcO55TPgpDWU/ce44ee5a33db7284999dc2700d964f75/PT_-_ID_do_vendedor_inStore__alt_.png)
+![PT - ID do vendedor inStore (alt)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Quando os detalhes do pedido são obtidos pela Orders API, esta informação fica disponível no campo `openTextField.value`.
 
@@ -57,7 +57,7 @@ Quando os detalhes do pedido são obtidos pela Orders API, esta informação fic
 
 Quando um pedido é fechado no inStore, a identificação da loja fica visível na seção de Promoções e Parcerias da tela de detalhes do pedido no Admin. No exemplo abaixo, o identificador da loja é `8b4d5ea1-2055-11ea-82fa-0ad725bc7b4f`.
 
-![PT - ID da loja inStore](//images.ctfassets.net/alneenqid6w5/x0Czqfo4emIb8X6zgQgD2/e6867ef4cf7bd54cd471ee7d07ccd59c/PT_-_ID_da_loja_inStore.png)
+![PT - ID da loja inStore](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 Quando os detalhes do pedido são obtidos pela Orders API, esta informação fica disponível no campo `marketingData.utmSource`.
 
@@ -82,7 +82,7 @@ Quando os detalhes do pedido são obtidos pela Orders API, esta informação fic
 
 O identificador do vendedor e da loja podem ser usados para consultar os dados de cadastro em `https://{accountName}.myvtex.com/admin/vtable`. 
 
-![PT - Admin inStore](//images.ctfassets.net/alneenqid6w5/4k1KmCEABh6BJBBCBh5B4F/fe249d924308d3d2f8b7fbfbec739f05/Screen_Shot_2020-11-09_at_15.20.50.png)
+![PT - Admin inStore](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 >ℹ️ As instruções abaixo explicam como fazer essas consultas usando os identificadores que aparecem em um pedido. Se necessário, entretanto, é possível buscar usando qualquer campo do cadastro de lojas e vendedores.
 
@@ -98,7 +98,7 @@ Para fazer essa busca, siga as instruções abaixo:
 
 Ao concluir o passo 4, a expressão do filtro de busca deve ficar no formato `Nome:=:A123456`. Assim será possível encontrar o vendedor na listagem de vendedores, como visto na imagem abaixo.
 
-![PT - Admin dos vendedores](//images.ctfassets.net/alneenqid6w5/601CfGNUMAQyhhWyNcpJg6/67b8789e9b10570025613023fc8e1e30/PT_-_Admin_dos_vendedores.png)
+![PT - Admin dos vendedores](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 Caso prefira fazer essa consulta por API, basta usar o endpoint [Search Documents](https://developers.vtex.com/vtex-developer-docs/reference/search#searchdocuments) da [Master Data API - V2](https://developers.vtex.com/reference/master-data-api-v2-overview) para buscar pelo identificador da loja na entidade de dados `vendors`.
 
@@ -114,6 +114,6 @@ Para fazer essa busca, siga as instruções abaixo:
 
 Ao concluir o passo 4, a expressão do filtro de busca deve ficar no formato `Id do Documento:=:8b4d5ea1-2055-11ea-82fa-0ad725bc7b4f`. Assim será possível encontrar a loja na listagem de lojas, como visto na imagem abaixo.
 
-![PT - Admin das lojas](//images.ctfassets.net/alneenqid6w5/ZORye3vSq6dVZ5aE4SRnl/dca845c2c8a16a01b75f9cca1b2b6d2a/PT_-_Admin_das_lojas.png)
+![PT - Admin das lojas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
 
 Caso prefira fazer essa consulta por API, basta usar o endpoint [Search Documents](https://developers.vtex.com/vtex-developer-docs/reference/search#searchdocuments) da [Master Data API - V2](https://developers.vtex.com/reference/master-data-api-v2-overview) para buscar pelo identificador da loja na entidade de dados `stores`.

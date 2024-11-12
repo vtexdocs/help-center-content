@@ -23,7 +23,7 @@ internalReference: 918537
 
 Quando um filtro booleano é selecionado, a seguinte mensagem é retornada:
 Ocorreu um erro inesperado. Tente novamente. Se o problema persistir, entre em contato com o suporte.
- ![](https://vtexhelp.zendesk.com/attachments/token/HAwA6Uf51x49bxGLiziKpdQnj/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Simulação
 
@@ -31,12 +31,12 @@ Ocorreu um erro inesperado. Tente novamente. Se o problema persistir, entre em c
 
 - Acesse o CRM de dados mestre (por exemplo, https://my-account-here.vtexcrm.com.br);
 - Acessar um aplicativo de formulário com opção de filtro booleano:
- ![](https://vtexhelp.zendesk.com/attachments/token/tyRYoZP61rVzhVBx3A1rHbGgf/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 - Selecione 0 ou 1 opção;
 - Clique no botão "_Filtro_";
 - Uma mensagem pop-up será aberta com o erro "`Ocorreu um erro inesperado. Tente novamente. Se o problema persistir, entre em contato com o suporte.`":
- ![](https://vtexhelp.zendesk.com/attachments/token/HAwA6Uf51x49bxGLiziKpdQnj/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 ## Workaround
 

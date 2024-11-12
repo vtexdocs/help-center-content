@@ -20,7 +20,7 @@ Todos os pedidos em que o pagamento é transacionado pela VTEX são registrados 
 Na sua interface principal teremos as transações listadas em ordem da mais recente para a mais antiga.
 Na listagem já é indicado o status atual, o início (data e hora) da transação, o nome do cliente, o ID do pedido, qual o meio de pagamento utilizado para fechar o pedido e o valor transacionado no mesmo.
 
-![payment_pt](https://images.ctfassets.net/alneenqid6w5/3g2NhLJ0KNKatzSuVVYoVm/5818a03e5c91a2497e788f6bf1b6e173/payment_pt.jpg)
+![payment_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.jpg)
 
 Cada registro de pedido terá seus dados restritos às condições de pagamento utilizadas para o seu fechamento. Isto é, códigos de autorização, transação, NSU, entre outros, [estão disponibilizados dentro de cada registro](http://help.vtex.com/tutorial/como-visualizar-detalhes-do-pedido/).
 

@@ -35,7 +35,7 @@ Os passos abaixo demonstram a experiência de compra de um cliente e o papel do 
 
 Sempre que o cliente realiza uma modificação no carrinho (adição ou remoção de itens), ou que a tela do Checkout é atualizada, a seguinte cadeia de processos internos no Checkout é executada.
 
-![Checkout overview](https://images.ctfassets.net/alneenqid6w5/6U3DBHywYW2RnlM94QQFg5/c25d968b81626de55ab890ef67834bb8/Checkout_Overview_PT.png)
+![Checkout overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 >ℹ️ Caso um ou mais itens escolhidos pelo cliente sejam elegíveis para entrega por um [Seller white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-um-seller-white-label), serão realizadas simulações (conforme exibido no lado direito da figura), de modo a determinar quais sellers serão responsáveis pela entrega dos itens. Saiba mais em [Seleção de sellers white label](https://help.vtex.com/pt/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa#).
 

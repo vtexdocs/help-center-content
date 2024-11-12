@@ -33,10 +33,10 @@ The field wrongly named as "created date" actually informs the date of the last 
 3. Check that the "created date" field is actually replaced by the current date.
 
 Before update:
- ![](https://vtexhelp.zendesk.com/attachments/token/PNjoH3Cuszh86hbetX4DZQnQe/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 After update performed at October 21st:
- ![](https://vtexhelp.zendesk.com/attachments/token/cxxVQQbqSlOFULz0uHRvA53rm/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 ##

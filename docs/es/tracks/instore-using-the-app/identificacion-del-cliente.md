@@ -27,7 +27,7 @@ Usted puede [configurar qué métodos de identificación desea habilitar](https:
 
 En el ejemplo de la imagen a continuación, Email y CPF están habilitados.
 
-![31. inStore - Product Overview - 2 - ES](https://images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/99fe77f7a5c0a43318ffa841e67d20cb/identify-customer-es.PNG)
+![31. inStore - Product Overview - 2 - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.PNG)
 
 Ingrese uno de estos datos en el campo y haga clic en el botón `Confirmar`.
 

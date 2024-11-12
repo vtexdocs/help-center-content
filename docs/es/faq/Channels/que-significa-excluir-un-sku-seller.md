@@ -14,7 +14,7 @@ locale: es
 legacySlug: que-significa-excluir-un-sku-seller
 ---
 
-![excluir](https://images.contentful.com/alneenqid6w5/3H8ijBZBEseoomo0wyMKoi/fea00e532fc957357b8794a1afc278ba/excluir.png)
+![excluir](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Al excluir el SKU Seller, él deja de formar parte del catálogo del Marketplace. Esto significa que ** él no existirá más en la lista de SKUs **.
 

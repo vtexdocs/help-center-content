@@ -31,7 +31,7 @@ Some accounts are showing error `Unable to load data. Please click the button be
 
 Admin > Dashboard > Sales Performance
 
- ![](https://vtexhelp.zendesk.com/attachments/token/v4JRdMCm3Y37Vz3euoIwEYz5c/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

@@ -30,10 +30,10 @@ Global Search doesn't recognize "Profile Menu items"
 In some cases, the search returns no results.
 For example: "Users" "Authentication"
 
- ![](https://vtexhelp.zendesk.com/attachments/token/QwUkKwavO6WM00STA32BVwyvn/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/weT1QdMEqTne83NxeJRN1ilFm/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 ##

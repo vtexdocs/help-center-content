@@ -24,7 +24,7 @@ When a sku fails the Offer Quality rules created by the Marketplace, it goes dir
 However, when trying to approve the sku, an error message is returned: "Sorry, something went wrong in the Catalog. Please try again or contact VTEX if the problem persists."
 
 This happens because the Matcher module was not able to fill the product and sku information after sending the sku to these Tabs (you can check this using the APIs):
- ![](https://vtexhelp.zendesk.com/attachments/token/0Dti3ak7twOpuVzvzntmPCGit/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

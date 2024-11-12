@@ -31,7 +31,7 @@ This improvement allows sales associates to find products beyond the store's inv
 
 - **Optimization for slow connections:** By leveraging browser caching, the search will return new information only when necessary, guaranteeing a fast response even in scenarios with slow internet connections.
 
-![Mobile - EN](https://images.ctfassets.net/alneenqid6w5/2wdRQcrdDW1OKapj13T6Lq/13a9e307f44564906b210cc72a38c436/mobile__1_.gif)
+![Mobile - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 ## Why did we make this change?
 

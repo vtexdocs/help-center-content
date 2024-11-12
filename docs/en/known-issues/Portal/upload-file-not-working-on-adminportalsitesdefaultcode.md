@@ -31,7 +31,7 @@ When trying to upload a new file on admin/portal/#/sites/default/code nothing ha
 
 1. Go to admin/portal/#/sites/default/code
 2. Go to New -> Upload File -> select the file you wish to import -> click on create
- ![](https://vtexhelp.zendesk.com/attachments/token/4uSgPeUxG9xAOkTq1HUs8khX6/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 3. Check that nothing happens.
 
 

@@ -35,7 +35,7 @@ Otro comportamiento inesperado es que otros módulos siguen estando disponibles 
   - Menú CMS en la barra superior;
   - Ajustes CMS.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/fbpObVoVdnEYGeYjd3GDh9Qqf/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 - Asocie este rol a un usuario;

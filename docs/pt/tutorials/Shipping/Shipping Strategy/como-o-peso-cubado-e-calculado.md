@@ -38,7 +38,7 @@ O cálculo do peso cubado é realizado efetuando a multiplicação do Comprimen
 
 Observe o exemplo a seguir:
 
-![](https://images.contentful.com/alneenqid6w5/3KZDUQlPBYEY8mSwqQgW6k/15cef41598f4fc1359f482cddbcca756/pesocubado.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.jpg)
 
 - __Dimensões do pacote:__ `50cm x 60cm x 15cm`
 - __Peso mínimo do pacote:__ `9kg`
@@ -53,7 +53,7 @@ Ou seja, caso o valor oferecido pela sua transportadora `6.000`, é necessário 
 
 Ao realizar o cadastro da sua transportadora, esse é o valor que você deve preencher no campo **Fator de peso cúbico** na sua [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140).
 
-![cubic_weight_PT](//images.ctfassets.net/alneenqid6w5/44WaAckgByWYgyYGXtEoOj/dffa4cf86d504ec7325bb80b7b26704d/cubic_weight_PT.png)
+![cubic_weight_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Portanto, o cálculo final seria:
 - __Dimensões do pacote:__ `50cm x 60cm x 15cm`

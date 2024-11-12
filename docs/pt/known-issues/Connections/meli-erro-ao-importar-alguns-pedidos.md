@@ -35,7 +35,7 @@ IMPORTANTE | Este cenário contempla apenas os pedidos:
 
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/WW2J1pFsU9mvCd4VQ9Vju0RnN/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

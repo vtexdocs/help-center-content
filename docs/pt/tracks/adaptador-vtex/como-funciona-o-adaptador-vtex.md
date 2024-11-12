@@ -18,7 +18,7 @@ O Adaptador VTEX foi criado para clientes que já possuem integração do ERP co
 
 >ℹ️ Este guia se aplica apenas a lojas que já utilizam a integração entre um ERP e a CIASHOP. Nos demais casos, é necessário seguir o guia para desenvolvedores [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide) para realizar a integração com um ERP.
 
-![imagem-adaptador-1](https://images.contentful.com/alneenqid6w5/3YzpvrWy5X48siMcATs5Ba/094e532302f3f96a66d21ecee0d96a72/image.png)
+![imagem-adaptador-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Para facilitar o entendimento, organizamos o documento em tópicos:
 
@@ -31,6 +31,6 @@ Para facilitar o entendimento, organizamos o documento em tópicos:
 
 Por meio da tabela abaixo, você pode verificar o que a integração do adaptador contempla:
 
-![image-adaptador-2](//images.ctfassets.net/alneenqid6w5/4TsEw3tXkfK0IEAZlcRzwR/b9dc7e117331beacf34577442c69da0c/Group_1_9_.png)
+![image-adaptador-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 >⚠️ Para integração via WEBSERVICE, os pedidos na VTEX serão coletados quando estiverem com pagamento aprovado, no status **Pronto-para-manuseio**.

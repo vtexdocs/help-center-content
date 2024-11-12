@@ -33,7 +33,7 @@ Para registrar las especificaciones, su tienda necesita tener departamentos, cat
  7. Rellene los campos del formulario de especificaciones. Para comprender mejor el significado de cada campo, acceda a nuestro  artículo sobre [cómo rellenar los campos de especificaciones de producto](https://help.vtex.com/es/tutorial/creando-un-campo-de-producto--tutorials_106)
  8.  Haga clic en **Guardar**.
 
-![ES1](https://images.ctfassets.net/alneenqid6w5/26nmolyzhktK7RHFRIfeGn/bd9cc1425426b6f32212083f98760014/ES1.gif)
+![ES1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 Para añadir valores a la especificación de un producto, siga los pasos a continuación:
 
@@ -47,7 +47,7 @@ Para añadir valores a la especificación de un producto, siga los pasos a conti
  9. Haga clic en **Nuevo valor**.
 10. Escriba el **Nombre** del valor deseado y haga clic en **Guardar**.
 
-![ES2](//images.ctfassets.net/alneenqid6w5/1t2mGbtHaq6Koiz4anwOOO/79b47af516682cb283ccf2faf605af4d/ES2.gif)
+![ES2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 
 ### Vincular las especificaciones a un producto
 
@@ -61,7 +61,7 @@ Para incluir las especificaciones en un **Producto** siga los siguientes pasos:
  4. Haga clic en la pestaña **Especificaciones** y elija el valor de la especificación para este producto.
  5. Haga clic en la pestaña **Producto** y después haga clic en **Guardar**.
 
-![ES3](//images.ctfassets.net/alneenqid6w5/1PVutb4VQX4Tbt8VuRzxNA/348cf9167307462767ae79b1f5887105/ES3.gif)
+![ES3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.gif)
 
 ## Plantilla
 
@@ -90,7 +90,7 @@ Después de rellenar los datos de la plantilla, siga este procedimiento para imp
 5. Haga clic en **Select** para seleccionar la plantilla de importación.
 6. Haga clic en **Importar**.
 
-![ES4](//images.ctfassets.net/alneenqid6w5/3yZtK0w9QXrf3kBV0UfWq0/e65a0dad3840a0adee367c503b781233/ES4.gif)
+![ES4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.gif)
 
 ## API
 

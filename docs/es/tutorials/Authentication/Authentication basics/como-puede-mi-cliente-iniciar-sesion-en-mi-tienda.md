@@ -28,7 +28,7 @@ El objetivo de este artículo es mostrar cómo el cliente de su tienda debe hace
 
 Al hacer clic en un enlace para autenticarse, el cliente verá la pantalla de login.
 
-![vtex-id-pt](https://images.ctfassets.net/alneenqid6w5/32ihh602XeY6WyECG6YkwG/f856e8dbe763a72e566f65a00c45be6c/vtex-id-en.png)
+![vtex-id-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Hay tres formas estándar de entrar en una tienda VTEX:
 
@@ -43,9 +43,9 @@ En este tipo de login se envía __un token de acceso para el e-mail del usuario 
 Para que el cliente inicie sesión por este método, debe seguir los pasos abajo:
 
 1. En la pantalla de inicio de sesión, el usuario debe hacer clic en __Recibir clave de acceso rápido por email__.
-2. En la pantalla siguiente, el usuario debe rellenar su correo electrónico y hacer clic en el botón __Confirmar__![fill-mail-pt](//images.ctfassets.net/alneenqid6w5/5OXLHK0kY8aqCOuyuuaayQ/4667578a18947906d39ed393c5d8f56f/fill-mail-pt.png)
-3. __Un token de acceso será enviado al email informado en el paso anterior__. Si el cliente no ha recibido el e-mail, pídale que compruebe si la ha introducido correctamente. Además, es necesario que el cliente verifique la basura electrónica para garantizar que la clave de acceso no haya caído en el filtro de *spam*. El token tiene 6 números. ![code-pt](//images.ctfassets.net/alneenqid6w5/5eqO3wQ7MImsaMGOeK6Gk8/eff44ac34f23646467b09f389394eb33/code-pt.png)
-4. Vuelva a la pantalla de inicio de sesión y __escriba la clave de acceso__ recibida en el paso anterior y haga clic en __Entrar__. ![fill-access-token-pt](//images.ctfassets.net/alneenqid6w5/1a4ACAuZt0koYYW8myAqUQ/0ac63d1ce81e2bd8f57d8e6dc68c0b7c/fill-access-token-pt.png)
+2. En la pantalla siguiente, el usuario debe rellenar su correo electrónico y hacer clic en el botón __Confirmar__![fill-mail-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
+3. __Un token de acceso será enviado al email informado en el paso anterior__. Si el cliente no ha recibido el e-mail, pídale que compruebe si la ha introducido correctamente. Además, es necesario que el cliente verifique la basura electrónica para garantizar que la clave de acceso no haya caído en el filtro de *spam*. El token tiene 6 números. ![code-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
+4. Vuelva a la pantalla de inicio de sesión y __escriba la clave de acceso__ recibida en el paso anterior y haga clic en __Entrar__. ![fill-access-token-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 ### Hacer login con email y contraseña
 
@@ -56,11 +56,11 @@ Este tipo de login __solicita email y contraseña__ para que el cliente pueda au
 - Si el cliente necesita __registrar una contraseña__, debe seguir los pasos abajo:
 
 1. En la pantalla de inicio de sesión, el usuario debe hacer clic en __Entrar con email y contraseña__.
-2. En la pantalla siguiente, debe hacer clic en __No tiene una contraseña? Registrela ahora__![register-password-pt](//images.ctfassets.net/alneenqid6w5/2sE6VwOjqAoAQsKGemwCGs/3f61e50940015953828a9248e00b8568/register-password-pt.png)
-3. El usuario debe llenar su email y hacer clic en el botón __Confirmar__![fill-mail-pt](//images.ctfassets.net/alneenqid6w5/5OXLHK0kY8aqCOuyuuaayQ/4667578a18947906d39ed393c5d8f56f/fill-mail-pt.png)
-4. En la pantalla siguiente, debe escribir su nueva contraseña en los campos __Nueva contraseña__ y __Confirmar nueva contraseña__ y, a continuación, hacer clic en el botón __Registrar nueva contraseña__![register-new-password-pt](//images.ctfassets.net/alneenqid6w5/2gqFHdXAxauM0Mkooqyau/ef26bb6203e301e7c2cc8d6aa26e0a2a/register-new-password-pt.png)
-5. __Un token de acceso será enviado al email informado en el paso anterior__. Si el cliente no ha recibido el e-mail, pídale que compruebe si lo ha introducido correctamente. Además, es necesario que el cliente verifique la basura electrónica para garantizar que la clave de acceso no haya caído en el filtro de *spam*. El token tiene 6 números. ![code-pt](//images.ctfassets.net/alneenqid6w5/5eqO3wQ7MImsaMGOeK6Gk8/eff44ac34f23646467b09f389394eb33/code-pt.png)
-6. Vuelva a la pantalla de inicio de sesión y __escriba la clave de acceso__ recibida en el paso anterior y haga clic en __Cambiar contraseña__ ![change-password-pt](//images.ctfassets.net/alneenqid6w5/mbczqOea2GsMYaYeaSeSK/365e6278b0e1ed300866a47661af1fca/change-password-pt.png)   
+2. En la pantalla siguiente, debe hacer clic en __No tiene una contraseña? Registrela ahora__![register-password-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
+3. El usuario debe llenar su email y hacer clic en el botón __Confirmar__![fill-mail-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
+4. En la pantalla siguiente, debe escribir su nueva contraseña en los campos __Nueva contraseña__ y __Confirmar nueva contraseña__ y, a continuación, hacer clic en el botón __Registrar nueva contraseña__![register-new-password-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.png)
+5. __Un token de acceso será enviado al email informado en el paso anterior__. Si el cliente no ha recibido el e-mail, pídale que compruebe si lo ha introducido correctamente. Además, es necesario que el cliente verifique la basura electrónica para garantizar que la clave de acceso no haya caído en el filtro de *spam*. El token tiene 6 números. ![code-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_8.png)
+6. Vuelva a la pantalla de inicio de sesión y __escriba la clave de acceso__ recibida en el paso anterior y haga clic en __Cambiar contraseña__ ![change-password-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_9.png)   
 
 ### Inicio de sesión con redes sociales
 

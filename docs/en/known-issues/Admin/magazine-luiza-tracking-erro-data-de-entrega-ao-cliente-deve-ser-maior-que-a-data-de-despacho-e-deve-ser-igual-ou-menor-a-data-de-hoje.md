@@ -35,7 +35,7 @@ In the tracking step some orders are returning the following error `"Data de Ent
 2. Bridge
 3. Tracking
 
- ![](https://vtexhelp.zendesk.com/attachments/token/mlpzu59MIDWuvUP6n8zJc8GI6/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

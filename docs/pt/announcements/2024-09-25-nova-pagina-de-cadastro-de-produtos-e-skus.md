@@ -17,21 +17,21 @@ announcementSynopsisPT: 'Confira as melhorias na experiência de cadastro, visua
 
 A página de detalhes de produtos e SKUs foi reformulada para melhorar a sua experiência de cadastro, visualização e edição de produtos e SKUs. A nova página está disponível em beta.
 
-![Nova página de cadastro de produtos e SKUs 1](https://images.ctfassets.net/alneenqid6w5/3jFNFHsyJmp5XnvSFAwa5t/431d937e63da23da1e42a6cae5006202/Overview__1__PT.gif)
+![Nova página de cadastro de produtos e SKUs 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 ## O que mudou?
 
 As novas páginas possuem carregamento mais rápido e uma experiência mais intuitiva, incluindo facilidade no gerenciamento de imagens. Aplique o mesmo conjunto de imagens em múltiplos SKUs com 2 cliques.
 
-![Nova página de cadastro de produtos e SKUs 2](//images.ctfassets.net/alneenqid6w5/btC7OOSoj2OXGzpuXUcXG/f3f78dfbe7ec680863a12c24e4d001e7/2._Images-EN.gif)
+![Nova página de cadastro de produtos e SKUs 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 
 Todos os SKUs de um mesmo produto agora ficam reunidos em uma só página, agilizando a edição de múltiplos SKUs.
 
-![Nova página de cadastro de produtos e SKUs 3](//images.ctfassets.net/alneenqid6w5/V3S6TCUjnz2UoDhIZyyN7/0cd01d454c0b5d2b6a504216dd0b93be/3._SKU-Single_Place.gif)
+![Nova página de cadastro de produtos e SKUs 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.gif)
 
 Além disso, ficou mais fácil selecionar categorias e marcas.
 
-![Nova página de cadastro de produtos e SKUs 4](//images.ctfassets.net/alneenqid6w5/WJqYPXsk8WMffzPtisCp1/66e3be2c82bf725a31ddb17ab9bb3a15/4._Navigation-EN.gif)
+![Nova página de cadastro de produtos e SKUs 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.gif)
 
 >ℹ️ Saiba mais sobre as novas páginas de [produto](https://help.vtex.com/pt/tutorial/adding-products-beta--29IkdEu6GofCFlltsZh2H8) e [SKU](https://help.vtex.com/pt/tutorial/cadastro-de-skus-beta--4ryZ6J45kwn3jDiQBxGiiN) respectivamente.
 

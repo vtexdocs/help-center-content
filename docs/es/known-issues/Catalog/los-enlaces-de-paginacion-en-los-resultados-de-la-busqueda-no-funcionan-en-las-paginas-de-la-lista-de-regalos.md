@@ -31,7 +31,7 @@ Los enlaces de paginación en `SearchResult` no funcionan en `Giftlist`.
 - Acceda a una lista de regalos con suficientes productos para tener paginación, utilice una plantilla por defecto sin ninguna personalización;
 - Compruebe los enlaces de paginación:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/LAmUCIdMsybPqVkRGh9TcNq99/?name=inline-998244926.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 - Estos enlaces no funcionan.
 

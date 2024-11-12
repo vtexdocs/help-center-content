@@ -35,7 +35,7 @@ Using the mentioned API, create a product informing, in the category path, a sub
 
 As an example, check the tree below:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/0RlxkVj9Gvd2ukR1vZcxdcmyC/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 This would mean informing in the path "Department/Category2/Subcategory1".
 

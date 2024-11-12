@@ -21,7 +21,7 @@ A tela de __Títulos__ no Admin VTEX (__Aplicativos > Customer Credit > Títulos
 - [Liquidar títulos](#liquidar-titulos)
 <br>
 <br>
-![Invoices_PT](https://images.ctfassets.net/alneenqid6w5/6otbbLNAHn0hHmKvkYmrj2/3ac50b7bdade789abccccda8abe14352/Invoices_PT.JPG)
+![Invoices_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.JPG)
 
 ## Filtro de títulos
 

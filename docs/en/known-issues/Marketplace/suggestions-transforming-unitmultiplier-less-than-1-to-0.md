@@ -23,13 +23,13 @@ internalReference: 702056
 The seller can send unitMultilplier values for it's skus that are bellow 1.
 
 Example:
- ![](https://vtexhelp.zendesk.com/attachments/token/HqXCaizs03DZbMVT2tcufZM6K/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 The same info is sent to the marketplace correctly:
- ![](https://vtexhelp.zendesk.com/attachments/token/zImMl1BVZHLG6zc45x4XwrZpB/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 However, once the product is processed by the Matcher, the value is rounded to 0:
- ![](https://vtexhelp.zendesk.com/attachments/token/j5FMl4AJJ0R5IP3FcStUo7DDi/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 And once is approved to the marketplace catalog, the value continues as 0. That way a wrong value is set on the marketplace's catalog.
 

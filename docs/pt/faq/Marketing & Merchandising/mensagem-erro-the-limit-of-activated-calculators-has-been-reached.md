@@ -16,6 +16,6 @@ legacySlug: mensagem-erro-the-limit-of-activated-calculators-has-been-reached
 
 Essa mensagem indica que o número máximo de promoções foi atingido e que não é possível criar a promoção que estava sendo configurada. É possível verificar esse dado na tela de administração de promoções (`{AccountName}.vtexcommercestable.com.br/admin/rnb`), conforme a imagem abaixo.
 
-![](https://images.contentful.com/alneenqid6w5/3MZkA9wEMgYO0mYi2YcQSa/b132514fefacffecfeed56a99307daaf/promo__es.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.jpg)
 
 Você deve rever suas promoções ativas para ajustá-las e reorganizá-las, de modo que não sejam necessárias tantas unidades. Geralmente, é possível a união de várias regras em apenas uma promoção. Desse modo, melhorando a performance do carrinho e a organização das promoções.

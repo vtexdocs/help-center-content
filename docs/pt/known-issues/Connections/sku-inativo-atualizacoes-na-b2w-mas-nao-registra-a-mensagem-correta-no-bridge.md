@@ -32,7 +32,7 @@ Sku estava inativo no Catálogo VTEX > Está sendo inativado corretamente na B2W
 
 Importante: o Sku está inativo no Mercado, apenas a mensagem da ponte está incorreta.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/7RAx5JXjSWAtCfh7HJ27LOZOW/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

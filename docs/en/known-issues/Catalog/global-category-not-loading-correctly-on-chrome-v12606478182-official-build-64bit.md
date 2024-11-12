@@ -23,7 +23,7 @@ Currently, the global category for products is not correctly loading data if the
 
 The following display can be seen
 
- ![](https://vtexhelp.zendesk.com/attachments/token/kAdyffwxv7HiGYHQf7LnLmFvI/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

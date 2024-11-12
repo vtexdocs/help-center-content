@@ -19,7 +19,7 @@ Starting November 1st, 2023, the **Publishing** status on Pages in the Headless 
 
 When a new page is created, it is initially set to **Draft**, indicating that the page has not yet been deployed. Once the page is successfully deployed, its status is updated to **Published**, meaning that the build process is ready to commence. Upon completion of the build, the page becomes accessible to end users.
 
-![Build Status - EN](https://images.ctfassets.net/alneenqid6w5/4oOFiKgKpuTVaBics5MaI0/81374cc9a9e94e04975cca5946de4ece/publishing-status-en.gif)
+![Build Status - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 ## What has changed?
 

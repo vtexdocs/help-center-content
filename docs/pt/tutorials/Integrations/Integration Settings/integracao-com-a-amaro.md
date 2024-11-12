@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 Fundada em 2012, a [AMARO](https://amaro.com/br/pt/) é uma marca brasileira de varejo digital especializada em moda feminina. Desde 2020, a empresa atua como marketplace por meio de uma curadoria de marcas da própria empresa.
 
-![Integração AMARO](https://images.ctfassets.net/alneenqid6w5/2hQ76hgXTPOwEuP4Upq1vO/125a089a5f04ad2f910a6ff3c3f69f7b/Amaro_Logo.png)
+![Integração AMARO](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 A Amaro é agora [conector certificado](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro), disponível para parceria com clientes VTEX. Este guia orienta o seller a configurar a integração, sendo parte do processo no Admin VTEX e parte da AMARO. Para isso, as etapas são as seguintes:
 

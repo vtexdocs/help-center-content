@@ -16,7 +16,7 @@ trackSlugPT: untitled-track
 
 Este artigo tem como objetivo explicar como a app do inStore configura o AppLinking para as ações de `payment` e `payment-reversal` com as apps dos adquirentes.
 
-![Payment app](https://images.ctfassets.net/alneenqid6w5/SZ7d3IeuCAagwCqSW4eCO/27d469e37d9d1d8fb3ce22850012e685/Payment_app.png)
+![Payment app](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Campos de configuração
 

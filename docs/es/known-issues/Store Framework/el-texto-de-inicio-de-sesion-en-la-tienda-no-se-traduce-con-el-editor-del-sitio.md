@@ -44,7 +44,7 @@ Al tratar de traducir un texto utilizando el editor de sitio para el inicio de s
 
 Asegúrese de que iconLabel está vacío tanto en el código de la tienda como en el editor del sitio.
 Si no está seguro de que esté vacío en el editor del sitio, puede restablecer el contenido pasando por la versión del editor del sitio > restablecer.
- ![](https://vtexhelp.zendesk.com/attachments/token/PXovY6zVHdqqhxjodbtMqdXAa/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Siga la documentación aquí y los contextos aquí para establecer la etiqueta como desee en su lugar.
 

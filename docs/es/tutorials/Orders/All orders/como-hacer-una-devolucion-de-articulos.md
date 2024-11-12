@@ -31,7 +31,7 @@ Para realizar la devolución en el VTEX Admin:
     * ¿Hay algún valor adicional que se deba reembolsar?
 6. Haz clic en `Solicitar reembolso`.
 
-![Devolucion de items](https://drive.google.com/uc?export=download&id=1kZVs7Kq2zTOGz8KxkT_Y8LqnObagdi4f)
+![Devolucion de items](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 >⚠️ Ten en cuenta que:
 >

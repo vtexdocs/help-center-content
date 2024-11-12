@@ -30,7 +30,7 @@ Atualmente, a IU do usuário para a aplicação CatalogV2 não está aplicando c
 
 2) Definir uma função de usuário somente leitura
 
- ![](https://vtexhelp.zendesk.com/attachments/token/NpEBOSahA9ogF72lsW9kYRjyH/?name=inline441836406.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 3) Com estas regras definidas, faça o login com o usuário relacionado
 

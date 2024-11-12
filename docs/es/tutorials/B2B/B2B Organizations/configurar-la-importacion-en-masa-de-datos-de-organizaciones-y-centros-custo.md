@@ -37,7 +37,7 @@ Para importar los datos en masa a la plataforma VTEX, sigue los pasos a continua
 	<li>Una vez finalizado el proceso de importación, puedes hacer clic en Ver detalles de la importación para acceder al informe de importación.</li>
 </ol>
 
-![Importação em massa - ES](https://images.ctfassets.net/alneenqid6w5/3sWvUytkkonIe01tnvXwpK/b8c5a8462d5e9f330a9601975ef2fca9/Bulk_import_vers_o_original-gif-ES.gif)
+![Importação em massa - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 # Errores de importación
 
@@ -53,7 +53,7 @@ Para ver los detalles de los problemas encontrados, sigue los pasos a continuaci
 
 >ℹ️ Asegúrate de que el archivo que cargues solo contenga las correcciones de los errores previamente identificados para garantizar que la importación se realice correctamente.
 
-![Bulk import - ES](//images.ctfassets.net/alneenqid6w5/xXZgwvWu4ngsY9D9hjQsO/2cdc7eb8e0710fff44a55b1a2619c58b/Bulk_import_vers_o_error-gif-ES.gif)
+![Bulk import - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 
 # Importación vía API
 

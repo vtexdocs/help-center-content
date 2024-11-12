@@ -20,7 +20,7 @@ A VTEX disponibiliza um formulário renovado para criar promoções do tipo [Com
 ## O que mudou?
 O novo formulário de criação de promoções substitui a interface anterior, oferecendo uma organização visual mais clara. A atualização, com componentes modernos e informações bem organizadas, simplifica a criação de promoções.
 
-![Informação geral - PT](https://images.ctfassets.net/alneenqid6w5/7FKhVNFJSyIiKySq4alXUF/296fed4f99b6741c7b9d7319f70ad9df/Compre_junto-PT.gif)
+![Informação geral - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 ## Por que fizemos essa mudança?
 Esta atualização foi desenvolvida para tornar a criação de promoções mais rápida, intuitiva e eficiente. O objetivo é aprimorar a usabilidade e garantir uma experiência ágil e descomplicada.

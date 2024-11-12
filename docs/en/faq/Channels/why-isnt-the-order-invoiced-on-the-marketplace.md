@@ -30,7 +30,7 @@ As a result, we will be able to reach the “faturado” status only on VTEX, an
 
 The Tax Invoice Access Key is an auxiliary instrument for querying the electronic Tax Invoice (NF-e), enabling the holder of this document to confirm that it actually exists, as well as its field name Invoice Key:
 
-[]![ChaveDeAcesso](https://images.contentful.com/alneenqid6w5/447ljGvDxuW0mmQoAumGOg/f1f246378401f4c9a56655974300ab04/ChaveDeAcesso-1.png)
+[]![ChaveDeAcesso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 __Remember!__ This information item is created when the Tax Invoice is generated and works on ERP. If you have one, request it.
 

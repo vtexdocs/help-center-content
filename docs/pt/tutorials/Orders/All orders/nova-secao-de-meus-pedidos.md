@@ -26,28 +26,28 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 A VTEX busca usar uma stack moderna para criar produtos que atendam cada vez melhor ao mercado de e-commerce. Por essa razão, começamos a usar a library React JS em nossas features mais recentes: a nova página de **Meus Pedidos** é um exemplo. Ela vem com novas features e novo design, e foi criada do zero usando React. 
 
-![Tela de listagem do novo Meus Pedidos](https://images.contentful.com/alneenqid6w5/5iEOW4etrGO208I4gMiqmq/3db31b5565b297daff34247be23dc7f0/my-orders-blog-1.png)
+![Tela de listagem do novo Meus Pedidos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ### Nova experiência de navegação
 
 O React não foi escolhido apenas para ficar alinhado com a nova plataforma da VTEX — por ser uma single-page application carregada dentro da loja, a nova área de pedidos possui uma navegação suave, com uma experiência muito melhor para o usuário.
 
-![Navegação Meus Pedidos](//images.contentful.com/alneenqid6w5/6LN7wTA0k8maaaGGwicqkG/cb11a2c95c14d9c707e5c2a50de3ffd5/MOg.gif)
+![Navegação Meus Pedidos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 
 ### Features
 
 Este update no Meus Pedidos vai servir de ponto de partida para novas features nesta seção, mas já traz melhorias nesta primeira versão, como layout mobile-ready e timeline do pedido — que muitas agências implementavam como customização.
 
-![Meus Pedidos mobile & desktop](//images.contentful.com/alneenqid6w5/5PiNAlG8LekCssuiq2kuQ2/28b4d60785682b7b4a53a1583b11c9bf/my-orders-blog-2.png) 
+![Meus Pedidos mobile & desktop](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png) 
 
-![Detalhes do Pedido](//images.contentful.com/alneenqid6w5/1p3u7cATQAIgyEMAQCsyKa/151bd1aa2063456420a6716b4f6c57ad/my-orders-blog-3.png) 
+![Detalhes do Pedido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png) 
 
 
 Outra nova feature são as razões pré-definidas de cancelamento, que o cliente pode escolher caso não queria escrever uma razão. Estas opções podem ser facilmente customizadas e traduzidas nas configurações do Portal v2:
 
-![Cancelamento do pedido](//images.contentful.com/alneenqid6w5/4KBPK3bXf2e8aO2MYkikAY/ce0f45e9fc81f778cfbf6c5904b9f39e/my-orders-blog-4.png) 
+![Cancelamento do pedido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png) 
 
-![Customizando razões de cancelamento](//images.contentful.com/alneenqid6w5/3Na3wIvSRG6ygy4YgkgICC/24e1ad1513b367326c46a481c0d79bcc/my-orders-blog-5.png)
+![Customizando razões de cancelamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
 
 Pela primeira vez, estamos suportando também tradução nativa do My Orders para francês!
 
@@ -55,7 +55,7 @@ Pela primeira vez, estamos suportando também tradução nativa do My Orders par
 
 Para não causar problemas de compatibilidade e quebrar customizações, a nova seção de Meus Pedidos vem com um opt-in, que permite que as lojas inicialmente migrem na velocidade em que desejarem. Este opt-in fica no Portal v2, na mesma seção que a customização de razões de cancelamento:
 
-![Opt-in para ativar a nova versão](//images.contentful.com/alneenqid6w5/Nf4NJcrnMWQEay0YmW0IU/af155d35e2db7ab7a8fa8f8e0ec8462e/MO6.png)
+![Opt-in para ativar a nova versão](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.png)
 
 Antes de ativar a nova versão, é possível vê-lá acessando a sua loja pelo ambiente beta (accountname.vtexcommercestable.com.br/account/orders).
 

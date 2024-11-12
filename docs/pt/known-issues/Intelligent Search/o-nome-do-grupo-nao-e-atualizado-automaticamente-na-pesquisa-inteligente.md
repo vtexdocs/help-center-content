@@ -30,11 +30,11 @@ Essa diferença está detalhada aqui: https://help.vtex.com/en/tracks/catalogo-1
 
 O módulo legado tem dois clusters de dados distintos, a coleção (A) e o nome do grupo (B)
 
- ![](https://vtexhelp.zendesk.com/attachments/token/Wb85umTatjLPwTTdZ53985WHt/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 No entanto, o novo módulo de coleções exibe apenas o nome da coleção, não seu GroupName:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/dXcYFigMd8BCKPCaF5wlvcUhZ/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 O resultado da Intelligent Search é baseado no Group Name, e é por isso que, nos casos em que as atualizações são feitas apenas na nova interface do usuário, os resultados não são refletidos no front-end e nas consultas de pesquisa.
 

@@ -36,7 +36,7 @@ in the integration `Could not create product. {"error":"product.error_param","me
 
 Admin > Installed APP > Shopee > Manage Products > Product Sync Status
 
- ![](https://vtexhelp.zendesk.com/attachments/token/t5CjjlTerPxIk72GBrQXTbuzh/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

@@ -33,7 +33,7 @@ Al intentar subir un nuevo fichero en admin/portal/#/sites/default/code no ocurr
 
 1. 1. Vaya a admin/portal/#/sites/default/code
 2. Vaya a Nuevo -> Subir Archivo -> seleccione el archivo que desea importar -> pulse crear
- ![](https://vtexhelp.zendesk.com/attachments/token/4uSgPeUxG9xAOkTq1HUs8khX6/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 3. Compruebe que no ocurre nada.
 
 

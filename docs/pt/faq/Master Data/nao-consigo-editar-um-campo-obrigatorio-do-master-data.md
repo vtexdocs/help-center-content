@@ -19,11 +19,11 @@ legacySlug: nao-consigo-editar-um-campo-obrigatorio-do-master-data
 1. No menu do admin, selecione o módulo __Master Data__. 
 2. Certifique-se que está na aba __Aplicações__, dentro de __Links Rápidos__.
 3. Clique na engrenagem em __Profile System__.
-![MasterDataTutorial 1 UM](https://images.ctfassets.net/alneenqid6w5/6BwZrUrNopO6Nb3n49B8L9/ba74f6ae261e1d8f0fc7a32cf7ad321f/MasterDataTutorial_1_UM.jpg)
+![MasterDataTutorial 1 UM](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.jpg)
 4. Clique no __lápis__ ao lado do item que deseja configurar.
-![MasterDataTutorial2](//images.ctfassets.net/alneenqid6w5/1OU9KjvK8sUUtHr5MZqbci/4297f3f56819f622d77845054b3dbb0d/MasterDataTutorial2.png)
+![MasterDataTutorial2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 5. Clique em __Schemas de Layout__.
 6.  Na __Seção 1__, escolha o item do campo que deseja configurar.
 7. Em __Configurações avançadas do campo__, selecione__ Campo obrigatório no formulário__.
-![MasterDataTutorial3](//images.ctfassets.net/alneenqid6w5/1gYKfvwuQaL5fR6nlyZQ8Y/50be6084a8df932cced78ae6359981bc/MasterDataTutorial3.png)
+![MasterDataTutorial3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 A opção também pode ser alterada sempre que desejado.

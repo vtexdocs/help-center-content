@@ -130,7 +130,7 @@ Caso a loja retorne em seu serviço o **response status 200 ou 202**, significa 
 
 _exemplo do fluxo:_
 
-![](https://images.contentful.com/alneenqid6w5/3HAWHE713iO88YiQ4YaSEO/93f509932287cf3db50e4bc65210a0d6/sku-sugestion-seller-nao-vtex.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 <a name="a1"><a/>
 ### Enviar Notificação de Mudança de Preço e Estoque de SKU
@@ -279,7 +279,7 @@ Quando um produto é inserido no carrinho no marketplace VTEX, ou faz se alguma 
 
 *Exemplo do fluxo de chamadas no carrinho:*
 
-![](https://images.contentful.com/alneenqid6w5/227nc9JDpaUCqIoE0Yu024/fda787a576a5b34a7de02a037308d04c/fechamento-fluxo.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 <a name="a4"><a/>
 ### Simulação de Carrinho (POST E GET)
@@ -609,7 +609,7 @@ Este tópico tem por objetivo auxiliar o Seller não VTEX a receber um pedido, r
 
 _exemplo do fluxo de chamadas de descida de pedido, pagamento e atualização de status de pagamento:_
 
-![](https://images.contentful.com/alneenqid6w5/FjxjkgPbEWwU64iWGIU6o/e11b8a8466b6c87a53aa2389f474fed1/pedido-pagamento-fluxo.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 <a name="a6"><a/>
 ###Enviar Pedido

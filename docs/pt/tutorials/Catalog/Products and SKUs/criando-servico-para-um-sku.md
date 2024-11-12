@@ -78,7 +78,7 @@ Para vincular um serviço a um SKU, siga os passos abaixo:
 7. Preencha os [campos da planilha](#campos-da-planilha). Mantenha o formato CSV do arquivo quando salvar as alterações.
 >⚠️ O tamanho do arquivo da planilha não poderá exceder 4Mb (4096KB).
 8. Clique na barra ao lado do botão `Select`, destacada abaixo.
-  ![Anexos - PT](https://images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/8581377e9a02b411cd383a85be145983/image.png)
+  ![Anexos - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 9. Selecione a planilha CSV atualizada.
 10. Clique em `Vincular Valor(es) de Serviço(s) a SKU(s)` para finalizar.
 

@@ -20,7 +20,7 @@ Marketplace Network facilita el encuentro y la comunicación entre marketplaces 
 Tenga en cuenta que *Marketplace Network* es una herramienta que promueve el contacto entre partners potenciales, pero no es una etapa obligatoria para convertirse en un *marketplace* o *seller* en VTEX. Sepa más sobre las [Estrategias de marketplace en VTEX](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402).
 
 ## Encontrar sellers y marketplaces
-![Marketplace network tour](https://images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/884c2b263f35ef7e8fbffee7cb23ba84/Marketplace_network_tour.gif)
+![Marketplace network tour](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 Para acceder a la lista de marketplaces y sellers registrados, vaya a *Marketplace > Marketplace Network > Encontrar sellers / Encontrar marketplaces*. En ambas pestañas, puedes buscar por palabras clave y filtrar la lista para obtener resultados más precisos, así como contactar con potenciales partners.
 
@@ -41,7 +41,7 @@ Para entrar en contacto:
 >ℹ️ El potencial partner comercial recibirá un email con la información ingresada. Si el interés es mutuo, este podrá ponerse en contacto e iniciar una negociación de los términos del acuerdo entre marketplace y seller.
 
 ## Perfil de la tienda
-![Network profile ES](//images.ctfassets.net/alneenqid6w5/0F1E1mqf6hD5FLzVGqBA7/ae9aa04caa553c344ab6e5f958469e68/Marketplace_store_profile_ES.gif)
+![Network profile ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 
 1. En la sección «Marketplace» de su tienda, haga clic en __Marketplace Network__.    
 2. Haga clic en la pestaña __Perfil de la tienda__.    

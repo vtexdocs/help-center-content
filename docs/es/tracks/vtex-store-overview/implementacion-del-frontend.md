@@ -87,7 +87,7 @@ Cuando se habla de implementación frontend, cabe recordar que [VTEX IO](https:/
 
 Esto significa que cuando trabajas con VTEX IO, desarrollas tu código localmente. Sin embargo, en lo que respecta a implementar y ejecutar la tienda, además de encargarse del proceso de deploy, VTEX IO gestiona la infraestructura, CI/CD y la seguridad. La siguiente imagen muestra cómo se relacionan estos conceptos entre sí:
 
-![Arquitectura de desarrollo frontend](https://images.ctfassets.net/alneenqid6w5/70awnhEGvAlpk5NBrGJJJ6/b86208e7447890ebd62183059c0b22f6/frontend_image3_ES.png)
+![Arquitectura de desarrollo frontend](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ### Principales funcionalidades de Store Framework
 
@@ -218,7 +218,7 @@ El equipo de desarrollo debe iniciar un nuevo proyecto con FastStore a través d
 - Página de detalles de producto (PDP)
 - Minicart
 
-![FastStore template](//images.ctfassets.net/alneenqid6w5/gRMxctAER60dhr8UEIEh2/56b79e81aae806bf7ab17d6088267f90/frontend_image4_ALL.png)
+![FastStore template](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 #### Requisitos para un PMV de FastStore
 
@@ -271,7 +271,7 @@ El equipo de desarrollo debe iniciar un nuevo proyecto con Store Framework clona
 - Página de lista de productos (PLP)
 - Página de detalles de producto (PDP)
 
-![Store Framework template](//images.ctfassets.net/alneenqid6w5/5TpA31coQ1lu5ZoMkj8boS/d1f1bfb2f0e46ff3755375e00658a466/frontend_image5_ALL.png)
+![Store Framework template](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 #### Requisitos para un PMV de Store Framework
 

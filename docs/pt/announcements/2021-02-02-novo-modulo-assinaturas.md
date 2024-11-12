@@ -37,35 +37,35 @@ A melhoria do sistema de assinaturas também trouxe novas funcionalidades para o
 #### Novo detalhamento de assinaturas 
 A nossa página de detalhamento de assinatura foi remodelada pensando em melhorar a experiência do consumidor ao reduzir o tempo para localizar informações e realizar tarefas. Além disso, contamos com a nova funcionalidade de adicionar itens a uma assinatura existente.
 
-![img1 subscriptions PT](https://images.ctfassets.net/alneenqid6w5/YTLE4SVoIbfDCdH9BK97s/0578726c45d942f7960c7e3999649627/img1_subscriptions_PT.png)
+![img1 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 #### Barra de ações
 Adicionamos uma barra de ações para melhorar a comunicação com o usuário sobre o que precisa ser feito ou comunicar eventos importantes sobre a sua assinatura.
 
-![img2 subscriptions PT](//images.ctfassets.net/alneenqid6w5/4SOJIaVfD2pnRqDK8oChFM/77b61a6259cf558bfa78db8c5ada1f80/img2_subscriptions_PT.png)
+![img2 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 #### Adicionar produto à sua assinatura
 Agora é possível adicionar um novo item à sua assinatura através da busca dos produtos disponíveis na loja. 
 
-![img3 subscriptions PT](//images.ctfassets.net/alneenqid6w5/1QLpkpJqU4GmAxG2kQl34s/64249fe1d011fc477d8760f27a783506/img3_subscriptions_PT.png)
+![img3 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 #### Criar uma nova assinatura
 Adicionamos uma funcionalidade muito aguardada que é a tela de criação de assinaturas. Ela permite configurar uma nova assinatura sem ter que passar pelo checkout e realizar um pedido na hora. Para realizar essa ação, basta clicar no botão __Nova assinatura__, na listagem de assinaturas.
 
-![img4 subscriptions PT](//images.ctfassets.net/alneenqid6w5/1Olba34z68eZB3VqeGLPvL/8659bfceec1f88773e5871092be90771/img4_subscriptions_PT.png)
+![img4 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 ### Novo conceito de assinaturas para o sistema
 Até então, para o sistema da VTEX, uma assinatura era composta por um SKU, atrelado a uma configuração de compra. Isso permitia que o consumidor da loja assinasse SKUs com endereços de entrega e até mesmo formas de pagamento diferentes – uma evolução em comparação à primeira versão do sistema. 
 
 #### Antes:
-![img5 subscriptions PT](//images.ctfassets.net/alneenqid6w5/36iPClYx89vn03OHhkUfho/4d469f2404f59d76b5ebe67b89e36365/img5_subscriptions_PT.png)
-![img6 subscriptions PT](//images.ctfassets.net/alneenqid6w5/3R0ImpMVwP9C81ndi5oCvg/eb2c0c259c6ffba5c7bd4e7ac0cda841/img6_subscriptions_PT.png)
-![img7 subscriptions PT](//images.ctfassets.net/alneenqid6w5/W44xbs0MAAwYxjyU8Dj4E/cab5768ff5bad6dab10ca2cd5e931c8f/img7_subscriptions_PT.png)
+![img5 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
+![img6 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
+![img7 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.png)
 
 A assinatura para nós agora consiste em uma lista de SKUs e uma determinada configuração de compra. Isso significa que nós retiramos o conceito de Grupos de Assinatura do nosso sistema. Saiba mais no artigo [Como funciona a assinatura](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453). O diagrama abaixo demonstra o novo conceito de assinatura:
 
 #### Agora:
-![img8 subscriptions PT](//images.ctfassets.net/alneenqid6w5/1tNo9gQza7gWuDXZPRxQRO/474f3170b2f10977be30172465ffd630/img8_subscriptions_PT.png)
+![img8 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_8.png)
 
 ### Data do ciclo da assinatura
 

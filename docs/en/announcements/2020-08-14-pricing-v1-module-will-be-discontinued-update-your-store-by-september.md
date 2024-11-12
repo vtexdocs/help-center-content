@@ -31,7 +31,7 @@ To find out if your account is still using Pricing V1, follow the steps below:
 
 If you see a screen similar to the one below, it means that your account needs to migrate.
 
-![Tela pricing antiga - EN](https://images.ctfassets.net/alneenqid6w5/7wk5rGZNxCldv1KHUEUIFz/e3c41c74ab30125e804250a432eb95c0/Tela_pricing_antiga_-_EN.png)
+![Tela pricing antiga - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 If your VTEX account still uses previous versions of the VTEX Admin (such as "vtexcommercestable"), it will also need to migrate. To do so, please follow the steps below:
 

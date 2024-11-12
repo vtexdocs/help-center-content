@@ -77,7 +77,7 @@ The list of quotes and saved carts displays the following information:
 
 Users can click any row or the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> and then click Details to view and edit the information of a quote, depending on their permissions.
 
-![My quotes - EN](https://images.ctfassets.net/alneenqid6w5/53BQDZh9EBc8OrFTxfO1eD/9aa6c7d1954fbd7112da3c65220d70cb/My_Quotes.png)
+![My quotes - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Creating quotes or saving carts
 To create a quote or saved cart, you must have the [Create Quotes and Carts permission](#create-quotes-and-Carts-permission). After adding products to the cart, use the cart content to create a saved cart or request a quote. Follow the instructions below:
@@ -132,7 +132,7 @@ To create a quote or saved cart, you must have the [Create Quotes and Carts perm
 
 A quote is essentially a saved cart with the original quantities and prices of the items in the user's shopping cart.
 
-![Create Quote - EN](//images.ctfassets.net/alneenqid6w5/sIVQqxw1NtZLbqtI3K4we/88ce527cb1318d54dc13242660b04d2a/Create_quote.png)
+![Create Quote - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 ## Quote details
 The Quote Details page displays all the information about a quote or saved cart, as well as the actions available based on the status and [user permissions](#access-permissions). To access this page, go to **My Account > Quotes and Saved Carts**.
@@ -155,7 +155,7 @@ On this page, you will see the following information:
 - **Update History:** Includes a history of all events related to the quote, such as its creation and discounts given, including notes, if any.
 - **Add Note:** Optional field for writing comments or notes. Notes added here will be visible as part of the Update History of the quote or saved cart. For example, if a user wants to ask for a specific discount from the sales associate, they can enter this request as a note.
 
-![Quotes Details - EN](//images.ctfassets.net/alneenqid6w5/5XLea07XtuCRfGJyvX819I/3f0a860131ed34dfac7c3d0089c1a00d/Quotes_details.png)
+![Quotes Details - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 ## Editing quotes
 Users with [editing permissions](#access-permissions), usually associated with sales or store administrator roles, can edit quotes on the Quote Details page as follows:

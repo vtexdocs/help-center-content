@@ -73,11 +73,11 @@ En el menú principal del Admin, ingrese a __Precios__ y elija la opción __List
 
 En el filtro de búsqueda, introduzca los nombres de las tablas creadas en el Master Data. Las tablas de precio se muestran como columnas de la lista de precios, así como las políticas comerciales.
 
-![Filtros - ES](https://images.ctfassets.net/alneenqid6w5/4sQMk2XLRyoQvFLNrGI0A7/ba496e9ee7014e06fd7ed4a248e2d422/Filtros_-_ES.png)
+![Filtros - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Para actualizar el precio fijo en una tabla específica, haga clic en la columna de esa tabla y, a continuación, en __Definir precios fijos__.
 
-![Lista de preços - ES](//images.ctfassets.net/alneenqid6w5/16m3JGeeDwzioInWVBxbpl/f95259f067d5777971bd22b44f52ee08/Lista_de_pre_os_-_ES.png)
+![Lista de preços - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Para ingresar y actualizar los precios de una tabla específica por API, vea esta [documentación de API](https://developers.vtex.com/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
 
@@ -90,7 +90,7 @@ Cuando un usuario de su tienda no ha iniciado sesión, los precios que se le mue
 Si el usuario ha iniciado sesión, verá los precios correspondientes a la tabla de precios a la que está asociado su e-mail.
 
 Por ejemplo, estos dos clientes están vinculados a tablas de precios diferentes:
-![Clients](//images.ctfassets.net/alneenqid6w5/4YanVck2GswcKKEEamO6gs/d1a2bc5603716c485dd000239a49fb41/Clients.png)
+![Clients](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 Cuando el cliente Daniel, que está vinculado a la tabla Silver, inicie sesión en la tienda, verá los precios establecidos en dicha tabla. La mochila del ejemplo anterior aparecerá a USD 50.
 En cambio, el cliente Breno, que está vinculado a la tabla Gold, verá los precios definidos en esta otra tabla. Para él, la mochila costará USD 60,50.

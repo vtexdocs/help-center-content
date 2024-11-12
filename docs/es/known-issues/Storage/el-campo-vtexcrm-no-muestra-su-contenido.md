@@ -43,7 +43,7 @@ Actualmente, al guardar los datos en el campo "Comentar" de un formulario de Dat
 3. Abra el campo de comentarios
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/tUX7c40L6Mucgl7J60Ba4Ysn5/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 4. Prueba a insertar cualquier dato en él y guarda

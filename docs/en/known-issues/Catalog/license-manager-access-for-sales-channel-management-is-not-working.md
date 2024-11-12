@@ -28,13 +28,13 @@ At the License Manager configuration, we can select which resource the user can 
 
 - Change a user role to access only the Sales Channels Management:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/QdfNIgaeWKO0TQNp7JHBXuhtW/?name=inline-650484840.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 - Try to access this page: `account.myvtex.com/admin/Site/Store.aspx`
 
 The page will not be available on the menu:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/uomLWmfD9EIbUO6HnbljCA7e3/?name=inline671843796.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 

@@ -34,11 +34,11 @@ Crete a Campaign audience with a target audience, in Collections, select Differe
 Return to the target audience and check that the option Different From changed to Equal to
 
 Before saving:
- ![](https://vtexhelp.zendesk.com/attachments/token/kHN5aLHsNDPz5pblzihtgsw28/?name=Captura+de+Tela+2023-08-15+a%CC%80s+12.09.12.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 After saving:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/hLAnRYl94mE99yyyRWVo461j5/?name=Captura+de+Tela+2023-08-15+a%CC%80s+12.09.24.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 ##

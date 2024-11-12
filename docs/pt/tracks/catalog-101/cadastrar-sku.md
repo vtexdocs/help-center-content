@@ -25,7 +25,7 @@ Existem dois fluxos de cadastro de SKU pelo Admin VTEX: criar um SKU logo após 
 ### Cadastrar SKU logo após o cadastro de um produto
 
 1. Na tela de cadastro de Produto, após preencher os campos, clique em `Salvar e Cadastrar novo SKU`.
-  ![foto1.pt](https://images.ctfassets.net/alneenqid6w5/4hbOFLl4i0ItEagHpb0SQD/49b2bd614f938aef01f48444c07843f3/foto1.pt.png)
+  ![foto1.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 2. Você será redirecionado(a) para a tela de cadastro de SKU. Preencha os campos do formulário de SKU. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [como preencher os campos de cadastro de SKU](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) 
 3. Clique em `Salvar`.
 
@@ -43,7 +43,7 @@ Existem dois fluxos de cadastro de SKU pelo Admin VTEX: criar um SKU logo após 
 Após o cadastro de um SKU é necessário adicionar uma imagem para torná-lo ativo. Para fazer isso, siga o passo a passo abaixo: 
 
 1. Na página de cadastro do SKU, clique na aba **Imagens**.
-![foto6.pt](//images.ctfassets.net/alneenqid6w5/78tvoRLdoSO4dI8QtDPfuH/f1ba5b1a2cd4b917c4d46df95f44cc1c/foto6.pt.png)
+![foto6.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 2. Clique em `Inserir` e escolha a imagem desejada.
 3. Preencha os campos **Texto** (tag alt da imagem) e **Label** (a “etiqueta” usada para facilitar na organização do template das páginas do seu site, através do referenciamento do valor preenchido nesta. Ex.: Frontal, lateral, superior etc).
 4. Clique em `Enviar`.
@@ -53,7 +53,7 @@ Após o cadastro de um SKU é necessário adicionar uma imagem para torná-lo at
 Após cadastrar as imagens, você deve cadastrar as especificações do SKU. O cadastro das especificações será detalhado no próximo passo dessa trilha.  
 
 1. Clique na aba **Especificações**.
-![foto7.pt](//images.ctfassets.net/alneenqid6w5/TCWsuTxF97y0yZNLfggIX/f316524c44ec171e226d454d58da321c/foto7.pt.png)
+![foto7.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 2. Preencha os campos solicitados. Os valores das especificações são configurados no nível da Categoria.
 3. Clique em `Salvar`.
 

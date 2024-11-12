@@ -46,7 +46,7 @@ Ask your development team to review your integrations that use the Checkout API 
 
 They should be able to follow the diagram below to assess whether an integration needs to be adjusted, according to your store's [reCAPTCHA orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm) and how requests made to these endpoints are [authenticated](https://developers.vtex.com/docs/guides/authentication-overview):
 
-![reCAPTCHA diagram](https://images.ctfassets.net/alneenqid6w5/46F1byxPKdYgWcf1lSkPMn/077e3f3122263a78aaa5a4cf47bd9eb2/recaptcha-config-EN.png)
+![reCAPTCHA diagram](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 - __Case 1__: *No changes are required in the integration, but your store might be at risk.*
 

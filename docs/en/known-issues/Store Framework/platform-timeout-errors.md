@@ -30,7 +30,7 @@ This may be related to GraphQL queries. Normally, you'll see errors in the `/met
 
 
 Try accessing some pages on the admin, for example, of an account, and randomly, this page can receive the error below. This image can also appear on myvtex environment when accessing any other pages:
- ![](https://vtexhelp.zendesk.com/attachments/token/bpiTuFWDjmPfEtLAiVcLhiMRs/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 When you refresh the page everything should be back to normal
 
 You can see more details of the error on the console or just wait for it to refresh.

@@ -32,7 +32,7 @@ When saving taxes in the promotions module, the dropdown value for "at least one
 3 -  Save the form
 4 - check it again, the form will come out empty:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/kGbgj8MON0fVzgmv19hKS1F9u/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

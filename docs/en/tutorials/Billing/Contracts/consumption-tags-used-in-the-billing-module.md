@@ -69,7 +69,7 @@ Below are the tags related to the channel through which the order is placed:
 
 The image below shows how the order is tagged based on its origin, both for the marketplace and the seller:
 
-![marcacao_pedidos_EN](https://images.ctfassets.net/alneenqid6w5/3q4rRQ1ATOB7vJGm2AfwNL/98b2b9314b3be0ce4f5bb74b9caf9157/marcacao_pedidos_EN.png)
+![marcacao_pedidos_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 >⚠️ Due to commercial agreements, VTEX grants a type of certification to certain channels. When an order is generated in a channel that does not have this level of certification, there are no consumption tags by origin, and the order is tagged as `IsB2C`. In other words, only certified channels have consumption tags by origin.
 

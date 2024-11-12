@@ -19,7 +19,7 @@ O Mídia é uma funcionalidade responsável por gerenciar os arquivos de mídia 
 
 >⚠️ Para upload, os arquivos devem ter uma extensão em minúsculo, por exemplo, `store.png`, e tamanho de até **5 MB**.
 
-![Mídia Visão Geral](https://images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/1daf233a39aa1f3e4bd5b42b1f4b8805/pt-m__dia-overview.png)
+![Mídia Visão Geral](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Além disso, o Mídia está integrado ao **Site Editor** e ao **Headless CMS**, o que permite que ele seja acessado e gerenciado diretamente através de soluções de CMS da VTEX. 
 
@@ -41,7 +41,7 @@ Há três maneiras de acessar o Mídia no Admin:
 
 Na imagem a seguir, confira a visão geral da interface do Mídia e as ações disponíveis para gerenciar seus arquivos de mídia:
 
-![Mídia Features](//images.ctfassets.net/alneenqid6w5/2teyzkUy2zP5vjMLPxlXgD/4ffd0d22e2c3ce0173f5643177728be4/pt-m__dia-features.png)
+![Mídia Features](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 | Campo | Descrição |
 | ---------- | ------------- |

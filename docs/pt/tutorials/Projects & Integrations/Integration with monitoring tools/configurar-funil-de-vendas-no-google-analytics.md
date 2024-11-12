@@ -23,23 +23,23 @@ Com o funil de vendas configurado, é possível acompanhar e analisar os passos 
 
 Para configuração manual ou edição de uma meta já existente, o primeiro passo é acessar o Analytics e clicar no botão __Administrador__ no canto inferior esquerdo. Em seguida, ir na opção __Metas__, da coluna "Vista".
 
-![image](https://images.ctfassets.net/alneenqid6w5/1br6W1yFRuMWoO2wW8Iu04/de2c4c8938a856821b25fde18b2632a7/image.png)
+![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Na tela de administração de metas, opte por criar uma nova ou editar uma já existente.
 
 __No passo 1__ você pode seguir com uma meta de tipo personalizado:
 
-![image](//images.ctfassets.net/alneenqid6w5/7GPxGfEoaA2GUqOGA48U2a/3b731dfd468a389813d0da16802df98f/image.png)
+![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 __No passo 2__ você pode definir o nome que preferir para a sua meta e um código de posição (de uso interno do Google Analytics). Em tipo, vamos usar "Destino":
 
-![image](//images.ctfassets.net/alneenqid6w5/6Sdi6PJ4e4SKiuUSeEgMii/d0f1e7fb597333867e4d56453922847a/image.png)
+![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 __No passo 3__ temos as configurações mais sensíveis. Nele configuramos a página que determina a conclusão da meta e o caminho que os clientes vão percorrer para atingi-la.
 
 No campo "Destino" selecione a opção expressão regular e insira a URL da página de pedido concluído: `^/checkout/orderPlaced`
 
-![image](//images.ctfassets.net/alneenqid6w5/6lxVMRQt7GWcqqSiCGe40g/177d2cf23b65d5f2134fc389a5646b9b/image.png)
+![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 Depois configure o caminho que o cliente vai percorrer até finalizar um pedido. Neste caso, estamos levando em conta que o processo de compra inicia na tela do produto; então meu funil vai servir para medir a quantidade de clientes que acessam essa tela, quantos pedidos foram finalizados e em qual passo os clientes estão desistindo da compra.
 
@@ -52,7 +52,7 @@ Ainda __no passo 3__, então, ative a opção __Funil__ com as etapas a seguir:
 5. __Entrega__: `^/checkout/(\?.*)?#/shipping$`
 6. __Pagamento__: `^/checkout/(\?.*)?#/payment$`
 
-![image](//images.ctfassets.net/alneenqid6w5/4gzupPXI4w0gYWISUaCUQS/efb5f7cd239cae3cfd992b2b649e58b9/image.png)
+![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 Uma forma de verificar se a meta está configurada corretamente é usar o link "Verifique essa meta". O Google vai gerar uma simulação da conversão da meta nos últimos 7 dias.
 

@@ -33,7 +33,7 @@ These may be:
 
 Below, we can see a blueprint of how the concepts of *prices*, *price table* and *context* are related to one another:
 
-![Architecture-EN](https://images.ctfassets.net/alneenqid6w5/6e0dbJq89EfPqJTKUiuju8/b0acbc822f1da5c78e100c075831982d/Architecture__2_.svg)
+![Architecture-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.svg)
 
 ## Computed price
 
@@ -47,21 +47,21 @@ The pricing module takes these 4 criteria into account when calculating a price 
 - Fixed Price
 
 1. In cases where the SKU only has the *base price* set, the computed price for a specific price table will be equal to the **base price**.
-![rule1-EN](//images.ctfassets.net/alneenqid6w5/49vh298CSTLJBLWRvAt9Wx/b6e4cd1212dfbcffbeff6e8feafc7a3d/rule1__1_.svg) 
+![rule1-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.svg) 
 
 2. When the SKU has a *price rule* configured for a specific price table, the computed price will be equal to **the base price, modified by the price rule**
-![rule2-EN](//images.ctfassets.net/alneenqid6w5/49T4V2FxtwLPfQdPWp27Hm/746255f33fb8d0dc0fc6696808971e37/rule2__1_.svg) 
+![rule2-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.svg) 
 
 3. In another scenario, we will consider a SKU with a *base price*, a *price rule* and *rounding rules*. **The computer price for a specific price table will be the result of these three factors**. First, the base price will be changed by the price rule. Afterwards, the psychological pricing's rounding takes place.
-![rule3-EN](//images.ctfassets.net/alneenqid6w5/7xwUkHqOkGx6toE6qkXQ2M/ab20002cafca089dcfbb909970dd4e4b/rule3__1_.svg) 
+![rule3-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.svg) 
 
 4. Lastly, if the SKU has a *fixed price*, **a specific price table's computed price will be equal to the fixed price**. This price weighs more than any of the others, which results in the pricing module *ignoring the other prices* when a fixed price is associated to an SKU. 
-![rule4-EN](//images.ctfassets.net/alneenqid6w5/7qQe04LL529cFeyW2UjGws/3b80fb4386164dd52d792c81bf4956c0/rule4__1_.svg)
+![rule4-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.svg)
 
 ## Validating a computed price
 
 To check an SKU's sales price for a specific price table, you can query the **computed price value** in the **Price List** section in admin. In the example below, we can see that the computed price for **SKU 14** in **trade policy table 1** is equal to **334,62**:
-![computed-price-en](//images.ctfassets.net/alneenqid6w5/4LtPPVFSSHGOZAENhHeRyZ/56a5705d20dff8ebe13d8fdfa181a330/computed-price-en.png)
+![computed-price-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
 
 You can also check an SKU's computed price in a price table by **making an API request**. To achieve this, you'll need to send a **GET** to the [Get Computed Price by price table or trade policy](https://developers.vtex.com/docs/api-reference/pricing-api#get-/pricing/prices/-itemId-/computed/-priceTableId-) call.
 

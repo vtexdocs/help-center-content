@@ -25,7 +25,7 @@ A página de Gerenciamento de Titular permite identificar o usuário Titular atu
 
 Você deverá ver uma tela semelhante à imagem abaixo, com informações de contato do usuário Titular atual, um aviso indicando os riscos associados à transferência de propriedade da loja e um botão para confirmar que você reconhece os riscos e deseja transferir a propriedade mesmo assim.
 
-![Painel de gerenciamento de titular](https://images.ctfassets.net/alneenqid6w5/7AiPMmn3NnMjg89WgEfBXP/5bfcb540546580d2f584550ce67a04a4/Sponsor_Management_pt.png)
+![Painel de gerenciamento de titular](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Etapas do fluxo de transferência de propriedade
 
@@ -51,7 +51,7 @@ Com isso, a transferência de propriedade será concluída, e não será mais po
 
 O usuário Titular é responsável por ações importantes de manutenção e autorização, e erros cometidos por este perfil de acesso podem ter consequências drásticas. Portanto, é essencial acompanhar as mudanças relacionadas a este perfil de acesso. Para monitorar e auditar as transferências de propriedade da conta, você pode acessar o histórico de atividades clicando no botão **Histórico de Atividades** na página Gerenciamento de Titular.
 
-![Histórico de Atividades](//images.contentful.com/alneenqid6w5/6iXw7ib1Wsq4BiyR4Dgp8C/5b10117478c78e73f605cebebeeba43d/Activity_Log_pt.gif)
+![Histórico de Atividades](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 
 Todos os eventos relacionados à transferência de propriedade da conta são registrados no histórico de atividades com a data em que ocorreram e o usuário associado ao evento.
 

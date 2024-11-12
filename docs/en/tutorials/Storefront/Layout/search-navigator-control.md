@@ -40,7 +40,7 @@ For a collection to be rendered in the menu by the Search Navigator control, it 
 
 This flag can be found in the collection's settings, inside CMS.
 
-![searchNavigator2](https://images.contentful.com/alneenqid6w5/30xKS65fWMuoiQO4ac2EKM/921be3bc19a8cdff48dade515c354908/searchNavigator2.jpg)
+![searchNavigator2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.jpg)
 
 ## Categories
 
@@ -48,7 +48,7 @@ For a category to be rendered by this control, it must be marked with the __Menu
 
 This flag can be found on the category registration screen.
 
-![How Search Navigator control works EN 2](//images.ctfassets.net/alneenqid6w5/4lSSrBSvyUqEGUEw0oMiac/f132379724b8855996e6f41c2e195ce6/2018-10-23_2233_EN_2.png)
+![How Search Navigator control works EN 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 >ℹ️ **Important**: The `&lt;vtex.cmc:searchNavigator/&gt;` control displays, by default, only the primary-level categories (root) and the lowest-level sub-categories, within the current context. Intermediate splits in the categories tree are omitted. 
 >   In addition, the control only functions on the first three levels, which traditionally are the Department, Category and Subcategory. If your [catalog architecture](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) has any other subdivisions except the three levels mentioned above, these will not be displayed using the native control.
@@ -77,7 +77,7 @@ For a product field or SKU field to be displayed on the menu by the Search Navig
 
 Both are found on the field registration screen.
 
-![How Search Navigator control works EN 3](//images.ctfassets.net/alneenqid6w5/2qjmz7DHFaSUq00CGy0cQw/1794e1b088a4ee376627e856dab2cd86/2018-10-23_22-24-47_EN_3.png)
+![How Search Navigator control works EN 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 ## Price ranges
 

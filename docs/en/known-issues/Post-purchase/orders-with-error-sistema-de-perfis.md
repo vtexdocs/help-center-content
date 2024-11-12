@@ -24,7 +24,7 @@ Some orders in Orders Managment are stuck in the status "Processando", presentin
 
 This error is intermittent and its simulation is very difficult. The following is the log image of when this error occurs.
 
-![erro-sistema-de-perfis](//images.contentful.com/alneenqid6w5/3XS6EnP8kU8W2SewuYsAes/503ce84831f50a80f57bc31a713a71c7/erro-sistema-de-perfis.png)
+![erro-sistema-de-perfis](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Workaround
 

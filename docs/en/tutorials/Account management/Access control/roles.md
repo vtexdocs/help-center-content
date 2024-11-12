@@ -35,7 +35,7 @@ In case you wish to create custom roles, see more details on the [License Manage
 
 Roles can be managed through the administrative dashboard of your VTEX account. Click on your **profile avatar** on the VTEX Admin top bar, marked by the initial of your email, and click on **Account settings** > __User roles__ .
 
-![List roles](https://images.ctfassets.net/alneenqid6w5/5SsjVcIztKJQ3yxY1udwOH/8221fd52b20d28b39952ad447fa0424c/List_roles.png)
+![List roles](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 This screen shows a list with all **roles** that were added for the account. In a newly created account, only the *Owner (Admin Super)* role will be listed. This role gives unrestricted access to all the **resources** of the platform.
 
@@ -47,33 +47,33 @@ The number of users with an *Owner (Admin Super)* role should be as low as possi
 
 For users who should not have unrestricted access to the platform, it is important to create **roles** that limit the available resources to those strictly necessary for that type of users. You can do that by clicking on **New Role**.
 
-![New role](//images.ctfassets.net/alneenqid6w5/1UGqU2dlXOZGUhGinBv8IN/d8b9a082f038af71a57b2813d61a9fcc/New_role.png)
+![New role](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 This screen allows the creation of new roles. These can be based on predefined formats, created by the VTEX team to meet common scenarios in operations, or you can customize them by selecting which features of each product can be accessed by the users that have this role.
 
 By clicking on **Choose role**, the *dropdown* menu displays a list of predefined roles.
 
-![Menu predefined profiles](//images.ctfassets.net/alneenqid6w5/4XGZb5WvW216z8RfX5Vp3c/7d40a4c6d0adb10c4a4fe0723fc1bb51/last_with_shadow_Wed_Apr__8_17_01_12_-03_2020.png)
+![Menu predefined profiles](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 By selecting one of the listed roles, you can check which resources are included in that role, separated by product.
 
 >ℹ️ To learn more details on each available resource, see [License Manager Resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
 
-![New role saved](//images.ctfassets.net/alneenqid6w5/5biL3DriciSnHKbgHvV2PE/a4452a13454d847c991800db970f0a7e/New_role_saved.png)
+![New role saved](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 The **Call center operator** role, for example, includes a resource of the *Catalog* product that allows the user to perform operations in a store on behalf of a customer and a resource of the *OMS* that allows the user to check the status of an order.
 
 To create a custom role, the administrator can choose the **Custom** option from the **Choose role** dropdown menu. When clicking on a product in the **Choose a product** dropdown menu, all resources associated with it will be listed.
 
-![Configuring product](//images.ctfassets.net/alneenqid6w5/1VE4awGJHyrsR2OkYwAzRQ/d03c6a1a56b6d18039e3dcbd3b7dbb43/last_with_shadow_Wed_Apr__8_17_12_33_-03_2020.png)
+![Configuring product](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 You can add as many products you need to the role. Just click on the **Configure Another Product** button below the products and resources list.
 
-![Configure another product](//images.ctfassets.net/alneenqid6w5/Dsc2k29SxUDKB8t6VXScn/c0e5126dd09c37e32d94e097ffc21c84/last_with_shadow_Wed_Apr__8_17_13_09_-03_2020.png)
+![Configure another product](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
 
 After configuring products and resources, the administrator can choose a name for the role in **Role name**, if it is a custom setting.
 
-![Role name](//images.ctfassets.net/alneenqid6w5/gTuv92HFXKn4jklYX0Hzj/7a6fb49f9f0a61bc0f51321c1ab1d390/Role_name.png)
+![Role name](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.png)
 
 >⚠️ It is important to choose descriptive names for the roles, in order to make clear which type of users should have that access, ideally indicating their position in the company or the activities they will perform on the platform.
 
@@ -81,13 +81,13 @@ Best management practices for roles increase operations’ security and reinforc
 
 It is also possible to add users to the custom or predefined roles, by filling in the **Add users to this role** field with the user’s email. If the user does not exist, a new user will be created using the email as name as well (name and email will be the same).
 
-![Role users](//images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/af25bb3f499bc71be10dd1707d6ddeb6/last_with_shadow_Wed_Apr__8_17_25_08_-03_2020.png)
+![Role users](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_8.png)
 
 After configuring the new role, you must save it by clicking on the blue button at the bottom of the page.
 
-![Save profile](//images.ctfassets.net/alneenqid6w5/68NycUF3T52sg96R6HDIna/910ec9e690127479753a4b7900319afa/last_with_shadow_Wed_Apr__8_17_33_36_-03_2020.png)
+![Save profile](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_9.png)
 
 After you’ve created the new role, it will be listed next to the other roles. To view it, click on your **profile avatar** on the VTEX Admin top bar, marked by the initial of your email, and click on **Account settings** > __User roles__ .
 
-![New list roles](//images.ctfassets.net/alneenqid6w5/3uQ5SvsqjpFCSJimcg9naY/fc6c4356fe38252d09c804ea39b89b45/New_list_roles.png)
+![New list roles](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_10.png)
 

@@ -34,7 +34,7 @@ Correcto: debe devolver todo, incluyendo (departamento, categoría, subcategorí
 
 Admin > Catálogo > Productos y Categorías > Filtro > Categoría > Categoría
 
- ![](https://vtexhelp.zendesk.com/attachments/token/ZOXAIFwVnbl56yduHjYVrjfUM/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

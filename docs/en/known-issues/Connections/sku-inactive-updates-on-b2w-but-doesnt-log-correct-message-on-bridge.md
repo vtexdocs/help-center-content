@@ -30,7 +30,7 @@ Sku was inactive in the VTEX Catalog > It's being inactivated correctly in B2W, 
 
 Important: the Sku is inactive in the Marketplace, only the bridge message is incorrect.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/7RAx5JXjSWAtCfh7HJ27LOZOW/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

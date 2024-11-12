@@ -40,6 +40,6 @@ Don’t worry: turning off this option will not make your store unprotected.
 
 >ℹ️ If after these steps your Admin or store is still not loading, we advise you to try another browser.
 
-![Firefox bug EN](//images.ctfassets.net/alneenqid6w5/4EZo0FaHBx1DfbSrGVpbku/06a078dc34744d8e07cf858e2288679a/Firefox_bug_EN.jpg)
+![Firefox bug EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.jpg)
 
 

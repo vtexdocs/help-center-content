@@ -42,12 +42,12 @@ To start using a predefined role, follow the instructions below:
 
     For example, the **Call center operator** profile has a _Catalog_ product resource that allows operations to be carried out in a store on behalf of a customer and an _OMS_ resource that allows verifying an order status:
 
-    ![New role saved](https://images.ctfassets.net/alneenqid6w5/5biL3DriciSnHKbgHvV2PE/a4452a13454d847c991800db970f0a7e/New_role_saved.png)
+    ![New role saved](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
     Learn more about the available predefined roles and their associated resources in [Predefined roles](https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy).
 4. Add admin users to the role by entering the user email address in **Add users to this role** and click `Add`.
 
-    ![Role users](//images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/3d41ef2c9033f8f3add993039c4d8560/usuarios-en.PNG)
+    ![Role users](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.PNG)
 
     If the user does not exist, a new user will be created using the email as the name, i.e., the name and email will be the same.
 5. Click `Save`.
@@ -65,7 +65,7 @@ To create a custom role that meets the access needs of a group of users, follow 
 
     You will see a list of all the resources available for the product:
 
-    ![Configuring product](//images.ctfassets.net/alneenqid6w5/1VE4awGJHyrsR2OkYwAzRQ/956aa2dfc15f9e2adedd6efc90af039f/configurar-produto-en.png)
+    ![Configuring product](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 5. Check the resources to which the role should grant access. Check the complete [License Manager resources](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) list for more information on each one.
 6. If you want to add resources from another product, click the **Configure Another Product** button at the bottom of the product and resource list and repeat steps 4 and 5.
@@ -77,7 +77,7 @@ To create a custom role that meets the access needs of a group of users, follow 
 
 8. Add admin users to the role by entering the user email address in **Add users to this role** and then click `Add`.
 
-    ![Role users](//images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/3d41ef2c9033f8f3add993039c4d8560/usuarios-en.PNG)
+    ![Role users](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.PNG)
 
     If the user does not exist, a new user will be created using the email as the name, i.e., the name and email will be the same.
 

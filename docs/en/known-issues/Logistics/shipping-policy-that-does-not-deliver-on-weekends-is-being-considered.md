@@ -31,13 +31,13 @@ So with this, the "Weekends and Holidays" does not disregard shipping policies t
 Have a shipping policy that the option "**Weekends and Holidays**" is **unchecked** (Saturday delivery, Sunday delivery and/or Holiday delivery) and the only delivery option (business hours) of this shipping policy is Saturday and/or Sunday. Here is an example:
 
 No delivery on Saturdays, Sundays and holidays:
- ![](https://vtexhelp.zendesk.com/attachments/token/bCySQokwEktvbjouwE8O0e9Jj/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 The business hours are set for Saturday only:
- ![](https://vtexhelp.zendesk.com/attachments/token/0IEYFx0IeeCa39loJzekErluI/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Even though the shipping policy is not able to deliver on Saturdays, it is available because Saturday is included in its hours of operation, but the time is much longer than the defined:
- ![](https://vtexhelp.zendesk.com/attachments/token/jefQyreOWL8Ty0V1vPTTS270v/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 
 

@@ -23,7 +23,7 @@ Shelves are configurable elements that display a grouping of products on the pag
 
 Shelves are structured with HTML code, organized into specific [templates](/en/tutorial/what-are-templates), called __Shelves Templates__. They are located in the folder **CMS**, in the [Layout module](/en/faq/what-is-cms). It is in this folder that you may create new templates and edit those that already exist.
 
-![Shelves Templates](https://images.contentful.com/alneenqid6w5/4pIuR3BWKQisWuos4gcCWS/ade52c1df88c9e371169df99776b0779/Shelves_Template-min.png)
+![Shelves Templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Because it is an element that can be used on more than one page, this special type of template (Shelf Template) is stored in folders that are different from other types (HTML Templates and Sub Templates). This way, it's possible to maintain the organization of the files and, consequently, of your web site's code.
 

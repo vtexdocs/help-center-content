@@ -23,7 +23,7 @@ internalReference: 544034
 
 Link "Por que preencher VTEX Global Category?" na configuração da categoria só funciona abrindo em uma nova aba. tentar abrir apenas clicando no link irá redirecionar para uma página de erro.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/Hhun8gyXHxWgk1qnUHWreWIBo/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

@@ -29,4 +29,4 @@ Esse ambiente pode ser considerado um Seller e possui tais módulos:
 
 É uma solução, principalmente, para lojas com franquias, pois permite que cada franquia possue seu Portal Admin, preços e definição de estoques. Além das formas de pagamento independentes da loja principal (loja pai).
 
-![whitelabel-modules](https://images.contentful.com/alneenqid6w5/3Jbu7lk4NGeWuSuUUI8mQa/40af512f57f507f3bae8a50b3856cb88/2017-07-19_16_17_51-Orders___VTEX_OMS.png)
+![whitelabel-modules](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)

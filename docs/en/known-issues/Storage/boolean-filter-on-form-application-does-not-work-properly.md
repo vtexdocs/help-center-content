@@ -21,7 +21,7 @@ internalReference: 918537
 
 When a boolean filter is selected, the following message is returned:
 `An unexpected error has occurred. Please try again. If the problem persists, contact support.`
- ![](https://vtexhelp.zendesk.com/attachments/token/HAwA6Uf51x49bxGLiziKpdQnj/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##
@@ -32,12 +32,12 @@ When a boolean filter is selected, the following message is returned:
 
 - Access Master Data CRM (for example https://my-account-here.vtexcrm.com.br);
 - Access a Form Application with boolean filter option:
- ![](https://vtexhelp.zendesk.com/attachments/token/tyRYoZP61rVzhVBx3A1rHbGgf/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 - Select 0 or 1 option;
 - Click on "_Filter_" button;
 - A popup message will open with the error "`An unexpected error has occurred. Please try again. If the problem persists, contact support.`":
- ![](https://vtexhelp.zendesk.com/attachments/token/HAwA6Uf51x49bxGLiziKpdQnj/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 
 

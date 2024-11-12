@@ -27,7 +27,7 @@ Contexto correto: Em alguns casos, o vendedor não consegue integrar a SKU, pois
 ## Simulação
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/8b6ggO2OjPCsPZlU5NanwK645/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

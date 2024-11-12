@@ -31,7 +31,7 @@ However, this link is not redirecting the customer to the edit page, but to the 
 
 
 Setup the Allow customers to make changes to orders flag on Admin -> settings -> order settings
- ![](https://vtexhelp.zendesk.com/attachments/token/GqrSJ7cBhZc844LR3kXH7WMlX/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 The shopper fulfills an order and goes to the checkout/orderPlaced
 

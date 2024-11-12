@@ -22,7 +22,7 @@ Para acceder al Dashboard, haga clic en el módulo **License Manager** en el men
 
 Son 3 gráficos en total. En el primero de ellos es posible comparar el promedio del tiempo de carga total de su tienda (en rojo) con el promedio del tiempo de carga total de todas las demás tiendas de VTEX (en azul). A continuación usted puede ver un ejemplo de ese gráfio.
 
-![](https://images.contentful.com/alneenqid6w5/2z4iBEY5UEkqcmsa0KEgoi/3d661f25118a2e876d20a565ebfc88f9/dashboard-chart1-560x320.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 A partir de este gráfico es posible percibir si una eventual lentitud en el sistema está impactando solamente su tienda o todas las tiendas de VTEX. También es posible visualizar si un eventual pico en el tiempo de carga todavía persiste o si ha sido momentáneo. _Es importante destacar_también que _no todo pico significa necesariamente un problema_, pues es natural que el gráfico refleje el comportamiento de los clientes de su tienda, con un mayor número de acceso en determinados horarios. Con el tiempo, usted se acostumbrará al comportamiento de su tienda y estará más apto a discernir lo que se escapa a lo común.
 
@@ -30,7 +30,7 @@ A partir de este gráfico es posible percibir si una eventual lentitud en el sis
 
 En el segundo gráfico usted también podrá visualizar el tiempo medio de carga de su tienda, pero de esta vez dividido entre los diferentes factores que componen el tiempo de carga de una página web: el tiempo de red (en azul), el procesamiento del árbol DOM (en rojo) y la renderización de la página en el navegador (amarillo).
 
-![](//images.contentful.com/alneenqid6w5/2DMi5uS3awigGGIAEKCqea/b95fc4689141764c25b5fd506eeaac33/2.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.jpg)
 
 Esto permite discernir si un eventual problema de demora en la carga en la página está siendo causado por una demora en la respuesta del servidor (NetworkTime), por un script JavaScript (DomProcessing) con error o por una imagen muy pesada (PageRendering), por ejemplo.
 

@@ -33,7 +33,7 @@ Por isso criamos o Credit Control – para que o controle de crédito seja feito
 
 ## Como funciona
 
-![Fluxo básico do Credit Control](https://images.contentful.com/alneenqid6w5/35jUk6EVksKUQi8EaU6caO/aa5ac9a4af1c972a8bba3cc10ab347b8/credit-control-flow_pt.gif)
+![Fluxo básico do Credit Control](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 *Fluxo básico de como funciona o Credit Control nas lojas VTEX.*
 

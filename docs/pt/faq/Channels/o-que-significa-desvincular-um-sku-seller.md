@@ -14,7 +14,7 @@ locale: pt
 legacySlug: o-que-significa-desvincular-um-sku-seller
 ---
 
-![desvincular](https://images.contentful.com/alneenqid6w5/2fJNaa6xkEC0CwguKWK4o0/f6f8625d2409ff921826ffb913598eaf/desvincular.png)
+![desvincular](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Al desvincular un SKU Seller, éste ****dejará de exhibirse como disponible ** en el Marketplace.
 

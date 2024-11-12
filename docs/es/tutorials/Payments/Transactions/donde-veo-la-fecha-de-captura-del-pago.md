@@ -23,4 +23,4 @@ Sólo tiene que seguir los pasos abajo:
 2. Busque la transacción deseada y haga clic en ella.
 3. En los __Eventos de la transacción__, busque el evento de captura ("settlement"):
 
-![settlementEvent](https://images.contentful.com/alneenqid6w5/2svl4ROF5OoG4G62QeQaAg/8f45a34ccbe4c03a178a89bcd8468957/settlementEvent.png)
+![settlementEvent](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)

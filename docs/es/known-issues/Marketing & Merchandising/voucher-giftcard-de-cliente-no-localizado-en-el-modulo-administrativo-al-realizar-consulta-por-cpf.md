@@ -20,7 +20,7 @@ internalReference:
 
 Al realizar una consulta de GiftCard en el Admin, por ID (documento), el voucher del cliente no aparece.
 
-![vale](//images.contentful.com/alneenqid6w5/78Mt2DDgaIwg2I66gSYGgM/66de95f8e3b3b73d20a0165f4da67f88/vale.png)
+![vale](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Simulación
 

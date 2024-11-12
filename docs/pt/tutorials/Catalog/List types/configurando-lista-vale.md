@@ -27,14 +27,14 @@ A configuração depende de dois pontos, listados abaixo.
 
 - O SKU precisa ser configurado para gerar crédito em vale.
 
-![sku-opção-credito-vale pt](https://images.ctfassets.net/alneenqid6w5/JLjFssu5Q2awo2UyiuOEQ/2719360144a349ef7fcf68fc96a7dee6/sku-op____o-credito-vale_pt.png)
+![sku-opção-credito-vale pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ## Configurações no Tipo de Lista
 
 A criação desse tipo de lista pede que, nas configurações, a entrega seja marcada como "Valor dos produtos comprados será convertido em Vale Compras". Veja a imagem de exemplo.
 
-![entrega-tipos-lista pt](//images.ctfassets.net/alneenqid6w5/7cX5Qz5CG4gSQuwOUKSy0Y/21687cba7440124b65e6b4be17007191/entrega-tipos-lista_pt.png)
+![entrega-tipos-lista pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Salve a sua lista após realizadas as demais configurações desejadas.
 

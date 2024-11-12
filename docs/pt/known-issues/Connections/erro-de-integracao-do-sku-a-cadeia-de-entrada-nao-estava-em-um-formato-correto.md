@@ -31,7 +31,7 @@ Alguns skus estão tendo um erro na integração" "A cadeia de entrada não esta
 
 Admin > Ponte > Produtos
 
- ![](https://vtexhelp.zendesk.com/attachments/token/pwn0EPjpLf7XnBrnGNXYZdV0i/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

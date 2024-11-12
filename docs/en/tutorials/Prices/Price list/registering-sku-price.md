@@ -21,7 +21,7 @@ The manual process is more appropriate when the storeowner wants to alter the pr
 
 ## Manual registration or change
 
-![](https://images.contentful.com/alneenqid6w5/62eMKlDZ04As4ey46yiOeK/2d689eb25d9945a532d4447ba770649f/Tabela_de_Valores.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 ### Registration for a new value
 
@@ -58,7 +58,7 @@ _If you click on the “Novo Valor de Tabela” button after filtering an SKU, t
 
 ## Registration or change by importing Excel spreadsheets
 
-![](//images.contentful.com/alneenqid6w5/5Pbm0WFO12QmEwW88OM2iU/453748487c805f0ef7bd20887e454670/Altera__o_de_pre_o_Importa__o.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 
 ### To register new prices
 
@@ -86,7 +86,7 @@ _If you click on the “Novo Valor de Tabela” button after filtering an SKU, t
 
 ### Excel spreadsheet fields for Import
 
-![](//images.contentful.com/alneenqid6w5/1wTiiJMsUcUGMoI6GGWsOw/b31f627d1a8d642532d475fd72e23ff6/Como_cadastrar_preco_SKU_2.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.jpg)
 
 - **StockKeepingUnitId: **ID of the SKU to be registered or whose price is to be changed;
 - **Source**: value of utm\_source;

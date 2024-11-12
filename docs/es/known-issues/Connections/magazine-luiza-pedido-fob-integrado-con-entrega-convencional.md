@@ -33,9 +33,9 @@ _**Arquitectura:**_ FOB / Magalu Entregas
 ## Simulación
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/trNBBsjQKWcb75RAS5bGAtTAM/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
- ![](https://vtexhelp.zendesk.com/attachments/token/2BTcd1rvMRWs05Aq1uFjfBah0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
     Si no se envía isFOB=true, el SLA seleccionado debe ser uno del tipo FOB, como, por ejemplo: "selectedSla": "vtex:fob_1" Si desea seleccionar un ANS que no sea de tipo FOB, el campo isFOB deberá enviarse como false o no enviarse.

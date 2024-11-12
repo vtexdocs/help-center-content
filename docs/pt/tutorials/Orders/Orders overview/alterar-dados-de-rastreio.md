@@ -38,4 +38,4 @@ Para alterar os dados de um pedido manualmente, siga os passos abaixo:
     * **Selecionar transportadora:** selecione qual transportadora realizará a entrega.
 7. Clique em `Salvar`.
 
-![Fatura](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/0dc623d9ea7bff059e5a52f90584b4c4/Fatura__2_.png)
+![Fatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)

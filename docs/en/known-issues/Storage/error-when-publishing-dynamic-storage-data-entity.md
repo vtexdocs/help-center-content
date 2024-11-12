@@ -34,13 +34,13 @@ When the store creates or updates a Data Entity and then tries to publish it, th
 
 - Access the Dynamic Storage system / Data Structure application (https://my-account-here.ds.vtexcrm.com.br);
 - Access the Data Entities tab:
- ![](https://vtexhelp.zendesk.com/attachments/token/65UPKYKl3vuaeweF46K91bpI5/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 - Click on the disk icon to publish the Data Entity that was created or updated:
- ![](https://vtexhelp.zendesk.com/attachments/token/C1nUZnpG8lmDWOL8wrXRBiGj0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 - Then the following message will be shown:
- ![](https://vtexhelp.zendesk.com/attachments/token/DFKVanOk3noBMaN8aBd6CQssp/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
     Unexpected error. Please try again or contact customer support.
 

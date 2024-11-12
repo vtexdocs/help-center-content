@@ -23,7 +23,7 @@ internalReference: 483785
 
 Atualmente, quando um usuário tenta importar dados através do botão de inserção de dados a granel, se a folha a ser utilizada for muito extensa, o processo pode falhar.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/9TSm4inXTV8cFvuiHwLP9uMpb/?name=inline-929450477.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 
@@ -44,7 +44,7 @@ Atualmente, quando um usuário tenta importar dados através do botão de inser�
 
 4) Uma mensagem de carga será mostrada por ~50s
 
- ![](https://vtexhelp.zendesk.com/attachments/token/jd4fu2dmlX2d3WQUWxycsGOIg/?name=inline-243279848.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 E então o processo acabará por falhar.
 

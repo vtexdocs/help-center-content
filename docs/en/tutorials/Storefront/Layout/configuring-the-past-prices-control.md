@@ -33,7 +33,7 @@ See the complete list of controls for templates [here](http://help.vtex.com/tuto
 
 The default exhibition method for the values looks like the image below. The year, month and lowest amount invoiced this month are shown in sequence.
 
-![HistPrecos](https://images.contentful.com/alneenqid6w5/2AX7uKU4zW66sA0AICcEM2/81042cedd7d0ef937b1c56a8878d8d0c/HistPrecos.png)
+![HistPrecos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 If you want to show these details in another way, you will have to get a layout agency to customize the model.
 

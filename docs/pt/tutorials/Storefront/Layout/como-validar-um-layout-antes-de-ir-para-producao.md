@@ -34,7 +34,7 @@ Com isso, você pode:
 
 Para encontrar o `LID`, basta acessar o layout pelo Admin, no módulo CMS. Ele fica na seção __Properties__, como indica a imagem abaixo:
 
-![lid](https://images.contentful.com/alneenqid6w5/4FISyY6wwg2asGE4Mog2sK/991b8c634b474c336de1754acdb414de/lid.png)
+![lid](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Para acessar a página da loja com o novo layout, você deve inserir um ponto de interrogação ao final da URL e depois o parâmetro `LID`.
 
@@ -53,7 +53,7 @@ Outra alternativa que lhe permite testar mudanças no layout antes de ir para pr
 
 Para encontrar o `WID`, acesse o web site. Ele fica no primeiro campo da tela do web site: __Id do WebSite__.
 
-![wid](//images.contentful.com/alneenqid6w5/ghvd0wl9HqGu2KCWW2Yu2/5e27a13e79134f7ba89863ccd54031a6/wid.png)
+![wid](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Lembre-se que, apesar de com a duplicação do web site você poder alterar os layouts do novo web site de maneira intependente, estes vão consumir os mesmos templates do web site original. 
 

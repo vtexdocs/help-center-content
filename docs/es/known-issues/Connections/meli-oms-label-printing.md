@@ -32,7 +32,7 @@ Estamos teniendo algunos problemas al hacer clic directamente dentro del botón 
 
 **Abre el enlace de la orden de OMS y trata de abrir el enlace de "Correios "**.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/0MMTMqtCADHwEFIb5KMcsYQWE/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

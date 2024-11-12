@@ -33,9 +33,9 @@ Este caso ocurre con entidades que contienen un gran número de campos y millone
 1. Acceda a `https://.vtexcrm.com.br/`.
 2. Navegar hasta una vista que representa una entidad con millones de registros.
 3. Inicie una búsqueda utilizando el campo "Todos".
- ![](https://vtexhelp.zendesk.com/attachments/token/NGWvp5vsTzd31GA07N6vp0Wev/?name=Captura+de+Tela+2023-10-25+a%CC%80s+15.42.35.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 4. Observa la respuesta del sistema y comprueba si devuelve un error o experimenta problemas de rendimiento significativos.
- ![](https://vtexhelp.zendesk.com/attachments/token/aFWGBmUtDtl9ppgmMNOkDX8Fu/?name=Captura+de+Tela+2023-10-25+a%CC%80s+15.40.50.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 5. Repita la búsqueda con un campo de búsqueda específico para confirmar si el problema está relacionado con el mecanismo de búsqueda del campo "Todos".
 
 

@@ -35,9 +35,9 @@ There are two scenarios for adding services to products in a single cart:
 2. Select the service option you want and click the **Continue to Cart** button.
 3. After completing the process, you can view the selected services in your cart, along with the total order amount.
 
-![Garantia estendida - EN](https://images.ctfassets.net/alneenqid6w5/6x9bCRVpOcGLa8bilRpZ7I/f81df1f138065b8954e3120a7fc0b4b7/Cen_rio_1__T1__-_EN.png)
+![Garantia estendida - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
-![Carrinho - EN](//images.ctfassets.net/alneenqid6w5/2w3D5PYdqlPZs4gtGOY0VM/cec8bd9e2deaac996bf5dbe8af8ab620/Cen_rio_1__T2__-_EN.png)
+![Carrinho - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 **Scenario 2:** Selecting multiple services
 
@@ -53,8 +53,8 @@ There are two scenarios for adding services to products in a single cart:
 
 6.	Click the **Apply** button.
 
-![Garantia estendida - EN](//images.ctfassets.net/alneenqid6w5/6x9bCRVpOcGLa8bilRpZ7I/f81df1f138065b8954e3120a7fc0b4b7/Cen_rio_1__T1__-_EN.png)
+![Garantia estendida - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
-![Seguro - EN](//images.ctfassets.net/alneenqid6w5/7MQkGqCSarYQTpAKT365r3/09bc8e283906d9472ddc71e79ac3e492/Cen_rio_2__T2__-_EN.png)
+![Seguro - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
-![Ordem pedido - EN](//images.ctfassets.net/alneenqid6w5/DKPaBz21QHRDmfVoJxWs0/92e7055b292e8e3385e0ee3b1814c38b/Cen_rio_2__T3__-_EN.png)
+![Ordem pedido - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)

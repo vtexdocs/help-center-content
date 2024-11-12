@@ -32,7 +32,7 @@ Outro comportamento inesperado é que outros módulos continuam disponíveis par
   - Menu CMS na barra superior;
   - Configurações do CMS.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/fbpObVoVdnEYGeYjd3GDh9Qqf/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 - Associe essa função a um usuário;

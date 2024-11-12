@@ -39,7 +39,7 @@ Para criar um vale-presente em uma moeda específica, siga os passos abaixo:
 4. Preencha os demais campos de criação do vale-presente.
 5. Clique em `Salvar`.
 
-![Vales-presente multimoedas](https://images.ctfassets.net/alneenqid6w5/5OBq7L6L2IeSOz5fBe6aRK/d27b2d03cf01d9626f267a315e2a0c88/GiftCard_Multicurrency_PT_1.PNG)
+![Vales-presente multimoedas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.PNG)
 
 As moedas disponíveis serão as mesmas cadastradas nas [políticas comerciais](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) de cada loja.
 

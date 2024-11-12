@@ -29,6 +29,6 @@ Among all SKU images, the principal image will be that marked as the principal i
 
 As you can see in the example below, even not being the first image registered, the image defined as principal appears on the product page when the SKU is selected.
 
-![sku_imagem_principal en](https://images.ctfassets.net/alneenqid6w5/391ITg389WwqEsUYe2sUe8/0b7ae4c9e54ce81ef067a4bba83712e3/ex_2__en.png)
+![sku_imagem_principal en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 - When uploading the image spreadsheet, the platform considers line by line; then, the first line of a sku will be considered the main one and so on.

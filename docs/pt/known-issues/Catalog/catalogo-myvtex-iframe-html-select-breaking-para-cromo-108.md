@@ -26,7 +26,7 @@ Este é um efeito colateral de uma atualização cromada que foi agendada para u
 
 O efeito sentido sobre o administrador da VTEX é que os usuários do cromado v108 estão tendo dificuldade em selecionar a partir dos menus suspensos, por exemplo, na aba de configuração do SKU, ao tentar selecionar um valor no menu suspenso, nenhuma ação é gerada (toda a lista de valores possíveis deve ser mostrada):
 
- ![](https://vtexhelp.zendesk.com/attachments/token/JvqH3KkI0sgflVmKG3IOCfHa1/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

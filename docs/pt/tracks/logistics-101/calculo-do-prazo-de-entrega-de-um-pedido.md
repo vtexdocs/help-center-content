@@ -23,17 +23,17 @@ O prazo de entrega de um pedido leva em consideração os __tempos de custo__ de
 
 Para cada uma das três etapas da rota logística, você pode definir um tempo de custo - e o prazo de entrega que o seu cliente verá no checkout é a soma desses tempos de custo (+ feriados, e ainda considerando os horários de corte).
 
-![deliveryCostTimes](https://images.contentful.com/alneenqid6w5/hA6N4VPj440AEqEecIUck/0a6784f0c3d6f6d88b65547762600a7d/deliveryCostTimes.png)
+![deliveryCostTimes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Os tempos de custo do __estoque__ e da __doca__ são definidos nas telas de configuração de cada uma dessas etapas, no módulo Estoque & Entrega > Painéis.
 
-![calculoPrazoEntrega1](//images.contentful.com/alneenqid6w5/4QgQlroxxCK4iu6YoU2uIQ/a2df01bdbe2449e924a6380b5a39a19b/calculoPrazoEntrega1.png) 
+![calculoPrazoEntrega1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png) 
 
-![calculoPrazoEntrega2](//images.contentful.com/alneenqid6w5/6xAiBHXxwA2cMIaaK4AKm2/bfff8d81b7363121cc84de1149cfd587/calculoPrazoEntrega2.png)
+![calculoPrazoEntrega2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 O tempo de custo da __transportadora__ é definido na tabela de frete, enviada à VTEX por meio da tela de configuração da transportadora, também no módulo Estoque & Entrega.
 
-![calculoPrazoEntrega3](//images.contentful.com/alneenqid6w5/2bL9Gw0AeswGAeKSqYCYw4/57c492eb08239d61e463839a768101ad/calculoPrazoEntrega3.png)
+![calculoPrazoEntrega3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 ## Exemplos
 

@@ -22,11 +22,11 @@ internalReference: 926969
 
 
 El mercado puede crear grupos con algunos vendedores en la interfaz de usuario de gestión de vendedores.
- ![](https://vtexhelp.zendesk.com/attachments/token/Mi9PZxDSnInogb65PbJ3fEduu/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Sin embargo, al añadir un nombre de grupo y vendedores en esta interfaz, sólo se guarda el nombre del grupo. Aparece un mensaje de error:
 "Lo sentimos, algo ha ido mal al añadir los vendedores al grupo XXX".
- ![](https://vtexhelp.zendesk.com/attachments/token/Gd0FRbqKLDnCGFmIjuXIctxwX/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 ##

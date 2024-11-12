@@ -19,7 +19,7 @@ En **Headless CMS**, puedes gestionar todas las rutas de URL y los modelos de p�
 
 ## Visión general
 
-![New pages - es](https://images.ctfassets.net/alneenqid6w5/7cftK7sS2epeqGjY6m0Cmj/76783d200466eafd99f1972a60068298/novas_pgs._es.png)
+![New pages - es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 | Opção               | Descrição                                              |
 | ------------------- | ------------------------------------------------------ |
@@ -38,7 +38,7 @@ Para crear y gestionar una página, sigue estos pasos:
 2. Haz clic en `Crear documento` y selecciona el tipo de página deseado.
 3. En `Untitled`, nombra la página.
 4. Haz clic en `Secciones` y selecciona la sección deseada.
-![Gif - Páginas](//images.ctfassets.net/alneenqid6w5/1JOLEO3RErUiJ8AYroKwTe/e7e804bd75245d2571668725dfd82aba/Espanhol_gif_das_p__ginas.gif)
+![Gif - Páginas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 5. Agrega más secciones si es necesario y llénalas.
 6. Haz clic en `Publicar`.
 

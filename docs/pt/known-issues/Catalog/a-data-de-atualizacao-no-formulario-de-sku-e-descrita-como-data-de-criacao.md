@@ -32,7 +32,7 @@ O campo erroneamente chamado de "data de criação" na verdade informa a data da
 3. Verifique se o campo "data de criação" foi de fato substituído pela data atual.
 
 Antes da atualização:
- ![](https://vtexhelp.zendesk.com/attachments/token/PNjoH3Cuszh86hbetX4DZQnQe/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Após a atualização realizada em 21 de outubro:
  ![](https://vtexhelp.zendesk.com/attachments/token/cxxVQQbqSlOFULz0uHRvA53rm/?name=image.png

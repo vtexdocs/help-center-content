@@ -26,4 +26,4 @@ The file structure must be as follows:
 - Column D: Data Inicial (DD/MM /YYYY format)
 - Column E: Data Final (DD/MM /YYYY format)
 
-![urlbuilder en](https://images.ctfassets.net/alneenqid6w5/4rLD4jAM0oaq6CqQam6U4y/895ec67d0ac775529a71b8536e4b03bd/urlbuilder_en.png)
+![urlbuilder en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)

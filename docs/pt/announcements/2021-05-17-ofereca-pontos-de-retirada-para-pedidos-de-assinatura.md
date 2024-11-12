@@ -23,7 +23,7 @@ A funcionalidade de pontos de retirada para assinaturas está disponível em ver
 
 Antes, as assinaturas não tinham pontos de retirada como uma das opções de entrega. Com a nova funcionalidade, o cliente final pode escolher pontos de retirada para itens de um pedido de assinatura no momento do checkout, conforme ilustrado na imagem abaixo.
 
-![subscriptionspickup PT](https://images.ctfassets.net/alneenqid6w5/6qqc7DV4Wk6yRWvsdiWNCP/d7b20c88e0bcc04178d9bd0a5234d702/subscriptionspickup_PT.gif)
+![subscriptionspickup PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 Além disso, você também pode atribuir pontos de retirada a novas assinaturas e a assinaturas já existentes por meio da [API de Subscriptions](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1).
 

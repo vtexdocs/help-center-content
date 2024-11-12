@@ -25,7 +25,7 @@ En Páginas, también puedes crear redirecciones de URL para redirigir a los vis
 
 En el Admin VTEX, accede **Storefront > Páginas** y descubre las principales herramientas disponibles en la interfaz.
 
-![Páginas UI - ES](https://images.ctfassets.net/alneenqid6w5/p6829cewqlsLC0XfCnHsC/dc75d5dcbe1d3ff9d02d710718961fba/pages-ui-es.png)
+![Páginas UI - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 | **Herramienta** | **Descripción** |
 | ---------- | ---------- |

@@ -16,7 +16,7 @@ trackSlugPT: integracao-com-a-amazon
 
 A Amazon é uma plataforma de ecommerce, considerada uma das cinco maiores empresas de tecnologia do mundo. Atualmente a Amazon comercializa produtos diversos, incluindo brinquedos, eletrônicos, vestuários,  acessórios, entre outros itens. Além disso, a empresa de varejo online oferece serviços de streaming, armazenamento em nuvem e assistentes virtuais. 
 
-![amazon logo](https://images.contentful.com/alneenqid6w5/3hRQ23BqGdnYGkQtzOtsRF/abbcb463e142e13825d97358da9af010/amazon_logo.png)
+![amazon logo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 A configuração com a Amazon tem como objetivo enviar o catálogo de produtos da sua loja VTEX para esse marketplace, permitindo que você anuncie seus produtos e aumente suas vendas.
 

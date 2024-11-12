@@ -24,7 +24,7 @@ internalReference: 525616
 
 Atualmente, ao acessar a IU da página de catálogo para salvar valores de especificação (https://myaccount.myvtex.com/admin/Site/CampoValor.aspx), o botão salvar só está funcionando quando clicado duas vezes, o que pode, para conexões de internet mais lentas, enganar o usuário de que os dados não estão sendo salvos.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/4GJaTvjIaioudlMMG1RKKIS0J/?name=inline-576344148.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

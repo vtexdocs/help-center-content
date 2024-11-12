@@ -21,7 +21,7 @@ The basic settings for displaying **Let me know** when the product is not availa
 
 However, there is a situation in which despite having set up the items above, “Let me know” does not appear. This happens **when the Category display type is marked as “List of SKUs”.**
 
-![categoria-lista-de-skus EN](https://images.ctfassets.net/alneenqid6w5/2C4pwhZgdeQSmmiA4ss8y4/9cfd91a623e3e87734c2b9f417a08be7/lista_de_skus_EN.png)
+![categoria-lista-de-skus EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 In this case, in addition to the default settings, the use of the `vtex.cmc:SkuSelection` control is required, even if there is only one SKU per page.
 

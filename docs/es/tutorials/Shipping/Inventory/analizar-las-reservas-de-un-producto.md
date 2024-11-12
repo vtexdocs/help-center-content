@@ -23,4 +23,4 @@ Para consultar las reservas autorizadas, es decir, aquellas que aún no han teni
 
 Para consultar los pedidos con status `Faturado`, es decir, pago ya aprobado, basta con hacer clic en el número mostrado en la columna **Itens em manuseio** (Ítems en manejo).
 
-![Reservations GIF](https://images.contentful.com/alneenqid6w5/4xUy1O7pUA66UaQkcuU0au/53f39fe9b3cbe2f4c3e2a8e6316e66a9/Reservations.gif)
+![Reservations GIF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)

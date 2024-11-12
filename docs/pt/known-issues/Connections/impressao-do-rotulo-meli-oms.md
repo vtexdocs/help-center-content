@@ -32,7 +32,7 @@ Estamos tendo alguns problemas ao clicar diretamente dentro do botão "etiqueta 
 
 **Abra o link de pedido OMS e tente abrir o link "Correios".**
 
- ![](https://vtexhelp.zendesk.com/attachments/token/0MMTMqtCADHwEFIb5KMcsYQWE/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

@@ -24,7 +24,7 @@ This is a side effet of a chrome update that has been scheduled for a fix, by th
 
 The effect felt on the VTEX admin is, that chrome v108 users are having trouble in selecting from dropdown menus, for instance, on the SKU configuration tab, when attempting to select a value on the dropdown menu, no actions are generated (the entire list of possible values should be shown):
 
- ![](https://vtexhelp.zendesk.com/attachments/token/JvqH3KkI0sgflVmKG3IOCfHa1/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

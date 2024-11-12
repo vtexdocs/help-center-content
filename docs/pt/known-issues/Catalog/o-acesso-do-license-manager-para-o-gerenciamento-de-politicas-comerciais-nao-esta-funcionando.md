@@ -30,13 +30,13 @@ Na configuração do Gerente de Licenças, podemos selecionar qual recurso o usu
 
 - Alterar uma função do usuário para acessar apenas a Gerência de Canais de Vendas:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/QdfNIgaeWKO0TQNp7JHBXuhtW/?name=inline-650484840.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 - Tente acessar esta página: `account.myvtex.com/admin/Site/Store.aspx`
 
 A página não estará disponível no menu:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/uomLWmfD9EIbUO6HnbljCA7e3/?name=inline671843796.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 

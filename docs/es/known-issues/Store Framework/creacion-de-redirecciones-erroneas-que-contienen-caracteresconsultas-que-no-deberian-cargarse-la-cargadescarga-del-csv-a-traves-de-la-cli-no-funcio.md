@@ -33,7 +33,7 @@ Crear una redirección para una consulta por ejemplo: /?binding=XXXXX
 Borra la redirección por el IDE de graphql (no podrás borrarla de otra forma)
 Intenta descargar o subir el CSV de las redirecciones a través del CLI y querrás poder hacerlo.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/etn94WlrSAYOFFj0rZfVwoowE/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

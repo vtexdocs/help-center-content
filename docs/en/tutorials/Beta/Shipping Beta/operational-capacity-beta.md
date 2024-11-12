@@ -29,7 +29,7 @@ A good seller operational capacity management leads to the following advantages:
 
 When you go to the VTEX Admin under **Shipping > Operational Capacity**, you will find a page like the one below:
 
-![operational_capacity_image1_EN](https://images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/87f03e4f1a667a76349095e450244602/operational_capacity_image1_EN.png)
+![operational_capacity_image1_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 >⚠️ The sellers displayed on the interface are your operation's sellers, previously configured by our team. To add a new seller, contact [our Support](https://help.vtex.com/en/support) team.
 
@@ -119,7 +119,7 @@ At the top right of the seller's details page, you'll find a toggle switch to ac
 
 The **Operational Capacity Status** chart shows, in real time, the percentage of the seller's capacity that has already been used, as in the image below:
 
-![operational_capacity_image2_EN](//images.ctfassets.net/alneenqid6w5/510RtT3ugOksM3YD5tYSGc/0bed6fad834c5b5ab6d22ce713abd11d/operational_capacity_image2_EN.png)
+![operational_capacity_image2_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 The chart shows the following periods:
 
@@ -141,7 +141,7 @@ To edit the seller's address or identification name in **Operational Capacity**,
 
 In the **Operational Capacity** section, you can see the seller's current operational capacity settings for each day of the week, as in the following image:
 
-![operational_capacity_image3_EN](//images.ctfassets.net/alneenqid6w5/70kbPFFifh8ykCHvIj6vEZ/7aa99cf4ff1a7deb322671c5e1961537/operational_capacity_image3_EN.png)
+![operational_capacity_image3_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 To change these settings, follow the steps below:
 

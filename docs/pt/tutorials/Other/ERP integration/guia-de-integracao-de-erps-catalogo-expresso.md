@@ -32,7 +32,7 @@ Após definida as variações e a estrutura mercadológica da loja, o próximo p
 
 _Fluxo:_
 
-![](https://images.contentful.com/alneenqid6w5/40MeR2z0hq2CY2KyUOeAAO/f524ae4caaf01fb40d50e0e0ca954df6/ERP-catalogo-expresso.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ### Produto
 

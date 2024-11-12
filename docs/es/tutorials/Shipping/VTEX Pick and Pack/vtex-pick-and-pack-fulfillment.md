@@ -54,13 +54,13 @@ Para empezar a utilizar Pick and Pack, es necesario tener acceso a la [aplicaci�
 
 Ingresa tu usuario debidamente registrado, contraseña y haz clic en  **iniciar sesión**.
 
-![pick and pack 1](https://images.ctfassets.net/alneenqid6w5/3tIH46Q7spSVEa1nDMBaHU/6c9cf04d64fe02a4a4e27c0cbcfe9ea2/image26.png)
+![pick and pack 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Página de inicio
 
 Al acceder, se habilita el dashboard del alistador, que te permitirá monitorizar, analizar y visualizar los indicadores clave de desempeño del alistador.
 
-![pick and pack 2](//images.ctfassets.net/alneenqid6w5/3Hx3ir28gfSdv60DupqIpj/d169addf3e5162f53fd4ffae4fabf172/image3.png)
+![pick and pack 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 - Permite visualizar de manera gráfica la cantidad de pedidos alistados durante los últimos días.
 - Puedes consultar la cantidad de pedidos con alistamiento finalizado.
@@ -72,11 +72,11 @@ En la sección superior de la aplicación podrás encontrar las siguientes funci
 
 - **Selección de instalación,** ubicada a la derecha del ícono del usuario alistador. Al tocar, indica las instalaciones asociadas al usuario.
 
-![pick and pack 3](//images.ctfassets.net/alneenqid6w5/7KTcPX2RJjmo7QMfZxsxx8/b5b10100395ac08bc6cb78575e3eeaed/image15.png)
+![pick and pack 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 - **Menú**, donde figuran los accesos directos a las funcionalidades principales de la aplicación.
 
-![pick and pack 4](//images.ctfassets.net/alneenqid6w5/2633eMzDne2LCpYWqksCUm/e09e4962d5a17b8b68993387b2fcb719/image17.png)
+![pick and pack 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 ## Proceso de alistamiento
 
@@ -92,9 +92,9 @@ Los pedidos en color rojo son aquellos que llevan mucho tiempo sin ser gestionad
 
 Elige los pedidos que deseas gestionar y haz clic en la opción  **Empezar a alistar.** En ese momento el sistema crea las hojas de trabajo, con su respectivo número de identificación, que estarán compuestas por los ítems de los pedidos seleccionados.
 
-![pick and pack 5](//images.ctfassets.net/alneenqid6w5/3ibz0RB8PSB3NdQnfVmXny/dc584f577881dbe47ff343a05ea0c528/image43.png)
+![pick and pack 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
-![pick and pack 6](//images.ctfassets.net/alneenqid6w5/79AdZNyZkpj3dK8uLfFUnz/ee0bd30e3073345a515d46c7e0de1019/image11.png)
+![pick and pack 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
 
 De igual manera, se  habilitarán las acciones de alistamiento para cada producto que compone los pedidos asociados a las hojas de trabajo.
 
@@ -104,7 +104,7 @@ Hay varias formas de iniciar el alistamiento de los productos:
 
 Sitúate sobre el producto que deses alistar, y desliza hacia la izquierda.
 
-![pick and pack 7](//images.ctfassets.net/alneenqid6w5/1hGlv0xBZbzSxviLzKXHTW/05f428c28ca4faff07d563b48a8e60e6/image39.png)
+![pick and pack 7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.png)
 
 Si se pulsa una vez sobre el producto, solo será alistada una unidad. Si se pulsa dos veces, se alistarán todas las unidades.
 
@@ -114,15 +114,15 @@ Existen varias formas de rechazar un producto:
 
 Sitúate en el producto que deseas alistar, y desliza hacia el lado derecho.
 
-![pick and pack 8](//images.ctfassets.net/alneenqid6w5/57QUYlKaUtl360QlxWC4kt/af1d8ca336a5f911568f9ec948461bf4/image7.png)
+![pick and pack 8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_8.png)
 
 Mantén pulsado el producto y se desplegará un menú, donde puedes seleccionar Descartar ítem.
 
-![pick and pack 9](//images.ctfassets.net/alneenqid6w5/2zRTW81m8FsoFpvNl70O4/b6b7f8ebe0d37d6439a348ed0735a5f0/image25.png)
+![pick and pack 9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_9.png)
 
 Después, debe incluirse el motivo del rechazo. Si lo deseas, puedes rechazar una cantidad específica, ingresando la cifra para después pulsar la opción Descartar unidades. También puedes descartarlas todas, como se muestra en la captura de pantalla a continuación.
 
-![pick and pack 10](//images.ctfassets.net/alneenqid6w5/78Ghr0v7Dp1PkKqLF1Q4pZ/2fc6d278277e1aa09c19ffad4c05935d/image23.png)
+![pick and pack 10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_10.png)
 
 ### Reemplazar ítems
 
@@ -130,17 +130,17 @@ La opción **Reemplazar ítem** se encuentra en el menú que se despliega al toc
 
 Si se accede a **Reemplaza ítem**, el sistema valida los pedidos a los que pertenece el producto. Si existen pedidos que comparten productos el sistema habilita el listado de los pedidos asociados.
 
-![pick and pack 11](//images.ctfassets.net/alneenqid6w5/2fFFzKLeIp6dNgknXAYuC/efdcba4627eadd592938dc8d4419218c/image21.png)
+![pick and pack 11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_11.png)
 
 Selecciona los pedidos deseados y toca la opción **Reemplazar en los pedidos seleccionados.** Después, el sistema habilitará la pantalla **Reemplazar ítem.**
 
 La pantalla Reemplazar ítem habilita los productos asociados al producto a reemplazar. Puedes utilizar el filtro de búsqueda.
 
-![pick and pack 12](//images.ctfassets.net/alneenqid6w5/3lGf61iDMk0nXqPtpIjTvM/3ff3f40f5609d481d8ee1d844a586a5a/image57.png)
+![pick and pack 12](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_12.png)
 
 Selecciona el producto deseado y haz clic en  la opción Reemplazar ítem: el sistema habilitará los campos de reemplazo.
 
-![pick and pack 13](//images.ctfassets.net/alneenqid6w5/1pYNdI9Az53pRgdg1cYTnm/aef41d13dbcfa7534c36fe94de3733ff/image35.png)
+![pick and pack 13](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_13.png)
 
 Se pueden ingresar los siguientes datos:
 - Precio.
@@ -155,7 +155,7 @@ Toca la opción **Confirmar reemplazo.**
 
 Para ingresar observaciones sobre el producto, accede al menú del ítem y después a la opción **Agregar observaciones.**
 
-![pick and pack 14](//images.ctfassets.net/alneenqid6w5/1r3yi390cfL6GxMcbEAWyj/1f8138ce000a1408441d5f77dbed2d2b/image31.png)
+![pick and pack 14](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_14.png)
 
 Si existen pedidos que comparten producto, selecciona el pedido al que debe asociarse la observación. Ingresa la observación y toca la opción **Agregar observación.**
 
@@ -167,7 +167,7 @@ Para ingresar observaciones a la hoja de trabajo, nos ubicamos en el menú y sel
 - **Pausar alistamiento:** al hacer clic sobre esta opción, la hoja de trabajo queda en estado de pausa para no afectar el rendimiento del alistador.
 - **Imprimir lista de alistamiento:** disponibiliza un documento que enumera los ítems alistados de cada pedido.
 
-![pick and pack 15](//images.ctfassets.net/alneenqid6w5/7D4oZ5bWzb5BPeN43xH7HV/002a586863b4e1044aeac477b165cc2e/image45.png)
+![pick and pack 15](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_15.png)
 
 ## Proceso de empaquetado
 
@@ -177,13 +177,13 @@ Existen varias formas de iniciar el empaque.
 
 En el dashboard se encuentra la opción **Para empaquetar;** al acceder, nos redirige a la lista de hojas de trabajo pendientes por empacar. Desde el menú, accedemos a la lista de **Empaquetado** ubicada dentro de la opción **Pendiente.**
 
-![pick and pack 15](//images.ctfassets.net/alneenqid6w5/5wiF37YnG1uwyR3j3SjB50/f3634ddeab5a581319b18252955ae4b3/image9.png)
+![pick and pack 15](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_16.png)
 
 Dentro de la pestaña **Empaquetado** seleccionamos la hoja de trabajo que se encuentre en estado Listo para empaquetar o Empaquetado para iniciar o continuar el proceso de empaque.
 
 Al acceder encontramos la lista de productos, donde podemos realizar un empaque individual o en masa.
 
-![pick and pack 16](//images.ctfassets.net/alneenqid6w5/76b06UUuKR7apFSGFXfetA/2a2b5bdfd1377b631e33102676adc9d3/image14.png)
+![pick and pack 16](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_17.png)
 
 ### Empaquetado individual o en masa
 
@@ -195,7 +195,7 @@ Al tocar, se abre una ventana donde seleccionar el pedido para hacer el empaque 
 
 Verifica los productos del pedido que seleccionaste y toca la opción Empaquetar producto.
 
-![pick and pack 17](//images.ctfassets.net/alneenqid6w5/4cTjjNy4p1dcFjTFklDhhi/ccb4a42627f2d3e78a3ef26f23f9ee28/image5.png)
+![pick and pack 17](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_18.png)
 
 #### Empaquetado individual
 
@@ -211,7 +211,7 @@ Agrega las unidades y selecciona la opción **Empaquetar producto.**
 
 Una vez alistados todos los ítems, debes realizar el proceso de envío seleccionando desde el menú la opción **Para enviar.**
 
-![pick and pack 18](//images.ctfassets.net/alneenqid6w5/3JqIlsCpWHul7ou3md1N4h/8307b7628684191dfa7f712ca4293808/image18.png)
+![pick and pack 18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_19.png)
 
 Se abrirá el listado de pedidos que se encuentran listos para envío, organizados por fecha de empaque. Haz clic sobre el pedido que deseas enviar.
 
@@ -225,7 +225,7 @@ Para crear el servicio de envío, deben proporcionarse los siguientes datos:
 
 Al terminar, toca en la opción **Seleccionar y continuar.**
 
-![pick and pack 18](//images.ctfassets.net/alneenqid6w5/7mvhayvPfwyNkHgq5DMCWk/24ad3596a5d163694abc38f6b858a226/image16.png)
+![pick and pack 18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_20.png)
 
 Verifica los datos del servicio y haz clic en la opción **Crear servicio.**
 
@@ -253,7 +253,7 @@ Posee un filtro de búsqueda configurable según la necesidad de resultado del u
 
 Cuenta con un botón para **cerrar** ventana, o en su defecto, para **borrar todos** los filtros seleccionados.
 
-![pick and pack 20](//images.ctfassets.net/alneenqid6w5/2cCfB2KdjWyRdvD8q9z4BF/3710266548a474dff6516120945ed626/image4.png)
+![pick and pack 20](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_21.png)
 
 La  sección Pedidos muestra la tabla de datos sin filtrar, con las opciones:
 
@@ -311,7 +311,7 @@ También posee la opción de Fijado, donde el usuario puede acceder a los pedido
 
 Además, cuenta con un filtro de búsqueda que permite encontrar los pedidos según la necesidad del usuario.
 
-![pick and pack 21](//images.ctfassets.net/alneenqid6w5/T6d3roLMCvoOMi52X7KMJ/3faf3580c22a2c289ff7aeef7c2ffc7f/image59.png)
+![pick and pack 21](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_22.png)
 
 ## Configuración de la aplicación
 

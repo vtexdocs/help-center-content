@@ -28,12 +28,12 @@ To perform the binding process, follow the steps below:
 2. Click on the **CMS** folder.
 3. Click on the **Sites and channels** folder.
 4. Click on the desired website.
-![websites](https://images.contentful.com/alneenqid6w5/56BRjkYWyIwKogAI0oMmSM/0910a749d03b6fd8d596ce6361a21045/websites.png)
+![websites](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 5. Click on the **Save Website** button.    
 6. Click on the **Add** button.
-<br/> ![addBinding](https://images.contentful.com/alneenqid6w5/r0P8ZE9LNesKoeGewcWOu/527511bc3ae48875fe1a6421a1db5f42/addBinding.png)
+<br/> ![addBinding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 7. Select the **account name**.
-<br/>  ![chooseBinding](https://images.contentful.com/alneenqid6w5/3nFPaDlnaEG2EqIMM8gCe0/188754ebaa172cef01a9212eea168e46/chooseBinding.png)
+<br/>  ![chooseBinding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 8. Check the **trade policies** that will be linked to this account name.  
-<br/>  ![bindingSalesPolicy](https://images.contentful.com/alneenqid6w5/5FFxnelVTyCu04a6EkiEkS/30905c7f368a1393100f118fd70fcb02/bindingSalesPolicy.png)
+<br/>  ![bindingSalesPolicy](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 9. Click on the **Save Binding** button.    

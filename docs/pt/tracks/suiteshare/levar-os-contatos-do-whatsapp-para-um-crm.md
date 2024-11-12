@@ -26,9 +26,9 @@ Você provavelmente já definiu quais [links](https://help.vtex.com/pt/tutorial/
 
 1. No menu principal do seu painel admin na VTEX Assisted Sales (SuiteShare), clique em **Configurações**.
 2. Selecione a opção **Integrações**. 
-![Levar os contatos do WhatsApp para um CRM 1](https://images.ctfassets.net/alneenqid6w5/1eVxgg7WRTzIhymKuIKHui/f03e6023c83e6bd24ac65f00e987ef5b/Screenshot_2022-08-24_at_17-59-46_Levar_os_contatos_do_WhatsApp_para_um_CRM.png)
+![Levar os contatos do WhatsApp para um CRM 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 3. Localize o seu CRM dentro das opções de integrações
-![Levar os contatos do WhatsApp para um CRM 2](//images.ctfassets.net/alneenqid6w5/4owv76x3alggHV7HJsHgt8/f9ba71dcd084bdc03d6d7c4e160f2176/Screenshot_2022-08-24_at_17-59-37_Levar_os_contatos_do_WhatsApp_para_um_CRM.png)
+![Levar os contatos do WhatsApp para um CRM 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Para realizar as configurações com a ajuda dos nossos tutoriais, escolha na lista abaixo o CRM que deseja configurar.  
 
@@ -49,13 +49,13 @@ Não encontrou o seu CRM na lista?
 Não se preocupe, você pode avisar nossa equipe qual o CRM deseja integrar para avaliarmos a possibilidade de incluí-lo na nossa lista de integração automática. Por enquanto você pode exportar todos os leads para um arquivo CSV e inserir manualmente no seu CRM. 
 
 1. Para fazer isso basta acessar **Capturar**.
-![Levar os contatos do WhatsApp para um CRM 3](//images.ctfassets.net/alneenqid6w5/1iOqIAZHaz9d52kE8HCoct/4ad9945d7f72a7638b316b4661d0d90c/Screenshot_2022-08-25_at_14-44-55_Levar_os_contatos_do_WhatsApp_para_um_CRM.png)
+![Levar os contatos do WhatsApp para um CRM 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 2. Clique na opção _**“Leads”**_ 
-![Levar os contatos do WhatsApp para um CRM 4](//images.ctfassets.net/alneenqid6w5/5WBulBLvIz16GiZj2JDzig/ea13b87c7ba52c9e36979a41abff368c/Screenshot_2022-08-24_at_17-59-58_Levar_os_contatos_do_WhatsApp_para_um_CRM.png)
+![Levar os contatos do WhatsApp para um CRM 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 Nesta tela você terá as seguintes informações: 
 
-![Levar os contatos do WhatsApp para um CRM 5](//images.ctfassets.net/alneenqid6w5/2i2zwDDmuYMaMA37SjRnd7/754db443e0b63af943c32959c0dfa0f7/Screenshot_2022-08-25_at_14-46-39_Levar_os_contatos_do_WhatsApp_para_um_CRM.png)
+![Levar os contatos do WhatsApp para um CRM 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 **1 Exportar** : Você exporta em CSV toda a lista de leads cadastrados na captura. 
 

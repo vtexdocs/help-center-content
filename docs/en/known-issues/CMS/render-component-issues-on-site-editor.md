@@ -20,13 +20,13 @@ internalReference: 415674
 
 
 Due to the quantity of information on the page, the site editor may have problems when rendering blocks. This behavior occurs intermittently, sometimes components are not rendered and sometimes it's rendered twice. It can happen that no blocks will appear at all on the site editor:
- ![](https://vtexhelp.zendesk.com/attachments/token/miNCNkBPcmbXcVHmb9f5HWxIS/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Or it can happen with fewer blocks.
 
 You can also experience a delay after saving new content. The content is saved but the screen will keep loading:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/BwlA7jzWiWCxYMLOGxMb0N84N/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 ##

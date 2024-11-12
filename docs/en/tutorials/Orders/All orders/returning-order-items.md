@@ -31,7 +31,7 @@ To return order items, follow the steps below:
     * Additional amount to refund, if any.
 6. Click `Request refund`.
 
-![Returning order items](https://drive.google.com/uc?export=download&id=1T8YBwjDEQh3sGnpAybVkpuYqKjPy8zjQ)
+![Returning order items](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 >⚠️ Please note that:
 >

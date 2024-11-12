@@ -34,7 +34,7 @@ _**Specification:**_ plaintext_description
 
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/S0hpp0y3EGMv1tzgohvKWYzez/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

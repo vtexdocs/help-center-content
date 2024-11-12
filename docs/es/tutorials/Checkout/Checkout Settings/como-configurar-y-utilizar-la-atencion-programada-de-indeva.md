@@ -29,7 +29,7 @@ El consumidor programa una atención por medio de un formulario preparado por In
 
 El flujo de la programación que recorre el cliente comienza en la elección de la tienda física donde prefiere ser atendido. En la siguiente imagen, solo observamos una tienda registrada; sin embargo, su marca puede registrar las tiendas físicas que desee.
 
-![indeva1](https://images.ctfassets.net/alneenqid6w5/3QXzMhoJN1qYZZ6c8mlfcB/4cf28e34420ac49bfcaa6f78a9b2951a/indeva1.png)
+![indeva1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 >ℹ️ También es posible proporcionar al cliente un enlace que conduce directamente al formulario de una tienda física específica. Simplemente agregue el ID de la tienda al final de la URL. Con eso, el vendedor puede compartir el enlace de su tienda, por ejemplo, a través de un código QR o en los medios sociales.
 
@@ -44,7 +44,7 @@ Al hacer clic en la tienda deseada, el cliente es conducido al formulario. Allí
 
 Finalmente, el cliente simplemente hace clic en Programar horario. Con eso, esta visita entrará en la fila de atención programada mostrada por la aplicación de los vendedores.
 
-![indeva2](//images.ctfassets.net/alneenqid6w5/sD5kRl2jv7QxksElwMibF/5aa5ec8582c10891ee90bfcf556144aa/indeva2.png)
+![indeva2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 >⚠️ Por el momento, la confirmación de la programación debe ser realizada de forma manual por la tienda. El cliente no recibirá ningún mensaje automático.
 
@@ -52,13 +52,13 @@ Finalmente, el cliente simplemente hace clic en Programar horario. Con eso, esta
 
 La aplicación de Indeva Store organiza la fila de programaciones realizadas para cada tienda física. Este puede ser usado por vendedores o gerentes tanto para controlar las próximas atenciones programadas como para la visualización del historial de visitas ya atendidas.
 
-![indeva3](//images.ctfassets.net/alneenqid6w5/71ZOQFSA8uKJKMdjrfsaX1/ae2b7836ab6e76efe752cfd3cdca0dd4/indeva3.png)
+![indeva3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 Al hacer clic en una programación específica, el vendedor tiene acceso a sus detalles: fecha, hora de la visita, nombre del cliente, mensaje enviado, cantidad de personas y el número de teléfono del cliente.
 
 Si desea entrar en contacto con el cliente a partir de esa pantalla, el vendedor puede hacer clic en el botón Abrir Whatsapp. Será direccionado directamente a una ventana de conversación con el cliente específico en la aplicación de mensajes.
 
-![indeva4](//images.ctfassets.net/alneenqid6w5/6xnGRcIBINTYj7n9HDnTJ4/97e54074b046a5295936d66bd17761fe/indeva4.png)
+![indeva4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 >ℹ️ La aplicación puede ser instalada en diversos dispositivos de la misma tienda, pero recomendamos que su equipo utilice una app por tienda, y no por vendedor.
 
@@ -106,7 +106,7 @@ La aplicación para los vendedores y gerentes de la tienda está disponible tant
 
 Después de instalar y abrir la aplicación, el vendedor deberá informar el token de 10 dígitos de la tienda para sincronizar el dispositivo e iniciar sesión.
 
-![indeva5](//images.ctfassets.net/alneenqid6w5/8K9WlmZVH3omGfWus5jke/ce2eb6f9b3b9ba58ba119d285184aca5/indeva5.png)
+![indeva5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 Para recibir el token, entre en contacto con el equipo de Indeva por los canales de soporte:
 

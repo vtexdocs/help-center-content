@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Existem três novas opções de idioma no Admin da VTEX
 
 O admin da VTEX suporta atualmente diferentes opções de idiomas para atender nossos clientes em todo o mundo. Localizamos o nosso produto para melhorar a sua experiência, não apenas por meio de traduções, mas também a nível cultural, levando em conta as particularidades de cada país.  
 
-![PT new locales](https://images.ctfassets.net/alneenqid6w5/4ymaJnFYZxRTjTZmoD54Gy/c4201ae259f80a1aa0359441ca1c8dff/PT_new_locales.jpg)
+![PT new locales](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.jpg)
 
 ## O que mudou?
 Além do português, inglês, espanhol, italiano, romeno e japonês, a partir de maio de 2021, os usuários da VTEX encontrarão três novas opções de idiomas em nosso Admin: holandês, francês e coreano.   

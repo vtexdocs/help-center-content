@@ -30,7 +30,7 @@ Para la Lista de promociones, desarrollamos una nueva interfaz que te permite:
 * Exportar tu lista de promociones activas.
 * Duplicar las promociones activas o archivadas para que el proceso de creación sea más rápido.
 
-![lista-promocoes-es](https://images.ctfassets.net/alneenqid6w5/5J9dSnkUhLm1gTUjhUftrP/4549ea65d574f5481ccbea5cde7e549c/lista-promociones-es.PNG)
+![lista-promocoes-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.PNG)
 
 ## ¿Por qué realizamos este cambio?
 

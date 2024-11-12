@@ -47,7 +47,7 @@ Para habilitar el acceso de VTEX en el entorno Adyen, sigue los pasos a continua
 2. En la barra lateral izquierda, copia y guarda la información descrita antes de **Company**. Esta es tu Company Account.
 3. En la lista de abajo, busca el nombre de la Merchant Account a utilizar (resaltada en blanco). Copia y guarda esta información.
 
-![Adyenv3_1](https://images.ctfassets.net/alneenqid6w5/4BHwn5SIUl6AuiiEjreluk/a7404c85f6fda7f7ccbae66070d0db0d/Adyenv3_1.PNG)
+![Adyenv3_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.PNG)
 
 ### Obtener la POS Live URL
 
@@ -66,7 +66,7 @@ La información a continuación supone que la API Key se ha generado previamente
 2. Selecciona tu credencial API.
 3. En **Server Settings > Authentication**, selecciona **API key**. 
 
-![Adyenv3_2](//images.ctfassets.net/alneenqid6w5/5y5TAeZmhsKrn2nZTJexIw/bfbe2587739f39fa70c4e1f08e86bd71/Adyenv3_2.PNG)
+![Adyenv3_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.PNG)
 
 <blockquote><ui>4. Haz clic en <b>Generate Key</b> y anota la información creada en un lugar seguro.</ui>
 
@@ -82,7 +82,7 @@ Configura el webhook según los pasos a continuación:
 4. En **General > Description**, agrega una descripción para el nuevo webhook. Ejemplo: "Webhook Adyen Connector Provider v3".
 5. En **General > Server configuration > URL**, introduce la URL de tu cuenta VTEX. Ejemplo https://{{account}}.myvtex.com/_v3/api/webhook/notification.
 
-![Adyenv3_4](//images.ctfassets.net/alneenqid6w5/1gAXlQfBoEUm5qnfSsHJkl/c18036816afbfe9ed8434d1211679879/Adyenv3_4.PNG)
+![Adyenv3_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.PNG)
 
 <blockquote><ui>6. Haz clic en <b>Apply</b>.</ui>
 
@@ -90,11 +90,11 @@ Configura el webhook según los pasos a continuación:
 
 <blockquote><ui>8. Haz clic en <b>Save changes</b>.</ui>
 
-![Adyenv3_5](//images.ctfassets.net/alneenqid6w5/4dNUcUg9OKni8eT1wXcjO1/19eddc41d854adb8976e6e90ed54589c/Adyenv3_5.PNG)
+![Adyenv3_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.PNG)
 
-![Adyenv3_6](//images.ctfassets.net/alneenqid6w5/2ocxDKULle6hnu2fFPnjfZ/7787ff93f023d3ec17c669758aefb82f/Adyenv3_6.PNG)
+![Adyenv3_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.PNG)
 
-![Adyenv3_7](//images.ctfassets.net/alneenqid6w5/dEbiVnYj1Ic4eYgkSNolQ/79bba40bd6820d29de275e3cab19f22e/Adyenv3_7.PNG)
+![Adyenv3_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.PNG)
 
 >ℹ️ Si tienes varias tiendas, es necesario configurar el webhook para cada una de ellas.
 

@@ -46,7 +46,7 @@ Além disso, ao final do artigo você vai encontrar informações sobre:
 
 No Admin VTEX, em **Envio > Entregas Correios**, a página **Informações dos Pedidos** apresenta uma listagem de todos os pacotes postados. Na lista, é possível acompanhar as seguintes informações:
 
-![order_information_shipping_network_PT](https://images.ctfassets.net/alneenqid6w5/2B9Ofd5hFwPkSxl31szyzU/d348694f06824d1e46b995bc712406af/order_information_shipping_network_PT.png)
+![order_information_shipping_network_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
@@ -133,7 +133,7 @@ Ainda na página **Informações dos Pedidos,** você pode:
 
 Para visualizar mais informações sobre os pacotes de um pedido enviado clique no menu <i class="fas fa-ellipsis-v"></i> na última coluna da lista, e então clique em <i class="fas fa-eye"></i> `Detalhes do pedido`.
 
-![entregas_correios_detalhes_pedidos_PT](//images.ctfassets.net/alneenqid6w5/3vtixaxWaubVOeLuueXgMI/ad5ca210783876124a205ee551e41c8f/entregas_correios_detalhes_pedidos_PT.png)
+![entregas_correios_detalhes_pedidos_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Na nova página, você pode realizar as seguintes ações: 
 

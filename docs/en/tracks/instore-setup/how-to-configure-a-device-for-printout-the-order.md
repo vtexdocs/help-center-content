@@ -27,7 +27,7 @@ Today this configuration is included in the portal administrator, more specifica
 
 To enable the _“Configure device”_ option, you must find the **_window.INSTORE_CONFIG_** object present in this file and add the **_configureDeviceEnabled_** property with the value **_true_**, and also add the **_printingConfig_** object to the **_printByBroker_** property with the value true, so that inStore allows you to use the option within the menu, as shown in the example image below:
 
-![EN-Configurar dispositivo](https://images.ctfassets.net/alneenqid6w5/7sjOnFRRd3FFBFM4MQej7m/692f871ee51737c132a6df68e39591bd/EN-Configurar_dispositivo.png)
+![EN-Configurar dispositivo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Do not delete any of the other properties included in this object. The result should be something like:
 
@@ -60,7 +60,7 @@ printPageAutomatically: true
   3. In the “Settings” block inside the inStore menu, the option “Configure device” should appear. Click there.
   4. You will find the summary of the configured device. If this is the first time, the information will be empty. If a device has been configured previously, some information about the device will appear _(Device Name and Standard Printer)_. Click on the "Edit" option.
   
-![EN-Device via Broadcast](//images.ctfassets.net/alneenqid6w5/7DuIhb5gjLHpCoLx48DMvl/d51a551e1d23f6dae131ec9b34c184b7/EN-Device_via_Broadcast.png)
+![EN-Device via Broadcast](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
   5. A form will appear indicating the data of _AppKey_, _AppToken_ and the name by which you want to identify the device. After entering this data, click on “Configure”.
   6. Finally, after including the above data, it will be possible to select the printer from the list of options. The idea is to select one of these options and then click on “Configure” again.

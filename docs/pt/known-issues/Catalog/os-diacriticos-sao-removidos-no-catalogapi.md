@@ -33,11 +33,11 @@ Atualmente, alguns caracteres diacríticos, como ă, não são preservados quand
 
 1 - use um produto put API https://developers.vtex.com/vtex-rest-api/reference/catalog-api-put-product com um diacrítico
 Ex:
- ![](https://vtexhelp.zendesk.com/attachments/token/DZhYXsOPhCpPGWfd7LikCfnCq/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 2 - Em seguida, verifique estes dados via API ou administração de catálogo, você terá estes caracteres removidos: https://developers.vtex.com/vtex-rest-api/reference/catalog-api-get-product
 
- ![](https://vtexhelp.zendesk.com/attachments/token/zac0UZAZFzPR9unBs7EtqsdxR/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 

@@ -21,7 +21,7 @@ No Painel de Controle do **Magento**, acesse o menu **Sistema** e clique em 
 
 Na página seguinte, selecione **Visual** (Design) e então clique em **Cabeçalho HTML**:
 
-![Magento_Suiteshare](https://images.ctfassets.net/alneenqid6w5/7DnzVtmv6u7rjlUD8iyVXJ/92ff4b0de0ffee721d9307ccdd991a3d/Magento_Suiteshare.png)
+![Magento_Suiteshare](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Desça na página até encontrar o campo **Outros Scripts** e cole o código do VTEX Assisted Sales (SuiteShare) dentro dele. Não se esqueça de salvar as mudanças clicando no botão **Salvar Configurações**.
 

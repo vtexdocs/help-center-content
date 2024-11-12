@@ -25,10 +25,10 @@ Em algumas ocasiões pode ocorrer uma falha de comunicação entre VTEX e o parc
 Casos como esse geram logs ou mantém o pedido em um looping. Uma vez que um comportamento errático seja identificado, o caminho mais rápido é verificar se o status do pedido está igual em ambas plataformas. Como por exemplo, o gateway ter atualizado o status como "Settling", mas posteriormente retornar que o status não está correto para captura, contudo o status estaria correto. Veja o exemplo:
 
 No dia 08 de fevereiro a VTEX recebeu uma notificação do gateway em que há uma mudança de status.
-![2017-04-11-17 28 32-4820587- -VTEX-PCI-Gateway-300x65](https://images.contentful.com/alneenqid6w5/7us92BzXFYwyQsUqWQa0sM/9c8e7dc490e5497bf8cfa16e0f7874ce/2017-04-11-17_28_32-4820587-_-VTEX-PCI-Gateway-300x65.png) 
+![2017-04-11-17 28 32-4820587- -VTEX-PCI-Gateway-300x65](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png) 
 
 No dia 03 de abril o gateway retorna erro no status
-![2017-04-11-17 26 40-4820587- -VTEX-PCI-Gateway-300x87](//images.contentful.com/alneenqid6w5/35WTOXDAC4WgS0Ki866SSS/6d7f6ed699ef653d79d709c97320d10c/2017-04-11-17_26_40-4820587-_-VTEX-PCI-Gateway-300x87.png)
+![2017-04-11-17 26 40-4820587- -VTEX-PCI-Gateway-300x87](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Um outro exemplo seria o gateway (parceiro) retornar que não possui os dados completos do cartão de crédito para prosseguir com a compra. Contudo, nos detalhes da transação no topo da página é possível confirmar que a informação existe - até porque o pedido não teria sido criado sem essas informações. O caminho aqui seria o mesmo, entrar em contato com o seu gateway.
 

@@ -95,7 +95,7 @@ Caso a loja retorne em seu serviço o **response status 200 ou 202**, significa 
 
 _exemplo do fluxo:_
 
-![](https://images.contentful.com/alneenqid6w5/6as0Pc3PGwQOYg4m8gOKY0/a08a7717551cb6649e2a15292254a096/sku-sugestion-seller-nao-vtex.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 <a name="a1"><a/>
 ### Enviar Notificação de Mudança de Preço e Estoque de SKU
@@ -213,7 +213,7 @@ Este tópico tem por objetivo auxiliar o integrador na simulação de carrinho, 
 
 _exemplo do fluxo de chamadas no carrinho:_
 
-![](https://images.contentful.com/alneenqid6w5/3gmJwn1ux22muGySkwMWQc/9c058728ea65151c185cc7bc261bdf21/fechamento-fluxo-nao-vtex.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 <a name="a4"><a/>
 ### Simulação de Carrinho
@@ -375,7 +375,7 @@ Este tópico tem por objetivo auxiliar o Seller a receber um pedido do Marketpla
 
 _exemplo do fluxo:_
 
-![](https://images.contentful.com/alneenqid6w5/74yZ8Wbwc0K4MGm0ISsqGe/3ce44e3feb867e4828b9dd4eec5cda9f/order-seller-nao-vtex.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 <a name="a6"><a/>
 ### Enviar Pedido

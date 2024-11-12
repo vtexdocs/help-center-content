@@ -31,7 +31,7 @@ Mercado Livre  > Bridge  > OrderId
 
 Inside the bridge orders menu, some error messages are not logging the orderID, which gives the impressions some orders are not in VTEX brige, but the sellers can find the orders by searching for the shipmentID.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/OZk1c79PgvKBKq6wGldvIbHM6/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

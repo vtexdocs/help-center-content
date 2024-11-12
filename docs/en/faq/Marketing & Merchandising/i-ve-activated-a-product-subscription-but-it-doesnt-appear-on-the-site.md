@@ -29,6 +29,6 @@ For manual inclusion of specific SKUs, follow these step-by-step instructions:
 5. Name your Collection (the other fields are not to be filled).
 6. Insert the SKUs in the field and __separate them with commas__.
 
-![recurrence-specific-skus](https://images.ctfassets.net/alneenqid6w5/70r903nMha2s220AsC2W6k/2fa8421274d56304d680388cc3309323/recurrence-specific-skus.png)
+![recurrence-specific-skus](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Finally, give a name to the __Group__ of your Collection and click __Save Group__.

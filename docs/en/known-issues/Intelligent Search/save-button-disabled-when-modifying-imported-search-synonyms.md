@@ -21,11 +21,11 @@ internalReference: 508893
 
 When trying to make any change in a synonym config that was previously imported by a csv file, the save button is always disabled, no matter what change:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/brdXbHb75jSVJae7gJcCY8QVH/?name=inline1786590037.png)​
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)​
 
 This is happening because when importing a file, locale information is not being automatically populated, as per the example below:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/2CvsG56Jprt18bNjvIU8Mt07m/?name=inline-2007024263.png)​
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)​
 
 
 

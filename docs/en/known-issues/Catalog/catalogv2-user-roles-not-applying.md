@@ -34,7 +34,7 @@ Currently, the user role UI for the CatalogV2 application is not correctly apply
 
 2) Set a read-only user role
 
- ![](https://vtexhelp.zendesk.com/attachments/token/NpEBOSahA9ogF72lsW9kYRjyH/?name=inline441836406.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 3) With these rules set, log in with the related user
 

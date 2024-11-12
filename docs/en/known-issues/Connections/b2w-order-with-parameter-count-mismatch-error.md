@@ -33,7 +33,7 @@ _**Impact:**_ Occurs with some orders
 
 Admin > Bridge > Orders
 
- ![](https://vtexhelp.zendesk.com/attachments/token/cT90VMDIz1kZblPQWMpmmB93D/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

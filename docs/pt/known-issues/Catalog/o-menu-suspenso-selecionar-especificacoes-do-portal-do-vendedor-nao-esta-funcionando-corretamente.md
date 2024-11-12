@@ -27,7 +27,7 @@ Quando o usuário tenta escolher um valor, às vezes, a entrada abaixo é seleci
 
 Por exemplo, você tem duas opções, cor e tamanho. Ao clicar na cor, às vezes, o tamanho é selecionado em seu lugar:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/PpTFjmsH4i975D0uQSLD7WmkO/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Simulação
 

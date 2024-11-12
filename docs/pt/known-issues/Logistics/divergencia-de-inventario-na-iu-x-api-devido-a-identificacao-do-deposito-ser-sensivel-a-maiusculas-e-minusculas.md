@@ -39,21 +39,21 @@ Atualizar o tempo e o custo da doca de carregamento por API com "teste" de ident
     POST https://{accountName}.{environment}.com.br/api/logistics/pvt/configuration/warehouses{"id": "teste", "nome": "TEST", "warehouseDocks": {"dockId": "teste de doca", "tempo": "08:00:00", "custo": 0,00 }]}
 
 Embora a identificação seja a mesma, a sensibilidade a maiúsculas e minúsculas fará com que outro armazém seja criado:
- ![](https://vtexhelp.zendesk.com/attachments/token/9rtOZ4rvyimyhR8a4SPYiKkcV/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Entretanto, para a IU de inventário, a identificação não é sensível a maiúsculas e minúsculas, portanto, para ambos os inventários, as mesmas informações serão mostradas:
- ![](https://vtexhelp.zendesk.com/attachments/token/0yAKYzWYy5Sn023Hk28QqcDDR/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Mas verificando o API, cada inventário é separado, como esperado:
- ![](https://vtexhelp.zendesk.com/attachments/token/LFPgP1tbhl81JA0e7zeW6lrwv/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 E então, ao apagar o primeiro registro de depósito (com letra maiúscula "TEST"), as informações do inventário na IU continuam mostrando aquela quantidade disponível para o inventário de "teste" de identificação (letras minúsculas), onde na verdade é 0:
- ![](https://vtexhelp.zendesk.com/attachments/token/nhn5tLzAlpiTrfRTSaZNu058S/?name=image.png)
- ![](https://vtexhelp.zendesk.com/attachments/token/YI35cmEAkxMVHpaqTE0KrHHS1/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 E como consequência disso, a indexação SKU recebe quantidade 0, e se mostra fora de estoque no checkout:
- ![](https://vtexhelp.zendesk.com/attachments/token/Q3SECpqLt5hNL4OIkp5s55BpK/?name=image.png)
- ![](https://vtexhelp.zendesk.com/attachments/token/j3LH5atDUaQL8RzTJug42Wqq7/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.png)
 
 
 ## Workaround

@@ -62,7 +62,7 @@ To select the features available in your live event transmission, follow these s
     * **Infinite Scroll**: Implement an infinite scroll functionality for the **Sidebar products** option that automatically scrolls every N seconds. The seconds can be defined in the **You will change the speed of the product sidebar, save and check the changes (Time in seconds, 3 to 100 seconds is recommended)** field.
 3. Click `Preview` to preview the Live Shopping app based on your configuration settings.
 
-![ls-cms](https://images.ctfassets.net/alneenqid6w5/7aHLYdrUAySptm8wfJFSyv/7b73a362c51fee8ef6fee0e91586e3da/image.png)
+![ls-cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 In the **CMS configuration** section, you will also find the script to embed the live-streaming app in your storefront where you prefer.
 
@@ -100,7 +100,7 @@ To maximize engagement and boost sales for your event, the Live Shopping app all
 
 To manage the live chat during your event, find the desired event in the events list and click the arrow button in the `Action` column. In the **Live Chat** section, you will be able to view and monitor real time comments, as well as track the number of viewers and likes. Here's a list of the functionalities available:
 
-![ls-livechat](//images.ctfassets.net/alneenqid6w5/6qgJl5jgPaKQIdYC4vlfEM/177792f2e41f417d009edc61750ac0a4/image.png)
+![ls-livechat](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 * **I - Store details**: Allows you to set up the administrator name for the chat. Enter the desired name in the input field and click `Save` to save the changes.
 * **II - Download**: Downloads the chat conversation for future reference or analysis.
@@ -119,7 +119,7 @@ The Live Shopping app offers a live chat feature that allows users to actively e
 
 1. In the events list, find the desired event and click the arrow button in the `Action` column. 
 2. In the **Questions** section, create questions to be displayed to the audience using the `New question` button. You can choose between quizzes and polls, and define the time frame during which they will be displayed. The answers received will be stored in the same section.
-  ![ls-question](//images.ctfassets.net/alneenqid6w5/2PO0dsftBiIarlYOdnBreh/d88bb34c4331c4c388d2e3f93824aeda/image.png)
+  ![ls-question](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 3. Click `Save question` to save your question and make it available to the audience.
 
 #### Blocking undesired words
@@ -140,7 +140,7 @@ To access the Streaming Studio, follow these steps:
 2. In the **Streaming Studio** section, select one of the following options:
     * `COPY INVITATION`: Click to copy the live event's link and send it to a co-host so they can join the live stream.
     * `ACCESS`: Click to access the live event studio as the host. When you click on `ACCESS`, a new window will open, redirecting you to the Streaming Studio.
-  ![ls-profile](//images.ctfassets.net/alneenqid6w5/3J45oNqky0M8owVDwq27Eh/865dd12683271be2c898f7e8c9907ce9/image.png)
+  ![ls-profile](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 3. In the `Complete my profile` field, enter your name and click `CONTINUE`. Then, you will be redirected to the live event studio.
 
 ### Displaying products during the live event
@@ -151,7 +151,7 @@ To display products during the live event, follow these steps:
 
 1. In the events list, find the desired event and click the arrow button in the `Action` column.
 2. In the **Products within collection** section, choose the desired products to show during the live stream by activating the `Actions` toggle.
-  ![ls-products](//images.ctfassets.net/alneenqid6w5/6b9YVi4ziMQvGwrswGnz6q/3b033736caadbe02124ac3ff3e9292ac/image.png)
+  ![ls-products](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 ### Live streaming an event
 
@@ -160,12 +160,12 @@ After performing all the configuration and customization of the Live Shopping ap
 1. In the events list, find the desired event and click the arrow button in the `Action` column.
 2. Copy the event's ID in the `Details` section.
 3. Change the event status to `Live` by enabling the `Turn on` toogle.
-  ![ls-event-details](//images.ctfassets.net/alneenqid6w5/20VoqfM9WOEolWnP0qxZmW/90118325ff632e4919e10091d2ccf9cf/image.png)
+  ![ls-event-details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
   >⚠️ It may take approximately 3 minutes for the event to go live.
 
 4. Go to **Storefront > Site Editor**.
 5. Find the **Live Shopping** block in your storefront, based on the template you used, and select it.
-  ![ls-transmission](//images.ctfassets.net/alneenqid6w5/3KqmamTB0jveDJc9XoB4UO/a3d8178933b68b3e24d04e4cc3d9e3f5/image.png)
+  ![ls-transmission](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.png)
 6. Activate the **Live Shopping** player on your store by toggling the `Show component` button.
 7. Click `Events (Live)` to choose the desired event.
 8. Click `Save` to save your changes.
@@ -180,7 +180,7 @@ To create a personalized and visually appealing live event experience, you can c
 2. In the events list, find the desired event and click the arrow button in the `Action` column.
 3. Once the event is live, go to the **Layout Type** section and click the `Customize look and feel` button to enter the customization module.
 4. On the **Look and Feel** page, you will find two options: mobile and desktop. By selecting each option, you can configure and customize the components specific to those views, customizing both the products and chat sections of the Live Shopping player.
-  ![ls-look-feel](//images.ctfassets.net/alneenqid6w5/3LRfDcViqH7pWXTNWH1Q4Q/d30b885440e56e79265bef9ea6f305e4/image.png)
+  ![ls-look-feel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_8.png)
   >ℹ️ Note that when you enter the customization module and start customizing a component, the specific component you are working on will be identified and highlighted in blue color.
 
 5. Select the mobile mode by clicking the mobile icon to customize the following options:
@@ -216,7 +216,7 @@ Once your live-streaming event is complete, you need to finalize it to wrap up t
 2. Change the status of the event to `Finalized` by toggling the `Status` button.
   >⚠️ The process of finalizing the live shopping event may take a while. Do not close the page until the process is complete, when the `Finalized` status turns green.
 
-![ls-event-info](//images.ctfassets.net/alneenqid6w5/6VrA9srqPvZl5cyrUtynRZ/93dcdeb2b21a5cccd997112f24449b59/image.png)
+![ls-event-info](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_9.png)
 
 After the live event is concluded, go to the **Live Streaming Recordings** section to receive the event recording via email or download it directly from the browser, if desired. The download process typically takes around 60 minutes, and you will be provided with the progress percentage of the download.
 
@@ -226,4 +226,4 @@ To gain valuable insights into the performance of your live-streaming event, you
 
 1. In the events list, locate the desired event and click the graphics button in the `Action` column.
 2. Check out the engagement and sales KPIs related to the event as in the following:
-  ![ls-analytics](//images.ctfassets.net/alneenqid6w5/5pDOBPqWMEeKnglszokEBZ/65b2d6c69180f3e75df60f831ea450e4/image.png)
+  ![ls-analytics](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_10.png)

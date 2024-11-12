@@ -29,4 +29,4 @@ A VTEX se orgulha de possuir escritórios em países diferentes e vários client
 
 Para saber em qual país você é faturado, você pode consultar seu contrato ou [fazer download da sua fatura](https://help.vtex.com/pt/tutorial/como-fazer-download-faturas-da-VTEX--tutorials_653). Ao abrir a fatura, você encontrará no canto esquerdo da sua fatura, abaixo do logo da VTEX, o nome e endereço da companhia na qual sua loja está sendo faturada.
 
-![reconhecimento fatura](https://images.ctfassets.net/alneenqid6w5/2YSH0hyY910biHl0uEO1Sw/fedfac90ba460d15c2bac63d80cd1866/reconhecimento_fatura.JPG)
+![reconhecimento fatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.JPG)

@@ -18,7 +18,7 @@ Concluída a integração com a app _Facebook Business Extension e Conversions A
 
 Nesta interface, há três seções principais: [Status](#status), [Funcionalidades](#funcionalidades) e [Catálogo](#catalogo).
 
-![Facebook business Extension](https://images.ctfassets.net/alneenqid6w5/0FVc54WxGh3BorDpQkkzI/4ce29da78c0004ab73cc9b554235bb07/print_interface_pt.png)
+![Facebook business Extension](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Status
 

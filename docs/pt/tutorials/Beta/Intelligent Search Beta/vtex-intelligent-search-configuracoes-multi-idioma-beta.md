@@ -39,7 +39,7 @@ O VTEX Intelligent Search Multi-idioma permite que você personalize a experiên
 ### Regras de merchandising
 Com o VTEX Intelligent Search Multi-idioma instalado, a página de edição ou criação de Regras de merchandising — encontrada no Admin VTEX em __Storefront__ > __Intelligent Search__ > __Regras de merchandising__ — apresenta o campo adicional __Idiomas__, que possibilita escolher a quais idiomas a Regra de Merchandising será aplicada através da seleção dos idiomas desejados, conforme mostrado na figura abaixo.
 
-![img regrasmerch intelligentsearchmultilanguage PT](https://images.ctfassets.net/alneenqid6w5/3Pv8xpcvB43bLALrijD1UO/000fe10fd8752c5996afdea9a4bc8e9a/01-merchrules-pt.png)
+![img regrasmerch intelligentsearchmultilanguage PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Para saber mais sobre os campos, leia nosso artigo sobre [como configurar Regras de merchandising no VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8).
 
@@ -51,7 +51,7 @@ Existem duas formas de configurar Sinônimos em uma loja multi-idioma no Admin: 
 #### Criar Sinônimos via formulário
 Com o VTEX Intelligent Search Multi-idioma instalado, a página de edição ou criação de Sinônimos — encontrada no Admin VTEX em __Storefront__ > __Intelligent Search__ > __Sinônimos__ — apresenta o campo adicional __Idiomas__, que possibilita escolher a quais idiomas os Sinônimos cadastrados serão aplicados, conforme a imagem abaixo. Clique nos idiomas desejados para selecioná-los.
 
-![img sinonimos intelligentsearchmultilanguage PT](//images.ctfassets.net/alneenqid6w5/12CjlIh67TyloFOBPkE72x/d513d8a4b124aa077b447ce9a1d4adb8/02-sinonimos-pt.png)
+![img sinonimos intelligentsearchmultilanguage PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Para saber mais sobre os campos, leia nosso artigo sobre [como configurar Sinônimos no VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL).
 
@@ -73,7 +73,7 @@ Para saber mais sobre a importação de planilha de Sinônimos, leia nosso artig
 
 Com o VTEX Intelligent Search Multi-idioma instalado, a página de edição ou criação de Redirecionamentos — encontrada no Admin VTEX em __Storefront__ > __Intelligent Search__ > __Redirecionamentos__ — apresenta o campo adicional __Idiomas__, que possibilita escolher a quais idiomas os Redirecionamentos cadastrados serão aplicados, conforme a imagem abaixo. Clique nos idiomas desejados para selecioná-los.
 
-![img redirecionamentos intelligentsearchmultilanguage PT](//images.ctfassets.net/alneenqid6w5/2f245NNeb0APEgeQGj6bTg/38bda1599742284c81ed067b2330514d/03-redirecionamentos-pt.png)
+![img redirecionamentos intelligentsearchmultilanguage PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 Para saber mais sobre os campos, leia nosso artigo sobre [como configurar Redirecionamentos no VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4Gd2wLQFbCwTsh8RUDwSoL).
 
@@ -81,6 +81,6 @@ Para saber mais sobre os campos, leia nosso artigo sobre [como configurar Redire
 
 Com o VTEX Intelligent Search Multi-idioma instalado, a página de edição ou criação de Banners — encontrada no Admin VTEX em __Storefront__ > __Banners__ — apresenta o campo adicional __Idiomas__, que possibilita escolher a quais idiomas os Banners cadastrados serão aplicados, conforme a imagem abaixo. Clique nos idiomas desejados para selecioná-los.
 
-![img banner intelligentsearchmultilanguage PT](//images.ctfassets.net/alneenqid6w5/2TeFZzq8LxaVApotGBfemL/9c5e675df49840e3fa4db7437f866524/image_8.png)
+![img banner intelligentsearchmultilanguage PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 Para saber mais sobre os campos, leia nosso artigo sobre [como configurar Banners no VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).

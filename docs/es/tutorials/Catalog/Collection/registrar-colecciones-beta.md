@@ -85,23 +85,23 @@ La selección de productos vía Admin VTEX se puede realizar a través de la lis
 
 Hay una variedad de filtros que se pueden seleccionar para reducir la cantidad de productos que se muestran en la lista. 
 
-![Colecciones - ES](https://images.ctfassets.net/alneenqid6w5/3FPMxYUHhfXCFgdJ1YaWBA/01b312b5cec4047135e06017b227eec3/Colecciones_-_ES.PNG)
+![Colecciones - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.PNG)
 
 Usted puede crear nuevos filtros a partir de otros criterios que no se incluyen en los filtros predeterminados. Las siguientes imágenes muestran algunas opciones:
 
-![Novo filtro - ES](//images.ctfassets.net/alneenqid6w5/5CBl4UWLGKo9sf5CqoOIRD/fd2f6536dba1a15e56d64a94df9f66f8/Novo_filtro_-_ES.PNG)
+![Novo filtro - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.PNG)
 
-![Filtro Colecao detalhes - ES](//images.ctfassets.net/alneenqid6w5/7E4dl1gucqIaCUMGEfZIK1/5426ac9eab57f5e5b9241ec8525140e8/Filtro_Colecao_detalhes_-_ES.PNG)
+![Filtro Colecao detalhes - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.PNG)
 
 Para agregar un producto a la colección, solo haga clic en el ícono <i class="fas fa-plus-circle" title = "símbolo de agregar en círculo"></i> del producto. De esa forma, se guardará en la colección automáticamente.  
 
 Si desea más información sobre el ítem, haga clic en el ícono <i class="fas fa-external-link-alt" title = "enlace externo"></i> para abrir la página del producto, o haga clic en la imagen para verla de forma ampliada. 
 
-![ES-colecao-adicionar](//images.ctfassets.net/alneenqid6w5/301ci58WsAbhxqAjczEVwj/1683d83db5dfa0526adef94f3c2bc7b0/ES-colecao-adicionar.gif)
+![ES-colecao-adicionar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.gif)
 
 Si desea incluir productos de forma masiva, aplique uno de los filtros y haga clic en el botón `Agregar Todo`. Es importante destacar que el producto debe tener al menos un SKU registrado para ser incluido en una colección.
 
-![ES-colecao-adicionar-todos](//images.ctfassets.net/alneenqid6w5/1Qtj7Lq2xPebiPh4SrSV4R/6e66d5f68b4ffe07f6d1dd86bf16726c/ES-colecao-adicionar-todos.png)
+![ES-colecao-adicionar-todos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 >❗ No agregue de forma masiva una cantidad superior a 150 mil productos. Eso puede comprometer la indexación del catálogo y el funcionamiento de la tienda.
 
@@ -116,7 +116,7 @@ Para eso, realice los siguientes pasos:
   2. Haga clic en la opción **Incluir productos a la colección**, y luego en el botón `Importar`.
   3. Haga clic en `Descargar la plantilla` para obtener la plantilla correcta como se muestra aquí:
 
-![colecao-planilha -ES](//images.ctfassets.net/alneenqid6w5/4Mqxv9SSr8WynEiEah45ix/fa56634539212f663c2a3f36782b5f66/colecao-planilha_-ES.png)
+![colecao-planilha -ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
 
   4. Complete la plantilla con los IDs o los RefIDs de los productos o de los SKUs. Solo agregue un ID en cada fila. Independientemente del ID que ingrese, todos los SKUs del producto seleccionado se añadirán a la colección después de la importación.
   5. Después de completar la plantilla, guarde las modificaciones e importe el documento en el Admin. Usted puede arrastrar y soltar el archivo en el área indicada o hacer clic en **Selecciona un archivo**. Se aceptan archivos en formato CSV o XML. En caso de que utilice un arquivo CSV, use , para delimitar los campos.
@@ -132,11 +132,11 @@ Los productos se pueden eliminar mediante la selección de los ítems en la list
 
 Para eliminar un ítem de la colección, solo debe hacer clic en el ícono <i class="fas fa-check-circle" title = "check en círculo"></i> del producto. 
 
-![ES-colecao-remover](//images.ctfassets.net/alneenqid6w5/4FcChdnT9NIYu69aS13TgM/f0b6c63d35ec92f9eb18f005b49d8d8a/ES-colecao-remover.gif)
+![ES-colecao-remover](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.gif)
 
 Si desea eliminar productos de forma masiva, aplique uno de los filtros y haga clic en el botón `Eliminar Todo`.
 
-![ES-colecao-remover-todos](//images.ctfassets.net/alneenqid6w5/7s9ZJCnRkWSeY8xMJ5DelL/a2ca949f1e3d59fe49a2428b27c0d86e/ES-colecao-remover-todos.png)
+![ES-colecao-remover-todos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_8.png)
 
 También puede hacer clic en el botón <i class="far fa-check-circle" title = "produtos nesta coleção"></i> (Productos nen esta colección) en la barra superior y después seleccionar `Eliminar Todo`. 
 
@@ -165,7 +165,7 @@ Para alterar el orden de su colección, siga estos pasos:
 
   b. Seleccione la caja de los productos que desea alterar y haga clic en `Mover a la posición`. Indique el número de la nueva posición y, para finalizar, haga clic en `Mover`. De esta manera, puede ordenar todos los ítems de la lista de forma masiva. 
 
-![mover-colecao-ES](//images.ctfassets.net/alneenqid6w5/2fhHZIuCwN7aysjh78tOae/20aa235a1c6afa1a6c3504b0110a2b9d/mover-colecao-ES.png)
+![mover-colecao-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_9.png)
 
 ### Exportar la plantilla de la colección
 

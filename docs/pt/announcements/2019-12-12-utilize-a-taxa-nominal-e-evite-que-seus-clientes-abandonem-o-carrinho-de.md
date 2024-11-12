@@ -33,5 +33,5 @@ A funcionalidade  pode ser utilizada sempre que o lojista desejar que a taxa no 
 - Em "Qual o tipo e valor da Taxa?", escolha a opção Taxa Nominal
 - Preencha os itens necessários e clique em salvar
 
-![Nominal tax PT](https://images.ctfassets.net/alneenqid6w5/2TKpj3XiV3ZOULJnsDrZoO/02331539e2325d6b26f9547f48ca8575/Nominal_tax_PT.png)
+![Nominal tax PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 

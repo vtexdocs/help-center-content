@@ -20,7 +20,7 @@ Las funcionalidades descritas en este artículo todavía no están disponibles�
 
 Una regla de precio es un modificador del precio base registrado en la Lista de precios.
 
-![new-dashboard-pricing-es](https://images.contentful.com/alneenqid6w5/3EB6csYrKUiwQGGuikW0MA/ada36ea5a53b0d864561093817b76bf9/new-dashboard-pricing-es.gif)
+![new-dashboard-pricing-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 ## Como funciona
 
@@ -34,7 +34,7 @@ Más allá de esto, es importante resaltar que las reglas de precios se aplican�
 
 Será aplicada **sólo la primera** regla de precio que sea válida para as condiciones de SKU (categoría; marca; y rango de markup). Incluso si existen otras relas de precio válidas, apenas la primeira en el orden será utilizada para el cálculo del precio del SKU.
 
-![new-dashboard-pricing-rule-reordering-es](//images.contentful.com/alneenqid6w5/3qFR7a9G2kCO6IMSACoKki/be7a36609e25db3e3e4da99f5b116c71/new-dashboard-pricing-rule-reordering-es.gif)
+![new-dashboard-pricing-rule-reordering-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 
 _Recomendamos que el orden parta de las reglas más específicas a las reglas más generales._
 
@@ -42,7 +42,7 @@ _Recomendamos que el orden parta de las reglas más específicas a las reglas m
 
 El paso a paso para el registro es bien simple, y está expuesto aquí:
 
-![new-dashboard-pricing-add-rule-es](//images.contentful.com/alneenqid6w5/1WE61W9Hvu8GMIoywGeqOG/97efe02874306a266793385ef984c32d/new-dashboard-pricing-add-rule-es.gif)
+![new-dashboard-pricing-add-rule-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.gif)
 
 1. En la pantalla **Reglas de precios** será exhibida una lista con todas las políticas comerciales. Dentro de cada una, estarán las reglas. Haga click en el botón **Nueva regla**, arriba de la lista para crear una regla.
 2. Elija en qué política comercial estará incluida esta regla.
@@ -53,8 +53,8 @@ El paso a paso para el registro es bien simple, y está expuesto aquí:
 
 Debajo se muestran ejemplos de los flujos de edición y exclusión de reglas de precio.
 
-![new-dashboard-pricing-edit-rule-es](//images.contentful.com/alneenqid6w5/61kaPdcYbCkwYGa0IeQoOg/5620702e4eb27233d0bbc8a3e60e7c11/new-dashboard-pricing-edit-rule-es.gif)
+![new-dashboard-pricing-edit-rule-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.gif)
 *Flujo de alteración de una regla*
 
-![new-dashboard-pricing-remove-rule-es](//images.contentful.com/alneenqid6w5/1iiu0BkGmgSC0Awgoacmq0/dedb479cfb8745277bad3e8f8d4e93ff/new-dashboard-pricing-remove-rule-es.gif)
+![new-dashboard-pricing-remove-rule-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.gif)
 *Fluxo de exclusión de una regla*

@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Stay informed about Headless CMS publication stages and
 
 The Headless CMS now offers a notification feature that keeps you informed throughout each stage of the publication process. The new notification cards provide updates on each stage of a publication in the VTEX Headless CMS, keeping users informed about the publication on Releases, VTEX Headless CMS, and FastStore build stages. 
 
-![Headless CMS - Notification](https://images.ctfassets.net/alneenqid6w5/3snUhFhKzrzE71wg5GJRws/7ab62cbd7fbb27b46894c0f366e7d25c/headless-cms-publish-en.gif)
+![Headless CMS - Notification](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 This feature also helps you identify and report errors during deployment by indicating the exact error stage. It also provides the option to retry deployments if needed.
 
@@ -35,7 +35,7 @@ With the notification feature, you can now stay informed about the status of eac
 
 If an error occurs during deployment, the notification card will indicate the stage at which the error occurred. You can click `Try again` to redeploy.
 
-![Headless CMS - Redeploy](//images.ctfassets.net/alneenqid6w5/wxnKpmFM0GRlSAB7uboMK/2e950f93b204d1ce40d67b0f8516b327/headless-cms-redeploy-en.gif)
+![Headless CMS - Redeploy](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 
 ## Why are we making this change?
 The notification feature gives you more autonomy to understand and address issues related to store publications. It enables you to precisely identify and report issues and retry the publication process.

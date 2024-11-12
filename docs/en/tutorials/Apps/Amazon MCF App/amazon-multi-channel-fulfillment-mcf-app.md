@@ -100,7 +100,7 @@ To install the app, go to the VTEX App Store:
 
 >⚠️ The configurations made in the Automatic Invoice field will be applied to all orders.
 
-![MCF](https://images.contentful.com/alneenqid6w5/1fPmofbBRr6kge5qzfHvXV/e26c0d8fc1ec3a9069d09e027e36aa98/Amazon_MCF_EN.PNG)
+![MCF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.PNG)
 
 ### Integrating the catalog
 

@@ -34,7 +34,7 @@ Usando a API mencionada, crie um produto informando, no caminho da categoria, um
 
 Como exemplo, verifique a árvore abaixo:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/0RlxkVj9Gvd2ukR1vZcxdcmyC/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Isso significaria informar no caminho "Department/Category2/Subcategory1".
 

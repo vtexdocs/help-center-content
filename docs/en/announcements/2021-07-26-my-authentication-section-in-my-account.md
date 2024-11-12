@@ -23,15 +23,15 @@ The My Authentication section is available on all VTEX accounts, and you can fin
 
 In this section, all users can manage their password and login sessions, allowing them to sign out other sessions remotely. For more details on using My Authentication, see the [Authentication section on the article Setting up My account](https://help.vtex.com/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh).
 
-![My Authentication app EN](https://images.ctfassets.net/alneenqid6w5/20aIW7imMlRsfDbKYu9IuM/945cc2ade2766758e484814c3e380708/My_Authentication_app_EN.png)
+![My Authentication app EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
-![My Authentication Session Management EN](//images.ctfassets.net/alneenqid6w5/3qxpIRREWnGmRmv97jhOML/ebcd1548b887d23b0fd661a0e05a0a73/My_Authentication_Session_Management_EN_blur.png)
+![My Authentication Session Management EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 On September 29, the component for managing passwords will also be removed from the user profile page to prevent duplication issues. The images below show examples of a user profile page with and without the password management component.
 
-![My Account with password EN](//images.ctfassets.net/alneenqid6w5/6L8Do8W0nbG4jfKE04ddpj/0ae8b228f91e42d0baef43d66e99c43f/My_Account_with_password_EN.png)
+![My Account with password EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
-![My Account no password EN](//images.ctfassets.net/alneenqid6w5/22CaEOhOusmmDM73taAw6R/08d27ed752e8e08a1019272cc832a182/My_Account_no_password_EN.png)
+![My Account no password EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 ## Why did we make this change?
 
@@ -62,12 +62,12 @@ To make the My authentication section visible for your customers, follow the ste
 1. On the left side menu in the Admin, go to **ACCOUNT SETTINGS**.
 2. Click on **Apps**.
 3. Click on **My apps**.  
-![My apps menu EN](//images.ctfassets.net/alneenqid6w5/4oRHARlS6i4lZac17nyHhC/b912df890af790633a2ada35b504e653/My_apps_menu_EN.png)
+![My apps menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 4. Go to the **My Account** app and click on `Settings`.  
-![My apps installed EN](//images.ctfassets.net/alneenqid6w5/5umcJos7Uz0wnmv0VsZs3Y/eec5a07fc1a77033113a4767b4672fc7/My_apps_installed_EN.png)
+![My apps installed EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
 5. In the **AUTHENTICATION** field, check the `Visible` box.
 6. Click on `Save`.  
-![My Authentication visible setting EN](//images.ctfassets.net/alneenqid6w5/5104wJeIBEUYXI7hfkRdH0/205cccf0a08be76be0c91e4074d77215/My_Authentication_visible_setting_EN.png)
+![My Authentication visible setting EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.png)
 
 You can also directly access the My Account app settings via URL.
 
@@ -76,4 +76,4 @@ You can also directly access the My Account app settings via URL.
 
 After enabling the **Authentication** section, it will be displayed for your customers in their user profiles in your store, and they can access it using the left side menu on the My Account page.
 
-![My Authentication visible setting EN](//images.ctfassets.net/alneenqid6w5/5104wJeIBEUYXI7hfkRdH0/205cccf0a08be76be0c91e4074d77215/My_Authentication_visible_setting_EN.png)
+![My Authentication visible setting EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_8.png)

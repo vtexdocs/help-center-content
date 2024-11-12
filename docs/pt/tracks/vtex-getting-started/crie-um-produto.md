@@ -39,8 +39,8 @@ Vamos ver como criar o produto.
 No módulo __Catalog__, siga os passos abaixo:
 
 1. Passe o mouse na aba __Cadastro de Produtos__.
-2. Vá até a opção __Produtos e SKUs__ e clique em __Cadastro de Produtos e SKUs__.![Produto1](https://images.contentful.com/alneenqid6w5/4X1QYKrHz2ysAEAAW6gK6/85b81671add3f7573a9c4531b215ba82/Produto1.png)
-3. Clique no botão __Adicionar Produto__.![Produto2](//images.contentful.com/alneenqid6w5/2HhkAREgQMMAkIMm8GaGgQ/7038413048c0611edb9079acd73020ba/Produto2.png)
+2. Vá até a opção __Produtos e SKUs__ e clique em __Cadastro de Produtos e SKUs__.![Produto1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+3. Clique no botão __Adicionar Produto__.![Produto2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Você será levado para a tela de cadastro de produto.
 

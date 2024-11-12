@@ -24,7 +24,7 @@ internalReference: 741110
 
 Ao tentar criar um vendedor através de Admin e preencher o formulário opcional Informações Adicionais, um erro é devolvido assim:
 'O vendedor foi adicionado com sucesso, mas algumas informações não puderam ser salvas'.
- ![](https://vtexhelp.zendesk.com/attachments/token/FYe7irRht0psXP4PwkEH7fm05/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Apesar da mensagem, o vendedor não foi realmente salvo.
 

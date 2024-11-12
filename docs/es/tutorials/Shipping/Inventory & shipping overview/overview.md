@@ -27,7 +27,7 @@ Aquí podremos registrar la relación de **[Almacén](https://help.vtex.com/es/t
 
 Aquí conseguiremos levantar la definición de valores de precio y tiempo de entrega para una determinada rango de código ZIP con relación al peso cúbico del producto, dimensiones, entre otros factores. 
 
-![tarifas-envioES](https://images.ctfassets.net/alneenqid6w5/6BuxCyz2bujSpqx9Mq0CcZ/c390be3b109d17a73293fc3e7b3a9105/tarifas_envioES.png)
+![tarifas-envioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 - [Tarifas de envío](https://help.vtex.com/es/tutorial/shipping-rates--1Balpg3rv0854udEPedvMM)
 
@@ -37,35 +37,35 @@ Aquí será posible reproducir diversos escenarios para la entrega del producto,
 
 Éste regresará los valores a los Transportistas que atienden a la entrega, las dimensiones y pesos de los productos, el precio de la entrega y el tiempo estimado para que se lleve a cabo. Además de los detalles adicionales sobre los valores del rango del código ZIP, porcentuales que varían de acuerdo con el rango de peso del Producto, volumen, valores adicionales por gramo excedente, costo para la Muelle, factor cúbico y Peso cubado.
 
-![simulador envioES](//images.ctfassets.net/alneenqid6w5/5Chp5OU2vGVkHDXtQEayoL/6cc66af540be3895ae3af7c9c842dde7/simulador_envioES.png)
+![simulador envioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 - [Simulador de Envío](/es/tutorial/simulacion-de-flete)
 
 ## Inventario
 
 Aquí es posible gestionar y acompañar el movimiento de inventario realizada en los productos de la Tienda. Tanto cuánto las reservas que el producto posee en aquel momento y si ya fueron confirmadas o no.
 
-![gerenciar inventarioES](//images.ctfassets.net/alneenqid6w5/7DXfGBySZsZmejB31WQBRK/7e629760904e66633a91146d74539a2c/gerenciar_inventarioES.png)
+![gerenciar inventarioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 - [Gestionar Inventario](/es/tutorial/gestionar-items-en-inventario)
 
 ## Envío por Geolocalización
 
 Aquí podremos montar “polígonos” para una atención logística específica, normalmente utilizado en zonas rurales e industriales, donde si hay la división por lotes, por ejemplo, o en áreas de riesgo, se hace necesario excluir determinados lugares dentro de una misma región. Su estructuración es dinámica, puede ser fácilmente y literalmente diseñada en el mapa la región a delimitarse. 
 
-![geolocalizaçaoE](//images.ctfassets.net/alneenqid6w5/4UrlnVmhHGhR2XEWU8bOwx/9e7f47a52db4e4234728b526cebdda4f/geolocaliza__aoES.png)
+![geolocalizaçaoE](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 - [Geolocalización](/es/tutorial/gestionar-geolocalizacion)
 
 ## Puntos de recogida
 
 En Puntos de recogira es posible eliminar, editar y agregar un *Pickup Point*. La feature de Puntos de Rcogida agrega mayor flexibilidad y mejor experiencia de compra para el cliente al permitirle la retirada del pedido en un punto físico.
 
-![pontos retiradaES](//images.ctfassets.net/alneenqid6w5/t58ChaH55346tKGLDD1wu/87f4cf5a13e62bccf5980e93e4f440ee/pontos_retiradaES.png)
+![pontos retiradaES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 - [Configurar Puntos de Recogida](http://help.vtex.com/es/tutorial/configurar-puntos-de-recogida-pickup-points)
 
 ## Festivos
 
 Aquí es posible registrar los días que **no** se considerarán útiles para su tienda. El módulo considerará los días festivos registrados en esta sección y estos días no se contabilizarán en el plazo de entrega.
 
-![feriadoES](//images.ctfassets.net/alneenqid6w5/naLgWqy2UVusNnzG9FdUc/8de4f976d60f5668a12c8537cff0b9d8/feriadoES.png)
+![feriadoES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
 - [Registrar Feriados](http://help.vtex.com/es/tutorial/registrar-feriados)
 
 ## Configuraciones Generales

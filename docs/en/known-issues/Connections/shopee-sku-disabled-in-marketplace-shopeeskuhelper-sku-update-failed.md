@@ -35,7 +35,7 @@ Even with price and stock correctly registered in the VTEX catalog, several prod
 
 Admin > Installed APPS > Shopee > Manage Products > Product Sync Status
 
- ![](https://vtexhelp.zendesk.com/attachments/token/5nItV4f72xEP8f530KkOaHpuD/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

@@ -119,6 +119,6 @@ Para adicionar um componente a essa página, basta declarar um novo bloco de pra
 
 Se salvar isso em `store/blocks.json` e rodar `vtex link` em sua loja, você deverá ver uma nova prateleira renderizada ao visitar a home page.
 
-![shelf](https://images.ctfassets.net/alneenqid6w5/6Hw3fRA4E8xC0Q4bNdO6gV/8b6742fd0c57a341db0cc0baea4cfb06/shelf.svg)
+![shelf](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.svg)
 
 Você pode personalizar os blocos declarados pela aplicativo `store-theme` livremente e também declarar novos. Por enquanto, você pode encontrar a documentação para cada componente em seus [repositórios do GitHub](https://github.com/vtex-apps?q=store-components). Lá você encontra as propriedades disponíveis para cada componente.

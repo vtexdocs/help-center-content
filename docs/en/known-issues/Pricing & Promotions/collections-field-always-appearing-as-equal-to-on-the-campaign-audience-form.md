@@ -22,7 +22,7 @@ internalReference: 697168
 
 Even if we set the field Collections as "Different from" and save the form, once we open it again the value is set as "Equal to". However, this behavior is only on the UI, on the backend the value is set correctly, having no impact on sales.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/XX8ZrsQE8jH3BqY6bVvUe7zIC/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 

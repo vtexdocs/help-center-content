@@ -25,7 +25,7 @@ Atualmente, a categoria global de produtos não está carregando corretamente os
 
 A seguinte exibição pode ser vista
 
- ![](https://vtexhelp.zendesk.com/attachments/token/kAdyffwxv7HiGYHQf7LnLmFvI/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ## Simulação
 

@@ -25,11 +25,11 @@ Para configurar a nova versão, você precisa primeiro solicitar à Rede a ativa
 
 Uma vez notificado, acesse o menu __e.Rede > Configurações > Geração de token__.
 
-![GerarToken](https://images.ctfassets.net/alneenqid6w5/2W5UP5c9EIwe4Ayaa8kk0k/835f7771328d57ae7ed764fbcbf340aa/GerarToken.png)
+![GerarToken](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Depois, basta clicar no botão __Gerar Token__.
 
-![GerarToken Click](//images.ctfassets.net/alneenqid6w5/36eVS4dU3CMa0qqiuaaICg/5e2e2f8e9bba46837ad973914c40d222/GerarToken_Click.png)
+![GerarToken Click](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Com isso, você vai poder visualizar o token que deverá ser informado no formulário de configuração da afiliação de gateway ERedeRest. Além do token, você também vai precisar informar o PV, que nada mais é do que o número de identificação do estabelecimento no site da Rede.
 
@@ -39,10 +39,10 @@ Para fazer essa configuração na VTEX, siga os passos abaixo:
 2. Em __Configurações__, acesse __Afiliações de Gateways__; 
 3. Clique no botão verde __+__ _Quero receber pagamento pelo conector..._ e procure o conector __ERedeRest.__
 
-![erederestPT](//images.ctfassets.net/alneenqid6w5/3RvR1eS0FWKyS8ImoQOk4I/13563c566f5f599885fc2f7759c6d826/erederestPT.jpg)
+![erederestPT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.jpg)
 
-![erederestPT-config](//images.ctfassets.net/alneenqid6w5/6ZD1t6RKfe468MASAycWEg/b38d8ecd1c455d09f82bceeb0317cfeb/erederestPT-config.jpg)
+![erederestPT-config](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.jpg)
 
-![PegarPV](//images.ctfassets.net/alneenqid6w5/5YuBm2nzkQ8oeqmGKGwUOy/fbadf9ac541985fce57139e764a4d0ed/PegarPV.png)
+![PegarPV](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 Este novo conector oferece uma série de opções de configuração, entre elas o suporte ao ApplePay.

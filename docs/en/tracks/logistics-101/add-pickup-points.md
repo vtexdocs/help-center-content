@@ -32,7 +32,7 @@ Follow the step-by-step below to add a pickup point in your store:
 
 
 
-![EN Cadastrar Pontos de Retirada GIF](https://images.ctfassets.net/alneenqid6w5/2vf3pXYddrDf1sybyoTon/efa6e8bc465fb5188c06b1d2deaa2eef/EN_Cadastrar_Pontos_de_Retirada_GIF.gif)
+![EN Cadastrar Pontos de Retirada GIF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 
 

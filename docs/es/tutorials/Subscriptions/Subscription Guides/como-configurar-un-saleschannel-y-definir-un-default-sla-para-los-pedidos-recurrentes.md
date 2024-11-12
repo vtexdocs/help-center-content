@@ -30,7 +30,7 @@ Basta incluir un atributo con el nombre `salesChannel`, conforme a lo ilustrado 
 
 Y entonces, los siguientes pedidos se crearán con el canal de ventas configurado. Si no hay stock para determinado ítem en este canal el ítem será excluido del pedido.  
 
-![posicao.es](https://images.ctfassets.net/alneenqid6w5/1lTacScACYmqyzHKSZCydV/7a6e296f63afec40cf30c97a6a61e1ec/posicao.es.png)
+![posicao.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 *Pantalla donde se encuentra el ID del salesChannel*
 
@@ -40,6 +40,6 @@ Basta incluir un atributo con el nombre `defaultSLA`, conforme a lo ilustrado en
 
 Y entonces, el SLA configurado tendrá precedencia sobre el SLA más barato para los siguientes pedidos que se crearán – y si éste tiene una ventana de entrega, será seleccionado el primer intervalo disponible.
 
-![transportadora.es](//images.ctfassets.net/alneenqid6w5/41hy7FOGA3p94j3YX5kwiW/66ddd21e4f2ec65ae4a2ede3af059bbf/transportadora.es.png)
+![transportadora.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 *Pantalla donde se encuentra el ID del SLA*

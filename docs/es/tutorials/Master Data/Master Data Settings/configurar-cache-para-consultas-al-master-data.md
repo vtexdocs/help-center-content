@@ -26,7 +26,7 @@ Para configurar esta capa de caché, siga los pasos abajo:
 2. Haga clic en __Novo__ para crear una nueva entidad o en el icono de lápiz de una entidad existente si desea editarla.
 3. Haga clic en la casilla de verificación __Tempo de cache para consultas paginadas__ ("Tiempo de caché para consultas paginadas") y elija el tiempo de caché para la entidad.
 
-![cacheMD](https://images.contentful.com/alneenqid6w5/7EJ8s7Z3uE0coc4QUkQcQC/0efbe18c6bd8018165e18f6d87da765f/cacheMD.jpg)
+![cacheMD](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.jpg)
 
 Las opciones de tiempo de caché son:
 - 5 horas

@@ -25,14 +25,14 @@ Previously, merchants could see the **Consider discount for boleto payment in th
 
 >⚠️ The **Apply discount to submitted price** setting is only available for VTEX stores in Brazil.
 
-![envio-de-precos-google-en](https://images.ctfassets.net/alneenqid6w5/5ZZihnxaawRM55WkmZ8YJA/419f9830910ef18e14deec1eef56f5aa/envio-de-precos-google-en.png)  
+![envio-de-precos-google-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)  
 
 ## What needs to be done?
 
 As of December 14, 2023, the update will be available to all [VTEX accounts acting as sellers](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-seller).
 Accounts not using the Google Shopping integration but wanting to activate the __Submit base price (for discount prices)__ and __Apply discount to submitted price__ settings should follow [this article track](https://help.vtex.com/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/2kGKxwD9HKJvTLDTikQ4z) to start using the new settings. Accounts that are integrated with Google Shopping and have the __Consider discount for boleto payment in the submitted price__ setting active will automatically have the __Apply discount to submitted price__ option active after the update, as shown in the image below:
 
-![fluxo-update-news-google-en](//images.ctfassets.net/alneenqid6w5/3JvNH6bvMe4warWK5aOrNv/8feca453a73f6c2a09f311f9b482d8da/fluxo-update-news-google-en.png)
+![fluxo-update-news-google-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Check out the documentation and learn how to [configure a discount linked to a payment method](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/3AqbcsWrge8zLt0BC5CtGd#desconto-vinculado-ao-metodo-de-pagamento) and [how to configure a discount in the connector](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
 

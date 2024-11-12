@@ -35,10 +35,10 @@ La lista de categorías de tu tienda VTEX incluye el status del mapeo a través 
 
 | Icono | Status | Descripción |
 | ---------- | ---------- | ---------- | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado**| Indica que se completó el mapeo de la categoría. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6v4eFsWHVy8F5VIqTVLQD9/e63d945d60a958a37246f57d919eede8/mapeamentoincompleto_mapper.JPG" /> | **Mapeo incompleto** | La categoría está parcialmente mapeada y requiere que se rellenen los atributos obligatorios, indicados con un asterisco, para mapearla. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Error en el mapeo** | Se produce un error en el mapeo cuando el marketplace elimina o cambia la categoría del producto.  Para resolver este problema, solo hay que rehacer el mapeo de categorías. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **No mapeada** | Indica que la categoría no fue mapeada. |
+| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.JPG" /> | **Mapeado**| Indica que se completó el mapeo de la categoría. | 
+| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.JPG" /> | **Mapeo incompleto** | La categoría está parcialmente mapeada y requiere que se rellenen los atributos obligatorios, indicados con un asterisco, para mapearla. | 
+| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.JPG" /> | **Error en el mapeo** | Se produce un error en el mapeo cuando el marketplace elimina o cambia la categoría del producto.  Para resolver este problema, solo hay que rehacer el mapeo de categorías. | 
+| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.JPG" /> | **No mapeada** | Indica que la categoría no fue mapeada. |
 
 La página de mapeo también contiene las secciones **Categoría del marketplace** y **Mapeo de atributos**. Ambas aparecen como una opción de menú de selección en el que si se hace clic sobre la flecha, se muestran nuevos campos e información.
 
@@ -55,7 +55,7 @@ Para finalizar el mapeo de la categoría, debes seguir las instrucciones a conti
 
 ## Mapear atributos
 
-![Home (8)](https://images.ctfassets.net/alneenqid6w5/1WVspX796PMYQcgOycbhVC/5de9a1c9a262f8556b2eb82b9fd6cf20/Home__8_.gif)
+![Home (8)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 El mapeo de los atributos permite que haya una correspondencia entre el patrón de tu tienda VTEX y el patrón utilizado por Mercado Libre. Cada categoría tiene atributos obligatorios en Mercado Libre y es necesario rellenarlos para que el mapeo pueda completarse. Los campos no mapeados no impiden que se realice el mapeo, sin embargo, mientras más atributos de tu producto se envíen a Mercado Libre, mejor clasificado estará en ese marketplace.
 
@@ -70,6 +70,6 @@ Para mapear los atributos, sigue los pasos a continuación:
 7. Si deseas personalizar un atributo, haz clic en el botón `Agregar valor personalizado` y crea un nombre para el valor del atributo personalizado.
 8. Haz clic en `Guardar cambios`.
 
-Al finalizar el mapeo de categorías y atributos correctamente, el status de la categoría cambiará a **Mapeado** <img class="shadow-4" src="https://images.contentful.com/alneenqid6w5/6Zu9VaGjbucOthXQsFwTD1/8681ab7d7e4fd12b41daae3c69afd552/mapper_correto.JPG" /> y tus productos se anunciarán en el sitio web de Mercado Libre.  
+Al finalizar el mapeo de categorías y atributos correctamente, el status de la categoría cambiará a **Mapeado** <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.JPG" /> y tus productos se anunciarán en el sitio web de Mercado Libre.  
 
 Después del mapeo de productos de moda, como ropa y calzado, es necesario enviar la tabla de medidas del producto a Mercado Livre. Para saber cómo llenar y enviar la tabla de medidas, sigue el tutorial [Tabla de medidas de Mercado Livre](https://help.vtex.com/pt/tutorial/tabela-de-medidas-do-mercado-livre--5dCc9IJ83SjllG75BVCWnr)

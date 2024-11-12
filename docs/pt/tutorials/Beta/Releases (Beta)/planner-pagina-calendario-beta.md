@@ -35,7 +35,7 @@ O **Calendário** apresenta somente [lançamentos agendados](https://help.vtex.c
 
 A imagem a seguir apresenta a visualização por mês e identifica o que você pode realizar pela interface:
 
-![releases-calendar-monthly-view-pt](https://images.ctfassets.net/alneenqid6w5/BQCF0b8kNzGTOv06wCOde/6f066a16c87c6bccc2ac229dd83cca4b/releases-calendar-monthly-view-pt.png)
+![releases-calendar-monthly-view-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Nesta tela, é possível:
 
@@ -53,7 +53,7 @@ Nesta tela, é possível:
 
 A imagem a seguir apresenta a visualização por semana e identifica o que você pode realizar na interface:
 
-![releases-calendar-weekly-view-pt](//images.ctfassets.net/alneenqid6w5/QHZDKB0IX07GLoEO84NJv/936efd12d08cbcc539bccfad7dc9da55/releases-calendar-weekly-view-pt.png)
+![releases-calendar-weekly-view-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 Nesta tela, é possível:
 
@@ -71,7 +71,7 @@ Nesta tela, é possível:
 
 A imagem a seguir apresenta a visualização por dia e identifica o que você pode realizar na interface:
 
-![daily view v2 pt](//images.ctfassets.net/alneenqid6w5/5dwgo1qqTYNFMKV4sBNW0Q/6b5ee0b8d3f0ede45eb8bc70b0c3f885/daily_view_v2_pt.png)
+![daily view v2 pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 Além de visualizar informações sobre o lançamento, nesta tela, é possível:
 

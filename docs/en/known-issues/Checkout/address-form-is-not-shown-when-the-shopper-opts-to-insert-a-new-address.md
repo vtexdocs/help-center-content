@@ -31,12 +31,12 @@ Sometimes, when an identified shopper tries to add a new address in checkout's s
 - Go to checkout, identify as a shopper with a complete profile and proceed to the shipping step;
 - Choose the option to deliver to a new address;
 
- ![](https://vtexhelp.zendesk.com/attachments/token/TFgWp6jleflU5LlPZ3rd4KcTQ/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 - Enter the postal code and a message requiring authentication will appear.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/iTNky5H9cDijZ00prjAwQv24h/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 
 ##

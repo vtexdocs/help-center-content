@@ -21,7 +21,7 @@ The __Invoices__ screen in the VTEX Admin (__Apps > Customer Credit > Invoices__
 - [Settle invoices](#settle-invoices)
 <br>
 <br>
-![Invoices_EN](https://images.ctfassets.net/alneenqid6w5/6otbbLNAHn0hHmKvkYmrj2/5f6f07bf3e43e11762d057b41b2277bb/Invoices_EN.JPG)
+![Invoices_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.JPG)
 
 ## Invoice filter
 

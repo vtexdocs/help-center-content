@@ -37,7 +37,7 @@ Utilizando la API mencionada, cree un producto informando, en la ruta de la cate
 
 Como ejemplo, compruebe el árbol siguiente:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/0RlxkVj9Gvd2ukR1vZcxdcmyC/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Esto significaría informar en la ruta "Departamento/Categoría2/Subcategoría1".
 

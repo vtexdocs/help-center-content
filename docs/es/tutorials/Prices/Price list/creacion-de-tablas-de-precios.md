@@ -23,7 +23,7 @@ Para crear una Tabla de Precios siga estos pasos:
  4. Elija el nombre de la tabla de precios que desea crear.
  5. Clic **Crear tabla de precios**.
 
-![creacion-de-tablas-de-precios](https://images.ctfassets.net/alneenqid6w5/1aG692obTeP7RMdEQd7jGE/fdc959523e5c2608a20bb3f454d064a3/criar-tabela-precos-es.gif)
+![creacion-de-tablas-de-precios](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 Para encontrar una Tabla de Precio:
 

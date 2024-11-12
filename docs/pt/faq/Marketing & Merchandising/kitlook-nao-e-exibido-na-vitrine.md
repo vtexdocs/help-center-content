@@ -32,7 +32,7 @@ __Preencha o campo da Label__
 4. Vá para a aba __Imagens__
 5. Insira um termo para preencher a __Label__
 
-  ![Kit Look - Label - PT](https://images.ctfassets.net/alneenqid6w5/7FR879Lzl3eEDmAHiBV0TV/ba398076f25a3f1bc85df073e0e571c4/7FR879Lzl3eEDmAHiBV0TV_pt.png)
+  ![Kit Look - Label - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 6. Clique em __Salvar__
 

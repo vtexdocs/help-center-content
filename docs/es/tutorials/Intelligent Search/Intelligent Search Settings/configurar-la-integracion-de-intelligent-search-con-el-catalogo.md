@@ -25,6 +25,6 @@ Sigue las instrucciones a continuación para iniciar el proceso de integración:
 
 Se dará inicio al proceso de indexación. Una vez completado, se mostrará la siguiente pantalla:
 
-![integracoes-es](https://images.ctfassets.net/alneenqid6w5/3biSEYFprYPdnhQpgfpGhV/0e53cf7952ac60b089bbcb5f6441640e/integracoes-es.PNG)
+![integracoes-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.PNG)
 
 No es necesario repetir este proceso. Una vez iniciada la integración, puedes realizar un seguimiento del status de indexación en la página [Historial de indexación](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).

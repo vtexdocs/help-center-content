@@ -65,7 +65,7 @@ If you choose this option, you are required to fill in the information described
    * *I have a concern and would like to ask a question*
    * *I would like to request a setup*
 2. In the **Request subject** field, fill in the information about the type of problem you need help with. Based on your problem description, we will indicate some articles from the [Help Center](https://help.vtex.com/en/) that might help you solve your problem. If none of these articles can help you solve your problem, please move on to the next step.
-![https help.vtex.com en support](https://images.ctfassets.net/alneenqid6w5/2HMCgvH7smDk0aRpZqbNx7/0daa37d669331fdeeea4c91ff8e41684/https___help.vtex.com_en_support.gif)
+![https help.vtex.com en support](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 3. Click `Continue`.
 You will be redirected to another page.
 4. In the Problem impact field, select the option that best describes the scenario:

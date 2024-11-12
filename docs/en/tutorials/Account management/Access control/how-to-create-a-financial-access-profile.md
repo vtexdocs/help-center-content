@@ -31,7 +31,7 @@ To create a financial role, follow the walkthrough below:
 6. (Optional) Before saving, you can **add users to this role**.
 7. Click on **Save**.
 
-![gif perfildeacessoEN](https://images.ctfassets.net/alneenqid6w5/6s1lN2aC88o56Ps2OSD9jy/1c0fbd165d803a9a6c0fddac7ce8d477/gif_perfildeacessoEN.gif)
+![gif perfildeacessoEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
 
 After you’ve created the financial role, you can associate it with your existing users.
 
@@ -44,10 +44,10 @@ To associate a user with the Finance role you’ve created, follow the steps bel
 3. Click on the **Users** tab.
 4. Select the user you want to associate with the role.
 5. Choose the **Financial role**.
-6. Click on the <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2jZogtT8WT3XVmv5U6yXh/2dc70b446b9aad1b27840e64b2cf15ce/bot__o_adicionar.png" /> button, next to the role, to add it.
+6. Click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png" /> button, next to the role, to add it.
 7. Click on **Save**.
 
-![gif usuárioEN](//images.ctfassets.net/alneenqid6w5/4UkPeH2Sfsp2KiSvozclnk/ef5a0fe13d88461cc9057e75cce09151/gif_usu__rioEN.gif)
+![gif usuárioEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.gif)
 
 The selected user is now associated with the Financial role and will be able to access invoices, contract information, charges and other financial information.
 

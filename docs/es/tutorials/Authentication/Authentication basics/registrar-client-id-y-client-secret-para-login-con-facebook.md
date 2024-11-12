@@ -17,7 +17,7 @@ subcategoryId: 14V5ezEX0cewOMg0o0cYM6
 
 Para activar el inicio de sesión por OAuth2 a través de Facebook, accede al Admin VTEX > **Configuración de cuenta > Autenticación** y completa los campos **Client ID** y **Secreto del cliente**, tal como se describe en el artículo [Configurar inicio de sesión con Facebook y Google](https://help.vtex.com/es/tutorial/configurar-inicio-de-sesion-con-facebook-y-google--tutorials_513).
 
-![Facebook OAuth ES](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/e85e70614c1ff706937104c8f5ec917c/1-login-fb-es.PNG)
+![Facebook OAuth ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.PNG)
 
 Para obtener las credenciales, sigue las instrucciones en las secciones a continuación:
 
@@ -35,12 +35,12 @@ Para empezar, debes registrar una aplicación en Facebook siguiendo los pasos a 
 4. Haz clic en `Crear app`.
 5. Haz clic en **Permitir que las personas inicien sesión con su cuenta de Facebook** entre las opciones que se ilustran a continuación.
 
-   ![2-login-fb-es](//images.ctfassets.net/alneenqid6w5/3zv1li5neUPsSK8VhPaRy0/077ab05e546169ba636a59aca0281498/2-login-fb-es.png)
+   ![2-login-fb-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 6. Haz clic en `Siguiente`.
 7. Añade el nombre de la aplicación y el correo electrónico de contacto de la persona responsable de la aplicación en los campos que se ilustran a continuación.
 
-   ![3-login-fb-es](//images.ctfassets.net/alneenqid6w5/1Yg8Du8HKxU7rW15ZsL6vD/d2dc7a5cb5d859f25a892ad3e93575fe/3-login-fb-es.png)
+   ![3-login-fb-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 8. Haz clic en `Crear app`.
 
@@ -50,15 +50,15 @@ El siguiente paso es configurar el producto Inicio de sesión con Facebook en la
 
 1. Haz clic en **Productos** en el menú lateral o en el **panel **de Meta for Developers, resaltado en la imagen siguiente.
 
-   ![4-login-fb-es](//images.ctfassets.net/alneenqid6w5/2wNKd6gswgFQAghpNdvEVq/967682b6e1942ed15ab2c40d75f8a4f0/4-login-fb-es.png)
+   ![4-login-fb-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
 2. Haz clic en `Configurar` y después selecciona `Configurar` en el menú desplegable.
 
-   ![5-login-fb-es](//images.ctfassets.net/alneenqid6w5/vMQDtOfYgSZfo7EOYuNel/3c181d675c97d893402af45974d65e95/5-login-fb-es.png)
+   ![5-login-fb-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.png)
 
 3. Define los estados como se detalla a continuación:
 
-   ![Configuração URI OAuth Facebook ES](//images.ctfassets.net/alneenqid6w5/5Y82HZJjF3ZDIVE5WD4Lvt/1e318e6f8fb6c7465445f7c25fddf883/configuracoes_Oauth_ES.png)
+   ![Configuração URI OAuth Facebook ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.png)
 
    Inserta las URL siguientes en **URI de redireccionamieno de OAuth válidos**, sustituyendo `{{HOST_URL}}`  por la URL base de tu tienda y `{{accountName}}` por el nombre de tu cuenta tal y como se describe en el menú de administración de la tienda:   
 
@@ -74,7 +74,7 @@ Por último, debes rellenar algunos datos sobre la aplicación para completar el
 
 1. En el menú lateral de Meta for Developers, haz clic en **Configuración de la aplicación** y después en **Básica:**
 
-   ![7-login-fb-es](//images.ctfassets.net/alneenqid6w5/4rhVhY9V6N117s3XwZ59No/f84756573e40f40e8f94c062e68da397/7-login-fb-es.png)
+   ![7-login-fb-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.png)
 
 2. Copia el valor del campo **Identificador de la aplicación**. Debes ingresar este valor en el campo **Client ID** al [configurar el Inicio de sesión con Facebook en el Admin VTEX](https://help.vtex.com/es/tutorial/configurar-inicio-de-sesion-con-facebook-y-google--tutorials_513).
 3. En **Clave secreta de aplicación**, haz clic en el botón **Mostrar** y, a continuación, copia el valor del campo. Debes ingresar este valor en el campo **Secreto del cliente** al [configurar el inicio de sesión con Facebook en el Admin VTEX](https://help.vtex.com/es/tutorial/configurar-inicio-de-sesion-con-facebook-y-google--tutorials_513).

@@ -21,7 +21,7 @@ internalReference: 544034
 
 Link "Why fill VTEX Global Category?" on category setup only works opening in a new tab. trying to open by just clicking on the link will redirect to an Error Page.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/Hhun8gyXHxWgk1qnUHWreWIBo/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 
 ##

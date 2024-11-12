@@ -34,7 +34,7 @@ Vea abajo una lista con las clases disponibles para customización:
 
 ### Lista de pedidos
 
-![Página de lista del pedido con clases para customización en destaque](https://images.contentful.com/alneenqid6w5/1P5JMzt3jGIAKIOmC4ka4e/d7511d7273f4a957acc6f7e1322a81e6/my-orders-doc-1.png)
+![Página de lista del pedido con clases para customización en destaque](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 CSS:
 ```
@@ -69,7 +69,7 @@ CSS:
 
 ### Detalle del Pedido
 
-![Página de detalles del pedido con clases para customización en destaque](//images.contentful.com/alneenqid6w5/CF8gDhZGeG2qYK44AKW68/6a46176cb65fa479f1687fd82a3bfd12/my-orders-doc-2.png)
+![Página de detalles del pedido con clases para customización en destaque](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
 CSS:
 ```
@@ -84,7 +84,7 @@ CSS:
 
 ### Cancelación de pedido
 
-![Página de cancelación del pedido con clases para customización en destaque](//images.contentful.com/alneenqid6w5/1WTQWTszjSqasKY82KuemC/56ca4c3e5a1264d35d40b8753f473065/my-orders-doc-3.png)
+![Página de cancelación del pedido con clases para customización en destaque](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
 
 CSS:
 ```

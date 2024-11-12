@@ -31,7 +31,7 @@ Atualmente, ao filtrar exclusivamente o vendedor principal nos menus do Catálog
 1. Vá para qualquer menu do catálogo, como Import/Export
 2. Filtre o vendedor principal da conta:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/6dygVHVlzTTdqYD3jOyV10DaZ/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 3. Nenhum resultado será exibid
 
 ## Workaround

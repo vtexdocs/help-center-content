@@ -44,7 +44,7 @@ Set the following price:
 
 The response will be:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/P3rVVQbx6nfqtX2W1UMAbb0V8/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 Which breaks the pricing logic and makes the product unavailable, since the checkout and catalog applications aren't able to deal with negative price values.
 
