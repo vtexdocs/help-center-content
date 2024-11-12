@@ -20,13 +20,13 @@ internalReference: 1118712
 
 
 When searching for a pickup point in Logistics, the following error may occur:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/tGzdaXqZCHcgtcGaPagLU0yZu/?name=image.png)
 
     An error occurred while loading the pickup points. Please reload the page.
 
 
 Also in this same scenario, there is an impact on the webstore, which uses the Store Locator app to list its stores, then the list of stores will not be shown:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Dv85rVttxoEMwVXMsMmTxWoI1/?name=image.png)
 
 
 ##

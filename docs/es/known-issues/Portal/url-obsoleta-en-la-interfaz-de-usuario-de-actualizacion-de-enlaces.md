@@ -22,7 +22,7 @@ internalReference: 890791
 
 
 Cuando el comerciante es la actualización de una licitación de la interfaz de usuario es como sigue:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Portal/url-obsoleta-en-la-interfaz-de-usuario-de-actualizacion-de-enlaces_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/UfffIyuM7K7isQMiPnAqRvSiW/?name=image.png)
 
 Al intentar ir al enlace del gestor de licencias, se les redirige a una página de SWW.
 

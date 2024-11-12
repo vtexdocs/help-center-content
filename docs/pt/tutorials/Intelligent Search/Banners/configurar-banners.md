@@ -27,7 +27,7 @@ Depois de realizar as configurações do banner, você deve adicioná-lo a uma p
 
 >ℹ️ Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo [VTEX Intelligent Search: configurações Multi-idioma (Beta)](https://help.vtex.com/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO#banners) para saber mais.
 
-![banner-form-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Intelligent Search/Banners/configurar-banners_1.png)
+![banner-form-pt](https://images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/4be57613a6396be3b68aeee7084eba3a/image.png)
 
 ## Campos de cadastro do banner
 
@@ -58,7 +58,7 @@ Para cadastrar o banner, é necessário preencher os seguintes campos:
 
 Clique em <i class="fa-solid fa-link"></i> `Preencher a partir de uma URL` para adicionar a URL da página de busca em as regras de ativação serão aplicadas. 
 
-![banner-url-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Intelligent Search/Banners/configurar-banners_2.png)
+![banner-url-pt](//images.ctfassets.net/alneenqid6w5/2ldGnmahkPao4EbISls3gu/eb9677cd365433d38a4459c7877bb646/image.png)
 
 Clique em <i class="fas fa-plus"></i> `Adicionar condição` para criar uma regra. Elas podem ser dos seguintes tipos:
 

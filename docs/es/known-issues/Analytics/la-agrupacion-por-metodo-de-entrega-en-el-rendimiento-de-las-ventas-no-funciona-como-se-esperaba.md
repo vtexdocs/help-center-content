@@ -23,7 +23,7 @@ internalReference: 639294
 
 Cuando se intenta agrupar por el método de entrega en el tablero de rendimiento de ventas, aparece un error:
 "No se pueden cargar los datos. Por favor, haga clic en el botón de abajo para volver a cargar la información".
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Analytics/la-agrupacion-por-metodo-de-entrega-en-el-rendimiento-de-las-ventas-no-funciona-como-se-esperaba_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/aT7lkza6qQLaDyFJvy5G0YYED/?name=image.png)
 
 ##
 

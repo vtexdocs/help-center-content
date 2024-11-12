@@ -32,7 +32,7 @@ Outro comportamento inesperado é que outros módulos continuam disponíveis par
   - Menu CMS na barra superior;
   - Configurações do CMS.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Portal/a-funcao-de-configuracoes-do-cms-nao-esta-funcionando-como-esperado_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/fbpObVoVdnEYGeYjd3GDh9Qqf/?name=image.png)
 
 
 - Associe essa função a um usuário;

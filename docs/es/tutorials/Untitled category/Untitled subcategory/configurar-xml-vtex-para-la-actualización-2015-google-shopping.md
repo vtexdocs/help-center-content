@@ -21,7 +21,7 @@ Siguiendo la [Actualización de 2015 de la Especificación del feed del Google S
 
 La configuración patrón de nuestro formulario de XML ya está con las tags actualizadas, para crear un nuevo feed Google Merchant / Shopping basta seleccionar la opción “Feed: Atom 1”:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/configurar-xml-vtex-para-la-actualización-2015-google-shopping_1.gif)
+![](https://images.contentful.com/alneenqid6w5/2ugQUy4xlaaUEOIYuu6UMe/41fd01c32b6954b14e1ef5818b94ca0c/atom1_xml_vtex_google.gif)
 
 Para la correcta integración con el Google Merchant / Shopping será necesario actualizar el xml con los nuevos campos a partir del 15 de septiembre de 2015.
 
@@ -31,7 +31,7 @@ Conozca los nuevos campos del formulario de XML:
 
 Opción responsable de la definición de la taxonomía de los campos “Categoría” y “Departamento + Categoría”. Comúnmente utilizado para el llenado de la tag [g:product\_type].
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/configurar-xml-vtex-para-la-actualización-2015-google-shopping_2.gif)
+![](//images.contentful.com/alneenqid6w5/3dgBcIJZgcKSW2YKCaksmW/653d517228e7d303e7326dfa1dcedbc1/separador_categoria_xml_vtex_google.gif)
 
 Patrón (Ej.: Categoría Padre – Categoría Hija – Categoría Nieta)
 
@@ -47,7 +47,7 @@ Campo responsable de la relación de las categorías de su tienda con las catego
 
 Deberá llenarse con la tag [g:google\_product\_category]
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/configurar-xml-vtex-para-la-actualización-2015-google-shopping_3.gif)
+![](//images.contentful.com/alneenqid6w5/307z7lsmEMgQMWIOUQWk8K/9d854eb77bb73e1c79d5307c78fb0215/categoria_global_xml_vtex_google.gif)
 
 Para el correcto funcionamiento de este campo es necesario verificar si el producto tiene el campo **Categoría Global** llenado en el catálogo VTEX.
 

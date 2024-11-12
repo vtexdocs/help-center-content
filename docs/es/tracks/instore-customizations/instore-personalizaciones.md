@@ -34,11 +34,11 @@ Alternativamente, puede buscar el archivo de configuración desde la página de 
 
 En el menú principal, haga clic en __Checkout__ y luego haga clic en el símbolo de engranaje de la tienda, como se muestra en la imagen a continuación.
 
-![20. inStore Customizations - 1 - ES.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-customizations/instore-personalizaciones_1.png)
+![20. inStore Customizations - 1 - ES.png?h=250](https://images.ctfassets.net/alneenqid6w5/4EDg8NKDGXRYEG6C8t6TjM/5e7c8c88e79ad04b7c6b0a31795a0b20/20._inStore_Customizations_-_1_-_ES.png_h_250)
 
 Haga clic en la pestaña __Código__ y luego en el archivo `checkout-instore-custom.js`, que se encuentra en la lista de archivos a la derecha.
 
-![20. inStore Customizations - 2 - ES.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-customizations/instore-personalizaciones_2.png)
+![20. inStore Customizations - 2 - ES.png?h=250](//images.ctfassets.net/alneenqid6w5/6mGe02KwVH7z0HGy6UpgKQ/6d4d983a3aa4bf7e3ec98540b3bc23f0/20._inStore_Customizations_-_2_-_ES.png_h_250)
 
 ## Cambiar el archivo de personalización del inStore
 
@@ -46,7 +46,7 @@ Haga clic en la pestaña __Código__ y luego en el archivo `checkout-instore-cus
 
 Para realizar cualquier cambio, simplemente agregue o modifique las líneas de código directamente en el cuadro de edición de archivos, en el Admin de VTEX, y finalmente haga clic en el botón __Guardar__, como se muestra en la imagen a continuación.
 
-![20. inStore Customizations - 3 - ES.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-customizations/instore-personalizaciones_3.png)
+![20. inStore Customizations - 3 - ES.png?h=250](//images.ctfassets.net/alneenqid6w5/7xWS4qln2lhLN1CgM9VwOy/69495b399f32730531e0b8eb553d6d94/20._inStore_Customizations_-_3_-_ES.png_h_250)
 
 >⚠️ Siga siempre las instrucciones de personalización en esta documentación y realice solo los cambios como se indica aquí.
 

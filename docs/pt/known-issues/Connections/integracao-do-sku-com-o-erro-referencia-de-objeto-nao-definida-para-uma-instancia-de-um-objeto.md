@@ -30,7 +30,7 @@ Alguns skus no Mercado Livre estão com erro de registro: "Referência de objeto
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/integracao-do-sku-com-o-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/ZGOJZmpO93pL3HqOVp0dDmzKh/?name=image.png)
 
 Válidos e testes:**_
 - A Sku não está registrada em Meli;

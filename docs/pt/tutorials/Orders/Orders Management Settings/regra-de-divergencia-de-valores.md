@@ -27,7 +27,7 @@ A regra de Divergência de valores é composta de uma ou mais regras de autoriza
 - **Negar automaticamente:** pedidos com diferença de preço até a porcentagem definida são automaticamente recusados e não são integrados.
 - **Criar uma tarefa no VTEX DO para aprovação:** para diferenças de preço dentro do intervalo configurado, o pedido é integrado, mas fica pendente de [autorização manual](https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#autorizar-pedidos-manualmente) por parte de um usuário habilitado.
 
-![price_divergence_rules_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/Orders Management Settings/regra-de-divergencia-de-valores_1.png)
+![price_divergence_rules_PT](https://images.ctfassets.net/alneenqid6w5/3eUHS2dcIUY5KiDshLpurc/f3858b3abbc1be86fd281ba357198e3f/price_divergence_rules_PT.png)
 
 Quando a [configuração de uma regra de Divergência de valores](https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe) não foi feita, pedidos com erro de divergência de preço são aprovados automaticamente. Isso vale para marketplaces VTEX, marketplaces externos e conectores certificados (parceiros), mas não para [conectores nativos](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex).
 

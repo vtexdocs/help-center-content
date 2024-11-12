@@ -29,7 +29,7 @@ Basta incluir um atributo com o nome `salesChannel`, conforme ilustrado na rota
 
 A partir de então, os próximos pedidos serão criados com o canal de vendas configurado. Caso não tenha estoque para determinado item neste canal o item será excluido do pedido.   
 
-![posicao.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription Guides/como-configurar-um-saleschannel-e-definir-um-default-sla-na-recorrencia_1.png)
+![posicao.pt](https://images.ctfassets.net/alneenqid6w5/7aFEnASwXi9emVUzKJr4pm/8c5f2727be50812817612850e19769cb/posicao.pt.png)
 
 *Tela onde se encontra o ID do salesChannel*
 
@@ -39,6 +39,6 @@ Basta incluir um atributo com o nome `defaultSLA`, conforme ilustrado na rota d
 
 A partir de então, SLA configurado terá precedência sobre o SLA mais barato para os próximos pedidos que serão criados - sendo que se este possuir uma janela de entrega, será selecionado o primeiro intervalo disponível.
 
-![transportadora.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription Guides/como-configurar-um-saleschannel-e-definir-um-default-sla-na-recorrencia_2.png)
+![transportadora.pt](//images.ctfassets.net/alneenqid6w5/1NuCXhjhtIOiYBhtLev1ed/da96b6ce00fdc241f96d81e3184c194f/transportadora.pt.png)
 
 *Tela onde se encontra o ID do SLA*

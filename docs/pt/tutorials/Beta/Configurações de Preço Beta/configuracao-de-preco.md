@@ -54,11 +54,11 @@ Para criar uma nova regra, siga os passos a seguir:
     - **Sempre ativar:** a tabela de preço está constantemente ativada, independente de condições.
     - **Ativar em condições específicas:** a tabela de preço será ativada segundo as condições configuradas na regra. Veja as possibilidades de configuração com as imagens a seguir:
     
-    ![PT-regra-tabela-de-preco3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configurações de Preço Beta/configuracao-de-preco_1.png)
+    ![PT-regra-tabela-de-preco3](https://images.ctfassets.net/alneenqid6w5/45Vklz3dKi6SH0o1Rcz33I/93beeac027a6f9ab037f348a63d2ba03/PT-regra-tabela-de-preco3.png)
     
-    ![PT-regra-tabela-de-preco](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configurações de Preço Beta/configuracao-de-preco_2.png)
+    ![PT-regra-tabela-de-preco](//images.ctfassets.net/alneenqid6w5/3ClC00TNkMXFIgflRdepP/d46d2298cf13f37cbbbd71acca0d39ae/PT-regra-tabela-de-preco.png)
   
-    ![PT-regra-tabela-de-preco2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configurações de Preço Beta/configuracao-de-preco_3.png)
+    ![PT-regra-tabela-de-preco2](//images.ctfassets.net/alneenqid6w5/3M4QVimY2pgh2NBuuO9u7s/3aa68e1602f16548be024f29448fa21a/PT-regra-tabela-de-preco2.png)
     
 7. Clique em Confirmar.
 

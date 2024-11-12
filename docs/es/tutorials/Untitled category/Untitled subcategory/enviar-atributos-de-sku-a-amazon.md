@@ -19,7 +19,7 @@ Hechas las configuraciones iniciales para la [integración con Amazon](/es/tutor
 
 La asignación sólo se realizará una vez para cada categoría. De esta forma, incluso ya habiendo hecho un mapeo, cuando nuevos productos sean creados, ellos serán integrados directamente. Se hará un __de/para__ de los atributos registrados en VTEX con los atributos aceptados por Amazon.
 
-1. Cree una __planilla de upload__ en el formato `.xlsx` y rellene el título de las columnas según la imagen abajo.![Modelo Atributos Amazon](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/enviar-atributos-de-sku-a-amazon_1.png)
+1. Cree una __planilla de upload__ en el formato `.xlsx` y rellene el título de las columnas según la imagen abajo.![Modelo Atributos Amazon](https://images.ctfassets.net/alneenqid6w5/1oqAPItLPaMc8gYICU6oWa/7d54955d0c179a2fbcb036e62ede9dc3/Modelo_Atributos_Amazon.png)
 
 2. Rellene los campos de la hoja de asignación de acuerdo con las indicaciones siguientes:
 
@@ -43,7 +43,7 @@ La asignación sólo se realizará una vez para cada categoría. De esta forma, 
 
 Planilla de ejemplo usando la categoría Clothing & Accessories:
 
-![Amazon Mapeamento ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/enviar-atributos-de-sku-a-amazon_2.png)
+![Amazon Mapeamento ](//images.ctfassets.net/alneenqid6w5/5p6RrFb0T6my86cCOmW0c8/a5e93f7732929c9d9ea4cc0dd855b9a1/Amazon_Mapeamento.png)
 
 >❗ Recuerde que estos valores deben estar de acuerdo con los valores acceptados por Amazon. Consulte los términos permitidos y haga el De/Para entre lo que está registrado en su campo SKU en VTEX y los valores acceptador por Amazon.
 

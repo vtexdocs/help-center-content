@@ -3,8 +3,8 @@ title: 'As estratégias de envio'
 id: 4IPeNztIXsZI4oA5TyES9N
 status: PUBLISHED
 createdAt: 2022-03-07T17:45:18.081Z
-updatedAt: 2022-03-10T16:12:39.772Z
-publishedAt: 2022-03-10T16:12:39.772Z
+updatedAt: 2024-11-05T17:58:52.520Z
+publishedAt: 2024-11-05T17:58:52.520Z
 firstPublishedAt: 2022-03-07T18:16:31.599Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -18,13 +18,13 @@ As opções de envio que ficam disponíveis para o cliente no checkout da sua lo
 
 A estratégia de envio define como os estoques, as docas e as políticas de envio interagem para atender às necessidades dos seus clientes e do seu negócio. 
 
-![Estrategia Envio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/logistics-101/as-estrategias-de-envio_1.png)
+![Estrategia Envio](https://images.ctfassets.net/alneenqid6w5/a0tXw0SPa0zFg5o0byFeS/3b4eb756f2c833f5b3fa7726c3cbdce7/Estrategia_Envio.png)
 
 A estratégia de envio é definida por três entidades logísticas:
 
 * [Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140): regras acordadas entre lojas e [transportadoras](https://help.vtex.com/pt/tutorial/o-que-e-uma-transportadora--7u9duMD5UQa2QQwukAWMcE). É na política de envio que a loja deve cadastrar as condições de entrega que a transportadora oferece. Com essas informações, a plataforma filtra e calcula quais transportadoras satisfazem as condições do pedido e apresenta ao cliente. A política de envio também é utilizada para selecionar o envio por [pontos de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R).
-* [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb): identificação do local de armazenamento dos itens. A política de envio não é a única variável para a escolha da entrega; é preciso considerar, também, em qual estoque estão os produtos do pedido.
 * [Doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj): ponto de retirada do estoque. É pela doca que a loja define a retirada dos pacotes. As transportadoras retiram os pacotes para envio pela doca.
+* [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb): identificação do local de armazenamento dos itens. A política de envio não é a única variável para a escolha da entrega; é preciso considerar, também, em qual estoque estão os produtos do pedido.
 
 >ℹ️ Há outros cenários possíveis para o uso de docas. Consulte o artigo [Doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) e confira os casos de uso. Para saber mais sobre o fluxo das entregas, consulte o artigo [Como funciona o fluxo de entregas](https://help.vtex.com/pt/tutorial/como-funciona-o-fluxo-de-entregas--4ku3QKWfxmUO8UgA0yqgUq).
 
@@ -42,9 +42,8 @@ Note que:
 A ordem sugerida de configuração para o funcionamento esperado das [estratégias de envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)  é:
 
 1. [Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140)
-2. [Planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127)
-3. [Doca](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
-4. [Estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137)
+2. [Doca](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
+3. [Estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137)
 
 ## Ponto de retirada
 

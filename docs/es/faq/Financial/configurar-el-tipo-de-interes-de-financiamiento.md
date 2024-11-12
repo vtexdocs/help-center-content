@@ -24,7 +24,7 @@ El ID de la forma de pago que se configurará a Interés Simple se obtiene del s
 - Ingresar a la Forma de Pago que se desea configurar para que utilice Interés Simple
 - Copiar el último parámetro de la URL, que indica el ID de esa Forma de Pago (ver imagen)
 
-![Interes Simple - Obtener ID Transaccion](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Financial/configurar-el-tipo-de-interes-de-financiamiento_1.png)
+![Interes Simple - Obtener ID Transaccion](https://images.contentful.com/alneenqid6w5/19PugiXjNssA6c48WoqoSC/808db9360d3dbb5dd12466882ce3e852/interes-simple-id-transaccion.png)
 
 ## Configurar el tipo de interés mediante la API
 

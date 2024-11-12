@@ -3,8 +3,8 @@ title: 'Configurar o gateway Openpay'
 id: 5vGj3UIFCU4GFFqVBlYKW2
 status: PUBLISHED
 createdAt: 2021-07-06T17:31:51.598Z
-updatedAt: 2024-01-25T18:44:58.747Z
-publishedAt: 2024-01-25T18:44:58.747Z
+updatedAt: 2024-11-08T12:54:09.760Z
+publishedAt: 2024-11-08T12:54:09.760Z
 firstPublishedAt: 2021-07-06T17:54:12.638Z
 contentType: tutorial
 productTeam: Financial
@@ -27,7 +27,7 @@ Para configurar o Openpay você precisará:
 
 ## Configurar o Google Tag Manager
 
-Para configurar o Google Tag Manager, siga todos os passos da __etapa número 2__ que consta [nesta documentação](https://www.openpay.mx/en/docs/vtex.html) da Openpay.
+Para configurar o Google Tag Manager, siga todos os passos da __etapa número 2__ que consta [nesta documentação](https://documents.openpay.mx/docs/vtex.html) da Openpay.
 
 Ao finalizar, passe para a etapa seguinte de configuração da Openpay no ambiente da VTEX.
 
@@ -39,7 +39,7 @@ Ao finalizar a criação e ativação da Tag, no Google Tag Manager, é preciso 
 2. Na tela de provedores, clique no botão `Novo provedor`.
 3. Digite o nome __Openpay__ na barra de busca e clique sobre o nome do provedor.
 4. Em __Nome da Afiliação__, nomeie para __Openpay__.
-5. Preencha os __Application Key__ e __Application Token__. [Clique aqui](https://www.openpay.mx/en/docs/vtex.html) para acessar a documentação da Openpay com as instruções de como obter essas informações.
+5. Preencha os __Application Key__ e __Application Token__. [Clique aqui](https://documents.openpay.mx/docs/vtex.html) para acessar a documentação da Openpay com as instruções de como obter essas informações.
 6. Clique em `Salvar`.
 
 ## Configurar condições de pagamento

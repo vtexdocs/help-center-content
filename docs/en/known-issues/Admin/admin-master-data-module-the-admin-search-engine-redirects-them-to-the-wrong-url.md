@@ -31,9 +31,9 @@ The Master Data module, the admin search engine redirects them to the wrong URL.
 Steps:
 Admin > Search > Master Data >
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Admin/admin-master-data-module-the-admin-search-engine-redirects-them-to-the-wrong-url_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/DhvSEUDDmPjgGdIlWV4PJvh0A/?name=image.png)
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Admin/admin-master-data-module-the-admin-search-engine-redirects-them-to-the-wrong-url_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/9nUmLbZLPdCzBgvNziUi1WCvw/?name=image.png)
 
 
 ##
@@ -45,7 +45,7 @@ Admin > Search > Master Data >
 it's possible accessed normally using the side menu:
 Admin > Store front > Master Data
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Admin/admin-master-data-module-the-admin-search-engine-redirects-them-to-the-wrong-url_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/59KwJCdK91ol1f4edT4hjNBHQ/?name=image.png)
 
 
 

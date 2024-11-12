@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisPT: 'Participe de um dia de treinamento intensivo em VTEX com os maiores especialistas no assunto.'
 ---
 
-![cover fb 01](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018-10-01-torne-se-um-expert-em-vtex-com-o-training-day_1.png)
+![cover fb 01](https://images.ctfassets.net/alneenqid6w5/fj8PzFYRP2yaeAaIiKCW2/e06c967d7129640c493c545ecfc48db8/cover_fb_01.png)
 
 >ℹ️ Um dia inteiro de treinamento em VTEX com os maiores especialistas no assunto.
 

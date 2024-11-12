@@ -3,8 +3,8 @@ title: 'Shipping strategies'
 id: 4IPeNztIXsZI4oA5TyES9N
 status: PUBLISHED
 createdAt: 2022-03-07T17:45:18.081Z
-updatedAt: 2022-03-10T16:12:39.772Z
-publishedAt: 2022-03-10T16:12:39.772Z
+updatedAt: 2024-11-05T17:58:52.520Z
+publishedAt: 2024-11-05T17:58:52.520Z
 firstPublishedAt: 2022-03-07T18:16:31.599Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -18,13 +18,13 @@ The shipping options offered to the customer at the checkout of your store are c
 
 The shipping strategy defines how warehouses, loading docks, and shipping policies interact to meet the needs of your customers and your business. 
 
-![Estrategia EnvioEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/logistics-101/shipping-strategies_1.png)
+![Estrategia EnvioEN](https://images.ctfassets.net/alneenqid6w5/a0tXw0SPa0zFg5o0byFeS/f21e70736f667399bb811dea84caf5c7/Estrategia_EnvioEN.png)
 
 The shipping strategy is defined by three logistics entities:
 
 * [Shipping policy](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140): rules agreed upon between stores and [carriers](https://help.vtex.com/en/tutorial/carries-on-vtex--7u9duMD5UQa2QQwukAWMcE). The delivery conditions offered by the carriers must be registered in the shipping policy. With this information, the platform determines which carriers meet the conditions of the order and displays it to the customer. The shipping policy is also used to configure [pickup points](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R).
-* [Warehouse](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb): location where the items are stored. The shipping policy is not the only variable for choosing the delivery; it is also necessary to consider in which warehouse the products are stored.
 * [Loading dock](https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj): location where items will be picked up. The stores use the loading dock to configure the collection of packages. The carriers pick up the packages from the loading docks.
+* [Warehouse](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb): location where the items are stored. The shipping policy is not the only variable for choosing the delivery; it is also necessary to consider in which warehouse the products are stored.
 
 >ℹ️ There are other possible scenarios for using loading docks. To learn about use cases, read the article Loading docks. To learn more about the flow of deliveries, see the article [ How does the delivery flow work](https://help.vtex.com/en/tutorial/como-funciona-o-fluxo-de-entregas--4ku3QKWfxmUO8UgA0yqgUq).
 
@@ -41,10 +41,9 @@ Please note that:
 
 For proper operation, we suggest configuring the [shipping strategies](https://help.vtex.com/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3) following the order below.
 
-1. [Shipping policy](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140);
-2. [Shipping rate template](https://help.vtex.com/en/tutorial/shipping-rate-template--tutorials_127);
-3. [Loading dock](https://help.vtex.com/en/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW); 
-4. [Warehouse](https://help.vtex.com/en/tutorial/managing-warehouses--tutorials_137).
+1. [Shipping policy](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140)
+2. [Loading dock](https://help.vtex.com/en/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW)
+3. [Warehouse](https://help.vtex.com/en/tutorial/managing-warehouses--tutorials_137)
 
 ## Pickup points
 

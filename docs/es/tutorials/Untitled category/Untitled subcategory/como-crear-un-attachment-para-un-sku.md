@@ -16,13 +16,13 @@ subcategoryId: unknown-subcategory
 ---
 
 Para registrar un attachment primero ingrese al módulo “E-commerce”, después al menu Registro de productos y entonces a Anexos de servicio y SKU conforme el print abajo.
-![PRINT1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/como-crear-un-attachment-para-un-sku_1.png)
+![PRINT1](https://images.contentful.com/alneenqid6w5/2COCe9qS3iaaQWQIUQm4um/823e4c93ba405b26c8aa9ec2c92ab1c8/PRINT1.png)
 
 Para crear un nuevo, haga click en **Novo Anexo**
-![PRINT2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/como-crear-un-attachment-para-un-sku_2.png)
+![PRINT2](//images.contentful.com/alneenqid6w5/1JB8o3N6MMwqQeoSCgYMOW/67dceded6d349782c8427ecc3c50c797/PRINT2.png)
 
 En la pantalla de creación, usted tendrá los campos abajo:
-![Print3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/como-crear-un-attachment-para-un-sku_3.png)
+![Print3](//images.contentful.com/alneenqid6w5/3TbEtz9cSsioKYqycEOWsW/5517fe351b83be0e0e972eab5c8def5c/Print3.png)
 
 __ID __= el ID VTEX  crea automáticamente  
 __Nombre__: su attachment adjunto debe tener un nombre único  o sea no puede tener otro con el mismo nombre.
@@ -30,10 +30,10 @@ __Anexo Obrigatorio__: sí o no, este campo define si este campo debe ser rellen
 __Status__: activo o no, esta opción indica si el campo está activado o no para vincular  a los productos de la tienda.
 
 Después de crear el attachment  haga clic en guardar, ahora tiene que crear los campos que aparecen en el attachment, haga clic en el cambio como en la image abajo.
-![Print4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/como-crear-un-attachment-para-un-sku_4.png)
+![Print4](//images.contentful.com/alneenqid6w5/51cwVnColGWau4yoGEiOYa/3d0b8225b68fea28eea5faf11ae28c00/Print4.png)
 
 Creando los campos, estos campos se mostrarán en el carrito del cliente una vez que tenga el producto que esta vinculado el attachment.
-![Print5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/como-crear-un-attachment-para-un-sku_5.png)
+![Print5](//images.contentful.com/alneenqid6w5/5u971r7L5CqKKwGU40Cqgo/6721f3915d2f01563c2d2f35f3362410/Print5.png)
 
 __Ejemplo Campo 1:__ You liked this item ?? En este campo no tenemos ningún límite de caracteres porque hemos seleccionado la opción true, false, o es este campo se convertirá automáticamente en un campo de casilla de verificación.
 
@@ -48,10 +48,10 @@ Ahora para asociar los attachments al Sku, debe regresar al menú y elegir el Re
 Elija uno de la lista SKU de SKU para asociar
 
 En el registro de la SKU va en configuración avanzada.
-![print8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/como-crear-un-attachment-para-un-sku_6.png)
+![print8](//images.contentful.com/alneenqid6w5/5uM2lJknVSmMSa2O642S64/33b5d9d87256ab5e164cf058e7fb3adb/print8.png)
 
 Al final de esta página que se enumeran las opciones de attachments registrados en la tienda, solo tienes que asignarlos a el Sku.
-![print9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/como-crear-un-attachment-para-un-sku_7.png)
+![print9](//images.contentful.com/alneenqid6w5/3dvDRtRwHSeWG0koMsouu2/7d150a416ebae66c446db1d9b38c5520/print9.png)
 
 Después de hacer clic en guardar, el producto se enviará para la fila de indexación, después de se podrá ver el archivo adjunto asociado del carrito.
-![print10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/como-crear-un-attachment-para-un-sku_8.png)
+![print10](//images.contentful.com/alneenqid6w5/4GQzaiothm8oEWuMgyAo22/ed069eccbe12b3b1a2949501650c6e38/print10.png)
