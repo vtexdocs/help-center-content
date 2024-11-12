@@ -39,8 +39,8 @@ function moveAllTags(folderPath) {
 async function adjustTroubleshootingContent() {
     console.log('Adjusting troubleshooting content...')
     for (locale of locales) {
-        const oldPath = path.join(__dirname,`../../docs/${locale}/tutorials/troubleshooting`)
-        const newPath = path.join(__dirname,`../../docs/${locale}/troubleshooting`)
+        const oldPath = path.join(`/docs/${locale}/tutorials/troubleshooting`)
+        const newPath = path.join(`/docs/${locale}/troubleshooting`)
         fs.renameSync(oldPath, newPath)
         moveAllTags(newPath)
     }
