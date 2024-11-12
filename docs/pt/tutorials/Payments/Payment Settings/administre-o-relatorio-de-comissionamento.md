@@ -55,7 +55,7 @@ A criação do relatório pode demorar caso o volume de dados analisados seja ex
 
 >ℹ️ Sair da página não afetará a operação.
 
-![comissionamento PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/administre-o-relatorio-de-comissionamento_1.png)
+![comissionamento PT](https://images.ctfassets.net/alneenqid6w5/7bWvI8TAgRPvtF4kr00TbC/6a3805d30656ad30c9afae6cb3079fce/comissionamento_PT.png)
 
 Posteriormente, você também pode baixar o relatório recém-gerado em um link para download disponibilizado na listagem de relatórios.  
 

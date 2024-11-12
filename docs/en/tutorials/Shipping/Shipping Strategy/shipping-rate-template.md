@@ -175,7 +175,7 @@ See below the spreadsheet columns content to understand each field in detail.
 >ℹ️ We used the term "weight" when referring to "mass" in this documentation for readability.
 
 Here is an example of how to fill in the fields in the spreadsheet.
-![modelo_planilhanumerica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping Strategy/shipping-rate-template_1.png)
+![modelo_planilhanumerica](https://images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
 
 ## Upload the spreadsheet in VTEX Admin
 
@@ -188,7 +188,7 @@ Follow the steps below:
 4. In both cases, download the spreadsheet and [complete its fields](#fill-in-the-fields-in-the-spreadsheet). Then, upload the file in the **Upload shipping rates** section, as illustrated in the image below.
 5. After completing these steps, click on `Save changes`.
 
-![upload tarifas envioEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping Strategy/shipping-rate-template_2.png)
+![upload tarifas envioEN](//images.ctfassets.net/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/38cfc78b89a4e0e68bfec882af0ea9f4/upload_tarifas_envioEN.png)
 
 >⚠️ For **new** shipping policies, other steps are required. Check out the article [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) for more information.
 

@@ -129,7 +129,7 @@ _canceling request example:_<br/>
 
 Change SKU and pricing, inventory, shipping and delivery SLA update:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations overview/integration-guide-for-marketplaces-marketplace-non-vtex-with-payment_1.png)
+![](https://images.contentful.com/alneenqid6w5/6jPPddmz1ScOiiMKSaaW2m/8672d77783e8f8a32cd2c4c209610f10/sku-sugestion-canal-nao-vtex.png)
 
 ### Insertion and SKU Update - Flow
 
@@ -441,7 +441,7 @@ When a product is inserted into the cart in the Marketplace that isn't VTEX, or 
 
 _Cart and Payment Request Flow:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations overview/integration-guide-for-marketplaces-marketplace-non-vtex-with-payment_2.png)
+![](https://images.contentful.com/alneenqid6w5/g3Ozduhczuy0Iaqum6UMS/6e2b44530d4ae3770285d3fb39a8241b/fechato-canal-nao-vtex-com-pgto.png)
 
 ### Cart Simulation
 
@@ -677,7 +677,7 @@ Access the attachment below:
 
 Marketplace that isn't VTEX to send an order and authorization to dispatch (proceed with the order fulfillment). If someone want a different commercial condition for the Marketplace that isn't VTEX, must be created a new commercial policy in the VTEX store, thus being able to create different promotions (discount, shipment, etc.), only to the desired affiliate. If there aren't a different commercial policy, must be used the commercial policy from the main store (sc = 1).
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations overview/integration-guide-for-marketplaces-marketplace-non-vtex-with-payment_3.PNG)
+![](https://images.contentful.com/alneenqid6w5/4xY2FklPgcqaEqumcwW0We/73d38049fe0b17a4fa1c4da63d4ae4af/order-canal-n-vtex-com-pgto.PNG)
 
 <a name="a7"></a>
 ### Send Order

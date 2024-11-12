@@ -3,8 +3,8 @@ title: 'Setting up Gift cards'
 id: tutorials_995
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:54.816Z
-updatedAt: 2024-09-25T20:41:36.406Z
-publishedAt: 2024-09-25T20:41:36.406Z
+updatedAt: 2024-10-22T19:25:17.816Z
+publishedAt: 2024-10-22T19:25:17.816Z
 firstPublishedAt: 2017-04-27T23:03:42.674Z
 contentType: tutorial
 productTeam: Financial

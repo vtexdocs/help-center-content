@@ -24,7 +24,7 @@ internalReference: 562588
 
 No es posible identificar la diferencia (id) entre las especificaciones en los módulos IS cuando tienen el mismo nombre y están en el mismo nivel
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent Search/entradas-duplicadas-para-categoriasvalores-de-especificacion-en-el-mismo-nivel_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/4IkRStz0ewiubTt0pwHLx5SJ0/?name=image.png)
 
 
 

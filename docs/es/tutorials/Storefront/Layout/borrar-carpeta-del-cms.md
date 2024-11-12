@@ -25,7 +25,7 @@ Para borrar una carpeta de CMS, siga los pasos abajo:
 3. Haga clic en el web site que contiene la carpeta que desea borrar y luego en la carpeta raíz (/).
 4. En la línea de la carpeta que desea borrar, haga clic en __delete__.
 
-![erroDeletarPasta2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/borrar-carpeta-del-cms_1.png)
+![erroDeletarPasta2](https://images.contentful.com/alneenqid6w5/5LV3bGobResaCycAs4e4oS/0644cad6454dd3d6c0beb1eb8afc1da8/erroDeletarPasta2.png)
 
 >❗ Algunas carpetas son obligatorias. Su tienda no funcionará correctamente sin ellas. Otras son importantes, así que no es una buena idea borrarlas.
 >
@@ -35,6 +35,6 @@ Para borrar una carpeta de CMS, siga los pasos abajo:
 
 Si una carpeta contiene otras carpetas, antes de borrarla es necesario borrar todas las carpetas internas. En caso contrario, el sistema devuelve el error "Object reference not set to an instance of an object", como en la siguiente imagen.
 
-![erroDeletarPasta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/borrar-carpeta-del-cms_2.png)
+![erroDeletarPasta](//images.contentful.com/alneenqid6w5/6g2MBbZJUQUQM2YQQ88MQE/9159df93c82fc1e89199aaf1922a5044/erroDeletarPasta.png)
 
 Por ejemplo, si desea borrar la carpeta A, y dentro de ella quedan las carpetas A1 y A2, primero borre las carpetas A1 y A2, y luego borre la carpeta A.

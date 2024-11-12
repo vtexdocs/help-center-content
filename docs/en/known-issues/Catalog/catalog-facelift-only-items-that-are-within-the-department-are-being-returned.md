@@ -32,7 +32,7 @@ Correct: should return everything, including (department, category, subcategory)
 
 Admin > Catalog > Products & Skus > Filter > Category >
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/ZOXAIFwVnbl56yduHjYVrjfUM/?name=image.png)
 
 
 ##

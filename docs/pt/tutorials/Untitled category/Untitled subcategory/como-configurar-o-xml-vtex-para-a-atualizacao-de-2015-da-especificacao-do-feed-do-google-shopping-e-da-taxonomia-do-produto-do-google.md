@@ -21,7 +21,7 @@ Seguindo a [Atualização de 2015 da Especificação do feed do Google Shopping 
 
 A configuração padrão de nosso formulário de XML já está com as tags atualizada, para criar um novo feed Google Merchant / Shopping basta selecionar a opção “Feed: Atom 1”:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-configurar-o-xml-vtex-para-a-atualizacao-de-2015-da-especificacao-do-feed-do-google-shopping-e-da-taxonomia-do-produto-do-google_1.gif)
+![](https://images.contentful.com/alneenqid6w5/2ugQUy4xlaaUEOIYuu6UMe/41fd01c32b6954b14e1ef5818b94ca0c/atom1_xml_vtex_google.gif)
 
 Para a correta integração com o Google Merchant / Shopping será necessário atualizar o xml com os novos campos a partir do dia 15 de setembro de 2015.
 
@@ -31,7 +31,7 @@ Conheça os novos campos do formulário de XML:
 
 Opção responsável pela definição da taxonomia dos campos “Categoria” e “Departamento + Categoria”. Comumente utilizado para o preenchimanto da tag [g:product\_type].
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-configurar-o-xml-vtex-para-a-atualizacao-de-2015-da-especificacao-do-feed-do-google-shopping-e-da-taxonomia-do-produto-do-google_2.gif)
+![](//images.contentful.com/alneenqid6w5/3dgBcIJZgcKSW2YKCaksmW/653d517228e7d303e7326dfa1dcedbc1/separador_categoria_xml_vtex_google.gif)
 
 Padrão (Ex: Categoria Pai - Categoria Filha - Categoria Neta)
 
@@ -47,7 +47,7 @@ Campo responsável pelo relacionamento das categorias de sua loja com as categor
 
 Deverá ser preenchido com a tag [g:google\_product\_category]
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-configurar-o-xml-vtex-para-a-atualizacao-de-2015-da-especificacao-do-feed-do-google-shopping-e-da-taxonomia-do-produto-do-google_3.gif)
+![](//images.contentful.com/alneenqid6w5/307z7lsmEMgQMWIOUQWk8K/9d854eb77bb73e1c79d5307c78fb0215/categoria_global_xml_vtex_google.gif)
 
 Para o correto funcionamento desse campo é necessário verificar se o produto tem o campo **Categorial Global** preenchido no catálogo VTEX.
 

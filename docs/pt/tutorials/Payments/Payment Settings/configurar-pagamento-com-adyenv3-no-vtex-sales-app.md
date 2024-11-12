@@ -47,7 +47,7 @@ Para habilitar o acesso da VTEX no ambiente Adyen, siga as instruções abaixo:
 2. Na barra lateral esquerda, copie e salve a informação descrita acima de **Company**. Esta é a sua Company Account.
 3. Na lista abaixo, busque o nome da Merchant Account a ser utilizada (ressaltada em branco). Copie e salve esta informação.
 
-![Adyenv3_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-adyenv3-no-vtex-sales-app_1.PNG)
+![Adyenv3_1](https://images.ctfassets.net/alneenqid6w5/4BHwn5SIUl6AuiiEjreluk/a7404c85f6fda7f7ccbae66070d0db0d/Adyenv3_1.PNG)
 
 ### Obtenha a POS Live URL
 
@@ -66,7 +66,7 @@ As informações abaixo consideram que a API Key já foi previamente gerada no a
 2. Selecione a sua credencial API.
 3. Em **Server Settings > Authentication**, selecione **API key**. 
 
-![Adyenv3_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-adyenv3-no-vtex-sales-app_2.PNG)
+![Adyenv3_2](//images.ctfassets.net/alneenqid6w5/5y5TAeZmhsKrn2nZTJexIw/bfbe2587739f39fa70c4e1f08e86bd71/Adyenv3_2.PNG)
 
 <blockquote><ui>4. Clique em <b>Generate Key</b> e anote a informação criada em um local seguro.</ui>
 
@@ -82,7 +82,7 @@ Configure o webhook conforme os passos abaixo:
 4. Em **General > Description**, adicione uma descrição para o novo webhook. Exemplo: "Webhook Adyen Connector Provider v3".
 5. Em **General > Server configuration > URL**, preencha a URL da sua conta VTEX. Exemplo: https://{{account}}.myvtex.com/_v3/api/webhook/notification.
 
-![Adyenv3_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-adyenv3-no-vtex-sales-app_3.PNG)
+![Adyenv3_4](//images.ctfassets.net/alneenqid6w5/1gAXlQfBoEUm5qnfSsHJkl/c18036816afbfe9ed8434d1211679879/Adyenv3_4.PNG)
 
 <blockquote><ui>6. Clique em <b>Apply</b>.</ui>
 
@@ -90,11 +90,11 @@ Configure o webhook conforme os passos abaixo:
 
 <blockquote><ui>8. Clique em <b>Save changes</b>.</ui>
 
-![Adyenv3_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-adyenv3-no-vtex-sales-app_4.PNG)
+![Adyenv3_5](//images.ctfassets.net/alneenqid6w5/4dNUcUg9OKni8eT1wXcjO1/19eddc41d854adb8976e6e90ed54589c/Adyenv3_5.PNG)
 
-![Adyenv3_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-adyenv3-no-vtex-sales-app_5.PNG)
+![Adyenv3_6](//images.ctfassets.net/alneenqid6w5/2ocxDKULle6hnu2fFPnjfZ/7787ff93f023d3ec17c669758aefb82f/Adyenv3_6.PNG)
 
-![Adyenv3_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-adyenv3-no-vtex-sales-app_6.PNG)
+![Adyenv3_7](//images.ctfassets.net/alneenqid6w5/dEbiVnYj1Ic4eYgkSNolQ/79bba40bd6820d29de275e3cab19f22e/Adyenv3_7.PNG)
 
 >ℹ️ Se você possui múltiplas lojas, é necessário realizar a configuração do webhook para cada uma delas.
 

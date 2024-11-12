@@ -35,7 +35,7 @@ After that a new section will be available and you can define through the fields
 
 It is possible to limit the availability of the template to a predetermined period of time by filling in the __From__ and __To__ fields as well as to define in which categories, products, brands and collections the chosen template will be applied.
 
-![template-condicionado-cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-to-work-with-different-layouts-for-the-same-page_1.png)
+![template-condicionado-cms](https://images.ctfassets.net/alneenqid6w5/5oheUsdoc0aKS4ysOwQ6ig/66a11beac0c32d7fde34d43b94fb45bb/template-condicionado-cms.png)
 
 After filling in all the needed fields, do not forget to save the changes made by clicking on __Save Layout__.
 

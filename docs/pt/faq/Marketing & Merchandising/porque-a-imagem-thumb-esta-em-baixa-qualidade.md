@@ -24,7 +24,7 @@ Para realizar esta configuração:
 3. Clique em **Alterar** na linha `Produto - Thumb`.
 4. No painel exibido é possível escolher o tamanho máximo de arquivo para as miniaturas no campo **Tamanho Máximo em KB**.
 
-![Configuração de tipo de arquivo no CMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing & Merchandising/porque-a-imagem-thumb-esta-em-baixa-qualidade_1.PNG)
+![Configuração de tipo de arquivo no CMS](https://images.ctfassets.net/alneenqid6w5/6aprfJCiiT9y05IAsRvwH/b7aed6fe9d4892aba36b6695c22fbfb5/PT.PNG)
 
 Recomendamos também a leitura do artigo [Melhorar a performance de imagens de produtos](https://help.vtex.com/pt/tutorial/improving-the-performance-of-product-images/) para aprender como melhorar a qualidade de qualquer imagem da loja evitando ao máximo o prejuízo de performance de carregamento da página.
 

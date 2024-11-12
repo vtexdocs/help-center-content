@@ -29,7 +29,7 @@ O bom gerenciamento da capacidade operacional dos sellers traz os seguintes bene
 
 Ao acessar no Admin VTEX **Envio > Capacidade operacional**, você encontra uma página como a imagem abaixo:
 
-![operational_capacity_image1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Shipping Beta/capacidade-operacional-beta_1.png)
+![operational_capacity_image1_PT](https://images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/750c0ac19cbb24293a58ccadeb4604b8/operational_capacity_image1_PT.png)
 
 >⚠️ Os sellers que aparecem na interface são os sellers da sua operação, e eles são previamente configurados pela nossa equipe. Para acrescentar um novo seller, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
@@ -119,7 +119,7 @@ No topo direito da página de detalhes do seller, existe um toggle para ativar o
 
 O gráfico **Status da capacidade operacional** apresenta, em tempo real, a porcentagem da capacidade do seller que já foi consumida, como na imagem a seguir: 
 
-![operational_capacity_image2_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Shipping Beta/capacidade-operacional-beta_2.png)
+![operational_capacity_image2_PT](//images.ctfassets.net/alneenqid6w5/510RtT3ugOksM3YD5tYSGc/5a10fcf3a7fc20c4796a0bac0f14eeca/operational_capacity_image2_PT.png)
 
 O gráfico apresenta os seguintes períodos:
 
@@ -141,7 +141,7 @@ Para editar o endereço ou o nome de identificação do seller na **Capacidade o
 
 Na seção **Capacidade operacional**, você visualiza as configurações atuais da capacidade operacional do seller para cada dia da semana, como na imagem abaixo:
 
-![operational_capacity_image3_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Shipping Beta/capacidade-operacional-beta_3.png)
+![operational_capacity_image3_PT](//images.ctfassets.net/alneenqid6w5/70kbPFFifh8ykCHvIj6vEZ/f8faca5d71b3729e9c5df67b5609753d/operational_capacity_image3_PT.png)
 
 Para alterar essas configurações, siga os passos abaixo:
 

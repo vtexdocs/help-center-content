@@ -24,11 +24,11 @@ internalReference: 684464
 
 Ao tentar exportar um inventário individual em uma conta do portal do vendedor, uma mensagem de sucesso aparece na IU, mas o e-mail nunca chega.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/as-exportacoes-de-estoques-individuais-inventarios-nao-funcionam-nas-contas-do-seller-portal_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/jZNSStiS1PxKHZpHPNmMrRKNl/?name=image.png)
 
 Entretanto, se você tentar exportar todos os armazéns, o problema não acontece.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/as-exportacoes-de-estoques-individuais-inventarios-nao-funcionam-nas-contas-do-seller-portal_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/xy8qVAYlE7VlMoSTge7HAVOaz/?name=image.png)
 
 
 

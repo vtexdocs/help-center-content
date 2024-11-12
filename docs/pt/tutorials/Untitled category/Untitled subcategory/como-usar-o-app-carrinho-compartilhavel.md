@@ -17,7 +17,7 @@ subcategoryId: unknown-subcategory
 
 O app [Carrinho Compartilhável](https://apps.vtex.com/vtex-social-selling/p) permite que vendedores selecionem produtos para seus clientes e compartilhem o carrinho preenchido por canais como WhatsApp, Facebook Messenger e e-mail (Social Selling).
 
-![Shareable Cart Demo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-usar-o-app-carrinho-compartilhavel_1.gif)
+![Shareable Cart Demo](https://images.ctfassets.net/alneenqid6w5/sf2zbYOG7janUXWbgkajd/93aa5f4ea002c5877a9620722af67890/Jy98kJ.gif)
 
 Este artigo explica todos os passos para usar esta funcionalidade: ativar app, escolher os produtos, adicionar o código do vendedor, compartilhar e criar um novo carrinho. Antes de começar, é preciso [ativar esta funcionalidade na sua loja](https://help.vtex.com/pt/tutorial/como-ativar-o-app-carrinho-compartilhavel--1lS3fQdXpOoC0BTeVhydfg).
 
@@ -31,25 +31,25 @@ Onde `{Endereço web da sua loja}` deve ser substituído pelo endereço do site 
 
 A interface de compartilhamento de carrinho deve aparecer na tela, incluindo alguns dos ícones abaixo. As opções disponíveis dependem da configuração escolhida pela loja.
 
-![Screen Shot 2020-05-03 at 17.37.11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-usar-o-app-carrinho-compartilhavel_2.png)
+![Screen Shot 2020-05-03 at 17.37.11](//images.ctfassets.net/alneenqid6w5/167aYS1QT597gtpD7Zfxtu/834514c7425ede7f3a1f8c0db2480b63/Screen_Shot_2020-05-03_at_17.37.11.png)
 
 ## Escolher produtos
 
 Uma vez ativado o app, não é necessário fazer login para iniciar a navegação e selecionar os produtos. Basta navegar na loja normalmente, como se estivesse fazendo uma compra online. Depois de escolher todos produtos para o cliente, basta abrir o carrinho e seguir os próximos passos na interface de compartilhamento de carrinho.
 
-![shareable-cart-chooseproducts](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-usar-o-app-carrinho-compartilhavel_3.gif)
+![shareable-cart-chooseproducts](//images.ctfassets.net/alneenqid6w5/5KF6iTOUM6fqoAnwUO6JD1/e20cb733489567945c57599681e68185/shareable-cart-chooseproducts.gif)
 
 ## Adicionar código de vendedor
 
-Após selecionar os produtos, clique no botão <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Untitled category/Untitled subcategory/como-usar-o-app-carrinho-compartilhavel_7.png" /> para adicionar o seu código de vendedor. Siga as instruções da loja para o preenchimento, já que cada loja pode escolher formas diferentes para identificar vendedores e descontos.
+Após selecionar os produtos, clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3N22EOkpKDTgr32mkN9ei5/6cb4627d028e3ffe0aa29c607ce6c90b/image10.png" /> para adicionar o seu código de vendedor. Siga as instruções da loja para o preenchimento, já que cada loja pode escolher formas diferentes para identificar vendedores e descontos.
 
-![shareable-cart-addcode](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-usar-o-app-carrinho-compartilhavel_4.gif)
+![shareable-cart-addcode](//images.ctfassets.net/alneenqid6w5/1ORhQKfIfTsXZhPR40d3FQ/f751f96f3800e2c7f7ec91bae80257b0/shareable-cart-addcode.gif)
 
 ## Preencher dados pessoais e endereço (opcional)
 
 Conforme a preferência do cliente e as orientações da sua loja, você poderá preencher os dados pessoais e de entrega do pedido. __Já os dados de pagamentos devem ser sempre preenchidos pelo cliente.__
 
-![shareable-cart-customerdetails](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-usar-o-app-carrinho-compartilhavel_5.gif)
+![shareable-cart-customerdetails](//images.ctfassets.net/alneenqid6w5/4JY5ktzka93UkWov5cMnb6/8d2cccb0e7189da93ed6bf98c37d7752/shareable-cart-customerdetails.gif)
 
 >❗ **Nunca peça dados de pagamento ao enviar o carrinho.** Mesmo que o cliente insista, informe que é para a segurança de todos que o pagamento seja informado por ele.
 
@@ -57,13 +57,13 @@ Conforme a preferência do cliente e as orientações da sua loja, você poderá
 
 Depois de adicionar seu código de vendedor, clique no botão correspondente à opção desejada. Detalhamos abaixo os passos para cada tipo de compartilhamento.
 
-![shareable-cart-sharecart](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-usar-o-app-carrinho-compartilhavel_6.gif)
+![shareable-cart-sharecart](//images.ctfassets.net/alneenqid6w5/2lFmGUNGO1aECbPwa7w5Fn/d50c6ab066dbfad0b9622f3c2509dcb6/shareable-cart-sharecart.gif)
 
 ### WhatsApp
 
 Para compartilhar o carrinho por WhatsApp:
 
-1. Clique no botão <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Untitled category/Untitled subcategory/como-usar-o-app-carrinho-compartilhavel_8.png" />
+1. Clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/34fTsrnmu0yZKKAU2Kq9iR/a9e805534e6bc81434026357529be8a3/image11.png" />
 2. Digite o __número de telefone do cliente__ e clique em OK
 3. (Opcional) Customize a mensagem no WhatsApp
 4. Envie a mensagem pelo WhatsApp
@@ -74,7 +74,7 @@ Para compartilhar o carrinho por WhatsApp:
 
 Para compartilhar o carrinho por Facebook Messenger:
 
-1. Clique no botão <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Untitled category/Untitled subcategory/como-usar-o-app-carrinho-compartilhavel_9.png" />
+1. Clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/513wjcWdQzEydkFpsdm2Kb/e6ffef11d724e6fc1b66bf00504c81bb/image1.png" />
 2. Digite o __nome do perfil do cliente__ no Facebook Messenger
 3. Customize a mensagem no Facebook Messenger
 4. Envie a mensagem pelo Facebook Messenger
@@ -87,7 +87,7 @@ Para compartilhar o carrinho por Facebook Messenger:
 
 Para compartilhar o carrinho por SMS: 
 
-1. Clique no botão <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Untitled category/Untitled subcategory/como-usar-o-app-carrinho-compartilhavel_10.png" />
+1. Clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/aYyWKNKx0Fb4sSNT5yNJQ/34f7516d18c2f6efcb6c62c70ba8c04b/image7.png" />
 2. Digite o __número de telefone do cliente__ e clique em OK
 3. (Opcional) Customize a mensagem no seu aplicativo de SMS
 4. Envie a mensagem pelo seu aplicativo de SMS
@@ -96,7 +96,7 @@ Para compartilhar o carrinho por SMS:
 
 Para compartilhar o carrinho por Link:
 
-1. Clique no botão <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Untitled category/Untitled subcategory/como-usar-o-app-carrinho-compartilhavel_11.png" />
+1. Clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2GZp3YTXtUkh5KvG9BTFx6/0921f73c5c553a90ddd39056ab918202/image15.png" />
 2. Copie o link destacado em __Link para compartilhar__
 3. (Opcional) Escreva uma mensagem customizada com o link
 4. Envie o link para o cliente no seu canal de contato
@@ -105,7 +105,7 @@ Para compartilhar o carrinho por Link:
 
 Para compartilhar o carrinho por Gmail:
 
-1. Clique no botão <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Untitled category/Untitled subcategory/como-usar-o-app-carrinho-compartilhavel_12.png" />
+1. Clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/1rQ6MAeLHDZZ4vnX2p3Gyq/17bcbb4ebb94ac94a34dffb6c3515663/image14.png" />
 2. Digite o __endereço de e-mail do cliente__ e clique em OK
 3. (Opcional) Customize a mensagem no Gmail
 4. Envie a mensagem pelo Gmail
@@ -116,7 +116,7 @@ Para compartilhar o carrinho por Gmail:
 
 Para compartilhar o carrinho por Email:
 
-1. Clique no botão <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Untitled category/Untitled subcategory/como-usar-o-app-carrinho-compartilhavel_13.png" />
+1. Clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/1B5ehv90NAceay9z6PPr7R/70fd43fed7c4aaec4e5a902c01255072/image8.png" />
 2. Digite o __endereço de e-mail do cliente__ e clique em OK
 3. (Opcional) Customize a mensagem no seu aplicativo de e-mail
 4. Envie a mensagem pelo seu aplicativo de e-mail
@@ -125,7 +125,7 @@ Para compartilhar o carrinho por Email:
 
 ## Limpar carrinho
 
-Após concluir o atendimento de um cliente, clique no botão <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Untitled category/Untitled subcategory/como-usar-o-app-carrinho-compartilhavel_14.png"/> para limpar seu carrinho e escolher novos produtos para outro cliente.
+Após concluir o atendimento de um cliente, clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2fM6iuMfYNkTWlPA1vaSFM/c5c7c03611d846d609907d272b66684b/image5.png"/> para limpar seu carrinho e escolher novos produtos para outro cliente.
 
 >ℹ️ **Cada vendedor pode trabalhar com vários clientes!** Recomendamos guardar os links já compartilhados em uma planilha ou bloco de notas. Assim você mantém seus carrinhos organizados e poderá fazer alterações sempre que solicitado por um cliente.
 

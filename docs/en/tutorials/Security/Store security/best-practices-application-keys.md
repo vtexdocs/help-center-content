@@ -3,8 +3,8 @@ title: 'Best practices for using application keys'
 id: 7b6nD1VMHa49aI5brlOvJm
 status: PUBLISHED
 createdAt: 2022-10-04T21:36:57.185Z
-updatedAt: 2024-10-14T18:40:07.826Z
-publishedAt: 2024-10-14T18:40:07.826Z
+updatedAt: 2024-10-23T00:04:22.825Z
+publishedAt: 2024-10-23T00:04:22.825Z
 firstPublishedAt: 2022-10-04T21:41:08.638Z
 contentType: tutorial
 productTeam: Others
@@ -47,4 +47,8 @@ Conducting information security awareness campaigns is a sustainable and efficie
 Note that part of the code that makes up your store is executed on the customer side, i.e., on the user's browser. So it's normal that this part of the code is exposed to people outside your operation.
 
 Therefore, it's essential to instruct your development team not to use this code when doing integrations, as it often involves having [application keys](https://help.vtex.com/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) in the code.
+
+## Don't share application key tokens
+
+Protect your application key and token pairs with the same level of confidentiality that you would apply to login credentials, such as usernames and passwords. To reduce risks, avoid sharing them via emails, tickets, chats or other communication channels.
 

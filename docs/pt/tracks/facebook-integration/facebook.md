@@ -18,7 +18,7 @@ trackSlugPT: integracao-com-o-facebook
 
 O [Facebook](https://about.fb.com/br/company-info/) é a rede social com maior número de usuários no mundo. Criado em 2004, é a plataforma pela qual mais de três bilhões de pessoas se conectam e compartilham informação todos os dias.
 
-![Logo Facebook](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/facebook-integration/facebook_1.png)
+![Logo Facebook](https://images.ctfassets.net/alneenqid6w5/O8m2gKVxHDZwdd3VAmixX/22a762dbe650000261a1c5ab115e5c69/facebook_logo_4.png)
 
 Existem diferentes estratégias para promover sua loja no Facebook. O Gerenciador de Negócios, também conhecido como Business Manager, é uma ferramenta gratuita, criada para facilitar a gestão das suas ações na rede social. Em um único lugar, é possível gerenciar publicações orgânicas, anúncios pagos, bibliotecas de mídia, dentre outros.
 

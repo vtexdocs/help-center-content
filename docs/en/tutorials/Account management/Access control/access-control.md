@@ -1,10 +1,10 @@
 ---
 title: 'Access control'
 id: 4rM3gyiWqtkim4Q8hOvLTC
-status: DRAFT
+status: PUBLISHED
 createdAt: 2023-11-30T16:29:30.077Z
-updatedAt: 2023-11-30T21:42:00.250Z
-publishedAt: 
+updatedAt: 2024-10-28T19:15:50.311Z
+publishedAt: 2024-10-28T19:15:50.311Z
 firstPublishedAt: 2023-11-30T21:40:59.550Z
 contentType: tutorial
 productTeam: Identity

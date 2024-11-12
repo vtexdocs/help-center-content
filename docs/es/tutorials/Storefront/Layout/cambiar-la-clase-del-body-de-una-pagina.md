@@ -23,13 +23,13 @@ Los templates utilizados por los layouts de la tienda, de forma predeterminada, 
 
 Vea, por ejemplo, el código del template Department.
 
-![changeBodyClass1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/cambiar-la-clase-del-body-de-una-pagina_1.jpg)
+![changeBodyClass1](https://images.contentful.com/alneenqid6w5/pbQCDMUz3qO0q4SuwYaq4/7ebd6ca8a0af6cbce899535b83cd719a/changeBodyClass1.jpg)
 
 Tiene un `id`, pero no una `class`.
 
 Sin embargo, al cargar un layout que use ese template, vemos que la clase `departamento` fue agregada al body de la página.
 
-![changeBodyClass2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/cambiar-la-clase-del-body-de-una-pagina_2.jpg)
+![changeBodyClass2](//images.contentful.com/alneenqid6w5/132c4r8rtGowUkOYe4YUaM/6b4a3bd0a9fc5f65fe1d950484088ba1/changeBodyClass2.jpg)
 
 Es decir, el sistema inserta automáticamente esta clase.
 

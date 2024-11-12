@@ -68,7 +68,7 @@ Para programar un contenido, siga los pasos a continuación:
 3. Utilice el campo de la URL en la esquina superior para navegar a la página que muestra el bloque cuyo contenido será sobrescrito.
 4. Seleccione el bloque para el que desea crear un nuevo contenido. Puede seleccionarlo en lista de la derecha o en la interfaz:
 
-![seta-interface](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Other/Scheduling features/programacion-de-funcionalidades-para-eventos-especiales_1.png)
+![seta-interface](https://images.ctfassets.net/alneenqid6w5/6IhPT84ZmkV83ooydYNLLc/89b848f0f5678a4ce69c9f095e3abcbc/seta-interface.png)
 
 5. Haga clic en `Configuración` en la esquina superior derecha.
 6. Haga clic en el botón `Nuevo contenido`.

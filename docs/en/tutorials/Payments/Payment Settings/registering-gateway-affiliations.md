@@ -23,7 +23,7 @@ The provider management screen allows you to:
 - [View added providers](#viewing-added-providers)
 - [Edit provider settings](#editing-provider-settings)
 
-![interface_provedor_EN_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/registering-gateway-affiliations_1.jpg)
+![interface_provedor_EN_1](https://images.ctfassets.net/alneenqid6w5/6721j5gbs4JkxAFJ9QPQve/7a033eb73b124608c07471301501da64/artigo_interface_provedor_EN_1.jpg)
 
 ## Adding providers
 
@@ -44,7 +44,7 @@ To configure the payment methods that will be processed by your chosen payment p
 
 To set special conditions for payment methods, read [Configuring payment special  conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
 
-![interface_provedor_EN_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/registering-gateway-affiliations_2.JPG)
+![interface_provedor_EN_2](//images.ctfassets.net/alneenqid6w5/2uzCrSICV4zlbieq13Vky0/06ebd4ed620be2fd6a2ea7f3b61e25e7/artigo_interface_provedor_EN_2.JPG)
 
 ## Viewing added providers
 
@@ -54,7 +54,7 @@ The main provider management screen, available in the VTEX Admin under __Store S
 
 To search for providers by name, go to the provider management page and enter the name of the provider you want to find.
 
-![interface_provedor_EN_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/registering-gateway-affiliations_3.JPG)
+![interface_provedor_EN_3](//images.ctfassets.net/alneenqid6w5/1AVxMc8gzpBLTaoOM3DqJt/1c93dc9bbf26acf87e54224c5471407f/artigo_interface_provedor_EN_3.JPG)
 
 ### Filtering providers
 
@@ -62,15 +62,15 @@ To select the providers using filters, go to the provider management page and ap
 
 - __Name__: Select the payment provider using the name by checking the box or using the menu search bar.
 
-![interface_provedor_EN_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/registering-gateway-affiliations_4.JPG)
+![interface_provedor_EN_4](//images.ctfassets.net/alneenqid6w5/3HWuAtg2Ei867PMhqqXTpZ/c5e5aa3880b070e45a891d477906b78d/artigo_interface_provedor_EN_4.JPG)
 
 - __Type__: Select to display payment providers, antifraud providers, or both.
 
-![interface_provedor_EN_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/registering-gateway-affiliations_5.JPG)
+![interface_provedor_EN_5](//images.ctfassets.net/alneenqid6w5/34wou6AALCHGCAMSufWpxZ/2dde50a266e104a6f1652e7d7294d560/artigo_interface_provedor_EN_5.JPG)
 
 - __Environment__: Select the providers by type of operating environment (production or test).
 
-![interface_provedor_EN_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/registering-gateway-affiliations_6.JPG)
+![interface_provedor_EN_6](//images.ctfassets.net/alneenqid6w5/36BloW94uLYLN7qGFO1HeP/bb0b07f72dac4a7b01f5e94aa388899c/artigo_interface_provedor_EN_6.JPG)
 
 >❗ To clear the applied filters and see all the providers in the store again, click the `Clear All` button.
 
@@ -83,7 +83,7 @@ To edit the settings of existing payment or antifraud providers in the store, fo
 3. On the provider configuration screen, click `Edit`.
 4. Make the necessary changes and click `Save`.
 
-![interface_provedor_EN_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/registering-gateway-affiliations_7.JPG)
+![interface_provedor_EN_7](//images.ctfassets.net/alneenqid6w5/49bqIpjzfjB6VGrjwMiYEK/6dffc24a68b01dd43309f119907ed1d0/artigo_interface_provedor_EN_7.JPG)
 
 >❗ Before changing the provider's settings, such as authorization details, processing mode, or refund type, ensure the new information entered will not affect your store's performance.
 

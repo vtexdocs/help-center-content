@@ -20,7 +20,7 @@ El módulo *Inventario y envío* es donde usted realiza toda la gestión de la l
 Algunas secciones de la página de registro **Política de envío** cambiaron, para darle una mayor flexibilidad cuando configure su estrategia de entrega. En la anterior versión, había una sección denominada *Configuración de tiempo*, en la que era posible seleccionar *Horario de operación*, *Horario de corte* o *Entrega agendada* para cada transportadora. 
 
 __Anterior versión__
-![ES Configurações de tempo versão antiga](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Inventory and Shipping Beta/horario-de-atencion-de-transportadoras-y-entrega-agendada-beta_1.jpg)
+![ES Configurações de tempo versão antiga](https://images.ctfassets.net/alneenqid6w5/2n9RGrhtYEYrGsnsBN3Qlj/6afb6a15f8cc04c2167bc2a33ccf510d/ES_Configura____es_de_tempo_vers__o_antiga.jpg)
 
 En la nueva versión:  
 - Cambiamos los nombres de las opciones para que sean más fáciles de entender.   
@@ -28,7 +28,7 @@ En la nueva versión:
 - Añadimos la opción Configurar capacidad de entrega, para que la entrega programada se base en la realidad de su operación.   
 
 __Versión Beta__
-![ES Horário de funcionamento transportadora beta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Inventory and Shipping Beta/horario-de-atencion-de-transportadoras-y-entrega-agendada-beta_2.jpg)
+![ES Horário de funcionamento transportadora beta](//images.ctfassets.net/alneenqid6w5/7p1pOc8ng4KJCVIUUOZMtJ/de667ba6adbdcd826ed90da21a6aa385/ES_Hor__rio_de_funcionamento_transportadora_beta.jpg)
 
 ## Horario de recolección
 
@@ -45,7 +45,7 @@ Al igual que en la versión anterior, no es posible configurar las opciones de *
 Esta funcionalidad se denominaba *Entrega agendada* en la anterior versión y ahora se denomina *Entrega programada*. Además, antes solo era posible optar por esta funcionalidad omitiendo la configuración de *Horario de operación*. Sin embargo, ahora es posible configurar *Entrega programada* junto con la opción *Horario de atención* para que su cliente elija este método de entrega durante el checkout del pedido. Vea los campos que se deben completar para configurar esta opción.
 
 **Versión Beta**
-![ES entrega agendada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Inventory and Shipping Beta/horario-de-atencion-de-transportadoras-y-entrega-agendada-beta_3.jpg)
+![ES entrega agendada](//images.ctfassets.net/alneenqid6w5/5NEf2aJHHPmQTIFgvDt19H/62dcaef0097e846366826ae301a35714/ES_entrega_agendada.jpg)
 
 - **Tiempo máximo de entrega**:  este campo se debe completar de acuerdo con su operación logística. Defina cuál es el mayor periodo de tiempo que la transportadora emplea para realizar una entrega programada, desde la confirmación del pedido hasta la confirmación de la entrega.
 - **Configurar capacidad de entrega**: dependiendo de las características de su operación y de cómo la transportadora envía sus productos, puede tener más sentido definir la capacidad de entrega en número de ítems o en número de pedidos. Por ejemplo, si su tienda es del segmento de supermercados y el medio de transporte para la entrega programada es una motocicleta, hay un número límite de ítems que ese vehículo puede almacenar y por eso recomendamos que seleccione «ítems» como unidad. Por otro lado, si su operación tiene pocos ítems por pedido, tendrá más sentido definir «pedidos» como unidad, por ejemplo.

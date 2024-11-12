@@ -25,7 +25,7 @@ A partir de agora, o algoritmo de Luhn será aplicado para assegurar que somente
 
 Caso um cliente digite um número incorreto, uma mensagem de erro será exibida no Checkout. Nesta situação, o cliente deverá verificar o número inserido e corrigí-lo para prosseguir com a finalização da compra.
 
-![algoritmo_luhn_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023-09-19-algoritmo-de-luhn-para-cartoes-de-credito-e-debito-no-checkout_1.PNG)
+![algoritmo_luhn_pt](https://images.ctfassets.net/alneenqid6w5/5HN1Iu9vKUmeglMLOV46Rd/2ab586ebecb172fa058c7daffdb5833d/algoritmo_luhn_pt.PNG)
 
 ## Por que fizemos essa mudança?
 

@@ -27,14 +27,14 @@ Para realizar el proceso de binding, basta realizar los pasos a continuación:
 2. Haga clic en la carpeta **CMS**.
 3. Haga clic en la carpeta **Sites and Channels**. 
 4. Haga clic en el website deseado.
-![websites](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/cms/vincular-un-account-name-con-un-website_1.png)
+![websites](https://images.contentful.com/alneenqid6w5/56BRjkYWyIwKogAI0oMmSM/0910a749d03b6fd8d596ce6361a21045/websites.png)
 5. Haga clic en **Save Website**.    
 6. Haga clic en **Add**.
-<br/> ![addBinding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/cms/vincular-un-account-name-con-un-website_2.png)
+<br/> ![addBinding](https://images.contentful.com/alneenqid6w5/r0P8ZE9LNesKoeGewcWOu/527511bc3ae48875fe1a6421a1db5f42/addBinding.png)
 7. Seleccione el **account name**.
-<br/>  ![chooseBinding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/cms/vincular-un-account-name-con-un-website_3.png)
+<br/>  ![chooseBinding](https://images.contentful.com/alneenqid6w5/3nFPaDlnaEG2EqIMM8gCe0/188754ebaa172cef01a9212eea168e46/chooseBinding.png)
 8. Seleccione la **política comercial** o las políticas comerciales que estarán vinculadas con este account name.  
-<br/>  ![bindingSalesPolicy](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/cms/vincular-un-account-name-con-un-website_4.png)
+<br/>  ![bindingSalesPolicy](https://images.contentful.com/alneenqid6w5/5FFxnelVTyCu04a6EkiEkS/30905c7f368a1393100f118fd70fcb02/bindingSalesPolicy.png)
 9. Haga clic en **Save Binding**.   
 
 

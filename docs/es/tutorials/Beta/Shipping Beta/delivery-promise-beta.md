@@ -3,8 +3,8 @@ title: 'Delivery Promise (Beta)'
 id: p9EJH9GgxL0JceA6dBswd
 status: PUBLISHED
 createdAt: 2024-08-22T15:58:58.240Z
-updatedAt: 2024-09-02T22:29:17.194Z
-publishedAt: 2024-09-02T22:29:17.194Z
+updatedAt: 2024-10-31T17:07:58.445Z
+publishedAt: 2024-10-31T17:07:58.445Z
 firstPublishedAt: 2024-08-22T18:57:59.895Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -34,6 +34,8 @@ El artículo se estructura en las siguientes secciones:
 
 ## Funcionalidades disponibles
 
+Cuando el cliente proporciona su dirección, se realiza una selección inicial de los productos para mostrar únicamente los que se puedan entregar en esa ubicación o recoger en puntos de recogida en un radio de hasta 50 km de distancia de la misma (límite determinado en Checkout).
+
 Además de poder comprar todos los productos vistos, los clientes tienen la opción de filtrar los productos de la vitrina para que solamente se muestren aquellos resultados que cumplen determinados criterios, como veremos a continuación. Esto permite al cliente dirigir la experiencia de navegación de acuerdo con sus propios objetivos: 
 
 * Productos disponibles para el código postal deseado.
@@ -42,11 +44,12 @@ Además de poder comprar todos los productos vistos, los clientes tienen la opci
 * Tipo de envío más rápido para el pedido.
 * [Punto de recogida](https://help.vtex.com/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) donde el cliente desea retirar el pedido.
 
-En esta etapa, **Delivery Promise (Beta)** permite a los clientes de tu tienda filtrar los productos mostrados en la navegación según los siguientes criterios:
+En esta etapa, **Delivery Promise (Beta)** permite a los clientes de tu tienda aplicar los siguientes filtros a los productos mostrados en la navegación:
 
-* Ubicación facilitada por el cliente.
-* Tipo de envío o recogida.
-* Punto de recogida deseado por el cliente.
+* **Entregar a:** productos disponibles para entrega en la dirección proporcionada.
+* **Recogida:** productos disponibles para recogida en puntos de recogida en un radio de hasta 50 km alrededor de la dirección proporcionada.
+* **Recogida en tiendas cercanas:** productos disponibles para recogida en puntos de recogida en un radio de 10 km alrededor de la dirección proporcionada.
+* **Recogida en {{nombre}}:** productos disponibles para recogida en un determinado punto de recogida.
 
 >ℹ️ Los filtros mencionados anteriormente son componentes nativos de Intelligent Search. Si deseas desarrollar componentes personalizados para tu tienda, ponte en contacto con tu equipo de desarrollo o con un [partner de implementación](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion).
 
