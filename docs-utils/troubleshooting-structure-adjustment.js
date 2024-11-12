@@ -40,8 +40,8 @@ async function adjustTroubleshootingContent() {
     console.log('Adjusting troubleshooting content...')
     for (locale of locales) {
         // const oldPath = path.resolve(`/docs/${locale}/tutorials/troubleshooting`)
-        const newPath = path.resolve(`/docs/${locale}/troubleshooting`)
-        // fs.renameSync(oldPath, newPath)
+        const newPath = path.resolve(`../docs/${locale}/troubleshooting`)
+        fs.renameSync(oldPath, newPath)
         moveAllTags(newPath)
     }
 }
