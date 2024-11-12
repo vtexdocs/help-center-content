@@ -40,7 +40,7 @@ async function adjustTroubleshootingContent() {
     for (locale of locales) {
         const oldPath = path.join(__dirname,`../../docs/${locale}/tutorials/troubleshooting`)
         const newPath = path.join(__dirname,`../../docs/${locale}/troubleshooting`)
-        fs.renameSync(oldPath, newPath)
+        // fs.renameSync(oldPath, newPath)
         moveAllTags(newPath)
     }
 }
