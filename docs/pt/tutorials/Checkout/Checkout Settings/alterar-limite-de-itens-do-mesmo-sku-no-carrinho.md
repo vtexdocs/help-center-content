@@ -25,4 +25,4 @@ Para isso, siga os passos abaixo:
 
 Para casos de Sellers White Label  há um limite de 50 unidades com o mesmo SKU no carrinho. É possível alterar esse limite mediante uma solicitação no [suporte](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
 
-![Carrinho Max PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/alterar-limite-de-itens-do-mesmo-sku-no-carrinho_1.png)
+![Carrinho Max PT](https://images.ctfassets.net/alneenqid6w5/3SIx4hvYxGuUkcUs44Us0s/340ea46f5c1bdfd593dc0c87d3b5536a/Carrinho_Max_PT.png)

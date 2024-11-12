@@ -32,7 +32,7 @@ A integração XML carrega qualquer tag relacionada ao preço, como minPrice, ma
 
 O resultado será um item indisponível, ainda exibido no XML, mas sem nenhuma tag de preço:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/as-tags-xml-price-relacionadas-nao-carregam-o-conteudo-de-itens-indisponiveis_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/1CzUarsM3O05aG9z5otDZZ1Yg/?name=image.png)
 
 
 

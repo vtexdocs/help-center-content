@@ -18,7 +18,7 @@ Cada producto en su tienda debe formar parte de una categoría, pero también ne
 
 Para registrarla, siga estos pasos:
 
-1. En el módulo __Catalog__, pase el ratón en la pestaña __Registro de productos__ y haga clic en la opción __Marca__.![Marca](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/vtex-getting-started/crear-una-marca_1.png)
+1. En el módulo __Catalog__, pase el ratón en la pestaña __Registro de productos__ y haga clic en la opción __Marca__.![Marca](https://images.contentful.com/alneenqid6w5/BmTrfJzB0kWa6ouku6Uc8/4f57e62ab6dd7e51f65b2dc1f7235dc4/Marca.png)
 2. Haga clic en el botón __Nueva marca__.
 3. Introduzca el nombre de la marca en el campo __Nombre__.
 4. Rellene el campo __Título de la página de marca (Tag Title)__ con el título que aparecerá en la barra del navegador cuando el usuario accede a la página de la marca.

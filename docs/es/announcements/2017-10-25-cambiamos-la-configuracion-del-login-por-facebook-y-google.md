@@ -21,6 +21,6 @@ La flag __Usar claves VTEX__, que antes activaba el uso de datos proporcionados 
 
 Esto significa que el flujo se ha corregido y ya no es posible utilizar las claves de VTEX para iniciar sesión con Facebook y Google. Ahora la tienda necesita configurar sus propias llaves.
 
-![login2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2017-10-25-cambiamos-la-configuracion-del-login-por-facebook-y-google_1.png)
+![login2](https://images.contentful.com/alneenqid6w5/8ctzWCGmeAuay68eyk888/630cfc3d79ef248f06ca47575556738c/login2.png)
 
 Este cambio no tiene ningún impacto negativo en el almacén. Sin embargo, si alguna personalización se ha cometido incorrectamente en su pantalla de login, se pueden producir accidentes. Entonces verifique su pantalla de login para asegurarse de que todo sigue bien.

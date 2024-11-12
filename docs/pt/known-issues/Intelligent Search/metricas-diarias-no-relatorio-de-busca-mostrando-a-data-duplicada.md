@@ -23,7 +23,7 @@ internalReference: 508883
 
 Quando um relatório de busca é baixado, a tabela contendo métricas como buscas, cliques e cliques únicos no final do relatório contém uma coluna de datas mostrando entradas duplicadas sem uma razão aparente, como você pode ver na imagem:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Intelligent Search/metricas-diarias-no-relatorio-de-busca-mostrando-a-data-duplicada_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/5c2UeFN2SuSga7svfBs5UPNF5/?name=inline-1918989527.png)
 
 
 

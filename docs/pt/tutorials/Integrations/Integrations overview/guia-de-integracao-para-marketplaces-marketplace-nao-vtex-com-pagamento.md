@@ -135,7 +135,7 @@ O Marketplace deve capturar o pagamento ao receber a nota fiscal e deve cancelar
 
 Fluxo de troca de catalogo de SKU e atualização de preço, estoque, frete, SLAs de entrega:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations overview/guia-de-integracao-para-marketplaces-marketplace-nao-vtex-com-pagamento_1.png)
+![](https://images.contentful.com/alneenqid6w5/6jPPddmz1ScOiiMKSaaW2m/8672d77783e8f8a32cd2c4c209610f10/sku-sugestion-canal-nao-vtex.png)
 
 ### Inserção e Atualização de SKU - Fluxo
 
@@ -447,7 +447,7 @@ Quando um produto é inserido no carrinho no Marketplace Não VTEX, ou faz se al
 
 _Fluxo de chamadas no carrinho e no pagamento:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations overview/guia-de-integracao-para-marketplaces-marketplace-nao-vtex-com-pagamento_2.png)
+![](https://images.contentful.com/alneenqid6w5/g3Ozduhczuy0Iaqum6UMS/6e2b44530d4ae3770285d3fb39a8241b/fechato-canal-nao-vtex-com-pgto.png)
 
 ### Simulaçao de Carrinho
 
@@ -687,7 +687,7 @@ Caso se queira uma condição comercial diferenciada para o Marketplace não VTE
 
 _Fluxo de chamadas de descida de pedido, pagamento e autorização para despachar:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations overview/guia-de-integracao-para-marketplaces-marketplace-nao-vtex-com-pagamento_3.PNG)
+![](https://images.contentful.com/alneenqid6w5/4xY2FklPgcqaEqumcwW0We/73d38049fe0b17a4fa1c4da63d4ae4af/order-canal-n-vtex-com-pgto.PNG)
 
 <a name="a7"></a>
 ### Enviar Pedido

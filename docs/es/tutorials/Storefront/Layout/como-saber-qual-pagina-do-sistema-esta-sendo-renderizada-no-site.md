@@ -29,7 +29,7 @@ Para encontrar esta línea de código, acceda al front-end de su tienda, entre e
 
 A continuación se muestra la relación entre la carpeta en el CMS y el código fuente de la tienda.
 
-![CommerceContext](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site_1.png)
+![CommerceContext](https://images.contentful.com/alneenqid6w5/6diTrNVvl6OuwGKmoICSA0/4e958baa7ab163bcf06ac5963795feff/CommerceContext.png)
 
 >ℹ️ Esta línea de código está siempre comentada. Por lo tanto, tiene función sólo informativa. Es decir, no realiza ninguna acción.
 

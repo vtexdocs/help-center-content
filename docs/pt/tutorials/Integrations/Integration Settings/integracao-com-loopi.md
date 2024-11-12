@@ -176,7 +176,7 @@ Uma vez instalada, a app estará disponível no seu Admin VTEX, em **CONFIGURAÇ
 
 Para ativação da integração, acesse, no seu Admin VTEX, **MARKETPLACE > Loopi > Configurações**. Será apresentada a seguinte tela:
 
-![loopi_imagem](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration Settings/integracao-com-loopi_1.png)
+![loopi_imagem](https://drive.google.com/uc?export=download&id=1XHnasfVZE9jB0SEU7tb9WGmDvp9nlJGX)
 
 Para prosseguir com a integração, siga os passos abaixo:
 
@@ -214,9 +214,9 @@ Na interface de mapeamento, existe o campo de tela **Categorias da loja**, segui
 
 Na lista de categorias da sua loja VTEX, existe um ícone associado a cada categoria. Quando uma categoria ainda não foi mapeada na Loopi, o ícone relativo a ela é uma exclamação de cor esmaecida. Ao arrastar o mouse sobre o ícone, é possível ler o texto **Não mapeado**. Além deste ícone, existem três outros que podem aparecer em diferentes momentos da interface, sendo que cada um indica um estado de mapeamento. São eles:
 
-<img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Integrations/Integration Settings/integracao-com-loopi_2.JPG" /> Mapeado
-<img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Integrations/Integration Settings/integracao-com-loopi_3.JPG" /> Mapeamento incompleto
-<img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Integrations/Integration Settings/integracao-com-loopi_4.JPG" /> Erro no mapeamento
+<img class="shadow-4" src="https://images.contentful.com/alneenqid6w5/6Zu9VaGjbucOthXQsFwTD1/8681ab7d7e4fd12b41daae3c69afd552/mapper_correto.JPG" /> Mapeado
+<img class="shadow-4" src="https://images.contentful.com/alneenqid6w5/1C2pYCZ6sl34gLqbrXKanY/f139524a81922210d93bd3f5b88ef329/mapper_atencao.JPG" /> Mapeamento incompleto
+<img class="shadow-4" src="https://images.contentful.com/alneenqid6w5/K6HiE5mgImVJ4nFvO8W0L/cddc7566c8cc38a1bf5fe37283a145a3/mapper_erro.JPG" /> Erro no mapeamento
 
 - **Mapeado:** significa que o mapeamento foi bem sucedido. Pode ser um mapeamento a nível de atributo, produto ou categoria.
 - **Mapeamento incompleto:** indica que há algum nível não mapeado. Pode ser que existam produtos não mapeados dentro de uma categoria, por exemplo.

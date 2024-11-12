@@ -38,7 +38,7 @@ A página **Detalhes do anúncio** apresenta as seguintes seções:
 
 ## Cabeçalho
 
-![Offer details PT cabecalho](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/detalhes-do-anuncio_1.jpg)
+![Offer details PT cabecalho](https://images.ctfassets.net/alneenqid6w5/6XRh7RmJr7rfGUfVHER580/1d3d99d4aa6204871518904c7abbef2b/Offer_details_PT_cabecalho.jpg)
 
 O cabeçalho traz algumas informações principais do anúncio para rápida visualização, como imagem, canal nome, status, ID na VTEX e ID no canal. Permite também realizar as seguintes interações por meio do botão `Editar`:
 
@@ -54,13 +54,13 @@ O bloco de _Status do anúncio_ traz mais detalhes sobre o status do anúncio, q
 
 ### Status: Sincronizado
 
-![Offer details PT status sucesso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/detalhes-do-anuncio_2.jpg)
+![Offer details PT status sucesso](//images.ctfassets.net/alneenqid6w5/6s1o33PAsB6H7X3Z0UJxaY/ee786de0eeee54fd2f5ee39fbc4e9d2e/Offer_details_PT_status_sucesso.jpg)
 
 O status *Sincronizado* significa que o anúncio foi recebido com sucesso em um canal e está sendo atualizado tanto pelo marketplace quanto pelo seller, em tempo real.   
 
 ### Status: Erro
 
-![Offer details PT status erro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/detalhes-do-anuncio_3.jpg)
+![Offer details PT status erro](//images.ctfassets.net/alneenqid6w5/5M2tBMrTbrBloZ1093Jdjw/99e44f5378b0fcec010e122d48c2ad12/Offer_details_PT_status_erro.jpg)
 
 O status *Erro* significa que o sistema encontrou um problema que previne um anúncio de ser enviado ou atualizado em um canal, portanto é necessário que o seller o corrija. Erros podem originar do lado do seller VTEX, como descrições de produtos que excedem o limite de caracteres, e do lado do marketplace, como chamadas de API que falharam.   
 
@@ -78,19 +78,19 @@ Se ainda existirem erros para serem corrigidos, ou se todos forem corrigidos mas
 
 ### Status: Indisponível
 
-![Offer details PT status indisponivel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/detalhes-do-anuncio_4.jpg)
+![Offer details PT status indisponivel](//images.ctfassets.net/alneenqid6w5/5ASZDWJU36WcdTJPL4HyWh/89c9d4be9f3ce73bc9d39c462895588e/Offer_details_PT_status_indisponivel.jpg)
 
 O status *Indisponível* ocorre quando o anúncio é descartado, por estar inativo ou não incluído na [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) determinada para o canal.
 
 ### Status: Enviando
 
-![Offer details PT status enviando](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/detalhes-do-anuncio_5.jpg)
+![Offer details PT status enviando](//images.ctfassets.net/alneenqid6w5/4sIUmJ2FxZ02SlOCPNYEi6/e0d021f8201b4188eb386d6de06bf4e5/Offer_details_PT_status_enviando.jpg)
 
 O status *Enviando* é um estado intermediário, quando anúncios ainda estão no processo de envio para o canal. Esse status envolve anúncios que estão sendo enviados pela primeira vez ao marketplace, estão migrando para um novo canal, ou foram reenviados após serem descartados em um canal.   
 
 ## Lista de Interações
 
-![Offer details PT lista interacoes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/detalhes-do-anuncio_6.jpg)
+![Offer details PT lista interacoes](//images.ctfassets.net/alneenqid6w5/78sdw5zgXZJL8aM9wMKqVE/323c0c9d2a17e850dca69cc70a4a00fb/Offer_details_PT_lista_interacoes.jpg)
 
 A lista de *Interações* reúne todas as atualizações de `estoque`, `preço` ou `catálogo` que aquele SKU sofreu. É possível filtrar por origem e por status, além de ajustar quantos itens são mostrados por página. Cada linha corresponde a uma interação ocorrida àquele anúncio, e inclui os seguintes dados:
 

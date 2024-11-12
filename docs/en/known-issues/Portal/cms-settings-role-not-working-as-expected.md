@@ -33,7 +33,7 @@ Another unexpected behavior is that other modules continue to be available for t
   - CMS menu on the top-bar;
   - CMS Settings.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Portal/cms-settings-role-not-working-as-expected_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/fbpObVoVdnEYGeYjd3GDh9Qqf/?name=image.png)
 
 
 - Associate this role to a user;

@@ -33,7 +33,7 @@ Esse é o passo mais importante para ativar o B2B. Ao configurar a Política Com
 
 Normalmente, nos B2Bs convencionais, esse campo é preenchido com o valor `approved="true"` (`approved` é o nome de um campo na entidade Cliente, no Master Data). Com essa regra, o sistema permite que apenas usuários autenticados e aprovados naveguem no site.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical guides/configurando-b2b-na-vtex_1.png)
+![](https://images.contentful.com/alneenqid6w5/34rM0gmlgQOoqwwEG2c0ck/a506984d2e7c23381e05a6ad16306d9f/1.png)
 
 ## 2. Customizar layout de diretórios B2B
 
@@ -47,15 +47,15 @@ Veja as características básicas de cada tipo de usuário:
 
 Dessa forma, para ter um ambiente B2B, será necessário customizar as pastas **401** e **403**, filhas da pasta **sistema**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical guides/configurando-b2b-na-vtex_2.png)
+![](//images.contentful.com/alneenqid6w5/4eOGUWH7nWqyQGCmIou6WO/1910b62f54515007e85aa3a82d04fb9e/2.png)
 
 Navegação por um usuário Anônimo (ao tentar acessar qualquer página, será redirecionado para 401):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical guides/configurando-b2b-na-vtex_3.png)
+![](//images.contentful.com/alneenqid6w5/1bxTbhKatws2mgGiOGSUYW/8bf8e626bf53a8e785ffdcc5f2ffc813/3.png)
 
 Navegação por um usuário não aprovado (ao tentar acessar qualquer página, será redirecionado para 403):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical guides/configurando-b2b-na-vtex_4.png)
+![](//images.contentful.com/alneenqid6w5/1Ep24Fgl1SIG6Uw8Wmkq42/2a995f8d9c2be0e92629447c1e6d3948/4.png)
 
 ## 3. Definir campos de pré-cadastro
 

@@ -85,7 +85,7 @@ Este modelo contempla troca de catalogo, atualização de condição comercial (
 
 Fluxo de troca de catalogo de SKU e atualização de preço, estoque, frete, SLAs de entrega:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/guia-de-integracao-para-marketplaces-marketplace-nao-vtex-old_1.png)
+![](https://images.contentful.com/alneenqid6w5/2rsft4dyVWggCk88IWusG/229b96fe3ca44d907bba857900771210/sku-sugestion-canal-nao-vtex.png)
 
 ### Inserção e Atualização de SKU - Fluxo
 
@@ -397,7 +397,7 @@ Quando um produto é inserido no carrinho no Marketplace Não VTEX, ou faz se al
 
 _Fluxo de chamadas no carrinho e no pagamento:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/guia-de-integracao-para-marketplaces-marketplace-nao-vtex-old_2.png)
+![](https://images.contentful.com/alneenqid6w5/4p1SjwzKvCegCe4AUKm2Q6/954a6a85dba6a4d0789ecdd6bcc5da39/fechato-canal-nvtex.png)
 
 ### Simulação de Carrinho
 
@@ -530,7 +530,7 @@ Caso se queira uma condição comercial diferenciada para o Marketplace não VTE
 
 _Fluxo de chamadas de descida de pedido, pagamento e autorização para despachar:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/guia-de-integracao-para-marketplaces-marketplace-nao-vtex-old_3.png)
+![](https://images.contentful.com/alneenqid6w5/8Okv8JXjSoiwAYSiokO4m/135fef672a650d4d6b581fa7a9f2b3dc/order-canal-naum-vtex.png)
 
 
 <a name="a7"></a>

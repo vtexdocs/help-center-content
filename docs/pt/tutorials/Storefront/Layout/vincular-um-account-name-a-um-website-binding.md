@@ -20,9 +20,9 @@ Uma das primeiras ações que você precisa realizar em seu web site é vinculá
 1. No Admin VTEX, acesse **Storefront > Layout**.
 2. Clique na pasta __CMS__.
 3. Clique na pasta __Sites and channels__.
-4. Clique no website desejado.![websites](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/vincular-um-account-name-a-um-website-binding_1.png)
+4. Clique no website desejado.![websites](https://images.contentful.com/alneenqid6w5/56BRjkYWyIwKogAI0oMmSM/0910a749d03b6fd8d596ce6361a21045/websites.png)
 5. Clique em __Save Website__.
-6. Clique em __Add__.![addBinding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/vincular-um-account-name-a-um-website-binding_2.png)
-7. Selecione o nome da loja.![chooseBinding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/vincular-um-account-name-a-um-website-binding_3.png)
-8. Marque a política comercial ou as políticas comerciais que ficarão atreladas a essa loja.![bindingSalesPolicy](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/vincular-um-account-name-a-um-website-binding_4.png)
+6. Clique em __Add__.![addBinding](//images.contentful.com/alneenqid6w5/r0P8ZE9LNesKoeGewcWOu/527511bc3ae48875fe1a6421a1db5f42/addBinding.png)
+7. Selecione o nome da loja.![chooseBinding](//images.contentful.com/alneenqid6w5/3nFPaDlnaEG2EqIMM8gCe0/188754ebaa172cef01a9212eea168e46/chooseBinding.png)
+8. Marque a política comercial ou as políticas comerciais que ficarão atreladas a essa loja.![bindingSalesPolicy](//images.contentful.com/alneenqid6w5/5FFxnelVTyCu04a6EkiEkS/30905c7f368a1393100f118fd70fcb02/bindingSalesPolicy.png)
 9. Clique em __Save Binding__.

@@ -24,7 +24,7 @@ Los productos no disponibles (outOfstock) no tienen la información de precio en
 
 - Tome un artículo sin stock que se esté mostrando en el sitio como no disponible;
 - Usted verá en el Schema que él se imprimirá como outOfstock y no se mostrará el precio.
-![schema  outOfstock ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Channels/schema-no-presenta-ningun-precio-en-articulos-outofstock-no-disponibles_1.png)
+![schema  outOfstock ](//images.contentful.com/alneenqid6w5/6PgCuzUXXGo0iC6UeAMUA6/4390b013aaf5d3083ffef407180cd484/ItemTypes-duplicidade.png)
 
 ## Workaround
 

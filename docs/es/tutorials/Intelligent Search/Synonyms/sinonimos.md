@@ -3,8 +3,8 @@ title: 'Sinónimos'
 id: um0MRK7KMbE4RZEEbblFJ
 status: PUBLISHED
 createdAt: 2024-08-14T18:10:16.284Z
-updatedAt: 2024-08-14T20:14:05.856Z
-publishedAt: 2024-08-14T20:14:05.856Z
+updatedAt: 2024-10-29T19:41:49.081Z
+publishedAt: 2024-10-29T19:41:49.081Z
 firstPublishedAt: 2024-08-14T18:12:53.564Z
 contentType: tutorial
 productTeam: Others
@@ -37,6 +37,8 @@ Pueden crearse dos tipos de sinónimos: unidireccional y bidireccional. Consulta
 | Bidireccional | Dos o más palabras tienen sentidos y significados equivalentes, lo que permite que la correspondencia funcione en ambas direcciones.<br>Esta configuración facilita la búsqueda de productos que pueden tener nombres distintos según el país o la región. | `diet ⇄ cero azúcar ⇄ sin azúcar`<br>Al buscar productos "diet" se incluirán productos definidos como "cero azúcar" y "sin azúcar". Del mismo modo, al buscar "cero azúcar", los resultados incluirán productos "diet" y "sin azúcar". Los resultados de "sin azúcar" también incluirán productos "cero azúcar" y "diet".<br><br>`pomelo ⇄ toronja ⇄ pamplemusa`<br>En distintos países en los que se habla español, los términos "pomelo", "toronja" y "pamplemusa" se refieren a la misma fruta. Con sinónimos bidireccionales para cada término, no será necesario repetir cada palabra en la descripción del producto, ya que se mostrarán todos los resultados. |
 
 Aprende más sobre el registro de sinónimos en [Crear sinónimos](https://help.vtex.com/es/tutorial/criar-sinonimos--5IfjhvjxNAvJGEWNn0AhOA).
+
+>⚠️ Una vez registrado o modificado un sinónimo, puede tardar hasta dos horas en reflejarse en la tienda.
 
 ## Buenas prácticas
 

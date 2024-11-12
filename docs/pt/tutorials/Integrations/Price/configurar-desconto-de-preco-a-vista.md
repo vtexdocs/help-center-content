@@ -3,8 +3,8 @@ title: 'Configurar desconto de preço à vista'
 id: 7Lfcj9Wb5dpYfA2gKkACIt
 status: PUBLISHED
 createdAt: 2020-12-18T19:16:46.225Z
-updatedAt: 2024-09-05T16:45:39.679Z
-publishedAt: 2024-09-05T16:45:39.679Z
+updatedAt: 2024-11-01T13:37:19.588Z
+publishedAt: 2024-11-01T13:37:19.588Z
 firstPublishedAt: 2021-05-04T20:05:58.585Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -33,7 +33,7 @@ Depois de determinar o desconto no Checkout, é preciso atrelar o SKU ao meio de
 3. Clique no template da sua página de produto na lista de templates.
 4. Na propriedade `skuPrice`, adicione a variável `paymentSystemId` com o ID do meio de pagamento desejado.
 
-![Screenshot 2020-12-18 Criar preço à vista](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Price/configurar-desconto-de-preco-a-vista_1.png)
+![Screenshot 2020-12-18 Criar preço à vista](https://images.ctfassets.net/alneenqid6w5/4X9sxu1jruXPgpJc5AthbD/ce74271f2f7ca41fa3f762b12a226bcb/Screenshot_2020-12-18_Criar_pre__o____vista.png)
 
 6. Após a alteração, clique em __Save Template__ no campo superior para salvar.
 

@@ -22,7 +22,7 @@ internalReference: 1005799
 
 
 Ao selecionar um departamento para definir uma comissão específica no gerenciamento de vendedores, a tabela não está carregando o nome do departamento. O comportamento não ocorre em categorias secundárias.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketplace/o-nome-do-departamento-nao-esta-sendo-carregado-na-interface-do-usuario-das-comissoes-de-gerenciamento-de-vendedores_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/irbcBV8R7kNO4F5XsLHtaxUMO/?name=image.png)
 
 ## Simulação
 

@@ -3,8 +3,8 @@ title: 'Shipping policy '
 id: tutorials_140
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:12.502Z
-updatedAt: 2024-01-31T01:24:50.628Z
-publishedAt: 2024-01-31T01:24:50.628Z
+updatedAt: 2024-11-05T18:11:45.931Z
+publishedAt: 2024-11-05T18:11:45.931Z
 firstPublishedAt: 2017-04-27T23:00:45.247Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -17,13 +17,13 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 [Shipping strategy](https://help.vtex.com/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) is a set of essential [logistics](https://help.vtex.com/en/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) settings in a VTEX store, which refers to the combination of the following aspects:
 
-1. Shipping policy
-2. [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
-3. [Loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
+* Shipping policy
+* [Loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
+* [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
 
 The image below shows how these concepts relate to each other:
 
-![shipping_strategy_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping Strategy/shipping-policy_1.png)
+![shipping_strategy_EN](https://images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/9f3db7829e85f1c910daf1b81bacd127/shipping_strategy_EN.png)
 
 **Shipping policy** is a set of rules and settings that specify the shipping options that will be displayed to customers at checkout. When calculating the [shipping time for an order](https://help.vtex.com/en/tutorial/como-funciona-o-calculo-de-envio--tutorials_116), the VTEX platform takes into account several settings from the shipping policy, including:
 
@@ -53,6 +53,6 @@ You can configure initial settings through the VTEX Admin or via API. If you are
 | **Topic** | **Configuration via VTEX Admin** | **Configuration via API** |
 | :--- | :--- | :--- |
 | 1. Shipping policy | [Creating a shipping policy](https://help.vtex.com/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
-| 2. [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) | [Managing warehouses](https://help.vtex.com/en/tutorial/gerenciar-estoque--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
-| 3. [Loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) | [Managing loading docks](https://help.vtex.com/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
+| 2. [Loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) | [Managing loading docks](https://help.vtex.com/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
+| 3. [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) | [Managing warehouses](https://help.vtex.com/en/tutorial/gerenciar-estoque--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
 

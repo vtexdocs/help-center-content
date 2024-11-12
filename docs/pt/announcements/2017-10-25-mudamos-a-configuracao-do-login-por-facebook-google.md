@@ -21,7 +21,7 @@ A flag __Usar chaves VTEX__, que antes ativava o uso de dados fornecidos pela VT
 
 Isto significa que o fluxo foi corrigido e não é mais possível usar as chaves da VTEX para login com Facebook e Google. Agora o lojista precisa configurar suas próprias chaves.
 
-![login2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2017-10-25-mudamos-a-configuracao-do-login-por-facebook-google_1.png)
+![login2](https://images.contentful.com/alneenqid6w5/8ctzWCGmeAuay68eyk888/630cfc3d79ef248f06ca47575556738c/login2.png)
 
 Para saber como fazer isso, leia os artigos do Help VTEX:
 

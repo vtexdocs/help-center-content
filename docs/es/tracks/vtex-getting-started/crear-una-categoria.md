@@ -20,14 +20,14 @@ Después de que su árbol de categorías está establecido, usted ya puede inser
 
 En VTEX, el registro de categorías se realiza en el módulo __Catalog__.
 
-1. En el menú de la topbar de su admin, haga clic en __Catalog__ (si ya no está allí).![Catalog](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/vtex-getting-started/crear-una-categoria_1.png)
-2. En las opciones de la pestaña __Cadastro de Productos__, haga clic en __Categoría __.![Categoria](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/vtex-getting-started/crear-una-categoria_2.png)
+1. En el menú de la topbar de su admin, haga clic en __Catalog__ (si ya no está allí).![Catalog](https://images.contentful.com/alneenqid6w5/48wP1cDIw0EwoeOUY8OGWI/8874d5f10e57364c7d78852d5b48aed4/catalog.png)
+2. En las opciones de la pestaña __Cadastro de Productos__, haga clic en __Categoría __.![Categoria](//images.contentful.com/alneenqid6w5/2w0IBMGwik0AGauGA4Eu0G/260db5fed8cca932f10b194a05a5f9c1/Categoria.png)
 
 En la parte izquierda de la pantalla, usted verá el nivel más alto de categorías, que por defecto tiene el nombre __Categorías__. Es dentro de él que vamos a distribuir las categorías de su árbol.
 Haga clic en él y siga los pasos abajo:
 
-1. Haga clic en el botón __Acciones__ que aparece a la derecha de su pantalla.![acoes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/vtex-getting-started/crear-una-categoria_3.png)
-2. Haga clic en la opción __Incluir__.![incluir](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/vtex-getting-started/crear-una-categoria_4.png)
+1. Haga clic en el botón __Acciones__ que aparece a la derecha de su pantalla.![acoes](//images.contentful.com/alneenqid6w5/lIbUp2QFuSckgmwsSGigE/41351e98a797a11deeb60d7bf7b0cac5/acoes.png)
+2. Haga clic en la opción __Incluir__.![incluir](//images.contentful.com/alneenqid6w5/3DGlwjNNpmsW80AYS6CM4Q/3ccf2d1d74bb18e7ebd234977b1137ec/incluir.png)
 
 Usted puede ver la lista completa de los campos de registro de categoría [en este artículo](/pt/tutorial/campos-de-cadastro-de-categoria).
 Pero aquí nos atenemos a algunos campos.

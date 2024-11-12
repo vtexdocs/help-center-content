@@ -20,7 +20,7 @@ Las funcionalidades descritas en este artículo aún no están disponibles para
 
 Se accede a las configuraciones de precios a través del botón **Configuración**, en el módulo **Precios**.
 
-![Preco24](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Prices/Price Settings/configuraciones-de-precios-v2_1.gif)
+![Preco24](https://images.contentful.com/alneenqid6w5/5Wm20idGbCG0uKei00QQOi/5e18f35d0dd0790e5be98341c67ab4a6/Preco24.gif)
 
 En esta pantalla, se puede hacer el registro del markup mínimo. Conozca en este artículo qué es el markup y como configurarlo.
 
@@ -41,4 +41,4 @@ El registro del markup mínimo, realizado en la pantalla de Configuraciones, ser
 
 El markup mínimo inicial por política comercial, es siempre cero y puede ser libremente ajustado a valores positivos o negativos.
 
-![Preco25](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Prices/Price Settings/configuraciones-de-precios-v2_2.gif)
+![Preco25](//images.contentful.com/alneenqid6w5/12nLR9a2AMwCeuYmmIagCI/94ff929a610a22b1fec685acfc0aec7c/Preco25.gif)

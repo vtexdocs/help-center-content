@@ -92,7 +92,7 @@ SKU suggestion,  price and inventory updating. Every time there is a change on t
 
 _Flow Example:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations overview/integration-guide-for-marketplaces-seller-non-vtex_1.png)
+![](https://images.contentful.com/alneenqid6w5/6as0Pc3PGwQOYg4m8gOKY0/a08a7717551cb6649e2a15292254a096/sku-sugestion-seller-nao-vtex.png)
 
 <a name="a1"><a/>
 ### Send Change Notification of SKU price and inventory
@@ -212,7 +212,7 @@ This topic is intended to assist the integrator on the cart simulation between t
 
 _example of a cart flow request:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations overview/integration-guide-for-marketplaces-seller-non-vtex_2.png)
+![](https://images.contentful.com/alneenqid6w5/3gmJwn1ux22muGySkwMWQc/9c058728ea65151c185cc7bc261bdf21/fechamento-fluxo-nao-vtex.png)
 
 <a name="a4"><a/>
 ### Cart Simulation Update
@@ -379,7 +379,7 @@ This topic is intended to assist the Seller to receive a order from the Marketpl
 
 _flow example:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations overview/integration-guide-for-marketplaces-seller-non-vtex_3.png)
+![](https://images.contentful.com/alneenqid6w5/74yZ8Wbwc0K4MGm0ISsqGe/3ce44e3feb867e4828b9dd4eec5cda9f/order-seller-nao-vtex.png)
 
 <a name="a6"><a/>
 ### Sending Order

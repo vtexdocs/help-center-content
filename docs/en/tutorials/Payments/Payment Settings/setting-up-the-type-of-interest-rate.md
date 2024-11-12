@@ -25,7 +25,7 @@ The payment method's ID can be configured to have Simple Interest Rates and is o
 - Select the Payment Condition that should be configured to use Simple Interest Rates
 - Copy the last URL parameter, which shows the ID of this Payment Method (see image)
 
-![ENjuros](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/setting-up-the-type-of-interest-rate_1.png)
+![ENjuros](https://images.ctfassets.net/alneenqid6w5/27ScAtFzUYwYm8y5zGqsEP/ae3915ad736e96121017aba11d87a522/ENjuros.png)
 
 ## Setting up the interest rate type using API
 

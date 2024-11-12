@@ -27,7 +27,7 @@ Contexto correto: Em alguns casos, o vendedor não consegue integrar a SKU, pois
 ## Simulação
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/mercado-livre-sku-o-bridge-nao-esta-registrando-algumas-mensagens-de-erro_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/8b6ggO2OjPCsPZlU5NanwK645/?name=image.png)
 
 
 

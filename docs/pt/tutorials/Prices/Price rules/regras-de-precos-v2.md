@@ -20,7 +20,7 @@ As funcionalidades descritas neste artigo ainda não estão disponíveis para to
 
 Uma regra de preço é um modificador do preço-base cadastrado na tela Lista de preços.
 
-![new-dashboard-pricing-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price rules/regras-de-precos-v2_1.gif)
+![new-dashboard-pricing-pt](https://images.contentful.com/alneenqid6w5/1iEFJLw3xuKGiQS0W02cgm/5bcf2a65612a2fed4754352a7093dee8/new-dashboard-pricing-pt.gif)
 
 ## Como funciona
 
@@ -34,7 +34,7 @@ Além disso, é importante ressaltar que as regras de preço são aplicadas ao p
 
 Será aplicada **apenas a primeira** regra de preço que seja válida para as condições do SKU (categoria; marca; e faixa de markup). Mesmo que existam outras regras de preço válidas, apenas a primeira na ordenação será utilizada para o cálculo de preço do SKU.
 
-![new-dashboard-pricing-rule-reordering-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price rules/regras-de-precos-v2_2.gif)
+![new-dashboard-pricing-rule-reordering-pt](//images.contentful.com/alneenqid6w5/6DTrNN6UMgoWkCU68Q2CWC/7b6168a2cb9a5e93b9b5db8ba98eaa09/new-dashboard-pricing-rule-reordering-pt.gif)
 
 _Recomendamos que a ordenação parta das regras mais específicas para as regras mais abrangentes._
 
@@ -42,7 +42,7 @@ _Recomendamos que a ordenação parta das regras mais específicas para as regra
 
 O passo-a-passo para cadastro é bem simples, e está ilustrado a seguir:
 
-![new-dashboard-pricing-add-rule-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price rules/regras-de-precos-v2_3.gif)
+![new-dashboard-pricing-add-rule-pt](//images.contentful.com/alneenqid6w5/30MxuI9hD2qwc0AWm2MWmA/883e44a5845ba77d05e413aac3baf3f2/new-dashboard-pricing-add-rule-pt.gif)
 
 1. Na tela de **Regras de preços** será exibida uma lista com todas as políticas comerciais. Dentro de cada uma dessa políticas, estarão as regras. Clique no botão **Nova regra**, acima da lista, para criar uma regra.
 2. Escolha em qual política comercial essa regra será inserida.
@@ -53,8 +53,8 @@ O passo-a-passo para cadastro é bem simples, e está ilustrado a seguir:
 
 Abaixo é possível visualizar exemplos dos fluxos de edição e exclusão de regras de preço. 
 
-![new-dashboard-pricing-edit-rule-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price rules/regras-de-precos-v2_4.gif)
+![new-dashboard-pricing-edit-rule-pt](//images.contentful.com/alneenqid6w5/6k5P1L2ypGWsGA2UAsMq6I/df54e4098d1e1534c5d9953a7a50dd67/new-dashboard-pricing-edit-rule-pt.gif)
 *Fluxo de alteração de uma regra*
 
-![new-dashboard-pricing-remove-rule-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price rules/regras-de-precos-v2_5.gif)
+![new-dashboard-pricing-remove-rule-pt](//images.contentful.com/alneenqid6w5/64ESXpmeLmGokKA004aoqE/9d08afb457f280450eed449d9509ce3a/new-dashboard-pricing-remove-rule-pt.gif)
 *Fluxo de exclusão de uma regra*

@@ -21,7 +21,7 @@ You may consult the log of when and who reindexed the base using the Full Clean 
 
 In fact, any action taken on Full Clean Up is recorded on this page.
 
-![fullcleanupLog](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products and SKUs/view-reindex-log_1.png)
+![fullcleanupLog](https://images.contentful.com/alneenqid6w5/4imYxqJjWwog0UYwCIcWY4/a036d799b6de9d34a2e2f810f3780929/fullcleanupLog.png)
 
 The log displays the following information for each action:
 - __Data__: date and time of action.

@@ -27,7 +27,7 @@ Para configurar essa autenticação, siga os passos abaixo:
 2. Entre em __Configurações__ 
 3. Na seção de **Carrinho**, ative a flag __Exigir autenticação do usuário para pagamentos autorizados automaticamente__
 
-![autenticação-usuario-pagamento-recorrencia pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/Orders Management Settings/configurar-autenticacao-do-usuario-para-pagamentos-recorrentes_1.png)
+![autenticação-usuario-pagamento-recorrencia pt](https://images.ctfassets.net/alneenqid6w5/16uRqeq2F4k4UIouOooeoo/40ff615b3f2cbe6b079462960f0a5e8f/autentica____o-usuario-pagamento-recorrencia_pt.png)
 
 
 4. Clique no botão __Salvar__.

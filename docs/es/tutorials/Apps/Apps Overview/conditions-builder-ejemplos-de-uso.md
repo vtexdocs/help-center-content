@@ -24,7 +24,7 @@ Para entender __para qué__ crear condiciones, vea el artículo [Crear Precios C
 
 UTM (Marketing tag) es una información que se refiere al origen del tráfico del cliente. Entonces, en el app existe un bloque que comprueba este tipo de información.
 
-![utm_source_english](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Apps Overview/conditions-builder-ejemplos-de-uso_1.png)
+![utm_source_english](https://images.ctfassets.net/alneenqid6w5/1eC4fEARZG84MYiSmekSIm/5c784e46e4ab63487f183f7cd2060ea9/utm_source_english.png)
 
 >⚠️ **Nota: **
 > Es posible que su tienda utilice personalización y, por eso, las informaciones de UTM contenidas en la URL no se están pasando a nuestro sistema. Si utiliza personalización de Javascript, lea el artículo [¿Por qué las UTMs no se aplican al carrito?](https://help.vtex.com/es/faq/por-que-las-utms-no-se-aplican-al-carrito)
@@ -41,7 +41,7 @@ __utm_campaign__ informa en __cuál campaña__ específicamente su cliente ha he
 
 __utm_medium__ informa cuál __canal de propaganda__ alcanzó a su cliente que puede ser, por ejemplo, Email o Banner en un website. En el caso de la imagen, el bloque comprueba si el canal fue *email*.
 
-![utmenglish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Apps Overview/conditions-builder-ejemplos-de-uso_2.png)
+![utmenglish](//images.ctfassets.net/alneenqid6w5/4lFJ73jp9Cysoes6igUKO2/6e099fe8ff1600fc165ef4c1b008bdaa/utmenglish.png)
   
 Para cada uno de estos bloques, usted tiene la opción de verificar si:
 
@@ -85,7 +85,7 @@ Este bloque analiza el valor total que existe en el carrito.
 
 Vamos a suponer que usted quiera dar un precio más barato a un champú si el cliente está llevando __exactamente 3 unidades__, pero, además de eso, debe estar llevando __como mínimo 150 reales__ en compras. La condición que se creará será:
 
-![Exemplo2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Apps Overview/conditions-builder-ejemplos-de-uso_3.png)  
+![Exemplo2](//images.ctfassets.net/alneenqid6w5/11Z9LujUl66G80yGQyKI6S/fa33819d9e0ef37113466e3612d370d5/exemplo2.png)  
 
 *cantidad de este artículo en el carrito es **exactamente** 3
 **Y**
