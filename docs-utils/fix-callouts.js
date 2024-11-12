@@ -94,6 +94,7 @@ async function processDirectory(directory) {
         const files = await fs.readdir(directory);
         for (const file of files) {
             const filePath = path.join(directory, file);
+            console.log(filePath)
             const stats = await fs.stat(filePath);
 
             if (stats.isDirectory()) {
