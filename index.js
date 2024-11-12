@@ -15,8 +15,6 @@ const { replaceQuotes } = require('./docs-utils/replace-quotes'); // Import the 
 
 const { fixCallouts } = require('./docs-utils/fix-callouts'); // Import the fix-callouts function
 
-const { adjustTroubleshootingContent } = require('./docs-utils/troubleshooting-structure-adjustment') // Import the troubleshooting adjustment function
-
 let fileCount = 0;
 
 let contentTypes = {
