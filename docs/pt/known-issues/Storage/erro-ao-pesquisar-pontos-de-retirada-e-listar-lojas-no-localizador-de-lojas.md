@@ -22,13 +22,13 @@ internalReference: 1118712
 
 
 Ao pesquisar um ponto de coleta em Logística, pode ocorrer o seguinte erro:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/tGzdaXqZCHcgtcGaPagLU0yZu/?name=image.png)
 
     Ocorreu um erro ao carregar os pontos de coleta. Por favor, recarregue a página.
 
 
 Além disso, nesse mesmo cenário, há um impacto na loja on-line, que usa o aplicativo Store Locator para listar suas lojas, então a lista de lojas não será exibida:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Dv85rVttxoEMwVXMsMmTxWoI1/?name=image.png)
 
 ## Simulação
 

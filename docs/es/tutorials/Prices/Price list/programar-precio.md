@@ -56,7 +56,7 @@ También puede hacer la programación de precios importando una plantilla de pre
 
 1. En el Admin VTEX, accede a **Precios > Lista de precios** , o escribe **Lista de precios** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en el ícono 📥 para exportar la plantilla que se rellenará.
-![Agendar preço fixo - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Prices/Price list/programar-precio_1.png)
+![Agendar preço fixo - ES](https://images.contentful.com/alneenqid6w5/71nENEY0RAQO9VKRdlQRiG/815eca5b71065052b89c8411af1a7329/image.png)
 3. Seleccione solo la opción **Tabla de precios fijos**.
 4. Haga clic en `Exportar 1 tabla`.
 
@@ -72,7 +72,7 @@ La plantilla se enviará a su email y podrá descargarla allí. Después de desc
 
 >ℹ️ Los campos **Date From** y **Date To** siguen el formato [RFC3339](https://www.ietf.org/rfc/rfc3339.txt" target="_blank), que incluye la zona horaria. Por ejemplo, si una promoción comienza o termina a las 22:00 horas el 30 de diciembre de 2024, en Argentina (zona horaria GMT-3), el valor que debe ingresarse será: `2024-12-30T22:00:00-03:00`. Si no se especifica la zona horaria, el sistema asumirá UTC. Para indicar un precio válido a partir de la medianoche (00:00) UTC del mismo día, el campo debe contener: `2024-12-30T00:00:00Z`.
 
-![Agendar preço fixo planilha PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Prices/Price list/programar-precio_2.png)
+![Agendar preço fixo planilha PT](//images.contentful.com/alneenqid6w5/7g3wkpsDPcdjYHT2xSqGhS/1895766def1ed02971f47f003d115491/Screenshot_2021-08-05_at_17-17-11_-EDU-4229-_Agendar_pre__o_fixo.png)
 
 Una vez que haya terminado de rellenar la plantilla, debe importarla a la tienda. Siga los pasos a continuación.
 

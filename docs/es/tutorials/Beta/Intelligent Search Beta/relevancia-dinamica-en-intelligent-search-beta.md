@@ -38,7 +38,7 @@ La relevancia manual se configura distribuyendo los pesos en la página **Reglas
 
 1. En el Admin VTEX, accede a **Storefront > Intelligent Search >** **Reglas de relevancia**  o ingresa **Reglas de relevancia** en la barra de búsqueda de la parte superior de la página.
 2. Selecciona la opción **Relevancia manual**.
-![relevancia-manual-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Intelligent Search Beta/relevancia-dinamica-en-intelligent-search-beta_1.png)
+![relevancia-manual-es](https://images.ctfassets.net/alneenqid6w5/5BSjswlkB1mMpR1MtCrEWL/eedc0f4e7adac60ba0e457a525c5e642/image.png)
 3. Haz clic en `Guardar`.
 
 Para configurar la relevancia manual, consulta el artículo [Relevancia](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
@@ -56,7 +56,7 @@ Para activar la relevancia dinámica, sigue estos pasos:
 1. En el Admin VTEX, accede a **Storefront > Intelligent Search > Reglas de relevancia**  o ingresa **Reglas de relevancia** en la barra de búsqueda de la parte superior de la página.
 2. Lee la información sobre relevancia dinámica y haz clic en `Siguiente`.
 3. Selecciona la opción **Relevancia dinámica**.
-![relevancia-dinamica-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Intelligent Search Beta/relevancia-dinamica-en-intelligent-search-beta_2.png)
+![relevancia-dinamica-es](//images.ctfassets.net/alneenqid6w5/4yzGzHE6WhQp6qFGISgt9q/d4b2d75e6d45e40ddd06bc9cf1332bcc/image.png)
 4. Haz clic en `Guardar`.
 5. Espera a que la barra de progreso alcance el 100 %. Este proceso puede demorar algunas horas, pero recibirás un email cuando haya finalizado.
 6. Haz clic en `Activar`.

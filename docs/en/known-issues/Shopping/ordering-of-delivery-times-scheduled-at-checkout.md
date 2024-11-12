@@ -20,7 +20,7 @@ internalReference:
 
 Currently the delivery times for a scheduled delivery are out of order, or in descending order. For better readability, this information is expected to be organized in ascending order.
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Shopping/ordering-of-delivery-times-scheduled-at-checkout_1.png)
+![image](//images.ctfassets.net/alneenqid6w5/dpGWYjydIAiC2i4qEigsm/0334f47a61fa7dcc4defe1cde08d616b/image.png)
 
 ## Simulation
 

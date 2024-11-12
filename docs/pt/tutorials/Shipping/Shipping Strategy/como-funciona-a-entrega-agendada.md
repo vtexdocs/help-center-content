@@ -29,7 +29,7 @@ Em **Estoque & entrega**, acesse **Painéis** e escolha a **Transportadora** des
 
 Em **Tipo da entrega**, clique  **Entrega agendada**.
 
-![entrega-agendada pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Shipping Strategy/como-funciona-a-entrega-agendada_1.png)
+![entrega-agendada pt](https://images.ctfassets.net/alneenqid6w5/6bbP1sy4xiKUSmYAWGWgMq/c6370ec0630605c537bea7e65e1d15a1/entrega-agendada_pt.png)
 Para entender melhor como cadastrar os demais campos da transportadora, veja também nossa documentação sobre [cadastro de transportadora](http://help.vtex.com/pt/tutorial/gerenciar-transportadora).
 
 Nesta estrutura, temos os seguintes dados:
@@ -42,7 +42,7 @@ Nesta estrutura, temos os seguintes dados:
 
 Usando o mesmo cenário da loja citada acima, segue a configuração da transportadora segundo sua demanda:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Shipping Strategy/como-funciona-a-entrega-agendada_2.jpg)
+![](//images.contentful.com/alneenqid6w5/6AEhj0a4SIeyQWCI6IQeCk/28a10fa00baa9723e73847d983e12d66/horariosentregaagendada.jpg)
 
 Supondo que o Estoque tem 2 dias de prazo; a Doca tem 1 dia de prazo; a Tabela de Frete tem 5 dias de prazo. O primeiro dia disponibilizado será **8** dias depois da data que o pedido está sendo efetuado. Como o Tempo Máximo de Entrega é de 10 dias, o último dia disponível para a escolha será o **18º** dia após a data que o pedido está sendo efetuado.
 

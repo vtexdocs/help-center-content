@@ -21,7 +21,7 @@ Com essa nova feature, temos agora uma nova entidade de preço chamada *Preços 
 
 O gráfico abaixo explica como funciona a cascata de preços:
 
-![Cascata de Preço](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/cascata-de-precos_1.png)
+![Cascata de Preço](https://images.ctfassets.net/alneenqid6w5/4Dh0ulBDFCEs8WuuigSsoY/3cfeccdf7b8d690a026533fbcbc699b0/cascataPreco.png)
 
 Quando um preço para um SKU é solicitado ao módulo de *Pricing*:
 1. Um *Preço Fixo* é selecionado em seus critérios como **agendamento** e **quantidade mínima**

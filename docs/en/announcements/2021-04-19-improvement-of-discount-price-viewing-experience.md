@@ -24,16 +24,16 @@ Before this change, customers could experience issues in the order summary if th
 Consider, for instance, a customer that wants to buy a product that costs US$ 600 and is eligible for a 10% discount for prepayment in full. The customer proceeds to checkout and lands on the order summary page, where they must select a payment option. Here are the three main error scenarios that could occur:
 
 - The customer has not selected a payment option yet, and the price is displayed without the discount in all options, even the one that is eligible for it.
-![O usuário ainda não selecionou um número de parcelas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-04-19-improvement-of-discount-price-viewing-experience_1.png)
+![O usuário ainda não selecionou um número de parcelas](https://images.ctfassets.net/alneenqid6w5/4dFdvU6HcZGvBWSpr0VI04/fe470a5050d3c66d98b21d978f968036/image6.png)
 
 - The customer has selected a payment option that is not eligible for the discount, and the price is displayed without the discount in all options, even the one that is eligible for it (prepayment in full).
-![O usuário selecionou um número de parcelas não elegível para desconto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-04-19-improvement-of-discount-price-viewing-experience_2.png)
+![O usuário selecionou um número de parcelas não elegível para desconto](//images.ctfassets.net/alneenqid6w5/nY13uDOX3JBOJvCN5Oj2i/d931d2d73ffb7f1b8c8ddbf7310b7bc9/image8.png)
 
 - The customer has selected a payment option that is eligible for the discount (prepayment in full), and the discount is applied to all options, even the ones that are not eligible for it.
-![O usuário selecionou um número de parcelas elegível para desconto (à vista)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-04-19-improvement-of-discount-price-viewing-experience_3.png)
+![O usuário selecionou um número de parcelas elegível para desconto (à vista)](//images.ctfassets.net/alneenqid6w5/3hRThIcKzoGWirn17UIXqV/bd64d486417ca73e2d510fc03e4ddd05/image2.png)
 
 With this change, discounts will be displayed correctly in the payment options that are eligible for them.
-![O desconto será sempre exibido corretamente apenas nas opções de parcelamento elegíveis.](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-04-19-improvement-of-discount-price-viewing-experience_4.png)
+![O desconto será sempre exibido corretamente apenas nas opções de parcelamento elegíveis.](//images.ctfassets.net/alneenqid6w5/XBFP0W5B1wlGwpoz3In3W/99a531d3dbd3eeae102536126c849212/image4.png)
 
 ## Why did we make this change?
 

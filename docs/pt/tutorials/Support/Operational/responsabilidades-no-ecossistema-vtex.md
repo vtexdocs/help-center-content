@@ -30,7 +30,7 @@ Durante a configuração inicial da VTEX, caso a sua loja utilize [integrações
 
 Uma vez configurada a integração inicial de produtos, preços e inventário, e desenvolvido o middleware, o fluxo de informações será conforme o diagrama a seguir.
 
-![back-office-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/responsabilidades-no-ecossistema-vtex_1.PNG)
+![back-office-pt](https://images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/6bc291243b2b38f8a570d404d88e055e/back-office-pt.PNG)
 
 Durante a rotina da operação, as responsabilidades são divididas da seguinte forma:
 
@@ -212,6 +212,6 @@ Para entender qual suporte deve ser acionado caso haja algum problema na atualiz
 2. Clique no pedido desejado para acessar a [página de detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 3. Na seção **Histórico do pedido**, clique em `Ver interações` (botão ilustrado a seguir), e verifique se há alguma mensagem de erro. 
 
-![ver-interacoes-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/responsabilidades-no-ecossistema-vtex_2.png)
+![ver-interacoes-pt](//images.ctfassets.net/alneenqid6w5/2A2368gEpzx8T1VnDXsQ2C/6d50ebab0fb9de03850bc219ea7fbce8/ver-interacoes-pt.png)
 
 Caso a mensagem de erro não seja autossuficiente, o lojista pode acionar nossos canais de comunicação, conforme a [Política de atendimento do suporte da VTEX](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9). Recomendamos incluir a evidência da tela de interações e o ID do pedido, para que o time de especialistas ajude a identificar a origem do problema.

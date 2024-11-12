@@ -3,13 +3,13 @@ title: 'Visión General Configuraciones de Usuário'
 id: 3Qsy4ce1FrWKZPoMeEQY34
 status: PUBLISHED
 createdAt: 2023-03-28T19:17:26.175Z
-updatedAt: 2023-04-10T19:54:47.511Z
-publishedAt: 2023-04-10T19:54:47.511Z
+updatedAt: 2024-10-30T14:25:48.567Z
+publishedAt: 2024-10-30T14:25:48.567Z
 firstPublishedAt: 2023-03-28T19:28:17.517Z
 contentType: tutorial
 productTeam: Identity
 author: authors_84
-slugEN: visao-geral-configuracoes-de-usuario
+slugEN: user-settings-overview
 locale: es
 legacySlug: vision-general-configuraciones-de-usuario
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
@@ -17,7 +17,7 @@ subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 
 La *Configuración del usuario* es el conjunto de configuraciones aplicadas a tu perfil personal en el Admin, y no están relacionadas con tu tienda o la cuenta de tu negocio en VTEX. Para acceder a esta página, haz clic en tu **avatar de perfil**, marcado con la inicial de tu email, y luego haz clic en el botón **Configuración del usuario**. 
 
-![Admin v4 User settings menu ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Users/vision-general-configuraciones-de-usuario_1.jpg)
+![Admin v4 User settings menu ES](https://images.ctfassets.net/alneenqid6w5/5WVJereXlPhkKKyXbg7jog/906a71481f7c64887b63187e9a1f2952/Admin_v4_User_settings_menu_ES.jpg)
 
 En esta página, que pronto se incluirá en el diseño del Admin v4, puedes realizar las siguientes acciones:
 

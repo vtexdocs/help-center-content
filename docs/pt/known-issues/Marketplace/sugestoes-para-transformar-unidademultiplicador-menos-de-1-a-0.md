@@ -25,13 +25,13 @@ internalReference: 702056
 O vendedor pode enviar os valores unitários do Multiplicador para seus skus que se encontram abaixo 1.
 
 Exemplo:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketplace/sugestoes-para-transformar-unidademultiplicador-menos-de-1-a-0_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/HqXCaizs03DZbMVT2tcufZM6K/?name=image.png)
 
 A mesma informação é enviada ao mercado corretamente:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketplace/sugestoes-para-transformar-unidademultiplicador-menos-de-1-a-0_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zImMl1BVZHLG6zc45x4XwrZpB/?name=image.png)
 
 Entretanto, uma vez que o produto é processado pelo Matcher, o valor é arredondado para 0:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketplace/sugestoes-para-transformar-unidademultiplicador-menos-de-1-a-0_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/j5FMl4AJJ0R5IP3FcStUo7DDi/?name=image.png)
 
 E uma vez aprovado no catálogo do mercado, o valor continua como 0. Dessa forma, um valor errado é definido no catálogo do mercado.
 

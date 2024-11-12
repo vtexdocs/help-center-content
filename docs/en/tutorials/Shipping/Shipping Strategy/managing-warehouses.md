@@ -3,8 +3,8 @@ title: 'Managing Warehouses'
 id: tutorials_137
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:29.061Z
-updatedAt: 2023-05-31T14:45:13.291Z
-publishedAt: 2023-05-31T14:45:13.291Z
+updatedAt: 2024-11-05T17:55:49.337Z
+publishedAt: 2024-11-05T17:55:49.337Z
 firstPublishedAt: 2017-04-27T23:00:45.952Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -31,13 +31,11 @@ This article describes how to:
 >⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order:
 > <body>
 >
-> [Trade policy;](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+> [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)
 >
-> 2. [Shipping policy;](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)
+> 2. [Loading dock](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
 >
-> 3. [Loading dock;](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
->
-> Warehouse.
+> [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
 >
 > </body>
 

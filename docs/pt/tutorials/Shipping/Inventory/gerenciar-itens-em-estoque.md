@@ -3,8 +3,8 @@ title: 'Gerenciar inventário'
 id: tutorials_139
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:21.085Z
-updatedAt: 2024-04-18T15:25:20.097Z
-publishedAt: 2024-04-18T15:25:20.097Z
+updatedAt: 2024-11-04T21:16:13.814Z
+publishedAt: 2024-11-04T21:16:13.814Z
 firstPublishedAt: 2017-04-27T23:00:44.889Z
 contentType: tutorial
 productTeam: Post-purchase

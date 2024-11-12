@@ -30,7 +30,7 @@ Já em operações B2B, há necessidade de se manter relações com os comprador
 2. Na aba __Gerais__, preencha o valor desejado no campo __Valor mínimo total do carrinho__.
 3. Clique em `Salvar`.
 
-![Minimum Order Value - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/como-configurar-valor-minimo-de-pedido-e-quantidade-maxima-de-itens-por-sku_1.png)
+![Minimum Order Value - PT](https://images.ctfassets.net/alneenqid6w5/6bJ49E109ewRg9VUoP16rP/4b4ff920a4c1a9a98ad3450e00f47d6c/Minimum_Order_Value_-_PT.png)
 
 >⚠️ Ao cliente é permitido montar um carrinho com um valor menor que o especificado na regra de "Valor mínimo total do carrinho". Entretanto, no momento de fechamento da compra, só serão concluídos os pedidos que estiverem com o valor igual ou acima do especificado.
 
@@ -40,7 +40,7 @@ Já em operações B2B, há necessidade de se manter relações com os comprador
 2. Na aba __Gerais__, preencha o valor desejado no campo __Quantidade máxima de um mesmo SKU no Carrinho__.
 3. Clique em `Salvar`.
 
-![Quantidade Maxima de um mesmo SKU no carrinho](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/como-configurar-valor-minimo-de-pedido-e-quantidade-maxima-de-itens-por-sku_2.png)
+![Quantidade Maxima de um mesmo SKU no carrinho](//images.ctfassets.net/alneenqid6w5/Tb4rS7FposwzygY5HlEpr/bb659e068dfde3a2e4d05480422a7113/Quantidade_Maxima_de_um_mesmo_SKU_no_carrinho_PT.png)
 
 >⚠️ Não existem limites para a quantidade máxima de itens do **mesmo SKU** por carrinho. A única restrição é referente a quantidade máxima de itens de **SKUs diferentes**, que devem ser no máximo de 300 itens por carrinho.
 

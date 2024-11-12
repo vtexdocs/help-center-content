@@ -3,8 +3,8 @@ title: 'Lead time: tiempo de envío a nivel de SKU'
 id: 16yv5Mkj6bTyWR1hCN2f4B
 status: PUBLISHED
 createdAt: 2023-09-22T00:32:26.416Z
-updatedAt: 2024-08-16T17:55:22.057Z
-publishedAt: 2024-08-16T17:55:22.057Z
+updatedAt: 2024-11-04T21:12:54.681Z
+publishedAt: 2024-11-04T21:12:54.681Z
 firstPublishedAt: 2023-09-22T01:35:53.577Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -33,7 +33,7 @@ Este artículo aborda los siguientes aspectos:
 
 Cuando se configura, el lead time es un tiempo adicional que compone el plazo de envío del pedido que se muestra al cliente en el checkout. En la imagen a continuación, se muestran los elementos que componen el plazo total:
 
-![lead_time_image_total_time_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory/lead-time-tiempo-de-envio-a-nivel-de-sku_1.png)
+![lead_time_image_total_time_ES](https://images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/f9610838cce53ee740054bee68e634d1/lead_time_image_total_time_ES.png)
 
 * **Lead time:** cantidad de tiempo configurable para el SKU de un almacén. Este periodo puede corresponder al tiempo de procesamiento o fabricación del ítem, por ejemplo. Esta configuración es opcional y se establece en cero días de forma predeterminada.
 * [Tiempo de almacén:](https://help.vtex.com/es/tutorial/gerenciar-estoque--tutorials_137) tiempo que tarda el SKU en pasar del almacén al [muelle](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). Este ajuste es obligatorio, pero puedes configurar el tiempo como cero.
@@ -67,7 +67,7 @@ La plataforma VTEX presentará comportamientos diferentes dependiendo de si el S
 
 - <i class="far fa-check-circle"></i> **SKU en stock:** el administrador de la tienda configura el lead time del SKU; el periodo se considera en el cálculo de envío del pedido, y el plazo total se muestra al cliente en la etapa de checkout.
 - <i class="fas fa-times"></i> **SKU sin stock:** el administrador de la tienda configura el lead time del SKU, pero el SKU no se considera válido porque no hay unidades disponibles para la venta.
-- <i class="far fa-check-circle"></i> **Stock infinito:** el administrador de la tienda configura el lead time del SKU; el periodo se considera en el cálculo de envío del pedido, y el plazo total se muestra al cliente en la etapa de checkout. Si el stock está activado como infinito, el SKU siempre estará disponible para la venta.
+- <i class="far fa-check-circle"></i> **Stock ilimitado:** el administrador de la tienda configura el lead time del SKU; el periodo se considera en el cálculo de envío del pedido, y el plazo total se muestra al cliente en la etapa de checkout. Si el stock está activado como ilimitado, el SKU siempre estará disponible para la venta.
 
 ## Configurar lead time
 
@@ -78,7 +78,7 @@ Para configurar el lead time de un SKU sigue los pasos a continuación:
 1. En el Admin VTEX, accede a **Catálogo > Stock > Gestión del stock**, o ingresa **Gestión del stock** en la barra de búsqueda de la parte superior de la página.
 2. Selecciona el SKU que deseas configurar. Puedes utilizar la barra y los filtros de búsqueda.
 3. Ingresa el número de días en la fila del SKU y en la columna **Lead time (días)**.
-  ![lead_time_inventory_management_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory/lead-time-tiempo-de-envio-a-nivel-de-sku_2.png)
+  ![lead_time_inventory_management_ES](//images.ctfassets.net/alneenqid6w5/mfWUVzj7tgHMQxJTnVjGX/898387e10a3c41d8837df10604ec652d/lead_time_inventory_management_ES.png)
 4. Haz clic en `Guardar` en la parte inferior de la página.
 
 >ℹ️ En el Admin VTEX, el lead time siempre se configura en días, pero también se pueden configurar periodos en horas, minutos y segundos, utilizando los endpoints [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-) y [Update inventory lead time by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#patch-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-/lead-time).
