@@ -828,7 +828,6 @@ async function main() {
     await getEntries();
     await replaceQuotes();
     await fixCallouts();
-    await adjustTroubleshootingContent();
   } catch (error) {
     console.error("Error in main function:", error);
   }
