@@ -474,16 +474,16 @@ async function getEntries() {
             errorDocs.docs.push(file);
             continue;
           }
-          // Adicionar o prefixo "cat-" somente aos slugs das categories, não das subcategories
+          // Add the "category-" prefix only to category slugs, not subcategories
           const updatedCategory = {
             ...endpointObj,
             type: 'category',
             children: [],
-            subcategories: file.fields.subcategories.pt,  // Não modifica as slugs das subcategorias
-            slug: {  // Adiciona "cat-" às slugs da category
-              en: `cat-${file.fields.slug.en}`,
-              es: `cat-${file.fields.slug.es}`,
-              pt: `cat-${file.fields.slug.pt}`
+            subcategories: file.fields.subcategories.pt,  // Does not modify subcategory slugs
+            slug: {  // Add "category-" to category slugs
+              en: `category-${file.fields.slug.en}`,
+              es: `category-${file.fields.slug.es}`,
+              pt: `category-${file.fields.slug.pt}`
             }
           };
 
