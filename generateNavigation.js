@@ -477,13 +477,13 @@ async function getEntries() {
           // Add the "category-" prefix only to category slugs, not subcategories
           const updatedCategory = {
             ...endpointObj,
-            type: 'category',
+            type: 'markdown',
             children: [],
             subcategories: file.fields.subcategories.pt,  // Does not modify subcategory slugs
             slug: {  // Add "category-" to category slugs
               en: `category-${file.fields.slug.en}`,
-              es: `category-${file.fields.slug.es}`,
-              pt: `category-${file.fields.slug.pt}`
+              es: `categoria-${file.fields.slug.es}`,
+              pt: `categoria-${file.fields.slug.pt}`
             }
           };
 
