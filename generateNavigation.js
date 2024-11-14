@@ -22,26 +22,51 @@ const errorDocs = {
 const navigation = { navbar: [
   {
     documentation: 'Start here',
+    name: {
+      en: 'Start here',
+      es: 'Comece aqui',
+      pt: 'Comece aqui'
+    },
     slugPrefix: 'docs/tracks',
     categories: []
   },
   {
     documentation: 'Tutorials',
+    name: {
+      en: 'Tutorials',
+      es: 'Tutoriales',
+      pt: 'Tutoriais'
+    },
     slugPrefix: 'docs/tutorial',
     categories: []
   },
   {
     documentation: 'News',
+    name: {
+      en: 'News',
+      es: 'Anuncios',
+      pt: 'Comunicados'
+    },
     slugPrefix: 'announcements',
     categories: []
   },
   {
     documentation: 'FAQs',
+    name: {
+      en: 'Frequently asked questions',
+      es: 'Preguntas frecuentes',
+      pt: 'Perguntas frequentes'
+    },
     slugPrefix: 'faq',
     categories: []
   },
   {
     documentation: 'Known Issues',
+    name: {
+      en: 'Known issues',
+      es: 'Problemas Conocidos',
+      pt: 'Problemas conhecidos'
+    },
     slugPrefix: 'known-issues',
     categories: []
   }
