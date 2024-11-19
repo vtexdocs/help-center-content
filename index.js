@@ -15,6 +15,8 @@ const { replaceQuotes } = require('./docs-utils/replace-quotes'); // Import the 
 
 const { fixCallouts } = require('./docs-utils/fix-callouts'); // Import the fix-callouts function
 
+const { updateAllImages } = require('./docs-utils/update-all-images'); // Import the update-all-images function
+
 let fileCount = 0;
 
 let contentTypes = {
