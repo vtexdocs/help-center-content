@@ -53,9 +53,6 @@ const updateImages = async (filepath) => {
 ''
     const encodedFilepath = encodeURI(path.relative('.', newFilepath).replace(/\\/g, "/"))
 
-    console.log('ENCODEDFILEPATH:' + encodedFilepath)
-
-
     const newURL = `${baseURL}${encodedFilepath}`;
     imageIndex++;
 
