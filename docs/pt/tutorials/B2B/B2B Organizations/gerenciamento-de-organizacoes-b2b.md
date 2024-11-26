@@ -47,7 +47,7 @@ Cada organização pode ter um dos seguintes status:
 
 - **Inativo:** a organização foi desativada pelos administradores da loja, portanto, seus usuários não poderão fazer login.
 
-![Status- PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/B2B Organizations/gerenciamento-de-organizacoes-b2b_1.gif)
+![Status- PT](https://images.ctfassets.net/alneenqid6w5/2UywOtrYrvizJEY5LjQgau/4e8ec550596a86988e076707f570dc6e/Status-_PT.gif)
 
 ## Adicionar uma nova organização
 
@@ -73,7 +73,7 @@ Para adicionar uma nova organização, siga os passos abaixo:
     - **Destinatário:** nome da pessoa que receberá os pedidos no endereço informado.
 4. Clique em `Adicionar`.
 
-![Adiconar organização- PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/B2B Organizations/gerenciamento-de-organizacoes-b2b_2.gif)
+![Adiconar organização- PT](//images.ctfassets.net/alneenqid6w5/7vp9NX3NLvSWErVBlYzbNI/c0e63411db1ab4a2fd44b4592d4aeffd/Adiconar_organiza__o-_PT.gif)
 
 ## Notificações por emails
 

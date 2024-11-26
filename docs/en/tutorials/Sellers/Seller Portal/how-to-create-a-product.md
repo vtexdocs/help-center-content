@@ -54,7 +54,7 @@ In this section, you need to add at least one trade policy to apply to the produ
 
 In this step, you must write a description with the main information related to the product. The text should contain a clear and simple product description. This is a rich text editor, which means that you can use several formatting features using the toolbar, as illustrated below.
 
-![richtext-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Seller Portal/how-to-create-a-product_1.gif)
+![richtext-EN](https://images.contentful.com/alneenqid6w5/5qza9JxGS1DIAKpZ6LkAwC/2e79ac8b7ddffefc466714db3046c29c/richttext-EN.gif)
 
 Here are the features available:
 
@@ -85,7 +85,7 @@ To add images to the product, follow the instructions below:
 
 To rearrange the images and change their display order on the product page, you can click on an image and then drag and drop it to a certain position, as shown below.
 
-![imagens-sku-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Seller Portal/how-to-create-a-product_2.gif)
+![imagens-sku-EN](//images.contentful.com/alneenqid6w5/oJHgJiv7E7RZFb7XeubfA/dba3c742cdb200d0a65cd0aa5ad70b1b/imagens-sku-EN.gif)
 
 You can change information by clicking the <i class="fas fa-ellipsis-v"></i> button in the row of each image, which opens a menu with the following options:
 
@@ -120,7 +120,7 @@ For example, a cosmetic store could configure attribute groups of a perfume as s
   1. Fixation time: long
   2. Application type: spray
 
-![atributo-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Seller Portal/how-to-create-a-product_3.gif)
+![atributo-EN](//images.contentful.com/alneenqid6w5/4k55tsjwIBJU1f5e2ifTmW/d083207baba781dccb4f8166f08820fc/atributo-EN.gif)
 
 After you have made the desired changes in the attribute dashboard, save the information.
 
@@ -161,7 +161,7 @@ The specifications you’ve created and their respective options will be listed 
 
 By combining these different options, the system automatically generates a list of SKUs and displays it in the **[Variations](#variations)** section.
 
-![variations EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Seller Portal/how-to-create-a-product_4.png)
+![variations EN](//images.ctfassets.net/alneenqid6w5/DkJNVLdFQ6BuBUDPwt2Xj/c37697e3259b102f8292be8378cf6e2b/variations_EN.png)
 
 ## Specifications
 
@@ -190,7 +190,7 @@ By clicking on the button, you can perform the following actions:
   * **Select images:** select images corresponding to the variation. To select an image, just click on it. If you want to select all images at once, use the keyboard shortcut `Ctrl` + `A`.
   * **Apply to multiple variations:** you can add the selected images to multiple variations. To do so, click on `Apply to multiple variations +` and select the values of the specifications your image relates to. For example, for an image of beige sneakers, you should select the `beige` option from the `color` specification. The image will then apply to all variations whose `color` specification has the value `beige`, regardless of any other specifications you have set. 
 
-![variacoes-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Seller Portal/how-to-create-a-product_5.gif)
+![variacoes-EN](//images.contentful.com/alneenqid6w5/1CNiASM7uobd4NUXK6Q4Wy/3c7324d43747404d6a2b09690dce2f49/variacoes-EN.gif)
 
   * **Add images:** on this page, you can also upload new images by clicking on the `Add images` button or by dropping image files into the dotted space.
 * **Deactivate:** deactivate the SKU.
@@ -201,7 +201,7 @@ By clicking on the button, you can perform the following actions:
 
 You can view and edit all information and images related to each product variation in the variations advanced editing dashboard, illustrated below.
 
-![Advanced editing EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Seller Portal/how-to-create-a-product_6.png)
+![Advanced editing EN](//images.contentful.com/alneenqid6w5/11lFaBFxSswNbDDqgdcMbi/8a1bd4a197cb37abb2c609fad88cb1b4/Screenshot_13.png)
 
 In the **Variations** section on the left side of the dashboard, you will find the list of variations of your product. To edit a specific variation, click on it.
 
@@ -212,7 +212,7 @@ To edit a large number of variations at once, you can use the Bulk edit feature 
 
 1. Click on the `Bulk editing` button to open the variation editing spreadsheet.
 2. To edit information, double-click on the field you want to change.
-![edicao-massa-SKU-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Seller Portal/how-to-create-a-product_7.png)
+![edicao-massa-SKU-EN](//images.ctfassets.net/alneenqid6w5/6WRJU5vCWJKjH0ULhdbCdV/279480fdf223ea60584f27ba4b8c2e05/image.png)
 
 You can edit the following information:
 - **Active:** whether the variation is active or not.
@@ -228,7 +228,7 @@ You can edit the following information:
 To filter the columns displayed in the spreadsheet, click on `Filter columns` and select the columns you want to hide.
 
 You can replicate information from one cell to other rows and columns. To do this, click on the blue square in the lower right corner of the cell and drag to the cells where you want to automatically replicate the value, as shown in the image below.
-![Formatacao-celula-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Seller Portal/how-to-create-a-product_8.gif)
+![Formatacao-celula-EN](//images.ctfassets.net/alneenqid6w5/7cFtECFGcmmDTQ6Oy3qGTg/b0171c41044f0a8653d13a696a33534f/Formatacao-celula-EN.gif)
 3.  After editing, click on `Apply` to save the changes.
 
 ## SEO
@@ -241,7 +241,7 @@ The way you fill in the fields in this section affects how the product will be r
 
 By filling out the SEO fields, a preview of your product in Google's results will be displayed. See an example in the image below.
 
-![SEO-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Seller Portal/how-to-create-a-product_9.png)
+![SEO-EN](//images.contentful.com/alneenqid6w5/3oL8DjR85z8zbkhBcjO1sW/1fcfa63c213107f343d80f01871eeed6/Screenshot_9.png)
 
 ## Storefront
 

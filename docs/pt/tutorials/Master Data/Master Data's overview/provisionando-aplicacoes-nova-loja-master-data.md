@@ -1,10 +1,10 @@
 ---
 title: 'Provisionando aplicações de uma nova loja no Master Data'
 id: 1mRKxiUXDeq2cC06CUEqOY
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2017-06-20T22:03:59.355Z
-updatedAt: 2020-06-22T18:57:48.880Z
-publishedAt: 2020-06-22T18:57:48.880Z
+updatedAt: 2024-10-23T14:52:01.165Z
+publishedAt: 
 firstPublishedAt: 2019-01-25T17:22:21.304Z
 contentType: tutorial
 productTeam: Master Data

@@ -35,7 +35,7 @@ Even with price and stock correctly registered in the VTEX catalog, several prod
 
 Admin > Installed APPS > Shopee > Manage Products > Product Sync Status
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/shopee-sku-disabled-in-marketplace-shopeeskuhelper-sku-update-failed_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/5nItV4f72xEP8f530KkOaHpuD/?name=image.png)
 
 
 ##

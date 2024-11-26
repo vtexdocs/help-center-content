@@ -3,8 +3,8 @@ title: 'Which logistics settings can impact the product availability in the cart
 id: NAyBFToRdvlDyOzeeAeNw
 status: PUBLISHED
 createdAt: 2024-09-27T14:02:13.369Z
-updatedAt: 2024-09-27T16:47:06.054Z
-publishedAt: 2024-09-27T16:47:06.054Z
+updatedAt: 2024-11-04T21:10:23.340Z
+publishedAt: 2024-11-04T21:10:23.340Z
 firstPublishedAt: 2024-09-27T14:48:21.163Z
 contentType: tutorial
 productTeam: Shopping
@@ -42,7 +42,7 @@ By adopting any of the following inventory strategies, you can ensure product av
 * Ensure sufficient item count for sales ([reserved](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92) items are not considered available).
     * In the VTEX Admin, go to **Catalog > Inventory > Inventory Management** and change the value in the `Update Count` column in the product row.
 * Activate the [unlimited inventory](https://help.vtex.com/en/tutorial/gerenciar-inventario--tutorials_139) option for the product.
-    * In the VTEX Admin, go to **Catalog > Inventory > Inventory Management** and activate the toggle switch in the `Infinite Inventory` column in the product row.
+    * In the VTEX Admin, go to **Catalog > Inventory > Inventory Management** and activate the toggle switch in the `Unlimited inventory` column in the product row.
 
 If [future inventory](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) is configured for the SKU, the supply of this item could take longer than expected. In this period, the unavailability could be due to a lack of stock.
 

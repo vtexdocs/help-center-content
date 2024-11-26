@@ -98,7 +98,7 @@ Caso você decida configurar um meio de pagamento que aceite parcelas com juros,
 A opção de Parcelamento Automático permite que você configure os detalhes dos parcelamentos diretamente no provedor de pagamento (externamente ao ambiente VTEX).
 Para habilitar esta opção, selecione “Sim” no campo **Usar parcelamento externo** durante a etapa de [configuração de provedores](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444).
 
-![parcelamentoautomatico](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/payments/configurar-uma-condicao-de-pagamento_1.JPG)
+![parcelamentoautomatico](https://images.ctfassets.net/alneenqid6w5/3ErHSFlSGyUwbLzJWaUlXw/f05aa9a6c8ed312d82a5aa2e51b5fa03/parcelamentoautomaticobr.JPG)
 
 Após habilitar o parcelamento automático no provedor, siga os seguintes passos:
 

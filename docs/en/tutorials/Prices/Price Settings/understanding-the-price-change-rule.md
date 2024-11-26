@@ -26,6 +26,6 @@ All other options to update prices will also be blocked.
 
 The price limits percentages can be removed or redefined by accessing the __Settings__ tab on the __Prices__ module. 
 
-![trava-variação-preço en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price Settings/understanding-the-price-change-rule_1.png)
+![trava-variação-preço en](https://images.ctfassets.net/alneenqid6w5/7q0Dp7AIQokuGIGcIKOmqm/e1798e4757cba658c2dd5b5bde1a69bf/trava-varia____o-pre__o_en.png)
 
 Some marketplaces also have this price variation limit. If you wish to change prices beyond the limit ranges, contact the marketplace asking for the change.

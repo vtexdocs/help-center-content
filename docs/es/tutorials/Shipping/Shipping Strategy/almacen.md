@@ -3,8 +3,8 @@ title: 'Almacén'
 id: 6oIxvsVDTtGpO7y6zwhGpb
 status: PUBLISHED
 createdAt: 2021-08-25T20:44:37.199Z
-updatedAt: 2021-10-26T20:21:12.244Z
-publishedAt: 2021-10-26T20:21:12.244Z
+updatedAt: 2024-11-05T18:01:30.919Z
+publishedAt: 2024-11-05T18:01:30.919Z
 firstPublishedAt: 2021-08-26T16:51:57.435Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -20,7 +20,7 @@ Para la plataforma VTEX, el almacén es la identificación del espacio de almace
 
 Es importante prestar atención a la etapa logística del almacén y al modo en que la configuración de la plataforma VTEX influye en la entrega de los pedidos. Del almacén salen los pedidos a los muelles, y en los muelles los recogen las transportadoras. 
 
-![EstrategiaEnvio_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping Strategy/almacen_1.svg)
+![EstrategiaEnvio_ES](https://images.ctfassets.net/alneenqid6w5/91iqVknOpCjUKO1XQaYvq/ed9784e5cbc67a42358ad4f37c3baa00/Frame_2__2_.svg)
 
 >ℹ️ La transportadora que llevará a cabo la entrega de un determinado pedido es definida por la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140). Para que una transportadora sea elegida para efectuar la entrega del pedido, es necesario que la política de envío de esa transportadora cumpla con las condiciones necesarias para la entrega del pedido. La política de envío está vinculada al almacén por el muelle.
 
@@ -43,13 +43,10 @@ Después de añadir un almacén, puede añadir los productos disponibles en él.
 > Como el almacén forma parte del sistema logístico de su tienda, le sugerimos que registre los módulos relacionados con la operación logística en el siguiente orden:
 > <body>
 >
-> [Política Comercial;](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+> [Política de envío](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)
 >
-> 2. <a href="https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140">Política de envío;
-> </a>
+> [Muelle](https://help.vtex.com/es/tutorial/muelles--5DY8xHEjOLYDVL41Urd5qj)
 >
-> 3. [Muelle;](https://help.vtex.com/es/tutorial/muelles--5DY8xHEjOLYDVL41Urd5qj)
->
-> Almacén.
+> Almacén
 >
 > </body>

@@ -21,7 +21,7 @@ internalReference: 483785
 
 Currently, when an user attempts to import data via the bulk insert skus button, if the sheet being used is too extensive, the process might fail.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/legacy-collection-import-timeout_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/9TSm4inXTV8cFvuiHwLP9uMpb/?name=inline-929450477.png)
 
 
 
@@ -42,7 +42,7 @@ Currently, when an user attempts to import data via the bulk insert skus button,
 
 4) A loading message will be shown for ~50s
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/legacy-collection-import-timeout_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/jd4fu2dmlX2d3WQUWxycsGOIg/?name=inline-243279848.png)
 
 And then the process will eventually fail.
 

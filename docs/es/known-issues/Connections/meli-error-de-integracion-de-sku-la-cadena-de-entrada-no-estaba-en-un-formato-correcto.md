@@ -31,7 +31,7 @@ Algunos skus tienen un error en la integración` "La cadena de entrada no estaba
 
 Admin > Puente > Productos
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/meli-error-de-integracion-de-sku-la-cadena-de-entrada-no-estaba-en-un-formato-correcto_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/pwn0EPjpLf7XnBrnGNXYZdV0i/?name=image.png)
 
 
 

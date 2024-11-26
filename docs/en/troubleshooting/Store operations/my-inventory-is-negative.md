@@ -3,8 +3,8 @@ title: 'My inventory is negative'
 id: JSFHaWsASXbnrX9dgNEeP
 status: PUBLISHED
 createdAt: 2024-06-10T11:08:39.990Z
-updatedAt: 2024-06-10T17:21:47.755Z
-publishedAt: 2024-06-10T17:21:47.755Z
+updatedAt: 2024-11-08T18:37:40.459Z
+publishedAt: 2024-11-08T18:37:40.459Z
 firstPublishedAt: 2024-06-10T17:21:47.755Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: my-inventory-is-negative
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags/Keywords:** *inventory, reservation, trade policy, VTEX Admin, inventory management.*
+**Tags** Inventory, Reservation, Trade policy, VTEX Admin
 
 When the product available quantity is displayed as negative, it may indicate that the number of items [reserved](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92) exceeds the total quantity in stock. This problem usually happens when an order item is deducted from the inventory while still being reserved by the system.
 

@@ -3,8 +3,8 @@ title: 'El pedido se dividió en paquetes con envíos separados'
 id: 3OCOC82543vOsc3Ex32XTY
 status: PUBLISHED
 createdAt: 2024-06-19T15:03:37.373Z
-updatedAt: 2024-06-19T15:13:11.172Z
-publishedAt: 2024-06-19T15:13:11.172Z
+updatedAt: 2024-11-08T18:54:00.106Z
+publishedAt: 2024-11-08T18:54:00.106Z
 firstPublishedAt: 2024-06-19T15:13:11.172Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: el-pedido-se-dividio-en-paquetes-con-envios-separados
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags/Palabras clave:** envíos separados, split de pedidos, paquetes, envío, productos de preventa.
+**Tags:** Envíos separados, Split de pedidos, Paquetes, Envío, Preventa
 
 En VTEX, los clientes pueden recibir su pedido dividido en varios paquetes, independientemente de si [la división del pedido](https://help.vtex.com/es/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV) se reflejó en la plataforma. El cliente puede recibir los ítems del pedido en paquetes separados en los siguientes casos:
 

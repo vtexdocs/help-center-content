@@ -3,8 +3,8 @@ title: 'Inventory management'
 id: tutorials_139
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:21.085Z
-updatedAt: 2024-04-18T15:25:20.097Z
-publishedAt: 2024-04-18T15:25:20.097Z
+updatedAt: 2024-11-04T21:16:13.814Z
+publishedAt: 2024-11-04T21:16:13.814Z
 firstPublishedAt: 2017-04-27T23:00:44.889Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -45,7 +45,7 @@ In the VTEX Admin, go to **Catalog > Inventory > Inventory Management**, or type
     * **Fulfilled:** shipped units of that SKU. The items in this column are from orders with `Payment approved`, `Preparing for delivery` or `Invoiced` status. <p>By clicking on the items to view details of shipped SKUs, you will be redirected to the Order management page.</p>
     * **Available:** SKU units available for sale.
     * **Update Count:** manual update of the available quantity of SKU items. To learn more about how to update the count, read the article [Updating the quantity of SKUs in stock](https://help.vtex.com/en/tutorial/atualizar-quantidade-de-skus-em-estoque--IKMWjOjMcMqKusSGko8c0).
-    * **Infinite Inventory:** allows you to add infinite SKU units, making it always available for your store's checkout. This rules out the need to update the count for this SKU.
+    * **Unlimited inventory:** allows you to add unlimited SKU units, making it always available for your store's checkout. This rules out the need to update the count for this SKU.
     * **Lead time (days):** Optional setting of shipping time at SKU level. When you define a time for the SKU of a warehouse, that is added to the [shipping time calculation](https://help.vtex.com/en/tutorial/como-funciona-o-calculo-de-envio--tutorials_116). By default, the [lead time](https://help.vtex.com/en/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B) is set as zero days and counted as business days, but you can [change it to calendar days](https://help.vtex.com/en/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B#configuring-lead-time-calculation-in-calendar-days-optional). To configure hours, minutes, and seconds, use the [Update inventory by SKU and warehouse endpoint](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 >❗ To ensure the items added to the inventory will be available for sale on the store, the [SKU ID](https://help.vtex.com/en/tutorial/how-to-find-an-sku-id--4VQZsYeb3igGK2YowuEYWW) cannot contain **a leading zero**. For instance, the system does not read IDs with a `01`, `02`, `021` format because the expected format is `1`, `2`, `21`.

@@ -3,8 +3,8 @@ title: 'Error al intentar importar SKUs vía plantilla en el Admin VTEX'
 id: 1TDF87s7P1UJT1hNDGZsuk
 status: PUBLISHED
 createdAt: 2024-07-01T15:07:50.982Z
-updatedAt: 2024-07-22T18:56:05.856Z
-publishedAt: 2024-07-22T18:56:05.856Z
+updatedAt: 2024-11-08T18:35:44.943Z
+publishedAt: 2024-11-08T18:35:44.943Z
 firstPublishedAt: 2024-07-01T18:24:23.096Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,9 +15,7 @@ legacySlug: error-al-intentar-importar-skus-via-plantilla-en-el-admin-vtex
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Product tags:** *Catalog, SKU*
-
-**Keywords:** *catálogo, sku, plantilla, importación*
+**Product tags:** Catálogo, SKU, Planilla, Imprtación
 
 Después de definir el árbol de categorías y el registro de [especificaciones de productos y SKUs] en tu tienda, es necesario rellenar los valores de las especificaciones creadas. En el Admin VTEX, este proceso se puede realizar mediante una plantilla o manualmente al [registrar productos y SKUs].
 Si al realizar la importación de SKUs vía plantilla se muestra el mensaje `"An error occurred in the data writing process. Make sure your worksheet data is consistent with the instructions and try again."`, puede ser que durante la importación:

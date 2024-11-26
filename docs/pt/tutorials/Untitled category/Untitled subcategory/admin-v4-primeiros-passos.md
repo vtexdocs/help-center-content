@@ -26,29 +26,29 @@ Enquanto ainda estamos migrando as páginas para o Admin v4, você pode encontra
 ## Navegação aprimorada 
 Tudo que você precisa para administrar sua loja VTEX continua disponível no Admin v4, mas agora com uma organização mais simples. Nossos menus de navegação lateral e barra superior foram reformulados do zero, agrupando categorias similares de forma mais clara para reduzir as distrações e ajudar a sua equipe a encontrar o que precisa mais rapidamente. Também é possível utilizar a barra de busca para encontrar seções específicas no menu lateral.
 
-![New Admin Shell](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/admin-v4-primeiros-passos_1.png)
+![New Admin Shell](https://images.ctfassets.net/alneenqid6w5/4Q4sQVxNy82zlFT2rmqaCo/f5e423ed52f3d468227155b73d74f163/New_Admin_Shell__1_.png)
 
 ### Central de Informações
 É aqui que reunimos todos os links úteis do nosso ecossistema VTEX, para ajudá-lo a aproveitar a nossa plataforma ao máximo. Clicando no botão `?` na barra superior, você pode acessar nosso Help Center, Developer Portal, Status da Plataforma, blog e páginas de suporte.
 
-![Information center](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/admin-v4-primeiros-passos_2.gif)
+![Information center](//images.ctfassets.net/alneenqid6w5/6lVqieCabdmgG53teixwyg/06dbecc541f55c4644134af302bdfd0c/Information_center.gif)
 
 ### Configurações da Loja
 Para esta nova experiência, reunimos todas as configurações de todas as seções do seu Admin em uma guia específica: Configurações da Loja. Através dessa melhoria, você pode acessar facilmente todas as configurações que afetam cada serviço da sua conta.
 
-![Store settings](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/admin-v4-primeiros-passos_3.gif)
+![Store settings](//images.ctfassets.net/alneenqid6w5/3Mypjey9ors57oaq2wKQc3/9fc79445cb6a43dc62ccc99751d5981a/Store_settings.gif)
 
 ### Configurações de Perfil
 Seu avatar de perfil, no canto superior direito, agora reúne todas as configurações relacionadas ao seu usuário e à sua conta. Através do avatar, você pode acessar as configurações do usuário, as configurações da conta, as informações de faturas, alterar o idioma do seu Admin, voltar para a versão anterior do Admin e encerrar a sessão. Com essa melhoria, separamos as configurações do seu perfil das configurações que afetam a sua loja em si. Agora você tem mais controle e visibilidade sobre as ações que afetam o seu negócio e as que afetam o seu perfil.
 
-![Avatar settings](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/admin-v4-primeiros-passos_4.gif)
+![Avatar settings](//images.ctfassets.net/alneenqid6w5/mAIHwG3IM1E0BfcDg7orj/5542e02ec58e87d97f7e14960f5de69c/Avatar_settings.gif)
 
 ## Página inicial renovada
 A página inicial do nosso admin foi redesenhada para oferecer uma visão geral de alto nível da sua loja, como uma cabine de comando para as suas operações de comércio digital. Por isso, ela agora se chama **Dashboard**.
 
 Assim que você fizer login no Admin v4, verá métricas e gráficos úteis para monitorar o desempenho da sua loja, como a receita gerada e o número de pedidos, o funil de vendas e a taxa de conversão, além dos 10 produtos que geraram maior receita. Veja todos os componentes do novo Dashboard e aprenda como eles funcionam na lista abaixo.
 
-![Dashboard v4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/admin-v4-primeiros-passos_5.gif)
+![Dashboard v4](//images.ctfassets.net/alneenqid6w5/4BdhVile9g8esXtlAt2wfd/51be029026157f666f83e4df1cf08519/Dashboard_v4.gif)
 
 - **Pedidos:** número de pedidos realizados. Todos os dados sobre pedidos e receita vêm do Sistema de Gerenciamento de Pedidos da VTEX.
 - **Sessões:** número de visitas à loja.  

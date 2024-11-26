@@ -144,7 +144,7 @@ Os Serviços ERP disponibilizam um endpoint para obter o arquivo da etiqueta de 
 5. Com a chave de acesso em maõs, faça uma requisição GET no seu provedor com o endpoint do campo `Endpoint`, substituindo `{vtex_order_id}` pelo ID do pedido na VTEX e utilizando no Header a chave de acesso obtida.
 6. Na resposta dessa requisição, no campo `base64Encoded` a etiqueta será disponibilizada no formato base64.
 
-  ![postman etiquetas shopee](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+  ![postman etiquetas shopee](https://images.ctfassets.net/alneenqid6w5/fXwvkIp7rguIH22t04rAy/de4a888cd831e0f60917c30f23fb5602/postman_etiquetas_shopee.png)
 
 7. Selecione o arquivo no campo `base64Encoded`, copie e use um decodificador de arquivos formato base64 para fazer a conversão no formato do arquivo selecionado no campo `Tipo de etiqueta de envio`.
 8. No final da conversão, a etiqueta estará pronta para ser utilizada.
@@ -198,10 +198,10 @@ A lista de categorias da sua loja VTEX inclui o status de seu  mapeamento  por m
 
 | **Ícone** | **Status** | **Descrição** |
 | ---------- | ---------- | ---------- | 
-| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.JPG" /> | **Mapeado**| Indica que o mapeamento da categoria foi concluído. | 
-| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.JPG" /> | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. | 
-| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.JPG" /> | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto.  Para solucionar esse problema basta refazer o mapeamento da categoria. | 
-| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_5.JPG" /> | **Não mapeado** | Indica que a categoria não foi mapeada. |
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado**| Indica que o mapeamento da categoria foi concluído. | 
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6v4eFsWHVy8F5VIqTVLQD9/e63d945d60a958a37246f57d919eede8/mapeamentoincompleto_mapper.JPG" /> | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. | 
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto.  Para solucionar esse problema basta refazer o mapeamento da categoria. | 
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **Não mapeado** | Indica que a categoria não foi mapeada. |
 
 Ainda na página de mapeamento, existem as seções, **Categoria do marketplace** e **[Mapeamento de Atributos](#mapear-atributos)**, ambos com uma opção de menu de seleção, onde ao clicar sobre a seta, aparecem novos campos e informações.
 
@@ -280,8 +280,8 @@ A lista de status da sincronização das categorias da sua loja VTEX que foram i
 
 | **Ícone** | **Status** | **Descrição** |
 | ---------- | ---------- | ---------- | 
-| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_6.JPG" /> | **Processed**| Indica que o mapeamento da categoria foi concluído. | 
-| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_7.JPG" /> | **Erro** | Indica que a importação da categoria não foi concluída. O motivo do erro será informado para que a correção possa ser realizada. |
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Processed**| Indica que o mapeamento da categoria foi concluído. | 
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2sMPoDbIM0AzJrnpHTCaGB/6ad0cfe1b76db6fe18339ea6f3194feb/status_erro_importacaoshopee.JPG" /> | **Erro** | Indica que a importação da categoria não foi concluída. O motivo do erro será informado para que a correção possa ser realizada. |
 
 ## Gerenciamento de pedidos da Shopee na plataforma VTEX
 

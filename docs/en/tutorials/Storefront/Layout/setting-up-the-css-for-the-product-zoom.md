@@ -25,7 +25,7 @@ Below we reproduce an excerpt of CSS that you can use as a starting point for th
 
 Next we are going to send the saved CSS file to the server. To do this, click on the _Configurações&gt; Portal_ menu in Admin.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/setting-up-the-css-for-the-product-zoom_1.gif)
+![](https://images.contentful.com/alneenqid6w5/3uLeF6wpvq4m4Wis48eeE8/4f79bf7753fb25309b670e9ea702a3ad/configuracao_zoom.gif)
 
 In the window that opens on the right, click on **Adicionar**.
 
@@ -33,4 +33,4 @@ Then find the CSS file you saved and send it to the server, clicking on **Locali
 
 Your file will then be listed in the window, as shown below:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/setting-up-the-css-for-the-product-zoom_2.jpg)
+![](//images.contentful.com/alneenqid6w5/2pWBIqL3So2wm04oU8CyQ8/ab9f623fd28f15e2708cc3fcbecafe03/gerenciador_arq_css-560x373.jpg)

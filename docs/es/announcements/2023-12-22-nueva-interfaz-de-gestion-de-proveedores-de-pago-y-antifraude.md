@@ -23,7 +23,7 @@ Ahora puedes acceder a la información de los proveedores registrados en tu tien
 
 También hemos mejorado la experiencia de navegación de la pantalla que permite agregar, editar y buscar proveedores.
 
-![nueva_interfaz_de_proveedores_de_administración](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023-12-22-nueva-interfaz-de-gestion-de-proveedores-de-pago-y-antifraude_1.JPG)
+![nueva_interfaz_de_proveedores_de_administración](https://images.ctfassets.net/alneenqid6w5/pRDw2IDO4F6G7SadBNwLp/48c5d451e15c9ce565047821cb074b03/nueva_interfaz_de_proveedores_de_administraci_n.JPG)
 
 ## ¿Qué se necesita hacer?
 

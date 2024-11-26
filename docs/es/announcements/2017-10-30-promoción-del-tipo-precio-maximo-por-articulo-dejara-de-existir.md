@@ -33,7 +33,7 @@ Usted tiene dos maneras por las cuales puede alcanzar el mismo efecto de la prom
 
 Usted puede configurar una [Promoción Regular](/es/tutorial/registro-promocion-regular) con el tipo de descuento __Precio Máximo por Artículo__.
 
-![PrecoMaximoEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2017-10-30-promoción-del-tipo-precio-maximo-por-articulo-dejara-de-existir_1.png)
+![PrecoMaximoEN](https://images.contentful.com/alneenqid6w5/ZqS2JBJtEkgusUu4qOsEE/ab84f34757924220efe4d44250d499a5/PrecoMaximoEN.png)
 
 Se trata de un escenario incluso mejor que el anterior, ya que el comerciante tiene más opciones de agrupación, por ejemplo, por categoría de producto.
 

@@ -33,7 +33,7 @@ Você tem duas maneiras pelas quais pode alcançar o mesmo efeito da promoção 
 
 Você pode configurar uma [Promoção Regular](/pt/tutorial/promocao-regular) com o tipo de desconto __Preço Máximo por Item__.
 
-![PrecoMaximo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2017-10-30-promocao-do-tipo-preco-maximo-por-item-deixara-de-existir_1.png)
+![PrecoMaximo](https://images.contentful.com/alneenqid6w5/1lv90zHrOIk0mwqcumEGkE/6e3b7b7cf7a678c003ad0497b2b2629f/PrecoMaximo.png)
 
 Trata-se de um cenário até melhor que o anterior, uma vez que o lojista tem mais opções de agrupamento, por exemplo, por categoria de produto.
 

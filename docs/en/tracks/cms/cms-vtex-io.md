@@ -1,10 +1,10 @@
 ---
-title: 'CMS - Site Editor'
+title: 'Store Framework CMS'
 id: 4yB9wSl79cArd68aRBnBZ2
 status: PUBLISHED
 createdAt: 2022-01-10T17:28:27.583Z
-updatedAt: 2023-03-29T20:49:41.843Z
-publishedAt: 2023-03-29T20:49:41.843Z
+updatedAt: 2024-11-18T18:06:20.182Z
+publishedAt: 2024-11-18T18:06:20.182Z
 firstPublishedAt: 2022-01-10T20:13:28.409Z
 contentType: trackArticle
 productTeam: VTEX IO
@@ -14,62 +14,71 @@ trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms
 ---
 
-To build and configure your store website using CMS, you will use the following: 
+Stores developed with Store Framework are integrated with [Site Editor](https://developers.vtex.com/docs/guides/working-with-site-editor), which works as a Content Management System (CMS). Other features like Page, Style, and Banner management are also available.
 
-- [Layout - Sites and channels](#layout-sites-and-channels)
-- [Pages](#pages)
+To build and configure your Store Framework website using CMS, you will use the following:
+
 - [Site Editor](#site-editor)
-- [Styles](#styles) 
-- [Store](#store)
-
-## Layout - Sites and Channels
-
-Configure the [store’s binding](https://help.vtex.com/en/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262#binding) through the **[Sites and channels](https://help.vtex.com/en/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262?&utm_source=autocomplete#sites-and-channels)** folder in the **Layout** section.
-
-Binding is the process to link your website to a store. For more details , please refer to the article [Linking a store to a folder structure in CMS (binding)](https://help.vtex.com/en/tutorial/vincular-um-account-name-a-um-website-binding).
-
-![CMS - Sites and channels EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/cms/cms-vtex-io_1.png)
-
-## Pages
-In **[Pages](https://help.vtex.com/en/tutorial/pages-overview--5iBUUJbK5NqG6OxlDrGNzc)**, create a new URL and link it to a template already defined in your [Store theme code](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates).
-
-![CMS - Pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/cms/cms-vtex-io_2.png)
-
-Also, this section contains the **Redirects** page, which redirects users and search engines from one URL to a more relevant or similar one. 
+- [Layout - Sites and channels](#layout-sites-and-channels)
+- [Banners](#banners)
+- [Pages](#pages)
+- [Styles](#styles)
+- [Media](#midia)
 
 ## Site Editor
-The **[Site Editor](https://help.vtex.com/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1)** is a graphical interface for managing your storefront content. It allows you to create, edit, publish, and schedule changes in your storefront components and behavior.
 
-![CMS - Site Editor EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/cms/cms-vtex-io_3.png)
+**[Site Editor](https://help.vtex.com/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1)** is a graphical interface for managing storefront content. It allows you to create, edit, publish, and schedule storefront components and behavior changes.
+
+With an intuitive interface in the VTEX Admin, Site Editor reflects the blocks defined in the [Store Theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-store-theme), allowing anyone to make store content and layout changes without having to edit the code.
+
+![site-editor-en](https://images.ctfassets.net/alneenqid6w5/7rE8YyLWd2ibnGqudpoIUq/f67dac6fe981d9b970ba434ad99a7ac6/site-editor-en.png)
+
+## Layout - Sites and channels
+
+Stores developed using Store Framework must also configure the [store binding](https://help.vtex.com/en/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262#binding) via the **[Sites and channels](https://help.vtex.com/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262#sites-and-channels)** folder in the **Layout** section of the VTEX Admin.
+
+Binding is the process of linking your website to a store. For more details, see the article [Linking a store to a folder structure in CMS (binding)](https://help.vtex.com/en/tutorial/vincular-um-account-name-a-um-website-binding).
+
+![layout-en](//images.ctfassets.net/alneenqid6w5/6Ga75Ds4BfkH8zhemQkLCl/198eaa14a2b4df0531742fbb278f78ca/layout-en.png)
+
+>ℹ️ Except the **Sites and channels**folder, all the other features in the **Layout** section of the VTEX Admin are only available for CMS Portal Legado stores.
+
+## Banners
+
+Banners is the feature that displays banners, like promotional campaigns, on the customer search results page. This is done by associating the words and filters selected in the search with the banner settings in your store.
+
+To learn how to use this module, see the tutorial [Banners](https://help.vtex.com/en/v4/docs/banners--51nNoJABZ5NtvJQCucCXCy).
+
+## Pages
+
+The **Pages** module is where your site pages are managed. In the VTEX Admin, the pages are divided into **Default**, **Product**, **Product Collections**, and **Not Found (404)**. They allow you to create new URLs and link them to a template already defined in the [store theme code](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates).
+
+![cms-store-framework-paginas-en](//images.ctfassets.net/alneenqid6w5/SiDDQmtiWZyjTMpY7atyH/cc7b7bd64895a0f903fa96c7cb0f5823/cms-store-framework-paginas-en.gif)
+
+This section also includes the **Redirects** page that allows you to set up redirects from one store URL to a more relevant one.
+
+![cms-store-framework-redirecionamentos-en](//images.ctfassets.net/alneenqid6w5/720v68fXhF2aPtnsrUgykt/39616f88d3ec11dae91d368e78f144ae/cms-store-framework-redirecionamentos-en.png)
+
+To learn more about this module, see the tutorial [Pages - Overview](https://help.vtex.com/en/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc).
 
 ## Styles
 
-The **[Styles](https://help.vtex.com/en/tutorial/styles-overview--v0Db5ohEKSFIkTzSwCjVi?&utm_source=autocomplete)** section allows you to define different style themes for your store, including variations in typography and color palettes. 
+This feature allows you to define your store typography and color palette.
 
-<div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px">
-  This feature only works in <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-production-workspace">production workspaces</a>.
-</div>
+>⚠️ This feature only works in [production workspaces](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-production-workspace).
 
-![CMS - Styles](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/cms/cms-vtex-io_4.png)
+To learn how to use this module, see the tutorial [Styles - Overview](https://help.vtex.com/en/tutorial/estilos-visao-geral--v0Db5ohEKSFIkTzSwCjVi).
 
-## Store
-The **[Store](https://help.vtex.com/en/tutorial/cms-loja-visao-geral--3Eat287G6wUi6Mly5rW5Fs)** section is responsible for SEO configurations, performance optimization flags, and enabling PWA push notifications in your store.
+## Media
 
-![CMS - Store](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/cms/cms-vtex-io_5.png)
+Media is the module where you manage store media files, such as images and videos.
 
-## References
-- [Concepts - VTEX IO](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6loFGF4nXvgIVIzsyyJA5c#concepts)
-- [Layout - Sites and channels](https://help.vtex.com/en/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262?&utm_source=autocomplete#sites-and-channels)
-- [Pages](https://help.vtex.com/en/tutorial/pages-overview--5iBUUJbK5NqG6OxlDrGNzc)
-- [Site Editor](https://help.vtex.com/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1)
-- [Styles](https://help.vtex.com/en/tutorial/styles-overview--v0Db5ohEKSFIkTzSwCjVi?&utm_source=autocomplete)
-- [Store](https://help.vtex.com/en/tutorial/cms-loja-visao-geral--3Eat287G6wUi6Mly5rW5Fs)
+![cms-store-framework-media-en](//images.ctfassets.net/alneenqid6w5/38AaBZMeKIPAD9OLVWwROr/a79e9f21e70537e43f5aad99112115c7/cms-store-framework-midia-en.png)
 
-## Guides
-[Managing page and template content](https://help.vtex.com/en/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37): Build a storefront adapted to your business needs by using a friendly interface in your favor.
+To learn more about this module, see the tutorial [Media - Overview](https://help.vtex.com/en/tutorial/midia-visao-geral--31fhjHTt4TBoo50AmGQ9b2).
 
-[Improving the SEO of Product Listing Pages](https://help.vtex.com/en/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG): Improve the SEO performance of Product Listing Pages by using the Site Editor.
+## Learn more
 
-[Enabling PWA push notifications in your store](https://help.vtex.com/en/tutorial/habilitando-notificacoes-pwa-da-loja--1be3ZPhbsgZSbE7h5H46pG): Configure the Progressive Web App (PWA) prompt in your store.
+- **[Managing page and template content](https://help.vtex.com/en/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37):** Build your storefront based on your business needs, using a user-friendly interface to your advantage.
 
-[Managing content per binding](https://help.vtex.com/en/tutorial/gerenciando-conteudo-por-binding--5CZjZPMqi0ZNpuqzF6AUOn): Managing content per binding means strategically customizing your store's layout according to users' location to boost access and sales rates.
+- **[Managing content by binding](https://help.vtex.com/en/tutorial/gerenciando-conteudo-por-binding--5CZjZPMqi0ZNpuqzF6AUOn):** Strategically customize your store layout based on the user location to increase access and sales rates.

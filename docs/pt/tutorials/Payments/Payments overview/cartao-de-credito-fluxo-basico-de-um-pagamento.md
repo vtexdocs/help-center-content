@@ -17,7 +17,7 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 Este artigo tem como objetivo explicar como funciona o fluxo básico de um pagamento por __cartão de crédito__:
 
-![Credit Card Flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments overview/cartao-de-credito-fluxo-basico-de-um-pagamento_1.jpg)
+![Credit Card Flow](https://images.contentful.com/alneenqid6w5/3oIzDRDSwgUQAqUEosW60k/12408bd338f44d41180cd5e71131d341/Credit_Card_Flow.jpg)
 
 1. Na tela de Checkout, o cliente escolhe o __Meio de Pagamento__ cartão de crédito para realizar o pagamento de sua compra.
 2. As informações deste pagamento são passadas para o __Gateway de Pagamentos__. O [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) é o player responsável por garantir que este pagamento seja realizado com sucesso.

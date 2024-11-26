@@ -61,7 +61,7 @@ After installing VTEX Insurance, you need to complete the Catalog setup to cover
 
 7. [Create an insurance product](https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
 
-8. [Create insurance SKUs](https://help.vtex.com/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY). We recommend creating more than three SKUs for each insurance.![Insurance - SKUs](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/vtex-insurance_1.png)
+8. [Create insurance SKUs](https://help.vtex.com/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY). We recommend creating more than three SKUs for each insurance.![Insurance - SKUs](https://images.ctfassets.net/alneenqid6w5/7z6EX1cFT3l5wmnlX5LQk1/e1b53a46f844d679277074c59386b0de/image3.png)
 
 9. [Bind the created SKUs](https://help.vtex.com/en/tutorial/sku-bindings--1SmrVgNwjJX17hdqwLa0TX) to the Assurant seller.
 
@@ -75,7 +75,7 @@ After setting up the catalog, your store will have the products bound to insuran
 Follow the steps below to set up your VTEX Insurance app.
 
 ### Company Information
-![Insurance Configuration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/vtex-insurance_2.png)
+![Insurance Configuration](//images.ctfassets.net/alneenqid6w5/27tKnogbpFLSaeGPW4OnkZ/b779f15fc609605bb8c26452fa596251/image5.png)
 1. Complete the following information:
 - **Email**: Store email.
 - **Name**: Store name.
@@ -90,7 +90,7 @@ Follow the steps below to set up your VTEX Insurance app.
 
 ### Items bound to insurance items
 
-![Items Bound to Source Items](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/vtex-insurance_3.png)
+![Items Bound to Source Items](//images.ctfassets.net/alneenqid6w5/6E68A1BaKeUzAgZuzD7KIY/3aa3ac21584d7226965e0584eb738150/image2.png)
 
 1. Select the codes that correspond to the insurance types you want for the collection you have created.
 
@@ -100,14 +100,14 @@ If you want to bind more than one insurance plan, such as **Theft and Qualified 
 
 ### Warranty field name
 
-![Warranty Field Name](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/vtex-insurance_4.png)
+![Warranty Field Name](//images.ctfassets.net/alneenqid6w5/215SqlxeJ3yFSZjfGnuJRl/c7440e8c3189d41c05d3a837cec3e273/image8.png)
 
 1.  Specify the manufacturer's warranty field, indicating the name of the warranty used in the catalog.
 
 2.  Click `Submit`.
 
 ### Insurance attachment setup
-![Insurance Attachement Setup](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/vtex-insurance_5.png)
+![Insurance Attachement Setup](//images.ctfassets.net/alneenqid6w5/7wpyDOdmdsK2VqOOUbqrfr/0cc20efa1f556b1cd5ed82e97f456ced/insurance_attachement_setup.png)
 
 1. [Add an](https://help.vtex.com/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU) attachment for Assurant with the information received from the support team when contracting the service.
 
@@ -118,7 +118,7 @@ If you want to bind more than one insurance plan, such as **Theft and Qualified 
 4. Click `Save`.
 
 ### Manual pricing setup
-![Manual Pricing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/vtex-insurance_6.png)
+![Manual Pricing](//images.ctfassets.net/alneenqid6w5/a1wDUYo5UhkR09keQU6WG/c35b802ce82a4b0ddb077c7d62cae53e/image11.png)
 
 1. [Activate the manual pricing](https://help.vtex.com/en/tutorial/change-the-price-of-an-item-in-the-shopping-cart--7Cd37aCAmtL1qmoZJJvjNf) in your store.
 

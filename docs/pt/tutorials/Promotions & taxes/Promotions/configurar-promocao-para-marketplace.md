@@ -3,8 +3,8 @@ title: 'Configurar promoção para marketplace'
 id: tutorials_406
 status: PUBLISHED
 createdAt: 2017-04-27T22:06:28.854Z
-updatedAt: 2024-01-18T17:21:44.418Z
-publishedAt: 2024-01-18T17:21:44.418Z
+updatedAt: 2024-11-11T16:46:25.421Z
+publishedAt: 2024-11-11T16:46:25.421Z
 firstPublishedAt: 2017-04-27T23:03:23.902Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

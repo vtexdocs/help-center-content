@@ -27,7 +27,7 @@ Para configurar un [redireccionamiento](https://help.vtex.com/es/tutorial/redire
 
 Debes rellenar los siguientes campos:
 
-![redirecionamentos-adminv4-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent Search/Redirects/configurar-redireccionamientos_1.png)
+![redirecionamentos-adminv4-ES](https://images.ctfassets.net/alneenqid6w5/69CWrwXk38Qxwb9fNNzYyc/41f7ae70f06576fe650bb84d379f5288/image.png)
 
 ### Informaciones generales
 

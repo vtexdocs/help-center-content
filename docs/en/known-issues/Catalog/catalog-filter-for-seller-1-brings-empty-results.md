@@ -32,7 +32,7 @@ Currently, when filtering exclusively for the main seller on the Catalog menus, 
 1. Go to any catalog menu, such as Import/Export
 2. Filter for the main seller of the account:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-filter-for-seller-1-brings-empty-results_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/6dygVHVlzTTdqYD3jOyV10DaZ/?name=image.png)
 3. No results will be shown
 
 

@@ -23,7 +23,7 @@ Para continuarmos refinando essa experiência, incluímos uma validação adicio
 
 Antes era possível que um comprador selecionasse um cartão vencido e realizasse uma compra, que teria seu pagamento negado em seguida. Agora sinalizamos cartões vencidos e impedimos que eles sejam selecionados checkout, para uma experiência de compra mais fluida.
 
-![PT - Expired Cards](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020-11-23-melhorias-de-ux-no-checkout-para-cartoes-vencidos_1.png)
+![PT - Expired Cards](https://images.ctfassets.net/alneenqid6w5/7HzPrSIeXAcZj1x5v7PFsB/d9be78a77ef1849dd23b5bb86bd58fc7/PT_-_Expired_Cards.png)
 
 ## Por que realizamos esta mudança?
 

@@ -3,8 +3,8 @@ title: 'Envio de preços do produto'
 id: 1wZhEoyuWujmj0lKaWO71X
 status: PUBLISHED
 createdAt: 2024-09-13T18:31:27.381Z
-updatedAt: 2024-09-13T18:42:39.217Z
-publishedAt: 2024-09-13T18:42:39.217Z
+updatedAt: 2024-11-01T13:50:33.954Z
+publishedAt: 2024-11-01T13:50:33.954Z
 firstPublishedAt: 2024-09-13T18:42:39.217Z
 contentType: trackArticle
 productTeam: Channels

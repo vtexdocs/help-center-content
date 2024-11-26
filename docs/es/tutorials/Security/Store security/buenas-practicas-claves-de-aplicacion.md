@@ -3,8 +3,8 @@ title: 'Buenas prácticas para el uso de claves de aplicación'
 id: 7b6nD1VMHa49aI5brlOvJm
 status: PUBLISHED
 createdAt: 2022-10-04T21:36:57.185Z
-updatedAt: 2024-10-14T18:40:07.826Z
-publishedAt: 2024-10-14T18:40:07.826Z
+updatedAt: 2024-10-23T00:04:22.825Z
+publishedAt: 2024-10-23T00:04:22.825Z
 firstPublishedAt: 2022-10-04T21:41:08.638Z
 contentType: tutorial
 productTeam: Others
@@ -49,3 +49,6 @@ Ten en cuenta que parte del código que compone tu tienda, se ejecuta en el clie
 
 Luego, es esencial instruir a tu equipo de desarrollo para que no utilice este código al realizar integraciones, ya que este uso suele incluir en el código las [claves de aplicación](https://help.vtex.com/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet).
 
+## No compartas los tokens de las claves de API
+
+Protege los pares de claves y tokens de API con el mismo nivel de confidencialidad que aplicas a las credenciales de inicio de sesión, como nombres de usuario y contraseñas. Para reducir el riesgo, evita compartirlos a través de emails, tickets, chats u otros canales de comunicación.

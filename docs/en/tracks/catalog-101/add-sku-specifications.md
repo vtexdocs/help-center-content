@@ -32,7 +32,7 @@ To add the specifications, your store already needs to have departments, categor
 7. Fill out the specification form fields. In the case of SKUs, the mandatory fields flag is selected by default. For more info on each field, access our article on [how to fill out SKU specification fields](https://help.vtex.com/en/tutorial/creating-sku-fields--tutorials_119) 
 8. Click on **Save**
 
-![EN.1novo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/catalog-101/add-sku-specifications_1.gif)
+![EN.1novo](https://images.ctfassets.net/alneenqid6w5/1UNDWQPmeRtLkc1VKqctAF/4e5526d5496d6f0b0fd0c1cc97d4bb05/EN.1novo.gif)
 
 The following steps will let you add SKU specification values:
 
@@ -46,7 +46,7 @@ The following steps will let you add SKU specification values:
 8. Click on **New Value**
 9. Type in the **Name** of the desired value and click on **Save**
 
-![EN.2novo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/catalog-101/add-sku-specifications_2.gif)
+![EN.2novo](//images.ctfassets.net/alneenqid6w5/2vwsLaRQy4JXIDCIreLhHg/db0b782d93a8ca16734a59105f9d264a/EN.2novo.gif)
 
 ### Link specifications to a SKU
 
@@ -61,7 +61,7 @@ To include specifications to a **SKU**, complete the following steps:
 6. Select the **Specifications** tab and choose the specification value for this SKU
 7. Click on **Save**
 
-![EN.3novo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/catalog-101/add-sku-specifications_3.gif)
+![EN.3novo](//images.ctfassets.net/alneenqid6w5/5IitjVxPxsC0gRmx8Gclpr/7a07cbc2c58f06e8379bc4c1771cbea6/EN.3novo.gif)
 
 ## Spreadsheet
 
@@ -90,7 +90,7 @@ After filling in the spreadsheet data, follow the instructions below to import y
 5. Click on **Select** to choose the filled out spreadsheet
 6. Click on **Import**
 
-![EN.4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/catalog-101/add-sku-specifications_4.gif)
+![EN.4](//images.ctfassets.net/alneenqid6w5/3hx1Cvscz5vuvSv05NRl4E/d2dd8151c493ee8d6765aa2ad1374c89/EN.4.gif)
 
 ## API 
 

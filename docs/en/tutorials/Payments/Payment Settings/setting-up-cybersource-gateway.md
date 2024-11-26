@@ -60,7 +60,7 @@ Follow the steps below:
 
 Once you have obtained the available authentication keys, it is time to configure the Cybersource IO app in the Admin. 
 
-![Cybersource Admin settings EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/setting-up-cybersource-gateway_1.JPG)
+![Cybersource Admin settings EN](https://images.ctfassets.net/alneenqid6w5/53S98k6G5yOwOJrAO4ueiF/9d036d1151c88215344459a3ae57fd91/Cybersource_Admin_settings_EN.JPG)
 
 Follow the steps below to configure the Cybersource IO app:
 
@@ -182,7 +182,7 @@ document.body.appendChild(noScript);
 
 Additionally, you can define custom fields that will be included in orders forwarded from VTEX to Cybersource. 
 
-![Cybersource Admin merchant define fields EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/setting-up-cybersource-gateway_2.JPG)
+![Cybersource Admin merchant define fields EN](//images.ctfassets.net/alneenqid6w5/5KPPO5k4to3sH9amCFyp7B/176d6380fb7ef021d18822973f392ab0/Cybersource_Admin_merchant_define_fields_EN.JPG)
 
 See below how to create these fields:
 

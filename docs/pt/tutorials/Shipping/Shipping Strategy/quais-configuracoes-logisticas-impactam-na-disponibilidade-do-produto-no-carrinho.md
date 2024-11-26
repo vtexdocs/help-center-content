@@ -3,8 +3,8 @@ title: 'Quais configurações logísticas impactam na disponibilidade do produto
 id: NAyBFToRdvlDyOzeeAeNw
 status: PUBLISHED
 createdAt: 2024-09-27T14:02:13.369Z
-updatedAt: 2024-09-27T16:47:06.054Z
-publishedAt: 2024-09-27T16:47:06.054Z
+updatedAt: 2024-11-04T21:10:23.340Z
+publishedAt: 2024-11-04T21:10:23.340Z
 firstPublishedAt: 2024-09-27T14:48:21.163Z
 contentType: tutorial
 productTeam: Shopping

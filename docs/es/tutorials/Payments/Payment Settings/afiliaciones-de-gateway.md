@@ -22,7 +22,7 @@ En la página de gestión de proveedores puedes:
 - [Registrar un nuevo proveedor](#registrar-proveedor)
 - [Ver los provedores registrados](#ver-proveedores-registrados)
 - [Editar la configuración de proveedores](#editar-configuracion-de-un-proveedor)  
-![interface_provedor_ES_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/afiliaciones-de-gateway_1.JPG)
+![interface_provedor_ES_1](https://images.ctfassets.net/alneenqid6w5/6721j5gbs4JkxAFJ9QPQve/776404f95b88a2baef59270471016a6d/interface_provedor_ES_1.JPG)
 
 ## Registrar proveedor
 
@@ -43,7 +43,7 @@ Para configurar los medios de pago que el proveedor escogido procesará, accede 
 
 Para definir condiciones especiales para los medios de pago, accede a [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
 
-![interface_provedor_ES_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/afiliaciones-de-gateway_2.JPG)
+![interface_provedor_ES_2](//images.ctfassets.net/alneenqid6w5/2uzCrSICV4zlbieq13Vky0/eb61a668aee146f72207b08ff3f93b3a/artigo_interface_provedor_ES_2.JPG)
 
 ## Ver proveedores registrados
 
@@ -53,7 +53,7 @@ La pantalla principal de gestión de proveedores, disponible en __Configuración
 
 Para buscar proveedores por nombre, accede a la página de gestión de proveedores e ingresa el nombre del proveedor deseado.
 
-![interface_provedor_ES_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/afiliaciones-de-gateway_3.JPG)
+![interface_provedor_ES_3](//images.ctfassets.net/alneenqid6w5/1AVxMc8gzpBLTaoOM3DqJt/f8ab3035ab037e74c6b08e5f4054f686/interface_provedor_ES_3.JPG)
 
 ### Filtrar proveedores
 
@@ -61,15 +61,15 @@ Para cambiar la lista de proveedores usando filtros, accede a la página de gest
 
 - __Nombre__: filtra la lista de proveedores de pago por el nombre al marcar la casilla o ingresándolo en la barra de búsqueda del menú.
 
-![interface_provedor_ES_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/afiliaciones-de-gateway_4.JPG)
+![interface_provedor_ES_4](//images.ctfassets.net/alneenqid6w5/3HWuAtg2Ei867PMhqqXTpZ/966cf9c4d726bb4e3fe3f140b4205472/interface_provedor_ES_4.JPG)
 
 - __Tipo__: filtra la lista de proveedores por tipo, ya sea antifraude o de pago, o ambos.
 
-![interface_provedor_ES_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/afiliaciones-de-gateway_5.JPG)
+![interface_provedor_ES_5](//images.ctfassets.net/alneenqid6w5/34wou6AALCHGCAMSufWpxZ/76411e11c78028aac232b9b8d8a79534/interface_provedor_ES_5.JPG)
 
 - __Entorno__: filtra la lista de proveedores por tipo de entorno de operación registrado (producción o prueba).
 
-![interface_provedor_ES_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/afiliaciones-de-gateway_6.JPG)
+![interface_provedor_ES_6](//images.ctfassets.net/alneenqid6w5/36BloW94uLYLN7qGFO1HeP/5aae0659cf9128a58fe3ce02d03a6023/interface_provedor_ES_6.JPG)
 
 >❗ Para remover los filtros aplicados y ver todos los proveedores registrados en la tienda, haz clic en el botón `Limpiar todo`.
 
@@ -82,6 +82,6 @@ Para editar la configuración de un proveedor de pago o antifraude registrado en
 3. En la pantalla de configuración del proveedor, haz clic en `Editar`.
 4. Realiza los cambios necesarios y haz clic en `Guardar`.
 
-![interface_provedor_ES_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/afiliaciones-de-gateway_7.JPG)
+![interface_provedor_ES_7](//images.ctfassets.net/alneenqid6w5/49bqIpjzfjB6VGrjwMiYEK/4931462bfe35657876f4a5e6c63d5386/artigo_interface_provedor_ES_7.JPG)
 
 >❗ Antes de editar la configuración de un proveedor, como datos de autorización, modo de procesamiento o tipo de reembolso, asegúrate de verificar que la nueva información no afecte el rendimiento operativo de la tienda.

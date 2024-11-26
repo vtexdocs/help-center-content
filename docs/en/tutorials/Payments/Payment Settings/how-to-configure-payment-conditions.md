@@ -3,8 +3,8 @@ title: 'Configuring payment conditions'
 id: tutorials_455
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:07.105Z
-updatedAt: 2024-09-27T18:32:01.802Z
-publishedAt: 2024-09-27T18:32:01.802Z
+updatedAt: 2024-10-22T12:59:40.955Z
+publishedAt: 2024-10-22T12:59:40.955Z
 firstPublishedAt: 2017-04-27T23:03:26.687Z
 contentType: tutorial
 productTeam: Financial
@@ -36,7 +36,7 @@ In the steps below, we will use the credit card as an example of a payment condi
 
 ### Payment in full
 
-![pagamento-a-vista en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/how-to-configure-payment-conditions_1.png)
+![pagamento-a-vista en](https://images.ctfassets.net/alneenqid6w5/16U7FyAeXiC88gWCwkKmSU/8cdfe44879420687c514d9c4ca564fd7/pagamento_a_vista_en.png)
 
 1. In the VTEX Admin, go to Store __Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
 2. In the __Payment Conditions__ tab, click on the __+__ button.
@@ -52,7 +52,7 @@ In the steps below, we will use the credit card as an example of a payment condi
 
 ### Installments without interest
 
-![parcelamento-sem-juros en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/how-to-configure-payment-conditions_2.png)
+![parcelamento-sem-juros en](//images.ctfassets.net/alneenqid6w5/5UuCXeD07moeaQiqqmuCMe/25a963faf4907a2d55b540c36f7387cc/pagamento_sem_juros_en.png)
 
 1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
 2. In the __Payment Conditions__ tab, click on the __+__ button.
@@ -69,7 +69,7 @@ In the steps below, we will use the credit card as an example of a payment condi
 
 ### Installments with interest
 
-![parcelamento-com-juros en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/how-to-configure-payment-conditions_3.png)
+![parcelamento-com-juros en](//images.ctfassets.net/alneenqid6w5/46wBJ8tCUgCaWmAyOgkycY/2ab1917adbcafb5b8bcac11debc856e5/pagamento_com_juros_en.png)
 
 1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
 2. In the __Payment Conditions__ tab, click on the __+__ button.
@@ -87,13 +87,7 @@ In the steps below, we will use the credit card as an example of a payment condi
 14. To choose between compound interest and simple interest, select __Compound interest applied. Change__. A selection box will appear allowing you to choose between the two options. 
 15. Click __Save__.
 
-![Juros - en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/how-to-configure-payment-conditions_4.png)
-
-#### External Interest
-
-In some countries, interest on installment purchases is charged directly by the financial institution. For these cases, you can activate the __External interest__ button. This button fills the amount of interest on the JSON sent to the connector with `null`. This `null` value indicates that interest will be charged at a later date by the financial institution. To activate this feature, click on the button __External interests__ in the configuration of installments with interests.
-
->ℹ️ Attention: the external interest functionality is only valid for some gateway affiliations (check that this option is available when registering the desired affiliation). Orders placed by affiliations that do not support this feature will be canceled in the system.
+![Juros - en](//images.ctfassets.net/alneenqid6w5/6LByLxJORIELFs7gTY3kmA/f8d241eadfa88f53e643545fa9d577a2/juros_en.png)
 
 ## Remove payment condition
 
@@ -101,4 +95,4 @@ In some countries, interest on installment purchases is charged directly by the 
 2. In the __Payment Conditions__ tab, click on the payment term you wish to remove.
 3. Click on the trash can icon.
 
-![Remove payment condition](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/how-to-configure-payment-conditions_5.png)
+![Remove payment condition](//images.ctfassets.net/alneenqid6w5/30AGmwCJOclqEqvcNPzuxV/8fc094a085a51f3b24d705956c14e052/remove_payment_condition.png)

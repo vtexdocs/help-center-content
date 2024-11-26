@@ -3,8 +3,8 @@ title: 'How the progressive discount works'
 id: tutorials_324
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:26.447Z
-updatedAt: 2019-12-31T15:22:29.353Z
-publishedAt: 2019-12-31T15:22:29.353Z
+updatedAt: 2024-11-11T16:56:08.449Z
+publishedAt: 2024-11-11T16:56:08.449Z
 firstPublishedAt: 2017-04-27T23:03:15.195Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -49,4 +49,4 @@ Selects the Commercial Policies that will offer the discount. All the policies r
 ### Restrictions and limitations of use
 
 - **Only for the same items:** The discount will only be applied per SKU, once each one has a minimum amount registered. If you don't check this option, the discount will be applied to products from the collection or from the list of SKUs, without the necessity of reaching the minimum amount in the cart registered for each of them, being only considered the sum of the units of these products.
-- **Allow accumulate with manual prices:** Allows the promotion to be applied to products whose prices have been manually input by a callcenter user. For the correct usability of this flag, a previous configuration is necessary to allow the manual prices input.
+- **Allow combination with manual prices:** Allows the promotion to be applied to products whose prices have been manually input by a callcenter user. For the correct usability of this flag, a previous configuration is necessary to allow the manual prices input.

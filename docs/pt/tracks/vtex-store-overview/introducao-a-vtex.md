@@ -18,7 +18,7 @@ A [VTEX](https://vtex.com/br-pt/) é uma solução integrada de comércio global
 
 A imagem a seguir apresenta as soluções e possibilidades da VTEX, que serão abordadas ao longo desta trilha:
 
-![vtex_composable_complete_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-store-overview/introducao-a-vtex_1.png)
+![vtex_composable_complete_PT](https://images.ctfassets.net/alneenqid6w5/7wKnayzJJYUKq2PLrGrfEc/c5b053eec0632543c254624f13bf6dbf/vtex_composable_complete_PT.png)
 
 >ℹ️ Além dos portais de documentação Help Center e [Developer Portal](https://developers.vtex.com/) e da [VTEX Community](https://community.vtex.com/), em nosso [site](https://vtex.com/br-pt/) disponibilizamos mais informações sobre a plataforma por meio de [demo videos](https://vtex.com/br-pt/resources-category/product-demo-videos-br/) (somente inglês) e [ebooks](https://vtex.com/br-pt/resources-category/ebooks-br/) criados por [parceiros](https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao). Também é possível conferir uma série de [vídeos de onboarding](https://sites.google.com/vtex.com.br/onboardingvtex/trilha) (somente português).
 

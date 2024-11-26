@@ -25,7 +25,7 @@ Realizadas las debidas definiciones, el vínculo de la colección con la vitrina
 
 En el ejemplo abajo, vamos a definir la vitrina presentada en la Home, siendo así, se debe realizar la modificación en el siguiente layout:
 
-![cms_layout_home ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/definicion-de-vitrinas_1.png)
+![cms_layout_home ](https://images.ctfassets.net/alneenqid6w5/36BJckeyOAIYeEm8sOwQO0/e7a24fbbfe861550445a9f18dee77954/cms_layout_home.png)
 
 En el layout seleccionado, agregue el control correspondiente a la vitrina en la que desea exhibir la colección haciendo clic en **Add object**.
 
@@ -33,19 +33,19 @@ Después de seleccionar el tipo de control deseado, defina su nombre y haga clic
 
 **No olvide guardar las configuraciones hechas en "Save Settings" para que pueda editar el control creado.**
 
-![ed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/definicion-de-vitrinas_2.png)
+![ed](//images.ctfassets.net/alneenqid6w5/21omKZNVc8QaWSw6K4akEQ/70105f086510d2eec6bfb3862a9979f5/save_settings_cms.png)
 
 ### Edición del control
 
 Para editar sus controles, haga clic en el **símbolo de lápiz**, como se muestra en la siguiente imagen de ejemplo:
 
-![banner_edit_cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/definicion-de-vitrinas_3.png)
+![banner_edit_cms](//images.ctfassets.net/alneenqid6w5/5eOuIai1zGGWOKI4OmoMOQ/5ff1b51e63a08d6d265a1e053999a369/banner_edit_cms.png)
 
 Al editar el control es necesario agregar sus contenidos, que representan cada conjunto de ítems que será exhibido.
 Para eso, haga clic en **Add content**
 
-![cadastro_conteudo_cms ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/definicion-de-vitrinas_4.png)
-![cadastro_conteudo_cms 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/definicion-de-vitrinas_5.png)
+![cadastro_conteudo_cms ](//images.ctfassets.net/alneenqid6w5/TWIydQxL2M4WsEiccmI2A/f8ff28eafb9dde3e01926b899262f519/cadastro_de_conteudo_1.png)
+![cadastro_conteudo_cms 2](//images.ctfassets.net/alneenqid6w5/6Q0ZTbWIBUeu2uSY8w2mMs/5fb5a636e8781881b47237714571ee1c/cadastro_de_conteudo_2.png)
 
 - **"Adicionar arquivo" (Agregar archivo):** para seleccionar la colección que aparecerá en ese contenido.
 - **Partner / Campaign / Source:** define la visualización de ese contenido si el visitante tiene alguna UTM correspondiente en su URL de origen.
@@ -61,7 +61,7 @@ Se debe marcar la opción **Active Content** y hacer clic en **Add content list*
 
 si el contenido necesita ser editado, basta con hacer clic en el segundo símbolo de lápiz como se muestra en la siguiente imagen:
 
-![edit_content_cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/definicion-de-vitrinas_6.png)
+![edit_content_cms](//images.ctfassets.net/alneenqid6w5/3m9TM8vkEU0UmkueoEYIM8/89b2385f1e14978383b9d4fd0ecfd129/edi_content.png)
 
 Al realizar los cambios deseados, haga clic en **Update Content List** y guarda todas las configuraciones hechas haciendo clic en **Save Settings** después.
 

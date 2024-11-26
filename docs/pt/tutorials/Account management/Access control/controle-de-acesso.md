@@ -1,9 +1,9 @@
 ---
 title: 'Controle de acesso'
 id: 4rM3gyiWqtkim4Q8hOvLTC
-status: DRAFT
+status: ARCHIVED
 createdAt: 2023-11-30T16:29:30.077Z
-updatedAt: 2023-11-30T21:42:00.250Z
+updatedAt: 2024-11-22T14:17:40.776Z
 publishedAt: 
 firstPublishedAt: 2023-11-30T21:40:59.550Z
 contentType: tutorial
@@ -58,5 +58,7 @@ Confira a lista completa de [recursos do License Manager](https://help.vtex.com/
 ## Saiba mais
 
 * [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
+* [Perfis de acesso predefinidos](https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy)
 * [Criar perfil de acesso](https://help.vtex.com/pt/tutorial/criar-perfil-de-acesso--qGtNQpKSSAduX94l2WZBW)
+* [Recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
 

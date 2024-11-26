@@ -16,7 +16,7 @@ trackSlugEN: catalog-101
 
 The **Catalog** menu contains the features related to the product assortment of your ecommerce store. In order for your customer to see the products on the website, you need to add them to this Admin menu first.
 
-![visao-geral-produto-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/catalog-101/catalog-concept-definition_1.png)
+![visao-geral-produto-EN](https://images.ctfassets.net/alneenqid6w5/6hg7IQ4sv6sphRtywSsDMQ/be0aec115746ca9494e44e3f120983ed/image.png)
 
 The **Catalog** section enables the setup of capabilities related to the assortment of ecommerce products, such as their categories, brands, and collections, for example. To sell your products, you must add them in this section.
 

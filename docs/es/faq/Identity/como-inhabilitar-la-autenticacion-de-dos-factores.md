@@ -16,8 +16,8 @@ legacySlug: como-inhabilitar-la-autenticacion-de-dos-factores
 
 Para inhabilitar el login via autenticacion de dos factores de su cuenta (two factor authentication), siga los siguientes pasos:
 
-1. Haga login con su usuario y contraseña;![2FA 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Identity/como-inhabilitar-la-autenticacion-de-dos-factores_1.png)
-2. Inserte en el campo que aparece el codigo enviado a su celular y haga clic en el botón **Configure telefone**;![2FA 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Identity/como-inhabilitar-la-autenticacion-de-dos-factores_2.png)
-3. Haga clic en el botón **Remover telefone**.![2FA 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Identity/como-inhabilitar-la-autenticacion-de-dos-factores_3.png)
+1. Haga login con su usuario y contraseña;![2FA 1](https://images.contentful.com/alneenqid6w5/4cgNDZ16dGoQGKK6MKeK0m/8afc25a77f0e1554a03a788de5bc19bb/2FA_1.png)
+2. Inserte en el campo que aparece el codigo enviado a su celular y haga clic en el botón **Configure telefone**;![2FA 2](//images.contentful.com/alneenqid6w5/4uMb0UXDNSMa4sMAOSMMaO/2a4eb422eccd35fc4a491018c4cc1517/2FA_2.png)
+3. Haga clic en el botón **Remover telefone**.![2FA 3](//images.contentful.com/alneenqid6w5/1p3qDi9viUgWqWCAyiuom0/456e8eefa5fc1f5dc845f9715e120304/2FA_3.png)
 
-Con eso, la autenticación de dos factores será desactivada de su cuenta y usted será redireccionado para el admin VTEX.![2FA 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Identity/como-inhabilitar-la-autenticacion-de-dos-factores_4.png)
+Con eso, la autenticación de dos factores será desactivada de su cuenta y usted será redireccionado para el admin VTEX.![2FA 4](//images.contentful.com/alneenqid6w5/5e37R8mEEMuSWwmMAmsGAC/b9caea8225ee2c4421a430553a6f51ad/2FA_4.png)

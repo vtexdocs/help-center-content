@@ -64,7 +64,7 @@ No nosso exemplo anterior, basta escrever da seguinte maneira a URL da imagem no
 
 Desta forma, o VTEX Img entregará a imagem com um tamanho de 50x50. Isto tornará seu carregamento muito mais rápido.
 
-![tamanhosImg](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/melhorando-a-performance-de-imagens-do-site_1.png)
+![tamanhosImg](https://images.contentful.com/alneenqid6w5/p4aDcgaE4SmyYkCwaW0CI/189307d29c86dae17beabde67780d907/tamanhosImg.png)
 _Entregar imagens em um tamanho maior que o de exibição prejudica a performance da sua loja._
 
 ## Imagens retangulares

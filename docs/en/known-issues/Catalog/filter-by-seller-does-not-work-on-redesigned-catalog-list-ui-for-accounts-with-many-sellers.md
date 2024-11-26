@@ -20,7 +20,7 @@ internalReference: 1075106
 
 
 The redesigned catalog list UI provides some filters:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/filter-by-seller-does-not-work-on-redesigned-catalog-list-ui-for-accounts-with-many-sellers_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/thTgoerwSeWWJKuVZNfhqevew/?name=image.png)
 
 The seller filter does not load for accounts that has many sellers.
 
@@ -34,7 +34,7 @@ The seller filter does not load for accounts that has many sellers.
 1. Go to https://accountName.myvtex.com/admin/catalog-products
 2. Try to filter by sellers (on a account with many sellers)
 The result should be something like this:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/filter-by-seller-does-not-work-on-redesigned-catalog-list-ui-for-accounts-with-many-sellers_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/wbqVyWPVd9xCmgbzWWhirmvkK/?name=image.png)
 
 
 ##

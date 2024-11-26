@@ -3,8 +3,8 @@ title: 'Estoque'
 id: 6oIxvsVDTtGpO7y6zwhGpb
 status: PUBLISHED
 createdAt: 2021-08-25T20:44:37.199Z
-updatedAt: 2021-10-26T20:21:12.244Z
-publishedAt: 2021-10-26T20:21:12.244Z
+updatedAt: 2024-11-05T18:01:30.919Z
+publishedAt: 2024-11-05T18:01:30.919Z
 firstPublishedAt: 2021-08-26T16:51:57.435Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -19,7 +19,7 @@ Para a plataforma VTEX o estoque é a identificação do espaço físico de arma
 
 É importante atentar-se à etapa logística do estoque e como as configurações na plataforma VTEX influenciam na entrega de pedidos. A partir do estoque os pedidos saem para as docas, e nas docas são retirados pelas transportadoras. 
 
-![EstrategiaEnvio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Shipping Strategy/estoque_1.svg)
+![EstrategiaEnvio](https://images.ctfassets.net/alneenqid6w5/91iqVknOpCjUKO1XQaYvq/02cad4cbd4829e774e2b51474e4675cf/Frame_2__1_.svg)
 
 >ℹ️ A transportadora que realizará a entrega de um certo pedido é definida pela [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). Para que uma transportadora seja escolhida para a realização da entrega do pedido, é preciso que a política de envio dessa transportadora satisfaça as condições necessárias para a entrega do pedido. A política de envio é vinculada ao estoque pela Doca.
 
@@ -40,12 +40,10 @@ Saiba mais sobre como gerenciar componentes logísticos na plataforma VTEX:
 >⚠️ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:
 > <body>
 >
-> [Política Comercial;](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+> [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140)
 >
-> 2. [Política de Envio;](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140)
+> [Doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
 >
-> 3. [Doca;](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
->
-> Estoque.
+> Estoque
 >
 > </body>

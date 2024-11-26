@@ -17,7 +17,7 @@ subcategoryId: 18Gsips3u48UYCu0Ku2sWm
 
 Caso queira que uma taxa criada não fique na lista principal por não ser mais utilizada, por exemplo, pode movê-la para a lista de arquivadas. Ao fazer isso, a taxa terá o status automaticamente alterado para inativo. Para fazer isso siga os passos abaixo:
 
-![exemplo1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Taxes/como-arquivar-taxas-impostos_1.png)
+![exemplo1](https://images.ctfassets.net/alneenqid6w5/3jvCIvAkHCyocKewGWa0aG/92224b98c19d15e58b734e1332ff6b0f/exemplo1.png)
 
 1. No Admin VTEX, acesse *Promoções > Taxas*, ou digite *Taxas* na barra de busca no topo da página.
 3. Busque pela taxa que deseja arquivar.

@@ -20,7 +20,7 @@ internalReference:
 
 Al realizar una consulta de GiftCard en el Admin, por ID (documento), el voucher del cliente no aparece.
 
-![vale](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing & Merchandising/voucher-giftcard-de-cliente-no-localizado-en-el-modulo-administrativo-al-realizar-consulta-por-cpf_1.png)
+![vale](//images.contentful.com/alneenqid6w5/78Mt2DDgaIwg2I66gSYGgM/66de95f8e3b3b73d20a0165f4da67f88/vale.png)
 
 ## Simulación
 

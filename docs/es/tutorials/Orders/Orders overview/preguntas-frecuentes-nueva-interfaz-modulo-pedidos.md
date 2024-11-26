@@ -26,7 +26,7 @@ A partir del 17 de enero de 2023, la nueva interfaz será el estándar de todas 
 
 En la imagen a continuación, puedes ver la correspondencia de secciones y campos entre la versión antigua de la página **Detalles del pedido** y la nueva versión:
 
-![board_comparativo_interface_pedido_v2_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/preguntas-frecuentes-nueva-interfaz-modulo-pedidos_1.png)
+![board_comparativo_interface_pedido_v2_es](https://images.ctfassets.net/alneenqid6w5/30tYehAYOCvQoX0MpSIoNH/4a3658c6c470856c0dd37cd708761ff6/board_comparativo_interface_pedido_v2_es.png)
 
 ## ¿Qué pasó con el filtro de búsqueda de seis meses?
 
@@ -36,17 +36,17 @@ El filtro de seis meses fue sustituido por la búsqueda sin límite de fecha que
 
 Para buscar en todos los pedidos, ingresa el término deseado en la casilla de búsqueda. Se mostrará la opción <i class="fas fa-toggle-off"></i> `Remover límite de fechas`. Solo tienes que activarla para iniciar la búsqueda.
 
-![busca_sem_limite_data_all_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/preguntas-frecuentes-nueva-interfaz-modulo-pedidos_2.png)
+![busca_sem_limite_data_all_es](//images.ctfassets.net/alneenqid6w5/7mDlDQAgphKCmH12REooCx/0a765124f8477dac5a676b872f2a2e7c/busca_sem_limite_data_all_es.png)
 
 ## ¿Cómo ver el diagrama de flujo del pedido?
 
 En la nueva interfaz, el estándar es mostrar una línea de tiempo con los eventos de **Status del pedido** según ilustrado en la siguiente imagen:
 
-![timeline_pedido_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/preguntas-frecuentes-nueva-interfaz-modulo-pedidos_3.png)
+![timeline_pedido_es](//images.ctfassets.net/alneenqid6w5/JID8bYMxBA94nRGXJQ3BI/60bd22f37e038db53247d83f3252efe1/timeline_pedido_es.png)
 
 Si deseas ver el **Diagrama del pedido** como en la interfaz anterior, haz clic en `Ver diagrama` y aparecerá una ventana modal según se muestra en la imagen a continuación:
 
-![diagrama_pedido_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/preguntas-frecuentes-nueva-interfaz-modulo-pedidos_4.png)
+![diagrama_pedido_es](//images.ctfassets.net/alneenqid6w5/3to0oQYzjgz3Y5i4sDPIG3/c539ec37111500a217eb429e33a1c9e1/diagrama_pedido_es.png)
 
 ## ¿Cómo facturar el pedido?
 
@@ -54,7 +54,7 @@ En la sección **Ítems a facturar** de la nueva interfaz, se puede acceder a to
 
 * **Enviar factura con la referencia de los ítems:** esta opción solo aparece en la nueva interfaz y permite emitir la factura total o parcial de determinados ítems, que se identifican por SKU, stock y precio. Ve un ejemplo en la siguiente imagen:
 
-![faturar_referenciar_pedidos_final_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/preguntas-frecuentes-nueva-interfaz-modulo-pedidos_5.png)
+![faturar_referenciar_pedidos_final_es](//images.ctfassets.net/alneenqid6w5/3h0sV3Gq2dkJk3ZoT85SyG/2427b16f419457736699f1cae0cf3dd3/faturar_referenciar_pedidos_final_es.png)
 
 * **Enviar una sola factura:** esta opción corresponde a la antigua _Enviar factura_ y permite facturar el valor total o parcial del pedido. La presentación de la página es diferente, pero los campos siguen siendo los mismos.
 
@@ -73,6 +73,6 @@ En la sección **Historial del pedido**, hay una línea de tiempo que presenta l
 
 Para reenviar un email al cliente, haz clic en el evento de email enviado o en el ícono de flecha <i class="fas fa-angle-right"></i> para ver los detalles del evento, que aparecerán como se muestra en la siguiente imagen:
 
-![enviar_email_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/preguntas-frecuentes-nueva-interfaz-modulo-pedidos_6.png)
+![enviar_email_es](//images.ctfassets.net/alneenqid6w5/5c2ZuqUC1b497RQdImDQ46/a4d25f7e071dd7f4c23cbcd157d8008a/enviar_email_es.png)
 
 Haz clic en el botón Reenviar email y se reenviará el email inmediatamente al cliente y se mostrará el siguiente mensaje de confirmación: _El email se reenvió con éxito al cliente_.

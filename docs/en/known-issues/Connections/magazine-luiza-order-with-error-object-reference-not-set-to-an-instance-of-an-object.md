@@ -33,7 +33,7 @@ Impact:  happens with few requests/exceptions
 
 It could even be an error in the customer's request, where some mandatory field was missing and apparently the flow didn't predict that it would come "null" in some field.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/eAXF9lNpZblveDVQvGYdP8TXE/?name=image.png)
 
 
 ##

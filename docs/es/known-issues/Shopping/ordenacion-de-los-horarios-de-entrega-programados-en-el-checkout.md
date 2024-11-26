@@ -20,7 +20,7 @@ internalReference:
 
 Actualmente los horarios de entrega para una entrega programada están fuera de orden, o en orden decreciente. Para una mejor legibilidad, se espera que esta información se ordene de forma creciente.
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Shopping/ordenacion-de-los-horarios-de-entrega-programados-en-el-checkout_1.png)
+![image](//images.ctfassets.net/alneenqid6w5/dpGWYjydIAiC2i4qEigsm/0334f47a61fa7dcc4defe1cde08d616b/image.png)
 
 ## Simulación
 

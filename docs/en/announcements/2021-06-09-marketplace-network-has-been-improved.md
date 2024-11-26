@@ -19,7 +19,7 @@ A big challenge for marketplaces and sellers in our ecosystem is connecting with
 
 The Marketplace Network has been revamped to improve your experience. In addition, it is no longer necessary to download the app from our App Store, as the feature has been automatically added to all stores that act as sellers or marketplaces.
 
-![Marketplace network tour EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-06-09-marketplace-network-has-been-improved_1.gif)
+![Marketplace network tour EN](https://images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/146b86b33573496be15b712459570277/Marketplace_network_tour_EN.gif)
 
 ## What has changed?
 The Marketplace Network pages have undergone some changes:

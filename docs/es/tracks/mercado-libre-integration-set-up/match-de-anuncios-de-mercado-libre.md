@@ -30,7 +30,7 @@ En este artículo, puedes explorar los siguientes temas:
 - [**Tipos de oportunidades**](#tipos-de-oportunidades)  
 - [**Analizar oportunidades**](#analizar-oportunidad)  
 
-![overview-match-meli-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/mercado-libre-integration-set-up/match-de-anuncios-de-mercado-libre_1.png)
+![overview-match-meli-es](https://images.ctfassets.net/alneenqid6w5/7hIgYNJ31ttYzsgyufAnbc/9d952bf0fd03b4c836b1dfcbbb394322/overview-match-meli-es.png)
 
 ## Estructura de la página
 
@@ -63,7 +63,7 @@ En la lista de catálogos activos, cada fila corresponde a un anuncio y presenta
 
 En la parte superior de la pantalla, se muestra el número de catálogos activos que están en cada status de relevancia.  
 
-![relevancia](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/mercado-libre-integration-set-up/match-de-anuncios-de-mercado-libre_2.png)
+![relevancia](//images.ctfassets.net/alneenqid6w5/4ktn7U1Dbqt7AhwdK1gtGn/3749ff23cf3e871dd8ae50941f806ae1/relevancia-pt.png)
 
 <div class=”alert alert-info>
 Los anuncios adquieren relevancia cuando ofrecen mejores precios y condiciones logísticas.
@@ -80,15 +80,15 @@ La relevancia de un anuncio registra si la oferta del seller se muestra como la 
 Los cuatro tipos de oportunidades que pueden mostrarse para los anuncios de un seller son: **Preaviso, Obligatorio**, **Opcional** y **Restringido**. En todas las oportunidades listadas por Mercado Libre, el seller debe vincular el producto a un anuncio. Si el anuncio del seller no tiene una correspondencia con una oferta del catálogo, se puede publicar el anuncio sin sugerencia haciendo clic en el botón `Publicar sin sugerencia`.  
 
 - **Preaviso:** este tipo de oportunidades son obligatorias y tienen un plazo para ser vinculadas. Esto quiere decir que el seller deberá asociar el producto a una oferta del catálogo de Mercado Libre. Si no se realiza la asociación en el plazo determinado por Mercado Libre, el marketplace moderará el anuncio del seller.  
-![aviso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/mercado-libre-integration-set-up/match-de-anuncios-de-mercado-libre_3.png)
+![aviso](//images.ctfassets.net/alneenqid6w5/ZuWyKDvUpqIS4BEUzdnnd/3cc4b009ff17e214ac5f6914b680ae2c/Captura_de_tela_2024-04-30_184708.png)
 
 - **Obligatorio:** este tipo de oportunidades son obligatorias, pero no tienen un plazo para asociarlas. Si no se vincula el anuncio, Mercado Libre puede moderar el anuncio del seller en el marketplace.  
-![anuncio obligatorio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/mercado-libre-integration-set-up/match-de-anuncios-de-mercado-libre_4.png)
+![anuncio obligatorio](//images.ctfassets.net/alneenqid6w5/62kOh7xJ7zOxc8StS33BA/b12e5711b67e4597a5161cf676e69c15/obrigatorio-pt.png)
 
 - **Opcional:** este tipo de oportunidades son opcionales. Si no se realiza la asociación, el anuncio del seller no pierde relevancia ni será moderado por el marketplace.  
-![anuncio opcional](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/mercado-libre-integration-set-up/match-de-anuncios-de-mercado-libre_5.png)  
+![anuncio opcional](//images.ctfassets.net/alneenqid6w5/3Df2PgW8zBl7GKh32W0L07/c6ef9e482d18a074a5e93dc9e9e93204/opcional-pt.png)  
 - **Restringido:** este tipo de oportunidades son obligatorias. Si no se realiza la asociación, el anuncio del seller no se publicará en Mercado Libre.
-![restringido-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/mercado-libre-integration-set-up/match-de-anuncios-de-mercado-libre_6.png)
+![restringido-es](//images.ctfassets.net/alneenqid6w5/23tbeVK5wFBlPtz8xAwtpR/6acd9936968892baaa4748124015f48f/restringido-es.png)
 
 ## Analizar oportunidad
 
@@ -99,7 +99,7 @@ Para analizar una oportunidad, el seller utiliza la página **Match de anuncios*
 La pantalla **Analizar oportunidad** se muestra cuando el seller hace clic en el botón `Analizar oportunidad` de uno de los anuncios disponibles en la pestaña **Oportunidades**.  
 En el lado izquierdo de esta pantalla se muestra el producto registrado del seller en el catálogo VTEX y en el lado derecho el producto del catálogo de Mercado Libre sugerido para la asociación. Además, en la parte superior derecha se encuentran los botones `Publicar sin sugerencia` y `Aceptar sugerencia`. 
 
-![analisis-op-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/mercado-libre-integration-set-up/match-de-anuncios-de-mercado-libre_7.png)
+![analisis-op-es](//images.ctfassets.net/alneenqid6w5/79EgKpmRxwlWvMUzaERmk4/81c240d9344d752a7899fbea6db05386/analisis-op-es.png)
 
 ### Asociación individual
 
@@ -110,7 +110,7 @@ Para asociar las oportunidades individualmente, sigue los pasos a continuación 
 3. Haz clic en el botón `Aceptar sugerencia` para los anuncios que tengan correspondencia y en `Publicar sugerencia` para los anuncios sin correspondencia.  
 4. Haz clic en el botón `Confirmar`.  
 
-![aceptar-sugerencia-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/mercado-libre-integration-set-up/match-de-anuncios-de-mercado-libre_8.png)
+![aceptar-sugerencia-es](//images.ctfassets.net/alneenqid6w5/7dH1vRXEHyXBMSOr3IaehY/a92d8f22df4f46a88c7b9f318cfc021f/aceitar-sugestao-es.png)
 
 Después de realizar la asociación, el anuncio se publica en el catálogo de Mercado Libre y se envía a la pestaña **Catálogos activos** con el status **Procesando relevancia**.  
 
@@ -118,7 +118,7 @@ Si los productos no coinciden, el seller debe buscar un anuncio del catálogo de
 
 Para buscar otros anuncios en el catálogo de Mercado Libre, el seller debe ingresar el nombre de su producto en la barra de búsqueda que está debajo de la foto principal del producto en la página **Analizar oportunidad**.  
 
-![buscar-anuncio-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/mercado-libre-integration-set-up/match-de-anuncios-de-mercado-libre_9.png)
+![buscar-anuncio-es](//images.ctfassets.net/alneenqid6w5/5xdQ2BlXl6KgQq2Y6fvD2N/1743dea4202a97bce096751459997a2d/buscar-anuncio-es.png)
 
 ### Asociación en masa
 
@@ -127,6 +127,6 @@ Para asociar las oportunidades en masa, sigue los pasos a continuación desde la
 1. Selecciona las oportunidades que deseas asociar. En la parte inferior de la pantalla se muestra un panel con el número de oportunidades seleccionadas.  
 2. Haz clic en el botón `Aceptar sugerencias`.  
 3. Haz clic en el botón `Confirmar`.  
-![sugerencia-masiva](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/mercado-libre-integration-set-up/match-de-anuncios-de-mercado-libre_10.png)
+![sugerencia-masiva](//images.ctfassets.net/alneenqid6w5/52VZCcnHAOMdyA1GWrFpH/982157da7e94b3b5dd80e171d5090c61/sugestao-massiva-pt.png)
 
 Después de realizar la asociación, los anuncios se publican en el catálogo de Mercado Libre y se envían a la pestaña **Catálogos activos** con el status **Procesando relevancia**.  

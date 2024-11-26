@@ -82,7 +82,7 @@ To allow customers to make recurring purchases of their favorite products at the
 - Access details and information for completing each task.
 - Assign [users](https://help.vtex.com/en/tutorial/managing-users--tutorials_512) to tasks.
 
-![vtex-do-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/next-steps-after-the-go-live/other-vtex-module-settings_1.JPG)
+![vtex-do-en](https://images.ctfassets.net/alneenqid6w5/3E0pKwhLDI9VjAUPsPgykJ/9c4752761e0a8215e6938f8fdf2d4358/next_steps_image12_EN.JPG)
 
 ### VTEX Social Selling
 

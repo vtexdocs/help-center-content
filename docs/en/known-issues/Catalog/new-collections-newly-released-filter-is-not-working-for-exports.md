@@ -21,7 +21,7 @@ internalReference:
 
 The "Recently Released" product filter in the new collections module fetches products that were set with the release date variable in the recent past. It is present in the following UI component:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/new-collections-newly-released-filter-is-not-working-for-exports_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/pFLlcE3tDbGcA0bgmlAhPNccB/?name=image.png)
 
 However, when combining this functionality with the sheet export, this filter is ignored, bringing all the products within the collection.
 

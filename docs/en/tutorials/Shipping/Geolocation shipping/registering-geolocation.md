@@ -3,8 +3,8 @@ title: 'Registering geolocation'
 id: tutorials_138
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:36.462Z
-updatedAt: 2023-08-25T14:52:20.340Z
-publishedAt: 2023-08-25T14:52:20.340Z
+updatedAt: 2024-11-13T18:38:14.968Z
+publishedAt: 2024-11-13T18:38:14.968Z
 firstPublishedAt: 2017-04-27T23:00:44.871Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -58,7 +58,7 @@ Example:
 
 Done! Now just use this same ID in the freight spreadsheet, at the **PolygonName** column. 
 
->⚠️ It's important to pay attention to the filling, because this time the carrier will not use the **ZipCodeStart** and **ZipCodeStart** columns, which should be left blank.
+>⚠️ It is important to note that, if you use geolocation, therefore filling in the **PolygonName** column of the [shipping rate template](https://help.vtex.com/en/tutorial/shipping-rate-template--tutorials_127), the carrier will not use the **ZipCodeStart** and **ZipCodeEnd** columns, which must be filled in with `0`.
 
 On the [Checkout tab](https://help.vtex.com/en/tutorial/geolocalizacao-no-checkout/) at **Store Settings > Storefront > Checkout**, the API Key field must be filled in with the same key that was used to enable geolocation.
 

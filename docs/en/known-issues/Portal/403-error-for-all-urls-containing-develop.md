@@ -3,8 +3,8 @@ title: '403 error for all URLs containing develop-'
 id: X6JDmLhD0StgHPGXJd9cZ
 status: PUBLISHED
 createdAt: 2024-02-01T13:46:53.024Z
-updatedAt: 2024-02-01T13:46:54.008Z
-publishedAt: 2024-02-01T13:46:54.008Z
+updatedAt: 2024-11-11T15:19:34.574Z
+publishedAt: 2024-11-11T15:19:34.574Z
 firstPublishedAt: 2024-02-01T13:46:54.008Z
 contentType: knownIssue
 productTeam: Portal
@@ -20,7 +20,7 @@ internalReference: 975182
 
 
 It is expected that a URL can contain any word without generating an error, but the word "**develop"** followed by the "**-**" character generates an automatic 403 error.
-For exemple, a product with the text link  `how-to-develot-a-culture-of-custumer-centricity` will display a 403 erro, since its contain the string "develop-".
+For example, a product with a text link  `how-to-develop-a-culture-of-customer-centricity` will display a 403 error since it contains the "develop-" string.
 
 
 ##
@@ -39,7 +39,7 @@ For exemple, a product with the text link  `how-to-develot-a-culture-of-custumer
 ## Workaround
 
 
-Not use the string "develop-"
+Do not use the string "develop-"
 
 
 

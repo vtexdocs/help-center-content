@@ -33,7 +33,7 @@ Al configurar 'ignoreProfileData' a través de la API Ignorar datos de perfil en
 - Añadir un artículo al carrito;
 - Añadir un correo con un perfil completo; no se cargarán datos y requerirá inicio de sesión.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Checkout/los-datos-del-perfil-se-cargan-vacios-en-la-interfaz-de-usuario-para-un-perfil-completo-con-ignoreprofiledata_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/jVk0tmcR7R4BmaEkDcCedJgBP/?name=image.png)
 
 
 ##

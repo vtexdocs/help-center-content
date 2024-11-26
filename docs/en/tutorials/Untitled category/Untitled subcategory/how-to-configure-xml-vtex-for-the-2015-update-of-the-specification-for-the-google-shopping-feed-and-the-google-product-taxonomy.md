@@ -21,7 +21,7 @@ According to the [2015 Update of the Specification for the Google Shopping feed
 
 The tags on the standard configuration of our XML form have been updated to create a new Google Merchant / Shopping feed; just select the option “Feed: Atom 1”:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-configure-xml-vtex-for-the-2015-update-of-the-specification-for-the-google-shopping-feed-and-the-google-product-taxonomy_1.gif)
+![](https://images.contentful.com/alneenqid6w5/2ugQUy4xlaaUEOIYuu6UMe/41fd01c32b6954b14e1ef5818b94ca0c/atom1_xml_vtex_google.gif)
 
 Proper integration with Google Merchant / Shopping requires updating the xml with the new fields, beginning September 15, 2015.
 
@@ -31,7 +31,7 @@ Find out more about the new fields on the XML form:
 
 The option responsible for defining the taxonomy of the “_Categoria_” and “_Departamento_ + _Categoria_” fields. Normally used for filling out the [g:product_type].
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-configure-xml-vtex-for-the-2015-update-of-the-specification-for-the-google-shopping-feed-and-the-google-product-taxonomy_2.gif)
+![](//images.contentful.com/alneenqid6w5/3dgBcIJZgcKSW2YKCaksmW/653d517228e7d303e7326dfa1dcedbc1/separador_categoria_xml_vtex_google.gif)
 
 Default (e.g.: Father Category – Child Category – Grandchild Category)
 
@@ -47,7 +47,7 @@ The field responsible for the relationship between your store’s categories and
 
 Should be filled out with the [g:google_product_category] tag
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-configure-xml-vtex-for-the-2015-update-of-the-specification-for-the-google-shopping-feed-and-the-google-product-taxonomy_3.gif)
+![](//images.contentful.com/alneenqid6w5/307z7lsmEMgQMWIOUQWk8K/9d854eb77bb73e1c79d5307c78fb0215/categoria_global_xml_vtex_google.gif)
 
 For this field to function properly, it is necessary to verify whether the Global Category field has been filled out in the VTEX catalog.
 

@@ -104,7 +104,7 @@ Você pode pausar um produto específico da sua campanha. Desta forma, o anúnci
 
 Na tela inicial do app [VTEX Ad Network](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur), você também encontra informações relativas às suas campanhas em andamento.
 
-![vtex_ad_network_create_campaign_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX Ad Network/anunciar-com-vtex-ad-network-beta_1.png)
+![vtex_ad_network_create_campaign_PT](//images.ctfassets.net/alneenqid6w5/3b6zZAI4R3cC9Jd1rGPwtn/93a50fdced1479a4deea8072a6a9ca6b/vtex_ad_network_create_campaign.png)
 
 Na parte superior, estão dados agregados:
 

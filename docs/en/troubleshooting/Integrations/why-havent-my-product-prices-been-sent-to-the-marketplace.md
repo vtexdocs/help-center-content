@@ -3,8 +3,8 @@ title: "Why haven't my product prices been sent to the marketplace?"
 id: 7LMjXNoYJXsgPyKFkk6I25
 status: PUBLISHED
 createdAt: 2024-09-13T18:09:21.855Z
-updatedAt: 2024-09-13T18:21:24.321Z
-publishedAt: 2024-09-13T18:21:24.321Z
+updatedAt: 2024-11-08T18:33:24.038Z
+publishedAt: 2024-11-08T18:33:24.038Z
 firstPublishedAt: 2024-09-13T18:21:24.321Z
 contentType: tutorial
 productTeam: Channels
@@ -15,8 +15,7 @@ legacySlug: why-havent-my-product-prices-been-sent-to-the-marketplace
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 ---
 
-**Tags:** marketplace, integration, price  
-**Keywords:** marketplace, integration, price  
+**Tags:** Marketplace, Integration, Pricing
 
 A product price is sent to the marketplace after two steps: [pricing configuration in the seller's store](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) and product cataloging. If one of these processes is not performed, the seller's product price will not be available on the marketplace.  
 

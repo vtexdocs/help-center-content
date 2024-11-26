@@ -20,4 +20,4 @@ In other words, payment is made on the marketplace using the marketplace’s pay
 
 For example: A purchase made by the CNova marketplace will be displayed on your OMS, under **Payment**, with the following message: "Assumed value by affiliate CNova (NVP)", as illustrated below.
 
-![exemplopagamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Channels/why-dont-my-payment-methods-appear-on-the-marketplace_1.png)
+![exemplopagamento](https://images.contentful.com/alneenqid6w5/54QIARxAYUM4igUYQEieSK/d9f8f1e9e95b8028cce7c6b1e7a89503/exemplopagamento.png)

@@ -47,7 +47,7 @@ Para fazer o download da sua fatura, siga os passos abaixo:
 
 Feito isso, sua fatura estará disponível em outra aba.
 
-![baixar faturas pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Billing/Invoices/como-fazer-download-faturas-da-vtex_1.gif)
+![baixar faturas pt](https://images.ctfassets.net/alneenqid6w5/2v9nnJfdYMrIw9DhYsV6oz/8acb4b8fe2db1b1cf36500cd2bff7b09/baixar_faturas_pt.gif)
 
 ## Brasil
 
@@ -67,7 +67,7 @@ Para fazer o download de seu boleto, siga os passos abaixo:
 
 >ℹ️ No Brasil, uma fatura roxa pode indicar que está atrasada mas com um novo boleto gerado para uma data próxima. Nesse caso, a fatura continuará em atraso até a quitação do pagamento. Caso não seja efetuado o pagamento do novo boleto, a fatura voltará a cor vermelha.
 
-![baixar boletos pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Billing/Invoices/como-fazer-download-faturas-da-vtex_2.gif)
+![baixar boletos pt](//images.ctfassets.net/alneenqid6w5/3gRniiqHrpZZHNTsQC8Gfm/21d45f702de76ea5c866b61a3c80be8f/baixar_boletos_pt.gif)
 
 ### Fazer download da Nota Fiscal
 
@@ -84,6 +84,6 @@ Desse modo, a Nota Fiscal será aberta em outra aba do seu navegador. Clique **I
 1. Em Destino, selecione a opção **Salvar em PDF**.
 2. Para finalizar, clique em **Salvar**.
 
-![baixar notafiscal pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Billing/Invoices/como-fazer-download-faturas-da-vtex_3.gif)
+![baixar notafiscal pt](//images.ctfassets.net/alneenqid6w5/5jKzvOnt2V3JtrvKfxJ9zU/8ce862d5a13587d72464d3a3efea907f/baixar_notafiscal_pt.gif)
 
 Caso você tenha dúvidas sobre o valor cobrado na fatura, leia o artigo [Compreenda o valor da receita aprovada](https://help.vtex.com/pt/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322) para entender o valor que foi cobrado.

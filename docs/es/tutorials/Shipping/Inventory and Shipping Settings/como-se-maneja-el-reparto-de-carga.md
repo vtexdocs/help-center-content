@@ -19,7 +19,7 @@ El reparto de carga es la configuración que permite que se divida una compra en
 
 No tener esta configuración puede imposibilitar el cierre de una compra, pues, caso la suma del peso de los productos del carrito sea mayor que el límite máximo de peso catastrado en las políticas de envío, no será posible la finalización de la compra.
 
-![divisao-carga-desenho es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory and Shipping Settings/como-se-maneja-el-reparto-de-carga_1.png)
+![divisao-carga-desenho es](https://images.ctfassets.net/alneenqid6w5/13LOZvGLCCIm8YKSg2oeiI/186189daff4771ee6368096b8d267394/divisao-carga_es.png)
 
 ### Cómo configurar el reparto de carga
 

@@ -30,13 +30,13 @@ Si vas al módulo de páginas del CMS e intentas crear una página manualmente a
 
 
 Crear una nueva página en su tema, y tratar de cambiar su título. En mi ejemplo, he añadido la palabra "tema":
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/no-es-posible-cambiar-el-titulo-mostrado-en-el-admin-de-una-pagina-crear-en-el-tema-de-la-tienda_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/fSZvyE7PZzzqiBkPo0RFeMWOh/?name=image.png)
 
 Ir al módulo de páginas y comprobar si el título cambiado, verá que hemos recibido el cambio, pero no se muestra en el título de arriba:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/no-es-posible-cambiar-el-titulo-mostrado-en-el-admin-de-una-pagina-crear-en-el-tema-de-la-tienda_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/OheWJWbzKLJ88IWGndejy3kDT/?name=image.png)
 
 Lo mismo ocurre en la lista de páginas:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/no-es-posible-cambiar-el-titulo-mostrado-en-el-admin-de-una-pagina-crear-en-el-tema-de-la-tienda_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Eh11X7Z9HLzLsbp1vmbtOA7VK/?name=image.png)
 
 Si intentas cambiar el título directamente en el admin el resultado será el mismo.
 

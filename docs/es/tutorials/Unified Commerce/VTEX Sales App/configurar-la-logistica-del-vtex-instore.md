@@ -21,6 +21,6 @@ La ruta de check-in do Checkout llama en su flujo el Logistics. ¿Qué quiere de
 
 Tras el registro de su(s) tienda(s) en el MasterData [vea aquí cómo hacerlo](/es/tutorial/como-registrar-tiendas-en-el-vtex-instore), usted podrá elegir la tienda que le gustaría asociar a esa dársena por el dropdown conforme a la imagen a continuación:
 
-![2017-06-16 16 43 14-VTEX - Logística](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified Commerce/VTEX Sales App/configurar-la-logistica-del-vtex-instore_1.png)
+![2017-06-16 16 43 14-VTEX - Logística](https://images.contentful.com/alneenqid6w5/2NIbvde6HSK6OUCWUcwigq/879c7de324037ebb2ffbc64d768d7404/2017-06-16_16_43_14-VTEX_-_Log__stica.png)
 
 Para cada tienda registrada deberá existir una dársena correspondiente.

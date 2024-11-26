@@ -3,8 +3,8 @@ title: 'Diccionario de datos de VTEX: Data Pipeline'
 id: 69hMoE2woVw14nWR3ujVto
 status: PUBLISHED
 createdAt: 2024-02-01T18:51:29.281Z
-updatedAt: 2024-09-13T17:42:03.631Z
-publishedAt: 2024-09-13T17:42:03.631Z
+updatedAt: 2024-11-22T20:16:10.481Z
+publishedAt: 2024-11-22T20:16:10.481Z
 firstPublishedAt: 2024-05-27T19:26:59.681Z
 contentType: tutorial
 productTeam: Others
@@ -51,4 +51,5 @@ Los conjuntos de datos disponibles son los siguientes:
 - [Stock](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)  
 - [Tarjeta de regalo](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
 - [Registro del Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Marketplace in](https://help.vtex.com/tutorial/marketplace-in-data-pipeline--4L3hlSqsnxGqVyxmoYvjTV)
 

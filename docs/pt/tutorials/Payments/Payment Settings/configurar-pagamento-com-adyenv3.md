@@ -3,8 +3,8 @@ title: 'Configurar pagamento com AdyenV3'
 id: 7xAz67E2Eg63LWCQNjVdwv
 status: PUBLISHED
 createdAt: 2023-05-08T20:00:38.610Z
-updatedAt: 2024-06-25T21:10:30.984Z
-publishedAt: 2024-06-25T21:10:30.984Z
+updatedAt: 2024-10-30T12:31:17.835Z
+publishedAt: 2024-10-30T12:31:17.835Z
 firstPublishedAt: 2023-05-11T20:32:21.638Z
 contentType: tutorial
 productTeam: Financial
@@ -38,7 +38,7 @@ Para habilitar o acesso da VTEX no ambiente Adyen, siga as instruções abaixo:
 2. Na barra lateral esquerda, copie e salve a informação descrita acima de __Company__. Esta é a sua Company Account.
 3. Na lista abaixo, busque o nome da Merchant Account a ser utilizada (ressaltada em branco). Copie e salve esta informação.
 
-![Adyenv3_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-adyenv3_1.PNG)
+![Adyenv3_1](https://images.ctfassets.net/alneenqid6w5/4BHwn5SIUl6AuiiEjreluk/a7404c85f6fda7f7ccbae66070d0db0d/Adyenv3_1.PNG)
 
 ### Obtenha a Live URL
 
@@ -53,7 +53,7 @@ Para habilitar o acesso da VTEX no ambiente Adyen, siga as instruções abaixo:
 2. Selecione a sua credencial API.
 3. Em __Server Settings > Authentication__, selecione __API key__. 
 
-![Adyenv3_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-adyenv3_2.PNG)
+![Adyenv3_2](//images.ctfassets.net/alneenqid6w5/5y5TAeZmhsKrn2nZTJexIw/bfbe2587739f39fa70c4e1f08e86bd71/Adyenv3_2.PNG)
 
 <blockquote><ui>4. Clique em <b>Generate Key</b> e anote a informação criada em um local seguro.</ui>
 
@@ -61,7 +61,9 @@ Para habilitar o acesso da VTEX no ambiente Adyen, siga as instruções abaixo:
 
 <blockquote><ui>6. Clique em <b>Generate Client Key</b> e anote a informação criada em um local seguro.
 
-![Adyenv3_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-adyenv3_3.PNG)
+<blockquote><ui>7. Em <b>Add allowed origins</b>, adicione o endereço do domínio de sua loja. Por exemplo: https://www.sualoja.com. 
+
+![Adyenv3_3](//images.ctfassets.net/alneenqid6w5/1HlZV1tWNXS4ME0B7LYsHR/c5f764b11e45b332b5857b8682d51a2b/Adyenv3_3.png)
 
 ### Configure o webhook
 
@@ -75,7 +77,7 @@ Configure o webhook conforme os passos abaixo:
 4. Em __General > Description__, adicione uma descrição para o novo webhook. Exemplo: "Webhook Adyen Connector Provider v3".
 5. Em __General > Server configuration > URL__, preencha a URL da sua conta VTEX. Exemplo: https://{{account}}.myvtex.com/_v3/api/webhook/notification.
 
-![Adyenv3_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-adyenv3_4.PNG)
+![Adyenv3_4](//images.ctfassets.net/alneenqid6w5/1gAXlQfBoEUm5qnfSsHJkl/c18036816afbfe9ed8434d1211679879/Adyenv3_4.PNG)
 
 <blockquote><ui>6. Clique em <b>Apply</b>.</ui>
 
@@ -83,11 +85,11 @@ Configure o webhook conforme os passos abaixo:
 
 <blockquote><ui>8. Clique em <b>Save changes</b>.</ui>
 
-![Adyenv3_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-adyenv3_5.PNG)
+![Adyenv3_5](//images.ctfassets.net/alneenqid6w5/4dNUcUg9OKni8eT1wXcjO1/19eddc41d854adb8976e6e90ed54589c/Adyenv3_5.PNG)
 
-![Adyenv3_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-adyenv3_6.PNG)
+![Adyenv3_6](//images.ctfassets.net/alneenqid6w5/2ocxDKULle6hnu2fFPnjfZ/7787ff93f023d3ec17c669758aefb82f/Adyenv3_6.PNG)
 
-![Adyenv3_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-adyenv3_7.PNG)
+![Adyenv3_7](//images.ctfassets.net/alneenqid6w5/dEbiVnYj1Ic4eYgkSNolQ/79bba40bd6820d29de275e3cab19f22e/Adyenv3_7.PNG)
 
 >ℹ️ Se você possui múltiplas lojas, é necessário realizar a configuração do webhook para cada uma delas.
 

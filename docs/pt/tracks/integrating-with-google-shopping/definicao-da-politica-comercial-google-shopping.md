@@ -3,8 +3,8 @@ title: 'Definição da política comercial'
 id: 3AqbcsWrge8zLt0BC5CtGd
 status: PUBLISHED
 createdAt: 2021-04-14T17:58:41.545Z
-updatedAt: 2024-09-13T18:41:25.452Z
-publishedAt: 2024-09-13T18:41:25.452Z
+updatedAt: 2024-11-14T18:54:39.695Z
+publishedAt: 2024-11-14T18:54:39.695Z
 firstPublishedAt: 2021-04-15T17:41:14.352Z
 contentType: trackArticle
 productTeam: Channels
@@ -22,6 +22,6 @@ Será necessário solicitar a criação de uma nova política comercial apenas s
 - Quiser oferecer uma seleção de produtos diferente no Google Shopping.
 - Precisar enviar preços diferentes para o Google Shopping.
 
-Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em nosso [Suporte](https://help.vtex.com/pt/support) selecionando ação **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
+Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em nosso [Suporte](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação **Criação de Política Comercial.**
 
-A contratação de política comercial adicional para integrar com [conector nativo](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), [conector certificado (parceiro)](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX é isenta de taxas.
+Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX.  

@@ -34,7 +34,7 @@ With that you can:
 
 To find the `LID`, simply access the layout in the CMS module Admin. It's in the __Properties__ section, as the image below indicates:
 
-![lid](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/validating-a-layout-before-moving-it-to-production_1.png)
+![lid](https://images.contentful.com/alneenqid6w5/4FISyY6wwg2asGE4Mog2sK/991b8c634b474c336de1754acdb414de/lid.png)
 
 To access the store page with the new layout, you must enter a question mark at the end of the URL and then the `LID` parameter.
 
@@ -53,7 +53,7 @@ Another alternative that allows you to test layout changes before moving to prod
 
 To find the `WID`, visit the web site. It sits on the first field of the webpage screen: __WebSite Id__.
 
-![wid](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/validating-a-layout-before-moving-it-to-production_2.png)
+![wid](//images.contentful.com/alneenqid6w5/ghvd0wl9HqGu2KCWW2Yu2/5e27a13e79134f7ba89863ccd54031a6/wid.png)
 
 Remember that although with the duplication of the web site you can change the layouts of the new web site independently, they will consume the same templates as the original web site. 
 

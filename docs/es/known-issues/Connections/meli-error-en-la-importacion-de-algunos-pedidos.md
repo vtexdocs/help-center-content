@@ -35,7 +35,7 @@ IMPORTANTE | Este escenario sólo contempla los pedidos:
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/meli-error-en-la-importacion-de-algunos-pedidos_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/WW2J1pFsU9mvCd4VQ9Vju0RnN/?name=image.png)
 
 
 

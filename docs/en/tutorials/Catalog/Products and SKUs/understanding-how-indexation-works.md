@@ -32,7 +32,7 @@ Every time product listing data is altered as shown below, the database is reind
 
 Once a product is marked for reindexing, the text _pending indexing_ is included in the product listing in admin. The indexer places these products in a queue for processing, with a 2-minute waiting time. After the 2 minutes, the product is available for indexing. In this process, all the VTEX modules are consulted, with prices and availability updated for every sales policy. This process takes an average of 4 minutes.
 
-![indexaçao.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products and SKUs/understanding-how-indexation-works_1.png)
+![indexaçao.en](https://images.ctfassets.net/alneenqid6w5/1OCaCwIsLA1CeKVqnwIU7E/b014aa1be9f142f208b3c000b3e80998/indexa__ao.en.png)
 
 ## Indexing Report
 
@@ -47,7 +47,7 @@ The products are divided according to each step of the indexing process and to t
 - **Total Indexed**, **Not yet in queue** and **Total in Queue**: relate to the stages of the product in the process **Not yet in queue** are those that were changed in less than 2 minutes, and _Total na fila_ (Total in queue) are those that have started the indexing process, after these 2 minutes.
 - **In queue from 1 to 2 hours** and **In queue from 2 to 4 hours**, **In queue from 4 to 8 hours**: represent the periods for which the products have been in the indexing process.
 
-![Indexingreport](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products and SKUs/understanding-how-indexation-works_2.png)
+![Indexingreport](//images.ctfassets.net/alneenqid6w5/3eSr5kdaesUGkCmuAEkQQo/8f9466ec380b282176491d7f6424bbe1/Indexingreport.png)
 
 The indexing report also indicates the time the last item took to be reindexed. This is shown in the upper right side of the report (see the image above). 
 

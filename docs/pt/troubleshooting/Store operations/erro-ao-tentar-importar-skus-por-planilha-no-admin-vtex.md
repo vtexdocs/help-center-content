@@ -3,8 +3,8 @@ title: 'Erro ao tentar importar SKUs por planilha no Admin VTEX'
 id: 1TDF87s7P1UJT1hNDGZsuk
 status: PUBLISHED
 createdAt: 2024-07-01T15:07:50.982Z
-updatedAt: 2024-07-22T18:56:05.856Z
-publishedAt: 2024-07-22T18:56:05.856Z
+updatedAt: 2024-11-08T18:35:44.943Z
+publishedAt: 2024-11-08T18:35:44.943Z
 firstPublishedAt: 2024-07-01T18:24:23.096Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,9 +15,7 @@ legacySlug: erro-ao-tentar-importar-skus-por-planilha-no-admin-vtex
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags:** *Catálogo, SKU*
-
-**Palavras-chave:** *catálogo, sku, planilha, importação*
+**Tags:** Catálogo, SKU, Planilha, Importação
 
 Após a definição da árvore de categorias e o cadastro de [especificações de produtos e de SKUs](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) na sua loja, é necessário preencher os valores das especificações criadas. No Admin VTEX, esse processo pode ser realizado através de uma planilha ou de forma manual no cadastro do [produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#cadastro-do-produto) e no cadastro do [SKU](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119#cadastro-do-sku).
 Se ao realizar a [importação de SKUs por planilha](https://help.vtex.com/pt/tutorial/exportar-e-importar-especificacoes-de-produto-e-de-sku--tutorials_274?&utm_source=autocomplete), aparecer a mensagem 

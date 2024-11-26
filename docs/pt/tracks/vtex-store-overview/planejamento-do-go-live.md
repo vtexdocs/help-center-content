@@ -34,7 +34,7 @@ O processo para realizar o go-live de uma loja, incluindo as configurações e t
 
 A imagem a seguir apresenta as etapas de planejamento envolvidas no go-live de uma loja VTEX:
 
-![go-live-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-store-overview/planejamento-do-go-live_1.png)
+![go-live-pt](https://images.ctfassets.net/alneenqid6w5/3AA13R58ffQhNjBBoJm2kS/a758f107911697856c856d70192d2912/go-live-pt.png)
 
 ### Definir MVP
 
@@ -54,7 +54,7 @@ Nesse caso, portanto, todo o processo de planejamento precisa iniciar no mínimo
 
 Para organizar as equipes envolvidas e realizar o go-live na data desejada, é importante criar um _roadmap_, ou seja, um documento com o roteiro de ações necessárias para o go-live, indicando os responsáveis por cada etapa e os prazos acordados. A imagem a seguir mostra um exemplo de cronograma:
 
-![golive 2 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-store-overview/planejamento-do-go-live_2.png)
+![golive 2 PT](//images.ctfassets.net/alneenqid6w5/Z0MHCvHc0dMND8dOCk7JJ/a15338a9461674d2069c56d02388f742/golive_2_PT.png)
 
 Recomendamos planejar reuniões periódicas com as [equipes de implementação](warm-up-heading-parceiros-de-implementacao) para manter um alinhamento frequente e, se necessário, criar uma _war room_ para resolver assuntos pendentes na semana que antecede o go-live.
 

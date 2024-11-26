@@ -58,7 +58,7 @@ Recordando que un pedido puede tener una reserva del producto activa. Si el prod
 
 Los pedidos con ítems reservados seguirán figurando como reservados y no podrán venderse. En el siguiente ejemplo tenemos un caso en el que se reservan 10 unidades de Gatorade y los pedidos aún no se han facturado. A medida que actualizamos el conteo en stock, el sistema ya simula cuál será el resultado. En el ejemplo, hasta 10 ítems tienen un stock negativo, porque los pedidos con reserva activa siguen figurando en la lista. [Entienda mejor cómo funcionan las reservas](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona/). 
 
-![Atualizar Estoque GIF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory/actualizar-la-cantidad-de-skus-en-inventario_1.gif)
+![Atualizar Estoque GIF](https://images.contentful.com/alneenqid6w5/1lorbuip9ewo8gY8qg8wU0/07e97e612b4711f0f21c205b50e74867/InventoryUpdate.gif)
 
 
 ## Actualización masiva de SKUs por plantilla

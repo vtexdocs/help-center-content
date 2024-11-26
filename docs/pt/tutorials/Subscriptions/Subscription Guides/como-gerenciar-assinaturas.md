@@ -35,7 +35,7 @@ A seção **Assinaturas Únicas** permite:
 - Visualizar um **gráfico dinâmico** com a relação entre assinaturas ativas, canceladas e o total de assinaturas, dentro do período filtrado. Passando o cursor em cima das linhas do gráfico, é possível ver com detalhes a movimentação de assinaturas por dia.
 - **Exportar assinaturas** únicas dentro do período filtrado, pelo botão no canto superior direito da tela.
 
- ![PT Dashboard Assinatura única](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription Guides/como-gerenciar-assinaturas_1.png)
+ ![PT Dashboard Assinatura única](https://images.ctfassets.net/alneenqid6w5/Dbqw5LPyrXvpT3tElkIXY/89e5fa3647a3e02e5b399e464ce03003/PT_Dashboard_Assinatura___nica.png)
 
 ### Pedidos de Assinatura
 
@@ -47,12 +47,12 @@ A seção **Pedidos de Assinatura** permite:
 - Acompanhar o número absoluto e porcentagem correspondente de Pedidos de Assinatura que foram agendados, processados, gerados e completos por período.  
 - Visualizar um gráfico com a porcentagem de pedidos pulados, ciclos com problema e erro de pagamento.  
 
-![PT Dashboard Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription Guides/como-gerenciar-assinaturas_2.png)
+![PT Dashboard Pedidos Assinatura](//images.ctfassets.net/alneenqid6w5/20rYypV5vnYXo42CdCf0ms/3481a1af5bbee24d02b34a39ae03e723/PT_Dashboard_Pedidos_Assinatura.png)
 
 - Ao acessar cada aba do quadro **Pedidos de Assinatura**, é possível visualizar o fluxo e detalhes dos pedidos que foram Pulados, os que apresentaram Ciclos com problema, aqueles que contém um Erro de Pagamento e pedidos Completos.    
 - Além de listar detalhes dos erros que ocorreram durante  o fluxo de pedidos de Assinatura, também é possível realizar a **retentativa manual** dos pedidos com erros. Confira nosso artigo sobre a [Resolução de problemas de pedidos com Assinatura](https://help.vtex.com/pt/tutorial/como-solucionar-pedidos-de-assinatura-com-erros--uLL8AYBGdtAmbbdL5gRCf) para saber mais. 
 
-![PT Log Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription Guides/como-gerenciar-assinaturas_3.png)
+![PT Log Pedidos Assinatura](//images.ctfassets.net/alneenqid6w5/77DV2slShCKyXY0pKJyTl2/b1e8ed161f7be8bdbf417a68c058a268/PT_Log_Pedidos_Assinatura.png)
 
 ### Assinantes
 

@@ -3,8 +3,8 @@ title: 'Gerenciar Estoque'
 id: tutorials_137
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:29.061Z
-updatedAt: 2023-05-31T14:45:13.291Z
-publishedAt: 2023-05-31T14:45:13.291Z
+updatedAt: 2024-11-05T17:55:49.337Z
+publishedAt: 2024-11-05T17:55:49.337Z
 firstPublishedAt: 2017-04-27T23:00:45.952Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -32,13 +32,11 @@ Este artigo contém as informações necessárias para:
 >⚠️ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:
 > <body>
 >
-> [Política Comercial;](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+> [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140)
 >
-> 2. [Política de Envio;](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140)
+> 2. [Doca](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
 >
-> 3. [Doca;](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
->
-> Estoque.
+> [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
 >
 > </body>
 

@@ -25,10 +25,10 @@ internalReference: 695044
 A pesar del número establecido en el campo Moneda decimal, los decimales reales son siempre 2 en el PDP y PLP de la tienda.
 
 Configuración en la política comercial:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/los-decimales-del-campo-de-la-moneda-en-la-politica-comercial-no-se-reflejan-en-el-pdp-plp_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/2R9hhEaXn2ur3JZlbC4d5lEeF/?name=image.png)
 
 Frontend de la cuenta:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/los-decimales-del-campo-de-la-moneda-en-la-politica-comercial-no-se-reflejan-en-el-pdp-plp_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zPYZBDD7DEywmya5wpuyonOqY/?name=image.png)
 
 
 

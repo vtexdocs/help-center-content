@@ -28,13 +28,13 @@ La respuesta JSON de GET Product Specification carece de una propiedad esencial 
 
 En este ejemplo, tenemos la siguiente respuesta:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/actualizacion-de-las-especificaciones-del-producto-inviable-debido-a-la-falta-de-propiedad-en-get-resp-json_1.png)
+![](https://vtexhelp.zendesk.com/attachments/token/Wf7NUwNPNVp9HWS6cpyjKO1Ht/?name=inline-981699939.png)
 
 Observa que puedo obtener el "Valor", "Id" y "nombre" con esta req. Esta es actualmente la única manera de obtener este tipo de datos a través de la API REST.
 
 2) He utilizado la siguiente petición para actualizar esto (después de obtener cuál es el fielded y fieldvalueid consultando las APIs de la categoría): https://merch.vtexcommercestable.com.br/api/catalog/pvt/product/17/specification?an=merch
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/actualizacion-de-las-especificaciones-del-producto-inviable-debido-a-la-falta-de-propiedad-en-get-resp-json_2.png)
+![](https://vtexhelp.zendesk.com/attachments/token/v7KbNJfqfW1t4Ccl82x6ZTzpo/?name=inline-2136871145.png)
 
 Observe que en la respuesta se devuelve un ID único, que es el ID de asociación de la especificación con el producto.
 
@@ -46,7 +46,7 @@ Esta cuestión es la apertura del reconocimiento de este problema y el seguimien
 
 Utilice la exportación de especificaciones del catálogo (https://merch.myvtex.com/admin/Site/ProdutoExportacaoImportacaoEspecificacaoV2.aspx) para obtener el ID de asociación deseado:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/actualizacion-de-las-especificaciones-del-producto-inviable-debido-a-la-falta-de-propiedad-en-get-resp-json_3.png)
+![](https://vtexhelp.zendesk.com/attachments/token/f2mM8DIYgkgBGsNdDiBmE4dW6/?name=inline1262577879.png)
 
 O
 

@@ -26,4 +26,4 @@ The Admin’s translation into Japanese was driven by the [opening of our new of
 
 ## What do you need to do
 To view the Admin in Japanese, select JP in the language dropdown menu in the upper right corner of the screen. 
-![Select JP](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-03-02-admin-disponivel-em-japones_1.png)
+![Select JP](https://images.ctfassets.net/alneenqid6w5/4rQI0Nb2Bmz6P6dQs3Bixv/962f59494964fb2dddfb42f557949e28/japones.png)

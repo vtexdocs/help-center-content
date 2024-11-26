@@ -48,7 +48,7 @@ Vea a continuación el procedimiento:
 >
 > *`app`
 > 
-6. A continuación, rellene el box __Template XHTML__ con el código de su template.![4 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/como-crear-un-template-de-pagina_1.png)
+6. A continuación, rellene el box __Template XHTML__ con el código de su template.![4 1](https://images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
 7. En la esquina superior derecha, haga clic en el botón  __Save Template__.
 
 Para editar un template ya existente, el proceso es casi idéntico.

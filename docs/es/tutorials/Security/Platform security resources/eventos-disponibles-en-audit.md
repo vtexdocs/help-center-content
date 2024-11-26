@@ -3,8 +3,8 @@ title: 'Eventos disponibles en Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2024-09-19T19:45:23.075Z
-publishedAt: 2024-09-19T19:45:23.075Z
+updatedAt: 2024-10-31T20:45:04.174Z
+publishedAt: 2024-10-31T20:45:04.174Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
 productTeam: Master Data
@@ -86,6 +86,7 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit] (htt
 | Pickup Point Save | Creación o modificación del punto de recogida. | ID del punto de recogida. |
 | UPDATE-ITEM-AVAILABILITY | Actualización de disponibilidad del artículo. | Cantidad anterior y nueva del artículo, ID del SKU y ID del stock. Ejemplo: `The quantity of 17_andreia-estoque-sp was updated from 30.0 to 200.0.` |
 | item-availability-delete | Eliminación de la disponibilidad del artículo. | ID del SKU y ID del stock. Ejemplo: `112233_andreia-estoque-sp was deleted.` |
+| Item Availability Update | Actualización de disponibilidad del artículo. | Cantidad anterior y nueva del artículo, ID del SKU y ID del stock. Ejemplo: `The quantity of 17_andreia-estoque-sp was updated from 30.0 to 200.0.` |
 | Pickup Point Delete | Eliminación del punto de recogida. | ID del punto de recogida. |
 | Carrier New Freight Values | Actualización de tabla de fletes. | ID de la política de envío. |
 | Holiday Update | Actualización de feriado. | ID del feriado. |

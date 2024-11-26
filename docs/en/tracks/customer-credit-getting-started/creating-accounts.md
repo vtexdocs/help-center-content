@@ -3,8 +3,8 @@ title: 'Creating Customer Credit accounts'
 id: 7FHLd0cmxqqGeEUuc8uioU
 status: PUBLISHED
 createdAt: 2018-11-06T20:24:28.924Z
-updatedAt: 2024-02-08T19:08:32.443Z
-publishedAt: 2024-02-08T19:08:32.443Z
+updatedAt: 2024-11-04T18:08:56.036Z
+publishedAt: 2024-11-04T18:08:56.036Z
 firstPublishedAt: 2018-11-06T21:15:02.053Z
 contentType: trackArticle
 productTeam: Financial
@@ -18,7 +18,7 @@ The next step is to create accounts for the customers you want to offer credit t
 
 - [Individual account (Admin VTEX)](#create-accounts-individually)
 - [Multiple Accounts (Admin VTEX)](#create-multiple-accounts-bulk-import)
-- [Individual account (Customer Credit API)](#criar-conta-via-api)
+- [Individual account (Customer Credit API)](#create-account-via-api)
 
 >ℹ️ Accounts created in the Customer Credit app have no relationship or share data with the customer base registered in the store's [Master Data entities](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#data-entities). For a customer to be able to use Customer Credit as a payment method, their account must be registered by the merchant in the app even if the customer already has an account in the store.
 
@@ -36,7 +36,7 @@ To register a new customer in Customer Credit, follow the steps below:
 
 From this moment on, the new account created will be displayed on the __Accounts__ screen.
 
-![CC_new_account_1_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/customer-credit-getting-started/creating-accounts_1.JPG)
+![CC_new_account_1_EN](https://images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/29c36c044a54c156d6dbf4d385da0dee/CC_new_account_1_EN.JPG)
 
 ## Create multiple accounts (bulk import)
 
@@ -53,7 +53,7 @@ To create multiple accounts at the same time (in bulk) in Customer Credit, you c
   <li>Columns <b>Credit limit</b> and <b>Tolerance rate</b>: values available to each customer. The <b>Tolerance rate</b> must be entered in decimal format, for example, a tolerance of 5% must be indicated as 0.05.</li>
 </ul>
 
-![CC_criar_conta_2_ALL](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/customer-credit-getting-started/creating-accounts_2.JPG)
+![CC_criar_conta_2_ALL](//images.ctfassets.net/alneenqid6w5/2KwguLYrq4sasC46xAIUfV/9b504a53cbf5796f78fafc77c5125e22/CC_criar_conta_2_ALL.JPG)
 
 <blockquote><ui>6. Save the .csv spreadsheet.</ui>
 
@@ -84,6 +84,6 @@ The procedure is similar to [create multiple accounts](#create-multiple-accounts
 
 ## Create account via API
 
-You can also create accounts for your customers in Customer Credit through the endpoint [POST - Open an account](https://developers.vtex.com/docs/api-reference/customer-credit-api#post-/api/ creditcontrol/accounts).
+You can also create accounts for your customers in Customer Credit through the endpoint [POST - Open an account](https://developers.vtex.com/docs/api-reference/customer-credit-api#post-/api/creditcontrol/accounts).
 
 For more information about Customer Credit API endpoints, visit [Customer Credit API - Overview](https://developers.vtex.com/docs/api-reference/customer-credit-api#overview).  

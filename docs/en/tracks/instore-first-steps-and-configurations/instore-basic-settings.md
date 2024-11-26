@@ -50,7 +50,7 @@ After installing, you will configure the basic settings of the VTEX Sales App ap
 
 ### Add the store address
 
-![cadastrar-loja-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-first-steps-and-configurations/instore-basic-settings_1.png)
+![cadastrar-loja-pt](https://images.contentful.com/alneenqid6w5/51ICHIzuWsMAwPCVwQuQoB/071ec5240f968e662badf4e828954072/cadastrar-loja-pt.png)
 
 On this screen, enter the name of the first physical store where VTEX Sales App will be used and the full address of the store. After filling out all the fields, click on `Confirm`.
 
@@ -60,7 +60,7 @@ If you choose to `Skip this step`, a fictitious store will be created for testin
 
 ### Adding a sales associate's email and name
 
-![registrar-vendedor-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-first-steps-and-configurations/instore-basic-settings_2.png)
+![registrar-vendedor-pt](//images.contentful.com/alneenqid6w5/5PvZutdPYWkm7rj4HCrlPC/0316ea7fd74dae942a64e5fdb22f3807/registrar-vendedor-pt.png)
 
 You must define an email and a name to be used as a sales associate’s login credentials. When you are ready, click on `Confirm`.
 
@@ -74,7 +74,7 @@ If you choose to `Skip this step`, a fictitious sales associate will be created 
 
 The next step is to set up the payment methods you will accept on VTEX Sales App. Enable the desired options using the <i class="fas fa-toggle-on"></i> button, as shown below.
 
-![configurar-meios-de-pagamento-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-first-steps-and-configurations/instore-basic-settings_3.gif)
+![configurar-meios-de-pagamento-pt](//images.contentful.com/alneenqid6w5/3kjTg7Y2tUI5UErQBsGc02/5174724afd2987a4b8f578c1d74b87b9/configurar-meios-de-pagamento-pt.gif)
 
 There are two options:
 
@@ -83,7 +83,7 @@ There are two options:
 
 After selecting the desired options, click on `Confirm`. You will see the following confirmation message:
 
-![sucesso-instore-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-first-steps-and-configurations/instore-basic-settings_4.png)
+![sucesso-instore-pt](//images.contentful.com/alneenqid6w5/nVSjiQuE0EXIYecELJJFQ/79a0d24adb51e7ad68f371afe5ca0491/sucesso-instore-pt.png)
 
 ## Configuring payment conditions
 

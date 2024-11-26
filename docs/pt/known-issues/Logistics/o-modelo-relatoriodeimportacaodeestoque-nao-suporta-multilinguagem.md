@@ -33,7 +33,7 @@ Atualmente, a mensagem de retorno do relatório de importação do inventário e
 2. Anexe o arquivo a ser importado;
 3. Ao final do processo de importação, o e-mail será enviado com o resultado da importação. Podemos ver que a mensagem não está respeitando o idioma da conta:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/o-modelo-relatoriodeimportacaodeestoque-nao-suporta-multilinguagem_1.png)
+![](https://vtexhelp.zendesk.com/attachments/token/ir6cFOIA64r7ZAC7GEdbw6pww/?name=image.png)
 
 "Importação concluída! Total de itens importados: 6. Total de itens não importados: 0,`"
 

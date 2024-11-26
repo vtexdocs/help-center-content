@@ -43,7 +43,7 @@ Para verificar se os provedores de antifraude configurados em sua loja permitem 
 2. Em **Pagamentos**, clique em **Configurações > Afiliações de Gateway**. 
 3. Ao selecionar o provedor de antifraude escolhido, verifique se a opção **Campo de documento do titular do cartão **está disponível na tela de configuração.
 
-![campo de documento do titular do cartão](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-04-29-checkout-configuracao-do-campo-de-identificacao-do-titular-do-cartao_1.png)
+![campo de documento do titular do cartão](https://images.ctfassets.net/alneenqid6w5/23Hyo1jo4hkC3nXPmOa7NW/5bbfb8cbfce605b09d61e10a8ff06e3b/campo_de_documento_do_titular_do_cart__o.png)
 
 >⚠️ Caso a opção **Campo de documento do titular do cartão** não esteja disponível na tela de configuração do seu provedor de antifraude, o campo **Identificação do titular do cartão** continuará sendo exibido na tela do Checkout da loja e deverá ser obrigatoriamente preenchido pelo cliente.
 

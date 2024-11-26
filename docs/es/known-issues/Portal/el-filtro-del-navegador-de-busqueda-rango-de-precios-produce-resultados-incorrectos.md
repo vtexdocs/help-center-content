@@ -35,7 +35,7 @@ Actualmente, cuando se utiliza el filtro de marca del Navegador de búsqueda jun
 
 1) Rellenar el controlador del navegador de búsqueda con al menos 2 marcas, es decir, para una categoría/subcategoría dada, tener al menos 2 marcas diferentes listadas:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Portal/el-filtro-del-navegador-de-busqueda-rango-de-precios-produce-resultados-incorrectos_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/2lJXG553wVxO5DU4GKifG7IlI/?name=inline-447748464.png)
 
 2) A continuación, filtre sólo por la "Marca B", por ejemplo, ahora sólo se mostrarán los resultados producidos por esta marca específica para esta categoría,
 

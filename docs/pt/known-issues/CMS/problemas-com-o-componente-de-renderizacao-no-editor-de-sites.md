@@ -22,13 +22,13 @@ internalReference: 415674
 
 
 Devido à quantidade de informações na página, o editor do site pode ter problemas ao renderizar blocos. Esse comportamento ocorre de forma intermitente, às vezes os componentes não são renderizados e às vezes são renderizados duas vezes. Pode acontecer de nenhum bloco aparecer no editor do site:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/problemas-com-o-componente-de-renderizacao-no-editor-de-sites_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/miNCNkBPcmbXcVHmb9f5HWxIS/?name=image.png)
 
 Ou pode acontecer com menos blocos.
 
 Também pode ocorrer um atraso após salvar um novo conteúdo. O conteúdo é salvo, mas a tela continua carregando:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/problemas-com-o-componente-de-renderizacao-no-editor-de-sites_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/BwlA7jzWiWCxYMLOGxMb0N84N/?name=image.png)
 
 ## Simulação
 

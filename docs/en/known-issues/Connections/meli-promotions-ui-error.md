@@ -35,7 +35,7 @@ This is due to MELI request limits, and we will further investigate on how to av
 
 Inside the menu "Mercado Livre" -  "Promotions", sometimes it may have that we have below error:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/meli-promotions-ui-error_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/nTFCikj9ovOIsLA0QqkjuAwkU/?name=image.png)
 
 
 ##

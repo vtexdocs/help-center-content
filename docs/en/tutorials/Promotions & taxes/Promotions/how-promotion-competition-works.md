@@ -3,8 +3,8 @@ title: 'How promotion competition works'
 id: tutorials_2270
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:27.997Z
-updatedAt: 2024-08-23T16:45:30.591Z
-publishedAt: 2024-08-23T16:45:30.591Z
+updatedAt: 2024-11-11T17:22:09.507Z
+publishedAt: 2024-11-11T17:22:09.507Z
 firstPublishedAt: 2017-04-27T23:03:50.791Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -21,13 +21,13 @@ Promotion competition occurs in the following situations:
 
 - Promotions with the same type of discount.
 - More than one promotion applied to the same item.
-- Promotions not [configured](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restrictions-and-limitations-of-use) to allow cumulative promotions.
+- Promotions not [configured](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restrictions-and-limitations-of-use) to allow combined promotions.
 
 To understand how the selection of the promotion that will be applied works, it's important to understand some concepts used in the Promotions module.
 
 - [Promotion effects](#promotion-effects)
 - [Promotion sorting rule](#promotion-sorting-rule)
-- [Cumulative promotions](#cumulative-promotions)
+- [combined promotions](#combined-promotions)
 - [Promotion competition strategies](#promotion-competition-strategies)
 
 ## Promotion effects
@@ -74,21 +74,21 @@ Priority is given to the promotion that grants the highest discount, i.e., the c
 
 The **Promotion 1** will be applied to the product price already discounted by **Promotion 2**.
 
-## Cumulative promotions
+## Combined promotions
 
 Promotions that are [configured](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restrictions-and-limitations-of-use) to Apply with other promotions in this field will always be applied if their conditions are met, regardless of their type.
 
-However, they will be applied to the amount that has already been discounted by the promotion that won over non-cumulative promotions. The order of selected promotions will follow the sorting by type and value, as described in item 1. 
+However, they will be applied to the amount that has already been discounted by the promotion that won over non-combined promotions. The order of selected promotions will follow the sorting by type and value, as described in item 1. 
 
 Therefore, promotions will be applied in the following order:
 
-![promocao3 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/how-promotion-competition-works_1.png)
+![promocao3 EN](https://images.ctfassets.net/alneenqid6w5/6nz2KJuFk4aS0eU0OGg0sM/7cf285654ec80894e0a346c90918cd33/promocao3_EN.png)
 
->⚠️ Orders originating from the [Marketplace](https://help.vtex.com/en/tutorial/configurar-promocao-para-marketplace--tutorials_406) (provided by the store) or Fulfillment (delivered by the store) do not support cumulative promotions. This is because the use of promotions is restricted to specific types on both VTEX and external marketplaces.
+>⚠️ Orders originating from the [Marketplace](https://help.vtex.com/en/tutorial/configurar-promocao-para-marketplace--tutorials_406) (provided by the store) or Fulfillment (delivered by the store) do not support combined promotions. This is because the use of promotions is restricted to specific types on both VTEX and external marketplaces.
 
 ## Promotion competition strategies
 
-After understanding how promotions are sorted and applied, you will be able to comprehend how non-cumulative promotions compete with each other.
+After understanding how promotions are sorted and applied, you will be able to comprehend how non-combined promotions compete with each other.
 
 The selection of each promotion only considers promotions of the same discount type (as described in [Promotion effects](#promotion-effects)) that apply to at least one common product.
 
@@ -109,9 +109,9 @@ The one that gives the best discount will be applied to the cart. See the exampl
 
 #### Example 1
 
-James is planning to purchase a t-shirt priced at $10, with an additional $4 for shipping. Up to five promotions can be applied to the order. All applicable promotions were [configured](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restrictions-and-limitations-of-use) in the `Apply with other promotions` field as non-cumulative, except for the first one.
+James is planning to purchase a t-shirt priced at $10, with an additional $4 for shipping. Up to five promotions can be applied to the order. All applicable promotions were [configured](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restrictions-and-limitations-of-use) in the `Apply with other promotions` field as non-combined, except for the first one.
 
-| Cumulative promotions | Non-cumulative promotions |
+| combined  promotions | Non-combined promotions |
 | ----------- | ----------- |
 | 10% off | Maximum shipping cost of $20 |
 | X | 80% off on the shipping cost |
@@ -127,7 +127,7 @@ The cart will show a final price of $4.50 for the t-shirt and $0.80 for shipping
    - Receives a discount of *80%*. New price: **$0.80**.
    - The maximum shipping cost of **$20** is applied but is not valid as the shipping cost is already below that.
 
-Then, cumulative promotions are applied:
+Then, combined promotions are applied:
 
 - T-shirt from ~~$10~~ now for **$5**.
    - Receives a percentage discount of **10%**. New price: **$4.50**.
@@ -149,11 +149,11 @@ Linda created a cart with 1 t-shirt and 1 pair of shoes. These items are part of
 | 2 | T-shirt | $ 10 |
 
 - Promotions:
-   1. **10%** off on the first collection. Configured as non-cumulative in the `Apply with other promotions field`.
-   2. **25%** off on the second collection. Configured as non-cumulative in the `Apply with other promotions field`.
-   3. **5%** off on the product price. Configured as cumulative in the `Apply with other promotions field`. Applies to all the products in the shopping cart.
+   1. **10%** off on the first collection. Configured as non-combined in the `Apply with other promotions field`.
+   2. **25%** off on the second collection. Configured as non-combined in the `Apply with other promotions field`.
+   3. **5%** off on the product price. Configured as combined in the `Apply with other promotions field`. Applies to all the products in the shopping cart.
 
-As the first two promotions apply to the t-shirt and are not marked as cumulative, they compete with each other.
+As the first two promotions apply to the t-shirt and are not marked as combined, they compete with each other.
 
 When promotions compete, the Promotions module will choose the promotion that provides the best discount for the customer. See below for an example of competition by scenario.
 
@@ -179,7 +179,7 @@ The t-shirt would be priced at **$7.12** with a *discount of 25% from Promotion 
 
 In this scenario, the order total would be **$54.62**.
 
-In short, since in scenario 1 the order total is cheaper for the customer, it fits the premise of offering the best possible discount. So VTEX chooses to apply Promotion 1 of 10% for both items. This is because promotions 1 and 2 could not be applied together since they are non-cumulative. 
+In short, since in scenario 1 the order total is cheaper for the customer, it fits the premise of offering the best possible discount. So VTEX chooses to apply Promotion 1 of 10% for both items. This is because promotions 1 and 2 could not be applied together since they are non-combined. 
 
 ### Competition by item
 
@@ -193,9 +193,9 @@ In the competition by item, this is what would happen following the data from th
 | 1 | Shoes | $ 50 |
 
 - Promotions:
-   1. **10%** off on the first collection. Configured as non-cumulative in the `Apply with other promotions field`.
-   2. **25%** off on the second collection. Configured as non-cumulative in the `Apply with other promotions field`.
-   3. **5%** off on the product price. Configured as cumulative in the `Apply with other promotions field`. Applies to all the products in the shopping cart.
+   1. **10%** off on the first collection. Configured as non-combined in the `Apply with other promotions field`.
+   2. **25%** off on the second collection. Configured as non-combined in the `Apply with other promotions field`.
+   3. **5%** off on the product price. Configured as combined in the `Apply with other promotions field`. Applies to all the products in the shopping cart.
 
 Applying the promotion, the amounts would be:
 

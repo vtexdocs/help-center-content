@@ -1,5 +1,5 @@
 ---
-title: "Exporting SKU images for accounts starting with 'h','t' or 'p' get this character cut in the 'Image URL' rows."
+title: "Exporting SKU images for accounts starting with 'h','t' or 'p' get this character cut in the "Image URL' rows."
 id: 1IZdnE8IGwkBlbcFhjLrzn
 status: PUBLISHED
 createdAt: 2023-10-13T15:20:49.703Z
@@ -32,7 +32,7 @@ The SKU image report, /admin/Site/ProdutoImagemExportacao.aspx, for accountnames
 
 For instance, if the account is named "testaccount":
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/exporting-sku-images-for-accounts-starting-with-ht-or-p-get-this-character-cut-in-the-image-url-rows_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/3VxPtxFSDjU1obEtgqkS16BXM/?name=image.png)
 
 
 ##

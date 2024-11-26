@@ -23,7 +23,7 @@ Seja do computador, smartphone, tablet ou notebook, o design é o mesmo. O que a
 
 O design da versão mobile e toda a sua programação é feito pensando apenas no mobile, sendo uma segunda aplicação, ou seja, uma para navegadores comuns e outra para navegadores mobile. Ao acessar a loja, identifica-se o dispositivo e redireciona a programação específica.
 
-![Principais resoluões mobile utilizadas atualmente](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/responsivo-x-versao-mobile_1.jpg)
+![Principais resoluões mobile utilizadas atualmente](https://images.contentful.com/alneenqid6w5/4tOHOVzZO8w6a0mUAuqSk6/770a9f0ff450163bd3e30f32e8e56cd6/RESOLUTION.jpg)
 
 Principais resoluções de tela utilizadas atualmente (pode-se haver variações conforme o dispositivo
 
@@ -56,7 +56,7 @@ Principais resoluções de tela utilizadas atualmente (pode-se haver variações
 
 #### Principais elementos visuais reconhecidos nos dispositivos móveis:
 
-![Principais elementos visuais reconhecidos nos dispositivos móveis](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/responsivo-x-versao-mobile_2.jpg)
+![Principais elementos visuais reconhecidos nos dispositivos móveis](//images.contentful.com/alneenqid6w5/5837hcHdBussm8oMI42iWQ/c6f399a1ff3f438c3618d3678ec918ee/icon.jpg)
 
 #### A qualidade é indiferente ao tamanho!
 

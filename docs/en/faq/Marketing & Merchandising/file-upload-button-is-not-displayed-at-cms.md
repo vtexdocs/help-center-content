@@ -21,7 +21,7 @@ If you have this problem on Google Chrome, just activate the Flash plug-in as fo
 1. Click on the information button or on the padlock in front of the current URL;
 2. In the line corresponding to the Flash, which normally shows "Perguntar (padrão)", select "Sempre permitir neste site".
 
-![chrome-flash](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Marketing & Merchandising/file-upload-button-is-not-displayed-at-cms_1.jpg)
+![chrome-flash](https://images.contentful.com/alneenqid6w5/URF5k1wvQsaAiSoOeo4WI/5560f944b3b3fabb21bfbf4cebe21037/chrome-flash.jpg)
 
 Normally this problem is related to the availability of Flash Player on the browser for the site accessed. 
 

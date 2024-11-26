@@ -3,8 +3,8 @@ title: 'Promoción Regular'
 id: tutorials_327
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:59.690Z
-updatedAt: 2024-09-30T17:08:36.641Z
-publishedAt: 2024-09-30T17:08:36.641Z
+updatedAt: 2024-11-11T17:41:11.457Z
+publishedAt: 2024-11-11T17:41:11.457Z
 firstPublishedAt: 2017-04-27T23:03:15.647Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -84,7 +84,7 @@ Para que la promoción sea válida para todas las políticas comerciales, deje l
 
 En esta sección, debe elegir si la promoción se aplicará a todos los productos registrados en su tienda o solo a productos específicos, como se ilustra a continuación.
 
-![promocoes-restricao-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/registro-promocion-regular_1.png)
+![promocoes-restricao-es](https://images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/83e378ce4788febd839ee10395e02f9f/image.png)
 
 Si desea aplicar la promoción a todo su catálogo, seleccione la opción **Aplicar a todos los productos.**
 
@@ -94,7 +94,7 @@ Puede incluir o excluir **categorías, marcas, colecciones**, **productos** y **
 
 Vea a continuación un ejemplo de cómo rellenarlo. En este caso, participan en la promoción todos los productos de la categoría **Vestido **cuya marca es **Farm**, con la excepción del producto **Vestido Rosas**.
 
-![exemplo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/registro-promocion-regular_2.png)
+![exemplo-es](//images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/89c3e52e137f7856cb49628954217ff9/image.png)
 
 En los campos **Productos** y **SKUs**, se puede cargar un archivo **.txt** con un ID de producto o de SKU por fila, en vez de seleccionar un producto o un SKU a la vez. Para ello, debe hacer clic en **Elegir archivo** y seleccionar el archivo **.txt** deseado.
 

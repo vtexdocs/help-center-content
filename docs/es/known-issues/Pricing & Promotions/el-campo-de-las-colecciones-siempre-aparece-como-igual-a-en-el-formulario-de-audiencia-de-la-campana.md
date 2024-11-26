@@ -24,7 +24,7 @@ internalReference: 697168
 
 Incluso si establecemos el campo Colecciones como "Diferente de" y guardamos el formulario, una vez que lo abrimos de nuevo el valor se establece como "Igual a". Sin embargo, este comportamiento es sólo en la UI, en el backend el valor se establece correctamente, no teniendo ningún impacto en las ventas.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing & Promotions/el-campo-de-las-colecciones-siempre-aparece-como-igual-a-en-el-formulario-de-audiencia-de-la-campana_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/XX8ZrsQE8jH3BqY6bVvUe7zIC/?name=image.png)
 
 
 

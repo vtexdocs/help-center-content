@@ -74,11 +74,11 @@ No menu principal do Admin, acesse __Preços__ e escolha a opção __Lista de pr
 
 No filtro da busca, insira os nomes das tabelas criadas no __Master Data__.
 
-![Filtros](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price list/configurar-price-tables-especificas_1.png)
+![Filtros](https://images.ctfassets.net/alneenqid6w5/4sQMk2XLRyoQvFLNrGI0A7/623539da9a99dcfae6b6bf2a8ce1e6b0/Filtros_-_PT.png)
 
 As tabelas de preço são mostradas como colunas da lista de preços, assim como as políticas comerciais.
 
-![Lista de preços - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price list/configurar-price-tables-especificas_2.png)
+![Lista de preços - PT](//images.ctfassets.net/alneenqid6w5/16m3JGeeDwzioInWVBxbpl/5cdc7aed4d5feb7687f5103fe6a8746c/Lista_de_pre_os_-_PT.png)
 
 Para atualizar o preço fixo em uma tabela específica, clique na coluna dessa tabela e depois em __Definir preços fixos__. 
 
@@ -93,7 +93,7 @@ Quando um usuário da sua loja não está logado, os preços mostrados a ele sã
 Mas se o usuário estiver logado, ele verá os preços correspondentes à tabela de preços à qual o email dele estiver associado.
 
 Por exemplo, estes dois clientes estão atrelados a tabelas de preços diferentes:
-![Clients](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price list/configurar-price-tables-especificas_3.png)
+![Clients](//images.ctfassets.net/alneenqid6w5/4YanVck2GswcKKEEamO6gs/d1a2bc5603716c485dd000239a49fb41/Clients.png)
 
 Quando o cliente Daniel, que está na tabela Silver, estiver logado na loja, ele verá os preços definidos nessa tabela. A mochila do exemplo acima aparecerá com o valor de R$ 50,00.
 Já o cliente Breno, que está na tabela Gold, verá os preços definidos nessa outra tabela. Para ele a mochila custará R$ 60,50.

@@ -32,7 +32,7 @@ In this case, 11.87*4 = 47.48.
 
 A side effect caused by this issue is that the sellingPrice is considered different than the product's listPrice, and then the listPrice is displayed as well.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store Framework/incorrect-price-rounding-when-unit-multiplier-is-different-from-1_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/7K0amWgevdGtQcfZd1UdYaFkn/?name=inline1146427484.png)
 
 This behavior only occurs in search context, but not in the PDP. In this case, the sellingPrice is correct.
 

@@ -26,6 +26,6 @@ Para configurar este domínio, siga os passos abaixo:
 5. Adicione ou atualize uma chave com o nome **EnderecoSite**.
 6. O nome da chave deve ser o hostname (domínio completo) do seu site, por exemplo, www.meusite.com.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/configurar-dominio-do-xml_1.jpg)
+![](https://images.contentful.com/alneenqid6w5/2Pi5Pj2hRuOuUsmoqQc260/6604151e3c2f5de3e5a90af035037741/2017-09-27_194912.jpg)
 
 __Observação:__ se não for possível clicar no botão **Add**, para adicionar uma nova chave, antes clique no botão verde de refresh, na parte debaixo da tabela. Feito isso, o Add será habilitado.

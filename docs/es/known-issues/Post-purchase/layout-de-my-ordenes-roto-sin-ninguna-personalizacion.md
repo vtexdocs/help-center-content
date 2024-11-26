@@ -25,7 +25,7 @@ internalReference:
 
 ---
 
-![Screen Shot 2017-05-26 at 12.01.58](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Post-purchase/layout-de-my-ordenes-roto-sin-ninguna-personalizacion_1.png)
+![Screen Shot 2017-05-26 at 12.01.58](//images.contentful.com/alneenqid6w5/qUqOq8ZyGOCAAoiUM0600/66a6bf0fa60bbd65fa9abd1ca7c825ae/Screen_Shot_2017-05-26_at_12.01.58.png)
 
 Si el layout del nuevo My Orders presenta problemas en su tienda _out of the box_, sin ninguna personalización, puede que el CSS de su tienda esté interfiriendo con él.
 

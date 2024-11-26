@@ -3,8 +3,8 @@ title: 'Cadastrar geolocalização'
 id: tutorials_138
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:36.462Z
-updatedAt: 2023-08-25T14:52:20.340Z
-publishedAt: 2023-08-25T14:52:20.340Z
+updatedAt: 2024-11-13T18:38:14.968Z
+publishedAt: 2024-11-13T18:38:14.968Z
 firstPublishedAt: 2017-04-27T23:00:44.871Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -58,7 +58,7 @@ Exemplo:
 
 Pronto, agora é só usar esse mesmo ID para preencher a coluna **PolygonName** da [planilha de frete](http://help.vtex.com/tutorial/como-montar-a-planilha-de-frete/).
 
->⚠️ É importante atentar para o fato de que, no caso de você usar geolocalização, preenchendo portanto a coluna **PolygonName** da planilha de frete, a transportadora em questão não usará as colunas **ZipCodeStart** e **ZipCodeEnd**, que deverão ser preenchidas com 0.
+>⚠️ É importante atentar para o fato de que, no caso de você usar geolocalização, preenchendo portanto a coluna **PolygonName** da [planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127), a transportadora em questão não usará as colunas **ZipCodeStart** e **ZipCodeEnd**, que deverão ser preenchidas com `0`.
 
    Lembre-se também que para que a geolocalização funcione, deve estar preenchido o campo API Key em **Configurações da loja > Storefront > Checkout**, [na aba Checkout](https://help.vtex.com/pt/tutorial/geolocalizacao-no-checkout/), com a mesma chave que utilizou para habilitar a geolocalização.
 

@@ -3,8 +3,8 @@ title: 'Configuring promotions for marketplaces'
 id: tutorials_406
 status: PUBLISHED
 createdAt: 2017-04-27T22:06:28.854Z
-updatedAt: 2024-01-18T17:21:44.418Z
-publishedAt: 2024-01-18T17:21:44.418Z
+updatedAt: 2024-11-11T16:46:25.421Z
+publishedAt: 2024-11-11T16:46:25.421Z
 firstPublishedAt: 2017-04-27T23:03:23.902Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -58,7 +58,7 @@ There are differences between the settings available for VTEX marketplaces and e
 | Name| Promotion name | Yes| Yes|
 | Status| Option that defines if the promotion is active or inactive.| Yes| Yes| 
 | Description| The internal description of the promotion| Yes| Yes|
-| Allow cumulative promotions   | More than one promotion can be applied simultaneously, regardless of the discount type.| Yes| Yes|
+| Allow combined promotions   | More than one promotion can be applied simultaneously, regardless of the discount type.| Yes| Yes|
 | Nominal Discount| Discount granted to the total cart price.| Yes| Yes|
 | Expiration Date| The promotion’s date, start and end time| Yes| Yes|
 | Percentage shipping rate| Percentage discount applied to the shipping rate.| Yes| Yes|

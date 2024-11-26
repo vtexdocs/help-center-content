@@ -33,7 +33,7 @@ The **Calculated field** was a setting within the [data entity](https://help.vte
 
 This field type and the calculated fields created will no longer be available from June 17, 2024, as illustrated below. 
 
-![image5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024-04-17-master-data-v1-dynamic-settings-deprecation_1.png)
+![image5](https://images.ctfassets.net/alneenqid6w5/13NWpWtxQGLFfh0ecW4ZV6/f0f168a3da476c6dfce2d74060569f98/image5.png)
 
 ### Change field value
 
@@ -41,7 +41,7 @@ When configuring triggers, the **Change field value** option allows you to add C
 
 The **Change field value** option, illustrated below, will no longer be available when configuring trigger actions from June 17, 2024. Triggers previously created with this option will continue to work until that date.
 
-![image2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024-04-17-master-data-v1-dynamic-settings-deprecation_2.png)
+![image2](//images.ctfassets.net/alneenqid6w5/2meuBC8t6dnVAfg1YzZnwL/cb208350954b305141787aa0b4c65407/image2.png)
 
 ## What needs to be done?
 

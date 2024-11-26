@@ -3,8 +3,8 @@ title: "O pedido da minha loja está parado no status 'Verificando nota fiscal'"
 id: 2YY7ILOOd0lEjpiT7SSgag
 status: PUBLISHED
 createdAt: 2024-08-16T18:32:15.867Z
-updatedAt: 2024-08-16T18:56:49.382Z
-publishedAt: 2024-08-16T18:56:49.382Z
+updatedAt: 2024-11-08T19:29:24.003Z
+publishedAt: 2024-11-08T19:29:24.003Z
 firstPublishedAt: 2024-08-16T18:52:24.803Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: o-pedido-da-minha-loja-esta-parado-no-status-verificando-nota-fiscal
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags / Palavras-chave:** pedido, status do pedido, nota fiscal, fatura, fatura parcial, verificando nota fiscal.
+**Tags:** Pedidos, Status do pedido, Fatura
 
 Ao acompanhar o [fluxo dos pedidos](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196) da sua loja, você pode se deparar com um pedido que permanece no status `Verificando nota fiscal` por mais tempo do que o esperado. Nesse status, a plataforma checa se o pagamento foi liquidado e se a nota fiscal do pedido foi incluída corretamente, sendo estas condições necessárias para que o pedido avance no fluxo.
 

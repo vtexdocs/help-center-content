@@ -3,8 +3,8 @@ title: 'Por que os preços dos produtos da minha loja não foram enviados ao mar
 id: 7LMjXNoYJXsgPyKFkk6I25
 status: PUBLISHED
 createdAt: 2024-09-13T18:09:21.855Z
-updatedAt: 2024-09-13T18:21:24.321Z
-publishedAt: 2024-09-13T18:21:24.321Z
+updatedAt: 2024-11-08T18:33:24.038Z
+publishedAt: 2024-11-08T18:33:24.038Z
 firstPublishedAt: 2024-09-13T18:21:24.321Z
 contentType: tutorial
 productTeam: Channels
@@ -15,8 +15,7 @@ legacySlug: precos-dos-produtos-nao-foram-enviados-ao-marketplace
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 ---
 
-**Tags:** Marketplace, integração, preço  
-**Palavras-chave:** Marketplace, integração, preço  
+**Tags:** Marketplace, Integração, Preços  
 
 O preço de um produto é enviado para o marketplace após dois processos: a [configuração de preços na loja do seller](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) e a catalogação de produtos. Se um desses processos citados não for executado, o preço do produto do seller não será disponibilizado no marketplace.  
 

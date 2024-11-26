@@ -3,8 +3,8 @@ title: "I can't import the price table"
 id: bglrzs7gLKWf97q8qRdRm
 status: PUBLISHED
 createdAt: 2024-06-10T15:11:02.787Z
-updatedAt: 2024-06-10T19:44:11.614Z
-publishedAt: 2024-06-10T19:44:11.614Z
+updatedAt: 2024-11-08T18:50:45.313Z
+publishedAt: 2024-11-08T18:50:45.313Z
 firstPublishedAt: 2024-06-10T17:28:51.238Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: i-cant-import-the-price-table
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-__Tags/Keywords__: *price table, spreadsheet import, cells.*
+**Tags:** Pricing, Spreadsheet import
 
 [Price tables, or price spreadsheets](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8), store SKU information which, when applied in specific contexts, such as trade policies, promotions, or customer clusters, allows you to calculate the product prices in a VTEX store. For more information, see [Base price](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) and [Fixed price](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy). 
 
@@ -52,7 +52,7 @@ Make sure that all fields in your table are properly populated based on the guid
 
 Example of a table with filters applied and __Error Code__ and __Error Message__ fields:
 
-![Price spreadsheet](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.PNG)
+![Price spreadsheet](https://images.ctfassets.net/alneenqid6w5/1r7FGH4sdfT0uzCUX4T07y/a88f798c1962786dadfd35573453242e/Price_spreadsheet.PNG)
 
 #### File size
 

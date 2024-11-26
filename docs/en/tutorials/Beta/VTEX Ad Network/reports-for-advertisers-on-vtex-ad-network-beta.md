@@ -57,7 +57,7 @@ After a few minutes, all the reports generated will be available in CSV format f
 
 To download a report, click `Download` on the report's row in the list. You can also use the search bar and the available filters to find the desired report.
 
-![ad-network-reports](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/VTEX Ad Network/reports-for-advertisers-on-vtex-ad-network-beta_1.png)
+![ad-network-reports](https://images.ctfassets.net/alneenqid6w5/60Jbe0tOM8Gl9a8BhTWMG1/205fa8d9ab3010ca0fa84d0bb7330d30/ad-network-reports-en.png)
 
 ### Report: Campaign
 

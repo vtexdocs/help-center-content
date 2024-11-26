@@ -1,10 +1,10 @@
 ---
-title: "​​My store's order still has the status 'Verifying invoice'"
+title: "​​My store's order still has the status "Verifying invoice'"
 id: 2YY7ILOOd0lEjpiT7SSgag
 status: PUBLISHED
 createdAt: 2024-08-16T18:32:15.867Z
-updatedAt: 2024-08-16T18:56:49.382Z
-publishedAt: 2024-08-16T18:56:49.382Z
+updatedAt: 2024-11-08T19:29:24.003Z
+publishedAt: 2024-11-08T19:29:24.003Z
 firstPublishedAt: 2024-08-16T18:52:24.803Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: my-stores-order-still-has-the-status-verifying-invoice
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags / Keywords:** order, order status, invoice, partial invoice, verifying invoice.
+**Tags:** Orders, Order status, Invoice
 
 When following your store [order flow](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196), you may come across an order that has the status `Verifying invoice` for longer than expected. This status means the platform is verifying that the payment has been settled and the order's invoice has been correctly added, which are required conditions for the order to move forward in the flow.
 

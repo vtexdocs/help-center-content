@@ -3,8 +3,8 @@ title: 'Cómo el descuento progresivo funciona'
 id: tutorials_324
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:26.447Z
-updatedAt: 2019-12-31T15:22:29.353Z
-publishedAt: 2019-12-31T15:22:29.353Z
+updatedAt: 2024-11-11T16:56:08.449Z
+publishedAt: 2024-11-11T16:56:08.449Z
 firstPublishedAt: 2017-04-27T23:03:15.195Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

@@ -3,8 +3,8 @@ title: 'Lojas físicas como pontos de retirada'
 id: 4hXfgqXxS1lwAfnxgja3xW
 status: PUBLISHED
 createdAt: 2021-08-23T17:04:37.282Z
-updatedAt: 2023-07-26T18:51:23.201Z
-publishedAt: 2023-07-26T18:51:23.201Z
+updatedAt: 2024-11-13T18:16:43.930Z
+publishedAt: 2024-11-13T18:16:43.930Z
 firstPublishedAt: 2021-08-23T17:12:50.884Z
 contentType: trackArticle
 productTeam: Shopping
@@ -57,6 +57,8 @@ Agora, você precisa conectar o ponto de retirada ao estoque local da loja físi
 4. Selecione no menu os pontos de retirada que forem utilizar o estoque da loja física.
 
 Com isso, seu estoque está conectado ao ponto de retirada, e os clientes já podem retirar produtos nessa loja física. Ao ativar essa opção, a __Logística__ não observa a política comercial da doca vinculada ao estoque em questão. 
+
+>ℹ️ Ao associar o ponto de retirada ao estoque da loja física, essa configuração se aplica ao estoque de todas as políticas comerciais ativas.
 
 ## Saiba mais
 

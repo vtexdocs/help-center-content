@@ -48,7 +48,7 @@ Let's make some changes to our `style.json` file. We can change the colors a bit
 
 Now, see the results by `linking` our app:
 
-![style-json](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/build-a-store-using-vtex-io/customizing-styles_1.svg)
+![style-json](https://images.ctfassets.net/alneenqid6w5/1S0DU3mL8MxRVleCmUGGol/3594be77ecae98c6c223e04191f95def/style-json.svg)
 
 Success! Now you know how to customize your store's styles.
 
@@ -98,4 +98,4 @@ Let’s type some CSS inside, giving us a nice solid red line:
 ```
 Our new category menu will now have a solid red line along the bottom of our menu.
 
-![red-line](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/build-a-store-using-vtex-io/customizing-styles_2.svg)
+![red-line](//images.ctfassets.net/alneenqid6w5/2zVZNpUFepCptn5Zuo3YNa/1d939c7f78544c6b716bfc57db774b79/red-line.svg)

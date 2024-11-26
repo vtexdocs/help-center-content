@@ -3,8 +3,8 @@ title: 'Delivery Promise (Beta)'
 id: p9EJH9GgxL0JceA6dBswd
 status: PUBLISHED
 createdAt: 2024-08-22T15:58:58.240Z
-updatedAt: 2024-09-02T22:29:17.194Z
-publishedAt: 2024-09-02T22:29:17.194Z
+updatedAt: 2024-10-31T17:07:58.445Z
+publishedAt: 2024-10-31T17:07:58.445Z
 firstPublishedAt: 2024-08-22T18:57:59.895Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -34,6 +34,8 @@ Este artigo está organizado nas seguintes seções:
 
 ## Funcionalidades disponíveis
 
+Quando o cliente fornece seu endereço, uma seleção inicial dos produtos é feita de forma a exibir somente os produtos que podem ser entregues nessa localidade ou retirados em pontos de retirada em um raio de até 50 km de distância da localidade (limite determinado pelo Checkout).
+
 Além de poder comprar todos os produtos visualizados, o cliente pode filtrar os produtos na vitrine para visualizar somente os resultados que atendam a determinados critérios, como será visto adiante. Isso permite ao cliente direcionar a experiência de navegação de acordo com os próprios objetivos:
 
 * Produtos disponíveis para o CEP desejado.
@@ -42,11 +44,12 @@ Além de poder comprar todos os produtos visualizados, o cliente pode filtrar os
 * Forma de envio mais rápida para receber o pedido.
 * [Ponto de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) de sua escolha para retirar o pedido.
 
-Nesta etapa, a **Delivery Promise (Beta)** permite que os clientes da sua loja filtrem os produtos exibidos na navegação pelos seguintes critérios:
+Nesta etapa, a **Delivery Promise (Beta)** permite que os clientes da sua loja filtrem os produtos exibidos na navegação usando os seguintes filtros:
 
-* Localização fornecida pelo cliente.
-* Método de envio do tipo entrega ou retirada.
-* Ponto de retirada de sua escolha.
+* **Entregar em:** produtos disponíveis para entrega no endereço fornecido.
+* **Retirada:** produtos disponíveis para retirada em pontos de retirada num raio de até 50 km de distância do endereço fornecido. 
+* **Retirada em lojas próximas:** produtos disponíveis para retirada em pontos de retirada num raio de até 10 km de distância do endereço fornecido. 
+* **Retirada em {{nome}}:** produtos disponíveis para retirada em determinado ponto de retirada.
 
 >ℹ️ Os filtros mencionados acima são componentes nativos do Intelligent Search. Caso você queira desenvolver componentes customizados para a sua loja, entre em contato com a sua equipe de desenvolvimento ou um [parceiro de implementação](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao).
 

@@ -3,8 +3,8 @@ title: 'Gerar arquivo HAR para debugar problemas na loja'
 id: 15xVlw8nuakk2k6Cao4k2Q
 status: PUBLISHED
 createdAt: 2018-02-23T13:16:02.404Z
-updatedAt: 2019-12-31T15:25:44.314Z
-publishedAt: 2019-12-31T15:25:44.314Z
+updatedAt: 2024-11-21T21:50:30.178Z
+publishedAt: 2024-11-21T21:50:30.178Z
 firstPublishedAt: 2018-02-23T14:02:06.722Z
 contentType: tutorial
 productTeam: Others
@@ -15,32 +15,21 @@ legacySlug: gerar-arquivo-har-para-debugar-problemas-na-loja
 subcategoryId: 1VvCpaa8NCA6a0MK6W6oWg
 ---
 
-Ao buscar soluções para um problema complexo, pode ser que nosso time de suporte precise receber informações adicionais sobre os requests web gerados em seu browser enquanto o problema ocorre.
+Ao buscar soluções para um problema complexo, pode ser que nosso time de Suporte precise receber informações adicionais sobre as requisições web geradas em seu navegador enquanto o problema ocorre.
 
-Um recurso útil para isso é o log de requests gerado pela ferramenta de desenvolvedor do browser (o dev tools). 
+Um recurso útil para isso é o log de requisições gerado pela ferramenta de desenvolvedor do navegador (o dev tools). Por meio dele, você pode gerar um arquivo `.HAR`, que contém informações detalhadas sobre cada requisição.
 
-Por meio dele você pode gerar um __arquivo HAR__, que contém informações detalhadas sobre cada request. Depois, basta enviá-lo ao nosso time de suporte.
+>ℹ️ Para gerar o arquivo `.HAR`, recomendamos utilizar o navegador Google Chrome, devido à simplicidade do processo, mas você pode usar outros navegadores, como o Mozilla Firefox, Safari ou o Microsoft Edge.
 
->⚠️ O arquivo HAR contém informações sensíveis sobre sua loja. Compartilhe-o somente com o time de suporte VTEX.
+<br>
 
->⚠️ Abaixo temos o passo a passo para gerar o arquivo HAR pelo **Google Chrome**, que é o modo mais recomendado por nós. Caso você deseje fazer o processo por meio de outros navegadores, como o Mozilla Firefox ou o Microsoft Edge, confira o procedimento correto [neste link](https://support.zendesk.com/hc/pt-br/articles/204410413-Gera%25C3%25A7%25C3%25A3o-de-um-arquivo-HAR-para-resolu%25C3%25A7%25C3%25B5es-de-problemas#h_51858a69-ed0e-45a6-a25d-c9b8ba32ae32).
+Consulte a tabela a seguir para obter a documentação com instruções de exportação de arquivos para cada navegador:
 
-### Como gerar o arquivo HAR no Google Chrome
+| **Navegador** | **Documentação** |
+| ---------- | ---------- |
+| Google Chrome (recomendado) | Google: [Capturar o tráfego da sessão da Web](https://support.google.com/admanager/answer/10358597?hl=pt-BR&sjid=2751223489427809764-SA) |
+| Mozilla Firefox, Safari ou Microsoft Edge | Zendesk: [Como gerar um arquivo HAR para resolução de problemas](https://support.zendesk.com/hc/pt-br/articles/4408828867098-Como-gerar-um-arquivo-HAR-para-resolucao-de-problemas) |
 
-Usando o Google Chrome, siga os passos abaixo para gerar o arquivo HAR.
+Após exportar o arquivo `.HAR`, basta enviá-lo ao nosso time de Suporte VTEX. Ao usar o Google Chrome, certifique-se de configurar a [opção de exportação com dados sensíveis](https://developer.chrome.com/blog/new-in-devtools-130?hl=pt-br#har).
 
-1. Navegue até a URL onde o problema está ocorrendo.
-2. Clique com o botão direito em qualquer lugar da tela e então em __Inspecionar__.![HARfile1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/gerar-arquivo-har-para-debugar-problemas-na-loja_1.png)
-3. O Dev Tools será aberto, então clique na aba __Network__.![HARfile2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/gerar-arquivo-har-para-debugar-problemas-na-loja_2.png)
-4. O botão de gravação deve estar vermelho, o que indica que está ativado. Se não estiver, clique nele.![HARfile3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/gerar-arquivo-har-para-debugar-problemas-na-loja_3.png)
-5. Marque a flag __Preserve log__.![HARfile5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/gerar-arquivo-har-para-debugar-problemas-na-loja_4.png)
-6. Recarregue a página e reproduza a navegação na qual ocorre o problema.
-7. Clique com o botão direito em qualquer lugar dentro da área do Network e depois clique na opção __Save as HAR with content__.![HARfile4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/gerar-arquivo-har-para-debugar-problemas-na-loja_5.png)
-
-Será gerado um arquivo com extensão HAR, cujo nome é o endereço da página.
-
-Você pode enviar este arquivo para o time de suporte da VTEX, o que tornará o atendimento mais rápido e eficaz.
-
----
-
-OBS: em outros navegadores, como o Mozilla Firefox e o Microsoft Edge, o procedimento para gerar arquivos HAR é similar. Entretanto, recomendamos usar o Chrome para isso, por conta da facilidade do processo.
+>❗ Como o arquivo `.HAR` contém informações sensíveis sobre sua loja, compartilhe-o somente com o time de [Suporte VTEX](https://help.vtex.com/pt/support).

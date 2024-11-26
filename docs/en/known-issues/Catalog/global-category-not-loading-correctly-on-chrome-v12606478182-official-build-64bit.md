@@ -23,7 +23,7 @@ Currently, the global category for products is not correctly loading data if the
 
 The following display can be seen
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/global-category-not-loading-correctly-on-chrome-v12606478182-official-build-64bit_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/kAdyffwxv7HiGYHQf7LnLmFvI/?name=image.png)
 
 
 ##

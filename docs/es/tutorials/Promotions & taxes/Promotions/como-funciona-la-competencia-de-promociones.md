@@ -3,8 +3,8 @@ title: 'Cómo funciona la competencia de promociones'
 id: tutorials_2270
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:27.997Z
-updatedAt: 2024-08-23T16:45:30.591Z
-publishedAt: 2024-08-23T16:45:30.591Z
+updatedAt: 2024-11-11T17:22:09.507Z
+publishedAt: 2024-11-11T17:22:09.507Z
 firstPublishedAt: 2017-04-27T23:03:50.791Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -82,7 +82,7 @@ Además, todas ellas inciden sobre el valor que ya se descontó al aplicarse la 
 
 Por lo tanto, la secuencia de aplicación es:
 
-![promocao3 ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/como-funciona-la-competencia-de-promociones_1.png)
+![promocao3 ES](https://images.ctfassets.net/alneenqid6w5/1CAcjiuVQECwqcoA288Aey/251351f394db394a008ccdd699e47c6f/promocao3_ES.png)
 
 >⚠️ Los pedidos de origen [Marketplace](https://help.vtex.com/es/tutorial/configurar-promocao-para-marketplace--tutorials_406) ((proporcionados por la tienda) y Fulfillment (entregados por la tienda) no permiten la acumulación de promociones, ya que el uso de las mismas en marketplaces VTEX o externos se limita a algunos tipos específicos. 
 

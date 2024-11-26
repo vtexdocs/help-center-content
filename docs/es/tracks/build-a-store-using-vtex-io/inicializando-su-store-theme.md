@@ -28,7 +28,7 @@ Seleccione `store-theme` y confirme que desea descargar el proyecto template en 
 
 Usted recibirá información importante sobre la aplicación, como el vendor, el nombre, el título y la descripción de la app. Utilice el __account name__ de la tienda que está desarrollando como el __vendor__. Esto es importante para que posteriormente pueda publicar correctamente esta aplicación en esta cuenta. Para utilizar los valores predeterminados, simplemente presione Enter.
 
-![store-theme](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/build-a-store-using-vtex-io/inicializando-su-store-theme_1.svg)
+![store-theme](https://images.ctfassets.net/alneenqid6w5/6FEPaKbOMqkndELmvd0u6z/f47d4a3a04b5cf270372b5dbc72940a9/store-theme.svg)
 
 ## Entendiendo la estructura de la app
 
@@ -88,7 +88,7 @@ Durante un "link", todos los cambios realizados en su código se envían automá
 
 Ejecute `vtex link` y vea que su aplicación de ejemplo se compila y se publica en la cuenta y en el workspace que acaba de crear.
 
-![vtex-link](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/build-a-store-using-vtex-io/inicializando-su-store-theme_2.svg)
+![vtex-link](//images.ctfassets.net/alneenqid6w5/1peFxCLM0kF9JvC8AmPeFi/9cef3e4e5e5877a744c15ca3f6e8db18/vtex-link.svg)
 
 <div class="alerta alerta-info">
 Recuerde: ejecute <code>vtex whoami</code> para asegurarse de que está en la cuenta correcta y en un workspace de prueba. De lo contrario, el <code>VTEX Toolbelt</code> se queja del link directo con master.
@@ -106,4 +106,4 @@ El `{{account}}.myvtex.com` es su dominio privado destinado a probar nuevos work
 
 Felicitaciones por hacer el link de su primera app en VTEX IO!
 
-![dreamstore](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/build-a-store-using-vtex-io/inicializando-su-store-theme_3.svg)
+![dreamstore](//images.ctfassets.net/alneenqid6w5/7G77GAWEmdysNJ2JBYaAI8/6b2bc7f47f994242c8a853e84e3f0b67/dreamstore.svg)

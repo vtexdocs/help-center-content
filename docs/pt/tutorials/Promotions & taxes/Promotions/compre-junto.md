@@ -3,8 +3,8 @@ title: 'Criar promoção Compre Junto'
 id: tutorials_323
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:34.791Z
-updatedAt: 2019-12-31T15:24:16.500Z
-publishedAt: 2019-12-31T15:24:16.500Z
+updatedAt: 2024-11-06T15:47:11.539Z
+publishedAt: 2024-11-06T15:47:11.539Z
 firstPublishedAt: 2017-04-27T23:03:15.238Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,55 +15,130 @@ legacySlug: compre-junto
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-__Compre Junto__ é uma promoção utilizada para conceder desconto para produtos quando colocados ao mesmo tempo no carrinho.
+Na promoção Compre Junto, você pode oferecer descontos quando dois ou mais produtos são adicionados ao carrinho ao mesmo tempo. O desconto pode ser aplicado de duas formas:
 
-O desconto pode ser aplicado em ambos os produtos. Ainda há a opção de o desconto ser aplicado apenas se for inserida no carrinho uma determinada quantidade de um dos produtos. 
+- Desconto para ambos os produtos: o desconto será aplicado assim que os produtos forem adicionados ao carrinho.
+- Desconto para um dos produtos: configure uma condição de quantidade mínima para que o desconto seja aplicado a apenas um dos produtos no carrinho.
 
-Um exemplo para esse tipo de promoção seria *"compre uma calça e ganhe 10% na compra de um cinto"*. Outro exemplo possível seria a promoção *"compre um par de tênis + um par de meias e ganhe 15% de desconto"*.
+**Exemplos de promoção Compre Junto**
 
-## Dados gerais da promoção
+A seguir, você encontrará alguns exemplos práticos de como configurar e aplicar descontos utilizando a promoção Compre Junto. Esses exemplos demonstram as diferentes formas de conceder descontos ao adicionar produtos ao carrinho de compras:
 
-- __Nome__: Nome da promoção
-- __Status__: Ativa ou Inativa a promoção
-- __Descrição__: Descrição interna da promoção. O objetivo desse campo é que ele seja usado para informação interna. Utilize a decrição para incluir detalhes sobre a promoção.
-- __Validade__: Data e hora de início e de fim da promoção. Pode ser usada uma data e/ou horário futuros para que a promoção comece a ser aplicada no site. Caso seja configurada dessa forma, a promoção terá o status de agendada até que data e horário sejam atingidos. Enquanto a promoção estiver válida, ela terá o status de ativa. Ao término da data e hora definidos, o status será alterado para inativo automaticamente. É importante ressaltar que o sistema usa como referência a data e hora do usuário que realizou o agendamento.
-- __Especificar dias da semana para ativação__: Essa opção é do tipo caixa de seleção. Quando marcada, disponibiliza sete outras caixas de seleção, para que sejam selecionados os dias da semana em que a promoção será aplicada. Se deseja que a promoção seja aplicada em qualquer dia da semana, não selecione essa opção.
-- __Destaque nos produtos__: Insere uma tag com o nome da promoção. Utilizado na vitrine e na página de produto. Essa flag só será inserida caso se utilize o controle `<vtex.cmc:discountHightLight/>` no template. Este controle exibe a flag da promoção na pagina desejada.
-- __Restringir esse benefício a produtos dos seguintes Sellers__: No lado direito da tela, preencha o nome dos sellers cujos produtos receberão o desconto. Essa opção possibilita condicionar um desconto diferente para cada seller.
-- __Política Comercial__: Selecione as Políticas Comerciais que oferecerão o desconto. Você pode oferecer descontos para políticas comerciais onde [sua loja é o marketplace](/pt/faq/o-que-e-um-marketplace) (*Fornecido por mim (Minha loja)*) ou o [seller](/pt/faq/o-que-e-um-seller) (*Entregue por mim (Lojas de terceiros)*).
+Desconto por compra de produtos em conjunto:
 
-## Listas de itens que você quer combinar e seus descontos
+- Promoção: compre uma calça e ganhe 10% de desconto em um cinto.
+- Condição: adicione ambos os produtos ao carrinho para receber o desconto.
 
-**Lista 1 de 2**
+Desconto por compra combinada de itens:
 
-- __SKUs__: Insira aqui o nome ou ID dos SKUs a serem incluídos na primeira lista. Considerando o exemplo do início do artigo, este campo seria onde se deveria cadastrar a calça ou o tênis. Um outro exemplo seria oferecer uma promoção com um produto de dois tamanhos diferentes. Para isso, seria necessário inserir na lista 1 o SKU de tamanho P e na lista 2 o de tamanho G, por exemplo. Também é possível inserir manualmente cada SKU ou fazer a importação de uma lista de SKUs. A planilha modelo pode ser exportada pelo link __Download da lista de SKUs__. Esse campo é de preenchimento obrigatório.
-- __Desconto__: Insira o desconto que será aplicado aos SKUs da primeira lista. Considerando o exemplo do início do artigo, neste campo deve ser cadastrado o valor de 15% de desconto a ser concedido ao tênis. Esse campo é de preenchimento obrigatório. Caso seu objetivo seja aplicar o desconto somente para a segunda lista, preencha este campo com __0__.
-- __Quantidade mínima de produtos no pedido__: Quantidade necessária de SKUs a ser incluída no carrinho para que o desconto seja aplicado. Esse campo é de preenchimento obrigatório, sendo necessário, no mínimo, uma unidade.
+- Promoção: compre um par de tênis e um par de meias e ganhe 15% de desconto.
+- Condição: receba o desconto ao comprar os dois itens juntos.
 
-**Lista 2 de 2**
+Desconto por quantidade de produtos adicionados ao carrinho:
 
-- __SKUs__: Insira aqui o nome ou Id dos SKUs a serem incluídos na segunda lista. Considerando o exemplo do início do artigo, este campo seria onde se deveria cadastrar o cinto ou a meia. Também é possível inserir manualmente cada SKU ou fazer a importação de uma lista de SKUs. A planilha modelo pode ser exportada pelo link __Download da lista de SKUs__. Esse campo é de preenchimento obrigatório. _Tanto na lista 1 quanto na lista 2, o número máximo de SKUs aceito é **100**._
-- __Desconto__: Insira o desconto que será aplicado aos SKUs da segunda lista. Considerando o exemplo do início do artigo, neste campo deve ser cadastrado o valor de 10% de desconto a ser concedido ao cinto ou os 15% de desconto para a meia. Caso seu objetivo seja aplicar o desconto somente para a primeira lista, preencha este campo com __0__.
+- Promoção: compre três livros e ganhe 5% de desconto no terceiro livro.
+- Condição: receba o desconto ao adicionar três livros ao carrinho.
 
-## Condições para a promoção ser válida
+Neste artigo, detalharemos os passos necessários para criar e configurar uma promoção Compre Junto:
 
-- __Valor mínimo do pedido__: Escolha um valor mínimo do pedido para a promoção ser ativada. Você ainda pode especificar qual o total a ser considerado: *Somente os itens que fazem parte da promoção*, *Somente os itens que não fazem parte da promoção* ou *Todos os itens*.
-- __Valor máximo do pedido__: Escolha um valor máximo do pedido para a promoção ser ativada. Você ainda pode especificar qual o total a ser considerado: *Somente os itens que fazem parte da promoção*, *Somente os itens que não fazem parte da promoção* ou *Todos os itens*.
-- __Restrição de Promoção por BIN__: Preencha com o número do BIN desejado e clique no botão __+__.
-- __Cluster de clientes__: Preencha com o identificador de um [cluster de clientes criado no Master Data](/pt/faq/como-criar-um-cluster-de-clientes).  
-- __Utm\_source:__ O desconto será concedido caso a navegação seja realizada com a utm\_source com o valor cadastrado.
-- __Utm\_campaign__: O desconto será concedido caso a navegação seja realizada com a utm\_campaign com o valor cadastrado.
+- [Criar promoção](#criar-promocao)
+- [Informações gerais da promoção](#informacoes-gerais-da-promocao)
+  - [Definir sellers participantes da promoção](#definir-sellers-participantes-da-promocao)
+  - [Selecionar políticas comerciais para aplicar o desconto](#selecionar-politicas-comerciais-para-aplicar-o-desconto)
+- [Listas de itens do Compre Junto e seus desconto](#listas-de-itens-do-compre-junto-e-seus-descontos)
+- [Definir condições para aplicar a promoção](#definir-condicoes-para-aplicar-a-promocao)
+- [Configurar restrições para o uso da promoção](#configurar-restricoes-para-o-uso-da-promocao)
+- [Exibir a promoção na página de produto](#exibir-a-promocao-na-pagina-de-produto)
 
-## Restrições e limitações de uso
+## Criar a promoção
 
-- __Quantas vezes essa promoção será aplicada em sua loja__: Preencha com o valor máximo desejado ou clique em *ilimitado*.
-- __Quantas vezes essa promoção será aplicada em sua loja por cliente__: Preencha com o valor máximo desejado ou clique em *ilimitado*.
-- __Permitir acumular promoções__: Permite que mais de uma promoção com o mesmo tipo seja concedida ao mesmo tempo.
-- **Permitir acumular com preços manuais:** Permite que a promoção seja aplicada a produtos cujos preços foram manualmente inseridos pelo televendas. Para a correta usabilidade dessa flag, é necessária uma configuração prévia da loja para permitir a inserção dos preços manuais. 
+1. No Admin VTEX, acesse **Promoções > Promoções** ou digite **Promoções** na barra de busca no topo da página.
+2. Clique em `Criar promoção`.
+3. Selecione a opção **Compre Junto** e insira as informações necessárias. Abaixo você encontra detalhes sobre todas as informações a serem preenchidas.
+4. Clique em `Salvar`.
 
-## Sobre o funcionamento da promoção
+## Informações gerais da promoção
 
-- A promoção será aplicada a __todos__ os itens das listas se a condição de quantidade mínima de produtos for atendida. Se o campo __quantidade mínima__ tiver valor igual __1__, basta que __pelo menos um SKU de cada lista__ esteja no carrinho para que a promoção seja aplicada.
-- Se o cliente colocar 2 unidades do mesmo SKU, o desconto será aplicado apenas em 1 unidade caso a quantidade mínima seja __1__.
-- Se o cliente colocar 2 SKUs que estão na lista 2, o desconto será aplicado a apenas 1 SKU, sempre no SKU mais barato (por exemplo, caso a quantidade mínima seja 1).
-- 3 itens na lista 1 e a quantidade mínima igual a 1: Neste cenário, basta que 1 produto da lista seja colocado no carrinho para validar o contexto da promoção e aplicar o desconto nos itens da lista 2 (e/ou da lista 1, se houver desconto).
+Defina as informações principais da promoção, como nome, descrição e período de vigência.
+
+- **Nome:** defina um nome claro e objetivo para a promoção.
+- **Status:** defina se a promoção estará **Ativa** ou **Inativa**. Quando estiver **Ativa**, a promoção será aplicada de acordo com as datas e os horários configurados. Se estiver **Inativa**, será pausada, mesmo que esteja dentro do período definido.
+- **Descrição:** escreva uma breve descrição da promoção (até 300 caracteres), destacando seus principais objetivos.
+- **Data de início:** insira a data de início da promoção.
+- **Horário de início:** insira o horário de início da promoção.
+- **Data de término:** insira a data em que a promoção será finalizada.
+- **Horário de término:** insira o horário exato de término da promoção.
+- **Usar configurações de recorrência:** habilite essa opção para repetir a promoção automaticamente em dias e horários específicos.
+
+### Definir sellers participantes da promoção
+
+Defina se a promoção será aplicada a todos os sellers ou apenas a sellers específicos. Selecione uma das opções a seguir para a aplicação da promoção.
+
+- **Todos:** a promoção será aplicada a todos os sellers cadastrados. Use essa opção quando quiser que todos os produtos, de todos os sellers, façam parte da campanha.
+- **Iguais a:** selecione esta opção para incluir apenas sellers específicos na promoção. Após selecionar "Iguais a", você poderá escolher os sellers desejados no campo abaixo. Somente os sellers selecionados terão seus produtos incluídos na campanha.
+- **Diferentes de:** selecione esta opção para excluir sellers específicos da promoção. Após escolher "Diferentes de", você poderá selecionar os sellers que *não deseja incluir* na campanha. Todos os demais sellers estarão incluídos.
+
+### Selecionar políticas comerciais para aplicar o desconto
+
+Selecione as políticas comerciais que oferecerão o desconto. Você pode oferecer descontos para políticas comerciais onde [sua loja atua como marketplace](https://help.vtex.com/pt/faq/o-que-e-um-marketplace) (Minha loja) ou como seller (Lojas de terceiros - Fulfillment).
+
+Você pode escolher entre as seguintes opções:
+
+- **Iguais a:** selecione as políticas comerciais que deseja incluir na promoção. Essa opção permite que você especifique quais políticas se aplicam aos produtos que receberão o desconto.
+- **Diferentes de:** selecione as políticas comerciais que deseja excluir da promoção. Essa opção remove determinadas políticas, garantindo que o desconto não seja aplicado a produtos que seguem essas regras comerciais.
+- **Todas:** aplica a promoção a todas as políticas comerciais cadastradas, sem restrições. Todos os produtos, independentemente da política comercial associada, estarão incluídos na promoção.
+
+## Listas de itens do Compre Junto e seus descontos
+
+A promoção **Compre Junto** permite que você combine produtos de duas listas distintas para oferecer descontos aos seus compradores. A primeira lista contém os produtos principais, que ao serem adicionados ao carrinho, podem ativar a promoção. A segunda lista serve como complemento, onde, ao adicionar produtos desta lista junto com os itens da primeira, é possível oferecer descontos adicionais.
+
+Veja abaixo como configurar as **Listas 1 e 2** para ativar as condições de desconto e garantir que os produtos sejam corretamente combinados no carrinho de compras.
+
+**Lista 1**
+
+- **SKUs:** insira o nome ou ID dos SKUs que você deseja incluir na primeira lista da promoção. Por exemplo, se a promoção é para uma calça ou um par de tênis, cadastre esses itens aqui. Caso os produtos tenham variações, como tamanhos "P" e "G", você deve adicionar o SKU do tamanho "P" na **Lista 1** e o SKU do tamanho "G" na **Lista 2**. Insira manualmente ou faça o upload de uma planilha para importar os SKUs em massa.
+- **Desconto:** insira o percentual de desconto que será aplicado aos SKUs da **Lista 1**. Por exemplo, se a promoção oferece 15% de desconto, insira "15" para que esse desconto seja concedido ao SKU adicionado ao carrinho. Esse campo é obrigatório e deve ser preenchido mesmo que o desconto seja zero. Caso o desconto deva ser aplicado apenas para os SKUs da **Lista 2**, insira "0" neste campo para a **Lista 1**.
+- **Quantidade mínima:** defina o número mínimo de unidades do SKU selecionado na Lista 1 que devem ser adicionadas ao carrinho para que o desconto seja aplicado.
+
+**Lista 2**
+
+- **SKUs:** selecione os SKUs adicionais que, quando adicionados ao carrinho junto com os SKUs da **Lista 1**, ativarão o desconto configurado. A promoção só será ativada se os produtos da **Lista 1** e da **Lista 2** forem adicionados ao carrinho.
+- **Desconto:** insira o percentual de desconto que será aplicado aos SKUs da **Lista 2** quando os SKUs da **Lista 1** forem adicionados ao carrinho. O valor deve ser inserido em percentual (%). Por exemplo, para conceder 10% de desconto na compra de um cinto combinado com uma calça da **Lista 1**, insira "10" no campo.
+
+## Definir condições para aplicar a promoção
+
+Defina as restrições que serão aplicadas à promoção. As condições permitem que a promoção seja ativada em circunstâncias específicas, conforme os critérios selecionados. Para adicionar uma condição, siga as instruções abaixo:
+
+- **Valor do pedido**
+  - **Valor mínimo do pedido:** defina o valor mínimo necessário para que a promoção seja ativada. Escolha quais itens serão considerados no cálculo: apenas os itens incluídos na promoção, somente os itens fora da promoção ou todos os itens do pedido.
+  - **Valor máximo do pedido:** defina o valor máximo permitido para que a promoção seja aplicada. Selecione quais itens serão considerados no cálculo: apenas os itens incluídos na promoção, somente os itens fora da promoção ou todos os itens do pedido.
+
+- **Número do BIN  do cartão:** aplique a promoção apenas quando forem utilizados cartões de bandeiras, bancos ou categorias específicas identificadas por seus códigos BIN. Importe uma lista de BINs salva em um arquivo de texto (.txt) ou (.csv), com cada BIN descrito em uma linha diferente.
+
+- **Cluster de clientes:** selecione um [cluster de clientes](https://help.vtex.com/pt/tutorial/como-criar-um-cluster-de-clientes) previamente criado no Master Data. Esse cluster agrupa clientes com características específicas, para os quais a promoção será aplicada. Escolha uma das seguintes opções:
+  - **Todos os seguintes:** aplique a promoção apenas se todos os critérios do cluster forem atendidos.
+  - **Pelo menos um dos seguintes:** aplique a promoção se pelo menos um dos critérios do cluster for atendido.
+
+- **UTM:** configure a promoção para ser aplicada quando o acesso ao site ocorrer por meio de uma URL com parâmetros UTM ou quando um cupom vinculado a esses parâmetros for utilizado. O uso desses parâmetros é opcional e permite aplicar descontos em campanhas específicas. Defina os parâmetros abaixo, se necessário:
+  - **Utm_source:** aplique o desconto quando a navegação for realizada com a utm_source configurado.
+  - **Utm_campaign:** aplique o desconto quando a navegação for realizada com o parâmetro *utm_campaign* configurado.
+  - **Criar cupom a partir dos parâmetros UTM acima:** gere um cupom com base nos parâmetros UTM inseridos nos campos "UTM_source" e "UTM_campaign”.
+  - **Ver cupons vinculados:** permite visualizar os cupons que já foram associados aos parâmetros UTM definidos.
+
+## Configurar restrições para o uso da promoção
+
+Nesta seção, defina se a promoção poderá ser combinada com outras promoções. As opções disponíveis são:
+
+- **Limitar o uso da promoção na loja:** restringe a quantidade total de vezes que a promoção pode ser utilizada na loja.
+- **Limitar o uso da promoção por cliente:** restringe o número de vezes que cada cliente pode utilizar a promoção.
+
+## Exibir a promoção na página de produto
+
+Destaque a promoção na página de produto e adicione dados personalizados para customizações da loja nesta seção.
+
+- **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de [configurar essa exibição no módulo CMS](https://help.vtex.com/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+- **Informações adicionais:** clique em **Criar** para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
+
+Veja abaixo o formulário de criar promoções Compre Junto:
+
+![Informação geral - PT](https://images.ctfassets.net/alneenqid6w5/7FKhVNFJSyIiKySq4alXUF/296fed4f99b6741c7b9d7319f70ad9df/Compre_junto-PT.gif)

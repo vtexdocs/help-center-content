@@ -1,5 +1,5 @@
 ---
-title: "Erro 'Category XXX not found in browse node mapping for SKU's department specification, choose a more specific global category' persistente"
+title: "Erro "Category XXX not found in browse node mapping for SKU's department specification, choose a more specific global category' persistente"
 id: 4DCJmkRvgh3qUYP9HYgtg2
 status: PUBLISHED
 createdAt: 2022-03-10T17:58:42.674Z

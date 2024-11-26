@@ -3,8 +3,8 @@ title: 'Meus pedidos do Mercado Livre apresentam erros'
 id: 170njWgSw9UQ5DG6NRl14d
 status: PUBLISHED
 createdAt: 2024-06-28T15:03:26.959Z
-updatedAt: 2024-06-28T16:08:10.242Z
-publishedAt: 2024-06-28T16:08:10.242Z
+updatedAt: 2024-11-08T16:25:03.251Z
+publishedAt: 2024-11-08T16:25:03.251Z
 firstPublishedAt: 2024-06-28T16:04:14.266Z
 contentType: tutorial
 productTeam: Channels
@@ -15,8 +15,7 @@ legacySlug: meus-pedidos-do-mercado-livre-apresentam-erros
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 ---
 
-**Tags:** marketplace, catálogo, produtos  
-**Palavras-chave:** integração, Mercado Livre, envio de produtos, pedidos  
+**Tags:** Marketplace, Catálogo, Integração, Mercado Livre, Produtos 
 
 Quando ocorre um erro de integração em pedidos entre um marketplace e o Mercado Livre, uma mensagem de erro é informada em cada pedido.   
 

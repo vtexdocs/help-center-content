@@ -3,8 +3,8 @@ title: "El pedido de mi tienda presenta el status 'Verificando factura'"
 id: 2YY7ILOOd0lEjpiT7SSgag
 status: PUBLISHED
 createdAt: 2024-08-16T18:32:15.867Z
-updatedAt: 2024-08-16T18:56:49.382Z
-publishedAt: 2024-08-16T18:56:49.382Z
+updatedAt: 2024-11-08T19:29:24.003Z
+publishedAt: 2024-11-08T19:29:24.003Z
 firstPublishedAt: 2024-08-16T18:52:24.803Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: el-pedido-de-mi-tienda-presenta-el-status-verificando-factura
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags/Palabras clave:** pedido, status del pedido, factura, factura parcial, verificando factura.
+**Tags:** Pedidos, Status del pedido, Factura
 
 Al monitorear el [flujo de pedidos](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196) de tu tienda, puedes encontrarte con un pedido que permanece con el status `Verificando factura` durante más tiempo del esperado. En este status, la plataforma comprueba si el pago se ha completado y si la factura del pedido ha sido correctamente incluida, siendo estas condiciones necesarias para que el pedido avance en el flujo.
 

@@ -25,7 +25,7 @@ Esta beta abierta es la primera de una serie de mejoras y actualizaciones de pro
 
 Una de las primeras y principales mejoras es la nueva forma de seleccionar los SKUs en masa - para que pueda aprobarlos o rechazarlos en masa. Alineado con nuestra [Styleguide](https://styleguide.vtex.com/ "Styleguide"), la selección masiva hará que su trabajo sea más rápido y mejor.
 
-![received-skus-bulk](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019-09-09-marketplaces-skus-recibidos-beta_1.gif)
+![received-skus-bulk](https://images.ctfassets.net/alneenqid6w5/5AoUTuM27q7LhWOOIzbPtT/26c63e97b66a252e570cadf36a8356f2/received-skus-bulk.gif)
 
 
 
@@ -33,13 +33,13 @@ Una de las primeras y principales mejoras es la nueva forma de seleccionar los S
 Uno de los desafíos en la gestión de ítems de múltiples sellers es priorizar su lista de ítems interminable. Para ayudarlo con eso, hemos creado una nueva característica de ordenamiento, donde puede reordenar todos los envíos de acuerdo con el precio y – una de las principales mejoras–  por disponibilidad de inventario. Vea cuántos ítems están disponibles a simple vista, para que pueda aprobar los SKUs que mejor se desempeñarán.
 
 
-![received-skus-ordering](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019-09-09-marketplaces-skus-recibidos-beta_2.gif)
+![received-skus-ordering](//images.ctfassets.net/alneenqid6w5/2CxfuYmpmVhaTJxyGEphpl/017bd6730f3de0408c056266ec5fad4f/received-skus-ordering.gif)
 
 
 Esto se extiende a la nueva herramienta de filtrado. Vea y filtre las SKUs por categoría, marca y seller de una manera simple e intuitiva.
 
 
-![received-skus-filtering](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019-09-09-marketplaces-skus-recibidos-beta_3.gif)
+![received-skus-filtering](//images.ctfassets.net/alneenqid6w5/5dK6UorOok8kH86Ueek7UF/0e572dcadf65e72132d3d41a499a8726/received-skus-filtering.gif)
 
 
 

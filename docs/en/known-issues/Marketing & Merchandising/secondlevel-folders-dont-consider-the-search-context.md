@@ -1,5 +1,5 @@
 ---
-title: "Second-level folders don't consider the 'search context'"
+title: "Second-level folders don't consider the "search context'"
 id: 6WvlorgpBEeIuKk2mprMXm
 status: PUBLISHED
 createdAt: 2019-02-17T19:55:07.529Z

@@ -3,8 +3,8 @@ title: "I haven't received the email with the report exported from Master Data v
 id: 1zUBgmgkgMZyHyy0veR7Oj
 status: PUBLISHED
 createdAt: 2022-10-17T19:56:25.618Z
-updatedAt: 2024-08-07T16:34:18.541Z
-publishedAt: 2024-08-07T16:34:18.541Z
+updatedAt: 2024-11-08T19:24:55.587Z
+publishedAt: 2024-11-08T19:24:55.587Z
 firstPublishedAt: 2022-10-17T19:59:15.174Z
 contentType: tutorial
 productTeam: Master Data
@@ -15,7 +15,7 @@ legacySlug: what-to-do-when-my-report-does-not-reach-my-inbox
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags/Keywords:** *Master Data v1, report, export*
+**Tags:** Master Data v1, Report, Export
 
 When [exporting a report with data from Master Data v1](https://help.vtex.com/en/tutorial/exporting-data--tutorials_1125), the report is sent to the email address entered during the export. However, the email may take longer than expected to arrive in your inbox.
 
@@ -29,7 +29,7 @@ You can access the report in Master Data by following the steps below:
 4. In **Export Status**, identify the row of the report you want to access.
 5. If the **Status** is **Completed - Download**, click `Download` to download the file.
 
-    ![download-report-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+    ![download-report-en](https://images.ctfassets.net/alneenqid6w5/5fL8dTuacGUYYFfhwx8eSh/0cc88c11f479fda554a2520750c8da2d/download-report-en.png)
 
     If the **Status** is **Running**, wait for the export to complete and then repeat the steps.
 

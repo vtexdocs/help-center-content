@@ -31,7 +31,7 @@ Esse cenário não acontece o tempo todo. Geralmente é quando a indexação fal
 Verifique o canal de vendas ao qual o produto pertence por meio da interface do usuário.
 Verifique o canal de vendas ao qual o produto pertence por meio da API:
 https://{accountName}.{environment}.com.br/api/catalog_system/pvt/sku/stockkeepingunitbyid/{skuId}
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/informacoes-do-canal-de-vendas-divergentes-entre-a-interface-do-usuario-e-a-api_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/F8f1Y1fSQVsq5JubtoILmeZjz/?name=image.png)
 
 ## Workaround
 

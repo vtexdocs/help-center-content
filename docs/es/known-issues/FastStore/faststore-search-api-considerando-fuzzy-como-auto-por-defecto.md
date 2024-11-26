@@ -1,10 +1,10 @@
 ---
 title: 'Faststore search api considerando fuzzy como auto por defecto'
 id: 2zedXBMhlD8pu4gZMXsrSp
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-08-28T23:35:04.009Z
-updatedAt: 2024-03-27T14:10:53.090Z
-publishedAt: 2024-03-27T14:10:53.090Z
+updatedAt: 2024-11-11T20:14:10.699Z
+publishedAt: 
 firstPublishedAt: 2023-08-28T23:35:04.608Z
 contentType: knownIssue
 productTeam: FastStore
@@ -30,6 +30,18 @@ En el paquete @fatstore/api, para el Intelligent Search resolver, estamos consid
 
 
 Esto es fácil de replicar cuando se busca cualquier producto, sku, o ref ID, el resultado esperado es mostrar sólo los productos que coincide con el ID, pero, se mostrará más de uno
+
+
+
+## Workaround
+
+
+N/A
+
+
+
+
+
 
 
 

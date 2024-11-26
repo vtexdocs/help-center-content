@@ -21,7 +21,7 @@ internalReference: 639294
 
 When try to group by the Delivery Method on the Sales Performance Dash, an error shows up:
 _"Unable to load data. Please click the button below to reload the information."_
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Analytics/group-by-delivery-method-on-sales-performance-not-working-as-expected_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/aT7lkza6qQLaDyFJvy5G0YYED/?name=image.png)
 
 ##
 

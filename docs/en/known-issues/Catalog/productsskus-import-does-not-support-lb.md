@@ -23,11 +23,11 @@ Currently, the catalog sheet for Products and SKUs is not supporting the 'lb' me
 
 This is actually a lb unit in our SKU UI which is configurable:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/productsskus-import-does-not-support-lb_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/IYCZqjQWduAKjhP73hd7Uqaho/?name=inline1704074446.png)
 
 However, the product&sku import currently returns an error message whenever an user tries to import any sku containing this value, regardless if the other fields are valid:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/productsskus-import-does-not-support-lb_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/1v8a6RWRFaqwAHilwADBdnw7z/?name=inline802930792.png)
 
 
 

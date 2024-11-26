@@ -22,7 +22,7 @@ O módulo Anúncios Enviados permite que sellers supervisionem o envio e a sincr
 - [Anúncios](https://help.vtex.com/pt/tutorial/anuncios-enviados-beta--6yg2CBv5Z5AnD0qS0cw2sa#anuncios)            
 - [Canais](https://help.vtex.com/pt/tutorial/anuncios-enviados-beta--6yg2CBv5Z5AnD0qS0cw2sa#canais)          
 
-![Anuncios enviados Home PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/anuncios-enviados-beta_1.jpg)
+![Anuncios enviados Home PT](https://images.ctfassets.net/alneenqid6w5/4eTCYZQ0RRa2n9JN81RhRG/7b571504f49ac69f0788861144905d4e/Anuncios_enviados_Home_PT.jpg)
 
 ## Anúncios
 

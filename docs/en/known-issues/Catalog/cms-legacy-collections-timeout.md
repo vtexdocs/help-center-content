@@ -22,7 +22,7 @@ Often, when attempting to save data for a collection group using the legacy coll
 
 `{account}.myvtex.com/admin/a/`
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/cms-legacy-collections-timeout_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/pBcpo1sWfBMio0mpL5iMc4Iek/?name=inline-1265713773.png)
 
 ## Simulation
 

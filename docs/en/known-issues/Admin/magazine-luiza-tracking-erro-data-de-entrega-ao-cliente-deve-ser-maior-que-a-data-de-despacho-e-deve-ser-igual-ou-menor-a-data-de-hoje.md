@@ -35,7 +35,7 @@ In the tracking step some orders are returning the following error `"Data de Ent
 2. Bridge
 3. Tracking
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Admin/magazine-luiza-tracking-erro-data-de-entrega-ao-cliente-deve-ser-maior-que-a-data-de-despacho-e-deve-ser-igual-ou-menor-a-data-de-hoje_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/mlpzu59MIDWuvUP6n8zJc8GI6/?name=image.png)
 
 
 ##

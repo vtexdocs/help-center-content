@@ -3,8 +3,8 @@ title: 'Why is the product not visible on the website?'
 id: frequentlyAskedQuestions_382
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:11.456Z
-updatedAt: 2024-09-30T14:42:39.397Z
-publishedAt: 2024-09-30T14:42:39.397Z
+updatedAt: 2024-11-04T21:03:12.522Z
+publishedAt: 2024-11-04T21:03:12.522Z
 firstPublishedAt: 2017-04-27T23:01:46.278Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
@@ -187,7 +187,7 @@ By adopting any of the following inventory strategies, you can ensure product av
 * Ensure sufficient item count for sales ([reserved](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92) items are not considered available).
     * In the VTEX Admin, go to **Catalog > Inventory > Inventory Management**, change the value in the *Update Count* column in the product row, and click `Save`.
 * Activate the [unlimited inventory](https://help.vtex.com/en/tutorial/gerenciar-inventario--tutorials_139) option for the product.
-    * In the VTEX Admin, go to **Catalog > Inventory > Inventory Management**, activate the toggle in the *Infinite Inventory* column in the product row, and click `Save`.
+    * In the VTEX Admin, go to **Catalog > Inventory > Inventory Management**, activate the toggle in the *Unlimited inventory* column in the product row, and click `Save`.
 * Configure the product to be displayed on the product listing page when out of stock.
     * In the VTEX Admin, go to **Catalog > All Products**, and click a product to go to its configuration page. In the *Product* tab, check the `Yes` option in the `Show when out of stock` field.
 

@@ -3,8 +3,8 @@ title: 'Synonyms'
 id: um0MRK7KMbE4RZEEbblFJ
 status: PUBLISHED
 createdAt: 2024-08-14T18:10:16.284Z
-updatedAt: 2024-08-14T20:14:05.856Z
-publishedAt: 2024-08-14T20:14:05.856Z
+updatedAt: 2024-10-29T19:41:49.081Z
+publishedAt: 2024-10-29T19:41:49.081Z
 firstPublishedAt: 2024-08-14T18:12:53.564Z
 contentType: tutorial
 productTeam: Others
@@ -37,6 +37,8 @@ You can create two types of synonyms: unidirectional and bidirectional. Here's h
 | Bidirectional | Two or more words have equivalent meanings, allowing matching to work in both directions.<br><br>This configuration makes it easier to search for products that may have different names in various regions of a country. | `diet ⇄ zero ⇄ sugar-free`<br>A search for "diet" products will include those labeled as "zero" and "sugar-free." Similarly, searching for "zero" will return results for "diet" and "sugar-free" products. Searching for "sugar-free" will also show "zero" and "diet" products.<br><br>`soda ⇄ pop ⇄ soft drink`<br>In the US, the terms "soda," "pop," and "soft drink" all refer to the same type of beverage. With bidirectional synonyms for each term, it is not necessary to replicate each word in the product description, as all results will be displayed. |
 
 Learn more about adding synonyms in [Creating synonyms](https://help.vtex.com/en/tutorial/creating-synonyms--5IfjhvjxNAvJGEWNn0AhOA).
+
+>⚠️ After registration or modification, a synonym can take up to two hours to reflect in the store.
 
 ## Best practices
 

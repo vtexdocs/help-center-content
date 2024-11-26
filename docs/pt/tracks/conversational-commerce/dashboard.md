@@ -16,7 +16,7 @@ trackSlugPT: conversational-commerce
 
 Na página Dashboard, os proprietários de lojas VTEX têm acesso às métricas do canal de [Conversational Commerce VTEX](https://help.vtex.com/pt/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1NwwADrU70v3roPUV7dWxI#). Neste painel, você pode visualizar o desempenho das vendas e os indicadores das sessões, além de filtrá-los pelo período e exportá-los para um arquivo CSV.
 
-![Conversational Commerce Analytics Panel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/conversational-commerce/dashboard_1.png)
+![Conversational Commerce Analytics Panel](https://images.ctfassets.net/alneenqid6w5/1kQwpA3cAfiW4OdlGOYjOf/0317999b94d984da418d5126851085d1/Conversational_Commerce_Analytics_Panel_PT.png)
 
 ## Dados
 

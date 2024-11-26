@@ -3,8 +3,8 @@ title: "Buyers can't login if there is misconfiguration in organizations/cost ce
 id: r5p7K15FkbZUDSOUQ6hGz
 status: PUBLISHED
 createdAt: 2023-11-30T22:21:39.852Z
-updatedAt: 2024-10-18T18:14:54.658Z
-publishedAt: 2024-10-18T18:14:54.658Z
+updatedAt: 2024-11-01T13:30:43.637Z
+publishedAt: 2024-11-01T13:30:43.637Z
 firstPublishedAt: 2023-11-30T22:21:40.638Z
 contentType: knownIssue
 productTeam: B2B
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slugEN: buyers-cant-login-if-there-is-misconfiguration-in-organizationscost-centers
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 945609
 ---
 

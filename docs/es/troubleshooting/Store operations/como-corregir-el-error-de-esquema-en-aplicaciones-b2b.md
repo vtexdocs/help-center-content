@@ -3,8 +3,8 @@ title: 'Cómo corregir el error de esquema en aplicaciones B2B'
 id: WkjJZSnGXCiqmLhg4b0OR
 status: PUBLISHED
 createdAt: 2024-09-11T18:54:34.611Z
-updatedAt: 2024-10-18T16:23:11.497Z
-publishedAt: 2024-10-18T16:23:11.497Z
+updatedAt: 2024-11-08T19:31:33.438Z
+publishedAt: 2024-11-08T19:31:33.438Z
 firstPublishedAt: 2024-09-11T19:42:01.055Z
 contentType: tutorial
 productTeam: B2B
@@ -15,7 +15,7 @@ legacySlug: como-corregir-el-error-de-esquema-en-aplicaciones-b2b
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags/Palabras clave:**  B2B apps, schema issue, Master Data
+**Tags:** B2B, Schema, Master Data
 
 En entornos que utilizan aplicaciones B2B, puede presentarse la alerta `Schema is invalid` que está relacionada con problemas de esquema. Generalmente, este tipo de alerta se debe a una configuración incorrecta en la entidad CL (Cliente) en Master Data.
 
@@ -48,4 +48,4 @@ Sigue los pasos a continuación para corregir la alerta Schema is invalid y gara
 
 La siguiente imagen ilustra los pasos necesarios para corregir la configuración de los campos obligatorios de Master Data y solucionar la alerta `Schema is invalid`.
 
-![B2B Suite - troubleshootingv2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
+![B2B Suite - troubleshootingv2](https://images.ctfassets.net/alneenqid6w5/3IYnKHxoYR6FcKZGiG98fO/498eab43ccb2b694e5491fc03c6322fb/B2B_Suite_-_troubleshootingv2.gif)

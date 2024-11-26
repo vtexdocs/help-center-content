@@ -35,11 +35,11 @@ Sin embargo, esta importación actualmente no está filtrando correctamente los 
 
 2 - En la sección de marcas, haga clic en el "Botón de búsqueda avanzada".
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-importacion-de-archivos-de-la-busqueda-avanzada-no-funciona-en-los-filtros-de-catalogo_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/evO2TGKzaTk0f0HBGqVrqemLF/?name=image.png)
 
 3 - Aparecerá un aviso, seleccione la pestaña "importación de archivos
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-importacion-de-archivos-de-la-busqueda-avanzada-no-funciona-en-los-filtros-de-catalogo_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/5zCBQ3MpC27ZGN6pnfKBycFwu/?name=image.png)
 
 4 - Al intentar importar un archivo con una lista de marcas, dicha lista no se añadirá a los filtros.
 

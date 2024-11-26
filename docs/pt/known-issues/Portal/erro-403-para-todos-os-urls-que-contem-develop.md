@@ -3,8 +3,8 @@ title: 'Erro 403 para todos os URLs que contêm develop-'
 id: X6JDmLhD0StgHPGXJd9cZ
 status: PUBLISHED
 createdAt: 2024-02-01T13:46:53.024Z
-updatedAt: 2024-02-01T13:46:54.008Z
-publishedAt: 2024-02-01T13:46:54.008Z
+updatedAt: 2024-11-11T15:19:34.574Z
+publishedAt: 2024-11-11T15:19:34.574Z
 firstPublishedAt: 2024-02-01T13:46:54.008Z
 contentType: knownIssue
 productTeam: Portal
@@ -22,7 +22,7 @@ internalReference: 975182
 
 
 Espera-se que um URL possa conter qualquer palavra sem gerar um erro, mas a palavra "**develop "** seguida pelo caractere "**-**" gera um erro 403 automático.
-Por exemplo, um produto com o link de texto `how-to-develot-a-culture-of-custumer-centricity` exibirá um erro 403, pois contém a string "develop-".
+Por exemplo, um produto com um link de texto `how-to-develop-a-culture-of-customer-centricity` exibirá um erro 403, pois contém a string "develop-".
 
 ## Simulação
 
@@ -37,7 +37,7 @@ Por exemplo, um produto com o link de texto `how-to-develot-a-culture-of-custume
 ## Workaround
 
 
-Não usar a string "develop-"
+Não use a string "develop-"
 
 
 

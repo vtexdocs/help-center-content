@@ -31,7 +31,7 @@ Agora que você já conferiu o saldo, é importante ter em mente que o valor mí
 
 Por exemplo, caso o seu menor recebível seja de R$10, esse é o valor mínimo que você pode antecipar. Já o valor máximo é informado no próprio Admin - o saldo que você acabou de conferir - na página de “Antecipar recebíveis”. 
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX Payment/Financial operations/como-solicitar-uma-antecipacao-dos-recebiveis_1.png)
+![image](https://images.ctfassets.net/alneenqid6w5/oWY3RyEekfyjuBEjI27m3/18aba6b309f1acb3f945100927d25ead/image.png)
 
 >ℹ️ **Atenção**: recebíveis em disputa ou previstos para o próximo dia útil não podem ser antecipados.
 

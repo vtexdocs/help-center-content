@@ -61,6 +61,6 @@ Para gestionar roles y permisos de aplicaciones, configura los permisos siguiend
 
 5. Haz clic en `Guardar`.
 
-![Gerenciamento de permissões - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Storefront permissions/gestionar-permisos-en-b2b-suite_1.gif)
+![Gerenciamento de permissões - ES](https://images.ctfassets.net/alneenqid6w5/287qksSZ46sMPwg4CuXQ8F/fdf3c362f0300198da41af04681d3239/Gerenciamento_de_permiss_es_-_ES.gif)
 
 Después de asociar los perfiles con los roles deseados, puedes atribuir funciones a los usuarios. Para más información, consulta [B2B Organizations](https://developers.vtex.com/docs/guides/vtex-b2b-organizations#users).

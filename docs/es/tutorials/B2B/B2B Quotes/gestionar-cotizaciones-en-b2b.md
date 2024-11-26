@@ -75,7 +75,7 @@ La lista de cotizaciones y carritos guardados muestra la siguiente información:
 
 Los usuarios pueden hacer clic en cualquier fila o en el <i class="fas fa-ellipsis-v" aria-hidden="true"></i> y, a continuación, hacer clic en **Detalles** para ver y editar la información de una cotización, según sus permisos.
 
-![Minhas cotações - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/B2B Quotes/gestionar-cotizaciones-en-b2b_1.png)
+![Minhas cotações - ES](https://images.ctfassets.net/alneenqid6w5/53BQDZh9EBc8OrFTxfO1eD/95263971bac96765813a8473ff3b1e9e/Minhas_cota__es.png)
 
 ## Crear una cotización o guardar un carrito
 Para crear una cotización o carrito guardado, es necesario tener el [permiso Crear cotizaciones y carritos](#permisos-de-acceso). Después de agregar productos al carrito en la tienda, utiliza el contenido del carrito para crear un carrito guardado o solicitar una cotización. Sigue las instrucciones a continuación:
@@ -130,7 +130,7 @@ Para crear una cotización o carrito guardado, es necesario tener el [permiso Cr
 
 Una cotización es esencialmente un carrito guardado con las cantidades y precios originales de los ítems del carrito del usuario.
 
-![Crie uma cotação - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/B2B Quotes/gestionar-cotizaciones-en-b2b_2.png)
+![Crie uma cotação - ES](//images.ctfassets.net/alneenqid6w5/sIVQqxw1NtZLbqtI3K4we/2b38996c023fb754242a720a5a7066a3/Crie_uma_cota__o.png)
 
 ## Información de la cotización
 La página Información de la cotización muestra toda la información sobre una cotización o carrito guardado, así como las acciones disponibles en función del status y de los [permisos del usuario](#permisos-de-acceso). Para acceder a esta página, ve a **Mi cuenta > Cotizaciones y carritos guardados**.
@@ -153,7 +153,7 @@ En esta página verás la siguiente información:
 - **Historial de actualizaciones:** incluye un historial de todos los eventos relacionados con la cotización, como su creación y los descuentos ofrecidos, incluidas las observaciones, si las hubiera.
 - **Agregar observación:** campo opcional para ingresar comentarios u observaciones. Las observaciones aquí añadidas serán visibles como parte del Historial de actualizaciones de la cotización o carrito guardado. Por ejemplo, si un usuario quiere solicitar un descuento específico al vendedor de la tienda B2B, puede incluir esta solicitud como observación.
 
-![Detalhes da cotação - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/B2B Quotes/gestionar-cotizaciones-en-b2b_3.png)
+![Detalhes da cotação - ES](//images.ctfassets.net/alneenqid6w5/5XLea07XtuCRfGJyvX819I/8d46379fe54a26b3d3a0a6ecdc19d2b1/Detalhes_da_cota__o.png)
 
 ## Editar una cotización
 Los usuarios con [permisos](#permisos-de-acceso) de edición, normalmente asociados a roles de ventas o administradores de tienda, pueden editar cotizaciones en la página Información de la cotización de la siguiente manera:

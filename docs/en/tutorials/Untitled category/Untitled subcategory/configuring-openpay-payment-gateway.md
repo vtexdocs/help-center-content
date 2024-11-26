@@ -3,8 +3,8 @@ title: 'Configuring Openpay payment gateway'
 id: 5vGj3UIFCU4GFFqVBlYKW2
 status: PUBLISHED
 createdAt: 2021-07-06T17:31:51.598Z
-updatedAt: 2024-01-25T18:44:58.747Z
-publishedAt: 2024-01-25T18:44:58.747Z
+updatedAt: 2024-11-08T12:54:09.760Z
+publishedAt: 2024-11-08T12:54:09.760Z
 firstPublishedAt: 2021-07-06T17:54:12.638Z
 contentType: tutorial
 productTeam: Financial
@@ -22,12 +22,12 @@ subcategoryId: unknown-subcategory
 To configure Openpay in your VTEX environment, you will need to:
 
 1. [Configure Google Tag Manager](#configuring-google-tag-manager)
-2. [Configure Openpay gateway](#configuring-openpay-gateway)
+2. [Configure Openpay gateway](#configuring-openpay)
 3. [Configuring payment conditions](#configuring-payment-conditions)
 
 ## Configuring Google Tag Manager
 
-To configure Google Tag Manager, follow the instructions in __step two__ of this Openpay [documentation](https://www.openpay.mx/en/docs/vtex.html).
+To configure Google Tag Manager, follow the instructions in __step two__ of this Openpay [documentation](https://documents.openpay.mx/docs/vtex.html).
 
 Once you have finished it, proceed to the next step of this article.
 
@@ -39,7 +39,7 @@ Now you just have to install the Openpay provider in your store. Follow the step
 2. On the providers screen, click the `New Provider` button.
 3. Type the name __Openpay__ in the search bar and click on the name of the provider.
 4. In __Affiliation name__, enter __Openpay__.
-5. Fill in the __Application Key__ and __Application Token__ fields. [Click here](https://www.openpay.mx/en/docs/vtex.html) to access Openpay documentation and see the instructions on how to obtain this information.
+5. Fill in the __Application Key__ and __Application Token__ fields. [Click here](https://documents.openpay.mx/docs/vtex.html) to access Openpay documentation and see the instructions on how to obtain this information.
 6. Click `Save`.
 
 ## Configuring payment conditions

@@ -3,8 +3,8 @@ title: 'Identifying promotions applied to the cart'
 id: frequentlyAskedQuestions_345
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:52.336Z
-updatedAt: 2023-02-14T21:10:00.343Z
-publishedAt: 2023-02-14T21:10:00.343Z
+updatedAt: 2024-11-11T16:52:36.224Z
+publishedAt: 2024-11-11T16:52:36.224Z
 firstPublishedAt: 2019-01-24T22:08:49.142Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -69,7 +69,7 @@ Follow the step-by-step instructions to find the `orderForm` and identify the pr
 
 ## Promotions Simulator (Beta)
 
-The Promotions Simulator is a tool that allows you to see not only the promotions created in the VTEX platform and which were applied to the shopping cart, but also their activation conditions. Since there are multiple configurations for the promotions, it is important to be able to see the [competition](https://help.vtex.com/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270), the accumulation of promotions during the purchase and the causes that trigger them.
+The Promotions Simulator is a tool that allows you to see not only the promotions created in the VTEX platform and which were applied to the shopping cart, but also their activation conditions. Since there are multiple configurations for the promotions, it is important to be able to see the [competition](https://help.vtex.com/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270), the combination of promotions during the purchase and the causes that trigger them.
 
 For more information, read the [Promotions Simulator (Beta)](https://help.vtex.com/en/tutorial/simulador-de-promocoes-beta--4zc8SNqjqeIJ0ZRMhjlnvy) article.
 

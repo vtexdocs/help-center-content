@@ -20,7 +20,7 @@ internalReference:
 
 Atualmente os horários de entrega para uma entrega agendada estão fora de ordem, ou em ordenação decrescente. Para melhor legibilidade, é esperado que estas informações sejam ordenadas de forma crescente.
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Shopping/ordenacao-dos-horarios-de-entrega-agendados-no-checkout_1.png)
+![image](//images.ctfassets.net/alneenqid6w5/dpGWYjydIAiC2i4qEigsm/0334f47a61fa7dcc4defe1cde08d616b/image.png)
 
 ## Simulação
 

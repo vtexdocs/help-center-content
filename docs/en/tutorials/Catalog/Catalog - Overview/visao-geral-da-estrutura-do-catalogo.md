@@ -21,7 +21,7 @@ In the Catalog, products are organized by categories, and categories are organiz
 
 An example of a catalog structure would be as follows:
 
-![img como funciona o catalogo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Catalog - Overview/visao-geral-da-estrutura-do-catalogo_1.png)
+![img como funciona o catalogo](https://images.contentful.com/alneenqid6w5/3AXUNSkDagO06cKmMsq6w4/5e80021d54e3fa58f9b0c6a261e1f407/img_como_funciona_o_catalogo.png)
 
 >⚠️ Your categories tree does not need to have three levels. The hierarchy shown above is just an example. The amount of category levels to be created depends very much on the sector of activity of each store.
 

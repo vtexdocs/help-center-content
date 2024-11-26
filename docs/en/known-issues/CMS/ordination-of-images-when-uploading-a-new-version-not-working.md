@@ -31,7 +31,7 @@ Go to the site editor
 Add a new image
 Try to order
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/ordination-of-images-when-uploading-a-new-version-not-working_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Wx1y1CbhbAkyUIH8peG9xiLtJ/?name=image.png)
 
 
 ##

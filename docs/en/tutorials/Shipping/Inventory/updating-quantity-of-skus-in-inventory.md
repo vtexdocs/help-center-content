@@ -56,7 +56,7 @@ Remember that an order can have an active product reservation. If this product h
 
 Order containing booked items will continue to be listed as reserved and will not be available for sale. In the example given below, we have ten Gatorade units booked but not yet invoiced. As we update inventory item availability, the system gives the results in real-time. In our example,  we may end up with a negative inventory of up to 10 items, since the ongoing reserved orders will continue to be listed. [Find out more about reservations](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona/). 
 
-![Atualizar Estoque GIF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Inventory/updating-quantity-of-skus-in-inventory_1.gif)
+![Atualizar Estoque GIF](https://images.contentful.com/alneenqid6w5/1lorbuip9ewo8gY8qg8wU0/07e97e612b4711f0f21c205b50e74867/InventoryUpdate.gif)
 
 
 

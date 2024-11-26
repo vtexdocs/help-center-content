@@ -28,7 +28,7 @@ O aplicativo **Lista da Vez** permite organizar a fila de atendimento dos vended
 
 A aba Lista da Vez gerencia a ordem de atendimento dos vendedores da loja. Além de ordenar a fila de atendimento, também é possível identificar a situação de cada vendedor: [Esperando a vez](#esperando-a-vez), [Em atendimento](#em-atendimento) e [Fora da loja](#fora-da-loja).
 
-![lista-da-vez-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX Sales App Beta/lista-da-vez_1.jpg)
+![lista-da-vez-PT](https://images.ctfassets.net/alneenqid6w5/0hiWrn69rcSgwI8yHktBG/c13ca4d30a1c3aa36d7dbe117890dfcd/Screenshot_20220211-131959_DuckDuckGo.jpg)
 
 ### Esperando a vez
 Nesta seção, os vendedores da loja estarão listados em ordem de atendimento. Para adicionar um vendedor na fila, arraste o vendedor para a coluna **Esperando a vez**.
@@ -77,12 +77,12 @@ Clique em `Concluir` para finalizar.
 ## Campanhas
 Nesta aba você pode visualizar as campanhas configuradas na plataforma da Indeva. Uma campanha é um desafio de metas para os vendedores da loja. Nela será exibida a condição da campanha, a premiação para quem completá-la e a posição dos vendedores em relação à condição.
 
-![campanha-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX Sales App Beta/lista-da-vez_2.jpg)
+![campanha-PT](//images.ctfassets.net/alneenqid6w5/WDPAVhqCaRb5mzkNdH9Je/8dd97addafdff96674c48d74765b4f76/Screenshot_20220215-112922_Ecosia.jpg)
 
 ## Rankings
 Nesta aba serão exibidos os rankings dos vendedores da loja configurados na plataforma  da Indeva. Um ranking é uma classificação a partir de uma condição definida pela loja, com regras para os vendedores participarem e uma premiação para o primeiro colocado. 
 
-![rankings-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX Sales App Beta/lista-da-vez_3.jpg)
+![rankings-PT](//images.ctfassets.net/alneenqid6w5/7sieBaz6E1RJHQLmr0TOIp/47259a247043f1806a98c465efd73f78/Screenshot_20220215-112727_Ecosia.jpg)
 
 ## Metas
 A página de Metas exibe as metas e o desempenho de um vendedor, cadastradas na plataforma da Indeva. Para acessar uma meta individual, siga os passos abaixo.
@@ -92,7 +92,7 @@ A página de Metas exibe as metas e o desempenho de um vendedor, cadastradas na 
 3. Insira a senha de acesso do vendedor.
 4. Clique em `Entrar`.
 
-![metas-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX Sales App Beta/lista-da-vez_4.jpg)
+![metas-PT](//images.ctfassets.net/alneenqid6w5/eSRDRLRc6bkfoAylfMQLY/f8bdb99f379d377be82c8bd39464a08d/Screenshot_20220216-124454_Ecosia.jpg)
 
 Nesta página você pode visualizar as seguintes informações:
 

@@ -33,12 +33,12 @@ A veces, cuando un comprador identificado intenta añadir una nueva dirección e
 - Vaya a la caja, identifíquese como comprador con un perfil completo y proceda al paso de envío;
 - Elija la opción de entrega a una nueva dirección;
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Checkout/el-formulario-de-direccion-no-se-muestra-cuando-el-comprador-opta-por-insertar-una-nueva-direccion_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/TFgWp6jleflU5LlPZ3rd4KcTQ/?name=image.png)
 
 
 - Introduzca el código postal y aparecerá un mensaje solicitando autenticación.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Checkout/el-formulario-de-direccion-no-se-muestra-cuando-el-comprador-opta-por-insertar-una-nueva-direccion_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/iTNky5H9cDijZ00prjAwQv24h/?name=image.png)
 
 
 ##

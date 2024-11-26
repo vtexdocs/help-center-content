@@ -23,7 +23,7 @@ Anteriormente, enfrentamos desafios ao categorizar incidentes em apenas quatro c
 
 Agora, apresentamos 18 componentes mais específicos agrupados em quatro categorias – Storefront, Checkout, Admin e Developer Tools – com foco não apenas em nossa arquitetura interna, mas principalmente em onde os sintomas podem ser observados por lojistas. A imagem a seguir apresenta todos os componentes exibidos na nova página:
 
-![status-page-vtex](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023-12-22-conheca-a-nova-pagina-de-status-da-vtex_1.png)
+![status-page-vtex](https://images.ctfassets.net/alneenqid6w5/7s1xozhZ4Kih3e9Atsuq6a/08f9ab11d14629a3f6e534268be71b06/status-page-vtex.png)
 
 Confira o artigo [Página de status da VTEX](https://help.vtex.com/pt/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ) para mais informações sobre cada componente.
 

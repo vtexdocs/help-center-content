@@ -3,8 +3,8 @@ title: 'Gestionar Geolocalización'
 id: tutorials_138
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:36.462Z
-updatedAt: 2023-08-25T14:52:20.340Z
-publishedAt: 2023-08-25T14:52:20.340Z
+updatedAt: 2024-11-13T18:38:14.968Z
+publishedAt: 2024-11-13T18:38:14.968Z
 firstPublishedAt: 2017-04-27T23:00:44.871Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -57,7 +57,7 @@ Un ejemplo de cómo quedaría es:
 
 Después, basta guardar.
 
->⚠️ Listo, ahora es sólo utilizar ese mismo ID en la plantilla de flete en la columna **PolygonName**. Es importante atentarse en el llenado, pues ese transportista no utilizará las columnas **ZipCodeStart** y **ZipCodeStart**, que deberán quedar en blanco.
+>⚠️ Es importante prestar atención a que, si utiliza la geolocalización y, por tanto, rellena la columna **PolygonName** de la [plantilla de flete](https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127), la transportadora en cuestión no utilizará las columnas **ZipCodeStart** y **ZipCodeEnd**, que deberán rellenarse con `0`.
 
 En **Configuración de la tienda > Storefront > Checkout**, en la [pestaña Checkout](https://help.vtex.com/es/tutorial/geolocalizacao-no-checkout/), el campo API Key debe rellenarse con la misma clave que se utilizó para activar la geolocalización.
 

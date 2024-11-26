@@ -19,14 +19,14 @@ A partir de ahora, su tiendna puede utilizar punto y coma (`;`) para concatenar 
 
 Esta feature funciona en los campos de copia (`CC`) y copia oculta (`CCO`), así como la coma ya funcionaba anteriormente. Ahora las dos opciones de concatenación son válidas.
 
-![Message Center bug fix - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2018-08-13-nueva-concatenacion-reduce-errores-en-envios-de-email_1.png)
+![Message Center bug fix - EN](https://images.ctfassets.net/alneenqid6w5/4P6PvvTcgEASE8ooUakoSG/73b01a7f5ebdaaebc66aa805dbe61169/Message_Center_bug_fix_-_EN.png)
 
 Este cambio simple en el módulo responsable del envío de e-mails transaccionales redujo drásticamente la tasa de errores en comunicaciones con clientes.
 
 El gráfico siguiente muestra la tasa de errores de una tienda antes de implementado el soporte de concatenación con punto y coma. Más del 90% de los correos electrónicos fallaban todos los días.
 
-![Message Center bug fix 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2018-08-13-nueva-concatenacion-reduce-errores-en-envios-de-email_2.png)
+![Message Center bug fix 2](//images.ctfassets.net/alneenqid6w5/2WTicguBZ6ucAO2a48QKum/fb0774ca2f6d2b746a702813c95126a2/Message_Center_bug_fix_2.png)
 
 Después de implementada la mejora, los errores en el envío de e-mails transaccionales de la misma tienda fueron completamente eliminados, como muestra este otro gráfico:
 
-![Message Center bug fix 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2018-08-13-nueva-concatenacion-reduce-errores-en-envios-de-email_3.png)
+![Message Center bug fix 3](//images.ctfassets.net/alneenqid6w5/1OmAZMSyp2cm8K4e6aKs8S/bf862028ae01ed3cb1b77cab375ebdf4/Message_Center_bug_fix_3.png)

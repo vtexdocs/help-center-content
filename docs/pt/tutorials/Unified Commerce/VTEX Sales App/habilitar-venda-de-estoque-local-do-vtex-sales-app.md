@@ -3,8 +3,8 @@ title: 'Habilitar Venda de estoque local do VTEX Sales App'
 id: 54eQN4rOH5yBYPGG2w8v9q
 status: PUBLISHED
 createdAt: 2023-05-19T17:30:02.393Z
-updatedAt: 2023-05-30T15:49:36.187Z
-publishedAt: 2023-05-30T15:49:36.187Z
+updatedAt: 2024-11-04T21:09:14.115Z
+publishedAt: 2024-11-04T21:09:14.115Z
 firstPublishedAt: 2023-05-22T23:31:37.597Z
 contentType: tutorial
 productTeam: Shopping
@@ -71,9 +71,9 @@ Para garantir que os vendedores da sua loja física tenham acesso correto ao est
 Para isso, escolha um vendedor cadastrado na loja em que deseja testar a Venda em Mãos e siga os passos descritos abaixo. 
 
 1. Com [o registro do vendedor escolhido](https://help.vtex.com/pt/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), acesse a aplicação do VTEX Sales App e faça o login.
-![instore-login-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/habilitar-venda-de-estoque-local-do-vtex-sales-app_1.png)
+![instore-login-pt](https://images.ctfassets.net/alneenqid6w5/5vKzjuYAYKGIVZz5aOyuPV/9049d57cf49ca1e753b69896ea5f348f/image.png)
 2. Busque por um item que existe no estoque da conta franquia cadastrado. Este item deverá estar exibindo a quantidade disponível correspondente ao inventário do seller.
-![instore-pdp-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/habilitar-venda-de-estoque-local-do-vtex-sales-app_2.png)
+![instore-pdp-pt](//images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/861791e5b4f8f2304ae1a5a7ae577ad8/image.png)
 
 >ℹ️ Caso você tenha habilitado estoque infinito, o número exibido será uma quantidade acima de 1 milhão de itens e não será alterado ao realizar uma venda.
 
@@ -86,9 +86,9 @@ Você também pode configurar para que a Vendas em Mãos ignore a quantidade do 
 2. Clique no botão <i class="fas fa-cog"></i> engrenagem para editar. 
 3. Selecione a aba **Código**.
 4. Selecione na aba lateral o arquivo `checkout-instore-custom-js`.
-![instore-custom-js-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/habilitar-venda-de-estoque-local-do-vtex-sales-app_3.png)
+![instore-custom-js-pt](//images.ctfassets.net/alneenqid6w5/5a70caO8nFFF25CrSXPXkx/6521818abb09e4178491f4598f33c9a0/image.png)
 5. Na chave `window.INSTORE_CONFIG`, adicione a flag `sellWithoutStockInHands: true`.
-![sellWithoutStockInHands-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/habilitar-venda-de-estoque-local-do-vtex-sales-app_4.png)
+![sellWithoutStockInHands-pt](//images.ctfassets.net/alneenqid6w5/3yfRFSG0QgIwnXvyxwhsLo/14bef6c0a1cbdc5d216b17a49c438c76/image.png)
 6. Clique em <i class="fas fa-save"></i> `Salvar`. 
 
 ### Habilitar venda de carrinhos mistos (opcional)

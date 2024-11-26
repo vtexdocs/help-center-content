@@ -26,6 +26,6 @@ Você verá uma tabela com as seguintes colunas:
 - __Version__: versão da app.
 - __Linked__: mostra se a app está ou não linkada.
 
-![appList](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX IO/VTEX IO setup/listar-apps-instaladas-na-loja_1.png)
+![appList](https://images.contentful.com/alneenqid6w5/23dywoz95GmeAOkuwe8WWq/d1097f363859c30abd67e699fa0d23ed/appList.png)
 
 Não há limite de apps que podem ser criadas para uma conta.

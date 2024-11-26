@@ -40,7 +40,7 @@ La prop sortVariationsByLabel del selector sku podría resolver algunos casos
 
 https://developers.vtex.com/docs/guides/vtex-store-components-skuselector
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent Search/la-busqueda-inteligente-no-devuelve-el-pedido-sku-correcto_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/tcCXWNHIw8KJupddSHiMElnxl/?name=image.png)
 
 
 

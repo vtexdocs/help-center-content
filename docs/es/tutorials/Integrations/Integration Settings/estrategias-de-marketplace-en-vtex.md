@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 Un marketplace es una plataforma virtual en la que diferentes vendedores anuncian sus productos. Estos vendedores se denominan sellers y, además, de ser propietarios de los productos, muchas veces también son los responsables del [proceso de fulfillment del producto](https://help.vtex.com/es/tutorial/fulfillment-logistics-vtex--53udnvI5eBy8DKo8FOjMoP).  
 
-![Estrategias de marketplace](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Integration Settings/estrategias-de-marketplace-en-vtex_1.png)
+![Estrategias de marketplace](https://images.ctfassets.net/alneenqid6w5/1XaGifpW4ztfRM3XIkiACS/9558d99b892b53aa723f408d29734435/Ecommerce_web_page-pana.png)
 
 [VTEX promueve la colaboración digital](https://vtex.com/ar-es/marketplace/) en diferentes escenarios: no solo tienes la posibilidad de vender tus productos en otros marketplaces, sino que también puedes ofrecer los productos de otros sellers en tu propio entorno, convirtiéndote así en un marketplace.  
 
@@ -69,7 +69,7 @@ Es posible que un seller que no está integrado con VTEX quiera vender productos
 La configuración para [convertirse en un marketplace VTEX](https://help.vtex.com/es/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb) elimina algunos de los pasos requeridos en otras integraciones. Una vez configurado tu marketplace, consulta las [acciones para la operación de marketplaces VTEX](https://help.vtex.com/es/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev).  
 
 A continuación, se presentan los principales marketplaces VTEX:  
-![mkt br](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Integration Settings/estrategias-de-marketplace-en-vtex_2.png)
+![mkt br](//images.ctfassets.net/alneenqid6w5/6DB08TtDzQ0tuesrK1I1XU/d42c1c45fff7301eea1e2fe7160274b5/mkt_br.png)
 
 Además, la página __Marketplaces e integraciones__ promueve y facilita el contacto entre marketplaces VTEX y marketplace certificados con sellers VTEX interesados en colaboraciones.  
 

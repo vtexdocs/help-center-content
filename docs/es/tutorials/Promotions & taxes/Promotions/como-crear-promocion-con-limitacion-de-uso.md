@@ -19,7 +19,7 @@ Para que una promoción del tipo regular sea aplicada por un número limitado de
 
 >⚠️ Los pedidos con status `Iniciando cancelación` o `Cancelado` no cuentan para el límite establecido.
 
-![Promocion con limite de uso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/como-crear-promocion-con-limitacion-de-uso_1.png)
+![Promocion con limite de uso](https://images.ctfassets.net/alneenqid6w5/6RuP1uG4Cc8MWm2OikwimK/9a4d5dcdf67edbd058cf1dae705fa1e9/Promocion_con_limite_de_uso.png)
 
 También es posible configurar el límite por cliente, en vez de límite por promoción. Para ello, basta hacer la configuración arriba y hacer clic en la opción **Habilitar límite de uso por cliente**.
 

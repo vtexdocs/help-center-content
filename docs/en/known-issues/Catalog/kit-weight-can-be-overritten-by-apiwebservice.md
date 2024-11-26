@@ -21,7 +21,7 @@ internalReference: 429993
 
 Currently, it is set in our catalog business rules that a KIT SKU's freight weight should be defined by the sum of its components - https://help.vtex.com/en/tutorial/cadastrando-kit--tutorials_215
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/kit-weight-can-be-overritten-by-apiwebservice_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/jgbIT0VRNCLLOdiQO0CQrka5D/?name=inline-2098334185.png)
 
 However, it is currently possible to overwrite this weight calculation via API and or webservice where the value set is the one directly sent in the payload, not considering any component weightage.
 

@@ -3,8 +3,8 @@ title: ' Creación de cuentas en Customer Credit'
 id: 7FHLd0cmxqqGeEUuc8uioU
 status: PUBLISHED
 createdAt: 2018-11-06T20:24:28.924Z
-updatedAt: 2024-02-08T19:08:32.443Z
-publishedAt: 2024-02-08T19:08:32.443Z
+updatedAt: 2024-11-04T18:08:56.036Z
+publishedAt: 2024-11-04T18:08:56.036Z
 firstPublishedAt: 2018-11-06T21:15:02.053Z
 contentType: trackArticle
 productTeam: Financial
@@ -36,7 +36,7 @@ Para registrar un nuevo cliente en Customer Credit, siga los pasos a continuaci�
 
 A partir de este momento, la nueva cuenta creada se mostrará en la pantalla __Cuentas__.
 
-![CC_nueva_cuenta_1_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/customer-credit-getting-started/creando-cuentas_1.JPG)
+![CC_nueva_cuenta_1_ES](https://images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/137feed49de06cbae706252e4d6ef813/CC_nueva_cuenta_1_ES.JPG)
 
 ## Crear varias cuentas (importación masiva)
 
@@ -53,7 +53,7 @@ Para crear varias cuentas al mismo tiempo (en masa) en Customer Credit, puede ut
   <li>Columnas <b>Credit limit</b> y <b>Tolerance rate</b>: valores disponibles para cada cliente. La <b>tasa de tolerancia</b> debe ingresarse en formato decimal, por ejemplo, una tolerancia del 5% debe indicarse como 0,05.</li>
 </ul>
 
-![CC_criar_conta_2_ALL](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/customer-credit-getting-started/creando-cuentas_2.JPG)
+![CC_criar_conta_2_ALL](//images.ctfassets.net/alneenqid6w5/2KwguLYrq4sasC46xAIUfV/9b504a53cbf5796f78fafc77c5125e22/CC_criar_conta_2_ALL.JPG)
 
 <blockquote><ui>6. Guardar la plantilla .csv.</ui>
 

@@ -1,10 +1,10 @@
 ---
 title: 'Configurar antifraude ClearSale v3'
 id: 2pPORygesIqQOa6cIG6agg
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-10-30T14:10:20.822Z
-updatedAt: 2024-04-24T18:52:20.944Z
-publishedAt: 2024-04-24T18:49:44.223Z
+updatedAt: 2024-11-08T18:13:21.419Z
+publishedAt: 2024-11-08T18:13:21.419Z
 firstPublishedAt: 2017-10-30T14:26:53.089Z
 contentType: tutorial
 productTeam: Financial
@@ -72,7 +72,7 @@ A configuração do antifraude ClearSale v3 exige a criação de uma tag no Goog
 10. Clique no botão __Criar Tag__, insira um nome para esta tag e salve.
 11. No canto superior direito, clique em __Publicar__.
 
-![Pasted image at 2017 10 20 01 11 PM](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-antifraude-clearsale-v3_1.png)
+![Pasted image at 2017 10 20 01 11 PM](https://images.contentful.com/alneenqid6w5/2kdI4xh9IYwKI2mSiU20yW/b850c070cc8de2ec09e690ffe6cc9c15/Pasted_image_at_2017_10_20_01_11_PM.png)
 
 ## Detalhes do campo customSLA
 

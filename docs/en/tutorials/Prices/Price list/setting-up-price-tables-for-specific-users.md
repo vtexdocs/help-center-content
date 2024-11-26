@@ -74,11 +74,11 @@ In the Admin, go to __Prices__ > __Price List__.
 
 In the search filter, enter the names of the tables created in __Master Data__.
 
-![Filtros](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price list/setting-up-price-tables-for-specific-users_1.png)
+![Filtros](https://images.ctfassets.net/alneenqid6w5/4sQMk2XLRyoQvFLNrGI0A7/e57ad4523d95718b3152713093f9dbb0/Filtros.png)
 
 Price tables are shown as columns of the price list, as are trade policies.
 
-![Lista preços- EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price list/setting-up-price-tables-for-specific-users_2.png)
+![Lista preços- EN](//images.ctfassets.net/alneenqid6w5/16m3JGeeDwzioInWVBxbpl/1b6487ea75a8d09f90c56c79040af682/Lista_pre_os-_EN.png)
 
 To update a fixed price in a specific table, on the column corresponding to that table, and then on __Define fixed prices__. 
 
@@ -93,7 +93,7 @@ When a user is not logged into your store, the default prices set by the trade p
 If the user is logged in, they will see the prices corresponding to the price table with which their email is associated.
 
 For example, these two clients are linked to different price tables:
-![Clients](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price list/setting-up-price-tables-for-specific-users_3.png)
+![Clients](//images.ctfassets.net/alneenqid6w5/4YanVck2GswcKKEEamO6gs/d1a2bc5603716c485dd000239a49fb41/Clients.png)
 
 When Daniel, who is linked to the Silver price table, is logged into the store, he will see the prices set on this table. The backpack in the example above will cost USD 50.00.
 

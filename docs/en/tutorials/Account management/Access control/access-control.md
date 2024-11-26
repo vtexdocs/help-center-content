@@ -1,9 +1,9 @@
 ---
 title: 'Access control'
 id: 4rM3gyiWqtkim4Q8hOvLTC
-status: DRAFT
+status: ARCHIVED
 createdAt: 2023-11-30T16:29:30.077Z
-updatedAt: 2023-11-30T21:42:00.250Z
+updatedAt: 2024-11-22T14:17:40.776Z
 publishedAt: 
 firstPublishedAt: 2023-11-30T21:40:59.550Z
 contentType: tutorial
@@ -58,4 +58,6 @@ Check the complete list of available [License Manager resources](https://help.vt
 ## Learn more
 
 * [Roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
+* [Predefined roles](https://help.vtex.com/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy)
 * [Creating roles](https://help.vtex.com/en/tutorial/creating-roles--qGtNQpKSSAduX94l2WZBW)
+* [License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)

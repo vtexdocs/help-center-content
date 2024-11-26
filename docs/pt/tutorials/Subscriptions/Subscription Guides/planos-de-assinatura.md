@@ -21,7 +21,7 @@ Para disponibilizar planos de assinatura, você precisa antes instalar o aplicat
 
 A partir da página **Planos**, você pode visualizar e gerenciar os planos de assinaturas disponibilizados para os clientes da sua loja, conforme ilustrado abaixo.
 
-![planslist PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription Guides/planos-de-assinatura_1.png)
+![planslist PT](https://images.ctfassets.net/alneenqid6w5/5PAOM3BmvgeIjU1ruAmEYG/a727c14ea5611ca6da8bb6207ef3b09a/planslist_PT.png)
 
 As principais funcionalidades desta página são:
 

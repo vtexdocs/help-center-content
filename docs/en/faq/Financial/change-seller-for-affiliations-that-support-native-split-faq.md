@@ -30,7 +30,7 @@ For this reason, to access the change seller feature, you must configure the aff
 - __Use Payment Processor Recommended Behavior__.
 - __Disabled: Do Not Auto Settle__.
 
-![AutoSettlement](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Financial/change-seller-for-affiliations-that-support-native-split-faq_1.png)
+![AutoSettlement](https://images.ctfassets.net/alneenqid6w5/2QsxlUck2BOohNQ8sQUZDL/a085c82de3cd5dfac48f16deeb7c4cdd/AutoSettlement.png)
 
 ### If I opted for a non-automatic settlement behavior, when will the payment be settled?
 

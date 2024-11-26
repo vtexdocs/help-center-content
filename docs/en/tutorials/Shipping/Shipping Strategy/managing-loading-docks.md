@@ -3,8 +3,8 @@ title: 'Managing Loading Docks'
 id: 7K3FultD8I2cuuA6iyGEiW
 status: PUBLISHED
 createdAt: 2017-08-03T14:22:38.666Z
-updatedAt: 2024-09-03T15:43:32.430Z
-publishedAt: 2024-09-03T15:43:32.430Z
+updatedAt: 2024-11-05T17:51:06.459Z
+publishedAt: 2024-11-05T17:51:06.459Z
 firstPublishedAt: 2017-08-03T14:25:42.704Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -30,8 +30,7 @@ To configure a loading dock correctly, you need to: create the loading dock, fil
 
 >⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order:
 >
-> *[Trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-> * [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)
+> *[Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)
 > * [Loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
 > * [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
 

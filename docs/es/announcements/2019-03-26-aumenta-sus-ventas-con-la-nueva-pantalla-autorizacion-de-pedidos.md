@@ -22,7 +22,7 @@ Esta herramienta permite el control de las aprobaciones de pedidos con cambios e
 ## Lo que cambia
 Ahora, en lugar de abrir un ticket directamente con el soporte, es posible configurar las reglas de autorización por el administrador. Para ello, acceda al camino: Menú - Gestión de Pedidos - Autorización de Pedidos.
 
-![ESAutorizacaoPedidosPrint.PNG?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019-03-26-aumenta-sus-ventas-con-la-nueva-pantalla-autorizacion-de-pedidos_1.png)
+![ESAutorizacaoPedidosPrint.PNG?h=250](https://images.ctfassets.net/alneenqid6w5/445WPSN6h0ELYf07ZlPg0M/e0fd3a929af7ed9b1c23f03826e43271/ESAutorizacaoPedidosPrint.PNG_h_250)
 
 ## Qué necesitas hacer
 Es importante mencionar que la tienda no perderá las reglas anteriores, que se hicieron abriendo un ticket al equipo de soporte. Se actualizarán automáticamente en la nueva pantalla.

@@ -3,8 +3,8 @@ title: 'VTEX modules I'
 id: 75MX4aorniD0BYAB8Nwbo7
 status: PUBLISHED
 createdAt: 2024-01-17T19:53:53.326Z
-updatedAt: 2024-02-23T00:42:01.506Z
-publishedAt: 2024-02-23T00:42:01.506Z
+updatedAt: 2024-11-05T17:47:00.449Z
+publishedAt: 2024-11-05T17:47:00.449Z
 firstPublishedAt: 2024-02-22T14:07:05.427Z
 contentType: trackArticle
 productTeam: Others
@@ -38,7 +38,7 @@ There are no prior settings to make before configuring the Catalog, but the foll
 
 The Catalog architecture has some key concepts: category, brand, product, SKU (_Stock Keeping Unit_) and specification. The image below shows the relation between these concepts:
 
-![arquitetura-catalogo-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-store-overview/vtex-modules-i_1.png)
+![arquitetura-catalogo-EN](https://images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/2bb87144a5e665c082374be39da9d7af/EN.png)
 
 The store catalog must be created following the steps below:
 
@@ -73,7 +73,7 @@ __Example__: Department `Women`, Category `Shirts and T-shirts`, and Sub-categor
 
 Before importing the store catalog to VTEX, we recommend that you start working on the category tree by creating a table such as the one below. This allows you to better view the tree's organization and the display of specifications.
 
-![catalog_arquitecture_table_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-store-overview/vtex-modules-i_2.png)
+![catalog_arquitecture_table_EN](//images.ctfassets.net/alneenqid6w5/6Vg5pVKydPdMipVEqj1Spq/f539ab283449f2aa2163be8b8ddd957e/catalog_arquitecture_table_EN.png)
 
 >ℹ️ For more information on how to import back-office specifications, read the [Backend integrations](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) article.
 
@@ -152,7 +152,7 @@ Prices are the sales value information for your SKUs. These prices are stored in
 
 The image below illustrates the relationship between prices, the price table, and the context in which they will be applied:
 
-![Conceito de Preços-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-store-overview/vtex-modules-i_3.png)
+![Conceito de Preços-EN](//images.ctfassets.net/alneenqid6w5/5xPmlWSbROFajhSkaUt7ya/c229973cb7f6f135570b309d23af10a3/Conceito_de_Pre_os-EN.png)
 
 You can create price tables for your SKUs in three ways:
 
@@ -263,29 +263,31 @@ Besides, if the business model includes international stores and [cross-border](
 The set of essential logistics settings for a VTEX store is called [Shipping Strategy](https://help.vtex.com/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3) and consists of three main concepts: shipping policy, warehouse, and loading dock.
 
 - __[Shipping policy](#shipping-policy)__: set of rules that define the order's shipping options and conditions.
-- __[Warehouse](#warehouse)__: physical storage space for the products to be sold.
 - __[Loading dock](#loading-dock)__: distribution location for the items to be sold.
+- __[Warehouse](#warehouse)__: physical storage space for the products to be sold.
 
 The image below shows how these concepts relate to each other when selling a product:
 
-![shipping_strategy_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-store-overview/vtex-modules-i_4.png)
+![shipping_strategy_EN](//images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/9f3db7829e85f1c910daf1b81bacd127/shipping_strategy_EN.png)
 
 The following table shows the store's main logistics settings on VTEX:
 
 <div class="alert alert-INFO">
-We recommend configuring the warehouse first, followed by the loading dock, and then the shipping policy.
+We recommend configuring the shipping policy first, followed by the loading dock, and then the warehouse.
 </div>
 
 | **Topic** | **Configuration via VTEX Admin** | **Configuration via API** |
 | :---: | :--- | :--- |
-| [Warehouse](#warehouse) | [Managing Warehouses](https://help.vtex.com/en/tutorial/managing-warehouses--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
-| [Loading dock](#loading-dock) | [Managing Loading Docks](https://help.vtex.com/en/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
 | [Shipping policy](#shipping-policy) | [Shipping Policy](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
+| [Loading dock](#loading-dock) | [Managing Loading Docks](https://help.vtex.com/en/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
+| [Warehouse](#warehouse) | [Managing Warehouses](https://help.vtex.com/en/tutorial/managing-warehouses--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
 | [Inventory](#inventory-management) | [Inventory Management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139) | [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-) |
 
-#### Warehouse
+#### Shipping policy
 
-The logistics route starts with the [warehouse](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb). It corresponds to the physical storage space for the products the store sells. Once the items sold are picked from the warehouse, they are sent to the loading dock.
+[Shipping policy](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140) is a set of rules that define the shipping options and conditions that will be displayed to customers at checkout. These conditions include carriers, delivery times, shipping costs, etc. The shipping policy is linked to the warehouse by the loading dock.
+
+The [carrier](https://help.vtex.com/en/tutorial/carries-on-vtex--7u9duMD5UQa2QQwukAWMcE) delivering the order is defined via the shipping policy. First, carriers are added to the [shipping rate template](https://help.vtex.com/en/tutorial/shipping-rate-template--tutorials_127), then the shipping rate template is associated when a shipping policy is created.
 
 #### Loading dock
 
@@ -297,11 +299,9 @@ The [loading dock](https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDV
 
 For certain products, you may not need a physical distribution center. Even so, configuring the loading dock is essential for the proper functioning of the VTEX platform's operations.
 
-#### Shipping policy
+#### Warehouse
 
-[Shipping policy](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140) is a set of rules that define the shipping options and conditions that will be displayed to customers at checkout. These conditions include carriers, delivery times, shipping costs, etc. The shipping policy is linked to the warehouse by the loading dock.
-
-The [carrier](https://help.vtex.com/en/tutorial/carries-on-vtex--7u9duMD5UQa2QQwukAWMcE) delivering the order is defined via the shipping policy. First, carriers are added to the [shipping rate template](https://help.vtex.com/en/tutorial/shipping-rate-template--tutorials_127), then the shipping rate template is associated when a shipping policy is created.
+The logistics route starts with the [warehouse](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb). It corresponds to the physical storage space for the products the store sells. Once the items sold are picked from the warehouse, they are sent to the loading dock.
 
 ### Inventory management
 
@@ -319,7 +319,7 @@ The [main use cases](https://help.vtex.com/en/tutorial/lead_time-shipping-time-a
 
 The VTEX platform considers the following settings to [calculate the order shipping time](https://help.vtex.com/en/tutorial/how-shipping-calculation-works--tutorials_116):
 
-![Shipping Calculation_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-store-overview/vtex-modules-i_5.png)
+![Shipping Calculation_EN](//images.ctfassets.net/alneenqid6w5/CwtKVwOkH8NMV0v2IYjlX/7088aadd2ae56175b3a9b57ae0af38a8/Shipping_Calculation_EN.png)
 
 - [Lead time](https://help.vtex.com/en/tutorial/lead-time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B): Configurable amount of time for an SKU in stock. This configuration is optional and is set to zero days by default.
 - [Warehouse time](https://help.vtex.com/en/tutorial/managing-warehouses--tutorials_137): time it takes for an SKU to move from a warehouse to a [loading dock](https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj). This configuration is required, but you can set the time to zero.

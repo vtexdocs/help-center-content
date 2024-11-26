@@ -3,8 +3,8 @@ title: 'Changing items from a completed order'
 id: tutorials_190
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:22.411Z
-updatedAt: 2024-04-01T17:40:33.284Z
-publishedAt: 2024-04-01T17:40:33.284Z
+updatedAt: 2024-11-11T19:08:14.645Z
+publishedAt: 2024-11-11T19:08:14.645Z
 firstPublishedAt: 2017-04-27T23:00:47.264Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -35,7 +35,7 @@ Before making changes to the order, be aware of the restrictions of this feature
 * The request for change only occurs if there are changes in the number of items or replacement of at least one SKU in the order.
 * Changing items that are not from the marketplace itself or a franchise account is not allowed.
 * The [acquirer](https://help.vtex.com/pt/tutorial/o-que-e-um-adquirente--7N1oRTG8dGmOiIugC0cs4E) must accept the new transaction value for the change to occur.
-* Additional amounts are only allowed if the order was paid by [Notes Payable](https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable--5pW7avTwtyQcMu4uiW8quQ), [cash](https://help.vtex.com/tutorial/how-to-configure-a-custom-payment--tutorials_451) or [credit control](https://help.vtex.com/tutorial/customer-credit-overview--1uIqTjWxIIIEW0COMg4uE0). In addition, the [acquirer](https://help.vtex.com/pt/tutorial/what-is-an-acquirer--7N1oRTG8dGmOiIugC0cs4E) must allow transactions without the CVV code and two charging transactions in the same order.
+* Additional amounts are only allowed if the order was paid using the **Promissory** or **CardPromissory** payment conditions (available in the Admin in **Store Settings > Payment > Settings > Payment Conditions**), [cash](https://help.vtex.com/tutorial/how-to-configure-a-custom-payment--tutorials_451) or [credit control](https://help.vtex.com/tutorial/customer-credit-overview--1uIqTjWxIIIEW0COMg4uE0). In addition, the [acquirer](https://help.vtex.com/pt/tutorial/what-is-an-acquirer--7N1oRTG8dGmOiIugC0cs4E) must allow transactions without the CVV code and two charging transactions in the same order.
 * The [reservation](https://help.vtex.com/pt/tutorial/how-does-reservation-work--tutorials_92) of the items in the inventory is not automatic. You must manually update the number of items that are still available in the [inventory](https://help.vtex.com/pt/tutorial/managing-stock-items--tutorials_139).
 * Orders with [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to change the order.
 * It is not possible to change an order when its transaction is finalized. For changes to the discounted order value, for example, the OMS considers that you can still change the transaction value if the status in Transaction Details is other than `Finished`, even if the value has already been settled.  

@@ -33,7 +33,7 @@ https://github.com/vtex-apps/store/blob/46e3df3ecba20170fc3a6eebf12370969e3b5abf
 
 You will need a store with multi binding and enable binding for store settings at admin/cms/store:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/advanced-store-settings-being-registered-globally-insted-of-by-binding_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/CNgIedTpUI7LPWqCEfA10HIxz/?name=image.png)
 
 Save your advanced settings and check your vtex store settings:
 
@@ -51,7 +51,7 @@ You will notice that advanced settings will be outside bindings contexts
 
 Add the settings that you want through a PUT into the settings key inside one of the binding's object:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/advanced-store-settings-being-registered-globally-insted-of-by-binding_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/JYKSnxOk9qHdm8RGGp9IutNB3/?name=image.png)
 
 
 

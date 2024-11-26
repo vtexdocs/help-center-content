@@ -3,8 +3,8 @@ title: 'Integração com Renner e Camicado'
 id: 5qf2wloosKlmIB8o2AitnT
 status: PUBLISHED
 createdAt: 2021-07-02T19:25:31.689Z
-updatedAt: 2023-08-25T18:50:55.909Z
-publishedAt: 2023-08-25T18:50:55.909Z
+updatedAt: 2024-11-13T18:06:07.642Z
+publishedAt: 2024-11-13T18:06:07.642Z
 firstPublishedAt: 2021-07-02T21:07:36.096Z
 contentType: tutorial
 productTeam: Channels
@@ -119,6 +119,6 @@ Alguns dos dados a serem enviados são encontrados no seu Admin, são eles:
 
 Uma vez que você tenha reunido esses dados, você deverá enviá-los para o contato informado pela Renner ou pela Camicado, e a integração será concluída pelo parceiro. Vale ressaltar que o processo de _onboarding_ com conectores certificados é responsabilidade dos próprios parceiros.
 
->ℹ️ A Camicado disponibiliza documentação sobre a integração. Para consultá-la, faça o [download do Tutorial de Auxílio ao parceiro.pdf](https://drive.google.com/uc?export=download&id=10IHQLiaRImT5pcJ45hNZ01G3pUSgwxry).
+>ℹ️ A Camicado disponibiliza documentação sobre a integração. Para consultá-la, faça o download do [Tutorial de Auxílio ao parceiro.pdf](//assets.ctfassets.net/alneenqid6w5/6ZlzfzebAChZfHotC5TAjW/e31c7ac40a98ff314c6368f009331b9d/Tutorial_de_Aux_lio_ao_parceiro.pdf).  
 
 Caso você tenha dúvidas sobre a integração com a Renner, você pode utilizar o [formulário de suporte Renner](https://atendimento.lojasrenner.com.br/hc/pt-br/requests/new?ticket_form_id=360004738294). Se as dúvidas forem relativas à Camicado, entre em contato pelo email _suporte_marketplace@camicado.com.br_.

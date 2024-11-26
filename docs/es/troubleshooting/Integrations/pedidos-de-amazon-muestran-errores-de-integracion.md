@@ -3,8 +3,8 @@ title: 'Pedidos de Amazon muestran errores de integración'
 id: 1ukX1Gw4fVUs62IIpGgsZF
 status: PUBLISHED
 createdAt: 2024-09-12T16:05:45.774Z
-updatedAt: 2024-09-12T16:27:07.645Z
-publishedAt: 2024-09-12T16:27:07.645Z
+updatedAt: 2024-11-08T18:29:42.178Z
+publishedAt: 2024-11-08T18:29:42.178Z
 firstPublishedAt: 2024-09-12T16:24:22.283Z
 contentType: tutorial
 productTeam: Channels
@@ -15,9 +15,7 @@ legacySlug: pedidos-de-amazon-muestran-errores-de-integracion
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 ---
 
-**Tags:** pedidos, integración, marketplace
-
-**Palabras clave:** Amazon, pedidos, integración
+**Tags:** Pedidos, Integración, Marketplace, Amazon
 
 Cuando se produce un error de integración en pedidos entre **Amazon** y una tienda, se informa un mensaje de error en cada pedido. Para comprobar si un pedido contiene errores de integración, en el Admin VTEX accede a **Marketplace > Conexiones > Pedidos**o ingresa **Pedidos** en la barra de búsqueda.
 
