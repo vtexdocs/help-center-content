@@ -18,7 +18,7 @@ jobs:
         with:
           separator: ","
 
-      - name: Update MDX files
+      - name: Update images in markdown files
         run: |
           [ ! -d ./images/ ] && mkdir images
 
@@ -29,7 +29,7 @@ jobs:
           IFS=',' read -a filepaths <<< "${{ steps.changed_files.outputs.all_changed_files }}"
 
           for filepath in "${filepaths[@]}"; do
-            if [[ $filepath == *.md ]] || [[ $filepath == *.mdx ]]; then
+             if [[ $filepath == docs/* ]] && ([[ $filepath == *.md ]] || [[ $filepath == *.mdx ]]); then
               node ./docs-utils/update-images.js "./$filepath"
             fi
           done
