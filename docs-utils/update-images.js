@@ -14,7 +14,7 @@ const getExtension = (url) => {
 };
 
 const updateImages = async (filepath) => {
-  console.log('Running update-images.js');
+  // console.log('Running update-images.js');
 
   if (!filepath) {
     console.error('Received undefined filePath in updateImages');
@@ -22,7 +22,7 @@ const updateImages = async (filepath) => {
   }
 
   const resolvedFilepath = path.resolve(filepath); // Ensure the path is absolute
-  console.log(`Processing file: ${resolvedFilepath}`);
+  console.log(`Processing images in this file: ${resolvedFilepath}`);
 
   if (!fs.existsSync(resolvedFilepath)) {
     console.error(`File not found: ${resolvedFilepath}`);
@@ -74,11 +74,13 @@ const updateImages = async (filepath) => {
     fs.writeFileSync(resolvedFilepath, newContent);
     console.log(`Updated file: ${resolvedFilepath}`);
   } catch (err) {
-    console.error(`Error updating images for: ${resolvedFilepath}`, err);
+    console.error(`Error updating images for: ${resolvedFilepath}`);
   }
 };
 
-const filepath = process.argv[2] // run with this command: node docs-utils/update-images.js "{fullFilePath}"
-updateImages(filepath)
+if (require.main === module) {
+  const filepath = process.argv[2]; // run with this command: node docs-utils/update-images.js "{fullFilePath}"
+  updateImages(filepath);
+}
 
 module.exports = { updateImages };
